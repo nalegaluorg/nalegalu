@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 stycznia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 stycznia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-30 |
 | Data wydania | 2017-02-02 |
-| Wejście w życie | 2017-02-03 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/208/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 lipca 2015 r. w spr
 1)
 użyte w § 13, § 19 ust. 1, § 21 ust. 2–4, § 23 ust. 5 oraz w § 27 ust. 1 i 4 we wprowadzeniu do wyliczenia, w różnym przypadku, wyrazy „kierownik biura powiatowego” zastępuje się użytymi w odpowiednim przypadku wyrazami „dyrektor oddziału regionalnego”;
 2)
-§ 18 otrzymuje brzmienie:
-„
+§ 18 otrzymuje brzmienie: „
 § 18.
 1.
 Dyrektor oddziału regionalnego Agencji niezwłocznie po przyznaniu punktów, o których mowa w § 16 ust. 2, ustala:
@@ -47,29 +45,23 @@ który wniosek o przyznanie pomocy jako pierwszy uzyskał mniej niż 12 punktów
 2.
 Dyrektor oddziału regionalnego Agencji niezwłocznie po dokonaniu ustaleń, o których mowa w ust. 1, przekazuje informację w tym zakresie oraz każdą aktualizację tej informacji do Prezesa Agencji.
 3.
-Prezes Agencji niezwłocznie po otrzymaniu informacji, o których mowa w ust. 2, podaje do publicznej wiadomości na stronie internetowej administrowanej przez Agencję informację o kolejności przysługiwania pomocy w poszczególnych województwach.
-” ;
+Prezes Agencji niezwłocznie po otrzymaniu informacji, o których mowa w ust. 2, podaje do publicznej wiadomości na stronie internetowej administrowanej przez Agencję informację o kolejności przysługiwania pomocy w poszczególnych województwach. ” ;
 3)
-w § 23 ust. 2 otrzymuje brzmienie:
-„
+w § 23 ust. 2 otrzymuje brzmienie: „
 2.
-Wypłaty drugiej raty pomocy dokonuje się, jeżeli są spełnione warunki, o których mowa w § 22 pkt 4, oraz są spełniane warunki, o których mowa w § 22 pkt 1–3, 7 i 8, od dnia wypłaty pierwszej raty pomocy do dnia złożenia wniosku o płatność drugiej raty pomocy.
-” ;
+Wypłaty drugiej raty pomocy dokonuje się, jeżeli są spełnione warunki, o których mowa w § 22 pkt 4, oraz są spełniane warunki, o których mowa w § 22 pkt 1–3, 7 i 8, od dnia wypłaty pierwszej raty pomocy do dnia złożenia wniosku o płatność drugiej raty pomocy. ” ;
 4)
 w § 24:
 a)
-ust. 2 i 3 otrzymują brzmienie:
-„
+ust. 2 i 3 otrzymują brzmienie: „
 2.
 W przypadku niespełnienia warunków, o których mowa w § 22 pkt 4, lub niespełniania od dnia wypłaty pierwszej raty pomocy do dnia złożenia wniosku o płatność drugiej raty pomocy warunków, o których mowa w § 22 pkt 1–3, 7 i 8, lub nieprzedłożenia wniosku o płatność, o którym mowa w § 23 ust. 1, lub dokumentów, o których mowa w § 23 ust. 4, dyrektor oddziału regionalnego Agencji wydaje decyzję o odmowie wypłaty drugiej raty pomocy.
 3.
-W przypadku niespełnienia warunków, o których mowa w § 22 pkt 4, lub niespełniania od dnia wypłaty pierwszej raty pomocy do dnia złożenia wniosku o płatność drugiej raty pomocy warunków, o których mowa w § 22 pkt 1–3, 7 i 8, pierwsza rata pomocy podlega zwrotowi w całości lub części.
-” ,
+W przypadku niespełnienia warunków, o których mowa w § 22 pkt 4, lub niespełniania od dnia wypłaty pierwszej raty pomocy do dnia złożenia wniosku o płatność drugiej raty pomocy warunków, o których mowa w § 22 pkt 1–3, 7 i 8, pierwsza rata pomocy podlega zwrotowi w całości lub części. ” ,
 b)
 uchyla się ust. 4a;
 5)
 w § 25 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W terminie 90 dni przed dniem, w którym upływa 5 lat od dnia wypłaty pierwszej raty pomocy, beneficjent przedkłada dyrektorowi oddziału regionalnego Agencji informację o realizacji warunków, o których mowa w § 22 pkt 1–3, pkt 4 lit. d w zakresie utrzymania osiągniętego wzrostu wielkości ekonomicznej, oraz pkt 7 i 8, opracowaną na formularzu udostępnionym przez Agencję, zawierającą w szczególności wielkość ekonomiczną gospodarstwa. Do informacji tej beneficjent dołącza: ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

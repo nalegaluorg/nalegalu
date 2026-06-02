@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-06 |
 | Data wydania | 2013-09-23 |
-| Wejście w życie | 2013-10-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001120) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1120/text.pdf) |
 
@@ -41,7 +40,7 @@ wykaz bibliotek, których celem statutowym jest działanie na rzecz osób niewid
 2)
 wykaz organizacji osób niewidomych lub ociemniałych oraz organizacji, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych, o których mowa w art. 26 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, stanowiący załącznik nr 2 do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Polityki Społecznej i Ministra Kultury z dnia 15 czerwca 2004 r. w sprawie wykazu bibliotek i organizacji osób niewidomych lub ociemniałych oraz organizacji, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych (Dz. U. Nr 167, poz. 1753, z 2009 r. Nr 23, poz. 137 oraz z 2010 r. Nr 45, poz. 266), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Polityki Społecznej i Ministra Kultury z dnia 15 czerwca 2004 r. w sprawie wykazu bibliotek i organizacji osób niewidomych lub ociemniałych oraz organizacji, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych (Dz. U. Nr 167, poz. 1753, z 2009 r. Nr 23, poz. 137 oraz z 2010 r. Nr 45, poz. 266), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529).
 
 ## Załącznik nr 1 — – Wykaz bibliotek, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych, o których mowa w art. 26 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe
 

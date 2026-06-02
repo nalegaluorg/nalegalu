@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-22 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2025-07-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002482) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2482/text.pdf) |
 
@@ -51,8 +50,7 @@ Sposób obliczania wysokości opłaty za udostępnianie danych podmiotom, o któ
 a)
 1,0 do celów badawczych lub statystycznych,
 b)
-1,5 do celów badania opinii publicznej,
-A – opłata za prace informatyczne: A = 0,5 Ha x Z + 0,5 Hb x Z + 0,75 Hc x Z + 10 Hd x Z + He x Z, B – opłata za prace eksploatacyjne: B = 1,5 Hf x 10 Z + Hg x 10 Z + 1,5 Hh x 10 Z + 0,6 Hi x 10 Z + 0,5 Hj x 10 Z, M – koszt materiałów eksploatacyjnych doliczany w przypadku gdy przekroczy 5% wartości usługi, a poszczególne symbole oznaczają: H – liczbę godzin przeznaczonych na realizację zadania: Ha – czas trwania prac projektowych, Hb – czas opracowania dokumentacji programowej, Hc – czas trwania prac analitycznych, Hd – czas opracowania nowego programu, He – czas opracowania programu z gotowych modułów, Hf – czas wyboru podzbioru z bazy danych, Hg – czas przetwarzania wybranych danych, Hh – czas wykonania tablicy statystycznej, Hi – czas drukowania wykazów z wybranego podzbioru zawierającego poniżej 300 danych jednostkowych, Hj – czas drukowania wykazów z wybranego podzbioru zawierającego powyżej 300 danych jednostkowych, Z – opłatę za udostępnienie jednostkowych danych, o których mowa w § 1 pkt 1.
+1,5 do celów badania opinii publicznej, A – opłata za prace informatyczne: A = 0,5 Ha x Z + 0,5 Hb x Z + 0,75 Hc x Z + 10 Hd x Z + He x Z, B – opłata za prace eksploatacyjne: B = 1,5 Hf x 10 Z + Hg x 10 Z + 1,5 Hh x 10 Z + 0,6 Hi x 10 Z + 0,5 Hj x 10 Z, M – koszt materiałów eksploatacyjnych doliczany w przypadku gdy przekroczy 5% wartości usługi, a poszczególne symbole oznaczają: H – liczbę godzin przeznaczonych na realizację zadania: Ha – czas trwania prac projektowych, Hb – czas opracowania dokumentacji programowej, Hc – czas trwania prac analitycznych, Hd – czas opracowania nowego programu, He – czas opracowania programu z gotowych modułów, Hf – czas wyboru podzbioru z bazy danych, Hg – czas przetwarzania wybranych danych, Hh – czas wykonania tablicy statystycznej, Hi – czas drukowania wykazów z wybranego podzbioru zawierającego poniżej 300 danych jednostkowych, Hj – czas drukowania wykazów z wybranego podzbioru zawierającego powyżej 300 danych jednostkowych, Z – opłatę za udostępnienie jednostkowych danych, o których mowa w § 1 pkt 1.
 § 4.
 1.
 Opłatę, o której mowa w § 2 pkt 1, wnosi się przed złożeniem wniosku o udostępnienie danych.
@@ -77,5 +75,5 @@ Dowód uiszczenia opłaty, o której mowa w:
 2.
 Dowód uiszczenia opłaty może mieć postać wydruku lub pliku potwierdzającego dokonanie operacji bankowej, generowanego elektronicznie z systemu bankowego.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 12 września 2011 r. w sprawie opłat za udostępnienie danych z rejestrów mieszkańców, rejestrów zamieszkania cudzoziemców oraz rejestru PESEL (Dz. U. z 2015 r. poz. 1388), które na podstawie art. 4 ustawy z dnia 27 października 2017 r. o zmianie ustawy o ewidencji ludności (Dz. U. poz. 2286) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 12 września 2011 r. w sprawie opłat za udostępnienie danych z rejestrów mieszkańców, rejestrów zamieszkania cudzoziemców oraz rejestru PESEL (Dz. U. z 2015 r. poz. 1388), które na podstawie art. 4 ustawy z dnia 27 października 2017 r. o zmianie ustawy o ewidencji ludności (Dz. U. poz. 2286) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

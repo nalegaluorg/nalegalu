@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-14 |
 | Data wydania | 2018-03-14 |
-| Wejście w życie | 2018-03-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000547) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/547/text.pdf) |
 
@@ -43,5 +42,5 @@ za zaświadczenie z rejestru przedsiębiorców, rejestru stowarzyszeń, innych o
 6)
 za dokument złożony w postaci elektronicznej i kopię dokumentu złożonego w postaci papierowej z elektronicznego katalogu dokumentów spółek, wydane na wniosek o ich udostępnienie – 50 zł.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 15 marca 2018 r.
+Rozporządzenie wchodzi w życie z dniem 15 marca 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 19 grudnia 2006 r. w sprawie określenia wysokości opłat za udzielanie informacji, wydawanie odpisów, wyciągów i zaświadczeń z Krajowego Rejestru Sądowego oraz za udostępnianie kopii dokumentów z elektronicznego katalogu dokumentów spółek (Dz. U. poz. 1812), które traci moc z dniem 15 marca 2018 r. w związku z art. 1 pkt 5 lit. a ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 19 grudnia 2006 r. w sprawie określenia wysokości opłat za udzielanie informacji, wydawanie odpisów, wyciągów i zaświadczeń z Krajowego Rejestru Sądowego oraz za udostępnianie kopii dokumentów z elektronicznego katalogu dokumentów spółek (Dz. U. poz. 1812), które traci moc z dniem 15 marca 2018 r. w związku z art. 1 pkt 5 lit. a ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398).
 

@@ -22,19 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-25 |
 | Data wydania | 2024-10-16 |
-| Wejście w życie | 2024-10-31 |
 | Ostatnia zmiana | 2025-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001535) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1535/text.pdf) |
 
+Wysłuchanie publiczne oraz konsultacje społeczne”;
 2)
-po art. 9 dodaje się art. 9a-9d w brzmieniu:
-„
+po art. 9 dodaje się art. 9a-9d w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa (Dz. U. z 2017 r. poz. 248) wprowadza się następujące zmiany:
 
 - **1)** po art. 7 dodaje się oznaczenie i tytuł rozdziału w brzmieniu: „
 
-#### Rozdział 2a Wysłuchanie publiczne oraz konsultacje społeczne”;
+#### Rozdział 2a
 
 **Art. 9a.**
 
@@ -47,7 +46,7 @@ po art. 9 dodaje się art. 9a-9d w brzmieniu:
 1. W celu zapewnienia jawności procesu stanowienia prawa, w tym konsultacji społecznych, zgłoszone uwagi udostępnia się w trybie określonym w regulaminie Sejmu, z tym że dane obejmujące:
 
 - **1)** imię (imiona) oraz nazwisko osoby zgłaszającej uwagi,
-- **2)** imię (imiona) oraz nazwisko albo nazwę i siedzibę – w przypadku zgłoszenia uwag na rzecz innego podmiotu udostępnia się do zakończenia kadencji Sejmu, w której odbywają się prace nad projektem ustawy.
+- **2)** imię (imiona) oraz nazwisko albo nazwę i siedzibę – w przypadku zgłoszenia uwag na rzecz innego podmiotu – udostępnia się do zakończenia kadencji Sejmu, w której odbywają się prace nad projektem ustawy.
 
 2. Nie udostępnia się uwag, które zawierają treści niezgodne z prawem, w szczególności treści naruszające dobra osobiste, tajemnice prawnie chronione lub przepisy karne. Kancelaria Sejmu, w celu przeprowadzenia konsultacji społecznych oraz do celów statystycznych, przetwarza dane obejmujące:
 

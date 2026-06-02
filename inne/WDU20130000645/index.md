@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 maja 2013 r. o zmianie ustawy o pracownikach samorządowych oraz niektórych innych ustaw
+# Ustawa z dnia 10 maja 2013 r. o zmianie ustawy o pracownikach samorządowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa oraz ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-10 |
 | Data wydania | 2013-06-04 |
-| Wejście w życie | 2013-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000645) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/645/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 229, poz. 1494 oraz z 2011 r. Nr 134, poz. 777 i Nr 201, poz. 1183.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1 w pkt 1 po lit. d średnik zastępuje się przecinkiem i dodaje lit. e w brzmieniu: „ w urzędzie m.st. Warszawy: burmistrz dzielnicy m.st. Warszawy, zastępca burmistrza dzielnicy m.st. Warszawy i pozostali członkowie zarządu dzielnicy m.st. Warszawy; ” ;
     - **e)**
@@ -54,11 +53,11 @@ source: "eli-html"
 
 1. Wójtowi (burmistrzowi, prezydentowi miasta), burmistrzowi dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy i pozostałym członkom zarządu dzielnicy m.st. Warszawy, staroście, wicestaroście, członkom zarządu powiatu oraz marszałkowi, wicemarszałkowi i członkom zarządu województwa, których stosunek pracy został rozwiązany w związku z upływem kadencji, przysługuje odprawa w wysokości trzymiesięcznego wynagrodzenia obliczonego według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy. ” .
 
-**Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594) w art. 98a po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.). ” .
+**Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594) w art. 98a po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 229, poz. 1494, z 2011 r. Nr 134, poz. 777 i Nr 201, poz. 1183 oraz z 2013 r. poz. 645.). ” .
 
-**Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2013 r. poz. 596) w art. 86a po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.). ” .
+**Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2013 r. poz. 596) w art. 86a po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 229, poz. 1494, z 2011 r. Nr 134, poz. 777 i Nr 201, poz. 1183 oraz z 2013 r. poz. 645.). ” .
 
-**Art. 4.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2013 r. poz. 595) w art. 85a po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.). ” .
+**Art. 4.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2013 r. poz. 595) w art. 85a po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 229, poz. 1494, z 2011 r. Nr 134, poz. 777 i Nr 201, poz. 1183 oraz z 2013 r. poz. 645.). ” .
 
 **Art. 5.** Stosunki pracy burmistrza dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy oraz pozostałych członków zarządu dzielnicy m.st. Warszawy zatrudnionych na podstawie umowy o pracę przekształcają się w dniu wejścia w życie niniejszej ustawy w stosunki pracy na podstawie wyboru. Nabór kandydatów na wolne w dniu wejścia w życie niniejszej ustawy stanowisko sekretarza, przeprowadza się nie później niż w ciągu 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -68,5 +67,5 @@ source: "eli-html"
 
 2. Do spraw, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustaw, o których mowa w art. 2–4 niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie pierwszego dnia trzeciego miesiąca następującego po miesiącu ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie pierwszego dnia trzeciego miesiąca następującego po miesiącu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa oraz ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 229, poz. 1494 oraz z 2011 r. Nr 134, poz. 777 i Nr 201, poz. 1183. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 229, poz. 1494, z 2011 r. Nr 134, poz. 777 i Nr 201, poz. 1183 oraz z 2013 r. poz. 645. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 229, poz. 1494, z 2011 r. Nr 134, poz. 777 i Nr 201, poz. 1183 oraz z 2013 r. poz. 645. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 229, poz. 1494, z 2011 r. Nr 134, poz. 777 i Nr 201, poz. 1183 oraz z 2013 r. poz. 645.
 

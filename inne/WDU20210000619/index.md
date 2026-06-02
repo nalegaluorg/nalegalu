@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 lutego 2021 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw
+# Ustawa z dnia 25 lutego 2021 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych oraz ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-25 |
 | Data wydania | 2021-04-02 |
-| Wejście w życie | 2021-04-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000619) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/619/text.pdf) |
 
@@ -200,6 +199,6 @@ jednostkę samorządu terytorialnego właściwą do wydania zezwolenia, o który
 **Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
 - **1)** art. 3 pkt 2, który wchodzi w życie z dniem 1 września 2021 r.;
-- **2)** art. 1 pkt 2–4, art. 3 pkt 3 i pkt 5 lit. b oraz art. 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+- **2)** art. 1 pkt 2–4, art. 3 pkt 3 i pkt 5 lit. b oraz art. 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych oraz ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 

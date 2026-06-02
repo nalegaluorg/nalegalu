@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz niektórych innych ustaw
+# Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ustawę z dnia 6 sierpnia 2010 r. o dowodach osobistych oraz ustawę z dnia 24 września 2010 r. o ewidencji ludności.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-07 |
 | Data wydania | 2012-12-14 |
-| Wejście w życie | 2012-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001407) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1407/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777, z 2010 r. Nr 239, poz. 1539, z 2011 r. Nr 133, poz. 768 i Nr 204, poz. 1195 oraz z 2012 r. poz. 161 i 921.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
 
@@ -40,7 +39,7 @@ source: "eli-html"
 
 2. Osoba niepełnoletnia nieposiadająca dokumentu stwierdzającego tożsamość przedstawia odpis skrócony aktu urodzenia.
 
-3. Zameldowania się w miejscu pobytu stałego lub czasowego trwającego ponad 3 miesiące, wymeldowania się z miejsca pobytu stałego lub czasowego trwającego ponad 3 miesiące, zgłoszenia wyjazdu poza granice Rzeczypospolitej Polskiej oraz powrotu z wyjazdu poza granice Rzeczypospolitej Polskiej można dopełnić przez pełnomocnika, legitymującego się pełnomocnictwem udzielonym w formie, o której mowa w art. 33 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.), po okazaniu przez pełnomocnika do wglądu jego dowodu osobistego, a w uzasadnionych przypadkach – innego dokumentu pozwalającego na ustalenie tożsamości. ” ;
+3. Zameldowania się w miejscu pobytu stałego lub czasowego trwającego ponad 3 miesiące, wymeldowania się z miejsca pobytu stałego lub czasowego trwającego ponad 3 miesiące, zgłoszenia wyjazdu poza granice Rzeczypospolitej Polskiej oraz powrotu z wyjazdu poza granice Rzeczypospolitej Polskiej można dopełnić przez pełnomocnika, legitymującego się pełnomocnictwem udzielonym w formie, o której mowa w art. 33 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700, z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100 oraz z 2012 r. poz. 1101.), po okazaniu przez pełnomocnika do wglądu jego dowodu osobistego, a w uzasadnionych przypadkach – innego dokumentu pozwalającego na ustalenie tożsamości. ” ;
 
 - **3)** art. 10 otrzymuje brzmienie: „
 
@@ -50,8 +49,10 @@ source: "eli-html"
 
 2. Zameldowanie w lokalu służy wyłącznie celom ewidencyjnym i ma na celu potwierdzenie faktu pobytu w tym lokalu. ” ;
 
-- **4)** w art. 11: w ust. 1: – uchyla się pkt 12, – pkt 13 otrzymuje brzmienie: „ 13) adres dotychczasowego miejsca pobytu stałego; ” , – w pkt 15 średnik zastępuje się kropką i uchyla się pkt 16, ust. 2 otrzymuje brzmienie: „
+- **4)** w art. 11: w ust. 1: – uchyla się pkt 12, pkt 13 otrzymuje brzmienie: „
     - **a)**
+
+- **13)** adres dotychczasowego miejsca pobytu stałego; ” , – w pkt 15 średnik zastępuje się kropką i uchyla się pkt 16, ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Przy zameldowaniu na pobyt stały osoba zgłaszająca przedstawia potwierdzenie pobytu w lokalu, dokonane przez właściciela lub inny podmiot dysponujący tytułem prawnym do lokalu, oraz, do wglądu, dokument potwierdzający tytuł prawny do lokalu tego podmiotu. Potwierdzenia faktu pobytu osoby w lokalu dokonuje się na formularzu meldunkowym w formie czytelnego podpisu z oznaczeniem daty jego złożenia. Dokumentem potwierdzającym tytuł prawny do lokalu może być umowa cywilnoprawna, wypis z księgi wieczystej, decyzja administracyjna, orzeczenie sądu lub inny dokument poświadczający tytuł prawny do lokalu. ” ;
@@ -145,19 +146,19 @@ source: "eli-html"
 
 3. Przepisu ust. 2 nie stosuje się do cudzoziemca będącego członkiem rodziny obywatela państwa członkowskiego Unii Europejskiej, obywatela państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatela Konfederacji Szwajcarskiej.
 
-**Art. 56.** Orzekanie w sprawach o czyny, o których mowa w art. 55, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.). ” .
+**Art. 56.** Orzekanie w sprawach o czyny, o których mowa w art. 55, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466, z 2011 r. Nr 217, poz. 1280, Nr 240, poz. 1431 i Nr 244, poz. 1454 oraz z 2012 r. poz. 1101.). ” .
 
 **Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461 i 1101) wprowadza się następujące zmiany:
 
 - **1)** w art. 31 ust. 4 otrzymuje brzmienie: „
 
-4. Rejestrację prowadzi się na podstawie danych osobowych określonych w art. 44a ust. 2 pkt 1–6, 8–10 i 13–16 oraz w ust. 3 pkt 3 ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.), o których mowa w art. 49 ust. 2b pkt 1, uzyskanych z ewidencji ludności prowadzonej przez wójtów lub burmistrzów (prezydentów miast). ” ;
+4. Rejestrację prowadzi się na podstawie danych osobowych określonych w art. 44a ust. 2 pkt 1–6, 8–10 i 13–16 oraz w ust. 3 pkt 3 ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777, z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 133, poz. 768 i Nr 204, poz. 1195 oraz z 2012 r. poz. 161, 921 i 1407.), o których mowa w art. 49 ust. 2b pkt 1, uzyskanych z ewidencji ludności prowadzonej przez wójtów lub burmistrzów (prezydentów miast). ” ;
 
 - **2)** w art. 49 w ust. 2b pkt 1 otrzymuje brzmienie: „
 - **1)** ze zbioru danych osobowych PESEL – określone w art. 44a ust. 2 pkt 1–6, 8–10 i 13–16 oraz w ust. 3 pkt 3 ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych; ” ;
 - **3)** w art. 54 w ust. 1a w pkt 2 średnik zastępuje się kropką i uchyla się pkt 3.
 
-**Art. 3.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175, Nr 204, poz. 1195 i Nr 232, poz. 1378 oraz z 2012 r. poz. 855 i 1166.) wprowadza się następujące zmiany:
 
 - **1)** w art. 26 ust. 4 otrzymuje brzmienie: „
 
@@ -186,8 +187,11 @@ source: "eli-html"
 - **6)** w art. 12 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W dowodzie osobistym zamieszcza się: ” ;
 - **7)** uchyla się art. 13–19, art. 21 i art. 22;
 - **8)** uchyla się rozdział 4;
-- **9)** w art. 46: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) zmiany danych zawartych w dowodzie osobistym, z wyjątkiem zmiany nazwy organu wydającego; ” , – pkt 4 otrzymuje brzmienie: „ 4) utraty lub uszkodzenia dowodu osobistego w stopniu utrudniającym lub uniemożliwiającym identyfikację jego posiadacza; ” , – w pkt 5 średnik zastępuje się kropką i uchyla się pkt 6 i 7, w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **9)** w art. 46: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** zmiany danych zawartych w dowodzie osobistym, z wyjątkiem zmiany nazwy organu wydającego; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** utraty lub uszkodzenia dowodu osobistego w stopniu utrudniającym lub uniemożliwiającym identyfikację jego posiadacza; ” , – w pkt 5 średnik zastępuje się kropką i uchyla się pkt 6 i 7, w ust. 2 pkt 2 otrzymuje brzmienie: „
     - **b)**
 
 - **2)** niezwłocznie – w przypadkach, o których mowa w ust. 1 pkt 2–4. ” , uchyla się ust. 3;
@@ -231,7 +235,7 @@ source: "eli-html"
 
 **Art. 93.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r. ” .
 
-**Art. 5.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 133, poz. 768, Nr 204, poz. 1195 i Nr 288, poz. 1689 oraz z 2012 r. poz. 921.) wprowadza się następujące zmiany:
 
 - **1)** użyte w art. 7 w ust. 1 w pkt 3 w lit. d oraz w art. 43 w ust. 1 i 3 wyrazy „Wspólnot Europejskich” zastępuje się wyrazami „Unii Europejskiej”;
 - **2)** w art. 10 w ust. 1 pkt 1 otrzymuje brzmienie: „
@@ -247,7 +251,7 @@ source: "eli-html"
 - **5)** uchyla się art. 62a;
 - **6)** art. 69 otrzymuje brzmienie: „
 
-**Art. 69.** Postępowania administracyjne wszczęte na podstawie ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.) i niezakończone przed dniem wejścia w życie niniejszej ustawy, w sprawach indywidualnych o:
+**Art. 69.** Postępowania administracyjne wszczęte na podstawie ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777, z 2010 r. Nr 239, poz. 1539, z 2011 r. Nr 133, poz. 768 i Nr 204, poz. 1195 oraz z 2012 r. poz. 161, 921 i 1407.) i niezakończone przed dniem wejścia w życie niniejszej ustawy, w sprawach indywidualnych o:
 
 - **1)** zameldowanie, uchylenie czynności materialno-technicznej zameldowania oraz wymeldowanie, udostępnienie danych ze zbioru PESEL i gminnych zbiorów meldunkowych – prowadzi się na podstawie niniejszej ustawy;
 - **2)** udostępnienie danych z wojewódzkich zbiorów meldunkowych – umarza się. ” ;
@@ -267,5 +271,5 @@ source: "eli-html"
 
 **Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 51 ust. 1 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 51 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 3 miesiące od dnia wejścia w życie ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 31 grudnia 2012 r., z wyjątkiem art. 1 pkt 23, który wchodzi w życie z dniem 1 stycznia 2013 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem 31 grudnia 2012 r., z wyjątkiem art. 1 pkt 23, który wchodzi w życie z dniem 1 stycznia 2013 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ustawę z dnia 6 sierpnia 2010 r. o dowodach osobistych oraz ustawę z dnia 24 września 2010 r. o ewidencji ludności. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777, z 2010 r. Nr 239, poz. 1539, z 2011 r. Nr 133, poz. 768 i Nr 204, poz. 1195 oraz z 2012 r. poz. 161 i 921. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700, z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100 oraz z 2012 r. poz. 1101. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466, z 2011 r. Nr 217, poz. 1280, Nr 240, poz. 1431 i Nr 244, poz. 1454 oraz z 2012 r. poz. 1101. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777, z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 133, poz. 768 i Nr 204, poz. 1195 oraz z 2012 r. poz. 161, 921 i 1407. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175, Nr 204, poz. 1195 i Nr 232, poz. 1378 oraz z 2012 r. poz. 855 i 1166. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 133, poz. 768, Nr 204, poz. 1195 i Nr 288, poz. 1689 oraz z 2012 r. poz. 921. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 195, poz. 1198 i Nr 220, poz. 1414, z 2009 r. Nr 22, poz. 120, Nr 39, poz. 306, Nr 69, poz. 595 i Nr 223, poz. 1777, z 2010 r. Nr 239, poz. 1539, z 2011 r. Nr 133, poz. 768 i Nr 204, poz. 1195 oraz z 2012 r. poz. 161, 921 i 1407.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 27 czerwca 2024 r. w sprawie kaucji gwarancyjnej składanej przez operatorów platform
+# Rozporządzenie Ministra Finansówz dnia 27 czerwca 2024 r. w sprawie kaucji gwarancyjnej składanej przez operatorów platform Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-27 |
 | Data wydania | 2024-06-28 |
-| Wejście w życie | 2024-07-01 |
 | Ostatnia zmiana | 2024-07-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000958) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/958/text.pdf) |
 
@@ -37,8 +36,7 @@ na rachunek urzędu obsługującego:
 a)
 Szefa Krajowej Administracji Skarbowej albo
 b)
-inny organ Krajowej Administracji Skarbowej upoważniony na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) – w przypadku upoważnienia tego organu do wykonywania zadań związanych z przyjmowaniem kaucji gwarancyjnej
-zwanego dalej „jednostką KAS”, w przypadku gdy kaucja gwarancyjna jest składana w formie depozytu pieniężnego;
+inny organ Krajowej Administracji Skarbowej upoważniony na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879.) – w przypadku upoważnienia tego organu do wykonywania zadań związanych z przyjmowaniem kaucji gwarancyjnej – zwanego dalej „jednostką KAS”, w przypadku gdy kaucja gwarancyjna jest składana w formie depozytu pieniężnego;
 2)
 w jednostce KAS, w postaci dokumentu poświadczającego udzielenie gwarancji bankowych – w przypadku gdy kaucja gwarancyjna jest składana w formie gwarancji bankowych;
 3)
@@ -46,8 +44,7 @@ w jednostce KAS, w postaci imiennego świadectwa depozytowego wydanego przez ban
 a)
 Szefa Krajowej Administracji Skarbowej albo
 b)
-innego organu Krajowej Administracji Skarbowej upoważnionego na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej – w przypadku upoważnienia tego organu do wykonywania zadań związanych z przyjmowaniem kaucji gwarancyjnej
-w przypadku gdy kaucja gwarancyjna jest składana w formie obligacji Skarbu Państwa co najmniej o trzyletnim terminie wykupu.
+innego organu Krajowej Administracji Skarbowej upoważnionego na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej – w przypadku upoważnienia tego organu do wykonywania zadań związanych z przyjmowaniem kaucji gwarancyjnej – w przypadku gdy kaucja gwarancyjna jest składana w formie obligacji Skarbu Państwa co najmniej o trzyletnim terminie wykupu.
 § 3.
 Organ, który przyjmuje kaucję gwarancyjną, wydaje składającemu tę kaucję na piśmie potwierdzenie jej przyjęcia, przy czym w przypadku kaucji gwarancyjnej składanej w formie depozytu pieniężnego potwierdzenie jest wydawane po przedstawieniu polecenia przelewu depozytu pieniężnego na rachunek jednostki KAS i po otrzymaniu dowodu potwierdzającego wpływ depozytu na ten rachunek.
 § 4.
@@ -62,6 +59,5 @@ przez zwrot dokumentu poświadczającego udzielenie gwarancji bankowych, za pokw
 3)
 przez udzielenie zgody na odblokowanie obligacji przez organ, który przyjął kaucję gwarancyjną – w przypadku kaucji gwarancyjnej złożonej w formie obligacji Skarbu Państwa co najmniej o trzyletnim terminie wykupu.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2024 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879.
 

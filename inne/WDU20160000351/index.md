@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-02-26 |
 | Data wydania | 2016-03-15 |
-| Wejście w życie | 2016-03-23 |
 | Ostatnia zmiana | 2025-12-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000351) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/351/text.pdf) |
 
@@ -41,8 +40,7 @@ konflikcie zbrojnym lub dla wzmocnienia sił państwa albo państw sojuszniczych
 2)
 misji pokojowej,
 3)
-akcji zapobieżenia aktom terroryzmu lub ich skutkom
-przez cały czas pełnienia służby poza granicami państwa otrzymują uposażenie oraz inne należności pieniężne, przysługujące im z tytułu pełnienia czynnej służby wojskowej w kraju, z uwzględnieniem powstałych w tym czasie zmian mających wpływ na prawo do uposażenia lub jego wysokość.
+akcji zapobieżenia aktom terroryzmu lub ich skutkom – przez cały czas pełnienia służby poza granicami państwa otrzymują uposażenie oraz inne należności pieniężne, przysługujące im z tytułu pełnienia czynnej służby wojskowej w kraju, z uwzględnieniem powstałych w tym czasie zmian mających wpływ na prawo do uposażenia lub jego wysokość.
 § 3.
 Żołnierzom, o których mowa w § 2, przysługują także:
 1)
@@ -55,7 +53,7 @@ dodatek wojenny;
 zwrot kosztów podróży służbowych.
 § 4.
 1.
-Jednorazowa należność pieniężna przeznaczona jest na zakup indywidualnego sprzętu i wyposażenia wojskowego i przysługuje w wysokości odpowiadającej kwocie najniższego uposażenia zasadniczego żołnierza zawodowego, określonej w przepisach wydanych na podstawie art. 78 ust. 5 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2014 r. poz. 1414, z późn. zm.), zwanego dalej „najniższym uposażeniem”.
+Jednorazowa należność pieniężna przeznaczona jest na zakup indywidualnego sprzętu i wyposażenia wojskowego i przysługuje w wysokości odpowiadającej kwocie najniższego uposażenia zasadniczego żołnierza zawodowego, określonej w przepisach wydanych na podstawie art. 78 ust. 5 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2014 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1268 i 1830 oraz z 2016 r. poz. 178 i 308.), zwanego dalej „najniższym uposażeniem”.
 2.
 Jednorazową należność pieniężną wypłaca się po wydaniu dokumentu o wyznaczeniu żołnierza do pełnienia służby poza granicami państwa, nie częściej jednak niż raz w roku kalendarzowym.
 § 5.
@@ -148,7 +146,7 @@ Dodatki, o których mowa w § 5 i § 6, są wypłacane na wniosek żołnierza:
 1)
 w złotych – na wskazany rachunek bankowy w kraju, albo
 2)
-w walucie dodatku zagranicznego bazowego ustalonego dla państwa, w którym żołnierz pełni służbę, zgodnie z przepisami wydanymi na podstawie art. 30 ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. poz. 1403, z późn. zm.), zwanego dalej „kwotą bazową”, lub w walucie tego państwa – gotówką, w miejscu pełnienia służby poza granicami państwa.
+w walucie dodatku zagranicznego bazowego ustalonego dla państwa, w którym żołnierz pełni służbę, zgodnie z przepisami wydanymi na podstawie art. 30 ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. poz. 1403, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 2703, z 2006 r. poz. 1217, 1218 i 1600, z 2008 r. poz. 1505, z 2009 r. poz. 1277, z 2015 r. poz. 1220 i 1274 oraz z 2016 r. poz. 34.), zwanego dalej „kwotą bazową”, lub w walucie tego państwa – gotówką, w miejscu pełnienia służby poza granicami państwa.
 3.
 W przypadku gdy dodatki są wypłacane w walucie kwoty bazowej lub w walucie państwa, w którym żołnierz pełni służbę, wysokość dodatków ustala się według średniego kursu tej waluty w Narodowym Banku Polskim, obowiązującego w pierwszym dniu roboczym miesiąca kalendarzowego, za który dodatki te przysługują.
 4.
@@ -161,10 +159,9 @@ szkoleniach i ćwiczeniach wojskowych,
 2)
 akcjach ratowniczych, poszukiwawczych lub humanitarnych,
 3)
-przedsięwzięciach reprezentacyjnych
-przez cały czas pełnienia służby poza granicami państwa otrzymują uposażenie oraz inne należności pieniężne przysługujące z tytułu pełnienia czynnej służby wojskowej w kraju, z uwzględnieniem powstałych w tym czasie zmian mających wpływ na prawo do uposażenia lub jego wysokość.
+przedsięwzięciach reprezentacyjnych – przez cały czas pełnienia służby poza granicami państwa otrzymują uposażenie oraz inne należności pieniężne przysługujące z tytułu pełnienia czynnej służby wojskowej w kraju, z uwzględnieniem powstałych w tym czasie zmian mających wpływ na prawo do uposażenia lub jego wysokość.
 2.
-Żołnierze, o których mowa w ust. 1, otrzymują za każdy dzień wykonywania zadań służbowych poza granicami państwa dodatek zagraniczny w wysokości 25% diety ustalonej dla docelowego państwa pobytu, o której mowa w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.), z tym że w przypadku żołnierzy wykonujących zadania na jednostkach pływających Marynarki Wojennej dodatki te przysługują wyłącznie za czas pobytu w porcie zagranicznym.
+Żołnierze, o których mowa w ust. 1, otrzymują za każdy dzień wykonywania zadań służbowych poza granicami państwa dodatek zagraniczny w wysokości 25% diety ustalonej dla docelowego państwa pobytu, o której mowa w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735.), z tym że w przypadku żołnierzy wykonujących zadania na jednostkach pływających Marynarki Wojennej dodatki te przysługują wyłącznie za czas pobytu w porcie zagranicznym.
 3.
 Do wypłaty dodatku zagranicznego, o którym mowa w ust. 2, przepisy § 7 stosuje się odpowiednio.
 § 9.
@@ -181,8 +178,7 @@ noclegów lub ryczałt za nocleg,
 c)
 dojazdu środkami komunikacji miejscowej w formie ryczałtu,
 3)
-zwrot innych niezbędnych i udokumentowanych wydatków poniesionych w związku z podróżą służbową
-w wysokości określonej zgodnie z przepisami wydanymi na podstawie art. 6 ust. 2 ustawy z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych (Dz. U. z 2013 r. poz. 1211, z 2014 r. poz. 773 oraz z 2015 r. poz. 1830).
+zwrot innych niezbędnych i udokumentowanych wydatków poniesionych w związku z podróżą służbową – w wysokości określonej zgodnie z przepisami wydanymi na podstawie art. 6 ust. 2 ustawy z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych (Dz. U. z 2013 r. poz. 1211, z 2014 r. poz. 773 oraz z 2015 r. poz. 1830).
 2.
 W przypadku odbywania podróży służbowych trwających dłużej niż 12 godzin dieta wynosi 25% stawki diety ustalonej dla państwa, w którym żołnierz pełni służbę poza granicami państwa; jeżeli podróż trwa krócej niż 12 godzin, dieta nie przysługuje.
 3.
@@ -194,8 +190,7 @@ Przepis § 9 stosuje się odpowiednio do podróży odbywanej w okresie:
 1)
 od dnia wyjazdu z kraju lub wyjścia jednostki poza granice polskich wód terytorialnych do dnia przybycia do rejonu działania jednostki wojskowej lub miejsca wykonywania zadań służbowych poza granicami państwa,
 2)
-od dnia opuszczenia tego rejonu lub miejsca wykonywania zadań służbowych poza granicami państwa do dnia powrotu do kraju lub wejścia jednostki pływającej w obszar polskich wód terytorialnych
-jeżeli czas przejazdu lub przejścia jednostki pływającej trwa dłużej niż jeden dzień.
+od dnia opuszczenia tego rejonu lub miejsca wykonywania zadań służbowych poza granicami państwa do dnia powrotu do kraju lub wejścia jednostki pływającej w obszar polskich wód terytorialnych – jeżeli czas przejazdu lub przejścia jednostki pływającej trwa dłużej niż jeden dzień.
 § 11.
 1.
 Pracownicy zatrudnieni w jednostkach wojskowych, o których mowa w § 2, otrzymują:
@@ -278,8 +273,7 @@ Przepisy niniejszego rozporządzenia stosuje się do określenia:
 1)
 uposażenia oraz innych należności pieniężnych przysługujących żołnierzom niezawodowym wyznaczonym do pełnienia służby poza granicami państwa,
 2)
-wynagrodzenia i innych należności pieniężnych oraz świadczeń otrzymywanych przez pracowników wojska zatrudnionych w jednostkach wojskowych wykonujących zadania poza granicami państwa
-od dnia 2 lutego 2016 r.
+wynagrodzenia i innych należności pieniężnych oraz świadczeń otrzymywanych przez pracowników wojska zatrudnionych w jednostkach wojskowych wykonujących zadania poza granicami państwa – od dnia 2 lutego 2016 r.
 § 21.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 grudnia 1999 r. w sprawie należności pieniężnych i świadczeń otrzymywanych przez żołnierzy wyznaczonych do pełnienia służby poza granicami państwa i pracowników wojska zatrudnionych w jednostkach wojskowych wykonujących zadania poza granicami państwa (Dz. U. poz. 1257, z 2002 r. poz. 282, z 2003 r. poz. 1977, z 2004 r. poz. 2068 i 2848 oraz z 2007 r. poz. 259), które utraciło moc na podstawie art. 12 pkt 3 ustawy z dnia 24 kwietnia 2014 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 773). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1268 i 1830 oraz z 2016 r. poz. 178 i 308. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 2703, z 2006 r. poz. 1217, 1218 i 1600, z 2008 r. poz. 1505, z 2009 r. poz. 1277, z 2015 r. poz. 1220 i 1274 oraz z 2016 r. poz. 34. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 grudnia 1999 r. w sprawie należności pieniężnych i świadczeń otrzymywanych przez żołnierzy wyznaczonych do pełnienia służby poza granicami państwa i pracowników wojska zatrudnionych w jednostkach wojskowych wykonujących zadania poza granicami państwa (Dz. U. poz. 1257, z 2002 r. poz. 282, z 2003 r. poz. 1977, z 2004 r. poz. 2068 i 2848 oraz z 2007 r. poz. 259), które utraciło moc na podstawie art. 12 pkt 3 ustawy z dnia 24 kwietnia 2014 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 773).
 

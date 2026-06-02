@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 6 sierpnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 6 sierpnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -31,15 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 28 listopada 2001 r. w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. z 2019 r. poz. 2030), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 2 lipca 2020 r. zmieniającym rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. poz. 1201).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 2 lipca 2020 r. zmieniającego rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. poz. 1201), które stanową:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 2 lipca 2020 r. zmieniającego rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. poz. 1201), które stanową: „
 § 2.
 Komitet Standardów Rachunkowości dostosuje, w formie uchwały podjętej w trybie obiegowym, wewnętrzny regulamin działania do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia i przedłoży go ministrowi właściwemu do spraw finansów publicznych do zatwierdzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 28 listopada 2001 r. w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 28 listopada 2001 r. w sprawie zakresu działania i sposobu organizacji Komitetu Standardów RachunkowościObecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 Na podstawie art. 81 ust. 2 pkt 9 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -112,7 +109,7 @@ W przypadku wygaśnięcia członkostwa lub odwołania członka przed upływem ka
 § 5.
 1.
 Przewodniczącego Komitetu, zwanego dalej „Przewodniczącym”, i zastępcę Przewodniczącego wyznacza minister właściwy do spraw finansów publicznych spośród członków, o których mowa w § 3 ust. 3 pkt 1.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 2 lipca 2020 r. zmieniającego rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. poz. 1201), które weszło w życie z dniem 7 lipca 2020 r..
 Posiedzenia Komitetu zwołuje i prowadzi Przewodniczący. Przewodniczący może zarządzić rozpatrywanie spraw należących do właściwości Komitetu:
 1)
 w trybie korespondencyjnego uzgadniania stanowisk (tryb obiegowy);
@@ -139,17 +136,16 @@ przekazywać projekty standardów do szerokiej konsultacji, także poprzez publi
 występować do ministra właściwego do spraw finansów publicznych o delegowanie członka Komitetu do udziału w zagranicznych konferencjach i seminariach dotyczących standaryzacji rachunkowości, na zasadach określonych dla pracowników Ministerstwa Finansów.
 2.
 W zakresie swego działania Komitet podejmuje decyzje w formie uchwał zwykłą większością głosów; w razie równej liczby głosów decyduje głos Przewodniczącego, z zastrzeżeniem ust. 3.
-2a.
+2aDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Uchwały są podejmowane na posiedzeniach albo w trybie obiegowym.
-2b.
+2bDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Uchwały podpisuje Przewodniczący. W czasie nieobecności Przewodniczącego uchwały podpisuje zastępca Przewodniczącego.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Do ważności uchwał Komitetu wymagane jest zawiadomienie o posiedzeniu wszystkich członków Komitetu oraz obecność na posiedzeniu co najmniej 10 członków Komitetu, a w przypadku uchwał podejmowanych w trybie obiegowym – zawiadomienie wszystkich członków Komitetu o treści projektu uchwały, terminie i sposobie oddania głosu oraz udział w głosowaniu co najmniej 10 członków Komitetu. Standard uważa się za przyjęty, jeżeli za jego przyjęciem głosowało co najmniej 10 członków Komitetu.
 4.
 Komitet przedstawia sprawozdanie z rocznej działalności ministrowi właściwemu do spraw finansów publicznych w terminie do dnia 30 kwietnia następnego roku.
 § 7.
 Komitet na pierwszym posiedzeniu przyjmuje wewnętrzny regulamin działania, który podlega zatwierdzeniu przez ministra właściwego do spraw finansów publicznych.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2002 r.
-1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 2 lipca 2020 r. zmieniającego rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. poz. 1201), które weszło w życie z dniem 7 lipca 2020 r. 3) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2002 r. 1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 2 lipca 2020 r. zmieniającego rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. poz. 1201), które weszło w życie z dniem 7 lipca 2020 r. 3) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 

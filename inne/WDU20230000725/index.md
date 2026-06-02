@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000725) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/725/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego Rozdział 1 – Przepisy ogólne Rozdział 2 – Prawa i obowiązki właścicieli i lokatorów Rozdział 2a – Najem okazjonalny lokalu Rozdział 2b – Najem instytucjonalny lokalu Rozdział 3 – Mieszkaniowy zasób gminy Rozdział 4 – Najem socjalny lokalu Rozdział 4a – Tymczasowe pomieszczenia Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2022 r. poz. 172), z uwzględnieniem zmian wprowadzonych:
@@ -35,13 +35,14 @@ ustawą z dnia 24 marca 2022 r. o zmianie ustawy o ochronie praw lokatorów, mie
 2)
 ustawą z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561),
 3)
-ustawą z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 marca 2023 r.
+ustawą z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 marca 2023 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 3 ustawy z dnia 24 marca 2022 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 975), który stanowi:
-„
+art. 3 ustawy z dnia 24 marca 2022 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 975), który stanowi: „
+Przepisy ogólne
+Prawa i obowiązki właścicieli i lokatorów
+Najem okazjonalny lokalu
 1.
 Umową najmu okazjonalnego lokalu jest umowa najmu lokalu mieszkalnego, którego właściciel, będący osobą fizyczną, nie prowadzi działalności gospodarczej w zakresie wynajmowania lokali, zawarta na czas oznaczony, nie dłuższy niż 10 lat.
 1a.
@@ -97,11 +98,12 @@ potwierdzenie zgłoszenia, o którym mowa w art. 19b ust. 1.
 5.
 W przypadku niedopełnienia obowiązku, o którym mowa w art. 19a ust. 3, właściciel lokalu może wypowiedzieć na piśmie umowę najmu okazjonalnego lokalu, z zachowaniem co najmniej siedmiodniowego okresu wypowiedzenia.
 Do najmu okazjonalnego lokalu przepisów ustawy nie stosuje się, z wyjątkiem art. 2, art. 6 ust. 3, art. 10 ust. 1–3, art. 11 ust. 2 pkt 1–3, art. 13, art. 18 ust. 1 i 2, art. 19a-19d oraz art. 25d pkt 2, z zastrzeżeniem że właściciel dokonał zgłoszenia, o którym mowa w art. 19b ust. 1.
+Najem instytucjonalny lokalu
 1.
 Umową najmu instytucjonalnego lokalu jest umowa najmu lokalu mieszkalnego zawierana przez osobę fizyczną, osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, prowadzącą działalność gospodarczą w zakresie wynajmowania lokali.
 2.
 Umowa najmu instytucjonalnego lokalu zawierana jest na czas oznaczony. Przepisu art. 661 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny nie stosuje się.
-3.
+3Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r..
 Do umowy najmu instytucjonalnego lokalu załącza się oświadczenie najemcy w formie aktu notarialnego, w którym najemca poddał się egzekucji i zobowiązał się do opróżnienia i wydania lokalu używanego na podstawie umowy najmu instytucjonalnego lokalu w terminie wskazanym w żądaniu, o którym mowa w art. 19i ust. 2, oraz przyjął do wiadomości, że w razie konieczności wykonania powyższego zobowiązania prawo do najmu socjalnego lokalu ani pomieszczenia tymczasowego nie przysługuje.
 4.
 Zawarcie umowy najmu instytucjonalnego lokalu może być uzależnione od wpłacenia przez najemcę kaucji zabezpieczającej pokrycie należności z tytułu najmu instytucjonalnego lokalu przysługujących właścicielowi oraz ewentualnych kosztów egzekucji obowiązku opróżnienia lokalu.
@@ -148,7 +150,7 @@ Do najmu instytucjonalnego lokalu stosuje się przepisy art. 2, art. 6 ust. 3, a
 Umową najmu instytucjonalnego z dojściem do własności jest umowa najmu lokalu mieszkalnego, dla którego została założona księga wieczysta, zawierana przez osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą w zakresie wynajmowania lokali, będącą właścicielem lokalu mieszkalnego, zawierająca zobowiązanie najemcy do nabycia lokalu mieszkalnego będącego przedmiotem tej umowy oraz zobowiązanie wynajmującego do przeniesienia na najemcę prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu najpóźniej w dniu zakończenia umowy najmu po zapłacie ceny za lokal.
 2.
 Umowa najmu instytucjonalnego z dojściem do własności zawierana jest na czas oznaczony. Przepisu art. 661 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny nie stosuje się.
-3.
+3Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r..
 Umowa najmu instytucjonalnego z dojściem do własności zawierana jest w formie aktu notarialnego. Umowa zawiera w swej treści oświadczenie najemcy, w którym najemca poddał się egzekucji i zobowiązał się do opróżnienia i wydania lokalu używanego na podstawie umowy najmu instytucjonalnego z dojściem do własności w terminie wskazanym w żądaniu, o którym mowa w art. 19i ust. 2, oraz przyjął do wiadomości, że w razie konieczności wykonania powyższego zobowiązania prawo do najmu socjalnego lokalu ani pomieszczenia tymczasowego nie przysługuje.
 4.
 Zawarcie umowy najmu instytucjonalnego z dojściem do własności może być uzależnione od wpłacenia przez najemcę kaucji zabezpieczającej pokrycie należności z tytułu umowy najmu instytucjonalnego z dojściem do własności przysługujących wynajmującemu oraz ewentualnych kosztów egzekucji obowiązku opróżnienia lokalu.
@@ -203,7 +205,7 @@ termin zawarcia umowy przeniesienia prawa własności lokalu mieszkalnego wraz z
 oświadczenie właściciela o ustanowieniu hipoteki na pozycji pierwszej na zabezpieczenie roszczenia najemcy o zwrot zapłaconej ceny na wypadek niewykonania umowy wraz z wnioskiem o wpis tej hipoteki do księgi wieczystej prowadzonej dla lokalu mieszkalnego;
 10)
 zgodę wierzyciela zabezpieczonego hipoteką na bezobciążeniowe przeniesienie prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu po wpłacie całej ceny sprzedaży przez najemcę, jeżeli takie obciążenie hipoteczne istnieje;
-11)
+11Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r.)
 oświadczenie najemcy, w którym najemca poddał się egzekucji i zobowiązał się do opróżnienia i wydania lokalu używanego na podstawie umowy najmu instytucjonalnego z dojściem do własności w terminie wskazanym w żądaniu, o którym mowa w art. 19i ust. 2, oraz przyjął do wiadomości, że w razie konieczności wykonania powyższego zobowiązania prawo do najmu socjalnego lokalu ani pomieszczenia tymczasowego nie przysługuje.
 1.
 Właściciel zawiera umowę przeniesienia prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu w terminie określonym w umowie najmu instytucjonalnego z dojściem do własności, najpóźniej w dniu zakończenia tej umowy.
@@ -222,8 +224,7 @@ Najemca może wypowiedzieć umowę najmu instytucjonalnego z dojściem do własn
 1)
 wady lokalu uniemożliwiają korzystanie z lokalu zgodnie z jego przeznaczeniem, zagrażają życiu lub zdrowiu najemcy lub jego domowników,
 2)
-wynajmujący uniemożliwia mu korzystanie z lokalu zgodnie z jego przeznaczeniem
-po uprzednim pisemnym wezwaniu wynajmującego i wyznaczeniu mu co najmniej 30-dniowego terminu na usunięcie tych wad lub zaniechania uniemożliwiania korzystania z lokalu zgodnie z jego przeznaczeniem i bezskutecznym upływie tego terminu.
+wynajmujący uniemożliwia mu korzystanie z lokalu zgodnie z jego przeznaczeniem – po uprzednim pisemnym wezwaniu wynajmującego i wyznaczeniu mu co najmniej 30-dniowego terminu na usunięcie tych wad lub zaniechania uniemożliwiania korzystania z lokalu zgodnie z jego przeznaczeniem i bezskutecznym upływie tego terminu.
 Najemca może wypowiedzieć umowę najmu instytucjonalnego z dojściem do własności z zachowaniem sześciomiesięcznego terminu wypowiedzenia z ważnych przyczyn związanych ze zmianą sytuacji życiowej.
 1.
 W przypadku rozwiązania lub wygaśnięcia umowy najmu instytucjonalnego z dojściem do własności i opróżnienia lokalu mieszkalnego wynajmujący zwraca najemcy lub jego spadkobiercom kwotę wpłaconej przez najemcę części ceny sprzedaży lokalu mieszkalnego, po potrąceniu zaległych kwot czynszu i innych opłat wynikających z umowy, związanych z korzystaniem z lokalu.
@@ -239,6 +240,9 @@ Sprzedaż lokalu mieszkalnego objętego umową najmu instytucjonalnego z dojści
 3.
 Przepisów ust. 1 i 2 nie stosuje się w przypadku rozwiązania lub wygaśnięcia umowy najmu instytucjonalnego z dojściem do własności w trakcie trwania postępowania upadłościowego.
 Do umowy najmu instytucjonalnego z dojściem do własności stosuje się przepisy art. 2, art. 6 ust. 3, art. 10 ust. 1–3, art. 18 ust. 1 i 2, art. 19h ust. 2, art. 19i oraz art. 25d pkt 5.
+Mieszkaniowy zasób gminy
+Najem socjalny lokalu
+Tymczasowe pomieszczenia
 Gmina tworzy zasób tymczasowych pomieszczeń, które przeznacza się na wynajem.
 Umowę najmu tymczasowego pomieszczenia zawiera się na czas oznaczony, nie krótszy niż miesiąc i nie dłuższy niż 6 miesięcy.
 Umowę najmu tymczasowego pomieszczenia zawiera się z osobą, wobec której wszczęto egzekucję na podstawie tytułu wykonawczego, w którym orzeczono obowiązek opróżnienia lokalu służącego zaspokojeniu potrzeb mieszkaniowych, bez prawa do najmu socjalnego lokalu lub lokalu zamiennego, z uwzględnieniem art. 25d.
@@ -254,6 +258,23 @@ dłużnik został zobowiązany do opróżnienia lokalu zajmowanego na podstawie 
 5)
 dłużnik został zobowiązany do opróżnienia lokalu zajmowanego na podstawie umowy najmu instytucjonalnego z dojściem do własności.
 Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art. 10 ust. 1–3, art. 11 ust. 2 pkt 1–3, art. 13, art. 18, art. 20 ust. 2a i 2b, art. 21, art. 23 ust. 3 i 4 oraz art. 25.
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Prawa i obowiązki właścicieli i lokatorów
+
+#### Rozdział 2a – Najem okazjonalny lokalu
+
+#### Rozdział 2b – Najem instytucjonalny lokalu
+
+#### Rozdział 3 – Mieszkaniowy zasób gminy
+
+#### Rozdział 4 – Najem socjalny lokalu
+
+#### Rozdział 4a – Tymczasowe pomieszczenia
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2022 r., z wyjątkiem art. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 
@@ -273,7 +294,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 - **2)** art. 5 pkt 2, pkt 6 lit. a, pkt 8, pkt 9, pkt 10 lit. a, pkt 12, pkt 15–17 i pkt 20, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
 - **3)** art. 5 pkt 5 i pkt 11 lit. a oraz art. 8, które wchodzą w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje zasady i formy ochrony praw lokatorów oraz zasady gospodarowania mieszkaniowym zasobem gminy. Przepisów ustawy nie stosuje się do lokali będących w dyspozycji Agencji Mienia Wojskowego.
 
@@ -297,8 +318,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
     - **d)**
     - **e)**
 
-- **9)** gospodarstwie domowym – należy przez to rozumieć gospodarstwo domowe, o którym mowa w przepisach o dodatkach mieszkaniowych;
-- **9a)** społecznej inicjatywie mieszkaniowej – należy przez to rozumieć społeczną inicjatywę mieszkaniową, w rozumieniu ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224, z 2022 r. poz. 807, 1561 i 2456 oraz z 2023 r. poz. 185) oraz towarzystwo budownictwa społecznego utworzone przed dniem wejścia w życie ustawy z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (Dz. U. z 2021 r. poz. 11 oraz z 2022 r. poz. 807 i 2666);
+- **9)** gospodarstwie domowym – należy przez to rozumieć gospodarstwo domowe, o którym mowa w przepisach o dodatkach mieszkaniowych; 9aZe zmianą wprowadzoną przez art. 7 pkt 1 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r.) społecznej inicjatywie mieszkaniowej – należy przez to rozumieć społeczną inicjatywę mieszkaniową, w rozumieniu ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224, z 2022 r. poz. 807, 1561 i 2456 oraz z 2023 r. poz. 185) oraz towarzystwo budownictwa społecznego utworzone przed dniem wejścia w życie ustawy z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (Dz. U. z 2021 r. poz. 11 oraz z 2022 r. poz. 807 i 2666);
 - **10)** mieszkaniowym zasobie gminy – należy przez to rozumieć lokale służące do zaspokajania potrzeb mieszkaniowych, stanowiące własność gminy lub jednoosobowych spółek gminnych, którym gmina powierzyła realizację zadania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, z wyjątkiem społecznych inicjatyw mieszkaniowych, oraz lokale pozostające w posiadaniu samoistnym tych podmiotów;
 - **11)** publicznym zasobie mieszkaniowym – należy przez to rozumieć lokale wchodzące w skład mieszkaniowego zasobu gminy oraz lokale stanowiące własność innych jednostek samorządu terytorialnego lub Skarbu Państwa;
 - **12)** wskaźniku przeliczeniowym kosztu odtworzenia 1 m2powierzchni użytkowej budynków mieszkalnych – należy przez to rozumieć przeciętny koszt budowy 1 m2powierzchni użytkowej budynków mieszkalnych: dla województwa, z wyłączeniem miast będących siedzibą wojewody lub sejmiku województwa, dla miast będących siedzibą wojewody lub sejmiku województwa, ustalany na okres 6 miesięcy przez wojewodę na podstawie aktualnych danych urzędu statystycznego, opracowanych według powiatów, oraz własnych analiz i ogłaszany, w drodze obwieszczenia, w wojewódzkim dzienniku urzędowym;
@@ -319,15 +339,13 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 **Art. 4.**
 
-1. Tworzenie warunków do zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej należy do zadań własnych gminy.
-
-1a. Zadanie, o którym mowa w ust. 1, gmina może realizować za pośrednictwem społecznych agencji najmu, o których mowa w art. 22a ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.
+1. Tworzenie warunków do zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej należy do zadań własnych gminy. 1aZe zmianą wprowadzoną przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 1.. Zadanie, o którym mowa w ust. 1, gmina może realizować za pośrednictwem społecznych agencji najmu, o których mowa w art. 22a ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.
 
 2. Gmina, na zasadach i w przypadkach określonych w ustawie, zapewnia lokale w ramach najmu socjalnego i lokale zamienne, a także zaspokaja potrzeby mieszkaniowe gospodarstw domowych o niskich dochodach.
 
-2a. W przypadku wykonywania przez komornika obowiązku opróżnienia lokalu, o którym mowa w art. 1046 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.), gmina wskazuje tymczasowe pomieszczenie, chyba że pomieszczenie odpowiadające wymogom tymczasowego pomieszczenia wskazał wierzyciel lub dłużnik albo osoba trzecia.
+2a. W przypadku wykonywania przez komornika obowiązku opróżnienia lokalu, o którym mowa w art. 1046 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326 i 403.), gmina wskazuje tymczasowe pomieszczenie, chyba że pomieszczenie odpowiadające wymogom tymczasowego pomieszczenia wskazał wierzyciel lub dłużnik albo osoba trzecia.
 
-2b. Gmina może przeznaczać lokale wchodzące w skład mieszkaniowego zasobu gminy na wykonywanie innych zadań jednostek samorządu terytorialnego realizowanych na zasadach przewidzianych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.) oraz ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447, 1700 i 2140 oraz z 2023 r. poz. 403).
+2b. Gmina może przeznaczać lokale wchodzące w skład mieszkaniowego zasobu gminy na wykonywanie innych zadań jednostek samorządu terytorialnego realizowanych na zasadach przewidzianych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270, z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754 oraz z 2023 r. poz. 185.) oraz ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447, 1700 i 2140 oraz z 2023 r. poz. 403).
 
 3. Gmina wykonuje zadania, o których mowa w ust. 1 i 2, wykorzystując mieszkaniowy zasób gminy lub w inny sposób.
 
@@ -344,7 +362,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 - **1)** wzór i terminy przekazywania przez zarządców nieruchomości danych, o których mowa w ust. 1, biorąc pod uwagę potrzebę cyklicznego przekazywania oraz kompletność tych danych;
 - **2)** wzór zestawienia oraz sposoby publikacji i udostępniania danych, o których mowa w ust. 1, uwzględniając potrzebę zapewnienia ich aktualności i jawności.
 
-#### Rozdział 2 Prawa i obowiązki właścicieli i lokatorów
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -445,7 +463,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 4b. Podwyższając czynsz albo inne opłaty za używanie lokalu, właściciel może ustalić:
 
-- **1)** zwrot kapitału w skali roku na poziomie nie wyższym niż: 1,5% nakładów poniesionych przez właściciela na budowę albo zakup lokalu lub 10% nakładów poniesionych przez właściciela na trwałe ulepszenie istniejącego lokalu zwiększające jego wartość użytkową aż do ich pełnego zwrotu;
+- **1)** zwrot kapitału w skali roku na poziomie nie wyższym niż: 1,5% nakładów poniesionych przez właściciela na budowę albo zakup lokalu lub 10% nakładów poniesionych przez właściciela na trwałe ulepszenie istniejącego lokalu zwiększające jego wartość użytkową – aż do ich pełnego zwrotu;
     - **a)**
     - **b)**
 
@@ -478,15 +496,15 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 **Art. 9.**
 
-1. (utracił moc)
+1. (utracił moc)Z dniem 31 grudnia 2006 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 17 maja 2006 r. sygn. akt K 33/05 (Dz. U. poz. 602).
 
-1a. (utracił moc)
+1a. (utracił moc)Z dniem 26 kwietnia 2005 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 19 kwietnia 2005 r. sygn. akt K 4/05 (Dz. U. poz. 626).
 
 1b. Podwyższanie czynszu albo innych opłat za używanie lokalu, z wyjątkiem opłat niezależnych od właściciela, nie może być dokonywane częściej niż co 6 miesięcy. Termin ten biegnie od dnia, w którym podwyżka zaczęła obowiązywać.
 
 2. W razie podwyższania opłat niezależnych od właściciela jest on obowiązany do przedstawienia lokatorowi na piśmie zestawienia opłat wraz z przyczyną ich podwyższenia. Lokator obowiązany jest opłacać podwyższone opłaty tylko w takiej wysokości, jaka jest niezbędna do pokrycia przez właściciela kosztów dostarczenia do lokalu używanego przez lokatora dostaw, o których mowa w art. 2 ust. 1 pkt 8.
 
-3. (utracił moc)
+3. (utracił moc)Z dniem 10 października 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 2 października 2002 r. sygn. akt K. 48/01 (Dz. U. poz. 1383).
 
 4. (uchylony)
 
@@ -498,9 +516,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 8. Wartość odtworzeniową lokalu stanowi iloczyn jego powierzchni użytkowej i wskaźnika przeliczeniowego kosztu odtworzenia 1 m2powierzchni użytkowej budynku mieszkalnego.
 
-9. (uchylony)
-
-1. Do mieszkań w zasobach społecznych inicjatyw mieszkaniowych oraz spółek, o których mowa w art. 15a ust. 2 pkt 3 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, wybudowanych przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r. lub przy wykorzystaniu finansowania zwrotnego, o których mowa w przepisach tej ustawy, w zakresie czynszu stosuje się przepisy ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.
+9. (uchylony) 1W brzmieniu ustalonym przez art. 7 pkt 3 ustawy, o której mowa w odnośniku 1.. Do mieszkań w zasobach społecznych inicjatyw mieszkaniowych oraz spółek, o których mowa w art. 15a ust. 2 pkt 3 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, wybudowanych przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r. lub przy wykorzystaniu finansowania zwrotnego, o których mowa w przepisach tej ustawy, w zakresie czynszu stosuje się przepisy ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.
 
 2. Do mieszkań w zasobach społecznych inicjatyw mieszkaniowych wybudowanych bez udziału środków, o których mowa w ust. 1, do ustalania wysokości czynszu stosuje się art. 28 ust. 1 ustawy, o której mowa w ust. 1.
 
@@ -537,7 +553,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 5. Nie później niż na 3 lata naprzód, na koniec miesiąca kalendarzowego, właściciel może wypowiedzieć stosunek prawny lokatorowi, o ile zamierza zamieszkać w należącym do niego lokalu, a nie dostarcza mu lokalu zamiennego i lokatorowi nie przysługuje prawo do lokalu, o którym mowa w ust. 4.
 
-6. Jeżeli właściciel, który wypowiedział stosunek prawny na podstawie przepisu ust. 5, nie zamieszkał w swoim lokalu lub zaprzestał w nim zamieszkiwać przed upływem pół roku od ustania wypowiedzianego stosunku prawnego, lokator jest uprawniony, według swojego wyboru, bądź do powrotu do lokalu na dotychczasowych warunkach bądź do żądania od właściciela zapłaty różnicy w czynszu i w opłatach, które płaci obecnie, w stosunku do tych, które płacił w ramach wypowiedzianego stosunku prawnego za okres jednego roku. Koszty przeprowadzki lokatora do lokalu ponosi właściciel. Właściciel jest nadto obowiązany do zapłaty lokatorowi kary ustawowej w wysokości 15% wartości odtworzeniowej lokalu.
+6. Jeżeli właściciel, który wypowiedział stosunek prawny na podstawie przepisu ust. 5, nie zamieszkał w swoim lokalu lub zaprzestał w nim zamieszkiwać przed upływem pół roku od ustania wypowiedzianego stosunku prawnego, lokator jest uprawniony, według swojego wyboru, bądź do powrotu do lokalu na dotychczasowych warunkach bądź do żądania od właściciela zapłaty różnicy w czynszu i w opłatach, które płaci obecnie, w stosunku do tych, które płacił w ramach wypowiedzianego stosunku prawnego za okres jednego roku. Koszty przeprowadzki lokatora do lokalu ponosi właściciel. Właściciel jest nadto obowiązany do zapłaty lokatorowi kary ustawowej w wysokości 15% wartości odtworzeniowej lokalu.Zdanie trzecie utraciło moc z dniem 18 lipca 2007 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 9 lipca 2007 r. sygn. akt P 30/06 (Dz. U. poz. 902).
 
 7. Przepisy ust. 4–6 stosuje się, jeżeli w lokalu właściciela ma zamieszkać jego pełnoletni zstępny, wstępny lub osoba, wobec której właściciel ma obowiązek alimentacyjny. Wypowiedzenie stosunku prawnego, pod rygorem nieważności, powinno wskazywać osobę mającą zamieszkać w lokalu właściciela.
 
@@ -545,9 +561,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 9. W wypadku określonym w ust. 2 pkt 4 lokatorowi przysługuje prawo do lokalu zamiennego. Obowiązek zapewnienia lokalu zamiennego oraz pokrycia kosztów przeprowadzki spoczywa na właścicielu budynku, z zastrzeżeniem art. 32.
 
-10. Z ważnych przyczyn, innych niż określone w ust. 2, właściciel może wytoczyć powództwo o rozwiązanie stosunku prawnego i nakazanie przez sąd opróżnienia lokalu, jeżeli strony nie osiągnęły porozumienia co do warunków i terminu rozwiązania tego stosunku.
-
-11. Wypowiedzenie najmu w zasobach społecznej inicjatywy mieszkaniowej może nastąpić także na podstawie art. 30 ust. 5 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.
+10. Z ważnych przyczyn, innych niż określone w ust. 2, właściciel może wytoczyć powództwo o rozwiązanie stosunku prawnego i nakazanie przez sąd opróżnienia lokalu, jeżeli strony nie osiągnęły porozumienia co do warunków i terminu rozwiązania tego stosunku. 11Ze zmianą wprowadzoną przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 1.. Wypowiedzenie najmu w zasobach społecznej inicjatywy mieszkaniowej może nastąpić także na podstawie art. 30 ust. 5 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.
 
 12. Jeżeli lokatorem, któremu właściciel wypowiada stosunek prawny na podstawie ust. 5, jest osoba, której wiek w dniu otrzymania wypowiedzenia przekroczył 75 lat, a która po upływie terminu, o którym mowa w ust. 5, nie będzie posiadała tytułu prawnego do innego lokalu, w którym może zamieszkać, ani nie ma osób, które zobowiązane są wobec niej do świadczeń alimentacyjnych, wypowiedzenie staje się skuteczne dopiero w chwili śmierci lokatora; przepisów art. 691 § 1 i 2 Kodeksu cywilnego nie stosuje się. (uchylony)
 
@@ -572,7 +586,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 - **3)** obłożnie chorego,
 - **4)** emeryta lub rencisty spełniającego kryteria do otrzymania świadczenia z pomocy społecznej,
 - **5)** osoby posiadającej status bezrobotnego,
-- **6)** osoby spełniającej przesłanki określone przez radę gminy w drodze uchwały chyba że osoby te mogą zamieszkać w innym lokalu niż dotychczas używany lub ich sytuacja materialna pozwala na zaspokojenie potrzeb mieszkaniowych we własnym zakresie.
+- **6)** osoby spełniającej przesłanki określone przez radę gminy w drodze uchwały – chyba że osoby te mogą zamieszkać w innym lokalu niż dotychczas używany lub ich sytuacja materialna pozwala na zaspokojenie potrzeb mieszkaniowych we własnym zakresie.
 
 5. Sąd może orzec o braku uprawnienia do zawarcia umowy najmu socjalnego lokalu, w szczególności jeżeli nakazanie opróżnienia następuje z przyczyn, o których mowa w art. 13.
 
@@ -612,17 +626,17 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 3a. Osoby uprawnione do zawarcia umowy najmu socjalnego lokalu, jeżeli sąd orzekł o wstrzymaniu wykonania opróżnienia lokalu do czasu dostarczenia im takiego lokalu, uiszczają odszkodowanie w wysokości czynszu albo innych opłat za używanie lokalu, jakie byłyby obowiązane opłacać za zajmowany lokal, gdyby lokal ten wchodził w skład mieszkaniowego zasobu gminy, na podstawie umowy najmu socjalnego lokalu. Obowiązek pokrycia właścicielowi różnicy między wysokością odszkodowania, o której mowa w ust. 3, a wysokością odszkodowania uiszczanego przez byłego lokatora, ciąży na gminie.
 
-4. (utracił moc)
+4. (utracił moc)Z dniem 19 września 2006 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 11 września 2006 r. sygn. akt P 14/06 (Dz. U. poz. 1193).
 
 5. Jeżeli osobie uprawnionej do zawarcia umowy najmu socjalnego lokalu na mocy wyroku gmina nie dostarczyła lokalu, właścicielowi przysługuje roszczenie odszkodowawcze do gminy, na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326).
 
 **Art. 19.** Do ochrony praw lokatora do używania lokalu stosuje się odpowiednio przepisy o ochronie własności.
 
-#### Rozdział 2a Najem okazjonalny lokalu
+#### Rozdział 2a
 
-#### Rozdział 2b Najem instytucjonalny lokalu
+#### Rozdział 2b
 
-#### Rozdział 3 Mieszkaniowy zasób gminy
+#### Rozdział 3
 
 **Art. 20.**
 
@@ -687,7 +701,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 4a. W przypadku gdy powierzchnia użytkowa lokalu przekracza w przeliczeniu na liczbę członków gospodarstwa domowego:
 
 - **1)** 50 m2 – dla jednej osoby,
-- **2)** 25 m2 – dla każdej kolejnej osoby wynajmujący może wypowiedzieć umowę najmu z zachowaniem sześciomiesięcznego terminu wypowiedzenia na koniec miesiąca kalendarzowego, pod warunkiem jednoczesnego przedstawienia pisemnej oferty zawarcia umowy najmu innego lokalu, spełniającego wymagania co najmniej takie same, jakie powinien spełniać lokal zamienny.
+- **2)** 25 m2 – dla każdej kolejnej osoby – wynajmujący może wypowiedzieć umowę najmu z zachowaniem sześciomiesięcznego terminu wypowiedzenia na koniec miesiąca kalendarzowego, pod warunkiem jednoczesnego przedstawienia pisemnej oferty zawarcia umowy najmu innego lokalu, spełniającego wymagania co najmniej takie same, jakie powinien spełniać lokal zamienny.
 
 4b. Gmina może określić w wieloletnim programie gospodarowania mieszkaniowym zasobem gminy termin wypowiedzenia umowy najmu dłuższy niż 6 miesięcy. Koszty przeprowadzki do zaoferowanego lokalu pokrywa gmina.
 
@@ -695,7 +709,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 5. Jeżeli najemcy przysługuje pierwszeństwo w nabyciu zajmowanego lokalu wchodzącego w skład mieszkaniowego zasobu gminy, przepis ust. 4 stosuje się pod warunkiem, że najemcy temu zaoferowano wcześniej nabycie tego lokalu, a najemca nie skorzystał z przysługującego mu pierwszeństwa w jego nabyciu. W przypadku przekroczenia normy powierzchni użytkowej lokalu, o której mowa w art. 21 ust. 4a, inne jednostki samorządu terytorialnego mogą wypowiedzieć umowę najmu z zachowaniem sześciomiesięcznego terminu wypowiedzenia, na koniec miesiąca kalendarzowego, pod warunkiem jednoczesnego przedstawienia pisemnej oferty zawarcia umowy najmu innego lokalu, spełniającego wymagania co najmniej takie same, jakie powinien spełniać lokal zamienny. Koszty przeprowadzki do zaoferowanego lokalu pokrywa właściciel.
 
-1. Osoba ubiegająca się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy składa deklarację o wysokości dochodów członków gospodarstwa domowego w okresie 3 miesięcy poprzedzających złożenie deklaracji oraz oświadczenie o stanie majątkowym członków gospodarstwa domowego. W deklaracji o wysokości dochodów członków gospodarstwa domowego oraz oświadczeniu o stanie majątkowym członków gospodarstwa domowego uwzględnia się osoby będące członkami gospodarstwa domowego w dniu składania tych dokumentów.
+1. Osoba ubiegająca się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy składa deklarację o wysokości dochodów członków gospodarstwa domowego w okresie 3 miesięcy poprzedzających złożenie deklaracji oraz oświadczenie o stanie majątkowym członków gospodarstwa domowego.Zdanie pierwsze w brzmieniu ustalonym przez art. 7 pkt 4 lit. a ustawy, o której mowa w odnośniku 1. W deklaracji o wysokości dochodów członków gospodarstwa domowego oraz oświadczeniu o stanie majątkowym członków gospodarstwa domowego uwzględnia się osoby będące członkami gospodarstwa domowego w dniu składania tych dokumentów.
 
 1a. W razie wątpliwości co do wiarygodności informacji i danych zawartych w deklaracji, o której mowa w ust. 1, gmina może wezwać osobę ubiegającą się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy do udostępnienia dokumentów potwierdzających wysokość dochodów wykazanych w tej deklaracji, w tym zaświadczenia naczelnika właściwego miejscowo urzędu skarbowego o wysokości dochodów uzyskanych przez tę osobę oraz innych członków jej gospodarstwa domowego, wyznaczając termin nie krótszy niż 30 dni od dnia otrzymania wezwania.
 
@@ -703,19 +717,11 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 1c. W celu zweryfikowania informacji i danych zawartych w deklaracji oraz oświadczeniu o stanie majątkowym, o których mowa w ust. 1, gmina może przeprowadzić wywiad środowiskowy u osoby ubiegającej się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy. W takim przypadku stosuje się przepis art. 7 ust. 8.
 
-1d. Nieudostępnienie w terminie dokumentów, o których mowa w ust. 1a, lub niewyrażenie zgody na przeprowadzenie wywiadu środowiskowego, o którym mowa w ust. 1c, stanowi podstawę do odmowy zawarcia umowy, o której mowa w ust. 1.
+1d. Nieudostępnienie w terminie dokumentów, o których mowa w ust. 1a, lub niewyrażenie zgody na przeprowadzenie wywiadu środowiskowego, o którym mowa w ust. 1c, stanowi podstawę do odmowy zawarcia umowy, o której mowa w ust. 1. 1eDodany przez art. 7 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.. Rada gminy, w uchwale, o której mowa w art. 21 ust. 1 pkt 2, może ustalić, że osoba ubiegająca się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy składa deklarację, o której mowa w ust. 1, za okres dłuższy niż 3 miesiące poprzedzające złożenie deklaracji. 2W brzmieniu ustalonym przez art. 7 pkt 4 lit. c ustawy, o której mowa w odnośniku 1.. W sprawach dotyczących wzoru deklaracji o wysokości dochodów członków gospodarstwa domowego stosuje się odpowiednio przepisy ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2021 r. poz. 2021 oraz z 2022 r. poz. 1561 i 2456) dotyczące deklarowania dochodów przy ustalaniu wysokości dodatków mieszkaniowych.
 
-1e. Rada gminy, w uchwale, o której mowa w art. 21 ust. 1 pkt 2, może ustalić, że osoba ubiegająca się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy składa deklarację, o której mowa w ust. 1, za okres dłuższy niż 3 miesiące poprzedzające złożenie deklaracji.
+3. Oświadczenie o stanie majątkowym członków gospodarstwa domowego składa się zgodnie z wzorem określonym w przepisach wykonawczych wydanych na podstawie art. 7 ust. 15 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych. 4W brzmieniu ustalonym przez art. 7 pkt 4 lit. d ustawy, o której mowa w odnośniku 1.. Na żądanie gminy najemca lub osoba ubiegająca się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy jest obowiązana do złożenia oświadczenia o nieposiadaniu tytułu prawnego do innego lokalu położonego w tej samej lub pobliskiej miejscowości.
 
-2. W sprawach dotyczących wzoru deklaracji o wysokości dochodów członków gospodarstwa domowego stosuje się odpowiednio przepisy ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2021 r. poz. 2021 oraz z 2022 r. poz. 1561 i 2456) dotyczące deklarowania dochodów przy ustalaniu wysokości dodatków mieszkaniowych.
-
-3. Oświadczenie o stanie majątkowym członków gospodarstwa domowego składa się zgodnie z wzorem określonym w przepisach wykonawczych wydanych na podstawie art. 7 ust. 15 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych.
-
-4. Na żądanie gminy najemca lub osoba ubiegająca się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy jest obowiązana do złożenia oświadczenia o nieposiadaniu tytułu prawnego do innego lokalu położonego w tej samej lub pobliskiej miejscowości.
-
-5. Deklarację, o której mowa w ust. 1, oraz oświadczenia, o których mowa w ust. 1 i 4, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. W deklaracji i oświadczeniach zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
-
-6. Gmina odmawia zawarcia umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu w przypadku niezłożenia deklaracji o wysokości dochodów członków gospodarstwa domowego, oświadczenia o stanie majątkowym członków gospodarstwa domowego, oświadczenia o nieposiadaniu tytułu prawnego do innego lokalu położonego w tej samej lub pobliskiej miejscowości lub jeżeli występuje rażąca dysproporcja między niskimi dochodami wskazanymi w złożonej deklaracji a wykazanym w oświadczeniu stanem majątkowym członków gospodarstwa domowego osoby ubiegającej się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu.
+5. Deklarację, o której mowa w ust. 1, oraz oświadczenia, o których mowa w ust. 1 i 4, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. W deklaracji i oświadczeniach zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia. 6W brzmieniu ustalonym przez art. 7 pkt 4 lit. e ustawy, o której mowa w odnośniku 1.. Gmina odmawia zawarcia umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu w przypadku niezłożenia deklaracji o wysokości dochodów członków gospodarstwa domowego, oświadczenia o stanie majątkowym członków gospodarstwa domowego, oświadczenia o nieposiadaniu tytułu prawnego do innego lokalu położonego w tej samej lub pobliskiej miejscowości lub jeżeli występuje rażąca dysproporcja między niskimi dochodami wskazanymi w złożonej deklaracji a wykazanym w oświadczeniu stanem majątkowym członków gospodarstwa domowego osoby ubiegającej się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu.
 
 1. Gmina, nie częściej niż co 2,5 roku, weryfikuje spełnianie przez najemców, z wyłączeniem umów najmu socjalnego lokalu, kryterium wysokości dochodu uzasadniającej oddanie w najem lub podnajem lokalu.
 
@@ -752,7 +758,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 13. W przypadku uznania przez sąd podwyżki wysokości czynszu za zasadną, choćby w innej wysokości niż wynikająca z wypowiedzenia, najemca jest obowiązany do zapłaty kwoty odpowiadającej różnicy między podwyższonym a dotychczasowym czynszem, za okres od upływu terminu wypowiedzenia, z uwzględnieniem ust. 8.
 
-#### Rozdział 4 Najem socjalny lokalu
+#### Rozdział 4
 
 **Art. 22.** Umową najmu socjalnego lokalu jest umowa najmu lokalu nadającego się do zamieszkania ze względu na wyposażenie i stan techniczny, którego powierzchnia pokoi przypadająca na członka gospodarstwa domowego najemcy nie może być mniejsza niż 5 m2, a w przypadku jednoosobowego gospodarstwa domowego 10 m2, przy czym lokal ten może być o obniżonym standardzie.
 
@@ -770,9 +776,9 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 **Art. 25.** Gmina może wypowiedzieć najemcy umowę najmu socjalnego lokalu bez zachowania terminu wypowiedzenia, jeżeli uzyskał on tytuł prawny do innego lokalu i może go używać.
 
-#### Rozdział 4a Tymczasowe pomieszczenia
+#### Rozdział 4a
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 26.** (pominięty)
 
@@ -792,9 +798,7 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 2. W dniu nawiązania umowy najmu, o której mowa w ust. 1, czynsz najmu takich lokali jest naliczany w wysokości 3% wartości odtworzeniowej.
 
-**Art. 31.** Do osób, które do chwili śmierci najemcy lokalu sprawowały nad nim opiekę na podstawie umowy zawartej z najemcą przed dniem 12 listopada 1994 r., spełniającej wymagania określone w art. 9 ust. 2 ustawy z dnia 10 kwietnia 1974 r. – Prawo lokalowe (Dz. U. z 1987 r. poz. 165, z późn. zm.), stosuje się art. 691 Kodeksu cywilnego w brzmieniu obowiązującym przed dniem 12 listopada 1994 r.
-
-**Art. 32.** W razie wypowiedzenia najmu, na podstawie art. 11 ust. 2 pkt 4, najemcy opłacającemu w dniu poprzedzającym dzień wejścia w życie ustawy czynsz regulowany, obowiązek zapewnienia temu najemcy lokalu zamiennego oraz pokrycia kosztów przeprowadzki spoczywa, do dnia 31 grudnia 2024 r., na właściwej gminie.
+**Art. 31.** Do osób, które do chwili śmierci najemcy lokalu sprawowały nad nim opiekę na podstawie umowy zawartej z najemcą przed dniem 12 listopada 1994 r., spełniającej wymagania określone w art. 9 ust. 2 ustawy z dnia 10 kwietnia 1974 r. – Prawo lokalowe (Dz. U. z 1987 r. poz. 165, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1989 r. poz. 57, 108, 178 i 192, z 1990 r. poz. 19, 190 i 198, z 1991 r. poz. 496 oraz z 1994 r. poz. 388.), stosuje się art. 691 Kodeksu cywilnego w brzmieniu obowiązującym przed dniem 12 listopada 1994 r. Art. 32W brzmieniu ustalonym przez art. 1 ustawy z dnia 24 marca 2022 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 975), która weszła w życie z dniem 11 maja 2022 r., z mocą od dnia 1 stycznia 2022 r.. W razie wypowiedzenia najmu, na podstawie art. 11 ust. 2 pkt 4, najemcy opłacającemu w dniu poprzedzającym dzień wejścia w życie ustawy czynsz regulowany, obowiązek zapewnienia temu najemcy lokalu zamiennego oraz pokrycia kosztów przeprowadzki spoczywa, do dnia 31 grudnia 2024 r., na właściwej gminie.
 
 **Art. 33.**
 
@@ -810,21 +814,10 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 **Art. 34.** Wydane i niewykonane przed dniem wejścia w życie ustawy prawomocne orzeczenia sądowe oraz ostateczne decyzje administracyjne w sprawach opróżnienia lokali podlegających przepisom ustawy, o której mowa w art. 31, są wykonywane przez organy gmin w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-**Art. 35.**
+**Art. 35.** 1Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r.. Osobie, o której mowa w art. 14 ust. 4, przysługuje uprawnienie do najmu socjalnego lokalu, jeżeli przed dniem wejścia w życie ustawy została objęta orzeczeniem sądowym, chociażby nieprawomocnym, nakazującym opróżnienie lokalu, lub ostateczną decyzją administracyjną, o której mowa w art. 34, a orzeczenie to lub decyzja nie zostały wykonane przed dniem wejścia w życie ustawy. 2Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r.. Na żądanie osoby, o której mowa w ust. 1, o uprawnieniu do najmu socjalnego lokalu orzeka sąd w sprawie przeciwko gminie właściwej ze względu na miejsce położenia lokalu podlegającego opróżnieniu. Roszczenie to wygasa, jeżeli nie będzie dochodzone w ciągu sześciu miesięcy od zawiadomienia uprawnionego przez komornika lub organ, o którym mowa w art. 34, o przysługującym uprawnieniu. Przepis art. 14 ust. 6 stosuje się odpowiednio. 3. Postępowanie w sprawach, o których mowa w ust. 2, jest wolne od opłat sądowych. 4. Jeżeli w toku postępowania egzekucyjnego okaże się, że obowiązkiem opróżnienia lokalu objęta jest osoba, o której mowa w art. 14 ust. 4, komornik albo organ, o którym mowa w art. 34: 1Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r.) zawiadamia tę osobę, że może wystąpić z powództwem o ustalenie uprawnienia do najmu socjalnego lokalu w terminie, o którym mowa w ust. 2;
 
-1. Osobie, o której mowa w art. 14 ust. 4, przysługuje uprawnienie do najmu socjalnego lokalu, jeżeli przed dniem wejścia w życie ustawy została objęta orzeczeniem sądowym, chociażby nieprawomocnym, nakazującym opróżnienie lokalu, lub ostateczną decyzją administracyjną, o której mowa w art. 34, a orzeczenie to lub decyzja nie zostały wykonane przed dniem wejścia w życie ustawy.
-
-2. Na żądanie osoby, o której mowa w ust. 1, o uprawnieniu do najmu socjalnego lokalu orzeka sąd w sprawie przeciwko gminie właściwej ze względu na miejsce położenia lokalu podlegającego opróżnieniu. Roszczenie to wygasa, jeżeli nie będzie dochodzone w ciągu sześciu miesięcy od zawiadomienia uprawnionego przez komornika lub organ, o którym mowa w art. 34, o przysługującym uprawnieniu. Przepis art. 14 ust. 6 stosuje się odpowiednio.
-
-3. Postępowanie w sprawach, o których mowa w ust. 2, jest wolne od opłat sądowych.
-
-4. Jeżeli w toku postępowania egzekucyjnego okaże się, że obowiązkiem opróżnienia lokalu objęta jest osoba, o której mowa w art. 14 ust. 4, komornik albo organ, o którym mowa w art. 34:
-
-- **1)** zawiadamia tę osobę, że może wystąpić z powództwem o ustalenie uprawnienia do najmu socjalnego lokalu w terminie, o którym mowa w ust. 2;
 - **2)** zawiesza postępowanie egzekucyjne;
-- **3)** o zawieszeniu postępowania egzekucyjnego zawiadamia prokuratora.
-
-5. W razie wytoczenia powództwa, o którym mowa w ust. 4 pkt 1, sąd nakazuje wstrzymanie wykonania opróżnienia lokalu do czasu zakończenia postępowania w sprawie o ustalenie uprawnienia do najmu socjalnego lokalu.
+- **3)** o zawieszeniu postępowania egzekucyjnego zawiadamia prokuratora. 5Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r.. W razie wytoczenia powództwa, o którym mowa w ust. 4 pkt 1, sąd nakazuje wstrzymanie wykonania opróżnienia lokalu do czasu zakończenia postępowania w sprawie o ustalenie uprawnienia do najmu socjalnego lokalu.
 
 6. Postępowanie egzekucyjne podejmuje się z urzędu, jeżeli w terminie sześciu miesięcy od jego zawieszenia komornikowi lub organowi, o którym mowa w art. 34, nie zostanie przedłożony nakaz sądu, o którym mowa w ust. 5.
 
@@ -844,12 +837,9 @@ Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art
 
 **Art. 39.**
 
-1. Traci moc ustawa z dnia 2 lipca 1994 r. o najmie lokali mieszkalnych i dodatkach mieszkaniowych (Dz. U. z 1998 r. poz. 787, z późn. zm.), z wyjątkiem przepisów rozdziału 6.
+1. Traci moc ustawa z dnia 2 lipca 1994 r. o najmie lokali mieszkalnych i dodatkach mieszkaniowych (Dz. U. z 1998 r. poz. 787, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 1119, z 1999 r. poz. 1281, z 2000 r. poz. 46, 67, 946, 988, 1041 i 1317 oraz z 2001 r. poz. 27 i 386.), z wyjątkiem przepisów rozdziału 6.
 
 2. (pominięty)
 
-**Art. 40.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 18 ust. 4 i art. 32, które wchodzą w życie z dniem 1 stycznia 2002 r.
-
-- **1)** Ze zmianą wprowadzoną przez art. 7 pkt 1 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r. 2) Ze zmianą wprowadzoną przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326 i 403. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270, z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754 oraz z 2023 r. poz. 185. 5) Z dniem 31 grudnia 2006 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 17 maja 2006 r. sygn. akt K 33/05 (Dz. U. poz. 602). 6) Z dniem 26 kwietnia 2005 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 19 kwietnia 2005 r. sygn. akt K 4/05 (Dz. U. poz. 626). 7) Z dniem 10 października 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 2 października 2002 r. sygn. akt K. 48/01 (Dz. U. poz. 1383). 8) W brzmieniu ustalonym przez art. 7 pkt 3 ustawy, o której mowa w odnośniku 1. 9) Zdanie trzecie utraciło moc z dniem 18 lipca 2007 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 9 lipca 2007 r. sygn. akt P 30/06 (Dz. U. poz. 902). 10) Z dniem 19 września 2006 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 11 września 2006 r. sygn. akt P 14/06 (Dz. U. poz. 1193). 11) Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r. 12) Zdanie pierwsze w brzmieniu ustalonym przez art. 7 pkt 4 lit. a ustawy, o której mowa w odnośniku 1. 13) Dodany przez art. 7 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 14) W brzmieniu ustalonym przez art. 7 pkt 4 lit. c ustawy, o której mowa w odnośniku 1. 15) W brzmieniu ustalonym przez art. 7 pkt 4 lit. d ustawy, o której mowa w odnośniku 1. 16) W brzmieniu ustalonym przez art. 7 pkt 4 lit. e ustawy, o której mowa w odnośniku 1. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1989 r. poz. 57, 108, 178 i 192, z 1990 r. poz. 19, 190 i 198, z 1991 r. poz. 496 oraz z 1994 r. poz. 388. 18) W brzmieniu ustalonym przez art. 1 ustawy z dnia 24 marca 2022 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 975), która weszła w życie z dniem 11 maja 2022 r., z mocą od dnia 1 stycznia 2022 r. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 1119, z 1999 r. poz. 1281, z 2000 r. poz. 46, 67, 946, 988, 1041 i 1317 oraz z 2001 r. poz. 27 i 386. 20) Ustawa została ogłoszona w dniu 10 lipca 2001 r.
-
+**Art. 40.** Ustawa wchodzi w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 10 lipca 2001 r., z wyjątkiem art. 18 ust. 4 i art. 32, które wchodzą w życie z dniem 1 stycznia 2002 r. 1) Ze zmianą wprowadzoną przez art. 7 pkt 1 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r. 2) Ze zmianą wprowadzoną przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326 i 403. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270, z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754 oraz z 2023 r. poz. 185. 5) Z dniem 31 grudnia 2006 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 17 maja 2006 r. sygn. akt K 33/05 (Dz. U. poz. 602). 6) Z dniem 26 kwietnia 2005 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 19 kwietnia 2005 r. sygn. akt K 4/05 (Dz. U. poz. 626). 7) Z dniem 10 października 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 2 października 2002 r. sygn. akt K. 48/01 (Dz. U. poz. 1383). 8) W brzmieniu ustalonym przez art. 7 pkt 3 ustawy, o której mowa w odnośniku 1. 9) Zdanie trzecie utraciło moc z dniem 18 lipca 2007 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 9 lipca 2007 r. sygn. akt P 30/06 (Dz. U. poz. 902). 10) Z dniem 19 września 2006 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 11 września 2006 r. sygn. akt P 14/06 (Dz. U. poz. 1193). 11) Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), która weszła w życie z dniem 1 grudnia 2022 r. 12) Zdanie pierwsze w brzmieniu ustalonym przez art. 7 pkt 4 lit. a ustawy, o której mowa w odnośniku 1. 13) Dodany przez art. 7 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 14) W brzmieniu ustalonym przez art. 7 pkt 4 lit. c ustawy, o której mowa w odnośniku 1. 15) W brzmieniu ustalonym przez art. 7 pkt 4 lit. d ustawy, o której mowa w odnośniku 1. 16) W brzmieniu ustalonym przez art. 7 pkt 4 lit. e ustawy, o której mowa w odnośniku 1. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1989 r. poz. 57, 108, 178 i 192, z 1990 r. poz. 19, 190 i 198, z 1991 r. poz. 496 oraz z 1994 r. poz. 388. 18) W brzmieniu ustalonym przez art. 1 ustawy z dnia 24 marca 2022 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 975), która weszła w życie z dniem 11 maja 2022 r., z mocą od dnia 1 stycznia 2022 r. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 1119, z 1999 r. poz. 1281, z 2000 r. poz. 46, 67, 946, 988, 1041 i 1317 oraz z 2001 r. poz. 27 i 386. 20) Ustawa została ogłoszona w dniu 10 lipca 2001 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 października 2021 r. w sprawie szczegółowych wymagań, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie rejestru
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 października 2021 r. w sprawie szczegółowych wymagań, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie rejestru Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-18 |
 | Data wydania | 2021-10-29 |
-| Wejście w życie | 2021-11-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001971) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1971/text.pdf) |
 
@@ -84,6 +83,5 @@ Związek hodowców lub inny podmiot ubiegający się o zezwolenie na prowadzenie
 10)
 10 sztuk samic stada podstawowego dla każdego gatunku, każdej rasy i odmiany barwnej – w przypadku zwierząt futerkowych.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 28 kwietnia 2008 r. w sprawie dodatkowych wymagań, jakie powinny spełniać związki hodowców lub inne podmioty ubiegające się o prowadzenie rejestrów zwierząt gospodarskich innych niż świnie (Dz. U. poz. 513), które zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 28 kwietnia 2008 r. w sprawie dodatkowych wymagań, jakie powinny spełniać związki hodowców lub inne podmioty ubiegające się o prowadzenie rejestrów zwierząt gospodarskich innych niż świnie (Dz. U. poz. 513), które zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 28 kwietnia 2008 r. w sprawie dodatkowych wymagań, jakie powinny spełniać związki hodowców lub inne podmioty ubiegające się o prowadzenie rejestrów zwierząt gospodarskich innych niż świnie (Dz. U. poz. 513), które zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

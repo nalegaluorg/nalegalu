@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-28 |
 | Data wydania | 2019-08-29 |
-| Wejście w życie | 2019-08-30 |
 | Ostatnia zmiana | 2025-05-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1646/text.pdf) |
 
@@ -98,5 +97,7 @@ Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 16 lipca 2012 r. w spra
 § 8.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Załącznik – Deklaracja o wysokości należnej wpłaty od biura usług płatniczych na pokrycie kosztów nadzoru (wzór)
-DEKLARACJA O WYSOKOŚCI NALEŻNEJ WPŁATY OD BIURA USŁUG PŁATNICZYCH NA POKRYCIE KOSZTÓW NADZORU ZA ROK... Nazwa biura usług płatniczych: ... ... NIP: ... Poz. Wyszczególnienie Dane, w tym kwoty zaokrąglone do pełnych złotych 1 Wysokość całkowitej kwoty transakcji płatniczych wykonanych przez biuro usług płatniczych, w tym przez jego agentów, w poprzednim roku kalendarzowym 2 Wysokość stawki obowiązującej w danym roku kalendarzowym 3 Wysokość należnej wpłaty 4 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 5 Data wpłaty, o której mowa w poz. 4 Osoba upoważniona do złożenia deklaracji: ... ... (imię i nazwisko osoby upoważnionej do złożenia deklaracji)
+DEKLARACJA O WYSOKOŚCI NALEŻNEJ WPŁATY OD BIURA USŁUG PŁATNICZYCH NA POKRYCIE KOSZTÓW NADZORU ZA ROK... Nazwa biura usług płatniczych: ... ... NIP: ...
+Poz. Wyszczególnienie Dane, w tym kwoty zaokrąglone do pełnych złotych 1 Wysokość całkowitej kwoty transakcji płatniczych wykonanych przez biuro usług płatniczych, w tym przez jego agentów, w poprzednim roku kalendarzowym 2 Wysokość stawki obowiązującej w danym roku kalendarzowym 3 Wysokość należnej wpłaty 4 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 5 Data wpłaty, o której mowa w poz. 4
+Osoba upoważniona do złożenia deklaracji: ... ... (imię i nazwisko osoby upoważnionej do złożenia deklaracji)
 

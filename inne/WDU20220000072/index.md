@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 stycznia 2022 r. zmieniające rozporządzenie w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 stycznia 2022 r. zmieniające rozporządzenie w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-11 |
 | Data wydania | 2022-01-12 |
-| Wejście w życie | 2022-01-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000072) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/72/text.pdf) |
 
@@ -39,6 +38,5 @@ tytuł tabeli nr 5 otrzymuje brzmienie: „ Kalkulacja wysokości równoważnika
 b)
 tytuł tabeli nr 6 otrzymuje brzmienie: „ Kalkulacja wysokości równoważnika pieniężnego w zamian za umundurowanie (wg normy nr 2 załącznika nr 10 do rozporządzenia*)) dla mianowanych na stałe policjantów-kobiet służby kryminalnej, śledczej, spraw wewnętrznych, zwalczania cyberprzestępczości oraz wspomagającej ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

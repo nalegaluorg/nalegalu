@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 14 października 2020 r. w sprawie sposobu ogłaszania o postępowaniu w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, składania ofert, powoływania i odwoływania komisji konkursowej, jej zadań oraz trybu pracy
+# Rozporządzenie Ministra Zdrowiaz dnia 14 października 2020 r. w sprawie sposobu ogłaszania o postępowaniu w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, składania ofert, powoływania i odwoływania komisji konkursowej, jej zadań oraz trybu pracy Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-14 |
 | Data wydania | 2020-10-21 |
-| Wejście w życie | 2020-10-22 |
 | Ostatnia zmiana | 2026-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1858/text.pdf) |
 
@@ -294,6 +293,5 @@ W przypadku odstąpienia od weryfikacji oferenta w toku postępowania, Prezes Fu
 § 21.
 Do postępowań w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 22.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 22 grudnia 2014 r. w sprawie sposobu ogłaszania o postępowaniu w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, składania ofert, powoływania i odwoływania komisji konkursowej, jej zadań oraz trybu pracy (Dz. U. z 2018 r. poz. 1897), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 41 ustawy z dnia 14 sierpnia 2020 r. o zmianie niektórych ustaw w celu zapewnienia funkcjonowania ochrony zdrowia w związku z epidemią COVID-19 oraz po jej ustaniu (Dz. U. poz. 1493).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 22 grudnia 2014 r. w sprawie sposobu ogłaszania o postępowaniu w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, składania ofert, powoływania i odwoływania komisji konkursowej, jej zadań oraz trybu pracy (Dz. U. z 2018 r. poz. 1897), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 41 ustawy z dnia 14 sierpnia 2020 r. o zmianie niektórych ustaw w celu zapewnienia funkcjonowania ochrony zdrowia w związku z epidemią COVID-19 oraz po jej ustaniu (Dz. U. poz. 1493). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 22 grudnia 2014 r. w sprawie sposobu ogłaszania o postępowaniu w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, składania ofert, powoływania i odwoływania komisji konkursowej, jej zadań oraz trybu pracy (Dz. U. z 2018 r. poz. 1897), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 41 ustawy z dnia 14 sierpnia 2020 r. o zmianie niektórych ustaw w celu zapewnienia funkcjonowania ochrony zdrowia w związku z epidemią COVID-19 oraz po jej ustaniu (Dz. U. poz. 1493).
 

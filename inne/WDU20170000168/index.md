@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-23 |
 | Data wydania | 2017-01-27 |
-| Wejście w życie | 2017-01-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/168/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie kostrzyńsko-słubickiej specjalnej strefy ekonomicznej (Dz. U. z 2016 r. poz. 1266 i 2233) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 2165,4137 ha, położone na terenach miast: Białogard, Gniezno, Gorzów Wielkopolski, Gubin, Kostrzyn nad Odrą, Nowa Sól, Piła, Poznań, Szczecin, Wągrowiec, Zielona Góra i Żary oraz gmin: Barlinek, Buk, Bytom Odrzański, Chodzież, Czerwieńsk, Dębno, Dobiegniew, Drezdenko, Golczewo, Goleniów, Gryfice, Gryfino, Gubin, Kamień Pomorski, Kargowa, Karlino, Kłodawa, Kożuchów, Krosno Odrzańskie, Krzeszyce, Kwilcz, Lubsko, Łobez, Międzychód, Międzyrzecz, Myślibórz, Nowogard, Nowy Tomyśl, Pełczyce, Płoty, Przemęt, Rzepin, Santok, Sieraków, Skwierzyna, Słubice, Stęszew, Strzelce Krajeńskie, Sulechów, Sulęcin, Swarzędz, Śmigiel, Wronki, Zwierzyn i Żagań.
-” ;
+Strefa obejmuje grunty o powierzchni 2165,4137 ha, położone na terenach miast: Białogard, Gniezno, Gorzów Wielkopolski, Gubin, Kostrzyn nad Odrą, Nowa Sól, Piła, Poznań, Szczecin, Wągrowiec, Zielona Góra i Żary oraz gmin: Barlinek, Buk, Bytom Odrzański, Chodzież, Czerwieńsk, Dębno, Dobiegniew, Drezdenko, Golczewo, Goleniów, Gryfice, Gryfino, Gubin, Kamień Pomorski, Kargowa, Karlino, Kłodawa, Kożuchów, Krosno Odrzańskie, Krzeszyce, Kwilcz, Lubsko, Łobez, Międzychód, Międzyrzecz, Myślibórz, Nowogard, Nowy Tomyśl, Pełczyce, Płoty, Przemęt, Rzepin, Santok, Sieraków, Skwierzyna, Słubice, Stęszew, Strzelce Krajeńskie, Sulechów, Sulęcin, Swarzędz, Śmigiel, Wronki, Zwierzyn i Żagań. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU KOSTRZYŃSKO-SŁUBICKIEJ SPECJALNEJ STREFY EKONOMICZNEJ:
 a)

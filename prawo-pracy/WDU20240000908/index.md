@@ -31,14 +31,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych (Dz. U. z 2022 r. poz. 99), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 13 lipca 2023 r. o zmianie ustawy o podatku rolnym oraz niektórych innych ustaw (Dz. U. poz. 1450) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 czerwca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 6 i art. 7 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o podatku rolnym oraz niektórych innych ustaw (Dz. U. poz. 1450), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 6 i art. 7 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o podatku rolnym oraz niektórych innych ustaw (Dz. U. poz. 1450), które stanowią: „
 
 **Art. 6.** W 2024 r. wniosek o wpis na listę, o której mowa w:
 
 - **1)** art. 257b ust. 1 ustawy zmienianej w art. 2,
 - **2)** art. 35b ust. 1 ustawy zmienianej w art. 3,
-- **3)** art. 8c ust. 1 ustawy zmienianej w art. 4 składa się w terminie do dnia 20 stycznia 2024 r.
+- **3)** art. 8c ust. 1 ustawy zmienianej w art. 4 – składa się w terminie do dnia 20 stycznia 2024 r.
 
 **Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych
 
@@ -60,7 +59,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Rolnicy zamierzający założyć związek zawodowy rolników indywidualnych wybierają komitet założycielski i uchwalają statut. Liczba rolników założycieli związku w dniu złożenia statutu do rejestracji nie może być mniejsza niż 30 osób, a związku zrzeszającego rolników mających miejsce zamieszkania w jednej wsi – 10 osób, z zastrzeżeniem ust. 2.
 
-2. W przypadku związku o ogólnokrajowym zakresie działania założycieli nie może być mniej niż po 30 rolników mających miejsce zamieszkania w co najmniej 25 województwach.
+2. W przypadku związku o ogólnokrajowym zakresie działania założycieli nie może być mniej niż po 30 rolników mających miejsce zamieszkania w co najmniej 25Obecnie w Rzeczypospolitej Polskiej jest 16 województw utworzonych na podstawie art. 2 ust. 1 ustawy z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa (Dz. U. poz. 603 i 656, z 1999 r. poz. 1182 oraz z 2001 r. poz. 497), która weszła w życie z dniem 28 lipca 1998 r.; województwa zostały utworzone z dniem 1 stycznia 1999 r. województwach.
 
 **Art. 4.** Statut związku zawodowego rolników indywidualnych określa nazwę, a ponadto siedzibę, terytorialny i podmiotowy zakres działania oraz cele związku, zasady nabywania i utraty członkostwa, prawa i obowiązki członków, strukturę organizacyjną i władze związku, tryb dokonywania ich wyboru i odwołania, źródła finansowania działalności związku, zasady uchwalania i zmiany statutu oraz sposób rozwiązania związku.
 
@@ -98,7 +97,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Otrzymane przez związki zawodowe rolników indywidualnych środki finansowe pochodzące z 1,5 % podatku rolnego mogą być wykorzystane wyłącznie na działalność statutową tych związków.
 
-3. Do gospodarki środkami, o których mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+3. Do gospodarki środkami, o których mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858.).
 
 1. Minister właściwy do spraw rolnictwa sporządza co roku listę związków zawodowych rolników indywidualnych spełniających warunki określone w art. 8b ust. 1, zwaną dalej „listą”, i umieszcza ją na stronie internetowej urzędu obsługującego tego ministra w terminie do ostatniego dnia lutego danego roku podatkowego.
 
@@ -142,8 +141,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 6. Do spraw, o których mowa w ust. 1–4, stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z tym że sąd rejestrowy orzeka w tych sprawach po przeprowadzeniu rozprawy. Postępowanie w tych sprawach wszczyna się na wniosek prokuratora.
 
-**Art. 10.** Ustawa wchodzi w życie z dniem ogłoszenia.
-
-- **1)** Obecnie w Rzeczypospolitej Polskiej jest 16 województw utworzonych na podstawie art. 2 ust. 1 ustawy z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa (Dz. U. poz. 603 i 656, z 1999 r. poz. 1182 oraz z 2001 r. poz. 497), która weszła w życie z dniem 28 lipca 1998 r.; województwa zostały utworzone z dniem 1 stycznia 1999 r. 2) Dodany przez art. 4 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o podatku rolnym oraz niektórych innych ustaw (Dz. U. poz. 1450), która weszła w życie z dniem 1 stycznia 2024 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858. 4) Ustawa została ogłoszona w dniu 10 kwietnia 1989 r.
-
+**Art. 10.** Ustawa wchodzi w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 10 kwietnia 1989 r.. 1) Obecnie w Rzeczypospolitej Polskiej jest 16 województw utworzonych na podstawie art. 2 ust. 1 ustawy z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa (Dz. U. poz. 603 i 656, z 1999 r. poz. 1182 oraz z 2001 r. poz. 497), która weszła w życie z dniem 28 lipca 1998 r.; województwa zostały utworzone z dniem 1 stycznia 1999 r. 2) Dodany przez art. 4 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o podatku rolnym oraz niektórych innych ustaw (Dz. U. poz. 1450), która weszła w życie z dniem 1 stycznia 2024 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858. 4) Ustawa została ogłoszona w dniu 10 kwietnia 1989 r.
 

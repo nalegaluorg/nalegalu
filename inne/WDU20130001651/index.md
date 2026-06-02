@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-18 |
 | Data wydania | 2013-12-30 |
-| Wejście w życie | 2013-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001651) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1651/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237 oraz z 2013 r. poz. 714.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 26 października 2011 r. w sprawie udzielania pomocy ze środków instrumentów inżynierii finansowej w ramach regionalnych programów operacyjnych (Dz. U. Nr 245, poz. 1461) wprowadza się następujące zmiany:
 1)
-§ 8 otrzymuje brzmienie:
-„
+§ 8 otrzymuje brzmienie: „
 § 8.
 1.
 Wartość pomocy udzielanej w formie pożyczki stanowi różnicę między zdyskontowaną rynkową wartością odsetek, która byłaby naliczona dla udzielanej pożyczki, a zdyskontowaną wartością odsetek wynikającą z oprocentowania zastosowanego przez podmiot zarządzający instrumentem inżynierii finansowej.
@@ -47,19 +45,16 @@ wartość pomocy stanowi różnicę między zdyskontowaną wartością rynkowej 
 2)
 pomoc nie może objąć więcej niż 80% kredytu lub innego zobowiązania finansowego.
 5.
-Przez rynkową opłatę prowizyjną, o której mowa w ust. 4 pkt 1, rozumie się stawkę bezpieczną, o której mowa w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji.
-” ;
+Przez rynkową opłatę prowizyjną, o której mowa w ust. 4 pkt 1, rozumie się stawkę bezpieczną, o której mowa w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji. ” ;
 2)
-§ 34 otrzymuje brzmienie:
-„
+§ 34 otrzymuje brzmienie: „
 § 34.
 1.
 Pomoc, o której mowa w § 6 ust. 1 pkt 1, jest udzielana do dnia 30 czerwca 2014 r.
 2.
 Pomoc, o której mowa w § 6 ust. 1 pkt 2, jest udzielana do dnia określonego w art. 44 ust. 3 zdanie drugie rozporządzenia nr 800/2008.
 3.
-Pomoc, o której mowa w § 6 ust. 1 pkt 3–5, jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 44 ust. 3 zdanie pierwsze w związku z art. 45 rozporządzenia nr 800/2008.
-” .
+Pomoc, o której mowa w § 6 ust. 1 pkt 3–5, jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 44 ust. 3 zdanie pierwsze w związku z art. 45 rozporządzenia nr 800/2008. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237 oraz z 2013 r. poz. 714.
 

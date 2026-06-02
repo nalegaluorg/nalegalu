@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 13 grudnia 2005 r. w sprawie obowiązków wojewody w zakresie finansowania i utrzymywania przejść granicznych, przejść turystycznych, miejsc przekraczania granicy na szlakach turystycznych oraz punktów nocnego postoju na rzekach granicznych, ich wyposażenia w sprzęt, a także organów właściwych do osadzania i utrzymywania znaków granicznych na morskich wodach wewnętrznych (Dz. U. z 2021 r. poz. 64), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 19 października 2023 r. zmieniającym rozporządzenie w sprawie obowiązków wojewody w zakresie finansowania i utrzymywania przejść granicznych, przejść turystycznych, miejsc przekraczania granicy na szlakach turystycznych oraz punktów nocnego postoju na rzekach granicznych, ich wyposażenia w sprzęt, a także organów właściwych do osadzania i utrzymywania znaków granicznych na morskich wodach wewnętrznych (Dz. U. poz. 2433).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 19 października 2023 r. zmieniającego rozporządzenie w sprawie obowiązków wojewody w zakresie finansowania i utrzymywania przejść granicznych, przejść turystycznych, miejsc przekraczania granicy na szlakach turystycznych oraz punktów nocnego postoju na rzekach granicznych, ich wyposażenia w sprzęt, a także organów właściwych do osadzania i utrzymywania znaków granicznych na morskich wodach wewnętrznych (Dz. U. poz. 2433), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 19 października 2023 r. zmieniającego rozporządzenie w sprawie obowiązków wojewody w zakresie finansowania i utrzymywania przejść granicznych, przejść turystycznych, miejsc przekraczania granicy na szlakach turystycznych oraz punktów nocnego postoju na rzekach granicznych, ich wyposażenia w sprzęt, a także organów właściwych do osadzania i utrzymywania znaków granicznych na morskich wodach wewnętrznych (Dz. U. poz. 2433), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Rady Ministrów z dnia 13 grudnia 2005 r. w sprawie obowiązków wojewody w zakresie finansowania i utrzymywania przejść granicznych, przejść turystycznych, miejsc przekraczania granicy na szlakach turystycznych oraz punktów nocnego postoju na rzekach granicznych, ich wyposażenia w sprzęt, a także organów właściwych do osadzania i utrzymywania znaków granicznych na morskich wodach wewnętrznych
 Na podstawie art. 17 ust. 3 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2022 r. poz. 295 oraz z 2023 r. poz. 1114 i 1489) zarządza się, co następuje:
 § 1.
@@ -58,12 +56,12 @@ b)
 pomieszczeń biurowych, w tym do przetwarzania informacji niejawnych w wydzielonych strefach bezpieczeństwa, oraz pomieszczeń przeznaczonych do pobierania odcisków linii papilarnych oraz wykonywania zdjęć sygnalitycznych, wyposażonych w urządzenia techniczne oraz urządzenia i sprzęt używane do przeprowadzania kontroli,
 c)
 pomieszczeń socjalnych i magazynowych niezbędnych do bieżącego funkcjonowania przejścia granicznego, wyposażonych w sprzęt kwaterunkowy i biurowy,
-d)
+dW brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 19 października 2023 r. zmieniającego rozporządzenie w sprawie obowiązków wojewody w zakresie finansowania i utrzymywania przejść granicznych, przejść turystycznych, miejsc przekraczania granicy na szlakach turystycznych oraz punktów nocnego postoju na rzekach granicznych, ich wyposażenia w sprzęt, a także organów właściwych do osadzania i utrzymywania znaków granicznych na morskich wodach wewnętrznych (Dz. U. poz. 2433), które weszło w życie z dniem 10 listopada 2023 r.)
 pomieszczeń przeznaczonych dla osób zatrzymanych lub pomieszczeń przeznaczonych dla cudzoziemców, którym odmówiono wjazdu na terytorium Rzeczypospolitej Polskiej, o których mowa w art. 461 ust. 1 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547), oraz do wykonywania czynności, o których mowa w art. 34 ust. 1 tej ustawy, w związku z kontrolą,
 e)
 pomieszczeń przeznaczonych do przetrzymywania zwierząt domowych oraz innych zwierząt i roślin, wyposażonych w konieczne urządzenia, do czasu zastosowania niezbędnych środków,
 f)
-wydzielonych pomieszczeń stałego dozoru przeznaczonych do odizolowania osób podejrzanych o choroby zakaźne ujawnione w związku z dokonywaną kontrolą, przed przewiezieniem ich do zakładu opieki zdrowotnej  lub powrotu na terytorium państwa wyjazdu,
+wydzielonych pomieszczeń stałego dozoru przeznaczonych do odizolowania osób podejrzanych o choroby zakaźne ujawnione w związku z dokonywaną kontrolą, przed przewiezieniem ich do zakładu opieki zdrowotnej Obecnie zakładu leczniczego podmiotu leczniczego na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. lub powrotu na terytorium państwa wyjazdu,
 g)
 pomieszczeń na magazyn broni służbowej i sprzęt techniki specjalnej oraz pomieszczeń wraz z urządzeniami do bezpośredniego załadowania i rozładowania broni służbowej,
 h)
@@ -124,5 +122,5 @@ W przypadku gdy w przejściu granicznym w dniu wejścia w życie rozporządzenia
 § 12.
 Traci moc rozporządzenie Rady Ministrów z dnia 28 maja 1991 r. w sprawie określenia zakresu obowiązków organów obowiązanych do utrzymywania przejść granicznych oraz źródeł finansowania tych przedsięwzięć, a także określenia organów zobowiązanych do osadzania i utrzymywania znaków granicznych na morskich wodach wewnętrznych (Dz. U. poz. 215).
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2006 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2006 r. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 19 października 2023 r. zmieniającego rozporządzenie w sprawie obowiązków wojewody w zakresie finansowania i utrzymywania przejść granicznych, przejść turystycznych, miejsc przekraczania granicy na szlakach turystycznych oraz punktów nocnego postoju na rzekach granicznych, ich wyposażenia w sprzęt, a także organów właściwych do osadzania i utrzymywania znaków granicznych na morskich wodach wewnętrznych (Dz. U. poz. 2433), które weszło w życie z dniem 10 listopada 2023 r. 2) Obecnie zakładu leczniczego podmiotu leczniczego na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r.
 

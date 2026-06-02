@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-10 |
 | Data wydania | 2018-07-03 |
-| Wejście w życie | 2018-07-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1284/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098 i 1099.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 w ust. 1 w pkt 5 w lit. d kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 - **6)** uprzedzona o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy oświadcza, że: nie został orzeczony w stosunku do niej, prawomocnym wyrokiem sądu, zakaz prowadzenia pojazdów mechanicznych, nie ma zatrzymanego prawa jazdy ani pozwolenia na kierowanie tramwajem, nie ma cofniętego uprawnienia do kierowania pojazdami. ” ;
@@ -44,5 +43,5 @@ source: "eli-html"
 
 **Art. 3.** Wnioski o wydanie prawa jazdy i pozwolenia na kierowanie tramwajem, których wzór został określony na podstawie przepisów dotychczasowych, oraz dokumenty stanowiące załączniki do wniosków o wydanie prawa jazdy i pozwolenia na kierowanie tramwajem złożone przed dniem wejścia w życie niniejszej ustawy zachowują ważność.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098 i 1099.
 

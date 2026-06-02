@@ -39,24 +39,18 @@ rozporządzeniem Ministra Zdrowia z dnia 5 marca 2021 r. zmieniającym rozporzą
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 95), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 95), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 1 lutego 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 231), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 1 lutego 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 231), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 5 marca 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 427), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 5 marca 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 427), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 12 sierpnia 2020 r. w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 12 sierpnia 2020 r. w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnejMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974 i 1079) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa standard organizacyjny teleporady udzielanej w ramach podstawowej opieki zdrowotnej, zwanej dalej „POZ”.
@@ -72,12 +66,19 @@ teleporada – świadczenie zdrowotne udzielane na odległość przy użyciu sys
 Ustala się standard organizacyjny teleporady udzielanej w ramach POZ, który obejmuje:
 1)
 informowanie przez świadczeniodawcę POZ w miejscu wykonywania świadczeń oraz na stronie internetowej tego świadczeniodawcy, a na żądanie pacjenta również telefonicznie, o warunkach udzielania teleporad z uwzględnieniem prawa pacjenta do zgłoszenia w trakcie teleporady woli osobistego kontaktu z właściwym personelem medycznym; informacja określa:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 5 marca 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 427), które weszło w życie z dniem 16 marca 2021 r.)
 świadczenia realizowane wyłącznie w bezpośrednim kontakcie z pacjentem obejmujące świadczenia udzielane:
-– w przypadku gdy pacjent albo jego opiekun ustawowy nie wyraził zgody na realizację świadczenia w formie teleporady, z wyłączeniem świadczeń: – – o których mowa w art. 42 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, z późn. zm.) oraz art. 15b ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 551, 583 i 830), – – związanych z wydaniem zaświadczenia, – podczas pierwszej wizyty realizowanej przez lekarza, pielęgniarkę lub położną POZ, wskazanych w deklaracji wyboru, o której mowa w art. 10 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej, – w związku z chorobą przewlekłą, w przebiegu której doszło do pogorszenia lub zmiany objawów, – w związku z podejrzeniem choroby nowotworowej, – dzieciom do 6. roku życia poza poradami kontrolnymi w trakcie leczenia, ustalonego w wyniku osobistego badania pacjenta, których udzielenie jest możliwe bez badania fizykalnego – z wyłączeniem świadczeń, o których mowa w części II ust. 2 pkt 1 lit. b oraz ust. 4 załącznika do rozporządzenia Ministra Zdrowia z dnia 8 października 2020 r. w sprawie standardu organizacyjnego opieki zdrowotnej nad pacjentem podejrzanym o zakażenie lub zakażonym wirusem SARS-CoV-2 (Dz. U. z 2022 r. poz. 382 i 383),
-aa)
+w przypadku gdy pacjent albo jego opiekun ustawowy nie wyraził zgody na realizację świadczenia w formie teleporady, z wyłączeniem świadczeń:
+– – o których mowa w art. 42 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1559 i 2232 oraz z 2022 r. poz. 583, 655, 830 i 974.) oraz art. 15b ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 551, 583 i 830),
+– – związanych z wydaniem zaświadczenia,
+– podczas pierwszej wizyty realizowanej przez lekarza, pielęgniarkę lub położną POZ, wskazanych w deklaracji wyboru, o której mowa w art. 10 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej,
+– w związku z chorobą przewlekłą, w przebiegu której doszło do pogorszenia lub zmiany objawów,
+– w związku z podejrzeniem choroby nowotworowej,
+– dzieciom do 6. roku życia poza poradami kontrolnymi w trakcie leczenia, ustalonego w wyniku osobistego badania pacjenta, których udzielenie jest możliwe bez badania fizykalnego
+– z wyłączeniem świadczeń, o których mowa w części II ust. 2 pkt 1 lit. b oraz ust. 4 załącznika do rozporządzenia Ministra Zdrowia z dnia 8 października 2020 r. w sprawie standardu organizacyjnego opieki zdrowotnej nad pacjentem podejrzanym o zakażenie lub zakażonym wirusem SARS-CoV-2 (Dz. U. z 2022 r. poz. 382 i 383)Rozporządzenie utraciło moc na podstawie § 1 rozporządzenia Ministra Zdrowia z dnia 27 kwietnia 2022 r. uchylającego rozporządzenie w sprawie standardu organizacyjnego opieki zdrowotnej nad pacjentem podejrzanym o zakażenie lub zakażonym wirusem SARS-CoV-2 (Dz. U. poz. 926), które weszło w życie z dniem 29 kwietnia 2022 r.,
+aaDodana przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 systemy teleinformatyczne lub systemy łączności, przy użyciu których świadczeniodawca POZ udziela teleporad,
-b)
+bW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 1 lutego 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 231), które weszło w życie z dniem 4 lutego 2021 r.)
 sposób ustalenia terminu teleporady, przy czym teleporada jest realizowana:
 – nie później niż w pierwszym dniu roboczym następującym po dniu zgłoszenia się pacjenta do świadczeniodawcy podstawowej opieki zdrowotnej za pośrednictwem systemu teleinformatycznego, systemu łączności lub osobistego, albo
 – w późniejszym niż określony w tiret pierwszym terminie ustalonym w porozumieniu z pacjentem lub jego opiekunem ustawowym,
@@ -116,13 +117,12 @@ a)
 udzielenie świadczenia zdrowotnego, w tym ustalenie, czy teleporada jest wystarczająca dla problemu zdrowotnego będącego jej przedmiotem, lub
 b)
 poinformowanie pacjenta o konieczności udzielenia świadczenia zdrowotnego w bezpośrednim kontakcie z pacjentem, jeżeli charakter aktualnego problemu zdrowotnego uniemożliwia udzielenie świadczenia zdrowotnego w formie teleporady;
-8)
+8Dodany przez § 1 pkt 2 rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 95), które weszło w życie z dniem 30 stycznia 2021 r.)
 zapewnienie pacjentowi możliwości kontaktu za pośrednictwem systemu teleinformatycznego lub systemu łączności, w tym kontaktu telefonicznego, w sposób umożliwiający nawiązanie połączenia ze świadczeniodawcą bez zbędnej zwłoki;
-9)
-przekazywanie przez świadczeniodawcę do oddziału wojewódzkiego Narodowego Funduszu Zdrowia informacji o udzielonej poradzie przy użyciu systemów teleinformatycznych lub systemów łączności, w sposób wskazany w szczegółowych warunkach umów określonych na podstawie art. 146 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.).
+9Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
+przekazywanie przez świadczeniodawcę do oddziału wojewódzkiego Narodowego Funduszu Zdrowia informacji o udzielonej poradzie przy użyciu systemów teleinformatycznych lub systemów łączności, w sposób wskazany w szczegółowych warunkach umów określonych na podstawie art. 146 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002 i 1079.).
 § 4.
 Świadczeniodawcy POZ dostosują swoją działalność do wymagań określonych w niniejszym rozporządzeniu w terminie 60 dni od dnia jego wejścia w życie.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 5 marca 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 427), które weszło w życie z dniem 16 marca 2021 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1559 i 2232 oraz z 2022 r. poz. 583, 655, 830 i 974. 4) Rozporządzenie utraciło moc na podstawie § 1 rozporządzenia Ministra Zdrowia z dnia 27 kwietnia 2022 r. uchylającego rozporządzenie w sprawie standardu organizacyjnego opieki zdrowotnej nad pacjentem podejrzanym o zakażenie lub zakażonym wirusem SARS-CoV-2 (Dz. U. poz. 926), które weszło w życie z dniem 29 kwietnia 2022 r. 5) Dodana przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 1 lutego 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 231), które weszło w życie z dniem 4 lutego 2021 r. 7) Dodany przez § 1 pkt 2 rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 95), które weszło w życie z dniem 30 stycznia 2021 r. 8) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002 i 1079. 10) Rozporządzenie zostało ogłoszone w dniu 14 sierpnia 2020 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 14 sierpnia 2020 r.. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 5 marca 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 427), które weszło w życie z dniem 16 marca 2021 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1559 i 2232 oraz z 2022 r. poz. 583, 655, 830 i 974. 4) Rozporządzenie utraciło moc na podstawie § 1 rozporządzenia Ministra Zdrowia z dnia 27 kwietnia 2022 r. uchylającego rozporządzenie w sprawie standardu organizacyjnego opieki zdrowotnej nad pacjentem podejrzanym o zakażenie lub zakażonym wirusem SARS-CoV-2 (Dz. U. poz. 926), które weszło w życie z dniem 29 kwietnia 2022 r. 5) Dodana przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 1 lutego 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 231), które weszło w życie z dniem 4 lutego 2021 r. 7) Dodany przez § 1 pkt 2 rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 95), które weszło w życie z dniem 30 stycznia 2021 r. 8) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002 i 1079. 10) Rozporządzenie zostało ogłoszone w dniu 14 sierpnia 2020 r.
 

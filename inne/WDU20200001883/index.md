@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-23 |
 | Data wydania | 2020-10-26 |
-| Wejście w życie | 2020-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001883) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1883/text.pdf) |
 
@@ -48,18 +47,15 @@ publiczne i niepubliczne szkoły podstawowe, o których mowa w art. 2 pkt 2 lit.
 2)
 publiczne i niepubliczne szkoły artystyczne realizujące kształcenie ogólne w zakresie szkoły podstawowej,
 3)
-publiczne szkoły podstawowe w zakładach poprawczych i schroniskach dla nieletnich, o których mowa w art. 8 ust. 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe
-zwane dalej „szkołami podstawowymi”,
+publiczne szkoły podstawowe w zakładach poprawczych i schroniskach dla nieletnich, o których mowa w art. 8 ust. 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – zwane dalej „szkołami podstawowymi”,
 4)
 szkoły polskie oraz szkoły i zespoły szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 1 lit. a i pkt 2 lit. c ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, działające w ramach Ośrodka Rozwoju Edukacji Polskiej za Granicą, zwane dalej „szkołami za granicą”,
 5)
 publiczne i niepubliczne szkoły ponadpodstawowe dla dzieci i młodzieży (licea ogólnokształcące, technika, branżowe szkoły I stopnia), o których mowa w art. 2 pkt 2 lit. b ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oraz szkoły artystyczne realizujące kształcenie ogólne w zakresie liceum ogólnokształcącego,
 6)
-publiczne szkoły ponadpodstawowe dla dzieci i młodzieży w zakładach poprawczych i schroniskach dla nieletnich (branżowe szkoły I stopnia), o których mowa w art. 8 ust. 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe
-zwane dalej „szkołami ponadpodstawowymi”,
+publiczne szkoły ponadpodstawowe dla dzieci i młodzieży w zakładach poprawczych i schroniskach dla nieletnich (branżowe szkoły I stopnia), o których mowa w art. 8 ust. 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – zwane dalej „szkołami ponadpodstawowymi”,
 7)
-specjalne ośrodki szkolno-wychowawcze, o których mowa w art. 2 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, dla uczniów niewidomych lub słabowidzących, zwane dalej „SOSW”
-może być udzielone wsparcie finansowe ze środków budżetu państwa, zwane dalej „wsparciem finansowym”.
+specjalne ośrodki szkolno-wychowawcze, o których mowa w art. 2 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, dla uczniów niewidomych lub słabowidzących, zwane dalej „SOSW” – może być udzielone wsparcie finansowe ze środków budżetu państwa, zwane dalej „wsparciem finansowym”.
 2.
 Wsparcie finansowe może być udzielone na zakup sprzętu, pomocy dydaktycznych i narzędzi do terapii, o których mowa w ust. 3–7, niezbędnych do realizacji programów nauczania z wykorzystaniem technologii informacyjno-komunikacyjnych, zwanych dalej „TIK”, w celu stosowania TIK na zajęciach, o których mowa w art. 109 ust. 1, 2 i 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 3.
@@ -339,8 +335,7 @@ informację o planowanych sposobach korzystania z zakupionego w ramach Programu 
 7)
 wnioskowaną kwotę wsparcia finansowego na zakup sprzętu, pomocy dydaktycznych lub narzędzi do terapii;
 8)
-informację o udziale w projektach na rzecz rozwoju kompetencji kluczowych i umiejętności uniwersalnych, w tym kompetencji cyfrowych, realizowanych w ramach Programu Operacyjnego Wiedza Edukacja Rozwój (w ramach projektów o zasięgu krajowym) – Priorytet inwestycyjny 10i, cel szczegółowy 1 – Poprawa funkcjonowania i zwiększenie wykorzystania systemu wspomagania szkół w zakresie rozwoju u uczniów kompetencji kluczowych i umiejętności
-uniwersalnych tzw. transversal skills niezbędnych na rynku pracy, obejmujących: umiejętności matematyczno-przyrodnicze, umiejętności posługiwania się językami obcymi (w tym język polski dla cudzoziemców i osób powracających do Polski oraz ich rodzin), ICT, umiejętność rozumienia (ang. literacy), kreatywność, innowacyjność, przedsiębiorczość, krytyczne myślenie, rozwiązywanie problemów, umiejętność uczenia się, umiejętność pracy zespołowej w kontekście środowiska pracy, jak również nauczania eksperymentalnego oraz metod zindywidualizowanego podejścia do ucznia lub Programu Operacyjnego Polska Cyfrowa – III oś priorytetowa Cyfrowe kompetencje społeczeństwa, działanie 3.1 „Działania szkoleniowe na rzecz rozwoju kompetencji cyfrowych” i działanie 3.2 „Innowacyjne rozwiązania na rzecz aktywizacji cyfrowej”, w szczególności w projekcie „Lekcja: Enter”;
+informację o udziale w projektach na rzecz rozwoju kompetencji kluczowych i umiejętności uniwersalnych, w tym kompetencji cyfrowych, realizowanych w ramach Programu Operacyjnego Wiedza Edukacja Rozwój (w ramach projektów o zasięgu krajowym) – Priorytet inwestycyjny 10i, cel szczegółowy 1 – Poprawa funkcjonowania i zwiększenie wykorzystania systemu wspomagania szkół w zakresie rozwoju u uczniów kompetencji kluczowych i umiejętności uniwersalnych tzw. transversal skills niezbędnych na rynku pracy, obejmujących: umiejętności matematyczno-przyrodnicze, umiejętności posługiwania się językami obcymi (w tym język polski dla cudzoziemców i osób powracających do Polski oraz ich rodzin), ICT, umiejętność rozumienia (ang. literacy), kreatywność, innowacyjność, przedsiębiorczość, krytyczne myślenie, rozwiązywanie problemów, umiejętność uczenia się, umiejętność pracy zespołowej w kontekście środowiska pracy, jak również nauczania eksperymentalnego oraz metod zindywidualizowanego podejścia do ucznia lub Programu Operacyjnego Polska Cyfrowa – III oś priorytetowa Cyfrowe kompetencje społeczeństwa, działanie 3.1 „Działania szkoleniowe na rzecz rozwoju kompetencji cyfrowych” i działanie 3.2 „Innowacyjne rozwiązania na rzecz aktywizacji cyfrowej”, w szczególności w projekcie „Lekcja: Enter”;
 9)
 numer szkoły podstawowej, szkoły ponadpodstawowej lub SOSW w Rejestrze Szkół i Placówek Oświatowych, o którym mowa w art. 7 ust. 1 pkt 29 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2019 r. poz. 1942 oraz z 2020 r. poz. 695).
 3.
@@ -453,7 +448,7 @@ Jeżeli po opublikowaniu wykazu szkół, o którym mowa w ust. 5, dyrektor szko�
 Wojewoda, minister, o którym mowa w § 3 ust. 1 pkt 4 lit. a-b oraz d-k, oraz dyrektor ORPEG przekazują ministrowi właściwemu do spraw oświaty i wychowania zbiorcze informacje o wysokości przyznanych szkołom podstawowym, szkołom ponadpodstawowym, szkołom za granicą i SOSW kwot wsparcia finansowego wraz z kopiami protokołu, o którym mowa w § 11 ust. 11.
 § 13.
 1.
-Wojewoda udziela dotacji organom prowadzącym szkoły podstawowe, szkoły ponadpodstawowe i SOSW zakwalifikowane do objęcia wsparciem finansowym, o których mowa w § 3 ust. 1 pkt 1–3, na podstawie umowy zawartej z organem prowadzącym zgodnie z art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.).
+Wojewoda udziela dotacji organom prowadzącym szkoły podstawowe, szkoły ponadpodstawowe i SOSW zakwalifikowane do objęcia wsparciem finansowym, o których mowa w § 3 ust. 1 pkt 1–3, na podstawie umowy zawartej z organem prowadzącym zgodnie z art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.).
 2.
 Zawarcie umowy, o której mowa w ust. 1, następuje niezwłocznie po zwiększeniu budżetu wojewodów przez ministra właściwego do spraw finansów publicznych.
 3.
@@ -525,5 +520,5 @@ Dla celów bieżącego monitoringu realizacji Programu, na żądanie ministra w�
 2.
 Szkoły podstawowe, szkoły ponadpodstawowe, SOSW, organy prowadzące te szkoły i SOSW, wojewodowie, szkoły za granicą i dyrektor ORPEG są obowiązani do udziału w badaniach na potrzeby ewaluacji Programu.
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.
 

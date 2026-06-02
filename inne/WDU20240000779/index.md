@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000779) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/779/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 5 sierpnia 2015 r. Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych Rozdział 1 – Przepisy ogólne Rozdział 2 – Wewnętrzna organizacja wojewódzkich sądów administracyjnych Rozdział 3 – Urządzenia zewnętrzne i wewnętrzne sądu oraz pieczęcie urzędowe Rozdział 4 – Czynności prezesa i wiceprezesa sądu oraz przewodniczącego wydziału Rozdział 5 – Przydział spraw i wyznaczanie składów orzekających Rozdział 6 – Czas urzędowania Rozdział 7 – Czynności wstępne w postępowaniu sądowoadministracyjnym Rozdział 8 – Posiedzenia Rozdział 9 – Orzeczenia Rozdział 10 – Czynności po wydaniu orzeczenia Rozdział 11 – Pytania prawne do Trybunału Konstytucyjnego Rozdział 12 – Pytania prawne do Trybunału Sprawiedliwości Unii Europejskiej Rozdział 13 – Przepisy końcowe
+Załącznik – Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 5 sierpnia 2015 r. Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 5 sierpnia 2015 r. – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 1177), z uwzględnieniem zmian wprowadzonych:
@@ -37,24 +37,22 @@ rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lipca 2022 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 1491), który stanowi:
-„
+§ 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lipca 2022 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 1491), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 15 lipca 2022 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 15 lipca 2022 r. ” ;
 2)
-§ 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 249), który stanowi:
-„
+§ 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 249), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni do dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni do dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 5 sierpnia 2015 r. Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych
 Na podstawie art. 23 § 1 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2022 r. poz. 2492 oraz z 2023 r. poz. 1615) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa wewnętrzną organizację i porządek funkcjonowania wojewódzkich sądów administracyjnych, tryb czynności sądowych, tryb wyznaczania składów orzekających oraz przypadki wyznaczania tych składów w drodze losowania i zasady losowania.
 2.
 Ilekroć w rozporządzeniu jest mowa o referendarzu sądowym, rozumie się przez to także starszego referendarza sądowego.
+Wewnętrzna organizacja wojewódzkich sądów administracyjnych
 § 2.
 1.
 Wojewódzki sąd administracyjny dzieli się na wydziały orzecznicze tworzone na podstawie, ustalonych w przepisach o biurowości, kryteriów rzeczowo-problemowych określających przedmiot spraw sądowoadministracyjnych.
@@ -157,6 +155,7 @@ W przypadku powołania dyrektora wojewódzkiego sądu administracyjnego dyrektor
 Zadania i obowiązki pełnomocnika do spraw ochrony informacji niejawnych oraz kancelarii tajnej określają przepisy o ochronie informacji niejawnych.
 2.
 Audyt wewnętrzny w wojewódzkich sądach administracyjnych jest wykonywany na zasadach określonych w przepisach o finansach publicznych.
+Urządzenia zewnętrzne i wewnętrzne sądu oraz pieczęcie urzędowe
 § 12.
 1.
 Na zewnątrz budynku, w którym mieści się sąd, umieszcza się tablicę z nazwą sądu oraz godłem państwowym.
@@ -177,6 +176,7 @@ Wojewódzki sąd administracyjny oraz prezes sądu posiadają swoje pieczęcie u
 Poszczególne wydziały sądu mogą używać osobnych egzemplarzy pieczęci. Kontrolę wydanych pieczęci prowadzi prezes sądu. Pieczęcie urzędowe o jednakowej treści są oznaczone numerami rozpoznawczymi umieszczonymi w otoku pieczęci.
 § 18.
 Odpowiedzialność za przechowywanie pieczęci wydanych do użytku wydziałów lub innych jednostek organizacyjnych sądu spoczywa na kierownikach sekretariatów tych wydziałów lub innych jednostek organizacyjnych.
+Czynności prezesa i wiceprezesa sądu oraz przewodniczącego wydziału
 § 19.
 1.
 Do obowiązków prezesa sądu w zakresie administracji sądowej należy w szczególności:
@@ -229,6 +229,7 @@ kontrola terminowości sporządzania uzasadnień orzeczeń;
 nadzorowanie i kontrola prawidłowości i sprawności wykonywania czynności powierzonych referendarzom sądowym;
 9)
 bieżąca kontrola nad prawidłowością i sprawnością wykonywania czynności przez sekretariat oraz prowadzenia ksiąg i innych urządzeń biurowych, w tym odnotowywanie ich sprawdzania co najmniej raz na kwartał, a także wydawanie stosownych zarządzeń.
+Przydział spraw i wyznaczanie składów orzekających
 § 22.
 1.
 Kolegium sądu, na wniosek prezesa sądu, przydziela sędziów i referendarzy sądowych do wydziałów orzeczniczych i określa szczegółowe zasady przydziału spraw sędziom oraz powierzania referendarzom sądowym wykonywania czynności określonych ustawą – Prawo o postępowaniu przed sądami administracyjnymi, uwzględniając specjalizację orzeczniczą sędziów, zakres obowiązków sędziego niezwiązanych z orzekaniem, wpływ spraw oraz obowiązek zapewnienia sprawności postępowania, a w szczególności zagwarantowania przez przewodniczącego wydziału orzeczniczego pełnego obciążenia sprawami rozpraw w ustalonych terminach oraz wyznaczania spraw najdłużej zalegających i podlegających wyznaczeniu w pierwszej kolejności.
@@ -259,21 +260,21 @@ Przewodniczący wydziału orzeczniczego może wskazać referendarza sądowego do
 § 25.
 Jeżeli sprawa podlega rozpoznaniu w składzie jednego sędziego, sędzia sprawozdawca jest składem orzekającym sądu.
 § 26.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 249), które weszło w życie z dniem 22 lutego 2023 r..
 Przewodniczący wydziału orzeczniczego ustala terminy posiedzeń jawnych i niejawnych w składach trzyosobowych na kolejne okresy trzymiesięczne oraz ustala składy orzekające i przewodniczących składów orzekających na każde z tych posiedzeń. Do każdego składu orzekającego przewodniczący wydziału orzeczniczego wyznacza dodatkowo jednego sędziego zastępcę. W przypadku konieczności dokonania zmiany w składzie orzekającym sędzia zastępca wchodzi do składu orzekającego.
-1a.
+1aDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 W sprawach, o których mowa w § 28, przepisu ust. 1 zdanie drugie i trzecie nie stosuje się.
 2.
 Na każdą z rozpraw są wyznaczane sprawy według kolejności wpływu, w których sprawozdawcami są sędziowie składu orzekającego sądu, rozpoznającego sprawy na tym posiedzeniu, z uwzględnieniem spraw, które podlegają rozpoznaniu poza kolejnością.
 3.
 Jeżeli sprawa podlega rozpoznaniu w składzie trzech sędziów, skład orzekający sądu wskazuje się w zarządzeniu o wyznaczeniu rozprawy. Zarządzenie o wyznaczeniu rozprawy wydaje przewodniczący wydziału orzeczniczego lub sędzia sprawozdawca.
 § 27.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Jeżeli z powodu przyczyn losowych lub przeszkód prawnych konieczna jest zmiana składu orzekającego, przewodniczący wydziału orzeczniczego, z uwzględnieniem § 26 ust. 1 zdanie drugie i trzecie, wyznacza innego sędziego według kolejności z alfabetycznej listy sędziów tego wydziału.
 2.
 Jeżeli z przyczyn losowych lub przeszkód prawnych konieczna jest zmiana referendarza sądowego, przewodniczący wydziału orzeczniczego powierza wykonywanie czynności innemu referendarzowi sądowemu.
 § 28.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lipca 2022 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 1491), które weszło w życie z dniem 15 lipca 2022 r..
 Przewodniczący wydziału orzeczniczego albo sędzia pełniący jego obowiązki zarządza wyznaczenie składu orzekającego w drodze losowania:
 1)
 w sprawie przekazanej sądowi do ponownego rozpoznania;
@@ -287,23 +288,24 @@ w sprawie ze skargi o wznowienie postępowania.
 Sędzia sprawozdawca może wystąpić z wnioskiem do prezesa sądu o wyznaczenie składu orzekającego w drodze losowania, jeżeli przemawiają za tym szczególnie uzasadnione względy.
 § 29.
 1.
-Przewodniczący wydziału orzeczniczego albo sędzia pełniący jego obowiązki wyznacza niezwłocznie termin przeprowadzenia losowania. W przypadku, o którym mowa w § 28 ust. 2, termin losowania wyznacza się, jeżeli prezes sądu uwzględni wniosek.
+Przewodniczący wydziału orzeczniczego albo sędzia pełniący jego obowiązki wyznacza niezwłocznie termin przeprowadzenia losowania.Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. W przypadku, o którym mowa w § 28 ust. 2, termin losowania wyznacza się, jeżeli prezes sądu uwzględni wniosek.
 2.
 Skład orzekający w sprawie losuje się spośród wszystkich sędziów wydziału orzeczniczego, z wyłączeniem sędziów, którzy nie mogą brać udziału w składzie orzekającym z powodu przeszkód prawnych.
-2a.
+2aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku, o którym mowa w art. 5a § 10 zdanie pierwsze ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych, skład orzekający w sprawie losuje się spośród całego składu sądu, z wyłączeniem sędziów wyłączonych z losowania na podstawie art. 5a § 10 zdanie trzecie tej ustawy.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 4..
 Losowanie przeprowadza się w ten sposób, że jednakowe kartki z odrębnie wypisanymi nazwiskami i imionami sędziów biorących udział w losowaniu umieszcza się w nieprzezroczystym pojemniku, z którego przewodniczący wydziału orzeczniczego albo sędzia pełniący jego obowiązki kolejno losuje niezbędną liczbę kartek w zależności od liczebności składu orzekającego. Czynności, o których mowa w zdaniu pierwszym, przeprowadza się przy udziale protokolanta.
-3a.
+3aDodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku, o którym mowa w art. 5a § 10 zdanie pierwsze ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych, losuje się dodatkowo dwóch sędziów zastępców. W przypadku konieczności dokonania zmiany w składzie orzekającym sędziowie zastępcy wchodzą do składu orzekającego w kolejności wylosowania.
-3b.
+3bDodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku, o którym mowa w art. 5a § 10 zdanie pierwsze ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych, jeżeli wylosowano sędziego, po którego stronie zachodzi długotrwała i uzasadniona przeszkoda w orzekaniu, sędzia ten nie wchodzi do składu orzekającego ani nie jest sędzią zastępcą. W takim przypadku dokonuje się powtórnego losowania sędziego. Przepis zdania pierwszego i drugiego stosuje się.
-3c.
+3cDodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 4..
 Jeżeli sprawa podlega rozpoznaniu w innym składzie niż skład jednego sędziego, spośród sędziów którzy wchodzą do składu orzekającego, sędzia wylosowany jako pierwszy jest sędzią sprawozdawcą. Sędzia wylosowany jako drugi jest przewodniczącym. Jeżeli wylosowano prezesa sądu lub wiceprezesa sądu przewodnictwo należy do niego. Jeżeli wylosowano więcej niż jednego wiceprezesa sądu przewodnictwo należy do pierwszego wylosowanego wiceprezesa sądu.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. e rozporządzenia, o którym mowa w odnośniku 4..
 Z przebiegu losowania sporządza się protokół losowania, który podpisują przewodniczący wydziału orzeczniczego albo sędzia pełniący jego obowiązki i protokolant. Protokół powinien zawierać oznaczenie sprawy, imiona i nazwiska sędziów, spośród których losowano skład orzekający, imiona i nazwiska wyznaczonych w drodze losowania członków składu orzekającego, w tym sędziego sprawozdawcy i przewodniczącego, imiona i nazwiska sędziów zastępców, imiona i nazwiska sędziów, którzy nie weszli do składu orzekającego ani nie zostali sędziami zastępcami w przypadku, o którym mowa w ust. 3b zdanie pierwsze, oraz imiona i nazwiska sędziów wyłączonych z losowania wraz z podaniem przyczyny tego wyłączenia. Protokół dołącza się do akt sprawy.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 2 lit. e rozporządzenia, o którym mowa w odnośniku 4..
 W przypadku konieczności dokonania zmiany w składzie orzekającym wyznaczonym w drodze losowania przeprowadza się losowanie uzupełniające, z tym że w przypadku, o którym mowa o którym mowa w art. 5a § 10 zdanie pierwsze ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych, losowanie uzupełniające przeprowadza się, jeżeli konieczność dokonania zmiany w składzie orzekającym powstała po wejściu do składu orzekającego obydwu sędziów zastępców. Do losowania uzupełniającego przepisy ust. 1–4 stosuje się odpowiednio.
+Czas urzędowania
 § 30.
 1.
 Prezes sądu ustala godziny urzędowania sądu oraz godziny przyjęć interesantów przez prezesa, wiceprezesów sądu, przewodniczących wydziałów oraz kierowników innych jednostek organizacyjnych. Informację o tym zamieszcza się na tablicy przeznaczonej do wywieszania obwieszczeń.
@@ -311,6 +313,7 @@ Prezes sądu ustala godziny urzędowania sądu oraz godziny przyjęć interesant
 Wydział informacji sądowej przyjmuje interesantów w godzinach urzędowania sądu.
 § 31.
 Osoby pełniące funkcje kierownicze w sądzie powinny być obecne w godzinach urzędowania sądu.
+Czynności wstępne w postępowaniu sądowoadministracyjnym
 § 32.
 1.
 Sprawy wniesione do sądu rozpoznaje się na rozprawie według kolejności ich wpływu, chyba że przepis szczególny stanowi inaczej.
@@ -353,6 +356,7 @@ kontrolowanie prawidłowości i sprawności wykonywania czynności powierzonych 
 W sprawach, w których skarżący lub organ złożyli wniosek o przeprowadzenie postępowania mediacyjnego, oraz w sprawach, w których mimo braku takiego wniosku zachodzą okoliczności wskazujące na celowość przeprowadzenia postępowania mediacyjnego, postępowanie mediacyjne przeprowadza sędzia sprawozdawca lub referendarz sądowy wyznaczony przez przewodniczącego wydziału orzeczniczego.
 3.
 Na posiedzenie mediacyjne wzywa się strony do osobistego stawiennictwa. Za organ, którego działanie lub bezczynność jest przedmiotem skargi, powinna stawić się osoba umocowana do przyjęcia ustaleń co do sposobu załatwienia sprawy.
+Posiedzenia
 § 38.
 Dla każdej sprawy wyznaczonej na rozprawę określa się godzinę rozpoczęcia jej rozpoznania, z uwzględnieniem przypuszczalnego czasu trwania spraw, które ją poprzedzają, oraz możliwości dojazdu do sądu osób zamieszkałych poza siedzibą sądu, a także, w miarę możliwości, uzasadnionych wniosków w tym przedmiocie, zgłoszonych przez strony, ich pełnomocników lub przedstawicieli.
 § 39.
@@ -423,6 +427,7 @@ Protokół podpisuje się bezpośrednio po zakończeniu posiedzenia, a w wyjątk
 Z posiedzenia niejawnego nie spisuje się protokołu, chyba że na posiedzeniu tym wysłuchano wezwane przez sąd osoby lub dokonano innych czynności procesowych.
 § 52.
 Skreśleń i poprawek w protokole dokonuje się tak, aby wyrazy skreślone i poprawione były czytelne. Poprawki i uzupełnienia treści protokołu omawia się w końcowej części protokołu, przed jego podpisaniem, albo w osobnej wzmiance podpisanej przez protokolanta i przewodniczącego składu orzekającego.
+Orzeczenia
 § 53.
 1.
 Orzeczenie podlegające ogłoszeniu na rozprawie sporządza się i ogłasza bezpośrednio po zamknięciu rozprawy i naradzie, chyba że sąd odroczył ogłoszenie orzeczenia na inny dzień.
@@ -449,6 +454,7 @@ Sędzia zgłaszający zdanie odrębne uzasadnia je w terminie, o którym mowa w 
 Uzasadnienia zdania odrębnego nie doręcza się stronom.
 § 56.
 Pouczenie strony działającej bez adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego co do sposobu wniesienia środka odwoławczego powinno wskazywać czynności, które może wykonać tylko adwokat, radca prawny, doradca podatkowy lub rzecznik patentowy, a także podstawy i tryb wystąpienia z wnioskiem o ustanowienie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego.
+Czynności po wydaniu orzeczenia
 § 57.
 1.
 W razie wniesienia skargi kasacyjnej lub zażalenia przewodniczący wydziału orzeczniczego bada, czy środek odwoławczy odpowiada wymaganiom formalnym oraz czy został uiszczony wpis, a w razie potrzeby wzywa do usunięcia braków formalnych lub uiszczenia wpisu. Przewodniczący wydziału orzeczniczego może powierzyć referendarzowi sądowemu ustalenie, czy środek odwoławczy czyni zadość wymaganiom formalnym, a w razie potrzeby wezwanie do usunięcia braków formalnych.
@@ -458,6 +464,7 @@ Jeżeli w związku z wniesieniem skargi kasacyjnej lub zażalenia ma być wyznac
 Wniesioną skargę kasacyjną spełniającą wymogi formalne i opłaconą przewodniczący wydziału orzeczniczego niezwłocznie przekazuje sędziemu sprawozdawcy lub innemu członkowi składu orzekającego celem dokonania niezwłocznie oceny dopuszczalności zastosowania art. 179a ustawy – Prawo o postępowaniu przed sądami administracyjnymi. Jeżeli sędzia stwierdzi dopuszczalność zastosowania tego przepisu, kieruje sprawę do rozpoznania przez sąd na rozprawie albo na posiedzeniu niejawnym w składzie i terminie wyznaczonym przez przewodniczącego wydziału orzeczniczego.
 § 58.
 Jeżeli odpowiedź na skargę kasacyjną lub zażalenie została wniesiona po przedstawieniu akt sprawy Naczelnemu Sądowi Administracyjnemu, wojewódzki sąd administracyjny niezwłocznie przesyła odpowiedź do Naczelnego Sądu Administracyjnego.
+Pytania prawne do Trybunału Konstytucyjnego
 § 59.
 1.
 Postanowienie o przedstawieniu pytania prawnego do Trybunału Konstytucyjnego zawiera:
@@ -477,6 +484,7 @@ wskazanie przedstawiciela składu orzekającego.
 Postanowienie o przedstawieniu pytania prawnego skład orzekający przedstawia Trybunałowi Konstytucyjnemu wraz z aktami sprawy za pośrednictwem prezesa sądu.
 § 60.
 Skład orzekający zawiadamia prezesa sądu o stwierdzonej w toku rozpoznawania sprawy niezgodności aktu normatywnego lub jego części z Konstytucją, umową międzynarodową lub ustawą, jeżeli brak jest podstaw do przedstawienia pytania prawnego. Prezes sądu przekazuje zawiadomienie niezwłocznie Prezesowi Naczelnego Sądu Administracyjnego.
+Pytania prawne do Trybunału Sprawiedliwości Unii Europejskiej
 § 61.
 1.
 Postanowienie o przedstawieniu pytania prawnego do Trybunału Sprawiedliwości Unii Europejskiej w trybie prejudycjalnym zawiera w szczególności:
@@ -498,14 +506,41 @@ Skład orzekający kierujący pytanie decyduje, czy i w jakim zakresie przesyła
 Informacje o treści wydawanych postanowień zawierających pytania prawne do Trybunału Sprawiedliwości Unii Europejskiej przekazuje się niezwłocznie do Biura Orzecznictwa Naczelnego Sądu Administracyjnego.
 § 62.
 Skład orzekający przesyła do Trybunału Sprawiedliwości Unii Europejskiej odpis orzeczenia kończącego postępowanie, w którym zapadło orzeczenie w trybie prejudycjalnym, wskazując numer sprawy, pod którym toczyło się postępowanie przed Trybunałem Sprawiedliwości Unii Europejskiej.
+Przepisy końcowe
 § 63.
 Traci moc rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 18 września 2003 r. – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 1646 oraz z 2015 r. poz. 402).
 § 64.
-Rozporządzenie wchodzi w życie z dniem 15 sierpnia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 15 sierpnia 2015 r. 1) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 249), które weszło w życie z dniem 22 lutego 2023 r. 2) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lipca 2022 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 1491), które weszło w życie z dniem 15 lipca 2022 r. 5) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 6) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 4. 8) Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 4. 9) W brzmieniu ustalonym przez § 1 pkt 2 lit. e rozporządzenia, o którym mowa w odnośniku 4.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wewnętrzna organizacja wojewódzkich sądów administracyjnych
+#### Rozdział 2 – Wewnętrzna organizacja wojewódzkich sądów administracyjnych
+
+#### Rozdział 3 – Urządzenia zewnętrzne i wewnętrzne sądu oraz pieczęcie urzędowe
+
+#### Rozdział 4 – Czynności prezesa i wiceprezesa sądu oraz przewodniczącego wydziału
+
+#### Rozdział 5 – Przydział spraw i wyznaczanie składów orzekających
+
+#### Rozdział 6 – Czas urzędowania
+
+#### Rozdział 7 – Czynności wstępne w postępowaniu sądowoadministracyjnym
+
+#### Rozdział 8 – Posiedzenia
+
+#### Rozdział 9 – Orzeczenia
+
+#### Rozdział 10 – Czynności po wydaniu orzeczenia
+
+#### Rozdział 11 – Pytania prawne do Trybunału Konstytucyjnego
+
+#### Rozdział 12 – Pytania prawne do Trybunału Sprawiedliwości Unii Europejskiej
+
+#### Rozdział 13 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
 
 ##### Oddział spraw ogólnych i osobowych wykonuje zadania w zakresie:
 
@@ -513,25 +548,25 @@ Rozporządzenie wchodzi w życie z dniem 15 sierpnia 2015 r.
 
 ##### Oddział finansowo-budżetowy wykonuje zadania w zakresie:
 
-#### Rozdział 3 Urządzenia zewnętrzne i wewnętrzne sądu oraz pieczęcie urzędowe
+#### Rozdział 3
 
-#### Rozdział 4 Czynności prezesa i wiceprezesa sądu oraz przewodniczącego wydziału
+#### Rozdział 4
 
-#### Rozdział 5 Przydział spraw i wyznaczanie składów orzekających
+#### Rozdział 5
 
-#### Rozdział 6 Czas urzędowania
+#### Rozdział 6
 
-#### Rozdział 7 Czynności wstępne w postępowaniu sądowoadministracyjnym
+#### Rozdział 7
 
-#### Rozdział 8 Posiedzenia
+#### Rozdział 8
 
-#### Rozdział 9 Orzeczenia
+#### Rozdział 9
 
-#### Rozdział 10 Czynności po wydaniu orzeczenia
+#### Rozdział 10
 
-#### Rozdział 11 Pytania prawne do Trybunału Konstytucyjnego
+#### Rozdział 11
 
-#### Rozdział 12 Pytania prawne do Trybunału Sprawiedliwości Unii Europejskiej
+#### Rozdział 12
 
-#### Rozdział 13 Przepisy końcowe
+#### Rozdział 13
 

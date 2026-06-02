@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej oraz ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
+# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej oraz ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60, Dz. Urz. UE L 134 z 24.05.2016, str. 135, Dz. Urz. UE L 317 z 01.12.2017, str. 119, Dz. Urz. UE L 104 z 15.04.2019, str. 1, Dz. Urz. UE L 131 z 24.04.2020, str. 1 oraz Dz. Urz. UE L 444 z 10.12.2021, str. 16); 2) dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/958 z dnia 28 czerwca 2018 r. w sprawie analizy proporcjonalności przed przyjęciem nowych regulacji dotyczących zawodów (Dz. Urz. UE L 173 z 09.07.2018, str. 25).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-07 |
 | Data wydania | 2022-08-02 |
-| Wejście w życie | 2022-08-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1616/text.pdf) |
 
@@ -47,14 +46,14 @@ source: "eli-html"
 
 - **1)** podczas zdobywania doświadczenia zawodowego lub
 - **2)** przez potwierdzone efekty uczenia się w rozumieniu przepisów o szkolnictwie wyższym i nauce, lub
-- **3)** przez potwierdzone efekty kształcenia w rozumieniu przepisów o systemie oświaty wyrównują w całości albo w części istotnie różniący się materiał. ” , ust. 2 otrzymuje brzmienie: „
+- **3)** przez potwierdzone efekty kształcenia w rozumieniu przepisów o systemie oświaty – wyrównują w całości albo w części istotnie różniący się materiał. ” , ust. 2 otrzymuje brzmienie: „
     - **c)**
 
 2. W postanowieniu, o którym mowa w ust. 1, właściwy organ określa:
 
 - **1)** poziom kwalifikacji zawodowych wymagany do wykonywania zawodu regulowanego w Rzeczypospolitej Polskiej i poziom kwalifikacji zawodowych posiadanych przez wnioskodawcę,
 - **2)** zakres istotnie różniącego się materiału podlegającego wyrównaniu oraz powody braku możliwości wyrównania tego materiału wiedzą, umiejętnościami i kompetencjami nabytymi przez wnioskodawcę w sposób określony w ust. 1a,
-- **3)** zakres i czas trwania stażu adaptacyjnego lub zakres testu umiejętności mając na uwadze konieczność wyrównania istotnie różniącego się materiału w stopniu niezbędnym do wykonywania zawodu regulowanego albo podjęcia lub wykonywania działalności regulowanej. ” ;
+- **3)** zakres i czas trwania stażu adaptacyjnego lub zakres testu umiejętności – mając na uwadze konieczność wyrównania istotnie różniącego się materiału w stopniu niezbędnym do wykonywania zawodu regulowanego albo podjęcia lub wykonywania działalności regulowanej. ” ;
 - **4)** w art. 21 w ust. 4 pkt 2 otrzymuje brzmienie: „
 - **2)** wskazania zakresu istotnie różniącego się materiału, z uwzględnieniem stopnia wyrównania tego materiału w sposób określony w art. 20 ust. 1a. ” ;
 - **5)** art. 29 otrzymuje brzmienie: „
@@ -87,7 +86,7 @@ source: "eli-html"
 
 - **1)** zakres znajomości języka polskiego w mowie i w piśmie w stopniu niezbędnym do wykonywania danego zawodu regulowanego albo danej działalności regulowanej,
 - **2)** sposób przeprowadzania egzaminu z języka polskiego,
-- **3)** jednostki przeprowadzające egzamin z języka polskiego mając na względzie zakres czynności zawodowych wykonywanych w ramach danego zawodu regulowanego albo danej działalności regulowanej, konieczność zachowania proporcjonalności sprawdzania znajomości języka polskiego oraz przejrzystość przeprowadzania egzaminu z języka polskiego. ” ;
+- **3)** jednostki przeprowadzające egzamin z języka polskiego – mając na względzie zakres czynności zawodowych wykonywanych w ramach danego zawodu regulowanego albo danej działalności regulowanej, konieczność zachowania proporcjonalności sprawdzania znajomości języka polskiego oraz przejrzystość przeprowadzania egzaminu z języka polskiego. ” ;
 - **6)** w art. 34 ust. 4 otrzymuje brzmienie: „
 
 4. W przypadku gdy zakres kształcenia lub szkolenia odbytego przez usługodawcę obejmuje istotnie różniący się materiał, w którym wykazano różnice mogące być szkodliwe dla zdrowia lub bezpieczeństwa publicznego, a wiedza, umiejętności lub kompetencje nabyte przez usługodawcę podczas zdobywania doświadczenia zawodowego lub przez potwierdzone efekty uczenia się, lub przez potwierdzone efekty kształcenia nie mogą wyrównać tych różnic, właściwy organ zobowiązuje usługodawcę do przystąpienia do testu umiejętności i w terminie miesiąca od nałożenia tego zobowiązania wydaje decyzję w sprawie uznania kwalifikacji. ” ;
@@ -140,5 +139,5 @@ source: "eli-html"
 - **4)** adres czasowego wykonywania zawodu i oznaczenie czasu wykonywania czynności zawodowych podjętych na terenie działania okręgowej izby lekarsko-weterynaryjnej, jeżeli jest to możliwe;
 - **5)** adres poczty elektronicznej lub numer telefonu, jeżeli zostały podane. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60, Dz. Urz. UE L 134 z 24.05.2016, str. 135, Dz. Urz. UE L 317 z 01.12.2017, str. 119, Dz. Urz. UE L 104 z 15.04.2019, str. 1, Dz. Urz. UE L 131 z 24.04.2020, str. 1 oraz Dz. Urz. UE L 444 z 10.12.2021, str. 16); 2) dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/958 z dnia 28 czerwca 2018 r. w sprawie analizy proporcjonalności przed przyjęciem nowych regulacji dotyczących zawodów (Dz. Urz. UE L 173 z 09.07.2018, str. 25).
 

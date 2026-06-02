@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-06 |
 | Data wydania | 2015-10-20 |
-| Wejście w życie | 2016-07-01 |
 | Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001645) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1645/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 7 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 7 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 993 i 1585 oraz z 2015 r. poz. 218, 978, 1137, 1224 i 1311.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -107,5 +106,5 @@ przelewem na wskazany rachunek bankowy.
 3.
 W przypadku, o którym mowa w ust. 1, notariusz odnotowuje w ewidencji w rubryce „uwagi” wysokość kwoty zwrotu, datę i sposób jej przekazania oraz dane osoby, której zwrócił opłatę.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 27 sierpnia 2001 r. w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis do księgi wieczystej zamieszczanych w aktach notarialnych (Dz. U. Nr 90, poz. 1011 oraz z 2006 r. Nr 92, poz. 646). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 993 i 1585 oraz z 2015 r. poz. 218, 978, 1137, 1224 i 1311. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 27 sierpnia 2001 r. w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis do księgi wieczystej zamieszczanych w aktach notarialnych (Dz. U. Nr 90, poz. 1011 oraz z 2006 r. Nr 92, poz. 646).
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-09 |
 | Data wydania | 2013-12-16 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1550/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 21a ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 21a ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496, z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016, z 2012 r. poz. 908 oraz z 2013 r. poz. 628 i 829.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy wykonującego działalność gospodarczą w zakresie usług ochrony osób i mienia za szkody wyrządzone w związku z ochroną osób i mienia, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia OC oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2.
@@ -65,5 +64,5 @@ Jeżeli przedsiębiorca rozpoczyna wykonywanie działalności gospodarczej w zak
 3.
 Kwoty, o których mowa w ust. 1 i 2, są ustalane przy zastosowaniu kursu średniego euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym umowa ubezpieczenia OC została zawarta.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496, z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016, z 2012 r. poz. 908 oraz z 2013 r. poz. 628 i 829.
 

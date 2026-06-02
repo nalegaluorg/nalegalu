@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-10 |
 | Data wydania | 2016-10-21 |
-| Wejście w życie | 2016-11-05 |
 | Ostatnia zmiana | 2025-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001732) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1732/text.pdf) |
 
@@ -188,5 +187,5 @@ Jeżeli przepisy nie stanowią inaczej, prokuratorzy regionalni i okręgowi oraz
 2.
 W sprawach zawiłych, jeżeli wymagają tego okoliczności sprawy, prokuratorzy regionalni i okręgowi oraz Dyrektor Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu i naczelnicy oddziałowych komisji ścigania zbrodni przeciwko Narodowi Polskiemu mogą porozumiewać się z instytucjami Unii Europejskiej za pośrednictwem Prokuratury Krajowej.
 § 26.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 30 kwietnia 2012 r. w sprawie sposobu realizacji zadań związanych ze współpracą powszechnych jednostek organizacyjnych prokuratury z organizacjami międzynarodowymi lub ponadnarodowymi działającymi na podstawie umów międzynarodowych (Dz. U. poz. 530), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 30 kwietnia 2012 r. w sprawie sposobu realizacji zadań związanych ze współpracą powszechnych jednostek organizacyjnych prokuratury z organizacjami międzynarodowymi lub ponadnarodowymi działającymi na podstawie umów międzynarodowych (Dz. U. poz. 530), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) z dniem wejścia w życie niniejszego rozporządzenia.
 

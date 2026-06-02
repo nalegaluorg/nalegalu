@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw
+# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-20 |
 | Data wydania | 2015-04-17 |
-| Wejście w życie | 2015-10-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000539) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/539/text.pdf) |
 
+Zabezpieczenie spadku, wykaz inwentarza i spis inwentarza”;
 3)
-art. 633 i art. 634 otrzymują brzmienie:
-„
+art. 633 i art. 634 otrzymują brzmienie: „
 
-**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4 i 397.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1015 § 2 otrzymuje brzmienie: „
 
@@ -59,7 +58,7 @@ art. 633 i art. 634 otrzymują brzmienie:
 
 § 2. Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
-- **1)** wzór wykazu inwentarza obejmujący: dane, o których mowa w art. 10311 § 3, imię i nazwisko, numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany, oraz ostatni adres spadkodawcy, imię i nazwisko, numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku – numer w innym właściwym rejestrze, ewidencji lub numer identyfikacji podatkowej (NIP), jeżeli został nadany, oraz adres składającego wykaz inwentarza, pouczenie składającego wykaz inwentarza co do obowiązku jego uzupełnienia, w przypadkach wskazanych w art. 10311 § 4 mając na uwadze zamieszczenie danych koniecznych do ustalenia stanu czynnego spadku oraz standaryzację danych zawartych w wykazie;
+- **1)** wzór wykazu inwentarza obejmujący: dane, o których mowa w art. 10311 § 3, imię i nazwisko, numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany, oraz ostatni adres spadkodawcy, imię i nazwisko, numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku – numer w innym właściwym rejestrze, ewidencji lub numer identyfikacji podatkowej (NIP), jeżeli został nadany, oraz adres składającego wykaz inwentarza, pouczenie składającego wykaz inwentarza co do obowiązku jego uzupełnienia, w przypadkach wskazanych w art. 10311 § 4 – mając na uwadze zamieszczenie danych koniecznych do ustalenia stanu czynnego spadku oraz standaryzację danych zawartych w wykazie;
     - **a)**
     - **b)**
     - **c)**
@@ -87,7 +86,7 @@ art. 633 i art. 634 otrzymują brzmienie:
 
 - **6)** w art. 10341 w § 2 zdanie drugie otrzymuje brzmienie: „ Spadkobiercom uwzględnia się ich udział w wartości ustalonego w wykazie inwentarza albo spisie inwentarza stanu czynnego spadku. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4 i 218.) wprowadza się następujące zmiany:
 
 - **1)** w art. 87 § 1 otrzymuje brzmienie: „
 
@@ -95,7 +94,7 @@ art. 633 i art. 634 otrzymują brzmienie:
 
 - **2)** w części pierwszej w księdze drugiej w tytule II w dziale IV tytuł rozdziału 1 otrzymuje brzmienie: „
 
-#### Rozdział 1 Zabezpieczenie spadku, wykaz inwentarza i spis inwentarza”;
+#### Rozdział 1
 
 **Art. 633.**
 
@@ -276,13 +275,13 @@ art. 633 i art. 634 otrzymują brzmienie:
 - **15)** w art. 831 w § 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
 - **8)** sumy przyznane orzeczeniem Europejskiego Trybunału Praw Człowieka, jeżeli egzekwowana wierzytelność przysługuje Skarbowi Państwa. ” .
 
-**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.) w art. 8 w § 1 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218 i 396.) w art. 8 w § 1 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „
 
 - **18)** sumy przyznane orzeczeniem Europejskiego Trybunału Praw Człowieka, jeżeli egzekwowana wierzytelność przysługuje Skarbowi Państwa. ” .
 
 **Art. 4.** W ustawie z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 389) w art. 19 ust. 4a otrzymuje brzmienie: „ 4a. Konsul nie może sporządzić aktu poświadczenia dziedziczenia oraz nie może przyjąć wykazu inwentarza. ” .
 
-**Art. 5.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4 i 238.) wprowadza się następujące zmiany:
 
 - **1)** w art. 113: po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **a)**
@@ -299,11 +298,11 @@ art. 633 i art. 634 otrzymują brzmienie:
 
 - **3)** po art. 121 dodaje się art. 121a w brzmieniu: „
 
-**Art. 121a.** Należności sądowe podlegają umorzeniu na wniosek dłużnika w razie stwierdzenia przez Europejski Trybunał Praw Człowieka, że w postępowaniu, w którym je zasądzono, naruszono wobec dłużnika Konwencję o ochronie praw człowieka i podstawowych wolności, sporządzoną w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. Nr 61, poz. 284 i 285, z późn. zm.) lub Protokoły dodatkowe do tej Konwencji. ” .
+**Art. 121a.** Należności sądowe podlegają umorzeniu na wniosek dłużnika w razie stwierdzenia przez Europejski Trybunał Praw Człowieka, że w postępowaniu, w którym je zasądzono, naruszono wobec dłużnika Konwencję o ochronie praw człowieka i podstawowych wolności, sporządzoną w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. Nr 61, poz. 284 i 285, z późn. zm.Zmiany wymienionej Konwencji zostały ogłoszone w Dz. U. z 1995 r. Nr 36, poz. 175, 176 i 177, z 1998 r. Nr 147, poz. 962, z 2001 r. Nr 23, poz. 266, z 2003 r. Nr 42, poz. 364 oraz z 2010 r. Nr 90, poz. 587.) lub Protokoły dodatkowe do tej Konwencji. ” .
 
 **Art. 6.** Przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do spadków otwartych przed dniem wejścia w życie niniejszej ustawy.
 
 **Art. 7.** Do postępowań w przedmiocie zabezpieczenia spadku i sporządzenia spisu inwentarza, w tym postępowań mających na celu wykonanie postanowienia o zabezpieczeniu spadku i sporządzeniu spisu inwentarza, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4 i 397. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4 i 218. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218 i 396. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4 i 238. 6) Zmiany wymienionej Konwencji zostały ogłoszone w Dz. U. z 1995 r. Nr 36, poz. 175, 176 i 177, z 1998 r. Nr 147, poz. 962, z 2001 r. Nr 23, poz. 266, z 2003 r. Nr 42, poz. 364 oraz z 2010 r. Nr 90, poz. 587.
 

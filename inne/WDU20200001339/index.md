@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 lipca 2020 r. o systemach homologacji typu UE i nadzoru rynku silników spalinowych przeznaczonych do maszyn mobilnych nieporuszających się po drogach
+# Ustawa z dnia 15 lipca 2020 r. o systemach homologacji typu UE i nadzoru rynku silników spalinowych przeznaczonych do maszyn mobilnych nieporuszających się po drogach Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1628 z dnia 14 września 2016 r. w sprawie wymogów dotyczących wartości granicznych emisji zanieczyszczeń gazowych i pyłowych oraz homologacji typu w odniesieniu do silników spalinowych wewnętrznego spalania przeznaczonych do maszyn mobilnych nieporuszających się po drogach, zmieniającego rozporządzenia (UE) nr 1024/2012 i (UE) nr 167/2013 oraz zmieniającego i uchylającego dyrektywę 97/68/WE (Dz. Urz. UE L 252 z 16.09.2016, str. 53 oraz Dz. Urz. UE L 231 z 06.09.2019, str. 29).
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,40 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-15 |
 | Data wydania | 2020-08-04 |
-| Wejście w życie | 2020-09-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001339) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1339/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności oraz ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
+Przepisy ogólne
+Służba techniczna
+Homologacja
+Nadzór rynku
+Administracyjne kary pieniężne
+Zmiany w przepisach obowiązujących
+Przepisy epizodyczne, przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Służba techniczna
+
+#### Rozdział 3 – Homologacja
+
+#### Rozdział 4 – Nadzór rynku
+
+#### Rozdział 5 – Administracyjne kary pieniężne
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 7 – Przepisy epizodyczne, przejściowe i końcowe
+
+#### Rozdział 1
 
 **Art. 1.**
 
 1. Ustawa określa zadania organów administracji publicznej i innych podmiotów w zakresie:
 
 - **1)** homologacji typu UE,
-- **2)** nadzoru rynku w odniesieniu do silników, o których mowa w art. 2 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1628 z dnia 14 września 2016 r. w sprawie wymogów dotyczących wartości granicznych emisji zanieczyszczeń gazowych i pyłowych oraz homologacji typu w odniesieniu do silników spalinowych wewnętrznego spalania przeznaczonych do maszyn mobilnych nieporuszających się po drogach, zmieniającego rozporządzenia (UE) nr 1024/2012 i (UE) nr 167/2013 oraz zmieniającego i uchylającego dyrektywę 97/68/WE (Dz. Urz. UE L 252 z 16.09.2016, str. 53, z późn. zm.), zwanego dalej „rozporządzeniem 2016/1628”.
+- **2)** nadzoru rynku – w odniesieniu do silników, o których mowa w art. 2 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1628 z dnia 14 września 2016 r. w sprawie wymogów dotyczących wartości granicznych emisji zanieczyszczeń gazowych i pyłowych oraz homologacji typu w odniesieniu do silników spalinowych wewnętrznego spalania przeznaczonych do maszyn mobilnych nieporuszających się po drogach, zmieniającego rozporządzenia (UE) nr 1024/2012 i (UE) nr 167/2013 oraz zmieniającego i uchylającego dyrektywę 97/68/WE (Dz. Urz. UE L 252 z 16.09.2016, str. 53, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 231 z 06.09.2019, str. 29.), zwanego dalej „rozporządzeniem 2016/1628”.
 
 2. Ustawy nie stosuje się do silników, o których mowa w art. 2 ust. 2 rozporządzenia 2016/1628.
 
@@ -66,7 +88,7 @@ source: "eli-html"
 
 **Art. 5.** Programy monitorowania dla każdej kategorii silników, o których mowa w art. 19 ust. 1 rozporządzenia 2016/1628, oraz ich wyniki są publikowane przez Dyrektora TDT w Biuletynie Informacji Publicznej na stronie podmiotowej Transportowego Dozoru Technicznego.
 
-#### Rozdział 2 Służba techniczna
+#### Rozdział 2
 
 **Art. 6.**
 
@@ -110,7 +132,7 @@ source: "eli-html"
 1. W przypadku gdy służba techniczna:
 
 - **1)** nie wykonuje w całości lub w części obowiązków, o których mowa w art. 53 i art. 54 rozporządzenia 2016/1628,
-- **2)** nie przestrzega normy lub norm, o których mowa w pkt 2.1 załącznika XVI do rozporządzenia delegowanego Komisji (UE) 2017/654 z dnia 19 grudnia 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/1628 odnośnie do wymogów technicznych i ogólnych dotyczących wartości granicznych emisji i homologacji typu w odniesieniu do silników spalinowych wewnętrznego spalania przeznaczonych do maszyn mobilnych nieporuszających się po drogach (Dz. Urz. UE L 102 z 13.04.2017, str. 1, z późn. zm.) Dyrektor TDT ogranicza, w drodze decyzji, wyznaczenie służby technicznej, określając zakres ograniczenia oraz termin do usunięcia stwierdzonych uchybień.
+- **2)** nie przestrzega normy lub norm, o których mowa w pkt 2.1 załącznika XVI do rozporządzenia delegowanego Komisji (UE) 2017/654 z dnia 19 grudnia 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/1628 odnośnie do wymogów technicznych i ogólnych dotyczących wartości granicznych emisji i homologacji typu w odniesieniu do silników spalinowych wewnętrznego spalania przeznaczonych do maszyn mobilnych nieporuszających się po drogach (Dz. Urz. UE L 102 z 13.04.2017, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 182 z 18.07.2018, str. 61.) – Dyrektor TDT ogranicza, w drodze decyzji, wyznaczenie służby technicznej, określając zakres ograniczenia oraz termin do usunięcia stwierdzonych uchybień.
 
 2. Ograniczenie wyznaczenia służby technicznej dotyczy kategorii działań, do której Dyrektor TDT stwierdził wystąpienie uchybień, o których mowa w ust. 1.
 
@@ -138,7 +160,7 @@ source: "eli-html"
 
 3. Przeprowadzenie kontroli może obejmować weryfikację numerów identyfikacyjnych, o których mowa w art. 38 ust. 1 rozporządzenia 2016/1628.
 
-#### Rozdział 3 Homologacja
+#### Rozdział 3
 
 **Art. 14.**
 
@@ -303,7 +325,7 @@ source: "eli-html"
 
 2. Oświadczenie, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-#### Rozdział 4 Nadzór rynku
+#### Rozdział 4
 
 **Art. 33.**
 
@@ -361,7 +383,7 @@ source: "eli-html"
 
 2. Opinię w sprawie spełniania przez silnik wymagań na wniosek organów Krajowej Administracji Skarbowej wydają organy, o których mowa w art. 33 ust. 2, w zakresie swojej właściwości, właściwe ze względu na lokalizację silnika oraz przedmiot wniosku.
 
-3. W przypadku stwierdzenia w opinii, o której mowa w ust. 2, że silnik stwarza poważne zagrożenie, organ, o którym mowa w art. 33 ust. 2, który wydał tę opinię, może wszcząć postępowanie w sprawie zniszczenia silnika w przypadkach określonych w art. 29 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm.).
+3. W przypadku stwierdzenia w opinii, o której mowa w ust. 2, że silnik stwarza poważne zagrożenie, organ, o którym mowa w art. 33 ust. 2, który wydał tę opinię, może wszcząć postępowanie w sprawie zniszczenia silnika w przypadkach określonych w art. 29 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 169 z 25.06.2019, str. 1.).
 
 **Art. 36.**
 
@@ -371,7 +393,7 @@ source: "eli-html"
 
 3. Na wniosek organów nadzoru rynku organy Krajowej Administracji Skarbowej udostępniają dane dotyczące podmiotów dokonujących przywozu silników z państw trzecich, w tym informacje objęte tajemnicą celną, w zakresie niezbędnym do prowadzenia przez organy nadzoru rynku kontroli oraz postępowań, o których mowa w art. 76 ust. 1 i 1a ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
 
-#### Rozdział 5 Administracyjne kary pieniężne
+#### Rozdział 5
 
 **Art. 37.**
 
@@ -384,7 +406,7 @@ source: "eli-html"
 - **5)** narusza ograniczenia określone w art. 35 ust. 4 lit. a i b rozporządzenia 2016/1628 albo wprowadza na rynek silnik po upływie okresu ważności wskazanego w świadectwie homologacji typu UE wydanym na podstawie art. 35 ust. 4 lit. c rozporządzenia 2016/1628,
 - **6)** wprowadza na rynek albo udostępnia na rynku silnik, który jest niezgodny ze specyfikacjami określonymi w świadectwie homologacji typu UE,
 - **7)** wprowadza na rynek albo udostępnia na rynku, na podstawie art. 34 ust. 5 albo 6 rozporządzenia 2016/1628, silnik specjalnego przeznaczenia do montowania w maszynie mobilnej nieporuszającej się po drogach innej niż przewidziana w tych przepisach,
-- **8)** wprowadza na rynek albo udostępnia na rynku, na podstawie art. 34 ust. 7 lub 8 rozporządzenia 2016/1628, silnik do montowania w maszynie mobilnej nieporuszającej się po drogach innej niż przeznaczona dla danej kategorii silników zgodnie z tymi przepisami podlega administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
+- **8)** wprowadza na rynek albo udostępnia na rynku, na podstawie art. 34 ust. 7 lub 8 rozporządzenia 2016/1628, silnik do montowania w maszynie mobilnej nieporuszającej się po drogach innej niż przeznaczona dla danej kategorii silników zgodnie z tymi przepisami – podlega administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
 
 2. Producent albo przedstawiciel producenta, którzy nie wykonują obowiązków i wymagań, o których mowa w art. 8 ust. 9, art. 9 ust. 1 zdanie trzecie, art. 10 lit. a i b, art. 31 ust. 1–4 i art. 37 ust. 1–4 rozporządzenia 2016/1628, podlegają administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
 
@@ -392,24 +414,24 @@ source: "eli-html"
 
 - **1)** nie wykonuje obowiązków i wymagań, o których mowa w art. 11 ust. 3 i 7 i art. 12 ust. 1 zdanie drugie rozporządzenia 2016/1628,
 - **2)** wprowadza na rynek maszynę mobilną nieporuszającą się po drogach, w której są zamontowane silniki podlegające homologacji typu UE na mocy rozporządzenia 2016/1628, jeżeli silniki te nie uzyskały homologacji typu UE,
-- **3)** wprowadza na rynek maszynę mobilną nieporuszającą się po drogach z naruszeniem ograniczeń dotyczących maszyn mobilnych nieporuszających się po drogach określonych w art. 34 ust. 8 rozporządzenia 2016/1628 podlega administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
+- **3)** wprowadza na rynek maszynę mobilną nieporuszającą się po drogach z naruszeniem ograniczeń dotyczących maszyn mobilnych nieporuszających się po drogach określonych w art. 34 ust. 8 rozporządzenia 2016/1628 – podlega administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
 
 4. Dystrybutor, który:
 
 - **1)** udostępnia na rynku maszynę mobilną nieporuszającą się po drogach, w której są zamontowane silniki podlegające homologacji typu UE na mocy rozporządzenia 2016/1628, jeżeli silniki te nie uzyskały homologacji typu UE,
-- **2)** udostępnia na rynku maszynę mobilną nieporuszającą się po drogach z naruszeniem ograniczeń dotyczących maszyn mobilnych nieporuszających się po drogach określonych w art. 34 ust. 8 rozporządzenia 2016/1628 podlega administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
+- **2)** udostępnia na rynku maszynę mobilną nieporuszającą się po drogach z naruszeniem ograniczeń dotyczących maszyn mobilnych nieporuszających się po drogach określonych w art. 34 ust. 8 rozporządzenia 2016/1628 – podlega administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
 
 5. Producent oryginalnego sprzętu, który:
 
 - **1)** nie wykonuje obowiązku, o którym mowa w art. 8 ust. 9 rozporządzenia 2016/1628,
 - **2)** montuje silnik w maszynie mobilnej nieporuszającej się po drogach innej niż przeznaczona dla danej kategorii silników zgodnie z art. 4 rozporządzenia 2016/1628,
 - **3)** wprowadza na rynek albo udostępnia na rynku maszynę mobilną nieporuszającą się po drogach, w której są zamontowane silniki podlegające homologacji typu UE na mocy rozporządzenia 2016/1628, jeżeli silniki te nie uzyskały homologacji typu UE,
-- **4)** wprowadza na rynek albo udostępnia na rynku maszynę mobilną nieporuszającą się po drogach z naruszeniem ograniczeń dotyczących maszyn mobilnych nieporuszających się po drogach określonych w art. 34 ust. 8 rozporządzenia 2016/1628 podlega administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
+- **4)** wprowadza na rynek albo udostępnia na rynku maszynę mobilną nieporuszającą się po drogach z naruszeniem ograniczeń dotyczących maszyn mobilnych nieporuszających się po drogach określonych w art. 34 ust. 8 rozporządzenia 2016/1628 – podlega administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
 
 6. Producent, przedstawiciel producenta, importer, dystrybutor, producent oryginalnego sprzętu lub będący jednocześnie przedsiębiorcą określonym w art. 4 ust. 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców użytkownik końcowy maszyny mobilnej nieporuszającej się po drogach, w której są zamontowane silniki podlegające homologacji typu UE, którzy uniemożliwiają lub utrudniają:
 
 - **1)** organowi nadzoru rynku przeprowadzenie kontroli, o której mowa w art. 33 ust. 2, albo
-- **2)** Dyrektorowi TDT przeprowadzenie kontroli, o której mowa w art. 26 ust. 4 rozporządzenia 2016/1628 podlegają administracyjnej karze pieniężnej w wysokości do 30 000 zł.
+- **2)** Dyrektorowi TDT przeprowadzenie kontroli, o której mowa w art. 26 ust. 4 rozporządzenia 2016/1628 – podlegają administracyjnej karze pieniężnej w wysokości do 30 000 zł.
 
 **Art. 38.**
 
@@ -423,7 +445,7 @@ source: "eli-html"
 
 2. Środki finansowe pochodzące z administracyjnych kar pieniężnych wymierzonych przez organ nadzoru rynku stanowią dochód budżetu państwa.
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących
+#### Rozdział 6
 
 **Art. 40.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2020 r. poz. 995) w art. 2 w ust. 1 po pkt 17d dodaje się pkt 17e w brzmieniu: „
 
@@ -442,11 +464,11 @@ source: "eli-html"
 
 - **4b)** jest organem nadzoru rynku w rozumieniu przepisów ustawy z dnia 15 lipca 2020 r. o systemach homologacji typu UE i nadzoru rynku silników spalinowych przeznaczonych do maszyn mobilnych nieporuszających się po drogach (Dz. U. poz. 1339) w zakresie silników zamontowanych w maszynach mobilnych nieporuszających się po drogach stosowanych w ruchu zakładu górniczego; ” .
 
-#### Rozdział 7 Przepisy epizodyczne, przejściowe i końcowe
+#### Rozdział 7
 
 **Art. 44.**
 
-1. Przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy dokument, o którym mowa w art. 6 ust. 4 pkt 1, nie jest wymagany, jeżeli podmiot, który złożył wniosek o wyznaczenie służby technicznej, spełnia wymagania określone w art. 45 ust. 3–7 i 9 rozporządzenia 2016/1628, oraz załącznika XVI do rozporządzenia delegowanego Komisji (UE) 2017/654 z dnia 19 grudnia 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/1628 odnośnie do wymogów technicznych i ogólnych dotyczących wartości granicznych emisji i homologacji typu w odniesieniu do silników spalinowych wewnętrznego spalania przeznaczonych do maszyn mobilnych nieporuszających się po drogach (Dz. Urz. UE L 102 z 13.04.2017, str. 1, z późn. zm.).
+1. Przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy dokument, o którym mowa w art. 6 ust. 4 pkt 1, nie jest wymagany, jeżeli podmiot, który złożył wniosek o wyznaczenie służby technicznej, spełnia wymagania określone w art. 45 ust. 3–7 i 9 rozporządzenia 2016/1628, oraz załącznika XVI do rozporządzenia delegowanego Komisji (UE) 2017/654 z dnia 19 grudnia 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/1628 odnośnie do wymogów technicznych i ogólnych dotyczących wartości granicznych emisji i homologacji typu w odniesieniu do silników spalinowych wewnętrznego spalania przeznaczonych do maszyn mobilnych nieporuszających się po drogach (Dz. Urz. UE L 102 z 13.04.2017, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 182 z 18.07.2018, str. 61.).
 
 2. Jeżeli w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy podmiot, o którym mowa w ust. 1, który został wyznaczony jako służba techniczna, nie przekaże Dyrektorowi Transportowego Dozoru Technicznego dokumentu, o którym mowa w art. 6 ust. 4 pkt 1, Dyrektor Transportowego Dozoru Technicznego odwołuje, w drodze decyzji, wyznaczenie.
 
@@ -462,7 +484,7 @@ source: "eli-html"
 2. Podmiot gospodarczy, który:
 
 - **1)** wprowadza na rynek silniki przejściowe w rozumieniu art. 3 pkt 32 rozporządzenia 2016/1628 i maszyny mobilne nieporuszające się po drogach, w których są montowane takie silniki, z naruszeniem przepisów art. 58 ust. 3–11 i 13 rozporządzenia 2016/1628,
-- **2)** wprowadza na rynek, na podstawie art. 58 ust. 9–11 rozporządzenia 2016/1628, silnik do montowania w maszynie mobilnej nieporuszającej się po drogach innej niż przeznaczona dla danej kategorii silników zgodnie z tymi przepisami podlega administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
+- **2)** wprowadza na rynek, na podstawie art. 58 ust. 9–11 rozporządzenia 2016/1628, silnik do montowania w maszynie mobilnej nieporuszającej się po drogach innej niż przeznaczona dla danej kategorii silników zgodnie z tymi przepisami – podlega administracyjnej karze pieniężnej w wysokości od 1000 do 100 000 zł za każde naruszenie.
 
 3. Administracyjne kary pieniężne za naruszenia, o których mowa w ust. 2, nakłada, w drodze decyzji, właściwy organ nadzoru rynku, o którym mowa w art. 33 ust. 2, na podstawie ustaleń udokumentowanych w protokole kontroli sporządzonym przez ten organ.
 
@@ -472,7 +494,7 @@ source: "eli-html"
 
 1. Wydane na podstawie dotychczasowych przepisów:
 
-- **1)** dokumenty potwierdzające spełnienie przez typ silnika lub rodziny typów silnika wymagań w odniesieniu do emisji zanieczyszczeń stosownie do dyrektywy 97/68/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 1997 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do środków dotyczących ograniczenia emisji zanieczyszczeń gazowych i pyłowych z silników spalinowych montowanych w maszynach samojezdnych nieporuszających się po drogach (Dz. Urz. WE L 59 z 27.02.1998, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 17, z późn. zm.) zachowują ważność do czasu utraty ważności w przypadkach, o których mowa w art. 30 ust. 2 rozporządzenia 2016/1628;
+- **1)** dokumenty potwierdzające spełnienie przez typ silnika lub rodziny typów silnika wymagań w odniesieniu do emisji zanieczyszczeń stosownie do dyrektywy 97/68/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 1997 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do środków dotyczących ograniczenia emisji zanieczyszczeń gazowych i pyłowych z silników spalinowych montowanych w maszynach samojezdnych nieporuszających się po drogach (Dz. Urz. WE L 59 z 27.02.1998, str. 1, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. WE L 227 z 23.08.2001, str. 41 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 26, str. 422, Dz. Urz. WE L 35 z 11.02.2003, str. 28 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 31, str. 73, Dz. Urz. UE L 236 z 23.09.2003, str. 33, Dz. Urz. UE L 146 z 25.06.2004, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 341, Dz. Urz. UE L 363 z 20.12.2006, str. 368, Dz. Urz. UE L 188 z 18.07.2009, str. 14, Dz. Urz. UE L 86 z 01.04.2010, str. 29, Dz. Urz. UE L 305 z 23.11.2011, str. 1, Dz. Urz. UE L 353 z 21.12.2012, str. 80 oraz Dz. Urz. UE L 252 z 16.09.2016, str. 53. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 17, z późn. zm.) zachowują ważność do czasu utraty ważności w przypadkach, o których mowa w art. 30 ust. 2 rozporządzenia 2016/1628;
 - **2)** zezwolenia wydane na podstawie przepisów wydanych na podstawie art. 10 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2019 r. poz. 155 oraz z 2020 r. poz. 1339) w sprawie szczegółowych wymagań dla silników spalinowych w zakresie ograniczenia emisji zanieczyszczeń gazowych i cząstek stałych przez te silniki dla silników, o których mowa w art. 3, zachowują ważność przez okres, na który zostały wydane.
 
 2. Dokumenty i zezwolenia, o których mowa w ust. 1, mogą być zmieniane przez Dyrektora Transportowego Dozoru Technicznego na podstawie art. 58 ust. 2 rozporządzenia 2016/1628.
@@ -502,5 +524,5 @@ source: "eli-html"
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o których mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest Prezes Wyższego Urzędu Górniczego.
 
-**Art. 49.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 49.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1628 z dnia 14 września 2016 r. w sprawie wymogów dotyczących wartości granicznych emisji zanieczyszczeń gazowych i pyłowych oraz homologacji typu w odniesieniu do silników spalinowych wewnętrznego spalania przeznaczonych do maszyn mobilnych nieporuszających się po drogach, zmieniającego rozporządzenia (UE) nr 1024/2012 i (UE) nr 167/2013 oraz zmieniającego i uchylającego dyrektywę 97/68/WE (Dz. Urz. UE L 252 z 16.09.2016, str. 53 oraz Dz. Urz. UE L 231 z 06.09.2019, str. 29). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności oraz ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 231 z 06.09.2019, str. 29. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 182 z 18.07.2018, str. 61. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 169 z 25.06.2019, str. 1. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 182 z 18.07.2018, str. 61. 7) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. WE L 227 z 23.08.2001, str. 41 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 26, str. 422, Dz. Urz. WE L 35 z 11.02.2003, str. 28 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 31, str. 73, Dz. Urz. UE L 236 z 23.09.2003, str. 33, Dz. Urz. UE L 146 z 25.06.2004, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 341, Dz. Urz. UE L 363 z 20.12.2006, str. 368, Dz. Urz. UE L 188 z 18.07.2009, str. 14, Dz. Urz. UE L 86 z 01.04.2010, str. 29, Dz. Urz. UE L 305 z 23.11.2011, str. 1, Dz. Urz. UE L 353 z 21.12.2012, str. 80 oraz Dz. Urz. UE L 252 z 16.09.2016, str. 53.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 26 sierpnia 2019 r. w sprawie badań lekarskich kandydatów do szkół ponadpodstawowych lub wyższych i na kwalifikacyjne kursy zawodowe, uczniów i słuchaczy tych szkół, studentów, słuchaczy kwalifikacyjnych kursów zawodowych oraz doktorantów
+# Rozporządzenie Ministra Zdrowiaz dnia 26 sierpnia 2019 r. w sprawie badań lekarskich kandydatów do szkół ponadpodstawowych lub wyższych i na kwalifikacyjne kursy zawodowe, uczniów i słuchaczy tych szkół, studentów, słuchaczy kwalifikacyjnych kursów zawodowych oraz doktorantów Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-26 |
 | Data wydania | 2019-08-30 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001651) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1651/text.pdf) |
 
@@ -117,6 +116,5 @@ Skierowania na badania lekarskie wydane przed dniem wejścia w życie niniejszeg
 § 8.
 Przepisy rozporządzenia stosuje się również do uczestników studiów doktoranckich rozpoczętych przed rokiem akademickim 2019/2020, jednak nie dłużej niż do dnia 31 grudnia 2023 r.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 sierpnia 2014 r. w sprawie badań lekarskich kandydatów do szkół ponadpodstawowych lub wyższych i na kwalifikacyjne kursy zawodowe, uczniów tych szkół, studentów, słuchaczy kwalifikacyjnych kursów zawodowych oraz uczestników studiów doktoranckich (Dz. U. z 2019 r. poz. 141), które traci moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 sierpnia 2014 r. w sprawie badań lekarskich kandydatów do szkół ponadpodstawowych lub wyższych i na kwalifikacyjne kursy zawodowe, uczniów tych szkół, studentów, słuchaczy kwalifikacyjnych kursów zawodowych oraz uczestników studiów doktoranckich (Dz. U. z 2019 r. poz. 141), które traci moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 sierpnia 2014 r. w sprawie badań lekarskich kandydatów do szkół ponadpodstawowych lub wyższych i na kwalifikacyjne kursy zawodowe, uczniów tych szkół, studentów, słuchaczy kwalifikacyjnych kursów zawodowych oraz uczestników studiów doktoranckich (Dz. U. z 2019 r. poz. 141), które traci moc z dniem 1 września 2019 r. w związku z wejściem w życie ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 

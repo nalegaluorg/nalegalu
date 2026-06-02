@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-01-22 |
 | Data wydania | 2010-03-22 |
-| Wejście w życie | 2010-04-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100440252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/252/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.) w art. 220:
+**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341, Nr 77, poz. 649, Nr 78, poz. 659, Nr 165, poz. 1316, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 201, poz. 1540 i Nr 223, poz. 1776.) w art. 220:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
@@ -36,5 +35,5 @@ source: "eli-html"
 
 3. Do czynów popełnionych przed dniem wejścia w życie niniejszej ustawy skutkujących odpowiedzialnością na podstawie ustawy, o której mowa w art. 224, stosuje się przepisy dotychczasowe, chyba że przepisy niniejszej ustawy są względniejsze dla sprawcy. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341, Nr 77, poz. 649, Nr 78, poz. 659, Nr 165, poz. 1316, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 201, poz. 1540 i Nr 223, poz. 1776.
 

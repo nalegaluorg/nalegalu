@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-28 |
 | Data wydania | 2019-11-15 |
-| Wejście w życie | 2019-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2221/text.pdf) |
 
@@ -33,30 +32,28 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie 
 1)
 w § 2 w pkt 5:
 a)
-lit. a otrzymuje brzmienie:
-„
+lit. a otrzymuje brzmienie: „
 a)
-Sąd Okręgowy w Lublinie – obejmujący obszar właściwości sądów rejonowych: w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Lublin-Wschód w Lublinie z siedzibą w Świdniku, Lublin-Zachód w Lublinie, w Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach i we Włodawie oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego oraz zgodności z prawdą oświadczeń lustracyjnych, pracy i ubezpieczeń społecznych, prowadzenia rejestru dzienników i czasopism, sprawy gospodarcze oraz inne sprawy z zakresu prawa gospodarczego i cywilnego należące do sądu gospodarczego na podstawie odrębnych ustaw, a także środki odwoławcze w elektronicznym postępowaniu upominawczym,
-” ,
+Sąd Okręgowy w Lublinie – obejmujący obszar właściwości sądów rejonowych: w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Lublin-Wschód w Lublinie z siedzibą w Świdniku, Lublin-Zachód w Lublinie, w Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach i we Włodawie oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego oraz zgodności z prawdą oświadczeń lustracyjnych, pracy i ubezpieczeń społecznych, prowadzenia rejestru dzienników i czasopism, sprawy gospodarcze oraz inne sprawy z zakresu prawa gospodarczego i cywilnego należące do sądu gospodarczego na podstawie odrębnych ustaw, a także środki odwoławcze w elektronicznym postępowaniu upominawczym, ” ,
 b)
-lit. c otrzymuje brzmienie:
-„
+lit. c otrzymuje brzmienie: „
 c)
-Sąd Okręgowy w Siedlcach – obejmujący obszar właściwości sądów rejonowych w: Garwolinie, Łukowie, Mińsku Mazowieckim, Siedlcach, Sokołowie Podlaskim i Węgrowie oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych oraz prowadzenia rejestru dzienników i czasopism,
-” ;
+Sąd Okręgowy w Siedlcach – obejmujący obszar właściwości sądów rejonowych w: Garwolinie, Łukowie, Mińsku Mazowieckim, Siedlcach, Sokołowie Podlaskim i Węgrowie oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych oraz prowadzenia rejestru dzienników i czasopism, ” ;
 2)
 w § 3:
 a)
 w pkt 18:
-– lit. a otrzymuje brzmienie: „ a) Sąd Rejonowy w Białej Podlaskiej – dla miast Biała Podlaska i Terespol oraz gmin: Biała Podlaska, Janów Podlaski, Kodeń, Konstantynów, Leśna Podlaska, Łomazy, Piszczac, Rokitno, Rossosz, Sławatycze, Sosnówka, Terespol, Tuczna, Wisznice i Zalesie oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do prowadzenia ksiąg wieczystych, ” ,
+lit. a otrzymuje brzmienie: „
+a)
+Sąd Rejonowy w Białej Podlaskiej – dla miast Biała Podlaska i Terespol oraz gmin: Biała Podlaska, Janów Podlaski, Kodeń, Konstantynów, Leśna Podlaska, Łomazy, Piszczac, Rokitno, Rossosz, Sławatycze, Sosnówka, Terespol, Tuczna, Wisznice i Zalesie oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do prowadzenia ksiąg wieczystych, ” ,
 – uchyla się lit. g,
-– lit. j otrzymuje brzmienie: „ j) Sąd Rejonowy w Radzyniu Podlaskim – dla miast Międzyrzec Podlaski i Radzyń Podlaski oraz gmin: Borki, Czemierniki, Dębowa Kłoda, Drelów, Jabłoń, Kąkolewnica, Komarówka Podlaska, Międzyrzec Podlaski, Milanów, Parczew, Podedwórze, Radzyń Podlaski, Siemień, Ulan-Majorat i Wohyń oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych, ” ,
+lit. j otrzymuje brzmienie: „
+j)
+Sąd Rejonowy w Radzyniu Podlaskim – dla miast Międzyrzec Podlaski i Radzyń Podlaski oraz gmin: Borki, Czemierniki, Dębowa Kłoda, Drelów, Jabłoń, Kąkolewnica, Komarówka Podlaska, Międzyrzec Podlaski, Milanów, Parczew, Podedwórze, Radzyń Podlaski, Siemień, Ulan-Majorat i Wohyń oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych, ” ,
 b)
-w pkt 31 po lit. a dodaje się lit. aa w brzmieniu:
-„
+w pkt 31 po lit. a dodaje się lit. aa w brzmieniu: „
 aa)
-Sąd Rejonowy w Łukowie – dla miast Łuków i Stoczek Łukowski oraz gmin: Adamów, Krzywda, Łuków, Serokomla, Stanin, Stoczek Łukowski, Trzebieszów, Wojcieszków i Wola Mysłowska oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych,
-” .
+Sąd Rejonowy w Łukowie – dla miast Łuków i Stoczek Łukowski oraz gmin: Adamów, Krzywda, Łuków, Serokomla, Stanin, Stoczek Łukowski, Trzebieszów, Wojcieszków i Wola Mysłowska oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych, ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 grudnia 2019 r.
 

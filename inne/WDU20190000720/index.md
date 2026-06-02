@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-11 |
 | Data wydania | 2019-04-18 |
-| Wejście w życie | 2019-04-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/720/text.pdf) |
 
@@ -31,37 +30,28 @@ Na podstawie art. 7 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prow
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 30 kwietnia 1998 r. w sprawie organizacji pracy, składu oraz zasad wynagradzania członków komisji rozpatrującej wnioski o wyrażenie zgody na zatrudnienie osób, które pełniły funkcje publiczne (Dz. U. z 2018 r. poz. 1453) wprowadza się następujące zmiany:
 1)
-po § 2 dodaje się § 2a w brzmieniu:
-„
+po § 2 dodaje się § 2a w brzmieniu: „
 § 2a.
 1.
 Kadencja komisji trwa 5 lat.
 2.
-W przypadku ustania członkostwa w komisji jej skład uzupełnia się na okres do końca kadencji, w sposób określony w § 2.
-” ;
+W przypadku ustania członkostwa w komisji jej skład uzupełnia się na okres do końca kadencji, w sposób określony w § 2. ” ;
 2)
-w § 6 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+w § 6 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-reprezentuje komisję przed innymi organami i instytucjami;
-” ;
+reprezentuje komisję przed innymi organami i instytucjami; ” ;
 3)
-w § 7 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu:
-„
+w § 7 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „
 2.
 Przewodniczący komisji wyłącza członka komisji ze składu rozpatrującego wniosek w sprawie, w której zachodzi konflikt interesów lub istnieje inna okoliczność mogąca wywołać uzasadnioną wątpliwość co do jego bezstronności. Członek komisji niezwłocznie zawiadamia przewodniczącego komisji o okolicznościach uzasadniających wyłączenie.
 3.
-W przypadku wyłączenia, o którym mowa w ust. 2, przewodniczący komisji wyznacza innego członka komisji do składu rozpatrującego daną sprawę. Jeżeli wyłączenie dotyczy przewodniczącego komisji, wyznaczenia dokonuje zastępca przewodniczącego komisji.
-” ;
+W przypadku wyłączenia, o którym mowa w ust. 2, przewodniczący komisji wyznacza innego członka komisji do składu rozpatrującego daną sprawę. Jeżeli wyłączenie dotyczy przewodniczącego komisji, wyznaczenia dokonuje zastępca przewodniczącego komisji. ” ;
 4)
-w § 8 ust. 6 otrzymuje brzmienie:
-„
+w § 8 ust. 6 otrzymuje brzmienie: „
 6.
-Przewodniczący komisji może wystąpić do osoby, która złożyła wniosek, lub właściwych podmiotów o przedstawienie dodatkowych dokumentów i informacji, niezbędnych w celu prawidłowego rozpatrzenia wniosku.
-” ;
+Przewodniczący komisji może wystąpić do osoby, która złożyła wniosek, lub właściwych podmiotów o przedstawienie dodatkowych dokumentów i informacji, niezbędnych w celu prawidłowego rozpatrzenia wniosku. ” ;
 5)
-po § 8 dodaje się § 8a i 8b w brzmieniu:
-„
+po § 8 dodaje się § 8a i 8b w brzmieniu: „
 § 8a.
 Szczegółowy tryb pracy komisji określa regulamin ustalony przez przewodniczącego komisji i zatwierdzony przez Szefa Kancelarii Prezesa Rady Ministrów.
 § 8b.
@@ -76,8 +66,7 @@ Członkom komisji przysługuje wynagrodzenie za udział w posiedzeniu składu do
 1)
 900 zł – dla przewodniczącego składu;
 2)
-750 zł – dla członka składu.
-” .
+750 zł – dla członka składu. ” .
 § 2.
 1.
 Pierwsza pięcioletnia kadencja komisji, o której mowa w § 2a ust. 1 rozporządzenia zmienianego w § 1, rozpoczyna się z dniem wejścia w życie niniejszego rozporządzenia.

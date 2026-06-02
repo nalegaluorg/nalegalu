@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 22 lutego 2018 r. w sprawie udzielania regionalnej pomocy inwestycyjnej dla mikroprzedsiębiorców, małych i średnich przedsiębiorców na inwestycje w zakresie budownictwa okrętowego w ramach regionalnych programów operacyjnych na lata 2014–2020
+# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 22 lutego 2018 r. w sprawie udzielania regionalnej pomocy inwestycyjnej dla mikroprzedsiębiorców, małych i średnich przedsiębiorców na inwestycje w zakresie budownictwa okrętowego w ramach regionalnych programów operacyjnych na lata 2014–2020 Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-02-22 |
 | Data wydania | 2018-03-07 |
-| Wejście w życie | 2018-03-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/494/text.pdf) |
 
@@ -39,7 +38,7 @@ budownictwie okrętowym – oznacza to budowę, przebudowę lub naprawę statkó
 3)
 dostosowanej kwocie pomocy – oznacza to dopuszczalną kwotę pomocy określoną zgodnie z przepisami wydanymi na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362);
 4)
-dużym projekcie inwestycyjnym – oznacza to duży projekt inwestycyjny w rozumieniu art. 2 pkt 52 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”;
+dużym projekcie inwestycyjnym – oznacza to duży projekt inwestycyjny w rozumieniu art. 2 pkt 52 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 10.07.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28., zwanego dalej „rozporządzeniem nr 651/2014”;
 5)
 intensywności pomocy – oznacza to intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia nr 651/2014;
 6)
@@ -53,7 +52,7 @@ naprawie statków – oznacza to naprawianie lub remontowanie statków handlowyc
 10)
 pływających i ruchomych konstrukcjach morskich – oznacza to konstrukcje wykorzystywane do rozpoznawania złóż ropy i gazu, ich eksploatacji, a także wytwarzania energii odnawialnej, które mają cechy statku handlowego, z wyjątkiem własnego napędu, i które z założenia mogą być przemieszczane kilkakrotnie w okresie użytkowania;
 11)
-pojedynczym projekcie inwestycyjnym – oznacza to każdą inwestycję początkową rozpoczętą przez przedsiębiorcę lub przedsiębiorstwo powiązane z nim w rozumieniu art. 3 ust. 3 załącznika I do rozporządzenia nr 651/2014 w okresie trzech lat od dnia rozpoczęcia prac nad inną inwestycją objętą pomocą w tym samym NUTS 3 w rozumieniu rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 1059/2003 z dnia 26 maja 2003 roku w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.);
+pojedynczym projekcie inwestycyjnym – oznacza to każdą inwestycję początkową rozpoczętą przez przedsiębiorcę lub przedsiębiorstwo powiązane z nim w rozumieniu art. 3 ust. 3 załącznika I do rozporządzenia nr 651/2014 w okresie trzech lat od dnia rozpoczęcia prac nad inną inwestycją objętą pomocą w tym samym NUTS 3 w rozumieniu rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 1059/2003 z dnia 26 maja 2003 roku w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 26.11.2005, str. 1, Dz. Urz. UE L 39 z 02.03.2005, str. 1, Dz. Urz. UE L 61 z 06.03.2008, str. 1, Dz. Urz. UE L 311 z 11.12.2008, str. 1, Dz. Urz. UE L 13 z 07.02.2011, str. 3, Dz. Urz. UE L 158 z 01.07.2013, str. 1, Dz. Urz. UE L 342 z 07.01.2014, str. 1, Dz. Urz. UE L 241 z 02.09.2014, str. 1, Dz. Urz. UE L 322 z 01.01.2016, str. 1 oraz Dz. Urz. UE L 350 z 18.01.2018, str. 1.;
 12)
 przebudowie statków – oznacza to przekształcanie statków handlowych z własnym napędem o tonażu nie mniejszym niż 1 000 GT, pod warunkiem że działania zmierzające do przekształcenia pociągają za sobą zasadnicze zmiany w planie rozłożenia ładunku na statku, kadłubie, systemie napędu lub kabinach dla pasażerów;
 13)
@@ -78,7 +77,7 @@ tworzeniu nowych miejsc pracy – oznacza to wzrost netto liczby pracowników w 
 wartościach niematerialnych i prawnych – oznacza to wartości niematerialne i prawne w rozumieniu art. 2 pkt 30 rozporządzenia nr 651/2014.
 § 3.
 1.
-Pomoc nie może zostać udzielona przedsiębiorcy znajdującemu się w trudnej sytuacji określonej zgodnie z kryteriami ustanowionymi przez Komisję Europejską.
+Pomoc nie może zostać udzielona przedsiębiorcy znajdującemu się w trudnej sytuacji określonej zgodnie z kryteriami ustanowionymi przez Komisję EuropejskąKryteria są określone w pkt 20 komunikatu Komisji – Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1)..
 2.
 Pomoc nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy publicznej wynikający z decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną z prawem oraz z rynkiem wewnętrznym.
 § 4.
@@ -231,6 +230,5 @@ Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na p
 § 16.
 Pomoc jest udzielana do dnia 31 grudnia 2020 r.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 10.07.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 26.11.2005, str. 1, Dz. Urz. UE L 39 z 02.03.2005, str. 1, Dz. Urz. UE L 61 z 06.03.2008, str. 1, Dz. Urz. UE L 311 z 11.12.2008, str. 1, Dz. Urz. UE L 13 z 07.02.2011, str. 3, Dz. Urz. UE L 158 z 01.07.2013, str. 1, Dz. Urz. UE L 342 z 07.01.2014, str. 1, Dz. Urz. UE L 241 z 02.09.2014, str. 1, Dz. Urz. UE L 322 z 01.01.2016, str. 1 oraz Dz. Urz. UE L 350 z 18.01.2018, str. 1. 4) Kryteria są określone w pkt 20 komunikatu Komisji – Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 10.07.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 26.11.2005, str. 1, Dz. Urz. UE L 39 z 02.03.2005, str. 1, Dz. Urz. UE L 61 z 06.03.2008, str. 1, Dz. Urz. UE L 311 z 11.12.2008, str. 1, Dz. Urz. UE L 13 z 07.02.2011, str. 3, Dz. Urz. UE L 158 z 01.07.2013, str. 1, Dz. Urz. UE L 342 z 07.01.2014, str. 1, Dz. Urz. UE L 241 z 02.09.2014, str. 1, Dz. Urz. UE L 322 z 01.01.2016, str. 1 oraz Dz. Urz. UE L 350 z 18.01.2018, str. 1. 4) Kryteria są określone w pkt 20 komunikatu Komisji – Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1).
 

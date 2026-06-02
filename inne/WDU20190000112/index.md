@@ -31,15 +31,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 22 stycznia 2016 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych (Dz. U. poz. 141), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 28 sierpnia 2017 r. zmieniającym rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych (Dz. U. poz. 1673).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych (Dz. U. poz. 1673), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych (Dz. U. poz. 1673), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Rady Ministrów z dnia 22 stycznia 2016 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych
-Na podstawie art. 12a ust. 1  ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Rady Ministrów z dnia 22 stycznia 2016 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanychTytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych (Dz. U. poz. 1673), które weszło w życie z dniem 2 września 2017 r.
+Na podstawie art. 12a ust. 1 Uchylony przez art. 22 pkt 4 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r.; na podstawie art. 60 ust. 3 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa przepisy wykonawcze wydane na podstawie art. 12a ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945) zachowują moc i mogą być zmieniane lub uchylane na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2017 r. poz. 2137). ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa zadania Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, związane z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych określonej w rozporządzeniu delegowanym Komisji (UE) 2015/1853 z dnia 15 października 2015 r. ustanawiającym tymczasową nadzwyczajną pomoc dla rolników w sektorach hodowlanych (Dz. Urz. UE L 271 z 16.10.2015, str. 25), zwanym dalej „rozporządzeniem 2015/1853”, oraz sposób i tryb realizacji tych zadań.
+Rozporządzenie określa zadania Agencji Restrukturyzacji i Modernizacji RolnictwaZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1., zwanej dalej „Agencją”, związane z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych określonej w rozporządzeniu delegowanym Komisji (UE) 2015/1853 z dnia 15 października 2015 r. ustanawiającym tymczasową nadzwyczajną pomoc dla rolników w sektorach hodowlanych (Dz. Urz. UE L 271 z 16.10.2015, str. 25), zwanym dalej „rozporządzeniem 2015/1853”, oraz sposób i tryb realizacji tych zadań.
 § 2.
 Agencja realizuje zadania związane z udzieleniem pomocy, o której mowa w art. 1 rozporządzenia 2015/1853, oraz dodatkowego wsparcia, o którym mowa w art. 2 tego rozporządzenia, zwanych dalej „wsparciem”.
 § 3.
@@ -79,8 +77,7 @@ sumy kilogramów mleka wprowadzonego do obrotu w roku kwotowym 2014/2015 przez p
 a)
 ubiegającego się o wsparcie – w przypadku gdy o wsparcie ubiega się producent mleka spełniający warunki określone w § 4 ust. 1 lub
 b)
-którego gospodarstwo zostało objęte w posiadanie przez producenta mleka ubiegającego się o wsparcie – w przypadku, o którym mowa w § 4 ust. 3 albo 4
-nie większej jednak niż 300 000 kg, oraz
+którego gospodarstwo zostało objęte w posiadanie przez producenta mleka ubiegającego się o wsparcie – w przypadku, o którym mowa w § 4 ust. 3 albo 4 – nie większej jednak niż 300 000 kg, oraz
 2)
 ilorazu:
 a)
@@ -126,8 +123,7 @@ ilorazu:
 a)
 sumy równowartości w złotych 50% wysokości środków finansowych przewidzianych dla Rzeczypospolitej Polskiej w załączniku do rozporządzenia 2015/1853 oraz kwoty 61 437 055,49 zł, pomniejszonej o 0,1% wysokości tej sumy, oraz
 b)
-sumy liczby świń, do których przysługuje wsparcie, zgodnie z pkt 1, wszystkim producentom świń ubiegającym się o wsparcie, powiększonej o sumę liczby świń o numerze identyfikacyjnym, który jest numerem siedziby stada producenta świń, który sprzedał te świnie, do których przysługuje wsparcie, zgodnie z pkt 1, wszystkim producentom świń ubiegającym się o wsparcie
-nie większego niż 35 zł.
+sumy liczby świń, do których przysługuje wsparcie, zgodnie z pkt 1, wszystkim producentom świń ubiegającym się o wsparcie, powiększonej o sumę liczby świń o numerze identyfikacyjnym, który jest numerem siedziby stada producenta świń, który sprzedał te świnie, do których przysługuje wsparcie, zgodnie z pkt 1, wszystkim producentom świń ubiegającym się o wsparcie – nie większego niż 35 zł.
 2.
 Wysokość wsparcia, o którym mowa w § 3 pkt 2, ustaloną na podstawie ust. 1, przysługującego do świń o numerze identyfikacyjnym, który jest numerem siedziby stada producenta świń:
 1)
@@ -137,8 +133,7 @@ którego gospodarstwo zostało objęte w posiadanie:
 a)
 w wyniku dziedziczenia lub w wyniku zapisu windykacyjnego przez producenta świń ubiegającego się o wsparcie albo
 b)
-na podstawie umowy darowizny przez producenta świń ubiegającego się o wsparcie, który jest małżonkiem, zstępnym albo wstępnym darczyńcy
-zwiększa się o 100%, przy czym wysokość wsparcia przysługującego do tych świń nie może być większa niż 70 zł do jednej świni.
+na podstawie umowy darowizny przez producenta świń ubiegającego się o wsparcie, który jest małżonkiem, zstępnym albo wstępnym darczyńcy – zwiększa się o 100%, przy czym wysokość wsparcia przysługującego do tych świń nie może być większa niż 70 zł do jednej świni.
 3.
 Przy ustalaniu liczby świń, o których mowa w ust. 1, nie uwzględnia się świń, które producent świń ubiegający się o wsparcie, o którym mowa w § 3 pkt 2, sprzedał w ramach działalności w zakresie:
 1)
@@ -155,20 +150,19 @@ prowadzenia zakładu przetwórczego w rozumieniu pkt 58 załącznika I do rozpor
 prowadzenia spalarni w rozumieniu pkt 56 załącznika I do rozporządzenia wymienionego w pkt 5.
 § 8.
 1.
-Wsparcie jest udzielane na wniosek producenta mleka albo producenta świń, w drodze decyzji administracyjnej, przez dyrektora oddziału regionalnego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę tego producenta, w terminie 3 miesięcy od dnia, w którym upływa termin składania wniosków o udzielenie tego wsparcia.
+Wsparcie jest udzielane na wniosek producenta mleka albo producenta świń, w drodze decyzji administracyjnej, przez dyrektora oddziału regionalnegoZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę tego producenta, w terminie 3 miesięcy od dnia, w którym upływa termin składania wniosków o udzielenie tego wsparcia.
 2.
 Wniosek o udzielenie wsparcia, poza elementami podania określonymi w przepisach Kodeksu postępowania administracyjnego, zawiera w szczególności:
 1)
-numer rejestracyjny, o którym mowa w art. 23 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, producenta mleka albo producenta świń, o ile został nadany;
+numer rejestracyjny, o którym mowa w art. 23Uchylony przez art. 22 pkt 9 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r. ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, producenta mleka albo producenta świń, o ile został nadany;
 2)
 numer siedziby stada producenta:
 a)
 mleka albo
 b)
-świń
-nadany na podstawie ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2017 r. poz. 546 oraz z 2018 r. poz. 1642);
+świń – nadany na podstawie ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2017 r. poz. 546 oraz z 2018 r. poz. 1642);
 3)
-numer rejestracyjny, o którym mowa w art. 23 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, nadany producentowi mleka, którego gospodarstwo zostało objęte w posiadanie przez producenta mleka ubiegającego się o wsparcie – w przypadkach, o których mowa w § 4 ust. 3 i 4;
+numer rejestracyjny, o którym mowa w art. 23Uchylony przez art. 22 pkt 9 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r. ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, nadany producentowi mleka, którego gospodarstwo zostało objęte w posiadanie przez producenta mleka ubiegającego się o wsparcie – w przypadkach, o których mowa w § 4 ust. 3 i 4;
 4)
 nadany w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności numer identyfikacyjny producenta świń, którego gospodarstwo zostało objęte w posiadanie przez producenta świń ubiegającego się o wsparcie – w przypadkach, o których mowa w § 6 ust. 2 i 3;
 5)
@@ -199,9 +193,8 @@ Wniosek o udzielenie wsparcia składa się na formularzu opracowanym przez Agenc
 Wniosek o udzielenie wsparcia składa się w terminie miesiąca od dnia wejścia w życie rozporządzenia.
 § 10.
 Prezes Agencji podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję oraz na stronie podmiotowej Biuletynu Informacji Publicznej Agencji, informację o wysokości wsparcia przysługującego na kilogram mleka oraz wysokość wsparcia przysługującego na sztukę świni.
-§ 11.
+§ 11W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1..
 Środki finansowe z tytułu wsparcia Agencja wypłaca w terminie określonym w art. 1 ust. 1 rozporządzenia 2015/1853.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Tytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych (Dz. U. poz. 1673), które weszło w życie z dniem 2 września 2017 r. 2) Uchylony przez art. 22 pkt 4 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r.; na podstawie art. 60 ust. 3 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa przepisy wykonawcze wydane na podstawie art. 12a ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945) zachowują moc i mogą być zmieniane lub uchylane na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2017 r. poz. 2137). 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 5) Uchylony przez art. 22 pkt 9 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r. 6) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 7) Rozporządzenie zostało ogłoszone w dniu 3 lutego 2016 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 3 lutego 2016 r.. 1) Tytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych (Dz. U. poz. 1673), które weszło w życie z dniem 2 września 2017 r. 2) Uchylony przez art. 22 pkt 4 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r.; na podstawie art. 60 ust. 3 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa przepisy wykonawcze wydane na podstawie art. 12a ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945) zachowują moc i mogą być zmieniane lub uchylane na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2017 r. poz. 2137). 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 5) Uchylony przez art. 22 pkt 9 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r. 6) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 7) Rozporządzenie zostało ogłoszone w dniu 3 lutego 2016 r.
 

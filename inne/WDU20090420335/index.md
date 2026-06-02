@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-01-09 |
 | Data wydania | 2009-03-17 |
-| Wejście w życie | 2009-04-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090420335) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/335/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.) w art. 137 ust. 2 otrzymuje brzmienie: „ 2. Jeżeli w przypadku, o którym mowa w ust. 1 pkt 2, cel wywłaszczenia został zrealizowany tylko na części wywłaszczonej nieruchomości, zwrotowi podlega pozostała część. ” .
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100.) w art. 137 ust. 2 otrzymuje brzmienie: „ 2. Jeżeli w przypadku, o którym mowa w ust. 1 pkt 2, cel wywłaszczenia został zrealizowany tylko na części wywłaszczonej nieruchomości, zwrotowi podlega pozostała część. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100.
 

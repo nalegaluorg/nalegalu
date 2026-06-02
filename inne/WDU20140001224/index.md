@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 26 sierpnia 2014 r. w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji
+# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 26 sierpnia 2014 r. w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 14 stycznia 2014 r. pod numerem 2014/0022/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasady dotyczące usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-26 |
 | Data wydania | 2014-09-16 |
-| Wejście w życie | 2014-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001224) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1224/text.pdf) |
 
@@ -108,7 +107,7 @@ Broń palną przeznaczoną do ochrony osobistej nosi się w sposób jak najmniej
 3.
 Broń palną nieprzeznaczoną do ochrony osobistej, o ile jest to możliwe, ze względu na jej ilość i wielkość, nosi się w sposób określony w ust. 2.
 4.
-Broń palną przeznaczoną do celów łowieckich w obwodach łowieckich nosi się w czasie polowania w sposób określony w przepisach wydanych na podstawie art. 43 ust. 3 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2013 r. poz. 1226, z późn. zm).
+Broń palną przeznaczoną do celów łowieckich w obwodach łowieckich nosi się w czasie polowania w sposób określony w przepisach wydanych na podstawie art. 43 ust. 3 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2013 r. poz. 1226, z późn. zmZmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1247 oraz z 2014 r. poz. 228 i 951.).
 § 9.
 1.
 Podmiot posiadający broń i amunicję prowadzi ewidencję posiadanej broni i amunicji.
@@ -197,5 +196,5 @@ z dniem uzyskania nowego pozwolenia na broń – w przypadku uzyskania nowego po
 § 13.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 3 kwietnia 2000 r. w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji (Dz. U. Nr 27, poz. 343).
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 14 stycznia 2014 r. pod numerem 2014/0022/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasady dotyczące usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1247 oraz z 2014 r. poz. 228 i 951.
 

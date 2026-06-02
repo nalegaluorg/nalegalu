@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 kwietnia 2012 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz niektórych innych ustaw
+# Ustawa z dnia 27 kwietnia 2012 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, ustawę z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich oraz ustawę z dnia 12 marca 2004 r. o pomocy społecznej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-27 |
 | Data wydania | 2012-05-24 |
-| Wejście w życie | 2012-06-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000579) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/579/text.pdf) |
 
@@ -238,7 +237,7 @@ source: "eli-html"
 
 - **1)** 10% w pierwszym roku pobytu dziecka w pieczy zastępczej,
 - **2)** 30% w drugim roku pobytu dziecka w pieczy zastępczej,
-- **3)** 50% w trzecim roku i następnych latach pobytu dziecka w pieczy zastępczej średnich miesięcznych wydatków przeznaczonych na utrzymanie dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej albo interwencyjnym ośrodku preadopcyjnym. Przepisy ust. 2–4 stosuje się odpowiednio.
+- **3)** 50% w trzecim roku i następnych latach pobytu dziecka w pieczy zastępczej – średnich miesięcznych wydatków przeznaczonych na utrzymanie dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej albo interwencyjnym ośrodku preadopcyjnym. Przepisy ust. 2–4 stosuje się odpowiednio.
 
 11. Do okresów pobytu dziecka w pieczy zastępczej, o których mowa w ust. 9 i 10, wlicza się również okres przebywania tego dziecka, po osiągnięciu pełnoletności, w rodzinie zastępczej, rodzinnym domu dziecka lub placówce opiekuńczo-wychowawczej, na zasadach określonych w art. 37 ust. 2.
 
@@ -312,7 +311,7 @@ source: "eli-html"
 
 1a. Program, o którym mowa w ust. 1, minister właściwy do spraw rodziny opracowuje, realizuje i finansuje we współpracy z wojewodą. ” .
 
-**Art. 2.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, z późn. zm.) w art. 109:
+**Art. 2.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 45, poz. 234, z 1986 r. Nr 36, poz. 180, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417, z 1998 r. Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 122, poz. 1322, z 2001 r. Nr 128, poz. 1403, z 2003 r. Nr 83, poz. 772 i Nr 130, poz. 1188, z 2004 r. Nr 162, poz. 1691, z 2007 r. Nr 121, poz. 831, Nr 134, poz. 947 i Nr 192, poz. 1378, z 2008 r. Nr 220, poz. 1431, z 2010 r. Nr 125, poz. 842 oraz z 2011 r. Nr 75, poz. 398 i Nr 149, poz. 887.) w art. 109:
 
 - **1)** w § 2 pkt 1 otrzymuje brzmienie: „
 - **1)** zobowiązać rodziców oraz małoletniego do określonego postępowania, w szczególności do pracy z asystentem rodziny, realizowania innych form pracy z rodziną, skierować małoletniego do placówki wsparcia dziennego, określonych w przepisach o wspieraniu rodziny i systemie pieczy zastępczej lub skierować rodziców do placówki albo specjalisty zajmujących się terapią rodzinną, poradnictwem lub świadczących rodzinie inną stosowną pomoc z jednoczesnym wskazaniem sposobu kontroli wykonania wydanych zarządzeń, ” ;
@@ -324,7 +323,7 @@ source: "eli-html"
 
 - **11)** zastosować inne środki zastrzeżone w niniejszej ustawie do właściwości sądu rodzinnego, jak również zastosować środki przewidziane w Kodeksie rodzinnym i opiekuńczym, z wyłączeniem umieszczenia w rodzinie zastępczej spokrewnionej, rodzinie zastępczej niezawodowej, rodzinnym domu dziecka, placówce wsparcia dziennego, placówce opiekuńczo-wychowawczej i regionalnej placówce opiekuńczo-terapeutycznej. ” .
 
-**Art. 4.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427 oraz z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 ust. 2 otrzymuje brzmienie: „
 
@@ -346,6 +345,6 @@ source: "eli-html"
 **Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 31, 34, 38, 41 i 43 oraz art. 6, które wchodzą w życie z dniem ogłoszenia;
-- **2)** art. 1 pkt 1 w zakresie art. 11 ust. 4, pkt 9 lit. b, pkt 16 lit. a i pkt 18 lit. c, które wchodzą w życie z dniem 1 stycznia 2015 r.
+- **2)** art. 1 pkt 1 w zakresie art. 11 ust. 4, pkt 9 lit. b, pkt 16 lit. a i pkt 18 lit. c, które wchodzą w życie z dniem 1 stycznia 2015 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, ustawę z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich oraz ustawę z dnia 12 marca 2004 r. o pomocy społecznej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 45, poz. 234, z 1986 r. Nr 36, poz. 180, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417, z 1998 r. Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 122, poz. 1322, z 2001 r. Nr 128, poz. 1403, z 2003 r. Nr 83, poz. 772 i Nr 130, poz. 1188, z 2004 r. Nr 162, poz. 1691, z 2007 r. Nr 121, poz. 831, Nr 134, poz. 947 i Nr 192, poz. 1378, z 2008 r. Nr 220, poz. 1431, z 2010 r. Nr 125, poz. 842 oraz z 2011 r. Nr 75, poz. 398 i Nr 149, poz. 887. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427 oraz z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887.
 
 

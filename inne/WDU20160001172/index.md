@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 22 lipca 2016 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń
+# Rozporządzenie Ministra Zdrowiaz dnia 22 lipca 2016 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-22 |
 | Data wydania | 2016-08-03 |
-| Wejście w życie | 2016-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001172) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1172/text.pdf) |
 
@@ -34,7 +33,7 @@ Zawodnik uczestniczący we współzawodnictwie sportowym organizowanym przez pol
 2.
 W przypadku zawodników uprawiających sporty lotnicze za równoznaczne z orzeczeniem uznaje się orzeczenie o braku przeciwwskazań zdrowotnych do wykonywania funkcji członka personelu lotniczego wydawane po przeprowadzeniu badań lotniczo-lekarskich określonych w przepisach wydanych na podstawie art. 112 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2016 r. poz. 605 i 904).
 3.
-W przypadku zawodników uprawiających sporty lotnicze, będących żołnierzami zawodowymi – członkami personelu latającego, za równoznaczne z orzeczeniem uznaje się orzeczenie wydawane po przeprowadzeniu badań lekarskich określonych w przepisach wydanych na podstawie art. 5 ust. 8 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2014 r. poz. 1414, z późn. zm.).
+W przypadku zawodników uprawiających sporty lotnicze, będących żołnierzami zawodowymi – członkami personelu latającego, za równoznaczne z orzeczeniem uznaje się orzeczenie wydawane po przeprowadzeniu badań lekarskich określonych w przepisach wydanych na podstawie art. 5 ust. 8 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2014 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1268 i 1830 oraz z 2016 r. poz. 178, 308, 904, 960 i 1053.).
 § 2.
 1.
 Orzeczenie wydaje lekarz specjalista w dziedzinie medycyny sportowej, a w odniesieniu do zawodników niepełnosprawnych orzeczenie może wydać także lekarz specjalista w dziedzinie rehabilitacji medycznej.
@@ -104,6 +103,5 @@ Lekarz, o którym mowa w § 2, może zlecić dodatkowo wykonanie innych niż okr
 § 6.
 Orzeczenia lekarskie o braku przeciwwskazań do uprawiania sportu wydane na podstawie dotychczasowych przepisów zachowują ważność przez okres, na jaki zostały wydane.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1268 i 1830 oraz z 2016 r. poz. 178, 308, 904, 960 i 1053. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 kwietnia 2011 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu wymaganych badań lekarskich niezbędnych do uzyskania orzeczenia lekarskiego (Dz. U. poz. 502), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 pkt 2 ustawy z dnia 23 lipca 2015 r. o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1321 i 1932).
+Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 kwietnia 2011 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu wymaganych badań lekarskich niezbędnych do uzyskania orzeczenia lekarskiego (Dz. U. poz. 502), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 pkt 2 ustawy z dnia 23 lipca 2015 r. o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1321 i 1932). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822, z 2015 r. poz. 1066, 1217, 1268 i 1830 oraz z 2016 r. poz. 178, 308, 904, 960 i 1053. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 kwietnia 2011 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu wymaganych badań lekarskich niezbędnych do uzyskania orzeczenia lekarskiego (Dz. U. poz. 502), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 pkt 2 ustawy z dnia 23 lipca 2015 r. o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1321 i 1932).
 

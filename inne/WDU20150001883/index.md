@@ -39,25 +39,19 @@ rozporządzeniem Rady Ministrów z dnia 23 września 2015 r. zmieniającym rozpo
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Rady Ministrów z dnia 5 maja 2014 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 633), który stanowi:
-„
+§ 2 rozporządzenia Rady Ministrów z dnia 5 maja 2014 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 633), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Rady Ministrów z dnia 17 grudnia 2014 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 1859), który stanowi:
-„
+§ 2 rozporządzenia Rady Ministrów z dnia 17 grudnia 2014 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 1859), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Rady Ministrów z dnia 23 września 2015 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 1508), który stanowi:
-„
+§ 2 rozporządzenia Rady Ministrów z dnia 23 września 2015 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 1508), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 23 lipca 2010 r. w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych
-Na podstawie art. 5 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 5 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358 i 1513.) zarządza się, co następuje:
 § 1.
 1.
 Do środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, zalicza się:
@@ -79,13 +73,13 @@ niepodlegające zwrotowi środki pochodzące z dotacji Komisji Europejskiej w ra
 środki udostępniane przez Komisję Europejską w ramach partnerstwa na podstawie umów o delegację, przeznaczone na działania informacyjne i edukacyjne związane z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej i z procesem integracji europejskiej;
 9)
 środki pochodzące z grantu Komisji Europejskiej, przeznaczone na realizację działań w ramach Inicjatywy Celowej Procesu Praskiego – projekt pod nazwą „Support for the Implementation of the Prague Process and its Action Plan”;
-10)
+10Dodany przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 5 maja 2014 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 633), które weszło w życie z dniem 20 maja 2014 r.)
 środki pochodzące z Europejskiej Agencji Chemikaliów, przekazywane jako wynagrodzenie na rzecz właściwych organów państw członkowskich Unii Europejskiej za pracę sprawozdawcy i współsprawozdawcy oraz za wszelkie inne wsparcie o charakterze naukowym i technicznym związane z oceną substancji chemicznych;
-11)
+11Dodany przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 5 maja 2014 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 633), które weszło w życie z dniem 20 maja 2014 r.)
 środki pochodzące z grantu Komisji Europejskiej, przeznaczone na realizację działań określonych w Programie Współpracy Policyjnej w ramach Partnerstwa Wschodniego – projekt pod nazwą „Eastern Partnership Police Cooperation Programme”;
-12)
+12Dodany przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 17 grudnia 2014 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 1859), które weszło w życie z dniem 23 grudnia 2014 r.)
 środki udostępniane przez Komisję Europejską w celu ich przekazania na rzecz państw spoza Unii Europejskiej, w związku z wydatkami na zadania weterynaryjne, w tym na zwalczanie wścieklizny;
-13)
+13Dodany przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 23 września 2015 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 1508), które weszło w życie z dniem 1 października 2015 r.)
 środki pochodzące z grantu Komisji Europejskiej, przeznaczone na realizację działań w ramach Cyklu Polityki Bezpieczeństwa Unii Europejskiej w zakresie poważnej i zorganizowanej przestępczości tzw. „Policy Cycle” – projekt pod nazwą „EMPACT Narkotyki Syntetyczne”.
 2.
 Beneficjentami środków, o których mowa w ust. 1, są:
@@ -96,7 +90,7 @@ Główny Urząd Statystyczny, urzędy statystyczne i jednostki podporządkowane 
 3)
 podmioty, którym przyznana została pomoc finansowa Unii Europejskiej w zakresie transeuropejskich sieci transportowych (TEN-T) na podstawie decyzji Komisji Europejskiej – w przypadku środków wymienionych w pkt 3;
 4)
-Ministerstwo Spraw Wewnętrznych i Administracji  będące koordynatorem krajowego punktu kontaktowego Europejskiej Sieci Migracyjnej oraz inne jednostki występujące w umowach związanych z realizacją zadań dla Europejskiej Sieci Migracyjnej zawartych przez Ministerstwo Spraw Wewnętrznych i Administracji jako partnera, stronę trzecią lub podwykonawcę – w przypadku środków wymienionych w pkt 4;
+Ministerstwo Spraw Wewnętrznych i Administracji Ministerstwo Spraw Wewnętrznych i Administracji zostało zniesione na podstawie rozporządzenia Rady Ministrów z dnia 21 listopada 2011 r. w sprawie zniesienia Ministerstwa Spraw Wewnętrznych i Administracji oraz Ministerstwa Infrastruktury (Dz. U. Nr 250, poz. 1500). W miejsce dotychczasowego Ministerstwa Spraw Wewnętrznych i Administracji utworzono Ministerstwo Administracji i Cyfryzacji na podstawie rozporządzenia Rady Ministrów z dnia 21 listopada 2011 r. w sprawie utworzenia Ministerstwa Administracji i Cyfryzacji (Dz. U. Nr 250, poz. 1501) oraz Ministerstwo Spraw Wewnętrznych na podstawie rozporządzenia Rady Ministrów z dnia 21 listopada 2011 r. w sprawie utworzenia Ministerstwa Spraw Wewnętrznych (Dz. U. Nr 250, poz. 1502). będące koordynatorem krajowego punktu kontaktowego Europejskiej Sieci Migracyjnej oraz inne jednostki występujące w umowach związanych z realizacją zadań dla Europejskiej Sieci Migracyjnej zawartych przez Ministerstwo Spraw Wewnętrznych i Administracji Ministerstwo Spraw Wewnętrznych i Administracji zostało zniesione na podstawie rozporządzenia Rady Ministrów z dnia 21 listopada 2011 r. w sprawie zniesienia Ministerstwa Spraw Wewnętrznych i Administracji oraz Ministerstwa Infrastruktury (Dz. U. Nr 250, poz. 1500). W miejsce dotychczasowego Ministerstwa Spraw Wewnętrznych i Administracji utworzono Ministerstwo Administracji i Cyfryzacji na podstawie rozporządzenia Rady Ministrów z dnia 21 listopada 2011 r. w sprawie utworzenia Ministerstwa Administracji i Cyfryzacji (Dz. U. Nr 250, poz. 1501) oraz Ministerstwo Spraw Wewnętrznych na podstawie rozporządzenia Rady Ministrów z dnia 21 listopada 2011 r. w sprawie utworzenia Ministerstwa Spraw Wewnętrznych (Dz. U. Nr 250, poz. 1502).jako partnera, stronę trzecią lub podwykonawcę – w przypadku środków wymienionych w pkt 4;
 5)
 jednostki organizacyjne Państwowej Straży Pożarnej – w przypadku środków wymienionych w pkt 5;
 6)
@@ -107,28 +101,28 @@ Ministerstwo Środowiska oraz jednostki podległe lub nadzorowane przez Ministra
 Ministerstwo Spraw Zagranicznych, jako pośrednik działający w imieniu Komisji Europejskiej – w przypadku środków wymienionych w pkt 8;
 9)
 Ministerstwo Spraw Wewnętrznych będące koordynatorem projektu, o którym mowa w ust. 1 pkt 9, oraz inne podmioty występujące w umowach związanych z realizacją tego projektu, zawartych przez Ministerstwo Spraw Wewnętrznych jako stronę – w przypadku środków wymienionych w pkt 9;
-10)
+10Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 Biuro do spraw Substancji Chemicznych zapewniające realizację zadań właściwego organu państwa członkowskiego Unii Europejskiej – w przypadku środków wymienionych w pkt 10;
-11)
+11Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 Ministerstwo Spraw Wewnętrznych oraz Fundacja „Fundusz Współpracy” będące koordynatorami projektu, o którym mowa w ust. 1 pkt 11, oraz inne podmioty występujące w umowach związanych z realizacją tego projektu, zawartych przez Ministerstwo Spraw Wewnętrznych bądź Fundację „Fundusz Współpracy” jako strony – w przypadku środków wymienionych w pkt 11;
-12)
+12Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 Ministerstwo Rolnictwa i Rozwoju Wsi oraz inne jednostki sektora finansów publicznych, za pośrednictwem których Komisja Europejska przekaże środki finansowe na rzecz państw spoza Unii Europejskiej realizujących zadania weterynaryjne – w przypadku środków wymienionych w pkt 12;
-13)
+13Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 Ministerstwo Spraw Wewnętrznych oraz Centrum Obsługi Projektów Europejskich Ministerstwa Spraw Wewnętrznych będące koordynatorami projektu, o którym mowa w ust. 1 pkt 13, oraz inne podmioty występujące w umowach związanych z realizacją tego projektu, zawartych przez Ministerstwo Spraw Wewnętrznych bądź Centrum Obsługi Projektów Europejskich Ministerstwa Spraw Wewnętrznych jako strony – w przypadku środków wymienionych w pkt 13.
 § 2.
 Środki, o których mowa w § 1 ust. 1, powinny być wydatkowane w terminie:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.)
 kwalifikowalności wydatków projektów finansowanych ze środków, o których mowa w pkt 1, 4, 5, 9, 11 oraz 13;
 2)
 6 miesięcy od dnia ich otrzymania przez Główny Urząd Statystyczny – w przypadku środków, o których mowa w pkt 2;
 3)
 kwalifikowalności wydatków projektów finansowanych ze środków, o których mowa w pkt 3, a w przypadku refundacji wydatków z tych środków – niezwłocznie po ich otrzymaniu;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 przeznaczonym na realizację zadania finansowanego ze środków, o których mowa w pkt 6, 8 oraz 10;
 5)
 12 miesięcy od dnia ich otrzymania z budżetu Unii Europejskiej – w przypadku środków, o których mowa w pkt 7;
-6)
+6Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.)
 niezwłocznie od dnia ich otrzymania przez beneficjentów tych środków – w przypadku środków, o których mowa w pkt 12.
 § 3.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia, z wyjątkiem § 1 ust. 1 pkt 4, który wchodzi w życie z dniem 1 sierpnia 2010 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 30 lipca 2010 r., z wyjątkiem § 1 ust. 1 pkt 4, który wchodzi w życie z dniem 1 sierpnia 2010 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 sierpnia 2008 r. w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 3a i 4 ustawy o finansach publicznych (Dz. U. Nr 157, poz. 980 oraz z 2009 r. Nr 3, poz. 13), które na podstawie art. 119 ust. 1 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358 i 1513. 2) Dodany przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 5 maja 2014 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 633), które weszło w życie z dniem 20 maja 2014 r. 3) Dodany przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 17 grudnia 2014 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 1859), które weszło w życie z dniem 23 grudnia 2014 r. 4) Dodany przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 23 września 2015 r. zmieniającego rozporządzenie w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy o finansach publicznych (Dz. U. poz. 1508), które weszło w życie z dniem 1 października 2015 r. 5) Ministerstwo Spraw Wewnętrznych i Administracji zostało zniesione na podstawie rozporządzenia Rady Ministrów z dnia 21 listopada 2011 r. w sprawie zniesienia Ministerstwa Spraw Wewnętrznych i Administracji oraz Ministerstwa Infrastruktury (Dz. U. Nr 250, poz. 1500). W miejsce dotychczasowego Ministerstwa Spraw Wewnętrznych i Administracji utworzono Ministerstwo Administracji i Cyfryzacji na podstawie rozporządzenia Rady Ministrów z dnia 21 listopada 2011 r. w sprawie utworzenia Ministerstwa Administracji i Cyfryzacji (Dz. U. Nr 250, poz. 1501) oraz Ministerstwo Spraw Wewnętrznych na podstawie rozporządzenia Rady Ministrów z dnia 21 listopada 2011 r. w sprawie utworzenia Ministerstwa Spraw Wewnętrznych (Dz. U. Nr 250, poz. 1502). 6) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 8) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4. 9) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 10) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 12) Rozporządzenie zostało ogłoszone w dniu 30 lipca 2010 r. 13) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 sierpnia 2008 r. w sprawie wykazu środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 3a i 4 ustawy o finansach publicznych (Dz. U. Nr 157, poz. 980 oraz z 2009 r. Nr 3, poz. 13), które na podstawie art. 119 ust. 1 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 

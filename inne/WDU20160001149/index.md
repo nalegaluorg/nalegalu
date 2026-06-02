@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-29 |
 | Data wydania | 2016-07-29 |
-| Wejście w życie | 2016-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1149/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147, 437, 633 i 960.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396 i 1681 oraz z 2015 r. poz. 1592 i 2248) w § 1 w pkt 20 lit. b otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396 i 1681 oraz z 2015 r. poz. 1592 i 2248) w § 1 w pkt 20 lit. b otrzymuje brzmienie: „
 b)
-Sądowi Rejonowemu dla Łodzi-Śródmieścia w Łodzi sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych: dla Łodzi-Widzewa w Łodzi i w Zgierzu oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Brzezinach, Kutnie, dla Łodzi-Widzewa w Łodzi, w Łęczycy, Łowiczu, Pabianicach, Rawie Mazowieckiej, Skierniewicach i Zgierzu,
-” .
+Sądowi Rejonowemu dla Łodzi-Śródmieścia w Łodzi sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych: dla Łodzi-Widzewa w Łodzi i w Zgierzu oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Brzezinach, Kutnie, dla Łodzi-Widzewa w Łodzi, w Łęczycy, Łowiczu, Pabianicach, Rawie Mazowieckiej, Skierniewicach i Zgierzu, ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147, 437, 633 i 960.
 

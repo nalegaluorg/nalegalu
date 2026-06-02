@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 października 2008 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 24 października 2008 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw Niniejszą ustawą zmienia się także ustawy: ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-24 |
 | Data wydania | 2008-12-03 |
-| Wejście w życie | 2008-12-18 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082141344) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1344/text.pdf) |
 
+Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia dotyczącego grzywny, środków karnych w postaci nawiązki lub świadczenia pieniężnego lub też orzeczenia zasądzającego od sprawcy koszty procesu
 Art. 611fa.
 § 1.
 W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca grzywny lub środka karnego w postaci nawiązki lub świadczenia pieniężnego, a także w razie zasądzenia od sprawcy kosztów procesu, sąd może wystąpić o jego wykonanie bezpośrednio do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym sprawca posiada mienie lub osiąga dochody, albo ma stałe lub czasowe miejsce pobytu.
@@ -58,6 +58,7 @@ W razie uchylenia orzeczenia na skutek kasacji albo wznowienia postępowania, da
 § 2.
 Sąd zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wykonania orzeczenia o każdej wpłacie dokonanej na poczet orzeczonej kary, środków karnych lub kosztów procesu, o których mowa w art. 611fa § 1.
 Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator, pokrzywdzony lub inna osoba albo podmiot uprawniony, o których mowa w art. 611fb § 3, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
+Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o karach o charakterze pieniężnym
 § 1.
 W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia o karach o charakterze pieniężnym, orzeczenie to podlega wykonaniu przez sąd rejonowy, w okręgu którego sprawca posiada mienie lub osiąga dochody, albo ma stałe lub czasowe miejsce pobytu. W rozumieniu przepisów niniejszego rozdziału „karą o charakterze pieniężnym” jest obowiązek uiszczenia przez sprawcę określonych w orzeczeniu:
 1)
@@ -141,19 +142,18 @@ Jeżeli sprawca lub inna osoba przedstawi dowód uiszczenia w całości albo cz�
 Kwoty uprzednio uzyskane na poczet kary w państwie wydania lub wykonania orzeczenia są odliczane od kwoty, która ma być wyegzekwowana.
 W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, sąd wydaje niezwłocznie postanowienie o umorzeniu postępowania wykonawczego.
 O treści postanowienia w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym, jak również o zakończeniu postępowania egzekucyjnego, a także o zamianie kary o charakterze pieniężnym na pracę społecznie użyteczną lub o wykonaniu zastępczej kary pozbawienia wolności, jeżeli prawo polskie dopuszcza taką możliwość, powiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Powiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611ff § 1, ponosi Skarb Państwa.
-” ;
+Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611ff § 1, ponosi Skarb Państwa. ” ;
 2)
 dotychczasowy rozdział 66a oznacza się jako rozdział 66c.
+Postępowanie w sprawach ze stosunków międzynarodowych
 Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie postanowienia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia oraz wykonanie orzeczenia sądu lub innego organu państwa członkowskiego Unii Europejskiej o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia
 Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie grzywny, środków karnych w postaci nawiązki lub obowiązku naprawienia szkody lub też orzeczenia zasądzającego koszty postępowania oraz wykonanie orzeczenia sądu lub innego organu państwa członkowskiego Unii Europejskiej o karach o charakterze pieniężnym
 § 1.
 Do wystąpienia do państwa członkowskiego Unii Europejskiej o wykonanie grzywny, środków karnych w postaci nawiązki lub obowiązku naprawienia szkody lub orzeczenia zasądzającego koszty postępowania oraz do wykonania orzeczenia sądu lub innego organu państwa członkowskiego Unii Europejskiej o karach o charakterze pieniężnym stosuje się odpowiednio przepisy rozdziałów 66a i 66b Kodeksu postępowania karnego.
 § 2.
-W postępowaniu mandatowym o wykonanie grzywny nałożonej mandatem karnym kredytowanym do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej występuje wierzyciel uprawniony według przepisów o postępowaniu egzekucyjnym w administracji.
-” .
+W postępowaniu mandatowym o wykonanie grzywny nałożonej mandatem karnym kredytowanym do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej występuje wierzyciel uprawniony według przepisów o postępowaniu egzekucyjnym w administracji. ” .
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378 oraz z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056 i Nr 173, poz. 1080.) wprowadza się następujące zmiany:
 
 - **1)** w art. 101 dodaje się § 4 w brzmieniu: „
 
@@ -196,15 +196,15 @@ W postępowaniu mandatowym o wykonanie grzywny nałożonej mandatem karnym kredy
 
 § 1. Kto, pełniąc funkcję kierowniczą w jednostce organizacyjnej wykonującej działalność gospodarczą lub pozostając z nią w stosunku pracy, umowy zlecenia lub umowy o dzieło, żąda lub przyjmuje korzyść majątkową lub osobistą albo jej obietnicę, w zamian za nadużycie udzielonych mu uprawnień lub niedopełnienie ciążącego na nim obowiązku mogące wyrządzić tej jednostce szkodę majątkową albo stanowiące czyn nieuczciwej konkurencji lub niedopuszczalną czynność preferencyjną na rzecz nabywcy lub odbiorcy towaru, usługi lub świadczenia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5. ” .
 
-**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903 oraz z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133 i Nr 208, poz. 1308.) wprowadza się następujące zmiany:
 
 - **1)** po rozdziale 66 dodaje się rozdziały 66a i 66b w brzmieniu: „
 
-#### Rozdział 66a Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia dotyczącego grzywny, środków karnych w postaci nawiązki lub świadczenia pieniężnego lub też orzeczenia zasądzającego od sprawcy koszty procesu
+#### Rozdział 66a
 
-#### Rozdział 66b Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o karach o charakterze pieniężnym
+#### Rozdział 66b
 
-**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) po art. 52 dodaje się art. 52a w brzmieniu: „
+**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849 oraz z 2008 r. Nr 96, poz. 620.) po art. 52 dodaje się art. 52a w brzmieniu: „
 
 **Art. 52a.** Przepisy niniejszego rozdziału stosuje się odpowiednio do egzekucji kar o charakterze pieniężnym, o których mowa w rozdziale 66b Kodeksu postępowania karnego. ” .
 
@@ -216,7 +216,7 @@ W postępowaniu mandatowym o wykonanie grzywny nałożonej mandatem karnym kredy
 
 - **2)** po dziale XII dodaje się dział XIIa w brzmieniu: „
 
-### Dział XIIa Postępowanie w sprawach ze stosunków międzynarodowych
+### Dział XIIa
 
 #### Rozdział 20a
 
@@ -224,12 +224,12 @@ W postępowaniu mandatowym o wykonanie grzywny nałożonej mandatem karnym kredy
 
 #### Rozdział 20b
 
-**Art. 5.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.) w art. 16 w ust. 1 wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442, z 2005 r. Nr 157, poz. 1316, Nr 178, poz. 1479, Nr 180, poz. 1492 i Nr 183, poz. 1538, z 2006 r. Nr 120, poz. 826 oraz z 2007 r. Nr 75, poz. 492 i Nr 166, poz. 1172.) w art. 16 w ust. 1 wprowadza się następujące zmiany:
 
 - **1)** pkt 4 otrzymuje brzmienie: „
 - **4)** przeciwko ochronie informacji, określone w art. 267–269b Kodeksu karnego; ” ;
 - **2)** pkt 7 otrzymuje brzmienie: „
 - **7)** przeciwko wolności seksualnej i obyczajności, określone w art. 199–200, art. 202 § 3–4b i art. 203–204 Kodeksu karnego; ” .
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się także ustawy: ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378 oraz z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056 i Nr 173, poz. 1080. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903 oraz z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133 i Nr 208, poz. 1308. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849 oraz z 2008 r. Nr 96, poz. 620. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442, z 2005 r. Nr 157, poz. 1316, Nr 178, poz. 1479, Nr 180, poz. 1492 i Nr 183, poz. 1538, z 2006 r. Nr 120, poz. 826 oraz z 2007 r. Nr 75, poz. 492 i Nr 166, poz. 1172.
 

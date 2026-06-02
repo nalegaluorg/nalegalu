@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-05 |
 | Data wydania | 2024-03-12 |
-| Wejście w życie | 2024-03-13 |
 | Ostatnia zmiana | 2024-10-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000347) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/347/text.pdf) |
 
@@ -31,7 +30,6 @@ Na podstawie art. 12a i art. 15 ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 22 kwietnia 2002 r. w sprawie utworzenia, organizacji i trybu działania Komisji Kodyfikacyjnej Prawa Cywilnego (Dz. U. z 2016 r. poz. 1741) wprowadza się następujące zmiany:
 1)
-w § 3 ust. 2 otrzymuje brzmienie:
-„
+w § 3 ust. 2 otrzymuje brzmienie: „
 2.
 

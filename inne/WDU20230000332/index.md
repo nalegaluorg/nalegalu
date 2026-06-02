@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 stycznia 2023 r. o finansowaniu wspólnej polityki rolnej na lata 2023–2027
+# Ustawaz dnia 26 stycznia 2023 r. o finansowaniu wspólnej polityki rolnej na lata 2023–2027 Niniejsza ustawa służy stosowaniu:
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-26 |
 | Data wydania | 2023-02-22 |
-| Wejście w życie | 2023-02-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000332) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/332/text.pdf) |
 
 **Art. 1.** Ustawa określa:
 
-- **1)** właściwość organów w zakresie uruchamiania środków publicznych pochodzących z Europejskiego Funduszu Rolniczego Gwarancji, zwanego dalej „EFRG”, oraz z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, zwanego dalej „EFRROW”, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm.), zwanym dalej „rozporządzeniem 2021/2116”;
+- **1)** właściwość organów w zakresie uruchamiania środków publicznych pochodzących z Europejskiego Funduszu Rolniczego Gwarancji, zwanego dalej „EFRG”, oraz z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, zwanego dalej „EFRROW”, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1.), zwanym dalej „rozporządzeniem 2021/2116”;
 - **2)** zasady uruchamiania środków z EFRG i EFRROW w zakresie nieuregulowanym w rozporządzeniu 2021/2116;
 - **3)** zasady uruchamiania środków publicznych przeznaczonych na finansowanie w ramach wspólnej polityki rolnej w części podlegającej refundacji ze środków EFRG i EFRROW oraz na współfinansowanie w ramach wspólnej polityki rolnej;
-- **4)** zasady uruchamiania środków publicznych z budżetu państwa na: wyprzedzające finansowanie pomocy finansowej w ramach interwencji objętych Planem Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, zwanej dalej „pomocą”, w tym na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację operacji w ramach tych interwencji, wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację operacji w ramach pomocy technicznej, o której mowa w art. 125 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2021/2115”, objętej Planem Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, zwanej dalej „pomocą techniczną”;
+- **4)** zasady uruchamiania środków publicznych z budżetu państwa na: wyprzedzające finansowanie pomocy finansowej w ramach interwencji objętych Planem Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, zwanej dalej „pomocą”, w tym na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację operacji w ramach tych interwencji, wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację operacji w ramach pomocy technicznej, o której mowa w art. 125 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35 oraz Dz. Urz. UE L 227 z 01.09.2022, str. 136.), zwanego dalej „rozporządzeniem 2021/2115”, objętej Planem Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, zwanej dalej „pomocą techniczną”;
     - **a)**
     - **b)**
 
@@ -56,14 +55,14 @@ source: "eli-html"
 
 - **1)** nazwę i siedzibę agencji płatniczej,
 - **2)** wydatki, o których mowa w art. 5 i art. 6 rozporządzenia 2021/2116, za które agencja płatnicza ma być odpowiedzialna,
-- **3)** datę udzielenia akredytacji mając na względzie zasady przyznawania jednostce organizacyjnej akredytacji jako agencji płatniczej określone w art. 9 rozporządzenia 2021/2116, w rozporządzeniu 2022/127 i rozporządzeniu 2022/128.
+- **3)** datę udzielenia akredytacji – mając na względzie zasady przyznawania jednostce organizacyjnej akredytacji jako agencji płatniczej określone w art. 9 rozporządzenia 2021/2116, w rozporządzeniu 2022/127 i rozporządzeniu 2022/128.
 
 2. Minister właściwy do spraw finansów publicznych może przyznać, w drodze rozporządzenia, jednostce organizacyjnej tymczasową akredytację jako agencji płatniczej, wskazując:
 
 - **1)** nazwę i siedzibę agencji płatniczej,
 - **2)** wydatki, o których mowa w art. 5 i art. 6 rozporządzenia 2021/2116, za które agencja płatnicza ma być odpowiedzialna,
 - **3)** datę udzielenia tymczasowej akredytacji,
-- **4)** zalecenia do zrealizowania działań mających na celu spełnienie wszystkich kryteriów akredytacji oraz termin ich realizacji mając na względzie zasady przyznawania jednostce organizacyjnej tymczasowej akredytacji jako agencji płatniczej określone w art. 9 rozporządzenia 2021/2116, w rozporządzeniu 2022/127 i rozporządzeniu 2022/128.
+- **4)** zalecenia do zrealizowania działań mających na celu spełnienie wszystkich kryteriów akredytacji oraz termin ich realizacji – mając na względzie zasady przyznawania jednostce organizacyjnej tymczasowej akredytacji jako agencji płatniczej określone w art. 9 rozporządzenia 2021/2116, w rozporządzeniu 2022/127 i rozporządzeniu 2022/128.
 
 **Art. 5.**
 
@@ -77,7 +76,7 @@ source: "eli-html"
 
 - **1)** nazwę i siedzibę agencji płatniczej,
 - **2)** przyczyny cofnięcia akredytacji,
-- **3)** datę cofnięcia akredytacji mając na względzie konieczność zapewnienia prawidłowego wydatkowania środków z EFRG i EFRROW oraz zasady cofania akredytacji określone w rozporządzeniu 2021/2116 i rozporządzeniu 2022/128.
+- **3)** datę cofnięcia akredytacji – mając na względzie konieczność zapewnienia prawidłowego wydatkowania środków z EFRG i EFRROW oraz zasady cofania akredytacji określone w rozporządzeniu 2021/2116 i rozporządzeniu 2022/128.
 
 2. Jednostka organizacyjna, której została cofnięta akredytacja jako agencji płatniczej, niezwłocznie przekazuje agencji płatniczej wskazanej przez ministra właściwego do spraw finansów publicznych dokumentację i bazy danych w zakresie objętym cofniętą akredytacją.
 
@@ -92,7 +91,7 @@ source: "eli-html"
 
 **Art. 8.**
 
-1. Środki publiczne przeznaczone na finansowanie w ramach wspólnej polityki rolnej w części podlegającej refundacji ze środków EFRG i EFRROW są przekazywane na rachunek bankowy agencji płatniczej zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.) na wniosek ministra właściwego do spraw rozwoju wsi sporządzony na podstawie zapotrzebowania składanego przez agencję płatniczą.
+1. Środki publiczne przeznaczone na finansowanie w ramach wspólnej polityki rolnej w części podlegającej refundacji ze środków EFRG i EFRROW są przekazywane na rachunek bankowy agencji płatniczej zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.) na wniosek ministra właściwego do spraw rozwoju wsi sporządzony na podstawie zapotrzebowania składanego przez agencję płatniczą.
 
 2. Środki publiczne przeznaczone na współfinansowanie w ramach wspólnej polityki rolnej są przekazywane agencji płatniczej w formie dotacji celowej przez ministra właściwego do spraw rozwoju wsi na podstawie zapotrzebowania składanego przez agencję płatniczą.
 
@@ -106,7 +105,7 @@ source: "eli-html"
 
 2. Środki publiczne przeznaczone na współfinansowanie w ramach wspólnej polityki rolnej odzyskane od beneficjentów przez agencję płatniczą są przekazywane przez agencję płatniczą na rachunek wskazany przez ministra właściwego do spraw rozwoju wsi.
 
-3. Środki publiczne uzyskane z tytułu sprzedaży towarów rolno-spożywczych realizowanej na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.) stanowią dochód budżetu środków europejskich.
+3. Środki publiczne uzyskane z tytułu sprzedaży towarów rolno-spożywczych realizowanej na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262.) stanowią dochód budżetu środków europejskich.
 
 4. Agencja płatnicza lub minister właściwy do spraw rozwoju wsi przekazują ministrowi właściwemu do spraw finansów publicznych informacje dotyczące środków publicznych, o których mowa w ust. 1–3.
 
@@ -115,7 +114,7 @@ source: "eli-html"
 - **1)** wymagania dotyczące zapotrzebowania składanego przez agencję płatniczą, w tym zakres tego zapotrzebowania i wymagania dotyczące jego przekazywania, oraz warunki i terminy przekazywania agencji płatniczej środków publicznych, o których mowa w art. 8 ust. 1–3,
 - **2)** sposób postępowania ze środkami publicznymi odzyskanymi od beneficjentów przez agencję płatniczą, o których mowa w art. 9 ust. 1 i 2,
 - **3)** sposób postępowania ze środkami publicznymi, o których mowa w art. 9 ust. 3,
-- **4)** wymagania dotyczące informacji, jakie agencja płatnicza lub minister właściwy do spraw rozwoju wsi przekazują ministrowi właściwemu do spraw finansów publicznych, dotyczących prognozowanych i przekazanych agencji płatniczej środków publicznych, o których mowa w art. 8 ust. 1–3, oraz środków publicznych, o których mowa w art. 9 ust. 1–3, w tym zakres tych informacji oraz wymagania dotyczące ich przekazywania mając na względzie zapewnienie prawidłowego gospodarowania tymi środkami.
+- **4)** wymagania dotyczące informacji, jakie agencja płatnicza lub minister właściwy do spraw rozwoju wsi przekazują ministrowi właściwemu do spraw finansów publicznych, dotyczących prognozowanych i przekazanych agencji płatniczej środków publicznych, o których mowa w art. 8 ust. 1–3, oraz środków publicznych, o których mowa w art. 9 ust. 1–3, w tym zakres tych informacji oraz wymagania dotyczące ich przekazywania – mając na względzie zapewnienie prawidłowego gospodarowania tymi środkami.
 
 **Art. 11.**
 
@@ -136,7 +135,7 @@ source: "eli-html"
 6. Jeżeli jednostka samorządu terytorialnego nie otrzyma refundacji, o której mowa w ust. 5, z przyczyn leżących po stronie tej jednostki, zwraca środki, o których mowa w ust. 3 pkt 1 i 2, odpowiadające wkładowi:
 
 - **1)** EFRROW – w wysokości nieobjętej refundacją ze środków EFRROW oraz
-- **2)** krajowemu – w wysokości odpowiadającej stosunkowi wkładu EFRROW, o którym mowa w pkt 1, do wkładu krajowego w finansowanie operacji w terminie 60 dni od dnia otrzymania informacji o odmowie wypłaty środków wraz z odsetkami liczonymi od dnia ich przekazania.
+- **2)** krajowemu – w wysokości odpowiadającej stosunkowi wkładu EFRROW, o którym mowa w pkt 1, do wkładu krajowego w finansowanie operacji – w terminie 60 dni od dnia otrzymania informacji o odmowie wypłaty środków wraz z odsetkami liczonymi od dnia ich przekazania.
 
 7. Środki zwrócone na podstawie ust. 5 lub 6 właściwy dysponent przekazuje na rachunek dochodów budżetu państwa w terminie 5 dni od dnia otrzymania tych środków od jednostki samorządu terytorialnego.
 
@@ -156,7 +155,7 @@ source: "eli-html"
 1. Jeżeli środki, o których mowa w art. 11 ust. 3, zostaną przez jednostkę samorządu terytorialnego:
 
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** pobrane nienależnie lub w nadmiernej wysokości ta jednostka zwraca te środki wraz z odsetkami liczonymi od dnia przekazania tych środków w terminie 14 dni od dnia doręczenia wezwania do ich zwrotu.
+- **2)** pobrane nienależnie lub w nadmiernej wysokości – ta jednostka zwraca te środki wraz z odsetkami liczonymi od dnia przekazania tych środków w terminie 14 dni od dnia doręczenia wezwania do ich zwrotu.
 
 2. Zwrotowi, o którym mowa w ust. 1, podlega odpowiednio ta część środków, która została wykorzystana niezgodnie z przeznaczeniem albo pobrana nienależnie lub w nadmiernej wysokości.
 
@@ -183,7 +182,7 @@ source: "eli-html"
 1. Pożyczka, o której mowa w art. 13 ust. 2:
 
 - **1)** wykorzystana niezgodnie z przeznaczeniem,
-- **2)** pobrana nienależnie lub w nadmiernej wysokości podlega zwrotowi wraz z odsetkami liczonymi od dnia jej przekazania w terminie 14 dni od dnia doręczenia wezwania do zwrotu tej pożyczki.
+- **2)** pobrana nienależnie lub w nadmiernej wysokości – podlega zwrotowi wraz z odsetkami liczonymi od dnia jej przekazania w terminie 14 dni od dnia doręczenia wezwania do zwrotu tej pożyczki.
 
 2. Zwrotowi, o którym mowa w ust. 1, podlega odpowiednio ta część pożyczki, która została wykorzystana niezgodnie z przeznaczeniem albo pobrana nienależnie lub w nadmiernej wysokości.
 
@@ -208,7 +207,7 @@ source: "eli-html"
 1. Środki, o których mowa w art. 16 ust. 1:
 
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** pobrane nienależnie lub w nadmiernej wysokości podlegają zwrotowi przez beneficjenta wraz z odsetkami liczonymi od dnia przekazania tych środków w terminie 14 dni od dnia doręczenia wezwania do ich zwrotu.
+- **2)** pobrane nienależnie lub w nadmiernej wysokości – podlegają zwrotowi przez beneficjenta wraz z odsetkami liczonymi od dnia przekazania tych środków w terminie 14 dni od dnia doręczenia wezwania do ich zwrotu.
 
 2. Zwrotowi, o którym mowa w ust. 1, podlega odpowiednio ta część środków, która została wykorzystana niezgodnie z przeznaczeniem albo pobrana nienależnie lub w nadmiernej wysokości.
 
@@ -225,19 +224,19 @@ source: "eli-html"
 - **1)** państwowe jednostki budżetowe realizujące operacje w ramach pomocy technicznej na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji,
 - **2)** państwowe i samorządowe jednostki budżetowe realizujące operacje w ramach interwencji, o których mowa w art. 77 rozporządzenia 2021/2115, na wyprzedzające finansowanie pomocy,
 - **3)** Agencja Restrukturyzacji i Modernizacji Rolnictwa realizująca operacje w ramach pomocy technicznej na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji,
-- **4)** jednostki doradztwa rolniczego realizujące operacje w ramach pomocy technicznej na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji zgodnie z klasyfikacją dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych określoną w przepisach wydanych na podstawie art. 39 ust. 4 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+- **4)** jednostki doradztwa rolniczego realizujące operacje w ramach pomocy technicznej na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji – zgodnie z klasyfikacją dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych określoną w przepisach wydanych na podstawie art. 39 ust. 4 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 2. Do planowania, wykorzystywania i rozliczania środków, o których mowa w ust. 1, stosuje się przepisy o finansach publicznych w zakresie opracowywania i wykonywania ustawy budżetowej oraz przepisy rozporządzenia 2021/2115.
 
 3. Podmioty wskazane w ust. 1:
 
 - **1)** pkt 1, 3 i 4 dokonują zwrotu środków, o których mowa w ust. 1, do wysokości wkładu EFRROW ze środków EFRROW otrzymanych z agencji płatniczej tytułem refundacji kosztów kwalifikowalnych,
-- **2)** pkt 2 dokonują zwrotu środków, o których mowa w ust. 1, ze środków EFRROW otrzymanych z agencji płatniczej tytułem przyznanej pomocy na rachunek bieżący dochodów właściwej państwowej jednostki budżetowej, w terminie 10 dni od dnia otrzymania tych środków.
+- **2)** pkt 2 dokonują zwrotu środków, o których mowa w ust. 1, ze środków EFRROW otrzymanych z agencji płatniczej tytułem przyznanej pomocy – na rachunek bieżący dochodów właściwej państwowej jednostki budżetowej, w terminie 10 dni od dnia otrzymania tych środków.
 
 4. Jeżeli podmioty wskazane w ust. 1 pkt 3 lub 4 nie otrzymają refundacji, o której mowa w ust. 3 pkt 1, zwracają środki, o których mowa w ust. 1, odpowiadające wkładowi:
 
 - **1)** EFRROW – w wysokości nieobjętej refundacją ze środków EFRROW oraz
-- **2)** krajowemu – w wysokości odpowiadającej stosunkowi wkładu EFRROW, o którym mowa w pkt 1, do wkładu krajowego w finansowanie operacji w terminie 60 dni od dnia otrzymania informacji o odmowie wypłaty środków, z tym że w przypadku gdy zwrot środków następuje z przyczyn leżących po stronie podmiotu wskazanego w ust. 1 pkt 3 lub 4, środki te są zwracane wraz z odsetkami liczonymi od dnia ich przekazania.
+- **2)** krajowemu – w wysokości odpowiadającej stosunkowi wkładu EFRROW, o którym mowa w pkt 1, do wkładu krajowego w finansowanie operacji – w terminie 60 dni od dnia otrzymania informacji o odmowie wypłaty środków, z tym że w przypadku gdy zwrot środków następuje z przyczyn leżących po stronie podmiotu wskazanego w ust. 1 pkt 3 lub 4, środki te są zwracane wraz z odsetkami liczonymi od dnia ich przekazania.
 
 **Art. 21.** Odsetki, o których mowa w art. 11 ust. 6, art. 12 ust. 1, art. 14 ust. 3, art. 15 ust. 1, art. 17 ust. 1 i art. 20 ust. 4, nalicza się w wysokości określonej jak dla zaległości podatkowych.
 
@@ -255,5 +254,9 @@ source: "eli-html"
 
 2. Do przyznania tymczasowej akredytacji, cofnięcia akredytacji oraz poddania akredytacji okresowi próbnemu, o którym mowa w art. 2 ust. 3 rozporządzenia 2022/128, stosuje się przepisy art. 3–6.
 
-**Art. 24.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 24.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa służy stosowaniu:
+
+- **1)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35 oraz Dz. Urz. UE L 227 z 01.09.2022, str. 136);
+- **2)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35 oraz Dz. Urz. UE L 227 z 01.09.2022, str. 136. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262.
+
 

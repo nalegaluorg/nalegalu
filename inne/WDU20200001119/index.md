@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-25 |
 | Data wydania | 2020-06-26 |
-| Wejście w życie | 2020-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001119) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1119/text.pdf) |
 

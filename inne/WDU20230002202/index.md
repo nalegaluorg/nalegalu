@@ -8,10 +8,10 @@ pos: 2202
 act_type: Rozporządzenie
 status: akt objęty tekstem jednolitym
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Rozporządzenie Prezesa Rady Ministrówz dnia 3 października 2023 r. zmieniające rozporządzenie w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,37 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-10-03 |
 | Data wydania | 2023-10-13 |
-| Wejście w życie | 2024-01-01 |
 | Ostatnia zmiana | 2024-03-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2202/text.pdf) |
 
-Treść rozporządzenia
-Załącznik – Wzór legitymacji służbowej funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego
-Treść rozporządzenia
-Na podstawie art. 48 ust. 5 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860) zarządza się, co następuje:
-§ 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 26 czerwca 2002 r. w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2022 r. poz. 299) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.
-Załącznik – Wzór legitymacji służbowej funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego
-patrz oryginał
+22220022 dnia (Dz. U. poz. ) WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO I. OKŁADKA LEGITYMACJI Okładka wykonana ze skóry w kolorze czarnym srebrnymi tłoczeniami:
+1. „RZECZPOSPOLITA POLSKA”.
+2. Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej.
+3. „AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO”.
+II. CZĘŚĆ WEWNĘTRZNA LEGITYMACJI Legitymacja o wymiarach 70 × 184 mm wykonana na papierze bieżącym znakiem wodnym, zalaminowana obustronnie folią zabezpieczającą.
+AWERS
+1. Tło giloszowe w technice druku irysowego elementami mikrodruków.
+2. Elementy graficzne farbą aktywną w promieniowaniu ultrafioletowym.
+3. Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej.
+4. Poziomy biało-czerwony element graficzny.
+5. Miejsce na fotografię funkcjonariusza Bezpieczeństwa Wewnętrznego, która będzie nanoszona w procesie personalizacji.
+6. Logo Bezpieczeństwa Wewnętrznego.
+7. Czarne napisy drukowane różnym krojem
+1) „RZECZPOSPOLITA POLSKA”;
+2) „AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO”;
+3) „LEGITYMACJA SŁUŻBOWA”;
+4) „Ważna do 31.12.2026 r.”;
+5) „Nr” (siedmiocyfrowy numer legitymacji);
+6) „IMIĘ”;
+7) „NAZWISKO”;
+8) zaznaczone mikrodrukiem miejsce na i nazwisko funkcjonariusza Bezpieczeństwa Wewnętrznego;
+9) „Instytucje państwowe, organy administracji rządowej i samorządu terytorialnego przedsiębiorcy prowadzący działalność o charakterze użyteczności publicznej, w zakresie swojego działania, są prawnie zobowiązani do udzielenia pomocy funkcjonariuszowi ABW, który ma również prawo zwracania się o niezbędną pomoc do innych przedsiębiorców, jednostek organizacyjnych i organizacji społecznych, a w nagłych wypadkach także do każdej osoby.”;
+10) „SZEF AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO”;
+11) miejsce na podpis Szefa Bezpieczeństwa Wewnętrznego zaznaczone mikrodrukiem.
+8. Znak graficzny utworzony liter ABW wykonany farbą optycznie zmienną.
+REWERS
+1. Tło giloszowe wizerunkiem Witolda Pileckiego, w technice druku irysowego elementami mikrodruków.
+2. Czarny napis: „W przypadku znalezienia tej legitymacji należy niezwłocznie dostarczyć ją do najbliższej jednostki Policji lub Bezpieczeństwa Wewnętrznego.
+Nieuprawnione posługiwanie się legitymacją odpowiedzialności karnej.”.
+III. FOLIA ZABEZPIECZAJĄCA Folia zawiera elementy graficzne farbą aktywną w promieniowaniu ultrafioletowym.
 

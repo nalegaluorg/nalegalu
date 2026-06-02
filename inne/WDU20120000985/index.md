@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 lipca 2012 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw
+# Ustawa z dnia 13 lipca 2012 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji częściowego wdrożenia postanowień dyrektywy Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz. Urz. WE L 206 z 22.07.1992, str. 7, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 102) oraz dyrektywy Parlamentu Europejskiego i Rady 2009/147/WE z dnia 30 listopada 2009 r. w sprawie ochrony dzikiego ptactwa (Dz. Urz. UE L 20 z 26.01.2010, str. 7). Niniejsza ustawa zapewnia wykonanie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1007/2009 z dnia 16 września 2009 r. w sprawie handlu produktami z fok (Dz. Urz. UE L 286 z 31.10.2009, str. 36).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-13 |
 | Data wydania | 2012-08-31 |
-| Wejście w życie | 2012-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000985) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/985/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 pkt 4 otrzymuje brzmienie: „
 - **4)** realizację programu ochrony i zrównoważonego użytkowania różnorodności biologicznej wraz z planem działań; ” ;
@@ -210,11 +209,12 @@ source: "eli-html"
 
 - **f)**
 
-5. Zezwolenia na pozyskiwanie roślin, zwierząt lub grzybów gatunków, o których mowa w art. 48 pkt 1 lit. c, art. 49 pkt 1 lit. c oraz art. 50 pkt 1 lit. c, mogą być wydane, jeżeli nie są szkodliwe dla zachowania we właściwym stanie ochrony dziko występujących populacji chronionych gatunków roślin, zwierząt lub grzybów. ” , w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zezwolenia, o których mowa w ust. 1, 2 i 2b, mogą być wydane na wniosek zawierający odpowiednio: ” , w ust. 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zezwolenia, o których mowa w ust. 1, 2 i 2b, zawierają odpowiednio: ” , – w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 w brzmieniu: „ 9) warunki realizacji wynikające z potrzeb ochrony populacji chronionych gatunków roślin, zwierząt lub grzybów i ich siedlisk. ” , ust. 7a i 7b otrzymują brzmienie: „
+5. Zezwolenia na pozyskiwanie roślin, zwierząt lub grzybów gatunków, o których mowa w art. 48 pkt 1 lit. c, art. 49 pkt 1 lit. c oraz art. 50 pkt 1 lit. c, mogą być wydane, jeżeli nie są szkodliwe dla zachowania we właściwym stanie ochrony dziko występujących populacji chronionych gatunków roślin, zwierząt lub grzybów. ” , w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zezwolenia, o których mowa w ust. 1, 2 i 2b, mogą być wydane na wniosek zawierający odpowiednio: ” , w ust. 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zezwolenia, o których mowa w ust. 1, 2 i 2b, zawierają odpowiednio: ” , w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 w brzmieniu: „
 
 - **g)**
 - **h)**
-- **i)**
+- **9)** warunki realizacji wynikające z potrzeb ochrony populacji chronionych gatunków roślin, zwierząt lub grzybów i ich siedlisk. ” , ust. 7a i 7b otrzymują brzmienie: „
+    - **i)**
 
 7a. Organy właściwe do wydania zezwoleń, o których mowa w ust. 1, 2 i 2b, dokonują kontroli spełniania warunków określonych w wydanych przez siebie zezwoleniach.
 
@@ -313,7 +313,7 @@ source: "eli-html"
 
 - **g)**
 
-3. Przepisów ust. 1 i 2 nie stosuje się do gatunków ryb, na których wprowadzanie jest wymagane zezwolenie ministra właściwego do spraw rybołówstwa, wydawane na podstawie art. 3 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym albo art. 29 ust. 1 ustawy z dnia 19 lutego 2004 r. o rybołówstwie (Dz. U. Nr 62, poz. 574, z późn. zm.). ” ;
+3. Przepisów ust. 1 i 2 nie stosuje się do gatunków ryb, na których wprowadzanie jest wymagane zezwolenie ministra właściwego do spraw rybołówstwa, wydawane na podstawie art. 3 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym albo art. 29 ust. 1 ustawy z dnia 19 lutego 2004 r. o rybołówstwie (Dz. U. Nr 62, poz. 574, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 96, poz. 807, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 21, poz. 125, z 2009 r. Nr 18, poz. 97, Nr 92, poz. 753 i Nr 168, poz. 1323 oraz z 2011 r. Nr 34, poz. 168 i Nr 106, poz. 622.). ” ;
 
 - **19)** w art. 127: w pkt 2 uchyla się lit. e, uchyla się pkt 4, w pkt 5 na końcu stawia się przecinek i dodaje pkt 6 w brzmieniu: „
     - **a)**
@@ -321,8 +321,10 @@ source: "eli-html"
     - **c)**
 
 - **6)** wprowadza do obrotu produkty z fok wbrew warunkom określonym w art. 3 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1007/2009 z dnia 16 września 2009 r. w sprawie handlu produktami z fok (Dz. Urz. UE L 286 z 31.10.2009, str. 36) ” ;
-- **20)** w art. 130: w ust. 1: – uchyla się pkt 2, – pkt 3 otrzymuje brzmienie: „ 3) regionalnemu dyrektorowi ochrony środowiska właściwemu ze względu na miejsce popełnienia wykroczenia lub przestępstwa – w przypadkach innych niż określone w pkt 1. ” , ust. 4 otrzymuje brzmienie: „
+- **20)** w art. 130: w ust. 1: – uchyla się pkt 2, pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** regionalnemu dyrektorowi ochrony środowiska właściwemu ze względu na miejsce popełnienia wykroczenia lub przestępstwa – w przypadkach innych niż określone w pkt 1. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Regionalny dyrektor ochrony środowiska może zarządzić, w drodze decyzji administracyjnej, na koszt skazanego, uśmiercenie zwierząt lub zniszczenie roślin lub grzybów gatunków obcych stanowiących własność sprawcy. ” ;
@@ -330,7 +332,7 @@ source: "eli-html"
 - **21)** w art. 131 w pkt 13 na końcu stawia się przecinek i dodaje pkt 14 w brzmieniu: „
 - **14)** bez zezwolenia lub wbrew jego warunkom narusza zakazy w stosunku do roślin, zwierząt lub grzybów objętych ochroną gatunkową ” .
 
-**Art. 2.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2005 r. Nr 127, poz. 1066, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2005 r. Nr 127, poz. 1066, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 201, poz. 1237, z 2009 r. Nr 92, poz. 753 i Nr 223, poz. 1777 oraz z 2011 r. Nr 106, poz. 622.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -401,9 +403,9 @@ source: "eli-html"
 - **6)** w art. 52 pkt 3 otrzymuje brzmienie: „
 - **3)** narusza zakaz, o którym mowa w art. 9 ust. 1 pkt 4, ” .
 
-**Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm.) w art. 6 w ust. 1 dodaje się pkt 8 i 9 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 92, poz. 880 i Nr 96, poz. 959, z 2005 r. Nr 33, poz. 289 i Nr 175, poz. 1462, z 2006 r. Nr 249, poz. 1830, z 2008 r. Nr 199, poz. 1227, z 2009 r. Nr 18, poz. 97, Nr 79, poz. 668 i Nr 92, poz. 753, z 2010 r. Nr 47, poz. 278, z 2011 r. Nr 230, poz. 1373 oraz z 2012 r. poz. 908.) w art. 6 w ust. 1 dodaje się pkt 8 i 9 w brzmieniu: „
 
-- **8)** czynności podlegających zakazom w stosunku do gatunków chronionych, określonym w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) wykonywanych na podstawie właściwych zezwoleń,
+- **8)** czynności podlegających zakazom w stosunku do gatunków chronionych, określonym w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804, z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337 oraz z 2012 r. poz. 985.) wykonywanych na podstawie właściwych zezwoleń,
 - **9)** uśmiercania zwierząt gatunków obcych zagrażających gatunkom rodzimym lub siedliskom przyrodniczym w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody ” .
 
 **Art. 4.** W ustawie z dnia 3 października 2008 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. Nr 201, poz. 1237) art. 8 otrzymuje brzmienie: „
@@ -414,5 +416,5 @@ source: "eli-html"
 
 **Art. 6.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów ustaw zmienianych w art. 1 i art. 2 stosuje się przepisy dotychczasowe.
 
-**Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 48–50 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 48–50 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy. Dotychczasowe akty prawa miejscowego wydane na podstawie art. 53 ustawy zmienianej w art. 1 zachowują moc. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 48–50 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 48–50 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy. Dotychczasowe akty prawa miejscowego wydane na podstawie art. 53 ustawy zmienianej w art. 1 zachowują moc. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji częściowego wdrożenia postanowień dyrektywy Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz. Urz. WE L 206 z 22.07.1992, str. 7, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 102) oraz dyrektywy Parlamentu Europejskiego i Rady 2009/147/WE z dnia 30 listopada 2009 r. w sprawie ochrony dzikiego ptactwa (Dz. Urz. UE L 20 z 26.01.2010, str. 7). Niniejsza ustawa zapewnia wykonanie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1007/2009 z dnia 16 września 2009 r. w sprawie handlu produktami z fok (Dz. Urz. UE L 286 z 31.10.2009, str. 36). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 96, poz. 807, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 21, poz. 125, z 2009 r. Nr 18, poz. 97, Nr 92, poz. 753 i Nr 168, poz. 1323 oraz z 2011 r. Nr 34, poz. 168 i Nr 106, poz. 622. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 201, poz. 1237, z 2009 r. Nr 92, poz. 753 i Nr 223, poz. 1777 oraz z 2011 r. Nr 106, poz. 622. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 92, poz. 880 i Nr 96, poz. 959, z 2005 r. Nr 33, poz. 289 i Nr 175, poz. 1462, z 2006 r. Nr 249, poz. 1830, z 2008 r. Nr 199, poz. 1227, z 2009 r. Nr 18, poz. 97, Nr 79, poz. 668 i Nr 92, poz. 753, z 2010 r. Nr 47, poz. 278, z 2011 r. Nr 230, poz. 1373 oraz z 2012 r. poz. 908. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804, z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337 oraz z 2012 r. poz. 985.
 

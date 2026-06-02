@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1975-12-19 |
 | Data wydania | 1975-12-29 |
-| Wejście w życie | 1976-03-01 |
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19750450234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1975/234/text.pdf) |
 

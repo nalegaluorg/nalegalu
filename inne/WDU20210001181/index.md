@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-29 |
 | Data wydania | 2021-06-30 |
-| Wejście w życie | 2021-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1181/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 125 § 31 ustawy z dnia 17 listopada 1964 r. – Kodeks postę
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 20 października 2015 r. w sprawie sposobu wnoszenia pism procesowych za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe (Dz. U. poz. 1783 oraz z 2016 r. poz. 436) wprowadza się następujące zmiany:
 1)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -50,23 +48,17 @@ elektronicznym potwierdzeniu wniesienia pisma – rozumie się przez to zestaw d
 7)
 nazwie użytkownika konta – rozumie się przez to niepowtarzalne i przyporządkowane do użytkownika konta dane, które są przez niego wykorzystywane do uwierzytelnienia w systemie teleinformatycznym obsługującym postępowanie sądowe;
 8)
-zatwierdzeniu treści pisma – rozumie się przez to czynność użytkownika konta wytwarzającego pismo powodującą brak możliwości zmiany treści pisma, a w przypadku wnoszenia pisma przez współuczestników także czynności kolejnych użytkowników konta oznaczające akceptację treści pisma.
-” ;
+zatwierdzeniu treści pisma – rozumie się przez to czynność użytkownika konta wytwarzającego pismo powodującą brak możliwości zmiany treści pisma, a w przypadku wnoszenia pisma przez współuczestników także czynności kolejnych użytkowników konta oznaczające akceptację treści pisma. ” ;
 2)
-w § 2 ust. 2 otrzymuje brzmienie:
-„
+w § 2 ust. 2 otrzymuje brzmienie: „
 2.
-Niezwłocznie po wniesieniu pisma system teleinformatyczny umieszcza na koncie, z którego pismo zostało wniesione, potwierdzenie wniesienia pisma.
-” ;
+Niezwłocznie po wniesieniu pisma system teleinformatyczny umieszcza na koncie, z którego pismo zostało wniesione, potwierdzenie wniesienia pisma. ” ;
 3)
-w § 3 ust. 2 otrzymuje brzmienie:
-„
+w § 3 ust. 2 otrzymuje brzmienie: „
 2.
-Przepis § 2 ust. 2 stosuje się odpowiednio.
-” ;
+Przepis § 2 ust. 2 stosuje się odpowiednio. ” ;
 4)
-po § 5 dodaje się § 5a i 5b w brzmieniu:
-„
+po § 5 dodaje się § 5a i 5b w brzmieniu: „
 § 5a.
 1.
 Do wniesienia pisma w postępowaniu rejestrowym za pośrednictwem systemu teleinformatycznego wymagane jest łączne wykonanie następujących czynności:
@@ -104,14 +96,11 @@ wskazać przez osobę podpisującą wniosek, czy czynność tę wykonuje we wła
 3)
 opatrzeć wniosek podpisami elektronicznymi przez osoby, o których mowa w pkt 1, przy czym z chwilą podpisania go przez ostatnią z osób następuje zatwierdzenie wniosku;
 4)
-wysłać wniosek do sądu przez jednego z podpisujących.
-” ;
+wysłać wniosek do sądu przez jednego z podpisujących. ” ;
 5)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
-Wykaz znaków pisarskich dopuszczalnych w systemie teleinformatycznym określa załącznik do rozporządzenia, o ile przepis szczególny nie stanowi inaczej.
-” .
+Wykaz znaków pisarskich dopuszczalnych w systemie teleinformatycznym określa załącznik do rozporządzenia, o ile przepis szczególny nie stanowi inaczej. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
 

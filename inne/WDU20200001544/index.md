@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 20 sierpnia 2020 r. w sprawie koordynacji i organizacji rozkładów lotów
+# Rozporządzenie Ministra Infrastrukturyz dnia 20 sierpnia 2020 r. w sprawie koordynacji i organizacji rozkładów lotów Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-20 |
 | Data wydania | 2020-09-08 |
-| Wejście w życie | 2020-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1544/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wprowadzenie koordynacji albo organizacji rozkładów lotów Rozdział 3 – Koordynator Rozdział 4 – Organizator rozkładów lotów Rozdział 5 – Zniesienie koordynacji albo organizacji rozkładów lotów Rozdział 6 – Parametry koordynacyjne Rozdział 7 – Przepisy przejściowe i przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 67g ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r. poz. 284 i 1378) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3, Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1. Na podstawie art. 67g ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r. poz. 284 i 1378) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób:
 1)
@@ -50,7 +50,7 @@ Użyte w rozporządzeniu skróty i określenia oznaczają:
 1)
 Dziennik Urzędowy – Dziennik Urzędowy Urzędu Lotnictwa Cywilnego;
 2)
-initial submission deadline – termin, w którym zgodnie z kalendarzem działań koordynacyjnych ustalonym przez Zrzeszenie Międzynarodowego Transportu Lotniczego (IATA) i zamieszczonym w Worldwide Slot Guidelines przewoźnicy lotniczy są obowiązani przedstawiać zaplanowane operacje lotnicze koordynatorom i organizatorom rozkładów lotów w portach lotniczych z wprowadzoną koordynacją albo organizacją rozkładów lotów;
+initial submission deadline – termin, w którym zgodnie z kalendarzem działań koordynacyjnych ustalonym przez Zrzeszenie Międzynarodowego Transportu Lotniczego (IATA) i zamieszczonym w Worldwide Slot GuidelinesDokument wydawany przez Zrzeszenie Międzynarodowego Transportu Lotniczego (IATA), określający standardy w zakresie koordynacji i organizacji rozkładów lotów w portach lotniczych, dostępny pod adresem https://www.iata.org/policy/slots/Pages/slot-guidelines.aspx. przewoźnicy lotniczy są obowiązani przedstawiać zaplanowane operacje lotnicze koordynatorom i organizatorom rozkładów lotów w portach lotniczych z wprowadzoną koordynacją albo organizacją rozkładów lotów;
 3)
 konferencja – konferencję organizowaną przez IATA, dotyczącą koordynacji lub organizacji zaplanowanych operacji lotniczych w portach lotniczych z wprowadzoną koordynacją albo organizacją rozkładów lotów, która odbywa się dwa razy w roku w sezonie letnim i zimowym;
 4)
@@ -58,9 +58,10 @@ koordynacja – koordynację rozkładów lotów;
 5)
 Prezes Urzędu – Prezesa Urzędu Lotnictwa Cywilnego;
 6)
-rozporządzenie nr 95/93/WE – rozporządzenie Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3);
+rozporządzenie nr 95/93/WE – rozporządzenie Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3);
 7)
 ustawa – ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze.
+Wprowadzenie koordynacji albo organizacji rozkładów lotów
 § 3.
 1.
 Prezes Urzędu wprowadza w porcie lotniczym koordynację albo organizację rozkładów lotów na wniosek zarządzającego lotniskiem albo z urzędu.
@@ -74,6 +75,7 @@ W terminie 14 dni od dnia otrzymania dokumentów, o których mowa w ust. 3, podm
 Prezes Urzędu może zorganizować spotkanie z podmiotami, o których mowa w art. 3 ust. 4 rozporządzenia nr 95/93/WE, w celu omówienia ograniczeń wpływających na możliwość wykonywania operacji lotniczych w porcie lotniczym oraz oceny zasadności wprowadzenia koordynacji albo organizacji rozkładów lotów.
 6.
 Informację o wprowadzeniu w porcie lotniczym koordynacji albo organizacji rozkładów lotów ogłasza się w Dzienniku Urzędowym.
+Koordynator
 § 4.
 1.
 Prezes Urzędu informuje, w drodze komunikatu ogłaszanego w Dzienniku Urzędowym, o wszczęciu procedury wyboru w porcie lotniczym koordynatora, wyznaczając termin na zgłaszanie kandydatur.
@@ -158,8 +160,7 @@ W przypadku odmowy zatwierdzenia projektu budżetu koordynator przedstawia nowy 
 1)
 do zaopiniowania podmiotom, o których mowa w art. 67d ust. 5 ustawy, w terminie 14 dni od dnia doręczenia decyzji o odmowie zatwierdzenia projektu budżetu, wyznaczając termin na przekazanie opinii,
 2)
-Prezesowi Urzędu do zatwierdzenia, po zakończeniu opiniowania, o którym mowa w pkt 1, jednak nie później niż w terminie 28 dni od dnia doręczenia decyzji o odmowie zatwierdzenia projektu budżetu
-chyba że koordynator złożył wniosek o ponowne rozpatrzenie sprawy.
+Prezesowi Urzędu do zatwierdzenia, po zakończeniu opiniowania, o którym mowa w pkt 1, jednak nie później niż w terminie 28 dni od dnia doręczenia decyzji o odmowie zatwierdzenia projektu budżetu – chyba że koordynator złożył wniosek o ponowne rozpatrzenie sprawy.
 2.
 Do nowego projektu budżetu nie stosuje się przepisu § 6 ust. 5 oraz przepisu § 6 ust. 7 w zakresie, w jakim przepis ten dotyczy informacji o przebiegu i wynikach konsultacji otrzymanych opinii oraz protokołu rozbieżności.
 3.
@@ -185,6 +186,7 @@ Propozycję rekompensaty oblicza się według wzoru: \( a = {m \over y} \) gdzie
 Zarządzający lotniskiem przekazuje w formie pisemnej, w postaci papierowej lub elektronicznej, Prezesowi Urzędu oraz przewoźnikom lotniczym wykonującym operacje lotnicze, dla których zostały przydzielone czasy na start lub lądowanie w rozumieniu rozporządzenia nr 95/93/WE w okresie koordynacji, o której mowa w ust. 1, kalkulację rekompensaty, w terminie 14 dni od dnia zakończenia okresu koordynacji.
 5.
 Rekompensatę oblicza się według wzoru: \( a = {m \over y} \) gdzie: a – oznacza rekompensatę, m – oznacza łączną kwotę kosztów zaplanowanych w budżecie koordynatora podzieloną przez 2, y – oznacza rzeczywistą liczbę operacji lotniczych (startów i lądowań), dla których zostały przydzielone czasy na start lub lądowanie w rozumieniu rozporządzenia nr 95/93/WE w okresie koordynacji.
+Organizator rozkładów lotów
 § 11.
 1.
 Prezes Urzędu informuje, w drodze komunikatu ogłaszanego w Dzienniku Urzędowym, o wszczęciu procedury wyboru w porcie lotniczym organizatora rozkładów lotów, wyznaczając termin na zgłaszanie kandydatur.
@@ -259,8 +261,7 @@ W przypadku odmowy zatwierdzenia projektu budżetu organizator rozkładów lotó
 1)
 do zaopiniowania podmiotom, o których mowa w art. 67d ust. 5 ustawy, w terminie 14 dni od dnia doręczenia decyzji o odmowie zatwierdzenia projektu budżetu, wyznaczając termin na przekazanie opinii,
 2)
-Prezesowi Urzędu do zatwierdzenia, po zakończeniu opiniowania, o którym mowa w pkt 1, jednak nie później niż w terminie 28 dni od dnia doręczenia decyzji o odmowie zatwierdzenia projektu budżetu
-chyba że organizator rozkładów lotów złożył wniosek o ponowne rozpatrzenie sprawy.
+Prezesowi Urzędu do zatwierdzenia, po zakończeniu opiniowania, o którym mowa w pkt 1, jednak nie później niż w terminie 28 dni od dnia doręczenia decyzji o odmowie zatwierdzenia projektu budżetu – chyba że organizator rozkładów lotów złożył wniosek o ponowne rozpatrzenie sprawy.
 2.
 Do nowego projektu budżetu nie stosuje się przepisu § 13 ust. 5 oraz przepisu § 13 ust. 7 w zakresie, w jakim przepis ten dotyczy informacji o przebiegu i wynikach konsultacji otrzymanych opinii oraz protokołu rozbieżności.
 3.
@@ -274,6 +275,7 @@ Wysokość opłaty za organizację rozkładów lotów ogłasza się w Dzienniku 
 Wysokość opłaty za organizację rozkładów lotów oblicza się według wzoru: \( a = {m \over y} \) gdzie: a – oznacza wysokość opłaty za organizację rozkładów lotów, m – oznacza łączną kwotę kosztów zaplanowanych w budżecie organizatora rozkładów lotów podzieloną przez 2, y – oznacza:
 – łączną liczbę operacji lotniczych (startów i lądowań) wykonanych w dwóch pełnych sezonach rozkładowych poprzedzających moment przedstawienia przez organizatora rozkładów lotów projektu budżetu Prezesowi Urzędu do zatwierdzenia, zgodnie z § 13 ust. 6 – w przypadku projektu budżetu opracowywanego dla nowo powołanego organizatora rozkładów lotów oraz w przypadku projektu budżetu opracowywanego na okres 12 miesięcy,
 – łączną liczbę operacji lotniczych (startów i lądowań) wykonanych w analogicznym okresie roku poprzedzającego w stosunku do okresu, na który wprowadzono organizację rozkładów lotów, wskazanego w decyzji wprowadzającej organizację rozkładów lotów w danym porcie lotniczym – w przypadku wprowadzenia organizacji rozkładów lotów na okres krótszy niż 12 miesięcy.
+Zniesienie koordynacji albo organizacji rozkładów lotów
 § 17.
 1.
 Prezes Urzędu znosi w porcie lotniczym koordynację albo organizację rozkładów lotów na wniosek zarządzającego lotniskiem albo z urzędu.
@@ -287,6 +289,7 @@ Prezes Urzędu może zorganizować spotkanie z podmiotami, o których mowa w art
 Informację o zniesieniu w porcie lotniczym koordynacji albo organizacji rozkładów lotów ogłasza się w Dzienniku Urzędowym.
 6.
 W przypadku zniesienia koordynacji albo organizacji rozkładów lotów i braku wprowadzenia w porcie lotniczym odpowiednio koordynacji albo organizacji rozkładów lotów dotychczasowy koordynator albo dotychczasowy organizator rozkładów lotów dokonuje rozliczenia środków i zwraca środki niewykorzystane, które pobrał w związku z pełnieniem odpowiednio koordynacji albo organizacji rozkładów lotów za okres, w którym koordynacja albo organizacja rozkładów lotów nie będzie kontynuowana.
+Parametry koordynacyjne
 § 18.
 1.
 Zarządzający lotniskiem w porcie lotniczym, w którym wprowadzono koordynację, wyznacza parametry koordynacyjne dla przedziałów czasowych określonych przez koordynatora, z uwzględnieniem wymagań, o których mowa w art. 6 ust. 1 rozporządzenia nr 95/93/WE.
@@ -311,26 +314,40 @@ Zarządzający lotniskiem przekazuje parametry koordynacyjne organizatorowi rozk
 W przypadku zmiany parametrów koordynacyjnych, wynikającej z zaistnienia nagłych, szczególnych okoliczności, mających wpływ na zmniejszenie albo zwiększenie przepustowości portu lotniczego, gdy taka zmiana parametrów koordynacyjnych jest nieunikniona, zarządzający lotniskiem bez zbędnej zwłoki wyznacza nowe parametry koordynacyjne w porozumieniu z organizatorem rozkładów lotów oraz przekazuje je organizatorowi rozkładów lotów w formie pisemnej, w postaci papierowej lub elektronicznej, w terminie 14 dni od dnia zidentyfikowania nagłych, szczególnych okoliczności, mających wpływ na zmniejszenie albo zwiększenie przepustowości portu lotniczego.
 4.
 Zarządzający lotniskiem niezwłocznie przekazuje informację o wyznaczeniu nowych parametrów koordynacyjnych w formie pisemnej, w postaci papierowej lub elektronicznej, Prezesowi Urzędu.
+Przepisy przejściowe i przepis końcowy
 § 20.
 1.
 Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 2.
 W przypadku odmowy zatwierdzenia projektu budżetu koordynatora lub organizatora rozkładów lotów, przedstawionego Prezesowi Urzędu Lotnictwa Cywilnego do zatwierdzenia przed dniem wejścia w życie niniejszego rozporządzenia, do postępowania w sprawie zatwierdzenia nowego projektu budżetu stosuje się przepisy niniejszego rozporządzenia.
 § 21.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3, Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1. 3) Dokument wydawany przez Zrzeszenie Międzynarodowego Transportu Lotniczego (IATA), określający standardy w zakresie koordynacji i organizacji rozkładów lotów w portach lotniczych, dostępny pod adresem https://www.iata.org/policy/slots/Pages/slot-guidelines.aspx. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 27 czerwca 2006 r. w sprawie koordynacji i organizacji rozkładów lotów (Dz. U. poz. 768), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 27 czerwca 2006 r. w sprawie koordynacji i organizacji rozkładów lotów (Dz. U. poz. 768), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3, Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1. 3) Dokument wydawany przez Zrzeszenie Międzynarodowego Transportu Lotniczego (IATA), określający standardy w zakresie koordynacji i organizacji rozkładów lotów w portach lotniczych, dostępny pod adresem https://www.iata.org/policy/slots/Pages/slot-guidelines.aspx. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 27 czerwca 2006 r. w sprawie koordynacji i organizacji rozkładów lotów (Dz. U. poz. 768), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wprowadzenie koordynacji albo organizacji rozkładów lotów
+#### Rozdział 2 – Wprowadzenie koordynacji albo organizacji rozkładów lotów
 
-#### Rozdział 3 Koordynator
+#### Rozdział 3 – Koordynator
 
-#### Rozdział 4 Organizator rozkładów lotów
+#### Rozdział 4 – Organizator rozkładów lotów
 
-#### Rozdział 5 Zniesienie koordynacji albo organizacji rozkładów lotów
+#### Rozdział 5 – Zniesienie koordynacji albo organizacji rozkładów lotów
 
-#### Rozdział 6 Parametry koordynacyjne
+#### Rozdział 6 – Parametry koordynacyjne
 
-#### Rozdział 7 Przepisy przejściowe i przepis końcowy
+#### Rozdział 7 – Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

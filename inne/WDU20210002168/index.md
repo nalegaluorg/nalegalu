@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-05 |
 | Data wydania | 2021-11-29 |
-| Wejście w życie | 2021-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2168/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2021 r. poz. 178, 1192, 1535 i 2105) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 3 września 2020 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw transformacji spółek energetycznych i górnictwa węglowego (Dz. U. poz. 1525) w § 1 ust. 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Rady Ministrów z dnia 3 września 2020 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw transformacji spółek energetycznych i górnictwa węglowego (Dz. U. poz. 1525) w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Pełnomocnikiem jest sekretarz stanu albo podsekretarz stanu w Ministerstwie Aktywów Państwowych.
-” .
+Pełnomocnikiem jest sekretarz stanu albo podsekretarz stanu w Ministerstwie Aktywów Państwowych. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

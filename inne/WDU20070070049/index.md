@@ -24,7 +24,6 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-14 |
 | Data wydania | 2007-01-17 |
-| Wejście w życie | 2007-02-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070070049) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/49/text.pdf) |
 
@@ -45,6 +44,8 @@ c) dodaje się ust. 6a w brzmieniu: „6a. Szef SKW Szef SWW zapewnią członkom
 **Art. 70b.** Szef SKW Szef SWW są obowiązani do współdziałania z Przewodniczącym Weryfikacyjnej w zakresie sporządzania Raportu. 2. Prezes Ministrów określi, w drodze zarządzenia, formy tryb współdziałania, o którym mowa w ust. 1, wskazując obowiązki Szefa SKW Szefa SWW w tym zakresie. 2. Prezydent Rzeczypospolitej Polskiej przekazuje Marszałkowi Rzeczypospolitej Polskiej Marszałkowi Senatu Rzeczypospolitej Polskiej. 3. Prezydent Rzeczypospolitej Polskiej, po zasięgnięciu opinii Marszałka Rzeczypospolitej Polskiej Marszałka Senatu Rzeczypospolitej Polskiej, podaje do publicznej wiadomości w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. 4. Postanowienie Prezydenta Rzeczypospolitej Polskiej o podaniu Raportu do publicznej wiadomości jest równoznaczne ze zniesieniem klauzuli tajności w rozumieniu art. 21 ust. 1 3 ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz.U. z 2005 r. Nr 196, poz. 1631 z 2006 r. Nr 104, poz. 708 711, Nr 149, poz. 1078, Nr 218, poz. 1592 Nr 220, poz. 1600).
 
 **Art. 70d.** Jeżeli po przekazaniu Raportu przez Przewodniczącego Weryfikacyjnej Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Ministrów wiceprezesom Ministrów ujawnią się nowe okoliczności, które powinny zostać objęte Raportem lub wpływają na jego treść, Weryfikacyjnej, niezwłocznie po ujawnieniu nowych okoliczności, sporządza odpowiednie uzupełnienie Raportu. 2. Jeżeli nowe okoliczności, które powinny zostać objęte Raportem lub wpływają na jego treść, zostaną ujawnione w toku działalności SKW lub SWW po zakończeniu działalności Weryfikacyjnej, uzupełnienie Raportu sporządzane jest odpowiednio przez Szefa SKW lub Szefa SWW, niezwłocznie po ujawnieniu nowych okoliczności. 3. Do uzupełnienia Raportu, o którym mowa w ust. 1 2, stosuje się odpowiednio art. 63 ust. 6a, art. 70b art. 70c.”;
+
+- **5)** po art. 79 dodaje się art. 79a w brzmieniu: „Art. 79a. Kto w wyjaśnieniach, o których mowa w art. 63 ust. 4 4a, oświadczył nieprawdę, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

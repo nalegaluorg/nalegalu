@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 lipca 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków przyznawania pomocy finansowej w ramach poddziałania „Wsparcie korzystania z usług doradczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz warunków i trybu jej wypłaty
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 lipca 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków przyznawania pomocy finansowej w ramach poddziałania „Wsparcie korzystania z usług doradczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz warunków i trybu jej wypłaty Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-05 |
 | Data wydania | 2019-07-17 |
-| Wejście w życie | 2019-07-18 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001331) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1331/text.pdf) |
 
@@ -37,38 +36,48 @@ w § 5 w pkt 3:
 a)
 we wprowadzeniu do wyliczenia po wyrazach „polegającą na” dodaje się wyrazy „przygotowaniu i”,
 b)
-lit. a otrzymuje brzmienie:
-„
+lit. a otrzymuje brzmienie: „
 a)
-w formie rocznego albo 2-letniego programu doradczego,
-” ;
+w formie rocznego albo 2-letniego programu doradczego, ” ;
 3)
 w § 10:
 a)
-w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-zrealizował operację lub jej etap zgodnie z warunkami określonymi w rozporządzeniu oraz w umowie nie później niż do dnia złożenia wniosku o płatność końcową;
-” ,
+zrealizował operację lub jej etap zgodnie z warunkami określonymi w rozporządzeniu oraz w umowie nie później niż do dnia złożenia wniosku o płatność końcową; ” ,
 b)
 w ust. 3:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Środki finansowe z tytułu pomocy są wypłacane: ” ,
-– w pkt 1 lit. a otrzymuje brzmienie: „ a) usługi doradcze zostały przygotowanie i zrealizowane: – od dnia, w którym została zawarta umowa, do dnia określonego w umowie, – zgodnie z metodykami doradzania, o których mowa w art. 52 ust. 5 ustawy, ” ,
-– w pkt 2: – – w lit. a wyrazy „3-letniego” zastępuje się wyrazami „2-letniego”, – – uchyla się lit. b;
+w pkt 1 lit. a otrzymuje brzmienie: „
+a)
+usługi doradcze zostały przygotowanie i zrealizowane:
+– od dnia, w którym została zawarta umowa, do dnia określonego w umowie,
+– zgodnie z metodykami doradzania, o których mowa w art. 52 ust. 5 ustawy,
+” ,
+w pkt 2:
+– – w lit. a wyrazy „3-letniego” zastępuje się wyrazami „2-letniego”,
+– – uchyla się lit. b;
 4)
 w § 12:
 a)
 w ust. 1:
 – w pkt 1 w lit. d, f oraz g po przecinku dodaje się wyrazy „jeżeli został nadany,”,
-– pkt 3 i 4 otrzymują brzmienie: „ 3) wskazanie, że operacja lub jej etap zostały zrealizowane zgodnie z zawartą umową; 4) oświadczenia beneficjenta związane z otrzymaniem płatności oraz o zgodności treści formularza, o którym mowa w ust. 2 pkt 3a, z treścią wniosku o płatność; ” ,
+pkt 3 i 4 otrzymują brzmienie: „
+3)
+wskazanie, że operacja lub jej etap zostały zrealizowane zgodnie z zawartą umową;
+4)
+oświadczenia beneficjenta związane z otrzymaniem płatności oraz o zgodności treści formularza, o którym mowa w ust. 2 pkt 3a, z treścią wniosku o płatność; ” ,
 b)
 w ust. 2:
-– pkt 1 otrzymuje brzmienie: „ 1) dokumenty potwierdzające zrealizowanie operacji lub jej etapu; ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+dokumenty potwierdzające zrealizowanie operacji lub jej etapu; ” ,
 – w pkt 2 po wyrazie „operacji” dodaje się wyrazy „lub jej etapu”,
-– po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) formularz wniosku o płatność zawierający te same dane, które zostały zawarte we wniosku o płatność, zapisany na informatycznym nośniku danych w formacie danych pozwalającym na edycję jego treści; ” .
+po pkt 3 dodaje się pkt 3a w brzmieniu: „
+3a)
+formularz wniosku o płatność zawierający te same dane, które zostały zawarte we wniosku o płatność, zapisany na informatycznym nośniku danych w formacie danych pozwalającym na edycję jego treści; ” .
 § 2.
 Do wypłaty pomocy finansowej przyznanej w ramach poddziałania „Wsparcie korzystania z usług doradczych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 na podstawie umów o przyznaniu tej pomocy zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, z wyjątkiem § 12 ust. 1 pkt 1 lit. d, f oraz g, które stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

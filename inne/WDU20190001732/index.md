@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 sierpnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 sierpnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-30 |
 | Data wydania | 2019-09-10 |
-| Wejście w życie | 2019-09-11 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001732) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1732/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2016 r. w s
 1)
 w § 4:
 a)
-w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
 której przedmiotem jest opracowanie i wdrożenie innowacji w zakresie:
 a)
@@ -42,8 +40,7 @@ nowego lub znacznie udoskonalonego produktu objętego załącznikiem I do Trakta
 b)
 nowych lub znacznie udoskonalonych technologii lub metod organizacji, lub marketingu dotyczących produkcji, przetwarzania lub wprowadzania do obrotu produktów objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej, lub
 c)
-tworzenia lub rozwoju krótkich łańcuchów dostaw lub rynków lokalnych, dotyczących produkcji, przetwarzania lub wprowadzania do obrotu produktów objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej;
-” ,
+tworzenia lub rozwoju krótkich łańcuchów dostaw lub rynków lokalnych, dotyczących produkcji, przetwarzania lub wprowadzania do obrotu produktów objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej; ” ,
 b)
 w ust. 2 w pkt 2a liczbę „4” zastępuje się liczbą „2”;
 2)
@@ -51,27 +48,25 @@ w § 5:
 a)
 w ust. 1 w pkt 2 w lit. a po przecinku dodaje się wyrazy „w tym środków transportu,”,
 b)
-w ust. 5 pkt 6 otrzymuje brzmienie:
-„
+w ust. 5 pkt 6 otrzymuje brzmienie: „
 6)
-zakupu środków produkcji i usług, w tym usług rolniczych, ponoszone w związku z prowadzeniem badań;
-” ;
+zakupu środków produkcji i usług, w tym usług rolniczych, ponoszone w związku z prowadzeniem badań; ” ;
 3)
 w § 6 w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) koszty usług, o których mowa w § 5 ust. 5 pkt 6, i związane z nimi koszty, o których mowa w § 5 ust. 1 pkt 6, z wyłączeniem kosztów usług rolniczych, uwzględnia się w wysokości nieprzekraczającej łącznie 20% pozostałych kosztów badań i związanych z nimi kosztów, o których mowa w § 5 ust. 1 pkt 6.”;
 4)
 w § 10:
 a)
 w ust. 3:
-– pkt 8 otrzymuje brzmienie: „ 8) kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, w tym kopię ostatecznej decyzji o środowiskowych uwarunkowaniach, których uzyskanie jest wymagane przez odrębne przepisy do realizacji inwestycji objętych operacją, a także kopie innych dokumentów potwierdzających spełnienie określonych w odrębnych przepisach warunków realizacji inwestycji objętych operacją – w przypadku gdy w ramach operacji będą realizowane tego typu inwestycje, a podmiot ubiegający się o przyznanie pomocy posiada te dokumenty w dniu złożenia wniosku o przyznanie pomocy, z wyłączeniem inwestycji polegających na opracowaniu projektu prototypu lub instalacji pilotażowej; ” ,
+pkt 8 otrzymuje brzmienie: „
+8)
+kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, w tym kopię ostatecznej decyzji o środowiskowych uwarunkowaniach, których uzyskanie jest wymagane przez odrębne przepisy do realizacji inwestycji objętych operacją, a także kopie innych dokumentów potwierdzających spełnienie określonych w odrębnych przepisach warunków realizacji inwestycji objętych operacją – w przypadku gdy w ramach operacji będą realizowane tego typu inwestycje, a podmiot ubiegający się o przyznanie pomocy posiada te dokumenty w dniu złożenia wniosku o przyznanie pomocy, z wyłączeniem inwestycji polegających na opracowaniu projektu prototypu lub instalacji pilotażowej; ” ,
 – w pkt 14 we wprowadzeniu do wyliczenia wyrazy „opinię o innowacyjności przedmiotu operacji sporządzoną” zastępuje się wyrazami „kopię lub oryginał opinii o innowacyjności przedmiotu operacji sporządzonej”,
 b)
-po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 3a.
 Dokumenty wymienione w ust. 3 pkt 8, których podmiot ubiegający się o przyznanie pomocy nie posiadał w dniu złożenia wniosku o jej przyznanie, podmiot ten składa w Centrali Agencji do dnia zawarcia umowy. Przepisy § 9 ust. 1a i 2 stosuje się odpowiednio.
 3b.
-Jeżeli podmiot ubiegający się o przyznanie pomocy nie złożył do dnia zawarcia umowy dokumentów wymienionych w ust. 3 pkt 8, których nie posiadał w dniu złożenia wniosku o jej przyznanie, Agencja nie przyznaje pomocy. Przepis art. 35 ust. 1 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
-” ;
+Jeżeli podmiot ubiegający się o przyznanie pomocy nie złożył do dnia zawarcia umowy dokumentów wymienionych w ust. 3 pkt 8, których nie posiadał w dniu złożenia wniosku o jej przyznanie, Agencja nie przyznaje pomocy. Przepis art. 35 ust. 1 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio. ” ;
 5)
 w § 11 w ust. 1:
 a)
@@ -93,17 +88,13 @@ w § 17 w ust. 1 kropkę zastępuje się przecinkiem i dodaje się wyrazy „pod
 10)
 w § 18 w ust. 2 w pkt 1 w lit. a wyrazy „została zawarta umowa” zastępuje się wyrazami „został złożony wniosek o przyznanie pomocy”;
 11)
-w § 20 ust. 1 otrzymuje brzmienie:
-„
+w § 20 ust. 1 otrzymuje brzmienie: „
 1.
-Agencja rozpatruje wniosek o płatność w terminie 2 miesięcy od dnia jego złożenia i dokonuje wypłaty środków z tytułu pomocy niezwłocznie po pozytywnym rozpatrzeniu wniosku o płatność, nie później niż w terminie 3 miesięcy od dnia złożenia wniosku o płatność.
-” ;
+Agencja rozpatruje wniosek o płatność w terminie 2 miesięcy od dnia jego złożenia i dokonuje wypłaty środków z tytułu pomocy niezwłocznie po pozytywnym rozpatrzeniu wniosku o płatność, nie później niż w terminie 3 miesięcy od dnia złożenia wniosku o płatność. ” ;
 12)
-po § 22a dodaje się §22b w brzmieniu:
-„
+po § 22a dodaje się §22b w brzmieniu: „
 § 22b.
-W odniesieniu do wniosków o przyznanie pomocy złożonych przed dniem 15 stycznia 2019 r., ale nie wcześniej niż w dniu 16 listopada 2018 r., termin, o którym mowa w § 14 ust. 1, upływa w dniu 30 września 2019 r.
-” .
+W odniesieniu do wniosków o przyznanie pomocy złożonych przed dniem 15 stycznia 2019 r., ale nie wcześniej niż w dniu 16 listopada 2018 r., termin, o którym mowa w § 14 ust. 1, upływa w dniu 30 września 2019 r. ” .
 § 2.
 Do przyznawania pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi w terminach składania wniosków o przyznanie tej pomocy, które rozpoczęły bieg przed dniem 15 stycznia 2019 r., i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, z tym że stosuje się również § 22b rozporządzenia zmienianego w § 1, który został dodany niniejszym rozporządzeniem.
 § 3.
@@ -111,6 +102,5 @@ Do zabezpieczenia należytego wykonania przez beneficjenta zobowiązań określo
 § 4.
 Do wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi i niezakończonymi do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

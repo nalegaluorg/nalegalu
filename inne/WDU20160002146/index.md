@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 20 grudnia 2016 r. w sprawie ustalenia regulaminu Rady Bankowego Funduszu Gwarancyjnego
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 20 grudnia 2016 r. w sprawie ustalenia regulaminu Rady Bankowego Funduszu Gwarancyjnego Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-20 |
 | Data wydania | 2016-12-23 |
-| Wejście w życie | 2017-01-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002146) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2146/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 9 ust. 2 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu 
 § 1.
 Ustala się regulamin Rady Bankowego Funduszu Gwarancyjnego określający organizację pracy oraz zasady i tryb działania Rady Bankowego Funduszu Gwarancyjnego, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 lipca 2014 r. w sprawie ustalenia regulaminu Rady Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 988), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 lipca 2014 r. w sprawie ustalenia regulaminu Rady Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 988), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 lipca 2014 r. w sprawie ustalenia regulaminu Rady Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 988), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997).
 Załącznik – Regulamin Rady Bankowego Funduszu Gwarancyjnego
 § 1.
 Rada Bankowego Funduszu Gwarancyjnego, zwana dalej „Radą Funduszu”, działa na podstawie ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, zwanej dalej „ustawą”.

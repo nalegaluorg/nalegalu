@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 sierpnia 2020 r. o wskazaniu organu prowadzącego punkt kontaktowy do spraw produktów oraz o odpowiedzialności za naruszenie przepisów rozporządzenia w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim
+# Ustawa z dnia 14 sierpnia 2020 r. o wskazaniu organu prowadzącego punkt kontaktowy do spraw produktów oraz o odpowiedzialności za naruszenie przepisów rozporządzenia w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/515 z dnia 19 marca 2019 r. w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim oraz uchylającego rozporządzenie (WE) nr 764/2008 (Dz. Urz. UE L 91 z 29.03.2019, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-14 |
 | Data wydania | 2020-08-26 |
-| Wejście w życie | 2020-09-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1454/text.pdf) |
 
@@ -52,5 +51,5 @@ source: "eli-html"
 
 5. Administracyjna kara pieniężna podlega egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427).
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/515 z dnia 19 marca 2019 r. w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim oraz uchylającego rozporządzenie (WE) nr 764/2008 (Dz. Urz. UE L 91 z 29.03.2019, str. 1).
 

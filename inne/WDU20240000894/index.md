@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-05 |
 | Data wydania | 2024-06-18 |
-| Wejście w życie | 2024-06-19 |
 | Ostatnia zmiana | 2024-06-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000894) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/894/text.pdf) |
 
@@ -118,8 +117,7 @@ W przypadku gdy dokumenty, o których mowa w ust. 2–4, sporządzono w postaci 
 1)
 członkowie Komitetu otrzymują kopie podjętych uchwał i protokołów,
 2)
-Korporacja otrzymuje oryginały podjętych uchwał i kopie protokołów
-w terminach określonych w ust. 2–4.
+Korporacja otrzymuje oryginały podjętych uchwał i kopie protokołów – w terminach określonych w ust. 2–4.
 6.
 Sekretariat Komitetu przechowuje drugie egzemplarze oryginałów podjętych uchwał i oryginały protokołów, sporządzonych w postaci papierowej.
 § 9.
@@ -132,5 +130,5 @@ Wydatki związane z funkcjonowaniem Komitetu są finansowane z budżetu państwa
 § 11.
 Od dnia wejścia w życie rozporządzenia do dnia 28 czerwca 2024 r. Przewodniczący Komitetu z własnej inicjatywy lub na wniosek Korporacji wnosi do rozpatrzenia także projekty uchwał określające politykę udzielania ubezpieczeń gwarantowanych wobec poszczególnych krajów lub branż, w tym ustalające łączne kwotowe limity ubezpieczeń, o których mowa w art. 1 ust. 2 pkt 6 ustawy z dnia 7 lipca 1994 r. o ubezpieczeniach gwarantowanych przez Skarb Państwa.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 7 pkt 1 i 2, które wchodzą w życie z dniem 29 czerwca 2024 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 7 pkt 1 i 2, które wchodzą w życie z dniem 29 czerwca 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 23 sierpnia 2005 r. w sprawie szczegółowego trybu działania i organizacji Komitetu Polityki Ubezpieczeń Eksportowych (Dz. U. poz. 1446, z 2011 r. poz. 1268, z 2016 r. poz. 1109 oraz z 2017 r. poz. 1415), które utraciło moc z dniem 29 marca 2024 r. zgodnie z art. 18 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw (Dz. U. poz. 1859). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 23 sierpnia 2005 r. w sprawie szczegółowego trybu działania i organizacji Komitetu Polityki Ubezpieczeń Eksportowych (Dz. U. poz. 1446, z 2011 r. poz. 1268, z 2016 r. poz. 1109 oraz z 2017 r. poz. 1415), które utraciło moc z dniem 29 marca 2024 r. zgodnie z art. 18 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw (Dz. U. poz. 1859).
 

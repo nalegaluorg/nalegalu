@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-04 |
 | Data wydania | 2015-09-18 |
-| Wejście w życie | 2015-09-19 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1414/text.pdf) |
 
@@ -95,8 +94,7 @@ budowy kanałów technologicznych w ciągu budowanej lub przebudowywanej drogi z
 4)
 zakupu sprzętu, materiałów i usług służących realizacji operacji,
 5)
-podatku od towarów i usług (VAT), zgodnie z art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013
-które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
+podatku od towarów i usług (VAT), zgodnie z art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013 – które są uzasadnione zakresem operacji, niezbędne do osiągnięcia jej celu oraz racjonalne.
 § 6.
 1.
 Pomoc jest przyznawana w wysokości 63,63% kosztów kwalifikowalnych.
@@ -196,7 +194,7 @@ nie więcej niż 100% średniej wojewódzkiej – 4 punkty,
 b)
 powyżej 100% i nie więcej niż 150% średniej wojewódzkiej – 2 punkty;
 2)
-kujawsko-pomorskiego – operacja jest zgodna z pierwszą kategorią potrzeb samorządów gminnych i powiatowych województwa określonych w „Analizie potrzeb budowy i modernizacji dróg lokalnych w zakresie PROW 2014–2020 w odniesieniu do wybranych aspektów Strategii rozwoju województwa kujawsko-pomorskiego do roku 2020 – Plan modernizacji 2020+ przyjętej uchwałą nr XLI/693/13 Sejmiku Województwa Kujawsko-Pomorskiego z dnia 21 października 2013 r. w sprawie przyjęcia Strategii rozwoju województwa kujawsko-pomorskiego do roku 2020 – Plan modernizacji 2020+” – 4 punkty;
+kujawsko-pomorskiego – operacja jest zgodna z pierwszą kategorią potrzeb samorządów gminnych i powiatowych województwa określonych w „Analizie potrzeb budowy i modernizacji dróg lokalnych w zakresie PROW 2014–2020 w odniesieniu do wybranych aspektów Strategii rozwoju województwa kujawsko-pomorskiego do roku 2020 – Plan modernizacji 2020+ przyjętej uchwałą nr XLI/693/13 Sejmiku Województwa Kujawsko-Pomorskiego z dnia 21 października 2013 r. w sprawie przyjęcia Strategii rozwoju województwa kujawsko-pomorskiego do roku 2020 – Plan modernizacji 2020+”Analiza potrzeb budowy i modernizacji dróg lokalnych w zakresie PROW 2014–2020 w odniesieniu do wybranych aspektów Strategii rozwoju województwa kujawsko-pomorskiego do roku 2020 – Plan modernizacji 2020+ przyjęta uchwałą nr XLI/693/13 Sejmiku Województwa Kujawsko-Pomorskiego z dnia 21 października 2013 r. w sprawie przyjęcia Strategii rozwoju województwa kujawsko-pomorskiego do roku 2020 – Plan modernizacji 2020+ jest udostępniana w Biuletynie Informacji Publicznej Urzędu Marszałkowskiego Województwa Kujawsko-Pomorskiego pod adresem http://bip.kujawsko-pomorskie.pl/index.php?option=com_content&task=view&id=8463&Itemid=446. – 4 punkty;
 3)
 lubelskiego – operacja zwiększy dostępność:
 a)
@@ -206,7 +204,7 @@ obszaru rozwoju produkcji rolniczej lub przetwórstwa rolno-spożywczego, na kt�
 4)
 lubuskiego:
 a)
-operacja będzie realizowana przez powiaty o bardzo złej i złej dostępności do usług publicznych i złej sytuacji społeczno-gospodarczej oraz gminy wchodzące w skład tych powiatów określone w Strategii Rozwoju Województwa Lubuskiego 2020 przyjętej uchwałą nr XXXII/319/12 Sejmiku Województwa Lubuskiego z dnia 19 listopada 2012 r. w sprawie przyjęcia Strategii Rozwoju Województwa Lubuskiego 2020 – 2 punkty,
+operacja będzie realizowana przez powiaty o bardzo złej i złej dostępności do usług publicznych i złej sytuacji społeczno-gospodarczej oraz gminy wchodzące w skład tych powiatów określone w Strategii Rozwoju Województwa Lubuskiego 2020 przyjętej uchwałą nr XXXII/319/12 Sejmiku Województwa Lubuskiego z dnia 19 listopada 2012 r. w sprawie przyjęcia Strategii Rozwoju Województwa Lubuskiego 2020Uchwała nr XXXII/319/12 Sejmiku Województwa Lubuskiego z dnia 19 listopada 2012 roku w sprawie przyjęcia Strategii Rozwoju Województwa Lubuskiego 2020 jest udostępniana w Biuletynie Informacji Publicznej Urzędu Marszałkowskiego Województwa Kujawsko-Pomorskiego pod adresem http://www.bip.lubuskie.pl/60/Strategia_Rozwoju_Wojewodztwa_Lubuskiego/. – 2 punkty,
 b)
 operacja dotyczy przebudowy lub zmiany nawierzchni:
 – drogi powiatowej, która łączy się z drogami wojewódzkimi lub krajowymi istotnymi ze względu na lokalizację ważnych obiektów i instytucji, poprawiając dojazd do tych obiektów i instytucji – 2 punkty albo
@@ -456,6 +454,5 @@ uwzględnione w oddzielnym systemie rachunkowości albo gdy do ich identyfikacji
 2.
 Do przyznawania i wypłaty środków finansowych z tytułu kosztów ogólnych, o których mowa w ust. 1, przepisu § 17 ust. 3 nie stosuje się.
 § 26.
-Rozporządzenie wchodzi w życie z dniem następującym pod dniu ogłoszenia.
-2) Analiza potrzeb budowy i modernizacji dróg lokalnych w zakresie PROW 2014–2020 w odniesieniu do wybranych aspektów Strategii rozwoju województwa kujawsko-pomorskiego do roku 2020 – Plan modernizacji 2020+ przyjęta uchwałą nr XLI/693/13 Sejmiku Województwa Kujawsko-Pomorskiego z dnia 21 października 2013 r. w sprawie przyjęcia Strategii rozwoju województwa kujawsko-pomorskiego do roku 2020 – Plan modernizacji 2020+ jest udostępniana w Biuletynie Informacji Publicznej Urzędu Marszałkowskiego Województwa Kujawsko-Pomorskiego pod adresem http://bip.kujawsko-pomorskie.pl/index.php?option=com_content&task=view&id=8463&Itemid=446. 3) Uchwała nr XXXII/319/12 Sejmiku Województwa Lubuskiego z dnia 19 listopada 2012 roku w sprawie przyjęcia Strategii Rozwoju Województwa Lubuskiego 2020 jest udostępniana w Biuletynie Informacji Publicznej Urzędu Marszałkowskiego Województwa Kujawsko-Pomorskiego pod adresem http://www.bip.lubuskie.pl/60/Strategia_Rozwoju_Wojewodztwa_Lubuskiego/.
+Rozporządzenie wchodzi w życie z dniem następującym pod dniu ogłoszenia. 2) Analiza potrzeb budowy i modernizacji dróg lokalnych w zakresie PROW 2014–2020 w odniesieniu do wybranych aspektów Strategii rozwoju województwa kujawsko-pomorskiego do roku 2020 – Plan modernizacji 2020+ przyjęta uchwałą nr XLI/693/13 Sejmiku Województwa Kujawsko-Pomorskiego z dnia 21 października 2013 r. w sprawie przyjęcia Strategii rozwoju województwa kujawsko-pomorskiego do roku 2020 – Plan modernizacji 2020+ jest udostępniana w Biuletynie Informacji Publicznej Urzędu Marszałkowskiego Województwa Kujawsko-Pomorskiego pod adresem http://bip.kujawsko-pomorskie.pl/index.php?option=com_content&task=view&id=8463&Itemid=446. 3) Uchwała nr XXXII/319/12 Sejmiku Województwa Lubuskiego z dnia 19 listopada 2012 roku w sprawie przyjęcia Strategii Rozwoju Województwa Lubuskiego 2020 jest udostępniana w Biuletynie Informacji Publicznej Urzędu Marszałkowskiego Województwa Kujawsko-Pomorskiego pod adresem http://www.bip.lubuskie.pl/60/Strategia_Rozwoju_Wojewodztwa_Lubuskiego/.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-27 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002472) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2472/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 18 § 1 pkt 1 ustawy z dnia 21 sierpnia 1997 r. – Prawo o us
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 27 lutego 2006 r. w sprawie organizacji sądów wojskowych oraz ustalenia wewnętrznego urzędowania tych sądów (Dz. U. poz. 287, z 2012 r. poz. 693 oraz z 2015 r. poz. 335) wprowadza się następujące zmiany:
 1)
-w § 24 ust. 3 otrzymuje brzmienie:
-„
+w § 24 ust. 3 otrzymuje brzmienie: „
 3.
-W szczególnie uzasadnionych przypadkach prezes sądu oraz przewodniczący wydziału może zarządzić rozpoznanie sprawy lub spraw poszczególnych kategorii poza kolejnością określoną w ust. 1.
-” ;
+W szczególnie uzasadnionych przypadkach prezes sądu oraz przewodniczący wydziału może zarządzić rozpoznanie sprawy lub spraw poszczególnych kategorii poza kolejnością określoną w ust. 1. ” ;
 2)
-po § 24 dodaje się § 24a-24c w brzmieniu:
-„
+po § 24 dodaje się § 24a-24c w brzmieniu: „
 § 24a.
 1.
 Przydziału spraw dokonuje się w sposób losowy, z udziałem wszystkich sędziów orzekających w danym sądzie.
@@ -78,8 +74,7 @@ W sprawach rozpoznawanych w składach liczących więcej niż jednego sędziego,
 4.
 Do losowania ławników do rozpoznawania kolejnych spraw stosuje się odpowiednio przepisy ust. 1–3 oraz § 24a ust. 1.
 § 24c.
-Prezes sądu ustala plan dyżurów i plan zastępstw sędziów. Sędziemu pełniącemu dyżur są przydzielane sprawy, co do których ustawa wymaga rozpoznania w ciągu 72 godzin.
-” ;
+Prezes sądu ustala plan dyżurów i plan zastępstw sędziów. Sędziemu pełniącemu dyżur są przydzielane sprawy, co do których ustawa wymaga rozpoznania w ciągu 72 godzin. ” ;
 3)
 w § 29 uchyla się pkt 2;
 4)

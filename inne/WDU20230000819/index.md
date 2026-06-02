@@ -22,7 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-03-22 |
 | Data wydania | 2023-04-28 |
-| Ostatnia zmiana | 2025-07-11 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000819) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/819/text.pdf) |
 
 881199 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 22 marca 2023 r.

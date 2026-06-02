@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej, ustawę z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym oraz ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-14 |
 | Data wydania | 2014-04-01 |
-| Wejście w życie | 2014-04-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/423/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.) wprowadza się następujące zmiany:
+Udzielanie zamówień na dostawy lub usługi z zakresu działalności kulturalnej
+Zasady udzielania zamówień z dziedziny nauki
+
+**Art. 1.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: w pkt 3 lit. e otrzymuje brzmienie: „ usługi w zakresie badań naukowych i prac rozwojowych oraz świadczenie usług badawczych, które nie są w całości opłacane przez zamawiającego, lub z których korzyści nie przypadają wyłącznie zamawiającemu dla potrzeb jego własnej działalności, ” , pkt 8 otrzymuje brzmienie: „
     - **a)**
@@ -43,7 +45,7 @@ source: "eli-html"
 4. Jeżeli jest to uzasadnione ochroną prywatności lub interesem publicznym, zamawiający może nie ujawniać:
 
 - **1)** danych osobowych, w przypadku zamówienia udzielonego na podstawie art. 67 ust. 1 pkt 1 lit. b,
-- **2)** wysokości wynagrodzenia, w przypadku zamówienia udzielonego na podstawie art. 67 ust. 1 pkt 1 lit. c w zakresie dostaw lub usług z zakresu działalności kulturalnej związanej z organizacją wystaw, koncertów, konkursów, festiwali, widowisk, spektakli teatralnych, przedsięwzięć z zakresu edukacji kulturalnej lub z gromadzeniem materiałów bibliotecznych przez biblioteki lub muzealiów, jeżeli zamówienia te nie służą wyposażaniu zamawiającego w środki trwałe przeznaczone do bieżącej obsługi jego działalności, o ile wykonawca, przed podpisaniem umowy w sprawie zamówienia publicznego zastrzegł, że dane te nie mogą być udostępniane. ” ;
+- **2)** wysokości wynagrodzenia, w przypadku zamówienia udzielonego na podstawie art. 67 ust. 1 pkt 1 lit. c – w zakresie dostaw lub usług z zakresu działalności kulturalnej związanej z organizacją wystaw, koncertów, konkursów, festiwali, widowisk, spektakli teatralnych, przedsięwzięć z zakresu edukacji kulturalnej lub z gromadzeniem materiałów bibliotecznych przez biblioteki lub muzealiów, jeżeli zamówienia te nie służą wyposażaniu zamawiającego w środki trwałe przeznaczone do bieżącej obsługi jego działalności, o ile wykonawca, przed podpisaniem umowy w sprawie zamówienia publicznego zastrzegł, że dane te nie mogą być udostępniane. ” ;
 - **3)** w art. 67: w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
 
@@ -62,18 +64,18 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2012 r. poz. 406) po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Udzielanie zamówień na dostawy lub usługi z zakresu działalności kulturalnej
+#### Rozdział 4a
 
 **Art. 37a.** Podmiot prowadzący działalność kulturalną, udzielając zamówienia, o którym mowa w art. 4 pkt 8b ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, którego wartość przekracza wyrażoną w złotych równowartość kwoty 30 000 euro, zamieszcza ogłoszenie o udzielanym zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej. Zamówienie, o którym mowa w art. 37a, jest udzielane w sposób zapewniający przejrzystość, równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie. Podmiot prowadzący działalność kulturalną nie udostępnia informacji związanych z zamówieniem, o którym mowa w art. 37a, stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być one udostępniane. Podmiot prowadzący działalność kulturalną zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informację o udzieleniu zamówienia, o którym mowa w art. 37a, podając nazwę (firmę) albo imię i nazwisko podmiotu, z którym zawarł umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia. ” .
 
-**Art. 3.** W ustawie z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 84, poz. 455 i Nr 185, poz. 1092, z 2013 r. poz. 675 oraz z 2014 r. poz. 379.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 otrzymuje brzmienie: „ Ustawa określa zasady:
 - **1)** finansowania nauki ze środków finansowych ustalanych na ten cel w budżecie państwa, ujmowanych w wyodrębnionej części budżetu państwa – „Nauka”, zwanych dalej „środkami finansowymi na naukę”, którymi dysponuje minister właściwy do spraw nauki, zwany dalej „Ministrem”;
-- **2)** udzielania zamówień, o których mowa w art. 4 pkt 8a ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.), jeżeli ich wartość przekracza wyrażoną w złotych równowartość kwoty 30 000 euro, zwanych dalej „zamówieniami z dziedziny nauki”, przez podmioty określone w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, do których stosuje się przepisy niniejszej ustawy, zwane dalej „podmiotami zamawiającymi”. ” ;
+- **2)** udzielania zamówień, o których mowa w art. 4 pkt 8a ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473 oraz z 2014 r. poz. 423.), jeżeli ich wartość przekracza wyrażoną w złotych równowartość kwoty 30 000 euro, zwanych dalej „zamówieniami z dziedziny nauki”, przez podmioty określone w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, do których stosuje się przepisy niniejszej ustawy, zwane dalej „podmiotami zamawiającymi”. ” ;
 - **2)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Zasady udzielania zamówień z dziedziny nauki
+#### Rozdział 2a
 
 **Art. 30a.** Podmiot zamawiający, udzielając zamówienia z dziedziny nauki, zamieszcza ogłoszenie o udzielanym zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej. Zamówienie z dziedziny nauki jest udzielane w sposób zapewniający przejrzystość, równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie. Podmiot zamawiający nie udostępnia informacji związanych z zamówieniem z dziedziny nauki stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być one udostępniane. Podmiot zamawiający zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informację o udzieleniu zamówienia z dziedziny nauki, podając nazwę (firmę) albo imię i nazwisko podmiotu, z którym zawarł umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia. ” .
 
@@ -93,5 +95,5 @@ source: "eli-html"
 
 4. Do konkursów wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej, ustawę z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym oraz ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 84, poz. 455 i Nr 185, poz. 1092, z 2013 r. poz. 675 oraz z 2014 r. poz. 379. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473 oraz z 2014 r. poz. 423.
 

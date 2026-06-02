@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 lutego 2010 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 19 lutego 2010 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, ustawę z dnia 22 lipca 2006 r. o paszach i ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-02-19 |
 | Data wydania | 2010-04-13 |
-| Wejście w życie | 2010-04-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100600372) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/372/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 145, poz. 916, Nr 195, poz. 1201, Nr 227, poz. 1505 i Nr 237, poz. 1655, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 105 i Nr 157, poz. 1241 oraz z 2010 r. Nr 47, poz. 278.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 2 w pkt 4 lit. c otrzymuje brzmienie: „ kontroli na miejscu w zakresie przestrzegania wymogów wskazanych w załączniku II pkt A ust. 6–8 rozporządzenia Rady (WE) nr 73/2009 z dnia 19 stycznia 2009 r. ustanawiającego wspólne zasady dla systemów wsparcia bezpośredniego dla rolników w ramach wspólnej polityki rolnej i ustanawiającego określone systemy wsparcia dla rolników, zmieniającego rozporządzenia (WE) nr 1290/2005, (WE) nr 247/2006, (WE) nr 378/2007 oraz uchylającego rozporządzenie (WE) nr 1782/2003 (Dz. Urz. UE L 30 z 31.01.2009, str. 16, z późn. zm.), jako specjalny organ kontroli, o którym mowa w art. 48 ust. 1 rozporządzenia Komisji (WE) nr 1122/2009 z dnia 30 listopada 2009 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 73/2009 odnośnie do zasady wzajemnej zgodności, modulacji oraz zintegrowanego systemu zarządzania i kontroli w ramach systemów wsparcia bezpośredniego przewidzianych w wymienionym rozporządzeniu oraz wdrażania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do zasady wzajemnej zgodności w ramach systemu wsparcia ustanowionego dla sektora wina (Dz. Urz. UE L 316 z 02.12.2009, str. 65); ” ;
     - **c)**
@@ -238,14 +237,14 @@ source: "eli-html"
 
 - **7)** w art. 52c ust. 2 otrzymuje brzmienie: „
 
-2. Laboratoria wykonujące badania w kierunku chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych podlegających obowiązkowi monitorowania przechowują izolaty odzwierzęcych czynników chorobotwórczych i przekazują je zakładom higieny weterynaryjnej, o których mowa w art. 25 ust. 2 pkt 1 lit. a ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, z późn. zm.). ” ;
+2. Laboratoria wykonujące badania w kierunku chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych podlegających obowiązkowi monitorowania przechowują izolaty odzwierzęcych czynników chorobotwórczych i przekazują je zakładom higieny weterynaryjnej, o których mowa w art. 25 ust. 2 pkt 1 lit. a ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 145, poz. 916, Nr 195, poz. 1201, Nr 227, poz. 1505 i Nr 237, poz. 1655, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 105 i Nr 157, poz. 1241 oraz z 2010 r. Nr 47, poz. 278 i Nr 60, poz. 372.). ” ;
 
 - **8)** w art. 57 ust. 6 otrzymuje brzmienie: „
 
 6. Główny Lekarz Weterynarii uzgadnia program, o którym mowa w ust. 5, z ministrem właściwym do spraw:
 
 - **1)** finansów publicznych – pod względem finansowym,
-- **2)** rolnictwa – pod względem merytorycznym i występuje do Komisji Europejskiej z wnioskiem o zatwierdzenie tak uzgodnionego programu. ” ;
+- **2)** rolnictwa – pod względem merytorycznym – i występuje do Komisji Europejskiej z wnioskiem o zatwierdzenie tak uzgodnionego programu. ” ;
 - **9)** art. 63 otrzymuje brzmienie: „
 
 **Art. 63.** Zabrania się umieszczania na rynku, w celu podawania zwierzętom, z których lub od których są pozyskiwane produkty pochodzenia zwierzęcego w rozumieniu przepisów o produktach pochodzenia zwierzęcego, substancji o działaniu tyreostatycznym, stilbenów, pochodnych stilbenów, ich soli i estrów, substancji o działaniu beta-agonistycznym oraz oestradiolu 17β i jego pochodnych estropodobnych. ” ;
@@ -299,7 +298,7 @@ source: "eli-html"
 
 3. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw wewnętrznych może określić, w drodze rozporządzenia, wykaz miejsc kontroli innych niż określone w przepisach wydanych na podstawie ust. 2, w których może być dokonywana kontrola graniczna pasz, mając na względzie zwiększony poziom kontroli pasz. ” .
 
-**Art. 4.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. Nr 171, poz. 1225, z późn. zm.) w art. 78 w ust. 1 pkt 2 otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. Nr 171, poz. 1225, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1346, Nr 223, poz. 1463 i Nr 234, poz. 1570, z 2009 r. Nr 98, poz. 817 oraz z 2010 r. Nr 21, poz. 105.) w art. 78 w ust. 1 pkt 2 otrzymuje brzmienie: „
 
 - **2)** laboratoria Inspekcji Weterynaryjnej określone w art. 25 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej; ” .
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 kwietnia 2023 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 14 kwietnia 2023 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw Niniejsza ustawa: 1) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/520 z dnia 19 marca 2019 r. w sprawie interoperacyjności systemów elektronicznego poboru opłat drogowych i ułatwiania transgranicznej wymiany informacji na temat przypadków nieuiszczenia opłat drogowych w Unii (Dz. Urz. UE L 91 z 29.03.2019, str. 45 oraz Dz. Urz. UE L 69 z 04.03.2022, str. 1); 2) służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2020/203 z dnia 28 listopada 2019 r. w sprawie klasyfikacji pojazdów, obowiązków użytkowników europejskiej usługi opłaty elektronicznej, wymogów dotyczących składników interoperacyjności oraz minimalnych kryteriów kwalifikowalności jednostek notyfikowanych (Dz. Urz. UE L 43 z 17.02.2020, str. 41); 3) służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2020/204 z dnia 28 listopada 2019 r. w sprawie szczegółowych obowiązków dostawców europejskiej usługi opłaty elektronicznej, minimalnej treści informacji o obszarze europejskiej usługi opłaty elektronicznej, interfejsów elektronicznych, wymogów dotyczących składników interoperacyjności oraz uchylenia decyzji 2009/750/WE (Dz. Urz. UE L 43 z 17.02.2020, str. 49).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-04-14 |
 | Data wydania | 2023-04-21 |
-| Wejście w życie | 2023-05-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000760) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/760/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg.
 
 **Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2023 r. poz. 645) wprowadza się następujące zmiany:
 
@@ -62,7 +63,7 @@ source: "eli-html"
 - **47)** elektroniczna opłata autostradowa – opłatę za przejazd autostradą, pobieraną przez Szefa Krajowej Administracji Skarbowej na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760);
 - **48)** wezwanie do wniesienia autostradowej opłaty dodatkowej – wezwanie, o którym mowa w art. 37ge ust. 7 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym;
 - **49)** sprzeciw od autostradowej opłaty dodatkowej – sprzeciw, o którym mowa w art. 37gf ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym. ” ;
-- **2)** w art. 13haa: w ust. 1 skreśla się wyrazy „(Dz. U. z 2022 r. poz. 659 i 1079)”, w ust. 2 w pkt 5 wyrazy „art. 5 ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2004/52/WE z dnia 29 kwietnia 2004 r. w sprawie interoperacyjności systemów elektronicznych opłat drogowych we Wspólnocie (Dz. Urz. UE L 166 z 30.04.2004, str. 124, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 856)” zastępuje się wyrazami „art. 31 ust. 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/520 z dnia 19 marca 2019 r. w sprawie interoperacyjności systemów elektronicznego poboru opłat drogowych i ułatwiania transgranicznej wymiany informacji na temat przypadków nieuiszczenia opłat drogowych w Unii (Dz. Urz. UE L 91 z 29.03.2019, str. 45, z późn. zm.) , zwanej dalej „dyrektywą 2019/520” „;
+- **2)** w art. 13haa: w ust. 1 skreśla się wyrazy „(Dz. U. z 2022 r. poz. 659 i 1079)”, w ust. 2 w pkt 5 wyrazy „art. 5 ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2004/52/WE z dnia 29 kwietnia 2004 r. w sprawie interoperacyjności systemów elektronicznych opłat drogowych we Wspólnocie (Dz. Urz. UE L 166 z 30.04.2004, str. 124, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 109. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 856)” zastępuje się wyrazami „art. 31 ust. 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/520 z dnia 19 marca 2019 r. w sprawie interoperacyjności systemów elektronicznego poboru opłat drogowych i ułatwiania transgranicznej wymiany informacji na temat przypadków nieuiszczenia opłat drogowych w Unii (Dz. Urz. UE L 91 z 29.03.2019, str. 45, z późn. zm.) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 69 z 04.03.2022, str. 1., zwanej dalej „dyrektywą 2019/520” „;
     - **a)**
     - **b)**
 
@@ -100,7 +101,7 @@ source: "eli-html"
 
 - **1)** właściciel pojazdu albo
 - **2)** posiadacz pojazdu, o którym mowa w art. 73 ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, albo
-- **3)** użytkownik pojazdu, o którym mowa w art. 80b ust. 1 pkt 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym zwany dalej „właścicielem, posiadaczem albo użytkownikiem pojazdu”, albo użytkownik EETS nie wyposażył pojazdu w prawidłowo funkcjonujący zewnętrzny system lokalizacyjny albo prawidłowo funkcjonujące urządzenie pokładowe albo urządzenie mobilne wraz z oprogramowaniem, zapewniające przekazywanie danych geolokalizacyjnych, albo urządzenie, o którym mowa w art. 16l ust. 1, spełniające wymagania określone w art. 16o ust. 1 pkt 2. ” , ust. 4b i 4c otrzymują brzmienie: „
+- **3)** użytkownik pojazdu, o którym mowa w art. 80b ust. 1 pkt 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym – zwany dalej „właścicielem, posiadaczem albo użytkownikiem pojazdu”, albo użytkownik EETS nie wyposażył pojazdu w prawidłowo funkcjonujący zewnętrzny system lokalizacyjny albo prawidłowo funkcjonujące urządzenie pokładowe albo urządzenie mobilne wraz z oprogramowaniem, zapewniające przekazywanie danych geolokalizacyjnych, albo urządzenie, o którym mowa w art. 16l ust. 1, spełniające wymagania określone w art. 16o ust. 1 pkt 2. ” , ust. 4b i 4c otrzymują brzmienie: „
     - **h)**
 
 4b. Właściciel, posiadacz albo użytkownik pojazdu albo użytkownik EETS są obowiązani do używania urządzenia, o którym mowa w ust. 3 i 3a oraz w art. 16l ust. 1, zgodnie z jego przeznaczeniem.
@@ -157,7 +158,7 @@ source: "eli-html"
 
 - **1)** właścicielowi, posiadaczowi albo użytkownikowi pojazdu, albo
 - **2)** korzystającemu z drogi – w przypadku, o którym mowa w art. 13ia ust. 19, albo
-- **3)** użytkownikowi EETS – w przypadku gdy pojazd objęty jest umową, o której mowa w art. 16e ust. 1 pkt 1 lit. b z uwzględnieniem art. 13mf ust. 1. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+- **3)** użytkownikowi EETS – w przypadku gdy pojazd objęty jest umową, o której mowa w art. 16e ust. 1 pkt 1 lit. b – z uwzględnieniem art. 13mf ust. 1. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **c)**
 
 5a. Kary pieniężne, o których mowa w ust. 2e i 2f, wymierza się użytkownikowi EETS. ” , w ust. 6 pkt 1 otrzymuje brzmienie: „
@@ -177,7 +178,7 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **2)** pojazdów, w przypadku których stwierdzono przejazd z naruszeniem obowiązków, o których mowa w pkt 1 zwaną dalej „transgraniczną wymianą informacji”.
+- **2)** pojazdów, w przypadku których stwierdzono przejazd z naruszeniem obowiązków, o których mowa w pkt 1 – zwaną dalej „transgraniczną wymianą informacji”.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 1 lit. c, transgranicznej wymianie informacji podlegają ponadto dane użytkowników pojazdów, o których mowa w art. 80b ust. 1 pkt 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
@@ -226,12 +227,12 @@ source: "eli-html"
 
 - **1)** państwo, na terytorium którego zostało popełnione naruszenie,
 - **2)** datę i godzinę popełnienia naruszenia,
-- **3)** powód wystąpienia o udzielenie informacji wynikający z popełnienia naruszenia obowiązku uiszczenia opłaty elektronicznej albo obowiązku wniesienia elektronicznej opłaty autostradowej.
+- **3)** powód wystąpienia o udzielenie informacji wynikający z popełnienia naruszenia – obowiązku uiszczenia opłaty elektronicznej albo obowiązku wniesienia elektronicznej opłaty autostradowej.
 
 1. Minister właściwy do spraw transportu sporządza sprawozdanie zawierające:
 
 - **1)** liczbę zapytań krajowych dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej oraz naruszeń obowiązku wniesienia elektronicznej opłaty autostradowej wraz z podaniem liczby zapytań krajowych, które nie skutkowały przekazaniem przez krajowe punkty kontaktowe innych państw członkowskich Unii Europejskiej informacji, o których mowa w art. 13ma ust. 1 pkt 1 lit. a i b oraz pkt 2,
-- **2)** opis procedowania z naruszeniami obowiązku uiszczenia opłaty elektronicznej oraz z naruszeniami obowiązku wniesienia elektronicznej opłaty autostradowej, który jest sporządzany w oparciu o stosunek liczby naruszeń, w odniesieniu do których skierowano zawiadomienie, o którym mowa w art. 13me ust. 1 pkt 1, albo wezwanie do wniesienia autostradowej opłaty dodatkowej, do liczby wszystkich naruszeń, w odniesieniu do których Główny Inspektor Transportu Drogowego oraz Szef KAS byli uprawnieni do wysłania tego zawiadomienia albo wystawienia tego wezwania, z uwzględnieniem art. 13mf ust. 2 niniejszej ustawy i art. 37gea ust. 7 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym zwane dalej „sprawozdaniem KPK”.
+- **2)** opis procedowania z naruszeniami obowiązku uiszczenia opłaty elektronicznej oraz z naruszeniami obowiązku wniesienia elektronicznej opłaty autostradowej, który jest sporządzany w oparciu o stosunek liczby naruszeń, w odniesieniu do których skierowano zawiadomienie, o którym mowa w art. 13me ust. 1 pkt 1, albo wezwanie do wniesienia autostradowej opłaty dodatkowej, do liczby wszystkich naruszeń, w odniesieniu do których Główny Inspektor Transportu Drogowego oraz Szef KAS byli uprawnieni do wysłania tego zawiadomienia albo wystawienia tego wezwania, z uwzględnieniem art. 13mf ust. 2 niniejszej ustawy i art. 37gea ust. 7 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym – zwane dalej „sprawozdaniem KPK”.
 
 2. Minister właściwy do spraw transportu przekazuje Komisji Europejskiej sprawozdanie KPK co 3 lata, w terminie do dnia 19 kwietnia danego roku, za okres 3 poprzednich lat.
 
@@ -245,7 +246,7 @@ source: "eli-html"
 1. W ramach transgranicznej wymiany informacji oraz w celu:
 
 - **1)** sporządzenia i doręczenia zawiadomienia o wszczęciu postępowania w sprawie nałożenia kary pieniężnej za naruszenie obowiązku uiszczenia opłaty elektronicznej, zwanego dalej „zawiadomieniem KPK”, albo
-- **2)** wystawienia i doręczenia wezwania do wniesienia autostradowej opłaty dodatkowej krajowe podmioty uprawnione nie przetwarzają danych osobowych innych niż wymienione w art. 13mc.
+- **2)** wystawienia i doręczenia wezwania do wniesienia autostradowej opłaty dodatkowej – krajowe podmioty uprawnione nie przetwarzają danych osobowych innych niż wymienione w art. 13mc.
 
 2. Dane osobowe podlegające transgranicznej wymianie informacji mogą być przetwarzane wyłącznie w celu:
 
@@ -331,7 +332,7 @@ source: "eli-html"
 10. Jeżeli kara pieniężna nie zostanie uiszczona lub pojazd nie zostanie odebrany z parkingu, w ciągu 30 dni od dnia, w którym:
 
 - **1)** decyzja w sprawie nałożenia kary stała się ostateczna – w przypadku, o którym mowa w ust. 1 pkt 1, albo
-- **2)** pojazd został zatrzymany – w przypadku, o którym mowa w ust. 1 pkt 2 stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji dotyczące egzekucji należności pieniężnych z ruchomości.
+- **2)** pojazd został zatrzymany – w przypadku, o którym mowa w ust. 1 pkt 2 – stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji dotyczące egzekucji należności pieniężnych z ruchomości.
 
 11. Przepisów ust. 1–10 nie stosuje się w przypadku, gdy właścicielem lub posiadaczem pojazdu w chwili jego zatrzymania przez Głównego Inspektora Transportu Drogowego jest:
 
@@ -347,7 +348,12 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** zakończeniu, z wynikiem pozytywnym, procedury oceny zgodności ze specyfikacjami i przydatności do stosowania w EETS na obszarze EETS składników interoperacyjności EETS posiadanych przez dostawcę EETS, zwaną dalej „procedurą akredytacyjną”. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rejestracja dostawców EETS odbywa się po spełnieniu następujących wymogów: ” , – pkt 2 otrzymuje brzmienie: „ 2) posiadanie umożliwiających świadczenie usługi EETS: wyposażenia technicznego oraz składników interoperacyjności EETS, dla których wystawiono deklarację WE lub certyfikat WE zgodności lub przydatności do stosowania w EETS, potwierdzające ich zgodność z wymaganiami określonymi w ustawie oraz w przepisach aktów wykonawczych wydanych przez Komisję Europejską na podstawie dyrektywy 2019/520; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) posiadanie kompetencji w świadczeniu: a) usług w obszarze elektronicznego poboru opłat drogowych, przez które rozumie się w szczególności: – projektowanie, budowę, rozwój, wdrażanie, utrzymanie lub wsparcie tego systemu lub – wykonywanie czynności faktycznych w procesie poboru opłat drogowych lub rozliczania tych opłat, lub – produkcję urządzeń na potrzeby poboru opłat w tym systemie lub b) usług pokrewnych do usług, o których mowa w lit. a, przez które rozumie się w szczególności: – projektowanie, budowę, rozwój, wdrażanie, utrzymanie lub wsparcie ITS, urządzeń telematyki transportu i ruchu drogowego lub innych systemów teleinformatycznych wykorzystywanych w transporcie i ruchu drogowym lub – usługi operacji na danych wykonywanych przy użyciu oprogramowania komputerowego, lub – prowadzenie działalności bankowej, lub – prowadzenie działalności ubezpieczeniowej lub reasekuracyjnej, lub – usługi telekomunikacyjne i usługi towarzyszące w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne – jeśli świadczenie tych usług wymagało przetwarzania danych w dużej skali oraz stosowania środków technicznych lub organizacyjnych zapewniających odpowiednie bezpieczeństwo tych danych; ” ;
+- **2)** zakończeniu, z wynikiem pozytywnym, procedury oceny zgodności ze specyfikacjami i przydatności do stosowania w EETS na obszarze EETS składników interoperacyjności EETS posiadanych przez dostawcę EETS, zwaną dalej „procedurą akredytacyjną”. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rejestracja dostawców EETS odbywa się po spełnieniu następujących wymogów: ” , pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** posiadanie umożliwiających świadczenie usługi EETS: wyposażenia technicznego oraz składników interoperacyjności EETS, dla których wystawiono deklarację WE lub certyfikat WE zgodności lub przydatności do stosowania w EETS, potwierdzające ich zgodność z wymaganiami określonymi w ustawie oraz w przepisach aktów wykonawczych wydanych przez Komisję Europejską na podstawie dyrektywy 2019/520; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** posiadanie kompetencji w świadczeniu: usług w obszarze elektronicznego poboru opłat drogowych, przez które rozumie się w szczególności: – projektowanie, budowę, rozwój, wdrażanie, utrzymanie lub wsparcie tego systemu lub – wykonywanie czynności faktycznych w procesie poboru opłat drogowych lub rozliczania tych opłat, lub – produkcję urządzeń na potrzeby poboru opłat w tym systemie lub usług pokrewnych do usług, o których mowa w lit. a, przez które rozumie się w szczególności: – projektowanie, budowę, rozwój, wdrażanie, utrzymanie lub wsparcie ITS, urządzeń telematyki transportu i ruchu drogowego lub innych systemów teleinformatycznych wykorzystywanych w transporcie i ruchu drogowym lub – usługi operacji na danych wykonywanych przy użyciu oprogramowania komputerowego, lub – prowadzenie działalności bankowej, lub – prowadzenie działalności ubezpieczeniowej lub reasekuracyjnej, lub – usługi telekomunikacyjne i usługi towarzyszące w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne – jeśli świadczenie tych usług wymagało przetwarzania danych w dużej skali oraz stosowania środków technicznych lub organizacyjnych zapewniających odpowiednie bezpieczeństwo tych danych; ” ;
+    - **a)**
     - **b)**
 
 - **11)** w art. 16f: po ust. 4 dodaje się ust. 4a w brzmieniu: „
@@ -364,8 +370,10 @@ source: "eli-html"
 
 15. Do świadczenia usługi EETS przez dostawcę EETS wpisanego do rejestru EETS nie stosuje się art. 23 i art. 24 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221 i 641). ” ;
 
-- **12)** w art. 16g: w ust. 1 w pkt 2: – lit. a otrzymuje brzmienie: „ a) zaprzestania faktycznego świadczenia przez dostawcę EETS usługi EETS przynajmniej na jednym obszarze EETS, chyba że dostawca EETS wykaże, że zaprzestanie świadczenia usługi EETS wynika z nieprzestrzegania przez podmiot pobierający opłaty na obszarze EETS przepisów regulujących świadczenie usługi EETS w danym państwie członkowskim Unii Europejskiej, ” , – w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) niezawarcia przez dostawcę EETS umów dotyczących obszarów EETS obejmujących wszystkie obszary EETS: – w przynajmniej czterech państwach członkowskich Unii Europejskiej, w terminie 36 miesięcy od dnia, w którym decyzja o wpisie dostawcy EETS do rejestru EETS stała się ostateczna, lub – w danym państwie członkowskim Unii Europejskiej, w terminie 24 miesięcy od dnia zawarcia pierwszej umowy dotyczącej obszaru EETS w tym państwie, chyba że dostawca EETS wykaże, że umowa dotycząca obszaru EETS nie została zawarta z powodu niedopełnienia przez podmiot pobierający opłaty na obszarze EETS obowiązku zapewnienia niedyskryminacyjnego dostępu dostawców EETS do obszaru EETS. ” , uchyla się ust. 2 i 3;
+- **12)** w art. 16g: w ust. 1 w pkt 2: lit. a otrzymuje brzmienie: „ zaprzestania faktycznego świadczenia przez dostawcę EETS usługi EETS przynajmniej na jednym obszarze EETS, chyba że dostawca EETS wykaże, że zaprzestanie świadczenia usługi EETS wynika z nieprzestrzegania przez podmiot pobierający opłaty na obszarze EETS przepisów regulujących świadczenie usługi EETS w danym państwie członkowskim Unii Europejskiej, ” , w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ niezawarcia przez dostawcę EETS umów dotyczących obszarów EETS obejmujących wszystkie obszary EETS: – w przynajmniej czterech państwach członkowskich Unii Europejskiej, w terminie 36 miesięcy od dnia, w którym decyzja o wpisie dostawcy EETS do rejestru EETS stała się ostateczna, lub – w danym państwie członkowskim Unii Europejskiej, w terminie 24 miesięcy od dnia zawarcia pierwszej umowy dotyczącej obszaru EETS w tym państwie, chyba że dostawca EETS wykaże, że umowa dotycząca obszaru EETS nie została zawarta z powodu niedopełnienia przez podmiot pobierający opłaty na obszarze EETS obowiązku zapewnienia niedyskryminacyjnego dostępu dostawców EETS do obszaru EETS. ” , uchyla się ust. 2 i 3;
     - **a)**
+    - **a)**
+    - **d)**
     - **b)**
 
 - **13)** art. 16h otrzymuje brzmienie: „
@@ -377,8 +385,43 @@ source: "eli-html"
     - **b)**
 
 - **2)** zakończeniu, z pozytywnym wynikiem, procedury akredytacyjnej. ” ;
-- **14)** w art. 16i: w ust. 1: – w pkt 1 wyrazy „opłatę za przejazd autostradą” zastępuje się wyrazami „elektroniczną opłatę autostradową”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) świadczyć w sposób nieprzerwany usługę EETS na wszystkich obszarach EETS, co do których zawarł umowy dotyczące obszarów EETS, z wyjątkiem przypadków, w których zaprzestanie świadczenia usługi EETS wynika z nieprzestrzegania przez podmiot pobierający opłaty na obszarze EETS przepisów regulujących świadczenie usługi EETS w danym państwie członkowskim Unii Europejskiej – w przypadku dostawcy EETS wpisanego do rejestru EETS; ” , – pkt 2 otrzymuje brzmienie: „ 2) niezwłocznie przekazywać podmiotowi pobierającemu opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS, dane, w tym dane osobowe użytkowników EETS, niezbędne do realizacji tej umowy, w tym: a) dane, na podstawie których podmiot pobierający opłaty na obszarze EETS ustala wysokość opłaty należnej od użytkownika EETS za przejazdy po obszarze EETS lub dokonuje weryfikacji prawidłowości ustalenia wysokości tej opłaty przez dostawcę EETS, b) dane o dostarczonych użytkownikom EETS urządzeniach, o których mowa w art. 16l ust. 1, oraz przypisaniu tych urządzeń do pojazdu samochodowego i użytkownika EETS; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) w terminie wskazanym przez podmiot pobierający opłaty na obszarze EETS, który nie może być dłuższy niż 2 dni kalendarzowe od dnia otrzymania wniosku, przekazywać podmiotowi pobierającemu opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS, dane osobowe użytkownika EETS i dane pojazdu należącego do tego użytkownika, w zakresie niezbędnym do wykonania obowiązku podatkowego ciążącego na podmiocie pobierającym opłaty na obszarze EETS; ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) monitorować poziom świadczonej usługi EETS oraz przeprowadzać audyt tej usługi we współpracy z podmiotem pobierającym opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS; 4) współpracować z podmiotami uprawnionymi do kontroli prawidłowości: a) uiszczenia opłaty elektronicznej, b) wnoszenia elektronicznej opłaty autostradowej – w tym niezwłocznie przekazywać tym podmiotom, na ich żądanie, za pośrednictwem środków komunikacji elektronicznej, dane użytkowników EETS naruszających obowiązki uiszczenia opłaty elektronicznej lub obowiązek wniesienia elektronicznej opłaty autostradowej oraz dane pojazdu stanowiącego własność użytkownika EETS lub znajdującego się w jego posiadaniu; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) wdrożyć i stosować interfejsy zapewniające: a) komunikację pomiędzy składnikami interoperacyjności EETS a systemem elektronicznego poboru opłat stosowanym na danym obszarze EETS, b) wymianę informacji z użytkownikami EETS – zgodnie ze specyfikacją określoną w przepisach aktu wykonawczego wydanego przez Komisję Europejską na podstawie art. 14 ust. 3 dyrektywy 2019/520; ” , – pkt 5 i 6 otrzymują brzmienie: „ 5) udostępniać na swojej stronie internetowej informacje o: a) obszarach EETS, na których aktualnie świadczy usługę EETS, b) planowanych działaniach mających na celu rozszerzenie zakresu świadczenia usługi EETS o obszary EETS, które nie są aktualnie obsługiwane przez tego dostawcę EETS, c) warunkach zawierania umów o świadczenie usługi EETS – w przypadku dostawcy EETS wpisanego do rejestru EETS; 6) niezwłocznie informować ministra właściwego do spraw transportu o: a) zawarciu umowy dotyczącej obszaru EETS, b) zmianach dotyczących go danych i informacji zawartych w rejestrze EETS – w przypadku dostawcy EETS wpisanego do rejestru EETS; ” , – po pkt 6 dodaje się pkt 6a-6e w brzmieniu: „ 6a) pokrywać koszty ponoszone przez podmiot pobierający opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS, wynikające z: a) konieczności przygotowania, wdrożenia, budowy lub eksploatacji elementów systemu elektronicznego poboru opłat, które mają wyłącznie na celu umożliwienie dostawcy EETS świadczenia usługi EETS zgodnie z ustawą i przepisami aktów wykonawczych wydanymi przez Komisję Europejską na podstawie dyrektywy 2019/520, b) przeprowadzenia procedury akredytacyjnej; 6b) współdziałać z podmiotem pobierającym opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS, przy wykonywaniu testów elektronicznego systemu poboru opłat wykonywanych przez ten podmiot, w zakresie, w jakim jest to niezbędne do zapewnienia prawidłowego świadczenia usługi EETS; 6c) zawierać z użytkownikami EETS umowy o świadczenie usługi EETS, z zachowaniem zasady niedyskryminacji; 6d) przekazywać użytkownikom EETS dokumenty księgowe dotyczące opłat za przejazd uiszczonych w ramach usługi EETS, zwane dalej „dokumentami księgowymi EETS”; 6e) wdrożyć i stosować politykę ochrony danych osobowych przetwarzanych w związku ze świadczeniem usługi EETS zgodnie z art. 24 ust. 2 rozporządzenia 2016/679; ” , – pkt 8 i 9 otrzymują brzmienie: „ 8) niezwłocznie przekazywać ministrowi właściwemu do spraw transportu wnioski z oceny planu zarządzania ryzykiem związanym ze świadczeniem usługi EETS, o których mowa w art. 16e ust. 4, oraz zapewnić ministrowi prawo do nieodpłatnego ich udostępniania w rejestrze, o którym mowa w art. 16v ust. 1 – w przypadku dostawcy EETS wpisanego do rejestru EETS; 9) niezwłocznie, nie później niż w terminie 3 dni od dnia zaprzestania faktycznego świadczenia usługi EETS, o którym mowa w art. 16g ust. 1 pkt 2 lit. a, albo zakończenia świadczenia usługi EETS, zgłosić ministrowi właściwemu do spraw transportu fakt zaprzestania albo zakończenia świadczenia usługi EETS – w przypadku dostawcy EETS wpisanego do rejestru EETS. ” ; po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **14)** w art. 16i: w ust. 1: – w pkt 1 wyrazy „opłatę za przejazd autostradą” zastępuje się wyrazami „elektroniczną opłatę autostradową”, po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** świadczyć w sposób nieprzerwany usługę EETS na wszystkich obszarach EETS, co do których zawarł umowy dotyczące obszarów EETS, z wyjątkiem przypadków, w których zaprzestanie świadczenia usługi EETS wynika z nieprzestrzegania przez podmiot pobierający opłaty na obszarze EETS przepisów regulujących świadczenie usługi EETS w danym państwie członkowskim Unii Europejskiej – w przypadku dostawcy EETS wpisanego do rejestru EETS; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** niezwłocznie przekazywać podmiotowi pobierającemu opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS, dane, w tym dane osobowe użytkowników EETS, niezbędne do realizacji tej umowy, w tym: dane, na podstawie których podmiot pobierający opłaty na obszarze EETS ustala wysokość opłaty należnej od użytkownika EETS za przejazdy po obszarze EETS lub dokonuje weryfikacji prawidłowości ustalenia wysokości tej opłaty przez dostawcę EETS, dane o dostarczonych użytkownikom EETS urządzeniach, o których mowa w art. 16l ust. 1, oraz przypisaniu tych urządzeń do pojazdu samochodowego i użytkownika EETS; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **2a)** w terminie wskazanym przez podmiot pobierający opłaty na obszarze EETS, który nie może być dłuższy niż 2 dni kalendarzowe od dnia otrzymania wniosku, przekazywać podmiotowi pobierającemu opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS, dane osobowe użytkownika EETS i dane pojazdu należącego do tego użytkownika, w zakresie niezbędnym do wykonania obowiązku podatkowego ciążącego na podmiocie pobierającym opłaty na obszarze EETS; ” , pkt 3 i 4 otrzymują brzmienie: „
+- **3)** monitorować poziom świadczonej usługi EETS oraz przeprowadzać audyt tej usługi we współpracy z podmiotem pobierającym opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS;
+- **4)** współpracować z podmiotami uprawnionymi do kontroli prawidłowości: uiszczenia opłaty elektronicznej, wnoszenia elektronicznej opłaty autostradowej – w tym niezwłocznie przekazywać tym podmiotom, na ich żądanie, za pośrednictwem środków komunikacji elektronicznej, dane użytkowników EETS naruszających obowiązki uiszczenia opłaty elektronicznej lub obowiązek wniesienia elektronicznej opłaty autostradowej oraz dane pojazdu stanowiącego własność użytkownika EETS lub znajdującego się w jego posiadaniu; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **4a)** wdrożyć i stosować interfejsy zapewniające: komunikację pomiędzy składnikami interoperacyjności EETS a systemem elektronicznego poboru opłat stosowanym na danym obszarze EETS, wymianę informacji z użytkownikami EETS – zgodnie ze specyfikacją określoną w przepisach aktu wykonawczego wydanego przez Komisję Europejską na podstawie art. 14 ust. 3 dyrektywy 2019/520; ” , pkt 5 i 6 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+- **5)** udostępniać na swojej stronie internetowej informacje o: obszarach EETS, na których aktualnie świadczy usługę EETS, planowanych działaniach mających na celu rozszerzenie zakresu świadczenia usługi EETS o obszary EETS, które nie są aktualnie obsługiwane przez tego dostawcę EETS, warunkach zawierania umów o świadczenie usługi EETS – w przypadku dostawcy EETS wpisanego do rejestru EETS;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **6)** niezwłocznie informować ministra właściwego do spraw transportu o: zawarciu umowy dotyczącej obszaru EETS, zmianach dotyczących go danych i informacji zawartych w rejestrze EETS – w przypadku dostawcy EETS wpisanego do rejestru EETS; ” , po pkt 6 dodaje się pkt 6a-6e w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **6a)** pokrywać koszty ponoszone przez podmiot pobierający opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS, wynikające z: konieczności przygotowania, wdrożenia, budowy lub eksploatacji elementów systemu elektronicznego poboru opłat, które mają wyłącznie na celu umożliwienie dostawcy EETS świadczenia usługi EETS zgodnie z ustawą i przepisami aktów wykonawczych wydanymi przez Komisję Europejską na podstawie dyrektywy 2019/520, przeprowadzenia procedury akredytacyjnej;
+    - **a)**
+    - **b)**
+
+- **6b)** współdziałać z podmiotem pobierającym opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS, przy wykonywaniu testów elektronicznego systemu poboru opłat wykonywanych przez ten podmiot, w zakresie, w jakim jest to niezbędne do zapewnienia prawidłowego świadczenia usługi EETS;
+- **6c)** zawierać z użytkownikami EETS umowy o świadczenie usługi EETS, z zachowaniem zasady niedyskryminacji;
+- **6d)** przekazywać użytkownikom EETS dokumenty księgowe dotyczące opłat za przejazd uiszczonych w ramach usługi EETS, zwane dalej „dokumentami księgowymi EETS”;
+- **6e)** wdrożyć i stosować politykę ochrony danych osobowych przetwarzanych w związku ze świadczeniem usługi EETS zgodnie z art. 24 ust. 2 rozporządzenia 2016/679; ” , pkt 8 i 9 otrzymują brzmienie: „
+- **8)** niezwłocznie przekazywać ministrowi właściwemu do spraw transportu wnioski z oceny planu zarządzania ryzykiem związanym ze świadczeniem usługi EETS, o których mowa w art. 16e ust. 4, oraz zapewnić ministrowi prawo do nieodpłatnego ich udostępniania w rejestrze, o którym mowa w art. 16v ust. 1 – w przypadku dostawcy EETS wpisanego do rejestru EETS;
+- **9)** niezwłocznie, nie później niż w terminie 3 dni od dnia zaprzestania faktycznego świadczenia usługi EETS, o którym mowa w art. 16g ust. 1 pkt 2 lit. a, albo zakończenia świadczenia usługi EETS, zgłosić ministrowi właściwemu do spraw transportu fakt zaprzestania albo zakończenia świadczenia usługi EETS – w przypadku dostawcy EETS wpisanego do rejestru EETS. ” ; po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Dostawca EETS jest ponadto obowiązany przekazywać podmiotowi pobierającemu opłaty na obszarze EETS, z którym zawarł umowę dotyczącą obszaru EETS, informacje inne niż określone w ust. 1, jeśli akt wykonawczy wydany przez Komisję Europejską na podstawie art. 5 ust. 11 dyrektywy 2019/520 tak stanowi. ” , dodaje się ust. 3–11 w brzmieniu: „
@@ -597,7 +640,7 @@ source: "eli-html"
 
 - **1)** podmiot pobierający opłaty na obszarze EETS wypłaca wynagrodzenie dla głównego dostawcy z tytułu świadczenia tej usługi,
 - **2)** główny dostawca ma obowiązek zawierania umów dotyczących świadczenia usługi poboru opłat ze wszystkimi korzystającymi z dróg, którzy się do niego zgłoszą, lub umowa pomiędzy podmiotem pobierającym opłaty na obszarze EETS a głównym dostawcą na świadczenie usługi poboru opłat została zawarta na okres dłuższy niż 4 lata,
-- **3)** na danym obszarze EETS świadczona jest tylko jedna usługa poboru opłat spełniająca warunki, o których mowa w pkt 1 i 2 wynagrodzenie dla dostawcy EETS ustala się w analogiczny sposób jak wynagrodzenie wypłacane głównemu dostawcy przez podmiot pobierający opłaty na obszarze EETS.
+- **3)** na danym obszarze EETS świadczona jest tylko jedna usługa poboru opłat spełniająca warunki, o których mowa w pkt 1 i 2 – wynagrodzenie dla dostawcy EETS ustala się w analogiczny sposób jak wynagrodzenie wypłacane głównemu dostawcy przez podmiot pobierający opłaty na obszarze EETS.
 
 5. W przypadku określonym w ust. 4 przy ustalaniu wysokości wynagrodzenia dla dostawcy EETS nie uwzględnia się kosztów ponoszonych przez głównego dostawcę w związku ze świadczeniem usługi poboru opłat, do których ponoszenia nie są zobowiązani dostawcy EETS.
 
@@ -609,8 +652,17 @@ source: "eli-html"
 1. Podmiot pobierający opłaty na obszarze EETS może jednocześnie świadczyć usługę EETS, jeśli przepis szczególny tak stanowi. W takim przypadku podmiot ten zawiera umowy dotyczące obszarów EETS z innymi podmiotami pobierającymi opłaty na obszarach EETS. ” , w ust. 2 i 3 wyrazy „Podmiot pobierający opłaty, o którym mowa w art. 13i ust. 2,” zastępuje się wyrazami „Podmiot pobierający opłaty na obszarze EETS”;
 
 - **b)**
-- **27)** w art. 16v: w ust. 1: – w pkt 1 wyrazy „podmiotów pobierających opłaty, o których mowa w art. 13i ust. 2” zastępuje się wyrazami „podmiotów pobierających opłaty na obszarach EETS”, – w pkt 2 wyrazy „art. 16o pkt 3” zastępuje się wyrazami „art. 16o ust. 1 pkt 3”, – pkt 3 otrzymuje brzmienie: „ 3) obszarów EETS na terytorium Rzeczypospolitej Polskiej, obejmujące: a) rodzaj technologii stosowanej do poboru opłat, b) rodzaje i kategorie pojazdów podlegających opłacie, c) wysokość stawek opłat, d) drogę, odcinek drogi lub sieć dróg, na których pobierane są opłaty; ” , – w pkt 4 wyrazy „umowy z podmiotami pobierającymi opłaty, o których mowa w art. 13i ust. 2.” zastępuje się wyrazami „umowy dotyczące obszarów EETS;”, – dodaje się pkt 5 i 6 w brzmieniu: „ 5) wnioski z oceny niezależnego audytora, o których mowa w art. 16e ust. 4; 6) dane punktu kontaktowego dla dostawców EETS, w tym numer telefonu oraz adres poczty elektronicznej – w przypadku, o którym mowa w art. 16va ust. 1. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **27)** w art. 16v: w ust. 1: – w pkt 1 wyrazy „podmiotów pobierających opłaty, o których mowa w art. 13i ust. 2” zastępuje się wyrazami „podmiotów pobierających opłaty na obszarach EETS”, – w pkt 2 wyrazy „art. 16o pkt 3” zastępuje się wyrazami „art. 16o ust. 1 pkt 3”, pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** obszarów EETS na terytorium Rzeczypospolitej Polskiej, obejmujące: rodzaj technologii stosowanej do poboru opłat, rodzaje i kategorie pojazdów podlegających opłacie, wysokość stawek opłat, drogę, odcinek drogi lub sieć dróg, na których pobierane są opłaty; ” , – w pkt 4 wyrazy „umowy z podmiotami pobierającymi opłaty, o których mowa w art. 13i ust. 2.” zastępuje się wyrazami „umowy dotyczące obszarów EETS;”, dodaje się pkt 5 i 6 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **5)** wnioski z oceny niezależnego audytora, o których mowa w art. 16e ust. 4;
+- **6)** dane punktu kontaktowego dla dostawców EETS, w tym numer telefonu oraz adres poczty elektronicznej – w przypadku, o którym mowa w art. 16va ust. 1. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Minister właściwy do spraw transportu co najmniej raz w roku kalendarzowym weryfikuje prawidłowość informacji zawartych w rejestrze, o którym mowa w ust. 1. W tym celu minister może zwrócić się do podmiotów pobierających opłaty na obszarach EETS oraz do dostawców EETS o przekazanie stosownych informacji i wyjaśnień. ” ;
@@ -629,7 +681,7 @@ source: "eli-html"
 - **1)** zasad przeprowadzania oceny zgodności składników interoperacyjności EETS,
 - **2)** warunków i trybu udzielania akredytacji oraz zasad i trybu autoryzacji jednostek oceniających zgodność składników interoperacyjność EETS,
 - **3)** sposobu notyfikacji autoryzowanych jednostek oceniających zgodność składników interoperacyjności EETS,
-- **4)** zasad funkcjonowania systemu nadzoru nad wprowadzonymi do obrotu składnikami interoperacyjności EETS stosuje się przepisy ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku. ” , w ust. 2 wyrazy „załączniku II i III do decyzji 2009/750/WE” zastępuje się wyrazami „art. 16x ust. 1”, w ust. 3 po wyrazie „interoperacyjności” dodaje się wyraz „EETS”, ust. 4 otrzymuje brzmienie: „
+- **4)** zasad funkcjonowania systemu nadzoru nad wprowadzonymi do obrotu składnikami interoperacyjności EETS – stosuje się przepisy ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku. ” , w ust. 2 wyrazy „załączniku II i III do decyzji 2009/750/WE” zastępuje się wyrazami „art. 16x ust. 1”, w ust. 3 po wyrazie „interoperacyjności” dodaje się wyraz „EETS”, ust. 4 otrzymuje brzmienie: „
     - **b)**
     - **c)**
     - **d)**
@@ -770,8 +822,10 @@ source: "eli-html"
 
 6. W przypadku gdy Komisja Europejska poinformuje organ nadzoru rynku, o którym mowa w ust. 2, o uznaniu środka, o którym mowa w ust. 4, za nieuzasadniony, organ nadzoru rynku uznaje decyzję, o której mowa w ust. 4, za bezprzedmiotową i stwierdza jej wygaśnięcie. ” ;
 
-- **33)** w art. 16z: w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „podmiotem pobierającym opłaty, o którym mowa w art. 13i ust. 2,” zastępuje się wyrazami „podmiotem pobierającym opłaty na obszarze EETS”, – pkt 2 otrzymuje brzmienie: „ 2) umowy dotyczącej obszaru EETS ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **33)** w art. 16z: w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „podmiotem pobierającym opłaty, o którym mowa w art. 13i ust. 2,” zastępuje się wyrazami „podmiotem pobierającym opłaty na obszarze EETS”, pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** umowy dotyczącej obszaru EETS ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Komisja jest w szczególności uprawniona do sprawdzenia, czy:
@@ -823,8 +877,9 @@ source: "eli-html"
 8. Opłata za przejazd autostradą, o której mowa w ust. 7, może być wniesiona:
 
 - **1)** w sposób przewidziany dla opłaty elektronicznej na podstawie danych geolokalizacyjnych przekazanych z urządzeń lub systemów, o których mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych;
-- **2)** z wykorzystaniem usługi EETS w rozumieniu art. 4 pkt 41 ustawy z dnia 21 marca 1985 r. o drogach publicznych, na zasadach określonych w tej ustawie. ” , w ust. 28: – w pkt 1 w lit. b wyrazy „KAS;” zastępuje się wyrazami „KAS lub”, – dodaje się lit. c w brzmieniu: „ c) urządzenia, o którym mowa w art. 16l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, spełniającego wymagania określone w art. 16o ust. 1 pkt 2 tej ustawy; ” , w ust. 31: – we wprowadzeniu do wyliczenia wyrazy „ust. 8” zastępuje się wyrazami „ust. 8 pkt 1”, – w pkt 1 wyrazy „ust. 3a, 3b” zastępuje się wyrazami „31–3b”;
+- **2)** z wykorzystaniem usługi EETS w rozumieniu art. 4 pkt 41 ustawy z dnia 21 marca 1985 r. o drogach publicznych, na zasadach określonych w tej ustawie. ” , w ust. 28: – w pkt 1 w lit. b wyrazy „KAS;” zastępuje się wyrazami „KAS lub”, dodaje się lit. c w brzmieniu: „ urządzenia, o którym mowa w art. 16l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, spełniającego wymagania określone w art. 16o ust. 1 pkt 2 tej ustawy; ” , w ust. 31: – we wprowadzeniu do wyliczenia wyrazy „ust. 8” zastępuje się wyrazami „ust. 8 pkt 1”, – w pkt 1 wyrazy „ust. 3a, 3b” zastępuje się wyrazami „31–3b”;
     - **b)**
+    - **c)**
     - **c)**
 
 - **2)** po art. 37ge dodaje się art. 37gea w brzmieniu: „ Art. 37gea.
@@ -846,7 +901,7 @@ source: "eli-html"
 
 7. Wystawienie wezwania KPK wobec właściciela, posiadacza albo użytkownika pojazdu, którego dane ustalono w wyniku transgranicznej wymiany informacji, nie wyłącza możliwości zastosowania wobec tego podmiotu środków określonych w art. 37gg.
 
-8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wezwania KPK, mając na względzie wzór formularza określony w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/520 z dnia 19 marca 2019 r. w sprawie interoperacyjności systemów elektronicznego poboru opłat drogowych i ułatwiania transgranicznej wymiany informacji na temat przypadków nieuiszczenia opłat drogowych w Unii (Dz. Urz. UE L 91 z 29.03.2019, str. 45, z późn. zm.). ” ;
+8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wezwania KPK, mając na względzie wzór formularza określony w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/520 z dnia 19 marca 2019 r. w sprawie interoperacyjności systemów elektronicznego poboru opłat drogowych i ułatwiania transgranicznej wymiany informacji na temat przypadków nieuiszczenia opłat drogowych w Unii (Dz. Urz. UE L 91 z 29.03.2019, str. 45, z późn. zm.)Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 69 z 04.03.2022, str. 1.. ” ;
 
 - **3)** w art. 37gf: po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **a)**
@@ -864,7 +919,7 @@ source: "eli-html"
 
 - **5b)** koszty postępowania przed Komisją, o której mowa w art. 16z ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, ponoszone przez Szefa KAS; ” .
 
-**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.) po art. 80r dodaje się art. 80ra w brzmieniu: „ Art. 80ra. Krajowy Punkt Kontaktowy umożliwia ponadto wymianę informacji dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej na zasadach określonych w przepisach art. 13ma-13mc i art. 13me ustawy z dnia 21 marca 1985 r. o drogach publicznych oraz naruszeń obowiązku wnoszenia opłaty za przejazd autostradą na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760). ” .
+**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642.) po art. 80r dodaje się art. 80ra w brzmieniu: „ Art. 80ra. Krajowy Punkt Kontaktowy umożliwia ponadto wymianę informacji dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej na zasadach określonych w przepisach art. 13ma-13mc i art. 13me ustawy z dnia 21 marca 1985 r. o drogach publicznych oraz naruszeń obowiązku wnoszenia opłaty za przejazd autostradą na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760). ” .
 
 **Art. 4.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201) wprowadza się następujące zmiany:
 
@@ -962,5 +1017,5 @@ source: "eli-html"
 
 3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, minister właściwy do spraw informatyzacji określa wielkość środków przeznaczonych na wydatki w drugim półroczu w wysokości niepowodującej przekroczenia limitu wydatków na dany rok.
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa: 1) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/520 z dnia 19 marca 2019 r. w sprawie interoperacyjności systemów elektronicznego poboru opłat drogowych i ułatwiania transgranicznej wymiany informacji na temat przypadków nieuiszczenia opłat drogowych w Unii (Dz. Urz. UE L 91 z 29.03.2019, str. 45 oraz Dz. Urz. UE L 69 z 04.03.2022, str. 1); 2) służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2020/203 z dnia 28 listopada 2019 r. w sprawie klasyfikacji pojazdów, obowiązków użytkowników europejskiej usługi opłaty elektronicznej, wymogów dotyczących składników interoperacyjności oraz minimalnych kryteriów kwalifikowalności jednostek notyfikowanych (Dz. Urz. UE L 43 z 17.02.2020, str. 41); 3) służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2020/204 z dnia 28 listopada 2019 r. w sprawie szczegółowych obowiązków dostawców europejskiej usługi opłaty elektronicznej, minimalnej treści informacji o obszarze europejskiej usługi opłaty elektronicznej, interfejsów elektronicznych, wymogów dotyczących składników interoperacyjności oraz uchylenia decyzji 2009/750/WE (Dz. Urz. UE L 43 z 17.02.2020, str. 49). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg. 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 109. 4) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 69 z 04.03.2022, str. 1. 5) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 69 z 04.03.2022, str. 1. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642.
 

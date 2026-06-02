@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-09-08 |
-| Wejście w życie | 2015-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001326) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1326/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045 i 1273.) wprowadza się następujące zmiany:
 
 - **1)** w art. 83 po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
 
@@ -54,5 +53,5 @@ source: "eli-html"
 - **5)** zakres badań, jakie przedsiębiorca zamierza przeprowadzać;
 - **6)** imiona i nazwiska zatrudnionych diagnostów wraz numerami ich uprawnień. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045 i 1273.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości oraz ustawę z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-28 |
 | Data wydania | 2011-09-08 |
-| Wejście w życie | 2011-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111871110) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1110/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323 oraz z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789 i Nr 163, poz. 981.) wprowadza się następujące zmiany:
 
 - **1)** w art. 73 ust. 3 otrzymuje brzmienie: „
 
@@ -113,5 +112,5 @@ source: "eli-html"
 
 2. W przypadkach, w których istnieje konieczność wydania zarządzeń lub podjęcia uchwał uwzględniających przepisy wprowadzone art. 2 niniejszej ustawy, organ zawiesza postępowanie do czasu wydania zarządzeń lub podjęcia uchwał.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości oraz ustawę z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323 oraz z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789 i Nr 163, poz. 981.
 

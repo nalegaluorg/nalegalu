@@ -22,43 +22,36 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-06 |
 | Data wydania | 2015-03-10 |
-| Wejście w życie | 2015-03-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000335) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/335/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 18 § 1 pkt 1 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r. poz. 952, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 18 § 1 pkt 1 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r. poz. 952, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 448 i 1247 oraz z 2014 r. poz. 188 i 512.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 27 lutego 2006 r. w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. Nr 42, poz. 287 oraz z 2012 r. poz. 693) wprowadza się następujące zmiany:
 1)
 w § 15 w ust. 1:
 a)
-pkt 15 otrzymuje brzmienie:
-„
+pkt 15 otrzymuje brzmienie: „
 15)
-wykonywanie zadań wynikających z ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228 oraz z 2015 r. poz. 21);
-” ,
+wykonywanie zadań wynikających z ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228 oraz z 2015 r. poz. 21); ” ,
 b)
-w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 i 20 w brzmieniu:
-„
+w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 i 20 w brzmieniu: „
 19)
 udzielanie informacji na wnioski kierowane do sądu w trybie ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2014 r. poz. 782 i 1662);
 20)
-wykonywanie obowiązków administratora danych osobowych zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2014 r. poz. 1182 i 1662).
-” ;
+wykonywanie obowiązków administratora danych osobowych zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2014 r. poz. 1182 i 1662). ” ;
 2)
-w § 21 ust. 3 otrzymuje brzmienie:
-„
+w § 21 ust. 3 otrzymuje brzmienie: „
 3.
-Sekretariat sądu przyjmuje interesantów co najmniej przez 6 godzin w czasie urzędowania, a raz w tygodniu dodatkowo po południu do godz. 1800.
-” ;
+Sekretariat sądu przyjmuje interesantów co najmniej przez 6 godzin w czasie urzędowania, a raz w tygodniu dodatkowo po południu do godz. 1800. ” ;
 3)
 w § 68 uchyla się ust. 3 i 4;
 4)
 w § 126 uchyla się ust. 3 i 4;
 5)
-w dziale IV po rozdziale 4 dodaje się rozdziały 4a i 4b w brzmieniu:
-„
+w dziale IV po rozdziale 4 dodaje się rozdziały 4a i 4b w brzmieniu: „
+Postępowanie w sprawach europejskiego nakazu aresztowania i poszukiwań międzynarodowych
 § 140a.
 1.
 Wojskowy sąd okręgowy, wydając europejski nakaz aresztowania, zwany dalej „nakazem”, powinien dążyć do objęcia nim wszystkich spraw, w których oskarżony (skazany) jest poszukiwany.
@@ -105,6 +98,7 @@ W przypadku uchylenia postanowienia, o którym mowa w ust. 1, wojskowy sąd okr�
 Przepisy § 140c ust. 1, 2, 4 i 5 oraz § 140e stosuje się odpowiednio w przypadku ustalenia, że osoba ścigana przebywa lub gdy istnieje podejrzenie, że może ona przebywać na terytorium państwa uczestniczącego w SIS II niebędącego państwem członkowskim Unii Europejskiej.
 § 140g.
 W razie niedotrzymania ustawowych terminów do rozpoznania sprawy w przedmiocie wykonania nakazu wydanego przez inne państwo, wojskowy sąd okręgowy właściwy do rozpoznania sprawy niezwłocznie zawiadamia o tym Ministerstwo Sprawiedliwości, wskazując przyczyny niedotrzymania terminów.
+Dostęp do danych Systemu Informacyjnego Schengen drugiej generacji
 § 140h.
 Do czynności prezesa sądu należy zapewnienie organizacyjnych i technicznych mechanizmów zabezpieczających dane SIS II przed nieuprawnionym dostępem, zniszczeniem, zmianą lub ich utratą, jak również zapewnienie zgodności podejmowanych w danym sądzie działań z obowiązującymi przepisami o dostępie do danych SIS II.
 § 140i.
@@ -137,29 +131,24 @@ Po każdorazowym wglądzie lub przetworzeniu danych w SIS II tworzy się wydruk 
 2.
 Wydruki, które nie są przydatne dla postępowania, podlegają zniszczeniu.
 § 140q.
-W przypadku braku bezpośredniego dostępu do danych SIS II spowodowanego przyczynami niezależnymi od sądu wpisów do SIS II dokonuje się za pośrednictwem Biura Służby Kryminalnej Komendy Głównej Policji.
-” ;
+W przypadku braku bezpośredniego dostępu do danych SIS II spowodowanego przyczynami niezależnymi od sądu wpisów do SIS II dokonuje się za pośrednictwem Biura Służby Kryminalnej Komendy Głównej Policji. ” ;
 6)
 w § 144 uchyla się ust. 2;
 7)
 uchyla się § 150;
 8)
-§ 153 otrzymuje brzmienie:
-„
+§ 153 otrzymuje brzmienie: „
 § 153.
 1.
 Każde orzeczenie, które staje się wykonalne z chwilą uprawomocnienia, powinno być skierowane do wykonania bezzwłocznie, nie później niż 7 dni od daty uprawomocnienia lub od daty zwrotu akt sądowi pierwszej instancji.
 2.
 Datę skierowania orzeczenia do wykonania stanowi data podpisania przez prezesa sądu lub upoważnionego sędziego zarządzenia o jego wykonaniu.
 3.
-Nieprawomocne orzeczenia wymagające natychmiastowej wykonalności powinny być skierowane do wykonania w dniu ich wydania.
-” ;
+Nieprawomocne orzeczenia wymagające natychmiastowej wykonalności powinny być skierowane do wykonania w dniu ich wydania. ” ;
 9)
-§ 154 otrzymuje brzmienie:
-„
+§ 154 otrzymuje brzmienie: „
 § 154.
-Jeżeli orzeczenie ma być wykonywane w okręgu innego sądu niż sąd, który je wydał w pierwszej instancji, należy przesłać temu sądowi odpis orzeczenia wraz z uzasadnieniem, jeżeli zostało sporządzone, ze wzmianką o wykonalności, oraz odpisy dokumentów z akt sprawy niezbędnych dla prawidłowego wykonania tego orzeczenia.
-” ;
+Jeżeli orzeczenie ma być wykonywane w okręgu innego sądu niż sąd, który je wydał w pierwszej instancji, należy przesłać temu sądowi odpis orzeczenia wraz z uzasadnieniem, jeżeli zostało sporządzone, ze wzmianką o wykonalności, oraz odpisy dokumentów z akt sprawy niezbędnych dla prawidłowego wykonania tego orzeczenia. ” ;
 10)
 uchyla się § 155;
 11)
@@ -167,54 +156,41 @@ w dziale V tytuł rozdziału 2 otrzymuje brzmienie: „Kara pozbawienia wolnośc
 12)
 w § 156:
 a)
-po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
 1a.
 Przepis ust. 1 ma zastosowanie do orzeczeń sądu dotyczących kary aresztu wojskowego, kary aresztu, kary porządkowej oraz środka przymusu skutkującego pozbawieniem wolności.
 1b.
-Jeżeli przepisy niniejszego działu używają w znaczeniu ogólnym określenia „skazany”, należy przez to rozumieć również osobę, wobec której zastosowano karę porządkową lub środek przymusu skutkujący pozbawieniem wolności.
-” ,
+Jeżeli przepisy niniejszego działu używają w znaczeniu ogólnym określenia „skazany”, należy przez to rozumieć również osobę, wobec której zastosowano karę porządkową lub środek przymusu skutkujący pozbawieniem wolności. ” ,
 b)
-ust. 2−4 otrzymują brzmienie:
-„
+ust. 2−4 otrzymują brzmienie: „
 2.
 Prezes sądu lub upoważniony sędzia wzywa skazanego do stawienia się w wyznaczonym terminie we właściwym zakładzie karnym lub areszcie śledczym położonym najbliżej miejsca jego stałego pobytu. Wezwanie powinno zawierać pouczenie o skutkach niestawiennictwa. W przypadku gdy skazany jest pozbawiony wolności, prezes sądu lub upoważniony sędzia bezzwłocznie przesyła do zakładu karnego lub aresztu śledczego, w którym skazany przebywa, dokumentację dotyczącą wykonania kary pozbawienia wolności. O terminie wyznaczonym skazanemu do stawiennictwa prezes sądu lub upoważniony sędzia zawiadamia administrację właściwego aresztu śledczego położonego najbliżej miejsca stałego pobytu skazanego, zobowiązując ją jednocześnie do zawiadomienia sądu o niezgłoszeniu się skazanego w tym terminie.
 3.
 Polecając Żandarmerii Wojskowej lub Policji doprowadzenie skazanego do zakładu karnego lub aresztu śledczego, prezes sądu lub upoważniony sędzia przesyła jednostce Policji lub Żandarmerii Wojskowej właściwej według ostatniego miejsca zamieszkania lub pobytu skazanego nakaz doprowadzenia, wskazując zakład karny lub areszt śledczy, do którego doprowadzenie ma nastąpić.
 4.
-W razie zawieszenia postępowania wykonawczego lub odroczenia wykonania kary pozbawienia wolności, co do której orzeczenie skierowano do wykonania, prezes sądu lub upoważniony sędzia niezwłocznie przesyła odpis postanowienia o zawieszeniu lub odroczeniu do właściwego zakładu karnego lub aresztu śledczego oraz zawiadamia jednostkę Żandarmerii Wojskowej lub Policji, której polecono doprowadzenie skazanego.
-” ;
+W razie zawieszenia postępowania wykonawczego lub odroczenia wykonania kary pozbawienia wolności, co do której orzeczenie skierowano do wykonania, prezes sądu lub upoważniony sędzia niezwłocznie przesyła odpis postanowienia o zawieszeniu lub odroczeniu do właściwego zakładu karnego lub aresztu śledczego oraz zawiadamia jednostkę Żandarmerii Wojskowej lub Policji, której polecono doprowadzenie skazanego. ” ;
 13)
 uchyla się § 157;
 14)
-w § 158 ust. 1 otrzymuje brzmienie:
-„
+w § 158 ust. 1 otrzymuje brzmienie: „
 1.
-W razie odroczenia wykonania kary pozbawienia wolności żołnierzowi lub osobie powołanej do czynnej służby wojskowej, sąd zawiadamia o tym odpowiedniego dowódcę lub właściwą wojskową komendę uzupełnień, pouczając o treści art. 157 k.k.w.
-” ;
+W razie odroczenia wykonania kary pozbawienia wolności żołnierzowi lub osobie powołanej do czynnej służby wojskowej, sąd zawiadamia o tym odpowiedniego dowódcę lub właściwą wojskową komendę uzupełnień, pouczając o treści art. 157 k.k.w. ” ;
 15)
-w § 160 ust. 1 otrzymuje brzmienie:
-„
+w § 160 ust. 1 otrzymuje brzmienie: „
 1.
-W razie gdy osobę, wobec której warunkowo zawieszono wykonanie kary lub którą warunkowo przedterminowo zwolniono, oddano pod dozór, który ma być wykonany w okręgu innego sądu, sąd, który orzekł dozór w pierwszej instancji, przesyła odpis lub wypis z orzeczenia w tym przedmiocie ze wzmianką o wykonalności właściwemu sądowi wojskowemu, w którego okręgu dozór ma być wykonywany, dołączając odpisy dokumentów z akt sprawy, niezbędnych dla prawidłowego wykonywania dozoru.
-” ;
+W razie gdy osobę, wobec której warunkowo zawieszono wykonanie kary lub którą warunkowo przedterminowo zwolniono, oddano pod dozór, który ma być wykonany w okręgu innego sądu, sąd, który orzekł dozór w pierwszej instancji, przesyła odpis lub wypis z orzeczenia w tym przedmiocie ze wzmianką o wykonalności właściwemu sądowi wojskowemu, w którego okręgu dozór ma być wykonywany, dołączając odpisy dokumentów z akt sprawy, niezbędnych dla prawidłowego wykonywania dozoru. ” ;
 16)
-w § 161 ust. 1 otrzymuje brzmienie:
-„
+w § 161 ust. 1 otrzymuje brzmienie: „
 1.
-W celu wykonania wyroku skazującego żołnierza na karę ograniczenia wolności sąd właściwy do wykonania orzeczenia przesyła jego prawomocny odpis wraz ze wzmianką o wykonalności dowódcy jednostki wojskowej, w której skazany pełni służbę, albo innemu właściwemu dowódcy, jeżeli przemawiają za tym ważne względy służbowe lub jeżeli w jednostce wojskowej, w której skazany pełni służbę, brak jest warunków do odbywania kary.
-” ;
+W celu wykonania wyroku skazującego żołnierza na karę ograniczenia wolności sąd właściwy do wykonania orzeczenia przesyła jego prawomocny odpis wraz ze wzmianką o wykonalności dowódcy jednostki wojskowej, w której skazany pełni służbę, albo innemu właściwemu dowódcy, jeżeli przemawiają za tym ważne względy służbowe lub jeżeli w jednostce wojskowej, w której skazany pełni służbę, brak jest warunków do odbywania kary. ” ;
 17)
-§ 162 otrzymuje brzmienie:
-„
+§ 162 otrzymuje brzmienie: „
 § 162.
-W razie orzeczenia potrącenia skazanemu żołnierzowi procentowo określonej części uposażenia sąd podaje właściwemu dowódcy okres, przez który należy dokonywać potrąceń, wskazuje, na czyją rzecz należy przekazywać potrącone sumy, oraz poleca zawiadomić sąd o ich każdorazowym dokonaniu. O potrąceniach powiadamia się też podmiot, na którego rzecz mają one nastąpić.
-” ;
+W razie orzeczenia potrącenia skazanemu żołnierzowi procentowo określonej części uposażenia sąd podaje właściwemu dowódcy okres, przez który należy dokonywać potrąceń, wskazuje, na czyją rzecz należy przekazywać potrącone sumy, oraz poleca zawiadomić sąd o ich każdorazowym dokonaniu. O potrąceniach powiadamia się też podmiot, na którego rzecz mają one nastąpić. ” ;
 18)
 w § 163 uchyla się ust. 3;
 19)
-§ 164 otrzymuje brzmienie:
-„
+§ 164 otrzymuje brzmienie: „
 § 164.
 1.
 W celu wykonania wyroku skazującego na karę ograniczenia wolności osób niebędących żołnierzami właściwy sąd wojskowy przesyła odpis wyroku sądowi rejonowemu, o którym mowa w art. 55 § 1 k.k.w. Właściwy organ postępowania wykonawczego przesyła następnie odpis lub wypis wyroku ze wzmianką o wykonalności:
@@ -225,80 +201,58 @@ podmiotowi zatrudniającemu skazanego – w przypadku orzeczenia potrącenia wyn
 2.
 Do odpisu lub wyciągu z wyroku dołącza się pouczenie o obowiązku zawiadomienia właściwego organu postępowania wykonawczego o dacie rozpoczęcia wykonywania kary ograniczenia wolności oraz o obowiązkach, o których mowa w art. 58 § 1 i 2 oraz art. 59 k.k.w.
 3.
-Podmioty, o których mowa w art. 56 k.k.w., należy pouczyć o treści art. 83 k.k.
-” ;
+Podmioty, o których mowa w art. 56 k.k.w., należy pouczyć o treści art. 83 k.k. ” ;
 20)
-§ 165 otrzymuje brzmienie:
-„
+§ 165 otrzymuje brzmienie: „
 § 165.
-W razie udzielenia przerwy lub odroczenia żołnierzowi albo osobie powołanej do czynnej służby wojskowej wykonania kary ograniczenia wolności sąd zawiadamia o tym odpowiedniego dowódcę lub właściwą wojskową komendę uzupełnień, pouczając o obowiązku niezwłocznego poinformowania sądu o zwolnieniu skazanego ze służby.
-” ;
+W razie udzielenia przerwy lub odroczenia żołnierzowi albo osobie powołanej do czynnej służby wojskowej wykonania kary ograniczenia wolności sąd zawiadamia o tym odpowiedniego dowódcę lub właściwą wojskową komendę uzupełnień, pouczając o obowiązku niezwłocznego poinformowania sądu o zwolnieniu skazanego ze służby. ” ;
 21)
 w § 169:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-W celu wykonania grzywny prezes lub upoważniony sędzia sądu, który wydał wyrok w pierwszej instancji, a w wypadkach wskazanych w ustawie sąd właściwy ze względu na miejsce stałego pobytu skazanego, bezzwłocznie zarządza wpisanie grzywny do wykazu należności sądowych i wzywa skazanego do jej uiszczenia w terminie ustawowym. Wezwanie powinno zawierać pouczenie o skutkach nieuiszczenia grzywny w wyznaczonym terminie.
-” ,
+W celu wykonania grzywny prezes lub upoważniony sędzia sądu, który wydał wyrok w pierwszej instancji, a w wypadkach wskazanych w ustawie sąd właściwy ze względu na miejsce stałego pobytu skazanego, bezzwłocznie zarządza wpisanie grzywny do wykazu należności sądowych i wzywa skazanego do jej uiszczenia w terminie ustawowym. Wezwanie powinno zawierać pouczenie o skutkach nieuiszczenia grzywny w wyznaczonym terminie. ” ,
 b)
 uchyla się ust. 2,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-W razie stwierdzenia bezskuteczności egzekucji grzywny nieprzekraczającej 120 stawek dziennych, prezes sądu lub upoważniony sędzia może zarządzić posiedzenie w przedmiocie jej zamiany na pracę społecznie użyteczną. Przed zarządzeniem posiedzenia prezes sądu lub upoważniony sędzia może skierować do skazanego pismo o wyrażenie zgody na zamianę grzywny na pracę społecznie użyteczną.
-” ;
+W razie stwierdzenia bezskuteczności egzekucji grzywny nieprzekraczającej 120 stawek dziennych, prezes sądu lub upoważniony sędzia może zarządzić posiedzenie w przedmiocie jej zamiany na pracę społecznie użyteczną. Przed zarządzeniem posiedzenia prezes sądu lub upoważniony sędzia może skierować do skazanego pismo o wyrażenie zgody na zamianę grzywny na pracę społecznie użyteczną. ” ;
 22)
-§ 170 otrzymuje brzmienie:
-„
+§ 170 otrzymuje brzmienie: „
 § 170.
-W celu wykonania orzeczenia w przedmiocie zastępczej kary pozbawienia wolności lub zastępczej kary aresztu, prezes sądu lub upoważniony sędzia podejmuje czynności zmierzające do osadzenia skazanego w zakładzie karnym lub areszcie śledczym, określone w art. 11 k.k.w. i innych przepisach.
-” ;
+W celu wykonania orzeczenia w przedmiocie zastępczej kary pozbawienia wolności lub zastępczej kary aresztu, prezes sądu lub upoważniony sędzia podejmuje czynności zmierzające do osadzenia skazanego w zakładzie karnym lub areszcie śledczym, określone w art. 11 k.k.w. i innych przepisach. ” ;
 23)
 w § 171:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Prezes sądu lub upoważniony sędzia wzywa skazanego celem odbycia zastępczej kary pozbawienia wolności lub zastępczej kary aresztu do stawienia się w wyznaczonym terminie w zakładzie karnym lub areszcie śledczym, położonym najbliżej jego miejsca stałego pobytu. Wezwanie powinno zawierać pouczenie o skutkach niestawiennictwa określonych w art. 79 § 2 k.k.w. oraz o treści art. 47 § 2 k.k.w.
-” ,
+Prezes sądu lub upoważniony sędzia wzywa skazanego celem odbycia zastępczej kary pozbawienia wolności lub zastępczej kary aresztu do stawienia się w wyznaczonym terminie w zakładzie karnym lub areszcie śledczym, położonym najbliżej jego miejsca stałego pobytu. Wezwanie powinno zawierać pouczenie o skutkach niestawiennictwa określonych w art. 79 § 2 k.k.w. oraz o treści art. 47 § 2 k.k.w. ” ,
 b)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-W przypadku gdy skazany jest pozbawiony wolności, prezes sądu lub upoważniony sędzia bezzwłocznie po uprawomocnieniu przesyła do zakładu karnego lub aresztu śledczego, w którym skazany przebywa, dokumentację dotyczącą wykonania zastępczej kary pozbawienia wolności lub zastępczej kary aresztu.
-” ,
+W przypadku gdy skazany jest pozbawiony wolności, prezes sądu lub upoważniony sędzia bezzwłocznie po uprawomocnieniu przesyła do zakładu karnego lub aresztu śledczego, w którym skazany przebywa, dokumentację dotyczącą wykonania zastępczej kary pozbawienia wolności lub zastępczej kary aresztu. ” ,
 c)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-W razie zawieszenia postępowania wykonawczego lub warunkowego zawieszenia, odroczenia albo wstrzymania wykonania zastępczej kary pozbawienia wolności lub zastępczej kary aresztu, prezes sądu albo upoważniony sędzia niezwłocznie zawiadamia o tym właściwy zakład karny lub areszt śledczy i jednostkę Policji lub Żandarmerii Wojskowej, której polecono doprowadzenie skazanego do tejże jednostki penitencjarnej. Jeżeli skazanym jest żołnierz lub osoba powołana do czynnej służby wojskowej, zawiadamia się również odpowiedniego dowódcę lub właściwą wojskową komendę uzupełnień.
-” ;
+W razie zawieszenia postępowania wykonawczego lub warunkowego zawieszenia, odroczenia albo wstrzymania wykonania zastępczej kary pozbawienia wolności lub zastępczej kary aresztu, prezes sądu albo upoważniony sędzia niezwłocznie zawiadamia o tym właściwy zakład karny lub areszt śledczy i jednostkę Policji lub Żandarmerii Wojskowej, której polecono doprowadzenie skazanego do tejże jednostki penitencjarnej. Jeżeli skazanym jest żołnierz lub osoba powołana do czynnej służby wojskowej, zawiadamia się również odpowiedniego dowódcę lub właściwą wojskową komendę uzupełnień. ” ;
 24)
-po § 171 dodaje się § 171a w brzmieniu:
-„
+po § 171 dodaje się § 171a w brzmieniu: „
 § 171a.
 1.
 Prezes sądu lub upoważniony sędzia przekazuje na rachunek bankowy dysponenta Funduszu Pracy uiszczoną przez skazanego lub ściągniętą w drodze egzekucji grzywnę, orzeczoną za wykroczenie z art. 120−123 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149).
 2.
-W przypadku gdy skazany częściowo uiścił grzywnę lub gdy częściowo została ona ściągnięta w drodze egzekucji, a pozostałą część kary wykonał w formie pracy społecznie użytecznej, o której mowa w art. 45 k.k.w., lub zastępczej kary pozbawienia wolności, o której mowa w art. 46 k.k.w., prezes sądu lub upoważniony sędzia częściowo uiszczoną lub częściowo ściągniętą w drodze egzekucji grzywnę przekazuje na rachunek bankowy dysponenta Funduszu Pracy i informuje go o wykonaniu przez skazanego kary w całości.
-” ;
+W przypadku gdy skazany częściowo uiścił grzywnę lub gdy częściowo została ona ściągnięta w drodze egzekucji, a pozostałą część kary wykonał w formie pracy społecznie użytecznej, o której mowa w art. 45 k.k.w., lub zastępczej kary pozbawienia wolności, o której mowa w art. 46 k.k.w., prezes sądu lub upoważniony sędzia częściowo uiszczoną lub częściowo ściągniętą w drodze egzekucji grzywnę przekazuje na rachunek bankowy dysponenta Funduszu Pracy i informuje go o wykonaniu przez skazanego kary w całości. ” ;
 25)
-w § 174 ust. 1 otrzymuje brzmienie:
-„
+w § 174 ust. 1 otrzymuje brzmienie: „
 1.
-W celu wykonania środka karnego przepadku przedmiotów lub ściągnięcia kwoty pieniężnej będącej równowartością przedmiotów, których przepadku nie można było orzec, korzyści osiągniętych z przestępstwa albo równowartości takich korzyści, po bezskutecznym upływie terminu do uiszczenia, należy wysłać wypis lub wyciąg wyroku urzędowi skarbowemu właściwemu ze względu na siedzibę sądu orzekającego w pierwszej instancji.
-” ;
+W celu wykonania środka karnego przepadku przedmiotów lub ściągnięcia kwoty pieniężnej będącej równowartością przedmiotów, których przepadku nie można było orzec, korzyści osiągniętych z przestępstwa albo równowartości takich korzyści, po bezskutecznym upływie terminu do uiszczenia, należy wysłać wypis lub wyciąg wyroku urzędowi skarbowemu właściwemu ze względu na siedzibę sądu orzekającego w pierwszej instancji. ” ;
 26)
-w § 179 dodaje się ust. 4 w brzmieniu:
-„
+w § 179 dodaje się ust. 4 w brzmieniu: „
 4.
-Sąd poucza kierownika zakładu psychiatrycznego lub zamkniętego zakładu leczenia odwykowego, w którym wykonywany jest środek zabezpieczający, o wynikającym z art. 203 k.k.w. obowiązku przesyłania opinii o stanie zdrowia sprawcy umieszczonego w tym zakładzie oraz o skutkach jego niewykonania.
-” ;
+Sąd poucza kierownika zakładu psychiatrycznego lub zamkniętego zakładu leczenia odwykowego, w którym wykonywany jest środek zabezpieczający, o wynikającym z art. 203 k.k.w. obowiązku przesyłania opinii o stanie zdrowia sprawcy umieszczonego w tym zakładzie oraz o skutkach jego niewykonania. ” ;
 27)
-po § 179 dodaje się § 179a w brzmieniu:
-„
+po § 179 dodaje się § 179a w brzmieniu: „
 § 179a.
 1.
 Wobec sprawcy skazanego za przestępstwo skierowane przeciwko wolności seksualnej, popełnione w związku z zaburzeniami preferencji seksualnych, wobec którego orzeczono środek zabezpieczający określony w art. 95a k.k., sąd, który wydał orzeczenie w pierwszej instancji, po uprzednim zasięgnięciu opinii właściwych biegłych, nie później niż do 6 miesięcy przed opuszczeniem zakładu karnego w związku z przewidywanym warunkowym zwolnieniem lub przed końcem kary, kieruje sprawę na posiedzenie w przedmiocie ustalenia potrzeby i sposobu wykonywania środka zabezpieczającego, o którym mowa w art. 95a § 1 k.k., albo sposobu wykonywania środka zabezpieczającego, o którym mowa w art. 95a § 1a k.k.
@@ -311,18 +265,15 @@ Sąd poucza kierownika zakładu zamkniętego, w którym wykonywany jest środek 
 5.
 Sąd, po określeniu przez jednostkę organizacyjną utworzoną lub nadzorowaną przez ministra właściwego do spraw zdrowia, o której mowa w ust. 2, zakładu ambulatoryjnego, w którym sprawca ma obowiązek podjąć stosowne leczenie, bezzwłocznie przesyła odpis orzeczenia: sprawcy, właściwej jednostce wraz z nakazem doprowadzenia i kierownikowi zakładu ambulatoryjnego wraz z nakazem przyjęcia oraz poucza kierownika zakładu ambulatoryjnego, w którym wykonywany jest środek zabezpieczający orzeczony na podstawie art. 95a k.k., o obowiązku niezwłocznego poinformowania sądu o niestawiennictwie sprawcy na leczenie ambulatoryjne. O konsekwencjach uchylania się od leczenia ambulatoryjnego sąd poucza sprawcę wraz z doręczeniem mu odpisu postanowienia o skierowaniu na leczenie ambulatoryjne.
 6.
-Po przekazaniu do dyspozycji sądu sprawcy zatrzymanego w związku z niestawieniem się na leczenie ambulatoryjne, sąd niezwłocznie kieruje sprawę na posiedzenie w przedmiocie rozstrzygnięcia, o którym mowa w art. 95a § 2b k.k. Odpis postanowienia doręcza się: sprawcy, Policji wraz z nakazem doprowadzenia, kierownikowi najbliższego zakładu zamkniętego wraz z nakazem przyjęcia oraz kierownikowi zakładu ambulatoryjnego i zarządza niezwłoczne doprowadzenie sprawcy do zakładu zamkniętego, występując jednocześnie do odpowiedniej w sprawach seksuologii sądowej jednostki organizacyjnej utworzonej lub nadzorowanej przez ministra właściwego do spraw zdrowia o wskazanie miejsca wykonywania środka zabezpieczającego. Przepisy ust. 2, 3 i 4 stosuje się odpowiednio.
-” ;
+Po przekazaniu do dyspozycji sądu sprawcy zatrzymanego w związku z niestawieniem się na leczenie ambulatoryjne, sąd niezwłocznie kieruje sprawę na posiedzenie w przedmiocie rozstrzygnięcia, o którym mowa w art. 95a § 2b k.k. Odpis postanowienia doręcza się: sprawcy, Policji wraz z nakazem doprowadzenia, kierownikowi najbliższego zakładu zamkniętego wraz z nakazem przyjęcia oraz kierownikowi zakładu ambulatoryjnego i zarządza niezwłoczne doprowadzenie sprawcy do zakładu zamkniętego, występując jednocześnie do odpowiedniej w sprawach seksuologii sądowej jednostki organizacyjnej utworzonej lub nadzorowanej przez ministra właściwego do spraw zdrowia o wskazanie miejsca wykonywania środka zabezpieczającego. Przepisy ust. 2, 3 i 4 stosuje się odpowiednio. ” ;
 28)
-§ 182 otrzymuje brzmienie:
-„
+§ 182 otrzymuje brzmienie: „
 § 182.
-Odwołania od decyzji podjętych w trybie art. 36 ust. 1 pkt 2 i ust. 2 oraz art. 38 ust. 1, a także art. 41 ust. 6 ustawy z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. Nr 190, poz. 1474 oraz z 2012 r. poz. 1529) oraz wnioski o wymierzenie kary aresztu izolacyjnego z art. 88 ust. 5 tej ustawy rozpoznaje się niezwłocznie.
-” .
+Odwołania od decyzji podjętych w trybie art. 36 ust. 1 pkt 2 i ust. 2 oraz art. 38 ust. 1, a także art. 41 ust. 6 ustawy z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. Nr 190, poz. 1474 oraz z 2012 r. poz. 1529) oraz wnioski o wymierzenie kary aresztu izolacyjnego z art. 88 ust. 5 tej ustawy rozpoznaje się niezwłocznie. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 448 i 1247 oraz z 2014 r. poz. 188 i 512.
 
-#### Rozdział 4a Postępowanie w sprawach europejskiego nakazu aresztowania i poszukiwań międzynarodowych
+#### Rozdział 4a
 
-#### Rozdział 4b Dostęp do danych Systemu Informacyjnego Schengen drugiej generacji
+#### Rozdział 4b
 

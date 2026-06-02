@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw
+# Ustawa z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 20 lipca 2017 r. – Prawo wodne, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 17 grudnia 2021 r. o dodatku osłonowym, ustawę z dnia 5 sierpnia 2022 r. o dodatku węglowym, ustawę z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej, ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz ustawę z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-02-08 |
 | Data wydania | 2023-02-14 |
-| Wejście w życie | 2023-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000295) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/295/text.pdf) |
 
@@ -68,18 +67,20 @@ source: "eli-html"
 4. W przypadku gdy w okresie od dnia 1 marca 2023 r. do dnia 31 grudnia 2023 r. maksymalna cena dostawy ciepła, o której mowa w ust. 2 pkt 1 albo ust. 3 pkt 2, jest w danym miesięcznym okresie rozliczeniowym wyższa od:
 
 - **1)** średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w art. 3 ust. 3, obliczonej dla danego systemu ciepłowniczego, powiększonej o średnią stawkę opłat za usługi przesyłowe w tym systemie ciepłowniczym albo
-- **2)** ceny dostawy ciepła obliczonej na podstawie stosowanej taryfy dla ciepła w danym systemie ciepłowniczym przedsiębiorstwo energetyczne, o którym mowa w ust. 1 i 3, stosuje w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, w tym okresie rozliczeniowym, cenę najniższą z określonych w pkt 1 i 2. ” ;
-- **6)** w art. 4: w ust. 1: – we wprowadzeniu do wyliczenia po wyrazach „Średnią cenę wytwarzania ciepła z rekompensatą” dodaje się wyrazy „lub maksymalną cenę dostawy ciepła”, – w pkt 4 w lit. s kropkę zastępuje się przecinkiem i dodaje się lit. t w brzmieniu: „ t) jednostką organizacyjną publicznej służby krwi, o której mowa w art. 4 ust. 3 pkt 2–4 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2021 r. poz. 1749 oraz z 2022 r. poz. 974 i 2280), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności. ” , w ust. 2: – we wprowadzeniu do wyliczenia po wyrazach „Średniej ceny wytwarzania ciepła z rekompensatą” dodaje się wyrazy „i maksymalnej ceny dostawy ciepła”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu (Dz. U. poz. 2687); ” ;
+- **2)** ceny dostawy ciepła obliczonej na podstawie stosowanej taryfy dla ciepła w danym systemie ciepłowniczym – przedsiębiorstwo energetyczne, o którym mowa w ust. 1 i 3, stosuje w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, w tym okresie rozliczeniowym, cenę najniższą z określonych w pkt 1 i 2. ” ;
+- **6)** w art. 4: w ust. 1: – we wprowadzeniu do wyliczenia po wyrazach „Średnią cenę wytwarzania ciepła z rekompensatą” dodaje się wyrazy „lub maksymalną cenę dostawy ciepła”, w pkt 4 w lit. s kropkę zastępuje się przecinkiem i dodaje się lit. t w brzmieniu: „ jednostką organizacyjną publicznej służby krwi, o której mowa w art. 4 ust. 3 pkt 2–4 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2021 r. poz. 1749 oraz z 2022 r. poz. 974 i 2280), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności. ” , w ust. 2: – we wprowadzeniu do wyliczenia po wyrazach „Średniej ceny wytwarzania ciepła z rekompensatą” dodaje się wyrazy „i maksymalnej ceny dostawy ciepła”, po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
+    - **t)**
     - **b)**
 
+- **2a)** ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu (Dz. U. poz. 2687); ” ;
 - **7)** w art. 5: ust. 3 otrzymuje brzmienie: „
     - **a)**
 
 3. Osoba działająca w imieniu i na rzecz odbiorcy, o którym mowa w art. 4 ust. 1 pkt 2 i 3, która mimo ciążącego na niej obowiązku nie złożyła oświadczenia, o którym mowa w ust. 1, albo w oświadczeniu tym określiła szacowaną ilość ciepła, która będzie zużywana na potrzeby, o których mowa w art. 4 ust. 1 pkt 2 lub 3, w sposób rażąco sprzeczny z ust. 2, ponosi na zasadzie winy odpowiedzialność wobec mieszkańców lokali, o których mowa w art. 4 ust. 1 pkt 2 lub 3, do kwoty stanowiącej iloczyn różnicy:
 
 - **1)** średniej ceny wytwarzania ciepła i średniej ceny wytwarzania ciepła z rekompensatą,
-- **2)** ceny dostawy ciepła i maksymalnej ceny dostawy ciepła oraz ilości ciepła dostarczonego na potrzeby, o których mowa w art. 4 ust. 1 pkt 2 lub 3. ” , w ust. 4 i 5 po wyrazach „średniej ceny wytwarzania ciepła z rekompensatą” dodaje się wyrazy „lub maksymalnej ceny dostawy ciepła”;
+- **2)** ceny dostawy ciepła i maksymalnej ceny dostawy ciepła – oraz ilości ciepła dostarczonego na potrzeby, o których mowa w art. 4 ust. 1 pkt 2 lub 3. ” , w ust. 4 i 5 po wyrazach „średniej ceny wytwarzania ciepła z rekompensatą” dodaje się wyrazy „lub maksymalnej ceny dostawy ciepła”;
     - **b)**
 
 - **8)** w art. 6: w ust. 1 i 4–6 po wyrazach „średniej ceny wytwarzania ciepła z rekompensatą” dodaje się wyrazy „lub maksymalnej ceny dostawy ciepła”, ust. 3 otrzymuje brzmienie: „
@@ -89,7 +90,7 @@ source: "eli-html"
 3. Osoba działająca w imieniu i na rzecz odbiorcy, o którym mowa w art. 4 ust. 1 pkt 4, która mimo ciążącego na niej obowiązku nie złożyła oświadczenia, o którym mowa w ust. 1, albo w oświadczeniu tym określiła szacowaną ilość ciepła, która będzie zużywana na potrzeby, o których mowa w ust. 1 pkt 2, w sposób rażąco sprzeczny z ust. 2, ponosi na zasadzie winy odpowiedzialność wobec podmiotu określonego w art. 4 ust. 1 pkt 4 do kwoty stanowiącej iloczyn różnicy:
 
 - **1)** średniej ceny wytwarzania ciepła wytwórcy i średniej ceny wytwarzania ciepła z rekompensatą,
-- **2)** ceny dostawy ciepła i maksymalnej ceny dostawy ciepła oraz ilości ciepła zużytego na potrzeby, o których mowa w ust. 1 pkt 2. ” ;
+- **2)** ceny dostawy ciepła i maksymalnej ceny dostawy ciepła – oraz ilości ciepła zużytego na potrzeby, o których mowa w ust. 1 pkt 2. ” ;
 - **9)** w art. 11 dodaje się ust. 3 w brzmieniu: „
 
 3. Przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 lub 3, oraz sprzedawca ciepła, o którym mowa w art. 12c ust. 1, stosujący maksymalną cenę dostawy ciepła lub cenę najniższą, o której mowa w art. 3a ust. 4, zaliczają wypłacone wyrównanie, o którym mowa w art. 12a ust. 1, oraz dodatkowe wyrównanie, o którym mowa w art. 31a ust. 1, pomniejszone o kwotę podatku od towarów i usług dla dostaw ciepła, do przychodów ze sprzedaży ciepła lub do przychodów za świadczenie usług przesyłowych. ” ;
@@ -229,7 +230,7 @@ source: "eli-html"
 
 - **16)** art. 28 otrzymuje brzmienie: „
 
-**Art. 28.** Rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1 i 2, wyrównania, dodatki dla gospodarstw domowych oraz dodatki dla podmiotów wrażliwych są finansowane z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.), zwanego dalej „Funduszem”. ” ;
+**Art. 28.** Rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1 i 2, wyrównania, dodatki dla gospodarstw domowych oraz dodatki dla podmiotów wrażliwych są finansowane z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687.), zwanego dalej „Funduszem”. ” ;
 
 - **17)** w art. 29: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
@@ -239,7 +240,7 @@ source: "eli-html"
 2. Wojewodowie przekazują gminom środki w ramach limitu określonego na wypłatę rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłatę wyrównania dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, oraz wypłatę dodatków dla gospodarstw domowych oraz dodatków dla podmiotów wrażliwych w planie finansowym Funduszu na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłat wyrównania dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, oraz wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych z Funduszu. ” , w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
 - **b)**
-- **1a)** w przypadku środków na wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2: 15 dni od dnia wejścia w życie ustawy z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw dla pierwszego kwartału 2023 r., do 15. dnia miesiąca poprzedzającego dany kwartał dla pozostałych kwartałów 2023 r. przy czym w terminie 50 dni od dnia złożenia tego wniosku gmina może złożyć jego korektę; ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **1a)** w przypadku środków na wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2: 15 dni od dnia wejścia w życie ustawy z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw dla pierwszego kwartału 2023 r., do 15. dnia miesiąca poprzedzającego dany kwartał dla pozostałych kwartałów 2023 r. – przy czym w terminie 50 dni od dnia złożenia tego wniosku gmina może złożyć jego korektę; ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -419,7 +420,7 @@ source: "eli-html"
 
 2a. Przepisy wykonawcze wydane na podstawie art. 114 ust. 5 ustawy uchylanej w art. 573 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 321, jednak nie dłużej niż do dnia 22 marca 2023 r., i mogą być zmieniane. ” .
 
-**Art. 6.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.) w art. 65 w ust. 5 w pkt 7 po wyrazach „o których mowa w art. 3 ust. 1 i 2” dodaje się wyrazy „, i wyrównań, o których mowa w art. 12a ust. 1 i art. 12c”.
+**Art. 6.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687.) w art. 65 w ust. 5 w pkt 7 po wyrazach „o których mowa w art. 3 ust. 1 i 2” dodaje się wyrazy „, i wyrównań, o których mowa w art. 12a ust. 1 i art. 12c”.
 
 **Art. 7.** W ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2023 r. poz. 169) wprowadza się następujące zmiany:
 
@@ -573,6 +574,6 @@ source: "eli-html"
 **Art. 21.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
 - **1)** art. 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-- **2)** art. 10 pkt 1, 4–9, które wchodzą w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+- **2)** art. 10 pkt 1, 4–9, które wchodzą w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 20 lipca 2017 r. – Prawo wodne, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 17 grudnia 2021 r. o dodatku osłonowym, ustawę z dnia 5 sierpnia 2022 r. o dodatku węglowym, ustawę z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej, ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz ustawę z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687.
 
 

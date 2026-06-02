@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 kwietnia 2018 r. w sprawie szczegółowych warunków ustalania i sposobu oznaczania klas jakości handlowej tusz wieprzowych oraz tusz wołowych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 kwietnia 2018 r. w sprawie szczegółowych warunków ustalania i sposobu oznaczania klas jakości handlowej tusz wieprzowych oraz tusz wołowych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-30 |
 | Data wydania | 2018-05-17 |
-| Wejście w życie | 2018-07-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000934) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/934/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 15a ust. 4 pkt 1 oraz art. 34 pkt 3 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2017 r. poz. 2212 oraz z 2018 r. poz. 650 i 664) zarządza się, co następuje:
+Niniejsze rozporządzenie służy stosowaniu: a) rozporządzenia delegowanego Komisji (UE) 2017/1182 z dnia 20 kwietnia 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 74) oraz b) rozporządzenia wykonawczego Komisji (UE) 2017/1184 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 103). Na podstawie art. 15a ust. 4 pkt 1 oraz art. 34 pkt 3 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2017 r. poz. 2212 oraz z 2018 r. poz. 650 i 664) zarządza się, co następuje:
 § 1.
 1.
-Klasy tusz wołowych, o których mowa w części A ust. III załącznika IV do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), dzieli się na następujące podklasy:
+Klasy tusz wołowych, o których mowa w części A ust. III załącznika IV do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5 oraz Dz. Urz. UE L 350 z 29.12.2017, str. 15.), dzieli się na następujące podklasy:
 1)
 z wyróżnikiem „+”;
 2)
@@ -77,6 +76,5 @@ rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 lutego 2009 r. w spraw
 2)
 rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 lutego 2009 r. w sprawie szczegółowych warunków ustalania klasy jakości handlowej tusz wieprzowych (Dz. U. poz. 181).
 § 8.
-Rozporządzenie wchodzi w życie z dniem 11 lipca 2018 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325). 2) Niniejsze rozporządzenie służy stosowaniu: a) rozporządzenia delegowanego Komisji (UE) 2017/1182 z dnia 20 kwietnia 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 74) oraz b) rozporządzenia wykonawczego Komisji (UE) 2017/1184 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 103). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5 oraz Dz. Urz. UE L 350 z 29.12.2017, str. 15.
+Rozporządzenie wchodzi w życie z dniem 11 lipca 2018 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325). 2) Niniejsze rozporządzenie służy stosowaniu: a) rozporządzenia delegowanego Komisji (UE) 2017/1182 z dnia 20 kwietnia 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 74) oraz b) rozporządzenia wykonawczego Komisji (UE) 2017/1184 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 103). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5 oraz Dz. Urz. UE L 350 z 29.12.2017, str. 15.
 

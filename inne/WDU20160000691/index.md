@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 kwietnia 2016 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy, ustawy o Państwowej Inspekcji Pracy oraz ustawy o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania
+# Ustawa z dnia 29 kwietnia 2016 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy, ustawy o Państwowej Inspekcji Pracy oraz ustawy o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/54/UE z dnia 16 kwietnia 2014 r. w sprawie środków ułatwiających korzystanie z praw przyznanych pracownikom w kontekście swobodnego przepływu pracowników (Dz. Urz. UE L 128 z 30.04.2014, str. 8).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-29 |
 | Data wydania | 2016-05-20 |
-| Wejście w życie | 2016-06-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000691) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/691/text.pdf) |
 
@@ -78,5 +77,5 @@ source: "eli-html"
 - **3)** w art. 5 pkt 9 otrzymuje brzmienie: „
 - **9)** odmiennego traktowania, ze względu na kryterium obywatelstwa, osób fizycznych niebędących obywatelami państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej ani członkami ich rodzin, w szczególności w zakresie warunków wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej oraz związanego ze statusem prawnym. ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/54/UE z dnia 16 kwietnia 2014 r. w sprawie środków ułatwiających korzystanie z praw przyznanych pracownikom w kontekście swobodnego przepływu pracowników (Dz. Urz. UE L 128 z 30.04.2014, str. 8).
 

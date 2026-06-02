@@ -8,10 +8,10 @@ pos: 914
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Wyrok Trybunału Konstytucyjnegoz dnia 12 maja 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 maja 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-12 |
 | Data wydania | 2021-05-18 |
-| Wejście w życie | 2021-05-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000914) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/914/text.pdf) |
 
-Treść wyroku
-Trybunał Konstytucyjny w składzie: Krystyna Pawłowicz – przewodniczący, Stanisław Piotrowicz, Wojciech Sych, Rafał Wojciechowski, Jarosław Wyrembak – sprawozdawca, po rozpoznaniu w trybie art. 92 ust. 1 pkt 1 ustawy z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym (Dz. U. z 2019 r. poz. 2393), na posiedzeniu niejawnym w dniu 12 maja 2021 r., skargi konstytucyjnej Marii Tamberg o zbadanie zgodności: art. 41 ust. 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981, ze zm.) z art. 2 w związku z art. 45 ust. 1, a także w związku z art. 32 ust. 1 i art. 64 ust. 2 i 3 Konstytucji, orzeka: Art. 41 ust. 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2020 r. poz. 1064 i 1339 oraz z 2021 r. poz. 234) jest niezgodny z art. 45 ust. 1 Konstytucji Rzeczypospolitej Polskiej. Ponadto postanawia: umorzyć postępowanie w pozostałym zakresie. Orzeczenie zapadło większością głosów.
+Poz. 914 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 12 maja 2021 r.
+sygn. akt SK 19/15 Trybunał Konstytucyjny w składzie: Krystyna Pawłowicz – przewodniczący, Stanisław Piotrowicz, Wojciech Sych, Rafał Wojciechowski, Jarosław Wyrembak – sprawozdawca, po rozpoznaniu w trybie art. 92 ust. 1 pkt 1 ustawy z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym (Dz. U. z 2019 r. poz. 2393), na posiedzeniu niejawnym w dniu 12 maja 2021 r., skargi konstytucyjnej Marii Tamberg o zbadanie zgodności: art. 41 ust. 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981, ze zm.) z art. 2 w związku z art. 45 ust. 1, a także w związku z art. 32 ust. 1 i art. 64 ust. 2 i 3 Konstytucji, orzeka:
+Art. 41 ust. 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2020 r. poz. 1064 i 1339 oraz z 2021 r. poz. 234) j e s t n i e z g o d n y z art. 45 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
+Ponadto postanawia: umorzyć postępowanie w pozostałym zakresie.
+Orzeczenie zapadło większością głosów.
 

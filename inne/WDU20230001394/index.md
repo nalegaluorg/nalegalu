@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2023 r. o zmianie niektórych ustaw w celu ograniczania niektórych skutków kradzieży tożsamości
+# Ustawa z dnia 7 lipca 2023 r. o zmianie niektórych ustaw w celu ograniczania niektórych skutków kradzieży tożsamości Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 12 maja 2011 r. o kredycie konsumenckim, ustawę z dnia 19 sierpnia 2011 r. o usługach płatniczych, ustawę z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, ustawę z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych oraz ustawę z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-07-21 |
-| Wejście w życie | 2023-07-22 |
 | Ostatnia zmiana | 2024-05-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001394) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1394/text.pdf) |
+
+Rejestr zastrzeżeń numerów PESEL, zasady i tryb udostępniania danych z rejestru zastrzeżeń numerów PESEL oraz zasady i tryb zastrzegania i cofania zastrzeżenia numeru PESEL
 
 **Art. 1.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799) wprowadza się następujące zmiany:
 
@@ -39,7 +40,7 @@ source: "eli-html"
 § 1. Notariusz odmawia dokonania czynności notarialnej, której przedmiotem jest:
 
 - **1)** nabycie, zbycie lub obciążenie nieruchomości lub udziału w nieruchomości, prawa użytkowania wieczystego, spółdzielczego własnościowego prawa do lokalu lub udziału w nich,
-- **2)** sporządzenie pełnomocnictwa do nabycia, zbycia lub obciążenia nieruchomości lub udziału w nieruchomości, prawa użytkowania wieczystego, spółdzielczego własnościowego prawa do lokalu lub udziału w nich jeżeli stroną lub mocodawcą jest osoba fizyczna, której numer PESEL jest zastrzeżony w rejestrze zastrzeżeń numerów PESEL albo w przypadku niedostępności systemu teleinformatycznego, w którym prowadzony jest rejestr zastrzeżeń numerów PESEL, o której mowa w art. 23c ust. 5 ustawy z dnia 24 września 2010 r. o ewidencji ludności.
+- **2)** sporządzenie pełnomocnictwa do nabycia, zbycia lub obciążenia nieruchomości lub udziału w nieruchomości, prawa użytkowania wieczystego, spółdzielczego własnościowego prawa do lokalu lub udziału w nich – jeżeli stroną lub mocodawcą jest osoba fizyczna, której numer PESEL jest zastrzeżony w rejestrze zastrzeżeń numerów PESEL albo w przypadku niedostępności systemu teleinformatycznego, w którym prowadzony jest rejestr zastrzeżeń numerów PESEL, o której mowa w art. 23c ust. 5 ustawy z dnia 24 września 2010 r. o ewidencji ludności.
 
 § 2. Notariusz przed dokonaniem czynności notarialnej innej niż wskazana w § 1 może zweryfikować w sposób, o którym mowa w art. 23j lub art. 23m ustawy z dnia 24 września 2010 r. o ewidencji ludności, czy numer PESEL jest zastrzeżony, i odmówić dokonania tej czynności, jeżeli numer PESEL co najmniej jednej z osób biorących udział w tej czynności jest zastrzeżony w rejestrze zastrzeżeń numerów PESEL.
 
@@ -48,7 +49,7 @@ source: "eli-html"
 - **1)** wstrzymać się od dokonania czynności notarialnej do czasu przywrócenia dostępności systemu albo
 - **2)** dokonać czynności notarialnej. ” .
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193 i 1234.) wprowadza się następujące zmiany:
 
 - **1)** w art. 71: uchyla się ust. 5a, uchyla się ust. 7;
     - **a)**
@@ -139,7 +140,7 @@ source: "eli-html"
 
 6. Do kar pieniężnych, o których mowa w art. 140ma i art. 140mb, przepisów art. 189d‒189f ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się. ” .
 
-**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996 i 1059.) wprowadza się następujące zmiany:
 
 - **1)** w art. 105 po ust. 4i dodaje się ust. 4j i 4k w brzmieniu: „
 
@@ -232,7 +233,7 @@ source: "eli-html"
 - **8)** zasady i tryb udostępniania danych z rejestru zastrzeżeń numerów Powszechnego Elektronicznego Systemu Ewidencji Ludności. ” ;
 - **2)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Rejestr zastrzeżeń numerów PESEL, zasady i tryb udostępniania danych z rejestru zastrzeżeń numerów PESEL oraz zasady i tryb zastrzegania i cofania zastrzeżenia numeru PESEL
+#### Rozdział 3a
 
 **Art. 23a.**
 
@@ -311,7 +312,7 @@ source: "eli-html"
 
 - **2)** za pomocą systemu teleinformatycznego banku krajowego albo spółdzielczej kasy oszczędnościowo-kredytowej, w którym jest uwierzytelniana osoba dokonująca zastrzeżenia.
 
-2. Zastrzeżenie numeru PESEL w sposób, o którym mowa w ust. 1 pkt 1 lit. a i pkt 2, może zostać dokonane za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.).
+2. Zastrzeżenie numeru PESEL w sposób, o którym mowa w ust. 1 pkt 1 lit. a i pkt 2, może zostać dokonane za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059 i 1394.).
 
 3. Minister właściwy do spraw informatyzacji:
 
@@ -423,7 +424,7 @@ source: "eli-html"
 - **1)** wzór wniosku, o którym mowa w art. 23e ust. 2 pkt 2,
 - **2)** wzór wniosku, o którym mowa w art. 23f ust. 1 pkt 1,
 - **3)** wzór wniosku, o którym mowa w art. 23m ust. 2,
-- **4)** sposób wypełnienia wniosku, o którym mowa w pkt 1 i 2 uwzględniając potrzebę zapewnienia ochrony danych osobowych. ” .
+- **4)** sposób wypełnienia wniosku, o którym mowa w pkt 1 i 2 – uwzględniając potrzebę zapewnienia ochrony danych osobowych. ” .
 
 **Art. 9.** W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2023 r. poz. 1028 i 1285) po art. 9a dodaje się art. 9b w brzmieniu: „ 1. Kredytodawca przed zawarciem umowy o kredyt konsumencki oraz przed zmianą tej umowy, w wyniku której następuje zwiększenie zadłużenia, weryfikuje w sposób, o którym mowa w art. 23j lub art. 23m ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2022 r. poz. 1191 oraz z 2023 r. poz. 497 i 1394), w rejestrze zastrzeżeń numerów PESEL, o którym mowa w art. 23a tej ustawy, zwanym dalej „rejestrem zastrzeżeń numerów PESEL”, czy numer PESEL konsumenta jest zastrzeżony. 2. Kredytodawca nie może domagać się od konsumenta i jego następców prawnych zaspokojenia roszczenia z tytułu zawarcia umowy o kredyt konsumencki ani zbyć wierzytelności powstałej z tej umowy, jeżeli w chwili zawarcia umowy, z której wynika dochodzone roszczenie, numer PESEL konsumenta był zastrzeżony w rejestrze zastrzeżeń numerów PESEL. 3. Przepisów ust. 1 i 2 nie stosuje się, jeżeli łącznie są spełnione następujące warunki:
 
@@ -475,13 +476,15 @@ source: "eli-html"
 
 9a. W przypadku, o którym mowa w ust. 9 pkt 2, gmina nie może żądać podania danych, o których mowa w art. 80cba ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, jeżeli dane te są zgromadzone w centralnej ewidencji pojazdów. ” .
 
-**Art. 13.** W ustawie z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517) w art. 1 w pkt 24 w lit. a tiret czwarte otrzymuje brzmienie: „ – w pkt 22 kropkę zastępuje się średnikiem i dodaje się pkt 23 w brzmieniu: „ 23) o przekroczeniach terminów, o których mowa w art. 78 ust. 2 pkt 1.”, ” . ” .
+**Art. 13.** W ustawie z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517) w art. 1 w pkt 24 w lit. a tiret czwarte otrzymuje brzmienie: „ w pkt 22 kropkę zastępuje się średnikiem i dodaje się pkt 23 w brzmieniu: „
+
+- **23)** o przekroczeniach terminów, o których mowa w art. 78 ust. 2 pkt 1.”, ” . ” .
 
 **Art. 14.** Wprzypadku gdy pojazd został:
 
 - **1)** sprowadzony z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej,
 - **2)** sprowadzony z terytorium państwa członkowskiego Unii Europejskiej,
-- **3)** nabyty na terytorium Rzeczypospolitej Polskiej przed dniem 1 stycznia 2024 r., do spraw związanych z rejestracją oraz zawiadamianiem o zbyciu albo nabyciu pojazdu stosuje się przepisy ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+- **3)** nabyty na terytorium Rzeczypospolitej Polskiej – przed dniem 1 stycznia 2024 r., do spraw związanych z rejestracją oraz zawiadamianiem o zbyciu albo nabyciu pojazdu stosuje się przepisy ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
 
 **Art. 15.** Do postępowań o rejestrację pojazdów, wszczętych i niezakończonych przed dniem 1 stycznia 2024 r., stosuje się przepisy ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
 
@@ -589,6 +592,6 @@ source: "eli-html"
 - **7)** art. 2 pkt 5 i art. 20 ust. 2, które wchodzą w życie z dniem 1 września 2023 r.;
 - **8)** art. 2 pkt 1 lit. b, pkt 2‒4, 9 i 10, art. 14‒16 i art. 20 ust. 1, które wchodzą w życie z dniem 1 stycznia 2024 r.;
 - **9)** art. 1, art. 3, art. 5–7, art. 9, art. 10 i art. 19, które wchodzą w życie z dniem 1 czerwca 2024 r.;
-- **10)** art. 11, który wchodzi w życie z dniem 1 lipca 2024 r.
+- **10)** art. 11, który wchodzi w życie z dniem 1 lipca 2024 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 12 maja 2011 r. o kredycie konsumenckim, ustawę z dnia 19 sierpnia 2011 r. o usługach płatniczych, ustawę z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, ustawę z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych oraz ustawę z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193 i 1234. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996 i 1059. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059 i 1394.
 
 

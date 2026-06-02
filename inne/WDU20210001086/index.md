@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 25 maja 2021 r. w sprawie planów postępowania awaryjnego w przypadku zdarzeń radiacyjnych
+# Rozporządzenie Rady Ministrówz dnia 25 maja 2021 r. w sprawie planów postępowania awaryjnego w przypadku zdarzeń radiacyjnych Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80) oraz dyrektywę Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18, Dz. Urz. UE L 260 z 03.10.2009, str. 40 oraz Dz. Urz. UE L 219 z 25.07.2014, str. 42).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-25 |
 | Data wydania | 2021-06-18 |
-| Wejście w życie | 2021-08-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1086/text.pdf) |
 
@@ -383,5 +382,5 @@ plan ćwiczeń i szkoleń w zakresie reagowania na zdarzenia radiacyjne, o któr
 9)
 zakładowe i wojewódzkie plany postępowania awaryjnego właściwe dla jednostek organizacyjnych wykonujących działalność zakwalifikowaną do kategorii I zagrożeń, o której mowa w załączniku nr 5 do ustawy, prowadzących działalność na terytorium Rzeczypospolitej Polskiej.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 60 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 60 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 stycznia 2005 r. w sprawie planów postępowania awaryjnego w przypadku zdarzeń radiacyjnych (Dz. U. poz. 169 oraz z 2007 r. poz. 912), które utraciło moc z dniem 23 września 2019 r. w związku z wejściem w życie ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284). 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80) oraz dyrektywę Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18, Dz. Urz. UE L 260 z 03.10.2009, str. 40 oraz Dz. Urz. UE L 219 z 25.07.2014, str. 42). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 stycznia 2005 r. w sprawie planów postępowania awaryjnego w przypadku zdarzeń radiacyjnych (Dz. U. poz. 169 oraz z 2007 r. poz. 912), które utraciło moc z dniem 23 września 2019 r. w związku z wejściem w życie ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacjiz dnia 26 lipca 2024 r. zmieniające rozporządzenie w sprawie warunków i sposobu organizowania nauki religii w publicznych przedszkolach i szkołach
+# Rozporządzenie Ministra Edukacjiz dnia 26 lipca 2024 r. zmieniające rozporządzenie w sprawie warunków i sposobu organizowania nauki religii w publicznych przedszkolach i szkołach Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-26 |
 | Data wydania | 2024-08-01 |
-| Wejście w życie | 2024-09-01 |
 | Ostatnia zmiana | 2024-08-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001158) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1158/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 12 ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświat
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 14 kwietnia 1992 r. w sprawie warunków i sposobu organizowania nauki religii w publicznych przedszkolach i szkołach (Dz. U. z 2020 r. poz. 983) w § 2:
 1)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Przedszkole i szkoła organizują naukę religii w grupie obejmującej wychowanków danego oddziału albo uczniów danego oddziału lub danej klasy, jeżeli na naukę religii w danym oddziale lub danej klasie zgłosi się nie mniej niż siedmiu wychowanków tego oddziału albo uczniów tego oddziału lub tej klasy.
-” ;
+Przedszkole i szkoła organizują naukę religii w grupie obejmującej wychowanków danego oddziału albo uczniów danego oddziału lub danej klasy, jeżeli na naukę religii w danym oddziale lub danej klasie zgłosi się nie mniej niż siedmiu wychowanków tego oddziału albo uczniów tego oddziału lub tej klasy. ” ;
 2)
-po ust. 1 dodaje się ust. 1a-1e w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a-1e w brzmieniu: „
 1a.
 W przypadku gdy na naukę religii zgłosi się mniej niż siedmiu wychowanków danego oddziału albo uczniów danego oddziału lub danej klasy przedszkole i szkoła organizują naukę religii dla wychowanków tego oddziału albo uczniów tego oddziału lub tej klasy w grupie międzyoddziałowej lub grupie międzyklasowej.
 1b.
@@ -58,10 +54,7 @@ maksymalnej liczby dzieci i uczniów, w tym maksymalnej liczby dzieci i uczniów
 2)
 maksymalnej liczby dzieci niepełnosprawnych w oddziale przedszkola specjalnego i oddziale specjalnym w przedszkolu ogólnodostępnym,
 3)
-maksymalnej liczby uczniów niepełnosprawnych, niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym, w oddziale szkoły specjalnej i oddziale specjalnym w szkole ogólnodostępnej
-określonej w przepisach wydanych na podstawie art. 111 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854).
-” .
+maksymalnej liczby uczniów niepełnosprawnych, niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym, w oddziale szkoły specjalnej i oddziale specjalnym w szkole ogólnodostępnej – określonej w przepisach wydanych na podstawie art. 111 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854). ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2024 r.
-1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Rozporządzenie wchodzi w życie z dniem 1 września 2024 r. 1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 

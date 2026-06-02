@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 maja 2017 r. o zmianie ustawy o rybołówstwie morskim
+# Ustawa z dnia 25 maja 2017 r. o zmianie ustawy o rybołówstwie morskim Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 5 grudnia 2008 r. o organizacji rynku rybnego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-25 |
 | Data wydania | 2017-06-28 |
-| Wejście w życie | 2017-07-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001273) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1273/text.pdf) |
 
@@ -119,7 +118,7 @@ source: "eli-html"
 
 - **1)** wykorzystaniu w danym roku kalendarzowym 90% wspólnej kwoty połowowej danego gatunku organizmów morskich,
 - **2)** wyczerpaniu w danym roku kalendarzowym wspólnej kwoty połowowej danego gatunku organizmów morskich,
-- **3)** wyczerpaniu w danym roku kalendarzowym kwoty połowowej danego gatunku organizmów morskich wyodrębnionej na podstawie art. 44 ust. 3 ogłasza tę informację na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa oraz w sposób zwyczajowo przyjęty na danym terenie.
+- **3)** wyczerpaniu w danym roku kalendarzowym kwoty połowowej danego gatunku organizmów morskich wyodrębnionej na podstawie art. 44 ust. 3 – ogłasza tę informację na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa oraz w sposób zwyczajowo przyjęty na danym terenie.
 
 2. Od dnia następującego po dniu ogłoszenia, o którym mowa w ust. 1, obowiązuje zakaz:
 
@@ -150,7 +149,9 @@ source: "eli-html"
 **Art. 2.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2016 r. poz. 1827 oraz z 2017 r. poz. 624) wprowadza się następujące zmiany:
 
 - **1)** w załączniku do ustawy w części I uchyla się ust. 52a i 52b;
-- **2)** w załączniku do ustawy w części III ust. 22 otrzymuje brzmienie: 22. Pozwolenie na wykonywanie rybołówstwa rekreacyjnego wydawane: 1) na okres jednego miesiąca: a) organizatorowi zawodów sportowych na prowadzenie połowów z brzegu 500 zł b) armatorowi statku na prowadzenie połowów z jego statku 11 zł 2) na okres kolejnych 12 miesięcy dla armatora statku na prowadzenie połowów z jego statku 42 zł
+- **2)** w załączniku do ustawy w części III ust. 22 otrzymuje brzmienie:
+
+22. Pozwolenie na wykonywanie rybołówstwa rekreacyjnego wydawane: 1) na okres jednego miesiąca: a) organizatorowi zawodów sportowych na prowadzenie połowów z brzegu 500 zł b) armatorowi statku na prowadzenie połowów z jego statku 11 zł 2) na okres kolejnych 12 miesięcy dla armatora statku na prowadzenie połowów z jego statku 42 zł
 
 **Art. 3.** W ustawie z dnia 5 grudnia 2008 r. o organizacji rynku rybnego (Dz. U. z 2015 r. poz. 1970 oraz z 2016 r. poz. 1948) wprowadza się następujące zmiany:
 
@@ -161,5 +162,5 @@ source: "eli-html"
 
 **Art. 4.** Do spraw dotyczących przekazywania indywidualnej kwoty połowowej lub dni połowowych oraz wymiany międzynarodowej kwot połowowych dokonywanej na wniosek, wszczętych i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 5 grudnia 2008 r. o organizacji rynku rybnego.
 

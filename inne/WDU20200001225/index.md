@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-08 |
 | Data wydania | 2020-07-10 |
-| Wejście w życie | 2020-07-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001225) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1225/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady i tryb udzielania wyróżnień Rozdział 3 – Postępowanie dyscyplinarne Rozdział 4 – Wymierzanie kar dyscyplinarnych Rozdział 5 – Postępowanie odwoławcze Rozdział 6 – Wykonywanie kar dyscyplinarnych Rozdział 7 – Zatarcie i darowanie kar dyscyplinarnych Rozdział 8 – Wznowienie postępowania dyscyplinarnego Rozdział 9 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 152 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -68,8 +68,7 @@ będący rzecznikiem dyscyplinarnym, w zakresie określonym w § 2 pkt 2–4,
 3)
 przeniesiony do dyspozycji Szefa ABW,
 4)
-oddelegowany do wykonywania zadań służbowych poza ABW
-podlega władzy dyscyplinarnej Szefa ABW.
+oddelegowany do wykonywania zadań służbowych poza ABW – podlega władzy dyscyplinarnej Szefa ABW.
 2.
 Funkcjonariusz przeniesiony do pełnienia służby albo delegowany do czasowego pełnienia służby w innej miejscowości lub funkcjonariusz, któremu powierzono pełnienie obowiązków służbowych na innym stanowisku w innej jednostce organizacyjnej ABW, z dniem przeniesienia, delegowania lub powierzenia pełnienia obowiązków służbowych podlega władzy dyscyplinarnej kierownika jednostki organizacyjnej ABW, do której został przeniesiony albo delegowany lub w której powierzono mu pełnienie obowiązków służbowych.
 3.
@@ -83,6 +82,7 @@ Funkcjonariusz, który w zastępstwie pełni obowiązki służbowe na danym stan
 Przełożony może, w formie pisemnej, upoważnić swoich zastępców do wykonywania w jego imieniu władzy dyscyplinarnej w określonym zakresie.
 § 7.
 Do postępowań dyscyplinarnych w zakresie nieuregulowanym w rozporządzeniu stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2020 r. poz. 30, 413, 568 i 1086), z wyłączeniem działu VI oraz działów X-XV.
+Zasady i tryb udzielania wyróżnień
 § 8.
 1.
 Przełożony udziela funkcjonariuszowi wyróżnienia z własnej inicjatywy lub na wniosek.
@@ -138,6 +138,7 @@ który nie jest zawieszony w czynnościach służbowych;
 który nie został ukarany karą dyscyplinarną, a w przypadku ukarania taką karą dopiero po zatarciu tej kary;
 4)
 który nie został skazany prawomocnym orzeczeniem sądu za przestępstwo, a w przypadku skazania takim orzeczeniem dopiero po zatarciu tego skazania.
+Postępowanie dyscyplinarne
 § 12.
 1.
 Postępowanie dyscyplinarne wszczyna się niezwłocznie, jeżeli zachodzi uzasadnione podejrzenie naruszenia dyscypliny służbowej przez funkcjonariusza oraz w innych przypadkach określonych w ustawie.
@@ -486,6 +487,7 @@ opis stanu faktycznego ustalonego na podstawie zebranych dowodów;
 wnioski dotyczące orzeczenia dyscyplinarnego co do umorzenia postępowania dyscyplinarnego lub wymiaru kary dla obwinionego z uzasadnieniem i wskazaniem okoliczności łagodzących i obciążających.
 3.
 Przełożony uchyla postanowienie, o którym mowa w ust. 1 pkt 1, oraz przekazuje akta sprawy rzecznikowi dyscyplinarnemu do uzupełnienia w przypadku stwierdzenia, że nie zostały wyjaśnione wszystkie okoliczności sprawy.
+Wymierzanie kar dyscyplinarnych
 § 36.
 1.
 Na podstawie materiału dowodowego zebranego w postępowaniu dyscyplinarnym przełożony orzeka o:
@@ -567,6 +569,7 @@ Orzeczenie doręcza się niezwłocznie obwinionemu oraz kierownikowi jednostki o
 W przypadku gdy uzasadnienie orzeczenia zawiera informacje niejawne obwinionemu doręcza się orzeczenie bez uzasadnienia, z zawiadomieniem, że uzasadnienie orzeczenia zostało sporządzone.
 4.
 Obwiniony ma prawo zapoznać się z uzasadnieniem, o którym mowa w ust. 3. Przed udostępnieniem uzasadnienia przełożony lub rzecznik dyscyplinarny poucza obwinionego o obowiązku zachowania w tajemnicy informacji niejawnych zawartych w uzasadnieniu i uprzedza o skutkach niedopełnienia tego obowiązku. Fakt pouczenia obwiniony potwierdza własnoręcznie podpisem.
+Postępowanie odwoławcze
 § 42.
 1.
 Odwołanie od orzeczenia składa się w formie pisemnej Szefowi ABW, w terminie 7 dni od dnia doręczenia orzeczenia, za pośrednictwem przełożonego, który wydał orzeczenie.
@@ -615,6 +618,7 @@ podpis Szefa ABW.
 Przepisy dotyczące postępowania dyscyplinarnego stosuje się odpowiednio w postępowaniu odwoławczym, z wyłączeniem przepisów § 17, § 20, § 32 ust. 2 i § 35.
 § 48.
 W orzeczeniu, o którym mowa w § 45 pkt 2, nie można wymierzyć obwinionemu kary surowszej niż kara wymierzona w zaskarżonym orzeczeniu o ukaraniu.
+Wykonywanie kar dyscyplinarnych
 § 49.
 Orzeczenie o ukaraniu, o którym mowa w § 42 ust. 3 i § 45 pkt 1 i 2, jest ostateczne i podlega niezwłocznemu wykonaniu przez przełożonego.
 § 50.
@@ -638,6 +642,7 @@ wydaniu rozkazu personalnego o utracie stopnia oficerskiego i powrocie do stopni
 przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i ostrzeżeniu, że za ponowne popełnienie czynu ukarany funkcjonariusz może zostać wydalony ze służby – przy wymierzeniu kary ostrzeżenia o niepełnej przydatności do służby;
 7)
 wydaniu rozkazu personalnego o zwolnieniu ze służby – przy wymierzeniu kary wydalenia ze służby.
+Zatarcie i darowanie kar dyscyplinarnych
 § 52.
 1.
 Zatarcie kary dyscyplinarnej oznacza uznanie kary za niebyłą.
@@ -682,6 +687,7 @@ Postanowienie o darowaniu lub zatarciu kary dyscyplinarnej:
 doręcza się niezwłocznie ukaranemu funkcjonariuszowi;
 2)
 dołącza się do akt osobowych ukaranego funkcjonariusza na czas nie dłuższy niż przewidziany do zatarcia danej kary dyscyplinarnej, jednak nie dłużej niż na 3 miesiące.
+Wznowienie postępowania dyscyplinarnego
 § 58.
 Wznowienie postępowania dyscyplinarnego następuje:
 1)
@@ -702,8 +708,7 @@ Na postanowienie, o którym mowa w ust. 1, wydane przez:
 1)
 przełożonego niebędącego Szefem ABW – przysługuje zażalenie do Szefa ABW,
 2)
-Szefa ABW – przysługuje wniosek do Szefa ABW o ponowne rozpatrzenie sprawy
-w terminie 7 dni od dnia doręczenia postanowienia.
+Szefa ABW – przysługuje wniosek do Szefa ABW o ponowne rozpatrzenie sprawy – w terminie 7 dni od dnia doręczenia postanowienia.
 § 60.
 1.
 Postanowienie o wznowieniu postępowania dyscyplinarnego stanowi podstawę do przeprowadzenia postępowania co do przyczyn wznowienia oraz co do rozstrzygnięcia istoty sprawy.
@@ -714,10 +719,10 @@ Po przeprowadzeniu postępowania, o którym mowa w ust. 1, przełożony wydaje o
 1)
 odmawia uchylenia dotychczasowego orzeczenia albo
 2)
-uchyla dotychczasowe orzeczenie i rozstrzyga o istocie sprawy.
-Przepis § 41 stosuje się odpowiednio.
+uchyla dotychczasowe orzeczenie i rozstrzyga o istocie sprawy. Przepis § 41 stosuje się odpowiednio.
 4.
 Na orzeczenie wydane w trybie wznowienia postępowania dyscyplinarnego obwinionemu lub osobie, która złożyła wniosek o wznowienie postępowania dyscyplinarnego, służy odwołanie. Przepisy o postępowaniu odwoławczym stosuje się odpowiednio.
+Przepisy przejściowe i końcowe
 § 61.
 Przepisy rozporządzenia stosuje się do postępowań dyscyplinarnych wszczętych i niezakończonych do dnia jego wejścia w życie.
 § 62.
@@ -725,23 +730,41 @@ Czynności realizowane w ramach wszczętych i niezakończonych postępowań dysc
 § 63.
 Rzecznik dyscyplinarny powołany na podstawie dotychczasowych przepisów staje się rzecznikiem dyscyplinarnym w rozumieniu niniejszego rozporządzenia. Jego powołanie kończy się z upływem 5 lat od dnia wejścia w życie niniejszego rozporządzenia.
 § 64.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 grudnia 2004 r. w sprawie udzielania wyróżnień i przeprowadzania postępowań dyscyplinarnych wobec funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2014 r. poz. 60), które na podstawie art. 13 pkt 2 ustawy z dnia 16 maja 2019 r. o zmianie ustawy o Policji oraz niektórych innych ustaw (Dz. U. poz. 1091) utraciło moc z dniem 27 czerwca 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 grudnia 2004 r. w sprawie udzielania wyróżnień i przeprowadzania postępowań dyscyplinarnych wobec funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2014 r. poz. 60), które na podstawie art. 13 pkt 2 ustawy z dnia 16 maja 2019 r. o zmianie ustawy o Policji oraz niektórych innych ustaw (Dz. U. poz. 1091) utraciło moc z dniem 27 czerwca 2020 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zasady i tryb udzielania wyróżnień
+#### Rozdział 2 – Zasady i tryb udzielania wyróżnień
 
-#### Rozdział 3 Postępowanie dyscyplinarne
+#### Rozdział 3 – Postępowanie dyscyplinarne
 
-#### Rozdział 4 Wymierzanie kar dyscyplinarnych
+#### Rozdział 4 – Wymierzanie kar dyscyplinarnych
 
-#### Rozdział 5 Postępowanie odwoławcze
+#### Rozdział 5 – Postępowanie odwoławcze
 
-#### Rozdział 6 Wykonywanie kar dyscyplinarnych
+#### Rozdział 6 – Wykonywanie kar dyscyplinarnych
 
-#### Rozdział 7 Zatarcie i darowanie kar dyscyplinarnych
+#### Rozdział 7 – Zatarcie i darowanie kar dyscyplinarnych
 
-#### Rozdział 8 Wznowienie postępowania dyscyplinarnego
+#### Rozdział 8 – Wznowienie postępowania dyscyplinarnego
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+#### Rozdział 9 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
 

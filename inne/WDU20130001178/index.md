@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-19 |
 | Data wydania | 2013-10-04 |
-| Wejście w życie | 2013-11-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001178) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1178/text.pdf) |
 
@@ -69,8 +68,7 @@ numerem PESEL, numerem identyfikacji podatkowej (NIP), jeżeli został nadany �
 b)
 numerem identyfikacji podatkowej (NIP), numerem identyfikacyjnym krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), jeżeli został nadany – w przypadku osoby prawnej i jednostki organizacyjnej nieposiadającej osobowości prawnej,
 c)
-numerem paszportu – w przypadku osoby nieposiadającej obywatelstwa polskiego
-oświadczenia producentów, o których mowa w pkt 1, o nieprzynależności do innej wstępnie uznanej grupy producentów dla tej samej grupy produktów lub uznanej organizacji producentów dla tej samej grupy produktów.
+numerem paszportu – w przypadku osoby nieposiadającej obywatelstwa polskiego – oświadczenia producentów, o których mowa w pkt 1, o nieprzynależności do innej wstępnie uznanej grupy producentów dla tej samej grupy produktów lub uznanej organizacji producentów dla tej samej grupy produktów.
 § 2.
 1.
 Plan dochodzenia do uznania jest opracowywany na okres nie dłuższy niż 5 lat i zawiera w szczególności:
@@ -107,8 +105,7 @@ analizę, z której wynika dostosowanie inwestycji do wielkości produkcji owoc�
 a)
 zakupionych przez grupę od jej członków – w przypadku inwestycji związanych ze zbiorem, przechowywaniem oraz magazynowaniem owoców i warzyw,
 b)
-sprzedanych przez grupę odbiorcom zewnętrznym – w przypadku inwestycji związanych z przygotowaniem do sprzedaży owoców i warzyw
-nieprzekraczającej wielkości planowanej na ostatni rok realizacji zatwierdzonego planu dochodzenia do uznania;
+sprzedanych przez grupę odbiorcom zewnętrznym – w przypadku inwestycji związanych z przygotowaniem do sprzedaży owoców i warzyw – nieprzekraczającej wielkości planowanej na ostatni rok realizacji zatwierdzonego planu dochodzenia do uznania;
 9)
 prognozę powierzchni upraw i wielkości produkcji poszczególnych gatunków owoców i warzyw oraz ilości i wartości sprzedanych owoców i warzyw – dla każdego roku realizacji planu dochodzenia do uznania;
 10)
@@ -133,8 +130,7 @@ numerem PESEL, numerem identyfikacji podatkowej (NIP), jeżeli został nadany �
 b)
 numerem identyfikacji podatkowej (NIP), numerem identyfikacyjnym krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), jeżeli został nadany – w przypadku osoby prawnej i jednostki organizacyjnej nieposiadającej osobowości prawnej,
 c)
-numerem paszportu – w przypadku osoby nieposiadającej obywatelstwa polskiego
-oświadczenia producentów, o których mowa w pkt 1, o nieprzynależności do innej wstępnie uznanej grupy producentów dla tej samej grupy produktów lub uznanej organizacji producentów dla tej samej grupy produktów;
+numerem paszportu – w przypadku osoby nieposiadającej obywatelstwa polskiego – oświadczenia producentów, o których mowa w pkt 1, o nieprzynależności do innej wstępnie uznanej grupy producentów dla tej samej grupy produktów lub uznanej organizacji producentów dla tej samej grupy produktów;
 3)
 łączna wartość produktów wytworzonych przez producentów, o których mowa w pkt 1, i sprzedanych w wybranym 12-miesięcznym okresie, rozpoczynającym się nie wcześniej niż dnia 1 stycznia trzeciego roku poprzedzającego rok złożenia wniosku o uznanie organizacji producentów owoców i warzyw i kończącym się nie później niż dnia 31 grudnia roku poprzedzającego rok złożenia wniosku o uznanie za organizację producentów owoców i warzyw, wynosi co najmniej 500 000 złotych;
 4)
@@ -169,13 +165,17 @@ Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 grudnia 200
 Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem § 3 ust. 2, który wchodzi w życie po upływie roku od dnia ogłoszenia.
 Załącznik – Wykaz grup produktów, ze względu na które wnioskuje się o wstępne uznanie lub uznanie
 1.
-Grupa produktów „warzywa” Kod CN Nazwa 0702 00 00 Pomidory, świeże lub schłodzone 0703 Cebula, szalotka, czosnek, pory oraz pozostałe warzywa cebulowe, świeże lub schłodzone 0704 Kapusty, kalafiory, kalarepa, jarmuż i podobne jadalne kapusty, świeże lub schłodzone 0705 Sałata (Lactuca sativa) i cykoria (Cichorium spp.), świeże lub schłodzone 0706 Marchew, rzepa, buraki sałatkowe, salsefia, selery, rzodkiewki i podobne korzenie jadalne, świeże lub schłodzone 0707 00 Ogórki i korniszony, świeże lub schłodzone 0708 Warzywa strączkowe, łuskane lub niełuskane, świeże lub schłodzone 0709 20 00 Szparagi 0709 30 00 Oberżyny (bakłażany) 0709 40 00 Selery inne niż seler korzeniowy 0709 60 10 Słodka papryka 0709 70 00 Szpinak, szpinak nowozelandzki i szpinak ogrodowy 0709 93 10 Cukinia 0709 99 10 Warzywa sałatowe inne niż sałata (Lactuca sativa) i cykoria (Cichorium spp.) 0709 99 20 Burak boćwina (lub boćwina szerokoogonkowa) i karczoch hiszpański 0709 99 50 Koper
+Grupa produktów „warzywa”
+Kod CN Nazwa 0702 00 00 Pomidory, świeże lub schłodzone 0703 Cebula, szalotka, czosnek, pory oraz pozostałe warzywa cebulowe, świeże lub schłodzone 0704 Kapusty, kalafiory, kalarepa, jarmuż i podobne jadalne kapusty, świeże lub schłodzone 0705 Sałata (Lactuca sativa) i cykoria (Cichorium spp.), świeże lub schłodzone 0706 Marchew, rzepa, buraki sałatkowe, salsefia, selery, rzodkiewki i podobne korzenie jadalne, świeże lub schłodzone 0707 00 Ogórki i korniszony, świeże lub schłodzone 0708 Warzywa strączkowe, łuskane lub niełuskane, świeże lub schłodzone 0709 20 00 Szparagi 0709 30 00 Oberżyny (bakłażany) 0709 40 00 Selery inne niż seler korzeniowy 0709 60 10 Słodka papryka 0709 70 00 Szpinak, szpinak nowozelandzki i szpinak ogrodowy 0709 93 10 Cukinia 0709 99 10 Warzywa sałatowe inne niż sałata (Lactuca sativa) i cykoria (Cichorium spp.) 0709 99 20 Burak boćwina (lub boćwina szerokoogonkowa) i karczoch hiszpański 0709 99 50 Koper
 2.
-Grupa produktów „owoce” Kod CN Nazwa 0802 21 00 Orzechy leszczyny (Corylus spp.) w łupinach 0802 31 00 Orzechy włoskie w łupinach 0808 Jabłka, gruszki i pigwy, świeże 0809 Morele, wiśnie i czereśnie, brzoskwinie (włącznie z nektarynami), śliwki i owoce tarniny, świeże 0810 10 00 Truskawki i poziomki, świeże 0810 20 Maliny, jeżyny, morwy i owoce mieszańców malin z jeżynami, świeże 0810 30 10 Porzeczki czarne, świeże 0810 30 30 Porzeczki czerwone, świeże ex 0810 30 90 Porzeczki białe, agrest, świeże 0810 40 50 Owoce z gatunków Vaccinium macrocarpon i Vaccinium corymbosum, świeże ex 0810 90 75 Aronia, świeże
+Grupa produktów „owoce”
+Kod CN Nazwa 0802 21 00 Orzechy leszczyny (Corylus spp.) w łupinach 0802 31 00 Orzechy włoskie w łupinach 0808 Jabłka, gruszki i pigwy, świeże 0809 Morele, wiśnie i czereśnie, brzoskwinie (włącznie z nektarynami), śliwki i owoce tarniny, świeże 0810 10 00 Truskawki i poziomki, świeże 0810 20 Maliny, jeżyny, morwy i owoce mieszańców malin z jeżynami, świeże 0810 30 10 Porzeczki czarne, świeże 0810 30 30 Porzeczki czerwone, świeże ex 0810 30 90 Porzeczki białe, agrest, świeże 0810 40 50 Owoce z gatunków Vaccinium macrocarpon i Vaccinium corymbosum, świeże ex 0810 90 75 Aronia, świeże
 3.
-Grupa produktów „zioła kulinarne” Kod CN Nazwa ex 1211 90 85 Bazylia, melisa, mięta, lebiodka pospolita/dziki majeranek (Origanum vulgare), rozmaryn, szałwia, świeże lub schłodzone ex 0910 99 Tymianek, świeży lub schłodzony
+Grupa produktów „zioła kulinarne”
+Kod CN Nazwa ex 1211 90 85 Bazylia, melisa, mięta, lebiodka pospolita/dziki majeranek (Origanum vulgare), rozmaryn, szałwia, świeże lub schłodzone ex 0910 99 Tymianek, świeży lub schłodzony
 4.
-Grupa produktów „grzyby” Kod CN Nazwa 0709 51 00 Grzyby z rodzaju Agaricus ex 0709 59 90 Boczniaki, shii take, moon i inne grzyby uprawne
+Grupa produktów „grzyby”
+Kod CN Nazwa 0709 51 00 Grzyby z rodzaju Agaricus ex 0709 59 90 Boczniaki, shii take, moon i inne grzyby uprawne
 5.
 Grupa produktów „inne” Wszystkie pozostałe produkty, które nie są wymienione w ust. 1–4, a są zawarte w załączniku I w części IX rozporządzenia Rady (WE) nr 1234/2007 z dnia 22 października 2007 r. ustanawiającego wspólną organizację rynków rolnych oraz przepisy szczegółowe dotyczące niektórych produktów rolnych (rozporządzenie o jednolitej wspólnej organizacji rynku) (Dz. Urz. UE L 299 z 16.11.2007, str. 1, z późn. zm.).
 

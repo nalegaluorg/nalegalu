@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-28 |
 | Data wydania | 2020-11-03 |
-| Wejście w życie | 2020-11-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001937) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1937/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 101 i art. 102 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2020 r. poz. 265 i 285) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 19 grudnia 2014 r. w sprawie uprawnień szczególnych przysługujących niektórym kategoriom członków korpusu służby cywilnej (Dz. U. z 2015 r. poz. 30) po § 7 dodaje się § 7a-7c w brzmieniu:
-„
+W rozporządzeniu Prezesa Rady Ministrów z dnia 19 grudnia 2014 r. w sprawie uprawnień szczególnych przysługujących niektórym kategoriom członków korpusu służby cywilnej (Dz. U. z 2015 r. poz. 30) po § 7 dodaje się § 7a-7c w brzmieniu: „
 § 7a.
 1.
 Członkowi korpusu służby cywilnej zatrudnionemu w laboratorium kryminalistycznym Policji lub laboratorium kryminalistycznym Straży Granicznej, wykonującemu pracę w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia, przysługuje corocznie dodatkowy urlop wypoczynkowy, zwany dalej „urlopem dodatkowym”, w wymiarze:
@@ -113,9 +111,7 @@ Członkowi korpusu służby cywilnej wykonującemu pracę:
 1)
 na stanowisku, na którym występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia uprawniające do urlopu dodatkowego w różnym wymiarze,
 2)
-w różnych warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia uprawniających do urlopu dodatkowego w różnym wymiarze
-przysługuje jeden urlop w wymiarze korzystniejszym.
-” .
+w różnych warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia uprawniających do urlopu dodatkowego w różnym wymiarze – przysługuje jeden urlop w wymiarze korzystniejszym. ” .
 § 2.
 Prawo do dodatkowego urlopu wypoczynkowego w 2020 r. za poprzedni rok kalendarzowy nabywa członek korpusu służby cywilnej, o którym mowa w § 7a rozporządzenia zmienianego w § 1, zatrudniony w laboratorium kryminalistycznym Policji, laboratorium kryminalistycznym Straży Granicznej lub laboratorium Krajowej Administracji Skarbowej w dniu wejścia w życie niniejszego rozporządzenia.
 § 3.

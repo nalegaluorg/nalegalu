@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-06 |
 | Data wydania | 2021-05-11 |
-| Wejście w życie | 2021-05-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000884) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/884/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 42 ust. 2a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 42 ust. 2a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -132,5 +131,5 @@ podpis świadczeniodawcy.
 5.
 W przypadku dokonania korekty dokumentów, o których mowa w ust. 4, osoba uprawniona albo świadczeniodawca składają te dokumenty do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia, wraz ze szczegółowym uzasadnieniem przyczyny sporządzenia korekty, niezwłocznie po stwierdzeniu nieprawidłowości.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 23 marca 2012 r. w sprawie świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym (Dz. U. poz. 339 oraz z 2015 r. poz. 1317). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 23 marca 2012 r. w sprawie świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym (Dz. U. poz. 339 oraz z 2015 r. poz. 1317).
 

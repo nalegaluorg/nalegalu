@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-19 |
 | Data wydania | 2012-12-28 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1490/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 3b ust. 6 ustawy z dnia 18 grudnia 1998 r. o pracownikach sąd
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 17 stycznia 2008 r. w sprawie szczegółowego trybu i sposobu przeprowadzania konkursów na staż urzędniczy w sądzie i prokuraturze (Dz. U. Nr 21, poz. 129) wprowadza się następujące zmiany:
 1)
-w § 4 w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+w § 4 w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-w sądzie − inspektor do spraw biurowości i inni pracownicy wyznaczeni przez właściwego dyrektora sądu;
-” ;
+w sądzie − inspektor do spraw biurowości i inni pracownicy wyznaczeni przez właściwego dyrektora sądu; ” ;
 2)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
 Dyrektor sądu, zwany dalej „dyrektorem”, lub prokurator kierujący jednostką organizacyjną prokuratury, zwany dalej „prokuratorem”, określa wymagania dotyczące stanowiska pracy, na które jest przeprowadzany konkurs. Wymagania te powinny uwzględniać w szczególności:
 1)
@@ -58,20 +54,15 @@ odporność na stres;
 8)
 poziom wiedzy ogólnej i kultury osobistej;
 9)
-umiejętność pracy w zespole.
-” ;
+umiejętność pracy w zespole. ” ;
 3)
-w § 10 ust. 2 otrzymuje brzmienie:
-„
+w § 10 ust. 2 otrzymuje brzmienie: „
 2.
-Dyrektor lub prokurator upowszechnia informację, o której mowa w ust. 1 pkt 2, w sposób określony w § 8 ust. 3.
-” ;
+Dyrektor lub prokurator upowszechnia informację, o której mowa w ust. 1 pkt 2, w sposób określony w § 8 ust. 3. ” ;
 4)
-§ 11 otrzymuje brzmienie:
-„
+§ 11 otrzymuje brzmienie: „
 § 11.
-Dokumentację z przebiegu konkursu sekretarz komisji przekazuje dyrektorowi lub prokuratorowi w terminie 7 dni od dnia sporządzenia protokołu, o którym mowa w § 10 ust. 1.
-” .
+Dokumentację z przebiegu konkursu sekretarz komisji przekazuje dyrektorowi lub prokuratorowi w terminie 7 dni od dnia sporządzenia protokołu, o którym mowa w § 10 ust. 1. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 11 października 2018 r. w sprawie sposobu przekazywania, przechowywania i udostępniania dokumentów z wyborów
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 11 października 2018 r. w sprawie sposobu przekazywania, przechowywania i udostępniania dokumentów z wyborów Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-11 |
 | Data wydania | 2018-10-17 |
-| Wejście w życie | 2018-10-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001995) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1995/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie z dokumentami z wyborów z obwodowych komisji wyborczych Rozdział 3 – Postępowanie z dokumentami z wyborów z okręgowych, rejonowych i terytorialnych komisji wyborczych oraz od komisarzy wyborczych Rozdział 4 – Postępowanie z dokumentami z wyborów w delegaturach Krajowego Biura Wyborczego Rozdział 5 – Postępowanie z dokumentami z wyborów w Państwowej Komisji Wyborczej Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 8 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób przekazywania, przechowywania i udostępniania dokumentów z wyborów:
 1)
@@ -92,6 +92,7 @@ dla każdej pozycji protokołu:
 – oznaczenie identyfikujące poszczególne opakowania zbiorcze.
 § 5.
 W sprawach nieuregulowanych w rozporządzeniu, dotyczących przekazywania do archiwów państwowych oraz przechowywania w nich i udostępniania dokumentów z wyborów, stosuje się przepisy ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
+Postępowanie z dokumentami z wyborów z obwodowych komisji wyborczych
 § 6.
 1.
 Depozytariusz przyjmuje oraz przechowuje dokumenty z głosowania z obwodowych komisji wyborczych w sposób zapewniający ochronę tych dokumentów przed uszkodzeniem, zniszczeniem lub utratą oraz zapewniający ochronę danych osobowych znajdujących się w tych dokumentach przed nieuprawnionym ujawnieniem, na zasadach określonych przez Państwową Komisję Wyborczą na podstawie art. 79 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
@@ -103,17 +104,16 @@ Po upływie 30 dni i nie później niż 90 dni od dnia:
 1)
 rozstrzygnięcia przez Sąd Najwyższy w sprawie ważności wyborów, o których mowa w § 1 pkt 1–3,
 2)
-wydania przez sąd prawomocnych orzeczeń w sprawie ważności wyborów, o których mowa w § 1 pkt 4 i 5, a w przypadku wyborów, co do których nie zgłoszono protestów – od upływu terminu zgłaszania protestów
-dokumenty z głosowania, z wyjątkiem dokumentów, o których mowa w ust. 2 oraz § 3, w opakowaniach zbiorczych, o których mowa w art. 79 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, depozytariusz na podstawie protokołu zdawczo-odbiorczego za pośrednictwem urzędu go obsługującego przekazuje na przechowywanie do właściwego miejscowo archiwum państwowego, w którym są przechowywane przez okres co najmniej 5 lat, licząc od dnia 1 stycznia roku następnego po roku przekazania dokumentów; po upływie tego okresu dokumenty te podlegają brakowaniu; o brakowaniu dokumentów z głosowania i sposobie ich zniszczenia decyduje dyrektor właściwego miejscowo archiwum państwowego, po uzyskaniu opinii dyrektora delegatury Krajowego Biura Wyborczego.
+wydania przez sąd prawomocnych orzeczeń w sprawie ważności wyborów, o których mowa w § 1 pkt 4 i 5, a w przypadku wyborów, co do których nie zgłoszono protestów – od upływu terminu zgłaszania protestów – dokumenty z głosowania, z wyjątkiem dokumentów, o których mowa w ust. 2 oraz § 3, w opakowaniach zbiorczych, o których mowa w art. 79 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, depozytariusz na podstawie protokołu zdawczo-odbiorczego za pośrednictwem urzędu go obsługującego przekazuje na przechowywanie do właściwego miejscowo archiwum państwowego, w którym są przechowywane przez okres co najmniej 5 lat, licząc od dnia 1 stycznia roku następnego po roku przekazania dokumentów; po upływie tego okresu dokumenty te podlegają brakowaniu; o brakowaniu dokumentów z głosowania i sposobie ich zniszczenia decyduje dyrektor właściwego miejscowo archiwum państwowego, po uzyskaniu opinii dyrektora delegatury Krajowego Biura Wyborczego.
 2.
 Po upływie terminów, o których mowa w ust. 1, depozytariusz za pośrednictwem urzędu go obsługującego przekazuje, w sposób zapewniający ochronę przed uszkodzeniem, zniszczeniem lub utratą oraz zapewniający ochronę danych osobowych znajdujących się w dokumentach przed nieuprawnionym ujawnieniem, dyrektorowi właściwej miejscowo delegatury Krajowego Biura Wyborczego następujące dokumenty z wyborów, stanowiące materiały archiwalne wchodzące do państwowego zasobu archiwalnego:
 1)
 protokoły głosowania w obwodzie;
 2)
-protokoły posiedzeń, uchwały, urzędowe obwieszczenia, komunikaty oraz inne dokumenty
-dotyczące obsługi obwodowej komisji wyborczej;
+protokoły posiedzeń, uchwały, urzędowe obwieszczenia, komunikaty oraz inne dokumenty dotyczące obsługi obwodowej komisji wyborczej;
 3)
 dokumenty dotyczące powołania obwodowych komisji wyborczych.
+Postępowanie z dokumentami z wyborów z okręgowych, rejonowych i terytorialnych komisji wyborczych oraz od komisarzy wyborczych
 § 8.
 Dokumenty z wyborów z okręgowych, rejonowych i terytorialnych komisji wyborczych oraz od komisarzy wyborczych stanowią materiały archiwalne wchodzące do państwowego zasobu archiwalnego, o ile przepis rozporządzenia nie stanowi inaczej.
 § 9.
@@ -130,6 +130,7 @@ Po upływie terminu określonego w § 7 ust. 1 pkt 2 urzędnik wyborczy przekazu
 Jeżeli urzędnik wyborczy przechowywał dwa egzemplarze dokumentów z wyborów, przekazaniu dyrektorowi właściwej miejscowo delegatury Krajowego Biura Wyborczego podlega jeden egzemplarz, a po zakończeniu przekazywania drugi egzemplarz może podlegać brakowaniu, zgodnie z przepisami ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, przy czym wniosek o wyrażenie zgody na brakowanie składa dyrektor właściwej miejscowo delegatury Krajowego Biura Wyborczego, a zgodę na brakowanie wyraża dyrektor archiwum państwowego właściwego miejscowo dla siedziby delegatury Krajowego Biura Wyborczego.
 3.
 Kopia protokołu głosowania w obwodzie, o którym mowa w art. 77 § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, przekazywanego do wójta podlega brakowaniu, po upływie 30 dni od dnia przekazania.
+Postępowanie z dokumentami z wyborów w delegaturach Krajowego Biura Wyborczego
 § 12.
 Dyrektor delegatury Krajowego Biura Wyborczego przechowuje dokumenty z wyborów warchiwum zakładowym w sposób zapewniający ich ochronę przed uszkodzeniem, zniszczeniem lub utratą oraz zapewniający ochronę danych osobowych znajdujących się w tych dokumentach przed nieuprawnionym ujawnieniem.
 § 13.
@@ -182,6 +183,7 @@ Dokumenty z wyborów przechowywane w delegaturze Krajowego Biura Wyborczego udos
 Udostępnieniu, o którym mowa w ust. 1, nie podlegają dokumenty, o których mowa w § 13 ust. 3.
 3.
 Przekazanie informacji zawartych w dokumentach z wyborów w postaci reprodukcji tych dokumentów, w tym reprodukcji uwierzytelnionych, albo w postaci pisemnej odpowiedzi na zapytanie wymaga zgody dyrektora delegatury Krajowego Biura Wyborczego.
+Postępowanie z dokumentami z wyborów w Państwowej Komisji Wyborczej
 § 15.
 Szef Krajowego Biura Wyborczego przyjmuje i przechowuje w archiwum zakładowym Krajowego Biura Wyborczego dokumenty z wyborów z Państwowej Komisji Wyborczej w sposób zapewniający ich ochronę przed uszkodzeniem, zniszczeniem lub utratą oraz zapewniający ochronę danych osobowych znajdujących się w tych dokumentach przed nieuprawnionym ujawnieniem.
 § 16.
@@ -206,19 +208,31 @@ Dokumenty, o których mowa w § 16 ust. 1 pkt 2, po upływie okresów przechowyw
 Brakowanie, o którym mowa w ust. 1, przeprowadza się zgodnie z przepisami ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
 § 18.
 Do udostępniania dokumentów z wyborów, przechowywanych przez Szefa Krajowego Biura Wyborczego, stosuje się odpowiednio przepisy § 14.
+Przepis końcowy
 § 19.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 13 listopada 2013 r. w sprawie sposobu przekazywania, przechowywania i udostępniania dokumentów z wyborów (Dz. U. poz. 1488), które utraciło moc z dniem 1 sierpnia 2018 r. na podstawie art. 18 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130 i 1349).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 13 listopada 2013 r. w sprawie sposobu przekazywania, przechowywania i udostępniania dokumentów z wyborów (Dz. U. poz. 1488), które utraciło moc z dniem 1 sierpnia 2018 r. na podstawie art. 18 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130 i 1349). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 13 listopada 2013 r. w sprawie sposobu przekazywania, przechowywania i udostępniania dokumentów z wyborów (Dz. U. poz. 1488), które utraciło moc z dniem 1 sierpnia 2018 r. na podstawie art. 18 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130 i 1349).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Postępowanie z dokumentami z wyborów z obwodowych komisji wyborczych
+#### Rozdział 2 – Postępowanie z dokumentami z wyborów z obwodowych komisji wyborczych
 
-#### Rozdział 3 Postępowanie z dokumentami z wyborów z okręgowych, rejonowych i terytorialnych komisji wyborczych oraz od komisarzy wyborczych
+#### Rozdział 3 – Postępowanie z dokumentami z wyborów z okręgowych, rejonowych i terytorialnych komisji wyborczych oraz od komisarzy wyborczych
 
-#### Rozdział 4 Postępowanie z dokumentami z wyborów w delegaturach Krajowego Biura Wyborczego
+#### Rozdział 4 – Postępowanie z dokumentami z wyborów w delegaturach Krajowego Biura Wyborczego
 
-#### Rozdział 5 Postępowanie z dokumentami z wyborów w Państwowej Komisji Wyborczej
+#### Rozdział 5 – Postępowanie z dokumentami z wyborów w Państwowej Komisji Wyborczej
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-06-23 |
 | Data wydania | 2006-08-11 |
-| Wejście w życie | 2006-08-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061441041) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1041/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych (Dz. U. Nr 39, poz. 311, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych (Dz. U. Nr 39, poz. 311, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1959 r. Nr 11, poz. 62, z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 113, poz. 984 oraz z 2005 r. Nr 169, poz. 1420 i Nr 175, poz. 1462.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 1 otrzymuje brzmienie: „
 
@@ -48,7 +47,7 @@ source: "eli-html"
 
 - **5)** w art. 6 ust. 1–3 otrzymują brzmienie: „
 
-1. Groby i cmentarze wojenne pozostają pod opieką Państwa; zwierzchni nadzór nad nimi, polegający na sprawdzaniu i kontrolowaniu działań podległych jednostek pod względem legalności i podejmowania w tym zakresie decyzji administracyjnych, sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, z zachowaniem uprawnień przysługujących Kościołom i innym związkom wyznaniowym oraz wójtom (burmistrzom, prezydentom miast) na podstawie ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2000 r. Nr 23, poz. 295, z późn. zm.) oraz uprawnień przysługujących Radzie Ochrony Pamięci Walk i Męczeństwa na podstawie ustawy z dnia 21 stycznia 1988 r. o Radzie Ochrony Pamięci Walk i Męczeństwa (Dz. U. Nr 2, poz. 2, z 1996 r. Nr 106, poz. 496 oraz z 2000 r. Nr 31, poz. 382).
+1. Groby i cmentarze wojenne pozostają pod opieką Państwa; zwierzchni nadzór nad nimi, polegający na sprawdzaniu i kontrolowaniu działań podległych jednostek pod względem legalności i podejmowania w tym zakresie decyzji administracyjnych, sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, z zachowaniem uprawnień przysługujących Kościołom i innym związkom wyznaniowym oraz wójtom (burmistrzom, prezydentom miast) na podstawie ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2000 r. Nr 23, poz. 295, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568.) oraz uprawnień przysługujących Radzie Ochrony Pamięci Walk i Męczeństwa na podstawie ustawy z dnia 21 stycznia 1988 r. o Radzie Ochrony Pamięci Walk i Męczeństwa (Dz. U. Nr 2, poz. 2, z 1996 r. Nr 106, poz. 496 oraz z 2000 r. Nr 31, poz. 382).
 
 2. Koszty utrzymania grobów i cmentarzy wojennych są ponoszone ze środków budżetu państwa.
 
@@ -60,5 +59,5 @@ source: "eli-html"
 
 **Art. 2.** W celu wykonania przepisów ustawy, Prezes Rady Ministrów może dokonać, w drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych z części 24- Kultura i ochrona dziedzictwa narodowego do części 85 – Budżety wojewodów, w zakresie realizacji zadań utrzymania grobów i cmentarzy wojennych, z zachowaniem przeznaczenia środków publicznych, wynikającego z ustawy budżetowej na rok 2006.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1959 r. Nr 11, poz. 62, z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 113, poz. 984 oraz z 2005 r. Nr 169, poz. 1420 i Nr 175, poz. 1462. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-21 |
 | Data wydania | 2015-09-09 |
-| Wejście w życie | 2015-09-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001344) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1344/text.pdf) |
 
@@ -63,8 +62,7 @@ Jeżeli podmiot kontrolowany nie zgadza się z wynikami kontroli zawartymi w rap
 1)
 7 dni – w przypadku działań, o których mowa w art. 3 ust. 1 pkt 1–7, pkt 8 ustawy, w zakresie kosztów założenia, o których mowa w art. 22 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), pkt 9, pkt 13 i pkt 14 ustawy,
 2)
-14 dni – w przypadku działań, o których mowa w art. 3 ust. 1 pkt 8 ustawy, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia wymienionego w pkt 1, i pkt 10–12 ustawy
-od dnia otrzymania kopii raportu z czynności kontrolnych, chyba że bezpośrednio po zakończeniu czynności kontrolnych podmiot kontrolowany zgłosił kontrolującym umotywowane uwagi co do wyników kontroli zawartych w tym raporcie.
+14 dni – w przypadku działań, o których mowa w art. 3 ust. 1 pkt 8 ustawy, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia wymienionego w pkt 1, i pkt 10–12 ustawy – od dnia otrzymania kopii raportu z czynności kontrolnych, chyba że bezpośrednio po zakończeniu czynności kontrolnych podmiot kontrolowany zgłosił kontrolującym umotywowane uwagi co do wyników kontroli zawartych w tym raporcie.
 2.
 Jeżeli uwagi są zasadne, kontrolujący niezwłocznie sporządzają zmieniony lub uzupełniony raport z czynności kontrolnych; do zmienionego lub uzupełnionego raportu z czynności kontrolnych § 6 stosuje się odpowiednio.
 3.

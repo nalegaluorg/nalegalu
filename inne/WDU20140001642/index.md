@@ -25,9 +25,10 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001642) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1642/text.pdf) |
 
-Treść obwieszczenia Rozdział 1 – Dane zbiorcze Rozdział 2 – Zbiorcze wyniki wyborów Rozdział 3 – Wyniki wyborów
 Treść obwieszczenia
-Na podstawie art. 477 § 1 w związku z art. 168 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) Państwowa Komisja Wyborcza podaje do publicznej wiadomości, na podstawie danych zawartych w obwieszczeniach komisarzy wyborczych, zbiorcze wyniki wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 16 listopada 2014 r.
+Treść obwieszczenia
+Na podstawie art. 477 § 1 w związku z art. 168 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.) Państwowa Komisja Wyborcza podaje do publicznej wiadomości, na podstawie danych zawartych w obwieszczeniach komisarzy wyborczych, zbiorcze wyniki wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 16 listopada 2014 r.
+Dane zbiorcze
 1.
 Wybierano łącznie 2 477 wójtów, burmistrzów i prezydentów miast spośród 8 044 kandydatów, w tym w 251 gminach i miastach, w których zarejestrowano tylko jednego kandydata.
 2.
@@ -48,6 +49,7 @@ głosy nieważne z powodu niepostawienia znaku „x” stanowiły 67,3% ogólnej
 głosy nieważne z powodu postawienia dwu lub więcej znaków „x” stanowiły 26,0% ogólnej liczby głosów nieważnych;
 3)
 głosy nieważne z innych przyczyn stanowiły 6,7% ogólnej liczby głosów nieważnych.
+Zbiorcze wyniki wyborów
 1.
 Wybierano łącznie 2 477 wójtów, burmistrzów i prezydentów miast, z czego:
 1)
@@ -72,6 +74,7 @@ b)
 w 44 miastach na prawach powiatu.
 4.
 W obwieszczeniach komisarzy wyborczych zawarte są: nazwiska i imiona wybranych wójtów, burmistrzów i prezydentów miast wraz z oznaczeniami komitetów wyborczych, które zgłosiły ich kandydatury, oraz nazwiska kandydatów na wójtów, burmistrzów i prezydentów miast, którzy uczestniczą w ponownym głosowaniu.
+Wyniki wyborów
 W następujących gminach i miastach, o których mowa w pkt 3 rozdziału 2, zgodnie z art. 473 § 2 Kodeksu wyborczego, w dniu 30 listopada 2014 r. zostanie przeprowadzone ponowne głosowanie:
 1.
 Województwo dolnośląskie
@@ -1884,11 +1887,17 @@ gm. Widuchowa – powiat gryfiński
 56)
 gm. Wolin – powiat kamieński
 57)
-gm. Złocieniec – powiat drawski
+gm. Złocieniec – powiat drawski 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.
 
-#### Rozdział 1 Dane zbiorcze
+#### Rozdział 1 – Dane zbiorcze
 
-#### Rozdział 2 Zbiorcze wyniki wyborów
+#### Rozdział 2 – Zbiorcze wyniki wyborów
 
-#### Rozdział 3 Wyniki wyborów
+#### Rozdział 3 – Wyniki wyborów
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

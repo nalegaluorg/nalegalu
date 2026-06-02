@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-08-30 |
 | Data wydania | 2002-09-18 |
-| Wejście w życie | 2002-10-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021521266) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1266/text.pdf) |
 
@@ -35,11 +34,9 @@ Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biob
 4.
 Pracownicy Centralnego Ośrodka Techniki Medycznej stają się z dniem likwidacji pracownikami Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych. Do pracowników tych stosuje się przepis art. 231 Kodeksu pracy.
 5.
-W sprawach nieuregulowanych w ustawie, do likwidacji Centralnego Ośrodka Techniki Medycznej stosuje się odpowiednio przepisy o jednostkach badawczo-rozwojowych.
-” ;
+W sprawach nieuregulowanych w ustawie, do likwidacji Centralnego Ośrodka Techniki Medycznej stosuje się odpowiednio przepisy o jednostkach badawczo-rozwojowych. ” ;
 10)
-po art. 22 dodaje się art. 22a w brzmieniu:
-„
+po art. 22 dodaje się art. 22a w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 6 września 2001 r. – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 126, poz. 1382 i Nr 154, poz. 1801 oraz z 2002 r. Nr 32, poz. 300) wprowadza się następujące zmiany:
 

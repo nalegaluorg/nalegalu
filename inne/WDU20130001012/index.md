@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz niektórych innych ustaw
+# Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej, ustawę z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym oraz ustawę z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji finansowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-07-26 |
 | Data wydania | 2013-09-03 |
-| Wejście w życie | 2013-10-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001012) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1012/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2009 r. Nr 84, poz. 711, z późn. zm.) wprowadza się następujące zmiany:
+Fundusz stabilizacyjny i udzielanie pomocy ze środków tego funduszu
+
+**Art. 1.** W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2009 r. Nr 84, poz. 711, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 - **6)** źródła finansowania funduszu stabilizacyjnego, rodzaje działań finansowanych ze środków funduszu stabilizacyjnego oraz zasady i tryb wykorzystania środków gromadzonych na tym funduszu. ” ;
@@ -40,8 +41,11 @@ source: "eli-html"
 
 - **1)** udzielanie gwarancji zwiększania funduszy własnych banku krajowego, zwanej dalej „gwarancją rekapitalizacyjną”, a w przypadku wykonania tej gwarancji – nabywanie lub obejmowanie akcji, obligacji lub bankowych papierów wartościowych banku krajowego;
 - **2)** określanie wysokości stawki opłaty ostrożnościowej, o której mowa w art. 14a, wnoszonej przez podmioty objęte systemem gwarantowania na rzecz Funduszu. ” ;
-- **4)** w art. 7: w ust. 2: – pkt 5 otrzymuje brzmienie: „ 5) określanie na wniosek Zarządu Funduszu wysokości stawek obowiązkowej opłaty rocznej i opłaty ostrożnościowej podmiotów objętych systemem gwarantowania oraz stawki określającej wysokość funduszy ochrony środków gwarantowanych; ” , – po pkt 7d dodaje się pkt 7e w brzmieniu: „ 7e) określanie zasad udzielania pomocy finansowej, o której mowa w art. 4 ust. 1j pkt 1, oraz zasad zarządzania akcjami, obligacjami i bankowymi papierami wartościowymi banku krajowego nabytymi lub objętymi w wyniku wykonania gwarancji rekapitalizacyjnej; ” , dodaje się ust. 3 w brzmieniu: „
+- **4)** w art. 7: w ust. 2: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** określanie na wniosek Zarządu Funduszu wysokości stawek obowiązkowej opłaty rocznej i opłaty ostrożnościowej podmiotów objętych systemem gwarantowania oraz stawki określającej wysokość funduszy ochrony środków gwarantowanych; ” , po pkt 7d dodaje się pkt 7e w brzmieniu: „
+- **7e)** określanie zasad udzielania pomocy finansowej, o której mowa w art. 4 ust. 1j pkt 1, oraz zasad zarządzania akcjami, obligacjami i bankowymi papierami wartościowymi banku krajowego nabytymi lub objętymi w wyniku wykonania gwarancji rekapitalizacyjnej; ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. Przy określaniu wysokości stawki obowiązkowej opłaty rocznej, o której mowa w art. 13 ust. 1, oraz stawki opłaty ostrożnościowej, o której mowa w art. 14a, Rada Funduszu uwzględnia w szczególności sytuację w sektorze finansowym oraz jego otoczeniu makroekonomicznym. ” ;
@@ -113,7 +117,7 @@ source: "eli-html"
 
 - **10)** po art. 18 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Fundusz stabilizacyjny i udzielanie pomocy ze środków tego funduszu
+#### Rozdział 2a
 
 **Art. 18a.**
 
@@ -150,9 +154,9 @@ source: "eli-html"
 
 4b. Fundusz i Narodowy Bank Polski przekazują sobie informacje, w tym informacje niejawne w rozumieniu przepisów o ochronie informacji niejawnych, w zakresie niezbędnym do wykonywania ich ustawowo określonych zadań. ” .
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.) w art. 16 w ust. 1 w pkt 67 kropkę zastępuje się średnikiem i dodaje się pkt 68 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 362, 596, 769, 1010, 1342, 1448 i 1540 oraz z 2013 r. poz. 21, 613 i 888.) w art. 16 w ust. 1 w pkt 67 kropkę zastępuje się średnikiem i dodaje się pkt 68 w brzmieniu: „
 
-- **68)** opłaty ostrożnościowej, o której mowa w art. 14a ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2009 r. Nr 84, poz. 711, z późn. zm.). ” . W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2012 r. poz. 1149, z późn. zm.) art. 17a otrzymuje brzmienie: „
+- **68)** opłaty ostrożnościowej, o której mowa w art. 14a ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2009 r. Nr 84, poz. 711, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613 i 1012.). ” . W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2012 r. poz. 1149, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 i 1385 oraz z 2013 r. poz. 70.) art. 17a otrzymuje brzmienie: „
 
 **Art. 17a.** Przewodniczący Komisji może przekazywać Ministrowi Finansów, Narodowemu Bankowi Polskiemu oraz Bankowemu Funduszowi Gwarancyjnemu informacje uzyskane przez Komisję, w tym także informacje chronione na podstawie odrębnych ustaw, niezbędne do realizacji celu działalności i zadań Komitetu Stabilności Finansowej. ” .
 
@@ -182,7 +186,7 @@ source: "eli-html"
 
 **Art. 13.** Informacje opublikowane przez Komitet nie stanowią podstawy roszczeń ani zobowiązań osób trzecich wobec Skarbu Państwa, Narodowego Banku Polskiego lub Bankowego Funduszu Gwarancyjnego. ” .
 
-**Art. 5.** W ustawie z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. Nr 39, poz. 308, z późn. zm.) uchyla się art. 20.
+**Art. 5.** W ustawie z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. Nr 39, poz. 308, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 3, poz. 12, z 2011 r. Nr 38, poz. 196 i Nr 186, poz. 1101 oraz z 2012 r. poz. 1166.) uchyla się art. 20.
 
 **Art. 6.** W ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji finansowych (Dz. U. Nr 40, poz. 226 oraz z 2011 r. Nr 38, poz. 196) wprowadza się następujące zmiany:
 
@@ -204,11 +208,11 @@ source: "eli-html"
 
 - **b)**
 
-2a. W przypadku podjęcia decyzji o udzieleniu gwarancji zwiększenia funduszy własnych minister właściwy do spraw instytucji finansowych, uwzględniając konieczność zapewnienia stabilności krajowego systemu finansowego, o którym mowa art. 2 pkt 1 ustawy z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej (Dz. U. Nr 209, poz. 1317 oraz z 2013 r. poz. 1012), oraz zasadność wykorzystania budżetowych i pozabudżetowych źródeł finansowania, może zwrócić się z wnioskiem do Bankowego Funduszu Gwarancyjnego o udzielenie we własnym imieniu gwarancji ze środków funduszu stabilizacyjnego, o którym mowa w art. 18a ust. 1 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2009 r. Nr 84, poz. 711, z późn. zm.), w zakresie całości lub części kwoty objętej wnioskiem banku krajowego. ” ;
+2a. W przypadku podjęcia decyzji o udzieleniu gwarancji zwiększenia funduszy własnych minister właściwy do spraw instytucji finansowych, uwzględniając konieczność zapewnienia stabilności krajowego systemu finansowego, o którym mowa art. 2 pkt 1 ustawy z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej (Dz. U. Nr 209, poz. 1317 oraz z 2013 r. poz. 1012), oraz zasadność wykorzystania budżetowych i pozabudżetowych źródeł finansowania, może zwrócić się z wnioskiem do Bankowego Funduszu Gwarancyjnego o udzielenie we własnym imieniu gwarancji ze środków funduszu stabilizacyjnego, o którym mowa w art. 18a ust. 1 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2009 r. Nr 84, poz. 711, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613 i 1012.), w zakresie całości lub części kwoty objętej wnioskiem banku krajowego. ” ;
 
 - **6)** w art. 14 uchyla się ust. 2a i 2b.
 
 **Art. 7.** Podmioty objęte obowiązkowym systemem gwarantowania są obowiązane do wniesienia po raz pierwszy opłaty ostrożnościowej za rok wejścia w życie ustawy w wysokości określonej w art. 14a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 60 dni od dnia opublikowania uchwały Rady Bankowego Funduszu Gwarancyjnego o wysokości stawki tej opłaty w dwóch dziennikach o zasięgu ogólnokrajowym.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej, ustawę z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym oraz ustawę z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji finansowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 362, 596, 769, 1010, 1342, 1448 i 1540 oraz z 2013 r. poz. 21, 613 i 888. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613 i 1012. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 i 1385 oraz z 2013 r. poz. 70. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 3, poz. 12, z 2011 r. Nr 38, poz. 196 i Nr 186, poz. 1101 oraz z 2012 r. poz. 1166. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613 i 1012.
 

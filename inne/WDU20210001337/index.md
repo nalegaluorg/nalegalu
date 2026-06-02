@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 12 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny (Dz. U. z 2014 r. poz. 1791), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 18 sierpnia 2020 r. zmieniającym rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 1474).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 18 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 1474), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 18 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 1474), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 12 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny
 Na podstawie art. 23 ust. 4 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2020 r. poz. 2055) zarządza się, co następuje:
 § 1.
@@ -96,20 +94,20 @@ rodzajach problemów, z jakimi zgłaszają się weterani poszkodowani-żołnierz
 § 6.
 1.
 Dane statystyczne, o których mowa w § 5, przesyłane są w formie sprawozdań składanych do dnia 15 lutego każdego roku, za rok poprzedni, przez:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Obrony Narodowej z dnia 18 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 1474), które weszło w życie z dniem 12 września 2020 r.)
 psychologów w jednostkach wojskowych – do psychologów koordynujących działalność psychologiczną w Dowództwie Generalnym Rodzajów Sił Zbrojnych, w Dowództwie Operacyjnym Rodzajów Sił Zbrojnych, w Inspektoracie Wsparcia Sił Zbrojnych, w Komendzie Głównej Żandarmerii Wojskowej, w Dowództwie Garnizonu Warszawa oraz w Dowództwie Wojsk Obrony Terytorialnej;
 2)
 psychologów w wojskowych pracowniach psychologicznych – do Dyrektora Centralnej Wojskowej Pracowni Psychologicznej;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 1.)
 psychologów w podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej – do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Zbiorcze sprawozdania obejmujące sprawozdania, o których mowa w ust. 1 pkt 1 i 2, są przesyłane, drogą służbową, do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia w terminie do dnia 31 marca każdego roku za rok poprzedni.
 § 7.
-Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia:
+Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 1)
 przedstawia Ministrowi Obrony Narodowej zbiorcze dane statystyczne, o których mowa w § 5, do dnia 15 kwietnia każdego roku, za rok poprzedni;
 2)
 prowadzi ewidencję jednostek wojskowych, wojskowych pracowni psychologicznych oraz podmiotów leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej, w których weterani-żołnierze, weterani poszkodowani-żołnierze oraz najbliżsi członkowie ich rodzin mogą uzyskać pomoc psychologiczną, na potrzeby psychologów świadczących tę pomoc.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 30 marca 2012 r.
+Rozporządzenie wchodzi w życie z dniem 30 marca 2012 r. 1) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Obrony Narodowej z dnia 18 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 1474), które weszło w życie z dniem 12 września 2020 r. 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 

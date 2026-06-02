@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-08 |
 | Data wydania | 2024-12-12 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-12-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001840) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1840/text.pdf) |
 
@@ -335,7 +334,7 @@ source: "eli-html"
 - **6)** utrzymania urządzeń, pomieszczeń i otoczenia budynków przeznaczonych do wspólnego używania przez lokatorów,
 - **7)** korzystania z wind,
 - **8)** wywozu śmieci,
-- **9)** innych świadczeń i opłat wynikających z miejscowych warunków i zwyczajów jeżeli jest obowiązany do ich ponoszenia.
+- **9)** innych świadczeń i opłat wynikających z miejscowych warunków i zwyczajów – jeżeli jest obowiązany do ich ponoszenia.
 
 3. W odniesieniu do lokali przydzielonych ambasadorowi i stałemu przedstawicielowi Rzeczypospolitej Polskiej przy organizacji międzynarodowej, którzy kierują przedstawicielstwami dyplomatycznymi, pracodawca pokrywa koszty energii elektrycznej wykorzystywanej na potrzeby powierzchni reprezentacyjnej jedynie wówczas, gdy powierzchnia ta nie jest wykorzystywana przez członków służby zagranicznej na potrzeby gospodarstwa domowego.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-19 |
 | Data wydania | 2004-01-15 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040060042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/42/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. Nr 86, poz. 959, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. Nr 86, poz. 959, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 103, poz. 1099, z 2001 r. Nr 100, poz. 1085, z 2002 r. Nr 121, poz. 1031 i Nr 199, poz. 1672 oraz z 2003 r. Nr 80, poz. 721, Nr 96, poz. 874 i Nr 137, poz. 1302.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: w ust. 1 pkt 2 i 3 otrzymują brzmienie: „
     - **a)**
@@ -130,5 +129,5 @@ source: "eli-html"
 
 **Art. 4.** Kwot dopłat w spółce kapitałowej, o których mowa w art. 6 ust. 9 pkt 6 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie odlicza się od podstawy opodatkowania, jeżeli dopłaty zostały wniesione przed dniem przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, z wyjątkiem art. 1 pkt 3 i pkt 6 lit. a, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia, oraz art. 1 pkt 9, który wchodzi w życie z dniem ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, z wyjątkiem art. 1 pkt 3 i pkt 6 lit. a, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia, oraz art. 1 pkt 9, który wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 103, poz. 1099, z 2001 r. Nr 100, poz. 1085, z 2002 r. Nr 121, poz. 1031 i Nr 199, poz. 1672 oraz z 2003 r. Nr 80, poz. 721, Nr 96, poz. 874 i Nr 137, poz. 1302.
 

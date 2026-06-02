@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 grudnia 2012 r. w sprawie sposobu prowadzenia rejestru zakładów wytwarzających pasze
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 grudnia 2012 r. w sprawie sposobu prowadzenia rejestru zakładów wytwarzających pasze Przepisy niniejszego rozporządzenia wykonują postanowienia rozporządzenia (WE) nr 183/2005 Parlamentu Europejskiego i Rady z dnia 12 stycznia 2005 r. ustanawiającego wymagania dotyczące higieny pasz (Dz. Urz. UE L 35 z 08.02.2005, str. 1, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-24 |
 | Data wydania | 2013-01-16 |
-| Wejście w życie | 2013-01-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/68/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Zakres danych i informacji wpisywanych do rejestru zakładów
 Treść rozporządzenia
-Na podstawie art. 11 ust. 5 pkt 1 ustawy z dnia 22 lipca 2006 r. o paszach (Dz. U. Nr 144, poz. 1045, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11 ust. 5 pkt 1 ustawy z dnia 22 lipca 2006 r. o paszach (Dz. U. Nr 144, poz. 1045, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 144, poz. 899, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 230, poz. 1511, z 2011 r. Nr 106, poz. 622 oraz z 2012 r. poz. 1007.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -98,8 +97,7 @@ Wykaz zakładów zarejestrowanych zgodnie z art. 9 rozporządzenia nr 183/2005 p
 § 6.
 Zakres danych i informacji wpisywanych do rejestru zakładów jest określony w załączniku do rozporządzenia.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-2) Przepisy niniejszego rozporządzenia wykonują postanowienia rozporządzenia (WE) nr 183/2005 Parlamentu Europejskiego i Rady z dnia 12 stycznia 2005 r. ustanawiającego wymagania dotyczące higieny pasz (Dz. Urz. UE L 35 z 08.02.2005, str. 1, z późn. zm.). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 144, poz. 899, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 230, poz. 1511, z 2011 r. Nr 106, poz. 622 oraz z 2012 r. poz. 1007. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 1 marca 2007 r. w sprawie sposobu prowadzenia rejestru zakładów wytwarzających pasze (Dz. U. Nr 45, poz. 291 oraz z 2008 r. Nr 30, poz. 182), które utraciło moc na podstawie art. 3 ustawy z dnia 22 października 2010 r. o zmianie ustawy o paszach oraz ustawy o bezpieczeństwie żywności i żywienia (Dz. U. Nr 230, poz. 1511).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 1 marca 2007 r. w sprawie sposobu prowadzenia rejestru zakładów wytwarzających pasze (Dz. U. Nr 45, poz. 291 oraz z 2008 r. Nr 30, poz. 182), które utraciło moc na podstawie art. 3 ustawy z dnia 22 października 2010 r. o zmianie ustawy o paszach oraz ustawy o bezpieczeństwie żywności i żywienia (Dz. U. Nr 230, poz. 1511). 2) Przepisy niniejszego rozporządzenia wykonują postanowienia rozporządzenia (WE) nr 183/2005 Parlamentu Europejskiego i Rady z dnia 12 stycznia 2005 r. ustanawiającego wymagania dotyczące higieny pasz (Dz. Urz. UE L 35 z 08.02.2005, str. 1, z późn. zm.). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 144, poz. 899, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278, Nr 60, poz. 372 i Nr 230, poz. 1511, z 2011 r. Nr 106, poz. 622 oraz z 2012 r. poz. 1007. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 1 marca 2007 r. w sprawie sposobu prowadzenia rejestru zakładów wytwarzających pasze (Dz. U. Nr 45, poz. 291 oraz z 2008 r. Nr 30, poz. 182), które utraciło moc na podstawie art. 3 ustawy z dnia 22 października 2010 r. o zmianie ustawy o paszach oraz ustawy o bezpieczeństwie żywności i żywienia (Dz. U. Nr 230, poz. 1511).
 Załącznik – Zakres danych i informacji wpisywanych do rejestru zakładów
 Do rejestru zakładów, oprócz informacji, o których mowa w art. 10 ust. 2–4 ustawy z dnia 22 lipca 2006 r. o paszach, wpisuje się:
 1)
@@ -120,7 +118,7 @@ informacje o zastosowaniu środków, o których mowa w art. 54 ust. 2 rozporząd
 w przypadku zakładów, które podlegają rejestracji zgodnie z art. 9 rozporządzenia nr 183/2005, prowadzących działalność określoną w art. 5 ust. 1 tego rozporządzenia:
 a)
 numer umożliwiający identyfikację zakładu, poprzedzony kodem PL, składający się z 10 znaków alfanumerycznych, z których:
-– pierwszy i drugi stanowią cyfry oznaczające symbol województwa, nadany województwom w sposób określony w rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. Nr 157, poz. 1031, z późn. zm.),
+– pierwszy i drugi stanowią cyfry oznaczające symbol województwa, nadany województwom w sposób określony w rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. Nr 157, poz. 1031, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. Nr 13, poz. 161, z 2001 r. Nr 12, poz. 100 i Nr 157, poz. 1840, z 2002 r. Nr 177, poz. 1459, z 2003 r. Nr 208, poz. 2022, z 2004 r. Nr 254, poz. 2535, z 2005 r. Nr 206, poz. 1706, z 2006 r. Nr 36, poz. 246 i Nr 214, poz. 1577, z 2007 r. Nr 192, poz. 1386, z 2008 r. Nr 215, poz. 1358, z 2009 r. Nr 202, poz. 1559, z 2010 r. Nr 257, poz. 1727 oraz z 2012 r. poz. 403 i 1389.),
 – trzeci i czwarty stanowią cyfry oznaczające symbol powiatu nadany powiatom danego województwa w sposób określony w przepisach rozporządzenia, o którym mowa w tiret pierwsze,
 – piąty-dziewiąty stanowią cyfry informujące o kolejności podejmowania działalności w danym powiecie,
 – dziesiąty stanowi litera „p” będąca wyróżnikiem dla prowadzonej działalności w zakresie obrotu paszami lub wytwarzania pasz,
@@ -203,5 +201,5 @@ F określający zakłady prowadzące co najmniej jedno z wymienionych poniżej d
 – wytwarzanie biodiesla,
 – mieszanie tłuszczów;
 6)
-w przypadku zakładów, które podlegają zatwierdzeniu zgodnie z przepisami rozporządzenia nr 999/2001 – numer umożliwiający identyfikację zakładu.
+w przypadku zakładów, które podlegają zatwierdzeniu zgodnie z przepisami rozporządzenia nr 999/2001 – numer umożliwiający identyfikację zakładu. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. Nr 13, poz. 161, z 2001 r. Nr 12, poz. 100 i Nr 157, poz. 1840, z 2002 r. Nr 177, poz. 1459, z 2003 r. Nr 208, poz. 2022, z 2004 r. Nr 254, poz. 2535, z 2005 r. Nr 206, poz. 1706, z 2006 r. Nr 36, poz. 246 i Nr 214, poz. 1577, z 2007 r. Nr 192, poz. 1386, z 2008 r. Nr 215, poz. 1358, z 2009 r. Nr 202, poz. 1559, z 2010 r. Nr 257, poz. 1727 oraz z 2012 r. poz. 403 i 1389.
 

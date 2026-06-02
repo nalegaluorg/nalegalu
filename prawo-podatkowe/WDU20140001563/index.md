@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 września 2014 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
+# Ustawa z dnia 26 września 2014 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-26 |
 | Data wydania | 2014-11-12 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001563) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1563/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215 i 1328.) wprowadza się następujące zmiany:
 
 - **1)** w art. 35 ust. 10 otrzymuje brzmienie: „
 
@@ -68,7 +67,7 @@ source: "eli-html"
 
 4. Płatnicy oraz podmioty wymienione w ust. 2, którzy wybrali składanie informacji oraz rocznego obliczenia podatku w formie dokumentu pisemnego, informacje oraz roczne obliczenie podatku sporządzane w tej formie po zakończeniu roku podatkowego przesyłają urzędowi skarbowemu do końca stycznia roku następującego po roku podatkowym. ” .
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328 i 1457.) wprowadza się następujące zmiany:
 
 - **1)** w art. 26 dodaje się ust. 8 w brzmieniu: „
 
@@ -82,7 +81,7 @@ source: "eli-html"
 
 **Art. 27a.** Zeznanie, o którym mowa w art. 27 ust. 1, oraz informacja, o której mowa w art. 26 ust. 3 pkt 2 oraz ust. 3b-3d, mogą być składane w formie dokumentu pisemnego, jeżeli podmioty obowiązane do ich sporządzenia są zwolnione na podstawie art. 45ba ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych z obowiązku składania za pomocą środków komunikacji elektronicznej deklaracji, informacji oraz rocznego obliczenia podatku. ” .
 
-**Art. 3.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764, z 2012 r. poz. 1529 i 1540 oraz z 2014 r. poz. 223 i 1328.) wprowadza się następujące zmiany:
 
 - **1)** w art. 36 ust. 7 otrzymuje brzmienie: „
 
@@ -97,5 +96,5 @@ source: "eli-html"
 
 2. Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy, stosują przepisy art. 27 ust. 1c i art. 27a ustawy wymienionej w art. 2, w brzmieniu nadanym niniejszą ustawą, do dochodów uzyskanych (poniesionych strat) od pierwszego dnia roku podatkowego rozpoczynającego się po dniu 31 grudnia 2013 r.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215 i 1328. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328 i 1457. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316, z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541, z 2010 r. Nr 3, poz. 13, Nr 28, poz. 146, Nr 75, poz. 473, Nr 219, poz. 1442 i Nr 226, poz. 1478, z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 764, z 2012 r. poz. 1529 i 1540 oraz z 2014 r. poz. 223 i 1328.
 

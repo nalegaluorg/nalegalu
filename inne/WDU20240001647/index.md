@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 5 listopada 2025 r. zmieniające rozporządzenie w sprawie nadania statutu Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 5 listopada 2025 r. zmieniające rozporządzenie w sprawie nadania statutu Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-05 |
 | Data wydania | 2024-11-12 |
-| Wejście w życie | 2024-11-27 |
 | Ostatnia zmiana | 2025-07-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001647) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1647/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu (Dz. U. z 2022 r. poz. 2231) w załączniku do rozporządzenia § 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu (Dz. U. z 2022 r. poz. 2231) w załączniku do rozporządzenia § 2 otrzymuje brzmienie: „
 § 2.
 Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1)
@@ -66,11 +64,9 @@ Bukowa Góra,
 e)
 Obrocz,
 f)
-Kruglik.
-” .
+Kruglik. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 ### Dział Administracyjno-Organizacyjny;
 

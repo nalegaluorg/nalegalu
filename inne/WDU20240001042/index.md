@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 8 lipca 2024 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji A2.2.1 „Inwestycje we wdrażanie technologii i innowacji środowiskowych, w tym związanych z GOZ” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 8 lipca 2024 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji A2.2.1 „Inwestycje we wdrażanie technologii i innowacji środowiskowych, w tym związanych z GOZ” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-08 |
 | Data wydania | 2024-07-15 |
-| Wejście w życie | 2024-07-16 |
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1042/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Regionalna pomoc inwestycyjna Rozdział 3 – Pomoc na usługi doradcze Rozdział 4 – Pomoc na wspieranie innowacyjności Rozdział 5 – Pomoc dla klastrów innowacyjnych Rozdział 6 – Pomoc inwestycyjna na infrastrukturę badawczą Rozdział 7 – Pomoc inwestycyjna umożliwiająca podniesienie poziomu ochrony środowiska, w tym obniżenie emisyjności Rozdział 8 – Pomoc inwestycyjna na realizację inwestycji umożliwiającej osiągnięcie wyższego poziomu efektywności energetycznej w prowadzonej działalności Rozdział 9 – Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, wodoru odnawialnego i wysokosprawnej kogeneracji Rozdział 10 – Pomoc inwestycyjna na efektywny energetycznie system ciepłowniczy lub chłodniczy Rozdział 11 – Pomoc inwestycyjna na efektywne gospodarowanie zasobami i przechodzenie na gospodarkę o obiegu zamkniętym Rozdział 12 – Pomoc na projekty badawczo-rozwojowe Rozdział 13 – Pomoc na innowacje procesowe i organizacyjne Rozdział 14 – Pomoc na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych Rozdział 15 – Pomoc de minimis Rozdział 16 – Tryb udzielania pomocy Rozdział 17 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324 i 862) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy de minimis oraz pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji A2.2.1 „Inwestycje we wdrażanie technologii i innowacji środowiskowych, w tym związanych z GOZ”, objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności, zwanej dalej „pomocą”, a także podmiot udzielający pomocy.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-badaniu przemysłowym – oznacza to badanie przemysłowe w rozumieniu art. 2 pkt 85 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji nr 651/2014”;
+badaniu przemysłowym – oznacza to badanie przemysłowe w rozumieniu art. 2 pkt 85 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.), zwanego dalej „rozporządzeniem Komisji nr 651/2014”;
 2)
 cieple odpadowym – oznacza to ciepło odpadowe w rozumieniu art. 2 pkt 128c rozporządzenia Komisji nr 651/2014;
 3)
@@ -70,7 +70,7 @@ normie unijnej – oznacza to normę unijną w rozumieniu art. 2 pkt 102 rozporz
 18)
 ochronie środowiska – oznacza to ochronę środowiska w rozumieniu art. 2 pkt 101 rozporządzenia Komisji nr 651/2014;
 19)
-organizacji badawczej – oznacza to podmiot systemu szkolnictwa wyższego i nauki, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.), będący organizacją prowadzącą badania i upowszechniającą wiedzę w rozumieniu art. 2 pkt 83 rozporządzenia Komisji nr 651/2014, przy czym nie może to być podmiot, którego wyłącznym celem jest rozpowszechnianie na szeroką skalę wyników prac badawczo-rozwojowych przez nauczanie, publikacje lub transfer wiedzy;
+organizacji badawczej – oznacza to podmiot systemu szkolnictwa wyższego i nauki, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227.), będący organizacją prowadzącą badania i upowszechniającą wiedzę w rozumieniu art. 2 pkt 83 rozporządzenia Komisji nr 651/2014, przy czym nie może to być podmiot, którego wyłącznym celem jest rozpowszechnianie na szeroką skalę wyników prac badawczo-rozwojowych przez nauczanie, publikacje lub transfer wiedzy;
 20)
 studium wykonalności – oznacza to studium wykonalności w rozumieniu art. 2 pkt 87 rozporządzenia Komisji nr 651/2014;
 21)
@@ -113,8 +113,7 @@ projekty badawczo-rozwojowe,
 b)
 innowacje procesowe i organizacyjne,
 c)
-badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych
-stanowiąca pomoc publiczną, do której mają zastosowanie przepisy rozporządzenia Komisji nr 651/2014.
+badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych – stanowiąca pomoc publiczną, do której mają zastosowanie przepisy rozporządzenia Komisji nr 651/2014.
 2.
 Pomoc jest udzielana również jako pomoc de minimis , do której mają zastosowanie przepisy rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023), zwanego dalej „rozporządzeniem Komisji nr 2023/2831”.
 § 4.
@@ -164,6 +163,7 @@ Pomoc de minimis podlega kumulacji z inną pomocą na zasadach określonych w ar
 Pomoc de minimis może być udzielona przedsiębiorcy na pokrycie części lub całości kosztów kwalifikowalnych.
 § 11.
 Podmiotem udzielającym pomocy jest Narodowe Centrum Badań i Rozwoju.
+Regionalna pomoc inwestycyjna
 § 12.
 1.
 Regionalna pomoc inwestycyjna na finansowanie:
@@ -218,6 +218,7 @@ Regionalna pomoc inwestycyjna na dywersyfikację produkcji istniejącego zakład
 W przypadku regionalnej pomocy inwestycyjnej na przejęcie aktywów zakładu koszty kwalifikowalne są uwzględniane zgodnie z art. 14 ust. 6 rozporządzenia Komisji nr 651/2014.
 § 15.
 Intensywność i maksymalną kwotę regionalnej pomocy inwestycyjnej na finansowanie inwestycji początkowych oraz inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą, oblicza się z uwzględnieniem warunków, o których mowa w art. 14 ust. 12–14 rozporządzenia Komisji nr 651/2014.
+Pomoc na usługi doradcze
 § 16.
 Pomoc na usługi doradcze może zostać udzielona mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy.
 § 17.
@@ -230,6 +231,7 @@ nie mają charakteru ciągłego ani okresowego;
 nie są związane ze zwykłymi kosztami operacyjnymi mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy, w szczególności stałymi usługami doradztwa podatkowego, regularnymi usługami prawniczymi lub reklamą.
 § 18.
 Intensywność pomocy na usługi doradcze nie może przekroczyć 50% kosztów kwalifikowalnych.
+Pomoc na wspieranie innowacyjności
 § 19.
 Pomoc na wspieranie innowacyjności może zostać udzielona mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy.
 § 20.
@@ -245,6 +247,7 @@ usług doradczych w zakresie innowacji w rozumieniu art. 2 pkt 94 rozporządzeni
 Intensywność pomocy na wspieranie innowacyjności nie może przekroczyć 50% kosztów kwalifikowalnych.
 2.
 Intensywność pomocy na wspieranie innowacyjności przeznaczonej na pokrycie kosztów, o których mowa w § 20 pkt 3, może zostać zwiększona do 100% kosztów kwalifikowalnych, pod warunkiem że całkowita kwota tej pomocy nie przekracza 220 000 EUR dla przedsiębiorcy w dowolnym trzyletnim okresie.
+Pomoc dla klastrów innowacyjnych
 § 22.
 1.
 Pomoc dla klastrów innowacyjnych może zostać udzielona na utworzenie lub modernizację klastrów innowacyjnych.
@@ -267,6 +270,7 @@ Pomoc dla klastrów innowacyjnych może zostać udzielona pod warunkiem, że:
 opłaty pobierane za korzystanie z zaplecza danego klastra innowacyjnego i za udział w jego działaniach odpowiadają cenom rynkowym lub odzwierciedlają ich koszty z uwzględnieniem uzasadnionej marży;
 2)
 dostęp do pomieszczeń, zaplecza oraz działań danego klastra innowacyjnego jest udzielany użytkownikom na przejrzystych i niedyskryminacyjnych zasadach; przedsiębiorcom, którzy finansują co najmniej 10% kosztów inwestycji klastra innowacyjnego, można przyznać dostęp na bardziej korzystnych warunkach, przy czym dostęp ten jest proporcjonalny do wkładu przedsiębiorcy w koszty inwestycji w infrastrukturę, a warunki te właściciel klastra zobowiązany jest podać do wiadomości publicznej przez zamieszczenie informacji na ten temat na swojej stronie internetowej.
+Pomoc inwestycyjna na infrastrukturę badawczą
 § 25.
 1.
 Pomoc inwestycyjna na infrastrukturę badawczą może zostać udzielona na utworzenie lub unowocześnienie infrastruktury badawczej wykorzystywanej do prowadzenia działalności gospodarczej.
@@ -294,6 +298,7 @@ c)
 na podstawie kryteriów wskazanych w tej umowie, które odnoszą się do jej powierzchni lub czasu jej wykorzystania;
 2)
 warunki i tryb zwrotu części dofinansowania w przypadku przekroczenia maksymalnej intensywności pomocy wskazanej w tej umowie.
+Pomoc inwestycyjna umożliwiająca podniesienie poziomu ochrony środowiska, w tym obniżenie emisyjności
 § 29.
 1.
 Pomoc inwestycyjna umożliwiająca podniesienie poziomu ochrony środowiska, w tym obniżenie emisyjności, może zostać udzielona na inwestycję, która umożliwia przedsiębiorcy:
@@ -363,6 +368,7 @@ Za koszty kwalifikowalne można uznać koszty inwestycji bezpośrednio związane
 przepisów ust. 5 i 12 nie stosuje się;
 2)
 dopuszczalne intensywności pomocy publicznej, o których mowa w ust. 10, oraz zwiększenia intensywności pomocy publicznej, o których mowa w ust. 11, zmniejsza się o 50%.
+Pomoc inwestycyjna na realizację inwestycji umożliwiającej osiągnięcie wyższego poziomu efektywności energetycznej w prowadzonej działalności
 § 30.
 1.
 Pomoc inwestycyjna na realizację inwestycji umożliwiającej osiągnięcie wyższego poziomu efektywności energetycznej w prowadzonej działalności może zostać udzielona przedsiębiorcy na realizację inwestycji umożliwiającej osiągnięcie wyższego poziomu efektywności energetycznej innej niż w budynkach.
@@ -392,6 +398,7 @@ Intensywność pomocy, o której mowa w ust. 5, zwiększa się o:
 15 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego.
 7.
 Koszty kwalifikowalne i odpowiadające im poziomy intensywności można także określić w sposób określony w art. 38 ust. 8 rozporządzenia Komisji nr 651/2014.
+Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, wodoru odnawialnego i wysokosprawnej kogeneracji
 § 31.
 1.
 Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, wodoru odnawialnego i wysokosprawnej kogeneracji może zostać udzielona na:
@@ -408,8 +415,7 @@ biopłynów w rozumieniu art. 2 pkt 117c rozporządzenia Komisji nr 651/2014,
 c)
 biogazu w rozumieniu art. 2 pkt 117b rozporządzenia Komisji nr 651/2014, w tym biometanu,
 d)
-paliw z biomasy w rozumieniu art. 2 pkt 117d rozporządzenia Komisji nr 651/2014
-o ile są spełnione łącznie warunki określone w art. 41 ust. 2 rozporządzenia Komisji nr 651/2014;
+paliw z biomasy w rozumieniu art. 2 pkt 117d rozporządzenia Komisji nr 651/2014 – o ile są spełnione łącznie warunki określone w art. 41 ust. 2 rozporządzenia Komisji nr 651/2014;
 4)
 inwestycję dotyczącą produkcji wodoru odnawialnego, o ile są spełnione łącznie warunki określone w art. 41 ust. 3 rozporządzenia Komisji nr 651/2014;
 5)
@@ -421,7 +427,7 @@ modernizacji lub przekształceniu istniejącej jednostki kogeneracji w jednostk�
 c)
 konwersji istniejącej jednostki wytwórczej w jednostkę wysokosprawnej kogeneracji.
 2.
-Pomoc, o której mowa w ust. 1 pkt 5, może zostać udzielona w zakresie, w jakim inwestycje przynoszą ogólne oszczędności energii pierwotnej w porównaniu z oddzielną produkcją energii cieplnej i elektrycznej zgodnie z ustawą z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859) lub wszelkimi późniejszymi przepisami zastępującymi ten akt prawny w całości albo w części, albo w przypadku, gdy nie dotyczy instalacji kogeneracyjnych opalanych paliwami kopalnymi, z wyjątkiem gazu ziemnego, jeżeli zapewniona jest zgodność z celami klimatycznymi na lata 2030 i 2050 zgodnie z sekcją 4.30 załącznika nr I do rozporządzenia delegowanego Komisji (UE) 2021/2139 z dnia 4 czerwca 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852 poprzez ustanowienie technicznych kryteriów kwalifikacji służących określeniu warunków, na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w łagodzenie zmian klimatu lub w adaptację do zmian klimatu, a także określeniu, czy ta działalność gospodarcza nie wyrządza poważnych szkód względem żadnego z pozostałych celów środowiskowych (Dz. Urz. UE L 442 z 09.12.2021, str. 1, z późn. zm.).
+Pomoc, o której mowa w ust. 1 pkt 5, może zostać udzielona w zakresie, w jakim inwestycje przynoszą ogólne oszczędności energii pierwotnej w porównaniu z oddzielną produkcją energii cieplnej i elektrycznej zgodnie z ustawą z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859) lub wszelkimi późniejszymi przepisami zastępującymi ten akt prawny w całości albo w części, albo w przypadku, gdy nie dotyczy instalacji kogeneracyjnych opalanych paliwami kopalnymi, z wyjątkiem gazu ziemnego, jeżeli zapewniona jest zgodność z celami klimatycznymi na lata 2030 i 2050 zgodnie z sekcją 4.30 załącznika nr I do rozporządzenia delegowanego Komisji (UE) 2021/2139 z dnia 4 czerwca 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852 poprzez ustanowienie technicznych kryteriów kwalifikacji służących określeniu warunków, na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w łagodzenie zmian klimatu lub w adaptację do zmian klimatu, a także określeniu, czy ta działalność gospodarcza nie wyrządza poważnych szkód względem żadnego z pozostałych celów środowiskowych (Dz. Urz. UE L 442 z 09.12.2021, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 188 z 15.07.2022, str. 1 oraz Dz. Urz. UE L 2023/2485 z 21.11.2023.).
 3.
 Pomoc, o której mowa w ust. 1, może zostać udzielona na budowę nowych instalacji lub na modernizację istniejących instalacji, pod warunkiem że kwota pomocy nie jest uzależniona od poziomu produkcji.
 4.
@@ -434,6 +440,7 @@ Intensywność pomocy inwestycyjnej na propagowanie energii ze źródeł odnawia
 30% kosztów kwalifikowalnych – w przypadku inwestycji innych niż określone w pkt 1.
 6.
 Intensywność pomocy, o której mowa w ust. 5, zwiększa się o 10 punktów procentowych w przypadku pomocy na rzecz średniego przedsiębiorcy i 20 punktów procentowych w przypadku pomocy na rzecz małego przedsiębiorcy.
+Pomoc inwestycyjna na efektywny energetycznie system ciepłowniczy lub chłodniczy
 § 32.
 1.
 Pomoc inwestycyjna na efektywny energetycznie system ciepłowniczy lub chłodniczy może zostać udzielona na inwestycję związaną z budową, rozbudową lub modernizacją tego systemu w tym budową, rozbudową lub modernizacją jednostki wytwarzającej ciepło lub chłód, magazynu energii lub sieci dystrybucyjnych.
@@ -457,6 +464,7 @@ Intensywność pomocy, o której mowa w ust. 7, zwiększa się o:
 15 punktów procentowych – w przypadku gdy inwestycja zakłada wykorzystanie wyłącznie energii z odnawialnych źródeł energii, ciepła odpadowego lub połączenia tych rodzajów energii, w tym wysokosprawnej kogeneracji opartej na odnawialnych źródłach energii.
 9.
 Intensywność pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy lub chłodniczy może zostać ustalona z wyłączeniem stosowania ust. 7 i 8 jako wynosząca do 100% luki w finansowaniu w rozumieniu art. 2 pkt 118 rozporządzenia Komisji nr 651/2014.
+Pomoc inwestycyjna na efektywne gospodarowanie zasobami i przechodzenie na gospodarkę o obiegu zamkniętym
 § 33.
 1.
 Pomoc inwestycyjna na efektywne gospodarowanie zasobami i przechodzenie na gospodarkę o obiegu zamkniętym może zostać udzielona na inwestycję spełniającą co najmniej jeden z warunków określonych w art. 47 ust. 2 rozporządzenia Komisji nr 651/2014.
@@ -467,8 +475,7 @@ w zakresie:
 a)
 unieszkodliwiania w rozumieniu art. 2 pkt 128f rozporządzenia Komisji nr 651/2014,
 b)
-odzysku w rozumieniu art. 2 pkt 128e rozporządzenia Komisji nr 651/2014
-odpadów w rozumieniu art. 2 pkt 128b rozporządzenia Komisji nr 651/2014, na cele wytwarzania energii;
+odzysku w rozumieniu art. 2 pkt 128e rozporządzenia Komisji nr 651/2014 – odpadów w rozumieniu art. 2 pkt 128b rozporządzenia Komisji nr 651/2014, na cele wytwarzania energii;
 2)
 oparte o rozwiązania, które są ekonomicznie opłacalne i powszechnie stosowane w Unii Europejskiej;
 3)
@@ -489,6 +496,7 @@ Intensywność pomocy, o której mowa w ust. 6, zwiększa się o:
 5 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarze województw: dolnośląskiego i wielkopolskiego oraz na obszarach regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola;
 3)
 15 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego.
+Pomoc na projekty badawczo-rozwojowe
 § 34.
 1.
 Pomoc na projekty badawczo-rozwojowe może zostać udzielona na projekt badawczo-rozwojowy obejmujący badania podstawowe, badania przemysłowe, eksperymentalne prace rozwojowe lub studium wykonalności.
@@ -516,14 +524,14 @@ W przypadku projektu badawczo-rozwojowego obejmującego badania przemysłowe lub
 4)
 5 punktów procentowych – jeżeli projekt badawczo-rozwojowy jest realizowany na obszarze województw: dolnośląskiego i wielkopolskiego oraz na obszarach regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola,
 5)
-25 punktów procentowych – jeżeli zostaną spełnione łącznie warunki określone w art. 25 ust. 6 lit. d rozporządzenia Komisji nr 651/2014
-do maksymalnie 80% kosztów kwalifikowalnych, z zastrzeżeniem że zwiększenia, o których mowa w pkt 3, 4 oraz 5, nie mogą być łączone w odniesieniu do tego samego projektu.
+25 punktów procentowych – jeżeli zostaną spełnione łącznie warunki określone w art. 25 ust. 6 lit. d rozporządzenia Komisji nr 651/2014 – do maksymalnie 80% kosztów kwalifikowalnych, z zastrzeżeniem że zwiększenia, o których mowa w pkt 3, 4 oraz 5, nie mogą być łączone w odniesieniu do tego samego projektu.
 2.
 W przypadku projektu badawczo-rozwojowego obejmującego studium wykonalności intensywność pomocy określoną w § 35 pkt 4 zwiększa się o:
 1)
 10 punktów procentowych – dla średnich przedsiębiorców;
 2)
 20 punktów procentowych – dla mikroprzedsiębiorców lub małych przedsiębiorców.
+Pomoc na innowacje procesowe i organizacyjne
 § 37.
 W przypadku pomocy na innowacje procesowe i organizacyjne kosztami kwalifikowalnymi są koszty:
 1)
@@ -542,6 +550,7 @@ Intensywność pomocy na innowacje procesowe i organizacyjne nie może przekrocz
 50% kosztów kwalifikowalnych – w przypadku mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy.
 § 39.
 Pomoc na innowacje procesowe i organizacyjne może zostać udzielona dużemu przedsiębiorcy tylko pod warunkiem, że duży przedsiębiorca skutecznie współpracuje w rozumieniu art. 2 pkt 90 rozporządzenia Komisji nr 651/2014, z co najmniej jednym mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą w zakresie działalności objętej pomocą, a współpracujący mikroprzedsiębiorcy, mali lub średni przedsiębiorcy ponoszą przynajmniej 30% całkowitych kosztów kwalifikowalnych.
+Pomoc na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych
 § 40.
 1.
 Pomoc na badania lub usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych może zostać udzielona na realizację analiz, audytów energetycznych i studiów wykonalności bezpośrednio związanych z inwestycjami, o których mowa w rozdziałach 7–11.
@@ -559,10 +568,12 @@ Intensywność pomocy, o której mowa w ust. 3, zwiększa się o:
 Pomoc na badania lub usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych nie może zostać udzielona przedsiębiorcy na przeprowadzenie obowiązkowego audytu energetycznego, o którym mowa w art. 36 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2021 r. poz. 2166 oraz z 2023 r. poz. 1681).
 6.
 Pomoc na badania lub usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych przyznaje się, jeżeli po ustaleniach badania lub usługi doradczej nastąpi inwestycja kwalifikująca się do objęcia pomocą zgodnie z rozdziałami 7–11.
+Pomoc de minimis
 § 41.
 Kosztami kwalifikowalnymi objętymi pomocą de minimis są koszty służące realizacji przedsięwzięcia, do którego mają zastosowanie przepisy rozporządzenia Komisji nr 2023/2831.
 § 42.
 Pomoc de minimis nie przekracza 100% kosztów kwalifikowalnych, o których mowa w § 41.
+Tryb udzielania pomocy
 § 43.
 Pomoc jest udzielana na wniosek przedsiębiorcy, zwany dalej „wnioskiem”.
 § 44.
@@ -593,45 +604,78 @@ cel pomocy,
 2)
 koszty kwalifikowalne,
 3)
-wysokość dopuszczalnej pomocy
-pomoc może zostać udzielona przedsiębiorcy na podstawie umowy o objęcie przedsięwzięcia wsparciem z planu rozwojowego, o której mowa w art. 14lzh ust. 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+wysokość dopuszczalnej pomocy – pomoc może zostać udzielona przedsiębiorcy na podstawie umowy o objęcie przedsięwzięcia wsparciem z planu rozwojowego, o której mowa w art. 14lzh ust. 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+Przepisy końcowe
 § 45.
 Pomoc jest udzielana do dnia 31 sierpnia 2026 r.
 § 46.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 188 z 15.07.2022, str. 1 oraz Dz. Urz. UE L 2023/2485 z 21.11.2023.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 188 z 15.07.2022, str. 1 oraz Dz. Urz. UE L 2023/2485 z 21.11.2023.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Regionalna pomoc inwestycyjna
+#### Rozdział 2 – Regionalna pomoc inwestycyjna
 
-#### Rozdział 3 Pomoc na usługi doradcze
+#### Rozdział 3 – Pomoc na usługi doradcze
 
-#### Rozdział 4 Pomoc na wspieranie innowacyjności
+#### Rozdział 4 – Pomoc na wspieranie innowacyjności
 
-#### Rozdział 5 Pomoc dla klastrów innowacyjnych
+#### Rozdział 5 – Pomoc dla klastrów innowacyjnych
 
-#### Rozdział 6 Pomoc inwestycyjna na infrastrukturę badawczą
+#### Rozdział 6 – Pomoc inwestycyjna na infrastrukturę badawczą
 
-#### Rozdział 7 Pomoc inwestycyjna umożliwiająca podniesienie poziomu ochrony środowiska, w tym obniżenie emisyjności
+#### Rozdział 7 – Pomoc inwestycyjna umożliwiająca podniesienie poziomu ochrony środowiska, w tym obniżenie emisyjności
 
-#### Rozdział 8 Pomoc inwestycyjna na realizację inwestycji umożliwiającej osiągnięcie wyższego poziomu efektywności energetycznej w prowadzonej działalności
+#### Rozdział 8 – Pomoc inwestycyjna na realizację inwestycji umożliwiającej osiągnięcie wyższego poziomu efektywności energetycznej w prowadzonej działalności
 
-#### Rozdział 9 Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, wodoru odnawialnego i wysokosprawnej kogeneracji
+#### Rozdział 9 – Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych, wodoru odnawialnego i wysokosprawnej kogeneracji
 
-#### Rozdział 10 Pomoc inwestycyjna na efektywny energetycznie system ciepłowniczy lub chłodniczy
+#### Rozdział 10 – Pomoc inwestycyjna na efektywny energetycznie system ciepłowniczy lub chłodniczy
 
-#### Rozdział 11 Pomoc inwestycyjna na efektywne gospodarowanie zasobami i przechodzenie na gospodarkę o obiegu zamkniętym
+#### Rozdział 11 – Pomoc inwestycyjna na efektywne gospodarowanie zasobami i przechodzenie na gospodarkę o obiegu zamkniętym
 
-#### Rozdział 12 Pomoc na projekty badawczo-rozwojowe
+#### Rozdział 12 – Pomoc na projekty badawczo-rozwojowe
 
-#### Rozdział 13 Pomoc na innowacje procesowe i organizacyjne
+#### Rozdział 13 – Pomoc na innowacje procesowe i organizacyjne
 
-#### Rozdział 14 Pomoc na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych
+#### Rozdział 14 – Pomoc na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych
 
-#### Rozdział 15 Pomoc de minimis
+#### Rozdział 15 – Pomoc de minimis
 
-#### Rozdział 16 Tryb udzielania pomocy
+#### Rozdział 16 – Tryb udzielania pomocy
 
-#### Rozdział 17 Przepisy końcowe
+#### Rozdział 17 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+#### Rozdział 12
+
+#### Rozdział 13
+
+#### Rozdział 14
+
+#### Rozdział 15
+
+#### Rozdział 16
+
+#### Rozdział 17
 

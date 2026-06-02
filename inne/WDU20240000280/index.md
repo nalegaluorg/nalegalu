@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 27 lutego 2024 r. w sprawie przekazywania za pomocą środków komunikacji elektronicznej oraz opatrywania podpisem elektronicznym wniosku o przekazanie 1,5% należnego podatku rolnego
+# Rozporządzenie Ministra Finansówz dnia 27 lutego 2024 r. w sprawie przekazywania za pomocą środków komunikacji elektronicznej oraz opatrywania podpisem elektronicznym wniosku o przekazanie 1,5% należnego podatku rolnego Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-27 |
 | Data wydania | 2024-02-29 |
-| Wejście w życie | 2024-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/280/text.pdf) |
 
@@ -47,6 +46,5 @@ podpisem zaufanym.
 § 4.
 Do dnia poprzedzającego dzień powstania obowiązku, o którym mowa w art. 155 ust. 6 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, w zakresie doręczania korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego, przekazywanie wniosku za pomocą środków komunikacji elektronicznej może następować również za pomocą elektronicznej skrzynki podawczej organu podatkowego na elektronicznej platformie usług administracji publicznej (ePUAP). Przepis § 3 stosuje się odpowiednio.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

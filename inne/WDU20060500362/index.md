@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-02-24 |
 | Data wydania | 2006-03-28 |
-| Wejście w życie | 2006-04-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060500362) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/362/text.pdf) |
 
@@ -37,7 +36,7 @@ source: "eli-html"
 1. Osoba fizyczna lub jednostka organizacyjna, która zamierza realizować:
 
 - **1)** roboty budowlane przy zabytku nieruchomym wpisanym do rejestru lub objętym ochroną konserwatorską na podstawie ustaleń miejscowego planu zagospodarowania przestrzennego albo
-- **2)** nowe zalesienia lub zmianę charakteru dotychczasowej działalności leśnej na terenie, na którym znajdują się zabytki archeologiczne jest obowiązana pokryć koszty badań archeologicznych oraz ich dokumentacji, jeżeli przeprowadzenie tych badań jest niezbędne w celu ochrony tych zabytków. ” ;
+- **2)** nowe zalesienia lub zmianę charakteru dotychczasowej działalności leśnej na terenie, na którym znajdują się zabytki archeologiczne – jest obowiązana pokryć koszty badań archeologicznych oraz ich dokumentacji, jeżeli przeprowadzenie tych badań jest niezbędne w celu ochrony tych zabytków. ” ;
 - **3)** w art. 38 po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
 
 4a. Wojewódzki konserwator zabytków może wystąpić z wnioskiem do właściwego miejscowo komendanta Policji o jej pomoc, jeżeli jest to niezbędne do przeprowadzenia czynności kontrolnych.
@@ -61,8 +60,12 @@ source: "eli-html"
 2. Termin ważności pozwolenia, o którym mowa w ust. 1, nie może być dłuższy niż 3 lata od dnia wydania tego pozwolenia. ” ;
 
 - **7)** w art. 57 uchyla się ust. 3;
-- **8)** w art. 59: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) zabytki przywiezione z terytorium państwa niebędącego członkiem Unii Europejskiej, które są objęte procedurą odprawy czasowej lub procedurą uszlachetniania czynnego w rozumieniu przepisów prawa celnego; ” , – po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „ 3a) zabytki przywiezione z terytorium państwa niebędącego członkiem Unii Europejskiej, które były objęte procedurą dopuszczenia do obrotu ze zwolnieniem od należności celnych przywozowych, jeżeli wywóz tych zabytków następuje przed upływem 5 lat od dnia dopuszczenia do obrotu; 3b) zabytki przywiezione z terytorium państwa członkowskiego Unii Europejskiej na okres nie dłuższy niż 3 lata, jeżeli wywozu tych zabytków dokonuje się na terytorium państwa członkowskiego Unii Europejskiej; ” , ust. 3 otrzymuje brzmienie: „
+- **8)** w art. 59: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** zabytki przywiezione z terytorium państwa niebędącego członkiem Unii Europejskiej, które są objęte procedurą odprawy czasowej lub procedurą uszlachetniania czynnego w rozumieniu przepisów prawa celnego; ” , po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
+- **3a)** zabytki przywiezione z terytorium państwa niebędącego członkiem Unii Europejskiej, które były objęte procedurą dopuszczenia do obrotu ze zwolnieniem od należności celnych przywozowych, jeżeli wywóz tych zabytków następuje przed upływem 5 lat od dnia dopuszczenia do obrotu;
+- **3b)** zabytki przywiezione z terytorium państwa członkowskiego Unii Europejskiej na okres nie dłuższy niż 3 lata, jeżeli wywozu tych zabytków dokonuje się na terytorium państwa członkowskiego Unii Europejskiej; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Zaświadczenia stwierdzające, że przedmioty i zabytki, o których mowa w ust. 1 pkt 1, 2, 3b, 4, 5 i 7, nie wymagają pozwolenia na wywóz za granicę, wydaje wojewódzki konserwator zabytków. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „

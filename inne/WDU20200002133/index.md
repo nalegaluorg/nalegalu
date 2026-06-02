@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 9 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 9 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002133) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2133/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 10 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 Rozdział 1 – Przepisy ogólne Rozdział 2 – Regionalna pomoc inwestycyjna dla MŚP Rozdział 3 – Pomoc dla MŚP na finansowanie ryzyka Rozdział 4 – Pomoc dla przedsiębiorców rozpoczynających działalność Rozdział 5 – Pomoc na koszty rozpoznania Rozdział 6 – Pomoc na projekty badawczo-rozwojowe oraz studia wykonalności Rozdział 7 – Pomoc na innowacje procesowe i organizacyjne Rozdział 8 – Pomoc dla MŚP na wspieranie innowacyjności Rozdział 9 – Pomoc dla klastrów innowacyjnych Rozdział 10 – Pomoc na usługi doradcze dla MŚP Rozdział 11 – Pomoc na udział MŚP w targach Rozdział 12 – Pomoc szkoleniowa Rozdział 12a – Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych oraz recykling i ponowne wykorzystywanie opadów Rozdział 13 – Pomoc de minimis Rozdział 14 – Pomoc finansowa niestanowiąca pomocy publicznej Rozdział 14a – Pomoc finansowa na przeprowadzenie programów akceleracyjnych Rozdział 15 – Tryb udzielania pomocy finansowej Rozdział 16 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 10 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. z 2018 r. poz. 871), z uwzględnieniem zmian wprowadzonych:
@@ -39,41 +39,35 @@ rozporządzeniem Ministra Funduszy i Polityki Regionalnej z dnia 7 sierpnia 2020
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 25 maja 2018 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1029), które stanowią: „ 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. ”
-„
+odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 25 maja 2018 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1029), które stanowią: „ 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. ” „
 § 2.
 1.
 Do umów o udzielenie pomocy finansowej zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe oraz przepisy § 4 ust. 6 i § 21 ust. 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 2.
 Do wniosków o udzielenie pomocy finansowej złożonych w ramach konkursów oraz otwartych naborów ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia oraz do umów zawieranych na podstawie tych wniosków stosuje się przepisy dotychczasowe oraz przepisy § 4 ust. 6 i § 21 ust. 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 8 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1602), które stanowią: „ 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. ”
-„
+odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 8 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1602), które stanowią: „ 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. ” „
 § 2.
 1.
 Do umów o udzielenie pomocy finansowej zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 2.
 Do wniosków o udzielenie pomocy finansowej złożonych w ramach konkursów oraz otwartych naborów ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia oraz do umów zawieranych na podstawie tych wniosków stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 7 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1417), które stanowią: „ 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. ”
-„
+odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 7 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1417), które stanowią: „ 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. ” „
 § 2.
 1.
 Do umów o udzielenie pomocy finansowej zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 2.
 Do wniosków o udzielenie pomocy finansowej złożonych w ramach konkursów oraz otwartych naborów ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia oraz do umów zawieranych na podstawie tych wniosków stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
-Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 10 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020
-Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2020 r. poz. 299) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 10 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Inteligentny Rozwój 2014–2020.
+Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885, przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce. Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2020 r. poz. 299) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach następujących działań i poddziałań Programu Operacyjnego Inteligentny Rozwój 2014–2020:
 1)
@@ -86,15 +80,15 @@ c)
 2.3.3 Umiędzynarodowienie Krajowych Klastrów Kluczowych,
 d)
 2.3.4 Ochrona własności przemysłowej,
-e)
+eDodana przez § 1 pkt 1 lit. a rozporządzenia Ministra Inwestycji i Rozwoju z dnia 25 maja 2018 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1029), które weszło w życie z dniem 30 maja 2018 r.)
 2.3.5 Design dla przedsiębiorców,
-f)
+fDodana przez § 1 pkt 1 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 8 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1602), które weszło w życie z dniem 24 sierpnia 2019 r.)
 2.3.6 Granty na Eurogranty,
-g)
+gDodana przez § 1 pkt 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 7 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1417), które weszło w życie z dniem 20 sierpnia 2020 r.)
 2.3.7 Rozwój potencjału koordynatorów Krajowych Klastrów Kluczowych;
 2)
 2.4 Współpraca w ramach krajowego systemu innowacji – 2.4.1 Centrum analiz i pilotaży nowych instrumentów – inno_LAB;
-2a)
+2aDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 2.5 Programy akceleracyjne;
 3)
 3.1 Finansowanie innowacyjnej działalności MŚP z wykorzystaniem kapitału podwyższonego ryzyka:
@@ -117,7 +111,7 @@ b)
 § 2.
 1.
 Pomoc finansowa stanowi pomoc publiczną, zwaną dalej „pomocą”, udzielaną zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1), zwanym dalej „rozporządzeniem Komisji nr 651/2014”, lub pomoc de minimis udzielaną zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanym dalej „rozporządzeniem Komisji nr 1407/2013”, z zastrzeżeniem ust. 2.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Agencja może udzielać pomocy finansowej niestanowiącej pomocy publicznej w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, zwanego dalej „Traktatem”, w ramach poddziałania 2.4.1 Centrum analiz i pilotaży nowych instrumentów – inno_LAB oraz działania 2.5 Programy akceleracyjne.
 3.
 Pomoc finansowa udzielana w działaniach i poddziałaniach, o których mowa w § 1, może być udzielana w ramach jednego lub kilku przeznaczeń pomocy objętych rozporządzeniem, a w przypadku pomocy de minimis można korzystać tylko z wybranych kosztów kwalifikowalnych, o których mowa w § 42.
@@ -127,13 +121,13 @@ Ilekroć w rozporządzeniu jest mowa o:
 analizie due diligence – należy przez to rozumieć badanie przedinwestycyjne polegające na obiektywnej analizie stanu przedsiębiorstwa pod względem jego kondycji handlowej, finansowej, prawnej i podatkowej, zawierające ocenę ryzyka związanego z inwestycją, wraz ze szczegółowym harmonogramem procesu inwestycyjnego;
 2)
 badaniach przemysłowych – należy przez to rozumieć badania przemysłowe w rozumieniu art. 2 pkt 85 rozporządzenia Komisji nr 651/2014;
-2a)
+2aDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 biopaliwie – należy przez to rozumieć biopaliwo w rozumieniu art. 2 pkt 111 rozporządzenia Komisji nr 651/2014;
-2b)
+2bDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 biopaliwie produkowanym z roślin spożywczych – należy przez to rozumieć biopaliwo, o którym mowa w art. 2 pkt 113 rozporządzenia Komisji nr 651/2014;
-2c)
+2cDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 energii ze źródeł odnawialnych – należy przez to rozumieć energię w rozumieniu art. 2 pkt 109 rozporządzenia Komisji nr 651/2014;
-2d)
+2dDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5.)
 infrastrukturze badawczej – należy przez to rozumieć infrastrukturę badawczą, o której mowa w art. 2 pkt 91 rozporządzenia Komisji nr 651/2014;
 3)
 innowacjach organizacyjnych – należy przez to rozumieć innowacje organizacyjne w rozumieniu art. 2 pkt 96 rozporządzenia Komisji nr 651/2014;
@@ -155,7 +149,7 @@ koordynatorze klastra – należy przez to rozumieć podmiot prawny zarządzają
 MŚP – należy przez to rozumieć mikro-, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji nr 651/2014;
 12)
 MŚP nienotowane na giełdzie – należy przez to rozumieć nienotowane MŚP w rozumieniu art. 2 pkt 76 rozporządzenia Komisji nr 651/2014;
-12a)
+12aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 organizatorze konkursu – należy przez to rozumieć organizatora konkursu w ramach jednego z programów Unii Europejskiej zarządzanych centralnie;
 13)
 pierwszej komercyjnej sprzedaży – należy przez to rozumieć pierwszą sprzedaż komercyjną w rozumieniu art. 2 pkt 75 rozporządzenia Komisji nr 651/2014;
@@ -171,9 +165,9 @@ pracach rozwojowych – należy przez to rozumieć eksperymentalne prace rozwojo
 przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji nr 651/2014;
 19)
 przedsiębiorcy innowacyjnym – należy przez to rozumieć przedsiębiorstwo innowacyjne w rozumieniu art. 2 pkt 80 rozporządzenia Komisji nr 651/2014;
-19a)
+19aDodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 4.)
 przygotowaniu projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie – należy przez to rozumieć poszukiwanie partnerów tego projektu lub przygotowanie, korektę lub prezentację wniosku przed komisją oceny projektów powołaną przez organizatora konkursu;
-19b)
+19bDodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 4.)
 recyklingu – należy przez to rozumieć proces w rozumieniu art. 2 pkt 128 rozporządzenia Komisji nr 651/2014;
 20)
 studium wykonalności – należy przez to rozumieć studium wykonalności w rozumieniu art. 2 pkt 87 rozporządzenia Komisji nr 651/2014;
@@ -208,9 +202,9 @@ produkcji lub wprowadzania do obrotu środków odurzających, substancji psychot
 Pomoc nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy wynikający z decyzji Komisji Europejskiej uznającej taką pomoc przyznaną przez Rzeczpospolitą Polską za niezgodną z prawem oraz rynkiem wewnętrznym.
 5.
 Pomoc finansowa może być udzielona, pod warunkiem że przedsiębiorca prowadzi działalność gospodarczą na terytorium Rzeczypospolitej Polskiej potwierdzoną wpisem do odpowiedniego rejestru.
-6.
+6Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku udzielanej w ramach poddziałania 2.4.1 Centrum analiz i pilotaży nowych instrumentów – inno_LAB pomocy dla przedsiębiorców rozpoczynających działalność, o której mowa w rozdziale 4, pomoc może być udzielona spółkom kapitałowym w organizacji.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5..
 1.
 Pomoc wywołuje efekt zachęty, co oznacza, że jest udzielana przedsiębiorcy pod warunkiem złożenia wniosku o jej udzielenie przed rozpoczęciem prac nad projektem, z zastrzeżeniem ust. 2.
 2.
@@ -220,9 +214,8 @@ pomocy dla MŚP na finansowanie ryzyka, o której mowa w rozdziale 3,
 2)
 pomocy dla przedsiębiorców rozpoczynających działalność, o której mowa w rozdziale 4,
 3)
-pomocy de minimis na pokrycie kosztów, o których mowa w § 42
-nie obowiązuje wymóg wywoływania efektu zachęty lub uznaje się, że pomoc ta wywołuje taki efekt.
-§ 6.
+pomocy de minimis na pokrycie kosztów, o których mowa w § 42 – nie obowiązuje wymóg wywoływania efektu zachęty lub uznaje się, że pomoc ta wywołuje taki efekt.
+§ 6W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5..
 Kosztami kwalifikowalnymi są koszty dokonane w sposób przejrzysty, racjonalny, efektywny i adekwatny do zaplanowanych przez wnioskodawcę działań i celów projektu oraz celów określonych dla działania, poniesione po dniu złożenia wniosku o udzielenie pomocy, z wyłączeniem kosztów, o których mowa w § 42, do dnia wskazanego w umowie.
 § 7.
 1.
@@ -244,13 +237,14 @@ Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 
 Pomoc de minimis jest udzielana do końca sześciomiesięcznego okresu następującego po upływie okresu, o którym mowa w art. 7 ust. 4 rozporządzenia Komisji nr 1407/2013.
 3.
 Pomoc finansowa niestanowiąca pomocy publicznej jest udzielana do końca okresu kwalifikowalności, o którym mowa w art. 65 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), zwanego dalej „rozporządzeniem Parlamentu Europejskiego i Rady nr 1303/2013”.
+Regionalna pomoc inwestycyjna dla MŚP
 § 10.
 1.
 Regionalna pomoc inwestycyjna może być udzielana na inwestycję początkową w rozumieniu art. 2 pkt 49 rozporządzenia Komisji nr 651/2014.
 2.
 W przypadku przejęcia aktywów zakładu uwzględniane są wyłącznie koszty zakupu aktywów od osób trzecich niemających powiązań z nabywcą i zgodnie z warunkami określonymi w art. 14 ust. 6 rozporządzenia Komisji nr 651/2014.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 5.
 § 11.
 1.
 Do kosztów kwalifikowalnych na realizację inwestycji początkowej zalicza się koszty:
@@ -277,7 +271,7 @@ rat spłaty kapitału środków trwałych, innych niż określone w pkt 5, ponie
 2.
 Łączna wartość kosztów kwalifikowalnych, o których mowa w ust. 1 pkt 1 i 5, może wynosić do 10% kosztów kwalifikowalnych, o których mowa w ust. 1.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4.
 § 12.
 1.
 Maksymalną intensywność regionalnej pomocy inwestycyjnej na pokrycie kosztów kwalifikowalnych, o których mowa w § 11 ust. 1, określa się zgodnie z § 3 i 5 rozporządzenia Rady Ministrów z dnia 30 czerwca 2014 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2014–2020 (Dz. U. poz. 878).
@@ -285,6 +279,7 @@ Maksymalną intensywność regionalnej pomocy inwestycyjnej na pokrycie kosztów
 Maksymalną wielkość regionalnej pomocy inwestycyjnej oblicza się, uwzględniając warunki określone w art. 14 ust. 12–14 rozporządzenia Komisji nr 651/2014.
 § 13.
 Regionalna pomoc inwestycyjna jest udzielana przedsiębiorcy po spełnieniu warunków określonych w art. 14 ust. 5 i 16 rozporządzenia Komisji nr 651/2014.
+Pomoc dla MŚP na finansowanie ryzyka
 § 14.
 Za przedsiębiorców kwalifikowalnych w ramach pomocy dla MŚP na finansowanie ryzyka uznaje się przedsiębiorców, którzy w momencie rozpoczęcia inwestycji początkowej w zakresie finansowania ryzyka są MŚP nienotowanymi na giełdzie i spełniają co najmniej jeden z następujących warunków:
 1)
@@ -361,6 +356,7 @@ pośrednik finansowy jest w stanie wykazać, że posiada mechanizm zapewniający
 nominalną kwotę pożyczki oraz inwestycji quasi-kapitałowej o takiej strukturze jak dług uwzględnia się przy obliczaniu maksymalnej kwoty pomocy na finansowanie ryzyka, o której mowa w § 20.
 § 20.
 Łączna kwota pomocy na finansowanie ryzyka nie przekracza 15 000 000 euro na kwalifikowalnego przedsiębiorcę w ramach dowolnej formy pomocy na finansowanie ryzyka.
+Pomoc dla przedsiębiorców rozpoczynających działalność
 § 21.
 1.
 Za przedsiębiorców kwalifikowalnych w ramach pomocy dla przedsiębiorców rozpoczynających działalność gospodarczą uznaje się mikro- lub małych przedsiębiorców nienotowanych na giełdzie w okresie do 5 lat od dnia ich rejestracji w odpowiednim rejestrze, którzy spełniają następujące warunki:
@@ -372,7 +368,7 @@ nie przejęli działalności innego przedsiębiorcy;
 nie zostali utworzeni w wyniku połączenia.
 2.
 Za przedsiębiorców kwalifikowalnych w ramach pomocy dla przedsiębiorców rozpoczynających działalność gospodarczą uznaje się przedsiębiorców, którzy zostali utworzeni w wyniku połączenia przedsiębiorców kwalifikujących się do pomocy dla przedsiębiorców rozpoczynających działalność, w okresie do 5 lat od dnia rejestracji najdłużej prowadzącego działalność przedsiębiorcy uczestniczącego w połączeniu.
-3.
+3Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku spółki kapitałowej w organizacji okres, o którym mowa w ust. 1, liczy się od dnia złożenia wniosku o wpis do Krajowego Rejestru Sądowego.
 § 22.
 1.
@@ -399,10 +395,12 @@ c)
 Przedsiębiorca kwalifikowalny może otrzymywać pomoc w ramach różnych form pomocy, o których mowa w ust. 1, jeżeli odsetek kwoty przyznanej w jednej formie, obliczony na podstawie maksymalnych kwot pomocy dozwolonych w ramach danej formy, jest uwzględniany do określenia pozostałego odsetka maksymalnej kwoty pomocy dozwolonej w ramach innych form wchodzących w skład takiej kombinacji.
 3.
 W przypadku kwalifikowalnych przedsiębiorców, którzy są przedsiębiorcami innowacyjnymi, określone w ust. 1 kwoty maksymalne mogą zostać podwojone.
+Pomoc na koszty rozpoznania
 § 23.
 Do kosztów kwalifikowalnych w ramach pomocy na koszty rozpoznania zalicza się koszty wstępnego rozpoznania i formalnej analizy due diligence podjętych przez podmiot zarządzający pośrednikiem finansowym lub przez inwestorów w celu identyfikacji przedsiębiorstw kwalifikowalnych na podstawie art. 21 i art. 22 rozporządzenia Komisji nr 651/2014.
 § 24.
 Intensywność pomocy na koszty rozpoznania nie przekracza 50% kosztów kwalifikowalnych.
+Pomoc na projekty badawczo-rozwojowe oraz studia wykonalności
 § 25.
 1.
 Do kosztów kwalifikowalnych na projekty badawczo-rozwojowe zalicza się koszty:
@@ -445,6 +443,7 @@ Intensywność pomocy na studium wykonalności zwiększa się o:
 10 punktów procentowych dla średnich przedsiębiorców;
 2)
 20 punktów procentowych dla mikro- i małych przedsiębiorców.
+Pomoc na innowacje procesowe i organizacyjne
 § 27.
 Do kosztów kwalifikowalnych w ramach pomocy na innowacje procesowe i organizacyjne zalicza się koszty:
 1)
@@ -465,6 +464,7 @@ Intensywność pomocy nie przekracza:
 15% kosztów kwalifikowalnych w przypadku przedsiębiorców innych niż MŚP;
 2)
 50% kosztów kwalifikowalnych w przypadku MŚP.
+Pomoc dla MŚP na wspieranie innowacyjności
 § 30.
 Do kosztów kwalifikowalnych w ramach pomocy dla MŚP na wspieranie innowacyjności zalicza się koszty:
 1)
@@ -478,10 +478,11 @@ koszty oddelegowania wysoko wykwalifikowanego personelu przedsiębiorcy innego n
 Intensywność pomocy dla MŚP na wspieranie innowacyjności nie przekracza 50% kosztów kwalifikowalnych.
 2.
 W przypadku usług, o których mowa w § 30 pkt 2, intensywność pomocy może być zwiększona do 85% kosztów kwalifikowalnych, z zastrzeżeniem że całkowita kwota pomocy na te usługi nie przekracza 200 000 euro dla jednego przedsiębiorcy w dowolnym trzyletnim okresie.
+Pomoc dla klastrów innowacyjnych
 § 32.
 1.
 Pomoc dla klastrów innowacyjnych jest udzielana koordynatorowi klastra.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 5..
 Pomoc ma charakter:
 1)
 pomocy operacyjnej, której czas trwania nie przekracza dziesięciu lat od dnia udzielenia pomocy, lub
@@ -495,7 +496,7 @@ aktywizacji klastra w celu ułatwienia współpracy, dzielenia się informacjami
 marketingu klastra w celu zwiększenia udziału nowych przedsiębiorstw lub organizacji oraz zwiększenia rozpoznawalności klastra;
 3)
 zarządzania zapleczem klastra, organizacji programów szkoleniowych, warsztatów i konferencji w celu wsparcia dzielenia się wiedzą, tworzenia sieci kontaktów i współpracy transnarodowej.
-§ 33a.
+§ 33aDodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 5..
 1.
 Kosztami kwalifikowalnymi w ramach pomocy inwestycyjnej są koszty przeznaczone na utworzenie lub modernizację infrastruktury badawczej lub infrastruktury demonstracyjnej, umożliwiającej fizyczną prezentację całości lub części procesu produkcyjnego, niezbędnej do świadczenia przez koordynatora klastra nowej usługi.
 2.
@@ -516,7 +517,7 @@ d)
 będą stanowić aktywa koordynatora klastra i pozostaną związane z projektem, na który przyznano pomoc, przez co najmniej 5 lat lub 3 lata w przypadku koordynatora klastra będącego MŚP, od dnia zakończenia realizacji projektu;
 4)
 rat spłaty kapitału środków trwałych, z wyłączeniem nieruchomości zabudowanych i niezabudowanych, poniesione przez korzystającego do dnia zakończenia realizacji projektu, do wysokości kapitału z dnia zawarcia umowy leasingu albo spłaty kapitału środków trwałych, z wyłączeniem nieruchomości zabudowanych i niezabudowanych, należnej finansującemu z tytułu umowy leasingu, o ile we wniosku o udzielenie pomocy finansujący jest wskazany przez wnioskodawcę jako podmiot upoważniony do poniesienia kosztu, przy czym umowa leasingu prowadzi do przeniesienia własności tych środków na korzystającego, z wyłączeniem leasingu zwrotnego.
-§ 34.
+§ 34W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 5..
 Intensywność:
 1)
 pomocy operacyjnej nie przekracza 50% łącznych kosztów kwalifikowalnych w okresie, na który przyznawana jest pomoc;
@@ -526,11 +527,12 @@ a)
 w przypadku inwestycji prowadzonych na obszarze województwa mazowieckiego – 55% kosztów kwalifikowalnych,
 b)
 w przypadku inwestycji prowadzonych na obszarach województw innych niż mazowieckie – 65% kosztów kwalifikowalnych.
-§ 35.
+§ 35W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 5..
 1.
 Dostęp do pomieszczeń, zaplecza oraz działań klastra jest zapewniany na przejrzystych i niedyskryminacyjnych zasadach. Członkom klastra, którzy finansują co najmniej 10% kosztów inwestycji klastra, można przyznać preferencyjny dostęp na bardziej korzystnych warunkach, przy czym dostęp ten musi być proporcjonalny do wkładu członka klastra w koszty inwestycji, a warunki te należy podawać do wiadomości publicznej.
 2.
 Opłaty pobierane za korzystanie z zaplecza klastra i za udział w działaniach klastra odpowiadają cenom rynkowym lub odzwierciedlają ich koszty.
+Pomoc na usługi doradcze dla MŚP
 § 36.
 1.
 Kosztami kwalifikowalnymi w ramach pomocy na usługi doradcze dla MŚP są koszty usług doradczych świadczonych przez doradców zewnętrznych.
@@ -538,10 +540,12 @@ Kosztami kwalifikowalnymi w ramach pomocy na usługi doradcze dla MŚP są koszt
 Usługi, o których mowa w ust. 1, nie mogą mieć charakteru ciągłego ani okresowego oraz nie mogą być związane z bieżącą działalnością operacyjną MŚP, w szczególności w zakresie doradztwa podatkowego, stałej obsługi prawnej lub reklamy.
 § 37.
 Intensywność pomocy na usługi doradcze dla MŚP nie przekracza 50% kosztów kwalifikowalnych.
+Pomoc na udział MŚP w targach
 § 38.
 Do kosztów kwalifikowalnych w ramach pomocy na udział MŚP w targach zalicza się koszty wynajmu, budowy i obsługi stoiska wystawowego podczas uczestnictwa MŚP w danych targach lub danej wystawie.
 § 39.
 Intensywność pomocy na udział MŚP w targach nie przekracza 50% kosztów kwalifikowalnych.
+Pomoc szkoleniowa
 § 40.
 1.
 Pomoc szkoleniowa nie może być udzielana na szkolenia, których obowiązek przeprowadzenia wynika z przepisów prawa.
@@ -561,8 +565,8 @@ Intensywność pomocy, o której mowa w ust. 1, zwiększa się o:
 1)
 10 punktów procentowych w przypadku pomocy na rzecz średniego przedsiębiorcy i 20 punktów procentowych w przypadku pomocy na rzecz mikro- i małego przedsiębiorcy,
 2)
-10 punktów procentowych w przypadku pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia Komisji nr 651/2014, lub szkoleń dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia Komisji nr 651/2014
-przy czym łącznie intensywność pomocy nie może przekroczyć 70% kosztów kwalifikowalnych.
+10 punktów procentowych w przypadku pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia Komisji nr 651/2014, lub szkoleń dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia Komisji nr 651/2014 – przy czym łącznie intensywność pomocy nie może przekroczyć 70% kosztów kwalifikowalnych.
+Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych oraz recykling i ponowne wykorzystywanie opadówDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4.
 § 41a.
 1.
 Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych jest udzielana w odniesieniu do odnawialnych źródeł energii wymienionych w art. 2 pkt 110 rozporządzenia Komisji nr 651/2014.
@@ -605,6 +609,7 @@ Intensywność pomocy, o której mowa w ust. 5, zwiększa się o:
 5 punktów procentowych w przypadku inwestycji prowadzonych na obszarze województwa mazowieckiego;
 3)
 15 punktów procentowych w przypadku inwestycji prowadzonych na obszarach województw innych niż mazowieckie.
+Pomoc de minimis
 § 42.
 Do kosztów kwalifikowalnych objętych pomocą de minimis zalicza się koszty:
 1)
@@ -621,17 +626,16 @@ uzyskania, walidacji i obrony patentów i innych wartości niematerialnych i pra
 dostępu do zagranicznej infrastruktury badawczo-rozwojowej;
 7)
 usługi doradczej dotyczącej umiędzynarodowienia przedsiębiorcy;
-8)
+8W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 szkolenia;
 9)
 usługi niezbędnej do aktywizacji przedsiębiorcy będącego członkiem klastra na arenie międzynarodowej;
-10)
+10W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 podróży służbowych pracowników przedsiębiorcy:
 a)
 uczestniczącego w targach, misjach gospodarczych lub programie wspierającym rozwój na rynkach zagranicznych,
 b)
-związanych z przygotowaniem projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie
-w zakresie i według stawek określonych w przepisach w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju;
+związanych z przygotowaniem projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie – w zakresie i według stawek określonych w przepisach w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju;
 11)
 transportu i ubezpieczenia osób i eksponatów w związku z udziałem w targach i misjach gospodarczych;
 12)
@@ -650,29 +654,29 @@ informacyjno-promocyjne projektu;
 ustanowienia i utrzymania zabezpieczenia w formie, o której mowa w art. 131 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady nr 1303/2013, dla zaliczki wypłaconej na rzecz MŚP;
 19)
 opracowania studium wykonalności;
-20)
+20W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 usługi doradczej związanej z opracowaniem lub wdrożeniem nowego lub znacząco ulepszonego wyrobu lub usługi lub nowego projektu wzorniczego;
-21)
+21Dodany przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 3.)
 usługi doradczej związanej z wdrożeniem innowacji procesowej, organizacyjnej lub marketingowej;
-22)
+22Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 usług doradczych związanych z przygotowaniem projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie;
-23)
+23Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 wynagrodzeń wraz z pozapłacowymi kosztami pracy, w tym składkami na ubezpieczenia społeczne i zdrowotne, osób zatrudnionych przez przedsiębiorcę, w części, w jakiej wynagrodzenia te są bezpośrednio związane z przygotowaniem projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie;
-24)
+24Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 organizacji spotkań związanych z przygotowaniem projektu planowanego do realizacji w ramach jednego z programów Unii Europejskiej zarządzanych centralnie;
-25)
+25Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 tłumaczenia dokumentacji aplikacyjnej przedkładanej organizatorowi konkursu;
-26)
+26Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5.)
 najmu lub dzierżawy infrastruktury niezbędnej do testowania nowej usługi, która będzie świadczona przez koordynatora klastra, w szczególności infrastruktury badawczej lub infrastruktury demonstracyjnej, umożliwiającej fizyczną prezentację całości lub części procesu produkcyjnego;
-27)
+27Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5.)
 uzyskania przez koordynatora klastra certyfikatu doskonalenia jakości zarządzania klastrem wydawanego przez międzynarodowy zespół ekspertów The European Secretariat for Cluster Analysis (European Cluster Excellence Initiative Certificate) albo jego wyższego poziomu;
-28)
+28Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5.)
 uzyskania przez koordynatora klastra certyfikatu branżowego niezbędnego do świadczenia przez koordynatora klastra nowej usługi;
-29)
+29Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5.)
 nabycia albo wytworzenia środków trwałych, z wyłączeniem prawa użytkowania wieczystego gruntu oraz prawa własności nieruchomości;
-30)
+30Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5.)
 nabycia robót i materiałów budowlanych;
-31)
+31Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5.)
 nabycia wartości niematerialnych i prawnych w formie patentów, licencji, know-how oraz innych praw własności intelektualnej, jeżeli spełniają łącznie następujące warunki:
 a)
 będą wykorzystywane wyłącznie w podmiocie otrzymującym pomoc de minimis ,
@@ -682,19 +686,20 @@ c)
 będą nabyte od osób trzecich niepowiązanych z podmiotem otrzymującym pomoc de minimis na warunkach rynkowych,
 d)
 będą stanowić aktywa podmiotu otrzymującego pomoc i pozostaną związane z projektem, na który przyznano pomoc de minimis , przez co najmniej 5 lat lub 3 lata w przypadku podmiotu będącego MŚP, od dnia zakończenia realizacji projektu;
-32)
+32Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5.)
 rat spłaty kapitału środków trwałych, z wyłączeniem nieruchomości zabudowanych i niezabudowanych, poniesione przez korzystającego do dnia zakończenia realizacji projektu, do wysokości kapitału z dnia zawarcia umowy leasingu albo spłaty kapitału środków trwałych, z wyłączeniem nieruchomości zabudowanych i niezabudowanych, należnej finansującemu z tytułu umowy leasingu, o ile we wniosku o udzielenie pomocy finansujący jest wskazany przez wnioskodawcę jako podmiot upoważniony do poniesienia kosztu, przy czym umowa leasingu prowadzi do przeniesienia własności tych środków na korzystającego, z wyłączeniem leasingu zwrotnego;
-33)
+33Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5.)
 usługi polegającej na opracowaniu dla MŚP planu wdrożenia zmian w przedsiębiorstwie w zakresie cyfryzacji, automatyzacji i robotyzacji;
-34)
+34Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5.)
 usługi doradczej związanej z wdrożeniem planu, o którym mowa w pkt 33.
 § 43.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4..
 Pomoc de minimis nie przekracza 100% wartości kosztów kwalifikowalnych, o których mowa w § 42.
 2.
 Jeżeli w ramach danego działania lub poddziałania pomoc de minimis jest udzielana razem z pomocą, wówczas stosuje się intensywność odpowiednią dla pomocy stanowiącej główne przeznaczenie w projekcie.
-3.
+3Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3..
 Jeżeli w ramach danego działania lub poddziałania pomoc de minimis jest udzielana razem z pomocą, a pomoc de minimis stanowi główne przeznaczenie w projekcie, wówczas dla kosztów objętych pomocą de minimis stosuje się intensywność określoną w ust. 1.
+Pomoc finansowa niestanowiąca pomocy publicznej
 § 44.
 1.
 Pomoc finansowa niestanowiąca pomocy publicznej może być udzielona:
@@ -708,7 +713,7 @@ jednostkom samorządu terytorialnego, ich związkom lub stowarzyszeniom z ich ud
 podmiotom działającym na rzecz innowacyjności;
 5)
 partnerom społecznym i gospodarczym w rozumieniu art. 5 pkt 7 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2019 r. poz. 1295 i 2020 oraz z 2020 r. poz. 1378);
-6)
+6W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 5.)
 podmiotom, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086).
 2.
 Aby pomoc finansowa udzielona przedsiębiorcom, o których mowa w ust. 1 pkt 1, nie stanowiła pomocy publicznej, należy zapewnić, że nie będzie udzielona na warunkach korzystniejszych niż rynkowe lub nie będzie mieć charakteru selektywnego.
@@ -731,11 +736,11 @@ realizację zadań w zakresie wypracowania i testowania instrumentów wspierają
 opracowanie prototypów usług lub narzędzi docelowo przeznaczonych do powszechnego stosowania przez przedsiębiorców;
 3)
 realizację projektów badawczo-rozwojowych w ramach zamówień przedkomercyjnych;
-4)
+4Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3.)
 realizację programów akceleracyjnych;
-5)
+5Dodany przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 podniesienie kompetencji podmiotów, o których mowa w § 44 ust. 1 pkt 3, w zakresie wdrażania innowacji, w ramach działalności niebędącej działalnością gospodarczą.
-1a.
+1aDodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Pomoc finansowa niestanowiąca pomocy publicznej może być udzielona w formie nagród, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady nr 1303/2013, w zakresie:
 1)
 popularyzacji innowacyjnych rozwiązań w gospodarce i społeczeństwie;
@@ -747,6 +752,7 @@ promocji polskich przedsiębiorców za granicą.
 Zamówienie przedkomercyjne zawiera się na czas ograniczony. Zamówienie to może obejmować opracowanie prototypów lub ograniczonej ilości nowych produktów lub usług w formie serii testowej.
 3.
 Przedmiotem zamówienia przedkomercyjnego nie może być równocześnie nabycie produktów lub usług do komercyjnego rozpowszechniania.
+Pomoc finansowa na przeprowadzenie programów akceleracyjnychDodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3.
 § 45a.
 1.
 Pomoc finansowa na przeprowadzenie programów akceleracyjnych jest udzielana podmiotowi działającemu na rzecz rozwoju gospodarczego lub podmiotowi działającemu na rzecz innowacyjności, który zobowiąże się do realizacji programu akceleracyjnego.
@@ -758,14 +764,15 @@ pomocy finansowej udzielonej grantobiorcy zgodnie z warunkami określonymi w roz
 realizacji programu akceleracyjnego.
 3.
 Pomoc finansowa na przeprowadzenie programów akceleracyjnych nie przekracza 100% kosztów kwalifikowalnych.
-§ 46.
+Tryb udzielania pomocy finansowej
+§ 46W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 5..
 Pomoc finansowa jest udzielana przez Agencję w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, z zastrzeżeniem § 47–47b i § 49.
-§ 47.
+§ 47W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 W ramach poddziałania 2.4.1 Centrum analiz i pilotaży nowych instrumentów – inno_LAB, Agencja udziela pomocy finansowej grantobiorcy w trybie otwartego naboru, o którym mowa w art. 35 ust. 3 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020.
 2.
 Do kosztów kwalifikowalnych w ramach pomocy finansowej udzielanej grantobiorcy, o którym mowa w ust. 1, zgodnie z art. 35 ust. 2 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, zalicza się pomoc finansową udzieloną zgodnie z warunkami określonymi w rozdziałach 2–14.
-§ 47a.
+§ 47aDodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 W ramach poddziałania 2.4.1 Centrum analiz i pilotaży nowych instrumentów – inno_LAB, Agencja udziela pomocy finansowej podmiotom wymienionym w ust. 2, w formie finansowania kosztów usług świadczonych przez usługodawców, wybranych przez Agencję w trybie określonym w przepisach o zamówieniach publicznych, bezpłatnie lub za odpłatnością niższą od ceny rynkowej.
 2.
@@ -780,11 +787,11 @@ jednostki samorządu terytorialnego, ich związki lub stowarzyszenia z ich udzia
 podmioty działające na rzecz innowacyjności;
 5)
 partnerzy społeczni i gospodarczy w rozumieniu art. 5 pkt 7 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 5.)
 podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 3.
 Agencja udziela pomocy finansowej, o której mowa w ust. 1, w sposób przejrzysty, rzetelny i bezstronny oraz zapewnia równy dostęp do informacji o warunkach i sposobie udzielania tej pomocy, w szczególności zamieszcza ogłoszenie o możliwości korzystania z pomocy na stronie internetowej Agencji.
-§ 47b.
+§ 47bDodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 4..
 W ramach poddziałania 2.4.1 Centrum analiz i pilotaży nowych instrumentów – inno_LAB Agencja udziela nagród, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady nr 1303/2013, w sposób przejrzysty, rzetelny i bezstronny oraz zapewnia równy dostęp do informacji o warunkach i sposobie przyznawania nagród, w szczególności zamieszcza ogłoszenie o możliwości udziału w konkursie na stronie internetowej Agencji.
 § 48.
 1.
@@ -808,43 +815,79 @@ inne informacje, wskazane przez Agencję, niezbędne do dokonania oceny wniosku.
 Pośredników finansowych oraz inwestorów prywatnych lub podmioty zarządzające wybiera się w drodze otwartego, przejrzystego i niedyskryminującego zaproszenia do składania ofert, przeprowadzonego zgodnie z obowiązującymi przepisami prawa Unii Europejskiej i prawa polskiego oraz mającego na celu ustanowienie odpowiednich mechanizmów podziału zysków i ryzyka, a także z uwzględnieniem warunków określonych w rozdziale 3.
 2.
 Pomoc dla MŚP na finansowanie ryzyka jest udzielana przez co najmniej jednego pośrednika finansowego.
+Przepis końcowy
 § 50.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Inteligentny Rozwój 2014–2020. 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885, przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce. 3) Dodana przez § 1 pkt 1 lit. a rozporządzenia Ministra Inwestycji i Rozwoju z dnia 25 maja 2018 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1029), które weszło w życie z dniem 30 maja 2018 r. 4) Dodana przez § 1 pkt 1 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 8 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1602), które weszło w życie z dniem 24 sierpnia 2019 r. 5) Dodana przez § 1 pkt 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 7 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1417), które weszło w życie z dniem 20 sierpnia 2020 r. 6) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 8) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 9) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 10) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4. 11) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 4. 12) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5. 14) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 5. 15) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 16) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 17) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 5. 18) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 5. 19) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 5. 20) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 21) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 3. 22) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4. 23) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 3. 24) Dodany przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 3. 25) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4. 26) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5. 27) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4. 28) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 29) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 5. 30) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 31) Dodany przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4. 32) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4. 33) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 34) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 5. 35) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 36) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3. 37) W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 5. 38) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 4. 39) Rozporządzenie zostało ogłoszone w dniu 23 lipca 2015 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 23 lipca 2015 r.. 1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Inteligentny Rozwój 2014–2020. 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885, przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce. 3) Dodana przez § 1 pkt 1 lit. a rozporządzenia Ministra Inwestycji i Rozwoju z dnia 25 maja 2018 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1029), które weszło w życie z dniem 30 maja 2018 r. 4) Dodana przez § 1 pkt 1 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 8 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1602), które weszło w życie z dniem 24 sierpnia 2019 r. 5) Dodana przez § 1 pkt 1 rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 7 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1417), które weszło w życie z dniem 20 sierpnia 2020 r. 6) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 8) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 9) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 10) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4. 11) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 4. 12) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5. 14) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 5. 15) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 16) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 17) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 5. 18) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 5. 19) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 5. 20) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 21) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 3. 22) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4. 23) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 3. 24) Dodany przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 3. 25) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4. 26) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 5. 27) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4. 28) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 29) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 5. 30) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 31) Dodany przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 4. 32) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 4. 33) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 34) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 5. 35) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 36) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3. 37) W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 5. 38) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 4. 39) Rozporządzenie zostało ogłoszone w dniu 23 lipca 2015 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Regionalna pomoc inwestycyjna dla MŚP
+#### Rozdział 2 – Regionalna pomoc inwestycyjna dla MŚP
 
-#### Rozdział 3 Pomoc dla MŚP na finansowanie ryzyka
+#### Rozdział 3 – Pomoc dla MŚP na finansowanie ryzyka
 
-#### Rozdział 4 Pomoc dla przedsiębiorców rozpoczynających działalność
+#### Rozdział 4 – Pomoc dla przedsiębiorców rozpoczynających działalność
 
-#### Rozdział 5 Pomoc na koszty rozpoznania
+#### Rozdział 5 – Pomoc na koszty rozpoznania
 
-#### Rozdział 6 Pomoc na projekty badawczo-rozwojowe oraz studia wykonalności
+#### Rozdział 6 – Pomoc na projekty badawczo-rozwojowe oraz studia wykonalności
 
-#### Rozdział 7 Pomoc na innowacje procesowe i organizacyjne
+#### Rozdział 7 – Pomoc na innowacje procesowe i organizacyjne
 
-#### Rozdział 8 Pomoc dla MŚP na wspieranie innowacyjności
+#### Rozdział 8 – Pomoc dla MŚP na wspieranie innowacyjności
 
-#### Rozdział 9 Pomoc dla klastrów innowacyjnych
+#### Rozdział 9 – Pomoc dla klastrów innowacyjnych
 
-#### Rozdział 10 Pomoc na usługi doradcze dla MŚP
+#### Rozdział 10 – Pomoc na usługi doradcze dla MŚP
 
-#### Rozdział 11 Pomoc na udział MŚP w targach
+#### Rozdział 11 – Pomoc na udział MŚP w targach
 
-#### Rozdział 12 Pomoc szkoleniowa
+#### Rozdział 12 – Pomoc szkoleniowa
 
-#### Rozdział 12a Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych oraz recykling i ponowne wykorzystywanie opadów
+#### Rozdział 12a – Pomoc inwestycyjna na propagowanie energii ze źródeł odnawialnych oraz recykling i ponowne wykorzystywanie opadów
 
-#### Rozdział 13 Pomoc de minimis
+#### Rozdział 13 – Pomoc de minimis
 
-#### Rozdział 14 Pomoc finansowa niestanowiąca pomocy publicznej
+#### Rozdział 14 – Pomoc finansowa niestanowiąca pomocy publicznej
 
-#### Rozdział 14a Pomoc finansowa na przeprowadzenie programów akceleracyjnych
+#### Rozdział 14a – Pomoc finansowa na przeprowadzenie programów akceleracyjnych
 
-#### Rozdział 15 Tryb udzielania pomocy finansowej
+#### Rozdział 15 – Tryb udzielania pomocy finansowej
 
-#### Rozdział 16 Przepis końcowy
+#### Rozdział 16 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+#### Rozdział 12
+
+#### Rozdział 12a
+
+#### Rozdział 13
+
+#### Rozdział 14
+
+#### Rozdział 14a
+
+#### Rozdział 15
+
+#### Rozdział 16
 

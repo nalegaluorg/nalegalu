@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-07-16 |
-| Wejście w życie | 2019-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001318) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1318/text.pdf) |
 
@@ -53,10 +52,11 @@ source: "eli-html"
 
 2a. Wpłaty na fundusz promocji, o którym mowa w art. 2 ust. 1 pkt 10, są naliczane w wysokości 0,2% wartości netto od roślin oleistych będących przedmiotem czynności podlegających opodatkowaniu podatkiem od towarów i usług.
 
-2b. Ilekroć w ustawie jest mowa o towarach, rozumie się przez to również rośliny oleiste. ” , w ust. 3: – w pkt 5 skreśla się wyrazy „na cele konsumpcyjne”, – w pkt 8 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „ 9) Fundusz Promocji Roślin Oleistych są obowiązani przedsiębiorcy prowadzący działalność gospodarczą w zakresie przetwórstwa roślin oleistych. ” , ust. 4 otrzymuje brzmienie: „
+2b. Ilekroć w ustawie jest mowa o towarach, rozumie się przez to również rośliny oleiste. ” , w ust. 3: – w pkt 5 skreśla się wyrazy „na cele konsumpcyjne”, w pkt 8 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
 
 - **b)**
-- **c)**
+- **9)** Fundusz Promocji Roślin Oleistych są obowiązani przedsiębiorcy prowadzący działalność gospodarczą w zakresie przetwórstwa roślin oleistych. ” , ust. 4 otrzymuje brzmienie: „
+    - **c)**
 
 4. Wpłaty na fundusze promocji, o których mowa w art. 2 ust. 1 pkt 2–10, są naliczane i pobierane od podmiotów, które zbywają towary na rzecz podmiotów, o których mowa w ust. 3 pkt 1–5, pkt 6 lit. a, pkt 7, pkt 8 lit. a oraz pkt 9. ” , w ust. 5 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ ust. 3 pkt 1–5, pkt 6 lit. a, pkt 7, pkt 8 lit. a oraz pkt 9: ” , ust. 7 otrzymuje brzmienie: „
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-07-05 |
-| Wejście w życie | 2019-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1248/text.pdf) |
 
@@ -41,8 +40,23 @@ source: "eli-html"
 - **2)** badań;
 - **3)** użytkowania przestrzeni kosmicznej;
 - **4)** rozwoju techniki kosmicznej, w tym inżynierii satelitarnej;
-- **5)** wykorzystania badań i ich wyników do celów użytkowych, gospodarczych, obronnych, bezpieczeństwa państwa i naukowych. ” , w ust. 2: – uchyla się pkt 2 i 3, – pkt 4 otrzymuje brzmienie: „ 4) identyfikowanie i analizowanie, we współpracy z właściwymi ministrami, wyzwań i problemów współpracy międzynarodowej w dziedzinie badania i użytkowania przestrzeni kosmicznej; ” , – uchyla się pkt 6, – pkt 7–11 otrzymują brzmienie: „ 7) współdziałanie z Polskim Komitetem Normalizacyjnym, właściwymi organami państwa i organizacjami międzynarodowymi w zakresie tworzenia definicji, norm i specyfikacji technicznych z zakresu techniki kosmicznej, w tym inżynierii satelitarnej; 8) sprawowanie doradztwa w dziedzinie użytkowania przestrzeni kosmicznej oraz udział w europejskim procesie harmonizacji technologii kosmicznych i satelitarnych w charakterze wsparcia eksperckiego; 9) wspieranie organów państwa w sprawach dotyczących polityki kosmicznej, w tym przygotowywanie i udostępnianie tym organom analiz i raportów z zakresu badań przestrzeni kosmicznej oraz jej użytkowania w różnych sektorach gospodarki, a także w obszarach obronności i bezpieczeństwa państwa; 10) prowadzenie rejestru obiektów znajdujących się w przestrzeni kosmicznej na zasadach określonych w Konwencji o rejestracji obiektów wypuszczonych w przestrzeń kosmiczną, otwartej do podpisania w Nowym Jorku dnia 14 stycznia 1975 r. (Dz. U. z 1979 r. poz. 22); 11) uczestniczenie, na wniosek właściwych organów państwa, w procesie konsultacji dotyczących polskiej aktywności w dziedzinie badań i użytkowania przestrzeni kosmicznej, w szczególności przez wskazywanie doradców i ekspertów do polskich delegacji i przedstawicielstw w instytucjach Unii Europejskiej, Europejskiej Agencji Kosmicznej, Europejskiej Organizacji Eksploatacji Satelitów Meteorologicznych (EUMETSAT), Europejskiej Agencji Obrony (EDA), Europejskiej Organizacji Badań Astronomicznych na Półkuli Południowej (ESO), Organizacji Traktatu Północnoatlantyckiego (NATO), Komitetu Organizacji Narodów Zjednoczonych do spraw Pokojowego Wykorzystania Przestrzeni Kosmicznej (UN COPUOS) i innych organizacji międzynarodowych; ” , – pkt 14–16 otrzymują brzmienie: „ 14) prowadzenie działalności edukacyjnej w zakresie badania i użytkowania przestrzeni kosmicznej, a także wspieranie organizacji i przedsięwzięć promujących sprzyjające warunki dla prowadzenia badań naukowych i prac rozwojowych w dziedzinie użytkowania przestrzeni kosmicznej; 15) identyfikowanie i analizowanie, we współpracy z ministrem właściwym do spraw szkolnictwa wyższego i nauki, potrzeb kształcenia na poziomie wyższym specjalistów w zakresie użytkowania przestrzeni kosmicznej i wspieranie kształcenia ekspertów w dziedzinie techniki kosmicznej, w szczególności inżynierii satelitarnej, w kooperacji z krajowymi i zagranicznymi uczelniami i instytucjami badawczymi; 16) wykonywanie zadań z zakresu obronności i bezpieczeństwa państwa określonych przez Ministra Obrony Narodowej lub inny organ administracji rządowej, uzgodnionych z ministrem właściwym do spraw gospodarki, w tym dotyczących: a) satelitarnej obserwacji powierzchni Ziemi, b) obserwacji przestrzeni kosmicznej, c) nawigacji i łączności satelitarnej, d) analiz zagrożeń w przestrzeni kosmicznej, e) technologii rakietowych. ” , dodaje się ust. 5 w brzmieniu: „
+- **5)** wykorzystania badań i ich wyników do celów użytkowych, gospodarczych, obronnych, bezpieczeństwa państwa i naukowych. ” , w ust. 2: – uchyla się pkt 2 i 3, pkt 4 otrzymuje brzmienie: „
     - **b)**
+
+- **4)** identyfikowanie i analizowanie, we współpracy z właściwymi ministrami, wyzwań i problemów współpracy międzynarodowej w dziedzinie badania i użytkowania przestrzeni kosmicznej; ” , – uchyla się pkt 6, pkt 7–11 otrzymują brzmienie: „
+- **7)** współdziałanie z Polskim Komitetem Normalizacyjnym, właściwymi organami państwa i organizacjami międzynarodowymi w zakresie tworzenia definicji, norm i specyfikacji technicznych z zakresu techniki kosmicznej, w tym inżynierii satelitarnej;
+- **8)** sprawowanie doradztwa w dziedzinie użytkowania przestrzeni kosmicznej oraz udział w europejskim procesie harmonizacji technologii kosmicznych i satelitarnych w charakterze wsparcia eksperckiego;
+- **9)** wspieranie organów państwa w sprawach dotyczących polityki kosmicznej, w tym przygotowywanie i udostępnianie tym organom analiz i raportów z zakresu badań przestrzeni kosmicznej oraz jej użytkowania w różnych sektorach gospodarki, a także w obszarach obronności i bezpieczeństwa państwa;
+- **10)** prowadzenie rejestru obiektów znajdujących się w przestrzeni kosmicznej na zasadach określonych w Konwencji o rejestracji obiektów wypuszczonych w przestrzeń kosmiczną, otwartej do podpisania w Nowym Jorku dnia 14 stycznia 1975 r. (Dz. U. z 1979 r. poz. 22);
+- **11)** uczestniczenie, na wniosek właściwych organów państwa, w procesie konsultacji dotyczących polskiej aktywności w dziedzinie badań i użytkowania przestrzeni kosmicznej, w szczególności przez wskazywanie doradców i ekspertów do polskich delegacji i przedstawicielstw w instytucjach Unii Europejskiej, Europejskiej Agencji Kosmicznej, Europejskiej Organizacji Eksploatacji Satelitów Meteorologicznych (EUMETSAT), Europejskiej Agencji Obrony (EDA), Europejskiej Organizacji Badań Astronomicznych na Półkuli Południowej (ESO), Organizacji Traktatu Północnoatlantyckiego (NATO), Komitetu Organizacji Narodów Zjednoczonych do spraw Pokojowego Wykorzystania Przestrzeni Kosmicznej (UN COPUOS) i innych organizacji międzynarodowych; ” , pkt 14–16 otrzymują brzmienie: „
+- **14)** prowadzenie działalności edukacyjnej w zakresie badania i użytkowania przestrzeni kosmicznej, a także wspieranie organizacji i przedsięwzięć promujących sprzyjające warunki dla prowadzenia badań naukowych i prac rozwojowych w dziedzinie użytkowania przestrzeni kosmicznej;
+- **15)** identyfikowanie i analizowanie, we współpracy z ministrem właściwym do spraw szkolnictwa wyższego i nauki, potrzeb kształcenia na poziomie wyższym specjalistów w zakresie użytkowania przestrzeni kosmicznej i wspieranie kształcenia ekspertów w dziedzinie techniki kosmicznej, w szczególności inżynierii satelitarnej, w kooperacji z krajowymi i zagranicznymi uczelniami i instytucjami badawczymi;
+- **16)** wykonywanie zadań z zakresu obronności i bezpieczeństwa państwa określonych przez Ministra Obrony Narodowej lub inny organ administracji rządowej, uzgodnionych z ministrem właściwym do spraw gospodarki, w tym dotyczących: satelitarnej obserwacji powierzchni Ziemi, obserwacji przestrzeni kosmicznej, nawigacji i łączności satelitarnej, analiz zagrożeń w przestrzeni kosmicznej, technologii rakietowych. ” , dodaje się ust. 5 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
     - **c)**
 
 5. Realizacja zadań, o których mowa w ust. 2 pkt 16, jest finansowana ze środków budżetu państwa, których dysponentem jest organ określający zakres realizowanych zadań. ” ;
@@ -76,7 +90,7 @@ source: "eli-html"
 4. Wsparcie nie może być udzielane:
 
 - **1)** osobie albo podmiotowi, o których mowa w ust. 3, jeżeli nie wykonały albo nienależycie wykonały w istotnym stopniu projekt realizowany na zlecenie Agencji, organizacji międzynarodowych, o których mowa w art. 3 ust. 2 pkt 11, oraz innych organizacji, których działalność jest związana z zakresem spraw należących do zadań Agencji, co doprowadziło do rozwiązania umowy, na podstawie której realizowały projekt, lub zasądzenia odszkodowania;
-- **2)** osobom, wobec których prawomocnie orzeczono naruszenie zasad etyki w nauce, o których mowa w art. 112 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2019 r. poz. 1183), art. 56 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2018 r. poz. 736 i 1669 oraz z 2019 r. poz. 534) i art. 287 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.).
+- **2)** osobom, wobec których prawomocnie orzeczono naruszenie zasad etyki w nauce, o których mowa w art. 112 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2019 r. poz. 1183), art. 56 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2018 r. poz. 736 i 1669 oraz z 2019 r. poz. 534) i art. 287 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.).
 
 5. Wsparcie jest udzielane na wniosek, do którego dołącza się oświadczenie o braku przesłanek uniemożliwiających udzielenie wsparcia określonych w ust. 4 składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 Kodeksu karnego oświadczam, że nie zachodzą przesłanki uniemożliwiające udzielenie przez Polską Agencję Kosmiczną wsparcia, o których mowa w art. 3a ust. 4 ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2018 r. poz. 601 i 1669 oraz z 2019 r. poz. 1248).”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -93,8 +107,10 @@ source: "eli-html"
 1a. Nieprzedstawienie opinii, o której mowa w ust. 1, w terminie miesiąca od dnia otrzymania wystąpienia o opinię jest równoznaczne z przedstawieniem opinii pozytywnej. ” , w ust. 2 pkt 6 otrzymuje brzmienie: „
 
 - **c)**
-- **6)** niezatwierdzenia lub nieprzedstawienia w terminie określonym w art. 19 ust. 11 któregokolwiek ze sprawozdań, o których mowa w tym przepisie, jeżeli pełnił funkcję przez cały rok, za który sprawozdanie jest składane. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw gospodarki może odwołać Prezesa Agencji przed upływem kadencji, po zasięgnięciu opinii Ministra Obrony Narodowej oraz ministra właściwego do spraw szkolnictwa wyższego i nauki, w przypadku: ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) niezatwierdzenia lub nieprzedstawienia w terminie określonym w art. 19 ust. 11 któregokolwiek ze sprawozdań, o których mowa w tym przepisie, jeżeli pełnił funkcję w roku, za który sprawozdanie jest składane, krócej niż 12 miesięcy. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **6)** niezatwierdzenia lub nieprzedstawienia w terminie określonym w art. 19 ust. 11 któregokolwiek ze sprawozdań, o których mowa w tym przepisie, jeżeli pełnił funkcję przez cały rok, za który sprawozdanie jest składane. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw gospodarki może odwołać Prezesa Agencji przed upływem kadencji, po zasięgnięciu opinii Ministra Obrony Narodowej oraz ministra właściwego do spraw szkolnictwa wyższego i nauki, w przypadku: ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
     - **d)**
+
+- **4)** niezatwierdzenia lub nieprzedstawienia w terminie określonym w art. 19 ust. 11 któregokolwiek ze sprawozdań, o których mowa w tym przepisie, jeżeli pełnił funkcję w roku, za który sprawozdanie jest składane, krócej niż 12 miesięcy. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **e)**
 
 3a. Nieprzedstawienie opinii, o której mowa w ust. 3, w terminie 2 tygodni od dnia otrzymania wystąpienia o opinię jest równoznaczne z przedstawieniem opinii pozytywnej. ” , ust. 4 otrzymuje brzmienie: „
@@ -111,8 +127,11 @@ source: "eli-html"
 
 7. Minister właściwy do spraw gospodarki zarządza nabór na stanowisko Prezesa Agencji w terminie 2 tygodni od dnia odwołania Prezesa Agencji. ” ;
 
-- **6)** w art. 9: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) posiada co najmniej: tytuł zawodowy magistra lub równorzędny, 2-letnią praktykę na stanowisku kierowniczym oraz 4-letni staż pracy w sektorze naukowym, przemysłowym lub administracji publicznej związany z zakresem spraw należących do zadań Agencji; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) posiada autorytet dający rękojmię prawidłowej realizacji zadań Agencji. ” , w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Informację o naborze na stanowisko Prezesa Agencji ogłasza się w miejscu powszechnie dostępnym w siedzibie Agencji, a także w Biuletynie Informacji Publicznej na stronie podmiotowej odpowiednio ministra właściwego do spraw gospodarki i Agencji. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **6)** w art. 9: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** posiada co najmniej: tytuł zawodowy magistra lub równorzędny, 2-letnią praktykę na stanowisku kierowniczym oraz 4-letni staż pracy w sektorze naukowym, przemysłowym lub administracji publicznej związany z zakresem spraw należących do zadań Agencji; ” , w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** posiada autorytet dający rękojmię prawidłowej realizacji zadań Agencji. ” , w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Informację o naborze na stanowisko Prezesa Agencji ogłasza się w miejscu powszechnie dostępnym w siedzibie Agencji, a także w Biuletynie Informacji Publicznej na stronie podmiotowej odpowiednio ministra właściwego do spraw gospodarki i Agencji. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -137,12 +156,14 @@ source: "eli-html"
 
 1. Prezes Agencji kieruje Agencją przy pomocy nie więcej niż dwóch wiceprezesów.
 
-2. Wiceprezesa powołuje minister właściwy do spraw gospodarki, na wniosek Prezesa Agencji, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, po zasięgnięciu opinii Ministra Obrony Narodowej oraz ministra właściwego do spraw szkolnictwa wyższego i nauki. Minister właściwy do spraw gospodarki odwołuje wiceprezesa. Do odwołania wiceprezesa przepisy art. 8 ust. 2–3a stosuje się odpowiednio. ” , w ust. 3 w zdaniu drugim wyrazy „art. 9 ust. 2–10” zastępuje się wyrazami „art. 9 ust. 2–9”, w ust. 4: – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) posiada co najmniej: tytuł zawodowy magistra lub równorzędny, 2-letnią praktykę na stanowisku kierowniczym i 3-letni staż pracy w sektorze naukowym, przemysłowym lub administracji publicznej związany z zakresem spraw należących do zadań Agencji; ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) posiada autorytet dający rękojmię prawidłowej realizacji zadań Agencji. ” , uchyla się ust. 5 i 6, ust. 7 otrzymuje brzmienie: „
+2. Wiceprezesa powołuje minister właściwy do spraw gospodarki, na wniosek Prezesa Agencji, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, po zasięgnięciu opinii Ministra Obrony Narodowej oraz ministra właściwego do spraw szkolnictwa wyższego i nauki. Minister właściwy do spraw gospodarki odwołuje wiceprezesa. Do odwołania wiceprezesa przepisy art. 8 ust. 2–3a stosuje się odpowiednio. ” , w ust. 3 w zdaniu drugim wyrazy „art. 9 ust. 2–10” zastępuje się wyrazami „art. 9 ust. 2–9”, w ust. 4: po pkt 3 dodaje się pkt 3a w brzmieniu: „
 
 - **b)**
 - **c)**
-- **d)**
-- **e)**
+- **3a)** posiada co najmniej: tytuł zawodowy magistra lub równorzędny, 2-letnią praktykę na stanowisku kierowniczym i 3-letni staż pracy w sektorze naukowym, przemysłowym lub administracji publicznej związany z zakresem spraw należących do zadań Agencji; ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** posiada autorytet dający rękojmię prawidłowej realizacji zadań Agencji. ” , uchyla się ust. 5 i 6, ust. 7 otrzymuje brzmienie: „
+    - **d)**
+    - **e)**
 
 7. W przypadku odwołania wiceprezesa minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Agencji, powierza innej osobie pełnienie obowiązków wiceprezesa do czasu wyłonienia kandydata w drodze konkursu, na okres nie dłuższy niż 3 miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne 3 miesiące. ” ;
 
@@ -198,7 +219,7 @@ source: "eli-html"
 - **7)** ministra właściwego do spraw informatyzacji,
 - **8)** ministra właściwego do spraw rolnictwa,
 - **9)** ministra właściwego do spraw środowiska,
-- **10)** ministra właściwego do spraw transportu pełniących funkcję co najmniej dyrektora departamentu oraz posiadających wiedzę z zakresu spraw należących do właściwości Agencji. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **10)** ministra właściwego do spraw transportu – pełniących funkcję co najmniej dyrektora departamentu oraz posiadających wiedzę z zakresu spraw należących do właściwości Agencji. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. W przypadku gdy minister kieruje więcej niż jednym działem administracji rządowej wymienionym w ust. 2, do członkostwa w Radzie Agencji wyznacza jednego przedstawiciela. ” , uchyla się ust. 3, ust. 4 i 5 otrzymują brzmienie: „
@@ -228,7 +249,7 @@ source: "eli-html"
 - **5)** konieczności zapewnienia składu Rady zgodnego z ust. 2a. ” , dodaje się ust. 11 w brzmieniu: „
     - **f)**
 
-11. Do kandydatów na członków Rady Agencji nie stosuje się wymogu posiadania pozytywnej opinii Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych, o której mowa w art. 24 pkt 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2018 r. poz. 1182, z późn. zm.), oraz wymogów wymienionych w art. 19 ust. 1 pkt 1 lit. a-j tej ustawy. ” ;
+11. Do kandydatów na członków Rady Agencji nie stosuje się wymogu posiadania pozytywnej opinii Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych, o której mowa w art. 24 pkt 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2018 r. poz. 1182, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1669, 1735, 2024, 2243 i 2270 oraz z 2019 r. poz. 229, 447, 492, 730 i 823.), oraz wymogów wymienionych w art. 19 ust. 1 pkt 1 lit. a-j tej ustawy. ” ;
 
 - **11)** w art. 15: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
@@ -254,7 +275,7 @@ source: "eli-html"
 11. Prezes Agencji przedstawia ministrowi właściwemu do spraw gospodarki do zatwierdzenia:
 
 - **1)** sprawozdanie finansowe Agencji wraz ze sprawozdaniem z badania,
-- **2)** roczne sprawozdanie z działalności Agencji za rok ubiegły w terminie do dnia 31 marca następnego roku; do sprawozdań dołącza się opinię Rady Agencji. ” , uchyla się ust. 13. W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2019 r. poz. 945) wprowadza się następujące zmiany:
+- **2)** roczne sprawozdanie z działalności Agencji – za rok ubiegły w terminie do dnia 31 marca następnego roku; do sprawozdań dołącza się opinię Rady Agencji. ” , uchyla się ust. 13. W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2019 r. poz. 945) wprowadza się następujące zmiany:
     - **b)**
 
 - **1)** w art. 9: w ust. 2 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „

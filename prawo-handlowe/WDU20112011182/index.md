@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy – Kodeks spółek handlowych
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy – Kodeks spółek handlowych Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/109/WE z dnia 16 września 2009 r. zmieniającej dyrektywy Rady 77/91/EWG, 78/855/EWG i 82/891/EWG oraz dyrektywę 2005/56/WE w odniesieniu do wymogów dotyczących sprawozdawczości i dokumentacji w przypadku połączeń i podziałów (Dz. Urz. UE L 259 z 02.10.2009, str. 14).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-09-26 |
-| Wejście w życie | 2011-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112011182) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1182/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547, z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341 i Nr 104, poz. 860 oraz z 2011 r. Nr 92, poz. 531, Nr 102, poz. 585, Nr 106, poz. 622 i Nr 133, poz. 767.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3121: w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sprawozdania założycieli można nie poddawać badaniu przez biegłego rewidenta w odniesieniu do wkładów niepieniężnych, których przedmiotem są: ” , w § 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sprawozdanie założycieli podlega jednakże badaniu przez biegłego rewidenta w odniesieniu do wkładów niepieniężnych, o których mowa w § 1, jeżeli: ” , § 3 i 4 otrzymują brzmienie: „
     - **a)**
@@ -145,5 +144,5 @@ source: "eli-html"
 
 **Art. 2.** Do łączenia się, łączenia się transgranicznego i podziału spółki, której plan połączenia, plan połączenia transgranicznego albo plan podziału został ogłoszony przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/109/WE z dnia 16 września 2009 r. zmieniającej dyrektywy Rady 77/91/EWG, 78/855/EWG i 82/891/EWG oraz dyrektywę 2005/56/WE w odniesieniu do wymogów dotyczących sprawozdawczości i dokumentacji w przypadku połączeń i podziałów (Dz. Urz. UE L 259 z 02.10.2009, str. 14). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547, z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341 i Nr 104, poz. 860 oraz z 2011 r. Nr 92, poz. 531, Nr 102, poz. 585, Nr 106, poz. 622 i Nr 133, poz. 767.
 

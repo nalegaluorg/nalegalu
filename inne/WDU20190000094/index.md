@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 20 grudnia 2018 r. zmieniające rozporządzenie w sprawie wyłączenia zastosowania niektórych przepisów ustawy – Prawo lotnicze do niektórych rodzajów statków powietrznych oraz określenia warunków i wymagań dotyczących używania tych statków
+# Rozporządzenie Ministra Infrastrukturyz dnia 20 grudnia 2018 r. zmieniające rozporządzenie w sprawie wyłączenia zastosowania niektórych przepisów ustawy – Prawo lotnicze do niektórych rodzajów statków powietrznych oraz określenia warunków i wymagań dotyczących używania tych statków Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -22,97 +22,79 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-20 |
 | Data wydania | 2019-01-17 |
-| Wejście w życie | 2019-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/94/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Bezzałogowe statki powietrzne o masie startowej nie większej niż 25 kg, używane w operacjach poza zasięgiem widoczności wzrokowej BVLOS, z wyłączeniem bezzałogowych statków powietrznych o masie startowej nie większej niż 2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV Rozdział 1 – Zastosowanie Rozdział 2 – Określenia Rozdział 3 – Odpowiedzialność Rozdział 4 – Ogólne warunki wykonywania lotów Rozdział 5 – Szczegółowe warunki wykonywania lotów Rozdział 6 – Wymagania dotyczące bezzałogowych statków powietrznych Rozdział 7 – Warunki eksploatacji bezzałogowych statków powietrznych Rozdział 8 – Uzyskiwanie zgody na wykonywanie lotów operacyjnych, specjalistycznych, szkoleniowych i automatycznych
+Załącznik – Bezzałogowe statki powietrzne o masie startowej nie większej niż 25 kg, używane w operacjach poza zasięgiem widoczności wzrokowej BVLOS, z wyłączeniem bezzałogowych statków powietrznych o masie startowej nie większej niż 2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV
 Treść rozporządzenia
 Na podstawie art. 33 ust. 2 i 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183, 1629 i 1637) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 26 marca 2013 r. w sprawie wyłączenia zastosowania niektórych przepisów ustawy – Prawo lotnicze do niektórych rodzajów statków powietrznych oraz określenia warunków i wymagań dotyczących używania tych statków (Dz. U. z 2016 r. poz. 1993 oraz z 2018 r. poz. 1041) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Przepisów rozporządzenia nie stosuje się do państwowych statków powietrznych innych niż bezzałogowe statki powietrzne o masie statku powietrznego gotowego do lotu (masie startowej) nie większej niż 150 kg, z zastrzeżeniem art. 1 ust. 6 ustawy.
-” ;
+Przepisów rozporządzenia nie stosuje się do państwowych statków powietrznych innych niż bezzałogowe statki powietrzne o masie statku powietrznego gotowego do lotu (masie startowej) nie większej niż 150 kg, z zastrzeżeniem art. 1 ust. 6 ustawy. ” ;
 2)
 w § 2:
 a)
-w ust. 3 pkt 2 otrzymuje brzmienie:
-„
+w ust. 3 pkt 2 otrzymuje brzmienie: „
 2)
-statków powietrznych, o których mowa w ust. 1 pkt 2 i 3, przepisów wydanych na podstawie art. 119 ust. 4 pkt 1 ustawy, z uwzględnieniem przepisów określonych w załącznikach nr 6–6b do rozporządzenia.
-” ,
+statków powietrznych, o których mowa w ust. 1 pkt 2 i 3, przepisów wydanych na podstawie art. 119 ust. 4 pkt 1 ustawy, z uwzględnieniem przepisów określonych w załącznikach nr 6–6b do rozporządzenia. ” ,
 b)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
 Wyłącza się zastosowanie do bezzałogowych statków powietrznych o masie startowej nie większej niż:
 1)
 150 kg, używanych w operacjach w zasięgu widoczności wzrokowej VLOS,
 2)
-25 kg, używanych w operacjach poza zasięgiem widoczności wzrokowej BVLOS
-przepisów art. 126 ust. 2–4 ustawy oraz przepisów wydanych na podstawie art. 121 ust. 6 i art. 126 ust. 5 ustawy, z uwzględnieniem przepisów określonych w załącznikach nr 6–6b do rozporządzenia.
-” ,
+25 kg, używanych w operacjach poza zasięgiem widoczności wzrokowej BVLOS – przepisów art. 126 ust. 2–4 ustawy oraz przepisów wydanych na podstawie art. 121 ust. 6 i art. 126 ust. 5 ustawy, z uwzględnieniem przepisów określonych w załącznikach nr 6–6b do rozporządzenia. ” ,
 c)
-w ust. 10 pkt 2 otrzymuje brzmienie:
-„
+w ust. 10 pkt 2 otrzymuje brzmienie: „
 2)
 wykorzystywanych przez osoby biorące udział w zajęciach dydaktycznych lub wychowawczych prowadzonych:
 a)
 w ramach systemu oświaty lub przy wsparciu organizacji, osób prawnych lub jednostek, o których mowa w art. 2 i art. 3 ust. 1 i 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i 2245),
 b)
-przez uczelnie, o których mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, 2024 i 2245)
-jeżeli loty wykonywane w ramach tych zajęć nie są lotami polegającymi na świadczeniu usług lotniczych i są wykonywane zgodnie z przepisami określonymi w załączniku nr 6 do rozporządzenia.
-” ,
+przez uczelnie, o których mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, 2024 i 2245) – jeżeli loty wykonywane w ramach tych zajęć nie są lotami polegającymi na świadczeniu usług lotniczych i są wykonywane zgodnie z przepisami określonymi w załączniku nr 6 do rozporządzenia. ” ,
 d)
-dodaje się ust. 12 w brzmieniu:
-„
+dodaje się ust. 12 w brzmieniu: „
 12.
 Wyłącza się zastosowanie do bezzałogowych statków powietrznych o masie startowej nie większej niż 5 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS w celach innych niż rekreacyjne lub sportowe, przepisów:
 1)
 art. 95 ust. 3 pkt 6, art. 96 ust. 1 pkt 7, art. 99 ust. 1 ustawy oraz pkt 1.3.1.5 i 1.3.1.6 załącznika nr 6 do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 3 czerwca 2013 r. w sprawie świadectw kwalifikacji (Dz. U. z 2017 r. poz. 288);
 2)
-art. 105 ust. 1 ustawy, z wyłączeniem osób wykonujących operacje na podstawie posiadanego uprawnienia instruktora INS; sprawność fizyczną i psychiczną operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe, stwierdza się na podstawie złożonego przez tę osobę pisemnego oświadczenia, że stan zdrowia tej osoby pozwala na bezpieczne wykonywanie czynności lotniczych.
-” ;
+art. 105 ust. 1 ustawy, z wyłączeniem osób wykonujących operacje na podstawie posiadanego uprawnienia instruktora INS; sprawność fizyczną i psychiczną operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe, stwierdza się na podstawie złożonego przez tę osobę pisemnego oświadczenia, że stan zdrowia tej osoby pozwala na bezpieczne wykonywanie czynności lotniczych. ” ;
 3)
 w § 4 w ust. 1:
 a)
-pkt 6 i 7 otrzymują brzmienie:
-„
+pkt 6 i 7 otrzymują brzmienie: „
 6)
 bezzałogowych statków powietrznych o masie startowej nie większej niż:
 a)
 150 kg, używanych w operacjach w zasięgu widoczności wzrokowej VLOS, albo
 b)
-2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV
-w celach rekreacyjnych lub sportowych – w załączniku nr 6 do rozporządzenia;
+2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV – w celach rekreacyjnych lub sportowych – w załączniku nr 6 do rozporządzenia;
 7)
 bezzałogowych statków powietrznych o masie startowej nie większej niż:
 a)
 150 kg, używanych w operacjach w zasięgu widoczności wzrokowej VLOS, albo
 b)
-2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV
-w celach innych niż rekreacyjne lub sportowe – w załączniku nr 6a do rozporządzenia;
-” ,
+2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV – w celach innych niż rekreacyjne lub sportowe – w załączniku nr 6a do rozporządzenia; ” ,
 b)
-dodaje się pkt 8 w brzmieniu:
-„
+dodaje się pkt 8 w brzmieniu: „
 8)
-bezzałogowych statków powietrznych o masie startowej nie większej niż 25 kg, używanych w operacjach poza zasięgiem widoczności wzrokowej BVLOS, z wyłączeniem bezzałogowych statków powietrznych o masie startowej nie większej niż 2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV – w załączniku nr 6b do rozporządzenia.
-” ;
+bezzałogowych statków powietrznych o masie startowej nie większej niż 25 kg, używanych w operacjach poza zasięgiem widoczności wzrokowej BVLOS, z wyłączeniem bezzałogowych statków powietrznych o masie startowej nie większej niż 2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV – w załączniku nr 6b do rozporządzenia. ” ;
 4)
 w § 5:
 a)
 w ust. 1:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Urządzenia latające oraz bezzałogowe statki powietrzne o masie startowej nie większej niż 25 kg, używane w operacjach poza zasięgiem widoczności wzrokowej BVLOS, podlegają obowiązkowi wpisu do ewidencji statków powietrznych, prowadzonej przez Prezesa Urzędu albo podmiot upoważniony do wykonywania niektórych czynności nadzoru lub kontroli na podstawie art. 22 ust. 3 ustawy, z wyjątkiem: ” ,
-– w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) bezzałogowych statków powietrznych realizujących loty na potrzeby działań służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399 oraz z 2019 r. poz. 53). ” ,
+w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+5)
+bezzałogowych statków powietrznych realizujących loty na potrzeby działań służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399 oraz z 2019 r. poz. 53). ” ,
 b)
-ust. 3 i 4 otrzymują brzmienie:
-„
+ust. 3 i 4 otrzymują brzmienie: „
 3.
 Właściciel urządzenia latającego oraz bezzałogowego statku powietrznego, wpisanych do ewidencji statków powietrznych zgłasza zmiany danych wpisywanych do ewidencji statków powietrznych w terminie 14 dni od dnia powstania tych zmian.
 4.
@@ -120,8 +102,7 @@ Wykreślenie urządzenia latającego oraz bezzałogowego statku powietrznego z e
 1)
 z urzędu – w przypadku zniszczenia urządzenia latającego albo bezzałogowego statku powietrznego lub stałej utraty zdolności do wykonywania lotów przez to urządzenie albo ten bezzałogowy statek powietrzny;
 2)
-na wniosek właściciela urządzenia latającego oraz bezzałogowego statku powietrznego.
-” ;
+na wniosek właściciela urządzenia latającego oraz bezzałogowego statku powietrznego. ” ;
 5)
 w załączniku nr 6 do rozporządzenia:
 a)
@@ -129,35 +110,62 @@ tytuł załącznika otrzymuje brzmienie: „ Bezzałogowe statki powietrzne o ma
 b)
 pkt 1.1 otrzymuje brzmienie:
 1.1.
-Przepisy załącznika stosuje się do bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych w operacjach w zasięgu widoczności wzrokowej VLOS, oraz bezzałogowych statków powietrznych o masie startowej nie większej niż 2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV, używanych w celach rekreacyjnych lub sportowych, zwanych dalej „modelami latającymi”.
-” ,
+Przepisy załącznika stosuje się do bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych w operacjach w zasięgu widoczności wzrokowej VLOS, oraz bezzałogowych statków powietrznych o masie startowej nie większej niż 2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV, używanych w celach rekreacyjnych lub sportowych, zwanych dalej „modelami latającymi”. ” ,
 c)
 w pkt 2:
-– ppkt 13 otrzymuje brzmienie: „ 13) strefa R – (Restricted Area) – strefę ograniczoną; ” ,
-– w ppkt 15 kropkę zastępuje się średnikiem i dodaje się ppkt 16 i 17 w brzmieniu: „ 16) operacje z widokiem z pierwszej osoby FPV – (First Person View) – operacje, w których operator pilotuje model latający, nie utrzymując z nim bezpośredniego kontaktu wzrokowego, określając jego położenie w przestrzeni powietrznej przez obraz przekazywany w czasie rzeczywistym na ziemię przez urządzenia zamontowane na pokładzie modelu latającego; 17) bezpieczna odległość – odległość modelu latającego od innych statków powietrznych, przeszkód, osób lub zwierząt, umożliwiającą uniknięcie kolizji, wynikającą z analizy panujących warunków meteorologicznych, otoczenia i przeszkód znajdujących się w obszarze wykonywania lotu oraz rodzaju używanego modelu latającego i kwalifikacji operatora. ” ,
+ppkt 13 otrzymuje brzmienie: „
+13)
+strefa R – (Restricted Area) – strefę ograniczoną; ” ,
+w ppkt 15 kropkę zastępuje się średnikiem i dodaje się ppkt 16 i 17 w brzmieniu: „
+16)
+operacje z widokiem z pierwszej osoby FPV – (First Person View) – operacje, w których operator pilotuje model latający, nie utrzymując z nim bezpośredniego kontaktu wzrokowego, określając jego położenie w przestrzeni powietrznej przez obraz przekazywany w czasie rzeczywistym na ziemię przez urządzenia zamontowane na pokładzie modelu latającego;
+17)
+bezpieczna odległość – odległość modelu latającego od innych statków powietrznych, przeszkód, osób lub zwierząt, umożliwiającą uniknięcie kolizji, wynikającą z analizy panujących warunków meteorologicznych, otoczenia i przeszkód znajdujących się w obszarze wykonywania lotu oraz rodzaju używanego modelu latającego i kwalifikacji operatora. ” ,
 d)
 w pkt 4.1:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Modelami latającymi wykonuje się operacje z zachowaniem następujących warunków: ” ,
-– ppkt 1 otrzymuje brzmienie: „ 1) w operacjach w zasięgu widoczności wzrokowej VLOS operator lub przynajmniej jeden obserwator utrzymuje kontakt wzrokowy nieuzbrojonym okiem z modelem latającym w celu określenia jego położenia względem operatora i w przestrzeni powietrznej oraz zapewnienia bezpiecznej odległości od innych statków powietrznych, przeszkód, osób lub zwierząt; ” ,
-– po ppkt 1 dodaje się ppkt 1a i 1b w brzmieniu: „ 1a) w operacjach w zasięgu widoczności wzrokowej VLOS wykonywanych bez obserwatora dopuszcza się utratę kontaktu wzrokowego z modelem latającym w momencie dokonywania przez operatora kontroli parametrów lotu przekazywanych przez urządzenia będące wyposażeniem naziemnym modelu latającego; 1b) w operacjach z widokiem z pierwszej osoby FPV lot jest wykonywany: a) do wysokości nie większej niż 50 m nad poziomem terenu, b) w odległości poziomej nie większej niż 200 m od operatora; ” ,
-– ppkt 2 i 3 otrzymują brzmienie: „ 2) zapewniając w każdej fazie lotu bezpieczną odległość poziomą od innych statków powietrznych, przeszkód, osób lub zwierząt na wypadek awarii lub utraty kontroli nad modelem latającym; 3) zachowując odległość poziomą nie mniejszą niż 100 m od zabudowy miejscowości, miast, osiedli lub od zgromadzeń osób na wolnym powietrzu; ” ,
-– ppkt 9 otrzymuje brzmienie: „ 9) w obszarze strefy R obejmującym przestrzeń powietrzną znajdującą się bezpośrednio nad obszarem parku narodowego za zgodą zarządzającego danym parkiem narodowym i na warunkach przez niego określonych; ” ,
+ppkt 1 otrzymuje brzmienie: „
+1)
+w operacjach w zasięgu widoczności wzrokowej VLOS operator lub przynajmniej jeden obserwator utrzymuje kontakt wzrokowy nieuzbrojonym okiem z modelem latającym w celu określenia jego położenia względem operatora i w przestrzeni powietrznej oraz zapewnienia bezpiecznej odległości od innych statków powietrznych, przeszkód, osób lub zwierząt; ” ,
+po ppkt 1 dodaje się ppkt 1a i 1b w brzmieniu: „
+1a)
+w operacjach w zasięgu widoczności wzrokowej VLOS wykonywanych bez obserwatora dopuszcza się utratę kontaktu wzrokowego z modelem latającym w momencie dokonywania przez operatora kontroli parametrów lotu przekazywanych przez urządzenia będące wyposażeniem naziemnym modelu latającego;
+1b)
+w operacjach z widokiem z pierwszej osoby FPV lot jest wykonywany:
+a)
+do wysokości nie większej niż 50 m nad poziomem terenu,
+b)
+w odległości poziomej nie większej niż 200 m od operatora; ” ,
+ppkt 2 i 3 otrzymują brzmienie: „
+2)
+zapewniając w każdej fazie lotu bezpieczną odległość poziomą od innych statków powietrznych, przeszkód, osób lub zwierząt na wypadek awarii lub utraty kontroli nad modelem latającym;
+3)
+zachowując odległość poziomą nie mniejszą niż 100 m od zabudowy miejscowości, miast, osiedli lub od zgromadzeń osób na wolnym powietrzu; ” ,
+ppkt 9 otrzymuje brzmienie: „
+9)
+w obszarze strefy R obejmującym przestrzeń powietrzną znajdującą się bezpośrednio nad obszarem parku narodowego za zgodą zarządzającego danym parkiem narodowym i na warunkach przez niego określonych; ” ,
 e)
 pkt 4.2 i 4.3 otrzymują brzmienie:
 4.2.
 Warunków, o których mowa w pkt 4.1 ppkt 3 i 4, nie stosuje się w przypadku wykonywania operacji w zasięgu widoczności wzrokowej VLOS modelami latającymi, których masa startowa nie przekracza 0,6 kg.
 4.3.
-Warunków, o których mowa w pkt 4.1 ppkt 6, 7, 10 i 11, nie stosuje się w przypadku wykonywania operacji w zasięgu widoczności wzrokowej VLOS modelami latającymi, których masa startowa nie przekracza 0,6 kg, w przypadku wykonywania lotów w odległości większej niż 1 km od granicy lotniska lub 500 m od terenu obiektu chronionego przez strefę P do wysokości nie większej niż 30 m lub do wysokości najwyższej przeszkody, w tym drzew lub obiektów budowlanych, znajdującej się w promieniu do 100 m od operatora.
-” ,
+Warunków, o których mowa w pkt 4.1 ppkt 6, 7, 10 i 11, nie stosuje się w przypadku wykonywania operacji w zasięgu widoczności wzrokowej VLOS modelami latającymi, których masa startowa nie przekracza 0,6 kg, w przypadku wykonywania lotów w odległości większej niż 1 km od granicy lotniska lub 500 m od terenu obiektu chronionego przez strefę P do wysokości nie większej niż 30 m lub do wysokości najwyższej przeszkody, w tym drzew lub obiektów budowlanych, znajdującej się w promieniu do 100 m od operatora. ” ,
 f)
 w pkt 4.6:
-– ppkt 3 otrzymuje brzmienie: „ 3) obszarami, obiektami i urządzeniami, o których mowa w art. 5 ust. 2 pkt 1 lit. a i b, pkt 2 lit. a i b oraz pkt 3 lit. a i b ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2018 r. poz. 2142 i 2245); ” ,
-– dodaje się ppkt 4–6 w brzmieniu: „ 4) jednostkami wojskowymi i poligonami; 5) osobami i zgromadzeniami osób na wolnym powietrzu, niebędącymi w dyspozycji lub pod kontrolą operatora; 6) w strefie EP R40 Słupsk. ” ,
+ppkt 3 otrzymuje brzmienie: „
+3)
+obszarami, obiektami i urządzeniami, o których mowa w art. 5 ust. 2 pkt 1 lit. a i b, pkt 2 lit. a i b oraz pkt 3 lit. a i b ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2018 r. poz. 2142 i 2245); ” ,
+dodaje się ppkt 4–6 w brzmieniu: „
+4)
+jednostkami wojskowymi i poligonami;
+5)
+osobami i zgromadzeniami osób na wolnym powietrzu, niebędącymi w dyspozycji lub pod kontrolą operatora;
+6)
+w strefie EP R40 Słupsk. ” ,
 g)
 dodaje się pkt 4.7 w brzmieniu:
 4.7.
-Loty nad rurociągami paliwowymi, liniami energetycznymi i liniami telekomunikacyjnymi, zaporami wodnymi, śluzami oraz innymi urządzeniami znajdującymi się w otwartym terenie, których zniszczenie lub uszkodzenie może stanowić zagrożenie dla życia lub zdrowia ludzi, środowiska albo spowodować poważne straty materialne, wykonuje się z zachowaniem szczególnej ostrożności.
-” ;
+Loty nad rurociągami paliwowymi, liniami energetycznymi i liniami telekomunikacyjnymi, zaporami wodnymi, śluzami oraz innymi urządzeniami znajdującymi się w otwartym terenie, których zniszczenie lub uszkodzenie może stanowić zagrożenie dla życia lub zdrowia ludzi, środowiska albo spowodować poważne straty materialne, wykonuje się z zachowaniem szczególnej ostrożności. ” ;
 6)
 w załączniku nr 6a do rozporządzenia:
 a)
@@ -165,39 +173,77 @@ tytuł załącznika otrzymuje brzmienie: „ Bezzałogowe statki powietrzne o ma
 b)
 pkt 1.1 otrzymuje brzmienie:
 1.1.
-Przepisy załącznika stosuje się do bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS, oraz bezzałogowych statków powietrznych o masie startowej nie większej niż 2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV, używanych w celach innych niż rekreacyjne lub sportowe.
-” ,
+Przepisy załącznika stosuje się do bezzałogowych statków powietrznych o masie startowej nie większej niż 150 kg, używanych wyłącznie w operacjach w zasięgu widoczności wzrokowej VLOS, oraz bezzałogowych statków powietrznych o masie startowej nie większej niż 2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV, używanych w celach innych niż rekreacyjne lub sportowe. ” ,
 c)
 w pkt 2:
-– ppkt 5 otrzymuje brzmienie: „ 5) kamizelka ostrzegawcza – odzież ostrzegawczą o intensywnej barwie w kolorze żółtym, czerwonym, pomarańczowym lub zielonym noszoną na odzieży wierzchniej; ” ,
-– ppkt 14 otrzymuje brzmienie: „ 14) strefa R – (Restricted Area) – strefę ograniczoną; ” ,
-– w ppkt 16 kropkę zastępuje się średnikiem i dodaje się ppkt 17 i 18 w brzmieniu: „ 17) operacje z widokiem z pierwszej osoby FPV (First Person View) – operacje, w których operator pilotuje bezzałogowy statek powietrzny, nie utrzymując z nim bezpośredniego kontaktu wzrokowego, określając jego położenie w przestrzeni powietrznej przez obraz przekazywany w czasie rzeczywistym na ziemię przez urządzenia zamontowane na jego pokładzie; 18) bezpieczna odległość – odległość bezzałogowego statku powietrznego od innych statków powietrznych, przeszkód, osób lub zwierząt, umożliwiającą uniknięcie kolizji, wynikającą z analizy panujących warunków meteorologicznych, otoczenia i przeszkód znajdujących się w obszarze wykonywania lotów oraz rodzaju używanego bezzałogowego statku powietrznego i kwalifikacji operatora. ” ,
+ppkt 5 otrzymuje brzmienie: „
+5)
+kamizelka ostrzegawcza – odzież ostrzegawczą o intensywnej barwie w kolorze żółtym, czerwonym, pomarańczowym lub zielonym noszoną na odzieży wierzchniej; ” ,
+ppkt 14 otrzymuje brzmienie: „
+14)
+strefa R – (Restricted Area) – strefę ograniczoną; ” ,
+w ppkt 16 kropkę zastępuje się średnikiem i dodaje się ppkt 17 i 18 w brzmieniu: „
+17)
+operacje z widokiem z pierwszej osoby FPV (First Person View) – operacje, w których operator pilotuje bezzałogowy statek powietrzny, nie utrzymując z nim bezpośredniego kontaktu wzrokowego, określając jego położenie w przestrzeni powietrznej przez obraz przekazywany w czasie rzeczywistym na ziemię przez urządzenia zamontowane na jego pokładzie;
+18)
+bezpieczna odległość – odległość bezzałogowego statku powietrznego od innych statków powietrznych, przeszkód, osób lub zwierząt, umożliwiającą uniknięcie kolizji, wynikającą z analizy panujących warunków meteorologicznych, otoczenia i przeszkód znajdujących się w obszarze wykonywania lotów oraz rodzaju używanego bezzałogowego statku powietrznego i kwalifikacji operatora. ” ,
 d)
 w pkt 4.1:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Bezzałogowymi statkami powietrznymi wykonuje się operacje w zasięgu widoczności wzrokowej VLOS lub operacje z widokiem z pierwszej osoby FPV z zachowaniem następujących warunków: ” ,
-– ppkt 1 otrzymuje brzmienie: „ 1) w operacjach w zasięgu widoczności wzrokowej VLOS operator lub przynajmniej jeden obserwator utrzymuje kontakt wzrokowy nieuzbrojonym okiem z bezzałogowym statkiem powietrznym w celu określenia jego położenia względem operatora i w przestrzeni powietrznej oraz zapewnienia bezpiecznej odległości od innych statków powietrznych, przeszkód, osób lub zwierząt; ” ,
-– po ppkt 1 dodaje się ppkt 1a i 1b w brzmieniu: „ 1a) w operacjach w zasięgu widoczności wzrokowej VLOS wykonywanych bez obserwatora dopuszcza się utratę kontaktu wzrokowego z bezzałogowym statkiem powietrznym w momencie dokonywania przez operatora kontroli parametrów lotu przekazywanych przez urządzenia będące wyposażeniem naziemnym bezzałogowego statku powietrznego; 1b) w operacjach z widokiem z pierwszej osoby FPV lot jest wykonywany: a) do wysokości nie większej niż 50 m nad poziomem terenu, b) w odległości poziomej nie większej niż 200 m od operatora, c) w odległości poziomej nie mniejszej niż 100 m od zabudowy miejscowości, miast, osiedli lub od zgromadzeń osób na wolnym powietrzu; ” ,
-– ppkt 2 i 3 otrzymują brzmienie: „ 2) zapewniając pełną kontrolę lotu, w szczególności przez zdalne sterowanie przy użyciu fal radiowych; 3) zapewniając w każdej fazie lotu bezpieczną odległość od osób, pojazdów lub innych użytkowników przestrzeni powietrznej niebędących w dyspozycji lub pod kontrolą operatora na wypadek awarii lub utraty kontroli nad bezzałogowym statkiem powietrznym; ” ,
-– ppkt 8 otrzymuje brzmienie: „ 8) w obszarze strefy R obejmującym przestrzeń powietrzną znajdującą się bezpośrednio nad obszarem parku narodowego za zgodą zarządzającego danym parkiem narodowym i na warunkach przez niego określonych; ” ,
-– po ppkt 8 dodaje się ppkt 8a w brzmieniu: „ 8a) w strefie EP R40 Słupsk jedynie przez statki powietrzne, o których mowa w art. VII ust. 3 Porozumienia wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki dotyczącej rozmieszczenia na terytorium Rzeczypospolitej Polskiej systemu obrony przed rakietami balistycznymi w sprawie użytkowania terenów oraz przestrzeni powietrznej wokół Bazy systemu obrony przed rakietami balistycznymi, podpisanego w Warszawie dnia 27 kwietnia 2015 r. (Dz. U. z 2016 r. poz. 234), za zgodą, o której mowa w tym przepisie; ” ,
-– w ppkt 12: – – lit. c otrzymuje brzmienie: „ c) obszarami, obiektami i urządzeniami, o których mowa w art. 5 ust. 2 pkt 1 lit. a i b, pkt 2 lit. a i b oraz pkt 3 lit. a i b ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, ” , – – dodaje się lit. d w brzmieniu: „ d) jednostkami wojskowymi i poligonami ” , – w ppkt 12 w części wspólnej kropkę zastępuje się średnikiem i dodaje się ppkt 13 i 14 w brzmieniu: „ 13) loty nad rurociągami paliwowymi, liniami energetycznymi i liniami telekomunikacyjnymi, zaporami wodnymi i śluzami oraz innymi urządzeniami znajdującymi się w otwartym terenie, których zniszczenie lub uszkodzenie może stanowić zagrożenie dla życia lub zdrowia ludzi, środowiska albo spowodować poważne straty materialne, wykonuje się z zachowaniem szczególnej ostrożności; 14) w przypadku operatora będącego osobą małoletnią loty wykonuje się pod nadzorem osoby dorosłej. ” ,
+ppkt 1 otrzymuje brzmienie: „
+1)
+w operacjach w zasięgu widoczności wzrokowej VLOS operator lub przynajmniej jeden obserwator utrzymuje kontakt wzrokowy nieuzbrojonym okiem z bezzałogowym statkiem powietrznym w celu określenia jego położenia względem operatora i w przestrzeni powietrznej oraz zapewnienia bezpiecznej odległości od innych statków powietrznych, przeszkód, osób lub zwierząt; ” ,
+po ppkt 1 dodaje się ppkt 1a i 1b w brzmieniu: „
+1a)
+w operacjach w zasięgu widoczności wzrokowej VLOS wykonywanych bez obserwatora dopuszcza się utratę kontaktu wzrokowego z bezzałogowym statkiem powietrznym w momencie dokonywania przez operatora kontroli parametrów lotu przekazywanych przez urządzenia będące wyposażeniem naziemnym bezzałogowego statku powietrznego;
+1b)
+w operacjach z widokiem z pierwszej osoby FPV lot jest wykonywany:
+a)
+do wysokości nie większej niż 50 m nad poziomem terenu,
+b)
+w odległości poziomej nie większej niż 200 m od operatora,
+c)
+w odległości poziomej nie mniejszej niż 100 m od zabudowy miejscowości, miast, osiedli lub od zgromadzeń osób na wolnym powietrzu; ” ,
+ppkt 2 i 3 otrzymują brzmienie: „
+2)
+zapewniając pełną kontrolę lotu, w szczególności przez zdalne sterowanie przy użyciu fal radiowych;
+3)
+zapewniając w każdej fazie lotu bezpieczną odległość od osób, pojazdów lub innych użytkowników przestrzeni powietrznej niebędących w dyspozycji lub pod kontrolą operatora na wypadek awarii lub utraty kontroli nad bezzałogowym statkiem powietrznym; ” ,
+ppkt 8 otrzymuje brzmienie: „
+8)
+w obszarze strefy R obejmującym przestrzeń powietrzną znajdującą się bezpośrednio nad obszarem parku narodowego za zgodą zarządzającego danym parkiem narodowym i na warunkach przez niego określonych; ” ,
+po ppkt 8 dodaje się ppkt 8a w brzmieniu: „
+8a)
+w strefie EP R40 Słupsk jedynie przez statki powietrzne, o których mowa w art. VII ust. 3 Porozumienia wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki dotyczącej rozmieszczenia na terytorium Rzeczypospolitej Polskiej systemu obrony przed rakietami balistycznymi w sprawie użytkowania terenów oraz przestrzeni powietrznej wokół Bazy systemu obrony przed rakietami balistycznymi, podpisanego w Warszawie dnia 27 kwietnia 2015 r. (Dz. U. z 2016 r. poz. 234), za zgodą, o której mowa w tym przepisie; ” ,
+w ppkt 12:
+– lit. c otrzymuje brzmienie: „
+c)
+obszarami, obiektami i urządzeniami, o których mowa w art. 5 ust. 2 pkt 1 lit. a i b, pkt 2 lit. a i b oraz pkt 3 lit. a i b ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, ” ,
+– dodaje się lit. d w brzmieniu: „
+d)
+jednostkami wojskowymi i poligonami ” ,
+w ppkt 12 w części wspólnej kropkę zastępuje się średnikiem i dodaje się ppkt 13 i 14 w brzmieniu: „
+13)
+loty nad rurociągami paliwowymi, liniami energetycznymi i liniami telekomunikacyjnymi, zaporami wodnymi i śluzami oraz innymi urządzeniami znajdującymi się w otwartym terenie, których zniszczenie lub uszkodzenie może stanowić zagrożenie dla życia lub zdrowia ludzi, środowiska albo spowodować poważne straty materialne, wykonuje się z zachowaniem szczególnej ostrożności;
+14)
+w przypadku operatora będącego osobą małoletnią loty wykonuje się pod nadzorem osoby dorosłej. ” ,
 e)
 pkt 4.4 otrzymuje brzmienie:
 4.4.
-Warunków, o których mowa w pkt 4.1 ppkt 5, 6, 9 i 10, nie stosuje się w przypadku wykonywania operacji w zasięgu widoczności wzrokowej VLOS bezzałogowymi statkami powietrznymi, których masa startowa nie przekracza 0,6 kg, w przypadku wykonywania lotów w odległości większej niż 1 km od granicy lotniska lub 500 m od terenu obiektu chronionego przez strefę P i do wysokości nie większej niż 30 m lub do wysokości najwyższej przeszkody, w tym drzew lub obiektów budowlanych, znajdującej się w promieniu do 100 m od operatora.
-” ;
+Warunków, o których mowa w pkt 4.1 ppkt 5, 6, 9 i 10, nie stosuje się w przypadku wykonywania operacji w zasięgu widoczności wzrokowej VLOS bezzałogowymi statkami powietrznymi, których masa startowa nie przekracza 0,6 kg, w przypadku wykonywania lotów w odległości większej niż 1 km od granicy lotniska lub 500 m od terenu obiektu chronionego przez strefę P i do wysokości nie większej niż 30 m lub do wysokości najwyższej przeszkody, w tym drzew lub obiektów budowlanych, znajdującej się w promieniu do 100 m od operatora. ” ;
 7)
 po załączniku nr 6a do rozporządzenia dodaje się załącznik nr 6b do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia;
 8)
 w załączniku nr 8 do rozporządzenia użyte w pkt 1.2.1 ppkt 1 i w pkt 1.3.2 w różnym przypadku wyrazy „urządzenie latające” zastępuje się użytymi w odpowiednim przypadku wyrazami „statek powietrzny”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 Załącznik – Bezzałogowe statki powietrzne o masie startowej nie większej niż 25 kg, używane w operacjach poza zasięgiem widoczności wzrokowej BVLOS, z wyłączeniem bezzałogowych statków powietrznych o masie startowej nie większej niż 2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV
+Zastosowanie
 1.1.
 Przepisy załącznika stosuje się do bezzałogowych statków powietrznych o masie startowej nie większej niż 25 kg, używanych w operacjach poza zasięgiem widoczności wzrokowej BVLOS, wykonujących loty poza strefą wydzieloną z ogólnodostępnej dla lotnictwa przestrzeni powietrznej, o której mowa w art. 126 ust. 4 ustawy. Przepisów nie stosuje się do bezzałogowych statków powietrznych o masie startowej nie większej niż 2 kg, używanych w operacjach z widokiem z pierwszej osoby FPV.
 1.2.
 Na uzasadniony wniosek, w szczególności w przypadkach wykonywania lotów operacyjnych, specjalistycznych, automatycznych, szkoleniowych, eksperymentalnych lub doświadczalnych, Prezes Urzędu Lotnictwa Cywilnego może zwolnić zainteresowany podmiot od obowiązku spełnienia niektórych wymagań załącznika, z zachowaniem wymogów bezpieczeństwa.
+Określenia
 2.
 Użyte w załączniku określenia oznaczają:
 1)
@@ -240,6 +286,7 @@ szczególna ostrożność – ostrożność polegającą na zwiększeniu uwagi, 
 środki komunikacji elektronicznej – rozwiązania techniczne, w tym urządzenia teleinformatyczne i współpracujące z nimi narzędzia programowe, umożliwiające indywidualne porozumiewanie się na odległość przy wykorzystaniu transmisji danych między systemami teleinformatycznymi, a w szczególności pocztę elektroniczną;
 20)
 wielowirnikowiec – wiropłat utrzymywany w locie głównie przez reakcję powietrza na więcej niż dwóch wirnikach nośnych.
+Odpowiedzialność
 3.1.
 Operator:
 1)
@@ -270,6 +317,7 @@ przed lotem i po locie dokonuje kontroli stanu technicznego bezzałogowego statk
 wykonuje lot bezzałogowym statkiem powietrznym, który jest sprawny technicznie.
 3.2.
 W przypadku gdy operator mający wykonać lot automatyczny nie znajduje się w miejscu startu, kontrolę stanu technicznego używanego bezzałogowego statku powietrznego zapewnia podmiot, o którym mowa w pkt 7.1.
+Ogólne warunki wykonywania lotów
 4.1.
 Bezzałogowy statek powietrzny wykonuje operacje poza zasięgiem widoczności wzrokowej BVLOS, w przypadku wykonywania lotów:
 1)
@@ -344,10 +392,10 @@ informowaniu instytucji zapewniającej służbę ruchu lotniczego o zamiarze wyk
 2)
 informowaniu operatora przez instytucję zapewniającej służbę ruchu lotniczego o warunkach, na jakich lot ma być wykonywany w strefach, o których mowa w pkt 5.1,
 3)
-publikowaniu przez instytucję zapewniającą służbę ruchu lotniczego informacji o planowanych lub realizowanych lotach bezzałogowych statków powietrznych oraz innych informacji o okolicznościach mogących mieć wpływ na bezpieczeństwo lotów tych statków
-dokonuje się za pośrednictwem systemu teleinformatycznego lub środków komunikacji elektronicznej, określonych przez instytucję zapewniającą służbę ruchu lotniczego.
+publikowaniu przez instytucję zapewniającą służbę ruchu lotniczego informacji o planowanych lub realizowanych lotach bezzałogowych statków powietrznych oraz innych informacji o okolicznościach mogących mieć wpływ na bezpieczeństwo lotów tych statków – dokonuje się za pośrednictwem systemu teleinformatycznego lub środków komunikacji elektronicznej, określonych przez instytucję zapewniającą służbę ruchu lotniczego.
 4.6.
 Przepisów pkt 4.3 i 4.4 nie stosuje się w przypadku bezzałogowych statków powietrznych realizujących loty na potrzeby działań służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399 oraz z 2019 r. poz. 53).
+Szczegółowe warunki wykonywania lotów
 5.1.
 Operacje poza zasięgiem widoczności wzrokowej BVLOS wykonuje się z zachowaniem następujących warunków:
 1)
@@ -395,8 +443,7 @@ obiektami jądrowymi, o których mowa w art. 3 pkt 17 ustawy z dnia 29 listopada
 c)
 obszarami, obiektami i urządzeniami, o których mowa w art. 5 ust. 2 pkt 1 lit. a i b, pkt 2 lit. a i b oraz pkt 3 lit. a i b ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2018 r. poz. 2142 i 2245),
 d)
-jednostkami wojskowymi i poligonami
-za zgodą lub na potrzeby zarządzającego danym terenem, obiektem, obszarem lub urządzeniem;
+jednostkami wojskowymi i poligonami – za zgodą lub na potrzeby zarządzającego danym terenem, obiektem, obszarem lub urządzeniem;
 15)
 loty wykonywane nad rurociągami paliwowymi, liniami energetycznymi i telekomunikacyjnymi, zaporami wodnymi i śluzami oraz innymi urządzeniami znajdującymi się w otwartym terenie, których zniszczenie lub uszkodzenie może stanowić zagrożenie dla życia lub zdrowia ludzi, środowiska albo spowodować poważne straty materialne, wykonuje się z zachowaniem szczególnej ostrożności.
 5.2.
@@ -425,6 +472,7 @@ e)
 przewidywany czas do wyczerpania zapasu paliwa lub wyczerpania akumulatorów zasilających układ napędowy.
 5.5.
 Warunku, o którym mowa w pkt 5.1 ppkt 1, nie stosuje się do lotów operacyjnych, w przypadku gdy nie było możliwości wcześniejszego zaplanowania lotu. Podmiot wykonujący lot operacyjny niezwłocznie zawiadamia instytucję zapewniającą służbę ruchu lotniczego o zamiarze wykonania lotu.
+Wymagania dotyczące bezzałogowych statków powietrznych
 6.1.
 Loty operacyjne, specjalistyczne, automatyczne i szkoleniowe wykonuje się bezzałogowym statkiem powietrznym:
 1)
@@ -464,6 +512,7 @@ rejestrowanie parametrów lotu od momentu uruchomienia systemu sterowania bezza�
 wyposażonym w kamerę pozwalającą na obserwację otoczenia bezzałogowego statku powietrznego w celu zmniejszenia ryzyka kolizji z innym statkiem powietrznym lub przeszkodą.
 6.2.
 Warunku, o którym mowa w pkt 6.1 ppkt 1, nie stosuje się w przypadku bezzałogowych statków powietrznych realizujących loty na potrzeby działań służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
+Warunki eksploatacji bezzałogowych statków powietrznych
 7.1.
 Warunkiem eksploatacji bezzałogowych statków powietrznych w lotach operacyjnych, specjalistycznych, szkoleniowych i automatycznych jest posiadanie i stosowanie przez podmiot realizujący te loty instrukcji operacyjnej sporządzonej w języku polskim lub angielskim:
 1)
@@ -498,6 +547,7 @@ do państwowych bezzałogowych statków powietrznych;
 do bezzałogowych statków powietrznych realizujących loty na potrzeby działań Służby Celno-Skarbowej;
 3)
 w przypadku wykonywania lotów w celu realizacji ustawowych zadań w zakresie ochrony bezpieczeństwa wewnętrznego państwa i jego porządku konstytucyjnego przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
+Uzyskiwanie zgody na wykonywanie lotów operacyjnych, specjalistycznych, szkoleniowych i automatycznych
 8.1.
 Otrzymanie zgody na wykonywanie lotów operacyjnych, specjalistycznych, szkoleniowych i automatycznych następuje na wniosek podmiotu, który zamierza wykonywać tego rodzaju loty, po sprawdzeniu przez Prezesa Urzędu Lotnictwa Cywilnego, czy podmiot spełnia wymagania określone w rozdziale 6 oraz w pkt 7.1.
 8.2.
@@ -513,24 +563,39 @@ instrukcji operacyjnej, o której mowa w pkt 7.1,
 b)
 kopii dokumentów potwierdzających kwalifikacje operatorów,
 c)
-ubezpieczenia odpowiedzialności cywilnej
-w przypadku lotów państwowym bezzałogowym statkiem powietrznym albo lotów w celu realizacji ustawowych zadań w zakresie ochrony bezpieczeństwa wewnętrznego państwa i jego porządku konstytucyjnego przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
+ubezpieczenia odpowiedzialności cywilnej – w przypadku lotów państwowym bezzałogowym statkiem powietrznym albo lotów w celu realizacji ustawowych zadań w zakresie ochrony bezpieczeństwa wewnętrznego państwa i jego porządku konstytucyjnego przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
 8.4.
 Prezes Urzędu Lotnictwa Cywilnego informuje za pomocą środków komunikacji elektronicznej instytucję zapewniającą służbę ruchu lotniczego o podmiotach, które uzyskały zgodę na wykonywanie lotów operacyjnych, specjalistycznych, automatycznych i szkoleniowych. Informacja jest przekazywana w ciągu 2 dni roboczych od dnia wydania zgody przez Prezesa Urzędu Lotnictwa Cywilnego.
 
-#### Rozdział 1 Zastosowanie
+#### Rozdział 1 – Zastosowanie
 
-#### Rozdział 2 Określenia
+#### Rozdział 2 – Określenia
 
-#### Rozdział 3 Odpowiedzialność
+#### Rozdział 3 – Odpowiedzialność
 
-#### Rozdział 4 Ogólne warunki wykonywania lotów
+#### Rozdział 4 – Ogólne warunki wykonywania lotów
 
-#### Rozdział 5 Szczegółowe warunki wykonywania lotów
+#### Rozdział 5 – Szczegółowe warunki wykonywania lotów
 
-#### Rozdział 6 Wymagania dotyczące bezzałogowych statków powietrznych
+#### Rozdział 6 – Wymagania dotyczące bezzałogowych statków powietrznych
 
-#### Rozdział 7 Warunki eksploatacji bezzałogowych statków powietrznych
+#### Rozdział 7 – Warunki eksploatacji bezzałogowych statków powietrznych
 
-#### Rozdział 8 Uzyskiwanie zgody na wykonywanie lotów operacyjnych, specjalistycznych, szkoleniowych i automatycznych
+#### Rozdział 8 – Uzyskiwanie zgody na wykonywanie lotów operacyjnych, specjalistycznych, szkoleniowych i automatycznych
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

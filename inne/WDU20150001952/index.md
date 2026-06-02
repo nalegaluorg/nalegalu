@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-28 |
 | Data wydania | 2015-11-25 |
-| Wejście w życie | 2015-12-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001952) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1952/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 79 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 79 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918 i 1926.) zarządza się, co następuje:
 § 1.
 Ustala się wymagania Dobrej Praktyki Dystrybucyjnej produktów leczniczych weterynaryjnych w zakresie:
 1)
@@ -228,5 +227,5 @@ Powierzenie zastępstwa, o którym mowa w ust. 1, na okres dłuższy niż 14 dni
 3.
 Do zawiadomienia, o którym mowa w ust. 2, należy dołączyć uwierzytelniony odpis dyplomu osoby zastępującej i jej oświadczenie o przyjęciu obowiązków.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 2 ust. 3 pkt 3, który wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 2 ust. 3 pkt 3, który wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 lipca 2002 r. w sprawie procedur Dobrej Praktyki Dystrybucyjnej (Dz. U. Nr 144, poz. 1216), które utraciło moc z dniem wejścia w życie ustawy z dnia 19 grudnia 2014 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. z 2015 r. poz. 28). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918 i 1926. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 lipca 2002 r. w sprawie procedur Dobrej Praktyki Dystrybucyjnej (Dz. U. Nr 144, poz. 1216), które utraciło moc z dniem wejścia w życie ustawy z dnia 19 grudnia 2014 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. z 2015 r. poz. 28).
 

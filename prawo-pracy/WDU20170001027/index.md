@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-11 |
 | Data wydania | 2017-05-29 |
-| Wejście w życie | 2017-06-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001027) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1027/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.)wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777 i 962.)wprowadza się następujące zmiany:
 
 - **1)** w art. 4: w pkt 2 po lit. za dodaje się lit. zaa w brzmieniu: „ zaa) inne niż powiatowe urzędy pracy podmioty wypłacające stypendium w okresie szkolenia, stażu lub przygotowania zawodowego w ramach projektów lub programów finansowanych z udziałem środków funduszy strukturalnych Unii Europejskiej – w stosunku do osób pobierających stypendium w okresie szkolenia, stażu lub przygotowania zawodowego, ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
@@ -72,7 +71,7 @@ source: "eli-html"
 
 4. Składki nienależnie opłacone przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych za okres wskazany w decyzji, o której mowa w ust. 1, Zakład zalicza z urzędu na poczet należności z tytułu składek płatnika składek. Zakład dokonuje zaliczenia ustalonej do zaliczenia kwoty na poczet zaległych lub bieżących składek, a w razie ich braku – na poczet przyszłych składek. Przepisów art. 24 ust. 6a-6f nie stosuje się.
 
-5. Kwotę do zaliczenia na poczet należności z tytułu składek na ubezpieczenia społeczne ustala się dla okresów rozliczeniowych wskazanych w decyzji, o której mowa w ust. 1, dla wszystkich ubezpieczonych płatnika składek, zgłoszonych za dany okres rozliczeniowy przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych według następującego wzoru: kwotado zaliczeniaza dany okresrozliczeniowy = wpłata podmiotu zgłaszającego ubezpieczonych do ubezpieczeń społecznych za dany okres rozliczeniowy X kwota zadeklarowanych składek za ubezpieczonego przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych za dany okres rozliczeniowy łączna suma składek wykazanych w deklaracji rozliczeniowej przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych za dany okres rozliczeniowy
+5. Kwotę do zaliczenia na poczet należności z tytułu składek na ubezpieczenia społeczne ustala się dla okresów rozliczeniowych wskazanych w decyzji, o której mowa w ust. 1, dla wszystkich ubezpieczonych płatnika składek, zgłoszonych za dany okres rozliczeniowy przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych według następującego wzoru: kwota do zaliczenia za dany okres rozliczeniowy = wpłata podmiotu zgłaszającego ubezpieczonych do ubezpieczeń społecznych za dany okres rozliczeniowy X kwota zadeklarowanych składek za ubezpieczonego przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych za dany okres rozliczeniowy łączna suma składek wykazanych w deklaracji rozliczeniowej przez podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych za dany okres rozliczeniowy
 
 6. Kwotę do zaliczenia na poczet należności z tytułu składek na ubezpieczenia społeczne płatnika składek ustala się w zaokrągleniu do pełnych złotych w dół, a grosze pomija się.
 
@@ -100,9 +99,12 @@ source: "eli-html"
 
 2. Zakład ma prawo uzupełniać dane na koncie płatnika składek o numery NIP i REGON oraz numery rachunków składkowych. ” ;
 
-- **10)** w art. 47: w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Należności z tytułu składek na: ” , – w pkt 5 na końcu skreśla się kropkę i dodaje się część wspólną w brzmieniu: „ – opłaca się jedną wpłatą na przydzielony przez Zakład numer rachunku składkowego. ” , w ust. 4a: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Należności z tytułu składek, o których mowa w ust. 4, płatnik składek opłaca przy użyciu: ” , – pkt 1 otrzymuje brzmienie: „ 1) dokumentów płatniczych składanych za pośrednictwem dostawcy usług płatniczych według wzorów określonych przez dostawcę usług płatniczych, ” , – pkt 3 otrzymuje brzmienie: „ 3) dokumentu elektronicznego z programu informatycznego udostępnianego płatnikom składek przez dostawcę usług płatniczych, ” , uchyla się ust. 4d, ust. 5 otrzymuje brzmienie: „
+- **10)** w art. 47: w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Należności z tytułu składek na: ” , w pkt 5 na końcu skreśla się kropkę i dodaje się część wspólną w brzmieniu: „ – opłaca się jedną wpłatą na przydzielony przez Zakład numer rachunku składkowego. ” , w ust. 4a: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Należności z tytułu składek, o których mowa w ust. 4, płatnik składek opłaca przy użyciu: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **1)** dokumentów płatniczych składanych za pośrednictwem dostawcy usług płatniczych według wzorów określonych przez dostawcę usług płatniczych, ” , pkt 3 otrzymuje brzmienie: „
+- **3)** dokumentu elektronicznego z programu informatycznego udostępnianego płatnikom składek przez dostawcę usług płatniczych, ” , uchyla się ust. 4d, ust. 5 otrzymuje brzmienie: „
     - **c)**
     - **d)**
 
@@ -221,6 +223,6 @@ source: "eli-html"
 **Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 1 lit. c, pkt 9 i art. 3, które wchodzą w życie z dniem 1 października 2017 r.;
-- **2)** art. 1 pkt 6, 8, pkt 10 lit. a-f, pkt 11 i art. 6, które wchodzą w życie z dniem 1 stycznia 2018 r.
+- **2)** art. 1 pkt 6, 8, pkt 10 lit. a-f, pkt 11 i art. 6, które wchodzą w życie z dniem 1 stycznia 2018 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777 i 962.
 
 

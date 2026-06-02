@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-03-16 |
 | Data wydania | 2000-04-18 |
-| Wejście w życie | 2000-05-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000290355) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/355/text.pdf) |
 
@@ -72,10 +71,14 @@ source: "eli-html"
 
 - **7)** w art. 20 w ust. 1: – w zdaniu pierwszym wyraz „dziesięć” zastępuje się wyrazem „siedem”, – zdanie drugie otrzymuje brzmienie: „Członkiem zarządu może być wyłącznie osoba fizyczna wybrana spośród właścicieli lokali lub spoza ich grona.”;
 - **8)** w art. 21 w ust. 3 wyrazy „art. 22 ust. 3 pkt 8” zastępuje się wyrazami „art. 22 ust. 2”;
-- **9)** w art. 22: w ust. 2 skreśla się kropkę i dodaje się wyrazy „oraz udzielająca zarządowi pełnomocnictwa do zawierania umów stanowiących czynności przekraczające zakres zwykłego zarządu w formie prawem przewidzianej.”, w ust. 3: – w pkt 1 skreśla się przecinek i dodaje się wyrazy „lub zarządcy nieruchomości wspólnej,” – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) nabycie nieruchomości, ” – pkt 8 otrzymuje brzmienie: „ 8) ustalenie, w wypadkach nieuregulowanych przepisami, części kosztów związanych z eksploatacją urządzeń lub części budynku służących zarówno do użytku poszczególnych właścicieli lokali, jak i do wspólnego użytku właścicieli co najmniej dwóch lokali, które zaliczane będą do kosztów zarządu nieruchomością wspólną, ” – po pkt 8 dodaje się pkt 9 i pkt 10 w brzmieniu: „ 9) udzielenie zgody na podział nieruchomości gruntowej zabudowanej więcej niż jednym budynkiem mieszkalnym i związane z tym zmiany udziałów w nieruchomości wspólnej oraz ustalenie wysokości udziałów w nowo powstałych, odrębnych nieruchomościach wspólnych, 10) określenie zakresu i sposobu prowadzenia przez zarząd lub zarządcę, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, ewidencji pozaksięgowej kosztów zarządu nieruchomością wspólną, zaliczek uiszczanych na pokrycie tych kosztów, a także rozliczeń z innych tytułów na rzecz nieruchomości wspólnej. ” ;
+- **9)** w art. 22: w ust. 2 skreśla się kropkę i dodaje się wyrazy „oraz udzielająca zarządowi pełnomocnictwa do zawierania umów stanowiących czynności przekraczające zakres zwykłego zarządu w formie prawem przewidzianej.”, w ust. 3: – w pkt 1 skreśla się przecinek i dodaje się wyrazy „lub zarządcy nieruchomości wspólnej,” po pkt 6 dodaje się pkt 6a w brzmieniu: „
     - **a)**
     - **b)**
 
+- **6a)** nabycie nieruchomości, ” pkt 8 otrzymuje brzmienie: „
+- **8)** ustalenie, w wypadkach nieuregulowanych przepisami, części kosztów związanych z eksploatacją urządzeń lub części budynku służących zarówno do użytku poszczególnych właścicieli lokali, jak i do wspólnego użytku właścicieli co najmniej dwóch lokali, które zaliczane będą do kosztów zarządu nieruchomością wspólną, ” po pkt 8 dodaje się pkt 9 i pkt 10 w brzmieniu: „
+- **9)** udzielenie zgody na podział nieruchomości gruntowej zabudowanej więcej niż jednym budynkiem mieszkalnym i związane z tym zmiany udziałów w nieruchomości wspólnej oraz ustalenie wysokości udziałów w nowo powstałych, odrębnych nieruchomościach wspólnych,
+- **10)** określenie zakresu i sposobu prowadzenia przez zarząd lub zarządcę, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, ewidencji pozaksięgowej kosztów zarządu nieruchomością wspólną, zaliczek uiszczanych na pokrycie tych kosztów, a także rozliczeń z innych tytułów na rzecz nieruchomości wspólnej. ” ;
 - **10)** w art. 23 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 2a. Jeżeli suma udziałów w nieruchomości wspólnej nie jest równa 1 albo większość udziałów należy do jednego właściciela bądź gdy obydwa te warunki spełnione są łącznie, głosowanie według zasady, że na każdego właściciela przypada jeden głos, wprowadza się na każde żądanie właścicieli lokali posiadających łącznie co najmniej 1/5 udziałów w nieruchomości wspólnej. ” ;

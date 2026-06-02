@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 października 2019 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej oraz ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-16 |
 | Data wydania | 2019-11-08 |
-| Wejście w życie | 2019-11-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2166/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.) wprowadza się następujące zmiany:
+Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 27 maja 2019 r. pod numerem 2019/257/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Administracyjne kary pieniężne za naruszenie zakazu wprowadzania do obrotu kotłów na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW niespełniających wymagań
+
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815 i 2087.) wprowadza się następujące zmiany:
 
 - **1)** po art. 168a dodaje się art. 168b w brzmieniu: „
 
@@ -52,11 +54,11 @@ source: "eli-html"
 
 **Art. 172a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
-- **1)** kotle na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW – rozumie się przez to kocioł na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW, w tym kocioł wchodzący w skład zestawów zawierających kocioł na paliwo stałe, ogrzewacze dodatkowe, regulatory temperatury i urządzenia słoneczne, o którym mowa w art. 1 ust. 2 lit. a i d rozporządzenia Komisji (UE) 2015/1189 z dnia 28 kwietnia 2015 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE w odniesieniu do wymogów dotyczących ekoprojektu dla kotłów na paliwo stałe (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 193 z 21.07.2015, str. 100, z późn. zm.) , z wyłączeniem kotła o znamionowej mocy cieplnej większej niż 100 kW z ręcznym zasilaniem balotami słomy;
+- **1)** kotle na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW – rozumie się przez to kocioł na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW, w tym kocioł wchodzący w skład zestawów zawierających kocioł na paliwo stałe, ogrzewacze dodatkowe, regulatory temperatury i urządzenia słoneczne, o którym mowa w art. 1 ust. 2 lit. a i d rozporządzenia Komisji (UE) 2015/1189 z dnia 28 kwietnia 2015 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE w odniesieniu do wymogów dotyczących ekoprojektu dla kotłów na paliwo stałe (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 193 z 21.07.2015, str. 100, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 346 z 20.12.2016, str. 51., z wyłączeniem kotła o znamionowej mocy cieplnej większej niż 100 kW z ręcznym zasilaniem balotami słomy;
 - **2)** wprowadzeniu do obrotu kotła na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW – rozumie się przez to każde rozporządzenie kotłem na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW na terytorium Rzeczypospolitej Polskiej przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej, w tym najem oraz sprzedaż za pomocą środków porozumiewania się na odległość, w ramach prowadzonej działalności gospodarczej lub realizowane w innej formie niż w ramach prowadzonej działalności gospodarczej. ” ;
 - **4)** w tytule V dodaje się dział VI w brzmieniu: „
 
-### Dział VI Administracyjne kary pieniężne za naruszenie zakazu wprowadzania do obrotu kotłów na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW niespełniających wymagań
+### Dział VI
 
 **Art. 321k.**
 
@@ -76,15 +78,15 @@ source: "eli-html"
 
 3. Przepisu ust. 1 nie stosuje się do osoby fizycznej będącej przedsiębiorcą, która dokonuje wprowadzenia do obrotu kotła na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW w rozumieniu art. 172a pkt 2, który nie odpowiada wymaganiom określonym w przepisach wydanych na podstawie art. 169 ust. 1. ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.) w art. 21 w ust. 1 pkt 129a otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978 i 2020.) w art. 21 w ust. 1 pkt 129a otrzymuje brzmienie: „
 
-- **129a)** świadczenia, w szczególności dotacje oraz kwoty umorzonych pożyczek, otrzymane ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej lub wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, na przygotowanie dokumentacji oraz realizację przedsięwzięcia, w tym otrzymane ze środków udostępnionych bankom zgodnie z art. 411 ust. 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.); ” .
+- **129a)** świadczenia, w szczególności dotacje oraz kwoty umorzonych pożyczek, otrzymane ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej lub wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, na przygotowanie dokumentacji oraz realizację przedsięwzięcia, w tym otrzymane ze środków udostępnionych bankom zgodnie z art. 411 ust. 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815, 2087 i 2166.); ” .
 
 **Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, 1309, 1524, 1696, 1712 i 1815) w art. 33 w ust. 2 dodaje się pkt 10 w brzmieniu: „
 
-- **10)** oświadczenie projektanta dotyczące możliwości podłączenia projektowanego obiektu budowlanego do istniejącej sieci ciepłowniczej, zgodnie z warunkami określonymi w art. 7b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.), złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2019 r. poz. 1950 i 2128); składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy(-ma) odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. ” .
+- **10)** oświadczenie projektanta dotyczące możliwości podłączenia projektowanego obiektu budowlanego do istniejącej sieci ciepłowniczej, zgodnie z warunkami określonymi w art. 7b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556.), złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2019 r. poz. 1950 i 2128); składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy(-ma) odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. ” .
 
-**Art. 4.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.) w art. 7b:
+**Art. 4.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556.) w art. 7b:
 
 - **1)** ust. 1–3 otrzymują brzmienie: „
 
@@ -104,7 +106,7 @@ source: "eli-html"
 
 **Art. 5.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2019 r. poz. 1668) w art. 3 w ust. 1 po pkt 2d dodaje się pkt 2da w brzmieniu: „ 2da) przeprowadzanie kontroli, o której mowa w art. 168b ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska; ” .
 
-**Art. 6.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.) w art. 41 ust. 12a otrzymuje brzmienie: „ 12a. Przez budownictwo objęte społecznym programem mieszkaniowym rozumie się obiekty budownictwa mieszkaniowego lub ich części, z wyłączeniem lokali użytkowych, lokale mieszkalne w budynkach niemieszkalnych sklasyfikowanych w Polskiej Klasyfikacji Obiektów Budowlanych w dziale 12, oraz obiekty sklasyfikowane w Polskiej Klasyfikacji Obiektów Budowlanych w klasie ex 1264 – wyłącznie budynki instytucji ochrony zdrowia świadczących usługi zakwaterowania z opieką lekarską i pielęgniarską, zwłaszcza dla ludzi starszych i niepełnosprawnych, a także mikroinstalację, o której mowa w art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2018 r. poz. 2389, z późn. zm.), funkcjonalnie z nimi związaną, z zastrzeżeniem ust. 12b. ” .
+**Art. 6.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520, 1751 i 1818.) w art. 41 ust. 12a otrzymuje brzmienie: „ 12a. Przez budownictwo objęte społecznym programem mieszkaniowym rozumie się obiekty budownictwa mieszkaniowego lub ich części, z wyłączeniem lokali użytkowych, lokale mieszkalne w budynkach niemieszkalnych sklasyfikowanych w Polskiej Klasyfikacji Obiektów Budowlanych w dziale 12, oraz obiekty sklasyfikowane w Polskiej Klasyfikacji Obiektów Budowlanych w klasie ex 1264 – wyłącznie budynki instytucji ochrony zdrowia świadczących usługi zakwaterowania z opieką lekarską i pielęgniarską, zwłaszcza dla ludzi starszych i niepełnosprawnych, a także mikroinstalację, o której mowa w art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2018 r. poz. 2389, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 42, 60, 730, 1495, 1524 i 2020.), funkcjonalnie z nimi związaną, z zastrzeżeniem ust. 12b. ” .
 
 **Art. 7.** Do dnia 31 grudnia 2019 r. przez kocioł na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW rozumie się kocioł na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW, w tym kocioł wchodzący w skład zestawów zawierających kocioł na paliwo stałe, ogrzewacze dodatkowe, regulatory temperatury i urządzenia słoneczne, z wyłączeniem kotła:
 
@@ -137,5 +139,5 @@ source: "eli-html"
 
 3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, Prezes Urzędu Ochrony Konkurencji i Konsumentów obniża wielkość środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków.
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 w zakresie art. 172a pkt 1 oraz art. 3 i art. 4, które wchodzą w życie z dniem 1 stycznia 2020 r.
+**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 w zakresie art. 172a pkt 1 oraz art. 3 i art. 4, które wchodzą w życie z dniem 1 stycznia 2020 r. 1) Niniejszą ustawą zmienia się: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej oraz ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług. 2) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 27 maja 2019 r. pod numerem 2019/257/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815 i 2087. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 346 z 20.12.2016, str. 51. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978 i 2020. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815, 2087 i 2166. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524 i 1556. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520, 1751 i 1818. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 42, 60, 730, 1495, 1524 i 2020.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
+# Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego w Warszawie z budżetu państwa, ustawę z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa, ustawę z dnia 5 kwietnia 2006 r. o finansowaniu Wyższej Szkoły Filozoficzno-Pedagogicznej „Ignatianum” w Krakowie z budżetu państwa, ustawę z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej oraz ustawę z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-13 |
 | Data wydania | 2023-01-31 |
-| Wejście w życie | 2023-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000212) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/212/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.) wprowadza się następujące zmiany:
+Szczególne zasady nadawania uprawnień do nadawania stopnia doktora i doktora habilitowanego
+
+**Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459, 2185 i 2306.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 dodaje się ust. 4 i 5 w brzmieniu: „
 
@@ -97,7 +98,7 @@ source: "eli-html"
 
 - **15)** w art. 88 ust. 4 i 5 otrzymują brzmienie: „
 
-4. Rektor, komisja stypendialna albo odwoławcza komisja stypendialna odmawia przyznania stypendium socjalnego studentowi, którego miesięczny dochód na osobę w rodzinie nie przekracza kwoty określonej w art. 8 ust. 1 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.), jeżeli do wniosku o przyznanie stypendium socjalnego nie dołączy wydanego przez ośrodek pomocy społecznej albo przez centrum usług społecznych zaświadczenia o korzystaniu w roku złożenia tego wniosku ze świadczeń z pomocy społecznej przez niego lub przez członków jego rodziny.
+4. Rektor, komisja stypendialna albo odwoławcza komisja stypendialna odmawia przyznania stypendium socjalnego studentowi, którego miesięczny dochód na osobę w rodzinie nie przekracza kwoty określonej w art. 8 ust. 1 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270, z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754 oraz z 2023 r. poz. 185.), jeżeli do wniosku o przyznanie stypendium socjalnego nie dołączy wydanego przez ośrodek pomocy społecznej albo przez centrum usług społecznych zaświadczenia o korzystaniu w roku złożenia tego wniosku ze świadczeń z pomocy społecznej przez niego lub przez członków jego rodziny.
 
 5. W przypadku gdy student, o którym mowa w ust. 4, lub członkowie jego rodziny nie korzystają ze świadczeń z pomocy społecznej, rektor, komisja stypendialna albo odwoławcza komisja stypendialna może przyznać temu studentowi stypendium socjalne, jeżeli udokumentował źródła utrzymania rodziny. ” ;
 
@@ -133,7 +134,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **3)** pobierania: zasiłku chorobowego nieprzerwanie przez okres co najmniej 3 miesięcy, świadczenia rehabilitacyjnego w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej termin dokonania oceny okresowej ulega przedłużeniu o czas tej nieobecności. ” ;
+- **3)** pobierania: zasiłku chorobowego nieprzerwanie przez okres co najmniej 3 miesięcy, świadczenia rehabilitacyjnego w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej – termin dokonania oceny okresowej ulega przedłużeniu o czas tej nieobecności. ” ;
     - **a)**
     - **b)**
 
@@ -183,7 +184,7 @@ source: "eli-html"
 1. Uprawnienie do nadawania stopnia doktora posiadają uczelnia, instytut PAN, instytut badawczy albo instytut międzynarodowy, które w danej dyscyplinie posiadają:
 
 - **1)** kategorię naukową A+, A albo B+ albo
-- **2)** uprawnienie nadane w trybie określonym w art. 226a ust. 1 zwane dalej „podmiotem doktoryzującym”. ” , w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Stopień doktora może być nadany również wspólnie przez podmioty doktoryzujące w dyscyplinie, w której każdy z nich posiada kategorię naukową A+, A albo B+ lub uprawnienie nadane w trybie określonym w art. 226a ust. 1, w tym z udziałem podmiotów zagranicznych posiadających uprawnienia do nadawania stopnia doktora w zakresie dyscypliny, w której stopień ten jest nadawany. ” , ust. 3 otrzymuje brzmienie: „
+- **2)** uprawnienie nadane w trybie określonym w art. 226a ust. 1 – zwane dalej „podmiotem doktoryzującym”. ” , w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Stopień doktora może być nadany również wspólnie przez podmioty doktoryzujące w dyscyplinie, w której każdy z nich posiada kategorię naukową A+, A albo B+ lub uprawnienie nadane w trybie określonym w art. 226a ust. 1, w tym z udziałem podmiotów zagranicznych posiadających uprawnienia do nadawania stopnia doktora w zakresie dyscypliny, w której stopień ten jest nadawany. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -223,7 +224,7 @@ source: "eli-html"
 
 - **1)** kategorię naukową A+, A albo B+ w co najmniej 2 dyscyplinach albo
 - **2)** kategorię naukową A+, A albo B+ w co najmniej 1 dyscyplinie i uprawnienie nadane w trybie określonym w art. 226a ust. 1 w co najmniej 1 dyscyplinie, albo
-- **3)** uprawnienie nadane w trybie określonym w art. 226a ust. 1 w co najmniej 2 dyscyplinach zwane dalej „podmiotem prowadzącym szkołę doktorską”.
+- **3)** uprawnienie nadane w trybie określonym w art. 226a ust. 1 w co najmniej 2 dyscyplinach – zwane dalej „podmiotem prowadzącym szkołę doktorską”.
 
 4. Szkoła doktorska może być prowadzona przez uczelnię akademicką, która prowadzi działalność naukową wyłącznie w 1 dyscyplinie, która jest dyscypliną w zakresie teologii albo kultury fizycznej, albo dyscypliną artystyczną, i posiada w niej kategorię naukową A+, A albo B+ albo uprawnienie nadane w trybie określonym w art. 226a ust. 1. ” , w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Szkoła doktorska może być prowadzona wspólnie przez uczelnie akademickie, instytuty PAN, instytuty badawcze lub instytuty międzynarodowe, z których każde posiada kategorię naukową A+, A albo B+ albo uprawnienie nadane w trybie określonym w art. 226a ust. 1 w co najmniej 1 dyscyplinie. ” ;
 
@@ -267,7 +268,7 @@ source: "eli-html"
 **Art. 218.** Uprawnienie do nadawania stopnia doktora habilitowanego posiadają uczelnia, instytut PAN, instytut badawczy albo instytut międzynarodowy, które w danej dyscyplinie posiadają:
 
 - **1)** kategorię naukową A+, A albo B+ albo
-- **2)** uprawnienie nadane w trybie określonym w art. 226a ust. 1 zwane dalej „podmiotem habilitującym”. ” ;
+- **2)** uprawnienie nadane w trybie określonym w art. 226a ust. 1 – zwane dalej „podmiotem habilitującym”. ” ;
 - **44)** w art. 220 ust. 1 otrzymuje brzmienie: „
 
 1. Postępowanie w sprawie nadania stopnia doktora habilitowanego wszczyna się na wniosek osoby ubiegającej się o stopień doktora habilitowanego, składany do podmiotu habilitującego za pośrednictwem RDN. ” ;
@@ -306,7 +307,7 @@ source: "eli-html"
 
 - **48)** w dziale V po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Szczególne zasady nadawania uprawnień do nadawania stopnia doktora i doktora habilitowanego
+#### Rozdział 3a
 
 **Art. 226a.**
 
@@ -342,13 +343,13 @@ source: "eli-html"
 **Art. 228a.** Postępowania w sprawie nadania tytułu profesora w:
 
 - **1)** dyscyplinie, która została włączona do innej dyscypliny albo do innych dyscyplin,
-- **2)** dziedzinie, która została włączona do innej dziedziny albo do innych dziedzin wszczęte przed dniem wprowadzenia tej zmiany do klasyfikacji dziedzin i dyscyplin prowadzi się w dyscyplinie albo w dziedzinie, która została włączona, na zasadach dotychczasowych do dnia zakończenia tych postępowań. ” ;
+- **2)** dziedzinie, która została włączona do innej dziedziny albo do innych dziedzin – wszczęte przed dniem wprowadzenia tej zmiany do klasyfikacji dziedzin i dyscyplin prowadzi się w dyscyplinie albo w dziedzinie, która została włączona, na zasadach dotychczasowych do dnia zakończenia tych postępowań. ” ;
 - **51)** w art. 231 ust. 1 otrzymuje brzmienie: „
 
 1. Prawomocne orzeczenie sądu stwierdzające fakt:
 
 - **1)** złożenia niezgodnego z prawdą oświadczenia lustracyjnego lub
-- **2)** naruszenia praw autorskich przez osobę, o której mowa w art. 227 ust. 1 albo 2, której nadano tytuł profesora, skutkuje utratą tego tytułu. ” ;
+- **2)** naruszenia praw autorskich – przez osobę, o której mowa w art. 227 ust. 1 albo 2, której nadano tytuł profesora, skutkuje utratą tego tytułu. ” ;
 - **52)** w art. 232 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 2a. RDN jest organem wyższego stopnia w rozumieniu przepisów Kpa w stosunku do podmiotów doktoryzujących i podmiotów habilitujących w sprawach nadawania stopni naukowych i stopni w zakresie sztuki. ” ;
@@ -360,7 +361,7 @@ source: "eli-html"
 4a. W przypadku zmiany w klasyfikacji dziedzin i dyscyplin polegającej na:
 
 - **1)** wyodrębnieniu nowej dyscypliny,
-- **2)** włączeniu dyscypliny do innej dyscypliny albo do innych dyscyplin RDN działa w dotychczasowym składzie do końca kadencji, w trakcie której wyodrębnienie albo włączenie nastąpiło. ” , w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Kandydata na członka RDN reprezentującego daną dyscyplinę może zgłosić uczelnia, instytut PAN, instytut badawczy lub instytut międzynarodowy, które w tej dyscyplinie posiadają kategorię naukową A+, A albo B+ albo uprawnienie nadane w trybie określonym w art. 226a ust. 1. ” ;
+- **2)** włączeniu dyscypliny do innej dyscypliny albo do innych dyscyplin – RDN działa w dotychczasowym składzie do końca kadencji, w trakcie której wyodrębnienie albo włączenie nastąpiło. ” , w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Kandydata na członka RDN reprezentującego daną dyscyplinę może zgłosić uczelnia, instytut PAN, instytut badawczy lub instytut międzynarodowy, które w tej dyscyplinie posiadają kategorię naukową A+, A albo B+ albo uprawnienie nadane w trybie określonym w art. 226a ust. 1. ” ;
     - **c)**
 
 - **54)** w art. 235: w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
@@ -408,7 +409,7 @@ source: "eli-html"
 5a. W przypadku zmiany w klasyfikacji dziedzin i dyscyplin polegającej na:
 
 - **1)** wyodrębnieniu nowej dziedziny,
-- **2)** włączeniu dziedziny do innej dziedziny albo do innych dziedzin KEN działa w dotychczasowym składzie do końca kadencji, w trakcie której wyodrębnienie albo włączenie nastąpiło. ” ;
+- **2)** włączeniu dziedziny do innej dziedziny albo do innych dziedzin – KEN działa w dotychczasowym składzie do końca kadencji, w trakcie której wyodrębnienie albo włączenie nastąpiło. ” ;
 - **59)** w art. 323 ust. 3 otrzymuje brzmienie: „
 
 3. Minister może upoważnić dyrektora NAWA do wydawania decyzji:
@@ -419,12 +420,12 @@ source: "eli-html"
 - **60)** w art. 324: w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
 
-- **1a)** cudzoziemca – obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.), oraz członków jego rodziny, mieszkających na terytorium Rzeczypospolitej Polskiej; ” , ust. 3 i 4 otrzymują brzmienie: „
+- **1a)** cudzoziemca – obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str. 84 oraz Dz. Urz. UE L 131 z 05.05.2022, str. 9.), oraz członków jego rodziny, mieszkających na terytorium Rzeczypospolitej Polskiej; ” , ust. 3 i 4 otrzymują brzmienie: „
     - **b)**
 
 3. O stypendium socjalne, o którym mowa w art. 86 ust. 1 pkt 1, i o kredyt studencki, o którym mowa w art. 98 ust. 1, może ubiegać się cudzoziemiec, o którym mowa w ust. 2:
 
-- **1)** pkt 1 i 1a: będący osobą pracującą na własny rachunek lub pracownikiem, o których mowa w art. 2 pkt 5 i 7 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697), który zachowuje prawo pobytu w przypadkach, o których mowa w art. 17 ustawy, o której mowa w lit. a, posiadający prawo stałego pobytu oraz członkowie jego rodziny, mieszkający na terytorium Rzeczypospolitej Polskiej;
+- **1)** pkt 1 i 1a: będący osobą pracującą na własny rachunek lub pracownikiem, o których mowa w art. 2 pkt 5 i 7 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697), który zachowuje prawo pobytu w przypadkach, o których mowa w art. 17 ustawy, o której mowa w lit. a, posiadający prawo stałego pobytu – oraz członkowie jego rodziny, mieszkający na terytorium Rzeczypospolitej Polskiej;
     - **a)**
     - **b)**
     - **c)**
@@ -456,7 +457,7 @@ source: "eli-html"
 
 7a. W przypadku:
 
-- **1)** zmiany w klasyfikacji dziedzin i dyscyplin polegającej na zmianie: nazwy dyscypliny, przyporządkowania dyscypliny do dziedziny osoba prowadząca działalność naukową i osoba biorąca udział w prowadzeniu działalności naukowej składa oświadczenie, o którym mowa w ust. 7, w terminie 30 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 5 ust. 3, na mocy których zmiany te nastąpiły;
+- **1)** zmiany w klasyfikacji dziedzin i dyscyplin polegającej na zmianie: nazwy dyscypliny, przyporządkowania dyscypliny do dziedziny – osoba prowadząca działalność naukową i osoba biorąca udział w prowadzeniu działalności naukowej składa oświadczenie, o którym mowa w ust. 7, w terminie 30 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 5 ust. 3, na mocy których zmiany te nastąpiły;
     - **a)**
     - **b)**
 
@@ -509,7 +510,7 @@ source: "eli-html"
 1. Wnioski, opinie, umowy i raporty dotyczące:
 
 - **1)** zadań finansowanych ze środków finansowych, o których mowa w art. 365 pkt 4 lit. b, pkt 5, 7 i 10–12,
-- **2)** Mapy stanowią tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji. ” ;
+- **2)** Mapy – stanowią tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji. ” ;
 - **70)** w art. 430 w ust. 1 pkt 2 otrzymuje brzmienie: „
 - **2)** uczelnia nie posiada żadnego pozwolenia na utworzenie studiów; ” ;
 - **71)** w art. 438 w ust. 4 zdanie trzecie otrzymuje brzmienie: „ Przepisy art. 116 ust. 2–3 i art. 451 ust. 2 stosuje się. ” ;
@@ -535,7 +536,7 @@ source: "eli-html"
 
 - **2)** w art. 29 w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dyrektor, w terminie do dnia 31 marca, przedstawia ministrowi właściwemu do spraw szkolnictwa wyższego i nauki następujące dokumenty dotyczące poprzedniego roku obrotowego: ” .
 
-**Art. 6.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm.) w art. 179 ust. 7 otrzymuje brzmienie: „ 7. W przypadku osób, które rozpoczęły studia doktoranckie przed rokiem akademickim 2019/2020 i ubiegają się o nadanie stopnia doktora na zasadach określonych w ustawie, o której mowa w art. 1, postępowanie w sprawie nadania stopnia doktora wszczyna złożenie wniosku o wyznaczenie promotora lub promotorów albo promotora i promotora pomocniczego. ” .
+**Art. 6.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086, z 2021 r. poz. 1630 i 2232 oraz z 2022 r. poz. 1010, 1117 i 2306.) w art. 179 ust. 7 otrzymuje brzmienie: „ 7. W przypadku osób, które rozpoczęły studia doktoranckie przed rokiem akademickim 2019/2020 i ubiegają się o nadanie stopnia doktora na zasadach określonych w ustawie, o której mowa w art. 1, postępowanie w sprawie nadania stopnia doktora wszczyna złożenie wniosku o wyznaczenie promotora lub promotorów albo promotora i promotora pomocniczego. ” .
 
 **Art. 7.** Rada Doskonałości Naukowej podejmuje i ogłasza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej pierwszą uchwałę, o której mowa w art. 5 ust. 5 ustawy, o której mowa w art. 1, w terminie 30 dni od dnia wejścia w życie art. 1 pkt 1.
 
@@ -554,6 +555,6 @@ source: "eli-html"
 - **1)** art. 1 pkt 1, pkt 9 lit. a, pkt 20, 21, 26, 33, 34, 37, 43, 48, 50, 53, pkt 55 lit. c, pkt 57, 58, 63, 64 i 68 oraz art. 7, art. 11 i art. 12, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 1 pkt 49 lit. a, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia;
 - **3)** art. 1 pkt 23, 24 i 65, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
-- **4)** art. 1 pkt 7, 14, 15, 28, 31, pkt 45 lit. a i lit. b w zakresie dodawanego ust. 9b, pkt 46, 47, pkt 49 lit. c, pkt 54, pkt 55 lit. b, pkt 56 i 60 oraz art. 10, które wchodzą w życie z dniem 1 października 2023 r.
+- **4)** art. 1 pkt 7, 14, 15, 28, 31, pkt 45 lit. a i lit. b w zakresie dodawanego ust. 9b, pkt 46, 47, pkt 49 lit. c, pkt 54, pkt 55 lit. b, pkt 56 i 60 oraz art. 10, które wchodzą w życie z dniem 1 października 2023 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego w Warszawie z budżetu państwa, ustawę z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa, ustawę z dnia 5 kwietnia 2006 r. o finansowaniu Wyższej Szkoły Filozoficzno-Pedagogicznej „Ignatianum” w Krakowie z budżetu państwa, ustawę z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej oraz ustawę z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459, 2185 i 2306. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270, z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754 oraz z 2023 r. poz. 185. 4) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str. 84 oraz Dz. Urz. UE L 131 z 05.05.2022, str. 9. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086, z 2021 r. poz. 1630 i 2232 oraz z 2022 r. poz. 1010, 1117 i 2306.
 
 

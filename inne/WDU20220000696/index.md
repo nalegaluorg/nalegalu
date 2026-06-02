@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 25 marca 2022 r. zmieniające rozporządzenie w sprawie ustalenia listy gatunków zwierząt łownych
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 25 marca 2022 r. zmieniające rozporządzenie w sprawie ustalenia listy gatunków zwierząt łownych Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-25 |
 | Data wydania | 2022-03-29 |
-| Wejście w życie | 2022-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/696/text.pdf) |
 
@@ -41,6 +40,5 @@ w ust. 2 wyrazy „lit. a-e” zastępuje się wyrazami „lit. a, b, d oraz lit
 3)
 w ust. 3 wyrazy „lit. a-h” zastępuje się wyrazami „lit. a, c-g”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 

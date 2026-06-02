@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 30 lipca 2024 r. w sprawie szczegółowych danych i informacji gromadzonych w centralnej ewidencji emisyjności budynków
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 30 lipca 2024 r. w sprawie szczegółowych danych i informacji gromadzonych w centralnej ewidencji emisyjności budynków Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-30 |
 | Data wydania | 2024-08-07 |
-| Wejście w życie | 2024-08-08 |
 | Ostatnia zmiana | 2024-08-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1204/text.pdf) |
 
@@ -225,6 +224,5 @@ Osoby uprawnione, o których mowa w art. 27b ust. 1 pkt 1–4 i 9 ustawy, wprowa
 § 4.
 Dane, o których mowa w § 2 ust. 1 pkt 2 lit. b i c oraz ust. 2 pkt 2–5, są pozyskiwane automatycznie przez system teleinformatyczny obsługujący ewidencję. W przypadku braku możliwości pozyskania automatycznie tych danych, dane te są wprowadzane przez osoby uprawnione, o których mowa w art. 27b ust. 1 pkt 1–4 i 9 ustawy.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 

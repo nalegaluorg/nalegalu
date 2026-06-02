@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 1 grudnia 2016 r. o zmianie niektórych ustaw w zakresie bezpieczeństwa i higieny służby
+# Ustawa z dnia 1 grudnia 2016 r. o zmianie niektórych ustaw w zakresie bezpieczeństwa i higieny służby Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego oraz ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-01 |
 | Data wydania | 2016-12-02 |
-| Wejście w życie | 2016-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001955) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1955/text.pdf) |
 
@@ -72,12 +71,12 @@ source: "eli-html"
 9. Skierowanie na badanie:
 
 - **1)** kontrolne – wystawia się najpóźniej w dniu zgłoszenia się policjanta do służby,
-- **2)** okresowe – wystawia się nie później niż w terminie 30 dni przed upływem ważności orzeczenia lekarskiego w 3 egzemplarzach, z których jeden przeznaczony jest dla policjanta kierowanego na badanie.
+- **2)** okresowe – wystawia się nie później niż w terminie 30 dni przed upływem ważności orzeczenia lekarskiego – w 3 egzemplarzach, z których jeden przeznaczony jest dla policjanta kierowanego na badanie.
 
 10. Badania okresowe i kontrolne kończą się orzeczeniem lekarskim stwierdzającym:
 
 - **1)** brak przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym,
-- **2)** istnienie przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym w warunkach służby opisanych w skierowaniu na badanie.
+- **2)** istnienie przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym – w warunkach służby opisanych w skierowaniu na badanie.
 
 11. Od orzeczenia lekarskiego policjantowi i przełożonym, o których mowa w art. 71a ust. 1, przysługuje odwołanie w terminie 7 dni od dnia otrzymania orzeczenia.
 
@@ -159,12 +158,12 @@ source: "eli-html"
 7. Skierowanie na badanie:
 
 - **1)** kontrolne – wystawia się najpóźniej w dniu zgłoszenia się funkcjonariusza do służby,
-- **2)** okresowe – wystawia się nie później niż w terminie 30 dni przed upływem ważności orzeczenia lekarskiego w 3 egzemplarzach, z których jeden przeznaczony jest dla funkcjonariusza kierowanego na badanie.
+- **2)** okresowe – wystawia się nie później niż w terminie 30 dni przed upływem ważności orzeczenia lekarskiego – w 3 egzemplarzach, z których jeden przeznaczony jest dla funkcjonariusza kierowanego na badanie.
 
 8. Badania okresowe i kontrolne kończą się orzeczeniem lekarskim stwierdzającym:
 
 - **1)** brak przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym,
-- **2)** istnienie przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym w warunkach służby opisanych w skierowaniu na badanie.
+- **2)** istnienie przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym – w warunkach służby opisanych w skierowaniu na badanie.
 
 9. Od orzeczenia lekarskiego funkcjonariuszowi i przełożonym, o których mowa w art. 75a ust. 1, przysługuje odwołanie w terminie 7 dni od dnia otrzymania orzeczenia.
 
@@ -288,5 +287,5 @@ source: "eli-html"
 
 2. Umowy na świadczenia z zakresu profilaktycznej opieki medycznej na wykonywanie badań okresowych lub kontrolnych wykonywanych w Policji, zawarte przed dniem wejścia w życie niniejszej ustawy, zostaną dostosowane do wymagań określonych w art. 71b ustawy zmienianej w art. 1 do dnia 31 grudnia 2017 r.
 
-**Art. 9.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego oraz ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego.
 

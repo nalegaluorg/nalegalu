@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-22 |
 | Data wydania | 2016-08-05 |
-| Wejście w życie | 2016-08-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001176) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1176/text.pdf) |
 
@@ -48,11 +47,14 @@ source: "eli-html"
 1. Organem jednostki doradztwa rolniczego jest dyrektor powoływany i odwoływany przez ministra właściwego do spraw rozwoju wsi. ” , uchyla się ust. 6;
 
 - **b)**
-- **4)** w art. 6a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Stanowisko dyrektora jednostki doradztwa rolniczego może zajmować osoba, która: ” , – pkt 1 otrzymuje brzmienie: „ 1) posiada wykształcenie wyższe; ” , – pkt 7 otrzymuje brzmienie: „ 7) posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości jednostki doradztwa rolniczego. ” , ust. 11 otrzymuje brzmienie: „
+- **4)** w art. 6a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Stanowisko dyrektora jednostki doradztwa rolniczego może zajmować osoba, która: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** posiada wykształcenie wyższe; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości jednostki doradztwa rolniczego. ” , ust. 11 otrzymuje brzmienie: „
     - **b)**
 
-11. Powołanie na stanowisko, o którym mowa w art. 6 ust. 1, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.). ” ;
+11. Powołanie na stanowisko, o którym mowa w art. 6 ust. 1, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.). ” ;
 
 - **5)** w art. 7 ust. 1 otrzymuje brzmienie: „
 
@@ -93,7 +95,7 @@ source: "eli-html"
 
 **Art. 3.**
 
-1. Stosunki pracy z osobami zajmującymi w dniu wejścia w życie niniejszej ustawy stanowiska dyrektorów wojewódzkich ośrodków doradztwa rolniczego stają się stosunkami pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.).
+1. Stosunki pracy z osobami zajmującymi w dniu wejścia w życie niniejszej ustawy stanowiska dyrektorów wojewódzkich ośrodków doradztwa rolniczego stają się stosunkami pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.).
 
 2. Kadencja osób, o których mowa w ust. 1, jest liczona od dnia powołania na stanowisko dyrektora wojewódzkiego ośrodka doradztwa rolniczego na podstawie przepisów dotychczasowych.
 
@@ -107,9 +109,9 @@ source: "eli-html"
 
 - **1)** rocznego programu działalności,
 - **2)** rocznego planu finansowego,
-- **3)** cennika zatwierdzonych przez zarząd województwa na podstawie dotychczasowych przepisów.
+- **3)** cennika – zatwierdzonych przez zarząd województwa na podstawie dotychczasowych przepisów.
 
 **Art. 6.** Przepisy wykonawcze wydane na podstawie art. 6 ust. 7 i art. 12 ust. 2 ustawy zmienianej w art. 1 zachowują moc i mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.
 

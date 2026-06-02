@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-23 |
 | Data wydania | 2014-11-12 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001559) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1559/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646) wprowadza się następujące zmiany:
 
 - **1)** w art. 37i: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -81,7 +80,7 @@ source: "eli-html"
 
 - **1)** w art. 14 ust. 5b otrzymuje brzmienie: „
 
-5b. W przypadku gdy zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej, o której mowa w art. 37h ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.), zwanej dalej „opłatą paliwową”, wygasa na skutek zapłaty tego zobowiązania podatkowego lub tej opłaty paliwowej, organem właściwym do odnotowania zwolnienia zabezpieczenia generalnego z obciążenia jest naczelnik urzędu celnego, któremu podatnik składa deklarację podatkową. ” ;
+5b. W przypadku gdy zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej, o której mowa w art. 37h ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646), zwanej dalej „opłatą paliwową”, wygasa na skutek zapłaty tego zobowiązania podatkowego lub tej opłaty paliwowej, organem właściwym do odnotowania zwolnienia zabezpieczenia generalnego z obciążenia jest naczelnik urzędu celnego, któremu podatnik składa deklarację podatkową. ” ;
 
 - **2)** w art. 28 ust. 3 otrzymuje brzmienie: „
 
@@ -171,7 +170,8 @@ source: "eli-html"
 
 8. Na wniosek podmiotu określonego w ust. 1, który spełnia warunki określone w art. 64 ust. 1 pkt 1, 3 i 4, właściwy naczelnik urzędu celnego wyraża zgodę na złożenie zabezpieczenia ryczałtowego dla zabezpieczenia wykonania jego zobowiązań podatkowych albo wykonania jego zobowiązań podatkowych oraz obowiązku zapłaty opłaty paliwowej przez ten podmiot. Przepisy art. 64 ust. 3–5, 8 i 9 oraz przepisy wydane na podstawie art. 64 ust. 10 dotyczące sposobu dokumentowania spełnienia warunków określonych w art. 64 ust. 1, w tym rodzaju dokumentów potwierdzających ich spełnienie, stosuje się odpowiednio. ” ;
 
-- **11)** w art. 66: w ust. 1: – w pkt 3 lit. a otrzymuje brzmienie: „ a) sposób ustalania stanu wykorzystania zabezpieczenia generalnego oraz odnotowywania jego obciążenia i zwolnienia z obciążenia kwotą powstałego lub mogącego powstać zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, ” , – część wspólna otrzymuje brzmienie: „ – uwzględniając konieczność właściwego zabezpieczenia należności akcyzowych oraz opłaty paliwowej. ” , ust. 2 otrzymuje brzmienie: „
+- **11)** w art. 66: w ust. 1: w pkt 3 lit. a otrzymuje brzmienie: „ sposób ustalania stanu wykorzystania zabezpieczenia generalnego oraz odnotowywania jego obciążenia i zwolnienia z obciążenia kwotą powstałego lub mogącego powstać zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, ” , część wspólna otrzymuje brzmienie: „ – uwzględniając konieczność właściwego zabezpieczenia należności akcyzowych oraz opłaty paliwowej. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
     - **a)**
     - **b)**
 
@@ -182,7 +182,7 @@ source: "eli-html"
 - **3)** przypadki, w których stosuje się dla niektórych wyrobów akcyzowych niższy poziom zabezpieczenia akcyzowego niż określony w ustawie, oraz określić ten poziom,
 - **4)** szczegółowe warunki odnotowywania przez podmiot, o którym mowa w art. 65 ust. 7b, obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, a także zwalniania go z tego obciążenia,
 - **5)** szczegółowy sposób odnotowywania przez podmiot, o którym mowa w art. 65 ust. 7b, obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, a także zwalniania go z tego obciążenia,
-- **6)** przypadki, w których nie odnotowuje się obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą powstałego lub mogącego powstać zobowiązania podatkowego oraz kwotą opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać uwzględniając konieczność właściwego zabezpieczenia należności akcyzowych oraz opłaty paliwowej, zapewnienia sprawnego stosowania zabezpieczeń akcyzowych, a także uproszczenia obrotu wyrobami akcyzowymi. ” ;
+- **6)** przypadki, w których nie odnotowuje się obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą powstałego lub mogącego powstać zobowiązania podatkowego oraz kwotą opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać – uwzględniając konieczność właściwego zabezpieczenia należności akcyzowych oraz opłaty paliwowej, zapewnienia sprawnego stosowania zabezpieczeń akcyzowych, a także uproszczenia obrotu wyrobami akcyzowymi. ” ;
 - **12)** w art. 67 w ust. 3 część wspólna otrzymuje brzmienie: „ – uwzględniając konieczność właściwego zabezpieczenia wykonania zobowiązań podatkowych w akcyzie oraz obowiązku zapłaty opłaty paliwowej. ” ;
 - **13)** w art. 69 ust. 1 i 2 otrzymują brzmienie: „
 
@@ -217,7 +217,7 @@ source: "eli-html"
 - **2)** z części zabezpieczenia akcyzowego, której wysokość została ustalona dla pokrycia opłaty paliwowej – w pierwszej kolejności pokrywa się kwotę opłaty paliwowej wraz z odsetkami. ” , ust. 2 i 3 otrzymują brzmienie: „
     - **c)**
 
-2. Jeżeli w celu pokrycia kwoty akcyzy lub kwoty opłaty paliwowej niezapłaconych w terminie wymagana jest sprzedaż, w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121 i 827), praw z dokumentów mających wartość płatniczą złożonych jako zabezpieczenie akcyzowe, do sprzedaży stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm.).
+2. Jeżeli w celu pokrycia kwoty akcyzy lub kwoty opłaty paliwowej niezapłaconych w terminie wymagana jest sprzedaż, w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121 i 827), praw z dokumentów mających wartość płatniczą złożonych jako zabezpieczenie akcyzowe, do sprzedaży stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166, 1342 i 1529, z 2013 r. poz. 1289).
 
 3. W przypadku, o którym mowa w ust. 1, należne odsetki za zwłokę od zaległości podatkowej są naliczane do dnia pokrycia kwoty akcyzy lub kwoty opłaty paliwowej. ” ;
 
@@ -251,11 +251,11 @@ source: "eli-html"
 
 - **1)** wygaśnięcia lub utraty ważności złożonego zabezpieczenia akcyzowego,
 - **2)** złożenia nowego lub dodatkowego zabezpieczenia akcyzowego,
-- **3)** przedłużenia złożonego zabezpieczenia akcyzowego lub jego ważności nie dłużej jednak niż do dnia 31 grudnia 2015 r.
+- **3)** przedłużenia złożonego zabezpieczenia akcyzowego lub jego ważności – nie dłużej jednak niż do dnia 31 grudnia 2015 r.
 
 3. Podmioty, którym udzielono zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego, o którym mowa w art. 64 ustawy zmienianej w art. 3, przed dniem wejścia w życie niniejszej ustawy, są zwolnione z obowiązku zabezpieczenia opłaty paliwowej, o którym mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia wygaśnięcia tego zwolnienia.
 
 4. Zwolnienie z obowiązku złożenia zabezpieczenia akcyzowego udzielone przed dniem wejścia w życie niniejszej ustawy podmiotom zwolnionym z obowiązku zabezpieczenia opłaty paliwowej na podstawie ust. 3, nie może ulec przedłużeniu.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 1 pkt 3 i art. 3 pkt 18, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 1 pkt 3 i art. 3 pkt 18, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166, 1342 i 1529, z 2013 r. poz. 1289
 

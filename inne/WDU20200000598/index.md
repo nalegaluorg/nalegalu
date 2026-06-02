@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-26 |
 | Data wydania | 2020-04-06 |
-| Wejście w życie | 2020-04-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/598/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 46 ust. 9 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 46 ust. 9 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa tryb ubiegania się o dofinansowanie kosztów związanych z zaopatrzeniem w leki, środki spożywcze specjalnego przeznaczenia żywieniowego objęte decyzją o refundacji oraz leki o kategorii dostępności Rp lub Rpz nieobjęte decyzją o refundacji przysługujące bezpłatnie osobom posiadającym status weterana poszkodowanego nadany na podstawie art. 5 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2019 r. poz. 1569 i 1726), których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30%, zwanym dalej „weteranami poszkodowanymi”, oraz sposób dofinansowania tych kosztów.
 § 2.
@@ -36,8 +35,7 @@ Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowi
 1)
 numer PESEL weterana poszkodowanego, a w przypadku gdy nie posiada numeru PESEL – serię i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość,
 2)
-okres przysługującego prawa do dofinansowania
-całościowo, w ciągu pierwszych pięciu dni roboczych po kwartale, za który ma zostać opracowane zestawienie zawierające informacje o wysokości należnej kwoty dofinansowania za zrealizowane w poprzednim kwartale zaopatrzenie weteranów poszkodowanych.
+okres przysługującego prawa do dofinansowania – całościowo, w ciągu pierwszych pięciu dni roboczych po kwartale, za który ma zostać opracowane zestawienie zawierające informacje o wysokości należnej kwoty dofinansowania za zrealizowane w poprzednim kwartale zaopatrzenie weteranów poszkodowanych.
 2.
 Dyrektor właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia sporządza kwartalne zestawienie, zawierające informacje o wysokości należnej kwoty dofinansowania za zrealizowane w poprzednim kwartale zaopatrzenie weteranów poszkodowanych w:
 1)
@@ -69,7 +67,7 @@ wysokość należnej kwoty dofinansowania leków nieobjętych decyzją o refunda
 5)
 nazwę oraz numer rachunku bankowego właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia;
 6)
-kod uprawnienia dodatkowego pacjenta, określony w przepisach wydanych na podstawie art. 96a ust. 12 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499, z późn. zm.);
+kod uprawnienia dodatkowego pacjenta, określony w przepisach wydanych na podstawie art. 96a ust. 12 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905 oraz z 2020 r. poz. 322, 374 i 567.);
 7)
 podpis dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia.
 § 3.
@@ -80,9 +78,9 @@ uprawnień osób, na rzecz których zrealizowano zaopatrzenie;
 2)
 kosztów leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz leków o kategorii dostępności Rp lub Rpz i wysokości ich dofinansowania, w tym wysokości limitu dofinansowania ze środków publicznych.
 2.
-Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia po dokonaniu czynności, o których mowa w ust. 1, sporządza zaświadczenie o wysokości dofinansowania, które zawiera: datę wystawienia oraz oznaczenie numeru ewidencyjnego, datę zestawienia za zrealizowane zaopatrzenie, nazwę oddziału wojewódzkiego Narodowego Funduszu Zdrowia oraz numer rachunku bankowego, okres, którego dotyczy dofinansowanie, kwotę należnego dofinansowania i termin przekazania środków oraz podpis dyrektora lub osoby upoważnionej, a następnie przekazuje je do dysponenta środków budżetu państwa ustanowionego przez Ministra Obrony Narodowej, w sposób określony w przepisach w sprawie szczegółowego sposobu wykonywania budżetu państwa wydanych na podstawie art. 198 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.), celem realizacji płatności z tego tytułu.
+Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia po dokonaniu czynności, o których mowa w ust. 1, sporządza zaświadczenie o wysokości dofinansowania, które zawiera: datę wystawienia oraz oznaczenie numeru ewidencyjnego, datę zestawienia za zrealizowane zaopatrzenie, nazwę oddziału wojewódzkiego Narodowego Funduszu Zdrowia oraz numer rachunku bankowego, okres, którego dotyczy dofinansowanie, kwotę należnego dofinansowania i termin przekazania środków oraz podpis dyrektora lub osoby upoważnionej, a następnie przekazuje je do dysponenta środków budżetu państwa ustanowionego przez Ministra Obrony Narodowej, w sposób określony w przepisach w sprawie szczegółowego sposobu wykonywania budżetu państwa wydanych na podstawie art. 198 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374 i 568.), celem realizacji płatności z tego tytułu.
 3.
 Środki finansowe w wysokości wynikającej z zaświadczenia, o którym mowa w ust. 2, są przekazywane na wskazany rachunek bankowy właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia, w terminie 30 dni od dnia otrzymania przez dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia kwartalnego zestawienia.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905 oraz z 2020 r. poz. 322, 374 i 567. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374 i 568.
 

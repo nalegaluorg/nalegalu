@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-21 |
 | Data wydania | 2024-09-21 |
-| Wejście w życie | 2024-09-21 |
 | Ostatnia zmiana | 2024-09-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001394) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1394/text.pdf) |
 
@@ -38,8 +37,12 @@ a)
 w ust. 1 po wyrazach „województwa dolnośląskiego,” dodaje się wyrazy „lubuskiego,”,
 b)
 w ust. 2:
-– po pkt 1b dodaje się pkt 1c w brzmieniu: „ 1c) w województwie dolnośląskim – powiat zgorzelecki, gminę miejską Oława oraz gminę wiejską Oława w powiecie oławskim, gminę Kąty Wrocławskie oraz gminę Sobótka w powiecie wrocławskim; ” ,
-– w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) w województwie lubuskim – gminę miejsko-wiejską Szprotawa, miasto Żagań, miasto Małomice i gminę wiejską Żagań w powiecie żagańskim. ” .
+po pkt 1b dodaje się pkt 1c w brzmieniu: „
+1c)
+w województwie dolnośląskim – powiat zgorzelecki, gminę miejską Oława oraz gminę wiejską Oława w powiecie oławskim, gminę Kąty Wrocławskie oraz gminę Sobótka w powiecie wrocławskim; ” ,
+w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+4)
+w województwie lubuskim – gminę miejsko-wiejską Szprotawa, miasto Żagań, miasto Małomice i gminę wiejską Żagań w powiecie żagańskim. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

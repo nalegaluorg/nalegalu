@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-30 |
 | Data wydania | 2012-05-18 |
-| Wejście w życie | 2012-06-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/540/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 32 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 32 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 42, poz. 340, Nr 98, poz. 817 i Nr 157, poz. 1241, z 2010 r. Nr 48, poz. 287, Nr 96, poz. 620, Nr 143, poz. 963, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 233, poz. 1382.) zarządza się, co następuje:
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -126,8 +125,7 @@ nie złoży w wyznaczonym terminie żadnego oświadczenia,
 3)
 złoży w wyznaczonym terminie oświadczenie o skorzystaniu z pierwszeństwa na warunkach innych niż określone w zawiadomieniu,
 4)
-bez uzasadnionej przyczyny nie przystąpi w wyznaczonych terminie i miejscu do zawarcia umowy lub nie spełni warunków określonych w zawiadomieniu
-Agencja przeznacza nieruchomość do sprzedaży kolejnemu podmiotowi, któremu przysługuje pierwszeństwo nabycia tej nieruchomości, a w razie braku takiego podmiotu – może sprzedać ją w przetargu.
+bez uzasadnionej przyczyny nie przystąpi w wyznaczonych terminie i miejscu do zawarcia umowy lub nie spełni warunków określonych w zawiadomieniu – Agencja przeznacza nieruchomość do sprzedaży kolejnemu podmiotowi, któremu przysługuje pierwszeństwo nabycia tej nieruchomości, a w razie braku takiego podmiotu – może sprzedać ją w przetargu.
 5.
 W razie przeznaczenia nieruchomości do sprzedaży kolejnym podmiotom wymienionym w art. 29 ust. 1 pkt 2–4 ustawy, mającym pierwszeństwo w jej nabyciu, stosuje się odpowiednio ust. 1, 3 i 4.
 § 6.
@@ -399,9 +397,11 @@ umowę o przystąpieniu do długu oraz dokumenty dotyczące sytuacji finansowej 
 1.
 Stawkę szacunkową użytku rolnego, z zastrzeżeniem ust. 2–4, ustala się, uwzględniając rodzaj i klasę gruntu, określone w ewidencji gruntów, oraz okręg podatkowy według przepisów o podatku rolnym w następujący sposób:
 1)
-dla gruntu ornego: Okręg podatkowy Wyrażone w dt żyta stawki szacunkowe dla 1 ha gruntu ornego klasy: I II IIIa IIIb IVa IVb V VI VIz I 145 132 118 100 80 60 35 15 8 II 126 115 103 86 70 52 30 12 5 III 110 100 90 75 60 45 25 10 1 IV 94 85 76 64 50 38 20 6 1
+dla gruntu ornego:
+Okręg podatkowy Wyrażone w dt żyta stawki szacunkowe dla 1 ha gruntu ornego klasy: I II IIIa IIIb IVa IVb V VI VIz I 145 132 118 100 80 60 35 15 8 II 126 115 103 86 70 52 30 12 5 III 110 100 90 75 60 45 25 10 1 IV 94 85 76 64 50 38 20 6 1
 2)
-dla łąk trwałych i pastwisk trwałych: Okręg podatkowy Wyrażone w dt żyta stawki szacunkowe dla 1 ha łąk trwałych i pastwisk trwałych klasy: I II III IV V VI VIz I 145 118 93 67 35 13 5 II 126 103 80 58 30 10 3 III 110 90 70 50 25 8 1 IV 94 76 60 43 20 5 1
+dla łąk trwałych i pastwisk trwałych:
+Okręg podatkowy Wyrażone w dt żyta stawki szacunkowe dla 1 ha łąk trwałych i pastwisk trwałych klasy: I II III IV V VI VIz I 145 118 93 67 35 13 5 II 126 103 80 58 30 10 3 III 110 90 70 50 25 8 1 IV 94 76 60 43 20 5 1
 2.
 Stawkę szacunkową gruntu pod stawami ustala się według stawki gruntu ornego albo łąk trwałych i pastwisk trwałych pod tymi stawami. W razie braku klasyfikacji stawkę szacunkową gruntu pod stawami ustala się według stawki łąk trwałych i pastwisk trwałych klasy I.
 3.
@@ -419,5 +419,5 @@ użytki ekologiczne – ustala się według stawki odpowiedniego użytku gruntow
 4)
 nieużytki, grunty pod wodami powierzchniowymi lub tereny różne – ustala się, przyjmując 50% stawki łąk trwałych i pastwisk trwałych klasy VI.
 § 27.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 lutego 2010 r. w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków rozkładania ceny sprzedaży na raty oraz stawek szacunkowych gruntów (Dz. U. Nr 29, poz. 151), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 11 ustawy z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw (Dz. U. Nr 233, poz. 1382). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 42, poz. 340, Nr 98, poz. 817 i Nr 157, poz. 1241, z 2010 r. Nr 48, poz. 287, Nr 96, poz. 620, Nr 143, poz. 963, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 233, poz. 1382. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 lutego 2010 r. w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków rozkładania ceny sprzedaży na raty oraz stawek szacunkowych gruntów (Dz. U. Nr 29, poz. 151), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 11 ustawy z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw (Dz. U. Nr 233, poz. 1382).
 

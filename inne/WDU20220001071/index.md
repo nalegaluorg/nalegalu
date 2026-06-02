@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-05 |
 | Data wydania | 2022-05-20 |
-| Wejście w życie | 2022-06-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001071) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1071/text.pdf) |
 
@@ -37,11 +36,9 @@ w pkt 3 wyrazy „rozporządzenia Ministra Środowiska z dnia 1 marca 2018 r. w 
 b)
 uchyla się pkt 7,
 c)
-po pkt 35 dodaje się pkt 35a w brzmieniu:
-„
+po pkt 35 dodaje się pkt 35a w brzmieniu: „
 35a)
-wypełnienie odkrywkowego wyrobiska górniczego powstałego w wyniku wydobywania węgla brunatnego wodą w ilości nie mniejszej niż 1000 mln m3 w celu likwidacji zakładu górniczego;
-” ,
+wypełnienie odkrywkowego wyrobiska górniczego powstałego w wyniku wydobywania węgla brunatnego wodą w ilości nie mniejszej niż 1000 mln m3 w celu likwidacji zakładu górniczego; ” ,
 d)
 w pkt 46 wyrazy „rozporządzenia Ministra Środowiska z dnia 1 marca 2018 r. w sprawie standardów emisyjnych dla niektórych rodzajów instalacji, źródeł spalania paliw oraz urządzeń spalania lub współspalania odpadów” zastępuje się wyrazami „rozporządzenia Ministra Klimatu z dnia 24 września 2020 r. w sprawie standardów emisyjnych dla niektórych rodzajów instalacji, źródeł spalania paliw oraz urządzeń spalania lub współspalania odpadów”;
 2)
@@ -53,11 +50,9 @@ uchyla się pkt 8,
 c)
 w pkt 52 wyrazy „rozporządzeniu Ministra Rozwoju Regionalnego i Budownictwa z dnia 29 marca 2001 r. w sprawie ewidencji gruntów i budynków (Dz. U. z 2019 r. poz. 393)” zastępuje się wyrazami „rozporządzeniu Ministra Rozwoju, Pracy i Technologii z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków (Dz. U. poz. 1390 i 1781)”,
 d)
-po pkt 69 dodaje się pkt 69a w brzmieniu:
-„
+po pkt 69 dodaje się pkt 69a w brzmieniu: „
 69a)
-wypełnienie odkrywkowego wyrobiska górniczego powstałego w wyniku wydobywania węgla brunatnego wodą w ilości nie mniejszej niż 500 mln m3 i mniejszej niż 1000 mln m3 w celu likwidacji zakładu górniczego;
-” ,
+wypełnienie odkrywkowego wyrobiska górniczego powstałego w wyniku wydobywania węgla brunatnego wodą w ilości nie mniejszej niż 500 mln m3 i mniejszej niż 1000 mln m3 w celu likwidacji zakładu górniczego; ” ,
 e)
 w pkt 103 w lit. a w tiret pierwszym w podwójnym tiret pierwszym oraz w pkt 104 w lit. a w tiret pierwszym w podwójnym tiret pierwszym wyrazy „rozporządzeniu Ministra Rozwoju Regionalnego i Budownictwa z dnia 29 marca 2001 r. w sprawie ewidencji gruntów i budynków” zastępuje się wyrazami „rozporządzeniu Ministra Rozwoju, Pracy i Technologii z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków”,
 f)

@@ -8,10 +8,10 @@ pos: 494
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 maja 2012 r.
+# Rozporządzenie Ministra Zdrowiaz dnia 24 kwietnia 2012 r. w sprawie wykazu świadczeń zdrowotnych stwarzających podwyższone ryzyko dla pacjenta, których udzielenie wymaga zgody
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/494/text.pdf) |
 
-Poz. 494 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 24 kwietnia 2012 r.
-w sprawie wykazu świadczeń zdrowotnych stwarzających podwyższone ryzyko dla pacjenta, których udzielenie wymaga zgody Na podstawie art. 33 ust. 3 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2011 r. Nr 231, poz. 1375) zarządza się, co następuje: § 1. Świadczeniami zdrowotnymi, których udzielenie ze względu na podwyższone ryzyko dla pacjenta wymaga zgody osoby przyjętej do szpitala psychiatrycznego bez jej zgody lub jej przedstawiciela ustawowego, są:
-1) punkcja podpotyliczna lub lędźwiowa przeprowadzana w celu pobrania płynu mózgowo-rdzeniowego lub podania leków;
-2) leczenie elektrowstrząsami.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Szulc Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 248, poz. 1495 i Nr 284, poz. 1672).
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 4 sierpnia 1995 r. w sprawie wykazu świadczeń zdrowotnych wymagających odrębnej zgody pacjenta lub jego przedstawiciela ustawowego (Dz. U. Nr 100, poz. 503), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 3 pkt 1 ustawy z dnia 3 grudnia 2010 r.
+Treść rozporządzenia
+Na podstawie art. 33 ust. 3 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2011 r. Nr 231, poz. 1375) zarządza się, co następuje:
+§ 1.
+Świadczeniami zdrowotnymi, których udzielenie ze względu na podwyższone ryzyko dla pacjenta wymaga zgody osoby przyjętej do szpitala psychiatrycznego bez jej zgody lub jej przedstawiciela ustawowego, są:
+1)
+punkcja podpotyliczna lub lędźwiowa przeprowadzana w celu pobrania płynu mózgowo-rdzeniowego lub podania leków;
+2)
+leczenie elektrowstrząsami.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 4 sierpnia 1995 r. w sprawie wykazu świadczeń zdrowotnych wymagających odrębnej zgody pacjenta lub jego przedstawiciela ustawowego (Dz. U. Nr 100, poz. 503), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 3 pkt 1 ustawy z dnia 3 grudnia 2010 r. o zmianie ustawy o ochronie zdrowia psychicznego (Dz. U. z 2011 r. Nr 6, poz. 19). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 4 sierpnia 1995 r. w sprawie wykazu świadczeń zdrowotnych wymagających odrębnej zgody pacjenta lub jego przedstawiciela ustawowego (Dz. U. Nr 100, poz. 503), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 3 pkt 1 ustawy z dnia 3 grudnia 2010 r. o zmianie ustawy o ochronie zdrowia psychicznego (Dz. U. z 2011 r. Nr 6, poz. 19).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 22 czerwca 2017 r. w sprawie przeprowadzenia procesu certyfikacji kompetencji zawodowych w transporcie drogowym oraz zabezpieczenia certyfikatu kompetencji zawodowych
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 22 czerwca 2017 r. w sprawie przeprowadzenia procesu certyfikacji kompetencji zawodowych w transporcie drogowym oraz zabezpieczenia certyfikatu kompetencji zawodowych Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-22 |
 | Data wydania | 2017-07-07 |
-| Wejście w życie | 2017-07-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001352) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1352/text.pdf) |
 
@@ -69,8 +68,7 @@ Zwolnienie kandydata z całości albo z części egzaminu pisemnego, o którym m
 1)
 dyplomu ukończenia studiów wyższych przez kandydata wraz z suplementem do dyplomu lub innym dokumentem potwierdzającym program tych studiów, wystawionym zgodnie z przepisami prawa obowiązującymi w dniu jego wystawienia,
 2)
-świadectwa ukończenia studiów podyplomowych przez kandydata
-lub kopii tych dokumentów poświadczonych za zgodność z oryginałem zgodnie z art. 76a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996, 1579, 2138 oraz z 2017 r. poz. 935).
+świadectwa ukończenia studiów podyplomowych przez kandydata – lub kopii tych dokumentów poświadczonych za zgodność z oryginałem zgodnie z art. 76a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996, 1579, 2138 oraz z 2017 r. poz. 935).
 2.
 Jednostka, przy której działają komisje egzaminacyjne, informuje kandydata o sposobie rozpatrzenia wniosku, o którym mowa w ust. 1, w szczególności przez wskazanie zakresu zagadnień, z których kandydat nie jest zwolniony na egzaminie.
 § 6.
@@ -78,6 +76,5 @@ W sprawach dotyczących komisji egzaminacyjnych oraz trybu zwalniania osoby ubie
 § 7.
 Traci moc rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 1 lipca 2013 r. w sprawie przeprowadzenia procesu certyfikacji kompetencji zawodowych w transporcie drogowym oraz zabezpieczenia certyfikatu kompetencji zawodowych.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 

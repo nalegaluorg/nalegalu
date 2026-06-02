@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 24 czerwca 2024 r. w sprawie wysokości wynagrodzenia członków Komisji Odpowiedzialności Zawodowej oraz rzeczników dyscyplinarnych
+# Rozporządzenie Ministra Zdrowiaz dnia 24 czerwca 2024 r. w sprawie wysokości wynagrodzenia członków Komisji Odpowiedzialności Zawodowej oraz rzeczników dyscyplinarnych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-25 |
 | Data wydania | 2024-06-27 |
-| Wejście w życie | 2024-06-28 |
 | Ostatnia zmiana | 2024-06-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000941) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/941/text.pdf) |
 
@@ -43,6 +42,5 @@ Rzecznikowi dyscyplinarnemu za rozpoznanie sprawy dotyczącej odpowiedzialności
 3)
 1100 zł – w przypadku sprawy zakończonej skierowaniem do Komisji wniosku o ukaranie.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

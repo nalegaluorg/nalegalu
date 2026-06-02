@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 23 grudnia 2020 r. zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania
+# Rozporządzenie Ministra Zdrowiaz dnia 23 grudnia 2020 r. zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-23 |
 | Data wydania | 2020-12-24 |
-| Wejście w życie | 2020-12-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2350/text.pdf) |
 
@@ -33,20 +32,15 @@ W rozporządzeniu Ministra Zdrowia z dnia 6 kwietnia 2020 r. w sprawie rodzajów
 1)
 w § 2 w ust. 4:
 a)
-po pkt 2 dodaje się pkt 2a w brzmieniu:
-„
+po pkt 2 dodaje się pkt 2a w brzmieniu: „
 2a)
-skierowanie na szczepienie przeciwko COVID-19;
-” ,
+skierowanie na szczepienie przeciwko COVID-19; ” ,
 b)
-po pkt 7 dodaje się pkt 7a w brzmieniu:
-„
+po pkt 7 dodaje się pkt 7a w brzmieniu: „
 7a)
-Karta Szczepień;
-” ;
+Karta Szczepień; ” ;
 2)
-po § 68 dodaje się § 68a i § 68b w brzmieniu:
-„
+po § 68 dodaje się § 68a i § 68b w brzmieniu: „
 § 68a.
 1.
 Skierowanie na szczepienie przeciwko COVID-19 zawiera:
@@ -108,9 +102,7 @@ szczepienia ochronne, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapob
 4.
 Wpisy w Karcie Szczepień są dokonywane w okresie nieprzekraczającym 24 godzin od momentu przeprowadzenia odpowiednio lekarskiego badania kwalifikacyjnego albo szczepienia.
 5.
-Zaświadczenie o wykonaniu szczepienia wydane w postaci elektronicznej udostępnia się w Internetowym Koncie Pacjenta, o którym mowa w art. 7a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, osoby poddanej szczepieniu. Na żądanie tej osoby zaświadczenie o wykonaniu szczepienia wydaje się także w postaci papierowej.
-” .
+Zaświadczenie o wykonaniu szczepienia wydane w postaci elektronicznej udostępnia się w Internetowym Koncie Pacjenta, o którym mowa w art. 7a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, osoby poddanej szczepieniu. Na żądanie tej osoby zaświadczenie o wykonaniu szczepienia wydaje się także w postaci papierowej. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 25 grudnia 2020 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
+Rozporządzenie wchodzi w życie z dniem 25 grudnia 2020 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 

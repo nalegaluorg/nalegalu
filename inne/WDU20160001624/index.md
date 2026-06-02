@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 27 września 2016 r. w sprawie sposobu wyznaczenia współczynnika korygującego oraz naliczania i pobierania opłaty prowizyjnej od gwarancji ostrożnościowej oraz wysokości tej opłaty
+# Rozporządzenie Ministra Finansówz dnia 27 września 2016 r. w sprawie sposobu wyznaczenia współczynnika korygującego oraz naliczania i pobierania opłaty prowizyjnej od gwarancji ostrożnościowej oraz wysokości tej opłaty Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-27 |
 | Data wydania | 2016-10-06 |
-| Wejście w życie | 2016-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1624/text.pdf) |
 
@@ -53,8 +52,15 @@ Opłata prowizyjna od gwarancji ostrożnościowej wyrażonej w walucie obcej jes
 § 4.
 W sprawach, w których przed dniem wejścia w życie rozporządzenia złożono wniosek, o którym mowa w art. 6 ust. 1 ustawy, przy ustalaniu wysokości opłaty prowizyjnej stosuje się przepisy dotychczasowe.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 9 października 2016 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 1 kwietnia 2010 r. w sprawie sposobu wyznaczenia współczynnika korygującego oraz naliczania i pobierania opłaty prowizyjnej od gwarancji oraz wysokości tej opłaty (Dz. U. poz. 370), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 387 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996).
+Rozporządzenie wchodzi w życie z dniem 9 października 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 1 kwietnia 2010 r. w sprawie sposobu wyznaczenia współczynnika korygującego oraz naliczania i pobierania opłaty prowizyjnej od gwarancji oraz wysokości tej opłaty (Dz. U. poz. 370), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 387 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 1 kwietnia 2010 r. w sprawie sposobu wyznaczenia współczynnika korygującego oraz naliczania i pobierania opłaty prowizyjnej od gwarancji oraz wysokości tej opłaty (Dz. U. poz. 370), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 387 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996).
 Załącznik – Stawki opłat prowizyjnych od gwarancji udzielanych przez Skarb Państwa
-Standard & Poor's Co. Fitch Ratings Ltd. Moody's Investors Service Inc. Euro Rating sp. z o.o. Stawki opłaty prowizyjnej od gwarancji ostrożnościowej w skali roku w zależności od okresu obowiązywania gwarancji ostrożnościowej Standard & Poor's Co. Fitch Ratings Ltd. Moody's Investors Service Inc. Euro Rating sp. z o.o. Stawki opłaty prowizyjnej od gwarancji ostrożnościowej w skali roku w zależności od okresu obowiązywania gwarancji ostrożnościowej Okres obowiązywania gwarancji ostrożnościowej – – – – do 1 roku 1–3 lat 3–5 lat Najwyższa zdolność do spłaty zobowiązań Kategoria ratingowa 0,4% 0,5% 0,6% AAA AAA Aaa AAA Bardzo wysoka zdolność do spłaty zobowiązań AA + AA + Aa1+ AA+AAAA- 0,5% 0,6% 0,7% AA AA Aa2 AA- AA- Aa3- Wysoka zdolność do spłaty zobowiązań A + A + A 1 A+AA- 0,6% 0,7% 0,8% A A A2 A- A- A3 Odpowiednia zdolność do spłaty zobowiązań BBB + BBB + Baa 1 BBB+BBBBBB- 0,9% 1,0% 1,1% BBB BBB Baa 2 BBB- BBB- Baa 3 Wrażliwa na niekorzystne warunki zdolność do spłaty zobowiązań BB + BB + Ba 1 BB+BBBB- 2,0% 2,2% 2,4% BB BB Ba 2 BB- BB- Ba 3
+Standard & Poor's Co. Fitch Ratings Ltd. Moody's Investors Service Inc. Euro Rating sp. z o.o. Stawki opłaty prowizyjnej od gwarancji ostrożnościowej w skali roku w zależności od okresu obowiązywania gwarancji ostrożnościowej Standard & Poor's Co. Fitch Ratings Ltd. Moody's Investors Service Inc. Euro Rating sp. z o.o. Stawki opłaty prowizyjnej od gwarancji ostrożnościowej w skali roku w zależności od okresu obowiązywania gwarancji ostrożnościowej Okres obowiązywania gwarancji ostrożnościowej – – – – do 1 roku 1–3 lat 3–5 lat Najwyższa zdolność do spłaty zobowiązań Kategoria ratingowa 0,4% 0,5% 0,6% AAA AAA Aaa AAA Bardzo wysoka zdolność do spłaty zobowiązań AA + AA + Aa1+ AA+
+AA
+AA- 0,5% 0,6% 0,7% AA AA Aa2 AA- AA- Aa3- Wysoka zdolność do spłaty zobowiązań A + A + A 1 A+
+A
+A- 0,6% 0,7% 0,8% A A A2 A- A- A3 Odpowiednia zdolność do spłaty zobowiązań BBB + BBB + Baa 1 BBB+
+BBB
+BBB- 0,9% 1,0% 1,1% BBB BBB Baa 2 BBB- BBB- Baa 3 Wrażliwa na niekorzystne warunki zdolność do spłaty zobowiązań BB + BB + Ba 1 BB+
+BB
+BB- 2,0% 2,2% 2,4% BB BB Ba 2 BB- BB- Ba 3
 

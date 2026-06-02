@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 8 listopada 2016 r. zmieniające rozporządzenie w sprawie ogólnych warunków prowadzenia ruchu kolejowego i sygnalizacji
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 8 listopada 2016 r. zmieniające rozporządzenie w sprawie ogólnych warunków prowadzenia ruchu kolejowego i sygnalizacji Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-08 |
 | Data wydania | 2016-11-15 |
-| Wejście w życie | 2016-12-16 |
 | Ostatnia zmiana | 2025-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001849) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1849/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 17 ust. 7 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2016 r. poz. 1727 i 1823) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2016/882 z dnia 1 czerwca 2016 r. zmieniającą dyrektywę 2007/59/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów językowych (Dz. Urz. UE L 146 z 03.06.2016, str. 22). Na podstawie art. 17 ust. 7 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2016 r. poz. 1727 i 1823) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Infrastruktury z dnia 18 lipca 2005 r. w sprawie ogólnych warunków prowadzenia ruchu kolejowego i sygnalizacji (Dz. U. z 2015 r. poz. 360 i 1476) wprowadza się następujące zmiany:
 1)
 do tytułu rozporządzenia dodaje się odnośnik nr 1a w brzmieniu: „ 1a) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2007/59/WE Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. w sprawie przyznawania uprawnień maszynistom prowadzącym lokomotywy i pociągi w obrębie systemu kolejowego Wspólnoty (Dz. Urz. UE L 315 z 03.12.2007, str. 51, Dz. Urz. UE L 184 z 25.06.2014, str. 11 oraz Dz. Urz. UE L 146 z 03.06.2016, str. 22). ” ;
 2)
-w dziale II dodaje się rozdział 8 w brzmieniu:
-„
+w dziale II dodaje się rozdział 8 w brzmieniu: „
+Odstępstwa od wymagań językowych dla maszynistów
 § 58a.
 Zarządca infrastruktury może, na wniosek zainteresowanego przewoźnika kolejowego, udzielić maszyniście odstępstwa od wymagań dotyczących znajomości języka wskazanego przez zarządcę infrastruktury, ustalonych zgodnie z przepisami wydanymi na podstawie art. 22b ust. 21 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, zwanych dalej „wymaganiami językowymi”, w odniesieniu do odcinków linii kolejowych przebiegających przez przejścia graniczne z państwami członkowskimi Unii Europejskiej sąsiadującymi z Rzeczpospolitą Polską.
 § 58b.
@@ -46,11 +45,9 @@ znajomość przez maszynistę, którego dotyczy wniosek, przepisów wymaganych p
 3)
 ukończenie przez maszynistę, którego dotyczy wniosek, odpowiednich szkoleń w ramach systemów zarządzania bezpieczeństwem przewoźnika kolejowego i zarządcy infrastruktury.
 § 58c.
-Procedurę przyznawania odstępstwa od wymagań językowych określa zarządca infrastruktury i publikuje ją w regulaminie, o którym mowa w art. 32 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym.
-” .
+Procedurę przyznawania odstępstwa od wymagań językowych określa zarządca infrastruktury i publikuje ją w regulaminie, o którym mowa w art. 32 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2016/882 z dnia 1 czerwca 2016 r. zmieniającą dyrektywę 2007/59/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów językowych (Dz. Urz. UE L 146 z 03.06.2016, str. 22).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2016/882 z dnia 1 czerwca 2016 r. zmieniającą dyrektywę 2007/59/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów językowych (Dz. Urz. UE L 146 z 03.06.2016, str. 22).
 
-#### Rozdział 8 Odstępstwa od wymagań językowych dla maszynistów
+#### Rozdział 8
 

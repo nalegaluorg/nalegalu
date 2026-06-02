@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 października 2018 r. o zmianie ustawy – Kodeks wykroczeń oraz niektórych innych ustaw
+# Ustawa z dnia 4 października 2018 r. o zmianie ustawy – Kodeks wykroczeń oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-04 |
 | Data wydania | 2018-10-31 |
-| Wejście w życie | 2018-11-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002077) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2077/text.pdf) |
 
@@ -79,7 +78,7 @@ source: "eli-html"
 
 § 1. Kto cudzą rzecz umyślnie niszczy, uszkadza lub czyni niezdatną do użytku, jeżeli szkoda nie przekracza 500 złotych, podlega karze aresztu, ograniczenia wolności albo grzywny. ” .
 
-**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.) po art. 20e dodaje się art. 20f w brzmieniu: „
+**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544 i 1669.) po art. 20e dodaje się art. 20f w brzmieniu: „
 
 **Art. 20f.**
 
@@ -172,10 +171,12 @@ source: "eli-html"
 
 - **b)**
 
-§ 10. W toku czynności wyjaśniających w sprawach o wykroczenia określone w art. 119 § 1, art. 120 § 1, art. 122 § 1 i 2 oraz art. 124 § 1 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2018 r. poz. 618, 911 i 2077) organ prowadzący uzyskuje ze zbioru danych dotyczącego sprawców wykroczeń, o którym mowa w art. 20f ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.), informacje o wcześniejszym popełnieniu tego rodzaju wykroczeń przez osobę, o której mowa w § 6. ” ;
+§ 10. W toku czynności wyjaśniających w sprawach o wykroczenia określone w art. 119 § 1, art. 120 § 1, art. 122 § 1 i 2 oraz art. 124 § 1 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2018 r. poz. 618, 911 i 2077) organ prowadzący uzyskuje ze zbioru danych dotyczącego sprawców wykroczeń, o którym mowa w art. 20f ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669 i 2077.), informacje o wcześniejszym popełnieniu tego rodzaju wykroczeń przez osobę, o której mowa w § 6. ” ;
 
-- **2)** w art. 97: w § 1: – uchyla się pkt 2, – pkt 3 otrzymuje brzmienie: „ 3) stwierdzi popełnienie wykroczenia, w szczególności za pomocą przyrządu kontrolno-pomiarowego lub urządzenia rejestrującego, a sprawca nie został schwytany na gorącym uczynku lub bezpośrednio potem, i nie zachodzi wątpliwość co do sprawcy czynu ” , – część wspólna otrzymuje brzmienie: „ – w tym także, w razie potrzeby, po przeprowadzeniu w niezbędnym zakresie czynności wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze mandatu karnego nie może nastąpić po upływie 60 dni od dnia ustalenia sprawcy wykroczenia. ” , § 3 otrzymuje brzmienie: „
+- **2)** w art. 97: w § 1: – uchyla się pkt 2, pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** stwierdzi popełnienie wykroczenia, w szczególności za pomocą przyrządu kontrolno-pomiarowego lub urządzenia rejestrującego, a sprawca nie został schwytany na gorącym uczynku lub bezpośrednio potem, i nie zachodzi wątpliwość co do sprawcy czynu ” , część wspólna otrzymuje brzmienie: „ – w tym także, w razie potrzeby, po przeprowadzeniu w niezbędnym zakresie czynności wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze mandatu karnego nie może nastąpić po upływie 60 dni od dnia ustalenia sprawcy wykroczenia. ” , § 3 otrzymuje brzmienie: „
     - **b)**
 
 § 3. Funkcjonariusz nakładający grzywnę jest obowiązany wskazać jej wysokość, określić zachowanie stanowiące wykroczenie, czas i miejsce jego popełnienia oraz kwalifikację prawną, a także poinformować sprawcę wykroczenia o prawie odmowy przyjęcia mandatu karnego i o skutkach prawnych takiej odmowy. ” ;
@@ -207,7 +208,7 @@ source: "eli-html"
 1. Kto:
 
 - **1)** nie dopełnia obowiązku opłacania składek na Fundusz Pracy lub nie opłaca ich w przewidzianym przepisami terminie,
-- **2)** nie zgłasza wymaganych danych lub zgłasza nieprawdziwe dane mające wpływ na wymiar składek na Fundusz Pracy lub udziela w tym zakresie nieprawdziwych wyjaśnień albo odmawia ich udzielenia podlega karze grzywny. ” .
+- **2)** nie zgłasza wymaganych danych lub zgłasza nieprawdziwe dane mające wpływ na wymiar składek na Fundusz Pracy lub udziela w tym zakresie nieprawdziwych wyjaśnień albo odmawia ich udzielenia – podlega karze grzywny. ” .
 
 **Art. 6.** Jeżeli wykroczenie zostało popełnione przed dniem wejścia w życie niniejszej ustawy, przy nakładaniu grzywny w drodze mandatu karnego stosuje się terminy określone w art. 97 § 1 ustawy zmienianej w art. 4 w brzmieniu dotychczasowym, chyba że termin określony w art. 97 § 1 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą upływa później.
 
@@ -238,6 +239,6 @@ source: "eli-html"
 **Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 2 i art. 4 pkt 1 lit. b, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
-- **2)** art. 4 pkt 2 lit. b i pkt 3, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+- **2)** art. 4 pkt 2 lit. b i pkt 3, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544 i 1669. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669 i 2077.
 
 

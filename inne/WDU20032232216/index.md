@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-11-26 |
 | Data wydania | 2003-12-29 |
-| Wejście w życie | 2004-03-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032232216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2216/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
 
 - **7)** maklerze niezależnym – rozumie się przez to osobę fizyczną, wpisaną na listę maklerów giełd towarowych lub maklerów papierów wartościowych, która jest członkiem giełdy towarowej i zawiera transakcje giełdowe w imieniu własnym i na własny rachunek, na warunkach określonych w ustawie,
 - **8)** towarowym domu maklerskim – rozumie się przez to spółkę akcyjną albo spółkę z ograniczoną odpowiedzialnością z siedzibą na terytorium Rzeczypospolitej Polskiej, prowadzącą działalność maklerską w zakresie obrotu towarami giełdowymi,
-- **9)** domu maklerskim – rozumie się przez to: domy maklerskie, banki prowadzące działalność maklerską, zagraniczne osoby prawne, o których mowa w art. 52 i 52a ustawy z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. Nr 49, poz. 447, z późn. zm.) jeżeli dokonują czynności, o których mowa w art. 30 ust. 2b pkt 3 tej ustawy,
+- **9)** domu maklerskim – rozumie się przez to: domy maklerskie, banki prowadzące działalność maklerską, zagraniczne osoby prawne, o których mowa w art. 52 i 52a ustawy z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. Nr 49, poz. 447, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055 oraz z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774, Nr 124, poz. 1151 i Nr 170, poz. 1651.) – jeżeli dokonują czynności, o których mowa w art. 30 ust. 2b pkt 3 tej ustawy,
     - **a)**
     - **b)**
     - **c)**
@@ -95,7 +94,7 @@ source: "eli-html"
 3. Spółka, o której mowa w ust. 1, może również dokonywać rozliczeń transakcji:
 
 - **1)** zawartych na prowadzonej przez nią giełdzie,
-- **2)** zawartych poza giełdą przez będące jej członkami przedsiębiorstwa energetyczne, o których mowa w art. 9 ust. 3 pkt 4 pod warunkiem że regulamin giełdy określi zasady dokonywania rozliczeń takich transakcji. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **2)** zawartych poza giełdą przez będące jej członkami przedsiębiorstwa energetyczne, o których mowa w art. 9 ust. 3 pkt 4 – pod warunkiem że regulamin giełdy określi zasady dokonywania rozliczeń takich transakcji. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **b)**
 
 3a. W przypadku prowadzenia działalności określonej w ust. 3 spółka prowadząca giełdę może być stroną transakcji wyłącznie w celu dokonania rozliczeń transakcji zawartych przez członków giełdy. ” , ust. 5–7 otrzymują brzmienie: „
@@ -116,10 +115,19 @@ source: "eli-html"
 - **7)** w art. 7: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Prowadzenie giełdy wymaga zezwolenia, które wydaje minister właściwy do spraw instytucji finansowych na wniosek spółki zaopiniowany przez Komisję. ” , w ust. 2: – pkt 5 otrzymuje brzmienie: „ 5) listę akcjonariuszy, obejmującą w stosunku do osób: a) prawnych – dane, o których mowa w pkt 1 i 2, b) fizycznych – imię, nazwisko, adres, kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej – wraz z procentowym określeniem posiadanych przez nich głosów na walnym zgromadzeniu, ” , – pkt 9 otrzymuje brzmienie: „ 9) zobowiązania do prowadzenia działalności na danej giełdzie co najmniej: a) 5 towarowych domów maklerskich lub spółek handlowych, prowadzących działalność maklerską zgodnie z przepisami ustawy – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. a), b) 3 towarowych domów maklerskich albo 2 towarowych domów maklerskich oraz 4 przedsiębiorstw energetycznych posiadających koncesję na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną – w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2003 r. Nr 153, poz. 1504 i Nr 203, poz. 1966) i spełniających warunki, o których mowa w art. 50b ust. 1 – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. b) i c), c) 6 towarowych domów maklerskich lub domów maklerskich albo 2 towarowych domów maklerskich lub domów maklerskich oraz 6 przedsiębiorstw energetycznych posiadających koncesję na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną, i spełniających warunki, o których mowa w art. 50b ust. 1 – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. d), d) 6 domów maklerskich lub towarowych domów maklerskich posiadających zezwolenie, o którym mowa w art. 38 ust. 3 – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. e). ” , ust. 4 otrzymuje brzmienie: „
+1. Prowadzenie giełdy wymaga zezwolenia, które wydaje minister właściwy do spraw instytucji finansowych na wniosek spółki zaopiniowany przez Komisję. ” , w ust. 2: pkt 5 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **5)** listę akcjonariuszy, obejmującą w stosunku do osób: prawnych – dane, o których mowa w pkt 1 i 2, fizycznych – imię, nazwisko, adres, kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej – wraz z procentowym określeniem posiadanych przez nich głosów na walnym zgromadzeniu, ” , pkt 9 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **9)** zobowiązania do prowadzenia działalności na danej giełdzie co najmniej: 5 towarowych domów maklerskich lub spółek handlowych, prowadzących działalność maklerską zgodnie z przepisami ustawy – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. a), 3 towarowych domów maklerskich albo 2 towarowych domów maklerskich oraz 4 przedsiębiorstw energetycznych posiadających koncesję na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną – w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2003 r. Nr 153, poz. 1504 i Nr 203, poz. 1966) i spełniających warunki, o których mowa w art. 50b ust. 1 – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. b) i c), 6 towarowych domów maklerskich lub domów maklerskich albo 2 towarowych domów maklerskich lub domów maklerskich oraz 6 przedsiębiorstw energetycznych posiadających koncesję na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną, i spełniających warunki, o których mowa w art. 50b ust. 1 – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. d), 6 domów maklerskich lub towarowych domów maklerskich posiadających zezwolenie, o którym mowa w art. 38 ust. 3 – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. e). ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **c)**
 
 4. Wydając zezwolenie, minister właściwy do spraw instytucji finansowych zatwierdza statut spółki i regulamin giełdy oraz regulamin giełdowej izby rozrachunkowej. ” ;
 
@@ -162,8 +170,12 @@ source: "eli-html"
 
 10. Transakcja giełdowa dokonana przez podmioty inne niż określone w ust. 3 lub z naruszeniem ust. 5–9 jest nieważna. ” ;
 
-- **10)** w art. 11: w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) sposoby określenia wymagań jakościowych towarów giełdowych, o których mowa w art. 2 pkt 2 lit. a)-c), i standardów przewidzianych dla transakcji dotyczących praw majątkowych, o których mowa w art. 2 pkt 2 lit. d) i e), a także sposoby kontroli jakości towarów giełdowych, ” , – pkt 5 otrzymuje brzmienie: „ 5) zasady i warunki dopuszczania podmiotów do zawierania transakcji na giełdzie oraz ich prawa i obowiązki (członkostwo giełdy), ” , – pkt 14 otrzymuje brzmienie: „ 14) środki dyscyplinarne i porządkowe, które mogą być stosowane wobec członków naruszających obowiązki wynikające z członkostwa bądź nieprzestrzegających zasad regulaminu, oraz zasady i tryb ich stosowania, ” , uchyla się ust. 3;
+- **10)** w art. 11: w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** sposoby określenia wymagań jakościowych towarów giełdowych, o których mowa w art. 2 pkt 2 lit. a)-c), i standardów przewidzianych dla transakcji dotyczących praw majątkowych, o których mowa w art. 2 pkt 2 lit. d) i e), a także sposoby kontroli jakości towarów giełdowych, ” , pkt 5 otrzymuje brzmienie: „
+- **5)** zasady i warunki dopuszczania podmiotów do zawierania transakcji na giełdzie oraz ich prawa i obowiązki (członkostwo giełdy), ” , pkt 14 otrzymuje brzmienie: „
+- **14)** środki dyscyplinarne i porządkowe, które mogą być stosowane wobec członków naruszających obowiązki wynikające z członkostwa bądź nieprzestrzegających zasad regulaminu, oraz zasady i tryb ich stosowania, ” , uchyla się ust. 3;
     - **b)**
 
 - **11)** w art. 14: ust. 2 otrzymuje brzmienie: „
@@ -226,8 +238,11 @@ source: "eli-html"
 
 3. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, wysokość, szczegółowy sposób naliczania oraz warunki i terminy uiszczania opłat, o których mowa w ust. 1 i 2, w tym sposób ustalania wartości transakcji, o których mowa w ust. 2. Wysokość opłat powinna być ustalona w taki sposób, aby nie zwiększała istotnie kosztów obrotu na giełdzie oraz powinna uwzględniać rodzaje transakcji podlegających opłatom. ” ;
 
-- **20)** w art. 27: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) nie była uznana prawomocnym orzeczeniem za winnego przestępstwa skarbowego, przestępstwa przeciwko mieniu lub dokumentom, przestępstwa gospodarczego, fałszowania pieniędzy, papierów wartościowych, znaków urzędowych, znaków towarowych, przestępstwa określonego w ustawie – Prawo o publicznym obrocie papierami wartościowymi, przestępstwa określonego w niniejszej ustawie lub przestępstwa określonego w ustawie o domach składowych, ” , – uchyla się pkt 4, – pkt 5 otrzymuje brzmienie: „ 5) złożyła, z zastrzeżeniem ust. 3, egzamin z wynikiem pozytywnym przed komisją egzaminacyjną dla maklerów giełd towarowych. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **20)** w art. 27: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** nie była uznana prawomocnym orzeczeniem za winnego przestępstwa skarbowego, przestępstwa przeciwko mieniu lub dokumentom, przestępstwa gospodarczego, fałszowania pieniędzy, papierów wartościowych, znaków urzędowych, znaków towarowych, przestępstwa określonego w ustawie – Prawo o publicznym obrocie papierami wartościowymi, przestępstwa określonego w niniejszej ustawie lub przestępstwa określonego w ustawie o domach składowych, ” , – uchyla się pkt 4, pkt 5 otrzymuje brzmienie: „
+- **5)** złożyła, z zastrzeżeniem ust. 3, egzamin z wynikiem pozytywnym przed komisją egzaminacyjną dla maklerów giełd towarowych. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Pełnia praw publicznych osoby nieposiadającej obywatelstwa polskiego jest oceniana według prawa państwa, którego obywatelstwo dana osoba posiada. ” , dodaje się ust. 3 i 4 w brzmieniu: „
@@ -246,7 +261,7 @@ source: "eli-html"
 
 - **1)** z członkiem giełdy,
 - **2)** ze spółką prowadzącą giełdę,
-- **3)** ze spółką będącą giełdową izbą rozrachunkową lub pełnienie przez tę osobę funkcji w organach towarowego domu maklerskiego, domu maklerskiego, spółki prowadzącej giełdę lub spółki będącej giełdową izbą rozrachunkową. ” , ust. 3 otrzymuje brzmienie: „
+- **3)** ze spółką będącą giełdową izbą rozrachunkową – lub pełnienie przez tę osobę funkcji w organach towarowego domu maklerskiego, domu maklerskiego, spółki prowadzącej giełdę lub spółki będącej giełdową izbą rozrachunkową. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Przez wykonywanie zawodu maklera giełd towarowych rozumie się również zawieranie transakcji giełdowych przez maklera niezależnego. ” ;
@@ -324,9 +339,14 @@ source: "eli-html"
 2. Rada Ministrów może określić, w drodze rozporządzenia, inne niż określone w ust. 1 czynności:
 
 - **1)** których wykonywanie przez towarowy dom maklerski nie wymaga uzyskania zezwolenia, o ile czynności te są związane z obrotem towarowym,
-- **2)** które mogą być wykonywane przez towarowy dom maklerski po uzyskaniu zezwolenia Komisji ustalając zakres i warunki wykonywania tych czynności. Rozporządzenie powinno uwzględniać zapewnienie bezpieczeństwa obrotu towarami giełdowymi oraz należyte zabezpieczenie interesów klientów. Towarowy dom maklerski może wykonywać wyłącznie czynności określone w zezwoleniu oraz czynności, o których mowa w art. 38e. ” ;
-- **30)** w art. 39: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) listę wspólników albo akcjonariuszy wraz z procentowym określeniem posiadanych przez nich głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, ” , – pkt 13 otrzymuje brzmienie: „ 13) w przypadku wspólników albo akcjonariuszy będących osobami fizycznymi, posiadających co najmniej 5% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub co najmniej 5% kapitału zakładowego wnioskodawcy – dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej działalności gospodarczej oraz informacje o źródłach pochodzenia środków przeznaczonych na nabycie udziałów albo akcji towarowego domu maklerskiego, ” , – dodaje się pkt 14 i 15 w brzmieniu: „ 14) w przypadku wspólników albo akcjonariuszy będących osobami prawnymi, posiadających co najmniej 5% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub co najmniej 5% kapitału zakładowego spółki będącej wnioskodawcą – informację na temat wykonywanej działalności gospodarczej, aktualny odpis z właściwego rejestru oraz ostatnie sprawozdanie finansowe wraz z opinią podmiotu uprawnionego do badania sprawozdań finansowych i raportem z badania, jeżeli badanie jest wymagane przepisami prawa, 15) informację o podmiotach dominujących i zależnych wobec wspólników albo akcjonariuszy posiadających co najmniej 5% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub 5% kapitału zakładowego spółki będącej wnioskodawcą obejmującą wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu lub miejsca zamieszkania oraz opisu prowadzonej działalności gospodarczej. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **2)** które mogą być wykonywane przez towarowy dom maklerski po uzyskaniu zezwolenia Komisji – ustalając zakres i warunki wykonywania tych czynności. Rozporządzenie powinno uwzględniać zapewnienie bezpieczeństwa obrotu towarami giełdowymi oraz należyte zabezpieczenie interesów klientów. Towarowy dom maklerski może wykonywać wyłącznie czynności określone w zezwoleniu oraz czynności, o których mowa w art. 38e. ” ;
+- **30)** w art. 39: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** listę wspólników albo akcjonariuszy wraz z procentowym określeniem posiadanych przez nich głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, ” , pkt 13 otrzymuje brzmienie: „
+- **13)** w przypadku wspólników albo akcjonariuszy będących osobami fizycznymi, posiadających co najmniej 5% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub co najmniej 5% kapitału zakładowego wnioskodawcy – dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej działalności gospodarczej oraz informacje o źródłach pochodzenia środków przeznaczonych na nabycie udziałów albo akcji towarowego domu maklerskiego, ” , dodaje się pkt 14 i 15 w brzmieniu: „
+- **14)** w przypadku wspólników albo akcjonariuszy będących osobami prawnymi, posiadających co najmniej 5% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub co najmniej 5% kapitału zakładowego spółki będącej wnioskodawcą – informację na temat wykonywanej działalności gospodarczej, aktualny odpis z właściwego rejestru oraz ostatnie sprawozdanie finansowe wraz z opinią podmiotu uprawnionego do badania sprawozdań finansowych i raportem z badania, jeżeli badanie jest wymagane przepisami prawa,
+- **15)** informację o podmiotach dominujących i zależnych wobec wspólników albo akcjonariuszy posiadających co najmniej 5% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub 5% kapitału zakładowego spółki będącej wnioskodawcą obejmującą wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu lub miejsca zamieszkania oraz opisu prowadzonej działalności gospodarczej. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
     - **b)**
 
 - **1)** umowę spółki albo statut spółki oraz wyciąg z rejestru przedsiębiorców, ” , ust. 3 otrzymuje brzmienie: „
@@ -449,7 +469,7 @@ source: "eli-html"
 9. W stosunku do podmiotów, o których mowa w art. 9 ust. 3 pkt 4, posiadających zezwolenie, o którym mowa w ust. 1 pkt 2, stosuje się odpowiednio przepisy art. 42, art. 44 i art. 46 pkt 1. Ogłoszenie upadłości, otwarcie postępowania układowego, wszczęcie postępowania egzekucyjnego lub wydanie innego orzeczenia lub decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności:
 
 - **1)** uczestnika Krajowego Depozytu, wykonującego zadania w zakresie rozliczania transakcji zawieranych w obrocie towarami giełdowymi,
-- **2)** członka giełdowej izby rozrachunkowej skutkujących zawieszeniem lub ograniczeniem dokonywania przez te podmioty spłaty zadłużenia albo ograniczających zdolność swobodnego rozporządzania mieniem, nie wywołuje skutków prawnych wobec środków znajdujących się na rachunku lub w rejestrze towarów giełdowych, koncie depozytowym, rachunku pieniężnym lub rachunku bankowym tych podmiotów, służącym do realizacji rozliczeń transakcji w zakresie, w jakim środki te są potrzebne do rozliczenia transakcji w Krajowym Depozycie albo w giełdowej izbie rozrachunkowej, chociażby postępowanie zostało wszczęte albo inne orzeczenie lub decyzja została wydana przed jej rozliczeniem. ” ;
+- **2)** członka giełdowej izby rozrachunkowej – skutkujących zawieszeniem lub ograniczeniem dokonywania przez te podmioty spłaty zadłużenia albo ograniczających zdolność swobodnego rozporządzania mieniem, nie wywołuje skutków prawnych wobec środków znajdujących się na rachunku lub w rejestrze towarów giełdowych, koncie depozytowym, rachunku pieniężnym lub rachunku bankowym tych podmiotów, służącym do realizacji rozliczeń transakcji w zakresie, w jakim środki te są potrzebne do rozliczenia transakcji w Krajowym Depozycie albo w giełdowej izbie rozrachunkowej, chociażby postępowanie zostało wszczęte albo inne orzeczenie lub decyzja została wydana przed jej rozliczeniem. ” ;
 - **41)** uchyla się art. 51;
 - **42)** w art. 53 w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -484,7 +504,7 @@ source: "eli-html"
 - **4)** Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera – w zakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego w prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki, określonym w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2001 r. Nr 85, poz. 937 i Nr 154, poz. 1800 oraz z 2002 r. Nr 153, poz. 1271),
 - **5)** biegłego rewidenta upoważnionego do badania sprawozdań finansowych podmiotu obowiązanego do zachowania tajemnicy zawodowej, na podstawie zawartej z nim umowy – jeżeli jest to niezbędne do celów tego badania,
 - **6)** służb ochrony państwa i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy – w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych,
-- **7)** Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, z późn. zm.),
+- **7)** Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 19, poz. 185, Nr 74, poz. 676, Nr 81, poz. 731, Nr 113, poz. 984, Nr 115, poz. 996, Nr 153, poz. 1271, Nr 176, poz. 1457 i Nr 200, poz. 1688 oraz z 2003 r. Nr 90, poz. 844, Nr 113, poz. 1070, Nr 130, poz. 1188 i 1190, Nr 137, poz. 1302, Nr 166, poz. 1609, Nr 192, poz. 1873 i Nr 210, poz. 2036.),
 - **8)** komornika sądowego – w związku z toczącym się postępowaniem egzekucyjnym.
 
 2. Nie narusza obowiązku zachowania tajemnicy zawodowej przekazywanie, przechowywanie oraz ujawnianie danych w trybie i na warunkach określonych w ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. Nr 50, poz. 424).
@@ -527,7 +547,7 @@ source: "eli-html"
 
 **Art. 61a.** W sprawach o przestępstwa określone w ustawie właściwość prokuratury okręgowej określa się zgodnie z art. 17 ust. 5 ustawy z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2002 r. Nr 21, poz. 206 i Nr 213, poz. 1802). ” .
 
-**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. Nr 49, poz. 447, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. Nr 49, poz. 447, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055 oraz z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774, Nr 124, poz. 1151 i Nr 170, poz. 1651.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 w ust. 7 dodaje się pkt 3a w brzmieniu: „
 - **3a)** izby gospodarczej, o której mowa w art. 49 ust. 1 ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. Nr 103, poz. 1099, z 2002 r. Nr 200, poz. 1686 oraz z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774 i Nr 223, poz. 2216), ” ;
@@ -550,5 +570,5 @@ source: "eli-html"
 
 **Art. 6.** Przepisy art. 27 ust. 3 i 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 4, który wchodzi w życie z dniem ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 4, który wchodzi w życie z dniem ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055 oraz z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774, Nr 124, poz. 1151 i Nr 170, poz. 1651. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 19, poz. 185, Nr 74, poz. 676, Nr 81, poz. 731, Nr 113, poz. 984, Nr 115, poz. 996, Nr 153, poz. 1271, Nr 176, poz. 1457 i Nr 200, poz. 1688 oraz z 2003 r. Nr 90, poz. 844, Nr 113, poz. 1070, Nr 130, poz. 1188 i 1190, Nr 137, poz. 1302, Nr 166, poz. 1609, Nr 192, poz. 1873 i Nr 210, poz. 2036. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055 oraz z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774, Nr 124, poz. 1151 i Nr 170, poz. 1651.
 

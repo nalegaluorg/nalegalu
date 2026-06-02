@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji na Rodowejz dnia 24 lutego 2020 r. w sprawie konkursu na stanowisko dyrektora publicznej placówki doskonalenia nauczycieli prowadzonej przez ministra
+# Rozporządzenie Ministra Edukacji na Rodowejz dnia 24 lutego 2020 r. w sprawie konkursu na stanowisko dyrektora publicznej placówki doskonalenia nauczycieli prowadzonej przez ministra Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-24 |
 | Data wydania | 2020-03-10 |
-| Wejście w życie | 2020-03-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/385/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 63 ust. 7 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 63 ust. 7 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -48,8 +47,7 @@ Od osoby zajmującej stanowisko dyrektora placówki:
 1)
 o której mowa w art. 8 ust. 5 pkt 1 lit. b, ust. 7 pkt 2 i ust. 14 ustawy, jest wymagany co najmniej pięcioletni staż pracy pedagogicznej na stanowisku nauczyciela lub co najmniej pięcioletni staż pracy dydaktycznej na stanowisku nauczyciela akademickiego lub co najmniej pięcioletni staż pracy obejmujący co najmniej dwuletni staż pracy na stanowisku kierowniczym;
 2)
-o której mowa w art. 8 ust. 6 ustawy, jest wymagany co najmniej pięcioletni staż pracy pedagogicznej na stanowisku nauczyciela w szkole artystycznej lub co najmniej pięcioletni staż pracy dydaktycznej na stanowisku nauczyciela akademickiego w uczelni artystycznej lub co najmniej pięcioletni staż pracy obejmujący co najmniej dwuletni staż pracy na stanowisku kierowniczym w szkole artystycznej.
-oraz z 2020 r. poz. 374.
+o której mowa w art. 8 ust. 6 ustawy, jest wymagany co najmniej pięcioletni staż pracy pedagogicznej na stanowisku nauczyciela w szkole artystycznej lub co najmniej pięcioletni staż pracy dydaktycznej na stanowisku nauczyciela akademickiego w uczelni artystycznej lub co najmniej pięcioletni staż pracy obejmujący co najmniej dwuletni staż pracy na stanowisku kierowniczym w szkole artystycznej. oraz z 2020 r. poz. 374.
 2.
 Dodatkowymi wymaganiami, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora placówki, są:
 1)
@@ -209,6 +207,5 @@ innych nieprawidłowości, które mogły mieć wpływ na wynik konkursu.
 § 14.
 Do konkursów na stanowisko dyrektora publicznej placówki doskonalenia, o której mowa w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2 ustawy, ogłoszonych i nierozstrzygniętych przed dniem wejścia w życie rozporządzenia, a także do osób wyłonionych w wyniku tych konkursów, stosuje się przepisy dotychczasowe.
 § 15.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 1 września 2015 r. w sprawie konkursu na stanowisko dyrektora publicznej placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznej placówki doskonalenia nauczycieli szkół artystycznych oraz publicznej placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych (Dz. U. poz. 1356), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 1 września 2015 r. w sprawie konkursu na stanowisko dyrektora publicznej placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznej placówki doskonalenia nauczycieli szkół artystycznych oraz publicznej placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych (Dz. U. poz. 1356), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 1 września 2015 r. w sprawie konkursu na stanowisko dyrektora publicznej placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznej placówki doskonalenia nauczycieli szkół artystycznych oraz publicznej placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych (Dz. U. poz. 1356), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287).
 

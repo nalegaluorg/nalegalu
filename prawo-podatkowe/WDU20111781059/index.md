@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-01 |
 | Data wydania | 2011-08-29 |
-| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111781059) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1059/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2010 r. Nr 51, poz. 307, z późn. zm.) w art. 24c ust. 4 otrzymuje brzmienie: „ 4. Przy obliczaniu różnic kursowych, o których mowa w ust. 2 i 3, uwzględnia się kursy faktycznie zastosowane w przypadku sprzedaży lub kupna walut obcych oraz otrzymania należności lub zapłaty zobowiązań. W pozostałych przypadkach, a także gdy do otrzymanych należności lub zapłaty zobowiązań nie jest możliwe uwzględnienie faktycznie zastosowanego kursu waluty w danym dniu, stosuje się kurs średni ogłaszany przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego ten dzień. ” .
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2010 r. Nr 51, poz. 307, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 352, Nr 75, poz. 473, Nr 105, poz. 655, Nr 149, poz. 996, Nr 182, poz. 1228, Nr 219, poz. 1442, Nr 226, poz. 1475 i 1478 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 84, poz. 455, Nr 102, poz. 585, Nr 106, poz. 622, Nr 120, poz. 690, Nr 131, poz. 764, Nr 149, poz. 887 i Nr 168, poz. 1006.) w art. 24c ust. 4 otrzymuje brzmienie: „ 4. Przy obliczaniu różnic kursowych, o których mowa w ust. 2 i 3, uwzględnia się kursy faktycznie zastosowane w przypadku sprzedaży lub kupna walut obcych oraz otrzymania należności lub zapłaty zobowiązań. W pozostałych przypadkach, a także gdy do otrzymanych należności lub zapłaty zobowiązań nie jest możliwe uwzględnienie faktycznie zastosowanego kursu waluty w danym dniu, stosuje się kurs średni ogłaszany przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego ten dzień. ” .
 
 **Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, Nr 102, poz. 585, Nr 106, poz. 622 i Nr 134, poz. 781) wprowadza się następujące zmiany:
 
@@ -46,5 +45,5 @@ source: "eli-html"
 
 **Art. 3.** Przepis art. 6 ust. 1 pkt 12a ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 1 stycznia 2010 r.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 2 pkt 1 i art. 3, które wchodzą w życie z dniem ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 2 pkt 1 i art. 3, które wchodzą w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 352, Nr 75, poz. 473, Nr 105, poz. 655, Nr 149, poz. 996, Nr 182, poz. 1228, Nr 219, poz. 1442, Nr 226, poz. 1475 i 1478 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 84, poz. 455, Nr 102, poz. 585, Nr 106, poz. 622, Nr 120, poz. 690, Nr 131, poz. 764, Nr 149, poz. 887 i Nr 168, poz. 1006.
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-17 |
 | Data wydania | 2014-10-01 |
-| Wejście w życie | 2014-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001311) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1311/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 81 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.) zarządza się, co następuje:
+Na podstawie art. 81 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 14 maja 2013 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. poz. 644) wprowadza się następujące zmiany:
 1)
@@ -35,19 +34,15 @@ w § 1:
 a)
 uchyla się pkt 2;
 b)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną właściwą do spraw kadr w Komendzie Głównej Policji, Centralnym Biurze Śledczym Policji, Komendzie Stołecznej Policji, komendzie wojewódzkiej Policji, komendzie powiatowej, miejskiej i rejonowej Policji, instytucie badawczym, Wyższej Szkole Policji w Szczytnie oraz szkole policyjnej;
-” ;
+komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną właściwą do spraw kadr w Komendzie Głównej Policji, Centralnym Biurze Śledczym Policji, Komendzie Stołecznej Policji, komendzie wojewódzkiej Policji, komendzie powiatowej, miejskiej i rejonowej Policji, instytucie badawczym, Wyższej Szkole Policji w Szczytnie oraz szkole policyjnej; ” ;
 2)
-w § 14 ust. 2 otrzymuje brzmienie:
-„
+w § 14 ust. 2 otrzymuje brzmienie: „
 2.
-Policjant skierowany do komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych, zwanej dalej „komisją lekarską”, jest obowiązany bez zbędnej zwłoki poddać się badaniom lekarskim zleconym przez komisję lekarską.
-” ;
+Policjant skierowany do komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych, zwanej dalej „komisją lekarską”, jest obowiązany bez zbędnej zwłoki poddać się badaniom lekarskim zleconym przez komisję lekarską. ” ;
 3)
 uchyla się § 4–7 i § 17.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 9 października 2014 r.
+Rozporządzenie wchodzi w życie z dniem 9 października 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.
 

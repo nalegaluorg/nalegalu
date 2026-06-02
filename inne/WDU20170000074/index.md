@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-09 |
 | Data wydania | 2017-01-12 |
-| Wejście w życie | 2017-01-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/74/text.pdf) |
 
@@ -33,11 +32,9 @@ W rozporządzeniu Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfik
 1)
 uchyla się część „36. Skarb Państwa”;
 2)
-część „74. Prokuratoria Generalna Skarbu Państwa” otrzymuje brzmienie:
-„
+część „74. Prokuratoria Generalna Skarbu Państwa” otrzymuje brzmienie: „
 74.
-Prokuratoria Generalna Rzeczypospolitej Polskiej
-” .
+Prokuratoria Generalna Rzeczypospolitej Polskiej ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2017 r.
 

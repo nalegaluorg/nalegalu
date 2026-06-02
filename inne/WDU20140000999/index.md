@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-23 |
 | Data wydania | 2014-07-29 |
-| Wejście w życie | 2014-08-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000999) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/999/text.pdf) |
 
@@ -62,5 +61,5 @@ Kierownika Urzędu do Spraw Kombatantów i Osób Represjonowanych lub Zakład Ub
 3)
 Ministra Pracy i Polityki Socjalnej w okresie od dnia 24 stycznia 1991 r. do dnia 1 sierpnia 1991 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 4 marca 1997 r. w sprawie trybu postępowania przy przyznawaniu, wypłacaniu oraz finansowaniu niektórych świadczeń kombatantom i innym osobom uprawnionym (Dz. U. Nr 21, poz. 109 oraz z 2002 r. Nr 239, poz. 2043), które na podstawie art. 13 ustawy z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 4 marca 1997 r. w sprawie trybu postępowania przy przyznawaniu, wypłacaniu oraz finansowaniu niektórych świadczeń kombatantom i innym osobom uprawnionym (Dz. U. Nr 21, poz. 109 oraz z 2002 r. Nr 239, poz. 2043), które na podstawie art. 13 ustawy z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

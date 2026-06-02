@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 5 marca 2019 r. w sprawie dokumentów dołączanych do oświadczenia o spełnianiu warunków koniecznych do umieszczenia w Ewidencji Pracowniczych Planów Kapitałowych
+# Rozporządzenie Ministra Finansówz dnia 5 marca 2019 r. w sprawie dokumentów dołączanych do oświadczenia o spełnianiu warunków koniecznych do umieszczenia w Ewidencji Pracowniczych Planów Kapitałowych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-05 |
 | Data wydania | 2019-03-11 |
-| Wejście w życie | 2019-03-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000467) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/467/text.pdf) |
 
@@ -43,8 +42,7 @@ wykonywanie działalności przez towarzystwo funduszy inwestycyjnych,
 b)
 utworzenie powszechnego towarzystwa emerytalnego lub pracowniczego towarzystwa emerytalnego albo
 c)
-wykonywanie działalności ubezpieczeniowej w zakresie działu I grupy 3 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2019 r. poz. 381)
-poświadczające posiadanie co najmniej 3-letniego doświadczenia, o którym mowa w art. 59 ust. 1 pkt 1 ustawy;
+wykonywanie działalności ubezpieczeniowej w zakresie działu I grupy 3 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2019 r. poz. 381) – poświadczające posiadanie co najmniej 3-letniego doświadczenia, o którym mowa w art. 59 ust. 1 pkt 1 ustawy;
 4)
 oświadczenie towarzystwa funduszy inwestycyjnych o datach:
 a)
@@ -52,8 +50,7 @@ utworzenia zarządzanych przez nie funduszy inwestycyjnych otwartych lub specjal
 b)
 przejęcia przez nie zarządzania innymi funduszami inwestycyjnymi otwartymi lub specjalistycznymi funduszami inwestycyjnymi otwartymi, w przypadku przejęcia przez towarzystwo zarządzania innymi funduszami, oraz
 c)
-wykreślenia funduszy, o których mowa w lit. a lub lit. b, z rejestru funduszy inwestycyjnych w przypadku rozwiązania takich funduszy
-w przypadku oświadczenia składanego przez towarzystwo funduszy inwestycyjnych;
+wykreślenia funduszy, o których mowa w lit. a lub lit. b, z rejestru funduszy inwestycyjnych w przypadku rozwiązania takich funduszy – w przypadku oświadczenia składanego przez towarzystwo funduszy inwestycyjnych;
 5)
 oświadczenie powszechnego towarzystwa emerytalnego o datach:
 a)
@@ -61,8 +58,7 @@ utworzenia zarządzanego przez nie otwartego funduszu emerytalnego lub dobrowoln
 b)
 przejęcia przez nie zarządzania innym otwartym funduszem emerytalnym lub dobrowolnym funduszem emerytalnym lub połączenia z innym powszechnym towarzystwem emerytalnym, w przypadku przejęcia przez towarzystwo zarządzania innym funduszem lub połączenia z innym towarzystwem, oraz
 c)
-likwidacji funduszu, o którym mowa w lit. a lub lit. b, w przypadku likwidacji takiego funduszu
-w przypadku oświadczenia składanego przez powszechne towarzystwo emerytalne;
+likwidacji funduszu, o którym mowa w lit. a lub lit. b, w przypadku likwidacji takiego funduszu – w przypadku oświadczenia składanego przez powszechne towarzystwo emerytalne;
 6)
 oświadczenie pracowniczego towarzystwa emerytalnego o datach:
 a)
@@ -70,8 +66,7 @@ utworzenia zarządzanego przez nie pracowniczego funduszu emerytalnego,
 b)
 przejęcia przez nie zarządzania innym pracowniczym funduszem emerytalnym lub połączenia z innym pracowniczym towarzystwem emerytalnym, w przypadku przejęcia przez towarzystwo zarządzania innym funduszem lub połączenia z innym towarzystwem, oraz
 c)
-likwidacji funduszu, o którym mowa w lit. a lub lit. b, w przypadku likwidacji takiego funduszu
-w przypadku oświadczenia składanego przez pracownicze towarzystwo emerytalne;
+likwidacji funduszu, o którym mowa w lit. a lub lit. b, w przypadku likwidacji takiego funduszu – w przypadku oświadczenia składanego przez pracownicze towarzystwo emerytalne;
 7)
 oświadczenie zakładu ubezpieczeń o datach:
 a)
@@ -79,8 +74,7 @@ utworzenia ubezpieczeniowych funduszy kapitałowych w ramach umów ubezpieczenia
 b)
 przejęcia portfela ubezpieczeń, o których mowa w lit. a, w przypadku przejęcia przez zakład takiego portfela, oraz
 c)
-likwidacji funduszy, o których mowa w lit. a, w przypadku likwidacji takich funduszy
-w przypadku oświadczenia składanego przez zakład ubezpieczeń;
+likwidacji funduszy, o których mowa w lit. a, w przypadku likwidacji takich funduszy – w przypadku oświadczenia składanego przez zakład ubezpieczeń;
 8)
 oświadczenie towarzystwa funduszy inwestycyjnych, powszechnego towarzystwa emerytalnego, pracowniczego towarzystwa emerytalnego lub zakładu ubezpieczeń o niewydaniu decyzji o cofnięciu zezwolenia, o którym mowa odpowiednio w pkt 3, oraz o wszczętych wobec niego postępowaniach nadzorczych w przedmiocie nieprawidłowości w jego działalności, w przypadku których jedną z przewidzianych sankcji jest cofnięcie zezwolenia, o którym mowa odpowiednio w pkt 3, albo o niewszczęciu takich postępowań;
 9)
@@ -102,6 +96,5 @@ poświadczone przez sąd rejestrowy odpisy jego postanowień zarządzających wp
 17)
 regulaminy lokowania środków ubezpieczeniowych funduszy kapitałowych, o których mowa w art. 23 ust. 1 pkt 3 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, w odniesieniu do funduszy, o których mowa w art. 38 ustawy – w przypadku oświadczenia składanego przez zakład ubezpieczeń.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 

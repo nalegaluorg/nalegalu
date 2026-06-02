@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-05 |
 | Data wydania | 2013-05-29 |
-| Wejście w życie | 2013-06-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000621) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/621/text.pdf) |
 
@@ -143,7 +142,7 @@ source: "eli-html"
 
 1. Pomoc finansowa, o której mowa w art. 46 ust. 1 pkt 1, oraz zaliczka, o której mowa w art. 46 ust. 1a, pobrane nienależnie lub w nadmiernej wysokości podlegają zwrotowi. Zwrotowi podlega odpowiednio ta część środków, która została pobrana nienależnie lub w nadmiernej wysokości.
 
-2. Do środków podlegających zwrotowi zgodnie z ust. 1 stosuje się odpowiednio przepisy ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.) dotyczące nienależnie lub nadmiernie pobranych krajowych środków publicznych, przeznaczonych na współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej, które zostały przekazane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa w związku z realizacją Wspólnej Polityki Rolnej. ” ;
+2. Do środków podlegających zwrotowi zgodnie z ust. 1 stosuje się odpowiednio przepisy ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726, z 2011 r. Nr 34, poz. 168 oraz z 2012 r. poz. 243.) dotyczące nienależnie lub nadmiernie pobranych krajowych środków publicznych, przeznaczonych na współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej, które zostały przekazane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa w związku z realizacją Wspólnej Polityki Rolnej. ” ;
 
 - **15)** w art. 56 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** organizacji producentów w zakresie spełnienia warunków do przyznania i wypłacenia pomocy finansowej, o której mowa w art. 46 ust. 1 pkt 2, oraz zaliczki, o której mowa w art. 46 ust. 1a; ” ;
@@ -158,5 +157,5 @@ source: "eli-html"
 
 **Art. 4.** Przepisy wykonawcze wydane na podstawie art. 20 i art. 47 ust. 4 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 i art. 47 ust. 4 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia w życie.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961, z 2010 r. Nr 76, poz. 490 i Nr 257, poz. 1726, z 2011 r. Nr 34, poz. 168 oraz z 2012 r. poz. 243.
 

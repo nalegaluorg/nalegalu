@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 16 września 2016 r. w sprawie wykazu gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2015
+# Rozporządzenie Ministra Rozwojuz dnia 16 września 2016 r. w sprawie wykazu gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2015 Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895 oraz z 2016 r. poz. 1359).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-16 |
 | Data wydania | 2016-09-28 |
-| Wejście w życie | 2016-10-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001562) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1562/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2015
 Treść rozporządzenia
-Na podstawie art. 10 ust. 7 ustawy z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. poz. 1840, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 10 ust. 7 ustawy z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. poz. 1840, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 1291 i 2703, z 2005 r. poz. 1539, z 2006 r. poz. 997, z 2013 r. poz. 1646 oraz z 2014 r. poz. 1854.) zarządza się, co następuje:
 § 1.
 Ustala się wykaz gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2015, które w roku podatkowym 2015 nie uzyskały dochodów na skutek zwolnienia przedsiębiorców, o których mowa w art. 10 ust. 1 ustawy z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw, z podatku od nieruchomości, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895 oraz z 2016 r. poz. 1359). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 1291 i 2703, z 2005 r. poz. 1539, z 2006 r. poz. 997, z 2013 r. poz. 1646 oraz z 2014 r. poz. 1854.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895 oraz z 2016 r. poz. 1359). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 1291 i 2703, z 2005 r. poz. 1539, z 2006 r. poz. 997, z 2013 r. poz. 1646 oraz z 2014 r. poz. 1854.
 Załącznik – Wykaz gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2015
 1.
 Województwo dolnośląskie Kłodzko m. Legnica m. Polkowice Wałbrzych m.

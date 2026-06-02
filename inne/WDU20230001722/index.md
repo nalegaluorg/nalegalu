@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-13 |
 | Data wydania | 2023-08-29 |
-| Wejście w życie | 2023-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1722/text.pdf) |
 
@@ -163,7 +162,7 @@ source: "eli-html"
 **Art. 10.** Wójt (burmistrz, prezydent miasta) informuje o wydaniu decyzji o nabyciu nieruchomości oraz o dacie, kiedy decyzja ta stała się ostateczna:
 
 - **1)** pisemnie zarządców dróg, które łączą się lub przecinają się z drogą ogólnodostępną objętą tą decyzją oraz
-- **2)** w drodze obwieszczenia w urzędzie gminy oraz w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu gminy w terminie 14 dni od dnia, kiedy decyzja o nabyciu nieruchomości stała się ostateczna.
+- **2)** w drodze obwieszczenia w urzędzie gminy oraz w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu gminy – w terminie 14 dni od dnia, kiedy decyzja o nabyciu nieruchomości stała się ostateczna.
 
 **Art. 11.**
 

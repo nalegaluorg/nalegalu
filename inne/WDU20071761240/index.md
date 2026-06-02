@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o zakładach opieki zdrowotnej oraz ustawy – Prawo o szkolnictwie wyższym
+# Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o zakładach opieki zdrowotnej oraz ustawy – Prawo o szkolnictwie wyższym Niniejsza ustawa wdraża przepisy dyrektywy 2003/88/WE Parlamentu Europejskiego i Rady z dnia 4 listopada 2003 r. dotyczącej niektórych aspektów organizacji czasu pracy (Dz. Urz. WE L 299 z 18.11.2003, str. 9; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 381).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-08-24 |
 | Data wydania | 2007-09-25 |
-| Wejście w życie | 2008-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071761240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1240/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
 3. Czas pracy pracowników komórek organizacyjnych (zakładów, pracowni):
 
 - **1)** radiologii, radioterapii, medycyny nuklearnej – stosujących w celach diagnostycznych lub leczniczych źródła promieniowania jonizującego,
-- **2)** fizykoterapii, patomorfologu, histopatologii, cytopatologii, cytodiagnostyki, medycyny sądowej lub prosektoriów w zakresie określonym w ust. 5, nie może przekraczać 5 godzin na dobę i przeciętnie 25 godzin na tydzień w przeciętnie pięciodniowym tygodniu pracy w przyjętym okresie rozliczeniowym.
+- **2)** fizykoterapii, patomorfologu, histopatologii, cytopatologii, cytodiagnostyki, medycyny sądowej lub prosektoriów – w zakresie określonym w ust. 5, nie może przekraczać 5 godzin na dobę i przeciętnie 25 godzin na tydzień w przeciętnie pięciodniowym tygodniu pracy w przyjętym okresie rozliczeniowym.
 
 4. Czas pracy pracowników niewidomych zatrudnionych na stanowiskach wymagających kontaktu z pacjentami, w przyjętym okresie rozliczeniowym, nie może przekraczać 6 godzin na dobę i przeciętnie 30 godzin na tydzień w przeciętnie pięciodniowym tygodniu pracy w przyjętym okresie rozliczeniowym.
 
@@ -127,7 +126,7 @@ source: "eli-html"
 
 3. Przepis art. 32k ust. 3 stosuje się odpowiednio. ” .
 
-**Art. 2.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658 oraz z 2007 r. Nr 80, poz. 542, Nr 120, poz. 818 i Nr 176, poz. 1238.) wprowadza się następujące zmiany:
 
 - **1)** w art. 94: w ust. 1 pkt 8 otrzymuje brzmienie: „
     - **a)**
@@ -142,5 +141,5 @@ source: "eli-html"
     - **b)**
     - **aa)**
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2008 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2008 r. 1) Niniejsza ustawa wdraża przepisy dyrektywy 2003/88/WE Parlamentu Europejskiego i Rady z dnia 4 listopada 2003 r. dotyczącej niektórych aspektów organizacji czasu pracy (Dz. Urz. WE L 299 z 18.11.2003, str. 9; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 381). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658 oraz z 2007 r. Nr 80, poz. 542, Nr 120, poz. 818 i Nr 176, poz. 1238.
 

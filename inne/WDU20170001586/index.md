@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-09 |
 | Data wydania | 2017-08-25 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1586/text.pdf) |
 
@@ -68,13 +67,189 @@ Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł zmniejszenie zw
 
 ## Załącznik nr 2 — – Szczegółowy podział planowanych wydatków budżetowych, w tym wynagrodzeń
 
-Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł zmniejszenie zwiększenie 1 2 3 4 5 6 7 35 Rynki rolne 190 401 000 500 Handel 190 401 000 50002 Agencja Rynku Rolnego 190 401 000 2009 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy z dnia 27 sierpnia2009 r. o finansachpublicznych(Dz. U. z 2016 r. poz. 1870, z późn. zm.), zwanej dalej „ustawą”, lub płatności w ramachbudżetu środkóweuropejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 29 775 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 41 611 000 2800 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 115 390 000 2808 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 639 000 2809 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 365 000 6220 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupówinwestycyjnych innych jednostek sektora finansów publicznych 2 621 000 44 Zabezpieczenie społeczne 5 102 473 500 Handel 5 102 473 50002 Agencja Rynku Rolnego 5 102 473 2008 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 2 980 928 2009 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 2 121 545 33 Rozwój wsi 190 401 000 010 Rolnictwo i łowiectwo 190 401 000 01027 Agencja Restrukturyzacji i Modernizacji Rolnictwa 129 998 000 2009 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 29 775 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 9 668 000 2800 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 90 555 000 01024 Działalność Krajowego Ośrodka Wsparcia Rolnictwa 60 403 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 31 943 000 2800 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 24 835 000 2808 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 639 000 2809 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 365 000 6220 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupówinwestycyjnych innych jednostek sektora finansów publicznych 2 621 000 44 Zabezpieczenie społeczne 5 102 473 010 Rolnictwo i łowiectwo 5 102 473 01024 Działalność Krajowego Ośrodka Wsparcia Rolnictwa 5 102 473 2008 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 2 980 928 2009 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 2 121 545
+Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł zmniejszenie zwiększenie 1 2 3 4 5 6 7 35 Rynki rolne 190 401 000 500 Handel 190 401 000 50002 Agencja Rynku Rolnego 190 401 000 2009 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy z dnia 27 sierpnia
+2009 r. o finansach
+publicznych
+(Dz. U. z 2016 r.
+poz. 1870, z późn. zm.),
+zwanej dalej „ustawą”,
+lub płatności w ramach
+budżetu środków
+europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 29 775 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 41 611 000 2800 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 115 390 000 2808 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 639 000 2809 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 365 000 6220 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów
+inwestycyjnych innych jednostek sektora finansów publicznych 2 621 000 44 Zabezpieczenie społeczne 5 102 473 500 Handel 5 102 473 50002 Agencja Rynku Rolnego 5 102 473 2008 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 2 980 928 2009 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 2 121 545 33 Rozwój wsi 190 401 000 010 Rolnictwo i łowiectwo 190 401 000 01027 Agencja Restrukturyzacji i Modernizacji Rolnictwa 129 998 000 2009 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 29 775 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 9 668 000 2800 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 90 555 000 01024 Działalność Krajowego Ośrodka Wsparcia Rolnictwa 60 403 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 31 943 000 2800 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 24 835 000 2808 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 639 000 2809 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 365 000 6220 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów
+inwestycyjnych innych jednostek sektora finansów publicznych 2 621 000 44 Zabezpieczenie społeczne 5 102 473 010 Rolnictwo i łowiectwo 5 102 473 01024 Działalność Krajowego Ośrodka Wsparcia Rolnictwa 5 102 473 2008 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 2 980 928 2009 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 2 121 545
 
 ## Załącznik nr 3 — – Przeniesienia planowanych kwot wynagrodzeń
 
-Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł zmniejszenie zwiększenie 1 2 3 4 5 6 7 35 Rynki rolne 18 909 000 500 Handel 18 909 000 50002 Agencja Rynku Rolnego 18 909 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 18 163 000 2808 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 475 000 2809 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 271 000 44 Zabezpieczenie społeczne 928 326 500 Handel 928 326 50002 Agencja Rynku Rolnego 928 326 2008 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 789 077 2009 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 139 249 33 Rozwój wsi 18 909 000 010 Rolnictwo i łowiectwo 18 909 000 01024 Działalność Krajowego Ośrodka Wsparcia Rolnictwa 12 998 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 12 252 000 2808 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 475 000 2809 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 271 000 01027 Agencja Restrukturyzacji i Modernizacji Rolnictwa 5 911 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 5 911 000 44 Zabezpieczenie społeczne 928 326 010 Rolnictwo i łowiectwo 928 326 01024 Działalność Krajowego Ośrodka Wsparcia Rolnictwa 928 326 2008 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 789 077 2009 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 139 249
+Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł zmniejszenie zwiększenie 1 2 3 4 5 6 7 35 Rynki rolne 18 909 000 500 Handel 18 909 000 50002 Agencja Rynku Rolnego 18 909 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 18 163 000 2808 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 475 000 2809 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 271 000 44 Zabezpieczenie społeczne 928 326 500 Handel 928 326 50002 Agencja Rynku Rolnego 928 326 2008 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 789 077 2009 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 139 249 33 Rozwój wsi 18 909 000 010 Rolnictwo i łowiectwo 18 909 000 01024 Działalność Krajowego Ośrodka Wsparcia Rolnictwa 12 998 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 12 252 000 2808 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 475 000 2809 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych 271 000 01027 Agencja Restrukturyzacji i Modernizacji Rolnictwa 5 911 000 2570 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych 5 911 000 44 Zabezpieczenie społeczne 928 326 010 Rolnictwo i łowiectwo 928 326 01024 Działalność Krajowego Ośrodka Wsparcia Rolnictwa 928 326 2008 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 789 077 2009 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 139 249
 
 ## Załącznik nr 4 — – Szczegółowy podział planowanych wydatków budżetowych środków europejskich
 
-Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł zmniejszenie zwiększenie 1 2 3 4 5 6 7 44 Zabezpieczenie społeczne 9 043 859 500 Handel 9 043 859 50002 Agencja Rynku Rolnego 9 043 859 2007 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 9 043 859 44 Zabezpieczenie społeczne 9 043 859 010 Rolnictwo i łowiectwo 9 043 859 01024 Działalność Krajowego Ośrodka Wsparcia Rolnictwa 9 043 859 2007 Dotacje celowew ramach programówfinansowanychz udziałem środkóweuropejskich orazśrodków, o którychmowa w art. 5 ust. 1pkt 3 oraz ust. 3 pkt 5 i 6ustawy, lub płatnościw ramach budżetuśrodków europejskich, z wyłączeniemwydatkówklasyfikowanychw paragrafie 205 9 043 859
+Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł zmniejszenie zwiększenie 1 2 3 4 5 6 7 44 Zabezpieczenie społeczne 9 043 859 500 Handel 9 043 859 50002 Agencja Rynku Rolnego 9 043 859 2007 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 9 043 859 44 Zabezpieczenie społeczne 9 043 859 010 Rolnictwo i łowiectwo 9 043 859 01024 Działalność Krajowego Ośrodka Wsparcia Rolnictwa 9 043 859 2007 Dotacje celowe
+w ramach programów
+finansowanych
+z udziałem środków
+europejskich oraz
+środków, o których
+mowa w art. 5 ust. 1
+pkt 3 oraz ust. 3 pkt 5 i 6
+ustawy, lub płatności
+w ramach budżetu
+środków europejskich,
+z wyłączeniem
+wydatków
+klasyfikowanych
+w paragrafie 205 9 043 859
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach oraz ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-15 |
 | Data wydania | 2015-01-22 |
-| Wejście w życie | 2015-02-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000122) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/122/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87.) wprowadza się następujące zmiany:
 
 - **1)** w art. 20: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -106,10 +105,13 @@ source: "eli-html"
 - **2)** regionalne instalacje do przetwarzania odpadów komunalnych w poszczególnych regionach gospodarki odpadami komunalnymi oraz instalacje przewidziane do zastępczej obsługi tych regionów, w przypadku gdy znajdująca się w nich instalacja uległa awarii lub nie może przyjmować odpadów z innych przyczyn. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
-2a. Uchwała w sprawie wykonania wojewódzkiego planu gospodarki odpadami może wskazać spalarnię odpadów komunalnych jako ponadregionalną spalarnię odpadów komunalnych, jeżeli wynika to z wojewódzkiego planu gospodarki odpadami. ” , w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) zakończenia budowy i oddania do użytkowania regionalnej instalacji do przetwarzania odpadów komunalnych określonej w wojewódzkim planie gospodarki odpadami, lub ” , – dodaje się pkt 3 i 4 w brzmieniu: „ 3) zakończenia budowy i oddania do użytkowania ponadregionalnej spalarni odpadów komunalnych określonej w wojewódzkim planie gospodarki odpadami, lub 4) jeżeli instalacja, która uzyskała status regionalnej instalacji do przetwarzania odpadów komunalnych lub ponadregionalnej spalarni odpadów komunalnych nie spełnia wymagań ochrony środowiska lub odpowiednio wymagań dotyczących regionalnej instalacji do przetwarzania odpadów komunalnych albo ponadregionalnej spalarni odpadów komunalnych. ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+2a. Uchwała w sprawie wykonania wojewódzkiego planu gospodarki odpadami może wskazać spalarnię odpadów komunalnych jako ponadregionalną spalarnię odpadów komunalnych, jeżeli wynika to z wojewódzkiego planu gospodarki odpadami. ” , w ust. 3: pkt 2 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **2)** zakończenia budowy i oddania do użytkowania regionalnej instalacji do przetwarzania odpadów komunalnych określonej w wojewódzkim planie gospodarki odpadami, lub ” , dodaje się pkt 3 i 4 w brzmieniu: „
+- **3)** zakończenia budowy i oddania do użytkowania ponadregionalnej spalarni odpadów komunalnych określonej w wojewódzkim planie gospodarki odpadami, lub
+- **4)** jeżeli instalacja, która uzyskała status regionalnej instalacji do przetwarzania odpadów komunalnych lub ponadregionalnej spalarni odpadów komunalnych nie spełnia wymagań ochrony środowiska lub odpowiednio wymagań dotyczących regionalnej instalacji do przetwarzania odpadów komunalnych albo ponadregionalnej spalarni odpadów komunalnych. ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+    - **d)**
 
 3a. Dokonanie zmiany uchwały w sprawie wykonania wojewódzkiego planu gospodarki odpadami w przypadkach, o których mowa w ust. 3 pkt 2 i 3, odbywa się na pisemny wniosek prowadzącego instalację.
 
@@ -128,7 +130,7 @@ source: "eli-html"
 **Art. 40.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
 
 - **1)** sposób i formę sporządzania wojewódzkiego planu gospodarki odpadami oraz wzór planu inwestycyjnego,
-- **2)** szczegółowy zakres, sposób i formę sporządzania sprawozdania z realizacji wojewódzkiego planu gospodarki odpadami kierując się potrzebą ujednolicenia sposobu przygotowywania wojewódzkich planów gospodarki odpadami wraz z planami inwestycyjnymi oraz sprawozdań z realizacji tych planów, a także przepisami prawa Unii Europejskiej. ” ;
+- **2)** szczegółowy zakres, sposób i formę sporządzania sprawozdania z realizacji wojewódzkiego planu gospodarki odpadami – kierując się potrzebą ujednolicenia sposobu przygotowywania wojewódzkich planów gospodarki odpadami wraz z planami inwestycyjnymi oraz sprawozdań z realizacji tych planów, a także przepisami prawa Unii Europejskiej. ” ;
 - **9)** w art. 41 w ust. 3 w pkt 1 lit. c otrzymuje brzmienie: „ dla regionalnych instalacji do przetwarzania odpadów komunalnych i dla instalacji określonych w wojewódzkim planie gospodarki odpadami jako regionalne instalacje do przetwarzania odpadów komunalnych; ” ;
     - **c)**
 
@@ -161,7 +163,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2013 r. poz. 1399 i 1593 oraz z 2015 r. poz. 87) w art. 9e po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Dopuszcza się przekazywanie zmieszanych odpadów komunalnych do ponadregionalnej instalacji do przetwarzania odpadów komunalnych, o której mowa w art. 35 ust. 6a ustawy z dnia 14 grudnia 2012 r. o odpadach. ” .
 
-**Art. 3.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662.) wprowadza się następujące zmiany:
 
 - **1)** w art. 186 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
 - **7)** regionalna instalacja do przetwarzania odpadów komunalnych lub ponadregionalna instalacja do przetwarzania odpadów komunalnych nie spełnia wymagań ochrony środowiska lub wymagań określonych dla takiej instalacji. ” ;
@@ -183,6 +185,6 @@ source: "eli-html"
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1:
 
 - **1)** pkt 11 i 13, które wchodzą w życie z dniem ogłoszenia, z mocą od dnia 23 stycznia 2015 r.;
-- **2)** pkt 3 lit. a i lit. b w zakresie art. 35 ust. 4a oraz pkt 6 lit. a, które wchodzą w życie z dniem 1 lipca 2018 r.
+- **2)** pkt 3 lit. a i lit. b w zakresie art. 35 ust. 4a oraz pkt 6 lit. a, które wchodzą w życie z dniem 1 lipca 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach oraz ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662.
 
 

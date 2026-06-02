@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-01-10 |
 | Data wydania | 2012-01-19 |
-| Wejście w życie | 2012-02-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000067) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/67/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 9 ust. 2 ustawy z dnia 2 marca 2001 r. o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych (Dz. U. Nr 31, poz. 353, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 9 ust. 2 ustawy z dnia 2 marca 2001 r. o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych (Dz. U. Nr 31, poz. 353, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 166, poz. 1362, z 2004 r. Nr 29, poz. 257 i Nr 173, poz. 1808, z 2009 r. Nr 3, poz. 11 oraz z 2011 r. Nr 171, poz. 1016.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 czerwca 2008 r. w sprawie środków dopuszczonych do skażania alkoholu etylowego (Dz. U. Nr 120, poz. 776) w załączniku uchyla się lp. 20 oraz lp. 22–24.
 § 2.
 Środki skażające określone w załączniku do rozporządzenia, o którym mowa w § 1, w lp. 20 oraz lp. 22–24 mogą być stosowane jako środek skażający alkohol etylowy nie dłużej niż przez sześć miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 166, poz. 1362, z 2004 r. Nr 29, poz. 257 i Nr 173, poz. 1808, z 2009 r. Nr 3, poz. 11 oraz z 2011 r. Nr 171, poz. 1016.
 

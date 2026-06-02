@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-15 |
 | Data wydania | 2021-04-29 |
-| Wejście w życie | 2021-05-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/803/text.pdf) |
 
@@ -182,14 +181,24 @@ source: "eli-html"
 1a. Kontrakt socjalny z osobą bezdomną zawiera pracownik socjalny ośrodka pomocy społecznej właściwego ze względu na miejsce pobytu osoby ubiegającej się o świadczenie, który odpowiada za realizację oraz ocenę realizacji działań zawartych w kontrakcie. W takim przypadku treść kontraktu socjalnego przed jego zawarciem uzgadnia się z pracownikiem socjalnym ośrodka pomocy społecznej właściwego ze względu na ostatnie miejsce zameldowania tej osoby na pobyt stały. ” ;
 
 - **27)** w art. 112 uchyla się ust. 4;
-- **28)** w art. 116: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) ukończyła studia na kierunku praca socjalna lub w zakresie pracy socjalnej; ” , – w pkt 3 w lit. g kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) ukończyła studia podyplomowe z zakresu metodyki i metodologii pracy socjalnej w uczelni realizującej studia na kierunku praca socjalna lub w zakresie pracy socjalnej, po uprzednim ukończeniu studiów na jednym z kierunków, o których mowa w pkt 3. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+- **28)** w art. 116: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** ukończyła studia na kierunku praca socjalna lub w zakresie pracy socjalnej; ” , w pkt 3 w lit. g kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** ukończyła studia podyplomowe z zakresu metodyki i metodologii pracy socjalnej w uczelni realizującej studia na kierunku praca socjalna lub w zakresie pracy socjalnej, po uprzednim ukończeniu studiów na jednym z kierunków, o których mowa w pkt 3. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
     - **b)**
 
 1b. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, minimalne wymogi programowe dla studiów podyplomowych z zakresu metodyki i metodologii pracy socjalnej w uczelni realizującej studia na kierunku praca socjalna lub w zakresie pracy socjalnej, z uwzględnieniem tematyki wykładów oraz minimalnej liczby godzin ich trwania, biorąc pod uwagę kwalifikacje i umiejętności niezbędne dla prawidłowego wykonywania zawodu pracownika socjalnego. ” ;
 
-- **29)** w art. 119: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) przeprowadzanie rodzinnych wywiadów środowiskowych; ” , – pkt 2–4 otrzymują brzmienie: „ 2) dokonywanie analizy, diagnozy i oceny zjawisk indywidualnych i społecznych, a także formułowanie opinii w zakresie zapotrzebowania na świadczenia z pomocy społecznej oraz kwalifikowanie do uzyskania tych świadczeń; 3) udzielanie informacji, wskazówek, porad i pomocy w zakresie rozwiązywania spraw życiowych osobom, rodzinom, grupom i społecznościom, które dzięki tej pomocy będą zdolne samodzielnie rozwiązywać problemy będące przyczyną ich trudnej sytuacji lub zaspokajać niezbędne potrzeby życiowe; 4) pomoc w uzyskaniu dla osób lub rodzin będących w trudnej sytuacji życiowej specjalistycznego poradnictwa, terapii lub innych form pomocy w zakresie możliwości rozwiązywania problemów przez właściwe instytucje państwowe, samorządowe i organizacje pozarządowe; ” , – pkt 7 otrzymuje brzmienie: „ 7) współpraca i współdziałanie z innymi specjalistami w celu przeciwdziałania i ograniczania problemów oraz skutków negatywnych zjawisk społecznych, łagodzenie konsekwencji ubóstwa; ” , – w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „ 10) inicjowanie lub współuczestniczenie w działaniach profilaktycznych nakierowanych na zapobieganie lub łagodzenie problemów społecznych. ” , w ust. 2 w pkt 3 wyrazy „rodzinę lub grupę” zastępuje się wyrazami „rodzinę, grupę lub społeczność”;
+- **29)** w art. 119: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** przeprowadzanie rodzinnych wywiadów środowiskowych; ” , pkt 2–4 otrzymują brzmienie: „
+- **2)** dokonywanie analizy, diagnozy i oceny zjawisk indywidualnych i społecznych, a także formułowanie opinii w zakresie zapotrzebowania na świadczenia z pomocy społecznej oraz kwalifikowanie do uzyskania tych świadczeń;
+- **3)** udzielanie informacji, wskazówek, porad i pomocy w zakresie rozwiązywania spraw życiowych osobom, rodzinom, grupom i społecznościom, które dzięki tej pomocy będą zdolne samodzielnie rozwiązywać problemy będące przyczyną ich trudnej sytuacji lub zaspokajać niezbędne potrzeby życiowe;
+- **4)** pomoc w uzyskaniu dla osób lub rodzin będących w trudnej sytuacji życiowej specjalistycznego poradnictwa, terapii lub innych form pomocy w zakresie możliwości rozwiązywania problemów przez właściwe instytucje państwowe, samorządowe i organizacje pozarządowe; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** współpraca i współdziałanie z innymi specjalistami w celu przeciwdziałania i ograniczania problemów oraz skutków negatywnych zjawisk społecznych, łagodzenie konsekwencji ubóstwa; ” , w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+- **10)** inicjowanie lub współuczestniczenie w działaniach profilaktycznych nakierowanych na zapobieganie lub łagodzenie problemów społecznych. ” , w ust. 2 w pkt 3 wyrazy „rodzinę lub grupę” zastępuje się wyrazami „rodzinę, grupę lub społeczność”;
     - **b)**
 
 - **30)** w art. 121: ust. 1 otrzymuje brzmienie: „
@@ -301,7 +310,7 @@ source: "eli-html"
 **Art. 12.** Do wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy postępowań prowadzonych przez organy pierwszej i drugiej instancji w sprawie wymierzenia kar pieniężnych:
 
 - **1)** za nierealizowanie zaleceń pokontrolnych stosuje się przepis art. 130 ust. 1,
-- **2)** za prowadzenie bez zezwolenia placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku stosuje się przepisy art. 130 ust. 2, 4 i 4a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+- **2)** za prowadzenie bez zezwolenia placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku stosuje się przepisy art. 130 ust. 2, 4 i 4a – ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
 **Art. 13.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 27 lutego 2017 r. zmieniające rozporządzenie w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 27 lutego 2017 r. zmieniające rozporządzenie w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-27 |
 | Data wydania | 2017-03-01 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/425/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 83 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 14 lutego 2003 r. w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U. poz. 266 oraz z 2011 r. poz. 96) w § 1 we wprowadzeniu do wyliczenia wyrazy „ministrowi właściwemu do spraw finansów publicznych” zastępuje się wyrazami „Szefowi Krajowej Administracji Skarbowej”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

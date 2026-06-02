@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2020 r. poz. 251), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 listopada 2020 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 76 ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 76 ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875), który stanowi: „
 
 **Art. 76.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
@@ -62,7 +61,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
     - **a)**
     - **b)**
 
-- **2)** warunki i tryb przyznawania, wypłaty oraz zwrotu pomocy finansowej na realizację: działań objętych priorytetami zawartymi w programie operacyjnym, zwanej dalej „pomocą”, zadań określonych w art. 59 rozporządzenia nr 1303/2013 oraz w art. 78 ust. 1 rozporządzenia nr 508/2014, zwanej dalej „pomocą techniczną” w zakresie nieokreślonym w przepisach Unii Europejskiej, o których mowa w pkt 1, lub przewidzianym w tych przepisach do określenia przez państwo członkowskie Unii Europejskiej.
+- **2)** warunki i tryb przyznawania, wypłaty oraz zwrotu pomocy finansowej na realizację: działań objętych priorytetami zawartymi w programie operacyjnym, zwanej dalej „pomocą”, zadań określonych w art. 59 rozporządzenia nr 1303/2013 oraz w art. 78 ust. 1 rozporządzenia nr 508/2014, zwanej dalej „pomocą techniczną” – w zakresie nieokreślonym w przepisach Unii Europejskiej, o których mowa w pkt 1, lub przewidzianym w tych przepisach do określenia przez państwo członkowskie Unii Europejskiej.
     - **a)**
     - **b)**
 
@@ -90,7 +89,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
     - **o)**
     - **p)**
 
-- **2)** Priorytet 2. Wspieranie akwakultury zrównoważonej środowiskowo, zasobooszczędnej, innowacyjnej, konkurencyjnej i opartej na wiedzy, który obejmuje następujące działania: innowacje, o których mowa w art. 47 rozporządzenia nr 508/2014, usługi z zakresu zarządzania, zastępstw i doradztwa dla gospodarstw akwakultury, o których mowa w art. 49 rozporządzenia nr 508/2014, inwestycje produkcyjne w akwakulturę – obejmujące następujące poddziałania: – o których mowa w art. 48 ust. 1 lit. a-d oraz f-h rozporządzenia nr 508/2014, – zwiększanie efektywności energetycznej i odnawialne źródła energii, o których mowa w art. 48 ust. 1 lit. k rozporządzenia nr 508/2014, – efektywne gospodarowanie zasobami, zmniejszenie zużycia wody i chemikaliów, systemy recyrkulacji minimalizujące zużycie wody, o których mowa w art. 48 ust. 1 lit. e, i oraz j rozporządzenia nr 508/2014, zachęcanie nowych hodowców do rozpoczęcia działalności w sektorze zrównoważonej akwakultury, o którym mowa w art. 52 rozporządzenia nr 508/2014, akwakultura świadcząca usługi środowiskowe, o której mowa w art. 54 rozporządzenia nr 508/2014, promowanie kapitału ludzkiego i tworzenia sieci kontaktów, o których mowa w art. 50 rozporządzenia nr 508/2014, ubezpieczenie zasobów akwakultury, o którym mowa w art. 57 rozporządzenia nr 508/2014, środki dotyczące zdrowia publicznego, o których mowa w art. 55 ust. 1 lit. b rozporządzenia nr 508/2014;
+- **2)** Priorytet 2. Wspieranie akwakultury zrównoważonej środowiskowo, zasobooszczędnej, innowacyjnej, konkurencyjnej i opartej na wiedzy, który obejmuje następujące działania: innowacje, o których mowa w art. 47 rozporządzenia nr 508/2014, usługi z zakresu zarządzania, zastępstw i doradztwa dla gospodarstw akwakultury, o których mowa w art. 49 rozporządzenia nr 508/2014, inwestycje produkcyjne w akwakulturę – obejmujące następujące poddziałania: – o których mowa w art. 48 ust. 1 lit. a-d oraz f-h rozporządzenia nr 508/2014, – zwiększanie efektywności energetycznej i odnawialne źródła energii, o których mowa w art. 48 ust. 1 lit. k rozporządzenia nr 508/2014, – efektywne gospodarowanie zasobami, zmniejszenie zużycia wody i chemikaliów, systemy recyrkulacji minimalizujące zużycie wody, o których mowa w art. 48 ust. 1 lit. e, i oraz j rozporządzenia nr 508/2014, zachęcanie nowych hodowców do rozpoczęcia działalności w sektorze zrównoważonej akwakultury, o którym mowa w art. 52 rozporządzenia nr 508/2014, akwakultura świadcząca usługi środowiskowe, o której mowa w art. 54 rozporządzenia nr 508/2014, promowanie kapitału ludzkiego i tworzenia sieci kontaktów, o których mowa w art. 50 rozporządzenia nr 508/2014, ubezpieczenie zasobów akwakultury, o którym mowa w art. 57 rozporządzenia nr 508/2014, hDodana przez art. 28 ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875), która weszła w życie z dniem 16 maja 2020 r.) środki dotyczące zdrowia publicznego, o których mowa w art. 55 ust. 1 lit. b rozporządzenia nr 508/2014;
     - **a)**
     - **b)**
     - **c)**
@@ -98,7 +97,6 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
     - **e)**
     - **f)**
     - **g)**
-    - **h)**
 
 - **3)** Priorytet 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, który obejmuje następujące działania: kontrolę i egzekwowanie, o których mowa w art. 76 rozporządzenia nr 508/2014, gromadzenie danych, o którym mowa w art. 77 rozporządzenia nr 508/2014;
     - **a)**
@@ -216,7 +214,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 12.** Pomoc nie przysługuje podmiotowi:
 
-- **1)** wobec którego został orzeczony prawomocnym wyrokiem sądu zakaz dostępu do środków, o których mowa w art. 5 ust. 3 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.), zakaz korzystania z dotacji, subwencji lub innych form wsparcia finansowego środkami publicznymi lub zakaz ubiegania się o zamówienia publiczne;
+- **1)** wobec którego został orzeczony prawomocnym wyrokiem sądu zakaz dostępu do środków, o których mowa w art. 5 ust. 3 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.), zakaz korzystania z dotacji, subwencji lub innych form wsparcia finansowego środkami publicznymi lub zakaz ubiegania się o zamówienia publiczne;
 - **2)** wobec którego sąd ogłosił upadłość;
 - **3)** który jest wpisany do: rejestru podmiotów wykluczonych, o którym mowa w art. 210 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, lub rejestru naruszeń, o którym mowa w art. 80 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2020 r. poz. 277 i 285), w związku z dopuszczeniem się poważnego naruszenia.
     - **a)**
@@ -240,7 +238,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** poprawności sporządzenia i złożenia,
 - **2)** zgodności planowanej operacji z celami działania, w ramach którego ma być realizowana operacja,
-- **3)** celowości udzielenia pomocy na realizację planowanej operacji w sposób określony w przepisach wydanych na podstawie art. 24.
+- **3)** celowości udzielenia pomocy na realizację planowanej operacji – w sposób określony w przepisach wydanych na podstawie art. 24.
 
 5. Rozpatrzenie wniosku o dofinansowanie następuje w terminie 3 miesięcy od dnia jego złożenia. W przypadku nierozpatrzenia wniosku w terminie instytucja pośrednicząca, o której mowa w art. 6 ust. 1, zawiadamia wnioskodawcę o przyczynach zwłoki, określając nowy termin rozpatrzenia wniosku, nie dłuższy niż 3 miesiące.
 
@@ -377,7 +375,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 1. Jeżeli środki, o których mowa w art. 21 ust. 2, zostaną przez instytut, o którym mowa w art. 21 ust. 1:
 
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** pobrane nienależnie lub w nadmiernej wysokości instytut ten zwraca środki wraz z odsetkami liczonymi od dnia przekazania środków, w terminie 14 dni od dnia doręczenia wezwania do ich zwrotu. Przepisy art. 21 ust. 5 i 6, w zakresie terminu, stosuje się odpowiednio.
+- **2)** pobrane nienależnie lub w nadmiernej wysokości – instytut ten zwraca środki wraz z odsetkami liczonymi od dnia przekazania środków, w terminie 14 dni od dnia doręczenia wezwania do ich zwrotu. Przepisy art. 21 ust. 5 i 6, w zakresie terminu, stosuje się odpowiednio.
 
 2. Zwrotowi, o którym mowa w ust. 1, podlega odpowiednio ta część środków, która została wykorzystana niezgodnie z przeznaczeniem albo pobrana nienależnie lub w nadmiernej wysokości.
 
@@ -413,7 +411,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 3a. Minister, wydając rozporządzenie, o którym mowa w ust. 1, w zakresie priorytetu, o którym mowa w art. 3 ust. 1 pkt 2, może wskazać:
 
 - **1)** szkoły wyższe, instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383), instytuty naukowe, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796), lub fundacje, posiadające niezbędne kompetencje w zakresie realizacji operacji lub zatwierdzania wyników operacji lub określi kryteria w zakresie uznawania tych podmiotów lub
-- **2)** osoby prawne i osoby fizyczne, a także podmioty zapewniające doradztwo prawne lub ekonomiczne, posiadające niezbędne kompetencje w zakresie usług doradczych lub określi kryteria w zakresie uznawania tych podmiotów w zależności od charakteru i zakresu operacji, o których mowa w art. 39, art. 47 i art. 49 rozporządzenia nr 508/2014.
+- **2)** osoby prawne i osoby fizyczne, a także podmioty zapewniające doradztwo prawne lub ekonomiczne, posiadające niezbędne kompetencje w zakresie usług doradczych lub określi kryteria w zakresie uznawania tych podmiotów – w zależności od charakteru i zakresu operacji, o których mowa w art. 39, art. 47 i art. 49 rozporządzenia nr 508/2014.
 
 4. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, wypłaty lub zwrotu pomocy technicznej, w tym katalog beneficjentów, tryb i termin składania wniosków o dofinansowanie oraz wniosków o płatność, szczegółowe wymagania, jakim powinny odpowiadać te wnioski oraz umowa o dofinansowanie, uwzględniając koszty kwalifikowalne oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu operacyjnego, w szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu operacyjnego, oraz biorąc pod uwagę specyfikę pomocy technicznej.
 
@@ -550,10 +548,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 37.** Do postępowań w sprawach dochodzenia zwrotu pomocy pobranej nienależnie lub wykorzystanej niezgodnie z przeznaczeniem, wypłaconej w ramach programu operacyjnego, o którym mowa w ustawie z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. z 2018 r. poz. 466 oraz z 2019 r. poz. 2020), wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 38.** Przepisy wykonawcze wydane na podstawie art. 209 ust. 2 ustawy zmienianej w art. 36 zachowują moc i mogą być zmieniane na podstawie tego przepisu.
+**Art. 38.** Przepisy wykonawcze wydane na podstawie art. 209 ust. 2 ustawy zmienianej w art. 36Artykuł 36 zawiera zmiany do ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. zachowują moc i mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 39.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-
-- **1)** Dodana przez art. 28 ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875), która weszła w życie z dniem 16 maja 2020 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175. 3) Artykuł 36 zawiera zmiany do ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. 4) Ustawa została ogłoszona w dniu 10 września 2015 r.
-
+**Art. 39.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 10 września 2015 r.. 1) Dodana przez art. 28 ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875), która weszła w życie z dniem 16 maja 2020 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175. 3) Artykuł 36 zawiera zmiany do ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. 4) Ustawa została ogłoszona w dniu 10 września 2015 r.
 

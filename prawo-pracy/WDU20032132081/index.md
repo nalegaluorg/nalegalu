@@ -22,11 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-11-14 |
 | Data wydania | 2003-12-15 |
-| Wejście w życie | 2004-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032132081) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2081/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.) wprowadza się następujące zmiany:
+Równe traktowanie w zatrudnieniu
+Warunki zatrudnienia pracowników skierowanych do pracy na terytorium Rzeczypospolitej Polskiej z państwa będącego członkiem Unii Europejskiej
+Stosunek pracy na podstawie mianowania
+Czas pracy
+Przepisy ogólne
+Normy i ogólny wymiar czasu pracy
+Okresy odpoczynku
+Systemy i rozkłady czasu pracy
+Praca w godzinach nadliczbowych
+Praca w porze nocnej
+Praca w niedziele i święta
+Konsultacje w zakresie bezpieczeństwa i higieny pracy oraz komisja bezpieczeństwa i higieny pracy
+
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679 oraz z 2003 r. Nr 166, poz. 1608.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 § 4 otrzymuje brzmienie: „
 
@@ -50,7 +62,7 @@ source: "eli-html"
 
 - **6)** w dziale pierwszym rozdział IIa otrzymuje brzmienie: „
 
-#### Rozdział IIa Równe traktowanie w zatrudnieniu
+#### Rozdział IIa
 
 **Art. 183a.**
 
@@ -73,7 +85,7 @@ source: "eli-html"
 
 - **1)** odmowa nawiązania lub rozwiązanie stosunku pracy,
 - **2)** niekorzystne ukształtowanie wynagrodzenia za pracę lub innych warunków zatrudnienia albo pominięcie przy awansowaniu lub przyznawaniu innych świadczeń związanych z pracą,
-- **3)** pominięcie przy typowaniu do udziału w szkoleniach podnoszących kwalifikacje zawodowe chyba że pracodawca udowodni, że kierował się obiektywnymi powodami.
+- **3)** pominięcie przy typowaniu do udziału w szkoleniach podnoszących kwalifikacje zawodowe – chyba że pracodawca udowodni, że kierował się obiektywnymi powodami.
 
 § 2. Zasady równego traktowania w zatrudnieniu nie naruszają działania polegające na:
 
@@ -198,7 +210,7 @@ source: "eli-html"
 
 - **17)** w dziale drugim rozdział IIa otrzymuje brzmienie: „
 
-#### Rozdział IIa Warunki zatrudnienia pracowników skierowanych do pracy na terytorium Rzeczypospolitej Polskiej z państwa będącego członkiem Unii Europejskiej
+#### Rozdział IIa
 
 **Art. 671.**
 
@@ -208,7 +220,7 @@ source: "eli-html"
 
 - **1)** w związku z realizacją umowy zawartej przez tego pracodawcę z podmiotem zagranicznym,
 - **2)** w zagranicznym oddziale (filii) tego pracodawcy,
-- **3)** jako agencja pracy tymczasowej zapewnia pracownikowi, w zakresie określonym w art. 672, warunki zatrudnienia nie mniej korzystne niż wynikające z przepisów Kodeksu pracy oraz innych przepisów regulujących prawa i obowiązki pracowników.
+- **3)** jako agencja pracy tymczasowej – zapewnia pracownikowi, w zakresie określonym w art. 672, warunki zatrudnienia nie mniej korzystne niż wynikające z przepisów Kodeksu pracy oraz innych przepisów regulujących prawa i obowiązki pracowników.
 
 **Art. 672.**
 
@@ -239,7 +251,7 @@ source: "eli-html"
 
 - **21)** w dziale drugim w rozdziale III oddział 3 otrzymuje brzmienie: „
 
-##### Oddział 3 Stosunek pracy na podstawie mianowania
+##### Oddział 3
 
 **Art. 76.** Stosunek pracy nawiązuje się na podstawie mianowania w przypadkach określonych w odrębnych przepisach. ” ;
 
@@ -319,9 +331,9 @@ source: "eli-html"
 - **2)** karę nagany. ” ;
 - **36)** dział szósty otrzymuje brzmienie: „
 
-### Dział szósty Czas pracy
+### Dział szósty
 
-#### Rozdział I Przepisy ogólne
+#### Rozdział I
 
 **Art. 128.**
 
@@ -337,7 +349,7 @@ source: "eli-html"
 - **1)** przez dobę – należy rozumieć 24 kolejne godziny, poczynając od godziny, w której pracownik rozpoczyna pracę zgodnie z obowiązującym go rozkładem czasu pracy,
 - **2)** przez tydzień – należy rozumieć 7 kolejnych dni kalendarzowych, poczynając od pierwszego dnia okresu rozliczeniowego.
 
-#### Rozdział II Normy i ogólny wymiar czasu pracy
+#### Rozdział II
 
 **Art. 129.**
 
@@ -362,7 +374,7 @@ source: "eli-html"
 
 § 2. Ograniczenie przewidziane w § 1 nie dotyczy pracowników zarządzających w imieniu pracodawcy zakładem pracy.
 
-#### Rozdział III Okresy odpoczynku
+#### Rozdział III
 
 **Art. 132.**
 
@@ -387,7 +399,7 @@ source: "eli-html"
 
 **Art. 134.** Jeżeli dobowy wymiar czasu pracy pracownika wynosi co najmniej 6 godzin, pracownik ma prawo do przerwy w pracy trwającej co najmniej 15 minut, wliczanej do czasu pracy.
 
-#### Rozdział IV Systemy i rozkłady czasu pracy
+#### Rozdział IV
 
 **Art. 135.**
 
@@ -458,7 +470,7 @@ source: "eli-html"
 
 - **1)** pracowników zatrudnionych na stanowiskach pracy, na których występują przekroczenia najwyższych dopuszczalnych stężeń lub natężeń czynników szkodliwych dla zdrowia,
 - **2)** pracownic w ciąży,
-- **3)** pracowników opiekujących się dzieckiem do ukończenia przez nie 4 roku życia, bez ich zgody nie może przekraczać 8 godzin. Pracownik zachowuje prawo do wynagrodzenia za czas nieprzepracowany w związku ze zmniejszeniem z tego powodu wymiaru jego czasu pracy.
+- **3)** pracowników opiekujących się dzieckiem do ukończenia przez nie 4 roku życia, bez ich zgody – nie może przekraczać 8 godzin. Pracownik zachowuje prawo do wynagrodzenia za czas nieprzepracowany w związku ze zmniejszeniem z tego powodu wymiaru jego czasu pracy.
 
 **Art. 149.**
 
@@ -476,7 +488,7 @@ source: "eli-html"
 
 § 4. Do obwieszczenia, o którym mowa w § 1, stosuje się odpowiednio art. 1043.
 
-#### Rozdział V Praca w godzinach nadliczbowych
+#### Rozdział V
 
 **Art. 151.**
 
@@ -542,7 +554,7 @@ source: "eli-html"
 
 § 2. Przepis § 1 stosuje się odpowiednio w razie nawiązania stosunku pracy w trakcie okresu rozliczeniowego.
 
-#### Rozdział VI Praca w porze nocnej
+#### Rozdział VI
 
 **Art. 1517.**
 
@@ -567,7 +579,7 @@ source: "eli-html"
 
 § 2. W stosunku do pracowników wykonujących pracę w porze nocnej stale poza zakładem pracy dodatek, o którym mowa w § 1, może być zastąpiony ryczałtem, którego wysokość odpowiada przewidywanemu wymiarowi pracy w porze nocnej.
 
-#### Rozdział VII Praca w niedziele i święta
+#### Rozdział VII
 
 **Art. 1519.**
 
@@ -823,7 +835,7 @@ source: "eli-html"
 
 - **65)** w dziale dziesiątym rozdział XI otrzymuje brzmienie: „
 
-#### Rozdział XI Konsultacje w zakresie bezpieczeństwa i higieny pracy oraz komisja bezpieczeństwa i higieny pracy
+#### Rozdział XI
 
 **Art. 23711a.**
 
@@ -908,7 +920,7 @@ source: "eli-html"
 
 § 7. Właściwy inspektor pracy cofa wydane zezwolenie z urzędu, jeżeli stwierdzi, że warunki pracy dziecka nie odpowiadają warunkom określonym w wydanym zezwoleniu. ” .
 
-**Art. 2.** W ustawie z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy (Dz. U. z 2001 r. Nr 124, poz. 1362, z późn. zm.) w art. 8 w ust. 1 po pkt 11a dodaje się pkt 11b i 11c w brzmieniu: „
+**Art. 2.** W ustawie z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy (Dz. U. z 2001 r. Nr 124, poz. 1362, z późn. zm.Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1405 i Nr 154, poz. 1800, z 2002 r. Nr 166, poz. 1360 oraz z 2003 r. Nr 170, poz. 1652.) w art. 8 w ust. 1 po pkt 11a dodaje się pkt 11b i 11c w brzmieniu: „
 
 - **11b)** wydanie zezwolenia i cofnięcie wydanego zezwolenia w przypadkach, o których mowa w art. 3045 Kodeksu pracy,
 - **11c)** realizowanie zadań instytucji właściwej do informowania, na pisemny wniosek, o minimalnych warunkach zatrudnienia pracowników, w zakresie wynikającym z przepisów działu drugiego rozdziału IIa Kodeksu pracy, ” .
@@ -932,7 +944,7 @@ source: "eli-html"
 
 2. Nauczycielowi, który w związku z rozpoczęciem urlopu wychowawczego nie mógł wykorzystać przypadającego w okresie letnich ferii szkolnych urlopu wypoczynkowego, do którego nabył prawo – termin zakończenia urlopu wychowawczego powinien przypadać na koniec zajęć szkolnych. ” .
 
-**Art. 4.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.) po art. 108 dodaje się art. 108a-108c w brzmieniu: „
+**Art. 4.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 104, poz. 450, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683 oraz z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176 i Nr 137, poz. 1304.) po art. 108 dodaje się art. 108a-108c w brzmieniu: „
 
 **Art. 108a.**
 
@@ -951,9 +963,9 @@ source: "eli-html"
 
 2. Nauczycielowi akademickiemu, który w związku z rozpoczęciem urlopu wychowawczego nie może wykorzystać przypadającego w czasie wolnym od zajęć dydaktycznych urlopu wypoczynkowego, do którego nabył prawo – termin zakończenia urlopu wychowawczego powinien przypadać na koniec zajęć dydaktycznych. ” .
 
-**Art. 5.** W ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2001 r. Nr 79, poz. 854, z późn. zm.) w art. 30 ust. 5 otrzymuje brzmienie: „ 5. Jeżeli w sprawie ustalenia regulaminu wynagradzania, regulaminów nagród i premiowania, regulaminu zakładowego funduszu świadczeń socjalnych, planu urlopów lub regulaminu pracy, a także okresów rozliczeniowych, o których mowa w art. 129 § 2 i art. 135 § 2 i 3 Kodeksu pracy, oraz wykazu prac, o którym mowa w art. 1517 § 4 Kodeksu pracy, organizacje związkowe albo organizacje związkowe reprezentatywne w rozumieniu art. 24125a Kodeksu pracy nie przedstawią wspólnie uzgodnionego stanowiska w terminie 30 dni, decyzje w tych sprawach podejmuje pracodawca, po rozpatrzeniu odrębnych stanowisk organizacji związkowych. ” .
+**Art. 5.** W ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2001 r. Nr 79, poz. 854, z późn. zm.Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1080 i Nr 128, poz. 1405, z 2002 r. Nr 135, poz. 1146 i Nr 240, poz. 2052 oraz z 2003 r. Nr 63, poz. 590.) w art. 30 ust. 5 otrzymuje brzmienie: „ 5. Jeżeli w sprawie ustalenia regulaminu wynagradzania, regulaminów nagród i premiowania, regulaminu zakładowego funduszu świadczeń socjalnych, planu urlopów lub regulaminu pracy, a także okresów rozliczeniowych, o których mowa w art. 129 § 2 i art. 135 § 2 i 3 Kodeksu pracy, oraz wykazu prac, o którym mowa w art. 1517 § 4 Kodeksu pracy, organizacje związkowe albo organizacje związkowe reprezentatywne w rozumieniu art. 24125a Kodeksu pracy nie przedstawią wspólnie uzgodnionego stanowiska w terminie 30 dni, decyzje w tych sprawach podejmuje pracodawca, po rozpatrzeniu odrębnych stanowisk organizacji związkowych. ” .
 
-**Art. 6.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. Nr 91, poz. 408, z późn. zm.) w art. 32i w ust. 2 zdanie drugie otrzymuje brzmienie: „ W szczególnie uzasadnionych przypadkach okres rozliczeniowy może być przedłużony w trybie określonym w art. 150 § 2 Kodeksu pracy – nie więcej jednak niż do 12 miesięcy. ” .
+**Art. 6.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. Nr 91, poz. 408, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152 i Nr 171, poz. 1663.) w art. 32i w ust. 2 zdanie drugie otrzymuje brzmienie: „ W szczególnie uzasadnionych przypadkach okres rozliczeniowy może być przedłużony w trybie określonym w art. 150 § 2 Kodeksu pracy – nie więcej jednak niż do 12 miesięcy. ” .
 
 **Art. 7.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z 2002 r. Nr 41, poz. 364 oraz z 2003 r. Nr 96, poz. 874 i Nr 162, poz. 1568) wprowadza się następujące zmiany:
 
@@ -965,7 +977,7 @@ source: "eli-html"
 
 **Art. 26e.** Do pracowników instytucji kultury nie stosuje się przepisu art. 15112 zdanie pierwsze Kodeksu pracy. ” .
 
-**Art. 8.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 1996 r. Nr 70, poz. 335, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 1996 r. Nr 70, poz. 335, z późn. zm.Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 118, poz. 561, Nr 139, poz. 647 i Nr 147, poz. 686, z 1997 r. Nr 82, poz. 518 i Nr 121, poz. 770, z 1998 r. Nr 75, poz. 486 i Nr 113, poz. 717 oraz z 2002 r. Nr 135, poz. 1146.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -996,7 +1008,7 @@ source: "eli-html"
 
 1a. Jeżeli rozpoczęcie działalności następuje w roku kalendarzowym w wyniku komercjalizacji, przejęcia, podziału lub połączenia zakładu lub jego części z równoczesnym przejęciem pracowników, pracodawca zatrudniający co najmniej 20 pracowników w przeliczeniu na pełne etaty oraz pracodawca, o którym mowa w art. 3 ust. 2, tworzą Fundusz. ” .
 
-**Art. 9.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590, z późn. zm.) art. 61 otrzymuje brzmienie: „
+**Art. 9.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239 oraz z 2003 r. Nr 65, poz. 595 i Nr 137, poz. 1304.) art. 61 otrzymuje brzmienie: „
 
 **Art. 61.** Nauczyciel akademicki państwowej uczelni zawodowej ma prawo do urlopu wypoczynkowego, urlopu wychowawczego, płatnego urlopu dla poratowania zdrowia, urlopu z tytułu przygotowywania rozprawy doktorskiej lub habilitacyjnej, prawo do podyplomowego doskonalenia się oraz innych form kształcenia zawodowego i praktycznego na koszt uczelni, na zasadach określonych dla nauczycieli akademickich w ustawie o szkolnictwie wyższym. ” .
 
@@ -1034,5 +1046,5 @@ source: "eli-html"
 
 **Art. 19.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 773 i 2375 Kodeksu pracy zachowują moc do czasu wydania nowych przepisów wykonawczych i mogą być zmieniane na podstawie upoważnienia w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 20.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r., z tym że przepisy art. 1 pkt 10, 17, 55, 56, 58 i 72 oraz art. 2 i art. 12 pkt 1 lit. a stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+**Art. 20.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r., z tym że przepisy art. 1 pkt 10, 17, 55, 56, 58 i 72 oraz art. 2 i art. 12 pkt 1 lit. a stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 2) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679 oraz z 2003 r. Nr 166, poz. 1608. 3) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1405 i Nr 154, poz. 1800, z 2002 r. Nr 166, poz. 1360 oraz z 2003 r. Nr 170, poz. 1652. 4) Zmiany ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 104, poz. 450, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683 oraz z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176 i Nr 137, poz. 1304. 5) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1080 i Nr 128, poz. 1405, z 2002 r. Nr 135, poz. 1146 i Nr 240, poz. 2052 oraz z 2003 r. Nr 63, poz. 590. 6) Zmiany ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152 i Nr 171, poz. 1663. 7) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 118, poz. 561, Nr 139, poz. 647 i Nr 147, poz. 686, z 1997 r. Nr 82, poz. 518 i Nr 121, poz. 770, z 1998 r. Nr 75, poz. 486 i Nr 113, poz. 717 oraz z 2002 r. Nr 135, poz. 1146. 8) Zmiany ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239 oraz z 2003 r. Nr 65, poz. 595 i Nr 137, poz. 1304.
 

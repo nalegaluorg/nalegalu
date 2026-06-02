@@ -22,28 +22,63 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-23 |
 | Data wydania | 2019-09-18 |
-| Wejście w życie | 2019-10-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1777/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 111 ust. 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 111 ust. 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2354 oraz z 2019 r. poz. 643, 730, 1030 i 1553.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 27 grudnia 2013 r. w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. z 2018 r. poz. 1612) wprowadza się następujące zmiany:
 1)
 w załączniku nr 1 do rozporządzenia:
 a)
-lp. 345 i 346 otrzymują brzmienie: 345 1427 1429 STAŁARUCHOMA z wyjątkiem ruchomej lotniczej 5.341A OPERACJE KOSMICZNE (Ziemia-kosmos) 5.338A 5.341 rządowe rządowecywilne 346 1429 1452 STAŁARUCHOMA z wyjątkiem ruchomej lotniczej 5.341A5.338A 5.341 cywilno-rządowe cywilno-rządowe
+lp. 345 i 346 otrzymują brzmienie:
+345 1427 1429 STAŁA
+RUCHOMA z wyjątkiem ruchomej lotniczej 5.341A OPERACJE KOSMICZNE (Ziemia-kosmos) 5.338A 5.341 rządowe rządowe
+cywilne 346 1429 1452 STAŁA
+RUCHOMA z wyjątkiem ruchomej lotniczej 5.341A
+5.338A 5.341 cywilno-rządowe cywilno-rządowe
 b)
-lp. 404 i 405 otrzymują brzmienie: 404 3600 3800 STAŁASTAŁA SATELITARNA (kosmos-Ziemia)RUCHOMA cywilne cywilne cywilne 405 3800 4200 STAŁASTAŁA SATELITARNA (kosmos-Ziemia)Ruchoma cywilne cywilne cywilne
+lp. 404 i 405 otrzymują brzmienie:
+404 3600 3800 STAŁA
+STAŁA SATELITARNA (kosmos-Ziemia)
+RUCHOMA cywilne cywilne cywilne 405 3800 4200 STAŁA
+STAŁA SATELITARNA (kosmos-Ziemia)
+Ruchoma cywilne cywilne cywilne
 c)
-lp. 521 otrzymuje brzmienie: 521 26,5 26,9 STAŁARUCHOMASATELITARNE BADANIA ZIEM (kosmos-Ziemia) 5.536BBADANIA KOSMICZNE (kosmos-Ziemia)MIĘDZYSATELITARNA 5.536Wzorcowy satelitarny sygnał częstotliwości i czasu(Ziemia-kosmos)5.536A cywilne cywilne cywilne cywilne cywilne cywilne
+lp. 521 otrzymuje brzmienie:
+521 26,5 26,9 STAŁA
+RUCHOMA
+SATELITARNE BADANIA ZIEM (kosmos-Ziemia) 5.536B
+BADANIA KOSMICZNE (kosmos-Ziemia)
+MIĘDZYSATELITARNA 5.536
+Wzorcowy satelitarny sygnał częstotliwości i czasu
+(Ziemia-kosmos)
+5.536A cywilne cywilne cywilne cywilne cywilne cywilne
 d)
-po lp. 521 dodaje się lp. 521a w brzmieniu: 521a 26,9 27,0 STAŁA POL.51RUCHOMA POL.51SATELITARNE BADANIA ZIEM (kosmos-Ziemia) 5.536BBADANIA KOSMICZNE (kosmos-Ziemia)MIĘDZYSATELITARNA 5.536Wzorcowy satelitarny sygnał częstotliwości i czasu(Ziemia-kosmos)5.536A cywilno-rządowecywilno-rządowecywilnecywilnecywilnecywilne
+po lp. 521 dodaje się lp. 521a w brzmieniu:
+521a 26,9 27,0 STAŁA POL.51
+RUCHOMA POL.51
+SATELITARNE BADANIA ZIEM (kosmos-Ziemia) 5.536B
+BADANIA KOSMICZNE (kosmos-Ziemia)
+MIĘDZYSATELITARNA 5.536
+Wzorcowy satelitarny sygnał częstotliwości i czasu
+(Ziemia-kosmos)
+5.536A cywilno-rządowe
+cywilno-rządowe
+cywilne
+cywilne
+cywilne
+cywilne
 e)
-lp. 522 otrzymuje brzmienie: 522 27,0 27,3 STAŁA POL.51 RUCHOMA POL.51 MIĘDZYSATELITARNA 5.536 cywilno-rządowe cywilno-rządowe cywilne
+lp. 522 otrzymuje brzmienie:
+522 27,0 27,3 STAŁA POL.51 RUCHOMA POL.51 MIĘDZYSATELITARNA 5.536 cywilno-rządowe cywilno-rządowe cywilne
 f)
-po lp. 522 dodaje się lp. 522a w brzmieniu: 522a 27,3 27,5 STAŁARUCHOMAMIĘDZYSATELITARNA 5.536 rządowe rządowecywilne
+po lp. 522 dodaje się lp. 522a w brzmieniu:
+522a 27,3 27,5 STAŁA
+RUCHOMA
+MIĘDZYSATELITARNA 5.536 rządowe rządowe
+cywilne
 2)
 w załączniku nr 2 do rozporządzenia w pkt 1:
 a)
@@ -53,5 +88,5 @@ uwaga POL.49 otrzymuje brzmienie: „ POL.49 Zakres częstotliwości 1559–1610
 c)
 po uwadze POL.50 dodaje się uwagę POL.51 w brzmieniu: „ POL.51 Użytkowanie zakresu częstotliwości 26,9–27,3 GHz w służbie stałej i służbie ruchomej przez jednostki rządowe jest ograniczone wyłącznie do jednostek organizacyjnych podlegających Ministrowi Obrony Narodowej. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2354 oraz z 2019 r. poz. 643, 730, 1030 i 1553.
 

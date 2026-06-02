@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-27 |
 | Data wydania | 2019-05-29 |
-| Wejście w życie | 2019-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1004/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy sposób tworzenia i sposób przetwarzania akt spraw w postaci elektronicznej Rozdział 3 – Szczegółowy sposób tworzenia i sposób przetwarzania akt spraw w postaci papierowej Rozdział 4 – Warunki i tryb przechowywania akt spraw oraz przekazywania materiałów archiwalnych do archiwów państwowych Rozdział 5 – Warunki i tryb niszczenia akt spraw po upływie okresu ich przechowywania Rozdział 6 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 12a § 8 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 12a § 8 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467 i 1629 oraz z 2019 r. poz. 11, 60, 848 i 934.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -44,6 +44,7 @@ warunki i tryb niszczenia akt spraw po upływie okresu ich przechowywania.
 Tworzenie akt sprawy następuje na podstawie zarządzenia przewodniczącego wydziału.
 2.
 Wyboru pomiędzy postacią elektroniczną a papierową tworzenia akt danej sprawy dokonuje przewodniczący wydziału w zarządzeniu, o którym mowa w ust. 1, z uwzględnieniem przepisów wydanych na podstawie art. 11 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2018 r. poz. 2107 oraz z 2019 r. poz. 125 i 914). W przypadku utworzenia akt danej sprawy w postaci elektronicznej nie jest możliwe dokonanie zmiany sposobu ich tworzenia na postać papierową.
+Szczegółowy sposób tworzenia i sposób przetwarzania akt spraw w postaci elektronicznej
 § 3.
 1.
 Na akta sprawy w postaci elektronicznej składają się:
@@ -52,8 +53,7 @@ dokumenty elektroniczne otrzymane przez sąd,
 2)
 dokumenty elektroniczne wytwarzane przez sąd,
 3)
-dokumenty przekształcone z postaci papierowej do postaci elektronicznej
-wraz z metadanymi, o których mowa w przepisach wydanych na podstawie art. 5 ust. 2a ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2019 r. poz. 553 i 730).
+dokumenty przekształcone z postaci papierowej do postaci elektronicznej – wraz z metadanymi, o których mowa w przepisach wydanych na podstawie art. 5 ust. 2a ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2019 r. poz. 553 i 730).
 2.
 Metadane, w rozumieniu ust. 1, przechowuje się wraz z dokumentami, których one dotyczą.
 3.
@@ -69,6 +69,7 @@ Jeżeli dokonanie pełnego przekształcenia dokumentu w postaci papierowej do po
 W przypadku, o którym mowa w ust. 3, w aktach sprawy w postaci elektronicznej zamieszcza się również informacje o sposobie i miejscu przechowywania dokumentu w postaci papierowej, nieprzekształconego do postaci elektronicznej.
 5.
 Przekształcanie dokumentów następuje z uwzględnieniem minimalnych wymagań technicznych dla odwzorowań cyfrowych, określonych w przepisach o narodowym zasobie archiwalnym i archiwach.
+Szczegółowy sposób tworzenia i sposób przetwarzania akt spraw w postaci papierowej
 § 5.
 1.
 Akta sprawy w postaci papierowej umieszcza się w oddzielnych okładkach, oznaczonych co najmniej sygnaturą sprawy oraz symbolem sprawy.
@@ -82,6 +83,7 @@ jednoznaczny identyfikator tego dokumentu umożliwiający odnalezienie pierwowzo
 datę wykonania wydruku;
 3)
 podpis upoważnionego pracownika sądu dokonującego wydruku.
+Warunki i tryb przechowywania akt spraw oraz przekazywania materiałów archiwalnych do archiwów państwowych
 § 7.
 Akta spraw dzieli się na akta stanowiące materiały archiwalne oznaczane kategorią A, zwane dalej „aktami spraw kategorii A”, i akta niestanowiące takich materiałów, oznaczane kategorią B, zwane dalej „aktami spraw kategorii B”.
 § 8.
@@ -182,6 +184,7 @@ Akta spraw, w których nie ukończono wszystkich czynności związanych z wykona
 Przekazanie akt spraw do właściwego archiwum państwowego następuje w trybie i na warunkach określonych w przepisach o narodowym zasobie archiwalnym i archiwach.
 § 17.
 W zakresie nieuregulowanym w rozporządzeniu do ksiąg i urządzeń ewidencyjnych spraw sądowoadministracyjnych stosuje się odpowiednio przepisy dotyczące przechowywania, przekazywania do archiwów państwowych oraz niszczenia akt spraw.
+Warunki i tryb niszczenia akt spraw po upływie okresu ich przechowywania
 § 18.
 1.
 Przed przekazaniem akt spraw do zniszczenia prezes sądu powołuje komisję w celu przeprowadzenia czynności związanych z brakowaniem akt. Komisji przewodniczy sędzia.
@@ -195,18 +198,31 @@ Z przeprowadzonych prac komisja sporządza protokół, który przedstawia prezes
 Protokół, o którym mowa w ust. 4, zalicza się do kategorii A.
 § 19.
 Przekazanie akt spraw do zniszczenia następuje po uzyskaniu zgody dyrektora właściwego archiwum państwowego, w trybie i na warunkach określonych w przepisach o narodowym zasobie archiwalnym i archiwach.
+Przepis końcowy
 § 20.
-Rozporządzenie wchodzi w życie z dniem 31 maja 2019 r.
+Rozporządzenie wchodzi w życie z dniem 31 maja 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 18 kwietnia 2011 r. w sprawie sposobu postępowania z aktami spraw sądowoadministracyjnych w wojewódzkich sądach administracyjnych i Naczelnym Sądzie Administracyjnym (Dz. U. poz. 505), które utraci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 4 pkt 1 ustawy z dnia 10 stycznia 2014 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 183, z 2015 r. poz. 1311, z 2016 r. poz. 1579, z 2018 r. poz. 696 i 1544 oraz z 2019 r. poz. 60, 848 i 934). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467 i 1629 oraz z 2019 r. poz. 11, 60, 848 i 934. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 18 kwietnia 2011 r. w sprawie sposobu postępowania z aktami spraw sądowoadministracyjnych w wojewódzkich sądach administracyjnych i Naczelnym Sądzie Administracyjnym (Dz. U. poz. 505), które utraci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 4 pkt 1 ustawy z dnia 10 stycznia 2014 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 183, z 2015 r. poz. 1311, z 2016 r. poz. 1579, z 2018 r. poz. 696 i 1544 oraz z 2019 r. poz. 60, 848 i 934).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy sposób tworzenia i sposób przetwarzania akt spraw w postaci elektronicznej
+#### Rozdział 2 – Szczegółowy sposób tworzenia i sposób przetwarzania akt spraw w postaci elektronicznej
 
-#### Rozdział 3 Szczegółowy sposób tworzenia i sposób przetwarzania akt spraw w postaci papierowej
+#### Rozdział 3 – Szczegółowy sposób tworzenia i sposób przetwarzania akt spraw w postaci papierowej
 
-#### Rozdział 4 Warunki i tryb przechowywania akt spraw oraz przekazywania materiałów archiwalnych do archiwów państwowych
+#### Rozdział 4 – Warunki i tryb przechowywania akt spraw oraz przekazywania materiałów archiwalnych do archiwów państwowych
 
-#### Rozdział 5 Warunki i tryb niszczenia akt spraw po upływie okresu ich przechowywania
+#### Rozdział 5 – Warunki i tryb niszczenia akt spraw po upływie okresu ich przechowywania
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-11 |
 | Data wydania | 2015-05-26 |
-| Wejście w życie | 2015-06-10 |
 | Ostatnia zmiana | 2025-10-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/722/text.pdf) |
 
@@ -33,23 +32,19 @@ W rozporządzeniu Ministra Obrony Narodowej z dnia 14 listopada 2000 r. w sprawi
 1)
 w § 6:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Wysokość opłat za zakwaterowanie, o którym mowa w § 4 ust. 1, i biwakowanie, o którym mowa w § 5, oblicza się na podstawie średnich rocznych kosztów utrzymania danej nieruchomości.
-” ,
+Wysokość opłat za zakwaterowanie, o którym mowa w § 4 ust. 1, i biwakowanie, o którym mowa w § 5, oblicza się na podstawie średnich rocznych kosztów utrzymania danej nieruchomości. ” ,
 b)
 uchyla się ust 3;
 2)
-po § 6 dodaje się § 6a w brzmieniu:
-„
+po § 6 dodaje się § 6a w brzmieniu: „
 § 6a.
 Zakwaterowanie żołnierzy wojsk Państw-Stron Traktatu Północnoatlantyckiego i członków ich personelu cywilnego wydzielonych do wzmocnienia systemu obronnego Rzeczypospolitej Polskiej realizowane jest w formie:
 1)
-zakwaterowania zbiorowego na zasadach jak dla żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej określonych w ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 206, poz. 1367, z późn. zm.);
+zakwaterowania zbiorowego na zasadach jak dla żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej określonych w ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 206, poz. 1367, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 22, poz. 114 i Nr 185, poz. 1092, z 2012 r. poz. 908 oraz z 2014 r. poz. 930.);
 2)
-zakwaterowania biwakowego na poligonach na zasadach jak podczas szkolenia poligonowego Sił Zbrojnych Rzeczypospolitej Polskiej.
-” .
+zakwaterowania biwakowego na poligonach na zasadach jak podczas szkolenia poligonowego Sił Zbrojnych Rzeczypospolitej Polskiej. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 22, poz. 114 i Nr 185, poz. 1092, z 2012 r. poz. 908 oraz z 2014 r. poz. 930.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 28 lutego 2017 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej oraz wysokości stawek tej pomocy na realizację działań w ramach Priorytetu 2 – Wspieranie akwakultury zrównoważonej środowiskowo, zasobooszczędnej, innowacyjnej, konkurencyjnej i opartej na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 28 lutego 2017 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej oraz wysokości stawek tej pomocy na realizację działań w ramach Priorytetu 2 – Wspieranie akwakultury zrównoważonej środowiskowo, zasobooszczędnej, innowacyjnej, konkurencyjnej i opartej na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-28 |
 | Data wydania | 2017-03-10 |
-| Wejście w życie | 2017-03-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000515) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/515/text.pdf) |
 
@@ -60,7 +59,7 @@ działania i przypadki, w których następcy prawnemu beneficjenta albo nabywcy 
 2.
 W zakresie Priorytetu 2 – Wspieranie akwakultury zrównoważonej środowiskowo, zasobooszczędnej, innowacyjnej, konkurencyjnej i opartej na wiedzy pomoc finansową przyznaje się w ramach następujących działań:
 1)
-innowacje, o których mowa w art. 47 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 508/2014”;
+innowacje, o których mowa w art. 47 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18., zwanego dalej „rozporządzeniem nr 508/2014”;
 2)
 usługi z zakresu zarządzania, zastępstw i doradztwa dla gospodarstw akwakultury, o których mowa w art. 49 rozporządzenia nr 508/2014, zwanego dalej „usługi z zakresu zarządzania, zastępstw i doradztwa dla gospodarstw akwakultury”;
 3)
@@ -104,7 +103,7 @@ uzyskiwania najlepszych efektów z danych nakładów;
 2)
 optymalnego doboru metod i środków służących osiągnięciu założonych celów.
 6.
-Operacje realizowane w ramach działań, o których mowa w ust. 2, nie kwalifikują się do dofinansowania w przypadku, o którym mowa w art. 65 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem nr 1303/2013”.
+Operacje realizowane w ramach działań, o których mowa w ust. 2, nie kwalifikują się do dofinansowania w przypadku, o którym mowa w art. 65 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 oraz Dz. Urz. UE L 338 z 13.12.2016, str. 34., zwanego dalej „rozporządzeniem nr 1303/2013”.
 § 2.
 1.
 Pomoc w ramach działania innowacje, o których mowa w art. 47 rozporządzenia nr 508/2014, zwanego dalej „innowacje”, jest przyznawana na realizację operacji mających na celu wspieranie wzmacniania rozwoju technologicznego, innowacji i transferu wiedzy.
@@ -119,8 +118,7 @@ prowadzącym badania w zakresie rybactwa,
 2)
 instytutowi badawczemu, o którym mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r. poz. 371, 1079, 1311 i 2260 oraz z 2017 r. poz. 202), lub instytutowi naukowemu lub pomocniczej jednostce naukowej, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2016 r. poz. 572, 1311, 1933 i 2260), prowadzącym badania naukowe lub prace rozwojowe w zakresie rybactwa,
 3)
-podmiotom prowadzącym działalność gospodarczą polegającą na chowie lub hodowli ryb – w przypadku gdy operacja jest realizowana wspólnie przez te podmioty z podmiotami, o których mowa w pkt 1 lub 2, powiązane ze sobą umową konsorcjum
-na opracowanie, testowanie i wdrożenie nowych rozwiązań technicznych i technologicznych w zakresie chowu lub hodowli ryb zgodnych z celami, o których mowa w art. 47 ust. 1 rozporządzenia nr 508/2014.
+podmiotom prowadzącym działalność gospodarczą polegającą na chowie lub hodowli ryb – w przypadku gdy operacja jest realizowana wspólnie przez te podmioty z podmiotami, o których mowa w pkt 1 lub 2, powiązane ze sobą umową konsorcjum – na opracowanie, testowanie i wdrożenie nowych rozwiązań technicznych i technologicznych w zakresie chowu lub hodowli ryb zgodnych z celami, o których mowa w art. 47 ust. 1 rozporządzenia nr 508/2014.
 3.
 Pomoc na realizację operacji, o których mowa w ust. 1, podmiotom, o których mowa w ust. 2 pkt 3, przyznaje się, jeżeli operacja spełnia warunki określone w art. 95 ust. 3 lit. a rozporządzenia nr 508/2014.
 § 3.
@@ -257,8 +255,7 @@ Pomoc na realizację operacji w ramach działania inwestycje produkcyjne w akwak
 1)
 uprawnionemu do rybactwa w rozumieniu art. 4 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2015 r. poz. 652 oraz z 2017 r. poz. 60) lub
 2)
-podmiotowi, któremu wydano zezwolenie na prowadzenie chowu lub hodowli organizmów morskich w polskich obszarach morskich na podstawie przepisów o rybołówstwie
-który wywiązuje się z obowiązków statystycznych określonych w przepisach o statystyce publicznej w zakresie sprawozdań dotyczących powierzchni stawów rybnych oraz ilości ryb wyprodukowanych w stawach rybnych i innych urządzeniach służących do chowu lub hodowli ryb, lub
+podmiotowi, któremu wydano zezwolenie na prowadzenie chowu lub hodowli organizmów morskich w polskich obszarach morskich na podstawie przepisów o rybołówstwie – który wywiązuje się z obowiązków statystycznych określonych w przepisach o statystyce publicznej w zakresie sprawozdań dotyczących powierzchni stawów rybnych oraz ilości ryb wyprodukowanych w stawach rybnych i innych urządzeniach służących do chowu lub hodowli ryb, lub
 3)
 posiadaczowi gruntów – w przypadku gdy operacja dotyczy budowy nowego obiektu chowu lub hodowli ryb.
 2.
@@ -669,8 +666,7 @@ W przypadku realizacji więcej niż jednego zobowiązania w tym samym obiekcie c
 a)
 H = 1 – w przypadku gdy w obiekcie chowu lub hodowli ryb w stadzie ryb podlegającym ochronie w zakresie zasobów genetycznych są utrzymywane tarlaki lub selekty w obsadach wynoszących do 500 sztuk na hektar,
 b)
-H = (zagęszczenie ryb w stadzie, które podlega ochronie w zakresie zasobów genetycznych/500)
-w przypadku gdy w obiekcie chowu lub hodowli ryb w stadzie ryb podlegającym ochronie w zakresie zasobów genetycznych są utrzymywane tarlaki lub selekty w obsadach przekraczających 500 sztuk na hektar.
+H = (zagęszczenie ryb w stadzie, które podlega ochronie w zakresie zasobów genetycznych/500) – w przypadku gdy w obiekcie chowu lub hodowli ryb w stadzie ryb podlegającym ochronie w zakresie zasobów genetycznych są utrzymywane tarlaki lub selekty w obsadach przekraczających 500 sztuk na hektar.
 § 30.
 1.
 Pomoc w ramach działania promowanie kapitału ludzkiego i tworzenie sieci kontaktów przyznaje się na realizację operacji mających na celu rozwój szkoleń zawodowych, nowych umiejętności zawodowych i uczenia się przez całe życie.
@@ -1073,8 +1069,7 @@ Operacja może być realizowana w nie więcej niż czterech etapach, przy czym w
 1)
 36 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w kilku etapach,
 2)
-24 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie
-z wyłączeniem operacji realizowanych w ramach działań: innowacje, usługi z zakresu zarządzania, zastępstw i doradztwa dla gospodarstw akwakultury, akwakultura świadcząca usługi środowiskowe oraz ubezpieczenie zasobów akwakultury.
+24 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie – z wyłączeniem operacji realizowanych w ramach działań: innowacje, usługi z zakresu zarządzania, zastępstw i doradztwa dla gospodarstw akwakultury, akwakultura świadcząca usługi środowiskowe oraz ubezpieczenie zasobów akwakultury.
 5.
 Terminy, o których mowa w ust. 4, mogą zostać wydłużone w przypadku wystąpienia okoliczności niezależnych od beneficjenta, których nie można było przewidzieć na etapie zawierania umowy o dofinansowanie.
 6.
@@ -1166,8 +1161,7 @@ Wysokość stawek pomocy wyrażoną w euro, przelicza się na złote zgodnie z o
 2)
 30 czerwca – w przypadku umów o dofinansowanie zawartych w okresie od dnia 1 lipca do dnia 31 grudnia.
 § 57.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 oraz Dz. Urz. UE L 338 z 13.12.2016, str. 34.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 oraz Dz. Urz. UE L 338 z 13.12.2016, str. 34.
 
 ## Załącznik nr 1 — – Minimalne normy obsady karpia
 
@@ -1175,7 +1169,18 @@ Lp. Kategoria stawu karpiowego Rodzaj materiału obsadowego karpi Minimalna wiel
 
 ## Załącznik nr 2 — – Lista dodatkowych cennych gatunków ryb
 
-RYBY REOFILNE RYBY DRAPIEŻNE RYBY NIEDRAPIEŻNE RYBY ŁOSOSIOWATE RYBY ROŚLINOŻERNE boleńbrzanacertajaźjeleckleńświnka szczupaksandaczsum europejskimiętus lin sieja amur białytołpyga białatołpyga pstra
+RYBY REOFILNE RYBY DRAPIEŻNE RYBY NIEDRAPIEŻNE RYBY ŁOSOSIOWATE RYBY ROŚLINOŻERNE boleń
+brzana
+certa
+jaź
+jelec
+kleń
+świnka szczupak
+sandacz
+sum europejski
+miętus lin sieja amur biały
+tołpyga biała
+tołpyga pstra
 
 ## Załącznik nr 3 — – Kryteria wyboru operacji do dofinansowania
 
@@ -1200,8 +1205,7 @@ z co najmniej dwoma jednostkami naukowymi i dwoma przedsiębiorstwami akwakultur
 c)
 z co najmniej jedną jednostką naukową i jednym przedsiębiorstwem akwakultury – 5 pkt,
 d)
-z co najmniej jednym przedsiębiorstwem akwakultury – 2 pkt
-przy czym w przypadku gdy projekt jest realizowany w konsorcjum, w którym dodatkowo uczestniczy przynajmniej jedna zagraniczna jednostka naukowa – 5 pkt;
+z co najmniej jednym przedsiębiorstwem akwakultury – 2 pkt – przy czym w przypadku gdy projekt jest realizowany w konsorcjum, w którym dodatkowo uczestniczy przynajmniej jedna zagraniczna jednostka naukowa – 5 pkt;
 3)
 projekt przewiduje zaangażowanie osób kształcących się zawodowo w kierunku rybackim (maksymalnie 5 pkt):
 a)
@@ -1300,8 +1304,7 @@ współczynnik kosztu możliwości produkcyjnych dla operacji wynosi powyżej 13
 9)
 współczynnik kosztu możliwości produkcyjnych dla operacji wynosi powyżej 159 do 179 tys. zł / 10 ton przyrostu produkcji – 6 pkt;
 10)
-współczynnik kosztu możliwości produkcyjnych dla operacji wynosi powyżej 179 do 200 tys. zł / 10 ton przyrostu produkcji – 3 pkt.
-Grupa 2 – operacje polegające na różnicowaniu produkcji akwakultury i hodowanych gatunków ryb w zakresie określonym w art. 48 ust. 1 lit. b rozporządzenia nr 508/2014
+współczynnik kosztu możliwości produkcyjnych dla operacji wynosi powyżej 179 do 200 tys. zł / 10 ton przyrostu produkcji – 3 pkt. Grupa 2 – operacje polegające na różnicowaniu produkcji akwakultury i hodowanych gatunków ryb w zakresie określonym w art. 48 ust. 1 lit. b rozporządzenia nr 508/2014
 1.
 Zaawansowanie formalne operacji (maksymalnie 30 pkt):
 1)
@@ -1327,8 +1330,7 @@ koszty operacji wynoszą do 10% całkowitej wartości sprzedanych ryb netto (bez
 2)
 koszty operacji wynoszą powyżej 10% do 25% całkowitej wartości sprzedanych ryb netto (bez podatku VAT) z ostatniego roku sprawozdawczego (od dnia 1 stycznia do dnia 31 grudnia) – 25 pkt;
 3)
-koszty operacji wynoszą powyżej 25% do 50% całkowitej wartości sprzedanych ryb netto (bez podatku VAT) z ostatniego roku sprawozdawczego (od dnia 1 stycznia do dnia 31 grudnia) – 10 pkt.
-Grupa 3 – pozostałe operacje modernizacyjne w zakresie określonym w art. 48 ust. 1 lit. c i d rozporządzenia nr 508/2014 Kryterium wyboru operacji do dofinansowania jest kolejność złożenia wniosków w ramach danego naboru wniosków o dofinansowanie. Grupa 4 – operacje modernizacyjne zwiększające wartość dodaną produktów rybactwa lub dywersyfikujące dochody przedsiębiorstw akwakultury w zakresie określonym w art. 48 ust. 1 lit. f i h rozporządzenia nr 508/2014
+koszty operacji wynoszą powyżej 25% do 50% całkowitej wartości sprzedanych ryb netto (bez podatku VAT) z ostatniego roku sprawozdawczego (od dnia 1 stycznia do dnia 31 grudnia) – 10 pkt. Grupa 3 – pozostałe operacje modernizacyjne w zakresie określonym w art. 48 ust. 1 lit. c i d rozporządzenia nr 508/2014 Kryterium wyboru operacji do dofinansowania jest kolejność złożenia wniosków w ramach danego naboru wniosków o dofinansowanie. Grupa 4 – operacje modernizacyjne zwiększające wartość dodaną produktów rybactwa lub dywersyfikujące dochody przedsiębiorstw akwakultury w zakresie określonym w art. 48 ust. 1 lit. f i h rozporządzenia nr 508/2014
 1.
 Zaawansowanie formalne operacji (maksymalnie 20 pkt):
 1)
@@ -1394,8 +1396,7 @@ koszt 1 kW mocy przyłączeniowej wynosi od 7500 zł do 9999 zł – 20 pkt,
 4)
 koszt 1 kW mocy przyłączeniowej wynosi od 10 000 zł do 12 000 zł – 10 pkt,
 5)
-operacja zakłada zastosowanie innych niż odnawialne źródła energii (OZE) technologii zwiększania efektywności energetycznej – 30 pkt
-przy czym koszt mocy przyłączeniowej jest liczony jako iloraz łącznych kosztów operacji netto i zaplanowanej mocy przyłączeniowej operacji.
+operacja zakłada zastosowanie innych niż odnawialne źródła energii (OZE) technologii zwiększania efektywności energetycznej – 30 pkt – przy czym koszt mocy przyłączeniowej jest liczony jako iloraz łącznych kosztów operacji netto i zaplanowanej mocy przyłączeniowej operacji.
 V.
 Działanie inwestycje produkcyjne w akwakulturę – efektywne gospodarowanie zasobami, zmniejszenie zużycia wody i chemikaliów, systemy recyrkulacji minimalizujące zużycie wody, o których mowa w art. 48 ust. 1 lit. e, i oraz j rozporządzenia nr 508/2014: Grupa 1 – operacje prowadzące do wzrostu produkcji w akwakulturze w zakresie określonym w art. 48 ust. 1 lit. j rozporządzenia nr 508/2014
 1.
@@ -1449,8 +1450,7 @@ w wyniku operacji jest planowane osiągnięcie przez obiekt chowu lub hodowli ry
 3)
 w wyniku operacji jest planowane osiągnięcie przez obiekt chowu lub hodowli ryb rocznej produkcji od 5 do poniżej 7,5 tony z 1 l/s poboru wody – 30 pkt;
 4)
-w wyniku operacji jest planowane osiągnięcie przez obiekt chowu lub hodowli ryb rocznej produkcji od 3 do poniżej 5 ton z 1 l/s poboru wody – 25 pkt.
-Grupa 2 – operacje nieprowadzące do wzrostu produkcji w akwakulturze w zakresie określonym w art. 48 ust. 1 lit. e oraz i rozporządzenia nr 508/2014
+w wyniku operacji jest planowane osiągnięcie przez obiekt chowu lub hodowli ryb rocznej produkcji od 3 do poniżej 5 ton z 1 l/s poboru wody – 25 pkt. Grupa 2 – operacje nieprowadzące do wzrostu produkcji w akwakulturze w zakresie określonym w art. 48 ust. 1 lit. e oraz i rozporządzenia nr 508/2014
 1.
 Zaawansowanie formalne operacji (maksymalnie 25 pkt):
 1)

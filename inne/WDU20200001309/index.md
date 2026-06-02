@@ -32,14 +32,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 9 sierpnia 2017 r. w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym (Dz. U. poz. 1578), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. zmieniającym rozporządzenie w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym (Dz. U. poz. 1485).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. zmieniającego rozporządzenie w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym (Dz. U. poz. 1485), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. zmieniającego rozporządzenie w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym (Dz. U. poz. 1485), które stanowią: „
 § 2.
 Do osób zatrudnionych w dniu 1 września 2018 r. na stanowisku asystenta nauczyciela, asystenta osoby, o której mowa w art. 15 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, lub asystenta wychowawcy świetlicy, które po tym dniu są nadal zatrudnione na tym stanowisku zgodnie z art. 143 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203), stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2018 r.
-” .
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 9 sierpnia 2017 r. w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym
+Rozporządzenie wchodzi w życie z dniem 1 września 2018 r. ” .
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 9 sierpnia 2017 r. w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznymMinister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268).
 Na podstawie art. 127 ust. 19 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży posiadających orzeczenie o potrzebie kształcenia specjalnego:
@@ -48,8 +46,7 @@ niepełnosprawnych: niesłyszących, słabosłyszących, niewidomych, słabowidz
 2)
 niedostosowanych społecznie, zwanych dalej „uczniami niedostosowanymi społecznie”,
 3)
-zagrożonych niedostosowaniem społecznym, zwanych dalej „uczniami zagrożonymi niedostosowaniem społecznym”
-wymagających stosowania specjalnej organizacji nauki i metod pracy.
+zagrożonych niedostosowaniem społecznym, zwanych dalej „uczniami zagrożonymi niedostosowaniem społecznym” – wymagających stosowania specjalnej organizacji nauki i metod pracy.
 § 2.
 1.
 Kształcenie, wychowanie i opiekę dla uczniów niepełnosprawnych organizuje się w:
@@ -175,7 +172,7 @@ Pracę zespołu koordynuje odpowiednio wychowawca oddziału lub wychowawca grupy
 Spotkania zespołu odbywają się w miarę potrzeb, nie rzadziej jednak niż dwa razy w roku szkolnym.
 8.
 W spotkaniach zespołu mogą także uczestniczyć:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. zmieniającego rozporządzenie w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym (Dz. U. poz. 1485), które weszło w życie z dniem 1 września 2018 r.)
 na wniosek dyrektora przedszkola, szkoły lub ośrodka, o których mowa w § 2 ust. 1 pkt 1, 2 i 4–9, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną – na wniosek osoby kierującej inną formą wychowania przedszkolnego – przedstawiciel poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, lub pomoc nauczyciela, o której mowa w § 7 ust. 2 pkt 3, ust. 3 pkt 3 oraz w ust. 4 i 5;
 2)
 na wniosek lub za zgodą rodziców ucznia albo pełnoletniego ucznia – inne osoby, w szczególności lekarz, psycholog, pedagog, logopeda lub inny specjalista.
@@ -185,7 +182,7 @@ Zespół, co najmniej dwa razy w roku szkolnym, dokonuje okresowej wielospecjali
 Wielospecjalistyczne oceny, o których mowa w ust. 4 i 9, uwzględniają w szczególności:
 1)
 indywidualne potrzeby rozwojowe i edukacyjne, mocne strony, predyspozycje, zainteresowania i uzdolnienia ucznia;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 w zależności od potrzeb, zakres i charakter wsparcia ze strony nauczycieli, specjalistów lub pomocy nauczyciela, o których mowa w § 7 ust. 1–5;
 3)
 przyczyny niepowodzeń edukacyjnych lub trudności w funkcjonowaniu ucznia, w tym bariery i ograniczenia utrudniające funkcjonowanie i uczestnictwo ucznia w życiu przedszkolnym lub szkolnym, a w przypadku ucznia realizującego wybrane zajęcia wychowania przedszkolnego lub zajęcia edukacyjne indywidualnie lub w grupie liczącej do 5 uczniów, zgodnie ze wskazaniem zawartym w programie – także napotykane trudności w zakresie włączenia ucznia w zajęcia realizowane wspólnie z oddziałem przedszkolnym lub szkolnym, a w przypadku innej formy wychowania przedszkolnego – wspólnie z grupą, oraz efekty działań podejmowanych w celu ich przezwyciężenia.
@@ -207,19 +204,17 @@ W przedszkolach ogólnodostępnych, innych formach wychowania przedszkolnego i s
 1)
 nauczycieli posiadających kwalifikacje z zakresu pedagogiki specjalnej w celu współorganizowania kształcenia uczniów niepełnosprawnych lub specjalistów lub
 2)
-(uchylony)
+(uchylony)Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 3)
-pomoc nauczyciela
-z uwzględnieniem realizacji zaleceń zawartych w orzeczeniu o potrzebie kształcenia specjalnego.
+pomoc nauczyciela – z uwzględnieniem realizacji zaleceń zawartych w orzeczeniu o potrzebie kształcenia specjalnego.
 3.
 W przedszkolach ogólnodostępnych, innych formach wychowania przedszkolnego i szkołach ogólnodostępnych, w których kształceniem specjalnym są objęci uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na inne niż wymienione w ust. 2 niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym, za zgodą organu prowadzącego, można zatrudniać dodatkowo:
 1)
 nauczycieli posiadających kwalifikacje z zakresu pedagogiki specjalnej w celu współorganizowania kształcenia odpowiednio uczniów niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym lub specjalistów, lub
 2)
-(uchylony)
+(uchylony)Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 3)
-pomoc nauczyciela
-z uwzględnieniem realizacji zaleceń zawartych w orzeczeniu o potrzebie kształcenia specjalnego.
+pomoc nauczyciela – z uwzględnieniem realizacji zaleceń zawartych w orzeczeniu o potrzebie kształcenia specjalnego.
 4.
 W przedszkolach specjalnych, przedszkolach ogólnodostępnych z oddziałami specjalnymi oraz w klasach I-IV szkół podstawowych specjalnych i szkół podstawowych ogólnodostępnych z oddziałami specjalnymi, dla uczniów:
 1)
@@ -229,8 +224,7 @@ z niepełnosprawnością ruchową, w tym z afazją,
 3)
 z autyzmem, w tym z zespołem Aspergera,
 4)
-z niepełnosprawnościami sprzężonymi
-zatrudnia się dodatkowo pomoc nauczyciela.
+z niepełnosprawnościami sprzężonymi – zatrudnia się dodatkowo pomoc nauczyciela.
 5.
 W przedszkolach i szkołach: specjalnych, integracyjnych, ogólnodostępnych z oddziałami specjalnymi lub integracyjnymi oraz w przypadkach innych niepełnosprawności niż określone w ust. 4, dla uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, za zgodą organu prowadzącego, można zatrudnić dodatkowo pomoc nauczyciela.
 6.
@@ -258,6 +252,5 @@ Uczniowie z chorobami przewlekłymi, z zaburzeniami psychicznymi, z zaburzeniami
 § 9.
 Indywidualne programy edukacyjno-terapeutyczne opracowane dla uczniów przed dniem wejścia w życie rozporządzenia należy dostosować do wymogów określonych w rozporządzeniu w terminie do dnia 30 września 2017 r.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. zmieniającego rozporządzenie w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym (Dz. U. poz. 1485), które weszło w życie z dniem 1 września 2018 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. zmieniającego rozporządzenie w sprawie warunków organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży niepełnosprawnych, niedostosowanych społecznie i zagrożonych niedostosowaniem społecznym (Dz. U. poz. 1485), które weszło w życie z dniem 1 września 2018 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 

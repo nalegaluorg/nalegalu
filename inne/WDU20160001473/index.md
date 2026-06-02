@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-29 |
 | Data wydania | 2016-09-15 |
-| Wejście w życie | 2016-09-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001473) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1473/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Odszkodowania z tytułu utraty życia lub poniesienia uszczerbku na zdrowiu Rozdział 3 – Odszkodowanie za szkody poniesione w mieniu Rozdział 4 – Postępowanie w sprawie odszkodowania
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 25 ust. 5 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2016 r. poz. 1310) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki i tryb przyznawania odszkodowań osobom niebędącym funkcjonariuszami Centralnego Biura Antykorupcyjnego, zwanego dalej „CBA”, a także rodzaje i wysokość świadczeń odszkodowawczych, w przypadku utraty życia lub poniesienia uszczerbku na zdrowiu albo szkody w mieniu podczas udzielania lub w związku z udzielaniem pomocy CBA, przysługujących tym osobom, zwanym dalej „osobami poszkodowanymi”, lub ich spadkobiercom.
 § 2.
@@ -41,6 +41,7 @@ jednorazowe odszkodowanie za poniesiony uszczerbek na zdrowiu dla osoby poszkodo
 jednorazowe odszkodowanie z tytułu utraty życia osoby poszkodowanej dla jej spadkobierców;
 3)
 odszkodowanie za poniesione szkody w mieniu dla osoby poszkodowanej lub jej spadkobierców.
+Odszkodowania z tytułu utraty życia lub poniesienia uszczerbku na zdrowiu
 § 4.
 1.
 Jednorazowe odszkodowanie za poniesiony uszczerbek na zdrowiu przyznaje się osobie poszkodowanej do wysokości 20% przeciętnego wynagrodzenia za każdy procent uszczerbku na zdrowiu.
@@ -80,6 +81,7 @@ Kwotę jednorazowego odszkodowania zaokrągla się do pełnych złotych.
 Jednorazowe odszkodowanie, o którym mowa w § 7 ust. 1 pkt 1 lub ust. 2 pkt 1, nie przysługuje małżonkowi w przypadku orzeczonej separacji.
 § 9.
 Jednorazowe odszkodowanie nie przysługuje, jeżeli uszczerbek na zdrowiu lub utrata życia osoby poszkodowanej nastąpiły z jej winy umyślnej lub rażącego niedbalstwa albo z powodu użycia przez nią alkoholu lub podobnie działającego środka.
+Odszkodowanie za szkody poniesione w mieniu
 § 10.
 1.
 Osobie poszkodowanej, która poniosła szkodę w mieniu, przysługuje odszkodowanie.
@@ -93,6 +95,7 @@ W przypadku uzyskania odszkodowania za szkodę poniesioną w mieniu na innej pod
 Odszkodowanie za szkodę poniesioną w mieniu ustala się według ceny zakupu takiego samego składnika mienia z dnia, w którym wydano decyzję w tej sprawie, z uwzględnieniem stopnia jego zużycia lub utraty wartości. Jeżeli nie jest możliwe ustalenie ceny zakupu, jej wysokość ustala się według ceny zakupu składnika mienia tego samego rodzaju o identycznych lub zbliżonych parametrach.
 § 12.
 Odszkodowanie nie przysługuje, jeżeli szkoda w mieniu osoby poszkodowanej nastąpiła z jej winy umyślnej lub rażącego niedbalstwa albo z powodu użycia przez nią alkoholu lub podobnie działającego środka.
+Postępowanie w sprawie odszkodowania
 § 13.
 Postępowanie w sprawie odszkodowania wszczyna się na wniosek osoby poszkodowanej albo jej spadkobierców, który zawiera dane personalne osoby poszkodowanej oraz dokładny opis miejsca i okoliczności zdarzenia, a także zgodę na przetwarzanie związanych z nim danych.
 § 14.
@@ -140,11 +143,19 @@ W sprawach nieuregulowanych w rozporządzeniu stosuje się przepisy ustawy z dni
 § 17.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Odszkodowania z tytułu utraty życia lub poniesienia uszczerbku na zdrowiu
+#### Rozdział 2 – Odszkodowania z tytułu utraty życia lub poniesienia uszczerbku na zdrowiu
 
-#### Rozdział 3 Odszkodowanie za szkody poniesione w mieniu
+#### Rozdział 3 – Odszkodowanie za szkody poniesione w mieniu
 
-#### Rozdział 4 Postępowanie w sprawie odszkodowania
+#### Rozdział 4 – Postępowanie w sprawie odszkodowania
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

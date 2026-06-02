@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-05 |
 | Data wydania | 2008-12-31 |
-| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082371652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1652/text.pdf) |
 
@@ -52,12 +51,12 @@ source: "eli-html"
 
 1. Fundusz refunduje:
 
-- **1)** osobie niepełnosprawnej wykonującej działalność gospodarczą obowiązkowe składki na ubezpieczenia emerytalne i rentowe do wysokości odpowiadającej wysokości składki, której podstawą wymiaru jest kwota określona w art. 18 ust. 8 oraz w art. 18a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.),
-- **2)** niepełnosprawnemu rolnikowi lub rolnikowi zobowiązanemu do opłacania składek za niepełnosprawnego domownika, składki na ubezpieczenia społeczne rolników – wypadkowe, chorobowe, macierzyńskie oraz emerytalno-rentowe pod warunkiem terminowego opłacenia tych składek w całości.
+- **1)** osobie niepełnosprawnej wykonującej działalność gospodarczą obowiązkowe składki na ubezpieczenia emerytalne i rentowe do wysokości odpowiadającej wysokości składki, której podstawą wymiaru jest kwota określona w art. 18 ust. 8 oraz w art. 18a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243 oraz z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888, Nr 171, poz. 1056, Nr 209, poz. 1318, Nr 220, poz. 1417 i 1418, Nr 227, poz. 1505 i Nr 228, poz. 1507.),
+- **2)** niepełnosprawnemu rolnikowi lub rolnikowi zobowiązanemu do opłacania składek za niepełnosprawnego domownika, składki na ubezpieczenia społeczne rolników – wypadkowe, chorobowe, macierzyńskie oraz emerytalno-rentowe – pod warunkiem terminowego opłacenia tych składek w całości.
 
 2. Składki, o których mowa w ust. 1 pkt 1, osobie niepełnosprawnej wykonującej działalność gospodarczą nalicza się i opłaca na zasadach określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
-3. Składki, o których mowa w ust. 1 pkt 2, niepełnosprawnemu rolnikowi lub rolnikowi zobowiązanemu do opłacania składek za niepełnosprawnego domownika nalicza się i opłaca na zasadach określonych w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm.). ” ;
+3. Składki, o których mowa w ust. 1 pkt 2, niepełnosprawnemu rolnikowi lub rolnikowi zobowiązanemu do opłacania składek za niepełnosprawnego domownika nalicza się i opłaca na zasadach określonych w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 67, poz. 411, Nr 70, poz. 416, Nr 180, poz. 1112, Nr 227, poz. 1505 i Nr 228, poz. 1507.). ” ;
 
 - **4)** uchyla się art. 25b;
 - **5)** w art. 25c: ust. 1 i 2 otrzymują brzmienie: „
@@ -100,9 +99,14 @@ source: "eli-html"
 
 - **1)** szczegółowe warunki udzielania oraz tryb przekazywania refundacji składek na ubezpieczenia społeczne,
 - **2)** termin składania, wzór wniosku, o którym mowa w art. 25c ust. 1, oraz wykaz dokumentów załączanych do wniosku,
-- **3)** wymogi, jakie muszą spełniać wnioskodawcy przekazujący dokumenty w formie elektronicznej przez teletransmisję danych uwzględniając potrzebę zapewnienia zgodności z zasadami udzielania pomocy w ramach zasady de minimis, jednolitych warunków niezbędnych do prawidłowego przekazywania dokumentów oraz określenia zakresu danych niezbędnych do udzielenia pomocy, a także racjonalnego gospodarowania środkami Funduszu. ” ;
-- **7)** w art. 26: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) adaptacji pomieszczeń zakładu pracy do potrzeb osób niepełnosprawnych, w szczególności poniesionych w związku z przystosowaniem tworzonych lub istniejących stanowisk pracy dla tych osób, stosownie do potrzeb wynikających z ich niepełnosprawności; ” , – uchyla się pkt 1a, – pkt 1b otrzymuje brzmienie: „ 1b) adaptacji lub nabycia urządzeń ułatwiających osobie niepełnosprawnej wykonywanie pracy lub funkcjonowanie w zakładzie pracy; ” , – po pkt 1b dodaje się pkt 1c w brzmieniu: „ 1c) zakupu i autoryzacji oprogramowania na użytek pracowników niepełnosprawnych oraz urządzeń technologii wspomagających lub przystosowanych do potrzeb wynikających z ich niepełnosprawności; ” , – pkt 2 otrzymuje brzmienie: „ 2) rozpoznania przez służby medycyny pracy potrzeb, o których mowa w pkt 1–1c ” , ust. 1a otrzymuje brzmienie: „
+- **3)** wymogi, jakie muszą spełniać wnioskodawcy przekazujący dokumenty w formie elektronicznej przez teletransmisję danych – uwzględniając potrzebę zapewnienia zgodności z zasadami udzielania pomocy w ramach zasady de minimis, jednolitych warunków niezbędnych do prawidłowego przekazywania dokumentów oraz określenia zakresu danych niezbędnych do udzielenia pomocy, a także racjonalnego gospodarowania środkami Funduszu. ” ;
+- **7)** w art. 26: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** adaptacji pomieszczeń zakładu pracy do potrzeb osób niepełnosprawnych, w szczególności poniesionych w związku z przystosowaniem tworzonych lub istniejących stanowisk pracy dla tych osób, stosownie do potrzeb wynikających z ich niepełnosprawności; ” , – uchyla się pkt 1a, pkt 1b otrzymuje brzmienie: „
+- **1b)** adaptacji lub nabycia urządzeń ułatwiających osobie niepełnosprawnej wykonywanie pracy lub funkcjonowanie w zakładzie pracy; ” , po pkt 1b dodaje się pkt 1c w brzmieniu: „
+- **1c)** zakupu i autoryzacji oprogramowania na użytek pracowników niepełnosprawnych oraz urządzeń technologii wspomagających lub przystosowanych do potrzeb wynikających z ich niepełnosprawności; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** rozpoznania przez służby medycyny pracy potrzeb, o których mowa w pkt 1–1c ” , ust. 1a otrzymuje brzmienie: „
     - **b)**
 
 1a. Zwrot kosztów, o których mowa w ust. 1 oraz w art. 26d, dotyczy wyłącznie dodatkowych kosztów pracodawcy wynikających z zatrudnienia osób niepełnosprawnych. ” , w ust. 4 pkt 1 otrzymuje brzmienie: „
@@ -186,7 +190,7 @@ source: "eli-html"
 
 - **1)** szczegółowe warunki udzielania oraz tryb przekazywania miesięcznego dofinansowania,
 - **2)** terminy składania, wzory informacji i wniosku, o których mowa w ust. 1, oraz wykaz dokumentów załączanych do wniosku,
-- **3)** wymogi, jakie muszą spełniać pracodawcy, przekazując dokumenty w formie elektronicznej przez teletransmisję danych uwzględniając potrzebę zapewnienia zgodności z warunkami dopuszczalności pomocy publicznej na zatrudnianie, określonymi w przepisach prawa Unii Europejskiej, zapewnienia jednolitych warunków niezbędnych do prawidłowego przekazywania dokumentów oraz określenia zakresu danych niezbędnych do udzielenia pomocy, a także racjonalnego gospodarowania środkami Funduszu. ” ;
+- **3)** wymogi, jakie muszą spełniać pracodawcy, przekazując dokumenty w formie elektronicznej przez teletransmisję danych – uwzględniając potrzebę zapewnienia zgodności z warunkami dopuszczalności pomocy publicznej na zatrudnianie, określonymi w przepisach prawa Unii Europejskiej, zapewnienia jednolitych warunków niezbędnych do prawidłowego przekazywania dokumentów oraz określenia zakresu danych niezbędnych do udzielenia pomocy, a także racjonalnego gospodarowania środkami Funduszu. ” ;
 - **11)** uchyla się art. 26c1;
 - **12)** uchyla się art. 26f;
 - **13)** w art. 29: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Gmina, powiat oraz fundacja, stowarzyszenie lub inna organizacja społeczna, której statutowym zadaniem jest rehabilitacja zawodowa i społeczna osób niepełnosprawnych, zwane dalej „organizatorem”, może utworzyć wyodrębnioną organizacyjnie i finansowo jednostkę i uzyskać dla tej jednostki status zakładu aktywności zawodowej, jeżeli: ” , ust. 3 otrzymuje brzmienie: „
@@ -255,12 +259,12 @@ source: "eli-html"
 
 3. Pomoc ze środków Funduszu nie może zostać udzielona lub wypłacona pracodawcy wykonującemu działalność gospodarczą:
 
-- **1)** znajdującemu się w trudnej sytuacji ekonomicznej według kryteriów określonych w przepisach prawa Unii Europejskiej dotyczących udzielania pomocy publicznej;
+- **1)** znajdującemu się w trudnej sytuacji ekonomicznej według kryteriów określonych w przepisach prawa Unii Europejskiej dotyczących udzielania pomocy publicznejKryteria te są określone w pkt 9–11 Wytycznych wspólnotowych dotyczących pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2).;
 - **2)** na którym ciąży obowiązek zwrotu pomocy, wynikający z wcześniejszych decyzji Komisji Europejskiej, uznających pomoc za niezgodną z prawem oraz ze wspólnym rynkiem;
 - **3)** jeżeli udzielenie pomocy w formie miesięcznego dofinansowania do wynagrodzenia skutkowałoby przekroczeniem kwoty 10 mln euro rocznej pomocy na zatrudnienie pracowników niepełnosprawnych u tego pracodawcy. ” ;
 - **23)** w art. 49 ust. 1 otrzymuje brzmienie: „
 
-1. Do wpłat, o których mowa w art. 21 ust. 1, art. 23, art. 31 ust. 3 i art. 33 ust. 4a, 7 i 7a, stosuje się odpowiednio, z zastrzeżeniem ust. 5a-5d oraz art. 49a i 49b, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.), zwanej dalej „Ordynacją podatkową”, z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują Prezesowi Zarządu Funduszu. ” ;
+1. Do wpłat, o których mowa w art. 21 ust. 1, art. 23, art. 31 ust. 3 i art. 33 ust. 4a, 7 i 7a, stosuje się odpowiednio, z zastrzeżeniem ust. 5a-5d oraz art. 49a i 49b, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671 oraz z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320.), zwanej dalej „Ordynacją podatkową”, z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują Prezesowi Zarządu Funduszu. ” ;
 
 - **24)** po art. 49d dodaje się art. 49e w brzmieniu: „
 
@@ -274,7 +278,12 @@ source: "eli-html"
 
 4. Odsetek nie nalicza się w przypadku gdy wystąpienie okoliczności powodujących obowiązek zwrotu lub wypłaty środków było niezależne od zobowiązanego do zapłaty. ” ;
 
-- **25)** w art. 68c: w ust. 1 w pkt 1: – lit. b otrzymuje brzmienie: „ b) w 2008 r. i w latach następnych – 90% tych kosztów. ” , – uchyla się lit. c, w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) działania zakładu aktywności zawodowej wynosi: a) w 2007 r. – 95% tych kosztów, b) w 2008 r. i w latach następnych – 90% tych kosztów; ” , – w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ utworzenia zakładu aktywności zawodowej wynosi: ” ;
+- **25)** w art. 68c: w ust. 1 w pkt 1: lit. b otrzymuje brzmienie: „ w 2008 r. i w latach następnych – 90% tych kosztów. ” , – uchyla się lit. c, w ust. 2: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+- **1)** działania zakładu aktywności zawodowej wynosi: w 2007 r. – 95% tych kosztów, w 2008 r. i w latach następnych – 90% tych kosztów; ” , – w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ utworzenia zakładu aktywności zawodowej wynosi: ” ;
     - **a)**
     - **b)**
 
@@ -302,7 +311,7 @@ source: "eli-html"
 
 **Art. 5.** W 2009 r.:
 
-- **1)** pracodawcy zatrudniający w przeliczeniu na pełny wymiar czasu pracy mniej niż 25 pracowników oraz pracodawcy zatrudniający co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy i osiągającemu wskaźnik zatrudnienia osób niepełnosprawnych w wysokości co najmniej 6% przysługuje miesięczne dofinansowanie w wysokości: 70% kwot, o których mowa w art. 26a ust. 1, 90% kwot, o których mowa w art. 26a ust. 1 i 1b ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą;
+- **1)** pracodawcy zatrudniający w przeliczeniu na pełny wymiar czasu pracy mniej niż 25 pracowników oraz pracodawcy zatrudniający co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy i osiągającemu wskaźnik zatrudnienia osób niepełnosprawnych w wysokości co najmniej 6% przysługuje miesięczne dofinansowanie w wysokości: 70% kwot, o których mowa w art. 26a ust. 1, 90% kwot, o których mowa w art. 26a ust. 1 i 1b – ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą;
     - **a)**
     - **b)**
 
@@ -316,5 +325,5 @@ source: "eli-html"
 
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 25d ust. 4, art. 26c ust. 6 oraz art. 32 ust. 2 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 25d ust. 4, art. 26c ust. 6 oraz art. 32 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2009 r.
 
-**Art. 10.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
+**Art. 10.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243 oraz z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888, Nr 171, poz. 1056, Nr 209, poz. 1318, Nr 220, poz. 1417 i 1418, Nr 227, poz. 1505 i Nr 228, poz. 1507. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 67, poz. 411, Nr 70, poz. 416, Nr 180, poz. 1112, Nr 227, poz. 1505 i Nr 228, poz. 1507. 3) Kryteria te są określone w pkt 9–11 Wytycznych wspólnotowych dotyczących pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2). 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671 oraz z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320.
 

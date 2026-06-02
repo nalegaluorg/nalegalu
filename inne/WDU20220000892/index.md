@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-22 |
 | Data wydania | 2022-04-25 |
-| Wejście w życie | 2022-04-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000892) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/892/text.pdf) |
 
@@ -74,7 +73,13 @@ Uposażenie zasadnicze, o którym mowa w ust. 1, przysługuje odpowiednio żołn
 § 4.
 Przepisy rozporządzenia mają zastosowanie do ustalania wysokości uposażenia zasadniczego żołnierzy pełniących służbę wojskową na czas kształcenia od dnia 23 kwietnia 2022 r.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 13 lutego 2019 r. w sprawie stawek uposażenia zasadniczego żołnierzy pełniących służbę kandydacką (Dz. U. poz. 367), które w związku z wejściem w życie ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) utraciło moc z dniem 23 kwietnia 2022 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 13 lutego 2019 r. w sprawie stawek uposażenia zasadniczego żołnierzy pełniących służbę kandydacką (Dz. U. poz. 367), które w związku z wejściem w życie ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) utraciło moc z dniem 23 kwietnia 2022 r.
 Załącznik – Wysokość uposażenia zasadniczego przysługującego żołnierzowi pełniącemu służbę wojskową na czas kształcenia na studiach w uczelni wojskowej
-Posiadany stopień wojskowy Procent najniższego uposażenia w zależności od roku kształcenia pierwszy rok kształcenia drugi rok kształcenia trzeci rok kształcenia czwarty rok kształcenia piąty rok kształcenia szeregowy(marynarz) 100% 102% 104% 106% 108% starszy szeregowy(starszy marynarz) 104% 106% 108% 110% starszy szeregowy specjalista(starszy marynarz specjalista) 106% 108% 110% 112% kapral (mat) 108% 110% 112% 114% starszy kapral(starszy mat) 110% 112% 114% 116% plutonowy(bosmanmat) 114% 116% 118% sierżant(bosman) 118% 120%
+Posiadany stopień wojskowy Procent najniższego uposażenia w zależności od roku kształcenia pierwszy rok kształcenia drugi rok kształcenia trzeci rok kształcenia czwarty rok kształcenia piąty rok kształcenia szeregowy
+(marynarz) 100% 102% 104% 106% 108% starszy szeregowy
+(starszy marynarz) 104% 106% 108% 110% starszy szeregowy specjalista
+(starszy marynarz specjalista) 106% 108% 110% 112% kapral (mat) 108% 110% 112% 114% starszy kapral
+(starszy mat) 110% 112% 114% 116% plutonowy
+(bosmanmat) 114% 116% 118% sierżant
+(bosman) 118% 120%
 

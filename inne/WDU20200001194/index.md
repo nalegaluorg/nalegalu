@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 29 czerwca 2020 r. w sprawie profilu zaufanego i podpisu zaufanego
+# Rozporządzenie Ministra Cyfryzacjiz dnia 29 czerwca 2020 r. w sprawie profilu zaufanego i podpisu zaufanego Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-29 |
 | Data wydania | 2020-07-06 |
-| Wejście w życie | 2020-07-07 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1194/text.pdf) |
 
@@ -412,7 +411,7 @@ Unieważnienie profilu zaufanego może być dokonane za pośrednictwem systemu t
 1.
 Wykorzystanie środków identyfikacji elektronicznej stosowanych do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego do potwierdzania profilu zaufanego, uwierzytelnienia oraz autoryzacji wymaga:
 1)
-wdrożenia przez podmiot niepubliczny zabezpieczeń dotyczących co najmniej średniego poziomu bezpieczeństwa, wymaganych rozporządzeniem wykonawczym Komisji (UE) nr 2015/1502 z dnia 8 września 2015 r. w sprawie ustanowienia minimalnych specyfikacji technicznych i procedur dotyczących poziomów bezpieczeństwa w zakresie środków identyfikacji elektronicznej na podstawie art. 8 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 7, z późn. zm.), zwanym dalej „rozporządzeniem wykonawczym 2015/1502”;
+wdrożenia przez podmiot niepubliczny zabezpieczeń dotyczących co najmniej średniego poziomu bezpieczeństwa, wymaganych rozporządzeniem wykonawczym Komisji (UE) nr 2015/1502 z dnia 8 września 2015 r. w sprawie ustanowienia minimalnych specyfikacji technicznych i procedur dotyczących poziomów bezpieczeństwa w zakresie środków identyfikacji elektronicznej na podstawie art. 8 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 7, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 345 z 20.12.2016, str. 142., zwanym dalej „rozporządzeniem wykonawczym 2015/1502”;
 2)
 opracowania, ustanawiania, wdrażania, eksploatowania, monitorowania, przeglądania, utrzymywania i doskonalenia systemu zarządzania bezpieczeństwem informacji zgodnie z wymogami określonymi w przepisach wykonawczych wydanych na podstawie art. 18 ustawy;
 3)
@@ -460,8 +459,7 @@ Wnioski, o których mowa w art. 20c ust. 4 ustawy, złożone przed dniem wejści
 § 25.
 Zachowują moc zgody wydane, na podstawie art. 20c ust. 8 ustawy, przed dniem wejścia w życie niniejszego rozporządzenia.
 § 26.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 345 z 20.12.2016, str. 142. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 10 września 2018 r. w sprawie profilu zaufanego i podpisu zaufanego (Dz. U. poz. 1760 oraz z 2019 r. poz. 403), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 99 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, 695 i 1086).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 10 września 2018 r. w sprawie profilu zaufanego i podpisu zaufanego (Dz. U. poz. 1760 oraz z 2019 r. poz. 403), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 99 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, 695 i 1086). 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 345 z 20.12.2016, str. 142. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 10 września 2018 r. w sprawie profilu zaufanego i podpisu zaufanego (Dz. U. poz. 1760 oraz z 2019 r. poz. 403), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 99 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, 695 i 1086).
 
 ## Załącznik nr 1 — –
 
@@ -524,8 +522,7 @@ informacje o niepotwierdzeniu profilu zaufanego:
 – czas (godzina i minuta),
 – czytelny podpis osoby upoważnionej do potwierdzania profilu zaufanego,
 f)
-inne lub uzupełniające adnotacje.
-* Dotyczy potwierdzenia profilu zaufanego w punkcie potwierdzającym.
+inne lub uzupełniające adnotacje. * Dotyczy potwierdzenia profilu zaufanego w punkcie potwierdzającym.
 
 ## Załącznik nr 2 — –
 
@@ -630,8 +627,7 @@ informacje o niedokonaniu przedłużenia profilu zaufanego:
 – miejscowość i data,
 – czytelny podpis osoby upoważnionej do potwierdzania profilu zaufanego,
 e)
-inne lub uzupełniające adnotacje.
-* Dotyczy potwierdzenia profilu zaufanego w punkcie potwierdzającym.
+inne lub uzupełniające adnotacje. * Dotyczy potwierdzenia profilu zaufanego w punkcie potwierdzającym.
 
 ## Załącznik nr 4 — –
 
@@ -672,6 +668,5 @@ informacje dotyczące unieważnienia profilu zaufanego:
 – miejscowość i data,
 – czytelny podpis osoby upoważnionej do potwierdzania profilu zaufanego,
 e)
-inne lub uzupełniające adnotacje.
-* Dotyczy potwierdzenia profilu zaufanego w punkcie potwierdzającym.
+inne lub uzupełniające adnotacje. * Dotyczy potwierdzenia profilu zaufanego w punkcie potwierdzającym.
 

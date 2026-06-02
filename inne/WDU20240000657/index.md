@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-25 |
 | Data wydania | 2024-04-29 |
-| Wejście w życie | 2024-05-07 |
 | Ostatnia zmiana | 2024-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000657) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/657/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2023 r. poz. 1199) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087, z 2022 r. poz. 45, 642, 1000, 1172, 1536, 2117, 2315 i 2399 oraz z 2023 r. poz. 308, 757, 761, 929, 1050, 1126, 1200, 1306, 1350, 1732, 1965, 2193, 2200, 2351, 2564 i 2667.) wprowadza się następujące zmiany:
 1)
 w § 6 w ust. 2 wyrazy „nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1)” zastępuje się wyrazami „2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023)”;
 2)
@@ -37,11 +36,9 @@ w § 13e w ust. 5:
 a)
 w pkt 2 wyrazy „po 2018 r.” zastępuje się wyrazami „w okresie od dnia 1 stycznia 2019 r. do dnia 31 grudnia 2023 r.;”,
 b)
-dodaje się pkt 3 w brzmieniu:
-„
+dodaje się pkt 3 w brzmieniu: „
 3)
-100% wydatków, o których mowa w ust. 3, na gospodarstwo – w przypadku gdy wniosek, o którym mowa w ust. 6, został złożony po 2023 r.
-” ;
+100% wydatków, o których mowa w ust. 3, na gospodarstwo – w przypadku gdy wniosek, o którym mowa w ust. 6, został złożony po 2023 r. ” ;
 3)
 w § 13n w ust. 3 w pkt 1–5 liczbę „2020” zastępuje się liczbą „2022”;
 4)
@@ -49,11 +46,9 @@ w § 13zi w ust. 1 skreśla się wyrazy „, zwanym dalej „kołami gospodyń w
 5)
 w § 13zq:
 a)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Pomoc, o której mowa w ust. 1, jest udzielana do wysokości środków przewidzianych na realizację tej pomocy w planie finansowym Agencji na dany rok kalendarzowy.
-” ,
+Pomoc, o której mowa w ust. 1, jest udzielana do wysokości środków przewidzianych na realizację tej pomocy w planie finansowym Agencji na dany rok kalendarzowy. ” ,
 b)
 w ust. 6 wyrazy „nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis ” zastępuje się wyrazami „2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis ”;
 6)
@@ -65,11 +60,9 @@ ust. 3 w pkt 1b wyrazy „zostały nabyte zboża w okresie od dnia 1 październi
 7)
 w § 13zzd:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Średnia roczna produkcja roślinna, o której mowa w ust. 1 pkt 2, jest ustalana na podstawie danych Instytutu Ekonomiki Rolnictwa i Gospodarki Żywnościowej – Państwowego Instytutu Badawczego o średniej wielkości produkcji roślinnej, udostępnianych przez ministra właściwego do spraw rozwoju wsi na stronie internetowej urzędu obsługującego tego ministra.
-” ,
+Średnia roczna produkcja roślinna, o której mowa w ust. 1 pkt 2, jest ustalana na podstawie danych Instytutu Ekonomiki Rolnictwa i Gospodarki Żywnościowej – Państwowego Instytutu Badawczego o średniej wielkości produkcji roślinnej, udostępnianych przez ministra właściwego do spraw rozwoju wsi na stronie internetowej urzędu obsługującego tego ministra. ” ,
 b)
 w ust. 5 skreśla się wyrazy „albo kalkulacji oszacowania szkód, o której mowa w ust. 7”,
 c)
@@ -81,18 +74,15 @@ w ust. 10 i w ust. 16 w pkt 3 wyrazy „17 listopada” zastępuje się wyrazami
 f)
 w ust. 11 uchyla się pkt 6 i 7,
 g)
-ust. 13 otrzymuje brzmienie:
-„
+ust. 13 otrzymuje brzmienie: „
 13.
-W przypadku gdy producent rolny we wniosku o oszacowanie szkód, o którym mowa w ust. 6, poda procentową wysokość szkód spowodowanych przez suszę w poszczególnych uprawach wyższą niż ta wysokość ustalona na podstawie danych Instytutu Uprawy, Nawożenia i Gleboznawstwa – Państwowego Instytutu Badawczego, do obliczenia wysokości szkody przyjmuje się dane w tym zakresie Instytutu Uprawy, Nawożenia i Gleboznawstwa – Państwowego Instytutu Badawczego.
-” ;
+W przypadku gdy producent rolny we wniosku o oszacowanie szkód, o którym mowa w ust. 6, poda procentową wysokość szkód spowodowanych przez suszę w poszczególnych uprawach wyższą niż ta wysokość ustalona na podstawie danych Instytutu Uprawy, Nawożenia i Gleboznawstwa – Państwowego Instytutu Badawczego, do obliczenia wysokości szkody przyjmuje się dane w tym zakresie Instytutu Uprawy, Nawożenia i Gleboznawstwa – Państwowego Instytutu Badawczego. ” ;
 8)
 uchyla się § 13zzk;
 9)
 w § 13zzm w ust. 7 liczbę „30” zastępuje się liczbą „15”;
 10)
-po § 13zzm dodaje się § 13zzn i 13zzo w brzmieniu:
-„
+po § 13zzm dodaje się § 13zzn i 13zzo w brzmieniu: „
 § 13zzn.
 1.
 W 2024 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, kołu gospodyń wiejskich:
@@ -218,8 +208,7 @@ który dokonał sprzedaży pszenicy, żyta, jęczmienia, pszenżyta lub mieszane
 a)
 prowadzącym działalność w zakresie obrotu zbożami, skupu lub przetwórstwa zbóż lub
 b)
-skupującym zboża w związku z prowadzoną przez te podmioty produkcją zwierzęcą
-którzy są współposiadaczami gospodarstwa tego producenta rolnego;
+skupującym zboża w związku z prowadzoną przez te podmioty produkcją zwierzęcą – którzy są współposiadaczami gospodarstwa tego producenta rolnego;
 2)
 będącemu jednocześnie podmiotem skupującym zboża w związku z prowadzoną przez ten podmiot produkcją zwierzęcą w odniesieniu do sprzedaży danego rodzaju zbóż, które zostały zakupione przez ten podmiot.
 3.
@@ -279,8 +268,7 @@ b)
 13.
 W przypadku gdy ze złożonych wniosków, o których mowa w ust. 3 pkt 1, wynika, że zapotrzebowanie na pomoc, o której mowa w ust. 1, przekracza łącznie kwotę 2,1 mld zł, do obliczenia wysokości tej pomocy stosuje się współczynnik korygujący. Współczynnik korygujący stanowi iloraz kwoty 2,1 mld zł i kwoty równej zapotrzebowaniu na tę pomoc wynikającemu ze złożonych wniosków oraz jest ustalany z dokładnością do dwóch miejsc po przecinku.
 14.
-Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
-” .
+Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności. ” .
 § 2.
 Przepisy § 13zzd rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem mają zastosowanie do udzielania pomocy, o której mowa w § 13zzd ust. 1 rozporządzenia zmienianego w § 1, producentowi rolnemu, w którego gospodarstwie rolnym powstały szkody w uprawach rolnych spowodowane wystąpieniem w 2024 r. suszy w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich.
 § 3.
@@ -292,8 +280,7 @@ Pomoc publiczna określona w:
 1)
 § 13zy ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem,
 2)
-§ 13zzo ust. 1 rozporządzenia zmienianego w § 1
-może być udzielana od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tych przepisach.
+§ 13zzo ust. 1 rozporządzenia zmienianego w § 1 – może być udzielana od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tych przepisach.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087, z 2022 r. poz. 45, 642, 1000, 1172, 1536, 2117, 2315 i 2399 oraz z 2023 r. poz. 308, 757, 761, 929, 1050, 1126, 1200, 1306, 1350, 1732, 1965, 2193, 2200, 2351, 2564 i 2667.
 

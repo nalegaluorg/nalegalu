@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-20 |
 | Data wydania | 2013-12-31 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001733) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1733/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11 ust. 4 ustawy z dnia 21 czerwca 2002 r. o stanie wyjątkowym (Dz. U. Nr 113, poz. 985, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11 ust. 4 ustawy z dnia 21 czerwca 2002 r. o stanie wyjątkowym (Dz. U. Nr 113, poz. 985, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 228, poz. 2261, z 2006 r. Nr 104, poz. 711, z 2011 r. Nr 222, poz. 1323 oraz z 2013 r. poz. 628.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe zasady użycia oddziałów i pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej w czasie stanu wyjątkowego do przywrócenia normalnego funkcjonowania państwa, jeżeli zastosowane siły i środki zostały wyczerpane.
 § 2.
@@ -94,5 +93,5 @@ Minister Obrony Narodowej niezwłocznie sporządza szczegółową informację do
 § 8.
 Traci moc rozporządzenie Rady Ministrów z dnia 6 maja 2003 r. w sprawie szczegółowych zasad użycia oddziałów i pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej w czasie stanu wyjątkowego (Dz. U. Nr 89, poz. 821).
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 228, poz. 2261, z 2006 r. Nr 104, poz. 711, z 2011 r. Nr 222, poz. 1323 oraz z 2013 r. poz. 628.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 21 listopada 2018 r. w sprawie Rady Infrastruktury Informacji Przestrzennej
+# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 21 listopada 2018 r. w sprawie Rady Infrastruktury Informacji Przestrzennej Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-21 |
 | Data wydania | 2018-11-28 |
-| Wejście w życie | 2018-11-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002213) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2213/text.pdf) |
 
@@ -56,6 +55,5 @@ Obsługę administracyjno-biurową prac Rady oraz finansowanie wydatków związa
 § 9.
 Traci moc rozporządzenie Ministra Cyfryzacji z dnia 8 lutego 2017 r. w sprawie Rady Infrastruktury Informacji Przestrzennej (Dz. U. poz. 240).
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 

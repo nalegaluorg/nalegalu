@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-21 |
 | Data wydania | 2019-10-22 |
-| Wejście w życie | 2019-10-23 |
 | Ostatnia zmiana | 2025-02-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2004/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób gospodarowania składnikami rzeczowymi majątku ruchomego Rozdział 3 – Sprzedaż, dzierżawa oraz najem zbędnych lub zużytych składników rzeczowych majątku ruchomego Rozdział 4 – Przekazywanie i darowizna zbędnych lub zużytych składników rzeczowych majątku ruchomego Rozdział 5 – Likwidacja zbędnych lub zużytych składników rzeczowych majątku ruchomego Rozdział 6 – Przepisy przejściowe i przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 5 ust. 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2019 r. poz. 1302, 1309, 1571 i 1655) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowy sposób gospodarowania składnikami rzeczowymi majątku ruchomego, ich sprzedaży, dzierżawy, najmu, przekazywania i darowizny, a także likwidacji przez organy administracji publicznej oraz kierowników jednostek, w ramach gospodarowania nabytym lub powierzonym tym organom lub jednostkom mieniem Skarbu Państwa.
 § 2.
@@ -53,6 +53,7 @@ d)
 które są technicznie przestarzałe, a ich remont byłby ekonomicznie nieuzasadniony;
 3)
 znacznej wartości – należy przez to rozumieć wartość przekraczającą 24 000 zł.
+Sposób gospodarowania składnikami rzeczowymi majątku ruchomego
 § 3.
 Przy zagospodarowaniu składników rzeczowych majątku ruchomego ustala się wartość poszczególnych składników według ich wartości rynkowej, na podstawie przeciętnych cen stosowanych w obrocie rzeczami tego samego rodzaju i gatunku, z uwzględnieniem ich stanu i stopnia zużycia oraz popytu na nie, chyba że z przepisów szczególnych wynika inaczej.
 § 4.
@@ -93,7 +94,7 @@ Zbędne lub zużyte składniki rzeczowe majątku ruchomego, niezagospodarowane w
 Decyzja o zagospodarowaniu składników rzeczowych majątku ruchomego o wartości przekraczającej 200 000 zł, określonej na dzień podjęcia decyzji o zagospodarowaniu w sposób, o którym mowa w ust. 1 i 4, jest podejmowana w porozumieniu z Prezesem Prokuratorii Generalnej Rzeczypospolitej Polskiej.
 § 8.
 1.
-Składnik rzeczowy majątku ruchomego o wartości początkowej nieprzekraczającej kwoty określonej w art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm.), oddany do użytku służbowego na okres co najmniej jednego roku pracownikowi jednostki pozostającemu w stosunku pracy, może zostać sprzedany temu pracownikowi z pominięciem trybów określonych w § 9 ust. 1, za cenę odpowiadającą wartości ustalonej zgodnie z § 3:
+Składnik rzeczowy majątku ruchomego o wartości początkowej nieprzekraczającej kwoty określonej w art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798 i 1978.), oddany do użytku służbowego na okres co najmniej jednego roku pracownikowi jednostki pozostającemu w stosunku pracy, może zostać sprzedany temu pracownikowi z pominięciem trybów określonych w § 9 ust. 1, za cenę odpowiadającą wartości ustalonej zgodnie z § 3:
 1)
 w trakcie trwania stosunku pracy, w przypadku zakwalifikowania tych składników do kategorii majątku zbędnego lub zużytego z przeznaczeniem do zagospodarowania w drodze sprzedaży pracownikowi;
 2)
@@ -101,11 +102,12 @@ w związku z rozwiązaniem stosunku pracy, bez konieczności uprzedniego zakwali
 2.
 Organ, o którym mowa w § 1, albo kierownik jednostki może, w sposób określony w ust. 1, sprzedać pracownikowi jednostki składniki rzeczowe majątku ruchomego o łącznej wartości ustalonej zgodnie z § 3, nieprzekraczającej kwoty określonej w art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, w okresie czteroletnim począwszy od pierwszej sprzedaży.
 3.
-Przepisy ust. 1 i 2 stosuje się odpowiednio do osób pozostających w stosunku służby w rozumieniu art. 8 ust. 15 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, z późn. zm.) oraz osób delegowanych na podstawie odrębnych przepisów.
+Przepisy ust. 1 i 2 stosuje się odpowiednio do osób pozostających w stosunku służby w rozumieniu art. 8 ust. 15 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590, 1655 i 1818.) oraz osób delegowanych na podstawie odrębnych przepisów.
 4.
 Przepis ust. 1 stosuje się odpowiednio do sprzedaży składników rzeczowych majątku ruchomego oddanych do użytku służbowego osobom zajmującym kierownicze stanowiska państwowe w rozumieniu art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2019 r. poz. 152 i 1820), także w przypadku gdy okres, na który oddano te składniki do użytku służbowego, był krótszy niż rok.
 5.
 Przepis ust. 1 pkt 2 stosuje się odpowiednio do sprzedaży składników rzeczowych majątku ruchomego przekazanych posłowi przez Kancelarię Sejmu albo senatorowi przez Kancelarię Senatu lub zakupionych ze środków otrzymanych przez posła albo senatora w ramach ryczałtu na pokrycie kosztów związanych z funkcjonowaniem biura poselskiego, senatorskiego lub poselsko-senatorskiego, temu posłowi albo senatorowi w związku z zakończeniem wykonywania przez niego mandatu.
+Sprzedaż, dzierżawa oraz najem zbędnych lub zużytych składników rzeczowych majątku ruchomego
 § 9.
 1.
 Organ lub jednostka, o których mowa w § 1, dokonuje sprzedaży składników rzeczowych majątku ruchomego o wartości przekraczającej wartość, o której mowa w § 6 ust. 2, w trybie:
@@ -314,6 +316,7 @@ Wydanie przedmiotu sprzedaży nabywcy następuje niezwłocznie po zapłaceniu ce
 Zbędne składniki rzeczowe majątku ruchomego o wartości ustalonej zgodnie z § 3, niższej niż kwota, o której mowa w § 6 ust. 2, mogą być sprzedawane bez stosowania trybów określonych w § 9 ust. 1.
 § 37.
 Do oddania w najem lub dzierżawę składnika rzeczowego majątku ruchomego przepisy o sprzedaży tego składnika stosuje się odpowiednio.
+Przekazywanie i darowizna zbędnych lub zużytych składników rzeczowych majątku ruchomego
 § 38.
 1.
 Organ lub jednostka, o których mowa w § 1, może nieodpłatnie przekazać składniki rzeczowe majątku ruchomego innemu organowi lub jednostce, o których mowa w § 1, lub jednostce samorządu terytorialnego na czas oznaczony albo nieoznaczony.
@@ -385,6 +388,7 @@ Wartość składnika rzeczowego majątku ruchomego, przekazywanego w trybie § 3
 Wartość składnika rzeczowego majątku ruchomego, będącego przedmiotem darowizny w trybie § 39, określa się według wartości księgowej.
 § 41.
 Składniki rzeczowe majątku ruchomego, których dopuszczenie do obrotu wymaga uzyskania certyfikatu zgodności, mogą być przedmiotem darowizny na rzecz podmiotów wykonujących stosowne badania, jeżeli koszt uzyskania certyfikatu zgodności przekraczałby spodziewane wpływy ze sprzedaży tych składników, a mogą one być wykorzystane do celów naukowo-badawczych.
+Likwidacja zbędnych lub zużytych składników rzeczowych majątku ruchomego
 § 42.
 1.
 Likwidacji zbędnych lub zużytych składników rzeczowych majątku ruchomego stanowiących odpady dokonuje się zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2019 r. poz. 701, 730, 1403 i 1579), w szczególności z uwzględnieniem hierarchii sposobów postępowania z odpadami, o której mowa w art. 17–19 tej ustawy.
@@ -395,8 +399,7 @@ były wykorzystywane do wykonywania czynności operacyjno-rozpoznawczych lub czy
 2)
 zostały dostarczone organowi lub jednostce, o których mowa w § 1, pod warunkiem ich niezbywania lub nieprzekazywania podmiotom trzecim,
 3)
-służą do przetwarzania danych, w tym danych osobowych, takie jak telefony komórkowe, tablety, laptopy, dyski twarde
-mogą być zniszczone bez próby zagospodarowania w inny sposób.
+służą do przetwarzania danych, w tym danych osobowych, takie jak telefony komórkowe, tablety, laptopy, dyski twarde – mogą być zniszczone bez próby zagospodarowania w inny sposób.
 3.
 Czynności mających na celu zniszczenie dokonuje komisja likwidacyjna w składzie co najmniej trzyosobowym, powołana przez organ, o którym mowa w § 1, albo kierownika jednostki spośród pracowników jednostki, przy czym, jeżeli liczba pracowników uniemożliwia powołanie do jej składu trzech osób, komisji nie powołuje się, a jej zadania wykonuje organ, o którym mowa w § 1, albo kierownik jednostki.
 4.
@@ -411,6 +414,7 @@ nazwę, rodzaj, cechy identyfikujące oraz wartość składnika rzeczowego mają
 przyczynę zniszczenia;
 4)
 imiona i nazwiska oraz podpisy członków komisji likwidacyjnej.
+Przepisy przejściowe i przepis końcowy
 § 43.
 1.
 Przepisy § 8 ust. 1–4 stosuje się do składników rzeczowych majątku ruchomego oddanych do użytku służbowego przed dniem wejścia w życie niniejszego rozporządzenia.
@@ -421,17 +425,29 @@ Okresy, o których mowa w § 8 ust. 2, liczone są od pierwszej sprzedaży dokon
 § 44.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 45.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 4 kwietnia 2017 r. w sprawie szczegółowego sposobu gospodarowania niektórymi składnikami majątku Skarbu Państwa (Dz. U. poz. 729), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 21 ust. 1 ustawy z dnia 21 lutego 2019 r. o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw (Dz. U. poz. 492). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798 i 1978. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590, 1655 i 1818. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 4 kwietnia 2017 r. w sprawie szczegółowego sposobu gospodarowania niektórymi składnikami majątku Skarbu Państwa (Dz. U. poz. 729), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 21 ust. 1 ustawy z dnia 21 lutego 2019 r. o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw (Dz. U. poz. 492).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sposób gospodarowania składnikami rzeczowymi majątku ruchomego
+#### Rozdział 2 – Sposób gospodarowania składnikami rzeczowymi majątku ruchomego
 
-#### Rozdział 3 Sprzedaż, dzierżawa oraz najem zbędnych lub zużytych składników rzeczowych majątku ruchomego
+#### Rozdział 3 – Sprzedaż, dzierżawa oraz najem zbędnych lub zużytych składników rzeczowych majątku ruchomego
 
-#### Rozdział 4 Przekazywanie i darowizna zbędnych lub zużytych składników rzeczowych majątku ruchomego
+#### Rozdział 4 – Przekazywanie i darowizna zbędnych lub zużytych składników rzeczowych majątku ruchomego
 
-#### Rozdział 5 Likwidacja zbędnych lub zużytych składników rzeczowych majątku ruchomego
+#### Rozdział 5 – Likwidacja zbędnych lub zużytych składników rzeczowych majątku ruchomego
 
-#### Rozdział 6 Przepisy przejściowe i przepis końcowy
+#### Rozdział 6 – Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

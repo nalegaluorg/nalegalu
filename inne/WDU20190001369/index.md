@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 19 lipca 2019 r. w sprawie sposobu obliczenia kwoty różnicy ceny i rekompensaty finansowej oraz sposobu wyznaczania cen odniesienia
+# Rozporządzenie Ministra Energiiz dnia 19 lipca 2019 r. w sprawie sposobu obliczenia kwoty różnicy ceny i rekompensaty finansowej oraz sposobu wyznaczania cen odniesienia Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-07-23 |
-| Wejście w życie | 2019-08-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001369) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1369/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Kwota różnicy ceny Rozdział 3 – Rekompensata finansowa Rozdział 4 – Średnioważona cena energii elektrycznej na rynku hurtowym Rozdział 5 – Pozostałe koszty jednostkowe przedsiębiorstwa obrotu Rozdział 6 – Sposób wyznaczania cen odniesienia obowiązujących w dniu 30 czerwca 2018 r. Rozdział 7 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Załącznik – Tabela cen i stawek opłat za energię elektryczną
 Treść rozporządzenia
 Na podstawie art. 7 ust. 2 ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538 oraz z 2019 r. poz. 412 i 1210) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -62,6 +62,7 @@ tona oleju ekwiwalentnego – równoważnik jednej tony ropy naftowej o wartośc
 Towarowa Giełda Energii S.A. – podmiot prowadzący giełdę towarową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych;
 7)
 wniosek – wniosek, o którym mowa w art. 7 ust. 1 albo 1b ustawy.
+Kwota różnicy ceny
 § 3.
 1.
 Kwotę różnicy ceny, o której mowa w art. 7 ust. 1 pkt 1 ustawy, dla przedsiębiorstwa obrotu oblicza się zgodnie z wzorem: \( K_{PE\_1} = \sum\limits_{n = 1}^N {\sum\limits_{l = 1}^L {\sum\limits_{s = 1}^S {\left[ {\left( {C_{sr} + K_{Pl} – C_{2018_{l, n, s} } } \right) \times E_{1_{l, n, s} } – O_{H_{l, n} } } \right]} } } \) gdzie poszczególne symbole oznaczają: KPE- 1 – kwotę różnicy ceny, o której mowa w art. 7 ust. 1 pkt 1 ustawy, dla przedsiębiorstwa obrotu, wyrażoną w zł, z dokładnością do dwóch miejsc po przecinku, n – odbiorcę końcowego, N – liczbę odbiorców końcowych przedsiębiorstwa obrotu, którego dotyczy wniosek, l – punkt poboru energii elektrycznej odbiorcy końcowego oznaczonego symbolem „n”, L – liczbę punktów poboru energii elektrycznej, w stosunku do których przedsiębiorstwo obrotu jest uprawnione do otrzymania kwoty różnicy ceny, o której mowa w art. 7 ust. 1 pkt 1 ustawy, poprzez dostosowanie cen i stawek opłat za energię elektryczną dla odbiorcy końcowego zgodnie z art. 5 ust. 1 ustawy, s – strefę czasową dla punktu poboru energii elektrycznej oznaczonego symbolem „1” obowiązującą w dniu 1 stycznia 2019 r., S – liczbę stref czasowych stosowanych dla punktu poboru energii elektrycznej oznaczonego symbolem „1” obowiązującą w dniu 1 stycznia 2019 r., Cśr I – średnioważona wolumenem cenę energii elektrycznej na rynku hurtowym, wyznaczoną dla punktu poboru energii elektrycznej oznaczonego symbolem „1” zgodnie z § 10 albo § 11, za okres od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, KPl- pozostałe koszty jednostkowe dla punktu poboru energii elektrycznej oznaczonego symbolem „l”, obliczone zgodnie z § 15 ust. 1, za okres od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., wyrażone w zł/MWh, z dokładnością do dwóch miejsc po przecinku, C2018 l, n, s- cenę energii elektrycznej netto, zawierającą stawkę akcyzy na energię elektryczną rozliczanej przez przedsiębiorstwo obrotu w 2018 r., stosowaną w dniu 30 czerwca 2018 r. w strefie czasowej oznaczonej symbolem „s”, punktu poboru energii elektrycznej oznaczonego symbolem „1”, odbiorcy końcowego oznaczonego symbolem „n”, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, El, n, s – prognozowany wolumen sprzedaży energii elektrycznej w strefie czasowej oznaczonej symbolem „s” do punktu poboru energii elektrycznej oznaczonego symbolem „1” odbiorcy końcowego oznaczonego symbolem „n” w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r. lub wolumen sprzedaży energii elektrycznej w strefie czasowej oznaczonej symbolem „s” do punktu poboru energii elektrycznej oznaczonego symbolem „1” odbiorcy końcowego oznaczonego symbolem „n”, określony na podstawie rzeczywistych odczytów urządzeń pomiarowo-rozliczeniowych za okres od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., wyrażony w MWh, z dokładnością do czterech miejsc po przecinku, 0Hl„n – opłatę stałą netto pobraną za okres od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r. w odniesieniu do punktu poboru energii elektrycznej oznaczonego symbolem „1” odbiorcy końcowego oznaczonego symbolem „n”, wyrażoną w złotych, z dokładnością do dwóch miejsc po przecinku.
@@ -70,8 +71,7 @@ W przypadku gdy dla danego punktu poboru energii elektrycznej różnica między:
 1)
 sumą średnioważonej ceny energii elektrycznej na rynku hurtowym (Cśrι) i pozostałych kosztów jednostkowych (KPι), pomnożoną przez wolumen sprzedaży energii elektrycznej E1l, n, s' a
 2)
-średnioważoną ceną energii elektrycznej stosowaną w dniu 30 czerwca 2018 r. (C2018l, n) pomnożoną przez wolumen sprzedaży energii elektrycznej E1l, n, s
-pomniejszona o opłatę stałą (0Hι, n) jest równa lub mniejsza od zera, kwota różnicy ceny, o której mowa w art. 7 ust. 1 pkt 1 ustawy, dla tego punktu poboru energii elektrycznej wynosi zero.
+średnioważoną ceną energii elektrycznej stosowaną w dniu 30 czerwca 2018 r. (C2018l, n) pomnożoną przez wolumen sprzedaży energii elektrycznej E1l, n, s – pomniejszona o opłatę stałą (0Hι, n) jest równa lub mniejsza od zera, kwota różnicy ceny, o której mowa w art. 7 ust. 1 pkt 1 ustawy, dla tego punktu poboru energii elektrycznej wynosi zero.
 § 4.
 Kwotę różnicy ceny, o której mowa w art. 7 ust. 1 pkt 2 ustawy, dla odbiorcy końcowego, o którym mowa w art. 7 ust. 1 ustawy, oblicza się zgodnie z wzorem: \( K_{ODB} = \left( {{{C_{sr\_2C} \times E_C + C_{sr\_2B} \times E_B + C_{sr\_2A} \times E_A } \over {E_m }} – C_{2018\_ODB} – R_{Asr} } \right) \times E_2 \) gdzie poszczególne symbole oznaczają: KODB- kwotę różnicy ceny, o której mowa w art. 7 ust. 1 pkt 2 ustawy, dla odbiorcy końcowego, o którym mowa w art. 7 ust. 1 ustawy, wyrażoną w złotych, z dokładnością do dwóch miejsc po przecinku, Cśr_2C – średnioważoną cenę energii elektrycznej na rynku hurtowym Cśr_2 dla okresu od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r. dla punktów poboru energii elektrycznej z grupy C, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, Cśr_2B – średnioważona cenę energii elektrycznej na rynku hurtowym Cśr_2 dla okresu od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r. dla punktów poboru energii elektrycznej z grupy B, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, Cśr_2A – średnioważona cenę energii elektrycznej na rynku hurtowym Cśr_2 dla okresu od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r. dla punktów poboru energii elektrycznej z grupy A, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, EC- wolumen energii elektrycznej zakupionej przez odbiorcę końcowego, o którym mowa w art. 7 ust. 1 ustawy, i zużytej w punktach poboru energii elektrycznej należących do grupy C w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., wyrażony w MWh, z dokładnością do czterech miejsc po przecinku, EB- wolumen energii elektrycznej zakupionej przez odbiorcę końcowego, o którym mowa w art. 7 ust. 1 ustawy, i zużytej w punktach poboru energii elektrycznej należących do grupy B w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., wyrażony w MWh, z dokładnością do czterech miejsc po przecinku, EA- wolumen energii elektrycznej zakupionej przez odbiorcę końcowego, o którym mowa w art. 7 ust. 1 ustawy, i zużytej w punktach poboru energii elektrycznej należących do grupy A w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., wyrażony w MWh, z dokładnością do czterech miejsc po przecinku, Em- wolumen energii elektrycznej zakupionej przez odbiorcę końcowego, o którym mowa w art. 7 ust. 1 ustawy, i zużytej przez tego odbiorcę we wszystkich punktach poboru energii elektrycznej w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., wyrażony w MWh, z dokładnością do czterech miejsc po przecinku, C2018_ODB – średnioważona wolumenem cenę energii elektrycznej na rynku hurtowym w okresie od dnia 1 czerwca 2018 r. do dnia 30 czerwca 2018 r., obliczoną zgodnie z § 12, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, RAśr – średnioważoną wolumenem, zakupionej w sposób, o którym mowa w art. 7 ust. 1 ustawy, i zużytej energii elektrycznej, różnicę między wielkością stawki akcyzy na energię elektryczną rozliczaną przez odbiorę końcowego i obowiązującą w dniu 30 czerwca 2018 r. a wielkością stawki akcyzy rozliczaną przez odbiorę końcowego i obowiązującą w 2019 r., zgodnie z art. 89 ust. 3 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864 i 1123), wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku. E2- wolumen energii elektrycznej zakupionej przez odbiorcę końcowego, o którym mowa w art. 7 ust. 1 ustawy, w sposób, o którym mowa w tym przepisie, i zużytej przez tego odbiorcę w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., wyrażony w MWh, z dokładnością do czterech miejsc po przecinku.
 § 5.
@@ -84,6 +84,7 @@ W przypadku, o którym mowa w ust. 1, przedsiębiorstwo obrotu oblicza prognozow
 W przypadku gdy okres rozliczeniowy stosowany wobec punktu poboru energii elektrycznej nie rozpoczął się w dniu 1 stycznia 2019 r. lub nie zakończył się w dniu 30 czerwca 2019 r., kwotę różnicy ceny oblicza się w stosunku do liczby dni tego okresu rozliczeniowego przypadających w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r.
 2.
 W przypadku, o którym mowa w ust. 1, wolumen sprzedaży energii elektrycznej E1ι, n, s oblicza się na podstawie iloczynu średniodobowego zużycia energii elektrycznej wyznaczonego w oparciu o zużycie wskazane na fakturze lub fakturach obejmujących okres od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r. lub na podstawie prognozy zużycia energii elektrycznej obejmującej okres, za który nie wystawiono dotychczas faktury oraz liczby dni w danym okresie rozliczeniowym wynikających z faktury lub faktur przypadających w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r. lub liczby dni w stosunku, do których dokonano prognoz na ten okres.
+Rekompensata finansowa
 § 7.
 1.
 Rekompensatę finansową dla przedsiębiorstwa obrotu oblicza się zgodnie z wzorem: \( K_{PE\_2} = \sum\limits_{n = 1}^N {\sum\limits_{l = 1}^L {\sum\limits_{s = 1}^S {\left[ {\left( {C_{sr} + K_{Pl} – C_{2018_{l, n, s} } } \right) \times E_{3_{l, n, s} } – O_{H_{l, n} } } \right]} } } \) gdzie poszczególne symbole oznaczają: KPE_2 – rekompensatę finansową dla przedsiębiorstwa obrotu w danym pełnym miesiącu z okresu od dnia 1 lipca 2019 r. do dnia 31 grudnia 2019 r., wyrażoną w zł, z dokładnością do dwóch miejsc po przecinku, n – odbiorcę końcowego, N – liczbę odbiorców końcowych przedsiębiorstwa obrotu, którego dotyczy wniosek, 1 – punkt poboru energii elektrycznej odbiorcy końcowego oznaczonego symbolem „n”, L – liczbę punktów poboru energii elektrycznej, w stosunku do których przedsiębiorstwo obrotu jest uprawnione do rekompensaty finansowej, poprzez dostosowanie cen i stawek opłat za energię elektryczną dla odbiorcy końcowego zgodnie z art. 5 ust. 1, s – strefę czasową dla punktu poboru energii elektrycznej oznaczonego symbolem „1” obowiązującą na początku okresu, którego dotyczy wniosek, S – liczbę stref czasowych stosowanych dla punktu poboru energii elektrycznej oznaczonego symbolem „1” na początku okresu, którego dotyczy wniosek, Cśrl – średnioważoną cenę energii elektrycznej na rynku hurtowym, wyznaczoną dla punktu poboru energii elektrycznej oznaczonego symbolem „1” zgodnie z § 10 albo § 11, obowiązującą w miesiącu, którego dotyczy wniosek, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, KPl- pozostałe koszty jednostkowe dla punktu poboru energii elektrycznej oznaczonego symbolem „1”, obowiązujące w miesiącu, którego dotyczy wniosek, obliczone zgodnie z § 15 ust. 1, C2018l, n, s – cenę energii elektrycznej netto, zawierającą stawkę akcyzy na energię elektryczną, rozliczanej przez przedsiębiorstwo obrotu w 2018 r., stosowaną w dniu 30 czerwca 2018 r. w strefie czasowej oznaczonej symbolem „s”, punktu poboru energii elektrycznej oznaczonego symbolem „1”, odbiorcy końcowego oznaczonego symbolem „n”, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, E3l, n, s – prognozowany wolumen sprzedaży energii elektrycznej w strefie czasowej oznaczonej symbolem „s” do punktu poboru energii elektrycznej oznaczonego symbolem „1” odbiorcy końcowego oznaczonego symbolem „n” lub wolumen sprzedaży energii elektrycznej w strefie czasowej oznaczonej symbolem „s” do punktu poboru energii elektrycznej oznaczonego symbolem „1” odbiorcy końcowego oznaczonego symbolem „n”, określony na podstawie rzeczywistych odczytów urządzeń pomiarowo-rozliczeniowych w miesiącu, którego dotyczy wniosek, wyrażony w MWh, z dokładnością do czterech miejsc po przecinku, 0Hl, n – opłatę stałą netto, pobieraną w 2019 r. w odniesieniu do punktu poboru energii elektrycznej oznaczonego symbolem „1”, odbiorcy końcowego oznaczonego symbolem „n” w miesiącu, którego dotyczy wniosek, wyrażoną w złotych, z dokładnością do dwóch miejsc po przecinku.
@@ -92,8 +93,7 @@ W przypadku gdy dla danego punktu poboru energii elektrycznej różnica między:
 1)
 sumą średnioważonej ceny energii elektrycznej na rynku hurtowym (Cśr-l ) i pozostałych kosztów jednostkowych (KPl), pomnożoną przez wolumen sprzedaży energii elektrycznej E3l, n, s, a
 2)
-średnioważoną ceną energii elektrycznej stosowaną w dniu 30 czerwca 2018 r. (C2018l, n) pomnożoną przez wolumen sprzedaży energii elektrycznej E3l, n, s
-pomniejszona o opłatę stałą (OHl, n)jest równa lub mniejsza od zera, rekompensata finansowa dla tego punktu poboru energii elektrycznej wynosi zero.
+średnioważoną ceną energii elektrycznej stosowaną w dniu 30 czerwca 2018 r. (C2018l, n) pomnożoną przez wolumen sprzedaży energii elektrycznej E3l, n, s – pomniejszona o opłatę stałą (OHl, n)jest równa lub mniejsza od zera, rekompensata finansowa dla tego punktu poboru energii elektrycznej wynosi zero.
 § 8.
 1.
 Przedsiębiorstwo obrotu może zastosować wzór, o którym mowa w § 7, dla grup punktów poboru energii elektrycznej określonych w § 10 ust. 2, jeżeli cena energii elektrycznej ustalona w taryfie albo cena i stawka opłaty za energię elektryczną w cenniku energii elektrycznej dla stref czasowych grupy punktów poboru energii elektrycznej była taka sama w miesiącu, którego dotyczy wniosek.
@@ -104,6 +104,7 @@ W przypadku, o którym mowa w ust. 1, przedsiębiorstwo obrotu oblicza prognozow
 W przypadku gdy okres rozliczeniowy stosowany wobec punktu poboru energii elektrycznej nie rozpoczyna się pierwszego dnia miesiąca lub nie kończy się ostatniego dnia miesiąca, rekompensatę finansową dla danego miesiąca oblicza się w stosunku do liczby dni przypadających na fakturę, której okres rozliczeniowy rozpoczyna się albo kończy się w tym miesiącu albo nie rozpoczyna się i nie kończy w tym miesiącu, lecz obejmuje cały miesiąc, dla którego ogłoszono średnioważoną cenę energii elektrycznej, o której mowa w § 10 lub § 11, oraz pozostałe koszty jednostkowe, o których mowa w § 15 ust. 1.
 2.
 W przypadku, o którym mowa w ust. 1, wolumen sprzedaży energii elektrycznej E3ι, n, soblicza się jako iloczyn średniodobowego zużycia energii elektrycznej wyznaczonego na podstawie zużycia wskazanego na fakturze lub na podstawie prognozy wolumenu zużycia energii elektrycznej obejmującej okres, za który nie wystawiono dotychczas faktury obejmującej dany miesiąc, oraz liczby dni w danym miesiącu objętych tą fakturą lub liczby dni, w stosunku do których dokonano prognoz.
+Średnioważona cena energii elektrycznej na rynku hurtowym
 § 10.
 1.
 Średnioważoną cenę energii elektrycznej na rynku hurtowym (Cśr_1) dla umów sprzedaży energii elektrycznej lub umów kompleksowych zawartych przed dniem 1 stycznia 2019 r. z odbiorcami końcowymi, oblicza się zgodnie z wzorem: \( C_{sr\_1} = \left( {1 – C – 0,123} \right) \times \left[ {0,363 \times \left( {A \times C_{Ter\_BASE\_I\_Y} + B \times C_{Ter\_PEAK\_I\_Y} } \right) + 0,637 \times \left( {A \times C_{Ter\_BASE\_II\_Y} + B \times C_{Ter\_PEAK\_II\_Y} } \right)} \right] + C \times C_{poza\_gielda} + 0,123 \times C_{RDN} \) gdzie poszczególne symbole oznaczają: Cśr_1 – średnioważoną cenę energii elektrycznej na rynku hurtowym, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, CTer_base_I_y – średnioważoną wolumenem cenę energii elektrycznej wyznaczoną na podstawie ceny transakcyjnej instrumentu terminowego rocznego BASE_Y-19 na Towarowej Giełdzie Energii S.A. w okresie od dnia 1 stycznia 2018 r. do dnia 30 czerwca 2018 r., wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, CTer_peak_I_y – średnioważoną wolumenem cenę energii elektrycznej wyznaczoną na podstawie ceny transakcyjnej instrumentu terminowego rocznego PEAK5_Y-19 na Towarowej Giełdzie Energii S.A. w okresie od dnia 1 stycznia 2018 r. do dnia 30 czerwca 2018 r., wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, CTer_base_ii_y – średnioważoną wolumenem cenę energii elektrycznej wyznaczoną na podstawie ceny transakcyjnej instrumentu terminowego rocznego BASE_Y-19 na Towarowej Giełdzie Energii S.A. w okresie od dnia 1 lipca 2018 r. do dnia 31 grudnia 2018 r., wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, CTer_peak_ii_y – średnioważoną wolumenem cenę energii elektrycznej wyznaczoną na podstawie ceny transakcyjnej instrumentu terminowego rocznego PEAK5Y-19 na Towarowej Giełdzie Energii S.A. w okresie od dnia 1 lipca 2018 r. do dnia 31 grudnia 2018 r., wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, Crdn – średnioważoną wolumenem cenę energii elektrycznej wyznaczoną na rynku dnia następnego prowadzonym przez Towarową Giełdę Energii S.A. dla dostawy w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r. w przypadku kwoty różnicy ceny albo wdanym miesiącu z okresu od lipca 2019 r. do grudnia 2019 r. w przypadku rekompensaty finansowej, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, Cpoza_giełdą – średnioważona wolumenem cenę energii elektrycznej wynoszącą 226,62 zł/MWh, A – współczynnik określony w ust. 2, B – współczynnik określony w ust. 3, C – współczynnik określony w ust. 4.
@@ -169,8 +170,7 @@ po raz pierwszy z odbiorcą końcowym,
 2)
 po raz kolejny z odbiorcą końcowym, z zastrzeżeniem, że termin obowiązywania uprzednio obowiązującej umowy upłynął zgodnie z treścią tej umowy,
 3)
-w trybie przewidzianym w ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53 i 730)
-w stosunku do wolumenu energii elektrycznej zużywanego przez tego odbiorcę w 2019 r., z uwzględnieniem ust. 5.
+w trybie przewidzianym w ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53 i 730) – w stosunku do wolumenu energii elektrycznej zużywanego przez tego odbiorcę w 2019 r., z uwzględnieniem ust. 5.
 5.
 Przedsiębiorstwo obrotu nie jest uprawnione do złożenia wniosku stosując średnioważoną cenę energii elektrycznej na rynku hurtowym Cśr_2 w stosunku do umów zmienianych zgodnie z art. 6 ust. 1 ustawy.
 6.
@@ -206,6 +206,7 @@ a)
 miesiąca w 2019 r. – średnioważone ceny CTer_base_m i CTer_peak_m dla dostawy w miesiącu publikacji tych cen,
 b)
 kwartału w 2019 r. – średnioważone ceny CTer_base_q i CTer_peak_q dla dostawy w kwartale publikacji tych cen.
+Pozostałe koszty jednostkowe przedsiębiorstwa obrotu
 § 15.
 1.
 Pozostałe koszty jednostkowe (KPι) przedsiębiorstwa obrotu dla punktu poboru energii elektrycznej oznaczonego symbolem „1”, oblicza się zgodnie z wzorem: \( K_{Pl} = K_{Wl} + K_{Bl} + K_K + M_l + A_{2019l} \) gdzie poszczególne symbole oznaczają: KWl – koszty własne prowadzenia działalności gospodarczej przez przedsiębiorstwo obrotu dla punktu poboru energii elektrycznej oznaczonego symbolem „1”, ogłaszane zgodnie z art. 7 ust. 5 ustawy, wyrażone w zł/MWh, z dokładnością do dwóch miejsc po przecinku, KBl – koszty bilansowania charakterystyki zapotrzebowania na energię elektryczną dla punktu poboru energii elektrycznej oznaczonego symbolem „1”, ogłaszane zgodnie z art. 7 ust. 5 ustawy, wyrażone w zł/MWh, z dokładnością do dwóch miejsc po przecinku, KK – koszty uzyskania i umorzenia świadectw pochodzenia, o których mowa w art. 44 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, zwanych dalej „świadectwami pochodzenia”, oraz świadectw efektywności energetycznej, o których mowa w art. 20 ust. 1 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2019 r. poz. 545, 1030 i 1210), zwanych dalej „świadectwami efektywności energetycznej”, obliczone zgodnie z ust. 2 – w przypadku obliczania kwoty różnicy ceny, o której mowa w art. 7 ust. 1 ustawy, albo zgodnie z ust. 3- w przypadku obliczania rekompensaty finansowej, wyrażone w zł/MWh, z dokładnością do dwóch miejsc po przecinku, Ml – marżę dla punktu poboru energii elektrycznej oznaczonego symbolem „1”, uzależnioną od łącznego wolumenu sprzedaży energii elektrycznej odbiorcom końcowym w 2018 r. przez przedsiębiorstwo obrotu ogłaszaną zgodnie z art. 7 ust. 5 ustawy, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, A2019ι – stawkę akcyzy rozliczaną przez przedsiębiorstwo obrotu dla punktu poboru energii elektrycznej oznaczonego symbolem „1” w okresie, którego dotyczy wniosek, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku.
@@ -223,6 +224,7 @@ Do obliczenia pozostałych kosztów jednostkowych KPι, Prezes URE przyjmuje war
 W przypadku gdy stawka akcyzy rozliczana przez przedsiębiorstwo obrotu w 2019 r. dla punktu poboru energii elektrycznej jest inna od stawki, o której mowa w art. 89 ust. 3 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, lub akcyza nie jest rozliczana przez przedsiębiorstwo obrotu dla punktu poboru energii elektrycznej, przedsiębiorstwo obrotu stosuje we wniosku wartość pozostałych kosztów jednostkowych KPι odpowiednio pomniejszoną o różnicę pomiędzy stawką akcyzy, o której mowa w art. 89 ust. 3 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, a faktycznie rozliczaną stawką akcyzy.
 8.
 Towarowa Giełda Energii S.A. przekazuje Prezesowi URE wartość średnioważonej wolumenem ceny KOZE_2019m oraz KEf _O1dm za dany miesiąc w terminie 5 dni od dnia zakończenia danego miesiąca.
+Sposób wyznaczania cen odniesienia obowiązujących w dniu 30 czerwca 2018 r.
 § 16.
 1.
 Ceny lub stawki opłat za energię elektryczną dla danej strefy czasowej danego punktu poboru energii elektrycznej odbiorcy końcowego obowiązujące w dniu 30 czerwca 2018 r. przedsiębiorstwo obrotu wyznacza, w przypadku gdy przedsiębiorstwo to w tym dniu:
@@ -284,6 +286,7 @@ Przepisów ust. 10 i 11 nie stosuje się w przypadku wystąpienia przesłanek ok
 Przedsiębiorstwo obrotu pełniące na obszarze, na którym przyłączony jest odbiorca końcowy, funkcję sprzedawcy z urzędu w rozumieniu art. 3 pkt 29 ustawy – Prawo energetyczne w dniu 30 czerwca 2018 r., zamieszcza niezwłocznie na swojej stronie internetowej i utrzymuje do dnia 31 grudnia 2019 r. cenniki standardowe obowiązujące w dniu 30 czerwca 2018 r.
 § 17.
 W przypadkach, o których mowa w § 16 ust. 1 pkt 3, ust. 5, ust. 6 pkt 2 oraz ust. 10, przedsiębiorstwo obrotu wyznacza cenę za energię elektryczną dla tego odbiorcy końcowego obowiązującą w dniu 30 czerwca 2018 r., w sposób zapewniający spełnienie następującego warunku: \( C_{Z_l } = (\sum\limits_{s = 1}^S {C_{O_{s, l} } \times E_{O_{s, l} } )/E_{OC_{l,} } } \) gdzie poszczególne symbole oznaczają: CZl – cenę energii elektrycznej dla punktu poboru energii elektrycznej oznaczonego symbolem „1”, zgodnie z załącznikiem do rozporządzenia, s – strefę czasową stosowaną dla punktu poboru energii elektrycznej oznaczonego symbolem „1”, S – liczbę stref czasowych stosowanych dla punktu poboru energii elektrycznej oznaczonego symbolem „1”, COs, l-wyznaczoną cenę energii elektrycznej w strefie czasowej oznaczonej symbolem „s”, wyrażoną w zł/MWh, z dokładnością do dwóch miejsc po przecinku, EOs, l – prognozowany przez przedsiębiorstwo obrotu roczny wolumen sprzedanej energii elektrycznej dla punktu poboru energii elektrycznej oznaczonego symbolem „1” w strefie czasowej oznaczonej symbolem „s”, wyrażony w MWh, z dokładnością do czterech miejsc po przecinku, EOCl – prognozowany roczny całkowity wolumen sprzedanej i zużytej energii elektrycznej w punkcie poboru energii elektrycznej oznaczonym symbolem „1” w 2019 r., wyrażony w MWh, z dokładnością do czterech miejsc po przecinku.
+Przepisy przejściowe i końcowe
 § 18.
 Prezes URE, w terminie 10 dni od dnia wejścia w życie niniejszego rozporządzenia, oblicza i ogłasza w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki średnioważone ceny energii elektrycznej na rynku hurtowym:
 1)
@@ -318,22 +321,36 @@ pisemnego potwierdzenia, w stosunku do punktów poboru energii elektrycznej, o k
 2.
 W przypadku gdy odbiorca końcowy korzystał w dniu 30 czerwca 2018 r. z usług sprzedawcy rezerwowego, o którym mowa w art. 3 pkt 29a ustawy – Prawo energetyczne, odbiorca ten w odpowiedzi na wezwanie przedsiębiorstwa obrotu przedstawia dodatkowo pisemne potwierdzenie, że w dniu 30 czerwca 2018 r. korzystał z usług takiego sprzedawcy.
 § 22.
-Rozporządzenie wchodzi w życie po upływie 21 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
+Rozporządzenie wchodzi w życie po upływie 21 dni od dnia ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 Załącznik – Tabela cen i stawek opłat za energię elektryczną
-Punkt poboru energii elektrycznej (PPE) Cena energii elektrycznej [zł/MWh] Stawka opłaty (zł/m-c) Grupa G 258,31 4,3 Grupa C 277,58 38,1 Grupa B 227,13 200,6 Grupa A 196,61 240,9 * Tabela zawiera ceny energii elektrycznej netto (z akcyzą) i stawki opłat netto
+Punkt poboru energii elektrycznej (PPE) Cena energii elektrycznej [zł/MWh] Stawka opłaty (zł/m-c) Grupa G 258,31 4,3 Grupa C 277,58 38,1 Grupa B 227,13 200,6 Grupa A 196,61 240,9
+* Tabela zawiera ceny energii elektrycznej netto (z akcyzą) i stawki opłat netto
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Kwota różnicy ceny
+#### Rozdział 2 – Kwota różnicy ceny
 
-#### Rozdział 3 Rekompensata finansowa
+#### Rozdział 3 – Rekompensata finansowa
 
-#### Rozdział 4 Średnioważona cena energii elektrycznej na rynku hurtowym
+#### Rozdział 4 – Średnioważona cena energii elektrycznej na rynku hurtowym
 
-#### Rozdział 5 Pozostałe koszty jednostkowe przedsiębiorstwa obrotu
+#### Rozdział 5 – Pozostałe koszty jednostkowe przedsiębiorstwa obrotu
 
-#### Rozdział 6 Sposób wyznaczania cen odniesienia obowiązujących w dniu 30 czerwca 2018 r.
+#### Rozdział 6 – Sposób wyznaczania cen odniesienia obowiązujących w dniu 30 czerwca 2018 r.
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

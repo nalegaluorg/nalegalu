@@ -22,75 +22,57 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-09 |
 | Data wydania | 2015-02-27 |
-| Wejście w życie | 2015-03-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000279) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/279/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 15 ust. 10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.) zarządza się, co następuje:
+Na podstawie art. 15 ust. 10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650, z 2014 r. poz. 24, 486, 502, 538, 616, 1055, 1199 i 1822 oraz z 2015 r. poz. 21. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 4 czerwca 2012 r. w sprawie pomieszczeń przeznaczonych dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, pokoi przejściowych, tymczasowych pomieszczeń przejściowych i policyjnych izb dziecka, regulaminu pobytu w tych pomieszczeniach, pokojach i izbach oraz sposobu postępowania z zapisami obrazu z tych pomieszczeń, pokoi i izb (Dz. U. poz. 638) wprowadza się następujące zmiany:
 1)
 w § 33 w ust. 2:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-sypialnie dla nieletnich;
-” ,
+sypialnie dla nieletnich; ” ,
 b)
 uchyla się pkt 7;
 2)
-w § 37 w ust. 2 w pkt 2 lit. b otrzymuje brzmienie:
-„
+w § 37 w ust. 2 w pkt 2 lit. b otrzymuje brzmienie: „
 b)
-na ścianach lub podłodze korytarza, w szczególności przy drzwiach sypialni i izolatki sanitarnej,
-” ;
+na ścianach lub podłodze korytarza, w szczególności przy drzwiach sypialni i izolatki sanitarnej, ” ;
 3)
-w § 39 w ust. 2 pkt 4 otrzymuje brzmienie:
-„
+w § 39 w ust. 2 pkt 4 otrzymuje brzmienie: „
 4)
-korytarzu, świetlicy, izolatce sanitarnej i magazynie do przechowywania rzeczy przekazanych do depozytu oraz bielizny pościelowej;
-” ;
+korytarzu, świetlicy, izolatce sanitarnej i magazynie do przechowywania rzeczy przekazanych do depozytu oraz bielizny pościelowej; ” ;
 4)
-w § 40 ust. 2 otrzymuje brzmienie:
-„
+w § 40 ust. 2 otrzymuje brzmienie: „
 2.
-Kopię regulaminu, o którym mowa w ust. 1, oraz wykaz instytucji stojących na straży praw nieletnich umieszcza się w sypialniach dla nieletnich, świetlicy i izolatce sanitarnej, w sposób uniemożliwiający ich zniszczenie lub dokonanie przy ich pomocy zamachu na zdrowie człowieka.
-” ;
+Kopię regulaminu, o którym mowa w ust. 1, oraz wykaz instytucji stojących na straży praw nieletnich umieszcza się w sypialniach dla nieletnich, świetlicy i izolatce sanitarnej, w sposób uniemożliwiający ich zniszczenie lub dokonanie przy ich pomocy zamachu na zdrowie człowieka. ” ;
 5)
-w § 41 dodaje się ust. 5 i 6 w brzmieniu:
-„
+w § 41 dodaje się ust. 5 i 6 w brzmieniu: „
 5.
 Zapis obrazu może być przechowywany w urządzeniu monitorującym, jeżeli warunki techniczne umożliwiają takie przechowanie przez okres, o którym mowa w ust. 1, oraz gdy niszczenie zapisanego obrazu następuje przez jego automatyczne nadpisanie. Przepisów ust. 2–4 nie stosuje się.
 6.
-W przypadku gdy zapis obrazu jest przechowywany w urządzeniu monitorującym, za prawidłowe zabezpieczenie zapisanego obrazu przed utratą, zniekształceniem lub nieuprawnionym ujawnieniem odpowiada kierownik jednostki organizacyjnej Policji.
-” ;
+W przypadku gdy zapis obrazu jest przechowywany w urządzeniu monitorującym, za prawidłowe zabezpieczenie zapisanego obrazu przed utratą, zniekształceniem lub nieuprawnionym ujawnieniem odpowiada kierownik jednostki organizacyjnej Policji. ” ;
 6)
 w § 42:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Zapis obrazu z pomieszczeń dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, pokoi przejściowych, tymczasowych pomieszczeń przejściowych oraz policyjnych izb dziecka jest niszczony po upływie okresu jego przechowywania, o którym mowa w § 41 ust. 1.
-” ,
+Zapis obrazu z pomieszczeń dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, pokoi przejściowych, tymczasowych pomieszczeń przejściowych oraz policyjnych izb dziecka jest niszczony po upływie okresu jego przechowywania, o którym mowa w § 41 ust. 1. ” ,
 b)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
-Dopuszcza się niszczenie zapisanego obrazu na urządzeniu monitorującym przez jego automatyczne nadpisanie w przypadku, gdy warunki techniczne tego urządzenia umożliwiają przechowywanie obrazu przez okres, o którym mowa w § 41 ust 1.
-” ;
+Dopuszcza się niszczenie zapisanego obrazu na urządzeniu monitorującym przez jego automatyczne nadpisanie w przypadku, gdy warunki techniczne tego urządzenia umożliwiają przechowywanie obrazu przez okres, o którym mowa w § 41 ust 1. ” ;
 7)
 w załączniku nr 12:
 a)
-w § 2 pkt 4 otrzymuje brzmienie:
-„
+w § 2 pkt 4 otrzymuje brzmienie: „
 4)
-gdy w ciągu 48 godzin od chwili zawiadomienia właściwego sądu rodzinnego o zatrzymaniu nieletniego nie ogłoszono nieletniemu postanowienia o umieszczeniu go w schronisku dla nieletnich lub tymczasowym umieszczeniu w młodzieżowym ośrodku wychowawczym, rodzinie zastępczej zawodowej albo w zakładzie leczniczym lub domu pomocy społecznej.
-” ,
+gdy w ciągu 48 godzin od chwili zawiadomienia właściwego sądu rodzinnego o zatrzymaniu nieletniego nie ogłoszono nieletniemu postanowienia o umieszczeniu go w schronisku dla nieletnich lub tymczasowym umieszczeniu w młodzieżowym ośrodku wychowawczym, rodzinie zastępczej zawodowej albo w zakładzie leczniczym lub domu pomocy społecznej. ” ,
 b)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
 1.
 Decyzję o rozmieszczeniu nieletnich w izbie podejmuje kierownik izby lub osoba przez niego upoważniona, mając na względzie bezpieczeństwo nieletnich, konieczność zapewnienia skuteczności działań podejmowanych przez Policję oraz poszanowania praw nieletnich, wobec których działania te są podejmowane.
@@ -111,16 +93,13 @@ W przypadku szczególnie agresywnego zachowania nieletniego należy niezwłoczni
 5.
 Nieletniego wykazującego objawy choroby zakaźnej umieszcza się w izolatce sanitarnej lub sypialni dla nieletnich, w której nie przebywają inni nieletni, i niezwłocznie informuje się o tym lekarza.
 6.
-Dalszy sposób postępowania z nieletnim, o którym mowa w ust. 4 i 5, jest uzależniony od zaleceń lekarskich.
-” ,
+Dalszy sposób postępowania z nieletnim, o którym mowa w ust. 4 i 5, jest uzależniony od zaleceń lekarskich. ” ,
 c)
 uchyla się § 10,
 d)
-w § 16 ust. 3 otrzymuje brzmienie:
-„
+w § 16 ust. 3 otrzymuje brzmienie: „
 3.
-W przypadku zwalniania osoby z izby w celu przekazania, środki, dokumenty tożsamości, urządzenia techniczne i przedmioty, o których mowa w § 4 ust. 1 pkt 2, z wyjątkiem sznurowadeł, paska i szalika, przejmuje na czas doprowadzenia lub konwoju policjant realizujący to doprowadzenie lub konwój.
-” .
+W przypadku zwalniania osoby z izby w celu przekazania, środki, dokumenty tożsamości, urządzenia techniczne i przedmioty, o których mowa w § 4 ust. 1 pkt 2, z wyjątkiem sznurowadeł, paska i szalika, przejmuje na czas doprowadzenia lub konwoju policjant realizujący to doprowadzenie lub konwój. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650, z 2014 r. poz. 24, 486, 502, 538, 616, 1055, 1199 i 1822 oraz z 2015 r. poz. 21. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.
 

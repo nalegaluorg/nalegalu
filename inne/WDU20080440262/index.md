@@ -22,16 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-02-29 |
 | Data wydania | 2008-03-14 |
-| Wejście w życie | 2008-03-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080440262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/262/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 26 stycznia 2007 r. o płatnościach do gruntów rolnych i płatności cukrowej (Dz. U. Nr 35, poz. 217 i Nr 99, poz. 666) wprowadza się następujące zmiany:
 
 - **1)** tytuł ustawy otrzymuje brzmienie: „ o płatnościach w ramach systemów wsparcia bezpośredniego ” ;
-- **2)** w art. 1: w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „zadania oraz właściwość organów i jednostek organizacyjnych w zakresie dotyczącym płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów, określonych w przepisach:”, w pkt 2: – lit. a otrzymuje brzmienie: „ a) przyznawania rolnikom płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów, ” , – lit. c otrzymuje brzmienie: „ c) wypłaty rolnikom płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **2)** w art. 1: w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „zadania oraz właściwość organów i jednostek organizacyjnych w zakresie dotyczącym płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów, określonych w przepisach:”, w pkt 2: lit. a otrzymuje brzmienie: „ przyznawania rolnikom płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów, ” , lit. c otrzymuje brzmienie: „ wypłaty rolnikom płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **a)**
     - **b)**
+    - **a)**
+    - **c)**
     - **c)**
 
 - **3)** zasady i tryb: przyznawania i wypłaty rolnikom pomocy do rzepaku i pomocy do plantacji trwałych, przeprowadzania kontroli w zakresie, o którym mowa w lit. a. ” ;
@@ -97,7 +98,7 @@ source: "eli-html"
 
 - **1)** chmielu,
 - **2)** roślin przeznaczonych na paszę, uprawianych na trwałych użytkach zielonych,
-- **3)** innych roślin położonych na działkach rolnych objętych wnioskiem o przyznanie jednolitej płatności obszarowej. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **3)** innych roślin – położonych na działkach rolnych objętych wnioskiem o przyznanie jednolitej płatności obszarowej. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Rolnikowi, który w danym roku spełnia warunki do przyznania jednolitej płatności obszarowej i złożył wniosek o przyznanie tej płatności, przysługuje płatność uzupełniająca do powierzchni uprawy chmielu, do której przyznano mu płatność uzupełniającą do powierzchni uprawy chmielu za 2006 r., zwana dalej „płatnością uzupełniającą do powierzchni uprawy chmielu niezwiązaną z produkcją”. ” , ust. 3 otrzymuje brzmienie: „
@@ -153,7 +154,7 @@ source: "eli-html"
 1. Kierownik biura powiatowego Agencji jest właściwy do przyjmowania:
 
 - **1)** oświadczeń o dostawie roślin energetycznych, o których mowa w art. 27 ust. 2 rozporządzenia nr 1973/2004,
-- **2)** deklaracji zbiorów, o których mowa w art. 34 ust. 2 rozporządzenia nr 1973/2004 składanych przez wnioskodawcę.
+- **2)** deklaracji zbiorów, o których mowa w art. 34 ust. 2 rozporządzenia nr 1973/2004 – składanych przez wnioskodawcę.
 
 2. Prezes Agencji przekazuje Prezesowi Agencji Rynku Rolnego zestawienie informacji dotyczące złożonych przez wnioskodawców deklaracji zbiorów, o których mowa w art. 34 ust. 2 rozporządzenia nr 1973/2004.
 
@@ -172,7 +173,7 @@ source: "eli-html"
 5. Wnioskodawca przechowuje kopie:
 
 - **1)** deklaracji, o której mowa w art. 33 ust. 2 rozporządzenia nr 1973/2004,
-- **2)** deklaracji zbiorów, o której mowa w art. 34 ust. 2 rozporządzenia nr 1973/2004 przez okres 3 lat od dnia złożenia tych deklaracji do Agencji.
+- **2)** deklaracji zbiorów, o której mowa w art. 34 ust. 2 rozporządzenia nr 1973/2004 – przez okres 3 lat od dnia złożenia tych deklaracji do Agencji.
 
 6. Podmiot skupujący oraz pierwsza jednostka przetwórcza przechowują kopię umowy, o której mowa w art. 25 rozporządzenia nr 1973/2004, przez okres 5 lat od dnia jej zawarcia.
 
@@ -225,7 +226,7 @@ source: "eli-html"
 3. Minister właściwy do spraw rynków rolnych, w drodze rozporządzenia, określi szczegółowe wymagania, jakim powinny odpowiadać rejestry, o których mowa w ust. 1, oraz szczegółowe wymagania ich prowadzenia, w tym:
 
 - **1)** dane, jakie powinny być zawarte w rejestrach, inne niż wymienione w art. 38 ust. 2–4 rozporządzenia nr 1973/2004,
-- **2)** częstotliwość dokonywania wpisów w rejestrach mając na względzie specyfikę działalności wykonywanej przez podmioty, o których mowa w art. 38 rozporządzenia nr 1973/2004, zapewnienie informacji niezbędnych do prawidłowego przeprowadzania kontroli tych podmiotów oraz ujednolicenie informacji zawartych w tych rejestrach. ” ;
+- **2)** częstotliwość dokonywania wpisów w rejestrach – mając na względzie specyfikę działalności wykonywanej przez podmioty, o których mowa w art. 38 rozporządzenia nr 1973/2004, zapewnienie informacji niezbędnych do prawidłowego przeprowadzania kontroli tych podmiotów oraz ujednolicenie informacji zawartych w tych rejestrach. ” ;
 - **15)** po art. 16 dodaje się art. 16a-16e w brzmieniu: „
 
 **Art. 16a.**
@@ -266,8 +267,14 @@ source: "eli-html"
 
 3. Minister właściwy do spraw rolnictwa, na podstawie informacji przekazanych przez Prezesa Agencji w zakresie określonym w ust. 1, ogłasza w dzienniku urzędowym ministra właściwego do spraw rolnictwa listę, o której mowa w ust. 1, z podaniem informacji określonych w art. 16b ust. 2 pkt 1–4 oraz pkt 6 i 7, w terminie, o którym mowa w art. 171db ust. 4 rozporządzenia nr 1973/2004. ” ;
 
-- **16)** w art. 17: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia: a) stawkę jednolitej płatności obszarowej, mając na względzie art. 143b ust. 2 i 7 rozporządzenia nr 1782/2003 oraz kurs wymiany euro ustalany zgodnie z art. 3 rozporządzenia Komisji (WE) nr 1913/2006 z dnia 20 grudnia 2006 r. ustanawiającym szczegółowe zasady stosowania agromonetarnego systemu dla euro w rolnictwie i zmieniającym niektóre rozporządzenia (Dz. Urz. UE L 365 z 21.12.2006, str. 52, z późn. zm.), zwanego dalej „rozporządzeniem nr 1913/2006”, b) stawki płatności uzupełniających dla poszczególnych upraw, mając na względzie możliwość zróżnicowania stawek w zależności od preferowanych kierunków rozwoju produkcji rolnej, założenia do ustawy budżetowej na dany rok i kurs wymiany euro ustalany zgodnie z rozporządzeniem nr 1913/2006; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, stawkę pomocy krajowej do owoców stanowiącą część stawki płatności do owoców miękkich, uwzględniając wysokość pomocy wspólnotowej do owoców na dany rok i dopuszczalną możliwą wysokość pomocy krajowej do owoców, jak również założenia do ustawy budżetowej na dany rok oraz kurs wymiany euro ustalony zgodnie z rozporządzeniem nr 1913/2006; ” , ust. 3 otrzymuje brzmienie: „
+- **16)** w art. 17: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia: stawkę jednolitej płatności obszarowej, mając na względzie art. 143b ust. 2 i 7 rozporządzenia nr 1782/2003 oraz kurs wymiany euro ustalany zgodnie z art. 3 rozporządzenia Komisji (WE) nr 1913/2006 z dnia 20 grudnia 2006 r. ustanawiającym szczegółowe zasady stosowania agromonetarnego systemu dla euro w rolnictwie i zmieniającym niektóre rozporządzenia (Dz. Urz. UE L 365 z 21.12.2006, str. 52, z późn. zm.), zwanego dalej „rozporządzeniem nr 1913/2006”, stawki płatności uzupełniających dla poszczególnych upraw, mając na względzie możliwość zróżnicowania stawek w zależności od preferowanych kierunków rozwoju produkcji rolnej, założenia do ustawy budżetowej na dany rok i kurs wymiany euro ustalany zgodnie z rozporządzeniem nr 1913/2006; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **1a)** w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, stawkę pomocy krajowej do owoców stanowiącą część stawki płatności do owoców miękkich, uwzględniając wysokość pomocy wspólnotowej do owoców na dany rok i dopuszczalną możliwą wysokość pomocy krajowej do owoców, jak również założenia do ustawy budżetowej na dany rok oraz kurs wymiany euro ustalony zgodnie z rozporządzeniem nr 1913/2006; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Wydając rozporządzenie, o którym mowa w ust. 1 pkt 2 lit. a, minister właściwy do spraw rolnictwa może uzależnić objęcie danego rodzaju roślin płatnościami uzupełniającymi od liczby zwierząt danego gatunku posiadanych przez rolnika w danym okresie lub w danym dniu, lub od przyznania rolnikowi określonej płatności obszarowej w danym okresie lub do danej powierzchni gruntów rolnych. ” , w ust. 4 uchyla się pkt 2, 4 i 5, po ust. 4 dodaje się ust. 4a w brzmieniu: „
@@ -278,9 +285,11 @@ source: "eli-html"
 4a. Wydając rozporządzenie, o którym mowa w ust. 4 pkt 1, minister właściwy do spraw rolnictwa oraz minister właściwy do spraw rynków rolnych mogą:
 
 - **1)** odstąpić od określenia plonu reprezentatywnego w przypadku roślin, o których mowa w art. 26 ust. 2 rozporządzenia nr 1973/2004;
-- **2)** zróżnicować wielkość plonu reprezentatywnego ze względu na obszar, na którym jest uprawiany dany gatunek roślin energetycznych, mając na względzie podział administracyjny kraju. ” , w ust. 5: – pkt 2 otrzymuje brzmienie: „ 2) minimalną powierzchnię upraw poszczególnych roślin energetycznych, mając na względzie warunki przyznawania płatności do upraw roślin energetycznych; ” , – dodaje się pkt 3 w brzmieniu: „ 3) rodzaje roślin, inne niż wymienione w art. 33 ust. 1 lit. a rozporządzenia nr 1973/2004, do których przysługują płatności do roślin energetycznych, mając na względzie art. 33 ust. 1 akapit drugi tego rozporządzenia. ” ;
+- **2)** zróżnicować wielkość plonu reprezentatywnego ze względu na obszar, na którym jest uprawiany dany gatunek roślin energetycznych, mając na względzie podział administracyjny kraju. ” , w ust. 5: pkt 2 otrzymuje brzmienie: „
     - **e)**
 
+- **2)** minimalną powierzchnię upraw poszczególnych roślin energetycznych, mając na względzie warunki przyznawania płatności do upraw roślin energetycznych; ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** rodzaje roślin, inne niż wymienione w art. 33 ust. 1 lit. a rozporządzenia nr 1973/2004, do których przysługują płatności do roślin energetycznych, mając na względzie art. 33 ust. 1 akapit drugi tego rozporządzenia. ” ;
 - **17)** po art. 20 dodaje się art. 20a w brzmieniu: „
 
 **Art. 20a.** Rodzaje dowodów określone na podstawie art. 20 ust. 3 stosuje się odpowiednio do potwierdzania działania siły wyższej lub wystąpienia nadzwyczajnych okoliczności, ze względu na wystąpienie których może zostać wydana zgoda, o której mowa w art. 9 ust. 1. ” ;
@@ -567,7 +576,7 @@ source: "eli-html"
 
 - **1)** termin rozpoczęcia wypłat zaliczkowych płatności obszarowych, płatności cukrowej lub płatności do pomidorów lub
 - **2)** wysokość wypłat zaliczkowych płatności obszarowych, płatności cukrowej lub płatności do pomidorów, lub
-- **3)** obszary objęte wypłatami zaliczkowych płatności obszarowych, płatności cukrowej lub płatności do pomidorów mając na względzie wielkość szkód, które powstały w gospodarstwach rolnych na skutek nadzwyczajnych okoliczności, ze względu na wystąpienie których Rzeczpospolita Polska została upoważniona do dokonania wypłat zaliczkowych płatności obszarowych, płatności cukrowej i płatności do pomidorów przed dniem 1 grudnia.
+- **3)** obszary objęte wypłatami zaliczkowych płatności obszarowych, płatności cukrowej lub płatności do pomidorów – mając na względzie wielkość szkód, które powstały w gospodarstwach rolnych na skutek nadzwyczajnych okoliczności, ze względu na wystąpienie których Rzeczpospolita Polska została upoważniona do dokonania wypłat zaliczkowych płatności obszarowych, płatności cukrowej i płatności do pomidorów przed dniem 1 grudnia.
 
 3. W przypadku dokonywania wypłaty zaliczkowej płatności obszarowych, płatności cukrowej lub płatności do pomidorów w decyzji w sprawie przyznania tych płatności określa się wysokość i termin wypłaty zaliczkowej płatności. ” ;
 
@@ -597,7 +606,7 @@ source: "eli-html"
 
 - **38)** art. 40 otrzymuje brzmienie: „
 
-**Art. 40.** Prezes Agencji odstępuje od ustalania kwot nienależnie lub nadmiernie pobranych płatności obszarowych, płatności cukrowej lub płatności do pomidorów, o którym mowa w art. 11 ust. 4 ustawy z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2005 r. Nr 31, poz. 264, z późn. zm.), w przypadku gdy kwota każdej z tych płatności nie jest wyższa od kwoty stanowiącej równowartość 50 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 3 rozporządzenia nr 1913/2006. ” ;
+**Art. 40.** Prezes Agencji odstępuje od ustalania kwot nienależnie lub nadmiernie pobranych płatności obszarowych, płatności cukrowej lub płatności do pomidorów, o którym mowa w art. 11 ust. 4 ustawy z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2005 r. Nr 31, poz. 264, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 132, poz. 1110, Nr 150, poz. 1259, Nr 163, poz. 1362 i Nr 184, poz. 1539, z 2006 r. Nr 92, poz. 638, Nr 144, poz. 1040, Nr 170, poz. 1217, Nr 187, poz. 1381, Nr 208, poz. 1541 i Nr 249, poz. 1832 oraz z 2007 r. Nr 35, poz. 217.), w przypadku gdy kwota każdej z tych płatności nie jest wyższa od kwoty stanowiącej równowartość 50 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 3 rozporządzenia nr 1913/2006. ” ;
 
 - **39)** po art. 40 dodaje się art. 40a w brzmieniu: „ Należności ustalone w decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej i płatności do pomidorów nie mogą być przedmiotem umowy przeniesienia wierzytelności na osobę trzecią (przelewu), o której mowa w przepisach Kodeksu cywilnego. ” ;
 - **40)** art. 41 otrzymuje brzmienie: „
@@ -606,7 +615,7 @@ source: "eli-html"
 
 - **1)** wyznaczyć Agencję lub Agencję Rynku Rolnego jako jednostkę organizacyjną wykonującą określone obowiązki lub uprawnienia lub
 - **2)** określić zadania realizowane przez Agencję lub Agencję Rynku Rolnego, lub sposób i tryb ich realizacji, lub
-- **3)** określić szczegółowe warunki dotyczące przyznawania płatności określonych tymi przepisami mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie płatności określonych tymi przepisami. ” ;
+- **3)** określić szczegółowe warunki dotyczące przyznawania płatności określonych tymi przepisami – mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie płatności określonych tymi przepisami. ” ;
 - **41)** w art. 42 ust. 1 otrzymuje brzmienie: „
 
 1. Prezes Agencji, na podstawie danych dotyczących powierzchni działek rolnych zadeklarowanych we wnioskach o przyznanie płatności obszarowych, oblicza średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju w danym roku. ” ;
@@ -636,7 +645,7 @@ source: "eli-html"
     - **d)**
     - **e)**
 
-- **3)** będąc zatwierdzoną pierwszą jednostką przetwórczą: nie zapewnia wartości gospodarczej produktów energetycznych uzyskanych w drodze przetwarzania, o której mowa w art. 24 ust. 6 rozporządzenia nr 1973/2004, przetwarza rośliny energetyczne na cele energetyczne niezgodnie z przepisami, w tym nie przetwarza na produkty końcowe określone w umowie roślin energetycznych w ilości równej co najmniej plonom reprezentatywnym albo całkowitej ilości tych roślin, w przypadku gdy dla danej rośliny energetycznej nie określono plonu reprezentatywnego, lub nie przetworzył roślin energetycznych do dnia 31 lipca drugiego roku po roku zbiorów, uniemożliwia lub utrudnia przeprowadzenie kontroli na miejscu, o której mowa w art. 39 ust. 3 rozporządzenia nr 1973/2004, nie prowadzi rejestru, o którym mowa w art. 38 ust. 1 i 2 rozporządzenia nr 1973/2004, lub prowadzi ten rejestr niezgodnie z przepisami, odmówił podpisania oświadczenia, o którym mowa w art. 27 ust. 2 rozporządzenia nr 1973/2004, nie przyjmuje od wnioskodawcy roślin energetycznych zgodnie z zawartą umową albo całkowitej ilości roślin energetycznych, w przypadku gdy dla danej rośliny energetycznej nie określono plonu reprezentatywnego podlega karze pieniężnej.
+- **3)** będąc zatwierdzoną pierwszą jednostką przetwórczą: nie zapewnia wartości gospodarczej produktów energetycznych uzyskanych w drodze przetwarzania, o której mowa w art. 24 ust. 6 rozporządzenia nr 1973/2004, przetwarza rośliny energetyczne na cele energetyczne niezgodnie z przepisami, w tym nie przetwarza na produkty końcowe określone w umowie roślin energetycznych w ilości równej co najmniej plonom reprezentatywnym albo całkowitej ilości tych roślin, w przypadku gdy dla danej rośliny energetycznej nie określono plonu reprezentatywnego, lub nie przetworzył roślin energetycznych do dnia 31 lipca drugiego roku po roku zbiorów, uniemożliwia lub utrudnia przeprowadzenie kontroli na miejscu, o której mowa w art. 39 ust. 3 rozporządzenia nr 1973/2004, nie prowadzi rejestru, o którym mowa w art. 38 ust. 1 i 2 rozporządzenia nr 1973/2004, lub prowadzi ten rejestr niezgodnie z przepisami, odmówił podpisania oświadczenia, o którym mowa w art. 27 ust. 2 rozporządzenia nr 1973/2004, nie przyjmuje od wnioskodawcy roślin energetycznych zgodnie z zawartą umową albo całkowitej ilości roślin energetycznych, w przypadku gdy dla danej rośliny energetycznej nie określono plonu reprezentatywnego – podlega karze pieniężnej.
     - **a)**
     - **b)**
     - **c)**
@@ -675,7 +684,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **6)** będąc zatwierdzonym przetwórcą lub skupującym owoce miękkie, uniemożliwia lub utrudnia przeprowadzenie kontroli, o której mowa w art. 171db ust. 3 rozporządzenia nr 1973/2004 podlega karze pieniężnej.
+- **6)** będąc zatwierdzonym przetwórcą lub skupującym owoce miękkie, uniemożliwia lub utrudnia przeprowadzenie kontroli, o której mowa w art. 171db ust. 3 rozporządzenia nr 1973/2004 – podlega karze pieniężnej.
 
 2. Wysokość kary pieniężnej, o której mowa w ust. 1, nie może przekroczyć kwoty 10 000 zł.
 
@@ -695,7 +704,7 @@ source: "eli-html"
 
 - **46)** użyty w art. 7 ust. 4–8, art. 18 ust. 1, 2, 4 i 5, art. 19, art. 20 ust. 2, art. 24 ust. 3, art. 25 ust. 2 i 3 i art. 28 ust. 1 w różnej liczbie i przypadku wyraz „płatności” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „płatności obszarowe”.
 
-**Art. 2.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.) w art. 2 w ust. 1 pkt 3 i 4 otrzymują brzmienie: „
+**Art. 2.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883.) w art. 2 w ust. 1 pkt 3 i 4 otrzymują brzmienie: „
 
 - **3)** dokonanie czynności urzędowej, wydanie zaświadczenia i zezwolenia przez Agencję Restrukturyzacji i Modernizacji Rolnictwa albo Agencję Rynku Rolnego w sprawach z zakresu wykonywania przez te agencje zadań w ramach realizacji Wspólnej Polityki Rolnej, w tym w sprawach płatności w ramach systemów wsparcia bezpośredniego określonych przepisami Unii Europejskiej, pomocy de minimis w sektorze rolnictwa lub rybołówstwa oraz innych zadań dotyczących organizacji rynków rolnych, z wyłączeniem zadań w zakresie administrowania obrotem z zagranicą towarami rolno-spożywczymi;
 - **4)** złożenie dokumentu stwierdzającego udzielenie pełnomocnictwa lub prokury albo jego odpisu, wypisu lub kopii w sprawach określonych w pkt 3; ” .
@@ -735,5 +744,5 @@ source: "eli-html"
 
 **Art. 12.** Traci moc ustawa z dnia 19 lutego 2004 r. o organizacji rynku przetworów owocowych i warzywnych (Dz. U. Nr 62, poz. 572 oraz z 2005 r. Nr 10, poz. 64).
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 15 marca 2008 r.
+**Art. 13.** Ustawa wchodzi w życie z dniem 15 marca 2008 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 132, poz. 1110, Nr 150, poz. 1259, Nr 163, poz. 1362 i Nr 184, poz. 1539, z 2006 r. Nr 92, poz. 638, Nr 144, poz. 1040, Nr 170, poz. 1217, Nr 187, poz. 1381, Nr 208, poz. 1541 i Nr 249, poz. 1832 oraz z 2007 r. Nr 35, poz. 217. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883.
 

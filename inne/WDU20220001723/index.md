@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 sierpnia 2022 r. o zmianie niektórych ustaw w celu wzmocnienia bezpieczeństwa gazowego państwa w związku z sytuacją na rynku gazu
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie niektórych ustaw w celu wzmocnienia bezpieczeństwa gazowego państwa w związku z sytuacją na rynku gazu Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-05 |
 | Data wydania | 2022-08-17 |
-| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1723/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385) wprowadza się następujące zmiany:
 
-- **1)** w art. 15f w ust. 2 zdanie drugie otrzymuje brzmienie: „ Współpraca ta obejmuje w szczególności podejmowanie działań mających na celu zapobieganie powstaniu zagrożenia bezpieczeństwa dostarczania paliw gazowych oraz współdziałanie w przypadku wystąpienia stanów kryzysowych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącym środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającym rozporządzenie (UE) nr 994/2010 (Dz. Urz. UE L 280 z 28.10.2017, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2017/1938”. ” ;
+- **1)** w art. 15f w ust. 2 zdanie drugie otrzymuje brzmienie: „ Współpraca ta obejmuje w szczególności podejmowanie działań mających na celu zapobieganie powstaniu zagrożenia bezpieczeństwa dostarczania paliw gazowych oraz współdziałanie w przypadku wystąpienia stanów kryzysowych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącym środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającym rozporządzenie (UE) nr 994/2010 (Dz. Urz. UE L 280 z 28.10.2017, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 104 z 01.04.2022, str. 53., zwanego dalej „rozporządzeniem 2017/1938”. ” ;
 - **2)** po art. 15f dodaje się art. 15fa w brzmieniu: „ Art. 15fa.
 
 1. Minister właściwy do spraw energii jest właściwym organem w rozumieniu art. 2 pkt 7 rozporządzenia 2017/1938.
@@ -92,7 +91,7 @@ source: "eli-html"
 
 - **1)** zgody na dostosowanie lub wymianę instalacji i urządzeń, wyrażonej przez podmioty, o których mowa w ust. 3, lub
 - **2)** technicznych możliwości dostosowania lub wymiany instalacji i urządzeń u podmiotów, o których mowa w ust. 3, lub
-- **3)** dostosowania lub wymiany instalacji i urządzeń, o których mowa w ust. 2, po otrzymaniu informacji od operatora systemu dystrybucyjnego gazowego albo przesyłowego gazowego, o której mowa w ust. 1 operator systemu przesyłowego gazowego lub dystrybucyjnego gazowego, do którego sieci dany odbiorca jest przyłączony, może wstrzymać dostarczanie paliw gazowych, z uwzględnieniem ust. 5.
+- **3)** dostosowania lub wymiany instalacji i urządzeń, o których mowa w ust. 2, po otrzymaniu informacji od operatora systemu dystrybucyjnego gazowego albo przesyłowego gazowego, o której mowa w ust. 1 – operator systemu przesyłowego gazowego lub dystrybucyjnego gazowego, do którego sieci dany odbiorca jest przyłączony, może wstrzymać dostarczanie paliw gazowych, z uwzględnieniem ust. 5.
 
 5. W przypadku odbiorców paliw gazowych, o których mowa w art. 62b ust. 1 pkt 2 lit. b i c, brak wyrażenia zgody, o której mowa w ust. 3, przez właściciela lokalu we wspólnocie mieszkaniowej, o której mowa w art. 6 ustawy z dnia 24 czerwca 1994 r. o własności lokali, albo członka spółdzielni mieszkaniowej, o której mowa w art. 1 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2021 r. poz. 1208 oraz z 2022 r. poz. 1561), albo przez osobę zużywającą paliwa gazowe w lokalu, o którym mowa w art. 62b ust. 1 pkt 2 lit. c, stanowi podstawę do wstrzymania dostarczania paliwa gazowego wyłącznie w stosunku do tego, kto odmówił wyrażenia zgody, o której mowa w ust. 3.
 
@@ -134,14 +133,14 @@ source: "eli-html"
 
 **Art. 49a.**
 
-1. W przypadku wystąpienia przesłanek, o których mowa w art. 11 ust. 1 lit. a albo b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącego środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającego rozporządzenie (UE) nr 994/2010 (Dz. Urz. UE L 280 z 28.10.2017, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2017/1938”, minister właściwy do spraw energii, po otrzymaniu informacji od operatora systemu gazowego lub operatora systemu połączonego gazowego, ogłasza, w drodze rozporządzenia, stan kryzysowy, o którym mowa w art. 11 ust. 1 lit. a albo b tego rozporządzenia, biorąc pod uwagę przewidywany brak możliwości pokrycia zapotrzebowania odbiorców na gaz ziemny.
+1. W przypadku wystąpienia przesłanek, o których mowa w art. 11 ust. 1 lit. a albo b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącego środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającego rozporządzenie (UE) nr 994/2010 (Dz. Urz. UE L 280 z 28.10.2017, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 104 z 01.04.2022, str. 53., zwanego dalej „rozporządzeniem 2017/1938”, minister właściwy do spraw energii, po otrzymaniu informacji od operatora systemu gazowego lub operatora systemu połączonego gazowego, ogłasza, w drodze rozporządzenia, stan kryzysowy, o którym mowa w art. 11 ust. 1 lit. a albo b tego rozporządzenia, biorąc pod uwagę przewidywany brak możliwości pokrycia zapotrzebowania odbiorców na gaz ziemny.
 
 2. Stan nadzwyczajny, o którym mowa w art. 11 ust. 1 lit. c rozporządzenia 2017/1938, minister właściwy do spraw energii ogłasza, w drodze rozporządzenia, po otrzymaniu informacji od operatora systemu gazowego lub operatora systemu połączonego gazowego o wystąpieniu co najmniej jednej z poniższych sytuacji:
 
 - **1)** zagrożenia bezpieczeństwa gazowego państwa,
 - **2)** zakłóceń w dostarczaniu gazu ziemnego do systemu gazowego,
 - **3)** gwałtownego, nieprzewidzianego uszkodzenia lub zniszczenia urządzeń, instalacji lub sieci, powodującego przerwę w ich używaniu lub utratę ich właściwości zagrażającą bezpieczeństwu funkcjonowania systemu gazowego,
-- **4)** nieprzewidzianego wzrostu zużycia gazu ziemnego biorąc pod uwagę konieczność zapewnienia nieprzerwanych dostaw gazu ziemnego do odbiorców.
+- **4)** nieprzewidzianego wzrostu zużycia gazu ziemnego – biorąc pod uwagę konieczność zapewnienia nieprzerwanych dostaw gazu ziemnego do odbiorców.
 
 3. Rozporządzenia, o których mowa w ust. 1 i 2, określają czas obowiązywania ogłaszanego stanu kryzysowego. ” ;
 
@@ -176,12 +175,12 @@ source: "eli-html"
 3. Rozliczenia kosztów wynikających z uruchomienia zapasów obowiązkowych gazu ziemnego są prowadzone dla każdej doby gazowej, w której nastąpiło uruchomienie tych zapasów, odrębnie z:
 
 - **1)** przedsiębiorstwami energetycznymi wykonującymi działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiotami dokonującymi przywozu gazu ziemnego zobowiązanymi do utrzymywania zapasów obowiązkowych gazu ziemnego, których zapasy obowiązkowe zostały uruchomione, lub z podmiotami przyjmującymi zlecenie wykonywania zadań w zakresie utrzymywania zapasów obowiązkowych gazu ziemnego,
-- **2)** podmiotami zlecającymi usługi przesyłania gazu ziemnego, na rzecz których nastąpiło uruchomienie zapasów obowiązkowych gazu ziemnego po zakończeniu miesiąca, w którym uruchomiono te zapasy.
+- **2)** podmiotami zlecającymi usługi przesyłania gazu ziemnego, na rzecz których nastąpiło uruchomienie zapasów obowiązkowych gazu ziemnego – po zakończeniu miesiąca, w którym uruchomiono te zapasy.
 
 4. Minister właściwy do spraw energii określi, w drodze rozporządzenia:
 
 - **1)** sposób prowadzenia rozliczeń za uruchomione zapasy obowiązkowe gazu ziemnego oraz kalkulacji ceny za paliwa gazowe stosowanej do tych rozliczeń,
-- **2)** szczegółowy sposób bilansowania systemu przesyłowego gazowego i prowadzenia rozliczeń z tytułu jego niezbilansowania w okresie uruchomienia zapasów obowiązkowych gazu ziemnego oraz w okresie wprowadzenia ograniczeń biorąc pod uwagę konieczność zapewnienia bezpieczeństwa gazowego państwa, potrzebę zapewnienia neutralności kosztowej działań bilansujących podejmowanych przez operatora systemu przesyłowego gazowego lub operatora systemów połączonych gazowych, równoprawne traktowanie przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą, podmiotów dokonujących przywozu gazu ziemnego oraz innych użytkowników systemu gazowego, a także przejrzysty i obiektywny charakter przyjętego systemu rozliczeń. ” ;
+- **2)** szczegółowy sposób bilansowania systemu przesyłowego gazowego i prowadzenia rozliczeń z tytułu jego niezbilansowania w okresie uruchomienia zapasów obowiązkowych gazu ziemnego oraz w okresie wprowadzenia ograniczeń – biorąc pod uwagę konieczność zapewnienia bezpieczeństwa gazowego państwa, potrzebę zapewnienia neutralności kosztowej działań bilansujących podejmowanych przez operatora systemu przesyłowego gazowego lub operatora systemów połączonych gazowych, równoprawne traktowanie przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą, podmiotów dokonujących przywozu gazu ziemnego oraz innych użytkowników systemu gazowego, a także przejrzysty i obiektywny charakter przyjętego systemu rozliczeń. ” ;
 - **9)** w art. 52a w ust. 1 w pkt 2 oraz w ust. 4 wyrazy „o których mowa w art. 52 ust. 7 pkt 1” zastępuje się wyrazami „o których mowa w art. 521 ust. 2 pkt 1”;
 - **10)** uchyla się art. 53;
 - **11)** w art. 54 ust. 1 otrzymuje brzmienie: „
@@ -217,7 +216,7 @@ source: "eli-html"
 
 **Art. 3.** W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1524 oraz z 2021 r. poz. 1093) w art. 25 w ust. 1 wyrazy „36 miesięcy” zastępuje się wyrazami „48 miesięcy”.
 
-**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.) w art. 31zzh ust. 8 otrzymuje brzmienie: „ 8. Spółka prowadząca giełdową izbę rozrachunkową oraz spółka wykonująca funkcję giełdowej izby rozrachunkowej na podstawie art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi stosuje przepisy ust. 1, 3, 4 i 6 również do dnia 31 grudnia 2026 r., przy czym:
+**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459 oraz z 2022 r. poz. 202, 218, 655, 830, 1301, 1370, 1488 i 1561.) w art. 31zzh ust. 8 otrzymuje brzmienie: „ 8. Spółka prowadząca giełdową izbę rozrachunkową oraz spółka wykonująca funkcję giełdowej izby rozrachunkowej na podstawie art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi stosuje przepisy ust. 1, 3, 4 i 6 również do dnia 31 grudnia 2026 r., przy czym:
 
 - **1)** zwalnia się z obowiązku ustanowienia zabezpieczenia finansowego w stosunku do maksymalnie 75% wartości wymaganych depozytów, o których mowa w ust. 1, podmiot będący członkiem giełdowej izby rozrachunkowej, w przypadku gdy podmiot ten: posiada rating kredytowy dokonany przez instytucję wskazaną w ust. 3 na minimalnym poziomie określonym w ust. 4 lub wykonuje obowiązek, o którym mowa w art. 49a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz złoży oświadczenie w formie aktu notarialnego o poddaniu się egzekucji w trybie z art. 777 § 1 pkt 5 Kodeksu postępowania cywilnego;
     - **a)**
@@ -290,7 +289,7 @@ source: "eli-html"
 3. Operator systemu magazynowania po raz pierwszy sporządza i przedkłada ministrowi właściwemu do spraw energii oraz Prezesowi Urzędu Regulacji Energetyki:
 
 - **1)** plan rozwoju, o którym mowa w art. 161 ust. 1 ustawy zmienianej w art. 1 – w terminie do dnia 30 września 2022 r.,
-- **2)** aktualizację planu rozwoju, o którym mowa w art. 161 ust. 1 ustawy zmienianej w art. 1 w terminie do dnia 31 marca 2025 r.
+- **2)** aktualizację planu rozwoju, o którym mowa w art. 161 ust. 1 ustawy zmienianej w art. 1 – w terminie do dnia 31 marca 2025 r.
 
 **Art. 7.** Minister właściwy do spraw energii może określić na rok 2022 lub 2023, w drodze rozporządzenia, niższą niż określona w art. 49b ust. 1 ustawy zmienianej w art. 1 ilość gazu ziemnego wysokometanowego wprowadzonego do sieci przesyłowej, biorąc pod uwagę konieczność zapewnienia ciągłości dostaw paliw gazowych do odbiorców końcowych, znaczenie cen paliw gazowych dla gospodarki i funkcjonowania państwa oraz równoprawne traktowanie uczestników rynku.
 
@@ -302,5 +301,5 @@ source: "eli-html"
 
 2. Pierwszą opłatę prowizyjną od gwarancji, o której mowa w ust. 1, obliczoną zgodnie z art. 14a ust. 2 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, wnosi się na rachunek, o którym mowa w art. 2d ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2022 r. poz. 1613), w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu. 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 104 z 01.04.2022, str. 53. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 104 z 01.04.2022, str. 53. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459 oraz z 2022 r. poz. 202, 218, 655, 830, 1301, 1370, 1488 i 1561.
 

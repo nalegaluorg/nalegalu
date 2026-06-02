@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 12 grudnia 2017 r. zmieniające rozporządzenie w sprawie licencjonowania personelu lotniczego
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 12 grudnia 2017 r. zmieniające rozporządzenie w sprawie licencjonowania personelu lotniczego Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 2322).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-12 |
 | Data wydania | 2018-01-19 |
-| Wejście w życie | 2018-02-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000158) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/158/text.pdf) |
 
-Treść rozporządzenia § 1. § 2. § 3. § 4. § 5.
+Treść rozporządzenia
+§ 1.
+§ 2.
+§ 3.
+§ 4.
+§ 5.
 Załącznik – Nazwy specjalności członka personelu lotniczego i symbole licencji
 Treść rozporządzenia
 Na podstawie art. 104 ust. 1 pkt 1–5 w związku z art. 94 ust. 8 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089 oraz z 2018 r. poz. 138) zarządza się, co następuje:
@@ -37,90 +41,65 @@ w § 2:
 a)
 uchyla się pkt 25,
 b)
-pkt 37 otrzymuje brzmienie:
-„
+pkt 37 otrzymuje brzmienie: „
 37)
-rozporządzeniu nr 1321/2014 – rozumie się przez to rozporządzenie Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 362 z 17.12.2014, str. 1, z późn. zm.);
-” ,
+rozporządzeniu nr 1321/2014 – rozumie się przez to rozporządzenie Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 362 z 17.12.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 07.07.2015, str. 4, Dz. Urz. UE L 241 z 17.09.2015, str. 16 oraz Dz. Urz. UE L 50 z 28.02.2017, str. 13.); ” ,
 c)
-po pkt 38 dodaje się pkt 38a w brzmieniu:
-„
+po pkt 38 dodaje się pkt 38a w brzmieniu: „
 38a)
-rozporządzeniu nr 748/2012 – rozumie się przez to rozporządzenie Komisji (UE) nr 748/2012 z dnia 3 sierpnia 2012 r. ustanawiające przepisy wykonawcze dotyczące certyfikacji statków powietrznych i związanych z nimi wyrobów, części i akcesoriów w zakresie zdatności do lotu i ochrony środowiska oraz dotyczące certyfikacji organizacji projektujących i produkujących (Dz. Urz. UE L 224 z 21.08.2012, str. 1, z późn. zm.);
-” ,
+rozporządzeniu nr 748/2012 – rozumie się przez to rozporządzenie Komisji (UE) nr 748/2012 z dnia 3 sierpnia 2012 r. ustanawiające przepisy wykonawcze dotyczące certyfikacji statków powietrznych i związanych z nimi wyrobów, części i akcesoriów w zakresie zdatności do lotu i ochrony środowiska oraz dotyczące certyfikacji organizacji projektujących i produkujących (Dz. Urz. UE L 224 z 21.08.2012, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 4 z 09.01.2013, str. 36, Dz. Urz. UE L 23 z 28.01.2014, str. 12, Dz. Urz. UE L 167 z 01.07.2015, str. 1 oraz Dz. Urz. UE L 3 z 06.01.2016, str. 3.); ” ,
 d)
-po pkt 40 dodaje się pkt 40a w brzmieniu:
-„
+po pkt 40 dodaje się pkt 40a w brzmieniu: „
 40a)
-TPR – rozumie się przez to uprawnienie pilota doświadczalnego odpowiedniej kategorii prób w locie;
-” ;
+TPR – rozumie się przez to uprawnienie pilota doświadczalnego odpowiedniej kategorii prób w locie; ” ;
 2)
-w § 3 w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w § 3 w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-FNL, FEL, FDL, MML;
-” ;
+FNL, FEL, FDL, MML; ” ;
 3)
-w § 10 w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w § 10 w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-po utracie lub przedłużeniu ważności uprawnienia uzupełniającego w zakresie języka;
-” ;
+po utracie lub przedłużeniu ważności uprawnienia uzupełniającego w zakresie języka; ” ;
 4)
-w § 11 ust. 1 otrzymuje brzmienie:
-„
+w § 11 ust. 1 otrzymuje brzmienie: „
 1.
 Zawieszenie albo cofnięcie licencji, o których mowa w § 3:
 1)
 ust. 1 pkt 1 oraz ust. 2, a także uprawnień do nich wpisanych, z wyłączeniem uprawnień, o których mowa w § 2 pkt 40a, następuje w przypadkach określonych w przepisach FCL.070 załącznika I oraz ARA.FCL.250 sekcja II załącznika VI do rozporządzenia nr 1178/2011;
 2)
-ust. 1 pkt 2 i 3, a także uprawnień do nich wpisanych oraz uprawnień, o których mowa w § 2 pkt 40a, następuje w przypadkach określonych w art. 100 ustawy.
-” ;
+ust. 1 pkt 2 i 3, a także uprawnień do nich wpisanych oraz uprawnień, o których mowa w § 2 pkt 40a, następuje w przypadkach określonych w art. 100 ustawy. ” ;
 5)
-w § 22 pkt 2 otrzymuje brzmienie:
-„
+w § 22 pkt 2 otrzymuje brzmienie: „
 2)
-szkolenia praktycznego na ziemi i w locie – w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 1 i 3 oraz ust. 2, a także FNL i FEL;
-” ;
+szkolenia praktycznego na ziemi i w locie – w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 1 i 3 oraz ust. 2, a także FNL i FEL; ” ;
 6)
 w § 26:
 a)
 w ust. 2 w pkt 1 wyraz „2042/2003” zastępuje się wyrazem „1321/2014”,
 b)
-dodaje się ust. 3 w brzmieniu:
-„
+dodaje się ust. 3 w brzmieniu: „
 3.
-Szkolenie pilotów doświadczalnych, z wyłączeniem szkolenia, o którym mowa w załączniku I (Część FCL) do rozporządzenia nr 1178/2011, może prowadzić ośrodek szkolenia lotniczego, o którym mowa w § 28 ust. 5, o ile ośrodek ten posiada uprawnienia do prowadzenia szkolenia pilotów doświadczalnych.
-” ;
+Szkolenie pilotów doświadczalnych, z wyłączeniem szkolenia, o którym mowa w załączniku I (Część FCL) do rozporządzenia nr 1178/2011, może prowadzić ośrodek szkolenia lotniczego, o którym mowa w § 28 ust. 5, o ile ośrodek ten posiada uprawnienia do prowadzenia szkolenia pilotów doświadczalnych. ” ;
 7)
 w § 28:
 a)
-w ust. 1 w pkt 1 lit. b otrzymuje brzmienie:
-„
+w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „
 b)
-instrukcją operacyjną określającą zasady, zakres współpracy z innymi organizacjami i procedury organizacji i wykonywania operacji lotniczych związanych ze szkoleniem w locie, kierowania tymi operacjami i sprawowania nad nimi bieżącego nadzoru operacyjnego – w przypadku ośrodków prowadzących szkolenie podczas operacji statków powietrznych,
-” ,
+instrukcją operacyjną określającą zasady, zakres współpracy z innymi organizacjami i procedury organizacji i wykonywania operacji lotniczych związanych ze szkoleniem w locie, kierowania tymi operacjami i sprawowania nad nimi bieżącego nadzoru operacyjnego – w przypadku ośrodków prowadzących szkolenie podczas operacji statków powietrznych, ” ,
 b)
-w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
-prowadzi szkolenie w zakresie określonym w otrzymanym certyfikacie lub zgodnie z programami szkoleń lotniczych specjalistycznych, o których mowa w ust. 4, lub w zakresie szkoleń do uzyskania TPR;
-” ,
+prowadzi szkolenie w zakresie określonym w otrzymanym certyfikacie lub zgodnie z programami szkoleń lotniczych specjalistycznych, o których mowa w ust. 4, lub w zakresie szkoleń do uzyskania TPR; ” ,
 c)
-dodaje się ust. 5 w brzmieniu:
-„
+dodaje się ust. 5 w brzmieniu: „
 5.
-Ośrodek szkolenia lotniczego prowadzący szkolenia w celu uzyskania licencji, o których mowa w § 2 pkt 10, 11, 14–16, 18, 19 lub 21, może prowadzić szkolenia lotnicze w zakresie, o którym mowa w rozdziale 3 załącznika nr 3 do rozporządzenia.
-” ;
+Ośrodek szkolenia lotniczego prowadzący szkolenia w celu uzyskania licencji, o których mowa w § 2 pkt 10, 11, 14–16, 18, 19 lub 21, może prowadzić szkolenia lotnicze w zakresie, o którym mowa w rozdziale 3 załącznika nr 3 do rozporządzenia. ” ;
 8)
-w § 29 dodaje się ust. 4 w brzmieniu:
-„
+w § 29 dodaje się ust. 4 w brzmieniu: „
 4.
-Przepisu ust. 3 nie stosuje się do TPR.
-” ;
+Przepisu ust. 3 nie stosuje się do TPR. ” ;
 9)
-§ 37 otrzymuje brzmienie:
-„
+§ 37 otrzymuje brzmienie: „
 § 37.
 1.
 Licencje, o których mowa w § 3 ust. 1 pkt 1 i 3 oraz ust. 2, uprawniają ich posiadaczy do wykonywania czynności lotniczych na statkach powietrznych wymienionych w załączniku II do rozporządzenia nr 216/2008.
@@ -141,14 +120,11 @@ W przypadku braku pilota posiadającego CPL(AG), spełniającego wymagania do uz
 1)
 CPL(H) albo ATPL(H), z wpisanym TPR pilota śmigłowcowego, lub
 2)
-CPL(A) albo ATPL(A), z wpisanym TPR pilota samolotowego, oraz świadectwa kwalifikacji pilota wiatrakowcowego o maksymalnej masie startowej (MTOM) do 560 kg (UAGP).
-” ;
+CPL(A) albo ATPL(A), z wpisanym TPR pilota samolotowego, oraz świadectwa kwalifikacji pilota wiatrakowcowego o maksymalnej masie startowej (MTOM) do 560 kg (UAGP). ” ;
 10)
-w § 38 ust. 5 otrzymuje brzmienie:
-„
+w § 38 ust. 5 otrzymuje brzmienie: „
 5.
-Mechanik lotniczy posiadający licencję na obsługę techniczną statku powietrznego Part-66 w kategorii lub podkategorii B1, B2 lub B3, wydaną zgodnie z wymaganiami rozporządzenia nr 1321/2014, może na terytorium Rzeczypospolitej Polskiej poświadczać obsługę samolotów i śmigłowców objętych niniejszym rozporządzeniem, właściwych dla kategorii lub podkategorii licencji, z uwzględnieniem ograniczeń wpisanych do licencji po spełnieniu warunków, o których mowa w ust. 4.
-” ;
+Mechanik lotniczy posiadający licencję na obsługę techniczną statku powietrznego Part-66 w kategorii lub podkategorii B1, B2 lub B3, wydaną zgodnie z wymaganiami rozporządzenia nr 1321/2014, może na terytorium Rzeczypospolitej Polskiej poświadczać obsługę samolotów i śmigłowców objętych niniejszym rozporządzeniem, właściwych dla kategorii lub podkategorii licencji, z uwzględnieniem ograniczeń wpisanych do licencji po spełnieniu warunków, o których mowa w ust. 4. ” ;
 11)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
 12)
@@ -156,8 +132,8 @@ w załączniku nr 3 do rozporządzenia:
 a)
 w rozdziale 1 w pkt 1.1.14–1.1.16 oraz w pkt 1.2.1 w ppkt 1 wyraz „2042/2003” zastępuje się wyrazem „1321/2014”,
 b)
-rozdział 3 otrzymuje brzmienie:
-„
+rozdział 3 otrzymuje brzmienie: „
+Uprawnienie pilota doświadczalnego
 3.1.
 Wymagania dotyczące TPR
 3.1.1.
@@ -315,8 +291,7 @@ Warunkiem wydania TPR 2 lub TPR 3 jest:
 1)
 ukończenie i zaliczenie przez kandydata szkolenia teoretycznego i szkolenia praktycznego,
 2)
-uzyskanie przez kandydata pozytywnego wyniku z egzaminu teoretycznego i egzaminu praktycznego
-w zakresie określonym w pkt 3.4.
+uzyskanie przez kandydata pozytywnego wyniku z egzaminu teoretycznego i egzaminu praktycznego – w zakresie określonym w pkt 3.4.
 3.5.2.
 Warunkiem wydania TPR 1 jest posiadanie przez kandydata praktyki lotniczej:
 1)
@@ -336,7 +311,7 @@ SPL: co najmniej 800 godzin jako dowódca szybowca na co najmniej 12 typach szyb
 2)
 związanej z wykonywaniem prób w locie, w tym zrealizowanie co najmniej 1 programu prób w locie w ciągu 12 miesięcy od wydania uprawnienia TPR 2.
 3.5.3.
-W stosunku do kandydatów ubiegających się o TPR, którzy posiadali uprawnienie pilota doświadczalnego wydane na podstawie rozporządzenia Ministra Infrastruktury z dnia 3 września 2003 r. w sprawie licencjonowania personelu lotniczego (Dz. U. poz. 1603, z późn. zm.) przeprowadza się jedynie egzamin praktyczny, o którym mowa w pkt 3.5.1 ppkt 2.
+W stosunku do kandydatów ubiegających się o TPR, którzy posiadali uprawnienie pilota doświadczalnego wydane na podstawie rozporządzenia Ministra Infrastruktury z dnia 3 września 2003 r. w sprawie licencjonowania personelu lotniczego (Dz. U. poz. 1603, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2005 r. poz. 632 i 1867, z 2006 r. poz. 1160, z 2009 r. poz. 808 i 942 oraz z 2010 r. poz. 1119.) przeprowadza się jedynie egzamin praktyczny, o którym mowa w pkt 3.5.1 ppkt 2.
 3.5.4.
 TPR może być wydane posiadaczowi dokumentu potwierdzającego posiadane kwalifikacje pilota doświadczalnego dla kategorii statku powietrznego, którego ten dokument dotyczy, wydanego przez właściwy organ państwa obcego, po:
 1)
@@ -384,26 +359,29 @@ zgłasza organizacji projektującej lub produkującej statki powietrzne każdy p
 3.7.
 Ważność TPR
 3.7.1.
-TPR wydaje się bezterminowo.
-” ,
+TPR wydaje się bezterminowo. ” ,
 c)
 w rozdziale 5 uchyla się pkt 5.3,
 d)
 w rozdziale 6:
-– w pkt 6.1.4 część wspólna otrzymuje brzmienie: „ – nie wymaga się od niego ukończenia odpowiednich szkoleń teoretycznego i praktycznego w ośrodku szkolenia lotniczego, potwierdzonych odpowiednim zaświadczeniem, oraz odbycia praktyki, o której mowa w pkt 6.1.5. ” ,
-– pkt 6.1.5 otrzymuje brzmienie: 6.1.5. Praktyka. Przed wydaniem FDL kandydat powinien wykazać, że odbył pod nadzorem dyspozytora lotniczego praktykę nie krótszą niż 90 dni roboczych. Praktyka powinna obejmować czynności wykonywane na stanowisku dyspozytora lotniczego oraz odbyć się w ciągu 6 miesięcy bezpośrednio poprzedzających złożenie wniosku o wydanie FDL. ” ,
+w pkt 6.1.4 część wspólna otrzymuje brzmienie: „
+– nie wymaga się od niego ukończenia odpowiednich szkoleń teoretycznego i praktycznego w ośrodku szkolenia lotniczego, potwierdzonych odpowiednim zaświadczeniem, oraz odbycia praktyki, o której mowa w pkt 6.1.5.
+” ,
+pkt 6.1.5 otrzymuje brzmienie:
+6.1.5.
+Praktyka. Przed wydaniem FDL kandydat powinien wykazać, że odbył pod nadzorem dyspozytora lotniczego praktykę nie krótszą niż 90 dni roboczych. Praktyka powinna obejmować czynności wykonywane na stanowisku dyspozytora lotniczego oraz odbyć się w ciągu 6 miesięcy bezpośrednio poprzedzających złożenie wniosku o wydanie FDL. ” ,
 – uchyla się pkt 6.1.7.1.
 § 2.
 Szkolenie lotnicze i egzaminowanie do FDL rozpoczęte, a niezakończone przed dniem wejścia w życie niniejszego rozporządzenia kontynuuje się na podstawie przepisów dotychczasowych.
 § 3.
-Posiadacz uprawnienia pilota doświadczalnego kategorii 1 lub 2 wydanego zgodnie z wymaganiami rozporządzenia Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.), uzyskanego na podstawie krajowego raportu konwersji, o którym mowa w art. 6 tego rozporządzenia, wpisanego do licencji do CPL(A), ATPL(A), CPL(H) lub ATPL(H), w zależności od kategorii statku powietrznego, którego to uprawnienie dotyczy, uzyskuje odpowiednio TPR 1 lub TPR 2 w ramach posiadanej licencji.
+Posiadacz uprawnienia pilota doświadczalnego kategorii 1 lub 2 wydanego zgodnie z wymaganiami rozporządzenia Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 100 z 05.04.2012, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 25, Dz. Urz. UE L 74 z 14.03.2014, str. 33, Dz. Urz. UE L 74 z 18.03.2015, str. 1 oraz Dz. Urz. UE L 91 z 07.04.2016, str. 1.), uzyskanego na podstawie krajowego raportu konwersji, o którym mowa w art. 6 tego rozporządzenia, wpisanego do licencji do CPL(A), ATPL(A), CPL(H) lub ATPL(H), w zależności od kategorii statku powietrznego, którego to uprawnienie dotyczy, uzyskuje odpowiednio TPR 1 lub TPR 2 w ramach posiadanej licencji.
 § 4.
-Mechanik lotniczy posiadający licencję na obsługę techniczną statku powietrznego Part-66 wydaną na podstawie rozporządzenia Komisji (WE) nr 2042/2003 z dnia 20 listopada 2003 r. w sprawie nieprzerwanej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zezwoleń udzielanych instytucjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 315 z 28.11.2003, str. 1) może wykonywać czynności, o których mowa w § 38 ust. 5 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, przez okres, na jaki została wydana ta licencja.
+Mechanik lotniczy posiadający licencję na obsługę techniczną statku powietrznego Part-66 wydaną na podstawie rozporządzenia Komisji (WE) nr 2042/2003 z dnia 20 listopada 2003 r. w sprawie nieprzerwanej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zezwoleń udzielanych instytucjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 315 z 28.11.2003, str. 1Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 122 z 09.05.2006, str. 17, Dz. Urz. UE L 94 z 04.04.2007, str. 18, Dz. Urz. UE L 283 z 28.10.2008, str. 5, Dz. Urz. UE L 40 z 13.02.2010, str. 4, Dz. Urz. UE L 281 z 27.10.2010, str. 78, Dz. Urz. UE L 298 z 16.11.2011, str. 1 oraz Dz. Urz. UE L 176 z 06.07.2012, str. 38.) może wykonywać czynności, o których mowa w § 38 ust. 5 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, przez okres, na jaki została wydana ta licencja.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 2322). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 07.07.2015, str. 4, Dz. Urz. UE L 241 z 17.09.2015, str. 16 oraz Dz. Urz. UE L 50 z 28.02.2017, str. 13. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 4 z 09.01.2013, str. 36, Dz. Urz. UE L 23 z 28.01.2014, str. 12, Dz. Urz. UE L 167 z 01.07.2015, str. 1 oraz Dz. Urz. UE L 3 z 06.01.2016, str. 3. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2005 r. poz. 632 i 1867, z 2006 r. poz. 1160, z 2009 r. poz. 808 i 942 oraz z 2010 r. poz. 1119. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 100 z 05.04.2012, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 25, Dz. Urz. UE L 74 z 14.03.2014, str. 33, Dz. Urz. UE L 74 z 18.03.2015, str. 1 oraz Dz. Urz. UE L 91 z 07.04.2016, str. 1. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 122 z 09.05.2006, str. 17, Dz. Urz. UE L 94 z 04.04.2007, str. 18, Dz. Urz. UE L 283 z 28.10.2008, str. 5, Dz. Urz. UE L 40 z 13.02.2010, str. 4, Dz. Urz. UE L 281 z 27.10.2010, str. 78, Dz. Urz. UE L 298 z 16.11.2011, str. 1 oraz Dz. Urz. UE L 176 z 06.07.2012, str. 38.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 2322). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 07.07.2015, str. 4, Dz. Urz. UE L 241 z 17.09.2015, str. 16 oraz Dz. Urz. UE L 50 z 28.02.2017, str. 13. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 4 z 09.01.2013, str. 36, Dz. Urz. UE L 23 z 28.01.2014, str. 12, Dz. Urz. UE L 167 z 01.07.2015, str. 1 oraz Dz. Urz. UE L 3 z 06.01.2016, str. 3. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2005 r. poz. 632 i 1867, z 2006 r. poz. 1160, z 2009 r. poz. 808 i 942 oraz z 2010 r. poz. 1119. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 100 z 05.04.2012, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 25, Dz. Urz. UE L 74 z 14.03.2014, str. 33, Dz. Urz. UE L 74 z 18.03.2015, str. 1 oraz Dz. Urz. UE L 91 z 07.04.2016, str. 1. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 122 z 09.05.2006, str. 17, Dz. Urz. UE L 94 z 04.04.2007, str. 18, Dz. Urz. UE L 283 z 28.10.2008, str. 5, Dz. Urz. UE L 40 z 13.02.2010, str. 4, Dz. Urz. UE L 281 z 27.10.2010, str. 78, Dz. Urz. UE L 298 z 16.11.2011, str. 1 oraz Dz. Urz. UE L 176 z 06.07.2012, str. 38.
 Załącznik – Nazwy specjalności członka personelu lotniczego i symbole licencji
-Nazwy dla poszczególnych rodzajów licencji są zamieszczone w poniższej tabeli wraz z symbolami licencji: Nazwa specjalności członka personelu lotniczego Symbol literowy licencji 1 2 3 pilot wiatrakowcowy turystyczny private pilot (autogiro) PPL(AG) pilot wiatrakowcowy zawodowy commercial pilot (autogiro) CPL(AG) nawigator lotniczy flight navigator FNL mechanik pokładowy flight engineer FEL mechanik lotniczy obsługi technicznej aircraft maintenance mechanic MML dyspozytor lotniczy flight dispatcher FDL
+Nazwy dla poszczególnych rodzajów licencji są zamieszczone w poniższej tabeli wraz z symbolami licencji:
+Nazwa specjalności członka personelu lotniczego Symbol literowy licencji 1 2 3 pilot wiatrakowcowy turystyczny private pilot (autogiro) PPL(AG) pilot wiatrakowcowy zawodowy commercial pilot (autogiro) CPL(AG) nawigator lotniczy flight navigator FNL mechanik pokładowy flight engineer FEL mechanik lotniczy obsługi technicznej aircraft maintenance mechanic MML dyspozytor lotniczy flight dispatcher FDL
 
-#### Rozdział 3 Uprawnienie pilota doświadczalnego
+#### Rozdział 3
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-11-22 |
 | Data wydania | 2002-12-28 |
-| Wejście w życie | 2003-01-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022331955) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1955/text.pdf) |
 

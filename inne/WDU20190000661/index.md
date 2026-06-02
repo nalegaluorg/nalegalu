@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 3 kwietnia 2019 r. w sprawie wpisywania infrastruktury na Polską Mapę Infrastruktury Badawczej oraz sposobu jej przeglądu
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 3 kwietnia 2019 r. w sprawie wpisywania infrastruktury na Polską Mapę Infrastruktury Badawczej oraz sposobu jej przeglądu Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-03 |
 | Data wydania | 2019-04-09 |
-| Wejście w życie | 2019-04-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000661) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/661/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 402 pkt 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 402 pkt 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534 i 577.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy sposób wpisywania strategicznej infrastruktury badawczej na Polską Mapę Infrastruktury Badawczej, zwaną dalej „Mapą”, zakres informacji zawartych we wniosku o wpisanie strategicznej infrastruktury badawczej, zwanej dalej „infrastrukturą”, na Mapę oraz sposób przeprowadzania przeglądu Mapy.
 § 2.
@@ -86,8 +85,7 @@ Przegląd Mapy odbywa się na podstawie informacji o aktualności celów i zało
 1)
 sposobu zarządzania infrastrukturą, w szczególności finansowania, organizacji dostępu do infrastruktury dla użytkowników zewnętrznych oraz stopnia wykorzystania infrastruktury, w tym jego adekwatności do ponoszonych nakładów na funkcjonowanie infrastruktury – w odniesieniu do infrastruktury istniejącej,
 2)
-działań o charakterze merytorycznym, technicznym i organizacyjnym podjętych w celu uruchomienia infrastruktury od dnia wpisania jej na Mapę, a także działań w celu pozyskania środków finansowych niezbędnych dla sfinansowania infrastruktury – w odniesieniu do infrastruktury planowanej
-zwanej dalej „informacją”.
+działań o charakterze merytorycznym, technicznym i organizacyjnym podjętych w celu uruchomienia infrastruktury od dnia wpisania jej na Mapę, a także działań w celu pozyskania środków finansowych niezbędnych dla sfinansowania infrastruktury – w odniesieniu do infrastruktury planowanej – zwanej dalej „informacją”.
 2.
 Minister ogłasza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, komunikat o przeglądzie Mapy, w którym określa termin przeprowadzenia przeglądu Mapy oraz termin składania informacji, oraz informuje na piśmie podmiot, który wnioskował o wpisanie infrastruktury na Mapę, o tych terminach.
 3.
@@ -102,6 +100,5 @@ W ramach przeglądu Mapy ocena funkcjonowania istniejącej infrastruktury i stop
 2.
 Zespół doradczy, o którym mowa w § 5 ust. 1, przedstawia ministrowi ocenę funkcjonowania istniejącej infrastruktury i stopnia przygotowania planowanej infrastruktury wraz z uzasadnieniem oraz rekomendacją dotyczącą pozostawienia albo skreślenia infrastruktury z Mapy.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534 i 577.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534 i 577.
 

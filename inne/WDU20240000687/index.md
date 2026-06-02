@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 23 kwietnia 2024 r. w sprawie udzielania pomocy de minimis na dywersyfikację działalności mikroprzedsiębiorców, małych lub średnich przedsiębiorców w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 23 kwietnia 2024 r. w sprawie udzielania pomocy de minimis na dywersyfikację działalności mikroprzedsiębiorców, małych lub średnich przedsiębiorców w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-23 |
 | Data wydania | 2024-05-06 |
-| Wejście w życie | 2024-05-07 |
 | Ostatnia zmiana | 2024-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000687) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/687/text.pdf) |
 
@@ -38,7 +37,7 @@ Ilekroć w rozporządzeniu jest mowa o:
 1)
 jednym przedsiębiorcy – należy przez to rozumieć jedno przedsiębiorstwo w rozumieniu art. 2 ust. 2 rozporządzenia 2023/2831;
 2)
-mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo w rozumieniu art. 2 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”;
+mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo w rozumieniu art. 2 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1., zwanego dalej „rozporządzeniem nr 651/2014”;
 3)
 przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014;
 4)
@@ -52,7 +51,7 @@ Podmiotami udzielającymi pomocy są ostateczni odbiorcy wsparcia realizujący p
 Pomoc jest udzielana mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom realizującym przedsięwzięcia MŚP.
 § 5.
 1.
-Pomoc ma na celu wsparcie odbudowy i zwiększenie odporności kraju przez wspieranie przedsięwzięć MŚP w ramach inwestycji, o której mowa w § 1 ust. 1, w obszarze: inteligentny, zrównoważony wzrost gospodarczy sprzyjający włączeniu społecznemu, w tym spójność gospodarcza, miejsca pracy, produktywność, konkurencyjność, badania naukowe, rozwój i innowacje, a także dobrze funkcjonujący rynek wewnętrzny z silnymi MŚP, o którym mowa w art. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm.), i jest udzielana na pokrycie części albo całości kosztów kwalifikowalnych przedsięwzięć MŚP.
+Pomoc ma na celu wsparcie odbudowy i zwiększenie odporności kraju przez wspieranie przedsięwzięć MŚP w ramach inwestycji, o której mowa w § 1 ust. 1, w obszarze: inteligentny, zrównoważony wzrost gospodarczy sprzyjający włączeniu społecznemu, w tym spójność gospodarcza, miejsca pracy, produktywność, konkurencyjność, badania naukowe, rozwój i innowacje, a także dobrze funkcjonujący rynek wewnętrzny z silnymi MŚP, o którym mowa w art. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, str. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024., i jest udzielana na pokrycie części albo całości kosztów kwalifikowalnych przedsięwzięć MŚP.
 2.
 Kosztami kwalifikowalnymi są koszty dywersyfikacji działalności mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy w ramach inwestycji, o której mowa w § 1 ust. 1.
 § 6.
@@ -108,8 +107,7 @@ Przedsiębiorca przed podpisaniem umowy przedstawia podmiotowi udzielającemu po
 1)
 kopie zaświadczeń o pomocy de minimis oraz zaświadczeń o pomocy de minimis w rolnictwie lub zaświadczeń o pomocy de minimis w rybołówstwie, jakie otrzymał w okresie, o którym mowa w art. 3 ust. 2 rozporządzenia 2023/2831 , albo oświadczenie o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenie o nieotrzymaniu takiej pomocy w tym okresie,
 2)
-informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na których pokrycie ma być przeznaczona pomoc
-dotyczące okresu od dnia złożenia wniosku.
+informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na których pokrycie ma być przeznaczona pomoc – dotyczące okresu od dnia złożenia wniosku.
 § 12.
 Pomoc jest udzielana do dnia 30 czerwca 2026 r.
 § 13.
@@ -122,6 +120,5 @@ Wnioski, o których mowa w ust. 2, wymagające uzupełnienia lub poprawienia w z
 § 14.
 Traci moc rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 19 maja 2023 r. w sprawie udzielania pomocy de minimis na dywersyfikację działalności mikroprzedsiębiorców, małych lub średnich przedsiębiorców w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 1020).
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, str. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, str. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024.
 

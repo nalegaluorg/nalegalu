@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 19 kwietnia 2024 r. zmieniające rozporządzenie w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 19 kwietnia 2024 r. zmieniające rozporządzenie w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2718).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-19 |
 | Data wydania | 2024-04-23 |
-| Wejście w życie | 2024-04-24 |
 | Ostatnia zmiana | 2024-10-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000623) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/623/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 44zq ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz
 § 1.
 W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 28 sierpnia 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych (Dz. U. z 2023 r. poz. 147 i 2041) wprowadza się następujące zmiany:
 1)
-w § 8 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–6 w brzmieniu:
-„
+w § 8 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–6 w brzmieniu: „
 2.
 W ramach oceniania bieżącego:
 1)
@@ -69,13 +67,11 @@ tańca współczesnego, tańca ludowego i charakterystycznego, tańca dawnego i 
 5.
 Ćwiczenia usprawniające motorykę małą, o których mowa w ust. 2 pkt 1 lit. a tiret pierwsze, są obowiązkowe dla ucznia i nauczyciel może ustalić z nich ocenę.
 6.
-W przypadku, o którym mowa w ust. 2 pkt 1 lit. b albo w ust. 2 pkt 2 lit. b, nauczyciel sprawdza wykonaną przez ucznia pisemną lub praktyczno-techniczną pracę domową i przekazuje mu informację, o której mowa w ust. 1.
-” ;
+W przypadku, o którym mowa w ust. 2 pkt 1 lit. b albo w ust. 2 pkt 2 lit. b, nauczyciel sprawdza wykonaną przez ucznia pisemną lub praktyczno-techniczną pracę domową i przekazuje mu informację, o której mowa w ust. 1. ” ;
 2)
 w § 20 w ust. 2 i w § 21 w ust. 2 skreśla się wyrazy „religię lub etykę,”.
 § 2.
 Szkoły artystyczne dostosują statuty szkół, uwzględniając przepisy niniejszego rozporządzenia, w terminie 14 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 września 2024 r.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2718).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 września 2024 r. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2718).
 

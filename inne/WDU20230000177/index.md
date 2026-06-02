@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 grudnia 2022 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o Krajowej Administracji Skarbowej
+# Ustawa z dnia 15 grudnia 2022 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o Krajowej Administracji Skarbowej Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-15 |
 | Data wydania | 2023-01-25 |
-| Wejście w życie | 2023-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/177/text.pdf) |
 
@@ -32,12 +31,14 @@ source: "eli-html"
 - **2)** w art. 28 w ust. 2b skreśla się wyrazy „, a w przypadku kontroli, o których mowa w art. 17c ust. 1 – w trzech jednobrzmiących egzemplarzach”;
 - **3)** w art. 40 uchyla się ust. 4a.
 
-**Art. 2.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 w ust. 1 po pkt 13 dodaje się pkt 13a w brzmieniu: „
-- **13a)** wykonywanie zadań, o których mowa w art. 80 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm.), zwanego dalej „rozporządzeniem 2021/2116”; ” ;
-- **2)** w art. 16: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W celu realizacji zadań określonych w art. 14 ust. 1 pkt 13 i 13a Szef Krajowej Administracji Skarbowej jest uprawniony do: ” , – pkt 2 otrzymuje brzmienie: „ 2) zlecania wykonania określonych czynności organom administracji publicznej oraz państwowym jednostkom organizacyjnym i osobom prawnym uprawnionym do przeprowadzania kontroli dokumentów, które mają znaczenie dla realizacji zadań określonych w tytule V rozdziale III rozporządzenia (UE) nr 1306/2013 oraz w tytule IV rozdziale III rozporządzenia 2021/2116. ” , w ust. 2 zdanie drugie otrzymuje brzmienie: „ W przypadku podmiotów innych niż przeprowadzające kontrole zgodnie z przepisami tytułu V rozdziału III rozporządzenia (UE) nr 1306/2013 lub tytułu IV rozdziału III rozporządzenia 2021/2116 wystąpienie powinno zawierać ponadto wskazanie okoliczności będących podstawą tego wystąpienia. ” , uchyla się ust. 4;
+- **13a)** wykonywanie zadań, o których mowa w art. 80 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1., zwanego dalej „rozporządzeniem 2021/2116”; ” ;
+- **2)** w art. 16: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W celu realizacji zadań określonych w art. 14 ust. 1 pkt 13 i 13a Szef Krajowej Administracji Skarbowej jest uprawniony do: ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** zlecania wykonania określonych czynności organom administracji publicznej oraz państwowym jednostkom organizacyjnym i osobom prawnym uprawnionym do przeprowadzania kontroli dokumentów, które mają znaczenie dla realizacji zadań określonych w tytule V rozdziale III rozporządzenia (UE) nr 1306/2013 oraz w tytule IV rozdziale III rozporządzenia 2021/2116. ” , w ust. 2 zdanie drugie otrzymuje brzmienie: „ W przypadku podmiotów innych niż przeprowadzające kontrole zgodnie z przepisami tytułu V rozdziału III rozporządzenia (UE) nr 1306/2013 lub tytułu IV rozdziału III rozporządzenia 2021/2116 wystąpienie powinno zawierać ponadto wskazanie okoliczności będących podstawą tego wystąpienia. ” , uchyla się ust. 4;
     - **b)**
     - **c)**
 
@@ -72,7 +73,7 @@ source: "eli-html"
 
 - **1)** przeprowadzonych kontroli prawidłowości dokonanych transakcji finansowanych z Europejskiego Funduszu Rolniczego Gwarancji, realizowanych w ramach Wspólnej Polityki Rolnej, z wyłączeniem refundacji eksportowych,
 - **2)** przeprowadzonych analiz ryzyka w zakresie prawidłowości dokonanych transakcji, o których mowa w pkt 1,
-- **3)** programów kontroli, o których mowa w art. 84 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.) z podziałem na lata, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
+- **3)** programów kontroli, o których mowa w art. 84 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 83, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 27 z 31.01.2020, str. 1, Dz. Urz. UE L 119 z 17.04.2020, str. 1, Dz. Urz. UE L 185 z 12.06.2020, str. 1, Dz. Urz. UE L 422 z 14.12.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 1, Dz. Urz. UE L 155 z 05.05.2021, str. 8, Dz. Urz. UE L 282 z 05.08.2021, str. 3, Dz. Urz. UE L 435 z 06.12.2021, str. 187 oraz Dz. Urz. UE L 204 z 04.08.2022, str. 1. – z podziałem na lata, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
 2. Minister właściwy do spraw rolnictwa i minister właściwy do spraw rynków rolnych oraz organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych udostępniają, na żądanie Szefa Krajowej Administracji Skarbowej lub dyrektora izby administracji skarbowej, akta spraw dotyczące:
 
@@ -94,9 +95,9 @@ source: "eli-html"
 
 **Art. 5.** Do kontroli prawidłowości dokonanych transakcji finansowanych z Europejskiego Funduszu Rolniczego Gwarancji, realizowanych w ramach Wspólnej Polityki Rolnej, z wyłączeniem refundacji eksportowych, prowadzonych przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
-**Art. 6.** Minister właściwy do spraw rolnictwa i minister właściwy do spraw rynków rolnych, we współpracy z Głównym Inspektorem Jakości Handlowej Artykułów Rolno-Spożywczych, w terminie do dnia 30 czerwca 2023 r., sporządzą i przekażą Szefowi Krajowej Administracji Skarbowej informacje, za okres od dnia 1 lipca 2022 r. do dnia 31 marca 2023 r., zawierające dane niezbędne do sporządzenia sprawozdania rocznego, o którym mowa w art. 80 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm.).
+**Art. 6.** Minister właściwy do spraw rolnictwa i minister właściwy do spraw rynków rolnych, we współpracy z Głównym Inspektorem Jakości Handlowej Artykułów Rolno-Spożywczych, w terminie do dnia 30 czerwca 2023 r., sporządzą i przekażą Szefowi Krajowej Administracji Skarbowej informacje, za okres od dnia 1 lipca 2022 r. do dnia 31 marca 2023 r., zawierające dane niezbędne do sporządzenia sprawozdania rocznego, o którym mowa w art. 80 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1..
 
 **Art. 7.** W celu wykonania przepisów ustawy Prezes Rady Ministrów dokona, w drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 kwietnia 2023 r., z wyjątkiem art. 4 ust. 1, który wchodzi w życie z dniem 15 lutego 2023 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 kwietnia 2023 r., z wyjątkiem art. 4 ust. 1, który wchodzi w życie z dniem 15 lutego 2023 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 83, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 27 z 31.01.2020, str. 1, Dz. Urz. UE L 119 z 17.04.2020, str. 1, Dz. Urz. UE L 185 z 12.06.2020, str. 1, Dz. Urz. UE L 422 z 14.12.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 1, Dz. Urz. UE L 155 z 05.05.2021, str. 8, Dz. Urz. UE L 282 z 05.08.2021, str. 3, Dz. Urz. UE L 435 z 06.12.2021, str. 187 oraz Dz. Urz. UE L 204 z 04.08.2022, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 29 z 10.02.2022, str. 45 oraz Dz. Urz. UE L 216 z 19.08.2022, str. 1.
 

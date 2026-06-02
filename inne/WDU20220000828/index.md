@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 11 kwietnia 2022 r. w sprawie przeprowadzania okresowych badań lekarskich strażaka ratownika ochotniczej straży pożarnej oraz badań lekarskich kandydata na strażaka ratownika ochotniczej straży pożarnej
+# Rozporządzenie Ministra Zdrowiaz dnia 11 kwietnia 2022 r. w sprawie przeprowadzania okresowych badań lekarskich strażaka ratownika ochotniczej straży pożarnej oraz badań lekarskich kandydata na strażaka ratownika ochotniczej straży pożarnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-11 |
 | Data wydania | 2022-04-14 |
-| Wejście w życie | 2022-04-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000828) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/828/text.pdf) |
 
@@ -84,8 +83,8 @@ Do skierowania wydanego przez podmiot kierujący na badania, wniosku o przeprowa
 2.
 Orzeczenia lekarskie wydane na podstawie przepisów rozporządzenia Ministra Zdrowia z dnia 30 listopada 2009 r. w sprawie przeprowadzania okresowych bezpłatnych badań lekarskich członka ochotniczej straży pożarnej biorącego bezpośredni udział w działaniach ratowniczych zachowują ważność przez okres, na jaki zostały wydane.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 listopada 2009 r. w sprawie przeprowadzania okresowych bezpłatnych badań lekarskich członka ochotniczej straży pożarnej biorącego bezpośredni udział w działaniach ratowniczych (Dz. U. poz. 1627), które utraciło moc z dniem 1 stycznia 2022 r. zgodnie z art. 57 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaNiniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 listopada 2009 r. w sprawie przeprowadzania okresowych bezpłatnych badań lekarskich członka ochotniczej straży pożarnej biorącego bezpośredni udział w działaniach ratowniczych (Dz. U. poz. 1627), które utraciło moc z dniem 1 stycznia 2022 r. zgodnie z art. 57 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490).. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 listopada 2009 r. w sprawie przeprowadzania okresowych bezpłatnych badań lekarskich członka ochotniczej straży pożarnej biorącego bezpośredni udział w działaniach ratowniczych (Dz. U. poz. 1627), które utraciło moc z dniem 1 stycznia 2022 r. zgodnie z art. 57 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490).
 Załącznik – Zakres oraz częstotliwość okresowych badań lekarskich strażaka ratownika ochotniczej straży pożarnej oraz badań lekarskich kandydata na strażaka ratownika ochotniczej straży pożarnej
-Lp. Rodzaj badania Zakres badania Częstotliwość 1 lekarskie Badanie lekarskie ze szczególną oceną: do 50. r.ż. co 2‒3 lata, powyżej 50. r.ż. co 1‒2 lata 1) układu krążenia; 2) układu oddechowego; 3) układu nerwowego; 4) narządu równowagi; 5) skóry; 6) słuchu (badanie akumetryczne); 7) narządu wzroku – w badaniu ocena ostrości widzenia, ocena zdolności rozpoznawania barw, widzenia przestrzennego, ocena pola widzenia (w zależności odwskazań badanie za pomocą perymetru). 2 dodatkowe 1) elektrokardiografia; 2) zdjęcie rentgenowskie klatki piersiowej; 3) spirometria; 4) morfologia krwi z rozmazem; 5) oznaczenie stężenia glukozy i kreatyniny we krwi; 6) badanie ogólne moczu; 7) aminotransferaza asparaginianowa; 8) aminotransferaza alaninowa; 9) gamma-glutamylotranspeptydaza; 10) stężenie bilirubiny; 11) lipidogram.
+Lp. Rodzaj badania Zakres badania Częstotliwość 1 lekarskie Badanie lekarskie ze szczególną oceną: do 50. r.ż. co 2‒3 lata, powyżej 50. r.ż. co 1‒2 lata 1) układu krążenia; 2) układu oddechowego; 3) układu nerwowego; 4) narządu równowagi; 5) skóry; 6) słuchu (badanie akumetryczne); 7) narządu wzroku – w badaniu ocena ostrości widzenia, ocena zdolności rozpoznawania barw, widzenia przestrzennego, ocena pola widzenia (w zależności od
+wskazań badanie za pomocą perymetru). 2 dodatkowe 1) elektrokardiografia; 2) zdjęcie rentgenowskie klatki piersiowej; 3) spirometria; 4) morfologia krwi z rozmazem; 5) oznaczenie stężenia glukozy i kreatyniny we krwi; 6) badanie ogólne moczu; 7) aminotransferaza asparaginianowa; 8) aminotransferaza alaninowa; 9) gamma-glutamylotranspeptydaza; 10) stężenie bilirubiny; 11) lipidogram.
 

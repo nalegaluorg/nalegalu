@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-02 |
 | Data wydania | 2015-01-13 |
-| Wejście w życie | 2015-01-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000056) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/56/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2007 r. Nr 42, poz. 274, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2007 r. Nr 42, poz. 274, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 118, poz. 746, z 2009 r. Nr 18, poz. 97 oraz z 2014 r. poz. 1854.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie mieleckiej specjalnej strefy ekonomicznej (Dz. U. z 2014 r. poz. 1431) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 1460,8493 ha, położone na terenach miast: Chełm, Częstochowa, Dębica, Gorlice, Jarosław, Krosno, Leżajsk, Lubaczów, Lubartów, Lublin, Łańcut, Mielec, Radzyń Podlaski, Rzeszów, Sanok, Szczecin, Zamość oraz gmin: Dębica, Głogów Małopolski, Kolbuszowa, Leżajsk, Ostrów, Radymno, Rejowiec Fabryczny, Ropczyce, Sędziszów Małopolski, Trzebownisko i Zagórz.
-” ;
+Strefa obejmuje grunty o powierzchni 1460,8493 ha, położone na terenach miast: Chełm, Częstochowa, Dębica, Gorlice, Jarosław, Krosno, Leżajsk, Lubaczów, Lubartów, Lublin, Łańcut, Mielec, Radzyń Podlaski, Rzeszów, Sanok, Szczecin, Zamość oraz gmin: Dębica, Głogów Małopolski, Kolbuszowa, Leżajsk, Ostrów, Radymno, Rejowiec Fabryczny, Ropczyce, Sędziszów Małopolski, Trzebownisko i Zagórz. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU SPECJALNEJ STREFY EKONOMICZNEJ EURO-PARK MIELEC:
 a)
@@ -51,5 +48,5 @@ w Podstrefie Rzeszów opis granic i terenu Kompleksu 1 otrzymuje brzmienie: „ 
 f)
 na końcu SZCZEGÓŁOWEGO OPISU GRANIC I TERENU SPECJALNEJ STREFY EKONOMICZNEJ EURO-PARK MIELEC dodaje się opis granic i terenu Podstrefy Rejowiec Fabryczny w brzmieniu: „ Podstrefa Rejowiec Fabryczny Obręb ewidencyjny 0009 Pawłów Kompleks 1 Granica biegnie po granicy działki 1465, od pkt nr 1 w kierunku północno-zachodnim do pkt nr 2, w którym załamuje się na północny wschód, i biegnie przez pkt nr: 3, 4 i 5 do pkt nr 6. Tu skręca na południowy zachód i dochodzi do pkt nr 7. Stąd biegnie w kierunku południowo-wschodnim przez pkt nr 8 do pkt nr 9. W pkt nr 9 załamuje się w kierunku południowo-zachodnim i biegnie do pkt nr 10, w którym skręca na północny zachód, i biegnie do pkt nr 11. Tu załamuje się w kierunku południowo-zachodnim i biegnąc przez pkt nr 12, dochodzi do pkt nr 1, od którego rozpoczęto opis. Kompleks 2 Granica biegnie od pkt nr 13 zlokalizowanego u zbiegu granic działek: 145, 1234/11 i 1234/10 w kierunku południowo-zachodnim do pkt nr 14. Tu załamuje się w kierunku północno-zachodnim i biegnie wzdłuż granicy działki 1234/5 przez pkt nr 15 i 16 do pkt nr 17. Stąd biegnie w kierunku północno-wschodnim wzdłuż granic działek: 1234/5 i 1234/10 do pkt nr 18, w którym skręca na południowy wschód, i biegnąc wzdłuż granicy działki 1234/10, dochodzi do pkt nr 13, od którego rozpoczęto opis. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 118, poz. 746, z 2009 r. Nr 18, poz. 97 oraz z 2014 r. poz. 1854.
 

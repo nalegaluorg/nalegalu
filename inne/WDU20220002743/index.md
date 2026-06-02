@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 20 grudnia 2022 r. zmieniające rozporządzenie w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów (przychodów) związanych z kredytem hipotecznym udzielonym na cele mieszkaniowe
+# Rozporządzenie Ministra Finansówz dnia 20 grudnia 2022 r. zmieniające rozporządzenie w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów (przychodów) związanych z kredytem hipotecznym udzielonym na cele mieszkaniowe Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-20 |
 | Data wydania | 2022-12-23 |
-| Wejście w życie | 2022-12-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2743/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja 
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 11 marca 2022 r. w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów (przychodów) związanych z kredytem hipotecznym udzielonym na cele mieszkaniowe (Dz. U. poz. 592) w § 4 wyrazy „do dnia 31 grudnia 2022 r.” zastępuje się wyrazami „do dnia 31 grudnia 2024 r.”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Inwestycji i Rozwojuz dnia 3 października 2019 r. zmieniające rozporządzenie w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych
+# Rozporządzenie Ministra Finansów, Inwestycji i Rozwojuz dnia 3 października 2019 r. zmieniające rozporządzenie w sprawie urządzeń losujących, urządzeń do gier i automatów do gier, zabezpieczenia informacji dotyczących urządzanej loterii oraz uzyskiwania, naliczania i wypłacania wygranych Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-03 |
 | Data wydania | 2019-10-14 |
-| Wejście w życie | 2019-10-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001944) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1944/text.pdf) |
 
@@ -33,11 +32,9 @@ W rozporządzeniu Ministra Rozwoju i Finansów z dnia 8 czerwca 2017 r. w sprawi
 1)
 w § 2 w ust. 1 we wprowadzeniu do wyliczenia po wyrazach „w zakresie gier losowych” skreśla się wyrazy „lub gier na automatach”;
 2)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
-Opinia sporządzona wyłącznie w celu załączenia do wniosku, o którym mowa w art. 2 ust. 6 ustawy, zawiera dane określone w § 2 ust. 3 pkt 1–6 i 8 i ust. 4 pkt 1–5 i 7 oraz informację, że opinia ta nie rozstrzyga o charakterze gier urządzanych z wykorzystaniem badanego automatu lub urządzenia.
-” .
+Opinia sporządzona wyłącznie w celu załączenia do wniosku, o którym mowa w art. 2 ust. 6 ustawy, zawiera dane określone w § 2 ust. 3 pkt 1–6 i 8 i ust. 4 pkt 1–5 i 7 oraz informację, że opinia ta nie rozstrzyga o charakterze gier urządzanych z wykorzystaniem badanego automatu lub urządzenia. ” .
 § 2.
 Do opinii jednostek badających:
 1)
@@ -45,6 +42,5 @@ wydanych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się 
 2)
 sporządzanych w wyniku badań prowadzonych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepis § 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841).
 

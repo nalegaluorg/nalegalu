@@ -37,22 +37,18 @@ rozporządzeniem Ministra Obrony Narodowej z dnia 29 kwietnia 2021 r. zmieniają
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 24 lutego 2021 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 357), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 24 lutego 2021 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 357), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 28 lutego 2021 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 28 lutego 2021 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 29 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 809), który stanowi:
-„
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 29 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 809), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2021 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2021 r. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 16 października 2020 r. w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19
 Na podstawie art. 433a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478 i 619) zarządza się, co następuje:
 § 1.
 1.
-W okresie od dnia 17 października 2020 r. do dnia 30 czerwca 2021 r. na obszarze kraju czasowo ogranicza się funkcjonowanie uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej przez zawieszenie kształcenia:
+W okresie od dnia 17 października 2020 r. do dnia 30 czerwca 2021 r. na obszarze kraju czasowo ogranicza się funkcjonowanie uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej przez zawieszenie kształcenia:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 29 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 809), które weszło w życie z dniem 30 kwietnia 2021 r.
 1)
 na studiach;
 2)
@@ -88,6 +84,5 @@ realizacji zajęć, o których mowa w § 2, zapewniające bezpieczeństwo osób 
 2)
 korzystania z infrastruktury uczelni wojskowej.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 17 października 2020 r.
-1) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 29 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 809), które weszło w życie z dniem 30 kwietnia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 17 października 2020 r. 1) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 29 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 809), które weszło w życie z dniem 30 kwietnia 2021 r.
 

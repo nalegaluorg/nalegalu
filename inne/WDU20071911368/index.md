@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-09-07 |
 | Data wydania | 2007-10-18 |
-| Wejście w życie | 2008-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071911368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1368/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534 oraz z 2007 r. Nr 17, poz. 95 i Nr 82, poz. 558.) wprowadza się następujące zmiany:
 
 - **1)** w art. 20 w pkt 1 w zdaniu wstępnym wyrazy „do 9 roboczego dnia lutego” zastępuje się wyrazami „do 7 roboczego dnia lutego”;
 - **2)** art. 88 i 89 otrzymują brzmienie: „
@@ -59,7 +58,7 @@ source: "eli-html"
 
 1. Prezes Głównego Urzędu Statystycznego ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
-- **1)** w terminie do końca stycznia: średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów w poprzednim roku kalendarzowym;
+- **1)** w terminie do końca stycznia: średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów – w poprzednim roku kalendarzowym;
     - **a)**
     - **b)**
 
@@ -94,5 +93,5 @@ source: "eli-html"
 
 5. Przepisy art. 89 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2008 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2008 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534 oraz z 2007 r. Nr 17, poz. 95 i Nr 82, poz. 558.
 

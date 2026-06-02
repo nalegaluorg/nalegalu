@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-10 |
 | Data wydania | 2015-12-02 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2013/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 59a ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 159, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 59a ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 159, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1066, 1217, 1220 i 1268.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -46,7 +45,7 @@ Okres czasowej niezdolności do pracy jest określany liczbą dni.
 2.
 Okres czasowej niezdolności do pracy przypadający na czas pobytu ubezpieczonego w szpitalu albo innym przedsiębiorstwie podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne obejmuje okres od dnia przyjęcia do dnia wypisania ze szpitala albo innego przedsiębiorstwa podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne.
 § 5.
-Orzekanie jest dokumentowane w indywidualnej dokumentacji medycznej ubezpieczonego i obejmuje zakres danych, o których mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159, z późn. zm.), oraz okres niezdolności do pracy w razie jej stwierdzenia.
+Orzekanie jest dokumentowane w indywidualnej dokumentacji medycznej ubezpieczonego i obejmuje zakres danych, o których mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742, z 2013 r. poz. 1245, z 2014 r. poz. 1822 oraz z 2015 r. poz. 1163 i 1991.), oraz okres niezdolności do pracy w razie jej stwierdzenia.
 § 6.
 1.
 Zaświadczenie lekarskie o czasowej niezdolności do pracy z powodu choroby, pobytu w szpitalu albo innym przedsiębiorstwie podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne albo konieczności osobistego sprawowania przez ubezpieczonego opieki nad chorym członkiem rodziny, zwane dalej „zaświadczeniem lekarskim”, wystawia się wyłącznie po przeprowadzeniu bezpośredniego badania stanu zdrowia ubezpieczonego lub chorego członka rodziny.
@@ -114,5 +113,5 @@ Zaświadczenie lekarskie, w związku z którym zostało wystawione zaświadczeni
 § 16.
 Zakład Ubezpieczeń Społecznych zapisuje informacje o stwierdzeniu nieważności zaświadczenia lekarskiego w rejestrze zaświadczeń lekarskich.
 § 17.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Socjalnej z dnia 27 lipca 1999 r. w sprawie szczegółowych zasad i trybu wystawiania zaświadczeń lekarskich, wzoru zaświadczenia lekarskiego i zaświadczenia lekarskiego wydanego w wyniku kontroli lekarza orzecznika Zakładu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 229) oraz rozporządzeniem Ministra Zdrowia z dnia 22 lipca 2005 r. w sprawie orzekania o czasowej niezdolności do pracy (Dz. U. Nr 145, poz. 1219), które tracą moc z dniem 1 stycznia 2016 r., w związku z wejściem w życie ustawy z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz niektórych innych ustaw (Dz. U. poz. 1066 i 1735). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1066, 1217, 1220 i 1268. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742, z 2013 r. poz. 1245, z 2014 r. poz. 1822 oraz z 2015 r. poz. 1163 i 1991. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Socjalnej z dnia 27 lipca 1999 r. w sprawie szczegółowych zasad i trybu wystawiania zaświadczeń lekarskich, wzoru zaświadczenia lekarskiego i zaświadczenia lekarskiego wydanego w wyniku kontroli lekarza orzecznika Zakładu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 229) oraz rozporządzeniem Ministra Zdrowia z dnia 22 lipca 2005 r. w sprawie orzekania o czasowej niezdolności do pracy (Dz. U. Nr 145, poz. 1219), które tracą moc z dniem 1 stycznia 2016 r., w związku z wejściem w życie ustawy z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz niektórych innych ustaw (Dz. U. poz. 1066 i 1735).
 

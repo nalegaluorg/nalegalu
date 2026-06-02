@@ -33,13 +33,11 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 15 czerwca 2018 r. o zmianie ustawy o utworzeniu Uniwersytetu Kardynała Stefana Wyszyńskiego w Warszawie (Dz. U. poz. 1397),
 2)
-ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 maja 2019 r.
+ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 maja 2019 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 2 ustawy z dnia 15 czerwca 2018 r. o zmianie ustawy o utworzeniu Uniwersytetu Kardynała Stefana Wyszyńskiego w Warszawie (Dz. U. poz. 1397), który stanowi:
-„
+art. 2 ustawy z dnia 15 czerwca 2018 r. o zmianie ustawy o utworzeniu Uniwersytetu Kardynała Stefana Wyszyńskiego w Warszawie (Dz. U. poz. 1397), który stanowi: „
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 
@@ -60,7 +58,7 @@ art. 2 ustawy z dnia 15 czerwca 2018 r. o zmianie ustawy o utworzeniu Uniwersyte
 
 1. Uniwersytet kształci oraz prowadzi badania naukowe w szczególności w zakresie nauk humanistycznych, społecznych, medycznych i teologicznych.
 
-2. W przypadku ubiegania się o uprawnienie do prowadzenia studiów na kierunku lekarskim nie stosuje się przepisów art. 11 ust. 3 pkt 2 lit. b tiret pierwsze ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.).
+2. W przypadku ubiegania się o uprawnienie do prowadzenia studiów na kierunku lekarskim nie stosuje się przepisów art. 11 ust. 3 pkt 2 lit. b tiret pierwsze ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 398, 650, 730, 912, 1000 i 1115.)Ustawa utraciła moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r..
 
 **Art. 3.**
 
@@ -68,11 +66,7 @@ art. 2 ustawy z dnia 15 czerwca 2018 r. o zmianie ustawy o utworzeniu Uniwersyte
 
 2. Z dniem utworzenia Uniwersytetu znosi się Akademię Teologii Katolickiej w Warszawie.
 
-**Art. 4.**
-
-1. Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
-
-2. Uniwersytet pozostaje ponadto pod nadzorem władz Kościoła Katolickiego w zakresie określonym przez umowę między Konferencją Episkopatu Polski a Rządem Rzeczypospolitej Polskiej oraz statut uczelni.
+**Art. 4.** 1W brzmieniu ustalonym przez art. 45 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.. Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki. 2. Uniwersytet pozostaje ponadto pod nadzorem władz Kościoła Katolickiego w zakresie określonym przez umowę między Konferencją Episkopatu Polski a Rządem Rzeczypospolitej Polskiej oraz statut uczelni.
 
 **Art. 5.**
 
@@ -97,5 +91,5 @@ art. 2 ustawy z dnia 15 czerwca 2018 r. o zmianie ustawy o utworzeniu Uniwersyte
 
 **Art. 8.** Do dnia 31 grudnia 1999 r. zostaną przeprowadzone wybory organów Uniwersytetu w trybie i na okres ustalony w statucie Uniwersytetu.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 1 października 1999 r.. 1) W brzmieniu ustalonym przez art. 1 ustawy z dnia 15 czerwca 2018 r. o zmianie ustawy o utworzeniu Uniwersytetu Kardynała Stefana Wyszyńskiego w Warszawie (Dz. U. poz. 1397), która weszła w życie z dniem 7 sierpnia 2018 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 398, 650, 730, 912, 1000 i 1115. 3) Ustawa utraciła moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 4) W brzmieniu ustalonym przez art. 45 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 5) Ustawa została ogłoszona w dniu 1 października 1999 r.
 

@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1932/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 6 grudnia 2002 r. w sprawie archiwizacji akt spraw sądów wojskowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Okresy przechowywania akt spraw karnych Rozdział 3 – Okresy przechowywania akt spraw w sprawach o wykroczenia oraz akt z zakresu orzekania w sprawach dyscyplinarnych Rozdział 4 – Okresy przechowywania ksiąg i urządzeń ewidencyjnych w sprawach sądowych Rozdział 5 – Zasady niszczenia i przekazywania archiwom państwowym akt spraw sądowych sądów wojskowych Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 6 grudnia 2002 r. w sprawie archiwizacji akt spraw sądów wojskowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 6 grudnia 2002 r. w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. z 2021 r. poz. 1206), z uwzględnieniem zmian wprowadzonych:
@@ -37,19 +37,16 @@ rozporządzeniem Ministra Sprawiedliwości z dnia 12 listopada 2021 r. zmieniaj�
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 1 lipca 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 1209), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 1 lipca 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 1209), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 3 lipca 2021 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 3 lipca 2021 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 12 listopada 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 2200), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 12 listopada 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 2200), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 6 grudnia 2002 r. w sprawie archiwizacji akt spraw sądów wojskowych
 Na podstawie art. 18 § 1 pkt 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2020 r. poz. 1754 oraz z 2022 r. poz. 655 i 1259) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe zasady archiwizacji, niszczenia i przekazywania przez sądy wojskowe właściwym archiwom państwowym akt spraw sądowych.
 § 2.
@@ -72,13 +69,14 @@ Zaliczenia do kategorii A akt wymienionych w § 8 i § 11 dokonuje co 5 lat sęd
 Akta spraw o wykonanie orzeczeń sądów zagranicznych kwalifikuje się, biorąc pod uwagę przedmiot orzeczenia sądu zagranicznego.
 § 6.
 Przepisy paragrafów poprzedzających stosuje się odpowiednio do ksiąg i urządzeń ewidencyjnych spraw sądowych.
+Okresy przechowywania akt spraw karnych
 § 7.
 1.
 Do kategorii A zalicza się akta spraw:
-1)
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 12 listopada 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 2200), które weszło w życie z dniem 2 grudnia 2021 r.)
 o zbrodnie wymienione w rozdziałach XVI i XVII oraz o przestępstwa wymienione w art. 189a, art. 211a, art. 252 § 1 i 2, art. 254, 256–258, 265, 266 § 1 i 2 i art. 269 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726 i 1855);
 2)
-o zbrodnie wymienione w rozdziale XIX oraz o przestępstwa wymienione w art. 260–262, 270–276, 278, 283–285 ustawy z dnia 19 kwietnia 1969 r. – Kodeks karny (Dz. U. poz. 94, z późn. zm.);
+o zbrodnie wymienione w rozdziale XIX oraz o przestępstwa wymienione w art. 260–262, 270–276, 278, 283–285 ustawy z dnia 19 kwietnia 1969 r. – Kodeks karny (Dz. U. poz. 94, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1974 r. poz. 157, z 1979 r. poz. 97, z 1982 r. poz. 125, 271 i 273, z 1983 r. poz. 35 i 203, z 1985 r. poz. 15 i 100, z 1987 r. poz. 83, z 1988 r. poz. 135, z 1989 r. poz. 154 i 180, z 1990 r. poz. 84 i 422, z 1992 r. poz. 101, z 1993 r. poz. 78, z 1994 r. poz. 615, z 1995 r. poz. 475, z 1996 r. poz. 646 oraz z 1997 r. poz. 31 i 152.);
 3)
 o przestępstwa wymienione w art. 46 ust. 1–6, art. 47 ust. 1 i art. 48 ust. 1–4 dekretu z dnia 12 grudnia 1981 r. o stanie wojennym (Dz. U. poz. 154, z 1982 r. poz. 18 oraz z 1989 r. poz. 178);
 4)
@@ -112,12 +110,14 @@ Ustala się następujące okresy przechowywania przez sądy akt spraw karnych:
 Akta wydzielone w sprawach karnych przechowuje się przez okres przechowywania akt głównych, z których zostały wydzielone.
 3.
 Akta nie mogą być przekazane do zniszczenia przed ustaniem karalności przestępstwa, o które toczyło się postępowanie.
+Okresy przechowywania akt spraw w sprawach o wykroczenia oraz akt z zakresu orzekania w sprawach dyscyplinarnych
 § 10.
 Akta sądów wojskowych w sprawach o wykroczenia oraz w sprawach z zakresu odpowiedzialności dyscyplinarnej żołnierzy czynnej służby wojskowej zalicza się do kategorii B.
 § 11.
 Do kategorii A zalicza się w każdym sądzie, spośród akt wymienionych w § 10, po jednej sprawie typowej z okresu 5 lat z poszczególnych rozdziałów części szczególnej kodeksu wykroczeń oraz ustawy z dnia 4 września 1997 r. o dyscyplinie wojskowej (Dz. U. z 2002 r. poz. 370 oraz z 2003 r. poz. 1750).
 § 12.
 Akta spraw określonych w § 10 przechowuje się w sądach przez okres 3 lat.
+Okresy przechowywania ksiąg i urządzeń ewidencyjnych w sprawach sądowych
 § 13.
 1.
 Do kategorii A zalicza się repertoria, wykazy, rejestry i skorowidze akt sądowych.
@@ -125,6 +125,7 @@ Do kategorii A zalicza się repertoria, wykazy, rejestry i skorowidze akt sądow
 Do kategorii B zalicza się zbiory wokand, zbiory odpisów wyroków, postanowień i zarządzeń, zbiory pism w sprawach karnych nienależących do akt spraw karnych, terminarze i inne pomocnicze urządzenia ewidencyjne dotyczące biurowości i statystyki w sprawach sądowych.
 3.
 Urządzenia ewidencyjne wymienione w ust. 1 sądy przechowują przez 30 lat, a wymienione w ust. 2 – przez okres 3 lat.
+Zasady niszczenia i przekazywania archiwom państwowym akt spraw sądowych sądów wojskowych
 § 14.
 1.
 Zarządzenie o przekazaniu akt do archiwów, o których mowa w § 3, lub do zniszczenia wydaje prezes sądu.
@@ -140,6 +141,7 @@ Akta spraw, w których nie ukończono wszystkich czynności związanych z wykona
 Przekazanie akt do zniszczenia następuje po uzyskaniu zgody dyrektora właściwego archiwum państwowego.
 § 16.
 Przepisy paragrafów poprzedzających stosuje się odpowiednio do ksiąg i urządzeń ewidencyjnych spraw sądowych.
+Przepisy przejściowe i końcowe
 § 17.
 1.
 Akta spraw karnych zakończonych przed dniem wejścia w życie rozporządzenia kwalifikuje się według przepisów dotychczasowych, chyba że przepisy poniższe stanowią inaczej.
@@ -151,9 +153,9 @@ Akta spraw o przestępstwa wymienione w § 7 ust. 1 pkt 3–5, 7 i 8, w których
 2.
 Do kategorii A zalicza się, chyba że zostały zaliczone do tej kategorii na podstawie przepisów dotychczasowych, akta spraw o przestępstwa określone w:
 1)
-rozporządzeniu Prezydenta Rzeczypospolitej z dnia 11 lipca 1932 r. – Kodeks karny (Dz. U. poz. 571, z późn. zm.);
+rozporządzeniu Prezydenta Rzeczypospolitej z dnia 11 lipca 1932 r. – Kodeks karny (Dz. U. poz. 571, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1949 r. poz. 334 i 437, z 1950 r. poz. 46, z 1951 r. poz. 399, z 1955 r. poz. 83, z 1956 r. poz. 61, z 1958 r. poz. 152, z 1959 r. poz. 226, z 1960 r. poz. 299, z 1969 r. poz. 95 i 311 oraz z 1971 r. poz. 115.);
 2)
-dekrecie Polskiego Komitetu Wyzwolenia Narodowego z dnia 23 września 1944 r. – Kodeks Karny Wojska Polskiego (Dz. U. z 1957 r. poz. 107, z późn. zm.);
+dekrecie Polskiego Komitetu Wyzwolenia Narodowego z dnia 23 września 1944 r. – Kodeks Karny Wojska Polskiego (Dz. U. z 1957 r. poz. 107, z późn. zm.Zmiany tekstu jednolitego wymienionego dekretu zostały ogłoszone w Dz. U. z 1958 r. poz. 165, z 1960 r. poz. 299, z 1961 r. poz. 40, z 1963 r. poz. 114 oraz z 1967 r. poz. 220.);
 3)
 dekrecie Polskiego Komitetu Wyzwolenia Narodowego z dnia 30 października 1944 r. o ochronie Państwa (Dz. U. poz. 50);
 4)
@@ -161,21 +163,33 @@ dekrecie z dnia 16 listopada 1945 r. o przestępstwach szczególnie niebezpieczn
 5)
 dekrecie z dnia 16 listopada 1945 r. o postępowaniu doraźnym (Dz. U. z 1949 r. poz. 244);
 6)
-dekrecie z dnia 13 czerwca 1946 r. o przestępstwach szczególnie niebezpiecznych w okresie odbudowy Państwa (Dz. U. poz. 192, z późn. zm.), z wyjątkiem spraw przekazanych do właściwości sądów powszechnych na podstawie ustawy z dnia 5 kwietnia 1955 r. o przekazaniu sądom powszechnym dotychczasowej właściwości sądów wojskowych w sprawach karnych osób cywilnych, funkcjonariuszy organów bezpieczeństwa publicznego, Milicji Obywatelskiej i Służby Więziennej (Dz. U. poz. 83).
-§ 18a.
+dekrecie z dnia 13 czerwca 1946 r. o przestępstwach szczególnie niebezpiecznych w okresie odbudowy Państwa (Dz. U. poz. 192, z późn. zm.Zmiany wymienionego dekretu zostały ogłoszone w Dz. U. z 1947 r. poz. 390, z 1949 r. poz. 238 i 334, z 1955 r. poz. 310 oraz z 1958 r. poz. 76.), z wyjątkiem spraw przekazanych do właściwości sądów powszechnych na podstawie ustawy z dnia 5 kwietnia 1955 r. o przekazaniu sądom powszechnym dotychczasowej właściwości sądów wojskowych w sprawach karnych osób cywilnych, funkcjonariuszy organów bezpieczeństwa publicznego, Milicji Obywatelskiej i Służby Więziennej (Dz. U. poz. 83).
+§ 18aW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 1 lipca 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 1209), które weszło w życie z dniem 3 lipca 2021 r..
 Okresy przechowywania w sądzie akt spraw zakończonych prawomocnie po dniu 17 października 1997 r., niezaliczonych do kategorii A, których końcowy termin przechowywania upływa przed dniem 3 kwietnia 2024 r., innych niż akta spraw o wykroczenia i wykroczenia skarbowe, ulegają wydłużeniu do dnia 3 lipca 2024 r.
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 19 grudnia 2002 r.. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 12 listopada 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 2200), które weszło w życie z dniem 2 grudnia 2021 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1974 r. poz. 157, z 1979 r. poz. 97, z 1982 r. poz. 125, 271 i 273, z 1983 r. poz. 35 i 203, z 1985 r. poz. 15 i 100, z 1987 r. poz. 83, z 1988 r. poz. 135, z 1989 r. poz. 154 i 180, z 1990 r. poz. 84 i 422, z 1992 r. poz. 101, z 1993 r. poz. 78, z 1994 r. poz. 615, z 1995 r. poz. 475, z 1996 r. poz. 646 oraz z 1997 r. poz. 31 i 152. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1949 r. poz. 334 i 437, z 1950 r. poz. 46, z 1951 r. poz. 399, z 1955 r. poz. 83, z 1956 r. poz. 61, z 1958 r. poz. 152, z 1959 r. poz. 226, z 1960 r. poz. 299, z 1969 r. poz. 95 i 311 oraz z 1971 r. poz. 115. 4) Zmiany tekstu jednolitego wymienionego dekretu zostały ogłoszone w Dz. U. z 1958 r. poz. 165, z 1960 r. poz. 299, z 1961 r. poz. 40, z 1963 r. poz. 114 oraz z 1967 r. poz. 220. 5) Zmiany wymienionego dekretu zostały ogłoszone w Dz. U. z 1947 r. poz. 390, z 1949 r. poz. 238 i 334, z 1955 r. poz. 310 oraz z 1958 r. poz. 76. 6) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 1 lipca 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 1209), które weszło w życie z dniem 3 lipca 2021 r. 7) Rozporządzenie zostało ogłoszone w dniu 19 grudnia 2002 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Okresy przechowywania akt spraw karnych
+#### Rozdział 2 – Okresy przechowywania akt spraw karnych
 
-#### Rozdział 3 Okresy przechowywania akt spraw w sprawach o wykroczenia oraz akt z zakresu orzekania w sprawach dyscyplinarnych
+#### Rozdział 3 – Okresy przechowywania akt spraw w sprawach o wykroczenia oraz akt z zakresu orzekania w sprawach dyscyplinarnych
 
-#### Rozdział 4 Okresy przechowywania ksiąg i urządzeń ewidencyjnych w sprawach sądowych
+#### Rozdział 4 – Okresy przechowywania ksiąg i urządzeń ewidencyjnych w sprawach sądowych
 
-#### Rozdział 5 Zasady niszczenia i przekazywania archiwom państwowym akt spraw sądowych sądów wojskowych
+#### Rozdział 5 – Zasady niszczenia i przekazywania archiwom państwowym akt spraw sądowych sądów wojskowych
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

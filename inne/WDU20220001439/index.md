@@ -26,26 +26,40 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1439/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Fundusze przedsiębiorstwa Rozdział 3 – Uprawnienia Skarbu Państwa Rozdział 4 – Rachunkowość Rozdział 5 – Przepisy szczególne, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych (Dz. U. z 2020 r. poz. 1998), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) oraz zmian wynikających z przepisów ogłoszonych przed dniem 22 czerwca 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „
+Przepisy ogólne
+Fundusze przedsiębiorstwa
+Uprawnienia Skarbu Państwa
+Rachunkowość
+Przepisy szczególne, przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Fundusze przedsiębiorstwa
+
+#### Rozdział 3 – Uprawnienia Skarbu Państwa
+
+#### Rozdział 4 – Rachunkowość
+
+#### Rozdział 5 – Przepisy szczególne, przejściowe i końcowe
 
 **Art. 824.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady gospodarki finansowej przedsiębiorstw państwowych działających na podstawie przepisów ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2021 r. poz. 1317) oraz na podstawie innych ustaw, zwanych dalej „przedsiębiorstwami”.
 
 **Art. 2.** Przedsiębiorstwo, gospodarując wydzielonym mu i nabytym mieniem, działa na zasadach samofinansowania, pokrywając z posiadanych środków i uzyskiwanych przychodów koszty działalności i zobowiązania.
 
-#### Rozdział 2 Fundusze przedsiębiorstwa
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -59,7 +73,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Fundusz przedsiębiorstwa odzwierciedla wartość majątku przedsiębiorstwa po odliczeniu funduszu założycielskiego.
 
-4. Wielkość funduszu założycielskiego przedsiębiorstwa podlega wpisowi do rejestru przedsiębiorstw państwowych .
+4. Wielkość funduszu założycielskiego przedsiębiorstwa podlega wpisowi do rejestru przedsiębiorstw państwowych Obecnie Krajowy Rejestr Sądowy na podstawie art. 86 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112, z 2020 r. poz. 2320, z 2021 r. poz. 1598, 1641 i 2106 oraz z 2022 r. poz. 807 i 984), która weszła w życie z dniem 1 stycznia 2001 r..
 
 **Art. 4.**
 
@@ -73,7 +87,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4a. Przedsiębiorstwo otrzymujące środki trwałe w wypadku, o którym mowa w ust. 9, powiększa swój fundusz założycielski o wartość równą kwocie zmniejszenia funduszu założycielskiego dokonanego przez przedsiębiorstwo przekazujące.
 
-5. Fundusz założycielski ulega zmniejszeniu o kwoty zapłacone z tytułu nabytych na podstawie ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. poz. 127, z późn. zm.) budynków i lokali, z zastrzeżeniem ust. 6 i 7.
+5. Fundusz założycielski ulega zmniejszeniu o kwoty zapłacone z tytułu nabytych na podstawie ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. poz. 127, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. poz. 446 i 464, z 1993 r. poz. 212 i 629, z 1994 r. poz. 96, 118, 384, 388, 415 i 601, z 1995 r. poz. 486, z 1996 r. poz. 33, 405, 496 i 775 oraz z 1997 r. poz. 24, 44, 348 i 435.)Ustawa utraciła moc z dniem 1 stycznia 1998 r. na podstawie art. 241 pkt 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899), która weszła w życie z dniem 1 stycznia 1998 r. budynków i lokali, z zastrzeżeniem ust. 6 i 7.
 
 6. Zmniejszenie funduszu założycielskiego w wypadkach przewidzianych w ust. 3, 5, 9 i 10 następuje wyłącznie w sytuacji, gdy przekazane mienie w postaci środków trwałych lub nabyte budynki i lokale stanowiły podstawę ustalenia tego funduszu.
 
@@ -117,9 +131,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 8.** Podstawą ustalenia wysokości funduszy założycielskiego i przedsiębiorstwa w wypadkach, o których mowa w art. 5 i 7, są bilanse zamknięcia łączonych lub dzielonych przedsiębiorstw.
 
-**Art. 9.** Przedsiębiorstwa wydobywające minerały metodą odkrywkową oraz inne przedsiębiorstwa prowadzące działalność gospodarczą, której towarzyszy powstawanie hałd lub degradacja terenu, mogą tworzyć fundusz rekultywacji z narzutów na koszty działalności. Środki funduszu przeznacza się na finansowanie przedsięwzięć pozainwestycyjnych mających na celu zagospodarowanie terenów poeksploatacyjnych i hałd.
-
-**Art. 10.** Wydatki związane z realizacją zadań przedsiębiorstw państwowych w zakresie obronności kraju, wynikających z przepisów ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) oraz z innych przepisów ustawowych, z wyjątkiem wydatków ponoszonych na podstawie odrębnych przepisów wydawanych przez Radę Ministrów z funduszu zadań wyodrębnionych, tworzonego ze środków budżetowych – obciążają koszty działalności przedsiębiorstw państwowych.
+**Art. 9.** Przedsiębiorstwa wydobywające minerały metodą odkrywkową oraz inne przedsiębiorstwa prowadzące działalność gospodarczą, której towarzyszy powstawanie hałd lub degradacja terenu, mogą tworzyć fundusz rekultywacji z narzutów na koszty działalności. Środki funduszu przeznacza się na finansowanie przedsięwzięć pozainwestycyjnych mających na celu zagospodarowanie terenów poeksploatacyjnych i hałd. Art. 10Ze zmianą wprowadzoną przez art. 704 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), która weszła w życie z dniem 23 kwietnia 2022 r.. Wydatki związane z realizacją zadań przedsiębiorstw państwowych w zakresie obronności kraju, wynikających z przepisów ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) oraz z innych przepisów ustawowych, z wyjątkiem wydatków ponoszonych na podstawie odrębnych przepisów wydawanych przez Radę Ministrów z funduszu zadań wyodrębnionych, tworzonego ze środków budżetowych – obciążają koszty działalności przedsiębiorstw państwowych.
 
 **Art. 11.**
 
@@ -127,7 +139,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Do funduszy własnych przedsiębiorstwa zalicza się fundusz założycielski, fundusz przedsiębiorstwa, fundusz z aktualizacji wyceny oraz niepodzielony wynik finansowy.
 
-#### Rozdział 3 Uprawnienia Skarbu Państwa
+#### Rozdział 3
 
 **Art. 12.**
 
@@ -159,7 +171,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 15.**
 
-1. Do wpłat z zysku stosuje się przepisy o zobowiązaniach podatkowych, z zastrzeżeniem art. 12 ust. 3.
+1. Do wpłat z zysku stosuje się przepisy o zobowiązaniach podatkowychObecnie przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974 i 1265), która weszła w życie z dniem 1 stycznia 1998 r., zgodnie z art. 341 tej ustawy., z zastrzeżeniem art. 12 ust. 3.
 
 2. Minister Finansów, w drodze rozporządzenia, określa terminy i tryb wpłat z zysku oraz terminy składania deklaracji i wzory tych deklaracji.
 
@@ -171,7 +183,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 19.** (uchylony)
 
-#### Rozdział 4 Rachunkowość
+#### Rozdział 4
 
 **Art. 20.**
 
@@ -179,7 +191,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. (utracił moc)
 
-#### Rozdział 5 Przepisy szczególne, przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 21.** (utracił moc)
 
@@ -195,8 +207,6 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Znosi się stosowanie rachunku wyrównawczego cen wewnętrznych na wyroby jednorodne, z wyjątkiem węgla kamiennego i energii elektrycznej.
 
-2. Istniejące saldo rachunku, o którym mowa w ust. 1, należy rozliczyć z funduszem przedsiębiorstwa, które ten rachunek prowadziło. Takiemu samemu rozliczeniu podlega saldo rachunku w przypadku prowadzenia go w zrzeszeniach, z tym że przeznacza się je na fundusze przedsiębiorstw.
-
-- **1)** Obecnie Krajowy Rejestr Sądowy na podstawie art. 86 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112, z 2020 r. poz. 2320, z 2021 r. poz. 1598, 1641 i 2106 oraz z 2022 r. poz. 807 i 984), która weszła w życie z dniem 1 stycznia 2001 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. poz. 446 i 464, z 1993 r. poz. 212 i 629, z 1994 r. poz. 96, 118, 384, 388, 415 i 601, z 1995 r. poz. 486, z 1996 r. poz. 33, 405, 496 i 775 oraz z 1997 r. poz. 24, 44, 348 i 435. 3) Ustawa utraciła moc z dniem 1 stycznia 1998 r. na podstawie art. 241 pkt 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899), która weszła w życie z dniem 1 stycznia 1998 r. 4) Ze zmianą wprowadzoną przez art. 704 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), która weszła w życie z dniem 23 kwietnia 2022 r. 5) Obecnie przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974 i 1265), która weszła w życie z dniem 1 stycznia 1998 r., zgodnie z art. 341 tej ustawy.
+2. Istniejące saldo rachunku, o którym mowa w ust. 1, należy rozliczyć z funduszem przedsiębiorstwa, które ten rachunek prowadziło. Takiemu samemu rozliczeniu podlega saldo rachunku w przypadku prowadzenia go w zrzeszeniach, z tym że przeznacza się je na fundusze przedsiębiorstw. 1) Obecnie Krajowy Rejestr Sądowy na podstawie art. 86 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112, z 2020 r. poz. 2320, z 2021 r. poz. 1598, 1641 i 2106 oraz z 2022 r. poz. 807 i 984), która weszła w życie z dniem 1 stycznia 2001 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. poz. 446 i 464, z 1993 r. poz. 212 i 629, z 1994 r. poz. 96, 118, 384, 388, 415 i 601, z 1995 r. poz. 486, z 1996 r. poz. 33, 405, 496 i 775 oraz z 1997 r. poz. 24, 44, 348 i 435. 3) Ustawa utraciła moc z dniem 1 stycznia 1998 r. na podstawie art. 241 pkt 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899), która weszła w życie z dniem 1 stycznia 1998 r. 4) Ze zmianą wprowadzoną przez art. 704 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), która weszła w życie z dniem 23 kwietnia 2022 r. 5) Obecnie przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974 i 1265), która weszła w życie z dniem 1 stycznia 1998 r., zgodnie z art. 341 tej ustawy.
 
 

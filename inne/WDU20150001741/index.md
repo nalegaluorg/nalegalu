@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 września 2015 r. o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 25 września 2015 r. o zmianie ustawy o transporcie kolejowym Niniejsza ustawa w zakresie swojej regulacji wdraża: dyrektywę 2004/49/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie bezpieczeństwa kolei wspólnotowych oraz zmieniającą dyrektywę Rady 95/18/WE w sprawie przyznawania licencji przedsiębiorstwom kolejowym oraz dyrektywę 2001/14/WE w sprawie alokacji zdolności przepustowej infrastruktury kolejowej i pobierania opłat za użytkowanie infrastruktury kolejowej oraz certyfikację w zakresie bezpieczeństwa (Dz. Urz. UE L 164 z 30.04.2004, str. 44, z późn. zm.) oraz dyrektywę Komisji 2014/106/UE z dnia 5 grudnia 2014 r. zmieniającą załączniki V i VI do dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE w sprawie interoperacyjności systemu kolei we Wspólnocie (Dz. Urz. UE L 355 z 12.12.2014, str. 42).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-10-29 |
-| Wejście w życie | 2016-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1741/text.pdf) |
 
@@ -227,7 +226,7 @@ source: "eli-html"
 
 - **1)** dowody z wysłuchania osób oraz inne dokumenty sporządzane lub otrzymane przez Komisję w trakcie badania poważnego wypadku, wypadku lub incydentu,
 - **2)** zapisy ujawniające tożsamość osób wysłuchanych w trakcie badania poważnego wypadku, wypadku lub incydentu,
-- **3)** informacje dotyczące osób, które uczestniczyły w poważnym wypadku, wypadku lub incydencie, mające charakter informacji szczególnie chronionych lub prywatnych, w tym informacji dotyczących ich stanu zdrowia nie mogą być udostępnione przez Komisję ani organom procesowym w postępowaniu karnym, ani żadnym innym organom prowadzącym postępowanie mające na celu ustalenie odpowiedzialności lub winy.
+- **3)** informacje dotyczące osób, które uczestniczyły w poważnym wypadku, wypadku lub incydencie, mające charakter informacji szczególnie chronionych lub prywatnych, w tym informacji dotyczących ich stanu zdrowia – nie mogą być udostępnione przez Komisję ani organom procesowym w postępowaniu karnym, ani żadnym innym organom prowadzącym postępowanie mające na celu ustalenie odpowiedzialności lub winy.
 
 5. Udostępnienie dowodów, dokumentów, zapisów i informacji, o których mowa w ust. 4, może być dokonane wyłącznie na potrzeby postępowania przygotowawczego, sądowego, sądowo-administracyjnego lub innego postępowania za zgodą sądu, jeżeli sąd uzna, że nadrzędny interes społeczny uzasadnia ich ujawnienie. Właściwy do rozpoznania sprawy jest Sąd Okręgowy w Warszawie. ” ;
 
@@ -322,5 +321,5 @@ source: "eli-html"
 
 2. Przewodniczący Państwowej Komisji Badania Wypadków Kolejowych sprawuje nadzór nad postępowaniami, o których mowa w ust. 1, do czasu ich zakończenia.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 marca 2016 r., z wyjątkiem art. 1 pkt 2 lit. b-d oraz pkt 14, które wchodzą w życie z dniem 1 stycznia 2016 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 marca 2016 r., z wyjątkiem art. 1 pkt 2 lit. b-d oraz pkt 14, które wchodzą w życie z dniem 1 stycznia 2016 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża: dyrektywę 2004/49/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie bezpieczeństwa kolei wspólnotowych oraz zmieniającą dyrektywę Rady 95/18/WE w sprawie przyznawania licencji przedsiębiorstwom kolejowym oraz dyrektywę 2001/14/WE w sprawie alokacji zdolności przepustowej infrastruktury kolejowej i pobierania opłat za użytkowanie infrastruktury kolejowej oraz certyfikację w zakresie bezpieczeństwa (Dz. Urz. UE L 164 z 30.04.2004, str. 44, z późn. zm.) oraz dyrektywę Komisji 2014/106/UE z dnia 5 grudnia 2014 r. zmieniającą załączniki V i VI do dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE w sprawie interoperacyjności systemu kolei we Wspólnocie (Dz. Urz. UE L 355 z 12.12.2014, str. 42).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-11-21 |
 | Data wydania | 2012-01-20 |
-| Wejście w życie | 2015-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000075) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/75/text.pdf) |
 
@@ -65,5 +64,5 @@ Dowód wniesienia opłaty, o której mowa w:
 2.
 Dowód wniesienia opłaty może mieć postać wydruku lub potwierdzającego dokonanie operacji bankowej pliku, generowanego elektronicznie z systemu bankowego.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 listopada 2008 r. w sprawie wysokości opłat za udostępnienie danych ze zbiorów meldunkowych, ewidencji wydanych i unieważnionych dowodów osobistych, zbioru PESEL, ogólnokrajowej ewidencji wydanych i unieważnionych dowodów osobistych oraz sposobu wnoszenia tych opłat (Dz. U. Nr 207, poz. 1298). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 listopada 2008 r. w sprawie wysokości opłat za udostępnienie danych ze zbiorów meldunkowych, ewidencji wydanych i unieważnionych dowodów osobistych, zbioru PESEL, ogólnokrajowej ewidencji wydanych i unieważnionych dowodów osobistych oraz sposobu wnoszenia tych opłat (Dz. U. Nr 207, poz. 1298).
 

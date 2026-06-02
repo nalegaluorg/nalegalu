@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-15 |
 | Data wydania | 2015-03-03 |
-| Wejście w życie | 2015-03-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/284/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 18a ust. 2 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2009 r. Nr 19, poz. 100, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 18a ust. 2 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2009 r. Nr 19, poz. 100, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, z 2011 r. Nr 232, poz. 1378, z 2012 r. poz. 1342 oraz z 2014 r. poz. 1146.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -171,5 +170,5 @@ zasady przedterminowego rozwiązania umowy o partnerstwie publiczno-prywatnym;
 5)
 zasady dotyczące zmian charakteru umowy o partnerstwie publiczno-prywatnym oraz przyczyny tych zmian, w szczególności jeżeli zmiany te zmieniają podział ryzyka pomiędzy podmiotem publicznym a partnerem prywatnym.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, z 2011 r. Nr 232, poz. 1378, z 2012 r. poz. 1342 oraz z 2014 r. poz. 1146.
 

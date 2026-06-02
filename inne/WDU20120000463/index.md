@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-25 |
 | Data wydania | 2012-04-27 |
-| Wejście w życie | 2012-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000463) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/463/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 34 ust. 6 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 34 ust. 6 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 32, poz. 159, Nr 45, poz. 235, Nr 94, poz. 551, Nr 135, poz. 789, Nr 142, poz. 829, Nr 185, poz. 1092 i Nr 232, poz. 1377.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe zasady ustalania geotechnicznych warunków posadawiania obiektów budowlanych, zwane dalej „geotechnicznymi warunkami posadawiania”.
 § 2.
@@ -219,8 +218,7 @@ został złożony wniosek o wydanie decyzji o pozwoleniu na budowę lub odrębny
 2)
 zostało dokonane zgłoszenie budowy lub wykonania robót budowlanych w przypadku, gdy nie jest wymagane uzyskanie decyzji o pozwoleniu na budowę, lub
 3)
-zostało dokonane zgłoszenie zmiany sposobu użytkowania obiektu budowlanego lub jego części
-stosuje się przepisy dotychczasowe.
+zostało dokonane zgłoszenie zmiany sposobu użytkowania obiektu budowlanego lub jego części – stosuje się przepisy dotychczasowe.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 29 kwietnia 2012 r.
+Rozporządzenie wchodzi w życie z dniem 29 kwietnia 2012 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 1998 r. w sprawie ustalania geotechnicznych warunków posadawiania obiektów budowlanych (Dz. U. Nr 126, poz. 839). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 32, poz. 159, Nr 45, poz. 235, Nr 94, poz. 551, Nr 135, poz. 789, Nr 142, poz. 829, Nr 185, poz. 1092 i Nr 232, poz. 1377. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 1998 r. w sprawie ustalania geotechnicznych warunków posadawiania obiektów budowlanych (Dz. U. Nr 126, poz. 839).
 

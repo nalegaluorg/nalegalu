@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-10 |
 | Data wydania | 2018-12-19 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002369) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2369/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Prowadzenie i przechowywanie dokumentacji pracowniczej Rozdział 3 – Szczególne wymagania dotyczące prowadzenia i przechowywania dokumentacji w postaci elektronicznej Rozdział 4 – Przenoszenie dokumentacji pracowniczej pomiędzy systemami teleinformatycznymi Rozdział 5 – Doręczanie informacji lub zawiadomienia o możliwości odbioru dokumentacji pracowniczej oraz sposób odbioru tej dokumentacji Rozdział 6 – Wydawanie kopii dokumentacji pracowniczej Rozdział 7 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Załącznik – Minimalne wymagania techniczne dla odwzorowań cyfrowych
 Treść rozporządzenia
-Na podstawie art. 2981 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 2981 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -38,6 +38,7 @@ zakres, sposób i warunki prowadzenia, przechowywania oraz zmiany postaci dokume
 sposób i tryb doręczania informacji lub zawiadomienia o możliwości odbioru dokumentacji pracowniczej w przypadku upływu okresu jej przechowywania oraz poprzedniej postaci tej dokumentacji w przypadku zmiany postaci jej prowadzenia i przechowywania, a także sposób odbioru dokumentacji pracowniczej;
 3)
 sposób wydawania kopii całości lub części dokumentacji pracowniczej pracownikowi, byłemu pracownikowi lub osobom, o których mowa w art. 949 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, zwanej dalej „Kodeksem pracy”.
+Prowadzenie i przechowywanie dokumentacji pracowniczej
 § 2.
 Pracodawca prowadzi oddzielne dla każdego pracownika akta osobowe.
 § 3.
@@ -167,6 +168,7 @@ kartę ewidencji przydziału odzieży i obuwia roboczego oraz środków ochrony 
 W przypadku, o którym mowa w art. 231 Kodeksu pracy albo w odrębnych przepisach przewidujących następstwo prawne nowego pracodawcy w stosunkach pracy nawiązanych przez dotychczasowego pracodawcę, dotychczasowy pracodawca przekazuje dokumentację pracowniczą nowemu pracodawcy.
 § 8.
 Pracodawca zapewnia odpowiednie warunki zabezpieczające dokumentację pracowniczą prowadzoną i przechowywaną w postaci papierowej przed zniszczeniem, uszkodzeniem lub utratą i dostępem osób nieupoważnionych, w szczególności przez zapewnienie w pomieszczeniu, w którym przechowywana jest dokumentacja pracownicza, odpowiedniej wilgotności, temperatury i zabezpieczenie tego pomieszczenia przed dostępem osób nieupoważnionych.
+Szczególne wymagania dotyczące prowadzenia i przechowywania dokumentacji w postaci elektronicznej
 § 9.
 Dokumentacja pracownicza w postaci elektronicznej jest prowadzona i przechowywana w systemie teleinformatycznym zapewniającym:
 1)
@@ -216,6 +218,7 @@ Prowadząc i przechowując dokumentację pracowniczą w postaci elektronicznej, 
 Odwzorowania cyfrowe, o których mowa w art. 948 § 2 Kodeksu pracy, sporządza się z należytą starannością i jakością techniczną umożliwiającą zapoznanie się bez wątpliwości z treścią dokumentu, bez potrzeby weryfikacji tej treści z dokumentem w postaci papierowej.
 3.
 Minimalne wymagania techniczne dla odwzorowań cyfrowych określa załącznik do rozporządzenia.
+Przenoszenie dokumentacji pracowniczej pomiędzy systemami teleinformatycznymi
 § 13.
 1.
 Przeniesienie dokumentacji pracowniczej do innego systemu wymaga utworzenia uporządkowanego zbioru dokumentów przeznaczonych do przekazania, wraz z kompletem metadanych odnoszących się do każdego dokumentu.
@@ -256,6 +259,7 @@ Plikowi XML z metadanymi nadaje się taką samą nazwę, jaką ma pełna nazwa p
 Uporządkowany zbiór dokumentów przeznaczonych do przekazania przekazuje się w jednym pliku zapisanym w jednym z formatów przeznaczonych do kompresji, o których mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669).
 2.
 Opatrzenie pliku, o którym mowa w ust. 1, kwalifikowanym podpisem elektronicznym lub kwalifikowaną pieczęcią elektroniczną pracodawcy jest równoznaczne z potwierdzeniem zgodności całości przekazywanego zbioru dokumentów przeznaczonych do przekazania z dokumentacją pracowniczą posiadaną przez pracodawcę.
+Doręczanie informacji lub zawiadomienia o możliwości odbioru dokumentacji pracowniczej oraz sposób odbioru tej dokumentacji
 § 15.
 1.
 Pracodawca doręcza, za pokwitowaniem, pracownikowi albo byłemu pracownikowi informację albo zawiadomienie o możliwości odbioru dokumentacji pracowniczej.
@@ -295,6 +299,7 @@ za pomocą środków komunikacji elektronicznej pod warunkiem, że osoba, które
 Wydawaną dokumentację pracowniczą prowadzoną w postaci papierowej przekazuje się w formie, w jakiej była przechowywana przez pracodawcę.
 2.
 Wydawaną dokumentację pracowniczą prowadzoną w postaci elektronicznej przed wydaniem uporządkowuje się w sposób określony w rozdziale 4.
+Wydawanie kopii dokumentacji pracowniczej
 § 18.
 1.
 W przypadku gdy dokumentacja pracownicza jest przechowywana przez pracodawcę w postaci papierowej, pracodawca wydaje kopię całości lub części dokumentacji pracowniczej:
@@ -310,6 +315,7 @@ w postaci elektronicznej, stosując odpowiednio przepisy rozdziału 4, albo
 w postaci papierowej stanowiącej wydruk z dokumentacji pracowniczej prowadzonej w postaci elektronicznej, zawierający oprócz treści również metadane, o których mowa w § 13 ust. 3 pkt 1–4, oraz podpis pracodawcy lub osoby upoważnionej przez pracodawcę potwierdzający zgodność kopii z dokumentacją pracowniczą.
 3.
 Pracodawca wydaje pracownikowi lub byłemu pracownikowi albo osobie, o której mowa w art. 949 § 3 Kodeksu pracy, kopię całości lub części dokumentacji pracowniczej określonej we wniosku i nie później niż w terminie 30 dni od dnia jego otrzymania; wniosek włącza się odpowiednio do części B albo C akt osobowych pracownika. Przepis § 16 ust. 2 stosuje się odpowiednio.
+Przepisy przejściowe i końcowe
 § 19.
 Przepisy niniejszego rozporządzenia stosuje się do dokumentacji pracowniczej pracowników, których stosunek pracy został nawiązany począwszy od dnia 1 stycznia 2019 r.
 § 20.
@@ -329,22 +335,36 @@ W przypadku, o którym mowa w ust. 1, pracodawcy dostosują warunki przechowywan
 3.
 Przepis § 21 stosuje się odpowiednio.
 § 23.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Socjalnej z dnia 28 maja 1996 r. w sprawie zakresu prowadzenia przez pracodawców dokumentacji w sprawach związanych ze stosunkiem pracy oraz sposobu prowadzenia akt osobowych pracownika (Dz. U. z 2017 r. poz. 894), które traci moc z dniem wejścia w życie art. 1 pkt 6 ustawy z dnia 10 stycznia 2018 r. o zmianie niektórych ustaw w związku ze skróceniem okresu przechowywania akt pracowniczych oraz ich elektronizacją (Dz. U. poz. 357).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Socjalnej z dnia 28 maja 1996 r. w sprawie zakresu prowadzenia przez pracodawców dokumentacji w sprawach związanych ze stosunkiem pracy oraz sposobu prowadzenia akt osobowych pracownika (Dz. U. z 2017 r. poz. 894), które traci moc z dniem wejścia w życie art. 1 pkt 6 ustawy z dnia 10 stycznia 2018 r. o zmianie niektórych ustaw w związku ze skróceniem okresu przechowywania akt pracowniczych oraz ich elektronizacją (Dz. U. poz. 357). 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Socjalnej z dnia 28 maja 1996 r. w sprawie zakresu prowadzenia przez pracodawców dokumentacji w sprawach związanych ze stosunkiem pracy oraz sposobu prowadzenia akt osobowych pracownika (Dz. U. z 2017 r. poz. 894), które traci moc z dniem wejścia w życie art. 1 pkt 6 ustawy z dnia 10 stycznia 2018 r. o zmianie niektórych ustaw w związku ze skróceniem okresu przechowywania akt pracowniczych oraz ich elektronizacją (Dz. U. poz. 357).
 Załącznik – Minimalne wymagania techniczne dla odwzorowań cyfrowych
-Rodzaj skanowanego dokumentu Minimalna rozdzielczość Minimalna liczba bitów na piksel teksty drukowane czarno-białe, w formacie A4 lub większym 200 dpi 1 bit (czarno-białe) teksty drukowane czarno-białe, w formacie mniejszym niż A4 1600 pikseli na dłuższym boku lub 200 dpi w zależności od tego, co pozwala uzyskać większą rozdzielczość 1 bit (czarno-białe) teksty drukowane, kolorowe, w formacie A4 lub większym 200 dpi 16 bitów (kolor) teksty drukowane, kolorowe, w formacie mniejszym niż A4 1600 pikseli na dłuższym boku lub 200 dpi w zależności od tego, co pozwala uzyskać większą rozdzielczość 16 bitów (kolor) rękopisy w formacie A4 lub większym 300 dpi 16 bitów (kolor) rękopisy w formacie mniejszym niż A4 2000 pikseli na dłuższym boku lub 300 dpi w zależności od tego, co pozwala uzyskać większą rozdzielczość 16 bitów (kolor) fotografie czarno-białe (jeżeli są włączone do dokumentacji osobno) 1600 pikseli na dłuższym boku 8 bitów (skala szarości) lub 24 bity (kolor) fotografie kolorowe (jeżeli są włączone do dokumentacji osobno) 1600 pikseli na dłuższym boku 24 bity (kolor) Dopuszcza się stosowanie automatycznej kompresji dla obrazów zapisywanych w plikach PDF w przypadku, gdy zastosowana kompresja nie powoduje widocznego pogorszenia jakości obrazu.
+Rodzaj skanowanego dokumentu Minimalna rozdzielczość Minimalna liczba bitów na piksel teksty drukowane czarno-białe, w formacie A4 lub większym 200 dpi 1 bit (czarno-białe) teksty drukowane czarno-białe, w formacie mniejszym niż A4 1600 pikseli na dłuższym boku lub 200 dpi w zależności od tego, co pozwala uzyskać większą rozdzielczość 1 bit (czarno-białe) teksty drukowane, kolorowe, w formacie A4 lub większym 200 dpi 16 bitów (kolor) teksty drukowane, kolorowe, w formacie mniejszym niż A4 1600 pikseli na dłuższym boku lub 200 dpi w zależności od tego, co pozwala uzyskać większą rozdzielczość 16 bitów (kolor) rękopisy w formacie A4 lub większym 300 dpi 16 bitów (kolor) rękopisy w formacie mniejszym niż A4 2000 pikseli na dłuższym boku lub 300 dpi w zależności od tego, co pozwala uzyskać większą rozdzielczość 16 bitów (kolor) fotografie czarno-białe (jeżeli są włączone do dokumentacji osobno) 1600 pikseli na dłuższym boku 8 bitów (skala szarości) lub 24 bity (kolor) fotografie kolorowe (jeżeli są włączone do dokumentacji osobno) 1600 pikseli na dłuższym boku 24 bity (kolor)
+Dopuszcza się stosowanie automatycznej kompresji dla obrazów zapisywanych w plikach PDF w przypadku, gdy zastosowana kompresja nie powoduje widocznego pogorszenia jakości obrazu.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Prowadzenie i przechowywanie dokumentacji pracowniczej
+#### Rozdział 2 – Prowadzenie i przechowywanie dokumentacji pracowniczej
 
-#### Rozdział 3 Szczególne wymagania dotyczące prowadzenia i przechowywania dokumentacji w postaci elektronicznej
+#### Rozdział 3 – Szczególne wymagania dotyczące prowadzenia i przechowywania dokumentacji w postaci elektronicznej
 
-#### Rozdział 4 Przenoszenie dokumentacji pracowniczej pomiędzy systemami teleinformatycznymi
+#### Rozdział 4 – Przenoszenie dokumentacji pracowniczej pomiędzy systemami teleinformatycznymi
 
-#### Rozdział 5 Doręczanie informacji lub zawiadomienia o możliwości odbioru dokumentacji pracowniczej oraz sposób odbioru tej dokumentacji
+#### Rozdział 5 – Doręczanie informacji lub zawiadomienia o możliwości odbioru dokumentacji pracowniczej oraz sposób odbioru tej dokumentacji
 
-#### Rozdział 6 Wydawanie kopii dokumentacji pracowniczej
+#### Rozdział 6 – Wydawanie kopii dokumentacji pracowniczej
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

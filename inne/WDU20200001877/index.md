@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 20 października 2020 r. zmieniające rozporządzenie w sprawie warsztatów terapii zajęciowej
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 20 października 2020 r. zmieniające rozporządzenie w sprawie warsztatów terapii zajęciowej Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-20 |
 | Data wydania | 2020-10-26 |
-| Wejście w życie | 2020-11-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001877) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1877/text.pdf) |
 
@@ -35,8 +34,7 @@ w § 13:
 a)
 w ust. 1 uchyla się pkt 4,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 W warsztacie zatrudnia się psychologa oraz w zależności od potrzeb:
 1)
@@ -46,22 +44,17 @@ pracownika socjalnego;
 3)
 instruktora zawodu;
 4)
-inne osoby niezbędne do prawidłowego funkcjonowania warsztatu.
-” ;
+inne osoby niezbędne do prawidłowego funkcjonowania warsztatu. ” ;
 2)
 w § 19 w ust. 1:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-wynagrodzenia pracowników warsztatu, należnych od pracodawcy składek na ubezpieczenia społeczne pracowników, a także składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Solidarnościowy oraz odpisów na zakładowy fundusz świadczeń socjalnych – w przypadku ich ponoszenia;
-” ;
+wynagrodzenia pracowników warsztatu, należnych od pracodawcy składek na ubezpieczenia społeczne pracowników, a także składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Solidarnościowy oraz odpisów na zakładowy fundusz świadczeń socjalnych – w przypadku ich ponoszenia; ” ;
 b)
-po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-wpłat podstawowych oraz wpłat dodatkowych do pracowniczych planów kapitałowych w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2020 r. poz. 1342), finansowanych przez warsztat;
-” .
+wpłat podstawowych oraz wpłat dodatkowych do pracowniczych planów kapitałowych w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2020 r. poz. 1342), finansowanych przez warsztat; ” .
 § 2.
 1.
 W okresie obowiązywania stanu epidemii ogłoszonego z powodu COVID-19 ustalenie krótszego niż 35 godzin tygodniowo wymiaru zajęć w warsztacie terapii zajęciowej, o którym mowa w § 8 ust. 2 rozporządzenia zmienianego w § 1, nie zmniejsza wysokości dofinansowania działalności tego warsztatu, począwszy od dnia 25 maja 2020 r.
@@ -77,6 +70,5 @@ Poniesienie, przed wejściem w życie niniejszego rozporządzenia, kosztów zwi�
 4.
 Zmiana kosztów działalności warsztatu terapii zajęciowej, o których mowa w § 19 ust. 1 pkt 1 i 1a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, wpływająca na zmianę podziału środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych na działalność tego warsztatu w 2020 r., wymaga sporządzenia przez strony aneksu do umowy, o której mowa w § 5 ust. 1 rozporządzenia zmienianego w § 1.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. poz. 1723).
 

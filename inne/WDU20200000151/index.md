@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 stycznia 2020 r. w sprawie szczegółowych warunków i trybu gromadzenia, przetwarzania oraz przekazywania danych dotyczących wyników przeprowadzonych badań laboratoryjnych oraz sposobu prowadzenia baz danych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 stycznia 2020 r. w sprawie szczegółowych warunków i trybu gromadzenia, przetwarzania oraz przekazywania danych dotyczących wyników przeprowadzonych badań laboratoryjnych oraz sposobu prowadzenia baz danych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-24 |
 | Data wydania | 2020-01-31 |
-| Wejście w życie | 2020-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/151/text.pdf) |
 
@@ -69,6 +68,5 @@ zakres danych objętych wnioskiem;
 3)
 cel, w jakim mają zostać wykorzystane dane objęte wnioskiem.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2011 r. w sprawie szczegółowych warunków i trybu gromadzenia, przetwarzania oraz przekazywania danych dotyczących wyników przeprowadzonych badań laboratoryjnych oraz sposobu prowadzenia baz danych (Dz. U. poz. 597), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 8 ustawy z dnia 16 listopada 2016 r. o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników (Dz. U. poz. 1961).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2011 r. w sprawie szczegółowych warunków i trybu gromadzenia, przetwarzania oraz przekazywania danych dotyczących wyników przeprowadzonych badań laboratoryjnych oraz sposobu prowadzenia baz danych (Dz. U. poz. 597), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 8 ustawy z dnia 16 listopada 2016 r. o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników (Dz. U. poz. 1961). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2011 r. w sprawie szczegółowych warunków i trybu gromadzenia, przetwarzania oraz przekazywania danych dotyczących wyników przeprowadzonych badań laboratoryjnych oraz sposobu prowadzenia baz danych (Dz. U. poz. 597), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 8 ustawy z dnia 16 listopada 2016 r. o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników (Dz. U. poz. 1961).
 

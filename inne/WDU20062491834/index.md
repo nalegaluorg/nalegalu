@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 grudnia 2006 r. o zmianie ustawy o systemie oceny zgodności oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 15 grudnia 2006 r. o zmianie ustawy o systemie oceny zgodności oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze, ustawę z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów, ustawę z dnia 11 maja 2001 r. – Prawo o miarach, ustawę z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych, ustawę z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych oraz ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-15 |
 | Data wydania | 2006-12-29 |
-| Wejście w życie | 2007-01-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1834/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832.) wprowadza się następujące zmiany:
 
 - **1)** odnośnik do tytułu ustawy otrzymuje brzmienie: „ Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 - **1)** dyrektywy 73/23/EWG z dnia 19 lutego 1973 r. w sprawie harmonizacji ustawodawstw Państw Członkowskich odnoszących się do wyposażenia elektrycznego przewidzianego do stosowania w niektórych granicach napięcia (Dz. Urz. WE L 77 z 26.03.1973; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 1, str. 261);
@@ -186,9 +185,11 @@ source: "eli-html"
 
 - **b)**
 - **3)** przekazywanie organom wyspecjalizowanym informacji wskazujących, że wyrób wprowadzony do obrotu lub oddany do użytku nie spełnia zasadniczych lub innych wymagań;
-- **4)** prowadzenie rejestru wyrobów niezgodnych z zasadniczymi lub innymi wymaganiami, zwanego dalej „rejestrem”, oraz gromadzenie informacji dotyczących kontroli wyrobów wprowadzonych do obrotu lub oddanych do użytku. ” , w ust. 3: – pkt 1 i 2 otrzymują brzmienie: „ Uprowadzenie kontroli spełniania przez wyroby zasadniczych lub innych wymagań oraz informowanie Prezesa UOKiK o wynikach przeprowadzonych kontroli; 2) prowadzenie postępowań w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi lub innymi wymaganiami oraz przekazywanie Prezesowi UOKiK informacji o wszczęciu i zakończeniu tych postępowań; ” , – pkt 5 otrzymuje brzmienie: „ 5) przedstawianie Prezesowi UOKiK do zaopiniowania okresowych planów kontroli wyrobów wprowadzonych do obrotu lub oddanych do użytku; ” ;
+- **4)** prowadzenie rejestru wyrobów niezgodnych z zasadniczymi lub innymi wymaganiami, zwanego dalej „rejestrem”, oraz gromadzenie informacji dotyczących kontroli wyrobów wprowadzonych do obrotu lub oddanych do użytku. ” , w ust. 3: pkt 1 i 2 otrzymują brzmienie: „ Uprowadzenie kontroli spełniania przez wyroby zasadniczych lub innych wymagań oraz informowanie Prezesa UOKiK o wynikach przeprowadzonych kontroli;
     - **c)**
 
+- **2)** prowadzenie postępowań w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi lub innymi wymaganiami oraz przekazywanie Prezesowi UOKiK informacji o wszczęciu i zakończeniu tych postępowań; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** przedstawianie Prezesowi UOKiK do zaopiniowania okresowych planów kontroli wyrobów wprowadzonych do obrotu lub oddanych do użytku; ” ;
 - **14)** w art. 39a: w ust. 2 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -307,7 +308,7 @@ source: "eli-html"
 
 - **1)** szczegółowy tryb postępowania organów celnych przy zatrzymywaniu wyrobów,
 - **2)** tryb wydawania i postępowania z opinią wydaną przez organ wyspecjalizowany,
-- **3)** szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących wyrobom zatrzymanym przez organy celne mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej wyrobów, które nie spełniają zasadniczych lub innych wymagań. ” ;
+- **3)** szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących wyrobom zatrzymanym przez organy celne – mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej wyrobów, które nie spełniają zasadniczych lub innych wymagań. ” ;
 - **28)** art. 45–47a otrzymują brzmienie: „
 
 **Art. 45.** Kto wprowadza do obrotu lub oddaje do użytku wyrób niezgodny z zasadniczymi wymaganiami, podlega grzywnie.
@@ -318,21 +319,21 @@ source: "eli-html"
 
 - **29)** po art. 47a dodaje się art. 47b w brzmieniu: „ Kto umieszcza oznakowanie zgodności na wyrobie, który nie podlega temu oznakowaniu lub wprowadza do obrotu taki wyrób, podlega grzywnie. ” .
 
-**Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.) w art. 42 ust. 2 wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683 oraz z 2006 r. Nr 220, poz. 1600.) w art. 42 ust. 2 wprowadza się następujące zmiany:
 
 - **1)** pkt 17 otrzymuje brzmienie: „
 - **17)** wykonywania kontroli w zakresie zgodności z zasadniczymi lub innymi wymaganiami wprowadzonych do obrotu lub oddanych do użytku wyrobów wyposażenia morskiego oraz rekreacyjnych jednostek pływających; ” ;
 - **2)** pkt 25 otrzymuje brzmienie: „
-- **25)** nadzoru nad wprowadzonymi do obrotu lub oddanymi do użytku wyrobami wyposażenia morskiego oraz rekreacyjnymi jednostkami pływającymi, o którym mowa w przepisach ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.); ” . W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2002 r. Nr 112, poz. 982, z późn. zm.) w art. 2 ust. 1 pkt 14 otrzymuje brzmienie: „
+- **25)** nadzoru nad wprowadzonymi do obrotu lub oddanymi do użytku wyrobami wyposażenia morskiego oraz rekreacyjnymi jednostkami pływającymi, o którym mowa w przepisach ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834.); ” . W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2002 r. Nr 112, poz. 982, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 153, poz. 1271, z 2003 r. Nr 170, poz. 1652, Nr 190, poz. 1865 i Nr 217, poz. 2124, z 2004 r. Nr 121, poz. 1263, Nr 191, poz. 1956, Nr 273, poz. 2703 i Nr 281, poz. 2784, z 2005 r. Nr 25, poz. 202, Nr 113, poz. 954, Nr 163, poz. 1362 i Nr 180, poz. 1495 oraz z 2006 r. Nr 50, poz. 360, Nr 169, poz. 1200 i Nr 170, poz. 1217.) w art. 2 ust. 1 pkt 14 otrzymuje brzmienie: „
 - **14)** kontrola wyrobów wprowadzonych do obrotu lub oddanych do użytku, podlegających ocenie zgodności w zakresie spełniania przez nie zasadniczych lub innych wymagań dotyczących ochrony środowiska, określonych w przepisach odrębnych, ” .
 
 **Art. 4.** W ustawie z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. z 2005 r. Nr 228, poz. 1947 oraz z 2006 r. Nr 133, poz. 934, Nr 170, poz. 1217 i Nr 190, poz. 1399) art. 117a otrzymuje brzmienie: „
 
-**Art. 117a.** Prezes Wyższego Urzędu Górniczego jest organem wyspecjalizowanym w rozumieniu przepisów ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.) w zakresie wyrobów przeznaczonych do stosowania w zakładach górniczych. ” .
+**Art. 117a.** Prezes Wyższego Urzędu Górniczego jest organem wyspecjalizowanym w rozumieniu przepisów ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834.) w zakresie wyrobów przeznaczonych do stosowania w zakładach górniczych. ” .
 
 **Art. 5.** W ustawie z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. z 2005 r. Nr 244, poz. 2080 oraz z 2006 r. Nr 157, poz. 1119 i Nr 170, poz. 1217) w art. 26 pkt 14a otrzymuje brzmienie: „
 
-- **14a)** monitorowanie systemu kontroli wyrobów w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.); ” .
+- **14a)** monitorowanie systemu kontroli wyrobów w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834.); ” .
 
 **Art. 6.** W ustawie z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2004 r. Nr 243, poz. 2441, z 2005 r. Nr 163, poz. 1362 i Nr 180, poz. 1494 oraz z 2006 r. Nr 170, poz. 1217) wprowadza się następujące zmiany:
 
@@ -348,7 +349,7 @@ source: "eli-html"
 - **2)** w art. 8: po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
 
-2a. Przyrządy pomiarowe wprowadzone do obrotu lub do użytkowania po dokonaniu oceny zgodności z zasadniczymi wymaganiami, zwanej dalej „oceną zgodności”, na podstawie ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.), które są stosowane w dziedzinach, o których mowa w ust. 1, i zostały określone w przepisach wydanych na podstawie ust. 6, podlegają w użytkowaniu prawnej kontroli metrologicznej. ” , uchyla się ust. 4, w ust. 5 w pkt 4 kropkę zastępuje się średnikiem oraz dodaje się pkt 5 w brzmieniu: „
+2a. Przyrządy pomiarowe wprowadzone do obrotu lub do użytkowania po dokonaniu oceny zgodności z zasadniczymi wymaganiami, zwanej dalej „oceną zgodności”, na podstawie ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834.), które są stosowane w dziedzinach, o których mowa w ust. 1, i zostały określone w przepisach wydanych na podstawie ust. 6, podlegają w użytkowaniu prawnej kontroli metrologicznej. ” , uchyla się ust. 4, w ust. 5 w pkt 4 kropkę zastępuje się średnikiem oraz dodaje się pkt 5 w brzmieniu: „
 
 - **b)**
 - **c)**
@@ -374,17 +375,17 @@ source: "eli-html"
 4a. Podczas legalizacji ponownej przyrządu pomiarowego, wprowadzonego do obrotu lub do użytkowania w wyniku dokonania oceny zgodności, organ administracji miar albo podmiot upoważniony przeprowadza sprawdzenie tego przyrządu pod względem zgodności z wymaganiami obowiązującymi w roku, w którym dokonano oceny zgodności, określonymi w przepisach wydanych na podstawie art. 9a. ” ;
 
 - **5)** w art. 9 pkt 4 otrzymuje brzmienie: „
-- **4)** okresy ważności legalizacji określonych rodzajów przyrządów pomiarowych oraz terminy, w których przyrządy pomiarowe wprowadzone do obrotu lub użytkowania po dokonaniu oceny zgodności powinny być zgłaszane do legalizacji ponownej, uwzględniając warunki użytkowania tych przyrządów i przewidywane obszary ich zastosowań, ” . W ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.) w art. 19d ust. 3 otrzymuje brzmienie: „
+- **4)** okresy ważności legalizacji określonych rodzajów przyrządów pomiarowych oraz terminy, w których przyrządy pomiarowe wprowadzone do obrotu lub użytkowania po dokonaniu oceny zgodności powinny być zgłaszane do legalizacji ponownej, uwzględniając warunki użytkowania tych przyrządów i przewidywane obszary ich zastosowań, ” . W ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 90, poz. 757 i Nr 141, poz. 1184.) w art. 19d ust. 3 otrzymuje brzmienie: „
 
 3. Ilekroć w ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności jest mowa o zasadniczych wymaganiach – należy przez to rozumieć także wymagania, o których mowa w art. 19a. ” . W ustawie z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych (Dz. U. Nr 97, poz. 962 oraz z 2005 r. Nr 141, poz. 1184) w art. 14 ust. 3 otrzymuje brzmienie: „
 
 3. Ilekroć w ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności jest mowa o zasadniczych wymaganiach – należy przez to rozumieć także wymagania, o których mowa w art. 11. ” .
 
-**Art. 9.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600 i Nr 235, poz. 1700.) wprowadza się następujące zmiany:
 
 - **1)** art. 152 otrzymuje brzmienie: „
 
-**Art. 152.** Do wymagań dla aparatury, w tym telekomunikacyjnych urządzeń końcowych i urządzeń radiowych w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.). ” ;
+**Art. 152.** Do wymagań dla aparatury, w tym telekomunikacyjnych urządzeń końcowych i urządzeń radiowych w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834.). ” ;
 
 - **2)** w art. 153 ust. 1 i 2 otrzymują brzmienie: „
 
@@ -392,7 +393,7 @@ source: "eli-html"
 
 - **1)** ochrony zdrowia i bezpieczeństwa użytkownika,
 - **2)** efektywnego wykorzystania zasobów częstotliwości lub zasobów orbitalnych w przypadku urządzeń radiowych,
-- **3)** kompatybilności elektromagnetycznej w zakresie wynikającym z ich przeznaczenia zwane dalej „zasadniczymi wymaganiami”.
+- **3)** kompatybilności elektromagnetycznej w zakresie wynikającym z ich przeznaczenia – zwane dalej „zasadniczymi wymaganiami”.
 
 2. Minister właściwy do spraw łączności może, zgodnie z decyzją Komisji Europejskiej, w drodze rozporządzeń, ustalić dodatkowe wymagania w zakresie:
 
@@ -400,7 +401,7 @@ source: "eli-html"
 - **2)** zabezpieczenia przed nieuprawnionym używaniem urządzeń,
 - **3)** umożliwienia dostępu do urządzeń lub sieci służbom ustawowo powołanym do niesienia pomocy,
 - **4)** przystosowania urządzeń do używania przez osoby niepełnosprawne,
-- **5)** zdolności urządzeń do współpracy z innymi urządzeniami telekomunikacyjnymi używanymi w sieci telekomunikacyjnej lub do niej dołączonymi, w szczególności niepowodowania uszkodzeń sieci telekomunikacyjnej lub zakłócania jej funkcjonowania które powinny być spełniane przez urządzenia niezależnie od zasadniczych wymagań, oraz określić termin, do którego mogą być używane urządzenia wprowadzone do obrotu lub oddane do użytku niespełniające wymagań ustalonych w rozporządzeniu, mając na uwadze prawidłowość funkcjonowania sieci telekomunikacyjnych i kierując się przepisami międzynarodowymi. ” ;
+- **5)** zdolności urządzeń do współpracy z innymi urządzeniami telekomunikacyjnymi używanymi w sieci telekomunikacyjnej lub do niej dołączonymi, w szczególności niepowodowania uszkodzeń sieci telekomunikacyjnej lub zakłócania jej funkcjonowania – które powinny być spełniane przez urządzenia niezależnie od zasadniczych wymagań, oraz określić termin, do którego mogą być używane urządzenia wprowadzone do obrotu lub oddane do użytku niespełniające wymagań ustalonych w rozporządzeniu, mając na uwadze prawidłowość funkcjonowania sieci telekomunikacyjnych i kierując się przepisami międzynarodowymi. ” ;
 - **3)** w art. 154 ust. 1–3 otrzymują brzmienie: „
 
 1. Urządzenia radiowe, wobec których państwa członkowskie stosują ograniczenia w zakresie wprowadzania ich do obrotu lub oddawania do użytku ze względu na pracę urządzenia w zakresie częstotliwości, których wykorzystanie nie zostało zharmonizowane na terytorium tych państw, stanowią urządzenia klasy 2 i przed wprowadzeniem do obrotu lub oddaniem do użytku powinny być oznakowane znakiem ostrzegawczym przez producenta lub jego upoważnionego przedstawiciela.
@@ -462,9 +463,9 @@ source: "eli-html"
 
 - **1)** art. 43a ust. 4 ustawy, o której mowa w art. 1,
 - **2)** art. 8 ust. 6 i art. 9a ustawy, o której mowa w art. 6,
-- **3)** art. 9 ustawy, o której mowa w art. 6, w brzmieniu obowiązującym do dnia 5 lipca 2004 r. zachowują moc do czasu wydania nowych przepisów wykonawczych, nie dłużej jednak niż do dnia 31 grudnia 2007 r. Do spraw wszczętych a niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z zastrzeżeniem art. 14.
+- **3)** art. 9 ustawy, o której mowa w art. 6, w brzmieniu obowiązującym do dnia 5 lipca 2004 r. – zachowują moc do czasu wydania nowych przepisów wykonawczych, nie dłużej jednak niż do dnia 31 grudnia 2007 r. Do spraw wszczętych a niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z zastrzeżeniem art. 14.
 
 **Art. 14.** Niezakończone do dnia wejścia w życie niniejszej ustawy postępowania o zatwierdzenie typu przyrządów pomiarowych podlegających ocenie zgodności, wszczęte na podstawie ustawy, o której mowa w art. 6, podlegają umorzeniu.
 
-**Art. 15.** Ustawa wchodzi w życie z dniem 7 stycznia 2007 r.
+**Art. 15.** Ustawa wchodzi w życie z dniem 7 stycznia 2007 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze, ustawę z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów, ustawę z dnia 11 maja 2001 r. – Prawo o miarach, ustawę z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych, ustawę z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych oraz ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683 oraz z 2006 r. Nr 220, poz. 1600. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 153, poz. 1271, z 2003 r. Nr 170, poz. 1652, Nr 190, poz. 1865 i Nr 217, poz. 2124, z 2004 r. Nr 121, poz. 1263, Nr 191, poz. 1956, Nr 273, poz. 2703 i Nr 281, poz. 2784, z 2005 r. Nr 25, poz. 202, Nr 113, poz. 954, Nr 163, poz. 1362 i Nr 180, poz. 1495 oraz z 2006 r. Nr 50, poz. 360, Nr 169, poz. 1200 i Nr 170, poz. 1217. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 90, poz. 757 i Nr 141, poz. 1184. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600 i Nr 235, poz. 1700. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258 oraz z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834.
 

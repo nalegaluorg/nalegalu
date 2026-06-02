@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-08 |
 | Data wydania | 2018-10-11 |
-| Wejście w życie | 2018-10-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001950) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1950/text.pdf) |
 
@@ -48,9 +47,15 @@ Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
 ## Załącznik nr 1 — – Przeniesienia planowanych wydatków budżetu państwa
 
-Część Dział Rozdział Paragraf Wyszczególnienie Zmniejszenia Zwiększenia w zł 1 2 3 4 5 6 7 18 Budownictwo, planowaniei zagospodarowanieprzestrzenne orazmieszkalnictwo 255 000 750 Administracja publiczna 255 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 255 000 4000 Grupa wydatków bieżących jednostki 170 000 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 59 000 4110 Składki na ubezpieczenia społeczne 11 000 4120 Składki na Fundusz Pracy 2000 4170 Wynagrodzenia bezosobowe 12 000 4440 Odpisy na zakładowy fundusz świadczeń socjalnych 1000 27 Informatyzacja 255 000 750 Administracja publiczna 255 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 255 000 4000 Grupa wydatków bieżących jednostki 170 000 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 59 000 4110 Składki na ubezpieczenia społeczne 11 000 4120 Składki na Fundusz Pracy 2000 4170 Wynagrodzenia bezosobowe 12 000 4440 Odpisy na zakładowy fundusz świadczeń socjalnych 1000
+Część Dział Rozdział Paragraf Wyszczególnienie Zmniejszenia Zwiększenia w zł 1 2 3 4 5 6 7 18 Budownictwo,
+planowanie
+i zagospodarowanie
+przestrzenne oraz
+mieszkalnictwo 255 000 750 Administracja publiczna 255 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 255 000 4000 Grupa wydatków bieżących jednostki 170 000 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 59 000 4110 Składki na ubezpieczenia społeczne 11 000 4120 Składki na Fundusz Pracy 2000 4170 Wynagrodzenia bezosobowe 12 000 4440 Odpisy na zakładowy fundusz świadczeń socjalnych 1000 27 Informatyzacja 255 000 750 Administracja publiczna 255 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 255 000 4000 Grupa wydatków bieżących jednostki 170 000 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 59 000 4110 Składki na ubezpieczenia społeczne 11 000 4120 Składki na Fundusz Pracy 2000 4170 Wynagrodzenia bezosobowe 12 000 4440 Odpisy na zakładowy fundusz świadczeń socjalnych 1000
 
 ## Załącznik nr 2 — – Przeniesienia kwot wynagrodzeń
 
-Część Dział Rozdział Wyszczególnienie Zmniejszenia Zwiększenia w zł 1 2 3 4 5 6 18 Budownictwo, planowaniei zagospodarowanie przestrzenneoraz mieszkalnictwo 59 000 750 Administracja publiczna 59 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 59 000 Członkowie Korpusu Służby Cywilnej 59 000 27 Informatyzacja 59 000 750 Administracja publiczna 59 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 59 000 Członkowie Korpusu Służby Cywilnej 59 000
+Część Dział Rozdział Wyszczególnienie Zmniejszenia Zwiększenia w zł 1 2 3 4 5 6 18 Budownictwo, planowanie
+i zagospodarowanie przestrzenne
+oraz mieszkalnictwo 59 000 750 Administracja publiczna 59 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 59 000 Członkowie Korpusu Służby Cywilnej 59 000 27 Informatyzacja 59 000 750 Administracja publiczna 59 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 59 000 Członkowie Korpusu Służby Cywilnej 59 000
 

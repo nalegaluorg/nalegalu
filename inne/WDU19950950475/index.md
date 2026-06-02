@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1995-07-12 |
 | Data wydania | 1995-08-19 |
-| Wejście w życie | 1995-11-20 |
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950950475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/475/text.pdf) |
 

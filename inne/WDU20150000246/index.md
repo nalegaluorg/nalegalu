@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 17 lutego 2015 r. w sprawie sposobu dokonywania i szczegółowego zakresu weryfikacji świadectw charakterystyki energetycznej oraz protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 17 lutego 2015 r. w sprawie sposobu dokonywania i szczegółowego zakresu weryfikacji świadectw charakterystyki energetycznej oraz protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-17 |
 | Data wydania | 2015-02-24 |
-| Wejście w życie | 2015-03-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000246) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/246/text.pdf) |
 
@@ -43,8 +42,7 @@ Weryfikacja świadectwa charakterystyki energetycznej polega na sprawdzeniu:
 1)
 prawidłowości i rzetelności określenia danych służących do wyznaczenia charakterystyki energetycznej rozpatrywanego budynku lub części budynku oraz wyników zawartych w świadectwie charakterystyki energetycznej,
 2)
-prawidłowości zawartych w świadectwie charakterystyki energetycznej zaleceń, o których mowa w art. 10 pkt 3 ustawy, pod kątem ich dostosowania do rozpatrywanego budynku lub części budynku
-przy uwzględnieniu przepisów dotyczących metodologii wyznaczania charakterystyki energetycznej, sposobu sporządzania oraz wzorów świadectw charakterystyki energetycznej, przepisów techniczno-budowlanych, zasad wiedzy technicznej oraz dokumentów lub ich kopii lub danych, o których mowa w art. 20 ust. 1 pkt 3 ustawy.
+prawidłowości zawartych w świadectwie charakterystyki energetycznej zaleceń, o których mowa w art. 10 pkt 3 ustawy, pod kątem ich dostosowania do rozpatrywanego budynku lub części budynku przy uwzględnieniu przepisów dotyczących metodologii wyznaczania charakterystyki energetycznej, sposobu sporządzania oraz wzorów świadectw charakterystyki energetycznej, przepisów techniczno-budowlanych, zasad wiedzy technicznej oraz dokumentów lub ich kopii lub danych, o których mowa w art. 20 ust. 1 pkt 3 ustawy.
 § 3.
 Weryfikacja protokołu z kontroli polega na sprawdzeniu:
 1)
@@ -52,8 +50,7 @@ w przypadku systemu ogrzewania:
 a)
 prawidłowości i rzetelności dokonanej oceny stanu technicznego systemu, efektywności energetycznej kotłów oraz ich dostosowania do potrzeb użytkowych budynku w zakresie wyznaczenia wartości sprawności kotła i oceny tej sprawności,
 b)
-prawidłowości zawartych w protokole zaleceń, o których mowa w art. 29 ust. 1 pkt 4 ustawy, pod kątem ich dostosowania do rozpatrywanego budynku
-przy uwzględnieniu przepisów wydanych na podstawie art. 30 ustawy, przepisów techniczno-budowlanych oraz zasad wiedzy technicznej;
+prawidłowości zawartych w protokole zaleceń, o których mowa w art. 29 ust. 1 pkt 4 ustawy, pod kątem ich dostosowania do rozpatrywanego budynku – przy uwzględnieniu przepisów wydanych na podstawie art. 30 ustawy, przepisów techniczno-budowlanych oraz zasad wiedzy technicznej;
 2)
 w przypadku systemu klimatyzacji:
 a)
@@ -62,8 +59,7 @@ prawidłowości i rzetelności dokonanej oceny efektywności energetycznej urzą
 – dostosowania systemu do potrzeb użytkowych budynku,
 – mocy właściwej wentylatorów,
 b)
-prawidłowości zawartych w protokole zaleceń, o których mowa w art. 29 ust. 1 pkt 4 ustawy, pod kątem ich dostosowania do rozpatrywanego budynku
-przy uwzględnieniu przepisów wydanych na podstawie art. 30 ustawy, przepisów techniczno-budowlanych oraz zasad wiedzy technicznej.
+prawidłowości zawartych w protokole zaleceń, o których mowa w art. 29 ust. 1 pkt 4 ustawy, pod kątem ich dostosowania do rozpatrywanego budynku – przy uwzględnieniu przepisów wydanych na podstawie art. 30 ustawy, przepisów techniczno-budowlanych oraz zasad wiedzy technicznej.
 § 4.
 1.
 Weryfikacji dokonywanej z urzędu podlegają świadectwa charakterystyki energetycznej i protokoły z kontroli wybrane losowo spośród świadectw i protokołów zawartych w wykazach, o których mowa w art. 31 ust. 1 pkt 3 i 4 ustawy.
@@ -99,5 +95,5 @@ Sprawozdanie z weryfikacji dokonywanej na wniosek sporządza się w trzech jedno
 § 7.
 Weryfikacja dotyczy świadectw charakterystyki energetycznej oraz protokołów z kontroli sporządzonych nie wcześniej niż w dniu 9 marca 2015 r.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 9 marca 2015 r.
+Rozporządzenie wchodzi w życie z dniem 9 marca 2015 r. 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13).
 

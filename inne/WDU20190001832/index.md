@@ -26,23 +26,52 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001832) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1832/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Specjalny zespół negocjacyjny Rozdział 3 – Porozumienie o ustanowieniu europejskiej rady zakładowej lub ustaleniu sposobu informowania i konsultacji Rozdział 4 – Utworzenie europejskiej rady zakładowej Rozdział 5 – Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstwa Rozdział 6 – Ochrona przedstawicieli pracowników Rozdział 7 – Inne obowiązujące porozumienia w sprawie informowania pracowników i konsultacji z pracownikami Rozdział 8 – Przepisy karne Rozdział 9 – Zmiana w przepisach obowiązujących Rozdział 10 – Przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. z 2018 r. poz. 1247), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 września 2019 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17 i art. 23 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17 i art. 23 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608), które stanowią: „
+Przepisy ogólne
+Specjalny zespół negocjacyjny
+Porozumienie o ustanowieniu europejskiej rady zakładowej lub ustaleniu sposobu informowania i konsultacji
 1.
 Zarząd centralny i specjalny zespół negocjacyjny prowadzą negocjacje w sposób zmierzający do zawarcia porozumienia o ustanowieniu europejskiej rady zakładowej lub ustaleniu sposobu informowania pracowników i konsultacji z pracownikami.
 2.
 Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negocjacyjnemu dane i materiały niezbędne do wykonania przez niego zadań.
+Utworzenie europejskiej rady zakładowej
+Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstwa
+Ochrona przedstawicieli pracowników
+Inne obowiązujące porozumienia w sprawie informowania pracowników i konsultacji z pracownikami
+Przepisy karne
+Zmiana w przepisach obowiązujących
+Przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Specjalny zespół negocjacyjny
+
+#### Rozdział 3 – Porozumienie o ustanowieniu europejskiej rady zakładowej lub ustaleniu sposobu informowania i konsultacji
+
+#### Rozdział 4 – Utworzenie europejskiej rady zakładowej
+
+#### Rozdział 5 – Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstwa
+
+#### Rozdział 6 – Ochrona przedstawicieli pracowników
+
+#### Rozdział 7 – Inne obowiązujące porozumienia w sprawie informowania pracowników i konsultacji z pracownikami
+
+#### Rozdział 8 – Przepisy karne
+
+#### Rozdział 9 – Zmiana w przepisach obowiązujących
+
+#### Rozdział 10 – Przepis końcowy
 
 **Art. 17.** Osobom będącym w dniu wejścia w życie niniejszej ustawy członkami związków zawodowych przysługują uprawnienia na zasadach dotychczasowych. ” „
 
-**Art. 23.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 14 w zakresie art. 253 ust. 6, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych
+**Art. 23.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 14 w zakresie art. 253 ust. 6, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowychNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich: 1) dyrektywy 94/45/WE z dnia 22 września 1994 r. w sprawie ustanowienia Europejskiej Rady Zakładowej lub trybu informowania i konsultowania pracowników w przedsiębiorstwach lub w grupach przedsiębiorstw o zasięgu wspólnotowym (Dz. Urz. WE L 254 z 30.09.1994, str. 64, z późn. zm.); 2) dyrektywy 97/74/WE z dnia 15 grudnia 1997 r. rozszerzającej na Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej dyrektywę 94/45/WE w sprawie ustanowienia Europejskiej Rady Zakładowej lub trybu informowania i konsultowania pracowników w przedsiębiorstwach lub w grupach przedsiębiorstw o zasięgu wspólnotowym (Dz. Urz. WE L 10 z 16.01.1998, str. 22). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -114,7 +143,7 @@ Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negoc
 
 2. Zarząd centralny przekazuje ministrowi właściwemu do spraw pracy porozumienie o ustanowieniu europejskiej rady zakładowej lub ustaleniu sposobu informowania pracowników i konsultacji z pracownikami bądź informację o utworzeniu europejskiej rady zakładowej.
 
-#### Rozdział 2 Specjalny zespół negocjacyjny
+#### Rozdział 2
 
 **Art. 6.**
 
@@ -138,9 +167,7 @@ Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negoc
 
 **Art. 8.**
 
-1. W przypadku gdy pracownicy są zatrudnieni w Polsce w jednym zakładzie pracy wchodzącym w skład przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym, członkowie specjalnego zespołu negocjacyjnego reprezentujący pracowników polskich są wyznaczani przez reprezentatywną zakładową organizację związkową, a w przypadku jej braku – wybierani przez pracowników w liczbie określonej niniejszą ustawą lub ustawą innego państwa członkowskiego.
-
-2. Zakładowa organizacja związkowa jest reprezentatywna, jeżeli spełnia warunki określone w art. 253ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263). Przepisy art. 253ust. 3, 4, 6 i 7 ustawy z dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio.
+1. W przypadku gdy pracownicy są zatrudnieni w Polsce w jednym zakładzie pracy wchodzącym w skład przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym, członkowie specjalnego zespołu negocjacyjnego reprezentujący pracowników polskich są wyznaczani przez reprezentatywną zakładową organizację związkową, a w przypadku jej braku – wybierani przez pracowników w liczbie określonej niniejszą ustawą lub ustawą innego państwa członkowskiego. 2W brzmieniu ustalonym przez art. 7 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608), która weszła w życie z dniem 1 stycznia 2019 r.. Zakładowa organizacja związkowa jest reprezentatywna, jeżeli spełnia warunki określone w art. 253ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263). Przepisy art. 253ust. 3, 4, 6 i 7 ustawy z dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio.
 
 3. W przypadku gdy w zakładzie pracy działa kilka reprezentatywnych organizacji związkowych, wyznaczają one wspólnie członków specjalnego zespołu negocjacyjnego. W przypadku nieosiągnięcia porozumienia przez reprezentatywne organizacje związkowe, członków specjalnego zespołu negocjacyjnego wybierają pracownicy spośród kandydatów zgłoszonych przez te organizacje.
 
@@ -236,7 +263,7 @@ Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negoc
 
 3. Nowy wniosek o powołanie specjalnego zespołu negocjacyjnego można złożyć nie wcześniej niż po upływie 2 lat od podjęcia uchwały, o której mowa w ust. 2, chyba że zarząd centralny i specjalny zespół negocjacyjny ustalą krótszy termin.
 
-#### Rozdział 3 Porozumienie o ustanowieniu europejskiej rady zakładowej lub ustaleniu sposobu informowania i konsultacji
+#### Rozdział 3
 
 **Art. 18.**
 
@@ -277,7 +304,7 @@ Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negoc
 - **1)** zatrudnionych w Polsce stosuje się ustawę z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji (Dz. U. poz. 550, z 2008 r. poz. 584 i 778 oraz z 2009 r. poz. 805), a jeżeli u danego pracodawcy nie działa rada pracowników, informowanie i konsultację przeprowadza się z przedstawicielami wybranymi w trybie przyjętym u danego pracodawcy;
 - **2)** zatrudnionych w innym państwie członkowskim stosuje się zasady określone przez ustawodawstwo lub praktykę danego państwa członkowskiego.
 
-#### Rozdział 4 Utworzenie europejskiej rady zakładowej
+#### Rozdział 4
 
 **Art. 20.** Przepisy rozdziału stosuje się w przypadku, gdy:
 
@@ -394,7 +421,7 @@ Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negoc
 
 2. W przypadku podjęcia uchwały o rozpoczęciu negocjacji europejskiej radzie zakładowej przysługują prawa i obowiązki specjalnego zespołu negocjacyjnego.
 
-#### Rozdział 5 Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstwa
+#### Rozdział 5
 
 **Art. 36.**
 
@@ -410,7 +437,7 @@ Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negoc
 
 6. Przepisy ust. 1–5 nie naruszają przepisów o ochronie tajemnicy określonych w przepisach odrębnych.
 
-#### Rozdział 6 Ochrona przedstawicieli pracowników
+#### Rozdział 6
 
 **Art. 37.**
 
@@ -422,7 +449,7 @@ Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negoc
 
 4. Przepisy ust. 1–3 stosuje się odpowiednio do przedstawicieli reprezentujących pracowników zgodnie z porozumieniem zawartym na podstawie art. 18.
 
-#### Rozdział 7 Inne obowiązujące porozumienia w sprawie informowania pracowników i konsultacji z pracownikami
+#### Rozdział 7
 
 **Art. 38.**
 
@@ -434,7 +461,7 @@ Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negoc
 
 4. Zarząd centralny przekazuje ministrowi właściwemu do spraw pracy porozumienia, o których mowa w ust. 1 i 3.
 
-#### Rozdział 8 Przepisy karne
+#### Rozdział 8
 
 **Art. 39.** Kto, będąc członkiem zarządu centralnego lub zarządu innego szczebla w obrębie przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym albo przedstawicielem w państwie członkowskim, o którym mowa w art. 1 ust. 2 pkt 2, lub osobą działającą w jego imieniu:
 
@@ -443,11 +470,11 @@ Zarząd centralny odpowiednio wcześnie udostępnia specjalnemu zespołowi negoc
 
 **Art. 40.** Postępowanie w sprawach określonych w art. 39 toczy się na podstawie Kodeksu postępowania w sprawach o wykroczenia. W tych sprawach oskarżycielem publicznym jest inspektor pracy.
 
-#### Rozdział 9 Zmiana w przepisach obowiązujących
+#### Rozdział 9
 
 **Art. 41.** (pominięty)
 
-#### Rozdział 10 Przepis końcowy
+#### Rozdział 10
 
-**Art. 42.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+**Art. 42.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii EuropejskiejRzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r.. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich: 1) dyrektywy 94/45/WE z dnia 22 września 1994 r. w sprawie ustanowienia Europejskiej Rady Zakładowej lub trybu informowania i konsultowania pracowników w przedsiębiorstwach lub w grupach przedsiębiorstw o zasięgu wspólnotowym (Dz. Urz. WE L 254 z 30.09.1994, str. 64, z późn. zm.); 2) dyrektywy 97/74/WE z dnia 15 grudnia 1997 r. rozszerzającej na Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej dyrektywę 94/45/WE w sprawie ustanowienia Europejskiej Rady Zakładowej lub trybu informowania i konsultowania pracowników w przedsiębiorstwach lub w grupach przedsiębiorstw o zasięgu wspólnotowym (Dz. Urz. WE L 10 z 16.01.1998, str. 22). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) W brzmieniu ustalonym przez art. 7 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608), która weszła w życie z dniem 1 stycznia 2019 r. 3) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r.
 

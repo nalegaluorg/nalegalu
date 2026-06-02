@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 czerwca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Program rolnośrodowiskowy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 czerwca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Program rolnośrodowiskowy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-07 |
 | Data wydania | 2018-06-28 |
-| Wejście w życie | 2018-06-29 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1261/text.pdf) |
 
@@ -35,26 +34,21 @@ Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 29 ust. 1 pkt 1 i ust. 1a ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2017 r. poz. 1856 oraz z 2018 r. poz. 311) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2013 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Program rolnośrodowiskowy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2013 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Program rolnośrodowiskowy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 361, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 1312, z 2014 r. poz. 324 i 1487, z 2015 r. poz. 350 i 908, z 2016 r. poz. 344, 609 i 1932 oraz z 2017 r. poz. 812.) wprowadza się następujące zmiany:
 1)
-§ 17 otrzymuje brzmienie:
-„
+§ 17 otrzymuje brzmienie: „
 § 17.
-Płatność rolnośrodowiskowa nie przysługuje do działek rolnych za realizację zobowiązania rolnośrodowiskowego w ramach określonych pakietów lub ich wariantów, jeżeli wymogi tych pakietów lub wariantów są objęte programem działań, o którym mowa w art. 104 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650 i 710).
-” ;
+Płatność rolnośrodowiskowa nie przysługuje do działek rolnych za realizację zobowiązania rolnośrodowiskowego w ramach określonych pakietów lub ich wariantów, jeżeli wymogi tych pakietów lub wariantów są objęte programem działań, o którym mowa w art. 104 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650 i 710). ” ;
 2)
 w § 25 w ust. 1 uchyla się pkt 2;
 3)
 w § 26 uchyla się ust. 4;
 4)
-po § 37 dodaje się § 37a w brzmieniu:
-„
+po § 37 dodaje się § 37a w brzmieniu: „
 § 37a.
-W przypadku stwierdzenia uchybienia w przestrzeganiu przez rolnika podstawowych wymagań wskazanych w § 3 pkt 3, w celu zastosowania art. 35 ust. 4 rozporządzenia nr 640/2014, płatność rolnośrodowiskowa podlega zwrotowi, a do ustalenia wysokości tego zwrotu § 37 ust. 1 stosuje się odpowiednio.
-” ;
+W przypadku stwierdzenia uchybienia w przestrzeganiu przez rolnika podstawowych wymagań wskazanych w § 3 pkt 3, w celu zastosowania art. 35 ust. 4 rozporządzenia nr 640/2014, płatność rolnośrodowiskowa podlega zwrotowi, a do ustalenia wysokości tego zwrotu § 37 ust. 1 stosuje się odpowiednio. ” ;
 5)
-po § 39 dodaje się § 39a w brzmieniu:
-„
+po § 39 dodaje się § 39a w brzmieniu: „
 § 39a.
 W przypadku stwierdzenia uchybienia w przestrzeganiu przez rolnika wymogów w ramach zobowiązania rolnośrodowiskowego, w celu zastosowania art. 35 ust. 4 rozporządzenia nr 640/2014, płatność rolnośrodowiskowa podlega zwrotowi, a do ustalenia wysokości tego zwrotu § 38 ust. 1, 2, 4–10 oraz 13 stosuje się odpowiednio, z tym że w przypadku uchybienia określonego w § 38:
 1)
@@ -97,8 +91,7 @@ o 2 lata rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzon
 c)
 o 3 lata rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 10%,
 d)
-o 4 lata rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 5%
-wysokości zwrotu płatności rolnośrodowiskowej ustalonej zgodnie z § 38 ust. 6;
+o 4 lata rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 5% – wysokości zwrotu płatności rolnośrodowiskowej ustalonej zgodnie z § 38 ust. 6;
 6)
 ust. 7:
 a)
@@ -113,41 +106,38 @@ pkt 2 w odniesieniu do uchybienia wymienionego w załączniku nr 7 do rozporząd
 7)
 ust. 10 – wysokość tego zwrotu wynosi 1% płatności rolnośrodowiskowej, która przysługiwałaby, gdyby takie uchybienie nie wystąpiło;
 8)
-ust. 13 – wysokość tego zwrotu wynosi 1% płatności rolnośrodowiskowej, o której mowa w § 38 ust. 13, która przysługiwałaby, gdyby takie uchybienie nie wystąpiło.
-” ;
+ust. 13 – wysokość tego zwrotu wynosi 1% płatności rolnośrodowiskowej, o której mowa w § 38 ust. 13, która przysługiwałaby, gdyby takie uchybienie nie wystąpiło. ” ;
 6)
-po § 42 dodaje się § 42a w brzmieniu:
-„
+po § 42 dodaje się § 42a w brzmieniu: „
 § 42a.
 1.
 W przypadku stwierdzenia niezgodności w zakresie podstawowych wymagań wskazanych w § 3 pkt 1, w celu zastosowania art. 35 ust. 4 rozporządzenia nr 640/2014, płatność rolnośrodowiskowa podlega zwrotowi, a do ustalenia wysokości tego zwrotu § 41 ust. 1 pkt 1 i ust. 3 oraz § 42 ust. 1 stosuje się odpowiednio.
 2.
-W przypadku stwierdzenia niezgodności w zakresie podstawowych wymagań wskazanych w § 3 pkt 2, w celu zastosowania art. 35 ust. 4 rozporządzenia nr 640/2014, płatność rolnośrodowiskowa podlega zwrotowi, a do ustalenia wysokości tego zwrotu § 40, § 41 ust. 1 pkt 2 i ust. 3 oraz § 42 ust. 2 stosuje się odpowiednio.
-” ;
+W przypadku stwierdzenia niezgodności w zakresie podstawowych wymagań wskazanych w § 3 pkt 2, w celu zastosowania art. 35 ust. 4 rozporządzenia nr 640/2014, płatność rolnośrodowiskowa podlega zwrotowi, a do ustalenia wysokości tego zwrotu § 40, § 41 ust. 1 pkt 2 i ust. 3 oraz § 42 ust. 2 stosuje się odpowiednio. ” ;
 7)
-w § 45 pkt 2 otrzymuje brzmienie:
-„
+w § 45 pkt 2 otrzymuje brzmienie: „
 2)
-zmiana programu działań, o którym mowa w art. 104 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
-” ;
+zmiana programu działań, o którym mowa w art. 104 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne; ” ;
 8)
 w załączniku nr 2 do rozporządzenia tabele I-III otrzymują brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 9)
 w załączniku nr 3 do rozporządzenia:
 a)
-w części I. Pakiet 1. Rolnictwo zrównoważone pkt 5 otrzymuje brzmienie:
-„
+w części I. Pakiet 1. Rolnictwo zrównoważone pkt 5 otrzymuje brzmienie: „
 5)
 nieprzekraczanie, z tolerancją do 10%, maksymalnej dawki azotu pochodzącego z nawozów naturalnych, komposłów i nawozów mineralnych wynoszącej:
 a)
 150 kg/ha na gruntach ornych,
 b)
-120 kg/ha na trwałych użytkach zielonych;
-” ,
+120 kg/ha na trwałych użytkach zielonych; ” ,
 b)
 w części IV. Pakiet 4. Ochrona zagrożonych gatunków ptaków i siedlisk przyrodniczych poza obszarami Natura 2000 i Pakiet 5. Ochrona zagrożonych gatunków ptaków i siedlisk przyrodniczych na obszarach Natura 2000:
-– w ust. 2 pkt 2 otrzymuje brzmienie: „ 2) zakaz nawożenia, przy czym na obszarach innych niż obszary nawożone przez namuły rzeczne dopuszcza się nawożenie azotem i nieprzekraczanie maksymalnej dawki azotu wynoszącej 60 kg/ha w danym roku; ” ,
-– w ust. 7 pkt 6 otrzymuje brzmienie: „ 6) zakaz nawożenia, przy czym dopuszcza się nawożenie azotem i nieprzekraczanie maksymalnej dawki azotu wynoszącej 60 kg/ha w danym roku. ” ;
+w ust. 2 pkt 2 otrzymuje brzmienie: „
+2)
+zakaz nawożenia, przy czym na obszarach innych niż obszary nawożone przez namuły rzeczne dopuszcza się nawożenie azotem i nieprzekraczanie maksymalnej dawki azotu wynoszącej 60 kg/ha w danym roku; ” ,
+w ust. 7 pkt 6 otrzymuje brzmienie: „
+6)
+zakaz nawożenia, przy czym dopuszcza się nawożenie azotem i nieprzekraczanie maksymalnej dawki azotu wynoszącej 60 kg/ha w danym roku. ” ;
 10)
 załącznik nr 7 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
 § 2.
@@ -155,13 +145,12 @@ Do przyznawania i zwrotu pomocy finansowej w ramach działania „Program rolno�
 1)
 wszczętymi przed dniem 15 marca 2018 r. i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały wznowione po dniu 14 marca 2018 r.
-stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały wznowione po dniu 14 marca 2018 r. – stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
 Do przyznawania i zwrotu pomocy finansowej w ramach działania „Program rolnośrodowiskowy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 w sprawach objętych postępowaniami wszczętymi po dniu 14 marca 2018 r. stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 4.
 1.
-W przypadku, o którym mowa w § 35 ust. 1 rozporządzenia zmienianego w § 1, jeżeli nowe zobowiązanie rolnośrodowiskowe, o którym mowa w art. 45 ust. 1 rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zastępuje co najmniej jedno zobowiązanie rolnośrodowiskowe w zakresie Pakietu 3. Ekstensywne trwałe użytki zielone, płatność rolnośrodowiskowa za realizację tego zobowiązania w zakresie tego pakietu przysługuje na warunkach, na jakich dotychczas był realizowany ten pakiet, z tym że rolnik jest obowiązany nie stosować nawożenia azotem na obszarach nawożonych przez namuły rzeczne, a na innych obszarach nie przekraczać maksymalnej dawki azotu wynoszącej 60 kg/ha w danym roku.
+W przypadku, o którym mowa w § 35 ust. 1 rozporządzenia zmienianego w § 1, jeżeli nowe zobowiązanie rolnośrodowiskowe, o którym mowa w art. 45 ust. 1 rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 104 z 21.04.2007, str. 8, Dz. Urz. UE L 280 z 24.10.2007, str. 3, Dz. Urz. UE L 318 z 28.11.2008, str. 6, Dz. Urz. UE L 111 z 05.05.2009, str. 5, Dz. Urz. UE L 145 z 10.06.2009, str. 17, Dz. Urz. UE L 171 z 01.07.2009, str. 49, Dz. Urz. UE L 36 z 09.02.2010, str. 4, Dz. Urz. UE L 185 z 15.07.2011, str. 57, Dz. Urz. UE L 105 z 13.04.2013, str. 1 oraz Dz. Urz. UE L 215 z 10.08.2013, str. 16.), zastępuje co najmniej jedno zobowiązanie rolnośrodowiskowe w zakresie Pakietu 3. Ekstensywne trwałe użytki zielone, płatność rolnośrodowiskowa za realizację tego zobowiązania w zakresie tego pakietu przysługuje na warunkach, na jakich dotychczas był realizowany ten pakiet, z tym że rolnik jest obowiązany nie stosować nawożenia azotem na obszarach nawożonych przez namuły rzeczne, a na innych obszarach nie przekraczać maksymalnej dawki azotu wynoszącej 60 kg/ha w danym roku.
 2.
 W zakresie określonym w ust. 1 nie stosuje się § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Program rolnośrodowiskowy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 324).
 § 5.
@@ -170,13 +159,19 @@ W przypadku, o którym mowa w § 35 ust. 1 rozporządzenia zmienianego w § 1, j
 2.
 W zakresie określonym w ust. 1 nie stosuje się § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Program rolnośrodowiskowy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 1312, z 2014 r. poz. 324 i 1487, z 2015 r. poz. 350 i 908, z 2016 r. poz. 344, 609 i 1932 oraz z 2017 r. poz. 812. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 104 z 21.04.2007, str. 8, Dz. Urz. UE L 280 z 24.10.2007, str. 3, Dz. Urz. UE L 318 z 28.11.2008, str. 6, Dz. Urz. UE L 111 z 05.05.2009, str. 5, Dz. Urz. UE L 145 z 10.06.2009, str. 17, Dz. Urz. UE L 171 z 01.07.2009, str. 49, Dz. Urz. UE L 36 z 09.02.2010, str. 4, Dz. Urz. UE L 185 z 15.07.2011, str. 57, Dz. Urz. UE L 105 z 13.04.2013, str. 1 oraz Dz. Urz. UE L 215 z 10.08.2013, str. 16.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 1312, z 2014 r. poz. 324 i 1487, z 2015 r. poz. 350 i 908, z 2016 r. poz. 344, 609 i 1932 oraz z 2017 r. poz. 812. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 104 z 21.04.2007, str. 8, Dz. Urz. UE L 280 z 24.10.2007, str. 3, Dz. Urz. UE L 318 z 28.11.2008, str. 6, Dz. Urz. UE L 111 z 05.05.2009, str. 5, Dz. Urz. UE L 145 z 10.06.2009, str. 17, Dz. Urz. UE L 171 z 01.07.2009, str. 49, Dz. Urz. UE L 36 z 09.02.2010, str. 4, Dz. Urz. UE L 185 z 15.07.2011, str. 57, Dz. Urz. UE L 105 z 13.04.2013, str. 1 oraz Dz. Urz. UE L 215 z 10.08.2013, str. 16.
 
 ## Załącznik nr 1 — – Tekst załącznika
 
 Tabela I.
-WYMOGI DOTYCZĄCE STOSOWANIA NAWOZÓW NIEZGODNOŚCI DOTYCZĄCE STOSOWANIA NAWOZÓW NARUSZENIA DOTYCZĄCE STOSOWANIA NAWOZÓW zasięg1) dotkliwość2) trwałość3) Niestosowanie nawozów niedopuszczonych do obrotu – art. 17 ust. 1 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2017 r. poz. 668, z późn. zm.). Nieprzestrzeganie zakazu stosowania nawozów niedopuszczonych do obrotu. 1. Stwierdzono zastosowanie nawozów niedopuszczonych do obrotu. 1 pkt 1 pkt 3 pkt 3 pkt 3 pkt 5 pkt Niestosowanie w okresie roku dawki odchodów zwierzęcych wykorzystywanych rolniczo zawierającej więcej niż 170 kg azotu (N) w czystym składniku na 1 ha użytków rolnych Nieprzestrzeganie zakazu stosowania w okresie roku dawki odchodów zwierzęcych wykorzystywanych rolniczo zawierającej więcej niż 170 kg azotu (N) w czystym składniku na 1 ha użytków rolnych. 2. Stwierdzono zastosowanie w okresie roku dawki odchodów zwierzęcych wykorzystywanych rolniczo zawierającej więcej niż 170 kg azotu (N) w czystym składniku na 1 ha użytków rolnych. 1 pkt 1 pkt – art. 105 ust. 1 ustawy z dnia 20 lipca 2017 r. 3 pkt 3 pkt 3 pkt – Prawo wodne (Dz. U. poz. 1566, z późn. zm.). 5 pkt 5 pkt Stosowanie nawozów naturalnych i organicznych w postaci stałej oraz płynnej wyłącznie w okresie od dnia 1 marca do dnia 30 listopada, z wyjątkiem nawozów stosowanych na uprawy pod osłonami (szklarnie, inspekty, namioty foliowe) – § 2 ust. 4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 kwietnia 2008 r. w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania (Dz. U. z 2014 r. poz. 393). Nieprzestrzeganie zakazu stosowania nawozów naturalnych i organicznych w postaci stałej oraz płynnej poza okresem od dnia 1 marca do dnia 30 listopada, z wyjątkiem nawozów stosowanych na uprawy pod osłonami (szklarnie, inspekty, namioty foliowe). 3. Stwierdzono zastosowanie nawozów naturalnych i organicznych w postaci stałej oraz płynnej poza okresem od dnia 1 marca do dnia 30 listopada, z wyjątkiem nawozów stosowanych na uprawy pod osłonami (szklarnie, inspekty, namioty foliowe). 1 pkt 3 pkt 3 pkt 3 pkt 5 pkt 5 pkt Przykrycie lub wymieszanie z glebą nawozów naturalnych nie później niż następnego dnia po ich zastosowaniu, z wyłączeniem nawozów stosowanych w lasach oraz na użytkach zielonych – § 3 ust. 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 kwietnia 2008 r. w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania. Nieprzestrzeganie zakazu przykrycia lub wymieszania z glebą nawozów naturalnych później niż następnego dnia po ich zastosowaniu, z wyłączeniem nawozów stosowanych w lasach oraz na użytkach zielonych. 4. Stwierdzono przykrycie lub wymieszanie z glebą nawozów naturalnych później niż następnego dnia po ich zastosowaniu, z wyłączeniem nawozów stosowanych w lasach oraz na użytkach zielonych. 1 pkt 1 pkt 3 pkt 3 pkt 3 pkt Niestosowanie nawozów: Nieprzestrzeganie zakazu stosowania nawozów: 5.1. Stwierdzono zastosowanie nawozów na glebach zamarzniętych, zalanych wodą, nasyconych wodą, pokrytych śniegiem. 1 pkt 1) na glebach zamarzniętych, zalanych wodą, nasyconych wodą, pokrytych śniegiem, 1) na glebach zamarzniętych, zalanych wodą, nasyconych wodą, pokrytych śniegiem; 3 pkt 3 pkt 3 pkt 2) naturalnych w postaci płynnej podczas wegetacji roślin przeznaczonych do bezpośredniego spożycia przez ludzi – art. 20 ust. 1 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu. 2) naturalnych w postaci płynnej podczas wegetacji roślin przeznaczonych do bezpośredniego spożycia przez ludzi. 5 pkt 5 pkt 5.2. Stwierdzono zastosowanie nawozów naturalnych w postaci płynnej podczas wegetacji roślin przeznaczonych do bezpośredniego spożycia przez ludzi. 3 pkt 3 pkt 3 pkt 5 pkt 5 pkt 5 pkt WYMOGI DOTYCZĄCE STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN NIEZGODNOŚCI DOTYCZĄCE STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN NARUSZENIA DOTYCZĄCE STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN zasięg1) dotkliwość2) trwałość3) Postępowanie z opakowaniami jednostkowymi środków ochrony roślin zgodnie z etykietą – art. 35 ust. 5 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2017 r. poz. 50, z późn. zm.) w związku z pkt 1 lit. q i s załącznika I do rozporządzenia Komisji (UE) nr 547/2011 z dnia 8 czerwca 2011 r. w sprawie wykonania rozporządzenia (WE) nr 1107/2009 Parlamentu Europejskiego i Rady w odniesieniu do wymogów w zakresie etykietowania środków ochrony roślin (Dz. Urz. UE L 155 z 11.06.2011, str. 176, z późn. zm.). Nieprzestrzeganie nakazu postępowania z opakowaniami jednostkowymi środków ochrony roślin zgodnie z etykietą. 6. Stwierdzono, że rolnik postąpił z opakowaniami jednostkowymi środków ochrony roślin niezgodnie z etykietą. 3 pkt5 pkt 3 pkt5 pkt 3 pkt5 pkt Przechowywanie przez okres 3 lat dokumentacji (ewidencji zabiegów) dotyczącej stosowanych przez rolników środków ochrony roślin, zawierającej nazwę środka ochrony roślin, czas zastosowania i zastosowaną dawkę, obszar i uprawy, na których zastosowano środek ochrony roślin – art. 67 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1107/2009 z dnia 21 października 2009 r. dotyczącego wprowadzania do obrotu środków ochrony roślin i uchylającego dyrektywy Rady 79/117/EWG i 91/414/EWG (Dz. Urz. UE L 309 z 24.11.2009, str. 1, z późn. zm.). Nieprzechowywanie przez okres 3 lat dokumentacji dotyczącej stosowanych przez rolników środków ochrony roślin. 7. Stwierdzono, że rolnik nie przechowuje przez okres 3 lat dokumentacji dotyczącej stosowanych przez niego środków ochrony roślin. 3 pkt 3 pkt 1 pkt3 pkt5 pkt 1) Ocena wagi stwierdzonej niezgodności według kryterium zasięgu, w odniesieniu do naruszenia nr:
+WYMOGI DOTYCZĄCE STOSOWANIA NAWOZÓW NIEZGODNOŚCI DOTYCZĄCE STOSOWANIA NAWOZÓW NARUSZENIA DOTYCZĄCE STOSOWANIA NAWOZÓW zasięg1) dotkliwość2) trwałość3) Niestosowanie nawozów niedopuszczonych do obrotu – art. 17 ust. 1 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2017 r. poz. 668, z późn. zm.). Nieprzestrzeganie zakazu stosowania nawozów niedopuszczonych do obrotu. 1. Stwierdzono zastosowanie nawozów niedopuszczonych do obrotu. 1 pkt 1 pkt 3 pkt 3 pkt 3 pkt 5 pkt Niestosowanie w okresie roku dawki odchodów zwierzęcych wykorzystywanych rolniczo zawierającej więcej niż 170 kg azotu (N) w czystym składniku na 1 ha użytków rolnych Nieprzestrzeganie zakazu stosowania w okresie roku dawki odchodów zwierzęcych wykorzystywanych rolniczo zawierającej więcej niż 170 kg azotu (N) w czystym składniku na 1 ha użytków rolnych. 2. Stwierdzono zastosowanie w okresie roku dawki odchodów zwierzęcych wykorzystywanych rolniczo zawierającej więcej niż 170 kg azotu (N) w czystym składniku na 1 ha użytków rolnych. 1 pkt 1 pkt – art. 105 ust. 1 ustawy z dnia 20 lipca 2017 r. 3 pkt 3 pkt 3 pkt – Prawo wodne (Dz. U. poz. 1566, z późn. zm.). 5 pkt 5 pkt Stosowanie nawozów naturalnych i organicznych w postaci stałej oraz płynnej wyłącznie w okresie od dnia 1 marca do dnia 30 listopada, z wyjątkiem nawozów stosowanych na uprawy pod osłonami (szklarnie, inspekty, namioty foliowe) – § 2 ust. 4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 kwietnia 2008 r. w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania (Dz. U. z 2014 r. poz. 393). Nieprzestrzeganie zakazu stosowania nawozów naturalnych i organicznych w postaci stałej oraz płynnej poza okresem od dnia 1 marca do dnia 30 listopada, z wyjątkiem nawozów stosowanych na uprawy pod osłonami (szklarnie, inspekty, namioty foliowe). 3. Stwierdzono zastosowanie nawozów naturalnych i organicznych w postaci stałej oraz płynnej poza okresem od dnia 1 marca do dnia 30 listopada, z wyjątkiem nawozów stosowanych na uprawy pod osłonami (szklarnie, inspekty, namioty foliowe). 1 pkt 3 pkt 3 pkt 3 pkt 5 pkt 5 pkt Przykrycie lub wymieszanie z glebą nawozów naturalnych nie później niż następnego dnia po ich zastosowaniu, z wyłączeniem nawozów stosowanych w lasach oraz na użytkach zielonych – § 3 ust. 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 kwietnia 2008 r. w sprawie szczegółowego sposobu stosowania nawozów oraz prowadzenia szkoleń z zakresu ich stosowania. Nieprzestrzeganie zakazu przykrycia lub wymieszania z glebą nawozów naturalnych później niż następnego dnia po ich zastosowaniu, z wyłączeniem nawozów stosowanych w lasach oraz na użytkach zielonych. 4. Stwierdzono przykrycie lub wymieszanie z glebą nawozów naturalnych później niż następnego dnia po ich zastosowaniu, z wyłączeniem nawozów stosowanych w lasach oraz na użytkach zielonych. 1 pkt 1 pkt 3 pkt 3 pkt 3 pkt Niestosowanie nawozów: Nieprzestrzeganie zakazu stosowania nawozów: 5.1. Stwierdzono zastosowanie nawozów na glebach zamarzniętych, zalanych wodą, nasyconych wodą, pokrytych śniegiem. 1 pkt 1) na glebach zamarzniętych, zalanych wodą, nasyconych wodą, pokrytych śniegiem, 1) na glebach zamarzniętych, zalanych wodą, nasyconych wodą, pokrytych śniegiem; 3 pkt 3 pkt 3 pkt 2) naturalnych w postaci płynnej podczas wegetacji roślin przeznaczonych do bezpośredniego spożycia przez ludzi – art. 20 ust. 1 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu. 2) naturalnych w postaci płynnej podczas wegetacji roślin przeznaczonych do bezpośredniego spożycia przez ludzi. 5 pkt 5 pkt 5.2. Stwierdzono zastosowanie nawozów naturalnych w postaci płynnej podczas wegetacji roślin przeznaczonych do bezpośredniego spożycia przez ludzi. 3 pkt 3 pkt 3 pkt 5 pkt 5 pkt 5 pkt
+WYMOGI DOTYCZĄCE STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN NIEZGODNOŚCI DOTYCZĄCE STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN NARUSZENIA DOTYCZĄCE STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN zasięg1) dotkliwość2) trwałość3) Postępowanie z opakowaniami jednostkowymi środków ochrony roślin zgodnie z etykietą – art. 35 ust. 5 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2017 r. poz. 50, z późn. zm.) w związku z pkt 1 lit. q i s załącznika I do rozporządzenia Komisji (UE) nr 547/2011 z dnia 8 czerwca 2011 r. w sprawie wykonania rozporządzenia (WE) nr 1107/2009 Parlamentu Europejskiego i Rady w odniesieniu do wymogów w zakresie etykietowania środków ochrony roślin (Dz. Urz. UE L 155 z 11.06.2011, str. 176, z późn. zm.). Nieprzestrzeganie nakazu postępowania z opakowaniami jednostkowymi środków ochrony roślin zgodnie z etykietą. 6. Stwierdzono, że rolnik postąpił z opakowaniami jednostkowymi środków ochrony roślin niezgodnie z etykietą. 3 pkt
+5 pkt 3 pkt
+5 pkt 3 pkt
+5 pkt Przechowywanie przez okres 3 lat dokumentacji (ewidencji zabiegów) dotyczącej stosowanych przez rolników środków ochrony roślin, zawierającej nazwę środka ochrony roślin, czas zastosowania i zastosowaną dawkę, obszar i uprawy, na których zastosowano środek ochrony roślin – art. 67 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1107/2009 z dnia 21 października 2009 r. dotyczącego wprowadzania do obrotu środków ochrony roślin i uchylającego dyrektywy Rady 79/117/EWG i 91/414/EWG (Dz. Urz. UE L 309 z 24.11.2009, str. 1, z późn. zm.). Nieprzechowywanie przez okres 3 lat dokumentacji dotyczącej stosowanych przez rolników środków ochrony roślin. 7. Stwierdzono, że rolnik nie przechowuje przez okres 3 lat dokumentacji dotyczącej stosowanych przez niego środków ochrony roślin. 3 pkt 3 pkt 1 pkt
+3 pkt
+5 pkt
+1) Ocena wagi stwierdzonej niezgodności według kryterium zasięgu, w odniesieniu do naruszenia nr:
 1)
 1, 3, 5 i 6:
 a)
@@ -198,8 +193,7 @@ b)
 c)
 5 pkt – wykraczający poza gospodarstwo rolne;
 4)
-7 – 3 pkt – ograniczony do gospodarstwa rolnego, jednakże mogący mieć skutki dla obszaru sąsiadującego z tym gospodarstwem.
-2) Ocena wagi stwierdzonej niezgodności według kryterium dotkliwości, w zależności od reakcji środowiska na naruszenie, w odniesieniu do naruszenia nr:
+7 – 3 pkt – ograniczony do gospodarstwa rolnego, jednakże mogący mieć skutki dla obszaru sąsiadującego z tym gospodarstwem. 2) Ocena wagi stwierdzonej niezgodności według kryterium dotkliwości, w zależności od reakcji środowiska na naruszenie, w odniesieniu do naruszenia nr:
 1)
 1:
 a)
@@ -227,8 +221,7 @@ a)
 b)
 5 pkt – negatywny efekt dla środowiska widoczny w tym samym roku kalendarzowym lub prawdopodobne zagrożenie dla zdrowia ludzi lub zwierząt;
 5)
-7 – 3 pkt – stwierdzono przechowywanie ewidencji zabiegów krócej niż 3 lata od dnia wykonania ostatniego zabiegu.
-3) Ocena wagi stwierdzonej niezgodności według kryterium trwałości, w odniesieniu do naruszenia nr:
+7 – 3 pkt – stwierdzono przechowywanie ewidencji zabiegów krócej niż 3 lata od dnia wykonania ostatniego zabiegu. 3) Ocena wagi stwierdzonej niezgodności według kryterium trwałości, w odniesieniu do naruszenia nr:
 1)
 1:
 a)
@@ -255,10 +248,14 @@ b)
 3 pkt – odwracalna długotrwała,
 c)
 5 pkt – nieodwracalna.
-Tabela II. Wyrażona w procentach wielkość zmniejszenia płatności rolnośrodowiskowej w zależności od liczby punktów przypisanych stwierdzonym niezgodnościom1)
-SUMA PUNKTÓW % ZMNIEJSZENIA 5 1 7 3 9 3 11 3 13 5 15 5 1) W zależności od liczby punktów przypisanych stwierdzonej niezgodności dokonuje się zmniejszenia lub wykluczenia płatności rolnośrodowiskowej.
-Tabela III. Wyrażona w procentach wielkość zmniejszenia płatności rolnośrodowiskowej w zależności od liczby punktów przypisanych stwierdzonym niezgodnościom celowym1)
-SUMA PUNKTÓW % ZMNIEJSZENIA 5 15 7 20 9 20 11 20 13 25 15 40 1) W zależności od liczby punktów przypisanych stwierdzonej niezgodności dokonuje się zmniejszenia lub wykluczenia płatności rolnośrodowiskowej.
+Tabela II.
+Wyrażona w procentach wielkość zmniejszenia płatności rolnośrodowiskowej w zależności od liczby punktów przypisanych stwierdzonym niezgodnościom1)
+SUMA PUNKTÓW % ZMNIEJSZENIA 5 1 7 3 9 3 11 3 13 5 15 5
+1) W zależności od liczby punktów przypisanych stwierdzonej niezgodności dokonuje się zmniejszenia lub wykluczenia płatności rolnośrodowiskowej.
+Tabela III.
+Wyrażona w procentach wielkość zmniejszenia płatności rolnośrodowiskowej w zależności od liczby punktów przypisanych stwierdzonym niezgodnościom celowym1)
+SUMA PUNKTÓW % ZMNIEJSZENIA 5 15 7 20 9 20 11 20 13 25 15 40
+1) W zależności od liczby punktów przypisanych stwierdzonej niezgodności dokonuje się zmniejszenia lub wykluczenia płatności rolnośrodowiskowej.
 
 ## Załącznik nr 2 — – Tekst załącznika
 

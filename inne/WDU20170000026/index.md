@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 27 grudnia 2016 r. w sprawie sposobu określania profilu ryzyka spółdzielczych kas oszczędnościowo-kredytowych oraz uwzględniania tego profilu w wyznaczaniu składek na fundusz gwarancyjny kas
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 27 grudnia 2016 r. w sprawie sposobu określania profilu ryzyka spółdzielczych kas oszczędnościowo-kredytowych oraz uwzględniania tego profilu w wyznaczaniu składek na fundusz gwarancyjny kas Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-27 |
 | Data wydania | 2017-01-05 |
-| Wejście w życie | 2017-01-06 |
 | Ostatnia zmiana | 2025-07-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000026) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/26/text.pdf) |
 
@@ -115,20 +114,42 @@ Fundusz określa całkowitą wagę ryzyka kasy na podstawie danych pochodzących
 2.
 Za dane, o których mowa w ust. 1, przyjmuje się dane przekazane zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, które były dostępne w dniu 31 grudnia roku poprzedzającego rok kalendarzowy, na który są należne składki.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 Załącznik – Tekst załącznika
 A.
 OBLICZANIE SKŁADEK KWARTALNYCH NALEŻNYCH OD KAS
 1.
-Obliczanie wartości wskaźników ryzyka, o których mowa w § 3 rozporządzenia Nazwa wskaźnika Wzór / Opis Znak Wskaźnik dźwigni Fundusze własneAktywa ogółem- fundusze własne zdefiniowane w art. 24 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych- aktywa ogółem – suma aktywów określana zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255) (-)Wyższa wartość oznacza niższe ryzyko Współczynnik wypłacalności Współczynnik wypłacalności zdefiniowany w przepisach wykonawczych wydanych na podstawie art. 24 ust. 6 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (-)Wyższa wartośćoznacza niższe ryzyko Wskaźnik rezerwy płynnej do limitu 10% funduszu oszczędnościowo-pożyczkowego Rezerwa płynnalimit 10% funduszuoszczędnościowo-pożyczkowegoWskaźnik rezerwy płynnej do 10% limitu funduszu oszczędnościowo-pożyczkowego określony w art. 38 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (-)Wyższa wartość oznacza niższe ryzyko Wskaźnik kredytów ogółem do depozytów ogółem Kredyty ogółemDepozyty ogółem- kredyty ogółem – kredyty i pożyczki członkowskie sprawozdawane zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych w wartości bilansowej brutto- depozyty ogółem – depozyty członkowskie sprawozdawane zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych w wartości bilansowej (+)Wyższy wskaźnik oznacza wyższe ryzyko Wskaźnik jakości kredytów Kredyty zagrożoneKredyty ogółemkredyty zagrożone – kredyty i pożyczki członkowskie przeterminowane powyżej 3 miesięcy w wartości bilansowej brutto (+)Wyższa wartość oznacza wyższe ryzyko Wskaźnik 20-krotności wymogów kapitałowych do aktywów ogółem 20-krotność wymogów kapitałowychAktywa ogółem licznik wskaźnika – suma wymogów kapitałowych z tytułu ryzyka kredytowego, operacyjnego oraz walutowego pomnożona przez 20, wyliczanych zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 24 ust. 6 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (+)Wyższa wartość oznacza wyższe ryzyko Wskaźnik stopy zwrotu z aktywów (ROA) Wynik nettoAktywa ogółem- wynik netto – zysk albo strata netto wykazane w sprawozdaniu sporządzonym zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (+)/(-)Wartości ujemne oznaczają wyższe ryzyko, przy czym zbyt wysokie wartości mogą również wskazywać na zwiększone ryzyko
+Obliczanie wartości wskaźników ryzyka, o których mowa w § 3 rozporządzenia
+Nazwa wskaźnika Wzór / Opis Znak Wskaźnik dźwigni Fundusze własne
+Aktywa ogółem
+fundusze własne zdefiniowane w art. 24 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych
+aktywa ogółem – suma aktywów określana zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255) (-)
+Wyższa wartość oznacza niższe ryzyko Współczynnik wypłacalności Współczynnik wypłacalności zdefiniowany w przepisach wykonawczych wydanych na podstawie art. 24 ust. 6 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (-)
+Wyższa wartość
+oznacza niższe ryzyko Wskaźnik rezerwy płynnej do limitu 10% funduszu oszczędnościowo-pożyczkowego Rezerwa płynna
+limit 10% funduszu
+oszczędnościowo-pożyczkowego
+Wskaźnik rezerwy płynnej do 10% limitu funduszu oszczędnościowo-pożyczkowego określony w art. 38 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (-)
+Wyższa wartość oznacza niższe ryzyko Wskaźnik kredytów ogółem do depozytów ogółem Kredyty ogółem
+Depozyty ogółem
+kredyty ogółem – kredyty i pożyczki członkowskie sprawozdawane zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych w wartości bilansowej brutto
+depozyty ogółem
+depozyty członkowskie sprawozdawane zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych w wartości bilansowej (+)
+Wyższy wskaźnik oznacza wyższe ryzyko Wskaźnik jakości kredytów Kredyty zagrożone
+Kredyty ogółem
+kredyty zagrożone – kredyty i pożyczki członkowskie przeterminowane powyżej 3 miesięcy w wartości bilansowej brutto (+)
+Wyższa wartość oznacza wyższe ryzyko Wskaźnik 20-krotności wymogów kapitałowych do aktywów ogółem 20-krotność wymogów kapitałowych
+Aktywa ogółem licznik wskaźnika – suma wymogów kapitałowych z tytułu ryzyka kredytowego, operacyjnego oraz walutowego pomnożona przez 20, wyliczanych zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 24 ust. 6 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (+)
+Wyższa wartość oznacza wyższe ryzyko Wskaźnik stopy zwrotu z aktywów (ROA) Wynik netto
+Aktywa ogółem
+wynik netto – zysk albo strata netto wykazane w sprawozdaniu sporządzonym zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (+)/(-)
+Wartości ujemne oznaczają wyższe ryzyko, przy czym zbyt wysokie wartości mogą również wskazywać na zwiększone ryzyko
 2.
 Przypisanie indywidualnych punktowych ocen ryzyka (IRS) wszystkim wskaźnikom dla każdej kasy
 1)
 Fundusz przypisuje indywidualne punktowe oceny ryzyka (IRS) wszystkim wskaźnikom dla każdej kasy. Dla każdego wskaźnika ryzyka indywidualne punktowe oceny ryzyka mieszczą się w przedziale między 0 a 100, gdzie 0 oznacza najniższe ryzyko, a 100 – najwyższe ryzyko.
 2)
-Fundusz przypisuje indywidualne punktowe oceny ryzyka przy użyciu metody skali ruchomej.
-W metodzie skali ruchomej w odniesieniu do każdej kasy „i” jest obliczana indywidualna punktowa ocena ryzyka IRSi, j dla każdego wskaźnika ryzyka Ai, j. Każdy wskaźnik ma zdefiniowaną górną i dolną granicę aj i bj. Jeżeli wyższa wartość wskaźnika wskazuje na podmiot większego ryzyka i wskaźnik przyjmuje wartość powyżej górnej granicy, IRSi, j przyjmuje wartość równą 100. Jeżeli wartość wskaźnika znajduje się poniżej dolnej granicy, IRSi, j przyjmie wartość 0. Jeżeli wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami, IRSi, j przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka Ai, j jego wartość będzie odpowiadała punktacji wyjściowej (IRSi, j): \( IRS_{i, j} = \left\{ \matrix{ 100jezeliA_{i, j} \rangle a_j \hfill \cr 0jezeliA_{i, j} \langle b_j \hfill \cr {{A_{i, j} – b_j } \over {a_j – b_j }}x100, jezelib_j \subseteq A_{i, j} \subseteq a_j \hfill \cr} \right. \) gdzie j = 1…n, n – liczba stosowanych wskaźników ryzyka. Jeżeli niższa wartość wskaźnika wskazuje na podmiot większego ryzyka, a wskaźnik znajduje się poniżej dolnej granicy, IRSi, j przyjmuje wartość równą 100. Jeżeli wartość wskaźnika kształtuje się powyżej górnej granicy, IRSi, j przyjmuje wartość 0. Jeżeli wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami, IRSi, j przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A, j jego wartość będzie odpowiadała punktacji wyjściowej (IRSi, j): \( IRS_{i, j} = \left\{ \matrix{ 0jezeliA_{i, j} \rangle a_j \hfill \cr 100jezeliA_{i, j} \langle b_j \hfill \cr {{a_j – A_{i, j} } \over {a_j – b_j }}x100, jezelib_j \subseteq A_{i, j} \subseteq a_j \hfill \cr} \right. \) gdzie j = 1…n, n – liczba stosowanych wskaźników ryzyka.
+Fundusz przypisuje indywidualne punktowe oceny ryzyka przy użyciu metody skali ruchomej. W metodzie skali ruchomej w odniesieniu do każdej kasy „i” jest obliczana indywidualna punktowa ocena ryzyka IRSi, j dla każdego wskaźnika ryzyka Ai, j. Każdy wskaźnik ma zdefiniowaną górną i dolną granicę aj i bj. Jeżeli wyższa wartość wskaźnika wskazuje na podmiot większego ryzyka i wskaźnik przyjmuje wartość powyżej górnej granicy, IRSi, j przyjmuje wartość równą 100. Jeżeli wartość wskaźnika znajduje się poniżej dolnej granicy, IRSi, j przyjmie wartość 0. Jeżeli wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami, IRSi, j przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka Ai, j jego wartość będzie odpowiadała punktacji wyjściowej (IRSi, j): \( IRS_{i, j} = \left\{ \matrix{ 100jezeliA_{i, j} \rangle a_j \hfill \cr 0jezeliA_{i, j} \langle b_j \hfill \cr {{A_{i, j} – b_j } \over {a_j – b_j }}x100, jezelib_j \subseteq A_{i, j} \subseteq a_j \hfill \cr} \right. \) gdzie j = 1…n, n – liczba stosowanych wskaźników ryzyka. Jeżeli niższa wartość wskaźnika wskazuje na podmiot większego ryzyka, a wskaźnik znajduje się poniżej dolnej granicy, IRSi, j przyjmuje wartość równą 100. Jeżeli wartość wskaźnika kształtuje się powyżej górnej granicy, IRSi, j przyjmuje wartość 0. Jeżeli wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami, IRSi, j przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A, j jego wartość będzie odpowiadała punktacji wyjściowej (IRSi, j): \( IRS_{i, j} = \left\{ \matrix{ 0jezeliA_{i, j} \rangle a_j \hfill \cr 100jezeliA_{i, j} \langle b_j \hfill \cr {{a_j – A_{i, j} } \over {a_j – b_j }}x100, jezelib_j \subseteq A_{i, j} \subseteq a_j \hfill \cr} \right. \) gdzie j = 1…n, n – liczba stosowanych wskaźników ryzyka.
 3.
 Obliczenie całkowitej oceny punktowej ryzyka (ARS) dla każdej kasy Ocena ARSi jest ważoną sumą wszystkich punktowych ocen ryzyka kasy obliczaną według wzoru: \( ARS_i = \sum\limits_{j = 1}^n {IW_j \times IRS_{i, j} } \) gdzie: IWj = waga j-tej oceny, Y]}=1lWj = 100%.
 4.

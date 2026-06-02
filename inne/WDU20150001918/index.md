@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o wyrobach medycznych oraz niektórych innych ustaw
+# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o wyrobach medycznych oraz niektórych innych ustaw Niniejsza ustawa służy wykonaniu: 1) decyzji Komisji nr 2010/227/UE z dnia 19 kwietnia 2010 r. w sprawie europejskiej bazy danych o wyrobach medycznych (Eudamed) (Dz. Urz. UE L 102 z 23.04.2010, str. 45); 2) rozporządzenia Komisji (UE) nr 722/2012 z dnia 8 sierpnia 2012 r. dotyczącego szczególnych wymagań odnoszących się do wymagań ustanowionych w dyrektywach Rady 90/385/EWG i 93/42/EWG dla aktywnych wyrobów medycznych do implantacji oraz wyrobów medycznych produkowanych z wykorzystaniem tkanek pochodzenia zwierzęcego (Dz. Urz. UE L 212 z 09.08.2012, str. 3); 3) rozporządzenia wykonawczego Komisji (UE) nr 920/2013 z dnia 24 września 2013 r. w sprawie wyznaczania i nadzorowania jednostek notyfikowanych na podstawie dyrektywy Rady 90/385/EWG dotyczącej wyrobów medycznych aktywnego osadzania oraz dyrektywy Rady 93/42/EWG dotyczącej wyrobów medycznych (Dz. Urz. UE L 253 z 25.09.2013, str. 8).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-11-19 |
-| Wejście w życie | 2016-02-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001918) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1918/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, ustawę z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
 **Art. 1.** W ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2015 r. poz. 876) wprowadza się następujące zmiany:
 
@@ -32,14 +33,26 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** w art. 2: w ust. 1: – w pkt 9 w lit. b wprowadzenie do wyliczenia otrzymuje brzmienie: „ poważnego pogorszenia stanu zdrowia: ” , – pkt 12 otrzymuje brzmienie: „ 12) dystrybutor – podmiot, mający miejsce zamieszkania lub siedzibę w państwie członkowskim, który dostarcza lub udostępnia wyrób na rynku i który nie jest wytwórcą ani importerem; za dystrybutora uważa się także świadczeniodawcę, który sprowadza na terytorium Rzeczypospolitej Polskiej z terytorium innego państwa członkowskiego wyrób przeznaczony do udzielania świadczeń zdrowotnych przez tego świadczeniodawcę; ” , – pkt 16 otrzymuje brzmienie: „ 16) jednostka notyfikowana – jednostkę oceniającą zgodność, która została notyfikowana przez państwo członkowskie zgodnie z art. 11 dyrektywy Rady 90/385/EWG z dnia 20 czerwca 1990 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do wyrobów medycznych aktywnego osadzania (Dz. Urz. WE L 189 z 20.07.1990, str. 17; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 10, str. 154), art. 16 dyrektywy Rady 93/42/EWG z dnia 14 czerwca 1993 r. dotyczącej wyrobów medycznych (Dz. Urz. WE L 169 z 12.07.1993, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 12, str. 82) lub art. 15 dyrektywy 98/79/WE Parlamentu Europejskiego i Rady z dnia 27 października 1998 r. w sprawie wyrobów medycznych używanych do diagnozy in vitro (Dz. Urz. WE L 331 z 07.12.1998, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 21, str. 319); ” , – pkt 20 otrzymuje brzmienie: „ 20) notatka bezpieczeństwa – komunikat wydany w związku z zewnętrznymi działaniami korygującymi dotyczącymi bezpieczeństwa i przesłany do odbiorców lub użytkowników wyrobów wprowadzonych do obrotu; ” , – pkt 28 otrzymuje brzmienie: „ 28) sponsor – wytwórcę odpowiedzialnego za podjęcie, prowadzenie i finansowanie badania klinicznego, a w przypadku wytwórcy niemającego miejsca zamieszkania lub siedziby w państwie członkowskim – jego autoryzowanego przedstawiciela; ” , – po pkt 28 dodaje się pkt 28a w brzmieniu: „ 28a) sprzedaż wysyłkowa wyrobów – umowę sprzedaży wyrobu zawartą z konsumentem w ramach zorganizowanego systemu zawierania umów na odległość, bez jednoczesnej fizycznej obecności stron, z wyłącznym wykorzystaniem jednego lub większej liczby środków porozumiewania się na odległość do chwili zawarcia umowy włącznie; ” , – pkt 31 otrzymuje brzmienie: „ 31) wprowadzenie do obrotu – udostępnienie za opłatą albo nieodpłatnie, po raz pierwszy, wyrobu innego niż wyrób do badań klinicznych i wyrób do oceny działania, w celu używania lub dystrybucji na terytorium państwa członkowskiego, niezależnie od tego, czy jest to wyrób fabrycznie nowy, czy całkowicie odtworzony; ” , – pkt 37 otrzymuje brzmienie: „ 37) wyrób do samokontroli – wyrób medyczny do diagnostyki in vitro przeznaczony przez wytwórcę do używania w warunkach domowych przez osobę niebędącą profesjonalnym użytkownikiem, która będzie odnosiła wynik testu do osoby badanej; ” , – w pkt 38 część wspólna otrzymuje brzmienie: „ – który nie osiąga zasadniczego zamierzonego działania w ciele lub na ciele ludzkim środkami farmakologicznymi, immunologicznymi lub metabolicznymi, lecz którego działanie może być wspomagane takimi środkami; ” , – pkt 46 otrzymuje brzmienie: „ 46) zewnętrzne działania korygujące dotyczące bezpieczeństwa – działania podjęte w celu minimalizacji, związanego z wyrobem wprowadzonym do obrotu, ryzyka śmierci lub poważnego pogorszenia stanu zdrowia, obejmujące zwrot wyrobu dostawcy, modyfikowanie, wymianę lub niszczenie wyrobu, wykonywaną przez nabywcę modernizację wprowadzającą określoną modyfikację lub zmianę konstrukcji, zalecenie dotyczące używania wyrobu. ” , dodaje się ust. 4 w brzmieniu: „
+- **2)** w art. 2: w ust. 1: – w pkt 9 w lit. b wprowadzenie do wyliczenia otrzymuje brzmienie: „ poważnego pogorszenia stanu zdrowia: ” , pkt 12 otrzymuje brzmienie: „
     - **a)**
+
+- **12)** dystrybutor – podmiot, mający miejsce zamieszkania lub siedzibę w państwie członkowskim, który dostarcza lub udostępnia wyrób na rynku i który nie jest wytwórcą ani importerem; za dystrybutora uważa się także świadczeniodawcę, który sprowadza na terytorium Rzeczypospolitej Polskiej z terytorium innego państwa członkowskiego wyrób przeznaczony do udzielania świadczeń zdrowotnych przez tego świadczeniodawcę; ” , pkt 16 otrzymuje brzmienie: „
+- **16)** jednostka notyfikowana – jednostkę oceniającą zgodność, która została notyfikowana przez państwo członkowskie zgodnie z art. 11 dyrektywy Rady 90/385/EWG z dnia 20 czerwca 1990 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do wyrobów medycznych aktywnego osadzania (Dz. Urz. WE L 189 z 20.07.1990, str. 17; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 10, str. 154), art. 16 dyrektywy Rady 93/42/EWG z dnia 14 czerwca 1993 r. dotyczącej wyrobów medycznych (Dz. Urz. WE L 169 z 12.07.1993, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 12, str. 82) lub art. 15 dyrektywy 98/79/WE Parlamentu Europejskiego i Rady z dnia 27 października 1998 r. w sprawie wyrobów medycznych używanych do diagnozy in vitro (Dz. Urz. WE L 331 z 07.12.1998, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 21, str. 319); ” , pkt 20 otrzymuje brzmienie: „
+- **20)** notatka bezpieczeństwa – komunikat wydany w związku z zewnętrznymi działaniami korygującymi dotyczącymi bezpieczeństwa i przesłany do odbiorców lub użytkowników wyrobów wprowadzonych do obrotu; ” , pkt 28 otrzymuje brzmienie: „
+- **28)** sponsor – wytwórcę odpowiedzialnego za podjęcie, prowadzenie i finansowanie badania klinicznego, a w przypadku wytwórcy niemającego miejsca zamieszkania lub siedziby w państwie członkowskim – jego autoryzowanego przedstawiciela; ” , po pkt 28 dodaje się pkt 28a w brzmieniu: „
+- **28a)** sprzedaż wysyłkowa wyrobów – umowę sprzedaży wyrobu zawartą z konsumentem w ramach zorganizowanego systemu zawierania umów na odległość, bez jednoczesnej fizycznej obecności stron, z wyłącznym wykorzystaniem jednego lub większej liczby środków porozumiewania się na odległość do chwili zawarcia umowy włącznie; ” , pkt 31 otrzymuje brzmienie: „
+- **31)** wprowadzenie do obrotu – udostępnienie za opłatą albo nieodpłatnie, po raz pierwszy, wyrobu innego niż wyrób do badań klinicznych i wyrób do oceny działania, w celu używania lub dystrybucji na terytorium państwa członkowskiego, niezależnie od tego, czy jest to wyrób fabrycznie nowy, czy całkowicie odtworzony; ” , pkt 37 otrzymuje brzmienie: „
+- **37)** wyrób do samokontroli – wyrób medyczny do diagnostyki in vitro przeznaczony przez wytwórcę do używania w warunkach domowych przez osobę niebędącą profesjonalnym użytkownikiem, która będzie odnosiła wynik testu do osoby badanej; ” , w pkt 38 część wspólna otrzymuje brzmienie: „ – który nie osiąga zasadniczego zamierzonego działania w ciele lub na ciele ludzkim środkami farmakologicznymi, immunologicznymi lub metabolicznymi, lecz którego działanie może być wspomagane takimi środkami; ” , pkt 46 otrzymuje brzmienie: „
+- **46)** zewnętrzne działania korygujące dotyczące bezpieczeństwa – działania podjęte w celu minimalizacji, związanego z wyrobem wprowadzonym do obrotu, ryzyka śmierci lub poważnego pogorszenia stanu zdrowia, obejmujące zwrot wyrobu dostawcy, modyfikowanie, wymianę lub niszczenie wyrobu, wykonywaną przez nabywcę modernizację wprowadzającą określoną modyfikację lub zmianę konstrukcji, zalecenie dotyczące używania wyrobu. ” , dodaje się ust. 4 w brzmieniu: „
     - **b)**
 
-4. Obowiązki importera lub dystrybutora, mających siedzibę na terytorium Rzeczypospolitej Polskiej, wynikające z przepisów ustawy, stosuje się do przedsiębiorcy zagranicznego wykonującego działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w formie oddziału, o którym mowa w art. 85 ust. 1 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.). ” ;
+4. Obowiązki importera lub dystrybutora, mających siedzibę na terytorium Rzeczypospolitej Polskiej, wynikające z przepisów ustawy, stosuje się do przedsiębiorcy zagranicznego wykonującego działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w formie oddziału, o którym mowa w art. 85 ust. 1 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893.). ” ;
 
-- **3)** w art. 3: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) produktów kosmetycznych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1223/2009 z dnia 30 listopada 2009 r. dotyczącego produktów kosmetycznych (Dz. Urz. UE L 342 z 22.12.2009, str. 59, z późn. zm.); ” , – pkt 7 otrzymuje brzmienie: „ 7) wyrobów medycznych do diagnostyki in vitro wytworzonych przez świadczeniodawcę i używanych przez niego w miejscu wytworzenia do badania i ustalenia terapii pacjentów leczonych przez tego świadczeniodawcę, o ile nie zostały przekazane innemu podmiotowi, z tym że wymagania zasadnicze określone w ustawie mają zastosowanie w zakresie bezpieczeństwa tych wyrobów, z zastrzeżeniem art. 4 ust. 7; ” , ust. 2 otrzymuje brzmienie: „
+- **3)** w art. 3: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** produktów kosmetycznych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1223/2009 z dnia 30 listopada 2009 r. dotyczącego produktów kosmetycznych (Dz. Urz. UE L 342 z 22.12.2009, str. 59, z późn. zm.); ” , pkt 7 otrzymuje brzmienie: „
+- **7)** wyrobów medycznych do diagnostyki in vitro wytworzonych przez świadczeniodawcę i używanych przez niego w miejscu wytworzenia do badania i ustalenia terapii pacjentów leczonych przez tego świadczeniodawcę, o ile nie zostały przekazane innemu podmiotowi, z tym że wymagania zasadnicze określone w ustawie mają zastosowanie w zakresie bezpieczeństwa tych wyrobów, z zastrzeżeniem art. 4 ust. 7; ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Przepisów ustawy nie stosuje się do komponentów i półproduktów przeznaczonych przez ich wytwórców do wytwarzania wyrobów, z wyjątkiem komponentów i półproduktów przeznaczonych przez ich wytwórców specjalnie do:
@@ -88,7 +101,7 @@ source: "eli-html"
 
 - **1)** który jest wprowadzany do obrotu lub do używania na terytorium Rzeczypospolitej Polskiej lub
 - **2)** którego wytwórca, jego autoryzowany przedstawiciel lub importer odpowiedzialny za wprowadzenie wyrobu do obrotu mają miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej, lub
-- **3)** w którego ocenie zgodności brała udział jednostka notyfikowana autoryzowana przez ministra właściwego do spraw zdrowia klasyfikację, kwalifikację albo to, czy wyrób medyczny jest wyrobem z funkcją pomiarową, w drodze decyzji administracyjnej, ustala Prezes Urzędu. ” ;
+- **3)** w którego ocenie zgodności brała udział jednostka notyfikowana autoryzowana przez ministra właściwego do spraw zdrowia – klasyfikację, kwalifikację albo to, czy wyrób medyczny jest wyrobem z funkcją pomiarową, w drodze decyzji administracyjnej, ustala Prezes Urzędu. ” ;
 - **10)** w art. 23 w ust. 2 uchyla się pkt 3;
 - **11)** po art. 25 dodaje się art. 25a w brzmieniu: „
 
@@ -97,7 +110,7 @@ source: "eli-html"
 - **1)** urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych,
 - **2)** wag nieautomatycznych,
 - **3)** ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym,
-- **4)** telekomunikacyjnych urządzeń końcowych przeznaczonych do dołączania do zakończeń sieci publicznej i urządzeń radiowych wydanych na podstawie art. 9 ust. 1 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności. ” ;
+- **4)** telekomunikacyjnych urządzeń końcowych przeznaczonych do dołączania do zakończeń sieci publicznej i urządzeń radiowych – wydanych na podstawie art. 9 ust. 1 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności. ” ;
 - **12)** art. 26 otrzymuje brzmienie: „
 
 **Art. 26.** Domniemywa się, że wyroby są zgodne z wymaganiami zasadniczymi, o których mowa w art. 23 ust. 1, w zakresie, w jakim stwierdzono ich zgodność z odpowiednimi krajowymi normami przyjętymi na podstawie norm ogłoszonych w Dzienniku Urzędowym Unii Europejskiej seria C, jako normy zharmonizowane z dyrektywą:
@@ -225,7 +238,7 @@ source: "eli-html"
 - **2)** sposób oceny wniosku jednostki notyfikowanej autoryzowanej przez ministra właściwego do spraw zdrowia o rozszerzenie zakresu autoryzacji i wniosku o odnowienie autoryzacji,
 - **3)** wysokość opłat, o których mowa w art. 33 ust. 2b,
 - **4)** szczegółowy sposób i tryb prowadzenia kontroli jednostek ubiegających się o autoryzację oraz jednostek notyfikowanych autoryzowanych przez ministra właściwego do spraw zdrowia,
-- **5)** informacje, jakie powinien zawierać protokół z przeprowadzonej kontroli biorąc pod uwagę konieczność zapewnienia harmonizacji funkcjonowania jednostek notyfikowanych, trybu ich wyznaczania i oceniania oraz wymiany informacji w tym zakresie z innymi państwami członkowskimi i Komisją Europejską, konieczność zapewnienia bezpieczeństwa i wymiany informacji o wyrobach certyfikowanych przez jednostki notyfikowane, odpłatność w innych państwach członkowskich oraz nakład pracy i poziom kosztów ponoszonych przez ministra właściwego do spraw zdrowia i Prezesa Urzędu w związku z wykonywaniem określonych czynności, a także mając na celu zapewnienie sprawnego przeprowadzenia kontroli. ” ;
+- **5)** informacje, jakie powinien zawierać protokół z przeprowadzonej kontroli – biorąc pod uwagę konieczność zapewnienia harmonizacji funkcjonowania jednostek notyfikowanych, trybu ich wyznaczania i oceniania oraz wymiany informacji w tym zakresie z innymi państwami członkowskimi i Komisją Europejską, konieczność zapewnienia bezpieczeństwa i wymiany informacji o wyrobach certyfikowanych przez jednostki notyfikowane, odpłatność w innych państwach członkowskich oraz nakład pracy i poziom kosztów ponoszonych przez ministra właściwego do spraw zdrowia i Prezesa Urzędu w związku z wykonywaniem określonych czynności, a także mając na celu zapewnienie sprawnego przeprowadzenia kontroli. ” ;
 - **19)** w art. 38: ust. 4 otrzymuje brzmienie: „
     - **a)**
 
@@ -257,14 +270,15 @@ source: "eli-html"
 
 - **1)** szczegółowe wymagania dotyczące sposobu planowania, prowadzenia, monitorowania i dokumentowania badania klinicznego oraz sposób przechowywania podstawowej dokumentacji badania klinicznego,
 - **2)** tryb działania sponsora, badacza klinicznego i monitorującego badanie kliniczne – w zakresie określonym w pkt 1,
-- **3)** informacje, jakie powinno zawierać sprawozdanie końcowe z wykonania badania klinicznego, o którym mowa w art. 54 ust. 4 biorąc pod uwagę konieczność zapewnienia bezpieczeństwa uczestników badania, właściwego prowadzenia i informowania o przebiegu badania klinicznego oraz zapewnienie wiarygodności wyników badania klinicznego. ” ;
+- **3)** informacje, jakie powinno zawierać sprawozdanie końcowe z wykonania badania klinicznego, o którym mowa w art. 54 ust. 4 – biorąc pod uwagę konieczność zapewnienia bezpieczeństwa uczestników badania, właściwego prowadzenia i informowania o przebiegu badania klinicznego oraz zapewnienie wiarygodności wyników badania klinicznego. ” ;
 - **24)** w art. 44: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
-1a. Wniosek o wydanie pozwolenia na prowadzenie badania klinicznego może dotyczyć badania klinicznego więcej niż jednego wyrobu medycznego, wyposażenia wyrobu medycznego lub aktywnego wyrobu medycznego do implantacji, o ile badanie to będzie prowadzone według tego samego protokołu badania klinicznego, w tych samych ośrodkach i przez tych samych badaczy klinicznych oraz badania tego dotyczą te same dokumenty wymienione w ust. 3 pkt 3–7 i 11. ” , w ust. 3: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) projekt oznakowania oraz instrukcję używania wyrobu; ” , – w pkt 12 średnik zastępuje się kropką i uchyla się pkt 13, po ust. 3 dodaje się ust. 3a w brzmieniu: „
+1a. Wniosek o wydanie pozwolenia na prowadzenie badania klinicznego może dotyczyć badania klinicznego więcej niż jednego wyrobu medycznego, wyposażenia wyrobu medycznego lub aktywnego wyrobu medycznego do implantacji, o ile badanie to będzie prowadzone według tego samego protokołu badania klinicznego, w tych samych ośrodkach i przez tych samych badaczy klinicznych oraz badania tego dotyczą te same dokumenty wymienione w ust. 3 pkt 3–7 i 11. ” , w ust. 3: po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
 - **b)**
-- **c)**
+- **1a)** projekt oznakowania oraz instrukcję używania wyrobu; ” , – w pkt 12 średnik zastępuje się kropką i uchyla się pkt 13, po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **c)**
 
 3a. Dokumenty, o których mowa w ust. 3 pkt 1, 3, 4 i 6, mogą być złożone na informatycznym nośniku danych. ” , ust. 5 otrzymuje brzmienie: „
 
@@ -318,8 +332,10 @@ source: "eli-html"
 
 3a. Przepis ust. 3 nie dotyczy dystrybutorów i importerów, którzy prowadzą obrót produktami leczniczymi z dołączanymi do nich wyrobami, które były oceniane łącznie z produktem leczniczym i zostały uwzględnione w pozwoleniu na dopuszczenie do obrotu produktu leczniczego. ” ;
 
-- **32)** w art. 59: w ust. 2: – uchyla się pkt 8, – w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „ 11) wystawiony poza granicami Rzeczypospolitej Polskiej równoważny z odpisem z Krajowego Rejestru Sądowego albo wypisem z ewidencji działalności gospodarczej dokument wytwórcy, wydany nie wcześniej niż 3 miesiące przed dniem złożenia wniosku; w przypadku wnioskodawców zagranicznych należy dodatkowo dołączyć tłumaczenie przysięgłe dokumentu na język polski sporządzone i poświadczone przez tłumacza przysięgłego albo sprawdzone i poświadczone przez tłumacza przysięgłego, wykonującego zawód tłumacza przysięgłego na warunkach określonych w ustawie z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2015 r. poz. 487 i 1505), lub przez tłumacza przysięgłego mającego siedzibę na terytorium państwa członkowskiego. ” , dodaje się ust. 3 i 4 w brzmieniu: „
+- **32)** w art. 59: w ust. 2: – uchyla się pkt 8, w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
     - **a)**
+
+- **11)** wystawiony poza granicami Rzeczypospolitej Polskiej równoważny z odpisem z Krajowego Rejestru Sądowego albo wypisem z ewidencji działalności gospodarczej dokument wytwórcy, wydany nie wcześniej niż 3 miesiące przed dniem złożenia wniosku; w przypadku wnioskodawców zagranicznych należy dodatkowo dołączyć tłumaczenie przysięgłe dokumentu na język polski sporządzone i poświadczone przez tłumacza przysięgłego albo sprawdzone i poświadczone przez tłumacza przysięgłego, wykonującego zawód tłumacza przysięgłego na warunkach określonych w ustawie z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2015 r. poz. 487 i 1505), lub przez tłumacza przysięgłego mającego siedzibę na terytorium państwa członkowskiego. ” , dodaje się ust. 3 i 4 w brzmieniu: „
     - **b)**
 
 3. W przypadku zgłoszenia wyrobu wykonanego na zamówienie oraz zgłoszenia wyrobu medycznego do diagnostyki in vitro zgodnie z art. 58 ust. 2a, nie wymaga się:
@@ -482,7 +498,7 @@ source: "eli-html"
 3. W przypadku błędów użytkowych, które nie doprowadziły do śmierci lub poważnego pogorszenia stanu zdrowia pacjenta, jeżeli wytwórca lub autoryzowany przedstawiciel:
 
 - **1)** stwierdził znaczący wzrost liczby występowania takich błędów lub stwierdził, że mogą one doprowadzić do śmierci lub poważnego pogorszenia stanu zdrowia pacjenta, lub
-- **2)** podjął działania, aby zapobiec spowodowaniu przez tego rodzaju błędy śmierci lub poważnego pogorszenia stanu zdrowia pacjenta przesyła Prezesowi Urzędu raport o błędach użytkowych niezależnie od podjętych działań korygujących lub zapobiegawczych.
+- **2)** podjął działania, aby zapobiec spowodowaniu przez tego rodzaju błędy śmierci lub poważnego pogorszenia stanu zdrowia pacjenta – przesyła Prezesowi Urzędu raport o błędach użytkowych niezależnie od podjętych działań korygujących lub zapobiegawczych.
 
 4. Raport o błędach użytkowych uwzględnia charakter tych błędów, przyczyny ich powstania i działania wytwórcy i zawiera w szczególności:
 
@@ -490,7 +506,7 @@ source: "eli-html"
 - **2)** nazwy i adresy podmiotów, u których stwierdzono błędy użytkowe, oraz ich dane kontaktowe (telefon, faks, e-mail),
 - **3)** opis błędów użytkowych, okoliczności powstania i analizę przyczyn,
 - **4)** opis podjętych działań korygujących i zapobiegawczych,
-- **5)** przewidywane działania naprawcze, ich terminy i sposób oceny efektów tych działań z uwzględnieniem specyfiki błędu użytkownika.
+- **5)** przewidywane działania naprawcze, ich terminy i sposób oceny efektów tych działań – z uwzględnieniem specyfiki błędu użytkownika.
 
 5. Raport o błędach użytkowych może być sporządzony na formularzu raportu wytwórcy o incydencie medycznym określonym w przepisach wydanych na podstawie art. 85, pod warunkiem wyraźnego określenia w formularzu, że raport dotyczy błędów użytkowych. ” ;
 
@@ -501,7 +517,7 @@ source: "eli-html"
 1. Jeżeli:
 
 - **1)** po wydaniu notatki bezpieczeństwa i podjęciu FSCA wytwórca lub autoryzowany przedstawiciel zostanie poinformowany o incydentach medycznych, takich jak opisane w notatce bezpieczeństwa, lub
-- **2)** podobne incydenty medyczne wynikające z tej samej przyczyny wystąpiły kilkakrotnie i zostały poprawnie udokumentowane i uwzględnione w ocenie ryzyka wyrobu, a raporty dotyczące tych incydentów medycznych zostały już ocenione przez Prezesa Urzędu to kolejne takie same incydenty medyczne, za zgodą Prezesa Urzędu, mogą być raportowane zbiorczo Prezesowi Urzędu jako okresowe raporty zbiorcze.
+- **2)** podobne incydenty medyczne wynikające z tej samej przyczyny wystąpiły kilkakrotnie i zostały poprawnie udokumentowane i uwzględnione w ocenie ryzyka wyrobu, a raporty dotyczące tych incydentów medycznych zostały już ocenione przez Prezesa Urzędu – to kolejne takie same incydenty medyczne, za zgodą Prezesa Urzędu, mogą być raportowane zbiorczo Prezesowi Urzędu jako okresowe raporty zbiorcze.
 
 2. Wytwórca lub autoryzowany przedstawiciel uzgadnia z Prezesem Urzędu możliwość i częstość przesyłania okresowych raportów zbiorczych.
 
@@ -579,11 +595,11 @@ source: "eli-html"
 
 - **1)** produkt jest lub był wprowadzany do obrotu lub do używania na terytorium Rzeczypospolitej Polskiej lub
 - **2)** wytwórca produktu lub autoryzowany przedstawiciel ma miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej, lub
-- **3)** w ocenie zgodności produktu brała udział jednostka notyfikowana autoryzowana przez ministra właściwego do spraw zdrowia Prezes Urzędu stwierdza, w drodze decyzji administracyjnej, czy produkt jest wyrobem medycznym, aktywnym wyrobem medycznym do implantacji, wyrobem medycznym do diagnostyki in vitro albo systemem lub zestawem zabiegowym złożonym z wyrobów medycznych.
+- **3)** w ocenie zgodności produktu brała udział jednostka notyfikowana autoryzowana przez ministra właściwego do spraw zdrowia – Prezes Urzędu stwierdza, w drodze decyzji administracyjnej, czy produkt jest wyrobem medycznym, aktywnym wyrobem medycznym do implantacji, wyrobem medycznym do diagnostyki in vitro albo systemem lub zestawem zabiegowym złożonym z wyrobów medycznych.
 
 2. Domniemywa się, że produkt lub wyrób, któremu nadano to samo lub takie samo przeznaczenie jak przeznaczenie produktu lub wyrobu, wobec którego została wydana na podstawie ust. 1 decyzja, której nadano rygor natychmiastowej wykonalności, albo ostateczna decyzja, dla której upłynął termin wniesienia skargi do sądu administracyjnego albo która została utrzymana prawomocnym wyrokiem sądu, jeżeli produkt lub wyrób pochodzi od tego samego wytwórcy, chociażby był wprowadzany do obrotu pod inną nazwą handlową, stanowi ten sam produkt lub wyrób.
 
-3. Za tego samego wytwórcę uznaje się także spółkę powiązaną w rozumieniu art. 4 § 1 pkt 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.). ” ;
+3. Za tego samego wytwórcę uznaje się także spółkę powiązaną w rozumieniu art. 4 § 1 pkt 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4, 978, 1333 i 1830.). ” ;
 
 - **56)** art. 91 otrzymuje brzmienie: „
 
@@ -633,7 +649,7 @@ source: "eli-html"
 
 2. Tej samej karze podlega, kto wbrew obowiązkowi określonemu w art. 68 ust. 10 nie udostępnia Prezesowi Urzędu danych podmiotów prowadzących sprzedaż wysyłkową wyrobów. ” .
 
-**Art. 2.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) w art. 37k po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Sprzętem, o którym mowa w ust. 3, może być w szczególności wyrób medyczny nieoznakowany znakiem CE. ” .
+**Art. 2.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788, 875, 1771 i 1830.) w art. 37k po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Sprzętem, o którym mowa w ust. 3, może być w szczególności wyrób medyczny nieoznakowany znakiem CE. ” .
 
 **Art. 3.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2014 r. poz. 1645 i 1662 oraz z 2015 r. poz. 1223) w art. 1 ust. 2 otrzymuje brzmienie: „ 2. Przepisów ustawy nie stosuje się do wyrobów medycznych, wyposażenia wyrobów medycznych, wyrobów medycznych do diagnostyki in vitro, wyposażenia wyrobów medycznych do diagnostyki in vitro oraz aktywnych wyrobów medycznych do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2015 r. poz. 876 i 1918), z zastrzeżeniem art. 24–25a ustawy z dnia 20 maja 2010 r. o wyrobach medycznych. ” .
 
@@ -693,11 +709,11 @@ source: "eli-html"
 - **4)** w art. 9 w ust. 1 w pkt 1 lit. c otrzymuje brzmienie: „ są wytwórcami wyrobów lub ich autoryzowanymi przedstawicielami; ” .
     - **c)**
 
-**Art. 6.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm.) w art. 17 w ust. 1 pkt 2 otrzymuje brzmienie: „
+**Art. 6.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 788, 905, 1640, 1697, 1844 i 1887.) w art. 17 w ust. 1 pkt 2 otrzymuje brzmienie: „
 
 - **2)** używać i utrzymywać wyroby medyczne, wyposażenie wyrobów medycznych, wyroby medyczne do diagnostyki in vitro, wyposażenie wyrobów medycznych do diagnostyki in vitro, aktywne wyroby medyczne do implantacji oraz systemy lub zestawy zabiegowe złożone z wyrobów medycznych zgodnie z wymaganiami ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2015 r. poz. 876 i 1918); ” .
 
-**Art. 7.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm.) w art. 2 pkt 17 otrzymuje brzmienie: „
+**Art. 7.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 788, 855 i 1066.) w art. 2 pkt 17 otrzymuje brzmienie: „
 
 - **17)** wyrób medyczny – wyrób medyczny, wyposażenie wyrobu medycznego, wyrób medyczny do diagnostyki in vitro, wyposażenie wyrobu medycznego do diagnostyki in vitro, aktywny wyrób medyczny do implantacji oraz system lub zestaw zabiegowy złożony z wyrobów medycznych, o których mowa w ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2015 r. poz. 876 i 1918). ” .
 
@@ -711,5 +727,5 @@ source: "eli-html"
 
 4. Przepisy art. 59 ust. 3 i 4, art. 61 ust. 1, art. 61a ust. 1, art. 62 ust. 2a i 3, art. 66 ust. 1 i 2 oraz art. 91 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, w zakresie zgłoszenia, o którym mowa w art. 58 ust. 2a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, stosuje po upływie 1 miesiąca od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 60 w zakresie art. 100 pkt 2, który wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 60 w zakresie art. 100 pkt 2, który wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa służy wykonaniu: 1) decyzji Komisji nr 2010/227/UE z dnia 19 kwietnia 2010 r. w sprawie europejskiej bazy danych o wyrobach medycznych (Eudamed) (Dz. Urz. UE L 102 z 23.04.2010, str. 45); 2) rozporządzenia Komisji (UE) nr 722/2012 z dnia 8 sierpnia 2012 r. dotyczącego szczególnych wymagań odnoszących się do wymagań ustanowionych w dyrektywach Rady 90/385/EWG i 93/42/EWG dla aktywnych wyrobów medycznych do implantacji oraz wyrobów medycznych produkowanych z wykorzystaniem tkanek pochodzenia zwierzęcego (Dz. Urz. UE L 212 z 09.08.2012, str. 3); 3) rozporządzenia wykonawczego Komisji (UE) nr 920/2013 z dnia 24 września 2013 r. w sprawie wyznaczania i nadzorowania jednostek notyfikowanych na podstawie dyrektywy Rady 90/385/EWG dotyczącej wyrobów medycznych aktywnego osadzania oraz dyrektywy Rady 93/42/EWG dotyczącej wyrobów medycznych (Dz. Urz. UE L 253 z 25.09.2013, str. 8). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, ustawę z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4, 978, 1333 i 1830. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788, 875, 1771 i 1830. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 788, 905, 1640, 1697, 1844 i 1887. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 788, 855 i 1066.
 

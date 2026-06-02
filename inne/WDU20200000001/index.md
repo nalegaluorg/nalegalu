@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 23 grudnia 2019 r. zmieniające rozporządzenie w sprawie zgłoszeń celnych
+# Rozporządzenie Ministra Finansówz dnia 23 grudnia 2019 r. zmieniające rozporządzenie w sprawie zgłoszeń celnych Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-23 |
 | Data wydania | 2020-01-02 |
-| Wejście w życie | 2020-01-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 19 ust. 1 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2019 r. poz. 1169 i 2070) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Finansów z dnia 8 września 2016 r. w sprawie zgłoszeń celnych (Dz. U. z 2018 r. poz. 2262) w § 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–4 w brzmieniu:
-„
+W rozporządzeniu Ministra Finansów z dnia 8 września 2016 r. w sprawie zgłoszeń celnych (Dz. U. z 2018 r. poz. 2262) w § 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–4 w brzmieniu: „
 2.
 Zgłoszenie celne o objęcie procedurą dopuszczenia do obrotu przesyłek przewożonych przez operatorów pocztowych innych niż operator wyznaczony, zawierających towary zwolnione z należności celnych przywozowych na podstawie art. 23 i art. 24 rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych i nieobjęte zwolnieniem z podatku w trybie przepisów odrębnych, których łączna wartość w jednej przesyłce nie przekracza równowartości 150 euro, może być dokonane zbiorczo na jednym zgłoszeniu celnym, o ile są spełnione łącznie następujące wymogi:
 1)
@@ -68,9 +66,7 @@ numer przesyłki;
 11)
 inne dane, które prowadzący ewidencję uzna za mające wpływ na prawidłowe określenie należności celnych i podatkowych od zgłaszanych towarów.
 4.
-Ewidencja, o której mowa w ust. 3, jest zatwierdzana przez organ celny, do którego jest składane zgłoszenie celne, o którym mowa w ust. 2, na wniosek osoby, o której mowa w ust. 2 pkt 5, przed złożeniem po raz pierwszy takiego zgłoszenia oraz udostępniana wraz z tym zgłoszeniem organowi celnemu, do którego jest ono składane, w części dotyczącej przesyłek objętych tym zgłoszeniem.
-” .
+Ewidencja, o której mowa w ust. 3, jest zatwierdzana przez organ celny, do którego jest składane zgłoszenie celne, o którym mowa w ust. 2, na wniosek osoby, o której mowa w ust. 2 pkt 5, przed złożeniem po raz pierwszy takiego zgłoszenia oraz udostępniana wraz z tym zgłoszeniem organowi celnemu, do którego jest ono składane, w części dotyczącej przesyłek objętych tym zgłoszeniem. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 

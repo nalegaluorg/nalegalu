@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 27 grudnia 2023 r. w sprawie przeprowadzania przez funkcjonariusza Służby Celno-Skarbowej kontroli rodzaju paliwa
+# Rozporządzenie Ministra Finansówz dnia 27 grudnia 2023 r. w sprawie przeprowadzania przez funkcjonariusza Służby Celno-Skarbowej kontroli rodzaju paliwa Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-12-27 |
 | Data wydania | 2024-01-03 |
-| Wejście w życie | 2024-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/7/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 69 ust. 6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 69 ust. 6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy sposób oraz tryb przeprowadzania kontroli rodzaju paliwa.
 § 2.
@@ -62,8 +61,7 @@ Przed każdym pobraniem próbki do kontroli:
 1)
 naczynie, o którym mowa w ust. 2 pkt 1 – służące do wielokrotnego użytku,
 2)
-urządzenie, o którym mowa w ust. 5
-są przepłukiwane paliwem pobranym ze zbiornika środka przewozowego lub z przewodów paliwowych, z których jest pobierana próbka; paliwo pochodzące z płukania umieszcza się w pojemniku na odpady.
+urządzenie, o którym mowa w ust. 5 – są przepłukiwane paliwem pobranym ze zbiornika środka przewozowego lub z przewodów paliwowych, z których jest pobierana próbka; paliwo pochodzące z płukania umieszcza się w pojemniku na odpady.
 § 4.
 W przypadku braku możliwości pobrania próbki ze zbiornika środka przewozowego pobiera się ją z przewodów paliwowych kontrolowanego środka przewozowego.
 § 5.
@@ -97,6 +95,5 @@ Do kontroli rozpoczętych a niezakończonych przed dniem wejścia w życie ninie
 § 8.
 Traci moc rozporządzenie Ministra Rozwoju i Finansów z dnia 22 lutego 2017 r. w sprawie szczegółowego sposobu oraz trybu przeprowadzania przez funkcjonariusza Służby Celno-Skarbowej kontroli rodzaju paliwa (Dz. U. poz. 397).
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860.
 

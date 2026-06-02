@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 28 czerwca 2019 r. w sprawie funkcjonowania systemu płatności
+# Rozporządzenie Ministra Finansówz dnia 28 czerwca 2019 r. w sprawie funkcjonowania systemu płatności Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-28 |
 | Data wydania | 2019-07-24 |
-| Wejście w życie | 2019-07-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001376) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1376/text.pdf) |
 
@@ -176,6 +175,5 @@ wynikach przeprowadzonych testów warunków skrajnych, jeżeli zostały one prze
 2)
 uczestnikach pośrednich, ze wskazaniem uczestników powiązanych z takimi uczestnikami.
 § 7.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 17 maja 2017 r. w sprawie funkcjonowania systemu płatności (Dz. U. poz. 1060), które utraciło moc z dniem 1 maja 2019 r. zgodnie z art. 219 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650).
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 17 maja 2017 r. w sprawie funkcjonowania systemu płatności (Dz. U. poz. 1060), które utraciło moc z dniem 1 maja 2019 r. zgodnie z art. 219 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 17 maja 2017 r. w sprawie funkcjonowania systemu płatności (Dz. U. poz. 1060), które utraciło moc z dniem 1 maja 2019 r. zgodnie z art. 219 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650).
 

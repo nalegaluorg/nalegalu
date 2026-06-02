@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 6 czerwca 2024 r. zmieniające rozporządzenie w sprawie kursów kwalifikacyjnych dla farmaceutów
+# Rozporządzenie Ministra Zdrowiaz dnia 6 czerwca 2024 r. zmieniające rozporządzenie w sprawie kursów kwalifikacyjnych dla farmaceutów Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-06 |
 | Data wydania | 2024-06-12 |
-| Wejście w życie | 2024-06-27 |
 | Ostatnia zmiana | 2025-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000864) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/864/text.pdf) |
 
@@ -33,12 +32,9 @@ W rozporządzeniu Ministra Zdrowia z dnia 18 sierpnia 2022 r. w sprawie kursów 
 1)
 uchyla się pkt 1;
 2)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-przeprowadzania badania kwalifikacyjnego w celu wykluczenia przeciwwskazań do wykonania u osoby dorosłej zalecanego szczepienia ochronnego wskazanego w wykazie, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 10 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284 i 1938), lub szczepienia przeciw COVID-19 oraz przeprowadzania tych szczepień;
-” .
+przeprowadzania badania kwalifikacyjnego w celu wykluczenia przeciwwskazań do wykonania u osoby dorosłej zalecanego szczepienia ochronnego wskazanego w wykazie, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 10 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284 i 1938), lub szczepienia przeciw COVID-19 oraz przeprowadzania tych szczepień; ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

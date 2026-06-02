@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-22 |
 | Data wydania | 2019-04-15 |
-| Wejście w życie | 2019-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000695) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/695/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2018 r. poz. 1202, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2018 r. poz. 1202, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1276, 1496, 1669 i 2245 oraz z 2019 r. poz. 51 i 630.) wprowadza się następujące zmiany:
 
 - **1)** w art. 13 ust. 1 otrzymuje brzmienie: „
 
@@ -130,5 +129,5 @@ source: "eli-html"
 
 **Art. 3.** Osoby, które przed dniem wejścia w życie ustawy uzyskały uprawnienia budowlane lub stwierdzenie posiadania przygotowania zawodowego do pełnienia samodzielnych funkcji technicznych w budownictwie, zachowują uprawnienia do pełnienia tych funkcji w dotychczasowym zakresie.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1276, 1496, 1669 i 2245 oraz z 2019 r. poz. 51 i 630.
 

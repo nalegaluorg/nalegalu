@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-18 |
 | Data wydania | 2019-12-23 |
-| Wejście w życie | 2019-12-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2484/text.pdf) |
 
@@ -39,8 +38,7 @@ sprawdzenia prewencyjnego osób doprowadzanych, o których mowa w art. 11 ust. 1
 4)
 żądania niezbędnej pomocy od instytucji państwowych i samorządowych,
 5)
-zwracania się, w nagłych przypadkach, o pomoc do jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej oraz organizacji społecznych, jak również do każdej osoby o udzielenie doraźnej pomocy na zasadach określonych w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2019 r. poz. 161, z późn. zm.)
-przez strażników gminnych (miejskich), zwanych dalej „strażnikami”.
+zwracania się, w nagłych przypadkach, o pomoc do jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej oraz organizacji społecznych, jak również do każdej osoby o udzielenie doraźnej pomocy na zasadach określonych w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2019 r. poz. 161, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 125, 1091, 1556, 1608, 1635, 1726 i 2020.) – przez strażników gminnych (miejskich), zwanych dalej „strażnikami”.
 § 2.
 1.
 Tożsamość osoby legitymowanej ustala się na podstawie:
@@ -104,8 +102,7 @@ w razie uzasadnionej potrzeby udziela osobie podlegającej sprawdzeniu prewencyj
 4)
 sprawdza powierzchniowo odzież osoby podlegającej sprawdzeniu prewencyjnemu oraz przedmioty znajdujące się na jej ciele lub przez nią posiadane w celu stwierdzenia czy osoba ta posiada przedmioty niebezpieczne dla życia lub zdrowia ludzkiego,
 5)
-w razie konieczności przeprowadza badanie na zawartość alkoholu w wydychanym powietrzu
-w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywania sprawdzenia.
+w razie konieczności przeprowadza badanie na zawartość alkoholu w wydychanym powietrzu – w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywania sprawdzenia.
 2.
 Strażnik dokumentuje podejmowane wobec osoby czynności służbowe związane ze sprawdzeniem prewencyjnym, o którym mowa w art. 12 ust. 1 pkt 3b ustawy, w notatniku służbowym lub w notatce służbowej, określając:
 1)
@@ -194,5 +191,5 @@ W razie zgłoszenia przez osobę, o której mowa w ust. 1 pkt 3, zastrzeżeń co
 § 16.
 Przepisy § 13–15 dotyczące właściciela rzeczy lub dokumentu stosuje się odpowiednio do ich posiadacza.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 grudnia 2009 r. w sprawie zakresu i sposobu wykonywania przez strażników gminnych (miejskich) niektórych czynności (Dz. U. poz. 1722, z 2011 r. poz. 1329 oraz z 2017 r. poz. 2405), które traci moc na podstawie art. 15 pkt 3 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw (Dz. U. poz. 2399 oraz z 2019 r. poz. 1091). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 125, 1091, 1556, 1608, 1635, 1726 i 2020. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 grudnia 2009 r. w sprawie zakresu i sposobu wykonywania przez strażników gminnych (miejskich) niektórych czynności (Dz. U. poz. 1722, z 2011 r. poz. 1329 oraz z 2017 r. poz. 2405), które traci moc na podstawie art. 15 pkt 3 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw (Dz. U. poz. 2399 oraz z 2019 r. poz. 1091).
 

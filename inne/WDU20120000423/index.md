@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 10 kwietnia 2012 r. zmieniające rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro
+# Rozporządzenie Ministra Zdrowiaz dnia 10 kwietnia 2012 r. zmieniające rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Komisji 2011/100/UE z dnia 20 grudnia 2011 r. zmieniającej dyrektywę 98/79/WE Parlamentu Europejskiego i Rady w sprawie wyrobów medycznych używanych do diagnozy in vitro (Dz. Urz. UE L 341 z 22.12.2011, str. 50).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-10 |
 | Data wydania | 2012-04-18 |
-| Wejście w życie | 2012-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/423/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań
 1)
 w załączniku nr 1 do rozporządzenia w części II ust. 8.3 otrzymuje brzmienie:
 8.3.
-W przypadku wyrobów medycznych do diagnostyki in vitro, które zawierają substancję lub mieszaninę substancji, które można uznać za niebezpieczne z uwagi na ich rodzaj, ilość składników oraz postać, w jakiej występują, wymagania dotyczące odpowiednich symboli i oznakowania określają przepisy dotyczące substancji chemicznych i ich mieszanin. W przypadku gdy na wyrobie medycznym do diagnostyki in vitro lub jego etykiecie nie ma miejsca, aby zamieścić wymagane informacje, na etykiecie umieszcza się odpowiednie symbole ostrzegawcze, a pozostałe informacje zamieszcza w instrukcji używania. Jeżeli wszystkie istotne informacje umieszczono w instrukcji używania wyrobu medycznego do diagnostyki in vitro, nie stosuje się do niego przepisów dotyczących karty charakterystyki określonych w przepisach dotyczących substancji chemicznych i ich mieszanin.
-” ;
+W przypadku wyrobów medycznych do diagnostyki in vitro, które zawierają substancję lub mieszaninę substancji, które można uznać za niebezpieczne z uwagi na ich rodzaj, ilość składników oraz postać, w jakiej występują, wymagania dotyczące odpowiednich symboli i oznakowania określają przepisy dotyczące substancji chemicznych i ich mieszanin. W przypadku gdy na wyrobie medycznym do diagnostyki in vitro lub jego etykiecie nie ma miejsca, aby zamieścić wymagane informacje, na etykiecie umieszcza się odpowiednie symbole ostrzegawcze, a pozostałe informacje zamieszcza w instrukcji używania. Jeżeli wszystkie istotne informacje umieszczono w instrukcji używania wyrobu medycznego do diagnostyki in vitro, nie stosuje się do niego przepisów dotyczących karty charakterystyki określonych w przepisach dotyczących substancji chemicznych i ich mieszanin. ” ;
 2)
-w załączniku nr 2 do rozporządzenia w wykazie A dodaje się ust. 3 w brzmieniu:
-„
+w załączniku nr 2 do rozporządzenia w wykazie A dodaje się ust. 3 w brzmieniu: „
 3.
-Testy do przesiewowych, diagnostycznych i potwierdzających badań krwi w kierunku wariantu choroby Creutzfeldta-Jakoba (vCJD).
-” .
+Testy do przesiewowych, diagnostycznych i potwierdzających badań krwi w kierunku wariantu choroby Creutzfeldta-Jakoba (vCJD). ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r., z wyjątkiem § 1 pkt 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r., z wyjątkiem § 1 pkt 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Komisji 2011/100/UE z dnia 20 grudnia 2011 r. zmieniającej dyrektywę 98/79/WE Parlamentu Europejskiego i Rady w sprawie wyrobów medycznych używanych do diagnozy in vitro (Dz. Urz. UE L 341 z 22.12.2011, str. 50).
 

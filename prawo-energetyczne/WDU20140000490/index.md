@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2004/8/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie wspierania kogeneracji w oparciu o zapotrzebowanie na ciepło użytkowe na rynku wewnętrznym energii oraz zmieniającej dyrektywę 92/42/EWG (Dz. Urz. UE L 52 z 21.02.2004, str. 50; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 3, str. 3).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-14 |
 | Data wydania | 2014-04-15 |
-| Wejście w życie | 2014-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/490/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 stycznia 2007 r. o zmianie ustawy – Prawo energetyczne, ustawy – Prawo ochrony środowiska oraz ustawy o systemie oceny zgodności oraz ustawę z dnia 8 stycznia 2010 r. o zmianie ustawy – Prawo energetyczne oraz o zmianie niektórych innych ustaw.
+
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9a: ust. 5 otrzymuje brzmienie: „
     - **a)**
@@ -93,5 +94,5 @@ source: "eli-html"
 
 **Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9a ust. 10 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9a ust. 10 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2004/8/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie wspierania kogeneracji w oparciu o zapotrzebowanie na ciepło użytkowe na rynku wewnętrznym energii oraz zmieniającej dyrektywę 92/42/EWG (Dz. Urz. UE L 52 z 21.02.2004, str. 50; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 3, str. 3). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 stycznia 2007 r. o zmianie ustawy – Prawo energetyczne, ustawy – Prawo ochrony środowiska oraz ustawy o systemie oceny zgodności oraz ustawę z dnia 8 stycznia 2010 r. o zmianie ustawy – Prawo energetyczne oraz o zmianie niektórych innych ustaw. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 listopada 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2025
+# Ustawa z dnia 21 listopada 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2025 Niniejszą ustawą zmienia się ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-21 |
 | Data wydania | 2024-12-24 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001925) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1925/text.pdf) |
 
@@ -91,7 +90,7 @@ source: "eli-html"
 **Art. 10.** W roku 2025 Minister Obrony Narodowej może udzielać z budżetu państwa Zakładowi Inwestycji Organizacji Traktatu Północnoatlantyckiego dotacji celowych ponad wysokość dotacji celowych ujętych w jego planie finansowym, na finansowanie zadań:
 
 - **1)** inwestycyjnych określonych w Programie Inwestycji Organizacji Traktatu Północnoatlantyckiego w Dziedzinie Bezpieczeństwa (NSIP),
-- **2)** w zakresie krajowych inwestycji obronnych do łącznej wysokości 20 000 tys. zł.
+- **2)** w zakresie krajowych inwestycji obronnych – do łącznej wysokości 20 000 tys. zł.
 
 **Art. 11.**
 
@@ -106,6 +105,36 @@ source: "eli-html"
 - **1)** przeciwdziałaniem klęskom żywiołowym i usuwaniem ich skutków,
 - **2)** przeciwdziałaniem i usuwaniem skutków epidemii,
 - **3)** przeciwdziałaniem i usuwaniem skutków społeczno-gospodarczych inflacji,
-- **4)** przeciwdziałaniem zdarzeniom bezpośrednio zagrażającym bezpieczeństwu państwa związanym z sytuacją geopolityczną oraz usuwaniem ich skutków
+- **4)** przeciwdziałaniem zdarzeniom bezpośrednio zagrażającym bezpieczeństwu państwa związanym z sytuacją geopolityczną oraz usuwaniem ich skutków – Prezes Rady Ministrów może wydać ministrowi właściwemu do spraw finansów publicznych polecenie utworzenia nowej rezerwy celowej i przeniesienia do tej rezerwy kwot wydatków zablokowanych na podstawie art. 177 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
+2. Utworzenie rezerwy, o której mowa w ust. 1, może nastąpić w terminie do dnia 20 grudnia 2025 r. i nie wymaga uzyskania opinii sejmowej komisji właściwej do spraw budżetu.
+
+3. W przypadku, o którym mowa w ust. 1, nie stosuje się przepisu art. 170 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+4. Podziału rezerwy, o której mowa w ust. 1, dokonuje minister właściwy do spraw finansów publicznych na wniosek właściwego ministra.
+
+**Art. 13.**
+
+1. W roku 2025 dysponent Funduszu Inwestycji Kapitałowych może zawierać umowy związane z nabywaniem lub obejmowaniem akcji lub udziałów przez Skarb Państwa ze środków Funduszu Inwestycji Kapitałowych, skutkujące zaciągnięciem zobowiązań wieloletnich w wysokości przekraczającej środki pieniężne z poprzednich okresów znajdujące się na rachunku tego funduszu na dzień 31 grudnia 2024 r. o łączną kwotę do 6 000 000 tys. zł, z uwzględnieniem art. 29 ust. 10 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+2. Zawarcie umowy, o której mowa w ust. 1, może nastąpić po uzyskaniu pozytywnej opinii ministra właściwego do spraw finansów publicznych w zakresie możliwości spłaty zaciągniętych zobowiązań. Opinia jest wydawana w terminie 14 dni od dnia otrzymania wniosku dysponenta Funduszu Inwestycji Kapitałowych o wydanie opinii.
+
+**Art. 14.**
+
+1. W roku 2025 źródłem przychodu Funduszu Inwestycji Kapitałowych może być również wpłata z budżetu państwa przekazana przez ministra właściwego do spraw aktywów państwowych na nabywanie lub obejmowanie akcji przez Skarb Państwa do wysokości 3 000 000 tys. zł.
+
+2. Kwoty, o której mowa w ust. 1, nie wlicza się do limitu określonego w art. 13 ust. 1.
+
+**Art. 15.** W roku 2025 do dotacji, o których mowa w art. 15–21, art. 25 ust. 1–4 i 8, art. 26 ust. 1, 2 i 8, art. 28–30 i art. 31 ust. 1 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2024 r. poz. 754, 1562 i 1572), nie stosuje się przepisu art. 43 ust. 5 tej ustawy.
+
+**Art. 16.** W roku 2025 przepisu art. 460 ust. 10 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897) nie stosuje się.
+
+**Art. 17.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2024 r. poz. 1198) w art. 69h:
+
+- **1)** w ust. 1 wyrazy „w latach 2019–2024” zastępuje się wyrazami „w latach 2019–2025”;
+- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. W roku 2025 obejmowanie akcji przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, może być dokonywane poprzez konwersję wierzytelności Funduszu, o którym mowa w art. 56 ust. 1, z tytułu udzielonych pożyczek, o których mowa w art. 56 ust. 4d1. ” .
+
+**Art. 18.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników.
 

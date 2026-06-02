@@ -8,10 +8,10 @@ pos: 1957
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 21 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Agencji Kosmicznej
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 listopada 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,11 @@ source: "eli-html"
 | Ostatnia zmiana | 2026-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001957) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1957/text.pdf) |
 
-Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja i działalność Agencji Rozdział 3 – Gospodarka Agencji Rozdział 4 – Zmiany w przepisach obowiązujących, przepisy dostosowujące i końcowe
-Treść obwieszczenia
-1.
-Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2019 r. poz. 1793), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 października 2020 r.
-2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 103 ust. 1 i art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), które stanowią:
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 października 2020 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Agencji Kosmicznej
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2019 r. poz. 1793), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 października 2020 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 103 ust. 1 i art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U.
+poz. 284), które stanowią:
 
 **Art. 103.** „1. W terminie 30 dni od dnia wejścia w życie niniejszej ustawy skład:
 
@@ -44,9 +42,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **7)** Rady Polskiej Agencji Kosmicznej, o której mowa w art. 5 pkt 2 ustawy zmienianej w art. 78,
 - **8)** Komitetu Konsultacyjnego, o którym mowa w art. 13 ust. 1 ustawy zmienianej w art. 83,
 - **9)** Rady Centrum Łukasiewicz, o której mowa w art. 10 pkt 2 ustawy zmienianej w art. 92,
-- **10)** Rady Żeglugi Śródlądowej, o której mowa w art. 44 ust. 1 ustawy zmienianej w art. 96 uzupełnia się o przedstawiciela ministra właściwego do spraw klimatu, przy czym w przypadku organów kadencyjnych uzupełnienie ich składu następuje do końca kadencji. ” „
-
-**Art. 114.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej
+- **10)** Rady Żeglugi Śródlądowej, o której mowa w art. 44 ust. 1 ustawy zmienianej w art. 96 uzupełnia się o przedstawiciela ministra właściwego do spraw klimatu, przy czym w przypadku organów kadencyjnych uzupełnienie ich składu następuje do końca kadencji.” „Art. 114. Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -54,7 +50,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Tworzy się Polską Agencję Kosmiczną, zwaną dalej „Agencją”.
 
-2. Agencja jest agencją wykonawczą w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.).
+2. Agencja jest agencją wykonawczą w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm. ).
 
 3. Siedzibą Agencji jest miasto Gdańsk.
 
@@ -78,7 +74,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** (uchylony)
 - **3)** (uchylony)
 - **4)** identyfikowanie i analizowanie, we współpracy z właściwymi ministrami, wyzwań i problemów współpracy międzynarodowej w dziedzinie badania i użytkowania przestrzeni kosmicznej;
-- **5)** reprezentowanie Rzeczypospolitej Polskiej na arenie międzynarodowej – na podstawie i w zakresie określonym w upoważnieniu udzielonym przez właściwe organy administracji państwowej – w sprawach należących do właściwości Agencji;
+- **5)** reprezentowanie Rzeczypospolitej Polskiej na arenie międzynarodowej na podstawie i w zakresie określonym w upoważnieniu udzielonym przez właściwe organy administracji państwowej w sprawach należących do właściwości Agencji;
 - **6)** (uchylony)
 - **7)** współdziałanie z Polskim Komitetem Normalizacyjnym, właściwymi organami państwa i organizacjami międzynarodowymi w zakresie tworzenia definicji, norm i specyfikacji technicznych z zakresu techniki kosmicznej, w tym inżynierii satelitarnej;
 - **8)** sprawowanie doradztwa w dziedzinie użytkowania przestrzeni kosmicznej oraz udział w europejskim procesie harmonizacji technologii kosmicznych i satelitarnych w charakterze wsparcia eksperckiego;
@@ -89,18 +85,20 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **13)** prowadzenie działalności informacyjnej i promocyjnej w dziedzinie użytkowania przestrzeni kosmicznej;
 - **14)** prowadzenie działalności edukacyjnej w zakresie badania i użytkowania przestrzeni kosmicznej, a także wspieranie organizacji i przedsięwzięć promujących sprzyjające warunki dla prowadzenia badań naukowych i prac rozwojowych w dziedzinie użytkowania przestrzeni kosmicznej;
 - **15)** identyfikowanie i analizowanie, we współpracy z ministrem właściwym do spraw szkolnictwa wyższego i nauki, potrzeb kształcenia na poziomie wyższym specjalistów w zakresie użytkowania przestrzeni kosmicznej i wspieranie kształcenia ekspertów w dziedzinie techniki kosmicznej, w szczególności inżynierii satelitarnej, w kooperacji z krajowymi i zagranicznymi uczelniami i instytucjami badawczymi;
-- **16)** wykonywanie zadań z zakresu obronności i bezpieczeństwa państwa określonych przez Ministra Obrony Narodowej lub inny organ administracji rządowej, uzgodnionych z ministrem właściwym do spraw gospodarki, w tym dotyczących: satelitarnej obserwacji powierzchni Ziemi, obserwacji przestrzeni kosmicznej, nawigacji i łączności satelitarnej, analiz zagrożeń w przestrzeni kosmicznej, technologii rakietowych.
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-    - **e)**
+- **16)** wykonywanie zadań z zakresu obronności i bezpieczeństwa państwa określonych przez Ministra Obrony Narodowej lub inny organ administracji rządowej, uzgodnionych z ministrem właściwym do spraw gospodarki, w tym dotyczących:
+    - **a)** satelitarnej obserwacji powierzchni Ziemi,
+    - **b)** obserwacji przestrzeni kosmicznej,
+    - **c)** nawigacji i łączności satelitarnej,
+    - **d)** analiz zagrożeń w przestrzeni kosmicznej,
+    - **e)** technologii rakietowych.
 
 3. Przy realizacji swoich zadań Agencja współdziała z innymi organami i instytucjami państwa.
 
-4. W celu realizacji swoich zadań Agencja może tworzyć zakłady i laboratoria, a także zawierać porozumienia o współpracy z podmiotami publicznymi i prywatnymi oraz przekazywać im – w ramach tych porozumień – doświadczenie i wiedzę z zakresu użytkowania przestrzeni kosmicznej.
+4. W celu realizacji swoich zadań Agencja może tworzyć zakłady i laboratoria, a także zawierać porozumienia o współpracy z podmiotami publicznymi i prywatnymi oraz przekazywać im w ramach tych porozumień doświadczenie i wiedzę z zakresu użytkowania przestrzeni kosmicznej.
 
 5. Realizacja zadań, o których mowa w ust. 2 pkt 16, jest finansowana ze środków budżetu państwa, których dysponentem jest organ określający zakres realizowanych zadań.
+
+**Art. 3a.**
 
 1. Agencja może udzielać wsparcia w związku z realizacją zadań określonych w art. 3 ust. 2 pkt 1, 8 i 12–14, w szczególności z przeznaczeniem na:
 
@@ -127,7 +125,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 4. Wsparcie nie może być udzielane:
 
 - **1)** osobie albo podmiotowi, o których mowa w ust. 3, jeżeli nie wykonały albo nienależycie wykonały w istotnym stopniu projekt realizowany na zlecenie Agencji, organizacji międzynarodowych, o których mowa w art. 3 ust. 2 pkt 11, oraz innych organizacji, których działalność jest związana z zakresem spraw należących do zadań Agencji, co doprowadziło do rozwiązania umowy, na podstawie której realizowały projekt lub zasądzenia odszkodowania;
-- **2)** osobom, wobec których prawomocnie orzeczono naruszenie zasad etyki w nauce, o których mowa w art. 112 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796), art. 56 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383) i art. 287 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086).
+- **2)** osobom, wobec których prawomocnie orzeczono naruszenie zasad etyki w nauce, o których mowa w art. 112 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796), art. 56 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383) i art. 287 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086).
 
 5. Wsparcie jest udzielane na wniosek, do którego dołącza się oświadczenie o braku przesłanek uniemożliwiających udzielenie wsparcia określonych w ust. 4 składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 Kodeksu karnego oświadczam, że nie zachodzą przesłanki uniemożliwiające udzielenie przez Polską Agencję Kosmiczną wsparcia, o których mowa w art. 3a ust. 4 ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2020 r. poz. 1957).”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -150,8 +148,8 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Agencja działa zgodnie z następującymi planami działalności:
 
-- **1)** pięcioletnim – corocznie aktualizowanym;
-- **2)** rocznym – w skład którego wchodzi plan finansowy, o którym mowa w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych, obejmujący rok obrotowy pokrywający się z rokiem kalendarzowym.
+- **1)** pięcioletnim corocznie aktualizowanym;
+- **2)** rocznym w skład którego wchodzi plan finansowy, o którym mowa w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych, obejmujący rok obrotowy pokrywający się z rokiem kalendarzowym.
 
 2. Minister właściwy do spraw gospodarki, w drodze rozporządzenia, mając na uwadze potrzebę sprawnej realizacji przez nią zadań, nadaje Agencji statut określający w szczególności:
 
@@ -357,8 +355,8 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. Minister właściwy do spraw gospodarki powołuje do członkostwa w Radzie Agencji po 4 członków:
 
-- **1)** przedstawicieli nauki – spośród osób rekomendowanych przez Prezesa Polskiej Akademii Nauk w porozumieniu z Komitetem Badań Kosmicznych i Satelitarnych;
-- **2)** przedstawicieli przemysłu – z własnej inicjatywy, spośród przedsiębiorców prowadzących działalność w zakresie technologii satelitarnych uczestniczących w realizacji projektów Europejskiej Agencji Kosmicznej.
+- **1)** przedstawicieli nauki spośród osób rekomendowanych przez Prezesa Polskiej Akademii Nauk w porozumieniu z Komitetem Badań Kosmicznych i Satelitarnych;
+- **2)** przedstawicieli przemysłu z własnej inicjatywy, spośród przedsiębiorców prowadzących działalność w zakresie technologii satelitarnych uczestniczących w realizacji projektów Europejskiej Agencji Kosmicznej.
 
 5. Powołanie członka Rady Agencji następuje w terminie miesiąca od dnia wygaśnięcia kadencji dotychczasowego członka Rady albo w przypadku konieczności zapewnienia składu Rady zgodnego z ust. 2a.
 
@@ -383,13 +381,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 10. Członek Rady Agencji może być wybrany na maksymalnie 2 kadencje.
 
-11. Do kandydatów na członków Rady Agencji nie stosuje się wymogu posiadania pozytywnej opinii Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych, o której mowa w art. 24 pkt 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2020 r. poz. 735), oraz wymogów wymienionych w art. 19 ust. 1 pkt 1 lit. a-j tej ustawy.
+11. Do kandydatów na członków Rady Agencji nie stosuje się wymogu posiadania pozytywnej opinii Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych, o której mowa w art. 24 pkt 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2020 r. poz. 735), oraz wymogów wymienionych w art. 19 ust. 1 pkt 1 lit. a–j tej ustawy.
 
 **Art. 15.**
 
 1. Nabór kandydatów do zatrudnienia na wolne stanowiska pracy w Agencji jest otwarty i konkurencyjny. W Agencji mogą być zatrudnione osoby, które posiadają:
 
-- **1)** wykształcenie średnie albo wyższe – w zależności od zadań wykonywanych na danym stanowisku pracy;
+- **1)** wykształcenie średnie albo wyższe w zależności od zadań wykonywanych na danym stanowisku pracy;
 - **2)** wiedzę z zakresu spraw należących do właściwości Agencji;
 - **3)** umiejętności i doświadczenie niezbędne do wykonywania zadań na danym stanowisku pracy.
 
@@ -434,18 +432,18 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Przychodami Agencji są:
 
-- **1)** dotacje celowe z budżetu państwa przeznaczone na: realizację zadań Agencji, w tym na współfinansowanie programów i projektów finansowanych z udziałem środków europejskich, finansowanie lub dofinansowanie inwestycji Agencji;
-    - **a)**
-    - **b)**
+- **1)** dotacje celowe z budżetu państwa przeznaczone na:
+    - **a)** realizację zadań Agencji, w tym na współfinansowanie programów i projektów finansowanych z udziałem środków europejskich,
+    - **b)** finansowanie lub dofinansowanie inwestycji Agencji;
 
 - **2)** środki pochodzące z funduszy Unii Europejskiej, przeznaczone na realizację zadań Agencji;
 - **3)** dotacje podmiotowe z budżetu państwa przeznaczone na dofinansowanie bieżącej działalności Agencji, w tym zarządzania realizacją zadań, o których mowa w art. 3;
-- **4)** przychody z prowadzonej działalności, w tym z tytułu odpłatności za usługi świadczone przez Agencję lub wydawane przez nią publikacje, w szczególności: umowy o doradztwo lub zarządzanie z instytucjami badawczymi, uniwersyteckimi i podmiotami gospodarczymi, działającymi w dziedzinie badania i użytkowania przestrzeni kosmicznej i zwracającymi się do Agencji z zadaniami tego rodzaju, umowy rozwojowo-badawcze zawierane przez Agencję ze zlecającymi organami publicznymi i przedsiębiorcami, umowy udziału w międzynarodowych programach rozwojowo-badawczych, wynagrodzenie za świadczone usługi edukacyjne, doradcze, określone przez prawo, komercjalizacji wyników wdrażanych działań i projektów;
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-    - **e)**
+- **4)** przychody z prowadzonej działalności, w tym z tytułu odpłatności za usługi świadczone przez Agencję lub wydawane przez nią publikacje, w szczególności:
+    - **a)** umowy o doradztwo lub zarządzanie z instytucjami badawczymi, uniwersyteckimi i podmiotami gospodarczymi, działającymi w dziedzinie badania i użytkowania przestrzeni kosmicznej i zwracającymi się do Agencji z zadaniami tego rodzaju,
+    - **b)** umowy rozwojowo-badawcze zawierane przez Agencję ze zlecającymi organami publicznymi i przedsiębiorcami,
+    - **c)** umowy udziału w międzynarodowych programach rozwojowo-badawczych,
+    - **d)** wynagrodzenie za świadczone usługi edukacyjne, doradcze, określone przez prawo,
+    - **e)** komercjalizacji wyników wdrażanych działań i projektów;
 
 - **5)** dobrowolne wpłaty i zapisy;
 - **6)** odsetki od wolnych środków przekazanych w depozyt zgodnie z przepisami o finansach publicznych;
@@ -507,6 +505,23 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 21.**
 
-1.
+1. Prezes Rady Ministrów określi składniki majątkowe i niemajątkowe stanowiące majątek Agencji w drodze decyzji wydanej nie później niż w terminie 3 miesięcy od dnia wejścia w życie ustawy.
 
+2. Decyzja, o której mowa w ust. 1, stanowi podstawę do wpisania do ksiąg wieczystych i rejestrów tytułu prawnego Agencji do określonych w decyzji składników majątkowych i niemajątkowych.
+
+3. Agencja przejmuje składniki majątkowe, o których mowa w ust. 1, na utworzenie funduszu statutowego.
+
+**Art. 22.**
+
+1. Do czasu powołania Prezesa Agencji zgodnie z art. 8, Prezes Rady Ministrów po zasięgnięciu opinii ministra właściwego do spraw gospodarki powołuje Prezesa Agencji bez przeprowadzenia konkursu, w terminie 14 dni od dnia ogłoszenia ustawy, jednak nie dłużej niż na 6 miesięcy.
+
+2. Prezes Agencji, o którym mowa w ust. 1, do czasu powołania Prezesa Agencji zgodnie z art. 8, jest uprawniony do podejmowania wszelkich działań przygotowawczych i organizacyjnych niezbędnych do utworzenia Agencji oraz jej funkcjonowania.
+
+3. Do czasu utworzenia Agencji koszty związane z wynagrodzeniem i działalnością Prezesa Agencji pokrywa Kancelaria Prezesa Rady Ministrów.
+
+**Art. 23.** Plan działania Agencji w pierwszym roku obrotowym jej działalności, Prezes Agencji, po zasięgnięciu opinii ministra właściwego do spraw gospodarki, przedstawia Prezesowi Rady Ministrów w terminie miesiąca od dnia powołania Rady Agencji. Jeśli do tego czasu Rada Agencji nie zostanie powołana, Prezes Agencji przedstawia plan działania Agencji bez opinii Rady Agencji.
+
+**Art. 24.** W terminie 3 miesięcy od dnia wejścia w życie ustawy, Prezes Rady Ministrów powołuje członków pierwszej Rady Agencji.
+
+**Art. 25.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem art. 22, który wchodzi w życie z dniem ogłoszenia.
 

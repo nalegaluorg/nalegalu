@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-13 |
 | Data wydania | 2016-06-01 |
-| Wejście w życie | 2016-06-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000752) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/752/text.pdf) |
 
@@ -56,7 +55,7 @@ source: "eli-html"
 
 1. Z dniem utworzenia Akademii:
 
-- **1)** pracownicy zatrudnieni w Państwowej Wyższej Szkole Zawodowej im. Jakuba z Paradyża w Gorzowie Wielkopolskim stają się pracownikami Akademii; przepis art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.) stosuje się odpowiednio;
+- **1)** pracownicy zatrudnieni w Państwowej Wyższej Szkole Zawodowej im. Jakuba z Paradyża w Gorzowie Wielkopolskim stają się pracownikami Akademii; przepis art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735.) stosuje się odpowiednio;
 - **2)** studenci Państwowej Wyższej Szkoły Zawodowej im. Jakuba z Paradyża w Gorzowie Wielkopolskim stają się studentami Akademii;
 - **3)** słuchacze studiów podyplomowych i kursów dokształcających Państwowej Wyższej Szkoły Zawodowej im. Jakuba z Paradyża w Gorzowie Wielkopolskim stają się słuchaczami studiów podyplomowych i kursów dokształcających Akademii.
 
@@ -68,7 +67,7 @@ source: "eli-html"
 
 5. Podstawowe jednostki organizacyjne Państwowej Wyższej Szkoły Zawodowej im. Jakuba z Paradyża w Gorzowie Wielkopolskim, które przed dniem utworzenia Akademii zostały poddane kompleksowej ocenie jakości działalności naukowej lub badawczo-rozwojowej jednostek naukowych i zostały zaliczone do określonych kategorii naukowych, zachowują te kategorie po utworzeniu Akademii.
 
-**Art. 7.** Akademia, w terminie 3 lat od dnia jej utworzenia, dostosuje się do wymogów określonych w art. 3 ust. 5 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.).
+**Art. 7.** Akademia, w terminie 3 lat od dnia jej utworzenia, dostosuje się do wymogów określonych w art. 3 ust. 5 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198, z 2015 r. poz. 357, 860, 1187, 1240, 1268, 1767 i 1923 oraz z 2016 r. poz. 64.).
 
 **Art. 8.**
 
@@ -88,5 +87,5 @@ source: "eli-html"
 
 8. Pierwszy statut Akademii nadaje minister właściwy do spraw szkolnictwa wyższego.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198, z 2015 r. poz. 357, 860, 1187, 1240, 1268, 1767 i 1923 oraz z 2016 r. poz. 64.
 

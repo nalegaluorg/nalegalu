@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-09 |
 | Data wydania | 2020-04-14 |
-| Wejście w życie | 2020-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/665/text.pdf) |
 
@@ -33,17 +32,13 @@ W rozporządzeniu Prezesa Rady Ministrów z dnia 15 kwietnia 2003 r. w sprawie o
 1)
 w ust. 1:
 a)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-Centralnego Ośrodka Szkolenia i Edukacji Agencji Bezpieczeństwa Wewnętrznego w Emowie;
-” ,
+Centralnego Ośrodka Szkolenia i Edukacji Agencji Bezpieczeństwa Wewnętrznego w Emowie; ” ,
 b)
-w pkt 3 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu:
-„
+w pkt 3 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „
 e)
-Poznaniu.
-” ;
+Poznaniu. ” ;
 2)
 uchyla się ust. 4.
 § 2.

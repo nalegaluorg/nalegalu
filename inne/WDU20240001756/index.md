@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 października 2021 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw oraz ustawę z dnia 15 września 2022 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-08 |
 | Data wydania | 2024-11-29 |
-| Wejście w życie | 2024-11-30 |
 | Ostatnia zmiana | 2024-12-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1756/text.pdf) |
+
+Przepisy epizodyczne
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572 i 1717) wprowadza się następujące zmiany:
 
@@ -34,7 +35,7 @@ source: "eli-html"
 
 - **2)** po dziale VI dodaje się dział VIa w brzmieniu: „
 
-### Dział VIa Przepisy epizodyczne
+### Dział VIa
 
 **Art. 296a.**
 
@@ -61,5 +62,5 @@ source: "eli-html"
 
 2. Przepis ust. 1 stosuje się po raz pierwszy do opracowania budżetu i wieloletniej prognozy finansowej jednostki samorządu terytorialnego na rok 2025.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 października 2021 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw oraz ustawę z dnia 15 września 2022 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw.
 

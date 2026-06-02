@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2017-12-08 |
-| Wejście w życie | 2017-12-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2282/text.pdf) |
 
@@ -35,7 +34,8 @@ source: "eli-html"
 - **2)** po art. 1 dodaje się art. 1a w brzmieniu: „ Ilekroć w przepisach ustawy jest mowa o:
 - **1)** kandydacie na repatrianta – oznacza to osobę polskiego pochodzenia, wobec której konsul wydał decyzję o zakwalifikowaniu do wydania wizy krajowej w celu repatriacji albo – w przypadku osoby, która złożyła wniosek o wydanie wizy krajowej w celu repatriacji przed dniem 1 maja 2017 r. – decyzję o przyrzeczeniu wydania takiej wizy;
 - **2)** najbliższej rodzinie repatrianta – oznacza to małżonka repatrianta i małoletnie dziecko lub dzieci pozostające pod władzą rodzicielską co najmniej jednego z rodziców, którzy przybyli do Rzeczypospolitej Polskiej razem z repatriantem. ” ;
-- **3)** w art. 3b w ust. 1: w pkt 1: – lit. a otrzymuje brzmienie: „ a) przyznania kandydatowi na repatrianta miejsca w ośrodku adaptacyjnym dla repatriantów, zwanym dalej „ośrodkiem”, ” , – w lit. c przecinek zastępuje się średnikiem i uchyla się lit. d, pkt 2 otrzymuje brzmienie: „
+- **3)** w art. 3b w ust. 1: w pkt 1: lit. a otrzymuje brzmienie: „ przyznania kandydatowi na repatrianta miejsca w ośrodku adaptacyjnym dla repatriantów, zwanym dalej „ośrodkiem”, ” , – w lit. c przecinek zastępuje się średnikiem i uchyla się lit. d, pkt 2 otrzymuje brzmienie: „
+    - **a)**
     - **a)**
     - **b)**
 
@@ -148,7 +148,7 @@ source: "eli-html"
 1. Pełnomocnik udziela repatriantowi, który przybył do Rzeczypospolitej Polskiej na podstawie wizy krajowej w celu repatriacji, posiadając dowód potwierdzający zapewnienie warunków do osiedlenia się w postaci:
 
 - **1)** oświadczenia obywatela polskiego, o którym mowa w art. 12 ust. 3 pkt 3, albo
-- **2)** decyzji Pełnomocnika w sprawie przyznania miejsca w ośrodku na jego wniosek, w drodze decyzji, pomocy finansowej na zaspokojenie potrzeb mieszkaniowych. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **2)** decyzji Pełnomocnika w sprawie przyznania miejsca w ośrodku – na jego wniosek, w drodze decyzji, pomocy finansowej na zaspokojenie potrzeb mieszkaniowych. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Wniosek o przyznanie pomocy finansowej w formie dopłaty, o której mowa w ust. 1, obejmuje członków najbliższej rodziny repatrianta prowadzących wspólnie z nim gospodarstwo domowe. ” , ust. 6 i 7 otrzymują brzmienie: „

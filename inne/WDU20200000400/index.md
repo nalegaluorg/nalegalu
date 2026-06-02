@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 lutego 2020 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
+# Ustawa z dnia 13 lutego 2020 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/2370 z dnia 14 grudnia 2016 r. zmieniającą dyrektywę 2012/34/UE w odniesieniu do otwarcia rynku krajowych kolejowych przewozów pasażerskich oraz zarządzania infrastrukturą kolejową (Dz. Urz. UE L 352 z 23.12.2016, str. 1) oraz uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32, Dz. Urz. UE L 67 z 12.03.2015, str. 32, Dz. Urz. UE L 159 z 16.06.2016, str. 23, Dz. Urz. UE L 352 z 23.12.2016, str. 1 oraz Dz. Urz. UE L 295 z 14.11.2017, str. 69).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-13 |
 | Data wydania | 2020-03-11 |
-| Wejście w życie | 2020-05-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/400/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym.
+Gwarancje niezależności i bezstronności zarządcy
 Art. 9ma.
 1.
 Zarządca może zlecić wykonywanie zadań zarządcy innemu podmiotowi, jeżeli nie prowadzi to do konfliktu interesów oraz nie narusza tajemnicy przedsiębiorstwa, pod warunkiem że podmiot ten:
@@ -116,61 +117,51 @@ Niewyrażenie opinii w terminie, o którym mowa w ust. 2, uznaje się za pozytyw
 4.
 O zawarciu umowy, o której mowa w ust. 1, zarządca niezwłocznie informuje Prezesa UTK.
 5.
-Jeżeli wykonanie umowy, o której mowa w ust. 1, może naruszać zasadę niedyskryminującego traktowania przewoźników kolejowych, Prezes UTK rekomenduje stronom umowy jej rozwiązanie.
-” ;
+Jeżeli wykonanie umowy, o której mowa w ust. 1, może naruszać zasadę niedyskryminującego traktowania przewoźników kolejowych, Prezes UTK rekomenduje stronom umowy jej rozwiązanie. ” ;
 6)
-w art. 10 w ust. 1 część wspólna otrzymuje brzmienie:
-„
+w art. 10 w ust. 1 część wspólna otrzymuje brzmienie: „
 – jest Prezes UTK.
 ” ;
 7)
 w art. 13:
 a)
 w ust. 1:
-– pkt 5 i 6 otrzymują brzmienie: „ 5) wydawanie decyzji dotyczących otwartego dostępu; 6) nadzór nad przestrzeganiem przez zarządców, przewoźników kolejowych i operatorów obiektów infrastruktury usługowej przepisów ustawy dotyczących rachunkowości i niezależności zarządcy; ” ,
-– dodaje się pkt 7 w brzmieniu: „ 7) pełnienie funkcji niezależnego organu wyznaczonego, o którym mowa w art. 5 ust. 7 zdanie drugie rozporządzenia (WE) nr 1370/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego usług publicznych w zakresie kolejowego i drogowego transportu pasażerskiego oraz uchylającego rozporządzenia Rady (EWG) nr 1191/69 i (EWG) nr 1107/70 (Dz. Urz. UE L 315 z 03.12.2007, str. 1, z późn. zm.). ” ,
+pkt 5 i 6 otrzymują brzmienie: „
+5)
+wydawanie decyzji dotyczących otwartego dostępu;
+6)
+nadzór nad przestrzeganiem przez zarządców, przewoźników kolejowych i operatorów obiektów infrastruktury usługowej przepisów ustawy dotyczących rachunkowości i niezależności zarządcy; ” ,
+dodaje się pkt 7 w brzmieniu: „
+7)
+pełnienie funkcji niezależnego organu wyznaczonego, o którym mowa w art. 5 ust. 7 zdanie drugie rozporządzenia (WE) nr 1370/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego usług publicznych w zakresie kolejowego i drogowego transportu pasażerskiego oraz uchylającego rozporządzenia Rady (EWG) nr 1191/69 i (EWG) nr 1107/70 (Dz. Urz. UE L 315 z 03.12.2007, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 240 z 16.09.2015, str. 65 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 22.). ” ,
 b)
-w ust. 3a:
-w pkt 1 lit. a otrzymuje brzmienie:
-„
+w ust. 3a: – w pkt 1 lit. a otrzymuje brzmienie: „
 a)
-monitoruje stan konkurencji na rynku przewozów kolejowych, w tym w zakresie przewozów pasażerskich kolejami dużych prędkości, korzystając z konsultacji z organami regulacyjnymi pozostałych państw członkowskich Unii Europejskiej, a w stosownych przypadkach z Komisją Europejską, oraz zwracając się do nich o wszystkie niezbędne informacje,
-” ,
-pkt 3 otrzymuje brzmienie:
-„
+monitoruje stan konkurencji na rynku przewozów kolejowych, w tym w zakresie przewozów pasażerskich kolejami dużych prędkości, korzystając z konsultacji z organami regulacyjnymi pozostałych państw członkowskich Unii Europejskiej, a w stosownych przypadkach z Komisją Europejską, oraz zwracając się do nich o wszystkie niezbędne informacje, ” , – pkt 3 otrzymuje brzmienie: „
 3)
-może żądać od zarządców, powołanych przez zarządców wspólnych organów odpowiedzialnych za udostępnianie infrastruktury kolejowej, operatorów obiektów infrastruktury usługowej, przewoźników kolejowych i aplikantów udzielenia niezbędnych informacji dla celów regulacji i monitorowania rynku transportu kolejowego, w szczególności w zakresie zapewnienia niedyskryminującego traktowania aplikantów;
-” ,
-dodaje się pkt 4–6 w brzmieniu:
-„
+może żądać od zarządców, powołanych przez zarządców wspólnych organów odpowiedzialnych za udostępnianie infrastruktury kolejowej, operatorów obiektów infrastruktury usługowej, przewoźników kolejowych i aplikantów udzielenia niezbędnych informacji dla celów regulacji i monitorowania rynku transportu kolejowego, w szczególności w zakresie zapewnienia niedyskryminującego traktowania aplikantów; ” , – dodaje się pkt 4–6 w brzmieniu: „
 4)
 może żądać od zarządców informowania o braku zdolności przepustowej w wyniku nieplanowanych prac w zakresie utrzymania infrastruktury kolejowej;
 5)
 nadzoruje przebieg negocjacji między aplikantami a zarządcami dotyczących poziomu opłat za dostęp do infrastruktury kolejowej, mając na względzie zapewnienie niedyskryminującego traktowania aplikantów, jeżeli takie negocjacje są prowadzone;
 6)
-sprawuje nadzór nad zawarciem i monitoruje wykonanie umowy, o której mowa w art. 9mm ust. 1.
-” ,
+sprawuje nadzór nad zawarciem i monitoruje wykonanie umowy, o której mowa w art. 9mm ust. 1. ” ,
 c)
 w ust. 3b zdanie pierwsze otrzymuje brzmienie: „ Informacji, o których mowa w ust. 3a pkt 3 i 4, udziela się w terminie wskazanym przez Prezesa UTK, nie krótszym niż 7 dni od dnia doręczenia żądania. ” ,
 d)
-w ust. 3c w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d-f w brzmieniu:
-„
+w ust. 3c w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d-f w brzmieniu: „
 d)
 prowadzenia ruchu kolejowego,
 e)
 planowanych i nieplanowanych prac w zakresie odnowienia lub utrzymania infrastruktury kolejowej,
 f)
-naruszenia przepisów rozdziału 2aa;
-” ,
+naruszenia przepisów rozdziału 2aa; ” ,
 e)
-ust. 4a otrzymuje brzmienie:
-„
+ust. 4a otrzymuje brzmienie: „
 4a.
-Prezes UTK jest uprawniony do przeprowadzania audytów lub inicjowania audytów zewnętrznych u zarządców, operatorów obiektów infrastruktury usługowej oraz przewoźników kolejowych, w celu sprawdzenia przestrzegania przepisów dotyczących rozdziału rachunkowości i przejrzystości stosunków finansowych między tymi podmiotami.
-” ,
+Prezes UTK jest uprawniony do przeprowadzania audytów lub inicjowania audytów zewnętrznych u zarządców, operatorów obiektów infrastruktury usługowej oraz przewoźników kolejowych, w celu sprawdzenia przestrzegania przepisów dotyczących rozdziału rachunkowości i przejrzystości stosunków finansowych między tymi podmiotami. ” ,
 f)
-po ust. 4a dodaje się ust. 4b-4d w brzmieniu:
-„
+po ust. 4a dodaje się ust. 4b-4d w brzmieniu: „
 4b.
 W zakresie audytu, o którym mowa w ust. 4a, Prezes UTK jest upoważniony do zwracania się do zarządców, operatorów obiektów infrastruktury usługowej oraz przewoźników kolejowych lub innych podmiotów wykonujących lub integrujących różne rodzaje transportu kolejowego lub zarządzanie infrastrukturą kolejową, o dostarczenie wszystkich lub części informacji, w szczególności dotyczących:
 1)
@@ -190,31 +181,23 @@ płatności wykonywanych przez podmiot, którego dotyczy audyt, w ramach grupy k
 4c.
 Uprawnienia, o których mowa w ust. 4a i 4b, przysługują Prezesowi UTK także w stosunku do każdego z podmiotów wchodzących w skład przedsiębiorstwa zintegrowanego pionowo.
 4d.
-Jeżeli na podstawie przekazanych informacji, o których mowa w ust. 4b, Prezes UTK uzna, że zostały naruszone przepisy dotyczące pomocy publicznej, zawiadamia o tym Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
-” ;
+Jeżeli na podstawie przekazanych informacji, o których mowa w ust. 4b, Prezes UTK uzna, że zostały naruszone przepisy dotyczące pomocy publicznej, zawiadamia o tym Prezesa Urzędu Ochrony Konkurencji i Konsumentów. ” ;
 8)
-w art. 13b ust. 2 i 3 otrzymują brzmienie:
-„
+w art. 13b ust. 2 i 3 otrzymują brzmienie: „
 2.
 Od decyzji wydanych przez Prezesa UTK rozstrzygających co do istoty w sprawach, o których mowa w art. 29e ust. 3, art. 30d ust. 3, art. 33 ust. 15 oraz art. 66 ust. 1, 2, 2aa i 3, przysługuje odwołanie do Sądu Okręgowego w Warszawie – Sądu Ochrony Konkurencji i Konsumentów, w terminie 14 dni od dnia doręczenia decyzji.
 3.
-Do postanowień wydanych przez Prezesa UTK w sprawach, o których mowa w art. 29e ust. 3, art. 30d ust. 3, art. 33 ust. 15 oraz art. 66 ust. 1–2aa i 3, na które służy zażalenie, przepis ust. 2 stosuje się odpowiednio, z tym że zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia.
-” ;
+Do postanowień wydanych przez Prezesa UTK w sprawach, o których mowa w art. 29e ust. 3, art. 30d ust. 3, art. 33 ust. 15 oraz art. 66 ust. 1–2aa i 3, na które służy zażalenie, przepis ust. 2 stosuje się odpowiednio, z tym że zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia. ” ;
 9)
-w art. 15a dodaje się ust. 5 w brzmieniu:
-„
+w art. 15a dodaje się ust. 5 w brzmieniu: „
 5.
-W przypadku prowadzenia przez Prezesa UTK postępowań dotyczących międzynarodowych przewozów kolejowych, w których konieczne jest wydanie decyzji również przez organ regulacyjny z innego państwa członkowskiego Unii Europejskiej, Prezes UTK współpracuje z tym organem, w szczególności występuje do niego o przekazanie informacji niezbędnych do wydania decyzji rozstrzygającej daną sprawę.
-” ;
+W przypadku prowadzenia przez Prezesa UTK postępowań dotyczących międzynarodowych przewozów kolejowych, w których konieczne jest wydanie decyzji również przez organ regulacyjny z innego państwa członkowskiego Unii Europejskiej, Prezes UTK współpracuje z tym organem, w szczególności występuje do niego o przekazanie informacji niezbędnych do wydania decyzji rozstrzygającej daną sprawę. ” ;
 10)
-w art. 29a ust. 2 otrzymuje brzmienie:
-„
+w art. 29a ust. 2 otrzymuje brzmienie: „
 2.
-Przewoźnikom kolejowym z innych państw członkowskich Unii Europejskiej przysługuje minimalny dostęp do infrastruktury kolejowej, o którym mowa w ust. 1, z zachowaniem zasady równego traktowania.
-” ;
+Przewoźnikom kolejowym z innych państw członkowskich Unii Europejskiej przysługuje minimalny dostęp do infrastruktury kolejowej, o którym mowa w ust. 1, z zachowaniem zasady równego traktowania. ” ;
 11)
-art. 29c otrzymuje brzmienie:
-„
+art. 29c otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2019 r. poz. 710, 730, 1214, 1979 i 2020 oraz z 2020 r. poz. 284) wprowadza się następujące zmiany:
 
@@ -255,8 +238,17 @@ art. 29c otrzymuje brzmienie:
 
 - **58)** przewozy pasażerskie kolejami dużych prędkości – przewozy pasażerskie wykonywane bez przystanków pośrednich między dwoma miejscami położonymi od siebie w odległości większej niż 200 km, na liniach kolejowych specjalnie przystosowanych do prędkości nie mniejszej niż 250 km/h, wykonywane średnio z taką prędkością;
 - **59)** funkcje podstawowe – podejmowanie przez zarządcę infrastruktury decyzji dotyczących udostępniania infrastruktury kolejowej i pobierania opłat za korzystanie z infrastruktury kolejowej, w tym ich ustalania, zgodnie z przepisami rozdziału 6. ” ;
-- **4)** w art. 5: w ust. 1: – w pkt 1: – – lit. e otrzymuje brzmienie: „ e) wykonywaniu funkcji podstawowych; ” , – – uchyla się lit. f, – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) eksploatacja infrastruktury kolejowej polegająca na: a) udostępnianiu infrastruktury kolejowej, świadczeniu usług z tym związanych i pobieraniu z tego tytułu opłat, b) prowadzeniu ruchu kolejowego; ” , – pkt 2 otrzymuje brzmienie: „ 2) utrzymanie infrastruktury kolejowej przez prowadzenie prac mających na celu utrzymanie stanu i zdolności istniejącej infrastruktury kolejowej do bezpiecznego prowadzenia ruchu kolejowego, w tym nadzór nad funkcjonowaniem urządzeń sterowania ruchem kolejowym i przytorowych urządzeń kontroli bezpiecznej jazdy pociągów; ” , – pkt 4 otrzymuje brzmienie: „ 4) udział w rozwoju infrastruktury kolejowej; ” , – dodaje się pkt 5 w brzmieniu: „ 5) odnowienie infrastruktury kolejowej. ” , ust. 1a otrzymuje brzmienie: „
+- **4)** w art. 5: w ust. 1: w pkt 1: – lit. e otrzymuje brzmienie: „ wykonywaniu funkcji podstawowych; ” , – – uchyla się lit. f, po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+    - **e)**
+
+- **1a)** eksploatacja infrastruktury kolejowej polegająca na: udostępnianiu infrastruktury kolejowej, świadczeniu usług z tym związanych i pobieraniu z tego tytułu opłat, prowadzeniu ruchu kolejowego; ” , pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2)** utrzymanie infrastruktury kolejowej przez prowadzenie prac mających na celu utrzymanie stanu i zdolności istniejącej infrastruktury kolejowej do bezpiecznego prowadzenia ruchu kolejowego, w tym nadzór nad funkcjonowaniem urządzeń sterowania ruchem kolejowym i przytorowych urządzeń kontroli bezpiecznej jazdy pociągów; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** udział w rozwoju infrastruktury kolejowej; ” , dodaje się pkt 5 w brzmieniu: „
+- **5)** odnowienie infrastruktury kolejowej. ” , ust. 1a otrzymuje brzmienie: „
     - **b)**
 
 1a. Przepisów ust. 1 pkt 1 lit. a-c i e oraz pkt 1a nie stosuje się do zarządcy, który nie zarządza torami kolejowymi. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
@@ -269,7 +261,7 @@ art. 29c otrzymuje brzmienie:
 - **e)**
 - **5)** po rozdziale 2a dodaje się rozdział 2aa w brzmieniu: „
 
-#### Rozdział 2aa Gwarancje niezależności i bezstronności zarządcy
+#### Rozdział 2aa
 
 **Art. 29c.**
 
@@ -286,7 +278,7 @@ art. 29c otrzymuje brzmienie:
 6. Jeżeli w wyniku przeprowadzonego badania, o którym mowa w ust. 4, Prezes UTK oceni, że proponowane połączenie pasażerskie zagraża równowadze ekonomicznej umowy o świadczenie usług w zakresie publicznego transportu zbiorowego, uwzględniając stopień naruszenia równowagi ekonomicznej tej umowy, wydaje decyzję:
 
 - **1)** o przyznaniu ograniczonego dostępu,
-- **2)** odmawiającą przyznania otwartego dostępu wskazując zakres zmian w planowanym przewozie osób, w szczególności dotyczący zmiany częstotliwości, tras, stacji pośrednich lub harmonogramu, które zapewniłyby spełnienie warunków przyznania otwartego dostępu.
+- **2)** odmawiającą przyznania otwartego dostępu – wskazując zakres zmian w planowanym przewozie osób, w szczególności dotyczący zmiany częstotliwości, tras, stacji pośrednich lub harmonogramu, które zapewniłyby spełnienie warunków przyznania otwartego dostępu.
 
 7. W decyzji o przyznaniu otwartego dostępu albo o przyznaniu ograniczonego dostępu określa się w szczególności:
 
@@ -323,8 +315,16 @@ art. 29c otrzymuje brzmienie:
 
 3a. W przypadku przepełnienia infrastruktury kolejowej zarządca podejmuje działania w celu wprowadzenia zmian zdolności przepustowej, w szczególności dotyczących korzystania z danej trasy pociągów, która w okresie co najmniej miesiąca w obowiązującym rozkładzie jazdy pociągów była wykorzystywana poniżej progowej wielkości ustalanej w regulaminie sieci, o którym mowa w art. 32 ust. 1, chyba że nastąpiło to z przyczyn pozaekonomicznych, na które aplikant nie miał wpływu. ” ;
 
-- **14)** w art. 30f: w ust. 4: – pkt 3 otrzymuje brzmienie: „ 3) sposób ustalenia wysokości rekompensat należnych z tytułu opóźnienia pociągu, podmiotu wypłacającego rekompensatę oraz podmiotu uprawnionego do otrzymania rekompensaty, uwzględniając: a) udział w odpowiedzialności za spowodowanie zakłócenia, b) zdolność do przywrócenia normalnych warunków ruchu, c) średnie wielkości opóźnienia pociągów w odniesieniu do punktualności pociągów pasażerskich i pozostałych pociągów; ” , – dodaje się pkt 4 i 5 w brzmieniu: „ 4) odpowiedzialność za działania zakłócające eksploatację sieci kolejowej; 5) sposób premiowania za osiągnięcie przez przewoźnika kolejowego średniego rocznego poziomu wyników wyższego niż wynik określony w oparciu o główne parametry ustalone w ramach planu wykonania. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+- **14)** w art. 30f: w ust. 4: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** sposób ustalenia wysokości rekompensat należnych z tytułu opóźnienia pociągu, podmiotu wypłacającego rekompensatę oraz podmiotu uprawnionego do otrzymania rekompensaty, uwzględniając: udział w odpowiedzialności za spowodowanie zakłócenia, zdolność do przywrócenia normalnych warunków ruchu, średnie wielkości opóźnienia pociągów w odniesieniu do punktualności pociągów pasażerskich i pozostałych pociągów; ” , dodaje się pkt 4 i 5 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** odpowiedzialność za działania zakłócające eksploatację sieci kolejowej;
+- **5)** sposób premiowania za osiągnięcie przez przewoźnika kolejowego średniego rocznego poziomu wyników wyższego niż wynik określony w oparciu o główne parametry ustalone w ramach planu wykonania. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **b)**
 
 5a. Zarządca przekazuje niezwłocznie przewoźnikom kolejowym kalkulacje płatności należnych w ramach planu wykonania. Kalkulacje te obejmują wszystkie opóźnienia pociągów w okresie nie dłuższym niż miesiąc. ” ;
@@ -414,8 +414,10 @@ art. 29c otrzymuje brzmienie:
 - **25)** w art. 46: w ust. 4 w zdaniu pierwszym pkt 4 otrzymuje brzmienie: „
     - **a)**
 
-- **4)** członkowie organu zarządzającego osoby prawnej, wspólnik, komplementariusz w spółce jawnej, komandytowej lub komandytowo-akcyjnej, a w przypadku innego przedsiębiorcy – osoby prowadzące działalność gospodarczą, nie zostały skazane prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe popełnione umyślnie, powtarzające się nieumyślne naruszenie praw osób wykonujących pracę zarobkową lub poważne naruszenia prawa dotyczące obowiązków wynikających z układów zbiorowych pracy. ” , w ust. 6 w pkt 1: – lit. d otrzymuje brzmienie: „ d) dane dotyczące wydatków związanych z wykonywaniem działalności, o której mowa w art. 43 ust. 1, w tym informacje o zakupie pojazdów, gruntów, budynków, instalacji i taboru kolejowego, ” , – w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ f) informację o obciążeniach na aktywach przedsiębiorstwa; ” ;
+- **4)** członkowie organu zarządzającego osoby prawnej, wspólnik, komplementariusz w spółce jawnej, komandytowej lub komandytowo-akcyjnej, a w przypadku innego przedsiębiorcy – osoby prowadzące działalność gospodarczą, nie zostały skazane prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe popełnione umyślnie, powtarzające się nieumyślne naruszenie praw osób wykonujących pracę zarobkową lub poważne naruszenia prawa dotyczące obowiązków wynikających z układów zbiorowych pracy. ” , w ust. 6 w pkt 1: lit. d otrzymuje brzmienie: „ dane dotyczące wydatków związanych z wykonywaniem działalności, o której mowa w art. 43 ust. 1, w tym informacje o zakupie pojazdów, gruntów, budynków, instalacji i taboru kolejowego, ” , w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ informację o obciążeniach na aktywach przedsiębiorstwa; ” ;
     - **b)**
+    - **d)**
+    - **f)**
 
 - **26)** w załączniku nr 2 do ustawy: w ust. 2 wprowadzenie do wyliczenia i pkt 1 otrzymują brzmienie: „ Dostęp do obiektu obejmuje dostęp do torów kolejowych oraz świadczenie usług w następujących obiektach infrastruktury usługowej:
     - **a)**
@@ -443,7 +445,7 @@ art. 29c otrzymuje brzmienie:
     - **a)**
     - **b)**
 
-- **11)** przewoźnik – przedsiębiorca uprawniony do prowadzenia działalności gospodarczej w zakresie przewozu osób na podstawie potwierdzenia zgłoszenia przewozu, a w transporcie kolejowym – przewoźnik kolejowy wykonujący przewóz osób na podstawie umowy o świadczenie usług publicznych albo decyzji o przyznaniu otwartego dostępu albo decyzji o przyznaniu ograniczonego dostępu, o których mowa w art. 29c ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2019 r. poz. 710, z późn. zm.); ” ;
+- **11)** przewoźnik – przedsiębiorca uprawniony do prowadzenia działalności gospodarczej w zakresie przewozu osób na podstawie potwierdzenia zgłoszenia przewozu, a w transporcie kolejowym – przewoźnik kolejowy wykonujący przewóz osób na podstawie umowy o świadczenie usług publicznych albo decyzji o przyznaniu otwartego dostępu albo decyzji o przyznaniu ograniczonego dostępu, o których mowa w art. 29c ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2019 r. poz. 710, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1214, 1979 i 2020 oraz z 2020 r. poz. 284 i 400.); ” ;
 - **2)** w art. 5 w ust. 2 pkt 3 otrzymuje brzmienie: „
 - **3)** decyzji o przyznaniu otwartego dostępu albo decyzji o przyznaniu ograniczonego dostępu, o których mowa w art. 29c ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym. ” ;
 - **3)** po art. 23 dodaje się art. 23a w brzmieniu: „
@@ -487,5 +489,5 @@ art. 29c otrzymuje brzmienie:
 
 2. Zarządca infrastruktury, o którym mowa w art. 4 pkt 7 ustawy zmienianej w art. 1, dostosuje umowy dotyczące pełnienia funkcji lub świadczenia pracy lub usług zawarte przed dniem wejścia w życie niniejszej ustawy z osobami, o których mowa w art. 9mg ust. 1 ustawy zmienianej w art. 1, do wymagań określonych w art. 9mg ustawy zmienianej w art. 1, nie później niż w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów art. 1 pkt 7 lit. a tiret drugie, art. 3 pkt 3 oraz art. 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów art. 1 pkt 7 lit. a tiret drugie, art. 3 pkt 3 oraz art. 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/2370 z dnia 14 grudnia 2016 r. zmieniającą dyrektywę 2012/34/UE w odniesieniu do otwarcia rynku krajowych kolejowych przewozów pasażerskich oraz zarządzania infrastrukturą kolejową (Dz. Urz. UE L 352 z 23.12.2016, str. 1) oraz uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32, Dz. Urz. UE L 67 z 12.03.2015, str. 32, Dz. Urz. UE L 159 z 16.06.2016, str. 23, Dz. Urz. UE L 352 z 23.12.2016, str. 1 oraz Dz. Urz. UE L 295 z 14.11.2017, str. 69). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 240 z 16.09.2015, str. 65 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 22. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1214, 1979 i 2020 oraz z 2020 r. poz. 284 i 400.
 

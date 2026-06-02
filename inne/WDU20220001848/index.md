@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 4 sierpnia 2022 r. w sprawie wysokości opłat za wydanie dowodu rejestracyjnego, pozwolenia czasowego i zalegalizowanych tablic (tablicy) rejestracyjnych oraz ich wtórników
+# Rozporządzenie Ministra Infrastrukturyz dnia 4 sierpnia 2022 r. w sprawie wysokości opłat za wydanie dowodu rejestracyjnego, pozwolenia czasowego i zalegalizowanych tablic (tablicy) rejestracyjnych oraz ich wtórników Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-04 |
 | Data wydania | 2022-09-02 |
-| Wejście w życie | 2022-09-04 |
 | Ostatnia zmiana | 2025-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001848) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1848/text.pdf) |
 
@@ -118,6 +117,5 @@ pkt 3 – w przypadku pojazdów kategorii L2e.
 5.
 Za wydanie tymczasowych tablic (tymczasowej tablicy) rejestracyjnych, w celu umożliwienia wywozu pojazdu za granicę, organ rejestrujący pobiera właściwą dla danych tablic (danej tablicy) rejestracyjnych opłatę określoną w § 4 ust. 1. Przepisy § 4 ust. 3 i 4 stosuje się odpowiednio.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 4 września 2022 r., z wyjątkiem § 4 ust. 1 pkt 8, który wchodzi w życie z dniem 1 maja 2023 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 9 maja 2016 r. w sprawie wysokości opłat za wydanie dowodu rejestracyjnego, pozwolenia czasowego, tablic (tablicy) rejestracyjnych i nalepki kontrolnej oraz ich wtórników (Dz. U. z 2019 r. poz. 1840 oraz z 2020 r. poz. 2152), które traci moc z dniem 4 września 2022 r. w związku z wejściem w życie art. 1 pkt 16 lit. a tiret drugie i lit. c ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517).
+Rozporządzenie wchodzi w życie z dniem 4 września 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 9 maja 2016 r. w sprawie wysokości opłat za wydanie dowodu rejestracyjnego, pozwolenia czasowego, tablic (tablicy) rejestracyjnych i nalepki kontrolnej oraz ich wtórników (Dz. U. z 2019 r. poz. 1840 oraz z 2020 r. poz. 2152), które traci moc z dniem 4 września 2022 r. w związku z wejściem w życie art. 1 pkt 16 lit. a tiret drugie i lit. c ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517)., z wyjątkiem § 4 ust. 1 pkt 8, który wchodzi w życie z dniem 1 maja 2023 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 9 maja 2016 r. w sprawie wysokości opłat za wydanie dowodu rejestracyjnego, pozwolenia czasowego, tablic (tablicy) rejestracyjnych i nalepki kontrolnej oraz ich wtórników (Dz. U. z 2019 r. poz. 1840 oraz z 2020 r. poz. 2152), które traci moc z dniem 4 września 2022 r. w związku z wejściem w życie art. 1 pkt 16 lit. a tiret drugie i lit. c ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517).
 

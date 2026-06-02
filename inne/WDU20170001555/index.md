@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o dozorze technicznym
+# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o dozorze technicznym Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Komisji 2014/99/UE z dnia 21 października 2014 r. zmieniającą, w celu dostosowania do postępu technicznego dyrektywę 2009/126/WE w sprawie odzyskiwania oparów paliwa na etapie II podczas tankowania pojazdów silnikowych na stacjach paliw (Dz. Urz. UE L 304 z 23.10.2014, str. 89).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-21 |
-| Wejście w życie | 2017-09-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001555) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1555/text.pdf) |
 
@@ -70,7 +69,7 @@ source: "eli-html"
 **Art. 25.** Czynności dozoru technicznego inspektorzy wykonują u:
 
 - **1)** projektujących i wytwarzających urządzenia techniczne, a także wytwarzających materiały i elementy stosowane do ich wytwarzania, naprawy lub modernizacji oraz eksploatujących, naprawiających i modernizujących te urządzenia,
-- **2)** eksploatujących urządzenia do odzyskiwania par paliwa zwanych dalej „przedsiębiorcami, u których są wykonywane czynności dozoru technicznego”. ” ;
+- **2)** eksploatujących urządzenia do odzyskiwania par paliwa – zwanych dalej „przedsiębiorcami, u których są wykonywane czynności dozoru technicznego”. ” ;
 - **7)** w art. 28: pkt 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -135,5 +134,5 @@ source: "eli-html"
 
 **Art. 3.** Eksploatujący urządzenia do odzyskiwania par paliwa zainstalowane na stacjach paliw płynnych przed dniem 4 marca 2017 r. są zwolnieni z obowiązku, o którym mowa w art. 23a ust. 3 pkt 1 ustawy zmienianej w art. 1.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Komisji 2014/99/UE z dnia 21 października 2014 r. zmieniającą, w celu dostosowania do postępu technicznego dyrektywę 2009/126/WE w sprawie odzyskiwania oparów paliwa na etapie II podczas tankowania pojazdów silnikowych na stacjach paliw (Dz. Urz. UE L 304 z 23.10.2014, str. 89).
 

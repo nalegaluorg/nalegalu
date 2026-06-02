@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Funduszy i Polityki Regionalnejz dnia 11 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020
+# Obwieszczenie Ministra Funduszy i Polityki Regionalnejz dnia 11 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -26,25 +26,23 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001219) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1219/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 2 lipca 2015 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020 Rozdział 1 – Przepisy ogólne Rozdział 2 – Udzielanie pomocy de minimis Rozdział 3 – Udzielanie pomocy publicznej na szkolenia Rozdział 4 – Udzielanie pomocy publicznej na usługi doradcze Rozdział 5 – Udzielanie pomocy publicznej na subsydiowanie zatrudnienia Rozdział 6 – Przepisy końcowe
+Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 2 lipca 2015 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 2 lipca 2015 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020 (Dz. U. poz. 1073), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 8 kwietnia 2021 r. zmieniającym rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020 (Dz. U. poz. 702).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 8 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020 (Dz. U. poz. 702), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 8 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020 (Dz. U. poz. 702), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
-Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 2 lipca 2015 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
+Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 2 lipca 2015 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020, do których mają zastosowanie odpowiednio przepisy:
 1)
-rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 1407/2013”, oraz
+rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3., zwanego dalej „rozporządzeniem Komisji (UE) nr 1407/2013”, oraz
 2)
-rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
+rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39., zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -95,7 +93,7 @@ a)
 wniosek o dofinansowanie projektu – w przypadku gdy przedsiębiorca ubiegający się o pomoc de minimis lub pomoc publiczną jest wnioskodawcą w rozumieniu art. 2 pkt 28 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, zwanej dalej „ustawą”,
 b)
 umowę o przystąpieniu do projektu określającą szczegółowe warunki udzielenia pomocy de minimis lub pomocy publicznej, w tym dane identyfikacyjne przedsiębiorcy, formę organizacyjno-prawną przedsiębiorcy, wielkość przedsiębiorcy, oznaczenie wykonywanej działalności według PKD oraz formę i przeznaczenie pomocy – w przypadku gdy przedsiębiorca ubiegający się o pomoc de minimis lub pomoc publiczną nie jest wnioskodawcą w rozumieniu art. 2 pkt 28 ustawy;
-10)
+10Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 8 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020 (Dz. U. poz. 702), które weszło w życie z dniem 17 kwietnia 2021 r.)
 wkładzie prywatnym przedsiębiorcy, należy przez to rozumieć środki, które nie zostały uzyskane przez przedsiębiorcę w związku z otrzymanymi wcześniej innymi środkami publicznymi, w szczególności w formie kredytów preferencyjnych, dopłat do oprocentowania kredytów, gwarancji lub poręczeń udzielonych na warunkach korzystniejszych niż oferowane na rynku, a także środkami z funduszy strukturalnych Unii Europejskiej i Funduszu Spójności.
 § 3.
 1.
@@ -124,6 +122,7 @@ warunki kumulacji pomocy, o których mowa odpowiednio w art. 5 rozporządzenia K
 Pomoc de minimis oraz pomoc publiczna mogą być udzielone przedsiębiorcy przez instytucję zarządzającą, instytucję pośredniczącą, instytucję wdrażającą, beneficjenta lub inne podmioty, o których mowa w art. 2 pkt 12 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807), a także przez partnera projektu, o którym mowa w art. 33 ust. 1 ustawy, oraz przez podmiot wdrażający instrument finansowy, o którym mowa w art. 28 ust. 2 ustawy.
 2.
 Pomoc de minimis oraz pomoc publiczna mogą być udzielone na podstawie umowy o dofinansowanie projektu, decyzji o dofinansowaniu projektu lub innego dokumentu będącego podstawą jej udzielenia, który określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy publicznej lub pomocy de minimis na rzecz przedsiębiorcy.
+Udzielanie pomocy de minimis
 § 7.
 Pomoc de minimis jest udzielana z zachowaniem warunków dotyczących kumulacji określonych w art. 5 rozporządzenia Komisji (UE) nr 1407/2013.
 § 8.
@@ -134,7 +133,7 @@ Przedsiębiorca ubiegający się o pomoc de minimis składa wniosek o udzielenie
 2.
 Do wniosku o udzielenie pomocy przedsiębiorca załącza:
 1)
-kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie, lub zaświadczeń o pomocy de minimis w rybołówstwie albo oświadczenie o wielkości takiej pomocy, albo oświadczenie o nieotrzymaniu takiej pomocy, o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej;
+kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie, lub zaświadczeń o pomocy de minimis w rybołówstwie albo oświadczenie o wielkości takiej pomocy, albo oświadczenie o nieotrzymaniu takiej pomocy, o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 i 2Uchylony przez art. 1 pkt 26 lit. b tiret drugie ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. poz. 1063), która weszła w życie z dniem 22 czerwca 2019 r. ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej;
 2)
 informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 § 10.
@@ -174,14 +173,15 @@ Wartość pomocy, o której mowa w § 10 ust. 1 pkt 8, udzielanej w formie poży
 Wartość pomocy, o której mowa w § 10 ust. 1 pkt 8, udzielanej w formie gwarancji jest wyrażana za pomocą ekwiwalentu dotacji brutto, zgodnie z art. 4 ust. 6 rozporządzenia Komisji (UE) nr 1407/2013.
 3.
 Wartość pomocy, o której mowa w § 10 ust. 1 pkt 8, udzielanej w formie pożyczek jest obliczana zgodnie z metodologią, o której mowa w § 4 pkt 5 rozporządzenia Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach (Dz. U. z 2018 r. poz. 461).
+Udzielanie pomocy publicznej na szkolenia
 § 12.
 Pomoc publiczna na szkolenia jest udzielana z zachowaniem warunków określonych w art. 31 rozporządzenia Komisji (UE) nr 651/2014.
 § 13.
 Pomoc publiczna na szkolenia nie może być udzielona na szkolenia, których obowiązek przeprowadzenia wynika z przepisów prawa.
 § 14.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 Kosztami kwalifikowalnymi w ramach pomocy publicznej na szkolenia są koszty wskazane w art. 31 ust. 3 rozporządzenia Komisji (UE) nr 651/2014.
-2.
+2Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 Wydatki na wynagrodzenia, o których mowa w art. 31 ust. 3 lit. d rozporządzenia Komisji (UE) nr 651/2014, nie mogą przekroczyć wysokości wkładu prywatnego przedsiębiorcy.
 § 15.
 1.
@@ -199,6 +199,7 @@ o 20 punktów procentowych – w przypadku szkoleń skierowanych do personelu mi
 Uznaje się, że pomoc publiczna na szkolenia wywołuje efekt zachęty, jeżeli przedsiębiorca złożył pisemny wniosek o udzielenie pomocy przed podjęciem prawnie wiążącego zobowiązania do udziału w szkoleniu przedsiębiorcy lub personelu przedsiębiorstwa.
 2.
 Wniosek o udzielenie pomocy, o którym mowa w ust. 1, powinien zawierać co najmniej informacje, o których mowa w art. 6 ust. 2 rozporządzenia Komisji (UE) nr 651/2014.
+Udzielanie pomocy publicznej na usługi doradcze
 § 17.
 Pomoc publiczna na usługi doradcze jest udzielana na rzecz mikro-, małych i średnich przedsiębiorstw z zachowaniem warunków określonych w art. 18 rozporządzenia Komisji (UE) nr 651/2014.
 § 18.
@@ -211,6 +212,7 @@ Intensywność pomocy publicznej na usługi doradcze wynosi maksymalnie 50% wart
 Uznaje się, że pomoc publiczna na usługi doradcze wywołuje efekt zachęty, jeżeli przedsiębiorca złożył pisemny wniosek o udzielenie pomocy przed podjęciem prawnie wiążącego zobowiązania do udziału w usłudze doradczej świadczonej przez doradców zewnętrznych.
 2.
 Wniosek o udzielenie pomocy, o którym mowa w ust. 1, powinien zawierać co najmniej informacje, o których mowa w art. 6 ust. 2 rozporządzenia Komisji (UE) nr 651/2014.
+Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
 § 20.
 Pomoc publiczna na subsydiowanie zatrudnienia pracowników znajdujących się w szczególnie niekorzystnej sytuacji oraz pracowników znajdujących się w bardzo niekorzystnej sytuacji jest udzielana z zachowaniem warunków określonych w art. 32 rozporządzenia Komisji (UE) nr 651/2014.
 § 21.
@@ -243,24 +245,36 @@ okresu zatrudnienia;
 intensywności pomocy;
 3)
 zapewnienia wzrostu netto liczby pracowników zatrudnionych u danego przedsiębiorcy w porównaniu ze średnią z ostatnich 12 miesięcy.
+Przepisy końcowe
 § 27.
 1.
 Pomoc de minimis jest udzielana do końca okresu, o którym mowa w art. 7 ust. 4 w związku z art. 8 rozporządzenia Komisji (UE) nr 1407/2013.
 2.
 Pomoc publiczna na szkolenia, pomoc publiczna na usługi doradcze oraz pomoc publiczna na subsydiowanie zatrudnienia jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku z art. 59 rozporządzenia Komisji (UE) nr 651/2014.
 § 28.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 8 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020 (Dz. U. poz. 702), które weszło w życie z dniem 17 kwietnia 2021 r. 5) Uchylony przez art. 1 pkt 26 lit. b tiret drugie ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. poz. 1063), która weszła w życie z dniem 22 czerwca 2019 r. 6) Oznaczenie ust. 1 nadane przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 7) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 8) Rozporządzenie zostało ogłoszone w dniu 30 lipca 2015 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 30 lipca 2015 r.. 1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 8 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów operacyjnych finansowanych z Europejskiego Funduszu Społecznego na lata 2014–2020 (Dz. U. poz. 702), które weszło w życie z dniem 17 kwietnia 2021 r. 5) Uchylony przez art. 1 pkt 26 lit. b tiret drugie ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. poz. 1063), która weszła w życie z dniem 22 czerwca 2019 r. 6) Oznaczenie ust. 1 nadane przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 7) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 8) Rozporządzenie zostało ogłoszone w dniu 30 lipca 2015 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Udzielanie pomocy de minimis
+#### Rozdział 2 – Udzielanie pomocy de minimis
 
-#### Rozdział 3 Udzielanie pomocy publicznej na szkolenia
+#### Rozdział 3 – Udzielanie pomocy publicznej na szkolenia
 
-#### Rozdział 4 Udzielanie pomocy publicznej na usługi doradcze
+#### Rozdział 4 – Udzielanie pomocy publicznej na usługi doradcze
 
-#### Rozdział 5 Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
+#### Rozdział 5 – Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
 
-#### Rozdział 6 Przepisy końcowe
+#### Rozdział 6 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

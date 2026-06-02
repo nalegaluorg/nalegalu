@@ -26,13 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000746) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/746/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów Rozdział 1 – Przepisy ogólne Rozdział 2 – Właściwość organów Rozdział 3 – Zezwolenia na międzynarodowe przemieszczanie odpadów Rozdział 4 – Zezwolenia wstępne dla instalacji odzysku Rozdział 5 – Gwarancje finansowe Rozdział 6 – Zwrot odpadów Rozdział 7 – Właściwe przejścia graniczne Rozdział 8 – Przepisy karne Rozdział 9 – Kary pieniężne Rozdział 10 – Zmiany w przepisach obowiązujących Rozdział 11 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. z 2020 r. poz. 1792), z uwzględnieniem zmian wprowadzonych ustawą z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 maja 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 20 oraz art. 26 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 20 oraz art. 26 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890), które stanowią: „
+Przepisy ogólne
+Właściwość organów
+Zezwolenia na międzynarodowe przemieszczanie odpadów
+Zezwolenia wstępne dla instalacji odzysku
+Gwarancje finansowe
 1.
 Gwarancja finansowa, o której mowa w art. 6 rozporządzenia nr 1013/2006, może mieć formę umowy gwarancji bankowej, umowy gwarancji ubezpieczeniowej albo depozytu odpowiedniej sumy pieniężnej na wydzielonym rachunku bankowym.
 2.
@@ -45,6 +49,34 @@ Gwarancja finansowa w formie umowy gwarancji bankowej albo umowy gwarancji ubezp
 Gwarancja finansowa w formie depozytu jest wpłacana na odrębny rachunek bankowy wskazany przez Głównego Inspektora Ochrony Środowiska.
 6.
 Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw klimatu może określić, w drodze rozporządzenia, wzory formularzy umowy gwarancji bankowej i umowy gwarancji ubezpieczeniowej, kierując się potrzebą uwzględnienia wszystkich niezbędnych elementów umowy oraz uproszczenia procedury ustanawiania gwarancji.
+Zwrot odpadów
+Właściwe przejścia graniczne
+Przepisy karne
+Kary pieniężne
+Zmiany w przepisach obowiązujących
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Właściwość organów
+
+#### Rozdział 3 – Zezwolenia na międzynarodowe przemieszczanie odpadów
+
+#### Rozdział 4 – Zezwolenia wstępne dla instalacji odzysku
+
+#### Rozdział 5 – Gwarancje finansowe
+
+#### Rozdział 6 – Zwrot odpadów
+
+#### Rozdział 7 – Właściwe przejścia graniczne
+
+#### Rozdział 8 – Przepisy karne
+
+#### Rozdział 9 – Kary pieniężne
+
+#### Rozdział 10 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 11 – Przepisy przejściowe i końcowe
 
 **Art. 20.**
 
@@ -59,7 +91,7 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 - **1)** art. 1 pkt 24 oraz art. 7 pkt 6, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
 - **2)** art. 1 pkt 21, art. 14 oraz art. 23, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -82,7 +114,7 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 4. (uchylony)
 
-#### Rozdział 2 Właściwość organów
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -98,7 +130,7 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 4. Organy wymienione w ust. 1 i 3 współdziałają w zakresie międzynarodowego przemieszczania odpadów oraz zapobiegają nielegalnemu międzynarodowemu przemieszczaniu odpadów, w szczególności przez wymianę informacji i doświadczeń, w tym w zakresie klasyfikacji towarów jako spełniających przesłanki do uznania ich za odpady.
 
-#### Rozdział 3 Zezwolenia na międzynarodowe przemieszczanie odpadów
+#### Rozdział 3
 
 **Art. 4.** Zezwolenia na:
 
@@ -192,7 +224,7 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 2. Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, wzór rejestru, o którym mowa w ust. 1, a także sposób jego udostępniania, kierując się potrzebą ujednolicenia systemu zbierania i przetwarzania danych oraz zasadami udostępniania informacji określonymi w art. 21 rozporządzenia nr 1013/2006.
 
-#### Rozdział 4 Zezwolenia wstępne dla instalacji odzysku
+#### Rozdział 4
 
 **Art. 13.**
 
@@ -267,7 +299,7 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 **Art. 19.** Minister właściwy do spraw klimatu, w drodze rozporządzenia, określi wzór wniosku o wydanie zezwolenia wstępnego, o którym mowa w art. 14 ust. 1, kierując się potrzebą ujednolicenia systemu zbierania i przetwarzania danych.
 
-#### Rozdział 5 Gwarancje finansowe
+#### Rozdział 5
 
 **Art. 21.**
 
@@ -279,28 +311,20 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 **Art. 22.**
 
-1. Po dokonaniu międzynarodowego przemieszczenia odpadów i przedstawieniu dokumentów wymaganych przepisami rozporządzenia nr 1013/2006, na wniosek składającego gwarancję, Główny Inspektor Ochrony Środowiska, w drodze decyzji, orzeka o jej zwrocie, z zastrzeżeniem ust. 2.
+1. Po dokonaniu międzynarodowego przemieszczenia odpadów i przedstawieniu dokumentów wymaganych przepisami rozporządzenia nr 1013/2006, na wniosek składającego gwarancję, Główny Inspektor Ochrony Środowiska, w drodze decyzji, orzeka o jej zwrocie, z zastrzeżeniem ust. 2. 2Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890), która weszła w życie z dniem 16 października 2023 r.. W przypadku wystąpienia okoliczności, o których mowa w art. 6 ust. 2 rozporządzenia nr 1013/2006, i gdy zgłaszający lub odbiorca odpadów nie zrealizował obowiązków dotyczących odpowiednio zwrotu odpadów do państwa wysyłki lub zagospodarowania ich na terenie państwa przeznaczenia, nałożonych w decyzjach, o których mowa w art. 23 ust. 1 lub art. 25 ust. 1, Główny Inspektor Ochrony Środowiska orzeka, w drodze decyzji, o przeznaczeniu na ten cel środków z gwarancji finansowej w wysokości niezbędnej do zrealizowania tych obowiązków.
 
-2. W przypadku wystąpienia okoliczności, o których mowa w art. 6 ust. 2 rozporządzenia nr 1013/2006, i gdy zgłaszający lub odbiorca odpadów nie zrealizował obowiązków dotyczących odpowiednio zwrotu odpadów do państwa wysyłki lub zagospodarowania ich na terenie państwa przeznaczenia, nałożonych w decyzjach, o których mowa w art. 23 ust. 1 lub art. 25 ust. 1, Główny Inspektor Ochrony Środowiska orzeka, w drodze decyzji, o przeznaczeniu na ten cel środków z gwarancji finansowej w wysokości niezbędnej do zrealizowania tych obowiązków.
+#### Rozdział 6
 
-#### Rozdział 6 Zwrot odpadów
+**Art. 23.** 1W brzmieniu ustalonym przez art. 10 pkt 2 lit. a ustawy, o której mowa w odnośniku 1.. W przypadku stwierdzenia, że realizacja międzynarodowego przemieszczania odpadów nie jest możliwa zgodnie z warunkami określonymi w zezwoleniu, dokumencie zgłoszenia lub przesyłania lub w umowie zawartej między zgłaszającym a odbiorcą odpadów, albo na podstawie otrzymanego w trybie art. 22 ust. 1 rozporządzenia nr 1013/2006 powiadomienia, Główny Inspektor Ochrony Środowiska wszczyna z urzędu postępowanie administracyjne i w drodze decyzji zobowiązuje zgłaszającego do zastosowania procedur określonych w art. 22 rozporządzenia nr 1013/2006 oraz określa sposób zagospodarowania odpadów, wskazując termin realizacji obowiązków nałożonych tą decyzją. 2Ze zmianą wprowadzoną przez art. 10 pkt 2 lit. b ustawy, o której mowa w odnośniku 1.. O wszczęciu postępowania i wydaniu decyzji, o której mowa w ust. 1, Główny Inspektor Ochrony Środowiska powiadamia odpowiednio właściwe organy państwa przeznaczenia, tranzytu lub wywozu oraz ministra właściwego do spraw finansów publicznych, Komendanta Głównego Straży Granicznej, Komendanta Głównego Policji oraz odpowiednio Głównego Inspektora Transportu Drogowego, Prezesa Urzędu Transportu Kolejowego, a także wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia procesu odzysku lub unieszkodliwiania lub siedziby zgłaszającego lub odbiorcy odpadów sprowadzonych nielegalnie.
 
-**Art. 23.**
-
-1. W przypadku stwierdzenia, że realizacja międzynarodowego przemieszczania odpadów nie jest możliwa zgodnie z warunkami określonymi w zezwoleniu, dokumencie zgłoszenia lub przesyłania lub w umowie zawartej między zgłaszającym a odbiorcą odpadów, albo na podstawie otrzymanego w trybie art. 22 ust. 1 rozporządzenia nr 1013/2006 powiadomienia, Główny Inspektor Ochrony Środowiska wszczyna z urzędu postępowanie administracyjne i w drodze decyzji zobowiązuje zgłaszającego do zastosowania procedur określonych w art. 22 rozporządzenia nr 1013/2006 oraz określa sposób zagospodarowania odpadów, wskazując termin realizacji obowiązków nałożonych tą decyzją.
-
-2. O wszczęciu postępowania i wydaniu decyzji, o której mowa w ust. 1, Główny Inspektor Ochrony Środowiska powiadamia odpowiednio właściwe organy państwa przeznaczenia, tranzytu lub wywozu oraz ministra właściwego do spraw finansów publicznych, Komendanta Głównego Straży Granicznej, Komendanta Głównego Policji oraz odpowiednio Głównego Inspektora Transportu Drogowego, Prezesa Urzędu Transportu Kolejowego, a także wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia procesu odzysku lub unieszkodliwiania lub siedziby zgłaszającego lub odbiorcy odpadów sprowadzonych nielegalnie.
-
-**Art. 24.** (uchylony)
+**Art. 24.** (uchylony)Przez art. 10 pkt 3 ustawy, o której mowa w odnośniku 1.
 
 **Art. 25.**
 
-1. W przypadku stwierdzenia nielegalnego międzynarodowego przemieszczania odpadów albo na podstawie powiadomienia o nielegalnym przemieszczeniu otrzymanego w trybie art. 24 ust. 1 rozporządzenia nr 1013/2006, Główny Inspektor Ochrony Środowiska wszczyna z urzędu postępowanie administracyjne i zobowiązuje:
+1. W przypadku stwierdzenia nielegalnego międzynarodowego przemieszczania odpadów albo na podstawie powiadomienia o nielegalnym przemieszczeniu otrzymanego w trybie art. 24 ust. 1 rozporządzenia nr 1013/2006, Główny Inspektor Ochrony Środowiska wszczyna z urzędu postępowanie administracyjne i zobowiązuje:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 10 pkt 4 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1.
 
 - **1)** zgłaszającego lub, jeżeli nie dokonano zgłoszenia, podmiot zobowiązany do dokonania zgłoszenia – jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi wysyłający odpady,
-- **2)** odbiorcę odpadów – jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi odbiorca odpadów w drodze decyzji, do zastosowania procedur określonych w art. 24 rozporządzenia nr 1013/2006 i określa sposób zagospodarowania odpadów oraz wskazuje termin realizacji obowiązków nałożonych tą decyzją nie dłuższy niż 30 dni.
-
-2. O wszczęciu postępowania i wydaniu decyzji, o której mowa w ust. 1, Główny Inspektor Ochrony Środowiska powiadamia, odpowiednio właściwe organy państwa przeznaczenia, tranzytu lub wywozu oraz ministra właściwego do spraw finansów publicznych, Komendanta Głównego Straży Granicznej, Komendanta Głównego Policji oraz odpowiednio Głównego Inspektora Transportu Drogowego, Prezesa Urzędu Transportu Kolejowego, a także wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia procesu odzysku lub unieszkodliwiania lub siedziby zgłaszającego lub odbiorcy odpadów sprowadzonych nielegalnie. W przypadku gdy przedmiotem przemieszczania są odpady w postaci uszkodzonego pojazdu, znajdujące się na terenie kraju, nie stosuje się przepisów art. 25, jeżeli taki pojazd został naprawiony, a naprawa została potwierdzona pozytywnym wynikiem dodatkowego badania technicznego, o którym mowa w art. 81 ust. 11 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.). (uchylony)
+- **2)** odbiorcę odpadów – jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi odbiorca odpadów – w drodze decyzji, do zastosowania procedur określonych w art. 24 rozporządzenia nr 1013/2006 i określa sposób zagospodarowania odpadów oraz wskazuje termin realizacji obowiązków nałożonych tą decyzją nie dłuższy niż 30 dni.Część wspólna w brzmieniu ustalonym przez art. 10 pkt 4 lit. a tiret drugie ustawy, o której mowa w odnośniku 1. 2Ze zmianą wprowadzoną przez art. 10 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.. O wszczęciu postępowania i wydaniu decyzji, o której mowa w ust. 1, Główny Inspektor Ochrony Środowiska powiadamia, odpowiednio właściwe organy państwa przeznaczenia, tranzytu lub wywozu oraz ministra właściwego do spraw finansów publicznych, Komendanta Głównego Straży Granicznej, Komendanta Głównego Policji oraz odpowiednio Głównego Inspektora Transportu Drogowego, Prezesa Urzędu Transportu Kolejowego, a także wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia procesu odzysku lub unieszkodliwiania lub siedziby zgłaszającego lub odbiorcy odpadów sprowadzonych nielegalnie. W przypadku gdy przedmiotem przemieszczania są odpady w postaci uszkodzonego pojazdu, znajdujące się na terenie kraju, nie stosuje się przepisów art. 25, jeżeli taki pojazd został naprawiony, a naprawa została potwierdzona pozytywnym wynikiem dodatkowego badania technicznego, o którym mowa w art. 81 ust. 11 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029.). (uchylony)Przez art. 10 pkt 6 ustawy, o której mowa w odnośniku 1.
 
 **Art. 27.**
 
@@ -308,19 +332,17 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 2. Organ administracji publicznej, który stwierdził nielegalne międzynarodowe przemieszczanie odpadów, niezwłocznie przekazuje zawiadomienie do Głównego Inspektora Ochrony Środowiska wraz z kompletną dokumentacją sprawy oraz informację o podjętych działaniach.
 
-3. (uchylony)
+3. (uchylony)Przez art. 10 pkt 7 ustawy, o której mowa w odnośniku 1.
 
-4. (uchylony)
+4. (uchylony)Przez art. 10 pkt 7 ustawy, o której mowa w odnośniku 1.
 
 **Art. 28.**
 
-1. (uchylony)
+1. (uchylony)Przez art. 10 pkt 8 lit. a ustawy, o której mowa w odnośniku 1. 2W brzmieniu ustalonym przez art. 10 pkt 8 lit. b ustawy, o której mowa w odnośniku 1.. Egzekucja wykonania decyzji, o których mowa w art. 23 ust. 1 i art. 25 ust. 1, odbywa się w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-2. Egzekucja wykonania decyzji, o których mowa w art. 23 ust. 1 i art. 25 ust. 1, odbywa się w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+**Art. 29.** (uchylony)Przez art. 10 pkt 9 ustawy, o której mowa w odnośniku 1.
 
-**Art. 29.** (uchylony)
-
-#### Rozdział 7 Właściwe przejścia graniczne
+#### Rozdział 7
 
 **Art. 30.**
 
@@ -330,7 +352,7 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 3. (uchylony)
 
-#### Rozdział 8 Przepisy karne
+#### Rozdział 8
 
 **Art. 31.**
 
@@ -340,37 +362,28 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 3. Orzekanie w sprawach, o których mowa w ust. 1 i 2, następuje na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
-#### Rozdział 9 Kary pieniężne
+#### Rozdział 9
 
-**Art. 32.**
-
-1. Wojewódzki Inspektor Ochrony Środowiska nakłada na odbiorcę odpadów przemieszczanych nielegalnie, w drodze decyzji, karę pieniężną w wysokości od 10 000 do 1 000 000 zł.
-
-2. Wojewódzki Inspektor Ochrony Środowiska nakłada na zgłaszającego lub podmiot zobowiązany do dokonania zgłoszenia, który dokonał przemieszczania odpadów w sposób, o którym mowa w art. 2 pkt 35 rozporządzenia nr 1013/2006, w tym na osobę, która zorganizowała przemieszczanie odpadów w rozumieniu art. 2 pkt 35 lit. f lub g rozporządzenia nr 1013/2006, w drodze decyzji, karę pieniężną w wysokości od 10 000 do 1 000 000 zł.
-
-3. Za niewykonanie decyzji, o której mowa w art. 25, Wojewódzki Inspektor Ochrony Środowiska nakłada na jej adresata, w drodze decyzji, karę pieniężną w wysokości 10 000 zł.
-
-4. (uchylony)
+**Art. 32.** 1W brzmieniu ustalonym przez art. 10 pkt 10 lit. a ustawy, o której mowa w odnośniku 1.. Wojewódzki Inspektor Ochrony Środowiska nakłada na odbiorcę odpadów przemieszczanych nielegalnie, w drodze decyzji, karę pieniężną w wysokości od 10 000 do 1 000 000 zł. 2W brzmieniu ustalonym przez art. 10 pkt 10 lit. a ustawy, o której mowa w odnośniku 1.. Wojewódzki Inspektor Ochrony Środowiska nakłada na zgłaszającego lub podmiot zobowiązany do dokonania zgłoszenia, który dokonał przemieszczania odpadów w sposób, o którym mowa w art. 2 pkt 35 rozporządzenia nr 1013/2006, w tym na osobę, która zorganizowała przemieszczanie odpadów w rozumieniu art. 2 pkt 35 lit. f lub g rozporządzenia nr 1013/2006, w drodze decyzji, karę pieniężną w wysokości od 10 000 do 1 000 000 zł. 3W brzmieniu ustalonym przez art. 10 pkt 10 lit. a ustawy, o której mowa w odnośniku 1.. Za niewykonanie decyzji, o której mowa w art. 25, Wojewódzki Inspektor Ochrony Środowiska nakłada na jej adresata, w drodze decyzji, karę pieniężną w wysokości 10 000 zł. 4. (uchylony)Przez art. 10 pkt 10 lit. b ustawy, o której mowa w odnośniku 1.
 
 **Art. 33.**
 
-1. Wojewódzki Inspektor Ochrony Środowiska nakłada na odbiorcę odpadów, w drodze decyzji, karę pieniężną w wysokości od 5000 do 200 000 zł, jeżeli ten:
+1. Wojewódzki Inspektor Ochrony Środowiska nakłada na odbiorcę odpadów, w drodze decyzji, karę pieniężną w wysokości od 5000 do 200 000 zł, jeżeli ten:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 10 pkt 11 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1.
 
 - **1)** więcej niż jeden raz posługiwał się tym samym dokumentem przesyłania;
 - **2)** przyjął większą ilość transportów niż była zgłoszona;
 - **3)** przyjął większą ilość odpadów niż było to określone w zezwoleniu;
-- **4)** nie wypełnił obowiązku potwierdzenia otrzymania odpadów przez prowadzącego instalację odzysku w terminie 3 dni od ich odbioru;
-- **5)** nie dokonał odzysku lub unieszkodliwienia odpadów lub nie wypełnił obowiązku potwierdzenia dokonania odzysku lub unieszkodliwienia odpadów przez prowadzącego instalację odzysku lub unieszkodliwiania odpadów, w terminie 30 dni od dokonania odzysku lub unieszkodliwienia odpadów, nie później jednak niż w terminie jednego roku kalendarzowego od dnia otrzymania odpadów;
+- **4)** nie wypełnił obowiązku potwierdzenia otrzymania odpadów przez prowadzącego instalację odzysku w terminie 3 dni od ich odbioru; 5W brzmieniu ustalonym przez art. 10 pkt 11 lit. a tiret drugie ustawy, o której mowa w odnośniku 1.) nie dokonał odzysku lub unieszkodliwienia odpadów lub nie wypełnił obowiązku potwierdzenia dokonania odzysku lub unieszkodliwienia odpadów przez prowadzącego instalację odzysku lub unieszkodliwiania odpadów, w terminie 30 dni od dokonania odzysku lub unieszkodliwienia odpadów, nie później jednak niż w terminie jednego roku kalendarzowego od dnia otrzymania odpadów;
 - **6)** nie wypełnił obowiązku przechowywania dokumentów związanych ze zgłoszeniem przemieszczania odpadów przez okres 3 lat od daty pierwszej wysyłki.
 
-2. Wojewódzki Inspektor Ochrony Środowiska nakłada na zgłaszającego, w drodze decyzji, karę pieniężną w wysokości od 5000 do 200 000 zł, jeżeli ten:
+2. Wojewódzki Inspektor Ochrony Środowiska nakłada na zgłaszającego, w drodze decyzji, karę pieniężną w wysokości od 5000 do 200 000 zł, jeżeli ten:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 10 pkt 11 lit. b ustawy, o której mowa w odnośniku 1.
 
 - **1)** więcej niż jeden raz posługiwał się tym samym dokumentem przesyłania;
 - **2)** dokonał wysyłki większej ilości transportów niż była zgłoszona;
 - **3)** dokonał wysyłki większej ilości odpadów niż było to określone w zezwoleniu;
 - **4)** dokonał wysyłki odpadów bez powiadomienia na trzy dni robocze przed transportem wszystkich zainteresowanych właściwych organów.
 
-3. Wojewódzki Inspektor Ochrony Środowiska nakłada na transportującego odpady, w drodze decyzji, karę pieniężną w wysokości od 5000 do 100 000 zł, jeżeli ten:
+3. Wojewódzki Inspektor Ochrony Środowiska nakłada na transportującego odpady, w drodze decyzji, karę pieniężną w wysokości od 5000 do 100 000 zł, jeżeli ten:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 10 pkt 11 lit. c ustawy, o której mowa w odnośniku 1.
 
 - **1)** nie realizował przewozu ustaloną trasą przejazdu;
 - **2)** nie jest wskazany w zezwoleniu jako przewoźnik odpadów;
@@ -392,7 +405,7 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 4. W przypadku bezskutecznego upływu terminu, o którym mowa w ust. 3, kara pieniężna podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-#### Rozdział 10 Zmiany w przepisach obowiązujących
+#### Rozdział 10
 
 **Art. 36.** (pominięty)
 
@@ -402,7 +415,7 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 **Art. 39.** (pominięty)
 
-#### Rozdział 11 Przepisy przejściowe i końcowe
+#### Rozdział 11
 
 **Art. 40.** (pominięty)
 
@@ -410,8 +423,5 @@ Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem w�
 
 **Art. 42.** Traci moc ustawa z dnia 30 lipca 2004 r. o międzynarodowym obrocie odpadami (Dz. U. poz. 1956).
 
-**Art. 43.** Ustawa wchodzi w życie z dniem 12 lipca 2007 r.
-
-- **1)** Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890), która weszła w życie z dniem 16 października 2023 r. 2) W brzmieniu ustalonym przez art. 10 pkt 2 lit. a ustawy, o której mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez art. 10 pkt 2 lit. b ustawy, o której mowa w odnośniku 1. 4) Przez art. 10 pkt 3 ustawy, o której mowa w odnośniku 1. 5) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 10 pkt 4 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1. 6) Część wspólna w brzmieniu ustalonym przez art. 10 pkt 4 lit. a tiret drugie ustawy, o której mowa w odnośniku 1. 7) Ze zmianą wprowadzoną przez art. 10 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 8) Dodany przez art. 10 pkt 5 ustawy, o której mowa w odnośniku 1. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029. 10) Przez art. 10 pkt 6 ustawy, o której mowa w odnośniku 1. 11) Przez art. 10 pkt 7 ustawy, o której mowa w odnośniku 1. 12) Przez art. 10 pkt 8 lit. a ustawy, o której mowa w odnośniku 1. 13) W brzmieniu ustalonym przez art. 10 pkt 8 lit. b ustawy, o której mowa w odnośniku 1. 14) Przez art. 10 pkt 9 ustawy, o której mowa w odnośniku 1. 15) W brzmieniu ustalonym przez art. 10 pkt 10 lit. a ustawy, o której mowa w odnośniku 1. 16) Przez art. 10 pkt 10 lit. b ustawy, o której mowa w odnośniku 1. 17) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 10 pkt 11 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1. 18) W brzmieniu ustalonym przez art. 10 pkt 11 lit. a tiret drugie ustawy, o której mowa w odnośniku 1. 19) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 10 pkt 11 lit. b ustawy, o której mowa w odnośniku 1. 20) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 10 pkt 11 lit. c ustawy, o której mowa w odnośniku 1.
-
+**Art. 43.** Ustawa wchodzi w życie z dniem 12 lipca 2007 r. 1) Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1890), która weszła w życie z dniem 16 października 2023 r. 2) W brzmieniu ustalonym przez art. 10 pkt 2 lit. a ustawy, o której mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez art. 10 pkt 2 lit. b ustawy, o której mowa w odnośniku 1. 4) Przez art. 10 pkt 3 ustawy, o której mowa w odnośniku 1. 5) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 10 pkt 4 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1. 6) Część wspólna w brzmieniu ustalonym przez art. 10 pkt 4 lit. a tiret drugie ustawy, o której mowa w odnośniku 1. 7) Ze zmianą wprowadzoną przez art. 10 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 8) Dodany przez art. 10 pkt 5 ustawy, o której mowa w odnośniku 1. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029. 10) Przez art. 10 pkt 6 ustawy, o której mowa w odnośniku 1. 11) Przez art. 10 pkt 7 ustawy, o której mowa w odnośniku 1. 12) Przez art. 10 pkt 8 lit. a ustawy, o której mowa w odnośniku 1. 13) W brzmieniu ustalonym przez art. 10 pkt 8 lit. b ustawy, o której mowa w odnośniku 1. 14) Przez art. 10 pkt 9 ustawy, o której mowa w odnośniku 1. 15) W brzmieniu ustalonym przez art. 10 pkt 10 lit. a ustawy, o której mowa w odnośniku 1. 16) Przez art. 10 pkt 10 lit. b ustawy, o której mowa w odnośniku 1. 17) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 10 pkt 11 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 1. 18) W brzmieniu ustalonym przez art. 10 pkt 11 lit. a tiret drugie ustawy, o której mowa w odnośniku 1. 19) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 10 pkt 11 lit. b ustawy, o której mowa w odnośniku 1. 20) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 10 pkt 11 lit. c ustawy, o której mowa w odnośniku 1.
 

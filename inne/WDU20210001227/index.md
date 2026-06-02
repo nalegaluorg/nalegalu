@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 lipca 2021 r. w sprawie statutu Krajowego Centrum Hodowli Zwierząt
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 lipca 2021 r. w sprawie statutu Krajowego Centrum Hodowli Zwierząt Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-01 |
 | Data wydania | 2021-07-06 |
-| Wejście w życie | 2021-07-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1227/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 4 ust. 3 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowl
 § 1.
 Określa się statut Krajowego Centrum Hodowli Zwierząt, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 25 czerwca 2008 r. w sprawie Krajowego Centrum Hodowli Zwierząt (Dz. U. z 2016 r. poz. 1816), które zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 25 czerwca 2008 r. w sprawie Krajowego Centrum Hodowli Zwierząt (Dz. U. z 2016 r. poz. 1816), które zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 25 czerwca 2008 r. w sprawie Krajowego Centrum Hodowli Zwierząt (Dz. U. z 2016 r. poz. 1816), które zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Statut Krajowego Centrum Hodowli Zwierząt
 § 1.
 Krajowe Centrum Hodowli Zwierząt, zwane dalej „Krajowym Centrum”, działa na podstawie ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) oraz niniejszego statutu.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 listopada 2022 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw
+# Ustawa z dnia 16 listopada 2022 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego, ustawę z dnia 18 marca 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw, ustawę z dnia 21 października 2016 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw, ustawę z dnia 4 listopada 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw, ustawę z dnia 25 maja 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw, ustawę z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw, ustawę z dnia 16 kwietnia 2020 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw, ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw, ustawę z dnia 17 grudnia 2021 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2022 oraz ustawę z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-16 |
 | Data wydania | 2022-12-27 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2770/text.pdf) |
 
@@ -32,15 +31,16 @@ source: "eli-html"
 - **5)** zatrudnienie w Agencji Oceny Technologii Medycznych i Taryfikacji, o której mowa w art. 1 pkt 6a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. ” ;
 - **2)** w art. 3 w ust. 8 pkt 9 otrzymuje brzmienie: „
 - **9)** osoby, o której mowa w ust. 5 pkt 9 – właściwa dla danej osoby uczelnia prowadząca kształcenie na kierunku lekarskim lub lekarsko-dentystycznym. ” ;
-- **3)** w art. 5: w ust. 1 w pkt 2: – w lit. d wyraz „albo” zastępuje się wyrazem „lub”, – w lit. e średnik zastępuje się przecinkiem i dodaje się wyraz „albo”, – dodaje się lit. f w brzmieniu: „ f) dokument potwierdzający formalne kwalifikacje lekarza lub lekarza dentysty, spełniające minimalne wymogi kształcenia określone w przepisach prawa Unii Europejskiej wraz z towarzyszącym mu odpowiednim świadectwem, jeżeli dokumenty te zostały wydane w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej przed dniem 1 stycznia 2021 r. i przed dniem 1 stycznia 2021 r. były wymienione w wykazie, o którym mowa w art. 6b; ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+- **3)** w art. 5: w ust. 1 w pkt 2: – w lit. d wyraz „albo” zastępuje się wyrazem „lub”, – w lit. e średnik zastępuje się przecinkiem i dodaje się wyraz „albo”, dodaje się lit. f w brzmieniu: „ dokument potwierdzający formalne kwalifikacje lekarza lub lekarza dentysty, spełniające minimalne wymogi kształcenia określone w przepisach prawa Unii Europejskiej wraz z towarzyszącym mu odpowiednim świadectwem, jeżeli dokumenty te zostały wydane w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej przed dniem 1 stycznia 2021 r. i przed dniem 1 stycznia 2021 r. były wymienione w wykazie, o którym mowa w art. 6b; ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
     - **a)**
+    - **f)**
     - **b)**
 
 6a. Wymóg, o którym mowa w ust. 3 i 4, dotyczy także osoby, która spełnia warunki określone w ust. 1 pkt 1 i 3–5 oraz ust. 2 i posiada dokument potwierdzający formalne kwalifikacje lekarza lub lekarza dentysty, o którym mowa w ust. 1 pkt 2 lit. f, ale nie posiada towarzyszącego mu odpowiedniego świadectwa, które przed dniem 1 stycznia 2021 r. było wymienione w wykazie, o którym mowa w art. 6b. ” ;
 
 - **4)** w art. 5a w pkt 1 w lit. a wyrazy „Republice Federalnej Niemiec, Republice Włoskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej” zastępuje się wyrazami „Republice Federalnej Niemiec lub Republice Włoskiej”;
 - **5)** w art. 5b w ust. 1 w pkt 1 w lit. a wyrazy „Wielkim Księstwie Luksemburga, Republice Federalnej Niemiec lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej” zastępuje się wyrazami „Wielkim Księstwie Luksemburga lub Republice Federalnej Niemiec”;
-- **6)** w art. 7: w ust. 1: – w pkt 1 w lit. a w tiret trzecim na końcu wyraz „albo” zastępuje się wyrazami „, lub” i dodaje się tiret czwarte w brzmieniu: „ – w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej przed dniem 1 stycznia 2021 r. potwierdzający formalne kwalifikacje lekarza lub lekarza dentysty, spełniające minimalne wymogi kształcenia określone w przepisach prawa Unii Europejskiej, jeżeli przed dniem 1 stycznia 2021 r. był wymieniony w wykazie, o którym mowa w art. 6b, albo ” , – w pkt 7 średnik zastępuje się kropką i uchyla się pkt 8, po ust. 1b dodaje się ust. 1c w brzmieniu: „
+- **6)** w art. 7: w ust. 1: w pkt 1 w lit. a w tiret trzecim na końcu wyraz „albo” zastępuje się wyrazami „, lub” i dodaje się tiret czwarte w brzmieniu: „ – w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej przed dniem 1 stycznia 2021 r. potwierdzający formalne kwalifikacje lekarza lub lekarza dentysty, spełniające minimalne wymogi kształcenia określone w przepisach prawa Unii Europejskiej, jeżeli przed dniem 1 stycznia 2021 r. był wymieniony w wykazie, o którym mowa w art. 6b, albo ” , – w pkt 7 średnik zastępuje się kropką i uchyla się pkt 8, po ust. 1b dodaje się ust. 1c w brzmieniu: „
     - **a)**
     - **b)**
 
@@ -147,8 +147,12 @@ source: "eli-html"
 
 1b. Programy polityki zdrowotnej, o których mowa w ust. 1a, finansuje Fundusz w zakresie zakupu produktów leczniczych i wyrobów medycznych dokonanego przez ministra właściwego do spraw zdrowia. ” ;
 
-- **10)** w art. 66: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) żołnierze odbywający zasadniczą służbę wojskową, pełniący terytorialną służbę wojskową, zawodową służbę wojskową w trakcie kształcenia, żołnierze powołani do służby w aktywnej rezerwie w dniach pełnienia tej służby, żołnierze pasywnej rezerwy powołani na ćwiczenia wojskowe w dniach odbywania tych ćwiczeń lub pełniący służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny – o ile nie podlegają obowiązkowi ubezpieczenia z innego tytułu; ” , – pkt 5 otrzymuje brzmienie: „ 5) żołnierze zawodowi; ” , – w pkt 17 skreśla się wyrazy „oraz słuchacze zakładów kształcenia nauczycieli”, – po pkt 20 dodaje się pkt 20a w brzmieniu: „ 20a) absolwenci, którzy odbywają w Rzeczypospolitej Polskiej obowiązkowy staż, oraz osoby odbywające kursy języka polskiego lub kursy przygotowawcze do podjęcia nauki w języku polskim, o których mowa w przepisach odrębnych, niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu; ” , w ust. 2 i 2a wyrazy „pkt 17–20” zastępuje się wyrazami „pkt 17–20a”;
+- **10)** w art. 66: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** żołnierze odbywający zasadniczą służbę wojskową, pełniący terytorialną służbę wojskową, zawodową służbę wojskową w trakcie kształcenia, żołnierze powołani do służby w aktywnej rezerwie w dniach pełnienia tej służby, żołnierze pasywnej rezerwy powołani na ćwiczenia wojskowe w dniach odbywania tych ćwiczeń lub pełniący służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny – o ile nie podlegają obowiązkowi ubezpieczenia z innego tytułu; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** żołnierze zawodowi; ” , – w pkt 17 skreśla się wyrazy „oraz słuchacze zakładów kształcenia nauczycieli”, po pkt 20 dodaje się pkt 20a w brzmieniu: „
+- **20a)** absolwenci, którzy odbywają w Rzeczypospolitej Polskiej obowiązkowy staż, oraz osoby odbywające kursy języka polskiego lub kursy przygotowawcze do podjęcia nauki w języku polskim, o których mowa w przepisach odrębnych, niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu; ” , w ust. 2 i 2a wyrazy „pkt 17–20” zastępuje się wyrazami „pkt 17–20a”;
     - **b)**
 
 - **11)** w art. 67 w ust. 1 dodaje się zdanie drugie w brzmieniu: „ Obowiązek opłacenia składki nie dotyczy osób, o których mowa w art. 66 ust. 1:
@@ -171,11 +175,17 @@ source: "eli-html"
 - **14)** w art. 81: ust. 4 otrzymuje brzmienie: „
     - **a)**
 
-4. Podstawę wymiaru składek dla osób, o których mowa w art. 66 ust. 1 pkt 4, stanowi kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych. ” , w ust. 8: – pkt 3 otrzymuje brzmienie: „ 3) osób, o których mowa w art. 66 ust. 1 pkt 19, jest kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych; ” , – pkt 5 otrzymuje brzmienie: „ 5) osób, o których mowa w art. 66 ust. 1 pkt 24, pobierających zasiłek dla bezrobotnych lub stypendium jest kwota odpowiadająca wysokości pobieranego zasiłku dla bezrobotnych lub kwota stypendium; ” , – pkt 6 otrzymuje brzmienie: „ 6) osób, o których mowa w art. 66 ust. 1 pkt 25, pobierających zasiłek przedemerytalny lub świadczenie przedemerytalne jest kwota zasiłku przedemerytalnego lub świadczenia przedemerytalnego; ” , – pkt 9 otrzymuje brzmienie: „ 9) osób, o których mowa w art. 66 ust. 1 pkt 28, jest kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych; ” , – uchyla się pkt 9a;
+4. Podstawę wymiaru składek dla osób, o których mowa w art. 66 ust. 1 pkt 4, stanowi kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych. ” , w ust. 8: pkt 3 otrzymuje brzmienie: „
 
 - **b)**
-- **15)** w art. 86: w ust. 1: – uchyla się pkt 2, 4, 6, 7 i 12, – pkt 13 otrzymuje brzmienie: „ 13) osób, o których mowa w art. 66 ust. 1 pkt 32 i 32a, opłaca Zakład Ubezpieczeń Społecznych; ” , – uchyla się pkt 14, ust. 2 otrzymuje brzmienie: „
+- **3)** osób, o których mowa w art. 66 ust. 1 pkt 19, jest kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** osób, o których mowa w art. 66 ust. 1 pkt 24, pobierających zasiłek dla bezrobotnych lub stypendium jest kwota odpowiadająca wysokości pobieranego zasiłku dla bezrobotnych lub kwota stypendium; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** osób, o których mowa w art. 66 ust. 1 pkt 25, pobierających zasiłek przedemerytalny lub świadczenie przedemerytalne jest kwota zasiłku przedemerytalnego lub świadczenia przedemerytalnego; ” , pkt 9 otrzymuje brzmienie: „
+- **9)** osób, o których mowa w art. 66 ust. 1 pkt 28, jest kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych; ” , – uchyla się pkt 9a;
+- **15)** w art. 86: w ust. 1: – uchyla się pkt 2, 4, 6, 7 i 12, pkt 13 otrzymuje brzmienie: „
     - **a)**
+
+- **13)** osób, o których mowa w art. 66 ust. 1 pkt 32 i 32a, opłaca Zakład Ubezpieczeń Społecznych; ” , – uchyla się pkt 14, ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Składka na ubezpieczenie zdrowotne osób, o których mowa w ust. 1 pkt 3, 5, 8–11, 13–13a, 15 i 17, jest finansowana z budżetu państwa. ” , uchyla się ust. 3;
@@ -201,8 +211,12 @@ source: "eli-html"
 - **17)** po art. 95b dodaje się art. 95ba w brzmieniu: „ Art. 95ba. Minister właściwy do spraw zdrowia może opracowywać dokumenty inne niż w art. 95a i art. 95b, określające sposób wsparcia działań mających na celu zwiększenie dostępności do świadczeń opieki zdrowotnej w zakresie, o którym mowa w art. 95a ust. 1. ” ;
 - **18)** w art. 95n w ust. 14 pkt 1 otrzymuje brzmienie: „
 - **1)** niezawarcia umowy, o której mowa w art. 159a, w terminie trzech miesięcy od dnia ogłoszenia wykazu, o którym mowa w ust. 1, albo ” ;
-- **19)** w art. 97: w ust. 3: – uchyla się pkt 2b, – pkt 3c otrzymuje brzmienie: „ 3c) dokonywanie zwrotu kosztów w przypadku świadczeń gwarantowanych finansowanych z budżetu państwa, z zastrzeżeniem art. 42b ust. 2; ” , – po pkt 3c dodaje się pkt 3d i 3e w brzmieniu: „ 3d) finansowanie zakupu szczepionek, o których mowa w art. 18 ust. 5 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, oraz produktów leczniczych, o których mowa w art. 18a ust. 2 tej ustawy; 3e) finansowanie zakupu produktów leczniczych i wyrobów medycznych, o których mowa w art. 48 ust. 1b; ” , uchyla się ust. 3c, uchyla się ust. 8;
+- **19)** w art. 97: w ust. 3: – uchyla się pkt 2b, pkt 3c otrzymuje brzmienie: „
     - **a)**
+
+- **3c)** dokonywanie zwrotu kosztów w przypadku świadczeń gwarantowanych finansowanych z budżetu państwa, z zastrzeżeniem art. 42b ust. 2; ” , po pkt 3c dodaje się pkt 3d i 3e w brzmieniu: „
+- **3d)** finansowanie zakupu szczepionek, o których mowa w art. 18 ust. 5 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, oraz produktów leczniczych, o których mowa w art. 18a ust. 2 tej ustawy;
+- **3e)** finansowanie zakupu produktów leczniczych i wyrobów medycznych, o których mowa w art. 48 ust. 1b; ” , uchyla się ust. 3c, uchyla się ust. 8;
     - **b)**
     - **c)**
 
@@ -233,7 +247,7 @@ source: "eli-html"
 - **5)** koszty Funduszu Kredytowania Studiów Medycznych ujęte w planie finansowym tego Funduszu,
 - **6)** koszty ujęte w planie finansowym Funduszu Rozwiązywania Problemów Hazardowych, o którym mowa w art. 88 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2022 r. poz. 888, 1301 i 1751),
 - **7)** odpis dla Agencji Badań Medycznych, o którym mowa w art. 97 ust. 3e, ujęty w planie finansowym Funduszu,
-- **8)** koszty ujęte w planie finansowym Funduszu Kompensacyjnego Szczepień Ochronnych, o którym mowa w art. 17b ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi po wyłączeniu planowanych transferów środków finansowych otrzymanych ze źródeł, o których mowa w pkt 1–8. ” ;
+- **8)** koszty ujęte w planie finansowym Funduszu Kompensacyjnego Szczepień Ochronnych, o którym mowa w art. 17b ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi – po wyłączeniu planowanych transferów środków finansowych otrzymanych ze źródeł, o których mowa w pkt 1–8. ” ;
 - **27)** w art. 131d ust. 2 otrzymuje brzmienie: „
 
 2. W przypadku wystąpienia w trakcie roku oszczędności w budżecie państwa, w szczególności w części budżetowej ministra właściwego do spraw zdrowia, w tym w ramach programów wieloletnich, jest możliwe zwiększenie dotacji podmiotowej, o której mowa w ust. 1, lub przeznaczenie środków na zwiększenie funduszu zapasowego Funduszu, o którym mowa w art. 115 ust. 1, z przeznaczeniem na finansowanie świadczeń gwarantowanych. ” ;
@@ -303,7 +317,7 @@ source: "eli-html"
 
 - **1)** ministra właściwego do spraw zdrowia,
 - **2)** ministra właściwego do spraw wewnętrznych,
-- **3)** Ministra Obrony Narodowej łączna kwota środków z budżetu państwa może być wyższa niż wartość kosztorysowa inwestycji określona przy rozpoczęciu jej realizacji, obejmująca koszty przygotowania do realizacji, koszty robót budowlanych, koszty nadzoru nad wykonywaniem robót budowlanych i koszty pierwszego wyposażenia. ” .
+- **3)** Ministra Obrony Narodowej – łączna kwota środków z budżetu państwa może być wyższa niż wartość kosztorysowa inwestycji określona przy rozpoczęciu jej realizacji, obejmująca koszty przygotowania do realizacji, koszty robót budowlanych, koszty nadzoru nad wykonywaniem robót budowlanych i koszty pierwszego wyposażenia. ” .
 
 **Art. 6.** W ustawie z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2022 r. poz. 1681) wprowadza się następujące zmiany:
 
@@ -368,7 +382,7 @@ source: "eli-html"
 - **1)** wprowadzenie do wyliczenia otrzymuje brzmienie: „ W latach 2020–2022 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy, w związku z realizacją zadania, o którym mowa w art. 43b ustawy zmienianej w art. 1, wynosi 61 820 tys. zł, z tym że w poszczególnych latach wyniesie odpowiednio: ” ;
 - **2)** uchyla się pkt 4–10.
 
-**Art. 13.** W ustawie z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw (Dz. U. poz. 1291, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw (Dz. U. poz. 1291, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1493, 2112, 2345 i 2401 oraz z 2021 r. poz. 2232 i 2459.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: uchyla się pkt 37, pkt 40 otrzymuje brzmienie: „
     - **a)**
@@ -406,13 +420,13 @@ source: "eli-html"
 - **7)** publicznym uczelniom zawodowym, które w roku akademickim 2022/2023 prowadzą studia na co najmniej jednym kierunku przygotowującym do wykonywania zawodu, o którym mowa w art. 68 ust. 1 pkt 4, 5, 7 i 8 ustawy o szkolnictwie wyższym.”
 - **2)** w ust. 9 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „
 - **6)** ust. 1 pkt 6 – działań związanych z rozwojem potencjału dydaktycznego;
-- **7)** ust. 1 pkt 7 – działań związanych z rozwojem potencjału dydaktycznego w zakresie kształcenia na studiach przygotowujących do wykonywania zawodu, o którym mowa w art. 68 ust. 1 pkt 4, 5, 7 i 8 ustawy o szkolnictwie wyższym. ” . W ustawie z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1855) art. 11 otrzymuje brzmienie: „ W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561 i 2674) art. 12a otrzymuje brzmienie: „ Przepisów ustawy, z wyłączeniem art. 48 ust. 1b, przepisów określających zasady i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej, przepisów określających kolejność udzielania świadczeń opieki zdrowotnej w szpitalach, świadczeń specjalistycznych w ambulatoryjnej opiece zdrowotnej oraz stacjonarnych i całodobowych świadczeń zdrowotnych innych niż szpitalne oraz przepisów określających prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie stosuje się wobec osób, którym świadczenia zdrowotne są udzielane bezpłatnie, bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego, na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.).”. ” . ” .
+- **7)** ust. 1 pkt 7 – działań związanych z rozwojem potencjału dydaktycznego w zakresie kształcenia na studiach przygotowujących do wykonywania zawodu, o którym mowa w art. 68 ust. 1 pkt 4, 5, 7 i 8 ustawy o szkolnictwie wyższym. ” . W ustawie z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1855) art. 11 otrzymuje brzmienie: „ W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561 i 2674) art. 12a otrzymuje brzmienie: „ Przepisów ustawy, z wyłączeniem art. 48 ust. 1b, przepisów określających zasady i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej, przepisów określających kolejność udzielania świadczeń opieki zdrowotnej w szpitalach, świadczeń specjalistycznych w ambulatoryjnej opiece zdrowotnej oraz stacjonarnych i całodobowych świadczeń zdrowotnych innych niż szpitalne oraz przepisów określających prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie stosuje się wobec osób, którym świadczenia zdrowotne są udzielane bezpłatnie, bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego, na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655, 1855 i 2600.).”. ” . ” .
 
 **Art. 16.** W 2023 r. składki na ubezpieczenie zdrowotne za osoby, o których mowa w art. 67 ust. 1 zdanie drugie ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, należne za 2022 r. w części nieopłaconej do końca 2022 r. mogą zostać sfinansowane z budżetu państwa z rezerwy celowej na zadania w ochronie zdrowia, na wniosek właściwego dysponenta zobowiązanego w 2022 r. do ich finansowania.
 
 **Art. 17.**
 
-1. W 2023 r. Prezes Narodowego Funduszu Zdrowia, na wniosek ministra właściwego do spraw zdrowia, przekaże środki z funduszu zapasowego, o którym mowa w art. 115 ustawy zmienianej w art. 2, w kwocie nieprzekraczającej 5 500 mln zł na zasilenie Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.), z przeznaczeniem, w szczególności, na finansowanie szczepień ochronnych związanych z przeciwdziałaniem COVID-19 oraz na finansowanie kosztów związanych z działalnością infolinii Narodowego Programu Szczepień.
+1. W 2023 r. Prezes Narodowego Funduszu Zdrowia, na wniosek ministra właściwego do spraw zdrowia, przekaże środki z funduszu zapasowego, o którym mowa w art. 115 ustawy zmienianej w art. 2, w kwocie nieprzekraczającej 5 500 mln zł na zasilenie Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687.), z przeznaczeniem, w szczególności, na finansowanie szczepień ochronnych związanych z przeciwdziałaniem COVID-19 oraz na finansowanie kosztów związanych z działalnością infolinii Narodowego Programu Szczepień.
 
 2. Fundusz zapasowy Narodowego Funduszu Zdrowia zmniejsza się o wartość środków przekazanych zgodnie z ust. 1.
 
@@ -479,5 +493,5 @@ source: "eli-html"
 
 **Art. 28.** Jeżeli lekarz uzyskał tytuł zawodowy lekarza lub lekarza dentysty przed dniem wejścia w życie niniejszej ustawy termin, o którym mowa w art. 15p ust. 2 ustawy zmienianej w art. 1, liczy się od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 29.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem art. 2 pkt 17 i 27, art. 6, art. 11, art. 13, art. 14, art. 24, art. 25 ust. 2 oraz art. 26 ust. 2, które wchodzą w życie z dniem ogłoszenia.
+**Art. 29.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem art. 2 pkt 17 i 27, art. 6, art. 11, art. 13, art. 14, art. 24, art. 25 ust. 2 oraz art. 26 ust. 2, które wchodzą w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego, ustawę z dnia 18 marca 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw, ustawę z dnia 21 października 2016 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw, ustawę z dnia 4 listopada 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw, ustawę z dnia 25 maja 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw, ustawę z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw, ustawę z dnia 16 kwietnia 2020 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw, ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw, ustawę z dnia 17 grudnia 2021 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2022 oraz ustawę z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1493, 2112, 2345 i 2401 oraz z 2021 r. poz. 2232 i 2459. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655, 1855 i 2600. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687.
 

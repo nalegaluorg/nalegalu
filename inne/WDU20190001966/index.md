@@ -26,20 +26,19 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001966) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1966/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej Rozdział 1 – Przepisy ogólne Rozdział 2 – Minimalne warunki utrzymywania bydła Rozdział 3 – Minimalne warunki utrzymywania koni Rozdział 4 – Minimalne warunki utrzymywania owiec Rozdział 5 – Minimalne warunki utrzymywania kóz Rozdział 6 – Minimalne warunki utrzymywania indyków, gęsi, kaczek, strusi, przepiórek i perlic Rozdział 7 – Minimalne warunki utrzymywania zwierząt futerkowych Rozdział 8 – Minimalne warunki utrzymywania jeleni i danieli
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. z 2017 r. poz. 127), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 22 grudnia 2017 r. zmieniającym rozporządzenie w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. z 2018 r. poz. 116).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 grudnia 2017 r. zmieniającego rozporządzenie w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. z 2018 r. poz. 116), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 grudnia 2017 r. zmieniającego rozporządzenie w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. z 2018 r. poz. 116), które stanowią: „
 § 2.
 Do gospodarstw, w których w dniu wejścia w życie niniejszego rozporządzenia są utrzymywane lisy polarne, lisy pospolite lub jenoty, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2018 r.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej
-Na podstawie art. 12 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2019 r. poz. 122 i 1123) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2018 r. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii EuropejskiejMinister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Przepisy niniejszego rozporządzenia wdrażają w zakresie w nim określonym postanowienia dyrektywy Rady 98/58/WE z dnia 20 lipca 1998 r. dotyczącej ochrony zwierząt gospodarskich (Dz. Urz. WE L 221 z 08.08.1998, str. 23 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 23, str. 316). Na podstawie art. 12 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2019 r. poz. 122 i 1123) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa minimalne warunki utrzymywania:
 1)
@@ -47,8 +46,7 @@ bydła, z wyjątkiem cieląt,
 2)
 koni, owiec, kóz, strusi, przepiórek, perlic, lisów polarnych, lisów pospolitych, jenotów, norek, tchórzy, królików, szynszyli, nutrii, jeleni i danieli,
 3)
-indyków, gęsi i kaczek, w gospodarstwach utrzymujących co najmniej 100 sztuk tych ptaków
-odrębnie dla każdego gatunku, w tym obsadę zwierząt w zależności od systemów utrzymywania.
+indyków, gęsi i kaczek, w gospodarstwach utrzymujących co najmniej 100 sztuk tych ptaków – odrębnie dla każdego gatunku, w tym obsadę zwierząt w zależności od systemów utrzymywania.
 § 2.
 1.
 Zwierzęta wymienione w § 1 utrzymuje się:
@@ -129,6 +127,7 @@ Jelenie, daniele, indyki, gęsi, kaczki, strusie, przepiórki, perlice, lisy pol
 Chore lub ranne zwierzęta wymienione w § 1 niezwłocznie otacza się opieką, a w razie potrzeby izoluje.
 2.
 Jeżeli wymaga tego stan zdrowia chorego lub rannego zwierzęcia wymienionego w § 1, zwierzę to utrzymuje się na ściółce.
+Minimalne warunki utrzymywania bydła
 § 11.
 1.
 Bydło, z wyjątkiem cieląt, utrzymywane w systemie, o którym mowa w § 2 ust. 1 pkt 1, utrzymuje się:
@@ -218,6 +217,7 @@ jałówek – co najmniej 10 m2;
 krów – co najmniej 15 m2;
 3)
 buhajów – co najmniej 20 m2.
+Minimalne warunki utrzymywania koni
 § 13.
 1.
 Konie utrzymywane w systemie, o którym mowa w § 2 ust. 1 pkt 1, powinny być utrzymywane na ściółce:
@@ -263,6 +263,7 @@ klaczy ze źrebięciem – co najmniej 12 m2.
 W przypadku utrzymywania koni w systemie, o którym mowa w § 2 ust. 1 pkt 2, powierzchnia utrzymywania, w przeliczeniu na jednego dorosłego konia, powinna wynosić co najmniej 0,1 ha.
 2.
 Powierzchnię, o której mowa w ust. 1, zabezpiecza się w sposób uniemożliwiający ucieczkę koni, chyba że są to konie żyjące w dzikich lub półdzikich warunkach, w tym konie żyjące na obszarach, na których utworzono, ustanowiono lub wyznaczono formy ochrony przyrody, o których mowa w przepisach o ochronie przyrody.
+Minimalne warunki utrzymywania owiec
 § 16.
 1.
 Owce utrzymywane w systemie, o którym mowa w § 2 ust. 1 pkt 1, utrzymuje się:
@@ -294,6 +295,7 @@ jarek – co najmniej 0,8 m2;
 tryczków – co najmniej 1,5 m2;
 5)
 skopków – co najmniej 0,6 m2.
+Minimalne warunki utrzymywania kóz
 § 17.
 1.
 Kozy utrzymywane w systemie, o którym mowa w § 2 ust. 1 pkt 1, utrzymuje się:
@@ -336,6 +338,7 @@ kozłów reproduktorów – co najmniej 3 m2;
 koźląt – co najmniej 1 m2.
 4.
 Powierzchnia wybiegu, o którym mowa w § 17 ust. 3, w przeliczeniu na jedną kozę, powinna wynosić co najmniej 4 m2, a w przypadku kozłów – co najmniej 6 m2.
+Minimalne warunki utrzymywania indyków, gęsi, kaczek, strusi, przepiórek i perlic
 § 19.
 1.
 Indyki utrzymywane w systemie, o którym mowa w § 2 ust. 1 pkt 1, utrzymuje się bez klatek.
@@ -458,6 +461,7 @@ Powierzchnia wybiegu, o którym mowa w ust. 1, w przeliczeniu na jedną sztukę,
 W przypadku utrzymywania perlic w systemie, o którym mowa w § 2 ust. 1 pkt 2, perlicom zapewnia się miejsce wyposażone w grzędy noclegowe i gniazda. Przepis § 27 ust. 3 stosuje się odpowiednio.
 2.
 Maksymalna obsada na m2 powierzchni powinna wynosić 15 sztuk.
+Minimalne warunki utrzymywania zwierząt futerkowych
 § 29.
 1.
 Lisy polarne, lisy pospolite, jenoty, norki i tchórze utrzymuje się pojedynczo lub grupowo na wolnym powietrzu, w zadaszonych klatkach uniemożliwiających tym zwierzętom wydostawanie się na zewnątrz.
@@ -475,7 +479,7 @@ Parterowych i piętrowych klatek dla norek i tchórzy nie ustawia się jedna na 
 Klatkę dla kotnych i odchowujących młode samic norek i tchórzy oraz odsadzonych młodych wyposaża się w domek wykotowy ze ściółką.
 1g.
 Pod klatkami umieszcza się materiał ułatwiający usuwanie odchodów.
-1h.
+1hDodany przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 grudnia 2017 r. zmieniającego rozporządzenie w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. z 2018 r. poz. 116), które weszło w życie z dniem 1 czerwca 2018 r..
 Powierzchnię gospodarstwa, na której są umieszczone klatki, w których utrzymuje się lisy polarne, lisy pospolite lub jenoty, zabezpiecza się trwałym ogrodzeniem o wysokości co najmniej 2 m, wykonanym z siatki lub innego materiału odpornego na przegryzienie, o otworach, których średnica uniemożliwia przedostanie się tych zwierząt, i umieszcza się to ogrodzenie w podłożu co najmniej na 50 cm na całej długości.
 2.
 Zwierzęta futerkowe stada podstawowego gatunków, o których mowa w ust. 1, utrzymuje się pojedynczo.
@@ -522,8 +526,7 @@ norek i tchórzy utrzymywanych grupowo, przy utrzymywaniu więcej niż 2 sztuk w
 a)
 wysokość – co najmniej 0,45 m,
 b)
-powierzchnię podłogi, o której mowa w pkt 5 lit. b, powiększa się co najmniej o 0,085 m2 na każdą dodatkową norkę lub tchórza, przy czym szerokość tej podłogi powinna wynosić co najmniej 0,3 m, wyłączając domek wykotowy, a długość co najmniej 0,7 m, wyłączając domek wykotowy
-z tym, że w przypadku klatek piętrowych wysokość klatki oraz długość i szerokość podłogi mierzy się u podstawy dolnej części tej klatki.
+powierzchnię podłogi, o której mowa w pkt 5 lit. b, powiększa się co najmniej o 0,085 m2 na każdą dodatkową norkę lub tchórza, przy czym szerokość tej podłogi powinna wynosić co najmniej 0,3 m, wyłączając domek wykotowy, a długość co najmniej 0,7 m, wyłączając domek wykotowy – z tym, że w przypadku klatek piętrowych wysokość klatki oraz długość i szerokość podłogi mierzy się u podstawy dolnej części tej klatki.
 4.
 Klatki dla kotnych i odchowujących młode samic lisów i jenotów wyposaża się w domek wykotowy.
 § 30.
@@ -607,6 +610,7 @@ kojcach.
 Powierzchnia klatki lub kojca, o których mowa w ust. 1, w przeliczeniu na jedną sztukę, powinna wynosić co najmniej 0,4 m2, a dla samicy z młodymi – co najmniej 1,5 m2.
 3.
 Klatkę lub kojec dla nutrii wyposaża się w domek wykotowy.
+Minimalne warunki utrzymywania jeleni i danieli
 § 33.
 1.
 Jeleniom i danielom utrzymywanym w systemie, o którym mowa w § 2 ust. 1 pkt 2, zapewnia się w okresie pastwiskowym stały dostęp do pastwiska o powierzchni nie mniejszej niż 1 ha.
@@ -648,22 +652,37 @@ danieli do 12. miesiąca życia – co najmniej 1 m2;
 4)
 danieli powyżej 12. miesiąca życia – co najmniej 1,5 m2.
 § 35.
-Rozporządzenie wchodzi w życie z dniem 30 czerwca 2010 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Przepisy niniejszego rozporządzenia wdrażają w zakresie w nim określonym postanowienia dyrektywy Rady 98/58/WE z dnia 20 lipca 1998 r. dotyczącej ochrony zwierząt gospodarskich (Dz. Urz. WE L 221 z 08.08.1998, str. 23 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 23, str. 316). 3) Dodany przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 grudnia 2017 r. zmieniającego rozporządzenie w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. z 2018 r. poz. 116), które weszło w życie z dniem 1 czerwca 2018 r.
+Rozporządzenie wchodzi w życie z dniem 30 czerwca 2010 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Przepisy niniejszego rozporządzenia wdrażają w zakresie w nim określonym postanowienia dyrektywy Rady 98/58/WE z dnia 20 lipca 1998 r. dotyczącej ochrony zwierząt gospodarskich (Dz. Urz. WE L 221 z 08.08.1998, str. 23 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 23, str. 316). 3) Dodany przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 grudnia 2017 r. zmieniającego rozporządzenie w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. z 2018 r. poz. 116), które weszło w życie z dniem 1 czerwca 2018 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Minimalne warunki utrzymywania bydła
+#### Rozdział 2 – Minimalne warunki utrzymywania bydła
 
-#### Rozdział 3 Minimalne warunki utrzymywania koni
+#### Rozdział 3 – Minimalne warunki utrzymywania koni
 
-#### Rozdział 4 Minimalne warunki utrzymywania owiec
+#### Rozdział 4 – Minimalne warunki utrzymywania owiec
 
-#### Rozdział 5 Minimalne warunki utrzymywania kóz
+#### Rozdział 5 – Minimalne warunki utrzymywania kóz
 
-#### Rozdział 6 Minimalne warunki utrzymywania indyków, gęsi, kaczek, strusi, przepiórek i perlic
+#### Rozdział 6 – Minimalne warunki utrzymywania indyków, gęsi, kaczek, strusi, przepiórek i perlic
 
-#### Rozdział 7 Minimalne warunki utrzymywania zwierząt futerkowych
+#### Rozdział 7 – Minimalne warunki utrzymywania zwierząt futerkowych
 
-#### Rozdział 8 Minimalne warunki utrzymywania jeleni i danieli
+#### Rozdział 8 – Minimalne warunki utrzymywania jeleni i danieli
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

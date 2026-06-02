@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 czerwca 2024 r. w sprawie metod badania jakości paliw ciekłych
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 czerwca 2024 r. w sprawie metod badania jakości paliw ciekłych Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,27 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-26 |
 | Data wydania | 2024-07-17 |
-| Wejście w życie | 2024-08-01 |
 | Ostatnia zmiana | 2024-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1058/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Metody badania jakości paliw ciekłych
 Treść rozporządzenia
-Na podstawie art. 26 pkt 1 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2023 r. poz. 846 i 1681) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 98/70/WE Parlamentu Europejskiego i Rady z dnia 13 października 1998 r. odnoszącej się do jakości benzyny i olejów napędowych oraz zmieniającej dyrektywę Rady 93/12/EWG (Dz. Urz. WE L 350 z 28.12.1998, str. 58 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 23, str. 182, Dz. Urz. UE L 287 z 14.11.2000, str. 46 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 26, str. 65, Dz. Urz. UE L 76 z 22.03.2003, str. 10 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 31, str. 160, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 140 z 05.06.2009, str. 88, Dz. Urz. UE L 147 z 02.06.2011, str. 15, Dz. Urz. UE L 170 z 11.06.2014, str. 62, Dz. Urz. UE L 116 z 07.05.2015, str. 25, Dz. Urz. UE L 239 z 15.09.2015, str. 1, Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 261 z 14.10.2019, str. 100, Dz. Urz. UE L 2023/2413 z 31.10.2023 oraz Dz. Urz. UE L 2023/2413 z 07.02.2024). Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 19 marca 2024 r. pod numerem 2024/0156/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 26 pkt 1 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2023 r. poz. 846 i 1681) zarządza się, co następuje:
 § 1.
 Metody badania jakości paliw ciekłych:
 1)
 benzyn silnikowych, oznaczonych kodami CN 2710 12 45 i 2710 12 49, stosowanych w szczególności w pojazdach oraz rekreacyjnych jednostkach pływających, wyposażonych w silniki z zapłonem iskrowym,
 2)
-oleju napędowego, oznaczonego kodami CN 2710 19 43 i 2710 20 11, stosowanego w szczególności w pojazdach, w tym ciągnikach rolniczych, maszynach nieporuszających się po drogach, a także rekreacyjnych jednostkach pływających, wyposażonych w silniki z zapłonem samoczynnym
-są określone w załączniku do rozporządzenia.
+oleju napędowego, oznaczonego kodami CN 2710 19 43 i 2710 20 11, stosowanego w szczególności w pojazdach, w tym ciągnikach rolniczych, maszynach nieporuszających się po drogach, a także rekreacyjnych jednostkach pływających, wyposażonych w silniki z zapłonem samoczynnym – są określone w załączniku do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 98/70/WE Parlamentu Europejskiego i Rady z dnia 13 października 1998 r. odnoszącej się do jakości benzyny i olejów napędowych oraz zmieniającej dyrektywę Rady 93/12/EWG (Dz. Urz. WE L 350 z 28.12.1998, str. 58 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 23, str. 182, Dz. Urz. UE L 287 z 14.11.2000, str. 46 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 26, str. 65, Dz. Urz. UE L 76 z 22.03.2003, str. 10 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 31, str. 160, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 140 z 05.06.2009, str. 88, Dz. Urz. UE L 147 z 02.06.2011, str. 15, Dz. Urz. UE L 170 z 11.06.2014, str. 62, Dz. Urz. UE L 116 z 07.05.2015, str. 25, Dz. Urz. UE L 239 z 15.09.2015, str. 1, Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 261 z 14.10.2019, str. 100, Dz. Urz. UE L 2023/2413 z 31.10.2023 oraz Dz. Urz. UE L 2023/2413 z 07.02.2024). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 19 marca 2024 r. pod numerem 2024/0156/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 25 marca 2010 r. w sprawie metod badania jakości paliw ciekłych (Dz. U. z 2017 r. poz. 247), które zgodnie z art. 32 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 25 marca 2010 r. w sprawie metod badania jakości paliw ciekłych (Dz. U. z 2017 r. poz. 247), które zgodnie z art. 32 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 98/70/WE Parlamentu Europejskiego i Rady z dnia 13 października 1998 r. odnoszącej się do jakości benzyny i olejów napędowych oraz zmieniającej dyrektywę Rady 93/12/EWG (Dz. Urz. WE L 350 z 28.12.1998, str. 58 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 23, str. 182, Dz. Urz. UE L 287 z 14.11.2000, str. 46 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 26, str. 65, Dz. Urz. UE L 76 z 22.03.2003, str. 10 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 31, str. 160, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 140 z 05.06.2009, str. 88, Dz. Urz. UE L 147 z 02.06.2011, str. 15, Dz. Urz. UE L 170 z 11.06.2014, str. 62, Dz. Urz. UE L 116 z 07.05.2015, str. 25, Dz. Urz. UE L 239 z 15.09.2015, str. 1, Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 261 z 14.10.2019, str. 100, Dz. Urz. UE L 2023/2413 z 31.10.2023 oraz Dz. Urz. UE L 2023/2413 z 07.02.2024). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 19 marca 2024 r. pod numerem 2024/0156/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 25 marca 2010 r. w sprawie metod badania jakości paliw ciekłych (Dz. U. z 2017 r. poz. 247), które zgodnie z art. 32 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Metody badania jakości paliw ciekłych
 I.
-Metody badania jakości benzyn silnikowych, oznaczonych kodami CN 2710 12 45 i 2710 12 49, stosowanych w szczególności w pojazdach oraz rekreacyjnych jednostkach pływających, wyposażonych w silniki z zapłonem iskrowym
+Metody badania jakości benzyn silnikowych, oznaczonych kodami CN 2710 12 45 i 2710 12 49, stosowanych w szczególności w pojazdach oraz rekreacyjnych jednostkach pływających, wyposażonych w silniki z zapłonem iskrowymOpracowane na podstawie normy PN-EN 228 Paliwa do pojazdów samochodowych – Benzyna bezołowiowa – Wymagania i metody badań.
 1.
 Liczbę oktanową badawczą (RON) oznacza się, stosując znormalizowany silnik badawczy i znormalizowane warunki pracy tego silnika, porównując charakterystyki stukowego spalania benzyny silnikowej z charakterystykami mieszanek podstawowych paliw wzorcowych o znanych liczbach oktanowych.
 1.1.
@@ -200,8 +197,7 @@ VLI – indeks lotności,
 2)
 DVPE – równoważnik prężności par suchych [kPa] oznaczony za pomocą metody, o której mowa w pkt 14,
 3)
-E70 – procent odparowania do temperatury 70C [% ( V/V )] oznaczony za pomocą metody, o której mowa w pkt 15
-zgodnie z normą PN-EN 228.
+E70 – procent odparowania do temperatury 70C [% ( V/V )] oznaczony za pomocą metody, o której mowa w pkt 15 – zgodnie z normą PN-EN 228.
 17.
 Zawartość manganu oznacza się metodą:
 1)
@@ -215,7 +211,7 @@ W przypadku oznaczania zawartości manganu metodą, o której mowa w pkt 17 ppkt
 18.
 Do dokonywania interpretacji wyników badań stosuje się kryteria określone w normie PN-EN ISO 4259–2.
 II.
-Metody badania jakości oleju napędowego, oznaczonego kodami CN 2710 19 43 i 2710 20 11, stosowanego w szczególności w pojazdach, w tym ciągnikach rolniczych, maszynach nieporuszających się po drogach, a także rekreacyjnych jednostkach pływających, wyposażonych w silniki z zapłonem samoczynnym
+Metody badania jakości oleju napędowego, oznaczonego kodami CN 2710 19 43 i 2710 20 11, stosowanego w szczególności w pojazdach, w tym ciągnikach rolniczych, maszynach nieporuszających się po drogach, a także rekreacyjnych jednostkach pływających, wyposażonych w silniki z zapłonem samoczynnymOpracowane na podstawie normy PN-EN 590 Paliwa do pojazdów samochodowych – Oleje napędowe – Wymagania i metody badań.
 1.
 Liczbę cetanową oznacza się metodą:
 1)
@@ -249,8 +245,7 @@ Indeks cetanowy oznacza się metodą równania czterech zmiennych, na podstawie 
 1)
 gęstości w temperaturze 15C oznaczonej metodami, o których mowa w pkt 3,
 2)
-temperatur, w których oddestylowuje 10% ( V/V ), 50% ( V/V ) i 90% ( V/V ), określonych metodą, o której mowa w pkt 15
-wykorzystując określone zależności matematyczne.
+temperatur, w których oddestylowuje 10% ( V/V ), 50% ( V/V ) i 90% ( V/V ), określonych metodą, o której mowa w pkt 15 – wykorzystując określone zależności matematyczne.
 2.1.
 Sposób obliczenia i podawania wyników, precyzję metody oraz sposób sporządzenia sprawozdania z badania określa norma PN-EN ISO 4264.
 3.
@@ -432,6 +427,5 @@ Zawartość manganu oblicza się poprzez porównanie do stężeń wzorcowych.
 19.2.
 Sposób wykonania badania, rodzaj stosowanej aparatury i jej przygotowanie, sposób wykonania oznaczenia, obliczenia i podawania wyników, precyzję metody oraz sposób sporządzenia protokołu badania określa norma PN-EN 16576.
 20.
-Do dokonywania interpretacji wyników badań stosuje się kryteria określone w normie PN-EN ISO 4259–2.
-1) Opracowane na podstawie normy PN-EN 228 Paliwa do pojazdów samochodowych – Benzyna bezołowiowa – Wymagania i metody badań. 2) Opracowane na podstawie normy PN-EN 590 Paliwa do pojazdów samochodowych – Oleje napędowe – Wymagania i metody badań.
+Do dokonywania interpretacji wyników badań stosuje się kryteria określone w normie PN-EN ISO 4259–2. 1) Opracowane na podstawie normy PN-EN 228 Paliwa do pojazdów samochodowych – Benzyna bezołowiowa – Wymagania i metody badań. 2) Opracowane na podstawie normy PN-EN 590 Paliwa do pojazdów samochodowych – Oleje napędowe – Wymagania i metody badań.
 

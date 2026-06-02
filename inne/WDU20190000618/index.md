@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 18 stycznia 2019 r. w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące
+# Rozporządzenie Ministra Infrastrukturyz dnia 18 stycznia 2019 r. w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-18 |
 | Data wydania | 2019-04-02 |
-| Wejście w życie | 2019-07-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000618) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/618/text.pdf) |
 
@@ -53,7 +52,7 @@ NOTAM – (Notice To Airmen) wiadomość rozpowszechnianą za pomocą środków 
 10)
 R – (Restricted Area) strefę ograniczoną, w rozumieniu art. 2 pkt 111 rozporządzenia SERA;
 11)
-rozporządzenie SERA – rozporządzenie wykonawcze Komisji (UE) nr 923/2012 z dnia 26 września 2012 r. ustanawiające wspólne zasady w odniesieniu do przepisów lotniczych i operacyjnych dotyczących służb i procedur żeglugi powietrznej oraz zmieniające rozporządzenie wykonawcze (WE) nr 1035/2011 oraz rozporządzenia (WE) nr 1265/2007, (WE) nr 1794/2006, (WE) nr 730/2006, (WE) nr 1033/2006 i (UE) nr 255/2010 (Dz. Urz. UE L 281 z 13.10.2012, str. 1, z późn. zm.);
+rozporządzenie SERA – rozporządzenie wykonawcze Komisji (UE) nr 923/2012 z dnia 26 września 2012 r. ustanawiające wspólne zasady w odniesieniu do przepisów lotniczych i operacyjnych dotyczących służb i procedur żeglugi powietrznej oraz zmieniające rozporządzenie wykonawcze (WE) nr 1035/2011 oraz rozporządzenia (WE) nr 1265/2007, (WE) nr 1794/2006, (WE) nr 730/2006, (WE) nr 1033/2006 i (UE) nr 255/2010 (Dz. Urz. UE L 281 z 13.10.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 63 z 06.03.2015, str. 1 oraz Dz. Urz. UE L 196 z 21.07.2016, str. 3.;
 12)
 TRA – (Temporary Reserved Area) strefę czasowo rezerwowaną;
 13)
@@ -121,7 +120,7 @@ rodzaj wykonywanych lotów, działań lub czynności, które mają być realizow
 proponowaną klasę przestrzeni powietrznej albo propozycję pozostawienia jej jako niesklasyfikowanej.
 § 8.
 1.
-Instytucja publikuje informacje dotyczące ograniczeń lotów zgodnie z przepisami Załącznika 15 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm.), ogłoszonego w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego, zgodnie z art. 23 ust. 2 pkt 1 ustawy, dotyczącymi NOTAM i Suplementu do AIP Polska.
+Instytucja publikuje informacje dotyczące ograniczeń lotów zgodnie z przepisami Załącznika 15 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm.Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701, z 2012 r. poz. 368, 369, 370 i 371 oraz z 2016 r. poz. 541.), ogłoszonego w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego, zgodnie z art. 23 ust. 2 pkt 1 ustawy, dotyczącymi NOTAM i Suplementu do AIP Polska.
 2.
 Instytucja niezwłocznie publikuje informacje dotyczące ograniczeń lotów w R.
 3.
@@ -138,8 +137,7 @@ Wnioski nieuzupełnione w terminie pozostawia się bez rozpatrzenia.
 § 11.
 Traci moc rozporządzenie Ministra Infrastruktury z dnia 9 października 2003 r. w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące (Dz. U. poz. 1794).
 § 12.
-Rozporządzenie wchodzi w życie po upływie 90 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 63 z 06.03.2015, str. 1 oraz Dz. Urz. UE L 196 z 21.07.2016, str. 3. 3) Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701, z 2012 r. poz. 368, 369, 370 i 371 oraz z 2016 r. poz. 541.
+Rozporządzenie wchodzi w życie po upływie 90 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 63 z 06.03.2015, str. 1 oraz Dz. Urz. UE L 196 z 21.07.2016, str. 3. 3) Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701, z 2012 r. poz. 368, 369, 370 i 371 oraz z 2016 r. poz. 541.
 
 ## Część przestrzeni powietrznej, w której wprowadza się ograniczenia lotów, wyznacza się jako TSA, TRA, D albo R. Dla tych stref określa się klasę przestrzeni powietrznej właściwą dla przestrzeni kontrolowanej lub niekontrolowanej albo pozostawia się je jako niesklasyfikowane.
 

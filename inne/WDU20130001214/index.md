@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-10-01 |
 | Data wydania | 2013-10-15 |
-| Wejście w życie | 2013-10-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1214/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie warmińsko-mazurskiej specjalnej strefy ekonomicznej (Dz. U. z 2013 r. poz. 833 i 981) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 984,7561 ha, położone na terenach miast: Bartoszyce, Ciechanów, Elbląg, Iława, Kętrzyn, Lidzbark Warmiński, Mława, Mrągowo, Nowe Miasto Lubawskie, Olsztyn, Ostrołęka, Ostróda, Płońsk oraz gmin: Barczewo, Bartoszyce, Biskupiec, Ciechanów, Dobre Miasto, Iłowo-Osada, Kurzętnik, Morąg, Nidzica, Olecko, Olsztynek, Orzysz, Pasłęk, Piecki, Pisz, Szczytno i Wielbark.
-” ;
+Strefa obejmuje grunty o powierzchni 984,7561 ha, położone na terenach miast: Bartoszyce, Ciechanów, Elbląg, Iława, Kętrzyn, Lidzbark Warmiński, Mława, Mrągowo, Nowe Miasto Lubawskie, Olsztyn, Ostrołęka, Ostróda, Płońsk oraz gmin: Barczewo, Bartoszyce, Biskupiec, Ciechanów, Dobre Miasto, Iłowo-Osada, Kurzętnik, Morąg, Nidzica, Olecko, Olsztynek, Orzysz, Pasłęk, Piecki, Pisz, Szczytno i Wielbark. ” ;
 2)
 w załączniku do rozporządzenia Szczegółowy opis granic i terenu Warmińsko-Mazurskiej Specjalnej Strefy Ekonomicznej:
 a)

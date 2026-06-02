@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-06-29 |
 | Data wydania | 2000-07-27 |
-| Wejście w życie | 2000-08-27 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000600702) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/702/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 - **1)** podmioty prowadzące działalność gospodarczą, posiadające osobowość prawną,
 - **2)** gminy, powiaty, województwa, zwane dalej «jednostkami samorządu terytorialnego», a także związki tych jednostek oraz miasto stołeczne Warszawa,
 - **3)** inne podmioty posiadające osobowość prawną, upoważnione do emisji obligacji na podstawie innych ustaw,
-- **4)** instytucje finansowe, których członkiem jest Rzeczpospolita Polska lub Narodowy Bank Polski, lub przynajmniej jedno z państw należących do Organizacji Współpracy Gospodarczej i Rozwoju (OECD), lub bank centralny takiego państwa, lub instytucje, z którymi Rzeczpospolita Polska zawarła umowy regulujące działalność takich instytucji na terenie Rzeczypospolitej Polskiej i zawierające stosowne postanowienia dotyczące emisji obligacji zwane dalej «emitentami». ” ;
+- **4)** instytucje finansowe, których członkiem jest Rzeczpospolita Polska lub Narodowy Bank Polski, lub przynajmniej jedno z państw należących do Organizacji Współpracy Gospodarczej i Rozwoju (OECD), lub bank centralny takiego państwa, lub instytucje, z którymi Rzeczpospolita Polska zawarła umowy regulujące działalność takich instytucji na terenie Rzeczypospolitej Polskiej i zawierające stosowne postanowienia dotyczące emisji obligacji – zwane dalej «emitentami». ” ;
 - **2)** w art. 4: w ust. 1 skreśla się wyrazy „(wykupu obligacji)”, po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
     - **b)**
@@ -43,8 +42,11 @@ source: "eli-html"
 1a. Przez papiery wartościowe emitowane w serii rozumie się papiery wartościowe reprezentujące prawa majątkowe podzielone na określoną liczbę równych jednostek. ” , skreśla się ust. 3 i 4;
 
 - **c)**
-- **3)** w art. 5: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) nazwę (firmę) i siedzibę emitenta, miejsce i numer wpisu do właściwego rejestru albo wskazanie jednostki samorządu terytorialnego, związku tych jednostek lub miasta stołecznego Warszawy, będących emitentem, ” – w pkt 3 po przecinku dodaje się wyrazy „jeżeli jest określony,” – w pkt 4 skreśla się wyrazy „oraz serię”, – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) opis świadczeń emitenta, ze wskazaniem w szczególności wysokości tych świadczeń lub sposobu ich ustalania, terminów, sposobów i miejsc ich spełniania, ” – skreśla się pkt 8, – w pkt 10 skreśla się wyrazy „oraz datę nabycia obligacji”, skreśla się ust. 2 i 3;
+- **3)** w art. 5: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** nazwę (firmę) i siedzibę emitenta, miejsce i numer wpisu do właściwego rejestru albo wskazanie jednostki samorządu terytorialnego, związku tych jednostek lub miasta stołecznego Warszawy, będących emitentem, ” – w pkt 3 po przecinku dodaje się wyrazy „jeżeli jest określony,” – w pkt 4 skreśla się wyrazy „oraz serię”, po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** opis świadczeń emitenta, ze wskazaniem w szczególności wysokości tych świadczeń lub sposobu ich ustalania, terminów, sposobów i miejsc ich spełniania, ” – skreśla się pkt 8, – w pkt 10 skreśla się wyrazy „oraz datę nabycia obligacji”, skreśla się ust. 2 i 3;
     - **b)**
 
 - **4)** po art. 5 dodaje się art. 5a-5c w brzmieniu: „
@@ -79,7 +81,7 @@ source: "eli-html"
 
 - **1)** inne jednostki samorządu terytorialnego, związki tych jednostek oraz miasto stołeczne Warszawę,
 - **2)** spółki z ograniczoną odpowiedzialnością albo spółki akcyjne, w których dana jednostka samorządu terytorialnego lub miasto stołeczne Warszawa dysponuje odpowiednio ponad 50% głosów na zgromadzeniu wspólników lub walnym zgromadzeniu,
-- **3)** przedsiębiorstwa, dla których organem założycielskim jest jednostka samorządu terytorialnego lub miasto stołeczne Warszawa do wysokości 15% dochodów jednostki samorządu terytorialnego planowanych w roku, w którym następuje udzielenie poręczenia.
+- **3)** przedsiębiorstwa, dla których organem założycielskim jest jednostka samorządu terytorialnego lub miasto stołeczne Warszawa – do wysokości 15% dochodów jednostki samorządu terytorialnego planowanych w roku, w którym następuje udzielenie poręczenia.
 
 2. Udzielenie poręczenia wymaga uchwały odpowiednio organu stanowiącego jednostki samorządu terytorialnego lub Rady miasta stołecznego Warszawy. ” ;
 
@@ -98,13 +100,17 @@ source: "eli-html"
 **Art. 9.** Emisja obligacji może nastąpić przez:
 
 - **1)** proponowanie nabycia w sposób wskazany w art. 2 ust. 1 ustawy – Prawo o publicznym obrocie i stanowiący publiczny obrót papierami wartościowymi w rozumieniu tej ustawy,
-- **2)** proponowanie nabycia w sposób wskazany w art. 2 ust. 1 ustawy – Prawo o publicznym obrocie, obligacji: o terminie realizacji praw krótszym niż rok, opiewających wyłącznie na wierzytelności pieniężne, o których mowa w art. 5c ust. 1 do których nie stosuje się przepisów ustawy – Prawo o publicznym obrocie, pod warunkiem że emitent w terminie 7 dni przed dniem rozpoczęcia emisji zawiadomi Komisję Papierów Wartościowych i Giełd,
+- **2)** proponowanie nabycia w sposób wskazany w art. 2 ust. 1 ustawy – Prawo o publicznym obrocie, obligacji: o terminie realizacji praw krótszym niż rok, opiewających wyłącznie na wierzytelności pieniężne, o których mowa w art. 5c ust. 1 – do których nie stosuje się przepisów ustawy – Prawo o publicznym obrocie, pod warunkiem że emitent w terminie 7 dni przed dniem rozpoczęcia emisji zawiadomi Komisję Papierów Wartościowych i Giełd,
     - **a)**
     - **b)**
 
 - **3)** proponowanie nabycia obligacji w inny sposób niż określony w pkt 1 i 2. ” ;
-- **8)** w art. 10: w ust. 1: – w zdaniu wstępnym wyrazy „ust. 1 pkt 2” zastępuje się wyrazami „pkt 2 i 3”, – pkt 1 otrzymuje brzmienie: „ 1) celów emisji, jeżeli są określone, ” – pkt 3 otrzymuje brzmienie: „ 3) wartości nominalnej i ceny emisyjnej obligacji lub sposobu jej ustalenia, ” – pkt 7 otrzymuje brzmienie: „ 7) wartości zaciągniętych zobowiązań na ostatni dzień kwartału poprzedzającego udostępnienie propozycji nabycia oraz perspektywy kształtowania zobowiązań emitenta do czasu całkowitego wykupu obligacji proponowanych do nabycia, ” – w pkt 8 dodaje się na końcu wyrazy „jeżeli przedsięwzięcie jest określone,” ust. 3 otrzymuje brzmienie: „
+- **8)** w art. 10: w ust. 1: – w zdaniu wstępnym wyrazy „ust. 1 pkt 2” zastępuje się wyrazami „pkt 2 i 3”, pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** celów emisji, jeżeli są określone, ” pkt 3 otrzymuje brzmienie: „
+- **3)** wartości nominalnej i ceny emisyjnej obligacji lub sposobu jej ustalenia, ” pkt 7 otrzymuje brzmienie: „
+- **7)** wartości zaciągniętych zobowiązań na ostatni dzień kwartału poprzedzającego udostępnienie propozycji nabycia oraz perspektywy kształtowania zobowiązań emitenta do czasu całkowitego wykupu obligacji proponowanych do nabycia, ” – w pkt 8 dodaje się na końcu wyrazy „jeżeli przedsięwzięcie jest określone,” ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. W przypadkach, o których mowa w art. 9 pkt 2 i 3, emitent prowadzący działalność dłużej niż rok jest obowiązany udostępnić sprawozdanie finansowe, sporządzone na dzień bilansowy przypadający nie wcześniej niż 15 miesięcy przed datą publikacji warunków emisji, wraz z opinią biegłego rewidenta. ” , w ust. 4 wyrazy „sprawozdań finansowych i rocznych sprawozdań” zastępuje się wyrazami „rocznych sprawozdań finansowych”, ust. 5 otrzymuje brzmienie: „

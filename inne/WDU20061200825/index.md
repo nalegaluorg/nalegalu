@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-04-27 |
 | Data wydania | 2006-07-06 |
-| Wejście w życie | 2006-07-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061200825) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/825/text.pdf) |
 
@@ -33,7 +32,7 @@ source: "eli-html"
 1. Ze środków budżetu państwa są udzielane dopłaty do składek z tytułu zawarcia umów ubezpieczenia:
 
 - **1)** upraw zbóż, kukurydzy, rzepaku, rzepiku, chmielu, warzyw, drzew i krzewów owocowych, ziemniaków lub buraków cukrowych, od zasiewu lub wysadzenia do ich zbioru, od ryzyka wystąpienia szkód spowodowanych przez huragan, powódź, deszcz nawalny, grad, piorun, obsunięcie się ziemi, lawinę, suszę oraz ujemne skutki przezimowania lub przymrozków wiosennych lub
-- **2)** bydła, koni, owiec, kóz, drobiu, ryb lub świń od ryzyka wystąpienia szkód spowodowanych przez huragan, powódź, deszcz nawalny, grad, piorun, obsunięcie się ziemi, lawinę oraz w wyniku uboju z konieczności zwanych dalej „umowami ubezpieczenia”. ” ;
+- **2)** bydła, koni, owiec, kóz, drobiu, ryb lub świń od ryzyka wystąpienia szkód spowodowanych przez huragan, powódź, deszcz nawalny, grad, piorun, obsunięcie się ziemi, lawinę oraz w wyniku uboju z konieczności – zwanych dalej „umowami ubezpieczenia”. ” ;
 - **2)** w ust. 2 uchyla się pkt 1 i 7.
 
 **Art. 2.** Umowy ubezpieczeń z dopłatami w rozumieniu przepisów ustawy, o której mowa w art. 1, dotyczące upraw chmielu, warzyw, drzew, krzewów owocowych oraz drobiu i ryb mogą być zawierane od 2007 r.

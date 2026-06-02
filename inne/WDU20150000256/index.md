@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 14 grudnia 2004 r. w sprawie Komisji do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce (Dz. U. z 2005 r. Nr 6, poz. 44), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniającym rozporządzenie w sprawie Komisji do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce (Dz. U. poz. 1518).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniającego rozporządzenie w sprawie Komisji do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce (Dz. U. poz. 1518), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniającego rozporządzenie w sprawie Komisji do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce (Dz. U. poz. 1518), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 14 grudnia 2004 r. w sprawie Komisji do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce
 Na podstawie art. 11 ust. 4 ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz. U. z 2014 r. poz. 1077) zarządza się, co następuje:
 § 1.
@@ -78,12 +76,12 @@ dyrektora komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej w sp
 dyrektora komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej w sprawach budżetowych;
 3)
 Szefa Sztabu Generalnego;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniającego rozporządzenie w sprawie Komisji do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce (Dz. U. poz. 1518), które weszło w życie z dniem 1 stycznia 2014 r.)
 Dowódcę Generalnego Rodzajów Sił Zbrojnych;
 5)
 Komendanta Głównego Żandarmerii Wojskowej.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 3.
 Minister kierujący działem administracji rządowej, z którego właściwością jest bezpośrednio związana wyrządzona szkoda, może delegować swego przedstawiciela do udziału w pracach Komisji.
 4.
@@ -199,9 +197,9 @@ Za każde przeprowadzone postępowanie w sprawie roszczeń z tytułu szkód wyrz
 § 16.
 Wydatkami zaliczanymi do kosztów postępowania przed Komisją są:
 1)
-koszty podróży i inne należności świadków, biegłych i tłumaczy, obliczone według dekretu z dnia 26 października 1950 r. o należnościach świadków, biegłych i stron w postępowaniu sądowym (Dz. U. Nr 49, poz. 445, z późn. zm.);
+koszty podróży i inne należności świadków, biegłych i tłumaczy, obliczone według dekretu z dnia 26 października 1950 r. o należnościach świadków, biegłych i stron w postępowaniu sądowym (Dz. U. Nr 49, poz. 445, z późn. zm.Zmiany wymienionego dekretu zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2702, z 2009 r. Nr 221, poz. 1739 oraz z 2011 r. Nr 72, poz. 389.)Dekret utracił moc na podstawie art. 11 ustawy z dnia 31 sierpnia 2012 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1101), która weszła w życie z dniem 5 listopada 2012 r.;
 2)
-koszty spowodowane oględzinami, tłumaczeniami i opiniami, obliczone według ustawy z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2002 r. Nr 9, poz. 88, z późn. zm.), a także wynikające z zawartych umów cywilnoprawnych;
+koszty spowodowane oględzinami, tłumaczeniami i opiniami, obliczone według ustawy z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2002 r. Nr 9, poz. 88, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 233, poz. 1955, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874 i Nr 139, poz. 1323, z 2004 r. Nr 210, poz. 2135 oraz z 2005 r. Nr 68, poz. 609 i Nr 172, poz. 1438.)Ustawa utraciła moc na podstawie art. 150 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, 1296 i 1306 oraz z 2015 r. poz. 2 i 4), która weszła w życie z dniem 2 marca 2006 r., a także wynikające z zawartych umów cywilnoprawnych;
 3)
 wynagrodzenia, o których mowa w § 15;
 4)
@@ -221,5 +219,5 @@ Występując do właściwych organów wojsk obcych, które wyrządziły szkodę,
 2.
 Środki finansowe zwrócone przez wojska obce rozlicza się na podstawie przepisów o gospodarowaniu środkami publicznymi.
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 12 stycznia 2005 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 14 grudnia 2000 r. w sprawie komisji do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce (Dz. U. Nr 115, poz. 1208 oraz z 2002 r. Nr 69, poz. 641). 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniającego rozporządzenie w sprawie Komisji do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce (Dz. U. poz. 1518), które weszło w życie z dniem 1 stycznia 2014 r. 2) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Zmiany wymienionego dekretu zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2702, z 2009 r. Nr 221, poz. 1739 oraz z 2011 r. Nr 72, poz. 389. 4) Dekret utracił moc na podstawie art. 11 ustawy z dnia 31 sierpnia 2012 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1101), która weszła w życie z dniem 5 listopada 2012 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 233, poz. 1955, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874 i Nr 139, poz. 1323, z 2004 r. Nr 210, poz. 2135 oraz z 2005 r. Nr 68, poz. 609 i Nr 172, poz. 1438. 6) Ustawa utraciła moc na podstawie art. 150 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, 1296 i 1306 oraz z 2015 r. poz. 2 i 4), która weszła w życie z dniem 2 marca 2006 r. 7) Rozporządzenie zostało ogłoszone w dniu 12 stycznia 2005 r. 8) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 14 grudnia 2000 r. w sprawie komisji do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce (Dz. U. Nr 115, poz. 1208 oraz z 2002 r. Nr 69, poz. 641).
 

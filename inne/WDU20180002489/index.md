@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 21 grudnia 2018 r. w sprawie określenia wykazu rodzajów materiałów budowlanych, urządzeń i usług związanych z realizacją przedsięwzięć termomodernizacyjnych
+# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 21 grudnia 2018 r. w sprawie określenia wykazu rodzajów materiałów budowlanych, urządzeń i usług związanych z realizacją przedsięwzięć termomodernizacyjnych Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-21 |
 | Data wydania | 2018-12-29 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2025-08-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002489) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2489/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz rodzajów materiałów budowlanych, urządzeń i usług związanych z realizacją przedsięwzięć termomodernizacyjnych
 Treść rozporządzenia
-Na podstawie art. 26h ust. 10 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 26h ust. 10 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246 i 2429.) zarządza się, co następuje:
 § 1.
 Określa się wykaz rodzajów materiałów budowlanych, urządzeń i usług związanych z realizacją przedsięwzięć termomodernizacyjnych, który stanowi załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246 i 2429.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246 i 2429.
 Załącznik – Wykaz rodzajów materiałów budowlanych, urządzeń i usług związanych z realizacją przedsięwzięć termomodernizacyjnych
 1.
 Materiały budowlane i urządzenia:

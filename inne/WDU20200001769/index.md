@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 28 września 2020 r. w sprawie przesyłek w głosowaniu korespondencyjnym
+# Rozporządzenie Ministra Infrastrukturyz dnia 28 września 2020 r. w sprawie przesyłek w głosowaniu korespondencyjnym Minister Infrastruktury kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-28 |
 | Data wydania | 2020-10-12 |
-| Wejście w życie | 2020-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001769) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1769/text.pdf) |
 
@@ -77,6 +76,5 @@ Przekazanie pakietów wyborczych następuje przez jednorazowe wydanie ich urzęd
 § 6.
 Koperty zwrotne niedostarczone do obwodowej komisji wyborczej do czasu zakończenia głosowania przedstawiciel operatora wyznaczonego przekazuje właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego przez jednorazowe wydanie ich osobie uprawnionej do odbioru przesyłek w siedzibie delegatury Krajowego Biura Wyborczego, za pokwitowaniem odbioru.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 8 czerwca 2018 r. w sprawie przesyłek w głosowaniu korespondencyjnym (Dz. U. poz. 1232), które utraciło moc z dniem wejścia w życie ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, 695, 1086, 1262, 1478 i 1747).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 8 czerwca 2018 r. w sprawie przesyłek w głosowaniu korespondencyjnym (Dz. U. poz. 1232), które utraciło moc z dniem wejścia w życie ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, 695, 1086, 1262, 1478 i 1747). 1) Minister Infrastruktury kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 8 czerwca 2018 r. w sprawie przesyłek w głosowaniu korespondencyjnym (Dz. U. poz. 1232), które utraciło moc z dniem wejścia w życie ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, 695, 1086, 1262, 1478 i 1747).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 17 kwietnia 2024 r. w sprawie udzielania pomocy de minimis w ramach regionalnych programów na lata 2021–2027
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 17 kwietnia 2024 r. w sprawie udzielania pomocy de minimis w ramach regionalnych programów na lata 2021–2027 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-17 |
 | Data wydania | 2024-04-18 |
-| Wejście w życie | 2024-04-19 |
 | Ostatnia zmiana | 2024-04-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/598/text.pdf) |
 
@@ -38,23 +37,23 @@ Ilekroć w rozporządzeniu jest mowa o:
 1)
 jednym przedsiębiorcy – należy przez to rozumieć jedno przedsiębiorstwo w rozumieniu art. 2 ust. 2 rozporządzenia 2023/2831;
 2)
-przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.).
+przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1..
 § 3.
 1.
 Pomoc może być udzielana przedsiębiorcom, z wyłączeniem przypadków, o których mowa w art. 1 ust. 1 rozporządzenia 2023/2831.
 2.
 W przypadkach, do których mają zastosowanie przepisy:
 1)
-rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności (Dz. Urz. UE L 231 z 30.06.2021, str. 60, z późn. zm.), pomoc nie może być udzielona także w przypadkach, o których mowa w art. 7 ust. 1 tego rozporządzenia;
+rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności (Dz. Urz. UE L 231 z 30.06.2021, str. 60, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 13 z 20.01.2022, str. 74 oraz Dz. Urz. UE L 2024/795 z 29.02.2024., pomoc nie może być udzielona także w przypadkach, o których mowa w art. 7 ust. 1 tego rozporządzenia;
 2)
-rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1056 z dnia 24 czerwca 2021 r. ustanawiającego Fundusz na rzecz Sprawiedliwej Transformacji (Dz. Urz. UE L 231 z 30.06.2021, str. 1, z późn. zm.), pomoc nie może być udzielona także w przypadkach, o których mowa w art. 9 tego rozporządzenia.
+rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1056 z dnia 24 czerwca 2021 r. ustanawiającego Fundusz na rzecz Sprawiedliwej Transformacji (Dz. Urz. UE L 231 z 30.06.2021, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 421 z 26.11.2021, str. 74 oraz Dz. Urz. UE L 2024/795 z 29.02.2024., pomoc nie może być udzielona także w przypadkach, o których mowa w art. 9 tego rozporządzenia.
 § 4.
 1.
 Podmiotami udzielającymi pomocy, poza podmiotami określonymi w art. 30 ust. 2 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027, zwanej dalej „ustawą”, mogą być również:
 1)
 partner projektu, o którym mowa w art. 39 ust. 1 ustawy;
 2)
-podmiot wdrażający instrument finansowy w rozumieniu art. 2 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.), zwanego dalej „rozporządzeniem ogólnym”.
+podmiot wdrażający instrument finansowy w rozumieniu art. 2 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.2.2023, str. 1, Dz. Urz. UE L 130 z 16.05.2023, str. 1 oraz Dz. Urz. UE L 2024/795 z 29.02.2024., zwanego dalej „rozporządzeniem ogólnym”.
 2.
 W przypadku gdy podmiotem udzielającym pomocy są beneficjent w rozumieniu art. 2 pkt 1 ustawy lub partner projektu, o którym mowa w art. 39 ust. 1 ustawy, którzy nie są jednocześnie podmiotem wdrażającym instrument finansowy w rozumieniu art. 2 pkt 22 rozporządzenia ogólnego, pomoc może być udzielana, jeżeli możliwość jej udzielania przewiduje umowa albo porozumienie, o których mowa w art. 2 pkt 32 lit. a albo b ustawy.
 § 5.
@@ -115,8 +114,7 @@ Przedsiębiorca przed podpisaniem umowy przedstawia podmiotowi udzielającemu po
 1)
 kopie zaświadczeń o pomocy de minimis oraz zaświadczeń o pomocy de minimis w rolnictwie lub zaświadczeń o pomocy de minimis w rybołówstwie, jakie otrzymał w okresie, o którym mowa w art. 3 ust. 2 rozporządzenia 2023/2831, albo oświadczenie o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenie o nieotrzymaniu takiej pomocy w tym okresie,
 2)
-informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na których pokrycie ma być przeznaczona pomoc
-dotyczące okresu od dnia złożenia wniosku.
+informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na których pokrycie ma być przeznaczona pomoc – dotyczące okresu od dnia złożenia wniosku.
 § 12.
 Pomoc jest udzielana do dnia 31 grudnia 2029 r.
 § 13.
@@ -129,6 +127,5 @@ Wnioski, o których mowa w ust. 2, wymagające uzupełnienia lub poprawy w zakre
 § 14.
 Traci moc rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 29 września 2022 r. w sprawie udzielania pomocy de minimis w ramach regionalnych programów na lata 2021–2027 (Dz. U. poz. 2062).
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 13 z 20.01.2022, str. 74 oraz Dz. Urz. UE L 2024/795 z 29.02.2024. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 421 z 26.11.2021, str. 74 oraz Dz. Urz. UE L 2024/795 z 29.02.2024. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.2.2023, str. 1, Dz. Urz. UE L 130 z 16.05.2023, str. 1 oraz Dz. Urz. UE L 2024/795 z 29.02.2024.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 13 z 20.01.2022, str. 74 oraz Dz. Urz. UE L 2024/795 z 29.02.2024. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 421 z 26.11.2021, str. 74 oraz Dz. Urz. UE L 2024/795 z 29.02.2024. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.2.2023, str. 1, Dz. Urz. UE L 130 z 16.05.2023, str. 1 oraz Dz. Urz. UE L 2024/795 z 29.02.2024.
 

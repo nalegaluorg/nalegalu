@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 13 października 2016 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia lub objęcia akcji lub praw z akcji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji lub o zamiarze stania się jednostką dominującą takiego zakładu
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 13 października 2016 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia lub objęcia akcji lub praw z akcji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji lub o zamiarze stania się jednostką dominującą takiego zakładu Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-13 |
 | Data wydania | 2016-10-28 |
-| Wejście w życie | 2016-11-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001772) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1772/text.pdf) |
 
@@ -65,8 +64,7 @@ karnych o przestępstwo umyślne – z wyłączeniem przestępstw ściganych z o
 b)
 dyscyplinarnych, administracyjnych przeciwko danej osobie o nałożenie kary lub innej sankcji administracyjnej,
 c)
-sądowych w sprawach gospodarczych przeciwko danej osobie, postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego, postępowaniem naprawczym albo postępowaniem restrukturyzacyjnym, a także o postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego, postępowaniem naprawczym albo postępowaniem restrukturyzacyjnym prowadzonych przeciwko podmiotowi, w którym podmiot składający zawiadomienie posiada udział równy lub przekraczający jedną dziesiątą ogólnej liczby głosów na walnym zgromadzeniu lub w kapitale zakładowym lub wobec którego podmiot składający zawiadomienie jest jednostką dominującą
-mogących mieć wpływ na ocenę podmiotu składającego zawiadomienie w świetle kryteriów określonych w art. 90 ust. 2 ustawy;
+sądowych w sprawach gospodarczych przeciwko danej osobie, postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego, postępowaniem naprawczym albo postępowaniem restrukturyzacyjnym, a także o postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego, postępowaniem naprawczym albo postępowaniem restrukturyzacyjnym prowadzonych przeciwko podmiotowi, w którym podmiot składający zawiadomienie posiada udział równy lub przekraczający jedną dziesiątą ogólnej liczby głosów na walnym zgromadzeniu lub w kapitale zakładowym lub wobec którego podmiot składający zawiadomienie jest jednostką dominującą – mogących mieć wpływ na ocenę podmiotu składającego zawiadomienie w świetle kryteriów określonych w art. 90 ust. 2 ustawy;
 10)
 oświadczenia składającego zawiadomienie o:
 a)
@@ -134,6 +132,5 @@ w odniesieniu do dokumentów, o których mowa w § 2 pkt 7–9, do zawiadomienia
 § 4.
 Do zawiadomień złożonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 sierpnia 2010 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji krajowego zakładu ubezpieczeń lub o zamiarze stania się podmiotem dominującym krajowego zakładu ubezpieczeń (Dz. U. poz. 1082), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 sierpnia 2010 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji krajowego zakładu ubezpieczeń lub o zamiarze stania się podmiotem dominującym krajowego zakładu ubezpieczeń (Dz. U. poz. 1082), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 sierpnia 2010 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji krajowego zakładu ubezpieczeń lub o zamiarze stania się podmiotem dominującym krajowego zakładu ubezpieczeń (Dz. U. poz. 1082), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615).
 

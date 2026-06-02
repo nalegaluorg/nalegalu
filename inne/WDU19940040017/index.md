@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1993-12-29 |
 | Data wydania | 1994-01-14 |
-| Wejście w życie | 1994-02-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940040017) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/17/text.pdf) |
+
+Krajowy Depozyt Papierów Wartościowych
+Fundusze powiernicze
 
 **Art. 1.** W ustawie z dnia 22 marca 1991 r. – Prawo o publicznym obrocie papierami wartościowymi i funduszach powierniczych (Dz. U. Nr 35, poz. 155 i Nr 103, poz. 447 oraz z 1993 r. Nr 44, poz. 202) wprowadza się następujące zmiany:
 
@@ -119,8 +121,11 @@ source: "eli-html"
 
 § 2. Opłaty stanowią dochód środka specjalnego urzędu Komisji z przeznaczeniem w szczególności na upowszechnianie wiedzy o zasadach funkcjonowania rynku papierów wartościowych. Przewodniczący Komisji określa regulamin gospodarowania środkiem specjalnym. ” ;
 
-- **13)** w art. 16: w § 1: – zdanie pierwsze otrzymuje brzmienie: „Skreślenie z list, o których mowa w art. 14 § 1, następuje:”; – pkt 1 otrzymuje brzmienie: „ 1) na własny wniosek osoby wpisanej na listę, ” – w pkt 2 po wyrazie „maklera” dodaje się wyrazy „lub doradcy,” – pkt 5 otrzymuje brzmienie: „ 5) na skutek śmierci osoby wpisanej na listę. ” § 2 otrzymuje brzmienie: „
+- **13)** w art. 16: w § 1: – zdanie pierwsze otrzymuje brzmienie: „Skreślenie z list, o których mowa w art. 14 § 1, następuje:”; pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** na własny wniosek osoby wpisanej na listę, ” – w pkt 2 po wyrazie „maklera” dodaje się wyrazy „lub doradcy,” pkt 5 otrzymuje brzmienie: „
+- **5)** na skutek śmierci osoby wpisanej na listę. ” § 2 otrzymuje brzmienie: „
     - **b)**
 
 § 2. Skreślenie z listy lub zawieszenie uprawnień na okres od trzech do sześciu miesięcy może nastąpić na skutek nienależytego wykonywania zawodu, naruszenia prawa w związku z wykonywaniem zawodu lub naruszenia zasad etyki zawodowej. ” , w § 3 skreśla się wyrazy „maklerów” i „maklera” oraz dodaje się zdanie drugie w brzmieniu: „Komisja może nadać decyzji rygor natychmiastowej wykonalności.”, dodaje się § 4 i 5 w brzmieniu: „
@@ -141,8 +146,11 @@ source: "eli-html"
 
 § 3. Przepisy § 1 i 2 stosuje się odpowiednio do doradcy w zakresie publicznego obrotu papierami wartościowymi. ” ;
 
-- **15)** w art. 18: w § 3: – w pkt 2 na końcu dodaje się wyrazy „ich kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej,” – dodaje się pkt 6a w brzmieniu: „ 6a) analizę ekonomiczno-finansową możliwości prowadzenia działalności będącej przedmiotem zezwolenia, ” – dodaje się pkt 8a w brzmieniu: „ 8a) regulamin prowadzenia rachunków pieniężnych i rachunków papierów wartościowych, ” – w pkt 11 wyrazy „ostatni bilans” zastępuje się wyrazami „ostatnie sprawozdanie finansowe oraz opinię biegłego rewidenta i raport z badania, jeżeli sprawozdanie finansowe podlegało obowiązkowemu badaniu”, skreśla się § 4, § 5 otrzymuje brzmienie: „
+- **15)** w art. 18: w § 3: – w pkt 2 na końcu dodaje się wyrazy „ich kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej,” dodaje się pkt 6a w brzmieniu: „
     - **a)**
+
+- **6a)** analizę ekonomiczno-finansową możliwości prowadzenia działalności będącej przedmiotem zezwolenia, ” dodaje się pkt 8a w brzmieniu: „
+- **8a)** regulamin prowadzenia rachunków pieniężnych i rachunków papierów wartościowych, ” – w pkt 11 wyrazy „ostatni bilans” zastępuje się wyrazami „ostatnie sprawozdanie finansowe oraz opinię biegłego rewidenta i raport z badania, jeżeli sprawozdanie finansowe podlegało obowiązkowemu badaniu”, skreśla się § 4, § 5 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -309,8 +317,11 @@ source: "eli-html"
 
 § 2. Umowy nabycia papierów wartościowych zawarte przed uprawomocnieniem się decyzji o uchyleniu zgody na wprowadzenie papierów wartościowych do publicznego obrotu, o której mowa w § 1, są ważne. Przewodniczący Komisji określi, w drodze zarządzenia, zakres obowiązków informacyjnych i publikacyjnych, o których mowa w art. 51–52b, dla emitentów papierów wartościowych dopuszczonych do wtórnego publicznego obrotu pozagiełdowego. Spółka, której akcje chociaż jednej emisji zostały dopuszczone i są w publicznym obrocie, zwana dalej „spółką publiczną”, obowiązana jest wprowadzać do publicznego obrotu każdą kolejną emisję, pod rygorem uchylenia zgody Komisji na dopuszczenie jej akcji do publicznego obrotu. ” ;
 
-- **38)** w art. 54: w § 3: – w pkt 2 skreśla się wyrazy „chyba że przenoszenie praw następuje w trybie, o którym mowa w art. 1 § 1, bez pośrednictwa podmiotu prowadzącego przedsiębiorstwo maklerskie”, – dodaje się pkt 3 i 4 w brzmieniu: „ 3) przenoszenia praw z papierów wartościowych wchodzących w skład zbywanego przedsiębiorstwa w rozumieniu przepisów Kodeksu cywilnego, 4) przenoszenia praw z papierów wartościowych obciążonych zastawem w celu zaspokojenia zastawnika, za zgodą i na warunkach określonych przez Komisję. ” , dodaje się § 3a w brzmieniu: „
+- **38)** w art. 54: w § 3: – w pkt 2 skreśla się wyrazy „chyba że przenoszenie praw następuje w trybie, o którym mowa w art. 1 § 1, bez pośrednictwa podmiotu prowadzącego przedsiębiorstwo maklerskie”, dodaje się pkt 3 i 4 w brzmieniu: „
     - **a)**
+
+- **3)** przenoszenia praw z papierów wartościowych wchodzących w skład zbywanego przedsiębiorstwa w rozumieniu przepisów Kodeksu cywilnego,
+- **4)** przenoszenia praw z papierów wartościowych obciążonych zastawem w celu zaspokojenia zastawnika, za zgodą i na warunkach określonych przez Komisję. ” , dodaje się § 3a w brzmieniu: „
     - **b)**
 
 § 3a. Za zgodą i na warunkach określonych przez Komisję, zasady, o których mowa w § 1 i 2, mogą nie mieć zastosowania w przypadku przenoszenia praw z papierów wartościowych emitowanych przez Skarb Państwa. ” ;
@@ -345,7 +356,7 @@ source: "eli-html"
 - **45)** w art. 71 skreśla się oznaczenie § 1 oraz skreśla się § 2–5;
 - **46)** po art. 71 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Krajowy Depozyt Papierów Wartościowych
+#### Rozdział 6a
 
 **Art. 71a.**
 
@@ -415,7 +426,7 @@ source: "eli-html"
 - **51)** w art. 87 w § 1 liczbę „50” zastępuje się liczbą „33”;
 - **52)** rozdział 8 otrzymuje brzmienie: „
 
-#### Rozdział 8 Fundusze powiernicze
+#### Rozdział 8
 
 **Art. 89.**
 

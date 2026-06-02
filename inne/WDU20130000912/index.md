@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-07-12 |
 | Data wydania | 2013-08-12 |
-| Wejście w życie | 2013-08-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000912) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/912/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134, 628 i 829.) wprowadza się następujące zmiany:
 
 - **1)** po art. 21 dodaje się art. 21a brzmieniu: „
 
@@ -37,7 +36,7 @@ source: "eli-html"
 2. Dokumenty:
 
 - **1)** dołączane w sprawach, o których mowa w ust. 1, art. 21 ust. 2b, art. 49, art. 52 ust. 2, art. 53 ust. 2, art. 53a ust. 1, art. 96 ust. 1 i art. 161 ust. 1,
-- **2)** określone w art. 37 ust. 3, art. 192a ust. 2 pkt 1, art. 193a i art. 195 ust. 1 pkt 2 mogą być składane w języku angielskim.
+- **2)** określone w art. 37 ust. 3, art. 192a ust. 2 pkt 1, art. 193a i art. 195 ust. 1 pkt 2 – mogą być składane w języku angielskim.
 
 3. W przypadkach, o których mowa w ust. 1 i 2, na żądanie Prezesa Urzędu podmiot przedkłada tłumaczenie wniosku, dokumentu lub zawiadomienia na język polski.
 
@@ -47,7 +46,7 @@ source: "eli-html"
 
 - **1)** dołączane w sprawach, o których mowa w ust. 1, oraz w art. 21 ust. 2b,
 - **2)** określone w art. 192a ust. 2 pkt 1, art. 193a oraz w art. 195 ust. 1 pkt 2,
-- **3)** określone w przepisach wydanych na podstawie art. 153b oraz art. 202 pkt 1 i 6 mogą być kopiami. ” ;
+- **3)** określone w przepisach wydanych na podstawie art. 153b oraz art. 202 pkt 1 i 6 – mogą być kopiami. ” ;
 - **2)** art. 95g otrzymuje brzmienie: „
 
 **Art. 95g.**
@@ -70,5 +69,5 @@ source: "eli-html"
 
 1a. Kopie dokumentów, o których mowa w ust. 1, mogą być składane w języku angielskim. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134, 628 i 829.
 

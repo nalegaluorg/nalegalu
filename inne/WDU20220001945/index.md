@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 września 2022 r. w sprawie określenia obszarów weterynarii, w których lekarz weterynarii może uzyskać tytuł specjalisty
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 września 2022 r. w sprawie określenia obszarów weterynarii, w których lekarz weterynarii może uzyskać tytuł specjalisty Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-07 |
 | Data wydania | 2022-09-14 |
-| Wejście w życie | 2022-09-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001945) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1945/text.pdf) |
 
@@ -69,6 +68,5 @@ choroby ptaków ozdobnych i gołębi;
 19)
 dobrostan zwierząt.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 28 listopada 1994 r. w sprawie trybu i szczegółowych zasad uzyskania tytułu specjalisty przez lekarza weterynarii (Dz. U. z 2022 r. poz. 239), które utraciło moc z dniem 11 sierpnia 2022 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2022 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw (Dz. U. poz. 1570).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 28 listopada 1994 r. w sprawie trybu i szczegółowych zasad uzyskania tytułu specjalisty przez lekarza weterynarii (Dz. U. z 2022 r. poz. 239), które utraciło moc z dniem 11 sierpnia 2022 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2022 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw (Dz. U. poz. 1570). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 28 listopada 1994 r. w sprawie trybu i szczegółowych zasad uzyskania tytułu specjalisty przez lekarza weterynarii (Dz. U. z 2022 r. poz. 239), które utraciło moc z dniem 11 sierpnia 2022 r. w związku z wejściem w życie ustawy z dnia 23 czerwca 2022 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw (Dz. U. poz. 1570).
 

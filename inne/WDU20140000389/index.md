@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-18 |
 | Data wydania | 2014-03-27 |
-| Wejście w życie | 2014-03-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000389) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/389/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie pomorskiej specjalnej strefy ekonomicznej (Dz. U. z 2014 r. poz. 234) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 1452,7403 ha, położone na terenach miast: Brodnica, Bydgoszcz, Gdańsk, Gdynia, Grudziądz, Inowrocław, Kwidzyn, Malbork, Piła, Rypin, Stargard Szczeciński, Starogard Gdański, Tczew, Toruń i Włocławek oraz gmin: Barcin, Chojnice, Człuchów, Gniewino, Kowalewo Pomorskie, Krokowa, Łysomice, Sztum, Świecie, Tczew i Wąbrzeźno.
-” ;
+Strefa obejmuje grunty o powierzchni 1452,7403 ha, położone na terenach miast: Brodnica, Bydgoszcz, Gdańsk, Gdynia, Grudziądz, Inowrocław, Kwidzyn, Malbork, Piła, Rypin, Stargard Szczeciński, Starogard Gdański, Tczew, Toruń i Włocławek oraz gmin: Barcin, Chojnice, Człuchów, Gniewino, Kowalewo Pomorskie, Krokowa, Łysomice, Sztum, Świecie, Tczew i Wąbrzeźno. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU POMORSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ:
 a)

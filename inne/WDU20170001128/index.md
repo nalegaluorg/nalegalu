@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-21 |
 | Data wydania | 2017-06-09 |
-| Wejście w życie | 2017-06-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001128) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1128/text.pdf) |
 
@@ -45,8 +44,8 @@ source: "eli-html"
 
 1. Jeżeli operator pocztowy znajduje się:
 
-- **1)** w trudnej sytuacji zgodnie z kryteriami określonymi w przepisach Unii Europejskiej dotyczących pomocy podmiotom w takiej sytuacji lub
-- **2)** w okresie restrukturyzacji przeprowadzanej z wykorzystaniem pomocy publicznej dotacja, o której mowa w art. 27 ust. 1, podlegająca notyfikacji Komisji Europejskiej zgodnie z art. 27 ust. 4, wymaga notyfikacji jako pomoc indywidualna, chyba że została zgłoszona wraz z notyfikowaną pomocą na restrukturyzację.
+- **1)** w trudnej sytuacji zgodnie z kryteriami określonymi w przepisach Unii Europejskiej dotyczących pomocy podmiotom w takiej sytuacjiKryteria te zostały określone w pkt 19–24 komunikatu Komisji Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1). lub
+- **2)** w okresie restrukturyzacji przeprowadzanej z wykorzystaniem pomocy publicznej – dotacja, o której mowa w art. 27 ust. 1, podlegająca notyfikacji Komisji Europejskiej zgodnie z art. 27 ust. 4, wymaga notyfikacji jako pomoc indywidualna, chyba że została zgłoszona wraz z notyfikowaną pomocą na restrukturyzację.
 
 2. Przepisu ust. 1 nie stosuje się do dotacji, o której mowa w art. 27 ust. 1, która stanowi rekompensatę z tytułu świadczenia usług w ogólnym interesie gospodarczym. ” ;
 
@@ -144,8 +143,5 @@ source: "eli-html"
 
 6. W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy limitu wydatków, o którym mowa w ust. 4, organem odpowiedzialnym za wdrożenie mechanizmu korygującego polegającego na zmniejszeniu wydatków osobowych i administracyjnych Urzędu Komunikacji Elektronicznej przeznaczonych na przeprowadzenie badania stanu rynku pocztowego do poziomu wynikającego z tego limitu jest Prezes Urzędu Komunikacji Elektronicznej.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 7 i pkt 8 lit. a tiret drugie i lit. b, które wchodzą w życie z dniem 1 stycznia 2019 r.
-
-- **1)** Kryteria te zostały określone w pkt 19–24 komunikatu Komisji Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1).
-
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 7 i pkt 8 lit. a tiret drugie i lit. b, które wchodzą w życie z dniem 1 stycznia 2019 r. 1) Kryteria te zostały określone w pkt 19–24 komunikatu Komisji Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1).
 

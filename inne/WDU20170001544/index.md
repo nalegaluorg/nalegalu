@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 9 sierpnia 2017 r. zmieniające rozporządzenie w sprawie zwolnień od podatku od towarów i usług oraz warunków stosowania tych zwolnień
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 9 sierpnia 2017 r. zmieniające rozporządzenie w sprawie zwolnień od podatku od towarów i usług oraz warunków stosowania tych zwolnień Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-09 |
 | Data wydania | 2017-08-17 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2025-06-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1544/text.pdf) |
 
@@ -33,16 +32,13 @@ W rozporządzeniu Ministra Finansów z dnia 20 grudnia 2013 r. w sprawie zwolnie
 1)
 w ust. 1:
 a)
-po pkt 3b dodaje się pkt 3c i 3d w brzmieniu:
-„
+po pkt 3b dodaje się pkt 3c i 3d w brzmieniu: „
 3c)
 import towarów przez Centrum Eksperckie Kontrwywiadu NATO, przeznaczonych do jego wyłącznego użytku;
 3d)
-import towarów przez Grupę Integracyjną NATO, przeznaczonych do jej wyłącznego użytku;
-” ,
+import towarów przez Grupę Integracyjną NATO, przeznaczonych do jej wyłącznego użytku; ” ,
 b)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
 import rzeczy osobistego użytku oraz służących do użytku domowego lub zawodowego, w tym mebli i zmechanizowanego sprzętu gospodarstwa domowego, stanowiących własność personelu zagranicznego Kwatery i członków jego rodzin, osób upoważnionych Centrum Szkolenia Sił Połączonych w Bydgoszczy, osób upoważnionych Centrum Eksperckiego Policji Wojskowych NATO, osób uprawnionych Centrum Eksperckiego Kontrwywiadu NATO oraz personelu zagranicznego Grupy Integracyjnej NATO, dyslokowanego na terytorium Rzeczypospolitej Polskiej, w ilościach niewskazujących na przeznaczenie handlowe, z zachowaniem następujących norm ilościowych:
 a)
@@ -54,11 +50,9 @@ samochód kempingowy albo przyczepa kempingowa – 1 sztuka na rodzinę,
 d)
 motocykl – 1 sztuka na osobę, która ukończyła 18 lat,
 e)
-turystyczna łódź motorowa – 1 sztuka na rodzinę;
-” ;
+turystyczna łódź motorowa – 1 sztuka na rodzinę; ” ;
 2)
-w ust. 2 pkt 2 i 3 otrzymują brzmienie:
-„
+w ust. 2 pkt 2 i 3 otrzymują brzmienie: „
 2)
 w przypadkach, o których mowa w ust. 1 pkt 2–4, dokumentów, z których wynika, że towary są sprowadzane przez:
 a)
@@ -88,10 +82,7 @@ należy do członków sił zbrojnych Stanów Zjednoczonych albo personelu cywiln
 f)
 jest osobą uprawnioną Centrum Eksperckiego Kontrwywiadu NATO,
 g)
-należy do personelu zagranicznego Grupy Integracyjnej NATO, dyslokowanego na terytorium Rzeczypospolitej Polskiej
-z zastrzeżeniem, że towary te nie będą przeznaczone na cel inny niż wskazany w ust. 1 pkt 5, 5a, 8, 8a i 9 oraz nie będą odprzedawane (zbywane) przez okres 3 lat od dnia dopuszczenia ich do obrotu osobom innym niż wymienione w tych przepisach;
-” .
+należy do personelu zagranicznego Grupy Integracyjnej NATO, dyslokowanego na terytorium Rzeczypospolitej Polskiej – z zastrzeżeniem, że towary te nie będą przeznaczone na cel inny niż wskazany w ust. 1 pkt 5, 5a, 8, 8a i 9 oraz nie będą odprzedawane (zbywane) przez okres 3 lat od dnia dopuszczenia ich do obrotu osobom innym niż wymienione w tych przepisach; ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

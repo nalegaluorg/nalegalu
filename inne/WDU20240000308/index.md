@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Obwieszczenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -31,20 +31,17 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 1729), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 11 stycznia 2023 r. zmieniającym rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 98).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 98), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 98), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania OdpornościNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rynki rolne kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r. poz. 1259 i 1273) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach inwestycji A1.4.1. „Inwestycje na rzecz dywersyfikacji i skracania łańcucha dostaw produktów rolnych i spożywczych oraz budowy odporności podmiotów uczestniczących w łańcuchu” objętej Krajowym Planem Odbudowy i Zwiększania Odporności, zwanego dalej „wsparciem”, a także podmiot udzielający wsparcia.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 98), które weszło w życie z dniem 13 stycznia 2023 r..
 Wsparcia udziela się na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu, na powierzchni nie większej niż 5 ha, na nowe konstrukcje wolne od kreozotu, w tym na demontaż słupów nośnych impregnowanych kreozotem, nabycie i transport nowych elementów konstrukcyjnych wolnych od kreozotu oraz na ich montaż na tej samej powierzchni, na której dokonano demontażu słupów nośnych impregnowanych kreozotem.
 § 3.
-Wsparcie może być udzielone osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, która posiada status mikro-, małego lub średniego przedsiębiorstwa w rozumieniu przepisów rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1), jeżeli:
+Wsparcie może być udzielone osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, która posiada status mikro-, małego lub średniego przedsiębiorstwa w rozumieniu przepisów rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1), jeżeli:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 1)
 wykonuje działalność w zakresie produkcji chmielu na terytorium Rzeczypospolitej Polskiej;
 2)
@@ -56,19 +53,19 @@ jest pełnoletnia – w przypadku osób fizycznych.
 Wsparcia udziela się na przedsięwzięcia:
 1)
 które nie zostały rozpoczęte przed dniem złożenia wniosku o objęcie wsparciem;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 których realizacja trwa nie dłużej niż 24 miesiące od dnia zawarcia umowy o objęcie przedsięwzięcia wsparciem z ostatecznym odbiorcą wsparcia i nie dłużej niż do dnia 31 grudnia 2025 r.
 2.
 Wsparcia udziela się zgodnie z regulaminem wyboru przedsięwzięć do objęcia wsparciem.
 3.
 Wsparcia udziela się, jeżeli wnioskodawca zobowiąże się, że co najmniej do dnia upływu 3 lat od dnia zawarcia umowy o objęcie przedsięwzięcia wsparciem będzie utrzymywał efekty realizacji przedsięwzięcia.
-§ 5.
+§ 5Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Wsparcie stanowi pomoc publiczną udzielaną zgodnie z warunkami określonymi w przepisach rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej oraz przepisami ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702).
 § 6.
 Poziom udzielonego wsparcia nie może przekroczyć:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 65% standardowej stawki jednostkowej określonej w regulaminie wyboru przedsięwzięć do objęcia wsparciem – w przypadku wnioskodawców urodzonych po dniu 31 grudnia 1982 r.;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 55% standardowej stawki jednostkowej określonej w regulaminie wyboru przedsięwzięć do objęcia wsparciem – w przypadku pozostałych wnioskodawców.
 § 7.
 1.
@@ -98,7 +95,7 @@ numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki naro
 numer identyfikacyjny nadany wnioskodawcy w trybie przepisów ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
 8)
 numer identyfikacyjny małżonka wnioskodawcy nadany w trybie przepisów ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności – o ile taki posiada, oraz informację, czy wnioskodawca pozostaje w ustroju małżeńskiej wspólności majątkowej;
-8a)
+8aDodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.)
 numer wyodrębnionego rachunku bankowego albo numer rachunku prowadzonego w spółdzielczej kasie oszczędnościowo-kredytowej, na który będzie przekazana zaliczka, o której mowa w § 7 ust. 2 – w przypadku gdy podmiot ubiegający się o wsparcie występuje o przyznanie zaliczki;
 9)
 inne informacje niezbędne do udzielenia wsparcia niebędące danymi osobowymi.
@@ -122,6 +119,5 @@ W przypadku złożenia przez wnioskodawcę w ramach naboru więcej niż jednego 
 § 13.
 Zabezpieczeniem należytego wykonania przez ostatecznego odbiorcę wsparcia zobowiązań określonych w umowie o objęciu przedsięwzięcia wsparciem jest weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez Agencję.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rynki rolne kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 98), które weszło w życie z dniem 13 stycznia 2023 r. 3) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 9) Rozporządzenie zostało ogłoszone w dniu 18 sierpnia 2022 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 sierpnia 2022 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rynki rolne kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 stycznia 2023 r. zmieniającego rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 98), które weszło w życie z dniem 13 stycznia 2023 r. 3) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 9) Rozporządzenie zostało ogłoszone w dniu 18 sierpnia 2022 r.
 

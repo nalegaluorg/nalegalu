@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 3 sierpnia 2021 r. w sprawie Dobrej Praktyki Laboratoryjnej i wykonywania badań zgodnie z zasadami Dobrej Praktyki Laboratoryjnej
+# Rozporządzenie Ministra Zdrowiaz dnia 3 sierpnia 2021 r. w sprawie Dobrej Praktyki Laboratoryjnej i wykonywania badań zgodnie z zasadami Dobrej Praktyki Laboratoryjnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,29 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-03 |
 | Data wydania | 2021-08-05 |
-| Wejście w życie | 2021-08-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1422/text.pdf) |
 
 Treść rozporządzenia
 
-## Załącznik nr 1 — – Zasady dobrej praktyki laboratoryjnej Rozdział 1 – Terminologia stosowana w zasadach Dobrej Praktyki Laboratoryjnej Rozdział 2 – Organizacja jednostki badawczej i jej personel Rozdział 3 – Program zapewnienia jakości Rozdział 4 – Jednostka badawcza Rozdział 5 – Przyrządy pomiarowe, materiały i odczynniki Rozdział 6 – Systemy badawcze Rozdział 7 – Materiały badane i materiały odniesienia Rozdział 8 – Standardowe procedury operacyjne Rozdział 9 – Przeprowadzenie badania Rozdział 10 – Sprawozdania z badań Rozdział 11 – Przechowywanie w pomieszczeniu archiwum zapisów i materiałów
+## Załącznik nr 1 — – Zasady dobrej praktyki laboratoryjnej
+
+Rozdział 1 – Terminologia stosowana w zasadach Dobrej Praktyki Laboratoryjnej
+Rozdział 2 – Organizacja jednostki badawczej i jej personel
+Rozdział 3 – Program zapewnienia jakości
+Rozdział 4 – Jednostka badawcza
+Rozdział 5 – Przyrządy pomiarowe, materiały i odczynniki
+Rozdział 6 – Systemy badawcze
+Rozdział 7 – Materiały badane i materiały odniesienia
+Rozdział 8 – Standardowe procedury operacyjne
+Rozdział 9 – Przeprowadzenie badania
+Rozdział 10 – Sprawozdania z badań
+Rozdział 11 – Przechowywanie w pomieszczeniu archiwum zapisów i materiałów
 
 ## Załącznik nr 2
 
 Treść rozporządzenia
-Na podstawie art. 16 ust. 15 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2020 r. poz. 2289) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę 2004/9/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie kontroli i weryfikacji dobrej praktyki laboratoryjnej (DPL) (Dz. Urz. UE L 50 z 20.02.2004, str. 28 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 65, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 197 z 03.08.2018, str. 15 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241); 2) dyrektywę 2004/10/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie harmonizacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do stosowania zasad dobrej praktyki laboratoryjnej i weryfikacji jej stosowania na potrzeby badań substancji chemicznych (Dz. Urz. UE L 50 z 20.02.2004, str. 44 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 82, Dz. Urz. UE L 87 z 31.03.2009, str. 109 oraz Dz. Urz. UE L 197 z 03.08.2018, str. 15). Na podstawie art. 16 ust. 15 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2020 r. poz. 2289) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -140,12 +151,12 @@ W przypadku cofnięcia certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wy
 3.
 O cofnięciu certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreśleniu jednostki z wykazu Prezes Biura powiadamia ministra właściwego do spraw rolnictwa oraz Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, jednostki właściwe do spraw kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej – w państwach członkowskich Unii Europejskiej, państwach OECD, innych państwach, w których ustanowiono w porozumieniu z OECD takie jednostki, a także Komisję Europejską, Europejską Agencję Chemikaliów i OECD.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę 2004/9/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie kontroli i weryfikacji dobrej praktyki laboratoryjnej (DPL) (Dz. Urz. UE L 50 z 20.02.2004, str. 28 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 65, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 197 z 03.08.2018, str. 15 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241); 2) dyrektywę 2004/10/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie harmonizacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do stosowania zasad dobrej praktyki laboratoryjnej i weryfikacji jej stosowania na potrzeby badań substancji chemicznych (Dz. Urz. UE L 50 z 20.02.2004, str. 44 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 82, Dz. Urz. UE L 87 z 31.03.2009, str. 109 oraz Dz. Urz. UE L 197 z 03.08.2018, str. 15). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 22 maja 2013 r. w sprawie Dobrej Praktyki Laboratoryjnej i wykonywania badań zgodnie z zasadami Dobrej Praktyki Laboratoryjnej (Dz. U. poz. 665), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 14 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 22 maja 2013 r. w sprawie Dobrej Praktyki Laboratoryjnej i wykonywania badań zgodnie z zasadami Dobrej Praktyki Laboratoryjnej (Dz. U. poz. 665), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 14 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę 2004/9/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie kontroli i weryfikacji dobrej praktyki laboratoryjnej (DPL) (Dz. Urz. UE L 50 z 20.02.2004, str. 28 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 65, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 197 z 03.08.2018, str. 15 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241); 2) dyrektywę 2004/10/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie harmonizacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do stosowania zasad dobrej praktyki laboratoryjnej i weryfikacji jej stosowania na potrzeby badań substancji chemicznych (Dz. Urz. UE L 50 z 20.02.2004, str. 44 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 82, Dz. Urz. UE L 87 z 31.03.2009, str. 109 oraz Dz. Urz. UE L 197 z 03.08.2018, str. 15). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 22 maja 2013 r. w sprawie Dobrej Praktyki Laboratoryjnej i wykonywania badań zgodnie z zasadami Dobrej Praktyki Laboratoryjnej (Dz. U. poz. 665), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 14 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337).
 
 ## Załącznik nr 1 — – Zasady dobrej praktyki laboratoryjnej
 
-Rozdział 1 Terminologia stosowana w zasadach Dobrej Praktyki Laboratoryjnej
+Rozdział 1
+Terminologia stosowana w zasadach Dobrej Praktyki Laboratoryjnej
 1.
 Użyte w załączniku określenia oznaczają:
 1)
@@ -200,7 +211,8 @@ zarządzający jednostką badawczą – osobę lub osoby formalnie odpowiedzialn
 zarządzający miejscem badania – osobę lub osoby odpowiedzialne za zagwarantowanie, że dany etap lub dane etapy badania, za które ta osoba lub te osoby są odpowiedzialne, są wykonywane zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
 26)
 zleceniodawca – podmiot zlecający niekliniczne badanie substancji chemicznych i ich mieszanin z zakresu bezpieczeństwa dla zdrowia człowieka i środowiska.
-Rozdział 2 Organizacja jednostki badawczej i jej personel
+Rozdział 2
+Organizacja jednostki badawczej i jej personel
 2.
 Zarządzający jednostką badawczą zapewnia w jednostce badawczej spełnianie zasad Dobrej Praktyki Laboratoryjnej. Zarządzający jednostką badawczą zapewnia, że:
 1)
@@ -275,7 +287,8 @@ rejestrują, niezwłocznie i dokładnie, dane źródłowe zgodnie z zasadami Dob
 przestrzegają przepisów i zasad bezpieczeństwa i higieny pracy w celu zminimalizowania ryzyka dla zdrowia i zapewnienia prawidłowego przebiegu badania;
 5)
 zawiadamiają kierownika badania lub zarządzającego jednostką badawczą o istotnych zmianach swojego stanu zdrowia lub o prowadzonym postępowaniu leczniczym w celu odsunięcia ich od czynności, które mogłyby mieć niekorzystny wpływ na badanie.
-Rozdział 3 Program zapewnienia jakości
+Rozdział 3
+Program zapewnienia jakości
 7.
 Jednostka badawcza posiada program zapewnienia jakości, sporządzony w postaci pisemnej, gwarantujący prowadzenie badań zgodnie z zasadami Dobrej Praktyki Laboratoryjnej.
 8.
@@ -312,7 +325,8 @@ niezwłoczne przekazywanie pisemnych raportów z inspekcji zarządzającemu jedn
 niezwłoczne przekazywanie, przez osobę prowadzącą program zapewnienia jakości w miejscu badania, pisemnych raportów z inspekcji zarządzającemu jednostką badawczą, kierownikowi badania, osobie wiodącej prowadzącej program zapewnienia jakości, głównemu wykonawcy oraz zarządzającemu miejscem badania, w przypadku badań wykonywanych w wielu miejscach.
 10.
 Osoby prowadzące program zapewnienia jakości nie biorą udziału w badaniach, których jakość monitorują.
-Rozdział 4 Jednostka badawcza
+Rozdział 4
+Jednostka badawcza
 11.
 Jednostka badawcza posiada wystarczającą powierzchnię, spełnia odpowiednie warunki konstrukcyjne i lokalizacyjne tak, aby sprostać wymaganiom dotyczącym przeprowadzenia badań i ograniczyć do minimum ryzyko negatywnego wpływu otoczenia na wiarygodność ich wyników.
 12.
@@ -341,7 +355,8 @@ odpowiednie pomieszczenia i wyposażenie do zbierania, gromadzenia i usuwania od
 procedury zbierania odpadów, ich unieszkodliwiania i transportu.
 17.
 Sposób gospodarowania odpadami oraz sposób ich usuwania nie wpływają na prawidłowy przebieg badania.
-Rozdział 5 Przyrządy pomiarowe, materiały i odczynniki
+Rozdział 5
+Przyrządy pomiarowe, materiały i odczynniki
 18.
 Przyrządy pomiarowe, łącznie ze zwalidowanymi systemami komputerowymi, stosowane do otrzymywania, gromadzenia i przeglądania danych oraz do sterowania istotnymi parametrami środowiska badań posiadają parametry wystarczające do wykonania badania i są rozmieszczone w odpowiednich miejscach, zgodnie z ich przeznaczeniem.
 19.
@@ -352,7 +367,8 @@ Przyrządy pomiarowe i materiały stosowane w badaniach nie wpływają negatywni
 Substancje i mieszaniny chemiczne, w tym odczynniki, są oznakowane, a ich oznakowanie zawiera informacje dotyczące ich tożsamości (z podaniem stężenia, gdy to istotne), okresu ważności i szczególnych warunków przechowywania.
 22.
 Są dostępne informacje dotyczące pochodzenia, daty przygotowania i stabilności stosowanych substancji i mieszanin chemicznych, w tym odczynników, a ich okres ważności zostaje przedłużony wyłącznie po dokonaniu oceny na podstawie dokumentów lub przeprowadzonej analizy.
-Rozdział 6 Systemy badawcze
+Rozdział 6
+Systemy badawcze
 23.
 W przypadku systemów fizykochemicznych:
 1)
@@ -381,7 +397,8 @@ w przypadku gdy poszczególne systemy biologiczne będą w trakcie badania wyjmo
 pomieszczenia, klatki i pojemniki są czyszczone i odkażane z odpowiednią częstotliwością; żaden materiał, który w czasie badania pozostaje w kontakcie z systemem biologicznym, nie może zawierać zanieczyszczeń w stężeniach, które mogłyby zakłócić badanie; podściółka dla zwierząt jest zmieniana z częstotliwością wymaganą w hodowli takich zwierząt, a zastosowanie środków ochrony przed organizmami niepożądanymi powinno być udokumentowane;
 10)
 systemy badawcze stosowane w badaniach terenowych są rozmieszczone w sposób minimalizujący możliwość wpływu używanych w przeszłości pestycydów lub wpływu zabiegów z użyciem pestycydów z obszarów sąsiadujących.
-Rozdział 7 Materiały badane i materiały odniesienia
+Rozdział 7
+Materiały badane i materiały odniesienia
 25.
 Prowadzi się:
 1)
@@ -404,7 +421,8 @@ Znana jest stabilność materiałów badanych i materiałów odniesienia w stoso
 Jeżeli materiał badany lub materiał odniesienia są podawane z nośnikiem, określa się stopień jednorodności, stężenie i stabilność każdego materiału w danym nośniku. W przypadku badań terenowych te informacje można uzyskać po przeprowadzeniu oddzielnych badań laboratoryjnych.
 33.
 W przypadku wszystkich badań, oprócz badań krótkoterminowych, w pomieszczeniu archiwum są przechowywane próbki każdej serii materiału badanego w celu ich analizy. W pomieszczeniu archiwum próbki materiału badanego są reprezentatywne dla materiału użytego podczas badania. Próbki należy pobrać natychmiast po otrzymaniu lub przy pierwszym otwarciu pojemnika, a następnie przechowywać w odpowiednich warunkach.
-Rozdział 8 Standardowe procedury operacyjne
+Rozdział 8
+Standardowe procedury operacyjne
 34.
 W celu zapewnienia jakości i prawidłowości wykonywanych badań jednostka badawcza posiada standardowe procedury operacyjne w postaci dokumentu zatwierdzonego przez zarządzającego jednostką badawczą.
 35.
@@ -443,7 +461,8 @@ f)
 umiejscowienie systemów badawczych w harmonogramie badania;
 5)
 w odniesieniu do programu zapewnienia jakości – sposób postępowania osoby lub osób prowadzących program zapewnienia jakości podczas planowania, przeprowadzania i dokumentowania inspekcji oraz przekazywania sprawozdań z inspekcji.
-Rozdział 9 Przeprowadzenie badania
+Rozdział 9
+Przeprowadzenie badania
 39.
 Przed rozpoczęciem każdego badania sporządza się plan badania w postaci dokumentu, zweryfikowany pod względem zgodności z zasadami Dobrej Praktyki Laboratoryjnej przez osobę prowadzącą program zapewnienia jakości, podpisany i opatrzony datą przez kierownika badania i zarządzającego jednostką badawczą. W przypadku badań krótkoterminowych dopuszcza się stosowanie ogólnego planu badania z dołączanym suplementem precyzującym konkretne zadania.
 40.
@@ -510,7 +529,8 @@ Dane rejestrowane bezpośrednio przez komputer umożliwiają identyfikację czas
 Stosowane systemy komputerowe zapewniają pełną kontrolę i przechowywanie procesu przetwarzania danych oraz pokazują wszystkie zmiany w stosunku do danych źródłowych w sposób umożliwiający ich pełny audyt.
 51.
 Systemy komputerowe umożliwiają powiązanie wprowadzonych zmian z osobą dokonującą tych zmian, w szczególności przez stosowanie podpisów elektronicznych opatrzonych datą i czasem. W przypadku dokonania zmian podaje się powód ich dokonania.
-Rozdział 10 Sprawozdania z badań
+Rozdział 10
+Sprawozdania z badań
 52.
 Z każdego badania sporządza się sprawozdanie końcowe. W przypadku badań krótkoterminowych dopuszcza się stosowanie standardowego sprawozdania, z dołączanym suplementem precyzującym konkretne zadania.
 53.
@@ -534,8 +554,7 @@ oświadczenie osoby lub osób prowadzących program zapewnienia jakości zawiera
 a)
 rodzaje i daty przeprowadzanych inspekcji, w tym także inspekcji poszczególnych etapów badania, oraz daty przekazania raportów z inspekcji do zarządzającego jednostką badawczą i do kierownika badania,
 b)
-rodzaje i daty przeprowadzanych inspekcji, w tym także inspekcji poszczególnych etapów badania, oraz daty przekazania raportów z inspekcji do zarządzającego jednostką badawczą, kierownika badania, osoby wiodącej prowadzącej program zapewnienia jakości, głównego wykonawcy oraz zarządzającego miejscem badania, w przypadku badań wykonywanych w wielu miejscach
-takie oświadczenie służy także do potwierdzenia, że sprawozdanie końcowe odzwierciedla dane źródłowe;
+rodzaje i daty przeprowadzanych inspekcji, w tym także inspekcji poszczególnych etapów badania, oraz daty przekazania raportów z inspekcji do zarządzającego jednostką badawczą, kierownika badania, osoby wiodącej prowadzącej program zapewnienia jakości, głównego wykonawcy oraz zarządzającego miejscem badania, w przypadku badań wykonywanych w wielu miejscach – takie oświadczenie służy także do potwierdzenia, że sprawozdanie końcowe odzwierciedla dane źródłowe;
 4)
 opis materiałów i metod badań:
 a)
@@ -576,7 +595,8 @@ Sprawozdanie końcowe podpisuje i opatruje datą kierownik badania w celu wykaza
 Korekty sprawozdania końcowego dokonane po jego podpisaniu przez kierownika badania wprowadza się w formie aneksu podpisanego i opatrzonego datą przez kierownika badania. W aneksie wskazuje się wyraźnie powód dokonania korekt.
 59.
 Przeredagowanie sprawozdania końcowego w taki sposób, aby było zgodne z wymaganiami jednostek, o których mowa w § 5 ust. 1 pkt 3 rozporządzenia, nie jest dokonaniem korekt lub zmian.
-Rozdział 11 Przechowywanie w pomieszczeniu archiwum zapisów i materiałów
+Rozdział 11
+Przechowywanie w pomieszczeniu archiwum zapisów i materiałów
 60.
 Jednostka badawcza, aby umożliwić jednostce właściwej do kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej sprawdzenie, czy jednostka badawcza spełnia te zasady, przechowuje przez okres 10 lat następujące zapisy i materiały:
 1)

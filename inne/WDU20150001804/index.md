@@ -22,19 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-22 |
 | Data wydania | 2015-11-05 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2026-02-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001804) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1804/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Stawki minimalne w sprawach cywilnych, ze stosunku pracy i ubezpieczeń społecznych Rozdział 3 – Stawki minimalne w sprawach karnych i w sprawach o wykroczenia Rozdział 4 – Stawki minimalne w innych sprawach Rozdział 5 – Wysokość opłat za czynności radców prawnych przed organami wymiaru sprawiedliwości Rozdział 6 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 225 ust. 2 i 3 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2015 r. poz. 507, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 225 ust. 2 i 3 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2015 r. poz. 507, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1064, 1224, 1255 i 1311.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 stawki minimalne opłat za czynności radców prawnych, zwane dalej „stawkami minimalnymi”;
 2)
 wysokość opłat za czynności radców prawnych przed organami wymiaru sprawiedliwości, zwanych dalej „opłatami”.
+Stawki minimalne w sprawach cywilnych, ze stosunku pracy i ubezpieczeń społecznych
 § 2.
 Stawki minimalne wynoszą przy wartości przedmiotu sprawy:
 1)
@@ -75,7 +76,7 @@ podział majątku wspólnego między małżonkami – stawkę obliczoną na pods
 9)
 alimenty, nakazanie wypłacenia wynagrodzenia za pracę do rąk drugiego małżonka – 120 zł.
 2.
-Stawki, o których mowa w ust. 1 pkt 1, obejmują również wynagrodzenie od roszczeń majątkowych dochodzonych łącznie, z wyjątkiem roszczeń przewidzianych w art. 58 § 2 i 3 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583, z późn. zm.), od których pobiera się także wynagrodzenie określone w ust. 1.
+Stawki, o których mowa w ust. 1 pkt 1, obejmują również wynagrodzenie od roszczeń majątkowych dochodzonych łącznie, z wyjątkiem roszczeń przewidzianych w art. 58 § 2 i 3 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1062, 1087, 1199 i 1274.), od których pobiera się także wynagrodzenie określone w ust. 1.
 3.
 Stawki określone w ust. 1 pkt 5 obejmują w sprawach o ustalenie ojcostwa również roszczenia majątkowe strony powodowej.
 4.
@@ -227,6 +228,7 @@ Stawki minimalne wynoszą w postępowaniu przed Trybunałem Konstytucyjnym:
 za sporządzenie i wniesienie skargi konstytucyjnej oraz za stawiennictwo na rozprawie – 2400 zł;
 2)
 za sporządzenie i wniesienie skargi konstytucyjnej oraz za sporządzenie opinii o braku podstaw do wniesienia tej skargi – 1200 zł.
+Stawki minimalne w sprawach karnych i w sprawach o wykroczenia
 § 11.
 1.
 Stawki minimalne wynoszą w sprawie objętej:
@@ -295,6 +297,7 @@ za prowadzenie sprawy o zatarcie skazania lub ukarania – 240 zł;
 za prowadzenie sprawy o ułaskawienie – 480 zł;
 7)
 za pozostałe czynności w postępowaniu wykonawczym – 480 zł.
+Stawki minimalne w innych sprawach
 § 14.
 1.
 Stawki minimalne wynoszą w postępowaniu przed sądami administracyjnymi:
@@ -326,6 +329,7 @@ o uznanie postanowień wzorca umowy za niedozwolone – 120 zł;
 z zakresu regulacji energetyki, telekomunikacji lub transportu kolejowego – 1440 zł.
 3.
 Za prowadzenie sprawy w postępowaniu ze skargi na naruszenie prawa strony do rozpoznania sprawy bez nieuzasadnionej zwłoki w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym oraz do przeprowadzenia i zakończenia bez nieuzasadnionej zwłoki sprawy egzekucyjnej lub innej sprawy dotyczącej wykonania orzeczenia sądowego stawka minimalna wynosi 240 zł.
+Wysokość opłat za czynności radców prawnych przed organami wymiaru sprawiedliwości
 § 15.
 1.
 Opłaty stanowiące podstawę zasądzania kosztów zastępstwa prawnego ustala się z uwzględnieniem stawek minimalnych określonych w rozdziałach 2–4.
@@ -358,22 +362,35 @@ W przypadkach, o których mowa w ust. 1, sąd, na wniosek radcy prawnego, zasąd
 W razie zmiany w toku postępowania wartości stanowiącej podstawę obliczenia opłat, bierze się pod uwagę wartość zmienioną, poczynając od następnej instancji.
 § 20.
 Wysokość stawek minimalnych w sprawach nieokreślonych w rozporządzeniu ustala się, przyjmując za podstawę stawkę w sprawach o najbardziej zbliżonym rodzaju.
+Przepisy przejściowe i końcowe
 § 21.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe do czasu zakończenia postępowania w danej instancji.
 § 22.
 Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 28 września 2002 r. w sprawie opłat za czynności radców prawnych oraz ponoszenia przez Skarb Państwa kosztów pomocy prawnej udzielonej przez radcę prawnego ustanowionego z urzędu (Dz. U. z 2013 r. poz. 490 oraz z 2015 r. poz. 617 i 1078).
 § 23.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1064, 1224, 1255 i 1311. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1062, 1087, 1199 i 1274.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Stawki minimalne w sprawach cywilnych, ze stosunku pracy i ubezpieczeń społecznych
+#### Rozdział 2 – Stawki minimalne w sprawach cywilnych, ze stosunku pracy i ubezpieczeń społecznych
 
-#### Rozdział 3 Stawki minimalne w sprawach karnych i w sprawach o wykroczenia
+#### Rozdział 3 – Stawki minimalne w sprawach karnych i w sprawach o wykroczenia
 
-#### Rozdział 4 Stawki minimalne w innych sprawach
+#### Rozdział 4 – Stawki minimalne w innych sprawach
 
-#### Rozdział 5 Wysokość opłat za czynności radców prawnych przed organami wymiaru sprawiedliwości
+#### Rozdział 5 – Wysokość opłat za czynności radców prawnych przed organami wymiaru sprawiedliwości
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

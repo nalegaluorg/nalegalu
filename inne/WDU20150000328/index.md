@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-02 |
 | Data wydania | 2015-03-10 |
-| Wejście w życie | 2015-03-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000328) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/328/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 40 ust. 16 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 40 ust. 16 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2013 r. poz. 260, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659 i 1310.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 1 czerwca 2004 r. w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. Nr 140, poz. 1481) w § 1 w ust. 5 pkt 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Rady Ministrów z dnia 1 czerwca 2004 r. w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. Nr 140, poz. 1481) w § 1 w ust. 5 pkt 2 otrzymuje brzmienie: „
 2)
 oświadczenie o:
 a)
@@ -38,8 +36,7 @@ posiadaniu ważnego pozwolenia na budowę obiektu umieszczanego w pasie drogowym
 b)
 zgłoszeniu budowy lub prowadzonych robót właściwemu organowi administracji architektoniczno-budowlanej, lub
 c)
-zamiarze budowy przyłączy elektroenergetycznych, wodociągowych, kanalizacyjnych, gazowych, cieplnych i telekomunikacyjnych, dla których sporządzono plan sytuacyjny na kopii aktualnej mapy zasadniczej lub mapy jednostkowej przyjętej do państwowego zasobu geodezyjnego i kartograficznego.
-” .
+zamiarze budowy przyłączy elektroenergetycznych, wodociągowych, kanalizacyjnych, gazowych, cieplnych i telekomunikacyjnych, dla których sporządzono plan sytuacyjny na kopii aktualnej mapy zasadniczej lub mapy jednostkowej przyjętej do państwowego zasobu geodezyjnego i kartograficznego. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659 i 1310.
 

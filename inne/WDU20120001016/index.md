@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-27 |
 | Data wydania | 2012-09-13 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1016/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378 oraz z 2012 r. poz. 123.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** inne, niż wymienione w pkt 1 i 2, osoby posiadające obywatelstwo polskie: które nie ukończyły 18. roku życia, lub posiadające miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, które są w okresie ciąży, porodu lub połogu ” ;
@@ -44,7 +43,7 @@ source: "eli-html"
 - **1)** świadczeniobiorca potwierdzi swoją tożsamość poprzez okazanie dowodu osobistego, paszportu, prawa jazdy albo legitymacji szkolnej; legitymacja szkolna może być okazana jedynie przez osobę, która nie ukończyła 18. roku życia;
 - **2)** świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji uzyska potwierdzenie prawa do świadczeń opieki zdrowotnej osoby ubiegającej się o udzielenie świadczenia opieki zdrowotnej w sposób określony w ust. 3.
 
-3. Prawo do świadczeń opieki zdrowotnej może zostać potwierdzone na podstawie dokumentu elektronicznego, o którym mowa w art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.), sporządzonego, na podstawie numeru PESEL, przez Fundusz dla świadczeniodawcy lub niebędącej świadczeniodawcą osoby uprawnionej w rozumieniu art. 2 pkt 14 ustawy o refundacji i przesłanego za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.) z zapewnieniem integralności i poufności zawartych w nim danych oraz uwierzytelnieniem stron uprawnionych do przetwarzania tych danych.
+3. Prawo do świadczeń opieki zdrowotnej może zostać potwierdzone na podstawie dokumentu elektronicznego, o którym mowa w art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195.), sporządzonego, na podstawie numeru PESEL, przez Fundusz dla świadczeniodawcy lub niebędącej świadczeniodawcą osoby uprawnionej w rozumieniu art. 2 pkt 14 ustawy o refundacji i przesłanego za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371, z 2009 r. Nr 201, poz. 1540 oraz z 2011 r. Nr 85, poz. 459 i Nr 134, poz. 779.) z zapewnieniem integralności i poufności zawartych w nim danych oraz uwierzytelnieniem stron uprawnionych do przetwarzania tych danych.
 
 4. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, warunki, jakie muszą spełniać świadczeniodawca lub nie będąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji, występujący do Funduszu o dokument elektroniczny, o którym mowa w ust. 3, mając na uwadze konieczność zapewnienia integralności oraz poufności przetwarzanych danych.
 
@@ -73,12 +72,12 @@ source: "eli-html"
 15. Fundusz nie może odmówić świadczeniodawcy sfinansowania świadczenia opieki zdrowotnej z powodu braku prawa do świadczeń opieki zdrowotnej osoby, która uzyskała to świadczenie, albo żądać od niebędącej świadczeniodawcą osoby uprawnionej w rozumieniu art. 2 pkt 14 ustawy o refundacji zwrotu kosztów świadczenia opieki zdrowotnej poniesionych przez Fundusz pomimo braku prawa do świadczeń opieki zdrowotnej osoby, która uzyskała to świadczenie na podstawie recepty wystawionej przez osobę uprawnioną, jeżeli:
 
 - **1)** w dniu udzielenia tego świadczenia potwierdził, w sposób określony w ust. 3, prawo świadczeniobiorcy do świadczeń opieki zdrowotnej albo świadczeniobiorca ten w tym dniu przedstawił dokument potwierdzający prawo do świadczeń opieki zdrowotnej lub złożył oświadczenie, o którym mowa w ust. 6,
-- **2)** świadczeniobiorca w terminie przedstawił dokument potwierdzający prawo do świadczeń opieki zdrowotnej lub złożył oświadczenie, o którym mowa w ust. 6, w przypadkach określonych w ust. 11 o ile świadczenie to zostało zrealizowane zgodnie z warunkami umowy o udzielanie świadczeń opieki zdrowotnej zawartej ze świadczeniodawcą albo nie będącą świadczeniodawcą osobą uprawnioną w rozumieniu art. 2 pkt 14 ustawy o refundacji.
+- **2)** świadczeniobiorca w terminie przedstawił dokument potwierdzający prawo do świadczeń opieki zdrowotnej lub złożył oświadczenie, o którym mowa w ust. 6, w przypadkach określonych w ust. 11 – o ile świadczenie to zostało zrealizowane zgodnie z warunkami umowy o udzielanie świadczeń opieki zdrowotnej zawartej ze świadczeniodawcą albo nie będącą świadczeniodawcą osobą uprawnioną w rozumieniu art. 2 pkt 14 ustawy o refundacji.
 
 16. W przypadku gdy świadczenie opieki zdrowotnej zostało udzielone pomimo braku prawa do świadczeń opieki zdrowotnej w wyniku:
 
 - **1)** posługiwania się kartą ubezpieczenia zdrowotnego albo innym dokumentem potwierdzającym prawo do świadczeń opieki zdrowotnej przez osobę, która utraciła to prawo w okresie ważności karty albo innego dokumentu, albo
-- **2)** złożenia oświadczenia, o którym mowa w ust. 6 osoba, której udzielono świadczenia opieki zdrowotnej, jest obowiązana do uiszczenia kosztów tego świadczenia.
+- **2)** złożenia oświadczenia, o którym mowa w ust. 6 – osoba, której udzielono świadczenia opieki zdrowotnej, jest obowiązana do uiszczenia kosztów tego świadczenia.
 
 17. Przepisu ust. 16 pkt 2 nie stosuje się do osoby, która w chwili składania oświadczenia, o którym mowa w ust. 6, działała w usprawiedliwionym błędnym prze konaniu, że posiada prawo do świadczeń opieki zdrowotnej.
 
@@ -90,7 +89,7 @@ source: "eli-html"
 
 21. Należności, o których mowa w ust. 18, ulegają przedawnieniu z upływem 5 lat, licząc od dnia, w którym decyzja ustalająca te należności stała się ostateczna.
 
-22. Dyrektor oddziału wojewódzkiego Funduszu może umorzyć w całości albo w części spłatę należności ustalonej w decyzji, o której mowa w ust. 18, lub odroczyć spłatę tej należności, lub rozłożyć ją na raty, stosując odpowiednio zasady określone w art. 56–58 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.). ” ;
+22. Dyrektor oddziału wojewódzkiego Funduszu może umorzyć w całości albo w części spłatę należności ustalonej w decyzji, o której mowa w ust. 18, lub odroczyć spłatę tej należności, lub rozłożyć ją na raty, stosując odpowiednio zasady określone w art. 56–58 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183, Nr 234, poz. 1386, Nr 240, poz. 1429 i Nr 291, poz. 1707.). ” ;
 
 - **5)** po art. 50 dodaje się art. 50a w brzmieniu: „
 
@@ -104,7 +103,7 @@ source: "eli-html"
 
 - **1)** ubezpieczonym,
 - **2)** osobom uprawnionym do świadczeń na podstawie przepisów o koordynacji,
-- **3)** osobom, o których mowa w art. 2 ust. 1 pkt 2 i 3 oraz art. 12 pkt 2–4, 6 i 9 świadczeniodawca może przedstawić na jednym rachunku łącznie. ” ;
+- **3)** osobom, o których mowa w art. 2 ust. 1 pkt 2 i 3 oraz art. 12 pkt 2–4, 6 i 9 – świadczeniodawca może przedstawić na jednym rachunku łącznie. ” ;
 - **6)** w art. 53: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
@@ -115,7 +114,7 @@ source: "eli-html"
 2. Jeżeli poświadczenie albo dokument, o których mowa w ust. 1, nie zostaną przedstawione w przypadku:
 
 - **1)** stanu nagłego,
-- **2)** porodu przepisy art. 50 ust. 11–15 i 18–22 stosuje się odpowiednio. ” ;
+- **2)** porodu – przepisy art. 50 ust. 11–15 i 18–22 stosuje się odpowiednio. ” ;
 - **7)** w art. 67: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -176,8 +175,11 @@ source: "eli-html"
 
 1a. Zgłoszenia do ubezpieczenia zdrowotnego oraz zgłoszenia o wyrejestrowaniu z ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 8a, oraz członków ich rodzin kierowane są do centrali Funduszu. ” ;
 
-- **13)** w art. 87: w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) osób wymienionych w art. 66 ust. 1 pkt 1 lit. a i c-i, pkt 2–8, 8b-33 i 35 oraz w art. 68 są opłacane i ewidencjonowane w Zakładzie Ubezpieczeń Społecznych, z zastrzeżeniem pkt 2; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) osób wymienionych w art. 66 ust. 1 pkt 8a są opłacane i ewidencjonowane w centrali Funduszu; ” , ust. 7 i 8 otrzymują brzmienie: „
+- **13)** w art. 87: w ust. 4: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** osób wymienionych w art. 66 ust. 1 pkt 1 lit. a i c-i, pkt 2–8, 8b-33 i 35 oraz w art. 68 są opłacane i ewidencjonowane w Zakładzie Ubezpieczeń Społecznych, z zastrzeżeniem pkt 2; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** osób wymienionych w art. 66 ust. 1 pkt 8a są opłacane i ewidencjonowane w centrali Funduszu; ” , ust. 7 i 8 otrzymują brzmienie: „
     - **b)**
 
 7. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego oraz podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, przekazują nieodpłatnie do centrali Funduszu lub – na jego wniosek – do oddziału wojewódzkiego Funduszu, dane o ubezpieczonych oraz zgłoszonych do ubezpieczenia zdrowotnego członkach rodzin ubezpieczonych, określone w art. 188 ust. 4 pkt 1, 7–9 i 13, oraz o opłaconych za nich składkach na ubezpieczenie zdrowotne, przekazane w zgłoszeniu, o którym mowa w art. 77 ust. 1 i 3, i w imiennym raporcie miesięcznym, oraz o odsetkach za zwłokę, w terminie 15 dni roboczych od dnia wpływu składek i odsetek oraz dokumentów umożliwiających ustalenie ich wysokości i rozdzielenie ich na ubezpieczonych.
@@ -202,7 +204,7 @@ source: "eli-html"
 
 10e. Zakres danych dotyczących pracowników korzystających z urlopu bezpłatnego obejmuje dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7 i 9, oraz datę rozpoczęcia i zakończenia urlopu bezpłatnego.
 
-10f. Organ emerytalny właściwy zgodnie z przepisami ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.) oraz ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.) wydaje osobie, która złożyła wniosek o emeryturę lub rentę, zaświadczenie potwierdzające złożenie wniosku oraz przekazuje niezwłocznie kopię tego zaświadczenia oddziałowi wojewódzkiemu Funduszu właściwemu ze względu na miejsce zamieszkania tej osoby.
+10f. Organ emerytalny właściwy zgodnie z przepisami ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308, z 2009 r. Nr 24, poz. 145, Nr 79, poz. 669, Nr 95, poz. 785 i Nr 161, poz. 1278, z 2010 r. Nr 27, poz. 141, Nr 36, poz. 204, Nr 113, poz. 745 i Nr 167, poz. 1130 oraz z 2012 r. poz. 664.) oraz ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410, z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786, z 2010 r. Nr 113, poz. 745, z 2011 r. Nr 205, poz. 1203 oraz z 2012 r. poz. 637 i 664.) wydaje osobie, która złożyła wniosek o emeryturę lub rentę, zaświadczenie potwierdzające złożenie wniosku oraz przekazuje niezwłocznie kopię tego zaświadczenia oddziałowi wojewódzkiemu Funduszu właściwemu ze względu na miejsce zamieszkania tej osoby.
 
 10g. Zaświadczenie, o którym mowa w ust. 10f, zawiera dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7 i 9, tytuł uprawnienia oraz datę zgłoszenia wniosku o emeryturę lub rentę. ” , ust. 11 otrzymuje brzmienie: „
 
@@ -223,7 +225,7 @@ source: "eli-html"
 **Art. 92.** Rada Ministrów określi, w drodze rozporządzenia, odrębny sposób:
 
 - **1)** ubezpieczania w stosunku do osób, o których mowa w art. 66 ust. 1 pkt 5–8 i 8b-13, które ze względu na wymogi obronności lub bezpieczeństwa państwa zostały oddelegowane do wykonywania pracy lub wyznaczone do pełnienia służby poza macierzystą jednostką,
-- **2)** zgłaszania i wyrejestrowywania z ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 8a, i członków ich rodzin, oraz przekazywania składek na ubezpieczenie zdrowotne mając na uwadze względy obronności państwa. ” ;
+- **2)** zgłaszania i wyrejestrowywania z ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 8a, i członków ich rodzin, oraz przekazywania składek na ubezpieczenie zdrowotne – mając na uwadze względy obronności państwa. ” ;
 - **17)** w art. 97 ust. 4 otrzymuje brzmienie: „
 
 4. Fundusz prowadzi Centralny Wykaz Ubezpieczonych w celu:
@@ -244,10 +246,27 @@ source: "eli-html"
 
 - **21)** w dziale VIa art. 161b oznacza się jako art. 161ba;
 - **22)** w art. 161e w ust. 1 wyrazy „art. 161b ust. 1 i 2” zastępuje się wyrazami „art. 161ba ust. 1 i 2”;
-- **23)** w art. 188: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) stwierdzenia istnienia ubezpieczenia zdrowotnego oraz prawa do świadczeń opieki zdrowotnej finansowanych przez Fundusz; ” , – w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 w brzmieniu: „ 9) identyfikacji płatnika składek na ubezpieczenie zdrowotne. ” , w ust. 4: – po pkt 11 dodaje się pkt 11a i 11b w brzmieniu: „ 11a) adres zameldowania; 11b) adres do korespondencji i inne dane pozwalające na skontaktowanie się z osobą, której dane Fundusz przetwarza w Centralnym Wykazie Ubezpieczonych; ” , – pkt 14 otrzymuje brzmienie: „ 14) stopień niepełnosprawności; ” , – po pkt 22 dodaje się pkt 22a-22c w brzmieniu: „ 22a) kod tytułu ubezpieczenia; 22b) data powstania obowiązku ubezpieczenia zdrowotnego; 22c) data wypełnienia zgłoszenia do ubezpieczenia zdrowotnego; ” , – po pkt 23 dodaje się pkt 23a w brzmieniu: „ 23a) data wygaśnięcia obowiązku ubezpieczenia zdrowotnego; ” , – pkt 24 otrzymuje brzmienie: „ 24) okres, za który opłacono składkę na ubezpieczenie zdrowotne, oraz dane dotyczące opłaconych, nie opłaconych, nieopłaconych w terminie i należnych składek na ubezpieczenie zdrowotne wraz ze wskazaniem okresu, jakiego dotyczą; ” , – w pkt 27 kropkę zastępuje się średnikiem i dodaje pkt 28–33 w brzmieniu: „ 28) dane dotyczące wypadków przy pracy i chorób zawodowych, będące w posiadaniu ubezpieczonego, jego pracodawcy lub Zakładu Ubezpieczeń Społecznych; 29) informacje, określające ustawodawstwo właściwe zgodnie z przepisami o koordynacji, będące w posiadaniu ubezpieczonego, jego pracodawcy, Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego; 30) dane o przychodach z tytułów rodzących obowiązek ubezpieczenia zdrowotnego; 31) okres uprawnień wynikających z art. 67 ust. 6 i 7; 32) informacje, czy członek rodziny pozostaje we wspólnym gospodarstwie domowym; 33) kod przyczyny wyrejestrowania z tytułu ubezpieczenia zdrowotnego. ” ;
+- **23)** w art. 188: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** stwierdzenia istnienia ubezpieczenia zdrowotnego oraz prawa do świadczeń opieki zdrowotnej finansowanych przez Fundusz; ” , w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 w brzmieniu: „
+- **9)** identyfikacji płatnika składek na ubezpieczenie zdrowotne. ” , w ust. 4: po pkt 11 dodaje się pkt 11a i 11b w brzmieniu: „
     - **b)**
 
+- **11a)** adres zameldowania;
+- **11b)** adres do korespondencji i inne dane pozwalające na skontaktowanie się z osobą, której dane Fundusz przetwarza w Centralnym Wykazie Ubezpieczonych; ” , pkt 14 otrzymuje brzmienie: „
+- **14)** stopień niepełnosprawności; ” , po pkt 22 dodaje się pkt 22a-22c w brzmieniu: „
+- **22a)** kod tytułu ubezpieczenia;
+- **22b)** data powstania obowiązku ubezpieczenia zdrowotnego;
+- **22c)** data wypełnienia zgłoszenia do ubezpieczenia zdrowotnego; ” , po pkt 23 dodaje się pkt 23a w brzmieniu: „
+- **23a)** data wygaśnięcia obowiązku ubezpieczenia zdrowotnego; ” , pkt 24 otrzymuje brzmienie: „
+- **24)** okres, za który opłacono składkę na ubezpieczenie zdrowotne, oraz dane dotyczące opłaconych, nie opłaconych, nieopłaconych w terminie i należnych składek na ubezpieczenie zdrowotne wraz ze wskazaniem okresu, jakiego dotyczą; ” , w pkt 27 kropkę zastępuje się średnikiem i dodaje pkt 28–33 w brzmieniu: „
+- **28)** dane dotyczące wypadków przy pracy i chorób zawodowych, będące w posiadaniu ubezpieczonego, jego pracodawcy lub Zakładu Ubezpieczeń Społecznych;
+- **29)** informacje, określające ustawodawstwo właściwe zgodnie z przepisami o koordynacji, będące w posiadaniu ubezpieczonego, jego pracodawcy, Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego;
+- **30)** dane o przychodach z tytułów rodzących obowiązek ubezpieczenia zdrowotnego;
+- **31)** okres uprawnień wynikających z art. 67 ust. 6 i 7;
+- **32)** informacje, czy członek rodziny pozostaje we wspólnym gospodarstwie domowym;
+- **33)** kod przyczyny wyrejestrowania z tytułu ubezpieczenia zdrowotnego. ” ;
 - **24)** art. 192 otrzymuje brzmienie: „
 
 **Art. 192.**
@@ -313,5 +332,5 @@ source: "eli-html"
 
 6. W przypadku gdy w drugim półroczu zostanie przekroczony limit odpowiednio kosztów albo wydatków, o których mowa w ust. 1 i 2, przewidzianych na dany rok, w następnym roku limit kosztów albo wydatków określonych na ten rok obniża się o kwotę przekroczenia w poprzednim roku.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2013 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2013 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378 oraz z 2012 r. poz. 123. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371, z 2009 r. Nr 201, poz. 1540 oraz z 2011 r. Nr 85, poz. 459 i Nr 134, poz. 779. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183, Nr 234, poz. 1386, Nr 240, poz. 1429 i Nr 291, poz. 1707. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308, z 2009 r. Nr 24, poz. 145, Nr 79, poz. 669, Nr 95, poz. 785 i Nr 161, poz. 1278, z 2010 r. Nr 27, poz. 141, Nr 36, poz. 204, Nr 113, poz. 745 i Nr 167, poz. 1130 oraz z 2012 r. poz. 664. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410, z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786, z 2010 r. Nr 113, poz. 745, z 2011 r. Nr 205, poz. 1203 oraz z 2012 r. poz. 637 i 664.
 

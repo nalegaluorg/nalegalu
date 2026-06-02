@@ -32,18 +32,16 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 22 kwietnia 2022 r. w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów (Dz. U. poz. 878), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Obrony Narodowej z dnia 27 czerwca 2023 r. zmieniającym rozporządzenie w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów (Dz. U. poz. 1271).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 27 czerwca 2023 r. zmieniającego rozporządzenie w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów (Dz. U. poz. 1271), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 27 czerwca 2023 r. zmieniającego rozporządzenie w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów (Dz. U. poz. 1271), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 22 kwietnia 2022 r. w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów
 Na podstawie art. 110 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wykaz uczelni, w tym uczelni wojskowych, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów, w tym w ramach programu Legii Akademickiej, który jest określony w załączniku do rozporządzenia.
 § 2.
 Rozporządzenie wchodzi w życie z dniem 23 kwietnia 2022 r.
-Załącznik – Wykaz uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów
+Załącznik – Wykaz uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiówW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 27 czerwca 2023 r. zmieniającego rozporządzenie w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów (Dz. U. poz. 1271), które weszło w życie z dniem 19 lipca 2023 r.
 1.
 Uczelnie wojskowe:
 1)
@@ -87,11 +85,11 @@ Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu;
 14)
 Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie;
 15)
-Collegium Humanum – Szkoła Główna Menedżerska ;
+Collegium Humanum – Szkoła Główna Menedżerska Obecnie Uczelnia Biznesu i Nauk Stosowanych „Varsovia”.;
 16)
 Collegium Witelona Uczelnia Państwowa;
 17)
-Krakowska Akademia im. Andrzeja Frycza Modrzewskiego z siedzibą w Krakowie ;
+Krakowska Akademia im. Andrzeja Frycza Modrzewskiego z siedzibą w Krakowie Obecnie Uniwersytet Andrzeja Frycza Modrzewskiego w Krakowie.;
 18)
 Menedżerska Akademia Nauk Stosowanych w Warszawie;
 19)
@@ -125,7 +123,7 @@ Uniwersytet Mikołaja Kopernika w Toruniu;
 33)
 Uniwersytet Opolski;
 34)
-Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie ;
+Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie Obecnie Uniwersytet Komisji Edukacji Narodowej w Krakowie na podstawie art. 36 ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 2005), która weszła w życie z dniem 27 września 2023 r.;
 35)
 Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie;
 36)
@@ -153,7 +151,7 @@ Wyższa Szkoła Gospodarki i Zarządzania;
 47)
 Wyższa Szkoła Gospodarki z siedzibą w Bydgoszczy;
 48)
-Wyższa Szkoła Humanitas z siedzibą w Sosnowcu ;
+Wyższa Szkoła Humanitas z siedzibą w Sosnowcu Obecnie Akademia Humanitas z siedzibą w Sosnowcu.;
 49)
 Wyższa Szkoła Zarządzania z siedzibą w Częstochowie.
 3.
@@ -179,5 +177,5 @@ Centrum Szkolenia Wojsk Specjalnych;
 10)
 Centrum Szkolenia Żandarmerii Wojskowej w Mińsku Mazowieckim;
 11)
-Wojskowe Centrum Kształcenia Medycznego w Łodzi.
+Wojskowe Centrum Kształcenia Medycznego w Łodzi. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 27 czerwca 2023 r. zmieniającego rozporządzenie w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów (Dz. U. poz. 1271), które weszło w życie z dniem 19 lipca 2023 r. 2) Obecnie Uczelnia Biznesu i Nauk Stosowanych „Varsovia”. 3) Obecnie Uniwersytet Andrzeja Frycza Modrzewskiego w Krakowie. 4) Obecnie Uniwersytet Komisji Edukacji Narodowej w Krakowie na podstawie art. 36 ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 2005), która weszła w życie z dniem 27 września 2023 r. 5) Obecnie Akademia Humanitas z siedzibą w Sosnowcu.
 

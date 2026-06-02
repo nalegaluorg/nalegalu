@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 27 grudnia 2018 r. w sprawie struktury polskiej przestrzeni powietrznej oraz szczegółowych warunków i sposobu korzystania z tej przestrzeni
+# Rozporządzenie Ministra Infrastrukturyz dnia 27 grudnia 2018 r. w sprawie struktury polskiej przestrzeni powietrznej oraz szczegółowych warunków i sposobu korzystania z tej przestrzeni Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-27 |
 | Data wydania | 2019-04-02 |
-| Wejście w życie | 2019-07-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000619) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/619/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Struktura przestrzeni powietrznej dostępnej dla żeglugi powietrznej Rozdział 3 – Korzystanie z przestrzeni powietrznej Rozdział 4 – Korzystanie z przestrzeni powietrznej przez statki powietrzne z przyznanym statusem Rozdział 5 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 121 ust. 5 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183, 1629 i 1637 oraz z 2019 r. poz. 235) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -52,7 +52,7 @@ ARP – (Aerodrome Reference Point) punkt odniesienia lotniska;
 7)
 ATC – (Air Traffic Control) kontrolę ruchu lotniczego polegającą na zapewnieniu służby kontroli lotniska, zbliżania i obszaru;
 8)
-ATFM – (Air Traffic Flow Management) zarządzanie przepływem ruchu lotniczego w rozumieniu art. 2 pkt 9 rozporządzenia (WE) nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającego ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23);
+ATFM – (Air Traffic Flow Management) zarządzanie przepływem ruchu lotniczego w rozumieniu art. 2 pkt 9 rozporządzenia (WE) nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającego ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 174 z 04.07.2007, str. 26 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23);
 9)
 ATFMX – (Air Traffic Flow Management Exempted) status lotu statku powietrznego wykonującego lot, dla którego wyjątek od stosowania środków ATFM zatwierdziła instytucja zapewniająca służby kontroli ruchu lotniczego;
 10)
@@ -84,7 +84,7 @@ FIR – (Flight Information Region) rejon informacji powietrznej w rozumieniu ar
 23)
 FL – (Flight Level) poziom lotu w rozumieniu art. 2 pkt 78 rozporządzenia SERA;
 24)
-HEMS – lot HEMS w rozumieniu pkt 61 załącznika I do rozporządzenia Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 296 z 25.10.2012, str. 1, z późn. zm.);
+HEMS – lot HEMS w rozumieniu pkt 61 załącznika I do rozporządzenia Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 296 z 25.10.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 227 z 24.08.2013, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 27, Dz. Urz. UE L 28 z 31.01.2014, str. 17, Dz. Urz. UE L 123 z 24.04.2014, str. 1, z późń. zm., Dz. Urz. UE L 24 z 30.01.2015, str. 5, Dz. Urz. UE L 106 z 24.04.2015, str. 18, Dz. Urz. UE L 206 z 01.08.2015, str. 21, Dz. Urz. UE L 330 z 16.12.2015, str. 1, Dz. Urz. UE L 198 z 23.07.2016, str. 13, Dz. Urz. UE L 350 z 22.12.2016, str. 126, Dz. Urz. UE L 55 z 02.03.2017, str. 1, Dz. Urz. UE L 145 z 08.06.2017, str. 26, Dz. Urz. UE L 235 z 13.09.2017, str. 32 oraz Dz. Urz. UE L 188 z 25.07.2018, str. 3.;
 25)
 ICAO – Organizację Międzynarodowego Lotnictwa Cywilnego;
 26)
@@ -114,9 +114,9 @@ RATOWNIK – hasło, na jakie statek powietrzny wykonuje zadania związane z HEM
 38)
 RMZ – (Radio Mandatory Zone) strefę obowiązkowej łączności radiowej w rozumieniu art. 2 pkt 106 rozporządzenia SERA;
 39)
-rozporządzenie nr 551/2004 – rozporządzenie (WE) nr 551/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie organizacji i użytkowania przestrzeni powietrznej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004, str. 20, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 41);
+rozporządzenie nr 551/2004 – rozporządzenie (WE) nr 551/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie organizacji i użytkowania przestrzeni powietrznej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004, str. 20, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 174 z 04.07.2007, str. 28 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 41);
 40)
-rozporządzenie SERA – rozporządzenie wykonawcze Komisji (UE) nr 923/2012 z dnia 26 września 2012 r. ustanawiające wspólne zasady w odniesieniu do przepisów lotniczych i operacyjnych dotyczących służb i procedur żeglugi powietrznej oraz zmieniające rozporządzenie wykonawcze (WE) nr 1035/2011 oraz rozporządzenia (WE) nr 1265/2007, (WE) nr 1794/2006, (WE) nr 730/2006, (WE) nr 1033/2006 i (UE) nr 255/2010 (Dz. Urz. UE L 281 z 13.10.2012, str. 1, z późn. zm.);
+rozporządzenie SERA – rozporządzenie wykonawcze Komisji (UE) nr 923/2012 z dnia 26 września 2012 r. ustanawiające wspólne zasady w odniesieniu do przepisów lotniczych i operacyjnych dotyczących służb i procedur żeglugi powietrznej oraz zmieniające rozporządzenie wykonawcze (WE) nr 1035/2011 oraz rozporządzenia (WE) nr 1265/2007, (WE) nr 1794/2006, (WE) nr 730/2006, (WE) nr 1033/2006 i (UE) nr 255/2010 (Dz. Urz. UE L 281 z 13.10.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 63 z 06.03.2015, str. 1 i Dz. Urz. UE L 196 z 21.07.2016, str. 3.;
 41)
 SSRL SZ RP – Szefostwo Służby Ruchu Lotniczego Sił Zbrojnych Rzeczypospolitej Polskiej – wojskowy organ zarządzania ruchem lotniczym;
 42)
@@ -159,12 +159,12 @@ FIR Warszawa obejmuje przestrzeń powietrzną nad terytorium Rzeczypospolitej Po
 9)
 53°59'16"N 014°14'32"E,
 10)
-53°55'40"N 014°13'34"E – miejsce styku polsko-niemieckiej granicy państwowej na lądzie z brzegiem Morza Bałtyckiego
-dalej wzdłuż linii stanowiącej lądową granicę państwową Rzeczypospolitej Polskiej.
+53°55'40"N 014°13'34"E – miejsce styku polsko-niemieckiej granicy państwowej na lądzie z brzegiem Morza Bałtyckiego – dalej wzdłuż linii stanowiącej lądową granicę państwową Rzeczypospolitej Polskiej.
 3.
 Granicę pionową FIR Warszawa wyznacza się od powierzchni ziemi lub wody do FL 660.
 4.
 W przestrzeni powietrznej FIR Warszawa osłona meteorologiczna lotnictwa cywilnego jest zapewniana od powierzchni ziemi lub wody do FL 530.
+Struktura przestrzeni powietrznej dostępnej dla żeglugi powietrznej
 § 4.
 1.
 W skład przestrzeni powietrznej kontrolowanej stanowiącej część przestrzeni, w której wszystkim statkom powietrznym zapewnia się służbę ATC, zgodnie z klasyfikacją ICAO, z zastrzeżeniem pkt SERA.5005 i pkt SERA.6001 załącznika do rozporządzenia SERA, wchodzą:
@@ -288,6 +288,7 @@ Projekty, o których mowa w § 4 ust. 4, § 5 ust. 2, § 6 ust. 2, § 8 ust. 2, 
 W przypadku stwierdzenia, że projekty, o których mowa w § 4 ust. 4, § 5 ust. 2, § 6 ust. 2, § 8 ust. 2, § 9 ust. 8, § 10 ust. 2 i § 13, nie uwzględniają przesłanek lub nie zawierają informacji, o których mowa w ust. 4, lub nie zostały skonsultowane lub uzgodnione zgodnie z ust. 1 i 2, Prezes Urzędu zwraca je do Instytucji w celu usunięcia stwierdzonych uchybień lub przeprowadzenia konsultacji lub uzgodnień.
 § 15.
 Informacje dotyczące zaakceptowanych przez Prezesa Urzędu elementów struktury przestrzeni powietrznej, klasyfikacji przestrzeni powietrznej oraz ich zmian są publikowane w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego.
+Korzystanie z przestrzeni powietrznej
 § 16.
 1.
 Loty AIR POLICING nie wymagają składania planów lotu.
@@ -401,6 +402,7 @@ Instruktor-pilot może udzielać wskazówek, instrukcji, rad, poleceń lub komen
 Na podstawie złożonych zamówień i ustalenia kolejności korzystania z danego elementu struktury przestrzeni powietrznej lub jego segmentu AMC Polska na dzień przed planowaną aktywnością lotniczą publikuje AUP.
 2.
 AMC Polska dla zmian przydziału przestrzeni powietrznej publikuje UUP.
+Korzystanie z przestrzeni powietrznej przez statki powietrzne z przyznanym statusem
 § 23.
 1.
 W FIR Warszawa zgłoszenie Instytucji statusu lotu statku powietrznego następuje zgodnie z procedurą opublikowaną w AIP Polska.
@@ -411,11 +413,21 @@ Określenie statusu wpisuje się do planu lotu.
 Lot statku powietrznego, na którego pokładzie znajdują się:
 1)
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Struktura przestrzeni powietrznej dostępnej dla żeglugi powietrznej
+#### Rozdział 2 – Struktura przestrzeni powietrznej dostępnej dla żeglugi powietrznej
 
-#### Rozdział 3 Korzystanie z przestrzeni powietrznej
+#### Rozdział 3 – Korzystanie z przestrzeni powietrznej
 
-#### Rozdział 4 Korzystanie z przestrzeni powietrznej przez statki powietrzne z przyznanym statusem
+#### Rozdział 4 – Korzystanie z przestrzeni powietrznej przez statki powietrzne z przyznanym statusem
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 25 sierpnia 2022 r. w sprawie oceny pracy nauczycieli
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 25 sierpnia 2022 r. w sprawie oceny pracy nauczycieli Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-25 |
 | Data wydania | 2022-08-30 |
-| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2025-11-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001822) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1822/text.pdf) |
 
@@ -130,8 +129,7 @@ organu prowadzącego szkołę,
 3)
 rady szkoły,
 4)
-rady rodziców
-dyrektor szkoły niezwłocznie powiadamia nauczyciela, w formie pisemnej, o rozpoczęciu dokonywania oceny jego pracy.
+rady rodziców – dyrektor szkoły niezwłocznie powiadamia nauczyciela, w formie pisemnej, o rozpoczęciu dokonywania oceny jego pracy.
 2.
 W powiadomieniu, o którym mowa w ust. 1, dyrektor szkoły wskazuje jedno kryterium oceny pracy zgodnie z § 2 ust. 5.
 3.
@@ -263,6 +261,5 @@ Przepisy § 7 ust. 4–7 stosuje się odpowiednio.
 § 13.
 Do nauczyciela, któremu czasowo powierzono pełnienie obowiązków dyrektora szkoły, oraz nauczyciela pełniącego w zastępstwie obowiązki dyrektora szkoły przez okres co najmniej 6 miesięcy przepisy § 9–12 stosuje się odpowiednio.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 19 sierpnia 2019 r. w sprawie trybu dokonywania oceny pracy nauczycieli, w tym nauczycieli zajmujących stanowiska kierownicze, szczegółowego zakresu informacji zawartych w karcie oceny pracy, składu i sposobu powoływania zespołu oceniającego oraz szczegółowego trybu postępowania odwoławczego (Dz. U. poz. 1625), które traci moc z dniem 1 września 2022 r. na podstawie art. 1 pkt 2 lit. I ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1730).
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 19 sierpnia 2019 r. w sprawie trybu dokonywania oceny pracy nauczycieli, w tym nauczycieli zajmujących stanowiska kierownicze, szczegółowego zakresu informacji zawartych w karcie oceny pracy, składu i sposobu powoływania zespołu oceniającego oraz szczegółowego trybu postępowania odwoławczego (Dz. U. poz. 1625), które traci moc z dniem 1 września 2022 r. na podstawie art. 1 pkt 2 lit. I ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1730). 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 19 sierpnia 2019 r. w sprawie trybu dokonywania oceny pracy nauczycieli, w tym nauczycieli zajmujących stanowiska kierownicze, szczegółowego zakresu informacji zawartych w karcie oceny pracy, składu i sposobu powoływania zespołu oceniającego oraz szczegółowego trybu postępowania odwoławczego (Dz. U. poz. 1625), które traci moc z dniem 1 września 2022 r. na podstawie art. 1 pkt 2 lit. I ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1730).
 

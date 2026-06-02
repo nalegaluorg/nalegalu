@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-09-06 |
 | Data wydania | 2001-10-06 |
-| Wejście w życie | 2001-11-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011111197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1197/text.pdf) |
 
+Gospodarka nieruchomościami gruntowymi w portach i przystaniach morskich
 ” ;
 3)
-art. 3 otrzymuje brzmienie:
-„
+art. 3 otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 1997 r. Nr 9, poz. 44i Nr 121, poz. 770, z 1999 r. Nr 62, poz. 685oraz z 2000 r. Nr 120, poz. 1268) wprowadza się następujące zmiany:
 
@@ -42,12 +41,12 @@ art. 3 otrzymuje brzmienie:
 - **8)** nieruchomości gruntowej – rozumie się przez to nieruchomości gruntowe określone ustawą z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2000 r. Nr 46, poz. 543). ” ;
 - **2)** tytuł rozdziału 2 otrzymuje brzmienie: „
 
-#### Rozdział 2 Gospodarka nieruchomościami gruntowymi w portach i przystaniach morskich
+#### Rozdział 2
 
 **Art. 3.** Zgody ministra właściwego do spraw Skarbu Państwa, wyrażonej, w drodze decyzji administracyjnej, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, wymaga:
 
 - **1)** przeniesienie własności, użytkowania wieczystego albo oddanie w użytkowanie wieczyste,
-- **2)** oddanie w użytkowanie, dzierżawę lub najem na okres powyżej 10 lat nieruchomości gruntowych stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego, położonych w granicach portów i przystani morskich. ” ;
+- **2)** oddanie w użytkowanie, dzierżawę lub najem na okres powyżej 10 lat – nieruchomości gruntowych stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego, położonych w granicach portów i przystani morskich. ” ;
 - **4)** art. 4 otrzymuje brzmienie: „
 
 **Art. 4.**
@@ -55,7 +54,7 @@ art. 3 otrzymuje brzmienie:
 1. Podmiot zarządzający portem ma prawo:
 
 - **1)** pierwokupu przy sprzedaży lub przeniesieniu użytkowania wieczystego,
-- **2)** pierwszeństwa przy oddaniu w użytkowanie wieczyste nieruchomości gruntowych znajdujących się w granicach portów lub przystani morskich.
+- **2)** pierwszeństwa przy oddaniu w użytkowanie wieczyste – nieruchomości gruntowych znajdujących się w granicach portów lub przystani morskich.
 
 2. W przypadku nieskorzystania z prawa pierwokupu przy sprzedaży nieruchomości gruntowych przez podmiot zarządzający portem prawo to przysługuje Skarbowi Państwa.
 

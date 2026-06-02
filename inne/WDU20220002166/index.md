@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 12 października 2022 r. w sprawie krajowego rejestru maszynistów i prowadzących pojazdy kolejowe
+# Rozporządzenie Ministra Infrastrukturyz dnia 12 października 2022 r. w sprawie krajowego rejestru maszynistów i prowadzących pojazdy kolejowe Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-12 |
 | Data wydania | 2022-10-21 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2166/text.pdf) |
 
@@ -82,6 +81,5 @@ Podmiot obowiązany zapewnia aktualność i poprawność danych wprowadzonych do
 § 7.
 Identyfikatory obiektów występujących w architekturze rejestru, formaty danych oraz standardy zapewniające dostęp do zasobów informacji gromadzonych i udostępnianych za pomocą rejestru odpowiadają identyfikatorom, formatom i standardom określonym w załącznikach nr 1 i 2 do rozporządzenia Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych (Dz. U. z 2017 r. poz. 2247).
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 

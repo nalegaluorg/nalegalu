@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 30 sierpnia 2016 r. w sprawie szczegółowych wymagań, jakim powinna odpowiadać polityka wynagrodzeń zarządzającego ASI
+# Rozporządzenie Ministra Finansówz dnia 30 sierpnia 2016 r. w sprawie szczegółowych wymagań, jakim powinna odpowiadać polityka wynagrodzeń zarządzającego ASI Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-30 |
 | Data wydania | 2016-09-15 |
-| Wejście w życie | 2016-09-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1475/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 70j ust. 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2014 r. poz. 157, z późn. zm.) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE z dnia 8 czerwca 2011 r. w sprawie zarządzających alternatywnymi funduszami inwestycyjnymi i zmiany dyrektyw 2003/41/WE i 2009/65/WE oraz rozporządzeń (WE) nr 1060/2009 i (UE) nr 1095/2010 (Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 145 z 31.05.2013, str. 1 oraz Dz. Urz. UE L 173 z 12.06.2014, str. 349). Na podstawie art. 70j ust. 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2014 r. poz. 157, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 73, 978, 1260, 1357, 1634 i 1844 oraz z 2016 r. poz. 615, 904 i 996.) zarządza się, co następuje:
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -37,7 +36,7 @@ formie prawnej zatrudnienia lub zatrudnieniu – rozumie się przez to zatrudnie
 3)
 znaczącym zarządzającym ASI – rozumie się przez to zarządzającego ASI, który na koniec roku kalendarzowego spełnia co najmniej jeden z następujących warunków:
 a)
-średnioroczne zatrudnienie w zarządzającym ASI ustalone z uwzględnieniem art. 109 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) wynosi co najmniej 50 osób – bez względu na formę prawną zatrudnienia tych osób,
+średnioroczne zatrudnienie w zarządzającym ASI ustalone z uwzględnieniem art. 109 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65, 352, 615, 780, 868, 903, 960, 1165 i 1228.) wynosi co najmniej 50 osób – bez względu na formę prawną zatrudnienia tych osób,
 b)
 średnioroczna wartość sumy aktywów alternatywnych spółek inwestycyjnych i unijnych AFI zarządzanych przez zarządzającego ASI, wyliczona na podstawie wartości ustalonych na ostatni dzień roboczy każdego miesiąca danego roku kalendarzowego, wynosi co najmniej równowartość w złotych 1 250 000 000 euro przy zastosowaniu średniego kursu euro ogłoszonego przez Narodowy Bank Polski na ostatni dzień roboczy roku kalendarzowego;
 4)
@@ -150,6 +149,5 @@ Zarządzający ASI prowadzący działalność przed dniem wejścia w życie rozp
 2.
 Przegląd polityki wynagrodzeń, o którym mowa w § 4 ust. 1, oraz sporządzenie pisemnego raportu określającego stan realizacji polityki wynagrodzeń, o którym mowa w § 4 ust. 2, dokonywane są po raz pierwszy w terminie do dnia 31 grudnia 2017 r.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE z dnia 8 czerwca 2011 r. w sprawie zarządzających alternatywnymi funduszami inwestycyjnymi i zmiany dyrektyw 2003/41/WE i 2009/65/WE oraz rozporządzeń (WE) nr 1060/2009 i (UE) nr 1095/2010 (Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 145 z 31.05.2013, str. 1 oraz Dz. Urz. UE L 173 z 12.06.2014, str. 349). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 73, 978, 1260, 1357, 1634 i 1844 oraz z 2016 r. poz. 615, 904 i 996. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65, 352, 615, 780, 868, 903, 960, 1165 i 1228.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE z dnia 8 czerwca 2011 r. w sprawie zarządzających alternatywnymi funduszami inwestycyjnymi i zmiany dyrektyw 2003/41/WE i 2009/65/WE oraz rozporządzeń (WE) nr 1060/2009 i (UE) nr 1095/2010 (Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 145 z 31.05.2013, str. 1 oraz Dz. Urz. UE L 173 z 12.06.2014, str. 349). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 73, 978, 1260, 1357, 1634 i 1844 oraz z 2016 r. poz. 615, 904 i 996. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65, 352, 615, 780, 868, 903, 960, 1165 i 1228.
 

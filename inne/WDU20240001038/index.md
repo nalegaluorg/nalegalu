@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 1 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Polityki Społecznej w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej
+# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 1 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Polityki Społecznej w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
 
 | Pole | Wartość |
 |---|---|
@@ -31,18 +31,15 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Polityki Społecznej z dnia 7 kwietnia 2005 r. w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 658), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 28 maja 2023 r. zmieniającym rozporządzenie w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 1084).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 28 maja 2023 r. zmieniającego rozporządzenie w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 1084), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 28 maja 2023 r. zmieniającego rozporządzenie w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 1084), który stanowi: „
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1)
 § 1 pkt 1 lit. a, który wchodzi w życie z dniem 22 czerwca 2023 r.;
 2)
-§ 1 pkt 1 lit. b, który wchodzi w życie z dniem 1 stycznia 2024 r.
-” .
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
-Załącznik – Tekst jednolity rozporządzenia Ministra Polityki Społecznej z dnia 7 kwietnia 2005 r. w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej
-Na podstawie art. 121 ust. 6 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.) zarządza się, co następuje:
+§ 1 pkt 1 lit. b, który wchodzi w życie z dniem 1 stycznia 2024 r. ” . 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
+Załącznik – Tekst jednolity rozporządzenia Ministra Polityki Społecznej z dnia 7 kwietnia 2005 r. w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznejNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
+Na podstawie art. 121 ust. 6 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -58,14 +55,14 @@ sposób i tryb postępowania w sprawie nagród.
 Minister właściwy do spraw zabezpieczenia społecznego, zwany dalej „ministrem”, przyznaje nagrody za wybitne, nowatorskie rozwiązania, zastosowane przy następujących rodzajach działań:
 1)
 opracowaniu programu wspierania osób i rodzin znajdujących się w trudnej sytuacji życiowej, ukierunkowanego na kompleksowe rozwiązywanie problemów społeczności lokalnej przez świadczenie usług pomocy środowiskowej;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 28 maja 2023 r. zmieniającego rozporządzenie w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 1084), które weszło w życie z dniem 24 czerwca 2023 r.; wszedł w życie z dniem 22 czerwca 2023 r.)
 wdrożeniu programu społecznego, ukierunkowanego na rozwiązywanie trudnych problemów społecznych, takich jak narkomania, alkoholizm, bezdomność, przemoc domowa;
 3)
 realizacji przedsięwzięć wspierających różne podmioty w realizacji zadań pomocy społecznej w celu rozszerzenia oferty świadczonych usług w ramach wsparcia środowiskowego lub instytucjonalnego;
 4)
 współpracy z administracją rządową lub samorządową oraz z innymi podmiotami w zakresie tworzenia warunków do usamodzielnienia jednostek i rodzin oraz integracji społecznej, w tym przez likwidowanie istniejących barier społecznych, utworzenie placówki wsparcia środowiskowego, zapewnienie dostępu do dóbr kultury, sportu i turystyki;
 5)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3; wszedł w życie z dniem 1 stycznia 2024 r.
 6)
 realizowaniu inicjatyw w celu aktywizowania osób i rodzin znajdujących się w trudnej sytuacji życiowej;
 7)
@@ -76,7 +73,7 @@ aktywizowaniu społeczności lokalnej na rzecz rozwiązywania trudnych problemó
 realizacji przedsięwzięć z zakresu profilaktyki rozwiązywania problemów społecznych, których celem jest integracja społeczna osób i rodzin szczególnego ryzyka.
 2.
 Minister może przyznać nagrody również za inne niż wymienione w ust. 1 wybitne, nowatorskie rozwiązania, biorąc pod uwagę ich społeczną użyteczność.
-3.
+3Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Nagrody mogą zostać przyznane z inicjatywy własnej ministra albo na wniosek podmiotów, o których mowa w § 4 ust. 1.
 § 3.
 Minister przyznaje nagrody pieniężne lub w formie listu gratulacyjnego w dwóch kategoriach:
@@ -147,6 +144,5 @@ Minister przyznaje nagrody na podstawie ocen i propozycji, o których mowa w § 
 § 11.
 Pisemne informacje o przyznaniu nagrody pieniężnej oraz nagrody w formie listu gratulacyjnego wręcza się na uroczystości, którą z okazji Dnia Pracownika Socjalnego organizuje minister.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 28 maja 2023 r. zmieniającego rozporządzenie w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 1084), które weszło w życie z dniem 24 czerwca 2023 r.; wszedł w życie z dniem 22 czerwca 2023 r. 4) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3; wszedł w życie z dniem 1 stycznia 2024 r. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Rozporządzenie zostało ogłoszone w dniu 29 kwietnia 2005 r. 7) Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 20 grudnia 2000 r. w sprawie szczegółowych zasad przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. z 2001 r. poz. 9), zachowane w mocy na podstawie art. 159 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. poz. 593, 1001 i 2703 oraz z 2005 r. poz. 565).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 29 kwietnia 2005 r..Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 20 grudnia 2000 r. w sprawie szczegółowych zasad przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. z 2001 r. poz. 9), zachowane w mocy na podstawie art. 159 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. poz. 593, 1001 i 2703 oraz z 2005 r. poz. 565). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 28 maja 2023 r. zmieniającego rozporządzenie w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 1084), które weszło w życie z dniem 24 czerwca 2023 r.; wszedł w życie z dniem 22 czerwca 2023 r. 4) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3; wszedł w życie z dniem 1 stycznia 2024 r. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Rozporządzenie zostało ogłoszone w dniu 29 kwietnia 2005 r. 7) Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 20 grudnia 2000 r. w sprawie szczegółowych zasad przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. z 2001 r. poz. 9), zachowane w mocy na podstawie art. 159 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. poz. 593, 1001 i 2703 oraz z 2005 r. poz. 565).
 

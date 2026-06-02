@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-30 |
 | Data wydania | 2012-04-12 |
-| Wejście w życie | 2012-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000395) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/395/text.pdf) |
 
@@ -33,142 +32,109 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Zakres informacji wykazywanych w sprawozdaniu finansowym pracowniczego i dobrowolnego funduszu
 
 Treść rozporządzenia
-Na podstawie art. 81 ust. 2 pkt 6 lit. b ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2009 r. Nr 152, poz. 1223, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 81 ust. 2 pkt 6 lit. b ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2009 r. Nr 152, poz. 1223, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 165, poz. 1316, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 102, poz. 585, Nr 199, poz. 1175 i Nr 232, poz. 1378.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 24 grudnia 2007 r. w sprawie szczególnych zasad rachunkowości funduszy emerytalnych (Dz. U. Nr 248, poz. 1847) wprowadza się następujące zmiany:
 1)
 w § 2:
 a)
-pkt 2 i 3 otrzymują brzmienie:
-„
+pkt 2 i 3 otrzymują brzmienie: „
 2)
-ustawa – ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2010 r. Nr 34, poz. 189, z późn. zm.);
+ustawa – ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2010 r. Nr 34, poz. 189, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 858 i Nr 182, poz. 1228 oraz z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 187, poz. 1111 i Nr 232, poz. 1378.);
 3)
-ustawa o IKE oraz IKZE – ustawę z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. Nr 116, poz. 1205, z późn. zm.);
-” ,
+ustawa o IKE oraz IKZE – ustawę z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. Nr 116, poz. 1205, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 183, poz. 1538, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 220, poz. 1432, z 2009 r. Nr 165, poz. 1316, z 2010 r. Nr 18, poz. 98 i Nr 257, poz. 1724 oraz z 2011 r. Nr 75, poz. 398 i Nr 171, poz. 1016.); ” ,
 b)
 uchyla się pkt 4,
 c)
-po pkt 7 dodaje się pkt 7a w brzmieniu:
-„
+po pkt 7 dodaje się pkt 7a w brzmieniu: „
 7a)
-dobrowolny fundusz – dobrowolny fundusz w rozumieniu art. 8 pkt 3a ustawy;
-” ,
+dobrowolny fundusz – dobrowolny fundusz w rozumieniu art. 8 pkt 3a ustawy; ” ,
 d)
-pkt 9 otrzymuje brzmienie:
-„
+pkt 9 otrzymuje brzmienie: „
 9)
-fundusz – otwarty fundusz, dobrowolny fundusz oraz pracowniczy fundusz;
-” ,
+fundusz – otwarty fundusz, dobrowolny fundusz oraz pracowniczy fundusz; ” ,
 e)
-po pkt 10 dodaje się pkt 10a-10c w brzmieniu:
-„
+po pkt 10 dodaje się pkt 10a-10c w brzmieniu: „
 10a)
 IKE – indywidualne konto emerytalne, o którym mowa w art. 2 pkt 1 ustawy o IKE oraz IKZE;
 10b)
 IKZE – indywidualne konto zabezpieczenia emerytalnego, o którym mowa w art. 2 pkt 1a ustawy o IKE oraz IKZE;
 10c)
-pracowniczy program emerytalny – program, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. Nr 116, poz. 1207, z późn. zm.);
-” ,
+pracowniczy program emerytalny – program, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. Nr 116, poz. 1207, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 143, poz. 1202, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 220, poz. 1432, z 2010 r. Nr 18, poz. 98 oraz z 2011 r. Nr 75, poz. 398 i Nr 171, poz. 1016.); ” ,
 f)
-w pkt 15 lit. b otrzymuje brzmienie:
-„
+w pkt 15 lit. b otrzymuje brzmienie: „
 b)
-ze środków członków funduszu otrzymanych z tytułu wypłaty transferowej z innego funduszu lub innej instytucji finansowej prowadzącej IKE lub IKZE,
-” ,
+ze środków członków funduszu otrzymanych z tytułu wypłaty transferowej z innego funduszu lub innej instytucji finansowej prowadzącej IKE lub IKZE, ” ,
 g)
-pkt 23 otrzymuje brzmienie:
-„
+pkt 23 otrzymuje brzmienie: „
 23)
-portfel inwestycyjny – aktywa finansowe, o których mowa w art. 141 ust. 1 i 3 oraz w art. 143 ust. 1 i 5 ustawy;
-” ,
+portfel inwestycyjny – aktywa finansowe, o których mowa w art. 141 ust. 1 i 3 oraz w art. 143 ust. 1 i 5 ustawy; ” ,
 h)
-pkt 29 otrzymuje brzmienie:
-„
+pkt 29 otrzymuje brzmienie: „
 29)
-wpłata – zasilenie rachunku pieniężnego funduszu środkami przekazanymi w imieniu członków funduszu z tytułu wpłaty składki lub wypłaty transferowej oraz zasilenie rachunku pieniężnego dobrowolnego funduszu środkami wpłaconymi przez członków funduszu;
-” ,
+wpłata – zasilenie rachunku pieniężnego funduszu środkami przekazanymi w imieniu członków funduszu z tytułu wpłaty składki lub wypłaty transferowej oraz zasilenie rachunku pieniężnego dobrowolnego funduszu środkami wpłaconymi przez członków funduszu; ” ,
 i)
 uchyla się pkt 30,
 j)
-pkt 32 otrzymuje brzmienie:
-„
+pkt 32 otrzymuje brzmienie: „
 32)
-rachunek przeliczeniowy – rachunki pieniężne, na których, do czasu ich przeliczenia na jednostki rozrachunkowe, są przechowywane w szczególności aktywa pieniężne, wpłaty na rachunek rezerwowy, rachunek premiowy i na rachunek części dodatkowej Funduszu Gwarancyjnego, aktywa pieniężne przeznaczone na wypłaty, wypłaty transferowe, zwroty oraz wypłaty na rzecz towarzystwa; na rachunek przeliczeniowy składają się rachunki wpłat, wypłat oraz rachunek kwot do wyjaśnienia;
-” ,
+rachunek przeliczeniowy – rachunki pieniężne, na których, do czasu ich przeliczenia na jednostki rozrachunkowe, są przechowywane w szczególności aktywa pieniężne, wpłaty na rachunek rezerwowy, rachunek premiowy i na rachunek części dodatkowej Funduszu Gwarancyjnego, aktywa pieniężne przeznaczone na wypłaty, wypłaty transferowe, zwroty oraz wypłaty na rzecz towarzystwa; na rachunek przeliczeniowy składają się rachunki wpłat, wypłat oraz rachunek kwot do wyjaśnienia; ” ,
 k)
-po pkt 32 dodaje się pkt 33 i 34 w brzmieniu:
-„
+po pkt 32 dodaje się pkt 33 i 34 w brzmieniu: „
 33)
 wypłata – wypłata środków dokonywana na zasadach określonych w ustawie oraz w ustawie o IKE oraz IKZE;
 34)
-zwrot – wycofanie środków zgromadzonych na IKE lub IKZE lub w ramach pracowniczego programu emerytalnego lub części środków zgromadzonych na IKE.
-” ;
+zwrot – wycofanie środków zgromadzonych na IKE lub IKZE lub w ramach pracowniczego programu emerytalnego lub części środków zgromadzonych na IKE. ” ;
 2)
 uchyla się § 5;
 3)
 w § 11:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Wpłaty dokonane na rzecz członków funduszu, wpłaty dokonane przez członków dobrowolnego funduszu, wpłaty na rachunek rezerwowy oraz na rachunek premiowy lub na rachunek części dodatkowej Funduszu Gwarancyjnego są ujmowane na rachunku przeliczeniowym na dzień ich otrzymania.
-” ,
+Wpłaty dokonane na rzecz członków funduszu, wpłaty dokonane przez członków dobrowolnego funduszu, wpłaty na rachunek rezerwowy oraz na rachunek premiowy lub na rachunek części dodatkowej Funduszu Gwarancyjnego są ujmowane na rachunku przeliczeniowym na dzień ich otrzymania. ” ,
 b)
 uchyla się ust. 2,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Wpłaty, o których mowa w ust. 1, są przeliczane na jednostki rozrachunkowe w najbliższym dniu wyceny po otrzymaniu wpłaty na rachunek przeliczeniowy i po identyfikacji członka, który dokonał wpłaty, lub po otrzymaniu listy członków, na rzecz których jest wnoszona wpłata, według wartości jednostki rozrachunkowej na dzień, w którym po raz pierwszy możliwe jest przyporządkowanie otrzymanych składek poszczególnym członkom.
-” ,
+Wpłaty, o których mowa w ust. 1, są przeliczane na jednostki rozrachunkowe w najbliższym dniu wyceny po otrzymaniu wpłaty na rachunek przeliczeniowy i po identyfikacji członka, który dokonał wpłaty, lub po otrzymaniu listy członków, na rzecz których jest wnoszona wpłata, według wartości jednostki rozrachunkowej na dzień, w którym po raz pierwszy możliwe jest przyporządkowanie otrzymanych składek poszczególnym członkom. ” ,
 d)
-ust. 9 otrzymuje brzmienie:
-„
+ust. 9 otrzymuje brzmienie: „
 9.
-Środki wpłacone, których nie można przyporządkować konkretnym członkom otwartego lub pracowniczego funduszu, są ujmowane na rachunku przeliczeniowym jako środki do wyjaśnienia. Po wyjaśnieniu, którego członka funduszu dotyczą, środki te są przeliczane na jednostki rozrachunkowe według wartości jednostki rozrachunkowej ustalonej na dzień, w którym zostały przyporządkowane. Fundusz przyporządkowuje środki konkretnemu członkowi funduszu w terminie 4 dni roboczych od dnia wpłaty. W przypadku, w którym środki te nie mogą zostać przyporządkowane, są one traktowane jako środki wpłacone za osoby niebędące członkami funduszu. Środki wpłacone za osoby niebędące członkami funduszu są zwracane wpłacającemu w ciągu 5 dni roboczych od dnia wpłaty, z zastrzeżeniem ust. 10.
-” ,
+Środki wpłacone, których nie można przyporządkować konkretnym członkom otwartego lub pracowniczego funduszu, są ujmowane na rachunku przeliczeniowym jako środki do wyjaśnienia. Po wyjaśnieniu, którego członka funduszu dotyczą, środki te są przeliczane na jednostki rozrachunkowe według wartości jednostki rozrachunkowej ustalonej na dzień, w którym zostały przyporządkowane. Fundusz przyporządkowuje środki konkretnemu członkowi funduszu w terminie 4 dni roboczych od dnia wpłaty. W przypadku, w którym środki te nie mogą zostać przyporządkowane, są one traktowane jako środki wpłacone za osoby niebędące członkami funduszu. Środki wpłacone za osoby niebędące członkami funduszu są zwracane wpłacającemu w ciągu 5 dni roboczych od dnia wpłaty, z zastrzeżeniem ust. 10. ” ,
 e)
-po ust. 9 dodaje się ust. 9a w brzmieniu:
-„
+po ust. 9 dodaje się ust. 9a w brzmieniu: „
 9a.
-Środki wpłacone, których nie można przyporządkować konkretnym członkom dobrowolnego funduszu, są ujmowane na rachunku przeliczeniowym jako środki do wyjaśnienia. Po wyjaśnieniu, którego członka funduszu dotyczą, środki te są przeliczane na jednostki rozrachunkowe według wartości jednostki rozrachunkowej ustalonej na dzień, w którym zostały przyporządkowane. Fundusz przyporządkowuje środki konkretnemu członkowi funduszu w terminie 10 dni roboczych od dnia wpłaty. W przypadku, w którym środki te nie mogą zostać przyporządkowane, są one traktowane jako środki wpłacone za osoby niebędące członkami funduszu. Środki wpłacone za osoby niebędące członkami funduszu są zwracane wpłacającemu w ciągu 12 dni roboczych od dnia wpłaty, z zastrzeżeniem ust. 10.
-” ,
+Środki wpłacone, których nie można przyporządkować konkretnym członkom dobrowolnego funduszu, są ujmowane na rachunku przeliczeniowym jako środki do wyjaśnienia. Po wyjaśnieniu, którego członka funduszu dotyczą, środki te są przeliczane na jednostki rozrachunkowe według wartości jednostki rozrachunkowej ustalonej na dzień, w którym zostały przyporządkowane. Fundusz przyporządkowuje środki konkretnemu członkowi funduszu w terminie 10 dni roboczych od dnia wpłaty. W przypadku, w którym środki te nie mogą zostać przyporządkowane, są one traktowane jako środki wpłacone za osoby niebędące członkami funduszu. Środki wpłacone za osoby niebędące członkami funduszu są zwracane wpłacającemu w ciągu 12 dni roboczych od dnia wpłaty, z zastrzeżeniem ust. 10. ” ,
 f)
 uchyla się ust. 11–13;
 4)
-w § 13 ust. 2 otrzymuje brzmienie:
-„
+w § 13 ust. 2 otrzymuje brzmienie: „
 2.
-Przeliczenie, o którym mowa w ust. 1, jest wykonywane nie wcześniej niż na 3 dni robocze przed wypłatą środków, wypłatą transferową z IKE, IKZE lub z pracowniczego programu emerytalnego, zwrotem albo na 5 dni roboczych przed terminem dokonania wypłaty transferowej z otwartego funduszu.
-” ;
+Przeliczenie, o którym mowa w ust. 1, jest wykonywane nie wcześniej niż na 3 dni robocze przed wypłatą środków, wypłatą transferową z IKE, IKZE lub z pracowniczego programu emerytalnego, zwrotem albo na 5 dni roboczych przed terminem dokonania wypłaty transferowej z otwartego funduszu. ” ;
 5)
 w § 16 uchyla się ust. 2 i 3;
 6)
-w § 17 ust. 1 i 2 otrzymują brzmienie:
-„
+w § 17 ust. 1 i 2 otrzymują brzmienie: „
 1.
 Papiery wartościowe będące przedmiotem umowy pożyczki stanowią składnik portfela inwestycyjnego funduszu przez okres objęty umową i są wyceniane zgodnie z zasadami przyjętymi dla tych papierów.
 2.
-Zobowiązania funduszu wynikające z umowy pożyczki papierów wartościowych ujmuje się w księgach rachunkowych jako pożyczki.
-” ;
+Zobowiązania funduszu wynikające z umowy pożyczki papierów wartościowych ujmuje się w księgach rachunkowych jako pożyczki. ” ;
 7)
 w § 27 uchyla się pkt 3;
 8)
 w § 28 uchyla się pkt 4;
 9)
-w § 30 ust. 1 otrzymuje brzmienie:
-„
+w § 30 ust. 1 otrzymuje brzmienie: „
 1.
-Środki potrącone z rachunku funduszu, niestanowiące kosztów funduszu, o których mowa w art. 136 ust. 1, 2, 2a, 2b i 2c oraz art. 136a ust. 2 ustawy, podlegają refinansowaniu przez towarzystwo.
-” ;
+Środki potrącone z rachunku funduszu, niestanowiące kosztów funduszu, o których mowa w art. 136 ust. 1, 2, 2a, 2b i 2c oraz art. 136a ust. 2 ustawy, podlegają refinansowaniu przez towarzystwo. ” ;
 10)
 uchyla się § 33;
 11)
 w § 35 zdanie wstępne otrzymuje brzmienie: „ Na dzień bilansowy ustala się wynik finansowy otwartego funduszu, obejmujący: ” ;
 12)
-po § 35 dodaje się § 35a w brzmieniu:
-„
+po § 35 dodaje się § 35a w brzmieniu: „
 § 35a.
 Na dzień bilansowy ustala się wynik finansowy pracowniczego i dobrowolnego funduszu, obejmujący:
 1)
@@ -176,22 +142,17 @@ wynik z inwestycji – stanowiący różnicę pomiędzy przychodami a kosztami o
 2)
 zrealizowany zysk (stratę) z inwestycji;
 3)
-niezrealizowany zysk (stratę) z wyceny inwestycji.
-” ;
+niezrealizowany zysk (stratę) z wyceny inwestycji. ” ;
 13)
 w § 37:
 a)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Zakres informacji wykazywanych w sprawozdaniu finansowym otwartego funduszu określa załącznik nr 1 do rozporządzenia.
-” ,
+Zakres informacji wykazywanych w sprawozdaniu finansowym otwartego funduszu określa załącznik nr 1 do rozporządzenia. ” ,
 b)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
-Zakres informacji wykazywanych w sprawozdaniu finansowym pracowniczego i dobrowolnego funduszu określa załącznik nr 2 do rozporządzenia.
-” ;
+Zakres informacji wykazywanych w sprawozdaniu finansowym pracowniczego i dobrowolnego funduszu określa załącznik nr 2 do rozporządzenia. ” ;
 14)
 załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 15)
@@ -199,7 +160,7 @@ dodaje się załącznik nr 2 do rozporządzenia w brzmieniu określonym w załą
 § 2.
 Rozporządzenie ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za pierwsze półrocze 2012 r. oraz sprawozdań finansowych sporządzanych za rok obrotowy 2012.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 165, poz. 1316, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 102, poz. 585, Nr 199, poz. 1175 i Nr 232, poz. 1378. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 858 i Nr 182, poz. 1228 oraz z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 187, poz. 1111 i Nr 232, poz. 1378. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 183, poz. 1538, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 220, poz. 1432, z 2009 r. Nr 165, poz. 1316, z 2010 r. Nr 18, poz. 98 i Nr 257, poz. 1724 oraz z 2011 r. Nr 75, poz. 398 i Nr 171, poz. 1016. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 143, poz. 1202, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 220, poz. 1432, z 2010 r. Nr 18, poz. 98 oraz z 2011 r. Nr 75, poz. 398 i Nr 171, poz. 1016.
 
 ## Załącznik nr 1 — – Zakres informacji wykazywanych w sprawozdaniu finansowym otwartego funduszu
 
@@ -221,8 +182,7 @@ przyjętych zasad (polityki) rachunkowości, dotyczących w szczególności ujmo
 b)
 przyjętej metodologii wyceny,
 c)
-wprowadzonych zmian stosowanych zasad (polityki) rachunkowości, w tym metod ujmowania operacji w księgach rachunkowych, metod wyceny, przy czym zmiany te powinny być opisane w dwóch kolejnych sprawozdaniach finansowych po ich wprowadzeniu, z wyjaśnieniem przyczyn ich wprowadzenia oraz określeniem ich wpływu na sytuację majątkową, finansową oraz wynik finansowy funduszu.
-Bilans
+wprowadzonych zmian stosowanych zasad (polityki) rachunkowości, w tym metod ujmowania operacji w księgach rachunkowych, metod wyceny, przy czym zmiany te powinny być opisane w dwóch kolejnych sprawozdaniach finansowych po ich wprowadzeniu, z wyjaśnieniem przyczyn ich wprowadzenia oraz określeniem ich wpływu na sytuację majątkową, finansową oraz wynik finansowy funduszu. Bilans
 I.
 Aktywa
 1.
@@ -299,8 +259,7 @@ Niezrealizowany zysk (strata) z wyceny inwestycji
 4.
 Zakumulowane przychody z tytułu pokrycia niedoboru
 IX.
-Kapitał i zakumulowany nierozdysponowany wynik finansowy, razem (IV+V+VI+VII+VIII)
-Rachunek zysków i strat
+Kapitał i zakumulowany nierozdysponowany wynik finansowy, razem (IV+V+VI+VII+VIII) Rachunek zysków i strat
 I.
 Przychody operacyjne
 1.
@@ -361,8 +320,7 @@ Wynik z operacji (III+IV)
 VI.
 Przychody z tytułu pokrycia niedoboru
 VII.
-Wynik finansowy (V+VI)
-Zestawienie zmian w aktywach netto
+Wynik finansowy (V+VI) Zestawienie zmian w aktywach netto
 A.
 Zmiana wartości aktywów netto
 I.
@@ -420,8 +378,7 @@ Minimalna wartość aktywów netto na jednostkę rozrachunkową w okresie sprawo
 5.
 Maksymalna wartość aktywów netto na jednostkę rozrachunkową w okresie sprawozdawczym
 6.
-Wartość aktywów netto na jednostkę rozrachunkową na ostatni dzień wyceny w okresie sprawozdawczym
-Zestawienie zmian w kapitale własnym
+Wartość aktywów netto na jednostkę rozrachunkową na ostatni dzień wyceny w okresie sprawozdawczym Zestawienie zmian w kapitale własnym
 I.
 Kapitały razem funduszu na początek okresu sprawozdawczego
 1.
@@ -487,8 +444,9 @@ Kapitał części dodatkowej Funduszu Gwarancyjnego na koniec okresu sprawozdawc
 5.
 Wynik finansowy
 II.
-Kapitały razem w dyspozycji funduszu na koniec okresu sprawozdawczego
-Zestawienie portfela inwestycyjnego Instrument finansowy Ilość (w szt.) Wartość nabycia (w tys. zł) Wartość bieżąca (w tys. zł) Udział w aktywach (w %) 1 2 3 4 5 6 1 Bony skarbowe 2 Obligacje skarbowe 3 Pożyczka lub kredyt dla Skarbu Państwa (SP) 4 Bony pieniężne Narodowego Banku Polskiego (NBP) 5 Obligacje NBP 6 Pożyczka lub kredyt dla NBP 7 Papiery wartościowe gwarantowane lub poręczane przez SP 8 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez SP 9 Papiery wartościowe gwarantowane lub poręczane przez NBP 10 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez NBP 11 Obligacje emitowane przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym 12 Depozyty w bankach krajowych 13 Papiery wartościowe emitowane przez banki krajowe 14 Listy zastawne 15 Zdematerializowane dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego 16 Inne niż zdematerializowane dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego 17 Obligacje przychodowe 18 Zabezpieczone całkowicie zdematerializowane dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego 19 Zabezpieczone całkowicie inne niż zdematerializowane dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego 20 Obligacje i inne dłużne papiery wartościowe emitowane przez spółki publiczne, inne niż papiery wartościowe, o których mowa w pkt 18 i 19 21 Zdematerializowane obligacje i inne dłużne papiery wartościowe, inne niż w pkt 15 i 18 22 Kwity depozytowe 23 Pożyczki dla spółek publicznych 24 Akcje spółek notowanych na rynku oficjalnych notowań Giełdy Papierów Wartościowych (GPW) 25 Akcje spółek notowanych na pozostałych rynkach giełdowych GPW 26 Prawa do akcji notowane na GPW 27 Prawa poboru notowane na GPW 28 Akcje spółek notowanych na pozagiełdowych rynkach regulowanych 29 Prawa do akcji notowane na pozagiełdowych rynkach regulowanych 30 Prawa poboru notowane na pozagiełdowych rynkach regulowanych 31 Zdematerializowane akcje spółek notowanych na alternatywnych systemach obrotu 32 Zdematerializowane prawa do akcji notowane na alternatywnych systemach obrotu 33 Zdematerializowane prawa poboru notowane na alternatywnych systemach obrotu 34 Zdematerializowane akcje nienotowane na żadnym z rynków 35 Zdematerializowane prawa do akcji nienotowane na żadnym z rynków 36 Zdematerializowane prawa poboru nienotowane na żadnym z rynków 37 Obligacje zamienne na akcje spółek 38 Akcje narodowych funduszy inwestycyjnych 39 Certyfikaty inwestycyjne emitowane przez fundusze inwestycyjne zamknięte 40 Jednostki uczestnictwa funduszy inwestycyjnych otwartych 41 Jednostki uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych 42 Inne krajowe instrumenty finansowe 43 Razem lokaty krajowe 44 Papiery wartościowe emitowane przez rządy innych krajów 45 Papiery wartościowe emitowane przez banki centralne innych krajów 46 Papiery wartościowe emitowane przez Europejski Bank Odbudowy i Rozwoju, Europejski Bank Inwestycyjny, Międzynarodowy Bank Odbudowy i Rozwoju 47 Depozyty w bankach zagranicznych 48 Papiery wartościowe emitowane przez banki zagraniczne 49 Dłużne papiery wartościowe emitowane przez zagraniczne jednostki samorządowe 50 Dłużne papiery wartościowe emitowane przez spółki notowane na rynkach regulowanych innych krajów 51 Akcje spółek notowanych na giełdach państw obcych 52 Akcje spółek notowanych w elektronicznych systemach kwotowań poza granicami kraju 53 Tytuły uczestnictwa emitowane przez zagraniczne instytucje wspólnego inwestowania 54 Inne zagraniczne instrumenty finansowe 55 Razem lokaty zagraniczne 56 Razem lokaty Dodatkowe informacje i objaśnienia obejmują w szczególności:
+Kapitały razem w dyspozycji funduszu na koniec okresu sprawozdawczego Zestawienie portfela inwestycyjnego
+Instrument finansowy Ilość (w szt.) Wartość nabycia (w tys. zł) Wartość bieżąca (w tys. zł) Udział w aktywach (w %) 1 2 3 4 5 6 1 Bony skarbowe 2 Obligacje skarbowe 3 Pożyczka lub kredyt dla Skarbu Państwa (SP) 4 Bony pieniężne Narodowego Banku Polskiego (NBP) 5 Obligacje NBP 6 Pożyczka lub kredyt dla NBP 7 Papiery wartościowe gwarantowane lub poręczane przez SP 8 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez SP 9 Papiery wartościowe gwarantowane lub poręczane przez NBP 10 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez NBP 11 Obligacje emitowane przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym 12 Depozyty w bankach krajowych 13 Papiery wartościowe emitowane przez banki krajowe 14 Listy zastawne 15 Zdematerializowane dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego 16 Inne niż zdematerializowane dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego 17 Obligacje przychodowe 18 Zabezpieczone całkowicie zdematerializowane dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego 19 Zabezpieczone całkowicie inne niż zdematerializowane dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego 20 Obligacje i inne dłużne papiery wartościowe emitowane przez spółki publiczne, inne niż papiery wartościowe, o których mowa w pkt 18 i 19 21 Zdematerializowane obligacje i inne dłużne papiery wartościowe, inne niż w pkt 15 i 18 22 Kwity depozytowe 23 Pożyczki dla spółek publicznych 24 Akcje spółek notowanych na rynku oficjalnych notowań Giełdy Papierów Wartościowych (GPW) 25 Akcje spółek notowanych na pozostałych rynkach giełdowych GPW 26 Prawa do akcji notowane na GPW 27 Prawa poboru notowane na GPW 28 Akcje spółek notowanych na pozagiełdowych rynkach regulowanych 29 Prawa do akcji notowane na pozagiełdowych rynkach regulowanych 30 Prawa poboru notowane na pozagiełdowych rynkach regulowanych 31 Zdematerializowane akcje spółek notowanych na alternatywnych systemach obrotu 32 Zdematerializowane prawa do akcji notowane na alternatywnych systemach obrotu 33 Zdematerializowane prawa poboru notowane na alternatywnych systemach obrotu 34 Zdematerializowane akcje nienotowane na żadnym z rynków 35 Zdematerializowane prawa do akcji nienotowane na żadnym z rynków 36 Zdematerializowane prawa poboru nienotowane na żadnym z rynków 37 Obligacje zamienne na akcje spółek 38 Akcje narodowych funduszy inwestycyjnych 39 Certyfikaty inwestycyjne emitowane przez fundusze inwestycyjne zamknięte 40 Jednostki uczestnictwa funduszy inwestycyjnych otwartych 41 Jednostki uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych 42 Inne krajowe instrumenty finansowe 43 Razem lokaty krajowe 44 Papiery wartościowe emitowane przez rządy innych krajów 45 Papiery wartościowe emitowane przez banki centralne innych krajów 46 Papiery wartościowe emitowane przez Europejski Bank Odbudowy i Rozwoju, Europejski Bank Inwestycyjny, Międzynarodowy Bank Odbudowy i Rozwoju 47 Depozyty w bankach zagranicznych 48 Papiery wartościowe emitowane przez banki zagraniczne 49 Dłużne papiery wartościowe emitowane przez zagraniczne jednostki samorządowe 50 Dłużne papiery wartościowe emitowane przez spółki notowane na rynkach regulowanych innych krajów 51 Akcje spółek notowanych na giełdach państw obcych 52 Akcje spółek notowanych w elektronicznych systemach kwotowań poza granicami kraju 53 Tytuły uczestnictwa emitowane przez zagraniczne instytucje wspólnego inwestowania 54 Inne zagraniczne instrumenty finansowe 55 Razem lokaty zagraniczne 56 Razem lokaty
+Dodatkowe informacje i objaśnienia obejmują w szczególności:
 I.
 Dane uzupełniające o pozycjach bilansu za poprzedni i bieżący okres sprawozdawczy w odniesieniu do pozycji:
 1)
@@ -837,8 +795,7 @@ przyjętych zasad (polityki) rachunkowości, dotyczących w szczególności ujmo
 b)
 przyjętej metodologii wyceny,
 c)
-wprowadzonych zmian stosowanych zasad (polityki) rachunkowości, w tym metod ujmowania operacji w księgach rachunkowych, metod wyceny, przy czym zmiany te powinny być opisane w dwóch kolejnych sprawozdaniach finansowych po ich wprowadzeniu, z wyjaśnieniem przyczyn ich wprowadzenia oraz określeniem ich wpływu na sytuację majątkową, finansową oraz wynik finansowy funduszu.
-Bilans
+wprowadzonych zmian stosowanych zasad (polityki) rachunkowości, w tym metod ujmowania operacji w księgach rachunkowych, metod wyceny, przy czym zmiany te powinny być opisane w dwóch kolejnych sprawozdaniach finansowych po ich wprowadzeniu, z wyjaśnieniem przyczyn ich wprowadzenia oraz określeniem ich wpływu na sytuację majątkową, finansową oraz wynik finansowy funduszu. Bilans
 I.
 Aktywa
 1.
@@ -898,8 +855,7 @@ Zakumulowany nierozdysponowany zrealizowany zysk (strata) z inwestycji
 3.
 Niezrealizowany zysk (strata) z wyceny inwestycji
 VI.
-Kapitał i zakumulowany nierozdysponowany wynik finansowy, razem (IV+V)
-Rachunek zysków i strat
+Kapitał i zakumulowany nierozdysponowany wynik finansowy, razem (IV+V) Rachunek zysków i strat
 I.
 Przychody operacyjne
 1.
@@ -952,8 +908,7 @@ Zrealizowany zysk (strata) z inwestycji
 2.
 Niezrealizowany zysk (strata) z wyceny inwestycji
 V.
-Wynik finansowy (III+IV)
-Zestawienie zmian w aktywach netto
+Wynik finansowy (III+IV) Zestawienie zmian w aktywach netto
 A.
 Zmiana wartości aktywów netto
 I.
@@ -997,8 +952,7 @@ Minimalna wartość aktywów netto na jednostkę rozrachunkową w okresie sprawo
 5.
 Maksymalna wartość aktywów netto na jednostkę rozrachunkową w okresie sprawozdawczym
 6.
-Wartość aktywów netto na jednostkę rozrachunkową na ostatni dzień wyceny w okresie sprawozdawczym
-Zestawienie zmian w kapitale własnym
+Wartość aktywów netto na jednostkę rozrachunkową na ostatni dzień wyceny w okresie sprawozdawczym Zestawienie zmian w kapitale własnym
 I.
 Kapitały razem funduszu na początek okresu sprawozdawczego
 1.
@@ -1021,8 +975,9 @@ zmniejszenia z tytułu
 1.2.
 Kapitał funduszu na koniec okresu sprawozdawczego 2. Wynik finansowy
 II.
-Kapitały razem w dyspozycji funduszu na koniec okresu sprawozdawczego
-Zestawienie portfela inwestycyjnego Instrument finansowy Ilość (w szt.) Wartość nabycia (w tys. zł) Wartość bieżąca (w tys. zł) Udział w aktywach (w %) 1 2 3 4 5 6 1 Bony skarbowe 2 Obligacje skarbowe 3 Pożyczka lub kredyt dla Skarbu Państwa (SP) 4 Bony pieniężne Narodowego Banku Polskiego (NBP) 5 Obligacje NBP 6 Pożyczka lub kredyt dla NBP 7 Papiery wartościowe gwarantowane lub poręczane przez SP 8 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez SP 9 Papiery wartościowe gwarantowane lub poręczane przez NBP 10 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez NBP 11 Obligacje emitowane przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym 12 Depozyty w bankach krajowych 13 Papiery wartościowe emitowane przez banki krajowe 14 Listy zastawne 15 Zdematerializowane dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego 16 Inne niż zdematerializowane dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego 17 Obligacje przychodowe 18 Zabezpieczone całkowicie zdematerializowane dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego 19 Zabezpieczone całkowicie inne niż zdematerializowane dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego 20 Obligacje i inne dłużne papiery wartościowe emitowane przez spółki publiczne, inne niż papiery wartościowe, o których mowa w pkt 18 i 19 21 Zdematerializowane obligacje i inne dłużne papiery wartościowe, inne niż w pkt 15 i 18 22 Kwity depozytowe 23 Pożyczki dla spółek publicznych 24 Akcje spółek notowanych na rynku oficjalnych notowań Giełdy Papierów Wartościowych (GPW) 25 Akcje spółek notowanych na pozostałych rynkach giełdowych GPW 26 Prawa do akcji notowane na GPW 27 Prawa poboru notowane na GPW 28 Akcje spółek notowanych na pozagiełdowych rynkach regulowanych 29 Prawa do akcji notowane na pozagiełdowych rynkach regulowanych 30 Prawa poboru notowane na pozagiełdowych rynkach regulowanych 31 Zdematerializowane akcje spółek notowanych na alternatywnych systemach obrotu 32 Zdematerializowane prawa do akcji notowane na alternatywnych systemach obrotu 33 Zdematerializowane prawa poboru notowane na alternatywnych systemach obrotu 34 Zdematerializowane akcje nienotowane na żadnym z rynków 35 Zdematerializowane prawa do akcji nienotowane na żadnym z rynków 36 Zdematerializowane prawa poboru nienotowane na żadnym z rynków 37 Obligacje zamienne na akcje spółek 38 Akcje narodowych funduszy inwestycyjnych 39 Certyfikaty inwestycyjne emitowane przez fundusze inwestycyjne zamknięte 40 Jednostki uczestnictwa funduszy inwestycyjnych otwartych 41 Jednostki uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych 42 Inne krajowe instrumenty finansowe 43 Razem lokaty krajowe 44 Papiery wartościowe emitowane przez rządy innych krajów 45 Papiery wartościowe emitowane przez banki centralne innych krajów 46 Papiery wartościowe emitowane przez Europejski Bank Odbudowy i Rozwoju, Europejski Bank Inwestycyjny, Międzynarodowy Bank Odbudowy i Rozwoju 47 Depozyty w bankach zagranicznych 48 Papiery wartościowe emitowane przez banki zagraniczne 49 Dłużne papiery wartościowe emitowane przez zagraniczne jednostki samorządowe 50 Dłużne papiery wartościowe emitowane przez spółki notowane na rynkach regulowanych innych krajów 51 Akcje spółek notowanych na giełdach państw obcych 52 Akcje spółek notowanych w elektronicznych systemach kwotowań poza granicami kraju 53 Tytuły uczestnictwa emitowane przez zagraniczne instytucje wspólnego inwestowania 54 Inne zagraniczne instrumenty finansowe 55 Razem lokaty zagraniczne 56 Razem lokaty Dodatkowe informacje i objaśnienia obejmują w szczególności:
+Kapitały razem w dyspozycji funduszu na koniec okresu sprawozdawczego Zestawienie portfela inwestycyjnego
+Instrument finansowy Ilość (w szt.) Wartość nabycia (w tys. zł) Wartość bieżąca (w tys. zł) Udział w aktywach (w %) 1 2 3 4 5 6 1 Bony skarbowe 2 Obligacje skarbowe 3 Pożyczka lub kredyt dla Skarbu Państwa (SP) 4 Bony pieniężne Narodowego Banku Polskiego (NBP) 5 Obligacje NBP 6 Pożyczka lub kredyt dla NBP 7 Papiery wartościowe gwarantowane lub poręczane przez SP 8 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez SP 9 Papiery wartościowe gwarantowane lub poręczane przez NBP 10 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez NBP 11 Obligacje emitowane przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym 12 Depozyty w bankach krajowych 13 Papiery wartościowe emitowane przez banki krajowe 14 Listy zastawne 15 Zdematerializowane dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego 16 Inne niż zdematerializowane dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego 17 Obligacje przychodowe 18 Zabezpieczone całkowicie zdematerializowane dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego 19 Zabezpieczone całkowicie inne niż zdematerializowane dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego 20 Obligacje i inne dłużne papiery wartościowe emitowane przez spółki publiczne, inne niż papiery wartościowe, o których mowa w pkt 18 i 19 21 Zdematerializowane obligacje i inne dłużne papiery wartościowe, inne niż w pkt 15 i 18 22 Kwity depozytowe 23 Pożyczki dla spółek publicznych 24 Akcje spółek notowanych na rynku oficjalnych notowań Giełdy Papierów Wartościowych (GPW) 25 Akcje spółek notowanych na pozostałych rynkach giełdowych GPW 26 Prawa do akcji notowane na GPW 27 Prawa poboru notowane na GPW 28 Akcje spółek notowanych na pozagiełdowych rynkach regulowanych 29 Prawa do akcji notowane na pozagiełdowych rynkach regulowanych 30 Prawa poboru notowane na pozagiełdowych rynkach regulowanych 31 Zdematerializowane akcje spółek notowanych na alternatywnych systemach obrotu 32 Zdematerializowane prawa do akcji notowane na alternatywnych systemach obrotu 33 Zdematerializowane prawa poboru notowane na alternatywnych systemach obrotu 34 Zdematerializowane akcje nienotowane na żadnym z rynków 35 Zdematerializowane prawa do akcji nienotowane na żadnym z rynków 36 Zdematerializowane prawa poboru nienotowane na żadnym z rynków 37 Obligacje zamienne na akcje spółek 38 Akcje narodowych funduszy inwestycyjnych 39 Certyfikaty inwestycyjne emitowane przez fundusze inwestycyjne zamknięte 40 Jednostki uczestnictwa funduszy inwestycyjnych otwartych 41 Jednostki uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych 42 Inne krajowe instrumenty finansowe 43 Razem lokaty krajowe 44 Papiery wartościowe emitowane przez rządy innych krajów 45 Papiery wartościowe emitowane przez banki centralne innych krajów 46 Papiery wartościowe emitowane przez Europejski Bank Odbudowy i Rozwoju, Europejski Bank Inwestycyjny, Międzynarodowy Bank Odbudowy i Rozwoju 47 Depozyty w bankach zagranicznych 48 Papiery wartościowe emitowane przez banki zagraniczne 49 Dłużne papiery wartościowe emitowane przez zagraniczne jednostki samorządowe 50 Dłużne papiery wartościowe emitowane przez spółki notowane na rynkach regulowanych innych krajów 51 Akcje spółek notowanych na giełdach państw obcych 52 Akcje spółek notowanych w elektronicznych systemach kwotowań poza granicami kraju 53 Tytuły uczestnictwa emitowane przez zagraniczne instytucje wspólnego inwestowania 54 Inne zagraniczne instrumenty finansowe 55 Razem lokaty zagraniczne 56 Razem lokaty
+Dodatkowe informacje i objaśnienia obejmują w szczególności:
 I.
 Dane uzupełniające o pozycjach bilansu za poprzedni i bieżący okres sprawozdawczy w odniesieniu do pozycji:
 1)

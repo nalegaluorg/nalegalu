@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 22 maja 2013 r. w sprawie prospektu informacyjnego funduszu inwestycyjnego otwartego i specjalistycznego funduszu inwestycyjnego otwartego oraz wyliczania wskaźnika zysku do ryzyka tych funduszy
+# Rozporządzenie Ministra Finansówz dnia 22 maja 2013 r. w sprawie prospektu informacyjnego funduszu inwestycyjnego otwartego i specjalistycznego funduszu inwestycyjnego otwartego oraz wyliczania wskaźnika zysku do ryzyka tych funduszy Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 302 z 17.11.2009, str. 32, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-22 |
 | Data wydania | 2013-06-12 |
-| Wejście w życie | 2013-06-27 |
 | Ostatnia zmiana | 2025-04-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000673) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/673/text.pdf) |
 
@@ -33,7 +32,7 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Sposób i metodologia wyliczania wskaźnika zysku do ryzyka funduszu inwestycjnego otwartego i specjalistycznego funduszu inwestycjnego otwartego
 
 Treść rozporządzenia
-Na podstawie art. 221 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 221 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70 i 433.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -59,8 +58,7 @@ oferowanie dostępu do elektronicznych systemów transakcyjnych lub elektroniczn
 d)
 udostępnianie sprzętu komputerowego służącego do korzystania z usług, o których mowa w lit. a-c,
 e)
-udostępnianie wydzielonych linii telefonicznych
-jeżeli usługi te są świadczone w ramach opłaty za pośrednictwo podmiotu prowadzącego działalność maklerską w obrocie papierami wartościowymi, instrumentami rynku pieniężnego lub instrumentami pochodnymi, a wykonywanie takich usług wynika z umowy o pośrednictwo;
+udostępnianie wydzielonych linii telefonicznych – jeżeli usługi te są świadczone w ramach opłaty za pośrednictwo podmiotu prowadzącego działalność maklerską w obrocie papierami wartościowymi, instrumentami rynku pieniężnego lub instrumentami pochodnymi, a wykonywanie takich usług wynika z umowy o pośrednictwo;
 5)
 agencie transferowym – rozumie się przez to podmiot prowadzący na zlecenie funduszu rejestr uczestników funduszu;
 6)
@@ -506,7 +504,7 @@ odkupienie przez fundusz jednostek uczestnictwa po zgłoszeniu żądania ich odk
 3)
 wartości aktywów netto, po przekroczeniu której fundusz może zawiesić zbywanie jednostek uczestnictwa, jeżeli prospekt funduszu przewiduje taką możliwość.
 § 25.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 stycznia 2009 r. w sprawie prospektu informacyjnego funduszu inwestycyjnego otwartego oraz specjalistycznego funduszu inwestycyjnego otwartego, a także skrótu tego prospektu (Dz. U. Nr 17, poz. 88), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 8 ustawy z dnia 23 listopada 2012 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym (Dz. U. z 2013 r. poz. 70). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 302 z 17.11.2009, str. 32, z późn. zm.). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70 i 433. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 stycznia 2009 r. w sprawie prospektu informacyjnego funduszu inwestycyjnego otwartego oraz specjalistycznego funduszu inwestycyjnego otwartego, a także skrótu tego prospektu (Dz. U. Nr 17, poz. 88), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 8 ustawy z dnia 23 listopada 2012 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym (Dz. U. z 2013 r. poz. 70).
 
 ## Załącznik nr 1 — – Sposób wyliczania wskaźnika WKC, wskaźnika SWKC, wskaźnika SOP i wskaźnika SWZKC
 
@@ -521,8 +519,7 @@ odsetek z tytułu zaciągniętych pożyczek lub kredytów,
 4)
 opłat związanych z nabyciem lub odkupieniem jednostek uczestnictwa lub innych opłat ponoszonych bezpośrednio przez uczestnika,
 5)
-wartości usług dodatkowych,
-t – oznacza okres, za który są przedstawiane dane, WAN – oznacza średnią wartość aktywów netto funduszu.
+wartości usług dodatkowych, t – oznacza okres, za który są przedstawiane dane, WAN – oznacza średnią wartość aktywów netto funduszu.
 II.
 Syntetyczny Współczynnik Kosztów Całkowitych (wskaźnik SWKC) wylicza się według wzoru: SWKC = (K + I + O)t/WANt × 100%, gdzie: K – oznacza koszty funduszu uwzględnione we wskaźniku WKC, I – oznacza koszty funduszy i instytucji wspólnego inwestowania uwzględnione we wskaźniku WKC tych funduszy i instytucji, przypadające na tytuły uczestnictwa nabyte przez fundusz w tych funduszach i instytucjach, O – oznacza koszty poniesione przez fundusz w związku ze zbyciem lub odkupieniem tytułów uczestnictwa w funduszach i instytucjach wspólnego inwestowania, t – oznacza okres, za który są przedstawiane dane, WAN – oznacza średnią wartość aktywów netto funduszu.
 III.
@@ -547,7 +544,8 @@ Wskaźnik zysku do ryzyka powinien być przyporządkowany do liczby całkowitej 
 II.
 Określenie przedziałów zmienności stóp zwrotu funduszu
 1.
-Wyliczenia wskaźnika zysku do ryzyka dla funduszu należy dokonać w oparciu o następującą tabelą przedziałów zmienności w ujęciu rocznym: Kategoria ryzyka Przedziały zmienności stóp zwrotu funduszu równe lub większe mniejsze niż 1 0,5% 2 0,5% 2% 3 2% 5% 4 5% 10% 5 10% 15% 6 15% 25% 7 25%
+Wyliczenia wskaźnika zysku do ryzyka dla funduszu należy dokonać w oparciu o następującą tabelą przedziałów zmienności w ujęciu rocznym:
+Kategoria ryzyka Przedziały zmienności stóp zwrotu funduszu równe lub większe mniejsze niż 1 0,5% 2 0,5% 2% 3 2% 5% 4 5% 10% 5 10% 15% 6 15% 25% 7 25%
 2.
 Przedziały zmienności stóp zwrotu funduszu odzwierciedlają rosnący poziom ryzyka ponoszonego przez fundusz, a tym samym umiejscowienie funduszu na skali ryzyka.
 III.

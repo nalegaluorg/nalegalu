@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-02 |
 | Data wydania | 2024-08-06 |
-| Wejście w życie | 2024-08-07 |
 | Ostatnia zmiana | 2024-08-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001195) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1195/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 114 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 114 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. z 2023 r. poz. 2201) w § 1 część „48. Gospodarka złożami kopalin” otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. z 2023 r. poz. 2201) w § 1 część „48. Gospodarka złożami kopalin” otrzymuje brzmienie: „
 48.
-Gospodarka surowcami energetycznymi
-” .
+Gospodarka surowcami energetycznymi ” .
 § 2.
 Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie po raz pierwszy do planowania i wykonania budżetu państwa na rok 2025.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.
 

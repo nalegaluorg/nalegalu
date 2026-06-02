@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-05 |
 | Data wydania | 2012-06-13 |
-| Wejście w życie | 2012-06-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000658) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/658/text.pdf) |
 
@@ -31,23 +30,17 @@ Na podstawie art. 19 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważon
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 września 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 161, poz. 1285 oraz z 2011 r. Nr 48, poz. 250) wprowadza się następujące zmiany:
 1)
-w § 46 dodaje się ust. 3 w brzmieniu:
-„
+w § 46 dodaje się ust. 3 w brzmieniu: „
 3.
-W przypadku przyznania pomocy na realizację operacji, o których mowa w § 2 pkt 1, do kosztów kwalifikowalnych zalicza się również koszty kwalifikowalne poniesione przez wnioskodawcę przed dniem złożenia wniosku o dofinansowanie, lecz nie wcześniej niż w dniu 30 września 2009 r.
-” ;
+W przypadku przyznania pomocy na realizację operacji, o których mowa w § 2 pkt 1, do kosztów kwalifikowalnych zalicza się również koszty kwalifikowalne poniesione przez wnioskodawcę przed dniem złożenia wniosku o dofinansowanie, lecz nie wcześniej niż w dniu 30 września 2009 r. ” ;
 2)
-w § 50 w ust. 2 pkt 3 otrzymuje brzmienie:
-„
+w § 50 w ust. 2 pkt 3 otrzymuje brzmienie: „
 3)
-numer identyfikacji podatkowej (NIP) wnioskodawcy – jeżeli wnioskodawca taki numer posiada;
-” ;
+numer identyfikacji podatkowej (NIP) wnioskodawcy – jeżeli wnioskodawca taki numer posiada; ” ;
 3)
-w załączniku nr 1 do rozporządzenia w ust. 1–6 każdy pkt 1 otrzymuje brzmienie:
-„
+w załączniku nr 1 do rozporządzenia w ust. 1–6 każdy pkt 1 otrzymuje brzmienie: „
 1)
-aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru;
-” .
+aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru; ” .
 § 2.
 1.
 Pomoc na realizację operacji w ramach środka działania wspólne w zakresie działalności uznanych organizacji producentów może zostać przyznana również na operacje, które zostały zrealizowane w całości przed dniem 30 września 2009 r. lub których realizacja rozpoczęła się przed tym dniem, nie wcześniej jednak niż w dniu 1 stycznia 2007 r., zgodnie z warunkami i trybem określonymi w rozporządzeniu wymienionym w § 1, z tym że:
@@ -60,8 +53,7 @@ umowa o dofinansowanie zawiera oświadczenia beneficjenta o:
 a)
 osiągnięciu celu operacji lub zobowiązanie do jego osiągnięcia oraz zobowiązanie do zachowania tego celu,
 b)
-niefinansowaniu realizacji operacji z udziałem innych środków publicznych i zobowiązanie do nieubiegania się o takie finansowanie
-przez 5 lat od dnia dokonania przez Agencję płatności końcowej.
+niefinansowaniu realizacji operacji z udziałem innych środków publicznych i zobowiązanie do nieubiegania się o takie finansowanie – przez 5 lat od dnia dokonania przez Agencję płatności końcowej.
 2.
 W przypadku, o którym mowa w ust. 1, wnioski o dofinansowanie składa się w terminie i na zasadach określonych przez Prezesa Agencji w ogłoszeniu, o którym mowa w § 49a rozporządzenia wymienionego w § 1.
 § 3.

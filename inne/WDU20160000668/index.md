@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 marca 2016 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw
+# Ustawa z dnia 18 marca 2016 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 19 marca 2009 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw oraz ustawę z dnia 29 grudnia 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-18 |
 | Data wydania | 2016-05-16 |
-| Wejście w życie | 2016-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/668/text.pdf) |
+
+Odpowiedzialność dyscyplinarna
 
 **Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2014 r. poz. 191 i 1198 oraz z 2015 r. poz. 357, 1268 i 1418) wprowadza się następujące zmiany:
 
 - **1)** w art. 9g w ust. 11a pkt 7 otrzymuje brzmienie: „
 - **7)** nie była prawomocnie ukarana karą dyscyplinarną; ” ;
-- **2)** w art. 10: w ust. 5: – pkt 3 i 4 otrzymują brzmienie: „ 3) nie toczy się przeciwko niemu postępowanie karne w sprawie o umyślne przestępstwo ścigane z oskarżenia publicznego lub postępowanie dyscyplinarne; 4) nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 pkt 3, w okresie 3 lat przed nawiązaniem stosunku pracy, albo karą dyscyplinarną, o której mowa w art. 76 ust. 1 pkt 4; ” , po ust. 8a dodaje się ust. 8b w brzmieniu: „
+- **2)** w art. 10: w ust. 5: pkt 3 i 4 otrzymują brzmienie: „
     - **a)**
+
+- **3)** nie toczy się przeciwko niemu postępowanie karne w sprawie o umyślne przestępstwo ścigane z oskarżenia publicznego lub postępowanie dyscyplinarne;
+- **4)** nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 pkt 3, w okresie 3 lat przed nawiązaniem stosunku pracy, albo karą dyscyplinarną, o której mowa w art. 76 ust. 1 pkt 4; ” , po ust. 8a dodaje się ust. 8b w brzmieniu: „
     - **b)**
 
 8b. W celu potwierdzenia spełniania warunku, o którym mowa w ust. 5 pkt 4a, nauczyciel, przed nawiązaniem stosunku pracy, jest obowiązany przedstawić dyrektorowi szkoły informację z rejestru, o którym mowa w art. 85w ust. 1. ” ;
@@ -62,7 +67,7 @@ source: "eli-html"
 
 - **6)** rozdział 10 otrzymuje brzmienie: „
 
-#### Rozdział 10 Odpowiedzialność dyscyplinarna
+#### Rozdział 10
 
 **Art. 75.**
 
@@ -683,6 +688,6 @@ source: "eli-html"
 **Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 5, pkt 6 w zakresie art. 85w-85z ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, pkt 8 lit. a w zakresie art. 91b ust. 2 pkt 1 i 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 4, które wchodzą w życie z dniem 1 września 2016 r.;
-- **2)** art. 1 pkt 4 i pkt 6 w zakresie art. 85p ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 1 stycznia 2017 r.
+- **2)** art. 1 pkt 4 i pkt 6 w zakresie art. 85p ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 1 stycznia 2017 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 19 marca 2009 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw oraz ustawę z dnia 29 grudnia 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
 
 

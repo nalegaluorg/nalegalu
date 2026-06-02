@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 września 2020 r. zmieniające rozporządzenie w sprawie trybu pracy Komisji Nazw Miejscowości i Obiektów Fizjograficznych oraz wysokości wynagrodzenia przysługującego jej członkom za udział w posiedzeniach
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 września 2020 r. zmieniające rozporządzenie w sprawie trybu pracy Komisji Nazw Miejscowości i Obiektów Fizjograficznych oraz wysokości wynagrodzenia przysługującego jej członkom za udział w posiedzeniach Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-02 |
 | Data wydania | 2020-09-10 |
-| Wejście w życie | 2020-09-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001558) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1558/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 4 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. z 2019 r. poz. 1443) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 sierpnia 2004 r. w sprawie trybu pracy Komisji Nazw Miejscowości i Obiektów Fizjograficznych oraz wysokości wynagrodzenia przysługującego jej członkom za udział w posiedzeniach (Dz. U. poz. 1831) po § 4 dodaje się § 4a w brzmieniu:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 sierpnia 2004 r. w sprawie trybu pracy Komisji Nazw Miejscowości i Obiektów Fizjograficznych oraz wysokości wynagrodzenia przysługującego jej członkom za udział w posiedzeniach (Dz. U. poz. 1831) po § 4 dodaje się § 4a w brzmieniu: „
 § 4a.
 1.
 Komisja może odbywać posiedzenia oraz podejmować uchwały przy użyciu środków komunikacji elektronicznej (zdalny tryb obradowania) lub korespondencyjnie (obiegowy tryb obradowania).
 2.
-Obradowanie w trybie zdalnym lub trybie obiegowym zarządza przewodniczący Komisji.
-” .
+Obradowanie w trybie zdalnym lub trybie obiegowym zarządza przewodniczący Komisji. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

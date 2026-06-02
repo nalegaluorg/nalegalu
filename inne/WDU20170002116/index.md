@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 października 2017 r. w sprawie szczegółowych przesłanek odroczenia, rozłożenia na raty lub umorzenia należności Krajowego Ośrodka Wsparcia Rolnictwa oraz trybu postępowania w tych sprawach
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 października 2017 r. w sprawie szczegółowych przesłanek odroczenia, rozłożenia na raty lub umorzenia należności Krajowego Ośrodka Wsparcia Rolnictwa oraz trybu postępowania w tych sprawach Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-31 |
 | Data wydania | 2017-11-15 |
-| Wejście w życie | 2017-11-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002116) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2116/text.pdf) |
 
@@ -107,6 +106,5 @@ W przypadkach, o których mowa w § 2 ust. 1 i 2, umorzenie należności następ
 § 5.
 Do postępowań w sprawach umarzania, odraczania lub rozkładania na raty należności przypadających Agencji Nieruchomości Rolnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2009 r. w sprawie szczegółowych przesłanek odroczenia, rozłożenia na raty lub umorzenia należności Agencji Nieruchomości Rolnych oraz trybu postępowania w tych sprawach (Dz. U. poz. 1619 oraz z 2010 r. poz. 1271), które na podstawie art. 60 ust. 1 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2009 r. w sprawie szczegółowych przesłanek odroczenia, rozłożenia na raty lub umorzenia należności Agencji Nieruchomości Rolnych oraz trybu postępowania w tych sprawach (Dz. U. poz. 1619 oraz z 2010 r. poz. 1271), które na podstawie art. 60 ust. 1 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2009 r. w sprawie szczegółowych przesłanek odroczenia, rozłożenia na raty lub umorzenia należności Agencji Nieruchomości Rolnych oraz trybu postępowania w tych sprawach (Dz. U. poz. 1619 oraz z 2010 r. poz. 1271), które na podstawie art. 60 ust. 1 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

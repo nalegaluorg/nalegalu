@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 3 lutego 2001 r. o ochronie dziedzictwa Fryderyka Chopina (Dz. U. z 2020 r. poz. 115), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. poz. 464) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 sierpnia 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 92 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. poz. 464), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 92 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. poz. 464), który stanowi: „
 
 **Art. 92.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 3 lutego 2001 r. o ochronie dziedzictwa Fryderyka Chopina
 
@@ -93,8 +92,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 3. Odznakę nadaje minister z własnej inicjatywy lub na wniosek:
 
 - **1)** innego ministra lub kierownika urzędu centralnego;
-- **2)** terenowego organu administracji rządowej albo organu jednostki samorządu terytorialnego;
-- **3)** kierownika placówki zagranicznej Rzeczypospolitej Polskiej w rozumieniu art. 7 pkt 7 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. poz. 464 i 1003);
+- **2)** terenowego organu administracji rządowej albo organu jednostki samorządu terytorialnego; 3Ze zmianą wprowadzoną przez art. 65 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. poz. 464), która weszła w życie z dniem 16 czerwca 2021 r.) kierownika placówki zagranicznej Rzeczypospolitej Polskiej w rozumieniu art. 7 pkt 7 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. poz. 464 i 1003);
 - **4)** podmiotu prowadzącego statutową działalność kulturalną, organizacji społecznej lub stowarzyszenia, działających na rzecz ochrony dziedzictwa Fryderyka Chopina;
 - **5)** kierownika publicznej albo niepublicznej szkoły artystycznej;
 - **6)** instytutu badawczego albo innej jednostki naukowej prowadzącej badania naukowe i poszerzającej wiedzę o życiu i twórczości Fryderyka Chopina.
@@ -147,10 +145,8 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 10.**
 
-1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 9 marca 2001 r..
 
-2. W odniesieniu do zarejestrowanych znaków towarowych wykorzystujących nazwisko lub podobiznę Fryderyka Chopina, ustawa wchodzi w życie po upływie 6 miesięcy od dnia jej ogłoszenia i odnosi się także do znaków towarowych używanych w dniu jej wejścia w życie.
-
-- **1)** Ze zmianą wprowadzoną przez art. 65 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. poz. 464), która weszła w życie z dniem 16 czerwca 2021 r. 2) Ustawa została ogłoszona w dniu 9 marca 2001 r.
+2. W odniesieniu do zarejestrowanych znaków towarowych wykorzystujących nazwisko lub podobiznę Fryderyka Chopina, ustawa wchodzi w życie po upływie 6 miesięcy od dnia jej ogłoszenia i odnosi się także do znaków towarowych używanych w dniu jej wejścia w życie. 1) Ze zmianą wprowadzoną przez art. 65 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. poz. 464), która weszła w życie z dniem 16 czerwca 2021 r. 2) Ustawa została ogłoszona w dniu 9 marca 2001 r.
 
 

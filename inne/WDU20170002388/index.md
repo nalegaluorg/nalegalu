@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 11 grudnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowego trybu finansowania i gospodarki finansowej Polskiej Akademii Nauk i jej instytutów naukowych
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 11 grudnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowego trybu finansowania i gospodarki finansowej Polskiej Akademii Nauk i jej instytutów naukowych Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-11 |
 | Data wydania | 2017-12-20 |
-| Wejście w życie | 2018-01-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002388) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2388/text.pdf) |
 
@@ -31,23 +30,18 @@ Na podstawie art. 86 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk 
 § 1.
 W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 20 grudnia 2010 r. w sprawie szczegółowego trybu finansowania i gospodarki finansowej Polskiej Akademii Nauk i jej instytutów naukowych (Dz. U. poz. 1707) wprowadza się następujące zmiany:
 1)
-§ 5 otrzymuje brzmienie:
-„
+§ 5 otrzymuje brzmienie: „
 § 5.
 1.
 Akademia prowadzi księgi rachunkowe i sporządza sprawozdania finansowe na zasadach określonych w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2017 r. poz. 2342 i 2201), zwanej dalej „ustawą o rachunkowości”.
 2.
-Roczne sprawozdanie finansowe Akademii podlega badaniu przez firmę audytorską, zgodnie z wymogami przeprowadzenia badania określonymi w ustawie o rachunkowości i ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089). Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Akademii dokonuje Zgromadzenie Ogólne Akademii.
-” ;
+Roczne sprawozdanie finansowe Akademii podlega badaniu przez firmę audytorską, zgodnie z wymogami przeprowadzenia badania określonymi w ustawie o rachunkowości i ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089). Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Akademii dokonuje Zgromadzenie Ogólne Akademii. ” ;
 2)
-w § 11 ust. 1 i 2 otrzymują brzmienie:
-„
+w § 11 ust. 1 i 2 otrzymują brzmienie: „
 1.
 Instytut prowadzi księgi rachunkowe i sporządza sprawozdania finansowe na zasadach określonych w ustawie o rachunkowości.
 2.
-Roczne sprawozdanie finansowe instytutu podlega badaniu przez firmę audytorską, zgodnie z wymogami przeprowadzenia badania określonymi w ustawie o rachunkowości i ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
-” .
+Roczne sprawozdanie finansowe instytutu podlega badaniu przez firmę audytorską, zgodnie z wymogami przeprowadzenia badania określonymi w ustawie o rachunkowości i ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896).
 

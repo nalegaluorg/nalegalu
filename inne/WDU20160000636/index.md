@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-13 |
 | Data wydania | 2016-05-09 |
-| Wejście w życie | 2016-05-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/636/text.pdf) |
 

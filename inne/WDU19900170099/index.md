@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1990-03-09 |
 | Data wydania | 1990-03-21 |
-| Wejście w życie | 1990-03-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900170099) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/99/text.pdf) |
+
+Postępowanie naprawcze
 
 **Art. 1.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 1987 r. Nr 35, poz. 201 oraz z 1989 r. Nr 10, poz. 57 i Nr 20, poz. 107) wprowadza się następujące zmiany:
 
@@ -179,7 +180,7 @@ source: "eli-html"
 
 - **22)** po art. 62 dodaje się rozdział 13 w brzmieniu: „
 
-#### Rozdział 13 Postępowanie naprawcze
+#### Rozdział 13
 
 **Art. 63.** Jeżeli przedsiębiorstwo nie płaci dywidendy, może być wszczęte w stosunku do niego postępowanie naprawcze.
 

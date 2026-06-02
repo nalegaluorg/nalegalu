@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-21 |
 | Data wydania | 1997-09-11 |
-| Wejście w życie | 1997-09-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971060678) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/678/text.pdf) |
 
@@ -92,8 +91,11 @@ source: "eli-html"
 
 1. Czynsz i opłaty z tytułu zajmowania kwatery lub lokalu mieszkalnego, nie uiszczone w ustalonym terminie płatności, podlegają wraz z odsetkami za zwłokę przymusowemu ściągnięciu na podstawie tytułu wykonawczego w trybie przepisów o postępowaniu egzekucyjnym w administracji. ” ;
 
-- **13)** w art. 41: w ust. 1: – pkt 10 otrzymuje brzmienie: „ 10) wypowiedział stosunek służbowy w okresie służby obowiązkowej, chyba że zachował prawo do kwatery na podstawie art. 23 ust. 1, ” – po pkt 10 dodaje się pkt 11 w brzmieniu: „ 11) nabył grunt w trybie określonym w art. 17 pkt 5. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **13)** w art. 41: w ust. 1: pkt 10 otrzymuje brzmienie: „
     - **a)**
+
+- **10)** wypowiedział stosunek służbowy w okresie służby obowiązkowej, chyba że zachował prawo do kwatery na podstawie art. 23 ust. 1, ” po pkt 10 dodaje się pkt 11 w brzmieniu: „
+- **11)** nabył grunt w trybie określonym w art. 17 pkt 5. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
     - **b)**
 
 - **1)** występują odpowiednio okoliczności, o których mowa w ust. 1 pkt 1, 2, 5–9 lub 11, ” ;

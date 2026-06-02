@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy o zasadach ewidencji i identyfikacji podatników i płatników
+# Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy o zasadach ewidencji i identyfikacji podatników i płatników Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy 2003/92/WE z dnia 7 października 2003 r. zmieniającej dyrektywę 77/388/EWG w odniesieniu do zasad dotyczących miejsca dostawy gazu i energii elektrycznej (Dz. Urz. UE L 260 z 11.10. 2003 r.). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r. zamieszczone w niniejszej ustawie dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-12-16 |
 | Data wydania | 2005-01-25 |
-| Wejście w życie | 2005-02-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050140113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/113/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 po pkt 27 dodaje się pkt 27a w brzmieniu: „
-- **27a)** systemie gazowym albo systemie elektroenergetycznym – rozumie się przez to system gazowy albo system elektroenergetyczny w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2003 r. Nr 153, poz. 1504, z późn. zm.); ” ;
+- **27a)** systemie gazowym albo systemie elektroenergetycznym – rozumie się przez to system gazowy albo system elektroenergetyczny w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2003 r. Nr 153, poz. 1504, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 29, poz. 257, Nr 34, poz. 293, Nr 91, poz. 875, Nr 96, poz. 959 i Nr 173, poz. 1808.); ” ;
 - **2)** w art. 12 w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 w brzmieniu: „
 - **9)** przemieszczeniu podlega gaz w systemie gazowym lub energia elektryczna w systemie elektroenergetycznym. ” ;
 - **3)** w art. 13 w ust. 4 w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 w brzmieniu: „
@@ -61,8 +60,5 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2004 r. Nr 269, poz. 2681) w art. 9 ust. 2 otrzymuje brzmienie: „ 2. Obowiązek dokonania zgłoszenia aktualizacyjnego przez podatników, o których mowa w art. 6 ust. 1, występuje również w przypadku, gdy podatnikom tym, w wyniku utraty prawa do zwolnienia od podatku od towarów i usług lub rezygnacji z tego prawa, zmieniła się właściwość naczelnika urzędu skarbowego; w tym przypadku zgłoszenia aktualizacyjnego dokonuje się naczelnikowi urzędu skarbowego właściwemu w sprawach podatku od towarów i usług, wraz ze zgłoszeniem rejestracyjnym, o którym mowa w art. 96 ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 lutego 2005 r., z wyjątkiem art. 1 pkt 8, który wchodzi w życie z dniem 1 marca 2005 r.
-
-- **1)** Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy 2003/92/WE z dnia 7 października 2003 r. zmieniającej dyrektywę 77/388/EWG w odniesieniu do zasad dotyczących miejsca dostawy gazu i energii elektrycznej (Dz. Urz. UE L 260 z 11.10. 2003 r.). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r. zamieszczone w niniejszej ustawie dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 29, poz. 257, Nr 34, poz. 293, Nr 91, poz. 875, Nr 96, poz. 959 i Nr 173, poz. 1808.
-
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 lutego 2005 r., z wyjątkiem art. 1 pkt 8, który wchodzi w życie z dniem 1 marca 2005 r. 1) Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy 2003/92/WE z dnia 7 października 2003 r. zmieniającej dyrektywę 77/388/EWG w odniesieniu do zasad dotyczących miejsca dostawy gazu i energii elektrycznej (Dz. Urz. UE L 260 z 11.10. 2003 r.). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r. zamieszczone w niniejszej ustawie dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 29, poz. 257, Nr 34, poz. 293, Nr 91, poz. 875, Nr 96, poz. 959 i Nr 173, poz. 1808.
 

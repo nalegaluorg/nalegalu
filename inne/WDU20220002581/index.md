@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw
+# Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2161 z dnia 27 listopada 2019 r. zmieniającą dyrektywę Rady 93/13/EWG i dyrektywy Parlamentu Europejskiego i Rady 98/6/WE, 2005/29/WE oraz 2011/83/UE w odniesieniu do lepszego egzekwowania i unowocześnienia unijnych przepisów dotyczących ochrony konsumenta (Dz. Urz. UE L 328 z 18.12.2019, str. 7).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-01 |
 | Data wydania | 2022-12-12 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002581) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2581/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, ustawę z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym oraz ustawę z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług.
 
 **Art. 1.** W ustawie z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287, z 2021 r. poz. 2105 oraz z 2022 r. poz. 2337) wprowadza się następujące zmiany:
 
@@ -33,7 +34,7 @@ source: "eli-html"
     - **e)**
     - **b)**
 
-- **7)** dane osobowe – dane osobowe w rozumieniu art. 4 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”;
+- **7)** dane osobowe – dane osobowe w rozumieniu art. 4 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35., zwanego dalej „rozporządzeniem 2016/679”;
 - **8)** internetowa platforma handlowa – usługę korzystającą z oprogramowania, w tym ze strony internetowej, z części strony internetowej lub aplikacji, obsługiwanego przez przedsiębiorcę lub w jego imieniu, w ramach której umożliwia się: konsumentom zawieranie z innymi przedsiębiorcami umów na odległość lub osobom fizycznym niebędącym przedsiębiorcami zawieranie umów na odległość z innymi osobami fizycznymi niebędącymi przedsiębiorcami;
     - **a)**
     - **b)**
@@ -59,7 +60,7 @@ source: "eli-html"
 
 2. Przepisów ustawy nie stosuje się do umów dotyczących usług finansowych, w szczególności: czynności bankowych, umowy kredytu konsumenckiego, czynności ubezpieczeniowych, umowy nabycia lub odkupienia jednostek uczestnictwa funduszu inwestycyjnego otwartego albo specjalistycznego funduszu inwestycyjnego otwartego i nabycia lub objęcia certyfikatów inwestycyjnych funduszu inwestycyjnego zamkniętego, usług płatniczych, z wyjątkiem umów dotyczących usług finansowych zawieranych na odległość, do których stosuje się przepisy rozdziałów 1 i 5, i umów dotyczących usług finansowych zawieranych poza lokalem przedsiębiorstwa, do których stosuje się przepis art. 7ab. ” ;
 
-- **5)** w art. 4a w ust. 1 skreśla się wyrazy „(Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679” „;
+- **5)** w art. 4a w ust. 1 skreśla się wyrazy „(Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.), zwanego dalej „rozporządzeniem 2016/679” „;
 - **6)** po art. 7aa dodaje się art. 7ab w brzmieniu: „ Art. 7ab.
 
 1. Umowa dotycząca usług finansowych nie może być zawarta podczas pokazu lub wycieczki.
@@ -164,9 +165,13 @@ source: "eli-html"
 - **19)** w art. 36 w pkt 2 lit. a otrzymuje brzmienie: „ konsument nie wyraził zgody na spełnienie świadczenia przed upływem terminu, o którym mowa w art. 27 ust. 1 albo 2, lub ” ;
     - **a)**
 
-- **20)** w art. 38: dotychczasową treść oznacza się jako ust. 1, w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) o świadczenie usług, za które konsument jest zobowiązany do zapłaty ceny, jeżeli przedsiębiorca wykonał w pełni usługę za wyraźną i uprzednią zgodą konsumenta, który został poinformowany przed rozpoczęciem świadczenia, że po spełnieniu świadczenia przez przedsiębiorcę utraci prawo odstąpienia od umowy, i przyjął to do wiadomości; ” , – pkt 13 otrzymuje brzmienie: „ 13) o dostarczanie treści cyfrowych niedostarczanych na nośniku materialnym, za które konsument jest zobowiązany do zapłaty ceny, jeżeli przedsiębiorca rozpoczął świadczenie za wyraźną i uprzednią zgodą konsumenta, który został poinformowany przed rozpoczęciem świadczenia, że po spełnieniu świadczenia przez przedsiębiorcę utraci prawo odstąpienia od umowy, i przyjął to do wiadomości, a przedsiębiorca przekazał konsumentowi potwierdzenie, o którym mowa w art. 15 ust. 1 i 2 albo art. 21 ust. 1; ” , – dodaje się pkt 14 w brzmieniu: „ 14) o świadczenie usług, za które konsument jest zobowiązany do zapłaty ceny, w przypadku których konsument wyraźnie zażądał od przedsiębiorcy, aby przyjechał do niego w celu dokonania naprawy, a usługa została już w pełni wykonana za wyraźną i uprzednią zgodą konsumenta. ” , dodaje się ust. 2 w brzmieniu: „
+- **20)** w art. 38: dotychczasową treść oznacza się jako ust. 1, w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **1)** o świadczenie usług, za które konsument jest zobowiązany do zapłaty ceny, jeżeli przedsiębiorca wykonał w pełni usługę za wyraźną i uprzednią zgodą konsumenta, który został poinformowany przed rozpoczęciem świadczenia, że po spełnieniu świadczenia przez przedsiębiorcę utraci prawo odstąpienia od umowy, i przyjął to do wiadomości; ” , pkt 13 otrzymuje brzmienie: „
+- **13)** o dostarczanie treści cyfrowych niedostarczanych na nośniku materialnym, za które konsument jest zobowiązany do zapłaty ceny, jeżeli przedsiębiorca rozpoczął świadczenie za wyraźną i uprzednią zgodą konsumenta, który został poinformowany przed rozpoczęciem świadczenia, że po spełnieniu świadczenia przez przedsiębiorcę utraci prawo odstąpienia od umowy, i przyjął to do wiadomości, a przedsiębiorca przekazał konsumentowi potwierdzenie, o którym mowa w art. 15 ust. 1 i 2 albo art. 21 ust. 1; ” , dodaje się pkt 14 w brzmieniu: „
+- **14)** o świadczenie usług, za które konsument jest zobowiązany do zapłaty ceny, w przypadku których konsument wyraźnie zażądał od przedsiębiorcy, aby przyjechał do niego w celu dokonania naprawy, a usługa została już w pełni wykonana za wyraźną i uprzednią zgodą konsumenta. ” , dodaje się ust. 2 w brzmieniu: „
     - **c)**
 
 2. Przepisów ust. 1 pkt 1–3 i 5 nie stosuje się do umów zawieranych podczas nieumówionej wizyty przedsiębiorcy w miejscu zamieszkania lub zwykłego pobytu konsumenta albo wycieczki. ” ;
@@ -215,8 +220,13 @@ source: "eli-html"
 - **12)** internetowej platformie handlowej – rozumie się przez to internetową platformę handlową w rozumieniu art. 2 pkt 8 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287, z 2021 r. poz. 2105 oraz z 2022 r. poz. 2337 i 2581). ” ;
 - **2)** w art. 5 w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 - **5)** każdy rodzaj wprowadzenia na rynek w co najmniej jednym państwie członkowskim towaru jako identycznego z towarem wprowadzonym na rynki w innych państwach członkowskich, mimo że towar ten w sposób istotny różni się składem lub właściwościami, chyba że przemawiają za tym uzasadnione i obiektywne czynniki. ” ;
-- **3)** w art. 6: w ust. 4: – pkt 4 otrzymuje brzmienie: „ 4) uzgodnienia dotyczące sposobu płatności, dostawy lub wykonania produktu; ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „ 6) informacje o tym, czy osoba trzecia oferująca produkty na internetowej platformie handlowej jest przedsiębiorcą – na podstawie oświadczenia tej osoby złożonego dostawcy internetowej platformy handlowej w rozumieniu art. 2 pkt 9 ustawy z dnia 30 maja 2014 r. o prawach konsumenta; 7) informacje o tym, czy i w jaki sposób przedsiębiorca zapewnia, aby publikowane opinie pochodziły od konsumentów, którzy używali danego produktu lub go nabyli – w przypadku przedsiębiorcy, który umożliwia dostęp do wystawionych przez konsumentów opinii o produktach; 8) ogólne informacje udostępniane w specjalnej części interfejsu internetowego dostępnej w sposób bezpośredni i łatwy ze strony, na której prezentowane są wyniki wyszukiwania dotyczące głównych parametrów decydujących o plasowaniu produktów przedstawianych konsumentowi w wyniku wyszukiwania oraz względne znaczenie tych parametrów w porównaniu z innymi parametrami – w przypadku gdy udostępnia się konsumentom możliwość wyszukiwania produktów oferowanych przez różnych przedsiębiorców lub konsumentów i niezależnie od tego, gdzie transakcja ostatecznie zostanie zawarta. ” , dodaje się ust. 7 w brzmieniu: „
+- **3)** w art. 6: w ust. 4: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** uzgodnienia dotyczące sposobu płatności, dostawy lub wykonania produktu; ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „
+- **6)** informacje o tym, czy osoba trzecia oferująca produkty na internetowej platformie handlowej jest przedsiębiorcą – na podstawie oświadczenia tej osoby złożonego dostawcy internetowej platformy handlowej w rozumieniu art. 2 pkt 9 ustawy z dnia 30 maja 2014 r. o prawach konsumenta;
+- **7)** informacje o tym, czy i w jaki sposób przedsiębiorca zapewnia, aby publikowane opinie pochodziły od konsumentów, którzy używali danego produktu lub go nabyli – w przypadku przedsiębiorcy, który umożliwia dostęp do wystawionych przez konsumentów opinii o produktach;
+- **8)** ogólne informacje udostępniane w specjalnej części interfejsu internetowego dostępnej w sposób bezpośredni i łatwy ze strony, na której prezentowane są wyniki wyszukiwania dotyczące głównych parametrów decydujących o plasowaniu produktów przedstawianych konsumentowi w wyniku wyszukiwania oraz względne znaczenie tych parametrów w porównaniu z innymi parametrami – w przypadku gdy udostępnia się konsumentom możliwość wyszukiwania produktów oferowanych przez różnych przedsiębiorców lub konsumentów i niezależnie od tego, gdzie transakcja ostatecznie zostanie zawarta. ” , dodaje się ust. 7 w brzmieniu: „
     - **b)**
 
 7. Przepisu ust. 4 pkt 8 nie stosuje się do dostawców wyszukiwarek internetowych w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1150 z dnia 20 czerwca 2019 r. w sprawie propagowania sprawiedliwości i przejrzystości dla użytkowników biznesowych korzystających z usług pośrednictwa internetowego (Dz. Urz. UE L 186 z 11.07.2019, str. 57). ” ;
@@ -258,7 +268,7 @@ source: "eli-html"
 6. Minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów, określi, w drodze rozporządzenia:
 
 - **1)** sposób uwidaczniania cen towarów i usług, w tym cen jednostkowych towarów lub usług, oraz informacji o obniżonej cenie,
-- **2)** wykaz towarów, w przypadku których nie jest wymagane uwidocznienie ceny jednostkowej towarów lub usług mając na uwadze potrzebę zapewnienia dostępności informacji o cenie, a także uwzględniając przypadki, gdy uwidocznienie ceny jednostkowej towaru lub usługi nie byłoby przydatne ze względu na rodzaj lub przeznaczenie towaru lub usługi. ” ;
+- **2)** wykaz towarów, w przypadku których nie jest wymagane uwidocznienie ceny jednostkowej towarów lub usług – mając na uwadze potrzebę zapewnienia dostępności informacji o cenie, a także uwzględniając przypadki, gdy uwidocznienie ceny jednostkowej towaru lub usługi nie byłoby przydatne ze względu na rodzaj lub przeznaczenie towaru lub usługi. ” ;
 - **3)** art. 6 otrzymuje brzmienie: „
 
 1. Jeżeli przedsiębiorca nie wykonuje obowiązków, o których mowa w art. 4 ust. 1–5, wojewódzki inspektor Inspekcji Handlowej nakłada na niego, w drodze decyzji, karę pieniężną do wysokości 20 000 zł.
@@ -270,7 +280,7 @@ source: "eli-html"
 - **1)** stopień naruszenia obowiązków, o których mowa w art. 4 ust. 1–5, w tym charakter, wagę, skalę i czas trwania naruszenia tych obowiązków;
 - **2)** dotychczasową działalność przedsiębiorcy, w tym podjęte przez niego działania w celu złagodzenia lub naprawienia szkody poniesionej przez konsumentów, wcześniejsze naruszenia obowiązków, o których mowa w art. 4 ust. 1–5, przez tego przedsiębiorcę oraz uzyskane przez przedsiębiorcę korzyści majątkowe lub straty w związku z naruszeniem tych obowiązków;
 - **3)** wielkość obrotów i przychodu przedsiębiorcy;
-- **4)** sankcje nałożone na przedsiębiorcę za to samo naruszenie w innych państwach członkowskich Unii Europejskiej w sprawach transgranicznych, jeżeli informacje o takich sankcjach są dostępne w ramach mechanizmu ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2017/2394 z dnia 12 grudnia 2017 r. w sprawie współpracy między organami krajowymi odpowiedzialnymi za egzekwowanie przepisów prawa w zakresie ochrony konsumentów i uchylającym rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 345 z 27.12.2017, str. 1, z późn. zm.). ” ;
+- **4)** sankcje nałożone na przedsiębiorcę za to samo naruszenie w innych państwach członkowskich Unii Europejskiej w sprawach transgranicznych, jeżeli informacje o takich sankcjach są dostępne w ramach mechanizmu ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2017/2394 z dnia 12 grudnia 2017 r. w sprawie współpracy między organami krajowymi odpowiedzialnymi za egzekwowanie przepisów prawa w zakresie ochrony konsumentów i uchylającym rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 345 z 27.12.2017, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 60 z 02.03.2018, str. 1 oraz Dz. Urz. UE L 136 z 22.05.2019, str. 1 i 28.. ” ;
 - **4)** w art. 7 ust. 2 otrzymuje brzmienie: „
 
 2. Nie wydaje się decyzji, jeżeli od dnia stwierdzenia niewykonania obowiązku, o którym mowa w art. 4 ust. 1–5, upłynęły 3 lata, licząc od końca roku, w którym stwierdzono naruszenie tego obowiązku. ” . Do umów, o których mowa w art. 3a i art. 7ab ustawy zmienianej w art. 1, zawartych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
@@ -281,5 +291,5 @@ source: "eli-html"
 
 **Art. 10.** Do postępowań w sprawie nałożenia kar, o których mowa w art. 6 ustawy zmienianej w art. 6, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r.
+**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2161 z dnia 27 listopada 2019 r. zmieniającą dyrektywę Rady 93/13/EWG i dyrektywy Parlamentu Europejskiego i Rady 98/6/WE, 2005/29/WE oraz 2011/83/UE w odniesieniu do lepszego egzekwowania i unowocześnienia unijnych przepisów dotyczących ochrony konsumenta (Dz. Urz. UE L 328 z 18.12.2019, str. 7). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, ustawę z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym oraz ustawę z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 60 z 02.03.2018, str. 1 oraz Dz. Urz. UE L 136 z 22.05.2019, str. 1 i 28.
 

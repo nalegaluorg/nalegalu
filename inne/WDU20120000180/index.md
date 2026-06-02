@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 8 lutego 2012 r. w sprawie sposobu postępowania w przypadku zatrzymania statku o polskiej przynależności przez inspekcję państwa portu
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 8 lutego 2012 r. w sprawie sposobu postępowania w przypadku zatrzymania statku o polskiej przynależności przez inspekcję państwa portu Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/21/WE z dnia 23 kwietnia 2009 r. w sprawie zgodności z wymaganiami dotyczącymi państwa bandery (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 131 z 28.05.2009, str. 132).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-08 |
 | Data wydania | 2012-02-16 |
-| Wejście w życie | 2012-02-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/180/text.pdf) |
 
@@ -94,6 +93,5 @@ propozycje działań w celu zwiększenia jakości polskiej floty w zakresie bezp
 4)
 zidentyfikowanie statków, które powinny zostać poddane szczególnemu nadzorowi inspekcyjnemu.
 § 7.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/21/WE z dnia 23 kwietnia 2009 r. w sprawie zgodności z wymaganiami dotyczącymi państwa bandery (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 131 z 28.05.2009, str. 132).
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/21/WE z dnia 23 kwietnia 2009 r. w sprawie zgodności z wymaganiami dotyczącymi państwa bandery (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 131 z 28.05.2009, str. 132).
 

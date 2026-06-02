@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 6 grudnia 2018 r. o zmianie niektórych ustaw w celu poprawy skuteczności egzekucji świadczeń alimentacyjnych
+# Ustawa z dnia 6 grudnia 2018 r. o zmianie niektórych ustaw w celu poprawy skuteczności egzekucji świadczeń alimentacyjnych Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny oraz ustawę z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-06 |
 | Data wydania | 2018-12-27 |
-| Wejście w życie | 2019-01-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2432/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693 i 2385.) wprowadza się następujące zmiany:
 
 - **1)** w art. 831 w § 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 - **1a)** 50% kwot diet przysługujących z tytułu podróży służbowych – jeżeli egzekucja ma na celu zaspokojenie roszczeń z tytułu alimentów, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów; ” ;
@@ -43,7 +42,7 @@ source: "eli-html"
 - **2)** po pkt 10 dodaje się pkt 10a w brzmieniu: „
 - **10a)** 50% kwot diet otrzymanych na pokrycie wydatków służbowych, w tym kosztów podróży i wyjazdów – jeżeli egzekucja ma na celu zaspokojenie roszczeń z tytułu alimentów, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów; ” .
 
-**Art. 3.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245 i 2377.) wprowadza się następujące zmiany:
 
 - **1)** w art. 281 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „
 
@@ -58,7 +57,7 @@ source: "eli-html"
 - **1)** komornikowi sądowemu w celu dokonania egzekucji świadczeń alimentacyjnych, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów, od dłużników uchylających się od obowiązków alimentacyjnych;
 - **2)** Państwowej Inspekcji Pracy w celu kontroli przez Państwową Inspekcję Pracy legalności zatrudnienia skazanego uchylającego się od wykonania obowiązku alimentacyjnego, w tym spłaty należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów. ” .
 
-**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.) w art. 50:
+**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629, 1669, 2126, 2192, 2215 i 2244.) w art. 50:
 
 - **1)** w ust. 7 pkt 2 otrzymuje brzmienie: „
 - **2)** w przypadku danych zgromadzonych na koncie płatnika składek – imię i nazwisko lub nazwę skróconą płatnika składek oraz numery, o których mowa w art. 35 ust. 1 pkt 2, lub jeden z nich, jeżeli jest wystarczający do identyfikacji płatnika składek. ” ;
@@ -84,7 +83,7 @@ source: "eli-html"
 
 - **8)** kod świadczenia lub kod przerwy wraz z kwotą wypłaty tego świadczenia;
 - **9)** ustalone prawo do emerytury lub renty;
-- **10)** dane dotyczące płatnika składek: numer NIP, a jeżeli płatnikowi składek nie nadano tego numeru – numer PESEL lub serię i numer dowodu osobistego albo paszportu, nazwę skróconą lub imię i nazwisko płatnika składek w celu sprawnej realizacji egzekucji świadczeń alimentacyjnych, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów, prowadzonej przez komornika sądowego.
+- **10)** dane dotyczące płatnika składek: numer NIP, a jeżeli płatnikowi składek nie nadano tego numeru – numer PESEL lub serię i numer dowodu osobistego albo paszportu, nazwę skróconą lub imię i nazwisko płatnika składek – w celu sprawnej realizacji egzekucji świadczeń alimentacyjnych, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów, prowadzonej przez komornika sądowego.
     - **a)**
     - **b)**
 
@@ -94,7 +93,7 @@ source: "eli-html"
 
 23. Komornik sądowy jest obowiązany do informowania Zakładu, w postaci elektronicznej, nie rzadziej niż co 6 miesięcy, o dalszym prowadzeniu egzekucji świadczeń alimentacyjnych, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów wobec ubezpieczonego, o którym mowa w ust. 20. Brak informacji skutkuje zaprzestaniem przekazywania przez Zakład danych, o których mowa w ust. 21. ” .
 
-**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215 i 2245.) wprowadza się następujące zmiany:
 
 - **1)** po art. 56 dodaje się art. 56a w brzmieniu: „
 
@@ -142,6 +141,6 @@ source: "eli-html"
 - **1)** art. 3, który wchodzi w życie z dniem 1 grudnia 2020 r.;
 - **2)** art. 5 pkt 3, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia;
 - **3)** art. 7 pkt 2, który wchodzi w życie z dniem 1 lipca 2019 r.;
-- **4)** art. 8 i art. 9, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2019 r.
+- **4)** art. 8 i art. 9, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny oraz ustawę z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693 i 2385. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245 i 2377. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629, 1669, 2126, 2192, 2215 i 2244. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215 i 2245.
 
 

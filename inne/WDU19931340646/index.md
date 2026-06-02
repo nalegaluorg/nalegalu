@@ -22,11 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1993-12-16 |
 | Data wydania | 1993-12-31 |
-| Wejście w życie | 1994-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19931340646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.pdf) |
 
-#### Rozdział 1 Zmiany niektórych ustaw
+Zmiany niektórych ustaw
+Przepisy karne
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Zmiany niektórych ustaw
+
+#### Rozdział 2 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
 
 **Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 1993 r. Nr 90, poz. 416) wprowadza się następujące zmiany:
 
@@ -51,9 +58,11 @@ source: "eli-html"
 - **4)** w art. 14: w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
 
-- **1)** przychody ze sprzedaży całości lub części składników majątku związanego z wykonywaną działalnością, nie będących nieruchomościami lub prawami, o których mowa w art. 10 ust. 1 pkt 8, 2) otrzymane dotacje przedmiotowe, subwencje, dopłaty i inne nieodpłatne świadczenia, z wyjątkiem gdy stanowią one zwrot wydatków poniesionych przez podatnika na zakup albo wytworzenie we własnym zakresie środków trwałych lub wartości niematerialnych i prawnych, od których zgodnie z odrębnymi przepisami dokonuje się odpisów amortyzacyjnych, ” w ust. 3: – w pkt 1 po wyrazach„ z wyjątkiem” skreśla się wyraz „otrzymanych”, – pkt 3 i 4 otrzymują brzmienie: „ 3) zwróconych lub umorzonych podatków i opłat oraz zwróconych innych wydatków nie stanowiących kosztów uzyskania przychodów, 4) odsetek otrzymanych w związku ze zwrotem nadpłaconych zobowiązań podatkowych i innych należności budżetowych, a także oprocentowania zwrotu różnicy podatku od towarów i usług, w rozumieniu odrębnych przepisów, ” ;
+- **1)** przychody ze sprzedaży całości lub części składników majątku związanego z wykonywaną działalnością, nie będących nieruchomościami lub prawami, o których mowa w art. 10 ust. 1 pkt 8, 2) otrzymane dotacje przedmiotowe, subwencje, dopłaty i inne nieodpłatne świadczenia, z wyjątkiem gdy stanowią one zwrot wydatków poniesionych przez podatnika na zakup albo wytworzenie we własnym zakresie środków trwałych lub wartości niematerialnych i prawnych, od których zgodnie z odrębnymi przepisami dokonuje się odpisów amortyzacyjnych, ” w ust. 3: – w pkt 1 po wyrazach„ z wyjątkiem” skreśla się wyraz „otrzymanych”, pkt 3 i 4 otrzymują brzmienie: „
     - **b)**
 
+- **3)** zwróconych lub umorzonych podatków i opłat oraz zwróconych innych wydatków nie stanowiących kosztów uzyskania przychodów,
+- **4)** odsetek otrzymanych w związku ze zwrotem nadpłaconych zobowiązań podatkowych i innych należności budżetowych, a także oprocentowania zwrotu różnicy podatku od towarów i usług, w rozumieniu odrębnych przepisów, ” ;
 - **5)** w art. 18 po wyrazach „praw autorskich” dodaje się wyrazy „i praw pokrewnych w rozumieniu odrębnych przepisów”;
 - **6)** w art. 21 w ust. 1: w pkt 2 skreśla się wyrazy „inwalidzkie inwalidów wojennych i wojskowych”, w pkt 3 skreśla się lit. c), pkt 5 otrzymuje brzmienie: „
     - **a)**
@@ -96,8 +105,11 @@ source: "eli-html"
 
 5. Przez pojęcie powiązań rodzinnych, o których mowa w ust. 4, rozumie się małżeństwo oraz pokrewieństwo lub powinowactwo do drugiego stopnia. ” ;
 
-- **11)** w art. 26: w ust. 1: – część wstępna otrzymuje brzmienie: „ Podstawę obliczenia podatku, z zastrzeżeniem art. 24 ust. 3 i art. 28–30, stanowi dochód ustalony zgodnie z art. 9, art. 24 ust. 1 i 2 oraz ust. 4–7 lub art. 25 po odliczeniu kwot: ” , – w pkt 1 po wyrazach „kultu religijnego” dodaje się wyrazy „i na działalność charytatywno-opiekuńczą”, a wyrazy „w rozumieniu przepisów o Państwowej Straży Pożarnej” zastępuje się wyrazami „jednostek ochrony przeciwpożarowej w rozumieniu przepisów o ochronie przeciwpożarowej”, – pkt 3a otrzymuje brzmienie: „ 3a) dokonanych w roku podatkowym zwrotów nienależnie pobranych emerytur i rent oraz zasiłków z ubezpieczenia społecznego, w kwotach uwzględniających podatek dochodowy, jeżeli nie zostały one potrącone przez organ rentowy, ” – w pkt 5 w lit. c) na końcu dodaje się wyrazy „wniesiony przed objęciem lokalu lub budynku mieszkalnego,” – pkt 7a otrzymuje brzmienie: „ 7a) wydatków ponoszonych przez podatnika na odpłatne kształcenie dzieci własnych i przysposobionych w podstawowych, zawodowych i średnich szkołach niepublicznych o uprawnieniach szkół publicznych, do wysokości 1/5 przeciętnego wynagrodzenia w gospodarce narodowej w rozumieniu art. 27 ust. 3 ustawy, na każde dziecko, ” ust. 4 otrzymuje brzmienie: „
+- **11)** w art. 26: w ust. 1: – część wstępna otrzymuje brzmienie: „ Podstawę obliczenia podatku, z zastrzeżeniem art. 24 ust. 3 i art. 28–30, stanowi dochód ustalony zgodnie z art. 9, art. 24 ust. 1 i 2 oraz ust. 4–7 lub art. 25 po odliczeniu kwot: ” , – w pkt 1 po wyrazach „kultu religijnego” dodaje się wyrazy „i na działalność charytatywno-opiekuńczą”, a wyrazy „w rozumieniu przepisów o Państwowej Straży Pożarnej” zastępuje się wyrazami „jednostek ochrony przeciwpożarowej w rozumieniu przepisów o ochronie przeciwpożarowej”, pkt 3a otrzymuje brzmienie: „
     - **a)**
+
+- **3a)** dokonanych w roku podatkowym zwrotów nienależnie pobranych emerytur i rent oraz zasiłków z ubezpieczenia społecznego, w kwotach uwzględniających podatek dochodowy, jeżeli nie zostały one potrącone przez organ rentowy, ” – w pkt 5 w lit. c) na końcu dodaje się wyrazy „wniesiony przed objęciem lokalu lub budynku mieszkalnego,” pkt 7a otrzymuje brzmienie: „
+- **7a)** wydatków ponoszonych przez podatnika na odpłatne kształcenie dzieci własnych i przysposobionych w podstawowych, zawodowych i średnich szkołach niepublicznych o uprawnieniach szkół publicznych, do wysokości 1/5 przeciętnego wynagrodzenia w gospodarce narodowej w rozumieniu art. 27 ust. 3 ustawy, na każde dziecko, ” ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Kwota odliczeń z tytułu wydatków faktycznie poniesionych na cele określone w ust. 1 pkt 5 lit. g) nie może w każdym roku podatkowym przekroczyć 15% kwoty stanowiącej górną granicę pierwszego przedziału obowiązującej w tym roku skali podatkowej. Odliczenie może być dokonane, jeżeli suma tych wydatków wynosi co najmniej 2% kwoty stanowiącej górną granicę pierwszego przedziału obowiązującej w tym roku skali podatkowej. ” , ust. 6 otrzymuje brzmienie: „
@@ -276,13 +288,27 @@ source: "eli-html"
 
 5. Przez pojęcie powiązań rodzinnych, o których mowa w ust. 4, rozumie się małżeństwo oraz pokrewieństwo lub powinowactwo do drugiego stopnia. ” ;
 
-- **2)** w art. 12: w ust. 4: – w pkt 1 po wyrazach „z wyjątkiem” skreśla się wyraz „otrzymanych”, – pkt 3 otrzymuje brzmienie: „ 3) zwróconych udziałów lub wkładów w spółdzielni, umorzenia udziałów lub akcji w spółce, zwróconych dopłat wniesionych, zgodnie z odrębnymi przepisami, przez udziałowców (akcjonariuszy) spółek, wykupu przez emitenta papierów wartościowych oraz z tytułu umorzenia jednostek uczestnictwa w funduszach powierniczych – w części stanowiącej ich koszt nabycia, ” – w pkt 4 po wyrazach „funduszu założycielskiego” dodaje się wyrazy „albo funduszu organizacyjnego ubezpieczyciela”, – pkt 6 i 7 otrzymują brzmienie: „ 6) zwróconych lub umorzonych podatków i opłat oraz zwróconych innych wydatków nie stanowiących kosztu uzyskania przychodów, 7) odsetek otrzymanych w związku ze zwrotem nadpłaconych zobowiązań podatkowych i innych należności budżetowych, a także oprocentowania zwrotu różnicy podatku od towarów i usług, w rozumieniu odrębnych przepisów, ” – w pkt 10 kropkę zastępuje się przecinkiem i dodaje się pkt 11 w brzmieniu: „ 11) dopłat wnoszonych do spółki, jeżeli ich wniesienie następuje w trybie i na zasadach określonych w odrębnych przepisach, kwot stanowiących nadwyżkę nad kwotą nominalną otrzymaną za akcje przy ich wydaniu i przekazaną na kapitał zapasowy oraz w spółdzielniach – kwot wpisowego, przeznaczonych na fundusz zasobowy. ” , w ust. 6 w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „
+- **2)** w art. 12: w ust. 4: – w pkt 1 po wyrazach „z wyjątkiem” skreśla się wyraz „otrzymanych”, pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** zwróconych udziałów lub wkładów w spółdzielni, umorzenia udziałów lub akcji w spółce, zwróconych dopłat wniesionych, zgodnie z odrębnymi przepisami, przez udziałowców (akcjonariuszy) spółek, wykupu przez emitenta papierów wartościowych oraz z tytułu umorzenia jednostek uczestnictwa w funduszach powierniczych – w części stanowiącej ich koszt nabycia, ” – w pkt 4 po wyrazach „funduszu założycielskiego” dodaje się wyrazy „albo funduszu organizacyjnego ubezpieczyciela”, pkt 6 i 7 otrzymują brzmienie: „
+- **6)** zwróconych lub umorzonych podatków i opłat oraz zwróconych innych wydatków nie stanowiących kosztu uzyskania przychodów,
+- **7)** odsetek otrzymanych w związku ze zwrotem nadpłaconych zobowiązań podatkowych i innych należności budżetowych, a także oprocentowania zwrotu różnicy podatku od towarów i usług, w rozumieniu odrębnych przepisów, ” w pkt 10 kropkę zastępuje się przecinkiem i dodaje się pkt 11 w brzmieniu: „
+- **11)** dopłat wnoszonych do spółki, jeżeli ich wniesienie następuje w trybie i na zasadach określonych w odrębnych przepisach, kwot stanowiących nadwyżkę nad kwotą nominalną otrzymaną za akcje przy ich wydaniu i przekazaną na kapitał zapasowy oraz w spółdzielniach – kwot wpisowego, przeznaczonych na fundusz zasobowy. ” , w ust. 6 w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „
     - **b)**
 
 - **4)** w pozostałych przypadkach – według cen rynkowych stosowanych w danej miejscowości, w dacie otrzymania świadczenia. ” ;
-- **3)** w art. 16: w ust. 1: – w pkt 5 skreśla się wyrazy „spowodowanych zdarzeniami losowymi”, – w pkt 8 na końcu dodaje się wyrazy: „ i świadectw udziałowych narodowych funduszy inwestycyjnych; wydatki takie są jednak kosztem uzyskania przy ustalaniu dochodu ze sprzedaży tych udziałów, wkładów, akcji i innych papierów wartościowych, świadectw udziałowych narodowych funduszy inwestycyjnych oraz umorzenia jednostek uczestnictwa w funduszach powierniczych, ” – pkt 9 otrzymuje brzmienie: „ 9) odpisów i wpłat na różnego rodzaju fundusze tworzone przez podatnika; kosztem uzyskania są jednak podstawowe odpisy i wpłaty na te fundusze, jeżeli obowiązek lub możliwość ich tworzenia w ciężar kosztów określają odrębne ustawy, ” – w pkt 10 w lit. a) skreśla się wyraz „zapłaconych”, – w pkt 38 po wyrazie „(akcjonariuszy)” dodaje się wyrazy „i członków spółdzielni”, – pkt 42 otrzymuje brzmienie: „ 42) wydatków na remont, modernizację lub przebudowę środka trwałego, jeżeli ich kwota w roku podatkowym przekracza połowę wartości tego środka, stanowiącej podstawę dokonywania odpisów amortyzacyjnych, ” – pkt 46 otrzymuje brzmienie: „ 46) podatku od towarów i usług, z tym że jest kosztem uzyskania przychodów: a) podatek naliczony: – jeżeli podatnik zwolniony jest od podatku od towarów i usług lub nabył towary i usługi w celu wytworzenia albo odprzedaży towarów lub świadczenia usług zwolnionych od podatku od towarów i usług, – w tej części, w której zgodnie z przepisami o podatku od towarów i usług oraz o podatku akcyzowym podatnikowi nie przysługuje obniżenie kwoty lub zwrot różnicy podatku od towarów i usług – jeżeli naliczony podatek od towarów i usług nie powiększa wartości środka trwałego, b) podatek należny w przypadku: – importu usług, z wyłączeniem usług transportowych, – przekazania przez podatnika towarów i świadczenia usług na potrzeby reprezentacji i reklamy, ” – w pkt 48 po wyrazie „dochodowym” dodaje się wyrazy „albo zwróconym podatnikowi w jakiejkolwiek formie”, – pkt 51 otrzymuje brzmienie: „ 51) wydatków, z zastrzeżeniem pkt 30, z tytułu kosztów używania, dla potrzeb działalności gospodarczej, samochodów osobowych nie stanowiących składników majątku podatnika – w części przekraczającej kwotę wynikającą z pomnożenia liczby kilometrów faktycznego przebiegu pojazdu dla celów podatnika oraz stawki za jeden kilometr przebiegu, określonej w odrębnych przepisach obowiązujących w przedsiębiorstwach państwowych; podatnik jest obowiązany prowadzić, według obowiązującego wzoru, ewidencję przebiegu pojazdu, ” – w pkt 52 kropkę zastępuje się przecinkiem i dodaje się pkt 53 w brzmieniu: „ 53) dopłat, o których mowa w art. 12 ust. 4 pkt 11, oraz ich zwrotu. ” , dodaje się ust. 3 w brzmieniu: „
+- **3)** w art. 16: w ust. 1: – w pkt 5 skreśla się wyrazy „spowodowanych zdarzeniami losowymi”, – w pkt 8 na końcu dodaje się wyrazy: „ i świadectw udziałowych narodowych funduszy inwestycyjnych; wydatki takie są jednak kosztem uzyskania przy ustalaniu dochodu ze sprzedaży tych udziałów, wkładów, akcji i innych papierów wartościowych, świadectw udziałowych narodowych funduszy inwestycyjnych oraz umorzenia jednostek uczestnictwa w funduszach powierniczych, ” pkt 9 otrzymuje brzmienie: „
     - **a)**
+
+- **9)** odpisów i wpłat na różnego rodzaju fundusze tworzone przez podatnika; kosztem uzyskania są jednak podstawowe odpisy i wpłaty na te fundusze, jeżeli obowiązek lub możliwość ich tworzenia w ciężar kosztów określają odrębne ustawy, ” – w pkt 10 w lit. a) skreśla się wyraz „zapłaconych”, – w pkt 38 po wyrazie „(akcjonariuszy)” dodaje się wyrazy „i członków spółdzielni”, pkt 42 otrzymuje brzmienie: „
+- **42)** wydatków na remont, modernizację lub przebudowę środka trwałego, jeżeli ich kwota w roku podatkowym przekracza połowę wartości tego środka, stanowiącej podstawę dokonywania odpisów amortyzacyjnych, ” pkt 46 otrzymuje brzmienie: „
+- **46)** podatku od towarów i usług, z tym że jest kosztem uzyskania przychodów: podatek naliczony: – jeżeli podatnik zwolniony jest od podatku od towarów i usług lub nabył towary i usługi w celu wytworzenia albo odprzedaży towarów lub świadczenia usług zwolnionych od podatku od towarów i usług, – w tej części, w której zgodnie z przepisami o podatku od towarów i usług oraz o podatku akcyzowym podatnikowi nie przysługuje obniżenie kwoty lub zwrot różnicy podatku od towarów i usług – jeżeli naliczony podatek od towarów i usług nie powiększa wartości środka trwałego, podatek należny w przypadku: – importu usług, z wyłączeniem usług transportowych, – przekazania przez podatnika towarów i świadczenia usług na potrzeby reprezentacji i reklamy, ” – w pkt 48 po wyrazie „dochodowym” dodaje się wyrazy „albo zwróconym podatnikowi w jakiejkolwiek formie”, pkt 51 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **51)** wydatków, z zastrzeżeniem pkt 30, z tytułu kosztów używania, dla potrzeb działalności gospodarczej, samochodów osobowych nie stanowiących składników majątku podatnika – w części przekraczającej kwotę wynikającą z pomnożenia liczby kilometrów faktycznego przebiegu pojazdu dla celów podatnika oraz stawki za jeden kilometr przebiegu, określonej w odrębnych przepisach obowiązujących w przedsiębiorstwach państwowych; podatnik jest obowiązany prowadzić, według obowiązującego wzoru, ewidencję przebiegu pojazdu, ” w pkt 52 kropkę zastępuje się przecinkiem i dodaje się pkt 53 w brzmieniu: „
+- **53)** dopłat, o których mowa w art. 12 ust. 4 pkt 11, oraz ich zwrotu. ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. W jednostkach ubezpieczeniowych kosztem uzyskania przychodów są rezerwy techniczno-ubezpieczeniowe i rezerwy specjalne, utworzone zgodnie z odrębnymi przepisami – łącznie do wysokości stanowiącej różnicę między sumą bieżących i przyszłych zobowiązań wynikających z działalności ubezpieczeniowej a sumą funduszu rezerwowego. ” ;
@@ -392,7 +418,7 @@ po ust. 2 dodaje się ust. 2a w brzmieniu: „
 - **c)**
 - **2)** po rozdziale 4a dodaje się rozdział 4b w brzmieniu: „
 
-#### Rozdział 4b Przepisy karne
+#### Rozdział 4b
 
 **Art. 25e.** Kto wbrew obowiązkowi określonemu w art. 3 ust. 3 pkt 1 nie posiada rachunku bankowego, podlega karze grzywny w wysokości od 100 000 000 do 1 000 000 000 zł. Kto wbrew obowiązkowi określonemu w art. 3 ust. 3 pkt 1 z pominięciem rachunku bankowego realizuje należności lub zobowiązania, których wartość przekracza kwotę określoną w tym przepisie, podlega karze grzywny w wysokości od 100 000 000 zł do 1 000 000 000 zł. Kto wbrew obowiązkom określonym w art. 3 ust. 3 pkt 2–4 nie dokonuje zawiadomień określonych w tych przepisach albo wbrew obowiązkowi określonemu w art. 3 ust. 3b nie dokonuje zgłoszenia, o którym mowa w tym przepisie, lub dokonuje go z opóźnieniem, podlega karze grzywny w wysokości od 25 000 000 zł do 250 000 000 zł. Karom, o których mowa w art. 25e-25g, podlega również ten, kto dopuszcza się czynów określonych w tych przepisach, działając za osobę prawną albo jednostkę nie mającą osobowości prawnej. ” ;
 
@@ -414,7 +440,7 @@ po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 2. Minister Finansów, w drodze zarządzenia, określi rodzaje, zasady, wysokość i tryb przyznawania dodatku, o którym mowa w ust. 1. ”
 
-#### Rozdział 2 Przepisy przejściowe i końcowe
+#### Rozdział 2
 
 **Art. 8.** W ustawie, o której mowa w art. 1, na 1994 r. wprowadza się następujące zmiany:
 

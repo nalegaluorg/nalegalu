@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 26 lipca 2018 r. w sprawie sprawozdania podstawowego organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi oraz sprawozdania z wykorzystania potrąceń na prowadzoną przez te organizacje działalność o charakterze socjalnym, kulturalnym lub edukacyjnym
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 26 lipca 2018 r. w sprawie sprawozdania podstawowego organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi oraz sprawozdania z wykorzystania potrąceń na prowadzoną przez te organizacje działalność o charakterze socjalnym, kulturalnym lub edukacyjnym Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-26 |
 | Data wydania | 2018-07-27 |
-| Wejście w życie | 2018-07-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1451/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 92 ustawy z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. poz. 1293) zarządza się, co następuje:
+Niniejsze rozporządzenie wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/26/UE z dnia 26 lutego 2014 r. w sprawie zbiorowego zarządzania prawami autorskimi i prawami pokrewnymi oraz udzielania licencji wieloterytorialnych dotyczących praw do utworów muzycznych do korzystania online na rynku wewnętrznym (Dz. Urz. UE L 84 z 20.03.2014, str. 72). Na podstawie art. 92 ustawy z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. poz. 1293) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy zakres sprawozdania podstawowego organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi oraz sprawozdania z wykorzystania potrąceń na prowadzoną przez te organizacje działalność o charakterze socjalnym, kulturalnym lub edukacyjnym, o których mowa w art. 91 ust. 2 pkt 1 i 3 ustawy z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi, zwanej dalej „ustawą”.
 § 2.
@@ -187,8 +186,7 @@ kopię regulaminu, o którym mowa w art. 19 pkt 7 ustawy.
 § 12.
 Sprawozdania, o których mowa w § 1, mogą zawierać, odpowiednio w formie załącznika do danego rozdziału lub załącznika do całego sprawozdania, także dodatkowe informacje i dokumenty, które w ocenie danej organizacji zbiorowego zarządzania mogą okazać się przydatne dla ukazania rzeczywistego obrazu działalności w danym obszarze.
 § 13.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/26/UE z dnia 26 lutego 2014 r. w sprawie zbiorowego zarządzania prawami autorskimi i prawami pokrewnymi oraz udzielania licencji wieloterytorialnych dotyczących praw do utworów muzycznych do korzystania online na rynku wewnętrznym (Dz. Urz. UE L 84 z 20.03.2014, str. 72).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/26/UE z dnia 26 lutego 2014 r. w sprawie zbiorowego zarządzania prawami autorskimi i prawami pokrewnymi oraz udzielania licencji wieloterytorialnych dotyczących praw do utworów muzycznych do korzystania online na rynku wewnętrznym (Dz. Urz. UE L 84 z 20.03.2014, str. 72).
 
 #### Rozdział 1 sprawozdania podstawowego zawiera zwięzłe omówienie działalności organizacji zbiorowego zarządzania w roku sprawozdawczym.
 

@@ -40,14 +40,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 maja 2008 r. w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 103, poz. 659), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 9 marca 2012 r. zmieniającym rozporządzenie w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 311).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 marca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 311), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 marca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 311), które stanowią: „
 § 2.
 Lokalne grupy działania dostosują lokalne strategie rozwoju do przepisów rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 5 miesięcy od dnia wejścia w życie niniejszego rozporządzenia, z tym że określając harmonogram przewidywanych terminów podawania do publicznej wiadomości informacji o możliwości składania wniosków o przyznanie pomocy w ramach działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, z podziałem na półrocza, wskazuje się jedynie te terminy, które przypadają nie wcześniej niż w dniu wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 maja 2008 r. w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 maja 2008 r. w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486).
 Na podstawie art. 29 ust. 1 pkt 2 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe kryteria i sposób wyboru lokalnej grupy działania, zwanej dalej „LGD”, do realizacji opracowanej przez nią lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanego dalej „Programem”, w tym szczegółowe wymagania, jakim powinna odpowiadać umowa, o której mowa w art. 14 ust. 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, zwanej dalej „ustawą”.
@@ -84,22 +82,21 @@ a)
 działanie, o którym mowa w art. 5 ust. 1 pkt 21 ustawy, wynosi nie więcej niż iloczyn liczby mieszkańców zameldowanych na pobyt stały, na obszarze objętym LSR, według stanu na dzień 31 grudnia 2006 r. i kwoty 116 zł, z tym że na każdy z rodzajów operacji wymienionych w art. 12 ust. 1 pkt 1 ustawy jest zaplanowane nie mniej niż 10% tych środków,
 b)
 działanie, o którym mowa w art. 5 ust. 1 pkt 22 ustawy, wynosi nie więcej niż iloczyn liczby mieszkańców zameldowanych na pobyt stały, na obszarze objętym LSR, według stanu na dzień 31 grudnia 2006 r. i kwoty 3 zł,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 marca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 311), które weszło w życie z dniem 10 kwietnia 2012 r.)
 działanie, o którym mowa w art. 5 ust. 1 pkt 23 ustawy, wynosi nie więcej niż iloczyn liczby mieszkańców zameldowanych na pobyt stały, na obszarze objętym LSR, według stanu na dzień 31 grudnia 2006 r. i kwoty 29 zł, z tym że na koszty bieżące (administracyjne) LGD określone w przepisach dotyczących funkcjonowania lokalnej grupy działania, nabywania umiejętności i aktywizacji, wydanych na podstawie art. 29 ust. 1 pkt 1 ustawy, przeznacza się nie więcej niż 15% sumy środków przewidzianych na działania, o których mowa w art. 5 ust. 1 pkt 21–23 ustawy;
 6)
 uzyskała co najmniej:
 a)
 60% maksymalnej liczby punktów w ramach oceny LGD,
 b)
-50% maksymalnej liczby punktów w ramach oceny LSR
-dokonanej na podstawie kryteriów oceny LGD i LSR, określonych w załączniku nr 2 do rozporządzenia, chyba że LGD uzyskała mniej niż 50% punktów na podstawie kryteriów oceny LGD określonych w załączniku nr 2 do rozporządzenia w ust. 1 pkt 6 lub 7 lub nie uzyskała żadnych punktów na podstawie kryteriów oceny LGD określonych w załączniku nr 2 do rozporządzenia w ust. 1 pkt 4 lit. b;
+50% maksymalnej liczby punktów w ramach oceny LSR – dokonanej na podstawie kryteriów oceny LGD i LSR, określonych w załączniku nr 2 do rozporządzenia, chyba że LGD uzyskała mniej niż 50% punktów na podstawie kryteriów oceny LGD określonych w załączniku nr 2 do rozporządzenia w ust. 1 pkt 6 lub 7 lub nie uzyskała żadnych punktów na podstawie kryteriów oceny LGD określonych w załączniku nr 2 do rozporządzenia w ust. 1 pkt 4 lit. b;
 7)
 spełnia inne warunki niezbędne do ubiegania się o wybór do realizacji LSR, określone w Programie.
 2.
 Liczbę mieszkańców zameldowanych na pobyt stały według stanu na dzień 31 grudnia 2006 r. ustala się na podstawie wynikowych informacji statystycznych, ogłaszanych, udostępnianych lub rozpowszechnianych zgodnie z przepisami w sprawie trybu i form ogłaszania, udostępniania i rozpowszechniania wynikowych informacji statystycznych.
 3.
 Wyboru LGD do realizacji LSR dokonuje się według liczby uzyskanych punktów w ramach ocen, o których mowa w ust. 1 pkt 6, do wyczerpania dostępnych środków przeznaczonych na realizację LSR.
-§ 2a.
+§ 2aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 LGD, która zawarła z samorządem województwa umowę, o której mowa w art. 14 ust. 3 ustawy, zwaną dalej „umową”, może być wybrana do realizacji LSR w zakresie dodatkowych zadań, jeżeli:
 1)
@@ -141,9 +138,9 @@ Jeżeli ustalenie kolejności wyboru LGD do realizacji LSR w zakresie dodatkowyc
 6.
 LGD, która na realizację LSR w zakresie dodatkowych zadań przewidziała środki w wysokości wyższej niż wysokość maksymalnych kwot określonych w ust. 1 pkt 3 dla takiej LGD, może być wybrana do realizacji LSR w zakresie dodatkowych zadań, jeżeli odpowiednio zmniejszy wysokość tych środków, o czym właściwy organ samorządu województwa informuje LGD w formie pisemnej, podając termin dokonania tych zmian nie dłuższy niż 7 dni od dnia doręczenia tej informacji.
 § 3.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Właściwy organ samorządu województwa, po przeprowadzeniu co najmniej jednej ogólnodostępnej konferencji na temat podejścia Leader, ogłasza konkurs na wybór LGD do realizacji LSR, po uzgodnieniu terminu składania wniosków o wybór LGD do realizacji LSR, zwanych dalej „wnioskami”, z instytucją zarządzającą. Nie przeprowadza się konferencji na temat podejścia Leader w przypadku konkursu na wybór LGD do realizacji LSR w zakresie dodatkowych zadań.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Konkurs na wybór LGD do realizacji LSR ogłasza się nie częściej niż dwukrotnie w okresie wdrażania Programu, przy czym drugi konkurs może być ogłoszony wyłącznie w celu dokonania wyboru LGD do realizacji LSR w zakresie dodatkowych zadań.
 3.
 Ogłoszenie o konkursie na wybór LGD do realizacji LSR zawiera w szczególności wskazanie:
@@ -153,9 +150,9 @@ terminu składania wniosków – nie krótszego niż 14 dni i nie dłuższego ni
 miejsca składania wniosków;
 3)
 trybu składania wniosków;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 wysokości dostępnych środków przeznaczonych na realizację LSR, przy czym w przypadku drugiego konkursu wskazuje się przewidywaną wysokość tych środków.
-3a.
+3aDodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Ostateczny limit dostępnych środków na realizację LSR w zakresie dodatkowych zadań ogłasza właściwy organ samorządu województwa w terminie 14 dni od dnia rozpoczęcia terminu składania wniosków w ramach drugiego konkursu.
 4.
 Ogłoszenie o konkursie na wybór LGD do realizacji LSR umieszcza się na tablicy ogłoszeń w urzędzie marszałkowskim i zamieszcza na stronie internetowej urzędu marszałkowskiego oraz w prasie o zasięgu regionalnym lub ogólnokrajowym, na co najmniej 30 dni przed dniem rozpoczęcia terminu składania wniosków.
@@ -164,7 +161,7 @@ Załatwianie spraw związanych z wyborem LGD do realizacji LSR, w tym czynności
 6.
 W przypadku udzielenia upoważnienia, o którym mowa w ust. 5, samorządowej jednostce, właściwy organ samorządu województwa podaje informację o udzieleniu takiego upoważnienia na stronie internetowej urzędu marszałkowskiego.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek składa się bezpośrednio w urzędzie marszałkowskim albo samorządowej jednostce samorządu województwa, na obszarze którego znajduje się siedziba LGD, w terminie określonym w ogłoszeniu o konkursie na wybór LGD do realizacji LSR, a w przypadku ubiegania się o wybór w drugim konkursie – w urzędzie marszałkowskim albo samorządowej jednostce samorządu województwa, z którym LGD zawarła umowę.
 2.
 Złożenie wniosku potwierdza się na jego kopii. Potwierdzenie zawiera datę złożenia wniosku oraz jest opatrzone pieczęcią urzędu marszałkowskiego albo samorządowej jednostki i podpisane przez osobę przyjmującą wniosek.
@@ -179,13 +176,13 @@ nazwę i adres LGD;
 numer LGD w Krajowym Rejestrze Sądowym;
 4)
 wskazanie obszaru objętego LSR;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 wskazanie liczby mieszkańców zameldowanych na pobyt stały, na obszarze objętym LSR, według stanu na dzień 31 grudnia 2006 r., chyba że LGD ubiega się o wybór w drugim konkursie;
 6)
 oświadczenia i zobowiązania LGD związane z wyborem do realizacji LSR;
 7)
 informacje o dołączanych do wniosku załącznikach.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Do wniosku dołącza się LSR w formie papierowej i jako dokument elektroniczny w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne oraz inne dokumenty niezbędne do dokonania wyboru LGD do realizacji opracowanej przez nią LSR, a w przypadku ubiegania się o wybór w drugim konkursie do wniosku dołącza się projekt zmiany LSR w formie papierowej oraz inne dokumenty niezbędne do dokonania wyboru LGD do realizacji LSR w zakresie dodatkowych zadań.
 3.
 LGD informuje właściwy organ samorządu województwa, w formie pisemnej, o wszelkich zmianach w zakresie danych objętych wnioskiem, niezwłocznie po ich zaistnieniu.
@@ -201,18 +198,16 @@ Właściwy organ samorządu województwa zamieszcza na stronie internetowej urz�
 1)
 listę LGD, które złożyły wnioski wraz z LSR, oraz
 2)
-LSR, o których mowa w pkt 1
-w terminie 14 dni od dnia, w którym upłynął termin składania wniosków.
-§ 7a.
+LSR, o których mowa w pkt 1 – w terminie 14 dni od dnia, w którym upłynął termin składania wniosków.
+§ 7aDodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Do wniosków złożonych w drugim konkursie nie stosuje się § 7.
 § 8.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli wniosek nie został złożony w terminie lub nie zawiera nazwy LGD lub jej adresu i nie można ustalić tego adresu na podstawie posiadanych danych, lub nie zostały do niego dołączone:
 1)
 LSR – w przypadku wniosku złożonego w pierwszym konkursie,
 2)
-projekt zmiany LSR – w przypadku wniosku złożonego w drugim konkursie
-właściwy organ samorządu województwa pozostawia wniosek bez rozpatrzenia.
+projekt zmiany LSR – w przypadku wniosku złożonego w drugim konkursie – właściwy organ samorządu województwa pozostawia wniosek bez rozpatrzenia.
 2.
 Jeżeli wniosek zawiera inne, niż określone w ust. 1, nieprawidłowości lub braki, właściwy organ samorządu województwa wzywa LGD, w formie pisemnej, do ich usunięcia w terminie 14 dni od dnia doręczenia wezwania, chyba że zachodzą przesłanki wskazujące na niespełnianie któregokolwiek z warunków określonych w § 2 ust. 1 pkt 1–3 i 7.
 3.
@@ -221,11 +216,11 @@ Jeżeli LGD, pomimo wezwania do usunięcia nieprawidłowości lub braków:
 nie usunęła w terminie żadnych nieprawidłowości lub braków, właściwy organ samorządu województwa pozostawia wniosek bez rozpatrzenia;
 2)
 usunęła w terminie nie wszystkie nieprawidłowości lub braki, właściwy organ samorządu województwa wzywa LGD, w formie pisemnej, do usunięcia pozostałych nieprawidłowości lub braków w terminie 14 dni od dnia doręczenia wezwania, chyba że zachodzą przesłanki wskazujące na niespełnianie któregokolwiek z warunków określonych w § 2 ust. 1 pkt 1–3 i 7.
-3a.
+3aDodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Do rozpatrywania wniosków złożonych w drugim konkursie nie stosuje się ust. 3.
 4.
 Jeżeli LGD, pomimo wezwania do usunięcia pozostałych nieprawidłowości lub braków, nie usunęła ich w terminie, właściwy organ samorządu województwa pozostawia wniosek bez rozpatrzenia.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Właściwy organ samorządu województwa, pozostawiając wniosek bez rozpatrzenia, nie przeprowadza w stosunku do danej LGD dalszego postępowania mającego na celu sprawdzenie, czy ta LGD spełnia warunki, o których mowa w § 2 ust. 1 albo § 2a ust. 1.
 6.
 Właściwy organ samorządu województwa, w trakcie rozpatrywania wniosku, może wezwać LGD, w formie pisemnej, do wyjaśnienia faktów istotnych dla rozstrzygnięcia sprawy lub przedstawienia dowodów na potwierdzenie tych faktów, w terminie 14 dni od dnia doręczenia wezwania.
@@ -236,12 +231,12 @@ Wyboru LGD do realizacji LSR dokonuje właściwy organ samorządu województwa, 
 Wezwanie LGD do wykonania określonych czynności w toku postępowania w sprawie wyboru LGD do realizacji LSR wstrzymuje bieg terminu rozpatrywania wniosku do czasu wykonania przez LGD tych czynności.
 § 10.
 Po dokonaniu wyboru LGD do realizacji LSR właściwy organ samorządu województwa niezwłocznie zamieszcza na stronie internetowej urzędu marszałkowskiego albo samorządowej jednostki listę wszystkich LGD, w kolejności uzyskania od najwyższej do najniższej liczby punktów w ramach ocen, o których mowa w § 2 ust. 1 pkt 6, wraz z podaniem liczby uzyskanych punktów oraz wskazaniem, które z LGD zostały wybrane do realizacji LSR.
-§ 10a.
+§ 10aDodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Właściwe organy wszystkich samorządów województw wspólnie opracują listę wszystkich LGD, w kolejności uzyskania od najwyższej do najniższej liczby punktów w ramach oceny, o której mowa w § 2a ust. 1 pkt 1, zawierającą liczbę uzyskanych punktów oraz wskazanie, które z LGD zostały wybrane do realizacji LSR w zakresie dodatkowych zadań.
 2.
 Listę, o której mowa w ust. 1, właściwe organy wszystkich samorządów województw niezwłocznie zamieszczają na stronach internetowych urzędów marszałkowskich albo samorządowych jednostek.
-§ 11.
+§ 11W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Właściwy organ samorządu województwa informuje LGD, w formie pisemnej, o wyniku ocen, o których mowa w § 2 ust. 1 pkt 6 albo § 2a ust. 1 pkt 1, wraz z uzasadnieniem, oraz o wyniku wyboru LGD do realizacji LSR, w terminie 7 dni od dnia dokonania tego wyboru.
 2.
@@ -265,7 +260,7 @@ niezwłocznie zamieszcza na stronie internetowej urzędu marszałkowskiego albo 
 informuje LGD o wyniku ocen, o których mowa w ust. 2, oraz o wyniku wyboru LGD do realizacji LSR.
 5.
 Do informowania LGD o wyniku ocen, o których mowa w ust. 2, oraz o wyniku wyboru LGD do realizacji LSR stosuje się odpowiednio przepisy § 11.
-§ 12a.
+§ 12aDodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2..
 Do rozpatrywania wniosków złożonych w drugim konkursie nie stosuje się przepisów § 12.
 § 13.
 1.
@@ -296,15 +291,14 @@ g)
 przechowywania dokumentów, o których mowa w § 6 ust. 3, do końca 2020 r.,
 h)
 informowania właściwego organu samorządu województwa o okolicznościach mogących mieć wpływ na wykonanie umowy,
-i)
+iDodana przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2.)
 opracowania formularza ankiety na potrzeby monitorowania LSR udostępnianego beneficjentom działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy.
 3.
 LSR stanowi załącznik do umowy.
 4.
 Umowa jest nieważna w przypadkach określonych w Kodeksie cywilnym lub w przypadkach gdy sprzeciwia się przepisom rozporządzenia nr 1698/2005 lub przepisom Unii Europejskiej wydanym w trybie tego rozporządzenia.
 § 14.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 marca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 311), które weszło w życie z dniem 10 kwietnia 2012 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 2. 14) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 16) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 17) Dodana przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 18) Rozporządzenie zostało ogłoszone w dniu 16 czerwca 2008 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 16 czerwca 2008 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 marca 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 311), które weszło w życie z dniem 10 kwietnia 2012 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 2. 14) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 16) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 17) Dodana przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 18) Rozporządzenie zostało ogłoszone w dniu 16 czerwca 2008 r.
 
 ## Załącznik nr 1 — – Zakres lokalnej strategii rozwoju
 
@@ -336,7 +330,7 @@ ocena społeczno-gospodarcza obszaru, w tym potencjału demograficznego i gospod
 specyfika obszaru.
 3.
 Analiza SWOT dla obszaru objętego LSR; wnioski wynikające z przeprowadzonej analizy.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Określenie celów ogólnych i szczegółowych LSR, wskazanie planowanych przedsięwzięć oraz przedstawienie wskaźników (produktu, rezultatu i oddziaływania) realizacji celów LSR oraz przedsięwzięć.
 5.
 Określenie misji LGD.
@@ -350,13 +344,13 @@ Uzasadnienie podejścia innowacyjnego dla przedsięwzięć planowanych w ramach 
 Określenie procedury oceny zgodności operacji z LSR, procedury wyboru operacji przez LGD, procedury odwołania od rozstrzygnięć organu decyzyjnego w sprawie wyboru operacji w ramach działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, kryteriów, na podstawie których jest oceniana zgodność operacji z LSR, oraz kryteriów wyboru operacji, a także procedury zmiany tych kryteriów.
 10.
 Określenie budżetu LSR dla każdego roku jej realizacji.
-10a.
+10aDodany przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Określenie harmonogramu przewidywanych terminów podawania do publicznej wiadomości informacji o możliwości składania wniosków o przyznanie pomocy w ramach działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy, z podziałem na półrocza.
 11.
 Opis procesu przygotowania i konsultowania LSR.
 12.
 Opis procesu wdrażania i aktualizacji LSR.
-13.
+13W brzmieniu ustalonym przez § 1 pkt 12 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Zasady i sposób dokonywania oceny (ewaluacji) własnej, w szczególności sporządzania rocznych sprawozdań z realizacji LSR.
 14.
 Określenie powiązań LSR z innymi dokumentami planistycznymi związanymi z obszarem objętym LSR.
@@ -365,7 +359,7 @@ Wskazanie planowanych działań, przedsięwzięć lub operacji realizowanych prz
 16.
 Przewidywany wpływ realizacji LSR na rozwój regionu i obszarów wiejskich.
 17.
-Informacja o dołączanych do LSR załącznikach.
+Informacja o dołączanych do LSR załącznikach. 19) W brzmieniu ustalonym przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 2. 20) Dodany przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 2. 21) W brzmieniu ustalonym przez § 1 pkt 12 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 
 ## Załącznik nr 2 — – Kryteria oceny lokalnej grupy działania i lokalnej strategii rozwoju
 
@@ -587,7 +581,7 @@ wskazanie obowiązków i zadań wykonywanych przez pracowników LGD na rzecz pos
 c)
 wskazanie obowiązków i zadań wykonywanych przez pracowników LGD na rzecz poszczególnych programów współfinansowanych ze środków pochodzących z budżetu Unii Europejskiej oraz czasu pracy przeznaczonego na wykonywanie tych obowiązków i zadań, a także prowadzenie odrębnych rachunków bankowych dla każdego z tych programów oraz wyznaczenie osoby bezpośrednio odpowiedzialnej za realizację operacji z zakresu działania wymienionego w art. 5 ust. 1 pkt 22 i 23 ustawy – 2 pkt.
 
-## Załącznik nr 3 — – Kryteria oceny efektywności LGD oraz realizacji LSR
+## Załącznik nr 3 — – Kryteria oceny efektywności LGD oraz realizacji LSRDodany przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2.
 
 1)
 wysokość kwoty stanowiącej sumę wnioskowanych kwot pomocy finansowej w ramach działania, o którym mowa w art. 5 ust. 1 pkt 21 ustawy, ustalonych na podstawie wniosków o przyznanie tej pomocy obejmujących operacje wybrane przez LGD, które mieszczą się w ramach limitu dostępnych środków wskazanych w informacji o możliwości składania wniosków o przyznanie tej pomocy, w stosunku do wysokości kwoty określonej w budżecie LSR na to działanie wynosi:
@@ -684,9 +678,9 @@ LGD przyznano pomoc finansową na operację polegającą na przygotowaniu lub re
 15)
 LGD przyznano pomoc finansową na operację polegającą na realizacji co najmniej jednego projektu współpracy z udziałem więcej niż 2 partnerów, o których mowa w § 6 ust. 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 25 czerwca 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Wdrażanie projektów współpracy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 128, poz. 822 oraz z 2011 r. Nr 64, poz. 336 i Nr 261, poz. 1562) – 2 pkt;
 16)
-LGD współdziałała z innymi LGD w ramach organizacji zrzeszającej LGD – 5 pkt.
+LGD współdziałała z innymi LGD w ramach organizacji zrzeszającej LGD – 5 pkt. 22) Dodany przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2.
 
-## Załącznik nr 4 — – Kryteria oceny LSR w zakresie dodatkowych zadań
+## Załącznik nr 4 — – Kryteria oceny LSR w zakresie dodatkowych zadańDodany przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2.
 
 1)
 wskaźniki produktu i rezultatu dla nowych przedsięwzięć lub rozszerzonego zakresu przedsięwzięć określonych w LSR, lub nowych celów szczegółowych, lub rozszerzonego zakresu celów szczegółowych określonych w LSR, zawarte w projekcie zmiany LSR, zostały określone w czasie i są możliwe do zrealizowania w okresie realizacji LSR – 1 pkt;
@@ -715,5 +709,5 @@ każdego rodzaju operacji, o których mowa w art. 12 ust. 1 pkt 1 ustawy, a LGD 
 7)
 w wyniku realizacji nowych przedsięwzięć lub rozszerzonego zakresu przedsięwzięć określonych w LSR przewiduje się utworzenie miejsc pracy, przy czym w ramach operacji, o których mowa w art. 12 ust. 1 pkt 1 ustawy, na które została przyznana pomoc finansowa, zostało utworzone co najmniej 5 miejsc pracy – 5 pkt;
 8)
-realizacja nowych przedsięwzięć lub rozszerzonego zakresu przedsięwzięć określonych w LSR ma wpływ na co najmniej jedną z następujących grup docelowych: kobiety, osoby poniżej 26. roku życia, osoby powyżej 50. roku życia lub organizacje pozarządowe, a ten wpływ został uzasadniony – 5 pkt.
+realizacja nowych przedsięwzięć lub rozszerzonego zakresu przedsięwzięć określonych w LSR ma wpływ na co najmniej jedną z następujących grup docelowych: kobiety, osoby poniżej 26. roku życia, osoby powyżej 50. roku życia lub organizacje pozarządowe, a ten wpływ został uzasadniony – 5 pkt. 22) Dodany przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2.
 

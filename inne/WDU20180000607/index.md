@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 12 marca 2018 r. w sprawie szczegółowych warunków i sposobu uznawania przepisów technicznych w zakresie budowy statków i stałych platform wiertniczych, wydanych przez uznane organizacje, za spełniające wymagania bezpieczeństwa
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 12 marca 2018 r. w sprawie szczegółowych warunków i sposobu uznawania przepisów technicznych w zakresie budowy statków i stałych platform wiertniczych, wydanych przez uznane organizacje, za spełniające wymagania bezpieczeństwa Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-12 |
 | Data wydania | 2018-03-23 |
-| Wejście w życie | 2018-04-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/607/text.pdf) |
 
@@ -50,6 +49,5 @@ Wniosek, o którym mowa w § 1, organizacja składa do ministra właściwego do 
 2.
 Zapewnienie dostępu do dokumentacji, o której mowa w ust. 1, prowadzonej w postaci elektronicznej uznaje się za równoważne ze złożeniem jej wraz z wnioskiem, o którym mowa w § 1.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 

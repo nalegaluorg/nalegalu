@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 1 marca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu policjanta oraz określenia członków jego rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 234), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2016 r. zmieniającym rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu policjanta oraz określenia członków jego rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1717).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2016 r. zmieniającego rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu policjanta oraz określenia członków jego rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1717), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2016 r. zmieniającego rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu policjanta oraz określenia członków jego rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1717), które stanowią: „
 § 2.
 Do wydatków pokrywanych w ramach kosztów pogrzebu policjanta organizowanego przez jednostkę Policji, powstałych przed dniem wejścia w życie niniejszego rozporządzenia, które nie zostały pokryte przez jednostkę Policji, mają zastosowanie przepisy tego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 marca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu policjanta oraz określenia członków jego rodziny, na których przysługuje zasiłek pogrzebowy
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 marca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu policjanta oraz określenia członków jego rodziny, na których przysługuje zasiłek pogrzebowyMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 Na podstawie art. 120 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067 i 2405 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
 § 1.
 Użyte w rozporządzeniu określenia oznaczają:
@@ -49,7 +47,7 @@ jednostka Policji – jednostkę organizacyjną Policji, w której policjant pe�
 § 2.
 Koszty pogrzebu policjanta obejmują wszelkie wydatki związane z organizacją pogrzebu iprzeprowadzeniem pochówku zmarłego, łącznie zwybudowaniem nagrobka wmiejscowości wskazanej przez rodzinę, a jeżeli zmarły nie pozostawił rodziny, w miejscowości, wktórej zmarł, pełnił służbę lub zamieszkiwał.
 § 3.
-1.
+1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2016 r. zmieniającego rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu policjanta oraz określenia członków jego rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1717), które weszło w życie z dniem 2 listopada 2016 r..
 Wysokość wydatków pokrywanych w ramach kosztów pogrzebu policjanta, organizowanego przez jednostkę Policji, nie może przekraczać kwoty stanowiącej 6-krotność przeciętnego uposażenia policjantów, o którym mowa w art. 99 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji, bez 1/12 równowartości nagrody rocznej, obowiązującego w dniu pogrzebu.
 2.
 Ograniczenie wysokości wydatków pogrzebowych, o którym mowa w ust. 1, nie obejmuje ponoszonych odrębnie kosztów:
@@ -105,6 +103,5 @@ oryginał dokumentu stwierdzającego wysokość niższego zasiłku pogrzebowego 
 3.
 Jako dowód poniesionych przez policjanta kosztów pogrzebu członka rodziny uznaje się również wystawione na inną osobę oryginały rachunków, o których mowa w ust. 1 pkt 1 lit. b, a w przypadku ubiegania się o wyrównanie zasiłku – oryginał dokumentu stwierdzającego wysokość zasiłku pogrzebowego przyznanego innej osobie na podstawie przepisów, o których mowa w § 5 ust. 2, jeżeli osoba ta złoży na piśmie uwierzytelnione oświadczenie, że koszty pogrzebu zostały pokryte ze środków finansowych policjanta bądź przez niego zwrócone. Oświadczenie nie jest wymagane, jeżeli rachunki lub dokumenty zostały wystawione na małżonka policjanta.
 § 8.
-Rozporządzenie wchodzi wżycie poupływie 14 dni oddnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2016 r. zmieniającego rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu policjanta oraz określenia członków jego rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1717), które weszło w życie z dniem 2 listopada 2016 r. 3) Rozporządzenie zostało ogłoszone w dniu 16 marca 2002 r.
+Rozporządzenie wchodzi wżycie poupływie 14 dni oddnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 16 marca 2002 r.. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2016 r. zmieniającego rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu policjanta oraz określenia członków jego rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. poz. 1717), które weszło w życie z dniem 2 listopada 2016 r. 3) Rozporządzenie zostało ogłoszone w dniu 16 marca 2002 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansówz dnia 6 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach
+# Obwieszczenie Ministra Finansówz dnia 6 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach Minister Finansów kieruje działami administracji rządowej – budżet, finanse publiczne i instytucje finansowe, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000436) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/436/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach Rozdział 1 – Przepisy ogólne Rozdział 2 – Rachunki bankowe prowadzone dla obsługi budżetu państwa w zakresie krajowych środków finansowych i zasady ich obsługi Rozdział 3 – Zakres informacji w ramach obsługi bankowej budżetu państwa o stanie środków na rachunkach bankowych Rozdział 4 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach
 Załącznik – Tekst załącznika
 Treść obwieszczenia
 1.
@@ -38,20 +38,16 @@ rozporządzeniem Ministra Finansów z dnia 22 listopada 2023 r. zmieniającym ro
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Finansów z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. poz. 2857), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. poz. 2857), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Finansów z dnia 22 listopada 2023 r. zmieniającego rozporządzenie w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. poz. 2609), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów z dnia 22 listopada 2023 r. zmieniającego rozporządzenie w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. poz. 2609), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.
-” .
-1) Minister Finansów kieruje działami administracji rządowej – budżet, finanse publiczne i instytucje finansowe, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. ” . 1) Minister Finansów kieruje działami administracji rządowej – budżet, finanse publiczne i instytucje finansowe, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 Załącznik – Rozporządzenie Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach
-Na podstawie art. 199 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 199 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -72,7 +68,7 @@ dysponentach środków budżetu państwa – należy przez to rozumieć dysponen
 rachunkach państwowych jednostek budżetowych – należy przez to rozumieć odpowiednio rachunki bieżące dochodów i wydatków oraz rachunki pomocnicze dysponentów środków budżetu państwa w zakresie krajowych środków finansowych;
 5)
 państwowych jednostkach budżetowych – należy przez to rozumieć państwowe jednostki budżetowe, o których mowa w art. 11 ust. 1 ustawy o finansach publicznych, oraz inne jednostki organizacyjne, których kierownicy są dysponentami środków budżetu państwa;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. poz. 2857), które weszło w życie z dniem 1 stycznia 2023 r.)
 wydatkach niewygasających – należy przez to rozumieć wydatki, które nie wygasają z upływem roku budżetowego, ustalone przez Radę Ministrów w przepisach wykonawczych wydanych na podstawie ustawy;
 7)
 sumach na zlecenie – rozumie się przez to środki w zakresie krajowych środków finansowych, służące do finansowania zadań, w tym inwestycji, realizowanych wspólnie lub zleconych do wykonania państwowej jednostce budżetowej przez inne jednostki organizacyjne, ze środków zleceniodawcy;
@@ -80,6 +76,7 @@ sumach na zlecenie – rozumie się przez to środki w zakresie krajowych środk
 rachunkach VAT – rozumie się przez to prowadzone dla rachunków bieżących i pomocniczych państwowych jednostek budżetowych oraz dla rachunków bieżących państwowych funduszy celowych rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488);
 9)
 instrumencie płatniczym – rozumie się przez to instrument płatniczy, o którym mowa w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30).
+Rachunki bankowe prowadzone dla obsługi budżetu państwa w zakresie krajowych środków finansowych i zasady ich obsługi
 § 3.
 1.
 Dla obsługi budżetu państwa w zakresie krajowych środków finansowych są prowadzone następujące rachunki bankowe:
@@ -88,7 +85,7 @@ centralny rachunek bieżący budżetu państwa obejmujący rachunki bankowe:
 a)
 dochodów budżetu państwa z tytułu:
 – podatków: dochodowego od osób prawnych, dochodowego od osób fizycznych, od towarów i usług oraz innych podatkowych i niepodatkowych dochodów budżetu państwa,
-–  podatku akcyzowego,
+– Ze zmianami wprowadzonymi przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2, oraz przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 22 listopada 2023 r. zmieniającego rozporządzenie w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. poz. 2609), które weszło w życie z dniem 1 stycznia 2024 r. podatku akcyzowego,
 – dochodów pobranych przez państwowe jednostki budżetowe,
 – wpływów niewykorzystanych w terminie określonym przez Radę Ministrów środków na wydatki niewygasające,
 – wpływów środków pochodzących z budżetu Unii Europejskiej (z wyłączeniem środków budżetu środków europejskich),
@@ -105,7 +102,7 @@ rachunki bieżące państwowych jednostek budżetowych, z wyodrębnieniem rachun
 rachunki bieżące urzędów obsługujących organy podatkowe, dla gromadzenia dochodów budżetu państwa, z wyodrębnieniem rachunków dla:
 a)
 wpływów z tytułu podatków: dochodowego od osób prawnych, dochodowego od osób fizycznych, od towarów i usług oraz innych podatkowych i niepodatkowych dochodów budżetu państwa,
-b)
+bZe zmianami wprowadzonymi przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2, oraz przez § 1 pkt 2 rozporządzenia wymienionego jako drugie w odnośniku 3.)
 wpływów z tytułu podatku akcyzowego,
 c)
 pozostałych dochodów;
@@ -122,8 +119,7 @@ państwowych jednostek budżetowych dla sum na zlecenie,
 d)
 o których mowa w § 16 ust. 1 i 3,
 e)
-państwowych jednostek budżetowych dla gromadzenia wpływów dotyczących przychodów z prywatyzacji
-oraz prowadzone dla tych rachunków rachunki VAT;
+państwowych jednostek budżetowych dla gromadzenia wpływów dotyczących przychodów z prywatyzacji – oraz prowadzone dla tych rachunków rachunki VAT;
 5a)
 rachunki pomocnicze Ministra Finansów dla wolnych środków przyjmowanych w depozyt lub zarządzanie i ich zwrotu oraz dla innych operacji finansowych związanych z finansowaniem potrzeb pożyczkowych budżetu państwa oraz zarządzaniem długiem Skarbu Państwa i płynnością budżetu państwa;
 6)
@@ -165,14 +161,14 @@ przekazywania środków budżetu państwa na rachunki środków na wydatki niewy
 5)
 przyjmowania wpływów z prywatyzacji majątku Skarbu Państwa i realizacji płatności wynikających z odrębnych ustaw, których źródłem są przychody z prywatyzacji majątku Skarbu Państwa;
 6)
-(uchylony);
+(uchylony);Przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 7)
 przekazywania środków na rachunki bieżące państwowych jednostek budżetowych oraz urzędów obsługujących organy podatkowe w celu zapewnienia realizacji zwrotów nadpłat wynikających z rozliczeń pobranych dochodów;
 8)
 obsługi operacji związanych z realizacją innych przychodów i rozchodów wynikających z ustawy budżetowej;
 9)
 gromadzenia dochodów budżetu państwa w zakresie krajowych środków finansowych z tytułu wpływów środków pochodzących z budżetu Unii Europejskiej;
-10)
+10W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 przyjmowania niewykorzystanych środków na wydatki niewygasające.
 § 6.
 1.
@@ -269,7 +265,7 @@ zwroty środków niewykorzystanych w danym roku budżetowym na rachunek bieżąc
 6)
 przelewy środków dla jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej oraz na opłacanie składek do organizacji międzynarodowych;
 7)
-(uchylony);
+(uchylony);Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 8)
 przelewy środków na współfinansowanie projektów państwowych jednostek budżetowych, finansowanych z udziałem środków europejskich, na wyodrębniony rachunek prowadzony dla obsługi budżetu środków europejskich oraz na rachunek, o którym mowa w art. 192 ust. 4 ustawy o finansach publicznych;
 9)
@@ -313,21 +309,21 @@ Państwowe fundusze celowe mające siedzibę poza miastem, w którym Narodowy Ba
 § 13.
 1.
 Na rachunek pomocniczy państwowej jednostki budżetowej, o którym mowa w § 3 ust. 1 pkt 5 lit. a, przyjmowane są:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 wpływy środków pieniężnych z rachunku wydatków niewygasających centralnego rachunku bieżącego budżetu państwa lub rachunków wydatków dla środków na wydatki niewygasające dysponenta wyższego stopnia;
 2)
 wpływy z tytułu zwrotu środków na wydatki niewygasające;
 3)
-(uchylony);
+(uchylony);Przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 4)
 środki pieniężne zgromadzone na rachunku VAT prowadzonym dla tego rachunku pomocniczego.
 2.
 Z rachunku pomocniczego państwowej jednostki budżetowej, o którym mowa w § 3 ust. 1 pkt 5 lit. a, dokonywane są:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 wydatki niewygasające ujęte przez Radę Ministrów w przepisach wykonawczych wydanych na podstawie ustawy;
 2)
 przelewy środków pieniężnych na rachunki pomocnicze dla środków na wydatki niewygasające dysponentów niższego stopnia;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 przelewy z tytułu niewykorzystanych środków na wydatki niewygasające na wyodrębniony rachunek wydatków dla środków na wydatki niewygasające dysponenta wyższego stopnia lub na rachunek wydatków niewygasających centralnego rachunku bieżącego budżetu państwa.
 3.
 Dysponenci środków budżetu państwa prowadzą jeden rachunek pomocniczy dla środków na wydatki niewygasające dla danej części budżetowej.
@@ -393,6 +389,7 @@ Zwroty nadpłat środków dotyczących przychodów z prywatyzacji są dokonywane
 Rachunek bieżący państwowej jednostki budżetowej mającej siedzibę poza granicami Rzeczypospolitej Polskiej, o którym mowa w § 3 ust. 1 pkt 6, służy do rozliczeń operacji finansowych związanych z realizacją dochodów i wydatków budżetowych, wydatków niewygasających oraz wykonaniem sum na zlecenie.
 2.
 Do państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej nie stosuje się przepisów § 15 ust. 1.
+Zakres informacji w ramach obsługi bankowej budżetu państwa o stanie środków na rachunkach bankowych
 § 18.
 1.
 W ramach obsługi bankowej budżetu państwa Narodowy Bank Polski:
@@ -451,16 +448,17 @@ rachunkach bieżących państwowych jednostek budżetowych i organów podatkowyc
 § 18a.
 1.
 W ramach obsługi bankowej Bank Gospodarstwa Krajowego sporządza w formie elektronicznej lub papierowej:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 informacje wykazujące zbiorcze salda rachunków, o których mowa w § 3 ust. 1 pkt 4;
 2)
 aktualne salda i obroty na rachunkach, o których mowa w § 3 ust. 1 pkt 4 i 5 lit. c i d oraz pkt 5a;
 3)
 aktualne salda i obroty na rachunkach, o których mowa w art. 192 ust. 4 ustawy o finansach publicznych.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Bank Gospodarstwa Krajowego przekazuje do Ministerstwa Finansów informacje, o których mowa w ust. 1, na wniosek Ministra Finansów.
 3.
 Bank Gospodarstwa Krajowego przekazuje Najwyższej Izbie Kontroli, na jej wniosek, informacje o stanach środków na rachunkach, o których mowa w § 3 ust. 1 pkt 4 i 5 lit. c i d oraz pkt 5a oraz w art. 192 ust. 4 ustawy o finansach publicznych.
+Przepisy przejściowe i końcowe
 § 19.
 Do czasu wygaśnięcia umów o prefinansowanie Narodowy Bank Polski prowadzi rachunki pomocnicze dla środków budżetu państwa na prefinansowanie i przekazuje informacje na temat stanów środków na tych rachunkach na dotychczasowych zasadach.
 § 20.
@@ -468,15 +466,23 @@ Do czasu wygaśnięcia umów o prefinansowanie Narodowy Bank Polski prowadzi rac
 § 21.
 (pominięty).
 § 22.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 czerwca 2006 r. w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. poz. 785 i 1786 oraz z 2007 r. poz. 1787), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 119 ust. 1 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241 i 1706 oraz z 2010 r. poz. 620, 685, 1020, 1078, 1475 i 1578). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 28 grudnia 2022 r. zmieniającego rozporządzenie w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. poz. 2857), które weszło w życie z dniem 1 stycznia 2023 r. 3) Ze zmianami wprowadzonymi przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2, oraz przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 22 listopada 2023 r. zmieniającego rozporządzenie w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. poz. 2609), które weszło w życie z dniem 1 stycznia 2024 r. 4) Ze zmianami wprowadzonymi przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2, oraz przez § 1 pkt 2 rozporządzenia wymienionego jako drugie w odnośniku 3. 5) Przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 9) Przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 12) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 14) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 czerwca 2006 r. w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. poz. 785 i 1786 oraz z 2007 r. poz. 1787), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 119 ust. 1 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241 i 1706 oraz z 2010 r. poz. 620, 685, 1020, 1078, 1475 i 1578).
 Załącznik – Tekst załącznika
 (uchylony)
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Rachunki bankowe prowadzone dla obsługi budżetu państwa w zakresie krajowych środków finansowych i zasady ich obsługi
+#### Rozdział 2 – Rachunki bankowe prowadzone dla obsługi budżetu państwa w zakresie krajowych środków finansowych i zasady ich obsługi
 
-#### Rozdział 3 Zakres informacji w ramach obsługi bankowej budżetu państwa o stanie środków na rachunkach bankowych
+#### Rozdział 3 – Zakres informacji w ramach obsługi bankowej budżetu państwa o stanie środków na rachunkach bankowych
 
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

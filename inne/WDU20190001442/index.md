@@ -31,21 +31,18 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 6 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1435), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1503).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1503), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1503), które stanowią: „
 § 2.
 1.
-Do postępowań w sprawie o przyznanie pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.)a) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22 i Dz. Urz. UE L 256 z 04.10.2017, str. 1., objętego Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy o dofinansowanie, stosuje się przepisy dotychczasowe, z wyjątkiem § 22a rozporządzenia zmienianego w § 1, który stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
+Do postępowań w sprawie o przyznanie pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.)a)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22 i Dz. Urz. UE L 256 z 04.10.2017, str. 1., objętego Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy o dofinansowanie, stosuje się przepisy dotychczasowe, z wyjątkiem § 22a rozporządzenia zmienianego w § 1, który stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 2.
 Do postępowań w sprawie o przyznanie pomocy finansowej na realizację operacji w ramach działania „Koszty bieżące i aktywizacja”, o którym mowa w art. 62 ust. 1 lit. d rozporządzenia wymienionego w ust. 1, objętego Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy o dofinansowanie, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-a) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22 i Dz. Urz. UE L 256 z 04.10.2017, str. 1.
-Załącznik – Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 6 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . a) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22 i Dz. Urz. UE L 256 z 04.10.2017, str. 1.
+Załącznik – Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 6 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2017 r. poz. 1267 oraz z 2019 r. poz. 730) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze, o którym mowa w art. 62 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 508/2014”, i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, o których mowa w art. 62 ust. 1 lit. b i d rozporządzenia nr 508/2014, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem”, oraz wysokość stawek tej pomocy, w tym:
+Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze, o którym mowa w art. 62 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18., zwanego dalej „rozporządzeniem nr 508/2014”, i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, o których mowa w art. 62 ust. 1 lit. b i d rozporządzenia nr 508/2014, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem”, oraz wysokość stawek tej pomocy, w tym:
 1)
 szczegółowe wymagania, jakim powinny odpowiadać wnioski o dofinansowanie i wnioski o płatność, oraz tryb składania tych wniosków;
 2)
@@ -71,7 +68,7 @@ powierzenie społecznościom rybackim ważniejszej roli w rozwoju lokalnym oraz 
 § 3.
 Pomoc finansową przyznaje się na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, która:
 1)
-jest zgodna ze strategią rozwoju lokalnego kierowanego przez społeczność, o której mowa w art. 2 pkt 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwaną dalej „LSR”;
+jest zgodna ze strategią rozwoju lokalnego kierowanego przez społeczność, o której mowa w art. 2 pkt 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140., zwaną dalej „LSR”;
 2)
 została wybrana przez lokalną grupę działania, o której mowa w art. 32 ust. 2 lit. b rozporządzenia wymienionego w pkt 1, zwaną dalej „LGD”;
 3)
@@ -88,7 +85,7 @@ ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz Wo
 zostanie zakończona w terminie 18 miesięcy od dnia zawarcia umowy o dofinansowanie;
 5)
 spełnia warunki określone w rozporządzeniu dla tej operacji.
-§ 4.
+§ 4W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1503), które weszło w życie z dniem 22 sierpnia 2018 r..
 1.
 Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 1:
 1)
@@ -128,9 +125,8 @@ którego port macierzysty znajduje się na obszarze gmin objętych LSR, lub
 3)
 otrzymał pomoc finansową w ramach środka pomoc publiczna z tytułu trwałego zaprzestania działalności połowowej objętego osią priorytetową 1 – Środki na rzecz dostosowania floty rybackiej zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” lub w ramach działania trwałe zaprzestanie działalności połowowej, o którym mowa w art. 34 rozporządzenia nr 508/2014, objętego Priorytetem 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy zawartym w programie, lub
 4)
-będąc osobą fizyczną zamieszkałą na obszarze gmin objętych LSR utracił miejsce pracy w wyniku trwałego zaprzestania działalności połowowej przy użyciu statku rybackiego lub w wyniku zaprzestania prowadzenia działalności, o której mowa w pkt 1
-nie więcej niż 400 000 zł na jednego wnioskodawcę.
-§ 5.
+będąc osobą fizyczną zamieszkałą na obszarze gmin objętych LSR utracił miejsce pracy w wyniku trwałego zaprzestania działalności połowowej przy użyciu statku rybackiego lub w wyniku zaprzestania prowadzenia działalności, o której mowa w pkt 1 – nie więcej niż 400 000 zł na jednego wnioskodawcę.
+§ 5W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1503), które weszło w życie z dniem 22 sierpnia 2018 r..
 1.
 Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 2:
 1)
@@ -252,7 +248,7 @@ będzie zrealizowana z zapewnieniem należytych gwarancji technicznych;
 ma zapewnioną gospodarczą trwałość;
 4)
 nie wpłynie negatywnie na środowisko oraz ochronę żywych zasobów wód.
-§ 15.
+§ 15W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 Powstanie trwałych korzyści gospodarczych stwierdza się na podstawie informacji zawartych w:
 1)
@@ -285,7 +281,7 @@ LGD, która jest stroną umowy ramowej w rozumieniu ustawy z dnia 20 lutego 2015
 Wniosek o dofinansowanie operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, realizowanych przez podmiot inny niż LGD, poza informacjami zawartymi w art. 13 ust. 3 ustawy o EFMR, zawiera:
 1)
 imię i nazwisko oraz miejsce zamieszkania i adres osoby upoważnionej do reprezentowania wnioskodawcy oraz pełnomocnictwo, jeżeli zostało udzielone;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.)
 numer identyfikacji podatkowej (NIP) wnioskodawcy, jeżeli został nadany, albo numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej lub niebędącej zarejestrowanym podatnikiem podatku od towarów i usług – numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL);
 3)
 informację o formie prawnej wnioskodawcy;
@@ -297,7 +293,7 @@ charakterystykę prowadzonej działalności;
 zestawienie rzeczowo-finansowe operacji;
 7)
 oświadczenia lub zobowiązania wnioskodawcy związane z pomocą;
-8)
+8W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 informację o planowanym utworzeniu lub utrzymaniu co najmniej jednego miejsca pracy lub podjęciu działalności gospodarczej, lub podjęciu działalności jako uprawniony do rybactwa, i wynika to z celu realizowanej operacji, jeżeli operacja przewiduje utworzenie lub utrzymanie miejsca pracy lub podjęcie działalności gospodarczej, lub podjęcie działalności jako uprawniony do rybactwa;
 9)
 informację o zakładanych wskaźnikach realizacji celów operacji;
@@ -311,11 +307,11 @@ Do wniosku o dofinansowanie dołącza się dokumenty niezbędne do ustalenia spe
 Kopie dokumentów, o których mowa w ust. 2, dołącza się w formie kopii potwierdzonych za zgodność oryginałem przez pracownika LGD lub pracownika urzędu marszałkowskiego albo jednostki samorządowej, lub podmiot, który wydał dokument, lub w formie kopii poświadczonych za zgodność z oryginałem przez notariusza lub przez występującego w sprawie pełnomocnika będącego radcą prawnym lub adwokatem.
 4.
 Wnioskodawca przekazuje LGD i zarządowi województwa informacje o zmianach w zakresie danych objętych wnioskiem o dofinansowanie, które nie mogą jednak prowadzić do zwiększenia wnioskowanej kwoty pomocy lub modyfikacji celu operacji, w terminie 14 dni od dnia zaistnienia tych zmian.
-5.
-Do trybu składania wniosków o dofinansowanie oraz szczegółowego sposobu oceny i terminów rozpatrywania tych wniosków przepisy art. 20 ust. 1, art. 21 ust. 11b, 2 i 4–7 oraz art. 22 i art. 23 ustawy o rozwoju lokalnym stosuje się odpowiednio.
+5W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 4..
+Do trybu składania wniosków o dofinansowanie oraz szczegółowego sposobu oceny i terminów rozpatrywania tych wniosków przepisy art. 20 ust. 1, art. 21 ust. 11bUchylony przez art. 1 pkt 3 lit. b ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. poz. 1625), która weszła w życie z dniem 7 września 2018 r., 2 i 4–7 oraz art. 22 i art. 23 ustawy o rozwoju lokalnym stosuje się odpowiednio.
 § 22.
 Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, przysługuje według kolejności ustalonej na podstawie liczby punktów uzyskanych w ramach oceny prowadzonej z zastosowaniem kryteriów operacji określonych w LSR i wskazanych w ogłoszeniu, o którym mowa w § 20.
-§ 22a.
+§ 22aDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 W przypadku gdy operacja nie mieści się w limicie środków, o którym mowa w art. 19 ust. 4 pkt 4 ustawy o rozwoju lokalnym, wniosek o dofinansowanie dotyczący tej operacji podlega rozpatrzeniu, jeżeli zaistnieją okoliczności umożliwiające przyznanie pomocy finansowej na tę operację w ramach tego limitu środków, o czym zarząd województwa informuje wnioskodawcę w formie pisemnej.
 2.
@@ -325,7 +321,7 @@ Termin rozpatrzenia wniosku o dofinansowanie, o którym mowa w ust. 1, rozpoczyn
 W przypadku pozytywnego rozpatrzenia wniosku o dofinansowanie, o którym mowa w § 21, zarząd województwa niezwłocznie wyznacza wnioskodawcy, w formie pisemnej, w postaci papierowej, termin zawarcia umowy o dofinansowanie, nie dłuższy niż 14 dni od dnia otrzymania zawiadomienia o pozytywnym rozpatrzeniu wniosku.
 2.
 W przypadku gdy wnioskodawca nie stawił się w wyznaczonym przez zarząd województwa terminie w celu zawarcia umowy o dofinansowanie albo odmówił jej podpisania, zarząd województwa odmawia przyznania pomocy, chyba że wnioskodawca podpisał umowę o dofinansowanie w innym terminie uzgodnionym z zarządem województwa, nie dłuższym niż 21 dni od dnia, na który został wyznaczony poprzedni termin zawarcia umowy.
-§ 23a.
+§ 23aDodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 W razie uchybienia terminu wykonania przez wnioskodawcę określonych czynności w toku postępowania w sprawie o przyznanie pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, zarząd województwa, na pisemną prośbę wnioskodawcy, przywraca termin wykonania tych czynności, jeżeli wnioskodawca:
 1)
@@ -351,12 +347,12 @@ a)
 zachowania konkurencyjnego trybu wyboru wykonawców poszczególnych zadań ujętych w zestawieniu rzeczowo-finansowym operacji – w przypadku gdy do ich wyboru nie mają zastosowania przepisy o zamówieniach publicznych,
 b)
 przedłożenia sprawozdań z realizacji operacji,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 prowadzenia oddzielnego systemu rachunkowości w ramach prowadzonych ksiąg rachunkowych lub korzystania z odpowiedniego kodu księgowego dla wszystkich transakcji związanych z operacją zgodnie z art. 125 ust. 4 lit. b rozporządzenia nr 1303/2013, albo prowadzenia zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez urząd marszałkowski albo jednostkę samorządową, jeżeli beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych,
 d)
 osiągnięcia celu operacji i zachowania tego celu przez:
 – 5 lat – w przypadku operacji polegającej na inwestycji, o której mowa w § 14,
-–  3 lata – w przypadku operacji polegających na utworzeniu lub utrzymaniu co najmniej jednego miejsca pracy lub podjęciu działalności gospodarczej, lub podjęciu działalności jako uprawniony do rybactwa,
+– W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4. 3 lata – w przypadku operacji polegających na utworzeniu lub utrzymaniu co najmniej jednego miejsca pracy lub podjęciu działalności gospodarczej, lub podjęciu działalności jako uprawniony do rybactwa,
 e)
 zapewnienia trwałości operacji zgodnie z art. 71 rozporządzenia nr 1303/2013,
 f)
@@ -513,7 +509,7 @@ Termin uważa się za zachowany, jeżeli przed jego upływem pismo zostało zło
 Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, może być udzielona na projekty grantowe, o których mowa w art. 17 ust. 3 pkt 1 ustawy o rozwoju lokalnym, zwane dalej „projektami grantowymi”, lub operacje własne LGD, o których mowa w art. 17 ust. 3 pkt 2 ustawy o rozwoju lokalnym, zwane dalej „operacjami własnymi”.
 2.
 O pomoc finansową w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na projekty grantowe lub operacje własne może ubiegać się LGD, która jest stroną umowy ramowej.
-§ 37.
+§ 37W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4..
 Pomoc finansowa w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na projekt grantowy jest przyznawana LGD, jeżeli:
 1)
 granty w rozumieniu art. 14 ust. 5 ustawy o rozwoju lokalnym, zwane dalej „grantami”, zostaną udzielone grantobiorcom, o których mowa w art. 14 ust. 5 ustawy o rozwoju lokalnym, zwanym dalej „grantobiorcami”, wybranym zgodnie z procedurami zawartymi w LSR;
@@ -534,7 +530,7 @@ jeden projekt grantowy – nie może przekroczyć 300 000 zł;
 2)
 jedną operację własną – nie może przekroczyć 50 000 zł.
 § 40.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Wniosek o dofinansowanie w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na:
 1)
 projekt grantowy – poza informacjami zawartymi w art. 13 ust. 3 ustawy o EFMR – spełnia wymagania, o których mowa w § 21 ust. 1 pkt 1, 2, 4, 6, 7, 9 i 11 oraz ust. 2 i 3;
@@ -542,14 +538,14 @@ projekt grantowy – poza informacjami zawartymi w art. 13 ust. 3 ustawy o EFMR 
 operację własną – poza informacjami zawartymi w art. 13 ust. 3 ustawy o EFMR – spełnia wymagania, o których mowa w § 21 ust. 1 pkt 1, 2, 4, 6, 7 i 9–11 oraz ust. 2 i 3.
 2.
 Do wniosków o dofinansowanie w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na projekt grantowy lub operację własną, art. 20 ust. 2 ustawy o rozwoju lokalnym stosuje się odpowiednio.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Do szczegółowego sposobu oceny i terminów rozpatrywania wniosków o dofinansowanie w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na:
 1)
 projekt grantowy – przepisy art. 21 ust. 2 i art. 23 ust. 3, 5 i 6 ustawy o rozwoju lokalnym stosuje się odpowiednio;
 2)
 operację własną – przepisy art. 21 i art. 23 ust. 3, 4, 5 i 6 ustawy o rozwoju lokalnym stosuje się odpowiednio.
 § 41.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4..
 Warunkiem przyznania pomocy finansowej w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na projekt grantowy jest zawarcie umowy o dofinansowanie, która – poza postanowieniami określonymi w art. 17 ust. 1 ustawy o EFMR i warunkami, o których mowa w § 25 ust. 1 pkt 1, pkt 3 lit. b, c, d tiret pierwsze, lit. e-j i pkt 6 oraz ust. 2 – zawiera zobowiązanie LGD do wykonania czynności określonych w art. 36 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60 i 730).
 2.
 Zobowiązanie, o którym mowa w § 25 ust. 1 pkt 3 lit. c, uznaje się za spełnione, jeżeli spełnia go każdy z grantobiorców.
@@ -560,7 +556,7 @@ Do zabezpieczenia należytego wykonania przez LGD zobowiązań określonych w um
 Warunkiem przyznania pomocy finansowej w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na operację własną jest zawarcie umowy o dofinansowanie, która – poza postanowieniami określonymi w art. 17 ust. 1 ustawy o EFMR – spełnia warunki określone w § 25.
 2.
 Do zabezpieczenia należytego wykonania przez LGD zobowiązań określonych w umowie o dofinansowanie na operację własną stosuje się przepisy § 26.
-§ 43.
+§ 43W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4..
 Pomoc finansowa w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na projekt grantowy jest wypłacana LGD, jeżeli granty zostały udzielone grantobiorcom na podstawie umowy o powierzenie grantu, w wysokości odpowiadającej kwocie grantu albo sumy grantów określonej w tej umowie.
 § 44.
 Umowa o powierzenie grantu spełnia warunki określone w art. 35 ust. 6 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, a ponadto zawiera inne postanowienia dotyczące realizacji zadania, na które jest udzielany grant, w tym co najmniej zobowiązania grantobiorcy do:
@@ -570,21 +566,21 @@ zapewnienia trwałości inwestycji objętej zadaniem, na które jest udzielany g
 gromadzenia i przechowywania dokumentów dotyczących zadania, na które jest udzielany grant, w szczególności potwierdzających poniesienie przez grantobiorcę kosztów na realizację tego zadania, oraz przekazania LGD kopii tych dokumentów, w terminie określonym w tej umowie;
 3)
 udostępnienia LGD informacji i dokumentów, niezbędnych do przeprowadzenia kontroli, monitoringu i ewaluacji zadania, na które jest udzielany grant;
-4)
+4Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4.)
 zapewnienia, że realizowane zadania, o których mowa w art. 35 ust. 2 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, polegające na inwestycji w zakresie budowy, robót budowlanych, przebudowy i remontu obiektu budowlanego w rozumieniu przepisów prawa budowlanego, lub zakupu narzędzi i urządzeń lub innego wyposażenia technicznego, spełniają warunki określone w § 14.
 § 45.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Do przyznawania pomocy finansowej w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na:
 1)
 projekt grantowy – stosuje się przepisy § 11–13 i § 15–19;
 2)
 operację własną – stosuje się przepisy § 10–19.
-1a.
+1aDodany przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Do kosztów kwalifikowalnych operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na projekt grantowy, zalicza się koszty faktycznie poniesione przez beneficjenta od dnia zawarcia umowy na powierzenie grantu, w tym podatek od towarów i usług (VAT) na zasadach określonych w art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013.
 2.
 Do warunków i trybu wypłaty pomocy finansowej w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na projekt grantowy lub operację własną przepisy § 28–30 stosuje się odpowiednio.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 12 lit. c rozporządzenia, o którym mowa w odnośniku 4.
 § 46.
 1.
 Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie przyznawania pomocy finansowej i wypłaty środków finansowych w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, na projekty grantowe i operacje własne dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
@@ -654,7 +650,7 @@ Postępowanie w sprawie przyznania pomocy finansowej na realizację operacji w r
 2.
 Załatwianie spraw związanych z przyznawaniem pomocy finansowej na realizację operacji w ramach działania „Koszty bieżące i aktywizacja”, o którym mowa w art. 62 ust. 1 lit. d rozporządzenia nr 508/2014, w tym czynności w ramach postępowania w sprawie przyznania pomocy, może być dokonywane przez upoważnionych przez zarząd województwa pracowników urzędu marszałkowskiego albo jednostkę samorządową.
 § 53.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 4..
 Wniosek o dofinansowanie operacji w ramach działania „Koszty bieżące i aktywizacja”, o którym mowa w art. 62 ust. 1 lit. d rozporządzenia nr 508/2014, składa się w formie pisemnej, w postaci papierowej, osobiście albo przez upoważnioną osobę w siedzibie instytucji pośredniczącej albo w jednostce samorządowej tego samorządu województwa, z którym została zawarta umowa ramowa, albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu przepisów prawa pocztowego.
 2.
 Złożenie wniosku o dofinansowanie w siedzibie instytucji pośredniczącej albo w jednostce samorządowej, o której mowa w ust. 1, potwierdza się na piśmie. Potwierdzenie zawiera datę i godzinę wpływu wniosku i jest opatrzone pieczęcią tej instytucji pośredniczącej albo jednostki samorządowej i podpisem osoby przyjmującej wniosek.
@@ -724,7 +720,7 @@ Do odmowy przyznania pomocy na podstawie ust. 2, art. 16 ustawy o EFMR stosuje s
 § 60.
 W przypadku rozwiązania, połączenia z innym podmiotem, podziału lub przekształcenia beneficjenta będącego LGD, lub wystąpienia innego zdarzenia prawnego, w wyniku których zaistnieje następstwo prawne, następcy prawnemu beneficjenta nie przyznaje się pomocy finansowej na realizację operacji w ramach działania „Koszty bieżące i aktywizacja”, o którym mowa w art. 62 ust. 1 lit. d rozporządzenia nr 508/2014.
 § 61.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 4..
 Warunkiem przyznania pomocy finansowej na realizację operacji w ramach działania „Koszty bieżące i aktywizacja”, o którym mowa w art. 62 ust. 1 lit. d rozporządzenia nr 508/2014, jest zawarcie umowy o dofinansowanie, która – poza postanowieniami określonymi w art. 17 ust. 1 ustawy o EFMR – spełnia wymagania określone w § 25 ust. 1 pkt 1, 2, pkt 3 lit. a-c i f-j, pkt 4–6 oraz ust. 2.
 2.
 Do zabezpieczenia należytego wykonania przez LGD zobowiązań określonych w umowie o dofinansowanie, o której mowa w ust. 1, stosuje się przepisy § 26.
@@ -758,6 +754,5 @@ Do warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realiz
 § 68.
 Wniosek o dofinansowanie operacji w ramach działania „Koszty bieżące i aktywizacja”, o którym mowa w art. 62 ust. 1 lit. d rozporządzenia nr 508/2014, na pierwszy rok realizacji LSR LGD składa w terminie 60 dni od dnia wejścia w życie rozporządzenia.
 § 69.
-Rozporządzenie wchodzi w życie z dniem 9 września 2016 r.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1503), które weszło w życie z dniem 22 sierpnia 2018 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 8) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 4. 9) Uchylony przez art. 1 pkt 3 lit. b ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. poz. 1625), która weszła w życie z dniem 7 września 2018 r. 10) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 11) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 12) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 4. 13) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4. 14) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4. 15) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4. 16) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4. 17) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4. 18) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4. 19) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4. 20) W brzmieniu ustalonym przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 4. 21) Dodany przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 4. 22) Przez § 1 pkt 12 lit. c rozporządzenia, o którym mowa w odnośniku 4. 23) W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 4. 24) W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 4.
+Rozporządzenie wchodzi w życie z dniem 9 września 2016 r. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43 oraz Dz. Urz. UE L 169 z 28.06.2016, str. 18. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 oraz Dz. Urz. UE L 200 z 26.07.2016, str. 140. 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1503), które weszło w życie z dniem 22 sierpnia 2018 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 8) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 4. 9) Uchylony przez art. 1 pkt 3 lit. b ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. poz. 1625), która weszła w życie z dniem 7 września 2018 r. 10) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 11) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 12) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 4. 13) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4. 14) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4. 15) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4. 16) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4. 17) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 4. 18) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 4. 19) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 4. 20) W brzmieniu ustalonym przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 4. 21) Dodany przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 4. 22) Przez § 1 pkt 12 lit. c rozporządzenia, o którym mowa w odnośniku 4. 23) W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 4. 24) W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 4.
 

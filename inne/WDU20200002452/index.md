@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Prezesa Rady Ministrówz dnia 30 grudnia 2020 r. w sprawie sposobu sporządzania i przekazywania informacji oraz wymagań technicznych dla dokumentów elektronicznych oraz środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego lub konkursie
+# Rozporządzenie Prezesa Rady Ministrówz dnia 30 grudnia 2020 r. w sprawie sposobu sporządzania i przekazywania informacji oraz wymagań technicznych dla dokumentów elektronicznych oraz środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego lub konkursie Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylającą dyrektywę 2004/18/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 65, z późn. zm.); 2) dyrektywę Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającą dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, z późn. zm.); 3) dyrektywę Parlamentu Europejskiego i Rady 2009/81/WE z dnia 13 lipca 2009 r. w sprawie koordynacji procedur udzielania niektórych zamówień na roboty budowlane, dostawy i usługi przez instytucje lub podmioty zamawiające w dziedzinach obronności i bezpieczeństwa i zmieniającą dyrektywy 2004/17/WE i 2004/18/WE (Dz. Urz. UE L 216 z 20.08.2009, str. 76, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-30 |
 | Data wydania | 2020-12-31 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002452) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2452/text.pdf) |
 
@@ -160,5 +159,5 @@ Użycie środków komunikacji elektronicznej służących do odbioru dokumentów
 § 12.
 Środki komunikacji elektronicznej w postępowaniu lub konkursie służące do odbioru dokumentów elektronicznych zawierających oświadczenia, o których mowa w art. 125 ust. 1 ustawy, podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe, pełnomocnictwo, dokumenty, o których mowa w art. 94 ust. 2 ustawy, oraz informacje, oświadczenia lub dokumenty, inne niż określone w § 11 ust. 1, umożliwiają identyfikację podmiotów przekazujących te dokumenty elektroniczne oraz ustalenie dokładnego czasu i daty ich odbioru.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 27 czerwca 2017 r. w sprawie użycia środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego oraz udostępniania i przechowywania dokumentów elektronicznych (Dz. U. z 2020 r. poz. 1261), które na podstawie art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylającą dyrektywę 2004/18/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 65, z późn. zm.); 2) dyrektywę Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającą dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, z późn. zm.); 3) dyrektywę Parlamentu Europejskiego i Rady 2009/81/WE z dnia 13 lipca 2009 r. w sprawie koordynacji procedur udzielania niektórych zamówień na roboty budowlane, dostawy i usługi przez instytucje lub podmioty zamawiające w dziedzinach obronności i bezpieczeństwa i zmieniającą dyrektywy 2004/17/WE i 2004/18/WE (Dz. Urz. UE L 216 z 20.08.2009, str. 76, z późn. zm.). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 27 czerwca 2017 r. w sprawie użycia środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego oraz udostępniania i przechowywania dokumentów elektronicznych (Dz. U. z 2020 r. poz. 1261), które na podstawie art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

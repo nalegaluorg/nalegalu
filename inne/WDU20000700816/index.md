@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-05-26 |
 | Data wydania | 2000-08-24 |
-| Wejście w życie | 2000-11-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000700816) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/816/text.pdf) |
 
@@ -30,8 +29,11 @@ source: "eli-html"
 
 - **1)** tytuł ustawy otrzymuje brzmienie: „ o grach losowych, zakładach wzajemnych i grach na automatach ” ;
 - **2)** art. 1 otrzymuje brzmienie: „ Ustawa określa warunki urządzania i zasady prowadzenia działalności w zakresie gier losowych, zakładów wzajemnych i gier na automatach. ” ;
-- **3)** w art. 2: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Grami losowymi są gry o wygrane pieniężne lub rzeczowe, których wynik w szczególności zależy od przypadku, a warunki gry określa regulamin. ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) gry w kości, ” – skreśla się pkt 6, – w pkt 9 kropkę zastępuje się przecinkiem i dodaje się pkt 10 w brzmieniu: „ 10) loterie audioteksowe, w których uczestniczy się poprzez odpłatne połączenie telefoniczne, a podmiot urządzający loterię oferuje wygrane pieniężne lub rzeczowe. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **3)** w art. 2: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Grami losowymi są gry o wygrane pieniężne lub rzeczowe, których wynik w szczególności zależy od przypadku, a warunki gry określa regulamin. ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
     - **a)**
+
+- **5a)** gry w kości, ” – skreśla się pkt 6, w pkt 9 kropkę zastępuje się przecinkiem i dodaje się pkt 10 w brzmieniu: „
+- **10)** loterie audioteksowe, w których uczestniczy się poprzez odpłatne połączenie telefoniczne, a podmiot urządzający loterię oferuje wygrane pieniężne lub rzeczowe. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Grami na automatach są gry o wygrane pieniężne lub rzeczowe na urządzeniach mechanicznych, elektromechanicznych i elektronicznych. ” , ust. 3 otrzymuje brzmienie: „
@@ -232,8 +234,15 @@ source: "eli-html"
 2. W przypadku, o którym mowa w ust. 1, ogólna liczba salonów gier na automatach na terytorium Rzeczypospolitej Polskiej nie może wzrosnąć więcej niż o 5 w jednym województwie. ” ;
 
 - **30)** po art. 31 dodaje się art. 31a w brzmieniu: „ Minister właściwy do spraw finansów publicznych corocznie ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” listę miejscowości, w których mogą być prowadzone ośrodki gier. ” ;
-- **31)** w art. 32: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Wniosek o udzielenie zezwolenia na prowadzenie działalności w zakresie gier cylindrycznych, gier w karty, gier w kości, gry bingo pieniężne, zakładów wzajemnych oraz gier na automatach powinien zawierać: ” , – w pkt 3 wyrazy „, o sytuacji finansowej oraz o źródłach pochodzenia kapitału, o którym mowa w art. 25,” zastępuje się wyrazami „oraz o sytuacji finansowej,” – w pkt 7 wyrazy „gier lub zakładów” zastępuje się wyrazami „gier losowych, zakładów wzajemnych lub gier na automatach”, – w pkt 9 wyrazy „ gry lub zakładu” zastępuje się wyrazami „gry losowej, zakładu wzajemnego lub gry na automatach”, – w pkt 15 kropkę zastępuje się przecinkiem i dodaje się pkt 16–18 w brzmieniu: „ 16) dokumenty potwierdzające legalność źródeł pochodzenia kapitału, a w szczególności: a) w przypadku wspólnika będącego osobą fizyczną, przedstawiającego sobą co najmniej jedną setną wartości kapitału spółki – zaświadczenie z urzędu skarbowego o pokryciu udziałów lub akcji z ujawnionych źródeł przychodów, b) w przypadku wspólników będących osobami prawnymi – sprawozdanie finansowe sporządzone w sposób określony w odrębnych przepisach, 17) zaświadczenie z urzędu skarbowego o terminowym wywiązywaniu się z obowiązków podatkowych wobec budżetu państwa, 18) zaświadczenie o terminowym opłacaniu składek na ubezpieczenia społeczne. ” , w ust. 2 w pkt 9 kropkę zastępuje się przecinkiem i dodaje się pkt 10–12 w brzmieniu: „
+- **31)** w art. 32: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Wniosek o udzielenie zezwolenia na prowadzenie działalności w zakresie gier cylindrycznych, gier w karty, gier w kości, gry bingo pieniężne, zakładów wzajemnych oraz gier na automatach powinien zawierać: ” , – w pkt 3 wyrazy „, o sytuacji finansowej oraz o źródłach pochodzenia kapitału, o którym mowa w art. 25,” zastępuje się wyrazami „oraz o sytuacji finansowej,” – w pkt 7 wyrazy „gier lub zakładów” zastępuje się wyrazami „gier losowych, zakładów wzajemnych lub gier na automatach”, – w pkt 9 wyrazy „ gry lub zakładu” zastępuje się wyrazami „gry losowej, zakładu wzajemnego lub gry na automatach”, w pkt 15 kropkę zastępuje się przecinkiem i dodaje się pkt 16–18 w brzmieniu: „
     - **a)**
+
+- **16)** dokumenty potwierdzające legalność źródeł pochodzenia kapitału, a w szczególności: w przypadku wspólnika będącego osobą fizyczną, przedstawiającego sobą co najmniej jedną setną wartości kapitału spółki – zaświadczenie z urzędu skarbowego o pokryciu udziałów lub akcji z ujawnionych źródeł przychodów, w przypadku wspólników będących osobami prawnymi – sprawozdanie finansowe sporządzone w sposób określony w odrębnych przepisach,
+    - **a)**
+    - **b)**
+
+- **17)** zaświadczenie z urzędu skarbowego o terminowym wywiązywaniu się z obowiązków podatkowych wobec budżetu państwa,
+- **18)** zaświadczenie o terminowym opłacaniu składek na ubezpieczenia społeczne. ” , w ust. 2 w pkt 9 kropkę zastępuje się przecinkiem i dodaje się pkt 10–12 w brzmieniu: „
     - **b)**
 
 - **10)** dokumenty potwierdzające legalność źródeł pochodzenia kapitału, a w szczególności: zaświadczenie z urzędu skarbowego o pokryciu kapitału z ujawnionych źródeł przychodów – w przypadku wspólnika będącego osobą fizyczną, sprawozdanie finansowe sporządzone w sposób określony w odrębnych przepisach – w przypadku wspólnika będącego osobą prawną, jeżeli podmiotem występującym z wnioskiem jest spółka prawa handlowego,
@@ -253,8 +262,10 @@ source: "eli-html"
 
 2. Rozpatrzenie wniosków, o których mowa w ust. 1, odnoszących się do gier losowych określonych w art. 2 ust. 1 pkt 9 i 10 następuje w terminie 2 miesięcy. ” ;
 
-- **34)** w art. 35: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Zezwolenie na prowadzenie działalności w zakresie gier cylindrycznych, gier w karty, gier w kości, gry bingo pieniężne, zakładów wzajemnych oraz gier na automatach obejmuje: ” , – w pkt 3 wyrazy „gier lub zakładów” zastępuje się wyrazami „gier losowych, zakładów wzajemnych lub gier na automatach,” – pkt 4 otrzymuje brzmienie: „ 4) rodzaj i minimalną oraz maksymalną liczbę gier losowych, zakładów wzajemnych lub gier na automatach, ” w ust. 3a: – zdanie wstępne otrzymuje brzmienie: „ Zezwolenie na urządzenie loterii promocyjnej oraz loterii audioteksowej obejmuje: ” , – skreśla się pkt 6, w ust. 4 wyrazy „gier, zakładów wzajemnych i loterii” zastępuje się wyrazami „gier losowych, zakładów wzajemnych i gier na automatach”;
+- **34)** w art. 35: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Zezwolenie na prowadzenie działalności w zakresie gier cylindrycznych, gier w karty, gier w kości, gry bingo pieniężne, zakładów wzajemnych oraz gier na automatach obejmuje: ” , – w pkt 3 wyrazy „gier lub zakładów” zastępuje się wyrazami „gier losowych, zakładów wzajemnych lub gier na automatach,” pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** rodzaj i minimalną oraz maksymalną liczbę gier losowych, zakładów wzajemnych lub gier na automatach, ” w ust. 3a: – zdanie wstępne otrzymuje brzmienie: „ Zezwolenie na urządzenie loterii promocyjnej oraz loterii audioteksowej obejmuje: ” , – skreśla się pkt 6, w ust. 4 wyrazy „gier, zakładów wzajemnych i loterii” zastępuje się wyrazami „gier losowych, zakładów wzajemnych i gier na automatach”;
     - **b)**
     - **c)**
 

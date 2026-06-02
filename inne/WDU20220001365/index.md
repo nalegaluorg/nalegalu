@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 21 czerwca 2022 r. zmieniające rozporządzenie w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnej pomocy dostosowawczej dla producentów jabłek
+# Rozporządzenie Rady Ministrówz dnia 21 czerwca 2022 r. zmieniające rozporządzenie w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnej pomocy dostosowawczej dla producentów jabłek Niniejsze rozporządzenie służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2022/467 z dnia 23 marca 2022 r. przewidującego nadzwyczajną pomoc dostosowawczą dla producentów w sektorach rolnych (Dz. Urz. UE L 96 z 24.03.2022, str. 4).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-21 |
 | Data wydania | 2022-06-29 |
-| Wejście w życie | 2022-07-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001365) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1365/text.pdf) |
 
@@ -33,15 +32,13 @@ W rozporządzeniu Rady Ministrów z dnia 22 kwietnia 2022 r. w sprawie realizacj
 1)
 tytuł rozporządzenia otrzymuje brzmienie: „ w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnej pomocy dostosowawczej dla producentów jabłek oraz producentów świń ” ;
 2)
-po § 3 dodaje się § 3a w brzmieniu:
-„
+po § 3 dodaje się § 3a w brzmieniu: „
 § 3a.
 Agencja udziela pomocy w sektorze wymienionym w art. 1 ust. 2:
 1)
-lit. i rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”, w zakresie jabłek;
+lit. i rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262., zwanego dalej „rozporządzeniem nr 1308/2013”, w zakresie jabłek;
 2)
-lit. q rozporządzenia nr 1308/2013 w zakresie świń.
-” ;
+lit. q rozporządzenia nr 1308/2013 w zakresie świń. ” ;
 3)
 w § 4 w ust. 1 w pkt 1 wyrazy „Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”,” zastępuje się wyrazami „nr 1308/2013”;
 4)
@@ -53,24 +50,19 @@ użyty w § 8 ust. 2, ust. 3 we wprowadzeniu do wyliczenia i pkt 7, ust. 4 we wp
 7)
 użyty w § 5 ust. 3 pkt 3 i ust. 4 pkt 1 lit. a, b oraz e, § 6, § 8 ust. 3 pkt 1 i 4 oraz ust. 10 oraz § 11 ust. 1, w różnym przypadku, wyraz „pomoc” zastępuje się użytymi w odpowiednim przypadku wyrazami „pomoc, o której mowa w § 3a pkt 1”;
 8)
-w § 8 ust. 6 otrzymuje brzmienie:
-„
+w § 8 ust. 6 otrzymuje brzmienie: „
 6.
-Do wniosku o udzielenie pomocy, o której mowa w § 3a pkt 1, składanego przez podmiot, o którym mowa w § 4 ust. 1 pkt 1, dołącza się również oświadczenie tego podmiotu zawierające zobowiązanie do przekazania tej pomocy w całości producentom jabłek, od których pochodziły jabłka objęte tą pomocą.
-” ;
+Do wniosku o udzielenie pomocy, o której mowa w § 3a pkt 1, składanego przez podmiot, o którym mowa w § 4 ust. 1 pkt 1, dołącza się również oświadczenie tego podmiotu zawierające zobowiązanie do przekazania tej pomocy w całości producentom jabłek, od których pochodziły jabłka objęte tą pomocą. ” ;
 9)
 w § 9:
 a)
 w ust. 2 wyrazy „pomocy, o której mowa w ust. 1” zastępuje się wyrazami „pomocy, o której mowa w § 3a pkt 1”,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-W decyzji o udzieleniu pomocy, o której mowa w § 3a pkt 1, podmiotowi, o którym mowa w § 4 ust. 1 pkt 1, określa się podział kwoty tej pomocy na poszczególnych producentów jabłek, od których pochodzą jabłka objęte tą pomocą.
-” ;
+W decyzji o udzieleniu pomocy, o której mowa w § 3a pkt 1, podmiotowi, o którym mowa w § 4 ust. 1 pkt 1, określa się podział kwoty tej pomocy na poszczególnych producentów jabłek, od których pochodzą jabłka objęte tą pomocą. ” ;
 10)
-po § 9 dodaje się § 9a-9d w brzmieniu:
-„
+po § 9 dodaje się § 9a-9d w brzmieniu: „
 § 9a.
 Pomoc, o której mowa w § 3a pkt 2, przysługuje producentowi świń, który:
 1)
@@ -118,29 +110,23 @@ W przypadku gdy łączna wysokość pomocy, o której mowa w § 3a pkt 2, wynika
 1)
 kwoty środków udostępnionych Rzeczypospolitej Polskiej zgodnie z załącznikiem do rozporządzenia 2022/467, wyrażonej w polskich złotych, oraz
 2)
-kwoty środków równej łącznej wysokości pomocy wynikającej z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w § 3a pkt 1
-brakujące środki na sfinansowanie tej pomocy pokrywa się z budżetu państwa w kwocie nie wyższej niż kwota środków, o której mowa w art. 2 rozporządzenia 2022/467.
-” ;
+kwoty środków równej łącznej wysokości pomocy wynikającej z rozpatrzonych wniosków o udzielenie pomocy, o której mowa w § 3a pkt 1 – brakujące środki na sfinansowanie tej pomocy pokrywa się z budżetu państwa w kwocie nie wyższej niż kwota środków, o której mowa w art. 2 rozporządzenia 2022/467. ” ;
 11)
-w § 11 ust. 2 otrzymuje brzmienie:
-„
+w § 11 ust. 2 otrzymuje brzmienie: „
 2.
 W przypadku:
 1)
 przekazania pomocy, o której mowa w § 3a pkt 1, producentom jabłek, od których pochodziły jabłka objęte tą pomocą, po terminie, o którym mowa w ust. 1, lecz przed upływem 21 dni od dnia jej wypłaty, podmiot, o którym mowa w § 4 ust. 1 pkt 1, zwraca Agencji 50% uzyskanej pomocy;
 2)
-nieprzekazania pomocy, o której mowa w § 3a pkt 1, producentom jabłek, od których pochodziły jabłka objęte tą pomocą, albo przekazania jej po upływie 21 dni od dnia jej wypłaty, podmiot, o którym mowa w § 4 ust. 1 pkt 1, zwraca Agencji 100% uzyskanej pomocy.
-” ;
+nieprzekazania pomocy, o której mowa w § 3a pkt 1, producentom jabłek, od których pochodziły jabłka objęte tą pomocą, albo przekazania jej po upływie 21 dni od dnia jej wypłaty, podmiot, o którym mowa w § 4 ust. 1 pkt 1, zwraca Agencji 100% uzyskanej pomocy. ” ;
 12)
 w załączniku do rozporządzenia:
 a)
 tytuł załącznika otrzymuje brzmienie: „ DZIAŁANIA, O KTÓRYCH MOWA W § 4 UST. 1 PKT 1 LIT. B I PKT 2 LIT. B ORAZ § 9A PKT 4 ROZPORZĄDZENIA ” ,
 b)
-dodaje się ust. 12 w brzmieniu:
-„
+dodaje się ust. 12 w brzmieniu: „
 12.
-Stosowanie praktyk rolniczych korzystnych dla klimatu i środowiska w postaci dywersyfikacji upraw – utrzymywanie na gruntach ornych posiadanych w gospodarstwie co najmniej dwóch upraw w rozumieniu art. 44 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 – w przypadku gospodarstw rolnych, w których występuje nie więcej niż 10 ha gruntów ornych.
-” .
+Stosowanie praktyk rolniczych korzystnych dla klimatu i środowiska w postaci dywersyfikacji upraw – utrzymywanie na gruntach ornych posiadanych w gospodarstwie co najmniej dwóch upraw w rozumieniu art. 44 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 – w przypadku gospodarstw rolnych, w których występuje nie więcej niż 10 ha gruntów ornych. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 2 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 2 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2022/467 z dnia 23 marca 2022 r. przewidującego nadzwyczajną pomoc dostosowawczą dla producentów w sektorach rolnych (Dz. Urz. UE L 96 z 24.03.2022, str. 4). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262.
 

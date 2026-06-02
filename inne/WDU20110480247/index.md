@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-02-04 |
 | Data wydania | 2011-03-07 |
-| Wejście w życie | 2011-04-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110480247) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/247/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817, z 2010 r. Nr 43, poz. 246, Nr 164, poz. 1107, Nr 225, poz. 1466, Nr 247, poz. 1652 i Nr 249, poz. 1656 oraz z 2011 r. Nr 5, poz. 13 i Nr 30, poz. 151.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6: po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
     - **a)**
@@ -84,11 +83,13 @@ source: "eli-html"
 
 - **5)** w art. 92a w ust. 1 w pkt 3 na końcu dodaje się przecinek i dodaje się pkt 4 w brzmieniu: „
 - **4)** polegające na wykonywaniu przewozu okazjonalnego samochodem niespełniającym kryterium konstrukcyjnego określonego w art. 18 ust. 4a, z zastrzeżeniem przewozów, o których mowa w art. 18 ust. 4b ” ;
-- **6)** w załączniku do ustawy, w tabeli po lp. 2.9 dodaje się lp. 2.10 w brzmieniu: 2.10. Wykonywanie przewozu okazjonalnego samochodem niespełniającym kryterium konstrukcyjnego określonego w art. 18 ust. 4a, z zastrzeżeniem przewozów, o których mowa w art. 18 ust. 4b 15 000
+- **6)** w załączniku do ustawy, w tabeli po lp. 2.9 dodaje się lp. 2.10 w brzmieniu:
+
+2. 10. Wykonywanie przewozu okazjonalnego samochodem niespełniającym kryterium konstrukcyjnego określonego w art. 18 ust. 4a, z zastrzeżeniem przewozów, o których mowa w art. 18 ust. 4b 15 000
 
 **Art. 2.** Termin na przeprowadzenie egzaminów, co do których wnioski o ich przeprowadzenie złożone zostały przed dniem wejścia w życie ustawy, liczy się od dnia wejścia w życie ustawy.
 
 **Art. 3.** Przedsiębiorcy wykonujący do dnia wejścia w życie ustawy działalność gospodarczą w zakresie przewozu okazjonalnego mogą ją wykonywać, na dotychczasowych zasadach przez okres określony w licencji, nie dłużej jednak niż w okresie roku od dnia wejścia w życie ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4, który wchodzi w życie z dniem ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4, który wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817, z 2010 r. Nr 43, poz. 246, Nr 164, poz. 1107, Nr 225, poz. 1466, Nr 247, poz. 1652 i Nr 249, poz. 1656 oraz z 2011 r. Nr 5, poz. 13 i Nr 30, poz. 151.
 

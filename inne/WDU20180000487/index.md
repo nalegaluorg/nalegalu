@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 27 lutego 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 27 lutego 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-02-27 |
 | Data wydania | 2018-03-07 |
-| Wejście w życie | 2018-03-08 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000487) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/487/text.pdf) |
 
@@ -31,20 +30,15 @@ Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu roz
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 19 czerwca 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2017 r. poz. 1749) wprowadza się następujące zmiany:
 1)
-w § 2 pkt 4 otrzymuje brzmienie:
-„
+w § 2 pkt 4 otrzymuje brzmienie: „
 4)
-prawie do emerytury lub renty – rozumie się przez to prawo do emerytury lub renty na podstawie przepisów o ubezpieczeniu społecznym rolników lub o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, lub o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, lub o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, lub o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
-” ;
+prawie do emerytury lub renty – rozumie się przez to prawo do emerytury lub renty na podstawie przepisów o ubezpieczeniu społecznym rolników lub o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, lub o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, lub o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, lub o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin. ” ;
 2)
-w § 15 w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w § 15 w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-uprawniony do renty strukturalnej jest zatrudniony lub wykonuje inną pracę zarobkową podlegającą obowiązkowi ubezpieczenia społecznego, z wyjątkiem prowadzenia pozarolniczej działalności gospodarczej lub pełnienia funkcji członka rady nadzorczej,
-” .
+uprawniony do renty strukturalnej jest zatrudniony lub wykonuje inną pracę zarobkową podlegającą obowiązkowi ubezpieczenia społecznego, z wyjątkiem prowadzenia pozarolniczej działalności gospodarczej lub pełnienia funkcji członka rady nadzorczej, ” .
 § 2.
 Do postępowań w sprawach zawieszania rent strukturalnych w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, wszczętych i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 

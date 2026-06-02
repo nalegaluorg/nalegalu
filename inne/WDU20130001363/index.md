@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-19 |
 | Data wydania | 2013-11-22 |
-| Wejście w życie | 2013-11-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1363/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 111 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. Nr 30, poz. 151, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 111 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. Nr 30, poz. 151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 92, poz. 530, Nr 106, poz. 622, Nr 205, poz. 1210, Nr 227, poz. 1367 i Nr 244, poz. 1454, z 2012 r. poz. 113 oraz z 2013 r. poz. 82, 657, 700 i 829.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 maja 2013 r. w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne (Dz. U. poz. 603) uchyla się § 18–20.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 92, poz. 530, Nr 106, poz. 622, Nr 205, poz. 1210, Nr 227, poz. 1367 i Nr 244, poz. 1454, z 2012 r. poz. 113 oraz z 2013 r. poz. 82, 657, 700 i 829.
 

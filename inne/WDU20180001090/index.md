@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-13 |
 | Data wydania | 2018-06-06 |
-| Wejście w życie | 2018-06-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1090/text.pdf) |
 
@@ -58,7 +57,7 @@ source: "eli-html"
 2. Główny Geodeta Kraju odpowiada za kontakty z Komisją Europejską w sprawach określonych ustawą. ” ;
 
 - **4)** w załączniku do ustawy w rozdziale 1 pkt 7 otrzymuje brzmienie: „
-- **7)** sieci transportowe, rozumiane jako sieci transportu drogowego, kolejowego, lotniczego i wodnego, w tym morskiego, wraz z powiązaną z nimi infrastrukturą, obejmujące również połączenia między różnymi sieciami, łącznie z transeuropejską siecią transportową w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającego decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.); ” .
+- **7)** sieci transportowe, rozumiane jako sieci transportu drogowego, kolejowego, lotniczego i wodnego, w tym morskiego, wraz z powiązaną z nimi infrastrukturą, obejmujące również połączenia między różnymi sieciami, łącznie z transeuropejską siecią transportową w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającego decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 09.05.2014, str. 10, Dz. Urz. UE L 126 z 14.05.2016, str. 3 oraz Dz. Urz. UE L 128 z 19.05.2017, str. 1.; ” .
 
 **Art. 3.** Sprawy wszczęte od dnia 1 stycznia 2017 r. i niezakończone przed dniem wejścia w życie niniejszej ustawy przez ministra właściwego do spraw informatyzacji, w których właściwy, na mocy ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, staje się:
 
@@ -87,5 +86,5 @@ source: "eli-html"
 
 **Art. 7.** W celu wykonania przepisów ustawy Prezes Rady Ministrów dokona, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikających z ustawy budżetowej.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6 ust. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6 ust. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 09.05.2014, str. 10, Dz. Urz. UE L 126 z 14.05.2016, str. 3 oraz Dz. Urz. UE L 128 z 19.05.2017, str. 1.
 

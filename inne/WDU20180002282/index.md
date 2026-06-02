@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-09 |
 | Data wydania | 2018-12-07 |
-| Wejście w życie | 2018-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2282/text.pdf) |
 
@@ -33,7 +32,7 @@ source: "eli-html"
 1. Pracownik nadzorujący lub wykonujący czynności kontrolne składa pisemne oświadczenie o wykonywaniu przez osobę najbliższą:
 
 - **1)** działalności gospodarczej lub
-- **2)** czynności na podstawie stosunku pracy lub innej podstawie prawnej które mogą być przedmiotem kontroli prowadzonych przez organy Państwowej Inspekcji Pracy.
+- **2)** czynności na podstawie stosunku pracy lub innej podstawie prawnej – które mogą być przedmiotem kontroli prowadzonych przez organy Państwowej Inspekcji Pracy.
 
 2. Przez osobę najbliższą, o której mowa w ust. 1, rozumie się osoby wymienione w art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2018 r. poz. 1600 i 2077).
 

@@ -39,28 +39,22 @@ rozporządzeniem Ministra Zdrowia z dnia 18 marca 2021 r. zmieniającym rozporz�
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 21 grudnia 2006 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. z 2007 r. poz. 10), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 21 grudnia 2006 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. z 2007 r. poz. 10), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 3 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 585), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 3 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 585), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 18 marca 2021 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 511), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 18 marca 2021 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 511), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 7 grudnia 2001 r. w sprawie postępowania ze zwłokami i szczątkami ludzkimi
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 7 grudnia 2001 r. w sprawie postępowania ze zwłokami i szczątkami ludzkimiMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 Na podstawie art. 20 ust. 3 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2020 r. poz. 1947) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa pojęcie zwłok, sposób postępowania ze zwłokami i szczątkami, warunki ekshumacji oraz przewozu zwłok i szczątków.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 21 grudnia 2006 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. z 2007 r. poz. 10), które weszło w życie z dniem 20 stycznia 2007 r..
 Za zwłoki uważa się ciała osób zmarłych i dzieci martwo urodzonych, bez względu na czas trwania ciąży.
 § 3.
 1.
@@ -90,7 +84,7 @@ dotykanie zwłok jest niedozwolone poza czynnościami związanymi z obmyciem, ub
 do obmywania zwłok używa się płynu dezynfekcyjnego;
 3)
 niezwłocznie po złożeniu zwłok w trumnie, trumnę zamyka się szczelnie i obmywa z zewnątrz płynem dezynfekcyjnym.
-§ 5a.
+§ 5aDodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 3 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 585), które weszło w życie z dniem 4 kwietnia 2020 r..
 1.
 W przypadku zwłok osób zmarłych na chorobę wywołaną wirusem SARS-CoV-2 (COVID-19) należy:
 1)
@@ -117,12 +111,12 @@ niezwłocznie po złożeniu zwłok w trumnie lub kapsule transportowej trumnę l
 transport zwłok, jeżeli jest to możliwe, prowadzić jednym zespołem przewozowym.
 2.
 Pomieszczenia, w których osoba zmarła przebywała, oraz wszystkie przedmioty, z którymi była w styczności, poddaje się odkażaniu.
-§ 5b.
+§ 5bDodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 3 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 585), które weszło w życie z dniem 4 kwietnia 2020 r..
 1.
 Czynności, o których mowa w § 5a ust. 1 pkt 1–5, w przypadku zgonu w szpitalu są wykonywane przez osoby zatrudnione przez szpital, a w przypadku zgonu poza szpitalem przez odpowiednio przeszkolone osoby zatrudnione w zakładach pogrzebowych.
 2.
 Czynności, o których mowa w § 5a ust. 1 pkt 6–9, są wykonywane przez odpowiednio przeszkolone osoby zatrudnione w zakładach pogrzebowych.
-§ 5c.
+§ 5cDodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 3 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 585), które weszło w życie z dniem 4 kwietnia 2020 r..
 1.
 Osoby bezpośrednio zaangażowane w proces dekontaminacji ciała i jego otoczenia oraz przygotowania do przewozu zwłok zmarłego zakażonego wirusem SARS-CoV-2 oraz mające bezpośredni kontakt ze zwłokami są zabezpieczane w następujące środki ochrony indywidualnej:
 1)
@@ -140,7 +134,7 @@ jednorazowe rękawice nitrylowe (optymalnie długie).
 W trumnie przeznaczonej dla zwłok osoby dorosłej składa się zwłoki tylko jednej osoby dorosłej albo zwłoki matki z dzieckiem nowo narodzonym lub zwłoki dwojga dzieci w wieku do 6 lat. Trumna musi mieć dno i ściany boczne nieprzepuszczalne oraz szczelnie przylegające wieko. Zwłoki składa się w trumnie na warstwie substancji płynochłonnej o grubości 5 cm.
 2.
 Po złożeniu zwłok w trumnie i przymocowaniu wieka trumny nie wolno otwierać.
-3.
+3Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 18 marca 2021 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 511), które weszło w życie z dniem 20 marca 2021 r..
 Zakaz, o którym mowa w ust. 2, nie dotyczy otwarcia w krematorium trumny ze zwłokami sprowadzonymi z zagranicy na terytorium Rzeczypospolitej Polskiej, które będą podlegały spopieleniu, celem ich pochowania na terytorium Rzeczypospolitej Polskiej.
 § 7.
 Zwłoki dzieci martwo urodzonych są chowane przez osoby uprawnione, o których mowa w art. 10 ust. 1 ustawy; na wniosek osób uprawnionych zwłoki te mogą być spopielone przez zakłady opieki zdrowotnej dysponujące odpowiednimi urządzeniami do tego celu.
@@ -152,8 +146,7 @@ popiołami powstałymi w wyniku spopielenia zwłok,
 2)
 pozostałościami zwłok, wydobytych przy kopaniu grobu lub w innych okolicznościach,
 3)
-częściami ciała ludzkiego, odłączonymi od całości
-stosuje się odpowiednio przepisy dotyczące postępowania ze zwłokami, z zastrzeżeniem ust. 2–6.
+częściami ciała ludzkiego, odłączonymi od całości – stosuje się odpowiednio przepisy dotyczące postępowania ze zwłokami, z zastrzeżeniem ust. 2–6.
 2.
 Do pochowania szczątków, o których mowa w ust. 1 pkt 1, wymagana jest karta zgonu, z zastrzeżeniem ust. 3.
 3.
@@ -208,6 +201,5 @@ O zamierzonej ekshumacji na cmentarzu zawiadamia się na piśmie zarząd cmentar
 § 13.
 W zakresie uregulowanym niniejszym rozporządzeniem traci moc rozporządzenie Ministrów Gospodarki Terenowej i Ochrony Środowiska oraz Zdrowia i Opieki Społecznej z dnia 20 października 1972 r. w sprawie urządzania cmentarzy, prowadzenia ksiąg cmentarnych oraz chowania zmarłych (Dz. U. poz. 299).
 § 14.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 21 grudnia 2006 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. z 2007 r. poz. 10), które weszło w życie z dniem 20 stycznia 2007 r. 3) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 3 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 585), które weszło w życie z dniem 4 kwietnia 2020 r. 4) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 18 marca 2021 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 511), które weszło w życie z dniem 20 marca 2021 r. 5) Rozporządzenie zostało ogłoszone w dniu 28 grudnia 2001 r.
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 28 grudnia 2001 r.. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 21 grudnia 2006 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. z 2007 r. poz. 10), które weszło w życie z dniem 20 stycznia 2007 r. 3) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 3 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 585), które weszło w życie z dniem 4 kwietnia 2020 r. 4) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 18 marca 2021 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 511), które weszło w życie z dniem 20 marca 2021 r. 5) Rozporządzenie zostało ogłoszone w dniu 28 grudnia 2001 r.
 

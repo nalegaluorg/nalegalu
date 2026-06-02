@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 27 czerwca 2019 r. w sprawie przedłużenia terminu do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków
+# Rozporządzenie Ministra Finansówz dnia 27 czerwca 2019 r. w sprawie przedłużenia terminu do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-27 |
 | Data wydania | 2019-06-28 |
-| Wejście w życie | 2019-06-29 |
 | Ostatnia zmiana | 2025-09-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1204/text.pdf) |
 
@@ -30,7 +29,7 @@ Treść rozporządzenia
 Na podstawie art. 50 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, 924 i 1018) zarządza się, co następuje:
 § 1.
 1.
-Przedłuża się termin do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków, o którym mowa w art. 30da ust. 14 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.), do:
+Przedłuża się termin do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków, o którym mowa w art. 30da ust. 14 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271, 303, 752 i 1018.), do:
 1)
 7 dnia miesiąca następującego po miesiącu, w którym podatnik utracił w całości lub w części składnik majątku będący przedmiotem opodatkowania tym podatkiem – w przypadku gdy utrata w całości lub w części tego składnika majątku nastąpiła przed dniem 1 grudnia 2021 r.;
 2)
@@ -42,6 +41,5 @@ W przypadku gdy podatnik utracił w danym miesiącu część składnika majątku
 4.
 Przez utratę składnika majątku rozumie się zbycie składnika majątku, realizację praw wynikających z praw pochodnych lub pochodnych instrumentów finansowych lub inne zdarzenie, skutkujące utratą własności lub prawa do składnika majątku.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271, 303, 752 i 1018.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271, 303, 752 i 1018.
 

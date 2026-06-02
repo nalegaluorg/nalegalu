@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-01 |
 | Data wydania | 2013-08-22 |
-| Wejście w życie | 2013-08-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000953) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/953/text.pdf) |
 
@@ -35,37 +34,27 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 16 października 2009 
 1)
 w § 3:
 a)
-w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-określonych w załączniku nr 1 do rozporządzenia;
-” ,
+określonych w załączniku nr 1 do rozporządzenia; ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-W przypadku przyznania pomocy technicznej do kosztów kwalifikowalnych zalicza się również koszty poniesione przed dniem zawarcia umowy o dofinansowanie, lecz nie wcześniej niż 18 miesięcy przed dniem złożenia wniosku o dofinansowanie.
-” ,
+W przypadku przyznania pomocy technicznej do kosztów kwalifikowalnych zalicza się również koszty poniesione przed dniem zawarcia umowy o dofinansowanie, lecz nie wcześniej niż 18 miesięcy przed dniem złożenia wniosku o dofinansowanie. ” ,
 c)
-dodaje się ust. 3 i 4 w brzmieniu:
-„
+dodaje się ust. 3 i 4 w brzmieniu: „
 3.
 Pomoc techniczna jest przyznawana poszczególnym podmiotom realizującym program operacyjny „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” do wysokości limitu stanowiącego równowartość w złotych kwoty euro określonej w załączniku nr 2 do rozporządzenia.
 4.
-W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych nie zostało uwzględnione w odrębnej ewidencji księgowej oraz w dokumentacji finansowo-księgowej, prowadzonych zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330 i 613), koszty te podlegają zwrotowi w wysokości określonej w ust. 1 pkt 1, pomniejszonej o 10%.
-” ;
+W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych nie zostało uwzględnione w odrębnej ewidencji księgowej oraz w dokumentacji finansowo-księgowej, prowadzonych zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330 i 613), koszty te podlegają zwrotowi w wysokości określonej w ust. 1 pkt 1, pomniejszonej o 10%. ” ;
 2)
-w § 4 po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w § 4 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Wniosek o dofinansowanie składa się do dnia 31 marca 2015 r.
-” ;
+Wniosek o dofinansowanie składa się do dnia 31 marca 2015 r. ” ;
 3)
-w § 5 ust. 1 otrzymuje brzmienie:
-„
+w § 5 ust. 1 otrzymuje brzmienie: „
 1.
-Wniosek o dofinansowanie rozpatruje się w terminie 60 dni od dnia jego wpływu.
-” ;
+Wniosek o dofinansowanie rozpatruje się w terminie 60 dni od dnia jego wpływu. ” ;
 4)
 użyte w § 4 ust. 3, § 11 ust. 2 i w § 16 ust. 2 wyrazy „operatora publicznego” zastępuje się wyrazami „operatora wyznaczonego”;
 5)

@@ -33,10 +33,9 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 14 i art. 15 ustawy z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19 (Dz. U. poz. 1068), które stanowią:
-„
+art. 14 i art. 15 ustawy z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19 (Dz. U. poz. 1068), które stanowią: „
 
-**Art. 14.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695, 875 i 1065.) po art. 52u dodaje się art. 52ua w brzmieniu: „ Art. 52ua. Zwalnia się od podatku dochodowego kwoty dodatku solidarnościowego, o którym mowa w ustawie z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19 (Dz. U. poz. 1068). ” .
+**Art. 14.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.a)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695, 875 i 1065.) po art. 52u dodaje się art. 52ua w brzmieniu: „ Art. 52ua. Zwalnia się od podatku dochodowego kwoty dodatku solidarnościowego, o którym mowa w ustawie z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19 (Dz. U. poz. 1068). ” .
 
 **Art. 15.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2019 r. poz. 1482, 1622, 1818 i 2473 oraz z 2020 r. poz. 278 i 1065) wprowadza się następujące zmiany:
 
@@ -54,14 +53,13 @@ art. 14 i art. 15 ustawy z dnia 19 czerwca 2020 r. o dodatku solidarnościowym p
 
 - **1)** art. 3 pkt 1, który wchodzi w życie z dniem 1 lipca 2021 r.;
 - **2)** art. 1, który wchodzi w życie z dniem 1 grudnia 2021 r.;
-- **3)** art. 7, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19
-    - **a)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695, 875 i 1065.
+- **3)** art. 7, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. ” . a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695, 875 i 1065. Załącznik – Tekst jednolity ustawy z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19
 
 **Art. 1.**
 
 1. Ustawa określa warunki nabywania prawa, wysokość, tryb przyznawania oraz zasady wypłacania i finansowania dodatku solidarnościowego.
 
-2. Celem dodatku solidarnościowego jest przeciwdziałanie negatywnym skutkom COVID-19 w rozumieniu art. 2 ust. 2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2020 r. poz. 1842, z późn. zm.), poprzez wsparcie finansowe osób, które straciły źródło przychodu ze względu na sytuację gospodarczą spowodowaną kryzysem wywołanym COVID-19.
+2. Celem dodatku solidarnościowego jest przeciwdziałanie negatywnym skutkom COVID-19 w rozumieniu art. 2 ust. 2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2020 r. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023, 1090, 1162, 1163, 1192, 1510, 1535 i 1777.), poprzez wsparcie finansowe osób, które straciły źródło przychodu ze względu na sytuację gospodarczą spowodowaną kryzysem wywołanym COVID-19.
 
 **Art. 2.** Dodatek solidarnościowy przysługuje osobom mającym miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, jeżeli są:
 
@@ -74,7 +72,7 @@ art. 14 i art. 15 ustawy z dnia 19 czerwca 2020 r. o dodatku solidarnościowym p
 1. Dodatek solidarnościowy przysługuje osobie, która w 2020 r. podlegała ubezpieczeniom społecznym z tytułu stosunku pracy na podstawie ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, 432, 619, 1621, 1834 i 1981) przez łączny okres co najmniej 60 dni oraz:
 
 - **1)** z którą po dniu 15 marca 2020 r. pracodawca rozwiązał umowę o pracę za wypowiedzeniem lub
-- **2)** której umowa o pracę po dniu 15 marca 2020 r. uległa rozwiązaniu z upływem czasu, na który była zawarta zwanej dalej „osobą uprawnioną”.
+- **2)** której umowa o pracę po dniu 15 marca 2020 r. uległa rozwiązaniu z upływem czasu, na który była zawarta – zwanej dalej „osobą uprawnioną”.
 
 2. Dodatek solidarnościowy przysługuje osobie uprawnionej, która nie podlega ubezpieczeniom społecznym na podstawie ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ubezpieczeniu społecznemu rolników na podstawie ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2021 r. poz. 266, 1535 i 1621) lub obowiązkowi ubezpieczenia zdrowotnego na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, 1292, 1559, 1773, 1834 i 1981).
 
@@ -177,7 +175,7 @@ art. 14 i art. 15 ustawy z dnia 19 czerwca 2020 r. o dodatku solidarnościowym p
 
 **Art. 9.**
 
-1. Dodatek solidarnościowy oraz koszty obsługi wypłaty tego dodatku są finansowane ze środków Funduszu Pracy, zasilanego z Funduszu, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.) lub w formie dotacji z budżetu państwa.
+1. Dodatek solidarnościowy oraz koszty obsługi wypłaty tego dodatku są finansowane ze środków Funduszu Pracy, zasilanego z Funduszu, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255 oraz z 2021 r. poz. 1535.) lub w formie dotacji z budżetu państwa.
 
 2. Koszty obsługi, o których mowa w ust. 1, wynoszą 1% kwoty przeznaczonej na wypłatę dodatku solidarnościowego.
 
@@ -202,15 +200,7 @@ art. 14 i art. 15 ustawy z dnia 19 czerwca 2020 r. o dodatku solidarnościowym p
 
 **Art. 13.**
 
-1. Dodatek solidarnościowy jest dochodem w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2020 r. poz. 111 oraz z 2021 r. poz. 1162 i 1981).
-
-2. Utrata dodatku solidarnościowego stanowi utratę dochodu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych i jest uwzględniana przy ustalaniu prawa do świadczeń rodzinnych na okresy zasiłkowe od dnia 1 listopada 2019 r. do dnia 31 października 2022 r.
-
-3. Uzyskanie dodatku solidarnościowego stanowi uzyskanie dochodu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych i jest uwzględniane przy ustalaniu prawa do świadczeń rodzinnych na okresy zasiłkowe od dnia 1 listopada 2019 r. do dnia 31 października 2022 r.
-
-4. Utrata dodatku solidarnościowego stanowi utratę dochodu w rozumieniu ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2021 r. poz. 877, 1162 i 1981) i jest uwzględniana przy ustalaniu prawa do świadczeń z funduszu alimentacyjnego na okresy świadczeniowe od dnia 1 października 2019 r. do dnia 30 września 2022 r.
-
-5. Uzyskanie dodatku solidarnościowego stanowi uzyskanie dochodu w rozumieniu ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów i jest uwzględniane przy ustalaniu prawa do świadczeń z funduszu alimentacyjnego na okresy świadczeniowe od dnia 1 października 2019 r. do dnia 30 września 2022 r. (pominięty) (pominięty)
+1. Dodatek solidarnościowy jest dochodem w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2020 r. poz. 111 oraz z 2021 r. poz. 1162 i 1981). 2W brzmieniu ustalonym przez art. 11 ustawy z dnia 24 czerwca 2021 r. o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny (Dz. U. poz. 1162), która weszła w życie z dniem 13 lipca 2021 r.. Utrata dodatku solidarnościowego stanowi utratę dochodu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych i jest uwzględniana przy ustalaniu prawa do świadczeń rodzinnych na okresy zasiłkowe od dnia 1 listopada 2019 r. do dnia 31 października 2022 r. 3W brzmieniu ustalonym przez art. 11 ustawy z dnia 24 czerwca 2021 r. o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny (Dz. U. poz. 1162), która weszła w życie z dniem 13 lipca 2021 r.. Uzyskanie dodatku solidarnościowego stanowi uzyskanie dochodu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych i jest uwzględniane przy ustalaniu prawa do świadczeń rodzinnych na okresy zasiłkowe od dnia 1 listopada 2019 r. do dnia 31 października 2022 r. 4W brzmieniu ustalonym przez art. 11 ustawy z dnia 24 czerwca 2021 r. o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny (Dz. U. poz. 1162), która weszła w życie z dniem 13 lipca 2021 r.. Utrata dodatku solidarnościowego stanowi utratę dochodu w rozumieniu ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2021 r. poz. 877, 1162 i 1981) i jest uwzględniana przy ustalaniu prawa do świadczeń z funduszu alimentacyjnego na okresy świadczeniowe od dnia 1 października 2019 r. do dnia 30 września 2022 r. 5W brzmieniu ustalonym przez art. 11 ustawy z dnia 24 czerwca 2021 r. o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny (Dz. U. poz. 1162), która weszła w życie z dniem 13 lipca 2021 r.. Uzyskanie dodatku solidarnościowego stanowi uzyskanie dochodu w rozumieniu ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów i jest uwzględniane przy ustalaniu prawa do świadczeń z funduszu alimentacyjnego na okresy świadczeniowe od dnia 1 października 2019 r. do dnia 30 września 2022 r. (pominięty)Zamieszczony w obwieszczeniu. (pominięty)Zamieszczony w obwieszczeniu.
 
 **Art. 16.**
 
@@ -218,5 +208,5 @@ art. 14 i art. 15 ustawy z dnia 19 czerwca 2020 r. o dodatku solidarnościowym p
 
 2. Osoby, będące w dniu wejścia w życie niniejszej ustawy w okresie nieprzysługiwania zasiłku dla bezrobotnych, o którym mowa w art. 75 ust. 1 i 2 ustawy zmienianej w art. 15, nabywają po upływie tego okresu prawo do zasiłku w wysokości określonej w art. 72 ust. 1 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 17.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 15 pkt 2 i art. 16, które wchodzą w życie z dniem 1 września 2020 r.
+**Art. 17.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszeniaUstawa została ogłoszona w dniu 20 czerwca 2020 r., z wyjątkiem art. 15 pkt 2 i art. 16, które wchodzą w życie z dniem 1 września 2020 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023, 1090, 1162, 1163, 1192, 1510, 1535 i 1777. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255 oraz z 2021 r. poz. 1535. 3) W brzmieniu ustalonym przez art. 11 ustawy z dnia 24 czerwca 2021 r. o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny (Dz. U. poz. 1162), która weszła w życie z dniem 13 lipca 2021 r. 4) Zamieszczony w obwieszczeniu. 5) Ustawa została ogłoszona w dniu 20 czerwca 2020 r.
 

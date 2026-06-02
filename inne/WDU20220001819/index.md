@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia dla mikro-, małych i średnich przedsiębiorstw na wykonywanie działalności w zakresie przetwórstwa lub wprowadzania do obrotu produktów rolnych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia dla mikro-, małych i średnich przedsiębiorstw na wykonywanie działalności w zakresie przetwórstwa lub wprowadzania do obrotu produktów rolnych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-25 |
 | Data wydania | 2022-08-30 |
-| Wejście w życie | 2022-08-31 |
 | Ostatnia zmiana | 2026-04-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001819) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1819/text.pdf) |
 
@@ -46,7 +45,7 @@ b)
 obiektów infrastruktury towarzyszącej związanej z wykonywaną działalnością w zakresie przetwórstwa lub wprowadzania do obrotu produktów rolnych, rybołówstwa lub akwakultury oraz gospodarowania odpadami i ochroną środowiska.
 § 3.
 1.
-Wsparcie może być udzielone osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, która posiada status mikro-, małego lub średniego przedsiębiorstwa w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 702/2014”, jeżeli:
+Wsparcie może być udzielone osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, która posiada status mikro-, małego lub średniego przedsiębiorstwa w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15., zwanego dalej „rozporządzeniem nr 702/2014”, jeżeli:
 1)
 wykonuje na terytorium Rzeczypospolitej Polskiej działalność w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, rybołówstwa lub akwakultury objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej lub działalność w zakresie wytwarzania produktów będących wynikiem tego przetwarzania, niebędącą działalnością wymienioną w załączniku do rozporządzenia;
 2)
@@ -67,11 +66,11 @@ Wsparcie stanowi pomoc publiczną udzielaną zgodnie:
 1)
 z warunkami określonymi w przepisach rozporządzenia:
 a)
-Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.) albo
+Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236, z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.) albo
 b)
 nr 702/2014, albo
 c)
-Komisji (UE) nr 1388/2014 z dnia 16 grudnia 2014 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 369 z 24.12.2014, str. 37, z późn. zm.);
+Komisji (UE) nr 1388/2014 z dnia 16 grudnia 2014 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 369 z 24.12.2014, str. 37, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 414 z 09.12.2020, str. 15.);
 2)
 z przepisami ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
 § 6.
@@ -185,8 +184,7 @@ W przypadku złożenia przez wnioskodawcę w ramach naboru więcej niż jednego 
 § 15.
 Zabezpieczeniem należytego wykonania przez przedsiębiorcę objętego wsparciem zobowiązań określonych w umowie o objęcie przedsięwzięcia wsparciem jest weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez Agencję.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236, z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 414 z 09.12.2020, str. 15.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236, z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 414 z 09.12.2020, str. 15.
 Załącznik – Rodzaje działalności gospodarczej wyłączone ze wsparcia
 Nr Kod działalności zgodnie z Polską Klasyfikacją Działalności Nazwa działalności zgodnie z Polską Klasyfikacją Działalności 1 11.01.Z Destylowanie, rektyfikowanie i mieszanie alkoholi – z wyjątkiem produkcji alkoholu etylowego, po przetworzeniu przeznaczonego do spożycia 2 11.04.Z Produkcja pozostałych niedestylowanych napojów fermentowanych 3 11.05.Z Produkcja piwa 4 12.00.Z Produkcja wyrobów tytoniowych
 

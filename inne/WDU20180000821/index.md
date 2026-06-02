@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-24 |
 | Data wydania | 2018-04-30 |
-| Wejście w życie | 2018-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000821) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/821/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 6 ust. 3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 6 ust. 3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 443 i 943, z 1998 r. poz. 860, z 2006 r. poz. 1592, z 2007 r. poz. 162, z 2010 r. poz. 1228, z 2012 r. poz. 908 oraz z 2018 r. poz. 106, 138 i 650.) zarządza się, co następuje:
 § 1.
 W urzędzie obsługującym ministra właściwego do spraw wewnętrznych mogą być zatrudniani oddelegowani funkcjonariusze Policji, Straży Granicznej, Służby Ochrony Państwa lub strażacy Państwowej Straży Pożarnej na stanowiskach:
 1)
@@ -63,5 +62,5 @@ referendarza;
 16)
 podreferendarza.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 23 stycznia 2018 r. w sprawie stanowisk w urzędzie obsługującym ministra właściwego do spraw wewnętrznych, na których mogą być zatrudniani oddelegowani funkcjonariusze Policji, Straży Granicznej, Biura Ochrony Rządu lub strażacy Państwowej Straży Pożarnej (Dz. U. poz. 220), które utraciło moc z dniem wejścia w życie ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730). 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 443 i 943, z 1998 r. poz. 860, z 2006 r. poz. 1592, z 2007 r. poz. 162, z 2010 r. poz. 1228, z 2012 r. poz. 908 oraz z 2018 r. poz. 106, 138 i 650. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 23 stycznia 2018 r. w sprawie stanowisk w urzędzie obsługującym ministra właściwego do spraw wewnętrznych, na których mogą być zatrudniani oddelegowani funkcjonariusze Policji, Straży Granicznej, Biura Ochrony Rządu lub strażacy Państwowej Straży Pożarnej (Dz. U. poz. 220), które utraciło moc z dniem wejścia w życie ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730).
 

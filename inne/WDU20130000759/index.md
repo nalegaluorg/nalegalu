@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 20 czerwca 2013 r. w sprawie charakterystyki odpadów wydobywczych
+# Rozporządzenie Ministra Środowiskaz dnia 20 czerwca 2013 r. w sprawie charakterystyki odpadów wydobywczych Niniejsze rozporządzenie zapewnia wykonanie decyzji Komisji 2009/360/WE z dnia 30 kwietnia 2009 r. uzupełniającej wymogi techniczne w odniesieniu do charakterystyki odpadów ustanowionej dyrektywą 2006/21/WE Parlamentu Europejskiego i Rady w sprawie gospodarowania odpadami pochodzącymi z przemysłu wydobywczego (Dz. Urz. UE L 110 z 01.05.2009, str. 48).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-20 |
 | Data wydania | 2013-07-01 |
-| Wejście w życie | 2013-07-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000759) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/759/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Szczegółowy zakres charakterystyki odpadów wydobywczych
 Treść rozporządzenia
-Na podstawie art. 9 ust. 5 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 9 ust. 5 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 145, z 2011 r. Nr 163, poz. 981, z 2012 r. poz. 1513 oraz z 2013 r. poz. 21.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -58,11 +57,11 @@ Próbki odpadów wydobywczych pobiera się zgodnie z planem, o którym mowa w us
 6.
 Wyniki badań pobranych próbek odpadów wydobywczych ocenia się pod względem ich wiarygodności i jakości.
 7.
-W przypadku wyników badań dotyczących właściwości geotechnicznych i geochemicznych odpadów wydobywczych ocena, o której mowa w ust. 2 i 6, polega na sprawdzeniu, czy badania te zostały przeprowadzone przez laboratoria, o których mowa w art. 147a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.).
+W przypadku wyników badań dotyczących właściwości geotechnicznych i geochemicznych odpadów wydobywczych ocena, o której mowa w ust. 2 i 6, polega na sprawdzeniu, czy badania te zostały przeprowadzone przez laboratoria, o których mowa w art. 147a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341, z 2012 r. poz. 460, 951, 1342 i 1513 oraz z 2013 r. poz. 21, 139 i 165.).
 § 3.
 Szczegółowy zakres charakterystyki odpadów wydobywczych określa załącznik do rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie zapewnia wykonanie decyzji Komisji 2009/360/WE z dnia 30 kwietnia 2009 r. uzupełniającej wymogi techniczne w odniesieniu do charakterystyki odpadów ustanowionej dyrektywą 2006/21/WE Parlamentu Europejskiego i Rady w sprawie gospodarowania odpadami pochodzącymi z przemysłu wydobywczego (Dz. Urz. UE L 110 z 01.05.2009, str. 48). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 145, z 2011 r. Nr 163, poz. 981, z 2012 r. poz. 1513 oraz z 2013 r. poz. 21. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341, z 2012 r. poz. 460, 951, 1342 i 1513 oraz z 2013 r. poz. 21, 139 i 165.
 Załącznik – Szczegółowy zakres charakterystyki odpadów wydobywczych
 1.
 Informacje ogólne Opis obejmuje informacje na temat:
@@ -131,6 +130,5 @@ przewidywane zmiany składu chemicznego odcieku w czasie dla każdego rodzaju od
 – ocenę wymywalności metali, soli i anionów zawierających tlen w czasie przy pomocy: testu wymywalności w zależności od odczynu (pH), testu perkolacyjnego, badania uwalniania w czasie lub innych odpowiednich badań,
 – w przypadku odpadów wydobywczych zawierających siarczki przeprowadza się badania statyczne lub kinetyczne w celu ustalenia powstawania kwaśnych odcieków (ADR) i wymywalności metalu w czasie.
 6.
-Dodatkowe informacje, które mogą wpłynąć na zakres charakterystyki odpadów wydobywczych, o ile gromadzenie ich jest konieczne do jej sporządzenia.
-Objaśnienie: *) Charakterystyka odpadów wydobywczych uznanych za odpady wydobywcze obojętne, zgodnie z przepisami wydanymi na podstawie art. 3 ust. 2 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.) obejmuje wyłącznie informacje, o których mowa w lit. a.
+Dodatkowe informacje, które mogą wpłynąć na zakres charakterystyki odpadów wydobywczych, o ile gromadzenie ich jest konieczne do jej sporządzenia. Objaśnienie: *) Charakterystyka odpadów wydobywczych uznanych za odpady wydobywcze obojętne, zgodnie z przepisami wydanymi na podstawie art. 3 ust. 2 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865, z późn. zm.) obejmuje wyłącznie informacje, o których mowa w lit. a.
 

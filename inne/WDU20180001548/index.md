@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-09 |
 | Data wydania | 2018-08-10 |
-| Wejście w życie | 2018-08-12 |
 | Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1548/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 78 § 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 78 § 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000, 1045, 1443 i 1544.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -118,5 +117,5 @@ podróży służbowej, z tytułu której sędzia otrzymał diety w pełnej wysok
 6)
 pobytu w szpitalu.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 12 sierpnia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 12 sierpnia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 18 czerwca 2009 r. w sprawie delegowania sędziów do Ministerstwa Sprawiedliwości i Krajowej Szkoły Sądownictwa i Prokuratury oraz świadczeń przysługujących sędziom delegowanym poza stałe miejsce pełnienia służby (Dz. U. z 2018 r. poz. 1292), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 22 ustawy z dnia 12 lipca 2017 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1452). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000, 1045, 1443 i 1544. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 18 czerwca 2009 r. w sprawie delegowania sędziów do Ministerstwa Sprawiedliwości i Krajowej Szkoły Sądownictwa i Prokuratury oraz świadczeń przysługujących sędziom delegowanym poza stałe miejsce pełnienia służby (Dz. U. z 2018 r. poz. 1292), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 22 ustawy z dnia 12 lipca 2017 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1452).
 

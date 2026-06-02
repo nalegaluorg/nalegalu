@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-31 |
 | Data wydania | 2022-09-07 |
-| Wejście w życie | 2022-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001889) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1889/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich ze schronisk Rozdział 3 – Szczegółowe warunki pobytu nieletnich w schroniskach Rozdział 4 – Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 320 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -47,6 +47,7 @@ ustawie – rozumie się przez to ustawę z dnia 9 czerwca 2022 r. o wspieraniu 
 schronisku – rozumie się przez to schronisko dla nieletnich;
 4)
 terenie schroniska – rozumie się przez to teren, który ogranicza zewnętrzna linia ogrodzenia ochronnego lub innego oznaczenia granic schroniska dla nieletnich.
+Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich ze schronisk
 § 3.
 1.
 Niezwłocznie po wydaniu orzeczenia o zastosowaniu wobec nieletniego środka tymczasowego, o którym mowa w art. 44 pkt 8 ustawy, sędzia przesyła do Ministerstwa Sprawiedliwości pisemny wniosek o skierowanie nieletniego do schroniska, do którego dołącza odpis orzeczenia o zastosowaniu wobec nieletniego środka tymczasowego, o którym mowa w art. 44 pkt 8 ustawy.
@@ -151,6 +152,7 @@ organ prowadzący postępowanie;
 Ministerstwo Sprawiedliwości;
 4)
 rodziców albo tego z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekuna nieletniego.
+Szczegółowe warunki pobytu nieletnich w schroniskach
 § 16.
 1.
 W schronisku prowadzi się oddziaływania wychowawcze ukierunkowane na rozpoczęcie procesu resocjalizacji.
@@ -185,6 +187,7 @@ dokumenty dotyczące wykształcenia, zawodu, kwalifikacji i umiejętności zawod
 zaświadczenie o stanie zdrowia;
 3)
 w razie potrzeby bilet na przejazd, artykuły żywnościowe na czas podróży oraz skierowanie na leczenie, jeśli takie jest zalecenie lekarskie.
+Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych
 § 24.
 1.
 Dyrektor schroniska zawiera z duchownym kościoła lub innego związku wyznaniowego, do którego nieletni należy, umowę w celu zapewnienia nieletniemu możliwości wykonywania praktyk religijnych i korzystania z posług religijnych podczas pobytu w schronisku.
@@ -201,16 +204,27 @@ ochrony danych osobowych.
 Dyrektor schroniska może cofnąć duchownemu lub osobom go zastępującym prawo wstępu na teren schroniska w przypadku rażącego naruszenia przez nich przepisów, o których mowa w ust. 1, powiadamiając o tym właściwe władze kościołów lub innych związków wyznaniowych.
 § 26.
 Dyrektor schroniska podejmuje niezbędne czynności w celu zapewnienia odpowiednich warunków do wykonywania praktyk religijnych i posług religijnych oraz korzystania z tych posług, a także zasięga opinii duchownego w sprawie organizacji posług religijnych.
+Przepis końcowy
 § 27.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 października 2001 r. w sprawie zakładów poprawczych i schronisk dla nieletnich (Dz. U. z 2017 r. poz. 487) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 14 września 2001 r. w sprawie szczegółowych zasad uczestniczenia w lekcjach religii i praktykach religijnych, korzystania z posług religijnych i organizacji pracy duszpasterskiej w zakładach poprawczych i schroniskach dla nieletnich (Dz. U. poz. 1157), które utraciły moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 października 2001 r. w sprawie zakładów poprawczych i schronisk dla nieletnich (Dz. U. z 2017 r. poz. 487) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 14 września 2001 r. w sprawie szczegółowych zasad uczestniczenia w lekcjach religii i praktykach religijnych, korzystania z posług religijnych i organizacji pracy duszpasterskiej w zakładach poprawczych i schroniskach dla nieletnich (Dz. U. poz. 1157), które utraciły moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich ze schronisk
+#### Rozdział 2 – Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich ze schronisk
 
-#### Rozdział 3 Szczegółowe warunki pobytu nieletnich w schroniskach
+#### Rozdział 3 – Szczegółowe warunki pobytu nieletnich w schroniskach
 
-#### Rozdział 4 Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych
+#### Rozdział 4 – Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

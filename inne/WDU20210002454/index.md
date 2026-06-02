@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 20 grudnia 2021 r. w sprawie szczegółowego zakresu i formy dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych oraz programu funkcjonalno-użytkowego
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 20 grudnia 2021 r. w sprawie szczegółowego zakresu i formy dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych oraz programu funkcjonalno-użytkowego Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 1945).
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-20 |
 | Data wydania | 2021-12-29 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2454/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zakres i forma dokumentacji projektowej Rozdział 3 – Zakres i forma specyfikacji technicznych wykonania i odbioru robót budowlanych Rozdział 4 – Zakres i forma programu funkcjonalno-użytkowego Rozdział 5 – Przepis przejściowy i przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 103 ust. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, 1598, 2054 i 2269) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-grupach, klasach, kategoriach robót – należy przez to rozumieć grupy, klasy, kategorie określone w rozporządzeniu (WE) nr 2195/2002 Parlamentu Europejskiego i Rady z dnia 5 listopada 2002 r. w sprawie Wspólnego Słownika Zamówień (CPV) (Dz. Urz. WE L 340 z 16.12.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 5, str. 3, z późn. zm.), zwanym dalej „Wspólnym Słownikiem Zamówień”;
+grupach, klasach, kategoriach robót – należy przez to rozumieć grupy, klasy, kategorie określone w rozporządzeniu (WE) nr 2195/2002 Parlamentu Europejskiego i Rady z dnia 5 listopada 2002 r. w sprawie Wspólnego Słownika Zamówień (CPV) (Dz. Urz. WE L 340 z 16.12.2002, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 17.12.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 6, str. 72, Dz. Urz. UE L 74 z 15.03.2008, str. 1 oraz Dz. Urz. UE L 188 z 18.07.2009, str. 14. – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 5, str. 3, z późn. zm.), zwanym dalej „Wspólnym Słownikiem Zamówień”;
 2)
 pracach towarzyszących – należy przez to rozumieć prace niezbędne do wykonania robót podstawowych niezaliczane do robót tymczasowych, w tym wytyczanie geodezyjne i inwentaryzację powykonawczą;
 3)
@@ -46,6 +46,7 @@ Dokumentacja projektowa, specyfikacje techniczne wykonania i odbioru robót budo
 Opracowania, o których mowa w ust. 1, mogą być sporządzone w formie papierowej lub w formie elektronicznej w postaci plików komputerowych w formacie PDF.
 3.
 W przypadku opracowania sporządzonego w formie papierowej wszystkie strony w każdym tomie są trwale spięte i ponumerowane.
+Zakres i forma dokumentacji projektowej
 § 3.
 Zakres dokumentacji projektowej ustala zamawiający, biorąc pod uwagę tryb udzielenia zamówienia publicznego, zwanego dalej „zamówieniem”, oraz wymagania dotyczące postępowania poprzedzającego rozpoczęcie robót budowlanych wynikające z ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351).
 § 4.
@@ -79,8 +80,7 @@ rozwiązań budowlano-konstrukcyjnych i materiałowych,
 3)
 detali architektonicznych oraz urządzeń budowlanych,
 4)
-sieci uzbrojenia terenu, instalacji i wyposażenia technicznego
-których odzwierciedlenie na rysunkach projektu budowlanego nie jest wystarczające dla potrzeb, o których mowa w ust. 1.
+sieci uzbrojenia terenu, instalacji i wyposażenia technicznego – których odzwierciedlenie na rysunkach projektu budowlanego nie jest wystarczające dla potrzeb, o których mowa w ust. 1.
 3.
 Projekt wykonawczy, w zależności od zakresu i rodzaju robót budowlanych stanowiących przedmiot zamówienia, dotyczy:
 1)
@@ -179,6 +179,7 @@ spis zawartości dokumentacji projektowej;
 imię i nazwisko osoby opracowującej części składowe dokumentacji projektowej oraz – o ile występują – nazwę i adres podmiotu, oraz datę opracowania.
 2.
 Jeżeli objętość informacji, o których mowa w ust. 1, uniemożliwia zamieszczenie ich na stronie tytułowej, dopuszcza się zamieszczenie tych informacji na kolejnych stronach albo w postaci załącznika do strony tytułowej.
+Zakres i forma specyfikacji technicznych wykonania i odbioru robót budowlanych
 § 12.
 Specyfikacje techniczne wykonania i odbioru robót budowlanych stanowią opracowania zawierające w szczególności zbiory wymagań, które są niezbędne do określenia standardu i jakości wykonania robót, w zakresie sposobu wykonania robót budowlanych, właściwości wyrobów budowlanych oraz oceny prawidłowości wykonania poszczególnych robót.
 § 13.
@@ -256,6 +257,7 @@ opis sposobu rozliczenia robót tymczasowych i prac towarzyszących;
 dokumenty odniesienia – dokumenty będące podstawą do wykonania robót budowlanych, w tym wszystkie elementy dokumentacji projektowej, normy oraz inne dokumenty i ustalenia techniczne.
 2.
 Jeżeli objętość informacji, o których mowa w ust. 1 pkt 1, uniemożliwia zamieszczenie ich na stronie tytułowej, dopuszcza się zamieszczenie tych informacji na kolejnych stronach albo w postaci załącznika do strony tytułowej.
+Zakres i forma programu funkcjonalno-użytkowego
 § 15.
 Program funkcjonalno-użytkowy służy do opisu przedmiotu zamówienia, ustalenia planowanych kosztów prac projektowych i robót budowlanych, przygotowania oferty – szczególnie w zakresie obliczenia ceny oferty oraz wykonania prac projektowych.
 § 16.
@@ -380,26 +382,36 @@ Inwestycji i Inwestycji Towarzyszących realizowanych na podstawie ustawy z dnia
 strategicznych inwestycji w sektorze naftowym realizowanych na podstawie ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2021 r. poz. 1902);
 11)
 inwestycji w zakresie budowy portu zewnętrznego realizowanych na podstawie ustawy z dnia 9 sierpnia 2019 r. o inwestycjach w zakresie budowy portów zewnętrznych (Dz. U. z 2021 r. poz. 1853 i 2368).
+Przepis przejściowy i przepis końcowy
 § 21.
 1.
 Do postępowań o udzielenie zamówienia wszczętych i niezakończonych przed dniem 1 stycznia 2022 r., w zakresie opisu przedmiotu zamówienia, stosuje się przepisy dotychczasowe.
 2.
 W celu przygotowania lub przeprowadzenia postępowania o udzielenie zamówienia wszczynanego po dniu 31 grudnia 2021 r. zamawiający może korzystać z dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych lub programu funkcjonalno-użytkowego, sporządzonych przed dniem wejścia w życie rozporządzenia, o ile w dacie ich sporządzenia spełniały one wymagania określone w rozporządzeniu Ministra Infrastruktury z dnia 2 września 2004 r. w sprawie szczegółowego zakresu i formy dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych oraz programu funkcjonalno-użytkowego (Dz. U. z 2013 r. poz. 1129).
 § 22.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 1945). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 17.12.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 6, str. 72, Dz. Urz. UE L 74 z 15.03.2008, str. 1 oraz Dz. Urz. UE L 188 z 18.07.2009, str. 14. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 2 września 2004 r. w sprawie szczegółowego zakresu i formy dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych oraz programu funkcjonalno-użytkowego (Dz. U. z 2013 r. poz. 1129), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 2 września 2004 r. w sprawie szczegółowego zakresu i formy dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych oraz programu funkcjonalno-użytkowego (Dz. U. z 2013 r. poz. 1129), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275). 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 1945). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 17.12.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 6, str. 72, Dz. Urz. UE L 74 z 15.03.2008, str. 1 oraz Dz. Urz. UE L 188 z 18.07.2009, str. 14. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 2 września 2004 r. w sprawie szczegółowego zakresu i formy dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych oraz programu funkcjonalno-użytkowego (Dz. U. z 2013 r. poz. 1129), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zakres i forma dokumentacji projektowej
+#### Rozdział 2 – Zakres i forma dokumentacji projektowej
 
-#### Rozdział 3 Zakres i forma specyfikacji technicznych wykonania i odbioru robót budowlanych
+#### Rozdział 3 – Zakres i forma specyfikacji technicznych wykonania i odbioru robót budowlanych
 
-#### Rozdział 4 Zakres i forma programu funkcjonalno-użytkowego
+#### Rozdział 4 – Zakres i forma programu funkcjonalno-użytkowego
+
+#### Rozdział 5 – Przepis przejściowy i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 
 ## Część opisowa programu funkcjonalno-użytkowego obejmuje:
 
 ## Część informacyjna programu funkcjonalno-użytkowego obejmuje:
 
-#### Rozdział 5 Przepis przejściowy i przepis końcowy
+#### Rozdział 5
 

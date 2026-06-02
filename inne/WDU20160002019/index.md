@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 grudnia 2016 r. zmieniające rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 grudnia 2016 r. zmieniające rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-07 |
 | Data wydania | 2016-12-15 |
-| Wejście w życie | 2016-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2019/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 15 pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2016 r. poz. 1604, 1948, 1961 i 2007) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/2203 z dnia 25 listopada 2015 r. w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do kazein i kazeinianów przeznaczonych do spożycia przez ludzi oraz uchylającej dyrektywę Rady 83/417/EWG (Dz. Urz. UE L 314 z 01.12.2015, str. 1). Na podstawie art. 15 pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2016 r. poz. 1604, 1948, 1961 i 2007) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2014 r. w sprawie znakowania poszczególnych rodzajów środków spożywczych (Dz. U. z 2015 r. poz. 29) wprowadza się następujące zmiany:
 1)
-w odnośniku nr 2 do rozporządzenia pkt 1 otrzymuje brzmienie:
-„
+w odnośniku nr 2 do rozporządzenia pkt 1 otrzymuje brzmienie: „
 1)
-dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/2203 z dnia 25 listopada 2015 r. w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do kazein i kazeinianów przeznaczonych do spożycia przez ludzi oraz uchylającej dyrektywę Rady 83/417/EWG (Dz. Urz. UE L 314 z 01.12.2015, str. 1);
-” ;
+dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/2203 z dnia 25 listopada 2015 r. w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do kazein i kazeinianów przeznaczonych do spożycia przez ludzi oraz uchylającej dyrektywę Rady 83/417/EWG (Dz. Urz. UE L 314 z 01.12.2015, str. 1); ” ;
 2)
-§ 17 otrzymuje brzmienie:
-„
+§ 17 otrzymuje brzmienie: „
 § 17.
 1.
 Kazeinę kwasową spożywczą, kazeinę podpuszczkową spożywczą oraz kazeiniany spożywcze znakuje się na opakowaniu, pojemniku lub etykiecie, w sposób widoczny, czytelny i nieusuwalny, podając następujące informacje:
@@ -65,12 +61,9 @@ W przypadku środków spożywczych, o których mowa w:
 1)
 ust. 1, informacje, o których mowa w ust. 1 pkt 2–4,
 2)
-ust. 2, informacje, o których mowa w ust. 1 pkt 2–4 i ust. 2 pkt 3
-mogą być umieszczone jedynie w dokumentach towarzyszących tym środkom spożywczym.
+ust. 2, informacje, o których mowa w ust. 1 pkt 2–4 i ust. 2 pkt 3 – mogą być umieszczone jedynie w dokumentach towarzyszących tym środkom spożywczym.
 4.
-W przypadku gdy zawartość białek mleka w suchej masie dla kazeiny kwasowej spożywczej, kazeiny podpuszczkowej spożywczej oraz kazeinianów spożywczych jest wyższa niż minimalna wartość określona odpowiednio w ust. 2 pkt 2, ust. 4 pkt 2 lub ust. 6 pkt 2 załącznika nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych, na opakowaniu, pojemniku lub etykiecie tych środków spożywczych może być umieszczona informacja o tej wyższej zawartości.
-” .
+W przypadku gdy zawartość białek mleka w suchej masie dla kazeiny kwasowej spożywczej, kazeiny podpuszczkowej spożywczej oraz kazeinianów spożywczych jest wyższa niż minimalna wartość określona odpowiednio w ust. 2 pkt 2, ust. 4 pkt 2 lub ust. 6 pkt 2 załącznika nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych, na opakowaniu, pojemniku lub etykiecie tych środków spożywczych może być umieszczona informacja o tej wyższej zawartości. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 22 grudnia 2016 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/2203 z dnia 25 listopada 2015 r. w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do kazein i kazeinianów przeznaczonych do spożycia przez ludzi oraz uchylającej dyrektywę Rady 83/417/EWG (Dz. Urz. UE L 314 z 01.12.2015, str. 1).
+Rozporządzenie wchodzi w życie z dniem 22 grudnia 2016 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/2203 z dnia 25 listopada 2015 r. w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do kazein i kazeinianów przeznaczonych do spożycia przez ludzi oraz uchylającej dyrektywę Rady 83/417/EWG (Dz. Urz. UE L 314 z 01.12.2015, str. 1).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-16 |
 | Data wydania | 2019-05-29 |
-| Wejście w życie | 2019-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000999) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/999/text.pdf) |
 
@@ -35,9 +34,11 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **3)** wypisania recepty niezgodnej z uprawnieniami świadczeniobiorcy albo osoby uprawnionej;”; ” , ” , w pkt 7 w lit. a tiret drugie otrzymuje brzmienie: „ – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „ 3) prowadzenia dokumentacji medycznej w sposób niezgodny z przepisami prawa; 4) nieprowadzenia dokumentacji medycznej.”, ” ; ” ;
+- **3)** wypisania recepty niezgodnej z uprawnieniami świadczeniobiorcy albo osoby uprawnionej;”; ” , ” , w pkt 7 w lit. a tiret drugie otrzymuje brzmienie: „ w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „
     - **b)**
 
+- **3)** prowadzenia dokumentacji medycznej w sposób niezgodny z przepisami prawa;
+- **4)** nieprowadzenia dokumentacji medycznej.”, ” ; ” ;
 - **2)** po art. 19 dodaje się art. 19a w brzmieniu: „
 
 **Art. 19a.**

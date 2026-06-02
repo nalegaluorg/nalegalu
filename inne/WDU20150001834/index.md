@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-23 |
 | Data wydania | 2015-11-09 |
-| Wejście w życie | 2015-11-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1834/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 3512 ust. 6 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 3512 ust. 6 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 152, poz. 1016 oraz z 2015 r. poz. 932, 994 i 1639.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -230,5 +229,5 @@ Komisja kończy pracę z dniem przyjęcia protokołu końcowego przez ministra.
 § 19.
 Minister niezwłocznie po otrzymaniu protokołu końcowego ogłasza wynik konkursu i wyznacza organizację, która uzyskała najwyższą liczbę punktów, lub organizacje, które uzyskały kolejno najwyższą liczbę punktów.
 § 20.
-Rozporządzenie wchodzi w życie z dniem 20 listopada 2015 r.
+Rozporządzenie wchodzi w życie z dniem 20 listopada 2015 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 152, poz. 1016 oraz z 2015 r. poz. 932, 994 i 1639.
 

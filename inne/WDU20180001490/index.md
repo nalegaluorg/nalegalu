@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej
+# Ustawaz dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej Niniejsza ustawa:
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-06 |
-| Wejście w życie | 2018-08-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1490/text.pdf) |
 
+Zgłaszanie zatruć środkiem zastępczym lub nową substancją psychoaktywną
+
 **Art. 1.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2018 r. poz. 1030) wprowadza się następujące zmiany:
 
-- **1)** w art. 1 w pkt 3: wprowadzenie do wyliczenia otrzymuje brzmienie: „ organy lub podmioty właściwe do wykonania: ” , w lit. b na końcu średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 1920/2006 z dnia 12 grudnia 2006 r. w sprawie Europejskiego Centrum Monitorowania Narkotyków i Narkomanii (Dz. Urz. UE L 376 z 27.12.2006, str. 1, z późn. zm.); ” ;
+- **1)** w art. 1 w pkt 3: wprowadzenie do wyliczenia otrzymuje brzmienie: „ organy lub podmioty właściwe do wykonania: ” , w lit. b na końcu średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 1920/2006 z dnia 12 grudnia 2006 r. w sprawie Europejskiego Centrum Monitorowania Narkotyków i Narkomanii (Dz. Urz. UE L 376 z 27.12.2006, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 305 z 21.11.2017, str. 1.); ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -54,13 +55,13 @@ source: "eli-html"
 - **22)** rehabilitacja – proces dążący do zapewnienia osobie z zaburzeniami psychicznymi spowodowanymi przez przyjmowanie środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych osiągnięcia optymalnego stanu zdrowia oraz funkcjonowania psychicznego i społecznego; ” , pkt 25–27 otrzymują brzmienie: „
     - **f)**
 
-- **25)** substancja psychotropowa – substancje: objęte zakresem stosowania Konwencji Narodów Zjednoczonych o substancjach psychotropowych z 1971 r. (Dz. U. z 1976 r. poz. 180), wymienione w załączniku do decyzji ramowej Rady 2004/757/WSiSW z dnia 25 października 2004 r. ustanawiającej minimalne przepisy określające znamiona przestępstw i kar w dziedzinie nielegalnego handlu narkotykami (Dz. Urz. UE L 335 z 11.11.2004, str. 8, z późn. zm.), poddane środkom kontroli i sankcjom karnym takim samym jak substancje, o których mowa w lit. a, pochodzenia naturalnego lub syntetycznego, w formie czystej lub w formie preparatu, działające na ośrodkowy układ nerwowy, inne niż określone w lit. a i b, ale o podobnej do nich budowie chemicznej lub działaniu, stwarzające zgodnie z rekomendacją Zespołu do spraw oceny ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem nowych substancji psychoaktywnych, o której mowa w art. 18b ust. 1 pkt 3, takie same zagrożenia dla zdrowia publicznego lub zagrożenia społeczne, jak zagrożenia stwarzane przez te substancje, inne niż wymienione w lit. a-c, które na podstawie przepisów ustawy obowiązujących przed dniem wejścia w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1490), były objęte wykazem substancji psychotropowych określone w przepisach wydanych na podstawie art. 44f pkt 1;
+- **25)** substancja psychotropowa – substancje: objęte zakresem stosowania Konwencji Narodów Zjednoczonych o substancjach psychotropowych z 1971 r. (Dz. U. z 1976 r. poz. 180), wymienione w załączniku do decyzji ramowej Rady 2004/757/WSiSW z dnia 25 października 2004 r. ustanawiającej minimalne przepisy określające znamiona przestępstw i kar w dziedzinie nielegalnego handlu narkotykami (Dz. Urz. UE L 335 z 11.11.2004, str. 8, z późn. zm.Zmiany wymienionej decyzji ramowej zostały ogłoszone w Dz. Urz. UE L 305 z 21.11.2017, str. 12.), poddane środkom kontroli i sankcjom karnym takim samym jak substancje, o których mowa w lit. a, pochodzenia naturalnego lub syntetycznego, w formie czystej lub w formie preparatu, działające na ośrodkowy układ nerwowy, inne niż określone w lit. a i b, ale o podobnej do nich budowie chemicznej lub działaniu, stwarzające zgodnie z rekomendacją Zespołu do spraw oceny ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem nowych substancji psychoaktywnych, o której mowa w art. 18b ust. 1 pkt 3, takie same zagrożenia dla zdrowia publicznego lub zagrożenia społeczne, jak zagrożenia stwarzane przez te substancje, inne niż wymienione w lit. a-c, które na podstawie przepisów ustawy obowiązujących przed dniem wejścia w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1490), były objęte wykazem substancji psychotropowych – określone w przepisach wydanych na podstawie art. 44f pkt 1;
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-- **26)** środek odurzający – substancje: objęte zakresem stosowania Jednolitej Konwencji Narodów Zjednoczonych o środkach odurzających z 1961 r. (Dz. U. z 1966 r. poz. 277) zmienionej protokołem z 1972 r. (Dz. U. z 1996 r. poz. 149), wymienione w załączniku do decyzji ramowej Rady 2004/757/WSiSW z dnia 25 października 2004 r. ustanawiającej minimalne przepisy określające znamiona przestępstw i kar w dziedzinie nielegalnego handlu narkotykami, poddane środkom kontroli i sankcjom karnym takim samym jak substancje, o których mowa w lit. a, pochodzenia naturalnego lub syntetycznego, w formie czystej lub w formie preparatu, działające na ośrodkowy układ nerwowy, inne niż określone w lit. a i b, ale o podobnej do nich budowie chemicznej lub działaniu, stwarzające zgodnie z rekomendacją Zespołu do spraw oceny ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem nowych substancji psychoaktywnych, o której mowa w art. 18b ust. 1 pkt 3, takie same zagrożenia dla zdrowia publicznego lub zagrożenia społeczne, jak zagrożenia stwarzane przez te substancje, inne niż wymienione w lit. a-c, które na podstawie przepisów ustawy obowiązujących przed dniem wejścia w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej były objęte wykazem środków odurzających określone w przepisach wydanych na podstawie art. 44f pkt 2;
+- **26)** środek odurzający – substancje: objęte zakresem stosowania Jednolitej Konwencji Narodów Zjednoczonych o środkach odurzających z 1961 r. (Dz. U. z 1966 r. poz. 277) zmienionej protokołem z 1972 r. (Dz. U. z 1996 r. poz. 149), wymienione w załączniku do decyzji ramowej Rady 2004/757/WSiSW z dnia 25 października 2004 r. ustanawiającej minimalne przepisy określające znamiona przestępstw i kar w dziedzinie nielegalnego handlu narkotykami, poddane środkom kontroli i sankcjom karnym takim samym jak substancje, o których mowa w lit. a, pochodzenia naturalnego lub syntetycznego, w formie czystej lub w formie preparatu, działające na ośrodkowy układ nerwowy, inne niż określone w lit. a i b, ale o podobnej do nich budowie chemicznej lub działaniu, stwarzające zgodnie z rekomendacją Zespołu do spraw oceny ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem nowych substancji psychoaktywnych, o której mowa w art. 18b ust. 1 pkt 3, takie same zagrożenia dla zdrowia publicznego lub zagrożenia społeczne, jak zagrożenia stwarzane przez te substancje, inne niż wymienione w lit. a-c, które na podstawie przepisów ustawy obowiązujących przed dniem wejścia w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej były objęte wykazem środków odurzających – określone w przepisach wydanych na podstawie art. 44f pkt 2;
     - **a)**
     - **b)**
     - **c)**
@@ -83,8 +84,11 @@ source: "eli-html"
 
 2b. W ramach Gminnego Programu w szkołach i placówkach systemu oświaty są realizowane w szczególności działania o potwierdzonej skuteczności lub oparte na naukowych podstawach prowadzone w zakresie działalności, o której mowa w ust. 2a. ” ;
 
-- **5)** w art. 18b: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) ocena w świetle współczesnej wiedzy naukowej skutków oddziaływania na ośrodkowy układ nerwowy powodujących zagrożenie zdrowia lub życia ludzi, lub szkody społeczne, wynikających z używania substancji psychotropowych, o których mowa w art. 4 pkt 25 lit. d, oraz środków odurzających, o których mowa w art. 4 pkt 26 lit. d; ” , – pkt 3 otrzymuje brzmienie: „ 3) rekomendowanie ministrowi właściwemu do spraw zdrowia, uwzględniając oceny, o których mowa w pkt 1 i 2, zmian w przepisach wydanych na podstawie art. 44f. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **5)** w art. 18b: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** ocena w świetle współczesnej wiedzy naukowej skutków oddziaływania na ośrodkowy układ nerwowy powodujących zagrożenie zdrowia lub życia ludzi, lub szkody społeczne, wynikających z używania substancji psychotropowych, o których mowa w art. 4 pkt 25 lit. d, oraz środków odurzających, o których mowa w art. 4 pkt 26 lit. d; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** rekomendowanie ministrowi właściwemu do spraw zdrowia, uwzględniając oceny, o których mowa w pkt 1 i 2, zmian w przepisach wydanych na podstawie art. 44f. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Rekomendacja w zakresie, o którym mowa w ust. 1 pkt 2, zawiera:
@@ -163,7 +167,7 @@ source: "eli-html"
 - **5)** wzory certyfikatów: instruktora terapii uzależnień i specjalisty psychoterapii uzależnień ” ;
 - **15)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Zgłaszanie zatruć środkiem zastępczym lub nową substancją psychoaktywną
+#### Rozdział 4a
 
 **Art. 30a.**
 
@@ -224,7 +228,7 @@ source: "eli-html"
 2. Przedsiębiorca:
 
 - **1)** posiadający status centrum badawczo-rozwojowego, o którym mowa w art. 17 ust. 1 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2018 r. poz. 141),
-- **2)** prowadzący badania naukowe lub prace rozwojowe korzystający, na podstawie umowy cywilnoprawnej z nieruchomości lub ruchomości: jednostki naukowej lub ośrodka innowacji akredytowanego przez ministra właściwego do spraw gospodarki, służących prowadzeniu tych badań lub prac może rozpocząć prowadzenie działalności, o której mowa w ust. 1, w dniu następującym po dniu złożenia wniosku o wydanie zezwolenia.
+- **2)** prowadzący badania naukowe lub prace rozwojowe korzystający, na podstawie umowy cywilnoprawnej z nieruchomości lub ruchomości: jednostki naukowej lub ośrodka innowacji akredytowanego przez ministra właściwego do spraw gospodarki, służących prowadzeniu tych badań lub prac – może rozpocząć prowadzenie działalności, o której mowa w ust. 1, w dniu następującym po dniu złożenia wniosku o wydanie zezwolenia.
 
 3. Zezwolenie wydaje się na wniosek składany odrębnie dla każdej nowej substancji psychoaktywnej, zawierający:
 
@@ -373,7 +377,7 @@ source: "eli-html"
 - **26)** po art. 44d dodaje się art. 44e i art. 44f w brzmieniu: „ Substancję będącą jednocześnie środkiem odurzającym i nową substancją psychoaktywną albo substancją psychotropową i nową substancją psychoaktywną uznaje się odpowiednio za środek odurzający albo substancję psychotropową. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 - **1)** wykaz substancji psychotropowych z podziałem na grupy, o których mowa w art. 32,
 - **2)** wykaz środków odurzających z podziałem na grupy, o których mowa w art. 31, oraz ze wskazaniem środków odurzających grupy IV-N dopuszczonych do stosowania w lecznictwie zwierząt zgodnie z art. 33 ust. 2,
-- **3)** wykaz nowych substancji psychoaktywnych uwzględniając postanowienia Konwencji Narodów Zjednoczonych oraz decyzji, o których mowa w art. 4 pkt 25 i 26, albo ocenę lub rekomendację Zespołu, mając na uwadze wpływ tych substancji na zdrowie lub życie ludzi lub możliwość spowodowania szkód społecznych oraz konieczność działań ochronnych podejmowanych wobec zwierząt dzikich. ” ;
+- **3)** wykaz nowych substancji psychoaktywnych – uwzględniając postanowienia Konwencji Narodów Zjednoczonych oraz decyzji, o których mowa w art. 4 pkt 25 i 26, albo ocenę lub rekomendację Zespołu, mając na uwadze wpływ tych substancji na zdrowie lub życie ludzi lub możliwość spowodowania szkód społecznych oraz konieczność działań ochronnych podejmowanych wobec zwierząt dzikich. ” ;
 - **27)** w art. 49: w ust. 3 uchyla się pkt 1, dodaje się ust. 4–7 w brzmieniu: „
     - **a)**
     - **b)**
@@ -531,7 +535,7 @@ source: "eli-html"
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 24a ust. 3, art. 24b ust. 3 oraz art. 27 ust. 13 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24a ust. 3, art. 24b ust. 3 oraz art. 27 ust. 13 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 44c ust. 13 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 44c ust. 13 ustawy zmienianej w art. 1 jednak nie dłużej niż do dnia 1 maja 2019 r.
+- **2)** art. 44c ust. 13 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 44c ust. 13 ustawy zmienianej w art. 1 – jednak nie dłużej niż do dnia 1 maja 2019 r.
 
 **Art. 10.**
 
@@ -552,5 +556,9 @@ source: "eli-html"
 
 3. Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw zdrowia.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 20 w zakresie dotyczącym art. 40a ust. 2 i 8, który wchodzi w życie z dniem 1 października 2018 r.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 20 w zakresie dotyczącym art. 40a ust. 2 i 8, który wchodzi w życie z dniem 1 października 2018 r. 1) Niniejsza ustawa:
+
+- **1)** służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2101 zmieniającego rozporządzenie (WE) nr 1920/2006 w zakresie wymiany informacji, systemu wczesnego ostrzegania oraz procedury oceny zagrożeń w odniesieniu do nowych substancji psychoaktywnych (Dz. Urz. UE L 305 z 21.11.2017, str. 1);
+- **2)** wdraża postanowienia decyzji ramowej Rady 2004/757/WSiSW z dnia 25 października 2004 r. ustanawiającej minimalne przepisy określające znamiona przestępstw i kar w dziedzinie nielegalnego handlu narkotykami (Dz. Urz. UE L 335 z 11.11.2004, str. 8 oraz Dz. Urz. UE L 305 z 21.11.2017, str. 12). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 305 z 21.11.2017, str. 1. 3) Zmiany wymienionej decyzji ramowej zostały ogłoszone w Dz. Urz. UE L 305 z 21.11.2017, str. 12.
+
 

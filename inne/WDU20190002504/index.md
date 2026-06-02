@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 20 grudnia 2019 r. w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji pojazdów oraz wymagań technicznych i jakościowych danych wprowadzanych do tej ewidencji
+# Rozporządzenie Ministra Cyfryzacjiz dnia 20 grudnia 2019 r. w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji pojazdów oraz wymagań technicznych i jakościowych danych wprowadzanych do tej ewidencji Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-20 |
 | Data wydania | 2019-12-27 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2504/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 80bb ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 80bb ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -63,8 +62,7 @@ pkt 1, 2, 5, 8, 9, 13, 15 i 16 – zapewnia się stacjom demontażu i punktom zb
 9)
 pkt 16a – zapewnia się marszałkowi województwa,
 10)
-pkt 8a, 8b, 9a i 15a – zapewnia się podmiotowi uprawnionemu, o którym mowa w art. 80s ust. 2 ustawy, któremu wydano decyzję o profesjonalnej rejestracji pojazdów
-przy czym dane te są zweryfikowane w rejestrze PESEL i REGON, w przypadku ich przekazywania z tych rejestrów.
+pkt 8a, 8b, 9a i 15a – zapewnia się podmiotowi uprawnionemu, o którym mowa w art. 80s ust. 2 ustawy, któremu wydano decyzję o profesjonalnej rejestracji pojazdów – przy czym dane te są zweryfikowane w rejestrze PESEL i REGON, w przypadku ich przekazywania z tych rejestrów.
 § 4.
 Wprowadzanie danych do ewidencji następuje w sposób przewidziany schematem zasilania, określonym i udostępnionym zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, który wraz z aktualizacjami oraz z dotyczącymi go informacjami, w tym terminem rozpoczęcia jego obowiązywania, jest publikowany na portalu informacyjnym obsługującym system teleinformatyczny ewidencji przez administratora danych i informacji zgromadzonych w ewidencji, z zachowaniem czasu niezbędnego na dostosowanie po stronie podmiotów obowiązanych do wprowadzania danych do ewidencji.
 § 5.
@@ -111,7 +109,7 @@ Podmiotom, o których mowa w § 3:
 1)
 pkt 1 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 7 ustawy, zapewnia się od dnia określonego w komunikacie, o którym mowa w art. 9 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957 oraz z 2019 r. poz. 730);
 2)
-pkt 2 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 1–6, 8–8b, 10, 11, 13 i 14 ustawy, zapewnia się od dnia określonego w komunikacie, o którym mowa w art. 13 ust. 4 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1273, z późn. zm.);
+pkt 2 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 1–6, 8–8b, 10, 11, 13 i 14 ustawy, zapewnia się od dnia określonego w komunikacie, o którym mowa w art. 13 ust. 4 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1273, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001, z 2017 r. poz. 379, 777 i 1926 oraz z 2018 r. poz. 957.);
 3)
 pkt 6 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 1–4 i 7 ustawy, zapewnia się od dnia określonego w komunikacie, o którym mowa w art. 9 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw;
 4)
@@ -125,6 +123,5 @@ pkt 9 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 16a ustawy, z
 8)
 pkt 10 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 8a, 8b, 9a i 15a ustawy, zapewnia się po upływie 2 miesięcy od dnia ogłoszenia przez ministra właściwego do spraw informatyzacji informacji, o której mowa w art. 7 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001, z 2017 r. poz. 379, 777 i 1926 oraz z 2018 r. poz. 957. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 5 lipca 2019 r. w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji pojazdów oraz wymagań technicznych i jakościowych danych wprowadzanych do tej ewidencji (Dz. U. poz. 1268), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ust. 2 ustawy z dnia 15 marca 2019 r. o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy – Kodeks karny (Dz. U. poz. 870).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 5 lipca 2019 r. w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji pojazdów oraz wymagań technicznych i jakościowych danych wprowadzanych do tej ewidencji (Dz. U. poz. 1268), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ust. 2 ustawy z dnia 15 marca 2019 r. o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy – Kodeks karny (Dz. U. poz. 870). 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001, z 2017 r. poz. 379, 777 i 1926 oraz z 2018 r. poz. 957. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 5 lipca 2019 r. w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji pojazdów oraz wymagań technicznych i jakościowych danych wprowadzanych do tej ewidencji (Dz. U. poz. 1268), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ust. 2 ustawy z dnia 15 marca 2019 r. o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy – Kodeks karny (Dz. U. poz. 870).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-08 |
 | Data wydania | 2021-12-10 |
-| Wejście w życie | 2021-12-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2282/text.pdf) |
 
@@ -48,7 +47,7 @@ imię lub imiona i nazwisko wnioskodawcy;
 2)
 numer PESEL wnioskodawcy, jeżeli został nadany;
 3)
-w przypadku braku nr PESEL – datę i miejsce urodzenia, rodzaj, numer i serię dokumentu tożsamości, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.);
+w przypadku braku nr PESEL – datę i miejsce urodzenia, rodzaj, numer i serię dokumentu tożsamości, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.;
 4)
 adres poczty elektronicznej;
 5)
@@ -71,5 +70,5 @@ opatrzyć wnoszone pismo kwalifikowanym podpisem elektronicznym, podpisem zaufan
 2.
 W ramach jednorazowego uwierzytelnienia użytkownik konta może złożyć wiele pism w różnych postępowaniach egzekucyjnych, z zachowaniem warunków, o których mowa w ust. 1 pkt 2 i 3.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.
 

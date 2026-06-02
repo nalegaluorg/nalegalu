@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-03 |
 | Data wydania | 2012-11-05 |
-| Wejście w życie | 2012-11-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001212) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1212/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 8g ust. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 8g ust. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804, z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337 oraz z 2012 r. poz. 985.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy sposób prowadzenia gospodarki finansowej parku narodowego, zwanego dalej „Parkiem”.
 § 2.
@@ -70,5 +69,5 @@ Wyboru podmiotu uprawnionego do badania rocznego sprawozdania Parku dokonuje min
 2.
 Koszty postępowania o zamówienie publiczne związane z wyborem podmiotu uprawnionego do badania rocznego sprawozdania ponosi Park.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804, z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549, Nr 208, poz. 1241 i Nr 224, poz. 1337 oraz z 2012 r. poz. 985.
 

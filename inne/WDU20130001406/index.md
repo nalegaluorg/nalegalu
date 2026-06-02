@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-25 |
 | Data wydania | 2013-11-29 |
-| Wejście w życie | 2013-12-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001406) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1406/text.pdf) |
 
@@ -86,7 +85,7 @@ Operator wyznaczony wybrany w drodze decyzji zgodnie z art. 71 ustawy z dnia 23 
 § 6.
 Plan podlega okresowej aktualizacji w trybie określonym w § 4 ust. 3 i § 5 ust. 1, nie rzadziej niż raz na 3 lata.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 grudnia 2003 r. w sprawie planu współdziałania operatora publicznego z wojskową pocztą polową (Dz. U. z 2004 r. Nr 5, poz. 32). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 grudnia 2003 r. w sprawie planu współdziałania operatora publicznego z wojskową pocztą polową (Dz. U. z 2004 r. Nr 5, poz. 32).
 
 ## Część ogólną planu operator wyznaczony sporządza po uzgodnieniu z Szefem Sztabu Generalnego Wojska Polskiego.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 6 listopada 2013 r. w sprawie sposobu sporządzania wniosków o udzielenie pomocy kierowanych do państw członkowskich, jednolitych formularzy służących do powiadomienia i jednolitych tytułów wykonawczych
+# Rozporządzenie Ministra Finansówz dnia 6 listopada 2013 r. w sprawie sposobu sporządzania wniosków o udzielenie pomocy kierowanych do państw członkowskich, jednolitych formularzy służących do powiadomienia i jednolitych tytułów wykonawczych Niniejsze rozporządzenie w zakresie swej regulacji wdraża dyrektywę Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-06 |
 | Data wydania | 2013-11-07 |
-| Wejście w życie | 2013-11-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001295) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1295/text.pdf) |
 
@@ -46,5 +45,5 @@ jednolitego formularza służącego do powiadomienia z wniosku o powiadomienie;
 3)
 jednolitego tytułu wykonawczego z wniosku o odzyskanie należności pieniężnych.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 21 listopada 2013 r.
+Rozporządzenie wchodzi w życie z dniem 21 listopada 2013 r. 2) Niniejsze rozporządzenie w zakresie swej regulacji wdraża dyrektywę Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, str. 1).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-22 |
 | Data wydania | 2018-10-25 |
-| Wejście w życie | 2018-10-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002046) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2046/text.pdf) |
 
@@ -35,8 +34,7 @@ banków tkanek i komórek,
 2)
 podmiotów, o których mowa w art. 16a ust. 1, art. 26 ust. 4 pkt 7, art. 36 ust. 1 i art. 37 ust. 1 ustawy, w zakresie działalności objętej pozwoleniami wydanymi na podstawie przepisów ustawy,
 3)
-ośrodków kwalifikujących, w zakresie spełnienia wymagań określonych ustawą i przepisami wydanymi na podstawie art. 16c ust. 10 ustawy
-zwanych dalej „jednostkami kontrolowanymi”.
+ośrodków kwalifikujących, w zakresie spełnienia wymagań określonych ustawą i przepisami wydanymi na podstawie art. 16c ust. 10 ustawy – zwanych dalej „jednostkami kontrolowanymi”.
 § 2.
 1.
 Upoważniony pracownik, o którym mowa w art. 35 ust. 4 ustawy, zwany dalej „kontrolerem”, wszczyna kontrolę nie wcześniej niż po upływie 3 dni roboczych i nie później niż przed upływem 30 dni od dnia doręczenia zawiadomienia o zamiarze wszczęcia kontroli.
@@ -57,8 +55,7 @@ datę i miejsce wystawienia;
 7)
 oznaczenie jednostki kontrolowanej;
 8)
-pouczenie o prawach i obowiązkach jednostki kontrolowanej.
-z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+pouczenie o prawach i obowiązkach jednostki kontrolowanej. z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 3.
 W przypadku:
 1)
@@ -66,8 +63,7 @@ wystąpienia istotnego zdarzenia niepożądanego lub
 2)
 wystąpienia istotnej reakcji niepożądanej, lub
 3)
-podejrzenia wystąpienia przesłanek, o których mowa w art. 27 ust. 4 pkt 1, 3 i 4 ustawy
-kontroler zawiadamia kierownika jednostki kontrolowanej o kontroli bezpośrednio przed przystąpieniem do czynności kontrolnych, co uzasadnia wpisem w książce kontroli i protokole kontroli.
+podejrzenia wystąpienia przesłanek, o których mowa w art. 27 ust. 4 pkt 1, 3 i 4 ustawy – kontroler zawiadamia kierownika jednostki kontrolowanej o kontroli bezpośrednio przed przystąpieniem do czynności kontrolnych, co uzasadnia wpisem w książce kontroli i protokole kontroli.
 § 3.
 Kontroler, bezpośrednio przed przystąpieniem do czynności kontrolnych, okazuje kierownikowi jednostki kontrolowanej lub osobie przez niego upoważnionej imienne upoważnienie, o którym mowa w art. 35 ust. 4 ustawy, wraz z dokumentem tożsamości.
 § 4.
@@ -150,5 +146,5 @@ Dokonanie skreśleń i poprawek w protokole kontroli wymaga sporządzenia adnota
 § 13.
 W zakresie doręczenia protokołu kontroli, w tym uznania protokołu kontroli za doręczony w przypadku jego niepodjęcia, stosuje się odpowiednio przepisy art. 44 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149, 650, 1544 i 1629).
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 12 marca 2010 r. w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 273), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 1 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 12 marca 2010 r. w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 273), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 1 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798).
 

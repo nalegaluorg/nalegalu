@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-17 |
 | Data wydania | 2013-12-30 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-10-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1668/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 75 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 75 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 85, poz. 458, Nr 87, poz. 483, Nr 106, poz. 622 i Nr 142, poz. 830 oraz z 2013 r. poz. 829 i 1247.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa organizację i przebieg aplikacji notarialnej, w tym:
 1)
@@ -174,14 +173,13 @@ Kolokwium odbywa się jednego dnia i trwa 8 godzin. Kolokwium jest przeprowadzan
 2.
 Czas trwania kolokwium podlega wydłużeniu o 2 godziny w stosunku do czasu wskazanego w ust. 1 w przypadku aplikanta będącego osobą niepełnosprawną, który wraz z deklaracją przystąpienia do kolokwium złoży:
 1)
-kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) w okresie przeprowadzania egzaminu;
+kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456 oraz z 2013 r. poz. 73, 675, 791, 1446 i 1645.) w okresie przeprowadzania egzaminu;
 2)
 zaświadczenie lekarskie stwierdzające wynikające z niepełnosprawności trudności w dokonywaniu w toku kolokwium czynności technicznych, takich jak:
 a)
 odczytywanie tekstu,
 b)
-zapisywanie rozwiązań zadań
-wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności;
+zapisywanie rozwiązań zadań – wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności;
 3)
 oświadczenie o wyrażeniu zgody na przetwarzanie danych osobowych, o których mowa w pkt 1 i 2, na potrzeby przeprowadzenia kolokwium.
 3.
@@ -241,5 +239,5 @@ Do aplikantów, którzy rozpoczęli aplikację przed dniem wejścia w życie roz
 § 15.
 W roku 2014 harmonogramy, o których mowa w § 7 ust. 1, rada właściwej izby notarialnej określi do dnia 31 stycznia 2014 r. i ogłosi na swojej stronie internetowej. Informacje o terminach zajęć seminaryjnych odbywających się w okresie nieobjętym harmonogramem rada właściwej izby notarialnej zamieści na swojej stronie internetowej nie później niż na 3 dni przed ropoczęciem tych zajęć.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2005 r. w sprawie organizacji aplikacji notarialnej (Dz. U. Nr 258, poz. 2169, z 2006 r. Nr 52, poz. 384, z 2008 r. Nr 182, poz. 1131, z 2010 r. Nr 45, poz. 267 oraz z 2012 r. poz. 1449), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 85, poz. 458, Nr 87, poz. 483, Nr 106, poz. 622 i Nr 142, poz. 830 oraz z 2013 r. poz. 829 i 1247. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456 oraz z 2013 r. poz. 73, 675, 791, 1446 i 1645. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2005 r. w sprawie organizacji aplikacji notarialnej (Dz. U. Nr 258, poz. 2169, z 2006 r. Nr 52, poz. 384, z 2008 r. Nr 182, poz. 1131, z 2010 r. Nr 45, poz. 267 oraz z 2012 r. poz. 1449), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829).
 

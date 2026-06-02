@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 lipca 2006 r. o zmianie ustawy o zakładach opieki zdrowotnej oraz niektórych innych ustaw
+# Ustawa z dnia 14 lipca 2006 r. o zmianie ustawy o zakładach opieki zdrowotnej oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej oraz ustawę z dnia 14 maja 2004 r. o zmianie ustawy o zakładach opieki zdrowotnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-07-17 |
 | Data wydania | 2006-08-10 |
-| Wejście w życie | 2006-09-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061431032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1032/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. Nr 91, poz. 408, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. Nr 91, poz. 408, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152, Nr 171, poz. 1663, Nr 213, poz. 2081 i Nr 223, poz. 2215, z 2004 r. Nr 210, poz. 2135 i Nr 273, poz. 2703, z 2005 r. Nr 164, poz. 1365, Nr 169, poz. 1420, Nr 239, poz. 2020 i Nr 249, poz. 2104 oraz z 2006 r. Nr 75, poz. 518.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -75,7 +74,7 @@ source: "eli-html"
 2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, Naczelnej Rady Pielęgniarek i Położnych, Krajowej Rady Diagnostów Laboratoryjnych oraz Naczelnej Rady Aptekarskiej, w drodze rozporządzenia, określi:
 
 - **1)** wymagania, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia zakładu opieki zdrowotnej,
-- **2)** terminy i zakres dostosowania zakładu opieki zdrowotnej do wymagań, o których mowa w pkt 1 uwzględniając konieczność zapewnienia odpowiedniej jakości udzielanych świadczeń zdrowotnych. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** terminy i zakres dostosowania zakładu opieki zdrowotnej do wymagań, o których mowa w pkt 1 – uwzględniając konieczność zapewnienia odpowiedniej jakości udzielanych świadczeń zdrowotnych. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Zakłady opieki zdrowotnej nabywają i stosują wyroby medyczne odpowiadające wymaganiom ustawy z dnia 20 kwietnia 2004 r. o wyrobach medycznych (Dz. U. Nr 93, poz. 896 oraz z 2005 r. Nr 64, poz. 565). ” ;
@@ -84,7 +83,7 @@ source: "eli-html"
 - **8)** w art. 10: ust. 3 otrzymuje brzmienie: „
     - **a)**
 
-3. Świadczenia zdrowotne mogą być udzielane przez osoby, o których mowa w ust. 1, w ramach wolontariatu, na zasadach określonych w porozumieniu, o którym mowa w art. 44 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.), zawartym między zakładem opieki zdrowotnej a wolontariuszem. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+3. Świadczenia zdrowotne mogą być udzielane przez osoby, o których mowa w ust. 1, w ramach wolontariatu, na zasadach określonych w porozumieniu, o którym mowa w art. 44 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104 oraz z 2006 r. Nr 94, poz. 651.), zawartym między zakładem opieki zdrowotnej a wolontariuszem. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
 - **b)**
 
@@ -95,7 +94,7 @@ source: "eli-html"
 5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** rodzaje zawodów, w których może być uzyskiwany tytuł specjalisty w dziedzinie mającej zastosowanie w ochronie zdrowia, z wyjątkiem zawodów, dla których zasady uzyskiwania tytułu specjalisty określają odrębne przepisy,
-- **2)** szczegółowy sposób, warunki i tryb uzyskiwania tytułu specjalisty w danej dziedzinie, o której mowa w pkt 1 uwzględniając konieczność zapewnienia wysokich kwalifikacji zawodowych,
+- **2)** szczegółowy sposób, warunki i tryb uzyskiwania tytułu specjalisty w danej dziedzinie, o której mowa w pkt 1 – uwzględniając konieczność zapewnienia wysokich kwalifikacji zawodowych,
 - **3)** podmioty uprawnione do prowadzenia szkoleń i nadawania tytułu specjalisty w danej dziedzinie, o której mowa w pkt 1, uwzględniając konieczność zapewnienia odpowiedniej jakości udzielanych świadczeń zdrowotnych,
 - **4)** tryb uznawania tytułu specjalisty w danej dziedzinie, o której mowa w pkt 1, uzyskanego poza terytorium Rzeczypospolitej Polskiej, uwzględniając specyfikę danego zawodu. ” , uchyla się ust. 6;
     - **d)**
@@ -127,7 +126,7 @@ source: "eli-html"
 
 4b. Za udostępnienie dokumentacji medycznej w sposób określony w ust. 4a pkt 2 zakład opieki zdrowotnej pobiera opłatę, z zastrzeżeniem ust. 4c.
 
-4c. Przepis ust. 4b nie narusza uprawnień organów rentowych określonych w art. 77 ust. 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887, z późn. zm.) i art. 121 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.).
+4c. Przepis ust. 4b nie narusza uprawnień organów rentowych określonych w art. 77 ust. 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074, z 2003 r. Nr 56, poz. 498, Nr 65, poz. 595, Nr 135, poz. 1268, Nr 149, poz. 1450, Nr 166, poz. 1609, Nr 170, poz. 1651, Nr 190, poz. 1864, Nr 210, poz. 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 19, poz. 177, Nr 64, poz. 593, Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808, Nr 187, poz. 1925 i Nr 210, poz. 2135, z 2005 r. Nr 64, poz. 565, Nr 86, poz. 732, Nr 132, poz. 1110, Nr 143, poz. 1199 i 1202, Nr 150, poz. 1248, Nr 163, poz. 1362, Nr 164, poz. 1366, Nr 169, poz. 1412, Nr 183, poz. 1538, Nr 184, poz. 1539 i Nr 249, poz. 2104 oraz z 2006 r. Nr 104, poz. 708 i 711.) i art. 121 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421 oraz z 2006 r. Nr 104, poz. 708 i 711.).
 
 4d. Opłaty za udostępnienie dokumentacji medycznej w sposób określony w ust. 4a pkt 2 ustala kierownik zakładu opieki zdrowotnej w regulaminie porządkowym, o którym mowa w art. 18a ust. 1.
 
@@ -269,7 +268,7 @@ source: "eli-html"
 
 10. Połączenie, o którym mowa w ust. 1, nie stanowi likwidacji zakładu przejmowanego albo łączących się zakładów.
 
-11. Do pracowników zakładu przejmowanego oraz do pracowników zakładów łączących się stosuje się art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
+11. Do pracowników zakładu przejmowanego oraz do pracowników zakładów łączących się stosuje się art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 133, poz. 935.).
 
 1. W terminie określonym w akcie o połączeniu kierownik zakładu przejmującego albo kierownik samodzielnego publicznego zakładu opieki zdrowotnej powstałego w wyniku połączenia składa wniosek o:
 
@@ -279,7 +278,7 @@ source: "eli-html"
 2. W przypadku połączenia, o którym mowa w art. 43h ust. 1 pkt 2, z dniem wpisania samodzielnego publicznego zakładu opieki zdrowotnej powstałego w wyniku połączenia do:
 
 - **1)** rejestru, o którym mowa w art. 12,
-- **2)** Krajowego Rejestru Sądowego następuje z urzędu wykreślenie łączących się zakładów z tych rejestrów.
+- **2)** Krajowego Rejestru Sądowego – następuje z urzędu wykreślenie łączących się zakładów z tych rejestrów.
 
 3. W przypadku połączenia, o którym mowa w art. 43h ust. 1 pkt 2, z dniem wpisania samodzielnego publicznego zakładu opieki zdrowotnej powstałego w wyniku połączenia do Krajowego Rejestru Sądowego, zakład ten wstępuje we wszystkie stosunki prawne, których podmiotem były łączące się zakłady, bez względu na charakter prawny tych stosunków.
 
@@ -292,7 +291,7 @@ source: "eli-html"
 3. Jednostki samorządu terytorialnego, które faktycznie wykonywały uprawnienia i obowiązki podmiotu, który utworzył samodzielny publiczny zakład opieki zdrowotnej, mogą w inny sposób, niż wskazany w ust. 1 i 2, określić:
 
 - **1)** odpowiedzialność za zobowiązania,
-- **2)** zasady przejęcia należności i mienia zakładu, w stosunku do którego wykonywały uprawnienia i obowiązki podmiotu, który utworzył zakład. ” ;
+- **2)** zasady przejęcia należności i mienia – zakładu, w stosunku do którego wykonywały uprawnienia i obowiązki podmiotu, który utworzył zakład. ” ;
 - **28)** w art. 44: ust. 5 i 5a otrzymują brzmienie: „
     - **a)**
 
@@ -474,7 +473,7 @@ source: "eli-html"
 8. W przypadku gdy zaprzestanie działalności:
 
 - **1)** jest spowodowane siłą wyższą,
-- **2)** wynika z decyzji administracyjnej podjętej na podstawie odrębnych przepisów kierownik szpitala informuje wojewodę o czasowym całkowitym lub częściowym zaprzestaniu działalności, w terminie 3 dni roboczych od dnia zaistnienia okoliczności powodujących zaprzestanie tej działalności.
+- **2)** wynika z decyzji administracyjnej podjętej na podstawie odrębnych przepisów – kierownik szpitala informuje wojewodę o czasowym całkowitym lub częściowym zaprzestaniu działalności, w terminie 3 dni roboczych od dnia zaistnienia okoliczności powodujących zaprzestanie tej działalności.
 
 1. W przypadku czasowego zaprzestania działalności całkowicie lub w zakresie niektórych jednostek lub komórek organizacyjnych, bez zachowania trybu określonego w art. 65a, wojewoda może nałożyć, w drodze decyzji administracyjnej, na kierownika szpitala karę pieniężną w wysokości do trzykrotnego miesięcznego wynagrodzenia tej osoby, wyliczonego na podstawie wynagrodzenia za ostatnie 3 miesiące poprzedzające miesiąc, w którym nałożono karę.
 
@@ -499,7 +498,7 @@ source: "eli-html"
 
 - **c)**
 
-2. Do zakładów opieki zdrowotnej utworzonych przez Ministra Sprawiedliwości dla osób pozbawionych wolności przepisy ustawy stosuje się odpowiednio przy uwzględnieniu ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) i ustawy z dnia 26 kwietnia 1996 r. o Służbie Więziennej (Dz. U. z 2002 r. Nr 207, poz. 1761, z późn. zm.) oraz wydanych na ich podstawie przepisów. ” , ust. 3 otrzymuje brzmienie: „
+2. Do zakładów opieki zdrowotnej utworzonych przez Ministra Sprawiedliwości dla osób pozbawionych wolności przepisy ustawy stosuje się odpowiednio przy uwzględnieniu ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479 oraz z 2006 r. Nr 104, poz. 708.) i ustawy z dnia 26 kwietnia 1996 r. o Służbie Więziennej (Dz. U. z 2002 r. Nr 207, poz. 1761, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 90, poz. 844, Nr 142, poz. 1380, Nr 166, poz. 1609 i Nr 210, poz. 2036, z 2004 r. Nr 273, poz. 2703 oraz z 2006 r. Nr 104, poz. 708 i 711.) oraz wydanych na ich podstawie przepisów. ” , ust. 3 otrzymuje brzmienie: „
 
 - **d)**
 
@@ -578,6 +577,6 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **2)** art. 3, który wchodzi w życie z dniem ogłoszenia.
+- **2)** art. 3, który wchodzi w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej oraz ustawę z dnia 14 maja 2004 r. o zmianie ustawy o zakładach opieki zdrowotnej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152, Nr 171, poz. 1663, Nr 213, poz. 2081 i Nr 223, poz. 2215, z 2004 r. Nr 210, poz. 2135 i Nr 273, poz. 2703, z 2005 r. Nr 164, poz. 1365, Nr 169, poz. 1420, Nr 239, poz. 2020 i Nr 249, poz. 2104 oraz z 2006 r. Nr 75, poz. 518. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104 oraz z 2006 r. Nr 94, poz. 651. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074, z 2003 r. Nr 56, poz. 498, Nr 65, poz. 595, Nr 135, poz. 1268, Nr 149, poz. 1450, Nr 166, poz. 1609, Nr 170, poz. 1651, Nr 190, poz. 1864, Nr 210, poz. 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 19, poz. 177, Nr 64, poz. 593, Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808, Nr 187, poz. 1925 i Nr 210, poz. 2135, z 2005 r. Nr 64, poz. 565, Nr 86, poz. 732, Nr 132, poz. 1110, Nr 143, poz. 1199 i 1202, Nr 150, poz. 1248, Nr 163, poz. 1362, Nr 164, poz. 1366, Nr 169, poz. 1412, Nr 183, poz. 1538, Nr 184, poz. 1539 i Nr 249, poz. 2104 oraz z 2006 r. Nr 104, poz. 708 i 711. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421 oraz z 2006 r. Nr 104, poz. 708 i 711. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 133, poz. 935. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479 oraz z 2006 r. Nr 104, poz. 708. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 90, poz. 844, Nr 142, poz. 1380, Nr 166, poz. 1609 i Nr 210, poz. 2036, z 2004 r. Nr 273, poz. 2703 oraz z 2006 r. Nr 104, poz. 708 i 711.
 
 

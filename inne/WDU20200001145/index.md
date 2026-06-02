@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 29 czerwca 2020 r. zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego
+# Rozporządzenie Ministra Zdrowiaz dnia 29 czerwca 2020 r. zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-29 |
 | Data wydania | 2020-06-30 |
-| Wejście w życie | 2020-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1145/text.pdf) |
 
@@ -33,42 +32,29 @@ W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalne
 1)
 w § 15:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-§ 13 ust. 1 pkt 1 oraz ust. 2 i 3 – do dnia 30 września 2019 r.;
-” ,
+§ 13 ust. 1 pkt 1 oraz ust. 2 i 3 – do dnia 30 września 2019 r.; ” ,
 b)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-§ 6 ust. 2 pkt 3 – do dnia 30 czerwca 2020 r.;
-” ,
+§ 6 ust. 2 pkt 3 – do dnia 30 czerwca 2020 r.; ” ,
 c)
-po pkt 3 dodaje się pkt 3a w brzmieniu:
-„
+po pkt 3 dodaje się pkt 3a w brzmieniu: „
 3a)
-§ 6 ust. 4 pkt 3 i ust. 6–15 – do dnia 1 stycznia 2021 r.;
-” ,
+§ 6 ust. 4 pkt 3 i ust. 6–15 – do dnia 1 stycznia 2021 r.; ” ,
 d)
-pkt 4 otrzymuje brzmienie:
-„
+pkt 4 otrzymuje brzmienie: „
 4)
-§ 4 ust. 1 pkt 5, § 5 ust. 2 oraz § 6 ust. 4 pkt 4 i 6 – do dnia 1 lipca 2021 r.;
-” ,
+§ 4 ust. 1 pkt 5, § 5 ust. 2 oraz § 6 ust. 4 pkt 4 i 6 – do dnia 1 lipca 2021 r.; ” ,
 e)
-dodaje się pkt 5 w brzmieniu:
-„
+dodaje się pkt 5 w brzmieniu: „
 5)
-§ 3 ust. 7–10 – do dnia 1 stycznia 2022 r.
-” ;
+§ 3 ust. 7–10 – do dnia 1 stycznia 2022 r. ” ;
 2)
-w § 16 pkt 1 otrzymuje brzmienie:
-„
+w § 16 pkt 1 otrzymuje brzmienie: „
 1)
-30 czerwca 2021 r. ordynatorem oddziału (lekarzem kierującym oddziałem),
-” .
+30 czerwca 2021 r. ordynatorem oddziału (lekarzem kierującym oddziałem), ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 

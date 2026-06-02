@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-10-08 |
 | Data wydania | 2004-11-15 |
-| Wejście w życie | 2005-05-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042432426) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2426/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255 oraz z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626 i Nr 93, poz. 889.) wprowadza się następujące zmiany:
 
 - **1)** art. 47 otrzymuje brzmienie: „
 
@@ -57,7 +56,7 @@ source: "eli-html"
 
 § 2. Minister Sprawiedliwości prowadzi wykaz, do którego wpisuje instytucje, organizacje społeczne, fundacje i stowarzyszenia, o których mowa w art. 47 i art. 49. Wpisu do wykazu dokonuje się na wniosek zainteresowanego podmiotu. Wykaz jest publikowany co najmniej raz w roku w formie obwieszczenia w Dzienniku Urzędowym Ministerstwa Sprawiedliwości. ” .
 
-**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) po art. 196 dodaje się art. 196a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701, Nr 120, poz. 1268 i Nr 122, poz. 1318, z 2001 r. Nr 98, poz. 1071, Nr 111, poz. 1194 i Nr 151, poz. 1686, z 2002 r. Nr 74, poz. 676, Nr 121, poz. 1033 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750 oraz z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135 i Nr 240, poz. 2405.) po art. 196 dodaje się art. 196a w brzmieniu: „
 
 **Art. 196a.**
 
@@ -77,6 +76,6 @@ source: "eli-html"
 
 1. Z zastrzeżeniem ust. 2, ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z tym że obowiązki przewidziane w art. 196a § 2–6 ustawy, o której mowa w art. 2, dodanym niniejszą ustawą, wykonuje się po raz pierwszy w 2006 r.
 
-2. Wykaz, o którym mowa w art. 49a § 2 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, Minister Sprawiedliwości prowadzi od dnia ogłoszenia ustawy. Wpisu do wykazu dokonuje się na wniosek zainteresowanych instytucji, organizacji społecznych, fundacji i stowarzyszeń, określonych w art. 47, 49 i 49a § 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą. Wykaz ten jest publikowany po raz pierwszy, w formie obwieszczenia, w Dzienniku Urzędowym Ministerstwa Sprawiedliwości po upływie 4 miesięcy od dnia ogłoszenia.
+2. Wykaz, o którym mowa w art. 49a § 2 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, Minister Sprawiedliwości prowadzi od dnia ogłoszenia ustawy. Wpisu do wykazu dokonuje się na wniosek zainteresowanych instytucji, organizacji społecznych, fundacji i stowarzyszeń, określonych w art. 47, 49 i 49a § 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą. Wykaz ten jest publikowany po raz pierwszy, w formie obwieszczenia, w Dzienniku Urzędowym Ministerstwa Sprawiedliwości po upływie 4 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255 oraz z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626 i Nr 93, poz. 889. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701, Nr 120, poz. 1268 i Nr 122, poz. 1318, z 2001 r. Nr 98, poz. 1071, Nr 111, poz. 1194 i Nr 151, poz. 1686, z 2002 r. Nr 74, poz. 676, Nr 121, poz. 1033 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750 oraz z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135 i Nr 240, poz. 2405.
 
 

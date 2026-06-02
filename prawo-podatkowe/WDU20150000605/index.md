@@ -22,14 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-09 |
 | Data wydania | 2015-05-04 |
-| Wejście w życie | 2015-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000605) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/605/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608, z 2014 r. poz. 312, 1171 i 1662 oraz z 2015 r. poz. 211.) wprowadza się następujące zmiany:
 
-- **1)** w art. 17: w ust. 1 w pkt 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ nabywające towary wymienione w załączniku nr 11 do ustawy, z zastrzeżeniem ust. 1c, jeżeli łącznie spełnione są następujące warunki: ” , – lit. b i c otrzymują brzmienie: „ b) nabywcą jest podatnik, o którym mowa w art. 15, zarejestrowany jako podatnik VAT czynny, c) dostawa nie jest objęta zwolnieniem, o którym mowa w art. 43 ust. 1 pkt 2 lub art. 122; ” , po ust. 1b dodaje się ust. 1c-1g w brzmieniu: „
+- **1)** w art. 17: w ust. 1 w pkt 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ nabywające towary wymienione w załączniku nr 11 do ustawy, z zastrzeżeniem ust. 1c, jeżeli łącznie spełnione są następujące warunki: ” , lit. b i c otrzymują brzmienie: „ nabywcą jest podatnik, o którym mowa w art. 15, zarejestrowany jako podatnik VAT czynny, dostawa nie jest objęta zwolnieniem, o którym mowa w art. 43 ust. 1 pkt 2 lub art. 122; ” , po ust. 1b dodaje się ust. 1c-1g w brzmieniu: „
     - **a)**
+    - **b)**
+    - **c)**
     - **b)**
 
 1c. W przypadku dostaw towarów wymienionych w poz. 28a-28c załącznika nr 11 do ustawy przepis ust. 1 pkt 7 stosuje się, jeżeli łączna wartość tych towarów w ramach jednolitej gospodarczo transakcji obejmującej te towary, bez kwoty podatku, przekracza kwotę 20 000 zł.
@@ -225,7 +226,7 @@ source: "eli-html"
 - **2)** 10 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy. ” , w ust. 9 pkt 2 otrzymuje brzmienie: „
     - **c)**
 
-- **2)** w przypadku upływu terminu ważności całości kaucji gwarancyjnej lub jej części, jeżeli wskutek tego wysokość kaucji gwarancyjnej będzie niższa niż: 200 000 zł – w przypadku dostawy towarów wymienionych w poz. 1–9 i 12–21 załącznika nr 13 do ustawy, 1 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy ostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym upłynie ten termin; ” , dodaje się ust. 10 w brzmieniu: „
+- **2)** w przypadku upływu terminu ważności całości kaucji gwarancyjnej lub jej części, jeżeli wskutek tego wysokość kaucji gwarancyjnej będzie niższa niż: 200 000 zł – w przypadku dostawy towarów wymienionych w poz. 1–9 i 12–21 załącznika nr 13 do ustawy, 1 000 000 zł – w przypadku dostawy towarów wymienionych w poz. 10 i 11 załącznika nr 13 do ustawy – ostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym upłynie ten termin; ” , dodaje się ust. 10 w brzmieniu: „
     - **a)**
     - **b)**
     - **d)**
@@ -256,7 +257,7 @@ source: "eli-html"
 
 - **20)** w załączniku nr 13 do ustawy część III otrzymuje brzmienie: „ „III. Pozostałe towary 12 ex 20.59.12.0 Emulsje do uczulania powierzchni do stosowania w fotografice; preparaty chemiczne do stosowania w fotografice, gdzie indziej niesklasyfikowane – wyłącznie tonery bez głowicy drukującej do drukarek do maszyn do automatycznego przetwarzania danych 13 ex 20.59.30.0 Atrament do pisania, tusz kreślarski i pozostałe atramenty i tusze – wyłącznie kasety z tuszem bez głowicy do drukarek do maszyn do automatycznego przetwarzania danych 14 24.41.10.0 Srebro nieobrobione plastycznie lub w postaci półproduktu, lub w postaci proszku 15 ex 24.41.20.0 Złoto nieobrobione plastycznie lub w postaci półproduktu, lub w postaci proszku – wyłącznie złoto o próbie mniejszej niż 325 tysięcznych 16 24.41.30.0 Platyna nieobrobiona plastycznie lub w postaci półproduktu, lub w postaci proszku 17 ex 24.41.40.0 Metale nieszlachetne lub srebro, platerowane złotem, nieobrobione inaczej niż do stanu półproduktu – wyłącznie srebro, platerowane złotem, nieobrobione inaczej niż do stanu półproduktu 18 ex 24.41.50.0 Metale nieszlachetne platerowane srebrem oraz metale nieszlachetne, srebro lub złoto, platerowane platyną, nieobrobione inaczej niż do stanu półproduktu – wyłącznie złoto o próbie mniejszej niż 325 tysięcznych i srebro, platerowane platyną, nieobrobione inaczej niż do stanu półproduktu 19 ex 26.70.13.0 Aparaty fotograficzne cyfrowe i kamery cyfrowe – wyłącznie cyfrowe aparaty fotograficzne 20 ex 28.23.26.0 Części i akcesoria do fotokopiarek – wyłącznie kasety z tuszem i głowicą drukującą do drukarek do maszyn do automatycznego przetwarzania danych, tonery z głowicą drukującą do drukarek do maszyn do automatycznego przetwarzania danych 21 ex 32.12.13.0 Biżuteria i jej części oraz pozostałe wyroby jubilerskie i ich części, ze złota i srebra lub platerowane metalem szlachetnym – wyłącznie części biżuterii i części pozostałych wyrobów jubilerskich ze złota o próbie mniejszej niż 325 tysięcznych, ze srebra i z platyny, tj. niewykończone lub niekompletne wyroby jubilerskie i wyraźne części biżuterii, w tym pokrywane lub platerowane metalem szlachetnym”
 
-**Art. 2.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473, z 2014 r. poz. 423, 768, 811, 915, 1146 i 1232 oraz z 2015 r. poz. 349 i 478.) wprowadza się następujące zmiany:
 
 - **1)** w art. 91 ust. 3a otrzymuje brzmienie: „
 
@@ -315,5 +316,5 @@ source: "eli-html"
 
 2. W przypadku umów w sprawach zamówień publicznych zawartych przed dniem 1 lipca 2015 r. zamawiający jest uprawniony do wystąpienia o zmianę umowy w zakresie obniżenia wynagrodzenia wykonawcy o kwotę podatku od towarów i usług, którą obowiązany jest rozliczyć zamiast wykonawcy na podstawie przepisów ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą. W zakresie przedstawienia informacji dotyczącej kwoty podatku od towarów i usług stosuje się odpowiednio ust. 1. Brak zgody wykonawcy na zmianę umowy uprawnia zamawiającego do odstąpienia od niej.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 lipca 2015 r., z wyjątkiem art. 1 pkt 3–5, 8, 9, pkt 10 lit. a – w zakresie art. 99 ust. 7 pkt 2, i pkt 18 oraz art. 6, które wchodzą w życie z dniem 1 stycznia 2016 r.
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 lipca 2015 r., z wyjątkiem art. 1 pkt 3–5, 8, 9, pkt 10 lit. a – w zakresie art. 99 ust. 7 pkt 2, i pkt 18 oraz art. 6, które wchodzą w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608, z 2014 r. poz. 312, 1171 i 1662 oraz z 2015 r. poz. 211. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473, z 2014 r. poz. 423, 768, 811, 915, 1146 i 1232 oraz z 2015 r. poz. 349 i 478.
 

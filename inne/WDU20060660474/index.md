@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 marca 2006 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych
+# Ustawa z dnia 23 marca 2006 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych Ustawa wdraża postanowienia dyrektywy 2001/84/WE Parlamentu Europejskiego i Rady z dnia 27 września 2001 r. w sprawie prawa autora do wynagrodzenia z tytułu odsprzedaży oryginalnego egzemplarza dzieła sztuki (Dz. Urz. WE L 272 z 13.10.2001, str. 32; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 17, t. 1, str. 240).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-03-23 |
 | Data wydania | 2006-04-21 |
-| Wejście w życie | 2006-05-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060660474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/474/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2000 r. Nr 80, poz. 904, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2000 r. Nr 80, poz. 904, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1402, z 2002 r. Nr 126, poz. 1068 i Nr 197, poz. 1662, z 2003 r. Nr 166, poz. 1610, z 2004 r. Nr 91, poz. 869, Nr 96, poz. 959 i Nr 172, poz. 1804, z 2005 r. Nr 164, poz. 1365 oraz z 2006 r. Nr 21, poz. 164.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -46,7 +45,7 @@ source: "eli-html"
 - **2)** 3% części ceny sprzedaży, jeżeli ta część jest zawarta w przedziale od równowartości 50 000,01 euro do równowartości 200 000 euro, oraz
 - **3)** 1% części ceny sprzedaży, jeżeli ta część jest zawarta w przedziale od równowartości 200 000,01 euro do równowartości 350 000 euro, oraz
 - **4)** 0,5% części ceny sprzedaży, jeżeli ta część jest zawarta w przedziale od równowartości 350 000,01 euro do równowartości 500 000 euro, oraz
-- **5)** 0,25% części ceny sprzedaży, jeżeli ta część jest zawarta w przedziale przekraczającym równowartość 500 000 euro jednak nie wyższego niż równowartość 12 500 euro.
+- **5)** 0,25% części ceny sprzedaży, jeżeli ta część jest zawarta w przedziale przekraczającym równowartość 500 000 euro – jednak nie wyższego niż równowartość 12 500 euro.
 
 2. Przepisu ust. 1 nie stosuje się w przypadku ceny sprzedaży niższej niż równowartość 100 euro.
 
@@ -80,8 +79,5 @@ source: "eli-html"
 
 3. Kto w celu osiągnięcia korzyści majątkowej w inny sposób niż określony w ust. 1 lub ust. 2 narusza cudze prawa autorskie lub prawa pokrewne określone w art. 16, art. 17, art. 18, art. 19 ust. 1, art. 191, art. 86, art. 94 ust. 4 lub art. 97, albo nie wykonuje obowiązków określonych w art. 193 ust. 2, art. 20 ust. 1–4, art. 40 ust. 1 lub ust. 2, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Ustawa wdraża postanowienia dyrektywy 2001/84/WE Parlamentu Europejskiego i Rady z dnia 27 września 2001 r. w sprawie prawa autora do wynagrodzenia z tytułu odsprzedaży oryginalnego egzemplarza dzieła sztuki (Dz. Urz. WE L 272 z 13.10.2001, str. 32; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 17, t. 1, str. 240). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1402, z 2002 r. Nr 126, poz. 1068 i Nr 197, poz. 1662, z 2003 r. Nr 166, poz. 1610, z 2004 r. Nr 91, poz. 869, Nr 96, poz. 959 i Nr 172, poz. 1804, z 2005 r. Nr 164, poz. 1365 oraz z 2006 r. Nr 21, poz. 164.
-
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Ustawa wdraża postanowienia dyrektywy 2001/84/WE Parlamentu Europejskiego i Rady z dnia 27 września 2001 r. w sprawie prawa autora do wynagrodzenia z tytułu odsprzedaży oryginalnego egzemplarza dzieła sztuki (Dz. Urz. WE L 272 z 13.10.2001, str. 32; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 17, t. 1, str. 240). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1402, z 2002 r. Nr 126, poz. 1068 i Nr 197, poz. 1662, z 2003 r. Nr 166, poz. 1610, z 2004 r. Nr 91, poz. 869, Nr 96, poz. 959 i Nr 172, poz. 1804, z 2005 r. Nr 164, poz. 1365 oraz z 2006 r. Nr 21, poz. 164.
 

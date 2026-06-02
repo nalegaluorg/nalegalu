@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 sierpnia 2019 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 sierpnia 2019 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-09 |
 | Data wydania | 2019-08-30 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2025-08-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1652/text.pdf) |
 
@@ -380,8 +379,7 @@ Uczniowie klasy VIII szkoły podstawowej w Polsce i uczniowie klasy VIII szkoły
 § 32.
 Z dniem 1 września 2019 r. koordynatorzy sekcji polskich stają się kierownikami sekcji polskich, o których mowa w § 24 ust. 1.
 § 33.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą (Dz. U. poz. 1648), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą (Dz. U. poz. 1648), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą (Dz. U. poz. 1648), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 
 ## Załącznik nr 1 — – Ramy programowe kształcenia uzupełniającego dla szkół polskich
 
@@ -391,8 +389,7 @@ przyswojenie przez uczniów podstawowego zasobu wiadomości na temat języka pol
 2)
 zdobycie przez uczniów umiejętności wykorzystywania posiadanych wiadomości podczas wykonywania zadań i rozwiązywania problemów;
 3)
-kształtowanie u uczniów postaw umożliwiających sprawne i odpowiedzialne funkcjonowanie we współczesnym świecie oraz postaw świadomej przynależności do narodu polskiego.
-Do najważniejszych umiejętności zdobywanych przez ucznia w trakcie kształcenia uzupełniającego w szkole podstawowej należą:
+kształtowanie u uczniów postaw umożliwiających sprawne i odpowiedzialne funkcjonowanie we współczesnym świecie oraz postaw świadomej przynależności do narodu polskiego. Do najważniejszych umiejętności zdobywanych przez ucznia w trakcie kształcenia uzupełniającego w szkole podstawowej należą:
 1)
 czytanie – rozumiane zarówno jako prosta czynność oraz jako umiejętność rozumienia, wykorzystywania i przetwarzania tekstów w zakresie umożliwiającym zdobywanie wiedzy, rozwój emocjonalny, intelektualny i moralny oraz uczestnictwo w życiu społeczeństwa, w tym w życiu Polonii w miejscu zamieszkania;
 2)
@@ -404,8 +401,7 @@ umiejętność posługiwania się nowoczesnymi technologiami informacyjno--komun
 5)
 umiejętność uczenia się jako sposób zaspokajania naturalnej ciekawości świata, odkrywania swoich zainteresowań i przygotowania do dalszej edukacji;
 6)
-umiejętność pracy zespołowej.
-Jednym z najważniejszych zadań szkoły podstawowej jest kształcenie umiejętności posługiwania się językiem polskim, w tym dbałość o wzbogacanie zasobu słownictwa uczniów w zakresie mowy ojczystej. Powyższe umiejętności uczeń zdobywa przy wsparciu wszystkich nauczycieli. EDUKACJA WCZESNOSZKOLNA Klasy I-III szkoły podstawowej Cele kształcenia – wymagania ogólne Celem edukacji wczesnoszkolnej jest wspomaganie dziecka w rozwoju intelektualnym, emocjonalnym, społecznym, etycznym, fizycznym i estetycznym. Zadaniem szkoły jest wykształcenie umiejętności posługiwania się językiem polskim oraz ukształtowanie systemu wiadomości i umiejętności potrzebnych dziecku do poznawania i rozumienia świata, radzenia sobie w codziennych sytuacjach oraz do kontynuowania nauki w klasach IV-VIII szkoły podstawowej. Uczeń zdobywa podstawowe wiadomości na temat historii, geografii i przyrody Polski. Zdobywa podstawowe informacje o kulturze i społeczeństwie polskim, identyfikuje się z kulturą i tradycją polską, zachowując szacunek dla odmienności kulturowych i tradycji kraju zamieszkania, poznaje klasyczne teksty polskiej literatury dziecięcej. Uczeń rozbudza swoje zainteresowania Polską. Treści nauczania – wymagania szczegółowe Treści nauczania należy dostosować do poziomów biegłości językowej uczniów (poziom A – podstawowy, B – średni, C – zaawansowany)1
+umiejętność pracy zespołowej. Jednym z najważniejszych zadań szkoły podstawowej jest kształcenie umiejętności posługiwania się językiem polskim, w tym dbałość o wzbogacanie zasobu słownictwa uczniów w zakresie mowy ojczystej. Powyższe umiejętności uczeń zdobywa przy wsparciu wszystkich nauczycieli. EDUKACJA WCZESNOSZKOLNA Klasy I-III szkoły podstawowej Cele kształcenia – wymagania ogólne Celem edukacji wczesnoszkolnej jest wspomaganie dziecka w rozwoju intelektualnym, emocjonalnym, społecznym, etycznym, fizycznym i estetycznym. Zadaniem szkoły jest wykształcenie umiejętności posługiwania się językiem polskim oraz ukształtowanie systemu wiadomości i umiejętności potrzebnych dziecku do poznawania i rozumienia świata, radzenia sobie w codziennych sytuacjach oraz do kontynuowania nauki w klasach IV-VIII szkoły podstawowej. Uczeń zdobywa podstawowe wiadomości na temat historii, geografii i przyrody Polski. Zdobywa podstawowe informacje o kulturze i społeczeństwie polskim, identyfikuje się z kulturą i tradycją polską, zachowując szacunek dla odmienności kulturowych i tradycji kraju zamieszkania, poznaje klasyczne teksty polskiej literatury dziecięcej. Uczeń rozbudza swoje zainteresowania Polską. Treści nauczania – wymagania szczegółowe Treści nauczania należy dostosować do poziomów biegłości językowej uczniów (poziom A – podstawowy, B – średni, C – zaawansowany)1
 I.
 Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 1.
@@ -501,8 +497,7 @@ zna na pamięć kilka wybranych polskich wierszy, piosenek i przysłów;
 12)
 opisuje polski pejzaż z uwzględnieniem pór roku oraz obyczaje związane z tymi porami roku;
 13)
-opisuje krajobrazy Polski: nadbałtycki, nizinny, wyżynny, górski.
-Teksty kultury Lektury obowiązkowe: Władysław Bełza, Katechizm polskiego dziecka; Jan Brzechwa, Wiersze dla dzieci (wybór); Julian Tuwim, Wiersze dla dzieci (wybór); Józef Wybicki, Mazurek Dąbrowskiego (dwie pierwsze zwrotki); Kornel Makuszyński, Marian Walentynowicz, Przygody Koziołka Matołka. Legendy: O Lechu, Czechu i Rusie; O Piaście Kołodzieju; O smoku wawelskim; O Warsie i Sawie; O hejnale krakowskim. Piosenki: Krakowiaczek jeden (za: Zygmunt Gloger); Mam chusteczkę haftowaną; Płynie Wisła, płynie (słowa Edmund Wasilewski, muzyka Kazimierz Hofman); Stary niedźwiedź; Wlazł kotek na płotek (za: Oskar Kolberg, muzyka Stanisław Moniuszko); Zasiali górale... Lektury uzupełniające (2 pozycje w każdym roku we fragmentach/całości, do samodzielnego lub wspólnego czytania/słuchania): Justyna Bednarek, Niesamowite przygody dziesięciu skarpetek (czterech prawych i sześciu lewych); Czesław Centkiewicz, Zaczarowana zagroda; Waldemar Cichoń, Cukierku, ty łobuzie!; Agnieszka Frączek, Rany Julek O tym jak Julian Tuwim został poetą; Mira Jaworczakowa, Oto jest Kasia; Grzegorz Kasdepke, Detektyw Pozytywka; Leszek Kołakowski, Kto z was chciałby rozweselić pechowego nosorożca?; Barbara Kosmowska, Dziewczynka z parku; Maria Kruger, Karolcia; Marcin Pałasz, Sposób na Elfa; Joanna Papuzińska, Asiunia; Danuta Parlak, Kapelusz Pani Wrony; Roman Pisarski, O psie, który jeździł koleją; Janina Porazińska, Pamiętnik Czarnego Noska; Maria Terlikowska, Drzewo do samego nieba; Barbara Tylicka, O krakowskich psach i kleparskich kotach. Polskie miasta w baśniach i legendach; Danuta Wawiłow, Najpiękniejsze wiersze; Łukasz Wierzbicki, Afryka Kazika; Łukasz Wierzbicki, Dziadek i niedźwiadek; Wybrane polskie komiksy, np.: Henryk Jerzy Chmielewski, Tytus, Romek i A'Tomek (do wyboru); Janusz Christa, Kajko i Kokosz (do wyboru). Czasopisma, strony internetowe, programy telewizyjne i radiowe (w miarę możliwości), filmy, popularne piosenki dla dzieci. Kręgi tematyczne:
+opisuje krajobrazy Polski: nadbałtycki, nizinny, wyżynny, górski. Teksty kultury Lektury obowiązkowe: Władysław Bełza, Katechizm polskiego dziecka; Jan Brzechwa, Wiersze dla dzieci (wybór); Julian Tuwim, Wiersze dla dzieci (wybór); Józef Wybicki, Mazurek Dąbrowskiego (dwie pierwsze zwrotki); Kornel Makuszyński, Marian Walentynowicz, Przygody Koziołka Matołka. Legendy: O Lechu, Czechu i Rusie; O Piaście Kołodzieju; O smoku wawelskim; O Warsie i Sawie; O hejnale krakowskim. Piosenki: Krakowiaczek jeden (za: Zygmunt Gloger); Mam chusteczkę haftowaną; Płynie Wisła, płynie (słowa Edmund Wasilewski, muzyka Kazimierz Hofman); Stary niedźwiedź; Wlazł kotek na płotek (za: Oskar Kolberg, muzyka Stanisław Moniuszko); Zasiali górale... Lektury uzupełniające (2 pozycje w każdym roku we fragmentach/całości, do samodzielnego lub wspólnego czytania/słuchania): Justyna Bednarek, Niesamowite przygody dziesięciu skarpetek (czterech prawych i sześciu lewych); Czesław Centkiewicz, Zaczarowana zagroda; Waldemar Cichoń, Cukierku, ty łobuzie!; Agnieszka Frączek, Rany Julek O tym jak Julian Tuwim został poetą; Mira Jaworczakowa, Oto jest Kasia; Grzegorz Kasdepke, Detektyw Pozytywka; Leszek Kołakowski, Kto z was chciałby rozweselić pechowego nosorożca?; Barbara Kosmowska, Dziewczynka z parku; Maria Kruger, Karolcia; Marcin Pałasz, Sposób na Elfa; Joanna Papuzińska, Asiunia; Danuta Parlak, Kapelusz Pani Wrony; Roman Pisarski, O psie, który jeździł koleją; Janina Porazińska, Pamiętnik Czarnego Noska; Maria Terlikowska, Drzewo do samego nieba; Barbara Tylicka, O krakowskich psach i kleparskich kotach. Polskie miasta w baśniach i legendach; Danuta Wawiłow, Najpiękniejsze wiersze; Łukasz Wierzbicki, Afryka Kazika; Łukasz Wierzbicki, Dziadek i niedźwiadek; Wybrane polskie komiksy, np.: Henryk Jerzy Chmielewski, Tytus, Romek i A'Tomek (do wyboru); Janusz Christa, Kajko i Kokosz (do wyboru). Czasopisma, strony internetowe, programy telewizyjne i radiowe (w miarę możliwości), filmy, popularne piosenki dla dzieci. Kręgi tematyczne:
 1)
 ja i moi bliscy:
 – podstawowe informacje o sobie (imię, nazwisko, wiek, miejsce zamieszkania),
@@ -610,8 +605,7 @@ Rozwijanie umiejętności posługiwania się podstawowymi pojęciami i terminami
 6.
 Rozwijanie twórczych i sprawczych działań językowych oraz kształtowanie odpowiedzialności za własne zachowania językowe.
 7.
-Zachęcanie do rozwijania swoich uzdolnień przez udział w różnych formach pogłębiania wiedzy, np.: konkursach, olimpiadach, kołach zainteresowań, oraz rozwijanie umiejętności samodzielnej prezentacji wyników swojej pracy.
-Treści nauczania – wymagania szczegółowe Treści nauczania należy dostosować do poziomów biegłości językowej uczniów (poziom A – podstawowy, poziom B – średni, poziom C – zaawansowany)2 Klasy IV-VI
+Zachęcanie do rozwijania swoich uzdolnień przez udział w różnych formach pogłębiania wiedzy, np.: konkursach, olimpiadach, kołach zainteresowań, oraz rozwijanie umiejętności samodzielnej prezentacji wyników swojej pracy. Treści nauczania – wymagania szczegółowe Treści nauczania należy dostosować do poziomów biegłości językowej uczniów (poziom A – podstawowy, poziom B – średni, poziom C – zaawansowany)2 Klasy IV-VI
 I.
 Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 1.
@@ -791,8 +785,7 @@ rozpoznaje związki wyrazów w zdaniu, wyróżnia człon nadrzędny i podrzędny
 13)
 rozpoznaje typy wypowiedzeń: zdanie pojedyncze i złożone, równoważnik zdania, wypowiedzenia oznajmujące, pytające, rozkazujące i wykrzyknikowe, oraz typy zdań złożonych współrzędnie i podrzędnie;
 14)
-określa funkcję wyrazów poza zdaniem.
-Teksty kultury Lektura obowiązkowa: Jan Brzechwa, Akademia pana Kleksa; Janusz Christa, Kajko i Kokosz. Szkoła latania (komiks); Rafał Kosik, Felix, Net i Nika oraz Gang Niewidzialnych Ludzi; Ignacy Krasicki, wybrane bajki; Adam Mickiewicz, Powrót taty, Pani Twardowska, Pan Tadeusz (fragmenty, w tym opisy: zwyczaje i obyczaje, polowanie i koncert Wojskiego); Bolesław Prus, Katarynka; Juliusz Słowacki, W pamiętniku Zofii Bobrówny; Henryk Sienkiewicz, W pustyni i w puszczy; Józef Wybicki, Mazurek Dąbrowskiego; Wybrane podania, legendy i baśnie polskie; Wybrane wiersze Władysława Bełzy, Jana Brzechwy, Konstantego Ildefonsa Gałczyńskiego, Zbigniewa Herberta, Anny Kamieńskiej, Joanny Kulmowej, Adama Mickiewicza, Czesława Miłosza, Juliusza Słowackiego, Leopolda Staffa, Juliana Tuwima, Jana Twardowskiego oraz pieśni i piosenki patriotyczne, kolędy. Lektura uzupełniająca (2 pozycje w każdym roku szkolnym, we fragmentach lub w całości do samodzielnego lub wspólnego czytania/słuchania): Adam Bahdaj, Kapelusz za 100 tysięcy; Janusz Korczak, Król Maciuś Pierwszy; Marcin Kozioł, Skrzynia Władcy Piorunów; Stanisław Lem, Cyberiada (fragmenty); Kornel Makuszyński, wybrana powieść; Andrzej Maleszka, Magiczne drzewo; Małgorzata Musierowicz, wybrana powieść; Ewa Nowak, Pajączek na rowerze; Edmund Niziurski, Sposób na Alcybiadesa; Henryk Sienkiewicz, Janko Muzykant; Alfred Szklarski, wybrana powieść; Wybrane pozycje z serii Nazywam się... (np. Mikołaj Kopernik, Fryderyk Chopin, Maria Skłodowska-Curie, Jan Paweł II) lub inne utwory literackie i teksty kultury, wybrane przez nauczyciela, np. film, spektakl. Wybrane programy telewizyjne i radiowe, czasopisma (w miarę możliwości). Klasy VII i VIII
+określa funkcję wyrazów poza zdaniem. Teksty kultury Lektura obowiązkowa: Jan Brzechwa, Akademia pana Kleksa; Janusz Christa, Kajko i Kokosz. Szkoła latania (komiks); Rafał Kosik, Felix, Net i Nika oraz Gang Niewidzialnych Ludzi; Ignacy Krasicki, wybrane bajki; Adam Mickiewicz, Powrót taty, Pani Twardowska, Pan Tadeusz (fragmenty, w tym opisy: zwyczaje i obyczaje, polowanie i koncert Wojskiego); Bolesław Prus, Katarynka; Juliusz Słowacki, W pamiętniku Zofii Bobrówny; Henryk Sienkiewicz, W pustyni i w puszczy; Józef Wybicki, Mazurek Dąbrowskiego; Wybrane podania, legendy i baśnie polskie; Wybrane wiersze Władysława Bełzy, Jana Brzechwy, Konstantego Ildefonsa Gałczyńskiego, Zbigniewa Herberta, Anny Kamieńskiej, Joanny Kulmowej, Adama Mickiewicza, Czesława Miłosza, Juliusza Słowackiego, Leopolda Staffa, Juliana Tuwima, Jana Twardowskiego oraz pieśni i piosenki patriotyczne, kolędy. Lektura uzupełniająca (2 pozycje w każdym roku szkolnym, we fragmentach lub w całości do samodzielnego lub wspólnego czytania/słuchania): Adam Bahdaj, Kapelusz za 100 tysięcy; Janusz Korczak, Król Maciuś Pierwszy; Marcin Kozioł, Skrzynia Władcy Piorunów; Stanisław Lem, Cyberiada (fragmenty); Kornel Makuszyński, wybrana powieść; Andrzej Maleszka, Magiczne drzewo; Małgorzata Musierowicz, wybrana powieść; Ewa Nowak, Pajączek na rowerze; Edmund Niziurski, Sposób na Alcybiadesa; Henryk Sienkiewicz, Janko Muzykant; Alfred Szklarski, wybrana powieść; Wybrane pozycje z serii Nazywam się... (np. Mikołaj Kopernik, Fryderyk Chopin, Maria Skłodowska-Curie, Jan Paweł II) lub inne utwory literackie i teksty kultury, wybrane przez nauczyciela, np. film, spektakl. Wybrane programy telewizyjne i radiowe, czasopisma (w miarę możliwości). Klasy VII i VIII
 I.
 Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 1.
@@ -1004,8 +997,7 @@ rozróżnia normę językową wzorcową oraz użytkową;
 14)
 rozumie, na czym polega błąd językowy;
 15)
-rozumie mechanizm upodobnień fonetycznych, uproszczeń grup spółgłoskowych i utraty dźwięczności w wygłosie.
-Teksty kultury Lektura obowiązkowa: Aleksander Fredro, Zemsta; Jan Kochanowski, wybór fraszek, pieśni i trenów, w tym tren I, V, VII, VIII; Ignacy Krasicki, Żona modna; Adam Mickiewicz, Reduta Ordona, Śmierć Pułkownika, Świtezianka, II część Dziadów, Pan Tadeusz, wybrany utwór z cyklu Sonety krymskie; Henryk Sienkiewicz, Quo vadis, Latarnik; Juliusz Słowacki, Balladyna; Stefan Żeromski, Syzyfowe prace; Aleksander Kamiński, Kamienie na szaniec; Sławomir Mrożek, Artysta; Melchior Wańkowicz, Ziele na kraterze (fragmenty), Tędy i owędy (wybrany reportaż); Wybrane wiersze Cypriana Norwida, Bolesława Leśmiana, Mariana Hemara, Krzysztofa Kamila Baczyńskiego, Kazimierza Wierzyńskiego, Jana Lechonia, Jerzego Lieberta, Stanisława Barańczaka, Wisławy Szymborskiej, Jarosława Marka Rymkiewicza oraz fraszki Jana Sztaudyngera i aforyzmy Stanisława Jerzego Leca. Lektura uzupełniająca (2 pozycje w każdym roku szkolnym, we fragmentach lub w całości do samodzielnego lub wspólnego czytania/słuchania): Miron Białoszewski, Pamiętnik z powstania warszawskiego; Arkady Fiedler, Dywizjon 303; Henryk Sienkiewicz, Krzyżacy; Melchior Wańkowicz, Monte Cassino; Karolina Lanckorońska, Wspomnienia wojenne 22 IX 1939–5 IV 1945; Barbara Kosmowska, Pozłacana rybka; Jan Paweł II, Przekroczyć próg nadziei lub inne utwory literackie i teksty kultury wybrane przez nauczyciela, w tym wiersze poetów współczesnych i reportaże. Kręgi tematyczne:
+rozumie mechanizm upodobnień fonetycznych, uproszczeń grup spółgłoskowych i utraty dźwięczności w wygłosie. Teksty kultury Lektura obowiązkowa: Aleksander Fredro, Zemsta; Jan Kochanowski, wybór fraszek, pieśni i trenów, w tym tren I, V, VII, VIII; Ignacy Krasicki, Żona modna; Adam Mickiewicz, Reduta Ordona, Śmierć Pułkownika, Świtezianka, II część Dziadów, Pan Tadeusz, wybrany utwór z cyklu Sonety krymskie; Henryk Sienkiewicz, Quo vadis, Latarnik; Juliusz Słowacki, Balladyna; Stefan Żeromski, Syzyfowe prace; Aleksander Kamiński, Kamienie na szaniec; Sławomir Mrożek, Artysta; Melchior Wańkowicz, Ziele na kraterze (fragmenty), Tędy i owędy (wybrany reportaż); Wybrane wiersze Cypriana Norwida, Bolesława Leśmiana, Mariana Hemara, Krzysztofa Kamila Baczyńskiego, Kazimierza Wierzyńskiego, Jana Lechonia, Jerzego Lieberta, Stanisława Barańczaka, Wisławy Szymborskiej, Jarosława Marka Rymkiewicza oraz fraszki Jana Sztaudyngera i aforyzmy Stanisława Jerzego Leca. Lektura uzupełniająca (2 pozycje w każdym roku szkolnym, we fragmentach lub w całości do samodzielnego lub wspólnego czytania/słuchania): Miron Białoszewski, Pamiętnik z powstania warszawskiego; Arkady Fiedler, Dywizjon 303; Henryk Sienkiewicz, Krzyżacy; Melchior Wańkowicz, Monte Cassino; Karolina Lanckorońska, Wspomnienia wojenne 22 IX 1939–5 IV 1945; Barbara Kosmowska, Pozłacana rybka; Jan Paweł II, Przekroczyć próg nadziei lub inne utwory literackie i teksty kultury wybrane przez nauczyciela, w tym wiersze poetów współczesnych i reportaże. Kręgi tematyczne:
 1)
 ja i moi bliscy:
 – dane osobowe (imię, nazwisko, wiek, adres, data i miejsce urodzenia, wykształcenie),
@@ -1071,7 +1063,334 @@ język nauki:
 – terminy z zakresu wiedzy o języku,
 – terminy z zakresu wiedzy o literaturze,
 – terminy historyczne i geograficzne.
-Tabela diagnostyczna poziomu znajomości języka Kompetencje językowe (5–9 lat) Kompetencje A – poziom podstawowy B – poziom średni (średnio zaawansowany) C – poziom zaawansowany 1 2 3 4 Słuchanie Uczeń:- rozróżnia większość głosek istotnych dla języka polskiego,- rozumie proste polecenia,- rozumie proste wypowiedzi monologowe i dialogowe, o ile otrzymuje dodatkowe wyjaśnienia,- rozumie proste teksty literackie wspierane obrazkami, gestami, rekwizytami i inne teksty kultury, o ile otrzymuje dodatkowe wyjaśnienia Uczeń:- rozróżnia głoski współczesnej polszczyzny z wyjątkiem najtrudniejszych,- rozumie złożone polecenia,- rozumie proste wypowiedzi monologowe i dialogowe bez dodatkowych wyjaśnień,- rozumie proste teksty literackie (zwłaszcza pisane współczesną polszczyzną), wspierane obrazkami, gestami, rekwizytami i inne teksty kultury Uczeń:- rozróżnia wszystkie głoski współczesnej polszczyzny,- rozumie rozbudowane polecenia,- rozumie złożone wypowiedzi monologowe i dialogowe,- rozumie teksty literackie (zwłaszcza pisane współczesną polszczyzną) i inne teksty kultury Mówienie – wymawia poznane słowa w sposób na ogól zrozumiały,- tworzy, z pomocą nauczyciela, krótką wypowiedź składającą się z prostych zdań,- porozumiewa się w prostych sytuacjach komunikacyjnych,- stosuje podstawowe formuły grzecznościowe,- odtwarza z pamięci rymowanki i inne krótkie, proste teksty – wymawia poznane słowa w sposób zrozumiały,- skutecznie porozumiewa się w codziennych sytuacjach, stosując właściwe formy komunikowania się,- uczestniczy w rozmowie, wyraża w prosty sposób własne zdanie,- formułuje kilkuzdaniową wypowiedź, opowiada o własnych doświadczeniach, opisuje ludzi, przedmioty, miejsca i sytuacje,- formułuje życzenia i zaproszenie,- opowiada w prosty sposób akcję utworu oraz opisuje bohaterów i relacje między nimi, a także świat przedstawiony tekstów kultury,- stosuje formuły grzecznościowe,- recytuje wiersze – poprawnie wymawia słowa i zwroty,- wypowiada się płynnie,- opisuje, opowiada, charakteryzuje postać literacką,- uczestniczy w rozmowie i w prostej dyskusji,- stosuje formuły grzecznościowe,- recytuje wiersze, stosując pauzę i intonację Czytanie – zna wszystkie litery i odpowiadające im głoski,- dzieli wyraz na sylaby,- czyta na głos i cicho proste, krótkie teksty,- rozumie proste i krótkie teksty użytkowe,- rozumie proste i krótkie utwory literackie, wspierane materiałem ilustracyjnym, i inne teksty kultury,- korzysta z obrazkowych słowników i encyklopedii – czyta na głos, prawidłowo akcentując wyrazy,- rozumie krótkie teksty użytkowe,- rozpoznaje formy użytkowe, np. życzenia, zaproszenie, ogłoszenie, list, prostą instrukcję,- rozumie krótkie utwory literackie i inne teksty kultury.- w tekście literackim zaznacza wybrane fragmenty, określa czas i miejsce akcji, wskazuje głównych bohaterów,- wyszukuje w tekście potrzebne informacje,- korzysta z obrazkowych słowników i encyklopedii – czyta na głos, poprawnie i wyraziście krótki i prosty tekst (także nieznany),- rozumie utwory literackie i inne teksty kultury,- określa podstawowe elementy świata przedstawionego w utworze literackim lub innym tekście kultury,- rozumie podstawowe oraz przenośne znaczenie wyrazów w tekście,- korzysta ze słowników i encyklopedii Pisanie – pisze wszystkie małe i wielkie litery, dostrzega różnicę między literą i głoską,- przepisuje wyrazy i proste zdania,- pisze z pamięci (pojedyncze wyrazy) i ze słuchu (proste zdania), po omówieniu pisowni z nauczycielem,- tworzy, z pomocą nauczyciela, krótką wypowiedź składającą się z prostych zdań (opis, pozdrowienia, życzenia),- pisze według wzoru krótki tekst o sobie,- stosuje podstawowe formuły grzecznościowe,- dba o poprawność graficzną polskich liter – przepisuje krótkie teksty,- pisze z pamięci (kilka wyrazów) i ze słuchu (proste, krótkie teksty),- z pomocą nauczyciela tworzy krótką wy powiedź (opis, list prywatny, życzenia, zaproszenie),- pisze według wzoru proste teksty na znane mu tematy (np. związane z jego zainteresowaniami),- pisze proste teksty związane z poznanymi utworami literackimi i innymi tekstami kultury,- stosuje podstawowe formuły grzecznościowe,- na ogól pisze poprawnie ortograficznie i stosuje podstawową interpunkcję – pisze z pamięci (pojedyncze zdania) i ze słuchu (krótkie teksty),- tworzy krótką wypowiedź (dialog, opowiadanie, przepis),- tworzy wypowiedź na znane mu tematy (np. związane z jego zainteresowaniami),- tworzy wypowiedź związaną z poznanymi utworami literackimi i innymi tekstami kultury,- stosuje podstawowe formuły grzecznościowe,- zna i na ogól stosuje zasady ortografii i interpunkcji Kompetencje językowe (10–13 lat) Kompetencje A – poziom podstawowy B – poziom średni (średnio zaawansowany) C – poziom zaawansowany 1 2 3 4 Słuchanie Uczeń:- rozróżnia większość głosek języka polskiego (z wyjątkiem najtrudniejszych),- rozumie polecenia oraz proste wypowiedzi monologowe i dialogowe,- rozumie proste, współczesne utwory literackie wspierane ilustracjami, gestami, rekwizytami i inne teksty kultury,- rozumie proste wypowiedzi o charakterze informacyjnym i użytkowym Uczeń:- rozróżnia większość głosek języka polskiego,- rozumie złożone polecenia, proste instrukcje oraz wypowiedzi monologowe i dialogowe, w tym nadawane za pomocą środków audiowizualnych,- rozumie utwory literackie (zwłaszcza pisane współczesną polszczyzną) i inne teksty kultury,- rozumie wypowiedzi o charakterze informacyjnym i użytkowym Uczeń:- rozróżnia wszystkie głoski języka polskiego,- rozumie złożone polecenia, proste instrukcje oraz wypowiedzi monologowe i dialogowe, włącznie z wypowiedziami w dyskusjach,- rozumie utwory literackie (z różnych epok) i inne teksty kultury,- rozumie rozbudowane wypowiedzi o charakterze informacyjnym i użytkowym Mówienie – wymawia poznane słowa w sposób na ogól zrozumiały,- tworzy samodzielnie na ogól poprawną kilkuzda-niową wypowiedź,- porozumiewa się w typowych sytuacjach komunikacyjnych,- stosuje podstawowe formuły grzecznościowe,- odtwarza z pamięci proste teksty- opowiada akcję utworu, opisuje bohaterów i relacje między nimi, a także świat przedstawiony tekstów kultury, w tym nazywa swoje reakcje czytelnicze i wyraża swój stosunek do postaci,- uczestniczy w rozmowie, wyraża własne zdanie i uzasadnia je,- stosuje zróżnicowane formuły grzecznościowe,- recytuje utwory literackie, dbając o prawidłowe akcentowanie i intonację – mówi w sposób na ogól zrozumiały, stosując akcent zdaniowy,- spontanicznie i w miarę płynnie porozumiewa się w codziennych sytuacjach, stosując właściwe formy komunikowania się,- opowiada o własnych doświadczeniach, opisuje ludzi, przedmioty, miejsca i sytuacje,- formułuje życzenia, gratulacje, zaproszenie,- formułuje w miarę spójną wypowiedź na znane mu tematy (np. związane z jego zainteresowaniami) oraz poznanymi utworami literackimi i innymi tekstami kultury, – poprawnie wymawia słowa i zdania,- wypowiada się płynnie i logicznie,- opisuje, opowiada, charakteryzuje postać literacką, streszcza i relacjonuje zdarzenia,- rozpoczyna dyskusję i uczestniczy w dyskusji nad poznanymi tekstami kultury,- stosuje zróżnicowane formuły grzecznościowe,- recytuje utwory literackie, stosując właściwą modulację głosową Czytanie – zna wszystkie litery i odpowiadające im głoski języka polskiego,- czyta na głos i cicho proste teksty literackie i nieliterackie,- rozumie proste teksty informacyjnej użytkowe,- rozumie proste utwory literackie oraz inne teksty kultury,- wskazuje w tekście najważniejsze informacje,- korzysta ze słowników dwujęzycznych i encyklopedii – czyta na głos, prawidłowo akcentując wyrazy, i stosuje akcent zdaniowy,- rozumie dłuższe teksty informacyjne oraz użytkowe,- rozróżnia teksty informacyjne i argumentacyjne,- odróżnia zdania informujące o faktach od zdań wyrażających opinię,- rozumie dłuższe utwory literackie oraz inne teksty kultury,- rozpoznaje wpisanego w tekst literacki nadawcę i odbiorcę,- rozpoznaje wybrane elementy świata przedstawionego w tekście literackim,- korzysta ze szkolnych słowników oraz innych źródeł informacji,- rozróżnia oficjalną i nieoficjalną odmianę języka – czyta na głos, prawidłowo akcentując wyrazy, i zachowuje intonację zdania,- czyta z pomocą nauczyciela wybrane utwory literackie (z różnych epok),- rozumie utwory literackie, informacyjne, użytkowe oraz inne teksty kultury,- odróżnia język literacki od nieliterackiego,- wyodrębnia wszystkie elementy świata przedstawionego w tekście literackim,- korzysta z informacji zawartych w encyklopediach oraz słownikach jednojęzycznych i dwujęzycznych Pisanie – poprawniezapisuje wszystkie litery polskiego alfabetu,- przepisuje wyrazy i proste zdania,- pisze z pamięci i ze słuchu wyrazy i proste zdania,- zapisuje proste informacje o sobie,- pisze według wzoru proste teksty na znane mu tematy (np. związane z jego zainteresowaniami),- tworzy krótką, na ogól poprawną, kilkuzdaniową wypowiedź składającą się z prostych zdań (opis, dialog, pozdrowienia, życzenia),- stosuje podstawowe formuły grzecznościowe,- na ogół pisze poprawnie ortograficznie i stosuje poprawną interpunkcję – zapisuje dyktowane teksty,- opisuje wydarzenia, swoje przeżycia i doświadczenia,- tworzy wypowiedź związaną z poznanymi utworami literackimi i innymi tekstami kultury oraz na znane mu tematy (np. o jego zainteresowaniach),- tworzy proste wypowiedzi pisemne w wybranych formach gatunkowych (opis, charakterystyka, opowiadanie, dialog, list prywatny, kartka z dziennika, ogłoszenie, zaproszenie, życzenia, notatka),- sporządza plan wypowiedzi,- stosuje formuły grzecznościowe,- pisze poprawnie pod względem ortograficznym i interpunkcyjnym – sporządza notatkę z tekstu czytanego,- swobodnie tworzy wypowiedzi pisemne w poznanych formach gatunkowych, stosując urozmaicone słownictwo,- stosuje w wypowiedzi pisemnej odpowiednią kompozycję i układ graficzny,- posługuje się oficjalną i nieoficjalną odmianą języka,- pisze poprawnie pod względem ortograficznym i interpunkcyjnym Kompetencje językowe (od 14 lat) Kompetencje A – poziom podstawowy B – poziom średni (średnio zaawansowany) C – poziom zaawansowany 1 2 3 4 Słuchanie Uczeń:- rozróżnia większość głosek języka polskiego,- rozumie polecenia i proste wypowiedzi monologowe i dialogowe, w tym nadawane za pomocą środków audiowizualnych,- rozumie proste utwory literackie (zwłaszcza pisane współczesną polszczyzną) i inne teksty kultury,- rozumie proste wypowiedzi informacyjne i użytkowe,- rozpoznaje intencję wypowiedzi (np. aprobatę, dezaprobatę) wspomaganą intonacją lub gestem Uczeń:- rozróżnia głoski języka polskiego z wyjątkiem najtrudniejszych,- rozumie wypowiedzi monologowe i dialogowe, w tym nadawane za pomocą środków audiowizualnych,- rozumie utwory literackie i inne teksty kultury,- rozumie wypowiedzi informacyjne i użytkowe oraz odróżnia informacje o faktach od opinii,- rozumie intencję wypowiedzi (np. aprobatę, dezaprobatę, prowokację) oraz rozpoznaje środki językowe służące jej wyrażeniu Uczeń:- rozróżnia wszystkie głoski języka polskiego,- rozumie wypowiedzi o złożonej strukturze, w tym nadawane za pomocą środków audiowizualnych, i odbiera zawarte w nich informacje zarówno jawne, jak i ukryte,- rozumie utwory literackie (z różnych epok) i inne teksty kultury,- rozumie wypowiedzi o charakterze popularnonaukowym i publicystycznym,- rozumie jawną i ukrytą intencję wypowiedzi (sugestię i manipulację językową oraz ironię),- rozpoznaje środki językowe pełniące różne funkcje stylistyczne Mówienie – wymawia poznane słowa w sposób na ogól zrozumiały,- tworzy samodzielnie na ogól poprawną kilkuzdaniową wypowiedź,- porozumiewa się w typowych sytuacjach komunikacyjnych,- w prosty sposób wypowiada się (opisuje swoje reakcje) na temat poznanych tekstów kultury,- stosuje formuły grzecznościowe,- odtwarza teksty z pamięci – mówi w sposób na ogól zrozumiały i stosuje akcent zdaniowy,- swobodnie i spontanicznie porozumiewa się w różnych sytuacjach, stosując właściwe formy komunikowania się,- formułuje spójną wypowiedź na tematy związane z otaczającą rzeczywistością, opowiada o własnych doświadczeniach, opisuje ludzi, przedmioty, miejsca i sytuacje,- streszcza, omawia przeczytane utwory literackie i inne teksty kultury, wskazuje ich temat, problematykę, charakteryzuje postaci, przedstawia przebieg akcji oraz tworzy spójne, dłuższe wypowiedzi na zadany lub wybrany przez siebie temat,- uczestniczy w dyskusji na znany sobie temat, potrafi przedstawić swój punkt widzenia i uzasadnia własne zdanie,- stosuje podstawowe zasady etykiety językowej, dostosowując odmianę i styl języka do sytuacji, w której się wypowiada,- recytuje utwory literackie, dbając o prawidłową intonację – poprawnie wymawia słowa i zdania,- wypowiada się spontanicznie, płynnie i logicznie,- prezentuje fabułę i charakteryzuje postać mówiącą, wypowiada się precyzyjnie w rozmaitych formach,- w dyskusji, wystąpieniu publicznym formułuje swoje zdanie, uzasadnia je i broni go, podejmuje polemikę,- przestrzega zasad etykiety językowej, dostosowuje sposób wyrażania do stylu właściwego dla danej sytuacji,- recytuje utwory literackie, interpretując je głosowo Czytanie – zna wszystkie litery i odpowiadające im głoski,- czyta na glos i cicho proste teksty literackie i nieliterackie,- rozumie proste teksty informacyjne i użytkowe,- rozumie proste utwory literackie oraz inne teksty kultury,- wyodrębnia części składowe całego tekstu i akapitu (wstęp, rozwinięcie, zakończenie),- odróżnia w prostym tekście informacje ważne od drugorzędnych,- korzysta ze słowników i encyklopedii – czyta na głos, prawidłowo akcentując wyrazy, i stosuje akcent zdaniowy,- rozumie dłuższe teksty informacyjne oraz użytkowe,- rozpoznaje podstawowe funkcje wypowiedzi,- wyszukuje informacje według wskazanego kryterium i porządkuje je,- rozumie dłuższe utwory literackie oraz inne teksty kultury,- wskazuje i charakteryzuje podstawowe kategorie świata przedstawionego,- rozpoznaje jawną i ukrytą intencję wypowiedzi (np. aprobatę, dezaprobatę, sugestię),- dostrzega w wypowiedzi ewentualne przejawy manipulacji,- w tekście argumentacyj-nym wskazuje tezę, argumenty, przykłady i wnioski – rozumie utwory literackie i inne teksty kultury, a w ich interpretacji uwzględnia różne konteksty,- identyfikuje elementy konstrukcyjne struktury tekstu literackiego i dostrzega relacje między nimi,- odczytuje sens całego tekstu i wydzielonych fragmentów oraz ich funkcję na tle całości,- rozpoznaje jawną i ukrytą intencję wypowiedzi, ironię i manipulację językową,- czyta wybrane utwory literackie (z różnych epok),- korzysta z rozmaitych źródeł informacji Pisanie – poprawnie zapisuje wszystkie litery polskiego alfabetu, przepisuje wyrazy i proste zdania,- pisze z pamięci i ze słuchu wyrazy i proste zdania,- zapisuje proste informacje o sobie,- w prosty sposób nazywa swoje emocje i opisuje swoje doświadczenia,- tworzy proste, kilkuzdanio-we wypowiedzi (opis, dialog, pozdrowienia, życzenia, list prywatny, krótka wiadomość),- tworzy kilkuzdaniową, na ogół poprawną, wypowiedź na znane mu tematy (np. związane z jego zainteresowaniami lub doświadczeniami),- w prosty sposób wypowiada się (opisuje swoje reakcje) na temat poznanych tekstów kultury,- stosuje formuły grzecznościowe,- na ogół pisze poprawnie pod względem ortograficznym i interpunkcyjnym, posługując się słownikiem ortograficznym – zapisuje dyktowane teksty,- tworzy podstawowe formy użytkowe (list oficjalny, podanie, życiorys),- opowiada o rzeczywistych lub fikcyjnych zdarzeniach i doświadczeniach oraz opisuje uczucia,- tworzy wypowiedzi pisemne w poznanych formach gatunkowych, stosując urozmaicone słownictwo,- tworzy spójną pod względem logicznym i składniowym wypowiedź na zadany temat,- przedstawia własną opinię na temat poznanych tekstów kultury i uzasadnia ją,- posługuje się oficjalną i nieoficjalną odmianą języka,- stosuje formuły grzecznościowe,- pisze poprawnie pod względem ortograficznym i interpunkcyjnym, posługując się słownikiem ortograficznym – sporządza notatkę z tekstu słuchanego i czytanego,- tworzy formy użytkowe (list oficjalny, podanie, życiorys, CV, list motywacyjny),- przedstawia (opracowuje w pełni) dowolnie wybrany temat, zwracając uwagę na strukturę wypowiedzi,- wypowiada się w różnych formach gatunkowych (list prywatny, dziennik, streszczenie, w tym streszczenie tekstu argumentacyjnego, sprawozdanie, rozprawka), stosując urozmaicone słownictwo,- analizuje i interpretuje wskazane utwory literackie oraz inne teksty kultury,- stosuje formuły grzecznościowe odpowiednie do sytuacji,- stosuje obowiązujące normy poprawnościowe, posługując się słownikami,- redaguje i edytuje własny tekst Kręgi tematyczne 5–9lat 10–13 lat od 14 lat 1 2 3 Ja i moi bliscy:- podstawowe informacje o sobie (imię, nazwisko, wiek, miejsce zamieszkania);- wygląd zewnętrzny;- umiejętności i zainteresowania;- emocje, marzenia, świat wyobraźni;- najbliższa rodzina;- przyjaciele, koledzy Ja i moi bliscy:- dane osobowe (imię, nazwisko, wiek, adres, data i miejsce urodzenia);- wygląd zewnętrzny i cechy charakteru;- zainteresowania, hobby;- uczucia, emocje, marzenia, świat wyobraźni;- zawody i umiejętności;- rodzina i relacje rodzinne;- przyjaciele, koledzy, znajomi Ja i moi bliscy:- dane osobowe (imię, nazwisko, wiek, adres, data i miejsce urodzenia, wykształcenie);- wygląd zewnętrzny, cechy charakteru, talenty i zdolności;- zainteresowania, hobby, pasje;- uczucia, emocje, marzenia, plany;- praca i kariera;- rodzina, relacje rodzinne i stopnie pokrewieństwa;- życie towarzyskie;- konflikty i problemy (w tym problemy etyczne) Dom i otoczenie:- dom (pomieszczenia, meble);- zabawki;- podwórko, plac zabaw;- ciekawe miejsca Dom i otoczenie:- dom (pomieszczenia, wyposażenie);- otoczenie domu (ogród, ulica);- najbliższa okolica;- atrakcje w miejscu zamieszkania Dom i otoczenie:- dom i otoczenie domu;- miejsce zamieszkania i okolice;- urzędy i instytucje;- atrakcje w miejscu zamieszkania i okolicy Życie codzienne:- kalendarz (miesiące, dni tygodnia, godziny, pory dnia);- podstawowe czynności dnia codziennego;- moja klasa i obowiązki szkolne;- gry, zabawy, kola zainteresowań;- żywienie (artykuły spożywcze, posiłki i potrawy);- zakupy (kupowanie, sprzedawanie, cyfry i liczby);- usługi (np. biblioteka);- ubranie (części garderoby) Życie codzienne:- kalendarz (miesiące, dni tygodnia, godziny, pory dnia, plan dniartygodnia/miesiąca);- codzienne czynności i obowiązki;- moja klasa i szkoła;- rozrywki (np. kino, park rozrywki);- żywienie (artykuły spożywcze, posiłki i potrawy, ich przygotowanie, sposoby odżywiania się);- zakupy (sklepy, towary, miary i wagi, pieniądze);- usługi (np. poczta, fryzjer);- ubranie i moda Życie codzienne;- kalendarz (miesiące, dni tygodnia, godziny, pory dnia, lata, wieki, plan dnia/tygodnia/miesiąca);- codzienne czynności i obowiązki (domowe, szkolne, koleżeńskie);- klasa, szkoła, system edukacji;- sposoby spędzania wolnego czasu (np. kino, teatr, klub);- żywienie (artykuły spożywcze, posiłki i potrawy, lokale gastronomiczne, sposoby odżywiania się);- zakupy (sklepy, towary, miary i wagi, pieniądze, reklama, reklamacja);- usługi (np. bank, punkty naprawy);- ubranie, moda i styl Zdrowie i sport:- najważniejsze części ciała;- czystość i schludność;- samopoczucie;- umiejętności sportowe Zdrowie i sport:- części ciała;- higiena osobista;- choroby i leczenie;- zdrowa żywność;- dyscypliny i wydarzenia sportowe;- sprzęt i obiekty sportowe Zdrowie i sport:- budowa człowieka;- higiena osobista;- choroby i leczenie, wypadki;- uzależnienia;- zdrowy styl życia, dieta;- dyscypliny i wydarzenia sportowe;- sprzęt i obiekty sportowe Podróże i turystyka:- wakacje;- ciekawostki turystyczne;- komunikacja lokalna Podróże i turystyka:- wakacje, wypoczynek;- znane miejsca, obiekty;- informacja turystyczna;- środki transportu Podróże i turystyka:- planowanie wypoczynku i podróży;- znane miejsca i zabytki;- informacja turystyczna;- baza turystyczna;- transport Środowisko naturalne:- pogoda, pory roku;- rośliny i zwierzęta Środowisko naturalne:- klimat, pogoda, pory roku;- rośliny i zwierzęta;- ochrona przyrody Środowisko naturalne:- klimat, pogoda, pory roku;- świat roślin i zwierząt;- krajobraz;- ekologia;- katastrofy naturalne;- przestrzeń kosmiczna Technika, media;- domowe urządzenia techniczne;- telewizja, radio, Internet Technika, media:- odkrycia i wynalazki;- urządzenia techniczne;- radio, telewizja, prasa, Internet Technika, media:- rozwój techniki i informatyki;- motoryzacja i telekomunikacja;- radio, telewizja, prasa, Internet Wiedza o Polsce:- symbole narodowe;- znani Polacy;- święta i zwyczaje;- polonica w miejscu zamieszkania Wiedza o Polsce:- wybitni twórcy kultury i ich dzielą;- święta, tradycje i zwyczaje;- polonica w miejscu zamieszkania Wiedza o Polsce:- twórcy kultury i ich dzieła;- święta, tradycje i zwyczaje, rocznice;- polonica w miejscu zamieszkania i okolicy Język nauki:- podstawowe terminy z zakresu wiedzy o języku;- podstawowe terminy z zakresu wiedzy o literaturze;- podstawowe terminy historyczne i geograficzne Język nauki;- podstawowe terminy z zakresu wiedzy o języku;- podstawowe terminy z zakresu wiedzy o literaturze;- podstawowe terminy historyczne i geograficzne Język nauki:- podstawowe terminy z zakresu wiedzy o języku;- podstawowe terminy z zakresu wiedzy o literaturze;- podstawowe terminy historyczne i geograficzne
+Tabela diagnostyczna poziomu znajomości języka
+Kompetencje językowe (5–9 lat) Kompetencje A – poziom podstawowy B – poziom średni (średnio zaawansowany) C – poziom zaawansowany 1 2 3 4 Słuchanie Uczeń:
+rozróżnia większość głosek istotnych dla języka polskiego,
+rozumie proste polecenia,
+rozumie proste wypowiedzi monologowe i dialogowe, o ile otrzymuje dodatkowe wyjaśnienia,
+rozumie proste teksty literackie wspierane obrazkami, gestami, rekwizytami i inne teksty kultury, o ile otrzymuje dodatkowe wyjaśnienia Uczeń:
+rozróżnia głoski współczesnej polszczyzny z wyjątkiem najtrudniejszych,
+rozumie złożone polecenia,
+rozumie proste wypowiedzi monologowe i dialogowe bez dodatkowych wyjaśnień,
+rozumie proste teksty literackie (zwłaszcza pisane współczesną polszczyzną), wspierane obrazkami, gestami, rekwizytami i inne teksty kultury Uczeń:
+rozróżnia wszystkie głoski współczesnej polszczyzny,
+rozumie rozbudowane polecenia,
+rozumie złożone wypowiedzi monologowe i dialogowe,
+rozumie teksty literackie (zwłaszcza pisane współczesną polszczyzną) i inne teksty kultury Mówienie
+wymawia poznane słowa w sposób na ogól zrozumiały,
+tworzy, z pomocą nauczyciela, krótką wypowiedź składającą się z prostych zdań,
+porozumiewa się w prostych sytuacjach komunikacyjnych,
+stosuje podstawowe formuły grzecznościowe,
+odtwarza z pamięci rymowanki i inne krótkie, proste teksty – wymawia poznane słowa w sposób zrozumiały,
+skutecznie porozumiewa się w codziennych sytuacjach, stosując właściwe formy komunikowania się,
+uczestniczy w rozmowie, wyraża w prosty sposób własne zdanie,
+formułuje kilkuzdaniową wypowiedź, opowiada o własnych doświadczeniach, opisuje ludzi, przedmioty, miejsca i sytuacje,
+formułuje życzenia i zaproszenie,
+opowiada w prosty sposób akcję utworu oraz opisuje bohaterów i relacje między nimi, a także świat przedstawiony tekstów kultury,
+stosuje formuły grzecznościowe,
+recytuje wiersze – poprawnie wymawia słowa i zwroty,
+wypowiada się płynnie,
+opisuje, opowiada, charakteryzuje postać literacką,
+uczestniczy w rozmowie i w prostej dyskusji,
+stosuje formuły grzecznościowe,
+recytuje wiersze, stosując pauzę i intonację Czytanie – zna wszystkie litery i odpowiadające im głoski,
+dzieli wyraz na sylaby,
+czyta na głos i cicho proste, krótkie teksty,
+rozumie proste i krótkie teksty użytkowe,
+rozumie proste i krótkie utwory literackie, wspierane materiałem ilustracyjnym, i inne teksty kultury,
+korzysta z obrazkowych słowników i encyklopedii – czyta na głos, prawidłowo akcentując wyrazy,
+rozumie krótkie teksty użytkowe,
+rozpoznaje formy użytkowe, np. życzenia, zaproszenie, ogłoszenie, list, prostą instrukcję,
+rozumie krótkie utwory literackie i inne teksty kultury.
+w tekście literackim zaznacza wybrane fragmenty, określa czas i miejsce akcji, wskazuje głównych bohaterów,
+wyszukuje w tekście potrzebne informacje,
+korzysta z obrazkowych słowników i encyklopedii – czyta na głos, poprawnie i wyraziście krótki i prosty tekst (także nieznany),
+rozumie utwory literackie i inne teksty kultury,
+określa podstawowe elementy świata przedstawionego w utworze literackim lub innym tekście kultury,
+rozumie podstawowe oraz przenośne znaczenie wyrazów w tekście,
+korzysta ze słowników i encyklopedii Pisanie – pisze wszystkie małe i wielkie litery, dostrzega różnicę między literą i głoską,
+przepisuje wyrazy i proste zdania,
+pisze z pamięci (pojedyncze wyrazy) i ze słuchu (proste zdania), po omówieniu pisowni z nauczycielem,
+tworzy, z pomocą nauczyciela, krótką wypowiedź składającą się z prostych zdań (opis, pozdrowienia, życzenia),
+pisze według wzoru krótki tekst o sobie,
+stosuje podstawowe formuły grzecznościowe,
+dba o poprawność graficzną polskich liter – przepisuje krótkie teksty,
+pisze z pamięci (kilka wyrazów) i ze słuchu (proste, krótkie teksty),
+z pomocą nauczyciela tworzy krótką wy powiedź (opis, list prywatny, życzenia, zaproszenie),
+pisze według wzoru proste teksty na znane mu tematy (np. związane z jego zainteresowaniami),
+pisze proste teksty związane z poznanymi utworami literackimi i innymi tekstami kultury,
+stosuje podstawowe formuły grzecznościowe,
+na ogól pisze poprawnie ortograficznie i stosuje podstawową interpunkcję – pisze z pamięci (pojedyncze zdania) i ze słuchu (krótkie teksty),
+tworzy krótką wypowiedź (dialog, opowiadanie, przepis),
+tworzy wypowiedź na znane mu tematy (np. związane z jego zainteresowaniami),
+tworzy wypowiedź związaną z poznanymi utworami literackimi i innymi tekstami kultury,
+stosuje podstawowe formuły grzecznościowe,
+zna i na ogól stosuje zasady ortografii i interpunkcji
+Kompetencje językowe (10–13 lat) Kompetencje A – poziom podstawowy B – poziom średni (średnio zaawansowany) C – poziom zaawansowany 1 2 3 4 Słuchanie Uczeń:
+rozróżnia większość głosek języka polskiego (z wyjątkiem najtrudniejszych),
+rozumie polecenia oraz proste wypowiedzi monologowe i dialogowe,
+rozumie proste, współczesne utwory literackie wspierane ilustracjami, gestami, rekwizytami i inne teksty kultury,
+rozumie proste wypowiedzi o charakterze informacyjnym i użytkowym Uczeń:
+rozróżnia większość głosek języka polskiego,
+rozumie złożone polecenia, proste instrukcje oraz wypowiedzi monologowe i dialogowe, w tym nadawane za pomocą środków audiowizualnych,
+rozumie utwory literackie (zwłaszcza pisane współczesną polszczyzną) i inne teksty kultury,
+rozumie wypowiedzi o charakterze informacyjnym i użytkowym Uczeń:
+rozróżnia wszystkie głoski języka polskiego,
+rozumie złożone polecenia, proste instrukcje oraz wypowiedzi monologowe i dialogowe, włącznie z wypowiedziami w dyskusjach,
+rozumie utwory literackie (z różnych epok) i inne teksty kultury,
+rozumie rozbudowane wypowiedzi o charakterze informacyjnym i użytkowym Mówienie – wymawia poznane słowa w sposób na ogól zrozumiały,
+tworzy samodzielnie na ogól poprawną kilkuzda-niową wypowiedź,
+porozumiewa się w typowych sytuacjach komunikacyjnych,
+stosuje podstawowe formuły grzecznościowe,
+odtwarza z pamięci proste teksty
+opowiada akcję utworu, opisuje bohaterów i relacje między nimi, a także świat przedstawiony tekstów kultury, w tym nazywa swoje reakcje czytelnicze i wyraża swój stosunek do postaci,
+uczestniczy w rozmowie, wyraża własne zdanie i uzasadnia je,
+stosuje zróżnicowane formuły grzecznościowe,
+recytuje utwory literackie, dbając o prawidłowe akcentowanie i intonację – mówi w sposób na ogól zrozumiały, stosując akcent zdaniowy,
+spontanicznie i w miarę płynnie porozumiewa się w codziennych sytuacjach, stosując właściwe formy komunikowania się,
+opowiada o własnych doświadczeniach, opisuje ludzi, przedmioty, miejsca i sytuacje,
+formułuje życzenia, gratulacje, zaproszenie,
+formułuje w miarę spójną wypowiedź na znane mu tematy (np. związane z jego zainteresowaniami) oraz poznanymi utworami literackimi i innymi tekstami kultury, – poprawnie wymawia słowa i zdania,
+wypowiada się płynnie i logicznie,
+opisuje, opowiada, charakteryzuje postać literacką, streszcza i relacjonuje zdarzenia,
+rozpoczyna dyskusję i uczestniczy w dyskusji nad poznanymi tekstami kultury,
+stosuje zróżnicowane formuły grzecznościowe,
+recytuje utwory literackie, stosując właściwą modulację głosową Czytanie – zna wszystkie litery i odpowiadające im głoski języka polskiego,
+czyta na głos i cicho proste teksty literackie i nieliterackie,
+rozumie proste teksty informacyjnej użytkowe,
+rozumie proste utwory literackie oraz inne teksty kultury,
+wskazuje w tekście najważniejsze informacje,
+korzysta ze słowników dwujęzycznych i encyklopedii – czyta na głos, prawidłowo akcentując wyrazy, i stosuje akcent zdaniowy,
+rozumie dłuższe teksty informacyjne oraz użytkowe,
+rozróżnia teksty informacyjne i argumentacyjne,
+odróżnia zdania informujące o faktach od zdań wyrażających opinię,
+rozumie dłuższe utwory literackie oraz inne teksty kultury,
+rozpoznaje wpisanego w tekst literacki nadawcę i odbiorcę,
+rozpoznaje wybrane elementy świata przedstawionego w tekście literackim,
+korzysta ze szkolnych słowników oraz innych źródeł informacji,
+rozróżnia oficjalną i nieoficjalną odmianę języka – czyta na głos, prawidłowo akcentując wyrazy, i zachowuje intonację zdania,
+czyta z pomocą nauczyciela wybrane utwory literackie (z różnych epok),
+rozumie utwory literackie, informacyjne, użytkowe oraz inne teksty kultury,
+odróżnia język literacki od nieliterackiego,
+wyodrębnia wszystkie elementy świata przedstawionego w tekście literackim,
+korzysta z informacji zawartych w encyklopediach oraz słownikach jednojęzycznych i dwujęzycznych Pisanie – poprawniezapisuje wszystkie litery polskiego alfabetu,
+przepisuje wyrazy i proste zdania,
+pisze z pamięci i ze słuchu wyrazy i proste zdania,
+zapisuje proste informacje o sobie,
+pisze według wzoru proste teksty na znane mu tematy (np. związane z jego zainteresowaniami),
+tworzy krótką, na ogól poprawną, kilkuzdaniową wypowiedź składającą się z prostych zdań (opis, dialog, pozdrowienia, życzenia),
+stosuje podstawowe formuły grzecznościowe,
+na ogół pisze poprawnie ortograficznie i stosuje poprawną interpunkcję – zapisuje dyktowane teksty,
+opisuje wydarzenia, swoje przeżycia i doświadczenia,
+tworzy wypowiedź związaną z poznanymi utworami literackimi i innymi tekstami kultury oraz na znane mu tematy (np. o jego zainteresowaniach),
+tworzy proste wypowiedzi pisemne w wybranych formach gatunkowych (opis, charakterystyka, opowiadanie, dialog, list prywatny, kartka z dziennika, ogłoszenie, zaproszenie, życzenia, notatka),
+sporządza plan wypowiedzi,
+stosuje formuły grzecznościowe,
+pisze poprawnie pod względem ortograficznym i interpunkcyjnym – sporządza notatkę z tekstu czytanego,
+swobodnie tworzy wypowiedzi pisemne w poznanych formach gatunkowych, stosując urozmaicone słownictwo,
+stosuje w wypowiedzi pisemnej odpowiednią kompozycję i układ graficzny,
+posługuje się oficjalną i nieoficjalną odmianą języka,
+pisze poprawnie pod względem ortograficznym i interpunkcyjnym
+Kompetencje językowe (od 14 lat) Kompetencje A – poziom podstawowy B – poziom średni (średnio zaawansowany) C – poziom zaawansowany 1 2 3 4 Słuchanie Uczeń:
+rozróżnia większość głosek języka polskiego,
+rozumie polecenia i proste wypowiedzi monologowe i dialogowe, w tym nadawane za pomocą środków audiowizualnych,
+rozumie proste utwory literackie (zwłaszcza pisane współczesną polszczyzną) i inne teksty kultury,
+rozumie proste wypowiedzi informacyjne i użytkowe,
+rozpoznaje intencję wypowiedzi (np. aprobatę, dezaprobatę) wspomaganą intonacją lub gestem Uczeń:
+rozróżnia głoski języka polskiego z wyjątkiem najtrudniejszych,
+rozumie wypowiedzi monologowe i dialogowe, w tym nadawane za pomocą środków audiowizualnych,
+rozumie utwory literackie i inne teksty kultury,
+rozumie wypowiedzi informacyjne i użytkowe oraz odróżnia informacje o faktach od opinii,
+rozumie intencję wypowiedzi (np. aprobatę, dezaprobatę, prowokację) oraz rozpoznaje środki językowe służące jej wyrażeniu Uczeń:
+rozróżnia wszystkie głoski języka polskiego,
+rozumie wypowiedzi o złożonej strukturze, w tym nadawane za pomocą środków audiowizualnych, i odbiera zawarte w nich informacje zarówno jawne, jak i ukryte,
+rozumie utwory literackie (z różnych epok) i inne teksty kultury,
+rozumie wypowiedzi o charakterze popularnonaukowym i publicystycznym,
+rozumie jawną i ukrytą intencję wypowiedzi (sugestię i manipulację językową oraz ironię),
+rozpoznaje środki językowe pełniące różne funkcje stylistyczne Mówienie – wymawia poznane słowa w sposób na ogól zrozumiały,
+tworzy samodzielnie na ogól poprawną kilkuzdaniową wypowiedź,
+porozumiewa się w typowych sytuacjach komunikacyjnych,
+w prosty sposób wypowiada się (opisuje swoje reakcje) na temat poznanych tekstów kultury,
+stosuje formuły grzecznościowe,
+odtwarza teksty z pamięci – mówi w sposób na ogól zrozumiały i stosuje akcent zdaniowy,
+swobodnie i spontanicznie porozumiewa się w różnych sytuacjach, stosując właściwe formy komunikowania się,
+formułuje spójną wypowiedź na tematy związane z otaczającą rzeczywistością, opowiada o własnych doświadczeniach, opisuje ludzi, przedmioty, miejsca i sytuacje,
+streszcza, omawia przeczytane utwory literackie i inne teksty kultury, wskazuje ich temat, problematykę, charakteryzuje postaci, przedstawia przebieg akcji oraz tworzy spójne, dłuższe wypowiedzi na zadany lub wybrany przez siebie temat,
+uczestniczy w dyskusji na znany sobie temat, potrafi przedstawić swój punkt widzenia i uzasadnia własne zdanie,
+stosuje podstawowe zasady etykiety językowej, dostosowując odmianę i styl języka do sytuacji, w której się wypowiada,
+recytuje utwory literackie, dbając o prawidłową intonację – poprawnie wymawia słowa i zdania,
+wypowiada się spontanicznie, płynnie i logicznie,
+prezentuje fabułę i charakteryzuje postać mówiącą, wypowiada się precyzyjnie w rozmaitych formach,
+w dyskusji, wystąpieniu publicznym formułuje swoje zdanie, uzasadnia je i broni go, podejmuje polemikę,
+przestrzega zasad etykiety językowej, dostosowuje sposób wyrażania do stylu właściwego dla danej sytuacji,
+recytuje utwory literackie, interpretując je głosowo Czytanie – zna wszystkie litery i odpowiadające im głoski,
+czyta na glos i cicho proste teksty literackie i nieliterackie,
+rozumie proste teksty informacyjne i użytkowe,
+rozumie proste utwory literackie oraz inne teksty kultury,
+wyodrębnia części składowe całego tekstu i akapitu (wstęp, rozwinięcie, zakończenie),
+odróżnia w prostym tekście informacje ważne od drugorzędnych,
+korzysta ze słowników i encyklopedii – czyta na głos, prawidłowo akcentując wyrazy, i stosuje akcent zdaniowy,
+rozumie dłuższe teksty informacyjne oraz użytkowe,
+rozpoznaje podstawowe funkcje wypowiedzi,
+wyszukuje informacje według wskazanego kryterium i porządkuje je,
+rozumie dłuższe utwory literackie oraz inne teksty kultury,
+wskazuje i charakteryzuje podstawowe kategorie świata przedstawionego,
+rozpoznaje jawną i ukrytą intencję wypowiedzi (np. aprobatę, dezaprobatę, sugestię),
+dostrzega w wypowiedzi ewentualne przejawy manipulacji,
+w tekście argumentacyj-nym wskazuje tezę, argumenty, przykłady i wnioski – rozumie utwory literackie i inne teksty kultury, a w ich interpretacji uwzględnia różne konteksty,
+identyfikuje elementy konstrukcyjne struktury tekstu literackiego i dostrzega relacje między nimi,
+odczytuje sens całego tekstu i wydzielonych fragmentów oraz ich funkcję na tle całości,
+rozpoznaje jawną i ukrytą intencję wypowiedzi, ironię i manipulację językową,
+czyta wybrane utwory literackie (z różnych epok),
+korzysta z rozmaitych źródeł informacji Pisanie – poprawnie zapisuje wszystkie litery polskiego alfabetu, przepisuje wyrazy i proste zdania,
+pisze z pamięci i ze słuchu wyrazy i proste zdania,
+zapisuje proste informacje o sobie,
+w prosty sposób nazywa swoje emocje i opisuje swoje doświadczenia,
+tworzy proste, kilkuzdanio-we wypowiedzi (opis, dialog, pozdrowienia, życzenia, list prywatny, krótka wiadomość),
+tworzy kilkuzdaniową, na ogół poprawną, wypowiedź na znane mu tematy (np. związane z jego zainteresowaniami lub doświadczeniami),
+w prosty sposób wypowiada się (opisuje swoje reakcje) na temat poznanych tekstów kultury,
+stosuje formuły grzecznościowe,
+na ogół pisze poprawnie pod względem ortograficznym i interpunkcyjnym, posługując się słownikiem ortograficznym – zapisuje dyktowane teksty,
+tworzy podstawowe formy użytkowe (list oficjalny, podanie, życiorys),
+opowiada o rzeczywistych lub fikcyjnych zdarzeniach i doświadczeniach oraz opisuje uczucia,
+tworzy wypowiedzi pisemne w poznanych formach gatunkowych, stosując urozmaicone słownictwo,
+tworzy spójną pod względem logicznym i składniowym wypowiedź na zadany temat,
+przedstawia własną opinię na temat poznanych tekstów kultury i uzasadnia ją,
+posługuje się oficjalną i nieoficjalną odmianą języka,
+stosuje formuły grzecznościowe,
+pisze poprawnie pod względem ortograficznym i interpunkcyjnym, posługując się słownikiem ortograficznym – sporządza notatkę z tekstu słuchanego i czytanego,
+tworzy formy użytkowe (list oficjalny, podanie, życiorys, CV, list motywacyjny),
+przedstawia (opracowuje w pełni) dowolnie wybrany temat, zwracając uwagę na strukturę wypowiedzi,
+wypowiada się w różnych formach gatunkowych (list prywatny, dziennik, streszczenie, w tym streszczenie tekstu argumentacyjnego, sprawozdanie, rozprawka), stosując urozmaicone słownictwo,
+analizuje i interpretuje wskazane utwory literackie oraz inne teksty kultury,
+stosuje formuły grzecznościowe odpowiednie do sytuacji,
+stosuje obowiązujące normy poprawnościowe, posługując się słownikami,
+redaguje i edytuje własny tekst
+Kręgi tematyczne 5–9lat 10–13 lat od 14 lat 1 2 3 Ja i moi bliscy:
+podstawowe informacje o sobie (imię, nazwisko, wiek, miejsce zamieszkania);
+wygląd zewnętrzny;
+umiejętności i zainteresowania;
+emocje, marzenia, świat wyobraźni;
+najbliższa rodzina;
+przyjaciele, koledzy Ja i moi bliscy:
+dane osobowe (imię, nazwisko, wiek, adres, data i miejsce urodzenia);
+wygląd zewnętrzny i cechy charakteru;
+zainteresowania, hobby;
+uczucia, emocje, marzenia, świat wyobraźni;
+zawody i umiejętności;
+rodzina i relacje rodzinne;
+przyjaciele, koledzy, znajomi Ja i moi bliscy:
+dane osobowe (imię, nazwisko, wiek, adres, data i miejsce urodzenia, wykształcenie);
+wygląd zewnętrzny, cechy charakteru, talenty i zdolności;
+zainteresowania, hobby, pasje;
+uczucia, emocje, marzenia, plany;
+praca i kariera;
+rodzina, relacje rodzinne i stopnie pokrewieństwa;
+życie towarzyskie;
+konflikty i problemy (w tym problemy etyczne) Dom i otoczenie:
+dom (pomieszczenia, meble);
+zabawki;
+podwórko, plac zabaw;
+ciekawe miejsca Dom i otoczenie:
+dom (pomieszczenia, wyposażenie);
+otoczenie domu (ogród, ulica);
+najbliższa okolica;
+atrakcje w miejscu zamieszkania Dom i otoczenie:
+dom i otoczenie domu;
+miejsce zamieszkania i okolice;
+urzędy i instytucje;
+atrakcje w miejscu zamieszkania i okolicy Życie codzienne:
+kalendarz (miesiące, dni tygodnia, godziny, pory dnia);
+podstawowe czynności dnia codziennego;
+moja klasa i obowiązki szkolne;
+gry, zabawy, kola zainteresowań;
+żywienie (artykuły spożywcze, posiłki i potrawy);
+zakupy (kupowanie, sprzedawanie, cyfry i liczby);
+usługi (np. biblioteka);
+ubranie (części garderoby) Życie codzienne:
+kalendarz (miesiące, dni tygodnia, godziny, pory dnia, plan dniartygodnia/miesiąca);
+codzienne czynności i obowiązki;
+moja klasa i szkoła;
+rozrywki (np. kino, park rozrywki);
+żywienie (artykuły spożywcze, posiłki i potrawy, ich przygotowanie, sposoby odżywiania się);
+zakupy (sklepy, towary, miary i wagi, pieniądze);
+usługi (np. poczta, fryzjer);
+ubranie i moda Życie codzienne;
+kalendarz (miesiące, dni tygodnia, godziny, pory dnia, lata, wieki, plan dnia/tygodnia/miesiąca);
+codzienne czynności i obowiązki (domowe, szkolne, koleżeńskie);
+klasa, szkoła, system edukacji;
+sposoby spędzania wolnego czasu (np. kino, teatr, klub);
+żywienie (artykuły spożywcze, posiłki i potrawy, lokale gastronomiczne, sposoby odżywiania się);
+zakupy (sklepy, towary, miary i wagi, pieniądze, reklama, reklamacja);
+usługi (np. bank, punkty naprawy);
+ubranie, moda i styl Zdrowie i sport:
+najważniejsze części ciała;
+czystość i schludność;
+samopoczucie;
+umiejętności sportowe Zdrowie i sport:
+części ciała;
+higiena osobista;
+choroby i leczenie;
+zdrowa żywność;
+dyscypliny i wydarzenia sportowe;
+sprzęt i obiekty sportowe Zdrowie i sport:
+budowa człowieka;
+higiena osobista;
+choroby i leczenie, wypadki;
+uzależnienia;
+zdrowy styl życia, dieta;
+dyscypliny i wydarzenia sportowe;
+sprzęt i obiekty sportowe Podróże i turystyka:
+wakacje;
+ciekawostki turystyczne;
+komunikacja lokalna Podróże i turystyka:
+wakacje, wypoczynek;
+znane miejsca, obiekty;
+informacja turystyczna;
+środki transportu Podróże i turystyka:
+planowanie wypoczynku i podróży;
+znane miejsca i zabytki;
+informacja turystyczna;
+baza turystyczna;
+transport Środowisko naturalne:
+pogoda, pory roku;
+rośliny i zwierzęta Środowisko naturalne:
+klimat, pogoda, pory roku;
+rośliny i zwierzęta;
+ochrona przyrody Środowisko naturalne:
+klimat, pogoda, pory roku;
+świat roślin i zwierząt;
+krajobraz;
+ekologia;
+katastrofy naturalne;
+przestrzeń kosmiczna Technika, media;
+domowe urządzenia techniczne;
+telewizja, radio, Internet Technika, media:
+odkrycia i wynalazki;
+urządzenia techniczne;
+radio, telewizja, prasa, Internet Technika, media:
+rozwój techniki i informatyki;
+motoryzacja i telekomunikacja;
+radio, telewizja, prasa, Internet Wiedza o Polsce:
+symbole narodowe;
+znani Polacy;
+święta i zwyczaje;
+polonica w miejscu zamieszkania Wiedza o Polsce:
+wybitni twórcy kultury i ich dzielą;
+święta, tradycje i zwyczaje;
+polonica w miejscu zamieszkania Wiedza o Polsce:
+twórcy kultury i ich dzieła;
+święta, tradycje i zwyczaje, rocznice;
+polonica w miejscu zamieszkania i okolicy Język nauki:
+podstawowe terminy z zakresu wiedzy o języku;
+podstawowe terminy z zakresu wiedzy o literaturze;
+podstawowe terminy historyczne i geograficzne Język nauki;
+podstawowe terminy z zakresu wiedzy o języku;
+podstawowe terminy z zakresu wiedzy o literaturze;
+podstawowe terminy historyczne i geograficzne Język nauki:
+podstawowe terminy z zakresu wiedzy o języku;
+podstawowe terminy z zakresu wiedzy o literaturze;
+podstawowe terminy historyczne i geograficzne
 WIEDZA O POLSCE (elementy historii, geografii, kultury) Klasy IV-VIII szkoły podstawowej Cele kształcenia – wymagania ogólne z historii i kultury Uczeń zdobywa podstawowe wiadomości na temat historii Polski od X do XXI wieku, które pozwolą mu lepiej poznać kraj jego pochodzenia oraz dostrzec związki teraźniejszości z przeszłością. Zdobywa podstawowe informacje o kulturze i społeczeństwie, a także geografii Polski. Zdobyta wiedza pozwoli mu na identyfikację z kulturą i tradycją polską. Rozbudza swoje zainteresowania dziejami Polski, stawia pytania dotyczące przyczyn i skutków analizowanych wydarzeń historycznych i współczesnych; posługuje się zdobytymi pojęciami, przedstawiając własne stanowisko i próbując je uzasadnić. Cele wychowawcze i rozwojowe:
 1)
 poznanie ważnych wydarzeń z dziejów narodu polskiego, zwłaszcza przez dokonania wybitnych postaci historycznych; zapoznanie z symbolami narodowymi, państwowymi i religijnymi; wyjaśnienie ich znaczenia oraz kształtowanie szacunku wobec nich;
@@ -1088,15 +1407,13 @@ kształtowanie zrozumienia dla takich wartości jak: prawda, dobro, sprawiedliwo
 7)
 rozwijanie wyobraźni historycznej;
 8)
-kształtowanie zdolności humanistycznych, sprawności językowej, umiejętności samodzielnego poszukiwania wiedzy i korzystania z różnorodnych źródeł informacji, formułowania i wypowiadania własnych opinii.
-Cele kształcenia – wymagania ogólne
+kształtowanie zdolności humanistycznych, sprawności językowej, umiejętności samodzielnego poszukiwania wiedzy i korzystania z różnorodnych źródeł informacji, formułowania i wypowiadania własnych opinii. Cele kształcenia – wymagania ogólne
 1.
 Chronologia historyczna. Uczeń odróżnia przeszłość, teraźniejszość i przyszłość; posługuje się podstawowymi określeniami czasu historycznego: epoka, okres p.n.e., okres n.e., tysiąclecie, wiek, rok; oblicza upływ czasu między wydarzeniami historycznymi; umieszcza procesy, zjawiska i fakty historyczne w czasie oraz porządkuje je i ustala związki przyczynowe i skutkowe; dostrzega zmiany w życiu politycznym i społecznym oraz ciągłość w rozwoju kulturowym.
 2.
 Analiza i interpretacja historyczna. Uczeń krytycznie analizuje informacje uzyskane z różnych źródeł (w tym kartograficznych) próbując samodzielnie wyciągnąć z nich wnioski; lokalizuje w przestrzeni procesy, zjawiska i fakty historyczne; rozróżnia w narracji historycznej warstwę informacyjną, wyjaśniającą i oceniającą; rozumie i potrafi objaśnić związki przyczynowo-skutkowe analizowanych zjawisk i procesów historycznych; dostrzega potrzebę poznawania przeszłości dla rozumienia procesów zachodzących we współczesności.
 3.
-Tworzenie narracji historycznej. Uczeń tworzy narrację historyczną, wykorzystując zdobyte informacje źródłowe; posługuje się pojęciami historycznymi i potrafi wyjaśnić ich znaczenie; przedstawia argumenty uzasadniające własne stanowisko w odniesieniu do procesów i postaci historycznych; tworzy krótkie i długie wypowiedzi: plan, notatkę, rozprawkę, prezentację.
-Treści nauczania – wymagania szczegółowe
+Tworzenie narracji historycznej. Uczeń tworzy narrację historyczną, wykorzystując zdobyte informacje źródłowe; posługuje się pojęciami historycznymi i potrafi wyjaśnić ich znaczenie; przedstawia argumenty uzasadniające własne stanowisko w odniesieniu do procesów i postaci historycznych; tworzy krótkie i długie wypowiedzi: plan, notatkę, rozprawkę, prezentację. Treści nauczania – wymagania szczegółowe
 1.
 Elementy historii rodzinnej. Uczeń:
 1)
@@ -1162,8 +1479,7 @@ Danucie Siedzikównie „Ince” i żołnierzach niezłomnych;
 20)
 papieżu Janie Pawle II;
 21)
-„Solidarności” i jej bohaterach.
-Treści dodatkowe, nieobowiązkowe, do wyboru przez nauczyciela lub ucznia. Uczeń sytuuje w czasie i opowiada o:
+„Solidarności” i jej bohaterach. Treści dodatkowe, nieobowiązkowe, do wyboru przez nauczyciela lub ucznia. Uczeń sytuuje w czasie i opowiada o:
 1)
 Piastach, plemionach słowiańskich i ich warunkach życia na terenie dzisiejszej Polski, rodzie Piastów (legendy związane z rodem);
 2)
@@ -1537,8 +1853,7 @@ rozpoznaje przejawy ksenofobii, w tym rasizmu, szowinizmu i antysemityzmu; uzasa
 4)
 rozważa, w jaki sposób stereotypy i uprzedzenia utrudniają dziś relacje między narodami;
 5)
-uzasadnia, że można równocześnie być Polakiem, Europejczykiem i członkiem społeczności światowej.
-Cele kształcenia – wymagania ogólne z geografii Uczeń poznaje najważniejsze cechy środowiska przyrodniczego Polski, zdobywa wiedzę o miastach i regionach Polski, poznaje przyczyny zróżnicowania gospodarczego Polski, korzysta z atlasu Polski i rozbudza swoje zainteresowania krajem przodków i regionem Polski, z którego pochodzi jego rodzina. Treści nauczania – wymagania szczegółowe w zakresie geografii Polski
+uzasadnia, że można równocześnie być Polakiem, Europejczykiem i członkiem społeczności światowej. Cele kształcenia – wymagania ogólne z geografii Uczeń poznaje najważniejsze cechy środowiska przyrodniczego Polski, zdobywa wiedzę o miastach i regionach Polski, poznaje przyczyny zróżnicowania gospodarczego Polski, korzysta z atlasu Polski i rozbudza swoje zainteresowania krajem przodków i regionem Polski, z którego pochodzi jego rodzina. Treści nauczania – wymagania szczegółowe w zakresie geografii Polski
 1.
 Polska na mapie Europy. Uczeń:
 1)
@@ -1596,8 +1911,7 @@ wymienia najważniejsze surowce mineralne eksploatowane w Polsce;
 8)
 podaje przykłady aktualnych problemów społeczno-gospodarczych współczesnej Polski, korzystając z różnych źródeł informacji (od osób dorosłych, z prasy, radia, telewizji, Internetu);
 9)
-wymienia mniejszości narodowe i etniczne żyjące w Polsce, na wybranych przykładach opisuje ich kulturę i tradycje.
-LICEUM OGÓLNOKSZTAŁCĄCE Po ukończeniu szkoły podstawowej uczeń kontynuuje kształcenie ogólne w szkole ponadpodstawowej – w liceum ogólnokształcącym. Celem kształcenia ogólnego w liceum ogólnokształcącym jest:
+wymienia mniejszości narodowe i etniczne żyjące w Polsce, na wybranych przykładach opisuje ich kulturę i tradycje. LICEUM OGÓLNOKSZTAŁCĄCE Po ukończeniu szkoły podstawowej uczeń kontynuuje kształcenie ogólne w szkole ponadpodstawowej – w liceum ogólnokształcącym. Celem kształcenia ogólnego w liceum ogólnokształcącym jest:
 1)
 doskonalenie umiejętności myślowo-językowych, takich jak czytanie ze zrozumieniem, pisanie twórcze, formułowanie pytań i problemów, posługiwanie się kryteriami, uzasadnianie, wyjaśnianie, klasyfikowanie, wnioskowanie, definiowanie, posługiwanie się przykładami itp.;
 2)
@@ -1609,8 +1923,7 @@ rozwijanie nawyków systematycznego uczenia się;
 5)
 doskonalenie umiejętności współpracy w grupie i podejmowania samodzielnych działań;
 6)
-rozwijanie wrażliwości społecznej, moralnej i estetycznej.
-Do najważniejszych umiejętności zdobywanych przez ucznia w trakcie kształcenia ogólnego w liceum ogólnokształcącym należą:
+rozwijanie wrażliwości społecznej, moralnej i estetycznej. Do najważniejszych umiejętności zdobywanych przez ucznia w trakcie kształcenia ogólnego w liceum ogólnokształcącym należą:
 1)
 umiejętność komunikowania się w języku polskim, zarówno w mowie, jak i w piśmie, stosowanie przyjętych norm językowych;
 2)
@@ -1618,8 +1931,7 @@ czytanie – umiejętność łącząca zarówno rozumienie sensów, jak i znacze
 3)
 umiejętność samodzielnego docierania do informacji, dokonywania ich selekcji, syntezy oraz wartościowania, rzetelnego korzystania ze źródeł;
 4)
-rozwijanie myślenia: analitycznego, syntetycznego, logicznego, komputacyjnego, przyczynowo-skutkowego, kreatywnego, abstrakcyjnego.
-Jednym z najważniejszych zadań liceum ogólnokształcącego jest rozwijanie kompetencji językowej i kompetencji komunikacyjnej w języku polskim. Istotne w tym zakresie jest łączenie teorii i praktyki językowej. Bogacenie słownictwa, w tym poznawanie terminologii właściwej dla każdego z przedmiotów służy rozwojowi intelektualnemu ucznia, a wspomaganie i dbałość o ten rozwój należy do obowiązków każdego nauczyciela. JĘZYK POLSKI Klasy I – IV Liceum ogólnokształcące Język polski realizowany jako przedmiot w liceum ogólnokształcącym pozwala uczniowi na poznawanie dzieł literackich wchodzących w skład polskiego dziedzictwa, jak i utworów polskiej literatury współczesnej, których autorzy zdobyli uznanie. Realizacja celów kształcenia (wymagania ogólne) i treści nauczania (wymagania szczegółowe) przedmiotu język polski ma służyć osiągnięciu przez ucznia umiejętności świadomego i krytycznego odbioru dzieł literackich, ich interpretacji w różnych kontekstach, rozpoznawania w nich odniesień egzystencjalnych, aksjologicznych i historycznych. Szczególne znaczenie dla rozwoju kompetencji interpretacyjnych ma zintegrowanie kształcenia literackiego i kształcenia językowego. Wzbogacanie wiedzy o języku pozwala uczniowi na świadome uczestnictwo w różnych sytuacjach komunikacyjnych, związanych zarówno z odbiorem, jak i tworzeniem własnych tekstów. Ważnym zagadnieniem w ramach nauczania języka polskiego jest rozwijanie i ukierunkowanie samokształcenia ucznia. Cele kształcenia – wymagania ogólne
+rozwijanie myślenia: analitycznego, syntetycznego, logicznego, komputacyjnego, przyczynowo-skutkowego, kreatywnego, abstrakcyjnego. Jednym z najważniejszych zadań liceum ogólnokształcącego jest rozwijanie kompetencji językowej i kompetencji komunikacyjnej w języku polskim. Istotne w tym zakresie jest łączenie teorii i praktyki językowej. Bogacenie słownictwa, w tym poznawanie terminologii właściwej dla każdego z przedmiotów służy rozwojowi intelektualnemu ucznia, a wspomaganie i dbałość o ten rozwój należy do obowiązków każdego nauczyciela. JĘZYK POLSKI Klasy I – IV Liceum ogólnokształcące Język polski realizowany jako przedmiot w liceum ogólnokształcącym pozwala uczniowi na poznawanie dzieł literackich wchodzących w skład polskiego dziedzictwa, jak i utworów polskiej literatury współczesnej, których autorzy zdobyli uznanie. Realizacja celów kształcenia (wymagania ogólne) i treści nauczania (wymagania szczegółowe) przedmiotu język polski ma służyć osiągnięciu przez ucznia umiejętności świadomego i krytycznego odbioru dzieł literackich, ich interpretacji w różnych kontekstach, rozpoznawania w nich odniesień egzystencjalnych, aksjologicznych i historycznych. Szczególne znaczenie dla rozwoju kompetencji interpretacyjnych ma zintegrowanie kształcenia literackiego i kształcenia językowego. Wzbogacanie wiedzy o języku pozwala uczniowi na świadome uczestnictwo w różnych sytuacjach komunikacyjnych, związanych zarówno z odbiorem, jak i tworzeniem własnych tekstów. Ważnym zagadnieniem w ramach nauczania języka polskiego jest rozwijanie i ukierunkowanie samokształcenia ucznia. Cele kształcenia – wymagania ogólne
 I.
 Kształcenie językowe.
 1.
@@ -1681,8 +1993,7 @@ Kształtowanie nawyku samodzielnej, systematycznej lektury.
 6.
 Rozwijanie uzdolnień poprzez udział w różnych formach aktywności intelektualnej i twórczej.
 7.
-Rozwijanie umiejętności efektywnego posługiwania się technologią informacyjną w poszukiwaniu, porządkowaniu i wykorzystywaniu pozyskanych informacji.
-Treści nauczania – wymagania szczegółowe Na III etapie edukacyjnym obowiązuje utrwalanie, poszerzanie i doskonalenie wiadomości i umiejętności nabytych w szkole podstawowej.
+Rozwijanie umiejętności efektywnego posługiwania się technologią informacyjną w poszukiwaniu, porządkowaniu i wykorzystywaniu pozyskanych informacji. Treści nauczania – wymagania szczegółowe Na III etapie edukacyjnym obowiązuje utrwalanie, poszerzanie i doskonalenie wiadomości i umiejętności nabytych w szkole podstawowej.
 I.
 Kształcenie językowe.
 1.
@@ -1888,8 +2199,7 @@ korzysta z zasobów multimedialnych, np. z: bibliotek, słowników on-line, wyda
 12)
 wykorzystuje formę projektu w przygotowaniu i prezentowaniu oraz popularyzowaniu swoich zainteresowań i osiągnięć;
 13)
-zna pojęcie hipertekstu, rozpoznaje jego realizacje internetowe oraz pozainternetowe, określa ich funkcje w komunikacji, umiejętnie z nich korzysta w gromadzeniu informacji.
-Lektura Teksty poznawane w całości – nie mniej niż 8 pozycji książkowych oraz wybrane przez nauczyciela teksty o mniejszej objętości, przy czym nie można pominąć autorów i utworów oznaczonych gwiazdką: *Bogurodzica; Gall Anonim, Kronika polska (fragmenty); *Jan Kochanowski, wybrane pieśni, w tym: Pieśń IX ks. I, Pieśń V ks. II, psalmy, w tym Psalm 13, Psalm 47, treny, w tym: IX, X, XI i XIX, Odprawa posłów greckich (fragmenty); Andrzej Frycz Modrzewski, O poprawie Rzeczypospolitej (fragmenty); Piotr Skarga, Kazania sejmowe (fragmenty); Jan Chryzostom Pasek, Pamiętniki (fragmenty); Ignacy Krasicki, Hymn do miłości ojczyzny; Stanisław Staszic, Przestrogi dla Polski (fragmenty); *Adam Mickiewicz, Oda do młodości, wybrane ballady, w tym Romantyczność, wybrane sonety z cyklu Sonety krymskie oraz inne wiersze, Konrad Wallenrod (fragmenty), Dziady cz. IV (fragmenty), Dziady cz. III (fragmenty); Juliusz Słowacki, Kordian (fragmenty), wybrane wiersze, w tym Grób Agamemnona (fragmenty), Testament mój; Cyprian Norwid – wybrane wiersze, w tym Fortepian Szopena; Aleksander Fredro, Śluby panieńskie; *Bolesław Prus, Lalka (fragmenty); *Henryk Sienkiewicz, Potop (fragmenty); Eliza Orzeszkowa, Nad Niemnem; Adam Asnyk, wybór wierszy; Maria Konopnicka, wybór wierszy; wybrane wiersze następujących poetów: Jan Kasprowicz, Kazimierz Przerwa-Tetmajer, Leopold Staff; Stanisław Wyspiański, Wesele (fragmenty); *Władysław Stanisław Reymont, Chłopi, tom I – Jesień (fragmenty); Stefan Żeromski, Rozdziobią nas kruki, wrony..., Przedwiośnie; Witold Gombrowicz, Ferdydurke (fragmenty); wybrane wiersze następujących poetów: Bolesław Leśmian, Julian Tuwim, Jan Lechoń, Maria Pawlikowska-Jasnorzewska, Kazimiera Iłłakowiczówna, Julian Przyboś, Tadeusz Peiper, Józef Czechowicz; wybrane wiersze następujących poetów: Krzysztof Kamil Baczyński, Tadeusz Gajcy; Tadeusz Borowski, Proszę państwa do gazu, Ludzie, którzy szli; Gustaw Herling-Grudziński, Inny świat; Hanna Krall, Zdążyć przed Panem Bogiem; Kazimierz Moczarski, Rozmowy z katem (fragmenty); wybrane wiersze następujących poetów: Tadeusz Różewicz, Miron Białoszewski, Jarosław Marek Rymkiewicz, *Wisława Szymborska, *Zbigniew Herbert, w tym wybrane wiersze z tomów: Pan Cogito oraz Raport z oblężonego miasta, *Czesław Miłosz, Halina Poświatowska, Stanisław Barańczak, Marcin Świetlicki, Jan Polkowski, Wojciech Wencel; Józef Mackiewicz, Droga donikąd (fragmenty); Sławomir Mrożek, Tango; Marek Nowakowski, Raport o stanie wojennym (wybrane opowiadanie); Górą „Edek” (z tomu Prawo prerii); Jacek Dukaj, Katedra (z tomu W kraju niewiernych); Antoni Libera, Madame; Andrzej Stasiuk, Miejsce (z tomu Opowieści galicyjskie); Olga Tokarczuk, Profesor Andrews; wybrane utwory okresu stanu wojennego; powojenna piosenka literacka – wybrane utwory Ewy Demarczyk, Jacka Kaczmarskiego, Wojciecha Młynarskiego, Agnieszki Osieckiej oraz wybrane teksty Kabaretu Starszych Panów. Zalecane dzieła teatralne i filmowe: Apocalypsis cum figuris, reż. Jerzy Grotowski; Amadeusz, reż. Milos Forman; Dekalog, reż. Krzysztof Kieślowski, wybrane filmy z cyklu; Dziady, reż. Konrad Swinarski; Elektra, reż. Piotr Chołodziński; Emigranci, reż. Kazimierz Kutz; Iwona, księżniczka Burgunda, reż. Zygmunt Hubner; Kartoteka, reż. Krzysztof Kieślowski; Kordian, reż. Jan Englert; Lawa. Opowieść o „Dziadach” Adama Mickiewicza, reż. Tadeusz Konwicki; Moralność pani Dulskiej, reż. Tomasz Zygadło; Nad Niemnem, reż. Zbigniew Kuźmiński; Noc listopadowa, reż. Andrzej Wajda; Noce i dnie, reż. Jerzy Antczak; Rewizor, reż. Jerzy Gruza; Rękopis znaleziony w Saragossie, reż. Wojciech Jerzy Has; Sanatorium pod klepsydrą, reż. Wojciech Jerzy Has; Śluby panieńskie, reż. Andrzej Łapicki; Wizyta starszej pani, reż. Jerzy Gruza; Zezowate szczęście, reż. Andrzej Munk; Ziemia obiecana, reż. Andrzej Wajda. Teksty polecane do samokształcenia: 100 tysięcy potrzebnych słów, red. Jerzy Bralczyk; Jan Białostocki, Sztuka cenniejsza niż złoto. Opowieść o sztuce europejskiej; Człowiek Grecji, red. Jean-Pierre Vernant; Człowiek renesansu, red. Eugenio Garin; Umberto Eco, Sztuka i piękno w średniowieczu; Karol Estreicher, Historia sztuki w zarysie; Formy i normy, czyli poprawna polszczyzna w praktyce, red. Katarzyna Kłosińska; Władysław Kopaliński, Słownik mitów i tradycji kultury; Jacek Kowalski, Niezbędnik Sarmaty; Tadeusz Lubelski, Historia kina polskiego. Twórcy, filmy, konteksty; Jan Miodek, Słownik ojczyzny polszczyzny; Anna Nasiłowska, Literatura okresu przejściowego 1975–1996; Ewelina Nurczyńska-Fidelska, Barbara Parniewska, Ewa Popiel-Popiołek, Halina Ulińska, Film w szkolnej edukacji humanistycznej; Popularna encyklopedia mass mediów, pod red. J. Skrzypczaka; Praktyczna stylistyka nie tylko dla polonistów, red. Edyta Bańkowska i Agnieszka Mikołajczuk; Zbigniew Raszewski, Krótka historia teatru polskiego; Władysław Tatarkiewicz, Historia filozofii, Dzieje sześciu pojęć, Estetyka; Mieczysław Tomaszewski, Muzyka w dialogu ze słowem. Próby, szkice, interpretacje. Warunki i sposób realizacji Ramy programowe kształcenia uzupełniającego dla liceum ogólnokształcącego zawierają chronologiczny układ treści, który pozwala na poznawanie utworów literackich w naturalnym porządku, tak jak one powstawały z uwzględnieniem różnorodnych kontekstów, w tym kulturowych, historycznych, filozoficznych. Nauczanie języka polskiego na tym etapie edukacyjnym nie może sprowadzać się jedynie do uczenia historii literatury, może to bowiem prowadzić do encyklopedyzmu czy mnożenia faktów. Chronologia ma stanowić punkt odniesienia, umożliwić rozwijanie świadomości historycznoliterackiej uczniów, co powinno dokonywać się poprzez porównywanie zjawisk literackich w czasie. Należy przyjąć perspektywę współczesną jako punkt wyjścia do wprowadzania do tradycji. Kształcenie literackie i kulturowe w liceum ogólnokształcącym powinno akcentować egzystencjalne aspekty doświadczenia siebie, innych, świata, otwierać ciekawą przestrzeń myślenia i wartościowania poprzez kontakty z wartościową literaturą i innymi tekstami kultury. Powinno równocześnie wprowadzać w tradycję jako strażnika pamięci zbiorowej, łącznika między dawnymi i współczesnymi latami. Jednym z ważnych zadań edukacji polonistycznej na III etapie edukacyjnym jest kontynuowanie kształcenia umiejętności świadomego posługiwania się językiem polskim. Kluczowe w tym zakresie jest rozwijanie kompetencji językowej jako podstawy rozumienia tekstów, wypowiadania się ustnie i pisemnie w różnych formach, umiejętnego argumentowania swoich sądów i przekonań. Kompetencje językowe warunkowane znajomością gramatyki języka, jego zasobu leksykalnego i stylistyki, stanowią podstawę do rozwijania kompetencji komunikacyjnych. Świadomość sytuacji, w której odbywa się komunikacja, świadomość reguł, których wymaga komunikowanie się z otaczającym światem, nie tylko reguł gramatycznych, także zasad kultury języka, to podstawowa dla człowieka umiejętność we współczesnym świecie. Dopełnieniem kompetencji komunikacyjnej jest znajomość i stosowanie zasad ortografii i interpunkcji. Rozwijanie kompetencji językowych i komunikacyjnych ucznia warunkuje zatem kształcenie odbioru tekstów oraz ich tworzenie. Ważną rolę w edukacji polonistycznej powinno spełnić samokształcenie rozumiane jako przygotowanie do edukacji ustawicznej, czyli wychowania człowieka charakteryzującego się twórczym i dynamicznym stosunkiem do życia i kultury. Obowiązkiem nauczyciela jest organizowanie wewnętrznej integracji wewnątrzprzedmiotowej, czyli łączenie kształcenia literackiego i kulturowego, językowego, tworzenia wypowiedzi oraz samokształcenia. WIEDZA O POLSCE (elementy historii, geografii, kultury) WIEDZA O POLSCE Klasy I – IV Liceum ogólnokształcące Cele kształcenia – wymagania ogólne w zakresie historii Polski i kultury Uczeń zdobywa usystematyzowaną wiedzę na temat historii Polski, kultury i społeczeństwa polskiego na przestrzeni od X wieku do czasów współczesnych, która pozwoli mu lepiej poznać historię Polski oraz dostrzec korzenie wielu współczesnych zjawisk politycznych, społecznych, gospodarczych i kulturowych. Edukacja historyczna pełni ważne cele wychowawcze i umożliwia uczniowi:
+zna pojęcie hipertekstu, rozpoznaje jego realizacje internetowe oraz pozainternetowe, określa ich funkcje w komunikacji, umiejętnie z nich korzysta w gromadzeniu informacji. Lektura Teksty poznawane w całości – nie mniej niż 8 pozycji książkowych oraz wybrane przez nauczyciela teksty o mniejszej objętości, przy czym nie można pominąć autorów i utworów oznaczonych gwiazdką: *Bogurodzica; Gall Anonim, Kronika polska (fragmenty); *Jan Kochanowski, wybrane pieśni, w tym: Pieśń IX ks. I, Pieśń V ks. II, psalmy, w tym Psalm 13, Psalm 47, treny, w tym: IX, X, XI i XIX, Odprawa posłów greckich (fragmenty); Andrzej Frycz Modrzewski, O poprawie Rzeczypospolitej (fragmenty); Piotr Skarga, Kazania sejmowe (fragmenty); Jan Chryzostom Pasek, Pamiętniki (fragmenty); Ignacy Krasicki, Hymn do miłości ojczyzny; Stanisław Staszic, Przestrogi dla Polski (fragmenty); *Adam Mickiewicz, Oda do młodości, wybrane ballady, w tym Romantyczność, wybrane sonety z cyklu Sonety krymskie oraz inne wiersze, Konrad Wallenrod (fragmenty), Dziady cz. IV (fragmenty), Dziady cz. III (fragmenty); Juliusz Słowacki, Kordian (fragmenty), wybrane wiersze, w tym Grób Agamemnona (fragmenty), Testament mój; Cyprian Norwid – wybrane wiersze, w tym Fortepian Szopena; Aleksander Fredro, Śluby panieńskie; *Bolesław Prus, Lalka (fragmenty); *Henryk Sienkiewicz, Potop (fragmenty); Eliza Orzeszkowa, Nad Niemnem; Adam Asnyk, wybór wierszy; Maria Konopnicka, wybór wierszy; wybrane wiersze następujących poetów: Jan Kasprowicz, Kazimierz Przerwa-Tetmajer, Leopold Staff; Stanisław Wyspiański, Wesele (fragmenty); *Władysław Stanisław Reymont, Chłopi, tom I – Jesień (fragmenty); Stefan Żeromski, Rozdziobią nas kruki, wrony..., Przedwiośnie; Witold Gombrowicz, Ferdydurke (fragmenty); wybrane wiersze następujących poetów: Bolesław Leśmian, Julian Tuwim, Jan Lechoń, Maria Pawlikowska-Jasnorzewska, Kazimiera Iłłakowiczówna, Julian Przyboś, Tadeusz Peiper, Józef Czechowicz; wybrane wiersze następujących poetów: Krzysztof Kamil Baczyński, Tadeusz Gajcy; Tadeusz Borowski, Proszę państwa do gazu, Ludzie, którzy szli; Gustaw Herling-Grudziński, Inny świat; Hanna Krall, Zdążyć przed Panem Bogiem; Kazimierz Moczarski, Rozmowy z katem (fragmenty); wybrane wiersze następujących poetów: Tadeusz Różewicz, Miron Białoszewski, Jarosław Marek Rymkiewicz, *Wisława Szymborska, *Zbigniew Herbert, w tym wybrane wiersze z tomów: Pan Cogito oraz Raport z oblężonego miasta, *Czesław Miłosz, Halina Poświatowska, Stanisław Barańczak, Marcin Świetlicki, Jan Polkowski, Wojciech Wencel; Józef Mackiewicz, Droga donikąd (fragmenty); Sławomir Mrożek, Tango; Marek Nowakowski, Raport o stanie wojennym (wybrane opowiadanie); Górą „Edek” (z tomu Prawo prerii); Jacek Dukaj, Katedra (z tomu W kraju niewiernych); Antoni Libera, Madame; Andrzej Stasiuk, Miejsce (z tomu Opowieści galicyjskie); Olga Tokarczuk, Profesor Andrews; wybrane utwory okresu stanu wojennego; powojenna piosenka literacka – wybrane utwory Ewy Demarczyk, Jacka Kaczmarskiego, Wojciecha Młynarskiego, Agnieszki Osieckiej oraz wybrane teksty Kabaretu Starszych Panów. Zalecane dzieła teatralne i filmowe: Apocalypsis cum figuris, reż. Jerzy Grotowski; Amadeusz, reż. Milos Forman; Dekalog, reż. Krzysztof Kieślowski, wybrane filmy z cyklu; Dziady, reż. Konrad Swinarski; Elektra, reż. Piotr Chołodziński; Emigranci, reż. Kazimierz Kutz; Iwona, księżniczka Burgunda, reż. Zygmunt Hubner; Kartoteka, reż. Krzysztof Kieślowski; Kordian, reż. Jan Englert; Lawa. Opowieść o „Dziadach” Adama Mickiewicza, reż. Tadeusz Konwicki; Moralność pani Dulskiej, reż. Tomasz Zygadło; Nad Niemnem, reż. Zbigniew Kuźmiński; Noc listopadowa, reż. Andrzej Wajda; Noce i dnie, reż. Jerzy Antczak; Rewizor, reż. Jerzy Gruza; Rękopis znaleziony w Saragossie, reż. Wojciech Jerzy Has; Sanatorium pod klepsydrą, reż. Wojciech Jerzy Has; Śluby panieńskie, reż. Andrzej Łapicki; Wizyta starszej pani, reż. Jerzy Gruza; Zezowate szczęście, reż. Andrzej Munk; Ziemia obiecana, reż. Andrzej Wajda. Teksty polecane do samokształcenia: 100 tysięcy potrzebnych słów, red. Jerzy Bralczyk; Jan Białostocki, Sztuka cenniejsza niż złoto. Opowieść o sztuce europejskiej; Człowiek Grecji, red. Jean-Pierre Vernant; Człowiek renesansu, red. Eugenio Garin; Umberto Eco, Sztuka i piękno w średniowieczu; Karol Estreicher, Historia sztuki w zarysie; Formy i normy, czyli poprawna polszczyzna w praktyce, red. Katarzyna Kłosińska; Władysław Kopaliński, Słownik mitów i tradycji kultury; Jacek Kowalski, Niezbędnik Sarmaty; Tadeusz Lubelski, Historia kina polskiego. Twórcy, filmy, konteksty; Jan Miodek, Słownik ojczyzny polszczyzny; Anna Nasiłowska, Literatura okresu przejściowego 1975–1996; Ewelina Nurczyńska-Fidelska, Barbara Parniewska, Ewa Popiel-Popiołek, Halina Ulińska, Film w szkolnej edukacji humanistycznej; Popularna encyklopedia mass mediów, pod red. J. Skrzypczaka; Praktyczna stylistyka nie tylko dla polonistów, red. Edyta Bańkowska i Agnieszka Mikołajczuk; Zbigniew Raszewski, Krótka historia teatru polskiego; Władysław Tatarkiewicz, Historia filozofii, Dzieje sześciu pojęć, Estetyka; Mieczysław Tomaszewski, Muzyka w dialogu ze słowem. Próby, szkice, interpretacje. Warunki i sposób realizacji Ramy programowe kształcenia uzupełniającego dla liceum ogólnokształcącego zawierają chronologiczny układ treści, który pozwala na poznawanie utworów literackich w naturalnym porządku, tak jak one powstawały z uwzględnieniem różnorodnych kontekstów, w tym kulturowych, historycznych, filozoficznych. Nauczanie języka polskiego na tym etapie edukacyjnym nie może sprowadzać się jedynie do uczenia historii literatury, może to bowiem prowadzić do encyklopedyzmu czy mnożenia faktów. Chronologia ma stanowić punkt odniesienia, umożliwić rozwijanie świadomości historycznoliterackiej uczniów, co powinno dokonywać się poprzez porównywanie zjawisk literackich w czasie. Należy przyjąć perspektywę współczesną jako punkt wyjścia do wprowadzania do tradycji. Kształcenie literackie i kulturowe w liceum ogólnokształcącym powinno akcentować egzystencjalne aspekty doświadczenia siebie, innych, świata, otwierać ciekawą przestrzeń myślenia i wartościowania poprzez kontakty z wartościową literaturą i innymi tekstami kultury. Powinno równocześnie wprowadzać w tradycję jako strażnika pamięci zbiorowej, łącznika między dawnymi i współczesnymi latami. Jednym z ważnych zadań edukacji polonistycznej na III etapie edukacyjnym jest kontynuowanie kształcenia umiejętności świadomego posługiwania się językiem polskim. Kluczowe w tym zakresie jest rozwijanie kompetencji językowej jako podstawy rozumienia tekstów, wypowiadania się ustnie i pisemnie w różnych formach, umiejętnego argumentowania swoich sądów i przekonań. Kompetencje językowe warunkowane znajomością gramatyki języka, jego zasobu leksykalnego i stylistyki, stanowią podstawę do rozwijania kompetencji komunikacyjnych. Świadomość sytuacji, w której odbywa się komunikacja, świadomość reguł, których wymaga komunikowanie się z otaczającym światem, nie tylko reguł gramatycznych, także zasad kultury języka, to podstawowa dla człowieka umiejętność we współczesnym świecie. Dopełnieniem kompetencji komunikacyjnej jest znajomość i stosowanie zasad ortografii i interpunkcji. Rozwijanie kompetencji językowych i komunikacyjnych ucznia warunkuje zatem kształcenie odbioru tekstów oraz ich tworzenie. Ważną rolę w edukacji polonistycznej powinno spełnić samokształcenie rozumiane jako przygotowanie do edukacji ustawicznej, czyli wychowania człowieka charakteryzującego się twórczym i dynamicznym stosunkiem do życia i kultury. Obowiązkiem nauczyciela jest organizowanie wewnętrznej integracji wewnątrzprzedmiotowej, czyli łączenie kształcenia literackiego i kulturowego, językowego, tworzenia wypowiedzi oraz samokształcenia. WIEDZA O POLSCE (elementy historii, geografii, kultury) WIEDZA O POLSCE Klasy I – IV Liceum ogólnokształcące Cele kształcenia – wymagania ogólne w zakresie historii Polski i kultury Uczeń zdobywa usystematyzowaną wiedzę na temat historii Polski, kultury i społeczeństwa polskiego na przestrzeni od X wieku do czasów współczesnych, która pozwoli mu lepiej poznać historię Polski oraz dostrzec korzenie wielu współczesnych zjawisk politycznych, społecznych, gospodarczych i kulturowych. Edukacja historyczna pełni ważne cele wychowawcze i umożliwia uczniowi:
 1)
 poznanie chronologii historycznej ważnych wydarzeń z dziejów narodu polskiego, by mógł krytycznie odnosić się do przeszłości, lepiej rozumieć teraźniejszość i odpowiedzialnie budować przyszłość, porządkować i synchronizować wydarzenia z dziejów ojczystych, dostrzegać zmienność i dynamikę wydarzeń, a także ciągłość procesów historycznych;
 2)
@@ -1899,8 +2209,7 @@ rozwijanie myślenia historycznego, umiejętności samodzielnego poszukiwania wi
 4)
 rozbudzanie poczucia miłości do Polski przez szacunek i przywiązanie do tradycji i historii narodu polskiego oraz jego osiągnięć, kultury oraz języka polskiego;
 5)
-kształtowanie więzi z Polską, szacunku dla dziedzictwa narodowego, postaw obywatelskich, rozbudzanie zainteresowań przeszłością własną i swojej rodziny.
-Treści nauczania – wymagania szczegółowe w zakresie historii oraz wiedzy o społeczeństwie
+kształtowanie więzi z Polską, szacunku dla dziedzictwa narodowego, postaw obywatelskich, rozbudzanie zainteresowań przeszłością własną i swojej rodziny. Treści nauczania – wymagania szczegółowe w zakresie historii oraz wiedzy o społeczeństwie
 1.
 Polska w okresie wczesnopiastowskim. Uczeń:
 1)
@@ -2354,8 +2663,7 @@ wyjaśnia przyczyny i znaczenie przystąpienia Polski do Unii Europejskiej w 200
 8)
 charakteryzuje przemiany gospodarczo-społeczne współczesnego świata;
 9)
-przedstawia przemiany kulturowe i cywilizacyjne we współczesnym świecie.
-Cele kształcenia – wymagania ogólne w zakresie geografii Uczeń korzysta z planów, map, fotografii, rysunków, wykresów, danych statystycznych, tekstów źródłowych, technologii geoinformacyjnych (GIS) oraz technologii informacyjno--komunikacyjnych w celu gromadzenia, przetwarzania i prezentowania informacji geograficznych o Polsce. Posługuje się podstawowym słownictwem geograficznym przy opisywaniu oraz wyjaśnianiu zjawisk i procesów zachodzących w środowisku geograficznym. Identyfikuje związki i zależności w środowisku przyrodniczym, gospodarce i życiu społecznym Polski. Rozbudza swoje zainteresowania przyrodniczym i kulturowym środowiskiem Polski, zdobywa przydatną w życiu codziennym wiedzę praktyczną prowadzącą do tworzenia całościowego obrazu świata. Treści nauczania i wymagania szczegółowe w zakresie geografii
+przedstawia przemiany kulturowe i cywilizacyjne we współczesnym świecie. Cele kształcenia – wymagania ogólne w zakresie geografii Uczeń korzysta z planów, map, fotografii, rysunków, wykresów, danych statystycznych, tekstów źródłowych, technologii geoinformacyjnych (GIS) oraz technologii informacyjno--komunikacyjnych w celu gromadzenia, przetwarzania i prezentowania informacji geograficznych o Polsce. Posługuje się podstawowym słownictwem geograficznym przy opisywaniu oraz wyjaśnianiu zjawisk i procesów zachodzących w środowisku geograficznym. Identyfikuje związki i zależności w środowisku przyrodniczym, gospodarce i życiu społecznym Polski. Rozbudza swoje zainteresowania przyrodniczym i kulturowym środowiskiem Polski, zdobywa przydatną w życiu codziennym wiedzę praktyczną prowadzącą do tworzenia całościowego obrazu świata. Treści nauczania i wymagania szczegółowe w zakresie geografii
 1.
 Źródła informacji geograficznych, technologie geoinformacyjne oraz metody prezentacji danych przestrzennych dotyczących Polski. Uczeń:
 1)
@@ -2447,14 +2755,15 @@ uzasadnia konieczność działań na rzecz ochrony środowiska przyrodniczego w 
 3)
 prezentuje wartości społeczne, w tym kulturowe, obiektów stanowiących dziedzictwo kulturowe Polski na przykładzie wybranego regionu lub szlaku turystycznego;
 4)
-projektuje trasę wirtualnej wycieczki uwzględniającą wybrane grupy atrakcji turystycznych w regionie pochodzenia.
-1 Tabela diagnostyczna poziomu znajomości języka. 2 Tabela diagnostyczna poziomu znajomości języka.
+projektuje trasę wirtualnej wycieczki uwzględniającą wybrane grupy atrakcji turystycznych w regionie pochodzenia. 1 Tabela diagnostyczna poziomu znajomości języka. 2 Tabela diagnostyczna poziomu znajomości języka.
 
 ## Załącznik nr 2 — – Plany nauczania uzupełniającego
 
 1)
-szkoły podstawowej I etap edukacyjny Obowiązkowe zajęcia edukacyjne Maksymalna liczba godzin w semestrze klasa I-III Edukacja wczesnoszkolna 54 Godziny do dyspozycji kierownika szkoły polskiej 18 II etap edukacyjny Obowiązkowe zajęcia edukacyjne Maksymalna liczba godzin w semestrze klasa IV-VIII Język polski (kompetencje językowe) 36 Wiedza o Polsce (elementy historii, geografii, kultury) 18 Godziny do dyspozycji kierownika szkoły polskiej 36
+szkoły podstawowej
+I etap edukacyjny Obowiązkowe zajęcia edukacyjne Maksymalna liczba godzin w semestrze klasa I-III Edukacja wczesnoszkolna 54 Godziny do dyspozycji kierownika szkoły polskiej 18 II etap edukacyjny Obowiązkowe zajęcia edukacyjne Maksymalna liczba godzin w semestrze klasa IV-VIII Język polski (kompetencje językowe) 36 Wiedza o Polsce (elementy historii, geografii, kultury) 18 Godziny do dyspozycji kierownika szkoły polskiej 36
 2)
-liceum ogólnokształcącego Obowiązkowe zajęcia edukacyjne Maksymalna liczba godzin w semestrze klasa I-IV Język polski (kompetencje językowe) 36 Wiedza o Polsce (elementy historii, geografii, kultury) 36 Godziny do dyspozycji kierownika szkoły polskiej 18
+liceum ogólnokształcącego
+Obowiązkowe zajęcia edukacyjne Maksymalna liczba godzin w semestrze klasa I-IV Język polski (kompetencje językowe) 36 Wiedza o Polsce (elementy historii, geografii, kultury) 36 Godziny do dyspozycji kierownika szkoły polskiej 18
 1 Godziny do dyspozycji kierownika szkoły polskiej, po ustaleniu przez kierownika szkoły polskiej w porozumieniu z radą rodziców, mogą zostać przeznaczone na zwiększenie liczby godzin obowiązkowych zajęć edukacyjnych wskazanych w planie nauczania uzupełniającego lub realizację religii albo innych zajęć służących rozwijaniu znajomości języka polskiego i wiedzy na temat Polski.
 

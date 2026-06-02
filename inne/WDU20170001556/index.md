@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o zasadach finansowania nauki oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o zasadach finansowania nauki oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju oraz ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-21 |
-| Wejście w życie | 2017-09-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001556) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1556/text.pdf) |
 
@@ -55,17 +54,18 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** szczegółowy zakres informacji zawartych: we wnioskach o finansowanie zadań z zakresu działalności upowszechniającej naukę, w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych przyznanych na cele określone w ust. 1, 3, 4a i 5 w zakresie finansowania zadań związanych ze sporządzaniem ekspertyz, opinii i ocen naukowych mając na uwadze znaczenie zadań przewidzianych do finansowania i ich wpływ na realizację celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, potrzebę i znaczenie upowszechniania informacji o roli nauki w rozwoju gospodarczym i społecznym kraju, promowanie polskiej nauki za granicą, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania środków finansowych oraz ich rozliczania. ” ;
+- **2)** szczegółowy zakres informacji zawartych: we wnioskach o finansowanie zadań z zakresu działalności upowszechniającej naukę, w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych przyznanych na cele określone w ust. 1, 3, 4a i 5 w zakresie finansowania zadań związanych ze sporządzaniem ekspertyz, opinii i ocen naukowych – mając na uwadze znaczenie zadań przewidzianych do finansowania i ich wpływ na realizację celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, potrzebę i znaczenie upowszechniania informacji o roli nauki w rozwoju gospodarczym i społecznym kraju, promowanie polskiej nauki za granicą, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania środków finansowych oraz ich rozliczania. ” ;
     - **a)**
     - **b)**
 
 - **7)** w art. 27: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Minister może przyznać środki finansowe na organizowanie i finansowanie ustanowionego programu lub przedsięwzięcia jednostce naukowej, podmiotowi działającemu na rzecz nauki lub uczelni, wybranym w drodze konkursu. ” , w ust. 3: – pkt 3 otrzymuje brzmienie: „ 3) wymagania, jakie muszą spełniać jednostki naukowe, podmioty działające na rzecz nauki lub uczelnie, przystępujące do konkursu, ” , – część wspólna otrzymuje brzmienie: „ – mając na uwadze sprawną organizację i cele ustanowionego programu lub przedsięwzięcia. ” , ust. 4 otrzymuje brzmienie: „
+1. Minister może przyznać środki finansowe na organizowanie i finansowanie ustanowionego programu lub przedsięwzięcia jednostce naukowej, podmiotowi działającemu na rzecz nauki lub uczelni, wybranym w drodze konkursu. ” , w ust. 3: pkt 3 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **3)** wymagania, jakie muszą spełniać jednostki naukowe, podmioty działające na rzecz nauki lub uczelnie, przystępujące do konkursu, ” , część wspólna otrzymuje brzmienie: „ – mając na uwadze sprawną organizację i cele ustanowionego programu lub przedsięwzięcia. ” , ust. 4 otrzymuje brzmienie: „
+    - **c)**
 
 4. Środki finansowe przeznaczone na organizowanie i finansowanie ustanowionego przez Ministra programu lub przedsięwzięcia są przekazywane jednostce naukowej, podmiotowi działającemu na rzecz nauki lub uczelni na podstawie umowy. ” ;
 
@@ -116,7 +116,7 @@ source: "eli-html"
 - **7)** rozwoju regionalnego,
 - **8)** rybołówstwa,
 - **9)** zabezpieczenia społecznego,
-- **10)** żeglugi śródlądowej spośród osób będących pracownikami administracji rządowej, do których kompetencji należą sprawy nauki. ” ;
+- **10)** żeglugi śródlądowej – spośród osób będących pracownikami administracji rządowej, do których kompetencji należą sprawy nauki. ” ;
 - **2)** w art. 20 ust. 2 otrzymuje brzmienie: „
 
 2. Ogłoszenie o naborze udostępnia się na stronie podmiotowej Centrum w Biuletynie Informacji Publicznej. ” ;
@@ -230,5 +230,5 @@ source: "eli-html"
 
 2. Do umowy o realizację i finansowanie projektu badawczego zawartej przed dniem wejścia w życie niniejszej ustawy, na podstawie ustawy zmienianej w art. 3, stosuje się art. 34 ust. 2 tej ustawy, w brzmieniu dotychczasowym.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6, który wchodzi w życie z dniem 1 stycznia 2018 r.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6, który wchodzi w życie z dniem 1 stycznia 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju oraz ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki.
 

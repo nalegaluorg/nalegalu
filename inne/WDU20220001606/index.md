@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 19 lipca 2022 r. o zmianie rozporządzenia zmieniającego rozporządzenie w sprawie orzekania o niepełnosprawności i stopniu niepełnosprawności
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 19 lipca 2022 r. o zmianie rozporządzenia zmieniającego rozporządzenie w sprawie orzekania o niepełnosprawności i stopniu niepełnosprawności Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-19 |
 | Data wydania | 2022-07-29 |
-| Wejście w życie | 2022-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1606/text.pdf) |
 
@@ -37,9 +36,7 @@ niepełnosprawności osób, które nie ukończyły 16. roku życia,
 2)
 stopniu niepełnosprawności osób, które ukończyły 16. rok życia,
 3)
-wskazaniach do ulg i uprawnień
-złożonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+wskazaniach do ulg i uprawnień – złożonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 45 dni od dnia ogłoszenia.
-1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
+Rozporządzenie wchodzi w życie po upływie 45 dni od dnia ogłoszenia. 1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
 

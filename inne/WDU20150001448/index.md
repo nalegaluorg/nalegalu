@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-01 |
 | Data wydania | 2015-09-23 |
-| Wejście w życie | 2015-10-08 |
 | Ostatnia zmiana | 2024-07-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1448/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 76 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 1106, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 76 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 1106, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 1066, 1217 i 1268.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie grup zaszeregowania stanowisk służbowych funkcjonariuszy Służby Wywiadu Wojskowego i stawek uposażenia zasadniczego w tych grupach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat (Dz. U. Nr 174, poz. 1271, z późn. zm.) w § 2 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie grup zaszeregowania stanowisk służbowych funkcjonariuszy Służby Wywiadu Wojskowego i stawek uposażenia zasadniczego w tych grupach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat (Dz. U. Nr 174, poz. 1271, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 188, poz. 1350, z 2008 r. Nr 116, poz. 738 oraz z 2009 r. Nr 186, poz. 1442.) w § 2 ust. 1 otrzymuje brzmienie: „
 1.
-Uposażenie zasadnicze funkcjonariuszy Służby Wywiadu Wojskowego wzrasta z tytułu wysługi lat o 2% po 2 latach służby i o dalszy 1% za każdy następny rok służby – łącznie do wysokości 35% po 35 latach służby.
-” .
+Uposażenie zasadnicze funkcjonariuszy Służby Wywiadu Wojskowego wzrasta z tytułu wysługi lat o 2% po 2 latach służby i o dalszy 1% za każdy następny rok służby – łącznie do wysokości 35% po 35 latach służby. ” .
 § 2.
 Wzrost uposażenia zasadniczego z tytułu wysługi lat określony w rozporządzeniu zmienianym w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się przy ustalaniu wysokości uposażeń należnych funkcjonariuszom Służby Wywiadu Wojskowego od dnia 1 stycznia 2015 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 1066, 1217 i 1268. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 188, poz. 1350, z 2008 r. Nr 116, poz. 738 oraz z 2009 r. Nr 186, poz. 1442.
 

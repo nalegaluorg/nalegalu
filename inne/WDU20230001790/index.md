@@ -31,14 +31,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 711), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 lipca 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852), który stanowi: „
 
 **Art. 28.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 5, art. 7 i art. 22, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 10 oraz art. 23–26, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-- **3)** art. 6, art. 8 i art. 27, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych
+- **3)** art. 6, art. 8 i art. 27, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowychNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2011/7/UE z dnia 16 lutego 2011 r. w sprawie zwalczania opóźnień w płatnościach w transakcjach handlowych (Dz. Urz. UE L 48 z 23.02.2011, str. 1).
 
 **Art. 1.** Ustawa określa szczególne uprawnienia wierzyciela i obowiązki dłużnika w związku z terminami zapłaty w transakcjach handlowych, skutki niewykonania takich obowiązków oraz postępowanie w sprawie nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych.
 
@@ -55,7 +54,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 **Art. 3.** Przepisów ustawy nie stosuje się do:
 
 - **1)** długów objętych postępowaniami prowadzonymi na podstawie ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825) oraz ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309) odpowiednio od dnia ogłoszenia upadłości albo od dnia otwarcia postępowania restrukturyzacyjnego;
-- **2)** umów, na podstawie których są wykonywane czynności bankowe w rozumieniu przepisów art. 5 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.);
+- **2)** umów, na podstawie których są wykonywane czynności bankowe w rozumieniu przepisów art. 5 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996 i 1059.);
 - **3)** umów, których stronami są wyłącznie podmioty zaliczane do sektora finansów publicznych w rozumieniu przepisów o finansach publicznych.
 - **4)** (uchylony)
 
@@ -69,7 +68,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
     - **b)**
 
 - **4)** podmiot leczniczy – podmiot, o którym mowa w art. 4 ust. 1 pkt 2–4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991);
-- **5)** mikroprzedsiębiorca, mały przedsiębiorca, średni przedsiębiorca – odpowiednio mikroprzedsiębiorcę, małego przedsiębiorcę i średniego przedsiębiorcę w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i art. 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.);
+- **5)** mikroprzedsiębiorca, mały przedsiębiorca, średni przedsiębiorca – odpowiednio mikroprzedsiębiorcę, małego przedsiębiorcę i średniego przedsiębiorcę w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i art. 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 26 z 31.01.2018, str. 53.;
 - **6)** duży przedsiębiorca – przedsiębiorcę niebędącego mikroprzedsiębiorcą, małym przedsiębiorcą ani średnim przedsiębiorcą;
 - **7)** grupa kapitałowa – grupę kapitałową w rozumieniu art. 4 pkt 14 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2021 r. poz. 275, z 2022 r. poz. 2581 i 2640 oraz z 2023 r. poz. 852). Do transakcji handlowych nie stosuje się przepisu art. 481 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326 i 1285). Dłużnik będący dużym przedsiębiorcą nie może powoływać się przeciwko wierzycielowi będącemu mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą na jego oświadczenie, że nie jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą, chyba że mimo dołożenia należytej staranności nie wiedział o nieprawdziwości tego oświadczenia.
 
@@ -79,7 +78,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** posiadaniu statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami,
 - **2)** uzyskaniu statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami po uzyskaniu tego statusu,
-- **3)** utracie statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami po utracie tego statusu jednokrotnie, w formie, w jakiej jest zawierana ta transakcja handlowa.
+- **3)** utracie statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami po utracie tego statusu – jednokrotnie, w formie, w jakiej jest zawierana ta transakcja handlowa.
 
 **Art. 5.** Jeżeli strony transakcji handlowej, z wyłączeniem podmiotu publicznego będącego podmiotem leczniczym, przewidziały w umowie termin zapłaty dłuższy niż 30 dni, wierzyciel, który nie jest dużym przedsiębiorcą, może żądać odsetek ustawowych po upływie 30 dni, liczonych od dnia spełnienia swojego świadczenia i doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, do dnia zapłaty, ale nie dłużej niż do dnia wymagalności świadczenia pieniężnego.
 
@@ -160,7 +159,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 2. Jeżeli strony transakcji handlowej ustaliły w umowie, że świadczenie pieniężne będzie spełniane w częściach, uprawnienie do:
 
 - **1)** odsetek, o których mowa w art. 7 ust. 1 lub art. 8 ust. 1,
-- **2)** kwoty, o której mowa w art. 10 ust. 1, oraz zwrotu poniesionych kosztów odzyskiwania należności, o których mowa w art. 10 ust. 2 przysługuje w stosunku do każdej niezapłaconej części.
+- **2)** kwoty, o której mowa w art. 10 ust. 1, oraz zwrotu poniesionych kosztów odzyskiwania należności, o których mowa w art. 10 ust. 2 – przysługuje w stosunku do każdej niezapłaconej części.
 
 1. Oceny, czy postanowienia umowne są rażąco nieuczciwe wobec wierzyciela, dokonuje się, biorąc pod uwagę wszystkie okoliczności sprawy, w szczególności:
 
@@ -183,7 +182,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Do pozwu lub pisma obejmującego przystąpienie organizacja, o której mowa w ust. 1, dołącza, wyrażoną na piśmie, zgodę podmiotu, o którym mowa w art. 2.
 
-3. Do organizacji, o której mowa w ust. 1, wytaczającej powództwo na rzecz podmiotu, o którym mowa w art. 2, stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) o prokuratorze wytaczającym powództwo na rzecz oznaczonej osoby, z wyjątkiem art. 58 zdanie drugie.
+3. Do organizacji, o której mowa w ust. 1, wytaczającej powództwo na rzecz podmiotu, o którym mowa w art. 2, stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803 i 852.) o prokuratorze wytaczającym powództwo na rzecz oznaczonej osoby, z wyjątkiem art. 58 zdanie drugie.
 
 4. Do przystąpienia organizacji, o której mowa w ust. 1, do strony w toczącym się postępowaniu stosuje się odpowiednio przepisy o interwencji ubocznej, do której nie mają odpowiedniego zastosowania przepisy o współuczestnictwie jednolitym.
 
@@ -196,13 +195,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** art. 7 ust. 2 – stosuje się termin zapłaty 60 dni,
 - **2)** art. 7 ust. 2a – stosuje się termin zapłaty 60 dni,
 - **3)** art. 8 ust. 2 – gdy dłużnikiem jest podmiot publiczny niebędący podmiotem leczniczym, stosuje się termin zapłaty 30 dni,
-- **4)** art. 8 ust. 2 – gdy dłużnikiem jest podmiot publiczny będący podmiotem leczniczym, stosuje się termin zapłaty 60 dni liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, albo liczonych zgodnie z art. 7 ust. 4 albo art. 8 ust. 5 lub art. 9 ust. 2.
+- **4)** art. 8 ust. 2 – gdy dłużnikiem jest podmiot publiczny będący podmiotem leczniczym, stosuje się termin zapłaty 60 dni – liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, albo liczonych zgodnie z art. 7 ust. 4 albo art. 8 ust. 5 lub art. 9 ust. 2.
 
 3. Zawarte przez strony transakcji handlowej umowy niebędące transakcjami handlowymi mające na celu obejście ustawy są nieważne.
 
 4. Przepis ust. 3 stosuje się odpowiednio do postanowień umowy będącej transakcją handlową mających na celu obejście ustawy.
 
-1. Podmioty, o których mowa w art. 27b ust. 2 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm.), których indywidualne dane zostały podane do publicznej wiadomości w terminie wskazanym w art. 27b ust. 1 tej ustawy, z wyłączeniem podmiotów publicznych będących podmiotami leczniczymi oraz podmiotów, o których mowa w art. 6 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, przekazują ministrowi właściwemu do spraw gospodarki drogą elektroniczną w terminie do dnia 30 kwietnia roku bezpośrednio następującego po roku, w którym ich indywidualne dane zostały podane do publicznej wiadomości, sprawozdanie o stosowanych przez te podmioty w poprzednim roku kalendarzowym terminach zapłaty w transakcjach handlowych.
+1. Podmioty, o których mowa w art. 27b ust. 2 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2640 i 2745 oraz z 2023 r. poz. 185, 326, 412, 825, 1059 i 1130.), których indywidualne dane zostały podane do publicznej wiadomości w terminie wskazanym w art. 27b ust. 1 tej ustawy, z wyłączeniem podmiotów publicznych będących podmiotami leczniczymi oraz podmiotów, o których mowa w art. 6 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, przekazują ministrowi właściwemu do spraw gospodarki drogą elektroniczną w terminie do dnia 30 kwietnia roku bezpośrednio następującego po roku, w którym ich indywidualne dane zostały podane do publicznej wiadomości, sprawozdanie o stosowanych przez te podmioty w poprzednim roku kalendarzowym terminach zapłaty w transakcjach handlowych.
 
 1a. W sprawozdaniu, o którym mowa w ust. 1, nie uwzględnia się:
 
@@ -273,7 +272,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Wszczęcie postępowania poprzedza przeprowadzana przez Prezesa Urzędu analiza prawdopodobieństwa nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych. Analiza ta obejmuje identyfikację obszarów, w których ryzyko powstawania takiego opóźniania się jest największe, w szczególności analiza ta uwzględnia szacowaną wartość świadczeń pieniężnych niespełnionych oraz spełnionych po terminie przez dany podmiot i liczbę wierzycieli, którzy takich świadczeń od tego podmiotu nie otrzymali lub otrzymali je po terminie.
 
-4. Prezes Urzędu może wystąpić do Szefa Krajowej Administracji Skarbowej z wnioskiem o przekazanie danych, o których mowa w art. 299f § 7 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.), w celu dokonania analizy, o której mowa w ust. 3.
+4. Prezes Urzędu może wystąpić do Szefa Krajowej Administracji Skarbowej z wnioskiem o przekazanie danych, o których mowa w art. 299f § 7 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193 i 1234.), w celu dokonania analizy, o której mowa w ust. 3.
 
 5. Minister właściwy do spraw gospodarki przekazuje Prezesowi Urzędu sprawozdania, o których mowa w art. 13a ust. 1, oraz informację o podmiotach, które nie złożyły w terminie tych sprawozdań, ze wskazaniem ich firmy (nazwy) i numeru identyfikacji podatkowej. Prezes Urzędu wykorzystuje przekazane informacje przy dokonywaniu analizy, o której mowa w ust. 3.
 
@@ -441,5 +440,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 16.** Traci moc ustawa z dnia 12 czerwca 2003 r. o terminach zapłaty w transakcjach handlowych (Dz. U. poz. 1323, z 2004 r. poz. 177, 959 i 1808 oraz z 2009 r. poz. 1241).
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 17.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 28 marca 2013 r.. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2011/7/UE z dnia 16 lutego 2011 r. w sprawie zwalczania opóźnień w płatnościach w transakcjach handlowych (Dz. Urz. UE L 48 z 23.02.2011, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996 i 1059. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 26 z 31.01.2018, str. 53. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803 i 852. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2640 i 2745 oraz z 2023 r. poz. 185, 326, 412, 825, 1059 i 1130. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193 i 1234. 7) Ze zmianą wprowadzoną przez art. 9 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852), która weszła w życie z dniem 20 maja 2023 r. 8) Ustawa została ogłoszona w dniu 28 marca 2013 r.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-08-05 |
 | Data wydania | 2010-08-13 |
-| Wejście w życie | 2010-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101480991) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/991/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705 oraz z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320 i Nr 127, poz. 857.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5c pkt 1 otrzymuje brzmienie: „
 - **1)** art. 5 ust. 9, art. 6 ust. 1 pkt 2 i ust. 2, art. 7a ust. 4 i ust. 6 pkt 4, art. 7c ust. 1 pkt 4, art. 7d, art. 14 ust. 5, art. 58 ust. 6, art. 59 ust. 1 oraz art. 62 ust. 1 i 5 – wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa; ” ;
@@ -66,5 +65,5 @@ source: "eli-html"
 
 **Art. 2.** Dotychczasowe uchwały organów stanowiących jednostek samorządu terytorialnego wydane na podstawie art. 14 ust. 5 ustawy zmienianej w art. 1, zachowują moc do czasu wydania uchwał przewidzianych w art. 14 ust. 5 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 sierpnia 2011 r.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 września 2010 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 września 2010 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705 oraz z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320 i Nr 127, poz. 857.
 

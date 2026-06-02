@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-16 |
 | Data wydania | 2015-12-24 |
-| Wejście w życie | 2015-12-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002184) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2184/text.pdf) |
 
@@ -51,7 +50,7 @@ source: "eli-html"
 - **2)** stwierdzania wygaśnięcia interpretacji indywidualnych na podstawie art. 14e § 1 pkt 3,
 - **3)** uchylania interpretacji indywidualnych i wydawania postanowień, o których mowa w § 5a, na podstawie art. 14e § 1 pkt 4,
 - **4)** wydawania postanowień, o których mowa w § 5a, oraz ich zmiany na podstawie art. 14e § 1 pkt 5,
-- **5)** uchylania postanowień, o których mowa w § 5a, na podstawie art. 14e § 1 pkt 6 w jego imieniu i w ustalonym zakresie, określając jednocześnie właściwość rzeczową i miejscową upoważnionych organów.”, ” ; ” ;
+- **5)** uchylania postanowień, o których mowa w § 5a, na podstawie art. 14e § 1 pkt 6 – w jego imieniu i w ustalonym zakresie, określając jednocześnie właściwość rzeczową i miejscową upoważnionych organów.”, ” ; ” ;
 - **2)** w pkt 175 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w art. 306h dodaje się § 3–5 w brzmieniu: ” .
 
 **Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.

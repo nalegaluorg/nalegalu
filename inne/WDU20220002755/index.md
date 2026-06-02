@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 11 grudnia 2022 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 11 grudnia 2022 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-11 |
 | Data wydania | 2022-12-23 |
-| Wejście w życie | 2022-12-24 |
 | Ostatnia zmiana | 2024-10-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2755/text.pdf) |
 
@@ -37,12 +36,11 @@ Programu Współpracy Interreg Polska-Saksonia 2021–2027,
 3)
 Programu Współpracy Interreg Polska-Dania-Niemcy-Litwa-Szwecja (Południowy Bałtyk) 2021–2027,
 4)
-Programu Współpracy Interreg NEXT Polska-Ukraina 2021–2027
-a także podmioty udzielające tej pomocy.
+Programu Współpracy Interreg NEXT Polska-Ukraina 2021–2027 – a także podmioty udzielające tej pomocy.
 § 2.
-Pomoc de minimis jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem nr 1407/2013”.
+Pomoc de minimis jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.), zwanym dalej „rozporządzeniem nr 1407/2013”.
 § 3.
-Pomoc publiczna jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem nr 651/2014”.
+Pomoc publiczna jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.), zwanym dalej „rozporządzeniem nr 651/2014”.
 § 4.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -64,7 +62,7 @@ beneficjent.
 W przypadku gdy podmiotem udzielającym pomocy de minimis lub pomocy publicznej jest beneficjent, pomoc de minimis i pomoc publiczna mogą zostać udzielone, jeżeli możliwość ich udzielania przewidują umowa lub porozumienie, o których mowa w art. 2 pkt 32 lit. c ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027.
 § 6.
 1.
-Pomoc de minimis może zostać udzielona przedsiębiorcom działającym we wszystkich sektorach z wyłączeniem przypadków, o których mowa w art. 1 ust. 1 rozporządzenia nr 1407/2013, oraz przypadków, o których mowa w art. 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności (Dz. Urz. UE L 231 z 30.06.2021, str. 60, z późn. zm.).
+Pomoc de minimis może zostać udzielona przedsiębiorcom działającym we wszystkich sektorach z wyłączeniem przypadków, o których mowa w art. 1 ust. 1 rozporządzenia nr 1407/2013, oraz przypadków, o których mowa w art. 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności (Dz. Urz. UE L 231 z 30.06.2021, str. 60, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 13 z 20.01.2022, str. 74.).
 2.
 Pomoc de minimis jest udzielana w formach i na zasadach określonych w art. 4 ust. 1 i 2 rozporządzenia nr 1407/2013.
 3.
@@ -188,13 +186,11 @@ Przedsiębiorca przed podpisaniem umowy o dofinansowanie projektu przedstawia po
 1)
 kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie, lub zaświadczeń o pomocy de minimis w rybołówstwie albo oświadczenie o wielkości otrzymanej pomocy de minimis , albo oświadczenie o nieotrzymaniu pomocy de minimis , o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 ustawy, o której mowa w § 13 ust. 3 pkt 1,
 2)
-informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy, o której mowa w § 13 ust. 3 pkt 1
-dotyczące okresu od dnia złożenia wniosku do dnia podpisania umowy o dofinansowanie projektu.
+informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy, o której mowa w § 13 ust. 3 pkt 1 – dotyczące okresu od dnia złożenia wniosku do dnia podpisania umowy o dofinansowanie projektu.
 § 15.
 Pomoc de minimis jest udzielana do końca okresu, o którym mowa w art. 7 ust. 4, w związku z art. 8 rozporządzenia nr 1407/2013.
 § 16.
 Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 13 z 20.01.2022, str. 74.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 13 z 20.01.2022, str. 74.
 

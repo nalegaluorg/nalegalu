@@ -21,7 +21,6 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1946-11-15 |
-| Wejście w życie | 1946-11-25 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460620342) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1946/342/text.pdf) |
 

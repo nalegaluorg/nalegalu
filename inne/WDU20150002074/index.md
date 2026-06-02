@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-03 |
 | Data wydania | 2015-12-08 |
-| Wejście w życie | 2015-12-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2074/text.pdf) |
 
@@ -45,6 +44,5 @@ rozpatrzenie zgłoszenia podmiotu o zamiarze pełnienia funkcji jednostki ocenia
 7)
 rozpatrzenie zgłoszenia podmiotu o zamiarze pełnienia funkcji jednostki prowadzącej szkolenia w wysokości 70% wynagrodzenia, o którym mowa w art. 24 ust. 2 ustawy.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 

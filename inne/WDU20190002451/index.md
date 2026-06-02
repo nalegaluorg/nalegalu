@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 16 grudnia 2019 r. w sprawie sposobu przekazywania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane
+# Rozporządzenie Ministra Rozwojuz dnia 16 grudnia 2019 r. w sprawie sposobu przekazywania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-16 |
 | Data wydania | 2019-12-19 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2451/text.pdf) |
 
@@ -51,6 +50,5 @@ dostosowane do przechowywania w temperaturze 18–22°C przy wilgotności wzglę
 2.
 Informatyczne nośniki danych, o których mowa w ust. 1, powinny zapewniać możliwość wiernego odczytywania danych w urządzeniach produkowanych przez różnych producentów, właściwych dla danego typu nośnika.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 

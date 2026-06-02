@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 23 grudnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków udzielania regionalnej pomocy publicznej inwestycyjnej na cele z zakresu ochrony środowiska
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 23 grudnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków udzielania regionalnej pomocy publicznej inwestycyjnej na cele z zakresu ochrony środowiska Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-23 |
 | Data wydania | 2021-12-29 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002450) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2450/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 400a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochron
 § 1.
 W rozporządzeniu Ministra Środowiska z dnia 30 marca 2015 r. w sprawie szczegółowych warunków udzielania regionalnej pomocy publicznej inwestycyjnej na cele z zakresu ochrony środowiska (Dz. U. z 2019 r. poz. 1797 oraz z 2021 r. poz. 808) wprowadza się następujące zmiany:
 1)
-w § 2 pkt 1 otrzymuje brzmienie:
-„
+w § 2 pkt 1 otrzymuje brzmienie: „
 1)
-dużym projekcie inwestycyjnym – oznacza to inwestycję objętą pomocą, dla której samodzielnie lub łącznie z innymi inwestycjami objętymi pomocą regionalną, rozpoczętymi w okresie trzech następujących po sobie lat, realizowanymi przez tego samego lub innego przedsiębiorcę w ramach tej samej grupy kapitałowej oraz w tym samym regionie na poziomie 3 w rozumieniu przepisów rozporządzenia (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.), zsumowane koszty kwalifikujące się do objęcia pomocą przekraczają 50 mln euro;
-” ;
+dużym projekcie inwestycyjnym – oznacza to inwestycję objętą pomocą, dla której samodzielnie lub łącznie z innymi inwestycjami objętymi pomocą regionalną, rozpoczętymi w okresie trzech następujących po sobie lat, realizowanymi przez tego samego lub innego przedsiębiorcę w ramach tej samej grupy kapitałowej oraz w tym samym regionie na poziomie 3 w rozumieniu przepisów rozporządzenia (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1., zsumowane koszty kwalifikujące się do objęcia pomocą przekraczają 50 mln euro; ” ;
 2)
-w § 3 pkt 4 otrzymuje brzmienie:
-„
+w § 3 pkt 4 otrzymuje brzmienie: „
 4)
-dużych projektów inwestycyjnych, w przypadku których całkowita wartość zamierzonej pomocy zsumowanej z inną pomocą publiczną lub pomocą de minimis ze wszystkich źródeł przekracza wartość pomocy, obliczoną zgodnie ze wzorem: wartość pomocy = R × 75 mln euro gdzie symbol R oznacza maksymalną intensywność pomocy określoną w § 3 i § 5 rozporządzenia Rady Ministrów z dnia 14 grudnia 2021 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2022–2027 (Dz. U. poz. 2422);
-” ;
+dużych projektów inwestycyjnych, w przypadku których całkowita wartość zamierzonej pomocy zsumowanej z inną pomocą publiczną lub pomocą de minimis ze wszystkich źródeł przekracza wartość pomocy, obliczoną zgodnie ze wzorem: wartość pomocy = R × 75 mln euro gdzie symbol R oznacza maksymalną intensywność pomocy określoną w § 3 i § 5 rozporządzenia Rady Ministrów z dnia 14 grudnia 2021 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2022–2027 (Dz. U. poz. 2422); ” ;
 3)
 w § 4:
 a)
@@ -51,26 +46,19 @@ w ust. 2 w pkt 1 we wprowadzeniu do wyliczenia wyrazy „województwie mazowieck
 4)
 w § 8:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Intensywność pomocy, z wyjątkiem wsparcia udzielanego zgodnie z ust. 5, nie może przekraczać wielkości określonych w § 3 i § 5 rozporządzenia Rady Ministrów z dnia 14 grudnia 2021 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2022–2027.
-” ,
+Intensywność pomocy, z wyjątkiem wsparcia udzielanego zgodnie z ust. 5, nie może przekraczać wielkości określonych w § 3 i § 5 rozporządzenia Rady Ministrów z dnia 14 grudnia 2021 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2022–2027. ” ,
 b)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-W przypadku wsparcia dużego projektu inwestycyjnego maksymalną wartość pomocy oblicza się zgodnie ze wzorem: maksymalna wartość pomocy = R × (50 mln euro + 0,50 × B) gdzie poszczególne symbole oznaczają: R – maksymalną intensywność pomocy określoną w § 3 i § 5 rozporządzenia Rady Ministrów z dnia 14 grudnia 2021 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2022–2027, B – wielkość kosztów kwalifikujących się do objęcia pomocą w części przekraczającej 50 mln euro a nieprzekraczającej 100 mln euro.
-” ;
+W przypadku wsparcia dużego projektu inwestycyjnego maksymalną wartość pomocy oblicza się zgodnie ze wzorem: maksymalna wartość pomocy = R × (50 mln euro + 0,50 × B) gdzie poszczególne symbole oznaczają: R – maksymalną intensywność pomocy określoną w § 3 i § 5 rozporządzenia Rady Ministrów z dnia 14 grudnia 2021 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2022–2027, B – wielkość kosztów kwalifikujących się do objęcia pomocą w części przekraczającej 50 mln euro a nieprzekraczającej 100 mln euro. ” ;
 5)
-w § 9 dodaje się ust. 3 w brzmieniu:
-„
+w § 9 dodaje się ust. 3 w brzmieniu: „
 3.
-W przypadku gdy na te same koszty kwalifikujące się do objęcia pomocą zostało udzielone dofinansowanie przy wsparciu z Funduszu InvestEU objętym sekcją 16 rozdziału III rozporządzenia Komisji (UE) nr 651/2014, stosuje się zasady kumulacji określone w art. 8 ust. 3 lit. b akapit drugi i czwarty rozporządzenia Komisji (UE) nr 651/2014.
-” .
+W przypadku gdy na te same koszty kwalifikujące się do objęcia pomocą zostało udzielone dofinansowanie przy wsparciu z Funduszu InvestEU objętym sekcją 16 rozdziału III rozporządzenia Komisji (UE) nr 651/2014, stosuje się zasady kumulacji określone w art. 8 ust. 3 lit. b akapit drugi i czwarty rozporządzenia Komisji (UE) nr 651/2014. ” .
 § 2.
 Złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia wnioski o udzielenie regionalnej pomocy publicznej inwestycyjnej na cele z zakresu ochrony środowiska rozpatruje się zgodnie z przepisami rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1.
 

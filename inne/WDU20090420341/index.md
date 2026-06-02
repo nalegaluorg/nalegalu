@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 lutego 2009 r. o zmianie ustawy o działalności ubezpieczeniowej oraz niektórych innych ustaw
+# Ustawa z dnia 13 lutego 2009 r. o zmianie ustawy o działalności ubezpieczeniowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł oraz o przeciwdziałaniu finansowaniu terroryzmu, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych, ustawę z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym, ustawę z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych, ustawę z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-02-13 |
 | Data wydania | 2009-03-17 |
-| Wejście w życie | 2009-06-18 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090420341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/341/text.pdf) |
 
+Łączenie się zakładów ubezpieczeń, przeniesienie umów ubezpieczenia, przeniesienie umów reasekuracji”;
 37)
-art. 178 otrzymuje brzmienie:
-„
+art. 178 otrzymuje brzmienie: „
+Działalność reasekuracyjna wykonywana przez zakłady reasekuracji
+Zasady wykonywania działalności reasekuracyjnej
+Zakład reasekuracji wykonujący działalność w formie spółki akcyjnej
 Do zakładów reasekuracji stosuje się odpowiednio przepisy art. 31, art. 32 ust. 1, art. 33 ust. 2–4, art. 34, art. 35 ust. 1–2b i ust. 5–10, art. 37 ust. 2 i 3 oraz art. 37c.
 Zmiany w statucie wymagają, przed zarejestrowaniem, zatwierdzenia przez organ nadzoru w zakresie:
 1)
@@ -91,6 +93,7 @@ Na wniosek akcjonariusza organ nadzoru uchyla decyzję wydaną na podstawie ust.
 W przypadku naruszeń prawa lub innych nieprawidłowości zagrażających wypłacalności zakładu reasekuracji wchodzącego w skład ubezpieczeniowej grupy kapitałowej, w tym na wniosek organu nadzoru państwa członkowskiego Unii Europejskiej, w którym siedzibę ma zakład reasekuracji, organ nadzoru może podjąć w stosunku do dominującego podmiotu ubezpieczeniowego z siedzibą na terytorium Rzeczypospolitej Polskiej środki określone w art. 209 lub art. 212 ust. 1 pkt 1 i 2, przy czym górna granica wysokości kary pieniężnej nakładanej na dominujący podmiot ubezpieczeniowy nie może przekroczyć 10 000 000 zł.
 2.
 W przypadkach, o których mowa w ust. 1, organ nadzoru może, w drodze decyzji, zakazać wykonywania praw głosu z akcji lub udziałów posiadanych w zakładzie reasekuracji przez dominujący podmiot ubezpieczeniowy.
+Towarzystwo reasekuracji wzajemnej
 Do towarzystw reasekuracji wzajemnej stosuje się odpowiednio przepisy art. 39, art. 40 ust. 1 i 2, art. 42, art. 45 ust. 1, 2 i 4, art. 46 ust. 2 oraz art. 48–91.
 Zakład reasekuracji, który przyjmuje ryzyko cedowane przez swoich członków na zasadzie wzajemności, jest towarzystwem reasekuracji wzajemnej.
 Zmiany w statucie towarzystwa reasekuracji wzajemnej wymagają przed zarejestrowaniem zatwierdzenia przez organ nadzoru w zakresie:
@@ -130,6 +133,7 @@ zasady dokonywania ogłoszeń towarzystwa, w tym oznaczenie pisma do ogłoszeń.
 Jeżeli statut towarzystwa reasekuracji wzajemnej nie stanowi inaczej, uzyskanie członkostwa musi być związane z zawarciem umowy reasekuracji, a jego utrata – z wygaśnięciem stosunku reasekuracji.
 Kapitał zakładowy towarzystwa reasekuracji wzajemnej nie może być niższy niż wysokość minimalnego kapitału gwarancyjnego wymaganego dla rodzajów reasekuracji, w zakresie działalności krajowego zakładu reasekuracji, o którym mowa w art. 223y.
 Do nabywania i zbywania udziałów towarzystwa reasekuracji wzajemnej stosuje się odpowiednio przepisy art. 35 ust. 1–2b i ust. 5–10 oraz art. 223i-223k.
+Warunki wykonywania działalności reasekuracyjnej przez krajowe zakłady reasekuracji
 Do zakładów reasekuracji stosuje się odpowiednio przepisy art. 92 ust. 3 pkt 1, 3–20 i 23 oraz ust. 4–5, art. 93a, art. 98 ust. 1, art. 100 ust. 1, art. 101 ust. 5–8, art. 102 pkt 4–7, z tym że użyte w art. 98 ust. 1 pkt 4 określenie „interesy ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia” oznacza „interesy ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji”.
 1.
 Zezwolenie na wykonywanie działalności reasekuracyjnej dla krajowego zakładu reasekuracji wydaje, w drodze decyzji, po rozpatrzeniu wniosku założycieli zakładu reasekuracji, organ nadzoru.
@@ -225,8 +229,7 @@ Zezwolenie na wykonywanie działalności reasekuracyjnej nie może być wydane, 
 1)
 bliskie powiązania między zakładem reasekuracji i inną osobą fizyczną lub prawną lub
 2)
-przepisy obowiązujące w państwie trzecim, a także trudności w stosowaniu tych przepisów mające zastosowanie do osoby fizycznej lub prawnej, z którą zakład reasekuracji posiada bliskie powiązania
-stanowiłyby dla organu nadzoru przeszkodę w sprawowaniu nadzoru, o którym mowa w rozdziale 11.
+przepisy obowiązujące w państwie trzecim, a także trudności w stosowaniu tych przepisów mające zastosowanie do osoby fizycznej lub prawnej, z którą zakład reasekuracji posiada bliskie powiązania – stanowiłyby dla organu nadzoru przeszkodę w sprawowaniu nadzoru, o którym mowa w rozdziale 11.
 W przypadkach, o których mowa w art. 35, przepisy art. 98 ust. 1 pkt 3, 5 i 6 oraz art. 223zb stosuje się odpowiednio do akcjonariuszy albo udziałowców zakładu reasekuracji przy wtórnym nabyciu akcji albo udziałów.
 1.
 Za dzień rozpoczęcia wykonywania działalności reasekuracyjnej uważa się dzień zawarcia pierwszej umowy reasekuracji.
@@ -268,6 +271,7 @@ wysokość wynagrodzenia za zarząd majątkiem.
 Decyzja, o której mowa w ust. 1 i 3, jest natychmiast wykonalna.
 6.
 Organ nadzoru przesyła do właściwego sądu rejestrowego odpis ostatecznej decyzji, o której mowa w ust. 1 i 2.
+Wykonywanie działalności reasekuracyjnej na terytorium rzeczypospolitej polskiej przez zagraniczne zakłady reasekuracji mające siedzibę w państwach niebędących państwami członkowskimi Unii Europejskiej
 Do głównych oddziałów zagranicznych zakładów reasekuracji stosuje się odpowiednio przepisy art. 103, art. 105 ust. 2, 3, 4 pkt 1, 3 i 4 oraz ust. 5 i 6, art. 106 ust. 1–3 i ust. 4b-10, art. 107 ust. 3 pkt 1, 3, 5, 6, 8 i 11–16 oraz ust. 4, art. 110–113, art. 114 ust. 1, art. 115, art. 117, art. 119 ust. 1, art. 121, art. 122, art. 123 ust. 1, ust. 2 pkt 4–7 i ust. 3, art. 124–126, z tym że użyte w:
 1)
 art. 113 ust. 1 i 5 oraz art. 115 określenie „umowy ubezpieczenia” oznacza „umowy reasekuracji”;
@@ -352,6 +356,7 @@ Zagraniczny zakład reasekuracji jest obowiązany, w terminie 7 dni, zawiadomić
 Dyrektor głównego oddziału ma obowiązek powiadomić organ nadzoru o zaistnieniu okoliczności, o których mowa w art. 119 ust. 1 i art. 223zl, w terminie 3 dni od dnia powzięcia informacji o zaistnieniu tych okoliczności.
 2.
 Dyrektor głównego oddziału, który nie powiadomi organu nadzoru o okolicznościach, o których mowa w art. 119 ust. 1 i art. 223zl, odpowiada całym swoim majątkiem solidarnie z zagranicznym zakładem reasekuracji za szkodę wyrządzoną z tego tytułu wierzycielom.
+Swoboda świadczenia usług reasekuracyjnych
 Do zagranicznego zakładu reasekuracji z państwa członkowskiego Unii Europejskiej wykonującego działalność reasekuracyjną na terytorium Rzeczypospolitej Polskiej stosuje się odpowiednio przepisy art. 128, art. 129 ust. 1 i 2 oraz art. 139.
 Krajowy zakład reasekuracji, który uzyskał zezwolenie, o którym mowa w art. 223y, może wykonywać działalność reasekuracyjną na terytorium państwa członkowskiego Unii Europejskiej w ramach swobody świadczenia usług lub przez oddział.
 Jeżeli organ nadzoru poweźmie wątpliwość, czy działalność zagranicznego zakładu reasekuracji działającego w ramach swobody świadczenia usług nie narusza przepisów dotyczących gospodarki finansowej obowiązujących w państwie członkowskim Unii Europejskiej, w którym zakład ten ma siedzibę, powiadamia o tym właściwe organy tego państwa członkowskiego.
@@ -371,6 +376,7 @@ aktywa na pokrycie rezerw techniczno-ubezpieczeniowych.
 W przypadku przeniesienia portfela reasekuracji przez zagraniczny zakład reasekuracji mający siedzibę w państwie członkowskim Unii Europejskiej na rzecz krajowego zakładu reasekuracji lub krajowego zakładu ubezpieczeń, organ nadzoru przekazuje właściwemu organowi państwa członkowskiego Unii Europejskiej, w którym zagraniczny zakład reasekuracji ma siedzibę, informację, czy krajowy zakład reasekuracji lub krajowy zakład ubezpieczeń po przeniesieniu portfela będzie posiadać środki własne w wysokości marginesu wypłacalności oraz aktywa na pokrycie rezerw techniczno-ubezpieczeniowych.
 2.
 Informacje, o których mowa w ust. 1, organ nadzoru przekazuje najpóźniej w terminie 3 miesięcy od dnia wystąpienia o przekazanie tych informacji.
+Gospodarka finansowa zakładów reasekuracji
 Do zakładów reasekuracji stosuje się odpowiednio przepisy art. 146, art. 146a ust. 3, art. 149, art. 150 ust. 2 i 3, art. 151 ust. 1 i 2, art. 154 ust. 1 i 7, z tym że użyte w art. 151 ust. 1 określenie „umów ubezpieczenia” oznacza „umowy reasekuracji”.
 1.
 Jeżeli zakład reasekuracji wykonuje działalność reasekuracyjną w zakresie reasekuracji, o którym mowa w art. 223y pkt 3:
@@ -515,6 +521,7 @@ Aktuariusz, w terminie 30 dni od dnia poinformowania zarządu zakładu reasekura
 Przepisy art. 159 ust. 4–7 stosuje się odpowiednio.
 5.
 Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, zakres informacji, które muszą być zawarte w rocznym raporcie o stanie portfela, o którym mowa w ust. 1 pkt 4, uwzględniając konieczność zapewnienia organowi nadzoru pełnej informacji o stanie portfela zakładu reasekuracji.
+Sprawozdawczość zakładu reasekuracji
 Do zakładów reasekuracji stosuje się odpowiednio przepisy art. 168 oraz art. 170–172.
 1.
 Zakład reasekuracji przedstawia organowi nadzoru roczne sprawozdanie finansowe, sporządzone zgodnie z przepisami o rachunkowości, w terminie 6 miesięcy od ostatniego dnia roku obrotowego.
@@ -547,6 +554,7 @@ porozumień co do podziału kosztów.
 Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres, formę i zasady sporządzania sprawozdań, o których mowa w ust. 1, uwzględniając wysokość i strukturę kapitału zakładowego, wysokość rezerw techniczno-ubezpieczeniowych, prawidłowość polityki lokacyjnej, wysokość i pokrycie środkami własnymi marginesu wypłacalności oraz informacje mające wpływ na sytuację finansową zakładu reasekuracji.
 3.
 Organ nadzoru, w przypadku stwierdzenia, że transakcje, o których mowa w ust. 1, zagrażają bądź mogą zagrozić wypłacalności zakładu reasekuracji, może podjąć środki określone w ustawie w celu przywrócenia prawidłowych stosunków finansowych.
+Łączenie się zakładów reasekuracji, przeniesienie portfela reasekuracji
 Do zakładów reasekuracji stosuje się odpowiednio przepisy art. 176, art. 177, art. 178 pkt 2, art. 179 ust. 1, ust. 2 pkt 2 i ust. 3, art. 180 ust. 1 pkt 2, ust. 2 i 3, z tym że użyte w:
 1)
 art. 177 określenie „towarzystwo ubezpieczeń wzajemnych” oznacza „towarzystwo reasekuracji wzajemnej”;
@@ -596,6 +604,7 @@ interesy ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umó
 Wraz z przeniesieniem portfela reasekuracji następuje przeniesienie aktywów zakładu reasekuracji przekazującego do zakładu reasekuracji lub zakładu ubezpieczeń przejmującego, w wysokości rezerw techniczno-ubezpieczeniowych ustalonej dla przenoszonego portfela reasekuracji.
 2.
 W przypadku uzasadnionym ochroną interesów ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji, organ nadzoru może, na wniosek zainteresowanego zakładu reasekuracji lub zakładu ubezpieczeń, określić wartość aktywów przenoszonych wraz z portfelem reasekuracji lub wyrazić zgodę na przeniesienie portfela reasekuracji bez przekazania środków finansowych.
+Postępowanie naprawcze i likwidacja zakładów reasekuracji
 Do zakładów reasekuracji stosuje się odpowiednio przepisy art. 187 ust. 1–4, 6–8, 8b, 8c i 9, art. 188 ust. 1–6, 8 i 9, art. 189, art. 190, art. 191 pkt 4–7, art. 192–195, art. 197, art. 198, art. 199 ust. 1 pkt 2 i ust. 2, z tym że użyte w:
 1)
 art. 187 ust. 7 i 8, art. 189 ust. 2 i 10 oraz art. 192 ust. 3 określenie „interesy ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia” oznacza „interesy ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji”;
@@ -607,12 +616,12 @@ Program naprawczy, o którym mowa w art. 187 ust. 8, powinien zawierać co najmn
 1)
 o których mowa w art. 223x ust. 2,
 2)
-dotyczące programu retrocesji określającego formę i zakres retrocesji oraz retrocesjonariuszy
-sporządzone na okres kolejnych 3 lat obrotowych działalności zakładu reasekuracji.
+dotyczące programu retrocesji określającego formę i zakres retrocesji oraz retrocesjonariuszy – sporządzone na okres kolejnych 3 lat obrotowych działalności zakładu reasekuracji.
 Funkcję kuratora może pełnić osoba fizyczna legitymująca się co najmniej 10-letnim doświadczeniem zawodowym w zakresie organizacji i zasad działalności zakładu reasekuracji lub zakładu ubezpieczeń wykonującego również działalność reasekuracyjną. Kuratorem może być również osoba prawna, w której co najmniej połowa członków organu zarządzającego spełnia warunek określony w zdaniu poprzedzającym.
 Informacja o likwidacji zakładu reasekuracji podlega wpisowi do właściwych rejestrów państw członkowskich Unii Europejskiej, w których zakład reasekuracji wykonuje działalność, zgodnie z przepisami rozdziału 6.
 W przypadku likwidacji zakładu reasekuracji zobowiązania wynikające z umów reasekuracji zawartych przez oddział zakładu lub w ramach swobody świadczenia usług są wypełniane w ten sam sposób, jak zobowiązania wynikające z innych umów reasekuracji zakładu.
 Do likwidacji towarzystw reasekuracji wzajemnej stosuje się odpowiednio przepisy Kodeksu spółek handlowych.
+Zasady sprawowania nadzoru ubezpieczeniowego
 Do zakładów reasekuracji stosuje się odpowiednio przepisy art. 205, art. 206, art. 207 ust. 2, art. 208, art. 208b-209, art. 211–213 oraz art. 214 ust. 1, z tym że użyte w:
 1)
 art. 208b ust. 1 i art. 209 ust. 1 pkt 3 określenie „interesy ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia” oznacza „interesy cedentów oraz ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji”;
@@ -640,15 +649,13 @@ Organ nadzoru może przeprowadzić kontrolę podmiotów, o których mowa w art. 
 2.
 Do kontroli przeprowadzanej na podstawie ust. 1 stosuje się odpowiednio przepisy art. 208 ust. 3 i 4 oraz art. 208b-208h.
 3.
-W przypadku gdy podmiot, o którym mowa w ust. 1, utrudnia lub uniemożliwia przeprowadzenie kontroli, organ nadzoru może podjąć w stosunku do takiego podmiotu środki określone w art. 212 ust. 1, przy czym górna granica wysokości kary pieniężnej nakładanej na ten podmiot nie może przekroczyć 10 000 000 zł.
-” ,
+W przypadku gdy podmiot, o którym mowa w ust. 1, utrudnia lub uniemożliwia przeprowadzenie kontroli, organ nadzoru może podjąć w stosunku do takiego podmiotu środki określone w art. 212 ust. 1, przy czym górna granica wysokości kary pieniężnej nakładanej na ten podmiot nie może przekroczyć 10 000 000 zł. ” ,
 b)
 wyrazy „Rozdział 15” zastępuje się wyrazami „Dział IV”;
 50)
-po art. 224 dodaje się art. 224a w brzmieniu:
-„
+po art. 224 dodaje się art. 224a w brzmieniu: „
 
-**Art. 1.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1571 oraz z 2009 r. Nr 18, poz. 97.) wprowadza się następujące zmiany:
 
 - **1)** wyrazy „Rozdział 1” zastępuje się wyrazami „Dział I”;
 - **2)** w art. 1 ust. 1 otrzymuje brzmienie: „
@@ -663,13 +670,13 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 - **1a)** cedent – zakład ubezpieczeń lub zakład reasekuracji, który w związku z wykonywaną działalnością ubezpieczeniową lub reasekuracyjną ceduje ryzyko na zakład reasekuracji lub zakład ubezpieczeń wykonujący działalność reasekuracyjną; ” , pkt 3 otrzymuje brzmienie: „
     - **b)**
 
-- **3)** główny oddział – oddział, w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.), zakładu ubezpieczeń mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej albo zakładu reasekuracji mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej; ” , pkt 5 otrzymuje brzmienie: „
+- **3)** główny oddział – oddział, w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056, Nr 216, poz. 1367 oraz z 2009 r. Nr 3, poz. 11 i Nr 18, poz. 97.), zakładu ubezpieczeń mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej albo zakładu reasekuracji mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej; ” , pkt 5 otrzymuje brzmienie: „
     - **c)**
 
 - **5)** krajowy zakład ubezpieczeń – przedsiębiorcę, w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, z siedzibą na terytorium Rzeczypospolitej Polskiej, który uzyskał zezwolenie na wykonywanie działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej; ” , pkt 5b i 5c otrzymują brzmienie: „
     - **d)**
 
-- **5b)** mieszany dominujący podmiot ubezpieczeniowy – podmiot dominujący, który nie jest: zakładem ubezpieczeń, zakładem reasekuracji, dominującym podmiotem ubezpieczeniowym, dominującym podmiotem nieregulowanym w rozumieniu ustawy o nadzorze uzupełniającym jeżeli przynajmniej jednym z jego podmiotów zależnych jest zakład ubezpieczeń lub zakład reasekuracji; za mieszany dominujący podmiot ubezpieczeniowy nie uważa się Skarbu Państwa;
+- **5b)** mieszany dominujący podmiot ubezpieczeniowy – podmiot dominujący, który nie jest: zakładem ubezpieczeń, zakładem reasekuracji, dominującym podmiotem ubezpieczeniowym, dominującym podmiotem nieregulowanym w rozumieniu ustawy o nadzorze uzupełniającym – jeżeli przynajmniej jednym z jego podmiotów zależnych jest zakład ubezpieczeń lub zakład reasekuracji; za mieszany dominujący podmiot ubezpieczeniowy nie uważa się Skarbu Państwa;
     - **a)**
     - **b)**
     - **c)**
@@ -726,10 +733,21 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 
 2b. Czynnościami bezpośrednio związanymi z działalnością reasekuracyjną są w szczególności czynności w zakresie doradztwa statystycznego, doradztwa aktuarialnego, analizy ryzyka, badań na rzecz klientów, lokowania środków zakładu reasekuracji, a także czynności zapobiegania powstawaniu lub zmniejszeniu skutków wypadków ubezpieczeniowych lub finansowanie tych działań z funduszu prewencyjnego.
 
-2c. Zakład ubezpieczeń działający jako zakład ubezpieczeń i reasekuracji może wykonywać również działalność, o której mowa w ust. 1a i 2b. ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) zawieranie umów ubezpieczenia, umów gwarancji ubezpieczeniowych lub zlecanie ich zawierania uprawnionym pośrednikom ubezpieczeniowym w rozumieniu ustawy z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. Nr 124, poz. 1154, z późn. zm.), a także wykonywanie tych umów; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) zawieranie umów reasekuracji lub zlecanie ich zawierania brokerom reasekuracyjnym w rozumieniu ustawy z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym, a także wykonywanie tych umów, w zakresie cedowania ryzyka z umów ubezpieczenia lub umów gwarancji ubezpieczeniowych (reasekuracja bierna); ” , – pkt 2–4 otrzymują brzmienie: „ 2) składanie oświadczeń woli w sprawach roszczeń o odszkodowania lub inne świadczenia należne z tytułu umów, o których mowa w pkt 1 i 1a; 3) ustalanie składek i prowizji należnych z tytułu zawieranych umów, o których mowa w pkt 1 i 1a; 4) ustanawianie w drodze czynności cywilnoprawnych zabezpieczeń rzeczowych lub osobistych, jeżeli są one bezpośrednio związane z zawieraniem umów, o których mowa w pkt 1 i 1a. ” , w ust. 4: – pkt 2 otrzymuje brzmienie: „ 2) wypłacanie odszkodowań i innych świadczeń należnych z tytułu umów, o których mowa w ust. 3 pkt 1 i 1a; ” , – pkt 5 otrzymuje brzmienie: „ 5) prowadzenie postępowań regresowych oraz postępowań windykacyjnych związanych z wykonywaniem: a) umów ubezpieczenia i umów gwarancji ubezpieczeniowych, b) umów reasekuracji w zakresie cedowania ryzyka z umów ubezpieczenia i umów gwarancji ubezpieczeniowych; ” ;
+2c. Zakład ubezpieczeń działający jako zakład ubezpieczeń i reasekuracji może wykonywać również działalność, o której mowa w ust. 1a i 2b. ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
 
 - **d)**
-- **e)**
+- **1)** zawieranie umów ubezpieczenia, umów gwarancji ubezpieczeniowych lub zlecanie ich zawierania uprawnionym pośrednikom ubezpieczeniowym w rozumieniu ustawy z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. Nr 124, poz. 1154, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 48, poz. 447, Nr 167, poz. 1396 i Nr 183, poz. 1538, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 18, poz. 97.), a także wykonywanie tych umów; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** zawieranie umów reasekuracji lub zlecanie ich zawierania brokerom reasekuracyjnym w rozumieniu ustawy z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym, a także wykonywanie tych umów, w zakresie cedowania ryzyka z umów ubezpieczenia lub umów gwarancji ubezpieczeniowych (reasekuracja bierna); ” , pkt 2–4 otrzymują brzmienie: „
+- **2)** składanie oświadczeń woli w sprawach roszczeń o odszkodowania lub inne świadczenia należne z tytułu umów, o których mowa w pkt 1 i 1a;
+- **3)** ustalanie składek i prowizji należnych z tytułu zawieranych umów, o których mowa w pkt 1 i 1a;
+- **4)** ustanawianie w drodze czynności cywilnoprawnych zabezpieczeń rzeczowych lub osobistych, jeżeli są one bezpośrednio związane z zawieraniem umów, o których mowa w pkt 1 i 1a. ” , w ust. 4: pkt 2 otrzymuje brzmienie: „
+    - **e)**
+
+- **2)** wypłacanie odszkodowań i innych świadczeń należnych z tytułu umów, o których mowa w ust. 3 pkt 1 i 1a; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** prowadzenie postępowań regresowych oraz postępowań windykacyjnych związanych z wykonywaniem: umów ubezpieczenia i umów gwarancji ubezpieczeniowych, umów reasekuracji w zakresie cedowania ryzyka z umów ubezpieczenia i umów gwarancji ubezpieczeniowych; ” ;
+    - **a)**
+    - **b)**
+
 - **5)** po art. 4: dodaje się wyrazy „Dział II Działalność ubezpieczeniowa”, wyrazy „Rozdział 2” zastępuje się wyrazami „Rozdział 1”;
     - **a)**
     - **b)**
@@ -759,7 +777,7 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 
 - **1)** zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej lub firmy inwestycyjnej, które uzyskały zezwolenia na wykonywanie działalności na terytorium Rzeczypospolitej Polskiej lub w innym państwie członkowskim Unii Europejskiej lub
 - **2)** podmiotu dominującego zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej lub firmy inwestycyjnej, które uzyskały zezwolenia na wykonywanie działalności na terytorium Rzeczypospolitej Polskiej lub w innym państwie członkowskim Unii Europejskiej, lub
-- **3)** osoby fizycznej lub prawnej posiadającej znaczący udział kapitałowy w instytucji kredytowej lub firmie inwestycyjnej, które uzyskały zezwolenia na wykonywanie działalności na terytorium Rzeczypospolitej Polskiej lub w innym państwie członkowskim Unii Europejskiej zawiadomienie, o którym mowa w ust. 2, zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności podmioty, w stosunku do których krajowy zakład ubezpieczeń stałby się podmiotem zależnym lub podmiotem, w którym posiadałyby one znaczący udział kapitałowy.
+- **3)** osoby fizycznej lub prawnej posiadającej znaczący udział kapitałowy w instytucji kredytowej lub firmie inwestycyjnej, które uzyskały zezwolenia na wykonywanie działalności na terytorium Rzeczypospolitej Polskiej lub w innym państwie członkowskim Unii Europejskiej – zawiadomienie, o którym mowa w ust. 2, zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności podmioty, w stosunku do których krajowy zakład ubezpieczeń stałby się podmiotem zależnym lub podmiotem, w którym posiadałyby one znaczący udział kapitałowy.
 
 2b. W przypadku, o którym mowa w ust. 2a, organ nadzoru występuje na piśmie do właściwego organu nadzoru państwa członkowskiego Unii Europejskiej o przekazanie informacji dotyczących nadzorowanego przez ten organ zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej, założycieli, akcjonariuszy lub udziałowców tych podmiotów, podmiotów dominujących w stosunku do tych podmiotów lub osób fizycznych lub prawnych posiadających znaczący udział kapitałowy w tych podmiotach celem ustalenia, czy zachodzą przesłanki, o których mowa w ust. 4. ” ;
 
@@ -777,7 +795,7 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 - **15)** poświadczenie odpowiedniego wykształcenia i doświadczenia zawodowego osób przewidzianych na członków zarządu i rady nadzorczej, w tym świadectwa pracy i odpisy dyplomów; ” , pkt 23 otrzymuje brzmienie: „
     - **d)**
 
-- **23)** oświadczenie założycieli, czy krajowy zakład ubezpieczeń będzie podmiotem zależnym lub podmiotem ze znaczącym udziałem kapitałowym: zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej lub firmy inwestycyjnej, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w państwie członkowskim Unii Europejskiej, podmiotu dominującego w stosunku do zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej lub firmy inwestycyjnej, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w państwie członkowskim Unii Europejskiej, osoby fizycznej lub prawnej, posiadającej znaczący udział kapitałowy w zakładzie ubezpieczeń, zakładzie reasekuracji, instytucji kredytowej lub firmie inwestycyjnej, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w państwie członkowskim Unii Europejskiej z informacją o nazwach i adresach siedziby podmiotów, o których mowa w lit. a-c ” ;
+- **23)** oświadczenie założycieli, czy krajowy zakład ubezpieczeń będzie podmiotem zależnym lub podmiotem ze znaczącym udziałem kapitałowym: zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej lub firmy inwestycyjnej, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w państwie członkowskim Unii Europejskiej, podmiotu dominującego w stosunku do zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej lub firmy inwestycyjnej, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w państwie członkowskim Unii Europejskiej, osoby fizycznej lub prawnej, posiadającej znaczący udział kapitałowy w zakładzie ubezpieczeń, zakładzie reasekuracji, instytucji kredytowej lub firmie inwestycyjnej, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w państwie członkowskim Unii Europejskiej – z informacją o nazwach i adresach siedziby podmiotów, o których mowa w lit. a-c ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -890,7 +908,7 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 - **5)** reasekuracji biernej oraz działalności reasekuracyjnej; ” ;
 - **36)** po art. 175 oznaczenie i tytuł rozdziału 11 otrzymują brzmienie: „
 
-#### Rozdział 10 Łączenie się zakładów ubezpieczeń, przeniesienie umów ubezpieczenia, przeniesienie umów reasekuracji”;
+#### Rozdział 10
 
 **Art. 178.** Na zakład ubezpieczeń przejmujący lub na zakład ubezpieczeń nowo zawiązany przechodzą, z dniem połączenia:
 
@@ -979,9 +997,9 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 - **49)** po art. 223: dodaje się dział III w brzmieniu: „
     - **a)**
 
-### Dział III Działalność reasekuracyjna wykonywana przez zakłady reasekuracji
+### Dział III
 
-#### Rozdział 1 Zasady wykonywania działalności reasekuracyjnej
+#### Rozdział 1
 
 **Art. 223a.** Do zakładów reasekuracji stosuje się odpowiednio przepisy art. 6 ust. 1, art. 7, art. 11, art. 27 ust. 1–2 i ust. 3b-10, art. 28 oraz art. 30, z tym że użyte w art. 27 ust. 1 określenie „towarzystwo ubezpieczeń wzajemnych” oznacza „towarzystwo reasekuracji wzajemnej”. 1. Zakład reasekuracji może wykonywać działalność reasekuracyjną wyłącznie w formie spółki akcyjnej albo towarzystwa reasekuracji wzajemnej, z zastrzeżeniem ust. 2. 2. Zakład reasekuracji może wykonywać działalność reasekuracyjną również w formie spółki europejskiej określonej w rozporządzeniu Rady nr 2157/2001/WE z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) (Dz. Urz. WE L 294 z 10.11.2001). 1. Zakład reasekuracji wykonujący działalność w formie spółki akcyjnej ma obowiązek i wyłączne prawo używania w nazwie lub firmie wyrazów „towarzystwo reasekuracji”, „towarzystwo reasekuracyjne” lub „zakład reasekuracji”. Dopuszczalne jest używanie w obrocie odpowiednio skrótów „TR” lub „ZR”. 2. Zakład reasekuracji wykonujący działalność w formie towarzystwa reasekuracji wzajemnej ma obowiązek i wyłączne prawo używania w nazwie wyrazów „towarzystwo reasekuracji wzajemnej”. Dopuszczalne jest używanie w obrocie skrótu „TRW”. 1. Składkę reasekuracyjną ustala się w wysokości, która powinna co najmniej zapewnić wykonanie wszystkich zobowiązań z tytułu zawartych umów reasekuracji i pokrycie kosztów wykonywania działalności reasekuracyjnej przez zakład reasekuracji. 2. Zakład reasekuracji jest zobowiązany gromadzić odpowiednie dane statystyczne w celu ustalania na ich podstawie składek reasekuracyjnych i rezerw techniczno-ubezpieczeniowych. Członkiem organu zarządzającego zakładu reasekuracji nie może być osoba będąca jednocześnie członkiem organu zarządzającego:
 
@@ -992,25 +1010,25 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 - **5)** banku;
 - **6)** zakładu ubezpieczeń.
 
-#### Rozdział 2 Zakład reasekuracji wykonujący działalność w formie spółki akcyjnej
+#### Rozdział 2
 
-#### Rozdział 3 Towarzystwo reasekuracji wzajemnej
+#### Rozdział 3
 
-#### Rozdział 4 Warunki wykonywania działalności reasekuracyjnej przez krajowe zakłady reasekuracji
+#### Rozdział 4
 
-#### Rozdział 5 Wykonywanie działalności reasekuracyjnej na terytorium rzeczypospolitej polskiej przez zagraniczne zakłady reasekuracji mające siedzibę w państwach niebędących państwami członkowskimi Unii Europejskiej
+#### Rozdział 5
 
-#### Rozdział 6 Swoboda świadczenia usług reasekuracyjnych
+#### Rozdział 6
 
-#### Rozdział 7 Gospodarka finansowa zakładów reasekuracji
+#### Rozdział 7
 
-#### Rozdział 8 Sprawozdawczość zakładu reasekuracji
+#### Rozdział 8
 
-#### Rozdział 9 Łączenie się zakładów reasekuracji, przeniesienie portfela reasekuracji
+#### Rozdział 9
 
-#### Rozdział 10 Postępowanie naprawcze i likwidacja zakładów reasekuracji
+#### Rozdział 10
 
-#### Rozdział 11 Zasady sprawowania nadzoru ubezpieczeniowego
+#### Rozdział 11
 
 **Art. 224a.**
 
@@ -1054,17 +1072,17 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 - **59)** po art. 236 wyrazy „Rozdział 17” zastępuje się wyrazami „Dział VI”;
 - **60)** użyte w art. 104 ust. 3, art. 105 ust. 1, art. 109 ust. 8 oraz art. 196 w różnych przypadkach wyrazy „rozdział 7” zastępuje się użytymi w odpowiednim przypadku wyrazami „rozdział 6”.
 
-**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) w art. 829 § 2 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287 oraz z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506.) w art. 829 § 2 otrzymuje brzmienie: „
 
 § 2. W umowie ubezpieczenia na życie zawartej na cudzy rachunek, odpowiedzialność ubezpieczyciela rozpoczyna się nie wcześniej niż następnego dnia po tym, gdy ubezpieczony oświadczył stronie wskazanej w umowie, że chce skorzystać z zastrzeżenia na jego rzecz ochrony ubezpieczeniowej. Oświadczenie powinno obejmować także wysokość sumy ubezpieczenia. Zmiana umowy na niekorzyść ubezpieczonego lub osoby uprawnionej do otrzymania sumy ubezpieczenia w razie śmierci ubezpieczonego wymaga zgody tego ubezpieczonego. ” .
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533, z 2005 r. Nr 25, poz. 202, Nr 57, poz. 491, Nr 78, poz. 684, Nr 143, poz. 1199, Nr 155, poz. 1298, Nr 169, poz. 1419 i 1420, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538, z 2006 r. Nr 94, poz. 651, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353, Nr 217, poz. 1589 i Nr 251, poz. 1847, z 2007 r. Nr 165, poz. 1169, Nr 171, poz. 1208 i Nr 176, poz. 1238, z 2008 r. Nr 141, poz. 888 i Nr 209, poz. 1316 oraz z 2009 r. Nr 3, poz. 11 i Nr 19, poz. 100.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4a w pkt 12 kropkę zastępuje się przecinkiem i dodaje się pkt 13 w brzmieniu: „
 - **13)** ubezpieczycielu – rozumie się przez to zakład ubezpieczeń albo zakład reasekuracji prowadzący działalność na podstawie przepisów o działalności ubezpieczeniowej i reasekuracyjnej. ” ;
 - **2)** w art. 15 w ust. 1b uchyla się pkt 3.
 
-**Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540 oraz z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900, Nr 171, poz. 1056, Nr 214, poz. 1343 i Nr 223, poz. 1466.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** jednostek organizacyjnych działających na podstawie Prawa bankowego, przepisów o obrocie papierami wartościowymi, przepisów o funduszach inwestycyjnych, przepisów o działalności ubezpieczeniowej i reasekuracyjnej lub przepisów o organizacji i funkcjonowaniu funduszy emerytalnych, bez względu na wielkość przychodów, ” ;
@@ -1207,7 +1225,7 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 
 2. W przypadku oddziałów przedsiębiorców zagranicznych, głównych oddziałów zagranicznych zakładów ubezpieczeń oraz głównych oddziałów zagranicznych zakładów reasekuracji działających na terytorium Rzeczypospolitej Polskiej dane, o których mowa w ust. 1, zamieszcza się co do oddziałów i odpowiednio przedsiębiorców zagranicznych, zagranicznych zakładów ubezpieczeń lub zagranicznych zakładów reasekuracji. ” .
 
-**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1 pkt 10 otrzymuje brzmienie: „
 - **10)** holding finansowy – grupę podmiotów, w której pierwotnym podmiotem dominującym jest instytucja finansowa, która nie jest dominującym podmiotem nieregulowanym w rozumieniu art. 3 pkt 5 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 42, poz. 341), zwanej dalej „ustawą o nadzorze uzupełniającym”, a w skład grupy wchodzą wyłącznie lub w większości banki, instytucje kredytowe lub instytucje finansowe, przy czym przynajmniej jednym podmiotem zależnym jest bank krajowy, bank zagraniczny lub instytucja kredytowa, ” ;
@@ -1234,20 +1252,20 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 
 - **2)** kontrolowany przez te same osoby fizyczne lub prawne, które kontrolują instytucję kredytową, zakład ubezpieczeń, zakład reasekuracji lub firmę inwestycyjną, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w państwie członkowskim. ” .
 
-**Art. 7.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.) w art. 4 w § 1 pkt 7 otrzymuje brzmienie: „
+**Art. 7.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547 oraz z 2009 r. Nr 13, poz. 69.) w art. 4 w § 1 pkt 7 otrzymuje brzmienie: „
 
 - **7)** instytucja finansowa – bank, fundusz inwestycyjny, towarzystwo funduszy inwestycyjnych lub powierniczych, narodowy fundusz inwestycyjny, zakład ubezpieczeń, zakład reasekuracji, fundusz powierniczy, towarzystwo emerytalne, fundusz emerytalny lub dom maklerski, mające siedzibę w Rzeczypospolitej Polskiej albo w państwie należącym do Organizacji Współpracy Gospodarczej i Rozwoju (OECD), ” .
 
-**Art. 8.** W ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł oraz o przeciwdziałaniu finansowaniu terroryzmu (Dz. U. z 2003 r. Nr 153, poz. 1505, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł oraz o przeciwdziałaniu finansowaniu terroryzmu (Dz. U. z 2003 r. Nr 153, poz. 1505, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 62, poz. 577, Nr 96, poz. 959 i Nr 116, poz. 1203, z 2005 r. Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708 i 711 i Nr 157, poz. 1119 oraz z 2008 r. Nr 171, poz. 1056 i Nr 180, poz. 1109.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 1 otrzymuje brzmienie: „
-- **1)** instytucji obowiązanej – rozumie się przez to banki, Narodowy Bank Polski – w zakresie, w jakim prowadzi rachunki bankowe dla osób prawnych, sprzedaż numizmatów, skup złota i wymianę zniszczonych środków płatniczych na podstawie przepisów ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.), oddziały banków zagranicznych, instytucje pieniądza elektronicznego, oddziały zagranicznych instytucji pieniądza elektronicznego oraz agentów rozliczeniowych, prowadzących działalność na podstawie ustawy z dnia 12 września 2002 r. o elektronicznych instrumentach płatniczych (Dz. U. Nr 169, poz. 1385, z późn. zm.), firmy inwestycyjne i banki powiernicze w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.), zagraniczne osoby prawne prowadzące na terytorium Rzeczypospolitej Polskiej działalność maklerską w zakresie obrotu towarami giełdowymi i towarowe domy maklerskie w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2005 r. Nr 121, poz. 1019, z późn. zm.) oraz spółki handlowe, o których mowa w art. 50a ustawy z dnia 26 października 2000 r. o giełdach towarowych, Krajowy Depozyt Papierów Wartościowych S.A. – w zakresie, w jakim prowadzi rachunki papierów wartościowych, oraz spółka, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi -w zakresie, w jakim prowadzi rachunki papierów wartościowych, podmioty prowadzące działalność w zakresie gier losowych, zakładów wzajemnych i gier na automatach oraz gier na automatach o niskich wygranych, zakłady ubezpieczeń, główne oddziały zagranicznych zakładów ubezpieczeń, zakłady reasekuracji, główne oddziały zagranicznych zakładów reasekuracji, fundusze inwestycyjne, towarzystwa funduszy inwestycyjnych, spółdzielcze kasy oszczędnościowo-kredytowe, państwowe przedsiębiorstwo użyteczności publicznej Poczta Polska, notariuszy w zakresie czynności notarialnych dotyczących obrotu wartościami majątkowymi, adwokatów wykonujących zawód, radców prawnych wykonujących zawód poza stosunkiem pracy, prawników zagranicznych świadczących pomoc prawną poza stosunkiem pracy, biegłych rewidentów wykonujących zawód, doradców podatkowych wykonujących zawód, podmioty prowadzące działalność kantorową, przedsiębiorców prowadzących: domy aukcyjne, antykwariaty, działalność leasingowa lub factoringową, działalność w zakresie: obrotu metalami lub kamieniami szlachetnymi i półszlachetnymi, sprzedaży komisowej, udzielania pożyczek pod zastaw (lombardy) lub pośrednictwa w obrocie nieruchomościami oraz fundacje; ” ;
+- **1)** instytucji obowiązanej – rozumie się przez to banki, Narodowy Bank Polski – w zakresie, w jakim prowadzi rachunki bankowe dla osób prawnych, sprzedaż numizmatów, skup złota i wymianę zniszczonych środków płatniczych na podstawie przepisów ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410 oraz z 2008 r. Nr 209, poz. 1315 i 1317.), oddziały banków zagranicznych, instytucje pieniądza elektronicznego, oddziały zagranicznych instytucji pieniądza elektronicznego oraz agentów rozliczeniowych, prowadzących działalność na podstawie ustawy z dnia 12 września 2002 r. o elektronicznych instrumentach płatniczych (Dz. U. Nr 169, poz. 1385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 18, poz. 97.), firmy inwestycyjne i banki powiernicze w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 13, poz. 69.), zagraniczne osoby prawne prowadzące na terytorium Rzeczypospolitej Polskiej działalność maklerską w zakresie obrotu towarami giełdowymi i towarowe domy maklerskie w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2005 r. Nr 121, poz. 1019, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 183, poz. 1537 i 1538, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769 oraz z 2008 r. Nr 171, poz. 1056.) oraz spółki handlowe, o których mowa w art. 50a ustawy z dnia 26 października 2000 r. o giełdach towarowych, Krajowy Depozyt Papierów Wartościowych S.A. – w zakresie, w jakim prowadzi rachunki papierów wartościowych, oraz spółka, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi -w zakresie, w jakim prowadzi rachunki papierów wartościowych, podmioty prowadzące działalność w zakresie gier losowych, zakładów wzajemnych i gier na automatach oraz gier na automatach o niskich wygranych, zakłady ubezpieczeń, główne oddziały zagranicznych zakładów ubezpieczeń, zakłady reasekuracji, główne oddziały zagranicznych zakładów reasekuracji, fundusze inwestycyjne, towarzystwa funduszy inwestycyjnych, spółdzielcze kasy oszczędnościowo-kredytowe, państwowe przedsiębiorstwo użyteczności publicznej Poczta Polska, notariuszy w zakresie czynności notarialnych dotyczących obrotu wartościami majątkowymi, adwokatów wykonujących zawód, radców prawnych wykonujących zawód poza stosunkiem pracy, prawników zagranicznych świadczących pomoc prawną poza stosunkiem pracy, biegłych rewidentów wykonujących zawód, doradców podatkowych wykonujących zawód, podmioty prowadzące działalność kantorową, przedsiębiorców prowadzących: domy aukcyjne, antykwariaty, działalność leasingowa lub factoringową, działalność w zakresie: obrotu metalami lub kamieniami szlachetnymi i półszlachetnymi, sprzedaży komisowej, udzielania pożyczek pod zastaw (lombardy) lub pośrednictwa w obrocie nieruchomościami oraz fundacje; ” ;
 - **2)** w art. 21 w ust. 3 pkt 2 otrzymuje brzmienie: „
 - **2)** Komisja Nadzoru Finansowego w stosunku do banków, oddziałów zagranicznych instytucji kredytowych i oddziałów banków zagranicznych, zakładów ubezpieczeń i głównych oddziałów zagranicznych zakładów ubezpieczeń, zakładów reasekuracji i głównych oddziałów zagranicznych zakładów reasekuracji oraz w stosunku do firm inwestycyjnych i banków powierniczych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zagranicznych osób prawnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską w zakresie obrotu towarami giełdowymi, towarowych domów maklerskich w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, jak również w stosunku do funduszy inwestycyjnych, towarzystw funduszy inwestycyjnych i Krajowego Depozytu Papierów Wartościowych S.A. oraz spółki, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi; ” ;
 - **3)** w art. 33 w ust. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** Przewodniczącego Komisji Nadzoru Finansowego lub osób przez niego upoważnionych – wyłącznie w sprawach związanych z wykonywaniem nadzoru bankowego, w sprawach związanych z wykonywaniem nadzoru nad działalnością ubezpieczeniową i działalnością reasekuracyjną oraz w stosunku do firm inwestycyjnych i banków powierniczych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zagranicznych osób prawnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską w zakresie obrotu towarami giełdowymi, towarowych domów maklerskich w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych oraz w stosunku do funduszy inwestycyjnych, towarzystw funduszy inwestycyjnych i Krajowego Depozytu Papierów Wartościowych S.A. oraz spółki, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi; ” .
 
-**Art. 9.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 785, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 47, poz. 347, Nr 133, poz. 935 i Nr 157, poz. 1119, z 2007 r. Nr 123, poz. 850 i Nr 179, poz. 1279 oraz z 2008 r. Nr 96, poz. 606, Nr 116, poz. 731 i Nr 234, poz. 1572.) wprowadza się następujące zmiany:
 
 - **1)** w części trzeciej tytuł tytułu III otrzymuje brzmienie: „ Postępowanie upadłościowe wobec zakładów ubezpieczeń i zakładów reasekuracji ” ;
 - **2)** w art. 471 ust. 1 otrzymuje brzmienie: „
@@ -1293,11 +1311,11 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 **Art. 481.** Przepisy art. 452 ust. 2, art. 453–466 i art. 4671–470 stosuje się odpowiednio w przypadku:
 
 - **1)** ogłoszenia upadłości krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, jeżeli prowadzi on działalność także za granicą Rzeczypospolitej Polskiej w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym;
-- **2)** ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania wobec: zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji mającego siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, jeżeli prowadzi on działalność w Rzeczypospolitej Polskiej;
+- **2)** ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania wobec: zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji – mającego siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, jeżeli prowadzi on działalność w Rzeczypospolitej Polskiej;
     - **a)**
     - **b)**
 
-- **3)** ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania wobec: zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji mającego siedzibę w państwie niebędącym członkiem Unii Europejskiej lub członkiem Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym, jeżeli prowadzi on działalność w Rzeczypospolitej Polskiej oraz w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym. ” ;
+- **3)** ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania wobec: zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji – mającego siedzibę w państwie niebędącym członkiem Unii Europejskiej lub członkiem Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym, jeżeli prowadzi on działalność w Rzeczypospolitej Polskiej oraz w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym. ” ;
     - **a)**
     - **b)**
 
@@ -1315,7 +1333,7 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 
 - **5)** „oddział zagranicznego zakładu reasekuracji” – jednostkę organizacyjną zagranicznego zakładu reasekuracji, wykonującą w jego imieniu i na jego rzecz działalność reasekuracyjną. ” .
 
-**Art. 10.** W ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych (Dz. U. Nr 124, poz. 1153, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych (Dz. U. Nr 124, poz. 1153, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1651, z 2004 r. Nr 93, poz. 891 i Nr 96, poz. 959, z 2005 r. Nr 48, poz. 447, Nr 83, poz. 719, Nr 143, poz. 1204 i Nr 163, poz. 1362, z 2006 r. Nr 157, poz. 1119, Nr 170, poz. 1217 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 557 i Nr 171, poz. 1206 oraz z 2008 r. Nr 228, poz. 1507.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: w ust. 1 pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -1340,7 +1358,7 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 
 5. Komisja może udzielać zagranicznym organom państw członkowskich Unii Europejskiej informacji posiadanych w związku z wykonywaniem zadań z zakresu nadzoru nad działalnością zakładów ubezpieczeń i zakładów reasekuracji w zakresie związanym z wykonywaniem zadań z zakresu nadzoru uzupełniającego, o którym mowa w ustawie z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 42, poz. 341). ” .
 
-**Art. 11.** W ustawie z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. Nr 124, poz. 1154, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 11.** W ustawie z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. Nr 124, poz. 1154, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 48, poz. 447, Nr 167, poz. 1396 i Nr 183, poz. 1538, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 18, poz. 97.) wprowadza się następujące zmiany:
 
 - **1)** w art. 19 ust. 6a otrzymuje brzmienie: „
 
@@ -1356,9 +1374,9 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 
 **Art. 12.** W ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. Nr 91, poz. 871 oraz z 2005 r. Nr 83, poz. 719 i Nr 183, poz. 1538) w art. 2 w ust. 1 pkt 11 otrzymuje brzmienie: „
 
-- **11)** zakład ubezpieczeń lub zakład reasekuracji w rozumieniu ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.); ” .
+- **11)** zakład ubezpieczeń lub zakład reasekuracji w rozumieniu ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1571 oraz z 2009 r. Nr 18, poz. 97 i Nr 42, poz. 341.); ” .
 
-**Art. 13.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) w art. 61 ust. 2 otrzymuje brzmienie: „ 2. Komisja, przed udzieleniem zezwolenia na wykonywanie działalności przez towarzystwo, zasięga opinii właściwego organu państwa członkowskiego, jeżeli towarzystwo jest:
+**Art. 13.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97.) w art. 61 ust. 2 otrzymuje brzmienie: „ 2. Komisja, przed udzieleniem zezwolenia na wykonywanie działalności przez towarzystwo, zasięga opinii właściwego organu państwa członkowskiego, jeżeli towarzystwo jest:
 
 - **1)** spółką zależną od innej spółki zarządzającej, firmy inwestycyjnej, instytucji kredytowej, podmiotu prowadzącego działalność ubezpieczeniową na podstawie zezwolenia w państwie członkowskim lub podmiotu prowadzącego działalność reasekuracyjną na podstawie zezwolenia w państwie członkowskim;
 - **2)** spółką zależną od podmiotu dominującego wobec innej spółki zarządzającej, firmy inwestycyjnej, instytucji kredytowej, podmiotu prowadzącego działalność ubezpieczeniową posiadającego zezwolenie w państwie członkowskim lub podmiotu prowadzącego działalność reasekuracyjną na podstawie zezwolenia w państwie członkowskim;
@@ -1388,11 +1406,11 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 
 - **9)** sektor ubezpieczeniowy – sektor, który tworzą zakłady ubezpieczeń, zakłady reasekuracji lub dominujący podmiot ubezpieczeniowy w rozumieniu art. 2 ust. 1 pkt 13a ustawy o działalności ubezpieczeniowej; ” .
 
-**Art. 15.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.) w art. 3 pkt 39 otrzymuje brzmienie: „
+**Art. 15.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 13, poz. 69.) w art. 3 pkt 39 otrzymuje brzmienie: „
 
-- **39)** zakładzie ubezpieczeń – rozumie się przez to krajowy zakład ubezpieczeń, o którym mowa w art. 2 ust. 1 pkt 5 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.), zagraniczny zakład ubezpieczeń, o którym mowa w art. 2 ust. 1 pkt 16 tej ustawy, prowadzący działalność na terytorium Rzeczypospolitej Polskiej, krajowy zakład reasekuracji, o którym mowa w art. 2 ust. 1 pkt 16a tej ustawy, oraz zagraniczny zakład reasekuracji, o którym mowa w art. 2 ust. 1 pkt 16b tej ustawy, prowadzący działalność na terytorium Rzeczypospolitej Polskiej; ” .
+- **39)** zakładzie ubezpieczeń – rozumie się przez to krajowy zakład ubezpieczeń, o którym mowa w art. 2 ust. 1 pkt 5 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1571 oraz z 2009 r. Nr 18, poz. 97 i Nr 42, poz. 341.), zagraniczny zakład ubezpieczeń, o którym mowa w art. 2 ust. 1 pkt 16 tej ustawy, prowadzący działalność na terytorium Rzeczypospolitej Polskiej, krajowy zakład reasekuracji, o którym mowa w art. 2 ust. 1 pkt 16a tej ustawy, oraz zagraniczny zakład reasekuracji, o którym mowa w art. 2 ust. 1 pkt 16b tej ustawy, prowadzący działalność na terytorium Rzeczypospolitej Polskiej; ” .
 
-**Art. 16.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 16.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 42, poz. 272 i Nr 49, poz. 328 oraz z 2008 r. Nr 209, poz. 1317, Nr 228, poz. 1507 i Nr 231, poz. 1546.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 2 pkt 6 otrzymuje brzmienie: „
 - **6)** nadzór uzupełniający, sprawowany zgodnie z przepisami ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 42, poz. 341). ” ;
@@ -1428,5 +1446,5 @@ po art. 224 dodaje się art. 224a w brzmieniu:
 
 **Art. 21.** Zakłady reasekuracji mające siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej, które w dniu wejścia w życie niniejszej ustawy wykonywały działalność reasekuracyjną na terytorium Rzeczypospolitej Polskiej mogą wykonywać tę działalność na podstawie przepisów dotychczasowych, nie dłużej jednak niż przez okres 2 lat od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 22.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 22.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł oraz o przeciwdziałaniu finansowaniu terroryzmu, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych, ustawę z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym, ustawę z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych, ustawę z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1571 oraz z 2009 r. Nr 18, poz. 97. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056, Nr 216, poz. 1367 oraz z 2009 r. Nr 3, poz. 11 i Nr 18, poz. 97. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 48, poz. 447, Nr 167, poz. 1396 i Nr 183, poz. 1538, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 18, poz. 97. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287 oraz z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533, z 2005 r. Nr 25, poz. 202, Nr 57, poz. 491, Nr 78, poz. 684, Nr 143, poz. 1199, Nr 155, poz. 1298, Nr 169, poz. 1419 i 1420, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538, z 2006 r. Nr 94, poz. 651, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353, Nr 217, poz. 1589 i Nr 251, poz. 1847, z 2007 r. Nr 165, poz. 1169, Nr 171, poz. 1208 i Nr 176, poz. 1238, z 2008 r. Nr 141, poz. 888 i Nr 209, poz. 1316 oraz z 2009 r. Nr 3, poz. 11 i Nr 19, poz. 100. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540 oraz z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900, Nr 171, poz. 1056, Nr 214, poz. 1343 i Nr 223, poz. 1466. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547 oraz z 2009 r. Nr 13, poz. 69. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 62, poz. 577, Nr 96, poz. 959 i Nr 116, poz. 1203, z 2005 r. Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708 i 711 i Nr 157, poz. 1119 oraz z 2008 r. Nr 171, poz. 1056 i Nr 180, poz. 1109. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410 oraz z 2008 r. Nr 209, poz. 1315 i 1317. 13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 18, poz. 97. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 13, poz. 69. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 183, poz. 1537 i 1538, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769 oraz z 2008 r. Nr 171, poz. 1056. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 785, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 47, poz. 347, Nr 133, poz. 935 i Nr 157, poz. 1119, z 2007 r. Nr 123, poz. 850 i Nr 179, poz. 1279 oraz z 2008 r. Nr 96, poz. 606, Nr 116, poz. 731 i Nr 234, poz. 1572. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1651, z 2004 r. Nr 93, poz. 891 i Nr 96, poz. 959, z 2005 r. Nr 48, poz. 447, Nr 83, poz. 719, Nr 143, poz. 1204 i Nr 163, poz. 1362, z 2006 r. Nr 157, poz. 1119, Nr 170, poz. 1217 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 557 i Nr 171, poz. 1206 oraz z 2008 r. Nr 228, poz. 1507. 18) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 48, poz. 447, Nr 167, poz. 1396 i Nr 183, poz. 1538, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 18, poz. 97. 19) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1571 oraz z 2009 r. Nr 18, poz. 97 i Nr 42, poz. 341. 20) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97. 21) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 13, poz. 69. 22) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1571 oraz z 2009 r. Nr 18, poz. 97 i Nr 42, poz. 341. 23) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 42, poz. 272 i Nr 49, poz. 328 oraz z 2008 r. Nr 209, poz. 1317, Nr 228, poz. 1507 i Nr 231, poz. 1546.
 

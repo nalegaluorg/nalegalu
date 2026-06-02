@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 16 sierpnia 2022 r. w sprawie warunków dystrybucji blankietów dowodów rejestracyjnych i pozwoleń czasowych
+# Rozporządzenie Ministra Infrastrukturyz dnia 16 sierpnia 2022 r. w sprawie warunków dystrybucji blankietów dowodów rejestracyjnych i pozwoleń czasowych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-16 |
 | Data wydania | 2022-08-25 |
-| Wejście w życie | 2022-09-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001789) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1789/text.pdf) |
 
@@ -80,6 +79,5 @@ Blankiety dowodów rejestracyjnych i pozwoleń czasowych są drukami ścisłego 
 § 7.
 Do przechowywania potwierdzeń odbioru nalepek kontrolnych otrzymanych przed dniem wejścia w życie niniejszego rozporządzenia wytwórca blankietów stosuje przepisy dotychczasowe.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 4 września 2022 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 11 października 2017 r. w sprawie warunków dystrybucji blankietów dowodów rejestracyjnych i pozwoleń czasowych oraz nalepek kontrolnych (Dz. U. poz. 2014), które traci moc z dniem 4 września 2022 r. w związku z wejściem w życie art. 1 pkt 16 lit. a tiret pierwsze podwójne tiret drugie i lit. c ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517).
+Rozporządzenie wchodzi w życie z dniem 4 września 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 11 października 2017 r. w sprawie warunków dystrybucji blankietów dowodów rejestracyjnych i pozwoleń czasowych oraz nalepek kontrolnych (Dz. U. poz. 2014), które traci moc z dniem 4 września 2022 r. w związku z wejściem w życie art. 1 pkt 16 lit. a tiret pierwsze podwójne tiret drugie i lit. c ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517). 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 11 października 2017 r. w sprawie warunków dystrybucji blankietów dowodów rejestracyjnych i pozwoleń czasowych oraz nalepek kontrolnych (Dz. U. poz. 2014), które traci moc z dniem 4 września 2022 r. w związku z wejściem w życie art. 1 pkt 16 lit. a tiret pierwsze podwójne tiret drugie i lit. c ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517).
 

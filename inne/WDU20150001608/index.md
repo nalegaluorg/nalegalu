@@ -22,57 +22,48 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-10-13 |
-| Wejście w życie | 2015-10-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001608) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1608/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2014 r. poz. 1438 oraz z 2015 r. poz. 308 i 349) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345 i 1346.) wprowadza się następujące zmiany:
 1)
-w § 2 ust. 2 otrzymuje brzmienie:
-„
+w § 2 ust. 2 otrzymuje brzmienie: „
 2.
-Pomoc, o której mowa w ust. 1 pkt 1, 2 i 4, w § 6 oraz w § 9a, jest udzielana podmiotom, które nie są przedsiębiorstwem znajdującym się w trudnej sytuacji w rozumieniu art. 2 pkt 14 rozporządzenia nr 702/2014.
-” ;
+Pomoc, o której mowa w ust. 1 pkt 1, 2 i 4, w § 6 oraz w § 9a, jest udzielana podmiotom, które nie są przedsiębiorstwem znajdującym się w trudnej sytuacji w rozumieniu art. 2 pkt 14 rozporządzenia nr 702/2014. ” ;
 2)
 w § 4 w ust. 1 uchyla się pkt 2;
 3)
-w § 5 w ust. 7 pkt 1 otrzymuje brzmienie:
-„
+w § 5 w ust. 7 pkt 1 otrzymuje brzmienie: „
 1)
-składa się co najmniej z 3 osób, w tym 1 przedstawiciela ośrodka doradztwa rolniczego oraz 1 przedstawiciela izby rolniczej, mających wykształcenie wyższe albo średnie w zakresie rolnictwa, ekonomiki rolnictwa lub rybactwa albo co najmniej pięcioletni staż w prowadzeniu gospodarstwa rolnego potwierdzony przez sołtysa, z tym że w przypadku szacowania szkód w budynkach lub budowlach służących do prowadzenia działalności rolniczej co najmniej 1 osoba wchodząca w skład komisji powinna mieć wykształcenie lub doświadczenie zawodowe w zakresie budownictwa;
-” ;
+składa się co najmniej z 3 osób, w tym 1 przedstawiciela ośrodka doradztwa rolniczego oraz 1 przedstawiciela izby rolniczej, mających wykształcenie wyższe albo średnie w zakresie rolnictwa, ekonomiki rolnictwa lub rybactwa albo co najmniej pięcioletni staż w prowadzeniu gospodarstwa rolnego potwierdzony przez sołtysa, z tym że w przypadku szacowania szkód w budynkach lub budowlach służących do prowadzenia działalności rolniczej co najmniej 1 osoba wchodząca w skład komisji powinna mieć wykształcenie lub doświadczenie zawodowe w zakresie budownictwa; ” ;
 4)
 w § 9:
 a)
 w ust. 1:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Warunkiem udzielenia gwarancji lub poręczenia, o których mowa w § 3 ust. 1 pkt 2 i § 6 ust. 1 pkt 2, jest: ” ,
-– pkt 3 otrzymuje brzmienie: „ 3) przedstawienie zaświadczeń albo oświadczeń o niezaleganiu z płatnościami podatków oraz o niezaleganiu w opłacaniu składek na ubezpieczenia społeczne; ” ,
+pkt 3 otrzymuje brzmienie: „
+3)
+przedstawienie zaświadczeń albo oświadczeń o niezaleganiu z płatnościami podatków oraz o niezaleganiu w opłacaniu składek na ubezpieczenia społeczne; ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Warunkiem uzyskania gwarancji lub poręczenia, o których mowa w § 3 ust. 1 pkt 2, jest dodatkowo przedstawienie planu inwestycji.
-” ,
+Warunkiem uzyskania gwarancji lub poręczenia, o których mowa w § 3 ust. 1 pkt 2, jest dodatkowo przedstawienie planu inwestycji. ” ,
 c)
-ust. 9 otrzymuje brzmienie:
-„
+ust. 9 otrzymuje brzmienie: „
 9.
-Łączna kwota udzielonej gwarancji lub poręczenia spłaty kredytu bankowego oraz kwota dopłat do oprocentowania kredytu bankowego nie może przekroczyć wysokości pomocy obliczonej zgodnie z § 3 ust. 7, § 5 ust. 11 i § 6 ust. 2.
-” ;
+Łączna kwota udzielonej gwarancji lub poręczenia spłaty kredytu bankowego oraz kwota dopłat do oprocentowania kredytu bankowego nie może przekroczyć wysokości pomocy obliczonej zgodnie z § 3 ust. 7, § 5 ust. 11 i § 6 ust. 2. ” ;
 5)
-po § 9 dodaje się § 9a w brzmieniu:
-„
+po § 9 dodaje się § 9a w brzmieniu: „
 § 9a.
 1.
 Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, polegającej na udzielaniu:
 1)
 wstępnie uznanym na podstawie przepisów o organizacji rynków owoców i warzyw i rynku chmielu grupom producentów owoców i warzyw gwarancji spłaty kredytów bankowych przeznaczonych na realizację inwestycji niezbędnych do spełnienia kryteriów uznania za organizację producentów owoców i warzyw ujętych w zatwierdzonych planach dochodzenia do uznania,
 2)
-grupom producentów rolnych utworzonych dla produktów lub grupy produktów – świnie żywe, prosięta, warchlaki, mięso wieprzowe: świeże, chłodzone, mrożone, o których mowa w przepisach wydanych na podstawie art. 6 ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. Nr 88, poz. 983, z późn. zm.), gwarancji spłaty kredytów bankowych przeznaczonych na realizację inwestycji
-objętych programem naprawczym, o którym mowa w art. 75 ust. 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.).
+grupom producentów rolnych utworzonych dla produktów lub grupy produktów – świnie żywe, prosięta, warchlaki, mięso wieprzowe: świeże, chłodzone, mrożone, o których mowa w przepisach wydanych na podstawie art. 6 ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. Nr 88, poz. 983, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 229, poz. 2273, z 2004 r. Nr 162, poz. 1694, z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 251, poz. 1847 oraz z 2008 r. Nr 98, poz. 634.), gwarancji spłaty kredytów bankowych przeznaczonych na realizację inwestycji – objętych programem naprawczym, o którym mowa w art. 75 ust. 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348,).
 2.
 Warunkiem udzielenia gwarancji, o których mowa w ust. 1, jest:
 1)
@@ -102,18 +93,13 @@ Agencja z tytułu udzielonej gwarancji pobiera jednorazowo prowizję w wysokośc
 7.
 Kwotę pomocy z tytułu udzielonej gwarancji ustala się zgodnie z przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
 8.
-Pomoc, o której mowa w ust. 1, nie może zostać udzielona do kredytów bankowych objętych programem naprawczym, jeżeli inwestycja została zrealizowana z udziałem środków publicznych.
-” ;
+Pomoc, o której mowa w ust. 1, nie może zostać udzielona do kredytów bankowych objętych programem naprawczym, jeżeli inwestycja została zrealizowana z udziałem środków publicznych. ” ;
 6)
-w § 13 ust. 7 otrzymuje brzmienie:
-„
+w § 13 ust. 7 otrzymuje brzmienie: „
 7.
-Wysokość pomocy, o której mowa w ust. 1, ustala się jako iloczyn deklarowanej przez producenta rolnego we wniosku, o którym mowa w ust. 4, powierzchni upraw, na której wystąpiły szkody, wyrażonej w procentach wysokości szkód oraz stawki pomocy, której wysokość będzie uzależniona od rodzaju uprawy.
-” ;
-1357 i 1513.
+Wysokość pomocy, o której mowa w ust. 1, ustala się jako iloczyn deklarowanej przez producenta rolnego we wniosku, o którym mowa w ust. 4, powierzchni upraw, na której wystąpiły szkody, wyrażonej w procentach wysokości szkód oraz stawki pomocy, której wysokość będzie uzależniona od rodzaju uprawy. ” ; 1357 i 1513.
 7)
-po § 13d dodaje się § 13e w brzmieniu:
-„
+po § 13d dodaje się § 13e w brzmieniu: „
 § 13e.
 1.
 W 2015 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który w 2015 r. prowadzi gospodarstwo w rozumieniu art. 2 pkt 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w którym są utrzymywane zwierzęta gospodarskie z gatunku świnia ( sus scrofa ), których średnia roczna liczba wynosi powyżej 50 sztuk, położone na obszarze określonym w § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 kwietnia 2015 r. w sprawie wprowadzenia „Programu bioasekuracji mającego na celu zapobieganie szerzeniu się afrykańskiego pomoru świń” na lata 2015–2018 (Dz. U. poz. 517).
@@ -154,28 +140,21 @@ oświadczenie producenta rolnego o liczbie świń utrzymywanych w gospodarstwie;
 3)
 oświadczenia albo zaświadczenia dotyczące pomocy de minimis lub pomocy de minimis w rolnictwie oraz informacje niezbędne do udzielenia tej pomocy, o których mowa w art. 37 ust. 1 pkt 1 lub ust. 2 pkt 1 i 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 9.
-Termin składania wniosków, o których mowa w ust. 6, minister właściwy do spraw rolnictwa ogłasza na stronie internetowej urzędu obsługującego tego ministra najpóźniej 7 dni przed rozpoczęciem terminu składania tych wniosków.
-” ;
+Termin składania wniosków, o których mowa w ust. 6, minister właściwy do spraw rolnictwa ogłasza na stronie internetowej urzędu obsługującego tego ministra najpóźniej 7 dni przed rozpoczęciem terminu składania tych wniosków. ” ;
 8)
 w § 15:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Do umów zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 2–5.
-” ,
+Do umów zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 2–5. ” ,
 b)
-dodaje się ust. 5 w brzmieniu:
-„
+dodaje się ust. 5 w brzmieniu: „
 5.
-W przypadku umów kredytu zawartych od dnia 18 września 2012 r. do dnia 31 grudnia 2014 r. na warunkach i zgodnie z przepisami rozporządzenia, o którym mowa w ust. 3 pkt 2, należne bankowi oprocentowanie w przypadku kredytów bankowych, o których mowa w § 9 ust. 1 i § 9a tego rozporządzenia, jest płacone przez kredytobiorcę w dotychczasowej wysokości, a gdy oprocentowanie należne bankowi wynosi poniżej 3%, kredytobiorca płaci oprocentowanie w wysokości tego oprocentowania.
-” ;
+W przypadku umów kredytu zawartych od dnia 18 września 2012 r. do dnia 31 grudnia 2014 r. na warunkach i zgodnie z przepisami rozporządzenia, o którym mowa w ust. 3 pkt 2, należne bankowi oprocentowanie w przypadku kredytów bankowych, o których mowa w § 9 ust. 1 i § 9a tego rozporządzenia, jest płacone przez kredytobiorcę w dotychczasowej wysokości, a gdy oprocentowanie należne bankowi wynosi poniżej 3%, kredytobiorca płaci oprocentowanie w wysokości tego oprocentowania. ” ;
 9)
-w § 17 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
-„
+w § 17 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 2.
-Gwarancje, o których mowa w § 9a, mogą być udzielane w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej polegającej na udzielaniu tych gwarancji.
-” .
+Gwarancje, o których mowa w § 9a, mogą być udzielane w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej polegającej na udzielaniu tych gwarancji. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345 i 1346. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 229, poz. 2273, z 2004 r. Nr 162, poz. 1694, z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 251, poz. 1847 oraz z 2008 r. Nr 98, poz. 634. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348,
 

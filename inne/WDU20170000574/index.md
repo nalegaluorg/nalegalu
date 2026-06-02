@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 14 marca 2017 r. w sprawie dokumentów, które uniemożliwiają ustalenie niektórych danych przy wykonywaniu czynności operacyjno-rozpoznawczych przez Służbę Celno-Skarbową
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 14 marca 2017 r. w sprawie dokumentów, które uniemożliwiają ustalenie niektórych danych przy wykonywaniu czynności operacyjno-rozpoznawczych przez Służbę Celno-Skarbową Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-14 |
 | Data wydania | 2017-03-17 |
-| Wejście w życie | 2017-03-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000574) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/574/text.pdf) |
 
@@ -35,8 +34,7 @@ rodzaje dokumentów, które uniemożliwiają ustalenie:
 a)
 danych identyfikujących funkcjonariusza Służby Celno-Skarbowej wykonującego czynności operacyjno-rozpoznawcze oraz osobę udzielającą pomocy przy wykonywaniu tych czynności,
 b)
-środków, którymi posługuje się funkcjonariusz Służby Celno-Skarbowej wykonujący czynności operacyjno-rozpoznawcze przy wykonywaniu zadań służbowych,
-zwane dalej „dokumentami”;
+środków, którymi posługuje się funkcjonariusz Służby Celno-Skarbowej wykonujący czynności operacyjno-rozpoznawcze przy wykonywaniu zadań służbowych, – zwane dalej „dokumentami”;
 2)
 tryb wydawania i przechowywania dokumentów;
 3)
@@ -61,8 +59,7 @@ Wniosek o wydanie dokumentu składają, w formie pisemnej, za pośrednictwem kom
 1)
 kierownicy komórek organizacyjnych urzędu obsługującego ministra właściwego do spraw finansów publicznych, w których pełnią służbę funkcjonariusze Służby Celno-Skarbowej wykonujący czynności operacyjno-rozpoznawcze,
 2)
-naczelnicy urzędów celno-skarbowych
-zwani dalej „wnioskodawcami”.
+naczelnicy urzędów celno-skarbowych – zwani dalej „wnioskodawcami”.
 2.
 Wniosek o wydanie dokumentu zawiera:
 1)
@@ -134,6 +131,5 @@ Dokumenty, które uniemożliwiają ustalenie danych identyfikujących uprawnione
 2.
 Dokumenty, o których mowa w ust. 1, są ewidencjonowane w ewidencji prowadzonej na podstawie dotychczasowych przepisów.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 19 listopada 2004 r. w sprawie rodzajów, trybu wydawania, sposobu posługiwania się i przechowywania dokumentów, które uniemożliwiają ustalenie danych identyfikujących pracownika wywiadu skarbowego oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych (Dz. U. poz. 2582), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 19 listopada 2004 r. w sprawie rodzajów, trybu wydawania, sposobu posługiwania się i przechowywania dokumentów, które uniemożliwiają ustalenie danych identyfikujących pracownika wywiadu skarbowego oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych (Dz. U. poz. 2582), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 19 listopada 2004 r. w sprawie rodzajów, trybu wydawania, sposobu posługiwania się i przechowywania dokumentów, które uniemożliwiają ustalenie danych identyfikujących pracownika wywiadu skarbowego oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych (Dz. U. poz. 2582), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
 

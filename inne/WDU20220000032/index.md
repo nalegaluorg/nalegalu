@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-02 |
 | Data wydania | 2022-01-10 |
-| Wejście w życie | 2022-02-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/32/text.pdf) |
 
@@ -75,7 +74,7 @@ source: "eli-html"
 - **2)** wyłożenia do publicznego wglądu wyników oszacowania gruntów, lasów oraz sadów, ogrodów, chmielników i innych upraw specjalnych,
 - **3)** w których można składać propozycje co do sposobu wydzielenia gruntów w zamian za grunty dotychczas posiadane, w szczególności w zakresie ich lokalizacji,
 - **4)** okazania projektu scalenia gruntów,
-- **5)** okazania stabilizacji punktów granicznych projektu scalenia gruntów – w przypadku jej wykonania w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed tym terminem. ” ;
+- **5)** okazania stabilizacji punktów granicznych projektu scalenia gruntów – w przypadku jej wykonania – w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed tym terminem. ” ;
 - **9)** po art. 31 dodaje się art. 31a w brzmieniu: „
 
 1. Zebranie uczestników scalenia oraz wykonywanie prawa głosu może odbywać się z wykorzystaniem środków komunikacji elektronicznej.
@@ -121,7 +120,7 @@ source: "eli-html"
 - **5)** do zapoznania się uczestników scalenia z wynikami ustaleń komisji rozpatrującej zastrzeżenia do szacunku gruntów stosuje się odpowiednio pkt 3;
 - **6)** starosta zawiadamia o terminie objęcia w posiadanie przez uczestników scalenia nowo wydzielonych gruntów w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed terminem objęcia w posiadanie; za datę objęcia w posiadanie uważa się termin wskazany w zawiadomieniu. ” .
 
-**Art. 2.** W ustawie z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych ksiąg wieczystych (Dz. U. poz. 67, z późn. zm.) w art. 2 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Sąd prowadzący księgi wieczyste dokonuje zamknięcia ksiąg wieczystych określonych w art. 1 na skutek zawiadomienia właściwego starosty. ” .
+**Art. 2.** W ustawie z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych ksiąg wieczystych (Dz. U. poz. 67, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1962 r. poz. 169, z 1968 r. poz. 13, z 1982 r. poz. 80, z 1989 r. poz. 55, z 1998 r. poz. 668 oraz z 2002 r. poz. 984.) w art. 2 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Sąd prowadzący księgi wieczyste dokonuje zamknięcia ksiąg wieczystych określonych w art. 1 na skutek zawiadomienia właściwego starosty. ” .
 
 **Art. 3.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2021 r. poz. 1376 i 1595) w art. 40 po ust. 6c dodaje się ust. 6d w brzmieniu: „ 6d. Do decyzji administracyjnej wydanej na podstawie ust. 1, dotyczącej zajęcia pasa drogowego w przypadkach, o których mowa w ust. 2 pkt 2 i 3, w zakresie ustanowionej w tej decyzji wysokości opłaty za zajęcie pasa drogowego, jeżeli decyzja dotyczy obiektów i urządzeń infrastruktury telekomunikacyjnej, przepisu art. 155 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052) nie stosuje się. ” .
 
@@ -143,5 +142,5 @@ source: "eli-html"
 
 **Art. 5.** Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy prowadzonych na podstawie art. 155 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, w przypadkach, o których mowa w art. 40 ust. 6d ustawy zmienianej w art. 3, stosuje się przepisy ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 3 i art. 5, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 3 i art. 5, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1962 r. poz. 169, z 1968 r. poz. 13, z 1982 r. poz. 80, z 1989 r. poz. 55, z 1998 r. poz. 668 oraz z 2002 r. poz. 984.
 

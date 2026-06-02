@@ -22,19 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-15 |
 | Data wydania | 2021-11-26 |
-| Wejście w życie | 2021-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002152) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2152/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Akta sprawy, w tym akta do zgłoszeń wierzytelności Rozdział 3 – Zbiór dokumentów Rozdział 4 – Repertorium dla akt „GUp-s” Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 49124 ust. 7 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 i 2320 oraz z 2021 r. poz. 1080, 1177, 1598 i 2140) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób i tryb prowadzenia przez syndyka akt, o których mowa w art. 49124 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, zwanej dalej „ustawą”, oraz zbioru dokumentów, o którym mowa w art. 49124 ust. 2 ustawy, w tym stosowane urządzenia ewidencyjne, a także udostępniania tych akt oraz zbioru dokumentów.
 § 2.
 Syndyk prowadzi urządzenie ewidencyjne w systemie teleinformatycznym obsługującym postępowanie sądowe, o którym mowa w art. 53 § 1a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r. poz. 1080 i 1236), zwanym dalej „systemem teleinformatycznym”, w postaci repertorium „GUp-s” dla spraw upadłościowych prowadzonych po ogłoszeniu upadłości na podstawie części trzeciej tytułu V ustawy.
 § 3.
 Syndyk prowadzi akta, o których mowa w art. 49124 ust. 1 ustawy, zwane dalej „aktami sprawy”, w tym akta do zgłoszeń wierzytelności, oraz zbiór dokumentów odrębnie dla każdego upadłego.
+Akta sprawy, w tym akta do zgłoszeń wierzytelności
 § 4.
 Akta sprawy, w tym akta do zgłoszeń wierzytelności, są zakładane w systemie teleinformatycznym z chwilą odnotowania w repertorium sądowym „GU” postanowienia o ogłoszeniu upadłości.
 § 5.
@@ -77,6 +78,7 @@ Akta sprawy, w tym akta do zgłoszeń wierzytelności, udostępnia się uczestni
 Syndyk udostępnia akta sprawy, w tym akta do zgłoszeń wierzytelności, w biurze za pośrednictwem systemu teleinformatycznego osobom, o których mowa w ust. 1, po potwierdzeniu przez nie swojej tożsamości, a innym osobom również po dostatecznym usprawiedliwieniu potrzeby zapoznania się z tymi aktami, chyba że przepisy ustawy stanowią inaczej.
 3.
 Udostępnienie akt sprawy, w tym akt do zgłoszeń wierzytelności, prowadzonych w systemie teleinformatycznym służbie nadzoru Ministra Sprawiedliwości następuje przez zgłoszenie przez tę służbę żądania wglądu do akt w systemie teleinformatycznym.
+Zbiór dokumentów
 § 9.
 1.
 Syndyk z chwilą otrzymania odpisu postanowienia o ogłoszeniu upadłości zakłada zbiór dokumentów dla pism i dokumentów papierowych.
@@ -154,6 +156,7 @@ datę sporządzenia odpisu;
 numer licencji syndyka;
 4)
 czytelne imię i nazwisko osoby podpisującej odpis.
+Repertorium dla akt „GUp-s”
 § 15.
 Wrepertorium „GUp-s” odnotowuje się:
 1)
@@ -208,16 +211,27 @@ o warunkowym umorzeniu zobowiązań bez ustalenia planu spłaty;
 o odmowie ustalenia planu spłaty;
 7)
 o uchyleniu postępowania upadłościowego.
+Przepis końcowy
 § 17.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 18 marca 2020 r. w sprawie sposobu i trybu prowadzenia oraz udostępniania uczestnikom postępowania oraz służbie nadzoru Ministra Sprawiedliwości akt w postępowaniu upadłościowym wobec osób fizycznych nieprowadzących działalności gospodarczej (Dz. U. poz. 506), które traci moc z dniem 1 grudnia 2021 r. na podstawie art. 12 ustawy z dnia 28 maja 2021 r. o zmianie ustawy o Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw (Dz. U. poz. 1080). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 18 marca 2020 r. w sprawie sposobu i trybu prowadzenia oraz udostępniania uczestnikom postępowania oraz służbie nadzoru Ministra Sprawiedliwości akt w postępowaniu upadłościowym wobec osób fizycznych nieprowadzących działalności gospodarczej (Dz. U. poz. 506), które traci moc z dniem 1 grudnia 2021 r. na podstawie art. 12 ustawy z dnia 28 maja 2021 r. o zmianie ustawy o Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw (Dz. U. poz. 1080).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Akta sprawy, w tym akta do zgłoszeń wierzytelności
+#### Rozdział 2 – Akta sprawy, w tym akta do zgłoszeń wierzytelności
 
-#### Rozdział 3 Zbiór dokumentów
+#### Rozdział 3 – Zbiór dokumentów
 
-#### Rozdział 4 Repertorium dla akt „GUp-s”
+#### Rozdział 4 – Repertorium dla akt „GUp-s”
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-12-02 |
 | Data wydania | 2009-12-22 |
-| Wejście w życie | 2010-01-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092191710) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1710/text.pdf) |
 
@@ -31,9 +30,9 @@ source: "eli-html"
 - **1)** tytuł ustawy otrzymuje brzmienie: „ Ustawa z dnia 26 czerwca 1997 r. o finansowaniu Uniwersytetu Papieskiego Jana Pawła II w Krakowie z budżetu państwa ” ;
 - **2)** art. 1 otrzymuje brzmienie „ Uniwersytet Papieski Jana Pawła II w Krakowie otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych. ” .
 
-**Art. 2.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. Nr 29, poz. 154, z późn. zm.) w art. 9 w ust. 1 pkt 2 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. Nr 29, poz. 154, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590 i Nr 141, poz. 943, z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 757, z 2000 r. Nr 120, poz. 1268 oraz z 2004 r. Nr 68, poz. 623.) w art. 9 w ust. 1 pkt 2 otrzymuje brzmienie: „
 
 - **2)** Uniwersytet Papieski Jana Pawła II w Krakowie, ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590 i Nr 141, poz. 943, z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 757, z 2000 r. Nr 120, poz. 1268 oraz z 2004 r. Nr 68, poz. 623.
 

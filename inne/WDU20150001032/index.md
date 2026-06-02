@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-29 |
 | Data wydania | 2015-07-24 |
-| Wejście w życie | 2015-08-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1032/text.pdf) |
 
@@ -43,8 +42,7 @@ Skład wolnocłowy jest zlokalizowany na poziomie parteru oraz poziomie −1 w T
 3)
 ściana o długości 11,3 m z roletą kratową, oddzielająca skład wolnocłowy od pomieszczenia 00.PO.121;
 4)
-ściana o długości 11,03 m z roletą kratową, oddzielająca skład wolnocłowy od pomieszczenia 00.PO.100.
-Granicę obszaru składu wolnocłowego usytuowanego w obiekcie 00.PK.140 stanowią następujące odcinki ścian:
+ściana o długości 11,03 m z roletą kratową, oddzielająca skład wolnocłowy od pomieszczenia 00.PO.100. Granicę obszaru składu wolnocłowego usytuowanego w obiekcie 00.PK.140 stanowią następujące odcinki ścian:
 1)
 ściana o długości 7,53 m, oddzielająca skład wolnocłowy od pomieszczenia 00.SC.141;
 2)
@@ -52,8 +50,7 @@ Granicę obszaru składu wolnocłowego usytuowanego w obiekcie 00.PK.140 stanowi
 3)
 ściana o długości 7,53 m, oddzielająca skład wolnocłowy od pomieszczeń: 00.SG.137, 00.PO.138 i 00.PO.139;
 4)
-ściana o długości 7,53 m z jednym otworem drzwiowym oraz roletą kratową, oddzielająca skład wolnocłowy od pomieszczenia 00.PO.119.
-Granicę obszaru składu wolnocłowego usytuowanego w obiekcie 01.PT.39 stanowią następujące odcinki ścian:
+ściana o długości 7,53 m z jednym otworem drzwiowym oraz roletą kratową, oddzielająca skład wolnocłowy od pomieszczenia 00.PO.119. Granicę obszaru składu wolnocłowego usytuowanego w obiekcie 01.PT.39 stanowią następujące odcinki ścian:
 1)
 ściana o długości 4,1 m, oddzielająca skład wolnocłowy od pomieszczenia 01.PT.38;
 2)
@@ -61,6 +58,5 @@ Granicę obszaru składu wolnocłowego usytuowanego w obiekcie 01.PT.39 stanowi�
 3)
 ściana długości 4,1 m, oddzielająca skład wolnocłowy od pomieszczeń 01.PT.40 i 01.PT.37;
 4)
-ściana o długości 3,35 m, z jednym otworem drzwiowym.
-Obszar składu wolnocłowego Obszar składu wolnocłowego wynosi 218,87 m2.
+ściana o długości 3,35 m, z jednym otworem drzwiowym. Obszar składu wolnocłowego Obszar składu wolnocłowego wynosi 218,87 m2.
 

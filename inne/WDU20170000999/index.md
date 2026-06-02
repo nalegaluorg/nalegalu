@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 kwietnia 2017 r. zmieniające rozporządzenie w sprawie systemu resortowych kodów identyfikacyjnych oraz szczegółowego sposobu ich nadawania
+# Rozporządzenie Ministra Zdrowiaz dnia 27 kwietnia 2017 r. zmieniające rozporządzenie w sprawie systemu resortowych kodów identyfikacyjnych oraz szczegółowego sposobu ich nadawania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-27 |
 | Data wydania | 2017-05-22 |
-| Wejście w życie | 2017-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000999) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/999/text.pdf) |
 
@@ -37,41 +36,32 @@ Na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności 
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 17 maja 2012 r. w sprawie systemu resortowych kodów identyfikacyjnych oraz szczegółowego sposobu ich nadawania (Dz. U. poz. 594) wprowadza się następujące zmiany:
 1)
-w § 5 ust. 3 otrzymuje brzmienie:
-„
+w § 5 ust. 3 otrzymuje brzmienie: „
 3.
 W przypadku spółki kapitałowej z udziałem: Skarbu Państwa, jednostki samorządu terytorialnego albo uczelni medycznej w kodzie, o którym mowa w ust. 2, trzeci znak kodu zastępuje się cyfrą:
 1)
 1 – w przypadku spółki kapitałowej, w której Skarb Państwa, jednostka samorządu terytorialnego albo uczelnia medyczna posiadają udziały albo akcje reprezentujące co najmniej 51% kapitału zakładowego;
 2)
-2 – w przypadku spółki kapitałowej, w której Skarb Państwa albo jednostka samorządu terytorialnego posiadają udziały albo akcje reprezentujące mniej niż 51% kapitału zakładowego.
-” ;
+2 – w przypadku spółki kapitałowej, w której Skarb Państwa albo jednostka samorządu terytorialnego posiadają udziały albo akcje reprezentujące mniej niż 51% kapitału zakładowego. ” ;
 2)
-w § 6 ust. 1 otrzymuje brzmienie:
-„
+w § 6 ust. 1 otrzymuje brzmienie: „
 1.
-Część V systemu stanowi 2-znakowy niepowtarzalny kod identyfikujący jednostkę organizacyjną zakładu leczniczego w strukturze organizacyjnej podmiotu leczniczego, zawierający się w przedziale od 01 do 99.
-” ;
+Część V systemu stanowi 2-znakowy niepowtarzalny kod identyfikujący jednostkę organizacyjną zakładu leczniczego w strukturze organizacyjnej podmiotu leczniczego, zawierający się w przedziale od 01 do 99. ” ;
 3)
-§ 7 otrzymuje brzmienie:
-„
+§ 7 otrzymuje brzmienie: „
 § 7.
 1.
 Część VI systemu stanowi kod rodzaju działalności leczniczej wykonywanej w zakładzie leczniczym.
 2.
 Każdemu zakładowi leczniczemu podmiotu leczniczego nadaje się tylko jeden kod, o którym mowa w ust. 1.
 3.
-Kody rodzaju działalności leczniczej wykonywanej w zakładzie leczniczym są określone w załączniku nr 1 do rozporządzenia.
-” ;
+Kody rodzaju działalności leczniczej wykonywanej w zakładzie leczniczym są określone w załączniku nr 1 do rozporządzenia. ” ;
 4)
-w § 8 ust. 1 otrzymuje brzmienie:
-„
+w § 8 ust. 1 otrzymuje brzmienie: „
 1.
-Część VII systemu stanowi 3-znakowy niepowtarzalny kod identyfikujący komórkę organizacyjną zakładu leczniczego podmiotu leczniczego w strukturze organizacyjnej podmiotu leczniczego, zawierający się w przedziale od 001 do 999.
-” ;
+Część VII systemu stanowi 3-znakowy niepowtarzalny kod identyfikujący komórkę organizacyjną zakładu leczniczego podmiotu leczniczego w strukturze organizacyjnej podmiotu leczniczego, zawierający się w przedziale od 001 do 999. ” ;
 5)
-§ 9 otrzymuje brzmienie:
-„
+§ 9 otrzymuje brzmienie: „
 § 9.
 1.
 Część VIII systemu stanowi 4-znakowy kod charakteryzujący specjalność komórki organizacyjnej zakładu leczniczego podmiotu leczniczego. z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
@@ -80,35 +70,28 @@ Każdej komórce organizacyjnej zakładu leczniczego podmiotu leczniczego nadaje
 3.
 Kody charakteryzujące specjalność komórki organizacyjnej zakładu leczniczego są określone w załączniku nr 2 do rozporządzenia.
 4.
-Komórkom organizacyjnym danej specjalności udzielającym świadczeń zdrowotnych dzieciom nadaje się kod nieparzysty, o jeden wyższy niż właściwy kod komórki organizacyjnej udzielającej świadczeń zdrowotnych osobom dorosłym.
-” ;
+Komórkom organizacyjnym danej specjalności udzielającym świadczeń zdrowotnych dzieciom nadaje się kod nieparzysty, o jeden wyższy niż właściwy kod komórki organizacyjnej udzielającej świadczeń zdrowotnych osobom dorosłym. ” ;
 6)
-§ 11 otrzymuje brzmienie:
-„
+§ 11 otrzymuje brzmienie: „
 § 11.
 1.
 Część X systemu stanowi kod charakteryzujący dziedziny medycyny, pielęgniarstwa albo dziedziny mające zastosowanie w ochronie zdrowia, w których są udzielane świadczenia zdrowotne.
 2.
 Kody dziedzin, o których mowa w ust. 1, są określone w załączniku nr 4 do rozporządzenia.
 3.
-Kod tworzą dwa albo trzy znaki określające: dziedziny medycyny, o których mowa w przepisach wydanych na podstawie art. 16 ust. 10 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2017 r. poz. 125 i 767), dziedziny pielęgniarstwa, o których mowa w przepisach wydanych na podstawie art. 74 ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2016 r. poz. 1251, 1579 i 2020), albo dziedziny mające zastosowanie w ochronie zdrowia, o których mowa w przepisach wydanych na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 599).
-” ;
+Kod tworzą dwa albo trzy znaki określające: dziedziny medycyny, o których mowa w przepisach wydanych na podstawie art. 16 ust. 10 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2017 r. poz. 125 i 767), dziedziny pielęgniarstwa, o których mowa w przepisach wydanych na podstawie art. 74 ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2016 r. poz. 1251, 1579 i 2020), albo dziedziny mające zastosowanie w ochronie zdrowia, o których mowa w przepisach wydanych na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 599). ” ;
 7)
-§ 12 otrzymuje brzmienie:
-„
+§ 12 otrzymuje brzmienie: „
 § 12.
-W przypadku podmiotu leczniczego kody stanowiące części IX i X systemu tworzą łącznie profil medyczny i określają zakres świadczeń zdrowotnych wykonywanych w jednostce organizacyjnej lub komórce organizacyjnej zakładu leczniczego.
-” ;
+W przypadku podmiotu leczniczego kody stanowiące części IX i X systemu tworzą łącznie profil medyczny i określają zakres świadczeń zdrowotnych wykonywanych w jednostce organizacyjnej lub komórce organizacyjnej zakładu leczniczego. ” ;
 8)
-w § 13 ust. 2 4 otrzymują brzmienie:
-„
+w § 13 ust. 2 4 otrzymują brzmienie: „
 2.
 Do identyfikacji zakładu leczniczego służy 14-znakowy numer REGON tego zakładu.
 3.
 Do identyfikacji jednostki organizacyjnej zakładu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część V systemu, oddzielone myślnikiem.
 4.
-Do identyfikacji komórki organizacyjnej zakładu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część VII systemu, oddzielone myślnikiem.
-” ;
+Do identyfikacji komórki organizacyjnej zakładu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część VII systemu, oddzielone myślnikiem. ” ;
 9)
 tytuł załącznika nr 1 do rozporządzenia otrzymuje brzmienie: „ KODY RODZAJU DZIAŁALNOŚCI LECZNICZEJ WYKONYWANEJ W ZAKŁADZIE LECZNICZYM ” ;
 10)
@@ -120,8 +103,7 @@ załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załącznik
 § 2.
 Podmioty wykonujące działalność leczniczą dostosują wpisy w księgach rejestrowych do wymagań wynikających z rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 9 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów
 
 ## Załącznik nr 1 — – Kody charakteryzujące specjalność komórki organizacyjnej zakładu leczniczego
 

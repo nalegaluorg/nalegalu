@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 6 października 2015 r. w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych (Dz. U. poz. 1645), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającym rozporządzenie w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych (Dz. U. poz. 417).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającego rozporządzenie w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych (Dz. U. poz. 417), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającego rozporządzenie w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych (Dz. U. poz. 417), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 6 października 2015 r. w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych
 Na podstawie art. 7 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001) zarządza się, co następuje:
 § 1.
@@ -116,6 +114,6 @@ gotówką;
 przelewem na wskazany rachunek bankowy.
 3.
 W przypadku, o którym mowa w ust. 1, notariusz odnotowuje w ewidencji w rubryce „uwagi” wysokość kwoty zwrotu, datę i sposób jej przekazania oraz dane osoby, której zwrócił opłatę.
-§ 8.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
+§ 8W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającego rozporządzenie w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych (Dz. U. poz. 417), które weszło w życie z dniem 1 kwietnia 2016 r..
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 27 sierpnia 2001 r. w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis do księgi wieczystej zamieszczanych w aktach notarialnych (Dz. U. poz. 1011 oraz z 2006 r. poz. 646). 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającego rozporządzenie w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych (Dz. U. poz. 417), które weszło w życie z dniem 1 kwietnia 2016 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 27 sierpnia 2001 r. w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis do księgi wieczystej zamieszczanych w aktach notarialnych (Dz. U. poz. 1011 oraz z 2006 r. poz. 646).
 

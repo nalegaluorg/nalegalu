@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-07-17 |
 | Data wydania | 2009-08-04 |
-| Wejście w życie | 2009-08-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091221007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1007/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.) wprowadza się następujące zmiany:
+Centra urazowe
+
+**Art. 1.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653 oraz z 2009 r. Nr 11, poz. 59.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 dodaje się pkt 11 i 12 w brzmieniu: „
 - **11)** centrum urazowe – wydzieloną funkcjonalnie część szpitala, w rozumieniu przepisów o zakładach opieki zdrowotnej, w którym działa szpitalny oddział ratunkowy, w której to części specjalistyczne oddziały są powiązane ze sobą organizacyjnie oraz zakresem zadań, w sposób pozwalający na szybkie diagnozowanie i leczenie pacjenta urazowego, spełniającą wymagania określone w ustawie;
@@ -34,7 +35,7 @@ source: "eli-html"
 - **2)** w art. 21: w ust. 2 pkt 7 otrzymuje brzmienie: „
     - **a)**
 
-- **7)** informacje o lokalizacji wojewódzkich centrów powiadamiania ratunkowego i centrów powiadamiania ratunkowego w rozumieniu ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2002 r. Nr 147, poz. 1229, z późn. zm.) i terenach przez nie obsługiwanych; ” , w ust. 3 dodaje się pkt 3 w brzmieniu: „
+- **7)** informacje o lokalizacji wojewódzkich centrów powiadamiania ratunkowego i centrów powiadamiania ratunkowego w rozumieniu ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2002 r. Nr 147, poz. 1229, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590, z 2008 r. Nr 163, poz. 1015 oraz z 2009 r. Nr 11, poz. 59.) i terenach przez nie obsługiwanych; ” , w ust. 3 dodaje się pkt 3 w brzmieniu: „
     - **b)**
 
 - **3)** centrum urazowe wraz z informacją o zakresie świadczeń opieki zdrowotnej, niezbędnych do realizacji jego zadań, jeżeli centrum urazowe znajduje się na obszarze danego województwa. ” ;
@@ -60,12 +61,12 @@ source: "eli-html"
 
 - **7)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Centra urazowe
+#### Rozdział 4a
 
 **Art. 39a.** W centrum urazowym świadczenia zdrowotne, o których mowa w art. 39c ust. 1, są udzielane pacjentowi urazowemu przez zespół lekarzy posiadających tytuł specjalisty, zwany dalej „zespołem urazowym”. Centrum urazowe:
 
 - **1)** zabezpiecza, w zakresie świadczeń zdrowotnych, o których mowa w art. 39c ust. 1, populację nie mniejszą niż 1 mln mieszkańców, zamieszkującą obszar pozwalający na dotarcie z miejsca zdarzenia do centrum urazowego w ciągu 1,5 godziny;
-- **2)** współpracuje z publiczną uczelnią, o której mowa w art. 94 ust. 3 pkt 6 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.);
+- **2)** współpracuje z publiczną uczelnią, o której mowa w art. 94 ust. 3 pkt 6 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658, z 2007 r. Nr 80, poz. 542, Nr 120, poz. 818, Nr 176, poz. 1238 i 1240 i Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416 oraz z 2009 r. Nr 68, poz. 584.);
 - **3)** zapewnia działanie w swojej strukturze specjalistycznych oddziałów zabiegowych i pracowni diagnostycznych: oddziału anestezjologii i intensywnej terapii, zapewniającego gotowość co najmniej dwóch stanowisk intensywnej terapii do udzielania świadczeń zdrowotnych pacjentowi urazowemu, bloku operacyjnego, zapewniającego stałą gotowość co najmniej jednej sali operacyjnej do udzielania świadczeń zdrowotnych pacjentowi urazowemu, pracowni endoskopii diagnostycznej i zabiegowej, czynnej całą dobę, oddziałów, w szczególności: – chirurgii ogólnej lub obrażeń wielonarządowych, – ortopedii i traumatologii narządu ruchu, – neurochirurgii lub chirurgii ogólnej z profilem neurotraumatologii, – chirurgii naczyń lub chirurgii ogólnej z profilem chirurgii naczyń;
     - **a)**
     - **b)**
@@ -85,7 +86,7 @@ source: "eli-html"
 - **1)** szczegółowe wymagania organizacyjne centrum urazowego, w zakresie minimalnego wyposażenia diagnostycznego oraz technicznego,
 - **2)** minimalne zasoby kadrowe zespołu urazowego,
 - **3)** kryteria kwalifikacji osoby wstanie nagłego zagrożenia zdrowotnego do leczenia w centrum urazowym,
-- **4)** sposób postępowania z pacjentem urazowym uwzględniając konieczność zapewnienia pacjentowi urazowemu odpowiednich świadczeń opieki zdrowotnej. ” ;
+- **4)** sposób postępowania z pacjentem urazowym – uwzględniając konieczność zapewnienia pacjentowi urazowemu odpowiednich świadczeń opieki zdrowotnej. ” ;
 - **8)** art. 45 otrzymuje brzmienie: „
 
 **Art. 45.**
@@ -105,7 +106,7 @@ source: "eli-html"
 
 5. W celu ustalenia propozycji wysokości środków na finansowanie zespołów ratownictwa medycznego z uwzględnieniem podziału między poszczególne województwa należy kolejno obliczyć:
 
-- **1)** dla każdego województwa – sumę: iloczynu liczby zespołów podstawowych w tym województwie i wskaźnika kosztów całodobowego utrzymania zespołu podstawowego stanowiącego 0,75 kosztów całodobowego utrzymania zespołu specjalistycznego oraz liczby zespołów specjalistycznych zwaną dalej „unormowaną liczbą zespołów”;
+- **1)** dla każdego województwa – sumę: iloczynu liczby zespołów podstawowych w tym województwie i wskaźnika kosztów całodobowego utrzymania zespołu podstawowego stanowiącego 0,75 kosztów całodobowego utrzymania zespołu specjalistycznego oraz liczby zespołów specjalistycznych – zwaną dalej „unormowaną liczbą zespołów”;
     - **a)**
     - **b)**
 
@@ -140,5 +141,5 @@ source: "eli-html"
 
 **Art. 3.** Do dnia 31 grudnia 2013 r., centrum urazowym jest umieszczona w wojewódzkim planie działania systemu określonym w art. 21 ustawy, o której mowa w art. 1, wydzielona funkcjonalnie część szpitala, w którym działa szpitalny oddział ratunkowy, w której to części specjalistyczne oddziały są powiązane ze sobą organizacyjnie oraz zakresem zadań, w sposób pozwalający na szybkie i specjalistyczne diagnozowanie i leczenie pacjenta urazowego, w rozumieniu art. 3 pkt 12 ustawy, o której mowa w art. 1, pod warunkiem spełniania wymagań określonych w art. 39b pkt 1, 2, pkt 3 lit. a-c i pkt 4 oraz co najmniej trzech z wymagań określonych w art. 39b pkt 3 lit. d tej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172, z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653 oraz z 2009 r. Nr 11, poz. 59. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590, z 2008 r. Nr 163, poz. 1015 oraz z 2009 r. Nr 11, poz. 59. 3) Zmiany ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658, z 2007 r. Nr 80, poz. 542, Nr 120, poz. 818, Nr 176, poz. 1238 i 1240 i Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416 oraz z 2009 r. Nr 68, poz. 584.
 

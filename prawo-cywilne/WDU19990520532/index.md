@@ -22,19 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1999-05-21 |
 | Data wydania | 1999-06-15 |
-| Wejście w życie | 1999-12-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990520532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/532/text.pdf) |
 
+Separacja
+Sprawy o rozwód i o separację”;
 4)
-art. 439 otrzymuje brzmienie:
-„
+art. 439 otrzymuje brzmienie: „
+Zawieranie małżeństw i akt małżeństwa”;
 2)
-w art. 62 dodaje się ust. 5 w brzmieniu:
-„
+w art. 62 dodaje się ust. 5 w brzmieniu: „
 5.
-Prawomocne orzeczenie o rozwodzie, unieważnieniu małżeństwa, o separacji i o zniesieniu separacji stanowi podstawę wpisania wzmianki dodatkowej do aktu małżeństwa.
-” ;
+Prawomocne orzeczenie o rozwodzie, unieważnieniu małżeństwa, o separacji i o zniesieniu separacji stanowi podstawę wpisania wzmianki dodatkowej do aktu małżeństwa. ” ;
 3)
 w art. 82 w pkt 2 wyrazy „, rozwodu lub unieważnienia małżeństwa – adnotację o ustaniu lub unieważnieniu małżeństwa wraz z oznaczeniem aktu zgonu lub sygnatury akt sprawy, w której orzeczono o rozwodzie lub unieważnieniu małżeństwa,” zastępuje się wyrazami „albo rozwodu, zostało unieważnione, orzeczona została separacja oraz jej zniesienie – adnotację o ustaniu małżeństwa, jego unieważnieniu, o separacji oraz o zniesieniu separacji, wraz z oznaczeniem aktu zgonu lub sygnatury akt sprawy, w której orzeczono o rozwodzie, unieważnieniu małżeństwa, o separacji oraz o zniesieniu separacji,”.
 
@@ -52,7 +51,7 @@ w art. 82 w pkt 2 wyrazy „, rozwodu lub unieważnienia małżeństwa – adnot
 
 - **3)** po dziale IV tytułu I dodaje się dział V w brzmieniu: „
 
-### Dział V. Separacja
+### Dział V.
 
 **Art. 611.**
 
@@ -115,7 +114,7 @@ w art. 82 w pkt 2 wyrazy „, rozwodu lub unieważnienia małżeństwa – adnot
 - **2)** w art. 432 w zdaniu pierwszym po wyrazach „sprawie o rozwód” dodaje się wyrazy „lub o separację”;
 - **3)** tytuł rozdziału 2 działu I tytułu VII księgi pierwszej części pierwszej otrzymuje brzmienie: „
 
-#### Rozdział 2. Sprawy o rozwód i o separację”;
+#### Rozdział 2.
 
 **Art. 439.**
 
@@ -166,7 +165,7 @@ w art. 82 w pkt 2 wyrazy „, rozwodu lub unieważnienia małżeństwa – adnot
 
 - **1)** tytuł rozdziału 6 otrzymuje brzmienie: „
 
-#### Rozdział 6. Zawieranie małżeństw i akt małżeństwa”;
+#### Rozdział 6.
 
 **Art. 7.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 marca 2017 r. w sprawie szczegółowych warunków przyznawania pomocy finansowej w ramach poddziałania „Wsparcie dla szkolenia doradców” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz warunków i trybu jej wypłaty
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 marca 2017 r. w sprawie szczegółowych warunków przyznawania pomocy finansowej w ramach poddziałania „Wsparcie dla szkolenia doradców” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz warunków i trybu jej wypłaty Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-21 |
 | Data wydania | 2017-03-27 |
-| Wejście w życie | 2017-03-28 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000642) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/642/text.pdf) |
 
@@ -43,7 +42,7 @@ przypadki, w których następcy prawnemu beneficjenta albo nabywcy przedsiębior
 § 2.
 Poddziałanie, o którym mowa w § 1, jest wdrażane na terytorium Rzeczypospolitej Polskiej.
 § 3.
-Pomoc, o której mowa w § 1, zwana dalej „pomocą”, jest przyznawana dostawcy szkolenia, o którym mowa w art. 15 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.) , zwanego dalej „rozporządzeniem nr 1305/2013”, na operację polegającą na organizacji i przeprowadzeniu szkoleń dla osób zajmujących się zawodowo doradzaniem rolnikom lub właścicielom lasów, zwanych dalej „doradcami”.
+Pomoc, o której mowa w § 1, zwana dalej „pomocą”, jest przyznawana dostawcy szkolenia, o którym mowa w art. 15 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 i Dz. Urz. UE L 130 z 19.05.2016, str. 1.) , zwanego dalej „rozporządzeniem nr 1305/2013”, na operację polegającą na organizacji i przeprowadzeniu szkoleń dla osób zajmujących się zawodowo doradzaniem rolnikom lub właścicielom lasów, zwanych dalej „doradcami”.
 § 4.
 O pomoc może ubiegać się dostawca szkolenia, o którym mowa w art. 15 ust. 2 rozporządzenia nr 1305/2013, zwany dalej „dostawcą szkolenia”, który:
 1)
@@ -79,8 +78,7 @@ liczebność pojedynczej grupy doradców, którzy będą uczestniczyć w szkolen
 f)
 formę przeprowadzanych szkoleń,
 g)
-wskazanie wyposażenia bazy dydaktyczno-lokalowej, w tym miejsc, w których będą odbywać się zajęcia praktyczne, jeżeli program szkolenia przewiduje realizację takich zajęć w ramach operacji
-w odniesieniu do każdego z zakresów tematycznych szkoleń objętych operacją.
+wskazanie wyposażenia bazy dydaktyczno-lokalowej, w tym miejsc, w których będą odbywać się zajęcia praktyczne, jeżeli program szkolenia przewiduje realizację takich zajęć w ramach operacji – w odniesieniu do każdego z zakresów tematycznych szkoleń objętych operacją.
 § 6.
 1.
 Pomocą mogą być objęte koszty niezbędne do realizacji operacji, obejmujące:
@@ -127,7 +125,7 @@ usług prawnych.
 2.
 Pośrednie koszty operacji, o których mowa w ust. 1 pkt 2, mogą być objęte pomocą w wysokości nieprzekraczającej 10% sumy kwalifikowalnych bezpośrednich kosztów operacji, o których mowa w ust. 1 pkt 1.
 3.
-W przypadku gdy wysokość kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, określonych w ust. 1 pkt 1, przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, o której mowa w art. 48 ust. 2 lit. e rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.), przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
+W przypadku gdy wysokość kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, określonych w ust. 1 pkt 1, przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, o której mowa w art. 48 ust. 2 lit. e rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50.), przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
 § 7.
 1.
 Pomoc jest przyznawana w formie:
@@ -136,12 +134,12 @@ refundacji bezpośrednich kosztów operacji, o których mowa w § 6 ust. 1 pkt 1
 2)
 ryczałtu – w przypadku pośrednich kosztów operacji, o których mowa w § 6 ust. 1 pkt 2.
 2.
-Do kosztów kwalifikowalnych zalicza się także podatek od towarów i usług (VAT) na zasadach określonych w art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.).
+Do kosztów kwalifikowalnych zalicza się także podatek od towarów i usług (VAT) na zasadach określonych w art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34.).
 3.
 Do kosztów kwalifikowalnych nie zalicza się kosztów poniesionych w związku z udziałem w szkoleniu osoby będącej wykładowcą w ramach danej operacji jako uczestnika szkolenia.
 § 8.
 1.
-Pomoc przyznaje się przy zastosowaniu kryteriów wyboru operacji określonych w przepisach ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.) dotyczących kryteriów oceny ofert.
+Pomoc przyznaje się przy zastosowaniu kryteriów wyboru operacji określonych w przepisach ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260.) dotyczących kryteriów oceny ofert.
 2.
 Pomoc przyznaje się dostawcy szkolenia, którego oferta uzyskała najwyższą liczbę punktów.
 § 9.
@@ -174,7 +172,7 @@ w przypadku, o którym mowa w lit. a, do kosztów kwalifikowalnych nie zalicza s
 11)
 badania opinii doradców, którzy będą uczestniczyć w szkoleniach, na temat jakości szkolenia, w którym brali udział, i wykładowców, którzy je prowadzili;
 12)
-przestrzegania obowiązków beneficjenta wynikających z załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.).
+przestrzegania obowiązków beneficjenta wynikających z załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5.).
 2.
 Umowa zawiera również wykaz oraz wzory dokumentów, które należy przedstawić w celu potwierdzenia zrealizowania operacji.
 3.
@@ -214,7 +212,7 @@ Pośrednie koszty operacji, o których mowa w § 6 ust. 1 pkt 2, w stosunku do k
 5.
 Koszty uczestnictwa każdego z doradców, którzy będą uczestniczyć w każdym ze szkoleń realizowanych w ramach Programu, podlegają sumowaniu, a suma tych kosztów nie może przekroczyć równowartości 200 000 euro za trzy lata szkolenia doradców w odniesieniu do wszystkich doradców reprezentujących jeden podmiot doradczy.
 6.
-Pomoc jest wypłacana w złotych, a jej przeliczenie następuje zgodnie z zasadami określonymi w art. 34 ust. 1 rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.).
+Pomoc jest wypłacana w złotych, a jej przeliczenie następuje zgodnie z zasadami określonymi w art. 34 ust. 1 rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 i Dz. Urz. UE L 5 z 10.01.2017, str. 11.).
 § 12.
 1.
 Wniosek o płatność składa się w Centrali Agencji.
@@ -317,6 +315,5 @@ W przypadku beneficjentów wspólnie realizujących operację, pomoc może być 
 § 17.
 Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie o przyznanie pomocy i wypłatę środków finansowych z tytułu pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
 § 18.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 i Dz. Urz. UE L 130 z 19.05.2016, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 i Dz. Urz. UE L 5 z 10.01.2017, str. 11.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8 i Dz. Urz. UE L 130 z 19.05.2016, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33 i Dz. Urz. UE L 308 z 16.11.2016, str. 5. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 i Dz. Urz. UE L 5 z 10.01.2017, str. 11.
 

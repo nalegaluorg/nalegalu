@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-29 |
 | Data wydania | 2018-11-30 |
-| Wejście w życie | 2018-12-01 |
 | Ostatnia zmiana | 2026-03-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002249) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2249/text.pdf) |
 
@@ -95,5 +94,5 @@ Wniosek o przyznanie zapomogi składa się do komórki kadrowej w jednostce orga
 § 6.
 Nagrody uznaniowe i zapomogi wypłaca niezwłocznie jednostka organizacyjna właściwa w sprawach wypłaty uposażenia funkcjonariusza.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 października 2015 r. w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1786), które traci moc na podstawie art. 16 ust. 1 ustawy z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 912). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 22 października 2015 r. w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1786), które traci moc na podstawie art. 16 ust. 1 ustawy z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 912).
 

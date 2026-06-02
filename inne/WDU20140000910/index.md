@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-01 |
 | Data wydania | 2014-07-09 |
-| Wejście w życie | 2014-07-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000910) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/910/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 49 ust. 3 pkt 1 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 49 ust. 3 pkt 1 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622, Nr 224, poz. 1337, z 2013 r. poz. 628 i 1247 oraz z 2014 r. poz. 222.) zarządza się, co następuje:
 § 1.
 Państwowe Gospodarstwo Leśne Lasy Państwowe, zwane dalej „Lasami Państwowymi”, współdziała z Policją w zakresie:
 1)
@@ -107,5 +106,5 @@ przekazywaniu jednostkom organizacyjnym Lasów Państwowych przez Policję infor
 8)
 udostępnianiu Policji przez jednostki organizacyjne Lasów Państwowych szczegółowych map leśnych oraz udzielaniu informacji o fizjografii terenów leśnych.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 15 września 1992 r. w sprawie szczegółowych zasad współdziałania Lasów Państwowych z Policją (Dz. U. Nr 78, poz. 397), które utraciło moc na podstawie art. 83 pkt 3 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628 i 1165 oraz z 2014 r. poz. 24). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622, Nr 224, poz. 1337, z 2013 r. poz. 628 i 1247 oraz z 2014 r. poz. 222. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 15 września 1992 r. w sprawie szczegółowych zasad współdziałania Lasów Państwowych z Policją (Dz. U. Nr 78, poz. 397), które utraciło moc na podstawie art. 83 pkt 3 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628 i 1165 oraz z 2014 r. poz. 24).
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-07 |
 | Data wydania | 2008-11-28 |
-| Wejście w życie | 2008-12-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082101321) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1321/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów (Dz. U. z 2001 r. Nr 5, poz. 42, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów (Dz. U. z 2001 r. Nr 5, poz. 42, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 221, Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 124, poz. 1152 i Nr 190, poz. 1864, z 2004 r. Nr 141, poz. 1492 oraz z 2005 r. Nr 150, poz. 1247.) wprowadza się następujące zmiany:
 
 - **1)** po art. 4 dodaje się art. 4a w brzmieniu: „
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 1. Ilekroć w ustawie jest mowa o państwach członkowskich rozumie się przez to państwa członkowskie Unii Europejskiej, Konfederację Szwajcarską oraz państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
-2. Ilekroć w ustawie jest mowa o obywatelach państw członkowskich rozumie się przez to obywateli państw członkowskich, o których mowa w ust. 1, a także członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043 oraz z 2007 r. Nr 120, poz. 818) oraz obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego Wspólnot Europejskich w rozumieniu przepisów ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm.). ” ;
+2. Ilekroć w ustawie jest mowa o obywatelach państw członkowskich rozumie się przez to obywateli państw członkowskich, o których mowa w ust. 1, a także członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043 oraz z 2007 r. Nr 120, poz. 818) oraz obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego Wspólnot Europejskich w rozumieniu przepisów ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 70, poz. 416 i Nr 180, poz. 1112.). ” ;
 
 - **2)** w art. 5: w ust. 1 dodaje się pkt 3 w brzmieniu: „
     - **a)**
@@ -150,7 +149,7 @@ source: "eli-html"
 
 3. Przepisy, o których mowa w ust. 1, mają zastosowanie również w przypadku wniosku w sprawie uznania kwalifikacji obywatela państwa członkowskiego nabytych na terytorium państwa innego niż państwo członkowskie. ” .
 
-**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844 oraz z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227 i Nr 206, poz. 1287.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12 dodaje się ust. 9 w brzmieniu: „
 
@@ -165,8 +164,11 @@ source: "eli-html"
 
 1a. Dopuszcza się przekazanie protokołu organowi wyższego stopnia w formie elektronicznej. W takim przypadku sporządza się dwa egzemplarze protokołu. ” ;
 
-- **5)** w art. 82b: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) prowadzą rejestr wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę i przekazują do organu wyższego stopnia wprowadzone do niego dane, z zastrzeżeniem pkt 1a; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) prowadzą odrębny rejestr wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę dotyczących terenów zamkniętych; ” , ust. 2–5 otrzymują brzmienie: „
+- **5)** w art. 82b: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** prowadzą rejestr wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę i przekazują do organu wyższego stopnia wprowadzone do niego dane, z zastrzeżeniem pkt 1a; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** prowadzą odrębny rejestr wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę dotyczących terenów zamkniętych; ” , ust. 2–5 otrzymują brzmienie: „
     - **b)**
 
 2. Rejestr, o którym mowa w ust. 1 pkt 1, prowadzony jest w formie elektronicznej. Dane wprowadza się do rejestru i przesyła drogą elektroniczną do organu wyższego stopnia na bieżąco.
@@ -237,5 +239,5 @@ source: "eli-html"
 
 2. Informacja o karze z tytułu odpowiedzialności zawodowej, orzeczonej decyzją, o której mowa w ust. 1, podlega wpisowi do centralnego rejestru ukaranych. ” .
 
-**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 12c, art. 82b ust. 4 i art. 88a ust. 6 ustawy, o której mowa w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 5 ust. 5 ustawy, o której mowa w art. 1, oraz art. 82b ust. 4 i art. 88a ust. 6 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez dwa miesiące od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 12c, art. 82b ust. 4 i art. 88a ust. 6 ustawy, o której mowa w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 5 ust. 5 ustawy, o której mowa w art. 1, oraz art. 82b ust. 4 i art. 88a ust. 6 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez dwa miesiące od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 221, Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 124, poz. 1152 i Nr 190, poz. 1864, z 2004 r. Nr 141, poz. 1492 oraz z 2005 r. Nr 150, poz. 1247. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 70, poz. 416 i Nr 180, poz. 1112. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844 oraz z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227 i Nr 206, poz. 1287.
 

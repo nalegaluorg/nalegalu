@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 lipca 2006 r. o zmianie ustawy o Narodowym Planie Rozwoju oraz niektórych innych ustaw
+# Ustawa z dnia 13 lipca 2006 r. o zmianie ustawy o Narodowym Planie Rozwoju oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-07-13 |
 | Data wydania | 2006-08-22 |
-| Wejście w życie | 2006-09-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061491074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1074/text.pdf) |
+
+Kontrola realizacji projektów i programów współfinansowanych z funduszy strukturalnych i Funduszu Spójności
 
 **Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206 oraz z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251) wprowadza się następujące zmiany:
 
@@ -79,7 +80,7 @@ source: "eli-html"
 
 1. Instytucja zarządzająca albo zarząd województwa mogą dokonać wyboru instytucji wdrażających niebędących jednostkami sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 30 czerwca 2005 r. o finansach publicznych.
 
-2. Do wyboru instytucji, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. Nr 19, poz. 177, z późn. zm.). ” ;
+2. Do wyboru instytucji, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. Nr 19, poz. 177, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1207, Nr 145, poz. 1537 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 184, poz. 1539 oraz z 2006 r. Nr 79, poz. 551 i Nr 106, poz. 719.). ” ;
 
 - **11)** uchyla się art. 23;
 - **12)** art. 25 otrzymuje brzmienie: „
@@ -166,7 +167,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **3)** przedstawiciele partnerów społecznych i gospodarczych: organizacji pracowników i organizacji pracodawców wyłonionych na podstawie ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.), organizacji pozarządowych – wskazanych przez Radę Działalności Pożytku Publicznego, środowiska naukowego – wskazanych przez Radę Główną Szkolnictwa Wyższego.
+- **3)** przedstawiciele partnerów społecznych i gospodarczych: organizacji pracowników i organizacji pracodawców wyłonionych na podstawie ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407.), organizacji pozarządowych – wskazanych przez Radę Działalności Pożytku Publicznego, środowiska naukowego – wskazanych przez Radę Główną Szkolnictwa Wyższego.
     - **a)**
     - **b)**
     - **c)**
@@ -241,7 +242,7 @@ source: "eli-html"
 2. Minister właściwy do spraw rozwoju regionalnego określi, w drodze rozporządzenia:
 
 - **1)** tryb, terminy i zakres sprawozdawczości dotyczącej realizacji Planu w odniesieniu do projektów, działań i programów, o których mowa w art. 8 ust. 1 pkt 1–3,
-- **2)** tryb i zakres rozliczeń w odniesieniu do projektów, działań i programów, o których mowa w art. 8 ust. 1 pkt 1–3 mając na uwadze efektywne i skuteczne wykorzystanie środków służących realizacji Planu.
+- **2)** tryb i zakres rozliczeń w odniesieniu do projektów, działań i programów, o których mowa w art. 8 ust. 1 pkt 1–3 – mając na uwadze efektywne i skuteczne wykorzystanie środków służących realizacji Planu.
 
 3. Sprawozdanie, o którym mowa w ust. 1 pkt 6, powinno zawierać w szczególności:
 
@@ -274,7 +275,7 @@ source: "eli-html"
 
 - **23)** rozdział 9 otrzymuje brzmienie: „
 
-#### Rozdział 9 Kontrola realizacji projektów i programów współfinansowanych z funduszy strukturalnych i Funduszu Spójności
+#### Rozdział 9
 
 **Art. 50.** Kontrolę programów i projektów współfinansowanych z funduszy strukturalnych lub Funduszu Spójności wykonują instytucje, o których mowa w art. 2 pkt 2 i pkt 4a-5.
 
@@ -371,7 +372,7 @@ source: "eli-html"
 
 - **28)** użyte w art. 12, art. 13 ust. 1, art. 14 ust. 1- 3, art. 15 ust. 1, art. 17, art. 38 ust. 2, art. 39 ust. 1–3 i 11, art. 44 ust. 2, art. 57 ust. 4, art. 59 ust. 2 w różnym przypadku wyrazy „minister właściwy do spraw rozwoju regionalnego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Instytucja Zarządzająca Podstawami Wsparcia Wspólnoty”.
 
-**Art. 2.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824, z 2004 r. Nr 145, poz. 1537 i Nr 281, poz. 2785 oraz z 2005 r. Nr 132, poz. 1110, Nr 179, poz. 1484 i Nr 249, poz. 2104.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 ust. 1 otrzymuje brzmienie: „
 
@@ -390,7 +391,7 @@ source: "eli-html"
 - **3)** w art. 13: ust. 3 otrzymuje brzmienie: „
     - **a)**
 
-3. Minister właściwy do spraw gospodarki, na wniosek ministra właściwego do spraw pracy, powołuje 2 członków Rady; we wniosku minister właściwy do spraw pracy uwzględnia kandydata spośród osób zgłoszonych przez organizacje pracodawców reprezentatywne w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.). ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+3. Minister właściwy do spraw gospodarki, na wniosek ministra właściwego do spraw pracy, powołuje 2 członków Rady; we wniosku minister właściwy do spraw pracy uwzględnia kandydata spośród osób zgłoszonych przez organizacje pracodawców reprezentatywne w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407.). ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
 - **b)**
 
@@ -405,7 +406,7 @@ source: "eli-html"
 
 6a. Minister właściwy do spraw gospodarki przed dokonaniem czynności, o których mowa w ust. 5, 5a i 6, zasięga opinii ministra właściwego do spraw pracy, ministra właściwego do spraw rozwoju regionalnego i ministra właściwego do spraw finansów publicznych. Minister właściwy do spraw pracy, minister właściwy do spraw rozwoju regionalnego i minister właściwy do spraw finansów publicznych przedstawiają swoje opinie w terminie 7 dni. ” .
 
-**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788, Nr 164, poz. 1366, Nr 175, poz. 1462 i Nr 267, poz. 2257 oraz z 2006 r. Nr 94, poz. 651, Nr 104, poz. 708 i 711 i Nr 144, poz. 1043.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1 pkt 6 otrzymuje brzmienie: „
 - **6)** wykonywanie we współpracy z ministrem właściwym do spraw rozwoju regionalnego zadań wynikających z programów współfinansowanych ze środków Europejskiego Funduszu Społecznego w zakresie należącym do kompetencji ministra właściwego do spraw pracy; ” ;
@@ -463,5 +464,5 @@ source: "eli-html"
 
 **Art. 10.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy mają zastosowanie przepisy dotychczasowe.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1207, Nr 145, poz. 1537 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 184, poz. 1539 oraz z 2006 r. Nr 79, poz. 551 i Nr 106, poz. 719. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824, z 2004 r. Nr 145, poz. 1537 i Nr 281, poz. 2785 oraz z 2005 r. Nr 132, poz. 1110, Nr 179, poz. 1484 i Nr 249, poz. 2104. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788, Nr 164, poz. 1366, Nr 175, poz. 1462 i Nr 267, poz. 2257 oraz z 2006 r. Nr 94, poz. 651, Nr 104, poz. 708 i 711 i Nr 144, poz. 1043.
 

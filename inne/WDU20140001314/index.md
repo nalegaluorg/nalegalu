@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-25 |
 | Data wydania | 2014-10-01 |
-| Wejście w życie | 2014-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001314) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1314/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 110b ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.) zarządza się, co następuje:
+Na podstawie art. 110b ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -140,5 +139,5 @@ Wysokość funduszu, niezależnie od zwiększenia, o którym mowa w art. 121g us
 2.
 Środki wyodrębnione w trybie określonym w § 8 ust. 3 i 4 mogą być podwyższane, na warunkach określonych w ust. 1, odpowiednio przez Komendanta Głównego Policji i właściwego terytorialnie komendanta wojewódzkiego Policji lub Komendanta Stołecznego Policji.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 9 października 2014 r.
+Rozporządzenie wchodzi w życie z dniem 9 października 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 grudnia 2006 r. w sprawie przyznawania policjantom nagród i zapomóg, a także sposobu tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. Nr 251, poz. 1859), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 17 pkt 1 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 grudnia 2006 r. w sprawie przyznawania policjantom nagród i zapomóg, a także sposobu tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. Nr 251, poz. 1859), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 17 pkt 1 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502).
 

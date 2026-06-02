@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 sierpnia 2021 r. o kasach zapomogowo-pożyczkowych
+# Ustawa z dnia 11 sierpnia 2021 r. o kasach zapomogowo-pożyczkowych Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 23 maja 1991 r. o związkach zawodowych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych, ustawę z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych oraz ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,38 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-11 |
 | Data wydania | 2021-09-10 |
-| Wejście w życie | 2021-10-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001666) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1666/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Przepisy ogólne
+Członkowie KZP oraz ich prawa i obowiązki
+Statut i organy KZP
+Gospodarka finansowa KZP
+Likwidacja KZP
+Rachunkowość KZP
+Przepisy karne
+Zmiany w przepisach
+Przepisy przejściowe, dostosowujące i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Członkowie KZP oraz ich prawa i obowiązki
+
+#### Rozdział 3 – Statut i organy KZP
+
+#### Rozdział 4 – Gospodarka finansowa KZP
+
+#### Rozdział 5 – Likwidacja KZP
+
+#### Rozdział 6 – Rachunkowość KZP
+
+#### Rozdział 7 – Przepisy karne
+
+#### Rozdział 8 – Zmiany w przepisach
+
+#### Rozdział 9 – Przepisy przejściowe, dostosowujące i przepis końcowy
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady tworzenia, organizowania i działania u pracodawcy kasy zapomogowo-pożyczkowej, zwanej dalej „KZP”, oraz jej likwidacji.
 
@@ -35,7 +62,7 @@ source: "eli-html"
 - **1)** osobie wykonującej pracę zarobkową – należy przez to rozumieć osobę wykonującą pracę zarobkową w rozumieniu art. 11pkt 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263);
 - **2)** pracodawcy – należy przez to rozumieć pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162), a także osobę fizyczną, osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną i do której stosuje się odpowiednio przepisy o osobach prawnych, jeżeli zatrudniają one inną niż pracownik osobę wykonującą pracę zarobkową;
 - **3)** wkładzie członkowskim – należy przez to rozumieć sumę zgromadzonych przez członka KZP miesięcznych wkładów członkowskich;
-- **4)** zasiłku – należy przez to rozumieć zasiłek lub świadczenie rehabilitacyjne z: ubezpieczenia w razie choroby i macierzyństwa, o których mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2021 r. poz. 1133 i 1621), ubezpieczenia z tytułu wypadków przy pracy i chorób zawodowych, o których mowa w ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2019 r. poz. 1205 oraz z 2021 r. poz. 1621) wypłacane przez pracodawcę i podlegające rozliczeniu w ciężar składek na ubezpieczenia społeczne.
+- **4)** zasiłku – należy przez to rozumieć zasiłek lub świadczenie rehabilitacyjne z: ubezpieczenia w razie choroby i macierzyństwa, o których mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2021 r. poz. 1133 i 1621), ubezpieczenia z tytułu wypadków przy pracy i chorób zawodowych, o których mowa w ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2019 r. poz. 1205 oraz z 2021 r. poz. 1621) – wypłacane przez pracodawcę i podlegające rozliczeniu w ciężar składek na ubezpieczenia społeczne.
     - **a)**
     - **b)**
 
@@ -78,7 +105,7 @@ source: "eli-html"
 
 3. Umowa, o której mowa w ust. 2, może określać zasady wykonywania czynności podejmowanych u pracodawcy przez członków KZP w związku z realizacją ich obowiązków w zarządzie i komisji rewizyjnej.
 
-#### Rozdział 2 Członkowie KZP oraz ich prawa i obowiązki
+#### Rozdział 2
 
 **Art. 7.**
 
@@ -182,7 +209,7 @@ source: "eli-html"
 
 4. Wkład członkowski albo udział we wkładzie członkowskim wypłacony osobie uprawnionej nie wchodzi do spadku po członku KZP.
 
-#### Rozdział 3 Statut i organy KZP
+#### Rozdział 3
 
 **Art. 15.**
 
@@ -235,7 +262,7 @@ source: "eli-html"
 
 3. Zarząd i komisja rewizyjna działają do dnia pierwszego posiedzenia nowo wybranego zarządu i komisji rewizyjnej.
 
-4. Jeżeli kadencja zarządu i komisji rewizyjnej upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, z późn. zm.), lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru tych organów na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
+4. Jeżeli kadencja zarządu i komisji rewizyjnej upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112 i 2401 oraz z 2021 r. poz. 159, 180, 255, 616 i 981.), lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru tych organów na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
 
 5. Członkiem zarządu lub komisji rewizyjnej nie może być osoba, która została skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. W razie skazania członka zarządu lub komisji rewizyjnej za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe w trakcie kadencji, walne zebranie członków odwołuje członka z pełnionej funkcji.
 
@@ -346,7 +373,7 @@ source: "eli-html"
 
 **Art. 29.** Jeżeli komisja rewizyjna stwierdzi, że zarząd w swojej działalności finansowej nie przestrzega przepisów prawa lub że działalność zarządu jest sprzeczna z postanowieniami statutu KZP lub zasadami współżycia społecznego, występuje z żądaniem zwołania, w trybie natychmiastowym, nadzwyczajnego walnego zebrania członków, podczas którego składa wniosek o odwołanie zarządu.
 
-#### Rozdział 4 Gospodarka finansowa KZP
+#### Rozdział 4
 
 **Art. 30.** Na środki finansowe KZP składają się następujące fundusze:
 
@@ -457,7 +484,7 @@ source: "eli-html"
 
 10. Zarząd dokonuje przeglądu danych osobowych, o których mowa w ust. 2, nie rzadziej niż raz w roku kalendarzowym w celu ustalenia niezbędności ich dalszego przechowywania. Zarząd usuwa dane osobowe, których dalsze przechowywanie jest zbędne do realizacji celu określonego w ust. 1.
 
-#### Rozdział 5 Likwidacja KZP
+#### Rozdział 5
 
 **Art. 44.**
 
@@ -497,7 +524,7 @@ source: "eli-html"
 
 **Art. 48.** Likwidacja KZP powinna być zakończona nie później niż do upływu okresu likwidacji pracodawcy.
 
-#### Rozdział 6 Rachunkowość KZP
+#### Rozdział 6
 
 **Art. 49.**
 
@@ -517,19 +544,19 @@ source: "eli-html"
 - **2)** komisja rewizyjna po przeprowadzeniu kontroli działalności KZP, z której protokół dołącza się do sprawozdania finansowego;
 - **3)** osoba, której powierzono prowadzenie ksiąg rachunkowych.
 
-#### Rozdział 7 Przepisy karne
+#### Rozdział 7
 
 **Art. 52.** Kto uniemożliwia podjęcie uchwały o likwidacji KZP w razie ogłoszenia upadłości lub likwidacji pracodawcy lub w razie zmniejszenia się liczby członków KZP poniżej 10, podlega karze grzywny.
 
 **Art. 53.** Orzekanie w sprawach o czyny, o których mowa w art. 52, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2021 r. poz. 457, 1005 i 1595).
 
-#### Rozdział 8 Zmiany w przepisach
+#### Rozdział 8
 
-**Art. 54.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r. poz. 1575, z późn. zm.) w art. 833 dodaje się § 9 w brzmieniu: „
+**Art. 54.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r. poz. 1575, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1578 i 2320 oraz z 2021 r. poz. 11, 1090, 1177 i 1655.) w art. 833 dodaje się § 9 w brzmieniu: „
 
 § 9. Nie podlegają egzekucji zapomogi udzielone na podstawie ustawy z dnia 11 sierpnia 2021 r. o kasach zapomogowo-pożyczkowych (Dz. U. poz. 1666). ” .
 
-**Art. 55.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427, z późn. zm.) w art. 10 dodaje się § 7 w brzmieniu: „
+**Art. 55.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492 i 2320 oraz z 2021 r. poz. 11, 41, 802, 1005, 1177 i 1236.) w art. 10 dodaje się § 7 w brzmieniu: „
 
 § 7. Nie podlegają egzekucji zapomogi udzielone na podstawie ustawy z dnia 11 sierpnia 2021 r. o kasach zapomogowo-pożyczkowych (Dz. U. poz. 1666). ” .
 
@@ -539,11 +566,11 @@ source: "eli-html"
 - **2)** pracodawcy – należy przez to rozumieć pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162), a także osobę fizyczną, osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną i do której stosuje się odpowiednio przepisy o osobach prawnych, jeżeli zatrudniają one inną niż pracownik osobę wykonującą pracę zarobkową; ” ;
 - **2)** uchyla się art. 39.
 
-**Art. 57.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.) w art. 6 w ust. 1 w pkt 22 kropkę zastępuje się średnikiem i dodaje się pkt 23 w brzmieniu: „
+**Art. 57.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163, 1243 i 1598.) w art. 6 w ust. 1 w pkt 22 kropkę zastępuje się średnikiem i dodaje się pkt 23 w brzmieniu: „
 
 - **23)** kasy zapomogowo-pożyczkowe, o których mowa w ustawie z dnia 11 sierpnia 2021 r. o kasach zapomogowo-pożyczkowych (Dz. U. poz. 1666). ” .
 
-**Art. 58.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.) w art. 49 w ust. 3 pkt 3 otrzymuje brzmienie: „
+**Art. 58.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320 i 2419 oraz z 2021 r. poz. 432, 680, 815, 1177, 1598 i 1626.) w art. 49 w ust. 3 pkt 3 otrzymuje brzmienie: „
 
 - **3)** kas zapomogowo-pożyczkowych; ” .
 
@@ -562,7 +589,7 @@ z kas lub funduszów zakładowych, funduszów związków zawodowych, kas zapomog
 - **2)** w art. 22 w ust. 2 pkt 3 otrzymuje brzmienie: „
 - **3)** w przypadku jednostek organizacyjnych niebędących osobami prawnymi, którym odrębna ustawa przyznaje zdolność prawną, szkolnych kas oszczędnościowych i kas zapomogowo-pożyczkowych – nazwy, formy organizacyjnej, siedziby, adresu i numeru z właściwego rejestru, o ile dotyczy. ” .
 
-#### Rozdział 9 Przepisy przejściowe, dostosowujące i przepis końcowy
+#### Rozdział 9
 
 **Art. 62.** Kasa zapomogowo-pożyczkowa działająca na podstawie art. 39 ustawy zmienianej w art. 56, w brzmieniu dotychczasowym, z dniem wejścia w życie ustawy staje się KZP.
 
@@ -576,5 +603,5 @@ z kas lub funduszów zakładowych, funduszów związków zawodowych, kas zapomog
 
 **Art. 67.** KZP w terminie 18 miesięcy od dnia wejścia w życie ustawy dostosuje swój statut do zmian z niej wynikających.
 
-**Art. 68.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 68.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 23 maja 1991 r. o związkach zawodowych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych, ustawę z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych oraz ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112 i 2401 oraz z 2021 r. poz. 159, 180, 255, 616 i 981. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1578 i 2320 oraz z 2021 r. poz. 11, 1090, 1177 i 1655. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492 i 2320 oraz z 2021 r. poz. 11, 41, 802, 1005, 1177 i 1236. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163, 1243 i 1598. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320 i 2419 oraz z 2021 r. poz. 432, 680, 815, 1177, 1598 i 1626.
 

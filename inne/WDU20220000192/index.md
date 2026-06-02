@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 24 stycznia 2022 r. zmieniające rozporządzenie w sprawie Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym
+# Rozporządzenie Ministra Zdrowiaz dnia 24 stycznia 2022 r. zmieniające rozporządzenie w sprawie Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-24 |
 | Data wydania | 2022-01-27 |
-| Wejście w życie | 2022-02-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000192) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/192/text.pdf) |
 
@@ -31,22 +30,17 @@ Na podstawie art. 8 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec os�
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 16 stycznia 2014 r. w sprawie Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym (Dz. U. z 2020 r. poz. 137) wprowadza się następujące zmiany:
 1)
-w § 2 dodaje się ust. 4 w brzmieniu:
-„
+w § 2 dodaje się ust. 4 w brzmieniu: „
 4.
-Liczba łóżek w oddziałach zamiejscowych, o których mowa w § 3 ust. 1a, wynosi 40.
-” ;
+Liczba łóżek w oddziałach zamiejscowych, o których mowa w § 3 ust. 1a, wynosi 40. ” ;
 2)
 w § 3:
 a)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Ośrodek posiada oddziały zamiejscowe spełniające wymagania ogólnoprzestrzenne, sanitarne i instalacyjne określone w ust. 6.
-” ,
+Ośrodek posiada oddziały zamiejscowe spełniające wymagania ogólnoprzestrzenne, sanitarne i instalacyjne określone w ust. 6. ” ,
 b)
-dodaje się ust. 6 w brzmieniu:
-„
+dodaje się ust. 6 w brzmieniu: „
 6.
 W oddziałach zamiejscowych, o których mowa w ust. 1a, znajdują się:
 1)
@@ -70,36 +64,27 @@ pokoje i sanitariaty dla personelu, które są wyposażone w:
 a)
 meble i urządzenia zapewniające prawidłowe wykonywanie obowiązków przez personel,
 b)
-okno z szybami pokrytymi folią antywłamaniową atestowaną, klasa P2A, zabezpieczone od zewnątrz kratą i siatką zabezpieczającą przed wyrzucaniem przedmiotów oraz od strony ulicy i budynków publicznych dodatkowo blendą.
-” ;
+okno z szybami pokrytymi folią antywłamaniową atestowaną, klasa P2A, zabezpieczone od zewnątrz kratą i siatką zabezpieczającą przed wyrzucaniem przedmiotów oraz od strony ulicy i budynków publicznych dodatkowo blendą. ” ;
 3)
-w § 4 dodaje się ust. 5 i 6 w brzmieniu:
-„
+w § 4 dodaje się ust. 5 i 6 w brzmieniu: „
 5.
 W oddziałach zamiejscowych zapewnia się warunki zabezpieczenia, o których mowa w ust. 2 pkt 1, 3 i 4 oraz ust. 3, a także drzwi zewnętrzne wyposażone w elektroniczny system sygnalizujący niekontrolowane ich otwarcie uniemożliwiające samowolne oddalenie się osób umieszczonych.
 6.
-W oddziałach zamiejscowych zapewnia się z trzech stron, otoczony, oświetlony, monitorowany za pośrednictwem urządzenia systemu telewizji wewnętrznej mur o wysokości 3 m z dodatkową 2-metrową siatką zakończoną drutem ostrzowym typu concertina, uniemożliwiający samowolne oddalenie się osób umieszczonych. Przed frontem budynku teren jest zabezpieczony 5-metrowym płotem zakończonym drutem ostrzowym typu concertina.
-” ;
+W oddziałach zamiejscowych zapewnia się z trzech stron, otoczony, oświetlony, monitorowany za pośrednictwem urządzenia systemu telewizji wewnętrznej mur o wysokości 3 m z dodatkową 2-metrową siatką zakończoną drutem ostrzowym typu concertina, uniemożliwiający samowolne oddalenie się osób umieszczonych. Przed frontem budynku teren jest zabezpieczony 5-metrowym płotem zakończonym drutem ostrzowym typu concertina. ” ;
 4)
-§ 5 otrzymuje brzmienie:
-„
+§ 5 otrzymuje brzmienie: „
 § 5.
 Ośrodek zapewnia personel:
 1)
 umożliwiający prowadzenie diagnostyki i terapii: psychiatrów, psychologów, pielęgniarki i terapeutów zajęciowych,
 2)
-sanitariuszy, pracowników socjalnych i pracowników służby ochrony
-w liczbie co najmniej 3-krotnie większej niż liczba łóżek odpowiednio w Ośrodku albo oddziale zamiejscowym.
-” ;
+sanitariuszy, pracowników socjalnych i pracowników służby ochrony – w liczbie co najmniej 3-krotnie większej niż liczba łóżek odpowiednio w Ośrodku albo oddziale zamiejscowym. ” ;
 5)
-w § 7 po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w § 7 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-W oddziałach zamiejscowych do przekazywania obrazu z części przeznaczonej do celów sanitarno-higienicznych oraz prysznica, w celu uniemożliwienia przekazywania i utrwalania obrazu z intymnymi częściami ciała osób umieszczonych oraz podczas wykonywania przez nich intymnych czynności fizjologicznych, stosuje się urządzenia systemu telewizji wewnętrznej wyposażone w funkcję maskowania stref prywatności; strefy prywatności określa się podczas montażu tych urządzeń.
-” .
+W oddziałach zamiejscowych do przekazywania obrazu z części przeznaczonej do celów sanitarno-higienicznych oraz prysznica, w celu uniemożliwienia przekazywania i utrwalania obrazu z intymnymi częściami ciała osób umieszczonych oraz podczas wykonywania przez nich intymnych czynności fizjologicznych, stosuje się urządzenia systemu telewizji wewnętrznej wyposażone w funkcję maskowania stref prywatności; strefy prywatności określa się podczas montażu tych urządzeń. ” .
 § 2.
 Oddziały zamiejscowe dostosują warunki zabezpieczenia do wymogów określonych w § 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie do dnia 30 czerwca 2022 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-11 |
 | Data wydania | 2012-07-12 |
-| Wejście w życie | 2012-07-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/806/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 16 ust. 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2009 r. Nr 12, poz. 67, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 16 ust. 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2009 r. Nr 12, poz. 67, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 164, poz. 1108 oraz z 2011 r. Nr 50, poz. 255 i Nr 217, poz. 1280.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. Nr 62, poz. 632, z późn. zm.) w § 1 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się lit. m w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. Nr 62, poz. 632, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2787, z 2006 r. Nr 155, poz. 1108, z 2008 r. Nr 120, poz. 773 oraz z 2011 r. Nr 144, poz. 857.) w § 1 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się lit. m w brzmieniu: „
 m)
-Warszawa/Modlin – ruch osobowy i towarowy.
-” .
+Warszawa/Modlin – ruch osobowy i towarowy. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 164, poz. 1108 oraz z 2011 r. Nr 50, poz. 255 i Nr 217, poz. 1280. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2787, z 2006 r. Nr 155, poz. 1108, z 2008 r. Nr 120, poz. 773 oraz z 2011 r. Nr 144, poz. 857.
 

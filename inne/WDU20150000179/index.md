@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-22 |
 | Data wydania | 2015-02-04 |
-| Wejście w życie | 2015-02-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/179/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 10 ust. 5a ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2011 r. Nr 118, poz. 687, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 10 ust. 5a ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2011 r. Nr 118, poz. 687, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 144, poz. 853, z 2012 r. poz. 951, z 2013 r. poz. 1650 oraz z 2014 r. poz. 1741.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa postępowanie ze zwłokami cudzoziemców umieszczonych w strzeżonym ośrodku lub przebywających w areszcie dla cudzoziemców, w szczególności:
 1)
@@ -89,5 +88,5 @@ W przypadku gdy pochowanie zwłok cudzoziemca zleca strzeżony ośrodek lub ares
 § 8.
 Koszty pochówku zleconego przez strzeżony ośrodek lub areszt dla cudzoziemców, poniesione przez zakład pogrzebowy, pokrywa się ze środków zmarłego cudzoziemca, a gdy ich nie posiada lub są one niewystarczające, koszty te są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Komendanta Głównego Straży Granicznej.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 października 2010 r. w sprawie postępowania ze zwłokami cudzoziemców umieszczonych w strzeżonym ośrodku lub przebywających w areszcie w celu wydalenia (Dz. U. Nr 213, poz. 1405 oraz z 2012 r. poz. 1305), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 520 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463 i 1004). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 144, poz. 853, z 2012 r. poz. 951, z 2013 r. poz. 1650 oraz z 2014 r. poz. 1741. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 października 2010 r. w sprawie postępowania ze zwłokami cudzoziemców umieszczonych w strzeżonym ośrodku lub przebywających w areszcie w celu wydalenia (Dz. U. Nr 213, poz. 1405 oraz z 2012 r. poz. 1305), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 520 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463 i 1004).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-18 |
 | Data wydania | 2018-07-20 |
-| Wejście w życie | 2018-08-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001394) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1394/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Finansów z dnia 7 grudnia 2010 r. w sprawie sposobu 
 1)
 w § 5:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Projekty planów finansowych są sporządzane:
 1)
@@ -44,15 +42,11 @@ w zakresie wydatków w szczegółowości:
 a)
 dział, rozdział, paragraf albo
 b)
-dział, rozdział, grupa paragrafów
-określonej w przepisach o klasyfikacji dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych.
-” ,
+dział, rozdział, grupa paragrafów – określonej w przepisach o klasyfikacji dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych. ” ,
 b)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Zarząd jednostki samorządu terytorialnego dokonuje wyboru poziomu szczegółowości projektów planów finansowych samorządowych jednostek budżetowych, o której mowa w ust. 2 pkt 2, z tym że szczegółowość ta nie może być mniejsza niż szczegółowość planu wydatków budżetu jednostki samorządu terytorialnego.
-” ;
+Zarząd jednostki samorządu terytorialnego dokonuje wyboru poziomu szczegółowości projektów planów finansowych samorządowych jednostek budżetowych, o której mowa w ust. 2 pkt 2, z tym że szczegółowość ta nie może być mniejsza niż szczegółowość planu wydatków budżetu jednostki samorządu terytorialnego. ” ;
 2)
 w § 15 uchyla się ust. 2.
 § 2.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowychz dnia 21 lutego 2024 r. w sprawie dotacji celowej z budżetu państwa przeznaczonej na finansowanie świadczeń socjalnych oraz jednorazowych odpraw pieniężnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego
+# Rozporządzenie Ministra Aktywów Państwowychz dnia 21 lutego 2024 r. w sprawie dotacji celowej z budżetu państwa przeznaczonej na finansowanie świadczeń socjalnych oraz jednorazowych odpraw pieniężnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2724).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-21 |
 | Data wydania | 2024-02-27 |
-| Wejście w życie | 2024-03-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000259) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/259/text.pdf) |
 
@@ -117,6 +116,5 @@ Podmioty, o których mowa w § 2, mogą składać wnioski o dotację nie wcześn
 2.
 Wnioski o dotację złożone przed dniem określonym w ust. 1 pozostawia się bez rozpoznania.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2724).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2724).
 

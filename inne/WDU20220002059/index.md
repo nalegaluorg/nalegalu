@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 12 grudnia 2018 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające (Dz. U. z 2021 r. poz. 1281), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającym rozporządzenie w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające (Dz. U. poz. 1925).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające (Dz. U. poz. 1925), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające (Dz. U. poz. 1925), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.
-” .
-Załącznik – Rozporządzenie Ministra Finansów z dnia 12 grudnia 2018 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r. ” .
+Załącznik – Rozporządzenie Ministra Finansów z dnia 12 grudnia 2018 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniająceMinister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 Na podstawie art. 54 ust. 4 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2022 r. poz. 905) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -62,9 +60,9 @@ b)
 jej imię i nazwisko oraz numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość – w przypadku gdy osoba uprawniona będzie składać wniosek w sposób, o którym mowa w ust. 3;
 2)
 cofnięcia osobie wskazanej zgodnie z pkt 1 uprawnienia do składania wniosku o wpis lub wniosku o zmianę wpisu.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające (Dz. U. poz. 1925), które weszło w życie z dniem 1 listopada 2021 r..
 Złożenie wniosku o wpis lub wniosku o zmianę wpisu następuje po uwierzytelnieniu osoby uprawnionej za pomocą środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797).
-3.
+3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające (Dz. U. poz. 1925), które weszło w życie z dniem 1 listopada 2021 r..
 Osoba uprawniona, która nie posiada danych wymaganych do uzyskania środka identyfikacji elektronicznej, o którym mowa w ust. 2, składa wniosek o wpis lub wniosek o zmianę wpisu w formie pisemnej w postaci wydruku formularza, o którym mowa w § 2 ust. 1, opatrzony własnoręcznym podpisem.
 § 4.
 Wniosek o wpis składa się w odniesieniu do agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające:
@@ -133,6 +131,5 @@ potwierdzenie uiszczenia opłaty skarbowej sporządzone w pliku PDF.
 § 10.
 W odniesieniu do agentów ubezpieczeniowych wpisanych do rejestru agentów na podstawie przepisów dotychczasowych, do których zastosowanie znajdzie art. 3 ust. 1 pkt 1 ustawy, zakład ubezpieczeń składa wniosek o zmianę wpisu w zakresie dotyczącym rodzaju agenta.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 15 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające (Dz. U. poz. 1925), które weszło w życie z dniem 1 listopada 2021 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 września 2014 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych (Dz. U. poz. 1376), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243).
+Rozporządzenie wchodzi w życie z dniem 15 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 września 2014 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych (Dz. U. poz. 1376), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające (Dz. U. poz. 1925), które weszło w życie z dniem 1 listopada 2021 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 września 2014 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych (Dz. U. poz. 1376), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 105 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243).
 

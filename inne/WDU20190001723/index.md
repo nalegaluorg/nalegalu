@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 22 sierpnia 2019 r. zmieniające rozporządzenie w sprawie określenia stopni zagrożenia lawinowego oraz odpowiadających im zaleceń dla ruchu osób
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 22 sierpnia 2019 r. zmieniające rozporządzenie w sprawie określenia stopni zagrożenia lawinowego oraz odpowiadających im zaleceń dla ruchu osób Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 sierpnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1540).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-22 |
 | Data wydania | 2019-09-09 |
-| Wejście w życie | 2019-09-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1723/text.pdf) |
 
@@ -32,7 +31,5 @@ Na podstawie art. 16 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 22 grudnia 2011 r. w sprawie określenia stopni zagrożenia lawinowego oraz odpowiadających im zaleceń dla ruchu osób (Dz. U. poz. 1777) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 sierpnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1540).
-null
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 sierpnia 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1540). null
 

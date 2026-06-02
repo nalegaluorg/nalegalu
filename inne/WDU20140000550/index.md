@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-24 |
 | Data wydania | 2014-04-28 |
-| Wejście w życie | 2014-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/550/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11 ust. 5b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11 ust. 5b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951, z 2013 r. poz. 628, 675, 829, 1351 i 1650 oraz z 2014 r. poz. 463, 486 i 502.) zarządza się, co następuje:
 § 1.
 1.
 Obraz zarejestrowany przy użyciu środków technicznych w pomieszczeniach strzeżonych ośrodków, aresztów dla cudzoziemców lub w pomieszczeniach przeznaczonych dla osób zatrzymanych oraz w innych wykorzystywanych przez Straż Graniczną obiektach i obszarach, zwany dalej „obrazem”, zapisuje się i przechowuje na informatycznym nośniku danych.
@@ -67,5 +66,5 @@ Zapis obrazu zabezpiecza przed utratą, zniekształceniem lub nieuprawnionym uja
 § 4.
 Zapis obrazu, na pisemny wniosek uprawnionego podmiotu, udostępniają na informatycznym nośniku danych kierownik jednostki organizacyjnej Straży Granicznej lub upoważniona przez niego osoba.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 maja 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951, z 2013 r. poz. 628, 675, 829, 1351 i 1650 oraz z 2014 r. poz. 463, 486 i 502.
 

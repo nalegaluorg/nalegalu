@@ -22,11 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-16 |
 | Data wydania | 2013-05-17 |
-| Wejście w życie | 2013-05-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000576) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/576/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Loty próbne Rozdział 3 – Loty akrobacyjne Rozdział 4 – Pokazy lotnicze Rozdział 5 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Loty próbne
+
+#### Rozdział 3 – Loty akrobacyjne
+
+#### Rozdział 4 – Pokazy lotnicze
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
 
 ## Załącznik nr 1 — – Minimalne wysokości i warunki lotu nad publicznością balonów załogowych
 
@@ -37,8 +46,9 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Loty pr
 ## Załącznik nr 4 — – Minimalne warunki atmosferyczne dla statków powietrznych biorących udział w pokazie lotniczym
 
 Treść rozporządzenia
-Na podstawie art. 123 ust. 1f ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Na podstawie art. 123 ust. 1f ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134.) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -54,7 +64,7 @@ dowódca zespołu – osobę wyznaczoną spośród pilotów zespołu statków po
 2)
 dyrektor pokazu lotniczego – osobę odpowiedzialną za zapewnienie, aby operacje lotnicze i działania obsługi technicznej, wykonywane w ramach pokazu lotniczego, były zgodne z przepisami;
 3)
-impreza masowa – imprezę masową w rozumieniu art. 3 pkt 1 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. Nr 62, poz. 504, z późn. zm.);
+impreza masowa – imprezę masową w rozumieniu art. 3 pkt 1 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. Nr 62, poz. 504, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857 i Nr 152, poz. 1021, z 2011 r. Nr 217, poz. 1280 oraz z 2012 r. poz. 951.);
 4)
 kategoria I statków powietrznych – statki powietrzne o napędzie tłokowym, turbinowym albo turbośmigłowym, osiągające podczas pokazów lotniczych maksymalną prędkość lotu poziomego większą niż 450 km/h (240 kt);
 5)
@@ -95,7 +105,8 @@ strefa pokazu lotniczego – wyznaczoną okresowo przestrzeń powietrzną o okre
 ustawa – ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze;
 23)
 wystawa statyczna sprzętu lotniczego – ekspozycję statków powietrznych, w tym biorących udział w pokazie lotniczym, w miejscu wyznaczonym przez organizatora pokazów lotniczych z dostępem dla publiczności.
-Rozdział 2 Loty próbne
+Rozdział 2
+Loty próbne
 § 3.
 Lot próbny nad osiedlem lub innym skupiskiem ludności może być wykonywany, jeżeli są spełnione następujące warunki:
 1)
@@ -106,7 +117,8 @@ po starcie lub przy podejściu do lądowania lub w locie nad lotniskiem nie moż
 wysokość lotu poza lotniskiem gwarantuje bezpieczne wykonanie przymusowego lądowania poza osiedlem lub innym skupiskiem ludności.
 § 4.
 Lot próbny jest organizowany i prowadzony z uwzględnieniem przepisów wydanych na podstawie art. 33 ust. 2 i 3 lub art. 53c ust. 1 i 2 ustawy albo przepisów rozporządzenia Komisji (UE) nr 748/2012 z dnia 3 sierpnia 2012 r. ustanawiającego przepisy wykonawcze dotyczące certyfikacji statków powietrznych i związanych z nimi wyrobów, części i akcesoriów w zakresie zdatności do lotu i ochrony środowiska oraz dotyczące certyfikacji organizacji projektujących i produkujących (Dz. Urz. UE L 224 z 21.08.2012, str. 1, z późn. zm.), z zastrzeżeniem art. 1 ust. 6 ustawy.
-Rozdział 3 Loty akrobacyjne
+Rozdział 3
+Loty akrobacyjne
 § 5.
 1.
 Loty akrobacyjne mogą być wykonywane w strefie lotów akrobacyjnych, w strefie pokazu lotniczego albo poza tymi strefami w przypadkach określonych w ust. 8–11.
@@ -181,7 +193,8 @@ Strefę lotów akrobacyjnych wyznacza:
 zarządzający lotniskiem lub lądowiskiem – w strefie ruchu lotniskowego lub w strefie kontrolowanej lotniska lub lądowiska – po uzgodnieniu z instytucją zapewniającą służby ruchu lotniczego;
 2)
 organizator lotów akrobacyjnych – poza strefą ruchu lotniskowego lub strefą kontrolowaną lotniska lub lądowiska – po powiadomieniu wójta, burmistrza albo prezydenta miasta właściwych ze względu na miejsce usytuowania strefy lotów akrobacyjnych oraz po uzgodnieniu z instytucją zapewniającą służby ruchu lotniczego.
-Rozdział 4 Pokazy lotnicze
+Rozdział 4
+Pokazy lotnicze
 § 7.
 1.
 Pokaz lotniczy odbywa się zgodnie z programem pokazu lotniczego.
@@ -569,8 +582,7 @@ zadań agrolotniczych,
 3)
 desantowania,
 4)
-gaszenia pożaru
-wykonuje się tylko w ramach pokazu lotniczego, o którym mowa w art. 123 ust. 1b ustawy.
+gaszenia pożaru – wykonuje się tylko w ramach pokazu lotniczego, o którym mowa w art. 123 ust. 1b ustawy.
 6.
 Kierownik lotów informuje personel lotniczy uczestniczący w pokazie lotniczym o ustalonych minimalnych wysokościach lotów.
 7.
@@ -654,11 +666,12 @@ Blokowy czas lotu pokazowego obejmuje czas między rozpoczęciem kołowania stat
 Przepisów ust. 1–6 nie stosuje się do załóg statków powietrznych lotnictwa państwowego.
 § 46.
 Organizator pokazu lotniczego przeprowadzanego na terenach będących w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej albo ministrowi właściwemu do spraw wewnętrznych lub przez nich nadzorowanych, zapewnia Prezesowi Urzędu prowadzącemu kontrolę pokazu lotniczego dostęp do obszarów oraz elementów infrastruktury związanych z pokazem lotniczym.
-Rozdział 5 Przepisy przejściowe i końcowe
+Rozdział 5
+Przepisy przejściowe i końcowe
 § 47.
 Do wniosków o wyrażenie zgody na wykonywanie lotów akrobacyjnych na wysokości mniejszej niż 300 m nad poziomem terenu, złożonych przed dniem wejścia w życie rozporządzenia, nie stosuje się przepisu § 5 ust. 4 w zakresie terminu złożenia wniosku.
 § 48.
-Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 22 grudnia 2003 r. w sprawie wyjątków od zakazu wykonywania lotów próbnych i akrobacyjnych nad osiedlami i innymi skupiskami ludności (Dz. U. Nr 230, poz. 2304), które zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) utraciło moc z dniem 19 marca 2013 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857 i Nr 152, poz. 1021, z 2011 r. Nr 217, poz. 1280 oraz z 2012 r. poz. 951. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 22 grudnia 2003 r. w sprawie wyjątków od zakazu wykonywania lotów próbnych i akrobacyjnych nad osiedlami i innymi skupiskami ludności (Dz. U. Nr 230, poz. 2304), które zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) utraciło moc z dniem 19 marca 2013 r.
 
 ## Załącznik nr 1 — – Minimalne wysokości i warunki lotu nad publicznością balonów załogowych
 
@@ -666,7 +679,8 @@ Rodzaj pokazu lotniczego Minimalna wysokość i warunki lotu nad publicznością
 
 ## Załącznik nr 2 — – Minimalne odległości linii pokazu lotniczego od strefy dla publiczności
 
-Minimalna odległość linii pokazu lotniczego od strefy dla publiczności* Kategoria lub typ statku powietrznego Element pokazu lotniczego 450 m kategoria I statków powietrznych lot akrobacyjny 230 m kategoria II statków powietrznych lot akrobacyjny 230 m śmigłowce lot akrobacyjny 150 m kategoria III statków powietrznych wiatrakowce lot akrobacyjny 150 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany lot akrobacyjny 150 m śmigłowce manewrowanie z uwzględnieniem wpływu ziemi 230 m kategoria I statków powietrznych prezentacja w locie 150 m kategoria II statków powietrznych lub kategoria III statków powietrznych prezentacja w locie 100 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany prezentacja w locie 50 m dla statków powietrznych o masie własnej łącznie z paliwem nieprzekraczających 70 kg manewrowanie przy ziemi 50 m spadochrony skok * W przypadku wykonywania lotów grupowych odległość określona w pierwszej kolumnie dotyczy statku powietrznego znajdującego się najbliżej publiczności.
+Minimalna odległość linii pokazu lotniczego od strefy dla publiczności* Kategoria lub typ statku powietrznego Element pokazu lotniczego 450 m kategoria I statków powietrznych lot akrobacyjny 230 m kategoria II statków powietrznych lot akrobacyjny 230 m śmigłowce lot akrobacyjny 150 m kategoria III statków powietrznych wiatrakowce lot akrobacyjny 150 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany lot akrobacyjny 150 m śmigłowce manewrowanie z uwzględnieniem wpływu ziemi 230 m kategoria I statków powietrznych prezentacja w locie 150 m kategoria II statków powietrznych lub kategoria III statków powietrznych prezentacja w locie 100 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany prezentacja w locie 50 m dla statków powietrznych o masie własnej łącznie z paliwem nieprzekraczających 70 kg manewrowanie przy ziemi 50 m spadochrony skok
+* W przypadku wykonywania lotów grupowych odległość określona w pierwszej kolumnie dotyczy statku powietrznego znajdującego się najbliżej publiczności.
 
 ## Załącznik nr 3 — – Minimalne odległości między osią drogi startowej a granicą strefy dla publiczności przy starcie i lądowaniu podczas pokazu lotniczego
 
@@ -674,5 +688,6 @@ Minimalna odległość między osią drogi startowej a granicą strefy dla publi
 
 ## Załącznik nr 4 — – Minimalne warunki atmosferyczne dla statków powietrznych biorących udział w pokazie lotniczym
 
-Rodzaj statku powietrznego Typ pokazu lotniczego Minimalne warunki atmosferyczne Podstawa chmur (zachmurzenie ≥ 4/8) Widzialność (m) (km) Dla statków powietrznych o masie własnej łącznie z paliwem nieprzekraczających 70 kg, lotnie, motolotnie, paraplany lot akrobacyjny pojedyncze statki 150 2,0 formacje 200 3,0 Śmigłowce, wiatrakowce i inne statki powietrzne o prędkości przeciągnięcia poniżej 95 km/h (50 kt) lot akrobacyjny w poziomie pojedyncze statki 200 3,0 formacje 200 3,0 lot akrobacyjny pojedyncze statki 300 3,0 formacje 400 5,0 Inne statki powietrzne lot akrobacyjny w poziomie pojedyncze statki 300 3,0 formacje 300 5,0 lot akrobacyjny pojedyncze statki 500 5,0 formacje tłokowe i turbośmigłowe 500 5,0 formacje odrzutowe 1000 8,0 Uwaga: Minimalne warunki atmosferyczne dla statków powietrznych biorących udział w pokazie lotniczym mogą być podwyższone dla poszczególnych statków powietrznych, w zależności od ich charakterystyk, w szczególności ich osiągów lotniczo-technicznych zawartych w instrukcjach eksploatacji tych statków powietrznych.
+Rodzaj statku powietrznego Typ pokazu lotniczego Minimalne warunki atmosferyczne Podstawa chmur (zachmurzenie ≥ 4/8) Widzialność (m) (km) Dla statków powietrznych o masie własnej łącznie z paliwem nieprzekraczających 70 kg, lotnie, motolotnie, paraplany lot akrobacyjny pojedyncze statki 150 2,0 formacje 200 3,0 Śmigłowce, wiatrakowce i inne statki powietrzne o prędkości przeciągnięcia poniżej 95 km/h (50 kt) lot akrobacyjny w poziomie pojedyncze statki 200 3,0 formacje 200 3,0 lot akrobacyjny pojedyncze statki 300 3,0 formacje 400 5,0 Inne statki powietrzne lot akrobacyjny w poziomie pojedyncze statki 300 3,0 formacje 300 5,0 lot akrobacyjny pojedyncze statki 500 5,0 formacje tłokowe i turbośmigłowe 500 5,0 formacje odrzutowe 1000 8,0
+Uwaga: Minimalne warunki atmosferyczne dla statków powietrznych biorących udział w pokazie lotniczym mogą być podwyższone dla poszczególnych statków powietrznych, w zależności od ich charakterystyk, w szczególności ich osiągów lotniczo-technicznych zawartych w instrukcjach eksploatacji tych statków powietrznych.
 

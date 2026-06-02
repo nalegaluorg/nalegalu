@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 17 grudnia 2013 r. w sprawie rodzajów urządzeń technicznych podlegających dozorowi technicznemu w elektrowni jądrowej
+# Rozporządzenie Rady Ministrówz dnia 17 grudnia 2013 r. w sprawie rodzajów urządzeń technicznych podlegających dozorowi technicznemu w elektrowni jądrowej Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2009/71/EURATOM z dnia 25 czerwca 2009 r. ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-17 |
 | Data wydania | 2014-01-22 |
-| Wejście w życie | 2014-02-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/111/text.pdf) |
 
@@ -98,5 +97,5 @@ urządzenia transportu bliskiego, inne niż wymienione w pkt 13, służące do p
 2.
 Urządzenia wymienione w ust. 1 pkt 1–12 podlegają dozorowi technicznemu wraz z ich elementami mocującymi i konstrukcjami wsporczymi, osprzętem ciśnieniowym i zabezpieczającym, układami zabezpieczającymi, aparaturą kontrolno-pomiarową oraz układami sterowania.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2009/71/EURATOM z dnia 25 czerwca 2009 r. ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18, z późn. zm.).
 

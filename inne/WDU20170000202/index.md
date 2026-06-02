@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-16 |
 | Data wydania | 2017-02-01 |
-| Wejście w życie | 2017-02-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/202/text.pdf) |
 
@@ -72,8 +71,10 @@ source: "eli-html"
 5. Umowę, o której mowa w ust. 3, z dyrektorem oraz zastępcami dyrektora zawiera minister nadzorujący. ” , uchyla się ust. 5a;
 
 - **b)**
-- **9)** w art. 29: w ust. 2: – uchyla się pkt 2 i 3, – pkt 4 otrzymuje brzmienie: „ 4) opiniowanie kandydatów na stanowiska: zastępcy dyrektora do spraw naukowych, sekretarza naukowego oraz kierowników komórek organizacyjnych wskazanych w regulaminie organizacyjnym, odpowiedzialnych za prowadzenie badań naukowych; ” , – uchyla się pkt 4a, ust. 6 otrzymuje brzmienie: „
+- **9)** w art. 29: w ust. 2: – uchyla się pkt 2 i 3, pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** opiniowanie kandydatów na stanowiska: zastępcy dyrektora do spraw naukowych, sekretarza naukowego oraz kierowników komórek organizacyjnych wskazanych w regulaminie organizacyjnym, odpowiedzialnych za prowadzenie badań naukowych; ” , – uchyla się pkt 4a, ust. 6 otrzymuje brzmienie: „
     - **b)**
 
 6. Rada naukowa sporządza opinie, o których mowa w ust. 2 pkt 4, 5, 7, 9–13, w terminie nie dłuższym niż 30 dni. ” ;

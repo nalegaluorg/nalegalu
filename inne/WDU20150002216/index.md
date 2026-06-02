@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-17 |
 | Data wydania | 2015-12-28 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2216/text.pdf) |
 
@@ -65,5 +64,5 @@ Osoby odbierające przesyłkę sprawdzają, czy nie została ona naruszona w spo
 § 9.
 Po opracowaniu pytań i zadania problemowego, wyznaczony przez przewodniczącego członek zespołu sporządza protokół posiedzeń zespołu oraz czynności dotyczących przygotowywania, przechowywania i przekazywania Ministrowi Sprawiedliwości testu wraz z wykazem prawidłowych odpowiedzi i zadania problemowego wraz z wytycznymi. Protokół podpisują członkowie zespołu biorący udział w wykonywaniu tych czynności, po czym umieszcza się go w aktach sprawy.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 4 marca 2011 r. w sprawie pytań i zadań problemowych na egzamin dla osób ubiegających się o licencję syndyka (Dz. U. Nr 54, poz. 284), które traci moc z dniem 1 stycznia 2016 r. na podstawie art. 456 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, 1259, 1513, 1830 i 1844). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 4 marca 2011 r. w sprawie pytań i zadań problemowych na egzamin dla osób ubiegających się o licencję syndyka (Dz. U. Nr 54, poz. 284), które traci moc z dniem 1 stycznia 2016 r. na podstawie art. 456 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, 1259, 1513, 1830 i 1844).
 

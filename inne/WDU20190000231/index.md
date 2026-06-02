@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 stycznia 2019 r. w sprawie świadczenia przez banki usług w odniesieniu do lokat strukturyzowanych
+# Rozporządzenie Ministra Finansówz dnia 21 stycznia 2019 r. w sprawie świadczenia przez banki usług w odniesieniu do lokat strukturyzowanych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-21 |
 | Data wydania | 2019-02-07 |
-| Wejście w życie | 2019-02-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000231) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/231/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Tryb i warunki postępowania banków świadczących usługi w odniesieniu do lokat strukturyzowanych wobec klientów Rozdział 3 – Przekazywanie sprawozdań, o których mowa w art. 88j ust. 1 ustawy Rozdział 4 – Szczegółowe kryteria w zakresie spełniania wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia, a także tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji Rozdział 5 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 88n ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę delegowaną Komisji (UE) 2017/593 z dnia 7 kwietnia 2016 r. uzupełniającą dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do zabezpieczenia instrumentów finansowych i środków pieniężnych należących do klientów, zobowiązań w zakresie zarządzania produktami oraz zasad mających zastosowanie do oferowania lub przyjmowania wynagrodzeń, prowizji bądź innych korzyści pieniężnych lub niepieniężnych (Dz. Urz. UE L 87 z 31.03.2017, str. 500). Na podstawie art. 88n ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -48,8 +48,7 @@ szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art
 3)
 szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 88l ust. 1 ustawy, wymogów posiadania odpowiedniej wiedzy i kompetencji,
 4)
-tryb i warunki postępowania banków świadczących usługi w odniesieniu do lokat strukturyzowanych przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w pkt 2 i 3, stosowanych wobec nich odpowiednich wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia, oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób
-w odniesieniu do wykonywania przez banki świadczące usługi w odniesieniu do lokat strukturyzowanych czynności, o których mowa w art. 5 ust. 1 pkt 1 oraz ust. 2 pkt 11 i 12 ustawy.
+tryb i warunki postępowania banków świadczących usługi w odniesieniu do lokat strukturyzowanych przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w pkt 2 i 3, stosowanych wobec nich odpowiednich wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia, oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób – w odniesieniu do wykonywania przez banki świadczące usługi w odniesieniu do lokat strukturyzowanych czynności, o których mowa w art. 5 ust. 1 pkt 1 oraz ust. 2 pkt 11 i 12 ustawy.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -59,9 +58,9 @@ kliencie docelowym – rozumie się przez to klienta należącego do grupy docel
 3)
 rekomendacji – rozumie się przez to informacje rekomendujące lub sugerujące strategię inwestycyjną, w sposób wyraźny lub dorozumiany, dotyczące jednej lub kilku lokat strukturyzowanych lub podmiotów oferujących lokaty strukturyzowane, obejmujące każdą opinię na temat obecnej lub przyszłej wartości lub ceny takich lokat strukturyzowanych, przeznaczone dla kanałów dystrybucyjnych lub opinii publicznej;
 4)
-rozporządzeniu 2017/565 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm.);
+rozporządzeniu 2017/565 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 246 z 26.09.2017, str. 12 oraz Dz. Urz. UE L 329 z 13.12.2017, str. 4.;
 5)
-rozporządzeniu 596/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylające dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, z późn. zm.);
+rozporządzeniu 596/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylające dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320 oraz Dz. Urz. UE L 254 z 10.10.2018, str. 19.;
 6)
 sprzedaży krzyżowej – rozumie się przez to sprzedaż łączoną lub sprzedaż wiązaną;
 7)
@@ -80,6 +79,8 @@ usługach badawczych – rozumie się przez to czynności analityczne zmierzają
 usługach w odniesieniu do lokat strukturyzowanych – rozumie się przez to wykonywane przez bank na rzecz klienta czynności wskazane w art. 5 ust. 1 pkt 1 ustawy, których przedmiotem są lokaty strukturyzowane, lub w art. 5 ust. 2 pkt 11 lub 12 ustawy;
 12)
 ustawie o obrocie instrumentami finansowymi – rozumie się przez to ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244).
+Tryb i warunki postępowania banków świadczących usługi w odniesieniu do lokat strukturyzowanych wobec klientów
+Traktowanie klientów jak klientów profesjonalnych lub klientów detalicznych
 § 3.
 1.
 Bank przed zawarciem umowy o świadczenie usługi w odniesieniu do lokat strukturyzowanych z klientem profesjonalnym informuje go o zasadach traktowania przez bank klientów profesjonalnych oraz o możliwości przedstawienia pisemnego żądania traktowania go jak klienta detalicznego, o którym mowa w art. 45 ust. 3 lit. b rozporządzenia 2017/565.
@@ -133,6 +134,7 @@ Bank opracowuje i wdraża pisemną procedurę postępowania w przypadkach otrzym
 Bank zobowiązuje swoich klientów do przekazywania informacji o zmianach danych, które mają wpływ na możliwość traktowania danego klienta jak klienta profesjonalnego.
 3.
 Bank, w przypadku powzięcia informacji, że klient przestał spełniać warunki pozwalające na traktowanie go jak klienta profesjonalnego w rozumieniu art. 3 pkt 39b lit. a-m ustawy o obrocie instrumentami finansowymi, podejmuje działania zmierzające do zmiany statusu klienta na potrzeby świadczenia na jego rzecz usług w odniesieniu do lokat strukturyzowanych, chyba że klient wystąpi z żądaniem, o którym mowa w art. 88b ust. 1 ustawy, i spełnia warunki, o których mowa w § 5 ust. 1. Sposób postępowania banku określa procedura, o której mowa w ust. 1.
+Przyjmowanie lub przekazywanie świadczeń pieniężnych lub niepieniężnych przez banki w związku ze świadczeniem usług w odniesieniu do lokat strukturyzowanych
 § 7.
 1.
 Świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenie niepieniężne uznaje się za mające na celu podniesienie jakości odpowiedniej usługi świadczonej na rzecz klienta lub potencjalnego klienta, jeżeli:
@@ -278,6 +280,7 @@ zakres, w jakim usługi badawcze mogą przynieść korzyści w odniesieniu do po
 podejścia, jakie przyjmie bank w celu sprawiedliwego rozdzielenia kosztów zakupu usług badawczych pomiędzy portfele różnych klientów.
 2.
 Bank przekazuje klientom procedurę korzystania z usług badawczych.
+Świadczenie usług w odniesieniu do lokat strukturyzowanych, w tym w zakresie świadczenia usług na rzecz kategorii klientów, o których mowa w art. 88b ust. 4 ustawy
 § 19.
 1.
 W przypadku gdy informacje kierowane przez bank do klientów lub potencjalnych klientów, w tym informacje upowszechniane przez bank w celu reklamy lub promocji świadczonych przez niego usług, zawierają wskazanie korzyści możliwych do osiągnięcia w przypadku skorzystania z usług w odniesieniu do lokat strukturyzowanych świadczonych przez bank, powinny one zawierać również, z uwzględnieniem art. 44 ust. 2 lit. b rozporządzenia 2017/565, wskazanie poziomu ryzyka inwestycyjnego związanego z danymi usługami.
@@ -419,6 +422,7 @@ koszt rozwiązania umowy lokaty strukturyzowanej przez klienta przed terminem ni
 koszt rozwiązania umowy lokaty strukturyzowanej przez klienta przed terminem nie jest ściśle określoną kwotą za każdy miesiąc pozostały do końca określonego umową terminu zapadalności lokaty, w szczególności lokaty strukturyzowane o zmiennym koszcie rozwiązania lub wskazanym do maksymalnej wysokości, za każdy miesiąc pozostały do końca określonego umową terminu zapadalności lokaty;
 3)
 koszt rozwiązania umowy lokaty strukturyzowanej przez klienta przed terminem nie jest ściśle określoną kwotą odsetek lub wartości świadczeń dodatkowych, w szczególności lokaty strukturyzowane przewidujące wyłącznie zwrot depozytu w przypadku rozwiązania umowy.
+Opracowywanie lokaty strukturyzowanej
 § 28.
 1.
 Bank opracowujący lokaty strukturyzowane lub udzielający porad w zakresie opracowania lokat strukturyzowanych, stosując rozwiązania przewidziane w niniejszym oddziale, uwzględnia charakter lokaty strukturyzowanej, usługi w odniesieniu do lokat strukturyzowanych i grupy docelowej.
@@ -446,7 +450,7 @@ ustalenia i precyzyjnego opisania przez bank kategorii ryzyka związanego z loka
 b)
 określenia przez bank ogólnego podejścia klienta docelowego do ryzyka związanego z inwestycją w lokaty strukturyzowane, poprzez przypisanie klienta docelowego do kategorii, o których mowa w lit. a,
 c)
-zastosowania ogólnego wskaźnika ryzyka przewidzianego w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.) – w przypadkach określonych w tym rozporządzeniu;
+zastosowania ogólnego wskaźnika ryzyka przewidzianego w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 35. – w przypadkach określonych w tym rozporządzeniu;
 5)
 cele inwestycyjne i potrzeby inwestycyjne klientów, które mają być zaspokojone przez daną lokatę strukturyzowaną, z uwzględnieniem ogólnej strategii inwestycyjnej klienta docelowego, obejmującej w szczególności horyzont czasowy inwestycji, przy czym cele i potrzeby klienta mogą zostać uszczegółowione poprzez określenie konkretnych aspektów inwestycji oraz oczekiwań klientów docelowych w odniesieniu do tych aspektów.
 3.
@@ -555,6 +559,7 @@ Zarząd banku sprawuje kontrolę nad prawidłowym wypełnianiem przez bank obowi
 Bank udostępnia sprawozdania, o których mowa w ust. 1, Komisji Nadzoru Finansowego na jej żądanie.
 3.
 Rada nadzorcza banku monitoruje zmiany i dokonuje okresowych przeglądów procesu opracowania lokat strukturyzowanych lub udzielania porad w zakresie opracowania lokaty strukturyzowanej w celu wykrycia ryzyka niewywiązania się przez bank z obowiązków określonych w niniejszym oddziale.
+Rekomendowanie, oferowanie, zawieranie lub umożliwianie zawarcia umowy lokaty strukturyzowanej
 § 34.
 1.
 Bank, podejmując decyzję o zakresie lokat strukturyzowanych opracowanych przez ten bank lub przez inny podmiot, jakie zamierza rekomendować, oferować, zawierać lub umożliwiać zawarcie umowy tych lokat strukturyzowanych, oraz o rodzaju usług, jakie zamierza świadczyć, uwzględnia charakter lokaty strukturyzowanej, usługi w odniesieniu do lokat strukturyzowanych oraz grupy docelowej.
@@ -709,6 +714,7 @@ przekazywania wszystkim innym współpracującym podmiotom informacji o lokacie 
 przekazywania podmiotowi opracowującemu lokatę strukturyzowaną posiadanych informacji dotyczących lokaty strukturyzowanej;
 3)
 stosowania rozwiązań, o których mowa w art. 88m ust. 5 i 8 ustawy, oraz w oddziale 4 tego rozdziału, w każdym przypadku, gdy jest to niezbędne dla zapewnienia, że lokata strukturyzowana lub usługa będą odpowiednie dla grupy docelowej.
+Przekazywanie sprawozdań, o których mowa w art. 88j ust. 1 ustawy
 § 47.
 1.
 W przypadku świadczenia usługi w odniesieniu do lokat strukturyzowanych, o której mowa w art. 5 ust. 2 pkt 11 ustawy, bank przekazuje klientowi sprawozdanie obejmujące:
@@ -765,6 +771,7 @@ W przypadku gdy bank przekazał lub udostępnił klientowi rekomendację na trwa
 Obowiązek, o którym mowa w ust. 1, uznaje się za spełniony, w przypadku gdy bank udziela swoim klientom dostępu do systemu internetowego kwalifikującego się jako trwały nośnik informacji, zapewniający dostęp klientowi do udzielonych rekomendacji.
 6.
 W przypadku gdy usługa w odniesieniu do lokat strukturyzowanych, o której mowa w art. 5 ust. 2 pkt 12 ustawy, jest świadczona na rzecz klienta jednorazowo, termin przekazania sprawozdania, o którym mowa w ust. 1, może zostać określony w umowie z klientem.
+Szczegółowe kryteria w zakresie spełniania wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia, a także tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji
 § 49.
 Ilekroć w przepisach niniejszego rozdziału jest mowa o:
 1)
@@ -878,7 +885,7 @@ Bank jest obowiązany zapewnić, aby autoryzowani pracownicy po rozpoczęciu wyk
 2.
 W celu realizacji wymogu, o którym mowa w ust. 1, bank jest obowiązany zapewnić w szczególności:
 1)
-regularny udział autoryzowanych pracowników w doskonaleniu zawodowym lub szkoleniach w zakresie zasad i trybu wykonywania usług w odniesieniu do lokat strukturyzowanych wynikających z przepisów ustawy lub innych ustaw mających zastosowanie do działalności banku, przepisów wydanych na ich podstawie, a także przepisów rozporządzenia 596/2014, rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm.) lub innych bezpośrednio stosowanych przepisów prawa Unii Europejskiej mających zastosowanie do działalności banku;
+regularny udział autoryzowanych pracowników w doskonaleniu zawodowym lub szkoleniach w zakresie zasad i trybu wykonywania usług w odniesieniu do lokat strukturyzowanych wynikających z przepisów ustawy lub innych ustaw mających zastosowanie do działalności banku, przepisów wydanych na ich podstawie, a także przepisów rozporządzenia 596/2014, rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4 oraz Dz. Urz. UE L 175 z 30.06.2016, str. 1.) lub innych bezpośrednio stosowanych przepisów prawa Unii Europejskiej mających zastosowanie do działalności banku;
 2)
 regularny udział autoryzowanych pracowników w szkoleniach dotyczących cech i charakterystyki oferowanych lub wprowadzanych do oferty banku lokat strukturyzowanych;
 3)
@@ -922,6 +929,7 @@ wyłącznie dystrybuują materiały promocyjne i reklamowe dotyczące usług w o
 wyłącznie przekazują na żądanie klienta lub potencjalnego klienta dokumenty dotyczące usług w odniesieniu do lokat strukturyzowanych świadczonych przez bank lub lokat strukturyzowanych będących ich przedmiotem, lub
 4)
 nie wykonują czynności stanowiących przedmiot usługi w odniesieniu do lokat strukturyzowanych i nie mają bezpośredniego kontaktu z klientem lub potencjalnym klientem, w tym również telefonicznie lub przez wykorzystywanie elektronicznych kanałów komunikacji.
+Przepisy przejściowe i końcowe
 § 63.
 Banki prowadzące działalność na podstawie zezwolenia udzielonego przed dniem wejścia w życie rozporządzenia dostosują prowadzoną działalność do przepisów rozporządzenia w terminie 3 miesięcy od dnia jego wejścia w życie.
 § 64.
@@ -943,8 +951,7 @@ Osobę, która przed dniem wejścia w życie rozporządzenia:
 1)
 wykonywała przez okres co najmniej 6 miesięcy czynności, o których mowa w § 54 ust. 4 pkt 1, oraz
 2)
-otrzymała potwierdzenie kwalifikacji w zakresie wskazanym w § 52 ust. 1, pod warunkiem że potwierdzenie kwalifikacji odbyło się zgodnie z § 54 ust. 2 i 3
-uznaje się za autoryzowanego pracownika uprawnionego do wykonywania czynności, o których mowa w § 54 ust. 4 pkt 1.
+otrzymała potwierdzenie kwalifikacji w zakresie wskazanym w § 52 ust. 1, pod warunkiem że potwierdzenie kwalifikacji odbyło się zgodnie z § 54 ust. 2 i 3 – uznaje się za autoryzowanego pracownika uprawnionego do wykonywania czynności, o których mowa w § 54 ust. 4 pkt 1.
 2.
 Za autoryzowanego pracownika uprawnionego do wykonywania czynności, o których mowa w § 54 ust. 4 pkt 1, uznaje się również osobę, która przez okres co najmniej 2 lat przed dniem wejścia w życie rozporządzenia wykonywała czynności, o których mowa w § 54 ust. 4 pkt 1.
 § 66.
@@ -953,8 +960,7 @@ Osobę, która przed dniem wejścia w życie rozporządzenia:
 1)
 wykonywała przez okres co najmniej 12 miesięcy czynności, o których mowa w § 54 ust. 4 pkt 2, oraz
 2)
-otrzymała potwierdzenie kwalifikacji w zakresie wskazanym w § 52 ust. 1, pod warunkiem że potwierdzenie kwalifikacji odbyło się zgodnie z § 54 ust. 2 i 3
-uznaje się za autoryzowanego pracownika uprawnionego do wykonywania czynności, o których mowa w § 54 ust. 4 pkt 2.
+otrzymała potwierdzenie kwalifikacji w zakresie wskazanym w § 52 ust. 1, pod warunkiem że potwierdzenie kwalifikacji odbyło się zgodnie z § 54 ust. 2 i 3 – uznaje się za autoryzowanego pracownika uprawnionego do wykonywania czynności, o których mowa w § 54 ust. 4 pkt 2.
 2.
 Za autoryzowanego pracownika uprawnionego do wykonywania czynności, o których mowa w § 54 ust. 4 pkt 2, uznaje się również osobę, która przez okres co najmniej 4 lat przed dniem wejścia w życie rozporządzenia wykonywała czynności, o których mowa w § 54 ust. 4 pkt 2.
 § 67.
@@ -962,38 +968,45 @@ Osobę, która przed dniem wejścia w życie rozporządzenia:
 1)
 wykonywała przez okres co najmniej 18 miesięcy czynności, o których mowa w § 54 ust. 4 pkt 3, oraz
 2)
-otrzymała potwierdzenie kwalifikacji w zakresie wskazanym w § 52 ust. 2, pod warunkiem że potwierdzenie kwalifikacji odbyło się zgodnie z § 54 ust. 2 i 3
-uznaje się za autoryzowanego pracownika uprawnionego do wykonywania czynności, o których mowa w § 54 ust. 4 pkt 3.
+otrzymała potwierdzenie kwalifikacji w zakresie wskazanym w § 52 ust. 2, pod warunkiem że potwierdzenie kwalifikacji odbyło się zgodnie z § 54 ust. 2 i 3 – uznaje się za autoryzowanego pracownika uprawnionego do wykonywania czynności, o których mowa w § 54 ust. 4 pkt 3.
 § 68.
 Osobę, która przed dniem wejścia w życie rozporządzenia:
 1)
 wykonywała przez okres co najmniej 24 miesięcy czynności, o których mowa w § 54 ust. 4 pkt 4, oraz
 2)
-otrzymała potwierdzenie kwalifikacji w zakresie wskazanym w § 52 ust. 2, pod warunkiem że potwierdzenie kwalifikacji odbyło się zgodnie z § 54 ust. 2 i 3
-uznaje się za autoryzowanego pracownika uprawnionego do wykonywania czynności, o których mowa w § 54 ust. 4 pkt 4.
+otrzymała potwierdzenie kwalifikacji w zakresie wskazanym w § 52 ust. 2, pod warunkiem że potwierdzenie kwalifikacji odbyło się zgodnie z § 54 ust. 2 i 3 – uznaje się za autoryzowanego pracownika uprawnionego do wykonywania czynności, o których mowa w § 54 ust. 4 pkt 4.
 § 69.
 Osoba, która w dniu wejścia w życie rozporządzenia, odpowiednio do zakresu wykonywanych czynności, spełnia kryteria w zakresie wiedzy i kompetencji wskazane w § 52 i jednocześnie nie spełnia kryteriów wskazanych w § 54 ust. 4, może wykonywać te czynności pod nadzorem autoryzowanego pracownika przez taki okres, aby jej doświadczenie łącznie z doświadczeniem zdobytym przed dniem wejścia w życie rozporządzenia spełniło odpowiednio kryteria, o których mowa w § 54 ust. 4.
 § 70.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę delegowaną Komisji (UE) 2017/593 z dnia 7 kwietnia 2016 r. uzupełniającą dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do zabezpieczenia instrumentów finansowych i środków pieniężnych należących do klientów, zobowiązań w zakresie zarządzania produktami oraz zasad mających zastosowanie do oferowania lub przyjmowania wynagrodzeń, prowizji bądź innych korzyści pieniężnych lub niepieniężnych (Dz. Urz. UE L 87 z 31.03.2017, str. 500). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 246 z 26.09.2017, str. 12 oraz Dz. Urz. UE L 329 z 13.12.2017, str. 4. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320 oraz Dz. Urz. UE L 254 z 10.10.2018, str. 19. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 35. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4 oraz Dz. Urz. UE L 175 z 30.06.2016, str. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę delegowaną Komisji (UE) 2017/593 z dnia 7 kwietnia 2016 r. uzupełniającą dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do zabezpieczenia instrumentów finansowych i środków pieniężnych należących do klientów, zobowiązań w zakresie zarządzania produktami oraz zasad mających zastosowanie do oferowania lub przyjmowania wynagrodzeń, prowizji bądź innych korzyści pieniężnych lub niepieniężnych (Dz. Urz. UE L 87 z 31.03.2017, str. 500). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 246 z 26.09.2017, str. 12 oraz Dz. Urz. UE L 329 z 13.12.2017, str. 4. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320 oraz Dz. Urz. UE L 254 z 10.10.2018, str. 19. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 35. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4 oraz Dz. Urz. UE L 175 z 30.06.2016, str. 1.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Tryb i warunki postępowania banków świadczących usługi w odniesieniu do lokat strukturyzowanych wobec klientów
+#### Rozdział 2 – Tryb i warunki postępowania banków świadczących usługi w odniesieniu do lokat strukturyzowanych wobec klientów
 
-##### Oddział 1 Traktowanie klientów jak klientów profesjonalnych lub klientów detalicznych
+#### Rozdział 3 – Przekazywanie sprawozdań, o których mowa w art. 88j ust. 1 ustawy
 
-##### Oddział 2 Przyjmowanie lub przekazywanie świadczeń pieniężnych lub niepieniężnych przez banki w związku ze świadczeniem usług w odniesieniu do lokat strukturyzowanych
+#### Rozdział 4 – Szczegółowe kryteria w zakresie spełniania wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia, a także tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji
 
-##### Oddział 3 Świadczenie usług w odniesieniu do lokat strukturyzowanych, w tym w zakresie świadczenia usług na rzecz kategorii klientów, o których mowa w art. 88b ust. 4 ustawy
+#### Rozdział 5 – Przepisy przejściowe i końcowe
 
-##### Oddział 4 Opracowywanie lokaty strukturyzowanej
+#### Rozdział 1
 
-##### Oddział 5 Rekomendowanie, oferowanie, zawieranie lub umożliwianie zawarcia umowy lokaty strukturyzowanej
+#### Rozdział 2
 
-#### Rozdział 3 Przekazywanie sprawozdań, o których mowa w art. 88j ust. 1 ustawy
+##### Oddział 1
 
-#### Rozdział 4 Szczegółowe kryteria w zakresie spełniania wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia, a także tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji
+##### Oddział 2
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+##### Oddział 3
+
+##### Oddział 4
+
+##### Oddział 5
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

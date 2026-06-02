@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 kwietnia 1936 r. – Prawo wekslowe, ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, ustawę z dnia 17 grudnia 2004 r. o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej oraz o prawie pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 12 maja 2011 r. o kredycie konsumenckim.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-11 |
 | Data wydania | 2021-09-09 |
-| Wejście w życie | 2021-09-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1655/text.pdf) |
 
@@ -111,5 +110,5 @@ source: "eli-html"
 
 3. Do weksli wystawionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 kwietnia 1936 r. – Prawo wekslowe, ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, ustawę z dnia 17 grudnia 2004 r. o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej oraz o prawie pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 12 maja 2011 r. o kredycie konsumenckim.
 

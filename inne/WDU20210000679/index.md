@@ -26,22 +26,35 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/679/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej Rozdział 1 – Przepisy ogólne Rozdział 2 – Samorządowe zakłady budżetowe Rozdział 3 – Spółki z udziałem jednostek samorządu terytorialnego Rozdział 4 – Przekształcenia przedsiębiorstw komunalnych Rozdział 5 – Zmiany w przepisach obowiązujących oraz przepisy końcowe
+Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 2019 r. poz. 712), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020),
 2)
-ustawą z dnia 10 grudnia 2020 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz ustawy o gospodarce komunalnej (Dz. U. z 2021 r. poz. 8)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 marca 2021 r.
+ustawą z dnia 10 grudnia 2020 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz ustawy o gospodarce komunalnej (Dz. U. z 2021 r. poz. 8) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 marca 2021 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 89, art. 90, art. 92–94 i art. 109 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), które stanowią:
-„
+art. 89, art. 90, art. 92–94 i art. 109 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), które stanowią: „
+Przepisy ogólne
+Samorządowe zakłady budżetowe
+Spółki z udziałem jednostek samorządu terytorialnego
+Przekształcenia przedsiębiorstw komunalnych
+Zmiany w przepisach obowiązujących oraz przepisy końcowe
 Art. 24–27.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Samorządowe zakłady budżetowe
+
+#### Rozdział 3 – Spółki z udziałem jednostek samorządu terytorialnego
+
+#### Rozdział 4 – Przekształcenia przedsiębiorstw komunalnych
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących oraz przepisy końcowe
 
 **Art. 89.** Traci moc ustawa z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843).
 
@@ -68,7 +81,7 @@ Art. 24–27.
 1. W przypadku zamówień publicznych udzielonych:
 
 - **1)** przed dniem 1 stycznia 2021 r.,
-- **2)** po dniu 31 grudnia 2020 r., w następstwie postępowań o udzielenie zamówienia wszczętych przed dniem 1 stycznia 2021 r. zamawiającemu oraz wykonawcy przysługuje prawo złożenia wniosku o prowadzenie mediacji lub inne polubowne rozwiązanie sporu, o którym mowa w art. 591 ust. 1 ustawy, o której mowa w art. 1, jeżeli do dnia złożenia wniosku nie wnieśli powództwa na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802 i 1818.).
+- **2)** po dniu 31 grudnia 2020 r., w następstwie postępowań o udzielenie zamówienia wszczętych przed dniem 1 stycznia 2021 r. – zamawiającemu oraz wykonawcy przysługuje prawo złożenia wniosku o prowadzenie mediacji lub inne polubowne rozwiązanie sporu, o którym mowa w art. 591 ust. 1 ustawy, o której mowa w art. 1, jeżeli do dnia złożenia wniosku nie wnieśli powództwa na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.a)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802 i 1818.).
 
 2. W przypadku, o którym mowa w ust. 1, nie stosuje się przepisu art. 593 ustawy, o której mowa w art. 1.
 
@@ -84,13 +97,9 @@ Art. 24–27.
 - **2)** art. 88, który wchodzi w życie z dniem 1 marca 2020 r. ” ;
 - **2)** art. 3 ustawy z dnia 10 grudnia 2020 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz ustawy o gospodarce komunalnej (Dz. U. z 2021 r. poz. 8), który stanowi: „
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802 i 1818. Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej
 
-Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej
-
-- **a)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802 i 1818.
-
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -102,10 +111,9 @@ Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce ko
 - **b)**
 - **c)**
 
-**Art. 2.** Gospodarka komunalna może być prowadzona przez jednostki samorządu terytorialnego w szczególności w formach samorządowego zakładu budżetowego lub spółek prawa handlowego. 1. Jednostki samorządu terytorialnego w drodze umowy mogą powierzać wykonywanie zadań z zakresu gospodarki komunalnej osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej z uwzględnieniem przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.) oraz przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305) na zasadach ogólnych albo w trybie przepisów:
+**Art. 2.** Gospodarka komunalna może być prowadzona przez jednostki samorządu terytorialnego w szczególności w formach samorządowego zakładu budżetowego lub spółek prawa handlowego. 1. Jednostki samorządu terytorialnego w drodze umowy mogą powierzać wykonywanie zadań z zakresu gospodarki komunalnej osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej z uwzględnieniem przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159.) oraz przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305) na zasadach ogólnych albo w trybie przepisów:
 
-- **1)** ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711 i 2275);
-- **2)** ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019, z późn. zm.);
+- **1)** ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711 i 2275); 2W brzmieniu ustalonym przez art. 20 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r.) ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 288, 1492, 1517, 2275 i 2320 oraz z 2021 r. poz. 464.);
 - **3)** ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2020 r. poz. 1057);
 - **4)** ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2020 r. poz. 1944 i 2400);
 - **5)** ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2019 r. poz. 1528, 1655 i 2020 oraz z 2020 r. poz. 2275).
@@ -123,7 +131,7 @@ Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce ko
 
 **Art. 5.** Przepisy ustawy stosuje się odpowiednio do wykonywania zadań, o których mowa w art. 1, przez związki międzygminne, związki powiatów, związki powiatowo-gminne (związki komunalne), przez związki metropolitalne, przez miasto stołeczne Warszawę oraz w ramach porozumień komunalnych.
 
-#### Rozdział 2 Samorządowe zakłady budżetowe
+#### Rozdział 2
 
 **Art. 6.**
 
@@ -135,7 +143,7 @@ Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce ko
 
 **Art. 8.** Do pracowników samorządowych zakładów budżetowych stosuje się przepisy o pracownikach samorządowych, jeżeli przepisy szczególne nie stanowią inaczej.
 
-#### Rozdział 3 Spółki z udziałem jednostek samorządu terytorialnego
+#### Rozdział 3
 
 **Art. 9.**
 
@@ -204,7 +212,7 @@ Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce ko
 
 2. Regulamin, o którym mowa w ust. 1, oraz jego zmiany obowiązują na obszarze jednostek samorządu terytorialnego po zatwierdzeniu przez organy wykonawcze tych jednostek.
 
-#### Rozdział 4 Przekształcenia przedsiębiorstw komunalnych
+#### Rozdział 4
 
 **Art. 14.**
 
@@ -214,11 +222,9 @@ Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce ko
 
 **Art. 15.**
 
-1. Przed upływem terminów, o których mowa w art. 14 ust. 1, wójt (burmistrz, prezydent miasta) decyduje o rodzaju spółki, ustala jej statut (akt założycielski) i niezwłocznie składa wniosek o wpisanie spółki do rejestru handlowego .
+1. Przed upływem terminów, o których mowa w art. 14 ust. 1, wójt (burmistrz, prezydent miasta) decyduje o rodzaju spółki, ustala jej statut (akt założycielski) i niezwłocznie składa wniosek o wpisanie spółki do rejestru handlowego Obecnie Krajowego Rejestru Sądowego, na podstawie art. 86 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112 oraz z 2020 r. poz. 2320), która weszła w życie z dniem 1 stycznia 2001 r..
 
-2. Wykreślenie przedsiębiorstwa komunalnego z rejestru przedsiębiorstw państwowych następuje z urzędu, po dokonaniu wpisu spółki do rejestru handlowego, z dniem 1 lipca 1997 r.
-
-**Art. 16.**
+2. Wykreślenie przedsiębiorstwa komunalnego z rejestru przedsiębiorstw państwowych następuje z urzędu, po dokonaniu wpisu spółki do rejestru handlowego, z dniem 1 lipca 1997 r. Art. 16W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 10 grudnia 2020 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz ustawy o gospodarce komunalnej (Dz. U. z 2021 r. poz. 8), która weszła w życie z dniem 19 stycznia 2021 r..
 
 1. Do spółki powstałej w wyniku przekształcenia przedsiębiorstwa komunalnego stosuje się przepisy Kodeksu spółek handlowych, jeżeli ustawa nie stanowi inaczej.
 
@@ -256,9 +262,7 @@ Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce ko
 
 1. Pracownicy przekształconego w spółkę przedsiębiorstwa komunalnego stają się z mocy prawa pracownikami spółki.
 
-2. Za zobowiązania wynikające ze stosunku pracy powstałe przed przekształceniem przedsiębiorstwa odpowiada spółka.
-
-3. Stosunek pracy dyrektora przedsiębiorstwa oraz pracowników zatrudnionych na podstawie powołania wygasa, z mocy prawa, z dniem wykreślenia przedsiębiorstwa komunalnego z Krajowego Rejestru Sądowego.
+2. Za zobowiązania wynikające ze stosunku pracy powstałe przed przekształceniem przedsiębiorstwa odpowiada spółka. 3W brzmieniu ustalonym przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 5.. Stosunek pracy dyrektora przedsiębiorstwa oraz pracowników zatrudnionych na podstawie powołania wygasa, z mocy prawa, z dniem wykreślenia przedsiębiorstwa komunalnego z Krajowego Rejestru Sądowego.
 
 4. Pracownikom, o których mowa w ust. 3, przysługuje odprawa w wysokości trzymiesięcznego wynagrodzenia, liczonego jak ekwiwalent pieniężny za urlop wypoczynkowy. Odprawa ta nie przysługuje w przypadku zatrudnienia w spółce na stanowisku równorzędnym lub wyższym.
 
@@ -282,7 +286,7 @@ Załącznik – Tekst jednolity ustawy z dnia 20 grudnia 1996 r. o gospodarce ko
 
 3. Spółka powstała w wyniku przekształcenia wstępuje we wszystkie prawa i obowiązki związane z działalnością samorządowego zakładu budżetowego.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących oraz przepisy końcowe
+#### Rozdział 5
 
-**Art. 28.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że przepis art. 11 wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 28.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 5 lutego 1997 r., z tym że przepis art. 11 wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159. 2) W brzmieniu ustalonym przez art. 20 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 288, 1492, 1517, 2275 i 2320 oraz z 2021 r. poz. 464. 4) Obecnie Krajowego Rejestru Sądowego, na podstawie art. 86 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112 oraz z 2020 r. poz. 2320), która weszła w życie z dniem 1 stycznia 2001 r. 5) W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 10 grudnia 2020 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz ustawy o gospodarce komunalnej (Dz. U. z 2021 r. poz. 8), która weszła w życie z dniem 19 stycznia 2021 r. 6) W brzmieniu ustalonym przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 5. 7) Ustawa została ogłoszona w dniu 5 lutego 1997 r.
 

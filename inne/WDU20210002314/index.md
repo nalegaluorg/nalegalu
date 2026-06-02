@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 października 2021 r. o świadczeniu wyrównawczym dla osób uprawnionych do wcześniejszej emerytury z tytułu opieki nad dziećmi wymagającymi stałej opieki
+# Ustawa z dnia 29 października 2021 r. o świadczeniu wyrównawczym dla osób uprawnionych do wcześniejszej emerytury z tytułu opieki nad dziećmi wymagającymi stałej opieki Niniejszą ustawą zmienia się ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-29 |
 | Data wydania | 2021-12-15 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002314) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2314/text.pdf) |
 
@@ -104,18 +103,18 @@ source: "eli-html"
 
 **Art. 7.**
 
-1. Dla celów podatku dochodowego od osób fizycznych świadczenie wyrównawcze stanowi świadczenie, o którym mowa w art. 12 ust. 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.).
+1. Dla celów podatku dochodowego od osób fizycznych świadczenie wyrównawcze stanowi świadczenie, o którym mowa w art. 12 ust. 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269 i 2270.).
 
-2. Do kwoty świadczenia wyrównawczego stosuje się odpowiednio art. 66 ust. 1 pkt 16, art. 81 ust. 8 pkt 2 i art. 85 ust. 9–11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.).
+2. Do kwoty świadczenia wyrównawczego stosuje się odpowiednio art. 66 ust. 1 pkt 16, art. 81 ust. 8 pkt 2 i art. 85 ust. 9–11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232 i 2270.).
 
-**Art. 8.** Do świadczenia wyrównawczego stosuje się odpowiednio art. 84 i art. 85 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm.).
+**Art. 8.** Do świadczenia wyrównawczego stosuje się odpowiednio art. 84 i art. 85 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 432, 619, 1621, 1834, 1981 i 2105.).
 
 **Art. 9.** W sprawach nieuregulowanych w niniejszej ustawie do świadczenia wyrównawczego stosuje się odpowiednio przepisy:
 
 - **1)** ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2021 r. poz. 266, 1535 i 1621);
 - **2)** ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2020 r. poz. 586 i 2320), z wyjątkiem art. 46 tej ustawy;
 - **3)** ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2020 r. poz. 723 i 2320), z wyjątkiem art. 47 tej ustawy;
-- **4)** ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291, z późn. zm.), z wyjątkiem art. 136 tej ustawy.
+- **4)** ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105 i 2270.), z wyjątkiem art. 136 tej ustawy.
 
 **Art. 10.**
 
@@ -146,9 +145,9 @@ source: "eli-html"
 - **2)** rentę, lub
 - **3)** rentę rodzinną z tytułu śmierci małżonka przyznaną w przypadku zbiegu prawa do renty rodzinnej i innego świadczenia emerytalno-rentowego, lub
 - **4)** nauczycielskie świadczenie kompensacyjne, lub
-- **5)** rodzicielskie świadczenie uzupełniające, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym przysługuje świadczenie pielęgnacyjne, jeśli jest korzystniejsze, przy czym art. 17 ust. 5 pkt 1 lit. a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych nie stosuje się.
+- **5)** rodzicielskie świadczenie uzupełniające, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym – przysługuje świadczenie pielęgnacyjne, jeśli jest korzystniejsze, przy czym art. 17 ust. 5 pkt 1 lit. a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych nie stosuje się.
 
-**Art. 13.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291, z późn. zm.) w art. 139 w ust. 1 po pkt 6a dodaje się pkt 6b w brzmieniu: „
+**Art. 13.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105 i 2270.) w art. 139 w ust. 1 po pkt 6a dodaje się pkt 6b w brzmieniu: „
 
 - **6b)** kwoty nienależnie pobranych świadczeń wyrównawczych otrzymane na podstawie przepisów ustawy z dnia 29 października 2021 r. o świadczeniu wyrównawczym dla osób uprawnionych do wcześniejszej emerytury z tytułu opieki nad dziećmi wymagającymi stałej opieki (Dz. U. poz. 2314); ” .
 
@@ -158,5 +157,5 @@ source: "eli-html"
 
 2. W przypadku złożenia wniosku w terminie, o którym mowa w ust. 1, świadczenie wyrównawcze przysługuje od dnia 1 stycznia 2022 r. i jest wypłacane po dokonaniu rocznej waloryzacji wraz ze świadczeniem emerytalno-rentowym.
 
-**Art. 15.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.
+**Art. 15.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269 i 2270. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232 i 2270. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 432, 619, 1621, 1834, 1981 i 2105. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105 i 2270. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105 i 2270.
 

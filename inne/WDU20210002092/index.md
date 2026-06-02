@@ -37,33 +37,29 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmi
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 1412), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 1412), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 683), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 683), które stanowią: „
 § 2.
 Do przetargów ofert pisemnych (konkursów ofert) i publicznych przetargów ustnych (licytacji) na sprzedaż nieruchomości Zasobu Własności Rolnej Skarbu Państwa ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2012 r. w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów
-Na podstawie art. 32 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561 i 1873) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2012 r. w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntówMinister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
+Na podstawie art. 32Ustawa z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561 i 1873) została znowelizowana przez art. 8 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), która weszła w życie z dniem 1 września 2017 r.; zgodnie z art. 60 ust. 2 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa przepisy wykonawcze wydane na podstawie art. 32 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa zachowują moc i mogą być zmieniane na podstawie tego przepisu. ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561 i 1873) zarządza się, co następuje:
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
 ustawie – należy przez to rozumieć ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 1412), które weszło w życie z dniem 7 sierpnia 2018 r.)
 Krajowym Ośrodku – należy przez to rozumieć Krajowy Ośrodek Wsparcia Rolnictwa;
 3)
 Zasobie – należy przez to rozumieć Zasób Własności Rolnej Skarbu Państwa;
 4)
 nieruchomości – należy przez to rozumieć nieruchomości Zasobu przeznaczone do sprzedaży, z wyłączeniem nieruchomości sprzedawanych w trybie określonym w przepisach wydanych na podstawie art. 43 ust. 3 ustawy;
 5)
-organizatorze przetargu – należy przez to rozumieć jednostkę organizacyjną Krajowego Ośrodka;
+organizatorze przetargu – należy przez to rozumieć jednostkę organizacyjną Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.;
 6)
 pierwszym przetargu – należy przez to rozumieć przetarg, który został ogłoszony bezpośrednio po ogłoszeniu wykazu, o którym mowa w art. 28 ust. 1 ustawy;
 7)
@@ -72,43 +68,42 @@ przetargu – należy przez to rozumieć przetarg ofert pisemnych (konkurs ofert
 przetargu ograniczonym – należy przez to rozumieć przetarg, o którym mowa w pkt 7, w którym mogą uczestniczyć wyłącznie podmioty, o których mowa w art. 29 ust. 3b ustawy;
 9)
 uczestniku przetargu – należy przez to rozumieć osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która w wyznaczonych terminie, miejscu i formie wniosła wadium, z zastrzeżeniem § 9 ust. 5 i § 10, oraz odpowiednio:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 683), które weszło w życie z dniem 18 kwietnia 2020 r.)
 stawiła się na publiczny przetarg ustny (licytację) lub uczestniczyła w tym przetargu przy użyciu środków komunikacji elektronicznej albo
 b)
 w wyznaczonych terminie i miejscu złożyła ofertę w przetargu ofert pisemnych (konkursie ofert), albo
-c)
+cW brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 5.)
 w przypadku przetargu ograniczonego została zakwalifikowana do uczestnictwa w nim i stawiła się na publiczny przetarg ustny (licytację) lub uczestniczyła w tym przetargu przy użyciu środków komunikacji elektronicznej albo w wyznaczonych terminie i miejscu złożyła ofertę w przetargu ofert pisemnych (konkursie ofert);
-10)
+10Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5.)
 środkach komunikacji elektronicznej – należy przez to rozumieć środki komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), które umożliwiają:
 a)
 transmisję przetargu w czasie rzeczywistym między uczestnikami przetargu oraz członkami komisji przetargowej,
 b)
-wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy przetargu oraz członkowie komisji przetargowej mogą brać w nim udział
-z zachowaniem niezbędnych zasad bezpieczeństwa i możliwości identyfikacji uczestników przetargu oraz członków komisji przetargowej.
+wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy przetargu oraz członkowie komisji przetargowej mogą brać w nim udział – z zachowaniem niezbędnych zasad bezpieczeństwa i możliwości identyfikacji uczestników przetargu oraz członków komisji przetargowej.
 § 2.
 Nieruchomości i ich części składowe podlegają sprzedaży w trybie przetargu ofert pisemnych (konkursu ofert), zwanego dalej „przetargiem ofert”, albo publicznego przetargu ustnego (licytacji), zwanego dalej „przetargiem ustnym”, z zastrzeżeniem § 3–5.
 § 3.
 1.
-Krajowy Ośrodek informuje na piśmie właściciela nieruchomości przyległej o zamiarze przeznaczenia do sprzedaży nieruchomości Zasobu, która nie może być zagospodarowana samodzielnie.
+Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. informuje na piśmie właściciela nieruchomości przyległej o zamiarze przeznaczenia do sprzedaży nieruchomości Zasobu, która nie może być zagospodarowana samodzielnie.
 2.
 W piśmie, o którym mowa w ust. 1, podaje się:
 1)
 dane określone w art. 28 ust. 2 pkt 1–4 i 6 ustawy;
 2)
-termin zgłoszenia na piśmie zainteresowania nabyciem nieruchomości, nie krótszy niż 21 dni od dnia otrzymania pisma Krajowego Ośrodka;
+termin zgłoszenia na piśmie zainteresowania nabyciem nieruchomości, nie krótszy niż 21 dni od dnia otrzymania pisma Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.;
 3)
 informację o konieczności spełnienia przez nabywcę wymagania określonego w art. 28a ust. 1 ustawy.
 3.
 Przy doręczaniu pisma, o którym mowa w ust. 1, stosuje się przepisy Kodeksu postępowania administracyjnego.
 4.
-W przypadku zgłoszenia przez właściciela nieruchomości przyległej zainteresowania nabyciem nieruchomości Zasobu, o której mowa w ust. 1, Krajowy Ośrodek sporządza i ogłasza wykaz, o którym mowa w art. 28 ustawy.
+W przypadku zgłoszenia przez właściciela nieruchomości przyległej zainteresowania nabyciem nieruchomości Zasobu, o której mowa w ust. 1, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. sporządza i ogłasza wykaz, o którym mowa w art. 28 ustawy.
 5.
-Jeżeli podmioty, o których mowa w art. 29 ust. 1 ustawy, nie skorzystają z przysługującego pierwszeństwa w nabyciu nieruchomości Zasobu, Krajowy Ośrodek wyznacza właścicielowi nieruchomości przyległej termin i miejsce zawarcia umowy sprzedaży nieruchomości.
+Jeżeli podmioty, o których mowa w art. 29 ust. 1 ustawy, nie skorzystają z przysługującego pierwszeństwa w nabyciu nieruchomości Zasobu, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. wyznacza właścicielowi nieruchomości przyległej termin i miejsce zawarcia umowy sprzedaży nieruchomości.
 6.
 Jeżeli zainteresowanie nabyciem nieruchomości Zasobu, o której mowa w ust. 1, zgłosili na piśmie właściciele co najmniej dwóch nieruchomości przyległych, wówczas nieruchomość podlega sprzedaży w trybie przetargu ustnego, w którym mogą uczestniczyć wyłącznie właściciele nieruchomości przyległych.
 § 4.
 1.
-Na wniosek użytkownika wieczystego nieruchomości Krajowy Ośrodek może sprzedać mu tę nieruchomość.
+Na wniosek użytkownika wieczystego nieruchomości Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. może sprzedać mu tę nieruchomość.
 2.
 Wniosek powinien zawierać:
 1)
@@ -126,7 +121,7 @@ decyzję o warunkach zabudowy i zagospodarowania terenu – w przypadku braku za
 3)
 oświadczenie o spełnieniu przez nabywcę wymagania określonego w art. 28a ust. 1 ustawy – w przypadku sprzedaży nieruchomości rolnej.
 4.
-W przypadku uwzględnienia wniosku Krajowy Ośrodek zawiadamia na piśmie użytkownika wieczystego o:
+W przypadku uwzględnienia wniosku Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. zawiadamia na piśmie użytkownika wieczystego o:
 1)
 warunkach sprzedaży nieruchomości, w tym o:
 a)
@@ -136,12 +131,12 @@ obciążeniach i zobowiązaniach, których przedmiotem jest ta nieruchomość;
 2)
 terminie złożenia na piśmie oświadczenia o przyjęciu warunków, o których mowa w pkt 1, nie krótszym niż 21 dni od dnia otrzymania zawiadomienia.
 5.
-Po złożeniu przez użytkownika wieczystego oświadczenia, o którym mowa w ust. 4 pkt 2, Krajowy Ośrodek, w terminie 14 dni od jego otrzymania, zawiadamia na piśmie użytkownika wieczystego o terminie i miejscu zawarcia umowy sprzedaży nieruchomości.
+Po złożeniu przez użytkownika wieczystego oświadczenia, o którym mowa w ust. 4 pkt 2, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3., w terminie 14 dni od jego otrzymania, zawiadamia na piśmie użytkownika wieczystego o terminie i miejscu zawarcia umowy sprzedaży nieruchomości.
 6.
 Przy doręczaniu zawiadomień, o których mowa w ust. 4 i 5, stosuje się przepisy Kodeksu postępowania administracyjnego.
 7.
-Jeżeli użytkownik wieczysty nie złożył oświadczenia, o którym mowa w ust. 4 pkt 2, albo bez uzasadnionej przyczyny nie przystąpi do zawarcia umowy, Krajowy Ośrodek odstępuje od zawarcia umowy.
-§ 5.
+Jeżeli użytkownik wieczysty nie złożył oświadczenia, o którym mowa w ust. 4 pkt 2, albo bez uzasadnionej przyczyny nie przystąpi do zawarcia umowy, Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. odstępuje od zawarcia umowy.
+§ 5W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 O przeznaczeniu do sprzedaży nieruchomości Krajowy Ośrodek zawiadamia na piśmie, stosownie do art. 29 ust. 1c ustawy, kolejne podmioty wymienione w art. 29 ust. 1 ustawy, mające pierwszeństwo w jej nabyciu. W zawiadomieniu podaje się dane wymienione w art. 28 ust. 2 ustawy, sposób zapłaty ceny oraz informację o obciążeniach i zobowiązaniach, których przedmiotem jest ta nieruchomość. W przypadku sprzedaży nieruchomości rolnej zamieszcza się dodatkowo informację o konieczności spełnienia przez nabywcę wymagania określonego w art. 28a ust. 1 ustawy.
 2.
@@ -155,8 +150,7 @@ nie złoży w wyznaczonym terminie żadnego oświadczenia,
 3)
 złoży w wyznaczonym terminie oświadczenie o skorzystaniu z pierwszeństwa na warunkach innych niż określone w zawiadomieniu,
 4)
-bez uzasadnionej przyczyny nie przystąpi w wyznaczonych terminie i miejscu do zawarcia umowy lub nie spełni warunków określonych w zawiadomieniu
-Krajowy Ośrodek przeznacza nieruchomość do sprzedaży kolejnemu podmiotowi, któremu przysługuje pierwszeństwo nabycia tej nieruchomości, a w razie braku takiego podmiotu – może sprzedać ją w przetargu.
+bez uzasadnionej przyczyny nie przystąpi w wyznaczonych terminie i miejscu do zawarcia umowy lub nie spełni warunków określonych w zawiadomieniu – Krajowy Ośrodek przeznacza nieruchomość do sprzedaży kolejnemu podmiotowi, któremu przysługuje pierwszeństwo nabycia tej nieruchomości, a w razie braku takiego podmiotu – może sprzedać ją w przetargu.
 § 6.
 Zawarcie umowy sprzedaży bez przetargu w przypadku, o którym mowa w art. 29 ust. 3a ustawy, nie jest dopuszczalne po upływie 3 miesięcy od dnia zamknięcia ostatniego przetargu.
 § 7.
@@ -165,7 +159,7 @@ Przetarg ogłasza organizator przetargu w sposób zwyczajowo przyjęty w miejsco
 2.
 W jednym ogłoszeniu można zamieścić informacje o przetargach na jedną lub więcej nieruchomości.
 3.
-Informacja o ogłoszeniu przetargu jest umieszczana na stronie internetowej Krajowego Ośrodka.
+Informacja o ogłoszeniu przetargu jest umieszczana na stronie internetowej Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 4.
 W ogłoszeniu o przetargu podaje się w szczególności:
 1)
@@ -209,12 +203,12 @@ nie zatwierdzić wniosku komisji przetargowej w sprawie rozstrzygnięcia przetar
 14)
 pouczenie o przypadkach, w których wadium nie podlega zwrotowi;
 15)
-informację o konieczności uzyskania przez organizatora przetargu pełnomocnictwa Dyrektora Generalnego Krajowego Ośrodka do zawarcia umowy, jeżeli takie pełnomocnictwo jest wymagane;
+informację o konieczności uzyskania przez organizatora przetargu pełnomocnictwa Dyrektora Generalnego Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. do zawarcia umowy, jeżeli takie pełnomocnictwo jest wymagane;
 16)
 informację o miejscu i czasie, w których można zapoznać się przed przetargiem z postanowieniami projektu umowy sprzedaży, które nie podlegają ustaleniu w trybie przetargu;
 17)
 w przypadku możliwości uzyskania pomocy publicznej poprzez rozłożenie ceny sprzedaży na raty – pouczenie o konieczności złożenia informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743).
-§ 7a.
+§ 7aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5..
 1.
 W szczególnie uzasadnionych przypadkach organizator przetargu może podjąć decyzję o przeprowadzeniu czynności wymagających stawienia się uczestników przetargu przy użyciu środków komunikacji elektronicznej. Obowiązek stawienia się uczestnika przetargu uważa się za spełniony, jeżeli uczestniczył on w przetargu przy użyciu środków komunikacji elektronicznej.
 2.
@@ -306,17 +300,17 @@ nikt nie stawił się na przetarg ustny albo nie wpłynęła żadna oferta na pr
 komisja odrzuciła wszystkie oferty lub nie wybrała żadnej oferty.
 § 14.
 1.
-Uczestnik przetargu może wnieść do Dyrektora Generalnego Krajowego Ośrodka zastrzeżenia na czynności przetargowe, za pośrednictwem organizatora przetargu, w terminie 7 dni od dnia dokonania tej czynności.
+Uczestnik przetargu może wnieść do Dyrektora Generalnego Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. zastrzeżenia na czynności przetargowe, za pośrednictwem organizatora przetargu, w terminie 7 dni od dnia dokonania tej czynności.
 2.
 W przypadku wniesienia zastrzeżeń, o których mowa w ust. 1, organizator przetargu wstrzymuje dalsze czynności związane ze sprzedażą nieruchomości oraz zawiadamia o tym na piśmie osobę, która wygrała przetarg.
 3.
-O sposobie rozpatrzenia zastrzeżeń, o których mowa w ust. 1, Dyrektor Generalny Krajowego Ośrodka zawiadamia na piśmie organizatora przetargu.
+O sposobie rozpatrzenia zastrzeżeń, o których mowa w ust. 1, Dyrektor Generalny Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. zawiadamia na piśmie organizatora przetargu.
 4.
 W przypadku uznania zastrzeżeń za zasadne organizator przetargu zawiadamia na piśmie wszystkich uczestników przetargu.
 5.
 W przypadku uznania zastrzeżeń za niezasadne organizator przetargu zawiadamia na piśmie uczestnika przetargu, który wniósł zastrzeżenia, a także osobę, która wygrała przetarg.
 § 15.
-W razie stwierdzenia, że czynności przetargowe zostały dokonane w sposób niezgodny z ustawą lub innymi przepisami, których naruszenie miało wpływ na wynik przetargu, Dyrektor Generalny Krajowego Ośrodka unieważnia przetarg.
+W razie stwierdzenia, że czynności przetargowe zostały dokonane w sposób niezgodny z ustawą lub innymi przepisami, których naruszenie miało wpływ na wynik przetargu, Dyrektor Generalny Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. unieważnia przetarg.
 § 16.
 1.
 Przetarg ustny przeprowadza się, jeżeli stawił się chociażby jeden uczestnik przetargu. Przewodniczący komisji rozpoczyna przetarg od stwierdzenia prawidłowości ogłoszenia przetargu, a następnie przekazuje uczestnikom przetargu informacje, o których mowa w § 7 ust. 4 pkt 1–6, 8 i 10–16, oraz sprawdza, czy wadia zostały wniesione we właściwej wysokości, formie, miejscu oraz terminie określonych w ogłoszeniu o przetargu.
@@ -412,7 +406,7 @@ dokumentów określających zakres rzeczowy i wartość poniesionych nakładów 
 b)
 zaświadczenia wojewódzkiego konserwatora zabytków, że zakres rzeczowy nakładów wykonany został przez nabywcę w ramach realizacji zaleceń organów ochrony zabytków dotyczącej nabytej nieruchomości zabytkowej;
 2)
-przedłoży na rzecz Krajowego Ośrodka zabezpieczenie ewentualnego roszczenia o zwrot kwoty obniżenia, przy czym suma zabezpieczenia nie może być niższa od kwoty obniżenia.
+przedłoży na rzecz Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. zabezpieczenie ewentualnego roszczenia o zwrot kwoty obniżenia, przy czym suma zabezpieczenia nie może być niższa od kwoty obniżenia.
 2.
 Nabywca nieruchomości w zależności od formy zabezpieczenia, o którym mowa w ust. 1 pkt 2, składa odpowiednio:
 1)
@@ -430,7 +424,7 @@ umowę przewłaszczenia na zabezpieczenie oraz polisę ubezpieczeniową przewła
 7)
 umowę zastawu rejestrowego, a po dokonaniu wpisu zastawu do rejestru zastawów – odpis z rejestru zastawów;
 8)
-zaświadczenie o blokadzie środków pieniężnych na rachunku bankowym oraz upoważnienie dla Krajowego Ośrodka do dysponowania zablokowaną kwotą środków pieniężnych;
+zaświadczenie o blokadzie środków pieniężnych na rachunku bankowym oraz upoważnienie dla Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. do dysponowania zablokowaną kwotą środków pieniężnych;
 9)
 pełnomocnictwo do dysponowania rachunkiem bankowym;
 10)
@@ -443,9 +437,11 @@ umowę o przystąpieniu do długu oraz dokumenty dotyczące sytuacji finansowej 
 1.
 Stawkę szacunkową użytku rolnego, z zastrzeżeniem ust. 2–4, ustala się, uwzględniając rodzaj i klasę gruntu, określone w ewidencji gruntów, oraz okręg podatkowy według przepisów o podatku rolnym w następujący sposób:
 1)
-dla gruntu ornego: Okręg podatkowy Wyrażone w dt żyta stawki szacunkowe dla 1 ha gruntu ornego klasy: I II IIIa IIIb IVa IVb V VI VIz I 145 132 118 100 80 60 35 15 8 II 126 115 103 86 70 52 30 12 5 III 110 100 90 75 60 45 25 10 1 IV 94 85 76 64 50 38 20 6 1
+dla gruntu ornego:
+Okręg podatkowy Wyrażone w dt żyta stawki szacunkowe dla 1 ha gruntu ornego klasy: I II IIIa IIIb IVa IVb V VI VIz I 145 132 118 100 80 60 35 15 8 II 126 115 103 86 70 52 30 12 5 III 110 100 90 75 60 45 25 10 1 IV 94 85 76 64 50 38 20 6 1
 2)
-dla łąk trwałych i pastwisk trwałych: Okręg podatkowy Wyrażone w dt żyta stawki szacunkowe dla 1 ha łąk trwałych i pastwisk trwałych klasy: I II III IV V VI VIz I 145 118 93 67 35 13 5 II 126 103 80 58 30 10 3 III 110 90 70 50 25 8 1 IV 94 76 60 43 20 5 1
+dla łąk trwałych i pastwisk trwałych:
+Okręg podatkowy Wyrażone w dt żyta stawki szacunkowe dla 1 ha łąk trwałych i pastwisk trwałych klasy: I II III IV V VI VIz I 145 118 93 67 35 13 5 II 126 103 80 58 30 10 3 III 110 90 70 50 25 8 1 IV 94 76 60 43 20 5 1
 2.
 Stawkę szacunkową gruntu pod stawami ustala się według stawki gruntu ornego albo łąk trwałych i pastwisk trwałych pod tymi stawami. W razie braku klasyfikacji stawkę szacunkową gruntu pod stawami ustala się według stawki łąk trwałych i pastwisk trwałych klasy I.
 3.
@@ -463,6 +459,5 @@ użytki ekologiczne – ustala się według stawki odpowiedniego użytku gruntow
 4)
 nieużytki, grunty pod wodami powierzchniowymi lub tereny różne – ustala się, przyjmując 50% stawki łąk trwałych i pastwisk trwałych klasy VI.
 § 27.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Ustawa z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561 i 1873) została znowelizowana przez art. 8 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), która weszła w życie z dniem 1 września 2017 r.; zgodnie z art. 60 ust. 2 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa przepisy wykonawcze wydane na podstawie art. 32 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa zachowują moc i mogą być zmieniane na podstawie tego przepisu. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 1412), które weszło w życie z dniem 7 sierpnia 2018 r. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 683), które weszło w życie z dniem 18 kwietnia 2020 r. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 5. 7) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 9) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 10) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 11) Rozporządzenie zostało ogłoszone w dniu 18 maja 2012 r. 12) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 lutego 2010 r. w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków rozkładania ceny sprzedaży na raty oraz stawek szacunkowych gruntów (Dz. U. poz. 151), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 11 ustawy z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1382).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 maja 2012 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 lutego 2010 r. w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków rozkładania ceny sprzedaży na raty oraz stawek szacunkowych gruntów (Dz. U. poz. 151), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 11 ustawy z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1382). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Ustawa z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561 i 1873) została znowelizowana przez art. 8 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), która weszła w życie z dniem 1 września 2017 r.; zgodnie z art. 60 ust. 2 pkt 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa przepisy wykonawcze wydane na podstawie art. 32 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa zachowują moc i mogą być zmieniane na podstawie tego przepisu. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 1412), które weszło w życie z dniem 7 sierpnia 2018 r. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 683), które weszło w życie z dniem 18 kwietnia 2020 r. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 5. 7) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5. 8) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 9) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 10) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 11) Rozporządzenie zostało ogłoszone w dniu 18 maja 2012 r. 12) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 17 lutego 2010 r. w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków rozkładania ceny sprzedaży na raty oraz stawek szacunkowych gruntów (Dz. U. poz. 151), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 11 ustawy z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1382).
 

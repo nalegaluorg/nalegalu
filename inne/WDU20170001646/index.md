@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 25 sierpnia 2017 r. w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 25 sierpnia 2017 r. w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-25 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1646/text.pdf) |
 
@@ -90,7 +89,7 @@ Do dziennika lekcyjnego wpisuje się w porządku alfabetycznym lub innym ustalon
 3.
 W dzienniku lekcyjnym prowadzonym przez szkołę dla dzieci i młodzieży odnotowuje się obecność uczniów na zajęciach edukacyjnych, liczbę godzin usprawiedliwionych i nieusprawiedliwionych nieobecności uczniów na tych zajęciach oraz wpisuje się tematy przeprowadzonych zajęć edukacyjnych, oceny bieżące, śródroczne i roczne (semestralne) oceny klasyfikacyjne z zajęć edukacyjnych oraz śródroczne i roczne oceny klasyfikacyjne zachowania. Przeprowadzenie zajęć edukacyjnych nauczyciel potwierdza podpisem.
 4.
-Bieżące oceny opisowe, śródroczne i roczne opisowe oceny klasyfikacyjne z zajęć edukacyjnych, o których mowa w art. 44i ust. 1 pkt 2, ust. 2, 4 i 7 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.), zwanej dalej „ustawą o systemie oświaty”, oraz śródroczne i roczne opisowe oceny klasyfikacyjne zachowania, o których mowa w art. 44i ust. 1 pkt 2, ust. 4 i 7 ustawy o systemie oświaty, sporządzone komputerowo w postaci wydruku podpisanego przez odpowiednio nauczyciela prowadzącego dane zajęcia edukacyjne albo wychowawcę klasy, można dołączyć do dziennika lekcyjnego, co jest równoznaczne z wpisem do dziennika lekcyjnego.
+Bieżące oceny opisowe, śródroczne i roczne opisowe oceny klasyfikacyjne z zajęć edukacyjnych, o których mowa w art. 44i ust. 1 pkt 2, ust. 2, 4 i 7 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.), zwanej dalej „ustawą o systemie oświaty”, oraz śródroczne i roczne opisowe oceny klasyfikacyjne zachowania, o których mowa w art. 44i ust. 1 pkt 2, ust. 4 i 7 ustawy o systemie oświaty, sporządzone komputerowo w postaci wydruku podpisanego przez odpowiednio nauczyciela prowadzącego dane zajęcia edukacyjne albo wychowawcę klasy, można dołączyć do dziennika lekcyjnego, co jest równoznaczne z wpisem do dziennika lekcyjnego.
 5.
 W dzienniku lekcyjnym prowadzonym przez szkołę dla dorosłych wpisuje się tematy przeprowadzonych zajęć edukacyjnych, oceny uzyskane w ramach wewnątrzszkolnego systemu oceniania oraz oceny z ustnych i pisemnych egzaminów semestralnych i egzaminów poprawkowych. Przeprowadzenie zajęć nauczyciel potwierdza podpisem. Integralną częścią dziennika lekcyjnego są listy obecności słuchaczy na zajęciach edukacyjnych, na których słuchacze potwierdzają podpisem obecność na poszczególnych godzinach zajęć.
 § 9.
@@ -282,8 +281,7 @@ Z dniem 1 września 2017 r. dokumentacja przebiegu nauczania, o której mowa w �
 7.
 Z dniem 1 września 2017 r. dokumentacja badań i czynności uzupełniających, o której mowa w § 20 rozporządzenia wymienionego w ust. 1, prowadzona przez dotychczasową szkołę podstawową, szkołę policealną i szkołę specjalną przysposabiającą do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi staje się dokumentacją badań i czynności uzupełniających, o której mowa w § 19, prowadzoną przez szkołę podstawową, szkołę policealną i szkołę specjalną przysposabiającą do pracy.
 § 29.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
 
 # Księga arkuszy ocen zawiera wykazy uczniów, a w przypadku szkoły dla dorosłych – wykazy słuchaczy, wszystkich oddziałów, którzy w danym roku szkolnym ukończyli lub opuścili szkołę, oraz ich arkusze ocen. Na pierwszej stronie księgi arkuszy ocen umieszcza się adnotację odpowiednio:
 

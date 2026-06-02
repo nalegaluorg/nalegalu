@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-29 |
 | Data wydania | 2020-06-30 |
-| Wejście w życie | 2020-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001150) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1150/text.pdf) |
 
@@ -41,5 +40,5 @@ Sąd Okręgowy w Poznaniu – do spraw z obszaru właściwości sądów okręgow
 5)
 Sąd Okręgowy w Warszawie – do spraw z obszaru właściwości sądów okręgowych: w Białymstoku, Łomży, Ostrołęce, Piotrkowie Trybunalskim, Płocku, Suwałkach, Warszawie i Warszawa-Praga w Warszawie.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 19 marca 2018 r. w sprawie wyznaczenia sądu okręgowego właściwego do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (Dz. U. poz. 636), które traci moc z dniem wejścia w życie ustawy z dnia 13 lutego 2020 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 288 i 875). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 19 marca 2018 r. w sprawie wyznaczenia sądu okręgowego właściwego do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (Dz. U. poz. 636), które traci moc z dniem wejścia w życie ustawy z dnia 13 lutego 2020 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 288 i 875).
 

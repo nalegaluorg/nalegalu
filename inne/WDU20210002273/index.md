@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 7 grudnia 2021 r. w sprawie warunków ustalania technicznej możliwości i opłacalności zastosowania ciepłomierzy, podzielników kosztów ogrzewania oraz wodomierzy do pomiaru ciepłej wody użytkowej, warunków wyboru metody rozliczania kosztów zakupu ciepła oraz zakresu informacji zawartych w indywidualnych rozliczeniach
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 7 grudnia 2021 r. w sprawie warunków ustalania technicznej możliwości i opłacalności zastosowania ciepłomierzy, podzielników kosztów ogrzewania oraz wodomierzy do pomiaru ciepłej wody użytkowej, warunków wyboru metody rozliczania kosztów zakupu ciepła oraz zakresu informacji zawartych w indywidualnych rozliczeniach Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-07 |
 | Data wydania | 2021-12-09 |
-| Wejście w życie | 2021-12-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002273) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2273/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 45d ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24, Dz. Urz. UE L 141 z 28.05.2013, str. 28, Dz. Urz. UE L 156 z 19.06.2018, str. 75, Dz. Urz. UE L 328 z 21.12.2018, str. 1 i 210, Dz. Urz. UE L 85 I z 27.03.2019, str. 66, Dz. Urz. UE L 137 z 23.05.2019, str. 3 oraz Dz. Urz. UE L 158 z 14.06.2019, str. 125). Na podstawie art. 45d ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269 i 2271.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -98,7 +97,7 @@ minimalnego kosztu zmiennego zakupu ciepła zależnego od jego zużycia w lokala
 1.
 Maksymalny koszt zmienny zakupu ciepła, o którym mowa w § 7 ust. 2 pkt 1, wylicza się jako wartość zużycia ciepła na dany lokal wynikającą z technicznej możliwości dostawy ciepła do lokalu.
 2.
-Minimalny koszt zmienny zakupu ciepła, o którym mowa w § 7 ust. 2 pkt 2, wylicza się jako wartość zużycia ciepła do ogrzania lokalu konieczną do utrzymania w nim temperatur nie niższych niż temperatury obliczeniowe ogrzewanych pomieszczeń określone w przepisach wydanych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.).
+Minimalny koszt zmienny zakupu ciepła, o którym mowa w § 7 ust. 2 pkt 2, wylicza się jako wartość zużycia ciepła do ogrzania lokalu konieczną do utrzymania w nim temperatur nie niższych niż temperatury obliczeniowe ogrzewanych pomieszczeń określone w przepisach wydanych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282, 784 i 1986.).
 § 9.
 Zakres przekazywanych użytkownikom lokali informacji dotyczących rozliczeń kosztów zakupu ciepła dla użytkowników lokali zaopatrywanych w energię cieplną, chłodniczą lub ciepłą wodę użytkową z centralnego źródła w budynku wielolokalowym, o których mowa w art. 45c ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, obejmuje:
 1)
@@ -189,6 +188,5 @@ Przepisów § 3 i § 6 nie stosuje się w przypadku budynku wielolokalowego, kt�
 § 12.
 Właściciel lub zarządca budynku dostosowuje regulamin rozliczeń w terminie 12 miesięcy od dnia wejścia w życie rozporządzenia, w przypadku gdy zmiana wynikająca z rozporządzenia dotyczy metod rozliczania kosztów zakupu ciepła lub zakresu informacji wskazanych w § 9 oraz § 10.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24, Dz. Urz. UE L 141 z 28.05.2013, str. 28, Dz. Urz. UE L 156 z 19.06.2018, str. 75, Dz. Urz. UE L 328 z 21.12.2018, str. 1 i 210, Dz. Urz. UE L 85 I z 27.03.2019, str. 66, Dz. Urz. UE L 137 z 23.05.2019, str. 3 oraz Dz. Urz. UE L 158 z 14.06.2019, str. 125). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269 i 2271. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282, 784 i 1986.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24, Dz. Urz. UE L 141 z 28.05.2013, str. 28, Dz. Urz. UE L 156 z 19.06.2018, str. 75, Dz. Urz. UE L 328 z 21.12.2018, str. 1 i 210, Dz. Urz. UE L 85 I z 27.03.2019, str. 66, Dz. Urz. UE L 137 z 23.05.2019, str. 3 oraz Dz. Urz. UE L 158 z 14.06.2019, str. 125). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269 i 2271. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282, 784 i 1986.
 

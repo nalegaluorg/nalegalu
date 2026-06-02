@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 20 lipca 2016 r. w sprawie obszarów, w odniesieniu do których organizacje producentów mogą występować o uznanie
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 20 lipca 2016 r. w sprawie obszarów, w odniesieniu do których organizacje producentów mogą występować o uznanie Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-20 |
 | Data wydania | 2016-08-05 |
-| Wejście w życie | 2016-08-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1183/text.pdf) |
 
@@ -49,9 +48,7 @@ w przypadku organizacji producentów sektora akwakultury, której członkowie pr
 a)
 chów lub hodowlę karpia, pstrąga albo innego gatunku ryb lub grup gatunków ryb w powierzchniowych wodach śródlądowych, w wodach znajdujących się w urządzeniach wodnych oraz w obiektach przeznaczonych do chowu lub hodowli ryb – cały obszar Rzeczypospolitej Polskiej w odniesieniu do produkcji karpia, pstrąga albo innego gatunku ryb lub grup gatunków ryb, na każdym etapie ich rozwoju,
 b)
-połowy ryb w powierzchniowych wodach śródlądowych – cały obszar Rzeczypospolitej Polskiej w odniesieniu do grup gatunków ryb
-przy czym wielkość zbywanej produkcji danego gatunku lub grup gatunków ryb oraz wielkość połowów danych grup gatunków ryb ustala się na podstawie danych dotyczących sprzedaży zawartych w badaniach statystycznych statystyki publicznej, o których mowa w przepisach o statystyce publicznej, za rok połowowy poprzedzający rok złożenia wniosku o uznanie organizacji producentów, potwierdzonych przez Instytut Rybactwa Śródlądowego im. Stanisława Sakowicza w Olsztynie.
+połowy ryb w powierzchniowych wodach śródlądowych – cały obszar Rzeczypospolitej Polskiej w odniesieniu do grup gatunków ryb – przy czym wielkość zbywanej produkcji danego gatunku lub grup gatunków ryb oraz wielkość połowów danych grup gatunków ryb ustala się na podstawie danych dotyczących sprzedaży zawartych w badaniach statystycznych statystyki publicznej, o których mowa w przepisach o statystyce publicznej, za rok połowowy poprzedzający rok złożenia wniosku o uznanie organizacji producentów, potwierdzonych przez Instytut Rybactwa Śródlądowego im. Stanisława Sakowicza w Olsztynie.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 7 października 2011 r. w sprawie ustalenia obszarów uznawania organizacji producentów (Dz. U. poz. 1365), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 2 ust. 1 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o organizacji rynku rybnego (Dz. U. poz. 1267).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 7 października 2011 r. w sprawie ustalenia obszarów uznawania organizacji producentów (Dz. U. poz. 1365), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 2 ust. 1 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o organizacji rynku rybnego (Dz. U. poz. 1267). 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 7 października 2011 r. w sprawie ustalenia obszarów uznawania organizacji producentów (Dz. U. poz. 1365), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 2 ust. 1 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o organizacji rynku rybnego (Dz. U. poz. 1267).
 

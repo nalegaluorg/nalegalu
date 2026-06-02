@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-17 |
 | Data wydania | 2021-11-29 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002163) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2163/text.pdf) |
 
@@ -31,7 +30,7 @@ source: "eli-html"
 - **1)** w art. 4 w pkt 30 kropkę zastępuje się średnikiem i dodaje się pkt 31–33 w brzmieniu: „
 - **31)** zabudowie zagrodowej – rozumie się przez to budynki mieszkalne oraz budynki i urządzenia służące wyłącznie produkcji rolniczej oraz przetwórstwu rolno-spożywczemu, jeżeli są położone na gruntach rolnych i wchodzą w skład gospodarstwa rolnego;
 - **32)** gospodarstwie rolnym – rozumie się przez to gospodarstwo rolne w rozumieniu art. 553 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2020 r. poz. 1740 i 2320 oraz z 2021 r. poz. 1509);
-- **33)** działalności rolniczej – rozumie się przez to działalność rolniczą w rozumieniu art. 2 ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.). ” ;
+- **33)** działalności rolniczej – rozumie się przez to działalność rolniczą w rozumieniu art. 2 ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105 i 2133.). ” ;
 - **2)** po art. 12a dodaje się art. 12b w brzmieniu: „
 
 **Art. 12b.**
@@ -67,5 +66,5 @@ source: "eli-html"
 
 **Art. 2.** Do wyłączenia gruntów z produkcji w rozumieniu ustawy zmienianej w art. 1, w sprawach objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105 i 2133.
 

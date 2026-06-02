@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-23 |
 | Data wydania | 2015-11-04 |
-| Wejście w życie | 2015-11-12 |
 | Ostatnia zmiana | 2025-10-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001795) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1795/text.pdf) |
 
@@ -48,10 +47,9 @@ Pomoc przyznaje się rolnikowi, o którym mowa w art. 17 ust. 2 rozporządzenia 
 1)
 jest posiadaczem samoistnym lub zależnym:
 a)
-gospodarstwa rolnego w rozumieniu art. 553 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.), obejmującego co najmniej 1 ha gruntów ornych, sadów, łąk trwałych, pastwisk trwałych, gruntów rolnych zabudowanych, gruntów pod stawami lub gruntów pod rowami, lub
+gospodarstwa rolnego w rozumieniu art. 553 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397, 539, 1137, 1311, 1357 i 1433.), obejmującego co najmniej 1 ha gruntów ornych, sadów, łąk trwałych, pastwisk trwałych, gruntów rolnych zabudowanych, gruntów pod stawami lub gruntów pod rowami, lub
 b)
-nieruchomości służącej do prowadzenia produkcji w zakresie działów specjalnych produkcji rolnej w rozumieniu ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2015 r. poz. 704, z późn. zm.) w brzmieniu z dnia 12 grudnia 2014 r.
-położonych na terytorium Rzeczypospolitej Polskiej, zwanych dalej „gospodarstwem”;
+nieruchomości służącej do prowadzenia produkcji w zakresie działów specjalnych produkcji rolnej w rozumieniu ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2015 r. poz. 704, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1066, 1217, 1268, 1506 i 1649.) w brzmieniu z dnia 12 grudnia 2014 r. – położonych na terytorium Rzeczypospolitej Polskiej, zwanych dalej „gospodarstwem”;
 2)
 gospodarstwo, którego jest posiadaczem, jest położone co najmniej w części na gruntach, które są objęte, nie wcześniej niż od dnia 1 maja 2012 r., obszarem określonym na podstawie art. 47 ust. 3 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2015 r. poz. 469, 1590 i 1642), zwanym dalej „OSN”, dla którego został wprowadzony program działań mających na celu ograniczenie odpływu azotu ze źródeł rolniczych na podstawie art. 47 ust. 7 ustawy z dnia 18 lipca 2001 r. – Prawo wodne, zwany dalej „programem działań”;
 3)
@@ -75,7 +73,7 @@ Uznaje się, że rolnik będący osobą fizyczną kieruje gospodarstwem, jeżeli
 4.
 Warunki przyznania pomocy, o których mowa w ust. 1 pkt 1–3 oraz ust. 2, powinny być spełniane co najmniej od dnia złożenia wniosku o przyznanie pomocy.
 5.
-W przypadku rolnika będącego osobą prawną albo spółką osobową w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.) pomoc jest przyznawana, jeżeli poza warunkami wymienionymi w ust. 1 jest ponadto wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej od dnia złożenia wniosku o przyznanie pomocy.
+W przypadku rolnika będącego osobą prawną albo spółką osobową w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4, 978 i 1333.) pomoc jest przyznawana, jeżeli poza warunkami wymienionymi w ust. 1 jest ponadto wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej od dnia złożenia wniosku o przyznanie pomocy.
 6.
 W przypadku rolnika będącego wspólnikiem spółki cywilnej pomoc jest przyznawana, jeżeli numer identyfikacyjny został nadany spółce oraz jeżeli poza warunkami wymienionymi w ust. 1 pkt 1 i 3 ponadto:
 1)
@@ -151,8 +149,7 @@ zbiorników do przechowywania gnojowicy lub gnojówki,
 b)
 płyt do gromadzenia i przechowywania obornika,
 c)
-zbiorników lub płyt do przechowywania pasz soczystych
-wraz z zakupem instalacji technicznej lub wyposażenia,
+zbiorników lub płyt do przechowywania pasz soczystych – wraz z zakupem instalacji technicznej lub wyposażenia,
 2)
 rozbiórki i utylizacji materiałów pochodzących z rozbiórki pod warunkiem, że rozbiórka jest niezbędna w celu realizacji operacji,
 3)
@@ -174,8 +171,7 @@ z adapterem pionowym,
 c)
 z adapterem dwubębnowym poziomym,
 6)
-ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi”
-które są uzasadnione wielkością prowadzonej w gospodarstwie produkcji, adekwatne do panujących w nim warunków gospodarowania, niezbędne do osiągnięcia celu operacji oraz racjonalne.
+ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi” – które są uzasadnione wielkością prowadzonej w gospodarstwie produkcji, adekwatne do panujących w nim warunków gospodarowania, niezbędne do osiągnięcia celu operacji oraz racjonalne.
 2.
 Do kosztów kwalifikowalnych zalicza się koszty budowy, przebudowy lub zakupu zbiorników, o których mowa w ust. 1 pkt 1 lit. a, oraz płyt, o których mowa w ust. 1 pkt 1 lit. b, o pojemności, która:
 1)
@@ -318,7 +314,7 @@ kosztorys inwestorski – w przypadku gdy operacja obejmuje inwestycję polegaj�
 8)
 opis zadań wymienionych w zestawieniu rzeczowo-finansowym operacji, sporządzony na formularzu opracowanym i udostępnionym przez Agencję – w przypadku operacji, w ramach której będzie realizowane co najmniej jedno zadanie niewymagające załączenia do wniosku kosztorysu, o którym mowa w pkt 7;
 9)
-kopie dokumentów potwierdzających posiadanie samoistne lub zależne gospodarstwa, w którym będzie realizowana operacja, z tym że w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 251 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.), jest wystarczające podanie numeru księgi wieczystej;
+kopie dokumentów potwierdzających posiadanie samoistne lub zależne gospodarstwa, w którym będzie realizowana operacja, z tym że w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 251 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289 oraz z 2015 r. poz. 218, 978 i 1433.), jest wystarczające podanie numeru księgi wieczystej;
 10)
 oświadczenie właściciela albo współposiadacza gospodarstwa albo jego części o wyrażeniu zgody na ubieganie się o przyznanie pomocy przez podmiot ubiegający się o przyznanie pomocy na realizację operacji, sporządzone na formularzu opracowanym i udostępnionym przez Agencję – w przypadku gdy operacja będzie realizowana w gospodarstwie niestanowiącym własności podmiotu ubiegającego się o przyznanie pomocy albo będzie realizowana w gospodarstwie stanowiącym przedmiot współposiadania;
 11)
@@ -595,7 +591,7 @@ Do przyznawania i wypłaty środków finansowych z tytułu kosztów ogólnych, o
 § 31.
 W 2015 r. Agencja udostępni formularz wniosku o płatność oraz wzór umowy najpóźniej w dniu rozpoczęcia terminu składania wniosków o przyznanie pomocy.
 § 32.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397, 539, 1137, 1311, 1357 i 1433. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1066, 1217, 1268, 1506 i 1649. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4, 978 i 1333. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289 oraz z 2015 r. poz. 218, 978 i 1433.
 Załącznik – Współczynniki przeliczania zwierząt na duże jednostki przeliczeniowe (DJP)
 Lp. Rodzaj zwierząt Współczynnik przeliczania zwierząt na DJP Lp. Rodzaj zwierząt Współczynnik przeliczania zwierząt na DJP Konie ras dużych / konie pozostałe Owce 1 Ogiery, klacze, wałachy 1,2 26 Owce powyżej 1,5 roku 0,1 2 Źrebaki powyżej 2 lat 1 27 Tryki powyżej 1,5 roku 0,12 3 Źrebaki powyżej 1 roku do 2 lat 0,8 28 Jagnięta do 3,5 miesiąca 0,05 4 Źrebaki powyżej 6 miesięcy do 1 roku 0,5 29 Tryczki 0,08 5 Źrebięta do 6 miesięcy 0,3 30 Maciorki 0,1 Konie ras małych (m.in. hucuł, konik polski) Drób 6 Ogiery, klacze, wałachy 0,6 31 Kury, kaczki 0,004 7 Źrebaki powyżej 2 lat 0,5 32 Kurki i kogutki do 18 tygodni 0,0014 8 Źrebaki powyżej 1 roku do 2 lat 0,35 33 Gęsi 0,008 9 Źrebaki powyżej 6 miesięcy do 1 roku 0,2 34 Indyki 0,024 10 Źrebięta do 6 miesięcy 0,12 35 Przepiórki 0,0003 Bydło 36 Perlice 0,003 11 Buhaje 1,4 37 Strusie afrykańskie 0,2 12 Krowy 1 38 Strusie emu i nandu 0,1 13 Jałówki cielne 1 Inne 14 Jałówki i byczki powyżej 1 roku 0,8 39 Jelenie 0,29 15 Jałówki i byczki powyżej 6 miesięcy do 1 roku 0,3 40 Daniele 0,12 16 Cielęta do 6 miesięcy 0,15 41 Lisy pospolite 0,017 Kozy 42 Lisy polarne 0,027 17 Kozy matki 0,15 43 Jenoty 0,02 18 Koźlęta do 3,5 miesiąca 0,05 44 Norki samice 0,0036 19 Koźlęta powyżej 3,5 miesiąca do 1,5 roku 0,08 45 Norki samce 0,007 20 Pozostałe kozy 0,1 46 Nutrie 0,007 Trzoda chlewna 47 Króliki 0,007 21 Knury 0,4 48 Szynszyle 0,001 22 Maciory 0,35 49 Tchórze samice 0,002 23 Warchlaki powyżej 2 miesięcy do 4 miesięcy 0,07 50 Tchórze samce 0,004 24 Prosięta do 2 miesięcy 0,02 25 Tuczniki 0,14
 

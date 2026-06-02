@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 czerwca 2010 r. o zmianie ustawy o kontroli skarbowej oraz niektórych innych ustaw
+# Ustawa z dnia 25 czerwca 2010 r. o zmianie ustawy o kontroli skarbowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych, ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy i ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,27 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-06-25 |
 | Data wydania | 2010-07-15 |
-| Wejście w życie | 2010-07-30 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101270858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/858/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.) wprowadza się następujące zmiany:
+Kara pieniężna
+
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119, Nr 191, poz. 1413 i Nr 217, poz. 1590, z 2007 r. Nr 171, poz. 1207, z 2008 r. Nr 110, poz. 707, Nr 209, poz. 1318 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 85, poz. 716, Nr 166, poz. 1317 i Nr 201, poz. 1540 oraz z 2010 r. Nr 76, poz. 492.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
 
 2. Celem kontroli skarbowej jest również badanie zgodności z prawem gospodarowania mieniem innych państwowych osób prawnych oraz zapobieganie i ujawnianie przestępstw określonych w art. 228–231 Kodeksu karnego popełnianych przez osoby zatrudnione lub pełniące służbę w jednostkach organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych. ” ;
 
-- **2)** w art. 2: w ust. 1: – pkt 2–4 otrzymują brzmienie: „ 2) ujawnianie i kontrola niezgłoszonej do opodatkowania działalności gospodarczej; 3) kontrola źródeł pochodzenia majątku oraz przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych; 4) kontrola celowości i zgodności z prawem gospodarowania środkami publicznymi oraz środkami pochodzącymi z Unii Europejskiej i międzynarodowych instytucji finansowych, z wyłączeniem kontroli celowości wykorzystania środków zaliczanych do dochodów własnych i subwencji ogólnej jednostki samorządu terytorialnego; ” , – pkt 7 otrzymuje brzmienie: „ 7) audyt gospodarowania środkami pochodzącymi z budżetu Unii Europejskiej oraz niepodlegającymi zwrotowi środkami z innych źródeł zagranicznych, w tym certyfikacja i wydawanie deklaracji zamknięcia, zwany dalej „audytem”; ” , – pkt 12 otrzymuje brzmienie: „ 12) zapobieganie i wykrywanie naruszeń krajowych przepisów celnych oraz ściganie naruszeń krajowych lub wspólnotowych przepisów celnych przez wykonywanie nadzoru transgranicznego osób, miejsc, środków transportu i towarów oraz dostawy kontrolowanej, w rozumieniu Konwencji sporządzonej na podstawie artykułu K.3 Traktatu o Unii Europejskiej w sprawie wzajemnej pomocy i współpracy między administracjami celnymi, sporządzonej w Brukseli dnia 18 grudnia 1997 r. (Dz. U. z 2008 r. Nr 6, poz. 31); ” , – uchyla się pkt 13, – dodaje się pkt 14a i 14b w brzmieniu: „ 14a) badanie prawidłowości stosowania cen urzędowych, a także cen umownych w zakresie objętym ograniczeniami swobodnego kształtowania ich poziomu – w granicach i na zasadach określonych w odrębnych przepisach; 14b) zapobieganie i ujawnianie przestępstw, o których mowa w art. 228–231 Kodeksu karnego, popełnianych przez osoby zatrudnione lub pełniące służbę w jednostkach organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych; ” , – uchyla się pkt 15, – uchyla się pkt 17, ust. 2 otrzymuje brzmienie: „
+- **2)** w art. 2: w ust. 1: pkt 2–4 otrzymują brzmienie: „
     - **a)**
+
+- **2)** ujawnianie i kontrola niezgłoszonej do opodatkowania działalności gospodarczej;
+- **3)** kontrola źródeł pochodzenia majątku oraz przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych;
+- **4)** kontrola celowości i zgodności z prawem gospodarowania środkami publicznymi oraz środkami pochodzącymi z Unii Europejskiej i międzynarodowych instytucji finansowych, z wyłączeniem kontroli celowości wykorzystania środków zaliczanych do dochodów własnych i subwencji ogólnej jednostki samorządu terytorialnego; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** audyt gospodarowania środkami pochodzącymi z budżetu Unii Europejskiej oraz niepodlegającymi zwrotowi środkami z innych źródeł zagranicznych, w tym certyfikacja i wydawanie deklaracji zamknięcia, zwany dalej „audytem”; ” , pkt 12 otrzymuje brzmienie: „
+- **12)** zapobieganie i wykrywanie naruszeń krajowych przepisów celnych oraz ściganie naruszeń krajowych lub wspólnotowych przepisów celnych przez wykonywanie nadzoru transgranicznego osób, miejsc, środków transportu i towarów oraz dostawy kontrolowanej, w rozumieniu Konwencji sporządzonej na podstawie artykułu K.3 Traktatu o Unii Europejskiej w sprawie wzajemnej pomocy i współpracy między administracjami celnymi, sporządzonej w Brukseli dnia 18 grudnia 1997 r. (Dz. U. z 2008 r. Nr 6, poz. 31); ” , – uchyla się pkt 13, dodaje się pkt 14a i 14b w brzmieniu: „
+- **14a)** badanie prawidłowości stosowania cen urzędowych, a także cen umownych w zakresie objętym ograniczeniami swobodnego kształtowania ich poziomu – w granicach i na zasadach określonych w odrębnych przepisach;
+- **14b)** zapobieganie i ujawnianie przestępstw, o których mowa w art. 228–231 Kodeksu karnego, popełnianych przez osoby zatrudnione lub pełniące służbę w jednostkach organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych; ” , – uchyla się pkt 15, – uchyla się pkt 17, ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. W ramach kontroli skarbowej prowadzonej w zakresie, o którym mowa w ust. 1 pkt 1–3, badaniu może podlegać również rzetelność deklarowanych podstaw opodatkowania oraz prawidłowość obliczania i wpłacania zobowiązań podatkowych stanowiących dochód jednostek samorządu terytorialnego. ” , dodaje się ust. 2a w brzmieniu: „
@@ -59,7 +68,7 @@ source: "eli-html"
 
 - **1)** instytucjach zarządzających, certyfikujących, pośredniczących, wdrażających, instytucji płatniczej, podmiotach zaangażowanych w realizację wspólnych programów finansowanych ze środków pochodzących z budżetu Unii Europejskiej oraz agencjach płatniczych, o których mowa w odrębnych przepisach,
 - **2)** podmiotach i jednostkach organizacyjnych wydatkujących, przekazujących i otrzymujących środki, o których mowa w art. 2 ust. 1 pkt 7,
-- **3)** podmiotach i jednostkach obowiązanych do wywiązywania się z warunków, o których mowa w ust. 1 pkt 4 zwanych dalej „audytowanymi”.
+- **3)** podmiotach i jednostkach obowiązanych do wywiązywania się z warunków, o których mowa w ust. 1 pkt 4 – zwanych dalej „audytowanymi”.
 
 3. Audyt jest wykonywany z uwzględnieniem międzynarodowych standardów audytu.
 
@@ -82,7 +91,7 @@ source: "eli-html"
 9. Do audytu:
 
 - **1)** nie stosuje się przepisów rozdziału 3, z wyjątkiem art. 13 ust. 6 i 8, art. 13c i 32, które stosuje się odpowiednio;
-- **2)** przepisy rozdziałów 1, 2, 3, art. 143 oraz rozdziałów 5, 6, 9, 10, 11, 14, 16, 22 i 23 działu IV oraz art. 285a-287 i art. 289 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) stosuje się odpowiednio. ” ;
+- **2)** przepisy rozdziałów 1, 2, 3, art. 143 oraz rozdziałów 5, 6, 9, 10, 11, 14, 16, 22 i 23 działu IV oraz art. 285a-287 i art. 289 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230 i Nr 57, poz. 355.) stosuje się odpowiednio. ” ;
 - **5)** w art. 4 w ust. 1: pkt 5 otrzymuje brzmienie: „
     - **a)**
 
@@ -127,7 +136,7 @@ source: "eli-html"
 
 1. Jeżeli organ kontroli skarbowej posiada uprawdopodobnione informacje o posługiwaniu się rachunkiem bankowym w celu prowadzenia niezgłoszonej do opodatkowania działalności gospodarczej, uzyskiwania przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych, uzyskiwania przychodów niezadeklarowanych albo przychodów nieujawnionych w złożonych deklaracjach, i jest to konieczne do realizacji kontroli skarbowej w zakresie, o którym mowa w art. 2 ust. 1 pkt 1–3, instytucje finansowe, o których mowa w art. 33 ust. 1–5, są obowiązane na żądanie organu kontroli skarbowej udostępnić i przekazać dane identyfikujące posiadacza tego rachunku bankowego. Art. 33b ust. 1 i 2 stosuje się odpowiednio.
 
-2. Jeżeli organ kontroli skarbowej posiada informacje o ogłoszeniach i reklamach wskazujących na prowadzenie działalności gospodarczej i jest to konieczne do realizacji kontroli skarbowej w zakresie, o którym mowa w art. 2 ust. 1 pkt 1–3, wydawca i redaktor dziennika lub czasopisma, nadawca programów radiowych i telewizyjnych oraz usługodawca świadczący usługi drogą elektroniczną w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.) są obowiązani na żądanie organu kontroli skarbowej do udzielenia posiadanych informacji o firmie i adresie przedsiębiorców lub imionach, nazwiskach i adresach osób fizycznych zamieszczających te ogłoszenia i reklamy, pozwalających na ich identyfikację.
+2. Jeżeli organ kontroli skarbowej posiada informacje o ogłoszeniach i reklamach wskazujących na prowadzenie działalności gospodarczej i jest to konieczne do realizacji kontroli skarbowej w zakresie, o którym mowa w art. 2 ust. 1 pkt 1–3, wydawca i redaktor dziennika lub czasopisma, nadawca programów radiowych i telewizyjnych oraz usługodawca świadczący usługi drogą elektroniczną w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371 oraz z 2009 r. Nr 201, poz. 1540.) są obowiązani na żądanie organu kontroli skarbowej do udzielenia posiadanych informacji o firmie i adresie przedsiębiorców lub imionach, nazwiskach i adresach osób fizycznych zamieszczających te ogłoszenia i reklamy, pozwalających na ich identyfikację.
 
 3. W przypadkach, o których mowa w ust. 1 i 2, przepisy art. 7c ust. 2 i 3 stosuje się odpowiednio. Do postanowień, o których mowa w art. 7c i 7d, przepisy rozdziałów 14–16 działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa stosuje się odpowiednio. ” ;
 
@@ -156,7 +165,7 @@ source: "eli-html"
 2. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia:
 
 - **1)** siedziby urzędów kontroli skarbowej,
-- **2)** organizację urzędów kontroli skarbowej biorąc pod uwagę potrzebę zapewnienia właściwej organizacji wykonywania zadań z zakresu kontroli skarbowej oraz administracyjny podział terytorialny państwa. ” , uchyla się ust. 3;
+- **2)** organizację urzędów kontroli skarbowej – biorąc pod uwagę potrzebę zapewnienia właściwej organizacji wykonywania zadań z zakresu kontroli skarbowej oraz administracyjny podział terytorialny państwa. ” , uchyla się ust. 3;
     - **b)**
 
 - **12)** w art. 9a: ust. 1 i 2 otrzymują brzmienie: „
@@ -187,8 +196,16 @@ source: "eli-html"
 - **2)** dostępność organów kontroli skarbowej;
 - **3)** administracyjny podział terytorialny państwa;
 - **4)** konieczność zapobiegania równoczesnemu podejmowaniu czynności w tej samej sprawie przez organy kontroli skarbowej oraz powstawaniu sporów o właściwość między organami kontroli skarbowej. ” ;
-- **13)** w art. 10: w ust. 2: – pkt 1 i 1a otrzymują brzmienie: „ 1) określa zadania urzędów kontroli skarbowej; 1a) sprawuje kontrolę wewnętrzną urzędów kontroli skarbowej; ” , – pkt 5 otrzymuje brzmienie: „ 5) upoważnia inspektorów i pracowników zatrudnionych lub oddelegowanych do wykonywania zadań służbowych w urzędzie obsługującym ministra właściwego do spraw finansów publicznych do przeprowadzania czynności kontrolnych, a także, w uzasadnionych przypadkach, decyduje o zmianie inspektora lub pracownika prowadzącego czynności kontrolne; ” , – pkt 6a otrzymuje brzmienie: „ 6a) przekazuje Komisji Europejskiej plany kontroli w zakresie kontroli środków pochodzących z budżetu Unii Europejskiej oraz niepodlegających zwrotowi środków z innych źródeł zagranicznych; ” , – uchyla się pkt 7, – w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11–13 w brzmieniu: „ 11) może wyznaczyć dyrektora urzędu kontroli skarbowej właściwego do wszczęcia i przeprowadzenia postępowania kontrolnego, kontroli podatkowej lub przeprowadzenia innej czynności w sprawach z zakresu kontroli skarbowej, także poza właściwością miejscową dyrektora urzędu kontroli skarbowej; 12) prowadzi działalność analityczną i prognostyczną w odniesieniu do negatywnych zjawisk występujących w zakresie kontroli skarbowej oraz przedstawia w tym zakresie informacje i analizy organom administracji rządowej; 13) zapewnia przy pomocy wyodrębnionych komórek organizacyjnych kontroli skarbowej, o których mowa w art. 11g ust. 1, ochronę fizyczną i techniczną inspektorom i pracownikom, a w uzasadnionych przypadkach także innym osobom, organom i instytucjom państwowym. ” , uchyla się ust. 2a, dodaje się ust. 2b w brzmieniu: „
+- **13)** w art. 10: w ust. 2: pkt 1 i 1a otrzymują brzmienie: „
     - **a)**
+
+- **1)** określa zadania urzędów kontroli skarbowej;
+- **1a)** sprawuje kontrolę wewnętrzną urzędów kontroli skarbowej; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** upoważnia inspektorów i pracowników zatrudnionych lub oddelegowanych do wykonywania zadań służbowych w urzędzie obsługującym ministra właściwego do spraw finansów publicznych do przeprowadzania czynności kontrolnych, a także, w uzasadnionych przypadkach, decyduje o zmianie inspektora lub pracownika prowadzącego czynności kontrolne; ” , pkt 6a otrzymuje brzmienie: „
+- **6a)** przekazuje Komisji Europejskiej plany kontroli w zakresie kontroli środków pochodzących z budżetu Unii Europejskiej oraz niepodlegających zwrotowi środków z innych źródeł zagranicznych; ” , – uchyla się pkt 7, w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11–13 w brzmieniu: „
+- **11)** może wyznaczyć dyrektora urzędu kontroli skarbowej właściwego do wszczęcia i przeprowadzenia postępowania kontrolnego, kontroli podatkowej lub przeprowadzenia innej czynności w sprawach z zakresu kontroli skarbowej, także poza właściwością miejscową dyrektora urzędu kontroli skarbowej;
+- **12)** prowadzi działalność analityczną i prognostyczną w odniesieniu do negatywnych zjawisk występujących w zakresie kontroli skarbowej oraz przedstawia w tym zakresie informacje i analizy organom administracji rządowej;
+- **13)** zapewnia przy pomocy wyodrębnionych komórek organizacyjnych kontroli skarbowej, o których mowa w art. 11g ust. 1, ochronę fizyczną i techniczną inspektorom i pracownikom, a w uzasadnionych przypadkach także innym osobom, organom i instytucjom państwowym. ” , uchyla się ust. 2a, dodaje się ust. 2b w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -238,7 +255,7 @@ source: "eli-html"
 
 - **1)** warunki, sposób i szczegółowy tryb wykonywania czynności, o których mowa w art. 11a ust. 1 pkt 1–3 i ust. 2,
 - **2)** sposób i tryb współpracy z Policją w zakresie wykonywanych czynności,
-- **3)** wzory dokumentów stosowanych w sprawach zatrzymania osoby i kontroli rodzaju paliwa używanego do napędu pojazdu mechanicznego biorąc pod uwagę potrzebę zapewnienia sprawności i skuteczności wykonywanych czynności oraz zasady zatrzymywania pojazdów obowiązujące w Policji. ” ;
+- **3)** wzory dokumentów stosowanych w sprawach zatrzymania osoby i kontroli rodzaju paliwa używanego do napędu pojazdu mechanicznego – biorąc pod uwagę potrzebę zapewnienia sprawności i skuteczności wykonywanych czynności oraz zasady zatrzymywania pojazdów obowiązujące w Policji. ” ;
 - **19)** w art. 11d ust. 1 i 2 otrzymują brzmienie: „
 
 1. Inspektorzy i pracownicy mogą stosować środki przymusu bezpośredniego wobec osób niepodporządkowujących się ich poleceniom wydanym w celu realizacji zadań określonych w art. 11a ust. 1a.
@@ -451,8 +468,10 @@ source: "eli-html"
 
 8. Żądania, o których mowa w ust. 1–5, oznacza się klauzulą „Tajemnica skarbowa”, a ich przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne stanowiące tajemnicę służbową w rozumieniu przepisów o ochronie informacji niejawnych. ” ;
 
-- **35)** w art. 33a: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Z żądaniem sporządzenia i przekazania informacji w zakresie, o którym mowa w art. 33 ust. 1–5, Generalny Inspektor Kontroli Skarbowej albo dyrektor urzędu kontroli skarbowej może wystąpić również w związku z postępowaniem kontrolnym, po uprzednim wezwaniu kontrolowanego do udzielenia informacji z tego zakresu albo do upoważnienia instytucji finansowych do przekazania tych informacji, jeżeli kontrolowany uprzednio: ” , – pkt 2 otrzymuje brzmienie: „ 2) nie upoważni organu kontroli skarbowej do wystąpienia do instytucji finansowych wymienionych w art. 33 ust. 1–5 o przekazanie tych informacji, albo ” , w ust. 2 w pkt 2 lit. b i c otrzymują brzmienie: „ kontrolowany nie wyraził zgody na udzielenie organowi kontroli skarbowej upoważnienia do zażądania tych informacji, lub w terminie określonym przez organ kontroli skarbowej kontrolowany nie udzielił informacji albo upoważnienia. ” , ust. 3 i 4 otrzymują brzmienie: „
+- **35)** w art. 33a: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Z żądaniem sporządzenia i przekazania informacji w zakresie, o którym mowa w art. 33 ust. 1–5, Generalny Inspektor Kontroli Skarbowej albo dyrektor urzędu kontroli skarbowej może wystąpić również w związku z postępowaniem kontrolnym, po uprzednim wezwaniu kontrolowanego do udzielenia informacji z tego zakresu albo do upoważnienia instytucji finansowych do przekazania tych informacji, jeżeli kontrolowany uprzednio: ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** nie upoważni organu kontroli skarbowej do wystąpienia do instytucji finansowych wymienionych w art. 33 ust. 1–5 o przekazanie tych informacji, albo ” , w ust. 2 w pkt 2 lit. b i c otrzymują brzmienie: „ kontrolowany nie wyraził zgody na udzielenie organowi kontroli skarbowej upoważnienia do zażądania tych informacji, lub w terminie określonym przez organ kontroli skarbowej kontrolowany nie udzielił informacji albo upoważnienia. ” , ust. 3 i 4 otrzymują brzmienie: „
     - **b)**
     - **b)**
     - **c)**
@@ -489,9 +508,13 @@ source: "eli-html"
 - **2)** organom podatkowym albo innym organom kontroli skarbowej – w razie złożenia odwołania od decyzji lub w związku z wszczętym, na podstawie uprzednio wydanego postanowienia, postępowaniem podatkowym albo w związku z wszczętym postępowaniem kontrolnym lub postępowaniem w sprawach o przestępstwa i wykroczenia oraz o przestępstwa skarbowe i wykroczenia skarbowe; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
-3. W przypadkach, o których mowa w ust. 1, akta spraw są oznaczane oraz przekazywane w sposób przewidziany w art. 33 ust. 7 i 8. ” , w ust. 5: – pkt 5 otrzymuje brzmienie: „ 5) sądowi, prokuratorowi, a także upoważnionym pisemnie przez prokuratora funkcjonariuszom Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej lub Centralnego Biura Antykorupcyjnego – w związku z toczącym się postępowaniem; ” , – uchyla się pkt 6a i 6b, – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9–11 w brzmieniu: „ 9) organom właściwym w sprawach o naruszenie dyscypliny finansów publicznych – w zakresie niezbędnym do przeprowadzenia czynności sprawdzających i postępowania na podstawie przepisów o odpowiedzialności za naruszenie dyscypliny finansów publicznych; 10) Prokuratorii Generalnej Skarbu Państwa – w związku z prowadzonym postępowaniem oraz wydawaniem opinii prawnej; 11) wojewodzie lub Szefowi Urzędu do Spraw Cudzoziemców – w zakresie prowadzonych postępowań dotyczących legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej. ” ;
+3. W przypadkach, o których mowa w ust. 1, akta spraw są oznaczane oraz przekazywane w sposób przewidziany w art. 33 ust. 7 i 8. ” , w ust. 5: pkt 5 otrzymuje brzmienie: „
 
 - **c)**
+- **5)** sądowi, prokuratorowi, a także upoważnionym pisemnie przez prokuratora funkcjonariuszom Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej lub Centralnego Biura Antykorupcyjnego – w związku z toczącym się postępowaniem; ” , – uchyla się pkt 6a i 6b, w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9–11 w brzmieniu: „
+- **9)** organom właściwym w sprawach o naruszenie dyscypliny finansów publicznych – w zakresie niezbędnym do przeprowadzenia czynności sprawdzających i postępowania na podstawie przepisów o odpowiedzialności za naruszenie dyscypliny finansów publicznych;
+- **10)** Prokuratorii Generalnej Skarbu Państwa – w związku z prowadzonym postępowaniem oraz wydawaniem opinii prawnej;
+- **11)** wojewodzie lub Szefowi Urzędu do Spraw Cudzoziemców – w zakresie prowadzonych postępowań dotyczących legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej. ” ;
 - **39)** w art. 34b w ust. 3: po pkt 4b dodaje się pkt 4c w brzmieniu: „
     - **a)**
 
@@ -512,8 +535,8 @@ source: "eli-html"
 
 1. W celu zapobiegania lub wykrywania przestępstw skarbowych lub przestępstw, o których mowa w art. 2 ust. 1 pkt 14b, oraz naruszeń przepisów, o których mowa w art. 2 ust. 1 pkt 12, wywiad skarbowy może mieć udostępniane dane:
 
-- **1)** o których mowa w art. 180c i 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.), zwane dalej „danymi telekomunikacyjnymi”,
-- **2)** identyfikujące podmiot korzystający z usług pocztowych oraz dotyczące faktu, okoliczności świadczenia usług pocztowych lub korzystania z tych usług oraz może je przetwarzać. ” ;
+- **1)** o których mowa w art. 180c i 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554 i Nr 106, poz. 675.), zwane dalej „danymi telekomunikacyjnymi”,
+- **2)** identyfikujące podmiot korzystający z usług pocztowych oraz dotyczące faktu, okoliczności świadczenia usług pocztowych lub korzystania z tych usług – oraz może je przetwarzać. ” ;
 - **44)** w art. 36ca ust. 1 otrzymuje brzmienie: „
 
 1. W ramach czynności operacyjno-rozpoznawczych podejmowanych przez wywiad skarbowy w celu wykrycia, ustalenia sprawców oraz uzyskania i utrwalenia dowodów przestępstw, o których mowa w art. 36c ust. 1, oraz naruszeń przepisów, o których mowa w art. 2 ust. 1 pkt 12, Generalny Inspektor Kontroli Skarbowej może zarządzić niejawne nadzorowanie wytwarzania, przemieszczania i przechowywania przedmiotów przestępstwa oraz obrotu nimi, jeżeli nie stworzy to zagrożenia życia lub zdrowia ludzkiego oraz jeżeli inne środki okazały się bezskuteczne lub zachodzi wysokie prawdopodobieństwo, że będą nieskuteczne lub nieprzydatne. ” ;
@@ -662,7 +685,7 @@ source: "eli-html"
 - **2)** wykaz chorób i ułomności, na podstawie którego jest wydawane orzeczenie o stanie zdrowia,
 - **3)** kategorie zdolności do pracy,
 - **4)** tryb kierowania do komisji lekarskiej,
-- **5)** wzór karty skierowania do komisji lekarskiej biorąc pod uwagę możliwość skierowania do komisji z urzędu lub na prośbę osoby ubiegającej się o wydanie orzeczenia lekarskiego oraz możliwość złożenia odwołania od każdego nieprawomocnego orzeczenia komisji lekarskiej.
+- **5)** wzór karty skierowania do komisji lekarskiej – biorąc pod uwagę możliwość skierowania do komisji z urzędu lub na prośbę osoby ubiegającej się o wydanie orzeczenia lekarskiego oraz możliwość złożenia odwołania od każdego nieprawomocnego orzeczenia komisji lekarskiej.
 
 1. Przyjęcie kandydata do pracy w komórkach organizacyjnych, o których mowa w art. 11g ust. 1, oraz w wywiadzie skarbowym poprzedza się postępowaniem kwalifikacyjnym, na które składa się:
 
@@ -709,7 +732,7 @@ source: "eli-html"
 
 - **58)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Kara pieniężna
+#### Rozdział 5a
 
 **Art. 43a.**
 
@@ -725,7 +748,7 @@ source: "eli-html"
 
 6. Kara pieniężna podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji. ” .
 
-**Art. 2.** W ustawie z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz. U. z 2004 r. Nr 121, poz. 1267, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz. U. z 2004 r. Nr 121, poz. 1267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 183, poz. 1538 i Nr 249, poz. 2104 oraz z 2009 r. Nr 157, poz. 1241.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 po ust. 1b dodaje się ust. 1c i 1d w brzmieniu: „
 
@@ -744,11 +767,11 @@ source: "eli-html"
 
 3. Przepisu ust. 1 nie stosuje się w przypadku udostępnienia informacji objętej tajemnicą zawodową prokuratorowi, w związku z powzięciem podejrzenia o popełnienie przestępstwa, Generalnemu Inspektorowi Kontroli Skarbowej oraz dyrektorowi urzędu kontroli skarbowej, w zakresie i na zasadach określonych w odrębnych przepisach, albo na żądanie prokuratora lub sądu, albo innych właściwych organów państwowych, w związku z toczącymi się postępowaniami w sprawach dotyczących działalności funduszu, towarzystwa lub depozytariusza, w tym także na żądanie organu nadzoru, w związku ze sprawowaniem przez niego nadzoru nad działalnością funduszy. ” .
 
-**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) w art. 298 po pkt 6a dodaje się pkt 6b w brzmieniu: „
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230 i Nr 57, poz. 355.) w art. 298 po pkt 6a dodaje się pkt 6b w brzmieniu: „
 
 - **6b)** Prokuratorii Generalnej Skarbu Państwa – w związku z prowadzonym postępowaniem oraz wydawaniem opinii prawnej; ” .
 
-**Art. 5.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2007 r. Nr 111, poz. 765, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2007 r. Nr 111, poz. 765, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 66, poz. 410, Nr 215, poz. 1355 i Nr 237, poz. 1651, z 2009 r. Nr 3, poz. 11, Nr 8, poz. 39, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 201, poz. 1540 i Nr 206, poz. 1589 oraz z 2010 r. Nr 88, poz. 583.) wprowadza się następujące zmiany:
 
 - **1)** w art. 30 § 2 otrzymuje brzmienie: „
 
@@ -782,5 +805,5 @@ source: "eli-html"
 
 3. Obowiązki i uprawnienia Generalnego Inspektora Kontroli Skarbowej jako strony w sprawach uchylenia, zmiany lub stwierdzenia nieważności decyzji ostatecznych oraz wznowienia postępowania zakończonego decyzją ostateczną dyrektora urzędu kontroli skarbowej, w których w dniu wejścia w życie niniejszej ustawy przysługuje lub została wniesiona skarga do sądu administracyjnego, przejmują organy właściwe w tych sprawach od dnia wejścia w życie niniejszej ustawy. Legitymacje służbowe oraz znaki identyfikacyjne wydane inspektorom kontroli skarbowej i pracownikom jednostek organizacyjnych kontroli skarbowej na podstawie przepisów wykonawczych wydanych na podstawie art. 6 ust. 5 ustawy wymienionej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, zachowują ważność. Przepisy wykonawcze wydane na podstawie art. 6 ust. 5, art. 9 ust. 2 i 3, art. 11c ust. 3 i art. 11e ust. 2 ustawy wymienionej w art. 1 oraz na podstawie art. 8 ust. 2 ustawy wymienionej w art. 2, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych odpowiednio na podstawie art. 38 ust. 6, art. 9 ust. 2, art. 11c ust. 3 i art. 11e ust. 2 ustawy wymienionej w art. 1 oraz art. 8 ust. 2 ustawy wymienionej w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 4 ustawy wymienionej w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 7 ust. 4 ustawy wymienionej w art. 1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 17 oraz pkt 57 w zakresie dodawanych art. 42f-42k, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 4 ustawy wymienionej w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 7 ust. 4 ustawy wymienionej w art. 1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 17 oraz pkt 57 w zakresie dodawanych art. 42f-42k, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych, ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy i ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119, Nr 191, poz. 1413 i Nr 217, poz. 1590, z 2007 r. Nr 171, poz. 1207, z 2008 r. Nr 110, poz. 707, Nr 209, poz. 1318 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 85, poz. 716, Nr 166, poz. 1317 i Nr 201, poz. 1540 oraz z 2010 r. Nr 76, poz. 492. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230 i Nr 57, poz. 355. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2007 r. Nr 50, poz. 331, z 2008 r. Nr 171, poz. 1056 i Nr 216, poz. 1371 oraz z 2009 r. Nr 201, poz. 1540. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554 i Nr 106, poz. 675. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 183, poz. 1538 i Nr 249, poz. 2104 oraz z 2009 r. Nr 157, poz. 1241. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230 i Nr 57, poz. 355. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 66, poz. 410, Nr 215, poz. 1355 i Nr 237, poz. 1651, z 2009 r. Nr 3, poz. 11, Nr 8, poz. 39, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 201, poz. 1540 i Nr 206, poz. 1589 oraz z 2010 r. Nr 88, poz. 583.
 

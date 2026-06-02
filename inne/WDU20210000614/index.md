@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 26 marca 2021 r. w sprawie zakresu informacji gromadzonych w Systemie Ewidencji Zasobów Ochrony Zdrowia oraz sposobu i terminów przekazywania tych informacji
+# Rozporządzenie Ministra Zdrowiaz dnia 26 marca 2021 r. w sprawie zakresu informacji gromadzonych w Systemie Ewidencji Zasobów Ochrony Zdrowia oraz sposobu i terminów przekazywania tych informacji Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-26 |
 | Data wydania | 2021-04-01 |
-| Wejście w życie | 2021-04-09 |
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/614/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz wyrobów medycznych i środków ochrony osobistej
 Treść rozporządzenia
-Na podstawie art. 24 ust. 8 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2020 r. poz. 702, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 24 ust. 8 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2020 r. poz. 702, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1493, 1875, 2345 i 2401 oraz z 2021 r. poz. 97 i 159.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -123,8 +122,7 @@ Informacje, o których mowa w art. 24 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o
 2)
 § 4 pkt 3, jest zobowiązany przekazać w terminie do dnia 30 kwietnia 2021 r.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1493, 1875, 2345 i 2401 oraz z 2021 r. poz. 97 i 159. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 października 2020 r. w sprawie zakresu informacji gromadzonych w Systemie Ewidencji Zasobów Ochrony Zdrowia oraz sposobu i terminów przekazywania tych informacji (Dz. U. poz. 1897 i 1949), które utraciło moc z dniem 6 stycznia 2021 r. w związku z wejściem w życie ustawy z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych (Dz. U. poz. 2401).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 października 2020 r. w sprawie zakresu informacji gromadzonych w Systemie Ewidencji Zasobów Ochrony Zdrowia oraz sposobu i terminów przekazywania tych informacji (Dz. U. poz. 1897 i 1949), które utraciło moc z dniem 6 stycznia 2021 r. w związku z wejściem w życie ustawy z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych (Dz. U. poz. 2401). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1493, 1875, 2345 i 2401 oraz z 2021 r. poz. 97 i 159. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 października 2020 r. w sprawie zakresu informacji gromadzonych w Systemie Ewidencji Zasobów Ochrony Zdrowia oraz sposobu i terminów przekazywania tych informacji (Dz. U. poz. 1897 i 1949), które utraciło moc z dniem 6 stycznia 2021 r. w związku z wejściem w życie ustawy z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych (Dz. U. poz. 2401).
 Załącznik – Wykaz wyrobów medycznych i środków ochrony osobistej
 I.
 Wyroby medyczne

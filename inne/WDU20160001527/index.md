@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 16 września 2016 r. w sprawie nadania statutu Bankowi Gospodarstwa Krajowego
+# Rozporządzenie Ministra Rozwojuz dnia 16 września 2016 r. w sprawie nadania statutu Bankowi Gospodarstwa Krajowego Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895 oraz z 2016 r. poz. 1359).
 
 | Pole | Wartość |
 |---|---|
@@ -22,27 +22,26 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-16 |
 | Data wydania | 2016-09-22 |
-| Wejście w życie | 2016-09-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001527) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1527/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Statut Banku Gospodarstwa Krajowego Rozdział 1 – Postanowienia ogólne Rozdział 2 – Przedmiot działalności Banku Rozdział 3 – Organy Banku i organizacja Banku Rozdział 4 – Fundusze Banku Rozdział 5 – Zasady prowadzenia gospodarki finansowej
+Załącznik – Statut Banku Gospodarstwa Krajowego
 Treść rozporządzenia
-Na podstawie art. 2 ust. 3 ustawy z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2014 r. poz. 510, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 2 ust. 3 ustawy z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2014 r. poz. 510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1146, z 2015 r. poz. 1513 oraz z 2016 r. poz. 266, 615, 888, 1202 i 1250.) zarządza się, co następuje:
 § 1.
 Bankowi Gospodarstwa Krajowego nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
 Do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia Ministra Skarbu Państwa z dnia 11 maja 2010 r. w sprawie nadania statutu Bankowi Gospodarstwa Krajowego (Dz. U. poz. 535 oraz z 2011 r. poz. 1150).
 § 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895 oraz z 2016 r. poz. 1359). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1146, z 2015 r. poz. 1513 oraz z 2016 r. poz. 266, 615, 888, 1202 i 1250. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Skarbu Państwa z dnia 11 maja 2010 r. w sprawie nadania statutu Bankowi Gospodarstwa Krajowego (Dz. U. poz. 535 oraz z 2011 r. poz. 1150), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw (Dz. U. poz. 888).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Skarbu Państwa z dnia 11 maja 2010 r. w sprawie nadania statutu Bankowi Gospodarstwa Krajowego (Dz. U. poz. 535 oraz z 2011 r. poz. 1150), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw (Dz. U. poz. 888). 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895 oraz z 2016 r. poz. 1359). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1146, z 2015 r. poz. 1513 oraz z 2016 r. poz. 266, 615, 888, 1202 i 1250. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Skarbu Państwa z dnia 11 maja 2010 r. w sprawie nadania statutu Bankowi Gospodarstwa Krajowego (Dz. U. poz. 535 oraz z 2011 r. poz. 1150), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw (Dz. U. poz. 888).
 Załącznik – Statut Banku Gospodarstwa Krajowego
+Postanowienia ogólne
 § 1.
 1.
 Bank Gospodarstwa Krajowego, zwany dalej „Bankiem”, jest bankiem państwowym i działa na podstawie ustawy z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego, zwanej dalej „ustawą”, innych obowiązujących przepisów prawa oraz niniejszego statutu.
 2.
-Do działalności Banku stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.), o ile inne obowiązujące przepisy prawa nie stanowią inaczej.
+Do działalności Banku stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854, 1864 i 2281 oraz z 2016 r. poz. 615, 904, 996 i 1177.), o ile inne obowiązujące przepisy prawa nie stanowią inaczej.
 § 2.
 1.
 Nazwa Banku brzmi „Bank Gospodarstwa Krajowego”.
@@ -55,6 +54,7 @@ Bank posiada osobowość prawną i prowadzi działalność na terytorium Rzeczyp
 Prowadzenie przez Bank działalności poza granicami Rzeczypospolitej Polskiej służy zapewnieniu efektywnej realizacji podstawowych celów działalności i zadań Banku.
 3.
 Siedzibą Banku jest miasto stołeczne Warszawa.
+Przedmiot działalności Banku
 § 4.
 1.
 Przedmiotem działalności Banku jest wykonywanie następujących czynności bankowych:
@@ -143,6 +143,7 @@ Bank wspiera politykę gospodarczą Rady Ministrów, rządowe programy społeczn
 Bank wykonuje czynności wymienione w § 4 i § 5 z uwzględnieniem podstawowych celów działalności określonych w art. 4 ustawy oraz zadań określonych w art. 5 i art. 6 ustawy.
 § 9.
 Bank może otwierać i posiadać rachunki bankowe w bankach mających siedzibę poza granicami Rzeczypospolitej Polskiej oraz lokować środki dewizowe na tych rachunkach.
+Organy Banku i organizacja Banku
 § 10.
 Organami Banku są Rada Nadzorcza i Zarząd.
 § 11.
@@ -371,7 +372,7 @@ Pełnomocnictw do składania oświadczeń w zakresie praw i obowiązków majątk
 Pełnomocnicy mogą działać samodzielnie lub łącznie z innym pełnomocnikiem lub członkiem Zarządu.
 § 20.
 1.
-Pracodawcą w rozumieniu ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.) jest Bank.
+Pracodawcą w rozumieniu ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.) jest Bank.
 2.
 Prezes Zarządu może upoważnić inne osoby do wykonywania w jego imieniu czynności z zakresu prawa pracy.
 § 21.
@@ -441,6 +442,7 @@ Komórka audytu wewnętrznego podlega bezpośrednio prezesowi Zarządu. Prezes Z
 W przypadku emisji listów zastawnych przy Banku powołuje się powiernika i jego zastępcę zgodnie z przepisami wymienionymi w art. 6a ust. 2 ustawy.
 § 29.
 Wewnętrzne regulacje Banku wydawane są przez organy Banku lub upoważnione do tego osoby, w zakresie ich zadań, odpowiednio w formie uchwał, zarządzeń lub decyzji.
+Fundusze Banku
 § 30.
 1.
 Bank posiada fundusze własne dostosowane do rozmiaru prowadzonej działalności.
@@ -510,6 +512,7 @@ O użyciu funduszu rezerwowego decyduje Rada Nadzorcza.
 Fundusz ogólnego ryzyka bankowego tworzony jest z odpisów z rocznego zysku netto.
 2.
 Zarząd decyduje o użyciu funduszu ogólnego ryzyka bankowego na podstawie regulaminu wykorzystywania tego funduszu, uchwalonego przez Zarząd i zatwierdzonego przez Radę Nadzorczą.
+Zasady prowadzenia gospodarki finansowej
 § 35.
 1.
 Bank prowadzi samodzielnie gospodarkę finansową na podstawie planu finansowo-rzeczowego, stanowiącego plan finansowy w rozumieniu art. 129 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
@@ -546,15 +549,25 @@ Wysokość zaliczkowej wpłaty do budżetu państwa może stanowić maksymalnie 
 § 38.
 W przypadku wystąpienia strat na działalności któregoś z funduszy, o których mowa w § 6, strata pokrywana jest w ciężar tego funduszu.
 § 39.
-Bank prowadzi rachunkowość zgodnie z odrębnymi przepisami.
+Bank prowadzi rachunkowość zgodnie z odrębnymi przepisami. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854, 1864 i 2281 oraz z 2016 r. poz. 615, 904, 996 i 1177. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868, 910, 960 i 1053.
 
-#### Rozdział 1 Postanowienia ogólne
+#### Rozdział 1 – Postanowienia ogólne
 
-#### Rozdział 2 Przedmiot działalności Banku
+#### Rozdział 2 – Przedmiot działalności Banku
 
-#### Rozdział 3 Organy Banku i organizacja Banku
+#### Rozdział 3 – Organy Banku i organizacja Banku
 
-#### Rozdział 4 Fundusze Banku
+#### Rozdział 4 – Fundusze Banku
 
-#### Rozdział 5 Zasady prowadzenia gospodarki finansowej
+#### Rozdział 5 – Zasady prowadzenia gospodarki finansowej
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

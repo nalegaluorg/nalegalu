@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 kwietnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Restrukturyzacja małych gospodarstw” w ramach poddziałania „Pomoc na rozpoczęcie działalności gospodarczej na rzecz rozwoju małych gospodarstw” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 kwietnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Restrukturyzacja małych gospodarstw” w ramach poddziałania „Pomoc na rozpoczęcie działalności gospodarczej na rzecz rozwoju małych gospodarstw” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-16 |
 | Data wydania | 2019-04-25 |
-| Wejście w życie | 2019-04-26 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/747/text.pdf) |
 
@@ -39,8 +38,7 @@ w ust. 1:
 b)
 uchyla się ust. 2,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
 Uznaje się, że rolnik prowadzi działalność rolniczą w celach zarobkowych, jeżeli:
 1)
@@ -50,11 +48,9 @@ jego:
 a)
 dochody z rolnictwa – stanowią co najmniej 25% jego wszystkich dochodów lub
 b)
-przychody z rolnictwa – stanowią co najmniej 25% jego wszystkich przychodów.
-” ,
+przychody z rolnictwa – stanowią co najmniej 25% jego wszystkich przychodów. ” ,
 d)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -64,8 +60,7 @@ dochody z pracy w gospodarstwie obliczone na podstawie liczby hektarów przelicz
 b)
 dochody uzyskane z tytułu prowadzenia działów specjalnych produkcji rolnej w roku poprzedzającym rok, w którym złożono wniosek o przyznanie pomocy;
 2)
-przychodach z rolnictwa – należy przez to rozumieć kwotę stanowiącą równowartość wyrażoną w złotych wielkości ekonomicznej gospodarstwa.
-” ;
+przychodach z rolnictwa – należy przez to rozumieć kwotę stanowiącą równowartość wyrażoną w złotych wielkości ekonomicznej gospodarstwa. ” ;
 2)
 w § 6 w ust. 4a wyrazy „70%” zastępuje się wyrazami „50%”;
 3)
@@ -73,11 +68,9 @@ w § 8 w ust. 3 wyraz „albo” zastępuje się wyrazem „lub”;
 4)
 w § 10 w ust. 1:
 a)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-datę rozpoczęcia podlegania ubezpieczeniu społecznemu rolników jako rolnik albo małżonek rolnika przez podmiot ubiegający się o przyznanie pomocy – w przypadku gdy podmiot ten ubiega się o przyznanie punktów, o których mowa w § 12 ust. 2 pkt 8;
-” ,
+datę rozpoczęcia podlegania ubezpieczeniu społecznemu rolników jako rolnik albo małżonek rolnika przez podmiot ubiegający się o przyznanie pomocy – w przypadku gdy podmiot ten ubiega się o przyznanie punktów, o których mowa w § 12 ust. 2 pkt 8; ” ,
 b)
 w pkt 4 uchyla się lit. d;
 5)
@@ -85,14 +78,11 @@ w § 11 w ust. 1:
 a)
 uchyla się pkt 1,
 b)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-numer księgi wieczystej – jeżeli operacja będzie realizowana w gospodarstwie, w skład którego wchodzą nieruchomości, dla których księga wieczysta jest prowadzona w systemie teleinformatycznym, o którym mowa w art. 251 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2018 r. poz. 1916 i 2354 oraz z 2019 r. poz. 730), albo kopie dokumentów potwierdzających posiadanie gospodarstwa, w którym będzie realizowana operacja – jeżeli operacja będzie realizowana w gospodarstwie, w skład którego wchodzą nieruchomości, dla których księga wieczysta nie jest prowadzona w systemie teleinformatycznym, lub w przypadku posiadania zależnego;
-” ,
+numer księgi wieczystej – jeżeli operacja będzie realizowana w gospodarstwie, w skład którego wchodzą nieruchomości, dla których księga wieczysta jest prowadzona w systemie teleinformatycznym, o którym mowa w art. 251 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2018 r. poz. 1916 i 2354 oraz z 2019 r. poz. 730), albo kopie dokumentów potwierdzających posiadanie gospodarstwa, w którym będzie realizowana operacja – jeżeli operacja będzie realizowana w gospodarstwie, w skład którego wchodzą nieruchomości, dla których księga wieczysta nie jest prowadzona w systemie teleinformatycznym, lub w przypadku posiadania zależnego; ” ,
 c)
-w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10–12 w brzmieniu:
-„
+w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10–12 w brzmieniu: „
 10)
 wydane przez właściwy organ gminy zaświadczenie o liczbie hektarów przeliczeniowych wchodzących w skład gospodarstwa podmiotu ubiegającego się o przyznanie pomocy stanowiącej podstawę opodatkowania podatkiem rolnym, ustalonej na podstawie ustawy z dnia 15 listopada 1984 r. o podatku rolnym – w przypadku gdy podstawę opodatkowania tym podatkiem stanowi liczba hektarów przeliczeniowych;
 11)
@@ -100,22 +90,18 @@ wydane przez właściwego naczelnika urzędu skarbowego zaświadczenie o dochoda
 a)
 z rolnictwa z tytułu prowadzenia działów specjalnych produkcji rolnej albo zaświadczenie o braku tych dochodów lub
 b)
-innych niż dochody z rolnictwa albo zaświadczenie o braku tych dochodów
-uzyskanych w roku poprzedzającym rok składania wniosku o przyznanie pomocy lub
+innych niż dochody z rolnictwa albo zaświadczenie o braku tych dochodów – uzyskanych w roku poprzedzającym rok składania wniosku o przyznanie pomocy lub
 12)
-wydane przez właściwego naczelnika urzędu skarbowego zaświadczenie o przychodach innych niż przychody z rolnictwa uzyskanych w roku poprzedzającym rok składania wniosku o przyznanie pomocy albo zaświadczenie o braku tych przychodów.
-” ;
+wydane przez właściwego naczelnika urzędu skarbowego zaświadczenie o przychodach innych niż przychody z rolnictwa uzyskanych w roku poprzedzającym rok składania wniosku o przyznanie pomocy albo zaświadczenie o braku tych przychodów. ” ;
 6)
-w § 15 ust. 3 otrzymuje brzmienie:
-„
+w § 15 ust. 3 otrzymuje brzmienie: „
 3.
-Decyzja o przyznaniu pomocy zawiera pouczenie o konieczności spełnienia warunków, o których mowa w ust. 2 i § 18, oraz przedłożenia dokumentów, o których mowa w § 16 ust. 3, § 19 ust. 4 i § 21 ust. 2, a także o skutkach niespełnienia tych warunków lub nieprzedłożenia tych dokumentów.
-” ;
+Decyzja o przyznaniu pomocy zawiera pouczenie o konieczności spełnienia warunków, o których mowa w ust. 2 i § 18, oraz przedłożenia dokumentów, o których mowa w § 16 ust. 3, § 19 ust. 4 i § 21 ust. 2, a także o skutkach niespełnienia tych warunków lub nieprzedłożenia tych dokumentów. ” ;
 7)
-w załączniku nr 2 do rozporządzenia w tabeli w części VI. Urządzenia do przechowywania i stosowania nawozów naturalnych w lp. 62 dodaje się pkt 5 w brzmieniu: 5) szczelinowe tarczowe 8
+w załączniku nr 2 do rozporządzenia w tabeli w części VI. Urządzenia do przechowywania i stosowania nawozów naturalnych w lp. 62 dodaje się pkt 5 w brzmieniu:
+5) szczelinowe tarczowe 8
 § 2.
 Do postępowań w sprawach o przyznanie pomocy finansowej na operacje typu „Restrukturyzacja małych gospodarstw” w ramach poddziałania „Pomoc na rozpoczęcie działalności gospodarczej na rzecz rozwoju małych gospodarstw” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe, z wyłączeniem § 15 ust. 3 rozporządzenia zmienianego w § 1, który stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

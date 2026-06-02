@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-07 |
 | Data wydania | 2017-07-28 |
-| Wejście w życie | 2017-08-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1448/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089 i 1428.) wprowadza się następujące zmiany:
 
 - **1)** w art. 22 po ust. 1r dodaje się ust. 1s w brzmieniu: „
 
@@ -57,14 +56,14 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** po nabyciu środka trwałego, o którym mowa w ust. 14: nie dokonał jednorazowego odpisu amortyzacyjnego od środka trwałego lub zbył odpłatnie środek trwały jest obowiązany do zwiększenia przychodów o wpłatę na poczet nabycia środka trwałego, o której mowa w art. 22 ust. 1s, odpowiednio na ostatni dzień prowadzenia działalności przed jej likwidacją, na ostatni dzień prowadzenia działalności przed zmianą formy opodatkowania, na dzień, w którym podatnik dokonał pierwszego odpisu na podstawie ust. 1 lub art. 22i, albo na dzień odpłatnego zbycia środka trwałego. ” ;
+- **2)** po nabyciu środka trwałego, o którym mowa w ust. 14: nie dokonał jednorazowego odpisu amortyzacyjnego od środka trwałego lub zbył odpłatnie środek trwały – jest obowiązany do zwiększenia przychodów o wpłatę na poczet nabycia środka trwałego, o której mowa w art. 22 ust. 1s, odpowiednio na ostatni dzień prowadzenia działalności przed jej likwidacją, na ostatni dzień prowadzenia działalności przed zmianą formy opodatkowania, na dzień, w którym podatnik dokonał pierwszego odpisu na podstawie ust. 1 lub art. 22i, albo na dzień odpłatnego zbycia środka trwałego. ” ;
     - **a)**
     - **b)**
 
 - **3)** w art. 29 w ust. 1 pkt 4 otrzymuje brzmienie: „
 - **4)** uzyskanych na terytorium Rzeczypospolitej Polskiej przez zagraniczne przedsiębiorstwa żeglugi powietrznej, z wyłączeniem przychodów uzyskanych z lotniczego rozkładowego przewozu pasażerskiego, skorzystanie z którego wymaga posiadania biletu lotniczego przez pasażera – pobiera się w formie ryczałtu w wysokości 10% przychodów; ” .
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1926, 1933 i 1948 oraz z 2017 r. poz. 60, 624, 648 i 1089.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15 po ust. 1zc dodaje się ust. 1zd w brzmieniu: „ 1zd. W przypadku dokonania wpłaty na poczet nabycia fabrycznie nowego środka trwałego, o którym mowa w art. 16k ust. 14, spełniającego warunki określone w art. 16k ust. 15, którego dostawa zostanie wykonana w następnych okresach sprawozdawczych, podatnicy mogą zaliczyć do kosztów uzyskania przychodów dokonaną wpłatę do wysokości kwoty, o której mowa w art. 16k ust. 14. ” ;
 - **2)** w art. 16k dodaje się ust. 14–21 w brzmieniu: „
@@ -92,7 +91,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** po nabyciu środka trwałego, o którym mowa w ust. 14: nie dokonał jednorazowego odpisu amortyzacyjnego od środka trwałego lub zbył odpłatnie środek trwały jest obowiązany do zwiększenia przychodów o wpłatę na poczet nabycia środka trwałego, o której mowa w art. 15 ust. 1zd, odpowiednio na ostatni dzień prowadzenia działalności przed jej likwidacją, na ostatni dzień prowadzenia działalności przed zmianą formy opodatkowania, na dzień, w którym podatnik dokonał pierwszego odpisu na podstawie ust. 1 lub art. 16i, albo na dzień odpłatnego zbycia środka trwałego. ” ;
+- **2)** po nabyciu środka trwałego, o którym mowa w ust. 14: nie dokonał jednorazowego odpisu amortyzacyjnego od środka trwałego lub zbył odpłatnie środek trwały – jest obowiązany do zwiększenia przychodów o wpłatę na poczet nabycia środka trwałego, o której mowa w art. 15 ust. 1zd, odpowiednio na ostatni dzień prowadzenia działalności przed jej likwidacją, na ostatni dzień prowadzenia działalności przed zmianą formy opodatkowania, na dzień, w którym podatnik dokonał pierwszego odpisu na podstawie ust. 1 lub art. 16i, albo na dzień odpłatnego zbycia środka trwałego. ” ;
     - **a)**
     - **b)**
 
@@ -105,5 +104,5 @@ source: "eli-html"
 
 2. Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy i zakończył się po dniu 31 grudnia 2016 r., a przed dniem wejścia w życie niniejszej ustawy, stosują przepisy ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, do środków trwałych nabytych od dnia 1 stycznia 2017 r. i dokonanych od tego dnia wpłat na poczet nabycia tych środków.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089 i 1428. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1926, 1933 i 1948 oraz z 2017 r. poz. 60, 624, 648 i 1089.
 

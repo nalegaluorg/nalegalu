@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-15 |
 | Data wydania | 2021-07-19 |
-| Wejście w życie | 2021-07-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001311) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1311/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) po § 13zh dodaje § 13zi w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354 oraz z 2021 r. poz. 926.) po § 13zh dodaje § 13zi w brzmieniu: „
 § 13zi.
 1.
 W 2021 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, kołom gospodyń wiejskich wpisanym do Krajowego Rejestru Kół Gospodyń Wiejskich, o którym mowa w ustawie z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2021 r. poz. 165 i 1240), zwanym dalej „kołami gospodyń wiejskich”:
@@ -197,8 +195,7 @@ Dodatkowa premia jest wypłacana kołom gospodyń wiejskich znajdującym się na
 32.
 Dodatkowa premia może zostać wypłacona dla danego koła gospodyń wiejskich tylko raz w związku z wydarzeniem, w trakcie którego została zaszczepiona przeciw COVID-19 pierwszą dawką największa liczba osób.
 33.
-Dodatkowa premia jest wypłacana przez Agencję niezwłocznie po opublikowaniu listy, o której mowa w ust. 29, na rachunek koła gospodyń wiejskich wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
-” .
+Dodatkowa premia jest wypłacana przez Agencję niezwłocznie po opublikowaniu listy, o której mowa w ust. 29, na rachunek koła gospodyń wiejskich wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354 oraz z 2021 r. poz. 926.
 

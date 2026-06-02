@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 26 sierpnia 2022 r. zmieniające rozporządzenie w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 26 sierpnia 2022 r. zmieniające rozporządzenie w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-26 |
 | Data wydania | 2022-09-06 |
-| Wejście w życie | 2022-09-07 |
 | Ostatnia zmiana | 2024-03-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001872) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1872/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 68 ust. 3 pkt 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 68 ust. 3 pkt 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 25 lipca 2019 r. w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela (Dz. U. z 2021 r. poz. 890) wprowadza się następujące zmiany:
 1)
-po § 1c dodaje się § 1d-1f w brzmieniu:
-„
+po § 1c dodaje się § 1d-1f w brzmieniu: „
 § 1d.
 1.
 W roku akademickim 2021/2022 zajęcia lub grupy zajęć realizowane w formie praktyk zawodowych na studiach przygotowujących do wykonywania zawodu nauczyciela, o którym mowa w § 1, oraz na studiach podyplomowych przygotowujących do wykonywania zawodu nauczyciela, o którym mowa w § 1 pkt 1 i 3, mogą być realizowane również:
@@ -54,10 +52,9 @@ załączniku nr 2 do rozporządzenia w części I w rozdziale 3 w ust. 3.4 – w
 załączniku nr 3 do rozporządzenia w części I w rozdziale 3 w ust. 3.4 – w przypadku studiów i studiów podyplomowych, przygotowujących do wykonywania zawodu nauczyciela pedagoga specjalnego, nauczyciela logopedy i nauczyciela prowadzącego zajęcia wczesnego wspomagania rozwoju dziecka.
 § 1f.
 1.
-W roku akademickim 2021/2022 studenci studiów przygotowujących do wykonywania zawodu nauczyciela, o którym mowa w § 1, którzy w trakcie tego roku akademickiego wykonywali czynności w ramach zadań realizowanych przez podmioty zapewniające pomoc obywatelom Ukrainy, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.), mogą ubiegać się o zaliczenie zajęć lub części zajęć kształtujących umiejętności praktyczne, w tym zajęć praktycznych i praktyk zawodowych, do których w programie studiów zostały przypisane efekty uczenia się obejmujące umiejętności praktyczne, które nabyli w czasie wykonywania tych czynności.
+W roku akademickim 2021/2022 studenci studiów przygotowujących do wykonywania zawodu nauczyciela, o którym mowa w § 1, którzy w trakcie tego roku akademickiego wykonywali czynności w ramach zadań realizowanych przez podmioty zapewniające pomoc obywatelom Ukrainy, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087, 1383, 1561, 1692 i 1733.), mogą ubiegać się o zaliczenie zajęć lub części zajęć kształtujących umiejętności praktyczne, w tym zajęć praktycznych i praktyk zawodowych, do których w programie studiów zostały przypisane efekty uczenia się obejmujące umiejętności praktyczne, które nabyli w czasie wykonywania tych czynności.
 2.
-Uczelnia może zaliczyć zajęcia lub część zajęć, o których mowa w ust. 1, uwzględniając informacje o liczbie godzin i charakterze wykonywanych czynności, o których mowa w ust. 1, zawarte w zaświadczeniu wydanym przez podmiot, w którym student wykonywał te czynności.
-” ;
+Uczelnia może zaliczyć zajęcia lub część zajęć, o których mowa w ust. 1, uwzględniając informacje o liczbie godzin i charakterze wykonywanych czynności, o których mowa w ust. 1, zawarte w zaświadczeniu wydanym przez podmiot, w którym student wykonywał te czynności. ” ;
 2)
 w załączniku nr 2 do rozporządzenia w części I:
 a)
@@ -86,6 +83,5 @@ lit. b, może być prowadzone na:
 b)
 w ust. 1.7 wyrazy „E.R, E.L lub E.WW” zastępuje się wyrazami „E.R, E.L, E.K lub E.WW”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087, 1383, 1561, 1692 i 1733.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087, 1383, 1561, 1692 i 1733.
 

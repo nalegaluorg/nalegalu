@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-24 |
 | Data wydania | 2015-09-09 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001335) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1335/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273 i 1326.) wprowadza się następujące zmiany:
 
 - **1)** w art. 129b: w ust. 2 pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -37,7 +36,7 @@ source: "eli-html"
 
 - **2)** w art. 129g ust. 1 otrzymuje brzmienie: „
 
-1. Ujawnianie za pomocą stacjonarnych urządzeń rejestrujących zainstalowanych w pasie drogowym dróg publicznych następujących naruszeń przepisów ruchu drogowego: przekraczania dopuszczalnej prędkości, niestosowania się do sygnałów świetlnych należy do Inspekcji Transportu Drogowego. ” ;
+1. Ujawnianie za pomocą stacjonarnych urządzeń rejestrujących zainstalowanych w pasie drogowym dróg publicznych następujących naruszeń przepisów ruchu drogowego: przekraczania dopuszczalnej prędkości, niestosowania się do sygnałów świetlnych – należy do Inspekcji Transportu Drogowego. ” ;
 
 - **a)**
 - **b)**
@@ -47,5 +46,5 @@ source: "eli-html"
 
 - **2)** wyposażenia, w tym środków przymusu bezpośredniego, broni palnej, środków technicznych służących do obserwowania i rejestrowania obrazu zdarzeń w miejscach publicznych, pojazdów; ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273 i 1326.
 

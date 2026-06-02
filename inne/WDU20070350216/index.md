@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-01-12 |
 | Data wydania | 2007-02-27 |
-| Wejście w życie | 2007-03-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070350216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/216/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. Nr 42, poz. 386, z późn. zm.) wprowadza się następujące zmiany:
+Udzielanie dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany
+
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. Nr 42, poz. 386, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 97, poz. 964, z 2005 r. Nr 14, poz. 115, Nr 132, poz. 1110, Nr 141, poz. 1182, Nr 163, poz. 1362 i Nr 169, poz. 1420 oraz z 2006 r. Nr 92, poz. 638, Nr 133, poz. 935, Nr 170, poz. 1217, Nr 187, poz. 1381, Nr 208, poz. 1541, Nr 220, poz. 1600 i Nr 249, poz. 1832.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 - **5)** zasady udzielania dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany. ” ;
@@ -48,7 +49,7 @@ source: "eli-html"
 - **6)** w art. 40a uchyla się ust. 5;
 - **7)** po rozdziale 9a dodaje się rozdział 9b w brzmieniu: „
 
-#### Rozdział 9b Udzielanie dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany
+#### Rozdział 9b
 
 **Art. 40c.**
 
@@ -130,5 +131,5 @@ source: "eli-html"
 - **2)** zakupu materiału siewnego kategorii elitarny lub kwalifikowany sadzeniaka ziemniaka, jeżeli materiał ten został zakupiony w okresie od dnia 1 września 2006 r. do dnia 31 maja 2007 r. i zostanie wysadzony w 2007 r.;
 - **3)** zużycia do siewu materiału siewnego kategorii elitarny lub kwalifikowany zbóż, wyprodukowanego we własnym gospodarstwie przed dniem wejścia w życie niniejszej ustawy, jeżeli materiał ten został wydany z magazynu nie wcześniej niż w dniu 1 września 2006 r.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 97, poz. 964, z 2005 r. Nr 14, poz. 115, Nr 132, poz. 1110, Nr 141, poz. 1182, Nr 163, poz. 1362 i Nr 169, poz. 1420 oraz z 2006 r. Nr 92, poz. 638, Nr 133, poz. 935, Nr 170, poz. 1217, Nr 187, poz. 1381, Nr 208, poz. 1541, Nr 220, poz. 1600 i Nr 249, poz. 1832.
 

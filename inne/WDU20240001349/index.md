@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 10 września 2024 r. w sprawie wskaźników jakości opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 10 września 2024 r. w sprawie wskaźników jakości opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-10 |
 | Data wydania | 2024-09-11 |
-| Wejście w życie | 2024-09-12 |
 | Ostatnia zmiana | 2024-09-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001349) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1349/text.pdf) |
 
@@ -45,8 +44,7 @@ konsumenckiego, stanowiące załącznik nr 2 do rozporządzenia;
 3)
 zarządczego, stanowiące załącznik nr 3 do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 ## Załącznik nr 1 — – Wskaźniki jakości opieki zdrowotnej mieszczące się w zakresie obszaru klinicznego
 

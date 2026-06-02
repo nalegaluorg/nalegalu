@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 7 sierpnia 2020 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 7 sierpnia 2020 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2263). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Inteligentny Rozwój 2014–2020.
 
 | Pole | Wartość |
 |---|---|
@@ -22,29 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-07 |
 | Data wydania | 2020-08-19 |
-| Wejście w życie | 2020-08-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001417) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1417/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2020 r. poz. 299) zarządza się, co następuje:
+Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020. Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2020 r. poz. 299) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 10 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. z 2018 r. poz. 871 i 1029 oraz z 2019 r. poz. 1602) wprowadza się następujące zmiany:
 1)
-w § 1 w pkt 1 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu:
-„
+w § 1 w pkt 1 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „
 g)
-2.3.7 Rozwój potencjału koordynatorów Krajowych Klastrów Kluczowych;
-” ;
+2.3.7 Rozwój potencjału koordynatorów Krajowych Klastrów Kluczowych; ” ;
 2)
-w § 3 po pkt 2c dodaje się pkt 2d w brzmieniu:
-„
+w § 3 po pkt 2c dodaje się pkt 2d w brzmieniu: „
 2d)
-infrastrukturze badawczej – należy przez to rozumieć infrastrukturę badawczą, o której mowa w art. 2 pkt 91 rozporządzenia Komisji nr 651/2014;
-” ;
+infrastrukturze badawczej – należy przez to rozumieć infrastrukturę badawczą, o której mowa w art. 2 pkt 91 rozporządzenia Komisji nr 651/2014; ” ;
 3)
-§ 5 i § 6 otrzymują brzmienie:
-„
+§ 5 i § 6 otrzymują brzmienie: „
 § 5.
 1.
 Pomoc wywołuje efekt zachęty, co oznacza, że jest udzielana przedsiębiorcy pod warunkiem złożenia wniosku o jej udzielenie przed rozpoczęciem prac nad projektem, z zastrzeżeniem ust. 2.
@@ -55,26 +49,21 @@ pomocy dla MŚP na finansowanie ryzyka, o której mowa w rozdziale 3,
 2)
 pomocy dla przedsiębiorców rozpoczynających działalność, o której mowa w rozdziale 4,
 3)
-pomocy de minimis na pokrycie kosztów, o których mowa w § 42
-nie obowiązuje wymóg wywoływania efektu zachęty lub uznaje się, że pomoc ta wywołuje taki efekt.
+pomocy de minimis na pokrycie kosztów, o których mowa w § 42 – nie obowiązuje wymóg wywoływania efektu zachęty lub uznaje się, że pomoc ta wywołuje taki efekt.
 § 6.
-Kosztami kwalifikowalnymi są koszty dokonane w sposób przejrzysty, racjonalny, efektywny i adekwatny do zaplanowanych przez wnioskodawcę działań i celów projektu oraz celów określonych dla działania, poniesione po dniu złożenia wniosku o udzielenie pomocy, z wyłączeniem kosztów, o których mowa w § 42, do dnia wskazanego w umowie.
-” ;
+Kosztami kwalifikowalnymi są koszty dokonane w sposób przejrzysty, racjonalny, efektywny i adekwatny do zaplanowanych przez wnioskodawcę działań i celów projektu oraz celów określonych dla działania, poniesione po dniu złożenia wniosku o udzielenie pomocy, z wyłączeniem kosztów, o których mowa w § 42, do dnia wskazanego w umowie. ” ;
 4)
 w § 10 uchyla się ust. 3;
 5)
-w § 32 ust. 2 otrzymuje brzmienie:
-„
+w § 32 ust. 2 otrzymuje brzmienie: „
 2.
 Pomoc ma charakter:
 1)
 pomocy operacyjnej, której czas trwania nie przekracza dziesięciu lat od dnia udzielenia pomocy, lub
 2)
-pomocy inwestycyjnej.
-” ;
+pomocy inwestycyjnej. ” ;
 6)
-po § 33 dodaje się § 33a w brzmieniu:
-„
+po § 33 dodaje się § 33a w brzmieniu: „
 § 33a.
 1.
 Kosztami kwalifikowalnymi w ramach pomocy inwestycyjnej są koszty przeznaczone na utworzenie lub modernizację infrastruktury badawczej lub infrastruktury demonstracyjnej, umożliwiającej fizyczną prezentację całości lub części procesu produkcyjnego, niezbędnej do świadczenia przez koordynatora klastra nowej usługi.
@@ -95,11 +84,9 @@ będą nabyte od osób trzecich niepowiązanych z koordynatorem klastra na warun
 d)
 będą stanowić aktywa koordynatora klastra i pozostaną związane z projektem, na który przyznano pomoc, przez co najmniej 5 lat lub 3 lata w przypadku koordynatora klastra będącego MŚP, od dnia zakończenia realizacji projektu;
 4)
-rat spłaty kapitału środków trwałych, z wyłączeniem nieruchomości zabudowanych i niezabudowanych, poniesione przez korzystającego do dnia zakończenia realizacji projektu, do wysokości kapitału z dnia zawarcia umowy leasingu albo spłaty kapitału środków trwałych, z wyłączeniem nieruchomości zabudowanych i niezabudowanych, należnej finansującemu z tytułu umowy leasingu, o ile we wniosku o udzielenie pomocy finansujący jest wskazany przez wnioskodawcę jako podmiot upoważniony do poniesienia kosztu, przy czym umowa leasingu prowadzi do przeniesienia własności tych środków na korzystającego, z wyłączeniem leasingu zwrotnego.
-” ;
+rat spłaty kapitału środków trwałych, z wyłączeniem nieruchomości zabudowanych i niezabudowanych, poniesione przez korzystającego do dnia zakończenia realizacji projektu, do wysokości kapitału z dnia zawarcia umowy leasingu albo spłaty kapitału środków trwałych, z wyłączeniem nieruchomości zabudowanych i niezabudowanych, należnej finansującemu z tytułu umowy leasingu, o ile we wniosku o udzielenie pomocy finansujący jest wskazany przez wnioskodawcę jako podmiot upoważniony do poniesienia kosztu, przy czym umowa leasingu prowadzi do przeniesienia własności tych środków na korzystającego, z wyłączeniem leasingu zwrotnego. ” ;
 7)
-§ 34 i § 35 otrzymują brzmienie:
-„
+§ 34 i § 35 otrzymują brzmienie: „
 § 34.
 Intensywność:
 1)
@@ -114,11 +101,9 @@ w przypadku inwestycji prowadzonych na obszarach województw innych niż mazowie
 1.
 Dostęp do pomieszczeń, zaplecza oraz działań klastra jest zapewniany na przejrzystych i niedyskryminacyjnych zasadach. Członkom klastra, którzy finansują co najmniej 10% kosztów inwestycji klastra, można przyznać preferencyjny dostęp na bardziej korzystnych warunkach, przy czym dostęp ten musi być proporcjonalny do wkładu członka klastra w koszty inwestycji, a warunki te należy podawać do wiadomości publicznej.
 2.
-Opłaty pobierane za korzystanie z zaplecza klastra i za udział w działaniach klastra odpowiadają cenom rynkowym lub odzwierciedlają ich koszty.
-” ;
+Opłaty pobierane za korzystanie z zaplecza klastra i za udział w działaniach klastra odpowiadają cenom rynkowym lub odzwierciedlają ich koszty. ” ;
 8)
-w § 42 w pkt 25 kropkę zastępuje się średnikiem i dodaje się pkt 26–34 w brzmieniu:
-„
+w § 42 w pkt 25 kropkę zastępuje się średnikiem i dodaje się pkt 26–34 w brzmieniu: „
 26)
 najmu lub dzierżawy infrastruktury niezbędnej do testowania nowej usługi, która będzie świadczona przez koordynatora klastra, w szczególności infrastruktury badawczej lub infrastruktury demonstracyjnej, umożliwiającej fizyczną prezentację całości lub części procesu produkcyjnego;
 27)
@@ -144,32 +129,24 @@ rat spłaty kapitału środków trwałych, z wyłączeniem nieruchomości zabudo
 33)
 usługi polegającej na opracowaniu dla MŚP planu wdrożenia zmian w przedsiębiorstwie w zakresie cyfryzacji, automatyzacji i robotyzacji;
 34)
-usługi doradczej związanej z wdrożeniem planu, o którym mowa w pkt 33.
-” ;
+usługi doradczej związanej z wdrożeniem planu, o którym mowa w pkt 33. ” ;
 9)
-w § 44 w ust. 1 pkt 6 otrzymuje brzmienie:
-„
+w § 44 w ust. 1 pkt 6 otrzymuje brzmienie: „
 6)
-podmiotom, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086).
-” ;
+podmiotom, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086). ” ;
 10)
-§ 46 otrzymuje brzmienie:
-„
+§ 46 otrzymuje brzmienie: „
 § 46.
-Pomoc finansowa jest udzielana przez Agencję w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, z zastrzeżeniem § 47–47b i § 49.
-” ;
+Pomoc finansowa jest udzielana przez Agencję w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, z zastrzeżeniem § 47–47b i § 49. ” ;
 11)
-w § 47a w ust. 2 pkt 6 otrzymuje brzmienie:
-„
+w § 47a w ust. 2 pkt 6 otrzymuje brzmienie: „
 6)
-podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
-” .
+podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce. ” .
 § 2.
 1.
 Do umów o udzielenie pomocy finansowej zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 2.
 Do wniosków o udzielenie pomocy finansowej złożonych w ramach konkursów oraz otwartych naborów ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia oraz do umów zawieranych na podstawie tych wniosków stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2263). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Inteligentny Rozwój 2014–2020. 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2263). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Inteligentny Rozwój 2014–2020. 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. nr C(2015)885 przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Inteligentny Rozwój na lata 2014–2020.
 

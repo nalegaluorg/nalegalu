@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-03 |
 | Data wydania | 2013-12-13 |
-| Wejście w życie | 2013-12-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1546/text.pdf) |
 
@@ -31,18 +30,15 @@ Na podstawie art. 9 ust. 3 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojs
 § 1.
 W rozporządzeniu Ministra Obrony Narodowej z dnia 14 grudnia 2001 r. w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. Nr 157, poz. 1847 oraz z 2008 r. Nr 162, poz. 1006) w § 2 wprowadza się następujące zmiany:
 1)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
 przedmioty umundurowania:
 a)
 pasy białe,
 b)
-rękawiczki białe,
-” ;
+rękawiczki białe, ” ;
 2)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
 wyposażenie specjalistyczne:
 a)
@@ -74,8 +70,7 @@ sprzęt do pracy operacyjno-rozpoznawczej,
 n)
 paralizatory elektryczne,
 o)
-naramiennik Żandarmerii Wojskowej,
-” .
+naramiennik Żandarmerii Wojskowej, ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastruktury i Budownictwaz dnia 29 grudnia 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie rozkładów jazdy
+# Obwieszczenie Ministra Infrastruktury i Budownictwaz dnia 29 grudnia 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie rozkładów jazdy Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 2322).
 
 | Pole | Wartość |
 |---|---|
@@ -26,20 +26,18 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/202/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 10 kwietnia 2012 r. w sprawie rozkładów jazdy Rozdział 1 – Przepisy ogólne Rozdział 2 – Treść rozkładu jazdy Rozdział 3 – Tryb zatwierdzania rozkładów jazdy Rozdział 4 – Sposób i terminy ogłaszania oraz aktualizacji rozkładów jazdy Rozdział 5 – Warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 10 kwietnia 2012 r. w sprawie rozkładów jazdy
 Załącznik – Wykaz podstawowych oznaczeń i symboli, które stosuje się w rozkładzie jazdy
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 10 kwietnia 2012 r. w sprawie rozkładów jazdy (Dz. U. poz. 451), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 29 grudnia 2016 r. zmieniającym rozporządzenie w sprawie rozkładów jazdy (Dz. U. poz. 2279).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 29 grudnia 2016 r. zmieniającego rozporządzenie w sprawie rozkładów jazdy (Dz. U. poz. 2279), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 29 grudnia 2016 r. zmieniającego rozporządzenie w sprawie rozkładów jazdy (Dz. U. poz. 2279), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 2322).
-Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 10 kwietnia 2012 r. w sprawie rozkładów jazdy
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 2322).
+Załącznik – Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 10 kwietnia 2012 r. w sprawie rozkładów jazdyObecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Budownictwa, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 2322).
 Na podstawie art. 34 ust. 2 ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2017 r. poz. 1983) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -79,6 +77,7 @@ właściwym organie – należy przez to rozumieć organizatora publicznego tran
 przystanku komunikacyjnym – należy przez to rozumieć również peron w transporcie kolejowym oraz przystań usytuowaną na wodach śródlądowych.
 2.
 Przepisy ust. 1 pkt 1–5 nie dotyczą regularnego przewozu osób wykonywanego w ramach publicznego transportu zbiorowego drogowego w komunikacji miejskiej.
+Treść rozkładu jazdy
 § 3.
 1.
 W rozkładzie jazdy określa się co najmniej:
@@ -133,8 +132,7 @@ W regularnym przewozie osób w transporcie drogowym, drogę przejazdu, o której
 1)
 na drogach krajowych, wojewódzkich, powiatowych i gminnych – na podstawie kilometrażu ustalonego dla danej kategorii drogi, a w razie jego braku – z uwzględnieniem odległości rzeczywistej w kilometrach,
 2)
-na drogach wewnętrznych – z uwzględnieniem odległości rzeczywistej w kilometrach
-podanych z dokładnością do 0,1 km, między poszczególnymi przystankami komunikacyjnymi.
+na drogach wewnętrznych – z uwzględnieniem odległości rzeczywistej w kilometrach – podanych z dokładnością do 0,1 km, między poszczególnymi przystankami komunikacyjnymi.
 5.
 W rozkładzie jazdy w przewozach regularnych specjalnych, w przypadkach wskazanych w ust. 1 pkt 3 i 5, określa się:
 1)
@@ -185,6 +183,7 @@ Obliczanie prędkości technicznej nie jest wymagane, jeżeli odległość międ
 Przepisy § 3 ust. 1 pkt 8, ust. 3, 4 i 8 oraz § 4 nie dotyczą przewozów wykonywanych w komunikacji miejskiej.
 2.
 Przepisy § 3 ust. 1 pkt 1, 2, 4, 6–8 i 11 oraz ust. 2 stosuje się odpowiednio do przewozów regularnych specjalnych.
+Tryb zatwierdzania rozkładów jazdy
 § 6.
 1.
 Projekt rozkładu jazdy w regularnym przewozie osób w transporcie drogowym podlega zatwierdzeniu przez właściwy organ.
@@ -248,6 +247,7 @@ Zatwierdzanie rozkładu jazdy w transporcie kolejowym następuje poprzez przydzi
 Przepisy § 6 ust. 3 pkt 1 oraz § 7 stosuje się odpowiednio do zatwierdzania projektu rozkładu jazdy w transporcie linowym, linowo-terenowym oraz w żegludze śródlądowej.
 3.
 Do przewozów, o których mowa w ust. 2, nie stosuje się przepisu § 7 ust. 2 w zakresie nadawania numeru linii komunikacyjnej.
+Sposób i terminy ogłaszania oraz aktualizacji rozkładów jazdy
 § 11.
 1.
 Przewoźnik wykonujący regularny przewóz osób podaje rozkład jazdy do publicznej wiadomości w szczególności poprzez:
@@ -274,8 +274,7 @@ przekazaniu:
 a)
 rozkładu jazdy organizatorowi publicznego transportu zbiorowego celem podania do publicznej wiadomości informacji niezbędnych do administrowania systemem informacji dla pasażera,
 b)
-rozkładu jazdy oraz informacji dotyczącej rozkładu jazdy właścicielowi albo zarządzającemu przystankiem komunikacyjnym lub dworcem, celem zamieszczenia informacji dotyczącej rozkładu jazdy na danym obiekcie
-następuje poprzez przekazanie kopii zatwierdzonego rozkładu jazdy w postaci pliku w formacie PDF oraz w wersji elektronicznej umożliwiającej edycję tekstu.
+rozkładu jazdy oraz informacji dotyczącej rozkładu jazdy właścicielowi albo zarządzającemu przystankiem komunikacyjnym lub dworcem, celem zamieszczenia informacji dotyczącej rozkładu jazdy na danym obiekcie – następuje poprzez przekazanie kopii zatwierdzonego rozkładu jazdy w postaci pliku w formacie PDF oraz w wersji elektronicznej umożliwiającej edycję tekstu.
 § 12.
 1.
 W informacji dotyczącej rozkładu jazdy, o której mowa w § 11 ust. 1 pkt 3 i 4, określa się co najmniej:
@@ -371,6 +370,7 @@ W przypadku powiadomienia o aktualności rozkładu jazdy przekazywanego właści
 W przypadku aktualizacji, o której mowa w § 14 ust. 2 pkt 1 lit. a i pkt 2–4, przepisy § 11 i 12 stosuje się odpowiednio.
 2.
 Przepisy § 11, 12, 14 i 15 nie dotyczą przewozów regularnych specjalnych.
+Warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości
 § 17.
 1.
 Ponoszenie kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy na przystanku komunikacyjnym lub dworcu oraz w systemie informacji dla pasażera, w transporcie drogowym oraz innym szynowym, odbywa się na podstawie umowy.
@@ -394,14 +394,15 @@ b)
 liczby zatrzymań środków transportowych danego przewoźnika na danym przystanku komunikacyjnym lub dworcu.
 § 18.
 Przepisy § 17 stosuje się odpowiednio do organizatora publicznego transportu zbiorowego w komunikacji miejskiej, w zakresie przystanków komunikacyjnych i dworców, których właścicielem lub zarządzającym nie jest dana jednostka samorządu terytorialnego.
+Przepisy przejściowe i końcowe
 § 19.
 Rozkłady jazdy obowiązujące na podstawie dotychczasowych przepisów zachowują ważność przez okres, którego dotyczą, albo do czasu wprowadzenia w nich zmian.
-§ 20.
+§ 20Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 29 grudnia 2016 r. zmieniającego rozporządzenie w sprawie rozkładów jazdy (Dz. U. poz. 2279), które weszło w życie z dniem 31 grudnia 2016 r..
 Do dnia 31 grudnia 2017 r. oznaczenie linii komunikacyjnej w sposób określony zgodnie z § 3 ust. 1 pkt 8 nie jest wymagane.
 § 21.
 1.
 W regularnym przewozie osób w transporcie drogowym:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 przepisy § 3 ust. 1 pkt 5 i ust. 4 oraz § 6 ust. 3 pkt 2 stosuje się do rozkładów jazdy oraz do zmian rozkładów jazdy, które zaczną obowiązywać od dnia 1 stycznia 2018 r.;
 2)
 przepisy § 3 ust. 6 i 7 stosuje się do rozkładów jazdy oraz do zmian rozkładów jazdy, które zaczną obowiązywać od dnia 1 marca 2013 r.;
@@ -412,20 +413,32 @@ W 2012 r. aktualizacji rozkładu jazdy polegającej na powiadomieniu właściweg
 § 22.
 W regularnym przewozie osób w transporcie kolejowym przepis § 3 ust. 8 stosuje się do rozkładów jazdy, które zaczną obowiązywać od grudnia 2013 r.
 § 23.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów § 11 ust. 1 pkt 3, § 13 ust. 3, § 14 ust. 2 pkt 1 lit. a i ust. 4‒6, które wchodzą w życie z dniem 1 stycznia 2013 r.
-1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Budownictwa, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 2322). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 29 grudnia 2016 r. zmieniającego rozporządzenie w sprawie rozkładów jazdy (Dz. U. poz. 2279), które weszło w życie z dniem 31 grudnia 2016 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 25 kwietnia 2012 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Budownictwa z dnia 13 stycznia 2006 r. w sprawie treści, sposobu i terminów ogłaszania rozkładów jazdy oraz ich aktualizacji, warunków ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości (Dz. U. poz. 79), które na podstawie art. 89 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2011 r. poz. 13 i 1368) utraciło moc z dniem 1 marca 2012 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 25 kwietnia 2012 r., z wyjątkiem przepisów § 11 ust. 1 pkt 3, § 13 ust. 3, § 14 ust. 2 pkt 1 lit. a i ust. 4‒6, które wchodzą w życie z dniem 1 stycznia 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Budownictwa z dnia 13 stycznia 2006 r. w sprawie treści, sposobu i terminów ogłaszania rozkładów jazdy oraz ich aktualizacji, warunków ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości (Dz. U. poz. 79), które na podstawie art. 89 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2011 r. poz. 13 i 1368) utraciło moc z dniem 1 marca 2012 r. 1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Budownictwa, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 2322). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 29 grudnia 2016 r. zmieniającego rozporządzenie w sprawie rozkładów jazdy (Dz. U. poz. 2279), które weszło w życie z dniem 31 grudnia 2016 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 25 kwietnia 2012 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Budownictwa z dnia 13 stycznia 2006 r. w sprawie treści, sposobu i terminów ogłaszania rozkładów jazdy oraz ich aktualizacji, warunków ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości (Dz. U. poz. 79), które na podstawie art. 89 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2011 r. poz. 13 i 1368) utraciło moc z dniem 1 marca 2012 r.
 Załącznik – Wykaz podstawowych oznaczeń i symboli, które stosuje się w rozkładzie jazdy
-Lp. Symbol/oznaczenie1) Opis symbolu/oznaczenia 1 2 3 1 A kursuje od poniedziałku do piątku 2 B kursuje od poniedziałku do piątku oraz w niedzielę 3 C kursuje w soboty, niedziele i święta 4 D kursuje od poniedziałku do piątku oprócz świąt 5 E kursuje od poniedziałku do soboty oprócz świąt 6 H kursuje codziennie w okresie ferii letnich i zimowych oraz szkolnych przerw świątecznych 7 L kursuje w okresie ferii letnich 8 S kursuje w dni nauki szkolnej 9 + kursuje w dni wolne od pracy (niedziele i święta) 10 1 kursuje w poniedziałki 11 2 kursuje we wtorki 12 3 kursuje w środy 13 4 kursuje w czwartki 14 5 kursuje w piątki 15 6 kursuje w soboty 16 7 kursuje w niedziele 17 1–4 kursuje od poniedziałku do czwartku2) 18 1/2 kursuje z poniedziałku na wtorek3) 19 a nie kursuje w pierwszy dzień Świąt Wielkanocnych oraz w dniu 25.XII 20 b nie kursuje w dniu 1.I, w pierwszy dzień Świąt Wielkanocnych i w dniu 25.XII 21 c nie kursuje w dniu 1.I, w pierwszy dzień Świąt Wielkanocnych oraz w dniach 25 i 26.XII 22 d nie kursuje w dniu 1.I, w pierwszy i drugi dzień Świąt Wielkanocnych oraz w dniach 25 i 26.XII 23 e nie kursuje w okresie ferii letnich 24 f nie kursuje w okresie ferii letnich i zimowych oraz szkolnych przerw świątecznych 25 g nie kursuje w dniu 24.XII 26 h nie kursuje w Wielką Sobotę oraz w dniu 24.XII 27 i nie kursuje w dniu 26.XII 28 j nie kursuje w dniu 27.XII 29 k nie kursuje w drugi dzień Świąt Wielkanocnych oraz w dniu 26.XII 30 I nie kursuje w dniu 31.XII 31 m nie kursuje w dniach 24 i 31.XII 32 n nie kursuje w Wielką Sobotę oraz w dniach 24 i 31.XII 33 r nie kursuje w okresie ferii zimowych oraz szkolnych przerw świątecznych 34 t nie kursuje w okresie szkolnych przerw świątecznych 35 w nie kursuje w dzień Bożego Ciała 36 z nie kursuje w piątek po dniu Bożego Ciała 37 P kurs pospieszny 38 V kurs przyspieszony4) 39 Ex kurs ekspresowy 40 Int. kurs międzynarodowy 41 08:15 pogrubiony druk oznacza godzinę przyjazdu lub odjazdu środka transportowego w komunikacji przyspieszonej, pospiesznej i ekspresowej 42 8:15 podkreślenie godziny oznacza, że kurs obsługuje pojazd niskopodłogowy 43 o odjazd 44 p przyjazd 45 kolor czarny komunikacja zwykła, przyspieszona/pociąg osobowy 46 kolor czerwony komunikacja pospieszna, ekspresowa/pociąg pospieszny, ekspresowy 1) Symbole i oznaczenia określone w wykazie mogą być użyte w rozkładzie jazdy również poprzez ich umieszczenie w ramce, np. w kształcie kwadratu lub koła. 2) Jeżeli komunikacja kursuje przez dwa lub więcej kolejnych dni, to symbole dni kursowania oddziela się znakiem „-”; jeżeli komunikacja kursuje w różne dni, to symbole dni tygodnia oddziela się przecinkiem. 3) Jeżeli komunikacja rozpoczyna się jednego dnia tygodnia i kończy dnia następnego, kurs oznacza się symbolem tych dni tygodnia przedzielonych znakiem „/”. 4) Dotyczy kursów wykonywanych w transporcie drogowym.
+Lp. Symbol/oznaczenie1) Opis symbolu/oznaczenia 1 2 3 1 A kursuje od poniedziałku do piątku 2 B kursuje od poniedziałku do piątku oraz w niedzielę 3 C kursuje w soboty, niedziele i święta 4 D kursuje od poniedziałku do piątku oprócz świąt 5 E kursuje od poniedziałku do soboty oprócz świąt 6 H kursuje codziennie w okresie ferii letnich i zimowych oraz szkolnych przerw świątecznych 7 L kursuje w okresie ferii letnich 8 S kursuje w dni nauki szkolnej 9 + kursuje w dni wolne od pracy (niedziele i święta) 10 1 kursuje w poniedziałki 11 2 kursuje we wtorki 12 3 kursuje w środy 13 4 kursuje w czwartki 14 5 kursuje w piątki 15 6 kursuje w soboty 16 7 kursuje w niedziele 17 1–4 kursuje od poniedziałku do czwartku2) 18 1/2 kursuje z poniedziałku na wtorek3) 19 a nie kursuje w pierwszy dzień Świąt Wielkanocnych oraz w dniu 25.XII 20 b nie kursuje w dniu 1.I, w pierwszy dzień Świąt Wielkanocnych i w dniu 25.XII 21 c nie kursuje w dniu 1.I, w pierwszy dzień Świąt Wielkanocnych oraz w dniach 25 i 26.XII 22 d nie kursuje w dniu 1.I, w pierwszy i drugi dzień Świąt Wielkanocnych oraz w dniach 25 i 26.XII 23 e nie kursuje w okresie ferii letnich 24 f nie kursuje w okresie ferii letnich i zimowych oraz szkolnych przerw świątecznych 25 g nie kursuje w dniu 24.XII 26 h nie kursuje w Wielką Sobotę oraz w dniu 24.XII 27 i nie kursuje w dniu 26.XII 28 j nie kursuje w dniu 27.XII 29 k nie kursuje w drugi dzień Świąt Wielkanocnych oraz w dniu 26.XII 30 I nie kursuje w dniu 31.XII 31 m nie kursuje w dniach 24 i 31.XII 32 n nie kursuje w Wielką Sobotę oraz w dniach 24 i 31.XII 33 r nie kursuje w okresie ferii zimowych oraz szkolnych przerw świątecznych 34 t nie kursuje w okresie szkolnych przerw świątecznych 35 w nie kursuje w dzień Bożego Ciała 36 z nie kursuje w piątek po dniu Bożego Ciała 37 P kurs pospieszny 38 V kurs przyspieszony4) 39 Ex kurs ekspresowy 40 Int. kurs międzynarodowy 41 08:15 pogrubiony druk oznacza godzinę przyjazdu lub odjazdu środka transportowego w komunikacji przyspieszonej, pospiesznej i ekspresowej 42 8:15 podkreślenie godziny oznacza, że kurs obsługuje pojazd niskopodłogowy 43 o odjazd 44 p przyjazd 45 kolor czarny komunikacja zwykła, przyspieszona/pociąg osobowy 46 kolor czerwony komunikacja pospieszna, ekspresowa/pociąg pospieszny, ekspresowy
+1) Symbole i oznaczenia określone w wykazie mogą być użyte w rozkładzie jazdy również poprzez ich umieszczenie w ramce, np. w kształcie kwadratu lub koła. 2) Jeżeli komunikacja kursuje przez dwa lub więcej kolejnych dni, to symbole dni kursowania oddziela się znakiem „-”; jeżeli komunikacja kursuje w różne dni, to symbole dni tygodnia oddziela się przecinkiem. 3) Jeżeli komunikacja rozpoczyna się jednego dnia tygodnia i kończy dnia następnego, kurs oznacza się symbolem tych dni tygodnia przedzielonych znakiem „/”. 4) Dotyczy kursów wykonywanych w transporcie drogowym.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Treść rozkładu jazdy
+#### Rozdział 2 – Treść rozkładu jazdy
 
-#### Rozdział 3 Tryb zatwierdzania rozkładów jazdy
+#### Rozdział 3 – Tryb zatwierdzania rozkładów jazdy
 
-#### Rozdział 4 Sposób i terminy ogłaszania oraz aktualizacji rozkładów jazdy
+#### Rozdział 4 – Sposób i terminy ogłaszania oraz aktualizacji rozkładów jazdy
 
-#### Rozdział 5 Warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości
+#### Rozdział 5 – Warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

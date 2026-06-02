@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 22 lipca 2022 r. w sprawie przyznawania, przekazywania i rozliczania dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 22 lipca 2022 r. w sprawie przyznawania, przekazywania i rozliczania dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-22 |
 | Data wydania | 2022-07-22 |
-| Wejście w życie | 2022-07-22 |
 | Ostatnia zmiana | 2025-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1540/text.pdf) |
 
@@ -245,7 +244,7 @@ zamieszczając niezwłocznie w Biuletynie Informacji Publicznej na swojej stroni
 2)
 niezwłocznie po rozpatrzeniu wniosku za pomocą środków komunikacji elektronicznej – w przypadku wniosku o przyznanie dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji inwestycji, o której mowa w art. 75a pkt 2 i 3 ustawy, lub remontu.
 2.
-Minister przekazuje dotację celową na realizację inwestycji lub remontu na podstawie umowy, o której mowa w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.), zwanej dalej „umową dotacyjną”. Wzór umowy dotacyjnej minister zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej lub przekazuje wnioskodawcy za pomocą środków komunikacji elektronicznej.
+Minister przekazuje dotację celową na realizację inwestycji lub remontu na podstawie umowy, o której mowa w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283.), zwanej dalej „umową dotacyjną”. Wzór umowy dotacyjnej minister zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej lub przekazuje wnioskodawcy za pomocą środków komunikacji elektronicznej.
 3.
 W terminie 60 dni od dnia otrzymania informacji o przyznaniu dotacji celowej na realizację odpowiednio inwestycji lub remontu podmiot, któremu przyznano dotację celową, składa podpisaną umowę dotacyjną:
 1)
@@ -262,7 +261,7 @@ Dotacja celowa na realizację inwestycji lub remontu może być przekazywana jed
 1.
 Łączna kwota dotacji celowej na realizację inwestycji lub remontu nie może być wyższa niż jej wartość kosztorysowa określona w dniu zawarcia umowy dotacyjnej, z uwzględnieniem:
 1)
-art. 42 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2021 r. poz. 1672, z późn. zm.) i art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych – w przypadku jednostek samorządu terytorialnego;
+art. 42 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2021 r. poz. 1672, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1901 i 1927 oraz z 2022 r. poz. 646, 655, 1116 i 1265.) i art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych – w przypadku jednostek samorządu terytorialnego;
 2)
 art. 133 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych – w przypadku jednostek niezaliczanych do sektora finansów publicznych.
 2.
@@ -280,8 +279,7 @@ Jeżeli podmiot, któremu udzielono dotacji celowej na realizację inwestycji lu
 1)
 stwierdzi, że realizacja inwestycji lub remontu powinna być czasowo wstrzymana, albo
 2)
-zaniecha realizacji inwestycji lub remontu
-składa do ministra odpowiednio wniosek w sprawie czasowego wstrzymania albo wniosek w sprawie zaniechania realizacji inwestycji lub remontu.
+zaniecha realizacji inwestycji lub remontu – składa do ministra odpowiednio wniosek w sprawie czasowego wstrzymania albo wniosek w sprawie zaniechania realizacji inwestycji lub remontu.
 2.
 Do wniosku w sprawie czasowego wstrzymania inwestycji lub remontu dołącza się:
 1)
@@ -364,6 +362,5 @@ W 2022 r. wniosek o przyznanie dotacji celowej na finansowanie lub dofinansowani
 2.
 W 2022 r. termin, o którym mowa w § 10 ust. 3, wynosi 14 dni.
 § 20.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia, z tym że § 12 ust. 1 pkt 2 wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1901 i 1927 oraz z 2022 r. poz. 646, 655, 1116 i 1265.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia, z tym że § 12 ust. 1 pkt 2 wchodzi w życie z dniem 1 stycznia 2023 r. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1901 i 1927 oraz z 2022 r. poz. 646, 655, 1116 i 1265.
 

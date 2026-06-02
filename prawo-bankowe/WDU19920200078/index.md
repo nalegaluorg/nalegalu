@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1992-02-14 |
 | Data wydania | 1992-03-09 |
-| Wejście w życie | 1992-04-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920200078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/78/text.pdf) |
+
+Przepisy karne
 
 **Art. 1.** W ustawie z dnia 31 stycznia 1989 r. – Prawo bankowe (Dz. U. Nr 4, poz. 21, Nr 54, poz. 320, Nr 59, poz. 350 i Nr 74, poz. 439 i 440 oraz z 1991 r. Nr 100, poz. 442 i Nr 111, poz. 480) wprowadza się następujące zmiany:
 
@@ -334,14 +335,14 @@ source: "eli-html"
 
 - **48)** dodaje się rozdział 101 w brzmieniu: „
 
-#### Rozdział 101 Przepisy karne
+#### Rozdział 101
 
 **Art. 1151.**
 
 1. Kto:
 
 - **1)** nie będąc do tego uprawnionym prowadzi działalność zarobkową polegającą na przyjmowaniu wkładów oszczędnościowych ludności lub lokat terminowych w celu udzielania kredytów lub pożyczek albo wykorzystywania tych środków w inny sposób albo
-- **2)** prowadząc działalność zarobkową wbrew warunkom określonym w ustawie używa w nazwie jednostki organizacyjnej nie będącej bankiem oraz do określenia jej działalności lub reklamy wyrazów „bank” lub „kasa” podlega karze pozbawienia wolności do lat 3 lub ograniczenia wolności.
+- **2)** prowadząc działalność zarobkową wbrew warunkom określonym w ustawie używa w nazwie jednostki organizacyjnej nie będącej bankiem oraz do określenia jej działalności lub reklamy wyrazów „bank” lub „kasa” – podlega karze pozbawienia wolności do lat 3 lub ograniczenia wolności.
 
 2. Tej samej karze podlega również ten, kto dopuszcza się czynu określonego w ust. 1 działając za osobę prawną. ” ;
 
@@ -427,8 +428,11 @@ source: "eli-html"
 
 2. Rezerwę obowiązkową stanowi wyrażona w procentach część środków pieniężnych w złotych i walutach obcych, zgromadzonych na rachunkach związanych z działalnością gospodarczą, na rachunkach oszczędnościowych i innych rachunkach, z zastrzeżeniem art. 31 ust. 2 pkt 2 i ust. 3. ” ;
 
-- **14)** w art. 31: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) nie podlega oprocentowaniu, jeżeli nie przekracza 10% sumy środków pieniężnych zgromadzonych na rachunkach, których dotyczy obowiązek odprowadzania rezerw, ” – dodaje się pkt 3 w brzmieniu: „ 3) w części przewyższającej sumę określoną w pkt 2 podlega oprocentowaniu w wysokości ustalonej przez Prezesa NBP, nie niższej jednak aniżeli 50% stopy redyskontowej weksli, z tym że do dnia 30 czerwca 1992 r. oprocentowanie to NBP przekazuje w całości na Fundusz Restrukturyzacji i Oddłużenia Rolnictwa. Rada Ministrów, po zasięgnięciu opinii komisji sejmowych, określi, w drodze rozporządzenia, zasady funkcjonowania tego funduszu oraz inne źródła jego zasilania. ” , ust. 2 otrzymuje brzmienie: „
+- **14)** w art. 31: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** nie podlega oprocentowaniu, jeżeli nie przekracza 10% sumy środków pieniężnych zgromadzonych na rachunkach, których dotyczy obowiązek odprowadzania rezerw, ” dodaje się pkt 3 w brzmieniu: „
+- **3)** w części przewyższającej sumę określoną w pkt 2 podlega oprocentowaniu w wysokości ustalonej przez Prezesa NBP, nie niższej jednak aniżeli 50% stopy redyskontowej weksli, z tym że do dnia 30 czerwca 1992 r. oprocentowanie to NBP przekazuje w całości na Fundusz Restrukturyzacji i Oddłużenia Rolnictwa. Rada Ministrów, po zasięgnięciu opinii komisji sejmowych, określi, w drodze rozporządzenia, zasady funkcjonowania tego funduszu oraz inne źródła jego zasilania. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Prezes NBP w drodze zarządzenia:

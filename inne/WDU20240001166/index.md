@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-24 |
 | Data wydania | 2024-08-02 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-10-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1166/text.pdf) |
 
@@ -37,7 +36,7 @@ source: "eli-html"
 1. Do dnia 31 grudnia 2024 r. podstawę ustalenia wysokości:
 
 - **1)** stypendium sportowego, o której mowa w art. 32 ust. 1b ustawy z dnia 25 czerwca 2010 r. o sporcie, zwanej dalej „ustawą”, dla członka kadry narodowej, który uczestniczył we współzawodnictwie sportowym podczas Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024,
-- **2)** nagrody pieniężnej, o której mowa w art. 34 ust. 3 i art. 35 ust. 3 ustawy, dla: osób fizycznych za wybitne osiągnięcia sportowe podczas Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024, trenerów oraz innych osób wyróżniających się szczególną aktywnością i uzyskujących wybitne osiągnięcia w działalności w zakresie sportu podczas Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024 stanowi kwota minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę.
+- **2)** nagrody pieniężnej, o której mowa w art. 34 ust. 3 i art. 35 ust. 3 ustawy, dla: osób fizycznych za wybitne osiągnięcia sportowe podczas Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024, trenerów oraz innych osób wyróżniających się szczególną aktywnością i uzyskujących wybitne osiągnięcia w działalności w zakresie sportu podczas Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024 – stanowi kwota minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę.
     - **a)**
     - **b)**
 
@@ -50,7 +49,7 @@ source: "eli-html"
 5. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia:
 
 - **1)** przedział wysokości stypendium sportowego, stanowiący krotność kwoty bazowej dla członka kadry narodowej, który uczestniczył we współzawodnictwie sportowym podczas Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024,
-- **2)** przedział wysokości nagród pieniężnych, stanowiący krotność kwoty bazowej w zależności od osiągnięć: sportowych – dla osób fizycznych za wybitne osiągnięcia sportowe podczas Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024, w działalności w zakresie sportu – dla trenerów oraz innych osób wyróżniających się szczególną aktywnością i uzyskujących wybitne osiągnięcia w działalności w zakresie sportu podczas Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024 uwzględniając zajęte przez członka kadry narodowej miejsce we współzawodnictwie międzynarodowym, wymiar osiągnięcia sportowego albo znaczenie osiągnięć oraz podjętej aktywności dla rozwoju danego sportu.
+- **2)** przedział wysokości nagród pieniężnych, stanowiący krotność kwoty bazowej w zależności od osiągnięć: sportowych – dla osób fizycznych za wybitne osiągnięcia sportowe podczas Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024, w działalności w zakresie sportu – dla trenerów oraz innych osób wyróżniających się szczególną aktywnością i uzyskujących wybitne osiągnięcia w działalności w zakresie sportu podczas Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024 – uwzględniając zajęte przez członka kadry narodowej miejsce we współzawodnictwie międzynarodowym, wymiar osiągnięcia sportowego albo znaczenie osiągnięć oraz podjętej aktywności dla rozwoju danego sportu.
     - **a)**
     - **b)**
 

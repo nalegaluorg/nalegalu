@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-18 |
 | Data wydania | 2003-12-30 |
-| Wejście w życie | 2003-12-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032282261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2261/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. – Przepisy wprowadzające ustawę – Prawo o ustroju sądów administracyjnych i ustawę – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. – Przepisy wprowadzające ustawę – Prawo o ustroju sądów administracyjnych i ustawę – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2052 oraz z 2003 r. Nr 124, poz. 1153, Nr 171, poz. 1663, Nr 192, poz. 1873 i Nr 228, poz. 2256.) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 21;
 - **2)** uchyla się art. 42;
@@ -82,5 +81,5 @@ source: "eli-html"
 
 **Art. 102a.** W sprawach, w których wniosek o rozpoznanie sporu o właściwość między organem administracji publicznej a sądem nie został rozpoznany przez Kolegium Kompetencyjne przy Sądzie Najwyższym do dnia 1 stycznia 2004 r., Sąd Najwyższy umorzy postępowanie. Strona może ponownie wystąpić o rozpoznanie sprawy do właściwego sądu powszechnego albo organu administracji publicznej. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 31 grudnia 2003 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 31 grudnia 2003 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2052 oraz z 2003 r. Nr 124, poz. 1153, Nr 171, poz. 1663, Nr 192, poz. 1873 i Nr 228, poz. 2256.
 

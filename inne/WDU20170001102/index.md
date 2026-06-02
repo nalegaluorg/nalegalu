@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 maja 2017 r. zmieniające rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 maja 2017 r. zmieniające rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,21 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-31 |
 | Data wydania | 2017-06-07 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1102/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 3 ust. 2 ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 623) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 840) w załączniku do rozporządzenia w § 4 pkt 16 i 17 otrzymują brzmienie:
-„
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 840) w załączniku do rozporządzenia w § 4 pkt 16 i 17 otrzymują brzmienie: „
 16)
 Koszalin – dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: białogardzki, drawski, kołobrzeski, Koszalin – miasto na prawach powiatu, koszaliński, sławieński, szczecinecki, świdwiński i wałecki w województwie zachodniopomorskim;
 17)
-Szczecin – dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: choszczeński, goleniowski, gryficki, gryfiński, kamieński, łobeski, myśliborski, policki, pyrzycki, stargardzki, Szczecin – miasto na prawach powiatu i Świnoujście – miasto na prawach powiatu w województwie zachodniopomorskim.
-” .
+Szczecin – dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: choszczeński, goleniowski, gryficki, gryfiński, kamieński, łobeski, myśliborski, policki, pyrzycki, stargardzki, Szczecin – miasto na prawach powiatu i Świnoujście – miasto na prawach powiatu w województwie zachodniopomorskim. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

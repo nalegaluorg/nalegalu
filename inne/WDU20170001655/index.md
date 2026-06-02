@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 23 sierpnia 2017 r. w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 23 sierpnia 2017 r. w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-23 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1655/text.pdf) |
 
@@ -103,7 +102,7 @@ publicznej szkoły ponadpodstawowej sportowej, publicznej szkoły ponadpodstawow
 7)
 publicznej szkoły policealnej – na podstawie wyniku sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 136 ust. 1 pkt 3 ustawy, jeżeli taki sprawdzian jest w szkole przeprowadzany, oraz zaświadczenia lekarskiego zawierającego orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, o którym mowa w art. 136 ust. 1 pkt 2 ustawy, oraz:
 a)
-świadectwa lub innego dokumentu wydanego za granicą potwierdzających w Rzeczypospolitej Polskiej wykształcenie średnie na podstawie art. 93 ust. 1 lub 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.) albo
+świadectwa lub innego dokumentu wydanego za granicą potwierdzających w Rzeczypospolitej Polskiej wykształcenie średnie na podstawie art. 93 ust. 1 lub 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.) albo
 b)
 świadectwa lub innego dokumentu wydanego za granicą uznanych za dokumenty potwierdzające w Rzeczypospolitej Polskiej wykształcenie średnie lub średnie branżowe na podstawie art. 93 ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty, albo
 c)
@@ -139,8 +138,7 @@ do publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie po
 3)
 na kształcenie ustawiczne w formach pozaszkolnych, lub
 4)
-na kwalifikacyjne kursy zawodowe
-odbywa się w trakcie roku szkolnego, o przyjęciu ucznia decyduje dyrektor publicznej placówki, zgodnie z art. 130 ust. 2 i 3 ustawy.
+na kwalifikacyjne kursy zawodowe – odbywa się w trakcie roku szkolnego, o przyjęciu ucznia decyduje dyrektor publicznej placówki, zgodnie z art. 130 ust. 2 i 3 ustawy.
 § 10.
 1.
 Dyrektor publicznej szkoły może zdecydować o przeprowadzeniu odpowiednio:
@@ -151,8 +149,7 @@ sprawdzianu uzdolnień kierunkowych, o którym mowa w art. 134 ust. 5 i art. 135
 3)
 sprawdzianu kompetencji językowych, o którym mowa w art. 140 ust. 1 ustawy,
 4)
-sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 136 ust. 1 pkt 3 i art. 141 ust. 1 pkt 4 ustawy
-jeżeli jest to uzasadnione specyfiką kształcenia w danej szkole, a stopień przygotowania do tego kształcenia ucznia przybywającego z zagranicy nie wynika z dokumentów.
+sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 136 ust. 1 pkt 3 i art. 141 ust. 1 pkt 4 ustawy – jeżeli jest to uzasadnione specyfiką kształcenia w danej szkole, a stopień przygotowania do tego kształcenia ucznia przybywającego z zagranicy nie wynika z dokumentów.
 2.
 Dyrektor publicznej szkoły wyznacza termin sprawdzianu predyspozycji językowych, o którym mowa w art. 138 ust. 1 i art. 139 ust. 1 pkt 2 ustawy, sprawdzianu uzdolnień kierunkowych, o którym mowa w art. 134 ust. 5 i art. 135 ust. 7 ustawy, sprawdzianu kompetencji językowych, o którym mowa w art. 140 ust. 1 ustawy, sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 136 ust. 1 pkt 3 i art. 141 ust. 1 pkt 4 ustawy, oraz prób sprawności fizycznej, o których mowa w art. 137 ust. 1 pkt 3 ustawy, a także wyznacza osoby przeprowadzające ten sprawdzian lub próby sprawności fizycznej. Przepis § 12 ust. 3 stosuje się odpowiednio.
 § 11.
@@ -221,7 +218,7 @@ Decyzję o skróceniu albo przedłużeniu okresu nauki ucznia w oddziale przygot
 8.
 W przypadku przyjęcia w trakcie roku szkolnego do szkoły znacznej liczby uczniów, o których mowa w ust. 1, oddział przygotowawczy może być zorganizowany także w trakcie roku szkolnego.
 9.
-W oddziale przygotowawczym w ramach tygodniowego wymiaru godzin, o którym mowa w ust. 5, prowadzi się naukę języka polskiego według programu nauczania opracowanego na podstawie ramowego programu kursów nauki języka polskiego dla cudzoziemców, o którym mowa w przepisach wydanych na podstawie art. 92 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, z późn. zm.), w wymiarze nie niższym niż 3 godziny tygodniowo.
+W oddziale przygotowawczym w ramach tygodniowego wymiaru godzin, o którym mowa w ust. 5, prowadzi się naukę języka polskiego według programu nauczania opracowanego na podstawie ramowego programu kursów nauki języka polskiego dla cudzoziemców, o którym mowa w przepisach wydanych na podstawie art. 92 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1583, 1948 i 2174 oraz z 2017 r. poz. 38, 60, 624, 777, 1292, 1428 i 1475.), w wymiarze nie niższym niż 3 godziny tygodniowo.
 10.
 W przypadku gdy szkoła organizuje obowiązkowe zajęcia edukacyjne w oddziale przygotowawczym dla małoletnich przebywających w strzeżonym ośrodku, o których mowa w art. 416 ust. 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2016 r. poz. 1990, 1948 i 2066 oraz z 2017 r. poz. 60, 858 i 1543), szczegółowe warunki współpracy między szkołą i strzeżonym ośrodkiem określa porozumienie zawarte przez organ prowadzący szkołę i organ Straży Granicznej, któremu dany ośrodek podlega, dotyczące organizacji zajęć, tygodniowego rozkładu zajęć, sposobu i warunków wspierania prowadzenia zajęć przez funkcjonariuszy i pracowników ośrodka, warunków udostępniania pomieszczeń oraz dostępu nauczycieli do ośrodka, a także sposobu i warunków kontaktów nauczycieli z rodzicami małoletnich.
 § 17.
@@ -261,6 +258,5 @@ nie otrzymała promocji do klasy programowo wyższej lub na semestr programowo w
 3)
 przebywa dłużej niż miesiąc poza granicami Rzeczypospolitej Polskiej w okresie innym niż ferie letnie.
 § 23.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1583, 1948 i 2174 oraz z 2017 r. poz. 38, 60, 624, 777, 1292, 1428 i 1475.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1583, 1948 i 2174 oraz z 2017 r. poz. 38, 60, 624, 777, 1292, 1428 i 1475.
 

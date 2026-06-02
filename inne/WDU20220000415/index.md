@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Zagranicznychz dnia 14 lutego 2022 r. o sprostowaniu błędów
+# Obwieszczenie Ministra Spraw Zagranicznychz dnia 14 lutego 2022 r. o sprostowaniu błędów Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469).
 
 | Pole | Wartość |
 |---|---|
@@ -34,6 +34,5 @@ trzecim akapicie zamiast wyrazów:
 a)
 „dniem 16 października 2019 r.” powinny być wyrazy „dniem 17 października 2019 r.”,
 b)
-„dnia 16 października 2029 r.” powinny być wyrazy „dnia 17 października 2029 r.”.
-1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469).
+„dnia 16 października 2029 r.” powinny być wyrazy „dnia 17 października 2029 r.”. 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469).
 

@@ -22,26 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-13 |
 | Data wydania | 2015-10-22 |
-| Wejście w życie | 2015-10-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001666) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1666/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 13ha ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 13ha ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870 i 1336.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 22 marca 2011 r. w sprawie dróg krajowych lub ich odcinków, na których pobiera się opłatę elektroniczną, oraz wysokości stawek opłaty elektronicznej (Dz. U. z 2013 r. poz. 1263, z późn. zm.) w załączniku nr 1 do rozporządzenia wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 22 marca 2011 r. w sprawie dróg krajowych lub ich odcinków, na których pobiera się opłatę elektroniczną, oraz wysokości stawek opłaty elektronicznej (Dz. U. z 2013 r. poz. 1263, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 1267, z 2014 r. poz. 1112 oraz z 2015 r. poz. 879.) w załączniku nr 1 do rozporządzenia wprowadza się następujące zmiany:
 1)
-w pkt 1 lit. a otrzymuje brzmienie:
-„
+w pkt 1 lit. a otrzymuje brzmienie: „
 a)
-węzeł Toruń Południe – węzeł Łódź Północ,
-” ;
+węzeł Toruń Południe – węzeł Łódź Północ, ” ;
 2)
-w pkt 14 lit. b otrzymuje brzmienie:
-„
+w pkt 14 lit. b otrzymuje brzmienie: „
 b)
-węzeł Toruń Zachód – węzeł Toruń Południe;
-” .
+węzeł Toruń Zachód – węzeł Toruń Południe; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 23 października 2015 r.
+Rozporządzenie wchodzi w życie z dniem 23 października 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870 i 1336. 2) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 1267, z 2014 r. poz. 1112 oraz z 2015 r. poz. 879.
 

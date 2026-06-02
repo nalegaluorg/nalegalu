@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo podatkowe**.
 
-Łącznie: **196** aktów
+Łącznie: **193** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -28,10 +28,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20250000894](WDU20250000894/index.md) | Ustawa z dnia 24 czerwca 2025 r. o zmianie ustawy o Krajowej Administracji  | Ustawa | obowiązujący |  |
 | [WDU20250000775](WDU20250000775/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000497](WDU20250000497/index.md) | Ustawa z dnia 4 kwietnia 2025 r. o zmianie ustawy - Ordynacja podatkowa ora | Ustawa | obowiązujący |  |
-| [WDU20250000278](WDU20250000278/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000222](WDU20250000222/index.md) | Ustawa z dnia 24 stycznia 2025 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
-| [WDU20250000163](WDU20250000163/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 stycznia  | Obwieszczenie | obowiązujący |  |
-| [WDU20250000111](WDU20250000111/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 grudnia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20240001861](WDU20240001861/index.md) | Rozporządzenie Ministra Finansów z dnia 13 grudnia 2024 r. w sprawie zwolni | Rozporządzenie | obowiązujący |  |
 | [WDU20240001721](WDU20240001721/index.md) | Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
 | [WDU20240001593](WDU20240001593/index.md) | Ustawa z dnia 27 września 2024 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
@@ -203,4 +200,4 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU19920210086](WDU19920210086/index.md) | Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych | Ustawa | akt posiada tekst jednolity | [tak](WDU19920210086/orzecznictwo.md) |
 | [WDU19910800350](WDU19910800350/index.md) | Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910800350/orzecznictwo.md) |
 
-*196 aktów • [← Powrót do spisu głównego](../README.md)*
+*193 aktów • [← Powrót do spisu głównego](../README.md)*

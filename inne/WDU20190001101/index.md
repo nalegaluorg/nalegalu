@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-10 |
 | Data wydania | 2019-06-13 |
-| Wejście w życie | 2019-06-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1101/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie krakowskiej specjalnej strefy ekonomicznej (Dz. U. z 2017 r. poz. 2121) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 1015,6129 ha, położone na terenach miast: Bochnia, Bukowno, Kraków, Krosno, Limanowa, Nowy Sącz, Nowy Targ, Oświęcim, Sucha Beskidzka i Tarnów oraz gmin: Andrychów, Babice, Bobowa, Bochnia, Boguchwała, Chełmek, Chełmiec, Chrzanów, Czorsztyn, Dąbrowa Tarnowska, Dobczyce, Drwinia, Gdów, Jędrzejów, Klucze, Niepołomice, Nowa Sarzyna, Nowe Brzesko, Skawina, Słomniki, Stary Sącz, Szczurowa, Trzebinia, Tuchów, Wolbrom, Zabierzów, Zakliczyn i Zator.
-” ;
+Strefa obejmuje grunty o powierzchni 1015,6129 ha, położone na terenach miast: Bochnia, Bukowno, Kraków, Krosno, Limanowa, Nowy Sącz, Nowy Targ, Oświęcim, Sucha Beskidzka i Tarnów oraz gmin: Andrychów, Babice, Bobowa, Bochnia, Boguchwała, Chełmek, Chełmiec, Chrzanów, Czorsztyn, Dąbrowa Tarnowska, Dobczyce, Drwinia, Gdów, Jędrzejów, Klucze, Niepołomice, Nowa Sarzyna, Nowe Brzesko, Skawina, Słomniki, Stary Sącz, Szczurowa, Trzebinia, Tuchów, Wolbrom, Zabierzów, Zakliczyn i Zator. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU KRAKOWSKIEGO PARKU TECHNOLOGICZNEGO:
 a)

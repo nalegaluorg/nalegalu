@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 września 2024 r. w sprawie szczegółowego trybu organizowania oraz przeprowadzania naboru kandydatów do pełnienia funkcji wizytatora
+# Rozporządzenie Ministra Zdrowiaz dnia 27 września 2024 r. w sprawie szczegółowego trybu organizowania oraz przeprowadzania naboru kandydatów do pełnienia funkcji wizytatora Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-27 |
 | Data wydania | 2024-10-04 |
-| Wejście w życie | 2024-10-19 |
 | Ostatnia zmiana | 2024-10-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001480) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1480/text.pdf) |
 
@@ -132,6 +131,5 @@ Do uzyskania pozytywnego wyniku z naboru kandydatów jest wymagane uzyskanie co 
 2)
 80 punktów – z rozmowy kwalifikacyjnej.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

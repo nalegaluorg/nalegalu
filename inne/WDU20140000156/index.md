@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-29 |
 | Data wydania | 2014-01-31 |
-| Wejście w życie | 2014-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000156) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/156/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 56 ust. 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 56 ust. 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717.) zarządza się, co następuje:
 § 1.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -70,8 +69,7 @@ Maksymalna kwota wszystkich lokat nadwyżek w jednym banku, którego współczyn
 2)
 150 mln euro, jeżeli fundusze własne banku nie przekraczają 1 mld euro,
 3)
-500 mln euro, jeżeli fundusze własne banku przekraczają 1 mld euro
-przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym miesiąca poprzedzającego miesiąc, w którym są lokowane nadwyżki.
+500 mln euro, jeżeli fundusze własne banku przekraczają 1 mld euro – przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym miesiąca poprzedzającego miesiąc, w którym są lokowane nadwyżki.
 8.
 Maksymalna dopuszczalna kwota lokat nadwyżek w bankach o funduszach własnych, o których mowa w ust. 7, i których współczynnik wypłacalności jest mniejszy niż 12%, jest korygowana mnożnikiem:
 1)
@@ -85,5 +83,5 @@ Banki, w których są lokowane nadwyżki, nie później niż do końca pierwszeg
 11.
 Odsetki od ulokowanych nadwyżek są przychodami funduszu emerytalnego, o którym mowa w art. 55 ust. 1 pkt 1 ustawy.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 20 czerwca 2001 r. w sprawie szczegółowych zasad gospodarki finansowej oraz zasad lokowania środków Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 67, poz. 711 oraz z 2013 r. poz. 1042), które traci moc z dniem 1 lutego 2014 r. w związku z wejściem w życie ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 20 czerwca 2001 r. w sprawie szczegółowych zasad gospodarki finansowej oraz zasad lokowania środków Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 67, poz. 711 oraz z 2013 r. poz. 1042), które traci moc z dniem 1 lutego 2014 r. w związku z wejściem w życie ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717).
 

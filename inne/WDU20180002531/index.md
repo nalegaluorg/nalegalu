@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 21 grudnia 2018 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur
+# Rozporządzenie Ministra Środowiskaz dnia 21 grudnia 2018 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-21 |
 | Data wydania | 2018-12-31 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002531) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2531/text.pdf) |
 
@@ -68,8 +67,7 @@ ochrony danych osobowych,
 m)
 ochrony informacji niejawnych;
 2)
-delegatury.
-Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
+delegatury. Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 3.
 W ramach wydziału inspekcji może zostać wyodrębniona grupa interwencyjno-wyjazdowa lub inne grupy o charakterze zadaniowym.
 4.
@@ -90,6 +88,5 @@ Regulaminy organizacyjne określające organizację wojewódzkich inspektoratów
 § 5.
 Traci moc rozporządzenie Ministra Środowiska z dnia 30 maja 2011 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 747).
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady
 

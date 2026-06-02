@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-24 |
 | Data wydania | 2017-02-28 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/404/text.pdf) |
 
@@ -34,44 +33,63 @@ W rozporządzeniu Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie rodzaj�
 w § 3:
 a)
 w ust. 1:
-– w pkt 1 lit. a otrzymuje brzmienie: „ a) dochodów budżetu państwa, odrębnie dla każdego rodzaju dochodów z tytułu: – podatku dochodowego od osób prawnych, – podatku dochodowego od osób fizycznych, – podatku od towarów i usług, – podatku akcyzowego, podatku od gier, podatku od wydobycia niektórych kopalin, – dochodów pobranych przez państwowe jednostki budżetowe, – wpływów niewykorzystanych w terminie określonym przez Radę Ministrów środków na wydatki niewygasające, – wpływów środków pochodzących z budżetu Unii Europejskiej (z wyłączeniem środków budżetu środków europejskich), – pozostałych dochodów, ” ,
-– pkt 3 otrzymuje brzmienie: „ 3) rachunki bieżące urzędów obsługujących organy podatkowe, dla gromadzenia dochodów budżetu państwa, z wyodrębnieniem rachunków dla: a) wpływów z podatku dochodowego od osób prawnych, b) wpływów z podatku dochodowego od osób fizycznych, c) wpływów z podatku od towarów i usług, d) wpływów z podatku akcyzowego, podatku od gier, podatku od wydobycia niektórych kopalin oraz podatku od towarów i usług od wewnątrzwspólnotowego nabycia paliw silnikowych, e) pozostałych dochodów; ” ,
-– w pkt 5 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ e) państwowych jednostek budżetowych dla gromadzenia wpływów dotyczących przychodów z prywatyzacji; ” ,
+w pkt 1 lit. a otrzymuje brzmienie: „
+a)
+dochodów budżetu państwa, odrębnie dla każdego rodzaju dochodów z tytułu:
+– podatku dochodowego od osób prawnych,
+– podatku dochodowego od osób fizycznych,
+– podatku od towarów i usług,
+– podatku akcyzowego, podatku od gier, podatku od wydobycia niektórych kopalin,
+– dochodów pobranych przez państwowe jednostki budżetowe,
+– wpływów niewykorzystanych w terminie określonym przez Radę Ministrów środków na wydatki niewygasające,
+– wpływów środków pochodzących z budżetu Unii Europejskiej (z wyłączeniem środków budżetu środków europejskich),
+– pozostałych dochodów,
+” ,
+pkt 3 otrzymuje brzmienie: „
+3)
+rachunki bieżące urzędów obsługujących organy podatkowe, dla gromadzenia dochodów budżetu państwa, z wyodrębnieniem rachunków dla:
+a)
+wpływów z podatku dochodowego od osób prawnych,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+wpływów z podatku dochodowego od osób fizycznych,
+c)
+wpływów z podatku od towarów i usług,
+d)
+wpływów z podatku akcyzowego, podatku od gier, podatku od wydobycia niektórych kopalin oraz podatku od towarów i usług od wewnątrzwspólnotowego nabycia paliw silnikowych,
+e)
+pozostałych dochodów; ” ,
+w pkt 5 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „
+e)
+państwowych jednostek budżetowych dla gromadzenia wpływów dotyczących przychodów z prywatyzacji; ” ,
+b)
+ust. 2 otrzymuje brzmienie: „
 2.
-Obsługę rachunków bankowych, o których mowa w ust. 1 pkt 1–3 i pkt 5 lit. a, b i e, prowadzi Narodowy Bank Polski.
-” ;
+Obsługę rachunków bankowych, o których mowa w ust. 1 pkt 1–3 i pkt 5 lit. a, b i e, prowadzi Narodowy Bank Polski. ” ;
 2)
 w § 4 zdanie pierwsze otrzymuje brzmienie: „ Suma sald rachunków bankowych, o których mowa w § 3 ust. 1 pkt 1–3 i pkt 5 lit. a, b i e, stanowi dyspozycyjny stan środków budżetu państwa w zakresie krajowych środków finansowych. ” ;
 3)
-w § 11 w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
-„
+w § 11 w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 5)
-przekazywania środków w związku z przeksięgowaniami pomiędzy rachunkami bankowymi urzędów obsługujących organy podatkowe.
-” ;
+przekazywania środków w związku z przeksięgowaniami pomiędzy rachunkami bankowymi urzędów obsługujących organy podatkowe. ” ;
 4)
-po § 16a dodaje się § 16b w brzmieniu:
-„
+po § 16a dodaje się § 16b w brzmieniu: „
 § 16b.
 1.
 Kierownik państwowej jednostki budżetowej występuje do Ministra Finansów z wnioskiem o zgodę na otwarcie rachunku pomocniczego dla gromadzenia wpływów dotyczących przychodów z prywatyzacji. Przepisy § 16 stosuje się odpowiednio.
 2.
-Środki na centralny rachunek bieżący budżetu państwa odprowadzane są z rachunku, o którym mowa w ust. 1, po pomniejszeniu o odpisy wynikające z odrębnych przepisów, w terminie określonym w zgodzie na prowadzenie rachunku pomocniczego, wydanej przez Ministra Finansów.
-” ;
+Środki na centralny rachunek bieżący budżetu państwa odprowadzane są z rachunku, o którym mowa w ust. 1, po pomniejszeniu o odpisy wynikające z odrębnych przepisów, w terminie określonym w zgodzie na prowadzenie rachunku pomocniczego, wydanej przez Ministra Finansów. ” ;
 5)
 w § 18:
 a)
 w ust. 1 w pkt 2:
-– lit. b otrzymuje brzmienie: „ b) rachunkach bieżących poszczególnych urzędów obsługujących organy podatkowe dla gromadzenia dochodów budżetowych, ” ,
+lit. b otrzymuje brzmienie: „
+b)
+rachunkach bieżących poszczególnych urzędów obsługujących organy podatkowe dla gromadzenia dochodów budżetowych, ” ,
 – uchyla się lit. c,
 b)
-w ust. 3 pkt 4 otrzymuje brzmienie:
-„
+w ust. 3 pkt 4 otrzymuje brzmienie: „
 4)
-urzędy obsługujące organy podatkowe w zakresie rachunków dochodów budżetowych.
-” .
+urzędy obsługujące organy podatkowe w zakresie rachunków dochodów budżetowych. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
 

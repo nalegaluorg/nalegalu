@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-24 |
 | Data wydania | 2020-07-02 |
-| Wejście w życie | 2020-07-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001172) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1172/text.pdf) |
 
@@ -33,32 +32,25 @@ W rozporządzeniu Prezesa Rady Ministrów z dnia 3 października 2003 r. w spraw
 1)
 w § 1:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 Funkcjonariusz Agencji Bezpieczeństwa Wewnętrznego, zwany dalej „funkcjonariuszem”, pełni służbę w rozkładzie czasu służby:
 1)
 zmianowym lub równorzędnym – na stanowiskach służbowych, na których wymaga się pełnienia służby w systemie zmianowym lub w sposób ciągły;
 2)
-podstawowym – na pozostałych stanowiskach służbowych, – uwzględniającym 40-godzinny tydzień służby, w 3-miesięcznym okresie rozliczeniowym.
-” ,
+podstawowym – na pozostałych stanowiskach służbowych, – uwzględniającym 40-godzinny tydzień służby, w 3-miesięcznym okresie rozliczeniowym. ” ,
 b)
-po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
 1a.
 Wymiar czasu służby funkcjonariusza, który odbywa szkolenie zawodowe, jest określony przez program lub harmonogram szkolenia.
 1b.
-Wymiar czasu służby funkcjonariusza, który odbywa podróż służbową, jest równoważny z wymiarem czasu poświęconego na wykonywanie obowiązków z uwzględnieniem co najmniej 11 godzin nieprzerwanego wypoczynku.
-” ;
+Wymiar czasu służby funkcjonariusza, który odbywa podróż służbową, jest równoważny z wymiarem czasu poświęconego na wykonywanie obowiązków z uwzględnieniem co najmniej 11 godzin nieprzerwanego wypoczynku. ” ;
 2)
-w § 3 po ust. 4 dodaje się ust. 4a w brzmieniu:
-„
+w § 3 po ust. 4 dodaje się ust. 4a w brzmieniu: „
 4a.
-W przypadku wystąpienia szczególnych potrzeb służby oraz w przypadku gdy nieobecność funkcjonariusza spowodowałaby poważne zakłócenia organizacji służby na stanowiskach, na których jest wymagane utrzymanie pełnienia służby w sposób ciągły, czas na wypoczynek, o którym mowa w ust. 4, udzielony funkcjonariuszowi, może obejmować mniej niż 72 godziny przez okres nie dłuższy niż miesiąc, jednak nie może być krótszy niż 24 godziny.
-” ;
+W przypadku wystąpienia szczególnych potrzeb służby oraz w przypadku gdy nieobecność funkcjonariusza spowodowałaby poważne zakłócenia organizacji służby na stanowiskach, na których jest wymagane utrzymanie pełnienia służby w sposób ciągły, czas na wypoczynek, o którym mowa w ust. 4, udzielony funkcjonariuszowi, może obejmować mniej niż 72 godziny przez okres nie dłuższy niż miesiąc, jednak nie może być krótszy niż 24 godziny. ” ;
 3)
-po § 12 dodaje się § 12a w brzmieniu:
-„
+po § 12 dodaje się § 12a w brzmieniu: „
 § 12a.
 1.
 Funkcjonariuszowi bezpośrednio po zakończeniu podróży służbowej przysługuje czas wolny od służby w wymiarze co najmniej 11 godzin, jeżeli:
@@ -71,8 +63,7 @@ W przypadku określonym w ust. 1, w którym czas na nieprzerwany wypoczynek funk
 3.
 Jeżeli wymagają tego ważne potrzeby służbowe, kierownik komórki organizacyjnej może polecić podległemu funkcjonariuszowi niezwłoczne stawienie się do pełnienia służby po podróży służbowej. O wydanym poleceniu kierownik komórki organizacyjnej zawiadamia kierownika jednostki organizacyjnej ABW.
 4.
-Pełnienie służby w przypadku określonym w ust. 3 jest równoznaczne z przedłużeniem czasu służby, o którym mowa w § 7 ust. 1. W takim przypadku przepis § 8 stosuje się odpowiednio.
-” .
+Pełnienie służby w przypadku określonym w ust. 3 jest równoznaczne z przedłużeniem czasu służby, o którym mowa w § 7 ust. 1. W takim przypadku przepis § 8 stosuje się odpowiednio. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 10 września 2019 r. w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko
+# Rozporządzenie Rady Ministrówz dnia 10 września 2019 r. w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/92/UE z dnia 13 grudnia 2011 r. w sprawie oceny skutków wywieranych przez niektóre przedsięwzięcia publiczne i prywatne na środowisko (Dz. Urz. UE L 26 z 28.01.2012, str. 1, Dz. Urz. UE L 124 z 25.04.2014, str. 1 oraz Dz. Urz. UE L 174 z 03.07.2015, str. 44).
 
 | Pole | Wartość |
 |---|---|
@@ -23,7 +23,7 @@ source: "eli-html"
 | Data ogłoszenia | 2019-09-10 |
 | Data wydania | 2019-09-26 |
 | Wejście w życie | 2019-10-11 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1839/text.pdf) |
 
 Treść rozporządzenia
@@ -85,8 +85,7 @@ b)
 c)
 10 000 W, a miejsca dostępne dla ludności znajdują się w odległości nie większej niż 200 m od środka elektrycznego w osi głównej wiązki promieniowania tej anteny,
 d)
-20 000 W
-przy czym równoważną moc promieniowaną izotropowo wyznacza się dla pojedynczej anteny także w przypadku, gdy na terenie tego samego zakładu lub obiektu jest realizowana lub została zrealizowana inna instalacja radiokomunikacyjna, radionawigacyjna lub radiolokacyjna;
+20 000 W – przy czym równoważną moc promieniowaną izotropowo wyznacza się dla pojedynczej anteny także w przypadku, gdy na terenie tego samego zakładu lub obiektu jest realizowana lub została zrealizowana inna instalacja radiokomunikacyjna, radionawigacyjna lub radiolokacyjna;
 8)
 instalacje związane z postępowaniem z paliwem jądrowym lub odpadami promieniotwórczymi:
 a)
@@ -136,8 +135,7 @@ ropy naftowej,
 b)
 produktów naftowych,
 c)
-substancji lub mieszanin, w rozumieniu odpowiednio art. 3 pkt 1 i 2 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1907/2006”, niebędących produktami spożywczymi, w tym gazu
-o średnicy zewnętrznej nie mniejszej niż 800 mm i długości nie mniejszej niż 40 km, wraz z towarzyszącymi tłoczniami lub stacjami redukcyjnymi, przy czym tłocznie lub stacje redukcyjne budowane, montowane lub przebudowywane przy istniejących instalacjach przesyłowych nie są przedsięwzięciami mogącymi znacząco oddziaływać na środowisko;
+substancji lub mieszanin, w rozumieniu odpowiednio art. 3 pkt 1 i 2 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 29.05.2007, str. 3, Dz. Urz. UE L 304 z 22.11.2007, str. 1, Dz. Urz. UE L 141 z 31.05.2008, str. 22, Dz. Urz. UE L 268 z 09.10.2008, str. 14, Dz. Urz. UE L 353 z 31.12.2008, str. 1, Dz. Urz. UE L 36 z 05.02.2009, str. 84, Dz. Urz. UE L 46 z 17.02.2009, str. 3, Dz. Urz. UE L 164 z 26.06.2009, str. 7, Dz. Urz. UE L 86 z 01.04.2010, str. 7, Dz. Urz. UE L 118 z 12.05.2010, str. 89, Dz. Urz. UE L 133 z 31.05.2010, str. 1, Dz. Urz. UE L 260 z 02.10.2010, str. 22, Dz. Urz. UE L 44 z 18.02.2011, str. 2, Dz. Urz. UE L 58 z 03.03.2011, str. 27, Dz. Urz. UE L 69 z 16.03.2011, str. 3 i 7, Dz. Urz. UE L 101 z 15.04.2011, str. 12, Dz. Urz. UE L 134 z 21.05.2011, str. 2, Dz. Urz. UE L 37 z 10.02.2012, str. 1, Dz. Urz. UE L 41 z 15.02.2012, str. 1, Dz. Urz. UE L 128 z 16.05.2012, str. 1, Dz. Urz. UE L 252 z 19.09.2012, str. 1 i 4, Dz. Urz. UE L 253 z 20.09.2012, str. 1 i 5, Dz. Urz. UE L 43 z 14.02.2013, str. 24, Dz. Urz. UE L 108 z 18.04.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 328 z 07.12.2013, str. 69, Dz. Urz. UE L 90 z 26.03.2014, str. 1, Dz. Urz. UE L 93 z 28.03.2014, str. 24, Dz. Urz. UE L 136 z 09.05.2014, str. 19, Dz. Urz. UE L 244 z 19.08.2014, str. 6, Dz. Urz. UE L 50 z 21.02.2015, str. 1, Dz. Urz. UE L 58 z 03.03.2015, str. 43, Dz. Urz. UE L 104 z 23.04.2015, str. 2, Dz. Urz. UE L 132 z 29.05.2015, str. 8, Dz. Urz. UE L 233 z 05.09.2015, str. 2, Dz. Urz. UE L 9 z 14.01.2016, str. 1, Dz. Urz. UE L 40 z 17.02.2016, str. 5, Dz. Urz. UE L 144 z 01.06.2016, str. 27, Dz. Urz. UE L 165 z 23.06.2016, str. 4, Dz. Urz. UE L 166 z 24.06.2016, str. 1, Dz. Urz. UE L 255 z 21.09.2016, str. 14, Dz. Urz. UE L 337 z 13.12.2016, str. 3, Dz. Urz. UE L 35 z 10.02.2017, str. 6, Dz. Urz. UE L 104 z 20.04.2017, str. 8, Dz. Urz. UE L 150 z 14.06.2017, str. 7 i 14, Dz. Urz. UE L 224 z 31.08.2017, str. 110, Dz. Urz. UE L 6 z 11.01.2018, str. 45, Dz. Urz. UE L 99 z 19.04.2018, str. 3 i 7, Dz. Urz. UE L 114 z 04.05.2018, str. 4, Dz. Urz. UE L 249 z 04.10.2018, str. 19, Dz. Urz. UE L 256 z 12.10.2018, str. 1, Dz. Urz. UE L 308 z 04.12.2018 r., str. 1, Dz. Urz. UE L 322 z 18.12.2018, str. 14, Dz. Urz. UE L 154 z 12.06.2019, str. 37 oraz Dz. Urz. UE L 186 z 11.07.2019, str. 1., zwanego dalej „rozporządzeniem nr 1907/2006”, niebędących produktami spożywczymi, w tym gazu – o średnicy zewnętrznej nie mniejszej niż 800 mm i długości nie mniejszej niż 40 km, wraz z towarzyszącymi tłoczniami lub stacjami redukcyjnymi, przy czym tłocznie lub stacje redukcyjne budowane, montowane lub przebudowywane przy istniejących instalacjach przesyłowych nie są przedsięwzięciami mogącymi znacząco oddziaływać na środowisko;
 21)
 instalacje do przesyłu dwutlenku węgla w celu podziemnego składowania mające średnicę zewnętrzną nie mniejszą niż 800 mm i długość nie mniejszą niż 40 km, wraz z towarzyszącymi tłoczniami lub stacjami redukcyjnymi, przy czym tłocznie lub stacje redukcyjne budowane, montowane lub przebudowywane przy istniejących instalacjach przesyłowych nie są przedsięwzięciami mogącymi znacząco oddziaływać na środowisko;
 22)
@@ -147,8 +145,7 @@ ropy naftowej,
 b)
 produktów naftowych,
 c)
-substancji lub mieszanin, w rozumieniu odpowiednio art. 3 pkt 1 i 2 rozporządzenia nr 1907/2006, niebędących produktami spożywczymi
-o łącznej pojemności nie mniejszej niż 200 000 t;
+substancji lub mieszanin, w rozumieniu odpowiednio art. 3 pkt 1 i 2 rozporządzenia nr 1907/2006, niebędących produktami spożywczymi – o łącznej pojemności nie mniejszej niż 200 000 t;
 23)
 rafinerie ropy naftowej, z wyłączeniem instalacji do wytwarzania wyłącznie smarów z ropy naftowej, oraz instalacje do zgazowania, odgazowania lub upłynniania węgla lub łupku bitumicznego, w ilości nie mniejszej niż 500 t na dobę;
 24)
@@ -178,7 +175,7 @@ podziemną o wydobyciu kopaliny nie mniejszym niż 100 000 m3na rok;
 28)
 poszukiwanie, rozpoznawanie i wydobywanie rud pierwiastków promieniotwórczych;
 29)
-linie kolejowe wchodzące w skład infrastruktury transportu kolejowego transeuropejskiej sieci transportowej, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającym decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.);
+linie kolejowe wchodzące w skład infrastruktury transportu kolejowego transeuropejskiej sieci transportowej, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającym decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 09.05.2014, str. 10, Dz. Urz. UE L 126 z 14.05.2016, str. 3, Dz. Urz. UE L 128I z 19.05.2017, str. 1 oraz Dz. Urz. UE L 43 z 14.02.2019, str. 1.;
 30)
 lotniska o podstawowej długości drogi startowej nie mniejszej niż 2100 m;
 31)
@@ -218,7 +215,7 @@ zużytych baterii lub zużytych akumulatorów przetwarzanych w sposób, o który
 46)
 instalacje do przetwarzania w rozumieniu art. 3 ust. 1 pkt 21 ustawy z dnia 14 grudnia 2012 r. o odpadach odpadów innych niż niebezpieczne przy zastosowaniu procesów termicznego przekształcania odpadów, krakingu odpadów, fizykochemicznej obróbki odpadów (proces D9 unieszkodliwiania odpadów wymieniony w załączniku nr 2 do ustawy z dnia 14 grudnia 2012 r. o odpadach), mające wydajność nie mniejszą niż 100 t dziennie, z wyłączeniem instalacji do odzysku odpadów będących biomasą w rozumieniu § 2 pkt 1 rozporządzenia Ministra Środowiska z dnia 1 marca 2018 r. w sprawie standardów emisyjnych dla niektórych rodzajów instalacji, źródeł spalania paliw oraz urządzeń spalania lub współspalania odpadów;
 47)
-instalacje do przetwarzania w rozumieniu art. 3 ust. 1 pkt 21 ustawy z dnia 14 grudnia 2012 r. o odpadach odpadów inne niż wymienione w pkt 41 i 46, w tym składowiska odpadów inne niż wymienione w pkt 41, mogące przyjmować odpady w ilości nie mniejszej niż 10 t na dobę lub o całkowitej pojemności nie mniejszej niż 25 000 t, z wyłączeniem instalacji do wytwarzania biogazu rolniczego w rozumieniu art. 2 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2018 r. poz. 2389, z późn. zm.);
+instalacje do przetwarzania w rozumieniu art. 3 ust. 1 pkt 21 ustawy z dnia 14 grudnia 2012 r. o odpadach odpadów inne niż wymienione w pkt 41 i 46, w tym składowiska odpadów inne niż wymienione w pkt 41, mogące przyjmować odpady w ilości nie mniejszej niż 10 t na dobę lub o całkowitej pojemności nie mniejszej niż 25 000 t, z wyłączeniem instalacji do wytwarzania biogazu rolniczego w rozumieniu art. 2 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2018 r. poz. 2389, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 42, 60, 730, 1495 i 1524.);
 48)
 obiekty unieszkodliwiania odpadów wydobywczych kategorii A, o których mowa w ustawie z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. z 2017 r. poz. 1849);
 49)
@@ -230,8 +227,7 @@ chów lub hodowla:
 a)
 norek w liczbie nie mniejszej niż 105 dużych jednostek przeliczeniowych (DJP),
 b)
-zwierząt innych niż wymienione w lit. a w liczbie nie mniejszej niż 210 DJP
-przy czym za liczbę DJP przyjmuje się maksymalną możliwą obsadę zwierząt; współczynniki przeliczeniowe sztuk zwierząt na DJP są określone w załączniku do rozporządzenia;
+zwierząt innych niż wymienione w lit. a w liczbie nie mniejszej niż 210 DJP – przy czym za liczbę DJP przyjmuje się maksymalną możliwą obsadę zwierząt; współczynniki przeliczeniowe sztuk zwierząt na DJP są określone w załączniku do rozporządzenia;
 52)
 podziemne składowanie dwutlenku węgla;
 53)
@@ -239,8 +235,7 @@ instalacje do wychwytywania dwutlenku węgla:
 a)
 ze zrealizowanych przedsięwzięć, o których mowa w pkt 1–52,
 b)
-z instalacji niewymienionych w lit. a, których roczna wydajność wychwytywania dwutlenku węgla wynosi nie mniej niż 1,5 Mt
-w celu podziemnego składowania.
+z instalacji niewymienionych w lit. a, których roczna wydajność wychwytywania dwutlenku węgla wynosi nie mniej niż 1,5 Mt – w celu podziemnego składowania.
 2.
 Do przedsięwzięć mogących zawsze znacząco oddziaływać na środowisko zalicza się również przedsięwzięcia polegające na rozbudowie, przebudowie lub montażu przedsięwzięć realizowanych lub zrealizowanych wymienionych w:
 1)
@@ -285,8 +280,7 @@ e)
 f)
 5000 W, a miejsca dostępne dla ludności znajdują się w odległości nie większej niż 200 m i nie mniejszej niż 150 m od środka elektrycznego w osi głównej wiązki promieniowania tej anteny,
 g)
-10 000 W, a miejsca dostępne dla ludności znajdują się w odległości nie większej niż 300 m i nie mniejszej niż 200 m od środka elektrycznego w osi głównej wiązki promieniowania tej anteny
-przy czym równoważną moc promieniowaną izotropowo wyznacza się dla pojedynczej anteny także w przypadku, gdy na terenie tego samego zakładu lub obiektu jest realizowana lub została zrealizowana inna instalacja radiokomunikacyjna, radionawigacyjna lub radiolokacyjna;
+10 000 W, a miejsca dostępne dla ludności znajdują się w odległości nie większej niż 300 m i nie mniejszej niż 200 m od środka elektrycznego w osi głównej wiązki promieniowania tej anteny – przy czym równoważną moc promieniowaną izotropowo wyznacza się dla pojedynczej anteny także w przypadku, gdy na terenie tego samego zakładu lub obiektu jest realizowana lub została zrealizowana inna instalacja radiokomunikacyjna, radionawigacyjna lub radiolokacyjna;
 9)
 instalacje do przetwarzania lub przechowywania odpadów promieniotwórczych, inne niż wymienione w § 2 ust. 1 pkt 8 lit. b oraz e;
 10)
@@ -340,8 +334,7 @@ ropy naftowej,
 b)
 produktów naftowych,
 c)
-substancji lub mieszanin, w rozumieniu odpowiednio art. 3 pkt 1 i 2 rozporządzenia nr 1907/2006, niebędących produktami spożywczymi
-inne niż wymienione w § 2 ust. 1 pkt 20;
+substancji lub mieszanin, w rozumieniu odpowiednio art. 3 pkt 1 i 2 rozporządzenia nr 1907/2006, niebędących produktami spożywczymi – inne niż wymienione w § 2 ust. 1 pkt 20;
 31)
 instalacje do przesyłu gazu inne niż wymienione w § 2 ust. 1 pkt 20 oraz towarzyszące im tłocznie lub stacje redukcyjne, z wyłączeniem gazociągów o ciśnieniu nie większym niż 0,5 MPa i przyłączy do budynków; przy czym tłocznie lub stacje redukcyjne budowane, montowane lub przebudowywane przy istniejących instalacjach przesyłowych nie są przedsięwzięciami mogącymi znacząco oddziaływać na środowisko;
 32)
@@ -355,8 +348,7 @@ ropy naftowej,
 b)
 produktów naftowych,
 c)
-substancji lub mieszanin, w rozumieniu odpowiednio art. 3 pkt 1 i 2 rozporządzenia nr 1907/2006, niebędących produktami spożywczymi
-z wyłączeniem stacji paliw gazu płynnego lub sprężonego;
+substancji lub mieszanin, w rozumieniu odpowiednio art. 3 pkt 1 i 2 rozporządzenia nr 1907/2006, niebędących produktami spożywczymi – z wyłączeniem stacji paliw gazu płynnego lub sprężonego;
 35)
 instalacje do podziemnego magazynowania:
 a)
@@ -368,8 +360,7 @@ substancji lub mieszanin, w rozumieniu odpowiednio art. 3 pkt 1 i 2 rozporządze
 d)
 gazów łatwopalnych,
 e)
-kopalnych surowców energetycznych innych niż wymienione w lit. a-d
-inne niż wymienione w § 2 ust. 1 pkt 22, z wyłączeniem instalacji do magazynowania paliw wykorzystywanych na potrzeby gospodarstw domowych, zbiorników na gaz płynny o łącznej pojemności nie większej niż 20 m3oraz zbiorników na olej o łącznej pojemności nie większej niż 3 m3;
+kopalnych surowców energetycznych innych niż wymienione w lit. a-d – inne niż wymienione w § 2 ust. 1 pkt 22, z wyłączeniem instalacji do magazynowania paliw wykorzystywanych na potrzeby gospodarstw domowych, zbiorników na gaz płynny o łącznej pojemności nie większej niż 20 m3oraz zbiorników na olej o łącznej pojemności nie większej niż 3 m3;
 36)
 podziemne bezzbiornikowe magazynowanie substancji;
 37)
@@ -383,8 +374,7 @@ substancji lub mieszanin, w rozumieniu odpowiednio art. 3 pkt 1 i 2 rozporządze
 d)
 gazów łatwopalnych,
 e)
-kopalnych surowców energetycznych innych niż wymienione w lit. a-d
-inne niż wymienione w § 2 ust. 1 pkt 22, z wyłączeniem instalacji do magazynowania paliw wykorzystywanych na potrzeby gospodarstw domowych, zbiorników na gaz płynny o łącznej pojemności nie większej niż 10 m3oraz zbiorników na olej o łącznej pojemności nie większej niż 3 m3, a także niezwiązanych z dystrybucją instalacji do magazynowania stałych surowców energetycznych;
+kopalnych surowców energetycznych innych niż wymienione w lit. a-d – inne niż wymienione w § 2 ust. 1 pkt 22, z wyłączeniem instalacji do magazynowania paliw wykorzystywanych na potrzeby gospodarstw domowych, zbiorników na gaz płynny o łącznej pojemności nie większej niż 10 m3oraz zbiorników na olej o łącznej pojemności nie większej niż 3 m3, a także niezwiązanych z dystrybucją instalacji do magazynowania stałych surowców energetycznych;
 38)
 instalacje do przetwarzania produktów zawierających azbest inne niż wymienione w § 2 ust. 1 pkt 25;
 39)
@@ -397,7 +387,7 @@ bez względu na powierzchnię obszaru górniczego:
 – na obszarach narażonych na niebezpieczeństwo powodzi w rozumieniu art. 16 pkt 33 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, a jeżeli została sporządzona mapa zagrożenia powodziowego – na obszarach, o których mowa w art. 169 ust. 2 pkt 2 i 3 tej ustawy,
 – na terenie gruntów leśnych lub w odległości nie większej niż 100 m od nich,
 – na obszarach objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–5, 8 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub w otulinach form ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–3 tej ustawy,
-– w odległości nie większej niż 250 m od terenów, o których mowa w art. 113 ust. 2 pkt 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.),
+– w odległości nie większej niż 250 m od terenów, o których mowa w art. 113 ust. 2 pkt 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712 i 1815.),
 – jeżeli działalność będzie prowadzona z użyciem materiałów wybuchowych,
 – jeżeli w odległości nie większej niż 0,5 km od miejsca planowanego wydobywania kopalin metodą odkrywkową znajduje się inny obszar górniczy ustanowiony dla wydobywania kopalin metodą odkrywkową,
 b)
@@ -656,14 +646,20 @@ gorzelnie o wydajności nie mniejszej niż 100 hl na rok;
 chów lub hodowla norek:
 a)
 w liczbie nie mniejszej niż 20 DJP i mniejszej niż 105 DJP – jeżeli ta działalność będzie prowadzona:
-– w odległości mniejszej niż 210 m od: – – terenów lub gruntów, o których mowa w rozporządzeniu Ministra Rozwoju Regionalnego i Budownictwa z dnia 29 marca 2001 r. w sprawie ewidencji gruntów i budynków, tj. mieszkaniowych, rolnych zabudowanych zajętych pod budynki mieszkalne, innych zabudowanych z wyłączeniem cmentarzy i grzebowisk dla zwierząt, zurbanizowanych niezabudowanych lub w trakcie zabudowy, rekreacyjno-wypoczynkowych z wyłączeniem kurhanów, pomników przyrody oraz terenów zieleni nieurządzonej niezaliczonej do lasów oraz gruntów zadrzewionych i zakrzewionych, nie uwzględniając nieruchomości gospodarstwa, na terenie którego chów lub hodowla będą prowadzone, – – zrealizowanego, realizowanego lub planowanego przedsięwzięcia chowu lub hodowli norek w liczbie nie mniejszej niż 20 DJP, – na obszarach objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–5, 8 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub w otulinach form ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–3 tej ustawy,
+w odległości mniejszej niż 210 m od:
+– – terenów lub gruntów, o których mowa w rozporządzeniu Ministra Rozwoju Regionalnego i Budownictwa z dnia 29 marca 2001 r. w sprawie ewidencji gruntów i budynków, tj. mieszkaniowych, rolnych zabudowanych zajętych pod budynki mieszkalne, innych zabudowanych z wyłączeniem cmentarzy i grzebowisk dla zwierząt, zurbanizowanych niezabudowanych lub w trakcie zabudowy, rekreacyjno-wypoczynkowych z wyłączeniem kurhanów, pomników przyrody oraz terenów zieleni nieurządzonej niezaliczonej do lasów oraz gruntów zadrzewionych i zakrzewionych, nie uwzględniając nieruchomości gospodarstwa, na terenie którego chów lub hodowla będą prowadzone,
+– – zrealizowanego, realizowanego lub planowanego przedsięwzięcia chowu lub hodowli norek w liczbie nie mniejszej niż 20 DJP,
+– na obszarach objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–5, 8 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub w otulinach form ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–3 tej ustawy,
 b)
 w liczbie nie mniejszej niż 30 DJP i mniejszej niż 105 DJP – na obszarach innych niż wymienione w lit. a;
 104)
 chów lub hodowla zwierząt, inne niż wymienione w pkt 103:
 a)
 w liczbie nie mniejszej niż 40 DJP i mniejszej niż 210 DJP – jeżeli ta działalność będzie prowadzona:
-– w odległości mniejszej niż 210 m od: – – terenów lub gruntów, o których mowa w rozporządzeniu Ministra Rozwoju Regionalnego i Budownictwa z dnia 29 marca 2001 r. w sprawie ewidencji gruntów i budynków, tj. mieszkaniowych, rolnych zabudowanych zajętych pod budynki mieszkalne, innych zabudowanych z wyłączeniem cmentarzy i grzebowisk dla zwierząt, zurbanizowanych niezabudowanych lub w trakcie zabudowy, rekreacyjno-wypoczynkowych z wyłączeniem kurhanów, pomników przyrody oraz terenów zieleni nieurządzonej niezaliczonej do lasów oraz gruntów zadrzewionych i zakrzewionych, nie uwzględniając nieruchomości gospodarstwa, na którego terenie chów lub hodowla będą prowadzone, – – zrealizowanego, realizowanego lub planowanego przedsięwzięcia chowu lub hodowli zwierząt innych niż norki, w liczbie nie mniejszej niż 40 DJP, – na obszarach objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–5, 8 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub w otulinach form ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–3 tej ustawy,
+w odległości mniejszej niż 210 m od:
+– – terenów lub gruntów, o których mowa w rozporządzeniu Ministra Rozwoju Regionalnego i Budownictwa z dnia 29 marca 2001 r. w sprawie ewidencji gruntów i budynków, tj. mieszkaniowych, rolnych zabudowanych zajętych pod budynki mieszkalne, innych zabudowanych z wyłączeniem cmentarzy i grzebowisk dla zwierząt, zurbanizowanych niezabudowanych lub w trakcie zabudowy, rekreacyjno-wypoczynkowych z wyłączeniem kurhanów, pomników przyrody oraz terenów zieleni nieurządzonej niezaliczonej do lasów oraz gruntów zadrzewionych i zakrzewionych, nie uwzględniając nieruchomości gospodarstwa, na którego terenie chów lub hodowla będą prowadzone,
+– – zrealizowanego, realizowanego lub planowanego przedsięwzięcia chowu lub hodowli zwierząt innych niż norki, w liczbie nie mniejszej niż 40 DJP,
+– na obszarach objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–5, 8 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub w otulinach form ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–3 tej ustawy,
 b)
 w liczbie nie mniejszej niż 60 DJP i mniejszej niż 210 DJP – na obszarach innych niż wymienione w lit. a;
 105)
@@ -691,7 +687,8 @@ Do przedsięwzięć mogących potencjalnie znacząco oddziaływać na środowisk
 § 4.
 Do przedsięwzięć, w przypadku których przed dniem wejścia w życie rozporządzenia wszczęto i nie zakończono przynajmniej jednego z postępowań w sprawie decyzji, zgłoszeń lub uchwał, o których mowa w art. 71 ust. 1 oraz art. 72 ust. 1–1b ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, stosuje się przepisy dotychczasowe.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 9 listopada 2010 r. w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko (Dz. U. z 2016 r. poz. 71), które zgodnie z art. 12 ust. 1 ustawy z dnia 9 października 2015 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1936 i 2171) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/92/UE z dnia 13 grudnia 2011 r. w sprawie oceny skutków wywieranych przez niektóre przedsięwzięcia publiczne i prywatne na środowisko (Dz. Urz. UE L 26 z 28.01.2012, str. 1, Dz. Urz. UE L 124 z 25.04.2014, str. 1 oraz Dz. Urz. UE L 174 z 03.07.2015, str. 44). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 29.05.2007, str. 3, Dz. Urz. UE L 304 z 22.11.2007, str. 1, Dz. Urz. UE L 141 z 31.05.2008, str. 22, Dz. Urz. UE L 268 z 09.10.2008, str. 14, Dz. Urz. UE L 353 z 31.12.2008, str. 1, Dz. Urz. UE L 36 z 05.02.2009, str. 84, Dz. Urz. UE L 46 z 17.02.2009, str. 3, Dz. Urz. UE L 164 z 26.06.2009, str. 7, Dz. Urz. UE L 86 z 01.04.2010, str. 7, Dz. Urz. UE L 118 z 12.05.2010, str. 89, Dz. Urz. UE L 133 z 31.05.2010, str. 1, Dz. Urz. UE L 260 z 02.10.2010, str. 22, Dz. Urz. UE L 44 z 18.02.2011, str. 2, Dz. Urz. UE L 58 z 03.03.2011, str. 27, Dz. Urz. UE L 69 z 16.03.2011, str. 3 i 7, Dz. Urz. UE L 101 z 15.04.2011, str. 12, Dz. Urz. UE L 134 z 21.05.2011, str. 2, Dz. Urz. UE L 37 z 10.02.2012, str. 1, Dz. Urz. UE L 41 z 15.02.2012, str. 1, Dz. Urz. UE L 128 z 16.05.2012, str. 1, Dz. Urz. UE L 252 z 19.09.2012, str. 1 i 4, Dz. Urz. UE L 253 z 20.09.2012, str. 1 i 5, Dz. Urz. UE L 43 z 14.02.2013, str. 24, Dz. Urz. UE L 108 z 18.04.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 328 z 07.12.2013, str. 69, Dz. Urz. UE L 90 z 26.03.2014, str. 1, Dz. Urz. UE L 93 z 28.03.2014, str. 24, Dz. Urz. UE L 136 z 09.05.2014, str. 19, Dz. Urz. UE L 244 z 19.08.2014, str. 6, Dz. Urz. UE L 50 z 21.02.2015, str. 1, Dz. Urz. UE L 58 z 03.03.2015, str. 43, Dz. Urz. UE L 104 z 23.04.2015, str. 2, Dz. Urz. UE L 132 z 29.05.2015, str. 8, Dz. Urz. UE L 233 z 05.09.2015, str. 2, Dz. Urz. UE L 9 z 14.01.2016, str. 1, Dz. Urz. UE L 40 z 17.02.2016, str. 5, Dz. Urz. UE L 144 z 01.06.2016, str. 27, Dz. Urz. UE L 165 z 23.06.2016, str. 4, Dz. Urz. UE L 166 z 24.06.2016, str. 1, Dz. Urz. UE L 255 z 21.09.2016, str. 14, Dz. Urz. UE L 337 z 13.12.2016, str. 3, Dz. Urz. UE L 35 z 10.02.2017, str. 6, Dz. Urz. UE L 104 z 20.04.2017, str. 8, Dz. Urz. UE L 150 z 14.06.2017, str. 7 i 14, Dz. Urz. UE L 224 z 31.08.2017, str. 110, Dz. Urz. UE L 6 z 11.01.2018, str. 45, Dz. Urz. UE L 99 z 19.04.2018, str. 3 i 7, Dz. Urz. UE L 114 z 04.05.2018, str. 4, Dz. Urz. UE L 249 z 04.10.2018, str. 19, Dz. Urz. UE L 256 z 12.10.2018, str. 1, Dz. Urz. UE L 308 z 04.12.2018 r., str. 1, Dz. Urz. UE L 322 z 18.12.2018, str. 14, Dz. Urz. UE L 154 z 12.06.2019, str. 37 oraz Dz. Urz. UE L 186 z 11.07.2019, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 09.05.2014, str. 10, Dz. Urz. UE L 126 z 14.05.2016, str. 3, Dz. Urz. UE L 128I z 19.05.2017, str. 1 oraz Dz. Urz. UE L 43 z 14.02.2019, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 42, 60, 730, 1495 i 1524. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712 i 1815. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 9 listopada 2010 r. w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko (Dz. U. z 2016 r. poz. 71), które zgodnie z art. 12 ust. 1 ustawy z dnia 9 października 2015 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1936 i 2171) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Współczynniki przeliczeniowe sztuk zwierząt na duże jednostki przeliczeniowe (DJP)
-Lp. Gatunek zwierząt/grupa technologiczna zwierząt gospodarskich Współczynnik przeliczania sztuk zwierząt na DJP 1 2 3 1 Ogiery, klacze, wałachy 1,2 2 Małe konie: hucuły, koniki polskie, kuce 0,6 3 Źrebaki powyżej 2 lat 1 4 Źrebaki od 1 roku do 2 lat 0,8 5 Źrebaki od 1/2 do 1 roku 0,5 6 Źrebięta do 1/2 roku 0,3 7 Buhaje 1,4 8 Krowy 1 9 Jałówki cielne 1 10 Jałówki powyżej 1 roku 0,8 11 Jałówki od 1/2 do 1 roku 0,3 12 Cielęta do 1/2 roku 0,15 13 Kozy 0,15 14 Jelenie 0,29 15 Daniele 0,12 16 Knury 0,4 17 Maciory 0,35 18 Warchlaki od 2 do 4 miesięcy 0,07 19 Prosięta do 2 miesięcy 0,02 20 Tuczniki 0,14 21 Tryki powyżej 1 i 1/2 roku 0,12 22 Owce powyżej 1 i 1/2 roku 0,1 23 Jagnięta do 3 i 1/2 miesiąca 0,05 24 Jarlaki tryczki 0,08 25 Jarlaki maciory 0,1 26 Lisy, jenoty 0,025 27 Norki, tchórze 0,0025 28 Nutrie 0,007 29 Szynszyle 0,001 30 Kury, kaczki 0,004 31 Gęsi 0,008 32 Indyki 0,024 33 Strusie 0,2 34 Perlice 0,003 35 Przepiórki 0,0003 36 Gołębie 0,002 37 Psy 0,05 38 Króliki 0,007 39 Inne zwierzęta o łącznej masie 500 kg, z wyłączeniem ryb 1*) *) Ze wskazanej wartości należy również korzystać, ustalając DJP dla piskląt drobiu.
+Lp. Gatunek zwierząt/grupa technologiczna zwierząt gospodarskich Współczynnik przeliczania sztuk zwierząt na DJP 1 2 3 1 Ogiery, klacze, wałachy 1,2 2 Małe konie: hucuły, koniki polskie, kuce 0,6 3 Źrebaki powyżej 2 lat 1 4 Źrebaki od 1 roku do 2 lat 0,8 5 Źrebaki od 1/2 do 1 roku 0,5 6 Źrebięta do 1/2 roku 0,3 7 Buhaje 1,4 8 Krowy 1 9 Jałówki cielne 1 10 Jałówki powyżej 1 roku 0,8 11 Jałówki od 1/2 do 1 roku 0,3 12 Cielęta do 1/2 roku 0,15 13 Kozy 0,15 14 Jelenie 0,29 15 Daniele 0,12 16 Knury 0,4 17 Maciory 0,35 18 Warchlaki od 2 do 4 miesięcy 0,07 19 Prosięta do 2 miesięcy 0,02 20 Tuczniki 0,14 21 Tryki powyżej 1 i 1/2 roku 0,12 22 Owce powyżej 1 i 1/2 roku 0,1 23 Jagnięta do 3 i 1/2 miesiąca 0,05 24 Jarlaki tryczki 0,08 25 Jarlaki maciory 0,1 26 Lisy, jenoty 0,025 27 Norki, tchórze 0,0025 28 Nutrie 0,007 29 Szynszyle 0,001 30 Kury, kaczki 0,004 31 Gęsi 0,008 32 Indyki 0,024 33 Strusie 0,2 34 Perlice 0,003 35 Przepiórki 0,0003 36 Gołębie 0,002 37 Psy 0,05 38 Króliki 0,007 39 Inne zwierzęta o łącznej masie 500 kg, z wyłączeniem ryb 1*)
+*) Ze wskazanej wartości należy również korzystać, ustalając DJP dla piskląt drobiu.
 

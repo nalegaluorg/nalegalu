@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 12 czerwca 2003 r. w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych (Dz. U. Nr 112, poz. 1064), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 26 lutego 2013 r. zmieniającym rozporządzenie w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych (Dz. U. poz. 325).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 26 lutego 2013 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych (Dz. U. poz. 325), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 26 lutego 2013 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych (Dz. U. poz. 325), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 12 czerwca 2003 r. w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych
 Na podstawie art. 12 ustawy z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. z 2014 r. poz. 795) zarządza się, co następuje:
-§ 1.
+§ 1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 26 lutego 2013 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych (Dz. U. poz. 325), które weszło w życie z dniem 23 marca 2013 r..
 Rozporządzenie określa szczegółowy sposób wykonywania przez kuratorów sądowych uprawnień i obowiązków w sprawach rodzinnych i nieletnich.
 § 2.
 Powierzenie kuratorowi sądowemu sprawowania nadzoru powinno nastąpić bezzwłocznie, nie później niż w ciągu 14 dni od dnia uprawomocnienia się orzeczenia albo od dnia zwrotu akt sądowi I instancji lub otrzymania orzeczenia do wykonania.
@@ -116,7 +114,7 @@ Przepisów § 6 i 7 nie stosuje się do wywiadów przeprowadzanych na podstawie 
 § 9.
 Kurator rodzinny, do którego sąd zwrócił się o przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką:
 1)
-powiadamia o terminie swoich czynności osoby, o których mowa w art. 5989 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.);
+powiadamia o terminie swoich czynności osoby, o których mowa w art. 5989 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616 i 945.);
 2)
 żąda, w razie potrzeby, pomocy odpowiednich instytucji, w tym organów opieki społecznej;
 3)
@@ -127,15 +125,15 @@ Kurator rodzinny, któremu zlecono obecność przy kontaktach rodziców z dzieć
 2.
 Z każdej obecności przy kontaktach, o których mowa w ust. 1, kurator rodzinny niezwłocznie składa sądowi pisemną notatkę.
 § 11.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 § 12.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 § 13.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 § 14.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 § 15.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 30 czerwca 2003 r.. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 26 lutego 2013 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych (Dz. U. poz. 325), które weszło w życie z dniem 23 marca 2013 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616 i 945. 3) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) Rozporządzenie zostało ogłoszone w dniu 30 czerwca 2003 r.
 

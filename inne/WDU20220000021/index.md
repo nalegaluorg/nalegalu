@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 27 maja 2008 r. w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne (Dz. U. z 2015 r. poz. 1295), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 26 czerwca 2020 r. zmieniającym rozporządzenie w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne (Dz. U. poz. 1181).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 26 czerwca 2020 r. zmieniającego rozporządzenie w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne (Dz. U. poz. 1181), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 26 czerwca 2020 r. zmieniającego rozporządzenie w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne (Dz. U. poz. 1181), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 27 maja 2008 r. w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne
 Na podstawie art. 6 ust. 3 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2020 r. poz. 2135 oraz z 2021 r. poz. 234 i 1718) zarządza się, co następuje:
 § 1.
@@ -55,7 +53,7 @@ Przepisów rozporządzenia nie stosuje się wobec okrętów wojennych obcych pa�
 § 3.
 Okręty wojenne obcych państw mogą wchodzić na polskie morskie wody wewnętrzne za zezwoleniem Dowódcy Operacyjnego Rodzajów Sił Zbrojnych. O każdorazowo wydanym zezwoleniu Dowódca Operacyjny Rodzajów Sił Zbrojnych powiadamia organ administracji morskiej miejscowo właściwy dla obszaru objętego zezwoleniem oraz Komendanta Morskiego Oddziału Straży Granicznej.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 26 czerwca 2020 r. zmieniającego rozporządzenie w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne (Dz. U. poz. 1181), które weszło w życie z dniem 17 lipca 2020 r..
 Wniosek o wydanie zezwolenia, o którym mowa w § 3, składa się do Dowódcy Operacyjnego Rodzajów Sił Zbrojnych w postaci papierowej lub elektronicznej, za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320), poczty elektronicznej, faksu, sieci lub systemów teleinformatycznych, polskiego przedstawicielstwa dyplomatycznego w państwie, którego okręt wojenny zamierza dokonać wejścia, lub za pośrednictwem placówki dyplomatycznej danego państwa w Rzeczypospolitej Polskiej, w terminie:
 1)
 co najmniej 72 godziny przed datą zamierzonego wejścia okrętu wojennego należącego do państwa członkowskiego Organizacji Traktatu Północnoatlantyckiego lub państwa członkowskiego Unii Europejskiej;
@@ -81,7 +79,7 @@ stopień wojskowy oraz imię i nazwisko dowódcy okrętu (zespołu okrętów);
 liczbę oficerów, podoficerów i marynarzy oraz wykaz imienny pasażerów;
 8)
 moc i częstotliwość pracy urządzeń radiokomunikacyjnych.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Odpowiedzi na wniosek, o którym mowa w ust. 1, udziela się w postaci papierowej lub elektronicznej, za pośrednictwem poczty elektronicznej, faksu, sieci lub systemów teleinformatycznych, polskiego przedstawicielstwa dyplomatycznego, w którym wniosek został złożony, lub za pośrednictwem Ministerstwa Spraw Zagranicznych do placówki dyplomatycznej danego państwa w Rzeczypospolitej Polskiej, nie później niż:
 1)
 24 godziny przed datą zamierzonego wejścia okrętu wojennego należącego do państwa członkowskiego Organizacji Traktatu Północnoatlantyckiego lub państwa członkowskiego Unii Europejskiej;
@@ -111,12 +109,11 @@ stopień wojskowy oraz imię i nazwisko jego dowódcy,
 4)
 przyczynę wejścia na polskie morskie wody wewnętrzne,
 5)
-rodzaj pomocy, jakiej potrzebuje,
-i stosować się do instrukcji udzielonych mu przez przedstawiciela Służby Kontroli Ruchu Statków.
+rodzaj pomocy, jakiej potrzebuje, i stosować się do instrukcji udzielonych mu przez przedstawiciela Służby Kontroli Ruchu Statków.
 3.
 Okręt wojenny, o którym mowa w ust. 1 pkt 3, ma obowiązek odpowiadać na każde wezwanie okrętu Marynarki Wojennej lub jednostki pływającej Straży Granicznej.
 § 7.
 Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 24 czerwca 1992 r. w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne (Dz. U. poz. 264 oraz z 2004 r. poz. 2012).
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 23 lipca 2008 r.. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 26 czerwca 2020 r. zmieniającego rozporządzenie w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne (Dz. U. poz. 1181), które weszło w życie z dniem 17 lipca 2020 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 23 lipca 2008 r.
 

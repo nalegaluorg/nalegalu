@@ -22,14 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1990-03-23 |
 | Data wydania | 1990-04-06 |
-| Wejście w życie | 1990-04-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900210126) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/126/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. Nr 24, poz. 151, z 1975 r. Nr 16, poz. 91 oraz z 1982 r. Nr 30, poz. 210 i Nr 45, poz. 289) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w § 1: – pkt 1 otrzymuje brzmienie: „ 1) podatki, opłaty i inne należności, do których stosuje się przepisy o zobowiązaniach podatkowych, oraz grzywny i kary pieniężne, a także inne należności pieniężne pozostające w zakresie właściwości organów administracji państwowej lub przekazane do egzekucji administracyjnej na podstawie przepisu szczególnego, ” – dodaje się nowy pkt 2 w brzmieniu: „ 2) wpłaty na rzecz funduszy celowych utworzonych na podstawie odrębnych przepisów ” , – dotychczasowy pkt 2 otrzymuje oznaczenie pkt 3, w § 2 wyrazy „albo komisję arbitrażową” oraz „lub komisja arbitrażowa” skreśla się;
+- **1)** w art. 2: w § 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** podatki, opłaty i inne należności, do których stosuje się przepisy o zobowiązaniach podatkowych, oraz grzywny i kary pieniężne, a także inne należności pieniężne pozostające w zakresie właściwości organów administracji państwowej lub przekazane do egzekucji administracyjnej na podstawie przepisu szczególnego, ” dodaje się nowy pkt 2 w brzmieniu: „
+- **2)** wpłaty na rzecz funduszy celowych utworzonych na podstawie odrębnych przepisów ” , – dotychczasowy pkt 2 otrzymuje oznaczenie pkt 3, w § 2 wyrazy „albo komisję arbitrażową” oraz „lub komisja arbitrażowa” skreśla się;
     - **b)**
 
 - **2)** w art. 6 dotychczasowy przepis oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „

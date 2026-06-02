@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-31 |
 | Data wydania | 2022-09-07 |
-| Wejście w życie | 2022-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001884) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1884/text.pdf) |
 
@@ -118,12 +117,12 @@ dane umożliwiające kontakt z nieletnim lub jego rodzicami albo tego z rodzicó
 3.
 Informacje, o których mowa w ust. 1 i 2, podaje się nieletniemu i wyznaczonemu obrońcy z urzędu jednocześnie z powiadomieniem o treści postanowienia o wyznaczeniu obrońcy z urzędu.
 § 11.
-Do wniosku nieletniego lub jego rodziców albo tego z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekuna o wyznaczenie nieletniemu obrońcy z urzędu art. 1171 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) stosuje się odpowiednio.
+Do wniosku nieletniego lub jego rodziców albo tego z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekuna o wyznaczenie nieletniemu obrońcy z urzędu art. 1171 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692 i 1855.) stosuje się odpowiednio.
 § 12.
 1.
 Okręgowa rada adwokacka oraz rada okręgowej izby radców prawnych przedstawią pierwsze wykazy, o których mowa w § 2 i § 3, do dnia 30 września 2022 r. według stanu na dzień 1 września 2022 r., a następne do dnia 30 października 2023 r. według stanu na dzień 1 września 2023 r.
 2.
 Do dnia ustalenia przez prezesa właściwego sądu pierwszej listy obrońców, o której mowa w § 6 ust. 1 albo w § 6 ust. 2, obrońcę z urzędu wyznacza się spośród adwokatów i radców prawnych, uprawnionych do obrony według przepisów o ustroju adwokatury lub ustawy o radcach prawnych, na podstawie listy obrońców, o której mowa w art. 81a § 1 i § 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375 i 1855).
 § 13.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692 i 1855.
 

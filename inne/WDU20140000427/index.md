@@ -37,18 +37,14 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 18 stycznia 2013 r. zmi
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 kwietnia 2011 r. zmieniającego rozporządzenie w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. Nr 89, poz. 512), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 kwietnia 2011 r. zmieniającego rozporządzenie w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. Nr 89, poz. 512), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2011 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 maja 2011 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 stycznia 2013 r. zmieniającego rozporządzenie w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. poz. 112), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 stycznia 2013 r. zmieniającego rozporządzenie w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. poz. 112), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdańMinister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486).
 Na podstawie art. 7 ust. 5 pkt 2 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -74,7 +70,7 @@ półroczne,
 b)
 roczne;
 3)
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 stycznia 2013 r. zmieniającego rozporządzenie w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. poz. 112), które weszło w życie z dniem 31 stycznia 2013 r.
 2.
 Sprawozdania, o których mowa w § 1 pkt 1, sporządzane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, są przekazywane jako:
 1)
@@ -90,7 +86,7 @@ półroczne,
 b)
 roczne;
 3)
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 3.
 Sprawozdania, o których mowa w § 1 pkt 2, sporządzane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, są przekazywane łącznie ze sprawozdaniami, o których mowa w ust. 2.
 § 3.
@@ -103,12 +99,12 @@ Sprawozdania bieżące miesięczne, o których mowa w § 2 ust. 1 pkt 1 lit. b, 
 1)
 przeprowadzonych kontroli realizacji operacji w ramach wdrażania Programu oraz ich wyników;
 2)
-(uchylony);
+(uchylony);Przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 kwietnia 2011 r. zmieniającego rozporządzenie w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. Nr 89, poz. 512), które weszło w życie z dniem 1 maja 2011 r.
 3)
 napotkanych problemów we wdrażaniu Programu, w szczególności związanych z zapewnieniem zgodności ze wspólnotowymi politykami, i środków podjętych w celu ich rozwiązania.
 § 4.
 1.
-Sprawozdania okresowe, o których mowa w § 2 ust. 1 pkt 2, oraz zbiorcze sprawozdania okresowe, o których mowa w § 2 ust. 2 pkt 2, zawierają dane, przygotowane według stanu na ostatni dzień roboczy danego okresu sprawozdawczego, za okres sprawozdawczy, dotyczące:
+Sprawozdania okresowe, o których mowa w § 2 ust. 1 pkt 2, oraz zbiorcze sprawozdania okresowe, o których mowa w § 2 ust. 2 pkt 2, zawierają dane, przygotowane według stanu na ostatni dzień roboczy danego okresu sprawozdawczego, za okres sprawozdawczy, dotyczące:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 1)
 przebiegu wdrażania Programu, w szczególności złożonych wniosków o przyznanie pomocy, zawartych umów lub wydanych decyzji w sprawie przyznania tej pomocy;
 2)
@@ -133,11 +129,11 @@ przekazywane łącznie ze zbiorczymi sprawozdaniami bieżącymi, o których mowa
 a)
 realizacji finansowej działań Programu, w szczególności wniosków o płatność, liczby beneficjentów, którzy otrzymali płatności z tytułu przyznanej pomocy, oraz dane dotyczące kwot zrealizowanych płatności,
 b)
-wdrażania oraz realizacji finansowej Programu związanej z wykonywaniem zadań określonych w art. 66 ust. 2 i 3 rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanej dalej „pomocą techniczną”;
+wdrażania oraz realizacji finansowej Programu związanej z wykonywaniem zadań określonych w art. 66 ust. 2 i 3 rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.)Utraciło moc z dniem 31 grudnia 2013 r. na podstawie art. 88 rozporządzenia Parlametu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy tego rozporządzenia przed dniem 1 stycznia 2014 r., zwanej dalej „pomocą techniczną”;
 2)
 przekazywane łącznie ze zbiorczymi sprawozdaniami bieżącymi miesięcznymi, o których mowa w § 2 ust. 2 pkt 1 lit. b, zawierają dane z podziałem na województwa;
 3)
-przekazywane łącznie ze zbiorczymi sprawozdaniami okresowymi, o których mowa w § 2 ust. 2 pkt 2, zawierają dane, przygotowane według stanu na ostatni dzień roboczy danego okresu sprawozdawczego, za okres sprawozdawczy, dotyczące:
+przekazywane łącznie ze zbiorczymi sprawozdaniami okresowymi, o których mowa w § 2 ust. 2 pkt 2, zawierają dane, przygotowane według stanu na ostatni dzień roboczy danego okresu sprawozdawczego, za okres sprawozdawczy, dotyczące:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.
 a)
 przebiegu realizacji finansowej działań Programu oraz pomocy technicznej, w szczególności złożonych wniosków o płatność, liczby beneficjentów, którzy otrzymali płatności z tytułu przyznanej pomocy, oraz dane dotyczące kwot zrealizowanych płatności,
 b)
@@ -147,7 +143,7 @@ Dane, o których mowa w ust. 1 pkt 3 lit. a, przygotowuje się w odpowiednich sp
 § 6.
 1.
 Sprawozdania bieżące, o których mowa w § 2 ust. 1 pkt 1, i zbiorcze sprawozdania bieżące, o których mowa w § 2 ust. 2 pkt 1, są przekazywane w formie elektronicznej.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Sprawozdania okresowe, o których mowa w § 2 ust. 1 pkt 2, oraz zbiorcze sprawozdania okresowe, o których mowa w § 2 ust. 2 pkt 2, są przekazywane w formie elektronicznej i papierowej.
 § 7.
 1.
@@ -158,10 +154,10 @@ Sprawozdania, o których mowa w § 2 ust. 1, są przekazywane Agencji Restruktur
 6. dniu roboczym kolejnego miesiąca – w przypadku sprawozdań bieżących miesięcznych;
 3)
 20. dniu roboczym kolejnego półrocza – w przypadku sprawozdań okresowych półrocznych;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 dniu 10 lutego roku następującego po roku, którego dotyczy sprawozdanie – w przypadku sprawozdań okresowych rocznych;
 5)
-(uchylony).
+(uchylony).Przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 2.
 Sprawozdania, o których mowa w § 2 ust. 2, są przekazywane ministrowi właściwemu do spraw rozwoju wsi najpóźniej w:
 1)
@@ -173,8 +169,7 @@ Sprawozdania, o których mowa w § 2 ust. 2, są przekazywane ministrowi właśc
 4)
 dniu 20 kwietnia roku następującego po roku, którego dotyczy sprawozdanie – w przypadku zbiorczych sprawozdań okresowych rocznych;
 5)
-(uchylony).
+(uchylony).Przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 stycznia 2013 r. zmieniającego rozporządzenie w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. poz. 112), które weszło w życie z dniem 31 stycznia 2013 r. 3) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 kwietnia 2011 r. zmieniającego rozporządzenie w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. Nr 89, poz. 512), które weszło w życie z dniem 1 maja 2011 r. 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) Utraciło moc z dniem 31 grudnia 2013 r. na podstawie art. 88 rozporządzenia Parlametu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy tego rozporządzenia przed dniem 1 stycznia 2014 r. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 10) Przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 11) Przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 12) Rozporządzenie zostało ogłoszone w dniu 8 kwietnia 2010 r. 13) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2007 r. w sprawie zakresu sprawozdań z wykonywania zadań instytucji zarządzającej, dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. Nr 105, poz. 719), które na podstawie art. 6 ust. 1 ustawy z dnia 6 grudnia 2008 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz niektórych innych ustaw (Dz. U. Nr 237, poz. 1655) utraciło moc z dniem 16 lipca 2009 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 8 kwietnia 2010 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2007 r. w sprawie zakresu sprawozdań z wykonywania zadań instytucji zarządzającej, dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. Nr 105, poz. 719), które na podstawie art. 6 ust. 1 ustawy z dnia 6 grudnia 2008 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz niektórych innych ustaw (Dz. U. Nr 237, poz. 1655) utraciło moc z dniem 16 lipca 2009 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 stycznia 2013 r. zmieniającego rozporządzenie w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. poz. 112), które weszło w życie z dniem 31 stycznia 2013 r. 3) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 kwietnia 2011 r. zmieniającego rozporządzenie w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. Nr 89, poz. 512), które weszło w życie z dniem 1 maja 2011 r. 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) Utraciło moc z dniem 31 grudnia 2013 r. na podstawie art. 88 rozporządzenia Parlametu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy tego rozporządzenia przed dniem 1 stycznia 2014 r. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 10) Przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 11) Przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 12) Rozporządzenie zostało ogłoszone w dniu 8 kwietnia 2010 r. 13) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2007 r. w sprawie zakresu sprawozdań z wykonywania zadań instytucji zarządzającej, dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, oraz trybu i terminów przekazywania tych sprawozdań (Dz. U. Nr 105, poz. 719), które na podstawie art. 6 ust. 1 ustawy z dnia 6 grudnia 2008 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz niektórych innych ustaw (Dz. U. Nr 237, poz. 1655) utraciło moc z dniem 16 lipca 2009 r.
 

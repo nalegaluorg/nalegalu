@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 września 2008 r. o zmianie ustawy o funduszach inwestycyjnych, ustawy – Prawo bankowe oraz ustawy o nadzorze nad rynkiem finansowym
+# Ustawaz dnia 4 września 2008 r. o zmianie ustawy o funduszach inwestycyjnych, ustawy – Prawo bankowe oraz ustawy o nadzorze nad rynkiem finansowym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw:
 
 | Pole | Wartość |
 |---|---|
@@ -22,24 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-09-04 |
 | Data wydania | 2008-12-29 |
-| Wejście w życie | 2009-01-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082311546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1546/text.pdf) |
 
+dyrektywy 2004/39/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie rynków instrumentów finansowych zmieniającej dyrektywy Rady 85/611/EWG i 93/6/EWG i dyrektywę 2000/12/WE Parlamentu Europejskiego i Rady oraz uchylającej dyrektywę Rady 93/22/EWG(Dz. Urz. WE L 145 z 30.04.2004, str. 1 i L 114 z 28.04.2006, str. 60; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 7, str. 263),
 2)
 dyrektywy Komisji 2006/73/WE z dnia 10 sierpnia 2006 r. wprowadzającej środki wykonawcze do dyrektywy 2004/39/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez przedsiębiorstwa inwestycyjne oraz pojęć zdefiniowanych na potrzeby tejże dyrektywy (Dz. Urz. UE L 241 z 02.09.2006, str. 26),
 3)
 dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrektywy Rady 85/611/EWG w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) w zakresie wyjaśnienia niektórych definicji (Dz. Urz. UE L 79 z 20.03.2007, str. 11).
 
-**Art. 1.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 112, poz. 769.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: pkt 13 otrzymuje brzmienie: „
     - **a)**
 
-- **13)** oddziale – rozumie się przez to oddział, o którym mowa w art. 5 pkt 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.), przy czym za jeden oddział uważa się wszystkie jednostki organizacyjne spółki zarządzającej lub spółki zarządzającej funduszami inwestycyjnymi otwartymi z siedzibą w państwach należących do EEA, zlokalizowane na terytorium Rzeczypospolitej Polskiej, oraz wszystkie jednostki organizacyjne towarzystwa zlokalizowane na terytorium państwa członkowskiego lub państwa należącego do EEA; ” , pkt 21 otrzymuje brzmienie: „
+- **13)** oddziale – rozumie się przez to oddział, o którym mowa w art. 5 pkt 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732 i Nr 141, poz. 888.), przy czym za jeden oddział uważa się wszystkie jednostki organizacyjne spółki zarządzającej lub spółki zarządzającej funduszami inwestycyjnymi otwartymi z siedzibą w państwach należących do EEA, zlokalizowane na terytorium Rzeczypospolitej Polskiej, oraz wszystkie jednostki organizacyjne towarzystwa zlokalizowane na terytorium państwa członkowskiego lub państwa należącego do EEA; ” , pkt 21 otrzymuje brzmienie: „
     - **b)**
 
-- **21)** instrumentach rynku pieniężnego – rozumie się przez to papiery wartościowe lub prawa majątkowe inkorporujące wyłącznie wierzytelności pieniężne: o terminie realizacji praw nie dłuższym niż 397 dni liczonym od dnia ich wystawienia lub od dnia ich nabycia lub które regularnie podlegają dostosowaniu do bieżących warunków panujących na rynku pieniężnym w okresach nie dłuższych niż 397 dni, lub których ryzyko inwestycyjne, w tym ryzyko kredytowe i ryzyko stopy procentowej, odpowiada ryzyku instrumentów finansowych, o których mowa w lit. a lub b oraz co do których istnieje podaż i popyt umożliwiające ich nabywanie i zbywanie w sposób ciągły na warunkach rynkowych, przy czym przejściowa utrata płynności przez papier wartościowy lub prawo majątkowe nie powoduje utraty przez ten papier lub prawo statusu instrumentu rynku pieniężnego; ” , pkt 27 i 28 otrzymują brzmienie: „
+- **21)** instrumentach rynku pieniężnego – rozumie się przez to papiery wartościowe lub prawa majątkowe inkorporujące wyłącznie wierzytelności pieniężne: o terminie realizacji praw nie dłuższym niż 397 dni liczonym od dnia ich wystawienia lub od dnia ich nabycia lub które regularnie podlegają dostosowaniu do bieżących warunków panujących na rynku pieniężnym w okresach nie dłuższych niż 397 dni, lub których ryzyko inwestycyjne, w tym ryzyko kredytowe i ryzyko stopy procentowej, odpowiada ryzyku instrumentów finansowych, o których mowa w lit. a lub b – oraz co do których istnieje podaż i popyt umożliwiające ich nabywanie i zbywanie w sposób ciągły na warunkach rynkowych, przy czym przejściowa utrata płynności przez papier wartościowy lub prawo majątkowe nie powoduje utraty przez ten papier lub prawo statusu instrumentu rynku pieniężnego; ” , pkt 27 i 28 otrzymują brzmienie: „
     - **a)**
     - **b)**
     - **c)**
@@ -53,7 +53,7 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 - **30)** puli wierzytelności – rozumie się przez to przynoszącą regularny dopływ kapitału grupę jednolitych rodzajowo wierzytelności, posiadanych i wyodrębnionych przez inicjatora sekurytyzacji, z których każda z wierzytelności stanowiących łącznie co najmniej 75% grupy przynosi regularny dopływ kapitału oraz każda wierzytelność spełnia kryteria określone w statucie funduszu; ” , pkt 36 i 37 otrzymują brzmienie: „
     - **f)**
 
-- **36)** publicznych certyfikatach inwestycyjnych rozumie się przez to certyfikaty inwestycyjne, których emisja jest związana z obowiązkiem uzyskania zatwierdzenia prospektu emisyjnego lub memorandum informacyjnego zgodnie z przepisami rozdziału 2 ustawy o ofercie publicznej albo udostępnienia memorandum informacyjnego do wiadomości w trybie art. 39 ust. 1 ustawy o ofercie publicznej lub dopuszczone do obrotu na rynku regulowanym albo wprowadzone do alternatywnego systemu obrotu;
+- **36)** publicznych certyfikatach inwestycyjnych – rozumie się przez to certyfikaty inwestycyjne, których emisja jest związana z obowiązkiem uzyskania zatwierdzenia prospektu emisyjnego lub memorandum informacyjnego zgodnie z przepisami rozdziału 2 ustawy o ofercie publicznej albo udostępnienia memorandum informacyjnego do wiadomości w trybie art. 39 ust. 1 ustawy o ofercie publicznej lub dopuszczone do obrotu na rynku regulowanym albo wprowadzone do alternatywnego systemu obrotu;
 - **37)** niepublicznych certyfikatach inwestycyjnych – rozumie się przez to certyfikaty inwestycyjne, których emisja nie jest związana z obowiązkiem sporządzenia lub zatwierdzenia prospektu emisyjnego lub memorandum informacyjnego zgodnie z przepisami rozdziału 2 ustawy o ofercie publicznej albo udostępnienia memorandum informacyjnego do wiadomości w trybie art. 39 ust. 1 ustawy o ofercie publicznej i które nie podlegają dopuszczeniu do obrotu na rynku regulowanym lub wprowadzeniu do alternatywnego systemu obrotu. ” ;
 - **2)** art. 7 otrzymuje brzmienie: „
 
@@ -162,7 +162,7 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 
 - **1)** w którym postanowienie sądu o odmowie wpisu funduszu inwestycyjnego do rejestru funduszy inwestycyjnych stało się prawomocne lub
 - **2)** w którym decyzja Komisji o cofnięciu zezwolenia na utworzenie funduszu inwestycyjnego stała się ostateczna, lub
-- **3)** upływu terminu, o którym mowa w ust. 2 pkt 1 lub 2 zwraca wpłaty do funduszu inwestycyjnego, w tym przenosi prawa z papierów wartościowych, udziałów w spółkach z ograniczoną odpowiedzialnością oraz przenosi prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, wraz z wartością otrzymanych pożytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wpłaty na rachunek prowadzony przez depozytariusza do dnia wystąpienia jednej z przesłanek wymienionych w pkt 1–3, oraz pobrane opłaty manipulacyjne. ” ;
+- **3)** upływu terminu, o którym mowa w ust. 2 pkt 1 lub 2 – zwraca wpłaty do funduszu inwestycyjnego, w tym przenosi prawa z papierów wartościowych, udziałów w spółkach z ograniczoną odpowiedzialnością oraz przenosi prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, wraz z wartością otrzymanych pożytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wpłaty na rachunek prowadzony przez depozytariusza do dnia wystąpienia jednej z przesłanek wymienionych w pkt 1–3, oraz pobrane opłaty manipulacyjne. ” ;
 - **12)** w art. 32: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
@@ -219,7 +219,7 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 5. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, tryb i warunki postępowania towarzystw prowadzących działalność w zakresie pośrednictwa, o którym mowa w ust. 1, oraz podmiotów, o których mowa w art. 32 ust. 2, w zakresie:
 
 - **1)** prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych, tytułów uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych z siedzibą w państwach EEA oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do OECD innym niż państwo członkowskie lub państwo należące do EEA,
-- **2)** doradztwa inwestycyjnego w odniesieniu do takich instrumentów finansowych przy zapewnieniu zasad uczciwego obrotu oraz w sposób należycie zabezpieczający interesy klientów oraz z uwzględnieniem konieczności zapewnienia bezpieczeństwa i ciągłości prowadzonej działalności. ” ;
+- **2)** doradztwa inwestycyjnego w odniesieniu do takich instrumentów finansowych – przy zapewnieniu zasad uczciwego obrotu oraz w sposób należycie zabezpieczający interesy klientów oraz z uwzględnieniem konieczności zapewnienia bezpieczeństwa i ciągłości prowadzonej działalności. ” ;
 - **14)** w art. 33: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -272,7 +272,11 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 
 7. O rozszerzeniu przedmiotu działalności, o którym mowa w ust. 3, towarzystwo niezwłocznie informuje Komisję. ” ;
 
-- **18)** w art. 46: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) podmiotowi prowadzącemu działalność maklerską w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, lub innemu towarzystwu posiadającemu zezwolenie, o którym mowa w art. 45 ust. 2 pkt 1, 2) podmiotowi prowadzącemu działalność maklerską w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, mającemu siedzibę w innym państwie członkowskim, ” , – w pkt 3 lit. a otrzymuje brzmienie: „ a) do portfela inwestycyjnego funduszu lub jego części mogą być nabywane papiery wartościowe i instrumenty rynku pieniężnego zgodnie z ustawą i statutem funduszu, ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **18)** w art. 46: w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+- **1)** podmiotowi prowadzącemu działalność maklerską w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, lub innemu towarzystwu posiadającemu zezwolenie, o którym mowa w art. 45 ust. 2 pkt 1,
+- **2)** podmiotowi prowadzącemu działalność maklerską w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, mającemu siedzibę w innym państwie członkowskim, ” , w pkt 3 lit. a otrzymuje brzmienie: „ do portfela inwestycyjnego funduszu lub jego części mogą być nabywane papiery wartościowe i instrumenty rynku pieniężnego zgodnie z ustawą i statutem funduszu, ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
     - **b)**
 
@@ -310,7 +314,7 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 
 - **1)** tryb i warunki postępowania towarzystw funduszy inwestycyjnych wykonujących działalność w zakresie doradztwa inwestycyjnego lub zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, w zakresie świadczenia usług, promowania świadczonych usług oraz kontaktów z potencjalnymi klientami,
 - **2)** tryb, warunki i szczegółowy zakres działania w towarzystwie wykonującym czynności, o których mowa w pkt 1, systemu nadzoru zgodności z prawem działalności towarzystwa, systemu zarządzania ryzykiem oraz audytu wewnętrznego,
-- **3)** warunki techniczne i organizacyjne prowadzenia przez towarzystwo działalności, o których mowa w pkt 1 w celu zapewnienia ochrony interesów uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych oraz klientów, dla których towarzystwo wykonuje usługi doradztwa inwestycyjnego lub zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych.
+- **3)** warunki techniczne i organizacyjne prowadzenia przez towarzystwo działalności, o których mowa w pkt 1 – w celu zapewnienia ochrony interesów uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych oraz klientów, dla których towarzystwo wykonuje usługi doradztwa inwestycyjnego lub zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych.
 
 **Art. 48.**
 
@@ -323,7 +327,7 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 - **1)** tryb, warunki i szczegółowy zakres działania kontroli wewnętrznej w towarzystwie,
 - **2)** sposób prowadzenia ewidencji zawartych transakcji przez fundusze inwestycyjne oraz transakcji zawartych na rachunek własny towarzystwa lub zbiorczego portfela papierów wartościowych,
 - **3)** sposoby zapobiegania występowaniu konfliktów interesów, w tym zasady zawierania transakcji przez pracowników, członków zarządu oraz rady nadzorczej towarzystwa albo przez inne osoby fizyczne pozostające z towarzystwem w stosunku zlecenia albo innym stosunku o podobnym charakterze, które mają dostęp do informacji dotyczących obecnych i planowanych lokat funduszy inwestycyjnych oraz aktywów nabywanych do portfeli klientów, dla których towarzystwo wykonuje usługi doradztwa inwestycyjnego albo zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych,
-- **4)** sposób dokumentowania źródeł będących podstawą decyzji inwestycyjnych oraz przechowywania i archiwizowania dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa w celu zapewnienia ochrony interesów uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych oraz klientów, dla których towarzystwo wykonuje usługi doradztwa inwestycyjnego albo zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych. ” ;
+- **4)** sposób dokumentowania źródeł będących podstawą decyzji inwestycyjnych oraz przechowywania i archiwizowania dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa – w celu zapewnienia ochrony interesów uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych oraz klientów, dla których towarzystwo wykonuje usługi doradztwa inwestycyjnego albo zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych. ” ;
 - **20)** w art. 49: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -372,8 +376,10 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 
 9. W przypadku pośredniego nabycia lub objęcia akcji towarzystwa bezskuteczność prawa głosu z akcji, o których mowa w ust. 8, dotyczy także akcji posiadanych przez podmioty zależne od podmiotu, który pośrednio nabył lub objął akcje towarzystwa bez zawiadomienia Komisji, po dokonaniu zawiadomienia, lecz przed upływem terminu, o którym mowa w ust. 4, pomimo zgłoszenia przez Komisję sprzeciwu lub z naruszeniem wyznaczonego przez Komisję terminu, w którym nabycie lub objęcie akcji może zostać dokonane. ” ;
 
-- **23)** w art. 55: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „Zawiadomienie, o którym mowa w art. 54 ust. 1, zawiera:”, – pkt 4 otrzymuje brzmienie: „ 4) oświadczenia o źródle pochodzenia środków przeznaczonych na nabycie lub objęcie akcji towarzystwa, ze wskazaniem, że środki te nie pochodzą z pożyczek, kredytów, emisji dłużnych papierów wartościowych lub z nieudokumentowanych źródeł. ” , dodaje się ust. 3 w brzmieniu: „
+- **23)** w art. 55: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „Zawiadomienie, o którym mowa w art. 54 ust. 1, zawiera:”, pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** oświadczenia o źródle pochodzenia środków przeznaczonych na nabycie lub objęcie akcji towarzystwa, ze wskazaniem, że środki te nie pochodzą z pożyczek, kredytów, emisji dłużnych papierów wartościowych lub z nieudokumentowanych źródeł. ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. W przypadku gdy dokumenty, o których mowa w ust. 1 i 2, są niewystarczające do ustalenia wpływu zawiadamiającego na zarządzanie towarzystwem, Komisja niezależnie od spełnienia wymogów zawiadomienia, określonych w ust. 1 i 2, może żądać przedstawienia innych danych dotyczących jego sytuacji prawnej lub finansowej. ” ;
@@ -494,8 +500,11 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 3. Fundusz niezwłocznie dokonuje wypłaty kwoty, o której mowa w ust. 2, w sposób określony w prospekcie informacyjnym funduszu. ” ;
 
 - **39)** w art. 90 w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Prospekt informacyjny funduszu określa terminy, w jakich najpóźniej nastąpi: ” ;
-- **40)** w art. 93: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Fundusz inwestycyjny otwarty, z zastrzeżeniem ust. 2, 4–7, art. 94 i 94a oraz art. 101, może lokować aktywa funduszu wyłącznie w: ” , – pkt 1 i 2 otrzymują brzmienie: „ 1) papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa lub Narodowy Bank Polski, papiery wartościowe i instrumenty rynku pieniężnego dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub w państwie członkowskim, a także na rynku zorganizowanym niebędącym rynkiem regulowanym w Rzeczypospolitej Polskiej lub innym państwie członkowskim oraz na rynku zorganizowanym w państwie należącym do OECD innym niż Rzeczpospolita Polska i państwo członkowskie, pod warunkiem, że statut funduszu wskazuje ten rynek; 2) papiery wartościowe i instrumenty rynku pieniężnego będące przedmiotem oferty publicznej, jeżeli warunki emisji lub pierwszej oferty publicznej zakładają złożenie wniosku o dopuszczenie do obrotu, o którym mowa w pkt 1, oraz gdy dopuszczenie do tego obrotu jest zapewnione w okresie nie dłuższym niż rok od dnia, w którym po raz pierwszy nastąpi zaoferowanie tych papierów lub instrumentów, pod warunkiem że statut funduszu przewiduje dokonywanie takich lokat; ” , – w pkt 4 w lit. d tiret czwarte otrzymuje brzmienie: „ – zajmuje się finansowaniem grupy, o której mowa w tiret trzecim, albo finansowaniem mechanizmów przekształcania długu w papiery wartościowe z wykorzystaniem bankowych narzędzi zapewnienia płynności; ” , ust. 2 otrzymuje brzmienie: „
+- **40)** w art. 93: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Fundusz inwestycyjny otwarty, z zastrzeżeniem ust. 2, 4–7, art. 94 i 94a oraz art. 101, może lokować aktywa funduszu wyłącznie w: ” , pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa lub Narodowy Bank Polski, papiery wartościowe i instrumenty rynku pieniężnego dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub w państwie członkowskim, a także na rynku zorganizowanym niebędącym rynkiem regulowanym w Rzeczypospolitej Polskiej lub innym państwie członkowskim oraz na rynku zorganizowanym w państwie należącym do OECD innym niż Rzeczpospolita Polska i państwo członkowskie, pod warunkiem, że statut funduszu wskazuje ten rynek;
+- **2)** papiery wartościowe i instrumenty rynku pieniężnego będące przedmiotem oferty publicznej, jeżeli warunki emisji lub pierwszej oferty publicznej zakładają złożenie wniosku o dopuszczenie do obrotu, o którym mowa w pkt 1, oraz gdy dopuszczenie do tego obrotu jest zapewnione w okresie nie dłuższym niż rok od dnia, w którym po raz pierwszy nastąpi zaoferowanie tych papierów lub instrumentów, pod warunkiem że statut funduszu przewiduje dokonywanie takich lokat; ” , w pkt 4 w lit. d tiret czwarte otrzymuje brzmienie: „ – zajmuje się finansowaniem grupy, o której mowa w tiret trzecim, albo finansowaniem mechanizmów przekształcania długu w papiery wartościowe z wykorzystaniem bankowych narzędzi zapewnienia płynności; ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Lokowanie w papiery wartościowe lub instrumenty rynku pieniężnego będące przedmiotem obrotu na rynku zorganizowanym, oraz w papiery wartościowe i instrumenty rynku pieniężnego, których dopuszczenie do takiego obrotu jest zapewnione, w państwie innym niż Rzeczpospolita Polska, państwo członkowskie lub państwo należące do OECD, wymaga uzyskania zgody Komisji na dokonywanie lokat na określonej giełdzie lub rynku. ” , dodaje się ust. 4–8 w brzmieniu: „
@@ -614,7 +623,7 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 
 1. Fundusz inwestycyjny otwarty, z zastrzeżeniem ust. 2–4, nie może lokować więcej niż 25% wartości aktywów funduszu w:
 
-- **1)** listy zastawne wyemitowane przez jeden bank hipoteczny w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2003 r. Nr 99, poz. 919, z późn. zm.) lub
+- **1)** listy zastawne wyemitowane przez jeden bank hipoteczny w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2003 r. Nr 99, poz. 919, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 184, poz. 1539 i Nr 249, poz. 2104 oraz z 2006 r. Nr 157, poz. 1119.) lub
 - **2)** dłużne papiery wartościowe wyemitowane przez jedną instytucję kredytową, która podlega szczególnemu nadzorowi publicznemu mającemu na celu ochronę posiadaczy tych papierów wartościowych, pod warunkiem, że kwoty uzyskane z emisji tych papierów wartościowych są inwestowane przez emitenta w aktywa, które w całym okresie do dnia wykupu zapewniają spełnienie wszystkich świadczeń pieniężnych wynikających z tych papierów wartościowych oraz w przypadku niewypłacalności emitenta zapewniają pierwszeństwo w odzyskaniu wszystkich świadczeń pieniężnych wynikających z tych papierów wartościowych.
 
 2. Suma lokat w papiery wartościowe, o których mowa w ust. 1, nie może przekraczać 80% wartości aktywów funduszu. ” ;
@@ -954,7 +963,7 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 - **4)** podmiot prowadzący rejestr uczestników funduszu inwestycyjnego w celu sprawdzenia, czy jego działalność w zakresie wykonywania obowiązków wynikających z umowy zawartej z funduszem inwestycyjnym jest zgodna z tą umową oraz statutem funduszu inwestycyjnego,
 - **5)** podmiot, o którym mowa w art. 192 ust. 1, w celu sprawdzenia, czy jego działalność w zakresie zarządzania sekurytyzowanymi wierzytelnościami jest zgodna z prawem, statutem funduszu inwestycyjnego, umową zawartą z towarzystwem oraz z udzielonym zezwoleniem,
 - **6)** przedstawiciel funduszu zagranicznego lub przedstawiciel funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA lub OECD w celu sprawdzenia, czy jego działalność w zakresie obowiązków przedstawiciela funduszu jest zgodna z prawem i umową zawartą z funduszem, a także w celu sprawdzenia, czy fundusz zagraniczny, fundusz inwestycyjny otwarty z siedzibą w państwach należących do EEA lub OECD wykonuje działalność zgodnie z przepisami obowiązującymi na terytorium Rzeczypospolitej Polskiej,
-- **7)** agent płatności w celu sprawdzenia, czy jego działalność w zakresie przyjmowania wpłat na nabycie tytułów uczestnictwa i dokonywania wypłat na rzecz uczestników funduszu zagranicznego, funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA lub OECD jest zgodna z prawem i umową zawartą z fundu-szem mają obowiązek dostarczania informacji, dokumentów lub wyjaśnień niezbędnych do wykonywania efektywnego nadzoru. ” ;
+- **7)** agent płatności w celu sprawdzenia, czy jego działalność w zakresie przyjmowania wpłat na nabycie tytułów uczestnictwa i dokonywania wypłat na rzecz uczestników funduszu zagranicznego, funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA lub OECD jest zgodna z prawem i umową zawartą z fundu-szem – mają obowiązek dostarczania informacji, dokumentów lub wyjaśnień niezbędnych do wykonywania efektywnego nadzoru. ” ;
 - **95)** w art. 226 w ust. 1: pkt 7 otrzymuje brzmienie: „
     - **a)**
 
@@ -1221,7 +1230,7 @@ dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrek
 
 - **119)** uchyla się art. 326.
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) uchyla się art. 92c.
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775 oraz z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769.) uchyla się art. 92c.
 
 **Art. 3.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119 oraz z 2007 r. Nr 42, poz. 272 i Nr 49, poz. 328) w art. 12 w ust. 2 w pkt 4 lit. r i s otrzymują brzmienie: „
 
@@ -1252,7 +1261,7 @@ nakazania towarzystwu zmiany osób, o których mowa w art. 58 ust. 1 pkt 4, 6 i 
 
 4. Upoważniony przedstawiciel Komisji Nadzoru Finansowego ma prawo wstępu do siedziby lub lokalu podmiotu przechowującego dokumenty i inne nośniki informacji, o których mowa w ust. 3, celem wglądu do tych dokumentów i nośników.
 
-5. Do postępowania kontrolnego lub wyjaśniającego, o którym mowa w ust. 4, stosuje się przepisy o postępowaniu kontrolnym i wyjaśniającym, o których mowa w ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. Nr 183, poz. 1537, z późn. zm.).
+5. Do postępowania kontrolnego lub wyjaśniającego, o którym mowa w ust. 4, stosuje się przepisy o postępowaniu kontrolnym i wyjaśniającym, o których mowa w ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. Nr 183, poz. 1537, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119 i Nr 170, poz. 1217 oraz z 2007 r. Nr 50, poz. 331.).
 
 6. Na pisemne żądanie Komisji Nadzoru Finansowego lub jej upoważnionego przedstawiciela podmiot przechowujący dokumenty, o których mowa w ust. 3, jest obowiązany do niezwłocznego sporządzenia i przekazania kopii tych dokumentów.
 
@@ -1273,10 +1282,9 @@ nakazania towarzystwu zmiany osób, o których mowa w art. 58 ust. 1 pkt 4, 6 i 
 **Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 30, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia;
-- **2)** art. 1 pkt 100, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-- **1)** Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw:
+- **2)** art. 1 pkt 100, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw:
 - **1)** dyrektywy 2004/39/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie rynków instrumentów finansowych zmieniającej dyrektywy Rady 85/611/EWG i 93/6/EWG i dyrektywę 2000/12/WE Parlamentu Europejskiego i Rady oraz uchylającej dyrektywę Rady 93/22/EWG (Dz. Urz. WE L 145 z 30.04.2004, str. 1 i L 114 z 28.04.2006, str. 60; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 7, str. 263),
 - **2)** dyrektywy Komisji 2006/73/WE z dnia 10 sierpnia 2006 r. wprowadzającej środki wykonawcze do dyrektywy 2004/39/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez przedsiębiorstwa inwestycyjne oraz pojęć zdefiniowanych na potrzeby tejże dyrektywy (Dz. Urz. UE L 241 z 02.09.2006, str. 26),
-- **3)** dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrektywy Rady 85/611/EWG w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) w zakresie wyjaśnienia niektórych definicji (Dz. Urz. UE L 79 z 20.03.2007, str. 11).
+- **3)** dyrektywy Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącej wykonania dyrektywy Rady 85/611/EWG w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) w zakresie wyjaśnienia niektórych definicji (Dz. Urz. UE L 79 z 20.03.2007, str. 11). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 112, poz. 769. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732 i Nr 141, poz. 888. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 184, poz. 1539 i Nr 249, poz. 2104 oraz z 2006 r. Nr 157, poz. 1119. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775 oraz z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119 i Nr 170, poz. 1217 oraz z 2007 r. Nr 50, poz. 331.
 
 

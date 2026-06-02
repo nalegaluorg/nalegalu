@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 stycznia 2020 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw
+# Ustawa z dnia 23 stycznia 2020 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 7 października 1999 r. o języku polskim, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 11 maja 2001 r. – Prawo o miarach, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, ustawę z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, ustawę z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego, ustawę z dnia 22 lipca 2006 r. o paszach, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej, ustawę z dnia 5 grudnia 2008 r. o organizacji rynku rybnego, ustawę z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym, ustawę z dnia 19 grudnia 2014 r. o rybołówstwie morskim oraz ustawę z dnia 13 czerwca 2019 r. o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-23 |
 | Data wydania | 2020-02-21 |
-| Wejście w życie | 2020-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/285/text.pdf) |
 
@@ -32,8 +31,12 @@ source: "eli-html"
 
 3. Inspekcja jest powołana do kontroli przestrzegania przepisów o jakości handlowej artykułów rolno-spożywczych, w tym w zakresie ochrony interesów i praw konsumentów finalnych. ” ;
 
-- **2)** w art. 17: w ust. 1: – w pkt 1 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j oraz k w brzmieniu: „ j) kontrola oznakowania wprowadzanych do obrotu produktów genetycznie zmodyfikowanych (produktów GMO) w rozumieniu art. 3 pkt 16 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706), k) kontrola oznakowania genetycznie zmodyfikowanej żywności w zakresie wymagań określonych w rozporządzeniu (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432) oraz rozporządzeniu (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącym możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającym dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455); ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) kontrola prawidłowości wprowadzania do obrotu i oznakowania materiałów i wyrobów przeznaczonych do kontaktu z żywnością; ” , uchyla się ust. 3;
+- **2)** w art. 17: w ust. 1: w pkt 1 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j oraz k w brzmieniu: „ kontrola oznakowania wprowadzanych do obrotu produktów genetycznie zmodyfikowanych (produktów GMO) w rozumieniu art. 3 pkt 16 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706), kontrola oznakowania genetycznie zmodyfikowanej żywności w zakresie wymagań określonych w rozporządzeniu (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 368 z 23.12.2006, str. 99, Dz. Urz. UE L 211 z 11.08.2007, str. 40, Dz. Urz. UE L 97 z 09.04.2008, str. 64 oraz Dz. Urz. UE L 231 z 06.09.2019, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432) oraz rozporządzeniu (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącym możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającym dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 311 z 21.11.2008, str. 1 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455); ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
+    - **j)**
+    - **k)**
+
+- **3a)** kontrola prawidłowości wprowadzania do obrotu i oznakowania materiałów i wyrobów przeznaczonych do kontaktu z żywnością; ” , uchyla się ust. 3;
     - **b)**
 
 - **3)** w art. 17a uchyla się ust. 2;
@@ -107,8 +110,10 @@ source: "eli-html"
 
 8. Wojewódzki inspektor jest obowiązany poinformować Głównego Inspektora, w wyznaczonym przez Głównego Inspektora terminie, o sposobie wykonania poleceń lub wytycznych, o których mowa w ust. 7. ” ;
 
-- **10)** w art. 29: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wykonując zadania, o których mowa w art. 17 ust. 1 pkt 1 lit. a oraz e-k, wojewódzki inspektor, w drodze decyzji, może: ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) nakazać w punktach sprzedaży należących do podmiotu kontrolowanego wycofanie z obrotu całej partii artykułu rolno-spożywczego zafałszowanego, jeżeli stwierdzony rodzaj nieprawidłowości odnosi się do całej partii produkcyjnej artykułu rolno-spożywczego. ” , ust. 2 i 3 otrzymują brzmienie: „
+- **10)** w art. 29: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wykonując zadania, o których mowa w art. 17 ust. 1 pkt 1 lit. a oraz e-k, wojewódzki inspektor, w drodze decyzji, może: ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
     - **a)**
+
+- **6)** nakazać w punktach sprzedaży należących do podmiotu kontrolowanego wycofanie z obrotu całej partii artykułu rolno-spożywczego zafałszowanego, jeżeli stwierdzony rodzaj nieprawidłowości odnosi się do całej partii produkcyjnej artykułu rolno-spożywczego. ” , ust. 2 i 3 otrzymują brzmienie: „
     - **b)**
 
 2. Decyzje, o których mowa w ust. 1 pkt 1–3 i 6, mogą być wydane przed zakończeniem kontroli.
@@ -118,7 +123,7 @@ source: "eli-html"
 - **11)** w art. 32: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Badania laboratoryjne związane z kontrolą jakości handlowej artykułów rolno-spożywczych są przeprowadzane w laboratoriach Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych, w tym w krajowych laboratoriach referencyjnych, o których mowa w art. 100 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.). ” , ust. 3a otrzymuje brzmienie: „
+1. Badania laboratoryjne związane z kontrolą jakości handlowej artykułów rolno-spożywczych są przeprowadzane w laboratoriach Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych, w tym w krajowych laboratoriach referencyjnych, o których mowa w art. 100 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 40, Dz. Urz. UE L 82 z 25.03.2019, str. 4, Dz. Urz. UE L 131 z 17.05.2019, str. 18 i Dz. Urz. UE L 165 z 21.06.2019, str. 4.. ” , ust. 3a otrzymuje brzmienie: „
 
 - **b)**
 
@@ -135,8 +140,12 @@ source: "eli-html"
 
 1a. Opłaty, o których mowa w ust. 1, są wpłacane na rachunek bankowy odpowiednio Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych. ” ;
 
-- **13)** w art. 40a: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) uniemożliwia organowi Inspekcji przeprowadzanie kontroli, o których mowa w ustawie, lub kontroli przeprowadzanych na podstawie przepisów odrębnych, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary; 2) utrudnia organowi Inspekcji przeprowadzanie kontroli, o których mowa w ustawie, lub kontroli przeprowadzanych na podstawie przepisów odrębnych, podlega karze pieniężnej w wysokości do piętnastokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary; ” , – w pkt 6 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) nie wykonuje decyzji, o których mowa w art. 29 ust. 1, podlega karze pieniężnej w wysokości do trzykrotnej wartości korzyści majątkowej uzyskanej, lub która mogłaby zostać uzyskana przez wprowadzenie do obrotu artykułów rolno-spożywczych będących przedmiotem tych decyzji, nie niższej jednak niż 500 zł. ” , ust. 4 otrzymuje brzmienie: „
+- **13)** w art. 40a: w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** uniemożliwia organowi Inspekcji przeprowadzanie kontroli, o których mowa w ustawie, lub kontroli przeprowadzanych na podstawie przepisów odrębnych, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary;
+- **2)** utrudnia organowi Inspekcji przeprowadzanie kontroli, o których mowa w ustawie, lub kontroli przeprowadzanych na podstawie przepisów odrębnych, podlega karze pieniężnej w wysokości do piętnastokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary; ” , w pkt 6 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** nie wykonuje decyzji, o których mowa w art. 29 ust. 1, podlega karze pieniężnej w wysokości do trzykrotnej wartości korzyści majątkowej uzyskanej, lub która mogłaby zostać uzyskana przez wprowadzenie do obrotu artykułów rolno-spożywczych będących przedmiotem tych decyzji, nie niższej jednak niż 500 zł. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Kary pieniężne, o których mowa w ust. 1–3a, wymierza, w drodze decyzji, Główny Inspektor albo wojewódzki inspektor właściwy ze względu na miejsce przeprowadzenia kontroli. ” , ust. 5–5b otrzymują brzmienie: „
@@ -157,9 +166,9 @@ source: "eli-html"
 
 7. Kary pieniężne są wpłacane na rachunek bankowy odpowiednio Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych.
 
-8. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. ” .
+8. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. ” .
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.) w art. 299 w § 3 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200.) w art. 299 w § 3 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „
 
 - **17)** organom Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych w związku z kontrolami przeprowadzanymi na podstawie art. 17c ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2019 r. poz. 2178 oraz z 2020 r. poz. 285) oraz w zakresie prowadzonych postępowań w sprawie wymierzenia kar pieniężnych na podstawie art. 40a ust. 1–3a tej ustawy. ” .
 
@@ -169,8 +178,10 @@ source: "eli-html"
 
 **Art. 4.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2019 r. poz. 1668 i 2166) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: w ust. 1: – pkt 2e otrzymuje brzmienie: „ 2e) kontrola znakowania wprowadzonych do obrotu produktów GMO w rozumieniu ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706), przeznaczonych dla konsumentów, z uwzględnieniem ust. 2, w tym pobieranie próbek i badanie próbek tych produktów w celu identyfikacji w tych produktach organizmów genetycznie zmodyfikowanych; ” , – uchyla się pkt 2f, ust. 2 otrzymuje brzmienie: „
+- **1)** w art. 3: w ust. 1: pkt 2e otrzymuje brzmienie: „
     - **a)**
+
+- **2e)** kontrola znakowania wprowadzonych do obrotu produktów GMO w rozumieniu ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706), przeznaczonych dla konsumentów, z uwzględnieniem ust. 2, w tym pobieranie próbek i badanie próbek tych produktów w celu identyfikacji w tych produktach organizmów genetycznie zmodyfikowanych; ” , – uchyla się pkt 2f, ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Kontrole, o których mowa w ust. 1 pkt 2 i 2e, nie obejmują kontroli jakości handlowej artykułów rolno-spożywczych oraz kontroli jakości zdrowotnej środków spożywczych określonych w przepisach odrębnych. ” ;
@@ -187,7 +198,7 @@ source: "eli-html"
 - **3)** dane identyfikujące produkt poddany kontroli,
 - **4)** miejsce (adres) przeprowadzonej kontroli,
 - **5)** ustalenia kontroli,
-- **6)** wykorzystanie ustaleń kontroli z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów.
+- **6)** wykorzystanie ustaleń kontroli – z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów.
 
 2. Wojewódzki inspektor, w zakresie zrealizowanych przez siebie kontroli, może podawać do publicznej wiadomości informacje, o których mowa w ust. 1, z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów.
 
@@ -232,8 +243,12 @@ source: "eli-html"
 
 5. Do kontroli handlowców, którzy nie prowadzą działalności gospodarczej w zakresie obrotu owocami lub warzywami objętymi normami jakości handlowej owoców i warzyw, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495). ” ;
 
-- **4)** w art. 40a: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) uniemożliwia wojewódzkiemu inspektorowi przeprowadzenie kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu lub kontroli składowania lub transportowania tych artykułów, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53 i 252), zwanego dalej „przeciętnym wynagrodzeniem”, za rok poprzedzający rok nałożenia kary; 2) utrudnia wojewódzkiemu inspektorowi przeprowadzenie kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu lub kontroli składowania lub transportowania tych artykułów, podlega karze pieniężnej w wysokości do piętnastokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary; ” , – pkt 4 otrzymuje brzmienie: „ 4) odmawia okazania wojewódzkiemu inspektorowi dokumentów towarzyszących danej partii owoców i warzyw lub nie zamieszcza w tych dokumentach odpowiednich informacji wymaganych zgodnie z art. 5 rozporządzenia nr 543/2011 lub zamieszcza w tych dokumentach informacje nieprawdziwe lub niekompletne, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary. ” , uchyla się ust. 5, ust. 6 otrzymuje brzmienie: „
+- **4)** w art. 40a: w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** uniemożliwia wojewódzkiemu inspektorowi przeprowadzenie kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu lub kontroli składowania lub transportowania tych artykułów, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53 i 252), zwanego dalej „przeciętnym wynagrodzeniem”, za rok poprzedzający rok nałożenia kary;
+- **2)** utrudnia wojewódzkiemu inspektorowi przeprowadzenie kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu lub kontroli składowania lub transportowania tych artykułów, podlega karze pieniężnej w wysokości do piętnastokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** odmawia okazania wojewódzkiemu inspektorowi dokumentów towarzyszących danej partii owoców i warzyw lub nie zamieszcza w tych dokumentach odpowiednich informacji wymaganych zgodnie z art. 5 rozporządzenia nr 543/2011 lub zamieszcza w tych dokumentach informacje nieprawdziwe lub niekompletne, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary. ” , uchyla się ust. 5, ust. 6 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -256,7 +271,7 @@ source: "eli-html"
 
 - **g)**
 
-14. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. ” . W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2018 r. poz. 1557) wprowadza się następujące zmiany:
+14. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. ” . W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2018 r. poz. 1557) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 2 pkt 8 otrzymuje brzmienie: „
 - **8)** przyjmowanie informacji o niebezpiecznych produktach żywnościowych oraz o paszach od organów Państwowej Inspekcji Ochrony Roślin i Nasiennictwa oraz Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych – w zakresie kompetencji tych inspekcji, a także ocena ryzyka i stopnia zagrożenia spowodowanego niebezpiecznym produktem żywnościowym lub paszą, a następnie przekazywanie tych informacji do kierującego siecią systemu RASFF, o którym mowa w art. 85 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia. ” ;
@@ -278,7 +293,7 @@ source: "eli-html"
 
 5. Środki finansowe pochodzące z kar pieniężnych, o których mowa w art. 58a i art. 58b, są wnoszone na rachunek bieżący dochodów państwowej jednostki budżetowej obsługującej odpowiednio Głównego Inspektora albo wojewódzkiego inspektora, który wydał decyzję o nałożeniu kary.
 
-6. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. ” .
+6. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. ” .
 
 **Art. 10.** W ustawie z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2019 r. poz. 824 oraz z 2020 r. poz. 148) w art. 22 w ust. 1 w pkt 2 lit. b otrzymuje brzmienie: „
 
@@ -337,7 +352,7 @@ wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych. ”
 
 3. Kary pieniężne, o których mowa w art. 24 i art. 25, są wnoszone na rachunek bankowy Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych.
 
-4. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. ” .
+4. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285.), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli. ” .
 
 **Art. 16.** W ustawie z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2020 r. poz. 277) w art. 107 ust. 3 otrzymuje brzmienie: „ 3. Główny Inspektor Rybołówstwa Morskiego przy realizacji swoich zadań współdziała z organami i jednostkami organizacyjnymi Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, Krajowej Administracji Skarbowej, Inspekcji Weterynaryjnej, Państwowej Inspekcji Sanitarnej, Państwowej Straży Rybackiej, Społecznej Straży Rybackiej, Straży Granicznej, Inspekcji Transportu Drogowego i Policji oraz ze strażami gminnymi, wojewódzkimi inspektoratami ochrony środowiska, podmiotami zarządzającymi portami i przystaniami morskimi i z terenowymi organami administracji morskiej, z uwzględnieniem właściwości i kompetencji tych organów i jednostek organizacyjnych. ” .
 
@@ -366,7 +381,7 @@ wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych. ”
 
 5. Kary pieniężne są wpłacane na rachunek bankowy odpowiednio wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych albo powiatowego inspektoratu weterynarii.
 
-6. W zakresie nieuregulowanym w niniejszej ustawie i ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256) do kar pieniężnych, o których mowa w art. 10 ust. 1 i art. 11 ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych i powiatowemu inspektorowi weterynarii. ” .
+6. W zakresie nieuregulowanym w niniejszej ustawie i ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256) do kar pieniężnych, o których mowa w art. 10 ust. 1 i art. 11 ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285.), z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych i powiatowemu inspektorowi weterynarii. ” .
 
 **Art. 18.**
 
@@ -432,6 +447,6 @@ wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych. ”
 
 - **1)** art. 18 ust. 2, art. 19 ust. 2 i art. 22, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
 - **2)** art. 24 ust. 1, który wchodzi w życie z dniem 4 maja 2020 r.;
-- **3)** art. 1 pkt 12 i art. 29, które wchodzą w życie z dniem 1 stycznia 2021 r.
+- **3)** art. 1 pkt 12 i art. 29, które wchodzą w życie z dniem 1 stycznia 2021 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 7 października 1999 r. o języku polskim, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 11 maja 2001 r. – Prawo o miarach, ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, ustawę z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, ustawę z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego, ustawę z dnia 22 lipca 2006 r. o paszach, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej, ustawę z dnia 5 grudnia 2008 r. o organizacji rynku rybnego, ustawę z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym, ustawę z dnia 19 grudnia 2014 r. o rybołówstwie morskim oraz ustawę z dnia 13 czerwca 2019 r. o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 368 z 23.12.2006, str. 99, Dz. Urz. UE L 211 z 11.08.2007, str. 40, Dz. Urz. UE L 97 z 09.04.2008, str. 64 oraz Dz. Urz. UE L 231 z 06.09.2019, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 311 z 21.11.2008, str. 1 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 40, Dz. Urz. UE L 82 z 25.03.2019, str. 4, Dz. Urz. UE L 131 z 17.05.2019, str. 18 i Dz. Urz. UE L 165 z 21.06.2019, str. 4. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285.
 
 

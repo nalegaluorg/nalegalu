@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2007/74/WE z dnia 20 grudnia 2007 r. w sprawie zwolnienia towarów przywożonych przez osoby podróżujące z państw trzecich z podatku od wartości dodanej i akcyzy (Dz. Urz. UE L 346 z 29.12.2007, str. 6).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-07 |
 | Data wydania | 2008-11-28 |
-| Wejście w życie | 2008-12-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082091320) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1320/text.pdf) |
 
 Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zwolnienie od podatku na podstawie art. 74 ust. 1 pkt 17 ustawy
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, Nr 90, poz. 756, Nr 143, poz. 1199 i Nr 179, poz. 1484, z 2006 r. Nr 143, poz. 1028 i 1029, z 2007 r. Nr 168, poz. 1187 i Nr 192, poz. 1382 oraz z 2008 r. Nr 74, poz. 444, Nr 130, poz. 826 i Nr 141, poz. 888.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: w pkt 8 zdanie wstępne otrzymuje brzmienie: „ eksporcie towarów – rozumie się przez to potwierdzony przez urząd celny określony w przepisach celnych wywóz towarów z terytorium kraju poza terytorium Wspólnoty w wykonaniu czynności określonych w art. 7, jeżeli wywóz jest dokonany przez: ” , pkt 14 otrzymuje brzmienie: „
     - **a)**
@@ -205,11 +204,19 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 
 15b. Otrzymanie dokumentów po terminie, o którym mowa w ust. 15a, wskazujących, że wystąpiła dostawa towarów na terytorium państwa członkowskiego przeznaczenia dla wysyłanych lub transportowanych towarów, uprawnia podatnika do dokonania korekty podatku należnego w rozliczeniu za okres rozliczeniowy, w którym podatnik otrzymał te dokumenty. ” ;
 
-- **19)** w art. 27: w ust. 2 w pkt 3 lit. a otrzymuje brzmienie: „ w dziedzinie kultury, sztuki, sportu, nauki, edukacji, rozrywki oraz usług podobnych do tych usług, takich jak targi i wystawy, a także usług pomocniczych do tych usług, ” , w ust. 4: – pkt 3 otrzymuje brzmienie: „ 3) doradczych, inżynierskich, prawniczych, księgowych oraz usług podobnych do tych usług, w tym w szczególności: a) usług doradztwa w zakresie sprzętu komputerowego (PKWiU 72.1), b) usług doradztwa w zakresie oprogramowania (PKWiU 72.2), c) usług prawniczych, rachunkowo-księgowych, badania rynków i opinii publicznej, doradztwa w zakresie prowadzenia działalności gospodarczej i zarządzania (PKWiU 74.1), d) usług architektonicznych i inżynierskich (PKWiU 74.2) – z zastrzeżeniem ust. 2 pkt 1, e) usług w zakresie badań i analiz technicznych (PKWiU 74.3); ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) usług przetwarzania danych, dostarczania informacji oraz usług tłumaczeń; ” ;
+- **19)** w art. 27: w ust. 2 w pkt 3 lit. a otrzymuje brzmienie: „ w dziedzinie kultury, sztuki, sportu, nauki, edukacji, rozrywki oraz usług podobnych do tych usług, takich jak targi i wystawy, a także usług pomocniczych do tych usług, ” , w ust. 4: pkt 3 otrzymuje brzmienie: „
     - **a)**
     - **a)**
     - **b)**
 
+- **3)** doradczych, inżynierskich, prawniczych, księgowych oraz usług podobnych do tych usług, w tym w szczególności: usług doradztwa w zakresie sprzętu komputerowego (PKWiU 72.1), usług doradztwa w zakresie oprogramowania (PKWiU 72.2), usług prawniczych, rachunkowo-księgowych, badania rynków i opinii publicznej, doradztwa w zakresie prowadzenia działalności gospodarczej i zarządzania (PKWiU 74.1), usług architektonicznych i inżynierskich (PKWiU 74.2) – z zastrzeżeniem ust. 2 pkt 1, usług w zakresie badań i analiz technicznych (PKWiU 74.3); ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **3a)** usług przetwarzania danych, dostarczania informacji oraz usług tłumaczeń; ” ;
 - **20)** w art. 28: ust. 8 otrzymuje brzmienie: „
     - **a)**
 
@@ -261,8 +268,10 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 11a. W przypadku przemieszczenia towarów, w stosunku do którego obowiązek podatkowy powstaje na podstawie art. 20a ust. 1, podstawę opodatkowania określa się zgodnie z ust. 1. ” , uchyla się ust. 23;
 
 - **i)**
-- **22)** w art. 30: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Podstawę opodatkowania czynności maklerskich, czynności wynikających z zarządzania funduszami inwestycyjnymi, czynności wynikających z umowy agencyjnej lub zlecenia, pośrednictwa, umowy komisu lub innych usług o podobnym charakterze stanowi dla: ” , – pkt 4 otrzymuje brzmienie: „ 4) prowadzącego przedsiębiorstwo maklerskie, zarządzającego funduszami inwestycyjnymi, agenta, zleceniobiorcy lub innej osoby świadczącej usługi o podobnym charakterze – kwota prowizji lub innych postaci wynagrodzeń za wykonanie usługi, pomniejszona o kwotę podatku, z zastrzeżeniem ust. 3. ” , dodaje się ust. 3 w brzmieniu: „
+- **22)** w art. 30: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Podstawę opodatkowania czynności maklerskich, czynności wynikających z zarządzania funduszami inwestycyjnymi, czynności wynikających z umowy agencyjnej lub zlecenia, pośrednictwa, umowy komisu lub innych usług o podobnym charakterze stanowi dla: ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** prowadzącego przedsiębiorstwo maklerskie, zarządzającego funduszami inwestycyjnymi, agenta, zleceniobiorcy lub innej osoby świadczącej usługi o podobnym charakterze – kwota prowizji lub innych postaci wynagrodzeń za wykonanie usługi, pomniejszona o kwotę podatku, z zastrzeżeniem ust. 3. ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. W przypadku gdy podatnik, działając we własnym imieniu, ale na rzecz osoby trzeciej, bierze udział w świadczeniu usług, podstawą opodatkowania jest kwota należna z tytułu świadczenia usług, pomniejszona o kwotę podatku. ” ;
@@ -351,7 +360,7 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 1. Podatnik jest obowiązany zapłacić różnicę między podatkiem wynikającym z decyzji naczelnika urzędu celnego, o których mowa w art. 33 ust. 2 i 3 oraz w art. 34, a podatkiem:
 
 - **1)** pobranym przez ten organ,
-- **2)** należnym z tytułu importu towarów wykazanym przez podatnika w: zgłoszeniu celnym i rozliczanym w deklaracji podatkowej, zgodnie z art. 33a, lub deklaracji importowej, zgodnie z art. 33b w terminie 10 dni, licząc od dnia doręczenia tych decyzji. ” ;
+- **2)** należnym z tytułu importu towarów wykazanym przez podatnika w: zgłoszeniu celnym i rozliczanym w deklaracji podatkowej, zgodnie z art. 33a, lub deklaracji importowej, zgodnie z art. 33b – w terminie 10 dni, licząc od dnia doręczenia tych decyzji. ” ;
     - **a)**
     - **b)**
 
@@ -404,8 +413,20 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 
 17. Minister właściwy do spraw finansów publicznych wyznaczy, w drodze rozporządzenia, jednostkę organizacyjną, w której funkcjonuje biuro wymiany informacji o podatku VAT, uwzględniając konieczność zapewnienia prawidłowej realizacji obowiązków związanych z wymianą informacji o podatku oraz o podatku od wartości dodanej. ” ;
 
-- **34)** w art. 43: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) dostawę towarów używanych, pod warunkiem że w stosunku do tych towarów nie przysługiwało dokonującemu ich dostawy prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego; ” , – pkt 10 otrzymuje brzmienie: „ 10) dostawę budynków, budowli lub ich części, z wyjątkiem gdy: a) dostawa jest dokonywana w ramach pierwszego zasiedlenia lub przed nim, b) pomiędzy pierwszym zasiedleniem a dostawą budynku, budowli lub ich części upłynął okres krótszy niż 2 lata; ” , – po pkt 10 dodaje się pkt 10a w brzmieniu: „ 10a) dostawę budynków, budowli lub ich części nieobjętą zwolnieniem, o którym mowa w pkt 10, pod warunkiem że: a) w stosunku do tych obiektów nie przysługiwało dokonującemu ich dostawy prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, b) dokonujący ich dostawy nie ponosił wydatków na ich ulepszenie, w stosunku do których miał prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, a jeżeli ponosił takie wydatki, to były one niższe niż 30% wartości początkowej tych obiektów; ” , – w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 i 16 w brzmieniu: „ 15) działalność w zakresie gier losowych, zakładów wzajemnych, gier na automatach i gier na automatach o niskich wygranych, podlegającą opodatkowaniu podatkiem od gier na zasadach określonych w odrębnej ustawie; 16) dostawę towarów, o której mowa w art. 7 ust. 2 pkt 2, przez producenta, której przedmiotem są produkty spożywcze, z wyjątkiem napojów alkoholowych o zawartości alkoholu powyżej 1,2% oraz napojów alkoholowych będących mieszaniną piwa i napojów bezalkoholowych, w których zawartość alkoholu przekracza 0,5%, jeżeli są one przekazywane na rzecz organizacji pożytku publicznego, w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z przeznaczeniem na cele działalności charytatywnej prowadzonej przez te organizacje. ” , ust. 2 otrzymuje brzmienie: „
+- **34)** w art. 43: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** dostawę towarów używanych, pod warunkiem że w stosunku do tych towarów nie przysługiwało dokonującemu ich dostawy prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego; ” , pkt 10 otrzymuje brzmienie: „
+- **10)** dostawę budynków, budowli lub ich części, z wyjątkiem gdy: dostawa jest dokonywana w ramach pierwszego zasiedlenia lub przed nim, pomiędzy pierwszym zasiedleniem a dostawą budynku, budowli lub ich części upłynął okres krótszy niż 2 lata; ” , po pkt 10 dodaje się pkt 10a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **10a)** dostawę budynków, budowli lub ich części nieobjętą zwolnieniem, o którym mowa w pkt 10, pod warunkiem że: w stosunku do tych obiektów nie przysługiwało dokonującemu ich dostawy prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, dokonujący ich dostawy nie ponosił wydatków na ich ulepszenie, w stosunku do których miał prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, a jeżeli ponosił takie wydatki, to były one niższe niż 30% wartości początkowej tych obiektów; ” , w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 i 16 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **15)** działalność w zakresie gier losowych, zakładów wzajemnych, gier na automatach i gier na automatach o niskich wygranych, podlegającą opodatkowaniu podatkiem od gier na zasadach określonych w odrębnej ustawie;
+- **16)** dostawę towarów, o której mowa w art. 7 ust. 2 pkt 2, przez producenta, której przedmiotem są produkty spożywcze, z wyjątkiem napojów alkoholowych o zawartości alkoholu powyżej 1,2% oraz napojów alkoholowych będących mieszaniną piwa i napojów bezalkoholowych, w których zawartość alkoholu przekracza 0,5%, jeżeli są one przekazywane na rzecz organizacji pożytku publicznego, w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z przeznaczeniem na cele działalności charytatywnej prowadzonej przez te organizacje. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Przez towary używane, o których mowa w ust. 1 pkt 2, rozumie się ruchomości, których okres używania przez podatnika dokonującego ich dostawy wyniósł co najmniej pół roku po nabyciu prawa do rozporządzania tymi towarami jak właściciel. ” , uchyla się ust. 6, po ust. 7 dodaje się ust. 7a w brzmieniu: „
@@ -438,8 +459,12 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
     - **b)**
 
 - **4)** kwoty wyrażone w euro przelicza się przy zastosowaniu kursu obowiązującego w pierwszym dniu roboczym października poprzedniego roku podatkowego, publikowanego w Dzienniku Urzędowym Unii Europejskiej, przy czym wyrażone w złotych kwoty wynikające z przeliczenia zaokrągla się do pełnych złotych w ten sposób, że końcówki kwot wynoszące mniej niż 50 groszy pomija się, a końcówki kwot wynoszące 50 i więcej groszy podwyższa się do pełnych złotych. ” ;
-- **36)** w art. 47: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Zwalnia się od podatku import rzeczy osobistego użytku osoby fizycznej przenoszącej miejsce zamieszkania z terytorium państwa trzeciego na terytorium kraju, jeżeli łącznie są spełnione następujące warunki: ” , – pkt 1–3 otrzymują brzmienie: „ 1) rzeczy służyły do osobistego użytku tej osobie w miejscu zamieszkania na terytorium państwa trzeciego, z tym że towary nieprzeznaczone do konsumpcji musiały służyć do takiego użytku przez okres co najmniej 6 miesięcy przed dniem, w którym osoba ta przestała mieć miejsce zamieszkania na terytorium państwa trzeciego; 2) rzeczy będą używane na terytorium kraju do takiego samego celu, w jakim były używane na terytorium państwa trzeciego; 3) osoba fizyczna miała miejsce zamieszkania na terytorium państwa trzeciego nieprzerwanie przez okres co najmniej 12 miesięcy poprzedzających zmianę miejsca zamieszkania; ” , ust. 3 otrzymuje brzmienie: „
+- **36)** w art. 47: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Zwalnia się od podatku import rzeczy osobistego użytku osoby fizycznej przenoszącej miejsce zamieszkania z terytorium państwa trzeciego na terytorium kraju, jeżeli łącznie są spełnione następujące warunki: ” , pkt 1–3 otrzymują brzmienie: „
     - **a)**
+
+- **1)** rzeczy służyły do osobistego użytku tej osobie w miejscu zamieszkania na terytorium państwa trzeciego, z tym że towary nieprzeznaczone do konsumpcji musiały służyć do takiego użytku przez okres co najmniej 6 miesięcy przed dniem, w którym osoba ta przestała mieć miejsce zamieszkania na terytorium państwa trzeciego;
+- **2)** rzeczy będą używane na terytorium kraju do takiego samego celu, w jakim były używane na terytorium państwa trzeciego;
+- **3)** osoba fizyczna miała miejsce zamieszkania na terytorium państwa trzeciego nieprzerwanie przez okres co najmniej 12 miesięcy poprzedzających zmianę miejsca zamieszkania; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Import rzeczy osobistego użytku jest zwolniony od podatku, jeżeli rzeczy zostały zgłoszone do procedury dopuszczenia do obrotu przed upływem 12 miesięcy od dnia przeniesienia przez osobę, o której mowa w ust. 1, miejsca zamieszkania na terytorium kraju, z zachowaniem warunku określonego w ust. 4. ” , ust. 5 otrzymuje brzmienie: „
@@ -527,17 +552,29 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 
 **Art. 81.** Zwolnienia, o których mowa w art. 47–80, stosuje się w przypadku zastosowania zwolnień od cła, z wyjątkiem art. 56 i art. 74 ust. 1 pkt 19. ” ;
 
-- **40)** w art. 83: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) importu środków transportu morskiego, rybołówstwa morskiego i statków ratowniczych morskich (CN 8901 10 10, 8901 20 10, 8901 30 10, 8901 90 10, 8902 00 12, 8902 00 18, ex 8905 90 10) przez armatorów morskich; ” , – w pkt 25 lit. b otrzymuje brzmienie: „ b) posiada dowód, że należność za towar została zapłacona i przekazana na rachunek bankowy podatnika w banku mającym siedzibę na terytorium kraju lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem; ” , w ust. 9 pkt 2 otrzymuje brzmienie: „
+- **40)** w art. 83: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** importu środków transportu morskiego, rybołówstwa morskiego i statków ratowniczych morskich (CN 8901 10 10, 8901 20 10, 8901 30 10, 8901 90 10, 8902 00 12, 8902 00 18, ex 8905 90 10) przez armatorów morskich; ” , w pkt 25 lit. b otrzymuje brzmienie: „ posiada dowód, że należność za towar została zapłacona i przekazana na rachunek bankowy podatnika w banku mającym siedzibę na terytorium kraju lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem; ” , w ust. 9 pkt 2 otrzymuje brzmienie: „
+    - **b)**
     - **b)**
 
 - **2)** podatnik posiada dowód, że należność za usługę została zapłacona i przekazana na rachunek bankowy podatnika w banku mającym siedzibę na terytorium kraju lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem. ” ;
-- **41)** w art. 86: w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) w przypadku importu towarów – suma kwot podatku wynikająca z dokumentu celnego i deklaracji importowej, z zastrzeżeniem pkt 5; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) kwota podatku należnego z tytułu importu towarów – w przypadkach, o których mowa w art. 33a. ” , w ust. 8 w pkt 2 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **41)** w art. 86: w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** w przypadku importu towarów – suma kwot podatku wynikająca z dokumentu celnego i deklaracji importowej, z zastrzeżeniem pkt 5; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** kwota podatku należnego z tytułu importu towarów – w przypadkach, o których mowa w art. 33a. ” , w ust. 8 w pkt 2 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **b)**
 
-- **3)** dostawy towarów, o której mowa w art. 43 ust. 1 pkt 16. ” , w ust. 10: – pkt 1 otrzymuje brzmienie: „ 1) w rozliczeniu za okres, w którym podatnik otrzymał fakturę albo dokument celny, z zastrzeżeniem pkt 2–5 oraz ust. 11, 12, 16 i 18; ” , – dodaje się pkt 2a i 2b w brzmieniu: „ 2a) w przypadkach, o których mowa w ust. 2 pkt 5 – w rozliczeniu za okres, w którym powstał obowiązek podatkowy w podatku należnym od importu towarów rozliczanego zgodnie z art. 33a; 2b) w rozliczeniu za okres, w którym powstał obowiązek podatkowy w podatku należnym od importu towarów rozliczanego zgodnie z art. 33b; ” , – pkt 5 otrzymuje brzmienie: „ 5) w przypadku stosowania w imporcie towarów procedury uproszczonej, polegającej na wpisie do rejestru zgodnie z przepisami celnymi – za okres rozliczeniowy, w którym podatnik dokonał wpisu do rejestru; obniżenie kwoty podatku należnego następuje pod warunkiem dokonania przez podatnika zapłaty podatku wykazanego w tym rejestrze, z zastrzeżeniem art. 33a; ” , – dodaje się pkt 6 w brzmieniu: „ 6) w przypadku decyzji, o których mowa w art. 33 ust. 2 i 3 oraz w art. 34 – w rozliczeniu za okres, w którym otrzymał decyzję; obniżenie kwoty podatku należnego następuje pod warunkiem dokonania przez podatnika zapłaty podatku wynikającego z decyzji. ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
+- **3)** dostawy towarów, o której mowa w art. 43 ust. 1 pkt 16. ” , w ust. 10: pkt 1 otrzymuje brzmienie: „
     - **c)**
+
+- **1)** w rozliczeniu za okres, w którym podatnik otrzymał fakturę albo dokument celny, z zastrzeżeniem pkt 2–5 oraz ust. 11, 12, 16 i 18; ” , dodaje się pkt 2a i 2b w brzmieniu: „
+- **2a)** w przypadkach, o których mowa w ust. 2 pkt 5 – w rozliczeniu za okres, w którym powstał obowiązek podatkowy w podatku należnym od importu towarów rozliczanego zgodnie z art. 33a;
+- **2b)** w rozliczeniu za okres, w którym powstał obowiązek podatkowy w podatku należnym od importu towarów rozliczanego zgodnie z art. 33b; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** w przypadku stosowania w imporcie towarów procedury uproszczonej, polegającej na wpisie do rejestru zgodnie z przepisami celnymi – za okres rozliczeniowy, w którym podatnik dokonał wpisu do rejestru; obniżenie kwoty podatku należnego następuje pod warunkiem dokonania przez podatnika zapłaty podatku wykazanego w tym rejestrze, z zastrzeżeniem art. 33a; ” , dodaje się pkt 6 w brzmieniu: „
+- **6)** w przypadku decyzji, o których mowa w art. 33 ust. 2 i 3 oraz w art. 34 – w rozliczeniu za okres, w którym otrzymał decyzję; obniżenie kwoty podatku należnego następuje pod warunkiem dokonania przez podatnika zapłaty podatku wynikającego z decyzji. ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
     - **d)**
 
 10a. W przypadku gdy nabywca towaru lub usługi otrzymał korektę faktury, o której mowa w art. 29 ust. 4a lub 4c, jest on obowiązany do zmniejszenia kwoty podatku naliczonego w rozliczeniu za okres, w którym tę korektę faktury otrzymał. Jeżeli podatnik nie obniżył kwoty podatku należnego o kwotę podatku naliczonego określonego w fakturze, której korekta dotyczy, a prawo do takiego obniżenia mu przysługuje, zmniejszenie kwoty podatku naliczonego uwzględnia się w rozliczeniu za okres, w którym podatnik dokonuje tego obniżenia. ” , ust. 11 otrzymuje brzmienie: „
@@ -592,7 +629,7 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 4e. Zabezpieczenie majątkowe zostaje zwolnione w dniu następującym po dniu:
 
 - **1)** zakończenia przez organ podatkowy weryfikacji, o której mowa w ust. 2 – w przypadku zabezpieczenia, o którym mowa w ust. 2a;
-- **2)** w którym upłynęło 180 dni od dnia złożenia deklaracji podatkowej, w której była wykazana kwota zwrotu podatku w przypadku, o którym mowa w ust. 5a.
+- **2)** w którym upłynęło 180 dni od dnia złożenia deklaracji podatkowej, w której była wykazana kwota zwrotu podatku – w przypadku, o którym mowa w ust. 5a.
 
 4f. Zwolnienia zabezpieczenia nie dokonuje się:
 
@@ -600,7 +637,7 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
     - **a)**
     - **b)**
 
-- **2)** w przypadku wszczęcia postępowania kontrolnego zgodnie z przepisami o kontroli skarbowej w zakresie rozliczenia, którego dotyczy zabezpieczenie do czasu zakończenia tego postępowania;
+- **2)** w przypadku wszczęcia postępowania kontrolnego zgodnie z przepisami o kontroli skarbowej w zakresie rozliczenia, którego dotyczy zabezpieczenie – do czasu zakończenia tego postępowania;
 - **3)** w przypadku stwierdzenia, że podatnik w złożonej deklaracji podatkowej wykazał kwotę zwrotu różnicy podatku lub zwrotu podatku naliczonego nienależną lub wyższą od kwoty należnej i ją otrzymał – do czasu uregulowania powstałej zaległości podatkowej. ” ; ust. 5 otrzymuje brzmienie: „
     - **e)**
 
@@ -614,9 +651,9 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 
 6. Na wniosek podatnika, złożony wraz z deklaracją podatkową, urząd skarbowy jest obowiązany zwrócić różnicę podatku, o której mowa w ust. 2, w terminie 25 dni, licząc od dnia złożenia rozliczenia, w przypadku gdy kwoty podatku naliczonego, wykazane w deklaracji podatkowej, wynikają z:
 
-- **1)** faktur dokumentujących kwoty należności, które zostały w całości zapłacone, z uwzględnieniem art. 22 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.),
+- **1)** faktur dokumentujących kwoty należności, które zostały w całości zapłacone, z uwzględnieniem art. 22 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888 i Nr 171, poz. 1056.),
 - **2)** dokumentów celnych, deklaracji importowej oraz decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34, i zostały przez podatnika zapłacone,
-- **3)** importu towarów rozliczanego zgodnie z art. 33a, wewnątrzwspólnotowego nabycia towarów, importu usług lub dostawy towarów, dla której podatnikiem jest ich nabywca, jeżeli w deklaracji podatkowej została wykazana kwota podatku należnego od tych transakcji przy czym przepisy ust. 2 zdanie drugie i trzecie, ust. 2a, 4a-4f stosuje się odpowiednio. ” , ust. 7 otrzymuje brzmienie: „
+- **3)** importu towarów rozliczanego zgodnie z art. 33a, wewnątrzwspólnotowego nabycia towarów, importu usług lub dostawy towarów, dla której podatnikiem jest ich nabywca, jeżeli w deklaracji podatkowej została wykazana kwota podatku należnego od tych transakcji – przy czym przepisy ust. 2 zdanie drugie i trzecie, ust. 2a, 4a-4f stosuje się odpowiednio. ” , ust. 7 otrzymuje brzmienie: „
     - **h)**
 
 7. Różnicę podatku niezwróconą przez urząd skarbowy w terminach, o których mowa w ust. 2 zdanie pierwsze i ust. 5a, traktuje się jako nadpłatę podatku podlegającą oprocentowaniu w rozumieniu przepisów Ordynacji podatkowej. ” , uchyla się ust. 8 i 9, w ust. 11 uchyla się pkt 2, dodaje się ust. 13 w brzmieniu: „
@@ -628,7 +665,7 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 13. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:
 
 - **1)** szczegółowy sposób przyjmowania zabezpieczeń, o których mowa w ust. 2a,
-- **2)** inne niż wymienione w ust. 4a formy zabezpieczeń oraz sposób Ich przyjmowania uwzględniając konieczność zabezpieczenia zwracanej kwoty podatku. ” ;
+- **2)** inne niż wymienione w ust. 4a formy zabezpieczeń oraz sposób Ich przyjmowania – uwzględniając konieczność zabezpieczenia zwracanej kwoty podatku. ” ;
 - **43)** w art. 88: w ust. 1: – uchyla się pkt 2, – w pkt 4 uchyla się lit. a, uchyla się ust. 2 i 3;
     - **a)**
     - **b)**
@@ -746,7 +783,7 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 2e. Podatnicy rozpoczynający dokonywanie rozliczeń za okresy kwartalne, którzy w poprzednim kwartale rozliczali się za okresy miesięczne – zaliczki, o których mowa w ust. 2a, wpłacają w pierwszym kwartale, za który będą się rozliczać za okresy kwartalne, w wysokości:
 
 - **1)** za pierwszy miesiąc tego kwartału – w wysokości należnego zobowiązania podatkowego za pierwszy miesiąc ostatniego kwartału, w którym rozliczali się za okresy miesięczne,
-- **2)** za drugi miesiąc tego kwartału – w wysokości należnego zobowiązania podatkowego za drugi miesiąc ostatniego kwartału, w którym rozliczali się za okresy miesięczne przy czym przepis ust. 2c stosuje się odpowiednio.
+- **2)** za drugi miesiąc tego kwartału – w wysokości należnego zobowiązania podatkowego za drugi miesiąc ostatniego kwartału, w którym rozliczali się za okresy miesięczne – przy czym przepis ust. 2c stosuje się odpowiednio.
 
 2f. Podatnicy, o których mowa w ust. 2a-2e, mogą wpłacać zaliczki w wysokości faktycznego rozliczenia za miesiąc, za który wpłacana jest zaliczka, pod warunkiem pisemnego zawiadomienia naczelnika urzędu skarbowego. Zawiadomienie należy złożyć najpóźniej z chwilą wpłaty zaliczki za pierwszy miesiąc pierwszego kwartału, od którego zaliczki będą ustalane w wysokości określonej w zdaniu pierwszym, jednak nie później niż z upływem terminu do jej zapłaty.
 
@@ -807,14 +844,14 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 - **3)** warunki stosowania kas przez podatników,
 - **4)** warunki zorganizowania i prowadzenia serwisu kas, mające znaczenie dla ewidencjonowania,
 - **5)** okres, na który wydawane jest potwierdzenie, o którym mowa w ust. 6b,
-- **6)** terminy oraz zakres obowiązkowych przeglądów, o których mowa w ust. 6 uwzględniając potrzebę zabezpieczenia zaewidencjonowanych danych, konieczność zapewnienia konsumentowi prawa do otrzymania dowodu nabycia towarów lub usług z uwidocznioną kwotą podatku oraz możliwość kontroli przez niego czynności dotyczących prawidłowego ewidencjonowania transakcji i wystawiania dowodu potwierdzającego jej wykonanie oraz optymalne dla danego typu obrotu rozwiązania techniczne dotyczące konstrukcji kas. ” ;
+- **6)** terminy oraz zakres obowiązkowych przeglądów, o których mowa w ust. 6 – uwzględniając potrzebę zabezpieczenia zaewidencjonowanych danych, konieczność zapewnienia konsumentowi prawa do otrzymania dowodu nabycia towarów lub usług z uwidocznioną kwotą podatku oraz możliwość kontroli przez niego czynności dotyczących prawidłowego ewidencjonowania transakcji i wystawiania dowodu potwierdzającego jej wykonanie oraz optymalne dla danego typu obrotu rozwiązania techniczne dotyczące konstrukcji kas. ” ;
 - **59)** w art. 113: ust. 7 otrzymuje brzmienie: „
     - **a)**
 
 7. Przepis ust. 5 stosuje się również do podatników, którzy rezygnują ze zwolnienia, o którym mowa w:
 
 - **1)** ust. 1 lub
-- **2)** ust. 9 – w przypadku podatników rozpoczynających w trakcie roku podatkowego wykonywanie czynności określonych w art. 5, którzy wykonali pierwszą czynność pod warunkiem pisemnego zawiadomienia naczelnika urzędu skarbowego o rezygnacji ze zwolnienia przed początkiem miesiąca, w którym rezygnują ze zwolnienia. ” , uchyla się ust. 8, ust. 9–12 otrzymują brzmienie: „
+- **2)** ust. 9 – w przypadku podatników rozpoczynających w trakcie roku podatkowego wykonywanie czynności określonych w art. 5, którzy wykonali pierwszą czynność – pod warunkiem pisemnego zawiadomienia naczelnika urzędu skarbowego o rezygnacji ze zwolnienia przed początkiem miesiąca, w którym rezygnują ze zwolnienia. ” , uchyla się ust. 8, ust. 9–12 otrzymują brzmienie: „
     - **b)**
     - **c)**
 
@@ -868,19 +905,19 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 - **66)** załącznik nr 7 do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy;
 - **67)** w załączniku nr 9 do ustawy dodaje się poz. 11 w brzmieniu: „ 11 Pogrzebowy”
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) w art. 72 ust. 1a otrzymuje brzmienie: „ 1a. W przypadku gdy sprowadzany pojazd jest przedmiotem dostawy dokonanej przez podatnika podatku od towarów i usług na terytorium Rzeczypospolitej Polskiej przed dokonaniem pierwszej rejestracji na terytorium Rzeczypospolitej Polskiej, zaświadczenie:
+**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238 oraz z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649 i Nr 163, poz. 1015.) w art. 72 ust. 1a otrzymuje brzmienie: „ 1a. W przypadku gdy sprowadzany pojazd jest przedmiotem dostawy dokonanej przez podatnika podatku od towarów i usług na terytorium Rzeczypospolitej Polskiej przed dokonaniem pierwszej rejestracji na terytorium Rzeczypospolitej Polskiej, zaświadczenie:
 
 - **1)** o którym mowa w ust. 1 pkt 8 lit. a, może być zastąpione fakturą z wyszczególnioną kwotą podatku od towarów i usług potwierdzającą dokonanie tej dostawy przez tego podatnika,
-- **2)** o którym mowa w ust. 1 pkt 8 lit. b, może być zastąpione fakturą dokumentującą czynności, których podstawą opodatkowania jest marża, potwierdzającą dokonanie tej dostawy przez tego podatnika pod warunkiem że odprzedaż pojazdów stanowi przedmiot działalności tego podatnika. ” .
+- **2)** o którym mowa w ust. 1 pkt 8 lit. b, może być zastąpione fakturą dokumentującą czynności, których podstawą opodatkowania jest marża, potwierdzającą dokonanie tej dostawy przez tego podatnika – pod warunkiem że odprzedaż pojazdów stanowi przedmiot działalności tego podatnika. ” .
 
-**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671 oraz z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316 i 1318.) wprowadza się następujące zmiany:
 
 - **1)** w art. 52 po § 1 dodaje się § 1a w brzmieniu: „
 
 § 1a. Przepis § 1 pkt 2 stosuje się odpowiednio wobec:
 
 - **1)** byłego wspólnika spółki niemającej osobowości prawnej,
-- **2)** osoby fizycznej, która zaprzestała wykonywania działalności gospodarczej w zakresie zwrotu podatku dokonanego im po rozwiązaniu spółki w przypadku, o którym mowa w pkt 1, lub po zakończeniu działalności gospodarczej w przypadku, o którym mowa w pkt 2, na zasadach określonych w odrębnych przepisach. ” ;
+- **2)** osoby fizycznej, która zaprzestała wykonywania działalności gospodarczej – w zakresie zwrotu podatku dokonanego im po rozwiązaniu spółki w przypadku, o którym mowa w pkt 1, lub po zakończeniu działalności gospodarczej w przypadku, o którym mowa w pkt 2, na zasadach określonych w odrębnych przepisach. ” ;
 - **2)** w art. 53a dotychczasową treść oznacza się jako § 1 oraz dodaje się § 2 w brzmieniu: „
 
 § 2. Przepis § 1 stosuje się odpowiednio do zaliczek na podatek od towarów i usług. ” ;
@@ -976,5 +1013,5 @@ Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zw
 - **3)** posiadania oświadczeń rolników, na rzecz których dokonywane były płatności, potwierdzających posiadanie przez nich statusu rolnika ryczałtowego w momencie wypłaty zaliczki;
 - **4)** że w kwotach przekazanych należności zawarte były kwoty zryczałtowanego zwrotu podatku.
 
-**Art. 15.** Ustawa wchodzi w życie z dniem 1 grudnia 2008 r., z wyjątkiem art. 1 pkt 1 lit. b i lit. c, pkt 3 lit. b, pkt 4 lit. b, pkt 26 lit. a, lit. b w zakresie art. 33b i 33c i lit. c w zakresie art. 33c, pkt 27 w zakresie art. 33b i 33c, pkt 30 w zakresie art. 33b, pkt 34, pkt 41 lit. a tiret pierwsze w zakresie deklaracji importowej i lit. c tiret drugie w zakresie pkt 2b, pkt 42 lit. g w części dotyczącej ust. 6 pkt 2 w zakresie deklaracji importowej, pkt 52 lit. a w zakresie ust. 3–6, pkt 53 lit. a w części dotyczącej ust. 1 w zakresie art. 33b oraz ust. 2 i lit. b, pkt 54 i pkt 59, art. 3 pkt 2–5 oraz art. 4 pkt 2, które wchodzą w życie z dniem 1 stycznia 2009 r. Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zwolnienie od podatku na podstawie art. 74 ust. 1 pkt 17 ustawy Kod CN Wyszczególnienie 1 2 ex 3704 00 10 Film kinematograficzny, pozytywy – o charakterze edukacyjnym, naukowym oraz kulturalnym ex 3705 Płyty fotograficzne i film, naświetlone i wywołane, inne niż filmy kinematograficzne – o charakterze edukacyjnym, naukowym lub kulturalnym ex 3706 90 51 Kroniki filmowe (ze ścieżką dźwiękową lub bez niej) przedstawiające wydarzenia aktualne w chwili importu, oraz importowane maksymalnie w dwóch egzemplarzach z każdego tematu w celu ich skopiowania ex 3706 90 91 Archiwalne materiały filmowe (ze ścieżką dźwiękową lub bez niej) przeznaczone do użytku w związku z kronikami filmowymi ex 3706 90 99 – Filmy rekreacyjne przeznaczone w szczególności dla dzieci i młodzieży – Pozostałe filmy o charakterze edukacyjnym, naukowym lub kulturalnym Pozostałe wyroby drukowane, łącznie z drukowanymi obrazkami i fotografiami: ex 4911 91 00 – – – Pozostałe: – Mikrofisze lub inne nośniki informacji niezbędne dla komputerowych usług informacyjnych i dokumentacyjnych o charakterze edukacyjnym, naukowym lub kulturalnym – Mapy ścienne przeznaczone wyłącznie do celów edukacyjnych 4911 99 00 – – – Pozostałe ex 8524 Płyty gramofonowe, taśmy i inne zapisane nośniki do rejestracji dźwięku lub innych sygnałów, łącznie z matrycami i negatywami płyt gramofonowych stosowanych w fonografii, jednakże z wyłączeniem wyrobów działu 37: – O charakterze edukacyjnym, naukowym lub kulturalnym ex 9023 00 Przyrządy, aparaty lub modele, przeznaczone wyłącznie do celów pokazowych (np. do nauczania lub na wystawach), nienadające się do innych celów: – Wzory, modele i mapy ścienne o charakterze edukacyjnym, naukowym lub kulturalnym, przeznaczone wyłącznie do pokazu i nauczania – Makiety lub wizualizacje idei abstrakcyjnych, jak np. struktury molekularne lub wzory matematyczne, różnego typu hologramy wykorzystywane do projekcji laserowych, zestawy multimedialne, materiały do zaprogramowanych instrukcji, łącznie z materiałami w formie kompletów zawierających odpowiednie materiały drukowane Objaśnienie: ex – dotyczy tylko danego towaru z danego grupowania.”
+**Art. 15.** Ustawa wchodzi w życie z dniem 1 grudnia 2008 r., z wyjątkiem art. 1 pkt 1 lit. b i lit. c, pkt 3 lit. b, pkt 4 lit. b, pkt 26 lit. a, lit. b w zakresie art. 33b i 33c i lit. c w zakresie art. 33c, pkt 27 w zakresie art. 33b i 33c, pkt 30 w zakresie art. 33b, pkt 34, pkt 41 lit. a tiret pierwsze w zakresie deklaracji importowej i lit. c tiret drugie w zakresie pkt 2b, pkt 42 lit. g w części dotyczącej ust. 6 pkt 2 w zakresie deklaracji importowej, pkt 52 lit. a w zakresie ust. 3–6, pkt 53 lit. a w części dotyczącej ust. 1 w zakresie art. 33b oraz ust. 2 i lit. b, pkt 54 i pkt 59, art. 3 pkt 2–5 oraz art. 4 pkt 2, które wchodzą w życie z dniem 1 stycznia 2009 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2007/74/WE z dnia 20 grudnia 2007 r. w sprawie zwolnienia towarów przywożonych przez osoby podróżujące z państw trzecich z podatku od wartości dodanej i akcyzy (Dz. Urz. UE L 346 z 29.12.2007, str. 6). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, Nr 90, poz. 756, Nr 143, poz. 1199 i Nr 179, poz. 1484, z 2006 r. Nr 143, poz. 1028 i 1029, z 2007 r. Nr 168, poz. 1187 i Nr 192, poz. 1382 oraz z 2008 r. Nr 74, poz. 444, Nr 130, poz. 826 i Nr 141, poz. 888. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888 i Nr 171, poz. 1056. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238 oraz z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649 i Nr 163, poz. 1015. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671 oraz z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316 i 1318. Załącznik – Załącznik nr 7: Wykaz towarów, do których ma zastosowanie zwolnienie od podatku na podstawie art. 74 ust. 1 pkt 17 ustawy Kod CN Wyszczególnienie 1 2 ex 3704 00 10 Film kinematograficzny, pozytywy – o charakterze edukacyjnym, naukowym oraz kulturalnym ex 3705 Płyty fotograficzne i film, naświetlone i wywołane, inne niż filmy kinematograficzne – o charakterze edukacyjnym, naukowym lub kulturalnym ex 3706 90 51 Kroniki filmowe (ze ścieżką dźwiękową lub bez niej) przedstawiające wydarzenia aktualne w chwili importu, oraz importowane maksymalnie w dwóch egzemplarzach z każdego tematu w celu ich skopiowania ex 3706 90 91 Archiwalne materiały filmowe (ze ścieżką dźwiękową lub bez niej) przeznaczone do użytku w związku z kronikami filmowymi ex 3706 90 99 – Filmy rekreacyjne przeznaczone w szczególności dla dzieci i młodzieży – Pozostałe filmy o charakterze edukacyjnym, naukowym lub kulturalnym Pozostałe wyroby drukowane, łącznie z drukowanymi obrazkami i fotografiami: ex 4911 91 00 – – – Pozostałe: – Mikrofisze lub inne nośniki informacji niezbędne dla komputerowych usług informacyjnych i dokumentacyjnych o charakterze edukacyjnym, naukowym lub kulturalnym – Mapy ścienne przeznaczone wyłącznie do celów edukacyjnych 4911 99 00 – – – Pozostałe ex 8524 Płyty gramofonowe, taśmy i inne zapisane nośniki do rejestracji dźwięku lub innych sygnałów, łącznie z matrycami i negatywami płyt gramofonowych stosowanych w fonografii, jednakże z wyłączeniem wyrobów działu 37: – O charakterze edukacyjnym, naukowym lub kulturalnym ex 9023 00 Przyrządy, aparaty lub modele, przeznaczone wyłącznie do celów pokazowych (np. do nauczania lub na wystawach), nienadające się do innych celów: – Wzory, modele i mapy ścienne o charakterze edukacyjnym, naukowym lub kulturalnym, przeznaczone wyłącznie do pokazu i nauczania – Makiety lub wizualizacje idei abstrakcyjnych, jak np. struktury molekularne lub wzory matematyczne, różnego typu hologramy wykorzystywane do projekcji laserowych, zestawy multimedialne, materiały do zaprogramowanych instrukcji, łącznie z materiałami w formie kompletów zawierających odpowiednie materiały drukowane Objaśnienie: ex – dotyczy tylko danego towaru z danego grupowania.”
 

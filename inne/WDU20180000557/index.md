@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 marca 2018 r. zmieniające rozporządzenie w sprawie wprowadzenia „Krajowego programu zwalczania niektórych serotypów Salmonella w stadach hodowlanych gatunku kura (Gallus gallus)” na lata 2017–2019
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 7 marca 2018 r. zmieniające rozporządzenie w sprawie wprowadzenia „Krajowego programu zwalczania niektórych serotypów Salmonella w stadach hodowlanych gatunku kura (Gallus gallus)” na lata 2017–2019 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-07 |
 | Data wydania | 2018-03-16 |
-| Wejście w życie | 2018-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000557) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/557/text.pdf) |
 
@@ -35,9 +34,7 @@ w ust. 1.7 akapit czwarty otrzymuje brzmienie: „ Próbki pobrane z inicjatywy 
 2)
 ust. 1.8 otrzymuje brzmienie:
 1.8.
-Metoda stosowana do wykrywania serotypów Salmonella w stadach hodowlanych gatunku kura (Gallus gallus) Metoda stosowana do wykrywania serotypów Salmonella w stadach hodowlanych gatunku kura ( Gallus gallus ) jest określona w ust. 3.2 załącznika do rozporządzenia nr 200/2010.
-” .
+Metoda stosowana do wykrywania serotypów Salmonella w stadach hodowlanych gatunku kura (Gallus gallus) Metoda stosowana do wykrywania serotypów Salmonella w stadach hodowlanych gatunku kura ( Gallus gallus ) jest określona w ust. 3.2 załącznika do rozporządzenia nr 200/2010. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 

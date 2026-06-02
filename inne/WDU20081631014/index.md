@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-25 |
 | Data wydania | 2008-09-10 |
-| Wejście w życie | 2008-09-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081631014) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1014/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2003 r. Nr 188, poz. 1848, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2003 r. Nr 188, poz. 1848, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 99, poz. 1001, z 2005 r. Nr 122, poz. 1024, z 2006 r. Nr 94, poz. 651 oraz z 2007 r. Nr 125, poz. 873.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 po § 2 dodaje się § 2a w brzmieniu: „
 
 § 2a. Osoby fizyczne oraz osoby prawne prowadzące gospodarstwo rolne w rozumieniu przepisów o podatku rolnym lub prowadzące działalność rolniczą w zakresie działów specjalnych produkcji rolnej wyłącznie w celu organizowania się:
 
-- **1)** w grupy producentów rolnych w rozumieniu ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. Nr 88, poz. 983, z późn. zm.),
-- **2)** we wstępnie uznane grupy producentów owoców i warzyw oraz uznane organizacje producentów owoców i warzyw w rozumieniu ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. z 2008 r. Nr 11, poz. 70, Nr 52, poz. 303 i Nr 158, poz. 989) mogą założyć spółdzielnię, której liczba założycieli nie może być mniejsza od pięciu. ” ;
+- **1)** w grupy producentów rolnych w rozumieniu ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. Nr 88, poz. 983, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 229, poz. 2273, z 2004 r. Nr 162, poz. 1694, z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 251, poz. 1847 oraz z 2008 r. Nr 98, poz. 634.),
+- **2)** we wstępnie uznane grupy producentów owoców i warzyw oraz uznane organizacje producentów owoców i warzyw w rozumieniu ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. z 2008 r. Nr 11, poz. 70, Nr 52, poz. 303 i Nr 158, poz. 989) – mogą założyć spółdzielnię, której liczba założycieli nie może być mniejsza od pięciu. ” ;
 - **2)** w art. 15 § 1 otrzymuje brzmienie: „
 
 § 1. Spółdzielnia liczy co najmniej dziesięciu członków, a spółdzielnia produkcji rolnej oraz spółdzielnia, o której mowa w art. 6 § 2a, co najmniej pięciu członków, o ile statut nie wymaga liczby większej. ” ;
@@ -42,5 +41,5 @@ source: "eli-html"
 
 **Art. 46a.** W spółdzielni, o której mowa w art. 6 § 2a, oraz w spółdzielni produkcji rolnej, w której liczba członków nie przekracza dziesięciu, nie powołuje się rady, o ile statut nie stanowi inaczej. W tym przypadku kompetencje rady wykonuje walne zgromadzenie członków. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 99, poz. 1001, z 2005 r. Nr 122, poz. 1024, z 2006 r. Nr 94, poz. 651 oraz z 2007 r. Nr 125, poz. 873. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 229, poz. 2273, z 2004 r. Nr 162, poz. 1694, z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 251, poz. 1847 oraz z 2008 r. Nr 98, poz. 634.
 

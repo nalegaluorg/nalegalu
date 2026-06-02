@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-24 |
 | Data wydania | 2015-06-29 |
-| Wejście w życie | 2015-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000905) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/905/text.pdf) |
 
@@ -58,7 +57,7 @@ source: "eli-html"
 4a. Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe wymagania, jakim powinny odpowiadać pomieszczenia, urządzenia i obiekty podmiotów leczniczych będących jednostkami budżetowymi i jednostkami wojskowymi, dla których podmiotem tworzącym jest Minister Obrony Narodowej,
-- **2)** standardy postępowania medycznego w podmiotach leczniczych, określonych w pkt 1 kierując się potrzebą zapewnienia bezpieczeństwa zdrowotnego osób, a także rodzajem i miejscem prowadzonej działalności oraz zakresem udzielanych świadczeń zdrowotnych. ” ;
+- **2)** standardy postępowania medycznego w podmiotach leczniczych, określonych w pkt 1 – kierując się potrzebą zapewnienia bezpieczeństwa zdrowotnego osób, a także rodzajem i miejscem prowadzonej działalności oraz zakresem udzielanych świadczeń zdrowotnych. ” ;
 - **8)** w art. 34 w ust. 4 pkt 1 otrzymuje brzmienie: „
 - **1)** utworzonego przez Ministra Obrony Narodowej występuje do wojewody z wnioskiem, o którym mowa w ust. 3, po uzyskaniu zgody Ministra Obrony Narodowej; ” ;
 - **9)** w art. 37: ust. 5 otrzymuje brzmienie: „
@@ -84,7 +83,7 @@ source: "eli-html"
 - **13)** w art. 83 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Tworzenie, przekształcenie i likwidacja podmiotu leczniczego w formie jednostki budżetowej oraz jednostki wojskowej następuje w drodze: ” ;
 - **14)** w art. 86 dodaje się ust. 3 w brzmieniu: „
 
-3. W odniesieniu do działalności leczniczej wykonywanej przez jednostkę wojskową prawa i obowiązki w zakresie prowadzenia rachunkowości i sprawozdawczości, gospodarowania mieniem oraz gromadzenia i rozdysponowywania środków publicznych są wykonywane przez kierownika właściwej dla tego podmiotu leczniczego państwowej jednostki budżetowej, utworzonej przez Ministra Obrony Narodowej, na zasadach i w trybie określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.). ” ;
+3. W odniesieniu do działalności leczniczej wykonywanej przez jednostkę wojskową prawa i obowiązki w zakresie prowadzenia rachunkowości i sprawozdawczości, gospodarowania mieniem oraz gromadzenia i rozdysponowywania środków publicznych są wykonywane przez kierownika właściwej dla tego podmiotu leczniczego państwowej jednostki budżetowej, utworzonej przez Ministra Obrony Narodowej, na zasadach i w trybie określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238 i 532.). ” ;
 
 - **15)** po art. 99 dodaje się art. 99a w brzmieniu: „
 
@@ -98,5 +97,5 @@ source: "eli-html"
 
 2. Akt wykonawczy wydany na podstawie art. 10 ust. 5 ustawy, o której mowa w art. 220 pkt 1, zachowuje moc przez okres 5 lat od dnia wejścia w życie niniejszej ustawy. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 30 czerwca 2015 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 30 czerwca 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238 i 532.
 

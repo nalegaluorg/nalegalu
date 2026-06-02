@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-18 |
 | Data wydania | 2017-08-28 |
-| Wejście w życie | 2017-08-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1598/text.pdf) |
 
@@ -34,10 +33,21 @@ W roku szkolnym 2017/2018 wysokość:
 środków finansowych przeznaczonych na wypłatę:
 a)
 pomocy krajowej i pomocy unijnej w ramach finansowania programu dla szkół, przeznaczonych na realizację działań, o których mowa w art. 5 ust. 1 lit. a rozporządzenia delegowanego Komisji (UE) 2017/40 z dnia 3 listopada 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do pomocy unijnej na dostarczanie owoców i warzyw, bananów oraz mleka do placówek oświatowych oraz zmieniającego rozporządzenie delegowane Komisji (UE) nr 907/2014 (Dz. Urz. UE L 5 z 10.01.2017, str. 11), zwanego dalej „rozporządzeniem 2017/40”, wynosi 233 479 456,40 zł, z tym że wkład z budżetu:
-– Unii Europejskiej stanowi 105 379 456,40 zł, w tym: – – 60 626 823,60 zł – na dostarczanie owoców i warzyw, o których mowa w przepisach wydanych na podstawie art. 38x ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, zwanej dalej „ustawą”, – – 44 752 632,80 zł – na dostarczanie mleka i przetworów mlecznych, o których mowa w przepisach wydanych na podstawie art. 38x ust. 1 ustawy, – państwa stanowi 128 100 000 zł, w tym: – – 64 050 000 zł – na dostarczanie owoców i warzyw, o których mowa w przepisach wydanych na podstawie art. 38x ust. 1 ustawy, – – 64 050 000 zł – na dostarczanie mleka i przetworów mlecznych, o których mowa w przepisach wydanych na podstawie art. 38x ust. 1 ustawy,
+Unii Europejskiej stanowi 105 379 456,40 zł, w tym:
+– – 60 626 823,60 zł – na dostarczanie owoców i warzyw, o których mowa w przepisach wydanych na podstawie art. 38x ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, zwanej dalej „ustawą”,
+– – 44 752 632,80 zł – na dostarczanie mleka i przetworów mlecznych, o których mowa w przepisach wydanych na podstawie art. 38x ust. 1 ustawy,
+państwa stanowi 128 100 000 zł, w tym:
+– – 64 050 000 zł – na dostarczanie owoców i warzyw, o których mowa w przepisach wydanych na podstawie art. 38x ust. 1 ustawy,
+– – 64 050 000 zł – na dostarczanie mleka i przetworów mlecznych, o których mowa w przepisach wydanych na podstawie art. 38x ust. 1 ustawy,
 b)
 pomocy unijnej w ramach finansowania programu dla szkół, przeznaczonych na realizację działań, o których mowa w:
-– art. 5 ust. 1 lit. b rozporządzenia 2017/40, wynosi 5 934 403,91 zł, w tym: – – 3 715 561,73 zł – w zakresie dotyczącym owoców i warzyw, – – 2 218 842,18 zł – w zakresie dotyczącym mleka i przetworów mlecznych, – art. 5 ust. 1 lit. c i d rozporządzenia 2017/40, wynosi 3 500 000 zł, w tym: – – 1 750 000 zł – w zakresie dotyczącym owoców i warzyw, – – 1 750 000 zł – w zakresie dotyczącym mleka i przetworów mlecznych – przy czym na ocenę realizacji programu dla szkół – nie więcej niż 500 000 zł;
+art. 5 ust. 1 lit. b rozporządzenia 2017/40, wynosi 5 934 403,91 zł, w tym:
+– – 3 715 561,73 zł – w zakresie dotyczącym owoców i warzyw,
+– – 2 218 842,18 zł – w zakresie dotyczącym mleka i przetworów mlecznych,
+art. 5 ust. 1 lit. c i d rozporządzenia 2017/40, wynosi 3 500 000 zł, w tym:
+– – 1 750 000 zł – w zakresie dotyczącym owoców i warzyw,
+– – 1 750 000 zł – w zakresie dotyczącym mleka i przetworów mlecznych
+– przy czym na ocenę realizacji programu dla szkół – nie więcej niż 500 000 zł;
 2)
 stawek pomocy finansowej z tytułu realizacji działań, o których mowa w art. 5 ust. 1 lit. a rozporządzenia 2017/40, wynosi:
 a)

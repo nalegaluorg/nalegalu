@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Naukiz dnia 12 września 2024 r. w sprawie udzielania pomocy publicznej za pośrednictwem Centrum Łukasiewicz
+# Rozporządzenie Ministra Naukiz dnia 12 września 2024 r. w sprawie udzielania pomocy publicznej za pośrednictwem Centrum Łukasiewicz Minister Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Nauki (Dz. U. poz. 2716).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-12 |
 | Data wydania | 2024-09-30 |
-| Wejście w życie | 2024-10-15 |
 | Ostatnia zmiana | 2024-10-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001438) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1438/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych oraz przygotowanie studiów wykonalności Rozdział 3 – Pomoc w ramach wyłączeń grupowych na wspieranie innowacyjności Rozdział 4 – Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury Rozdział 5 – Pomoc w ramach wyłączeń grupowych na wspieranie przedsiębiorców rozpoczynających prowadzenie działalności B+R+I Rozdział 6 – Pomoc w ramach wyłączeń grupowych na usługi doradcze Rozdział 7 – Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze Rozdział 8 – Pomoc de minimis Rozdział 9 – Przepis przejściowy i przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 34l ust. 2 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2024 r. poz. 925 i 1089) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki i tryb udzielania pomocy publicznej za pośrednictwem Centrum Łukasiewicz, w tym:
 1)
@@ -42,7 +42,7 @@ maksymalne wielkości pomocy.
 § 2.
 Pomoc publiczna może być udzielana za pośrednictwem Centrum Łukasiewicz jako:
 1)
-pomoc zgodna z przepisami rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”, przeznaczona na:
+pomoc zgodna z przepisami rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1., zwanego dalej „rozporządzeniem nr 651/2014”, przeznaczona na:
 a)
 prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych oraz przygotowanie studiów wykonalności – zgodnie z art. 25 rozporządzenia nr 651/2014,
 b)
@@ -54,8 +54,7 @@ wspieranie przedsiębiorców rozpoczynających prowadzenie działalności badawc
 e)
 usługi doradcze – zgodnie z art. 18 rozporządzenia nr 651/2014,
 f)
-wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze – zgodnie z art. 14 rozporządzenia nr 651/2014
-zwana dalej „pomocą w ramach wyłączeń grupowych”;
+wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze – zgodnie z art. 14 rozporządzenia nr 651/2014 – zwana dalej „pomocą w ramach wyłączeń grupowych”;
 2)
 pomoc de minimis zgodna z przepisami rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023), zwanego dalej „rozporządzeniem 2023/2831”, przeznaczona na wspieranie komercjalizacji oraz innych form transferu do gospodarki wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych lub know-how związanego z tymi wynikami.
 § 3.
@@ -68,7 +67,7 @@ jest uwarunkowana pierwszeństwem użycia towarów produkcji krajowej w stosunku
 3)
 jest udzielana w sektorze:
 a)
-rybołówstwa i akwakultury zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającym rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającym rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.), z wyłączeniem pomocy, o której mowa w § 2 pkt 1 lit. a-d,
+rybołówstwa i akwakultury zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającym rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającym rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 133 z 29.05.2015, str. 1., z wyłączeniem pomocy, o której mowa w § 2 pkt 1 lit. a-d,
 b)
 produkcji podstawowej produktów rolnych, z wyłączeniem pomocy, o której mowa w § 2 pkt 1 lit. a-e,
 c)
@@ -114,7 +113,7 @@ mikro-, małym lub średnim przedsiębiorcy – oznacza to mikro-, małe lub śr
 3)
 dużym przedsiębiorcy – oznacza to przedsiębiorcę innego niż określony w pkt 2;
 4)
-organizacji badawczej – oznacza to podmiot systemu szkolnictwa wyższego i nauki, o którym mowa w art. 7 ust. 1 pkt 1, 2, 4–6 i 6b-8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.), będący organizacją prowadzącą badania i upowszechniającą wiedzę w rozumieniu art. 2 pkt 83 rozporządzenia nr 651/2014;
+organizacji badawczej – oznacza to podmiot systemu szkolnictwa wyższego i nauki, o którym mowa w art. 7 ust. 1 pkt 1, 2, 4–6 i 6b-8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.), będący organizacją prowadzącą badania i upowszechniającą wiedzę w rozumieniu art. 2 pkt 83 rozporządzenia nr 651/2014;
 5)
 badaniach podstawowych – oznacza to badania podstawowe w rozumieniu art. 2 pkt 84 rozporządzenia nr 651/2014;
 6)
@@ -130,8 +129,7 @@ O otrzymanie pomocy publicznej, o której mowa w § 2, mogą ubiegać się:
 1)
 przedsiębiorca,
 2)
-grupa podmiotów, w skład której wchodzi co najmniej jedna organizacja badawcza i co najmniej jeden przedsiębiorca
-spełniający warunek, o którym mowa w art. 34b ust. 2 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz.
+grupa podmiotów, w skład której wchodzi co najmniej jedna organizacja badawcza i co najmniej jeden przedsiębiorca – spełniający warunek, o którym mowa w art. 34b ust. 2 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz.
 § 6.
 Jeżeli przedsiębiorca ubiegający się o otrzymanie pomocy publicznej, o której mowa w § 2, prowadzi działalność w sektorach, o których mowa w § 3 ust. 1 pkt 3 albo ust. 2 pkt 3, w związku z którą nie może być udzielona taka pomoc, oraz inną działalność, pomoc może zostać mu udzielona pod warunkiem, że przedsiębiorca ten zobowiąże się do:
 1)
@@ -223,15 +221,13 @@ h)
 i)
 60 % tych kosztów – równowartości 49 500 000 euro na przedsiębiorcę i na projekt,
 j)
-70 % tych kosztów – równowartości 57 750 000 euro na przedsiębiorcę i na projekt
-w przypadku pomocy, o której mowa w § 2 pkt 1 lit. f.
+70 % tych kosztów – równowartości 57 750 000 euro na przedsiębiorcę i na projekt – w przypadku pomocy, o której mowa w § 2 pkt 1 lit. f.
 2.
 Pomoc w ramach wyłączeń grupowych, o której mowa w § 2 pkt 1 lit. a, na wykonanie projektu:
 1)
 w ramach inicjatywy Eureka lub
 2)
-przez wspólne przedsiębiorstwo utworzone na podstawie art. 185 albo art. 187 Traktatu o funkcjonowaniu Unii Europejskiej, zwanego dalej „Traktatem”
-może zostać udzielona, jeżeli jej wielkość nie przekracza dwukrotności kwot, o których mowa w ust. 1 pkt 1–3.
+przez wspólne przedsiębiorstwo utworzone na podstawie art. 185 albo art. 187 Traktatu o funkcjonowaniu Unii Europejskiej, zwanego dalej „Traktatem” – może zostać udzielona, jeżeli jej wielkość nie przekracza dwukrotności kwot, o których mowa w ust. 1 pkt 1–3.
 3.
 Jeżeli pomoc w ramach wyłączeń grupowych, o której mowa w § 2 pkt 1 lit. a, jest udzielana w formie zaliczek zwrotnych, które – przy braku przyjętej metody obliczania ekwiwalentu dotacji brutto – są wyrażone jako odsetek kosztów kwalifikowalnych, a umowa z przedsiębiorcą, na podstawie której środki finansowe stanowiące pomoc są wypłacane, przewiduje, że w przypadku zakładanego rezultatu projektu, na podstawie rozsądnej i ostrożnej hipotezy, zaliczki zostaną spłacone przy zastosowaniu stopy procentowej równej co najmniej stopie dyskontowej obowiązującej w dniu udzielenia pomocy, to kwoty, o których mowa w ust. 1 pkt 1–3, i kwoty ustalone zgodnie z ust. 2 są zwiększane o 50 %.
 § 10.
@@ -272,8 +268,8 @@ kopie wszystkich zaświadczeń o otrzymanej pomocy de minimis oraz pomocy de min
 b)
 informacje dotyczące zmian w zakresie prowadzonej działalności gospodarczej,
 c)
-informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na pokrycie których ma być przeznaczona pomoc de minimis , określone w przepisach wydanych na podstawie art. 37 ust. 2a ustawy o pomocy publicznej
-dotyczące okresu od dnia złożenia wniosku, w odniesieniu do tego przedsiębiorcy i do wszystkich przedsiębiorców pozostających z nim w jakimkolwiek stosunku prawnym, o którym mowa w art. 2 ust. 2 rozporządzenia 2023/2831.
+informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na pokrycie których ma być przeznaczona pomoc de minimis , określone w przepisach wydanych na podstawie art. 37 ust. 2a ustawy o pomocy publicznej – dotyczące okresu od dnia złożenia wniosku, w odniesieniu do tego przedsiębiorcy i do wszystkich przedsiębiorców pozostających z nim w jakimkolwiek stosunku prawnym, o którym mowa w art. 2 ust. 2 rozporządzenia 2023/2831.
+Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych oraz przygotowanie studiów wykonalności
 § 13.
 1.
 W przypadku pomocy w ramach wyłączeń grupowych udzielanej na projekt obejmujący badania podstawowe, badania przemysłowe lub eksperymentalne prace rozwojowe kosztami kwalifikowalnymi są koszty:
@@ -325,14 +321,14 @@ przedsiębiorca zobowiązuje się do terminowego udostępnienia do użytku przez
 d)
 projekt jest wykonywany na obszarze objętym pomocą, który spełnia warunki określone w art. 107 ust. 3 lit. a Traktatu,
 4)
-5 punktów procentowych, jeżeli projekt jest wykonywany na obszarze objętym pomocą, który spełnia warunki określone w art. 107 ust. 3 lit. c Traktatu
-do maksymalnie 80 % kosztów kwalifikowalnych, o których mowa w § 13 ust. 1, z wykluczeniem możliwości jednoczesnego stosowania zwiększeń, o których mowa w pkt 3 i 4.
+5 punktów procentowych, jeżeli projekt jest wykonywany na obszarze objętym pomocą, który spełnia warunki określone w art. 107 ust. 3 lit. c Traktatu – do maksymalnie 80 % kosztów kwalifikowalnych, o których mowa w § 13 ust. 1, z wykluczeniem możliwości jednoczesnego stosowania zwiększeń, o których mowa w pkt 3 i 4.
 2.
 W przypadku studiów wykonalności intensywność pomocy w ramach wyłączeń grupowych określona w § 14 pkt 4 ulega zwiększeniu o:
 1)
 10 punktów procentowych – dla średnich przedsiębiorców;
 2)
 20 punktów procentowych – dla mikro- i małych przedsiębiorców.
+Pomoc w ramach wyłączeń grupowych na wspieranie innowacyjności
 § 16.
 Pomoc w ramach wyłączeń grupowych na wspieranie innowacyjności jest udzielana mikro-, małemu albo średniemu przedsiębiorcy.
 § 17.
@@ -352,6 +348,7 @@ z wykorzystaniem infrastruktur badawczych w rozumieniu art. 2 pkt 91 rozporządz
 Intensywność pomocy w ramach wyłączeń grupowych na wspieranie innowacyjności nie może przekroczyć 50 % kosztów kwalifikowalnych, o których mowa w § 17.
 2.
 Intensywność pomocy w ramach wyłączeń grupowych na wspieranie innowacyjności przeznaczonej na pokrycie kosztów kwalifikowalnych, o których mowa w § 17 pkt 3, może zostać zwiększona do 100 % tych kosztów pod warunkiem, że całkowita wielkość tej pomocy nie przekroczy równowartości 220 000 euro dla jednego przedsiębiorcy w okresie 3 lat poprzedzających złożenie wniosku.
+Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury
 § 19.
 Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury jest udzielana, jeżeli projekt znajduje się w sferze zainteresowania wszystkich przedsiębiorców działających w tym sektorze.
 § 20.
@@ -376,6 +373,7 @@ Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań 
 W przypadku pomocy w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury kosztami kwalifikowalnymi są koszty, o których mowa w § 13 ust. 1. Do ustalania dodatkowych kosztów ogólnych i innych operacyjnych stosuje się przepis § 13 ust. 2.
 § 24.
 Intensywność pomocy w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury nie może przekroczyć 100 % kosztów kwalifikowalnych, o których mowa w § 13 ust. 1.
+Pomoc w ramach wyłączeń grupowych na wspieranie przedsiębiorców rozpoczynających prowadzenie działalności B+R+I
 § 25.
 1.
 Pomoc w ramach wyłączeń grupowych na wspieranie przedsiębiorców rozpoczynających prowadzenie działalności B+R+I jest udzielana małemu przedsiębiorcy, który nie był notowany na giełdzie w okresie 5 lat od dnia wpisania do właściwego rejestru albo ewidencji i spełnia łącznie następujące warunki:
@@ -386,8 +384,7 @@ nie przejął:
 a)
 działalności innego przedsiębiorcy, chyba że obrót z przejmowanej działalności,
 b)
-innego przedsiębiorcy, chyba że obrót przejętego przedsiębiorcy
-stanowi mniej niż 10 % obrotu małego przedsiębiorcy, który dokonał przejęcia, w roku obrotowym poprzedzającym przejęcie;
+innego przedsiębiorcy, chyba że obrót przejętego przedsiębiorcy – stanowi mniej niż 10 % obrotu małego przedsiębiorcy, który dokonał przejęcia, w roku obrotowym poprzedzającym przejęcie;
 3)
 nie powstał w wyniku połączenia, chyba że:
 a)
@@ -434,6 +431,7 @@ kombinacji form, o których mowa w pkt 1–3, pod warunkiem że odsetek kwoty pr
 przeniesienia na małego przedsiębiorcę, o którym mowa w § 25, praw własności intelektualnej albo przyznania temu przedsiębiorcy powiązanych praw dostępu, bezpłatnie albo poniżej wartości rynkowej, przez organizację badawczą, która samodzielnie albo wspólnie z innym podmiotem opracowała przedmiot przenoszonego lub przyznawanego prawa, na warunkach określonych w art. 22 ust. 7 rozporządzenia nr 651/2014.
 § 27.
 W przypadku małych przedsiębiorców spełniających kryteria przedsiębiorstwa innowacyjnego w rozumieniu art. 2 pkt 80 rozporządzenia nr 651/2014 maksymalne wielkości pomocy, o których mowa w § 26, ulegają podwojeniu.
+Pomoc w ramach wyłączeń grupowych na usługi doradcze
 § 28.
 Pomoc w ramach wyłączeń grupowych na usługi doradcze jest udzielana mikro-, małemu albo średniemu przedsiębiorcy, który:
 1)
@@ -450,6 +448,7 @@ niemających charakteru ciągłego ani okresowego;
 niezwiązanych ze zwykłymi kosztami operacyjnymi przedsiębiorcy, takimi jak stałe usługi doradztwa podatkowego, regularne usługi prawnicze lub reklama.
 § 30.
 Intensywność pomocy w ramach wyłączeń grupowych na usługi doradcze nie może przekroczyć 50 % kosztów kwalifikowalnych, o których mowa w § 29.
+Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze
 § 31.
 Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie:
 1)
@@ -459,8 +458,7 @@ mikro-, małemu albo średniemu przedsiębiorcy, realizującemu tę inwestycję 
 b)
 dużemu przedsiębiorcy realizującemu tę inwestycję na obszarze wszystkich województw, z wyłączeniem województwa dolnośląskiego i województwa wielkopolskiego oraz obszarów regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola,
 2)
-inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze – jest udzielana dużemu przedsiębiorcy realizującemu tę inwestycję na obszarze województw dolnośląskiego i wielkopolskiego oraz na obszarach regionu warszawskiego stołecznego należących do gmin Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym lub Żabia Wola
-jako regionalna pomoc inwestycyjna.
+inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze – jest udzielana dużemu przedsiębiorcy realizującemu tę inwestycję na obszarze województw dolnośląskiego i wielkopolskiego oraz na obszarach regionu warszawskiego stołecznego należących do gmin Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym lub Żabia Wola – jako regionalna pomoc inwestycyjna.
 § 32.
 Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze, jest udzielana przedsiębiorcy po zapewnieniu spełnienia warunków, o których mowa w art. 14 ust. 5 i 16 rozporządzenia nr 651/2014.
 § 33.
@@ -511,6 +509,7 @@ W przypadku pomocy na nabycie aktywów zakładu, który został zamknięty albo 
 Maksymalną intensywność pomocy w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze, na pokrycie kosztów kwalifikowalnych, o których mowa w § 33 ust. 1, określa się zgodnie z przepisami wydanymi na podstawie art. 10 ust. 2 ustawy o pomocy publicznej.
 § 35.
 Maksymalną wielkość pomocy w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze, oblicza się, uwzględniając warunki, o których mowa w art. 14 ust. 12–14 rozporządzenia nr 651/2014.
+Pomoc de minimis
 § 36.
 1.
 W przypadku pomocy de minimis kosztami kwalifikowalnymi są koszty:
@@ -535,10 +534,10 @@ Koszty, o których mowa w:
 1)
 ust. 1 pkt 4, uwzględnia się do wysokości 70 %,
 2)
-ust. 1 pkt 8, uwzględnia się do wysokości 15 %
-całkowitych kosztów kwalifikowalnych projektu.
+ust. 1 pkt 8, uwzględnia się do wysokości 15 % – całkowitych kosztów kwalifikowalnych projektu.
 § 37.
 Intensywność pomocy de minimis nie może przekroczyć 90 % wartości kosztów kwalifikowalnych, o których mowa w § 36 ust. 1.
+Przepis przejściowy i przepis końcowy
 § 38.
 1.
 Pomoc w ramach wyłączeń grupowych, o której mowa w:
@@ -549,24 +548,41 @@ Pomoc w ramach wyłączeń grupowych, o której mowa w:
 2.
 Pomoc de minimis może być udzielana do końca okresu, o którym mowa w art. 7 ust. 3 rozporządzenia 2023/2381, w związku z art. 8 zdanie drugie tego rozporządzenia.
 § 39.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Nauki (Dz. U. poz. 2716). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 133 z 29.05.2015, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Nauki (Dz. U. poz. 2716). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 133 z 29.05.2015, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych oraz przygotowanie studiów wykonalności
+#### Rozdział 2 – Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych oraz przygotowanie studiów wykonalności
 
-#### Rozdział 3 Pomoc w ramach wyłączeń grupowych na wspieranie innowacyjności
+#### Rozdział 3 – Pomoc w ramach wyłączeń grupowych na wspieranie innowacyjności
 
-#### Rozdział 4 Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury
+#### Rozdział 4 – Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury
 
-#### Rozdział 5 Pomoc w ramach wyłączeń grupowych na wspieranie przedsiębiorców rozpoczynających prowadzenie działalności B+R+I
+#### Rozdział 5 – Pomoc w ramach wyłączeń grupowych na wspieranie przedsiębiorców rozpoczynających prowadzenie działalności B+R+I
 
-#### Rozdział 6 Pomoc w ramach wyłączeń grupowych na usługi doradcze
+#### Rozdział 6 – Pomoc w ramach wyłączeń grupowych na usługi doradcze
 
-#### Rozdział 7 Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze
+#### Rozdział 7 – Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych, które zapoczątkowują nową działalność gospodarczą na danym obszarze
 
-#### Rozdział 8 Pomoc de minimis
+#### Rozdział 8 – Pomoc de minimis
 
-#### Rozdział 9 Przepis przejściowy i przepis końcowy
+#### Rozdział 9 – Przepis przejściowy i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
 

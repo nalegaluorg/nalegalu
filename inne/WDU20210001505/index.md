@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 lipca 2021 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw
+# Ustawa z dnia 23 lipca 2021 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-23 |
 | Data wydania | 2021-08-17 |
-| Wejście w życie | 2021-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001505) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1505/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 27 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej oraz ustawę z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw.
+Przepisy epizodyczne
 
 **Art. 1.** W ustawie z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2020 r. poz. 247 i 1565 oraz z 2021 r. poz. 234 i 1093) wprowadza się następujące zmiany:
 
@@ -49,7 +51,7 @@ source: "eli-html"
 
 1. Limit emisji uznaje się za spełniony przez jednostkę rynku mocy, jeśli żadna z jednostek wytwórczych wchodzących w skład jednostek fizycznych tworzących daną jednostkę rynku mocy nie przekroczyła limitu emisji w danym roku dostaw.
 
-2. Jednostkowa emisja dwutlenku węgla w odniesieniu do jednostki wytwórczej wyznaczana jest zgodnie z wzorem: \( EJ = {{0,0036 \cdot \left( {1 – T_{CO2} } \right) \cdot \sum\nolimits_{p = 1}^{p = n} {U_p \cdot WE_p } } \over {\eta _{proj} }} \) gdzie: EJ – oznacza jednostkową emisję dwutlenku węgla danej jednostki wytwórczej, wyrażoną w gCO2/kWh, tCO2 – oznacza udział emisji dwutlenku węgla, która została przeniesiona z jednostki wytwórczej, a następnie wykorzystana w sposób, o którym mowa w art. 49 ust. 1 lit. a lub b rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1, z późn. zm.) , w całkowitej emisji tej jednostki, wyrażony w %, p – oznacza paliwo, n – oznacza liczbę paliw wykorzystywanych w danej jednostce wytwórczej, Up – oznacza udział energetyczny danego paliwa w całym paliwie dostarczanym do danej jednostki wytwórczej, w okresie całego roku kalendarzowego, wyrażony w %, WEp – oznacza wskaźnik emisji dwutlenku węgla dla danego paliwa, wyznaczony tak jak na potrzeby raportowania emisji określonych w rozporządzeniu wykonawczym Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającym rozporządzenie Komisji (UE) nr 601/2012, wyrażony w kgCO2/TJ, ηproj- oznacza sprawność w warunkach projektowych wytwarzania energii elektrycznej w danej jednostce wytwórczej, liczoną jako iloraz mocy elektrycznej netto i całkowitego zużycia paliwa, w warunkach projektowych przy mocy osiągalnej netto, uwzględniając wyniki pomiarów eksploatacyjnych, gwarancyjnych lub pomodernizacyjnych w zależności od tego, które z nich są najnowsze.
+2. Jednostkowa emisja dwutlenku węgla w odniesieniu do jednostki wytwórczej wyznaczana jest zgodnie z wzorem: \( EJ = {{0,0036 \cdot \left( {1 – T_{CO2} } \right) \cdot \sum\nolimits_{p = 1}^{p = n} {U_p \cdot WE_p } } \over {\eta _{proj} }} \) gdzie: EJ – oznacza jednostkową emisję dwutlenku węgla danej jednostki wytwórczej, wyrażoną w gCO2/kWh, tCO2 – oznacza udział emisji dwutlenku węgla, która została przeniesiona z jednostki wytwórczej, a następnie wykorzystana w sposób, o którym mowa w art. 49 ust. 1 lit. a lub b rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1, z późn. zm.) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 423 z 15.12.2020, str. 37., w całkowitej emisji tej jednostki, wyrażony w %, p – oznacza paliwo, n – oznacza liczbę paliw wykorzystywanych w danej jednostce wytwórczej, Up – oznacza udział energetyczny danego paliwa w całym paliwie dostarczanym do danej jednostki wytwórczej, w okresie całego roku kalendarzowego, wyrażony w %, WEp – oznacza wskaźnik emisji dwutlenku węgla dla danego paliwa, wyznaczony tak jak na potrzeby raportowania emisji określonych w rozporządzeniu wykonawczym Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającym rozporządzenie Komisji (UE) nr 601/2012, wyrażony w kgCO2/TJ, ηproj- oznacza sprawność w warunkach projektowych wytwarzania energii elektrycznej w danej jednostce wytwórczej, liczoną jako iloraz mocy elektrycznej netto i całkowitego zużycia paliwa, w warunkach projektowych przy mocy osiągalnej netto, uwzględniając wyniki pomiarów eksploatacyjnych, gwarancyjnych lub pomodernizacyjnych w zależności od tego, które z nich są najnowsze.
 
 3. W przypadku magazynów energii elektrycznej wchodzących w skład jednostek fizycznych tworzących daną jednostkę rynku mocy, na potrzeby weryfikacji spełnienia limitu emisji, przyjmuje się, że wskaźnik jednostkowej emisji dwutlenku węgla EJ w przypadku magazynów energii elektrycznej:
 
@@ -83,15 +85,20 @@ source: "eli-html"
 
 7. W przypadku jednostki rynku mocy, o której mowa w ust. 6, w skład której wchodzą wyłącznie jednostki wytwórcze, które rozpoczęły produkcję komercyjną przed dniem 4 lipca 2019 r., dostawca mocy może złożyć wniosek o certyfikację wyłącznie w zakresie utworzenia jednostki rynku mocy i dopuszczenia jej do udziału w rynku wtórnym.
 
-8. Wniosku o certyfikację nie może złożyć dostawca mocy, wobec którego w terminie rozpoczęcia danej certyfikacji do aukcji głównej lub do aukcji dodatkowych zachodzą okoliczności, o których mowa w art. 2 pkt 18 lit. a, b, c lub e rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.). ” ;
+8. Wniosku o certyfikację nie może złożyć dostawca mocy, wobec którego w terminie rozpoczęcia danej certyfikacji do aukcji głównej lub do aukcji dodatkowych zachodzą okoliczności, o których mowa w art. 2 pkt 18 lit. a, b, c lub e rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3.. ” ;
 
 - **9)** w art. 16 w ust. 2: uchyla się pkt 4, po pkt 4 dodaje się pkt 4a w brzmieniu: „
     - **a)**
     - **b)**
 
 - **4a)** w skład której wchodzi jednostka wytwórcza, która w roku dostaw nie będzie spełniała limitu emisji i rozpoczęła produkcję komercyjną nie wcześniej niż w dniu 4 lipca 2019 r.; ” ;
-- **10)** w art. 19: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) w przypadku wniosku o certyfikację innego niż wniosek o utworzenie jednostki rynku mocy i dopuszczenie jej do udziału wyłącznie w rynku wtórnym – wielkość obowiązku mocowego, którą będzie oferował dostawca mocy dla tej jednostki w aukcji mocy, nie większą niż iloczyn mocy osiągalnej netto jednostki i korekcyjnego współczynnika dyspozycyjności; ” , – w pkt 8 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 9–11 w brzmieniu: „ 9) oświadczenie o planowanym spełnieniu limitu emisji przez jednostkę rynku mocy w roku dostaw, którego dotyczy dana certyfikacja, albo, w przypadku, o którym mowa w art. 15 ust. 7, oświadczenie o niespełnieniu tego limitu; 10) oświadczenie o rozpoczęciu produkcji komercyjnej przed dniem 4 lipca 2019 r. przez wszystkie jednostki wytwórcze wchodzące w skład jednostek fizycznych tworzących jednostkę rynku mocy albo o rozpoczęciu produkcji komercyjnej przez co najmniej jedną jednostkę wytwórczą wchodzącą w skład jednostek fizycznych tworzących jednostkę rynku mocy w tej dacie albo później; 11) oświadczenie, że wobec dostawcy mocy nie zachodzą okoliczności, o których mowa w art. 2 pkt 18 lit. a, b, c lub e rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu.” w ust. 2 w pkt 2 w lit. b, na końcu, po przecinku dodaje się wyraz „oraz” i dodaje się lit. ba w brzmieniu: „ ba) planowane spełnienie limitu emisji przez nową jednostkę rynku mocy wytwórczą w każdym roku dostaw, ” , w ust. 3 w pkt 4 w lit. b, na końcu, po przecinku dodaje się wyraz „oraz” i dodaje się lit. ba w brzmieniu: „ ba) planowane spełnienie limitu emisji przez modernizowaną jednostkę rynku mocy wytwórczą w każdym roku dostaw, ” ;
+- **10)** w art. 19: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** w przypadku wniosku o certyfikację innego niż wniosek o utworzenie jednostki rynku mocy i dopuszczenie jej do udziału wyłącznie w rynku wtórnym – wielkość obowiązku mocowego, którą będzie oferował dostawca mocy dla tej jednostki w aukcji mocy, nie większą niż iloczyn mocy osiągalnej netto jednostki i korekcyjnego współczynnika dyspozycyjności; ” , w pkt 8 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 9–11 w brzmieniu: „
+- **9)** oświadczenie o planowanym spełnieniu limitu emisji przez jednostkę rynku mocy w roku dostaw, którego dotyczy dana certyfikacja, albo, w przypadku, o którym mowa w art. 15 ust. 7, oświadczenie o niespełnieniu tego limitu;
+- **10)** oświadczenie o rozpoczęciu produkcji komercyjnej przed dniem 4 lipca 2019 r. przez wszystkie jednostki wytwórcze wchodzące w skład jednostek fizycznych tworzących jednostkę rynku mocy albo o rozpoczęciu produkcji komercyjnej przez co najmniej jedną jednostkę wytwórczą wchodzącą w skład jednostek fizycznych tworzących jednostkę rynku mocy w tej dacie albo później;
+- **11)** oświadczenie, że wobec dostawcy mocy nie zachodzą okoliczności, o których mowa w art. 2 pkt 18 lit. a, b, c lub e rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu.” w ust. 2 w pkt 2 w lit. b, na końcu, po przecinku dodaje się wyraz „oraz” i dodaje się lit. ba w brzmieniu: „ ba) planowane spełnienie limitu emisji przez nową jednostkę rynku mocy wytwórczą w każdym roku dostaw, ” , w ust. 3 w pkt 4 w lit. b, na końcu, po przecinku dodaje się wyraz „oraz” i dodaje się lit. ba w brzmieniu: „ ba) planowane spełnienie limitu emisji przez modernizowaną jednostkę rynku mocy wytwórczą w każdym roku dostaw, ” ;
     - **b)**
     - **c)**
 
@@ -244,8 +251,11 @@ source: "eli-html"
 1. Dostawca mocy, który w wyniku aukcji głównej zawarł umowę mocową dotyczącą nowej albo modernizowanej jednostki rynku mocy wytwórczej, w terminie 24 miesięcy od dnia ogłoszenia ostatecznych wyników aukcji mocy, przedstawia operatorowi dokumenty potwierdzające:
 
 - **1)** poniesienie nakładów inwestycyjnych w wysokości co najmniej 10% wymaganych nakładów inwestycyjnych, obliczonych jako iloczyn mocy osiągalnej netto danej jednostki rynku mocy i jednostkowego poziomu nakładów inwestycyjnych określonego dla danej aukcji głównej, o którym mowa odpowiednio w art. 32 ust. 1 pkt 4 lit. a albo b;
-- **2)** zawarcie umów związanych z inwestycją o łącznej wartości wynoszącej co najmniej 20% wymaganych nakładów inwestycyjnych, obliczonych jako iloczyn mocy osiągalnej netto danej jednostki rynku mocy i jednostkowego poziomu nakładów inwestycyjnych określonego dla danej aukcji głównej, o którym mowa odpowiednio w art. 32 ust. 1 pkt 4 lit. a albo b. ” , w ust. 2: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) w przypadku nowej jednostki rynku mocy wytwórczej – wykaz punktów pomiarowych przyporządkowanych jednostce fizycznej tworzącej daną jednostkę rynku mocy; ” , – w pkt 3 w lit. b, na końcu, po przecinku dodaje się wyraz „oraz” i dodaje się lit. ba w brzmieniu: „ ba) spełnienie limitu emisji, o którym mowa odpowiednio w art. 19 ust. 2 pkt 2 lit. ba i w ust. 3 pkt 4 lit. ba lub w art. 20 ust. 4 pkt 2 lit. b tiret drugie, ” , – pkt 4 otrzymuje brzmienie: „ 4) wielkość pomocy publicznej, o której mowa w art. 62 ust. 1, udzielonej do dnia przedstawienia tej informacji. ” , dodaje się ust. 4 w brzmieniu: „
+- **2)** zawarcie umów związanych z inwestycją o łącznej wartości wynoszącej co najmniej 20% wymaganych nakładów inwestycyjnych, obliczonych jako iloczyn mocy osiągalnej netto danej jednostki rynku mocy i jednostkowego poziomu nakładów inwestycyjnych określonego dla danej aukcji głównej, o którym mowa odpowiednio w art. 32 ust. 1 pkt 4 lit. a albo b. ” , w ust. 2: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **b)**
+
+- **2a)** w przypadku nowej jednostki rynku mocy wytwórczej – wykaz punktów pomiarowych przyporządkowanych jednostce fizycznej tworzącej daną jednostkę rynku mocy; ” , – w pkt 3 w lit. b, na końcu, po przecinku dodaje się wyraz „oraz” i dodaje się lit. ba w brzmieniu: „ ba) spełnienie limitu emisji, o którym mowa odpowiednio w art. 19 ust. 2 pkt 2 lit. ba i w ust. 3 pkt 4 lit. ba lub w art. 20 ust. 4 pkt 2 lit. b tiret drugie, ” , pkt 4 otrzymuje brzmienie: „
+- **4)** wielkość pomocy publicznej, o której mowa w art. 62 ust. 1, udzielonej do dnia przedstawienia tej informacji. ” , dodaje się ust. 4 w brzmieniu: „
     - **c)**
 
 4. Operator potwierdza spełnienie przez dostawcę mocy wymagań, o których mowa w ust. 1 i 2, przez wpis do rejestru. ” ;
@@ -256,7 +266,7 @@ source: "eli-html"
 1. W przypadku niepotwierdzonej jednostki rynku mocy:
 
 - **1)** objętej umową mocową – nie później niż na miesiąc przed rozpoczęciem okresu dostaw określonego w umowie mocowej,
-- **2)** nieobjętej umową mocową – nie później niż na miesiąc przed rozpoczęciem ostatniego kwartału roku dostaw określonego w certyfikacie wydanym dla tej jednostki rynku mocy dostawca mocy wykonuje test zdolności redukcji zapotrzebowania, zwany dalej „testem”, polegający na dostarczaniu mocy w sposób ciągły przez okres co najmniej godziny. ” , ust. 5 otrzymuje brzmienie: „
+- **2)** nieobjętej umową mocową – nie później niż na miesiąc przed rozpoczęciem ostatniego kwartału roku dostaw określonego w certyfikacie wydanym dla tej jednostki rynku mocy – dostawca mocy wykonuje test zdolności redukcji zapotrzebowania, zwany dalej „testem”, polegający na dostarczaniu mocy w sposób ciągły przez okres co najmniej godziny. ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. Dostawca mocy, na podstawie wniosku złożonego nie później niż 3 dni robocze od dnia uzyskania od operatora informacji o wyniku testu, otrzymuje potwierdzenie, o którym mowa w ust. 4 pkt 1, mimo negatywnego wyniku testu, jeżeli dostarczył moc w wysokości nie mniejszej niż 50% iloczynu mocy osiągalnej i korekcyjnego współczynnika dyspozycyjności wskazanego w certyfikacie. Potwierdzenie określa moc osiągalną odpowiadającą rzeczywiście wykonanemu obowiązkowi mocowemu podczas testu. W takim przypadku obowiązek mocowy tej jednostki oraz moc osiągalną obniża się odpowiednio. Zmniejszenie wielkości obowiązku mocowego skutkuje odpowiednio zmniejszeniem wysokości wynagrodzenia należnego dostawcy mocy za wykonywanie obowiązku mocowego zgodnie z zawartą umową mocową. ” ;
@@ -351,7 +361,7 @@ source: "eli-html"
 
 2. Oświadczenie, o którym mowa w ust. 1 pkt 1 albo 2, jest składane przez dostawcę mocy będącego osobą fizyczną albo przez osoby reprezentujące dostawcę mocy lub działające w jego imieniu, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie zawiera w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-3. Do oświadczenia, o którym mowa w ust. 1 pkt 1, dostawca mocy, w odniesieniu do jednostki rynku mocy obejmującej co najmniej jedną jednostkę wytwórczą, w której wykorzystywane jest więcej niż jedno paliwo, termicznie przekształcane są odpady lub wychwytywany i przenoszony jest dwutlenek węgla, załącza potwierdzenie zgodności ze stanem faktycznym informacji zawartych w tym oświadczeniu wystawione przez podmiot akredytowany w zakresie, o którym mowa w pkt 1a lub 1b załącznika I do rozporządzenia wykonawczego Komisji (UE) 2018/2067 z dnia 19 grudnia 2018 r. w sprawie weryfikacji danych oraz akredytacji weryfikatorów na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 334 z 31.12.2018, str. 94, z późn. zm.).
+3. Do oświadczenia, o którym mowa w ust. 1 pkt 1, dostawca mocy, w odniesieniu do jednostki rynku mocy obejmującej co najmniej jedną jednostkę wytwórczą, w której wykorzystywane jest więcej niż jedno paliwo, termicznie przekształcane są odpady lub wychwytywany i przenoszony jest dwutlenek węgla, załącza potwierdzenie zgodności ze stanem faktycznym informacji zawartych w tym oświadczeniu wystawione przez podmiot akredytowany w zakresie, o którym mowa w pkt 1a lub 1b załącznika I do rozporządzenia wykonawczego Komisji (UE) 2018/2067 z dnia 19 grudnia 2018 r. w sprawie weryfikacji danych oraz akredytacji weryfikatorów na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 334 z 31.12.2018, str. 94, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 423 z 15.12.2020, str. 23..
 
 4. Dostawca mocy, w odniesieniu do jednostki rynku mocy innej niż wskazana w ust. 3, może załączyć do oświadczenia, o którym mowa w ust. 1 pkt 1, potwierdzenie zgodności ze stanem faktycznym informacji zawartych w tym oświadczeniu wystawione przez podmiot akredytowany w zakresie, o którym mowa w pkt 1a lub 1b załącznika I do rozporządzenia wykonawczego Komisji (UE) 2018/2067 z dnia 19 grudnia 2018 r. w sprawie weryfikacji danych oraz akredytacji weryfikatorów na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady.
 
@@ -460,8 +470,10 @@ source: "eli-html"
 
 12. Ilości energii elektrycznej, o których mowa w ust. 11 i w art. 89b ust. 2, pobranej z sieci i zużytej przez odbiorców końcowych K1-K4, w godzinach, o których mowa w ust. 4 pkt 2, wyznacza się na podstawie danych dotyczących roku poprzedzającego rok ustalania stawek opłaty mocowej przy uwzględnieniu zasad podziału odbiorców końcowych na grupy K1-K4, które będą obowiązywały w roku, dla którego wyznaczane są stawki opłaty mocowej. ” ;
 
-- **48)** w art. 75: w ust. 6: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „ 2) ilości energii elektrycznej pobranej z sieci przez odbiorców końcowych, w wybranych godzinach doby, z uwzględnieniem podziału na grupy odbiorców końcowych K1-K4, o których mowa w art. 70a ust. 1, ” , dodaje się ust. 8 w brzmieniu: „
+- **48)** w art. 75: w ust. 6: – uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** ilości energii elektrycznej pobranej z sieci przez odbiorców końcowych, w wybranych godzinach doby, z uwzględnieniem podziału na grupy odbiorców końcowych K1-K4, o których mowa w art. 70a ust. 1, ” , dodaje się ust. 8 w brzmieniu: „
     - **b)**
 
 8. Operator i płatnik opłaty mocowej przedstawiają Prezesowi URE informacje o ilościach energii elektrycznej, o których mowa w art. 74 ust. 12, zgodnie z przepisami wydanymi na podstawie art. 76. ” ;
@@ -474,7 +486,7 @@ source: "eli-html"
 - **2)** zakres i termin przekazywania operatorowi i płatnikowi opłaty mocowej informacji, w tym informacji o sumie należnych opłat mocowych,
 - **3)** okresy rozliczeniowe pomiędzy odpowiednio operatorem, płatnikami opłaty mocowej i innymi podmiotami obowiązanymi do wnoszenia opłaty mocowej,
 - **4)** sposób wyznaczania godzin doby przypadających na szczytowe zapotrzebowanie na moc w systemie na potrzeby obliczania opłaty mocowej należnej od odbiorców końcowych, z wyłączeniem odbiorców końcowych, o których mowa w art. 89a ust. 1 pkt 1,
-- **5)** zakres i termin przekazywania Prezesowi URE informacji niezbędnych do kalkulacji stawek opłaty mocowej biorąc pod uwagę zapewnienie sprawnego pozyskiwania środków z opłaty mocowej oraz zachęcanie odbiorców końcowych do racjonalnego wykorzystywania mocy elektrycznej w ciągu doby. ” ;
+- **5)** zakres i termin przekazywania Prezesowi URE informacji niezbędnych do kalkulacji stawek opłaty mocowej – biorąc pod uwagę zapewnienie sprawnego pozyskiwania środków z opłaty mocowej oraz zachęcanie odbiorców końcowych do racjonalnego wykorzystywania mocy elektrycznej w ciągu doby. ” ;
 - **50)** w art. 77: w ust. 1 po wyrazach „o którym mowa w art. 67 ust. 4,” dodaje się wyrazy „środki pozyskane na podstawie art. 67a ust. 8,”, w ust. 2 po wyrazach „na wyodrębniony rachunek bankowy” dodaje się wyrazy „prowadzony dla zarządcy rozliczeń”, ust. 7 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -508,13 +520,15 @@ source: "eli-html"
 
 7. W przypadku zmiany regulaminu rynku mocy przepisy ust. 1–6 stosuje się odpowiednio. ” ;
 
-- **56)** w art. 85: w ust. 1: – uchyla się pkt 4, – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) składając oświadczenie, o którym mowa w art. 67a ust. 1, przekazuje dane nieprawdziwe lub niepełne. ” , w ust. 3 w pkt 2 po wyrazie „danych” dodaje się wyraz „pomiarowych” oraz po wyrazach „w art. 75 ust. 6” dodaje się wyrazy „lub w art. 89d”;
+- **56)** w art. 85: w ust. 1: – uchyla się pkt 4, w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
     - **a)**
+
+- **6)** składając oświadczenie, o którym mowa w art. 67a ust. 1, przekazuje dane nieprawdziwe lub niepełne. ” , w ust. 3 w pkt 2 po wyrazie „danych” dodaje się wyraz „pomiarowych” oraz po wyrazach „w art. 75 ust. 6” dodaje się wyrazy „lub w art. 89d”;
     - **b)**
 
 - **57)** po dziale VI dodaje się dział VIa w brzmieniu: „
 
-### Dział VIa Przepisy epizodyczne
+### Dział VIa
 
 **Art. 89a.**
 
@@ -581,7 +595,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, 868 i 1093) w art. 7 po ust. 8e dodaje się ust. 8e1wbrzmieniu: „ 8e1. Sporządzając ekspertyzę, o której mowa w ust. 8e, dla podmiotów ubiegających się o przyłączenie:
 
-- **1)** urządzeń, instalacji lub sieci innych niż morskie farmy wiatrowe, w tej ekspertyzie przyjmuje się, że w odniesieniu do mocy przyłączeniowej niezbędnej do zapewnienia możliwości wytwarzania energii elektrycznej z morskich farm wiatrowych odpowiadającej mocy, o której mowa w: art. 14 ust. 1 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, lub jeżeli zostały wydane decyzje na podstawie art. 18 ust. 1 tej ustawy – równej sumie mocy określonych w tych decyzjach, oraz art. 29 ust. 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych zostały wydane warunki przyłączenia;
+- **1)** urządzeń, instalacji lub sieci innych niż morskie farmy wiatrowe, w tej ekspertyzie przyjmuje się, że w odniesieniu do mocy przyłączeniowej niezbędnej do zapewnienia możliwości wytwarzania energii elektrycznej z morskich farm wiatrowych odpowiadającej mocy, o której mowa w: art. 14 ust. 1 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, lub jeżeli zostały wydane decyzje na podstawie art. 18 ust. 1 tej ustawy – równej sumie mocy określonych w tych decyzjach, oraz art. 29 ust. 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – zostały wydane warunki przyłączenia;
     - **a)**
     - **b)**
 
@@ -645,7 +659,7 @@ source: "eli-html"
 
 3. W odniesieniu do jednostek rynku mocy, w skład których wchodzą jednostki wytwórcze, które rozpoczęły produkcję komercyjną przed dniem 4 lipca 2019 r., jak i jednostki wytwórcze, które rozpoczęły produkcję komercyjną nie wcześniej niż w tym dniu, limit emisji, w odniesieniu do okresów dostaw przypadających do dnia 30 czerwca 2025 r., uważa się za spełniony, jeżeli żadna z jednostek wytwórczych, które rozpoczęły produkcję komercyjną nie wcześniej niż w dniu 4 lipca 2019 r., wchodzących w skład takiej jednostki rynku mocy, nie przekroczyła limitu emisji w danym roku dostaw.
 
-**Art. 10.** Do wyznaczania wielkości, o których mowa w art. 3a ust. 2 ustawy zmienianej w art. 1, w odniesieniu do okresów przypadających przed dniem 1 stycznia 2021 r., stosuje się przepisy rozporządzenia Komisji (UE) nr 601/2012 z dnia 21 czerwca 2012 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych zgodnie z dyrektywą 2003/87/WE Parlamentu Europejskiego i Rady (UE) (Dz. Urz. UE L 181 z 12.07.2012, str. 30, z późn. zm.) .
+**Art. 10.** Do wyznaczania wielkości, o których mowa w art. 3a ust. 2 ustawy zmienianej w art. 1, w odniesieniu do okresów przypadających przed dniem 1 stycznia 2021 r., stosuje się przepisy rozporządzenia Komisji (UE) nr 601/2012 z dnia 21 czerwca 2012 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych zgodnie z dyrektywą 2003/87/WE Parlamentu Europejskiego i Rady (UE) (Dz. Urz. UE L 181 z 12.07.2012, str. 30, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 15.12.2012, str. 43, Dz. Urz. UE L 65 z 05.03.2014, str. 27, Dz. Urz. UE L 201 z 10.07.2014, str. 1 oraz Dz. Urz. UE L 334 z 31.12.2018, str. 1..
 
 **Art. 11.**
 
@@ -677,7 +691,7 @@ source: "eli-html"
 **Art. 16.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 68 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 68 ustawy zmienianej w art. 1,
-- **2)** art. 76 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 76 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż 36 miesięcy od dnia wejścia w życie niniejszej ustawy i mogą być zmieniane na podstawie art. 68 i art. 76 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- **2)** art. 76 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 76 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż 36 miesięcy od dnia wejścia w życie niniejszej ustawy i mogą być zmieniane na podstawie art. 68 i art. 76 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 17.**
 
@@ -700,8 +714,5 @@ source: "eli-html"
 
 4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
-**Art. 18.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem 1 lipca 2024 r.
-
-- **1)** , Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 27 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej oraz ustawę z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 423 z 15.12.2020, str. 37. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3. 5) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 423 z 15.12.2020, str. 23. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 15.12.2012, str. 43, Dz. Urz. UE L 65 z 05.03.2014, str. 27, Dz. Urz. UE L 201 z 10.07.2014, str. 1 oraz Dz. Urz. UE L 334 z 31.12.2018, str. 1.
-
+**Art. 18.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem 1 lipca 2024 r. 1), Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 27 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej oraz ustawę z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 423 z 15.12.2020, str. 37. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3. 5) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 423 z 15.12.2020, str. 23. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 15.12.2012, str. 43, Dz. Urz. UE L 65 z 05.03.2014, str. 27, Dz. Urz. UE L 201 z 10.07.2014, str. 1 oraz Dz. Urz. UE L 334 z 31.12.2018, str. 1.
 

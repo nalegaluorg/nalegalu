@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 12 grudnia 2016 r. w sprawie odbywania stażu adaptacyjnego oraz przeprowadzania testu umiejętności stanowiących podstawę uznania kwalifikacji do wykonywania zawodu maklera papierów wartościowych oraz doradcy inwestycyjnego
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 12 grudnia 2016 r. w sprawie odbywania stażu adaptacyjnego oraz przeprowadzania testu umiejętności stanowiących podstawę uznania kwalifikacji do wykonywania zawodu maklera papierów wartościowych oraz doradcy inwestycyjnego Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-12 |
 | Data wydania | 2016-12-23 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2141/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepis przejściowy i końcowy
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -53,6 +53,7 @@ zawodzie maklera papierów wartościowych lub doradcy inwestycyjnego – rozumie
 wnioskodawcy – rozumie się przez to osobę ubiegającą się o uznanie kwalifikacji zawodowych do wykonywania zawodu maklera papierów wartościowych albo doradcy inwestycyjnego.
 § 3.
 Wnioskodawca, po otrzymaniu postanowienia, o którym mowa w art. 20 ust. 1 ustawy, przekazuje do Komisji oświadczenie o wyborze odbycia stażu albo przystąpienia do testu umiejętności. Oświadczenie to zawiera wskazanie przedmiotu oświadczenia oraz rodzaju zawodu, którego oświadczenie dotyczy, adres do korespondencji i podpis wnioskodawcy.
+Staż adaptacyjny
 § 4.
 Staż odbywa się w jednostce organizacyjnej właściwej ze względu na rodzaj zawodu, którego dotyczy postępowanie w sprawie uznania kwalifikacji.
 § 5.
@@ -188,6 +189,7 @@ podpis Przewodniczącego Komisji lub osoby przez niego upoważnionej;
 datę wydania zaświadczenia.
 § 15.
 Wnioskodawcy, który nie uzyskał pozytywnej oceny, o której mowa w § 14 ust. 1, Komisja przekazuje niezwłocznie informację o tym fakcie.
+Test umiejętności
 § 16.
 Test umiejętności jest przygotowywany i przeprowadzany przez komisje egzaminacyjne powoływane odrębnie dla zawodu maklera papierów wartościowych i doradcy inwestycyjnego, zgodnie z art. 128 ust. 6 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 § 17.
@@ -321,17 +323,25 @@ krótszym niż 14 dni przed datą przeprowadzenia testu umiejętności – odbyw
 Zwrotu wniesionej opłaty nie dokonuje się, jeżeli wniosek, o którym mowa w ust. 1 pkt 2, został zgłoszony w dniu przeprowadzenia testu umiejętności lub później.
 4.
 O zachowaniu terminów, o których mowa w ust. 2 i 3, decyduje data nadania wniosku w polskiej placówce pocztowej operatora wyznaczonego lub data złożenia wniosku do urzędu Komisji.
+Przepis przejściowy i końcowy
 § 39.
 Do wniosków złożonych i nierozpatrzonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 40.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 listopada 2008 r. w sprawie odbywania stażu adaptacyjnego oraz przeprowadzania testu umiejętności stanowiących podstawę uznania kwalifikacji do wykonywania zawodu maklera papierów wartościowych, maklera giełd towarowych oraz doradcy inwestycyjnego (Dz. U. poz. 1282), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 listopada 2008 r. w sprawie odbywania stażu adaptacyjnego oraz przeprowadzania testu umiejętności stanowiących podstawę uznania kwalifikacji do wykonywania zawodu maklera papierów wartościowych, maklera giełd towarowych oraz doradcy inwestycyjnego (Dz. U. poz. 1282), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 listopada 2008 r. w sprawie odbywania stażu adaptacyjnego oraz przeprowadzania testu umiejętności stanowiących podstawę uznania kwalifikacji do wykonywania zawodu maklera papierów wartościowych, maklera giełd towarowych oraz doradcy inwestycyjnego (Dz. U. poz. 1282), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
 
-#### Rozdział 4 Przepis przejściowy i końcowy
+#### Rozdział 4 – Przepis przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

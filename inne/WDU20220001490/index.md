@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-14 |
 | Data wydania | 2022-07-14 |
-| Wejście w życie | 2022-07-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1490/text.pdf) |
 
@@ -119,5 +118,5 @@ Pierwszy Prezes Sądu Najwyższego udostępnia pomieszczenie Sądu Najwyższego 
 2.
 Obsługę administracyjną Rady, w tym w szczególności obsługę kancelaryjno-biurową, ewidencjonowanie uchwał i przechowywanie dokumentacji Rady, zapewnia Kancelaria Pierwszego Prezesa Sądu Najwyższego.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 15 lipca 2022 r.
+Rozporządzenie wchodzi w życie z dniem 15 lipca 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 29 marca 2018 r. w sprawie sposobu wyboru, składu, struktury organizacyjnej, trybu działania oraz szczegółowych zadań Rady Ławniczej Sądu Najwyższego (Dz. U. poz. 653), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy o Sądzie Najwyższym oraz niektórych innych ustaw (Dz. U. poz. 1259). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 29 marca 2018 r. w sprawie sposobu wyboru, składu, struktury organizacyjnej, trybu działania oraz szczegółowych zadań Rady Ławniczej Sądu Najwyższego (Dz. U. poz. 653), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy o Sądzie Najwyższym oraz niektórych innych ustaw (Dz. U. poz. 1259).
 

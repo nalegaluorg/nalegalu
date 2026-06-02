@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-12 |
 | Data wydania | 2013-12-23 |
-| Wejście w życie | 2013-12-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001641) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1641/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 - **1)** art. 364 ust. 2 i 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, w zakresie dotyczącym wyciągów z ksiąg wieczystych,
 - **2)** art. 364 ust. 4 i ust. 8–16 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą,
-- **3)** art. 365 ust. 1 i 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, w zakresie dotyczącym pobierania opłat od wniosku o wydanie wyciągu z księgi wieczystej, wniosku o wyszukanie ksiąg wieczystych oraz złożonego za pośrednictwem systemu teleinformatycznego wniosku o wydanie – w celu samodzielnego wydrukowania – odpisu księgi wieczystej, wyciągu z księgi wieczystej lub zaświadczenia o zamknięciu księgi wieczystej stosuje się od dnia 1 lipca 2014 r. ” .
+- **3)** art. 365 ust. 1 i 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, w zakresie dotyczącym pobierania opłat od wniosku o wydanie wyciągu z księgi wieczystej, wniosku o wyszukanie ksiąg wieczystych oraz złożonego za pośrednictwem systemu teleinformatycznego wniosku o wydanie – w celu samodzielnego wydrukowania – odpisu księgi wieczystej, wyciągu z księgi wieczystej lub zaświadczenia o zamknięciu księgi wieczystej – stosuje się od dnia 1 lipca 2014 r. ” .
 
 **Art. 2.** Wnioski o wydanie wyciągu z księgi wieczystej oraz wnioski o zgodę na wielokrotne, nieograniczone w czasie wyszukiwanie ksiąg wieczystych w centralnej bazie danych ksiąg wieczystych złożone od dnia 1 grudnia 2013 r. a przed wejściem w życie niniejszej ustawy pozostawia się bez rozpoznania, o czym zawiadamia się wnioskodawców.
 

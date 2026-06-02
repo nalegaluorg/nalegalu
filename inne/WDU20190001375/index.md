@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 16 lipca 2019 r. w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 16 lipca 2019 r. w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1058).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-16 |
 | Data wydania | 2019-07-24 |
-| Wejście w życie | 2019-07-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001375) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1375/text.pdf) |
 
@@ -153,6 +152,5 @@ W szkoleniu, o którym mowa w ust. 1, w sytuacji uniemożliwiającej zapewnienie
 § 14.
 Przepisów § 12 i § 13 nie stosuje się do szkoleń rozpoczętych przed upływem roku od dnia wejścia w życie niniejszego rozporządzenia.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1058).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1058).
 

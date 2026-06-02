@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2018-12-28 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2026-04-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002457) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2457/text.pdf) |
 
@@ -107,8 +106,7 @@ Komisja wzywa wykonawców, którzy:
 1)
 w określonym w zaproszeniu terminie nie złożyli oświadczeń lub dokumentów, o których mowa w § 9 ust. 2 pkt 8, lub wymaganych pełnomocnictw,
 2)
-złożyli zawierające błędy oświadczenia lub dokumenty, o których mowa w § 9 ust. 2 pkt 8, lub złożyli wadliwe pełnomocnictwa
-do ich złożenia w terminie nie dłuższym niż 5 dni od dnia doręczenia wezwania, chyba że mimo ich złożenia zgłoszenie o przystąpieniu do negocjacji podlega odrzuceniu albo konieczne byłoby unieważnienie postępowania.
+złożyli zawierające błędy oświadczenia lub dokumenty, o których mowa w § 9 ust. 2 pkt 8, lub złożyli wadliwe pełnomocnictwa – do ich złożenia w terminie nie dłuższym niż 5 dni od dnia doręczenia wezwania, chyba że mimo ich złożenia zgłoszenie o przystąpieniu do negocjacji podlega odrzuceniu albo konieczne byłoby unieważnienie postępowania.
 3.
 Na wezwanie komisji, o którym mowa w ust. 2, wykonawca składa oświadczenia i dokumenty potwierdzające spełnianie przez wykonawcę warunków udziału w postępowaniu o udzielenie zamówienia nie później niż w dniu, w którym upłynął termin składania zgłoszeń o przystąpieniu do negocjacji.
 4.
@@ -267,7 +265,7 @@ Zgłoszenia, oświadczenia, zawiadomienia, wnioski, inne dokumenty i informacje,
 § 17.
 Komórka organizacyjna Ministerstwa Sprawiedliwości właściwa w zakresie obsługi zadań Ministra Sprawiedliwości związanych z organizacją egzaminu wstępnego na aplikację komorniczą przechowuje protokół wraz z załącznikami przez okres 4 lat od dnia zakończenia postępowania o udzielenie zamówienia, w sposób gwarantujący jego nienaruszalność.
 § 18.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Sprawiedliwości z dnia 26 marca 2014 r. w sprawie trybu i sposobu udzielenia zamówień na wydrukowanie i doręczenie pytań testowych na egzamin konkursowy na aplikację komorniczą oraz zadań na egzamin komorniczy (Dz. U. poz. 448), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244). 1) Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Sprawiedliwości z dnia 26 marca 2014 r. w sprawie trybu i sposobu udzielenia zamówień na wydrukowanie i doręczenie pytań testowych na egzamin konkursowy na aplikację komorniczą oraz zadań na egzamin komorniczy (Dz. U. poz. 448), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244).
 Załącznik – Oświadczenie członka komisji do przeprowadzenia postępowania o udzielenie zamówienia na wydrukowanie i doręczenie zestawów pytań testowych na egzamin wstępny na aplikację komorniczą wraz z wykazem prawidłowych odpowiedzi (wzór)
 Ja, niżej podpisany, oświadczam, że zachodzą/nie zachodzą*) wobec mnie przesłanki określone w § 4 ust. 9 rozporządzenia Ministra Sprawiedliwości z dnia 14 grudnia 2018 r. w sprawie trybu i sposobu udzielenia zamówienia na wydrukowanie i doręczenie zestawów pytań testowych na egzamin wstępny na aplikację komorniczą (Dz. U. poz. 2457). ...(miejscowość, data)... ....(czytelny podpis).... *) Niepotrzebne skreślić.
 

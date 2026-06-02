@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 lutego 2013 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw
+# Ustawa z dnia 22 lutego 2013 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej oraz ustawę z dnia 7 września 2007 r. o wykonywaniu kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-02-22 |
 | Data wydania | 2013-04-26 |
-| Wejście w życie | 2013-05-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000509) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/509/text.pdf) |
 
@@ -72,7 +71,7 @@ source: "eli-html"
 
 - **12)** w art. 54 ust. 3 otrzymuje brzmienie: „
 
-3. Osoba wymagająca wzmożonej opieki medycznej kierowana jest na podstawie art. 33a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) do zakładu opiekuńczo-leczniczego lub pielęgnacyjno-opiekuńczego. ” ;
+3. Osoba wymagająca wzmożonej opieki medycznej kierowana jest na podstawie art. 33a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548 oraz z 2013 r. poz. 154.) do zakładu opiekuńczo-leczniczego lub pielęgnacyjno-opiekuńczego. ” ;
 
 - **13)** w art. 56 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
 - **7)** osób uzależnionych od alkoholu. ” ;
@@ -134,11 +133,15 @@ source: "eli-html"
 
 - **b)**
 
-4a. Niewyrażenie zgody na przeprowadzenie rodzinnego wywiadu środowiskowego przez osoby lub rodziny ubiegające się o świadczenia z pomocy społecznej lub na jego aktualizację przez osoby lub rodziny korzystające ze świadczeń z pomocy społecznej stanowi podstawę do odmowy przyznania świadczenia, uchylenia decyzji o przyznaniu świadczenia lub wstrzymania świadczeń pieniężnych z pomocy społecznej. ” , uchyla się ust. 5a, w ust. 5b: – pkt 4 otrzymuje brzmienie: „ 4) decyzji właściwego organu w sprawie renty, emerytury, świadczenia przedemerytalnego lub zasiłku przedemerytalnego, emerytury pomostowej, nauczycielskiego świadczenia kompensacyjnego, uposażenia w stanie spoczynku, renty strukturalnej oraz renty socjalnej; ” , – pkt 10 otrzymuje brzmienie: „ 10) dowodu otrzymania renty, emerytury, zasiłku przedemerytalnego lub świadczenia przedemerytalnego, emerytury pomostowej, nauczycielskiego świadczenia kompensacyjnego, uposażenia w stanie spoczynku, renty strukturalnej oraz renty socjalnej; ” , – po pkt 15 dodaje się pkt 15a i 15b w brzmieniu: „ 15a) dowodu opłacenia składki na ubezpieczenie społeczne rolników; 15b) dowodu opłacenia składki na ubezpieczenie społeczne przez osoby prowadzące pozarolniczą działalność gospodarczą; ” , po ust. 5c dodaje się ust. 5d w brzmieniu: „
+4a. Niewyrażenie zgody na przeprowadzenie rodzinnego wywiadu środowiskowego przez osoby lub rodziny ubiegające się o świadczenia z pomocy społecznej lub na jego aktualizację przez osoby lub rodziny korzystające ze świadczeń z pomocy społecznej stanowi podstawę do odmowy przyznania świadczenia, uchylenia decyzji o przyznaniu świadczenia lub wstrzymania świadczeń pieniężnych z pomocy społecznej. ” , uchyla się ust. 5a, w ust. 5b: pkt 4 otrzymuje brzmienie: „
 
 - **c)**
 - **d)**
-- **e)**
+- **4)** decyzji właściwego organu w sprawie renty, emerytury, świadczenia przedemerytalnego lub zasiłku przedemerytalnego, emerytury pomostowej, nauczycielskiego świadczenia kompensacyjnego, uposażenia w stanie spoczynku, renty strukturalnej oraz renty socjalnej; ” , pkt 10 otrzymuje brzmienie: „
+- **10)** dowodu otrzymania renty, emerytury, zasiłku przedemerytalnego lub świadczenia przedemerytalnego, emerytury pomostowej, nauczycielskiego świadczenia kompensacyjnego, uposażenia w stanie spoczynku, renty strukturalnej oraz renty socjalnej; ” , po pkt 15 dodaje się pkt 15a i 15b w brzmieniu: „
+- **15a)** dowodu opłacenia składki na ubezpieczenie społeczne rolników;
+- **15b)** dowodu opłacenia składki na ubezpieczenie społeczne przez osoby prowadzące pozarolniczą działalność gospodarczą; ” , po ust. 5c dodaje się ust. 5d w brzmieniu: „
+    - **e)**
 
 5d. W przypadku gdy okoliczności sprawy, mające wpływ na prawo do świadczeń, wymagają potwierdzenia innym oświadczeniem lub dokumentem niż wymienionym w ust. 5b, można domagać się takiego oświadczenia lub dokumentu. ” ;
 
@@ -151,7 +154,7 @@ source: "eli-html"
 
 2a. W przypadku powiatów prowadzących lub zlecających prowadzenie domów pomocy społecznej, o których mowa w art. 56 pkt 5, dotacja może być w uzasadnionych przypadkach zwiększona, nie więcej jednak niż o 50%. ” .
 
-**Art. 2.** W ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. Nr 135, poz. 1268, z późn. zm.) w art. 8:
+**Art. 2.** W ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. Nr 135, poz. 1268, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252, z 2005 r. Nr 94, poz. 788, z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 120, poz. 818 i Nr 176, poz. 1241, z 2008 r. Nr 70, poz. 416, z 2009 r. Nr 97, poz. 800, z 2010 r. Nr 40, poz. 229 i Nr 182, poz. 1228 oraz z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622 i Nr 224, poz. 1338.) w art. 8:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
@@ -169,5 +172,5 @@ source: "eli-html"
 
 2. Domy pomocy społecznej, o których mowa w ust. 1, są obowiązane w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy do dostosowania programów naprawczych.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 4, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2012 r.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 4, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2012 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej oraz ustawę z dnia 7 września 2007 r. o wykonywaniu kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548 oraz z 2013 r. poz. 154. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252, z 2005 r. Nr 94, poz. 788, z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 120, poz. 818 i Nr 176, poz. 1241, z 2008 r. Nr 70, poz. 416, z 2009 r. Nr 97, poz. 800, z 2010 r. Nr 40, poz. 229 i Nr 182, poz. 1228 oraz z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622 i Nr 224, poz. 1338.
 

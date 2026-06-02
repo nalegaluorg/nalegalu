@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowych i Ministra Cyfryzacjiz dnia 31 sierpnia 2021 r. w sprawie metodologii ustalania opłat za przekazywanie korespondencji przy użyciu publicznej usługi rejestrowanego doręczenia elektronicznego oraz publicznej usługi hybrydowej
+# Rozporządzenie Ministra Aktywów Państwowych i Ministra Cyfryzacjiz dnia 31 sierpnia 2021 r. w sprawie metodologii ustalania opłat za przekazywanie korespondencji przy użyciu publicznej usługi rejestrowanego doręczenia elektronicznego oraz publicznej usługi hybrydowej Minister Aktywów Państwowych kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-31 |
 | Data wydania | 2021-09-02 |
-| Wejście w życie | 2021-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001611) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1611/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 52 ust. 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72, 802, 1135, 1163 i 1598) zarządza się, co następuje:
+Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716). Na podstawie art. 52 ust. 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72, 802, 1135, 1163 i 1598) zarządza się, co następuje:
 § 1.
 Opłatę za przekazywanie korespondencji przy użyciu publicznej usługi rejestrowanego doręczenia elektronicznego, zwanej dalej „PURDE”, oraz publicznej usługi hybrydowej, zwanej dalej „PUH”, ustala się corocznie na okres od 5 października danego roku do 4 października roku następnego.
 § 2.
@@ -58,6 +57,5 @@ Sposoby naliczania opłat, o których mowa w ust. 1 i 2, dotyczą nadań zrealiz
 4.
 Opłaty naliczane w sposób, o którym mowa w ust. 1 i 2, są liczone odrębnie dla PURDE i PUH, jako procent od opłat ustalonych na podstawie odpowiednio § 2 i § 3.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943). 2) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943). 2) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-09-05 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1717/text.pdf) |
 
@@ -36,14 +35,25 @@ source: "eli-html"
 
 1. Krajowa Rada przedstawia corocznie do końca maja danego roku kalendarzowego Sejmowi, Senatowi i Prezydentowi sprawozdanie ze swojej działalności za rok kalendarzowy poprzedzający oraz informację o podstawowych problemach radiofonii i telewizji. ” ;
 
-- **3)** w art. 21: w ust. 1a: – pkt 2 otrzymuje brzmienie: „ 2) tworzenie i rozpowszechnianie programów wyspecjalizowanych określonych w ustawie lub karcie powinności; ” , – po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „ 2a) tworzenie i dostarczanie przez sieci telekomunikacyjne audialnych, audiowizualnych i tekstowych usług innych niż programy, związanych z programami, uzupełniających, poszerzających lub wzbogacających je, które realizują demokratyczne, społeczne i kulturalne potrzeby społeczeństwa, w tym audiowizualnych usług medialnych na żądanie; 2b) rozwijanie kontaktów z odbiorcami programów, o których mowa w pkt 1 i 2, oraz usług, o których mowa w pkt 2a, w tym przy wykorzystaniu środków porozumiewania się na odległość; ” , – pkt 3 otrzymuje brzmienie: „ 3) budowa lub eksploatacja nadawczych i przekaźnikowych stacji radiowych lub telewizyjnych oraz innych urządzeń służących do dostarczania programów, o których mowa w pkt 1 i 2, i usług, o których mowa w pkt 2a, oraz rozwijania kontaktów zgodnie z pkt 2b; ” , – uchyla się pkt 4, – pkt 5 i 6 otrzymują brzmienie: „ 5) prowadzenie prac nad nowymi technikami tworzenia i rozpowszechniania programów radiowych lub telewizyjnych, tworzenia i dostarczania usług, o których mowa w pkt 2a, oraz rozwijania kontaktów zgodnie z pkt 2b, a także zachęcanie do korzystania z takich technik; 6) prowadzenie działalności w zakresie nabywania, przygotowywania, produkcji lub koprodukcji audycji i innych materiałów na potrzeby programów, o których mowa w pkt 1 i 2, oraz usług, o których mowa w pkt 2a; ” , – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) prowadzenie działalności w zakresie zachowywania, ochrony, konserwacji i uzupełniania zbiorów audycji i innych materiałów nabytych lub wytworzonych na potrzeby programów, o których mowa w pkt 1 i 2, oraz usług, o których mowa w pkt 2a; ” , – pkt 9 otrzymuje brzmienie: „ 9) tworzenie i rozpowszechnianie programów oraz tworzenie i dostarczanie usług, o których mowa w pkt 2a, służących przedstawianiu Rzeczypospolitej Polski, jej języka, historii lub kultury za granicą, w tym na użytek środowisk polonijnych oraz Polaków zamieszkałych za granicą, lub przyczynianie się do tworzenia, rozpowszechniania lub dostarczania takich programów lub usług; ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+- **3)** w art. 21: w ust. 1a: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** tworzenie i rozpowszechnianie programów wyspecjalizowanych określonych w ustawie lub karcie powinności; ” , po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „
+- **2a)** tworzenie i dostarczanie przez sieci telekomunikacyjne audialnych, audiowizualnych i tekstowych usług innych niż programy, związanych z programami, uzupełniających, poszerzających lub wzbogacających je, które realizują demokratyczne, społeczne i kulturalne potrzeby społeczeństwa, w tym audiowizualnych usług medialnych na żądanie;
+- **2b)** rozwijanie kontaktów z odbiorcami programów, o których mowa w pkt 1 i 2, oraz usług, o których mowa w pkt 2a, w tym przy wykorzystaniu środków porozumiewania się na odległość; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** budowa lub eksploatacja nadawczych i przekaźnikowych stacji radiowych lub telewizyjnych oraz innych urządzeń służących do dostarczania programów, o których mowa w pkt 1 i 2, i usług, o których mowa w pkt 2a, oraz rozwijania kontaktów zgodnie z pkt 2b; ” , – uchyla się pkt 4, pkt 5 i 6 otrzymują brzmienie: „
+- **5)** prowadzenie prac nad nowymi technikami tworzenia i rozpowszechniania programów radiowych lub telewizyjnych, tworzenia i dostarczania usług, o których mowa w pkt 2a, oraz rozwijania kontaktów zgodnie z pkt 2b, a także zachęcanie do korzystania z takich technik;
+- **6)** prowadzenie działalności w zakresie nabywania, przygotowywania, produkcji lub koprodukcji audycji i innych materiałów na potrzeby programów, o których mowa w pkt 1 i 2, oraz usług, o których mowa w pkt 2a; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **6a)** prowadzenie działalności w zakresie zachowywania, ochrony, konserwacji i uzupełniania zbiorów audycji i innych materiałów nabytych lub wytworzonych na potrzeby programów, o których mowa w pkt 1 i 2, oraz usług, o których mowa w pkt 2a; ” , pkt 9 otrzymuje brzmienie: „
+- **9)** tworzenie i rozpowszechnianie programów oraz tworzenie i dostarczanie usług, o których mowa w pkt 2a, służących przedstawianiu Rzeczypospolitej Polski, jej języka, historii lub kultury za granicą, w tym na użytek środowisk polonijnych oraz Polaków zamieszkałych za granicą, lub przyczynianie się do tworzenia, rozpowszechniania lub dostarczania takich programów lub usług; ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
     - **b)**
 
-1b. Realizując zadania, o których mowa w ust. 1a, jednostki publicznej radiofonii i telewizji mogą korzystać z różnych sposobów dostarczania usług medialnych i innych usług oraz środków porozumiewania się na odległość, w tym systemów teleinformatycznych, dla zapewnienia jak najszerszego dostępu do usług medialnych i innych usług oraz komunikacji z odbiorcami. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Programy i inne usługi jednostek publicznej radiofonii i telewizji w ramach jej misji publicznej powinny: ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) sprzyjać integracji społecznej, w tym przeciwdziałać wykluczeniu społecznemu; ” , uchyla się ust. 3 i 4;
+1b. Realizując zadania, o których mowa w ust. 1a, jednostki publicznej radiofonii i telewizji mogą korzystać z różnych sposobów dostarczania usług medialnych i innych usług oraz środków porozumiewania się na odległość, w tym systemów teleinformatycznych, dla zapewnienia jak najszerszego dostępu do usług medialnych i innych usług oraz komunikacji z odbiorcami. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Programy i inne usługi jednostek publicznej radiofonii i telewizji w ramach jej misji publicznej powinny: ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
 
 - **c)**
-- **d)**
+- **5a)** sprzyjać integracji społecznej, w tym przeciwdziałać wykluczeniu społecznemu; ” , uchyla się ust. 3 i 4;
+    - **d)**
+
 - **4)** po art. 21 dodaje się art. 21a-21d w brzmieniu: „
 
 **Art. 21a.**
@@ -59,7 +69,7 @@ source: "eli-html"
 - **5)** minimalne udziały audycji lub utworów, o których mowa w art. 15 ust. 1–3 oraz art. 15a ust. 1, w czasie nadawania poszczególnych programów, na poziomach nie niższych niż określone w tych przepisach,
 - **6)** minimalne udziały głównych kategorii audycji w poszczególnych programach, w zakresie istotnym dla charakteru danego programu, oraz sposób ich oferowania w ramach innych usług medialnych danej jednostki publicznej radiofonii i telewizji,
 - **7)** minimalne udziały udogodnień, o których mowa w art. 18a ust. 1, w czasie nadawania poszczególnych programów, jeżeli są one wyższe niż określone w tym przepisie,
-- **8)** sposoby promowania audycji i utworów, o których mowa w art. 15 ust. 1–3 oraz art. 15a ust. 1, w innych niż programy usługach danej jednostki publicznej radiofonii i telewizji ze wskazaniem szacunkowych kosztów realizacji poszczególnych zadań oraz określeniem źródeł ich finansowania.
+- **8)** sposoby promowania audycji i utworów, o których mowa w art. 15 ust. 1–3 oraz art. 15a ust. 1, w innych niż programy usługach danej jednostki publicznej radiofonii i telewizji – ze wskazaniem szacunkowych kosztów realizacji poszczególnych zadań oraz określeniem źródeł ich finansowania.
 
 3. Karta powinności określa także ogólne zasady prowadzenia działalności niewynikającej z misji publicznej, o której mowa w art. 21 ust. 1, oraz wskazuje najważniejsze rodzaje takiej działalności.
 
@@ -158,8 +168,10 @@ source: "eli-html"
 - **2)** ogólnokrajowe programy radiowe – częstotliwości niezbędne do pokrycia kraju zasięgiem odbioru programu pierwszego, drugiego, trzeciego i czwartego oraz częstotliwości niezbędne do rozpowszechniania programów radiowych dla odbiorców za granicą, a także częstotliwości niezbędne do rozpowszechniania programów określonych w karcie powinności;
 - **3)** regionalne programy telewizyjne – częstotliwości niezbędne do rozpowszechniania regionalnych programów telewizyjnych, w tym programów określonych w karcie powinności;
 - **4)** regionalne programy radiowe – częstotliwości niezbędne do rozpowszechniania regionalnych programów radiowych, w tym programów określonych w karcie powinności. ” ;
-- **7)** w art. 31: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przychodami spółek, o których mowa w art. 26 ust. 2 i 3, są przychody pochodzące z: ” , – pkt 3 otrzymuje brzmienie: „ 3) przekazów handlowych; ” , dodaje się ust. 4–11 w brzmieniu: „
+- **7)** w art. 31: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przychodami spółek, o których mowa w art. 26 ust. 2 i 3, są przychody pochodzące z: ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** przekazów handlowych; ” , dodaje się ust. 4–11 w brzmieniu: „
     - **b)**
 
 4. Przychody pochodzące ze źródeł określonych w ust. 1 pkt 1 i ust. 2 przeznacza się wyłącznie na realizację misji publicznej, o której mowa w art. 21 ust. 1.

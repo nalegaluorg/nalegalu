@@ -37,13 +37,11 @@ ustawą z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, ob
 3)
 ustawą z dnia 24 sierpnia 2007 r. o zmianie niektórych ustaw w związku z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej (Dz. U. Nr 176, poz. 1238),
 4)
-ustawą z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 lipca 2015 r.
+ustawą z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 lipca 2015 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 15 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz innych ustaw (Dz. U. Nr 135, poz. 1145 oraz z 2003 r. Nr 208, poz. 2020), który stanowi:
-„
+art. 15 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz innych ustaw (Dz. U. Nr 135, poz. 1145 oraz z 2003 r. Nr 208, poz. 2020), który stanowi: „
 
 **Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że:
 
@@ -64,11 +62,10 @@ art. 15 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych 
 
 **Art. 1.** Ustawa reguluje sposób prowadzenia rolniczych badań rynkowych polegających na zbieraniu i opracowywaniu informacji o poziomie cen i wielkości obrotu artykułami rolno-spożywczymi niezależnie od miejsca jego prowadzenia, związanych z danym przedsiębiorcą.
 
-**Art. 2.** Użyte w ustawie określenia oznaczają:
+**Art. 2.** Użyte w ustawie określenia oznaczają: 1Ze zmianą wprowadzoną przez art. 13 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz innych ustaw (Dz. U. Nr 135, poz. 1145), która weszła w życie z dniem 12 września 2002 r.) artykuły rolno-spożywcze – produkty rolne w postaci surowców, półproduktów, wyrobów gotowych otrzymywanych z tych surowców i półproduktów, w tym środki spożywcze, a także zwierzęta gospodarskie oraz ryby;
 
-- **1)** artykuły rolno-spożywcze – produkty rolne w postaci surowców, półproduktów, wyrobów gotowych otrzymywanych z tych surowców i półproduktów, w tym środki spożywcze, a także zwierzęta gospodarskie oraz ryby;
 - **2)** dane rynkowe – informacje o poziomie cen i wielkości obrotu artykułami rolno-spożywczymi niezależnie od miejsca jego prowadzenia, związanych z przedsiębiorcą;
-- **3)** przedsiębiorca – przedsiębiorcę w rozumieniu ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm.), a także osoby fizyczne lub prawne prowadzące działalność wytwórczą w rolnictwie w zakresie upraw rolnych oraz chowu, hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa oraz rybactwa śródlądowego.
+- **3)** przedsiębiorca – przedsiębiorcę w rozumieniu ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643, z 2002 r. Nr 1, poz. 2, Nr 115, poz. 995 i Nr 130, poz. 1112, z 2003 r. Nr 86, poz. 789, Nr 128, poz. 1176 i Nr 217, poz. 2125, z 2004 r. Nr 54, poz. 535, Nr 91, poz. 870 i Nr 173, poz. 1808, z 2006 r. Nr 144, poz. 1043, z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 131, poz. 764 i Nr 171, poz. 1016.)Obecnie ustawa z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, 699, 875 i 978), na podstawie art. 86 ustawy z dnia 2 lipca 2004 r. – Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1808, z 2006 r. Nr 225, poz. 1636, z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 131, poz. 764), która weszła w życie z dniem 21 sierpnia 2004 r., a także osoby fizyczne lub prawne prowadzące działalność wytwórczą w rolnictwie w zakresie upraw rolnych oraz chowu, hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa oraz rybactwa śródlądowego.
 
 **Art. 3.**
 
@@ -83,9 +80,9 @@ art. 15 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych 
 - **5)** udostępnianie i rozpowszechnianie wyników rolniczych badań rynkowych;
 - **6)** szkolenie w zakresie rolniczych badań rynkowych.
 
-3. (uchylony)
+3. (uchylony)Dodany przez art. 35 ustawy z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292), która weszła w życie z dniem 1 maja 2004 r.; uchylony przez art. 93 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690), która weszła w życie z dniem 25 czerwca 2011 r.
 
-4. (uchylony)
+4. (uchylony)Dodany przez art. 35 ustawy z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292), która weszła w życie z dniem 1 maja 2004 r.; uchylony przez art. 93 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690), która weszła w życie z dniem 25 czerwca 2011 r.
 
 **Art. 4.**
 
@@ -122,9 +119,7 @@ art. 15 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych 
 - **1)** miejsce zbierania danych rynkowych oraz ich zakres;
 - **2)** termin i sposób zbierania danych rynkowych;
 - **3)** termin i formę przekazywania danych rynkowych ministrowi właściwemu do spraw rynków rolnych;
-- **4)** sposób zabezpieczenia danych rynkowych podczas ich zbierania, przetwarzania i przekazywania.
-
-**Art. 8.**
+- **4)** sposób zabezpieczenia danych rynkowych podczas ich zbierania, przetwarzania i przekazywania. Art. 8W brzmieniu ustalonym przez art. 20 ustawy z dnia 24 sierpnia 2007 r. o zmianie niektórych ustaw w związku z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej (Dz. U. Nr 176, poz. 1238), która weszła w życie z dniem 10 października 2007 r..
 
 1. Kontrolę prawidłowości przekazywanych danych rynkowych przez przedsiębiorców, o których mowa w art. 4 ust. 1, prowadzi Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych.
 
@@ -144,12 +139,9 @@ art. 15 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych 
 
 - **1)** ujawnia lub w sposób niezgodny z ustawą wykorzystuje dane rynkowe, z którymi zapoznał się w związku z wykonywaniem pracy lub czynności na zlecenie prowadzącego rolnicze badania rynkowe,
 - **2)** będąc obowiązanym do nieodpłatnego przekazywania danych rynkowych nie przekazuje lub wbrew obowiązkowi określonemu w ustawie przekazuje dane rynkowe niezgodne ze stanem faktycznym,
-- **3)** będąc obowiązanym do nieodpłatnego przekazywania danych rynkowych uniemożliwia wykonanie kontroli prawidłowości przekazywania danych rynkowych albo na żądanie osoby upoważnionej do kontroli nie przekazuje informacji związanych z przedmiotem kontroli, w szczególności nie udziela pisemnych lub ustnych wyjaśnień w sprawach objętych kontrolą podlega karze grzywny.
+- **3)** będąc obowiązanym do nieodpłatnego przekazywania danych rynkowych uniemożliwia wykonanie kontroli prawidłowości przekazywania danych rynkowych albo na żądanie osoby upoważnionej do kontroli nie przekazuje informacji związanych z przedmiotem kontroli, w szczególności nie udziela pisemnych lub ustnych wyjaśnień w sprawach objętych kontrolą – podlega karze grzywny.
 
 **Art. 11.** Orzekanie w sprawach o czyny wymienione w art. 10 następuje na podstawie przepisów o postępowaniu w sprawach o wykroczenia.
 
-**Art. 12.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r.
-
-- **1)** Ze zmianą wprowadzoną przez art. 13 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz innych ustaw (Dz. U. Nr 135, poz. 1145), która weszła w życie z dniem 12 września 2002 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643, z 2002 r. Nr 1, poz. 2, Nr 115, poz. 995 i Nr 130, poz. 1112, z 2003 r. Nr 86, poz. 789, Nr 128, poz. 1176 i Nr 217, poz. 2125, z 2004 r. Nr 54, poz. 535, Nr 91, poz. 870 i Nr 173, poz. 1808, z 2006 r. Nr 144, poz. 1043, z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 131, poz. 764 i Nr 171, poz. 1016. 3) Obecnie ustawa z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, 699, 875 i 978), na podstawie art. 86 ustawy z dnia 2 lipca 2004 r. – Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1808, z 2006 r. Nr 225, poz. 1636, z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 131, poz. 764), która weszła w życie z dniem 21 sierpnia 2004 r. 4) Dodany przez art. 35 ustawy z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292), która weszła w życie z dniem 1 maja 2004 r.; uchylony przez art. 93 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690), która weszła w życie z dniem 25 czerwca 2011 r. 5) W brzmieniu ustalonym przez art. 20 ustawy z dnia 24 sierpnia 2007 r. o zmianie niektórych ustaw w związku z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej (Dz. U. Nr 176, poz. 1238), która weszła w życie z dniem 10 października 2007 r.
-
+**Art. 12.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r. 1) Ze zmianą wprowadzoną przez art. 13 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz innych ustaw (Dz. U. Nr 135, poz. 1145), która weszła w życie z dniem 12 września 2002 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643, z 2002 r. Nr 1, poz. 2, Nr 115, poz. 995 i Nr 130, poz. 1112, z 2003 r. Nr 86, poz. 789, Nr 128, poz. 1176 i Nr 217, poz. 2125, z 2004 r. Nr 54, poz. 535, Nr 91, poz. 870 i Nr 173, poz. 1808, z 2006 r. Nr 144, poz. 1043, z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 131, poz. 764 i Nr 171, poz. 1016. 3) Obecnie ustawa z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, 699, 875 i 978), na podstawie art. 86 ustawy z dnia 2 lipca 2004 r. – Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1808, z 2006 r. Nr 225, poz. 1636, z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 131, poz. 764), która weszła w życie z dniem 21 sierpnia 2004 r. 4) Dodany przez art. 35 ustawy z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292), która weszła w życie z dniem 1 maja 2004 r.; uchylony przez art. 93 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690), która weszła w życie z dniem 25 czerwca 2011 r. 5) W brzmieniu ustalonym przez art. 20 ustawy z dnia 24 sierpnia 2007 r. o zmianie niektórych ustaw w związku z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej (Dz. U. Nr 176, poz. 1238), która weszła w życie z dniem 10 października 2007 r.
 

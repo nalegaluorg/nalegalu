@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 12 maja 2020 r. w sprawie szczegółowych warunków, jakim powinno odpowiadać memorandum informacyjne
+# Rozporządzenie Ministra Finansówz dnia 12 maja 2020 r. w sprawie szczegółowych warunków, jakim powinno odpowiadać memorandum informacyjne Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-12 |
 | Data wydania | 2020-06-17 |
-| Wejście w życie | 2020-07-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1053/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Memorandum, o którym mowa w art. 37b ust. 1 ustawy, gdy emitentem jest podmiot inny niż fundusz Rozdział 3 – Memorandum, o którym mowa w art. 37b ust. 1 ustawy, w przypadku gdy emitentem jest fundusz Rozdział 4 – Memorandum, o którym mowa w art. 38b ust. 1 ustawy, gdy emitentem jest podmiot inny niż fundusz oferujący obligacje Rozdział 5 – Memorandum, o którym mowa w art. 38b ust. 1 ustawy, gdy emitentem jest fundusz oferujący obligacje Rozdział 6 – Memorandum, o którym mowa w art. 40 ust. 1 ustawy Rozdział 7 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 55 pkt 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2019 r. poz. 623, 1798 i 2217) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki, jakim powinno odpowiadać memorandum informacyjne, zwane dalej „memorandum”, o którym mowa w art. 37b ust. 1, art. 38b ust. 1 oraz art. 40 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, zwanej dalej „ustawą”.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-banku-reprezentancie – rozumie się przez to bank-reprezentanta, o którym mowa w przepisach rozdziału 7 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2018 r. poz. 483, z późn. zm.);
+banku-reprezentancie – rozumie się przez to bank-reprezentanta, o którym mowa w przepisach rozdziału 7 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2018 r. poz. 483, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243, z 2019 r. poz. 1572, 1655, 1798 i 2217 oraz z 2020 r. poz. 288, 695 i 875.);
 2)
 certyfikacie inwestycyjnym – rozumie się przez to certyfikat inwestycyjny, o którym mowa w ustawie o funduszach;
 3)
@@ -54,9 +54,9 @@ kapitałach własnych emitenta, w przypadku gdy emitentem jest fundusz – rozum
 10)
 Kodeksie karnym – rozumie się przez to ustawę z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2019 r. poz. 1950 i 2128 oraz z 2020 r. poz. 568 i 875);
 11)
-Kodeksie spółek handlowych – rozumie się przez to ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, z późn. zm.);
+Kodeksie spółek handlowych – rozumie się przez to ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288, 568 i 695.);
 12)
-kuratorze – rozumie się przez to kuratora ustanowionego na podstawie art. 42 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495 oraz z 2020 r. poz. 875), kuratora ustanowionego na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.), kuratora ustanowionego na podstawie art. 426 § 2 Kodeksu spółek handlowych, kuratora do działania w postępowaniu upadłościowym, kuratora do reprezentowania instytucji kredytowej w postępowaniu upadłościowym, kuratora do reprezentowania w postępowaniu upadłościowym praw posiadaczy listów zastawnych, kuratora do reprezentowania w postępowaniu upadłościowym interesów osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia, kuratora do reprezentowania praw obligatariuszy, kuratora ustanowionego na podstawie art. 138 § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.), kuratora ustanowionego na podstawie art. 144 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz. 284, 288 i 321) oraz kuratora ustanowionego na podstawie art. 315 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2020 r. poz. 895);
+kuratorze – rozumie się przez to kuratora ustanowionego na podstawie art. 42 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495 oraz z 2020 r. poz. 875), kuratora ustanowionego na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288, 462, 875, 956 i 1017.), kuratora ustanowionego na podstawie art. 426 § 2 Kodeksu spółek handlowych, kuratora do działania w postępowaniu upadłościowym, kuratora do reprezentowania instytucji kredytowej w postępowaniu upadłościowym, kuratora do reprezentowania w postępowaniu upadłościowym praw posiadaczy listów zastawnych, kuratora do reprezentowania w postępowaniu upadłościowym interesów osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia, kuratora do reprezentowania praw obligatariuszy, kuratora ustanowionego na podstawie art. 138 § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285, 568 i 695.), kuratora ustanowionego na podstawie art. 144 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz. 284, 288 i 321) oraz kuratora ustanowionego na podstawie art. 315 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2020 r. poz. 895);
 13)
 międzynarodowej instytucji publicznej – rozumie się przez to instytucję będącą osobą prawną o charakterze publicznym ustanowioną na mocy umowy międzynarodowej zawartej pomiędzy suwerennymi państwami, której członkiem jest jedno lub więcej państw członkowskich;
 14)
@@ -142,6 +142,7 @@ kursu obowiązującego na ostatni dzień każdego okresu;
 kursu średniego w każdym okresie, obliczanego jako średnia arytmetyczna kursów obowiązujących na ostatni dzień każdego miesiąca w danym okresie, a w uzasadnionych przypadkach – obliczanego jako średnia arytmetyczna kursów obowiązujących na ostatni dzień danego okresu i ostatni dzień okresu go poprzedzającego;
 3)
 najwyższego i najniższego kursu w każdym okresie.
+Memorandum, o którym mowa w art. 37b ust. 1 ustawy, gdy emitentem jest podmiot inny niż fundusz
 § 7.
 Memorandum składa się z następujących części:
 1)
@@ -486,6 +487,7 @@ wskazanie miejsca udostępnienia umowy emitenta z podmiotem udzielającym zabezp
 wskazanie i opis podmiotu innego niż podmioty włączone w obsługę emisji, posiadającego ekonomiczny interes w pozyskaniu przez emitenta środków w wyniku emisji papierów wartościowych zabezpieczonych, z wyjątkiem podmiotów, o których mowa w ust. 5.
 5.
 Obowiązek określony w ust. 1 nie ma zastosowania w przypadku, gdy gwarantującym bezwarunkowo i nieodwołalnie papiery wartościowe jest Skarb Państwa, państwo członkowskie albo jednostka samorządu terytorialnego.
+Memorandum, o którym mowa w art. 37b ust. 1 ustawy, w przypadku gdy emitentem jest fundusz
 § 18.
 Memorandum składa się z następujących części:
 1)
@@ -711,7 +713,21 @@ a)
 celów inwestycyjnych funduszu wraz z omówieniem podstawowych zasad funkcjonowania i sposobu działania funduszu oraz dywersyfikacji i kryteriów doboru lokat,
 b)
 działalności i polityki inwestycyjnej, w tym informacje o typach lokat oraz dane dotyczące szacunkowego udziału następujących typów lokat w aktywach funduszu:
-– papierów wartościowych: – – akcji, – – certyfikatów inwestycyjnych, – – dłużnych papierów wartościowych, – – pozostałych papierów wartościowych, – wierzytelności, – udziałów w spółkach z ograniczoną odpowiedzialnością, – walut, – instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych, – instrumentów rynku pieniężnego, – depozytów, – jednostek uczestnictwa, – tytułów uczestnictwa emitowanych przez instytucje wspólnego inwestowania, – praw własności lub współwłasności nieruchomości gruntowych oraz budynków i lokali stanowiących odrębne nieruchomości, – użytkowania wieczystego, – praw własności lub współwłasności statków morskich,
+papierów wartościowych:
+– – akcji,
+– – certyfikatów inwestycyjnych,
+– – dłużnych papierów wartościowych,
+– – pozostałych papierów wartościowych,
+– wierzytelności,
+– udziałów w spółkach z ograniczoną odpowiedzialnością, – walut,
+– instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych,
+– instrumentów rynku pieniężnego,
+– depozytów,
+– jednostek uczestnictwa,
+– tytułów uczestnictwa emitowanych przez instytucje wspólnego inwestowania,
+– praw własności lub współwłasności nieruchomości gruntowych oraz budynków i lokali stanowiących odrębne nieruchomości,
+– użytkowania wieczystego,
+– praw własności lub współwłasności statków morskich,
 c)
 inwestycji o podwyższonym ryzyku, z uwzględnieniem kryteriów wyboru przedsiębiorstw, przewidywanego zaangażowania kapitałowego w poszczególne rodzaje przedsiębiorstw, polityki funduszu w zakresie zarządzania przedsiębiorstwami, w tym opracowywania strategii rozwoju przedsiębiorstw, oraz przewidywanych sposobów zakończenia inwestycji,
 d)
@@ -784,8 +800,7 @@ w odniesieniu do podmiotów zarządzających portfelem inwestycyjnym funduszu lu
 a)
 podmiotu, o którym mowa w art. 46 ust. 1, 2, 2a, 3 lub 3a ustawy o funduszach, któremu towarzystwo funduszy inwestycyjnych zleciło zarządzanie portfelem inwestycyjnym funduszu lub jego częścią,
 b)
-podmiotu, któremu przekazano wykonywanie czynności zarządzania portfelem inwestycyjnym funduszu lub jego częścią na podstawie art. 45a ust. 4b lub 4c oraz art. 46 ust. 10 ustawy o funduszach
-oraz imion i nazwisk oraz stanowisk osób odpowiedzialnych za wykonywanie czynności zleconych w tych podmiotach, z opisem ich kwalifikacji, zajmowanych wcześniej stanowisk i przebiegu pracy zawodowej;
+podmiotu, któremu przekazano wykonywanie czynności zarządzania portfelem inwestycyjnym funduszu lub jego częścią na podstawie art. 45a ust. 4b lub 4c oraz art. 46 ust. 10 ustawy o funduszach – oraz imion i nazwisk oraz stanowisk osób odpowiedzialnych za wykonywanie czynności zleconych w tych podmiotach, z opisem ich kwalifikacji, zajmowanych wcześniej stanowisk i przebiegu pracy zawodowej;
 3)
 dane o strukturze własności towarzystwa funduszy inwestycyjnych zarządzającego funduszem albo zarządzającego z UE, w przypadku gdy na podstawie umowy, o której mowa w art. 4 ust. 1b ustawy o funduszach, zarządza funduszem oraz prowadzi jego sprawy.
 § 27.
@@ -813,6 +828,7 @@ odpis z właściwego dla funduszu rejestru;
 aktualny tekst statutu funduszu oraz treść ogłoszonych zmian statutu, które jeszcze nie weszły w życie, wraz z terminem ich wejścia w życie;
 3)
 definicje i objaśnienia skrótów.
+Memorandum, o którym mowa w art. 38b ust. 1 ustawy, gdy emitentem jest podmiot inny niż fundusz oferujący obligacje
 § 29.
 Memorandum składa się z następujących części:
 1)
@@ -1166,6 +1182,7 @@ wskazanie miejsca udostępnienia umowy emitenta z podmiotem udzielającym zabezp
 wskazanie i opis podmiotu innego niż podmioty włączone w obsługę emisji, posiadającego ekonomiczny interes w pozyskaniu przez emitenta środków w wyniku emisji papierów wartościowych zabezpieczonych, z wyjątkiem podmiotów, o których mowa w ust. 5.
 5.
 Obowiązek określony w ust. 1 nie ma zastosowania w przypadku, gdy gwarantującym bezwarunkowo i nieodwołalnie papiery wartościowe jest Skarb Państwa, państwo członkowskie albo jednostka samorządu terytorialnego.
+Memorandum, o którym mowa w art. 38b ust. 1 ustawy, gdy emitentem jest fundusz oferujący obligacje
 § 40.
 Memorandum składa się z następujących części:
 1)
@@ -1348,7 +1365,22 @@ a)
 celów inwestycyjnych funduszu wraz z omówieniem podstawowych zasad funkcjonowania i sposobu działania funduszu oraz dywersyfikacji i kryteriów doboru lokat,
 b)
 działalności i polityki inwestycyjnej, w tym informacje o typach lokat oraz dane dotyczące szacunkowego udziału następujących typów lokat w aktywach funduszu:
-– papierów wartościowych: – – akcji, – – certyfikatów inwestycyjnych, – – dłużnych papierów wartościowych, – – pozostałych papierów wartościowych, – wierzytelności, – udziałów w spółkach z ograniczoną odpowiedzialnością, – walut, – instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych, – instrumentów rynku pieniężnego, – depozytów, – jednostek uczestnictwa, – tytułów uczestnictwa emitowanych przez instytucje wspólnego inwestowania, – praw własności lub współwłasności nieruchomości gruntowych oraz budynków i lokali stanowiących odrębne nieruchomości, – użytkowania wieczystego, – praw własności lub współwłasności statków morskich,
+papierów wartościowych:
+– – akcji,
+– – certyfikatów inwestycyjnych,
+– – dłużnych papierów wartościowych,
+– – pozostałych papierów wartościowych,
+– wierzytelności,
+– udziałów w spółkach z ograniczoną odpowiedzialnością,
+– walut,
+– instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych,
+– instrumentów rynku pieniężnego,
+– depozytów,
+– jednostek uczestnictwa,
+– tytułów uczestnictwa emitowanych przez instytucje wspólnego inwestowania,
+– praw własności lub współwłasności nieruchomości gruntowych oraz budynków i lokali stanowiących odrębne nieruchomości,
+– użytkowania wieczystego,
+– praw własności lub współwłasności statków morskich,
 c)
 inwestycji o podwyższonym ryzyku, z uwzględnieniem kryteriów wyboru przedsiębiorstw, przewidywanego zaangażowania kapitałowego w poszczególne rodzaje przedsiębiorstw, polityki funduszu w zakresie zarządzania przedsiębiorstwami, w tym opracowywania strategii rozwoju przedsiębiorstw, oraz przewidywanych sposobów zakończenia inwestycji,
 d)
@@ -1402,8 +1434,7 @@ w odniesieniu do podmiotów zarządzających portfelem inwestycyjnym funduszu lu
 a)
 podmiotu, o którym mowa w art. 46 ust. 1, 2, 2a, 3 lub 3a ustawy o funduszach, któremu towarzystwo funduszy inwestycyjnych zleciło zarządzanie portfelem inwestycyjnym funduszu lub jego częścią,
 b)
-podmiotu, któremu przekazano wykonywanie czynności zarządzania portfelem inwestycyjnym funduszu lub jego częścią na podstawie art. 45a ust. 4b lub 4c oraz art. 46 ust. 10 ustawy o funduszach
-oraz imion i nazwisk oraz stanowisk osób odpowiedzialnych za wykonywanie czynności zleconych w tych podmiotach, z opisem ich kwalifikacji, zajmowanych wcześniej stanowisk i przebiegu pracy zawodowej;
+podmiotu, któremu przekazano wykonywanie czynności zarządzania portfelem inwestycyjnym funduszu lub jego częścią na podstawie art. 45a ust. 4b lub 4c oraz art. 46 ust. 10 ustawy o funduszach – oraz imion i nazwisk oraz stanowisk osób odpowiedzialnych za wykonywanie czynności zleconych w tych podmiotach, z opisem ich kwalifikacji, zajmowanych wcześniej stanowisk i przebiegu pracy zawodowej;
 3)
 dane o strukturze własności towarzystwa funduszy inwestycyjnych zarządzającego funduszem albo zarządzającego z UE, w przypadku gdy na podstawie umowy, o której mowa w art. 4 ust. 1b ustawy o funduszach, zarządza funduszem oraz prowadzi jego sprawy.
 § 47.
@@ -1431,6 +1462,7 @@ odpis z właściwego dla funduszu rejestru;
 aktualny tekst statutu funduszu oraz treść ogłoszonych zmian statutu, które jeszcze nie weszły w życie, wraz z terminem ich wejścia w życie;
 3)
 definicje i objaśnienia skrótów.
+Memorandum, o którym mowa w art. 40 ust. 1 ustawy
 § 49.
 Memorandum składa się z następujących części:
 1)
@@ -1697,23 +1729,37 @@ wskazanie miejsca udostępnienia umowy emitenta z podmiotem udzielającym zabezp
 wskazanie i opis podmiotu innego niż podmioty włączone w obsługę emisji, posiadającego ekonomiczny interes w pozyskaniu przez emitenta środków w wyniku emisji papierów wartościowych zabezpieczonych, z wyjątkiem podmiotów, o których mowa w ust. 5.
 5.
 Obowiązek określony w ust. 1 nie ma zastosowania w przypadku, gdy gwarantującym bezwarunkowo i nieodwołalnie papiery wartościowe jest Skarb Państwa, państwo członkowskie albo jednostka samorządu terytorialnego.
+Przepisy przejściowe i końcowe
 § 59.
 Do memorandum informacyjnego sporządzonego w związku z ofertą publiczną lub ubieganiem się o dopuszczenie instrumentów finansowych do obrotu na rynku regulowanym przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 60.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243, z 2019 r. poz. 1572, 1655, 1798 i 2217 oraz z 2020 r. poz. 288, 695 i 875. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288, 568 i 695. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288, 462, 875, 956 i 1017. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285, 568 i 695. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 sierpnia 2013 r. w sprawie szczegółowych warunków, jakim powinno odpowiadać memorandum informacyjne sporządzone w związku z ofertą publiczną lub ubieganiem się o dopuszczenie instrumentów finansowych do obrotu na rynku regulowanym (Dz. U. poz. 988), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 2 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 sierpnia 2013 r. w sprawie szczegółowych warunków, jakim powinno odpowiadać memorandum informacyjne sporządzone w związku z ofertą publiczną lub ubieganiem się o dopuszczenie instrumentów finansowych do obrotu na rynku regulowanym (Dz. U. poz. 988), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 2 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243, z 2019 r. poz. 1572, 1655, 1798 i 2217 oraz z 2020 r. poz. 288, 695 i 875. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288, 568 i 695. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288, 462, 875, 956 i 1017. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285, 568 i 695. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 8 sierpnia 2013 r. w sprawie szczegółowych warunków, jakim powinno odpowiadać memorandum informacyjne sporządzone w związku z ofertą publiczną lub ubieganiem się o dopuszczenie instrumentów finansowych do obrotu na rynku regulowanym (Dz. U. poz. 988), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 2 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Memorandum, o którym mowa w art. 37b ust. 1 ustawy, gdy emitentem jest podmiot inny niż fundusz
+#### Rozdział 2 – Memorandum, o którym mowa w art. 37b ust. 1 ustawy, gdy emitentem jest podmiot inny niż fundusz
 
-#### Rozdział 3 Memorandum, o którym mowa w art. 37b ust. 1 ustawy, w przypadku gdy emitentem jest fundusz
+#### Rozdział 3 – Memorandum, o którym mowa w art. 37b ust. 1 ustawy, w przypadku gdy emitentem jest fundusz
 
-#### Rozdział 4 Memorandum, o którym mowa w art. 38b ust. 1 ustawy, gdy emitentem jest podmiot inny niż fundusz oferujący obligacje
+#### Rozdział 4 – Memorandum, o którym mowa w art. 38b ust. 1 ustawy, gdy emitentem jest podmiot inny niż fundusz oferujący obligacje
 
-#### Rozdział 5 Memorandum, o którym mowa w art. 38b ust. 1 ustawy, gdy emitentem jest fundusz oferujący obligacje
+#### Rozdział 5 – Memorandum, o którym mowa w art. 38b ust. 1 ustawy, gdy emitentem jest fundusz oferujący obligacje
 
-#### Rozdział 6 Memorandum, o którym mowa w art. 40 ust. 1 ustawy
+#### Rozdział 6 – Memorandum, o którym mowa w art. 40 ust. 1 ustawy
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-29 |
 | Data wydania | 2016-08-09 |
-| Wejście w życie | 2016-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1205/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 868 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 868 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195, 437, 868, 996 i 1177.) zarządza się, co następuje:
 § 1.
 Ilekroć w niniejszym rozporządzeniu jest mowa o ruchomości, należy przez to rozumieć również zbiór ruchomości.
 § 2.
@@ -47,5 +46,5 @@ Jeżeli po wywołaniu nikt nie zaofiarował przynajmniej ceny wywołania, komorn
 § 9.
 Jeżeli suma osiągnięta ze sprzedaży niektórych ruchomości wystarcza na zaspokojenie egzekwowanych należności i kosztów egzekucji, komornik przerywa licytację.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.
+Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 marca 1968 r. w sprawie czynności komorników (Dz. U. poz. 52, z 1971 r. poz. 239, z 1994 r. poz. 577, z 1997 r. poz. 882, z 2004 r. poz. 1804 oraz z 2007 r. poz. 769), które na podstawie art. 23 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1311 i 1513 oraz z 2016 r. poz. 178, 394 i 615) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195, 437, 868, 996 i 1177. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 marca 1968 r. w sprawie czynności komorników (Dz. U. poz. 52, z 1971 r. poz. 239, z 1994 r. poz. 577, z 1997 r. poz. 882, z 2004 r. poz. 1804 oraz z 2007 r. poz. 769), które na podstawie art. 23 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1311 i 1513 oraz z 2016 r. poz. 178, 394 i 615) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

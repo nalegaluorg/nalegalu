@@ -26,15 +26,26 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001763) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1763/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja, zadania i zakres uprawnień straży Rozdział 3 – Uprawnienia i obowiązki strażników Rozdział 4 – Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2019 r. poz. 1795), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 30 i art. 31 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 30 i art. 31 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112), które stanowią: „
+Przepisy ogólne
+Organizacja, zadania i zakres uprawnień straży
+Uprawnienia i obowiązki strażników
+Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 Art. 34–37.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organizacja, zadania i zakres uprawnień straży
+
+#### Rozdział 3 – Uprawnienia i obowiązki strażników
+
+#### Rozdział 4 – Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 
 **Art. 30.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 7 ustawy zmienianej w art. 7 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 7 ustawy zmienianej w art. 7, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -44,7 +55,7 @@ Art. 34–37.
 - **2)** art. 9 w zakresie art. 96 § 1be, który wchodzi w życie po upływie 7 dni od dnia ogłoszenia;
 - **3)** art. 14 pkt 5, który wchodzi w życie z dniem 1 stycznia 2021 r. ” . Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -75,7 +86,7 @@ Art. 34–37.
 
 **Art. 5.** Koszty związane z funkcjonowaniem straży są pokrywane z budżetu gminy.
 
-#### Rozdział 2 Organizacja, zadania i zakres uprawnień straży
+#### Rozdział 2
 
 **Art. 6.**
 
@@ -120,7 +131,7 @@ Art. 34–37.
 
 - **1)** wykonywania uprawnień, o których mowa w art. 12,
 - **2)** użycia broni palnej oraz środków przymusu bezpośredniego,
-- **3)** ewidencji, o której mowa w art. 9a ust. 1 sprawuje wojewoda przy pomocy komendanta wojewódzkiego (Stołecznego) Policji działającego w jego imieniu.
+- **3)** ewidencji, o której mowa w art. 9a ust. 1 – sprawuje wojewoda przy pomocy komendanta wojewódzkiego (Stołecznego) Policji działającego w jego imieniu.
 
 3. Wojewoda sprawuje nadzór przez:
 
@@ -137,11 +148,7 @@ Art. 34–37.
 - **3)** koordynowaniu rozmieszczenia służb policyjnych i straży, z uwzględnieniem zagrożeń występujących na danym terenie;
 - **4)** wspólnym prowadzeniu działań porządkowych w celu zapewnienia spokoju i porządku w miejscach zgromadzeń, imprez artystycznych, rozrywkowych i sportowych, a także w innych miejscach publicznych;
 - **5)** organizowaniu wspólnych szkoleń oraz ćwiczeń policjantów i strażników gminnych (miejskich);
-- **6)** wymianie informacji w zakresie obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych.
-
-5a. W celu realizacji zadań, o których mowa w art. 11 ust. 1 pkt 1 i 3, w przypadku powszechnego zagrożenia bezpieczeństwa publicznego, katastrofy, klęski żywiołowej, stanu zagrożenia epidemicznego, stanu epidemii lub innej sytuacji kryzysowej, na obszarze województwa lub gminy, wojewoda może na czas określony zarządzić użycie straży do wspólnych działań z Policją. O zarządzeniu użycia straży do wspólnych działań z Policją wojewoda niezwłocznie informuje właściwego terytorialnie wójta, burmistrza (prezydenta miasta).
-
-5b. W przypadku, o którym mowa w ust. 5a, straż podlega dowództwu właściwego terytorialnie komendanta Policji.
+- **6)** wymianie informacji w zakresie obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych. 5aDodany przez art. 7 pkt 1 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112), która weszła w życie z dniem 29 listopada 2020 r.. W celu realizacji zadań, o których mowa w art. 11 ust. 1 pkt 1 i 3, w przypadku powszechnego zagrożenia bezpieczeństwa publicznego, katastrofy, klęski żywiołowej, stanu zagrożenia epidemicznego, stanu epidemii lub innej sytuacji kryzysowej, na obszarze województwa lub gminy, wojewoda może na czas określony zarządzić użycie straży do wspólnych działań z Policją. O zarządzeniu użycia straży do wspólnych działań z Policją wojewoda niezwłocznie informuje właściwego terytorialnie wójta, burmistrza (prezydenta miasta). 5bDodany przez art. 7 pkt 1 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112), która weszła w życie z dniem 29 listopada 2020 r.. W przypadku, o którym mowa w ust. 5a, straż podlega dowództwu właściwego terytorialnie komendanta Policji.
 
 6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb sprawowania nadzoru nad działalnością straży przez właściwego terytorialnie wojewodę przy pomocy komendanta wojewódzkiego (Stołecznego) Policji, kierując się potrzebą zapewnienia zgodnej z prawem realizacji zadań straży.
 
@@ -275,7 +282,7 @@ Art. 34–37.
 
 **Art. 13.** (uchylony)
 
-#### Rozdział 3 Uprawnienia i obowiązki strażników
+#### Rozdział 3
 
 **Art. 14.**
 
@@ -408,7 +415,7 @@ Art. 34–37.
 
 **Art. 33.** Obowiązki i prawa innych pracowników zatrudnionych w straży reguluje ustawa o pracownikach samorządowych.
 
-#### Rozdział 4 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+#### Rozdział 4
 
 **Art. 38.**
 
@@ -428,5 +435,5 @@ Art. 34–37.
 
 **Art. 40.** Strażnik może używać umundurowania, legitymacji służbowej, znaku identyfikacyjnego oraz emblematu gminy według dotychczasowych obowiązujących wzorów, do czasu wyczerpania ich zapasów, nie dłużej jednak niż 18 miesięcy od dnia wejścia ustawy w życie.
 
-**Art. 41.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem art. 39 ust. 1, 3 i 4, który wchodzi w życie z dniem następującym po upływie kadencji rad gmin wybranych w dniu 19 czerwca 1994 r.
+**Art. 41.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem art. 39 ust. 1, 3 i 4, który wchodzi w życie z dniem następującym po upływie kadencji rad gmin wybranych w dniu 19 czerwca 1994 r.Kadencja rady gminy trwała 4 lata licząc od dnia wyboru, na podstawie art. 16 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. poz. 95). 1) Dodany przez art. 7 pkt 1 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112), która weszła w życie z dniem 29 listopada 2020 r. 2) Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 29 listopada 2020 r. z mocą od dnia 5 września 2020 r. 3) Kadencja rady gminy trwała 4 lata licząc od dnia wyboru, na podstawie art. 16 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. poz. 95).
 

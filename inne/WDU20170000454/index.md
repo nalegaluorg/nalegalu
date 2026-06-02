@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-24 |
 | Data wydania | 2017-03-02 |
-| Wejście w życie | 2017-03-04 |
 | Ostatnia zmiana | 2025-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/454/text.pdf) |
 
@@ -121,5 +120,5 @@ Spłata pożyczki następuje w ratach miesięcznych i rozpoczyna się od następ
 2.
 Szczegółowe warunki spłaty pożyczki określa umowa, o której mowa w § 6 ust. 1.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 4 marca 2017 r.
+Rozporządzenie wchodzi w życie z dniem 4 marca 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 12 czerwca 2012 r. w sprawie sposobu planowania i wykorzystywania środków na zaspokojenie potrzeb mieszkaniowych prokuratorów oraz warunków przyznawania pomocy finansowej z tych środków (Dz. U. poz. 690), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 12 czerwca 2012 r. w sprawie sposobu planowania i wykorzystywania środków na zaspokojenie potrzeb mieszkaniowych prokuratorów oraz warunków przyznawania pomocy finansowej z tych środków (Dz. U. poz. 690), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

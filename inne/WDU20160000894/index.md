@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 8 czerwca 2016 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia w zawodach
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 8 czerwca 2016 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia w zawodach Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-08 |
 | Data wydania | 2016-06-23 |
-| Wejście w życie | 2016-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000894) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/894/text.pdf) |
 
@@ -33,41 +32,309 @@ W rozporządzeniu Ministra Edukacji Narodowej z dnia 7 lutego 2012 r. w sprawie 
 1)
 w części I „Ogólne cele i zadania kształcenia zawodowego” w tabeli 1. zatytułowanej „Wykaz kwalifikacji oraz ich powiązania z zawodami i efektami kształcenia uporządkowane narastająco według oznaczeń kwalifikacji w ramach danego obszaru kształcenia”:
 a)
-pozycja dotycząca kwalifikacji A.69. otrzymuje brzmienie: A.69. Eksploatacja drogowego środków transportu 311927 Technik transportu drogowego PKZ(M.a)PKZ(M.g) 832201 Kierowca mechanik
+pozycja dotycząca kwalifikacji A.69. otrzymuje brzmienie:
+A.69. Eksploatacja drogowego środków transportu 311927 Technik transportu drogowego PKZ(M.a)
+PKZ(M.g) 832201 Kierowca mechanik
 b)
-pozycja dotycząca kwalifikacji A.70. otrzymuje brzmienie: A.70. Organizacja przewozu transportu drogowego środkami 311927 Technik transportu drogowego OMZPKZ(A.ac)PKZ(M.a)PKZ(M.g)
+pozycja dotycząca kwalifikacji A.70. otrzymuje brzmienie:
+A.70. Organizacja przewozu transportu drogowego środkami 311927 Technik transportu drogowego OMZ
+PKZ(A.ac)
+PKZ(M.a)
+PKZ(M.g)
 c)
-pozycje dotyczące kwalifikacji M.1. oraz M.2. otrzymują brzmienie: M1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie 834103 Mechanik-operator pojazdów i maszyn rolniczych PKZ(M.a)PKZ(M.b)PKZ(M.g)PKZ(R.c)PKZ(R.d) 311515 Technik mechanizacji rolnictwa i agrotroniki M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie 834103 Mechanik-operator pojazdów i maszyn rolniczych PKZ(M.a)PKZ(M.b)PKZ(M.g)PKZ(R.c)PKZ(R.d) 311515 Technik mechanizacji rolnictwa i agrotroniki
+pozycje dotyczące kwalifikacji M.1. oraz M.2. otrzymują brzmienie:
+M1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie 834103 Mechanik-operator pojazdów i maszyn rolniczych PKZ(M.a)
+PKZ(M.b)
+PKZ(M.g)
+PKZ(R.c)
+PKZ(R.d) 311515 Technik mechanizacji rolnictwa i agrotroniki M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie 834103 Mechanik-operator pojazdów i maszyn rolniczych PKZ(M.a)
+PKZ(M.b)
+PKZ(M.g)
+PKZ(R.c)
+PKZ(R.d) 311515 Technik mechanizacji rolnictwa i agrotroniki
 d)
 uchyla się pozycję dotyczącą kwalifikacji M.43.,
 e)
-po pozycji dotyczącej kwalifikacji M.45. dodaje się pozycję dotyczącą kwalifikacji M.46. w brzmieniu: M.46. Eksploatacja systemów mechatronicznych w rolnictwie 311515 Technik mechanizacji rolnictwa i agrotroniki OMZPKZ(E.a)PKZ(M.a)PKZ(M.b)PKZ(M.g)PKZ(R.c)PKZ(R.d)
+po pozycji dotyczącej kwalifikacji M.45. dodaje się pozycję dotyczącą kwalifikacji M.46. w brzmieniu:
+M.46. Eksploatacja systemów mechatronicznych w rolnictwie 311515 Technik mechanizacji rolnictwa i agrotroniki OMZ
+PKZ(E.a)
+PKZ(M.a)
+PKZ(M.b)
+PKZ(M.g)
+PKZ(R.c)
+PKZ(R.d)
 f)
-po pozycji dotyczącej kwalifikacji R.26. dodaje się pozycję dotyczącą kwalifikacji R.27. w brzmieniu: R.27. Jeździectwo i trening koni 516408 Jeździec PKZ(R.c)PKZ(R.p) 314203 Technik hodowca koni
+po pozycji dotyczącej kwalifikacji R.26. dodaje się pozycję dotyczącą kwalifikacji R.27. w brzmieniu:
+R.27. Jeździectwo i trening koni 516408 Jeździec PKZ(R.c)
+PKZ(R.p) 314203 Technik hodowca koni
 2)
 w części II „Efekty kształcenia”:
 a)
 w ust. 2 „Efekty kształcenia wspólne dla zawodów w ramach obszaru kształcenia, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów”:
-– w obszarze administracyjno-usługowym (A) pozycja dotycząca „PKZ(A.ac)” otrzymuje brzmienie: „ PKZ(A.ac) Umiejętności stanowiące podbudowę do kształcenia w zawodzie technik transportu drogowego Uczeń: 1) stosuje obliczenia do rozwiązywania problemów praktycznych, w tym przelicza jednostki miar fizycznych; 2) odczytuje schematy elektryczne i elektroniczne; 3) wykonuje czynności kontrolno-obsługowe pojazdów; 4) stosuje przepisy prawa dotyczące ruchu drogowego i kierujących pojazdami; 5) przestrzega zasad kierowania pojazdami; 6) stosuje programy komputerowe wspomagające wykonywanie zadań; 7) prowadzi i obsługuje pojazdy samochodowe w zakresie niezbędnym do uzyskania prawa jazdy kategorii C+E. ” ,
+w obszarze administracyjno-usługowym (A) pozycja dotycząca „PKZ(A.ac)” otrzymuje brzmienie: „ PKZ(A.ac) Umiejętności stanowiące podbudowę do kształcenia w zawodzie technik transportu drogowego Uczeń:
+1)
+stosuje obliczenia do rozwiązywania problemów praktycznych, w tym przelicza jednostki miar fizycznych;
+2)
+odczytuje schematy elektryczne i elektroniczne;
+3)
+wykonuje czynności kontrolno-obsługowe pojazdów;
+4)
+stosuje przepisy prawa dotyczące ruchu drogowego i kierujących pojazdami;
+5)
+przestrzega zasad kierowania pojazdami;
+6)
+stosuje programy komputerowe wspomagające wykonywanie zadań;
+7)
+prowadzi i obsługuje pojazdy samochodowe w zakresie niezbędnym do uzyskania prawa jazdy kategorii C+E. ” ,
 – w obszarze elektryczno-elektronicznym (E) wprowadzenie do „PKZ(E.a)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: monter sieci i urządzeń telekomunikacyjnych, monter mechatronik, monter-elektronik, elektromechanik pojazdów samochodowych, elektromechanik, elektryk, technik telekomunikacji, technik teleinformatyk, technik elektronik, technik awionik, technik mechatronik, technik elektryk, technik elektroniki i informatyki medycznej, mechanik pojazdów samochodowych, technik pojazdów samochodowych, technik automatyk sterowania ruchem kolejowym, technik elektroenergetyk transportu szynowego, mechanik motocyklowy, technik chłodnictwa i klimatyzacji, technik urządzeń dźwigowych, technik mechanizacji rolnictwa i agrotroniki ” ,
 – w obszarze mechanicznym i górniczo-hutniczym (M) wprowadzenie do „PKZ(M.a)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: mechanik-operator pojazdów i maszyn rolniczych, zegarmistrz, optyk-mechanik, mechanik precyzyjny, mechanik automatyki przemysłowej i urządzeń precyzyjnych, mechanik-monter maszyn i urządzeń, mechanik pojazdów samochodowych, operator obrabiarek skrawających, ślusarz, kowal, monter kadłubów okrętowych, blacharz samochodowy, blacharz, lakiernik, technik optyk, technik mechanik lotniczy, technik mechanik okrętowy, technik budownictwa okrętowego, technik pojazdów samochodowych, technik mechanik, monter mechatronik, elektromechanik pojazdów samochodowych, technik mechatronik, technik transportu drogowego, technik energetyk, modelarz odlewniczy, technik wiertnik, technik górnictwa podziemnego, technik górnictwa otworowego, technik górnictwa odkrywkowego, technik przeróbki kopalin stałych, technik odlewnik, technik hutnik, operator maszyn i urządzeń odlewniczych, operator maszyn i urządzeń metalurgicznych, operator maszyn i urządzeń do obróbki plastycznej, operator ma- szyn i urządzeń do przetwórstwa tworzyw sztucznych, złotnik-jubiler, mechanik motocyklowy, technik chłodnictwa i klimatyzacji, technik urządzeń dźwigowych, technik mechanizacji rolnictwa i agro-troniki, kierowca mechanik ” ,
 – w obszarze mechanicznym i górniczo-hutniczym (M) wprowadzenie do „PKZ(M.b)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: mechanik-operator pojazdów i maszyn rolniczych, mechanik-monter maszyn i urządzeń, operator obrabiarek skrawających, technik pojazdów samochodowych, technik mechanik, monter mechatronik, technik mechatronik, technik mechanizacji rolnictwa i agrotroniki ” ,
 – w obszarze mechanicznym i górniczo-hutniczym (M) wprowadzenie do „PKZ(M.g)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: mechanik pojazdów samochodowych, technik pojazdów samochodowych, elektromechanik pojazdów samochodowych, technik transportu drogowego, mechanik-operator pojazdów i maszyn rolniczych, technik mechanizacji rolnictwa i agrotroniki, kierowca mechanik ” ,
 – w obszarze rolniczo-leśnym z ochroną środowiska (R) wprowadzenie do „PKZ(R.c)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: ogrodnik, technik ogrodnik, pszczelarz, technik pszczelarz, rolnik, technik rolnik, technik architektury krajobrazu, technik hodowca koni, operator maszyn leśnych, technik leśnik, rybak śródlądowy, technik rybactwa śródlądowego, technik weterynarii, technik agrobiznesu, jeździec, mechanik-operator pojazdów i maszyn rolniczych, technik mechanizacji rolnictwa i agrotroniki ” ,
 – w obszarze rolniczo-leśnym z ochroną środowiska (R) wprowadzenie do „PKZ(R.d)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: pszczelarz, rolnik, technik pszczelarz, technik rolnik, technik agrobiznesu, mechanik-operator pojazdów i maszyn rolniczych, technik mechanizacji rolnictwa i agrotroniki ” ,
-– w obszarze rolniczo-leśnym z ochroną środowiska (R) po pozycji dotyczącej „PKZ(R.o)” dodaje się pozycję dotyczącą „PKZ(R.p)” w brzmieniu: „ PKZ(R.p) Umiejętności stanowiące podbudowę do kształcenia w zawodzie jeździec, technik hodowca koni Uczeń: 1) określa typy użytkowe koni; 2) posługuje się wiedzą z zakresu anatomii, fizjologii, biomechaniki i psychologii koni; 3) charakteryzuje cechy osobnicze różnych ras i typów użytkowych koni; 4) charakteryzuje metody treningu koni sportowych, wyścigowych, rekreacyjnych i terapeutycznych; 5) określa wymagania zoohigieniczne pomieszczeń dla koni; 6) rozpoznaje rodzaje pasz dla koni i określa warunki ich przechowywania; 7) określa wyposażenie bazy treningowej koni; 8) określa cechy sprawności psychofizycznej jeźdźca; 9) korzysta z przepisów prawa oraz regulaminów dotyczących jeździectwa i wyścigów konnych. ” ,
+w obszarze rolniczo-leśnym z ochroną środowiska (R) po pozycji dotyczącej „PKZ(R.o)” dodaje się pozycję dotyczącą „PKZ(R.p)” w brzmieniu: „ PKZ(R.p) Umiejętności stanowiące podbudowę do kształcenia w zawodzie jeździec, technik hodowca koni Uczeń:
+1)
+określa typy użytkowe koni;
+2)
+posługuje się wiedzą z zakresu anatomii, fizjologii, biomechaniki i psychologii koni;
+3)
+charakteryzuje cechy osobnicze różnych ras i typów użytkowych koni;
+4)
+charakteryzuje metody treningu koni sportowych, wyścigowych, rekreacyjnych i terapeutycznych;
+5)
+określa wymagania zoohigieniczne pomieszczeń dla koni;
+6)
+rozpoznaje rodzaje pasz dla koni i określa warunki ich przechowywania;
+7)
+określa wyposażenie bazy treningowej koni;
+8)
+określa cechy sprawności psychofizycznej jeźdźca;
+9)
+korzysta z przepisów prawa oraz regulaminów dotyczących jeździectwa i wyścigów konnych. ” ,
 b)
 w ust. 3 „Efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodach”:
-– w obszarze administracyjno-usługowym (A) pozycja dotycząca kwalifikacji A.69. otrzymuje brzmienie: „ A.69. Eksploatacja środków transportu drogowego 1. Obsługa środków transportu drogowego Uczeń: 1) rozróżnia rodzaje środków transportu drogowego; 2) wyjaśnia budowę oraz zasady działania podzespołów i zespołów środków transportu drogowego; 3) rozpoznaje instalacje oraz urządzenia elektryczne i elektroniczne stosowane w środkach transportu drogowego; 4) ocenia stan techniczny środków transportu drogowego; 5) wykonuje czynności związane z obsługą środków transportu drogowego; 6) lokalizuje uszkodzenia zespołów i podzespołów środków transportu drogowego; 7) dobiera metody napraw środków transportu drogowego; 8) posługuje się narzędziami i przyrządami kontrolno-pomiarowymi; 9) dobiera części zamienne oraz materiały eksploatacyjne; 10) wykonuje czynności związane z naprawą i konserwacją środków transportu drogowego; 11) posługuje się dokumentacją techniczno-eksploatacyjną środków transportu drogowego; 12) oblicza koszty związane z eksploatacją środków transportu drogowego. 2. Użytkowanie środków transportu drogowego Uczeń: 1) klasyfikuje środki transportu drogowego; 2) określa parametry techniczno-eksploatacyjne środków transportu drogowego; 3) dobiera środki transportu drogowego do rodzaju i właściwości przewożonych rzeczy; 4) przestrzega zasad rozmieszczania, mocowania oraz zabezpieczania przewożonych rzeczy; 5) korzysta z urządzeń pomocniczych stosowanych w środkach transportu drogowego; 6) posługuje się tradycyjnymi mapami drogowymi oraz elektronicznymi systemami nawigacji satelitarnej; 7) odczytuje i interpretuje wskazania urządzeń kontrolno-pomiarowych stosowanych w środkach transportu drogowego; 8) przestrzega norm czasu pracy kierowcy; 9) prowadzi dokumentację związaną z przewozem drogowym; 10) przestrzega przepisów prawa dotyczących użytkowania środków transportu drogowego; 11) przestrzega przepisów prawa związanych z przewozem drogowym rzeczy; 12) wykonuje usługi transportowe zgodnie z przepisami prawa dotyczącymi tych usług; 13) prowadzi i obsługuje pojazdy samochodowe w zakresie niezbędnym do uzyskania kwalifikacji wstępnej, o której mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn.). ” ,
+w obszarze administracyjno-usługowym (A) pozycja dotycząca kwalifikacji A.69. otrzymuje brzmienie: „ A.69. Eksploatacja środków transportu drogowego
+1.
+Obsługa środków transportu drogowego Uczeń:
+1)
+rozróżnia rodzaje środków transportu drogowego;
+2)
+wyjaśnia budowę oraz zasady działania podzespołów i zespołów środków transportu drogowego;
+3)
+rozpoznaje instalacje oraz urządzenia elektryczne i elektroniczne stosowane w środkach transportu drogowego;
+4)
+ocenia stan techniczny środków transportu drogowego;
+5)
+wykonuje czynności związane z obsługą środków transportu drogowego;
+6)
+lokalizuje uszkodzenia zespołów i podzespołów środków transportu drogowego;
+7)
+dobiera metody napraw środków transportu drogowego;
+8)
+posługuje się narzędziami i przyrządami kontrolno-pomiarowymi;
+9)
+dobiera części zamienne oraz materiały eksploatacyjne;
+10)
+wykonuje czynności związane z naprawą i konserwacją środków transportu drogowego;
+11)
+posługuje się dokumentacją techniczno-eksploatacyjną środków transportu drogowego;
+12)
+oblicza koszty związane z eksploatacją środków transportu drogowego.
+2.
+Użytkowanie środków transportu drogowego Uczeń:
+1)
+klasyfikuje środki transportu drogowego;
+2)
+określa parametry techniczno-eksploatacyjne środków transportu drogowego;
+3)
+dobiera środki transportu drogowego do rodzaju i właściwości przewożonych rzeczy;
+4)
+przestrzega zasad rozmieszczania, mocowania oraz zabezpieczania przewożonych rzeczy;
+5)
+korzysta z urządzeń pomocniczych stosowanych w środkach transportu drogowego;
+6)
+posługuje się tradycyjnymi mapami drogowymi oraz elektronicznymi systemami nawigacji satelitarnej;
+7)
+odczytuje i interpretuje wskazania urządzeń kontrolno-pomiarowych stosowanych w środkach transportu drogowego;
+8)
+przestrzega norm czasu pracy kierowcy;
+9)
+prowadzi dokumentację związaną z przewozem drogowym;
+10)
+przestrzega przepisów prawa dotyczących użytkowania środków transportu drogowego;
+11)
+przestrzega przepisów prawa związanych z przewozem drogowym rzeczy;
+12)
+wykonuje usługi transportowe zgodnie z przepisami prawa dotyczącymi tych usług;
+13)
+prowadzi i obsługuje pojazdy samochodowe w zakresie niezbędnym do uzyskania kwalifikacji wstępnej, o której mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn.). ” ,
 – w obszarze mechanicznym i górniczo-hutniczym (M) uchyla się pozycję dotyczącą kwalifikacji M.43.,
-– w obszarze mechanicznym i górniczo-hutniczym (M) po pozycji dotyczącej kwalifikacji M.45. dodaje się pozycję dotyczącą kwalifikacji M.46. w brzmieniu: M.46. Eksploatacja systemów mechatronicznych w rolnictwie 1. Stosowanie urządzeń i systemów agrotronicznych Uczeń: 1) określa możliwości zastosowania systemów elektronicznych i nawigacji satelitarnej w rolnictwie; 2) wyjaśnia zasady prowadzenia rolnictwa precyzyjnego; 3) określa korzyści wynikające z prowadzenia rolnictwa precyzyjnego; 4) rozpoznaje urządzenia wspomagające automatyczną pracę pojazdów, maszyn i urządzeń stosowanych w rolnictwie oraz określa ich funkcje; 5) dobiera systemy elektroniczne oraz urządzenia wspomagające automatyzację prac w produkcji roślinnej i zwierzęcej; 6) konfiguruje systemy elektroniczne oraz urządzenia wspomagające automatyzację prac w produkcji roślinnej i zwierzęcej; 7) interpretuje informacje pozyskane z systemów automatycznych maszyn i urządzeń rolniczych; 8) montuje i demontuje komponenty układów sterujących i wykonawczych; 9) dobiera i wprowadza parametry pracy urządzeń elektronicznych stosowanych w pojazdach, maszynach i urządzeniach rolniczych; 10) monitoruje zdalnie działanie systemów elektronicznych stosowanych w pojazdach, maszynach i urządzeniach rolniczych; 11) synchronizuje prace zespołów pojazdów i maszyn rolniczych wyposażonych w systemy elektronicznego sterowania; 12) planuje optymalne wykorzystanie pojazdów, maszyn i urządzeń w produkcji rolniczej z zastosowaniem systemów elektronicznych i nawigacji satelitarnej; 13) posługuje się dokumentacją techniczną pojazdów, maszyn i urządzeń rolniczych wyposażonych w układy elektryczne i elektroniczne oraz układy hydrauliczne i pneumatyczne; 14) współpracuje z instytucjami, organizacjami i przedsiębiorstwami upowszechniającymi innowacyjne rozwiązania agrotroniczne. 2. Obsługiwanie urządzeń i systemów agrotronicznych Uczeń: 1) obsługuje panele komputerowe w pojazdach, maszynach i urządzeniach rolniczych; 2) obsługuje systemy sterujące pracą pojazdów, maszyn i urządzeń rolniczych; 3) korzysta z satelitarnych systemów nawigacji pojazdów i maszyn rolniczych; 4) wykonuje pomiary i regulacje parametrów układów sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych; 5) wykorzystuje programy i urządzenia diagnozujące pracę układów sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych; 6) wykonuje kalibracje układów sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych; 7) dokonuje przeglądów technicznych systemów elektronicznych w pojazdach, maszynach i urządzeniach rolniczych; 8) określa przyczyny nieprawidłowego działania systemów elektronicznych wspomagających automatyczną pracę pojazdów, maszyn i urządzeń stosowanych w produkcji roślinnej i zwierzęcej; 9) diagnozuje usterki w sieciach przesyłu informacji wewnętrznej systemów elektronicznych pojazdów, maszyn i urządzeń rolniczych; 10) interpretuje wyniki pomiarów diagnostycznych w układach sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych; 11) interpretuje kody błędów systemowych w układach sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych; 12) dokonuje kalkulacji kosztów planowanych napraw; 13) określa sposoby usuwania nieprawidłowości w działaniu układów sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych; 14) dokonuje konserwacji układów sterujących i wykonawczych stosowanych w pojazdach, maszynach i urządzeniach rolniczych; 15) oblicza koszty eksploatacji pojazdów, maszyn i urządzeń rolniczych wyposażonych w układy sterujące i wykonawcze; 16) sporządza dokumentację związaną z eksploatacją pojazdów, maszyn i urządzeń rolniczych wyposażonych w układy sterujące i wykonawcze. ” ,
-– w obszarze rolniczo-leśnym z ochroną środowiska (R) po pozycji dotyczącej kwalifikacji R.26. dodaje się pozycję dotyczącą kwalifikacji R.27. w brzmieniu: R.27. Jeździectwo i trening koni 1. Chów i użytkowanie koni Uczeń: 1) ocenia przydatność koni do różnych sposobów ich użytkowania; 2) dobiera sposoby postępowania z końmi z uwzględnieniem ich cech psychofizycznych; 3) wykonuje czynności związane z codzienną pielęgnacją i utrzymaniem koni; 4) wykonuje czynności pomocnicze związane z okresową pielęgnacją kopyt; 5) przestrzega zasad higieny i profilaktyki weterynaryjnej koni; 6) rozpoznaje typowe objawy chorób i urazów koni; 7) udziela pierwszej pomocy w przypadku zranień i wypadków koni oraz zapewnia opiekę zgodnie z zaleceniami lekarza weterynarii; 8) przygotowuje pasze dla koni; 9) przestrzega zasad żywienia i karmienia oraz pojenia koni; 10) obsługuje urządzenia stosowane w chowie i użytkowaniu koni; 11) przygotowuje konie do różnych typów ich użytkowania; 12) wykonuje czynności związane z załadunkiem, transportem i rozładunkiem koni; 13) stosuje przepisy dotyczące dobrostanu koni sportowych, wyścigowych, rekreacyjnych i terapeutycznych; 14) stosuje się do harmonogramów dotyczących użytkowania koni; 15) korzysta z dokumentacji związanej z identyfikacją i użytkowaniem koni. 2. Nauka jeździectwa Uczeń: 1) ocenia kondycję koni; 2) dobiera sprzęt i akcesoria jeździeckie; 3) dopasowuj e sprzęt jeździecki do budowy ciała konia i jeźdźców; 4) przygotowuje konie do treningu; 5) stosuje pomoce jeździeckie w powodowaniu koniem; 6) stosuje różne rodzaje dosiadu; 7) wykonuje ćwiczenia związane z treningiem ujeżdżeniowym i skokowym koni; 8) wykonuje ćwiczenia związane z treningiem wyścigowym koni; 9) powozi zaprzęgiem konnym; 10) prezentuje konie na pokazach i aukcjach; 11) przestrzega przepisów prawa i regulaminów dotyczących jeździectwa oraz wyścigów konnych; 12) przestrzega zasad bezpieczeństwa jeźdźców i koni; 13) przestrzega przepisów ruchu drogowego dotyczących poruszania się wierzchem i zaprzęgiem konnym; 14) doskonali fizyczną i psychiczną sprawność jeździecką; 15) określa wymagania dotyczące diety i wagi jeźdźca wyścigowego; 16) dobiera ubiór jeździecki do różnych form użytkowania koni; 17) dba o dobrostan koni w trakcie ich użytkowania. 3. Trening koni Uczeń: 1) przestrzega zaleceń trenerów lub instruktorów jeździectwa; 2) dobiera miejsca treningu z uwzględnieniem jego rodzaju oraz warunków środowiskowych; 3) uwzględnia skalę szkoleniową podczas treningów koni; 4) przygotowuje konie do pierwszego dosiadania i zaprzęgania; 5) przestrzega zasad treningu koni z uwzględnieniem ich cech psychofizycznych, wieku oraz planowanych obciążeń treningowych; 6) stosuje metody lonżowania koni; 7) wykonuje czynności związane z trenowaniem koni sportowych, wyścigowych, rekreacyjnych i terapeutycznych; 8) ocenia stan wytrenowania konia na podstawie obserwacji podczas treningu; 9) stosuje zasady pielęgnacji powysiłkowej oraz odnowy biologicznej koni; 10) obsługuje maszyny i urządzenia stosowane do treningu koni; 11) oswaja konie ze sprzętem i urządzeniami stosowanymi w sportowym, wyścigowym, rekreacyjnym i terapeutycznym użytkowaniu koni. ” ;
+w obszarze mechanicznym i górniczo-hutniczym (M) po pozycji dotyczącej kwalifikacji M.45. dodaje się pozycję dotyczącą kwalifikacji M.46. w brzmieniu:
+M.46.
+Eksploatacja systemów mechatronicznych w rolnictwie
+1.
+Stosowanie urządzeń i systemów agrotronicznych Uczeń:
+1)
+określa możliwości zastosowania systemów elektronicznych i nawigacji satelitarnej w rolnictwie;
+2)
+wyjaśnia zasady prowadzenia rolnictwa precyzyjnego;
+3)
+określa korzyści wynikające z prowadzenia rolnictwa precyzyjnego;
+4)
+rozpoznaje urządzenia wspomagające automatyczną pracę pojazdów, maszyn i urządzeń stosowanych w rolnictwie oraz określa ich funkcje;
+5)
+dobiera systemy elektroniczne oraz urządzenia wspomagające automatyzację prac w produkcji roślinnej i zwierzęcej;
+6)
+konfiguruje systemy elektroniczne oraz urządzenia wspomagające automatyzację prac w produkcji roślinnej i zwierzęcej;
+7)
+interpretuje informacje pozyskane z systemów automatycznych maszyn i urządzeń rolniczych;
+8)
+montuje i demontuje komponenty układów sterujących i wykonawczych;
+9)
+dobiera i wprowadza parametry pracy urządzeń elektronicznych stosowanych w pojazdach, maszynach i urządzeniach rolniczych;
+10)
+monitoruje zdalnie działanie systemów elektronicznych stosowanych w pojazdach, maszynach i urządzeniach rolniczych;
+11)
+synchronizuje prace zespołów pojazdów i maszyn rolniczych wyposażonych w systemy elektronicznego sterowania;
+12)
+planuje optymalne wykorzystanie pojazdów, maszyn i urządzeń w produkcji rolniczej z zastosowaniem systemów elektronicznych i nawigacji satelitarnej;
+13)
+posługuje się dokumentacją techniczną pojazdów, maszyn i urządzeń rolniczych wyposażonych w układy elektryczne i elektroniczne oraz układy hydrauliczne i pneumatyczne;
+14)
+współpracuje z instytucjami, organizacjami i przedsiębiorstwami upowszechniającymi innowacyjne rozwiązania agrotroniczne.
+2.
+Obsługiwanie urządzeń i systemów agrotronicznych Uczeń:
+1)
+obsługuje panele komputerowe w pojazdach, maszynach i urządzeniach rolniczych;
+2)
+obsługuje systemy sterujące pracą pojazdów, maszyn i urządzeń rolniczych;
+3)
+korzysta z satelitarnych systemów nawigacji pojazdów i maszyn rolniczych;
+4)
+wykonuje pomiary i regulacje parametrów układów sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych;
+5)
+wykorzystuje programy i urządzenia diagnozujące pracę układów sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych;
+6)
+wykonuje kalibracje układów sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych;
+7)
+dokonuje przeglądów technicznych systemów elektronicznych w pojazdach, maszynach i urządzeniach rolniczych;
+8)
+określa przyczyny nieprawidłowego działania systemów elektronicznych wspomagających automatyczną pracę pojazdów, maszyn i urządzeń stosowanych w produkcji roślinnej i zwierzęcej;
+9)
+diagnozuje usterki w sieciach przesyłu informacji wewnętrznej systemów elektronicznych pojazdów, maszyn i urządzeń rolniczych;
+10)
+interpretuje wyniki pomiarów diagnostycznych w układach sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych;
+11)
+interpretuje kody błędów systemowych w układach sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych;
+12)
+dokonuje kalkulacji kosztów planowanych napraw;
+13)
+określa sposoby usuwania nieprawidłowości w działaniu układów sterujących i wykonawczych pojazdów, maszyn i urządzeń rolniczych;
+14)
+dokonuje konserwacji układów sterujących i wykonawczych stosowanych w pojazdach, maszynach i urządzeniach rolniczych;
+15)
+oblicza koszty eksploatacji pojazdów, maszyn i urządzeń rolniczych wyposażonych w układy sterujące i wykonawcze;
+16)
+sporządza dokumentację związaną z eksploatacją pojazdów, maszyn i urządzeń rolniczych wyposażonych w układy sterujące i wykonawcze. ” ,
+w obszarze rolniczo-leśnym z ochroną środowiska (R) po pozycji dotyczącej kwalifikacji R.26. dodaje się pozycję dotyczącą kwalifikacji R.27. w brzmieniu:
+R.27.
+Jeździectwo i trening koni
+1.
+Chów i użytkowanie koni Uczeń:
+1)
+ocenia przydatność koni do różnych sposobów ich użytkowania;
+2)
+dobiera sposoby postępowania z końmi z uwzględnieniem ich cech psychofizycznych;
+3)
+wykonuje czynności związane z codzienną pielęgnacją i utrzymaniem koni;
+4)
+wykonuje czynności pomocnicze związane z okresową pielęgnacją kopyt;
+5)
+przestrzega zasad higieny i profilaktyki weterynaryjnej koni;
+6)
+rozpoznaje typowe objawy chorób i urazów koni;
+7)
+udziela pierwszej pomocy w przypadku zranień i wypadków koni oraz zapewnia opiekę zgodnie z zaleceniami lekarza weterynarii;
+8)
+przygotowuje pasze dla koni;
+9)
+przestrzega zasad żywienia i karmienia oraz pojenia koni;
+10)
+obsługuje urządzenia stosowane w chowie i użytkowaniu koni;
+11)
+przygotowuje konie do różnych typów ich użytkowania;
+12)
+wykonuje czynności związane z załadunkiem, transportem i rozładunkiem koni;
+13)
+stosuje przepisy dotyczące dobrostanu koni sportowych, wyścigowych, rekreacyjnych i terapeutycznych;
+14)
+stosuje się do harmonogramów dotyczących użytkowania koni;
+15)
+korzysta z dokumentacji związanej z identyfikacją i użytkowaniem koni.
+2.
+Nauka jeździectwa Uczeń:
+1)
+ocenia kondycję koni;
+2)
+dobiera sprzęt i akcesoria jeździeckie;
+3)
+dopasowuj e sprzęt jeździecki do budowy ciała konia i jeźdźców;
+4)
+przygotowuje konie do treningu;
+5)
+stosuje pomoce jeździeckie w powodowaniu koniem;
+6)
+stosuje różne rodzaje dosiadu;
+7)
+wykonuje ćwiczenia związane z treningiem ujeżdżeniowym i skokowym koni;
+8)
+wykonuje ćwiczenia związane z treningiem wyścigowym koni;
+9)
+powozi zaprzęgiem konnym;
+10)
+prezentuje konie na pokazach i aukcjach;
+11)
+przestrzega przepisów prawa i regulaminów dotyczących jeździectwa oraz wyścigów konnych;
+12)
+przestrzega zasad bezpieczeństwa jeźdźców i koni;
+13)
+przestrzega przepisów ruchu drogowego dotyczących poruszania się wierzchem i zaprzęgiem konnym;
+14)
+doskonali fizyczną i psychiczną sprawność jeździecką;
+15)
+określa wymagania dotyczące diety i wagi jeźdźca wyścigowego;
+16)
+dobiera ubiór jeździecki do różnych form użytkowania koni;
+17)
+dba o dobrostan koni w trakcie ich użytkowania.
+3.
+Trening koni Uczeń:
+1)
+przestrzega zaleceń trenerów lub instruktorów jeździectwa;
+2)
+dobiera miejsca treningu z uwzględnieniem jego rodzaju oraz warunków środowiskowych;
+3)
+uwzględnia skalę szkoleniową podczas treningów koni;
+4)
+przygotowuje konie do pierwszego dosiadania i zaprzęgania;
+5)
+przestrzega zasad treningu koni z uwzględnieniem ich cech psychofizycznych, wieku oraz planowanych obciążeń treningowych;
+6)
+stosuje metody lonżowania koni;
+7)
+wykonuje czynności związane z trenowaniem koni sportowych, wyścigowych, rekreacyjnych i terapeutycznych;
+8)
+ocenia stan wytrenowania konia na podstawie obserwacji podczas treningu;
+9)
+stosuje zasady pielęgnacji powysiłkowej oraz odnowy biologicznej koni;
+10)
+obsługuje maszyny i urządzenia stosowane do treningu koni;
+11)
+oswaja konie ze sprzętem i urządzeniami stosowanymi w sportowym, wyścigowym, rekreacyjnym i terapeutycznym użytkowaniu koni. ” ;
 3)
 w części III „Opis kształcenia w poszczególnych zawodach”:
 a)
-w obszarze administracyjno-usługowym (A) dla zasadniczej szkoły zawodowej przed opisem kształcenia w zawodzie „Operator urządzeń przemysłu szklarskiego 818116” dodaje się opis kształcenia w zawodzie „Kierowca mechanik 832201” w brzmieniu:
-„
-KIEROWCA MECHANIK832201
+w obszarze administracyjno-usługowym (A) dla zasadniczej szkoły zawodowej przed opisem kształcenia w zawodzie „Operator urządzeń przemysłu szklarskiego 818116” dodaje się opis kształcenia w zawodzie „Kierowca mechanik 832201” w brzmieniu: „ KIEROWCA MECHANIK832201
 1.
 CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie kierowca mechanik powinien być przygotowany do wykonywania następujących zadań zawodowych:
 1)
@@ -101,27 +368,73 @@ warsztaty szkolne, wyposażone w:
 a)
 stanowiska do kontroli i naprawy pojazdów samochodowych (jedno stanowisko dla czterech uczniów) składające się z pojazdów samochodowych i ich podzespołów, urządzenia diagnostyczne do pomiaru geometrii podwozia, urządzenie diagnostyczne do pomiaru emisji spalin samochodowych, komputer diagnostyczny z oprogramowaniem, stanowisko komputerowe do weryfikacji wyników pomiarów, stanowisko do wymiany materiałów eksploatacyjnych, narzędzia monterskie, klucze dynamometryczne, dokumentacje techniczno-obsługowe, urządzenia do mycia i konserwacji,
 b)
-stanowiska obróbki mechanicznej (jedno stanowisko dla trzech uczniów), w tym stoły ślusarskie, maszyny, urządzenia i przyrządy do prac montażowych, wiertarkę stołową, szlifierkę, przyrządy traserskie, przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia monterskie, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczne, środki ochrony indywidualnej, stanowiska montażu i demontażu podzespołów maszyn i urządzeń (jedno stanowisko dla trzech uczniów).
-Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, ośrodkach szkolenia kierowców, ośrodkach prowadzących szkolenia w zakresie kwalifikacji wstępnej, ośrodkach doskonalenia techniki jazdy oraz przedsiębiorstwach transportowych. Szkoła przygotowuje ucznia do testu kwalifikacyjnego w zakresie kwalifikacji wstępnej, o której mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym. Kształcenie w zakresie kwalifikacji wstępnej odbywa się zgodnie z przepisami w sprawie szkolenia kierowców wykonujących przewóz drogowy.
+stanowiska obróbki mechanicznej (jedno stanowisko dla trzech uczniów), w tym stoły ślusarskie, maszyny, urządzenia i przyrządy do prac montażowych, wiertarkę stołową, szlifierkę, przyrządy traserskie, przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia monterskie, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczne, środki ochrony indywidualnej, stanowiska montażu i demontażu podzespołów maszyn i urządzeń (jedno stanowisko dla trzech uczniów). Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, ośrodkach szkolenia kierowców, ośrodkach prowadzących szkolenia w zakresie kwalifikacji wstępnej, ośrodkach doskonalenia techniki jazdy oraz przedsiębiorstwach transportowych. Szkoła przygotowuje ucznia do testu kwalifikacyjnego w zakresie kwalifikacji wstępnej, o której mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym. Kształcenie w zakresie kwalifikacji wstępnej odbywa się zgodnie z przepisami w sprawie szkolenia kierowców wykonujących przewóz drogowy.
 4.
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo--hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 350 godz. A.69. Eksploatacja środków transportu drogowego 600 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie.
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo--hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 350 godz. A.69. Eksploatacja środków transportu drogowego 600 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie.
 5.
-MOŻLIWOŚCI UZYSKIWANIA DODATKOWYCH KWALIFIKACJI W ZAWODACH W RAMACH OBSZARU KSZTAŁCENIA OKREŚLONEGO W KLASYFIKACJI ZAWODÓW SZKOLNICTWA ZAWODOWEGO Absolwent szkoły kształcącej w zawodzie kierowca mechanik po potwierdzeniu kwalifikacji A.59. Eksploatacja środków transportu drogowego może uzyskać dyplom potwierdzający kwalifikacje w zawodzie technik transportu drogowego po potwierdzeniu dodatkowo kwalifikacji A. 70. Organizacja przewozu środkami transportu drogowego oraz uzyskaniu wykształcenia średniego.
-” ,
+MOŻLIWOŚCI UZYSKIWANIA DODATKOWYCH KWALIFIKACJI W ZAWODACH W RAMACH OBSZARU KSZTAŁCENIA OKREŚLONEGO W KLASYFIKACJI ZAWODÓW SZKOLNICTWA ZAWODOWEGO Absolwent szkoły kształcącej w zawodzie kierowca mechanik po potwierdzeniu kwalifikacji A.59. Eksploatacja środków transportu drogowego może uzyskać dyplom potwierdzający kwalifikacje w zawodzie technik transportu drogowego po potwierdzeniu dodatkowo kwalifikacji A. 70. Organizacja przewozu środkami transportu drogowego oraz uzyskaniu wykształcenia średniego. ” ,
 b)
 w obszarze administracyjno-usługowym (A) dla szkoły policealnej w opisie kształcenia w zawodzie „Technik transportu drogowego 311927”:
-– ust. 2 „Efekty kształcenia” otrzymuje brzmienie: „ 2. EFEKTY KSZTAŁCENIA Do wykonywania wyżej wymienionych zadań zawodowych niezbędne jest osiągnięcie zakładanych efektów kształcenia, na które składają się: 1) efekty kształcenia wspólne dla wszystkich zawodów; 2) efekty kształcenia wspólne dla zawodów w ramach obszaru administracyjno-usługowego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(A.ac) oraz efekty kształcenia współne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(M.a) i PKZ(M.g); 3) efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodzie technik transportu drogowego opisane w części II: A.69. Eksploatacja środków transportu drogowego; A.70. Organizacja przewozu środkami transportu drogowego. ” ,
-– ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie: „ 3. WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie technik transportu drogowego powinna posiadać następujące pomieszczenia dydaktyczne: 1) pracownię rysunku technicznego, wyposażoną w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką, z ploterem, ze skanerem i z projektorem multimedialnym, stanowiska komputerowe (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej z dostępem do Internetu, z oprogramowaniem do komputerowego wspomagania projektowania (Computer Aided Design), dokumentacje techniczne środków transportu drogowego oraz ich zespołów i podzespołów; schematy instalacji elektrycznych środków transportu drogowego; normy dotyczące rysunku technicznego, maszynowego i elektrycznego; katalogi środków transportu drogowego; 2) pracownię środków transportu drogowego, wyposażoną w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką, ze skanerem i z projektorem multimedialnym, stanowiska komputerowe (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej z dostępem do Internetu, oprogramowaniem symulującym technikę jazdy, symulującym obsługę środków transportu drogowego oraz oprogramowaniem do wyznaczania tras, instrukcje obsługi środków transportu drogowego; narzędzia i przyrządy pomiarowe stosowane w naprawach i eksploatacji środków transportu drogowego (jeden zestaw dla pięciu uczniów); dokumentacje technologiczne procesu montażu i demontażu środków transportu drogowego; dokumentację techniczno-eksploatacyjną środków transportu drogowego; przyrządy do pomiarów wielkości geometrycznych i elektrycznych (jeden zestaw dla pięciu uczniów); zestawy do demonstracji budowy i działania podzespołów (mechanicznych, hydraulicznych, pneumatycznych); zestawy elementów i układów elektrycznych i elektronicznych pojazdów samochodowych; modele środków transportu drogowego oraz ich podzespołów; 3) pracownię przewozu drogowego osób i rzeczy, wyposażoną w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką, ze skanerem i z projektorem multimedialnym, stanowisko komputerowe (jedno stanowisko dla trzech uczniów) podłączone do sieci lokalnej z dostępem do Internetu z pakietem programów biurowych, z oprogramowaniem wspomagającym wykonywanie transportu drogowego oraz wspomagającym naukę przepisów ruchu drogowego; plansze, foliogramy, prezentacje, filmy dydaktyczne przedstawiające normy i standardy przewożonych ładunków, opakowania transportowe, przekroje środków transportu dalekiego, wzory znakowania opakowań ładunków i urządzeń transportu, zasady ładowania i przewozu towarów; wzory dokumentów przewozowych; normy transportowe; zestaw przepisów prawa dotyczących transportu drogowego; filmy dydaktyczne przedstawiające eksploatację środków transportu drogowego; urządzenia komunikacji przewodowej i bezprzewodowej, takie jak: telefon, faks, radiotelefon, CB-radio, mapy drogowe oraz elektroniczny system nawigacji satelitarnej; symulatory tachografów, przenośny zestaw pierwszej pomocy oraz procedury udzielania pierwszej pomocy poszkodowanym w sytuacjach zagrożenia zdrowia lub życia; 4) warsztaty szkolne, wyposażone w: a) stanowiska do kontroli i naprawy pojazdów samochodowych (jedno stanowisko dla czterech uczniów) składające się z pojazdów samochodowych i ich podzespołów, urządzenia diagnostyczne do pomiaru geometrii podwozia, urządzenie diagnostyczne do pomiaru emisji spalin samochodowych, komputer diagnostyczny z oprogramowaniem, stanowisko komputerowe do weryfikacji wyników pomiarów, narzędzia monterskie, klucze dynamometryczne, dokumentacje techniczno--obsługowe, urządzenia do mycia i konserwacji, stanowisko do wymiany materiałów eksploatacyjnych, b) stanowiska obróbki mechanicznej (jedno stanowisko dla trzech uczniów), w tym stoły ślusarskie, maszyny, urządzenia i przyrządy do prac montażowych, wiertarkę stołową, szlifierkę, przyrządy traserskie, przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia monterskie, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczne, środki ochrony indywidualnej oraz stanowiska montażu i demontażu podzespołów maszyn i urządzeń (jedno stanowisko dla trzech uczniów). Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, ośrodkach szkolenia kierowców, w ośrodkach prowadzących szkolenia w zakresie kwalifikacji wstępnej, ośrodkach doskonalenia techniki jazdy oraz przedsiębiorstwach transportowych. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 4 tygodni (160 godzin). Szkoła przygotowuje ucznia do testu kwalifikacyjnego w zakresie kwalifikacji wstępnej, o której mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym. Kształcenie w zakresie kwalifikacji wstępnej odbywa się zgodnie z przepisami w sprawie szkolenia kierowców wykonujących przewóz drogowy. ” ,
+ust. 2 „Efekty kształcenia” otrzymuje brzmienie: „
+2.
+EFEKTY KSZTAŁCENIA Do wykonywania wyżej wymienionych zadań zawodowych niezbędne jest osiągnięcie zakładanych efektów kształcenia, na które składają się:
+1)
+efekty kształcenia wspólne dla wszystkich zawodów;
+2)
+efekty kształcenia wspólne dla zawodów w ramach obszaru administracyjno-usługowego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(A.ac) oraz efekty kształcenia współne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(M.a) i PKZ(M.g);
+3)
+efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodzie technik transportu drogowego opisane w części II: A.69. Eksploatacja środków transportu drogowego; A.70. Organizacja przewozu środkami transportu drogowego. ” ,
+ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie: „
+3.
+WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie technik transportu drogowego powinna posiadać następujące pomieszczenia dydaktyczne:
+1)
+pracownię rysunku technicznego, wyposażoną w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką, z ploterem, ze skanerem i z projektorem multimedialnym, stanowiska komputerowe (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej z dostępem do Internetu, z oprogramowaniem do komputerowego wspomagania projektowania (Computer Aided Design), dokumentacje techniczne środków transportu drogowego oraz ich zespołów i podzespołów; schematy instalacji elektrycznych środków transportu drogowego; normy dotyczące rysunku technicznego, maszynowego i elektrycznego; katalogi środków transportu drogowego;
+2)
+pracownię środków transportu drogowego, wyposażoną w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką, ze skanerem i z projektorem multimedialnym, stanowiska komputerowe (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej z dostępem do Internetu, oprogramowaniem symulującym technikę jazdy, symulującym obsługę środków transportu drogowego oraz oprogramowaniem do wyznaczania tras, instrukcje obsługi środków transportu drogowego; narzędzia i przyrządy pomiarowe stosowane w naprawach i eksploatacji środków transportu drogowego (jeden zestaw dla pięciu uczniów); dokumentacje technologiczne procesu montażu i demontażu środków transportu drogowego; dokumentację techniczno-eksploatacyjną środków transportu drogowego; przyrządy do pomiarów wielkości geometrycznych i elektrycznych (jeden zestaw dla pięciu uczniów); zestawy do demonstracji budowy i działania podzespołów (mechanicznych, hydraulicznych, pneumatycznych); zestawy elementów i układów elektrycznych i elektronicznych pojazdów samochodowych; modele środków transportu drogowego oraz ich podzespołów;
+3)
+pracownię przewozu drogowego osób i rzeczy, wyposażoną w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką, ze skanerem i z projektorem multimedialnym, stanowisko komputerowe (jedno stanowisko dla trzech uczniów) podłączone do sieci lokalnej z dostępem do Internetu z pakietem programów biurowych, z oprogramowaniem wspomagającym wykonywanie transportu drogowego oraz wspomagającym naukę przepisów ruchu drogowego; plansze, foliogramy, prezentacje, filmy dydaktyczne przedstawiające normy i standardy przewożonych ładunków, opakowania transportowe, przekroje środków transportu dalekiego, wzory znakowania opakowań ładunków i urządzeń transportu, zasady ładowania i przewozu towarów; wzory dokumentów przewozowych; normy transportowe; zestaw przepisów prawa dotyczących transportu drogowego; filmy dydaktyczne przedstawiające eksploatację środków transportu drogowego; urządzenia komunikacji przewodowej i bezprzewodowej, takie jak: telefon, faks, radiotelefon, CB-radio, mapy drogowe oraz elektroniczny system nawigacji satelitarnej; symulatory tachografów, przenośny zestaw pierwszej pomocy oraz procedury udzielania pierwszej pomocy poszkodowanym w sytuacjach zagrożenia zdrowia lub życia;
+4)
+warsztaty szkolne, wyposażone w:
+a)
+stanowiska do kontroli i naprawy pojazdów samochodowych (jedno stanowisko dla czterech uczniów) składające się z pojazdów samochodowych i ich podzespołów, urządzenia diagnostyczne do pomiaru geometrii podwozia, urządzenie diagnostyczne do pomiaru emisji spalin samochodowych, komputer diagnostyczny z oprogramowaniem, stanowisko komputerowe do weryfikacji wyników pomiarów, narzędzia monterskie, klucze dynamometryczne, dokumentacje techniczno--obsługowe, urządzenia do mycia i konserwacji, stanowisko do wymiany materiałów eksploatacyjnych,
+b)
+stanowiska obróbki mechanicznej (jedno stanowisko dla trzech uczniów), w tym stoły ślusarskie, maszyny, urządzenia i przyrządy do prac montażowych, wiertarkę stołową, szlifierkę, przyrządy traserskie, przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia monterskie, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczne, środki ochrony indywidualnej oraz stanowiska montażu i demontażu podzespołów maszyn i urządzeń (jedno stanowisko dla trzech uczniów). Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, ośrodkach szkolenia kierowców, w ośrodkach prowadzących szkolenia w zakresie kwalifikacji wstępnej, ośrodkach doskonalenia techniki jazdy oraz przedsiębiorstwach transportowych. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 4 tygodni (160 godzin). Szkoła przygotowuje ucznia do testu kwalifikacyjnego w zakresie kwalifikacji wstępnej, o której mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym. Kształcenie w zakresie kwalifikacji wstępnej odbywa się zgodnie z przepisami w sprawie szkolenia kierowców wykonujących przewóz drogowy. ” ,
 c)
 w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej w opisie kształcenia w zawodzie „Mechanik-operator pojazdów i maszyn rolniczych 834103”:
-– ust. 2 „Efekty kształcenia” otrzymuje brzmienie: „ 2. EFEKTY KSZTAŁCENIA Do wykonywania wyżej wymienionych zadań zawodowych niezbędne jest osiągnięcie zakładanych efektów kształcenia, na które składają się: 1) efekty kształcenia wspólne dla wszystkich zawodów; 2) efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(M.a), PKZ(M.b) i PKZ(M.g) oraz efekty kształcenia wspólne dla zawodów w ramach obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ (R.c) i PKZ(R.d); 3) efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodzie mechanik-operator pojazdów i maszyn rolniczych opisane w części II: M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie; M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie. ” ,
-– ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie: „ 3. WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie mechanik-operator pojazdów i maszyn rolniczych powinna posiadać następujące pomieszczenia dydaktyczne: 1) pracownię dokumentacji technicznej, wyposażoną w: stanowisko rysunkowe (jedno stanowisko dla jednego ucznia) z przyborami rysunkowymi i kreślarskimi, modele brył geometrycznych, rysunki wykonawcze, zestawieniowe, złożeniowe, montażowe i schematyczne, stanowiska komputerowe (jedno stanowisko dla jednego ucznia), plotery, drukarki, skanery (po jednym urządzeniu na cztery stanowiska komputerowe), stanowisko komputerowe dla nauczyciela, wszystkie komputery podłączone do sieci lokalnej z dostępem do Internetu, programy komputerowego wspomagania projektowania (Computer Aided Design), pakiet programów biurowych, projektor multimedialny, normy dotyczące zasad wykonywania rysunku technicznego maszynowego, dokumentacje techniczne pojazdów, maszyn i urządzeń stosowanych w rolnictwie, katalogi części maszyn; 2) pracownię maszyn i urządzeń rolniczych, wyposażoną w: modele, przekroje i atrapy maszyn i urządzeń, silników spalinowych i elektrycznych, elementy układu napędowego i zawieszenia oraz instalacji elektrycznych, podzespoły pojazdów i maszyn, stanowisko komputerowe dla nauczyciela z dostępem do Internetu, oprogramowanie symulujące pracę maszyn i urządzeń rolniczych oraz zasadę działania silników spalinowych i elektrycznych, pakiet programów biurowych, projektor multimedialny, instrukcje obsługi maszyn i urządzeń rolniczych; 3) pracownię pojazdów silnikowych, wyposażoną w: dokumentacje techniczne pojazdów silnikowych, przyrządy diagnostyczne, modele, przekroje i atrapy pojazdów, silniki spalinowe, elementy instalacji pojazdów, stanowisko komputerowe dla nauczyciela z dostępem do Internetu, oprogramowanie symulujące pracę pojazdów silnikowych i ich diagnostykę, pakiet programów biurowych, projektor multimedialny; 4) warsztaty szkolne, wyposażone w: stanowiska pracy dla uczniów (jedno stanowisko dla czterech uczniów) obejmujące: stoły montażowe z oprzyrządowaniem, stoły ślusarskie, urządzenia dźwigowe i transportu wewnętrznego, urządzenia do mycia i konserwacji, tokarkę, frezarkę, wiertarkę stołową, piłę mechaniczną, mikroskop warsztatowy, modele mechanizmów maszyn i urządzeń, urządzenia i narzędzia do montażu, narzędzia i przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia traserskie, silniki spalinowe, elementy układów i instalacji ciągników, ciągniki rolnicze różnej mocy, maszyny, narzędzia i urządzenia stosowane w produkcji rolniczej, pojazdy mechaniczne do nauki jazdy. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego oraz podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie. Szkoła przygotowuje ucznia do kierowania pojazdem samochodowym oraz ciągnikiem rolniczym z przyczepą (przyczepami) lub pojazdem wolnobieżnym z przyczepą (przyczepami). Egzamin państwowy, wymagany do uzyskania prawa jazdy odpowiedniej kategorii, jest przeprowadzany zgodnie z przepisami ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627). ” ,
-– ust. 4 „Minimalna liczba godzin kształcenia zawodowego” otrzymuje brzmienie: „ 4. MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 490 godz. Ml. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie 280 godz. M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie 270 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
+ust. 2 „Efekty kształcenia” otrzymuje brzmienie: „
+2.
+EFEKTY KSZTAŁCENIA Do wykonywania wyżej wymienionych zadań zawodowych niezbędne jest osiągnięcie zakładanych efektów kształcenia, na które składają się:
+1)
+efekty kształcenia wspólne dla wszystkich zawodów;
+2)
+efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(M.a), PKZ(M.b) i PKZ(M.g) oraz efekty kształcenia wspólne dla zawodów w ramach obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ (R.c) i PKZ(R.d);
+3)
+efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodzie mechanik-operator pojazdów i maszyn rolniczych opisane w części II:
+M.1.
+Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie;
+M.2.
+Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie. ” ,
+ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie: „
+3.
+WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie mechanik-operator pojazdów i maszyn rolniczych powinna posiadać następujące pomieszczenia dydaktyczne:
+1)
+pracownię dokumentacji technicznej, wyposażoną w: stanowisko rysunkowe (jedno stanowisko dla jednego ucznia) z przyborami rysunkowymi i kreślarskimi, modele brył geometrycznych, rysunki wykonawcze, zestawieniowe, złożeniowe, montażowe i schematyczne, stanowiska komputerowe (jedno stanowisko dla jednego ucznia), plotery, drukarki, skanery (po jednym urządzeniu na cztery stanowiska komputerowe), stanowisko komputerowe dla nauczyciela, wszystkie komputery podłączone do sieci lokalnej z dostępem do Internetu, programy komputerowego wspomagania projektowania (Computer Aided Design), pakiet programów biurowych, projektor multimedialny, normy dotyczące zasad wykonywania rysunku technicznego maszynowego, dokumentacje techniczne pojazdów, maszyn i urządzeń stosowanych w rolnictwie, katalogi części maszyn;
+2)
+pracownię maszyn i urządzeń rolniczych, wyposażoną w: modele, przekroje i atrapy maszyn i urządzeń, silników spalinowych i elektrycznych, elementy układu napędowego i zawieszenia oraz instalacji elektrycznych, podzespoły pojazdów i maszyn, stanowisko komputerowe dla nauczyciela z dostępem do Internetu, oprogramowanie symulujące pracę maszyn i urządzeń rolniczych oraz zasadę działania silników spalinowych i elektrycznych, pakiet programów biurowych, projektor multimedialny, instrukcje obsługi maszyn i urządzeń rolniczych;
+3)
+pracownię pojazdów silnikowych, wyposażoną w: dokumentacje techniczne pojazdów silnikowych, przyrządy diagnostyczne, modele, przekroje i atrapy pojazdów, silniki spalinowe, elementy instalacji pojazdów, stanowisko komputerowe dla nauczyciela z dostępem do Internetu, oprogramowanie symulujące pracę pojazdów silnikowych i ich diagnostykę, pakiet programów biurowych, projektor multimedialny;
+4)
+warsztaty szkolne, wyposażone w: stanowiska pracy dla uczniów (jedno stanowisko dla czterech uczniów) obejmujące: stoły montażowe z oprzyrządowaniem, stoły ślusarskie, urządzenia dźwigowe i transportu wewnętrznego, urządzenia do mycia i konserwacji, tokarkę, frezarkę, wiertarkę stołową, piłę mechaniczną, mikroskop warsztatowy, modele mechanizmów maszyn i urządzeń, urządzenia i narzędzia do montażu, narzędzia i przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia traserskie, silniki spalinowe, elementy układów i instalacji ciągników, ciągniki rolnicze różnej mocy, maszyny, narzędzia i urządzenia stosowane w produkcji rolniczej, pojazdy mechaniczne do nauki jazdy. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego oraz podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie. Szkoła przygotowuje ucznia do kierowania pojazdem samochodowym oraz ciągnikiem rolniczym z przyczepą (przyczepami) lub pojazdem wolnobieżnym z przyczepą (przyczepami). Egzamin państwowy, wymagany do uzyskania prawa jazdy odpowiedniej kategorii, jest przeprowadzany zgodnie z przepisami ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627). ” ,
+ust. 4 „Minimalna liczba godzin kształcenia zawodowego” otrzymuje brzmienie: „
+4.
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 490 godz. Ml. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie 280 godz. M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie 270 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
 – ust. 5 „Możliwości uzyskiwania dodatkowych kwalifikacji w zawodach w ramach obszaru kształcenia określonego w klasyfikacji zawodów szkolnictwa zawodowego” otrzymuje brzmienie: „ Absolwent szkoły kształcącej w zawodzie mechanik-operator pojazdów i maszyn rolniczych po potwierdzeniu kwalifikacji M. 1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie i M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie może uzyskać dyplom potwierdzający kwalifikacje w zawodzie technik mechanizacji rolnictwa i agrotroniki po potwierdzeniu dodatkowo kwalifikacji M.46. Eksploatacja systemów mechatronicznych w rolnictwie oraz po uzyskaniu wykształcenia średniego. ” ,
 d)
-w obszarze mechanicznym i górniczo-hutniczym (M) dla technikum po opisie kształcenia w zawodzie „Technik górnictwa odkrywkowego 311701” dodaje się opis kształcenia w zawodzie „Technik mechanizacji rolnictwa i agrotroniki 311515” w następującym brzmieniu:
-„
-TECHNIK MECHANIZACJI ROLNICTWA I AGROTRONIKI311515
+w obszarze mechanicznym i górniczo-hutniczym (M) dla technikum po opisie kształcenia w zawodzie „Technik górnictwa odkrywkowego 311701” dodaje się opis kształcenia w zawodzie „Technik mechanizacji rolnictwa i agrotroniki 311515” w następującym brzmieniu: „ TECHNIK MECHANIZACJI ROLNICTWA I AGROTRONIKI311515
 1.
 CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie technik mechanizacji rolnictwa i agrotroniki powinien być przygotowany do wykonywania następujących zadań zawodowych:
 1)
@@ -155,17 +468,15 @@ pracownię pojazdów silnikowych, wyposażoną w: dokumentacje techniczne pojazd
 4)
 pracownię agrotroniki, wyposażoną w: stanowisko komputerowe dla nauczyciela z projektorem multimedialnym, stanowiska komputerowe (jedno stanowisko dla dwóch uczniów) z oprogramowaniem umożliwiającym symulację pracy układów elektrycznych, elektronicznych i agrotronicznych, wyposażonych w oprogramowanie diagnostyczne i oprogramowanie do analizy map pól; wszystkie komputery podłączone do sieci lokalnej z dostępem do Internetu; stanowiska pomiarowe (jedno stanowisko dla dwóch uczniów), zasilane napięciem 230/400V prądu przemiennego, zabezpieczone ochroną przeciwporażeniową, wyposażone w wyłączniki awaryjne i wyłącznik awaryjny centralny; przenośne źródła zasilania 12/24V; zasilacze stabilizowane napięcia stałego, autotransformatory; przyrządy pomiarowe analogowe i cyfrowe; elementy obwodów elektrycznych i elektronicznych, przewody i kable elektryczne; trenażery z układami elektrycznymi i elektronicznymi przystosowane do pomiarów parametrów; przekaźniki i styczniki, łączniki, wskaźniki parametrów, sygnalizatory, silniki elektryczne małej mocy; panele sterujące pojazdów, maszyn i urządzeń, układy mechatroniczne stosowane w maszynach i urządzeniach rolniczych do symulowania i diagnozowania usterek, stację bazową systemu nawigacji; elementy systemów nawigacji satelitarnej; środki ochrony indywidualnej;
 5)
-warsztaty szkolne, wyposażone w: stanowiska pracy dla uczniów (jedno stanowisko dla czterech uczniów) obejmujące: stoły montażowe z oprzyrządowaniem, stoły ślusarskie, urządzenia dźwigowe i transportu wewnętrznego, urządzenia do mycia i konserwacji, tokarkę, frezarkę, wiertarkę stołową, piłę mechaniczną, mikroskop warsztatowy, modele mechanizmów maszyn i urządzeń, urządzenia i narzędzia do montażu, narzędzia i przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia traserskie, silniki spalinowe, elementy układów i instalacji ciągników, ciągniki rolnicze różnej mocy, maszyny, narzędzia i urządzenia stosowane w produkcji rolniczej, wyposażone w elementy systemów elektronicznych oraz układy wspomagające automatyczną pracę pojazdów, maszyn i urządzeń stosowanych w produkcji roślinnej i zwierzęcej, elementy systemu nawigacji satelitarnej i telematyki; pojazdy mechaniczne do nauki jazdy, instrukcje obsługi maszyn, pojazdów mechanicznych i urządzeń, dokumentacje techniczne maszyn i systemów nawigacji, środki ochrony indywidualnej.
-Kształcenie praktyczne może odbywać się w: pracowniach, warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego oraz podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 4 tygodnie (160 godzin). Szkoła przygotowuje ucznia do kierowania pojazdem samochodowym oraz ciągnikiem rolniczym z przyczepą (przyczepami) lub pojazdem wolnobieżnym z przyczepą (przyczepami). Egzamin państwowy, wymagany do uzyskania prawa jazdy odpowiedniej kategorii, jest przeprowadzany zgodnie z przepisami ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
+warsztaty szkolne, wyposażone w: stanowiska pracy dla uczniów (jedno stanowisko dla czterech uczniów) obejmujące: stoły montażowe z oprzyrządowaniem, stoły ślusarskie, urządzenia dźwigowe i transportu wewnętrznego, urządzenia do mycia i konserwacji, tokarkę, frezarkę, wiertarkę stołową, piłę mechaniczną, mikroskop warsztatowy, modele mechanizmów maszyn i urządzeń, urządzenia i narzędzia do montażu, narzędzia i przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia traserskie, silniki spalinowe, elementy układów i instalacji ciągników, ciągniki rolnicze różnej mocy, maszyny, narzędzia i urządzenia stosowane w produkcji rolniczej, wyposażone w elementy systemów elektronicznych oraz układy wspomagające automatyczną pracę pojazdów, maszyn i urządzeń stosowanych w produkcji roślinnej i zwierzęcej, elementy systemu nawigacji satelitarnej i telematyki; pojazdy mechaniczne do nauki jazdy, instrukcje obsługi maszyn, pojazdów mechanicznych i urządzeń, dokumentacje techniczne maszyn i systemów nawigacji, środki ochrony indywidualnej. Kształcenie praktyczne może odbywać się w: pracowniach, warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego oraz podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 4 tygodnie (160 godzin). Szkoła przygotowuje ucznia do kierowania pojazdem samochodowym oraz ciągnikiem rolniczym z przyczepą (przyczepami) lub pojazdem wolnobieżnym z przyczepą (przyczepami). Egzamin państwowy, wymagany do uzyskania prawa jazdy odpowiedniej kategorii, jest przeprowadzany zgodnie z przepisami ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
 4.
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów, obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 540 godz. M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie 280 godz. M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie 270 godz. M.46. Eksploatacja systemów mechatronicznych w rolnictwie 260 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie.
-” ,
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów, obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 540 godz. M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie 280 godz. M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie 270 godz. M.46. Eksploatacja systemów mechatronicznych w rolnictwie 260 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
 e)
 w obszarze mechanicznym i górniczo-hutniczym (M) dla technikum uchyla się opis kształcenia w zawodzie „Technik mechanizacji rolnictwa 311512”,
 f)
-w obszarze rolniczo-leśnym z ochroną środowiska (R) dla zasadniczej szkoły zawodowej po opisie kształcenia w zawodzie „Ogrodnik 611303” dodaje się opis kształcenia w zawodzie „Jeździec 516408” w następującym brzmieniu:
-„
-JEŹDZIEC516408
+w obszarze rolniczo-leśnym z ochroną środowiska (R) dla zasadniczej szkoły zawodowej po opisie kształcenia w zawodzie „Ogrodnik 611303” dodaje się opis kształcenia w zawodzie „Jeździec 516408” w następującym brzmieniu: „ JEŹDZIEC516408
 1.
 CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie jeździec powinien być przygotowany do wykonywania następujących zadań zawodowych:
 1)
@@ -189,14 +500,29 @@ efekty kształcenia właściwe dla kwalifikacji wyodrębnionej w zawodzie jeźdz
 3.
 WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie jeździec powinna posiadać pracownię użytkowania koni, wyposażoną w: stanowisko komputerowe dla nauczyciela z dostępem do Internetu, drukarką, skanerem oraz projektorem multimedialnym, szkielet konia, model stajni, parcouru z ruchomymi przeszkodami; albumy ras koni, normy żywienia koni, próbki pasz i komponentów paszowych, przyrządy do pomiarów zoometrycznych, sprzęt i akcesoria jeździeckie, rodzaje podków, dokumentację dotyczącą identyfikacji i użytkowania koni, termometry weterynaryjne, apteczkę weterynaryjną, instrukcje bezpieczeństwa i higieny pracy, przepisy prawa i regulaminy dotyczące jeździectwa sportowego, wyścigów konnych, rekreacji konnej; filmy dydaktyczne i prezentacje multimedialne przedstawiające urządzenia do treningu koni, konkursy jeździeckie, pokazy koni i wyścigi konne, zawody w różnych dyscyplinach jeździeckich, obiekty stajenne i ich wyposażenie, pastwiska kwaterowe dla koni; fantom do ćwiczeń udzielania pierwszej pomocy oraz apteczkę; sprzęt przeciwpożarowy, środki ochrony indywidualnej. Ponadto szkoła powinna posiadać ośrodek treningu koni, wyposażony w: stajnię, siodlarnię, szorownię, wozownię, krytą ujeżdżalnię, plac treningowy, parcour, czworobok, bieżnię wyścigową, okólnik do lonżowania koni, wybiegi dla koni, urządzenia do treningu koni, magazyny pasz treściwych i objętościowych. Szkoła, która nie posiada ośrodka treningu koni, organizuje kształcenie praktyczne w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu. Kształcenie praktyczne może odbywać się w: pracowniach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, na torach wyścigów konnych oraz w jeździeckich ośrodkach sportowych i rekreacyjnych, zapewniających, na potrzeby kształcenia, odpowiednią liczbę wyszkolonych koni. Szkoła przygotowuje ucznia do kierowania ciągnikiem rolniczym z przyczepą (przyczepami) lub pojazdem wolnobieżnym z przyczepą (przyczepami). Egzamin państwowy, wymagany do uzyskania prawa jazdy odpowiedniej kategorii, jest przeprowadzany zgodnie z przepisami ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
 4.
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów oraz efekty kształcenia wspólne dla zawodów w ramach obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 290 godz. R.27. Jeździectwo i trening koni 660 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie.
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów oraz efekty kształcenia wspólne dla zawodów w ramach obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 290 godz. R.27. Jeździectwo i trening koni 660 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie.
 5.
-MOŻLIWOŚCI UZYSKIWANIA DODATKOWYCH KWALIFIKACJI W ZAWODACH W RAMACH OBSZARU KSZTAŁCENIA OKREŚLONEGO W KLASYFIKACJI ZAWODÓW SZKOLNICTWA ZAWODOWEGO Absolwent szkoły kształcącej w zawodzie jeździec po potwierdzeniu kwalifikacji R.27. Jeździectwo i trening koni może uzyskać dyplom potwierdzający kwalifikacje w zawodzie technik hodowca koni po potwierdzeniu dodatkowo kwalifikacji R.19. Organizacja chowu i hodowli koni oraz uzyskaniu wykształcenia średniego.
-” ,
+MOŻLIWOŚCI UZYSKIWANIA DODATKOWYCH KWALIFIKACJI W ZAWODACH W RAMACH OBSZARU KSZTAŁCENIA OKREŚLONEGO W KLASYFIKACJI ZAWODÓW SZKOLNICTWA ZAWODOWEGO Absolwent szkoły kształcącej w zawodzie jeździec po potwierdzeniu kwalifikacji R.27. Jeździectwo i trening koni może uzyskać dyplom potwierdzający kwalifikacje w zawodzie technik hodowca koni po potwierdzeniu dodatkowo kwalifikacji R.19. Organizacja chowu i hodowli koni oraz uzyskaniu wykształcenia średniego. ” ,
 g)
 w obszarze rolniczo-leśnym z ochroną środowiska (R) dla technikum w opisie kształcenia w zawodzie „Technik hodowca koni 314203”:
-– ust. 2 „Efekty kształcenia” otrzymuje brzmienie: „ 2. EFEKTY KSZTAŁCENIA Do wykonywania wyżej wymienionych zadań zawodowych niezbędne jest osiągnięcie zakładanych efektów kształcenia, na które składają się: 1) efekty kształcenia wspólne dla wszystkich zawodów; 2) efekty kształcenia wspólne dla zawodów w ramach obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(R.c), PKZ(R.k) i PKZ(R.p); 3) efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodzie technik hodowca koni opisane w części II: R.19. Organizacja chowu i hodowli koni; R.20. Szkolenie i użytkowanie koni albo R.27. Jeździectwo i trening koni. ” ,
-– ust. 4 „Minimalna liczba godzin kształcenia zawodowego” otrzymuje brzmienie: „ 4. MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów oraz efekty kształcenia wspólne dla zawodów w ramach obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 290 godz. R. 19. Organizacja chowu i hodowli koni 400 godz. R.20. Szkolenie i użytkowanie konialboR.27. Jeździectwo i trening koni 660 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” .
+ust. 2 „Efekty kształcenia” otrzymuje brzmienie: „
+2.
+EFEKTY KSZTAŁCENIA Do wykonywania wyżej wymienionych zadań zawodowych niezbędne jest osiągnięcie zakładanych efektów kształcenia, na które składają się:
+1)
+efekty kształcenia wspólne dla wszystkich zawodów;
+2)
+efekty kształcenia wspólne dla zawodów w ramach obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(R.c), PKZ(R.k) i PKZ(R.p);
+3)
+efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodzie technik hodowca koni opisane w części II: R.19. Organizacja chowu i hodowli koni; R.20. Szkolenie i użytkowanie koni albo R.27. Jeździectwo i trening koni. ” ,
+ust. 4 „Minimalna liczba godzin kształcenia zawodowego” otrzymuje brzmienie: „
+4.
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów oraz efekty kształcenia wspólne dla zawodów w ramach obszaru rolniczo-leśnego z ochroną środowiska stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 290 godz. R. 19. Organizacja chowu i hodowli koni 400 godz. R.20. Szkolenie i użytkowanie koni
+albo
+R.27. Jeździectwo i trening koni 660 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” .
 § 2.
 Szkoły, które rozpoczęły kształcenie w zawodzie technik transportu drogowego w roku szkolnym 2014/2015 lub 2015/2016, kontynuują kształcenie w tym zawodzie zgodnie z podstawą programową kształcenia w zawodach określoną w przepisach rozporządzenia zmienianego w § 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszego rozporządzenia, do zakończenia cyklu kształcenia.
 § 3.
@@ -206,6 +532,5 @@ Szkoły, które rozpoczęły kształcenie w zawodzie technik mechanizacji rolnic
 § 5.
 Szkoły, które rozpoczęły kształcenie w zawodzie technik hodowca koni w roku szkolnym 2013/2014, 2014/2015 lub 2015/2016, kontynuują kształcenie w tym zawodzie zgodnie z podstawą programową kształcenia w zawodach określoną w przepisach rozporządzenia zmienianego w § 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszego rozporządzenia, do zakończenia cyklu kształcenia.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 września 2016 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem 1 września 2016 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

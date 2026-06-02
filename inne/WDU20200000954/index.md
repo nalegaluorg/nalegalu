@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 28 maja 2020 r. w sprawie aplikacji mobilnej służącej do rozliczania opłaty za przewóz osób
+# Rozporządzenie Ministra Cyfryzacjiz dnia 28 maja 2020 r. w sprawie aplikacji mobilnej służącej do rozliczania opłaty za przewóz osób Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-28 |
 | Data wydania | 2020-05-29 |
-| Wejście w życie | 2020-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000954) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/954/text.pdf) |
 
@@ -86,6 +85,5 @@ przez zapewnienie rozliczalności działań dokonywanych na danych i metadanych,
 4)
 przez uniemożliwienie utraty lub dokonywania nieuprawnionej zmiany tych danych lub metadanych.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2020 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270).
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2020 r. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270).
 

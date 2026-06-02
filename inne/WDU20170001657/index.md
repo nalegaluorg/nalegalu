@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 sierpnia 2017 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 sierpnia 2017 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-28 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001657) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1657/text.pdf) |
 
@@ -179,7 +178,7 @@ współpracą ze specjalistami świadczącymi dzieciom pomoc psychologiczno-peda
 12)
 przyjmowania dzieci na zajęcia tego punktu lub zespołu – w przypadku niepublicznego punktu lub zespołu innego niż punkt lub zespół, o którym mowa w ust. 2.
 2.
-Skreślenie dziecka z listy wychowanków, o którym mowa w ust. 1 pkt 5, nie dotyczy dziecka realizującego obowiązek rocznego przygotowania przedszkolnego w publicznym punkcie lub zespole lub niepublicznym punkcie lub zespole, o którym mowa w art. 90 ust. 1c ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.).
+Skreślenie dziecka z listy wychowanków, o którym mowa w ust. 1 pkt 5, nie dotyczy dziecka realizującego obowiązek rocznego przygotowania przedszkolnego w publicznym punkcie lub zespole lub niepublicznym punkcie lub zespole, o którym mowa w art. 90 ust. 1c ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.).
 § 7.
 1.
 Wychowaniem przedszkolnym w punkcie lub zespole obejmuje się nie więcej niż 25 dzieci.
@@ -220,6 +219,5 @@ Nauczyciel potwierdza podpisem w dzienniku zajęć punktu lub zespołu przeprowa
 § 14.
 Organy prowadzące publiczne i niepubliczne punkty i zespoły, założone i funkcjonujące przed dniem 1 września 2017 r., dostosują działalność tych punktów i zespołów do wymagań określonych w niniejszym rozporządzeniu do dnia 31 sierpnia 2020 r.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 31 sierpnia 2010 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1080 oraz z 2011 r. poz. 839), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 31 sierpnia 2010 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1080 oraz z 2011 r. poz. 839), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 31 sierpnia 2010 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1080 oraz z 2011 r. poz. 839), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 września 2024 r. zmieniające rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu
+# Rozporządzenie Ministra Zdrowiaz dnia 27 września 2024 r. zmieniające rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-27 |
 | Data wydania | 2024-10-01 |
-| Wejście w życie | 2024-10-16 |
 | Ostatnia zmiana | 2025-08-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1448/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 7 ust. 4 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 13 sierpnia 2021 r. w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu (Dz. U. z 2023 r. poz. 2086) w załączniku do rozporządzenia § 3 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 13 sierpnia 2021 r. w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu (Dz. U. z 2023 r. poz. 2086) w załączniku do rozporządzenia § 3 otrzymuje brzmienie: „
 § 3.
 W skład Głównego Inspektoratu wchodzą:
 1)
@@ -54,9 +52,7 @@ Departament Zapobiegania i Kontroli Chorób Zakaźnych;
 10)
 Biuro Dyrektora Generalnego;
 11)
-Biuro Głównego Inspektora.
-” .
+Biuro Głównego Inspektora. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

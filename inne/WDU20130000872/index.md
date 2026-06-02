@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-07-12 |
 | Data wydania | 2013-08-01 |
-| Wejście w życie | 2013-08-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000872) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/872/text.pdf) |
 
@@ -75,8 +74,7 @@ inwestycja zostanie udostępniona w przypadkach innych niż określone w ust. 3 
 a)
 100%, 80%, 60%, 40% i 20% tej pomocy odpowiednio w pierwszym, drugim, trzecim, czwartym i piątym roku okresu, o którym mowa w ust. 1 pkt 3 lit. a, w którym stwierdzono naruszenie warunku nieudostępnienia inwestycji lub jej wykorzystywanie niezgodnie z przeznaczeniem,
 b)
-100%, 90%, 80%, 70%, 60%, 50%, 40%, 30%, 20% i 10% tej pomocy odpowiednio w pierwszym, drugim, trzecim, czwartym, piątym, szóstym, siódmym, ósmym, dziewiątym i dziesiątym roku okresu, o którym mowa w ust. 1 pkt 3 lit. b i c, w którym stwierdzono naruszenie warunku nieudostępnienia inwestycji lub jej wykorzystywanie niezgodnie z przeznaczeniem
-zwiększoną o odsetki, o których mowa w art. 123 rozporządzenia wykonawczego Komisji (UE) nr 543/2011 z dnia 7 czerwca 2011 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw.
+100%, 90%, 80%, 70%, 60%, 50%, 40%, 30%, 20% i 10% tej pomocy odpowiednio w pierwszym, drugim, trzecim, czwartym, piątym, szóstym, siódmym, ósmym, dziewiątym i dziesiątym roku okresu, o którym mowa w ust. 1 pkt 3 lit. b i c, w którym stwierdzono naruszenie warunku nieudostępnienia inwestycji lub jej wykorzystywanie niezgodnie z przeznaczeniem – zwiększoną o odsetki, o których mowa w art. 123 rozporządzenia wykonawczego Komisji (UE) nr 543/2011 z dnia 7 czerwca 2011 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw.
 § 2.
 1.
 Potwierdzeniem spełniania przez grupę warunków przyznania pomocy finansowej, o której mowa w § 1 ust. 1, jest złożenie:

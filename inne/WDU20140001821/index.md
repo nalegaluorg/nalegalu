@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-09 |
 | Data wydania | 2014-12-18 |
-| Wejście w życie | 2015-01-02 |
 | Ostatnia zmiana | 2024-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001821) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1821/text.pdf) |
 
@@ -43,8 +42,7 @@ jednostki organizacyjne podległe ministrowi właściwemu do spraw zagranicznych
 6)
 misje dyplomatyczne, urzędy konsularne, zagraniczne misje specjalne oraz przedstawicielstwa organizacji międzynarodowych, korzystające z przywilejów i immunitetów na podstawie ustaw, umów i zwyczajów międzynarodowych, mające swoje siedziby na terytorium Rzeczypospolitej Polskiej – wyłącznie w zakresie związanym z działalnością dyplomatyczną tych podmiotów oraz pod warunkiem uzyskania zgody, o której mowa w art. 148b ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 7)
-komórki organizacyjne przeprowadzające czynności wywiadu skarbowego, które wchodzą w skład jednostek organizacyjnych kontroli skarbowej nadzorowanych lub podległych ministrowi właściwemu do spraw finansów publicznych – dla własnych potrzeb
-zwane dalej „podmiotami”, powoduje szkodliwe zakłócenie pracy innego urządzenia spełniającego zasadnicze wymagania w rozumieniu przepisów o kompatybilności elektromagnetycznej, zwane dalej „szkodliwym zakłóceniem”.
+komórki organizacyjne przeprowadzające czynności wywiadu skarbowego, które wchodzą w skład jednostek organizacyjnych kontroli skarbowej nadzorowanych lub podległych ministrowi właściwemu do spraw finansów publicznych – dla własnych potrzeb – zwane dalej „podmiotami”, powoduje szkodliwe zakłócenie pracy innego urządzenia spełniającego zasadnicze wymagania w rozumieniu przepisów o kompatybilności elektromagnetycznej, zwane dalej „szkodliwym zakłóceniem”.
 § 2.
 W celu eliminacji szkodliwego zakłócenia powodowanego przez urządzenie:
 1)
@@ -62,8 +60,7 @@ Szef Agencji Wywiadu, zwany dalej „Szefem AW”, oraz Szef Centralnego Biura A
 7)
 minister właściwy do spraw zagranicznych w stosunku do podmiotów, o których mowa w § 1 pkt 5 i 6,
 8)
-minister właściwy do spraw finansów publicznych w stosunku do podmiotów, o których mowa w § 1 pkt 7
-oraz Prezes Urzędu Komunikacji Elektronicznej, zwany dalej „Prezesem UKE”, działają przy pomocy wyznaczonych, podległych im komórek organizacyjnych, zwanych dalej odpowiednio „komórką wyznaczoną przez właściwego ministra, Szefa ABW, Szefa AW albo Szefa CBA” lub „komórką UKE do spraw zwalczania szkodliwych zakłóceń”.
+minister właściwy do spraw finansów publicznych w stosunku do podmiotów, o których mowa w § 1 pkt 7 – oraz Prezes Urzędu Komunikacji Elektronicznej, zwany dalej „Prezesem UKE”, działają przy pomocy wyznaczonych, podległych im komórek organizacyjnych, zwanych dalej odpowiednio „komórką wyznaczoną przez właściwego ministra, Szefa ABW, Szefa AW albo Szefa CBA” lub „komórką UKE do spraw zwalczania szkodliwych zakłóceń”.
 § 3.
 1.
 W przypadku stwierdzenia przez Prezesa UKE, że urządzenie używane przez którykolwiek z podmiotów powoduje szkodliwe zakłócenie, kierownik komórki UKE do spraw zwalczania szkodliwych zakłóceń występuje niezwłocznie do kierownika komórki wyznaczonej przez właściwego ministra, Szefa ABW, Szefa AW albo Szefa CBA o podjęcie działań w celu eliminacji szkodliwego zakłócenia.
@@ -76,8 +73,7 @@ częstotliwość pracy, współrzędne geograficzne, lokalizację urządzenia, k
 3)
 datę, czas trwania, częstość występowania oraz objawy techniczne szkodliwego zakłócenia,
 4)
-możliwe do określenia dane o źródle szkodliwego zakłócenia, w tym charakterystyczne znaki, rodzaj modulacji, częstotliwość, czas występowania szkodliwego zakłócenia oraz natężenie pola elektrycznego albo natężenie pola magnetycznego lub średnią gęstość mocy pola elektromagnetycznego
-oraz wyznacza się termin usunięcia jego przyczyny, który nie może być dłuższy niż 15 dni.
+możliwe do określenia dane o źródle szkodliwego zakłócenia, w tym charakterystyczne znaki, rodzaj modulacji, częstotliwość, czas występowania szkodliwego zakłócenia oraz natężenie pola elektrycznego albo natężenie pola magnetycznego lub średnią gęstość mocy pola elektromagnetycznego – oraz wyznacza się termin usunięcia jego przyczyny, który nie może być dłuższy niż 15 dni.
 3.
 W przypadku braku możliwości eliminacji szkodliwego zakłócenia w terminie, o którym mowa w ust. 2, kierownik komórki wyznaczonej przez właściwego ministra, Szefa ABW, Szefa AW albo Szefa CBA występuje do kierownika komórki UKE do spraw zwalczania szkodliwych zakłóceń z uzasadnionym wnioskiem o przedłużenie terminu, który może zostać przedłużony maksymalnie o 30 dni.
 4.
@@ -122,5 +118,5 @@ O wyznaczeniu komórki organizacyjnej UKE do spraw zwalczania szkodliwych zakł�
 § 8.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 19 września 2007 r. w sprawie sposobów postępowania w przypadku stwierdzenia, że urządzenie wytwarzające pole elektromagnetyczne powoduje zakłócenia pracy innego urządzenia (Dz. U. Nr 175, poz. 1227), które na podstawie art. 25 ust. 1 ustawy z dnia 16 listopada 2012 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 1445 oraz z 2013 r. poz. 1635) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 19 września 2007 r. w sprawie sposobów postępowania w przypadku stwierdzenia, że urządzenie wytwarzające pole elektromagnetyczne powoduje zakłócenia pracy innego urządzenia (Dz. U. Nr 175, poz. 1227), które na podstawie art. 25 ust. 1 ustawy z dnia 16 listopada 2012 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 1445 oraz z 2013 r. poz. 1635) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

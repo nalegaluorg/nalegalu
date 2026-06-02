@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 17 października 2002 r. w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2014 r. poz. 282), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 14 marca 2019 r. zmieniającym rozporządzenie w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 562).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 marca 2019 r. zmieniającego rozporządzenie w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 562), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 marca 2019 r. zmieniającego rozporządzenie w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 562), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Prezesa Rady Ministrów z dnia 17 października 2002 r. w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego
 Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729 i 956) zarządza się, co następuje:
 § 1.
@@ -53,10 +51,10 @@ art. 109–117 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 201
 2)
 art. 35, art. 41–49 i art. 52–63 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2019 r. poz. 1225 oraz z 2020 r. poz. 284, 322 i 1337);
 3)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 14 marca 2019 r. zmieniającego rozporządzenie w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 562), które weszło w życie z dniem 10 kwietnia 2019 r.
 4)
-art. 50–53 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239, z późn. zm.);
-5)
+art. 50–53 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495 oraz z 2020 r. poz. 284, 322, 374, 567 i 875.);
+5W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 art. 46 ust. 1 pkt 1–3 i 6 oraz ust. 2 ustawy z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. z 2018 r. poz. 2231 oraz z 2020 r. poz. 322);
 6)
 art. 67 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852, 1655 i 1818 oraz z 2020 r. poz. 322 i 1337) w zakresie prekursorów kategorii 2 i 3;
@@ -64,7 +62,7 @@ art. 67 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 
 art. 100 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2019 r. poz. 1252 oraz z 2020 r. poz. 284 i 285) w zakresie określonym w art. 73 ust. 1 pkt 1 tej ustawy;
 8)
 art. 13 ust. 1 pkt 2 oraz ust. 2 ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2019 r. poz. 2182 oraz z 2020 r. poz. 1337);
-9)
+9W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.)
 art. 477 pkt 1–3 i 13 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r. poz. 310, 284, 695, 782 i 875).
 § 3.
 Upoważnienia dla funkcjonariuszy organów Państwowej Inspekcji Sanitarnej do nakładania grzywien w drodze mandatu karnego wydaje:
@@ -100,5 +98,5 @@ Upoważnienie powinno być podpisane przez organ, który je wydał, oraz opatrzo
 § 5.
 Przepis § 3 pkt 3 traci moc z dniem 31 grudnia 2002 r.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 18 października 2002 r., z wyjątkiem § 3 pkt 4, który wchodzi w życie z dniem 1 stycznia 2003 r.
+Rozporządzenie wchodzi w życie z dniem 18 października 2002 r., z wyjątkiem § 3 pkt 4, który wchodzi w życie z dniem 1 stycznia 2003 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 23 grudnia 1999 r. w sprawie określenia wykroczeń, za które funkcjonariusze organów Inspekcji Sanitarnej są upoważnieni do nakładania grzywien w drodze mandatu karnego, oraz zasad i sposobu wydawania upoważnień (Dz. U. z 2000 r. poz. 152), które utraciło moc z dniem 17 października 2002 r. na podstawie art. 12 ustawy z dnia 24 sierpnia 2001 r. – Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia (Dz. U. poz. 1149). 1) Przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 14 marca 2019 r. zmieniającego rozporządzenie w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 562), które weszło w życie z dniem 10 kwietnia 2019 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495 oraz z 2020 r. poz. 284, 322, 374, 567 i 875. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 23 grudnia 1999 r. w sprawie określenia wykroczeń, za które funkcjonariusze organów Inspekcji Sanitarnej są upoważnieni do nakładania grzywien w drodze mandatu karnego, oraz zasad i sposobu wydawania upoważnień (Dz. U. z 2000 r. poz. 152), które utraciło moc z dniem 17 października 2002 r. na podstawie art. 12 ustawy z dnia 24 sierpnia 2001 r. – Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia (Dz. U. poz. 1149).
 

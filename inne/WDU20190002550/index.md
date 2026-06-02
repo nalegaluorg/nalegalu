@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-12 |
 | Data wydania | 2019-12-31 |
-| Wejście w życie | 2020-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2550/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590, 1655, 1818, 2020, 2070 i 2473.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: uchyla się pkt 13, w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „
     - **a)**
@@ -46,7 +45,7 @@ source: "eli-html"
 
 3. Podstawę wymiaru składek, o której mowa w ust. 1, ubezpieczony ustala na dany rok kalendarzowy, mnożąc przeciętny miesięczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym, obliczony zgodnie z ust. 4, przez współczynnik 0,5. Otrzymany wynik jest zaokrąglany do pełnych groszy w górę, jeśli końcówka jest równa lub wyższa niż 0,5 grosza, lub w dół, jeśli jest niższa.
 
-4. Przeciętny miesięczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym jest obliczany według następującego wzoru: roczny dochód z pozarolniczej działalności gospodarczej uzyskanyw poprzednim roku kalendarzowym × 30 liczba dni kalendarzowych prowadzenia pozarolniczej działalności gospodarczejw poprzednim roku kalendarzowym i jest zaokrąglany do pełnych groszy w górę, jeśli końcówka jest równa lub wyższa niż 0,5 grosza, lub w dół, jeśli jest niższa. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+4. Przeciętny miesięczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym jest obliczany według następującego wzoru: roczny dochód z pozarolniczej działalności gospodarczej uzyskany w poprzednim roku kalendarzowym × 30 liczba dni kalendarzowych prowadzenia pozarolniczej działalności gospodarczej w poprzednim roku kalendarzowym i jest zaokrąglany do pełnych groszy w górę, jeśli końcówka jest równa lub wyższa niż 0,5 grosza, lub w dół, jeśli jest niższa. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
 - **b)**
 
@@ -107,7 +106,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r. poz. 768, 730, 1520, 1556 i 2200) wprowadza się następujące zmiany:
 
-- **1)** w art. 52 w pkt 1 lit. h otrzymuje brzmienie: „ kwoty przychodów w podziale na źródła przychodów, koszty ich uzyskania oraz dochody, w tym kwoty rocznego przychodu i rocznego dochodu uzyskanego przez podatnika będącego ubezpieczonym, o którym mowa w art. 18c ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, z późn. zm.), ” ;
+- **1)** w art. 52 w pkt 1 lit. h otrzymuje brzmienie: „ kwoty przychodów w podziale na źródła przychodów, koszty ich uzyskania oraz dochody, w tym kwoty rocznego przychodu i rocznego dochodu uzyskanego przez podatnika będącego ubezpieczonym, o którym mowa w art. 18c ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590, 1655, 1818, 2020, 2070, 2473 i 2550.), ” ;
     - **h)**
 
 - **2)** po art. 52a dodaje się art. 52aa w brzmieniu: „ Art. 52aa. Szef Krajowej Administracji Skarbowej informuje Zakład Ubezpieczeń Społecznych o zmianie formy opodatkowania lub kwoty rocznego przychodu lub rocznego dochodu uzyskanego przez podatnika będącego ubezpieczonym, o którym mowa w art. 18c ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. ” .
@@ -121,18 +120,18 @@ source: "eli-html"
 2. Ubezpieczony, o którym mowa w ust. 1, przekazuje:
 
 - **1)** informację, o której mowa w art. 18c ust. 9 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym odpowiednio w imiennym raporcie miesięcznym albo w deklaracji rozliczeniowej, składanych za styczeń 2020 r., oraz
-- **2)** informację, o której mowa w art. 18c ust. 9 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą odpowiednio w imiennym raporcie miesięcznym albo w deklaracji rozliczeniowej, składanych za luty 2020 r. w terminach określonych w art. 47 ust. 1 pkt 1 lub 3 ustawy zmienianej w art. 1.
+- **2)** informację, o której mowa w art. 18c ust. 9 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą odpowiednio w imiennym raporcie miesięcznym albo w deklaracji rozliczeniowej, składanych za luty 2020 r. – w terminach określonych w art. 47 ust. 1 pkt 1 lub 3 ustawy zmienianej w art. 1.
 
 **Art. 5.**
 
 1. Ubezpieczony, o którym mowa w art. 8 ust. 6 pkt 1 ustawy zmienianej w art. 1, który ustala na 2020 r. podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe zgodnie z art. 18c ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą i:
 
 - **1)** przed dniem wejścia w życie niniejszej ustawy ustalał podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe w sposób inny niż określony w art. 18c ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zawiadamia Zakład Ubezpieczeń Społecznych o zmianie danych dotyczących tytułu ubezpieczenia przez złożenie zgłoszenia wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych, o którym mowa w art. 36 ust. 14 ustawy zmienianej w art. 1, zawierającego prawidłowe dane,
-- **2)** rozpoczął lub wznowił prowadzenie pozarolniczej działalności gospodarczej w lutym 2020 r., dokonuje zgłoszenia do ubezpieczeń społecznych, o którym mowa w art. 36 ust. 4b ustawy zmienianej w art. 1 w terminie do końca lutego 2020 r.
+- **2)** rozpoczął lub wznowił prowadzenie pozarolniczej działalności gospodarczej w lutym 2020 r., dokonuje zgłoszenia do ubezpieczeń społecznych, o którym mowa w art. 36 ust. 4b ustawy zmienianej w art. 1 – w terminie do końca lutego 2020 r.
 
 2. Jeżeli termin określony w ust. 1 jest krótszy niż 7 dni, ubezpieczony składa zgłoszenie wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych albo zgłoszenie do ubezpieczeń społecznych, w terminie 7 dni odpowiednio od zaistnienia zmiany danych albo od daty powstania obowiązku ubezpieczenia.
 
 3. Objęcie dobrowolnie ubezpieczeniem chorobowym w przypadkach, o których mowa w ust. 1, następuje od dnia wskazanego we wniosku o objęcie ubezpieczeniami emerytalnym, rentowymi i chorobowym, o ile ubezpieczony dokona zgłoszenia, o którym mowa odpowiednio w ust. 1 pkt 1 lub 2, w terminie określonym w ust. 1.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 lutego 2020 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 lutego 2020 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590, 1655, 1818, 2020, 2070 i 2473. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590, 1655, 1818, 2020, 2070, 2473 i 2550.
 

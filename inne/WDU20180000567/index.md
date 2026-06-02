@@ -26,18 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/567/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 11 kwietnia 2003 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania Rozdział 1 – Przepisy ogólne Rozdział 2 – Krajowe podróże służbowe Rozdział 3 – Zagraniczne podróże służbowe Rozdział 4 – Należności za przeniesienia do pełnienia służby w innej miejscowości Rozdział 5 – Należności za delegowania do czasowego pełnienia służby w innej miejscowości Rozdział 6 – Przepis końcowy
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 11 kwietnia 2003 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 11 kwietnia 2003 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 622), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającym rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1113).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1113), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1113), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 11 kwietnia 2003 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania
 Na podstawie art. 127 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2017 r. poz. 1920 i 2405 oraz z 2018 r. poz. 138) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -68,6 +67,7 @@ b)
 zagranicznych podróży służbowych – Szefa ABW albo upoważnionego przez niego zastępcę Szefa ABW;
 12)
 „uposażenie” – uposażenie zasadnicze wraz z dodatkami o charakterze stałym, przysługujące funkcjonariuszowi od dnia przeniesienia do pełnienia służby w innej miejscowości.
+Krajowe podróże służbowe
 § 2.
 1.
 W przypadku funkcjonariusza zamieszkałego poza stałym miejscem pełnienia służby właściwy przełożony może uznać, w celu rozliczenia kosztów krajowej podróży służbowej, miejscowość zamieszkania jako stałe miejsce pełnienia służby, jeżeli:
@@ -178,6 +178,7 @@ W przypadku Komendanta Centralnego Ośrodka Szkolenia ABW oraz dyrektora delegat
 Należności z tytułu krajowej podróży służbowej wypłaca się w terminie 14 dni od dnia przedstawienia przez funkcjonariusza dokumentów lub rachunków, potwierdzających wysokość poniesionych wydatków nieobjętych ryczałtami, oraz oświadczenia o okolicznościach mających wpływ na prawo do diet, ryczałtów lub zwrotu innych kosztów podróży bądź ich wysokość.
 § 12.
 W przypadku śmierci funkcjonariusza podczas odbywania krajowej podróży służbowej koszty transportu zwłok do miejscowości, w której zmarły funkcjonariusz ma być pochowany, pokrywa ABW.
+Zagraniczne podróże służbowe
 § 13.
 Czas zagranicznej podróży służbowej liczy się w razie odbywania jej środkami komunikacji:
 1)
@@ -277,6 +278,7 @@ Rozliczenia kosztów zagranicznej podróży służbowej należy dokonać w waluc
 Do rozliczenia kosztów zagranicznej podróży służbowej należy załączyć dokumenty lub rachunki potwierdzające poszczególne wydatki; nie dotyczy to diet oraz wydatków objętych ryczałtami. Jeżeli uzyskanie dokumentu lub rachunku nie było możliwe, funkcjonariusz jest obowiązany złożyć pisemne oświadczenie o dokonanym wydatku i przyczynach braku jego udokumentowania.
 4.
 Rozliczenia kosztów i wypłaty należności z tytułu zagranicznej podróży służbowej dokonuje jednostka organizacyjna właściwa w sprawach budżetu i finansów, w terminie 14 dni od dnia przedstawienia przez funkcjonariusza dokumentów, o których mowa w ust. 1–3.
+Należności za przeniesienia do pełnienia służby w innej miejscowości
 § 24.
 Funkcjonariuszowi przeniesionemu z urzędu do pełnienia służby w innej miejscowości przysługują:
 1)
@@ -358,7 +360,7 @@ korzystania z pojazdu służbowego.
 § 32.
 Na wniosek funkcjonariusza przeniesionego z urzędu do pełnienia służby w innej miejscowości i nieprzesiedlającego się, jeżeli jest możliwy codzienny dojazd do nowego miejsca pełnienia służby, kierownik jednostki organizacyjnej może przyznać zwrot kosztów biletu miesięcznego na dojazd publicznym środkiem transportu.
 § 33.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1113), które weszło w życie z dniem 23 czerwca 2017 r..
 Należności, o których mowa w § 25–32, wypłaca, na wniosek złożony przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej, jednostka organizacyjna, do której funkcjonariusz został przeniesiony. Należności te wypłaca się w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.
 2.
 Do wniosku o wypłatę należności, o których mowa w § 28 ust. 1 i § 29 ust. 1, funkcjonariusz załącza dokument potwierdzający fakt jego zameldowania w nowym miejscu pełnienia służby, a w przypadku przesiedlenia się wraz z nim członków rodziny, o których mowa w art. 91 ust. 1 ustawy, również dokument potwierdzający ich zameldowanie.
@@ -368,6 +370,7 @@ Funkcjonariuszowi przeniesionemu z urzędu do pełnienia służby w innej miejsc
 Należności, o których mowa w § 27–30, nie przysługują w przypadku przeniesienia funkcjonariusza z urzędu do poprzedniego miejsca pełnienia służby, w którym on sam lub członkowie jego rodziny, o których mowa w art. 91 ust. 1 ustawy, nadal posiadają dom lub samodzielny lokal mieszkalny, bądź do miejscowości, w której są oni zameldowani na pobyt stały.
 § 36.
 W uzasadnionych przypadkach Szef ABW, na wniosek funkcjonariusza przeniesionego do pełnienia służby w innej miejscowości na własną prośbę, może przyznać należności jak z tytułu przeniesienia z urzędu do pełnienia służby w innej miejscowości. Przepisy § 24–35 stosuje się odpowiednio.
+Należności za delegowania do czasowego pełnienia służby w innej miejscowości
 § 37.
 Funkcjonariuszowi delegowanemu do czasowego pełnienia służby w innej miejscowości, z zastrzeżeniem § 38, przysługują:
 1)
@@ -383,20 +386,33 @@ zwrot kosztów przejazdów, na trasie od stałego miejsca pełnienia służby do
 zwrot kosztów dojazdów środkami komunikacji miejscowej w formie ryczałtu.
 2.
 Funkcjonariuszowi, o którym mowa w ust. 1, nie przysługują świadczenia wymienione w § 37.
-§ 39.
+§ 39W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Należności, o których mowa w § 37 i § 38, wypłaca się funkcjonariuszowi w jednostce organizacyjnej, do której został czasowo delegowany, w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.
+Przepis końcowy
 § 40.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 kwietnia 2003 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 12 listopada 2001 r. w sprawie należności funkcjonariuszy Urzędu Ochrony Państwa za podróże służbowe i przeniesienia (Dz. U. poz. 1494), zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676). 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającego rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1113), które weszło w życie z dniem 23 czerwca 2017 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 18 kwietnia 2003 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 12 listopada 2001 r. w sprawie należności funkcjonariuszy Urzędu Ochrony Państwa za podróże służbowe i przeniesienia (Dz. U. poz. 1494), zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Krajowe podróże służbowe
+#### Rozdział 2 – Krajowe podróże służbowe
 
-#### Rozdział 3 Zagraniczne podróże służbowe
+#### Rozdział 3 – Zagraniczne podróże służbowe
 
-#### Rozdział 4 Należności za przeniesienia do pełnienia służby w innej miejscowości
+#### Rozdział 4 – Należności za przeniesienia do pełnienia służby w innej miejscowości
 
-#### Rozdział 5 Należności za delegowania do czasowego pełnienia służby w innej miejscowości
+#### Rozdział 5 – Należności za delegowania do czasowego pełnienia służby w innej miejscowości
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

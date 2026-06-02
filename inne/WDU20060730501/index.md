@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 28 kwietnia 1936 r. – Prawo wekslowe, ustawę z dnia 28 kwietnia 1936 r. – Prawo czekowe, dekret z dnia 7 lipca 1945 r. o odtworzeniu dyplomów i świadectw z ukończenia nauki, ustawę z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych oraz ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-03-10 |
 | Data wydania | 2006-04-28 |
-| Wejście w życie | 2006-05-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060730501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/501/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z późn. zm.) w art. 1 w ust. 3 pkt 3 otrzymuje brzmienie: „
+**Art. 1.** W ustawie z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 770, z 2000 r. Nr 114, poz. 1193, z 2003 r. Nr 228, poz. 2256 oraz z 2004 r. Nr 273, poz. 2703.) w art. 1 w ust. 3 pkt 3 otrzymuje brzmienie: „
 
 - **3)** inne obwieszczenia i ogłoszenia, jeżeli ich ogłoszenie w Monitorze Sądowym i Gospodarczym jest wymagane przez inne ustawy. ” .
 
@@ -58,5 +57,5 @@ source: "eli-html"
 
 - **4)** art. 42 pkt 1, 4 i 7, które wchodzą w życie z dniem 1 lipca 2006 r. ” .
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 28 kwietnia 1936 r. – Prawo wekslowe, ustawę z dnia 28 kwietnia 1936 r. – Prawo czekowe, dekret z dnia 7 lipca 1945 r. o odtworzeniu dyplomów i świadectw z ukończenia nauki, ustawę z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych oraz ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 770, z 2000 r. Nr 114, poz. 1193, z 2003 r. Nr 228, poz. 2256 oraz z 2004 r. Nr 273, poz. 2703.
 

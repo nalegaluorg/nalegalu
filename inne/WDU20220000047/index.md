@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 5 stycznia 2022 r. zmieniające rozporządzenie w sprawie opiniowania służbowego policjantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 5 stycznia 2022 r. zmieniające rozporządzenie w sprawie opiniowania służbowego policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-05 |
 | Data wydania | 2022-01-11 |
-| Wejście w życie | 2022-01-12 |
 | Ostatnia zmiana | 2024-05-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/47/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpni
 1)
 w § 5:
 a)
-w pkt 2 po lit. a dodaje się lit. aa w brzmieniu:
-„
+w pkt 2 po lit. a dodaje się lit. aa w brzmieniu: „
 aa)
-Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,
-” ,
+Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, ” ,
 b)
-po pkt 7 dodaje się pkt 7a i 7b w brzmieniu:
-„
+po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „
 7a)
 Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do:
 a)
@@ -48,21 +44,17 @@ kierownika komórki organizacyjnej bezpośrednio mu podległej,
 b)
 policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;
 7b)
-kierownik komórki organizacyjnej, o którym mowa w pkt 7a lit. a, w stosunku do podległych mu policjantów;
-” ;
+kierownik komórki organizacyjnej, o którym mowa w pkt 7a lit. a, w stosunku do podległych mu policjantów; ” ;
 2)
 w § 7 w ust. 2:
 a)
 w pkt 2 po lit. b dodaje się lit. ba w brzmieniu: „ ba) Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, ” ,
 b)
-po pkt 4 dodaje się pkt 4a w brzmieniu:
-„
+po pkt 4 dodaje się pkt 4a w brzmieniu: „
 4a)
-Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej;
-” .
+Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej; ” .
 § 2.
 W sprawach odwołań od opinii służbowych oraz wniosków o ponowne rozpatrzenie sprawy w zakresie opinii służbowych, wniesionych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 1 września 2016 r. w sprawie rejestru historycznych zanieczyszczeń powierzchni ziemi
+# Rozporządzenie Ministra Środowiskaz dnia 1 września 2016 r. w sprawie rejestru historycznych zanieczyszczeń powierzchni ziemi Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-01 |
 | Data wydania | 2016-09-05 |
-| Wejście w życie | 2016-09-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001397) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1397/text.pdf) |
 
@@ -199,6 +198,5 @@ wskazanie daty wydania orzeczenia oraz przytoczenie jego sentencji.
 § 3.
 Informacje, o których mowa w § 2 pkt 5, wynikające z postępowań administracyjnych zakończonych wydaniem decyzji w okresie obowiązywania rozporządzenia Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. poz. 1359), wskazuje się zgodnie z przepisami tego rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 5 września 2016 r.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
+Rozporządzenie wchodzi w życie z dniem 5 września 2016 r. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 27 września 2018 r. w sprawie metod badania jakości paliw stałych
+# Rozporządzenie Ministra Energiiz dnia 27 września 2018 r. w sprawie metod badania jakości paliw stałych Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-27 |
 | Data wydania | 2018-10-04 |
-| Wejście w życie | 2018-11-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001893) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1893/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 26b ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania
 § 1.
 Metody badania jakości paliw stałych określa załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 Załącznik – Metody badania jakości paliw stałych
 1.
 Objaśnienia:
@@ -103,7 +101,8 @@ kosza lub skrzyni mogących pomieścić od 20 do 50 kg paliwa stałego;
 4)
 wagi technicznej.
 7.3.
-Tabela z wymiarami oczek sit kontrolnych. Rodzaj paliwa stałego Wymiar oczek kwadratowych [mm] sita kontrolne* górny wymiar dolny wymiar 1 2 3 Kęsy, kostka, kostka I, kostka II 200,00 63,00 Orzech, orzech I, orzech II 80,00 25,00 Groszek, groszek I, groszek II 40,00 5,00 Ekogroszek 31,50 5,00 Ekomiał 31,50 3 Miał I, miał II, miał III 31,50 1 Antracyt nie dotyczy Paliwa stałe otrzymywane w procesie przeróbki termicznej węgla kamiennego nie dotyczy * Wymiary oczek kwadratowych sit kontrolnych mają zastosowanie do odpowiedniego rodzaju paliwa stałego zgodnie z rozporządzeniem Ministra Energii z dnia 27 września 2018 r. w sprawie wymagań jakościowych dla paliw stałych (Dz. U. poz. 1890), gdzie górny wymiar oczek sita kontrolnego jest równy maksymalnej wartości wymiaru ziarna, a dolny wymiar oczek sita kontrolnego równy minimalnej wartości wymiaru ziarna.
+Tabela z wymiarami oczek sit kontrolnych.
+Rodzaj paliwa stałego Wymiar oczek kwadratowych [mm] sita kontrolne* górny wymiar dolny wymiar 1 2 3 Kęsy, kostka, kostka I, kostka II 200,00 63,00 Orzech, orzech I, orzech II 80,00 25,00 Groszek, groszek I, groszek II 40,00 5,00 Ekogroszek 31,50 5,00 Ekomiał 31,50 3 Miał I, miał II, miał III 31,50 1 Antracyt nie dotyczy Paliwa stałe otrzymywane w procesie przeróbki termicznej węgla kamiennego nie dotyczy * Wymiary oczek kwadratowych sit kontrolnych mają zastosowanie do odpowiedniego rodzaju paliwa stałego zgodnie z rozporządzeniem Ministra Energii z dnia 27 września 2018 r. w sprawie wymagań jakościowych dla paliw stałych (Dz. U. poz. 1890), gdzie górny wymiar oczek sita kontrolnego jest równy maksymalnej wartości wymiaru ziarna, a dolny wymiar oczek sita kontrolnego równy minimalnej wartości wymiaru ziarna.
 7.4.
 Oznaczenie zawartości podziarna.
 7.4.1.

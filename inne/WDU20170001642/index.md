@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-25 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001642) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1642/text.pdf) |
 
@@ -110,5 +109,5 @@ Pomieszczenie szatni, z którego korzystają dzieci, znajdujące się poza lokal
 § 8.
 Pomieszczenie sali gimnastycznej, z którego korzystają dzieci, znajdujące się poza lokalem, o którym mowa odpowiednio w § 3–5, spełnia odpowiednio wymagania, o których mowa w § 6.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 31 grudnia 2014 r. w sprawie wymagań ochrony przeciwpożarowej, jakie musi spełniać lokal, w którym jest prowadzone przedszkole utworzone w wyniku przekształcenia oddziału przedszkolnego lub oddziałów przedszkolnych zorganizowanych w szkole podstawowej (Dz. U. z 2015 r. poz. 20), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 99 pkt 3 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 31 grudnia 2014 r. w sprawie wymagań ochrony przeciwpożarowej, jakie musi spełniać lokal, w którym jest prowadzone przedszkole utworzone w wyniku przekształcenia oddziału przedszkolnego lub oddziałów przedszkolnych zorganizowanych w szkole podstawowej (Dz. U. z 2015 r. poz. 20), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 99 pkt 3 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
 

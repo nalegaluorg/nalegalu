@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rolnictwa i Rozwoju Wsiz dnia 3 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych
+# Obwieszczenie Ministra Rolnictwa i Rozwoju Wsiz dnia 3 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -38,25 +38,19 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 9 czerwca 2023 r. zmien
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2002 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1158), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2002 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1158), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 czerwca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1174), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 czerwca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1174), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 sierpnia 2001 r. w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 sierpnia 2001 r. w sprawie nadania statutu Polskiemu Klubowi Wyścigów KonnychNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rolnictwo kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 Na podstawie art. 6 ust. 1 ustawy z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. z 2020 r. poz. 1354) zarządza się, co następuje:
 § 1.
 Polskiemu Klubowi Wyścigów Konnych nadaje się statut stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rolnictwo kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Rozporządzenie zostało ogłoszone w dniu 20 września 2001 r.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 września 2001 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – rolnictwo kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Rozporządzenie zostało ogłoszone w dniu 20 września 2001 r.
 Załącznik – Statut Polskiego Klubu Wyścigów Konnych
 § 1.
 Polski Klub Wyścigów Konnych, zwany dalej „Klubem”, działa na podstawie ustawy z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. z 2020 r. poz. 1354), zwanej dalej „ustawą”, oraz niniejszego statutu.
@@ -65,7 +59,7 @@ Polski Klub Wyścigów Konnych, zwany dalej „Klubem”, działa na podstawie u
 Klubem kieruje Prezes Klubu przy pomocy głównego księgowego i kierowników komórek organizacyjnych Klubu.
 2.
 Prezes Klubu może upoważnić osoby, o których mowa w ust. 1, a także innych pracowników Klubu do prowadzenia w jego imieniu spraw w ustalonym przez niego zakresie.
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2002 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1158), które weszło w życie z dniem 13 września 2002 r..
 1.
 W skład Klubu wchodzą:
 1)
@@ -89,10 +83,10 @@ Stanowisko pracy, o którym mowa w ust. 1 pkt 5, podlega bezpośrednio Prezesowi
 Rada Klubu, zwana dalej „Radą”, wybiera przewodniczącego Rady i dwóch zastępców przewodniczącego Rady w głosowaniu tajnym.
 2.
 Szczegółowy tryb pracy Rady określa regulamin uchwalony przez Radę w uzgodnieniu z ministrem właściwym do spraw rolnictwa.
-3.
+3Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Obsługę techniczno-biurową Rady zapewnia Wydział Organizacyjny Klubu.
 § 5.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 Kontrolę wewnętrzną Klubu przeprowadza osoba zatrudniona na stanowisku, o którym mowa w § 3 ust. 1 pkt 5.
 2.
 Kontrola wewnętrzna jest prowadzona w ramach rocznych i kwartalnych planów kontroli oraz na polecenie Prezesa Klubu.
@@ -111,9 +105,9 @@ O wynikach kontroli wewnętrznej kontrolujący zawiadamia Prezesa Klubu. W razie
 Klub tworzy następujące fundusze:
 1)
 fundusz statutowy;
-1a)
+1aDodany przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 fundusz szkoleniowy;
-1b)
+1bDodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 czerwca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1174), które weszło w życie z dniem 7 lipca 2023 r.)
 fundusz hodowlany;
 2)
 obowiązkowe fundusze przewidziane odrębnymi przepisami.
@@ -121,21 +115,21 @@ obowiązkowe fundusze przewidziane odrębnymi przepisami.
 Fundusz statutowy tworzy się z:
 1)
 równowartości powierzonych składników majątku Skarbu Państwa, o którym mowa w art. 12 ustawy, stanowiącego wyposażenie Klubu w dniu rozpoczęcia przez niego działalności;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7.)
 co najmniej 50 % zysku netto.
 3.
 Fundusz statutowy zmniejsza się o straty bilansowe.
-4.
+4Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Fundusz szkoleniowy tworzy się ze środków finansowych pochodzących z kar pieniężnych, wymierzanych w postępowaniu dyscyplinarnym.
-5.
+5Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3; w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 7..
 Środki funduszu szkoleniowego przeznacza się na finansowanie szkoleń specjalistycznych oraz innych działań prowadzonych przez Klub w celu podnoszenia poziomu treningu oraz techniki jeździeckiej.
-6.
+6Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7..
 Fundusz hodowlany tworzy się z:
 1)
 nie więcej niż 50 % zysku netto;
 2)
 darowizn i zapisów przeznaczonych na ten fundusz.
-7.
+7Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7..
 Środki funduszu hodowlanego przeznacza się na finansowanie zadań określonych w art. 5 ust. 1 pkt 2 ustawy.
 § 7.
 1.
@@ -147,5 +141,5 @@ Klub prowadzi samodzielną gospodarkę finansową w ramach wpływów pochodzący
 4.
 Roczny plan finansowy ustala Prezes Klubu w uzgodnieniu z ministrem właściwym do spraw rolnictwa.
 5.
-Roczne sprawozdanie finansowe Klubu zatwierdza minister właściwy do spraw rolnictwa.
+Roczne sprawozdanie finansowe Klubu zatwierdza minister właściwy do spraw rolnictwa. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2002 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1158), które weszło w życie z dniem 13 września 2002 r. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 6) Dodany przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 3. 7) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 czerwca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1174), które weszło w życie z dniem 7 lipca 2023 r. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7. 9) Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3. 10) Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3; w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 7. 11) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 7.
 

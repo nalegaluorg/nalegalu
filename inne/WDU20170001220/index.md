@@ -43,41 +43,34 @@ rozporządzeniem Rady Ministrów z dnia 27 lutego 2015 r. zmieniającym rozporz�
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Rady Ministrów z dnia 5 października 2005 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 1759), który stanowi:
-„
+§ 2 rozporządzenia Rady Ministrów z dnia 5 października 2005 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 1759), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Rady Ministrów z dnia 24 lipca 2006 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 951), który stanowi:
-„
+§ 2 rozporządzenia Rady Ministrów z dnia 24 lipca 2006 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 951), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 27 lutego 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 333), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 27 lutego 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 333), które stanowią: „
 § 2.
 1.
 W przypadku osób pobierających rentę strukturalną lub ich małżonków w przypadku, o którym mowa w § 12 ust. 2 rozporządzenia wymienionego w § 1, którzy:
 1)
 osiągnęli wiek emerytalny przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-osiągną wiek emerytalny w dniu wejścia w życie niniejszego rozporządzenia albo w okresie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia
-kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa zawiadamia pobierającego rentę strukturalną o możliwości złożenia wniosku o ustalenie prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, w terminie 60 dni od dnia wejścia w życie niniejszego rozporządzenia.
+osiągną wiek emerytalny w dniu wejścia w życie niniejszego rozporządzenia albo w okresie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia – kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa zawiadamia pobierającego rentę strukturalną o możliwości złożenia wniosku o ustalenie prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, w terminie 60 dni od dnia wejścia w życie niniejszego rozporządzenia.
 2.
 Potwierdzenie złożenia wniosku o ustalenie prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników pobierający rentę strukturalną składa do właściwego ze względu na miejsce zamieszkania pobierającego rentę strukturalną kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa, w terminie 30 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 1.
 3.
 Przepisy § 15 rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się odpowiednio.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 
 ## Załącznik nr 1 — – Tekst jednolity rozporządzenia Rady Ministrów z dnia 30 kwietnia 2004 r. w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich
 
 Na podstawie art. 3 ust. 2 pkt 1 ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. z 2014 r. poz. 1613, z 2016 r. poz. 1579 oraz z 2017 r. poz. 624) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa szczegółowe warunki i tryb udzielania, wypłacania, zawieszania, zmniejszania i zwracania pomocy finansowej na uzyskiwanie rent strukturalnych (wcześniejszych emerytur), o których mowa w art. 10–12 rozporządzenia Rady (WE) nr 1257/1999 z dnia 17 maja 1999 r. w sprawie wsparcia rozwoju obszarów wiejskich z Europejskiego Funduszu Orientacji i Gwarancji Rolnej (EFOGR) oraz zmieniającego i uchylającego niektóre rozporządzenia (Dz. Urz. WE L 160 z 26.06.1999, str. 80, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 25, str. 391) objętych Planem Rozwoju Obszarów Wiejskich, a także przestrzenny zasięg wdrażania tego działania.
+Rozporządzenie określa szczegółowe warunki i tryb udzielania, wypłacania, zawieszania, zmniejszania i zwracania pomocy finansowej na uzyskiwanie rent strukturalnych (wcześniejszych emerytur), o których mowa w art. 10–12 rozporządzenia Rady (WE) nr 1257/1999 z dnia 17 maja 1999 r. w sprawie wsparcia rozwoju obszarów wiejskich z Europejskiego Funduszu Orientacji i Gwarancji Rolnej (EFOGR) oraz zmieniającego i uchylającego niektóre rozporządzenia (Dz. Urz. WE L 160 z 26.06.1999, str. 80, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 23.09.2003, str. 33; Dz. Urz. UE L 270 z 21.10.2003, str. 70; Dz. Urz. UE L 90 z 27.03.2004, str. 1; Dz. Urz. UE L 91 z 30.03.2004, str. 1; Dz. Urz. UE L 379 z 24.12.2004, str. 1 oraz Dz. Urz. UE L 277 z 20.10.2005, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 25, str. 391)Utraciło moc na podstawie art. 93 ust. 1 rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), które weszło w życie z dniem 1 stycznia 2007 r.; rozporządzenie (WE) nr 1698/2005 utraciło moc na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), które weszło w życie z dniem 20 grudnia 2013 r. objętych Planem Rozwoju Obszarów Wiejskich, a także przestrzenny zasięg wdrażania tego działania.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -88,7 +81,7 @@ najniższej emeryturze – rozumie się przez to kwotę najniższej emerytury ok
 następcy – rozumie się przez to osobę fizyczną, rozpoczynającą działalność rolniczą po raz pierwszy z dniem przejęcia gospodarstwa rolnego od producenta rolnego ubiegającego się o rentę strukturalną, która nie ukończyła 40. roku życia w dniu złożenia wniosku o rentę strukturalną.
 § 3.
 Renty strukturalne są przyznawane:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 24 lipca 2006 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 951), które weszło w życie z dniem 11 sierpnia 2006 r.)
 do wysokości limitu stanowiącego równowartość w złotych kwoty w euro określonej w Planie Rozwoju Obszarów Wiejskich na uzyskiwanie rent strukturalnych lub do dnia, w którym suma beneficjentów osiągnie zakładany na 2008 r. wskaźnik wykonania tego planu określony w załączniku do obwieszczenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 listopada 2004 r. w sprawie planu rozwoju obszarów wiejskich (M. P. poz. 958) w części 11 „Wdrożenie Planu – monitoring i ocena Planu, kontrola i sankcje finansowe, promocja” w ust. 11.4 „Podstawowe wskaźniki monitorowania” w tabeli nr 65;
 2)
 według kolejności otrzymania przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”, wniosków o przyznanie renty strukturalnej.
@@ -96,7 +89,7 @@ według kolejności otrzymania przez Agencję Restrukturyzacji i Modernizacji Ro
 Rentę strukturalną przyznaje się producentowi rolnemu będącemu osobą fizyczną prowadzącą na własny rachunek działalność rolniczą w gospodarstwie rolnym położonym na terytorium Rzeczypospolitej Polskiej, zwanemu dalej „rolnikiem”, jeżeli łącznie spełnia on następujące warunki:
 1)
 ma ukończone 55 lat, lecz nie osiągnął wieku emerytalnego i nie ma ustalonego prawa do emerytury lub renty z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.)
 prowadził nieprzerwanie działalność rolniczą w gospodarstwie rolnym w okresie co najmniej 10 lat bezpośrednio poprzedzających złożenie wniosku o rentę strukturalną i przez okres co najmniej 5 lat podlegał ubezpieczeniu emerytalno-rentowemu, określonemu w przepisach o ubezpieczeniu społecznym rolników, zwanemu dalej „ubezpieczeniem emerytalno-rentowym”;
 3)
 w dniu złożenia wniosku o rentę strukturalną podlegał ubezpieczeniu emerytalno-rentowemu;
@@ -173,7 +166,7 @@ wykształcenie wyższe na kierunku innym niż rolniczy i ukończone studia podyp
 wykształcenie podstawowe lub zasadnicze zawodowe inne niż rolnicze i co najmniej 5-letni okres pracy w gospodarstwie rolnym.
 § 8.
 Umowa o przekazaniu gospodarstwa rolnego lub użytków rolnych wchodzących w skład tego gospodarstwa powinna również zawierać oświadczenia stron tej umowy o spełnieniu warunków określonych w § 6 i 7.
-§ 9.
+§ 9W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia Rady Ministrów z dnia 5 października 2005 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 1759), które weszło w życie z dniem 11 listopada 2005 r..
 Warunek zaprzestania prowadzenia działalności rolniczej, o którym mowa w § 4 pkt 5, uważa się za spełniony, jeżeli po przekazaniu gospodarstwa rolnego:
 1)
 łączna powierzchnia użytków rolnych posiadanych (współposiadanych) przez uprawnionego do renty strukturalnej i jego małżonka nie przekracza 0,5 ha, a działalność rolnicza prowadzona na tych użytkach służy wyłącznie zaspokajaniu potrzeb własnych uprawnionego oraz osób pozostających z nim we wspólnym gospodarstwie domowym;
@@ -192,7 +185,7 @@ b)
 nie prowadzi działalności rolniczej.
 2.
 Rentę strukturalną w przypadku, o którym mowa w ust. 1, przyznaje się w wysokości, jaka przysługiwała uprawnionemu do renty strukturalnej, pomniejszonej o zwiększenie, o którym mowa w § 12 ust. 2 pkt 1, jeżeli takie zwiększenie przysługiwało temu uprawnionemu.
-3.
+3Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 W razie śmierci ubiegającego się o rentę strukturalną, przepisy ust. 1 i 2 stosuje się odpowiednio do jego małżonka.
 § 11.
 Renta strukturalna nie przysługuje, jeżeli w skład gospodarstwa rolnego, o którym mowa w § 4 pkt 4, wchodzą użytki rolne przejęte w trybie określonym w przepisach o rentach strukturalnych w rolnictwie albo w trybie niniejszego rozporządzenia, chyba że rolnik prowadził działalność rolniczą na tych użytkach przez co najmniej 5 lat.
@@ -213,7 +206,7 @@ małżonek wnioskodawcy nie posiada własnych źródeł dochodu z tytułu zatrud
 o 50% kwoty najniższej emerytury za przekazanie gospodarstwa rolnego o powierzchni co najmniej 3 ha użytków rolnych, w przypadku przeniesienia własności użytków rolnych wchodzących w skład gospodarstwa rolnego;
 3)
 po 3% kwoty najniższej emerytury za każdy przekazany na własność pełny hektar użytków rolnych przekazywanego gospodarstwa powyżej 3 ha użytków rolnych na powiększenie innego gospodarstwa rolnego i dodatkowo po 3% kwoty najniższej emerytury za każdy tak przekazany pełny hektar użytków rolnych, jeżeli przekazanie nastąpiło na rzecz rolnika będącego w wieku poniżej 40 lat, ale nie więcej niż za 20 ha użytków rolnych powyżej 3 ha tych użytków.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 Zwiększenia, o których mowa w ust. 2 pkt 2 i 3, nie dotyczą użytków rolnych wchodzących w skład przekazywanego gospodarstwa rolnego, nabytych przez wnioskodawcę na podstawie umowy zawartej w okresie 2 lat przed dniem złożenia wniosku o rentę strukturalną, chyba że użytki te pozostawały w posiadaniu wnioskodawcy w okresie dłuższym niż 2 lata przed dniem złożenia wniosku o rentę strukturalną na podstawie czynności prawnej z datą pewną lub umowy zawartej z Agencją Własności Rolnej Skarbu Państwa lub Agencją Nieruchomości Rolnych.
 4.
 Zwiększenia, o których mowa w ust. 2, podlegają sumowaniu, z tym że łączna wysokość renty strukturalnej nie może wynosić więcej niż 440% kwoty najniższej emerytury.
@@ -224,7 +217,7 @@ W przypadku zmiany wysokości najniższej emerytury rentę strukturalną wypłac
 Rentę strukturalną wypłaca się co miesiąc, w terminie określonym w decyzji administracyjnej o przyznaniu renty strukturalnej, nie dłużej jednak niż przez 10 lat.
 2.
 Rentę strukturalną wypłaca się od miesiąca, w którym zostały spełnione wszystkie warunki wymagane do jej przyznania.
-§ 13a.
+§ 13aDodany przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 27 lutego 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 333), które weszło w życie z dniem 11 marca 2015 r..
 1.
 Kierownik biura powiatowego Agencji zawiadamia pobierającego rentę strukturalną o możliwości złożenia wniosku o ustalenie prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników.
 2.
@@ -238,12 +231,12 @@ Pobierający rentę strukturalną składa do właściwego ze względu na miejsce
 W przypadku gdy uprawniony do renty strukturalnej w trakcie jej pobierania nabędzie prawo do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, rentę strukturalną zmniejsza się o kwotę tej emerytury.
 2.
 W przypadku przyznania prawa do renty z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników w trakcie pobierania renty strukturalnej, uprawnionemu wypłaca się rentę strukturalną, jeżeli wycofa wniosek o rentę z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników w terminie określonym w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-3.
+3Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 5..
 W przypadku gdy małżonek uprawnionego do renty strukturalnej, powiększonej o zwiększenie, o którym mowa w § 12 ust. 2 pkt 1, w trakcie jej pobierania nabędzie prawo do emerytury lub renty z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, lub podejmie pracę zarobkową podlegającą obowiązkowi ubezpieczenia społecznego, z wyjątkiem prowadzenia pozarolniczej działalności gospodarczej, rentę strukturalną zmniejsza się o kwotę tego zwiększenia.
 § 15.
 1.
 Wypłata renty strukturalnej ulega zawieszeniu, jeżeli:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 5.)
 uprawniony do renty strukturalnej jest zatrudniony lub wykonuje inną pracę zarobkową podlegającą obowiązkowi ubezpieczenia społecznego, z wyjątkiem prowadzenia pozarolniczej działalności gospodarczej;
 2)
 uprawniony do renty strukturalnej lub jego małżonek podejmie prowadzenie działalności rolniczej, jako właściciel (współwłaściciel) lub posiadacz (współposiadacz) gospodarstwa rolnego, z zastrzeżeniem ust. 2.
@@ -254,9 +247,8 @@ nabytych w drodze dziedziczenia lub
 2)
 uprzednio wydzierżawionych zgodnie z przepisami rozporządzenia, jeżeli dzierżawa ustała wcześniej z przyczyn niezależnych od wydzierżawiającego, lub
 3)
-odzyskanych w wyniku rozwiązania – z przyczyn niezależnych od uprawnionego do renty strukturalnej – umowy, na podstawie której uprzednio zbył on te grunty, albo w wyniku uchylenia lub stwierdzenia nieważności decyzji administracyjnej
-wypłata renty strukturalnej ulega zawieszeniu po roku od dnia zaistnienia tego zdarzenia, jeżeli uprawniony do renty strukturalnej powiadomił o tym zdarzeniu kierownika biura powiatowego Agencji, w terminie 14 dni od dnia jego zaistnienia.
-2a.
+odzyskanych w wyniku rozwiązania – z przyczyn niezależnych od uprawnionego do renty strukturalnej – umowy, na podstawie której uprzednio zbył on te grunty, albo w wyniku uchylenia lub stwierdzenia nieważności decyzji administracyjnej – wypłata renty strukturalnej ulega zawieszeniu po roku od dnia zaistnienia tego zdarzenia, jeżeli uprawniony do renty strukturalnej powiadomił o tym zdarzeniu kierownika biura powiatowego Agencji, w terminie 14 dni od dnia jego zaistnienia.
+2aDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 8..
 W przypadku gdy pobierający rentę strukturalną nie złoży potwierdzenia złożenia wniosku, o którym mowa w § 13a ust. 3, wypłata renty strukturalnej ulega zawieszeniu:
 1)
 w części równej 50% wysokości ustalonej kwoty renty strukturalnej – w przypadku gdy osiągnięcie wieku emerytalnego dotyczy:
@@ -266,27 +258,27 @@ b)
 pobierającego rentę strukturalną i jego małżonka;
 2)
 w części równej zwiększeniu przysługującemu z tytułu pozostawania w związku małżeńskim – w przypadku gdy osiągnięcie wieku emerytalnego dotyczy małżonka pobierającego rentę strukturalną.
-2b.
+2bDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 8..
 Wypłata renty strukturalnej ulega zawieszeniu, o którym mowa w ust. 2a, poczynając od miesiąca następującego po miesiącu, w którym potwierdzenie złożenia wniosku, o którym mowa w § 13a ust. 3, powinno zostać złożone do właściwego ze względu na miejsce zamieszkania wnioskodawcy kierownika biura powiatowego Agencji.
-2c.
+2cDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 8..
 W przypadku gdy pobierający rentę strukturalną nie złoży decyzji, o której mowa w § 13a ust. 4, wypłata renty strukturalnej ulega zawieszeniu; przepisy ust. 2a i 2b stosuje się odpowiednio.
 3.
 Wznowienie wypłaty zawieszonej renty strukturalnej następuje na wniosek uprawnionego do renty strukturalnej, poczynając od miesiąca przypadającego po miesiącu, w którym ustały okoliczności powodujące zawieszenie tej wypłaty, jednak nie wcześniej niż od miesiąca, w którym wpłynął wniosek.
-3a.
+3aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 8..
 Wznowienie wypłaty zawieszonej renty strukturalnej w przypadku, o którym mowa w ust. 2a i 2c, następuje po doręczeniu kierownikowi biura powiatowego Agencji decyzji ostatecznej organu rentowego:
 1)
 przyznającej uprawnionemu do renty strukturalnej lub jego małżonkowi prawo do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, poczynając od miesiąca, od którego prawo do emerytury zostało przyznane, a w przypadku gdy prawo do emerytury zostało przyznane przed zawieszeniem wypłaty renty strukturalnej, poczynając od miesiąca, w którym wypłata renty strukturalnej została zawieszona;
 2)
 odmawiającej uprawnionemu do renty strukturalnej lub jego małżonkowi prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, poczynając od miesiąca, w którym wypłata renty strukturalnej została zawieszona.
-3b.
+3bDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 8..
 W przypadku, o którym mowa w ust. 3a pkt 1, stosuje się § 14 ust. 1.
-3c.
+3cDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 8..
 W przypadku, o którym mowa w ust. 3a pkt 2, uprawniony do renty strukturalnej:
 1)
 w terminie 30 dni od dnia doręczenia decyzji odmawiającej prawa do emerytury, powiadamia właściwego ze względu na miejsce zamieszkania kierownika biura powiatowego Agencji o dniu, od którego będzie spełniał wszystkie warunki wymagane do uzyskania prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników;
 2)
 w terminie 30 dni od dnia spełnienia warunków wymaganych do uzyskania prawa do emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, lub ubezpieczenia społecznego rolników, składa do właściwego ze względu na miejsce zamieszkania kierownika biura powiatowego Agencji potwierdzenie złożenia wniosku, o którym mowa w § 13a ust. 3.
-3d.
+3dDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 8..
 W przypadku niedopełnienia przynajmniej jednej z czynności, o których mowa w ust. 3c, wypłata renty strukturalnej ulega zawieszeniu; przepisy ust. 2a-2c oraz 3a stosuje się odpowiednio.
 4.
 Do przekazania użytków rolnych, o których mowa w ust. 2, stosuje się odpowiednio przepisy § 6 i 7.
@@ -302,11 +294,11 @@ Odwołanie od decyzji, o której mowa w ust. 1, nie wstrzymuje jej wykonania.
 Postępowanie w sprawie przyznania renty strukturalnej wszczyna się na pisemny wniosek złożony przez:
 1)
 rolnika ubiegającego się o rentę strukturalną;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 małżonka ubiegającego się o rentę strukturalną lub małżonka uprawnionego do renty strukturalnej, w przypadku, o którym mowa w § 10.
 2.
 Wniosek o przyznanie renty strukturalnej składa się osobiście do właściwego ze względu na miejsce zamieszkania wnioskodawcy kierownika biura powiatowego Agencji.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Wnioskodawca składa wniosek, o którym mowa w ust. 1, po ukończeniu 55 lat, jednak nie później niż na:
 1)
 6 miesięcy przed osiągnięciem wieku emerytalnego – w przypadku, o którym mowa w ust. 1 pkt 1;
@@ -324,7 +316,7 @@ okres prowadzenia działalności rolniczej w ostatnich 10 latach przed złożeni
 podleganie ubezpieczeniu emerytalno-rentowemu oraz nieposiadanie zadłużenia w opłacaniu składek na ubezpieczenie społeczne rolników;
 4)
 kwalifikacje zawodowe przejmującego gospodarstwo rolne.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 3..
 Do wniosku, o którym mowa w ust. 1 pkt 2:
 1)
 małżonek uprawnionego do renty strukturalnej dołącza odpis skrócony aktu zgonu uprawnionego do renty strukturalnej;
@@ -351,7 +343,7 @@ zaświadczenie właściwego wójta (burmistrza lub prezydenta miasta);
 inne dokumenty, w tym oświadczenia, potwierdzające łączną powierzchnię i stan prawny posiadanego gospodarstwa rolnego.
 3.
 Dokumentami potwierdzającymi okoliczności, o których mowa w § 18 ust. 5 pkt 2, są dokumenty wymienione w ust. 2 oraz:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3.)
 zaświadczenie właściwej jednostki organizacyjnej Kasy Rolniczego Ubezpieczenia Społecznego o okresach podlegania ubezpieczeniu emerytalno-rentowemu przed złożeniem wniosku o przyznanie renty strukturalnej;
 2)
 oświadczenie o prowadzeniu działalności rolniczej w okresach nieobjętych ubezpieczeniem, o którym mowa w pkt 1.
@@ -378,10 +370,9 @@ spełnienie warunku posiadania kwalifikacji zawodowych przez osobę deklarowaną
 Jeżeli w wyniku weryfikacji wniosku o przyznanie renty strukturalnej zostanie ustalone, że:
 1)
 wnioskodawca nie spełnia warunków określonych w § 4 pkt 1–3, 6 i 7 lub § 11 lub
-2)
-wnioskodawca nie jest właścicielem gospodarstwa rolnego o powierzchni co najmniej 1 ha użytków rolnych, współwłaścicielem takiego gospodarstwa wraz z małżonkiem, ani właścicielem takiego gospodarstwa nie jest małżonek rolnika
-kierownik biura powiatowego Agencji, w drodze decyzji administracyjnej, odmawia przyznania renty strukturalnej.
-4.
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 5.)
+wnioskodawca nie jest właścicielem gospodarstwa rolnego o powierzchni co najmniej 1 ha użytków rolnych, współwłaścicielem takiego gospodarstwa wraz z małżonkiem, ani właścicielem takiego gospodarstwa nie jest małżonek rolnika – kierownik biura powiatowego Agencji, w drodze decyzji administracyjnej, odmawia przyznania renty strukturalnej.
+4W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 5..
 Jeżeli w wyniku weryfikacji wniosku zostanie ustalone, że wnioskodawca spełnia warunki określone w § 4 pkt 1–3, 6 i 7 i § 11 oraz jest właścicielem gospodarstwa rolnego o powierzchni co najmniej 1 ha użytków rolnych, współwłaścicielem takiego gospodarstwa wraz z małżonkiem albo właścicielem takiego gospodarstwa jest małżonek rolnika, kierownik biura powiatowego Agencji wydaje postanowienie o spełnieniu tych warunków w terminie 40 dni od dnia złożenia kompletnego wniosku.
 5.
 Na postanowienie, o którym mowa w ust. 4, nie przysługuje zażalenie.
@@ -412,7 +403,7 @@ Dowodem potwierdzającym przekazanie gospodarstwa rolnego jest akt notarialny, a
 Dowodami zaprzestania prowadzenia działalności rolniczej są w szczególności:
 1)
 oświadczenie o spełnianiu warunku, o którym mowa w § 6 ust. 1;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3.)
 zaświadczenie właściwego organu podatkowego o niepodleganiu wnioskodawcy, jak i jego małżonka, opodatkowaniu podatkiem dochodowym z tytułu prowadzenia działów specjalnych produkcji rolnej.
 5.
 Dowody, o których mowa w ust. 4, powinny dotyczyć stanu prawnego po przekazaniu gospodarstwa rolnego.
@@ -420,7 +411,7 @@ Dowody, o których mowa w ust. 4, powinny dotyczyć stanu prawnego po przekazani
 Jeżeli limit środków, o których mowa w § 3 pkt 1, na dany rok został wyczerpany, przekazanie gospodarstwa rolnego i zaprzestanie prowadzenia działalności rolniczej powinno nastąpić w terminie od dnia 1 stycznia do dnia 30 czerwca następnego roku.
 § 23.
 Uprawniony do pobierania renty strukturalnej informuje kierownika biura powiatowego Agencji o wszelkich zaistniałych okolicznościach mających wpływ na prawo do wypłaty i wysokości renty strukturalnej, w terminie 14 dni od dnia ich zaistnienia.
-§ 23a.
+§ 23aDodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 5..
 1.
 Do dnia 31 grudnia 2006 r. warunek, o którym mowa w § 7 ust. 1 pkt 3, uważa się za spełniony, jeżeli przeznaczenie działek rolnych do zalesienia nie jest sprzeczne z ustaleniami miejscowego planu zagospodarowania przestrzennego lub ustaleniami studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
 2.
@@ -430,7 +421,7 @@ wypis z miejscowego planu zagospodarowania przestrzennego dotyczący działek ew
 2)
 zaświadczenie potwierdzające, że przeznaczenie działek rolnych do zalesienia nie jest sprzeczne z ustaleniami studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
 § 24.
-Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2004 r.
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2004 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 23.09.2003, str. 33; Dz. Urz. UE L 270 z 21.10.2003, str. 70; Dz. Urz. UE L 90 z 27.03.2004, str. 1; Dz. Urz. UE L 91 z 30.03.2004, str. 1; Dz. Urz. UE L 379 z 24.12.2004, str. 1 oraz Dz. Urz. UE L 277 z 20.10.2005, str. 1. 2) Utraciło moc na podstawie art. 93 ust. 1 rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), które weszło w życie z dniem 1 stycznia 2007 r.; rozporządzenie (WE) nr 1698/2005 utraciło moc na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), które weszło w życie z dniem 20 grudnia 2013 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 24 lipca 2006 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 951), które weszło w życie z dniem 11 sierpnia 2006 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia Rady Ministrów z dnia 5 października 2005 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 1759), które weszło w życie z dniem 11 listopada 2005 r. 6) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 8) Dodany przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 27 lutego 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na uzyskiwanie rent strukturalnych objętej planem rozwoju obszarów wiejskich (Dz. U. poz. 333), które weszło w życie z dniem 11 marca 2015 r. 9) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 5. 10) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 5. 11) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 8. 12) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 8. 13) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 3. 15) W brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 3. 16) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 17) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 5. 18) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 5. 19) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 20) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 5.
 
 ## Załącznik nr 2 — – Dokumenty potwierdzające posiadanie kwalifikacji zawodowych przydatnych do prowadzenia działalności rolniczej
 
@@ -485,8 +476,7 @@ zootechnika;
 8)
 architektura krajobrazu w wyższych szkołach rolniczych;
 9)
-zarządzanie i marketing w wyższych szkołach rolniczych.
-W przypadku ukończenia studiów o kierunku innym niż wymienione w pkt 1–9, uznaje się za przydatne do prowadzenia działalności rolniczej kierunki studiów, na których w zakres nauki wchodziły przedmioty dotyczące technologii produkcji roślinnej lub zwierzęcej, w wymiarze co najmniej 120 godzin.
+zarządzanie i marketing w wyższych szkołach rolniczych. W przypadku ukończenia studiów o kierunku innym niż wymienione w pkt 1–9, uznaje się za przydatne do prowadzenia działalności rolniczej kierunki studiów, na których w zakres nauki wchodziły przedmioty dotyczące technologii produkcji roślinnej lub zwierzęcej, w wymiarze co najmniej 120 godzin.
 8.
 Wykaz zawodów i specjalności wykształcenia średniego zawodowego:
 1)

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 11 lipca 2018 r. zmieniające rozporządzenie w sprawie trybu przekazywania nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa w razie ustanowienia lub wygaśnięcia trwałego zarządu oraz trybu ustalania i wnoszenia opłat
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 11 lipca 2018 r. zmieniające rozporządzenie w sprawie trybu przekazywania nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa w razie ustanowienia lub wygaśnięcia trwałego zarządu oraz trybu ustalania i wnoszenia opłat Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-11 |
 | Data wydania | 2018-07-23 |
-| Wejście w życie | 2018-08-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1396/text.pdf) |
 
@@ -35,6 +34,5 @@ użyte w § 2 w ust. 1 oraz w § 4, w różnym przypadku, wyrazy „Prezes Agenc
 2)
 w § 5 w ust. 1 wyrazy „Agencji Nieruchomości Rolnych” zastępuje się wyrazami „Krajowego Ośrodka Wsparcia Rolnictwa”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

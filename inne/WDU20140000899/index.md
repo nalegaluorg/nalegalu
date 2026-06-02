@@ -44,13 +44,13 @@ g) prowadzenia rejestru personelu lotniczego posiadającego świadectwo kwalifik
 2) sprawowanie nadzoru nad podmiotami wykonującymi działalność szkoleniową w zakresie prowadzenia szkolenia personelu lotniczego w celu uzyskania świadectwa kwalifikacji członka personelu lotniczego oraz wpisywanych do niego uprawnień, o którym mowa w art. 95a ust. 1 ustawy, przez przeprowadzanie kontroli, o której mowa w art. 27 ustawy, w zakresie spełniania przez te podmioty warunków wymaganych do wykonywania działalności szkoleniowej;
 3) sprawowanie nadzoru nad statkami powietrznymi, o których mowa w przepisach wydanych na podstawie art. 33 ust. 2 i 4 ustawy, w zakresie:
 a) oceny zdatności,
-b) w ydawania, zawieszania i cofania: orzeczenia zdatności, świadectwa spełnienia wymagań technicznych, pozwolenia na wykonywanie lotów,
+b) wydawania, zawieszania i cofania: orzeczenia zdatności, świadectwa spełnienia wymagań technicznych, pozwolenia na wykonywanie lotów,
 c) uznawania, zawieszania i cofania uznania dokumentu uznania zdatności,
-d) n adawania numeru ewidencyjnego dla typu sprzętu spadochronowego,
+d) nadawania numeru ewidencyjnego dla typu sprzętu spadochronowego,
 e) określania wymagań technicznych dla tych statków powietrznych,
 f) zatwierdzania programu prób w locie,
-g) z atwierdzania instrukcji użytkowania w locie oraz instrukcji obsługi technicznej i ich zmian,
-h) p rzeprowadzania kontroli, o której mowa w art. 27 ustawy, dotyczącej tych statków powietrznych w czasie ich eksploatacji;
+g) zatwierdzania instrukcji użytkowania w locie oraz instrukcji obsługi technicznej i ich zmian,
+h) przeprowadzania kontroli, o której mowa w art. 27 ustawy, dotyczącej tych statków powietrznych w czasie ich eksploatacji;
 4) sprawowanie nadzoru nad podmiotami wpisanymi do ewidencji podmiotów i osób prowadzących działalność w zakresie projektowania, produkcji i obsługi statków powietrznych, o której mowa w przepisach wydanych na podstawie art. 33 ust. 2 i 4 ustawy, w zakresie:
 a) prowadzenia tej ewidencji, w tym dokonywania wpisów, wykreśleń i zmian we wpisach,
 b) uzgadniania z podmiotami i osobami wpisanymi do tej ewidencji sposobu prowadzenia ewidencji wykonanych i nadzorowanych czynności obsługowych, wykazów, wzorów oraz protokołów używanych do poświadczeń prowadzonych zgodnie z przepisami wydanymi na podstawie art. 33 ust. 2 i 4 ustawy,
@@ -66,21 +66,21 @@ e) przechowywania zbiorów dokumentów dotyczących ewidencji statków powietrzn
 f) wydawania świadectw ewidencji statków powietrznych;
 6) sprawowanie nadzoru nad statkami powietrznymi kategorii specjalnej, o których mowa w art. 53a ust. 1 ustawy, w zakresie:
 a) wykonywania inspekcji tych statków powietrznych,
-b) p rzedłużania, zawieszania oraz cofania pozwolenia na wykonywanie lotów,
+b) przedłużania, zawieszania oraz cofania pozwolenia na wykonywanie lotów,
 c) prowadzenia ewidencji podmiotów produkujących i obsługujących te statki powietrzne, w tym dokonywania wpisów i wykreśleń,
 d) prowadzenia postępowania przy certyfikowaniu i nadzorowaniu podmiotów projektujących, produkujących i obsługujących te statki powietrzne;
 7) prowadzenie ewidencji lądowisk, o której mowa w art. 93 ust. 2 ustawy, w zakresie:
 a) przyjmowania wniosków o wpis lądowiska do tej ewidencji i weryfikacji tych wniosków pod względem formalnym oraz merytorycznym,
-b) k ierowania wezwań do usunięcia braków formalnych we wnioskach, o których mowa w lit. a,
+b) kierowania wezwań do usunięcia braków formalnych we wnioskach, o których mowa w lit. a,
 c) wpisywania lub wykreślania lądowiska z tej ewidencji oraz dokonywania w niej zmian,
-d) p rowadzenia księgi ewidencyjnej lądowisk, w tym dokonywania wpisów i wykreśleń,
+d) prowadzenia księgi ewidencyjnej lądowisk, w tym dokonywania wpisów i wykreśleń,
 e) wydawania zaświadczeń i odpisów,
 f) prowadzenia i przechowywania zbiorów dokumentów dotyczących tej ewidencji;
 8) czynności w toku postępowania o wyznaczenie zarejestrowanego agenta, w zakresie:
 a) przyjmowania wniosków o wyznaczenie zarejestrowanego agenta i weryfikacji tych wniosków pod względem formalnym oraz merytorycznym,
-b) w ystępowania do komendanta oddziału Straży Granicznej o udzielenie informacji o braku negatywnych przesłanek dotyczących istnienia zagrożenia dla obronności lub bezpieczeństwa państwa lub bezpieczeństwa i porządku publicznego albo zdrowia publicznego,
+b) występowania do komendanta oddziału Straży Granicznej o udzielenie informacji o braku negatywnych przesłanek dotyczących istnienia zagrożenia dla obronności lub bezpieczeństwa państwa lub bezpieczeństwa i porządku publicznego albo zdrowia publicznego,
 c) zatwierdzania programów ochrony podmiotów przed aktami bezprawnej ingerencji,
-d) p rowadzenia wizji lokalnych, o których mowa w pkt 6.3.1.2 lit. b załącznika do rozporządzenia Komisji (UE) nr 185/2010 z dnia 4 marca 2010 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 55 z 05.03.2010, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 185/2010”, w celu potwierdzenia spełnienia wymagań z zakresu ochrony lotnictwa cywilnego,
+d) prowadzenia wizji lokalnych, o których mowa w pkt 6.3.1.2 lit. b załącznika do rozporządzenia Komisji (UE) nr 185/2010 z dnia 4 marca 2010 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 55 z 05.03.2010, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 185/2010”, w celu potwierdzenia spełnienia wymagań z zakresu ochrony lotnictwa cywilnego,
 e) wyznaczenia lub odmowy wyznaczenia zarejestrowanego agenta;
 9) czynności w toku postępowania o wyznaczenie zarejestrowanego dostawcy zaopatrzenia pokładowego, w zakresie:
 a) przyjmowania wniosków o wyznaczenie zarejestrowanego dostawcy zaopatrzenia pokładowego i weryfikacji tych wniosków pod względem formalnym oraz merytorycznym,
@@ -90,10 +90,10 @@ d) prowadzenia wizji lokalnych, o których mowa w pkt 8.1.3.2 lit. b załącznik
 e) wyznaczenia lub odmowy wyznaczenia zarejestrowanego dostawcy zaopatrzenia pokładowego;
 10) czynności w toku postępowania o wyznaczenie znanego nadawcy, w zakresie:
 a) przyjmowania wniosków o wyznaczenie znanego nadawcy i weryfikacji tych wniosków pod względem formalnym oraz merytorycznym,
-b) w ystępowania do komendanta oddziału Straży Granicznej o udzielenie informacji o braku negatywnych przesłanek dotyczących istnienia zagrożenia dla obronności lub bezpieczeństwa państwa lub bezpieczeństwa i porządku publicznego albo zdrowia publicznego,
+b) występowania do komendanta oddziału Straży Granicznej o udzielenie informacji o braku negatywnych przesłanek dotyczących istnienia zagrożenia dla obronności lub bezpieczeństwa państwa lub bezpieczeństwa i porządku publicznego albo zdrowia publicznego,
 c) prowadzenia wizji lokalnych, o których mowa w pkt 6.4.1.2 lit. b załącznika do rozporządzenia 185/2010, w celu potwierdzenia spełnienia wymagań z zakresu ochrony lotnictwa cywilnego,
 d) wyznaczenia lub odmowy wyznaczenia znanego nadawcy;
-11) k ontrolę, o której mowa w art. 27 ustawy, w podlegającej zatwierdzeniu lokalizacji wskazanej przez zarejestrowanego agenta, zarejestrowanego dostawcę zaopatrzenia pokładowego lub znanego nadawcę.
+11) kontrolę, o której mowa w art. 27 ustawy, w podlegającej zatwierdzeniu lokalizacji wskazanej przez zarejestrowanego agenta, zarejestrowanego dostawcę zaopatrzenia pokładowego lub znanego nadawcę.
 § 3. 1. Prezes Urzędu ogłasza otwarty konkurs ofert, jeżeli upoważnienie ma obejmować:
 1) odpłatne wykonywanie czynności przez podmiot upoważniony na podstawie dotacji, o której mowa w art. 127 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. );
 2) wykonywanie czynności, o których mowa w § 2 pkt 1 lit. g, pkt 5, pkt 6 lit. c, pkt 7–11, także jeżeli mają być wykonywane nieodpłatnie.

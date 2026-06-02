@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-29 |
 | Data wydania | 2024-08-01 |
-| Wejście w życie | 2024-08-02 |
 | Ostatnia zmiana | 2024-08-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1159/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 5831 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 5831 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859 i 863.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób zapewnienia reprezentacji dziecka przez reprezentanta dziecka, w tym sposób ustalania listy reprezentantów dziecka, sposób wyznaczania reprezentanta dziecka oraz system szkoleniowy reprezentantów dziecka.
 § 2.
@@ -150,5 +149,5 @@ Okręgowa rada adwokacka oraz rada okręgowej izby radców prawnych przedstawią
 2.
 Do dnia ustalenia przez prezesa właściwego sądu pierwszych list, o których mowa w § 7 ust. 1, sąd opiekuńczy w celu wyznaczenia reprezentanta dziecka zwraca się do okręgowej rady adwokackiej lub rady okręgowej izby radców prawnych o wskazanie kandydata na reprezentanta dziecka z listy adwokatów lub radców prawnych, spełniającego wymagania określone w art. 991 § 1 K.r.i.o.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859 i 863.
 

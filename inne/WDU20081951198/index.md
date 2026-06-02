@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 3 października 2008 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz niektórych innych ustaw
+# Ustawa z dnia 3 października 2008 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-03 |
 | Data wydania | 2008-10-31 |
-| Wejście w życie | 2008-11-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081951198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1198/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. Nr 139, poz. 993, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125 oraz z 2008 r. Nr 70, poz. 416 i Nr 171, poz. 1056.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 3 pkt 3 otrzymuje brzmienie: „
 - **3)** uprawniającym obywateli polskich do przekraczania granic państw członkowskich Unii Europejskiej, państw Europejskiego Obszaru Gospodarczego nienależących do Unii Europejskiej oraz państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, których obywatele mogą korzystać ze swobody przepływu osób na podstawie umów zawartych przez te państwa ze Wspólnotą Europejską i jej państwami członkowskimi oraz na podstawie jednostronnych decyzji innych państw, uznających ten dokument za wystarczający do przekraczania ich granicy. ” ;
@@ -121,7 +120,7 @@ source: "eli-html"
 - **1)** wzór wniosku o wydanie dowodu osobistego, wzór dowodu osobistego oraz wzór zaświadczenia o utracie dowodu osobistego,
 - **2)** tryb postępowania w sprawie wydania dowodu osobistego,
 - **3)** dokumenty wymagane do otrzymania dowodu osobistego,
-- **4)** tryb postępowania w sprawach unieważniania, zwrotu, utraty oraz wymiany dowodu osobistego mając na względzie sprawność prowadzonego postępowania oraz zapewnienie ochrony przetwarzanych danych. ” ;
+- **4)** tryb postępowania w sprawach unieważniania, zwrotu, utraty oraz wymiany dowodu osobistego – mając na względzie sprawność prowadzonego postępowania oraz zapewnienie ochrony przetwarzanych danych. ” ;
 - **6)** tytuł rozdziału 8a otrzymuje brzmienie: „ Prowadzenie ewidencji ludności i ewidencji wydanych i unieważnionych dowodów osobistych ” ;
 - **7)** w art. 44a w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Ewidencję ludności prowadzi się w systemie teleinformatycznym na podstawie danych osobowych zgłoszonych przy wykonywaniu obowiązku meldunkowego oraz zgłoszeń, o których mowa w art. 14 oraz w art. 17, w formie: ” ;
 - **8)** w art. 44b ust. 1 otrzymuje brzmienie: „
@@ -196,7 +195,7 @@ source: "eli-html"
 
 - **1)** wzór wniosku o udostępnienie danych z ewidencji ludności, zbioru PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych, o którym mowa w ust. 3,
 - **2)** wzór uproszczonego wniosku o udostępnienie danych z ewidencji ludności, zbioru PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych, o którym mowa w ust. 5,
-- **3)** wzór wniosku o udostępnienie danych z ewidencji ludności, zbioru PESEL oraz ogólnokrajowej ewidencji wydanych i unieważnionych dowodów osobistych, o którym mowa w ust. 6 uwzględniając konieczność wykazania przez podmioty, o których mowa w ust. 2 pkt 1, interesu prawnego w uzyskaniu danych oraz wymagania, o których mowa w ust. 5.
+- **3)** wzór wniosku o udostępnienie danych z ewidencji ludności, zbioru PESEL oraz ogólnokrajowej ewidencji wydanych i unieważnionych dowodów osobistych, o którym mowa w ust. 6 – uwzględniając konieczność wykazania przez podmioty, o których mowa w ust. 2 pkt 1, interesu prawnego w uzyskaniu danych oraz wymagania, o których mowa w ust. 5.
 
 9. Udostępnienie danych ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych następuje:
 
@@ -210,7 +209,7 @@ source: "eli-html"
 12. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** wysokość oraz sposób uiszczania opłat za jednostkowe udostępnienie danych ze zbiorów meldunkowych, zbioru PESEL, ewidencji wydanych i unieważnionych dowodów osobistych oraz za udostępnianie danych za pomocą urządzeń teletransmisji danych, w drodze weryfikacji, o którym mowa w ust. 6,
-- **2)** sposób obliczania wysokości oraz sposób uiszczania opłaty za udostępnianie danych podmiotom, o których mowa w ust. 2 pkt 2 uwzględniając, że wysokość opłat powinna być zróżnicowana w zależności od sposobu i zakresu udostępniania danych.
+- **2)** sposób obliczania wysokości oraz sposób uiszczania opłaty za udostępnianie danych podmiotom, o których mowa w ust. 2 pkt 2 – uwzględniając, że wysokość opłat powinna być zróżnicowana w zależności od sposobu i zakresu udostępniania danych.
 
 1. Dane ze zbiorów meldunkowych oraz ewidencji wydanych i unieważnionych dowodów osobistych udostępnia organ gminy.
 
@@ -248,7 +247,7 @@ source: "eli-html"
 
 - **1)** sposób przeprowadzania kontroli korzystania z dostępu do danych za pomocą teletransmisji danych, w drodze weryfikacji,
 - **2)** wzór upoważnienia do przeprowadzania kontroli,
-- **3)** wzór protokołu kontroli biorąc pod uwagę wymagania związane z koniecznością wykazania przez podmioty, o których mowa w art. 44h ust. 2 pkt 1, interesu prawnego w uzyskaniu danych oraz wymagania, o których mowa w art. 44h ust. 5. ” ;
+- **3)** wzór protokołu kontroli – biorąc pod uwagę wymagania związane z koniecznością wykazania przez podmioty, o których mowa w art. 44h ust. 2 pkt 1, interesu prawnego w uzyskaniu danych oraz wymagania, o których mowa w art. 44h ust. 5. ” ;
 - **15)** w art. 45 dodaje się ust. 4 w brzmieniu: „
 
 4. Dowód osobisty unieważnia organ gminy, który wydał ten dokument, a w przypadku, o którym mowa w art. 43 ust. 1 pkt 4 – organ gminy, który wydał dowód osobisty w miejsce poprzedniego. ” ;
@@ -274,7 +273,7 @@ source: "eli-html"
 
 - **1)** nazwisko, imię (imiona), nazwisko rodowe, stan cywilny, miejsce i datę urodzenia, miejsce zamieszkania zmarłego; ” .
 
-**Art. 3.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.) w załączniku do ustawy w części II w kolumnie 2 ust. 2 otrzymuje brzmienie: „ 2. Pełny odpis przetworzonych danych osobowych ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych. ” .
+**Art. 3.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883 oraz z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394 i Nr 182, poz. 1121.) w załączniku do ustawy w części II w kolumnie 2 ust. 2 otrzymuje brzmienie: „ 2. Pełny odpis przetworzonych danych osobowych ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych. ” .
 
 **Art. 4.** W ustawie z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej (Dz. U. Nr 165, poz. 1170) w art. 3 w ust. 1 pkt 8 otrzymuje brzmienie: „
 
@@ -287,6 +286,6 @@ source: "eli-html"
 **Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów:
 
 - **1)** art. 1 pkt 2, 4, 5, 15, 17 i 18 oraz art. 3, które wchodzą w życie z dniem 1 stycznia 2009 r.;
-- **2)** art. 2, który wchodzi w życie z dniem ogłoszenia.
+- **2)** art. 2, który wchodzi w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125 oraz z 2008 r. Nr 70, poz. 416 i Nr 171, poz. 1056. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883 oraz z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394 i Nr 182, poz. 1121.
 
 

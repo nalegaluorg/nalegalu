@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 grudnia 2024 r. w sprawie zwolnień wyrobów akcyzowych z obowiązku oznaczania znakami akcyzy
+# Rozporządzenie Ministra Finansówz dnia 18 grudnia 2024 r. w sprawie zwolnień wyrobów akcyzowych z obowiązku oznaczania znakami akcyzy Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-18 |
 | Data wydania | 2024-12-23 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001905) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1905/text.pdf) |
 
@@ -54,8 +53,8 @@ Organizator imprezy składa pisemne zawiadomienie o rodzaju i liczbie wyrobów a
 § 5.
 Traci moc rozporządzenie Ministra Finansów z dnia 20 sierpnia 2010 r. w sprawie zwolnień wyrobów akcyzowych z obowiązku oznaczania znakami akcyzy (Dz. U. z 2024 r. poz. 880).
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 Załącznik – Wykaz importowanych, nabytych wewnątrzwspólnotowo i wyprodukowanych na terytorium kraju wyrobów akcyzowych zwolnionych z obowiązku oznaczania znakami akcyzy
-Poz. Kod CN Nazwa wyrobu (grupy wyrobów) 1 2203 00 Piwo otrzymywane ze słodu 2 ex 2206 00 Pozostałe napoje fermentowane (na przykład cydr, perry i miód pitny, sake); mieszanki napojów fermentowanych oraz mieszanki napojów fermentowanych i napojów bezalkoholowych, gdzie indziej niewymienione ani niewłączone – wyłącznie napoje alkoholowe będące mieszaniną piwa i napojów bezalkoholowych oraz cydr i perry o rzeczywistej objętościowej mocy alkoholu nieprzekraczającej 5,0% objętości 3 2207 20 00 Alkohol etylowy i pozostałe wyroby alkoholowe, o dowolnej mocy, skażone 4 2710 Oleje ropy naftowej i oleje otrzymywane z minerałów bitumicznych, inne niż surowe; preparaty, gdzie indziej niewymienione ani niewłączone, zawierające 70% masy lub więcej olejów ropy naftowej lub olejów otrzymywanych z minerałów bitumicznych, których te oleje stanowią składniki zasadnicze preparatów; oleje odpadowe 5 2711 Gaz ziemny (mokry) i pozostałe węglowodory gazowe 6 3403 Preparaty smarowe (włącznie z cieczami chłodząco-smarującymi, preparatami do rozluźniania śrub i nakrętek, preparatami przeciwrdzewnymi i antykorozyjnymi, preparatami zapobiegającymi przyleganiu do formy opartymi na smarach) oraz preparaty, w rodzaju stosowanych do natłuszczania materiałów włókienniczych, skóry wyprawionej, skór futerkowych lub pozostałych materiałów, z wyłączeniem preparatów zawierających jako składnik zasadniczy 70% masy lub więcej olejów ropy naftowej lub olejów otrzymanych z minerałów bitumicznych 7 bez względu na kod CN Wyroby o zawartości alkoholu powyżej 1,2% objętości, niebędące wyrobami oznaczonymi kodami CN: 2204, 2205, 2206 00, 2207 10 00, 2208 Objaśnienie: ex – dotyczy tylko i wyłącznie danego wyrobu z danego grupowania.
+Poz. Kod CN Nazwa wyrobu (grupy wyrobów) 1 2203 00 Piwo otrzymywane ze słodu 2 ex 2206 00 Pozostałe napoje fermentowane (na przykład cydr, perry i miód pitny, sake); mieszanki napojów fermentowanych oraz mieszanki napojów fermentowanych i napojów bezalkoholowych, gdzie indziej niewymienione ani niewłączone – wyłącznie napoje alkoholowe będące mieszaniną piwa i napojów bezalkoholowych oraz cydr i perry o rzeczywistej objętościowej mocy alkoholu nieprzekraczającej 5,0% objętości 3 2207 20 00 Alkohol etylowy i pozostałe wyroby alkoholowe, o dowolnej mocy, skażone 4 2710 Oleje ropy naftowej i oleje otrzymywane z minerałów bitumicznych, inne niż surowe; preparaty, gdzie indziej niewymienione ani niewłączone, zawierające 70% masy lub więcej olejów ropy naftowej lub olejów otrzymywanych z minerałów bitumicznych, których te oleje stanowią składniki zasadnicze preparatów; oleje odpadowe 5 2711 Gaz ziemny (mokry) i pozostałe węglowodory gazowe 6 3403 Preparaty smarowe (włącznie z cieczami chłodząco-smarującymi, preparatami do rozluźniania śrub i nakrętek, preparatami przeciwrdzewnymi i antykorozyjnymi, preparatami zapobiegającymi przyleganiu do formy opartymi na smarach) oraz preparaty, w rodzaju stosowanych do natłuszczania materiałów włókienniczych, skóry wyprawionej, skór futerkowych lub pozostałych materiałów, z wyłączeniem preparatów zawierających jako składnik zasadniczy 70% masy lub więcej olejów ropy naftowej lub olejów otrzymanych z minerałów bitumicznych 7 bez względu na kod CN Wyroby o zawartości alkoholu powyżej 1,2% objętości, niebędące wyrobami oznaczonymi kodami CN: 2204, 2205, 2206 00, 2207 10 00, 2208
+Objaśnienie: ex – dotyczy tylko i wyłącznie danego wyrobu z danego grupowania.
 

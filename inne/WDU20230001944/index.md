@@ -26,19 +26,38 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001944) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1944/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych Rozdział 1 – Przepisy ogólne Rozdział 2 Rozdział 2a Rozdział 3 Rozdział 4 – Przewodnicy turystyczni i piloci wycieczek Rozdział 5 – Usługi hotelarskie Rozdział 5a Rozdział 6 – Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2020 r. poz. 2211), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 lipca 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 57 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 57 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią: „
+Przepisy ogólne
 (uchylony)
 (uchylony)
 (uchylony)
+Przewodnicy turystyczni i piloci wycieczek
+Usługi hotelarskie
 (uchylony)
+Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 Art. 46–48.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2
+
+#### Rozdział 2a
+
+#### Rozdział 3
+
+#### Rozdział 4 – Przewodnicy turystyczni i piloci wycieczek
+
+#### Rozdział 5 – Usługi hotelarskie
+
+#### Rozdział 5a
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 
 **Art. 57.** Do postępowań w sprawie nadania uprawnień przewodnika górskiego, o której mowa w art. 28 ust. 1 ustawy zmienianej w art. 12, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. ” „
 
@@ -49,9 +68,9 @@ Art. 46–48.
 - **3)** art. 47 i art. 79 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **4)** art. 8 pkt 2, art. 21, art. 22 pkt 1−9, art. 28 i art. 38 pkt 6, pkt 9 lit. b i pkt 10, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
 - **5)** art. 5, który wchodzi w życie z dniem 1 stycznia 2023 r.;
-- **6)** art. 22 pkt 10–12 oraz art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych
+- **6)** art. 22 pkt 10–12 oraz art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznychNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 90/314/EWG z dnia 13 czerwca 1990 r. w sprawie zorganizowanych podróży, wakacji i wycieczek (Dz. Urz. WE L 158 z 23.06.1990). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa warunki świadczenia usług hotelarskich oraz usług pilotów wycieczek i przewodników turystycznych na terytorium Rzeczypospolitej Polskiej, a także za granicą, jeżeli umowy z turystami o świadczenie tych usług są zawierane na terytorium Rzeczypospolitej Polskiej. (uchylony)
 
@@ -87,7 +106,7 @@ Art. 46–48.
 
 #### Rozdział 3
 
-#### Rozdział 4 Przewodnicy turystyczni i piloci wycieczek
+#### Rozdział 4
 
 **Art. 20.**
 
@@ -190,7 +209,7 @@ Art. 46–48.
 6. Do wniosku wnioskodawca dołącza oświadczenie następującej treści: „ Oświadczam, że:
 
 - **1)** dane zawarte we wniosku o wpis do rejestru organizatorów szkoleń są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności w zakresie organizowania szkoleń dla kandydatów na przewodników górskich, określone w ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych. ” .
+- **2)** znane mi są i spełniam warunki wykonywania działalności w zakresie organizowania szkoleń dla kandydatów na przewodników górskich, określone w ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznychObecnie ogólne określenie przedmiotu ustawy brzmi: o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych, na podstawie art. 64 pkt 1 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361), która weszła w życie z dniem 1 lipca 2018 r.. ” .
 
 7. Oświadczenie, o którym mowa w ust. 6, zawiera:
 
@@ -287,11 +306,7 @@ Art. 46–48.
 
 **Art. 28.**
 
-1. Uprawnienia przewodnika górskiego nadaje, odmawia nadania, zawiesza i przywraca oraz cofa, w drodze decyzji administracyjnej, marszałek województwa właściwy dla miejsca zamieszkania osoby składającej wniosek o nadanie uprawnień w dniu złożenia tego wniosku, a w przypadku nieposiadania miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – marszałek województwa wybrany przez osoby ubiegające się o te uprawnienia.
-
-1a. Do postępowania w sprawie nadania uprawnień przewodnika górskiego, o której mowa w ust. 1, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
-
-1b. Do postępowania w sprawie nadania uprawnień przewodnika górskiego, o której mowa w ust. 1, nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+1. Uprawnienia przewodnika górskiego nadaje, odmawia nadania, zawiesza i przywraca oraz cofa, w drodze decyzji administracyjnej, marszałek województwa właściwy dla miejsca zamieszkania osoby składającej wniosek o nadanie uprawnień w dniu złożenia tego wniosku, a w przypadku nieposiadania miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – marszałek województwa wybrany przez osoby ubiegające się o te uprawnienia. 1aDodany przez art. 12 pkt 1 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), która weszła w życie z dniem 10 listopada 2022 r.. Do postępowania w sprawie nadania uprawnień przewodnika górskiego, o której mowa w ust. 1, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803). 1bDodany przez art. 12 pkt 1 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), która weszła w życie z dniem 10 listopada 2022 r.. Do postępowania w sprawie nadania uprawnień przewodnika górskiego, o której mowa w ust. 1, nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. Uprawnienia przewodnika górskiego osobom, które nabyły kwalifikacje do wykonywania zawodu przewodnika górskiego w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, a którym zostały uznane kwalifikacje do wykonywania zawodu przewodnika górskiego na terytorium Rzeczypospolitej Polskiej, nadaje, zawiesza, przywraca oraz cofa marszałek województwa właściwy dla miejsca zamieszkania w dniu złożenia wniosku o nadanie uprawnień, a w przypadku nieposiadania miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – marszałek województwa wybrany przez osobę ubiegającą się o te uprawnienia. Podstawę do nadania uprawnień stanowi decyzja ministra właściwego do spraw turystyki o uznaniu kwalifikacji do wykonywania zawodu przewodnika górskiego na terytorium Rzeczypospolitej Polskiej, wydana na podstawie ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
 
@@ -369,7 +384,7 @@ Art. 46–48.
 
 3. (uchylony) Minister właściwy do spraw turystyki określi wzór wniosku o nadanie uprawnień przewodnika górskiego w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123 i 1234).
 
-#### Rozdział 5 Usługi hotelarskie
+#### Rozdział 5
 
 **Art. 35.**
 
@@ -432,9 +447,7 @@ Art. 46–48.
 
 4. Przedsiębiorcy świadczący usługi hotelarskie w obiektach, o których mowa w art. 35, mają obowiązek informowania właściwego organu o okolicznościach powodujących zmianę rodzaju lub kategorii obiektu hotelarskiego oraz o zakończeniu świadczenia usług hotelarskich.
 
-5. Rolnicy świadczący usługi hotelarskie w gospodarstwie rolnym mają obowiązek informowania właściwego organu o zakończeniu świadczenia usług hotelarskich.
-
-6. Minister właściwy do spraw turystyki określi wzór zgłoszenia, o którym mowa w ust. 3, oraz informacji, o której mowa w ust. 4 i 5, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+5. Rolnicy świadczący usługi hotelarskie w gospodarstwie rolnym mają obowiązek informowania właściwego organu o zakończeniu świadczenia usług hotelarskich. 6Ze zmianą wprowadzoną przez art. 12 pkt 3 ustawy, o której mowa w odnośniku 3.. Minister właściwy do spraw turystyki określi wzór zgłoszenia, o którym mowa w ust. 3, oraz informacji, o której mowa w ust. 4 i 5, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 1. Przedsiębiorca, który zamierza rozpocząć świadczenie usług hotelarskich w obiekcie hotelarskim, może ubiegać się o przyrzeczenie zaszeregowania obiektu hotelarskiego do odpowiedniego rodzaju i kategorii, zwane dalej „promesą”.
 
@@ -535,7 +548,7 @@ Art. 46–48.
 
 #### Rozdział 5a
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+#### Rozdział 6
 
 **Art. 49.**
 
@@ -543,7 +556,7 @@ Art. 46–48.
 
 - **1)** posiadały uprawnienia przewodnika turystycznego lub pilota wycieczek krajowych, nadane im przez terenowe organy administracji rządowej,
 - **2)** zdały egzamin na przewodnika turystycznego w Polskim Towarzystwie Turystyczno-Krajoznawczym albo u innego organizatora szkolenia w zakresie obowiązującym w Polskim Towarzystwie Turystyczno-Krajoznawczym,
-- **3)** posiadały uprawnienia pilota wycieczek zagranicznych, nadane im przez centralny organ administracji rządowej do spraw turystyki lub przez instytucję uprawnioną przez ten organ stają się odpowiednio przewodnikami turystycznymi lub pilotami wycieczek w rozumieniu ustawy, z zastrzeżeniem ust. 2.
+- **3)** posiadały uprawnienia pilota wycieczek zagranicznych, nadane im przez centralny organ administracji rządowej do spraw turystyki lub przez instytucję uprawnioną przez ten organ – stają się odpowiednio przewodnikami turystycznymi lub pilotami wycieczek w rozumieniu ustawy, z zastrzeżeniem ust. 2.
 
 2. Osoby, o których mowa w ust. 1, są obowiązane, pod rygorem utraty dotychczasowych uprawnień, do wystąpienia, w terminie dwóch lat od dnia wejścia w życie ustawy, z wnioskiem o potwierdzenie posiadanych uprawnień oraz ich udokumentowanie.
 
@@ -559,5 +572,5 @@ Art. 46–48.
 
 **Art. 51.** (pominięty) (uchylony) (uchylony)
 
-**Art. 52.** Ustawa wchodzi w życie z dniem 1 lipca 1998 r.
+**Art. 52.** Ustawa wchodzi w życie z dniem 1 lipca 1998 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 90/314/EWG z dnia 13 czerwca 1990 r. w sprawie zorganizowanych podróży, wakacji i wycieczek (Dz. Urz. WE L 158 z 23.06.1990). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Obecnie ogólne określenie przedmiotu ustawy brzmi: o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych, na podstawie art. 64 pkt 1 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361), która weszła w życie z dniem 1 lipca 2018 r. 3) Dodany przez art. 12 pkt 1 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), która weszła w życie z dniem 10 listopada 2022 r. 4) Dodany przez art. 12 pkt 2 ustawy, o której mowa w odnośniku 3. 5) Ze zmianą wprowadzoną przez art. 12 pkt 3 ustawy, o której mowa w odnośniku 3.
 

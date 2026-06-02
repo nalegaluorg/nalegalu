@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 19 stycznia 2018 r. w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych
+# Rozporządzenie Ministra Finansówz dnia 19 stycznia 2018 r. w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-19 |
 | Data wydania | 2018-01-30 |
-| Wejście w życie | 2018-02-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000268) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/268/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Prowadzenie ksiąg rachunkowych Rozdział 3 – Inwentaryzacja Rozdział 4 – Ujmowanie, wycena aktywów i pasywów oraz ustalanie wyniku finansowego Rozdział 5 – Sprawozdania finansowe kasy Rozdział 6 – Przechowywanie danych Rozdział 7 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Prowadzenie ksiąg rachunkowych
+
+#### Rozdział 3 – Inwentaryzacja
+
+#### Rozdział 4 – Ujmowanie, wycena aktywów i pasywów oraz ustalanie wyniku finansowego
+
+#### Rozdział 5 – Sprawozdania finansowe kasy
+
+#### Rozdział 6 – Przechowywanie danych
+
+#### Rozdział 7 – Przepisy przejściowe i końcowe
 
 ## Załącznik nr 1 — – Limity pomniejszenia podstawy tworzenia odpisów aktualizujących
 
@@ -36,7 +49,8 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Prowadz
 
 Treść rozporządzenia
 Na podstawie art. 81 ust. 2 pkt 8a ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2017 r. poz. 2342 i 2201 oraz z 2018 r. poz. 62) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczególne zasady rachunkowości spółdzielczych kas oszczędnościowo-kredytowych, w tym:
 1)
@@ -151,7 +165,8 @@ poręczenie – poręczenie wekslowe oraz poręczenie w rozumieniu art. 876 § 1
 terminowa obsługa zadłużenia – obsługę kredytu lub pożyczki zgodnie z postanowieniami umowy kredytu lub pożyczki, a także obsługę kredytu lub pożyczki, jeżeli opóźnienie w spłacie całości lub części należnej raty kapitałowej lub zapłacie odsetek nie przekracza okresu jednego miesiąca lub kwoty 200 zł w przypadku opóźnienia przekraczającego jeden miesiąc i nieprzekraczającego trzech miesięcy;
 33)
 należność ze spłatą balonową – kredyt albo pożyczkę, w przypadku której spłata kapitału następuje co do zasady pod koniec okresu, na jaki została zawarta umowa kredytu albo pożyczki, w jednej lub kilku ratach znacznie wyższych niż pozostałe raty, przede wszystkim odsetkowe, spłacane przez większość okresu, na jaki została zawarta umowa kredytu albo pożyczki.
-Rozdział 2 Prowadzenie ksiąg rachunkowych
+Rozdział 2
+Prowadzenie ksiąg rachunkowych
 § 3.
 1.
 Ewidencjonowanie zdarzeń w księgach rachunkowych kasy następuje zgodnie z przyjętymi zasadami (polityką) rachunkowości.
@@ -223,7 +238,8 @@ symbole lub nazwy kont;
 salda na dzień otwarcia kont syntetycznych, obroty za okres od początku roku do dnia zamknięcia ksiąg rachunkowych oraz salda na dzień zamknięcia kont syntetycznych;
 3)
 sumę sald na dzień otwarcia kont syntetycznych, obrotów za okres od początku roku do dnia zamknięcia ksiąg rachunkowych i sumę sald na dzień zamknięcia kont syntetycznych; suma obrotów kont syntetycznych powinna być zgodna z obrotami dziennika liczonymi w sposób ciągły.
-Rozdział 3 Inwentaryzacja
+Rozdział 3
+Inwentaryzacja
 § 10.
 Kasa, przeprowadzając inwentaryzację zgodnie z ustawą, stosuje szczególne zasady określone w niniejszym rozdziale.
 § 11.
@@ -268,7 +284,8 @@ Inwentaryzacja aktywów i pasywów w drodze weryfikacji polega na ustaleniu zgod
 Aktywa i pasywa, których stan ulega zmianie na skutek rozliczenia lub odpisu ich wartości z tytułu zużycia lub utraty wartości, sukcesywnego zarachowywania na konta wynikowe czy z innego tytułu, weryfikuje się również pod względem prawidłowości tych zmian, w szczególności odpisów i zarachowań.
 3.
 Sporządza się protokół przeprowadzonej inwentaryzacji aktywów i pasywów, w którym przedstawia się wyniki dokonanej weryfikacji oraz sposób rozliczenia stwierdzonych różnic inwentaryzacyjnych.
-Rozdział 4 Ujmowanie, wycena aktywów i pasywów oraz ustalanie wyniku finansowego
+Rozdział 4
+Ujmowanie, wycena aktywów i pasywów oraz ustalanie wyniku finansowego
 § 15.
 Aktywa finansowe i zobowiązania finansowe klasyfikuje się w dniu ich nabycia lub powstania do następujących kategorii:
 1)
@@ -476,8 +493,7 @@ nieruchomości,
 b)
 użytkowaniu wieczystym wraz z budynkami i urządzeniami na użytkowanym gruncie stanowiącymi własność użytkownika wieczystego,
 c)
-spółdzielczym własnościowym prawie do lokalu
-do wysokości nie wyższej niż wpis wartości hipoteki ustanowionej na rzecz kasy do księgi wieczystej oraz nie wyższej niż 50% wartości ustalonej na podstawie wyceny rzeczoznawcy pomniejszonej o ujawnione w księdze wieczystej lub inne znane kasie obciążenia mające pierwszeństwo przed hipoteką ustanowioną na rzecz kasy, jeżeli nie uwzględnia tego wycena rzeczoznawcy;
+spółdzielczym własnościowym prawie do lokalu – do wysokości nie wyższej niż wpis wartości hipoteki ustanowionej na rzecz kasy do księgi wieczystej oraz nie wyższej niż 50% wartości ustalonej na podstawie wyceny rzeczoznawcy pomniejszonej o ujawnione w księdze wieczystej lub inne znane kasie obciążenia mające pierwszeństwo przed hipoteką ustanowioną na rzecz kasy, jeżeli nie uwzględnia tego wycena rzeczoznawcy;
 12)
 przeniesienia na kasę prawa własności papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski oraz pozostałe banki centralne lub rządy państw będących członkiem Organizacji Współpracy Gospodarczej i Rozwoju do czasu spłaty należności wraz z należnymi odsetkami i prowizją – do wartości godziwej przeniesionych papierów wartościowych;
 13)
@@ -587,7 +603,8 @@ Wynik z działalności operacyjnej obejmuje wynik działalności kasy skorygowan
 Do wyniku operacji nadzwyczajnych stosuje się przepis art. 43 ust. 4 ustawy.
 § 29.
 W sprawach dotyczących szczegółowych zasad uznawania, metod wyceny, zakresu ujawniania i sposobu prezentacji instrumentów finansowych, które nie zostały uregulowane w niniejszym rozporządzeniu, stosuje się przepisy wykonawcze wydane na podstawie art. 81 ust. 2 pkt 4 ustawy.
-Rozdział 5 Sprawozdania finansowe kasy
+Rozdział 5
+Sprawozdania finansowe kasy
 § 30.
 1.
 Sprawozdanie finansowe kasy obejmuje:
@@ -617,14 +634,16 @@ Zakres informacji wykazywanych w sprawozdaniu finansowym kasy jest określony w 
 Zakres informacji wykazywanych w sprawozdaniu finansowym małej kasy jest określony w załączniku nr 3 do rozporządzenia.
 6.
 Sporządzając sprawozdanie finansowe, kasa stosuje przepisy ustawy oraz zasady wyceny aktywów i pasywów oraz ustalania wyniku finansowego określone w rozdziale 4.
-Rozdział 6 Przechowywanie danych
+Rozdział 6
+Przechowywanie danych
 § 31.
 Udostępnianie przez kasę dokumentów osobom trzecim:
 1)
 na miejscu – wymaga uzyskania zgody kierownika jednostki organizacyjnej kasy na wgląd w dokumenty;
 2)
 poza miejscem prowadzenia ksiąg rachunkowych, w formie fotokopii dokumentów potwierdzonych za zgodność z oryginałem – wymaga wydania pisemnej zgody prezesa zarządu kasy lub osoby przez niego upoważnionej na udostępnienie dokumentów oraz sporządzenia protokołu zawierającego ich wykaz.
-Rozdział 7 Przepisy przejściowe i końcowe
+Rozdział 7
+Przepisy przejściowe i końcowe
 § 32.
 1.
 Przepisy rozporządzenia mają zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 2018 r.
@@ -633,15 +652,16 @@ Przepisy rozporządzenia mogą być stosowane do sprawozdań finansowych sporzą
 § 33.
 Wartość bilansową wkładów na fundusz stabilizacyjny, wniesionych przed dniem 1 stycznia 2015 r., rozlicza się w równych kwotach proporcjonalnie w ciągu 20 lat i odnosi na fundusz własny jako „Zysk (strata) z lat ubiegłych”. Nierozliczoną część wkładów wykazuje się w bilansie po stronie aktywów.
 § 34.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 czerwca 2014 r. w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 2132), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 czerwca 2014 r. w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 2132), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 czerwca 2014 r. w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 2132), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245).
 
 ## Załącznik nr 1 — – Limity pomniejszenia podstawy tworzenia odpisów aktualizujących
 
 Tabela 1
-Limit pomniejszenia podstawy tworzenia odpisów aktualizujących, o których mowa w § 23 ust. 14 pkt 1 rozporządzenia. Limit pomniejszenia w % kwoty należności Okres opóźnienia w spłacie w miesiącach 100 nie więcej niż 51 75 powyżej 51 i nie więcej niż 54 50 powyżej 54 i nie więcej niż 57 25 powyżej 57 i nie więcej niż 60 0 powyżej 60
+Limit pomniejszenia podstawy tworzenia odpisów aktualizujących, o których mowa w § 23 ust. 14 pkt 1 rozporządzenia.
+Limit pomniejszenia w % kwoty należności Okres opóźnienia w spłacie w miesiącach 100 nie więcej niż 51 75 powyżej 51 i nie więcej niż 54 50 powyżej 54 i nie więcej niż 57 25 powyżej 57 i nie więcej niż 60 0 powyżej 60
 Tabela 2
-Limit pomniejszenia podstawy tworzenia odpisów aktualizujących, o których mowa w § 23 ust. 14 pkt 2 rozporządzenia. Limit pomniejszenia w % kwoty należności Okres opóźnienia w spłacie w miesiącach 100 nie więcej niż 27 75 powyżej 27 i nie więcej niż 30 50 powyżej 30 i nie więcej niż 33 25 powyżej 33 i nie więcej niż 36 0 powyżej 36
+Limit pomniejszenia podstawy tworzenia odpisów aktualizujących, o których mowa w § 23 ust. 14 pkt 2 rozporządzenia.
+Limit pomniejszenia w % kwoty należności Okres opóźnienia w spłacie w miesiącach 100 nie więcej niż 27 75 powyżej 27 i nie więcej niż 30 50 powyżej 30 i nie więcej niż 33 25 powyżej 33 i nie więcej niż 36 0 powyżej 36
 
 ## Załącznik nr 2 — – Zakres informacji wykazywanych w sprawozdaniu finansowym kasy
 
@@ -679,8 +699,7 @@ kwoty korekty dotyczącej bieżącego roku obrotowego,
 c)
 kwoty korekty dotyczącej okresów wcześniejszych;
 11)
-informacje o znaczących zdarzeniach, które wystąpiły po dniu bilansowym i nie zostały uwzględnione w innych częściach sprawozdania finansowego.
-BILANS KASY Aktywa
+informacje o znaczących zdarzeniach, które wystąpiły po dniu bilansowym i nie zostały uwzględnione w innych częściach sprawozdania finansowego. BILANS KASY Aktywa
 I.
 Aktywa pieniężne
 1.
@@ -741,8 +760,7 @@ IX.
 Inne aktywa
 – w tym wkłady na fundusz stabilizacyjny
 X.
-Aktywa razem
-BILANS KASY Pasywa
+Aktywa razem BILANS KASY Pasywa
 I.
 Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy, w tym zobowiązania finansowe przeznaczone do obrotu
 1.
@@ -800,8 +818,7 @@ Zysk (strata) netto
 XIII.
 Fundusze łącznie
 XIV.
-Pasywa łącznie
-Współczynnik wypłacalności Zobowiązania pozabilansowe udzielone i otrzymane
+Pasywa łącznie Współczynnik wypłacalności Zobowiązania pozabilansowe udzielone i otrzymane
 1.
 Zobowiązania udzielone
 a.
@@ -819,8 +836,7 @@ Gwarancje
 c.
 Poręczenia
 3.
-Pozostałe
-RACHUNEK ZYSKÓW I STRAT KASY
+Pozostałe RACHUNEK ZYSKÓW I STRAT KASY
 I.
 Przychody z tytułu odsetek
 1.
@@ -918,8 +934,7 @@ Podatek dochodowy
 XXI.
 Pozostałe obowiązkowe zmniejszenie zysku (zmniejszenie straty)
 XXII.
-Zysk (strata) netto (XIX-XX+/-XXI)
-ZESTAWIENIE ZMIAN W FUNDUSZU WŁASNYM KASY
+Zysk (strata) netto (XIX-XX+/-XXI) ZESTAWIENIE ZMIAN W FUNDUSZU WŁASNYM KASY
 I.
 Fundusz własny na początek okresu
 1.
@@ -933,11 +948,9 @@ Fundusz udziałowy na początek okresu
 1.
 Zmiany funduszu udziałowego
 a)
-Zwiększenia (z tytułu)
-wniesienia wpłat udziałów członkowskich (...)
+Zwiększenia (z tytułu) – wniesienia wpłat udziałów członkowskich (...)
 b)
-Zmniejszenia (z tytułu)
-wypłacenia udziałów członkowskich (...)
+Zmniejszenia (z tytułu) – wypłacenia udziałów członkowskich (...)
 IV.
 Fundusz udziałowy na koniec okresu
 V.
@@ -950,8 +963,7 @@ Zwiększenia (z tytułu)
 – nadwyżki bilansowej
 (...)
 b)
-Zmniejszenia (z tytułu)
-pokrycia strat (...)
+Zmniejszenia (z tytułu) – pokrycia strat (...)
 VI.
 Fundusz zasobowy na koniec okresu
 VII.
@@ -959,11 +971,9 @@ Fundusz z aktualizacji wyceny na początek okresu
 1.
 Zmiany funduszu z aktualizacji wyceny
 a)
-Zwiększenia (z tytułu)
-(...)
+Zwiększenia (z tytułu) (...)
 b)
-Zmniejszenia (z tytułu)
-zbycia lub likwidacji środków trwałych (...)
+Zmniejszenia (z tytułu) – zbycia lub likwidacji środków trwałych (...)
 VIII.
 Fundusz z aktualizacji wyceny na koniec okresu
 IX.
@@ -979,11 +989,9 @@ Zysk z lat ubiegłych na początek okresu, po korektach
 3.
 Zmiana zysku z lat ubiegłych
 a)
-Zwiększenia (z tytułu)
-podziału zysku z lat ubiegłych (...)
+Zwiększenia (z tytułu) – podziału zysku z lat ubiegłych (...)
 b)
-Zmniejszenia (z tytułu)
-(...)
+Zmniejszenia (z tytułu) (...)
 4.
 Zysk z lat ubiegłych na koniec okresu
 5.
@@ -997,11 +1005,9 @@ Strata z lat ubiegłych na początek okresu, po korektach
 7.
 Zmiana straty z lat ubiegłych
 a)
-Zwiększenia (z tytułu)
-przeniesienia straty z lat ubiegłych do pokrycia (...)
+Zwiększenia (z tytułu) – przeniesienia straty z lat ubiegłych do pokrycia (...)
 b)
-Zmniejszenia (z tytułu)
-(...)
+Zmniejszenia (z tytułu) (...)
 8.
 Strata z lat ubiegłych na koniec okresu
 X.
@@ -1015,8 +1021,7 @@ Strata netto
 XII.
 Fundusz własny na koniec okresu
 XIII.
-Fundusz własny, po uwzględnieniu proponowanego podziału zysku (pokrycia straty)
-RACHUNEK PRZEPŁYWÓW PIENIĘŻNYCH KASY (metoda pośrednia)
+Fundusz własny, po uwzględnieniu proponowanego podziału zysku (pokrycia straty) RACHUNEK PRZEPŁYWÓW PIENIĘŻNYCH KASY (metoda pośrednia)
 I.
 Przepływy środków pieniężnych z działalności operacyjnej
 II.
@@ -1170,8 +1175,7 @@ Bilansowa zmiana środków pieniężnych, w tym zmiana stanu środków pienięż
 IX.
 Środki pieniężne na początek okresu
 X.
-Środki pieniężne na koniec okresu, w tym o ograniczonej możliwości dysponowania
-Dodatkowe informacje i objaśnienia W dodatkowych informacjach i objaśnieniach są ujawniane w szczególności informacje o aktywach i pasywach, zobowiązaniach pozabilansowych, elementach rachunku zysków i strat, zestawienia zmian w funduszu własnym oraz rachunku przepływów pieniężnych, a także informacje o zarządzaniu ryzykiem związanym z działalnością prowadzoną przez kasę w zakresie niezbędnym do lepszego zrozumienia sytuacji finansowej i majątkowej, a także wyniku finansowego kasy, w szczególności:
+Środki pieniężne na koniec okresu, w tym o ograniczonej możliwości dysponowania Dodatkowe informacje i objaśnienia W dodatkowych informacjach i objaśnieniach są ujawniane w szczególności informacje o aktywach i pasywach, zobowiązaniach pozabilansowych, elementach rachunku zysków i strat, zestawienia zmian w funduszu własnym oraz rachunku przepływów pieniężnych, a także informacje o zarządzaniu ryzykiem związanym z działalnością prowadzoną przez kasę w zakresie niezbędnym do lepszego zrozumienia sytuacji finansowej i majątkowej, a także wyniku finansowego kasy, w szczególności:
 1.
 1)
 informacje o spełnieniu przez kasę wymogów, o których mowa w art. 24 ust. 5 ustawy o kasach,
@@ -1325,8 +1329,7 @@ osobę, która jest małżonkiem lub osobą faktycznie pozostającą we wspólny
 c)
 jednostkę kontrolowaną, współkontrolowaną lub inną jednostkę, na którą znaczący wpływ wywiera lub w której posiada znaczącą ilość głosów bezpośrednio albo pośrednio osoba, o której mowa w lit. a i b, lub
 d)
-jednostkę realizującą program świadczeń pracowniczych po okresie zatrudnienia skierowany do pracowników kasy lub jednostki z nią powiązanej
-wraz z informacjami określającymi charakter tych transakcji; informacje dotyczące poszczególnych transakcji mogą być zgrupowane według ich rodzaju, z wyjątkiem przypadku, gdy informacje na temat poszczególnych transakcji są niezbędne dla zrozumienia ich wpływu na sytuację majątkową, finansową i wynik finansowy kasy,
+jednostkę realizującą program świadczeń pracowniczych po okresie zatrudnienia skierowany do pracowników kasy lub jednostki z nią powiązanej – wraz z informacjami określającymi charakter tych transakcji; informacje dotyczące poszczególnych transakcji mogą być zgrupowane według ich rodzaju, z wyjątkiem przypadku, gdy informacje na temat poszczególnych transakcji są niezbędne dla zrozumienia ich wpływu na sytuację majątkową, finansową i wynik finansowy kasy,
 6)
 informacje o celach i zasadach zarządzania ryzykiem, z wyszczególnieniem podziału na następujące kategorie ryzyka:
 a)
@@ -1389,8 +1392,7 @@ wartość aktywów netto, według wartości godziwej, kasy przyłączonej na dzi
 c)
 przychody i koszty, zyski i straty oraz zmiany w funduszach własnych połączonych kas za okres od początku roku obrotowego, w ciągu którego nastąpiło połączenie, do dnia połączenia,
 4)
-w przypadku gdy inne informacje niż wymienione powyżej mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej, finansowej oraz wynik finansowy kasy, należy ujawnić te informacje.
-Informacja dodatkowa powinna zapewnić porównywalność informacji finansowych zawartych w sprawozdaniu za okres sprawozdawczy z informacjami zawartymi w sprawozdaniu finansowym za poprzedni, analogiczny okres sprawozdawczy. Wszelkie dodatkowe informacje, niewynikające z wymienionego wyżej sprawozdania lub niezwiązane z nim bezpośrednio, powinny być przedstawione w końcowej części tej informacji.
+w przypadku gdy inne informacje niż wymienione powyżej mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej, finansowej oraz wynik finansowy kasy, należy ujawnić te informacje. Informacja dodatkowa powinna zapewnić porównywalność informacji finansowych zawartych w sprawozdaniu za okres sprawozdawczy z informacjami zawartymi w sprawozdaniu finansowym za poprzedni, analogiczny okres sprawozdawczy. Wszelkie dodatkowe informacje, niewynikające z wymienionego wyżej sprawozdania lub niezwiązane z nim bezpośrednio, powinny być przedstawione w końcowej części tej informacji.
 
 ## Załącznik nr 3 — – Zakres informacji wykazywanych w sprawozdaniu finansowym małej kasy
 
@@ -1428,8 +1430,7 @@ kwoty korekty dotyczącej bieżącego roku obrotowego,
 c)
 kwoty korekty dotyczącej okresów wcześniejszych;
 11)
-informacje o znaczących zdarzeniach, które wystąpiły po dniu bilansowym i nie zostały uwzględnione w innych częściach sprawozdania finansowego.
-BILANS KASY Aktywa
+informacje o znaczących zdarzeniach, które wystąpiły po dniu bilansowym i nie zostały uwzględnione w innych częściach sprawozdania finansowego. BILANS KASY Aktywa
 I.
 Aktywa pieniężne
 1.
@@ -1490,8 +1491,7 @@ IX.
 Inne aktywa
 – w tym wkłady na fundusz stabilizacyjny
 X.
-Aktywa razem
-BILANS KASY Pasywa
+Aktywa razem BILANS KASY Pasywa
 I.
 Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy, w tym zobowiązania finansowe przeznaczone do obrotu
 1.
@@ -1549,8 +1549,7 @@ Zysk (strata) netto
 XIII.
 Fundusze łącznie
 XIV.
-Pasywa łącznie
-Współczynnik wypłacalności Zobowiązania pozabilansowe udzielone i otrzymane
+Pasywa łącznie Współczynnik wypłacalności Zobowiązania pozabilansowe udzielone i otrzymane
 1.
 Zobowiązania udzielone
 a.
@@ -1568,8 +1567,7 @@ Gwarancje
 c.
 Poręczenia
 3.
-Pozostałe
-RACHUNEK ZYSKÓW I STRAT KASY
+Pozostałe RACHUNEK ZYSKÓW I STRAT KASY
 I.
 Przychody z tytułu odsetek
 1.
@@ -1667,8 +1665,7 @@ Podatek dochodowy
 XXI.
 Pozostałe obowiązkowe zmniejszenie zysku (zmniejszenie straty)
 XXII.
-Zysk (strata) netto (XIX-XX+/-XXI)
-Dodatkowe informacje i objaśnienia W dodatkowych informacjach i objaśnieniach są ujawniane w szczególności informacje o aktywach i pasywach, zobowiązaniach pozabilansowych, elementach rachunku zysków i strat, a także informacje o zarządzaniu ryzykiem związanym z działalnością prowadzoną przez kasę w zakresie niezbędnym do lepszego zrozumienia sytuacji finansowej i majątkowej, a także wyniku finansowego kasy, w szczególności:
+Zysk (strata) netto (XIX-XX+/-XXI) Dodatkowe informacje i objaśnienia W dodatkowych informacjach i objaśnieniach są ujawniane w szczególności informacje o aktywach i pasywach, zobowiązaniach pozabilansowych, elementach rachunku zysków i strat, a także informacje o zarządzaniu ryzykiem związanym z działalnością prowadzoną przez kasę w zakresie niezbędnym do lepszego zrozumienia sytuacji finansowej i majątkowej, a także wyniku finansowego kasy, w szczególności:
 1.
 1)
 informacje o spełnieniu przez kasę wymogów, o których mowa w art. 24 ust. 5 ustawy o kasach,
@@ -1822,8 +1819,7 @@ osobę, która jest małżonkiem lub osobą faktycznie pozostającą we wspólny
 c)
 jednostkę kontrolowaną, współkontrolowaną lub inną jednostkę, na którą znaczący wpływ wywiera lub w której posiada znaczącą ilość głosów bezpośrednio albo pośrednio osoba, o której mowa w lit. a i b, lub
 d)
-jednostkę realizującą program świadczeń pracowniczych po okresie zatrudnienia skierowany do pracowników kasy lub jednostki z nią powiązanej
-wraz z informacjami określającymi charakter tych transakcji; informacje dotyczące poszczególnych transakcji mogą być zgrupowane według ich rodzaju, z wyjątkiem przypadku, gdy informacje na temat poszczególnych transakcji są niezbędne dla zrozumienia ich wpływu na sytuację majątkową, finansową i wynik finansowy kasy,
+jednostkę realizującą program świadczeń pracowniczych po okresie zatrudnienia skierowany do pracowników kasy lub jednostki z nią powiązanej – wraz z informacjami określającymi charakter tych transakcji; informacje dotyczące poszczególnych transakcji mogą być zgrupowane według ich rodzaju, z wyjątkiem przypadku, gdy informacje na temat poszczególnych transakcji są niezbędne dla zrozumienia ich wpływu na sytuację majątkową, finansową i wynik finansowy kasy,
 6)
 informacje o celach i zasadach zarządzania ryzykiem, z wyszczególnieniem podziału na następujące kategorie ryzyka:
 a)
@@ -1883,6 +1879,5 @@ wartość aktywów netto, według wartości godziwej, kasy przyłączonej na dzi
 c)
 przychody i koszty, zyski i straty oraz zmiany w funduszach własnych połączonych kas za okres od początku roku obrotowego, w ciągu którego nastąpiło połączenie, do dnia połączenia,
 4)
-w przypadku gdy inne informacje niż wymienione powyżej mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej, finansowej oraz wynik finansowy kasy, należy ujawnić te informacje.
-Informacja dodatkowa powinna zapewnić porównywalność informacji finansowych zawartych w sprawozdaniu za okres sprawozdawczy z informacjami zawartymi w sprawozdaniu finansowym za poprzedni, analogiczny okres sprawozdawczy. Wszelkie dodatkowe informacje, niewynikające z wymienionego wyżej sprawozdania lub niezwiązane z nim bezpośrednio, powinny być przedstawione w końcowej części tej informacji.
+w przypadku gdy inne informacje niż wymienione powyżej mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej, finansowej oraz wynik finansowy kasy, należy ujawnić te informacje. Informacja dodatkowa powinna zapewnić porównywalność informacji finansowych zawartych w sprawozdaniu za okres sprawozdawczy z informacjami zawartymi w sprawozdaniu finansowym za poprzedni, analogiczny okres sprawozdawczy. Wszelkie dodatkowe informacje, niewynikające z wymienionego wyżej sprawozdania lub niezwiązane z nim bezpośrednio, powinny być przedstawione w końcowej części tej informacji.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 sierpnia 2016 r. w sprawie sposobu ustalania wysokości czynszu dzierżawnego w umowach dzierżawy nieruchomości Zasobu Własności Rolnej Skarbu Państwa
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 sierpnia 2016 r. w sprawie sposobu ustalania wysokości czynszu dzierżawnego w umowach dzierżawy nieruchomości Zasobu Własności Rolnej Skarbu Państwa Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-01 |
 | Data wydania | 2016-08-05 |
-| Wejście w życie | 2016-08-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001186) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1186/text.pdf) |
 
@@ -77,8 +76,7 @@ na obszarze, na którym zgodnie z przepisami o ochronie środowiska i o ochronie
 2)
 w międzywałach i na obszarach zalewowych, stanowiących naturalne obszary retencyjne,
 3)
-na terenach podgórskich i górskich
-ustala się jako równowartość pieniężną ilości pszenicy, przyjmując 75% stawek czynszu dzierżawnego określonych w załączniku do rozporządzenia.
+na terenach podgórskich i górskich – ustala się jako równowartość pieniężną ilości pszenicy, przyjmując 75% stawek czynszu dzierżawnego określonych w załączniku do rozporządzenia.
 § 5.
 1.
 W przypadku, o którym mowa w art. 39 ust. 1 w związku z art. 29 ust. 3a ustawy, w kolejnym przetargu ogłoszonym nie później niż 6 miesięcy po pierwszym przetargu, wywoławcza wysokość czynszu dzierżawnego nie może być obniżona więcej niż o 20% wywoławczej wysokości czynszu w pierwszym przetargu, z zastrzeżeniem ust. 2.
@@ -107,13 +105,14 @@ gruntów rolnych zabudowanych oznaczonych w ewidencji symbolem – Br;
 7)
 terenów komunikacyjnych oznaczonych w ewidencji symbolami – dr, Tk, Ti oraz Tp.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 21 maja 2009 r. w sprawie sposobu ustalania wysokości czynszu dzierżawnego w umowach zawieranych ze spółkami w trybie bezprzetargowym (Dz. U. poz. 766), które na podstawie art. 10 ustawy z dnia 14 kwietnia 2016 r. o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw (Dz. U. poz. 585) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 21 maja 2009 r. w sprawie sposobu ustalania wysokości czynszu dzierżawnego w umowach zawieranych ze spółkami w trybie bezprzetargowym (Dz. U. poz. 766), które na podstawie art. 10 ustawy z dnia 14 kwietnia 2016 r. o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw (Dz. U. poz. 585) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 21 maja 2009 r. w sprawie sposobu ustalania wysokości czynszu dzierżawnego w umowach zawieranych ze spółkami w trybie bezprzetargowym (Dz. U. poz. 766), które na podstawie art. 10 ustawy z dnia 14 kwietnia 2016 r. o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw (Dz. U. poz. 585) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Tabele stawek czynszu dzierżawnego od użytków rolnych
 I.
-Wysokość czynszu dzierżawnego dla gruntów ornych (dt pszenicy/ha), w zależności od klasy gruntów ornych i okręgu podatkowego: Okręg podatkowy Klasy gruntów ornych I II IIIa IIIb IVa IVb V I 11,1 10,3 9,4 7,7 6,3 4,6 2,0 II 10,3 9,4 8,6 7,1 5,7 4,3 1,7 III 9,4 8,6 8,0 6,6 5,1 3,7 1,4 IV 8,3 7,7 7,1 5,7 4,6 3,4 1,1
+Wysokość czynszu dzierżawnego dla gruntów ornych (dt pszenicy/ha), w zależności od klasy gruntów ornych i okręgu podatkowego:
+Okręg podatkowy Klasy gruntów ornych I II IIIa IIIb IVa IVb V I 11,1 10,3 9,4 7,7 6,3 4,6 2,0 II 10,3 9,4 8,6 7,1 5,7 4,3 1,7 III 9,4 8,6 8,0 6,6 5,1 3,7 1,4 IV 8,3 7,7 7,1 5,7 4,6 3,4 1,1
 II.
-Wysokość czynszu dzierżawnego dla trwałych użytków zielonych (dt pszenicy/ha), w zależności od klasy trwałych użytków zielonych i okręgu podatkowego: Okręg podatkowy Klasy trwałych użytków zielonych I II III IV V I 10,0 8,3 7,1 4,3 1,1 II 9,1 7,7 6,6 4,0 1,1 III 8,3 7,1 6,0 3,4 0,9 IV 7,7 6,3 5,4 3,1 0,9
+Wysokość czynszu dzierżawnego dla trwałych użytków zielonych (dt pszenicy/ha), w zależności od klasy trwałych użytków zielonych i okręgu podatkowego:
+Okręg podatkowy Klasy trwałych użytków zielonych I II III IV V I 10,0 8,3 7,1 4,3 1,1 II 9,1 7,7 6,6 4,0 1,1 III 8,3 7,1 6,0 3,4 0,9 IV 7,7 6,3 5,4 3,1 0,9
 Objaśnienia:
 1.
 Zaliczenie do okręgu podatkowego następuje zgodnie z przepisami o podatku rolnym.

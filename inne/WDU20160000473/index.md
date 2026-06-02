@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-24 |
 | Data wydania | 2016-04-08 |
-| Wejście w życie | 2016-04-23 |
 | Ostatnia zmiana | 2026-04-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000473) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/473/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 385 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 385 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 882, 1101, 1146, 1322 i 1662, z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045, 1223, 1434, 1593, 1688, 1936 i 2278 oraz z 2016 r. poz. 266.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -222,7 +221,7 @@ prowadzą ewidencje zawierające informacje i dane o zakresie korzystania ze śr
 4)
 występują do jednostek organizacyjnych wykonujących funkcję zarządców nieruchomości w sprawach związanych z dokonywaniem zgłoszeń oraz uzyskiwaniem decyzji i pozwoleń administracyjnych dotyczących korzystania ze środowiska oraz informują używających nieruchomości o dokonanych zgłoszeniach, a także o uzyskanych decyzjach administracyjnych;
 5)
-realizują zadania wynikające z ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska oraz ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.) w zakresie gospodarki odpadami powstałymi w wyniku ich działalności oraz działalności jednostek wojskowych będących na ich zaopatrzeniu;
+realizują zadania wynikające z ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska oraz ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87, 122, 933, 1045, 1688, 1936 i 2281.) w zakresie gospodarki odpadami powstałymi w wyniku ich działalności oraz działalności jednostek wojskowych będących na ich zaopatrzeniu;
 6)
 ustalają sposób gospodarki odpadami, o których mowa w pkt 5;
 7)
@@ -337,5 +336,5 @@ Dyrektor jednostki organizacyjnej właściwej do spraw konsolidacji kompetencji 
 § 15.
 Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 9 maja 2011 r. w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych (Dz. U. z 2015 r. poz. 297).
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 882, 1101, 1146, 1322 i 1662, z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045, 1223, 1434, 1593, 1688, 1936 i 2278 oraz z 2016 r. poz. 266. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87, 122, 933, 1045, 1688, 1936 i 2281.
 

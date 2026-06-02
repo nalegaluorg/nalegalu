@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-14 |
 | Data wydania | 2017-06-21 |
-| Wejście w życie | 2017-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001174) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1174/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 12a ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Roln
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 5 września 2016 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z kontynuacją zakazu ich przywozu z Unii Europejskiej do Federacji Rosyjskiej (Dz. U. poz. 1523) wprowadza się następujące zmiany:
 1)
-po § 6 dodaje się § 6a w brzmieniu:
-„
+po § 6 dodaje się § 6a w brzmieniu: „
 § 6a.
 1.
 W odniesieniu do ilości produktów określonej dla Polski w załączniku V do rozporządzenia 2016/921 wsparcie przysługuje podmiotowi, o którym mowa w § 4 ust. 1 pkt 1, za przeprowadzenie operacji wycofania z rynku produktów, o których mowa w art. 1 ust. 2 lit. i rozporządzenia 2016/921, w okresie, o którym mowa w art. 1 ust. 3 rozporządzenia 2016/921, jeżeli zostały spełnione warunki określone w rozporządzeniu 2016/921.
@@ -49,16 +47,13 @@ Powiadomienie złożone po dniu, o którym mowa w ust. 3, nie podlega rozpatrzen
 5.
 Współczynnik przydziału, o którym mowa w ust. 3 pkt 2, stanowi iloraz różnicy między ilością produktów określoną dla Polski w załączniku V do rozporządzenia 2016/921 a sumą ilości produktów wynikających z powiadomień złożonych przed piątym dniem poprzedzającym dzień, o którym mowa w ust. 3, oraz sumy ilości produktów wynikających z powiadomień złożonych w tym dniu i w okresie ostatnich pięciu dni poprzedzających ten dzień.
 6.
-Do objęcia operacją kwalifikuje się ilość produktów wynikająca z powiadomienia, przy czym w przypadku operacji objętej powiadomieniem złożonym w dniu, o którym mowa w ust. 3, albo w okresie ostatnich pięciu dni poprzedzających ten dzień do objęcia tą operacją kwalifikuje się ilość produktów stanowiąca iloczyn ilości produktów wynikającej z tego powiadomienia oraz współczynnika przydziału, o którym mowa w ust. 3 pkt 2.
-” ;
+Do objęcia operacją kwalifikuje się ilość produktów wynikająca z powiadomienia, przy czym w przypadku operacji objętej powiadomieniem złożonym w dniu, o którym mowa w ust. 3, albo w okresie ostatnich pięciu dni poprzedzających ten dzień do objęcia tą operacją kwalifikuje się ilość produktów stanowiąca iloczyn ilości produktów wynikającej z tego powiadomienia oraz współczynnika przydziału, o którym mowa w ust. 3 pkt 2. ” ;
 2)
 w § 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Współczynniki przydziału, o których mowa w § 5 ust. 2 pkt 2, § 6 ust. 3 pkt 2 i § 6a ust. 3 pkt 2, zaokrągla się do drugiej cyfry po przecinku: ” ;
 3)
-w § 10 ust. 2 otrzymuje brzmienie:
-„
+w § 10 ust. 2 otrzymuje brzmienie: „
 2.
-Przy obliczaniu wysokości wsparcia uwzględnia się ilość produktów danego rodzaju objętych operacją, nie większą jednak niż ilość produktów kwalifikująca się do objęcia tą operacją zgodnie odpowiednio z § 5 ust. 5, § 6 ust. 6 albo § 6a ust. 6.
-” .
+Przy obliczaniu wysokości wsparcia uwzględnia się ilość produktów danego rodzaju objętych operacją, nie większą jednak niż ilość produktów kwalifikująca się do objęcia tą operacją zgodnie odpowiednio z § 5 ust. 5, § 6 ust. 6 albo § 6a ust. 6. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

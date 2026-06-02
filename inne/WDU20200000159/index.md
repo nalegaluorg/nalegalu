@@ -26,14 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/159/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 1 grudnia 1961 r. o izbach morskich Dział I – Właściwość i ustrój izb morskich Rozdział I – Właściwość izb morskich Rozdział II – Ustrój izb morskich Rozdział III – Przetwarzanie danych osobowych przez izby morskie Dział II – Postępowanie w sprawach wypadków morskich Rozdział I – Przepisy ogólne Rozdział II – Dochodzenia Rozdział III – Rozprawa Rozdział IV – Środki odwoławcze Rozdział IVa – Wykonanie orzeczeń i postanowień Rozdział V – Wznowienie postępowania Rozdział VI – Koszty postępowania Rozdział VII – Przepisy porządkowe Rozdział VIII – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 1 grudnia 1961 r. o izbach morskich
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. z 2016 r. poz. 1207), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 stycznia 2020 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 173 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), które stanowią: „ 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2). ”
-„
-Izby morskie przekazują informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”, przy pierwszej czynności skierowanej do osoby, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 173 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), które stanowią: „ 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2). ” „
+Właściwość i ustrój izb morskich
+Właściwość izb morskich
+Ustrój izb morskich
+Przetwarzanie danych osobowych przez izby morskieRozdział III dodany przez art. 2 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r.
+Izby morskie przekazują informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2., zwanego dalej „rozporządzeniem 2016/679”, przy pierwszej czynności skierowanej do osoby, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie.
 1.
 Nadzór nad przetwarzaniem danych osobowych w postępowaniach przed izbami morskimi sprawują:
 1)
@@ -66,6 +69,12 @@ udzielania upomnień administratorowi danych lub podmiotowi przetwarzającemu w 
 wzywania administratora danych lub podmiotu przetwarzającego do dostosowania przetwarzania danych do przepisów rozporządzenia 2016/679.
 4.
 Do przyjmowania i rozpatrywania skarg związanych z przetwarzaniem danych osobowych przez izby morskie stosuje się odpowiednio przepisy działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
+Postępowanie w sprawach wypadków morskich
+Przepisy ogólne
+Dochodzenia
+Rozprawa
+Środki odwoławcze
+Wykonanie orzeczeń i postanowień
 Wykonaniu podlega:
 1)
 orzeczenie w części dotyczącej zastosowanego środka, o którym mowa w art. 35 ust. 1 lub 2, jeżeli postępowanie zostało ostatecznie zakończone;
@@ -86,6 +95,38 @@ Organ, o którym mowa w ust. 1, zwróci zainteresowanemu złożony przez niego d
 z upływem okresu pozbawienia prawa wykonywania uprawnień w żegludze morskiej i po stwierdzeniu spełnienia warunków, od których przywrócenie prawa wykonywania uprawnień było uzależnione;
 2)
 jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze morskiej zostało uchylone.
+Wznowienie postępowania
+Koszty postępowania
+Przepisy porządkowe
+Przepisy przejściowe i końcowe
+
+### Dział I – Właściwość i ustrój izb morskich
+
+#### Rozdział I – Właściwość izb morskich
+
+#### Rozdział II – Ustrój izb morskich
+
+#### Rozdział III – Przetwarzanie danych osobowych przez izby morskie
+
+### Dział II – Postępowanie w sprawach wypadków morskich
+
+#### Rozdział I – Przepisy ogólne
+
+#### Rozdział II – Dochodzenia
+
+#### Rozdział III – Rozprawa
+
+#### Rozdział IV – Środki odwoławcze
+
+#### Rozdział IVa – Wykonanie orzeczeń i postanowień
+
+#### Rozdział V – Wznowienie postępowania
+
+#### Rozdział VI – Koszty postępowania
+
+#### Rozdział VII – Przepisy porządkowe
+
+#### Rozdział VIII – Przepisy przejściowe i końcowe
 
 **Art. 173.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -93,9 +134,9 @@ jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze mor
 - **2)** art. 107 pkt 7 i 8, które wchodzą w życie z dniem 1 maja 2019 r.;
 - **3)** art. 157 pkt 2, który wchodzi w życie z dniem 13 października 2019 r. ” . Załącznik – Tekst jednolity ustawy z dnia 1 grudnia 1961 r. o izbach morskich
 
-### Dział I Właściwość i ustrój izb morskich
+### Dział I
 
-#### Rozdział I Właściwość izb morskich
+#### Rozdział I
 
 **Art. 1.**
 
@@ -133,13 +174,13 @@ jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze mor
 
 - **1)** znalazł się statek lub jego załoga po wypadku,
 - **2)** znajduje się miejsce wypadku,
-- **3)** leży port macierzysty statku w zależności od tego, w której izbie najpierw wszczęto postępowanie.
+- **3)** leży port macierzysty statku – w zależności od tego, w której izbie najpierw wszczęto postępowanie.
 
 2. Izba morska może orzec o swojej niewłaściwości miejscowej tylko do czasu rozpoczęcia postępowania dowodowego w pierwszej instancji.
 
 3. Odwoławcza Izba Morska może przekazać sprawę izbie morskiej, której właściwość miejscowa nie jest uzasadniona w myśl ust. 1, w przypadku, jeśli jest to wskazane ze względu na miejsce postoju statku lub miejsce pobytu większości świadków.
 
-#### Rozdział II Ustrój izb morskich
+#### Rozdział II
 
 **Art. 6.**
 
@@ -233,21 +274,21 @@ jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze mor
 - **3)** podstawowe zadania referentów, kierownika sekretariatu i sekretarza izby,
 - **4)** szczegółowy sposób prowadzenia i protokołowania rozpraw,
 - **5)** tryb występowania o pomoc prawną i komunikowania się z innymi organami,
-- **6)** organizację pracy izby mając na uwadze zapewnienie skuteczności i sprawności prowadzonych przed izbami morskimi postępowań.
+- **6)** organizację pracy izby – mając na uwadze zapewnienie skuteczności i sprawności prowadzonych przed izbami morskimi postępowań.
 
 **Art. 18.** Izby morskie są państwowymi jednostkami budżetowymi. Wydatki izb morskich są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw gospodarki morskiej.
 
 **Art. 19.** Izby morskie mają prawo używania pieczęci okrągłej z wizerunkiem godła Rzeczypospolitej Polskiej pośrodku, z napisem w otoku zawierającym nazwę izby i sądu, przy którym działa izba.
 
-#### Rozdział III Przetwarzanie danych osobowych przez izby morskie
+#### Rozdział III
 
-### Dział II Postępowanie w sprawach wypadków morskich
+### Dział II
 
-#### Rozdział I Przepisy ogólne
+#### Rozdział I
 
 **Art. 20.** O ile przepisy ustawy niniejszej nie stanowią inaczej, do postępowania przed izbami morskimi w sprawach wypadków morskich stosuje się odpowiednio przepisy kodeksu postępowania karnego.
 
-#### Rozdział II Dochodzenia
+#### Rozdział II
 
 **Art. 21.**
 
@@ -330,7 +371,7 @@ jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze mor
 
 8. Przepisy ust. 2–7 nie naruszają przepisów ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich. (uchylony)
 
-#### Rozdział III Rozprawa
+#### Rozdział III
 
 **Art. 29.**
 
@@ -403,7 +444,7 @@ jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze mor
 
 **Art. 39.** Orzeczenie wraz z uzasadnieniem doręcza się ministrowi właściwemu do spraw gospodarki morskiej, delegatowi oraz zainteresowanemu, a w sprawach określonych w art. 15 ust. 4 również państwowemu inspektorowi pracy. (uchylony)
 
-#### Rozdział IV Środki odwoławcze
+#### Rozdział IV
 
 **Art. 40.**
 
@@ -457,9 +498,9 @@ jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze mor
 
 **Art. 46.** O ile przepisy niniejszej ustawy nie stanowią inaczej, do rozpoznania apelacji lub zażalenia, o których mowa w art. 45 ust. 1 i 4, stosuje się odpowiednio przepisy Kodeksu postępowania karnego o apelacji lub zażaleniu.
 
-#### Rozdział IVa Wykonanie orzeczeń i postanowień
+#### Rozdział IVa
 
-#### Rozdział V Wznowienie postępowania
+#### Rozdział V
 
 **Art. 47.**
 
@@ -467,7 +508,7 @@ jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze mor
 
 2. Zainteresowany może żądać wznowienia postępowania w okolicznościach wymienionych w ust. 1 tylko wtedy, gdy z faktów i dowodów nie mógł skorzystać w poprzednim postępowaniu.
 
-#### Rozdział VI Koszty postępowania
+#### Rozdział VI
 
 **Art. 48.**
 
@@ -499,7 +540,7 @@ jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze mor
 
 **Art. 55.** Poza przypadkami określonymi w art. 48–52, art. 54 i art. 56 ust. 1 i 4 koszty postępowania pokrywa się z budżetu Państwa.
 
-#### Rozdział VII Przepisy porządkowe
+#### Rozdział VII
 
 **Art. 56.**
 
@@ -523,7 +564,7 @@ jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze mor
 
 **Art. 60.** Ostateczne postanowienie wydane na podstawie art. 56 ust. 1, art. 57 i art. 59 ust. 1 oraz ostateczne postanowienie wydane w przedmiocie zwrotu kosztów, zaopatrzone w zaświadczenie przewodniczącego izby morskiej, iż podlega wykonaniu, stanowi tytuł wykonawczy dla egzekucji sądowej.
 
-#### Rozdział VIII Przepisy przejściowe i końcowe
+#### Rozdział VIII
 
 **Art. 61.** Izby morskie utworzone na podstawie ustawy z dnia 18 marca 1925 r. o izbach morskich (Dz. U. poz. 243, z 1930 r. poz. 126 i 600, z 1933 r. poz. 117, z 1934 r. poz. 976 oraz z 1949 r. poz. 295) stają się izbami morskimi w rozumieniu niniejszej ustawy.
 
@@ -533,8 +574,5 @@ jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze mor
 
 **Art. 64.** Do czasu wydania przepisów wykonawczych do ustawy w sprawach, które mają być uregulowane tymi przepisami, obowiązują przepisy dotychczasowe.
 
-**Art. 65.** Ustawa wchodzi w życie z dniem 1 stycznia 1962 r.
-
-- **1)** Rozdział III dodany przez art. 2 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r. 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.
-
+**Art. 65.** Ustawa wchodzi w życie z dniem 1 stycznia 1962 r. 1) Rozdział III dodany przez art. 2 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r. 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.
 

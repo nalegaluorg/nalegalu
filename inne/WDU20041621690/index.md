@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-05-14 |
 | Data wydania | 2004-07-19 |
-| Wejście w życie | 2004-08-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041621690) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1690/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 1996 r. Nr 67, poz. 329, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 1996 r. Nr 67, poz. 329, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239, Nr 48, poz. 550, Nr 104, poz. 1104, Nr 120, poz. 1268 i Nr 122, poz. 1320, z 2001 r. Nr 111, poz. 1194 i Nr 144, poz. 1615, z 2002 r. Nr 41, poz. 362, Nr 113, poz. 984, Nr 141, poz. 1185 i Nr 200, poz. 1683, z 2003 r. Nr 6, poz. 65, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 203, poz. 1966 oraz z 2004 r. Nr 69, poz. 624, Nr 96, poz. 959, Nr 99, poz. 1001, Nr 109, poz. 1161 i Nr 145, poz. 1532.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w pkt 2 lit. c otrzymuje brzmienie: „ ponadgimnazjalne, w tym: specjalne, integracyjne, z oddziałami integracyjnymi, dwujęzycznymi i sportowymi, sportowe, mistrzostwa sportowego, rolnicze i leśne, ” ;
     - **c)**
@@ -88,5 +87,5 @@ source: "eli-html"
 
 **Art. 3.** Akty wykonawcze wydane na podstawie art. 78 ust. 1 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania aktów wykonawczych na podstawie art. 78 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239, Nr 48, poz. 550, Nr 104, poz. 1104, Nr 120, poz. 1268 i Nr 122, poz. 1320, z 2001 r. Nr 111, poz. 1194 i Nr 144, poz. 1615, z 2002 r. Nr 41, poz. 362, Nr 113, poz. 984, Nr 141, poz. 1185 i Nr 200, poz. 1683, z 2003 r. Nr 6, poz. 65, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 203, poz. 1966 oraz z 2004 r. Nr 69, poz. 624, Nr 96, poz. 959, Nr 99, poz. 1001, Nr 109, poz. 1161 i Nr 145, poz. 1532.
 

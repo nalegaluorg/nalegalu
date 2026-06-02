@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 stycznia 2018 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
+# Ustawa z dnia 10 stycznia 2018 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/41/UE z dnia 3 kwietnia 2014 r. w sprawie europejskiego nakazu dochodzeniowego w sprawach karnych (Dz. Urz. UE L 130 z 01.05.2014, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-10 |
 | Data wydania | 2018-01-24 |
-| Wejście w życie | 2018-02-08 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/201/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy oraz ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia.
+Wystąpienie do państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych na podstawie europejskiego nakazu dochodzeniowego
 § 1.
 W razie konieczności przeprowadzenia lub uzyskania dowodu, który znajduje się lub może zostać przeprowadzony na terytorium innego państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, sąd, przed którym sprawa się toczy, albo prokurator prowadzący postępowanie przygotowawcze może wydać z urzędu lub na wniosek strony, obrońcy lub pełnomocnika europejski nakaz dochodzeniowy, zwany w niniejszym rozdziale „END”, chyba że END nie ma w tym państwie zastosowania.
 § 2.
@@ -113,6 +114,7 @@ kontroli i utrwalania treści rozmów telefonicznych, w tym okresu, na jaki ją 
 osoby, której dotyczy kontrola i utrwalanie treści rozmów telefonicznych.
 § 4.
 Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór formularza powiadomienia, o którym mowa w § 1, mając na uwadze udostępnienie państwu członkowskiemu Unii Europejskiej danych niezbędnych do przekazania informacji w przedmiocie możliwości przeprowadzenia czynności na terytorium tego państwa oraz wykorzystania uzyskanych w ich wyniku dowodów w postępowaniu karnym.
+Wystąpienie państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych na podstawie europejskiego nakazu dochodzeniowego
 § 1.
 W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie europejskiego nakazu dochodzeniowego, zwanego w niniejszym rozdziale „END”, postanowienie w przedmiocie jego wykonania wydaje prokurator albo sąd rejonowy, w którego okręgu znajduje się lub może zostać przeprowadzony dowód.
 § 2.
@@ -289,10 +291,10 @@ czynności, mając na względzie art. 237 § 3–4 oraz art. 238 § 1 i 2;
 2)
 wykorzystania uzyskanego dowodu w postępowaniu karnym.
 § 2.
-Informacje, o których mowa w § 1, przekazuje się w terminie 96 godzin od otrzymania powiadomienia.
-” ;
+Informacje, o których mowa w § 1, przekazuje się w terminie 96 godzin od otrzymania powiadomienia. ” ;
 9)
 w art. 613 w § 1 wyrazy „w rozdziałach 62a, 62b” zastępuje się wyrazami „w rozdziałach 62a-62d”.
+Wystąpienie do państwa członkowskiego Unii Europejskiej o przeprowadzenie dowodu na podstawie europejskiego nakazu dochodzeniowego oraz wykonanie europejskiego nakazu dochodzeniowego wydanego w innym państwie członkowskim Unii Europejskiej
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904 i 2405 oraz z 2018 r. poz. 5, 106 i 138) wprowadza się następujące zmiany:
 
@@ -311,9 +313,9 @@ w art. 613 w § 1 wyrazy „w rozdziałach 62a, 62b” zastępuje się wyrazami 
 - **7)** po art. 589u dodaje się art. 589v w brzmieniu: „ Przepisy niniejszego rozdziału w zakresie zatrzymania dowodów stosuje się do orzeczeń organów państw członkowskich Unii Europejskiej, w których nie ma zastosowania europejski nakaz dochodzeniowy. ” ;
 - **8)** po rozdziale 62b dodaje się rozdziały 62c i 62d w brzmieniu: „
 
-#### Rozdział 62c Wystąpienie do państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych na podstawie europejskiego nakazu dochodzeniowego
+#### Rozdział 62c
 
-#### Rozdział 62d Wystąpienie państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych na podstawie europejskiego nakazu dochodzeniowego
+#### Rozdział 62d
 
 **Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2017 r. poz. 665, 666, 768, 1452, 2217 i 2400) w art. 187 § 2 otrzymuje brzmienie: „
 
@@ -337,9 +339,9 @@ w art. 613 w § 1 wyrazy „w rozdziałach 62a, 62b” zastępuje się wyrazami 
 
 - **c)**
 
-**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.) w dziale XIIa dodaje się rozdział 20c w brzmieniu: „
+**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, z 2017 r. poz. 708, 962, 966, 1477, 1543, 2400 i 2405 oraz z 2018 r. poz. 5.) w dziale XIIa dodaje się rozdział 20c w brzmieniu: „
 
-#### Rozdział 20c Wystąpienie do państwa członkowskiego Unii Europejskiej o przeprowadzenie dowodu na podstawie europejskiego nakazu dochodzeniowego oraz wykonanie europejskiego nakazu dochodzeniowego wydanego w innym państwie członkowskim Unii Europejskiej
+#### Rozdział 20c
 
 **Art. 116c.**
 
@@ -353,5 +355,5 @@ w art. 613 w § 1 wyrazy „w rozdziałach 62a, 62b” zastępuje się wyrazami 
 
 § 2. Jeżeli przed dniem wejścia w życie ustawy przekazano innemu państwu członkowskiemu Unii Europejskiej jedynie postanowienie o zatrzymaniu dowodów wydane według przepisów dotychczasowych, zamiast wystąpienia o wydanie dowodów przesyła się europejski nakaz dochodzeniowy, do którego stosuje się odpowiednio przepis art. 589y § 2 ustawy zmienianej w art. 1.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/41/UE z dnia 3 kwietnia 2014 r. w sprawie europejskiego nakazu dochodzeniowego w sprawach karnych (Dz. Urz. UE L 130 z 01.05.2014, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy oraz ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, z 2017 r. poz. 708, 962, 966, 1477, 1543, 2400 i 2405 oraz z 2018 r. poz. 5.
 

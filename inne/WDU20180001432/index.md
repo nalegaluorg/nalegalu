@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 lipca 2018 r. o szczególnych rozwiązaniach dotyczących gminy Ostrowice w województwie zachodniopomorskim
+# Ustawa z dnia 5 lipca 2018 r. o szczególnych rozwiązaniach dotyczących gminy Ostrowice w województwie zachodniopomorskim Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa oraz ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-05 |
 | Data wydania | 2018-07-25 |
-| Wejście w życie | 2018-07-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1432/text.pdf) |
 
@@ -84,13 +83,13 @@ source: "eli-html"
 
 - **1)** wszczęte, a nierozpatrzone do dnia 31 grudnia 2018 r. przez wójta gminy Ostrowice,
 - **2)** zakończone przez wójta gminy Ostrowice decyzją ostateczną,
-- **3)** w zakresie czynności sprawdzających i kontroli podatkowej oraz wszczęcia postępowania przejmują do prowadzenia organy podatkowe gminy albo gmin, o których mowa w art. 1 ust. 2, do których włączono obszar, na którym położona jest nieruchomość podlegająca opodatkowaniu.
+- **3)** w zakresie czynności sprawdzających i kontroli podatkowej oraz wszczęcia postępowania – przejmują do prowadzenia organy podatkowe gminy albo gmin, o których mowa w art. 1 ust. 2, do których włączono obszar, na którym położona jest nieruchomość podlegająca opodatkowaniu.
 
 2. Sprawy dotyczące podatku od środków transportowych należnego gminie Ostrowice:
 
 - **1)** wszczęte, a nierozpatrzone do dnia 31 grudnia 2018 r.,
 - **2)** zakończone decyzją ostateczną,
-- **3)** w zakresie czynności sprawdzających i kontroli podatkowej oraz wszczęcia postępowania przejmują do prowadzenia organy podatkowe gminy albo gmin, o których mowa w art. 1 ust. 2, do których włączono obszar, na którym znajduje się miejsce zamieszkania lub siedziba podatnika, albo zakład lub jednostka posiadające środki transportowe podlegające opodatkowaniu w przypadku przedsiębiorstwa wielozakładowego lub podmiotu, w którego skład wchodzą wydzielone jednostki organizacyjne.
+- **3)** w zakresie czynności sprawdzających i kontroli podatkowej oraz wszczęcia postępowania – przejmują do prowadzenia organy podatkowe gminy albo gmin, o których mowa w art. 1 ust. 2, do których włączono obszar, na którym znajduje się miejsce zamieszkania lub siedziba podatnika, albo zakład lub jednostka posiadające środki transportowe podlegające opodatkowaniu w przypadku przedsiębiorstwa wielozakładowego lub podmiotu, w którego skład wchodzą wydzielone jednostki organizacyjne.
 
 **Art. 6.**
 
@@ -155,7 +154,7 @@ source: "eli-html"
 
 - **1)** siedziba urzędu gminy Ostrowice,
 - **2)** nieruchomość podlegająca opodatkowaniu lub jej większa część – w przypadku dochodzenia należności pieniężnej z tytułu podatku od nieruchomości, podatku rolnego oraz podatku leśnego,
-- **3)** miejsce zamieszkania lub siedziba zobowiązanego, a w przypadku przedsiębiorstwa wielozakładowego lub podmiotu, w którego skład wchodzą wydzielone jednostki organizacyjne, zakład lub jednostka posiadająca środki transportowe podlegające opodatkowaniu albo większa część tego zakładu lub tej jednostki, jeżeli dochodzona jest należność pieniężna z tytułu podatku od środków transportowych reprezentuje wierzyciela w postępowaniach sądowych i administracyjnych wszczętych w związku z postępowaniami egzekucyjnymi prowadzonymi na podstawie tytułu wykonawczego wystawionego przez organ gminy Ostrowice przed dniem 31 grudnia 2018 r. i zakończonych przed tym dniem.
+- **3)** miejsce zamieszkania lub siedziba zobowiązanego, a w przypadku przedsiębiorstwa wielozakładowego lub podmiotu, w którego skład wchodzą wydzielone jednostki organizacyjne, zakład lub jednostka posiadająca środki transportowe podlegające opodatkowaniu albo większa część tego zakładu lub tej jednostki, jeżeli dochodzona jest należność pieniężna z tytułu podatku od środków transportowych – reprezentuje wierzyciela w postępowaniach sądowych i administracyjnych wszczętych w związku z postępowaniami egzekucyjnymi prowadzonymi na podstawie tytułu wykonawczego wystawionego przez organ gminy Ostrowice przed dniem 31 grudnia 2018 r. i zakończonych przed tym dniem.
 
 **Art. 11.** Organ egzekucyjny prowadzący postępowanie egzekucyjne wszczęte na podstawie tytułu wykonawczego wystawionego przez organ gminy Ostrowice zawiadamia zobowiązanego o zmianie wierzyciela przy pierwszej czynności podjętej w stosunku do zobowiązanego.
 
@@ -334,5 +333,5 @@ source: "eli-html"
 
 3. W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na zmniejszeniu liczby wierzycieli, do których jest kierowana informacja, o której mowa w art. 7 ust. 1, lub zmniejszeniu zatrudnienia w zachodniopomorskim urzędzie wojewódzkim.
 
-**Art. 33.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 33.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa oraz ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym.
 

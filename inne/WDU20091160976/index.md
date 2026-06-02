@@ -22,14 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-06-25 |
 | Data wydania | 2009-07-23 |
-| Wejście w życie | 2009-08-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091160976) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/976/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2008 r. Nr 204, poz. 1281) wprowadza się następujące zmiany:
 
-- **1)** w tytule ustawy dodaje się odnośnik nr 1 w brzmieniu: „
-- **1)** Przepisy ustawy:
+- **1)** w tytule ustawy dodaje się odnośnik nr 1 w brzmieniu: „ 1) Przepisy ustawy:
 - **1)** wykonują postanowienia: rozporządzenia Komisji (WE) nr 494/98 z dnia 27 lutego 1998 r. ustanawiającego szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 820/97 w odniesieniu do stosowania minimalnych sankcji administracyjnych w ramach systemu identyfikacji i rejestracji bydła (Dz. Urz. WE L 60 z 28.02.1998, str. 78; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 46, str. 12), rozporządzenia (WE) nr 1760/2000 Parlamentu Europejskiego i Rady z dnia 17 lipca 2000 r. ustanawiającego system identyfikacji i rejestracji bydła i dotyczącego etykietowania wołowiny i produktów z wołowiny oraz uchylającego rozporządzenie Rady (WE) nr 820/97 (Dz. Urz. WE L 204 z 11.08.2000, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 30, str. 248, z późn. zm.), rozporządzenia Komisji (WE) nr 1082/2003 z dnia 23 czerwca 2003 r. ustanawiającego szczegółowe zasady w celu wykonania rozporządzenia (WE) nr 1760/2000 Parlamentu Europejskiego i Rady w zakresie minimalnego poziomu kontroli przeprowadzanych w ramach systemu identyfikacji i rejestracji bydła (Dz. Urz. UE L 156 z 25.06.2003, str. 9, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 39, str. 135, z późn. zm.), rozporządzenia Rady (WE) nr 21/2004 z dnia 17 grudnia 2003 r. ustanawiającego system identyfikacji i rejestracji owiec i kóz oraz zmieniającego rozporządzenie (WE) nr 1782/2003 i dyrektywy 92/102/EWG i 64/432/EWG (Dz. Urz. UE L 5 z 09.01.2004, str. 8, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 42, str. 56), rozporządzenia Komisji (WE) nr 911/2004 z dnia 29 kwietnia 2004 r. w sprawie wykonania rozporządzenia (WE) nr 1760/2000 Parlamentu Europejskiego i Rady w zakresie kolczyków, paszportów i rejestrów gospodarstw (Dz. Urz. UE L 163 z 30.04.2004, str. 65, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 46, str. 242), rozporządzenia Komisji (WE) nr 1505/2006 z dnia 11 października 2006 r. wdrażającego rozporządzenie Rady (WE) nr 21/2004 w zakresie minimalnego poziomu kontroli prowadzonych w związku z identyfikacją i rejestrowaniem owiec i kóz (Dz. Urz. UE L 280 z 12.10.2006, str. 3), rozporządzenia Komisji (WE) nr 504/2008 z dnia 6 czerwca 2008 r. wykonującego dyrektywy Rady 90/426/EWG i 90/427/EWG w odniesieniu do metod identyfikacji koniowatych (Dz. Urz. UE L 149 z 07.06.2008, str. 3);
     - **a)**
     - **b)**
@@ -54,7 +52,9 @@ source: "eli-html"
 - **10)** zakład przetwórczy – zakład, w którym jest prowadzona działalność polegająca na przetwarzaniu zwłok zwierzęcych, w zakresie określonym w przepisach rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1774/2002 z dnia 3 października 2002 r. ustanawiającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego nieprzeznaczonych do spożycia przez ludzi (Dz. Urz. WE L 273 z 10.10.2002, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 37, str. 92, z późn. zm.); ” , po pkt 10 dodaje się pkt 10a w brzmieniu: „
     - **c)**
 
-- **10a)** spalarnia – spalarnię w rozumieniu pkt 30 albo 36 załącznika I do rozporządzenia wymienionego w pkt 10; ” , w pkt 11: – lit. c otrzymuje brzmienie: „ c) w odniesieniu do świń – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadająca osobowości prawnej, władającą zwierzęciem, nawet tymczasowo, ” , – dodaje się lit. d w brzmieniu: „ d) w odniesieniu do koniowatych – podmiot, o którym mowa w art. 2 ust. 2 lit. a rozporządzenia nr 504/2008; ” , pkt 12 otrzymuje brzmienie: „
+- **10a)** spalarnia – spalarnię w rozumieniu pkt 30 albo 36 załącznika I do rozporządzenia wymienionego w pkt 10; ” , w pkt 11: lit. c otrzymuje brzmienie: „ w odniesieniu do świń – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadająca osobowości prawnej, władającą zwierzęciem, nawet tymczasowo, ” , dodaje się lit. d w brzmieniu: „ w odniesieniu do koniowatych – podmiot, o którym mowa w art. 2 ust. 2 lit. a rozporządzenia nr 504/2008; ” , pkt 12 otrzymuje brzmienie: „
+    - **d)**
+    - **c)**
     - **d)**
     - **e)**
 
@@ -159,7 +159,7 @@ source: "eli-html"
 
 2. Dofinansowania udziela się na wniosek podmiotu prowadzącego centralną bazę danych, o którym mowa w art. 5 pkt 2, na podstawie umowy zawartej między tym podmiotem a ministrem właściwym do spraw rolnictwa.
 
-3. Do umowy, o której mowa w ust. 2, stosuje się przepisy art. 130 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.). ” ;
+3. Do umowy, o której mowa w ust. 2, stosuje się przepisy art. 130 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984, z 2008 r. Nr 180, poz. 1112, Nr 209, poz. 1317, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 62, poz. 504, Nr 72, poz. 619 i Nr 79, poz. 666.). ” ;
 
 - **11)** art. 14–16 otrzymują brzmienie: „
 
@@ -214,7 +214,7 @@ source: "eli-html"
 - **2)** dokonanie opisu słownego i graficznego koniowatego, a w przypadku koni pełnej krwi angielskiej, koni czystej krwi arabskiej, koni rasy kłusak oraz kuców szetlandzkich – zidentyfikowanie konia,
 - **3)** zarejestrowanie koniowatego,
 - **4)** wydanie i doręczenie paszportu koniowatego lub jego duplikatu oraz ich zniszczenie,
-- **5)** dokonanie zmian w rejestrze koniowatych uwzględniając koszty ponoszone przez podmioty, o których mowa w art. 5, oraz koszty modernizacji centralnej bazy danych, o której mowa w art. 13a ust. 1.
+- **5)** dokonanie zmian w rejestrze koniowatych – uwzględniając koszty ponoszone przez podmioty, o których mowa w art. 5, oraz koszty modernizacji centralnej bazy danych, o której mowa w art. 13a ust. 1.
 
 **Art. 16.** W przypadku zmiany właściciela koniowatego:
 
@@ -237,7 +237,7 @@ source: "eli-html"
 - **13)** w art. 17: w ust. 2 pkt 2 i 3 otrzymują brzmienie: „
     - **a)**
 
-- **2)** oznakowaniu owcy i kozy w sposób określony w art. 4 ust. 1 rozporządzenia nr 21/2004, w tym założeniu na lewą małżowinę uszną owcy i kozy identyfikatora, o którym mowa w załączniku w części A w ust. 3 lit. b tego rozporządzenia, a ponadto: założeniu na prawą małżowinę uszną kolczyka z numerem identyfikacyjnym zwierzęcia gospodarskiego – w przypadku owiec i kóz nieprzeznaczonych do handlu, albo założeniu na prawą małżowinę uszną kolczyka zawierającego elektroniczny identyfikator spełniający wymagania określone w ust. 1 i 3 rozdziału II załącznika do decyzji Komisji 2006/968/WE z dnia 15 grudnia 2006 r. wykonującej rozporządzenie Rady (WE) nr 21/2004 w odniesieniu do wytycznych i procedur elektronicznej identyfikacji i rejestrowania owiec i kóz (Dz. Urz. UE L 401 z 30.12.2006, str. 41), zwanej dalej „decyzją Komisji nr 2006/968” w przypadku owiec i kóz przeznaczonych do handlu;
+- **2)** oznakowaniu owcy i kozy w sposób określony w art. 4 ust. 1 rozporządzenia nr 21/2004, w tym założeniu na lewą małżowinę uszną owcy i kozy identyfikatora, o którym mowa w załączniku w części A w ust. 3 lit. b tego rozporządzenia, a ponadto: założeniu na prawą małżowinę uszną kolczyka z numerem identyfikacyjnym zwierzęcia gospodarskiego – w przypadku owiec i kóz nieprzeznaczonych do handlu, albo założeniu na prawą małżowinę uszną kolczyka zawierającego elektroniczny identyfikator spełniający wymagania określone w ust. 1 i 3 rozdziału II załącznika do decyzji Komisji 2006/968/WE z dnia 15 grudnia 2006 r. wykonującej rozporządzenie Rady (WE) nr 21/2004 w odniesieniu do wytycznych i procedur elektronicznej identyfikacji i rejestrowania owiec i kóz (Dz. Urz. UE L 401 z 30.12.2006, str. 41), zwanej dalej „decyzją Komisji nr 2006/968” – w przypadku owiec i kóz przeznaczonych do handlu;
     - **a)**
     - **b)**
 
@@ -295,7 +295,7 @@ source: "eli-html"
 3. Posiadacz owcy lub kozy, o którym mowa w art. 7 ust. 1 rozporządzenia nr 21/2004, przekazuje liczbę i numery identyfikacyjne owiec i kóz ustalone podczas spisu kierownikowi biura:
 
 - **1)** na formularzu udostępnionym przez Agencję albo
-- **2)** w formie elektronicznej: przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję albo na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, w którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych w terminie 7 dni od dnia dokonania tego spisu. ” ;
+- **2)** w formie elektronicznej: przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję albo na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, w którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych – w terminie 7 dni od dnia dokonania tego spisu. ” ;
     - **a)**
     - **b)**
 
@@ -390,7 +390,7 @@ source: "eli-html"
 - **1)** sposób wykonywania nadzoru, o którym mowa w art. 29,
 - **2)** warunki i sposób współpracy, o której mowa w ust. 1,
 - **3)** sposób wprowadzania odpowiednio do rejestru zwierząt gospodarskich oznakowanych informacji o statusie epizootycznym zwierząt gospodarskich oznakowanych i siedzib stad lub do centralnej bazy danych informacji o statusie epizootycznym koniowatych oraz informacji, o których mowa w art. 21 ust. 1 lit. I rozporządzenia nr 504/2008,
-- **4)** zakres i sposób dokonywania korekt i uzupełnień danych zawartych w rejestrach, o których mowa w art. 3 ust. 1 pkt 4, i w centralnej bazie danych oraz w rejestrze zwierząt gospodarskich oznakowanych mając na względzie zapewnienie prawidłowego funkcjonowania Systemu, ochronę zdrowia ludzi i zwierząt oraz zapewnienie organom Inspekcji Weterynaryjnej dostępu do danych zawartych w rejestrze, o którym mowa w art. 3 ust. 1 pkt 4, i w rejestrze zwierząt gospodarskich oznakowanych, a także umożliwienie tym organom skutecznego przeprowadzenia kontroli w siedzibie stada i w siedzibie podmiotu prowadzącego rejestr koniowatych oraz dokonywanie korekt i uzupełnień w tych rejestrach, w tym wprowadzenie informacji o statusie epizootycznym siedzib stad. ” ;
+- **4)** zakres i sposób dokonywania korekt i uzupełnień danych zawartych w rejestrach, o których mowa w art. 3 ust. 1 pkt 4, i w centralnej bazie danych oraz w rejestrze zwierząt gospodarskich oznakowanych – mając na względzie zapewnienie prawidłowego funkcjonowania Systemu, ochronę zdrowia ludzi i zwierząt oraz zapewnienie organom Inspekcji Weterynaryjnej dostępu do danych zawartych w rejestrze, o którym mowa w art. 3 ust. 1 pkt 4, i w rejestrze zwierząt gospodarskich oznakowanych, a także umożliwienie tym organom skutecznego przeprowadzenia kontroli w siedzibie stada i w siedzibie podmiotu prowadzącego rejestr koniowatych oraz dokonywanie korekt i uzupełnień w tych rejestrach, w tym wprowadzenie informacji o statusie epizootycznym siedzib stad. ” ;
 - **27)** po art. 32a dodaje się art. 32b-32d w brzmieniu: „
 
 **Art. 32b.**
@@ -432,5 +432,5 @@ source: "eli-html"
 
 **Art. 6.** Przepisy wykonawcze wydane na podstawie art. 15 ust. 2, art. 21 ust. 4 oraz art. 32 ust. 3 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 15 ust. 4, art. 22 ust. 6 oraz art. 32 ust. 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984, z 2008 r. Nr 180, poz. 1112, Nr 209, poz. 1317, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 62, poz. 504, Nr 72, poz. 619 i Nr 79, poz. 666.
 

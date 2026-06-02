@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 11 września 2018 r. zmieniające rozporządzenie w sprawie programu pilotażowego w centrach zdrowia psychicznego
+# Rozporządzenie Ministra Zdrowiaz dnia 11 września 2018 r. zmieniające rozporządzenie w sprawie programu pilotażowego w centrach zdrowia psychicznego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-11 |
 | Data wydania | 2018-09-18 |
-| Wejście w życie | 2018-09-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001786) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1786/text.pdf) |
 
@@ -37,36 +36,27 @@ Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach 
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 27 kwietnia 2018 r. w sprawie programu pilotażowego w centrach zdrowia psychicznego (Dz. U. poz. 852) wprowadza się następujące zmiany:
 1)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
-Świadczeniodawca prowadzący centrum udziela konsultacji i porad w niezbędnym zakresie świadczeniobiorcom z podejrzeniem lub rozpoznaniem choroby otępiennej.
-” ;
+Świadczeniodawca prowadzący centrum udziela konsultacji i porad w niezbędnym zakresie świadczeniobiorcom z podejrzeniem lub rozpoznaniem choroby otępiennej. ” ;
 2)
-w § 17 ust. 2 otrzymuje brzmienie:
-„
+w § 17 ust. 2 otrzymuje brzmienie: „
 2.
-Koordynatorem opieki może być każda osoba wchodząca w skład personelu udzielającego świadczeń opieki zdrowotnej określonego w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych dotyczących świadczeń opieki zdrowotnej z zakresu opieki psychiatrycznej i leczenia uzależnień lub osoba, która uzyskała tytuł specjalisty w dziedzinie zdrowia publicznego lub uzyskała tytuł licencjata lub magistra na kierunku studiów w zakresie zdrowia publicznego.
-” ;
+Koordynatorem opieki może być każda osoba wchodząca w skład personelu udzielającego świadczeń opieki zdrowotnej określonego w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych dotyczących świadczeń opieki zdrowotnej z zakresu opieki psychiatrycznej i leczenia uzależnień lub osoba, która uzyskała tytuł specjalisty w dziedzinie zdrowia publicznego lub uzyskała tytuł licencjata lub magistra na kierunku studiów w zakresie zdrowia publicznego. ” ;
 3)
 w § 20:
 a)
-ust. 1 i 2 otrzymują brzmienie:
-„
+ust. 1 i 2 otrzymują brzmienie: „
 1.
 Wysokość ryczałtu na populację ustala się na półroczne okresy rozliczeniowe. Pierwszy okres rozliczeniowy może być krótszy, odpowiednio do okresu obowiązywania umowy o realizację programu pilotażowego.
 2.
-Wysokość ryczałtu na populację stanowi iloczyn liczby osób powyżej 18. roku życia oraz stawki półrocznej na świadczeniobiorcę w półrocznych okresach rozliczeniowych. Stawka ta wynosi co najmniej 37,50 zł.
-” ,
+Wysokość ryczałtu na populację stanowi iloczyn liczby osób powyżej 18. roku życia oraz stawki półrocznej na świadczeniobiorcę w półrocznych okresach rozliczeniowych. Stawka ta wynosi co najmniej 37,50 zł. ” ,
 b)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Wartość ryczałtu na populację, o którym mowa w ust. 2, jest proporcjonalna do czasu obowiązywania umowy w pierwszym okresie rozliczeniowym, a dla umów z okresem rozliczeniowym wynoszącym 6 miesięcy wynosi co najmniej 37,50 zł.
-” ;
+Wartość ryczałtu na populację, o którym mowa w ust. 2, jest proporcjonalna do czasu obowiązywania umowy w pierwszym okresie rozliczeniowym, a dla umów z okresem rozliczeniowym wynoszącym 6 miesięcy wynosi co najmniej 37,50 zł. ” ;
 4)
-§ 21 otrzymuje brzmienie:
-„
+§ 21 otrzymuje brzmienie: „
 § 21.
 1.
 Wartość umowy o realizację pilotażu ulega pomniejszeniu przez Fundusz o wartość świadczeń sfinansowanych przez Fundusz, udzielonych świadczeniobiorcom z tej populacji przez innych świadczeniodawców realizujących świadczenia w oparciu o umowę o udzielanie świadczeń opieki zdrowotnej w zakresie opieka psychiatryczna i leczenie uzależnień lub umowę o realizację programu pilotażowego.
@@ -83,20 +73,17 @@ Przez świadczenia, o których mowa w ust. 1, rozumie się świadczenia opieki z
 5)
 świadczenia pielęgnacyjno-opiekuńcze psychiatryczne dla dorosłych,
 6)
-leczenie środowiskowe (domowe)
-z tym że w zakresach wymienionych w pkt 4 i 5 pomniejszeniu ulega kwota ryczałtu na populację, w przypadku gdy udzielanie świadczeń w tych zakresach rozpoczęło się na podstawie skierowania lekarza centrum właściwego dla świadczeniobiorcy, wystawionego w okresie obowiązywania umowy o realizację programu pilotażowego.
+leczenie środowiskowe (domowe) – z tym że w zakresach wymienionych w pkt 4 i 5 pomniejszeniu ulega kwota ryczałtu na populację, w przypadku gdy udzielanie świadczeń w tych zakresach rozpoczęło się na podstawie skierowania lekarza centrum właściwego dla świadczeniobiorcy, wystawionego w okresie obowiązywania umowy o realizację programu pilotażowego.
 3.
 Pomniejszenia, o którym mowa w ust. 1, dokonuje się w kolejnym okresie rozliczeniowym, po przekazaniu świadczeniodawcy przez dyrektora oddziału Funduszu informacji o kwocie pomniejszenia wynikającej z poprzedniego okresu rozliczeniowego z wyjątkiem ostatniego okresu rozliczeniowego, w przypadku którego pomniejszenie obejmuje także koszty świadczeń planowanych na ten okres.
 4.
 Dyrektor oddziału Funduszu przekazuje świadczeniodawcy informację o wysokości kosztów planowanych w ostatnim okresie rozliczeniowym przewidywanych na podstawie danych o realizacji świadczeń z ostatniego zamkniętego okresu rozliczeniowego przed rozpoczęciem ostatniego okresu rozliczeniowego.
 5.
-Ostateczne rozliczenie zawartej umowy o realizację programu pilotażowego z tytułu pomniejszeń, o których mowa w ust. 1, następuje w terminie do 90 dni od zakończenia jej realizacji.
-” ;
+Ostateczne rozliczenie zawartej umowy o realizację programu pilotażowego z tytułu pomniejszeń, o których mowa w ust. 1, następuje w terminie do 90 dni od zakończenia jej realizacji. ” ;
 5)
 w § 22:
 a)
-w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9–12 w brzmieniu:
-„
+w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9–12 w brzmieniu: „
 9)
 świadczeń psychiatrycznych dla chorych somatycznie;
 10)
@@ -104,18 +91,15 @@ w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9–12 w 
 11)
 świadczeń psychogeriatrycznych;
 12)
-świadczeń rehabilitacji psychiatrycznej.
-” ,
+świadczeń rehabilitacji psychiatrycznej. ” ,
 b)
 uchyla się ust. 2;
 6)
 w § 23:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Kwota wartości umowy zawiera kwotę przeznaczoną na koszty świadczeń udzielonych przez centrum świadczeniobiorcom zamieszkującym poza obszarem działania centrum, przy rozliczaniu których za cenę przyjmuje się średnią cenę jednostkową w danym województwie.
-” ,
+Kwota wartości umowy zawiera kwotę przeznaczoną na koszty świadczeń udzielonych przez centrum świadczeniobiorcom zamieszkującym poza obszarem działania centrum, przy rozliczaniu których za cenę przyjmuje się średnią cenę jednostkową w danym województwie. ” ,
 b)
 uchyla się ust. 2,
 c)
@@ -123,17 +107,13 @@ w ust. 3 wyrazy „zgodnie z obowiązującą jednostkową ceną jednostki rozlic
 7)
 w § 24:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-W przypadku wykazania w rozliczeniu kwoty niewykorzystanej na cele, o których mowa w ust. 1, podmiot prowadzący centrum zwraca Funduszowi środki w wysokości przekraczającej różnicę 3% między środkami przekazanymi przez Fundusz a kosztami związanymi z udzielaniem świadczeń opieki zdrowotnej, o których mowa w ust. 1, w terminie określonym w umowie, nie później niż w terminie 6 miesięcy od zakończenia pilotażu.
-” ,
+W przypadku wykazania w rozliczeniu kwoty niewykorzystanej na cele, o których mowa w ust. 1, podmiot prowadzący centrum zwraca Funduszowi środki w wysokości przekraczającej różnicę 3% między środkami przekazanymi przez Fundusz a kosztami związanymi z udzielaniem świadczeń opieki zdrowotnej, o których mowa w ust. 1, w terminie określonym w umowie, nie później niż w terminie 6 miesięcy od zakończenia pilotażu. ” ,
 b)
-dodaje się ust. 3 w brzmieniu:
-„
+dodaje się ust. 3 w brzmieniu: „
 3.
-Rozliczenie, o którym mowa w ust. 1 i 2, następuje po zakończeniu realizacji pilotażu.
-” ;
+Rozliczenie, o którym mowa w ust. 1 i 2, następuje po zakończeniu realizacji pilotażu. ” ;
 8)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 9)
@@ -141,12 +121,39 @@ załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załącznik
 § 2.
 Do pomniejszeń wartości umowy, o których mowa w § 21 rozporządzenia zmienianego w § 1, oraz pomniejszeń, o których mowa w § 22 rozporządzenia zmienianego w § 1, w związku z udzielaniem świadczeń opieki zdrowotnej, przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 ## Załącznik nr 1 — – Realizatorzy pilotażu oraz obszar działania centrum zdrowia psychicznego
 
-Lp. Nazwa podmiotu Województwo Obszar działania centrów wraz z kodem jednostki podziału terytorialnego 1 2 3 4 1 Samodzielny Publiczny Zakład Opieki Zdrowotnej Centralny Szpital Kliniczny Uniwersytetu Medycznego w Łodzi łódzkie osiedla administracyjne m. Łodzi: (dawna dzielnica Widzew) Andrzejów, Dolina Łódki, Mileszki, Nowosolna, Olechów-Janów, Stary Widzew, Stoki, Widzew-Wschód, Zarzew, Osiedle nr 33Kody TERYT: 1061069 2 Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Nowej Dębie podkarpackie powiat tarnobrzeski, m. TarnobrzegKody TERYT: 1820, 1864 3 Regionalny Szpital w Kołobrzegu zachodniopomorskie powiat kołobrzeskiKod TERYT: 3208 4 Samodzielny Publiczny Zakład Opieki Zdrowotnej w Radzyniu Podlaskim lubelskie powiat radzyńskiKod TERYT: 0615 5 Szpital Wojewódzki im. Kardynała Stefana Wyszyńskiego w Łomży podlaskie m. Łomża, powiat łomżyńskiKody TERYT: 2062, 2007 6 Szpital Miejski św. Jana Pawła II w Elblągu warmińsko-mazurskie m. Elbląg, powiat elbląskiKody TERYT: 2861, 2804 7 Szpital Specjalistyczny Ducha Świętego w Sandomierzu świętokrzyskie powiat sandomierskiKod TERYT: 2609 8 Szpital Wolski im. dr Anny Gostyńskiej Samodzielny Publiczny Zakład Opieki Zdrowotnej (Warszawa) mazowieckie dzielnica m.st. Warszawy: WolaKod TERYT: 1465188 9 Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wlkp. spółka z ograniczoną odpowiedzialnością lubuskie m. Gorzów WielkopolskiKod TERYT: 0861 10 Instytut Psychiatrii i Neurologii (Warszawa) mazowieckie dzielnica m.st. Warszawy: MokotówKod TERYT: 1465058 11 „MEDISON” Spółka z ograniczoną odpowiedzialnością (Koszalin) zachodniopomorskie m. KoszalinKod TERYT: 3261 12 Specjalistyczny Psychiatryczny Samodzielny Publiczny Zakład Opieki Zdrowotnej w Suwałkach podlaskie m. Suwałki, powiat suwalskiKody TERYT: 2063, 2012 13 Specjalistyczny Psychiatryczny Zespół Opieki Zdrowotnej im. prof. Antoniego Kępińskiego w Jarosławiu podkarpackie powiat jarosławskiKod TERYT: 1804 14 Szpital Specjalistyczny im. Henryka Klimontowicza w Gorlicach małopolskie powiat gorlickiKod TERYT: 1205 15 Mazowieckie Specjalistyczne Centrum Zdrowia im. prof. Jana Mazurkiewicza w Pruszkowie mazowieckie m. Pruszków, powiat pruszkowski, gmina Podkowa Leśna, dzielnica Ursus m.st. WarszawyKody TERYT: 1421021, 1421, 1405021, 1465128 16 Szpital Wojewódzki im. św. Łukasza Samodzielny Publiczny Zakład Opieki Zdrowotnej w Tarnowie małopolskie m. TarnówKod TERYT: 1263 17 Wojewódzki Szpital Zespolony im. L. Rydygiera w Toruniu kujawsko-pomorskie m. ToruńKod TERYT: 0463 18 Specjalistyczny Psychiatryczny Zespół Opieki Zdrowotnej w Bielsku-Białej śląskie m. Bielsko-BiałaKod TERYT: 2461 19 Szpital Specjalistyczny w Kościerzynie Spółka z ograniczoną odpowiedzialnością pomorskie powiat kościerskiKod TERYT: 2206 20 Zespół Zakładów Opieki Zdrowotnej w Cieszynie śląskie powiat cieszyńskiKod TERYT: 2403 21 Szpital Ogólny im. dr. Witolda Ginela w Grajewie podlaskie powiat grajewski,Kod TERYT: 2004 22 Samodzielny Publiczny Szpital dla Nerwowo i Psychicznie Chorych w Międzyrzeczu lubuskie gminy: Bledzew, Przytoczna, Pszczew, Międzyrzecz, Skwierzyna, TrzcielKody TERYT: 0803012, 0803032, 0803042, 0803023, 0803053, 0803063 23 Mazowiecki Szpital Bródnowski w Warszawie Spółka z ograniczoną odpowiedzialnością mazowieckie dzielnica m.st. Warszawy: Targówekkod TERYT: 1465118 24 Specjalistyczny Psychiatryczny Zespół Opieki Zdrowotnej w Łodzi Szpital im. dr. J. Babińskiego łódzkie Łódź-BałutyKod TERYT: 1061029 25 Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych w Bolesławcu dolnośląskie powiat bolesławieckiKod TERYT: 0201 26 Samodzielny Publiczny Wojewódzki Szpital Specjalistyczny w Chełmie lubelskie m. Chełm; powiat chełmskiKody TERYT: 0662, 0603 27 Samodzielny Publiczny Zakład Opieki Zdrowotnej w Hajnówce podlaskie powiaty: hajnowski, bielski i siemiatyckiKody TERYT: 2005, 2003, 2010 28 Szpital Uniwersytecki w Krakowie małopolskie Kraków-ŚródmieścieKod TERYT: 1261059
+Lp. Nazwa podmiotu Województwo Obszar działania centrów wraz z kodem jednostki podziału terytorialnego 1 2 3 4 1 Samodzielny Publiczny Zakład Opieki Zdrowotnej Centralny Szpital Kliniczny Uniwersytetu Medycznego w Łodzi łódzkie osiedla administracyjne m. Łodzi: (dawna dzielnica Widzew) Andrzejów, Dolina Łódki, Mileszki, Nowosolna, Olechów-Janów, Stary Widzew, Stoki, Widzew-Wschód, Zarzew, Osiedle nr 33
+Kody TERYT: 1061069 2 Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Nowej Dębie podkarpackie powiat tarnobrzeski, m. Tarnobrzeg
+Kody TERYT: 1820, 1864 3 Regionalny Szpital w Kołobrzegu zachodniopomorskie powiat kołobrzeski
+Kod TERYT: 3208 4 Samodzielny Publiczny Zakład Opieki Zdrowotnej w Radzyniu Podlaskim lubelskie powiat radzyński
+Kod TERYT: 0615 5 Szpital Wojewódzki im. Kardynała Stefana Wyszyńskiego w Łomży podlaskie m. Łomża, powiat łomżyński
+Kody TERYT: 2062, 2007 6 Szpital Miejski św. Jana Pawła II w Elblągu warmińsko-mazurskie m. Elbląg, powiat elbląski
+Kody TERYT: 2861, 2804 7 Szpital Specjalistyczny Ducha Świętego w Sandomierzu świętokrzyskie powiat sandomierski
+Kod TERYT: 2609 8 Szpital Wolski im. dr Anny Gostyńskiej Samodzielny Publiczny Zakład Opieki Zdrowotnej (Warszawa) mazowieckie dzielnica m.st. Warszawy: Wola
+Kod TERYT: 1465188 9 Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wlkp. spółka z ograniczoną odpowiedzialnością lubuskie m. Gorzów Wielkopolski
+Kod TERYT: 0861 10 Instytut Psychiatrii i Neurologii (Warszawa) mazowieckie dzielnica m.st. Warszawy: Mokotów
+Kod TERYT: 1465058 11 „MEDISON” Spółka z ograniczoną odpowiedzialnością (Koszalin) zachodniopomorskie m. Koszalin
+Kod TERYT: 3261 12 Specjalistyczny Psychiatryczny Samodzielny Publiczny Zakład Opieki Zdrowotnej w Suwałkach podlaskie m. Suwałki, powiat suwalski
+Kody TERYT: 2063, 2012 13 Specjalistyczny Psychiatryczny Zespół Opieki Zdrowotnej im. prof. Antoniego Kępińskiego w Jarosławiu podkarpackie powiat jarosławski
+Kod TERYT: 1804 14 Szpital Specjalistyczny im. Henryka Klimontowicza w Gorlicach małopolskie powiat gorlicki
+Kod TERYT: 1205 15 Mazowieckie Specjalistyczne Centrum Zdrowia im. prof. Jana Mazurkiewicza w Pruszkowie mazowieckie m. Pruszków, powiat pruszkowski, gmina Podkowa Leśna, dzielnica Ursus m.st. Warszawy
+Kody TERYT: 1421021, 1421, 1405021, 1465128 16 Szpital Wojewódzki im. św. Łukasza Samodzielny Publiczny Zakład Opieki Zdrowotnej w Tarnowie małopolskie m. Tarnów
+Kod TERYT: 1263 17 Wojewódzki Szpital Zespolony im. L. Rydygiera w Toruniu kujawsko-pomorskie m. Toruń
+Kod TERYT: 0463 18 Specjalistyczny Psychiatryczny Zespół Opieki Zdrowotnej w Bielsku-Białej śląskie m. Bielsko-Biała
+Kod TERYT: 2461 19 Szpital Specjalistyczny w Kościerzynie Spółka z ograniczoną odpowiedzialnością pomorskie powiat kościerski
+Kod TERYT: 2206 20 Zespół Zakładów Opieki Zdrowotnej w Cieszynie śląskie powiat cieszyński
+Kod TERYT: 2403 21 Szpital Ogólny im. dr. Witolda Ginela w Grajewie podlaskie powiat grajewski,
+Kod TERYT: 2004 22 Samodzielny Publiczny Szpital dla Nerwowo i Psychicznie Chorych w Międzyrzeczu lubuskie gminy: Bledzew, Przytoczna, Pszczew, Międzyrzecz, Skwierzyna, Trzciel
+Kody TERYT: 0803012, 0803032, 0803042, 0803023, 0803053, 0803063 23 Mazowiecki Szpital Bródnowski w Warszawie Spółka z ograniczoną odpowiedzialnością mazowieckie dzielnica m.st. Warszawy: Targówek
+kod TERYT: 1465118 24 Specjalistyczny Psychiatryczny Zespół Opieki Zdrowotnej w Łodzi Szpital im. dr. J. Babińskiego łódzkie Łódź-Bałuty
+Kod TERYT: 1061029 25 Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych w Bolesławcu dolnośląskie powiat bolesławiecki
+Kod TERYT: 0201 26 Samodzielny Publiczny Wojewódzki Szpital Specjalistyczny w Chełmie lubelskie m. Chełm; powiat chełmski
+Kody TERYT: 0662, 0603 27 Samodzielny Publiczny Zakład Opieki Zdrowotnej w Hajnówce podlaskie powiaty: hajnowski, bielski i siemiatycki
+Kody TERYT: 2005, 2003, 2010 28 Szpital Uniwersytecki w Krakowie małopolskie Kraków-Śródmieście
+Kod TERYT: 1261059
 
 ## Załącznik nr 2 — – Wykaz ośrodków udzielających świadczeń specjalistycznych świadczeniobiorcom z populacji objętej pilotażem realizowanych zgodnie z profilem działalności komórki organizacyjnej nieskutkujący pomniejszaniem kwoty ryczałtu u świadczeniodawcy prowadzącego centrum
 

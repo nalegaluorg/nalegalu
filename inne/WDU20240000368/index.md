@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-12 |
 | Data wydania | 2024-03-13 |
-| Wejście w życie | 2024-03-14 |
 | Ostatnia zmiana | 2026-02-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/368/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 1311a § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 1311a § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy tryb i sposób doręczania pism sądowych za pośrednictwem portalu informacyjnego, jak również elektroniczną postać, w której pisma te są doręczane.
 § 2.
@@ -57,5 +56,5 @@ Elektroniczne potwierdzenie odbioru korespondencji jest automatycznie generowane
 3.
 Elektroniczne potwierdzenie odbioru korespondencji zawiera w szczególności: oznaczenie doręczonego pisma, nazwę użytkownika konta, któremu doręczono pismo, datę jego odbioru albo informację, że doręczenie uznaje się za skuteczne, informację o dacie umieszczenia pisma w portalu informacyjnym razem z oznaczeniem doręczonego pisma.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 14 marca 2024 r.
+Rozporządzenie wchodzi w życie z dniem 14 marca 2024 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-07 |
 | Data wydania | 2012-02-22 |
-| Wejście w życie | 2012-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/204/text.pdf) |
 
@@ -55,7 +54,7 @@ Treść rozporządzenia
 ## Załącznik nr 13 — – Ramowy plan nauczania dla szkoły policealnej dla dorosłych
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 2 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 2 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991 oraz z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206.) zarządza się, co następuje:
 § 1.
 Określa się ramowe plany nauczania dla publicznych szkół:
 1)
@@ -104,7 +103,7 @@ wymiar godzin do dyspozycji dyrektora szkoły przeznaczonych na:
 a)
 zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych,
 b)
-zajęcia realizujące potrzeby i zainteresowania uczniów, z uwzględnieniem art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.).
+zajęcia realizujące potrzeby i zainteresowania uczniów, z uwzględnieniem art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600, z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238, Nr 191, poz. 1369 i Nr 247, poz. 1821, z 2008 r. Nr 145, poz. 917 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 1, Nr 56, poz. 458, Nr 67, poz. 572, Nr 97, poz. 800, Nr 213, poz. 1650 i Nr 219, poz. 1706 oraz z 2011 r. Nr 149, poz. 887 i Nr 205, poz. 1206.).
 2.
 W oddziałach szkół prowadzących kształcenie zawodowe na podstawie modułowego programu nauczania dla zawodu minimalny wymiar godzin na kształcenie zawodowe jest sumą minimalnych wymiarów godzin na kształcenie zawodowe teoretyczne i kształcenie zawodowe praktyczne, określonych w ramowych planach nauczania dla danego typu szkoły.
 3.
@@ -208,11 +207,11 @@ W liceach ogólnokształcących z oddziałami dwujęzycznymi, za zgodą organu p
 § 10.
 Dyrektorzy szkół, w porozumieniu z organami prowadzącymi szkoły, dostosują organizację obowiązkowych zajęć edukacyjnych: komputerowych, informatyki i technologii informacyjnej do wymogu, o którym mowa w § 7 ust. 1 pkt 1, w terminie do dnia 31 sierpnia 2013 r.
 § 11.
-Traci moc rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 12 lutego 2002 r. w sprawie ramowych planów nauczania w szkołach publicznych (Dz. U. Nr 15, poz. 142, z późn. zm.).
+Traci moc rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 12 lutego 2002 r. w sprawie ramowych planów nauczania w szkołach publicznych (Dz. U. Nr 15, poz. 142, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2002 r. Nr 137, poz. 1155, z 2003 r. Nr 39, poz. 337 i Nr 116, poz. 1093, z 2004 r. Nr 43, poz. 393, z 2005 r. Nr 30, poz. 252, z 2008 r. Nr 72, poz. 420 oraz z 2009 r. Nr 54, poz. 442.).
 § 12.
-Rozporządzenie wchodzi w życie z dniem 1 września 2012 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2012 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991 oraz z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600, z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238, Nr 191, poz. 1369 i Nr 247, poz. 1821, z 2008 r. Nr 145, poz. 917 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 1, Nr 56, poz. 458, Nr 67, poz. 572, Nr 97, poz. 800, Nr 213, poz. 1650 i Nr 219, poz. 1706 oraz z 2011 r. Nr 149, poz. 887 i Nr 205, poz. 1206. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2002 r. Nr 137, poz. 1155, z 2003 r. Nr 39, poz. 337 i Nr 116, poz. 1093, z 2004 r. Nr 43, poz. 393, z 2005 r. Nr 30, poz. 252, z 2008 r. Nr 72, poz. 420 oraz z 2009 r. Nr 54, poz. 442.
 
-## Załącznik nr 1 — – Ramowy plan nauczania dla szkoły podstawowej, w tym szkoły podstawowej specjalnej, z wyjątkiem szkoły podstawowej specjalnej dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym
+## Załącznik nr 1 — – Ramowy plan nauczania dla szkoły podstawowej, w tym szkoły podstawowej specjalnej, z wyjątkiem szkoły podstawowej specjalnej dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznymNie dotyczy uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do szkoły podstawowej ogólnodostępnej, oddziału integracyjnego w szkole ogólnodostępnej lub szkoły integracyjnej.
 
 1.
 W klasach I-III szkoły podstawowej (I etap edukacyjny – edukacja wczesnoszkolna) w trzyletnim okresie nauczania:
@@ -299,8 +298,7 @@ sumą godzin wynikającą z pomnożenia tygodniowych wymiarów godzin określony
 a)
 w przypadku I etapu edukacyjnego – w ust. 3 pkt 1,
 b)
-w przypadku II etapu edukacyjnego – w ust. 3 pkt 2,
-przez faktyczną liczbę tygodni, w których odbywają się obowiązkowe zajęcia edukacyjne w kolejnych latach szkolnych,
+w przypadku II etapu edukacyjnego – w ust. 3 pkt 2, przez faktyczną liczbę tygodni, w których odbywają się obowiązkowe zajęcia edukacyjne w kolejnych latach szkolnych,
 2)
 sumą godzin określonych:
 a)
@@ -310,10 +308,9 @@ w przypadku II etapu edukacyjnego – w ust. 2 pkt 1.
 5.
 Wymiar godzin do dyspozycji dyrektora szkoły, o których mowa w § 2 ust. 1 pkt 5 lit. b rozporządzenia, ustala w każdym roku szkolnym dyrektor szkoły, z uwzględnieniem art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 6.
-Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury oraz zajęć sportowych w oddziałach i szkołach sportowych oraz szkołach mistrzostwa sportowego określają przepisy, o których mowa w § 4 ust. 2 rozporządzenia.
-1) Nie dotyczy uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do szkoły podstawowej ogólnodostępnej, oddziału integracyjnego w szkole ogólnodostępnej lub szkoły integracyjnej.
+Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury oraz zajęć sportowych w oddziałach i szkołach sportowych oraz szkołach mistrzostwa sportowego określają przepisy, o których mowa w § 4 ust. 2 rozporządzenia. 1) Nie dotyczy uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do szkoły podstawowej ogólnodostępnej, oddziału integracyjnego w szkole ogólnodostępnej lub szkoły integracyjnej.
 
-## Załącznik nr 2 — – Ramowy plan nauczania dla szkoły podstawowej specjalnej dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym
+## Załącznik nr 2 — – Ramowy plan nauczania dla szkoły podstawowej specjalnej dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznymDotyczy również uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do szkoły podstawowej ogólnodostępnej, oddziału integracyjnego w szkole ogólnodostępnej lub szkoły integracyjnej.
 
 1.
 W klasach I-III szkoły podstawowej specjalnej dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym (I etap edukacyjny) w trzyletnim okresie nauczania:
@@ -362,8 +359,7 @@ sumą godzin wynikającą z pomnożenia tygodniowych wymiarów godzin określony
 a)
 w przypadku I etapu edukacyjnego – w ust. 3 pkt 1 lit. a-c,
 b)
-w przypadku II etapu edukacyjnego – w ust. 3 pkt 1 lit. d-f,
-przez faktyczną liczbę tygodni, w których odbywają się obowiązkowe zajęcia edukacyjne w kolejnych latach szkolnych,
+w przypadku II etapu edukacyjnego – w ust. 3 pkt 1 lit. d-f, przez faktyczną liczbę tygodni, w których odbywają się obowiązkowe zajęcia edukacyjne w kolejnych latach szkolnych,
 2)
 sumą godzin określonych:
 a)
@@ -373,10 +369,9 @@ w przypadku II etapu edukacyjnego – w ust. 2 pkt 1.
 5.
 Wymiar godzin do dyspozycji dyrektora szkoły, o których mowa w § 2 ust. 1 pkt 5 lit. b rozporządzenia, ustala w każdym roku szkolnym dyrektor szkoły, z uwzględnieniem art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 6.
-Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury określają przepisy, o których mowa w § 4 ust. 2 pkt 1–3 rozporządzenia.
-1) Dotyczy również uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do szkoły podstawowej ogólnodostępnej, oddziału integracyjnego w szkole ogólnodostępnej lub szkoły integracyjnej.
+Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury określają przepisy, o których mowa w § 4 ust. 2 pkt 1–3 rozporządzenia. 1) Dotyczy również uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do szkoły podstawowej ogólnodostępnej, oddziału integracyjnego w szkole ogólnodostępnej lub szkoły integracyjnej.
 
-## Załącznik nr 3 — – Ramowy plan nauczania dla gimnazjum, w tym gimnazjum specjalnego, z wyjątkiem gimnazjum specjalnego dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym
+## Załącznik nr 3 — – Ramowy plan nauczania dla gimnazjum, w tym gimnazjum specjalnego, z wyjątkiem gimnazjum specjalnego dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznymNie dotyczy uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do gimnazjum ogólnodostępnego, oddziału integracyjnego w gimnazjum ogólnodostępnym lub gimnazjum integracyjnego.
 
 1.
 W gimnazjum (III etap edukacyjny) w trzyletnim okresie nauczania:
@@ -451,8 +446,7 @@ sumą godzin określonych w ust. 1 pkt 1.
 4.
 Wymiar godzin do dyspozycji dyrektora szkoły, o których mowa w § 2 ust. 1 pkt 5 lit. b rozporządzenia, ustala w każdym roku szkolnym dyrektor szkoły, z uwzględnieniem art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 5.
-Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury oraz zajęć sportowych w oddziałach i szkołach sportowych oraz szkołach mistrzostwa sportowego określają przepisy, o których mowa w § 4 ust. 2 rozporządzenia.
-1) Nie dotyczy uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do gimnazjum ogólnodostępnego, oddziału integracyjnego w gimnazjum ogólnodostępnym lub gimnazjum integracyjnego.
+Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury oraz zajęć sportowych w oddziałach i szkołach sportowych oraz szkołach mistrzostwa sportowego określają przepisy, o których mowa w § 4 ust. 2 rozporządzenia. 1) Nie dotyczy uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do gimnazjum ogólnodostępnego, oddziału integracyjnego w gimnazjum ogólnodostępnym lub gimnazjum integracyjnego.
 
 ## Załącznik nr 4 — – Ramowy plan nauczania dla oddziałów przysposabiających do pracy organizowanych w gimnazjum, w tym gimnazjum specjalnym dla uczniów niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym
 
@@ -513,7 +507,7 @@ Wymiar godzin do dyspozycji dyrektora szkoły, o których mowa w § 2 ust. 1 pkt
 5.
 Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury określają przepisy, o których mowa w § 4 ust. 2 pkt 1–3 rozporządzenia.
 
-## Załącznik nr 5 — – Ramowy plan nauczania dla gimnazjum specjalnego dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym
+## Załącznik nr 5 — – Ramowy plan nauczania dla gimnazjum specjalnego dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznymDotyczy również uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do gimnazjum ogólnodostępnego, oddziału integracyjnego w gimnazjum ogólnodostępnym lub gimnazjum integracyjnego.
 
 1.
 W gimnazjum specjalnym dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym (III etap edukacyjny) w trzyletnim okresie nauczania:
@@ -524,9 +518,9 @@ funkcjonowanie w środowisku – 480 godzin,
 b)
 muzyka z rytmiką – 190 godzin,
 c)
-plastyka – 800 godzin,
+plastykaW oddziałach przysposabiających do pracy godziny przeznaczone na osiągnięcie wybranych efektów kształcenia określonych w podstawie programowej kształcenia w zawodach dla danego zawodu realizowane są w ramach przysposobienia do pracy, o którym mowa w podstawie programowej kształcenia ogólnego dla szkół specjalnych przysposabiających do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi. – 800 godzin,
 d)
-technika – 830 godzin,
+technikaW oddziałach przysposabiających do pracy godziny przeznaczone na osiągnięcie wybranych efektów kształcenia określonych w podstawie programowej kształcenia w zawodach dla danego zawodu realizowane są w ramach przysposobienia do pracy, o którym mowa w podstawie programowej kształcenia ogólnego dla szkół specjalnych przysposabiających do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi. – 830 godzin,
 e)
 wychowanie fizyczne – 385 godzin;
 2)
@@ -552,10 +546,9 @@ sumą godzin określonych w ust. 1 pkt 1.
 4.
 Wymiar godzin do dyspozycji dyrektora szkoły, o których mowa w § 2 ust. 1 pkt 5 lit. b rozporządzenia, ustala w każdym roku szkolnym dyrektor szkoły, z uwzględnieniem art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 5.
-Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury określają przepisy, o których mowa w § 4 ust. 2 pkt 1–3 rozporządzenia.
-1) Dotyczy również uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do gimnazjum ogólnodostępnego, oddziału integracyjnego w gimnazjum ogólnodostępnym lub gimnazjum integracyjnego. 2) W oddziałach przysposabiających do pracy godziny przeznaczone na osiągnięcie wybranych efektów kształcenia określonych w podstawie programowej kształcenia w zawodach dla danego zawodu realizowane są w ramach przysposobienia do pracy, o którym mowa w podstawie programowej kształcenia ogólnego dla szkół specjalnych przysposabiających do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi.
+Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury określają przepisy, o których mowa w § 4 ust. 2 pkt 1–3 rozporządzenia. 1) Dotyczy również uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym, uczęszczających do gimnazjum ogólnodostępnego, oddziału integracyjnego w gimnazjum ogólnodostępnym lub gimnazjum integracyjnego. 2) W oddziałach przysposabiających do pracy godziny przeznaczone na osiągnięcie wybranych efektów kształcenia określonych w podstawie programowej kształcenia w zawodach dla danego zawodu realizowane są w ramach przysposobienia do pracy, o którym mowa w podstawie programowej kształcenia ogólnego dla szkół specjalnych przysposabiających do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi.
 
-## Załącznik nr 6 — – Ramowy plan nauczania dla zasadniczej szkoły zawodowej, w tym zasadniczej szkoły zawodowej specjalnej dla uczniów niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym
+## Załącznik nr 6 — – Ramowy plan nauczania dla zasadniczej szkoły zawodowej, w tym zasadniczej szkoły zawodowej specjalnej dla uczniów niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznymNie dotyczy uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym.
 
 1.
 W zasadniczej szkole zawodowej (IV etap edukacyjny) w trzyletnim okresie nauczania:
@@ -628,8 +621,7 @@ Uczniowie będący młodocianymi pracownikami, skierowani przez pracodawcę na d
 6.
 W przypadku uczniów będących młodocianymi pracownikami, dyrektor szkoły ustala, w każdej klasie, liczbę dni w tygodniu przeznaczonych na praktyczną naukę zawodu organizowaną u pracodawców.
 7.
-Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury oraz zajęć sportowych w oddziałach i szkołach sportowych oraz szkołach mistrzostwa sportowego określają przepisy, o których mowa w § 4 ust. 2 rozporządzenia.
-1) Nie dotyczy uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym.
+Wymiar godzin przeznaczonych na realizację zajęć religii lub etyki, zajęć wychowania do życia w rodzinie, zajęć języka mniejszości narodowej, etnicznej lub języka regionalnego i naukę własnej historii i kultury oraz zajęć sportowych w oddziałach i szkołach sportowych oraz szkołach mistrzostwa sportowego określają przepisy, o których mowa w § 4 ust. 2 rozporządzenia. 1) Nie dotyczy uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, w tym uczniów z niepełnosprawnościami sprzężonymi, jeżeli jedną z niepełnosprawności jest upośledzenie umysłowe w stopniu umiarkowanym lub znacznym.
 
 ## Załącznik nr 7 — – Ramowy plan nauczania dla liceum ogólnokształcącego, w tym liceum ogólnokształcącego specjalnego dla uczniów w normie intelektualnej: niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym i liceum ogólnokształcącego z oddziałami dwujęzycznymi, w którym jest prowadzone kształcenie w klasie wstępnej
 

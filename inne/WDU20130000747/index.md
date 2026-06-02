@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 maja 2013 r. o zmianie ustawy o opiece nad dziećmi w wieku do lat 3 oraz niektórych innych ustaw
+# Ustawa z dnia 10 maja 2013 r. o zmianie ustawy o opiece nad dziećmi w wieku do lat 3 oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych oraz ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-10 |
 | Data wydania | 2013-06-28 |
-| Wejście w życie | 2013-07-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/747/text.pdf) |
 
@@ -54,7 +53,7 @@ source: "eli-html"
 
 1. Podmioty, o których mowa w art. 8 ust. 1, mogą zorganizować wspólną obsługę administracyjną, finansową i organizacyjną żłobków, klubów dziecięcych lub ich zespołów.
 
-2. Obsługa, o której mowa w ust. 1, może również być wykonywana przez jednostki, o których mowa w art. 5 ust. 9 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.). ” ;
+2. Obsługa, o której mowa w ust. 1, może również być wykonywana przez jednostki, o których mowa w art. 5 ust. 9 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979 oraz z 2013 r. poz. 87.). ” ;
 
 - **4)** art. 25 otrzymuje brzmienie: „
 
@@ -77,8 +76,13 @@ source: "eli-html"
 
 4. Adres będącego osobą fizyczną podmiotu prowadzącego żłobek lub klub dziecięcy nie podlega ujawnieniu w Biuletynie Informacji Publicznej, jeżeli jest inny niż adres prowadzenia przez tę osobę żłobka lub klubu dziecięcego. ” ;
 
-- **6)** w art. 28: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wójt, burmistrz lub prezydent miasta dokonuje wpisu do rejestru na podstawie pisemnego wniosku o wpis do rejestru, złożonego przez podmiot zamierzający prowadzić żłobek lub klub dziecięcy. Wniosek zawiera: ” , – pkt 1 i 2 otrzymują brzmienie: „ 1) w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej – numer lub indeks identyfikujący podmiot we właściwym rejestrze publicznym, potwierdzający status podmiotu; 2) numer NIP i REGON, o ile wnioskodawcy te numery nadano; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „ 5) oświadczenie o posiadaniu tytułu prawnego do lokalu, w którym ma być prowadzony żłobek lub klub dziecięcy; 6) w przypadku osoby fizycznej – numer PESEL. ” , uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
+- **6)** w art. 28: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wójt, burmistrz lub prezydent miasta dokonuje wpisu do rejestru na podstawie pisemnego wniosku o wpis do rejestru, złożonego przez podmiot zamierzający prowadzić żłobek lub klub dziecięcy. Wniosek zawiera: ” , pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej – numer lub indeks identyfikujący podmiot we właściwym rejestrze publicznym, potwierdzający status podmiotu;
+- **2)** numer NIP i REGON, o ile wnioskodawcy te numery nadano; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
+- **5)** oświadczenie o posiadaniu tytułu prawnego do lokalu, w którym ma być prowadzony żłobek lub klub dziecięcy;
+- **6)** w przypadku osoby fizycznej – numer PESEL. ” , uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -206,7 +210,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2012 r. poz. 592, 908 i 1456) w art. 2 pkt 1 otrzymuje brzmienie: „
 
-- **1)** działalność socjalna – usługi świadczone przez pracodawców na rzecz różnych form wypoczynku, działalności kulturalno-oświatowej, sportowo-rekreacyjnej, opieki nad dziećmi w żłobkach, klubach dziecięcych, sprawowanej przez dziennego opiekuna lub nianię, w przedszkolach oraz innych formach wychowania przedszkolnego, udzielanie pomocy materialnej – rzeczowej lub finansowej, a także zwrotnej lub bezzwrotnej pomocy na cele mieszkaniowe na warunkach określonych umową; ” . W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2010 r. Nr 77, poz. 512, z późn. zm.) w art. 32 w ust. 1 w pkt 1 lit. a otrzymuje brzmienie: „ nieprzewidzianego zamknięcia żłobka, klubu dziecięcego, przedszkola lub szkoły, do których dziecko uczęszcza, a także w przypadku choroby niani, z którą rodzice mają zawartą umowę uaktywniającą, o której mowa w art. 50 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. Nr 45, poz. 235, z późn. zm.), lub dziennego opiekuna sprawujących opiekę nad dzieckiem, ” .
+- **1)** działalność socjalna – usługi świadczone przez pracodawców na rzecz różnych form wypoczynku, działalności kulturalno-oświatowej, sportowo-rekreacyjnej, opieki nad dziećmi w żłobkach, klubach dziecięcych, sprawowanej przez dziennego opiekuna lub nianię, w przedszkolach oraz innych formach wychowania przedszkolnego, udzielanie pomocy materialnej – rzeczowej lub finansowej, a także zwrotnej lub bezzwrotnej pomocy na cele mieszkaniowe na warunkach określonych umową; ” . W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2010 r. Nr 77, poz. 512, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 225, poz. 1463, z 2011 r. Nr 113, poz. 657 i Nr 149, poz. 887, z 2012 r. poz. 622 oraz z 2013 r. poz. 675.) w art. 32 w ust. 1 w pkt 1 lit. a otrzymuje brzmienie: „ nieprzewidzianego zamknięcia żłobka, klubu dziecięcego, przedszkola lub szkoły, do których dziecko uczęszcza, a także w przypadku choroby niani, z którą rodzice mają zawartą umowę uaktywniającą, o której mowa w art. 50 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. Nr 45, poz. 235, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 131, poz. 764 i Nr 171, poz. 1016 oraz z 2013 r. poz. 747.), lub dziennego opiekuna sprawujących opiekę nad dzieckiem, ” .
     - **a)**
 
 **Art. 4.**
@@ -219,5 +223,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 25 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 25 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych oraz ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979 oraz z 2013 r. poz. 87. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 225, poz. 1463, z 2011 r. Nr 113, poz. 657 i Nr 149, poz. 887, z 2012 r. poz. 622 oraz z 2013 r. poz. 675. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 131, poz. 764 i Nr 171, poz. 1016 oraz z 2013 r. poz. 747.
 

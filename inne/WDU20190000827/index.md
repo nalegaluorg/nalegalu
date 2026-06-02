@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 29 kwietnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz rozliczania przez Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich oraz jej wysokości
+# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 29 kwietnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz rozliczania przez Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich oraz jej wysokości Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-29 |
 | Data wydania | 2019-05-06 |
-| Wejście w życie | 2019-05-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000827) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/827/text.pdf) |
 
@@ -33,50 +32,37 @@ W rozporządzeniu Ministra Inwestycji i Rozwoju z dnia 28 listopada 2018 r. w sp
 1)
 w § 2:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Wniosek o przyznanie pomocy może być złożony przez koło gospodyń wiejskich, które zostało wpisane do Krajowego Rejestru Kół Gospodyń Wiejskich, o którym mowa w art. 35 ustawy, zwane dalej „kołem gospodyń wiejskich”, i któremu w związku z tym wpisem został nadany numer identyfikacji podatkowej (NIP) oraz numer REGON.
-” ,
+Wniosek o przyznanie pomocy może być złożony przez koło gospodyń wiejskich, które zostało wpisane do Krajowego Rejestru Kół Gospodyń Wiejskich, o którym mowa w art. 35 ustawy, zwane dalej „kołem gospodyń wiejskich”, i któremu w związku z tym wpisem został nadany numer identyfikacji podatkowej (NIP) oraz numer REGON. ” ,
 b)
-w ust. 2 pkt 3 i 4 otrzymują brzmienie:
-„
+w ust. 2 pkt 3 i 4 otrzymują brzmienie: „
 3)
 numer identyfikacji podatkowej (NIP);
 4)
-numer REGON;
-” ,
+numer REGON; ” ,
 c)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Prezes Agencji przedstawia ministrowi właściwemu do spraw rozwoju regionalnego w okresach miesięcznych, w terminie do 10. dnia każdego miesiąca według stanu za miesiąc poprzedni, informacje o liczbie złożonych wniosków o przyznanie pomocy oraz o kwotach wnioskowanej pomocy.
-” ,
+Prezes Agencji przedstawia ministrowi właściwemu do spraw rozwoju regionalnego w okresach miesięcznych, w terminie do 10. dnia każdego miesiąca według stanu za miesiąc poprzedni, informacje o liczbie złożonych wniosków o przyznanie pomocy oraz o kwotach wnioskowanej pomocy. ” ,
 d)
-w ust. 5 pkt 1 i 2 otrzymują brzmienie:
-„
+w ust. 5 pkt 1 i 2 otrzymują brzmienie: „
 1)
 wykorzystania przyznanej pomocy na realizację zadań, o których mowa w art. 2 ust. 3 ustawy, w całości do dnia 31 grudnia roku, w którym przyznano pomoc;
 2)
-rozliczenia przyznanej pomocy przez przedłożenie sprawozdania z wydatkowania pomocy w terminie do dnia 31 stycznia roku następującego po roku, w którym przyznano pomoc;
-” ,
+rozliczenia przyznanej pomocy przez przedłożenie sprawozdania z wydatkowania pomocy w terminie do dnia 31 stycznia roku następującego po roku, w którym przyznano pomoc; ” ,
 e)
-w ust. 6 część wspólna otrzymuje brzmienie:
-„
+w ust. 6 część wspólna otrzymuje brzmienie: „
 – z zastrzeżeniem art. 36 i art. 36a ustawy.
 ” ,
 f)
-ust. 7 otrzymuje brzmienie:
-„
+ust. 7 otrzymuje brzmienie: „
 7.
-Pomoc może zostać przyznana kołu gospodyń wiejskich raz w roku.
-” ;
+Pomoc może zostać przyznana kołu gospodyń wiejskich raz w roku. ” ;
 2)
-w § 4 ust. 1 otrzymuje brzmienie:
-„
+w § 4 ust. 1 otrzymuje brzmienie: „
 1.
-Pomoc kołu gospodyń wiejskich wypłaca się niezwłocznie po dniu wydania decyzji o przyznaniu pomocy.
-” .
+Pomoc kołu gospodyń wiejskich wypłaca się niezwłocznie po dniu wydania decyzji o przyznaniu pomocy. ” .
 § 2.
 Pomoc finansowa w ramach środków, o których mowa w art. 36a ust. 1 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. poz. 2212 oraz z 2019 r. poz. 693) może także zostać przyznana kołu gospodyń wiejskich, któremu przyznano pomoc finansową w ramach środków, o których mowa w art. 36 ust. 1 ustawy, o ile przyznana pomoc finansowa została rozliczona zgodnie z § 5 ust. 6 rozporządzenia zmienianego w § 1.
 § 3.
@@ -91,6 +77,5 @@ Do wniosków o przyznanie pomocy finansowej złożonych od dnia 1 stycznia 2019 
 § 6.
 Do pomocy finansowej w ramach środków, o których mowa w art. 36 ust. 1 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich, stosuje się przepisy dotychczasowe.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 

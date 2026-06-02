@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-27 |
 | Data wydania | 2018-10-11 |
-| Wejście w życie | 2018-10-12 |
 | Ostatnia zmiana | 2025-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001948) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1948/text.pdf) |
 
@@ -35,5 +34,15 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie sta
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Załącznik – Sądy powszechne i wojskowe
-SĄDY POWSZECHNE I WOJSKOWE Stanowiska pomocnicze sekretarka/sekretarz transkrybent wykształcenie średnie lub średnie branżowe, umiejętność obsługi komputera i urządzeń biurowych starszy wartownik/wartownik-konwojent wartownik/wartownik-konwojent według odrębnych przepisów, a w przypadku starszegowartownika/wartownika-konwojenta -dodatkowo 5 lat pracyna stanowisku wartownika/wartownika-konwojenta woźny sądowyoperator ksiąg wieczystychgoniec wykształcenie średnie lub średnie branżowe Stanowiska obsługi technicznej i gospodarczej kierowca według odrębnych przepisów maszynistka telefonistka/telefonista operator urządzeń elektronicznych/powielających wykształcenie średnie lub średnie branżowe, a w przypadku maszynistki -dodatkowo umiejętność biegłego pisania magazynier wykształcenie średnie lub średnie branżowe rzemieślnik/konserwator robotnik gospodarczy palacz c.o. wykształcenie zasadnicze portierdozorcasprzątaczka wykształcenie podstawowe
+SĄDY POWSZECHNE I WOJSKOWE Stanowiska pomocnicze sekretarka/sekretarz transkrybent wykształcenie średnie lub średnie branżowe, umiejętność obsługi komputera i urządzeń biurowych starszy wartownik/wartownik-konwojent wartownik/wartownik-konwojent według odrębnych przepisów,
+a w przypadku starszego
+wartownika/
+wartownika-konwojenta –
+dodatkowo 5 lat pracy
+na stanowisku wartownika/
+wartownika-konwojenta woźny sądowy
+operator ksiąg wieczystych
+goniec wykształcenie średnie lub średnie branżowe Stanowiska obsługi technicznej i gospodarczej kierowca według odrębnych przepisów maszynistka telefonistka/telefonista operator urządzeń elektronicznych/powielających wykształcenie średnie lub średnie branżowe, a w przypadku maszynistki -dodatkowo umiejętność biegłego pisania magazynier wykształcenie średnie lub średnie branżowe rzemieślnik/konserwator robotnik gospodarczy palacz c.o. wykształcenie zasadnicze portier
+dozorca
+sprzątaczka wykształcenie podstawowe
 

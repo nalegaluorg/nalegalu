@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 13 listopada 2020 r. w sprawie szczegółowego zakresu informacji oraz rodzaju i formy dokumentów dołączanych do wniosku o wydanie zezwolenia na prowadzenie działalności w charakterze krajowej instytucji płatniczej
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 13 listopada 2020 r. w sprawie szczegółowego zakresu informacji oraz rodzaju i formy dokumentów dołączanych do wniosku o wydanie zezwolenia na prowadzenie działalności w charakterze krajowej instytucji płatniczej Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-13 |
 | Data wydania | 2020-12-14 |
-| Wejście w życie | 2020-12-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002225) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2225/text.pdf) |
 
@@ -387,8 +386,7 @@ osób, które bezpośrednio lub pośrednio posiadają znaczny pakiet akcji lub u
 a)
 osób fizycznych – imię i nazwisko oraz miejsce zamieszkania i adres,
 b)
-osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej – firmę, siedzibę i adres
-z uwzględnieniem informacji o wielkości posiadanego pakietu akcji lub udziałów wnioskodawcy;
+osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej – firmę, siedzibę i adres – z uwzględnieniem informacji o wielkości posiadanego pakietu akcji lub udziałów wnioskodawcy;
 2)
 osób zarządzających obejmują imię i nazwisko oraz miejsce zamieszkania i adres.
 2.
@@ -505,6 +503,5 @@ Zamiast oryginału dokumentu może być przedstawiony jego odpis, jeżeli jego z
 § 19.
 Przepisy rozporządzenia stosuje się do postępowań w sprawie wydania zezwolenia na prowadzenie działalności w charakterze krajowej instytucji płatniczej lub jego zmiany wszczętych od dnia wejścia w życie rozporządzenia.
 § 20.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 listopada 2014 r. w sprawie szczegółowego zakresu informacji oraz rodzaju i formy dokumentów dołączanych do wniosku o wydanie zezwolenia na prowadzenie działalności w charakterze krajowej instytucji płatniczej (Dz. U. poz. 1805), które utraciło moc z dniem 21 grudnia 2018 r. zgodnie z art. 26 ust. 1 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw (Dz. U. poz. 1075).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 listopada 2014 r. w sprawie szczegółowego zakresu informacji oraz rodzaju i formy dokumentów dołączanych do wniosku o wydanie zezwolenia na prowadzenie działalności w charakterze krajowej instytucji płatniczej (Dz. U. poz. 1805), które utraciło moc z dniem 21 grudnia 2018 r. zgodnie z art. 26 ust. 1 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw (Dz. U. poz. 1075). 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 listopada 2014 r. w sprawie szczegółowego zakresu informacji oraz rodzaju i formy dokumentów dołączanych do wniosku o wydanie zezwolenia na prowadzenie działalności w charakterze krajowej instytucji płatniczej (Dz. U. poz. 1805), które utraciło moc z dniem 21 grudnia 2018 r. zgodnie z art. 26 ust. 1 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw (Dz. U. poz. 1075).
 

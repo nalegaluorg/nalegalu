@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-15 |
 | Data wydania | 2015-07-02 |
-| Wejście w życie | 2015-08-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000935) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/935/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2011 r. Nr 118, poz. 687, z późn. zm.) po art. 15 dodaje się art. 15a w brzmieniu: „
+**Art. 1.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2011 r. Nr 118, poz. 687, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 144, poz. 853, z 2012 r. poz. 951, z 2013 r. poz. 1650 oraz z 2014 r. poz. 1741.) po art. 15 dodaje się art. 15a w brzmieniu: „
 
 **Art. 15a.**
 
@@ -55,7 +54,7 @@ source: "eli-html"
 
 9. Koszt ekshumacji, przeniesienia zwłok i szczątków, wykupu nowego miejsca pochówku oraz budowy albo odtworzenia nagrobka, odpowiadającego istniejącym, ponosi wojewoda. ” .
 
-**Art. 2.** W ustawie z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych (Dz. U. Nr 39, poz. 311, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych (Dz. U. Nr 39, poz. 311, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1959 r. Nr 11, poz. 62, z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 113, poz. 984, z 2005 r. Nr 169, poz. 1420 i Nr 175, poz. 1462 oraz z 2006 r. Nr 144, poz. 1041.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 1 otrzymuje brzmienie: „
 
@@ -99,5 +98,5 @@ source: "eli-html"
 
 2. W przypadku odkrycia podczas badań archeologicznych w miejscu objętym pracami poszukiwawczymi, o których mowa w art. 53 pkt 8, zwłok lub szczątków ludzkich, oprócz prokuratora należy powiadomić również prokuratora Instytutu Pamięci. ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 144, poz. 853, z 2012 r. poz. 951, z 2013 r. poz. 1650 oraz z 2014 r. poz. 1741. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1959 r. Nr 11, poz. 62, z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 113, poz. 984, z 2005 r. Nr 169, poz. 1420 i Nr 175, poz. 1462 oraz z 2006 r. Nr 144, poz. 1041.
 

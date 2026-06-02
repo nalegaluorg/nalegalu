@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-26 |
 | Data wydania | 2012-05-07 |
-| Wejście w życie | 2012-05-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/484/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 10 ust. 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 10 ust. 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 85, poz. 924 i Nr 154, poz. 1799, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 60, poz. 535 i Nr 180, poz. 1759, z 2004 r. Nr 116, poz. 1207, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 143, Nr 96, poz. 620 i Nr 238, poz. 1578 oraz z 2011 r. Nr 291, poz. 1707.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe zasady i tryb przyznawania nagrody rocznej osobom, o których mowa w art. 2 pkt 1–4 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zwanej dalej „ustawą”, zatrudnionym w podmiotach, dla których minister właściwy do spraw oświaty i wychowania jest organem założycielskim albo organem, który nadzoruje lub utworzył dany podmiot.
 § 2.
@@ -37,7 +36,7 @@ podmiot – jednostkę organizacyjną wymienioną w art. 1 pkt 9, 10 i 12 ustawy
 2)
 uprawniony – osobę, o której mowa w § 1;
 3)
-rok obrotowy – rok obrotowy w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2009 r. Nr 152, poz. 1223, z późn. zm.) poprzedzający rok, w którym przyznaje się nagrodę roczną.
+rok obrotowy – rok obrotowy w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2009 r. Nr 152, poz. 1223, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 165, poz. 1316, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 102, poz. 585, Nr 199, poz. 1175 i Nr 232, poz. 1378.) poprzedzający rok, w którym przyznaje się nagrodę roczną.
 § 3.
 Nagrodę roczną uprawnionemu, o którym mowa w art. 2 pkt 1 ustawy, przyznaje minister właściwy do spraw oświaty i wychowania.
 § 4.
@@ -92,5 +91,5 @@ dokument potwierdzający spełnienie warunku, o którym mowa w § 4 ust. 1 pkt 3
 2)
 oświadczenie o terminowym regulowaniu przez podmiot zobowiązań publicznoprawnych.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 28 grudnia 2001 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi (Dz. U. z 2002 r. Nr 4, poz. 38), które w dniu wejścia w życie niniejszego rozporządzenia traci moc w odniesieniu do podmiotów, dla których minister właściwy do spraw oświaty i wychowania jest organem założycielskim albo organem, który nadzoruje lub utworzył dany podmiot. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 85, poz. 924 i Nr 154, poz. 1799, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 60, poz. 535 i Nr 180, poz. 1759, z 2004 r. Nr 116, poz. 1207, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 143, Nr 96, poz. 620 i Nr 238, poz. 1578 oraz z 2011 r. Nr 291, poz. 1707. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 165, poz. 1316, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 102, poz. 585, Nr 199, poz. 1175 i Nr 232, poz. 1378. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 28 grudnia 2001 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi (Dz. U. z 2002 r. Nr 4, poz. 38), które w dniu wejścia w życie niniejszego rozporządzenia traci moc w odniesieniu do podmiotów, dla których minister właściwy do spraw oświaty i wychowania jest organem założycielskim albo organem, który nadzoruje lub utworzył dany podmiot.
 

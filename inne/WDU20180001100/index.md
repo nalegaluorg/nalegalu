@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-22 |
 | Data wydania | 2018-06-07 |
-| Wejście w życie | 2018-06-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1100/text.pdf) |
 
@@ -86,5 +85,5 @@ W przypadku gdy kurs jest organizowany poza miejscem zamieszkania repatriantów 
 2.
 Repatriantowi lub kandydatowi na repatrianta przysługuje zwrot kosztów przejazdu na podstawie oświadczenia, o którym mowa w ust. 1, w wysokości stanowiącej iloczyn przejechanych kilometrów oraz stawki za jeden kilometr przebiegu, określonej w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200 oraz z 2018 r. poz. 12, 79, 138, 650 i 1039).
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 maja 2002 r. w sprawie rodzajów kursów języka polskiego i adaptacyjnych oraz sposobu ich organizacji dla repatrianta i członków jego najbliższej rodziny przybyłych do Rzeczypospolitej Polskiej (Dz. U. poz. 613), które utraciło moc z dniem 1 listopada 2017 r. zgodnie z art. 9 ust. 1 ustawy z dnia 7 kwietnia 2017 r. o zmianie ustawy o repatriacji oraz niektórych innych ustaw (Dz. U. poz. 858). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 maja 2002 r. w sprawie rodzajów kursów języka polskiego i adaptacyjnych oraz sposobu ich organizacji dla repatrianta i członków jego najbliższej rodziny przybyłych do Rzeczypospolitej Polskiej (Dz. U. poz. 613), które utraciło moc z dniem 1 listopada 2017 r. zgodnie z art. 9 ust. 1 ustawy z dnia 7 kwietnia 2017 r. o zmianie ustawy o repatriacji oraz niektórych innych ustaw (Dz. U. poz. 858).
 

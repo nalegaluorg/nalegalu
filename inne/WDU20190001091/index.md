@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
+# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy o Policji oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych oraz ustawę z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-16 |
 | Data wydania | 2019-06-12 |
-| Wejście w życie | 2019-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001091) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1091/text.pdf) |
 
@@ -125,7 +124,7 @@ source: "eli-html"
 - **1)** w art. 137: w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
     - **a)**
 
-- **5)** prowadzone o ten sam czyn postępowanie karne, karne skarbowe lub w sprawach o wykroczenia zostało zakończone prawomocnym wyrokiem uniewinniającym albo orzeczeniem o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, z późn. zm.). ” , ust. 2 otrzymuje brzmienie: „
+- **5)** prowadzone o ten sam czyn postępowanie karne, karne skarbowe lub w sprawach o wykroczenia zostało zakończone prawomocnym wyrokiem uniewinniającym albo orzeczeniem o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1387, 1467, 1481 i 2077 oraz z 2019 r. poz. 76.). ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Postępowanie dyscyplinarne wznawia się na wniosek ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek jego małżonka, krewnych w linii prostej, rodzeństwa, przysposabiającego lub przysposobionego oraz rzecznika dyscyplinarnego, jeżeli w wyniku orzeczenia Trybunału Konstytucyjnego stracił moc lub uległ zmianie przepis prawny będący podstawą wydania orzeczenia dyscyplinarnego. ” , ust. 5 i 6 otrzymują brzmienie: „
@@ -186,7 +185,7 @@ source: "eli-html"
 - **3)** w art. 261: w ust. 1 po pkt 4 dodaje się pkt 4a w brzmieniu: „
     - **a)**
 
-- **4a)** prowadzone o ten sam czyn postępowanie karne, karne skarbowe lub w sprawach o wykroczenia zostało zakończone prawomocnym wyrokiem uniewinniającym albo orzeczeniem o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, z późn. zm.); ” , ust. 2 otrzymuje brzmienie: „
+- **4a)** prowadzone o ten sam czyn postępowanie karne, karne skarbowe lub w sprawach o wykroczenia zostało zakończone prawomocnym wyrokiem uniewinniającym albo orzeczeniem o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1387, 1467, 1481 i 2077 oraz z 2019 r. poz. 76.); ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Postępowanie dyscyplinarne wznawia się z urzędu lub na wniosek ukaranego. W przypadku jego śmierci postępowanie wznawia się na wniosek jego małżonka, krewnych w linii prostej, rodzeństwa, przysposabiającego lub przysposobionego. ” , ust. 5 otrzymuje brzmienie: „
@@ -253,12 +252,12 @@ source: "eli-html"
 - **2)** obowiązki funkcjonariuszy Straży Marszałkowskiej podczas wykonywania tych czynności,
 - **3)** uprawnienia osób, wobec których czynności są podejmowane, w tym treść pouczeń o prawach przysługujących tym osobom,
 - **4)** wzory protokołów, o których mowa w ust. 7c,
-- **5)** sposób dokumentowania czynności niewymagających spisania protokołów uwzględniając niezbędne środki ostrożności przy wykonywaniu uprawnień, a także skuteczność działań podejmowanych przez Straż Marszałkowską oraz poszanowanie praw osób, wobec których działania te są podejmowane. ” ;
+- **5)** sposób dokumentowania czynności niewymagających spisania protokołów – uwzględniając niezbędne środki ostrożności przy wykonywaniu uprawnień, a także skuteczność działań podejmowanych przez Straż Marszałkowską oraz poszanowanie praw osób, wobec których działania te są podejmowane. ” ;
 - **2)** w art. 58 wyrazy „art. 186” zastępuje się wyrazami „art. 1867”;
 - **3)** w art. 138: w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
     - **a)**
 
-- **5)** prowadzone o ten sam czyn postępowanie karne, karne skarbowe lub w sprawach o wykroczenia zostało zakończone prawomocnym wyrokiem uniewinniającym albo orzeczeniem o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, z późn. zm.). ” , ust. 4 i 5 otrzymują brzmienie: „
+- **5)** prowadzone o ten sam czyn postępowanie karne, karne skarbowe lub w sprawach o wykroczenia zostało zakończone prawomocnym wyrokiem uniewinniającym albo orzeczeniem o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1387, 1467, 1481 i 2077 oraz z 2019 r. poz. 76.). ” , ust. 4 i 5 otrzymują brzmienie: „
     - **b)**
 
 4. Postępowania dyscyplinarnego nie wznawia się po upływie 10 lat od dnia uprawomocnienia się orzeczenia dyscyplinarnego.
@@ -278,7 +277,7 @@ source: "eli-html"
 
 **Art. 12.**
 
-1. Jeżeli przed dniem wejścia w życie ustawy policjant zwolniony ze służby, z powodu wymierzenia mu kary dyscyplinarnej wydalenia ze służby, orzeczonej za przewinienie dyscyplinarne, które wypełniało jednocześnie znamiona przestępstwa lub przestępstwa skarbowego (wykroczenia lub wykroczenia skarbowego), został w postępowaniu karnym, karnym skarbowym lub w sprawach o wykroczenia, prawomocnie uniewinniony albo zapadło prawomocne orzeczenie o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987 i 2399 oraz z 2019 r. poz. 150 i 679) albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, z późn. zm.), to w terminie 3 miesięcy od dnia wejścia w życie ustawy, przysługuje mu prawo wniesienia wniosku o wznowienie postępowania dyscyplinarnego.
+1. Jeżeli przed dniem wejścia w życie ustawy policjant zwolniony ze służby, z powodu wymierzenia mu kary dyscyplinarnej wydalenia ze służby, orzeczonej za przewinienie dyscyplinarne, które wypełniało jednocześnie znamiona przestępstwa lub przestępstwa skarbowego (wykroczenia lub wykroczenia skarbowego), został w postępowaniu karnym, karnym skarbowym lub w sprawach o wykroczenia, prawomocnie uniewinniony albo zapadło prawomocne orzeczenie o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987 i 2399 oraz z 2019 r. poz. 150 i 679) albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1387, 1467, 1481 i 2077 oraz z 2019 r. poz. 76.), to w terminie 3 miesięcy od dnia wejścia w życie ustawy, przysługuje mu prawo wniesienia wniosku o wznowienie postępowania dyscyplinarnego.
 
 2. W przypadku śmierci policjanta, o którym mowa w ust. 1, prawo wniesienia wniosku o wznowienie postępowania dyscyplinarnego, przysługuje jego małżonkowi, krewnym w linii prostej, rodzeństwu, przysposabiającemu lub przysposobionemu.
 
@@ -293,12 +292,12 @@ source: "eli-html"
 **Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 136b ust. 6 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 136b ust. 6 ustawy zmienianej w art. 2,
-- **2)** art. 152 ust. 1 ustawy zmienianej w art. 4 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 152 ust. 1 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** art. 152 ust. 1 ustawy zmienianej w art. 4 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 152 ust. 1 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą – nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 10, który wchodzi w życie z dniem 12 lipca 2019 r.;
 - **2)** art. 9 pkt 1 i art. 11 pkt 2, które wchodzą w życie po upływie 4 miesięcy od dnia ogłoszenia;
-- **3)** art. 7 pkt 1 i 2, które wchodzą w życie z dniem 23 stycznia 2020 r.
+- **3)** art. 7 pkt 1 i 2, które wchodzą w życie z dniem 23 stycznia 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych oraz ustawę z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1387, 1467, 1481 i 2077 oraz z 2019 r. poz. 76. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1387, 1467, 1481 i 2077 oraz z 2019 r. poz. 76. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1387, 1467, 1481 i 2077 oraz z 2019 r. poz. 76. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1387, 1467, 1481 i 2077 oraz z 2019 r. poz. 76.
 
 

@@ -22,7 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-11 |
 | Data wydania | 2021-03-18 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/494/text.pdf) |
 
 Treść obwieszczenia
@@ -31,24 +31,21 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 3 października 2003 r. w sprawie rozkładu czasu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2013 r. poz. 935), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 24 czerwca 2020 r. zmieniającym rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1172).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 czerwca 2020 r. zmieniającego rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1172), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 czerwca 2020 r. zmieniającego rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1172), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 3 października 2003 r. w sprawie rozkładu czasu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego
 Na podstawie art. 51 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27 i 2320) zarządza się, co następuje:
 § 1.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Prezesa Rady Ministrów z dnia 24 czerwca 2020 r. zmieniającego rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1172), które weszło w życie z dniem 17 lipca 2020 r..
 Funkcjonariusz Agencji Bezpieczeństwa Wewnętrznego, zwany dalej „funkcjonariuszem”, pełni służbę w rozkładzie czasu służby:
 1)
 zmianowym lub równorzędnym – na stanowiskach służbowych, na których wymaga się pełnienia służby w systemie zmianowym lub w sposób ciągły;
 2)
-podstawowym – na pozostałych stanowiskach służbowych,
-uwzględniającym 40-godzinny tydzień służby, w 3-miesięcznym okresie rozliczeniowym.
-1a.
+podstawowym – na pozostałych stanowiskach służbowych, – uwzględniającym 40-godzinny tydzień służby, w 3-miesięcznym okresie rozliczeniowym.
+1aDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Wymiar czasu służby funkcjonariusza, który odbywa szkolenie zawodowe, jest określony przez program lub harmonogram szkolenia.
-1b.
+1bDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Wymiar czasu służby funkcjonariusza, który odbywa podróż służbową, jest równoważny z wymiarem czasu poświęconego na wykonywanie obowiązków z uwzględnieniem co najmniej 11 godzin nieprzerwanego wypoczynku.
 2.
 Rozkład czasu służby w Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, wprowadza i zmienia Szef ABW, uwzględniając potrzebę i specyfikę służby w poszczególnych jednostkach organizacyjnych ABW.
@@ -68,7 +65,7 @@ W zmianowym rozkładzie czasu służby na zmiany trwające po 8 godzin – po 8 
 W zmianowym rozkładzie czasu służby na zmiany trwające po 12 godzin – po 12 godzinach służby funkcjonariuszowi udziela się 24 godzin czasu na wypoczynek, a jeżeli pełnił służbę w porze nocnej, funkcjonariuszowi udziela się 48 godzin czasu na wypoczynek.
 4.
 W zmianowym rozkładzie czasu służby na zmiany trwające po 24 godziny – po 24 godzinach służby funkcjonariuszowi udziela się 72 godzin czasu na wypoczynek.
-4a.
+4aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 W przypadku wystąpienia szczególnych potrzeb służby oraz w przypadku gdy nieobecność funkcjonariusza spowodowałaby poważne zakłócenia organizacji służby na stanowiskach, na których jest wymagane utrzymanie pełnienia służby w sposób ciągły, czas na wypoczynek, o którym mowa w ust. 4, udzielony funkcjonariuszowi, może obejmować mniej niż 72 godziny przez okres nie dłuższy niż miesiąc, jednak nie może być krótszy niż 24 godziny.
 5.
 Funkcjonariusz, do którego obowiązków należy kierowanie pojazdem samochodowym, może pełnić służbę do 12 godzin na dobę, w tym kierować pojazdem nie więcej niż 10 godzin. Czas nieprzerwanego kierowania samochodem nie może przekroczyć 6 godzin, po których następuje przerwa trwająca 30 minut.
@@ -92,8 +89,7 @@ w niektórych jednostkach organizacyjnych ABW,
 2)
 w niektórych komórkach organizacyjnych,
 3)
-na niektórych stanowiskach służbowych
-jeżeli jest to uzasadnione warunkami lokalnymi albo gdy wymaga tego szczególny charakter wykonywanych zadań.
+na niektórych stanowiskach służbowych – jeżeli jest to uzasadnione warunkami lokalnymi albo gdy wymaga tego szczególny charakter wykonywanych zadań.
 3.
 W indywidualnych przypadkach uzasadnionych względami osobistymi funkcjonariusza lub w doraźnych sytuacjach określonych potrzebami służby kompetencje Szefa ABW, o których mowa w ust. 2, przysługują kierownikowi jednostki organizacyjnej ABW.
 § 5.
@@ -143,8 +139,7 @@ Jeżeli funkcjonariusz wykonywał polecone czynności służbowe w czasie dyżur
 1)
 po godzinach służby, to za czas ich wykonywania udziela się w tym samym wymiarze czasu wolnego od służby;
 2)
-w dniu wolnym od służby, niedzielę lub święto, przysługuje mu dzień wolny od służby.
-Przepisy § 8 stosuje się odpowiednio.
+w dniu wolnym od służby, niedzielę lub święto, przysługuje mu dzień wolny od służby. Przepisy § 8 stosuje się odpowiednio.
 § 12.
 1.
 Do służby w porze nocnej w godzinach od 22.00 do 6.00 oraz w niedziele i święta nie wyznacza się funkcjonariusza:
@@ -161,9 +156,8 @@ kobiety w ciąży,
 3)
 kobiety opiekującej się dzieckiem do 4 lat, bez jej zgody,
 4)
-będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki, bez jego zgody
-nie może przekroczyć 8 godzin na dobę.
-§ 12a.
+będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki, bez jego zgody – nie może przekroczyć 8 godzin na dobę.
+§ 12aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 1.
 Funkcjonariuszowi bezpośrednio po zakończeniu podróży służbowej przysługuje czas wolny od służby w wymiarze co najmniej 11 godzin, jeżeli:
 1)
@@ -182,5 +176,5 @@ Wymiar czasu służby ulega zmniejszeniu o liczbę godzin usprawiedliwionej nieo
 2.
 Po okresie usprawiedliwionej nieobecności w służbie funkcjonariusz podejmuje służbę w pierwszym dniu, który był dla niego planowany jako dzień służby, o ile kierownik jednostki organizacyjnej ABW lub upoważniony przez niego kierownik komórki organizacyjnej nie ustali inaczej.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2003 r.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2003 r.Niniejsze rozporządzenie było poprzedzone zarządzeniem Szefa Urzędu Ochrony Państwa z dnia 17 września 1997 r. w sprawie ustalania rozkładu czasu służby funkcjonariuszy Urzędu Ochrony Państwa (M. P. poz. 672 i poz. 854), zachowanym w mocy na podstawie art. 15 ustawy z dnia 6 lipca 2001 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawy o odszkodowaniach przysługujących w razie wypadków i chorób pozostających w związku ze służbą w Milicji Obywatelskiej, ustawy o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawy o uposażeniu żołnierzy, ustawy o Policji, ustawy o Urzędzie Ochrony Państwa, ustawy o Państwowej Straży Pożarnej, ustawy o kontroli skarbowej, ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawy o Służbie Więziennej oraz ustawy o Inspekcji Celnej (Dz. U. poz. 877) oraz art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676). 1) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Prezesa Rady Ministrów z dnia 24 czerwca 2020 r. zmieniającego rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1172), które weszło w życie z dniem 17 lipca 2020 r. 2) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 5) Niniejsze rozporządzenie było poprzedzone zarządzeniem Szefa Urzędu Ochrony Państwa z dnia 17 września 1997 r. w sprawie ustalania rozkładu czasu służby funkcjonariuszy Urzędu Ochrony Państwa (M. P. poz. 672 i poz. 854), zachowanym w mocy na podstawie art. 15 ustawy z dnia 6 lipca 2001 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawy o odszkodowaniach przysługujących w razie wypadków i chorób pozostających w związku ze służbą w Milicji Obywatelskiej, ustawy o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawy o uposażeniu żołnierzy, ustawy o Policji, ustawy o Urzędzie Ochrony Państwa, ustawy o Państwowej Straży Pożarnej, ustawy o kontroli skarbowej, ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawy o Służbie Więziennej oraz ustawy o Inspekcji Celnej (Dz. U. poz. 877) oraz art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676).
 

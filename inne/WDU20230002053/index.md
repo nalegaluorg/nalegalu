@@ -26,13 +26,33 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2053/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach Rozdział 1 – Przepisy ogólne Rozdział 2 – Ordery Rozdział 3 – Odznaczenia Rozdział 4 – Kapituły Orderów Rozdział 5 – Tryb nadawania i wręczania orderów i odznaczeń Rozdział 6 – Pozbawienie orderów i odznaczeń Rozdział 7 – Przepisy szczególne i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2022 r. poz. 1031), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o orderach i odznaczeniach (Dz. U. poz. 1457) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 sierpnia 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2–4 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o orderach i odznaczeniach (Dz. U. poz. 1457), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2–4 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o orderach i odznaczeniach (Dz. U. poz. 1457), które stanowią: „
+Przepisy ogólne
+Ordery
+Odznaczenia
+Kapituły Orderów
+Tryb nadawania i wręczania orderów i odznaczeń
+Pozbawienie orderów i odznaczeń
+Przepisy szczególne i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Ordery
+
+#### Rozdział 3 – Odznaczenia
+
+#### Rozdział 4 – Kapituły Orderów
+
+#### Rozdział 5 – Tryb nadawania i wręczania orderów i odznaczeń
+
+#### Rozdział 6 – Pozbawienie orderów i odznaczeń
+
+#### Rozdział 7 – Przepisy szczególne i końcowe
 
 **Art. 2.**
 
@@ -50,7 +70,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -86,7 +106,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Ordery i odznaczenia wojenne są nadawane tylko w czasie wojny lub nie później niż przez pięć lat od jej zakończenia.
 
-2. (uchylony)
+2. (uchylony)Przez art. 1 pkt 1 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o orderach i odznaczeniach (Dz. U. poz. 1457), która weszła w życie z dniem 12 sierpnia 2023 r.
 
 **Art. 7.** Ordery i odznaczenia mogą być nadawane pośmiertnie.
 
@@ -108,9 +128,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 2. Prezydent, w drodze rozporządzenia, może określić sposób, a także okoliczności noszenia odznak orderów i odznaczeń. Prezydent, w drodze rozporządzenia, może określić:
 
 - **1)** starszeństwo orderów i odznaczeń, wynikające z tradycji narodowych w wyróżnianiu zasług,
-- **2)** kolejność noszenia odznak orderów i odznaczeń, wynikającą z ich starszeństwa, oraz skróty literowe orderów i odznaczeń uwzględniając ordery i odznaczenia ustanowione po odzyskaniu niepodległości w 1918 r., których nadawanie zostało zakończone.
+- **2)** kolejność noszenia odznak orderów i odznaczeń, wynikającą z ich starszeństwa, oraz skróty literowe orderów i odznaczeń – uwzględniając ordery i odznaczenia ustanowione po odzyskaniu niepodległości w 1918 r., których nadawanie zostało zakończone.
 
-#### Rozdział 2 Ordery
+#### Rozdział 2
 
 **Art. 10.**
 
@@ -176,7 +196,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Order Zasługi Rzeczypospolitej Polskiej dzieli się na pięć klas: klasa I – Krzyż Wielki Orderu Zasługi Rzeczypospolitej Polskiej, klasa II – Krzyż Komandorski z Gwiazdą Orderu Zasługi Rzeczypospolitej Polskiej, klasa III – Krzyż Komandorski Orderu Zasługi Rzeczypospolitej Polskiej, klasa IV – Krzyż Oficerski Orderu Zasługi Rzeczypospolitej Polskiej, klasa V – Krzyż Kawalerski Orderu Zasługi Rzeczypospolitej Polskiej.
 
-#### Rozdział 3 Odznaczenia
+#### Rozdział 3
 
 **Art. 14.**
 
@@ -247,15 +267,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. Przed nadaniem Krzyża Zasługi wyższego stopnia powinny upłynąć co najmniej 3 lata; odstępstwo od tej zasady jest dopuszczalne wyjątkowo.
 
-**Art. 17.**
-
-1. Ustanowiony przez Prezydenta Rzeczypospolitej Polskiej rozporządzeniem z dnia 7 marca 1928 r. Krzyż Zasługi za Dzielność nadaje się policjantom, funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Służby Ochrony Państwa, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Straży Pożarnej oraz żołnierzom za czyny spełnione w specjalnie ciężkich warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, w obronie prawa, nietykalności granic państwowych oraz życia, mienia i bezpieczeństwa obywateli.
-
-2. Krzyż Zasługi za Dzielność może być nadany tej samej osobie wielokrotnie.
-
-3. Krzyż Zasługi za Dzielność może być wyjątkowo nadawany także innym osobom niewymienionym w ust. 1.
-
-1. Nagrodą za zasługi podczas działań bojowych przeciwko aktom terroru w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa w czasie pokoju są odznaczenia wojskowe:
+**Art. 17.** 1Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.. Ustanowiony przez Prezydenta Rzeczypospolitej Polskiej rozporządzeniem z dnia 7 marca 1928 r. Krzyż Zasługi za Dzielność nadaje się policjantom, funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Służby Ochrony Państwa, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Straży Pożarnej oraz żołnierzom za czyny spełnione w specjalnie ciężkich warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, w obronie prawa, nietykalności granic państwowych oraz życia, mienia i bezpieczeństwa obywateli. 2. Krzyż Zasługi za Dzielność może być nadany tej samej osobie wielokrotnie. 3. Krzyż Zasługi za Dzielność może być wyjątkowo nadawany także innym osobom niewymienionym w ust. 1. 1. Nagrodą za zasługi podczas działań bojowych przeciwko aktom terroru w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa w czasie pokoju są odznaczenia wojskowe:
 
 - **1)** Wojskowy Krzyż Zasługi z Mieczami;
 - **2)** Morski Krzyż Zasługi z Mieczami;
@@ -283,7 +295,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. Krzyże, o których mowa w ust. 1, mogą być nadane tej samej osobie dwukrotnie.
 
-6. (uchylony) Nagrodą za wybitne osiągnięcia w realizacji zadań wynikających z bycia członkiem ochotniczej straży pożarnej jest Krzyż Świętego Floriana.
+6. (uchylony)Przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1. Nagrodą za wybitne osiągnięcia w realizacji zadań wynikających z bycia członkiem ochotniczej straży pożarnej jest Krzyż Świętego Floriana.
 
 **Art. 18.**
 
@@ -311,7 +323,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 6. Prezydent określi, w drodze rozporządzenia, nazwę „Gwiazdy” właściwą dla sposobu działania kontyngentu, wstążkę, która uwzględnia w swojej kolorystyce barwy przyjęte dla kontyngentu, okucie na wstążkę oraz wzór rysunkowy odznaki – kierując się koniecznością jednolitego określenia nazwy, wstążki, okucia oraz wzoru rysunkowego dla poszczególnych odznaczeń.
 
-#### Rozdział 4 Kapituły Orderów
+#### Rozdział 4
 
 **Art. 20.**
 
@@ -385,7 +397,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 28.** Kancelaria Prezydenta Rzeczypospolitej Polskiej zapewnia Kapitułom Orderów obsługę administracyjną i techniczną.
 
-#### Rozdział 5 Tryb nadawania i wręczania orderów i odznaczeń
+#### Rozdział 5
 
 **Art. 29.**
 
@@ -403,27 +415,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. Nieprzedstawienie Prezydentowi wniosku o nadanie Krzyża Wolności i Solidarności przez organ uprawniony wymaga zawiadomienia zgłaszającego inicjatywę.
 
-**Art. 31.**
-
-1. Wnioski o nadanie orderów i odznaczeń wojennych i wojskowych przedstawia Prezydentowi Minister Obrony Narodowej, z zastrzeżeniem ust. 2, 2a i 3.
-
-2. Wnioski o nadanie Krzyża Wojskowego oraz odznaczeń wojskowych o charakterze pamiątkowym mających w nazwie wyraz „Gwiazda” przedstawia Prezydentowi Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych.
-
-2a. Wnioski o nadanie orderów i odznaczeń wojskowych przedstawia Prezydentowi Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych nie później niż przez 2 lata od zakończenia działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa, w czasie których zaistniały przesłanki do nadania orderu lub odznaczenia.
-
-2b. Przepis ust. 2a nie ma zastosowania do wniosków o nadanie odznaczeń wojskowych o charakterze pamiątkowym mających w nazwie wyraz „Gwiazda”.
-
-3. Wnioski o nadanie Krzyża Zasługi za Dzielność przedstawia Prezydentowi minister właściwy do spraw wewnętrznych albo Minister Obrony Narodowej.
-
-4. Wnioski o nadanie Medalu za Długoletnie Pożycie Małżeńskie przedstawiają Prezydentowi wojewodowie.
-
-5. Wniosek o nadanie orderu lub odznaczenia osobie nieposiadającej obywatelstwa polskiego lub zamieszkałej stale za granicą przedstawia Prezydentowi minister właściwy do spraw zagranicznych.
-
-6. Wnioski o nadanie Krzyża Wolności i Solidarności przedstawia Prezydentowi Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, a w przypadku osób nieposiadających obywatelstwa polskiego lub zamieszkałych stale za granicą – Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu w porozumieniu z ministrem właściwym do spraw zagranicznych.
-
-7. Wnioski o nadanie Medalu Virtus et Fraternitas przedstawia Prezydentowi Dyrektor Instytutu Solidarności i Męstwa imienia Witolda Pileckiego po uzyskaniu pozytywnej opinii Rady Pamięci, o której mowa w art. 5 pkt 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego (Dz. U. z 2022 r. poz. 475), a w przypadku osób nieposiadających obywatelstwa polskiego lub zamieszkałych stale za granicą – Dyrektor Instytutu Solidarności i Męstwa imienia Witolda Pileckiego po uzyskaniu pozytywnej opinii Rady Pamięci, o której mowa w art. 5 pkt 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego, oraz po zasięgnięciu opinii ministra właściwego do spraw zagranicznych.
-
-8. Wnioski o nadanie Krzyża Świętego Floriana przedstawia Prezydentowi minister właściwy do spraw wewnętrznych. Wniosek o nadanie orderu lub odznaczenia powinien zawierać informację o karalności osoby, której dotyczy.
+**Art. 31.** 1Ze zmianą wprowadzoną przez art. 1 pkt 4 lit. a ustawy, o której mowa w odnośniku 1.. Wnioski o nadanie orderów i odznaczeń wojennych i wojskowych przedstawia Prezydentowi Minister Obrony Narodowej, z zastrzeżeniem ust. 2, 2a i 3. 2. Wnioski o nadanie Krzyża Wojskowego oraz odznaczeń wojskowych o charakterze pamiątkowym mających w nazwie wyraz „Gwiazda” przedstawia Prezydentowi Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych. 2aDodany przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.. Wnioski o nadanie orderów i odznaczeń wojskowych przedstawia Prezydentowi Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych nie później niż przez 2 lata od zakończenia działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa, w czasie których zaistniały przesłanki do nadania orderu lub odznaczenia. 2bDodany przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.. Przepis ust. 2a nie ma zastosowania do wniosków o nadanie odznaczeń wojskowych o charakterze pamiątkowym mających w nazwie wyraz „Gwiazda”. 3. Wnioski o nadanie Krzyża Zasługi za Dzielność przedstawia Prezydentowi minister właściwy do spraw wewnętrznych albo Minister Obrony Narodowej. 4. Wnioski o nadanie Medalu za Długoletnie Pożycie Małżeńskie przedstawiają Prezydentowi wojewodowie. 5. Wniosek o nadanie orderu lub odznaczenia osobie nieposiadającej obywatelstwa polskiego lub zamieszkałej stale za granicą przedstawia Prezydentowi minister właściwy do spraw zagranicznych. 6. Wnioski o nadanie Krzyża Wolności i Solidarności przedstawia Prezydentowi Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, a w przypadku osób nieposiadających obywatelstwa polskiego lub zamieszkałych stale za granicą – Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu w porozumieniu z ministrem właściwym do spraw zagranicznych. 7. Wnioski o nadanie Medalu Virtus et Fraternitas przedstawia Prezydentowi Dyrektor Instytutu Solidarności i Męstwa imienia Witolda Pileckiego po uzyskaniu pozytywnej opinii Rady Pamięci, o której mowa w art. 5 pkt 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego (Dz. U. z 2022 r. poz. 475), a w przypadku osób nieposiadających obywatelstwa polskiego lub zamieszkałych stale za granicą – Dyrektor Instytutu Solidarności i Męstwa imienia Witolda Pileckiego po uzyskaniu pozytywnej opinii Rady Pamięci, o której mowa w art. 5 pkt 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego, oraz po zasięgnięciu opinii ministra właściwego do spraw zagranicznych. 8. Wnioski o nadanie Krzyża Świętego Floriana przedstawia Prezydentowi minister właściwy do spraw wewnętrznych. Wniosek o nadanie orderu lub odznaczenia powinien zawierać informację o karalności osoby, której dotyczy.
 
 **Art. 32.** Z wnioskiem o odznaczenie zasłużonych osób zmarłych można występować wyjątkowo w uznaniu szczególnych i godnych upamiętnienia zasług dla Rzeczypospolitej Polskiej. Przed podjęciem decyzji o nadaniu orderu lub odznaczenia danej osobie Prezydent może zwrócić się do Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu o przekazanie informacji na temat istnienia w archiwum Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu dokumentów dotyczących kandydata do odznaczenia. Przed podjęciem decyzji o nadaniu orderu lub odznaczenia Prezydent może zwrócić się do właściwych organów, organizacji lub instytucji o przekazanie informacji, które mogą mieć istotne znaczenie w sprawie o nadanie orderu lub odznaczenia.
 
@@ -448,7 +440,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. W razie nadania orderu lub odznaczenia pośmiertnie, stosuje się ceremoniał dekoracji ustalany każdorazowo, odpowiednio do okoliczności.
 
-#### Rozdział 6 Pozbawienie orderów i odznaczeń
+#### Rozdział 6
 
 **Art. 36.**
 
@@ -461,9 +453,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Postanowienia Prezydenta w sprawie pozbawienia orderu lub odznaczenia są publikowane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-#### Rozdział 7 Przepisy szczególne i końcowe
+#### Rozdział 7
 
 **Art. 37.** Państwo ma wyłączne prawo wyrobu odznak orderów i odznaczeń. Prawo to wykonuje jednostka gospodarcza określona przez Kancelarię Prezydenta. (uchylony)
 
-**Art. 38.** Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą – Przepisy wprowadzające ustawę o orderach i odznaczeniach, uchylające przepisy o tytułach honorowych oraz zmieniające niektóre ustawy.
+**Art. 38.** Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą – Przepisy wprowadzające ustawę o orderach i odznaczeniach, uchylające przepisy o tytułach honorowych oraz zmieniające niektóre ustawyUstawa weszła w życie z dniem 23 grudnia 1992 r.. 1) Przez art. 1 pkt 1 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o orderach i odznaczeniach (Dz. U. poz. 1457), która weszła w życie z dniem 12 sierpnia 2023 r. 2) Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez art. 1 pkt 4 lit. a ustawy, o której mowa w odnośniku 1. 5) Dodany przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 6) Ustawa weszła w życie z dniem 23 grudnia 1992 r.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-15 |
 | Data wydania | 2016-12-19 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002066) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2066/text.pdf) |
 
@@ -95,7 +94,7 @@ source: "eli-html"
 - **1)** szczegółowy tryb podziału rezerwy celowej na wypłatę świadczeń pieniężnych oraz przekazywania środków na pokrycie wydatków związanych z udzielaniem tych świadczeń,
 - **2)** termin składania wniosków o dotacje, o których mowa w art. 24b ust. 2,
 - **3)** wzór wniosku o udzielenie dotacji, o którym mowa w art. 24b ust. 2,
-- **4)** termin przekazywania informacji, o których mowa w art. 24c ust. 3 i 4 uwzględniając konieczność efektywnego wykorzystania środków rezerwy celowej oraz rozliczania przez jednostki samorządu terytorialnego otrzymanych w formie dotacji środków budżetowych. ” .
+- **4)** termin przekazywania informacji, o których mowa w art. 24c ust. 3 i 4 – uwzględniając konieczność efektywnego wykorzystania środków rezerwy celowej oraz rozliczania przez jednostki samorządu terytorialnego otrzymanych w formie dotacji środków budżetowych. ” .
 
 **Art. 2.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2016 r. poz. 1990 i 1948) w art. 449 w ust. 2 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „
 

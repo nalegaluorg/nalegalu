@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-10 |
 | Data wydania | 2016-10-13 |
-| Wejście w życie | 2016-10-14 |
 | Ostatnia zmiana | 2024-10-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1681/text.pdf) |
 
@@ -33,33 +32,25 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 8 sierpnia 2013 r. w sprawie 
 1)
 w § 1 w ust. 2 uchyla się pkt 1–3 i pkt 5–7;
 2)
-w § 2 ust. 3 otrzymuje brzmienie:
-„
+w § 2 ust. 3 otrzymuje brzmienie: „
 3.
-Biuro Informacyjne Krajowego Rejestru Karnego udostępnia podmiotom zobowiązanym do przesyłania kart rejestracyjnych i zawiadomień strukturę dokumentu elektronicznego XML oraz schemat XSD na ich wniosek. Wniosek złożony drogą elektroniczną opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
-” ;
+Biuro Informacyjne Krajowego Rejestru Karnego udostępnia podmiotom zobowiązanym do przesyłania kart rejestracyjnych i zawiadomień strukturę dokumentu elektronicznego XML oraz schemat XSD na ich wniosek. Wniosek złożony drogą elektroniczną opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” ;
 3)
 w § 4:
 a)
-ust. 1 i 2 otrzymują brzmienie:
-„
+ust. 1 i 2 otrzymują brzmienie: „
 1.
 Certyfikaty do weryfikacji zaawansowanego podpisu elektronicznego uprawniającego do podpisywania kart rejestracyjnych i zawiadomień wydaje, zawiesza i unieważnia Centrum Kompetencji i Informatyzacji Sądownictwa.
 2.
-Zaawansowane podpisy elektroniczne i certyfikaty dla sędziów i pracowników sądu sporządzających karty rejestracyjne i zawiadomienia są wydawane odpowiednio na wniosek przewodniczącego wydziału lub kierownika sekretariatu skierowany do podmiotu, o którym mowa w ust. 1.
-” ,
+Zaawansowane podpisy elektroniczne i certyfikaty dla sędziów i pracowników sądu sporządzających karty rejestracyjne i zawiadomienia są wydawane odpowiednio na wniosek przewodniczącego wydziału lub kierownika sekretariatu skierowany do podmiotu, o którym mowa w ust. 1. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Wniosek o wydanie zaawansowanych podpisów elektronicznych i certyfikatów, a także o zawieszenie i unieważnienie certyfikatów składa się w postaci elektronicznej przez stronę internetową podmiotu, o którym mowa w ust. 1.
-” ;
+Wniosek o wydanie zaawansowanych podpisów elektronicznych i certyfikatów, a także o zawieszenie i unieważnienie certyfikatów składa się w postaci elektronicznej przez stronę internetową podmiotu, o którym mowa w ust. 1. ” ;
 4)
-§ 5 otrzymuje brzmienie:
-„
+§ 5 otrzymuje brzmienie: „
 § 5.
-Biuro Informacyjne Krajowego Rejestru Karnego weryfikuje zaawansowany podpis elektroniczny, którym opatrzono kartę rejestracyjną lub zawiadomienie przesłane do systemu teleinformatycznego, wykorzystując dane udostępniane przez podmiot, o którym mowa w § 4 ust. 1.
-” .
+Biuro Informacyjne Krajowego Rejestru Karnego weryfikuje zaawansowany podpis elektroniczny, którym opatrzono kartę rejestracyjną lub zawiadomienie przesłane do systemu teleinformatycznego, wykorzystując dane udostępniane przez podmiot, o którym mowa w § 4 ust. 1. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

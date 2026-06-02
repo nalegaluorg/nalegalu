@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 8 września 2021 r. w sprawie szczegółowych warunków wynagradzania oraz wysokości wynagrodzenia członków rad nadzorczych wojewódzkich funduszy ochrony środowiska i gospodarki wodnej za udział w pracach rady
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 8 września 2021 r. w sprawie szczegółowych warunków wynagradzania oraz wysokości wynagrodzenia członków rad nadzorczych wojewódzkich funduszy ochrony środowiska i gospodarki wodnej za udział w pracach rady Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-08 |
 | Data wydania | 2021-09-10 |
-| Wejście w życie | 2021-10-01 |
 | Ostatnia zmiana | 2025-01-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001669) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1669/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 400f ust. 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 400f ust. 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162, 1535, 1642 i 1648.) zarządza się, co następuje:
 § 1.
 1.
 Członkom rad nadzorczych wojewódzkich funduszy ochrony środowiska i gospodarki wodnej za udział w pracach rady nadzorczej przysługuje wynagrodzenie miesięczne.
@@ -49,6 +48,5 @@ Jeżeli członkostwo w radzie nadzorczej obejmuje jedynie część danego miesi�
 3.
 W przypadku nieusprawiedliwionej nieobecności członka rady nadzorczej na posiedzeniu rady nadzorczej lub niewzięcia przez niego udziału w podejmowaniu uchwał w trybie pisemnym albo z wykorzystaniem środków bezpośredniego porozumiewania się na odległość, gdy zostało zarządzone podejmowanie uchwał w tych trybach, wysokość wynagrodzenia, o którym mowa w § 1 ust. 1, ulega zmniejszeniu. W takim przypadku wysokość wynagrodzenia jest proporcjonalna do liczby posiedzeń rady nadzorczej w danym miesiącu, w których członek rady nadzorczej uczestniczył, oraz zarządzonego podejmowania uchwał w trybie pisemnym albo z wykorzystaniem środków bezpośredniego porozumiewania się na odległość, w których członek rady nadzorczej wziął udział, w stosunku do łącznej liczby posiedzeń rady nadzorczej w danym miesiącu oraz zarządzonego podejmowania uchwał w trybie pisemnym albo z wykorzystaniem środków bezpośredniego porozumiewania się na odległość zakończonego w danym miesiącu.
 § 3.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162, 1535, 1642 i 1648.
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162, 1535, 1642 i 1648.
 

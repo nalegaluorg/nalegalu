@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz niektórych innych ustaw
+# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. – Prawo spółdzielcze, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-25 |
 | Data wydania | 2015-08-13 |
-| Wejście w życie | 2015-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1166/text.pdf) |
 
+System ochrony
+Zrzeszenie zintegrowane
 1.
 Bank zrzeszający oraz zrzeszone z nim banki spółdzielcze mogą utworzyć zrzeszenie zintegrowane na podstawie umowy zrzeszenia zintegrowanego. Banki, które utworzyły zrzeszenie zintegrowane, są jego uczestnikami. Uczestnikami zrzeszenia zintegrowanego są również banki zrzeszające i banki spółdzielcze, które przystąpią do zrzeszenia zintegrowanego po jego utworzeniu.
 2.
@@ -88,11 +89,9 @@ Bank zrzeszający sporządza, według stanu na koniec każdego kwartału, inform
 1.
 Bank spółdzielczy może wypowiedzieć umowę zrzeszenia zintegrowanego z zachowaniem określonego w tej umowie okresu wypowiedzenia wynoszącego od 18 do 24 miesięcy.
 2.
-Umowa zrzeszenia zintegrowanego określa sposób i terminy rozliczenia wzajemnych zobowiązań w wypadku wypowiedzenia umowy na podstawie ust. 1.
-” ;
+Umowa zrzeszenia zintegrowanego określa sposób i terminy rozliczenia wzajemnych zobowiązań w wypadku wypowiedzenia umowy na podstawie ust. 1. ” ;
 14)
-art. 35 otrzymuje brzmienie:
-„
+art. 35 otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2014 r. poz. 109) wprowadza się następujące zmiany:
 
@@ -108,7 +107,7 @@ art. 35 otrzymuje brzmienie:
 - **2)** w art. 2: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
 
-- **1)** banku spółdzielczym – należy przez to rozumieć bank będący spółdzielnią, do którego w zakresie nieuregulowanym w niniejszej ustawie oraz w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.) zwaną dalej „ustawą – Prawo bankowe”, stosuje się przepisy ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2013 r. poz. 1443, z późn. zm.) zwaną dalej „ustawą – Prawo spółdzielcze”;
+- **1)** banku spółdzielczym – należy przez to rozumieć bank będący spółdzielnią, do którego w zakresie nieuregulowanym w niniejszej ustawie oraz w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978 i 1166.) zwaną dalej „ustawą – Prawo bankowe”, stosuje się przepisy ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2013 r. poz. 1443, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2015 r. poz. 201, 838, 891 i 1166.) zwaną dalej „ustawą – Prawo spółdzielcze”;
 - **2)** banku zrzeszającym – należy przez to rozumieć bank w formie spółki akcyjnej, utworzony przez banki spółdzielcze, jeżeli bank ten zrzesza co najmniej jeden bank spółdzielczy na zasadach określonych w art. 16 oraz posiada kapitał założycielski wynoszący co najmniej czterokrotność kwoty określonej w art. 32 ust. 1 ustawy – Prawo bankowe; ” , uchyla się pkt 5, dodaje się pkt 6–9 w brzmieniu: „
     - **b)**
     - **c)**
@@ -133,7 +132,7 @@ art. 35 otrzymuje brzmienie:
 5. Ograniczeń, o których mowa w ust. 1a i 2, nie stosuje się do banku spółdzielczego będącego uczestnikiem systemu ochrony, w przypadku:
 
 - **1)** gdy bank ten jest stroną umowy o utworzeniu konsorcjum bankowego, z zastrzeżeniem, iż siedziba kredytobiorcy powinna znajdować się w zakresie działania przynajmniej jednego z uczestników konsorcjum;
-- **2)** udzielania kredytów jednostkom podporządkowanym bankowi zrzeszającemu w rozumieniu art. 3 ust. 1 pkt 42 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) lub jednostkom, na które bank zrzeszający wywiera znaczący wpływ w rozumieniu art. 3 ust. 1 pkt 36 tej ustawy;
+- **2)** udzielania kredytów jednostkom podporządkowanym bankowi zrzeszającemu w rozumieniu art. 3 ust. 1 pkt 42 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045 i 1166.) lub jednostkom, na które bank zrzeszający wywiera znaczący wpływ w rozumieniu art. 3 ust. 1 pkt 36 tej ustawy;
 - **3)** wykonywania czynności bankowych z członkami banku spółdzielczego;
 - **4)** wykonywania czynności bankowych z jednostką zarządzającą systemem ochrony. ” ;
 - **5)** art. 5a otrzymuje brzmienie: „
@@ -199,7 +198,7 @@ art. 35 otrzymuje brzmienie:
 
 - **13)** po rozdziale 3 dodaje się rozdziały 3a i 3b w brzmieniu: „
 
-#### Rozdział 3a System ochrony
+#### Rozdział 3a
 
 **Art. 22a.**
 
@@ -243,7 +242,7 @@ art. 35 otrzymuje brzmienie:
 - **1)** bank zrzeszający albo
 - **2)** jednostka zarządzająca systemem ochrony, utworzona w tym celu przez uczestników systemu ochrony, zwana dalej „jednostką zarządzającą”.
 
-2. Jednostkę zarządzającą tworzy się w formie spółki akcyjnej albo spółdzielni osób prawnych, do których w zakresie nieuregulowanym niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.) albo ustawy – Prawo spółdzielcze, z wyłączeniem art. 37 oraz Części I Tytułu I Działu VIII tej ustawy.
+2. Jednostkę zarządzającą tworzy się w formie spółki akcyjnej albo spółdzielni osób prawnych, do których w zakresie nieuregulowanym niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4 i 978.) albo ustawy – Prawo spółdzielcze, z wyłączeniem art. 37 oraz Części I Tytułu I Działu VIII tej ustawy.
 
 3. Każdy z uczestników systemu ochrony jest obowiązany objąć i posiadać, do dnia rozwiązania albo wygaśnięcia umowy systemu ochrony, co najmniej minimalną liczbę akcji albo udziałów jednostki zarządzającej, określoną w jej statucie i umowie systemu ochrony.
 
@@ -378,7 +377,7 @@ art. 35 otrzymuje brzmienie:
 
 7. Komisja Nadzoru Finansowego odwołuje członka organu zarządzającego systemem ochrony w przypadku zaistnienia przesłanek określonych w art. 22b ust. 3 pkt 1–3 ustawy – Prawo bankowe.
 
-#### Rozdział 3b Zrzeszenie zintegrowane
+#### Rozdział 3b
 
 **Art. 35.**
 
@@ -428,16 +427,16 @@ art. 35 otrzymuje brzmienie:
 
 10. Środki zgromadzone na funduszu restrukturyzacji banków spółdzielczych w dniu 31 grudnia 2021 r. oraz środki pochodzące ze spłat rat kapitałowych pożyczek dokonywanych po dniu 31 grudnia 2021 r. stanowią źródło finansowania Bankowego Funduszu Gwarancyjnego w rozumieniu art. 15 ustawy o Bankowym Funduszu Gwarancyjnym. ” ;
 
-- **16)** w art. 39 uchyla się ust. 2 i 3. W ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2013 r. poz. 1443, z późn. zm.) w art. 89 uchyla się § 2.
+- **16)** w art. 39 uchyla się ust. 2 i 3. W ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2013 r. poz. 1443, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 201, 838 i 891.) w art. 89 uchyla się § 2.
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73, 211, 933 i 978.) wprowadza się następujące zmiany:
 
 - **1)** w art. 16 w ust. 1 pkt 58 otrzymuje brzmienie: „
 - **58)** wydatków i kosztów bezpośrednio sfinansowanych z dochodów (przychodów), o których mowa w art. 17 ust. 1 pkt 14a, 23, 24, 42, 47, 48, 52, 53 i 55, lub ze środków, o których mowa w art. 33 ust. 4 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie; ” ;
 - **2)** w art. 17 w ust. 1 w pkt 54 kropkę zastępuje się średnikiem i dodaje się pkt 55 w brzmieniu: „
 - **55)** wpłaty uczestników systemu ochrony na fundusz pomocowy, o których mowa w art. 22g ust. 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2014 r. poz. 109 oraz z 2015 r. poz. 1166) – w części przeznaczonej na realizację celów, o których mowa w art. 22g ust. 1 tej ustawy. ” .
 
-**Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) w art. 70 ust. 2 otrzymuje brzmienie: „ 2. Ogłoszenie, o którym mowa w ust. 1, następuje w „Monitorze Sądowym i Gospodarczym”. ” . W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2014 r. poz. 1866 oraz z 2015 r. poz. 978) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978 i 1045.) w art. 70 ust. 2 otrzymuje brzmienie: „ 2. Ogłoszenie, o którym mowa w ust. 1, następuje w „Monitorze Sądowym i Gospodarczym”. ” . W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2014 r. poz. 1866 oraz z 2015 r. poz. 978) wprowadza się następujące zmiany:
 
 - **1)** w art. 13 po ust. 1a dodaje się ust. 1b w brzmieniu: „
 
@@ -498,5 +497,5 @@ art. 35 otrzymuje brzmienie:
 
 **Art. 12.** Przepisy ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy w roku podatkowym rozpoczynającym się w 2015 r.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 9 w zakresie dodawanego art. 10b, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 9 w zakresie dodawanego art. 10b, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. – Prawo spółdzielcze, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978 i 1166. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2015 r. poz. 201, 838, 891 i 1166. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045 i 1166. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 265 i 1161 oraz z 2015 r. poz. 4 i 978. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 201, 838 i 891. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73, 211, 933 i 978. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978 i 1045.
 

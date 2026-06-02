@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 19 kwietnia 2018 r. zmieniające rozporządzenie w sprawie obsługi naziemnej w portach lotniczych
+# Rozporządzenie Ministra Infrastrukturyz dnia 19 kwietnia 2018 r. zmieniające rozporządzenie w sprawie obsługi naziemnej w portach lotniczych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-19 |
 | Data wydania | 2018-04-26 |
-| Wejście w życie | 2018-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000788) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/788/text.pdf) |
 
@@ -35,6 +34,5 @@ w § 3 uchyla się pkt 6;
 2)
 w § 19 w ust. 2 uchyla się pkt 9.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
+Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 

@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-24 |
 | Data wydania | 2019-11-07 |
-| Wejście w życie | 2019-11-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2151/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 51 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 51 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2399 oraz z 2019 r. poz. 53, 125, 1091 i 1726.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 24 kwietnia 2003 r. w sprawie rozkładu czasu służby funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 793) § 4 otrzymuje brzmienie:
-„
+W rozporządzeniu Prezesa Rady Ministrów z dnia 24 kwietnia 2003 r. w sprawie rozkładu czasu służby funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 793) § 4 otrzymuje brzmienie: „
 § 4.
 1.
 Funkcjonariusz pełni służbę w podstawowym rozkładzie czasu służby przez 8 godzin codziennie od poniedziałku do piątku.
@@ -41,8 +39,7 @@ W przypadku uzasadnionym potrzebami służby kierownik może:
 1)
 ustalić w kierowanej przez niego jednostce organizacyjnej inne dni pełnienia służby niż określone w ust. 1 lub inne godziny rozpoczynania służby niż określone w ust. 2;
 2)
-za zgodą lub na polecenie Szefa Agencji Wywiadu wydać podległym mu funkcjonariuszom pełniącym służbę w podstawowym rozkładzie czasu służby polecenie pełnienia służby w niedzielę, święto lub w dniu dodatkowo wolnym od służby.
-” .
+za zgodą lub na polecenie Szefa Agencji Wywiadu wydać podległym mu funkcjonariuszom pełniącym służbę w podstawowym rozkładzie czasu służby polecenie pełnienia służby w niedzielę, święto lub w dniu dodatkowo wolnym od służby. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2399 oraz z 2019 r. poz. 53, 125, 1091 i 1726.
 

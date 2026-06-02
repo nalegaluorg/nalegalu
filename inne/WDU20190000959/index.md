@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw
+# Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawę z dnia 20 lipca 2018 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-26 |
 | Data wydania | 2019-05-22 |
-| Wejście w życie | 2019-06-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000959) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/959/text.pdf) |
+
+Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 25 lutego 2019 r., pod numerem 2019/0081/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 **Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499 i 399) wprowadza się następujące zmiany:
 
@@ -79,7 +80,7 @@ source: "eli-html"
 
 3. Apteka ogólnodostępna lub punkt apteczny może, za zgodą właściwego miejscowo wojewódzkiego inspektora farmaceutycznego, przekazać produkty lecznicze:
 
-- **1)** domowi pomocy społecznej – wyłącznie w celu umożliwienia i organizowania pomocy, o której mowa w art. 58 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.);
+- **1)** domowi pomocy społecznej – wyłącznie w celu umożliwienia i organizowania pomocy, o której mowa w art. 58 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.);
 - **2)** organowi władzy publicznej – wyłącznie w celu zaspokojenia potrzeb wynikających ze stanu wyjątkowego, stanu wojennego lub stanu klęski żywiołowej;
 - **3)** podmiotowi wykonującemu działalność leczniczą, na podstawie zapotrzebowania, o którym mowa w art. 96 ust. 1 – wyłącznie w celu jego zaopatrzenia.
 
@@ -160,7 +161,6 @@ source: "eli-html"
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 2 i 3, które wchodzą w życie po upływie trzech miesięcy od dnia ogłoszenia;
-- **2)** art. 3, który wchodzi w życie z dniem 1 lipca 2019 r.
-- **1)** , Niniejszą ustawą zmienia się ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawę z dnia 20 lipca 2018 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw. 2) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 25 lutego 2019 r., pod numerem 2019/0081/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.
+- **2)** art. 3, który wchodzi w życie z dniem 1 lipca 2019 r. 1), Niniejszą ustawą zmienia się ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawę z dnia 20 lipca 2018 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw. 2) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 25 lutego 2019 r., pod numerem 2019/0081/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.
 
 

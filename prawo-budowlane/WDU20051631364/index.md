@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy – Prawo budowlane oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy – Prawo budowlane oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-28 |
 | Data wydania | 2005-08-26 |
-| Wejście w życie | 2005-09-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051631364) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1364/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2003 r. Nr 207, poz. 2016, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2003 r. Nr 207, poz. 2016, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41, Nr 92, poz. 881, Nr 93, poz. 888 i Nr 96, poz. 959 oraz z 2005 r. Nr 113, poz. 954 i Nr 163, poz. 1362.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: pkt 3 otrzymuje brzmienie: „
     - **a)**
@@ -112,10 +111,23 @@ source: "eli-html"
 - **6)** sposobu stwierdzania przygotowania zawodowego oraz uzyskiwania specjalizacji techniczno-budowlanej,
 - **7)** ograniczania zakresu uprawnień budowlanych,
 - **8)** określania rodzajów specjalizacji techniczno-budowlanych, w taki sposób, aby mając na względzie zachowanie interesu osób ubiegających się o nadanie uprawnień budowlanych, rozporządzenie nie stwarzało problemów interpretacyjnych przy stosowaniu w praktyce. ” ;
-- **6)** w art. 29: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) wolno stojących parterowych budynków gospodarczych, wiat i altan oraz przydomowych oranżerii (ogrodów zimowych) o powierzchni zabudowy do 25 m2, przy czym łączna liczba tych obiektów na działce nie może przekraczać dwóch na każde 500 m2 powierzchni działki; ” , – pkt 7 otrzymuje brzmienie: „ 7) wolno stojących kabin telefonicznych, szaf i słupków telekomunikacyjnych; ” , – pkt 20 otrzymuje brzmienie: „ 20) przyłączy: elektroenergetycznych, wodociągowych, kanalizacyjnych, gazowych, cieplnych i telekomunikacyjnych; ” , – po pkt 26 kropkę zastępuje się średnikiem i dodaje się pkt 27 w brzmieniu: „ 27) instalacji telekomunikacyjnych w obrębie budynków będących w użytkowaniu. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) remoncie istniejących obiektów budowlanych i urządzeń budowlanych, z wyjątkiem obiektów wpisanych do rejestru zabytków; ” , – uchyla się pkt 2 i 3, – pkt 4 otrzymuje brzmienie: „ 4) dociepleniu budynków o wysokości do 12 m; ” , – pkt 6 otrzymuje brzmienie: „ 6) instalowaniu tablic i urządzeń reklamowych, z wyjątkiem usytuowanych na obiektach wpisanych do rejestru zabytków w rozumieniu przepisów o ochronie zabytków i opiece nad zabytkami oraz z wyjątkiem reklam świetlnych i podświetlanych usytuowanych poza obszarem zabudowanym w rozumieniu przepisów o ruchu drogowym; ” , – uchyla się pkt 7 i 8, – w pkt 9 zdanie wstępne otrzymuje brzmienie: „ wykonywaniu urządzeń melioracji wodnych szczegółowych, z wyjątkiem: ” , – pkt 10 otrzymuje brzmienie: „ 10) wykonywaniu ujęć wód śródlądowych powierzchniowych o wydajności poniżej 50 m3/h oraz obudowy ujęć wód podziemnych; ” , – pkt 11 otrzymuje brzmienie: „ 11) przebudowie sieci elektroenergetycznych, wodociągowych, kanalizacyjnych, gazowych, cieplnych i telekomunikacyjnych; ” , – pkt 12 otrzymuje brzmienie: „ 12) przebudowie dróg, torów i urządzeń kolejowych; ” , – pkt 13 otrzymuje brzmienie: „ 13) wykonywaniu podczyszczeniowych robót czerpalnych polegających na usunięciu spłyceń dna, powstałych w czasie użytkowania basenów i kanałów portowych oraz torów wodnych, w stosunku do głębokości technicznych (eksploatacyjnych) i nachyleń skarp podwodnych akwenu; ” , – po pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „ 16) montażu wolno stojących kolektorów słonecznych. ” ;
+- **6)** w art. 29: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** wolno stojących parterowych budynków gospodarczych, wiat i altan oraz przydomowych oranżerii (ogrodów zimowych) o powierzchni zabudowy do 25 m2, przy czym łączna liczba tych obiektów na działce nie może przekraczać dwóch na każde 500 m2 powierzchni działki; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** wolno stojących kabin telefonicznych, szaf i słupków telekomunikacyjnych; ” , pkt 20 otrzymuje brzmienie: „
+- **20)** przyłączy: elektroenergetycznych, wodociągowych, kanalizacyjnych, gazowych, cieplnych i telekomunikacyjnych; ” , po pkt 26 kropkę zastępuje się średnikiem i dodaje się pkt 27 w brzmieniu: „
+- **27)** instalacji telekomunikacyjnych w obrębie budynków będących w użytkowaniu. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **b)**
 
+- **1)** remoncie istniejących obiektów budowlanych i urządzeń budowlanych, z wyjątkiem obiektów wpisanych do rejestru zabytków; ” , – uchyla się pkt 2 i 3, pkt 4 otrzymuje brzmienie: „
+- **4)** dociepleniu budynków o wysokości do 12 m; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** instalowaniu tablic i urządzeń reklamowych, z wyjątkiem usytuowanych na obiektach wpisanych do rejestru zabytków w rozumieniu przepisów o ochronie zabytków i opiece nad zabytkami oraz z wyjątkiem reklam świetlnych i podświetlanych usytuowanych poza obszarem zabudowanym w rozumieniu przepisów o ruchu drogowym; ” , – uchyla się pkt 7 i 8, – w pkt 9 zdanie wstępne otrzymuje brzmienie: „ wykonywaniu urządzeń melioracji wodnych szczegółowych, z wyjątkiem: ” , pkt 10 otrzymuje brzmienie: „
+- **10)** wykonywaniu ujęć wód śródlądowych powierzchniowych o wydajności poniżej 50 m3/h oraz obudowy ujęć wód podziemnych; ” , pkt 11 otrzymuje brzmienie: „
+- **11)** przebudowie sieci elektroenergetycznych, wodociągowych, kanalizacyjnych, gazowych, cieplnych i telekomunikacyjnych; ” , pkt 12 otrzymuje brzmienie: „
+- **12)** przebudowie dróg, torów i urządzeń kolejowych; ” , pkt 13 otrzymuje brzmienie: „
+- **13)** wykonywaniu podczyszczeniowych robót czerpalnych polegających na usunięciu spłyceń dna, powstałych w czasie użytkowania basenów i kanałów portowych oraz torów wodnych, w stosunku do głębokości technicznych (eksploatacyjnych) i nachyleń skarp podwodnych akwenu; ” , po pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „
+- **16)** montażu wolno stojących kolektorów słonecznych. ” ;
 - **7)** po art. 29 dodaje się art. 29a w brzmieniu: „
 
 **Art. 29a.**
@@ -145,9 +157,12 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **12)** w art. 36a: uchyla się ust. 4, w ust. 5: – pkt 2 otrzymuje brzmienie: „ 2) charakterystycznych parametrów obiektu budowlanego: kubatury, powierzchni zabudowy, wysokości, długości, szerokości i liczby kondygnacji; ” , – uchyla się pkt 3 i 4, – pkt 6 otrzymuje brzmienie: „ 6) zmiany zamierzonego sposobu użytkowania obiektu budowlanego lub jego części; ” , ust. 6 otrzymuje brzmienie: „
+- **12)** w art. 36a: uchyla się ust. 4, w ust. 5: pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **2)** charakterystycznych parametrów obiektu budowlanego: kubatury, powierzchni zabudowy, wysokości, długości, szerokości i liczby kondygnacji; ” , – uchyla się pkt 3 i 4, pkt 6 otrzymuje brzmienie: „
+- **6)** zmiany zamierzonego sposobu użytkowania obiektu budowlanego lub jego części; ” , ust. 6 otrzymuje brzmienie: „
     - **c)**
 
 6. Projektant dokonuje kwalifikacji zamierzonego odstąpienia oraz jest obowiązany zamieścić w projekcie budowlanym odpowiednie informacje (rysunek i opis) dotyczące odstąpienia, o którym mowa w ust. 5. ” ;
@@ -236,7 +251,7 @@ source: "eli-html"
 3. Urządzenia liniowe, o których mowa w ust. 1, mogą być umieszczane:
 
 - **1)** na obszarach narażonych na niebezpieczeństwo powodzi – na skarpach nasypów drogowych, z wyjątkiem nasypów spełniających jednocześnie funkcję watów przeciwpowodziowych, a w przypadku braku takiej możliwości – na krawędzi korony drogi,
-- **2)** na terenach górskich, zalesionych i w parkach narodowych – w pasie drogowym poza koroną drogi na warunkach określonych przez zarządcę drogi i za jego zgodą. Przepis art. 38 ust. 3 stosuje się odpowiednio.
+- **2)** na terenach górskich, zalesionych i w parkach narodowych – w pasie drogowym poza koroną drogi – na warunkach określonych przez zarządcę drogi i za jego zgodą. Przepis art. 38 ust. 3 stosuje się odpowiednio.
 
 4. Zarządca drogi wydaje zgodę, o której mowa w ust. 3, przed uzyskaniem przez inwestora pozwolenia na budowę lub zgłoszenia budowy albo wykonywania robót budowlanych.
 
@@ -248,7 +263,7 @@ source: "eli-html"
 
 3. Przepisu ust. 2 nie stosuje się przy sytuowaniu reklam poza terenem zabudowy. ” .
 
-**Art. 3.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2000 r. Nr 100, poz. 1086, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2000 r. Nr 100, poz. 1086, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189, Nr 115, poz. 1229 i Nr 125, poz. 1363, z 2003 r. Nr 162, poz. 1568 i Nr 166, poz. 1612, z 2004 r. Nr 10, poz. 76 i Nr 141, poz. 1492 oraz z 2005 r. Nr 130, poz. 1087 i Nr 163, poz. 1362.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7d pkt 2 otrzymuje brzmienie: „
 - **2)** koordynacja usytuowania projektowanych sieci uzbrojenia terenu, ” ;
@@ -260,7 +275,7 @@ source: "eli-html"
 
 2. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, tryb zakładania oraz tryb i warunki prowadzenia geodezyjnej sieci uzbrojenia terenu, koordynacji usytuowania projektowanych sieci, mając na celu bezkolizyjne usytuowanie projektowanych sieci z obiektami budowlanymi. ” .
 
-**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych (Dz. U. Nr 123, poz. 780, z późn. zm.) art. 3 otrzymuje brzmienie: „ Wydatki związane z budową, przebudową, remontem, utrzymaniem, ochroną i zarządzaniem drogami krajowymi, finansowanymi przez ministra właściwego do spraw transportu, ustala się w ustawie budżetowej w wysokości nie niższej niż 12% planowanych na dany rok wpływów z podatku akcyzowego od paliw silnikowych. ” .
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych (Dz. U. Nr 123, poz. 780, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 150, poz. 983, z 2000 r. Nr 12, poz. 136, z 2002 r. Nr 216, poz. 1826 i Nr 240, poz. 2057 oraz z 2003 r. Nr 200, poz. 1953, Nr 203, poz. 1966 i Nr 217, poz. 2124.) art. 3 otrzymuje brzmienie: „ Wydatki związane z budową, przebudową, remontem, utrzymaniem, ochroną i zarządzaniem drogami krajowymi, finansowanymi przez ministra właściwego do spraw transportu, ustala się w ustawie budżetowej w wysokości nie niższej niż 12% planowanych na dany rok wpływów z podatku akcyzowego od paliw silnikowych. ” .
 
 **Art. 5.** W stosunku do osób ubiegających się o uprawnienia budowlane, które przed dniem wejścia w życie ustawy uzyskały wykształcenie wymagane na podstawie przepisów dotychczasowych oraz rozpoczęty odbywanie wymaganej praktyki, stosuje się przepisy dotychczasowe.
 
@@ -268,5 +283,5 @@ source: "eli-html"
 
 **Art. 7.** Do spraw wszczętych a niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisu art. 1 pkt 3, który wchodzi w życie z dniem 1 stycznia 2006 r.
+**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisu art. 1 pkt 3, który wchodzi w życie z dniem 1 stycznia 2006 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41, Nr 92, poz. 881, Nr 93, poz. 888 i Nr 96, poz. 959 oraz z 2005 r. Nr 113, poz. 954 i Nr 163, poz. 1362. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189, Nr 115, poz. 1229 i Nr 125, poz. 1363, z 2003 r. Nr 162, poz. 1568 i Nr 166, poz. 1612, z 2004 r. Nr 10, poz. 76 i Nr 141, poz. 1492 oraz z 2005 r. Nr 130, poz. 1087 i Nr 163, poz. 1362. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 150, poz. 983, z 2000 r. Nr 12, poz. 136, z 2002 r. Nr 216, poz. 1826 i Nr 240, poz. 2057 oraz z 2003 r. Nr 200, poz. 1953, Nr 203, poz. 1966 i Nr 217, poz. 2124.
 

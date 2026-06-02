@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 18 grudnia 2017 r. w sprawie standardów organizacyjnych opieki zdrowotnej w dziedzinie patomorfologii
+# Rozporządzenie Ministra Zdrowiaz dnia 18 grudnia 2017 r. w sprawie standardów organizacyjnych opieki zdrowotnej w dziedzinie patomorfologii Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2328).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-18 |
 | Data wydania | 2017-12-27 |
-| Wejście w życie | 2018-01-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002435) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2435/text.pdf) |
 
@@ -43,22 +42,19 @@ pracownia cytologii:
 a)
 jednostkę albo komórkę organizacyjną zakładu leczniczego albo
 b)
-gabinet lekarza albo lekarzy wykonujących zawód w ramach indywidualnej specjalistycznej praktyki lekarskiej albo grupowej specjalistycznej praktyki lekarskiej
-w których zapewnia się możliwość przygotowania materiału cytologicznego do oceny mikroskopowej oraz przeprowadzenia tej oceny;
+gabinet lekarza albo lekarzy wykonujących zawód w ramach indywidualnej specjalistycznej praktyki lekarskiej albo grupowej specjalistycznej praktyki lekarskiej – w których zapewnia się możliwość przygotowania materiału cytologicznego do oceny mikroskopowej oraz przeprowadzenia tej oceny;
 6)
 pracownia cytometrii przepływowej:
 a)
 jednostkę albo komórkę organizacyjną zakładu leczniczego albo
 b)
-gabinet lekarza albo lekarzy wykonujących zawód w ramach indywidualnej specjalistycznej praktyki lekarskiej albo grupowej specjalistycznej praktyki lekarskiej
-w których przeprowadza się znakowanie przeciwciałami monoklonalnymi lub poliklonalnymi komórek oraz wprowadza się je do cytometru przepływowego wraz z analizą immunofenotypu na komórkach;
+gabinet lekarza albo lekarzy wykonujących zawód w ramach indywidualnej specjalistycznej praktyki lekarskiej albo grupowej specjalistycznej praktyki lekarskiej – w których przeprowadza się znakowanie przeciwciałami monoklonalnymi lub poliklonalnymi komórek oraz wprowadza się je do cytometru przepływowego wraz z analizą immunofenotypu na komórkach;
 7)
 pracownia histopatologii:
 a)
 jednostkę albo komórkę organizacyjną zakładu leczniczego albo
 b)
-gabinet lekarza albo lekarzy wykonujących zawód w ramach indywidualnej specjalistycznej praktyki lekarskiej albo grupowej specjalistycznej praktyki lekarskiej
-w których zapewnia się możliwość przygotowania materiału tkankowego do oceny mikroskopowej, wykonywania badań makroskopowych i badań mikroskopowych materiału tkankowego, a także dostęp do wykonania badań immunohistochemicznych i histochemicznych oraz badań śródoperacyjnych;
+gabinet lekarza albo lekarzy wykonujących zawód w ramach indywidualnej specjalistycznej praktyki lekarskiej albo grupowej specjalistycznej praktyki lekarskiej – w których zapewnia się możliwość przygotowania materiału tkankowego do oceny mikroskopowej, wykonywania badań makroskopowych i badań mikroskopowych materiału tkankowego, a także dostęp do wykonania badań immunohistochemicznych i histochemicznych oraz badań śródoperacyjnych;
 8)
 pracownia sekcyjna – jednostkę albo komórkę organizacyjną zakładu leczniczego, w której wykonuje się badania pośmiertne obejmujące oględziny zewnętrzne oraz otwarcie jam ciała połączone z badaniem makroskopowym narządów wewnętrznych i pobraniem materiału tkankowego do oceny mikroskopowej w celu ustalenia pełnego rozpoznania patomorfologicznego oraz określenia przyczyny zgonu;
 9)
@@ -80,15 +76,13 @@ zakład albo pracownia neuropatologii:
 a)
 jednostkę albo komórkę organizacyjną zakładu leczniczego albo
 b)
-gabinet lekarza albo lekarzy wykonujących zawód w ramach indywidualnej specjalistycznej praktyki lekarskiej albo grupowej specjalistycznej praktyki lekarskiej
-w których wykonuje się wyłącznie badania neuropatologiczne;
+gabinet lekarza albo lekarzy wykonujących zawód w ramach indywidualnej specjalistycznej praktyki lekarskiej albo grupowej specjalistycznej praktyki lekarskiej – w których wykonuje się wyłącznie badania neuropatologiczne;
 15)
 zakład patomorfologii:
 a)
 zakład leczniczy albo jednostkę organizacyjną zakładu leczniczego albo
 b)
-gabinet lekarza albo lekarzy wykonujących zawód w ramach indywidualnej specjalistycznej praktyki lekarskiej albo grupowej specjalistycznej praktyki lekarskiej
-składające się co najmniej z pracowni cytologii i pracowni histopatologii, w których jest możliwe wykonywanie, w miejscu, badań śródoperacyjnych, badań immunohistochemicznych i histochemicznych oraz są zapewnione dostęp do pracowni sekcyjnej i możliwość wykonywania badań genetycznych dla celów diagnostyki patomorfologicznej.
+gabinet lekarza albo lekarzy wykonujących zawód w ramach indywidualnej specjalistycznej praktyki lekarskiej albo grupowej specjalistycznej praktyki lekarskiej – składające się co najmniej z pracowni cytologii i pracowni histopatologii, w których jest możliwe wykonywanie, w miejscu, badań śródoperacyjnych, badań immunohistochemicznych i histochemicznych oraz są zapewnione dostęp do pracowni sekcyjnej i możliwość wykonywania badań genetycznych dla celów diagnostyki patomorfologicznej.
 § 2.
 Wzakładzie patomorfologii, w zakładzie albo pracowni neuropatologii, pracowni histopatologii, pracowni cytologii, pracowni cytometrii przepływowej oraz pracowni sekcyjnej wykonuje się czynności z zakresu patomorfologii zgodnie z wiedzą opartą na dowodach naukowych oraz rekomendowanymi przez Polskie Towarzystwo Patologów, Stowarzyszenie Neuropatologów Polskich, konsultanta krajowego w dziedzinie patomorfologii oraz konsultanta krajowego w dziedzinie neuropatologii wytycznymi lub zaleceniami dotyczącymi sposobu postępowania z materiałem po pobraniu od pacjenta albo ze zwłok, sposobu postępowania z materiałem tkankowym podczas badania makroskopowego, przygotowania materiału do badania oraz zasad opisu badania patomorfologicznego.
 § 3.
@@ -288,6 +282,5 @@ Dokumentacja wewnętrznej kontroli jakości badań jest przechowywana przez okre
 § 8.
 Podmiot wykonujący działalność leczniczą, prowadzący zakład patomorfologii, zakład albo pracownię neuropatologii, pracownię histopatologii, pracownię cytologii lub pracownię cytometrii przepływowej, w którym są wykonywane badania patomorfologiczne, dostosuje swoją działalność do wymagań określonych niniejszym rozporządzeniem, w terminie 2 lat od dnia wejścia w życie niniejszego rozporządzenia.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2328).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2328).
 

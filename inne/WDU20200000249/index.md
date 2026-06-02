@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 24 stycznia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie środowiskowych domów samopomocy
+# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 24 stycznia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie środowiskowych domów samopomocy Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2267).
 
 | Pole | Wartość |
 |---|---|
@@ -39,14 +39,11 @@ rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 maja 2
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 4 grudnia 2014 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 1752), który stanowi:
-„
+§ 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 4 grudnia 2014 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 1752), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r. ” ;
 2)
-§ 2–6 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 grudnia 2018 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 2411), które stanowią:
-„
+§ 2–6 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 grudnia 2018 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 2411), które stanowią: „
 § 2.
 Termin zamknięcia środowiskowego domu samopomocy ustalony na dany rok kalendarzowy przed dniem wejścia w życie § 6 ust. 3–5 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem w trybie, o którym mowa w § 6 ust. 3 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, pozostaje aktualny.
 § 3.
@@ -59,16 +56,12 @@ W przypadku środowiskowego domu samopomocy zlokalizowanego w budynku, w którym
 § 5.
 Pierwsze szkolenie, o którym mowa w § 23 ust. 2 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, przeprowadza się w terminie roku od dnia wejścia w życie niniejszego rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2018 r., z wyjątkiem § 1 pkt 1–11 oraz § 2–5, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2018 r., z wyjątkiem § 1 pkt 1–11 oraz § 2–5, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 maja 2019 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 967), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 maja 2019 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 967), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2267).
-Załącznik – Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 9 grudnia 2010 r. w sprawie środowiskowych domów samopomocy
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2267).
+Załącznik – Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 9 grudnia 2010 r. w sprawie środowiskowych domów samopomocyObecnie działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2267).
 Na podstawie art. 51a ust. 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2019 r. poz. 1507, 1622, 1690, 1818 i 2473) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -96,7 +89,7 @@ opiekunie – należy przez to rozumieć opiekuna prawnego lub opiekuna faktyczn
 uczestniku – należy przez to rozumieć przyjęte do domu osoby z zaburzeniami psychicznymi, w tym:
 a)
 osoby przewlekle psychicznie chore,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 grudnia 2018 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 2411), które weszło w życie z dniem 31 grudnia 2018 r.; wszedł w życie z dniem 11 stycznia 2019 r.)
 osoby z niepełnosprawnością intelektualną w stopniu głębokim, znacznym i umiarkowanym, a także osoby z niepełnosprawnością intelektualną w stopniu lekkim, jeżeli jednocześnie występują inne zaburzenia, zwłaszcza neurologiczne,
 c)
 osoby wykazujące inne przewlekłe zaburzenia czynności psychicznych, które zgodnie ze stanem wiedzy medycznej są zaliczane do zaburzeń psychicznych, z wyłączeniem osób czynnie uzależnionych od środków psychoaktywnych;
@@ -109,11 +102,11 @@ zespole wspierająco-aktywizującym – należy przez to rozumieć kierownika do
 Domy, w zależności od kategorii osób, dla których są przeznaczone, dzielą się na następujące typy:
 1)
 typ A – dla osób przewlekle psychicznie chorych;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r.)
 typ B – dla osób z niepełnosprawnością intelektualną;
 3)
 typ C – dla osób wykazujących inne przewlekłe zaburzenia czynności psychicznych;
-4)
+4Dodany przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 maja 2019 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 967), które weszło w życie z dniem 6 czerwca 2019 r.)
 typ D – dla osób ze spektrum autyzmu lub niepełnosprawnościami sprzężonymi.
 2.
 Dom może obejmować wsparciem więcej niż jedną kategorię osób wymienionych w ust. 1.
@@ -131,11 +124,11 @@ Kierownik domu jest odpowiedzialny za opracowanie dokumentów, o których mowa w
 3.
 Jeżeli dom obejmuje wsparciem więcej niż jedną kategorię osób wymienionych w § 3 ust.1, program działalności domu, o którym mowa w ust. 1 pkt 3, przygotowuje się dla każdego typu domu.
 § 5.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Liczba miejsc w domu usytuowanym w jednym budynku nie może być mniejsza niż 15 i większa niż 60, z zastrzeżeniem ust. 2 i 3.
 2.
 Maksymalna liczba miejsc w domu prowadzonym w kilku odrębnych budynkach nie może być większa niż 120.
-3.
+3Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4..
 Liczba miejsc w domu typu D nie może być mniejsza niż:
 1)
 5 – w przypadku gdy uczestnikami domu są wyłącznie osoby ze spektrum autyzmu;
@@ -146,11 +139,11 @@ Liczba miejsc w domu typu D nie może być mniejsza niż:
 Dom działa co najmniej 5 dni w tygodniu po 8 godzin dziennie, w tym co najmniej przez 6 godzin dziennie są prowadzone zajęcia z uczestnikami, a pozostały czas przeznacza się na czynności porządkowe, przygotowanie do zajęć, uzupełnianie prowadzonej dokumentacji, a także zapewnienie opieki uczestnikom w trakcie dowożenia na zajęcia lub odwożenia po zajęciach, jeżeli dom zapewnia usługi transportowe.
 2.
 Dom z miejscami całodobowego pobytu, w okresie skierowania uczestnika na taki pobyt, zapewnia usługi, odpowiednie do jego niezbędnych potrzeb, w tym co najmniej 10 godzin na dobę przeznacza się na czas wolny i wypoczynek nocny uczestnika.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 Dopuszcza się możliwość zamknięcia domu na okres łącznie nie dłuższy niż 15 dni roboczych w roku kalendarzowym.
-4.
+4Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 Termin zamknięcia domu ustala się po uprzednim zasięgnięciu opinii uczestników lub ich opiekunów.
-5.
+5Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 Zamknięcie domu może nastąpić po uprzednim poinformowaniu, z dwutygodniowym wyprzedzeniem, jednostki prowadzącej lub jednostki zlecającej oraz wydziału właściwego do spraw pomocy społecznej odpowiedniego urzędu wojewódzkiego.
 § 7.
 1.
@@ -159,7 +152,7 @@ Wniosek o skierowanie do domu na pobyt dzienny lub całodobowy składa się do o
 Skierowanie osoby do domu na pobyt całodobowy następuje w przypadku wystąpienia potrzeby spowodowanej sytuacją życiową lub rodzinną osoby albo w przypadku realizacji całodobowego treningu samoobsługi i umiejętności społecznych w ramach indywidualnego planu postępowania wspierająco-aktywizującego.
 3.
 W przypadku osoby ubiegającej się o skierowanie do domu prowadzonego przez właściwy ze względu na jej miejsce zamieszkania powiat lub inny podmiot na jego zlecenie, ośrodek pomocy społecznej gminy miejsca zamieszkania osoby przesyła do starosty powiatu dokumenty, o których mowa w ust. 1, wraz z rodzinnym wywiadem środowiskowym przeprowadzonym w tej sprawie.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 4 grudnia 2014 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 1752), które weszło w życie z dniem 31 grudnia 2014 r..
 Osoba może być skierowana do domu prowadzonego przez inną gminę lub inny powiat niż gmina lub powiat właściwe ze względu na jej miejsce zamieszkania, pod warunkiem zawarcia porozumienia pomiędzy właściwymi jednostkami samorządu terytorialnego. Przepis ust. 3 w części dotyczącej przekazania dokumentów stosuje się odpowiednio.
 5.
 Skierowanie do domu następuje w drodze decyzji administracyjnej.
@@ -169,22 +162,22 @@ W przypadku osób, które po raz pierwszy wystąpiły o skierowanie do domu, dec
 Po dokonaniu oceny, o której mowa w ust. 6, oraz przygotowaniu indywidualnego planu postępowania wspierająco-aktywizującego osobę kieruje się do domu na czas określony, uzgodniony z kierownikiem domu, niezbędny do realizacji indywidualnego planu postępowania wspierająco-aktywizującego.
 8.
 Okres, na jaki osoba została skierowana do domu, może być przedłużony, w szczególności w sytuacji braku postępów w realizacji indywidualnego planu postępowania wspierająco-aktywizującego, okresowego braku możliwości skierowania osoby do innego ośrodka wsparcia, domu pomocy społecznej lub warsztatu terapii zajęciowej albo braku możliwości zatrudnienia, w tym w warunkach pracy chronionej na przystosowanym stanowisku pracy.
-8a.
+8aDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 9..
 W sytuacjach, o których mowa w ust. 7 i 8, nie wymaga się aktualizacji zaświadczeń lekarskich, o których mowa w ust. 1.
-9.
+9Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 W razie częstych nieobecności uczestników, trwających przez okres dłuższy niż 10 dni roboczych i związanej z tym możliwości świadczenia usług dla dodatkowych osób, do domu mogą być skierowane kolejne osoby, jednak w liczbie nieprzekraczającej liczby uczestników o częstych nieobecnościach, nie wyższej niż 20% liczby miejsc w domu.
 § 8.
 1.
 Termin przyjęcia do domu ustala kierownik domu w porozumieniu z osobą kierowaną lub jej opiekunem.
 2.
 Przed przyjęciem osoby do domu pracownik socjalny domu lub inny pracownik, wskazany przez kierownika domu, przekazuje osobie kierowanej lub jej opiekunowi informacje o zasadach funkcjonowania domu, a także w przypadku potrzeby zebrania dodatkowych informacji dotyczących osoby kierowanej lub jej sytuacji rodzinnej sporządza pisemną notatkę w tej sprawie i przekazuje ją kierownikowi domu.
-§ 9.
+§ 9W brzmieniu ustalonym § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 9..
 1.
 Kierownik domu jest obowiązany posiadać wykształcenie wyższe na kierunku mającym zastosowanie przy świadczeniu usług w domu oraz co najmniej półroczne doświadczenie zawodowe polegające na realizacji usług dla osób z zaburzeniami psychicznymi.
 2.
 Do doświadczenia zawodowego, o którym mowa w ust. 1, zalicza się okres zatrudnienia w domu.
 § 10.
-1.
+1W brzmieniu ustalonym § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 9..
 W domu zatrudnia się, odpowiednio do potrzeb, osoby posiadające następujące kwalifikacje zawodowe:
 1)
 psychologa;
@@ -200,10 +193,10 @@ asystenta osoby niepełnosprawnej;
 inne specjalistyczne, które będą odpowiadały rodzajowi i zakresowi usług świadczonych w domu.
 2.
 Dopuszcza się zatrudnienie pracowników realizujących świadczenia zdrowotne, w szczególności rehabilitacyjne i w zakresie opieki pielęgniarskiej, jeżeli potrzeby uczestników wskazują na konieczność codziennego świadczenia tych usług.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 9..
 W domu mogą być zatrudniani inni pracownicy, niezbędni do prawidłowego funkcjonowania domu.
 § 11.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 Pracownicy, o których mowa w § 10 ust. 1 i 2, są obowiązani posiadać co najmniej trzymiesięczne doświadczenie zawodowe w pracy z osobami z zaburzeniami psychicznymi.
 2.
 Pracownicy, których zakres obowiązków obejmuje prowadzenie treningów umiejętności społecznych, są obowiązani posiadać przeszkolenie i doświadczenie w zakresie:
@@ -220,9 +213,9 @@ Wskaźnik zatrudnienia pracowników zespołu wspierająco-aktywizującego wynosi
 7 uczestników w domu typu A;
 2)
 5 uczestników w domu typu B lub C;
-3)
+3Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4.)
 3 uczestników w domu typu D.
-1a.
+1aDodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 W przypadku uczestników z niepełnosprawnościami sprzężonymi lub spektrum autyzmu, będących uczestnikami domów typu A, B i C, wskaźnik zatrudnienia pracowników zespołu wspierająco-aktywizującego wynosi nie mniej niż 1 etat na 3 uczestników.
 2.
 W przypadku łączenia typów domów wskaźnik zatrudnienia stosuje się odpowiednio do liczby uczestników każdego typu.
@@ -241,7 +234,7 @@ Usługi, o których mowa w art. 51a ust. 2 ustawy, obejmują w szczególności:
 trening funkcjonowania w codziennym życiu, w tym: trening dbałości o wygląd zewnętrzny, trening nauki higieny, trening kulinarny, trening umiejętności praktycznych, trening gospodarowania własnymi środkami finansowymi;
 2)
 trening umiejętności interpersonalnych i rozwiązywania problemów, w tym: kształtowanie pozytywnych relacji uczestnika z osobami bliskimi, sąsiadami, z innymi osobami w czasie zakupów, w środkach komunikacji publicznej, w urzędach, w instytucjach kultury;
-2a)
+2aDodany przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r.)
 trening umiejętności komunikacyjnych, w tym z wykorzystaniem alternatywnych i wspomagających sposobów porozumiewania się, w przypadku osób z problemami w komunikacji werbalnej;
 3)
 trening umiejętności spędzania czasu wolnego, w tym: rozwijanie zainteresowań literaturą, audycjami radiowymi, telewizyjnymi, internetem, udział w spotkaniach towarzyskich i kulturalnych;
@@ -251,7 +244,7 @@ poradnictwo psychologiczne;
 pomoc w załatwianiu spraw urzędowych;
 6)
 pomoc w dostępie do niezbędnych świadczeń zdrowotnych, w tym uzgadnianie i pilnowanie terminów wizyt u lekarza, pomoc w zakupie leków, pomoc w dotarciu do jednostek ochrony zdrowia;
-7)
+7W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r.)
 niezbędną opiekę, w szczególności dla uczestników, o których mowa w art. 51c ust. 5 ustawy;
 8)
 terapię ruchową, w tym: zajęcia sportowe, turystykę i rekreację;
@@ -260,9 +253,9 @@ całodobowe wyżywienie dla uczestników skierowanych na pobyt całodobowy w for
 10)
 inne formy postępowania przygotowujące do uczestnictwa w warsztatach terapii zajęciowej lub podjęcia zatrudnienia, w tym w warunkach pracy chronionej na przystosowanym stanowisku pracy.
 § 15.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 Dom umożliwia uczestnikom skierowanym na pobyt dzienny spożywanie gorącego posiłku, przyznanego w ramach zadania własnego gminy, o którym mowa w art. 17 ust. 1 pkt 3 i 14 ustawy, lub w ramach treningu kulinarnego.
-2.
+2Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 W przypadku braku możliwości zapewnienia posiłku w sposób, o którym mowa w ust. 1, dopuszcza się możliwość zakupu gorącego posiłku dla uczestników.
 § 16.
 1.
@@ -287,7 +280,7 @@ a)
 sala ogólna umożliwiająca spotykanie się uczestników zajęć i ich rodzin,
 b)
 co najmniej dwa wielofunkcyjne pomieszczenia do prowadzenia działalności wspierającej, aktywizującej i rehabilitacyjnej, między innymi w formie treningów,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r.)
 pokój do indywidualnego poradnictwa psychologicznego, socjalnego, pedagogicznego lub logopedycznego, pełniący ponadto funkcję pokoju wyciszenia, przy czym w domach, w których uczestnikami są osoby ze spektrum autyzmu w liczbie przekraczającej 3 osoby, pokój wyciszeń stanowi odrębne pomieszczenie,
 d)
 wydzielone pomieszczenie kuchenne z niezbędnymi urządzeniami i sprzętem gospodarstwa domowego, pełniące funkcję pracowni kulinarnej,
@@ -319,7 +312,7 @@ aneks kuchenny wyposażony w:
 – kuchenkę do przygotowania posiłku,
 – lodówkę,
 – sprzęty niezbędne do przygotowania i spożywania posiłków.
-§ 18a.
+§ 18aDodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 Sala ogólna umożliwiająca spotykanie się uczestników zajęć i ich rodzin może pełnić funkcję sali aktywizacji i terapii zajęciowej lub pomieszczenia do terapii ruchowej.
 § 19.
 W ramach działalności domu, za zgodą kierownika domu, w wyznaczonych przez niego dniach i godzinach, mogą odbywać się zajęcia klubowe przeznaczone dla osób oczekujących na przyjęcie do domu oraz byłych uczestników.
@@ -356,9 +349,9 @@ zachowuje w tajemnicy informacje dotyczące uczestników, uzyskane w toku czynno
 4)
 na bieżąco i rzetelnie dokumentuje pracę.
 § 23.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 Kierownik domu lub upoważniony przez niego pracownik organizuje, co najmniej raz na 6 miesięcy, zajęcia i szkolenie dla pracowników w zakresie tematycznym wynikającym ze zgłoszonych przez nich potrzeb, związanych z funkcjonowaniem domu.
-2.
+2Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r..
 Szkolenie, o którym mowa w ust. 1, w zakresie usług wymienionych w § 14 pkt 2a przeprowadza się dla wszystkich pracowników, przy czym dla osób realizujących treningi, o których mowa w § 14 pkt 2a, nie rzadziej niż raz na trzy lata.
 § 24.
 1.
@@ -433,11 +426,10 @@ oceny realizacji zadań i ewentualne wnioski, w tym informacje o planowanych zmi
 Sprawozdanie przesyła się jednostce prowadzącej lub jednostce zlecającej, a także właściwemu do spraw pomocy społecznej wydziałowi urzędu wojewódzkiego w terminie do dnia 15 lutego po okresie sprawozdawczym.
 4.
 Wnioski wynikające ze sprawozdania oraz ewentualne uwagi zgłoszone przez podmioty, o których mowa w ust. 3, są wykorzystywane w usprawnianiu organizacji i funkcjonowania domu, a informacje o wprowadzeniu usprawnień lub o przyczynach braku ich realizacji uwzględnia się w sprawozdaniu w roku następnym.
-§ 26.
+§ 26W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2; ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4..
 Termin dostosowania domów do wymaganych standardów upływa z dniem 31 grudnia 2022 r., z wyłączeniem domów typu D.
 § 27.
 Osoby zatrudnione na stanowisku kierownika domu w dniu wejścia w życie niniejszego rozporządzenia, niespełniające wymaganych kwalifikacji w zakresie wykształcenia, o których mowa w § 9 ust. 1, mogą być nadal zatrudnione na tym stanowisku.
 § 28.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2267). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 grudnia 2018 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 2411), które weszło w życie z dniem 31 grudnia 2018 r.; wszedł w życie z dniem 11 stycznia 2019 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 maja 2019 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 967), które weszło w życie z dniem 6 czerwca 2019 r. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 6) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 8) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 9) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 4 grudnia 2014 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 1752), które weszło w życie z dniem 31 grudnia 2014 r. 10) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 9. 11) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 12) W brzmieniu ustalonym § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 9. 13) W brzmieniu ustalonym § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 9. 14) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 9. 15) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 16) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 17) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 18) Dodany przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 19) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 20) Oznaczenie ust. 1 nadane przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 21) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 22) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 23) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 24) Oznaczenie ust. 1 nadane przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 25) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 26) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2; ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 27) Rozporządzenie zostało ogłoszone w dniu 17 grudnia 2010 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 17 grudnia 2010 r.. 1) Obecnie działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2267). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 grudnia 2018 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 2411), które weszło w życie z dniem 31 grudnia 2018 r.; wszedł w życie z dniem 11 stycznia 2019 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 maja 2019 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 967), które weszło w życie z dniem 6 czerwca 2019 r. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 6) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 8) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 9) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 4 grudnia 2014 r. zmieniającego rozporządzenie w sprawie środowiskowych domów samopomocy (Dz. U. poz. 1752), które weszło w życie z dniem 31 grudnia 2014 r. 10) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 9. 11) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 12) W brzmieniu ustalonym § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 9. 13) W brzmieniu ustalonym § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 9. 14) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 9. 15) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 16) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 17) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 18) Dodany przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 19) W brzmieniu ustalonym przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 20) Oznaczenie ust. 1 nadane przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 21) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 22) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 23) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 24) Oznaczenie ust. 1 nadane przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 25) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 11 stycznia 2019 r. 26) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2; ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 27) Rozporządzenie zostało ogłoszone w dniu 17 grudnia 2010 r.
 

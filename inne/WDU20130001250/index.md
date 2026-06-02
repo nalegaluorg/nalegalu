@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-30 |
 | Data wydania | 2013-10-28 |
-| Wejście w życie | 2013-10-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001250) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1250/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. Nr 126, poz. 1069, z późn. zm.) w załączniku nr 1 po tiret trzecim w brzmieniu „- w Bułgarii – Aдвокат,” dodaje się tiret czwarte w brzmieniu „- w Republice Chorwacji – Odvjetnik/Odvjetnica,”.
+**Art. 1.** W ustawie z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. Nr 126, poz. 1069, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 150, poz. 1240 i Nr 163, poz. 1361, z 2007 r. Nr 121, poz. 831 i Nr 147, poz. 1028, z 2008 r. Nr 180, poz. 1112, z 2010 r. Nr 47, poz. 278, z 2011 r. Nr 178, poz. 1058 oraz z 2013 r. poz. 829.) w załączniku nr 1 po tiret trzecim w brzmieniu „- w Bułgarii – Aдвокат,” dodaje się tiret czwarte w brzmieniu „- w Republice Chorwacji – Odvjetnik/Odvjetnica,”.
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 lipca 2013 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 lipca 2013 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 150, poz. 1240 i Nr 163, poz. 1361, z 2007 r. Nr 121, poz. 831 i Nr 147, poz. 1028, z 2008 r. Nr 180, poz. 1112, z 2010 r. Nr 47, poz. 278, z 2011 r. Nr 178, poz. 1058 oraz z 2013 r. poz. 829.
 

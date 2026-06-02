@@ -26,46 +26,63 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001399) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1399/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej Rozdział 1 – Przepisy ogólne Rozdział 2 – Tryb rejestracji przedsiębiorcy prowadzącego sprzedaż odbiorników cyfrowych Rozdział 3 – Uzyskanie i realizacja dokumentu potwierdzającego przyznanie świadczenia Rozdział 4 – Przetwarzanie danych osobowych Rozdział 5 – System teleinformatyczny Rozdział 6 – Finansowanie i realizacja płatności za dokument potwierdzający przyznanie świadczenia Rozdział 7 – Przepis karny Rozdział 8 – Zmiany w przepisach Rozdział 9 – Przepisy dostosowujące i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 501), z uwzględnieniem zmian wprowadzonych ustawą z dnia 23 marca 2022 r. o zmianie ustawy o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 689) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 czerwca 2022 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 29 i art. 30 ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 501), które stanowią:
-„
-(pominięty)
-(pominięty)
+art. 29 i art. 30 ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 501), które stanowią: „
+Przepisy ogólne
+Tryb rejestracji przedsiębiorcy prowadzącego sprzedaż odbiorników cyfrowych
+Uzyskanie i realizacja dokumentu potwierdzającego przyznanie świadczenia
+Przetwarzanie danych osobowych
+System teleinformatyczny
+Finansowanie i realizacja płatności za dokument potwierdzający przyznanie świadczenia
+Przepis karny
+Zmiany w przepisach
+(pominięty)Zamieszczony w obwieszczeniu.
+(pominięty)Zamieszczony w obwieszczeniu.
+Przepisy dostosowujące i przepis końcowy
 
-**Art. 29.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64 i 138.) po art. 52zd dodaje się art. 52ze w brzmieniu: „ Art. 52ze. Wolna od podatku dochodowego jest wartość świadczenia wynikającego z realizacji prawa do zakupu odbiornika cyfrowego przyznanego na podstawie ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 501). ” .
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Tryb rejestracji przedsiębiorcy prowadzącego sprzedaż odbiorników cyfrowych
+
+#### Rozdział 3 – Uzyskanie i realizacja dokumentu potwierdzającego przyznanie świadczenia
+
+#### Rozdział 4 – Przetwarzanie danych osobowych
+
+#### Rozdział 5 – System teleinformatyczny
+
+#### Rozdział 6 – Finansowanie i realizacja płatności za dokument potwierdzający przyznanie świadczenia
+
+#### Rozdział 7 – Przepis karny
+
+#### Rozdział 8 – Zmiany w przepisach
+
+#### Rozdział 9 – Przepisy dostosowujące i przepis końcowy
+
+**Art. 29.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.a)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64 i 138.) po art. 52zd dodaje się art. 52ze w brzmieniu: „ Art. 52ze. Wolna od podatku dochodowego jest wartość świadczenia wynikającego z realizacji prawa do zakupu odbiornika cyfrowego przyznanego na podstawie ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 501). ” .
 
 **Art. 30.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576) w art. 209 w ust. 1 po pkt 19a dodaje się pkt 19b w brzmieniu: „
 
 - **19b)** będąc przedsiębiorcą prowadzącym sprzedaż odbiorników cyfrowych, o których mowa w art. 2 pkt 1 ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 501), dokonuje sprzedaży użytkownikowi końcowemu takiego odbiornika cyfrowego, niespełniającego wymagań wynikających z przepisów wydanych na podstawie art. 132 ust. 3,”. ” ; ” ;
 - **2)** art. 2 ustawy z dnia 23 marca 2022 r. o zmianie ustawy o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 689), który stanowi: „
 
-**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64 i 138. Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej
 
-Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej
+#### Rozdział 1
 
-- **a)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64 i 138.
+**Art. 1.** Ustawa określa zasady i tryb przyznawania oraz realizacji wsparcia gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej na DVB-T2/HEVC w postaci świadczenia na zakup odbiornika cyfrowego, które jest realizowane przy użyciu dokumentu potwierdzającego przyznanie świadczenia. Ilekroć w ustawie jest mowa o: 1W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 23 marca 2022 r. o zmianie ustawy o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 689), która weszła w życie z dniem 30 marca 2022 r.) odbiorniku cyfrowym – należy przez to rozumieć odbiornik cyfrowy zawierający wyświetlacz obrazu albo niezawierający takiego wyświetlacza, o którym mowa w art. 2 pkt 23a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576 oraz z 2022 r. poz. 501), umożliwiający odbiór co najmniej sygnału naziemnej telewizji cyfrowej, zgodny z wymaganiami, o których mowa w przepisach wydanych na podstawie art. 132 ust. 3 tej ustawy;
 
-#### Rozdział 1 Przepisy ogólne
-
-**Art. 1.** Ustawa określa zasady i tryb przyznawania oraz realizacji wsparcia gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej na DVB-T2/HEVC w postaci świadczenia na zakup odbiornika cyfrowego, które jest realizowane przy użyciu dokumentu potwierdzającego przyznanie świadczenia. Ilekroć w ustawie jest mowa o:
-
-- **1)** odbiorniku cyfrowym – należy przez to rozumieć odbiornik cyfrowy zawierający wyświetlacz obrazu albo niezawierający takiego wyświetlacza, o którym mowa w art. 2 pkt 23a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576 oraz z 2022 r. poz. 501), umożliwiający odbiór co najmniej sygnału naziemnej telewizji cyfrowej, zgodny z wymaganiami, o których mowa w przepisach wydanych na podstawie art. 132 ust. 3 tej ustawy;
 - **2)** dokumencie potwierdzającym przyznanie świadczenia – należy przez to rozumieć dokument elektroniczny potwierdzający przyznanie świadczenia na zakup odbiornika cyfrowego lub wydruk sporządzony z tego dokumentu elektronicznego;
 - **3)** gospodarstwie domowym – należy przez to rozumieć zespół osób mieszkających i utrzymujących się wspólnie albo jedną osobę utrzymującą się samodzielnie, gdy miejsce zamieszkania tych osób znajduje się na terytorium Rzeczypospolitej Polskiej;
 - **4)** płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia – należy przez to rozumieć dokonanie zapłaty ceny lub jej części za odbiornik cyfrowy, do wysokości świadczenia na zakup odbiornika cyfrowego, przy wykorzystaniu dokumentu potwierdzającego przyznanie świadczenia;
-- **5)** świadczeniu na zakup odbiornika cyfrowego – należy przez to rozumieć dofinansowanie do zakupu jednego fabrycznie nowego odbiornika cyfrowego w gospodarstwie domowym.
+- **5)** świadczeniu na zakup odbiornika cyfrowego – należy przez to rozumieć dofinansowanie do zakupu jednego fabrycznie nowego odbiornika cyfrowego w gospodarstwie domowym. Art. 3W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.. Świadczenie na zakup odbiornika cyfrowego przysługuje jednej pełnoletniej osobie, zameldowanej na terytorium Rzeczypospolitej Polskiej na pobyt stały lub czasowy powyżej 30 dni, jeżeli trudna sytuacja materialna gospodarstwa domowego tej osoby uniemożliwia samodzielne poniesienie kosztów nabycia odbiornika cyfrowego, zwanej dalej „osobą uprawnioną”, w celu zapewnienia odbioru przez to gospodarstwo domowe naziemnej telewizji cyfrowej w standardzie DVB-T2/HEVC, bez uszczerbku dla podstawowych potrzeb życiowych gospodarstwa domowego tej osoby.
 
-**Art. 3.** Świadczenie na zakup odbiornika cyfrowego przysługuje jednej pełnoletniej osobie, zameldowanej na terytorium Rzeczypospolitej Polskiej na pobyt stały lub czasowy powyżej 30 dni, jeżeli trudna sytuacja materialna gospodarstwa domowego tej osoby uniemożliwia samodzielne poniesienie kosztów nabycia odbiornika cyfrowego, zwanej dalej „osobą uprawnioną”, w celu zapewnienia odbioru przez to gospodarstwo domowe naziemnej telewizji cyfrowej w standardzie DVB-T2/HEVC, bez uszczerbku dla podstawowych potrzeb życiowych gospodarstwa domowego tej osoby.
-
-**Art. 4.**
-
-1. Świadczenie na zakup odbiornika cyfrowego:
+**Art. 4.** 1W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1.. Świadczenie na zakup odbiornika cyfrowego:
 
 - **1)** niezawierającego wyświetlacza obrazu przysługuje w wysokości 100 zł;
 - **2)** zawierającego wyświetlacz obrazu przysługuje w wysokości 250 zł.
@@ -86,13 +103,11 @@ Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospo
 
 4. Płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia nie może być dokonywana w ratach.
 
-5. Dokument potwierdzający przyznanie świadczenia nie podlega wymianie na gotówkę, inne prawne środki płatnicze oraz inne środki wymiany.
-
-6. Płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia nie może być dokonana, jeżeli w związku z nabyciem odbiornika cyfrowego osobie uprawnionej jest oferowana inna odpłatna usługa, świadczona przy pomocy tego odbiornika.
+5. Dokument potwierdzający przyznanie świadczenia nie podlega wymianie na gotówkę, inne prawne środki płatnicze oraz inne środki wymiany. 6Dodany przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 1.. Płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia nie może być dokonana, jeżeli w związku z nabyciem odbiornika cyfrowego osobie uprawnionej jest oferowana inna odpłatna usługa, świadczona przy pomocy tego odbiornika.
 
 **Art. 6.** Prawo do dokonywania płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia wygasa z końcem dnia 31 grudnia 2022 r.
 
-#### Rozdział 2 Tryb rejestracji przedsiębiorcy prowadzącego sprzedaż odbiorników cyfrowych
+#### Rozdział 2
 
 **Art. 7.**
 
@@ -145,7 +160,7 @@ Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospo
 
 3. W przypadku skreślenia przedsiębiorcy z listy, o której mowa w art. 9 ust. 1, ponowna rejestracja w sposób, o którym mowa w art. 7 ust. 1, nie jest możliwa.
 
-#### Rozdział 3 Uzyskanie i realizacja dokumentu potwierdzającego przyznanie świadczenia
+#### Rozdział 3
 
 **Art. 14.**
 
@@ -175,8 +190,7 @@ Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospo
     - **e)**
     - **f)**
 
-- **2)** oświadczenie osoby uprawnionej o niepobraniu dokumentu potwierdzającego przyznanie świadczenia przez inną osobę z tego samego gospodarstwa domowego;
-- **3)** oświadczenie osoby uprawnionej o tym, że trudna sytuacja materialna gospodarstwa domowego tej osoby uniemożliwia samodzielne poniesienie kosztów nabycia odbiornika cyfrowego w celu zapewnienia odbioru przez to gospodarstwo domowe naziemnej telewizji cyfrowej w standardzie DVB-T2/HEVC, bez uszczerbku dla podstawowych potrzeb życiowych gospodarstwa domowego tej osoby.
+- **2)** oświadczenie osoby uprawnionej o niepobraniu dokumentu potwierdzającego przyznanie świadczenia przez inną osobę z tego samego gospodarstwa domowego; 3W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 1.) oświadczenie osoby uprawnionej o tym, że trudna sytuacja materialna gospodarstwa domowego tej osoby uniemożliwia samodzielne poniesienie kosztów nabycia odbiornika cyfrowego w celu zapewnienia odbioru przez to gospodarstwo domowe naziemnej telewizji cyfrowej w standardzie DVB-T2/HEVC, bez uszczerbku dla podstawowych potrzeb życiowych gospodarstwa domowego tej osoby.
 
 2. Oświadczenie, o którym mowa w ust. 1 pkt 2, składane jest pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
@@ -213,7 +227,7 @@ Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospo
 
 6. Decyzja o ustaleniu i zwrocie nienależnie uzyskanego świadczenia na zakup odbiornika cyfrowego nie jest wydawana, jeżeli od terminu jego uzyskania upłynęło więcej niż 5 lat.
 
-#### Rozdział 4 Przetwarzanie danych osobowych
+#### Rozdział 4
 
 **Art. 20.**
 
@@ -235,19 +249,19 @@ Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospo
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
 - **2)** pisemnym zobowiązaniu się osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
 
-#### Rozdział 5 System teleinformatyczny
+#### Rozdział 5
 
 **Art. 21.**
 
 1. Obsługa dokumentu potwierdzającego przyznanie świadczenia odbywa się w systemie teleinformatycznym, którego funkcjonowanie zapewnia minister właściwy do spraw informatyzacji.
 
-2. System teleinformatyczny zapewnia bezpieczeństwo przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
+2. System teleinformatyczny zapewnia bezpieczeństwo przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz w Dz. Urz. UE L 74 z 04.03.2021, str. 35..
 
 3. Dane zgromadzone w systemie teleinformatycznym są usuwane po upływie 5 lat od zakończenia roku, w którym zostały wprowadzone do tego systemu.
 
 **Art. 22.** Uwierzytelnianie osoby uprawnionej składającej wniosek w sposób, o którym mowa w art. 14 ust. 1, oraz osoby działającej w imieniu przedsiębiorcy prowadzącego sprzedaż odbiorników cyfrowych, o którym mowa w art. 5 ust. 1, w systemie teleinformatycznym następuje w sposób, o którym mowa w art. 20a ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087).
 
-#### Rozdział 6 Finansowanie i realizacja płatności za dokument potwierdzający przyznanie świadczenia
+#### Rozdział 6
 
 **Art. 23.**
 
@@ -268,7 +282,7 @@ Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospo
 5. Minister właściwy do spraw informatyzacji przekazuje operatorowi wyznaczonemu:
 
 - **1)** informacje dotyczące liczby zrealizowanych dokumentów potwierdzających przyznanie świadczenia oraz danych przedsiębiorców prowadzących sprzedaż odbiorników cyfrowych wpisanych na listę, o której mowa w art. 9 ust. 1,
-- **2)** środki finansowe przeznaczone na realizację płatności za dokumenty potwierdzające przyznanie świadczenia na wyodrębniony rachunek bankowy wskazany przez operatora wyznaczonego w terminie 7 dni roboczych od 15. dnia każdego miesiąca.
+- **2)** środki finansowe przeznaczone na realizację płatności za dokumenty potwierdzające przyznanie świadczenia na wyodrębniony rachunek bankowy wskazany przez operatora wyznaczonego – w terminie 7 dni roboczych od 15. dnia każdego miesiąca.
 
 6. Odsetki od środków finansowych zgromadzonych na rachunku, o którym mowa w ust. 5 pkt 2, są zaliczane na poczet środków finansowych przeznaczonych na realizację płatności za dokumenty potwierdzające przyznanie świadczenia w kolejnych okresach rozliczeniowych.
 
@@ -278,12 +292,11 @@ Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospo
 
 2. Przedsiębiorca prowadzący sprzedaż odbiorników cyfrowych, występując o realizację płatności za dokument potwierdzający przyznanie świadczenia, przekazuje ministrowi właściwemu do spraw informatyzacji:
 
-- **1)** dane dotyczące: daty i miejsca sprzedaży odbiorników cyfrowych, nazwy producenta i modelu odbiorników cyfrowych, całkowitej ceny zakupu odbiornika cyfrowego, kwoty płatności za odbiornik cyfrowy dokonanej z użyciem dokumentu potwierdzającego przyznanie świadczenia, posiadania przez odbiornik cyfrowy wyświetlacza obrazu albo jego braku;
+- **1)** dane dotyczące: daty i miejsca sprzedaży odbiorników cyfrowych, nazwy producenta i modelu odbiorników cyfrowych, całkowitej ceny zakupu odbiornika cyfrowego, kwoty płatności za odbiornik cyfrowy dokonanej z użyciem dokumentu potwierdzającego przyznanie świadczenia, eDodana przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 1.) posiadania przez odbiornik cyfrowy wyświetlacza obrazu albo jego braku;
     - **a)**
     - **b)**
     - **c)**
     - **d)**
-    - **e)**
 
 - **2)** oświadczenie o spełnianiu przez sprzedane odbiorniki cyfrowe wymagań, o których mowa w przepisach wydanych na podstawie art. 132 ust. 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
 
@@ -303,9 +316,7 @@ Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospo
 
 - **1)** pobraną przez przedsiębiorcę prowadzącego sprzedaż odbiorników cyfrowych, który podał przy rejestracji w systemie teleinformatycznym, o którym mowa w art. 21, dane niezgodne ze stanem faktycznym lub ich nie zaktualizował w terminie, mimo wezwania, o którym mowa w art. 12;
 - **2)** pobraną przez przedsiębiorcę prowadzącego sprzedaż odbiorników cyfrowych w związku ze sprzedażą odbiornika cyfrowego, który nie jest fabrycznie nowy;
-- **3)** wydatkowaną na cel inny niż zakup odbiornika cyfrowego;
-- **4)** pobraną z naruszeniem zakazu, o którym mowa w art. 5 ust. 6;
-- **5)** pobraną przez przedsiębiorcę prowadzącego sprzedaż odbiorników cyfrowych w wysokości niezgodnej z określoną w art. 4 ust. 1.
+- **3)** wydatkowaną na cel inny niż zakup odbiornika cyfrowego; 4Dodany przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 1.) pobraną z naruszeniem zakazu, o którym mowa w art. 5 ust. 6; 5Dodany przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 1.) pobraną przez przedsiębiorcę prowadzącego sprzedaż odbiorników cyfrowych w wysokości niezgodnej z określoną w art. 4 ust. 1.
 
 3. Minister właściwy do spraw informatyzacji ustala wysokość kwoty nienależnie pobranej oraz odsetek ustawowych za opóźnienie, w drodze decyzji.
 
@@ -313,30 +324,20 @@ Załącznik – Tekst jednolity ustawy z dnia 24 lutego 2022 r. o wsparciu gospo
 
 5. Kwota nienależnie pobranej płatności podlega egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 
-#### Rozdział 7 Przepis karny
+#### Rozdział 7
 
-**Art. 28.**
+**Art. 28.** 1Oznaczenie ust. 1 nadane przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 1.. Kto przyjmuje płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia z przeznaczeniem na cel inny niż sprzedaż odbiornika cyfrowego osobie uprawnionej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. 2Dodany przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 1.. Tej samej karze podlega ten, kto przyjmuje płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia na zakup odbiornika cyfrowego z naruszeniem zakazu, o którym mowa w art. 5 ust. 6.
 
-1. Kto przyjmuje płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia z przeznaczeniem na cel inny niż sprzedaż odbiornika cyfrowego osobie uprawnionej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+#### Rozdział 8
 
-2. Tej samej karze podlega ten, kto przyjmuje płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia na zakup odbiornika cyfrowego z naruszeniem zakazu, o którym mowa w art. 5 ust. 6.
-
-#### Rozdział 8 Zmiany w przepisach
-
-#### Rozdział 9 Przepisy dostosowujące i przepis końcowy
+#### Rozdział 9
 
 **Art. 31.** Minister właściwy do spraw informatyzacji, przed wdrożeniem rozwiązań technicznych, ogłasza w swoim dzienniku urzędowym oraz w Biuletynie Informacji Publicznej na swojej stronie podmiotowej komunikat, w którym określa termin uruchomienia funkcjonalności umożliwiającej:
 
 - **1)** rejestrację w systemie teleinformatycznym, o którym mowa w art. 21, przez przedsiębiorcę prowadzącego sprzedaż odbiorników cyfrowych;
 - **2)** wnioskowanie o przyznanie świadczenia na zakup odbiornika cyfrowego w systemie teleinformatycznym, o którym mowa w art. 21.
 
-**Art. 32.**
+**Art. 32.** 1W brzmieniu ustalonym przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 1.. Maksymalny limit wydatków z budżetu państwa, będących skutkiem finansowym wejścia w życie ustawy w 2022 r., wynosi 620,5 mln zł. 2. Minister właściwy do spraw informatyzacji nadzoruje i monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a w przypadku IV kwartału – według stanu na dzień 20 listopada. 3. W przypadku gdy wysokość wydatków, o których mowa w ust. 1, po trzech kwartałach wyniesie łącznie więcej niż 75% limitu, wysokość wydatków w IV kwartale obniża się o kwotę przekroczenia, określając zakres ograniczeń dla poszczególnych zadań realizowanych na podstawie ustawy.
 
-1. Maksymalny limit wydatków z budżetu państwa, będących skutkiem finansowym wejścia w życie ustawy w 2022 r., wynosi 620,5 mln zł.
-
-2. Minister właściwy do spraw informatyzacji nadzoruje i monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a w przypadku IV kwartału – według stanu na dzień 20 listopada.
-
-3. W przypadku gdy wysokość wydatków, o których mowa w ust. 1, po trzech kwartałach wyniesie łącznie więcej niż 75% limitu, wysokość wydatków w IV kwartale obniża się o kwotę przekroczenia, określając zakres ograniczeń dla poszczególnych zadań realizowanych na podstawie ustawy.
-
-**Art. 33.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 33.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszeniaUstawa została ogłoszona w dniu 2 marca 2022 r.. 1) W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 23 marca 2022 r. o zmianie ustawy o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 689), która weszła w życie z dniem 30 marca 2022 r. 2) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 3) W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1. 4) Dodany przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 1. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz w Dz. Urz. UE L 74 z 04.03.2021, str. 35. 7) Dodana przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 1. 8) Dodany przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 1. 9) Oznaczenie ust. 1 nadane przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 1. 10) Dodany przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 1. 11) Zamieszczony w obwieszczeniu. 12) W brzmieniu ustalonym przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 1. 13) Ustawa została ogłoszona w dniu 2 marca 2022 r.
 

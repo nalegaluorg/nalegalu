@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-02 |
 | Data wydania | 2015-07-14 |
-| Wejście w życie | 2015-07-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000979) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/979/text.pdf) |
 
@@ -33,8 +32,7 @@ Rozporządzenie określa:
 1)
 rodzaje i wysokość,
 2)
-warunki i tryb przyznawania
-nagród za znalezienie zabytków i materiałów archiwalnych, które na podstawie art. 187 § 2 albo art. 189 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.) stały się własnością Skarbu Państwa, zwanych dalej „nagrodami”.
+warunki i tryb przyznawania – nagród za znalezienie zabytków i materiałów archiwalnych, które na podstawie art. 187 § 2 albo art. 189 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397 i 539.) stały się własnością Skarbu Państwa, zwanych dalej „nagrodami”.
 § 2.
 Nagrodami są nagroda pieniężna albo dyplom.
 § 3.
@@ -74,5 +72,5 @@ Naczelny Dyrektor Archiwów Państwowych dokonuje oceny wartości historycznej, 
 4.
 Naczelny Dyrektor Archiwów Państwowych przekazuje ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego wniosek, o którym mowa w ust. 1, oraz ocenę, o której mowa w ust. 3, wraz ze swoją opinią co do zasadności przyznania nagrody i jej rodzaju.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397 i 539.
 

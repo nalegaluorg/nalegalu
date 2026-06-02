@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 8 listopada 2018 r. w sprawie bezpieczeństwa i higieny pracy przy eliminowaniu przedmiotów niebezpiecznych, w tym wybuchowych, ze złomu metali
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 8 listopada 2018 r. w sprawie bezpieczeństwa i higieny pracy przy eliminowaniu przedmiotów niebezpiecznych, w tym wybuchowych, ze złomu metali Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-08 |
 | Data wydania | 2018-11-30 |
-| Wejście w życie | 2018-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2240/text.pdf) |
 
@@ -106,6 +105,5 @@ zapewnia bezpieczną ewakuację wszystkich narażonych na niebezpieczeństwo os�
 § 9.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 30 grudnia 1999 r. w sprawie bezpieczeństwa i higieny pracy przy eliminowaniu przedmiotów niebezpiecznych, w tym wybuchowych, ze złomu metali (Dz. U. z 2000 r. poz. 36).
 § 10.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 

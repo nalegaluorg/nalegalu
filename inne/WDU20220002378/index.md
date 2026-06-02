@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002378) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2378/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady wydawania i cofania pozwoleń na nabywanie, przechowywanie lub używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub na wytwarzanie materiałów wybuchowych metodą in situ Rozdział 2a – Zasady używania materiałów wybuchowych przeznaczonych do użytku cywilnego Rozdział 3 – Zasady i kontrola przemieszczania materiałów wybuchowych przeznaczonych do użytku cywilnego Rozdział 4 Rozdział 5 Rozdział 5a – Klasyfikacja wprowadzanych do obrotu wyrobów pirotechnicznych oraz ograniczenia z niej wynikające Rozdział 5b – Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wytwarzaniem materiałów wybuchowych metodą in situ Rozdział 5c – Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach materiałów wybuchowych przeznaczonych do użytku cywilnego Rozdział 5d – Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku wyrobów pirotechnicznych Rozdział 5e – Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach wyrobów pirotechnicznych Rozdział 5f – Obowiązki jednostek notyfikowanych związane z przydzielaniem numerów rejestracyjnych identyfikujących wyroby pirotechniczne Rozdział 6 – Przepisy karne Rozdział 6a – Kary pieniężne Rozdział 7 – Przepisy zmieniające, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego
 Załącznik –
 Treść obwieszczenia
 1.
@@ -34,15 +34,19 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 13 stycznia 2022 r. o zmianie ustawy o rezerwach strategicznych oraz niektórych innych ustaw (Dz. U. poz. 275),
 2)
-ustawą z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 października 2022 r.
+ustawą z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 października 2022 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 5 ustawy z dnia 13 stycznia 2022 r. o zmianie ustawy o rezerwach strategicznych oraz niektórych innych ustaw (Dz. U. poz. 275), który stanowi:
-„
+art. 5 ustawy z dnia 13 stycznia 2022 r. o zmianie ustawy o rezerwach strategicznych oraz niektórych innych ustaw (Dz. U. poz. 275), który stanowi: „
+Przepisy ogólne
+Zasady wydawania i cofania pozwoleń na nabywanie, przechowywanie lub używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub na wytwarzanie materiałów wybuchowych metodą in situ
+Zasady używania materiałów wybuchowych przeznaczonych do użytku cywilnego
+Zasady i kontrola przemieszczania materiałów wybuchowych przeznaczonych do użytku cywilnego
 (uchylony)
 (uchylony)
+Klasyfikacja wprowadzanych do obrotu wyrobów pirotechnicznych oraz ograniczenia z niej wynikające
+Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wytwarzaniem materiałów wybuchowych metodą in situ
 1.
 Producent materiału wybuchowego przeznaczonego do użytku cywilnego, z wyjątkiem wytwarzanego materiału wybuchowego metodą in situ , jest obowiązany do:
 1)
@@ -134,8 +138,7 @@ Na spłonkach lub pobudzaczach wybuchowych, których wielkość, kształt lub w�
 1)
 dwie litery wskazujące państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską, w którym ma siedzibę producent lub importer materiału wybuchowego;
 2)
-trzy cyfry stanowiące kod oznaczenia obiektu produkcyjnego.
-Liczbę spłonek i pobudzaczy wybuchowych umieszcza się na najmniejszej jednostce opakowania przez bezpośredni nadruk.
+trzy cyfry stanowiące kod oznaczenia obiektu produkcyjnego. Liczbę spłonek i pobudzaczy wybuchowych umieszcza się na najmniejszej jednostce opakowania przez bezpośredni nadruk.
 8.
 W przypadku lontów detonujących, których wielkość, kształt lub właściwości uniemożliwiają umieszczenie jednoznacznego oznaczenia zgodnie z ust. 5, jednoznaczne oznaczenie umieszcza się na motku lub szpuli.
 9.
@@ -280,8 +283,7 @@ Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym 
 1)
 szczegółowe wymagania w zakresie jednoznacznego oznaczenia materiału wybuchowego przeznaczonego do użytku cywilnego oraz jego opakowania,
 2)
-wzór wniosku o nadanie kodu oznaczenia obiektu produkcyjnego
-biorąc pod uwagę konieczność zapewnienia możliwości pełnej identyfikacji oraz identyfikowalności każdego materiału wybuchowego przeznaczonego do użytku cywilnego pozostającego w obrocie na terytorium Rzeczypospolitej Polskiej w celu ograniczenia ryzyka wykorzystania tego materiału w działaniach przestępczych, w tym terrorystycznych.
+wzór wniosku o nadanie kodu oznaczenia obiektu produkcyjnego – biorąc pod uwagę konieczność zapewnienia możliwości pełnej identyfikacji oraz identyfikowalności każdego materiału wybuchowego przeznaczonego do użytku cywilnego pozostającego w obrocie na terytorium Rzeczypospolitej Polskiej w celu ograniczenia ryzyka wykorzystania tego materiału w działaniach przestępczych, w tym terrorystycznych.
 1.
 Upoważniony przedstawiciel producenta materiału wybuchowego przeznaczonego do użytku cywilnego działa na podstawie pisemnego pełnomocnictwa udzielonego przez producenta takiego materiału.
 2.
@@ -373,6 +375,7 @@ Obowiązki, o których mowa w ust. 1 pkt 1, dystrybutor materiału wybuchowego p
 W przypadku gdy importer lub dystrybutor wprowadza materiał wybuchowy przeznaczony do użytku cywilnego pod własną nazwą lub znakiem towarowym, o ile taki posiada, lub modyfikuje materiał wybuchowy już znajdujący się w obrocie, w sposób mogący mieć wpływ na zgodność tego materiału z wymaganiami ustawy, podlega obowiązkom producenta, o których mowa w art. 62v.
 Na żądanie organów nadzoru rynku, o których mowa w art. 62zc, podmioty gospodarcze muszą udostępniać dane pozwalające zidentyfikować każdy podmiot gospodarczy, który im dostarczył, lub każdy podmiot, któremu dostarczyły materiał wybuchowy przeznaczony do użytku cywilnego, w przypadku, o którym mowa w art. 62v ust. 1 pkt 6 i art. 62va ust. 9. Informacje, o których mowa w zdaniu pierwszym, podmioty gospodarcze są obowiązane udostępniać w okresie 10 lat od dnia dostarczenia im lub dostarczenia przez te podmioty tego materiału.
 Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.
+Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach materiałów wybuchowych przeznaczonych do użytku cywilnego
 1.
 Materiały wybuchowe przeznaczone do użytku cywilnego wprowadzone do obrotu podlegają kontroli organów nadzoru rynku w zakresie spełniania przez te materiały wymagań, o których mowa w ustawie, oraz kontroli w zakresie niezgodności formalnych w odniesieniu do tych materiałów.
 2.
@@ -392,6 +395,7 @@ okręgowi inspektorzy pracy – w odniesieniu do materiałów wybuchowych przezn
 5.
 Kontrolę i postępowania, o których mowa w ust. 1 i 4, prowadzi się zgodnie z przepisami ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, z tym że za niezgodności formalne uważa się niezgodności polegające na naruszeniu przez podmiot gospodarczy obowiązków, o których mowa w art. 62v ust. 1 pkt 2, 4–9 i 14, art. 62x ust. 1 pkt 3–6 i 11 oraz art. 62y ust. 1 pkt 1.
 Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.
+Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku wyrobów pirotechnicznych
 1.
 Producent wyrobu pirotechnicznego jest obowiązany do:
 1)
@@ -517,6 +521,7 @@ nazwie i dacie targów, wystaw lub pokazów, podczas których te wyroby będą p
 2.
 Wyroby pirotechniczne, o których mowa w ust. 1, mogą być prezentowane lub używane na targach, wystawach lub pokazach, jeżeli zapewnione zostały odpowiednie środki bezpieczeństwa w celu uniknięcia zagrożeń dla życia i zdrowia ludzi oraz mienia lub środowiska związanych z prezentowaniem lub używaniem tych wyrobów.
 Wyroby pirotechniczne niezgodne z wymaganiami ustawy wytworzone na potrzeby działalności badawczo-rozwojowej i testów mogą być udostępniane na rynku i używane pod warunkiem wyraźnego oznakowania wskazującego na ich niezgodność oraz zakaz wykorzystywania do innych celów niż działalność badawczo-rozwojowa i testy.
+Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach wyrobów pirotechnicznych
 1.
 Wyroby pirotechniczne wprowadzone do obrotu podlegają kontroli organów nadzoru rynku w zakresie spełniania przez te wyroby wymagań, o których mowa w ustawie, oraz kontroli w zakresie niezgodności formalnych w odniesieniu do tych wyrobów.
 2.
@@ -535,6 +540,7 @@ Prezes Urzędu Ochrony Konkurencji i Konsumentów – w odniesieniu do wyrobów 
 okręgowi inspektorzy pracy – w odniesieniu do wyrobów pirotechnicznych klas F4, T1, T2, P1 i P2.
 5.
 Kontrolę i postępowania, o których mowa w ust. 1 i 4, prowadzi się zgodnie z przepisami ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, z tym że za niezgodności formalne uważa się niezgodności polegające na naruszeniu przez podmiot gospodarczy obowiązków, o których mowa w art. 62ze ust. 1 pkt 2, 4–7 i 9, art. 62zf ust. 1 pkt 3–5 i 8 oraz art. 62zg ust. 1 pkt 1 i 2.
+Obowiązki jednostek notyfikowanych związane z przydzielaniem numerów rejestracyjnych identyfikujących wyroby pirotechniczne
 1.
 Jednostka notyfikowana przydziela numery rejestracyjne identyfikujące wyroby pirotechniczne ocenione pod względem zgodności z wymaganiami bezpieczeństwa, składające się z następujących elementów:
 1)
@@ -544,8 +550,7 @@ w procedurze badania typu UE (moduł B) – certyfikat badania typu UE albo
 b)
 w procedurze zgodności w oparciu o weryfikację jednostkową (moduł G) – certyfikat zgodności, albo
 c)
-w procedurze zgodności w oparciu o pełne zapewnienie jakości (moduł H) w zakresie dotyczącym wyrobów pirotechnicznych widowiskowych klasy F4 – zatwierdzenie systemu zapewnienia jakości
-o których mowa w przepisach wydanych na podstawie art. 2g ust. 2;
+w procedurze zgodności w oparciu o pełne zapewnienie jakości (moduł H) w zakresie dotyczącym wyrobów pirotechnicznych widowiskowych klasy F4 – zatwierdzenie systemu zapewnienia jakości – o których mowa w przepisach wydanych na podstawie art. 2g ust. 2;
 2)
 oznaczenia klasy wyrobu pirotechnicznego, którego dotyczy certyfikat zgodności, w skróconej formie (F1, F2, F3 i F4, T1 i T2, P1 i P2);
 3)
@@ -582,6 +587,8 @@ Informacje zawarte w rejestrze są przechowywane przez 10 lat od dnia wydania ce
 W przypadku, gdy jednostka notyfikowana utraci uprawnienia do oceny zgodności wyrobów pirotechnicznych, przekazuje rejestr, o którym mowa w ust. 3, innej jednostce notyfikowanej lub ministrowi właściwemu do spraw gospodarki.
 7.
 Przekazanie rejestru w przypadku, o którym mowa w ust. 6, następuje za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z jednostką notyfikowaną lub ministrem właściwym do spraw gospodarki, które przejmą rejestr, po opatrzeniu kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+Przepisy karne
+Kary pieniężne
 Producent albo importer, który udostępnia na rynku wyroby pirotechniczne klasy P1 do pojazdów, z wyjątkiem takich wyrobów zamontowanych w pojeździe lub stanowiących części zamienne do pojazdu, podlega karze pieniężnej w wysokości do 20 000 zł.
 1.
 Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego lub wyrób pirotechniczny, niezgodny z wymaganiami bezpieczeństwa, albo dystrybutor, który udostępnia na rynku ten materiał lub wyrób, niezgodny z wymaganiami bezpieczeństwa, podlega karze pieniężnej w wysokości do 100 000 zł.
@@ -621,8 +628,7 @@ Producent materiału wybuchowego przeznaczonego do użytku cywilnego, wytwarzane
 1)
 dokumentacji technicznej dotyczącej tego materiału lub wyrobu lub
 2)
-deklaracji zgodności dotyczącej tego materiału lub wyrobu
-podlega karze pieniężnej w wysokości do 10 000 zł.
+deklaracji zgodności dotyczącej tego materiału lub wyrobu – podlega karze pieniężnej w wysokości do 10 000 zł.
 2.
 Importer materiału wybuchowego przeznaczonego do użytku cywilnego lub wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie:
 1)
@@ -630,8 +636,7 @@ zapewnienia sporządzenia przez producenta dokumentacji technicznej tego materia
 2)
 przechowywania kopii deklaracji zgodności tego materiału lub wyrobu, lub
 3)
-zapewnienia dostępności dokumentacji technicznej tego materiału lub wyrobu
-podlega karze pieniężnej w wysokości do 10 000 zł.
+zapewnienia dostępności dokumentacji technicznej tego materiału lub wyrobu – podlega karze pieniężnej w wysokości do 10 000 zł.
 Upoważniony przedstawiciel producenta materiału wybuchowego przeznaczonego do użytku cywilnego lub wytwarzanego materiału wybuchowego metodą in situ , który nie dopełnia obowiązków w zakresie przechowywania deklaracji zgodności lub dokumentacji technicznej tego materiału, podlega karze pieniężnej w wysokości do 10 000 zł.
 1.
 Kary pieniężne, o których mowa w art. 65a-65g, nakłada, w drodze decyzji, organ nadzoru rynku, o którym mowa w art. 62zc ust. 4 oraz art. 62zl ust. 4, prowadzący postępowanie w sprawie materiałów wybuchowych przeznaczonych do użytku cywilnego lub wyrobów pirotechnicznych.
@@ -668,9 +673,40 @@ Kary pieniężnej nie pobiera się po upływie 3 lat od dnia wydania ostatecznej
 1.
 Środki finansowe pochodzące z kar pieniężnych stanowią dochód budżetu państwa.
 2.
-Do kar pieniężnych, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.).
+Do kar pieniężnych, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265, 1301 i 1933.).
 3.
 Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
+Przepisy zmieniające, przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zasady wydawania i cofania pozwoleń na nabywanie, przechowywanie lub używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub na wytwarzanie materiałów wybuchowych metodą in situ
+
+#### Rozdział 2a – Zasady używania materiałów wybuchowych przeznaczonych do użytku cywilnego
+
+#### Rozdział 3 – Zasady i kontrola przemieszczania materiałów wybuchowych przeznaczonych do użytku cywilnego
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 5a – Klasyfikacja wprowadzanych do obrotu wyrobów pirotechnicznych oraz ograniczenia z niej wynikające
+
+#### Rozdział 5b – Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wytwarzaniem materiałów wybuchowych metodą in situ
+
+#### Rozdział 5c – Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach materiałów wybuchowych przeznaczonych do użytku cywilnego
+
+#### Rozdział 5d – Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku wyrobów pirotechnicznych
+
+#### Rozdział 5e – Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach wyrobów pirotechnicznych
+
+#### Rozdział 5f – Obowiązki jednostek notyfikowanych związane z przydzielaniem numerów rejestracyjnych identyfikujących wyroby pirotechniczne
+
+#### Rozdział 6 – Przepisy karne
+
+#### Rozdział 6a – Kary pieniężne
+
+#### Rozdział 7 – Przepisy zmieniające, przejściowe i końcowe
 
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 
@@ -679,9 +715,9 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 **Art. 824.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego
+- **2)** art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnegoNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 93/15/EWG z dnia 5 kwietnia 1993 r. w sprawie harmonizacji przepisów dotyczących wprowadzania do obrotu i kontroli materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. Urz. WE L 121 z 15.05.1993, str. 20, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 12, str. 58, z późn. zm.).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -703,16 +739,13 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 
 2. Przepisy ustawy stosuje się także do osób zagranicznych i przedsiębiorców zagranicznych w zakresie przemieszczania materiałów wybuchowych przeznaczonych do użytku cywilnego.
 
-3. Przepisów ustawy nie stosuje się do materiałów wybuchowych nabywanych, przechowywanych, przemieszczanych i używanych przez Siły Zbrojne Rzeczypospolitej Polskiej, Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Centralne Biuro Antykorupcyjne, Służba Ochrony Państwa, Policję, Służbę Więzienną, Straż Graniczną, Służbę Celno-Skarbową oraz przez armie obcych państw przebywające na terytorium Rzeczypospolitej Polskiej.
-
-3a. Przepisów ustawy nie stosuje się do materiałów wybuchowych nabywanych, przechowywanych, przemieszczanych przez Rządową Agencję Rezerw Strategicznych w celu tworzenia, utrzymywania lub udostępnienia rezerw strategicznych lub których zakup, magazynowanie, dystrybucja, wydawanie lub inne zadania zostały powierzone tej Agencji zgodnie z art. 29 lub art. 32 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2022 r. poz. 1513 i 1695).
+3. Przepisów ustawy nie stosuje się do materiałów wybuchowych nabywanych, przechowywanych, przemieszczanych i używanych przez Siły Zbrojne Rzeczypospolitej Polskiej, Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Centralne Biuro Antykorupcyjne, Służba Ochrony Państwa, Policję, Służbę Więzienną, Straż Graniczną, Służbę Celno-Skarbową oraz przez armie obcych państw przebywające na terytorium Rzeczypospolitej Polskiej. 3aDodany przez art. 3 ustawy z dnia 13 stycznia 2022 r. o zmianie ustawy o rezerwach strategicznych oraz niektórych innych ustaw (Dz. U. poz. 275), która weszła w życie z dniem 19 lutego 2022 r.. Przepisów ustawy nie stosuje się do materiałów wybuchowych nabywanych, przechowywanych, przemieszczanych przez Rządową Agencję Rezerw Strategicznych w celu tworzenia, utrzymywania lub udostępnienia rezerw strategicznych lub których zakup, magazynowanie, dystrybucja, wydawanie lub inne zadania zostały powierzone tej Agencji zgodnie z art. 29 lub art. 32 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2022 r. poz. 1513 i 1695).
 
 4. Przepisów ustawy nie stosuje się do materiałów wybuchowych nabywanych, przechowywanych, przemieszczanych i używanych przez zagranicznych funkcjonariuszy biorących udział we wspólnej operacji, o której mowa w art. 2 pkt 1 ustawy z dnia 7 lutego 2014 r. o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 1802).
 
 5. Przepisów ustawy, z wyjątkiem art. 9 ust. 9, nie stosuje się do amunicji. Przepisów rozdziałów 5d-5f nie stosuje się do:
 
-- **1)** wyrobów pirotechnicznych przeznaczonych do niehandlowego wykorzystania w realizacji zadań: Sił Zbrojnych Rzeczypospolitej Polskiej, o których mowa w art. 11 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725), Policji, o których mowa w art. 1 ust. 2 i 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.), Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, o których mowa w art. 5 i art. 6 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557 i 1488), Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, o których mowa w art. 5 i art. 6 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2022 r. poz. 502 i 655), Centralnego Biura Antykorupcyjnego, o których mowa w art. 2 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900), Służby Ochrony Państwa, o których mowa w art. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2021 r. poz. 575, 1728 i 2333 oraz z 2022 r. poz. 655 i 1115), Straży Granicznej, o których mowa w art. 1 ust. 2–2b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, 1115 i 1855), Krajowej Administracji Skarbowej, o których mowa w art. 2 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.), Służby Więziennej, o których mowa w art. 2 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.), Państwowej Straży Pożarnej, o których mowa w art. 1 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969);
-    - **a)**
+- **1)** wyrobów pirotechnicznych przeznaczonych do niehandlowego wykorzystania w realizacji zadań: aZe zmianą wprowadzoną przez art. 734 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), która weszła w życie z dniem 23 kwietnia 2022 r.) Sił Zbrojnych Rzeczypospolitej Polskiej, o których mowa w art. 11 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725), Policji, o których mowa w art. 1 ust. 2 i 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2333, 2447 i 2448 oraz z 2022 r. poz. 655, 1115, 1488 i 1855.), Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, o których mowa w art. 5 i art. 6 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557 i 1488), Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, o których mowa w art. 5 i art. 6 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2022 r. poz. 502 i 655), Centralnego Biura Antykorupcyjnego, o których mowa w art. 2 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900), Służby Ochrony Państwa, o których mowa w art. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2021 r. poz. 575, 1728 i 2333 oraz z 2022 r. poz. 655 i 1115), Straży Granicznej, o których mowa w art. 1 ust. 2–2b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, 1115 i 1855), Krajowej Administracji Skarbowej, o których mowa w art. 2 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933 i 2015.), Służby Więziennej, o których mowa w art. 2 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.), Państwowej Straży Pożarnej, o których mowa w art. 1 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969); 2Ze zmianą wprowadzoną przez art. 734 pkt 2 ustawy, o której mowa w odnośniku 3.) wyrobów pirotechnicznych przeznaczonych do niehandlowego wykorzystania przez armie obcych państw przebywające na terytorium Rzeczypospolitej Polskiej na zasadach określonych ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2018 r. poz. 2110 oraz z 2022 r. poz. 655);
     - **b)**
     - **c)**
     - **d)**
@@ -723,7 +756,6 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
     - **i)**
     - **j)**
 
-- **2)** wyrobów pirotechnicznych przeznaczonych do niehandlowego wykorzystania przez armie obcych państw przebywające na terytorium Rzeczypospolitej Polskiej na zasadach określonych ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2018 r. poz. 2110 oraz z 2022 r. poz. 655);
 - **3)** wyposażenia morskiego, o którym mowa w ustawie z dnia 2 grudnia 2016 r. o wyposażeniu morskim (Dz. U. z 2019 r. poz. 955);
 - **4)** wyrobów pirotechnicznych przeznaczonych do wykorzystania w przemyśle lotniczym;
 - **5)** kapiszonów przeznaczonych specjalnie do zabawek, o których mowa w przepisach wydanych na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854), dotyczących zasadniczych wymagań dla zabawek.
@@ -771,7 +803,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 - **1)** wymagania bezpieczeństwa dotyczące projektowania i wytwarzania tych materiałów,
 - **2)** procedury oceny zgodności tych materiałów z zastosowaniem modułów w tych procedurach,
 - **3)** zakres dokumentacji technicznej tych materiałów,
-- **4)** elementy deklaracji zgodności dla tych materiałów uwzględniając w szczególności rodzaj i stopień zagrożeń stwarzanych przez te materiały, potrzebę zapewnienia identyfikacji i identyfikowalności tych materiałów oraz potrzebę zapewnienia użytkownikom tych materiałów informacji niezbędnych dla ich bezpiecznego użytkowania.
+- **4)** elementy deklaracji zgodności dla tych materiałów – uwzględniając w szczególności rodzaj i stopień zagrożeń stwarzanych przez te materiały, potrzebę zapewnienia identyfikacji i identyfikowalności tych materiałów oraz potrzebę zapewnienia użytkownikom tych materiałów informacji niezbędnych dla ich bezpiecznego użytkowania.
 
 2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, w odniesieniu do wyrobów pirotechnicznych:
 
@@ -779,7 +811,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 - **2)** procedury oceny zgodności tych wyrobów z zastosowaniem modułów w tych procedurach,
 - **3)** zakres dokumentacji technicznej tych wyrobów,
 - **4)** wymagania dla etykiet umieszczanych na tych wyrobach,
-- **5)** elementy deklaracji zgodności dla tych wyrobów uwzględniając w szczególności rodzaj i stopień zagrożeń stwarzanych przez te wyroby, potrzebę zapewnienia identyfikowalności tych wyrobów oraz potrzebę zapewnienia użytkownikom tych wyrobów informacji niezbędnych dla ich bezpiecznego użytkowania.
+- **5)** elementy deklaracji zgodności dla tych wyrobów – uwzględniając w szczególności rodzaj i stopień zagrożeń stwarzanych przez te wyroby, potrzebę zapewnienia identyfikowalności tych wyrobów oraz potrzebę zapewnienia użytkownikom tych wyrobów informacji niezbędnych dla ich bezpiecznego użytkowania.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
@@ -788,11 +820,11 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 - **3)** dokumencie wewnątrzwspólnotowego przemieszczania materiałów wybuchowych – należy przez to rozumieć dokument, o którym mowa w decyzji Komisji Europejskiej 2004/388/WE z dnia 15 kwietnia 2004 r. w sprawie dokumentu wewnątrzwspólnotowego przemieszczenia materiałów wybuchowych (Dz. Urz. UE L 120 z 24.04.2004, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 135);
 - **4)** dystrybutorze – należy przez to rozumieć osobę fizyczną albo prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, działającą w łańcuchu dostaw, niebędącą producentem ani importerem, która udostępnia materiały wybuchowe przeznaczone do użytku cywilnego, w tym wyroby pirotechniczne, na rynku;
 - **5)** grupach zgodności – należy przez to rozumieć oznaczone literowo grupy zgodności materiałów i przedmiotów wybuchowych, określone w załączniku A;
-- **6)** importerze – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego, w tym wyrób pirotechniczny, pochodzący z państwa trzeciego;
+- **6)** importerze – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę – na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego, w tym wyrób pirotechniczny, pochodzący z państwa trzeciego;
     - **a)**
     - **b)**
 
-- **7)** jednostkach naukowych – należy przez to rozumieć podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.);
+- **7)** jednostkach naukowych – należy przez to rozumieć podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459.);
 - **8)** klasach materiałów niebezpiecznych – należy przez to rozumieć grupy materiałów i przedmiotów niebezpiecznych wydzielone na podstawie dominującego zagrożenia, określone w załączniku A;
 - **9)** kodzie klasyfikacyjnym – należy przez to rozumieć symbol cyfrowo-literowy składający się z podklasy i litery grupy zgodności materiału i przedmiotu wybuchowego;
 - **10)** Konwencji – należy przez to rozumieć Konwencję w sprawie znakowania plastycznych materiałów wybuchowych w celu ich wykrywania, podpisaną w Montrealu dnia 1 marca 1991 r. (Dz. U. z 2007 r. poz. 948);
@@ -800,7 +832,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 - **12)** normie zharmonizowanej – należy przez to rozumieć normę zharmonizowaną w rozumieniu art. 2 pkt 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1025/2012 z dnia 25 października 2012 r. w sprawie normalizacji europejskiej, zmieniającego dyrektywy Rady 89/686/EWG i 93/15/EWG oraz dyrektywy Parlamentu Europejskiego i Rady 94/9/WE, 94/25/WE, 95/16/WE, 97/23/WE, 98/34/WE, 2004/22/WE, 2007/23/WE, 2009/23/WE i 2009/105/WE oraz uchylającego decyzję Rady 87/95/EWG i decyzję Parlamentu Europejskiego i Rady nr 1673/2006/WE (Dz. Urz. UE L 316 z 14.11.2012, str. 12), której tytuł i numer zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej;
 - **13)** ocenie zgodności – należy przez to rozumieć proces wykazujący, że zostały spełnione wymagania bezpieczeństwa dotyczące materiałów wybuchowych przeznaczonych do użytku cywilnego albo wyrobów pirotechnicznych;
 - **14)** oczyszczaniu terenów – należy przez to rozumieć działalność gospodarczą obejmującą poszukiwanie materiałów wybuchowych, wydobycie, zabezpieczenie, zniszczenie albo unieszkodliwienie znalezionych materiałów wybuchowych na lądzie lub wodach śródlądowych, lub obszarach morskich;
-- **15)** odbiorcy – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która odbiera materiały wybuchowe przeznaczone do użytku cywilnego, z wyłączeniem wyrobów pirotechnicznych;
+- **15)** odbiorcy – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę – na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która odbiera materiały wybuchowe przeznaczone do użytku cywilnego, z wyłączeniem wyrobów pirotechnicznych;
     - **a)**
     - **b)**
 
@@ -821,7 +853,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 - **27)** udostępnieniu na rynku – należy przez to rozumieć dostarczenie w ramach działalności gospodarczej, odpłatnie lub nieodpłatnie, materiału wybuchowego przeznaczonego do użytku cywilnego, w tym wyrobu pirotechnicznego, w celu dystrybucji lub używania na terytorium państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
 - **28)** umowie ADR – należy przez to rozumieć Umowę europejską dotyczącą międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzoną w Genewie dnia 30 września 1957 r. (Dz. U. z 2021 r. poz. 874 i 1307);
 - **29)** unijnym prawodawstwie harmonizacyjnym – należy przez to rozumieć prawodawstwo, o którym mowa w art. 2 pkt 21 rozporządzenia (WE) nr 765/2008;
-- **30)** upoważnionym przedstawicielu – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, posiadającą pisemne pełnomocnictwo od producenta materiałów wybuchowych przeznaczonych do użytku cywilnego do działania w jego imieniu w określonym zakresie;
+- **30)** upoważnionym przedstawicielu – należy przez to rozumieć: osobę fizyczną mającą miejsce zamieszkania albo osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę – na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, posiadającą pisemne pełnomocnictwo od producenta materiałów wybuchowych przeznaczonych do użytku cywilnego do działania w jego imieniu w określonym zakresie;
     - **a)**
     - **b)**
 
@@ -844,7 +876,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 
 - **1)** substancje i wyroby, które w toku procedury klasyfikacyjnej, o której mowa w załączniku A, zostały zaliczone do klasy 1 materiałów niebezpiecznych,
 - **2)** materiały wybuchowe w stanie niewybuchowym ujęte w klasie 4.1 materiałów niebezpiecznych, wymienione w załączniku A, jeżeli przez wysuszenie lub przemycie mogą być im przywrócone właściwości wybuchowe,
-- **3)** przedmioty ratownicze ujęte w klasie 9 materiałów niebezpiecznych, wymienione w załączniku A, jeżeli zawierają materiały i przedmioty wybuchowe zaliczone do klasy 1 materiałów niebezpiecznych jeżeli są przeznaczone do celów cywilnych.
+- **3)** przedmioty ratownicze ujęte w klasie 9 materiałów niebezpiecznych, wymienione w załączniku A, jeżeli zawierają materiały i przedmioty wybuchowe zaliczone do klasy 1 materiałów niebezpiecznych – jeżeli są przeznaczone do celów cywilnych.
 
 2. Materiał, co do którego istnieje uzasadnione przypuszczenie, że może mieć właściwości wybuchowe, lub wyrób wypełniony tym materiałem do czasu przeprowadzenia badań klasyfikacyjnych przez jednostki, o których mowa w ust. 3, uważa się za zaklasyfikowany wstępnie jako materiał wybuchowy.
 
@@ -885,7 +917,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 - **1)** wzór wniosku o nadanie numeru identyfikacyjnego,
 - **2)** wzór numeru identyfikacyjnego,
 - **3)** wzór świadectwa identyfikacyjnego,
-- **4)** sposób prowadzenia rejestru biorąc pod uwagę potrzebę zapewnienia bezpieczeństwa używania materiałów wybuchowych przeznaczonych do użytku cywilnego oraz zapewnienia możliwości jednoznacznej identyfikacji każdego materiału wybuchowego przeznaczonego do użytku cywilnego pozostającego w obrocie na terytorium Rzeczypospolitej Polskiej, a także umożliwienie pozyskiwania informacji przez zainteresowanych o materiałach wybuchowych przeznaczonych do użytku cywilnego. Przy nabywaniu, przechowywaniu i używaniu materiałów wybuchowych przeznaczonych do użytku cywilnego, a także prowadzeniu prac badawczych przy ich użyciu należy zapewnić bezpieczeństwo życia i zdrowia ludzi, mienia oraz środowiska.
+- **4)** sposób prowadzenia rejestru – biorąc pod uwagę potrzebę zapewnienia bezpieczeństwa używania materiałów wybuchowych przeznaczonych do użytku cywilnego oraz zapewnienia możliwości jednoznacznej identyfikacji każdego materiału wybuchowego przeznaczonego do użytku cywilnego pozostającego w obrocie na terytorium Rzeczypospolitej Polskiej, a także umożliwienie pozyskiwania informacji przez zainteresowanych o materiałach wybuchowych przeznaczonych do użytku cywilnego. Przy nabywaniu, przechowywaniu i używaniu materiałów wybuchowych przeznaczonych do użytku cywilnego, a także prowadzeniu prac badawczych przy ich użyciu należy zapewnić bezpieczeństwo życia i zdrowia ludzi, mienia oraz środowiska.
 
 **Art. 6.** (uchylony)
 
@@ -893,7 +925,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 
 **Art. 8.** Nabywanie materiałów wybuchowych przeznaczonych do użytku cywilnego, z zastrzeżeniem art. 9 ust. 7, jest dozwolone od przedsiębiorcy posiadającego koncesję na obrót tymi materiałami.
 
-#### Rozdział 2 Zasady wydawania i cofania pozwoleń na nabywanie, przechowywanie lub używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub na wytwarzanie materiałów wybuchowych metodą in situ
+#### Rozdział 2
 
 **Art. 9.**
 
@@ -935,7 +967,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
     - **b)**
     - **c)**
 
-- **2)** przedsiębiorców wykonujących powierzone im roboty strzałowe w ruchu zakładu górniczego albo zakładu wydaje, odmawia jego wydania lub je cofa dyrektor okręgowego urzędu górniczego.
+- **2)** przedsiębiorców wykonujących powierzone im roboty strzałowe w ruchu zakładu górniczego albo zakładu – wydaje, odmawia jego wydania lub je cofa dyrektor okręgowego urzędu górniczego.
 
 2a. (uchylony)
 
@@ -1082,7 +1114,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 
 4. Od decyzji wojewody o wydaniu, odmowie wydania lub cofnięciu pozwolenia przysługuje odwołanie do ministra właściwego do spraw gospodarki, a od decyzji dyrektora okręgowego urzędu górniczego – do Prezesa Wyższego Urzędu Górniczego.
 
-#### Rozdział 2a Zasady używania materiałów wybuchowych przeznaczonych do użytku cywilnego
+#### Rozdział 2a
 
 **Art. 18.**
 
@@ -1177,7 +1209,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 
 7. Wojewoda może upoważnić do przeprowadzenia kontroli, o której mowa w ust. 1, inny organ administracji, wskazując zakres kontroli. Przepisy ust. 2–5 stosuje się odpowiednio.
 
-#### Rozdział 3 Zasady i kontrola przemieszczania materiałów wybuchowych przeznaczonych do użytku cywilnego
+#### Rozdział 3
 
 **Art. 23.**
 
@@ -1185,7 +1217,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 
 1a. Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.
 
-2. Przepis ust. 1 nie narusza zasad przewozu materiałów niebezpiecznych poszczególnymi rodzajami środków transportu, określonych w przepisach: – Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (ICAO – Dz. U. z 1959 r. poz. 212, z późn. zm.), ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715 i 1846), – Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r., – Regulaminu międzynarodowego przewozu kolejami towarów niebezpiecznych (RID), stanowiącego załącznik C do Konwencji o międzynarodowym przewozie kolejami (COTIF), sporządzonej w Bernie dnia 9 maja 1980 r. (Dz. U. z 2007 r. poz. 674 i 675, z 2009 r. poz. 1318 oraz z 2011 r. poz. 804, 805 i 1073), – Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869 i 2029 oraz z 2017 r. poz. 142), ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175) oraz ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515 i 1604), – ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2022 r. poz. 1097), – ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, ani zasad transportu podlegającego obowiązkowej ochronie na podstawie przepisów ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995).
+2. Przepis ust. 1 nie narusza zasad przewozu materiałów niebezpiecznych poszczególnymi rodzajami środków transportu, określonych w przepisach: – Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (ICAO – Dz. U. z 1959 r. poz. 212, z późn. zm.Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1959 r. poz. 214, z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188 i 189, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701, z 2012 r. poz. 368 i 370 oraz z 2016 r. poz. 541.), ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715 i 1846), – Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r., – Regulaminu międzynarodowego przewozu kolejami towarów niebezpiecznych (RID), stanowiącego załącznik C do Konwencji o międzynarodowym przewozie kolejami (COTIF), sporządzonej w Bernie dnia 9 maja 1980 r. (Dz. U. z 2007 r. poz. 674 i 675, z 2009 r. poz. 1318 oraz z 2011 r. poz. 804, 805 i 1073), – Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869 i 2029 oraz z 2017 r. poz. 142), ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175) oraz ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515 i 1604), – ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2022 r. poz. 1097), – ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, ani zasad transportu podlegającego obowiązkowej ochronie na podstawie przepisów ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995).
 
 **Art. 24.**
 
@@ -1320,7 +1352,7 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 
 #### Rozdział 5
 
-#### Rozdział 5a Klasyfikacja wprowadzanych do obrotu wyrobów pirotechnicznych oraz ograniczenia z niej wynikające
+#### Rozdział 5a
 
 **Art. 62a.** (uchylony) (uchylony) 1. Producent dokonuje klasyfikacji wyrobów pirotechnicznych wprowadzanych do obrotu w zależności od sposobu ich używania, przeznaczenia i stopnia zagrożenia, w tym poziomu hałasu, w następujący sposób:
 
@@ -1346,17 +1378,17 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 
 2. Producenci, importerzy i dystrybutorzy udostępniają na rynku wyroby pirotechniczne klas F4, T2 i P2 wyłącznie osobom posiadającym wiedzę specjalistyczną, o których mowa w art. 62c ust. 2. (uchylone)
 
-#### Rozdział 5b Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wytwarzaniem materiałów wybuchowych metodą in situ
+#### Rozdział 5b
 
-#### Rozdział 5c Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach materiałów wybuchowych przeznaczonych do użytku cywilnego
+#### Rozdział 5c
 
-#### Rozdział 5d Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku wyrobów pirotechnicznych
+#### Rozdział 5d
 
-#### Rozdział 5e Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach wyrobów pirotechnicznych
+#### Rozdział 5e
 
-#### Rozdział 5f Obowiązki jednostek notyfikowanych związane z przydzielaniem numerów rejestracyjnych identyfikujących wyroby pirotechniczne
+#### Rozdział 5f
 
-#### Rozdział 6 Przepisy karne
+#### Rozdział 6
 
 **Art. 63.**
 
@@ -1386,9 +1418,9 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 
 2. Orzekanie w sprawach o czyny określone w ust. 1 i 1a następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
-#### Rozdział 6a Kary pieniężne
+#### Rozdział 6a
 
-#### Rozdział 7 Przepisy zmieniające, przejściowe i końcowe
+#### Rozdział 7
 
 **Art. 66.** (pominięty)
 
@@ -1400,9 +1432,9 @@ Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzeku
 
 **Art. 70.** (pominięty)
 
-**Art. 71.** Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej czynności wykonywane przez organy kontroli granicznej i celnej, o których mowa w art. 30 ust. 1 i 2, nie są czynnościami z zakresu kontroli ruchu granicznego albo kontroli celnej.
+**Art. 71.** Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii EuropejskiejRzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r. czynności wykonywane przez organy kontroli granicznej i celnej, o których mowa w art. 30 ust. 1 i 2, nie są czynnościami z zakresu kontroli ruchu granicznego albo kontroli celnej.
 
-**Art. 72.** Przepisy rozdziałów 3–5 stosuje się od dnia przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej.
+**Art. 72.** Przepisy rozdziałów 3–5 stosuje się od dnia przystąpienia Rzeczypospolitej Polskiej do Unii EuropejskiejRzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r..
 
-**Art. 73.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Załącznik – (uchylony)
+**Art. 73.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 25 lipca 2002 r.. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 93/15/EWG z dnia 5 kwietnia 1993 r. w sprawie harmonizacji przepisów dotyczących wprowadzania do obrotu i kontroli materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. Urz. WE L 121 z 15.05.1993, str. 20, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 12, str. 58, z późn. zm.). 2) Dodany przez art. 3 ustawy z dnia 13 stycznia 2022 r. o zmianie ustawy o rezerwach strategicznych oraz niektórych innych ustaw (Dz. U. poz. 275), która weszła w życie z dniem 19 lutego 2022 r. 3) Ze zmianą wprowadzoną przez art. 734 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), która weszła w życie z dniem 23 kwietnia 2022 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2333, 2447 i 2448 oraz z 2022 r. poz. 655, 1115, 1488 i 1855. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933 i 2015. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933. 7) Ze zmianą wprowadzoną przez art. 734 pkt 2 ustawy, o której mowa w odnośniku 3. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459. 9) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 1959 r. poz. 214, z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188 i 189, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701, z 2012 r. poz. 368 i 370 oraz z 2016 r. poz. 541. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265, 1301 i 1933. 11) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r. 12) Ustawa została ogłoszona w dniu 25 lipca 2002 r. Załącznik – (uchylony)
 

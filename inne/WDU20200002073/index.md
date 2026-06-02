@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-20 |
 | Data wydania | 2020-11-24 |
-| Wejście w życie | 2020-12-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2073/text.pdf) |
 
@@ -72,8 +71,7 @@ Zapomogę przekazuje:
 1)
 jednostka organizacyjna ABW właściwa w sprawach finansowych na rachunek bankowy wskazany w formie pisemnej przez weterana-funkcjonariusza ABW albo weterana poszkodowanego-funkcjonariusza ABW,
 2)
-jednostka organizacyjna AW właściwa w sprawach finansowych w formie gotówkowej lub bezgotówkowej stosownie do dyspozycji udzielonej przez weterana-funkcjonariusza AW albo weterana poszkodowanego-funkcjonariusza AW
-ze środków pozostających w dyspozycji odpowiednio Szefa ABW albo Szefa AW.
+jednostka organizacyjna AW właściwa w sprawach finansowych w formie gotówkowej lub bezgotówkowej stosownie do dyspozycji udzielonej przez weterana-funkcjonariusza AW albo weterana poszkodowanego-funkcjonariusza AW – ze środków pozostających w dyspozycji odpowiednio Szefa ABW albo Szefa AW.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 12 września 2012 r. w sprawie przyznawania zapomóg weteranom-funkcjonariuszom lub weteranom poszkodowanym-funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1036), które na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 12 września 2012 r. w sprawie przyznawania zapomóg weteranom-funkcjonariuszom lub weteranom poszkodowanym-funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1036), które na podstawie art. 19 ust. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r.
 

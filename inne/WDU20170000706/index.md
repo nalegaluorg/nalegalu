@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-23 |
 | Data wydania | 2017-03-31 |
-| Wejście w życie | 2017-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000706) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/706/text.pdf) |
 
@@ -31,7 +30,7 @@ source: "eli-html"
 - **1)** w ust. 5: pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** odpowiednio 9%, 12% i 15% sumy ubezpieczenia upraw, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem upraw drzew i krzewów owocowych oraz truskawek, od ubezpieczenia upraw od wszystkich rodzajów ryzyka, o których mowa w tym przepisie, dopłaty przysługują w wysokości stanowiącej iloraz: iloczynu wysokości dopłat określonej w przepisach wydanych na podstawie ust. 10 i odpowiednio liczby 9, 12 lub 15 oraz sumy ustalonych przez zakład ubezpieczeń stawek taryfowych ubezpieczenia od rodzajów ryzyka objętych ubezpieczeniem, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem ryzyka suszy i ujemnych skutków przezimowania nie większej jednak niż określona w ust. 2 pkt 1; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1)** odpowiednio 9%, 12% i 15% sumy ubezpieczenia upraw, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem upraw drzew i krzewów owocowych oraz truskawek, od ubezpieczenia upraw od wszystkich rodzajów ryzyka, o których mowa w tym przepisie, dopłaty przysługują w wysokości stanowiącej iloraz: iloczynu wysokości dopłat określonej w przepisach wydanych na podstawie ust. 10 i odpowiednio liczby 9, 12 lub 15 oraz sumy ustalonych przez zakład ubezpieczeń stawek taryfowych ubezpieczenia od rodzajów ryzyka objętych ubezpieczeniem, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem ryzyka suszy i ujemnych skutków przezimowania – nie większej jednak niż określona w ust. 2 pkt 1; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
     - **b)**
     - **b)**
@@ -46,7 +45,7 @@ source: "eli-html"
 7a. Jeżeli określone przez zakłady ubezpieczeń stawki taryfowe ubezpieczenia z tytułu ubezpieczenia upraw, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem upraw drzew i krzewów owocowych oraz truskawek, przekroczą stawki taryfowe ubezpieczenia określone w ust. 2 pkt 1, dopłaty przysługują w wysokości stanowiącej iloraz:
 
 - **1)** iloczynu wysokości dopłat określonej w przepisach wydanych na podstawie ust. 10 i odpowiednio liczby 9, 12 lub 15 oraz
-- **2)** sumy ustalonych przez zakład ubezpieczeń stawek taryfowych ubezpieczenia od rodzajów ryzyka objętych ubezpieczeniem, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem ryzyka suszy i ujemnych skutków przezimowania nie większej jednak niż określona w ust. 2 pkt 1.
+- **2)** sumy ustalonych przez zakład ubezpieczeń stawek taryfowych ubezpieczenia od rodzajów ryzyka objętych ubezpieczeniem, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem ryzyka suszy i ujemnych skutków przezimowania – nie większej jednak niż określona w ust. 2 pkt 1.
 
 7b. Jeżeli określone przez zakłady ubezpieczeń stawki taryfowe ubezpieczenia upraw drzew i krzewów owocowych oraz truskawek przekroczą stawki taryfowe ubezpieczenia określone w ust. 2 pkt 1, dopłaty przysługują w wysokości określonej w ust. 2 pkt 1. ” .
 

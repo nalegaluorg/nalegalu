@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-07-23 |
-| Wejście w życie | 2018-08-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001397) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1397/text.pdf) |
 
@@ -32,6 +31,6 @@ source: "eli-html"
 
 1. Uniwersytet kształci oraz prowadzi badania naukowe w szczególności w zakresie nauk humanistycznych, społecznych, medycznych i teologicznych.
 
-2. W przypadku ubiegania się o uprawnienie do prowadzenia studiów na kierunku lekarskim nie stosuje się przepisów art. 11 ust. 3 pkt 2 lit. b tiret pierwsze ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.). ” . Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+2. W przypadku ubiegania się o uprawnienie do prowadzenia studiów na kierunku lekarskim nie stosuje się przepisów art. 11 ust. 3 pkt 2 lit. b tiret pierwsze ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 398, 650, 730, 912, 1000 i 1115.). ” . Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 398, 650, 730, 912, 1000 i 1115.
 
 

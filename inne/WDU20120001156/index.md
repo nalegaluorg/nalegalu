@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-15 |
 | Data wydania | 2012-10-24 |
-| Wejście w życie | 2012-11-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001156) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1156/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183, Nr 234, poz. 1386, Nr 240, poz. 1429 i Nr 291, poz. 1707.) zarządza się, co następuje:
 § 1.
 1.
 Nadwyżkę środków finansowych Agencji Nieruchomości Rolnych stanowi dodatnia różnica między stanem środków finansowych na koniec danego roku obrotowego, z wyłączeniem środków zakładowego funduszu świadczeń socjalnych, a stanem zobowiązań, o których mowa w ust. 2, ustalonych na dzień 31 grudnia danego roku.
@@ -42,5 +41,5 @@ wynagrodzeń;
 4)
 innych zobowiązań krótkoterminowych.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183, Nr 234, poz. 1386, Nr 240, poz. 1429 i Nr 291, poz. 1707.
 

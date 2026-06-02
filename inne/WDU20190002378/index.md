@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 6 grudnia 2019 r. zmieniające rozporządzenie w sprawie specjalistycznej jednostki nadzoru
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 6 grudnia 2019 r. zmieniające rozporządzenie w sprawie specjalistycznej jednostki nadzoru Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2254).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-06 |
 | Data wydania | 2019-12-10 |
-| Wejście w życie | 2019-12-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002378) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2378/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 53 ust. 1 i 1a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 53 ust. 1 i 1a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 27 marca 2019 r. w sprawie specjalistycznej jednostki nadzoru (Dz. U. poz. 607) w § 4 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
-„
+W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 27 marca 2019 r. w sprawie specjalistycznej jednostki nadzoru (Dz. U. poz. 607) w § 4 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 6)
-art. 4 i art. 12 ustawy z dnia 12 kwietnia 2019 r. o opiece zdrowotnej nad uczniami (Dz. U. poz. 1078).
-” .
+art. 4 i art. 12 ustawy z dnia 12 kwietnia 2019 r. o opiece zdrowotnej nad uczniami (Dz. U. poz. 1078). ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2254). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2254). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248.
 

@@ -26,21 +26,38 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000377) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/377/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 28 lutego 2018 r. o kosztach komorniczych Rozdział 1 – Przepisy ogólne Rozdział 2 – Wydatki Rozdział 3 – Opłaty komornicze Rozdział 4 – Zwolnienie od kosztów komorniczych i obniżenie opłaty Rozdział 5 – Przepisy zmieniające i przejściowe oraz przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 28 lutego 2018 r. o kosztach komorniczych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 lutego 2018 r. o kosztach komorniczych (Dz. U. z 2023 r. poz. 1357), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 lutego 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), który stanowi: „
+Przepisy ogólne
+Wydatki
+Opłaty komornicze
+Przepisy ogólne
+Opłaty egzekucyjne w sprawach o egzekucję świadczeń pieniężnych
+Opłaty egzekucyjne w sprawach o egzekucję świadczeń niepieniężnych
+Pozostałe opłaty
 Opłata stała od wniosku o:
 1)
 wykonanie postanowienia o zabezpieczeniu spadku,
 2)
-sporządzenie spisu inwentarza
-wynosi 400 złotych.
+sporządzenie spisu inwentarza – wynosi 400 złotych.
+Zwolnienie od kosztów komorniczych i obniżenie opłaty
+Przepisy zmieniające i przejściowe oraz przepis końcowy
 Art. 49–51.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Wydatki
+
+#### Rozdział 3 – Opłaty komornicze
+
+#### Rozdział 4 – Zwolnienie od kosztów komorniczych i obniżenie opłaty
+
+#### Rozdział 5 – Przepisy zmieniające i przejściowe oraz przepis końcowy
 
 **Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -51,7 +68,7 @@ Art. 49–51.
 - **5)** art. 30 pkt 1, art. 31 pkt 1 lit. b oraz f w zakresie pkt 67 lit. c, które wchodzą w życie z dniem 14 marca 2024 r.;
 - **6)** art. 14, który wchodzi w życie z dniem 1 października 2029 r. ” . Załącznik – Tekst jednolity ustawy z dnia 28 lutego 2018 r. o kosztach komorniczych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa wysokość kosztów komorniczych i zasady ich ponoszenia oraz tryb postępowania w sprawach dotyczących tych kosztów.
 
@@ -65,7 +82,7 @@ Art. 49–51.
 
 **Art. 4.** Prawomocne postanowienie zawierające wezwanie do uiszczenia kosztów komorniczych podlega wykonaniu bez zaopatrywania go w klauzulę wykonalności. Za egzekucję kosztów komorniczych nie pobiera się opłaty egzekucyjnej.
 
-#### Rozdział 2 Wydatki
+#### Rozdział 2
 
 **Art. 5.** Komornikowi przysługuje zwrot niezbędnych wydatków poniesionych w toku postępowania albo w trakcie innych czynności wyłącznie w zakresie określonym ustawą.
 
@@ -85,7 +102,7 @@ Art. 49–51.
 
 **Art. 7.**
 
-1. Jeżeli czynność komornika powoduje wydatki, komornik uzależnia dokonanie tej czynności od uiszczenia zaliczki przez stronę, która wnosi o dokonanie czynności. Przepisu tego nie stosuje się, jeżeli wysokość należności jest równa lub niższa od kosztów wezwania.
+1. Jeżeli czynność komornika powoduje wydatki, komornik uzależnia dokonanie tej czynności od uiszczenia zaliczki przez stronę, która wnosi o dokonanie czynności. Przepisu tego nie stosuje się, jeżeli wysokość należności jest równa lub niższa od kosztów wezwania.Zdanie drugie dodane przez art. 26 pkt 1 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), która weszła w życie z dniem 28 września 2023 r.
 
 2. Zaliczkę na koszty doręczenia korespondencji uiszcza wierzyciel lub wnioskodawca i nie może ona jednorazowo przekroczyć 60 złotych, chyba że planowane wydatki znacznie przekroczą tę kwotę.
 
@@ -103,9 +120,7 @@ Art. 49–51.
 
 1. Czynność, w związku z którą komornik zażądał zaliczki na pokrycie wydatków, podejmuje się nie później niż w terminie 7 dni od dnia uiszczenia zaliczki.
 
-2. Uiszczoną zaliczkę przeznacza się wyłącznie na pokrycie wydatków, na poczet których została uiszczona. Przeznaczenie zaliczki na pokrycie innych wydatków może nastąpić wyłącznie za zgodą strony, która ją uiściła.
-
-3. Przepisu ust. 2 nie stosuje się, jeżeli wysokość niewykorzystanej zaliczki z danego tytułu lub podlegającej częściowemu zwrotowi nie przekracza 60 złotych, a zachodzą podstawy do przyjęcia, że w sprawie powstaną dalsze wydatki.
+2. Uiszczoną zaliczkę przeznacza się wyłącznie na pokrycie wydatków, na poczet których została uiszczona. Przeznaczenie zaliczki na pokrycie innych wydatków może nastąpić wyłącznie za zgodą strony, która ją uiściła. 3Dodany przez art. 26 pkt 2 ustawy, o której mowa w odnośniku 1.. Przepisu ust. 2 nie stosuje się, jeżeli wysokość niewykorzystanej zaliczki z danego tytułu lub podlegającej częściowemu zwrotowi nie przekracza 60 złotych, a zachodzą podstawy do przyjęcia, że w sprawie powstaną dalsze wydatki.
 
 **Art. 10.**
 
@@ -131,7 +146,7 @@ Art. 49–51.
 
 2. Komornik określa wysokość zwrotu wydatków na podstawie złożonej faktury lub rachunku, mając na względzie nakład pracy niezbędny do przedstawienia dokumentu, chyba że wysokość należności z tego tytułu wynika z odrębnych przepisów.
 
-3. Za udzielenie informacji dotyczących stanu majątkowego dłużnika lub umożliwiających identyfikację składników jego majątku oraz danych adresowych w zakresie niezbędnym do zapewnienia prawidłowego toku postępowania podmiotom, o których mowa w art. 761 § 11 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.), przysługuje wynagrodzenie. Komornik uiszcza należność z tego tytułu po udzieleniu informacji, w terminie 7 dni od dnia otrzymania wniosku o przyznanie wynagrodzenia od podmiotu udzielającego informacji.
+3. Za udzielenie informacji dotyczących stanu majątkowego dłużnika lub umożliwiających identyfikację składników jego majątku oraz danych adresowych w zakresie niezbędnym do zapewnienia prawidłowego toku postępowania podmiotom, o których mowa w art. 761 § 11 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760.), przysługuje wynagrodzenie. Komornik uiszcza należność z tego tytułu po udzieleniu informacji, w terminie 7 dni od dnia otrzymania wniosku o przyznanie wynagrodzenia od podmiotu udzielającego informacji.
 
 4. Przepisów ust. 1–3 nie stosuje się w sprawach o egzekucję lub wykonanie postanowienia o udzieleniu zabezpieczenia świadczeń alimentacyjnych lub rent mających charakter alimentów oraz w sprawach o egzekucję lub wykonanie zabezpieczenia roszczenia niezwiązanego z wykonywaniem działalności gospodarczej wszczętych na wniosek Skarbu Państwa, w tym na polecenie sądu lub prokuratora. W sprawach tych przedstawianie dokumentów i udzielanie informacji jest nieodpłatne.
 
@@ -171,9 +186,9 @@ Art. 49–51.
 
 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób pobierania i uiszczania oraz sposób i termin przekazywania sądom należności, o których mowa w ust. 1, a także ich zwrotu oraz sposób prowadzenia ich ewidencji przez komornika i czas jej przechowywania, uwzględniając łatwość uiszczania opłat i przekazywania ich sądom, szczegółowość ewidencji oraz konieczność zapewnienia jej trwałości.
 
-#### Rozdział 3 Opłaty komornicze
+#### Rozdział 3
 
-##### Oddział 1 Przepisy ogólne
+##### Oddział 1
 
 **Art. 18.**
 
@@ -188,13 +203,7 @@ Art. 49–51.
 
 **Art. 20.** Opłata egzekucyjna ustalona zgodnie z przepisami ustawy nie podlega podwyższeniu o jakiekolwiek dodatkowe należności.
 
-**Art. 21.**
-
-1. Opłatę egzekucyjną za egzekucję świadczeń pieniężnych komornik ściąga wraz z egzekwowanym świadczeniem, proporcjonalnie do wartości wyegzekwowanego świadczenia. Ściągnięcie opłaty nie wymaga wydania postanowienia. W każdym postępowaniu komornik ustala wysokość opłat ściągniętych i należnych w postanowieniu o umorzeniu postępowania albo postanowieniu o zakończeniu postępowania w inny sposób.
-
-1a. Na wniosek strony komornik wydaje postanowienie w przedmiocie ustalenia wysokości opłat egzekucyjnych dotąd od niej ściągniętych jako należnych w sprawie.
-
-2. W przypadkach przewidzianych w ustawie komornik wydaje postanowienie o pobraniu opłaty.
+**Art. 21.** 1W brzmieniu ustalonym przez art. 26 pkt 3 lit. a ustawy, o której mowa w odnośniku 1.. Opłatę egzekucyjną za egzekucję świadczeń pieniężnych komornik ściąga wraz z egzekwowanym świadczeniem, proporcjonalnie do wartości wyegzekwowanego świadczenia. Ściągnięcie opłaty nie wymaga wydania postanowienia. W każdym postępowaniu komornik ustala wysokość opłat ściągniętych i należnych w postanowieniu o umorzeniu postępowania albo postanowieniu o zakończeniu postępowania w inny sposób. 1aDodany przez art. 26 pkt 3 lit. b ustawy, o której mowa w odnośniku 1.. Na wniosek strony komornik wydaje postanowienie w przedmiocie ustalenia wysokości opłat egzekucyjnych dotąd od niej ściągniętych jako należnych w sprawie. 2. W przypadkach przewidzianych w ustawie komornik wydaje postanowienie o pobraniu opłaty.
 
 **Art. 22.**
 
@@ -234,7 +243,7 @@ Art. 49–51.
 
 **Art. 26.** Komornik zwraca opłatę albo jej część w terminie 4 dni od dnia ustalenia, że zachodzi podstawa do zwrotu opłaty albo jej części.
 
-##### Oddział 2 Opłaty egzekucyjne w sprawach o egzekucję świadczeń pieniężnych
+##### Oddział 2
 
 **Art. 27.**
 
@@ -268,7 +277,7 @@ Art. 49–51.
 
 - **1)** od osób fizycznych dochodzących roszczeń pracowniczych lub odszkodowawczych;
 - **2)** od jednostek samorządu terytorialnego;
-- **3)** od podmiotów, których przedmiotem działalności: nie jest działalność finansowa i ubezpieczeniowa w rozumieniu przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2023 r. poz. 773) albo jest działalność finansowa i ubezpieczeniowa w rozumieniu przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, o ile są wierzycielami pierwotnymi, a wierzytelność nie była przedmiotem obrotu pod warunkiem że postępowanie egzekucyjne zostało wszczęte przed upływem dwóch lat od powstania tytułu egzekucyjnego obejmującego daną wierzytelność.
+- **3)** od podmiotów, których przedmiotem działalności: nie jest działalność finansowa i ubezpieczeniowa w rozumieniu przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2023 r. poz. 773) albo jest działalność finansowa i ubezpieczeniowa w rozumieniu przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, o ile są wierzycielami pierwotnymi, a wierzytelność nie była przedmiotem obrotu – pod warunkiem że postępowanie egzekucyjne zostało wszczęte przed upływem dwóch lat od powstania tytułu egzekucyjnego obejmującego daną wierzytelność.
     - **a)**
     - **b)**
 
@@ -280,17 +289,13 @@ Art. 49–51.
 
 **Art. 31.**
 
-1. Opłata stała od wniosku o wykonanie zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym wynosi 300 złotych.
-
-2. W razie wykonania zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym, komornik pobiera od wnioskodawcy opłatę stosunkową w wysokości 10 % wartości mienia objętego zabezpieczeniem. Opłata ta podlega zmniejszeniu o wysokość opłaty pobranej na podstawie ust. 1. Jeżeli ustalenie wartości mienia objętego zabezpieczeniem wymaga opinii biegłego, komornik wzywa uprawnionego do uiszczenia zaliczki na związane z tym wydatki. W razie nieuiszczenia zaliczki, termin umorzenia postępowania, o którym mowa w art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, wynosi miesiąc.
-
-2a. W razie umorzenia postępowania o wykonanie zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym na wniosek uprawnionego albo na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, uprawnionego obciąża opłata stosunkowa w wysokości 5 % wartości świadczenia, które miało podlegać zabezpieczeniu. Jeżeli jednak uprawniony wykaże, że przyczyna umorzenia postępowania wiąże się ze spełnieniem świadczenia przez obowiązanego, uprawnionego obciąża opłata w wysokości 2 % świadczenia, które miało podlegać zabezpieczeniu.
+1. Opłata stała od wniosku o wykonanie zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym wynosi 300 złotych. 2W brzmieniu ustalonym przez art. 26 pkt 4 lit. a ustawy, o której mowa w odnośniku 1.. W razie wykonania zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym, komornik pobiera od wnioskodawcy opłatę stosunkową w wysokości 10 % wartości mienia objętego zabezpieczeniem. Opłata ta podlega zmniejszeniu o wysokość opłaty pobranej na podstawie ust. 1. Jeżeli ustalenie wartości mienia objętego zabezpieczeniem wymaga opinii biegłego, komornik wzywa uprawnionego do uiszczenia zaliczki na związane z tym wydatki. W razie nieuiszczenia zaliczki, termin umorzenia postępowania, o którym mowa w art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, wynosi miesiąc. 2aDodany przez art. 26 pkt 4 lit. b ustawy, o której mowa w odnośniku 1.. W razie umorzenia postępowania o wykonanie zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym na wniosek uprawnionego albo na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, uprawnionego obciąża opłata stosunkowa w wysokości 5 % wartości świadczenia, które miało podlegać zabezpieczeniu. Jeżeli jednak uprawniony wykaże, że przyczyna umorzenia postępowania wiąże się ze spełnieniem świadczenia przez obowiązanego, uprawnionego obciąża opłata w wysokości 2 % świadczenia, które miało podlegać zabezpieczeniu.
 
 3. Jeżeli zabezpieczenie roszczenia pieniężnego polega na zobowiązaniu do zapłaty na rzecz uprawnionego, stosuje się odpowiednio przepisy art. 27–30.
 
 **Art. 32.** Jeżeli przed wszczęciem postępowania egzekucyjnego w sprawie o świadczenie pieniężne komornik wykonał zabezpieczenie roszczenia pieniężnego lub europejski nakaz zabezpieczenia na rachunku bankowym o to samo świadczenie, na poczet opłaty stosunkowej, o której mowa w art. 27 lub art. 29, zalicza się pobrane od wierzyciela opłaty za wykonanie zabezpieczenia. Jeżeli wysokość opłat pobranych za wykonanie zabezpieczenia roszczenia jest wyższa niż opłata egzekucyjna, różnica nie podlega zwrotowi.
 
-##### Oddział 3 Opłaty egzekucyjne w sprawach o egzekucję świadczeń niepieniężnych
+##### Oddział 3
 
 **Art. 33.** Opłata stała od wniosku o wszczęcie egzekucji wydania rzeczy ruchomej wynosi 400 złotych.
 
@@ -307,7 +312,7 @@ Art. 49–51.
 - **1)** wprowadzenie syndyka masy upadłości albo zarządcy w posiadanie majątku,
 - **2)** wprowadzenie zarządcy w zarząd nieruchomości,
 - **3)** zabezpieczenie środka dowodowego w postępowaniu w sprawach własności intelektualnej,
-- **4)** wydanie środka dowodowego w postępowaniu w sprawach własności intelektualnej wynosi 400 złotych.
+- **4)** wydanie środka dowodowego w postępowaniu w sprawach własności intelektualnej – wynosi 400 złotych.
 
 **Art. 36.**
 
@@ -321,7 +326,7 @@ Art. 49–51.
 
 **Art. 39.** Jeżeli dłużnik spełni świadczenie stwierdzone w tytule wykonawczym najpóźniej na 3 dni przed planowanym wykonaniem tytułu wykonawczego, komornik zwraca wierzycielowi 50 % uiszczonej opłaty. Jeżeli spełnienie świadczenia przez dłużnika nastąpiło przed doręczeniem dłużnikowi zawiadomienia o wszczęciu egzekucji albo wezwania do dobrowolnego wykonania obowiązku, komornik zwraca wierzycielowi część uiszczonej opłaty przekraczającą kwotę 200 złotych.
 
-##### Oddział 4 Pozostałe opłaty
+##### Oddział 4
 
 **Art. 41.**
 
@@ -341,7 +346,7 @@ Art. 49–51.
 
 **Art. 44.** Opłata stała za poszukiwanie majątku dłużnika na zlecenie wierzyciela, o którym mowa w art. 8012 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, wynosi 100 złotych.
 
-#### Rozdział 4 Zwolnienie od kosztów komorniczych i obniżenie opłaty
+#### Rozdział 4
 
 **Art. 45.**
 
@@ -383,24 +388,19 @@ Art. 49–51.
 
 5. Opłata obniżona nie może być niższa niż jedna trzecia opłaty należnej na podstawie ustawy, nie niższa jednak niż 200 złotych.
 
-#### Rozdział 5 Przepisy zmieniające i przejściowe oraz przepis końcowy
+#### Rozdział 5
 
 **Art. 52.**
 
-1. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-
-2. Do postępowań, o których mowa w ust. 1, przepisy art. 29 i art. 30 stosuje się od dnia wejścia w życie niniejszej ustawy.
+1. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. 2Utracił moc z dniem 8 grudnia 2020 r., w zakresie, w jakim dotyczy umorzenia postępowania egzekucyjnego na wniosek wierzyciela złożony przed dniem wejścia w życie tej ustawy, na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 grudnia 2020 r. sygn. akt P 6/19 (Dz. U. poz. 2184).. Do postępowań, o których mowa w ust. 1, przepisy art. 29 i art. 30 stosuje się od dnia wejścia w życie niniejszej ustawy.
 
 3. Jeżeli przed dniem wejścia w życie niniejszej ustawy powstały okoliczności uprawniające do złożenia wniosku, o którym mowa w art. 49 ust. 2b ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2018 r. poz. 1309 i 1669), do tego wniosku i jego rozpoznania stosuje się przepisy dotychczasowe.
 
-4. Przepis art. 1035 ustawy zmienianej w art. 49, w brzmieniu nadanym niniejszą ustawą, stosuje się do egzekucji z nieruchomości wszczętej po dniu wejścia w życie niniejszej ustawy, niezależnie od daty wszczęcia postępowania egzekucyjnego.
+4. Przepis art. 1035 ustawy zmienianej w art. 49Artykuł 49 zawiera zmiany do ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego., w brzmieniu nadanym niniejszą ustawą, stosuje się do egzekucji z nieruchomości wszczętej po dniu wejścia w życie niniejszej ustawy, niezależnie od daty wszczęcia postępowania egzekucyjnego.
 
-5. Przepisy art. 25 ust. 1 i art. 72 ustawy zmienianej w art. 50, w brzmieniu nadanym niniejszą ustawą, stosuje się do pism wnoszonych po dniu wejścia w życie niniejszej ustawy.
+5. Przepisy art. 25 ust. 1 i art. 72 ustawy zmienianej w art. 50Artykuł 50 zawiera zmiany do ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych., w brzmieniu nadanym niniejszą ustawą, stosuje się do pism wnoszonych po dniu wejścia w życie niniejszej ustawy.
 
 **Art. 53.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 40a ust. 3 ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 5 niniejszej ustawy, jednak nie dłużej niż do dnia 31 marca 2019 r.
 
-**Art. 54.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r.
-
-- **1)** Zdanie drugie dodane przez art. 26 pkt 1 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), która weszła w życie z dniem 28 września 2023 r. 2) Dodany przez art. 26 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760. 4) W brzmieniu ustalonym przez art. 26 pkt 3 lit. a ustawy, o której mowa w odnośniku 1. 5) Dodany przez art. 26 pkt 3 lit. b ustawy, o której mowa w odnośniku 1. 6) W brzmieniu ustalonym przez art. 26 pkt 4 lit. a ustawy, o której mowa w odnośniku 1. 7) Dodany przez art. 26 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 8) Utracił moc z dniem 8 grudnia 2020 r., w zakresie, w jakim dotyczy umorzenia postępowania egzekucyjnego na wniosek wierzyciela złożony przed dniem wejścia w życie tej ustawy, na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 grudnia 2020 r. sygn. akt P 6/19 (Dz. U. poz. 2184). 9) Artykuł 49 zawiera zmiany do ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. 10) Artykuł 50 zawiera zmiany do ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.
-
+**Art. 54.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r. 1) Zdanie drugie dodane przez art. 26 pkt 1 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), która weszła w życie z dniem 28 września 2023 r. 2) Dodany przez art. 26 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760. 4) W brzmieniu ustalonym przez art. 26 pkt 3 lit. a ustawy, o której mowa w odnośniku 1. 5) Dodany przez art. 26 pkt 3 lit. b ustawy, o której mowa w odnośniku 1. 6) W brzmieniu ustalonym przez art. 26 pkt 4 lit. a ustawy, o której mowa w odnośniku 1. 7) Dodany przez art. 26 pkt 4 lit. b ustawy, o której mowa w odnośniku 1. 8) Utracił moc z dniem 8 grudnia 2020 r., w zakresie, w jakim dotyczy umorzenia postępowania egzekucyjnego na wniosek wierzyciela złożony przed dniem wejścia w życie tej ustawy, na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 grudnia 2020 r. sygn. akt P 6/19 (Dz. U. poz. 2184). 9) Artykuł 49 zawiera zmiany do ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. 10) Artykuł 50 zawiera zmiany do ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.
 

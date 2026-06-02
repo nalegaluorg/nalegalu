@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-27 |
 | Data wydania | 2013-01-16 |
-| Wejście w życie | 2013-02-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000067) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/67/text.pdf) |
 
@@ -37,8 +36,7 @@ przewoźników lotniczych za szkody powstałe w przewozie lotniczym poczty,
 3)
 przedsiębiorców wykonujących obsługę naziemną za szkody powstałe w związku z prowadzoną przez siebie działalnością lotniczą,
 4)
-instytucji zapewniających służby żeglugi powietrznej za szkody powstałe w związku z prowadzoną przez siebie działalnością lotniczą
-zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
+instytucji zapewniających służby żeglugi powietrznej za szkody powstałe w związku z prowadzoną przez siebie działalnością lotniczą – zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2.
 1.
 Ubezpieczeniem OC jest objęta odpowiedzialność cywilna podmiotów, o których mowa w § 1, za szkody wyrządzone działaniem lub zaniechaniem ubezpieczonego w okresie ubezpieczenia w związku z prowadzoną działalnością lotniczą.
@@ -120,5 +118,5 @@ Kod referencyjny danego lotniska, o którym mowa w ust. 1 pkt 3, jest określony
 § 8.
 Kwoty, o których mowa w § 4–7, są ustalane przy zastosowaniu średniego kursu SDR ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym umowa ubezpieczenia OC została zawarta.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 kwietnia 2004 r. w sprawie wymagań dotyczących ubezpieczenia od odpowiedzialności cywilnej użytkowników statków powietrznych, przewoźników i innych przedsiębiorców prowadzących działalność lotniczą (Dz. U. Nr 110, poz. 1168 oraz z 2006 r. Nr 239, poz. 1736), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 kwietnia 2004 r. w sprawie wymagań dotyczących ubezpieczenia od odpowiedzialności cywilnej użytkowników statków powietrznych, przewoźników i innych przedsiębiorców prowadzących działalność lotniczą (Dz. U. Nr 110, poz. 1168 oraz z 2006 r. Nr 239, poz. 1736), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015).
 

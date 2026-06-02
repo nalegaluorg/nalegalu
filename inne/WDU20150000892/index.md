@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-24 |
 | Data wydania | 2015-06-26 |
-| Wejście w życie | 2015-07-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000892) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/892/text.pdf) |
 
@@ -49,7 +48,7 @@ source: "eli-html"
 - **3)** w art. 7: po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **a)**
 
-2a. W przypadku zawarcia przez zakłady ubezpieczeń porozumienia koasekuracyjnego, na podstawie którego zakłady ubezpieczeń zamierzają zawierać umowy ubezpieczenia na zasadach koasekuracji w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2013 r. poz. 950, z późn. zm.), zwanego dalej „porozumieniem koasekuracyjnym”, dopłaty są wypłacane zakładowi ubezpieczeń wskazanemu w tym porozumieniu do reprezentowania pozostałych zakładów ubezpieczeń, zwanemu dalej „wiodącym zakładem ubezpieczeń”. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+2a. W przypadku zawarcia przez zakłady ubezpieczeń porozumienia koasekuracyjnego, na podstawie którego zakłady ubezpieczeń zamierzają zawierać umowy ubezpieczenia na zasadach koasekuracji w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2013 r. poz. 950, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1289 oraz z 2014 r. poz. 586 i 768.), zwanego dalej „porozumieniem koasekuracyjnym”, dopłaty są wypłacane zakładowi ubezpieczeń wskazanemu w tym porozumieniu do reprezentowania pozostałych zakładów ubezpieczeń, zwanemu dalej „wiodącym zakładem ubezpieczeń”. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
 - **b)**
 
@@ -67,7 +66,7 @@ source: "eli-html"
 4b. W przypadku określonym w ust. 2a informacje, o których mowa w ust. 4 pkt 1 i 9, oraz dokumenty, o których mowa w ust. 4 pkt 2 i 3, powinny dotyczyć każdego z zakładów ubezpieczeń, które zawarły porozumienie koasekuracyjne. Ponadto oferta powinna zawierać:
 
 - **1)** wskazanie, który z zakładów ubezpieczeń jest wiodącym zakładem ubezpieczeń;
-- **2)** zasady udziału zakładów ubezpieczeń w: składce z tytułu zawarcia umów ubezpieczenia, ochronie ubezpieczeniowej i wypłacie odszkodowań za szkody określone w porozumieniu koasekuracyjnym;
+- **2)** zasady udziału zakładów ubezpieczeń w: składce z tytułu zawarcia umów ubezpieczenia, ochronie ubezpieczeniowej i wypłacie odszkodowań za szkody – określone w porozumieniu koasekuracyjnym;
     - **a)**
     - **b)**
 
@@ -79,7 +78,7 @@ source: "eli-html"
 
 - **1)** które zawarły z ministrem właściwym do spraw rolnictwa umowy w sprawie dopłat,
 - **2)** innym niż określone w pkt 1, które zawarły umowy ubezpieczenia obowiązkowego upraw,
-- **3)** o których mowa w pkt 1 i 2, które zawarły porozumienie koasekuracyjne przysługuje dotacja celowa na pokrycie części odszkodowań wypłaconych producentom rolnym z tytułu szkód spowodowanych przez suszę, zwana dalej „dotacją”. ” ;
+- **3)** o których mowa w pkt 1 i 2, które zawarły porozumienie koasekuracyjne – przysługuje dotacja celowa na pokrycie części odszkodowań wypłaconych producentom rolnym z tytułu szkód spowodowanych przez suszę, zwana dalej „dotacją”. ” ;
 - **6)** w art. 10b: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -114,11 +113,12 @@ source: "eli-html"
 - **7)** w art. 10c: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Rolnik w rozumieniu art. 4 ust. 1 lit. a rozporządzenia nr 1307/2013, zwany dalej „rolnikiem”, który uzyskał płatności bezpośrednie w rozumieniu przepisów o płatnościach w ramach systemu wsparcia bezpośredniego, jest obowiązany zawrzeć umowę ubezpieczenia obowiązkowego upraw, o których mowa w art. 3 ust. 1 pkt 1, od ryzyka wystąpienia szkód spowodowanych przez powódź, suszę, grad, ujemne skutki przezimowania lub przymrozki wiosenne. ” , w ust. 4: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „ 2) powódź, suszę, grad i przymrozki wiosenne – po upływie 14 dni od dnia zawarcia umowy ubezpieczenia obowiązkowego; ” .
+1. Rolnik w rozumieniu art. 4 ust. 1 lit. a rozporządzenia nr 1307/2013, zwany dalej „rolnikiem”, który uzyskał płatności bezpośrednie w rozumieniu przepisów o płatnościach w ramach systemu wsparcia bezpośredniego, jest obowiązany zawrzeć umowę ubezpieczenia obowiązkowego upraw, o których mowa w art. 3 ust. 1 pkt 1, od ryzyka wystąpienia szkód spowodowanych przez powódź, suszę, grad, ujemne skutki przezimowania lub przymrozki wiosenne. ” , w ust. 4: – uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
 
 - **b)**
+- **2)** powódź, suszę, grad i przymrozki wiosenne – po upływie 14 dni od dnia zawarcia umowy ubezpieczenia obowiązkowego; ” .
 
 **Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10b ust. 5 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10b ust. 5 tej ustawy w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 9 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1289 oraz z 2014 r. poz. 586 i 768.
 

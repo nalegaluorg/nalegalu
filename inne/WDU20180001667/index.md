@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 28 sierpnia 2018 r. zmieniające rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 28 sierpnia 2018 r. zmieniające rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-28 |
 | Data wydania | 2018-08-29 |
-| Wejście w życie | 2018-08-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001667) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1667/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 3 ust. 2 ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2018 r. poz. 1154) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 840 i 1102) w załączniku w § 4 pkt 12 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 840 i 1102) w załączniku w § 4 pkt 12 otrzymuje brzmienie: „
 12)
-Częstochowa – dla województwa śląskiego;
-” .
+Częstochowa – dla województwa śląskiego; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

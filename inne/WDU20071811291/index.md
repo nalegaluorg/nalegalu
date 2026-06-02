@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-09-07 |
 | Data wydania | 2007-10-01 |
-| Wejście w życie | 2007-11-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071811291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1291/text.pdf) |
 
@@ -60,7 +59,7 @@ source: "eli-html"
 
 - **1)** podjęciu przez małżonka strażaka, jego wstępnych, zstępnych pierwszego stopnia lub rodzeństwo pozostające z nim we wspólnym gospodarstwie domowym zatrudnienia lub innych czynności zarobkowych u przedsiębiorcy prowadzącego działalność gospodarczą w zakresie ochrony przeciwpożarowej polegającą na dostarczaniu wyrobów, których wykaz ustalają przepisy wydane na podstawie art. 7 ust. 14 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej lub świadczeniu usług podlegających sprawdzeniu w toku czynności kontrolno-rozpoznawczych, o których mowa w art. 23;
 - **2)** o posiadaniu przez osoby, o których mowa w pkt 1, w spółkach prawa handlowego prowadzących działalność w zakresie wskazanym w pkt 1 więcej niż 10% akcji lub udziałów przedstawiających więcej niż 10% kapitału zakładowego – w każdej z tych spółek;
-- **3)** o fakcie bycia przez osoby, o których mowa w pkt 1, wykonawcami w rozumieniu ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2006 r. Nr 164, poz. 1163, z późn. zm.) na rzecz organów i jednostek podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych.
+- **3)** o fakcie bycia przez osoby, o których mowa w pkt 1, wykonawcami w rozumieniu ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2006 r. Nr 164, poz. 1163, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 64, poz. 427 i Nr 82, poz. 560.) na rzecz organów i jednostek podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych.
 
 2. Komendant Główny Państwowej Straży Pożarnej prowadzi zbiór informacji, o których mowa w ust. 1.
 
@@ -148,5 +147,5 @@ source: "eli-html"
 
 **Art. 3.** Przepisy wykonawcze wydane na podstawie upoważnień ustawowych zawartych w art. 73 ust. 2 pkt 1 oraz art. 88 ust. 5 ustawy wymienionej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie tych upoważnień w brzmieniu ustalonym niniejszą ustawą, jednakże nie dłużej niż do dnia 31 marca 2008 r.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 64, poz. 427 i Nr 82, poz. 560.
 

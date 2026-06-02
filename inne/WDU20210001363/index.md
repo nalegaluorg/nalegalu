@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 22 lipca 2021 r. w sprawie ewidencji prowadzonej w systemie TAX FREE
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 22 lipca 2021 r. w sprawie ewidencji prowadzonej w systemie TAX FREE Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-22 |
 | Data wydania | 2021-07-27 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1363/text.pdf) |
 
@@ -64,6 +63,5 @@ Dane, o których mowa w § 2 pkt 1, 2 i pkt 3 lit. a, są automatycznie zapisywa
 § 5.
 Podatnik, o którym mowa w art. 127 ust. 1 ustawy, zapisuje w ewidencji dane, o których mowa w § 2 pkt 3 lit. b i pkt 4–6, nie później niż w terminie 7 dni od dnia dokonania zwrotu podatku od towarów i usług podróżnemu.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

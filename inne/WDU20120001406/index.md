@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-05 |
 | Data wydania | 2012-12-14 |
-| Wejście w życie | 2012-12-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001406) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1406/text.pdf) |
 
@@ -78,8 +77,7 @@ Podmioty lecznicze dostosują porozumienia dotyczące:
 1)
 wykonywania obsługi bibliotecznej dla pacjentów przez bibliotekę publiczną,
 2)
-współdziałania z biblioteką publiczną w wykonywaniu obsługi bibliotecznej dla pacjentów
-w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia.
+współdziałania z biblioteką publiczną w wykonywaniu obsługi bibliotecznej dla pacjentów – w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 września 2000 r. w sprawie zasad organizacji obsługi bibliotecznej w zakładach opieki zdrowotnej oraz zasad współdziałania bibliotek publicznych w wykonywaniu tej obsługi (Dz. U. Nr 91, poz. 1014 oraz z 2007 r. Nr 160, poz. 1138), które utraciło moc z dniem 2 lipca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 września 2000 r. w sprawie zasad organizacji obsługi bibliotecznej w zakładach opieki zdrowotnej oraz zasad współdziałania bibliotek publicznych w wykonywaniu tej obsługi (Dz. U. Nr 91, poz. 1014 oraz z 2007 r. Nr 160, poz. 1138), które utraciło moc z dniem 2 lipca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230).
 

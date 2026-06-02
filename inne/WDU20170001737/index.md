@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 sierpnia 2017 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje w obiekty pełniące funkcje kulturalne”, operacje typu „Kształtowanie przestrzeni publicznej” oraz operacje typu „Ochrona zabytków i budownictwa tradycyjnego” w ramach działania „Podstawowe usługi i odnowa wsi na obszarach wiejskich” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 sierpnia 2017 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje w obiekty pełniące funkcje kulturalne”, operacje typu „Kształtowanie przestrzeni publicznej” oraz operacje typu „Ochrona zabytków i budownictwa tradycyjnego” w ramach działania „Podstawowe usługi i odnowa wsi na obszarach wiejskich” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-18 |
 | Data wydania | 2017-09-14 |
-| Wejście w życie | 2017-09-29 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001737) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1737/text.pdf) |
 
@@ -69,7 +68,7 @@ gminy miejsko-wiejskiej, z wyłączeniem miast liczących powyżej 5000 mieszka�
 c)
 gminy miejskiej, z wyłączeniem miejscowości liczących powyżej 5000 mieszkańców;
 4)
-będzie realizowana na nieruchomości będącej własnością podmiotu ubiegającego się o przyznanie pomocy lub na nieruchomości, do której posiada on prawo do dysponowania nią przez okres realizacji operacji oraz co najmniej przez okres trwałości operacji, o którym mowa w art. 71 ust. 1 akapit pierwszy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) , zwanego dalej „rozporządzeniem nr 1303/2013”;
+będzie realizowana na nieruchomości będącej własnością podmiotu ubiegającego się o przyznanie pomocy lub na nieruchomości, do której posiada on prawo do dysponowania nią przez okres realizacji operacji oraz co najmniej przez okres trwałości operacji, o którym mowa w art. 71 ust. 1 akapit pierwszy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 i Dz. Urz. UE L 338 z 13.12.2016, str. 34.) , zwanego dalej „rozporządzeniem nr 1303/2013”;
 5)
 będzie wynikać z ustaleń miejscowego planu zagospodarowania przestrzennego, jeżeli został sporządzony dla obszaru, na którym będzie realizowana operacja, albo z decyzji ostatecznej o warunkach zabudowy i zagospodarowania terenu – w przypadku operacji dotyczącej zagospodarowania terenu;
 6)
@@ -91,7 +90,7 @@ w przypadku instytucji kultury, dla której organizatorem jest jednostka samorz�
 § 5.
 Pomoc na realizację operacji jest przyznawana w formie refundacji części kosztów kwalifikowalnych, do których zalicza się koszty:
 1)
-ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), zwane dalej „kosztami ogólnymi”,
+ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8.), zwane dalej „kosztami ogólnymi”,
 2)
 budowy lub przebudowy obiektów budowlanych lub prac konserwatorskich lub restauratorskich,
 3)
@@ -103,8 +102,7 @@ zakupu rzeczy innych niż wymienione w pkt 3 i 4, w tym materiałów i roślin w
 6)
 zakupu usług,
 7)
-podatku od towarów i usług (VAT), który jest kwalifikowalny zgodnie z art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013
-które są uzasadnione zakresem operacji oraz niezbędne do osiągnięcia jej celu.
+podatku od towarów i usług (VAT), który jest kwalifikowalny zgodnie z art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013 – które są uzasadnione zakresem operacji oraz niezbędne do osiągnięcia jej celu.
 § 6.
 1.
 Pomoc jest przyznawana w wysokości do 63,63% kosztów kwalifikowalnych.
@@ -113,7 +111,7 @@ Pomoc jest przyznawana do wysokości limitu, który w okresie realizacji Program
 3.
 Przy ustalaniu wysokości środków pozostałych do wykorzystania w ramach limitu, o którym mowa w ust. 2, uwzględnia się sumę kwot pomocy wypłaconej na zrealizowane operacje i kwot pomocy przyznanej na operacje, których realizacja nie została jeszcze zakończona.
 4.
-W przypadku gdy wysokość kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, o której mowa w art. 48 ust. 2 lit. e rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.), przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
+W przypadku gdy wysokość kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, o której mowa w art. 48 ust. 2 lit. e rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50.), przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
 5.
 Przy ustalaniu wysokości pomocy koszty ogólne są uwzględniane w wysokości nieprzekraczającej 10% pozostałych kosztów kwalifikowalnych.
 6.
@@ -154,7 +152,7 @@ co najmniej 25 osób/km2imniej niż 60 osób/km2- 1 punkt;
 7)
 średnia stopa bezrobocia w powiecie, na którego obszarze jest planowana realizacja operacji, w okresie ostatnich 12 miesięcy poprzedzających miesiąc rozpoczęcia terminu składania wniosków o przyznanie pomocy była wyższa albo równa średniej krajowej stopie bezrobocia w tym okresie – 1 punkt;
 8)
-operacja będzie realizowana w gminie, w której na dzień ogłoszenia naboru wniosków o przyznanie pomocy występuje co najmniej jedna z form ochrony przyrody określona w art. 6 ust. 1 pkt 1–5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm.) – 1 punkt.
+operacja będzie realizowana w gminie, w której na dzień ogłoszenia naboru wniosków o przyznanie pomocy występuje co najmniej jedna z form ochrony przyrody określona w art. 6 ust. 1 pkt 1–5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074, 1566 i 1595.) – 1 punkt.
 2.
 W przypadku gdy operacja jest realizowana na obszarze gminy województwa:
 1)
@@ -1010,6 +1008,5 @@ Ogłoszenie o pierwszym naborze wniosków o przyznanie pomocy zostanie opublikow
 § 33.
 Do kosztów ogólnych poniesionych przed dniem wejścia w życie rozporządzenia nie stosuje się § 24 ust. 2 pkt 1 lit. c.
 § 34.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 i Dz. Urz. UE L 338 z 13.12.2016, str. 34. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074, 1566 i 1595.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1 i Dz. Urz. UE L 338 z 13.12.2016, str. 34. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1 i Dz. Urz. UE L 225 z 19.08.2016, str. 50. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074, 1566 i 1595.
 

@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-10-01 |
 | Data wydania | 2013-10-14 |
-| Wejście w życie | 2013-10-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001206) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1206/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe zasady i tryb sprzedaży lokali oraz gruntów z budynkami mieszkalnymi w budowie Rozdział 3 – Kryteria kwalifikowania lokali i gruntów z budynkami mieszkalnymi w budowie nieprzydatnych Lasom Państwowym Rozdział 4 – Tryb przeprowadzania przetargu ograniczonego Rozdział 5 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 40a ust. 12 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 40a ust. 12 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337 oraz z 2013 r. poz. 628.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Sprzedaży nieruchomości, o których mowa w art. 40a ust. 1 ustawy z dnia 28 września 1991 r. o lasach, zwanej dalej „ustawą”, dokonują odpowiednio: nadleśniczy, dyrektor regionalnej dyrekcji Lasów Państwowych lub Dyrektor Generalny Lasów Państwowych, zwani dalej „sprzedającymi”, w odniesieniu do zarządzanych lokali oraz gruntów z budynkami mieszkalnymi w budowie.
@@ -46,6 +46,7 @@ W przypadku korzystania z możliwości rozłożenia spłaty należności na raty
 1,75% przy 37 i nie więcej niż 48 ratach;
 5)
 2% przy więcej niż 48 ratach.
+Szczegółowe zasady i tryb sprzedaży lokali oraz gruntów z budynkami mieszkalnymi w budowie
 § 3.
 1.
 Niezwłocznie po ogłoszeniu w Biuletynie Informacyjnym Lasów Państwowych wykazu lokali zasiedlonych przeznaczonych do sprzedaży, sprzedający zawiadamia na piśmie osobę uprawnioną do pierwszeństwa nabycia takiego lokalu, zwaną dalej „nabywcą”, o przeznaczeniu lokalu do sprzedaży oraz o prawie do skorzystania z pierwszeństwa nabycia.
@@ -85,6 +86,7 @@ Zamiar nabycia lokalu wolnego (pustostanu) lub gruntu z budynkiem mieszkalnym w 
 Do wniosku, o którym mowa w ust. 1, załącza się oświadczenie o przysługującym pierwszeństwie, wraz z dokumentami wymienionymi w § 4 pkt 1 i 3.
 3.
 Jeżeli zamiar nabycia lokalu wolnego (pustostanu) lub gruntu z budynkiem mieszkalnym w budowie złoży jedna osoba, przepisy § 5 stosuje się odpowiednio.
+Kryteria kwalifikowania lokali i gruntów z budynkami mieszkalnymi w budowie nieprzydatnych Lasom Państwowym
 § 7.
 1.
 Lokale mogą być kwalifikowane jako nieprzydatne Lasom Państwowym, jeżeli:
@@ -116,6 +118,7 @@ brak jest środków finansowych na dokończenie inwestycji i nie istnieje możli
 ustała przyczyna, dla której rozpoczęto budowę, a dokończenie budowy z przeznaczeniem na inne cele jest ekonomicznie nieuzasadnione.
 § 8.
 Przepisy § 7 nie dotyczą mieszkań bezpłatnie przysługujących pracownikom Lasów Państwowych na podstawie art. 46 ust. 1 pkt 2 ustawy.
+Tryb przeprowadzania przetargu ograniczonego
 § 9.
 1.
 Przetarg ograniczony organizuje sprzedający i przeprowadza go w formie pisemnej.
@@ -173,20 +176,31 @@ Jeżeli oferent, który wygrał przetarg ograniczony, nie przystąpił do zawarc
 Wadium wniesione przez oferenta, który wygrał przetarg ograniczony, zalicza się na poczet ceny nabycia.
 7.
 Oferenta, który wygrał przetarg ograniczony, zawiadamia się na piśmie w terminie siedmiu dni od dnia podpisania protokołu, o którym mowa w ust. 2, o terminie i miejscu zawarcia umowy sprzedaży. Przepisy § 5 ust. 2–4 stosuje się odpowiednio.
+Przepisy przejściowe i końcowe
 § 14.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 15.
 Traci moc rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 9 kwietnia 1998 r. w sprawie szczegółowych zasad i trybu sprzedaży lokali i gruntów z budynkami mieszkalnymi w budowie oraz kryteriów kwalifikowania ich jako nieprzydatne Lasom Państwowym, a także trybu przeprowadzania przetargu ograniczonego (Dz. U. Nr 52, poz. 327 oraz z 2002 r. Nr 190, poz. 1592).
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337 oraz z 2013 r. poz. 628.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe zasady i tryb sprzedaży lokali oraz gruntów z budynkami mieszkalnymi w budowie
+#### Rozdział 2 – Szczegółowe zasady i tryb sprzedaży lokali oraz gruntów z budynkami mieszkalnymi w budowie
 
-#### Rozdział 3 Kryteria kwalifikowania lokali i gruntów z budynkami mieszkalnymi w budowie nieprzydatnych Lasom Państwowym
+#### Rozdział 3 – Kryteria kwalifikowania lokali i gruntów z budynkami mieszkalnymi w budowie nieprzydatnych Lasom Państwowym
 
-#### Rozdział 4 Tryb przeprowadzania przetargu ograniczonego
+#### Rozdział 4 – Tryb przeprowadzania przetargu ograniczonego
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

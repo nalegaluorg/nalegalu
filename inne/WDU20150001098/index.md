@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-27 |
 | Data wydania | 2015-08-04 |
-| Wejście w życie | 2015-08-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1098/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045 i 1066.) wprowadza się następujące zmiany:
 
 - **1)** art. 28 otrzymuje brzmienie: „
 
@@ -78,7 +77,7 @@ source: "eli-html"
 - **2)** organizację i sposób przeprowadzania postępowania kwalifikacyjnego,
 - **3)** dokumenty wymagane od kandydata do służby,
 - **4)** zakres testu sprawności fizycznej,
-- **5)** sposób dokonywania oceny kandydatów oraz preferencje z tytułu posiadanego przez nich wykształcenia, wyszkolenia lub posiadanych umiejętności biorąc pod uwagę potrzebę obiektywnego sprawdzenia przygotowania i przydatności kandydata do służby. ” ;
+- **5)** sposób dokonywania oceny kandydatów oraz preferencje z tytułu posiadanego przez nich wykształcenia, wyszkolenia lub posiadanych umiejętności – biorąc pod uwagę potrzebę obiektywnego sprawdzenia przygotowania i przydatności kandydata do służby. ” ;
 - **2)** art. 71d otrzymuje brzmienie: „
 
 **Art. 71d.**
@@ -122,5 +121,5 @@ source: "eli-html"
 
 2. Zasady ustalania wysługi lat w Państwowej Straży Pożarnej, od której jest uzależniony wzrost uposażenia zasadniczego strażaka, określone w art. 88 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz w ust. 1, stosuje się przy ustalaniu wysokości uposażeń przysługujących strażakom od dnia 1 stycznia 2015 r.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1, który wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1, który wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045 i 1066.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o transporcie kolejowym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Komisji 2011/18/UE z dnia 1 marca 2011 r. zmieniającej załączniki II, V i VI do dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE w sprawie interoperacyjności systemu kolei we Wspólnocie (Dz. Urz. UE L 57 z 02.03.2011, str. 21).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-30 |
 | Data wydania | 2013-09-30 |
-| Wejście w życie | 2014-03-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001152) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1152/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658, z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586, Nr 106, poz. 622, Nr 187, poz. 1113, Nr 205, poz. 1209, Nr 227, poz. 1367, Nr 230, poz. 1372 i Nr 233, poz. 1381, z 2012 r. poz. 460 i 951 oraz z 2013 r. poz. 628 i 1033.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 pkt 5 otrzymuje brzmienie: „
 - **5)** szczególne zasady i warunki przygotowania inwestycji dotyczących linii kolejowych, w tym warunki lokalizacji i nabywania nieruchomości na ten cel oraz organy właściwe w tych sprawach; ” ;
@@ -76,7 +75,7 @@ source: "eli-html"
 
 1. Przepisy niniejszego rozdziału określają szczególne zasady i warunki przygotowania inwestycji dotyczących linii kolejowych, w tym warunki lokalizacji i nabywania nieruchomości na ten cel oraz organy właściwe w tych sprawach.
 
-2. Jeżeli roboty budowlane realizowane w ramach inwestycji dotyczącej linii kolejowej zlokalizowane są na terenach zamkniętych, o których mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287 oraz z 2013 r. poz. 805 i 829) i nie wykraczają poza te tereny, inwestor może złożyć wniosek o uzyskanie decyzji o ustaleniu lokalizacji linii kolejowej w trybie niniejszego rozdziału albo o uzyskanie decyzji o lokalizacji inwestycji celu publicznego w trybie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2012 r. poz. 647, z późn. zm.). ” ;
+2. Jeżeli roboty budowlane realizowane w ramach inwestycji dotyczącej linii kolejowej zlokalizowane są na terenach zamkniętych, o których mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287 oraz z 2013 r. poz. 805 i 829) i nie wykraczają poza te tereny, inwestor może złożyć wniosek o uzyskanie decyzji o ustaleniu lokalizacji linii kolejowej w trybie niniejszego rozdziału albo o uzyskanie decyzji o lokalizacji inwestycji celu publicznego w trybie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2012 r. poz. 647, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1445 oraz z 2013 r. poz. 21 i 405.). ” ;
 
 - **6)** w art. 9o w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -86,18 +85,28 @@ source: "eli-html"
     - **g)**
 
 - **7)** w art. 9ad uchyla się ust. 2;
-- **8)** w art. 13: w ust. 1a: – pkt 3 otrzymuje brzmienie: „ 3) pełnienie funkcji organu certyfikującego określonego w art. 3 ust. 2 lit. c rozporządzenia Komisji (UE) nr 445/2011 z dnia 10 maja 2011 r. w sprawie systemu certyfikacji podmiotów odpowiedzialnych za utrzymanie w zakresie obejmującym wagony towarowe oraz zmieniającego rozporządzenie (WE) nr 653/2007 (Dz. Urz. UE L 122 z 11.05.2011, str. 22, z późn. zm.), zwanego dalej „rozporządzeniem (UE) nr 445/2011”; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) przyznawanie, odmowa przyznania, cofanie, zawieszanie i zmiana zakresu uprawnień dla jednostki organizacyjnej do wykonywania badań technicznych koniecznych do uzyskania świadectw dopuszczenia do eksploatacji typu, stwierdzenia zgodności z typem oraz wydawania certyfikatów zgodności typu i certyfikatów zgodności z typem, a także kontrola spełniania przez jednostki organizacyjne uprawnione do wykonywania tych czynności wymagań określonych w art. 22g ust. 2; ” , w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) wydawanie, odmowa wydania i cofanie świadectw dopuszczenia do eksploatacji typu oraz prowadzenie i aktualizacja rejestru tych świadectw; ” , – po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) prowadzenie i aktualizacja krajowego rejestru infrastruktury (RINF); ” ;
+- **8)** w art. 13: w ust. 1a: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** pełnienie funkcji organu certyfikującego określonego w art. 3 ust. 2 lit. c rozporządzenia Komisji (UE) nr 445/2011 z dnia 10 maja 2011 r. w sprawie systemu certyfikacji podmiotów odpowiedzialnych za utrzymanie w zakresie obejmującym wagony towarowe oraz zmieniającego rozporządzenie (WE) nr 653/2007 (Dz. Urz. UE L 122 z 11.05.2011, str. 22, z późn. zm.), zwanego dalej „rozporządzeniem (UE) nr 445/2011”; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** przyznawanie, odmowa przyznania, cofanie, zawieszanie i zmiana zakresu uprawnień dla jednostki organizacyjnej do wykonywania badań technicznych koniecznych do uzyskania świadectw dopuszczenia do eksploatacji typu, stwierdzenia zgodności z typem oraz wydawania certyfikatów zgodności typu i certyfikatów zgodności z typem, a także kontrola spełniania przez jednostki organizacyjne uprawnione do wykonywania tych czynności wymagań określonych w art. 22g ust. 2; ” , w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **b)**
 
+- **3)** wydawanie, odmowa wydania i cofanie świadectw dopuszczenia do eksploatacji typu oraz prowadzenie i aktualizacja rejestru tych świadectw; ” , po pkt 7 dodaje się pkt 7a w brzmieniu: „
+- **7a)** prowadzenie i aktualizacja krajowego rejestru infrastruktury (RINF); ” ;
 - **9)** w art. 14 w ust. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** wyłącza z eksploatacji pojazd kolejowy lub ogranicza jego eksploatację, gdy nie został on dopuszczony do eksploatacji zgodnie z przepisami ustawy lub nie spełnia wymagań określonych w przepisach wydanych na podstawie art. 20 lub art. 24 ust. 5, a w przypadku wagonów towarowych – w przepisach rozporządzenia (UE) nr 445/2011. ” ;
 - **10)** w art. 16 w ust. 2 w pkt 1 w lit. b tiret pierwsze i drugie otrzymują brzmienie: „ – budowli – nie może być wyższa niż równowartość w złotych 7000 euro, ustalona na zasadach określonych w lit. a, – urządzenia – nie może być wyższa niż równowartość w złotych 7000 euro, ustalona na zasadach określonych w lit. a, ” ;
-- **11)** w art. 19: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) wykaz eksploatowanych typów pojazdów kolejowych, typów budowli i typów urządzeń; ” , – uchyla się pkt 5, w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) wykaz eksploatowanych typów pojazdów kolejowych; ” , – uchyla się pkt 5, w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) wykaz, o którym mowa w ust. 1 pkt 1; ” , – uchyla się pkt 3;
+- **11)** w art. 19: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** wykaz eksploatowanych typów pojazdów kolejowych, typów budowli i typów urządzeń; ” , – uchyla się pkt 5, w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **b)**
+
+- **1)** wykaz eksploatowanych typów pojazdów kolejowych; ” , – uchyla się pkt 5, w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **c)**
 
+- **1)** wykaz, o którym mowa w ust. 1 pkt 1; ” , – uchyla się pkt 3;
 - **12)** po art. 22e dodaje się art. 22f i art. 22g w brzmieniu: „
 
 **Art. 22f.**
@@ -201,7 +210,7 @@ source: "eli-html"
 
 - **1)** zgodności z krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi określonymi w przepisach wydanych na podstawie art. 25t,
 - **2)** zgodności z siecią kolejową, w szczególności w zakresie zgodności charakterystyki technicznej i eksploatacyjnej pojazdu kolejowego z infrastrukturą i stałymi instalacjami,
-- **3)** parametrów określonych w przepisach wydanych na podstawie art. 25ta ust. 1 przeprowadzane przez podmioty uprawnione do przeprowadzania badań niezbędnych do dopuszczenia do eksploatacji pojazdów kolejowych niezgodnych z TSI, o których mowa w przepisach wydanych na podstawie art. 25ta ust. 1 pkt 8.
+- **3)** parametrów określonych w przepisach wydanych na podstawie art. 25ta ust. 1 – przeprowadzane przez podmioty uprawnione do przeprowadzania badań niezbędnych do dopuszczenia do eksploatacji pojazdów kolejowych niezgodnych z TSI, o których mowa w przepisach wydanych na podstawie art. 25ta ust. 1 pkt 8.
 
 1b. Po zakończeniu z wynikiem pozytywnym badań, o których mowa w ust. 1a, podmiot uprawniony wydaje certyfikat weryfikacji pojazdu kolejowego niezgodnego z TSI.
 
@@ -273,10 +282,15 @@ source: "eli-html"
 
 5b. Na podstawie pośredniego certyfikatu weryfikacji WE podsystemu podmiot, o którym mowa w ust. 5, na rzecz którego wystawiono ten certyfikat, wystawia pośrednią deklarację weryfikacji WE podsystemu, do której załącza dokumentację techniczną określoną w przepisach wydanych na podstawie art. 25ta ust. 1 pkt 4.
 
-5c. Dokumenty, o których mowa w ust. 5a i 5b, zawierają odniesienie do właściwych TSI, których dotyczyła ocena zgodności. ” , w ust. 6: – pkt 1 otrzymuje brzmienie: „ 1) zgodność podsystemu z projektem i pośrednimi certyfikatami weryfikacji WE podsystemu, o ile uprzednio zostały wydane; ” , – uchyla się pkt 2, – pkt 3 otrzymuje brzmienie: „ 3) czy certyfikaty, o których mowa w pkt 1, uwzględniają wymagania TSI; ” , – pkt 6 otrzymuje brzmienie: „ 6) czy budowle i urządzenia ujęte w wykazie, o którym mowa w art. 22f ust. 14 pkt 2, wchodzące w skład podsystemu, zostały dopuszczone do eksploatacji zgodnie z przepisami ustawy; ” , – dodaje się pkt 7 i 8 w brzmieniu: „ 7) wszystkie elementy podsystemu nieobjęte pośrednimi certyfikatami weryfikacji WE podsystemu; 8) wyniki końcowych prób podsystemu. ” , ust. 7 otrzymuje brzmienie: „
+5c. Dokumenty, o których mowa w ust. 5a i 5b, zawierają odniesienie do właściwych TSI, których dotyczyła ocena zgodności. ” , w ust. 6: pkt 1 otrzymuje brzmienie: „
 
 - **d)**
-- **e)**
+- **1)** zgodność podsystemu z projektem i pośrednimi certyfikatami weryfikacji WE podsystemu, o ile uprzednio zostały wydane; ” , – uchyla się pkt 2, pkt 3 otrzymuje brzmienie: „
+- **3)** czy certyfikaty, o których mowa w pkt 1, uwzględniają wymagania TSI; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** czy budowle i urządzenia ujęte w wykazie, o którym mowa w art. 22f ust. 14 pkt 2, wchodzące w skład podsystemu, zostały dopuszczone do eksploatacji zgodnie z przepisami ustawy; ” , dodaje się pkt 7 i 8 w brzmieniu: „
+- **7)** wszystkie elementy podsystemu nieobjęte pośrednimi certyfikatami weryfikacji WE podsystemu;
+- **8)** wyniki końcowych prób podsystemu. ” , ust. 7 otrzymuje brzmienie: „
+    - **e)**
 
 7. Po dokonaniu pozytywnej weryfikacji WE podsystemu, notyfikowana jednostka certyfikująca wydaje certyfikat weryfikacji WE podsystemu. ” , po ust. 7 dodaje się ust. 7a i 7b w brzmieniu: „
 
@@ -322,14 +336,16 @@ source: "eli-html"
 - **4)** kopie dokumentów potwierdzających dopuszczenie do eksploatacji urządzeń lub budowli ujętych w wykazie, o którym mowa w art. 22f ust. 14 pkt 2, wchodzących w skład podsystemu. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **d)**
 
-3a. W przypadkach, o których mowa w art. 25d ust. 1 pkt 2–4 oraz art. 25f ust. 5 pkt 1 i 2 i ust. 6 pkt 1, gdy w skład podsystemu nie wchodzą składniki interoperacyjności objęte deklaracją WE zgodności lub przydatności do stosowania składnika interoperacyjności, przepisów ust. 1a pkt 2 i ust. 3 pkt 1–3 nie stosuje się. ” , w ust. 5: – pkt 1 otrzymuje brzmienie: „ 1) jako część procedury prowadzącej do wydania deklaracji WE zgodności lub przydatności do stosowania składnika interoperacyjności oraz deklaracji weryfikacji WE podsystemu, określonej we właściwej TSI; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) jako część procedury prowadzącej do wydania świadectwa dopuszczenia do eksploatacji typu dla urządzeń albo budowli ujętych w wykazie, o którym mowa w art. 22f ust. 14 pkt 2, które wchodzą w skład podsystemu; ” ;
+3a. W przypadkach, o których mowa w art. 25d ust. 1 pkt 2–4 oraz art. 25f ust. 5 pkt 1 i 2 i ust. 6 pkt 1, gdy w skład podsystemu nie wchodzą składniki interoperacyjności objęte deklaracją WE zgodności lub przydatności do stosowania składnika interoperacyjności, przepisów ust. 1a pkt 2 i ust. 3 pkt 1–3 nie stosuje się. ” , w ust. 5: pkt 1 otrzymuje brzmienie: „
 
 - **e)**
+- **1)** jako część procedury prowadzącej do wydania deklaracji WE zgodności lub przydatności do stosowania składnika interoperacyjności oraz deklaracji weryfikacji WE podsystemu, określonej we właściwej TSI; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** jako część procedury prowadzącej do wydania świadectwa dopuszczenia do eksploatacji typu dla urządzeń albo budowli ujętych w wykazie, o którym mowa w art. 22f ust. 14 pkt 2, które wchodzą w skład podsystemu; ” ;
 - **26)** art. 25f otrzymuje brzmienie: „
 
 1. Producent podsystemu albo jego upoważniony przedstawiciel, zarządca, przewoźnik kolejowy, dysponent, importer, wykonawca modernizacji, inwestor albo podmiot zamawiający może wystąpić do Prezesa UTK z wnioskiem o przyznanie odstępstwa od obowiązku stosowania TSI w przypadku:
 
-- **1)** publikacji nowych TSI w czasie: projektowania lub budowy nowego podsystemu albo modernizacji lub odnowienia istniejącego podsystemu albo jego części będących na zaawansowanym etapie realizacji lub będących przedmiotem zobowiązań umownych;
+- **1)** publikacji nowych TSI w czasie: projektowania lub budowy nowego podsystemu albo modernizacji lub odnowienia istniejącego podsystemu albo jego części – będących na zaawansowanym etapie realizacji lub będących przedmiotem zobowiązań umownych;
     - **a)**
     - **b)**
 
@@ -469,11 +485,11 @@ source: "eli-html"
 1. Do postępowań w sprawie wydania decyzji:
 
 - **1)** o ustaleniu lokalizacji linii kolejowej, o której mowa w rozdziale 2b ustawy, o której mowa w art. 1, albo
-- **2)** o lokalizacji inwestycji celu publicznego, odnośnie linii kolejowej, wydanej na podstawie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2012 r. poz. 647, z późn. zm.) wszczętych i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **2)** o lokalizacji inwestycji celu publicznego, odnośnie linii kolejowej, wydanej na podstawie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2012 r. poz. 647, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1445 oraz z 2013 r. poz. 21 i 405.) – wszczętych i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 2. Na wniosek PKP Polskich Linii Kolejowych S.A. postępowania, o których mowa w ust. 1, mogą być realizowane zgodnie z art. 9n ust. 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 10.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16 ust. 4 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4–7 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4–7 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Komisji 2011/18/UE z dnia 1 marca 2011 r. zmieniającej załączniki II, V i VI do dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE w sprawie interoperacyjności systemu kolei we Wspólnocie (Dz. Urz. UE L 57 z 02.03.2011, str. 21). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658, z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586, Nr 106, poz. 622, Nr 187, poz. 1113, Nr 205, poz. 1209, Nr 227, poz. 1367, Nr 230, poz. 1372 i Nr 233, poz. 1381, z 2012 r. poz. 460 i 951 oraz z 2013 r. poz. 628 i 1033. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1445 oraz z 2013 r. poz. 21 i 405. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1445 oraz z 2013 r. poz. 21 i 405.
 

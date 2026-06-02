@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 23 grudnia 2022 r. w sprawie wymagań dla zakładu drobiu, po spełnieniu których podmiot prowadzący zakład drobiu ma obowiązek dokonywania zgłoszeń do komputerowej bazy danych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 23 grudnia 2022 r. w sprawie wymagań dla zakładu drobiu, po spełnieniu których podmiot prowadzący zakład drobiu ma obowiązek dokonywania zgłoszeń do komputerowej bazy danych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-23 |
 | Data wydania | 2022-12-29 |
-| Wejście w życie | 2023-01-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2829/text.pdf) |
 
@@ -51,6 +50,5 @@ przetrzymywanie nie mniej niż 500 jaj ptaków z gatunków wymienionych w pkt 1 
 § 2.
 W przypadku podmiotu prowadzącego zakład drobiu ubiegającego się o przyznanie pomocy finansowej ze środków Europejskiego Funduszu Rolniczego Gwarancji lub Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, której przyznanie jest uzależnione od posiadania ptaków z gatunków, o których mowa w § 1 pkt 1, wymaganiem dla zakładu drobiu, po spełnieniu którego podmiot prowadzący zakład drobiu ma obowiązek dokonywania zgłoszeń, o których mowa w art. 44 ust. 1 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt, jest utrzymywanie w tym zakładzie drobiu ptaków z gatunków wymienionych w § 1 pkt 1, niezależnie od ich liczby.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 6 stycznia 2023 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+Rozporządzenie wchodzi w życie z dniem 6 stycznia 2023 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 

@@ -26,21 +26,44 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1097/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym Rozdział 1 – Przepisy ogólne Rozdział 2 – Organy właściwe w sprawach obrotu leśnym materiałem rozmnożeniowym Rozdział 3 – Krajowy Rejestr Leśnego Materiału Podstawowego Rozdział 4 – Obrót leśnym materiałem rozmnożeniowym Rozdział 5 – Regionalizacja nasienna Rozdział 6 – Przepisy karne Rozdział 7 – Zmiany w przepisach obowiązujących Rozdział 8 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym
 Załącznik – Wykaz gatunków drzew oraz ich sztucznych hybryd
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym (Dz. U. z 2017 r. poz. 116), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 maja 2019 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „
+Przepisy ogólne
+Organy właściwe w sprawach obrotu leśnym materiałem rozmnożeniowym
+Krajowy Rejestr Leśnego Materiału Podstawowego
+Obrót leśnym materiałem rozmnożeniowym
+Regionalizacja nasienna
+Przepisy karne
+Zmiany w przepisach obowiązujących
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organy właściwe w sprawach obrotu leśnym materiałem rozmnożeniowym
+
+#### Rozdział 3 – Krajowy Rejestr Leśnego Materiału Podstawowego
+
+#### Rozdział 4 – Obrót leśnym materiałem rozmnożeniowym
+
+#### Rozdział 5 – Regionalizacja nasienna
+
+#### Rozdział 6 – Przepisy karne
+
+#### Rozdział 7 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 8 – Przepisy przejściowe i końcowe
 
 **Art. 350.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r. ” . Załącznik – Tekst jednolity ustawy z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym
+- **2)** art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r. ” . Załącznik – Tekst jednolity ustawy z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowymNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 1999/105/WE z dnia 22 grudnia 1999 r. w sprawie obrotu leśnym materiałem rozmnożeniowym (Dz. Urz. WE L 11 z 15.01.2000). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje sprawy:
 
@@ -106,7 +129,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Przepisów ustawy nie stosuje się do obrotu leśnym materiałem rozmnożeniowym dokonywanego pomiędzy jednostkami, o których mowa w ust. 1.
 
-**Art. 6.** Ustawa nie narusza przepisów ustawy z dnia 24 listopada 1995 r. o nasiennictwie (Dz. U. z 2001 r. poz. 563 i 811 oraz z 2002 r. poz. 253) w zakresie wyłącznego prawa hodowcy do odmiany.
+**Art. 6.** Ustawa nie narusza przepisów ustawy z dnia 24 listopada 1995 r. o nasiennictwie (Dz. U. z 2001 r. poz. 563 i 811 oraz z 2002 r. poz. 253)Ustawa utraciła moc z dniem 1 maja 2004 r. na podstawie art. 77 ustawy z dnia 26 czerwca 2003 r. o nasiennictwie (Dz. U. z 2007 r. poz. 271, 541 i 1362, z 2009 r. poz. 591, 817, 1241 i 1665, z 2010 r. poz. 1591 oraz z 2011 r. poz. 622 i 1016), która weszła w życie z dniem 1 maja 2004 r. w zakresie wyłącznego prawa hodowcy do odmiany.
 
 **Art. 7.** Do postępowania w sprawach regulowanych w ustawie stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że przepisy ustawy stanowią inaczej.
 
@@ -121,7 +144,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Leśny materiał rozmnożeniowy może należeć wyłącznie do jednej kategorii.
 
-#### Rozdział 2 Organy właściwe w sprawach obrotu leśnym materiałem rozmnożeniowym
+#### Rozdział 2
 
 **Art. 9.** Organem administracji rządowej właściwym w sprawach obrotu leśnym materiałem rozmnożeniowym jest minister właściwy do spraw środowiska, zwany dalej „Ministrem”.
 
@@ -135,8 +158,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **6)** przeprowadzanie kontroli leśnego materiału podstawowego podlegającego rejestracji w Krajowym Rejestrze Leśnego Materiału Podstawowego pod względem spełniania wymagań określonych w ustawie;
 - **7)** przeprowadzanie kontroli leśnego materiału rozmnożeniowego pod względem spełniania wymagań określonych w ustawie;
 - **8)** przeprowadzanie kontroli dostawców pod względem przestrzegania przepisów ustawy, w tym prawidłowości prowadzonej dokumentacji;
-- **9)** współpraca z organizacjami międzynarodowymi w zakresie selekcji leśnej i nasiennictwa leśnego;
-- **10)** opracowywanie we współpracy z zainteresowanymi podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.), metod oceny leśnego materiału rozmnożeniowego oraz leśnego materiału podstawowego.
+- **9)** współpraca z organizacjami międzynarodowymi w zakresie selekcji leśnej i nasiennictwa leśnego; 10W brzmieniu ustalonym przez art. 58 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.) opracowywanie we współpracy z zainteresowanymi podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730), metod oceny leśnego materiału rozmnożeniowego oraz leśnego materiału podstawowego.
 
 **Art. 11.**
 
@@ -198,7 +220,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. Członkom Komisji biorącym udział w posiedzeniu odbywającym się poza miejscowością ich zamieszkania przysługuje zwrot diet, kosztów podróży i noclegów, na zasadach określonych w przepisach dotyczących należności przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju.
 
-#### Rozdział 3 Krajowy Rejestr Leśnego Materiału Podstawowego
+#### Rozdział 3
 
 **Art. 15.**
 
@@ -355,7 +377,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 27.** Rejestracja, odmowa rejestracji oraz wykreślenie z Krajowego Rejestru następuje w drodze decyzji administracyjnej.
 
-#### Rozdział 4 Obrót leśnym materiałem rozmnożeniowym
+#### Rozdział 4
 
 **Art. 28.**
 
@@ -595,7 +617,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, sposób prowadzenia dokumentacji w zakresie obrotu leśnym materiałem rozmnożeniowym przez dostawców, biorąc pod uwagę rodzaj dokonywanych czynności i prawidłowość obrotu.
 
-#### Rozdział 5 Regionalizacja nasienna
+#### Rozdział 5
 
 **Art. 52.**
 
@@ -605,7 +627,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wykaz, obszary oraz mapy regionów pochodzenia, o których mowa w ust. 1, uwzględniając, aby granice regionów pochodzenia obejmowały obszary, na których panują takie same lub zbliżone warunki ekologiczne i na których znajdują się drzewostany lub źródła nasion wykazujące zbliżone cechy fenotypowe lub genetyczne. Obszary regionów pochodzenia wytyczane będą na podstawie istniejącego podziału administracyjnego, biorąc pod uwagę występujące różnice w wysokości nad poziomem morza.
 
-#### Rozdział 6 Przepisy karne
+#### Rozdział 6
 
 **Art. 53.** Kto:
 
@@ -621,13 +643,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** wprowadza w błąd nabywców, podając nieprawdziwe informacje na etykietach, o których mowa w art. 36 ust. 2 oraz art. 42 ust. 1,
 - **3)** bez wymaganego pozwolenia przywozi leśny materiał rozmnożeniowy z państwa niebędącego członkiem Unii Europejskiej, podlega grzywnie.
 
-#### Rozdział 7 Zmiany w przepisach obowiązujących
+#### Rozdział 7
 
 **Art. 55.** (pominięty)
 
 **Art. 56.** (pominięty)
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+#### Rozdział 8
 
 **Art. 57.** Leśny materiał podstawowy wykorzystywany do produkcji leśnego materiału rozmnożeniowego, zarejestrowany w rejestrach Państwowego Gospodarstwa Leśnego Lasy Państwowe oraz w rejestrach parków narodowych według stanu na dzień 31 grudnia roku poprzedzającego rok wejścia w życie ustawy jako „gospodarcze drzewostany nasienne”, „wyłączone drzewostany nasienne”, „uprawy pochodne”, „plantacje nasienne”, „plantacyjne uprawy nasienne” oraz „drzewa doborowe”, podlega, z mocy prawa, rejestracji w Krajowym Rejestrze według następujących zasad:
 
@@ -639,5 +661,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 59.** (uchylony) Zezwala się na obrót leśnym materiałem rozmnożeniowym, niespełniającym warunków określonych w ustawie, w postaci jednostek nasiennych, części roślin przeznaczonych do produkcji materiału sadzeniowego oraz materiału sadzeniowego wyprodukowanego z jednostek nasiennych pozyskanych przed dniem wejścia w życie ustawy, aż do wyczerpania zapasów.
 
-**Art. 60.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. Załącznik – Wykaz gatunków drzew oraz ich sztucznych hybryd 1. Brzoza brodawkowata (Betula pendula Roth.) , 2. Brzoza omszona (Betula pubescens Ehrh.) , 3. Buk zwyczajny (Fagus sylvatica L.) , 4. Cedr atlantycki (Cedrus atlantica Carr.) , 5. Cedr libański (Cedrus libani A. Richard) , 6. Czereśnia ptasia (Prunus avium L.) , 7. Daglezja zielona (Pseudotsuga menziesii Franco) , 8. Dąb bezszypułkowy (Quercus petraea Liebl.) , 9. Dąb burgundzki (Quercus cerris L.) , 10. Dąb czerwony (Quercus rubra L.) , 11. Dąb korkowy (Quercus suber L.) , 12. Dąb omszony (Quercus pubescens Willd) , 13. Dąb ostrolistny (Quercus ilex L.) , 14. Dąb szypułkowy (Quercus robur L.) , 15. Grab zwyczajny (Carpinus betulus L.) , 16. Grochodrzew (Robinia pseudoacacia L.) , 17. Jesion wyniosły (Fraxinus excelsior L.) , 18. Jesion wyniosły odmiana wąskolistna (Fraxinus angustifolia Vahl.) , 19. Jodła grecka (Abies cephalonica Loud.) , 20. Jodła hiszpańska (Abies pinsapo Boiss.) , 21. Jodła olbrzymia (Abies grandis Lindl.) , 22. Jodła pospolita (Abies alba Mill.) , 23. Kasztan jadalny (Castanea sativa Mill.) , 24. Klon jawor (Acer pseudoplatanus L.) , 25. Klon zwyczajny (Acer platanoides L.) , 26. Lipa drobnolistna (Tilia cordata Mill.) , 27. Lipa szerokolistna (Tilia platyphyllos Scop.) , 28. Modrzew europejski (Larix decidua Mill.) , 29. Modrzew eurojapoński (Larix x eurolepis Henry) , 30. Modrzew japoński (Larix kaempferi Carr.) , 31. Modrzew syberyjski (Larix sibirica Ledeb.) , 32. Olsza czarna (Alnus glutinosa Gaertn.) , 33. Olsza szara (Alnus incana Moench.) , 34. Pinus canariensis C. Smith , 35. Sosna alepska (Pinus halepensis Mill.) , 36. Sosna alepska odmiana kalabryjska (Pinus halepensis var. brutia Henry) , 37. Sosna bośniacka (Pinus leucodermis Antoine) , 38. Sosna czarna (Pinus nigra Arnold) , 39. Sosna limba (Pinus cembra L.) , 40. Sosna kalifornijska (Pinus radiata D. Don) , 41. Sosna nadmorska (Pinus pinaster Ait.) , 42. Sosna pinia (Pinus pinea L.) , 43. Sosna wejmutka (Pinus strobus L.) , 44. Sosna wydmowa (Pinus contorta Loud.) , 45. Sosna zwyczajna (Pinus sylvestris L.) , 46. Świerk pospolity (Picea abies Karst.) , 47. Świerk sitkajski (Picea sitchensis Carr.) , 48. Topola (Populus spp.) oraz jej sztuczne hybrydy.
+**Art. 60.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii EuropejskiejRzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r.. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 1999/105/WE z dnia 22 grudnia 1999 r. w sprawie obrotu leśnym materiałem rozmnożeniowym (Dz. Urz. WE L 11 z 15.01.2000). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Ustawa utraciła moc z dniem 1 maja 2004 r. na podstawie art. 77 ustawy z dnia 26 czerwca 2003 r. o nasiennictwie (Dz. U. z 2007 r. poz. 271, 541 i 1362, z 2009 r. poz. 591, 817, 1241 i 1665, z 2010 r. poz. 1591 oraz z 2011 r. poz. 622 i 1016), która weszła w życie z dniem 1 maja 2004 r. 3) W brzmieniu ustalonym przez art. 58 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 5) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r. Załącznik – Wykaz gatunków drzew oraz ich sztucznych hybryd 1. Brzoza brodawkowata (Betula pendula Roth.) , 2. Brzoza omszona (Betula pubescens Ehrh.) , 3. Buk zwyczajny (Fagus sylvatica L.) , 4. Cedr atlantycki (Cedrus atlantica Carr.) , 5. Cedr libański (Cedrus libani A. Richard) , 6. Czereśnia ptasia (Prunus avium L.) , 7. Daglezja zielona (Pseudotsuga menziesii Franco) , 8. Dąb bezszypułkowy (Quercus petraea Liebl.) , 9. Dąb burgundzki (Quercus cerris L.) , 10. Dąb czerwony (Quercus rubra L.) , 11. Dąb korkowy (Quercus suber L.) , 12. Dąb omszony (Quercus pubescens Willd) , 13. Dąb ostrolistny (Quercus ilex L.) , 14. Dąb szypułkowy (Quercus robur L.) , 15. Grab zwyczajny (Carpinus betulus L.) , 16. Grochodrzew (Robinia pseudoacacia L.) , 17. Jesion wyniosły (Fraxinus excelsior L.) , 18. Jesion wyniosły odmiana wąskolistna (Fraxinus angustifolia Vahl.) , 19. Jodła grecka (Abies cephalonica Loud.) , 20. Jodła hiszpańska (Abies pinsapo Boiss.) , 21. Jodła olbrzymia (Abies grandis Lindl.) , 22. Jodła pospolita (Abies alba Mill.) , 23. Kasztan jadalny (Castanea sativa Mill.) , 24. Klon jawor (Acer pseudoplatanus L.) , 25. Klon zwyczajny (Acer platanoides L.) , 26. Lipa drobnolistna (Tilia cordata Mill.) , 27. Lipa szerokolistna (Tilia platyphyllos Scop.) , 28. Modrzew europejski (Larix decidua Mill.) , 29. Modrzew eurojapoński (Larix x eurolepis Henry) , 30. Modrzew japoński (Larix kaempferi Carr.) , 31. Modrzew syberyjski (Larix sibirica Ledeb.) , 32. Olsza czarna (Alnus glutinosa Gaertn.) , 33. Olsza szara (Alnus incana Moench.) , 34. Pinus canariensis C. Smith , 35. Sosna alepska (Pinus halepensis Mill.) , 36. Sosna alepska odmiana kalabryjska (Pinus halepensis var. brutia Henry) , 37. Sosna bośniacka (Pinus leucodermis Antoine) , 38. Sosna czarna (Pinus nigra Arnold) , 39. Sosna limba (Pinus cembra L.) , 40. Sosna kalifornijska (Pinus radiata D. Don) , 41. Sosna nadmorska (Pinus pinaster Ait.) , 42. Sosna pinia (Pinus pinea L.) , 43. Sosna wejmutka (Pinus strobus L.) , 44. Sosna wydmowa (Pinus contorta Loud.) , 45. Sosna zwyczajna (Pinus sylvestris L.) , 46. Świerk pospolity (Picea abies Karst.) , 47. Świerk sitkajski (Picea sitchensis Carr.) , 48. Topola (Populus spp.) oraz jej sztuczne hybrydy.
 

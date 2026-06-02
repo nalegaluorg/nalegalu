@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 9 kwietnia 2020 r. zmieniające rozporządzenie w sprawie wykazu schorzeń i chorób pozostających w związku ze służbą w Policji, Straży Granicznej, Służbie Ochrony Państwa i Państwowej Straży Pożarnej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 9 kwietnia 2020 r. zmieniające rozporządzenie w sprawie wykazu schorzeń i chorób pozostających w związku ze służbą w Policji, Straży Granicznej, Służbie Ochrony Państwa i Państwowej Straży Pożarnej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-09 |
 | Data wydania | 2020-04-10 |
-| Wejście w życie | 2020-04-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/653/text.pdf) |
 
@@ -39,6 +38,5 @@ tytuł załącznika nr 1 do rozporządzenia otrzymuje brzmienie: „ WYKAZ CHOR�
 4)
 tytuł załącznika nr 2 do rozporządzenia otrzymuje brzmienie: „ WYKAZ CHORÓB I SCHORZEŃ, KTÓRE ISTNIAŁY PRZED PRZYJĘCIEM DO SŁUŻBY, LECZ ULEGŁY POGORSZENIU LUB UJAWNIŁY SIĘ W CZASIE TRWANIA SŁUŻBY W POLICJI, STRAŻY GRANICZNEJ, STRAŻY MARSZAŁKOWSKIEJ, SŁUŻBIE OCHRONY PAŃSTWA I PAŃSTWOWEJ STRAŻY POŻARNEJ WSKUTEK SZCZEGÓLNYCH WŁAŚCIWOŚCI LUB WARUNKÓW SŁUŻBY NA OKREŚLONYCH STANOWISKACH, ORAZ WŁAŚCIWOŚCI I WARUNKI SŁUŻBY POWODUJĄCE ICH UJAWNIENIE LUB POGORSZENIE STANU ZDROWIA ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 14 kwietnia 2020 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 14 kwietnia 2020 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

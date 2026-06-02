@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 21 marca 2019 r. w sprawie terminów przekazywania gminom dotacji celowej na dofinansowanie świadczeń pomocy materialnej o charakterze socjalnym oraz sposobu ustalania wysokości tej dotacji
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 21 marca 2019 r. w sprawie terminów przekazywania gminom dotacji celowej na dofinansowanie świadczeń pomocy materialnej o charakterze socjalnym oraz sposobu ustalania wysokości tej dotacji Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-21 |
 | Data wydania | 2019-03-25 |
-| Wejście w życie | 2019-03-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000554) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/554/text.pdf) |
 
@@ -35,6 +34,5 @@ Dotacja celowa, o której mowa w § 1, jest przekazywana w częściach, w termin
 § 3.
 W 2019 r. części za miesiące styczeń, luty i marzec zostaną przekazane w terminie do dnia 31 marca 2019 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 22 lutego 2005 r. w sprawie terminów przekazywania dotacji celowej gminom na dofinansowanie świadczeń pomocy materialnej o charakterze socjalnym oraz sposobu ustalania wysokości tej dotacji (Dz. U. poz. 319), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 147 pkt 4 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203 oraz z 2018 r. poz. 2245).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 22 lutego 2005 r. w sprawie terminów przekazywania dotacji celowej gminom na dofinansowanie świadczeń pomocy materialnej o charakterze socjalnym oraz sposobu ustalania wysokości tej dotacji (Dz. U. poz. 319), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 147 pkt 4 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203 oraz z 2018 r. poz. 2245). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 22 lutego 2005 r. w sprawie terminów przekazywania dotacji celowej gminom na dofinansowanie świadczeń pomocy materialnej o charakterze socjalnym oraz sposobu ustalania wysokości tej dotacji (Dz. U. poz. 319), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 147 pkt 4 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203 oraz z 2018 r. poz. 2245).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 3 kwietnia 2017 r. zmieniające rozporządzenie w sprawie praktyki zawodowej kandydatów na doradców podatkowych
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 3 kwietnia 2017 r. zmieniające rozporządzenie w sprawie praktyki zawodowej kandydatów na doradców podatkowych Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-03 |
 | Data wydania | 2017-04-11 |
-| Wejście w życie | 2017-04-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000762) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/762/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 21 ust. 5 ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowy
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 5 października 2014 r. w sprawie praktyki zawodowej kandydatów na doradców podatkowych (Dz. U. poz. 1401) w § 5:
 1)
-w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
 przez okres co najmniej roku w:
 a)
@@ -42,18 +40,13 @@ urzędzie obsługującym ministra właściwego do spraw finansów publicznych,
 c)
 samorządowych służbach finansowych,
 d)
-samorządowym kolegium odwoławczym
-jeżeli do zakresu obowiązków kandydata należało stosowanie przepisów prawa podatkowego w związku z prowadzonymi postępowaniami podatkowymi, kontrolami podatkowymi lub kontrolami celno-skarbowymi;
-” ;
+samorządowym kolegium odwoławczym – jeżeli do zakresu obowiązków kandydata należało stosowanie przepisów prawa podatkowego w związku z prowadzonymi postępowaniami podatkowymi, kontrolami podatkowymi lub kontrolami celno-skarbowymi; ” ;
 2)
-po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
 1a.
 Na równi z praktyką jest traktowane zatrudnienie przez okres co najmniej roku w urzędzie skarbowym, izbie skarbowej, urzędzie kontroli skarbowej, urzędzie celnym lub izbie celnej, jeżeli do zakresu obowiązków kandydata należało stosowanie przepisów prawa podatkowego w związku z prowadzonymi postępowaniami podatkowymi lub kontrolnymi.
 1b.
-Do rocznego okresu zatrudnienia, o którym mowa w ust. 1 pkt 2, wlicza się zatrudnienie w urzędzie skarbowym, izbie skarbowej, izbie administracji skarbowej, urzędzie kontroli skarbowej, urzędzie celnym lub izbie celnej, jeżeli do zakresu obowiązków kandydata należało stosowanie przepisów prawa podatkowego w związku z prowadzonymi postępowaniami podatkowymi lub kontrolnymi.
-” .
+Do rocznego okresu zatrudnienia, o którym mowa w ust. 1 pkt 2, wlicza się zatrudnienie w urzędzie skarbowym, izbie skarbowej, izbie administracji skarbowej, urzędzie kontroli skarbowej, urzędzie celnym lub izbie celnej, jeżeli do zakresu obowiązków kandydata należało stosowanie przepisów prawa podatkowego w związku z prowadzonymi postępowaniami podatkowymi lub kontrolnymi. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

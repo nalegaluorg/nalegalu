@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-01-26 |
 | Data wydania | 2007-03-09 |
-| Wejście w życie | 2007-03-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070420273) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/273/text.pdf) |
 
@@ -35,8 +34,13 @@ source: "eli-html"
     - **b)**
 
 - **5)** właściwych ministrach – należy przez to rozumieć ministrów, o których mowa w art. 5 ust. 3a-3e ustawy o systemie oświaty, prowadzących szkoły i placówki oświatowe; ” ;
-- **2)** w art. 3: w ust. 3: – w pkt 1 lit. j-l otrzymują brzmienie: „ j) wyników klasyfikowania i promowania oraz ukończenia nauki w szkole lub placówce oświatowej, k) pozytywnych i negatywnych wyników egzaminu maturalnego i egzaminu dojrzałości, l) pozytywnych i negatywnych wyników egzaminów: potwierdzającego kwalifikacje zawodowe, z nauki zawodu oraz z przygotowania zawodowego, ” , – pkt 3 otrzymuje brzmienie: „ 3) liczbie uczniów, słuchaczy i wychowanków w dniu zakończenia poprzedniego roku szkolnego, z wyłączeniem wychowanków przedszkoli; ” , w ust. 4 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **2)** w art. 3: w ust. 3: w pkt 1 lit. j-l otrzymują brzmienie: „ wyników klasyfikowania i promowania oraz ukończenia nauki w szkole lub placówce oświatowej, pozytywnych i negatywnych wyników egzaminu maturalnego i egzaminu dojrzałości, pozytywnych i negatywnych wyników egzaminów: potwierdzającego kwalifikacje zawodowe, z nauki zawodu oraz z przygotowania zawodowego, ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
+    - **j)**
+    - **k)**
+    - **l)**
+
+- **3)** liczbie uczniów, słuchaczy i wychowanków w dniu zakończenia poprzedniego roku szkolnego, z wyłączeniem wychowanków przedszkoli; ” , w ust. 4 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
     - **b)**
 
 - **4)** łącznej liczbie nauczycieli, o których mowa w art. 1 ust. 1 i 1a oraz ust. 2 pkt 1 Karty Nauczyciela, z którymi w danym roku kalendarzowym rozwiązano lub planowane jest rozwiązanie stosunku pracy albo których stosunek pracy wygasł lub wygaśnie, według przyczyn rozwiązania lub wygaśnięcia stosunku pracy. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
@@ -106,7 +110,7 @@ source: "eli-html"
 
 3. Obowiązek dodatkowego aktualizowania i przekazywania danych, o których mowa w art. 3 ust. 4 pkt 1 lit. a-g, i, k, l i pkt 2, nie dotyczy szkół i placówek oświatowych prowadzonych przez osoby fizyczne i osoby prawne inne niż jednostki samorządu terytorialnego. ” .
 
-**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104 oraz z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658.) wprowadza się następujące zmiany:
 
 - **1)** w art. 59 ust. 3 otrzymuje brzmienie: „
 
@@ -116,5 +120,5 @@ source: "eli-html"
 
 4. Dokumentację przebiegu nauczania zlikwidowanej szkoły przekazuje się organowi sprawującemu nadzór pedagogiczny, w terminie jednego miesiąca od dnia zakończenia likwidacji. Po zakończeniu likwidacji wpis do ewidencji ulega wykreśleniu. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104 oraz z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658.
 

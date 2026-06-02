@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 10 października 2017 r. w sprawie zmiany nazwy Archiwum Państwowego w Elblągu z siedzibą w Malborku
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 10 października 2017 r. w sprawie zmiany nazwy Archiwum Państwowego w Elblągu z siedzibą w Malborku Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-10 |
 | Data wydania | 2017-10-23 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001974) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1974/text.pdf) |
 
@@ -33,6 +32,5 @@ Archiwum Państwowe w Elblągu z siedzibą w Malborku otrzymuje nazwę „Archiw
 § 2.
 Organizację oraz szczegółowy zakres działania Archiwum Państwowego w Malborku określi statut nadany przez Naczelnego Dyrektora Archiwów Państwowych.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 

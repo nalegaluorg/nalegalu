@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 24 sierpnia 2012 r. w sprawie szczegółowego trybu i warunków przesyłania broni lub amunicji za pośrednictwem operatorów świadczących usługi pocztowe
+# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 24 sierpnia 2012 r. w sprawie szczegółowego trybu i warunków przesyłania broni lub amunicji za pośrednictwem operatorów świadczących usługi pocztowe Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 91/477/EWG z dnia 18 czerwca 1991 r. w sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 256 z 13.09.1991, str. 51; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 11, str. 3) w brzmieniu nadanym dyrektywą Parlamentu Europejskiego i Rady 2008/51/WE z dnia 21 maja 2008 r. (Dz. Urz. UE L 179/5 z 08.07.2008, str. 5).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-24 |
 | Data wydania | 2012-09-10 |
-| Wejście w życie | 2012-09-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1004/text.pdf) |
 
@@ -30,7 +29,7 @@ Treść rozporządzenia
 Na podstawie art. 36 ust. 6 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2012 r. poz. 576) zarządza się, co następuje:
 § 1.
 1.
-Rozporządzenie określa szczegółowy tryb i warunki przesyłania broni lub amunicji za pośrednictwem operatora, w rozumieniu ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. z 2008 r. Nr 189, poz. 1159, z późn. zm.).
+Rozporządzenie określa szczegółowy tryb i warunki przesyłania broni lub amunicji za pośrednictwem operatora, w rozumieniu ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. z 2008 r. Nr 189, poz. 1159, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97 i Nr 168, poz. 1323, z 2010 r. Nr 47, poz. 278 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951.).
 2.
 Przepisów rozporządzenia nie stosuje się do przesyłek zawierających amunicję hukową o kalibrze do 6 mm oraz broń, której posiadanie nie wymaga pozwolenia, z wyłączeniem broni pneumatycznej.
 § 2.
@@ -51,7 +50,7 @@ Przechowywana przesyłka w magazynie broni podlega ewidencjonowaniu.
 Do przechowywania przesyłki w magazynie broni oraz jej ewidencjonowania stosuje się przepisy wydane na podstawie art. 32 ust. 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji.
 § 4.
 1.
-Operator podczas przewożenia przesyłki zapewnia bezpośrednią ochronę fizyczną przesyłki przez pracownika ochrony uzbrojonego w broń palną bojową, spełniającego warunki określone w ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.).
+Operator podczas przewożenia przesyłki zapewnia bezpośrednią ochronę fizyczną przesyłki przez pracownika ochrony uzbrojonego w broń palną bojową, spełniającego warunki określone w ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496, z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016 oraz z 2012 r. poz. 908.).
 2.
 Przesyłka jest chroniona:
 1)
@@ -143,5 +142,5 @@ Przesyłki zawierające broń lub amunicję, które są przez operatora wprowadz
 2.
 Realizacja czynności, o których mowa w § 7 oraz § 8 ust. 2, możliwa jest po dopełnieniu formalności wynikających z przepisów prawa celnego.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 6 listopada 2003 r. w sprawie szczegółowych zasad i warunków przesyłania broni za pośrednictwem podmiotów zajmujących się przewożeniem i doręczaniem przesyłek (Dz. U. Nr 198, poz. 1926), które utraciło moc z dniem 10 marca 2012 r., na podstawie art. 6 ust. 1 ustawy z dnia 5 stycznia 2011 r. o zmianie ustawy o broni i amunicji oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 38, poz. 195 i Nr 51, poz. 263). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 91/477/EWG z dnia 18 czerwca 1991 r. w sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 256 z 13.09.1991, str. 51; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 11, str. 3) w brzmieniu nadanym dyrektywą Parlamentu Europejskiego i Rady 2008/51/WE z dnia 21 maja 2008 r. (Dz. Urz. UE L 179/5 z 08.07.2008, str. 5). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97 i Nr 168, poz. 1323, z 2010 r. Nr 47, poz. 278 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016 oraz z 2012 r. poz. 951. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496, z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016 oraz z 2012 r. poz. 908. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 6 listopada 2003 r. w sprawie szczegółowych zasad i warunków przesyłania broni za pośrednictwem podmiotów zajmujących się przewożeniem i doręczaniem przesyłek (Dz. U. Nr 198, poz. 1926), które utraciło moc z dniem 10 marca 2012 r., na podstawie art. 6 ust. 1 ustawy z dnia 5 stycznia 2011 r. o zmianie ustawy o broni i amunicji oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 38, poz. 195 i Nr 51, poz. 263).
 

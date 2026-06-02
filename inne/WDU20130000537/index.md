@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 30 kwietnia 2013 r. w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne
+# Rozporządzenie Ministra Finansówz dnia 30 kwietnia 2013 r. w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne Niniejsze rozporządzenie, w zakresie swojej regulacji, wdraża dyrektywy:
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-04-30 |
 | Data wydania | 2013-05-08 |
-| Wejście w życie | 2013-05-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/537/text.pdf) |
 
+-dyrektywę Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącą wykonania dyrektywy Rady 85/611/EWG w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) w zakresie wyjaśnienia niektórych definicji(Dz. Urz. UE L 79 z 20.03.2007, str. 11),
 Treść rozporządzenia
 Załącznik – Wykaz indeksów
 Treść rozporządzenia
 – dyrektywę Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42).
-Na podstawie art. 94 ust. 7 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 94 ust. 7 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70 i 433.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -184,9 +184,7 @@ informacje dotyczące zasad obliczania indeksu, metodologii wprowadzania zmian w
 § 12.
 Do czasu dostosowania przez towarzystwo zarządzające funduszem prowadzonej działalności do przepisów wydanych na podstawie art. 48a pkt 1 ustawy w zakresie systemu zarządzania ryzykiem maksymalne zaangażowanie funduszu w instrumenty pochodne wyznacza się na podstawie przepisów dotychczasowych, nie dłużej jednak niż do dnia 31 lipca 2013 r.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2)
-Niniejsze rozporządzenie, w zakresie swojej regulacji, wdraża dyrektywy:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 stycznia 2009 r. w sprawie zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. Nr 17, poz. 87), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 8 ustawy z dnia 23 listopada 2012 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym (Dz. U. z 2013 r. poz. 70). 2) Niniejsze rozporządzenie, w zakresie swojej regulacji, wdraża dyrektywy:
 – dyrektywę Komisji 2007/16/WE z dnia 19 marca 2007 r. dotyczącą wykonania dyrektywy Rady 85/611/EWG w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) w zakresie wyjaśnienia niektórych definicji (Dz. Urz. UE L 79 z 20.03.2007, str. 11),
 – dyrektywę Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42).
 Załącznik – Wykaz indeksów

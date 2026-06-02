@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-02 |
 | Data wydania | 2013-12-16 |
-| Wejście w życie | 2013-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001560) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1560/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 74 § 18 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 74 § 18 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 85, poz. 458, Nr 87, poz. 483, Nr 106, poz. 622 i Nr 142, poz. 830 oraz z 2013 r. poz. 829 i 1247.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -86,5 +85,5 @@ Jeżeli przeciętne wynagrodzenie, o którym mowa w ust. 1, jest niższe od prze
 § 7.
 W latach 2013 i 2014 podstawą ustalenia wynagrodzenia przewodniczącego i członków zespołu jest przeciętne wynagrodzenie w drugim kwartale 2010 r. ogłoszone w sposób wskazany w § 6 ust. 1 pkt 1.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 kwietnia 2009 r. w sprawie zespołu do przygotowania zestawu pytań testowych i zadań na egzamin notarialny oraz wykazu tytułów aktów prawnych (Dz. U. z 2013 r. poz. 1416), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 85, poz. 458, Nr 87, poz. 483, Nr 106, poz. 622 i Nr 142, poz. 830 oraz z 2013 r. poz. 829 i 1247. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 kwietnia 2009 r. w sprawie zespołu do przygotowania zestawu pytań testowych i zadań na egzamin notarialny oraz wykazu tytułów aktów prawnych (Dz. U. z 2013 r. poz. 1416), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 49 ust. 2 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829).
 

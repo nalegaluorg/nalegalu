@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw
+# Ustawa z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, ustawę z dnia 20 lipca 2017 r. – Prawo wodne oraz ustawę z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,50 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-16 |
 | Data wydania | 2020-04-30 |
-| Wejście w życie | 2020-07-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000782) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/782/text.pdf) |
 
-Treść ustawy Art. 1. Art. 2. Art. 3. Art. 4. Art. 5. Art. 6. Art. 7. Art. 8. Art. 9. Art. 10. Art. 11. Art. 12. Art. 13. Art. 14. Art. 15. Art. 16. Art. 17. Art. 18. Art. 19. Art. 20.
-Załącznik –
+Zbiory danych przestrzennych
 
-**Art. 1.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 276 i 284) wprowadza się następujące zmiany:
+**Art. 1.**
+
+**Art. 2.**
+
+**Art. 3.**
+
+**Art. 4.**
+
+**Art. 5.**
+
+**Art. 6.**
+
+**Art. 7.**
+
+**Art. 8.**
+
+**Art. 9.**
+
+**Art. 10.**
+
+**Art. 11.**
+
+**Art. 12.**
+
+**Art. 13.**
+
+**Art. 14.**
+
+**Art. 15.**
+
+**Art. 16.**
+
+**Art. 17.**
+
+**Art. 18.**
+
+**Art. 19.**
+
+**Art. 20.** Załącznik – W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 276 i 284) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
@@ -39,8 +75,11 @@ Załącznik –
 
 - **7a)** mapie do celów projektowych – rozumie się przez to opracowanie kartograficzne, wykonane z wykorzystaniem wyników pomiarów geodezyjnych i materiałów państwowego zasobu geodezyjnego i kartograficznego, zawierające elementy stanowiące treść mapy zasadniczej lub mapy, o której mowa w art. 4 ust. 2, a także informacje niezbędne do sporządzenia dokumentacji projektowej oraz, z uwzględnieniem art. 12c ust. 1 pkt 1, klauzulę urzędową, o której mowa w art. 40 ust. 3g pkt 3, stanowiącą potwierdzenie przyjęcia do państwowego zasobu geodezyjnego i kartograficznego zbiorów danych lub dokumentów, o których mowa w art. 12a ust. 1, w oparciu o które mapa do celów projektowych została sporządzona, albo oświadczenie wykonawcy prac geodezyjnych o uzyskaniu pozytywnego wyniku weryfikacji;
 - **7b)** geodezyjnej inwentaryzacji powykonawczej obiektów budowlanych – rozumie się przez to wykonanie pomiarów sytuacyjnych i wysokościowych mających na celu zebranie aktualnych danych o przestrzennym rozmieszczeniu elementów zagospodarowania terenu objętego zamierzeniem budowlanym i sporządzenie dokumentacji geodezyjnej zawierającej wyniki tych pomiarów, w tym mapę opatrzoną, z uwzględnieniem art. 12c ust. 1 pkt 1, klauzulą urzędową, o której mowa w art. 40 ust. 3g pkt 3, stanowiącą potwierdzenie przyjęcia do państwowego zasobu geodezyjnego i kartograficznego zbiorów danych lub dokumentów, o których mowa w art. 12a ust. 1, w oparciu o które mapa ta została sporządzona, albo oświadczenie wykonawcy prac geodezyjnych o uzyskaniu pozytywnego wyniku weryfikacji; ” ;
-- **2)** w art. 4: w ust. 1a: – pkt 7 otrzymuje brzmienie: „ 7) rejestru cen nieruchomości; ” , – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „ 12) obiektów topograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:500–1:5000. ” , uchyla się ust. 1b i 1ba;
+- **2)** w art. 4: w ust. 1a: pkt 7 otrzymuje brzmienie: „
     - **a)**
+
+- **7)** rejestru cen nieruchomości; ” , w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+- **12)** obiektów topograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:500–1:5000. ” , uchyla się ust. 1b i 1ba;
     - **b)**
 
 - **3)** w art. 4 w ust. 1c, 1d i 1e we wprowadzeniu do wyliczenia, w art. 5 w ust. 1 i 2, w art. 7a w ust. 1 w pkt 13, w art. 19 w ust. 1 w pkt 6 i 8–11 oraz w ust. 1a, w art. 27 w ust. 5 oraz w art. 47b w ust. 5 skreśla się wyrazy „i 1b”;
@@ -60,22 +99,35 @@ Załącznik –
 - **8)** w art. 10 w ust. 6 skreśla się wyrazy „i 2”;
 - **9)** art. 11 otrzymuje brzmienie: „
 
-**Art. 11.**
-
 1. Wykonawcą prac geodezyjnych lub prac kartograficznych może być przedsiębiorca, jednostka organizacyjna, a także osoba legitymująca się uprawnieniami zawodowymi w dziedzinie geodezji i kartografii w przypadku wykonywania przez tę osobę funkcji biegłego sądowego lub mierniczego górniczego.
 
 2. Wykonawca prac geodezyjnych podlegających obowiązkowi zgłoszenia organowi Służby Geodezyjnej i Kartograficznej ustanawia legitymującego się odpowiednimi uprawnieniami zawodowymi kierownika prac geodezyjnych.
 
 3. W przypadku gdy wykonawcą prac geodezyjnych jest osoba wykonująca funkcję biegłego sądowego lub mierniczego górniczego, uznaje się ją za pełniącą funkcję kierownika prac geodezyjnych. ” ;
 
-- **10)** w art. 12: w ust. 1: – w pkt 1: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Głównemu Geodecie Kraju, jeżeli celem tych prac jest: ” , – – uchyla się lit. a, – – lit. b otrzymuje brzmienie: „ b) wykonanie zobrazowań lotniczych, numerycznego modelu terenu lub ortofotomapy, z wyjątkiem tych prac wykonywanych na zamówienie Głównego Geodety Kraju; ” , – – uchyla się lit. c, – uchyla się pkt 2, – w pkt 3: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ właściwym miejscowo starostom, jeżeli celem tych prac jest: ” , – – uchyla się lit. a, – – lit. c otrzymuje brzmienie: „ c) geodezyjna inwentaryzacja powykonawcza obiektów budowlanych, ” , – – uchyla się lit. d oraz e, – – dodaje się lit. f-l w brzmieniu: „ f) sporządzenie mapy z projektem podziału nieruchomości, g) sporządzenie projektu scalenia i podziału nieruchomości, h) sporządzenie innej niż wymienione w lit. f oraz g mapy do celów prawnych, i) sporządzenie mapy do celów projektowych, j) sporządzenie projektu scalenia lub wymiany gruntów, k) sporządzenie dokumentacji geodezyjnej na potrzeby rozgraniczenia nieruchomości, l) wykonanie innych niż wymienione w lit. b, c oraz f-k czynności lub dokumentacji geodezyjnej w postaci map, rejestrów lub wykazów, których wykonanie może skutkować zmianą w bazach danych, o których mowa w art. 4 ust. 1a pkt 2, 3, 10 lub 12, z wyjątkiem prac wykonywanych na zamówienie organu Służby Geodezyjnej i Kartograficznej. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **10)** w art. 12: w ust. 1: w pkt 1: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Głównemu Geodecie Kraju, jeżeli celem tych prac jest: ” , – – uchyla się lit. a, – lit. b otrzymuje brzmienie: „ wykonanie zobrazowań lotniczych, numerycznego modelu terenu lub ortofotomapy, z wyjątkiem tych prac wykonywanych na zamówienie Głównego Geodety Kraju; ” , – – uchyla się lit. c, uchyla się pkt 2, – w pkt 3: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ właściwym miejscowo starostom, jeżeli celem tych prac jest: ” , – – uchyla się lit. a, – lit. c otrzymuje brzmienie: „ geodezyjna inwentaryzacja powykonawcza obiektów budowlanych, ” , – – uchyla się lit. d oraz e, – dodaje się lit. f-l w brzmieniu: „ sporządzenie mapy z projektem podziału nieruchomości, sporządzenie projektu scalenia i podziału nieruchomości, sporządzenie innej niż wymienione w lit. f oraz g mapy do celów prawnych, sporządzenie mapy do celów projektowych, sporządzenie projektu scalenia lub wymiany gruntów, sporządzenie dokumentacji geodezyjnej na potrzeby rozgraniczenia nieruchomości, wykonanie innych niż wymienione w lit. b, c oraz f-k czynności lub dokumentacji geodezyjnej w postaci map, rejestrów lub wykazów, których wykonanie może skutkować zmianą w bazach danych, o których mowa w art. 4 ust. 1a pkt 2, 3, 10 lub 12, z wyjątkiem prac wykonywanych na zamówienie organu Służby Geodezyjnej i Kartograficznej. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
     - **b)**
+    - **c)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **b)**
 
-1a. Zgłoszenie prac geodezyjnych, zwane dalej „zgłoszeniem prac”, może nastąpić po ich rozpoczęciu, jednak nie później niż w terminie 5 dni roboczych od dnia rozpoczęcia tych prac. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zgłoszenie prac zawiera: ” , – w pkt 1 lit. a oraz b otrzymują brzmienie: „ a) wykonawcę zgłaszanych prac geodezyjnych, b) kierownika zgłaszanych prac geodezyjnych, w tym numer jego uprawnień zawodowych; ” , – pkt 2 i 3 otrzymują brzmienie: „ 2) cel zgłaszanych prac geodezyjnych; 3) dane określające obszar objęty zgłaszanymi pracami geodezyjnymi; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) termin rozpoczęcia zgłaszanych prac geodezyjnych; ” , – pkt 4 otrzymuje brzmienie: „ 4) przewidywany termin przekazania do organu Służby Geodezyjnej i Kartograficznej zbiorów danych lub dokumentów, o których mowa w art. 12a ust. 1, nie dłuższy niż rok od dnia rozpoczęcia zgłaszanych prac geodezyjnych. ” , – uchyla się pkt 5, po ust. 2 dodaje się ust. 2a-2e w brzmieniu: „
+1a. Zgłoszenie prac geodezyjnych, zwane dalej „zgłoszeniem prac”, może nastąpić po ich rozpoczęciu, jednak nie później niż w terminie 5 dni roboczych od dnia rozpoczęcia tych prac. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zgłoszenie prac zawiera: ” , w pkt 1 lit. a oraz b otrzymują brzmienie: „ wykonawcę zgłaszanych prac geodezyjnych, kierownika zgłaszanych prac geodezyjnych, w tym numer jego uprawnień zawodowych; ” , pkt 2 i 3 otrzymują brzmienie: „
 
 - **c)**
-- **d)**
+- **a)**
+- **b)**
+- **2)** cel zgłaszanych prac geodezyjnych;
+- **3)** dane określające obszar objęty zgłaszanymi pracami geodezyjnymi; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** termin rozpoczęcia zgłaszanych prac geodezyjnych; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** przewidywany termin przekazania do organu Służby Geodezyjnej i Kartograficznej zbiorów danych lub dokumentów, o których mowa w art. 12a ust. 1, nie dłuższy niż rok od dnia rozpoczęcia zgłaszanych prac geodezyjnych. ” , – uchyla się pkt 5, po ust. 2 dodaje się ust. 2a-2e w brzmieniu: „
+    - **d)**
 
 2a. W przypadku prac, o których mowa w ust. 1 pkt 3 lit. j, przewidywany termin przekazania do organu Służby Geodezyjnej i Kartograficznej zbiorów danych lub dokumentów, o których mowa w art. 12a ust. 1, może być dłuższy niż rok od dnia rozpoczęcia tych prac.
 
@@ -144,7 +196,7 @@ Załącznik –
 
 - **1)** do 1 ha – nie później niż w terminie 7 dni roboczych,
 - **2)** powyżej 1 ha do 10 ha – nie później niż w terminie 10 dni roboczych,
-- **3)** powyżej 10 ha – nie później niż w terminie 20 dni roboczych od dnia otrzymania przez organ Służby Geodezyjnej i Kartograficznej zawiadomienia o przekazaniu wyników zgłoszonych prac.
+- **3)** powyżej 10 ha – nie później niż w terminie 20 dni roboczych – od dnia otrzymania przez organ Służby Geodezyjnej i Kartograficznej zawiadomienia o przekazaniu wyników zgłoszonych prac.
 
 1b. Do terminów, o których mowa w ust. 1a, nie wlicza się okresów opóźnień spowodowanych z przyczyn niezależnych od organu. ” , w ust. 3 dodaje się zdanie drugie w brzmieniu: „ Wynik weryfikacji może być pozytywny albo negatywny. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
@@ -183,15 +235,20 @@ Załącznik –
 
 8. Jeżeli organ Służby Geodezyjnej i Kartograficznej nie uwzględni stanowiska wykonawcy prac geodezyjnych, wydaje decyzję administracyjną o odmowie przyjęcia do państwowego zasobu geodezyjnego i kartograficznego wyników zgłoszonych prac geodezyjnych. ” ;
 
-- **13)** w art. 12c: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Obowiązek dokonania zgłoszenia prac oraz przekazania wyników zgłoszonych prac geodezyjnych do organu Służby Geodezyjnej i Kartograficznej nie obejmuje prac geodezyjnych dotyczących: ” , – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ 3) tyczenia budynków lub sieci uzbrojenia terenu. ” , uchyla się ust. 2;
+- **13)** w art. 12c: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Obowiązek dokonania zgłoszenia prac oraz przekazania wyników zgłoszonych prac geodezyjnych do organu Służby Geodezyjnej i Kartograficznej nie obejmuje prac geodezyjnych dotyczących: ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **a)**
+
+- **3)** tyczenia budynków lub sieci uzbrojenia terenu. ” , uchyla się ust. 2;
     - **b)**
 
-- **14)** po art. 12c dodaje się art. 12ca w brzmieniu: „ Art. 12ca. Do aktualizacji przez:
+- **14)** po art. 12c dodaje się art. 12ca w brzmieniu: „ Do aktualizacji przez:
 - **1)** marszałka województwa bazy danych, o której mowa w art. 4 ust. 1a pkt 8,
-- **2)** Głównego Geodetę Kraju baz danych, o których mowa w art. 4 ust. 1a pkt 1, 4, 5, 9 i 11 nierealizowanej jako przedmiot zamówienia publicznego nie stosuje się przepisów art. 11–12b i art. 42–46w. ” ;
-- **15)** w art. 12d: w ust. 1: – uchyla się pkt 2, – pkt 3 i 4 otrzymują brzmienie: „ 3) wzór zawiadomienia o przekazaniu wyników zgłoszonych prac, 4) wzór protokołu weryfikacji wyników zgłoszonych prac geodezyjnych ” , uchyla się ust. 2;
+- **2)** Głównego Geodetę Kraju baz danych, o których mowa w art. 4 ust. 1a pkt 1, 4, 5, 9 i 11 – nierealizowanej jako przedmiot zamówienia publicznego nie stosuje się przepisów art. 11–12b i art. 42–46w. ” ;
+- **15)** w art. 12d: w ust. 1: – uchyla się pkt 2, pkt 3 i 4 otrzymują brzmienie: „
     - **a)**
+
+- **3)** wzór zawiadomienia o przekazaniu wyników zgłoszonych prac,
+- **4)** wzór protokołu weryfikacji wyników zgłoszonych prac geodezyjnych ” , uchyla się ust. 2;
     - **b)**
 
 - **16)** w art. 19 w ust. 1 pkt 7 otrzymuje brzmienie: „
@@ -207,19 +264,23 @@ Załącznik –
     - **b)**
 
 - **1)** opracowania dokumentacji geodezyjnej niezbędnej do aktualizacji bazy danych ewidencji gruntów i budynków, w przypadku ustalenia, że stan faktyczny nieruchomości jest inny niż ujawniony w tej bazie danych;
-- **2)** udostępnienia dokumentacji budowy lub dokumentacji powykonawczej, o których mowa w art. 3 pkt 13 i 14 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, z późn. zm.), jeżeli jest to niezbędne do ujawnienia w bazie danych ewidencji gruntów i budynków danych dotyczących budynku lub działki; ” ;
-- **19)** w art. 23: w ust. 3: – w pkt 1 uchyla się lit. i oraz m, – pkt 2 otrzymuje brzmienie: „ 2) odpisy zgłoszeń dotyczących zmiany sposobu użytkowania budynku lub jego części, o których mowa w art. 71 ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu; ” , ust. 4 otrzymuje brzmienie: „
+- **2)** udostępnienia dokumentacji budowy lub dokumentacji powykonawczej, o których mowa w art. 3 pkt 13 i 14 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148, 471 i 695.), jeżeli jest to niezbędne do ujawnienia w bazie danych ewidencji gruntów i budynków danych dotyczących budynku lub działki; ” ;
+- **19)** w art. 23: w ust. 3: – w pkt 1 uchyla się lit. i oraz m, pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** odpisy zgłoszeń dotyczących zmiany sposobu użytkowania budynku lub jego części, o których mowa w art. 71 ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu; ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Wraz z odpisami decyzji administracyjnych, o których mowa w ust. 3 pkt 1 lit. j-l, oraz odpisami zgłoszeń, o których mowa w ust. 3 pkt 2, przekazywane są uwierzytelnione kopie zatwierdzonych projektów zagospodarowania działki lub terenu. ” ;
 
 - **20)** użyte w art. 23 w ust. 7, w art. 26 w ust. 2 oraz w załączniku do ustawy w tabeli nr 12, w różnych przypadkach, wyrazy „rejestr cen i wartości nieruchomości” zastępuje się użytymi w odpowiednich przypadkach wyrazami „rejestr cen nieruchomości”;
-- **21)** w art. 24: w ust. 2b w pkt 1: – lit. f otrzymuje brzmienie: „ f) zgłoszeń dotyczących zmiany sposobu użytkowania budynku lub jego części, o których mowa w art. 71 ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu, ” , – lit. h otrzymuje brzmienie: „ h) dokumentacji geodezyjnej przyjętej do państwowego zasobu geodezyjnego i kartograficznego, z uwzględnieniem art. 20 ust. 2b; ” , w ust. 5 pkt 2a otrzymuje brzmienie: „
+- **21)** w art. 24: w ust. 2b w pkt 1: lit. f otrzymuje brzmienie: „ zgłoszeń dotyczących zmiany sposobu użytkowania budynku lub jego części, o których mowa w art. 71 ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu, ” , lit. h otrzymuje brzmienie: „ dokumentacji geodezyjnej przyjętej do państwowego zasobu geodezyjnego i kartograficznego, z uwzględnieniem art. 20 ust. 2b; ” , w ust. 5 pkt 2a otrzymuje brzmienie: „
     - **a)**
+    - **f)**
+    - **h)**
     - **b)**
 
-- **2a)** operatorów: sieci, w rozumieniu ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2019 r. poz. 2410 oraz z 2020 r. poz. 471), systemu przesyłowego, systemu dystrybucyjnego oraz systemu połączonego, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.); ” ;
+- **2a)** operatorów: sieci, w rozumieniu ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2019 r. poz. 2410 oraz z 2020 r. poz. 471), systemu przesyłowego, systemu dystrybucyjnego oraz systemu połączonego, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284, 471 i 568.); ” ;
     - **a)**
     - **b)**
 
@@ -240,8 +301,10 @@ Załącznik –
 
 1. Przepisów art. 28a-28c nie stosuje się do projektowanych sieci uzbrojenia terenu sytuowanych w całości w granicach terenu zamkniętego lub części takich sieci sytuowanych w granicach terenu zamkniętego. O usytuowaniu sieci lub ich części położonych w granicach terenu zamkniętego decyduje projektant w uzgodnieniu z podmiotem, który zarządza terenem zamkniętym. ” ;
 
-- **25)** w art. 28f: w ust. 2: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „ 2) nieodpłatnego udzielania, na wniosek projektanta lub wykonawcy mapy do celów projektowych, informacji dotyczących wyłączonych sieci uzbrojenia terenu, jeżeli takie dane są niezbędne projektantowi do opracowania projektu budowlanego. ” , uchyla się ust. 3 i 4;
+- **25)** w art. 28f: w ust. 2: – uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** nieodpłatnego udzielania, na wniosek projektanta lub wykonawcy mapy do celów projektowych, informacji dotyczących wyłączonych sieci uzbrojenia terenu, jeżeli takie dane są niezbędne projektantowi do opracowania projektu budowlanego. ” , uchyla się ust. 3 i 4;
     - **b)**
 
 - **26)** w art. 28g ust. 1 otrzymuje brzmienie: „
@@ -271,8 +334,16 @@ Załącznik –
     - **d)**
 
 - **4)** wzory klauzul urzędowych, o których mowa w ust. 3g, ” ;
-- **28)** w art. 40a w ust. 2: w pkt 1: – lit. c oraz d otrzymują brzmienie: „ c) zawartych w bazie danych obiektów ogólnogeograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:250 000 i mniejszych, d) numerycznego modelu terenu, ” , – dodaje się lit. e-j w brzmieniu: „ e) ortofotomapy, f) państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych, g) szczegółowych osnów geodezyjnych, h) obiektów topograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:10 000–1:100 000, i) dotyczących działek ewidencyjnych w zakresie ich identyfikatorów i geometrii, j) dotyczących budynków w zakresie ich identyfikatorów, geometrii i rodzaju według Klasyfikacji Środków Trwałych; ” , w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ w celu realizacji zadań w zakresie obronności państwa – Ministrowi Obrony Narodowej; ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „
+- **28)** w art. 40a w ust. 2: w pkt 1: lit. c oraz d otrzymują brzmienie: „ zawartych w bazie danych obiektów ogólnogeograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:250 000 i mniejszych, numerycznego modelu terenu, ” , dodaje się lit. e-j w brzmieniu: „ ortofotomapy, państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych, szczegółowych osnów geodezyjnych, obiektów topograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:10 000–1:100 000, dotyczących działek ewidencyjnych w zakresie ich identyfikatorów i geometrii, dotyczących budynków w zakresie ich identyfikatorów, geometrii i rodzaju według Klasyfikacji Środków Trwałych; ” , w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ w celu realizacji zadań w zakresie obronności państwa – Ministrowi Obrony Narodowej; ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „
     - **a)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
     - **b)**
     - **d)**
     - **c)**
@@ -329,11 +400,12 @@ Załącznik –
 
 - **33)** uchyla się art. 40h i art. 40i;
 - **34)** w art. 41 w ust. 2 uchyla się pkt 4;
-- **35)** w art. 41b: w ust. 1 i 2 wyrazy „ze sprzedaży” zastępuje się wyrazami „z udostępniania”, uchyla się ust. 1a i 2a, w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Z budżetu odpowiednio samorządu województwa i powiatu, w wysokości nie mniejszej niż uzyskana w roku poprzednim kwota wpływów, o których mowa w ust. 1 i 2, są finansowane zadania związane z gromadzeniem, aktualizacją, uzupełnianiem, udostępnianiem i zabezpieczaniem zasobu geodezyjnego i kartograficznego oraz wyłączaniem materiałów z zasobu, w szczególności: ” , – pkt 5 otrzymuje brzmienie: „ 5) weryfikacja wyników zgłoszonych prac geodezyjnych przekazywanych do organu Służby Geodezyjnej i Kartograficznej; ” ;
+- **35)** w art. 41b: w ust. 1 i 2 wyrazy „ze sprzedaży” zastępuje się wyrazami „z udostępniania”, uchyla się ust. 1a i 2a, w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Z budżetu odpowiednio samorządu województwa i powiatu, w wysokości nie mniejszej niż uzyskana w roku poprzednim kwota wpływów, o których mowa w ust. 1 i 2, są finansowane zadania związane z gromadzeniem, aktualizacją, uzupełnianiem, udostępnianiem i zabezpieczaniem zasobu geodezyjnego i kartograficznego oraz wyłączaniem materiałów z zasobu, w szczególności: ” , pkt 5 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
 
+- **5)** weryfikacja wyników zgłoszonych prac geodezyjnych przekazywanych do organu Służby Geodezyjnej i Kartograficznej; ” ;
 - **36)** w art. 42 w ust. 2: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
 
@@ -406,10 +478,11 @@ Załącznik –
 
 1d. Na prośbę wykonawcy prac geodezyjnych złożoną wraz ze zgłoszeniem prac lub jego uzupełnieniem materiały zasobu możliwe do udostępnienia za pomocą środków komunikacji elektronicznej mogą zostać udostępnione w formie wydruku, po wniesieniu opłaty za przygotowanie tych materiałów. Opłata za wydruk jest ustalana zgodnie z tabelą nr 16 lp. 1.
 
-1e. W przypadku wysyłania pod wskazany adres materiałów zasobu udostępnianych w związku ze zgłoszeniem prac lub jego uzupełnieniem stosuje się opłaty określone w ust. 14. ” , w ust. 3: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „ 2) CL – ze względu na cel, w jakim wykorzystywane będą udostępniane materiały zasobu; ” , ust. 4 otrzymuje brzmienie: „
+1e. W przypadku wysyłania pod wskazany adres materiałów zasobu udostępnianych w związku ze zgłoszeniem prac lub jego uzupełnieniem stosuje się opłaty określone w ust. 14. ” , w ust. 3: – uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
 
 - **d)**
-- **e)**
+- **2)** CL – ze względu na cel, w jakim wykorzystywane będą udostępniane materiały zasobu; ” , ust. 4 otrzymuje brzmienie: „
+    - **e)**
 
 4. Współczynnik CL przybiera wartości:
 
@@ -441,38 +514,88 @@ Załącznik –
 
 - **m)**
 - **1)** jest nie większa od L1, Wop oblicza się według wzoru określonego w ust. 16;
-- **2)** jest większa niż L1, Wop oblicza się według wzoru: Wop = Sp × [L1 + (Ljr – L1) × LR1] x CL × SU × PD× AJ. ” , w ust. 18: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku gdy współczynnik LR określony w tabelach nr 6, 9, 10 (lp. 3, 4, 19, 20), 12 lub 13 (lp. 1, 2) przybiera wartość: ” , – pkt 1–3 otrzymują brzmienie: „ 1) jest nie większa od L1, Wop oblicza się według wzoru określonego w ust. 16; 2) Ljr jest większa niż L1 i nie większa niż L2, Wop oblicza się według wzoru określonego w ust. 17 pkt 2; 3) jest większa niż L2, Wop oblicza się według wzoru: Wop = Sp × [L1 + (L2 – L1) × LR1 + (Ljr – L2) × LR2] x CL × SU × PD × AJ. ” , ust. 19a otrzymuje brzmienie: „
+- **2)** jest większa niż L1, Wop oblicza się według wzoru: Wop = Sp × [L1 + (Ljr – L1) × LR1] x CL × SU × PD× AJ. ” , w ust. 18: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku gdy współczynnik LR określony w tabelach nr 6, 9, 10 (lp. 3, 4, 19, 20), 12 lub 13 (lp. 1, 2) przybiera wartość: ” , pkt 1–3 otrzymują brzmienie: „
     - **n)**
+
+- **1)** jest nie większa od L1, Wop oblicza się według wzoru określonego w ust. 16;
+- **2)** Ljr jest większa niż L1 i nie większa niż L2, Wop oblicza się według wzoru określonego w ust. 17 pkt 2;
+- **3)** jest większa niż L2, Wop oblicza się według wzoru: Wop = Sp × [L1 + (L2 – L1) × LR1 + (Ljr – L2) × LR2] x CL × SU × PD × AJ. ” , ust. 19a otrzymuje brzmienie: „
     - **o)**
 
-19a. Do obliczenia opłaty za sporządzenie i wydanie wypisów i wyrysów z operatu ewidencyjnego, o których mowa w tabeli nr 11, oraz za czynności urzędowe, o których mowa w tabeli nr 16 lp. 5 i 6, stosuje się odpowiednio wzory zawarte w ust. 16 i 17 z pominięciem współczynnika CL. ” , uchyla się ust. 20–23, uchyla się tabelę nr 1, w tabeli nr 3: – tytuł tabeli otrzymuje brzmienie: „ Baza danych zobrazowań lotniczych i satelitarnych, o której mowa w art. 4 ust. 1a pkt 11 ” , – uchyla się lp. 2–6, uchyla się tabele nr 4 i 5, w tabeli nr 6: – w kolumnie trzeciej wyraz „km2” zastępuje się wyrazem „ha”, – w kolumnie czwartej: – – lp. 1 otrzymuje brzmienie: „ 5,00 zł ” , – – lp. 2 otrzymuje brzmienie: „ 1,00 zł ” , – w kolumnie piątej lp. 1 i 2 otrzymują brzmienie: „ 1. LR przyjmuje wartość: 1) 1,0 – dla Ljr nie większej niż 100; 2) 0,9 – dla Ljr w przedziale 101–400; 3) 0,8 – dla Ljr większej od 400. 2. PD i AJ przyjmują wartość 1,0. ” , w tabeli nr 7 w kolumnie czwartej: – lp. 1 otrzymuje brzmienie: „ 10,00 zł ” , – lp. 2 otrzymuje brzmienie: „ 2,00 zł ” , w tabeli nr 8 w kolumnie czwartej: – lp. 1 otrzymuje brzmienie: „ 5,00 zł ” , – lp. 2 otrzymuje brzmienie: „ 1,00 zł ” , w tabeli nr 10: – w kolumnie piątej lp. 3 i 4 otrzymują brzmienie: „ 1. LR przyjmuje wartość: 1) 1,0 – dla Ljr nie większej niż 10; 2) 0,9 – dla Ljr większej niż 10, ale nie większej niż 100; 3) 0,8 – dla Ljr większej od 100. 2. AJ przyjmuje wartość: 1) 1,0 – dla mapy w skali 1:500; 2) 0,8 – dla mapy w skali 1:1000; 3) 0,5 – dla mapy w skali 1:2000; 4) 0,3 – dla mapy w skali 1:5000. 3. PD przyjmuje wartość 1,0. ” , – uchyla się lp. 21, w tabeli nr 12 w kolumnie trzeciej skreśla się wyrazy „albo wyceny”, w tabeli nr 13: – w kolumnie czwartej: – – lp. 1 otrzymuje brzmienie: „ 14,00 zł. ” , – – lp. 2 otrzymuje brzmienie: „ 20,00 zł. ” , – w kolumnie piątej lp. 1 i 2 otrzymują brzmienie: „ 1. LR przyjmuje wartość: 1) 1,0 – dla Ljr nie większej niż 10; 2) 0,8 – dla Ljr w przedziale 11–100; 3) 0,6 – dla Ljr większej od 100. 2. AJ przyjmuje wartość: 1) 1,0 – dla mapy zasadniczej w skalach 1:500; 2) 0,8 – dla mapy zasadniczej w skalach 1:1000; 3) 0,5 – dla mapy zasadniczej w skalach 1:2000; 4) 0,3 – dla mapy zasadniczej w skalach 1:5000. 3. PD przyjmuje wartość 1,0. ” , w tabeli nr 14 w kolumnie drugiej w lp. 1 i 2 skreśla się wyrazy „i specjalne”, uchyla się tabelę nr 15, w tabeli nr 16: – tytuł tabeli otrzymuje brzmienie: „ Udostępnianie materiałów zasobu niewymienionych w tabelach nr 2, 3 i 6–14, udostępnianie do wglądu dokumentów i koordynacja usytuowania projektowanych sieci uzbrojenia terenu ” , – w kolumnie drugiej w lp. 1 i 2 wyrazy „1–15” zastępuje się wyrazami „2, 3 i 6–14”, – w kolumnie piątej lp. 1 otrzymuje brzmienie: „ 1. PD przyjmuje wartość: 1) 1,0 – dla formatu A4 lub mniejszego; 2) 1,5 – dla formatu A3; 3) 2,0 – dla formatu A2; 4) 5,0 – dla formatu A1; 5) 7,0 – dla formatu A0 i większego. 2. LR i AJ przyjmują wartość 1,0. ” , – uchyla się lp. 3 i 4, – użyty w kolumnie drugiej i piątej w lp. 6, w różnym przypadku, wyraz „uzgodnienie” zastępuje się użytym w odpowiednim przypadku wyrazem „koordynacja”, po tabeli nr 16 dodaje się tabelę nr 16a w brzmieniu określonym w załączniku do niniejszej ustawy, w tabeli nr 17: – uchyla się lp. 4 i 5, – wyrazy „1–5” zastępuje się wyrazami „1–3”, uchyla się tabelę nr 18.
+19a. Do obliczenia opłaty za sporządzenie i wydanie wypisów i wyrysów z operatu ewidencyjnego, o których mowa w tabeli nr 11, oraz za czynności urzędowe, o których mowa w tabeli nr 16 lp. 5 i 6, stosuje się odpowiednio wzory zawarte w ust. 16 i 17 z pominięciem współczynnika CL. ” , uchyla się ust. 20–23, uchyla się tabelę nr 1, w tabeli nr 3: – tytuł tabeli otrzymuje brzmienie: „ Baza danych zobrazowań lotniczych i satelitarnych, o której mowa w art. 4 ust. 1a pkt 11 ” , – uchyla się lp. 2–6, uchyla się tabele nr 4 i 5, w tabeli nr 6: – w kolumnie trzeciej wyraz „km2” zastępuje się wyrazem „ha”, w kolumnie czwartej: – – lp. 1 otrzymuje brzmienie: „ 5,00 zł ” , – – lp. 2 otrzymuje brzmienie: „ 1,00 zł ” , w kolumnie piątej lp. 1 i 2 otrzymują brzmienie: „
 
 - **p)**
 - **q)**
 - **r)**
 - **s)**
 - **t)**
+
+1. LR przyjmuje wartość:
+
+- **1)** 1,0 – dla Ljr nie większej niż 100;
+- **2)** 0,9 – dla Ljr w przedziale 101–400;
+- **3)** 0,8 – dla Ljr większej od 400.
+
+2. PD i AJ przyjmują wartość 1,0. ” , w tabeli nr 7 w kolumnie czwartej: – lp. 1 otrzymuje brzmienie: „ 10,00 zł ” , – lp. 2 otrzymuje brzmienie: „ 2,00 zł ” , w tabeli nr 8 w kolumnie czwartej: – lp. 1 otrzymuje brzmienie: „ 5,00 zł ” , – lp. 2 otrzymuje brzmienie: „ 1,00 zł ” , w tabeli nr 10: w kolumnie piątej lp. 3 i 4 otrzymują brzmienie: „
+
 - **u)**
 - **v)**
 - **w)**
+
+1. LR przyjmuje wartość:
+
+- **1)** 1,0 – dla Ljr nie większej niż 10;
+- **2)** 0,9 – dla Ljr większej niż 10, ale nie większej niż 100;
+- **3)** 0,8 – dla Ljr większej od 100.
+
+2. AJ przyjmuje wartość:
+
+- **1)** 1,0 – dla mapy w skali 1:500;
+- **2)** 0,8 – dla mapy w skali 1:1000;
+- **3)** 0,5 – dla mapy w skali 1:2000;
+- **4)** 0,3 – dla mapy w skali 1:5000.
+
+3. PD przyjmuje wartość 1,0. ” , – uchyla się lp. 21, w tabeli nr 12 w kolumnie trzeciej skreśla się wyrazy „albo wyceny”, w tabeli nr 13: w kolumnie czwartej: – – lp. 1 otrzymuje brzmienie: „ 14,00 zł. ” , – – lp. 2 otrzymuje brzmienie: „ 20,00 zł. ” , w kolumnie piątej lp. 1 i 2 otrzymują brzmienie: „
+
 - **x)**
 - **y)**
+
+1. LR przyjmuje wartość:
+
+- **1)** 1,0 – dla Ljr nie większej niż 10;
+- **2)** 0,8 – dla Ljr w przedziale 11–100;
+- **3)** 0,6 – dla Ljr większej od 100.
+
+2. AJ przyjmuje wartość:
+
+- **1)** 1,0 – dla mapy zasadniczej w skalach 1:500;
+- **2)** 0,8 – dla mapy zasadniczej w skalach 1:1000;
+- **3)** 0,5 – dla mapy zasadniczej w skalach 1:2000;
+- **4)** 0,3 – dla mapy zasadniczej w skalach 1:5000.
+
+3. PD przyjmuje wartość 1,0. ” , w tabeli nr 14 w kolumnie drugiej w lp. 1 i 2 skreśla się wyrazy „i specjalne”, uchyla się tabelę nr 15, w tabeli nr 16: – tytuł tabeli otrzymuje brzmienie: „ Udostępnianie materiałów zasobu niewymienionych w tabelach nr 2, 3 i 6–14, udostępnianie do wglądu dokumentów i koordynacja usytuowania projektowanych sieci uzbrojenia terenu ” , – w kolumnie drugiej w lp. 1 i 2 wyrazy „1–15” zastępuje się wyrazami „2, 3 i 6–14”, w kolumnie piątej lp. 1 otrzymuje brzmienie: „
+
 - **z)**
 - **za)**
 - **zb)**
+
+1. PD przyjmuje wartość:
+
+- **1)** 1,0 – dla formatu A4 lub mniejszego;
+- **2)** 1,5 – dla formatu A3;
+- **3)** 2,0 – dla formatu A2;
+- **4)** 5,0 – dla formatu A1;
+- **5)** 7,0 – dla formatu A0 i większego.
+
+2. LR i AJ przyjmują wartość 1,0. ” , – uchyla się lp. 3 i 4, – użyty w kolumnie drugiej i piątej w lp. 6, w różnym przypadku, wyraz „uzgodnienie” zastępuje się użytym w odpowiednim przypadku wyrazem „koordynacja”, po tabeli nr 16 dodaje się tabelę nr 16a w brzmieniu określonym w załączniku do niniejszej ustawy, w tabeli nr 17: – uchyla się lp. 4 i 5, – wyrazy „1–5” zastępuje się wyrazami „1–3”, uchyla się tabelę nr 18. W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2020 r. poz. 174) wprowadza się następujące zmiany:
+
 - **zc)**
 - **zd)**
 - **ze)**
-
-**Art. 2.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2020 r. poz. 174) wprowadza się następujące zmiany:
-
 - **1)** w art. 28 w ust. 4 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ gruntów wydzierżawionych, na podstawie umowy pisemnej zawartej co najmniej na 10 lat, której zawarcie potwierdził wójt, właściwy ze względu na miejsce położenia przedmiotu dzierżawy, osobie niebędącej: ” ;
 - **2)** w art. 38 pkt 1 otrzymuje brzmienie: „
 - **1)** właściciel gruntów zaliczonych do użytków rolnych lub dzierżawca takich gruntów, jeżeli umowa dzierżawy jest potwierdzona przez wójta, właściwego ze względu na miejsce położenia przedmiotu dzierżawy, prowadzi działalność rolniczą na tych gruntach; ” ;
-- **3)** uchyla się art. 117.
-
-**Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, z późn. zm.) wprowadza się następujące zmiany:
-
+- **3)** uchyla się art. 117. W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148, 471 i 695.) wprowadza się następujące zmiany:
 - **1)** w art. 3 po pkt 14 dodaje się pkt 14a i 14b w brzmieniu: „
 - **14a)** mapie do celów projektowych – należy przez to rozumieć mapę do celów projektowych w rozumieniu art. 2 pkt 7a ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 276, 284 i 782);
 - **14b)** geodezyjnej inwentaryzacji powykonawczej – należy przez to rozumieć geodezyjną inwentaryzację powykonawczą obiektów budowlanych w rozumieniu art. 2 pkt 7b ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne; ” ;
@@ -490,13 +613,9 @@ Załącznik –
 
 - **5)** w art. 43 uchyla się ust. 4;
 - **6)** w art. 57 w ust. 1 pkt 5 otrzymuje brzmienie: „
-- **5)** dokumentację geodezyjną, zawierającą wyniki geodezyjnej inwentaryzacji powykonawczej, w tym mapę, o której mowa w art. 2 pkt 7b ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, oraz informację o zgodności usytuowania obiektu budowlanego z projektem zagospodarowania działki lub terenu lub odstępstwach od tego projektu sporządzone przez osobę posiadającą odpowiednie uprawnienia zawodowe w dziedzinie geodezji i kartografii. ” .
+- **5)** dokumentację geodezyjną, zawierającą wyniki geodezyjnej inwentaryzacji powykonawczej, w tym mapę, o której mowa w art. 2 pkt 7b ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, oraz informację o zgodności usytuowania obiektu budowlanego z projektem zagospodarowania działki lub terenu lub odstępstwach od tego projektu sporządzone przez osobę posiadającą odpowiednie uprawnienia zawodowe w dziedzinie geodezji i kartografii. ” . W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 65, 284 i 471) użyte w art. 5 w ust. 1 oraz w art. 181a w pkt 6, w różnej liczbie i różnym przypadku, wyrazy „rejestr cen i wartości nieruchomości” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „rejestr cen nieruchomości”. W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2020 r. poz. 293 i 471) po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-**Art. 4.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 65, 284 i 471) użyte w art. 5 w ust. 1 oraz w art. 181a w pkt 6, w różnej liczbie i różnym przypadku, wyrazy „rejestr cen i wartości nieruchomości” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „rejestr cen nieruchomości”.
-
-**Art. 5.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2020 r. poz. 293 i 471) po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
-
-#### Rozdział 5a Zbiory danych przestrzennych
+#### Rozdział 5a
 
 **Art. 67a.**
 
@@ -538,30 +657,19 @@ Załącznik –
 5. W przypadku wydania zarządzenia zastępczego w sprawie:
 
 - **1)** przyjęcia miejscowego planu zagospodarowania przestrzennego albo jego zmiany dla obszaru, którego dotyczy bezczynność gminy, w zakresie koniecznym dla lokalizacji inwestycji celu publicznego,
-- **2)** wprowadzenia obszaru udokumentowanego złoża kopaliny albo obszaru udokumentowanego kompleksu podziemnego składowania dwutlenku węgla do studium dane przestrzenne dla aktów, o których mowa w art. 67a ust. 2 pkt 3 i 4, tworzy wojewoda, a następnie przekazuje je organowi właściwemu, najpóźniej w terminie 14 dni od dnia wydania zarządzenia. ” .
-
-**Art. 6.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2020 r. poz. 282) wprowadza się następujące zmiany:
-
+- **2)** wprowadzenia obszaru udokumentowanego złoża kopaliny albo obszaru udokumentowanego kompleksu podziemnego składowania dwutlenku węgla do studium – dane przestrzenne dla aktów, o których mowa w art. 67a ust. 2 pkt 3 i 4, tworzy wojewoda, a następnie przekazuje je organowi właściwemu, najpóźniej w terminie 14 dni od dnia wydania zarządzenia. ” . W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2020 r. poz. 282) wprowadza się następujące zmiany:
 - **1)** w art. 9: uchyla się ust. 5, w ust. 7 skreśla się wyrazy „i 5”;
     - **a)**
     - **b)**
 
-- **2)** w art. 14: uchyla się ust. 2, w ust. 4 skreśla się wyrazy „i 2”.
+- **2)** w art. 14: uchyla się ust. 2, w ust. 4 skreśla się wyrazy „i 2”. W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2019 r. poz. 1317) w art. 29 w pkt 3 skreśla się wyrazy „i 1b”. W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r. poz. 310, 284 i 695) wprowadza się następujące zmiany:
     - **a)**
     - **b)**
-
-**Art. 7.** W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2019 r. poz. 1317) w art. 29 w pkt 3 skreśla się wyrazy „i 1b”.
-
-**Art. 8.** W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r. poz. 310, 284 i 695) wprowadza się następujące zmiany:
 
 - **1)** w art. 422 pkt 1 otrzymuje brzmienie: „
 - **1)** mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego z naniesionym schematem planowanych czynności, robót lub urządzeń wodnych i zasięgiem ich oddziaływania lub inną mapę opatrzoną przez organ Służby Geodezyjnej i Kartograficznej odpowiednią klauzulą urzędową; ” ;
 - **2)** w art. 427 w ust. 1 pkt 2 otrzymuje brzmienie: „
-- **2)** mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego lub inną mapę opatrzoną przez organ prowadzący ten zasób odpowiednią klauzulą urzędową albo kopie tych map potwierdzone przez wnioskodawcę za ich zgodność z oryginałami z naniesionym schematem planowanych obiektów lub robót; ” .
-
-**Art. 9.** W ustawie z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471 i 695) w art. 1 w pkt 15 w lit. b w ust. 3 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ projekt zagospodarowania działki lub terenu sporządzony na aktualnej mapie do celów projektowych lub jej kopii poświadczonej za zgodność z oryginałem przez projektanta, obejmujący: ” .
-
-**Art. 10.**
+- **2)** mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego lub inną mapę opatrzoną przez organ prowadzący ten zasób odpowiednią klauzulą urzędową albo kopie tych map potwierdzone przez wnioskodawcę za ich zgodność z oryginałami z naniesionym schematem planowanych obiektów lub robót; ” . W ustawie z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471 i 695) w art. 1 w pkt 15 w lit. b w ust. 3 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ projekt zagospodarowania działki lub terenu sporządzony na aktualnej mapie do celów projektowych lub jej kopii poświadczonej za zgodność z oryginałem przez projektanta, obejmujący: ” .
 
 1. Do spraw dotyczących obsługi:
 
@@ -569,7 +677,7 @@ Załącznik –
 - **2)** wniosków o wydanie dziennika praktyki zawodowej,
 - **3)** wniosków dotyczących udostępniania materiałów państwowego zasobu geodezyjnego i kartograficznego,
 - **4)** zgłoszeń prac geodezyjnych lub prac kartograficznych, z uwzględnieniem ust. 2,
-- **5)** wniosków o nadanie uprawnień zawodowych w dziedzinie geodezji i kartografii wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **5)** wniosków o nadanie uprawnień zawodowych w dziedzinie geodezji i kartografii – wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 2. W przypadku zgłoszenia prac geodezyjnych dotyczącego wyłącznie tyczenia budynków lub sieci uzbrojenia terenu, dokonanego przed dniem wejścia w życie niniejszej ustawy, w odniesieniu do którego wykonawca tych prac nie zawiadomił organu Służby Geodezyjnej i Kartograficznej o zakończeniu tych prac:
 
@@ -587,23 +695,15 @@ Załącznik –
 5. Za dzień zakończenia spraw związanych z:
 
 - **1)** wyświetlaniem na ekranie urządzeń licencjobiorcy ortofotomapy oraz opracowań kartograficznych tworzonych na podstawie odpowiednich baz danych, o których mowa w art. 4 ust. 1a pkt 1, 7, 8 lub 11 ustawy zmienianej w art. 1,
-- **2)** udostępnianiem satelitarnych obserwacji odnoszących się do stacji referencyjnych oraz udostępnianiem satelitarnych obserwacji dla punktów o zadanych współrzędnych (wirtualnych stacji referencyjnych) uznaje się termin wskazany w licencji określający upływ prawa do korzystania z tych usług.
+- **2)** udostępnianiem satelitarnych obserwacji odnoszących się do stacji referencyjnych oraz udostępnianiem satelitarnych obserwacji dla punktów o zadanych współrzędnych (wirtualnych stacji referencyjnych) – uznaje się termin wskazany w licencji określający upływ prawa do korzystania z tych usług.
 
 6. Ograniczenia wynikające z licencji dotyczących korzystania ze zbiorów danych ortofotomapy, państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych, szczegółowych osnów geodezyjnych, numerycznego modelu terenu dotyczących działek ewidencyjnych w zakresie ich identyfikatorów i geometrii oraz dotyczących budynków w zakresie ich identyfikatorów, geometrii i rodzaju według Klasyfikacji Środków Trwałych, obiektów topograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:10 000–1:100 000 oraz udostępniania zestawień zbiorczych danych objętych ewidencją gruntów i budynków, a także kartograficznych opracowań specjalnych w postaci map tyflologicznych, przestają obowiązywać z dniem wejścia w życie niniejszej ustawy. Dokumenty opracowane na podstawie wykonanych prac geodezyjnych lub prac kartograficznych, których wyniki zostały przyjęte do państwowego zasobu geodezyjnego i kartograficznego przed dniem wejścia w życie niniejszej ustawy, które mogły podlegać uwierzytelnieniu, mogą być opatrywane klauzulą urzędową, o której mowa w art. 40 ust. 3g pkt 3 ustawy zmienianej w art. 1, na wniosek wykonawcy tych prac, nie dłużej niż w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Wojewódzcy inspektorzy nadzoru geodezyjnego i kartograficznego przekażą Głównemu Geodecie Kraju prowadzone rejestry wydanych dzienników praktyki zawodowej w terminie miesiąca od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 13.**
 
 1. Postępowania w sprawach naruszeń, o których mowa w art. 48a ust. 1 ustawy zmienianej w art. 1, związane z wykorzystywaniem materiałów, których udostępnienie odbywa się nieodpłatnie na podstawie art. 40a ust. 2 pkt 1 lit. d-j ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, podlegają umorzeniu.
 
 2. Znosi się obowiązek zapłaty kary pieniężnej nałożony w postępowaniach w sprawach naruszeń, o których mowa w art. 48a ust. 1 ustawy zmienianej w art. 1, zakończonych przed dniem wejścia w życie niniejszej ustawy.
 
-3. Należności z tytułu kar pieniężnych, nałożone w postępowaniach w sprawach naruszeń, o których mowa w art. 48a ust. 1 ustawy zmienianej w art. 1, uiszczone przed dniem wejścia w życie niniejszej ustawy nie podlegają zwrotowi, z uwzględnieniem art. 48a ust. 4 ustawy zmienianej w art. 1.
-
-**Art. 14.** Bazy danych, o których mowa w art. 4 ust. 1b ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, stają się z dniem wejścia w życie niniejszej ustawy bazami danych, o których mowa w art. 4 ust. 1a pkt 12 ustawy zmienianej w art. 1.
-
-**Art. 15.** Rejestr Cen i Wartości Nieruchomości, o którym mowa w art. 4 ust. 1a pkt 7 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, staje się z dniem wejścia w życie niniejszej ustawy Rejestrem Cen Nieruchomości, o którym mowa w art. 4 ust. 1a pkt 7 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 16.**
+3. Należności z tytułu kar pieniężnych, nałożone w postępowaniach w sprawach naruszeń, o których mowa w art. 48a ust. 1 ustawy zmienianej w art. 1, uiszczone przed dniem wejścia w życie niniejszej ustawy nie podlegają zwrotowi, z uwzględnieniem art. 48a ust. 4 ustawy zmienianej w art. 1. Bazy danych, o których mowa w art. 4 ust. 1b ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, stają się z dniem wejścia w życie niniejszej ustawy bazami danych, o których mowa w art. 4 ust. 1a pkt 12 ustawy zmienianej w art. 1. Rejestr Cen i Wartości Nieruchomości, o którym mowa w art. 4 ust. 1a pkt 7 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, staje się z dniem wejścia w życie niniejszej ustawy Rejestrem Cen Nieruchomości, o którym mowa w art. 4 ust. 1a pkt 7 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 1. Do spraw uregulowanych ustawą zmienianą w art. 3, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
@@ -618,17 +718,8 @@ Załącznik –
 
 - **1)** wydanie prawomocnej decyzji lub postanowienia organu;
 - **2)** niewniesienie w terminie sprzeciwu wobec zgłoszenia albo zawiadomienia;
-- **3)** zakończenie wykonywania robót budowlanych – w przypadku gdy do przystąpienia do użytkowania obiektu budowlanego nie jest wymagane pozwolenie na użytkowanie ani zawiadomienie o zakończeniu wykonywania robót budowlanych.
-
-**Art. 17.** W terminie 2 lat od dnia wejścia w życie art. 5 niniejszej ustawy organy, o których mowa w art. 67a ust. 1 ustawy zmienianej w art. 5, tworzą zbiory danych przestrzennych w rozumieniu art. 3 pkt 11 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. z 2020 r. poz. 177 i 284) wraz z danymi przestrzennymi dla aktów, o których mowa w art. 67a ust. 2 ustawy zmienianej w art. 5, obowiązujących w dniu wejścia w życie art. 5 niniejszej ustawy, w zakresie określonym w art. 67a ust. 3 ustawy zmienianej w art. 5.
-
-**Art. 18.** Wnioski wojewódzkiego konserwatora zabytków, o których mowa w art. 9 ust. 5 oraz w art. 14 ust. 2 ustawy zmienianej w art. 6 w brzmieniu dotychczasowym, złożone i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy pozostawia się bez rozpoznania.
-
-**Art. 19.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 12d ust. 1, art. 19 ust. 1 pkt 6–11 i ust. 1a, art. 26 ust. 2, art. 27 ust. 5, art. 40 ust. 8 i art. 47b ust. 5 ustawy zmienianej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12d ust. 1, art. 19 ust. 1 pkt 6–11 i ust. 1a, art. 26 ust. 2, art. 27 ust. 5, art. 40 ust. 8 i art. 47b ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 20.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-
+- **3)** zakończenie wykonywania robót budowlanych – w przypadku gdy do przystąpienia do użytkowania obiektu budowlanego nie jest wymagane pozwolenie na użytkowanie ani zawiadomienie o zakończeniu wykonywania robót budowlanych. W terminie 2 lat od dnia wejścia w życie art. 5 niniejszej ustawy organy, o których mowa w art. 67a ust. 1 ustawy zmienianej w art. 5, tworzą zbiory danych przestrzennych w rozumieniu art. 3 pkt 11 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. z 2020 r. poz. 177 i 284) wraz z danymi przestrzennymi dla aktów, o których mowa w art. 67a ust. 2 ustawy zmienianej w art. 5, obowiązujących w dniu wejścia w życie art. 5 niniejszej ustawy, w zakresie określonym w art. 67a ust. 3 ustawy zmienianej w art. 5. Wnioski wojewódzkiego konserwatora zabytków, o których mowa w art. 9 ust. 5 oraz w art. 14 ust. 2 ustawy zmienianej w art. 6 w brzmieniu dotychczasowym, złożone i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy pozostawia się bez rozpoznania. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 12d ust. 1, art. 19 ust. 1 pkt 6–11 i ust. 1a, art. 26 ust. 2, art. 27 ust. 5, art. 40 ust. 8 i art. 47b ust. 5 ustawy zmienianej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12d ust. 1, art. 19 ust. 1 pkt 6–11 i ust. 1a, art. 26 ust. 2, art. 27 ust. 5, art. 40 ust. 8 i art. 47b ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 - **1)** art. 1 pkt 35 lit. c tiret pierwsze, który wchodzi w życie z dniem 1 stycznia 2021 r.;
-- **2)** art. 5, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. Załącznik – Tabela 16a Udostępnianie materiałów zasobu dotyczących zgłoszonych prac geodezyjnych, o których mowa w art. 12 ust. 1 pkt 3 Lp. Obszar objęty zgłoszeniem pracy Opłata zryczałtowana 1. Do 1 ha 100,00 zł 2. Powyżej 1ha do 10 ha 100,00 zł oraz dodatkowo kwota 10,00 zł za każdy rozpoczęty hektar powyżej 1 ha 3. Powyżej 10 ha 190,00 zł oraz dodatkowo kwota 5,00 zł za każdy rozpoczęty hektar powyżej 10 ha
+- **2)** art. 5, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, ustawę z dnia 20 lipca 2017 r. – Prawo wodne oraz ustawę z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148, 471 i 695. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284, 471 i 568. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148, 471 i 695. Załącznik – Tabela 16a Udostępnianie materiałów zasobu dotyczących zgłoszonych prac geodezyjnych, o których mowa w art. 12 ust. 1 pkt 3 Lp. Obszar objęty zgłoszeniem pracy Opłata zryczałtowana 1. Do 1 ha 100,00 zł 2. Powyżej 1ha do 10 ha 100,00 zł oraz dodatkowo kwota 10,00 zł za każdy rozpoczęty hektar powyżej 1 ha 3. Powyżej 10 ha 190,00 zł oraz dodatkowo kwota 5,00 zł za każdy rozpoczęty hektar powyżej 10 ha
 
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-12-21 |
 | Data wydania | 2001-12-29 |
-| Wejście w życie | 2002-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541802) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1802/text.pdf) |
 
@@ -47,7 +46,7 @@ source: "eli-html"
 - **2)** w art. 29: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
-1. Wysokość rocznej subwencji, o której mowa w art. 28, dla danej partii politycznej albo koalicji wyborczej ustalana jest na zasadzie stopniowej degresji proporcjonalnie do łącznej liczby głosów ważnych oddanych na listy okręgowe kandydatów na posłów tej partii albo koalicji wyborczej, w rozbiciu na liczby głosów odpowiadające poszczególnym przedziałom określonym w procentach, według następującego wzoru: \( S = W_1 \times M_1 + W_2 \times M_2 + W_3 \times M_3 + W_4 \times M_4 + W_5 \times M_5 \) gdzie poszczególne symbole oznaczają: S – kwotę rocznej subwencji, W1–5 – liczby głosów kolejno obliczane dla każdego wiersza poniższej tabeli, podane odrębnie w wyniku rozbicia łącznej liczby głosów ważnych oddanych w skali kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej, odpowiednio do wyznaczonego w procentach przedziału, M1–5 – wysokość kwoty w złotych dla kolejnych wierszy poniższej tabeli: Wiersz Głosy ważne oddane w całym kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej w rozbiciu odpowiednio dla każdego przedziału Wysokość kwoty za jeden głos(M) procent liczba głosów (W) 1 do 5% 10 złotych 2 powyżej 5% do 10% 8 złotych 3 powyżej 10% do 20% 7 złotych 4 powyżej 20% do 30% 4 złote 5 powyżej 30% 1 złoty 50 groszy
+1. Wysokość rocznej subwencji, o której mowa w art. 28, dla danej partii politycznej albo koalicji wyborczej ustalana jest na zasadzie stopniowej degresji proporcjonalnie do łącznej liczby głosów ważnych oddanych na listy okręgowe kandydatów na posłów tej partii albo koalicji wyborczej, w rozbiciu na liczby głosów odpowiadające poszczególnym przedziałom określonym w procentach, według następującego wzoru: \( S = W_1 \times M_1 + W_2 \times M_2 + W_3 \times M_3 + W_4 \times M_4 + W_5 \times M_5 \) gdzie poszczególne symbole oznaczają: S – kwotę rocznej subwencji, W1–5 – liczby głosów kolejno obliczane dla każdego wiersza poniższej tabeli, podane odrębnie w wyniku rozbicia łącznej liczby głosów ważnych oddanych w skali kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej, odpowiednio do wyznaczonego w procentach przedziału, M1–5 – wysokość kwoty w złotych dla kolejnych wierszy poniższej tabeli: Wiersz Głosy ważne oddane w całym kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej w rozbiciu odpowiednio dla każdego przedziału Wysokość kwoty za jeden głos (M) procent liczba głosów (W) 1 do 5% 10 złotych 2 powyżej 5% do 10% 8 złotych 3 powyżej 10% do 20% 7 złotych 4 powyżej 20% do 30% 4 złote 5 powyżej 30% 1 złoty 50 groszy
 
 2. Roczna subwencja, w kwocie ustalonej na podstawie ust. 1 i art. 28, jest każdego roku w okresie kadencji Sejmu wypłacana danej partii politycznej w czterech równych kwartalnych ratach, z zastrzeżeniem art. 32. ” , ust. 5 otrzymuje brzmienie: „
 

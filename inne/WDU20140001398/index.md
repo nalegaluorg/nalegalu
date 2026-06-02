@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-25 |
 | Data wydania | 2014-10-15 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2025-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001398) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1398/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 58 pkt 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 58 pkt 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289.) zarządza się, co następuje:
 § 1.
 Określa się sądy rejonowe prowadzące księgi wieczyste oraz obszary ich właściwości miejscowej:
 1)
@@ -678,5 +677,5 @@ Sąd Rejonowy w Żarach – dla obszaru właściwości tego Sądu.
 § 2.
 Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 21 listopada 2013 r. w sprawie określenia sądów rejonowych prowadzących księgi wieczyste oraz obszarów ich właściwości miejscowej (Dz. U. poz. 1394).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289.
 

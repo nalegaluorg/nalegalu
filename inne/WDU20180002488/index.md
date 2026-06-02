@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 grudnia 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową
+# Rozporządzenie Ministra Finansówz dnia 21 grudnia 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-21 |
 | Data wydania | 2018-12-29 |
-| Wejście w życie | 2019-01-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002488) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2488/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 163 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 163 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -163,6 +162,5 @@ W przypadku gdy odwołanie funkcjonariusza z oddelegowania następuje w dniu zwo
 § 14.
 Porozumienia o oddelegowaniu zawarte przed dniem wejścia w życie rozporządzenia pozostają w mocy.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 lutego 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 451), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 lutego 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 451), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 lutego 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 451), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 

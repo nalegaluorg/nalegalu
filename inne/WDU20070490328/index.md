@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 marca 2007 r. o zmianie ustawy o dopłatach do ubezpieczeń upraw rolnych i zwierząt gospodarskich oraz niektórych innych ustaw
+# Ustawa z dnia 7 marca 2007 r. o zmianie ustawy o dopłatach do ubezpieczeń upraw rolnych i zwierząt gospodarskich oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności oraz ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-03-07 |
 | Data wydania | 2007-03-20 |
-| Wejście w życie | 2007-04-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070490328) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/328/text.pdf) |
 
@@ -48,10 +47,15 @@ source: "eli-html"
 - **2)** bydła, koni, owiec, kóz, drobiu lub świń od ryzyka wystąpienia szkód spowodowanych przez huragan, powódź, deszcz nawalny, grad, piorun, obsunięcie się ziemi, lawinę oraz w wyniku uboju z konieczności ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
-1a. Umowa ubezpieczenia może obejmować wszystkie lub wybrane przez producenta rolnego rodzaje ryzyka, o których mowa w ust. 1. ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) huragan – oznaczają szkody powstałe w wyniku działania wiatru o prędkości nie mniejszej niż 24 m/s, którego działanie wyrządza masowe szkody; pojedyncze szkody uważa się za spowodowane przez huragan, jeżeli w najbliższym sąsiedztwie stwierdzono działanie huraganu; ” , – pkt 6 otrzymuje brzmienie: „ 6) piorun – oznaczają szkody będące następstwem wyładowania atmosferycznego pozostawiającego bezsporne ślady tego zdarzenia; ” , – pkt 10 i 11 otrzymują brzmienie: „ 10) suszę – oznaczają szkody spowodowane wystąpieniem, w dowolnym sześciodekadowym okresie od dnia 1 kwietnia do dnia 30 września, spadku klimatycznego bilansu wodnego poniżej wartości określonej dla poszczególnych gatunków roślin uprawnych i gleb; 11) ujemne skutki przezimowania – oznaczają szkody spowodowane wymarznięciem, wymoknięciem, wyprzeniem, wysmaleniem lub wysadzeniem roślin, w okresie od dnia 1 grudnia do dnia 30 kwietnia, polegające na całkowitym lub częściowym zniszczeniu roślin lub całkowitej utracie plonu lub jego części; ” , – po pkt 11 dodaje się pkt 11a w brzmieniu: „ 11a) przymrozki wiosenne – oznaczają szkody spowodowane przez obniżenie się temperatury poniżej 0 °C, w okresie od dnia 1 maja do dnia 30 czerwca, polegające na całkowitym lub częściowym zniszczeniu roślin lub całkowitej utracie plonu lub jego części; ” , dodaje się ust. 3–5 w brzmieniu: „
+1a. Umowa ubezpieczenia może obejmować wszystkie lub wybrane przez producenta rolnego rodzaje ryzyka, o których mowa w ust. 1. ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **2)** huragan – oznaczają szkody powstałe w wyniku działania wiatru o prędkości nie mniejszej niż 24 m/s, którego działanie wyrządza masowe szkody; pojedyncze szkody uważa się za spowodowane przez huragan, jeżeli w najbliższym sąsiedztwie stwierdzono działanie huraganu; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** piorun – oznaczają szkody będące następstwem wyładowania atmosferycznego pozostawiającego bezsporne ślady tego zdarzenia; ” , pkt 10 i 11 otrzymują brzmienie: „
+- **10)** suszę – oznaczają szkody spowodowane wystąpieniem, w dowolnym sześciodekadowym okresie od dnia 1 kwietnia do dnia 30 września, spadku klimatycznego bilansu wodnego poniżej wartości określonej dla poszczególnych gatunków roślin uprawnych i gleb;
+- **11)** ujemne skutki przezimowania – oznaczają szkody spowodowane wymarznięciem, wymoknięciem, wyprzeniem, wysmaleniem lub wysadzeniem roślin, w okresie od dnia 1 grudnia do dnia 30 kwietnia, polegające na całkowitym lub częściowym zniszczeniu roślin lub całkowitej utracie plonu lub jego części; ” , po pkt 11 dodaje się pkt 11a w brzmieniu: „
+- **11a)** przymrozki wiosenne – oznaczają szkody spowodowane przez obniżenie się temperatury poniżej 0 °C, w okresie od dnia 1 maja do dnia 30 czerwca, polegające na całkowitym lub częściowym zniszczeniu roślin lub całkowitej utracie plonu lub jego części; ” , dodaje się ust. 3–5 w brzmieniu: „
+    - **d)**
 
 3. Umowa ubezpieczenia uprawy obejmuje uprawy roślin, o których mowa w ust. 1 pkt 1, uprawianych w plonie głównym, przy czym za plon główny uznaje się w przypadku:
 
@@ -127,7 +131,7 @@ source: "eli-html"
 1. Zakładom ubezpieczeń:
 
 - **1)** które zawarły z ministrem właściwym do spraw rolnictwa umowy w sprawie dopłat, oraz
-- **2)** innym niż określone w pkt 1, które zawarły umowy ubezpieczenia obowiązkowego upraw przysługuje dotacja celowa na pokrycie części odszkodowań należnych producentom rolnym z tytułu szkód spowodowanych przez suszę, zwana dalej „dotacją”.
+- **2)** innym niż określone w pkt 1, które zawarły umowy ubezpieczenia obowiązkowego upraw – przysługuje dotacja celowa na pokrycie części odszkodowań należnych producentom rolnym z tytułu szkód spowodowanych przez suszę, zwana dalej „dotacją”.
 
 2. Dotacja przysługuje w wysokości 60% różnicy pomiędzy łączną kwotą odszkodowań należnych w danym roku kalendarzowym z tytułu szkód spowodowanych przez suszę, na podstawie umów ubezpieczenia upraw, o których mowa w art. 3 ust. 1 pkt 1, oraz umów ubezpieczenia obowiązkowego tych upraw, których ochrona ubezpieczeniowa wygasa w danym roku kalendarzowym, a kwotą stanowiącą 90% sumy składek uiszczonych w danym roku kalendarzowym z tytułu zawarcia umów ubezpieczenia upraw, o których mowa w art. 3 ust. 1 pkt 1, oraz umów ubezpieczenia obowiązkowego tych upraw, od ryzyka wystąpienia szkód spowodowanych przez suszę, łącznie z dopłatami do tych składek.
 
@@ -178,24 +182,24 @@ source: "eli-html"
 
 10. Do umowy ubezpieczenia obowiązkowego w zakresie nieuregulowanym w ust. 1–5 stosuje się odpowiednio przepisy ustawy dotyczące umowy ubezpieczenia.
 
-11. Do kontroli spełniania obowiązku ubezpieczenia, o którym mowa w ust. 1, oraz dochodzenia opłat za niespełnienie tego obowiązku stosuje się odpowiednio przepisy ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) w zakresie obowiązkowego ubezpieczenia budynków rolniczych. ” ;
+11. Do kontroli spełniania obowiązku ubezpieczenia, o którym mowa w ust. 1, oraz dochodzenia opłat za niespełnienie tego obowiązku stosuje się odpowiednio przepisy ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396 oraz z 2006 r. Nr 157, poz. 1119.) w zakresie obowiązkowego ubezpieczenia budynków rolniczych. ” ;
 
 - **11)** w art. 11: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
 1. Dopłaty i dotacja wykorzystane niezgodnie z przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości podlegają niezwłocznie zwrotowi do budżetu państwa wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych.
 
-2. Do należności wraz z odsetkami od zaległości z tytułu dopłat i dotacji, wykorzystanych niezgodnie z przeznaczeniem, pobranych nienależnie lub w nadmiernej wysokości stosuje się odpowiednio przepisy działu III i IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.). ” , ust. 4 otrzymuje brzmienie: „
+2. Do należności wraz z odsetkami od zaległości z tytułu dopłat i dotacji, wykorzystanych niezgodnie z przeznaczeniem, pobranych nienależnie lub w nadmiernej wysokości stosuje się odpowiednio przepisy działu III i IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635.). ” , ust. 4 otrzymuje brzmienie: „
 
 - **b)**
 
 4. Do spraw nieuregulowanych ustawą dotyczących rozliczenia środków na dopłaty i dotację stosuje się przepisy o finansach publicznych dotyczące dotacji. ” .
 
-**Art. 2.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) w art. 115 ust. 2 otrzymuje brzmienie: „ 2. W skład Rady Funduszu, poza członkami określonymi statutowo, wchodzi przedstawiciel ministra właściwego do spraw instytucji finansowych, przedstawiciel ministra właściwego do spraw rolnictwa oraz przedstawiciel organu nadzoru. ” .
+**Art. 2.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396 oraz z 2006 r. Nr 157, poz. 1119.) w art. 115 ust. 2 otrzymuje brzmienie: „ 2. W skład Rady Funduszu, poza członkami określonymi statutowo, wchodzi przedstawiciel ministra właściwego do spraw instytucji finansowych, przedstawiciel ministra właściwego do spraw rolnictwa oraz przedstawiciel organu nadzoru. ” .
 
-**Art. 3.** W ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2004 r. Nr 10, poz. 76, z późn. zm.) w art. 5 po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Dane indywidualne zawarte w systemie, niezbędne do przeprowadzenia kontroli spełnienia obowiązku zawarcia umowy ubezpieczenia upraw, o której mowa w art. 10c ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. Nr 150, poz. 1249, z 2006 r. Nr 120, poz. 825 i Nr 157, poz. 1119 oraz z 2007 r. Nr 49, poz. 328), mogą być udostępniane również organom przeprowadzającym tę kontrolę. ” .
+**Art. 3.** W ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2004 r. Nr 10, poz. 76, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 92, poz. 638, Nr 144, poz. 1045 i Nr 187, poz. 1381 oraz z 2007 r. Nr 35, poz. 217.) w art. 5 po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Dane indywidualne zawarte w systemie, niezbędne do przeprowadzenia kontroli spełnienia obowiązku zawarcia umowy ubezpieczenia upraw, o której mowa w art. 10c ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. Nr 150, poz. 1249, z 2006 r. Nr 120, poz. 825 i Nr 157, poz. 1119 oraz z 2007 r. Nr 49, poz. 328), mogą być udostępniane również organom przeprowadzającym tę kontrolę. ” .
 
 **Art. 4.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119 oraz z 2007 r. Nr 42, poz. 272) w art. 1 w ust. 2 w pkt 3 wyrazy „o dopłatach do ubezpieczeń upraw rolnych i zwierząt gospodarskich” zastępuje się wyrazami „o ubezpieczeniach upraw rolnych i zwierząt gospodarskich”.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia z wyjątkiem art. 1 pkt 10 oraz art. 3, które wchodzą w życie z dniem 1 lipca 2008 r.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia z wyjątkiem art. 1 pkt 10 oraz art. 3, które wchodzą w życie z dniem 1 lipca 2008 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności oraz ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396 oraz z 2006 r. Nr 157, poz. 1119. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396 oraz z 2006 r. Nr 157, poz. 1119. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 92, poz. 638, Nr 144, poz. 1045 i Nr 187, poz. 1381 oraz z 2007 r. Nr 35, poz. 217.
 

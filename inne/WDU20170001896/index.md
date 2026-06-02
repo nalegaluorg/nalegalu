@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 4 października 2017 r. w sprawie równoważnika pieniężnego przyznawanego w zamian za umundurowanie oraz ryczałtu pieniężnego za czyszczenie chemiczne umundurowania w Inspekcji Transportu Drogowego
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 4 października 2017 r. w sprawie równoważnika pieniężnego przyznawanego w zamian za umundurowanie oraz ryczałtu pieniężnego za czyszczenie chemiczne umundurowania w Inspekcji Transportu Drogowego Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-04 |
 | Data wydania | 2017-10-10 |
-| Wejście w życie | 2017-10-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001896) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1896/text.pdf) |
 
@@ -58,8 +57,7 @@ inspektora Inspekcji Transportu Drogowego oraz pracownika Głównego Inspektorat
 2)
 wojewódzkiego inspektora transportu drogowego akceptuje osoba go zastępująca,
 3)
-Głównego Inspektora Transportu Drogowego akceptuje osoba go zastępująca albo dyrektor generalny Głównego Inspektoratu Transportu Drogowego
-uzależniając jego akceptację od stanu posiadanych przez wnioskującego poszczególnych elementów umundurowania.
+Głównego Inspektora Transportu Drogowego akceptuje osoba go zastępująca albo dyrektor generalny Głównego Inspektoratu Transportu Drogowego – uzależniając jego akceptację od stanu posiadanych przez wnioskującego poszczególnych elementów umundurowania.
 4.
 W przypadku nieświadczenia pracy przez uprawnionego przez okres trwający nieprzerwanie dłużej niż 30 dni, niebędący okresem korzystania z urlopu wypoczynkowego, równoważnik przyznawany jest proporcjonalnie do okresu świadczenia pracy.
 § 4.
@@ -100,15 +98,13 @@ W przypadku:
 1)
 nabycia po raz pierwszy uprawnienia do zaopatrzenia w elementy umundurowania,
 2)
-wygaśnięcia uprawnienia do zaopatrzenia w elementy umundurowania przed upływem okresu ich używalności
-ryczałt przysługuje w wysokości obliczonej proporcjonalnie do czasu trwania tego uprawnienia.
+wygaśnięcia uprawnienia do zaopatrzenia w elementy umundurowania przed upływem okresu ich używalności – ryczałt przysługuje w wysokości obliczonej proporcjonalnie do czasu trwania tego uprawnienia.
 4.
 W przypadku nieświadczenia pracy przez uprawnionego przez okres trwający nieprzerwanie dłużej niż 30 dni, niebędący okresem korzystania z urlopu wypoczynkowego, ryczałt przysługuje w wysokości obliczonej proporcjonalnie do okresu świadczenia pracy.
 § 8.
 Uprawniony posiadający elementy umundurowania, których okres używalności upływa w okresie krótszym niż 3 miesiące od dnia wejścia w życie rozporządzenia, może złożyć wniosek, o którym mowa w § 3 ust. 1 pkt 1, w terminie 3 miesięcy od dnia wejścia w życie rozporządzenia.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 6 i § 7, które wchodzą w życie z dniem 1 stycznia 2018 r.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 8 lipca 2011 r. w sprawie wysokości i warunków przyznawania w Inspekcji Transportu Drogowego równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 892), które na podstawie art. 3 ustawy z dnia 1 lipca 2011 r. o zmianie ustawy o transporcie drogowym oraz ustawy o drogach publicznych (Dz. U. poz. 945) utraciło moc z dniem 2 sierpnia 2012 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 6 i § 7, które wchodzą w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 8 lipca 2011 r. w sprawie wysokości i warunków przyznawania w Inspekcji Transportu Drogowego równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 892), które na podstawie art. 3 ustawy z dnia 1 lipca 2011 r. o zmianie ustawy o transporcie drogowym oraz ustawy o drogach publicznych (Dz. U. poz. 945) utraciło moc z dniem 2 sierpnia 2012 r. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 8 lipca 2011 r. w sprawie wysokości i warunków przyznawania w Inspekcji Transportu Drogowego równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 892), które na podstawie art. 3 ustawy z dnia 1 lipca 2011 r. o zmianie ustawy o transporcie drogowym oraz ustawy o drogach publicznych (Dz. U. poz. 945) utraciło moc z dniem 2 sierpnia 2012 r.
 Załącznik – Wysokość równoważnika za poszczególne elementy umundurowania
 Lp. Wyszczególnienie Jednostka miary Wysokość równoważnika w zł za jednostkę miary za okres używalności 1 Czapka gabardynowa szt. 82,00 2 Biały pokrowiec na czapkę szt. 13,00 3 Czapka z daszkiem typu sportowego szt. 23,99 4 Czapka zimowa służbowa typu sportowego szt. 46,74 5 Kask motocyklisty szt. 829,50 6 Krawat szt. 20,00 7 Szalik szt. 22,90 8 Koszula z długimi rękawami szt. 44,00 9 Koszula z krótkimi rękawami szt. 41,00 10 Koszula polo szt. 62,80 11 T-shirt szt. 12,60 12 Marynarka gabardynowa szt. 371,05 13 Marynarka z tropiku szt. 354,41 14 Bluza polowa szt. 175,00 15 Bluza typu polar z obszyciami/sweter szt. 157,32 16 Pochewki z dystynkcjami na pagony szt. 15,42 17 Oznaka Inspekcji Transportu Drogowego szt. 7,00 18 Identyfikator imienny szt. 12,96 19 Kurtka 3/4 szt. 254,61 20 Kurtka motocyklisty szt. 600,00 21 Kamizelka ostrzegawcza szt. 46,00 22 Pas główny szt. 47,00 23 Rękawice zimowe para 45,00 24 Rękawice motocyklisty para 135,00 25 Płaszcz szt. 730,00 26 Spodnie gabardynowe szt. 120,00 27 Spodnie z tropiku szt. 120,00 28 Spódnica gabardynowa szt. 116,85 29 Spódnica z tropiku szt. 108,37 30 Spodnie polowe szt. 166,50 31 Spodnie motocyklisty szt. 579,99 32 Skarpety do obuwia polowego para 4,22 33 Półbuty koloru czarnego para 82,41 34 Półbuty koloru czarnego – pantofle para 82,41 35 Buty polowe zimowe para 172,20 36 Buty polowe letnie para 172,20 37 Półbuty damskie wyjściowe para 140,00 38 Buty motocyklisty para 479,00
 

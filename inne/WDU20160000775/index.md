@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-13 |
 | Data wydania | 2016-06-03 |
-| Wejście w życie | 2016-06-04 |
 | Ostatnia zmiana | 2024-04-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000775) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/775/text.pdf) |
 
@@ -52,7 +51,19 @@ Kategoria zaszeregowania Kwota w złotych I 890–1 850 II 900–1 900 III 910�
 ## Załącznik nr 2 — – Tabela miesięcznych stawek wynagrodzenia zasadniczego pracowników zatrudnionych na stanowiskach specjalistycznych
 
 II.
-Pracowników zatrudnionych na stanowiskach specjalistycznych Lp. Stanowisko Kategoria zaszeregowania Stawkadodatkufunkcyjnego Wymagane kwalifikacje wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Profesor XVIII 8 wg odrębnych przepisów 2 Adiunkt XVI 6
+Pracowników zatrudnionych na stanowiskach specjalistycznych
+Lp. Stanowisko Kategoria zaszeregowania Stawka
+dodatku
+funkcyjnego Wymagane kwalifikacje wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Profesor XVIII 8 wg odrębnych przepisów 2 Adiunkt XVI 6
 III.
-Pozostałych pracowników Lp. Stanowisko Kategoria zaszeregowania Stawkadodatkufunkcyjnego Wymagane kwalifikacje wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Kierownik: biura, zakładu XV – XIX 9 wyższe 7 2 Zastępca głównegoksięgowego CentralnegoOśrodka XIV-XVIII 8 wyższe 6 3 Inspektor oceny odmian XV-XVII 8 wyższe 7 4 Główny specjalista Administrator sieci XII-XVII 7 wyższe 5 5 Radca prawny Audytor wewnętrzny XIV – XVII 7 wg odrębnych przepisów 6 Kierownik: działu, pracowni XI-XVI 6 wyższe 6 7 Starszy: specjalista, programista, projektant, asystent X-XV – wyższe 5 8 Specjalista, programista, projektant, asystent IX-XIV – wyższe 2 9 Kierownik magazynu VIII – XIII 4 średnie 3 10 Starszy: księgowy, referent VIII-XII – średnie 3 11 Starszy magazynier VII-XI – średnie 3 12 Starszy laborant VI – XI – średnie 2 13 Stażysta VI – XI – wyższe, średnie – 14 Magazynier VI – IX – zasadnicze 2 15 Laborant v-x – średnie 1 16 Kierownik archiwum VIII-IX 2 średnie 3 17 Księgowy, kasjer VII-IX – średnie 1 18 Referent, sekretarka IV-VIII – średnie – 19 Kierowca samochodu VI-X – wg odrębnych przepisów 20 Konserwator aparatury, urządzeń IX-XI – średnie i uprawnienia specjalistyczne 2 21 Starszy rzemieślnik VII-XI – średnie lubzasadnicze i tytułmistrza 3 22 Operator ciągników i maszyn rolniczych VII-XI – wg odrębnych przepisów 23 Robotnik polowy, szklarniowy VI-X – zasadnicze – 24 Palacz co. V-IX – podstawowe i kurs dla palaczy c.o. – 25 Rzemieślnik V-IX – zasadnicze lub odpowiednie wyszkolenie w zawodzie – 26 Robotnik gospodarczy IV-VII – umiejętność wykonywania prac – 27 Dozorca I-V – podstawowe – 28 Sprzątaczka I-IV – umiejętność wykonywania prac –
+Pozostałych pracowników
+Lp. Stanowisko Kategoria zaszeregowania Stawka
+dodatku
+funkcyjnego Wymagane kwalifikacje wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Kierownik: biura, zakładu XV – XIX 9 wyższe 7 2 Zastępca głównego
+księgowego Centralnego
+Ośrodka XIV-XVIII 8 wyższe 6 3 Inspektor oceny odmian XV-XVII 8 wyższe 7 4 Główny specjalista Administrator sieci XII-XVII 7 wyższe 5 5 Radca prawny Audytor wewnętrzny XIV – XVII 7 wg odrębnych przepisów 6 Kierownik: działu, pracowni XI-XVI 6 wyższe 6 7 Starszy: specjalista,
+programista, projektant,
+asystent X-XV – wyższe 5 8 Specjalista, programista, projektant, asystent IX-XIV – wyższe 2 9 Kierownik magazynu VIII – XIII 4 średnie 3 10 Starszy: księgowy, referent VIII-XII – średnie 3 11 Starszy magazynier VII-XI – średnie 3 12 Starszy laborant VI – XI – średnie 2 13 Stażysta VI – XI – wyższe, średnie – 14 Magazynier VI – IX – zasadnicze 2 15 Laborant v-x – średnie 1 16 Kierownik archiwum VIII-IX 2 średnie 3 17 Księgowy, kasjer VII-IX – średnie 1 18 Referent, sekretarka IV-VIII – średnie – 19 Kierowca samochodu VI-X – wg odrębnych przepisów 20 Konserwator aparatury, urządzeń IX-XI – średnie i uprawnienia specjalistyczne 2 21 Starszy rzemieślnik VII-XI – średnie lub
+zasadnicze i tytuł
+mistrza 3 22 Operator ciągników i maszyn rolniczych VII-XI – wg odrębnych przepisów 23 Robotnik polowy, szklarniowy VI-X – zasadnicze – 24 Palacz co. V-IX – podstawowe i kurs dla palaczy c.o. – 25 Rzemieślnik V-IX – zasadnicze lub odpowiednie wyszkolenie w zawodzie – 26 Robotnik gospodarczy IV-VII – umiejętność wykonywania prac – 27 Dozorca I-V – podstawowe – 28 Sprzątaczka I-IV – umiejętność wykonywania prac –
 

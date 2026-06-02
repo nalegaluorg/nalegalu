@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego (Dz. U. z 2018 r. poz. 203), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 marca 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747), który stanowi: „
 
 **Art. 28.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
@@ -98,7 +97,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 11.** (pominięty)
 
-**Art. 12.** Traci moc ustawa z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych (Dz. U. poz. 780, z późn. zm.).
+**Art. 12.** Traci moc ustawa z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych (Dz. U. poz. 780, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668 i 983, z 2000 r. poz. 136, z 2002 r. poz. 1826 i 2057, z 2003 r. poz. 1953, 1966 i 2124 oraz z 2005 r. poz. 1364 i 1420.).
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r.
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r. 1) Dodany przez art. 7 ustawy z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747), która weszła w życie z dniem 9 października 2020 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668 i 983, z 2000 r. poz. 136, z 2002 r. poz. 1826 i 2057, z 2003 r. poz. 1953, 1966 i 2124 oraz z 2005 r. poz. 1364 i 1420.
 

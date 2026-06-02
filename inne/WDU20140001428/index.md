@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-16 |
 | Data wydania | 2014-10-21 |
-| Wejście w życie | 2014-11-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1428/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 61 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 61 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 lipca 2011 r. w sprawie sporządzenia aktu pełnomocnictwa do głosowania w wyborach: do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej, do Parlamentu Europejskiego w Rzeczypospolitej Polskiej, do organów stanowiących jednostek samorządu terytorialnego oraz wójtów, burmistrzów i prezydentów miast (Dz. U. Nr 157, poz. 936) w § 5 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Wniosek o sporządzenie aktu pełnomocnictwa do głosowania, zwany dalej „wnioskiem”, o którym mowa w art. 56 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, zwanej dalej „ustawą”, wnosi się, począwszy od dnia wejścia w życie aktu o zarządzeniu wyborów, nie później jednak niż do 9. dnia przed dniem wyborów. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.
 

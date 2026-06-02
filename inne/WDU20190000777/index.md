@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 17 kwietnia 2019 r. w sprawie wysokości środków finansowych, jakie musi posiadać cudzoziemiec odbywający staż na terytorium Rzeczypospolitej Polskiej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 17 kwietnia 2019 r. w sprawie wysokości środków finansowych, jakie musi posiadać cudzoziemiec odbywający staż na terytorium Rzeczypospolitej Polskiej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-17 |
 | Data wydania | 2019-04-26 |
-| Wejście w życie | 2019-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/777/text.pdf) |
 
@@ -42,8 +41,7 @@ Minimalna wysokość środków finansowych, jakie cudzoziemiec odbywający staż
 2)
 500 złotych, jeżeli cudzoziemiec przybył z państwa członkowskiego Unii Europejskiej niesąsiadującego z Rzecząpospolitą Polską lub z państwa członkowskiego Europejskiego Porozumienia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub z Konfederacji Szwajcarskiej,
 3)
-2500 złotych, jeżeli cudzoziemiec przybył z innego państwa niż określone w pkt 1 i 2
-albo równowartość tych kwot w walutach obcych.
+2500 złotych, jeżeli cudzoziemiec przybył z innego państwa niż określone w pkt 1 i 2 – albo równowartość tych kwot w walutach obcych.
 2.
 Cudzoziemiec, który przybył na terytorium Rzeczypospolitej Polskiej lub przebywa na tym terytorium wraz z członkami rodziny pozostającymi na jego utrzymaniu, musi dodatkowo posiadać środki finansowe na pokrycie kosztów podróży powrotnej tych członków rodziny do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, których minimalna wysokość na każdego członka rodziny cudzoziemca wynosi:
 1)
@@ -51,8 +49,7 @@ Cudzoziemiec, który przybył na terytorium Rzeczypospolitej Polskiej lub przeby
 2)
 500 złotych, jeżeli członek rodziny cudzoziemca przybył z państwa członkowskiego Unii Europejskiej niesąsiadującego z Rzecząpospolitą Polską lub z państwa członkowskiego Europejskiego Porozumienia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub z Konfederacji Szwajcarskiej,
 3)
-2500 złotych, jeżeli członek rodziny cudzoziemca przybył z innego państwa niż określone w pkt 1 i 2
-albo równowartość tych kwot w walutach obcych.
+2500 złotych, jeżeli członek rodziny cudzoziemca przybył z innego państwa niż określone w pkt 1 i 2 – albo równowartość tych kwot w walutach obcych.
 § 3.
 1.
 Dokumentami mogącymi potwierdzić możliwość uzyskania środków finansowych na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, w wysokości, o której mowa w § 2, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny na terytorium Rzeczypospolitej Polskiej, o których mowa w art. 157a ust. 1 pkt 1 lit. d ustawy, są:
@@ -69,6 +66,5 @@ Zaświadczenia, o których mowa w ust. 1 pkt 2 i 3, wystawia się nie wcześniej
 § 4.
 Do przeliczenia na walutę polską posiadanych przez cudzoziemca środków finansowych w walucie obcej stosuje się średni kurs tej waluty ogłoszony przez Narodowy Bank Polski w ostatnim dniu roboczym poprzedzającym złożenie wniosku o udzielenie zezwolenia na pobyt czasowy.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 27 kwietnia 2019 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem 27 kwietnia 2019 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

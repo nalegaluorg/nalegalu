@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-17 |
 | Data wydania | 2022-03-18 |
-| Wejście w życie | 2022-03-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000642) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/642/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505 oraz z 2022 r. poz. 24 i 88) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) po § 13zn dodaje się § 13zo w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087 oraz z 2022 r. poz. 45.) po § 13zn dodaje się § 13zo w brzmieniu: „
 § 13zo.
 1.
 W 2022 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
@@ -41,8 +39,7 @@ będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w ro
 3)
 któremu zagraża utrata płynności finansowej w związku z ograniczeniami na rynku spowodowanymi epidemią COVID-19,
 4)
-który do dnia złożenia wniosku o tę pomoc złożył wniosek o przyznanie płatności w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego w 2022 r.
-na dofinansowanie zakupu w okresie od dnia 1 września 2021 r. do dnia 15 maja 2022 r. nawozów mineralnych innych niż wapno nawozowe i wapno nawozowe zawierające magnez od podmiotów prowadzących działalność w zakresie obrotu lub sprzedaży nawozów.
+który do dnia złożenia wniosku o tę pomoc złożył wniosek o przyznanie płatności w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego w 2022 r. – na dofinansowanie zakupu w okresie od dnia 1 września 2021 r. do dnia 15 maja 2022 r. nawozów mineralnych innych niż wapno nawozowe i wapno nawozowe zawierające magnez od podmiotów prowadzących działalność w zakresie obrotu lub sprzedaży nawozów.
 2.
 Pomoc, o której mowa w ust. 1, jest przyznawana w drodze decyzji kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego, na wniosek tego producenta złożony na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej.
 3.
@@ -82,10 +79,9 @@ Wysokość stawki pomocy, o której mowa w ust. 7 pkt 1, wynosi:
 9.
 W przypadku gdy ze złożonych wniosków, o których mowa w ust. 2, wynika, że zapotrzebowanie na pomoc, o której mowa w ust. 1, przekracza łącznie kwotę 3,9 mld zł, do obliczenia wysokości tej pomocy stosuje się współczynnik korygujący. Współczynnik korygujący stanowi iloraz kwoty 3,9 mld zł i kwoty równej zapotrzebowaniu na tę pomoc wynikającemu ze złożonych wniosków oraz jest ustalany z dokładnością do dwóch miejsc po przecinku.
 10.
-Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
-” .
+Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności. ” .
 § 2.
 Pomoc publiczna określona w § 13zo ust. 1 rozporządzenia zmienianego w § 1 może być udzielana producentowi rolnemu od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tym przepisie.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087 oraz z 2022 r. poz. 45.
 

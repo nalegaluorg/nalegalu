@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 1 września 2022 r. w sprawie opłaty za udostępnianie komornikom sądowym informacji objętych tajemnicą skarbową
+# Rozporządzenie Ministra Finansówz dnia 1 września 2022 r. w sprawie opłaty za udostępnianie komornikom sądowym informacji objętych tajemnicą skarbową Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-01 |
 | Data wydania | 2022-09-01 |
-| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2025-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001844) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1844/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 299 § 7 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 299 § 7 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265 i 1301.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -85,6 +84,5 @@ Uiszczenie opłaty następuje, w terminie 7 dni od dnia doręczenia informacji, 
 § 6.
 Przepisy § 1–5 stosuje się do wniosków o udostępnienie informacji, o których mowa w art. 299 § 3 pkt 8 i § 4 pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, złożonych od dnia określonego w obwieszczeniu wydanym na podstawie art. 27 ust. 1 pkt 2 lit. c ustawy z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową (Dz. U. poz. 1301).
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265 i 1301. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 grudnia 2008 r. w sprawie wysokości opłaty uiszczanej na rachunek organu podatkowego za udostępnienie informacji komornikom sądowym oraz trybu jej pobierania i sposobu uiszczania (Dz. U. poz. 1664), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową (Dz. U. poz. 1301).
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 grudnia 2008 r. w sprawie wysokości opłaty uiszczanej na rachunek organu podatkowego za udostępnienie informacji komornikom sądowym oraz trybu jej pobierania i sposobu uiszczania (Dz. U. poz. 1664), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową (Dz. U. poz. 1301). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265 i 1301. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 grudnia 2008 r. w sprawie wysokości opłaty uiszczanej na rachunek organu podatkowego za udostępnienie informacji komornikom sądowym oraz trybu jej pobierania i sposobu uiszczania (Dz. U. poz. 1664), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową (Dz. U. poz. 1301).
 

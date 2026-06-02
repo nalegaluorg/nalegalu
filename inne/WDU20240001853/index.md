@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw
+# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym oraz ustawę z dnia 2 grudnia 2021 r. o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-21 |
 | Data wydania | 2024-12-16 |
-| Wejście w życie | 2024-12-31 |
 | Ostatnia zmiana | 2024-12-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001853) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1853/text.pdf) |
 
@@ -112,6 +111,6 @@ source: "eli-html"
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 2, art. 4 pkt 1 lit. b w zakresie uchylanego pkt 20 i art. 4 pkt 2 w zakresie uchylanego pkt 3a, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-- **2)** art. 1 pkt 1, 3 i 4, art. 4 pkt 1 lit. a oraz lit. b w zakresie uchylanego pkt 21, art. 4 pkt 2 w zakresie uchylanego pkt 5 i art. 5, które wchodzą w życie z dniem 1 stycznia 2026 r.
+- **2)** art. 1 pkt 1, 3 i 4, art. 4 pkt 1 lit. a oraz lit. b w zakresie uchylanego pkt 21, art. 4 pkt 2 w zakresie uchylanego pkt 5 i art. 5, które wchodzą w życie z dniem 1 stycznia 2026 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym oraz ustawę z dnia 2 grudnia 2021 r. o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw.
 
 

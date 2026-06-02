@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-12-08 |
 | Data wydania | 2024-01-02 |
-| Wejście w życie | 2024-01-17 |
 | Ostatnia zmiana | 2025-06-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1/text.pdf) |
 
@@ -234,8 +233,7 @@ Za okres od dnia:
 1)
 wyjazdu z kraju lub wyjścia jednostki pływającej poza granice polskich wód terytorialnych do dnia przybycia do rejonu działania jednostki wojskowej lub miejsca wykonywania zadań służbowych poza granicami państwa,
 2)
-opuszczenia tego rejonu lub miejsca wykonywania zadań służbowych poza granicami państwa do dnia powrotu do kraju lub wejścia jednostki pływającej w obszar polskich wód terytorialnych
-żołnierz zawodowy, o którym mowa w § 2 pkt 2 lit. b, c i e, otrzymuje należność zagraniczną w wysokości określonej w § 6 ust. 1, jeżeli czas przejazdu lub przejścia jednostki pływającej trwa dłużej niż jeden dzień.
+opuszczenia tego rejonu lub miejsca wykonywania zadań służbowych poza granicami państwa do dnia powrotu do kraju lub wejścia jednostki pływającej w obszar polskich wód terytorialnych – żołnierz zawodowy, o którym mowa w § 2 pkt 2 lit. b, c i e, otrzymuje należność zagraniczną w wysokości określonej w § 6 ust. 1, jeżeli czas przejazdu lub przejścia jednostki pływającej trwa dłużej niż jeden dzień.
 2.
 Do ustalania i wypłacania należności, o której mowa w ust. 1, przepisy § 6 ust. 2–6 stosuje się odpowiednio, z tym że w przypadku, gdy czas pobytu poza granicami państwa przekracza miesiąc kalendarzowy, należność zagraniczna jest wypłacana miesięcznie z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który należność przysługuje.
 3.
@@ -296,8 +294,7 @@ Za czas podróży służbowej odbywanej na terytorium Rzeczypospolitej Polskiej 
 1)
 pkt 1, w przypadku jego skierowania do wykonywania obowiązków służbowych w strefie działań wojennych,
 2)
-pkt 2 lit. a-c
-wypłaca się jednorazową należność pieniężną przeznaczoną na zakup indywidualnego sprzętu i wyposażenia wojskowego w wysokości 4110 zł.
+pkt 2 lit. a-c – wypłaca się jednorazową należność pieniężną przeznaczoną na zakup indywidualnego sprzętu i wyposażenia wojskowego w wysokości 4110 zł.
 2.
 Należność, o której mowa w ust. 1, wypłaca się również żołnierzowi zawodowemu, o którym mowa w § 2 pkt 2 lit. d, skierowanemu poza granice państwa w celu uczestniczenia w szkoleniach lub ćwiczeniach wojskowych w składzie stałych zespołów morskich Organizacji Traktatu Północnoatlantyckiego. Przepisy ust. 3 pkt 1 i ust. 4 i 5 stosuje się odpowiednio.
 3.
@@ -313,5 +310,5 @@ Dowódca jednostki wojskowej właściwy w sprawie wypłaty jednorazowej należno
 § 13.
 Do dnia wejścia w życie przepisów wydanych na podstawie art. 54 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej, o których mowa w § 3 ust. 1, do ustalania wysokości dodatku zagranicznego bazowego stosuje się przepisy, o których mowa w art. 85a pkt 2 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 5 marca 2010 r. w sprawie należności pieniężnych żołnierzy zawodowych pełniących służbę poza granicami państwa (Dz. U. z 2015 r. poz. 1578 oraz z 2021 r. poz. 785), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 3 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 5 marca 2010 r. w sprawie należności pieniężnych żołnierzy zawodowych pełniących służbę poza granicami państwa (Dz. U. z 2015 r. poz. 1578 oraz z 2021 r. poz. 785), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 3 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872).
 

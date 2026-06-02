@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 16 września 2020 r. zmieniające rozporządzenie w sprawie wymagań Dobrej Praktyki Wytwarzania
+# Rozporządzenie Ministra Zdrowiaz dnia 16 września 2020 r. zmieniające rozporządzenie w sprawie wymagań Dobrej Praktyki Wytwarzania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-16 |
 | Data wydania | 2020-10-23 |
-| Wejście w życie | 2020-11-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001868) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1868/text.pdf) |
 
@@ -35,15 +34,13 @@ Treść rozporządzenia
 ## Załącznik nr 3 — – Szczegółowe wymagania dobrej praktyki wytwarzania produktów leczniczych terapii zaawansowanej
 
 Treść rozporządzenia
-Na podstawie art. 39 ust. 5 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944 i 1493) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2017/1572 z dnia 15 września 2017 r. uzupełniającą dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady w odniesieniu do zasad i wytycznych dobrej praktyki wytwarzania produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 238 z 16.09.2017, str. 44). Na podstawie art. 39 ust. 5 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944 i 1493) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 9 listopada 2015 r. w sprawie wymagań Dobrej Praktyki Wytwarzania (Dz. U. z 2019 r. poz. 728) wprowadza się następujące zmiany:
 1)
-w § 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
-„
+w § 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 6)
-szczegółowe wymagania Dobrej Praktyki Wytwarzania produktów leczniczych terapii zaawansowanej zawarte w załączniku nr 6 do rozporządzenia.
-” ;
+szczegółowe wymagania Dobrej Praktyki Wytwarzania produktów leczniczych terapii zaawansowanej zawarte w załączniku nr 6 do rozporządzenia. ” ;
 2)
 w załączniku nr 5 do rozporządzenia:
 a)
@@ -55,8 +52,7 @@ dodaje się załącznik nr 6 do rozporządzenia w brzmieniu określonym w załą
 § 2.
 Do postępowań dotyczących wytwórców i importerów produktu leczniczego, wytwórców, importerów i dystrybutorów substancji czynnej oraz wytwórców i importerów substancji pomocniczej, z zakresu spełnienia wymagań określonych w aneksie 2 i aneksie 17 w załączniku nr 5 do rozporządzenia zmienianego w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2017/1572 z dnia 15 września 2017 r. uzupełniającą dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady w odniesieniu do zasad i wytycznych dobrej praktyki wytwarzania produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 238 z 16.09.2017, str. 44).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2017/1572 z dnia 15 września 2017 r. uzupełniającą dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady w odniesieniu do zasad i wytycznych dobrej praktyki wytwarzania produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 238 z 16.09.2017, str. 44).
 
 ## Załącznik nr 1 — – Aneks 2 Wytwarzanie biologicznych substancji czynnych i produktów leczniczych do stosowania u ludzi
 
@@ -128,26 +124,25 @@ roboczy bank komórek – jednorodna pula mikroorganizmów lub komórek, które 
 21)
 system zamknięty – system, w którym podczas wytwarzania substancja lub produkt leczniczy nie są wystawiane na bezpośrednie działanie otoczenia;
 22)
-zbiór komórek – komórki pierwotne, których liczba została powielona do określonej liczby komórek, w celu podzielenia na części i wykorzystania jako materiał wyjściowy do produkcji ograniczonej liczby serii produktu leczniczego bazującego na tych komórkach.
-Zakres Metody wytwarzania biologicznych substancji czynnych i biologicznych produktów leczniczych do stosowania u ludzi są kluczowym czynnikiem w kształtowaniu właściwej kontroli regulacyjnej. W związku z tym biologiczne substancje czynne i produkty lecznicze można zdefiniować głównie w odniesieniu do ich metody wytwarzania. Aneks przedstawia wymagania odnoszące się do wszystkich substancji czynnych i produktów leczniczych określanych mianem biologicznych, z wyjątkiem produktów leczniczych terapii zaawansowanej, zwanych dalej „ATMP”. ATMP nie są ujęte w niniejszym Aneksie. Wytwórcy ATMP powinni odnosić się do wymagań Dobrej Praktyki Wytwarzania specyficznych dla ATMP, określonych w załączniku nr 6 do rozporządzenia. Aneks składa się z dwóch części:
+zbiór komórek – komórki pierwotne, których liczba została powielona do określonej liczby komórek, w celu podzielenia na części i wykorzystania jako materiał wyjściowy do produkcji ograniczonej liczby serii produktu leczniczego bazującego na tych komórkach. Zakres Metody wytwarzania biologicznych substancji czynnych i biologicznych produktów leczniczych do stosowania u ludzi są kluczowym czynnikiem w kształtowaniu właściwej kontroli regulacyjnej. W związku z tym biologiczne substancje czynne i produkty lecznicze można zdefiniować głównie w odniesieniu do ich metody wytwarzania. Aneks przedstawia wymagania odnoszące się do wszystkich substancji czynnych i produktów leczniczych określanych mianem biologicznych, z wyjątkiem produktów leczniczych terapii zaawansowanej, zwanych dalej „ATMP”. ATMP nie są ujęte w niniejszym Aneksie. Wytwórcy ATMP powinni odnosić się do wymagań Dobrej Praktyki Wytwarzania specyficznych dla ATMP, określonych w załączniku nr 6 do rozporządzenia. Aneks składa się z dwóch części:
 1)
 część A zawiera uzupełniające wymagania dotyczące wytwarzania biologicznych substancji czynnych i produktów leczniczych, począwszy od kontroli serii siewnych i banków komórek do czynności końcowych i badania;
 2)
-część B zawiera dalsze wymagania dotyczące wybranych rodzajów biologicznych substancji czynnych i produktów leczniczych.
-Niniejszy Aneks wraz z innymi Aneksami tego załącznika przedstawia wymagania, które uzupełniają wymagania określone w załącznikach nr 2 i 3 do rozporządzenia. Zakres Aneksu obejmuje dwa zagadnienia:
+część B zawiera dalsze wymagania dotyczące wybranych rodzajów biologicznych substancji czynnych i produktów leczniczych. Niniejszy Aneks wraz z innymi Aneksami tego załącznika przedstawia wymagania, które uzupełniają wymagania określone w załącznikach nr 2 i 3 do rozporządzenia. Zakres Aneksu obejmuje dwa zagadnienia:
 1)
 etap wytwarzania – załącznik nr 3 do rozporządzenia zawiera wymagania dotyczące wytwarzania biologicznych substancji czynnych do momentu poprzedzającego wyjaławianie, a wymagania dotyczące kolejnych etapów wytwarzania produktów biologicznych zostały przedstawione w załączniku nr 2 do rozporządzenia;
 2)
-rodzaj produktu – niniejszy Aneks zawiera wymagania dotyczące wszystkich produktów leczniczych określanych jako produkty biologiczne, z wyjątkiem ATMP.
-Powyższe zagadnienia przedstawiono w tabeli 1. Tabela ma charakter wyłącznie przykładowy i nie ma na celu przedstawiania dokładnego zakresu tych zagadnień. Pomimo że zgodnie z odpowiednią tabelą zawartą w załączniku nr 3 do rozporządzenia poziom szczegółowości dobrych praktyk wytwarzania wzrasta wraz z postępem wytwarzania biologicznych substancji czynnych, to wymagania Dobrej Praktyki Wytwarzania powinny być zawsze przestrzegane. Objęcie niektórych wczesnych etapów wytwarzania zakresem niniejszego Aneksu nie oznacza, że stosowne organy będą poddawać te etapy rutynowym inspekcjom. Antybiotyki nie są zdefiniowane jako biologiczne produkty lecznicze, jednak tam, gdzie występują biologiczne etapy produkcji, można zastosować wymagania niniejszego Aneksu. Wymagania dotyczące produktów leczniczych uzyskiwanych z frakcjonowanej krwi lub osocza ludzkiego zostały określone w Aneksie 14 niniejszego załącznika, a dla nietransgenicznych produktów roślinnych -w Aneksie 7 niniejszego załącznika. W niektórych przypadkach do materiałów wyjściowych mają zastosowanie inne przepisy. W szczególności:
+rodzaj produktu – niniejszy Aneks zawiera wymagania dotyczące wszystkich produktów leczniczych określanych jako produkty biologiczne, z wyjątkiem ATMP. Powyższe zagadnienia przedstawiono w tabeli 1. Tabela ma charakter wyłącznie przykładowy i nie ma na celu przedstawiania dokładnego zakresu tych zagadnień. Pomimo że zgodnie z odpowiednią tabelą zawartą w załączniku nr 3 do rozporządzenia poziom szczegółowości dobrych praktyk wytwarzania wzrasta wraz z postępem wytwarzania biologicznych substancji czynnych, to wymagania Dobrej Praktyki Wytwarzania powinny być zawsze przestrzegane. Objęcie niektórych wczesnych etapów wytwarzania zakresem niniejszego Aneksu nie oznacza, że stosowne organy będą poddawać te etapy rutynowym inspekcjom. Antybiotyki nie są zdefiniowane jako biologiczne produkty lecznicze, jednak tam, gdzie występują biologiczne etapy produkcji, można zastosować wymagania niniejszego Aneksu. Wymagania dotyczące produktów leczniczych uzyskiwanych z frakcjonowanej krwi lub osocza ludzkiego zostały określone w Aneksie 14 niniejszego załącznika, a dla nietransgenicznych produktów roślinnych -w Aneksie 7 niniejszego załącznika. W niektórych przypadkach do materiałów wyjściowych mają zastosowanie inne przepisy. W szczególności:
 1)
 w przypadku tkanek i komórek wykorzystywanych jako materiały wyjściowe do produktów leczniczych są to przepisy dotyczące ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich oraz przepisy dotyczące niektórych wymagań technicznych dotyczących dawstwa, pobierania oraz badania tkanek i komórek ludzkich. Takie tkanki i komórki mogą dostarczać substancji czynnych dla niektórych biologicznych produktów leczniczych objętych zakresem niniejszego Aneksu, w którym to przypadku obowiązują wymagania Dobrej Praktyki Wytwarzania oraz mają zastosowanie inne przepisy dotyczące produktów leczniczych;
 2)
-w przypadku krwi i składników krwi wykorzystywanych jako materiały wyjściowe do produktów leczniczych zastosowanie mają wymagania dotyczące kwalifikacji dawców, pobierania oraz badania krwi i składników krwi przedstawione w odpowiednich przepisach ustalających normy jakości i bezpieczeństwa w zakresie pobierania, badania, przetwarzania, przechowywania i dystrybucji krwi i składników krwi ludzkiej.
-Dodatkowo wytwarzanie i kontrola GMO powinny spełniać wymagania ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706 oraz z 2020 r. poz. 322). W szczególności stosuje się odpowiednie zabezpieczenia i inne środki ochrony. Należy ustanowić i utrzymywać odpowiedni poziom bezpieczeństwa biologicznego. Nie dopuszcza się do sprzeczności z wymaganiami Dobrej Praktyki Wytwarzania. W przypadku wytwarzania produktu leczniczego dopuszczonego do obrotu w innym kraju należy zapewnić, że wytwarzanie i kontrola GMO spełniają przepisy kraju przeznaczenia.
-Tabela 1. Przykładowy przewodnik po czynnościach wytwórczych objętych zakresem Aneksu 2
-Rodzaj i źródło materiału Przykładowy produkt Zastosowanie przewodnika po etapach wytwarzania zaznaczone na szaro 1. Pochodzenie zwierzęce lub roślinne: nietransgeniczne Heparyny, insulina, enzymy, białka, ekstrakty alergenów, surowice odpornościowe Zestaw roślin, organów, tkanek lub płyn (zobacz zakres zastosowania wymagań Dobrej Praktyki Wytwarzania (patrz pkt B1 niniejszego Aneksu) Cięcie, mieszanie lub przetwarzanie wstępne Izolacja i oczyszczanie Przygotowanie, napełnianie 2. Wirus lub bakteria lub fermentacja lub hodowla komórek Szczepionki wirusowe lub bakteryjne; enzymy, białka Przygotowanie i utrzymanie, MCB (patrz pkt „Seria siewna i system bankowania komórek”), WCB, MVS, WVS Hodowla komórek lub fermentacja Inaktywacja, jeżeli to właściwe, izolacja i oczyszczanie Przygotowanie, napełnianie 3. Biotechnologia – fermentacja lub hodowla komórek Produkty rekombinowane, MAb, alergeny, szczepionki Przygotowanie i utrzymanie, MCB, WCB, MSL, WSL Hodowla komórek lub fermentacja Izolacja, oczyszczanie, modyfikacja Przygotowanie, napełnianie 4. Pochodzenia zwierzęcego: transgeniczne Białka rekombinowane Bank macierzysty i roboczy komórek transgenicznych Pobranie, cięcie, mieszanie lub wstępne przetwarzanie Izolacja, oczyszczanie i modyfikacja Przygotowanie, napełnianie 5. Pochodzenia roślinnego: transgeniczne Białka rekombinowane, szczepionki, alergeny Bank macierzysty i roboczy komórek transgenicznych Hodowla, zbieranie (wytyczne HMPC dotyczące dobrych praktyk rolniczych EMEAQ/HMP C/246816/2005) Ekstrakcja, izolacja, oczyszczanie i modyfikacja Przygotowanie, napełnianie 6. Pochodzenia ludzkiego Enzymy otrzymywane z moczu, hormony Zbiór płynu (mają zastosowanie wymagania Dobrej Praktyki Wytwarzania, patrz wyjaśnienie w punkcie „Zakres”) Mieszanie lub przetwarzanie wstępne Izolacja i oczyszczanie Przygotowanie, napełnianie 7. Pochodzenia ludzkiego Produkty pochodzące z komórek tkankowych Oddawanie, pobieranie i testowanie tkanek lub komórek. Ludzkie tkanki i komórki muszą być zgodne z dyrektywą 2004/23/WE i dyrektywami zmieniającymi w zakresie tych etapów Przetwarzanie wstępne, izolacja i oczyszczanie Izolacja komórek, oczyszczenie hodowli, połączenie z elementami innymi niż komórkowe Formowanie, połączenie, napełnianie Wzrastające wymagania Dobrej Praktyki Wytwarzania Reguła Wytwarzanie biologicznych substancji czynnych i produktów leczniczych wymaga rozważenia kwestii dotyczących natury produktów i procesów. Sposoby wytwarzania, nadzorowania i podawania biologicznych produktów leczniczych wymagają podjęcia określonych środków ostrożności. W przeciwieństwie do tradycyjnych produktów leczniczych, które wytwarza się metodami chemicznymi i fizycznymi, zapewniającymi wysoki stopień powtarzalności, wytwarzanie biologicznych substancji czynnych i produktów leczniczych obejmuje biologiczne procesy i materiały, takie jak hodowla komórek albo ich ekstrakcja z organizmów żywych. Takie procesy mogą wykazywać specyficzną zmienność, więc zakres i rodzaje produktów ubocznych mogą być różne. W związku z tym zasady Zarządzania Ryzykiem Jakości są szczególnie ważne dla tej klasy materiałów i powinny zostać wykorzystane do opracowania strategii kontroli na wszystkich etapach wytwarzania, tak aby zminimalizować zmienność i ograniczyć możliwość zanieczyszczenia i zanieczyszczenia krzyżowego. Ponieważ materiały i warunki wytwarzania stosowane podczas procesu hodowli są zaprojektowane tak, aby zapewniać warunki do wzrostu określonych komórek i mikroorganizmów, stwarzają one również możliwość wzrostu innych zanieczyszczeń mikrobiologicznych. Ponadto niektóre produkty mają ograniczoną wytrzymałość na oczyszczanie, w szczególności na metody zaprojektowane z myślą o inaktywacji lub usuwaniu ubocznego zanieczyszczenia wirusowego. Kluczowymi czynnikami minimalizującymi prawdopodobieństwo wystąpienia zanieczyszczenia są odpowiednio zaprojektowane procesy, wyposażenie, pomieszczenia, systemy pomocnicze, warunki przygotowywania i dodawania buforów oraz odczynników, pobieranie prób, szkolenie operatorów. Specyfikacje dotyczące produktów (takie jak zawarte w monografiach farmakopealnych, pozwoleniu na dopuszczenie do obrotu oraz pozwoleniu na prowadzenie badania klinicznego) zawierają informacje dotyczące tego, czy i do jakiego etapu substancje i materiały mogą posiadać określony poziom obciążenia biologicznego lub czy mają one być jałowe. Wytwarzanie ma być również zgodne z innymi specyfikacjami określonymi w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badań klinicznych (np. liczba generacji (podwajanie, pasaże) między serią siewną lub bankiem komórek). W przypadku materiałów biologicznych, których nie można poddać sterylizacji (przez np. filtrację), prowadzenie procesu musi być wykonywane w sposób aseptyczny, co pozwoli ograniczyć wprowadzenie zanieczyszczeń. W takim przypadku walidacja konkretnych metod wytwarzania, np. inaktywacji lub usuwania wirusów, powinna uwzględniać wytyczne Komitetu do spraw Produktów Leczniczych Stosowanych u Ludzi dotyczące walidacji. Stosowanie odpowiedniej kontroli i monitoringu środowiska tam, gdzie jest to możliwe, czyszczenie w miejscu i stosowanie sterylizacji w miejscu, wraz z wykorzystaniem systemów zamkniętych, może w dużym stopniu ograniczyć ryzyko wystąpienia przypadkowego zanieczyszczenia lub zanieczyszczenia krzyżowego. Kontrola obejmuje zazwyczaj stosowanie biologicznych technik analitycznych, które zwykle mają większą zmienność niż oznaczenia fizyko-chemiczne. Dlatego ważny jest odporny na niewielkie, niezamierzone zmiany proces wytwarzania, a kontrole wewnątrzprocesowe mają kluczowe znaczenie w wytwarzaniu biologicznych substancji czynnych i produktów leczniczych. Biologiczne produkty lecznicze zawierające tkanki lub komórki pochodzenia ludzkiego muszą spełniać wymagania określone w odrębnych przepisach dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich. Tkanki i komórki mają być pobierane i badane zgodnie ze odpowiednim systemem jakości, dla którego wymagania przedstawiono w niniejszym Aneksie. Biologiczne substancje czynne i produkty lecznicze mają być zgodne z aktualną wersją Wytycznych dotyczących zmniejszania ryzyka przenoszenia czynników zwierzęcej encefalopatii gąbczastej (TSE) przez produkty lecznicze stosowane u ludzi oraz weterynaryjne produkty lecznicze.
-Część A. WYMAGANIA OGÓLNE
+w przypadku krwi i składników krwi wykorzystywanych jako materiały wyjściowe do produktów leczniczych zastosowanie mają wymagania dotyczące kwalifikacji dawców, pobierania oraz badania krwi i składników krwi przedstawione w odpowiednich przepisach ustalających normy jakości i bezpieczeństwa w zakresie pobierania, badania, przetwarzania, przechowywania i dystrybucji krwi i składników krwi ludzkiej. Dodatkowo wytwarzanie i kontrola GMO powinny spełniać wymagania ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706 oraz z 2020 r. poz. 322). W szczególności stosuje się odpowiednie zabezpieczenia i inne środki ochrony. Należy ustanowić i utrzymywać odpowiedni poziom bezpieczeństwa biologicznego. Nie dopuszcza się do sprzeczności z wymaganiami Dobrej Praktyki Wytwarzania. W przypadku wytwarzania produktu leczniczego dopuszczonego do obrotu w innym kraju należy zapewnić, że wytwarzanie i kontrola GMO spełniają przepisy kraju przeznaczenia.
+Tabela 1.
+Przykładowy przewodnik po czynnościach wytwórczych objętych zakresem Aneksu 2
+Rodzaj i źródło materiału Przykładowy produkt Zastosowanie przewodnika po etapach wytwarzania zaznaczone na szaro 1. Pochodzenie zwierzęce lub roślinne: nietransgeniczne Heparyny, insulina, enzymy, białka, ekstrakty alergenów, surowice odpornościowe Zestaw roślin, organów, tkanek lub płyn (zobacz zakres zastosowania wymagań Dobrej Praktyki Wytwarzania (patrz pkt B1 niniejszego Aneksu) Cięcie, mieszanie lub przetwarzanie wstępne Izolacja i oczyszczanie Przygotowanie, napełnianie 2. Wirus lub bakteria lub fermentacja lub hodowla komórek Szczepionki wirusowe lub bakteryjne; enzymy, białka Przygotowanie i utrzymanie, MCB (patrz pkt „Seria siewna i system bankowania komórek”), WCB, MVS, WVS Hodowla komórek lub fermentacja Inaktywacja, jeżeli to właściwe, izolacja i oczyszczanie Przygotowanie, napełnianie 3. Biotechnologia – fermentacja lub hodowla komórek Produkty rekombinowane, MAb, alergeny, szczepionki Przygotowanie i utrzymanie, MCB, WCB, MSL, WSL Hodowla komórek lub fermentacja Izolacja, oczyszczanie, modyfikacja Przygotowanie, napełnianie 4. Pochodzenia zwierzęcego: transgeniczne Białka rekombinowane Bank macierzysty i roboczy komórek transgenicznych Pobranie, cięcie, mieszanie lub wstępne przetwarzanie Izolacja, oczyszczanie i modyfikacja Przygotowanie, napełnianie 5. Pochodzenia roślinnego: transgeniczne Białka rekombinowane, szczepionki, alergeny Bank macierzysty i roboczy komórek transgenicznych Hodowla, zbieranie (wytyczne HMPC dotyczące dobrych praktyk rolniczych EMEAQ/HMP C/246816/2005) Ekstrakcja, izolacja, oczyszczanie i modyfikacja Przygotowanie, napełnianie 6. Pochodzenia ludzkiego Enzymy otrzymywane z moczu, hormony Zbiór płynu (mają zastosowanie wymagania Dobrej Praktyki Wytwarzania, patrz wyjaśnienie w punkcie „Zakres”) Mieszanie lub przetwarzanie wstępne Izolacja i oczyszczanie Przygotowanie, napełnianie 7. Pochodzenia ludzkiego Produkty pochodzące z komórek tkankowych Oddawanie, pobieranie i testowanie tkanek lub komórek. Ludzkie tkanki i komórki muszą być zgodne z dyrektywą 2004/23/WE i dyrektywami zmieniającymi w zakresie tych etapów Przetwarzanie wstępne, izolacja i oczyszczanie Izolacja komórek, oczyszczenie hodowli, połączenie z elementami innymi niż komórkowe Formowanie, połączenie, napełnianie
+Wzrastające wymagania Dobrej Praktyki Wytwarzania Reguła Wytwarzanie biologicznych substancji czynnych i produktów leczniczych wymaga rozważenia kwestii dotyczących natury produktów i procesów. Sposoby wytwarzania, nadzorowania i podawania biologicznych produktów leczniczych wymagają podjęcia określonych środków ostrożności. W przeciwieństwie do tradycyjnych produktów leczniczych, które wytwarza się metodami chemicznymi i fizycznymi, zapewniającymi wysoki stopień powtarzalności, wytwarzanie biologicznych substancji czynnych i produktów leczniczych obejmuje biologiczne procesy i materiały, takie jak hodowla komórek albo ich ekstrakcja z organizmów żywych. Takie procesy mogą wykazywać specyficzną zmienność, więc zakres i rodzaje produktów ubocznych mogą być różne. W związku z tym zasady Zarządzania Ryzykiem Jakości są szczególnie ważne dla tej klasy materiałów i powinny zostać wykorzystane do opracowania strategii kontroli na wszystkich etapach wytwarzania, tak aby zminimalizować zmienność i ograniczyć możliwość zanieczyszczenia i zanieczyszczenia krzyżowego. Ponieważ materiały i warunki wytwarzania stosowane podczas procesu hodowli są zaprojektowane tak, aby zapewniać warunki do wzrostu określonych komórek i mikroorganizmów, stwarzają one również możliwość wzrostu innych zanieczyszczeń mikrobiologicznych. Ponadto niektóre produkty mają ograniczoną wytrzymałość na oczyszczanie, w szczególności na metody zaprojektowane z myślą o inaktywacji lub usuwaniu ubocznego zanieczyszczenia wirusowego. Kluczowymi czynnikami minimalizującymi prawdopodobieństwo wystąpienia zanieczyszczenia są odpowiednio zaprojektowane procesy, wyposażenie, pomieszczenia, systemy pomocnicze, warunki przygotowywania i dodawania buforów oraz odczynników, pobieranie prób, szkolenie operatorów. Specyfikacje dotyczące produktów (takie jak zawarte w monografiach farmakopealnych, pozwoleniu na dopuszczenie do obrotu oraz pozwoleniu na prowadzenie badania klinicznego) zawierają informacje dotyczące tego, czy i do jakiego etapu substancje i materiały mogą posiadać określony poziom obciążenia biologicznego lub czy mają one być jałowe. Wytwarzanie ma być również zgodne z innymi specyfikacjami określonymi w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badań klinicznych (np. liczba generacji (podwajanie, pasaże) między serią siewną lub bankiem komórek). W przypadku materiałów biologicznych, których nie można poddać sterylizacji (przez np. filtrację), prowadzenie procesu musi być wykonywane w sposób aseptyczny, co pozwoli ograniczyć wprowadzenie zanieczyszczeń. W takim przypadku walidacja konkretnych metod wytwarzania, np. inaktywacji lub usuwania wirusów, powinna uwzględniać wytyczne Komitetu do spraw Produktów Leczniczych Stosowanych u Ludzi dotyczące walidacji. Stosowanie odpowiedniej kontroli i monitoringu środowiska tam, gdzie jest to możliwe, czyszczenie w miejscu i stosowanie sterylizacji w miejscu, wraz z wykorzystaniem systemów zamkniętych, może w dużym stopniu ograniczyć ryzyko wystąpienia przypadkowego zanieczyszczenia lub zanieczyszczenia krzyżowego. Kontrola obejmuje zazwyczaj stosowanie biologicznych technik analitycznych, które zwykle mają większą zmienność niż oznaczenia fizyko-chemiczne. Dlatego ważny jest odporny na niewielkie, niezamierzone zmiany proces wytwarzania, a kontrole wewnątrzprocesowe mają kluczowe znaczenie w wytwarzaniu biologicznych substancji czynnych i produktów leczniczych. Biologiczne produkty lecznicze zawierające tkanki lub komórki pochodzenia ludzkiego muszą spełniać wymagania określone w odrębnych przepisach dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich. Tkanki i komórki mają być pobierane i badane zgodnie ze odpowiednim systemem jakości, dla którego wymagania przedstawiono w niniejszym Aneksie. Biologiczne substancje czynne i produkty lecznicze mają być zgodne z aktualną wersją Wytycznych dotyczących zmniejszania ryzyka przenoszenia czynników zwierzęcej encefalopatii gąbczastej (TSE) przez produkty lecznicze stosowane u ludzi oraz weterynaryjne produkty lecznicze.
+Część A.
+WYMAGANIA OGÓLNE
 Personel (dotyczy pracowników zatrudnionych oraz osób wykonujących obowiązki na innej podstawie prawnej)
 1.
 Personel (w tym personel sprzątający, techniczny i kontroli jakości) zatrudniony w obszarach wytwarzania i badania biologicznych substancji czynnych i produktów leczniczych jest przeszkolony oraz przechodzi szkolenia okresowe, odpowiednie dla zakresu wytwarzanych produktów. Szkolenia obejmują środki ochrony produktu, personelu i środowiska.
@@ -156,8 +151,7 @@ Mając na względzie bezpieczeństwo produktu należy wziąć pod uwagę stan zd
 3.
 Wszelkie zmiany stanu zdrowia personelu, które mogłyby mieć negatywny wpływ na jakość produktu, skutkują odsunięciem od pracy w obszarze wytwarzania i są odpowiednio rejestrowane. Personel pracujący przy wytwarzaniu szczepionki przeciwgruźliczej (BCG) oraz produktów tuberkulinowych powinien być poddawany regularnym badaniom kontrolnym pod kątem immunologicznym albo regularnie poddawać się badaniu rentgenowskiemu (RTG) klatki piersiowej. Kontrola zdrowia personelu ma być współmierna do ryzyka. W przypadku personelu pracującego z niebezpiecznymi organizmami należy zasięgnąć porady lekarza.
 4.
-Jeżeli wymagana jest minimalizacja ryzyka wystąpienia zanieczyszczenia krzyżowego, należy wprowadzić ograniczenia ruchu dla całego personelu (w tym personelu kontroli jakości, personelu technicznego i sprzątającego) i prowadzić kontrole zgodnie z zasadami Zarządzania Ryzykiem Jakości. Co do zasady personel nie może przechodzić z obszaru, gdzie jest narażony na działanie mikroorganizmów żywych, GMO, toksyn lub zwierząt, do obszaru, w którym pracuje się z innymi produktami, produktami inaktywowanymi lub innymi organizmami. Jeżeli jednak przejście z jednego obszaru do drugiego jest nieuniknione, należy zastosować środki kontroli zanieczyszczenia oparte na zasadach Zarządzania Ryzykiem Jakości.
-Pomieszczenia i wyposażenie
+Jeżeli wymagana jest minimalizacja ryzyka wystąpienia zanieczyszczenia krzyżowego, należy wprowadzić ograniczenia ruchu dla całego personelu (w tym personelu kontroli jakości, personelu technicznego i sprzątającego) i prowadzić kontrole zgodnie z zasadami Zarządzania Ryzykiem Jakości. Co do zasady personel nie może przechodzić z obszaru, gdzie jest narażony na działanie mikroorganizmów żywych, GMO, toksyn lub zwierząt, do obszaru, w którym pracuje się z innymi produktami, produktami inaktywowanymi lub innymi organizmami. Jeżeli jednak przejście z jednego obszaru do drugiego jest nieuniknione, należy zastosować środki kontroli zanieczyszczenia oparte na zasadach Zarządzania Ryzykiem Jakości. Pomieszczenia i wyposażenie
 5.
 Elementem strategii kontroli jest dostosowanie poziomu kontroli środowiska produkcyjnego w zakresie zanieczyszczeń mechanicznych i mikrobiologicznych odpowiednio do wytwarzanej substancji czynnej, produktu pośredniego lub produktu końcowego oraz do etapu produkcji, z uwzględnieniem potencjalnego poziomu zanieczyszczenia materiałów wyjściowych i ryzyka związanego z produktem. Program monitoringu środowiska powinien zostać uzupełniony o metody wykrywania obecności określonych mikroorganizmów (żywiciela, drożdży, pleśni, beztlenowców itd.), zgodnie ze wskazaniami procesu Zarządzania Ryzykiem Jakości.
 6.
@@ -199,15 +193,13 @@ Filtry powietrza powinny być hydrofobowe i walidowane w całym okresie użytkow
 17.
 Systemy odwadniania muszą być zaprojektowane w sposób pozwalający na skuteczną neutralizację lub odkażenie ścieków w celu minimalizacji ryzyka wystąpienia zanieczyszczenia krzyżowego. Muszą być przestrzegane przepisy ochrony środowiska w celu redukcji ryzyka zanieczyszczenia środowiska zewnętrznego, które to ryzyko jest związane z zagrożeniem biologicznym wynikającym z charakteru odpadów.
 18.
-Z uwagi na zmienność produktów biologicznych lub procesów wytwórczych istotne lub krytyczne surowce (takie jak pożywki i bufory) muszą być mierzone lub ważone w trakcie procesu produkcyjnego. W takich przypadkach niewielkie zapasy tych surowców mogą być przechowywane w obszarze produkcji przez określony czas w oparciu o określone kryteria, takie jak czas trwania produkcji serii lub kampanii.
-Zwierzęta
+Z uwagi na zmienność produktów biologicznych lub procesów wytwórczych istotne lub krytyczne surowce (takie jak pożywki i bufory) muszą być mierzone lub ważone w trakcie procesu produkcyjnego. W takich przypadkach niewielkie zapasy tych surowców mogą być przechowywane w obszarze produkcji przez określony czas w oparciu o określone kryteria, takie jak czas trwania produkcji serii lub kampanii. Zwierzęta
 19.
 W procesie wytwarzania biologicznych produktów leczniczych wykorzystuje się wiele gatunków zwierząt. Zwierzęta te można podzielić na dwie ogólne grupy źródłowe:
 a)
 grupy żywe, stada, gromady: przykłady to szczepionka przeciwko polio (małpy), surowice odpornościowe przeciwko jadom węży i tężcowi (konie, owce i kozy), alergeny (koty), szczepionka przeciwko wściekliźnie (króliki, myszy i chomiki), produkty transgeniczne (kozy, bydło),
 b)
-tkanki i komórki zwierzęce uzyskane pośmiertnie oraz w takich obiektach, jak ubojnie: przykłady to enzymy, antykoagulanty i hormony pochodzące z ubojni (owce i świnie).
-Ponadto zwierzęta mogą być wykorzystywane w kontroli jakości zarówno w ogólnych badaniach: na przykład obecność pirogenów, jak i specyficznych badaniach aktywności: na przykład szczepionka przeciwko krztuścowi (myszy), obecności pirogenów (króliki) i szczepionka przeciwgruźlicza BCG (kawia domowa).
+tkanki i komórki zwierzęce uzyskane pośmiertnie oraz w takich obiektach, jak ubojnie: przykłady to enzymy, antykoagulanty i hormony pochodzące z ubojni (owce i świnie). Ponadto zwierzęta mogą być wykorzystywane w kontroli jakości zarówno w ogólnych badaniach: na przykład obecność pirogenów, jak i specyficznych badaniach aktywności: na przykład szczepionka przeciwko krztuścowi (myszy), obecności pirogenów (króliki) i szczepionka przeciwgruźlicza BCG (kawia domowa).
 20.
 Poza zapewnieniem zgodności z przepisami dotyczącymi zwalczania TSE, w ramach ciągłych programów zdrowotnych, są monitorowane i rejestrowane również inne czynniki przypadkowe (choroby odzwierzęce, choroby zwierząt źródłowych). W celu opracowania takich programów należy zasięgnąć porady eksperta. Przypadki wystąpienia złego stanu zdrowia zwierząt źródłowych lub dawców są badane pod kątem możliwości dalszego wykorzystywania chorych zwierząt oraz zwierząt mających kontakt ze zwierzętami chorymi (w procesie wytwarzania jako źródło materiałów wyjściowych i surowców, w kontroli jakości i badaniach bezpieczeństwa). Podejmowane decyzje muszą być dokumentowane. Należy opracować procedurę wstecznej identyfikacji (udokumentowaną procedurę pozwalającą na śledzenie historii biologicznych substancji leczniczych lub produktów, na które może niekorzystnie wpłynąć użycie lub włączenie materiałów zwierzęcych lub ludzkich, w przypadku gdy te materiały uzyskały negatywne wyniki badań zwolnieniowych ze względu na obecność czynnika(-ków) zanieczyszczających lub w przypadku wystąpienia niepokojących objawów u dawcy zwierzęcego lub ludzkiego), która pozwoli uzyskać informacje niezbędne do podjęcia decyzji dotyczącej odpowiedniości biologicznej substancji czynnej lub produktu leczniczego, do których produkcji wykorzystano materiały wyjściowe lub surowce pochodzenia zwierzęcego. Proces podejmowania decyzji może obejmować ponowne przeprowadzenie badań przechowywanych prób z poprzedniego poboru pochodzących od tego samego dawcy zwierzęcego (jeżeli jest to właściwe) w celu określenia ostatniej negatywnej donacji. Okres karencji czynników terapeutycznych stosowanych w procesie leczenia zwierzęcia lub dawcy zwierzęcego musi być udokumentowany, a na jego podstawie należy ustalić okresy, na jakie zwierzęta zostaną usunięte z programu.
 21.
@@ -219,20 +211,17 @@ Należy przestrzegać przepisów ustawy z dnia 15 stycznia 2015 r. o ochronie zw
 24.
 Kluczowe kryteria dla różnych gatunków zwierząt powinny być zdefiniowane, monitorowane i rejestrowane. Kryteria te mogą obejmować wiek, wagę i stan zdrowia zwierzęcia.
 25.
-Zwierzęta, czynniki biologiczne oraz wykonywane badania są objęte systemem identyfikacji w celu uniknięcia pomyłek oraz w celu kontroli zidentyfikowanych zagrożeń.
-Dokumentacja
+Zwierzęta, czynniki biologiczne oraz wykonywane badania są objęte systemem identyfikacji w celu uniknięcia pomyłek oraz w celu kontroli zidentyfikowanych zagrożeń. Dokumentacja
 26.
 Materiały wyjściowe i surowce mogą wymagać dodatkowej dokumentacji dotyczącej źródła, pochodzenia, łańcucha dystrybucji, metody wytwarzania i stosowanej kontroli w celu zapewnienia odpowiedniego poziomu kontroli, w tym kontroli jakości mikrobiologicznej.
 27.
 Niektóre rodzaje produktów wymagają zdefiniowania materiałów stanowiących serię, w szczególności komórki. W przypadku przeszczepów autologicznych oraz zgodnego dawcy wytworzony produkt jest traktowany jak seria.
 28.
-Jeżeli wykorzystywane są komórki lub tkanki pochodzenia ludzkiego, wymagana jest pełna identyfikowalność wszystkich substancji, które miały styczność z komórkami lub tkankami, począwszy od materiałów wyjściowych i surowców po potwierdzenie otrzymania produktów w miejscu ich wykorzystywania, przy zachowaniu ochrony danych osobowych i poufności informacji dotyczących zdrowia. Dane umożliwiające identyfikowalność są przechowywane przez okres 30 lat po upływie daty ważności produktu leczniczego. Należy zwrócić szczególną uwagę na zachowanie możliwości identyfikowalności produktów leczniczych o specjalnym przeznaczeniu, np. komórek od zgodnego dawcy. W zakresie składników krwi, które są wykorzystywane w procesie wytwarzania produktów leczniczych jako materiały wyjściowe, zastosowanie mają przepisy dotyczące identyfikowalności krwi oraz powiadamiania o poważnych, niepożądanych reakcjach i zdarzeniach.
-Produkcja
+Jeżeli wykorzystywane są komórki lub tkanki pochodzenia ludzkiego, wymagana jest pełna identyfikowalność wszystkich substancji, które miały styczność z komórkami lub tkankami, począwszy od materiałów wyjściowych i surowców po potwierdzenie otrzymania produktów w miejscu ich wykorzystywania, przy zachowaniu ochrony danych osobowych i poufności informacji dotyczących zdrowia. Dane umożliwiające identyfikowalność są przechowywane przez okres 30 lat po upływie daty ważności produktu leczniczego. Należy zwrócić szczególną uwagę na zachowanie możliwości identyfikowalności produktów leczniczych o specjalnym przeznaczeniu, np. komórek od zgodnego dawcy. W zakresie składników krwi, które są wykorzystywane w procesie wytwarzania produktów leczniczych jako materiały wyjściowe, zastosowanie mają przepisy dotyczące identyfikowalności krwi oraz powiadamiania o poważnych, niepożądanych reakcjach i zdarzeniach. Produkcja
 29.
 Mając na uwadze dziedziczną zmienność charakteryzującą wiele biologicznych substancji czynnych i produktów leczniczych, podczas Przeglądu Jakości Produktu są oceniane działania mające na celu zwiększenie odporności procesu na zmiany i tym samym zmniejszenie zmienności procesu i zwiększenie odtwarzalności na różnych etapach życia produktu, jak np. projektowania procesu.
 30.
-Ponieważ warunki hodowli, podłoża oraz odczynniki przyczyniają się do wzrostu komórek i organizmów mikrobiologicznych zwykle w przypadku kultury aksenicznej, tj. takiej, która nie zawiera niepożądanych organizmów, w strategii kontroli zwraca się szczególną uwagę na zapobieganie lub minimalizację wystąpienia nieoczekiwanego obciążenia biologicznego i związanych z nim metabolitów oraz endotoksyn. W przypadku produktów leczniczych opartych na komórkach i tkankach, gdzie serie produkcyjne są często niewielkie, ryzyko wystąpienia zanieczyszczenia krzyżowego między przygotowanymi komórkami pochodzącymi od różnych dawców o różnym stanie zdrowia powinno być kontrolowane zgodnie z określonymi procedurami i wymaganiami.
-Materiały wyjściowe i surowce
+Ponieważ warunki hodowli, podłoża oraz odczynniki przyczyniają się do wzrostu komórek i organizmów mikrobiologicznych zwykle w przypadku kultury aksenicznej, tj. takiej, która nie zawiera niepożądanych organizmów, w strategii kontroli zwraca się szczególną uwagę na zapobieganie lub minimalizację wystąpienia nieoczekiwanego obciążenia biologicznego i związanych z nim metabolitów oraz endotoksyn. W przypadku produktów leczniczych opartych na komórkach i tkankach, gdzie serie produkcyjne są często niewielkie, ryzyko wystąpienia zanieczyszczenia krzyżowego między przygotowanymi komórkami pochodzącymi od różnych dawców o różnym stanie zdrowia powinno być kontrolowane zgodnie z określonymi procedurami i wymaganiami. Materiały wyjściowe i surowce
 31.
 Źródło, pochodzenie i przydatność biologicznych materiałów wyjściowych i surowców (np. krio-protektantów, komórek odżywczych, odczynników, pożywek, buforów, surowic, enzymów, cytokin, czynników wzrostu) jest jasno określone. W przypadku gdy niezbędne badania są długotrwałe, dopuszcza się rozpoczęcie procesu produkcyjnego przed uzyskaniem wyników badań, a ryzyko wykorzystania potencjalnie wadliwych materiałów i ich ewentualny wpływ na inne serie powinny być dokładnie poznane i poddane ocenie zgodnie z zasadami Zarządzania Ryzykiem Jakości. W takich przypadkach zwolnienie produktu końcowego jest uzależnione od uzyskania zadowalających wyników badań. Identyfikacja wszystkich materiałów wyjściowych jest zgodna z wymaganiami stawianymi na danym etapie wytwarzania. Dalsze wymagania dla biologicznych produktów leczniczych przedstawiono w załączniku nr 2 do rozporządzenia oraz Aneksie 8 do niniejszego załącznika, natomiast dla biologicznych substancji czynnych – w załączniku nr 3 do rozporządzenia.
 32.
@@ -262,8 +251,7 @@ strony odpowiedzialne (np. wytwórcy, banki tkanek i komórek, sponsorzy, podmio
 37.
 Dodatkowe wymagania dla materiałów wyjściowych i surowców stosowanych do wytwarzania biologicznych substancji czynnych zostały opisane w załączniku nr 3 do rozporządzenia.
 38.
-Jeżeli w procesie wytwarzania funkcję komórek odżywczych pełnią komórki ludzkie lub zwierzęce, należy wprowadzić odpowiednie kontrole źródła, badania, transportu i przechowywania, w tym kontrolę zgodności ze standardami oddawania, pobierania i badania równoważnymi z tymi, które zostały określone w przepisach dyrektywy 2004/23/WE.
-Seria siewna i system bankowania komórek
+Jeżeli w procesie wytwarzania funkcję komórek odżywczych pełnią komórki ludzkie lub zwierzęce, należy wprowadzić odpowiednie kontrole źródła, badania, transportu i przechowywania, w tym kontrolę zgodności ze standardami oddawania, pobierania i badania równoważnymi z tymi, które zostały określone w przepisach dyrektywy 2004/23/WE. Seria siewna i system bankowania komórek
 39.
 W celu zapobiegania niepożądanym zmianom właściwości mogącym wynikać z wielokrotnych hodowli i powielania pokoleń, produkcja biologicznych substancji czynnych i biologicznych produktów leczniczych uzyskiwanych z hodowli drobnoustrojów, hodowli komórek lub namnażania w zarodkach i w zwierzętach jest oparta na systemie macierzystych i roboczych serii siewnych lub systemie zbankowanych komórek.
 40.
@@ -279,8 +267,7 @@ Pojemniki do przechowywania powinny być uszczelnione, opatrzone wyraźnymi etyk
 46.
 Zaleca się rozdzielanie materiałów (serii siewnych i banków komórek) i przechowywanie uzyskanych w ten sposób części w różnych miejscach w celu zminimalizowania ryzyka całkowitej utraty materiałów. Kontrole prowadzone w takich lokalizacjach zapewniają spełnienie wymagań określonych w powyższych punktach.
 47.
-Warunki przechowywania i przetwarzania materiałów (serii siewnych i banków komórek) podlegają tym samym procedurom i parametrom. Jeżeli jakiś pojemnik zostanie usunięty z systemu zarządzania serią siewną lub zbankowanymi komórkami, nie może on ponownie zostać dołączony do zapasów.
-Zasady postępowania
+Warunki przechowywania i przetwarzania materiałów (serii siewnych i banków komórek) podlegają tym samym procedurom i parametrom. Jeżeli jakiś pojemnik zostanie usunięty z systemu zarządzania serią siewną lub zbankowanymi komórkami, nie może on ponownie zostać dołączony do zapasów. Zasady postępowania
 48.
 Zarządzanie zmianami powinno okresowo uwzględnić wpływ zmian, w tym skutki skumulowanych zmian (np. modyfikacji procesu), na jakość, bezpieczeństwo i skuteczność produktu końcowego.
 49.
@@ -316,8 +303,7 @@ Należy zwracać szczególną uwagę na przygotowanie, drukowanie, przechowywani
 64.
 Należy potwierdzić wytrzymałość etykiet na bardzo niskie temperatury, jeżeli takie są stosowane.
 65.
-Jeżeli informacje o zdrowiu dawcy (ludzkiego bądź zwierzęcego) zostaną udostępnione po pobraniu, a mają wpływ na jakość produktu, powinny zostać uwzględnione w procedurze wycofania.
-Kontrola Jakości
+Jeżeli informacje o zdrowiu dawcy (ludzkiego bądź zwierzęcego) zostaną udostępnione po pobraniu, a mają wpływ na jakość produktu, powinny zostać uwzględnione w procedurze wycofania. Kontrola Jakości
 66.
 Kontrole w trakcie procesu mają większe znaczenie w zakresie zapewniania powtarzalnej jakości biologicznych substancji czynnych i produktów leczniczych niż w przypadku produktów tradycyjnych. Kontrole w trakcie procesu są wykonywane na odpowiednich etapach produkcji tak, aby warunki mające wpływ na jakość produktu końcowego były kontrolowane.
 67.
@@ -332,7 +318,8 @@ a)
 ocena zapisów wytwarzania serii, wyników monitoringu środowiska wytwarzania obejmującego warunki produkcji, jeżeli są dostępne, wszystkich odchyleń od standardowych procedur oraz dostępne wyniki analityczne do przeglądu wykonana przez wyznaczoną osobę lub wyznaczone osoby w ramach przygotowań do wstępnej certyfikacji przez Osobę Wykwalifikowaną,
 b)
 ocena końcowych badań analitycznych i innych dostępnych informacji w celu końcowej certyfikacji przez Osobę Wykwalifikowaną. Jest opracowana procedura opisująca działania (w tym współpracę z personelem medycznym), które należy podjąć w przypadku uzyskania wyników poza specyfikacją. Tego typu zdarzenia są w pełni zbadane oraz są podjęte i udokumentowane właściwe działania korygujące i zapobiegawcze w celu uniknięcia takich zdarzeń w przyszłości.
-Część B. SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE WYBRANYCH RODZAJÓW PRODUKTÓW
+Część B.
+SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE WYBRANYCH RODZAJÓW PRODUKTÓW
 B1.
 PRODUKTY POCHODZENIA ZWIERZĘCEGO (patrz także wymagania Farmakopei Europejskiej, monografia 0333) Niniejsza część ma zastosowanie do materiałów pochodzenia zwierzęcego, w tym materiałów uzyskanych w takich obiektach jak ubojnie. Z uwagi na to, że łańcuchy dostaw mogą być obszerne i złożone, stosowany jest nadzór oparty na zasadach Zarządzania Ryzykiem Jakości. Ponadto są przestrzegane wymagania monografii Farmakopei Europejskiej, z uwzględnieniem potrzeby przeprowadzenia specyficznych badań na określonych etapach. Zapewnia się dostępność dokumentacji umożliwiającej prześledzenie łańcucha dostaw (rozdział 5 załącznika nr 2 do rozporządzenia) oraz określającej jasny podział ról jednostek tworzących taki łańcuch, zazwyczaj z uwzględnieniem odpowiednio szczegółowego i aktualnego schematu procesu.
 1.
@@ -514,8 +501,7 @@ stosowanie praktyk i procedur podnoszących świadomość istotności higieny pe
 5)
 odpowiednie specyfikacje mikrobiologiczne dla materiałów wyjściowych, produktów pośrednich i materiałów pomocniczych, np. gazów.
 4.11.
-W przypadku roztworów lub inaczej niestabilnych mikrobiologicznie produktów przedział czasowy między rozpuszczaniem materiałów wyjściowych, filtracją roztworu produktu i sterylizacją powinien być określony w celu zminimalizowania wzrostu obciążenia biologicznego i wzrostu zawartości endotoksyn, jeżeli dotyczy.
-Proces sterylizacji
+W przypadku roztworów lub inaczej niestabilnych mikrobiologicznie produktów przedział czasowy między rozpuszczaniem materiałów wyjściowych, filtracją roztworu produktu i sterylizacją powinien być określony w celu zminimalizowania wzrostu obciążenia biologicznego i wzrostu zawartości endotoksyn, jeżeli dotyczy. Proces sterylizacji
 4.12.
 Kwalifikacja i walidacja są działaniami krytycznymi zapewniającymi, że sterylizator może niezmiennie osiągać parametry operacyjne cyklu, a urządzenia monitorujące zapewniają weryfikację procesu sterylizacji.
 4.13.
@@ -597,8 +583,7 @@ zamówienie na badany produkt leczniczy – dokument zawierający wniosek sponso
 31)
 znacząca manipulacja – poddanie komórek lub tkanek zmianom innym niż określone w załączniku I do rozporządzenia (WE) nr 1394/2007 Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. w sprawie produktów leczniczych terapii zaawansowanej i zmieniającego dyrektywę 2001/83/WE oraz rozporządzenie (WE) nr 726/2004, mającym na celu ich regenerację, naprawę lub zamianę i powodującym, że zmianie uległy cechy biologiczne, czynności fizjologiczne lub cechy strukturalne komórek lub tkanek;
 32)
-zwierzęta źródłowe – zwierzęta, z których pierwotnie wyhodowano źródło lub dawcę zwierzęcego.
-Zakres
+zwierzęta źródłowe – zwierzęta, z których pierwotnie wyhodowano źródło lub dawcę zwierzęcego. Zakres
 1.10.
 Zgodność z Dobrą Praktyką Wytwarzania jest obowiązkowa dla wszystkich produktów leczniczych posiadających pozwolenie na dopuszczenie do obrotu. Wytwarzanie badanych produktów leczniczych musi być również zgodne z wymaganiami Dobrej Praktyki Wytwarzania określonymi w Aneksie 13 załącznika nr 5 do niniejszego rozporządzenia. Produkty lecznicze terapii zaawansowanej – wyjątki szpitalne muszą być wytwarzane zgodnie ze standardami jakości równoważnymi standardom wytwarzania produktów leczniczych terapii zaawansowanej posiadających pozwolenie na dopuszczenie do obrotu.
 1.11.
@@ -610,8 +595,7 @@ Skrót „ATMP” stosowany w niniejszym załączniku odnosi się do ATMP, któr
 1.14.
 Żaden przepis niniejszego załącznika (z uwzględnieniem podejścia bazującego na ocenie ryzyka) nie może być nadrzędny nad warunkami określonymi w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badania klinicznego. Nie dotyczy to drobnych zmian, które mogą zostać wprowadzone do dokumentacji badanego produktu leczniczego bez uprzedniej zgody właściwych organów (na podstawie rozporządzenia nr 536/2014). W całości niniejszego dokumentu określenie „pozwolenie na badanie kliniczne” obejmuje również te drobne zmiany wprowadzone do dokumentacji badanego produktu leczniczego ATMP.
 1.15.
-Niniejszy załącznik opisuje wymagania, które nie ograniczają stosowania nowych technologii, gdyż wytwórcy mogą stosować alternatywne podejście, jeżeli wykażą, że stosując alternatywne rozwiązanie, są w stanie osiągnąć ten sam cel. Każde zastosowane alternatywne rozwiązanie musi zapewnić bezpieczeństwo, skuteczność, jakość i identyfikowalność produktu. Istotne jest, aby było to zgodne z warunkami określonymi w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badania klinicznego.
-Rola podmiotu odpowiedzialnego i sponsora
+Niniejszy załącznik opisuje wymagania, które nie ograniczają stosowania nowych technologii, gdyż wytwórcy mogą stosować alternatywne podejście, jeżeli wykażą, że stosując alternatywne rozwiązanie, są w stanie osiągnąć ten sam cel. Każde zastosowane alternatywne rozwiązanie musi zapewnić bezpieczeństwo, skuteczność, jakość i identyfikowalność produktu. Istotne jest, aby było to zgodne z warunkami określonymi w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badania klinicznego. Rola podmiotu odpowiedzialnego i sponsora
 1.16.
 Niezbędna jest współpraca między wytwórcą i podmiotem odpowiedzialnym lub, w przypadku badanych ATMP, wytwórcą i sponsorem w celu przestrzegania przez wytwórcę wymagań Dobrej Praktyki Wytwarzania.
 1.17.
@@ -621,11 +605,9 @@ Ważne jest, aby podmiot odpowiedzialny lub sponsor niezwłocznie przekazywał w
 1.19.
 Wytwórcy powinni przekazywać podmiotowi odpowiedzialnemu lub sponsorowi każdą informację uzyskaną w ramach działalności wytwórczej, która jest istotna dla jakości, bezpieczeństwa lub skuteczności danego produktu leczniczego.
 1.20.
-Obowiązki podmiotu odpowiedzialnego lub sponsora i wytwórcy względem siebie powinny być ustalone w formie pisemnej. W przypadku badanych ATMP umowa między sponsorem a wytwórcą powinna w szczególności dotyczyć udostępniania raportów z inspekcji oraz wymiany informacji dotyczących zagadnień jakościowych.
-Zasady ogólne
+Obowiązki podmiotu odpowiedzialnego lub sponsora i wytwórcy względem siebie powinny być ustalone w formie pisemnej. W przypadku badanych ATMP umowa między sponsorem a wytwórcą powinna w szczególności dotyczyć udostępniania raportów z inspekcji oraz wymiany informacji dotyczących zagadnień jakościowych. Zasady ogólne
 1.21.
-Jakość odgrywa główną rolę w zapewnieniu bezpieczeństwa i skuteczności ATMP. Wytwórca ATMP jest odpowiedzialny za zapewnienie, że zostały wprowadzone w życie odpowiednie środki w celu ochrony jakości produktu, zwane dalej „Farmaceutycznym System Jakości”.
-Farmaceutyczny System Jakości
+Jakość odgrywa główną rolę w zapewnieniu bezpieczeństwa i skuteczności ATMP. Wytwórca ATMP jest odpowiedzialny za zapewnienie, że zostały wprowadzone w życie odpowiednie środki w celu ochrony jakości produktu, zwane dalej „Farmaceutycznym System Jakości”. Farmaceutyczny System Jakości
 1.22.
 Farmaceutyczny System Jakości oznacza całokształt ustaleń poczynionych w celu zapewnienia, że produkty lecznicze mają jakość odpowiednią do ich przewidzianego zastosowania.
 1.23.
@@ -653,15 +635,13 @@ Ważna jest ciągła ocena skuteczności systemu zapewniania jakości. Wyniki dl
 1.26.
 W przypadku zarejestrowanych ATMP co roku powinny być przeprowadzane przeglądy jakości w celu sprawdzenia odpowiedniości i spójności istniejących procesów i sygnalizowania ewentualnych trendów oraz określenia możliwości udoskonalenia produktu lub procesu. Zakres przeglądu jakości powinien być uzależniony od ilości wytworzonych produktów i wprowadzonych zmian w procesie wytwarzania (przegląd jakości musi być szerszy w przypadku, gdy wytworzono większą ilość produktu lub większą liczbę serii produktu niż w przypadku małej ilości produktu lub małej liczby serii produktów; przegląd jakości powinien być szerszy w przypadku wprowadzenia zmian w procesie wytwarzania w danym okresie, niż gdy nie dokonano żadnych zmian). Przeglądy jakości mogą być pogrupowane według rodzaju produktu, w przypadku gdy jest to naukowo uzasadnione.
 1.27.
-Wytwórca oraz podmiot odpowiedzialny powinni ocenić wyniki przeglądu jakości i ocenić, czy są wymagane działania korygujące lub zapobiegawcze.
-Podejście oparte na analizie ryzyka – wprowadzenie
+Wytwórca oraz podmiot odpowiedzialny powinni ocenić wyniki przeglądu jakości i ocenić, czy są wymagane działania korygujące lub zapobiegawcze. Podejście oparte na analizie ryzyka – wprowadzenie
 2.10.
 ATMP są produktami złożonymi i ryzyka mogą się różnić w zależności od rodzaju produktu, charakterystyki lub właściwości materiału wyjściowego oraz poziomu złożoności procesu wytwarzania. Produkt końcowy może posiadać pewien stopień zróżnicowania wynikający z wykorzystania materiałów biologicznych lub etapów złożonych manipulacji (np. hodowli komórek, manipulacji, które zmieniają funkcje komórek). Ponadto wytwarzanie i badanie autologicznych ATMP (i produktów alogenicznych pobieranych od zgodnego dawcy) stwarza szczególne wyzwania, więc strategie wdrożone w celu zapewnienia wysokiego poziomu jakości muszą być dostosowane do ograniczeń procesu wytwarzania, wielkości serii i zmienności materiału wyjściowego.
 2.11.
 ATMP mogą być opracowywane w instytucjach badawczych lub w szpitalach, które działają w ramach systemów jakości innych niż typowe systemy wymagane do wytwarzania innych produktów leczniczych. Wpływ na procesy wytwarzania ATMP mogą mieć szybko zachodzące zmiany technologiczne powodujące, że ATMP odgrywają wiodącą rolę w dziedzinie innowacji naukowych. Mogą pojawiać się nowe modele produkcji skierowane do specyficznych ATMP, np. wytwarzanie produktów autologicznych w wielu miejscach wytwarzania.
 2.12.
-Ocenę spełnienia wymagań Dobrej Praktyki Wytwarzania dla ATMP charakteryzuje elastyczne podejście zapewniające, że wytwórca takich produktów może wdrożyć środki, które są najbardziej odpowiednie w odniesieniu do specyficznych właściwości procesu wytwarzania i produktu. Możliwe jest stosowanie równoważnych metod w przypadku badanych ATMP, wynikające z nabywania doświadczeń (w celu dostosowywania procesu wytwarzania w wyniku zwiększania wiedzy na temat produktu), w szczególności podczas wczesnych etapów badań klinicznych (fazy I i fazy I/II), podczas których brak jest jeszcze pełnej wiedzy na temat produktu (np. mocy produktu leczniczego).
-Stosowanie podejścia opartego na analizie ryzyka przez wytwórców ATMP
+Ocenę spełnienia wymagań Dobrej Praktyki Wytwarzania dla ATMP charakteryzuje elastyczne podejście zapewniające, że wytwórca takich produktów może wdrożyć środki, które są najbardziej odpowiednie w odniesieniu do specyficznych właściwości procesu wytwarzania i produktu. Możliwe jest stosowanie równoważnych metod w przypadku badanych ATMP, wynikające z nabywania doświadczeń (w celu dostosowywania procesu wytwarzania w wyniku zwiększania wiedzy na temat produktu), w szczególności podczas wczesnych etapów badań klinicznych (fazy I i fazy I/II), podczas których brak jest jeszcze pełnej wiedzy na temat produktu (np. mocy produktu leczniczego). Stosowanie podejścia opartego na analizie ryzyka przez wytwórców ATMP
 2.13.
 Podejście oparte na analizie ryzyka ma zastosowanie do wszystkich rodzajów ATMP. Ma ono zastosowanie w jednakowy sposób we wszystkich miejscach wytwarzania. Jakość, bezpieczeństwo i skuteczność ATMP i zgodność z Dobrą Praktyką Wytwarzania powinny być zapewnione dla wszystkich ATMP, niezależnie od tego, czy są opracowywane w szpitalu, jednostce badawczej lub u przedsiębiorcy.
 2.14.
@@ -675,8 +655,7 @@ Ocena ryzyka i skuteczności środków kontroli i redukcji ryzyka powinna być o
 2.18.
 Poziom zaangażowanych środków i dokumentacja powinny być współmierne do poziomu ryzyka. Zastosowanie formalnej procedury zarządzania ryzykiem (przy użyciu uznanych narzędzi lub wewnętrznych procedur, np. Standardowych Procedur Operacyjnych) nie zawsze jest właściwe albo konieczne. Wykorzystanie nieformalnych procesów zarządzania ryzykiem (wykorzystujących narzędzia empiryczne lub procedury wewnętrzne) może być dopuszczalne.
 2.19.
-Zastosowanie podejścia opartego na ocenie ryzyka może ułatwić zgodność z wymaganiami, ale nie zwalnia wytwórcy z obowiązku zapewnienia zgodności z odpowiednimi wymaganiami regulacyjnymi i wykazania, że jest w stanie odpowiednio zarządzać ryzykiem dla produktu lub procesu wytwarzania. Nie zastępuje to właściwej komunikacji z organami kompetentnymi.
-Badane ATMP
+Zastosowanie podejścia opartego na ocenie ryzyka może ułatwić zgodność z wymaganiami, ale nie zwalnia wytwórcy z obowiązku zapewnienia zgodności z odpowiednimi wymaganiami regulacyjnymi i wykazania, że jest w stanie odpowiednio zarządzać ryzykiem dla produktu lub procesu wytwarzania. Nie zastępuje to właściwej komunikacji z organami kompetentnymi. Badane ATMP
 2.20.
 Stosowanie wymagań Dobrej Praktyki Wytwarzania badanych ATMP ma na celu ochronę uczestników badań klinicznych i jest ważne dla wiarygodności wyników badania klinicznego, w szczególności przez zapewnienie powtarzalności produktu, która powoduje, że na badania kliniczne nie wpływa niewłaściwe wytwarzanie oraz że zmiany podczas rozwoju są odpowiednio udokumentowane.
 2.21.
@@ -686,15 +665,13 @@ Od wczesnych etapów rozwoju muszą być zapewnione jakość i bezpieczeństwo p
 2.23.
 Podczas gdy odpowiedzialność za stosowanie podejścia opartego na analizie ryzyka spoczywa na wytwórcy, zachęca się, aby zwracać się o opinię do organów kompetentnych w związku z wdrożeniem podejścia opartego na analizie ryzyka w odniesieniu do badanych ATMP, w szczególności na wczesnych etapach badań klinicznych. Stosowanie podejścia opartego na analizie ryzyka powinno być spójne z warunkami pozwolenia na prowadzenie badania klinicznego. W przypadku gdy wytwórca stosuje podejście oparte na analizie ryzyka, to opis procesów wytwarzania i kontroli przedstawionych we wniosku o pozwolenie na prowadzenie badania klinicznego powinien wyjaśnić, jeżeli dotyczy, strategię jakości wytwórcy.
 2.24.
-W odniesieniu do aspektów, które nie są objęte pozwoleniem na prowadzenie badania klinicznego, to na wytwórcy spoczywa obowiązek udokumentowania zastosowanego podejścia i uzasadnienie, że całokształt wdrożonych środków jest odpowiedni do zapewnienia jakości produktu. W tym względzie należy zaznaczyć, że alternatywne podejścia do wymagań określonych w niniejszym załączniku są dopuszczalne tylko wówczas, gdy są w stanie osiągnąć ten sam cel.
-Zarejestrowane ATMP
+W odniesieniu do aspektów, które nie są objęte pozwoleniem na prowadzenie badania klinicznego, to na wytwórcy spoczywa obowiązek udokumentowania zastosowanego podejścia i uzasadnienie, że całokształt wdrożonych środków jest odpowiedni do zapewnienia jakości produktu. W tym względzie należy zaznaczyć, że alternatywne podejścia do wymagań określonych w niniejszym załączniku są dopuszczalne tylko wówczas, gdy są w stanie osiągnąć ten sam cel. Zarejestrowane ATMP
 2.25.
 W odniesieniu do zarejestrowanych ATMP stosowanie podejścia opartego na analizie ryzyka powinno być zgodne z warunkami pozwolenia na dopuszczenie do obrotu. W przypadku umieszczania we wniosku o dopuszczenie do obrotu lub, w stosownych przypadkach, w związku ze zgłoszeniem zmiany opisu procesu wytwarzania i procesu kontroli można brać pod uwagę szczególne cechy produktu lub procesu wytwarzania celem uzasadnienia dostosowania lub odchylenia od standardowych wymagań. W związku z powyższym w procedurze pozwolenia na dopuszczenie do obrotu należy uzgodnić, że częścią pozwolenia na dopuszczenie do obrotu jest strategia mająca na celu rozwiązanie szczególnych ograniczeń, które mogą istnieć w powiązaniu z procesem wytwarzania, w tym kontroli surowców i materiałów wyjściowych, obszarów produkcyjnych i sprzętu, badań i kryteriów akceptacji, walidacji procesowej, specyfikacji do zwolnienia do obrotu lub danych dotyczących stabilności.
 2.26.
 W odniesieniu do aspektów, które nie są objęte pozwoleniem na dopuszczenie do obrotu, to na wytwórcy spoczywa obowiązek udokumentowania powodów zastosowanego podejścia, w przypadku gdy stosuje się podejście oparte na analizie ryzyka, i uzasadnienie, że całokształt zastosowanych środków jest odpowiedni do zapewnienia jakości produktu. W tym względzie należy zaznaczyć, że alternatywne podejścia do wymagań określonych w niniejszym załączniku są dopuszczalne tylko wówczas, gdy są w stanie osiągnąć ten sam cel. Przykłady stosowania podejścia opartego na analizie ryzyka
 2.27.
-Podejście oparte na analizie ryzyka pozwala na stosowanie wielu strategii. Poniżej znajduje się lista przykładowych strategii w celu zilustrowania niektórych możliwości i ograniczeń podejścia opartego na analizie ryzyka.
-Podejście oparte na ryzyku w odniesieniu do surowców
+Podejście oparte na analizie ryzyka pozwala na stosowanie wielu strategii. Poniżej znajduje się lista przykładowych strategii w celu zilustrowania niektórych możliwości i ograniczeń podejścia opartego na analizie ryzyka. Podejście oparte na ryzyku w odniesieniu do surowców
 2.28.
 Stosując podejścia oparte na analizie ryzyka, należy zapewniać odpowiednią jakość surowca, zgodnie z pkt 7.12–7.31.
 2.29.
@@ -702,8 +679,7 @@ Stosowanie podejścia opartego na analizie ryzyka wymaga od wytwórcy dobrego zr
 2.30.
 Ponadto ważne jest, aby uwzględniać poziom ryzyka surowca wynikający z jego swoistych właściwości (np. czynniki wzrostu względem podstawowych mediów, pożywki zawierające cytokininy względem pożywek bez cytokin, surowce pochodzenia zwierzęcego względem autologicznego osocza) lub jego wykorzystania w procesie wytwarzania (jest wyższe ryzyko, gdy surowiec kontaktuje się z materiałem wyjściowym).
 2.31.
-Należy ocenić, czy strategia kontroli (np. system kwalifikacji dostawców, wyniki odpowiednich badań funkcjonalnych) jest wystarczająca do wyeliminowania ryzyka lub do ograniczenia go do dopuszczalnego poziomu.
-Podejście oparte na analizie ryzyka w odniesieniu do strategii badań
+Należy ocenić, czy strategia kontroli (np. system kwalifikacji dostawców, wyniki odpowiednich badań funkcjonalnych) jest wystarczająca do wyeliminowania ryzyka lub do ograniczenia go do dopuszczalnego poziomu. Podejście oparte na analizie ryzyka w odniesieniu do strategii badań
 2.32.
 Uznaje się, że w niektórych przypadkach może nie być możliwe przeprowadzenie badania do zwolnienia substancji czynnej lub produktu końcowego, np. z przyczyn technicznych (np. na połączonych składnikach niektórych produktów skojarzonych), ograniczeń czasowych (np. gdy produkt musi być podany natychmiast po zakończeniu produkcji) lub gdy dostępna ilość produktu będzie ograniczona tylko do dawki klinicznej.
 2.33.
@@ -727,8 +703,7 @@ Jeżeli wyniki badania sterylności produktu nie są dostępne przy zwolnieniu p
 2.42.
 Jeśli zawiesina komórek nie jest przejrzysta, dopuszczalne jest zastąpienie badania obecności cząstek stałych badaniem wyglądu (np. koloru) pod warunkiem, że są stosowane inne środki, takie jak kontrolowanie cząstek stałych pochodzących z materiałów (np. filtrowanie roztworów surowców) i urządzeń wykorzystywanych podczas wytwarzania albo weryfikacja zdolności procesów produkcyjnych do wytwarzania produktów o niskim poziomie cząstek na zasymulowanych próbach (bez komórek).
 2.43.
-Może być uzasadnione odstąpienie od programu ciągłego badania stabilności dla produktów o krótkim okresie ważności.
-Dodatkowe uwagi istotne w odniesieniu do ATMP, które nie dotyczą istotnej znaczącej manipulacji
+Może być uzasadnione odstąpienie od programu ciągłego badania stabilności dla produktów o krótkim okresie ważności. Dodatkowe uwagi istotne w odniesieniu do ATMP, które nie dotyczą istotnej znaczącej manipulacji
 2.44.
 Procesy wytwarzania ATMP, które nie obejmują znaczącej manipulacji komórek lub tkanek, zwykle wiążą się z niższym ryzykiem niż wytwarzanie ATMP obejmujące złożone znaczące manipulacje. Nie można jednak wnioskować, że procesy, które nie są kwalifikowane jako znaczące manipulacje, są pozbawione ryzyka, w szczególności jeżeli przetwarzanie komórek pociąga za sobą długie narażenie komórek lub tkanek na ekspozycję na środowisko. W związku z tym analiza ryzyka związana z określonym procesem wytwarzania powinna zostać wykonana w celu określenia środków koniecznych do zapewnienia jakości produktu.
 2.45.
@@ -736,8 +711,7 @@ W celu zmniejszenia obciążeń administracyjnych w zakresie stosowania wymagań
 2.46.
 Istnieją jednak elementy wymagań Dobrej Praktyki Wytwarzania, które mają na celu zapewnienie jakości, bezpieczeństwa i skuteczności ATMP, które nie zostały uwzględnione na mocy innych ram prawnych i w związku z tym wymagania zawarte w niniejszym załączniku należy stosować także podczas procesu wytwarzania, który nie obejmuje znaczących manipulacji. W szczególności wymagania dotyczące charakterystyki produktu (przez ustanowienie odpowiednich specyfikacji), walidacji procesu (oczekiwania dotyczące badanych ATMP są opisane w pkt 10.36–10.47), kontroli jakości (zgodnie z warunkami pozwolenia na dopuszczenie do obrotu lub pozwolenia na badanie kliniczne) i certyfikacji przez Osobę Wykwalifikowaną powinny być przestrzegane.
 2.47.
-ATMP wytwarzane i stosowane w ramach jednego zabiegu chirurgicznego są objęte zakresem stosowania niniejszego rozporządzenia (w tym zapewnienia zgodności z wymaganiami Dobrej Praktyki Wytwarzania).
-Dodatkowe zagadnienia istotne dla badanych ATMP
+ATMP wytwarzane i stosowane w ramach jednego zabiegu chirurgicznego są objęte zakresem stosowania niniejszego rozporządzenia (w tym zapewnienia zgodności z wymaganiami Dobrej Praktyki Wytwarzania). Dodatkowe zagadnienia istotne dla badanych ATMP
 2.48.
 Podczas gdy dodatkowe dostosowania w stosowaniu wymagań Dobrej Praktyki Wytwarzania mogą być uzasadnione w przypadku badanych ATMP, jakość, bezpieczeństwo i identyfikowalność produktu powinny być zapewnione również w kontekście badań klinicznych.
 2.49.
@@ -757,13 +731,11 @@ Poziom formalności i szczegółowości dokumentów może zostać dostosowany do
 2.53.
 Podczas wczesnych faz rozwoju badań klinicznych (badania kliniczne fazy I i I/II) specyfikacje mogą opierać się na szerszych kryteriach akceptacji, uwzględniających aktualną wiedzę o ryzyku, powinny być one zatwierdzone przez organ kompetentny, który wydaje pozwolenie na badanie kliniczne.
 2.54.
-Możliwe sposoby przeprowadzenia kwalifikacji pomieszczeń i urządzeń, walidacji czyszczenia, walidacji procesu i walidacji metod analitycznych opisano w pkt 10.10–10.53.
-Personel – zasady ogólne
+Możliwe sposoby przeprowadzenia kwalifikacji pomieszczeń i urządzeń, walidacji czyszczenia, walidacji procesu i walidacji metod analitycznych opisano w pkt 10.10–10.53. Personel – zasady ogólne
 3.10.
 Wytwórca ATMP zatrudnia odpowiednią liczbę pracowników posiadających odpowiednie kwalifikacje i odpowiednie doświadczenie praktyczne odnoszące się do zamierzonych działań (operacji).
 3.11.
-Cały personel zaangażowany w wytwarzanie lub badanie ATMP zna swoje zadania i odpowiedzialności, w tym posiada wiedzę dotyczącą produktu w zakresie odpowiednim do przydzielonych im zadań.
-Szkolenia
+Cały personel zaangażowany w wytwarzanie lub badanie ATMP zna swoje zadania i odpowiedzialności, w tym posiada wiedzę dotyczącą produktu w zakresie odpowiednim do przydzielonych im zadań. Szkolenia
 3.12.
 Wszystkie osoby zaangażowane w proces wytwarzania przechodzą szkolenia z wymagań Dobrej Praktyki Wytwarzania oraz przechodzą szkolenia wstępne i okresowe odpowiednie do rodzaju wykonywanych przez nich czynności.
 3.13.
@@ -779,8 +751,7 @@ Ponadto są prowadzone odpowiednie szkolenia w celu zapobiegania przenoszenia ch
 3.18.
 Personel odpowiedzialny za czyszczenie i konserwację przechodzi szkolenia odpowiednie do wykonywanych zadań, w szczególności dotyczących środków mających na celu uniknięcie zagrożeń dla produktu i środowiska oraz zagrożenia zdrowia.
 3.19.
-Szkolenia mogą być przeprowadzane wewnętrznie. Skuteczność szkolenia jest okresowo oceniana. Przechowuje się zapisy z prowadzonych szkoleń.
-Higiena
+Szkolenia mogą być przeprowadzane wewnętrznie. Skuteczność szkolenia jest okresowo oceniana. Przechowuje się zapisy z prowadzonych szkoleń. Higiena
 3.20.
 Konieczny jest wysoki poziom higieny osobistej i czystości personelu. Należy opracować programy higieny.
 3.21.
@@ -814,8 +785,7 @@ W pomieszczeniach czystych powinna przebywać jak najmniejsza liczba personelu. 
 3.32.
 Personel jest zobowiązany do przekazywania informacji o stanie zdrowia, jeżeli może on mieć wpływ na jakość produktu. Chorująca na chorobę zakaźną osoba, która mogłaby negatywnie wpłynąć na jakość produktu lub mająca otwarte zmiany na odkrytej powierzchni ciała, nie może być dopuszczona do wytwarzania ATMP.
 3.33.
-Działania związane z monitorowaniem stanu zdrowia personelu są proporcjonalne do ryzyka. W razie konieczności, biorąc pod uwagę szczególne zagrożenie związane z produktem, personel zaangażowany w produkcję, konserwację, badania i wewnętrzne kontrole oraz opiekę nad zwierzętami podlega szczepieniom. Mogą być wprowadzone inne środki w celu ochrony personelu w zależności od znanego zagrożenia w odniesieniu do produktu i materiałów stosowanych do jego wytwarzania.
-Personel kluczowy
+Działania związane z monitorowaniem stanu zdrowia personelu są proporcjonalne do ryzyka. W razie konieczności, biorąc pod uwagę szczególne zagrożenie związane z produktem, personel zaangażowany w produkcję, konserwację, badania i wewnętrzne kontrole oraz opiekę nad zwierzętami podlega szczepieniom. Mogą być wprowadzone inne środki w celu ochrony personelu w zależności od znanego zagrożenia w odniesieniu do produktu i materiałów stosowanych do jego wytwarzania. Personel kluczowy
 3.34.
 Mając na względzie zasadniczą rolę personelu kluczowego w systemie jakości, kierownictwo przedsiębiorstwa wyznacza pracownika odpowiedzialnego za produkcję, pracownika odpowiedzialnego za kontrolę jakości i Osobę Wykwalifikowaną. W przypadku ATMP zawierających lub składających się z GMO kierownictwo przedsiębiorstwa wyznacza również pracownika odpowiedzialnego za bezpieczeństwo biologiczne.
 3.35.
@@ -829,8 +799,7 @@ Pracownik odpowiedzialny za produkcję, pracownik odpowiedzialny za kontrolę ja
 3.39.
 Obowiązki personelu kluczowego mogą być delegowane pracownikom posiadającym odpowiednie kwalifikacje. W zakresie odpowiedzialności personelu kluczowego nie może być żadnych luk i nieuzasadnionego nakładania się odpowiedzialności.
 3.40.
-Obowiązki zarówno pracownika odpowiedzialnego za kontrolę jakości, jak i Osoby Wykwalifikowanej może pełnić jeden pracownik. Osoba Wykwalifikowana może być także odpowiedzialna za produkcję. Jednakże jedna osoba nie może być odpowiedzialna jednocześnie za produkcję i kontrolę jakości. W małych przedsiębiorstwach, w których zespoły są wielozadaniowe, a pracownicy – przeszkoleni w zakresie wykonywania czynności związanych z kontrolą jakości, jak i produkcją, jeden pracownik może być odpowiedzialny za pełnienie obu funkcji w zakresie produkcji i kontroli jakości w odniesieniu do różnych serii produktu. Dla konkretnej serii produktu odpowiedzialności za produkcję i kontrolę jakości muszą zostać rozdzielone między dwóch pracowników. Niezależność działań związanych z kontrolą jakości i produkcją dla tej samej serii jest szczególnie istotna i wyraźnie określona za pomocą pisemnych procedur.
-Pomieszczenia – zasady ogólne
+Obowiązki zarówno pracownika odpowiedzialnego za kontrolę jakości, jak i Osoby Wykwalifikowanej może pełnić jeden pracownik. Osoba Wykwalifikowana może być także odpowiedzialna za produkcję. Jednakże jedna osoba nie może być odpowiedzialna jednocześnie za produkcję i kontrolę jakości. W małych przedsiębiorstwach, w których zespoły są wielozadaniowe, a pracownicy – przeszkoleni w zakresie wykonywania czynności związanych z kontrolą jakości, jak i produkcją, jeden pracownik może być odpowiedzialny za pełnienie obu funkcji w zakresie produkcji i kontroli jakości w odniesieniu do różnych serii produktu. Dla konkretnej serii produktu odpowiedzialności za produkcję i kontrolę jakości muszą zostać rozdzielone między dwóch pracowników. Niezależność działań związanych z kontrolą jakości i produkcją dla tej samej serii jest szczególnie istotna i wyraźnie określona za pomocą pisemnych procedur. Pomieszczenia – zasady ogólne
 4.10.
 Pomieszczenia muszą być odpowiednie do wykonywanych operacji. W szczególności powinny one być tak zaprojektowane, aby zminimalizować możliwość zanieczyszczeń czynnikiem zewnętrznym, zanieczyszczeń krzyżowych, ryzyka popełniania pomyłek oraz jakiegokolwiek niepożądanego wpływu na jakość produktu.
 4.11.
@@ -850,8 +819,7 @@ należy podjąć kroki mające na celu zabezpieczenie przed wejściem nieupoważ
 7)
 produkcja trucizn technicznych, takich jak pestycydy i herbicydy, jest niedozwolona w pomieszczeniach wykorzystywanych do wytwarzania ATMP.
 4.12.
-Pomieszczenia przeznaczone do wytwarzania ATMP podlegają odpowiedniej kwalifikacji (pkt 10.10–10.27).
-Obiekty wieloproduktowe
+Pomieszczenia przeznaczone do wytwarzania ATMP podlegają odpowiedniej kwalifikacji (pkt 10.10–10.27). Obiekty wieloproduktowe
 4.13.
 Wytwarzanie ATMP w obiektach wieloproduktowych jest dozwolone tam, gdzie mogą być zastosowane środki ograniczające ryzyka związane z zanieczyszczeniem krzyżowym i pomieszaniem. Dalsze informacje można znaleźć w pkt 9.31–9.38.
 4.14.
@@ -861,8 +829,7 @@ Do wytwarzania ATMP stwarzających ryzyko, które nie może być odpowiednio kon
 4.16.
 Należy podjąć szczególne środki ostrożności w przypadku działalności obejmującej wytwarzanie zakaźnych wektorów wirusowych (np. wirusów onkolitycznych) – prowadzenie procesu powinno odbywać się w wydzielonym obszarze. Równoczesne wytwarzanie różnych serii lub produktów
 4.17.
-Operacje wytwarzania z wykorzystaniem różnych materiałów wyjściowych lub produktów końcowych powinny być rozdzielone przez wydzielenie obszaru produkcyjnego lub rozdzielenie w czasie.
-Wydzielenie obszaru produkcyjnego
+Operacje wytwarzania z wykorzystaniem różnych materiałów wyjściowych lub produktów końcowych powinny być rozdzielone przez wydzielenie obszaru produkcyjnego lub rozdzielenie w czasie. Wydzielenie obszaru produkcyjnego
 4.18.
 Równoczesne wytwarzanie dwóch różnych serii lub dwóch różnych ATMP w tym samym obszarze jest niedopuszczalne. Jednak systemy zamknięte i obszar czysty chroniony mogą być wykorzystywane do rozdzielenia działań w sposób opisany w pkt 4.19–4.25.
 4.19.
@@ -878,11 +845,9 @@ Jednoczesne prowadzenie operacji inkubacji lub przechowywania różnych serii w 
 4.24.
 Nie jest dopuszczalne jednoczesne prowadzenie operacji inkubacji lub przechowywania wektorów zdolnych do replikacji lub produktów opartych na nich, lub zakażonych materiałów, lub produktów opartych na nich z innymi materiałami lub produktami.
 4.25.
-Jednoczesne wytwarzanie w tym samym pomieszczeniu wektorów niewirusowych w oddzielnych komorach laminarnych, ze względu na niższy poziom ryzyka, może być dopuszczalne pod warunkiem, że są stosowane odpowiednie środki w celu uniknięcia pomieszania.
-Rozdzielenie w czasie:
+Jednoczesne wytwarzanie w tym samym pomieszczeniu wektorów niewirusowych w oddzielnych komorach laminarnych, ze względu na niższy poziom ryzyka, może być dopuszczalne pod warunkiem, że są stosowane odpowiednie środki w celu uniknięcia pomieszania. Rozdzielenie w czasie:
 4.26.
-Cały obiekt produkcyjny lub wydzielony obszar produkcji może być przeznaczony do prowadzenia produkcji kampanijnej danego produktu, przy czym produkcja kolejnego produktu jest rozdzielona w czasie od poprzedniego i możliwa po przeprowadzeniu procesu czyszczenia o zwalidowanej skuteczności (pkt 10.28–10.35).
-Obszary produkcyjne – projekt i konstrukcja
+Cały obiekt produkcyjny lub wydzielony obszar produkcji może być przeznaczony do prowadzenia produkcji kampanijnej danego produktu, przy czym produkcja kolejnego produktu jest rozdzielona w czasie od poprzedniego i możliwa po przeprowadzeniu procesu czyszczenia o zwalidowanej skuteczności (pkt 10.28–10.35). Obszary produkcyjne – projekt i konstrukcja
 4.27.
 Zaleca się, aby projekt pomieszczeń umożliwiał przebieg wytwarzania w pomieszczeniach rozmieszczonych w porządku odpowiadającym wykonywanym po kolei operacjom oraz wymaganym klasom czystości. Organizacja środowiska pracy oraz rozmieszczenie urządzeń i materiałów powinny być odpowiednie, aby ograniczyć do minimum ryzyko pomylenia różnych produktów lub ich komponentów, aby uniknąć zanieczyszczeń krzyżowych i zminimalizować ryzyko pominięcia lub błędnego zastosowania jakiegokolwiek z etapów produkcji lub kontroli.
 4.28.
@@ -902,22 +867,22 @@ Rury i kanały wentylacyjne oraz inne media należy instalować w taki sposób, 
 4.35.
 Wejście do pomieszczeń czystych lub obszarów czystych chronionych odbywa się przez śluzy powietrzne wyposażone w system blokad wewnętrznych drzwi i przy zastosowaniu odpowiednich procedur kontroli zapewniających, że drzwi śluzy nie otwierają się jednocześnie. W ostatniej części śluzy klasa czystości w stanie spoczynku powinna być tej samej klasy co pomieszczenia, do którego śluza prowadzi.
 4.36.
-Przebieralnie powinny być zaprojektowane jako śluzy powietrzne, zabezpieczające fizyczny rozdział różnych etapów zmiany odzieży i zmniejszające do minimum zanieczyszczenia mikrobiologiczne i mechaniczne odzieży roboczej lub ochronnej. Pomieszczenia te są skutecznie wentylowane filtrowanym powietrzem. Niekiedy wskazane są oddzielne przebieralnie dla osób wchodzących i wychodzących z pomieszczeń czystych. Umywalnie znajdują się wyłącznie w przebieralniach na pierwszym etapie zmiany odzieży.
-Środowisko aseptyczne
+Przebieralnie powinny być zaprojektowane jako śluzy powietrzne, zabezpieczające fizyczny rozdział różnych etapów zmiany odzieży i zmniejszające do minimum zanieczyszczenia mikrobiologiczne i mechaniczne odzieży roboczej lub ochronnej. Pomieszczenia te są skutecznie wentylowane filtrowanym powietrzem. Niekiedy wskazane są oddzielne przebieralnie dla osób wchodzących i wychodzących z pomieszczeń czystych. Umywalnie znajdują się wyłącznie w przebieralniach na pierwszym etapie zmiany odzieży. Środowisko aseptyczne
 4.37.
-Pomieszczenia powinny być odpowiednie do wykonywanych operacji oraz odpowiednio kontrolowane w celu zapewnienia warunków aseptycznych. Środki zastosowane w celu zapewnienia środowiska aseptycznego powinny być odpowiednie w stosunku do ryzyka związanego z produktem oraz procesem wytwarzania. Należy zwrócić szczególną uwagę w przypadku, gdy produkt końcowy nie jest poddawany sterylizacji końcowej.
-Obszary czyste
+Pomieszczenia powinny być odpowiednie do wykonywanych operacji oraz odpowiednio kontrolowane w celu zapewnienia warunków aseptycznych. Środki zastosowane w celu zapewnienia środowiska aseptycznego powinny być odpowiednie w stosunku do ryzyka związanego z produktem oraz procesem wytwarzania. Należy zwrócić szczególną uwagę w przypadku, gdy produkt końcowy nie jest poddawany sterylizacji końcowej. Obszary czyste
 4.38.
 Krytyczne pomieszczenie czyste jest to obszar, w którym produkt jest wystawiony na działanie warunków środowiska, zaprojektowany w sposób zapewniający warunki aseptyczne. Powietrze w bezpośrednim sąsiedztwie krytycznych pomieszczeń czystych powinno być również odpowiednio kontrolowane (otoczenie pomieszczenia czystego). Pomieszczenia czyste powinny być zasilane powietrzem dostarczanym przez filtry o odpowiedniej skuteczności. Właściwy poziom klasyfikacji powietrza należy ustalić, uwzględniając specyficzne ryzyko związane z właściwościami produktu oraz procesem wytwarzania. W szczególności należy wziąć pod uwagę, czy proces wytwarzania przebiega w systemie zamkniętym czy w systemie otwartym (pkt 9.39–9.54).
 4.39.
-Pomieszczenia czyste i urządzenia z obszarem czystym są klasyfikowane zgodnie z wymaganiami normy PN-EN ISO 14644–1. Podczas kwalifikacji powinny być mierzone cząstki o wymiarze równym 0,5 µm lub większym niż 0,5 µm. Pomiar ten należy przeprowadzić w spoczynku i w działaniu. Maksymalna dopuszczalna liczba cząstek dla każdej klasy czystości jest następująca: Maksymalna dopuszczalna liczba cząstek/m3 o wymiarze równym 0,5 µm lub większym niż 0,5 µm W spoczynku W działaniu Klasyfikacja wg ISO (w spoczynku / w działaniu) Klasa A 3520 3520 5/5 B 3520 352 000 5/7 C 352 000 3 520 000 7/8 D 3 520 000 nieokreślona 8
+Pomieszczenia czyste i urządzenia z obszarem czystym są klasyfikowane zgodnie z wymaganiami normy PN-EN ISO 14644–1. Podczas kwalifikacji powinny być mierzone cząstki o wymiarze równym 0,5 µm lub większym niż 0,5 µm. Pomiar ten należy przeprowadzić w spoczynku i w działaniu. Maksymalna dopuszczalna liczba cząstek dla każdej klasy czystości jest następująca:
+Maksymalna dopuszczalna liczba cząstek/m3 o wymiarze równym 0,5 µm lub większym niż 0,5 µm W spoczynku W działaniu Klasyfikacja wg ISO (w spoczynku / w działaniu) Klasa A 3520 3520 5/5 B 3520 352 000 5/7 C 352 000 3 520 000 7/8 D 3 520 000 nieokreślona 8
 4.40.
-W ramach kwalifikacji pomieszczeń czystych należy określić poziom zanieczyszczeń mikrobiologicznych w pomieszczeniu czystym w działaniu. Zalecane limity dotyczące zanieczyszczenia mikrobiologicznego dla każdej klasy czystości są następujące: Klasa Próbka powietrza j.t.k./m3 Płytki sedymentacyjne (średnica 90 mm) j.t.k. / 4 godziny* Płytki odciskowe (średnica 55 mm) j.t.k./płytkę A** <1 <1 <1 B 10 5 5 C 100 50 25 D 200 100 50 * Poszczególne płytki sedymentacyjne mogą być wystawione przez okres krótszy niż 4 godziny. W przypadku kiedy płytki są wystawiane przez okres krótszy niż 4 godziny, limity określone w tabeli powinny być nadal stosowane. Płytki sedymentacyjne należy wystawiać na czas trwania operacji krytycznych i zmieniać po upływie 4 godzin. ** Należy zauważyć, że w przypadku klasy A oczekiwanym wynikiem jest 0 j.t.k, natomiast uzyskanie wzrostu mikroorganizmów w liczbie 1 j.t.k. lub większej powinno skutkować postępowaniem wyjaśniającym.
+W ramach kwalifikacji pomieszczeń czystych należy określić poziom zanieczyszczeń mikrobiologicznych w pomieszczeniu czystym w działaniu. Zalecane limity dotyczące zanieczyszczenia mikrobiologicznego dla każdej klasy czystości są następujące:
+Klasa Próbka powietrza j.t.k./m3 Płytki sedymentacyjne (średnica 90 mm) j.t.k. / 4 godziny* Płytki odciskowe (średnica 55 mm) j.t.k./płytkę A** <1 <1 <1 B 10 5 5 C 100 50 25 D 200 100 50
+* Poszczególne płytki sedymentacyjne mogą być wystawione przez okres krótszy niż 4 godziny. W przypadku kiedy płytki są wystawiane przez okres krótszy niż 4 godziny, limity określone w tabeli powinny być nadal stosowane. Płytki sedymentacyjne należy wystawiać na czas trwania operacji krytycznych i zmieniać po upływie 4 godzin. ** Należy zauważyć, że w przypadku klasy A oczekiwanym wynikiem jest 0 j.t.k, natomiast uzyskanie wzrostu mikroorganizmów w liczbie 1 j.t.k. lub większej powinno skutkować postępowaniem wyjaśniającym.
 4.41.
 W pomieszczeniach czystych powinna zostać ograniczona obecność opakowań lub materiałów, które mogą generować cząstki.
 4.42.
-W obszarach czystych szczególnie ważne są odpowiednie czyszczenie i sanityzacja, obejmujące usuwanie pozostałości środków czyszczących oraz dezynfekujących. Do redukowania zanieczyszczeń mikrobiologicznych w trudno dostępnych miejscach pomieszczeń czystych może być wykorzystywana fumigacja. W przypadku stosowania środków dezynfekujących należy sprawdzać ich skuteczność. Wskazane jest również stosowanie więcej niż jednego rodzaju środka dezynfekującego w celu uniknięcia rozwoju opornych szczepów bakteryjnych oraz zwiększenia skuteczności i zakresu biodekontaminacji. Środki dezynfekujące, detergenty oraz środki czyszczące stosowane w pomieszczeniach klasy A i B powinny być sterylne.
-Monitorowanie środowiska
+W obszarach czystych szczególnie ważne są odpowiednie czyszczenie i sanityzacja, obejmujące usuwanie pozostałości środków czyszczących oraz dezynfekujących. Do redukowania zanieczyszczeń mikrobiologicznych w trudno dostępnych miejscach pomieszczeń czystych może być wykorzystywana fumigacja. W przypadku stosowania środków dezynfekujących należy sprawdzać ich skuteczność. Wskazane jest również stosowanie więcej niż jednego rodzaju środka dezynfekującego w celu uniknięcia rozwoju opornych szczepów bakteryjnych oraz zwiększenia skuteczności i zakresu biodekontaminacji. Środki dezynfekujące, detergenty oraz środki czyszczące stosowane w pomieszczeniach klasy A i B powinny być sterylne. Monitorowanie środowiska
 4.43.
 Program monitorowania środowiska jest ważnym narzędziem, dzięki któremu skuteczność środków kontroli zanieczyszczenia może być oceniona, a specyficzne zagrożenia dla czystości produktów zidentyfikowane. Program monitorowania środowiska powinien obejmować następujące parametry: zanieczyszczenie cząstkami nieożywionymi i ożywionymi, różnice ciśnień oraz, jeżeli wymagane są specjalne warunki dla procesu – temperaturę i wilgotność względną. Wyniki uzyskane podczas monitorowania środowiska powinny być poddawane analizie trendów.
 4.44.
@@ -933,7 +898,9 @@ Należy ustalić odpowiednie limity alarmowe i limity działania. W celu zidenty
 4.49.
 System monitorowania cząstek powinien zapewnić, że w momencie przekroczenia limitów alarmowych zostanie to szybko zidentyfikowane (np. przez sygnalizację alarmową). Jeżeli limit działania jest przekroczony, należy podjąć odpowiednie działania korygujące i je udokumentować.
 4.50.
-Zalecane limity działania są następujące: Klasa Zalecane maksymalne limity dla cząstek/m3 o wymiarze równym 0,5 µm lub większym niż 0,5 µm Zalecane maksymalne limity dla cząstek/m3 o wymiarze równym 5 µm lub większym niż 5 µm W działaniu W spoczynku W działaniu W spoczynku A 3520 3520 20** 20** B 352 000 3520 2900 29 C 3 520 000 352 000 29 000 2900 D wyznaczyć w oparciu o analizę ryzyka 3 520 000 wyznaczyć w oparciu o analizę ryzyka 29 000 ** Ze względu na ograniczenia urządzeń monitorujących wartość 20 została utrzymana. Częste, utrzymujące się wyniki poniżej tej wartości powinny również spowodować dochodzenie przyczyn.
+Zalecane limity działania są następujące:
+Klasa Zalecane maksymalne limity dla cząstek/m3 o wymiarze równym 0,5 µm lub większym niż 0,5 µm Zalecane maksymalne limity dla cząstek/m3 o wymiarze równym 5 µm lub większym niż 5 µm W działaniu W spoczynku W działaniu W spoczynku A 3520 3520 20** 20** B 352 000 3520 2900 29 C 3 520 000 352 000 29 000 2900 D wyznaczyć w oparciu o analizę ryzyka 3 520 000 wyznaczyć w oparciu o analizę ryzyka 29 000
+** Ze względu na ograniczenia urządzeń monitorujących wartość 20 została utrzymana. Częste, utrzymujące się wyniki poniżej tej wartości powinny również spowodować dochodzenie przyczyn.
 4.51.
 Monitorowanie cząstek w klasie A jest prowadzone przez cały czas trwania operacji krytycznych, także w trakcie wykonywania montażu elementów wyposażenia, z wyjątkiem należycie uzasadnionych przypadków (np. gdy zanieczyszczenia pochodzące z procesu uszkodziłyby licznik cząstek lub gdy stanowią zagrożenie związane np. z żywymi organizmami chorobotwórczymi). W takich przypadkach monitorowanie w trakcie montażu elementów wyposażenia ma miejsce np. przed czynnościami powodującymi narażenie produktu na szkodliwe czynniki. Prowadzony jest również monitoring podczas symulacji procesu.
 4.52.
@@ -943,8 +910,7 @@ Program monitorowania pomieszczeń klas C i D powinien być opracowany przy uwzg
 4.54.
 W przypadku gdy operacje krytyczne nie są wykonywane (tzn. stan w spoczynku), pobieranie prób należy przeprowadzać w odpowiednich odstępach czasu. W stanie „w spoczynku” system wentylacji i klimatyzacji nie powinien być wyłączany, ponieważ może to spowodować konieczność jego rekwalifikacji. W przypadku przerwy w działaniu systemu wentylacji i klimatyzacji należy przeprowadzić ocenę ryzyka w celu ustalenia wszelkich działań koniecznych do przeprowadzenia w odniesieniu do operacji wykonywanych w pomieszczeniach, na które miało to wpływ (np. dodatkowy monitoring).
 4.55.
-W klasach A i B monitorowanie liczby cząstek ≥5 µm jest wykonywane rutynowo, ponieważ jest to istotne narzędzie diagnostyczne dla wczesnego wykrycia awarii. Natomiast badanie liczby cząstek ≥5 µm nie jest wymagane podczas kwalifikacji. Sporadyczne wykrycie cząstek ≥5 µm może być błędnym odczytem, podczas gdy pojawienie się niskich poziomów liczby cząstek stale lub w kolejnych pomiarach jest objawem możliwości zanieczyszczenia i musi zostać wyjaśnione. Takie zdarzenia mogą wskazywać np. na początki niesprawności HVAC, urządzenia napełniającego lub mogą wskazywać na niewłaściwe praktyki podczas montażu urządzenia i prowadzenia rutynowych operacji.
-Monitorowanie zanieczyszczeń cząstkami ożywionymi
+W klasach A i B monitorowanie liczby cząstek ≥5 µm jest wykonywane rutynowo, ponieważ jest to istotne narzędzie diagnostyczne dla wczesnego wykrycia awarii. Natomiast badanie liczby cząstek ≥5 µm nie jest wymagane podczas kwalifikacji. Sporadyczne wykrycie cząstek ≥5 µm może być błędnym odczytem, podczas gdy pojawienie się niskich poziomów liczby cząstek stale lub w kolejnych pomiarach jest objawem możliwości zanieczyszczenia i musi zostać wyjaśnione. Takie zdarzenia mogą wskazywać np. na początki niesprawności HVAC, urządzenia napełniającego lub mogą wskazywać na niewłaściwe praktyki podczas montażu urządzenia i prowadzenia rutynowych operacji. Monitorowanie zanieczyszczeń cząstkami ożywionymi
 4.56.
 Prowadzone są odpowiednie badania w celu wykrycia obecności specyficznych mikroorganizmów w pomieszczeniu czystym (np. drożdży, pleśni). Monitorowanie zanieczyszczeń cząstkami ożywionymi obowiązuje również w izolatorach oraz komorach o określonej klasie bezpieczeństwa biologicznego.
 4.57.
@@ -952,22 +918,21 @@ W pomieszczeniach, w których prowadzi się procesy aseptyczne, monitorowanie mi
 4.58.
 Ciągłe monitorowanie środowiska podczas wykonywania operacji krytycznych jest prowadzone w obszarze, w którym produkt jest wystawiony na działanie środowiska. Kontrola czystości mikrobiologicznej odzieży roboczej lub ochronnej personelu i powierzchni jest prowadzona po wykonaniu operacji krytycznych. Poza czynnościami produkcyjnymi monitorowanie zanieczyszczeń mikrobiologicznych może być wymagane podczas wykonywania innych operacji w zależności od ryzyk.
 4.59.
-Stosuje się następujące zalecane maksymalne limity w monitorowaniu zanieczyszczeń mikrobiologicznych pomieszczeń czystych: Klasa Próbka powietrza j.t.k./m3 Płytki sedymentacyjne (średnica 90 mm) j.t.k. / 4 godziny* Płytki odciskowe (średnica 55 mm) j.t.k./płytkę Odciski palców (dłoń w rękawiczce z 5 palcami) j.t.k./ rękawiczkę A** <1 <1 <1 <1 B 10 5 5 5 C 100 50 25 – D 200 100 50 – * Poszczególne płytki sedymentacyjne mogą być wystawione przez okres krótszy niż 4 godziny. W przypadku kiedy płytki są wystawiane przez okres krótszy niż 4 godziny, limity określone w tabeli powinny być nadal stosowane. Płytki sedymentacyjne należy wystawiać na czas trwania operacji krytycznych i zmieniać po upływie 4 godzin. ** Należy zauważyć, że w przypadku klasy A oczekiwanym wynikiem jest 0 j.t.k, natomiast uzyskanie wzrostu mikroorganizmów w liczbie 1 j.t.k. lub większej powinno skutkować postępowaniem wyjaśniającym.
+Stosuje się następujące zalecane maksymalne limity w monitorowaniu zanieczyszczeń mikrobiologicznych pomieszczeń czystych:
+Klasa Próbka powietrza j.t.k./m3 Płytki sedymentacyjne (średnica 90 mm) j.t.k. / 4 godziny* Płytki odciskowe (średnica 55 mm) j.t.k./płytkę Odciski palców (dłoń w rękawiczce z 5 palcami) j.t.k./ rękawiczkę A** <1 <1 <1 <1 B 10 5 5 5 C 100 50 25 – D 200 100 50 –
+* Poszczególne płytki sedymentacyjne mogą być wystawione przez okres krótszy niż 4 godziny. W przypadku kiedy płytki są wystawiane przez okres krótszy niż 4 godziny, limity określone w tabeli powinny być nadal stosowane. Płytki sedymentacyjne należy wystawiać na czas trwania operacji krytycznych i zmieniać po upływie 4 godzin. ** Należy zauważyć, że w przypadku klasy A oczekiwanym wynikiem jest 0 j.t.k, natomiast uzyskanie wzrostu mikroorganizmów w liczbie 1 j.t.k. lub większej powinno skutkować postępowaniem wyjaśniającym.
 4.60.
 Należy ustalić odpowiednie limity alarmowe i limity działania. W celu zidentyfikowania potencjalnych zmian w poziomie zanieczyszczeń, które mogą mieć negatywny wpływ na proces wytwarzania, limity alarmowe dla klas czystości B-D powinny być niższe niż te, które określono jako limity działania, i powinny opierać się na danych uzyskanych podczas użytkowania obszaru. Jeżeli limit działania jest przekroczony, należy podjąć działania korygujące i je udokumentować.
 4.61.
-Mikroorganizmy wykryte w strefie klasy A powinny zostać zidentyfikowane do poziomu gatunku. Należy ocenić wpływ zidentyfikowanego mikroorganizmu na jakość produktu oraz odpowiedniość pomieszczeń, w których mają być wykonywane planowane operacje wytwarzania.
-Różnica ciśnień
+Mikroorganizmy wykryte w strefie klasy A powinny zostać zidentyfikowane do poziomu gatunku. Należy ocenić wpływ zidentyfikowanego mikroorganizmu na jakość produktu oraz odpowiedniość pomieszczeń, w których mają być wykonywane planowane operacje wytwarzania. Różnica ciśnień
 4.62.
 Istotnym elementem w zapobieganiu zanieczyszczeniom jest odpowiednie rozdzielenie obszarów produkcyjnych. W celu utrzymania odpowiedniej jakości powietrza w pomieszczeniach czystych należy zapewnić, aby przepływ powietrza odbywał się w kierunku od pomieszczeń o wyższej klasie czystości do pomieszczeń sąsiadujących o niższej klasie czystości. Między pomieszczeniami o wyższej klasie czystości oraz sąsiadującymi pomieszczeniami o niższej klasie czystości istotne jest zapewnienie znaczącej pozytywnej różnicy ciśnień. W pomieszczeniach o wyższej klasie czystości jest zapewnione znaczne nadciśnienie w odniesieniu do sąsiadujących pomieszczeń o niższej klasie czystości. Kaskada ciśnień powinna być jednoznacznie określona i monitorowana w sposób ciągły, przy użyciu odpowiednich metod (np. przy zastosowaniu sygnalizacji alarmowej). Różnica ciśnień między sąsiadującymi pomieszczeniami o różnych klasach czystości powinna wynosić 10–15 Pa (wartości zalecane).
 4.63.
-W specyficznych obszarach może być wymagane zastosowanie podciśnienia w celu ograniczenia rozprzestrzeniania się zanieczyszczeń (np. kiedy używane są wektory zdolne do replikacji lub chorobotwórcze bakterie). W takich przypadkach obszary, w których panuje podciśnienie, powinny się znajdować w otoczeniu pomieszczeń o odpowiedniej klasie czystości, w których panuje nadciśnienie.
-Studzienki odpływowe
+W specyficznych obszarach może być wymagane zastosowanie podciśnienia w celu ograniczenia rozprzestrzeniania się zanieczyszczeń (np. kiedy używane są wektory zdolne do replikacji lub chorobotwórcze bakterie). W takich przypadkach obszary, w których panuje podciśnienie, powinny się znajdować w otoczeniu pomieszczeń o odpowiedniej klasie czystości, w których panuje nadciśnienie. Studzienki odpływowe
 4.64.
 Odpływy powinny mieć odpowiednie rozmiary oraz zamknięcia syfonowe. Systemy odprowadzania ścieków powinny być tak zaprojektowane, aby ograniczyć do minimum ryzyko zanieczyszczenia krzyżowego przez skuteczne neutralizowanie lub odkażanie ścieków. Należy unikać otwartych odpływów, a w przypadku gdy są konieczne, ich konstrukcja powinna ułatwiać czyszczenie i dezynfekcję. Wytwórcy powinni stosować odpowiednie przepisy prawa, jeżeli występuje ryzyko związane z odpadami pochodzenia biologicznego.
 4.65.
-W obszarze o klasie czystości A lub B nie należy instalować zlewów i odpływów.
-Pomieszczenia magazynowe
+W obszarze o klasie czystości A lub B nie należy instalować zlewów i odpływów. Pomieszczenia magazynowe
 4.66.
 Pomieszczenia magazynowe muszą być dostatecznie duże, aby umożliwić przechowywanie w sposób uporządkowany różnych rodzajów materiałów i produktów: surowców i materiałów wyjściowych, materiałów opakowaniowych, produktów pośrednich, produktów luzem i produktów końcowych, produktów w kwarantannie, zwolnionych, odrzuconych, zwróconych lub wycofanych.
 4.67.
@@ -977,18 +942,15 @@ Jeżeli kwarantannę przeprowadza się przez przechowywanie w oddzielnych obszar
 4.69.
 Materiały i produkty wycofane lub zwrócone są przechowywane w oddzielonych miejscach, chyba że kontrola materiałów i produktów odbywa się za pomocą środków elektronicznych. Materiały i produkty odrzucone są przechowywane w wydzielonych obszarach (np. zamkniętych).
 4.70.
-Materiały lub produkty o silnym działaniu są przechowywane w pomieszczeniach bezpiecznych i chronionych.
-Pomieszczenia Kontroli Jakości
+Materiały lub produkty o silnym działaniu są przechowywane w pomieszczeniach bezpiecznych i chronionych. Pomieszczenia Kontroli Jakości
 4.71.
 Laboratoria kontrolne są zaprojektowane odpowiednio do czynności, jakie mają być w nich wykonywane. Są wystarczająco duże, tak aby można było uniknąć pomieszania i zanieczyszczeń krzyżowych podczas wykonywania badań. Posiadają odpowiednie miejsce do przechowywania prób oraz zapisów.
 4.72.
-Laboratoria kontroli jakości powinny być oddzielone od pomieszczeń produkcyjnych. Jednak kontrole w trakcie procesu mogą odbywać się w pomieszczeniach produkcyjnych pod warunkiem, że nie stwarzają żadnego ryzyka dla produktów. Dodatkowe informacje dostępne są w pkt 12.10–12.14.
-Pomieszczenia pomocnicze
+Laboratoria kontroli jakości powinny być oddzielone od pomieszczeń produkcyjnych. Jednak kontrole w trakcie procesu mogą odbywać się w pomieszczeniach produkcyjnych pod warunkiem, że nie stwarzają żadnego ryzyka dla produktów. Dodatkowe informacje dostępne są w pkt 12.10–12.14. Pomieszczenia pomocnicze
 4.73.
 Pomieszczenia socjalne są oddzielone od pomieszczeń produkcyjnych, magazynowych i pomieszczeń kontroli jakości. Toalety i umywalnie nie mają bezpośrednich połączeń z pomieszczeniami produkcyjnymi, magazynowymi i pomieszczeniami kontroli jakości.
 4.74.
-Zwierzętarnie są odizolowane od pomieszczeń produkcyjnych, magazynowych i pomieszczeń kontroli jakości, powinny mieć osobne wejście oraz instalację oczyszczania powietrza. Należy wprowadzić odpowiednie ograniczenia dróg przepływu w przemieszczaniu się personelu i materiałów.
-Wyposażenie – wymagania ogólne
+Zwierzętarnie są odizolowane od pomieszczeń produkcyjnych, magazynowych i pomieszczeń kontroli jakości, powinny mieć osobne wejście oraz instalację oczyszczania powietrza. Należy wprowadzić odpowiednie ograniczenia dróg przepływu w przemieszczaniu się personelu i materiałów. Wyposażenie – wymagania ogólne
 5.10.
 Wyposażenie używane do operacji produkcyjnych albo kontrolnych jest odpowiednie do zamierzonego zastosowania i nie może stwarzać zagrożenia dla produktu. Elementy urządzeń produkcyjnych, które wchodzą w kontakt z produktem, nie mogą wykazywać niepożądanych właściwości, reagować, wydzielać, absorbować lub adsorbować jakichkolwiek składników w sposób mogący wpłynąć na jakość produktu. Dodatkowo elementy urządzeń wchodzące w kontakt z komórkami lub tkankami powinny być sterylne.
 5.11.
@@ -1002,8 +964,7 @@ Wagi i urządzenia pomiarowe powinny mieć odpowiedni zakres i precyzję, by zap
 5.15.
 Kwalifikacja odpowiedniego wyposażenia powinna odbywać się zgodnie z zasadami określonymi w pkt 10.10–10.27.
 5.16.
-Niesprawne urządzenia, jeżeli to możliwe, należy usuwać z obszarów produkcji i kontroli jakości lub przynajmniej odpowiednio oznakować jako niesprawne.
-Konserwacja, czyszczenie i naprawy
+Niesprawne urządzenia, jeżeli to możliwe, należy usuwać z obszarów produkcji i kontroli jakości lub przynajmniej odpowiednio oznakować jako niesprawne. Konserwacja, czyszczenie i naprawy
 5.17.
 Wyposażenie powinno być odpowiednio utrzymywane:
 1)
@@ -1015,8 +976,7 @@ Odpowiednie czyszczenie i przechowywanie urządzeń jest kluczowe dla uniknięci
 5.19.
 Naprawy i konserwacje nie powinny stanowić zagrożenia dla jakości produktu. Jeśli to tylko możliwe, naprawy i konserwacje powinny być prowadzone z zewnątrz pomieszczeń czystych. Jeżeli konserwacja lub operacje czyszczenia przeprowadzane są w obrębie obszaru czystego, produkcja może być wznowiona dopiero po zweryfikowaniu, że obszar został odpowiednio wyczyszczony i wymagane warunki środowiskowe zostały odtworzone.
 5.20.
-Jeżeli wymagana jest minimalizacja ryzyka wystąpienia zanieczyszczenia krzyżowego, należy ograniczyć przenoszenie wyposażenia. Zwykle wyposażenie nie powinno być przenoszone z obszarów wysokiego ryzyka do innych lub między obszarami wysokiego ryzyka (np. wyposażenie używane do operacji na komórkach od zainfekowanych dawców lub na wirusach onkolitycznych). W przypadku przenoszenia wyposażenia należy wprowadzić odpowiednie środki w celu uniknięcia ryzyka zanieczyszczenia krzyżowego. Należy również ponownie ocenić status kwalifikacji przeniesionego wyposażenia.
-Dokumentacja – zasady ogólne
+Jeżeli wymagana jest minimalizacja ryzyka wystąpienia zanieczyszczenia krzyżowego, należy ograniczyć przenoszenie wyposażenia. Zwykle wyposażenie nie powinno być przenoszone z obszarów wysokiego ryzyka do innych lub między obszarami wysokiego ryzyka (np. wyposażenie używane do operacji na komórkach od zainfekowanych dawców lub na wirusach onkolitycznych). W przypadku przenoszenia wyposażenia należy wprowadzić odpowiednie środki w celu uniknięcia ryzyka zanieczyszczenia krzyżowego. Należy również ponownie ocenić status kwalifikacji przeniesionego wyposażenia. Dokumentacja – zasady ogólne
 6.10.
 Dokumentacja jest zasadniczym elementem systemu zapewnienia jakości. System dokumentacji jest wykorzystywany głównie w celu ustanowienia, kontroli, monitorowania i rejestrowania działań, które bezpośrednio lub pośrednio mogą mieć wpływ na jakość produktów leczniczych. Zapisy konieczne do zapewnienia identyfikowalności są przechowywane.
 6.11.
@@ -1034,8 +994,7 @@ wdrożenie środków zapewniających dokładność, kompletność, dostępność
 6.14.
 Treść dokumentów jest jednoznaczna.
 6.15.
-Jeżeli różne etapy wytwarzania są prowadzone w różnych miejscach i różne Osoby Wykwalifikowane są odpowiedzialne za te etapy, możliwe jest tworzenie oddzielnych dokumentacji produktu, które zawierają informacje ograniczone do odpowiednich działań wykonywanych w tych miejscach.
-Specyfikacje i instrukcje
+Jeżeli różne etapy wytwarzania są prowadzone w różnych miejscach i różne Osoby Wykwalifikowane są odpowiedzialne za te etapy, możliwe jest tworzenie oddzielnych dokumentacji produktu, które zawierają informacje ograniczone do odpowiednich działań wykonywanych w tych miejscach. Specyfikacje i instrukcje
 6.16.
 Specyfikacje dotyczące materiałów i produktu końcowego oraz instrukcje wytwarzania mają zapewnić zgodność z warunkami pozwolenia na dopuszczenie do obrotu lub pozwolenia na prowadzenie badania klinicznego, zgodność i powtarzalność produktu odpowiednią dla danego etapu rozwoju oraz wymagany poziom jakości. Dlatego istotne jest, aby specyfikacje i instrukcje były udokumentowane we właściwy sposób oraz aby były jasne i wystarczająco szczegółowe.
 6.17.
@@ -1097,8 +1056,7 @@ okres ważności;
 9)
 strategia kontroli w przypadkach, gdy wyniki badań materiałów wyjściowych, półproduktów lub produktu końcowego nie są dostępne przed zwolnieniem produktu, jeżeli dotyczy (pkt 11.37–11.42);
 10)
-instrukcje pakowania dla każdego produktu, szczególną uwagę należy zwrócić na zapewnienie identyfikowalności produktu; w odniesieniu do zarejestrowanych ATMP, kod identyfikacyjny donacji otrzymany z banku tkanek / banku krwi powinien zostać umieszczony na opakowaniu zewnętrznym lub, w przypadku gdy nie ma opakowania zewnętrznego, na opakowaniu bezpośrednim. Inne wymagania dotyczące etykietowania są zawarte w art. 11 i 12 rozporządzenia nr 1394/2007.
-Badane ATMP: Podstawowa Dokumentacja Produktu
+instrukcje pakowania dla każdego produktu, szczególną uwagę należy zwrócić na zapewnienie identyfikowalności produktu; w odniesieniu do zarejestrowanych ATMP, kod identyfikacyjny donacji otrzymany z banku tkanek / banku krwi powinien zostać umieszczony na opakowaniu zewnętrznym lub, w przypadku gdy nie ma opakowania zewnętrznego, na opakowaniu bezpośrednim. Inne wymagania dotyczące etykietowania są zawarte w art. 11 i 12 rozporządzenia nr 1394/2007. Badane ATMP: Podstawowa Dokumentacja Produktu
 6.21.
 W przypadku badanych ATMP poziom szczegółowości specyfikacji i instrukcji jest dostosowany do rodzaju produktu i etapu rozwoju. Biorąc pod uwagę typowe dla badanych produktów udoskonalanie procesu wytwarzania i kontroli jakości, jest ważne, aby dokumentacja była wystarczająca w celu umożliwienia określenia charakterystycznych cech każdej serii. Niedostateczna charakterystyka produktu może utrudnić dopuszczenie wyników badania klinicznego do celów uzyskania pozwolenia na dopuszczenie do obrotu.
 6.22.
@@ -1106,8 +1064,7 @@ Jeżeli produkty są zaślepiane, to oprócz specyfikacji i instrukcji Podstawow
 6.23.
 Kopia zlecenia produkcyjnego oraz kopia zatwierdzonej etykiety są częścią Podstawowej Dokumentacji Produktu. W zleceniu produkcyjnym szczególną uwagę należy poświęcić identyfikacji wersji, której wytwórca powinien przestrzegać, ponieważ Podstawowa Dokumentacja Produktu zazwyczaj podlega zmianom.
 6.24.
-Informacje zawarte w Podstawowej Dokumentacji Produktu stanowią podstawę do oceny przez Osobę Wykwalifikowaną, czy dana seria jest odpowiednia do certyfikacji i zwolnienia, i dlatego dokumentacja powinna być dla niej dostępna.
-Zapisy i raporty
+Informacje zawarte w Podstawowej Dokumentacji Produktu stanowią podstawę do oceny przez Osobę Wykwalifikowaną, czy dana seria jest odpowiednia do certyfikacji i zwolnienia, i dlatego dokumentacja powinna być dla niej dostępna. Zapisy i raporty
 6.25.
 Zapisy dokumentują, że odpowiednie specyfikacje, instrukcje są przestrzegane. Zapisy są dokonywane lub uzupełniane w czasie wykonywania każdej czynności. Każda zmiana zapisu jest zatwierdzona, podpisana i opatrzona datą przez osobę uprawnioną.
 6.26.
@@ -1161,8 +1118,7 @@ program ciągłego badania stabilności zgodnie z pkt 12.37–12.39 (w odniesien
 6)
 wyniki inspekcji wewnętrznych powinny być dokumentowane; raporty powinny zawierać wszystkie obserwacje z inspekcji i propozycje działań korygujących (jeżeli ma to zastosowanie); oświadczenia o podjętych działaniach następczych również powinny zostać zapisane.
 6.27.
-Wszystkie odchylenia powinny być rejestrowane i wyjaśniane oraz odpowiednie działania korygujące powinny być podejmowane.
-Inne dokumenty
+Wszystkie odchylenia powinny być rejestrowane i wyjaśniane oraz odpowiednie działania korygujące powinny być podejmowane. Inne dokumenty
 6.28.
 Odpowiednie procedury i programy powinny być stosowane przez wytwórcę w celu zapewnienia jakości produktu, włączając w to:
 1)
@@ -1186,15 +1142,13 @@ Prowadzi się dzienniki głównej i krytycznej aparatury kontrolnej oraz wyposa�
 6.30.
 Procedury i programy powinny być dostosowane do etapu rozwoju. Dokumentacja w fazie I i I/II badań klinicznych może być ograniczona, ale oczekuje się, że stanie się bardziej obszerna na późniejszych etapach rozwoju.
 6.31.
-Dokumentacja Główna Miejsca Prowadzenia Działalności, zwana dalej „DGM”, powinna być przygotowana dla każdego podmiotu uczestniczącego w wytwarzaniu zarejestrowanych ATMP. DGM powinien zapewnić szczegółowy opis obiektów, działań prowadzonych w danym miejscu oraz wdrożonego systemu jakości (wytwórcy ATMP mogą kierować się zasadami ustanowionymi w załączniku nr 4 do niniejszego rozporządzenia).
-Archiwizacja dokumentów
+Dokumentacja Główna Miejsca Prowadzenia Działalności, zwana dalej „DGM”, powinna być przygotowana dla każdego podmiotu uczestniczącego w wytwarzaniu zarejestrowanych ATMP. DGM powinien zapewnić szczegółowy opis obiektów, działań prowadzonych w danym miejscu oraz wdrożonego systemu jakości (wytwórcy ATMP mogą kierować się zasadami ustanowionymi w załączniku nr 4 do niniejszego rozporządzenia). Archiwizacja dokumentów
 6.32.
 Nie naruszając wymagań określonych w pkt 6.35–6.40, dokumentacja serii (np. dokumenty w zapisach wytwarzania serii, wyniki badań zwolnieniowych, jak również dane dotyczące odchyleń związanych z produktem, jeżeli dotyczą) powinna być przechowywana przez jeden rok po upływie daty ważności serii, z którą jest związana, lub co najmniej pięć lat po certyfikacji serii przez Osobę Wykwalifikowaną, w zależności od tego, który z okresów jest dłuższy. Dokumentacja serii badanych produktów leczniczych musi być przechowywana przez co najmniej pięć lat po zakończeniu lub formalnym przerwaniu ostatniego badania klinicznego, do którego użyto danej serii.
 6.33.
 Można zaakceptować, że niektóre dane odnoszące się do dokumentacji serii są przechowywane osobno pod warunkiem, że są łatwo dostępne i jednoznacznie związane z odpowiednią serią.
 6.34.
-Dokumentacja krytyczna zawierająca surowe dane (np. odnoszące się do walidacji lub stabilności), która jest powiązana z informacjami zawartymi w pozwoleniu na dopuszczenie do obrotu, powinna być przechowywana tak długo, jak długo pozwolenie jest ważne. Jednak dopuszcza się wycofanie niektórych dokumentów (np. danych surowych dotyczących raportów walidacji lub raportów badań stabilności), jeżeli dane te zostały zastąpione przez pełny zbiór nowych danych. Uzasadnienie wycofania powinno być udokumentowane i uwzględniać wymagania dotyczące przechowywania dokumentacji serii.
-Dane dotyczące identyfikowalności
+Dokumentacja krytyczna zawierająca surowe dane (np. odnoszące się do walidacji lub stabilności), która jest powiązana z informacjami zawartymi w pozwoleniu na dopuszczenie do obrotu, powinna być przechowywana tak długo, jak długo pozwolenie jest ważne. Jednak dopuszcza się wycofanie niektórych dokumentów (np. danych surowych dotyczących raportów walidacji lub raportów badań stabilności), jeżeli dane te zostały zastąpione przez pełny zbiór nowych danych. Uzasadnienie wycofania powinno być udokumentowane i uwzględniać wymagania dotyczące przechowywania dokumentacji serii. Dane dotyczące identyfikowalności
 6.35.
 Powinien zostać stworzony system, który umożliwia dwukierunkowe śledzenie komórek, tkanek zawartych w ATMP od momentu donacji przez wytwarzanie do dostarczenia produktu końcowego do odbiorcy. Taki system, ręczny lub elektroniczny, powinien być ustanowiony od rozpoczęcia wytwarzania serii do badań klinicznych.
 6.36.
@@ -1214,13 +1168,11 @@ Jeżeli komórki ksenogeniczne są wykorzystywane jako materiał wyjściowy dla 
 6.39.
 Dane dotyczące identyfikowalności powinny być możliwe do skontrolowania. Można je przechowywać poza zapisami wytwarzania serii pod warunkiem, że są one łatwo dostępne i jednoznacznie związane z odnośnym produktem leczniczym. System przechowywania powinien zapewnić, że dane dotyczące identyfikowalności mogą być szybko dostępne w przypadku wystąpienia działania niepożądanego u pacjenta.
 6.40.
-Przez pisemną umowę odpowiedzialność za utrzymanie danych dotyczących identyfikowalności może być przekazana posiadaczowi pozwolenia na dopuszczenie do obrotu lub sponsorowi.
-Materiały wyjściowe i surowce – wymagania ogólne
+Przez pisemną umowę odpowiedzialność za utrzymanie danych dotyczących identyfikowalności może być przekazana posiadaczowi pozwolenia na dopuszczenie do obrotu lub sponsorowi. Materiały wyjściowe i surowce – wymagania ogólne
 7.10.
 Jakość materiałów wyjściowych i surowców jest kluczowym czynnikiem, który należy wziąć pod uwagę przy produkcji ATMP. Szczególną uwagę należy zwrócić na unikanie zanieczyszczeń i w miarę możliwości minimalizację zmienności materiałów wyjściowych i surowców. Specyfikacje dotyczące produktów (np. monografie farmakopealne, pozwolenie na dopuszczenie do obrotu oraz pozwolenie na prowadzenie badań klinicznych) zawierają informacje, czy i do jakiego etapu substancje i materiały mogą posiadać określony poziom obciążenia biologicznego lub czy mają one być jałowe. Przed wprowadzeniem do procesu wytwarzania zgodność z odpowiednimi wymaganiami jest sprawdzana.
 7.11.
-Użycie środków przeciwdrobnoustrojowych może być niezbędne, by zredukować obciążenie biologiczne związane z poborem żywych tkanek i komórek. Należy jednak podkreślić, że użycie środków przeciwdrobnoustroj owych nie zastępuje wymogu wytwarzania aseptycznego. Jeśli środki te są stosowane, to należy je usunąć z procesu wytwarzania tak szybko, jak to jest możliwe, chyba że ich obecność w końcowym produkcie jest wyraźnie przewidziana w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badań klinicznych (np. antybiotyki, które są częścią matrycy produktu końcowego). Dodatkowo należy się upewnić, że antybiotyki lub środki przeciwdrobnoustroj owe nie zakłócają testów sterylności i nie są obecne w produkcie końcowym, chyba że ich obecność przewidziano w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badań klinicznych (rozdział 2.6.1 Farmakopei Europejskiej dotyczący testów sterylności opisuje użycie substancji neutralizujących dla produktów zawierających antybiotyki).
-Surowce
+Użycie środków przeciwdrobnoustrojowych może być niezbędne, by zredukować obciążenie biologiczne związane z poborem żywych tkanek i komórek. Należy jednak podkreślić, że użycie środków przeciwdrobnoustroj owych nie zastępuje wymogu wytwarzania aseptycznego. Jeśli środki te są stosowane, to należy je usunąć z procesu wytwarzania tak szybko, jak to jest możliwe, chyba że ich obecność w końcowym produkcie jest wyraźnie przewidziana w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badań klinicznych (np. antybiotyki, które są częścią matrycy produktu końcowego). Dodatkowo należy się upewnić, że antybiotyki lub środki przeciwdrobnoustroj owe nie zakłócają testów sterylności i nie są obecne w produkcie końcowym, chyba że ich obecność przewidziano w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badań klinicznych (rozdział 2.6.1 Farmakopei Europejskiej dotyczący testów sterylności opisuje użycie substancji neutralizujących dla produktów zawierających antybiotyki). Surowce
 7.12.
 Surowce są odpowiedniej jakości do ich zamierzonego zastosowania. W szczególności wykazuje się, że żyzność pożywek jest odpowiednia do zamierzonego zastosowania.
 7.13.
@@ -1250,8 +1202,7 @@ W przypadku gdy system magazynowania jest w pełni skomputeryzowany, wszystkie p
 7.20.
 Mogą być użyte tylko te surowce, które zostały zwolnione przez osobę odpowiedzialną za kontrolę jakości.
 7.21.
-Wytwórca ATMP powinien wprowadzić odpowiednie środki zapewniające identyfikowalność surowców w celu ułatwienia wycofania produktów, jeżeli zajdzie taka potrzeba.
-Materiały wyjściowe
+Wytwórca ATMP powinien wprowadzić odpowiednie środki zapewniające identyfikowalność surowców w celu ułatwienia wycofania produktów, jeżeli zajdzie taka potrzeba. Materiały wyjściowe
 7.22.
 Dawstwo, pobieranie i testowanie ludzkich tkanek i komórek używanych jako materiały wyjściowe jest uregulowane w przepisach Unii Europejskiej dotyczących ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich. Dla komórek krwiopochodnych akceptowane jest również zastosowanie wymogów dotyczących doboru dawców i poboru oraz badania krwi i składników krwi przedstawionych w odpowiednich przepisach ustalających normy jakości i bezpieczeństwa w zakresie poboru, badania, przetwarzania, przechowywania i dystrybucji krwi i składników ludzkiej krwi. Wytwórca ATMP powinien zweryfikować, czy dostawcy materiałów wyjściowych posiadają odpowiednie zezwolenia wydane na mocy powyższych przepisów.
 7.23.
@@ -1283,8 +1234,7 @@ status materiału (np. w trakcie kwarantanny, w trakcie badań, zwolniony, odrzu
 5)
 termin ważności lub termin ponownego badania.
 7.32.
-W przypadku kiedy system magazynowania jest w pełni skomputeryzowany, wszystkie powyższe informacje nie muszą być dostępne w formie czytelnej na etykiecie. Używanie zautomatyzowanych systemów (np. kodów kreskowych) jest dopuszczalne.
-Przetwarzanie materiałów wyjściowych
+W przypadku kiedy system magazynowania jest w pełni skomputeryzowany, wszystkie powyższe informacje nie muszą być dostępne w formie czytelnej na etykiecie. Używanie zautomatyzowanych systemów (np. kodów kreskowych) jest dopuszczalne. Przetwarzanie materiałów wyjściowych
 7.33.
 Jakość ATMP jest zależna od jakości materiałów wyjściowych. Komórki i tkanki pochodzące od człowieka muszą być zgodne z wymaganiami dotyczącymi ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich, lub, jeżeli to właściwe, z przepisami ustalającymi normy jakości i bezpieczeństwa w zakresie poboru, badania, przetwarzania, przechowywania i dystrybucji krwi i składników ludzkiej krwi. Dalsze przetwarzanie lub wytwarzanie z użyciem wyżej wspomnianych materiałów odbywa się w warunkach Dobrej Praktyki Wytwarzania.
 7.34.
@@ -1292,8 +1242,7 @@ Jednak tam, gdzie etapy takie jak przemywanie, czy konserwacja są wymagane do o
 7.35.
 W wyjątkowych sytuacjach dopuszcza się, aby wytwarzanie ATMP rozpoczęło się z użyciem wcześniej dostępnych komórek lub tkanek, dla których pewne wstępne etapy przetwarzania lub wytwarzania zostały przeprowadzone w warunkach innych niż wymagania Dobrej Praktyki Wytwarzania pod warunkiem, że niemożliwe jest zastąpienie takiego materiału materiałem wyprodukowanym zgodnie z wymaganiami Dobrej Praktyki Wytwarzania. Użycie komórek, które zostały oddzielone lub wyizolowane i zakonserwowane w warunkach innych niż wymagania Dobrej Praktyki Wytwarzania do wytworzenia ATMP, powinno być wyjątkiem. Jest to możliwe tylko w przypadku, gdy wykonano analizę ryzyka w celu zidentyfikowania wymagań dotyczących badań niezbędnych do zapewnienia jakości materiału wyjściowego. Pełna odpowiedzialność za jakość – jak również jej wpływ na bezpieczeństwo i skuteczność produktu -spoczywa na wytwórcy ATMP (lub, jeśli dotyczy, sponsorze lub podmiocie odpowiedzialnym), nawet jeśli pewne działania zostały zlecone na zewnątrz. Zwolnienie takich komórek lub tkanek do użycia w procesie wytwarzania powinno być dokonane przez osobę odpowiedzialną za kontrolę jakości po zweryfikowaniu ich jakości i bezpieczeństwa. Dodatkowo organy kompetentne powinny wyrazić zgodę na strategię kontroli w ramach oceny wniosku o wydanie pozwolenia na dopuszczenie do obrotu lub wniosku o wydanie pozwolenia na prowadzenie badań klinicznych.
 7.36.
-W przypadku wektorów i nagich plazmidów używanych jako materiały wyjściowe do wytwarzania produktów leczniczych terapii genowej wymagania Dobrej Praktyki Wytwarzania mają zastosowanie od momentu utworzenia systemu banku komórek wykorzystywanego do wytworzenia wektora lub plazmidu do transferu genów.
-Dodatkowe uwagi dotyczące komórek i tkanek ksenogenicznych
+W przypadku wektorów i nagich plazmidów używanych jako materiały wyjściowe do wytwarzania produktów leczniczych terapii genowej wymagania Dobrej Praktyki Wytwarzania mają zastosowanie od momentu utworzenia systemu banku komórek wykorzystywanego do wytworzenia wektora lub plazmidu do transferu genów. Dodatkowe uwagi dotyczące komórek i tkanek ksenogenicznych
 7.37.
 Użycie komórek lub tkanek ksenogenicznych do wytwarzania ATMP stwarza dodatkowe ryzyko przenoszenia znanych i nieznanych patogenów na ludzi, włącznie z potencjalnym ryzykiem wprowadzenia nowych chorób zakaźnych. Wybór dawców zwierzęcych musi być zatem ściśle kontrolowany. Zwierzęta źródłowe lub dawcy powinni być zdrowi i wolni od specyficznych patogenów i hodowane w warunkach wolnych od specyficznych patogenów, włączając w to monitoring zdrowia. Zwierzęta źródłowe lub dawcy powinni być hodowani specjalnie do tego celu w zamknięciu (w obiektach z systemami barierowymi). Zabrania się używania do wytwarzania ATMP komórek i tkanek ksenogenicznych pochodzących od dzikich zwierząt lub zwierząt z ubojni. Podobnie nie należy wykorzystywać komórek i tkanek pochodzących od zwierząt założycieli.
 7.38.
@@ -1301,8 +1250,7 @@ Należy wdrożyć odpowiednie środki, aby zidentyfikować i zapobiegać incyden
 7.39.
 Przypadki złego stanu zdrowia występujące w stadzie badane są pod kątem możliwości dalszego wykorzystywania zwierząt pozostających w kontakcie ze zwierzętami chorymi (w procesie wytwarzania jako źródło materiałów wyjściowych i surowców, w kontroli jakości i badaniach bezpieczeństwa). Podejmowane decyzje są udokumentowane. Należy opracować procedurę wstecznej identyfikacji (tzw. procedurę look-back) mającą na celu identyfikację biologicznych substancji czynnych lub produktów leczniczych, które mogą ucierpieć wskutek wykorzystania lub włączenia materiałów zwierzęcych. Proces podejmowania decyzji może obejmować ponowne przeprowadzenie badań przechowywanych prób z poprzednich poborów pochodzących od tego samego dawcy zwierzęcego (jeżeli to właściwe) w celu określenia ostatniej negatywnej donacji.
 7.40.
-Okres wycofania czynników terapeutycznych stosowanych w procesie leczenia zwierząt źródłowych lub dawców jest udokumentowany, a na jego podstawie należy określić czas, na jaki te zwierzęta zostaną usunięte z programu.
-Seria siewna i system bankowania komórek
+Okres wycofania czynników terapeutycznych stosowanych w procesie leczenia zwierząt źródłowych lub dawców jest udokumentowany, a na jego podstawie należy określić czas, na jaki te zwierzęta zostaną usunięte z programu. Seria siewna i system bankowania komórek
 8.10.
 Zaleca się, aby system macierzystej i roboczej serii siewnej lub banku komórek stosowano do produktów alogenicznych, które nie wymagają zgodności między dawcą a pacjentem. Jednak założenie serii siewnej lub banku komórek nie jest obowiązkowe.
 8.11.
@@ -1322,8 +1270,7 @@ Po utworzeniu banku komórek, macierzystej serii siewnej lub wirusowej serii sie
 8.18.
 Pojemniki wyjęte z jednostek utrzymujących warunki kriogeniczne mogą być ponownie do nich wprowadzone tylko wtedy, gdy można udokumentować, że odpowiednie warunki były utrzymywane.
 8.19.
-Dostęp do banku komórek powinien być ograniczony tylko do osób upoważnionych.
-Pula komórek
+Dostęp do banku komórek powinien być ograniczony tylko do osób upoważnionych. Pula komórek
 8.20.
 Produkty pochodzenia komórkowego często otrzymuje się z hodowli o określonej, limitowanej liczbie pasaży. Podczas gdy bank komórek jest oparty na systemie dwustopniowym (banku macierzystego i roboczego), to liczba cykli produkcyjnych z utrzymywanej puli komórek jest ograniczona liczbą porcji otrzymanych po namnożeniu komórek i nie obejmuje całego cyklu życia produktu. Zmiany w puli komórek (w tym wprowadzanie do niej komórek od nowych dawców) powinny zostać uwzględnione w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badania klinicznego, a wdrożone postępowanie powinno być zgodne z zapisami w powyższych dokumentach.
 8.21.
@@ -1333,8 +1280,7 @@ W przypadku korzystania z puli komórek postępowanie z materiałem, przechowywa
 8.23.
 Procesy tworzenia nowych puli komórek, banku komórek oraz wirusowej puli siewnej powinny odbywać się zgodnie z Dobrą Praktyką Wytwarzania. W wyjątkowych i uzasadnionych przypadkach może być akceptowalne użycie puli komórek, banku komórek albo wirusowej puli siewnej założonej przed wejściem w życie rozporządzenia nr 1394/2007 bez pełnej zgodności z wymaganiami Dobrej Praktyki Wytwarzania. W takich przypadkach należy przeprowadzić analizę ryzyka w celu określenia wymagań dotyczących badań koniecznych do potwierdzenia jakości materiału wyjściowego. We wszystkich przypadkach całkowita odpowiedzialność za jakość i jej wpływ na profil bezpieczeństwa i skuteczność produktów spoczywa na wytwórcy ATMP lub w stosownych przypadkach na sponsorze lub posiadaczu pozwolenia na dopuszczenie do obrotu.
 8.24.
-Wykorzystanie materiałów wyjściowych pochodzących z puli komórek, banku komórek lub wirusowej puli siewnej założonych przed wejściem w życie rozporządzenia nr 1394/2007 niegwarantujących zgodności z wymaganiami Dobrej Praktyki Wytwarzania powinno być zatwierdzane przez właściwe organy w ramach oceny wniosku o pozwolenie na dopuszczenie do obrotu lub wniosku o pozwolenie na prowadzenie badania klinicznego.
-Produkcja – zasady ogólne
+Wykorzystanie materiałów wyjściowych pochodzących z puli komórek, banku komórek lub wirusowej puli siewnej założonych przed wejściem w życie rozporządzenia nr 1394/2007 niegwarantujących zgodności z wymaganiami Dobrej Praktyki Wytwarzania powinno być zatwierdzane przez właściwe organy w ramach oceny wniosku o pozwolenie na dopuszczenie do obrotu lub wniosku o pozwolenie na prowadzenie badania klinicznego. Produkcja – zasady ogólne
 9.10.
 Operacje produkcyjne, tj. napełnianie, pakowanie i, jeżeli ma to zastosowanie, kriokonserwacja -powinny przebiegać według jasno określonych procedur, zaprojektowanych w sposób zapewniający jakość produktu, spójną produkcję (odpowiednio dla danego etapu rozwoju) oraz być zgodne z wymogami zawartymi w zezwoleniu na wytwarzanie, pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badania klinicznego.
 9.11.
@@ -1344,8 +1290,7 @@ Procesy wytwarzania i programy ich kontroli powinny być regularnie poddawane pr
 9.13.
 W przypadku wprowadzenia każdego nowego przepisu wytwarzania lub procesu wytwarzania należy podjąć kroki wykazujące ich odpowiedniość. Przed wprowadzeniem powinno się rozważyć skutki zmian w produkcji w odniesieniu do jakości produktu końcowego i powtarzalności produkcji odpowiednio dla danego etapu rozwoju. Wszelkie zmiany dotyczące przepisu wytwarzania lub metody wytwarzania powinny być zarządzane zgodnie z zasadami określonymi w pkt 6.16–6.24.
 9.14.
-O ile to możliwe, powinno się unikać wszelkich odchyleń od instrukcji lub procedur. W przypadku wystąpienia odchylenia powinno ono zostać zatwierdzone na piśmie przez osobę odpowiedzialną po dokonaniu oceny jego wpływu na jakość, bezpieczeństwo i skuteczność przy udziale Osoby Wykwalifikowanej, stosownie do przypadku. Odchylenia powinny być wyjaśnione w celu określenia przyczyny pierwotnej oraz wdrożenia odpowiednich działań korygujących i zapobiegawczych.
-Postępowanie z materiałami i produktami przychodzącymi
+O ile to możliwe, powinno się unikać wszelkich odchyleń od instrukcji lub procedur. W przypadku wystąpienia odchylenia powinno ono zostać zatwierdzone na piśmie przez osobę odpowiedzialną po dokonaniu oceny jego wpływu na jakość, bezpieczeństwo i skuteczność przy udziale Osoby Wykwalifikowanej, stosownie do przypadku. Odchylenia powinny być wyjaśnione w celu określenia przyczyny pierwotnej oraz wdrożenia odpowiednich działań korygujących i zapobiegawczych. Postępowanie z materiałami i produktami przychodzącymi
 9.15.
 Wszystkie przypadki korzystania z materiałów i produktów (takie jak przyjmowanie i kwarantanna, pobieranie prób, przechowywanie, etykietowanie i pakowanie) powinny odbywać się zgodnie z pisemnymi procedurami lub instrukcjami i być rejestrowane w odpowiedni sposób. Program kontroli powinien być dostosowany do ryzyka.
 9.16.
@@ -1361,8 +1306,7 @@ Podczas procesu wytwarzania wszystkie materiały, pojemniki zawierające produkt
 9.21.
 Etykiety stosowane do oznakowania pojemników, urządzeń i pomieszczeń powinny być czytelne i jednoznaczne. Zaleca się dodatkowe stosowanie kolorów na etykietach w celu oznakowania statusu (np. kwarantanna, zaakceptowane, odrzucone, czyste). Należy zweryfikować zgodność etykiet z warunkami przechowywania lub przetwarzania (np. bardzo niskie temperatury przechowywania, łaźnia wodna).
 9.22.
-W razie potrzeby pojemniki powinny być czyszczone. Uszkodzenie pojemników i wszelkie inne zdarzenia, które mogłyby negatywnie wpłynąć na jakość materiału, powinny zostać zbadane, zarejestrowane i zgłoszone do osoby odpowiedzialnej za kontrolę jakości.
-Instalacje pomocnicze – woda
+W razie potrzeby pojemniki powinny być czyszczone. Uszkodzenie pojemników i wszelkie inne zdarzenia, które mogłyby negatywnie wpłynąć na jakość materiału, powinny zostać zbadane, zarejestrowane i zgłoszone do osoby odpowiedzialnej za kontrolę jakości. Instalacje pomocnicze – woda
 9.23.
 Woda używana do wytwarzania ATMP powinna być odpowiedniej jakości i regularnie kontrolowana w celu potwierdzenia braku zanieczyszczeń chemicznych i biologicznych oraz, w stosownych przypadkach, zanieczyszczeń endotoksynami.
 9.24.
@@ -1370,18 +1314,15 @@ Należy zachować ostrożność w utrzymaniu systemów wody w celu uniknięcia r
 9.25.
 Rurociągi z wodą do wstrzykiwań, wodą oczyszczoną oraz, jeżeli to potrzebne, inne rurociągi wodne powinny być sanityzowane według pisemnych procedur, określających dopuszczalne limity zanieczyszczeń mikrobiologicznych oraz środki, które mają być podjęte. Po każdej chemicznej sanityzacji systemu wody należy zastosować zwalidowaną procedurę płukania w celu zapewnienia, że czynnik sanityzujący został skutecznie usunięty.
 9.26.
-Stosowanie wody do wstrzykiwań w pojemnikach spełniającej wymagania monografii 0169 Farmakopei Europejskiej eliminuje, przewidzianą w poprzednich punktach, potrzebę wykazania odpowiedniej jakości wody do wstrzykiwań.
-Instalacje pomocnicze – gazy medyczne
+Stosowanie wody do wstrzykiwań w pojemnikach spełniającej wymagania monografii 0169 Farmakopei Europejskiej eliminuje, przewidzianą w poprzednich punktach, potrzebę wykazania odpowiedniej jakości wody do wstrzykiwań. Instalacje pomocnicze – gazy medyczne
 9.27.
 Gazy wykorzystywane w produkcji ATMP powinny być odpowiedniej jakości.
 9.28.
 Tam, gdzie to możliwe, gazy, które mają bezpośredni kontakt z produktem w trakcie wytwarzania powinny być zgodne z wymogami Farmakopei Europejskiej. Zastosowanie gazów jakości technicznej powinno być oparte na analizie ryzyka, a ich jakość opisana w dokumentacji badań klinicznych lub dokumentacji pozwolenia na dopuszczenie do obrotu.
 9.29.
-Gazy wykorzystywane w aseptycznych warunkach pracy lub gazy które wchodzą w kontakt z produktem, należy poddać filtracji sterylizującej. Integralność krytycznych filtrów do gazu powinna być potwierdzana w stosownych odstępach czasu uzasadnionych naukowo. W przypadku serii przeznaczonych dla więcej niż jednego pacjenta zasadniczo oczekuje się, że krytyczne filtry gazu należy zbadać przed zwolnieniem serii. Ciekły azot wykorzystywany do przechowywania komórek w zamkniętych pojemnikach nie musi być filtrowany.
-Instalacje pomocnicze – para czysta
+Gazy wykorzystywane w aseptycznych warunkach pracy lub gazy które wchodzą w kontakt z produktem, należy poddać filtracji sterylizującej. Integralność krytycznych filtrów do gazu powinna być potwierdzana w stosownych odstępach czasu uzasadnionych naukowo. W przypadku serii przeznaczonych dla więcej niż jednego pacjenta zasadniczo oczekuje się, że krytyczne filtry gazu należy zbadać przed zwolnieniem serii. Ciekły azot wykorzystywany do przechowywania komórek w zamkniętych pojemnikach nie musi być filtrowany. Instalacje pomocnicze – para czysta
 9.30.
-Woda wykorzystywana do produkcji pary czystej powinna być odpowiedniej jakości. Para używana do sterylizacji powinna być odpowiedniej jakości i wolna od domieszek na poziomie, który może spowodować zanieczyszczenie produktu lub urządzenia.
-Zapobieganie zanieczyszczeniu krzyżowemu w produkcji
+Woda wykorzystywana do produkcji pary czystej powinna być odpowiedniej jakości. Para używana do sterylizacji powinna być odpowiedniej jakości i wolna od domieszek na poziomie, który może spowodować zanieczyszczenie produktu lub urządzenia. Zapobieganie zanieczyszczeniu krzyżowemu w produkcji
 9.31.
 Przed rozpoczęciem każdej operacji wytwórczej należy podjąć kroki w celu zapewnienia, że obszar prac i wyposażenie są czyste i wolne od wszelkich materiałów wyjściowych, produktów lub pozostałości produktów lub dokumentów, które nie są wymagane w odniesieniu do bieżącej operacji. Należy zapobiegać pomieszaniu materiałów; należy podjąć specjalne środki ostrożności w celu uniknięcia pomieszania materiałów autologicznych lub innych przeznaczonych do tego materiałów.
 9.32.
@@ -1413,13 +1354,11 @@ Program kontroli jest kompleksowy i uwzględnia wszystkie potencjalne ryzyka, w 
 9.37.
 Skuteczność wprowadzonych środków powinna podlegać okresowemu przeglądowi zgodnie z ustalonymi procedurami. Ocena ta powinna prowadzić, w razie konieczności, do działań korygujących i zapobiegawczych.
 9.38.
-Przypadkowe rozlanie, szczególnie w przypadku organizmów żywych, wymaga natychmiastowego podjęcia działań zabezpieczających. Powinny być dostępne skwalifikowane środki dekontaminacji, z uwzględnieniem organizmów użytych w produkcji, a także ryzyk związanych z istotnymi materiałami biologicznymi.
-Wytwarzanie aseptyczne – zasady ogólne
+Przypadkowe rozlanie, szczególnie w przypadku organizmów żywych, wymaga natychmiastowego podjęcia działań zabezpieczających. Powinny być dostępne skwalifikowane środki dekontaminacji, z uwzględnieniem organizmów użytych w produkcji, a także ryzyk związanych z istotnymi materiałami biologicznymi. Wytwarzanie aseptyczne – zasady ogólne
 9.39.
 Większość ATMP nie może być sterylizowana końcowo. W takich przypadkach proces wytwarzania powinien być prowadzony w sposób aseptyczny, tzn. w warunkach zapobiegających zanieczyszczeniu mikrobiologicznemu. W szczególności wymagane jest, aby w przypadku wykonywania jakiejkolwiek czynności wytwórczej, podczas której produkt może być narażony na ryzyko zanieczyszczenia, stosować środki opisane w pkt 9.40–9.54.
 9.40.
-Operacje wytwarzania powinny odbywać się w pomieszczeniach czystych o odpowiednim poziomie czystości środowiska: w systemach zamkniętych opisanych w pkt 9.41–9.45, w systemach otwartych opisanych w pkt 9.46–9.48 lub jako produkcja wewnątrz sterylnych zestawów jednorazowych, inkubacja w zamkniętych kolbach, workach lub fermentorach opisanych w pkt 9.49–9.54.
-Produkcja w systemie zamkniętym
+Operacje wytwarzania powinny odbywać się w pomieszczeniach czystych o odpowiednim poziomie czystości środowiska: w systemach zamkniętych opisanych w pkt 9.41–9.45, w systemach otwartych opisanych w pkt 9.46–9.48 lub jako produkcja wewnątrz sterylnych zestawów jednorazowych, inkubacja w zamkniętych kolbach, workach lub fermentorach opisanych w pkt 9.49–9.54. Produkcja w systemie zamkniętym
 9.41.
 W izolatorze lub w izolatorach pracujących w nadciśnieniu klasa czystości powietrza D dla środowiska otaczającego jest dopuszczalna.
 9.42.
@@ -1429,8 +1368,7 @@ Monitorowanie jest prowadzone rutynowo i obejmuje częste badanie szczelności i
 9.44.
 Kiedy materiały są dostarczane lub usuwane z systemu zamkniętego bez zastosowania aseptycznych połączeń (np. przez stosowanie sterylnych złączek, stosowanie filtrów), system ten nie jest uważany za system zamknięty.
 9.45.
-W wyjątkowych okolicznościach i pod warunkiem, że jest to należycie uzasadnione (np. w przypadku gdy wytwarzanie ATMP odbywa się w sali operacyjnej i nie jest możliwe przeniesienie produkcji do pomieszczenia czystego znajdującego się na zewnątrz, ponieważ czas między pobraniem produktu od dawcy i podaniem go pacjentowi, który znajduje się w sali operacyjnej w oczekiwaniu na podanie ATMP, jest bardzo krótki), systemy zamknięte mogą być zainstalowane w środowisku kontrolowanym, ale nieklasyfikowanym. Warunki panujące w sali operacyjnej, w której prowadzone są czynności wytwórcze, powinny być odpowiednie i wystarczające, aby zapewnić jakość i bezpieczeństwo produktu. Należy podkreślić, że jest to dopuszczalne jedynie w wyjątkowych przypadkach i że produkt nie powinien być w żadnym momencie wystawiony na środowisko (np. pomocne są wyniki z badania szczelności i kontroli ciśnienia w urządzeniu). Ponadto należy wykazać, że spodziewane korzyści kliniczne dla pacjenta są większe niż ryzyko związane z brakiem klasyfikowanego otoczenia.
-Produkcja w systemie otwartym
+W wyjątkowych okolicznościach i pod warunkiem, że jest to należycie uzasadnione (np. w przypadku gdy wytwarzanie ATMP odbywa się w sali operacyjnej i nie jest możliwe przeniesienie produkcji do pomieszczenia czystego znajdującego się na zewnątrz, ponieważ czas między pobraniem produktu od dawcy i podaniem go pacjentowi, który znajduje się w sali operacyjnej w oczekiwaniu na podanie ATMP, jest bardzo krótki), systemy zamknięte mogą być zainstalowane w środowisku kontrolowanym, ale nieklasyfikowanym. Warunki panujące w sali operacyjnej, w której prowadzone są czynności wytwórcze, powinny być odpowiednie i wystarczające, aby zapewnić jakość i bezpieczeństwo produktu. Należy podkreślić, że jest to dopuszczalne jedynie w wyjątkowych przypadkach i że produkt nie powinien być w żadnym momencie wystawiony na środowisko (np. pomocne są wyniki z badania szczelności i kontroli ciśnienia w urządzeniu). Ponadto należy wykazać, że spodziewane korzyści kliniczne dla pacjenta są większe niż ryzyko związane z brakiem klasyfikowanego otoczenia. Produkcja w systemie otwartym
 9.46.
 Zgodnie z ogólną zasadą, jeżeli produkt jest wystawiony na działanie środowiska (np. warunki pracy zapewnione przez laminarny przepływ powietrza), przy przygotowaniu i napełnianiu aseptycznym wymagana jest krytyczna strefa czysta klasy A w otoczeniu klasy B.
 9.47.
@@ -1440,8 +1378,7 @@ przygotowanie roztworów, które w trakcie procesu są poddawane filtracji stery
 2)
 podczas procesu wytwarzania wektorów wirusowych etap wzrostu przed filtracją sterylną może być wykonywany w krytycznej strefie czystej klasy A w otoczeniu klasy C lub filtracja sterylna oraz napełnianie powinny być wykonywane w krytycznej strefie czystej klasy A w otoczeniu klasy B, chyba że stosowany jest system zamknięty ze sterylnymi połączeniami.
 9.48.
-W przypadku badanych ATMP stosowanych w bardzo wczesnej fazie lub podczas badań sprawdzających koncepcję są możliwe podejścia alternatywne pod warunkami wyjaśnionymi w pkt 2.48–2.54.
-Produkcja wewnątrz sterylnych zestawów jednorazowych, inkubacja w zamkniętych kolbach, workach lub fermentorach
+W przypadku badanych ATMP stosowanych w bardzo wczesnej fazie lub podczas badań sprawdzających koncepcję są możliwe podejścia alternatywne pod warunkami wyjaśnionymi w pkt 2.48–2.54. Produkcja wewnątrz sterylnych zestawów jednorazowych, inkubacja w zamkniętych kolbach, workach lub fermentorach
 9.49.
 Jeżeli zamknięte kolby, worki, fermentory pozwalają na pełną izolację produktu od środowiska i zastosowanie miałyby odpowiednie zasady jak dla systemów zamkniętych, to byłyby uznawane za systemy zamknięte w środowisku klasy C, jeżeli są wdrożone odpowiednie środki kontroli w celu uniknięcia ryzyka zanieczyszczenia krzyżowego (np. odpowiednia kontrola materiałów, dróg przepływu personelu oraz czystości). Należy zwrócić szczególną uwagę, jeżeli materiały są następnie przemieszczane do pomieszczeń czystych o wyższej klasie czystości.
 9.50.
@@ -1453,8 +1390,7 @@ Jeżeli sterylizacja wyposażenia, materiałów lub sprzętu nie jest możliwa, 
 9.53.
 Dodawanie materiałów lub kultur do fermentorów lub innych zbiorników oraz próbkowanie powinny być wykonywane w ściśle kontrolowanych warunkach, aby zapobiegać zanieczyszczeniu. Należy podjąć starania w celu zapewnienia, że zbiorniki są prawidłowo podłączone w trakcie prowadzenia operacji załadunku materiałów lub próbkowania. Filtry sterylizujące w linii, wykorzystywane podczas rutynowego dodawania gazów, podłoży hodowlanych, kwasów oraz zasad, środków przeciwpiennych itp. do bioreaktorów, powinny być wykorzystane tam, gdzie to możliwe.
 9.54.
-Warunki pobierania prób, dodawanie i transfery obejmujące wektory zdolne do replikacji lub materiały od zakażonych dawców powinny zapobiegać uwolnieniu materiału wirusowego lub zakażonego.
-Walidacja procesu aseptycznego
+Warunki pobierania prób, dodawanie i transfery obejmujące wektory zdolne do replikacji lub materiały od zakażonych dawców powinny zapobiegać uwolnieniu materiału wirusowego lub zakażonego. Walidacja procesu aseptycznego
 9.55.
 Walidacja procesu aseptycznego obejmuje test symulacji procesu. Badanie symulacyjne procesu aseptycznego jest odtworzeniem procesu wytwarzania z zastosowaniem sterylnego mikrobiologicznego podłoża hodowlanego lub placebo (np. podłoży hodowlanych komórek, które wspomagają wzrost bakterii) w celu sprawdzenia, czy procedury produkcyjne są wystarczające, aby zapobiec zanieczyszczeniu podczas produkcji. Wyniki i wnioski powinny być rejestrowane. Badanie symulacyjne procesu naśladuje tak dokładnie, jak to jest możliwe, rutynowy proces wytwarzania i powinno być prowadzone w tym samym obszarze, w którym ma miejsce produkcja. Badanie symulacyjne procesu powinno koncentrować się na wszystkich operacjach wykonywanych przez operatorów, w tym na etapach procesu z otwartym produktem. Bierze się również pod uwagę wszystkie potencjalne interwencje i specyficzne warunki (np. pracę w nocy).
 9.56.
@@ -1476,8 +1412,7 @@ Jednak w przypadku nieczęstej produkcji (tj. jeżeli odstęp czasu między prod
 9.64.
 Rozważając częstotliwość badania symulacyjnego, wytwórca musi również uwzględnić znaczenie testu napełniania pożywką podczas szkolenia operatorów i ich zdolność do pracy w środowisku aseptycznym (zobacz pkt 3.12–3.19).
 9.65.
-Symulacja procesu powinna być również prowadzona w przypadkach, gdy są wprowadzane istotne zmiany w procesie (np. zmiana systemu HVAC, urządzeń itd.). W tym przypadku są wymagane trzy próby symulacyjne.
-Sterylizacja
+Symulacja procesu powinna być również prowadzona w przypadkach, gdy są wprowadzane istotne zmiany w procesie (np. zmiana systemu HVAC, urządzeń itd.). W tym przypadku są wymagane trzy próby symulacyjne. Sterylizacja
 9.66.
 Zastosowane procesy sterylizacji powinny być odpowiednie w odniesieniu do specyficznych cech produktu. W szczególności gdy wymagana jest sterylizacja materiałów wyjściowych (np. matryc chemicznych) oraz surowców i substancji pomocniczych, należy zapewnić, że zastosowany proces sterylizacji (np. termiczny, napromienianie, filtracja lub dezaktywacja chemiczna) jest skuteczny pod względem usuwania zanieczyszczenia przy jednoczesnym zachowaniu aktywności materiałów wyjściowych, surowców i substancji pomocniczych.
 9.67.
@@ -1485,8 +1420,7 @@ Zastosowane procesy sterylizacji powinny być zwalidowane. Należy zwrócić szc
 9.68.
 Roztwory lub płyny, których nie można wysterylizować w opakowaniu końcowym, powinny być filtrowane przez sterylny filtr o nominalnej wielkości porów 0,22 µm (lub mniejszych) lub o co najmniej równoważnych możliwościach zatrzymywania drobnoustrojów do uprzednio wysterylizowanego pojemnika.
 9.69.
-Filtr nie powinien mieć negatywnego wpływu na produkt, np. przez usunięcie składników lub uwalnianie do niego substancji. Integralność filtra sterylizującego powinna być sprawdzana przed użyciem w przypadku podejrzenia, że filtr może być uszkodzony, a także powinna być potwierdzona przez testowanie w linii natychmiast po użyciu za pomocą odpowiedniej metody, np. testu pęcherzykowego, dyfuzyjnego, wodnego lub ciśnieniowego. Jeżeli sprawdzenie integralności filtra nie jest możliwe, np. w przypadku serii o małych wielkościach, można zastosować podejście alternatywne, które powinno opierać się na ocenie ryzyka. Ten sam filtr nie powinien być używany do różnych serii. Ponadto ten sam filtr nie powinien być używany dłużej niż jeden dzień roboczy, jeżeli możliwość dłuższego stosowania nie została zwalidowana.
-Pozostałe zasady prowadzenia operacji
+Filtr nie powinien mieć negatywnego wpływu na produkt, np. przez usunięcie składników lub uwalnianie do niego substancji. Integralność filtra sterylizującego powinna być sprawdzana przed użyciem w przypadku podejrzenia, że filtr może być uszkodzony, a także powinna być potwierdzona przez testowanie w linii natychmiast po użyciu za pomocą odpowiedniej metody, np. testu pęcherzykowego, dyfuzyjnego, wodnego lub ciśnieniowego. Jeżeli sprawdzenie integralności filtra nie jest możliwe, np. w przypadku serii o małych wielkościach, można zastosować podejście alternatywne, które powinno opierać się na ocenie ryzyka. Ten sam filtr nie powinien być używany do różnych serii. Ponadto ten sam filtr nie powinien być używany dłużej niż jeden dzień roboczy, jeżeli możliwość dłuższego stosowania nie została zwalidowana. Pozostałe zasady prowadzenia operacji
 9.70.
 Krytyczne parametry jakości określone w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badania klinicznego powinny być monitorowane w odpowiednich odstępach czasu. Gdy jest to technicznie możliwe, oczekuje się ciągłego monitorowania kluczowych parametrów procesu, np. w bioreaktorach. Wszelkie odchylenia powinny być rejestrowane i wyjaśniane, a podjęte działania również powinny być udokumentowane.
 9.71.
@@ -1494,8 +1428,7 @@ Należy przeprowadzać i dokumentować wszelkie niezbędne kontrole środowiska 
 9.72.
 W przypadku stosowania urządzeń do chromatografii należy wdrożyć odpowiedni program kontroli matryc, osłon i związanego z nimi wyposażenia (dostosowany do ryzyka), gdy są one wykorzystywane w produkcji kampanijnej i w środowiskach wieloproduktowych. Należy unikać ponownego wykorzystania tej samej matrycy na różnych etapach przetwarzania. Każde takie ponowne użycie powinno być wspierane przez odpowiednie dane z walidacji. Należy określić kryteria akceptacji, warunki pracy, metody regeneracji, żywotność i metody sanityzacji lub sterylizacji kolumn chromatograficznych.
 9.73.
-W przypadku gdy stosuje się promieniowanie jonizujące do wytwarzania ATMP, należy zastosować wymagania określone w Aneksie 12 załącznika nr 5 do niniejszego rozporządzenia.
-Pakowanie
+W przypadku gdy stosuje się promieniowanie jonizujące do wytwarzania ATMP, należy zastosować wymagania określone w Aneksie 12 załącznika nr 5 do niniejszego rozporządzenia. Pakowanie
 9.74.
 Odpowiedniość materiałów opakowaniowych bezpośrednich należy zapewnić, uwzględniając właściwości produktu i warunki przechowywania (np. produkty, które powinny być przechowywane w bardzo niskiej temperaturze). Specyfikacje określone w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badania klinicznego powinny być przestrzegane.
 9.75.
@@ -1505,8 +1438,7 @@ ATMP powinny być odpowiednio pakowane, aby utrzymać jakość produktu podczas 
 9.77.
 Należy sprawdzić, czy wszystkie czytniki kodów elektronicznych, liczniki etykiet lub podobne urządzenia działają poprawnie. Etykiety powinny być odpowiednie do warunków transportu i przechowywania, np. w bardzo niskich temperaturach.
 9.78.
-Przed rozpoczęciem operacji etykietowania produktu obszar pracy i każdy używany sprzęt powinny być czyste i wolne od jakichkolwiek produktów, materiałów lub dokumentów, które nie są wymagane podczas bieżących operacji. Należy podjąć środki ostrożności, aby uniknąć pomieszania produktów i chronić produkt przed ryzykiem zanieczyszczenia.
-Pakowanie – dodatkowe wymagania dotyczące badanych ATMP
+Przed rozpoczęciem operacji etykietowania produktu obszar pracy i każdy używany sprzęt powinny być czyste i wolne od jakichkolwiek produktów, materiałów lub dokumentów, które nie są wymagane podczas bieżących operacji. Należy podjąć środki ostrożności, aby uniknąć pomieszania produktów i chronić produkt przed ryzykiem zanieczyszczenia. Pakowanie – dodatkowe wymagania dotyczące badanych ATMP
 9.79.
 Pakowanie i etykietowanie badanych ATMP jest bardziej złożone i bardziej podatne na błędy, które są trudniejsze do wykrycia, niż w przypadku produktów leczniczych dopuszczonych do obrotu, szczególnie w przypadku zastosowania produktów „zaślepionych” o podobnym wyglądzie. Dlatego należy podjąć specjalne środki ostrożności.
 9.80.
@@ -1516,8 +1448,7 @@ Etykietowanie badanych ATMP powinno być zgodne z wymaganiami rozporządzenia nr
 9.82.
 Przepakowywanie i ponowne etykietowanie powinny być wykonywane przez odpowiednio wyszkolony personel zgodnie z określonymi standardowymi procedurami operacyjnymi oraz powinny być sprawdzone przez drugą osobę.
 9.83.
-Tam, gdzie produkty są „zaślepiane”, system zaślepiania należy opisać w Podstawowej Dokumentacji Produktu (patrz pkt 6.16–6.24). W przypadku gdy wytwórcy przekazano odpowiedzialność za generowanie kodów randomizacji, wytwórca powinien umożliwić dostęp do informacji o „odślepianiu” właściwemu personelowi odpowiedzialnemu za prowadzenie badania klinicznego w miejscu jego prowadzenia, zanim zostaną dostarczone badane produkty lecznicze. Należy zachować szczególne środki ostrożności, aby uniknąć niezamierzonego „odślepiania” w wyniku zmian w wyglądzie między różnymi seriami materiałów opakowaniowych.
-Produkty końcowe
+Tam, gdzie produkty są „zaślepiane”, system zaślepiania należy opisać w Podstawowej Dokumentacji Produktu (patrz pkt 6.16–6.24). W przypadku gdy wytwórcy przekazano odpowiedzialność za generowanie kodów randomizacji, wytwórca powinien umożliwić dostęp do informacji o „odślepianiu” właściwemu personelowi odpowiedzialnemu za prowadzenie badania klinicznego w miejscu jego prowadzenia, zanim zostaną dostarczone badane produkty lecznicze. Należy zachować szczególne środki ostrożności, aby uniknąć niezamierzonego „odślepiania” w wyniku zmian w wyglądzie między różnymi seriami materiałów opakowaniowych. Produkty końcowe
 9.84.
 Zgodnie z ogólną zasadą produkty końcowe należy poddać kwarantannie do czasu ich zwolnienia na warunkach ustalonych przez wytwórcę zgodnie z pozwoleniem na dopuszczenie do obrotu lub pozwoleniem na prowadzenie badania klinicznego. Uznaje się jednak, że ze względu na krótki okres przydatności do użycia fizyczna lub administracyjna kwarantanna ATMP nie zawsze jest możliwa. Zwolnienie produktów przed zakończeniem wszystkich badań kontroli jakości jest omówione w pkt 11.37–11.42.
 9.85.
@@ -1525,8 +1456,7 @@ Wypełnione pojemniki z produktami do podawania pozajelitowego powinny być kont
 9.86.
 Każda wykryta wada powinna zostać zarejestrowana i wyjaśniona. Wymagania określone w pkt 14.10–14.18 mają również zastosowanie w przypadku wykrytych na tym etapie wad.
 9.87.
-Produkty końcowe są przechowywane w odpowiednich warunkach w celu zachowania jakości produktu i zapobiegania pomieszaniu. Szczególną uwagę należy zwrócić na wdrożenie odpowiednich środków zapobiegających pomieszaniu produktów autologicznych i innych produktów do tego przeznaczonych, tj. produktów przeznaczonych dla konkretnych pacjentów.
-Materiały odrzucone, odzyskane i zwrócone
+Produkty końcowe są przechowywane w odpowiednich warunkach w celu zachowania jakości produktu i zapobiegania pomieszaniu. Szczególną uwagę należy zwrócić na wdrożenie odpowiednich środków zapobiegających pomieszaniu produktów autologicznych i innych produktów do tego przeznaczonych, tj. produktów przeznaczonych dla konkretnych pacjentów. Materiały odrzucone, odzyskane i zwrócone
 9.88.
 Materiały odrzucone powinny być wyraźnie oznakowane i przechowywane oddzielnie w wyznaczonych obszarach (np. pod zamknięciem). Materiały wyjściowe i surowce powinny być zwracane dostawcom lub usuwane ze środowiska produkcyjnego. Gdy jakiekolwiek działania zostaną podjęte, powinno to zostać zatwierdzone i udokumentowane przez upoważnionych pracowników.
 9.89.
@@ -1534,8 +1464,7 @@ Powtórne przetwarzanie produktów odrzuconych powinno być stosowane wyjątkowo
 9.90.
 Ponadto użycie materiałów powtórnie przetworzonych jest możliwe tylko wtedy, gdy nie ma to wpływu na jakość produktu końcowego, a specyfikacje są spełnione. Potrzeba przeprowadzenia dodatkowych badań produktu końcowego, który został powtórnie przetworzony lub do którego został dodany powtórnie przetworzony produkt, powinna zostać oceniona przez osobę odpowiedzialną za kontrolę jakości. Należy przechowywać zapisy z operacji powtórnego przetwarzania. Certyfikacja przez osobę wykwalifikowaną jest wymagana przed zwolnieniem produktu.
 9.91.
-Produkty zwrócone, które znajdowały się poza kontrolą wytwórcy, powinny być oznaczone jako zwrócone i oddzielone, aby nie były dostępne do dalszego zastosowania w praktyce klinicznej, z wyjątkiem sytuacji, kiedy ich jakość jest niewątpliwie odpowiednia po ich krytycznej ocenie przez osobę odpowiedzialną za kontrolę jakości.
-Kwalifikacja i walidacja – kwalifikacja pomieszczeń i urządzeń
+Produkty zwrócone, które znajdowały się poza kontrolą wytwórcy, powinny być oznaczone jako zwrócone i oddzielone, aby nie były dostępne do dalszego zastosowania w praktyce klinicznej, z wyjątkiem sytuacji, kiedy ich jakość jest niewątpliwie odpowiednia po ich krytycznej ocenie przez osobę odpowiedzialną za kontrolę jakości. Kwalifikacja i walidacja – kwalifikacja pomieszczeń i urządzeń
 10.10.
 Pomieszczenia i urządzenia używane do wytwarzania ATMP są kwalifikowane. Kwalifikacja pomieszczeń i urządzeń jest prowadzona w celu wykazania, że pomieszczenia i urządzenia są odpowiednie do zamierzonych operacji.
 10.11.
@@ -1549,8 +1478,7 @@ W odniesieniu do badanych ATMP należy co najmniej zweryfikować, czy systemy za
 10.15.
 Przed rozpoczęciem wytwarzania nowego typu ATMP w pomieszczeniach już skwalifikowanych wytwórca powinien ocenić konieczność ponownej rekwalifikacji, biorąc pod uwagę specyficzne ryzyka i właściwości nowego procesu wytwarzania lub nowego produktu. Na przykład, jeśli pomieszczenia zostały skwalifikowane dla procesów otwartych, a zostanie wprowadzony proces zamknięty, można przyjąć, że istniejąca kwalifikacja pomieszczenia obejmuje najgorszy przypadek, a zatem rekwalifikacja nie jest konieczna. Przeciwnie, gdy pomieszczenia zostały poddane kwalifikacji dla prostych procesów wytwarzania, a zostanie wprowadzony bardziej złożony proces, który może np. wymagać dodatkowego poziomu zabezpieczeń, rekwalifikacja jest wymagana. Podobnie, jeśli zostanie wprowadzona znacząca zmiana w układzie pomieszczeń, wówczas należy przeprowadzić ocenę w celu określenia, czy wymagana jest rekwalifikacja.
 10.16.
-Pomieszczenia i urządzenia są poddawane ponownej ocenie w określonych odstępach czasu w celu potwierdzenia, że są one odpowiednie do zamierzonych operacji.
-Etapy procesu kwalifikacji
+Pomieszczenia i urządzenia są poddawane ponownej ocenie w określonych odstępach czasu w celu potwierdzenia, że są one odpowiednie do zamierzonych operacji. Etapy procesu kwalifikacji
 10.17.
 Ustanowienie specyfikacji wymagań użytkownika: wytwórca lub, w stosownych przypadkach, sponsor lub podmiot odpowiedzialny powinien określić specyfikacje pomieszczeń i urządzeń. Specyfikacja wymagań użytkownika powinna zapewniać, że krytyczne cechy jakościowe produktu i zidentyfikowane ryzyka związane z procesami wytwórczymi są odpowiednio uwzględnione (np. środki zapobiegające zanieczyszczeniu krzyżowemu w przedsiębiorstwie, gdzie wytwarza się wiele produktów). Odpowiedniość materiałów, z których zbudowane są części urządzenia mające kontakt z produktem, powinny być również określone jako część specyfikacji wymagań użytkownika.
 10.18.
@@ -1574,13 +1502,11 @@ Wszelkie odchylenia są wyjaśniane przed przejściem do kolejnego etapu kwalifi
 10.24.
 W przypadku gdy transport i instalacja nie mają wpływu na funkcjonalność urządzenia, przegląd dokumentacji i pewne testy mogą być przeprowadzone w siedzibie dostawcy (np. przez fabryczny test akceptacyjny), bez konieczności powtarzania odpowiednich elementów IQ lub OQ w miejscu wytwarzania.
 10.25.
-Podobnie w przypadku walidacji kilku identycznych elementów urządzenia dopuszcza się, aby wytwórca ustanowił odpowiednią strategię badań opartą na ocenie ryzyka.
-Dokumentacja kwalifikacyjna
+Podobnie w przypadku walidacji kilku identycznych elementów urządzenia dopuszcza się, aby wytwórca ustanowił odpowiednią strategię badań opartą na ocenie ryzyka. Dokumentacja kwalifikacyjna
 10.26.
 Sporządza się raport podsumowujący wyniki i wnioski z przeprowadzonej kwalifikacji. W przypadku dokumentów dostarczanych przez strony trzecie (np. dostawców, instalatorów) wytwórca ATMP lub, w stosownych przypadkach, sponsor lub podmiot odpowiedzialny ocenia, czy dostarczona dokumentacja jest wystarczająca lub czy powinny być przeprowadzone dodatkowe testy w celu potwierdzenia odpowiedniości urządzeń (np. kiedy brak jest pełnej informacji w odniesieniu do zamierzonego procesu wytwarzania, jeżeli urządzenie ma być używane w inny sposób niż zgodnie z przewidzianym przez producenta urządzenia itp.).
 10.27.
-Jeżeli kwalifikacja pomieszczeń lub urządzeń jest zlecana stronie trzeciej, mają również zastosowanie zasady zawarte w pkt 13.10–13.19.
-Walidacja czyszczenia
+Jeżeli kwalifikacja pomieszczeń lub urządzeń jest zlecana stronie trzeciej, mają również zastosowanie zasady zawarte w pkt 13.10–13.19. Walidacja czyszczenia
 10.28.
 Należy zwalidować procedury stosowane do czyszczenia narzędzi i części sprzętu wielorazowego użytku, które mają kontakt z produktem.
 10.29.
@@ -1608,11 +1534,9 @@ kryteria akceptacji, w tym naukowe uzasadnienie ustanowienia określonych limit�
 10.33.
 W celu udowodnienia, że metoda czyszczenia jest zwalidowana, procedura czyszczenia powinna być wykonana odpowiednią liczbę razy wyznaczoną na podstawie oceny ryzyka i spełniać kryteria akceptacji (zwykle co najmniej trzy kolejne serie). Walidacja czyszczenia może być zredukowana lub jest niewymagana, jeśli w procesie wytwarzania używane są materiały jednorazowego użytku.
 10.34.
-Wizualna kontrola czystości jest ważną częścią kryteriów akceptacji walidacji czyszczenia. Jednak nie jest akceptowalne zastosowanie jej jako samodzielnego kryterium. Nie akceptuje się powtarzania czyszczenia i badań aż do osiągnięcia dopuszczalnego poziomu pozostałości.
-Walidacja czyszczenia – podejście do badanych ATMP
+Wizualna kontrola czystości jest ważną częścią kryteriów akceptacji walidacji czyszczenia. Jednak nie jest akceptowalne zastosowanie jej jako samodzielnego kryterium. Nie akceptuje się powtarzania czyszczenia i badań aż do osiągnięcia dopuszczalnego poziomu pozostałości. Walidacja czyszczenia – podejście do badanych ATMP
 10.35.
-W przypadku badanych ATMP akceptowalna jest weryfikacja czyszczenia. W takich przypadkach powinny istnieć dowody z przeprowadzenia weryfikacji, do uzasadnienia wniosku, że urządzenie jest czyste i gotowe do dalszego użycia.
-Walidacja procesu
+W przypadku badanych ATMP akceptowalna jest weryfikacja czyszczenia. W takich przypadkach powinny istnieć dowody z przeprowadzenia weryfikacji, do uzasadnienia wniosku, że urządzenie jest czyste i gotowe do dalszego użycia. Walidacja procesu
 10.36.
 Walidacja procesu to udokumentowany dowód, że proces wytwarzania nieprzerwanie prowadzi do zamierzonych rezultatów zgodnych z określonymi parametrami. Z uwagi na właściwości materiałów wyjściowych uznaje się, że pewien stopień zróżnicowania produktu końcowego jest integralną cechą ATMP. Z tego względu celem walidacji procesu wytwarzania ATMP jest wykazanie, że właściwości wytworzonego produktu leczniczego zawierają się w określonym zakresie zgodnym z warunkami pozwolenia na dopuszczenie do obrotu.
 10.37.
@@ -1638,31 +1562,25 @@ specyfikacje produktu końcowego zgodne z pozwoleniem na dopuszczenie do obrotu.
 10.39.
 Jest akceptowalne, że minimum trzy kolejne serie wytworzone w rutynowych warunkach wystarczą do przeprowadzenia walidacji procesu. Inna liczba serii może być uzasadniona po przeanalizowaniu, czy stosowane są standardowe metody wytwarzania, czy podobne produkty lub procesy są już prowadzone w tym miejscu wytwarzania, jaka jest zmienność materiałów wyjściowych (autologiczne czy alogeniczne), jakie są wskazania kliniczne (np. choroby rzadkie, gdy zostanie wytworzonych tylko kilka serii).
 10.40.
-Ograniczona dostępność komórek albo tkanek typowa dla większości ATMP wymaga opracowania pragmatycznego podejścia. Podejście do walidacji procesu powinno uwzględniać dostępną ilość tkanek albo komórek i powinno koncentrować się na uzyskaniu maksymalnej wiedzy o procesie z każdej wytworzonej serii. Zredukowanie walidacji procesu, o ile to możliwe, powinno być zrównoważone przez dodatkowe badania międzyoperacyjne, których wyniki potwierdzą odpowiedni przebieg procesu.
-Walidacja przy użyciu materiałów zastępczych
+Ograniczona dostępność komórek albo tkanek typowa dla większości ATMP wymaga opracowania pragmatycznego podejścia. Podejście do walidacji procesu powinno uwzględniać dostępną ilość tkanek albo komórek i powinno koncentrować się na uzyskaniu maksymalnej wiedzy o procesie z każdej wytworzonej serii. Zredukowanie walidacji procesu, o ile to możliwe, powinno być zrównoważone przez dodatkowe badania międzyoperacyjne, których wyniki potwierdzą odpowiedni przebieg procesu. Walidacja przy użyciu materiałów zastępczych
 10.41.
 Wykorzystanie materiału zastępczego może być akceptowalne, jeżeli występuje niedobór materiału wyjściowego (np. autologicznego ATMP, alogenicznego materiału od zgodnego dawcy, alogenicznego materiału, dla którego nie założono macierzystego banku komórek). Reprezentatywność zastępczego materiału wyjściowego należy ocenić, uwzględniając np. wiek dawcy, wykorzystywanie materiału pochodzącego od zdrowych dawców, użycie innej części anatomicznej (np. kości udowej zamiast kości biodrowej), inne cechy materiału (np. zastosowanie innych, odpowiednich typów komórek lub wykorzystanie komórek uzyskanych z wyższych pasaży niż to przewidziane w specyfikacji produktu).
 10.42.
-Tam, gdzie to możliwe, należy rozważyć uzupełnienie zastępczych materiałów próbami rzeczywistych materiałów wyjściowych i zastosować je w kluczowych aspektach procesu wytwarzania. Np. dla ATMP opartych na modyfikacji komórek autologicznych stosowanych w celu leczenia zaburzeń genetycznych walidacja procesu z użyciem komórek autologicznych (zmienionych pod wpływem warunków) może być ograniczona do tych etapów procesu, które koncentrują się na genetycznej modyfikacji. Inne aspekty mogą być zwalidowane przy zastosowaniu odpowiednich, reprezentatywnych komórek zastępczych.
-Walidacja równoczesna
+Tam, gdzie to możliwe, należy rozważyć uzupełnienie zastępczych materiałów próbami rzeczywistych materiałów wyjściowych i zastosować je w kluczowych aspektach procesu wytwarzania. Np. dla ATMP opartych na modyfikacji komórek autologicznych stosowanych w celu leczenia zaburzeń genetycznych walidacja procesu z użyciem komórek autologicznych (zmienionych pod wpływem warunków) może być ograniczona do tych etapów procesu, które koncentrują się na genetycznej modyfikacji. Inne aspekty mogą być zwalidowane przy zastosowaniu odpowiednich, reprezentatywnych komórek zastępczych. Walidacja równoczesna
 10.43.
 Ze względu na ograniczoną dostępność materiałów wyjściowych lub gdy istnieje istotny stosunek korzyści do ryzyka dla pacjenta, może być zaakceptowana walidacja równoczesna. Decyzja o przeprowadzeniu walidacji równoczesnej powinna być uzasadniona, a protokół walidacji opracowany. Regularne przeglądy danych z wytwarzania serii powinny być następnie stosowane w celu potwierdzenia, że proces zapewnia zgodność ze specyfikacjami zawartymi w pozwoleniu na dopuszczenie do obrotu.
 10.44.
-W przypadku wyboru walidacji równoczesnej należy zapewnić wystarczające dane do wykazania, że seria spełnia określone kryteria. Wyniki i wnioski powinny być formalnie udokumentowane i dostępne dla Osoby Wykwalifikowanej przed certyfikacją serii.
-Strategia walidacji dla pokrewnych produktów
+W przypadku wyboru walidacji równoczesnej należy zapewnić wystarczające dane do wykazania, że seria spełnia określone kryteria. Wyniki i wnioski powinny być formalnie udokumentowane i dostępne dla Osoby Wykwalifikowanej przed certyfikacją serii. Strategia walidacji dla pokrewnych produktów
 10.45.
-Gdy ta sama platforma wytwarzania jest stosowana dla kilku pokrewnych produktów (np. genetycznie modyfikowanych komórek, w których wektory wirusowe są wytworzone według takiego samego procesu), zakres walidacji dla każdego nowego produktu powinien być oparty na uzasadnionej i udokumentowanej analizie ryzyka procesu. Powinien być wzięty pod uwagę zakres wiedzy o procesie, w tym dane z przeprowadzonych wcześniej walidacji, każdego istotnego etapu wytwarzania. Zatem jeśli pewne etapy wytwarzania pozostają takie same, to można ograniczyć walidację tylko do etapów będących nowymi w procesie.
-Walidacja procesu – badane ATMP
+Gdy ta sama platforma wytwarzania jest stosowana dla kilku pokrewnych produktów (np. genetycznie modyfikowanych komórek, w których wektory wirusowe są wytworzone według takiego samego procesu), zakres walidacji dla każdego nowego produktu powinien być oparty na uzasadnionej i udokumentowanej analizie ryzyka procesu. Powinien być wzięty pod uwagę zakres wiedzy o procesie, w tym dane z przeprowadzonych wcześniej walidacji, każdego istotnego etapu wytwarzania. Zatem jeśli pewne etapy wytwarzania pozostają takie same, to można ograniczyć walidację tylko do etapów będących nowymi w procesie. Walidacja procesu – badane ATMP
 10.46.
 Nie jest wymagane, aby proces wytwarzania badanych ATMP był zwalidowany, jednakże odpowiedni monitoring oraz środki kontroli muszą być wdrożone w celu zapewnienia zgodności z wymaganiami określonymi w pozwoleniu na prowadzenie badania klinicznego. Ponadto procesy aseptyczne oraz, jeśli dotyczy, procesy sterylizacji powinny być zwalidowane.
 10.47.
-Dane z walidacji lub oceny procesu powinny być gromadzone przez cały czas rozwoju. Zaznaczyć trzeba, że w odniesieniu do badań klinicznych, które mają być dołączone do wniosku o pozwolenie na dopuszczenie do obrotu, ważne jest, aby wykazać, że proces wytwarzania badanych ATMP zapewnia powtarzalną produkcję.
-Walidacja metod analitycznych
+Dane z walidacji lub oceny procesu powinny być gromadzone przez cały czas rozwoju. Zaznaczyć trzeba, że w odniesieniu do badań klinicznych, które mają być dołączone do wniosku o pozwolenie na dopuszczenie do obrotu, ważne jest, aby wykazać, że proces wytwarzania badanych ATMP zapewnia powtarzalną produkcję. Walidacja metod analitycznych
 10.48.
 Walidacja metod analitycznych ma na celu zapewnienie, że metody analityczne są odpowiednie do zamierzonego celu. Procedury analityczne, które opisano w Farmakopei Europejskiej albo w farmakopei państwa członkowskiego lub też gdy są związane ze szczegółową monografią produktu i są wykonywane zgodnie z monografią, zazwyczaj uznawane są za zwalidowane. W takich przypadkach należy zweryfikować przydatność metody do zamierzonego celu.
 10.49.
-Wszystkie metody analityczne należy zwalidować na etapie wniosku o pozwolenie na dopuszczenie do obrotu.
-Walidacja metod analitycznych – badane ATMP
+Wszystkie metody analityczne należy zwalidować na etapie wniosku o pozwolenie na dopuszczenie do obrotu. Walidacja metod analitycznych – badane ATMP
 10.50.
 Podczas rozwoju klinicznego stosowane jest podejście stopniowe:
 1)
@@ -1670,20 +1588,17 @@ eksploracyjne badanie kliniczne i pierwsze zastosowanie u ludzi – należy zwal
 2)
 w trakcie rozwoju klinicznego należy potwierdzić przydatność metod analitycznych stosowanych do oceny krytycznych cech jakościowych (np. usuwania lub inaktywacji wirusa lub innych zanieczyszczeń pochodzenia biologicznego), nie jest wymagana pełna walidacja; badania aktywności biologicznej należy zwalidować przed głównymi badaniami klinicznymi;
 3)
-główne badania kliniczne: należy zwalidować metody analityczne stosowane w celu zwolnienia serii i badań stabilności.
-Walidacja warunków transportu
+główne badania kliniczne: należy zwalidować metody analityczne stosowane w celu zwolnienia serii i badań stabilności. Walidacja warunków transportu
 10.51.
 Warunki transportu mogą mieć znaczący wpływ na jakość ATMP. Warunki transportu należy zdefiniować na piśmie.
 10.52.
 Należy wykazać prawidłowość zdefiniowanych warunków transportu (np. temperatury, rodzaju pojemnika).
 10.53.
-Spełnienie zdefiniowanych warunków transportu wykracza poza zakres wymagań Dobrej Praktyki Wytwarzania i nie wchodzi w zakres odpowiedzialności wytwórcy, chyba że odpowiedzialność taka jest przyjmowana w drodze umowy.
-Osoba Wykwalifikowana i zwalnianie serii – zasady ogólne
+Spełnienie zdefiniowanych warunków transportu wykracza poza zakres wymagań Dobrej Praktyki Wytwarzania i nie wchodzi w zakres odpowiedzialności wytwórcy, chyba że odpowiedzialność taka jest przyjmowana w drodze umowy. Osoba Wykwalifikowana i zwalnianie serii – zasady ogólne
 11.10.
 Każde miejsce wytwarzania ATMP w Europejskim Obszarze Gospodarczym musi posiadać co najmniej jedną Osobę Wykwalifikowaną. Dopuszcza się, że dwa miejsca lub więcej miejsc wytwarzania mają do dyspozycji tę samą Osobę Wykwalifikowaną pod warunkiem, że nie będzie to negatywnie wpływać na wypełnianie, w sposób ciągły, obowiązków Osoby Wykwalifikowanej w danych miejscach wytwarzania.
 11.11.
-Z zastrzeżeniem pkt 11.53–11.54 serie ATMP powinny być zwolnione do obrotu, do użytku w badaniach klinicznych lub dostarczone na rynek wyłącznie po certyfikacji przez Osobę Wykwalifikowaną. Dopóki seria nie zostanie zwolniona, powinna pozostać w miejscu wytwarzania lub powinna być wysłana w statusie kwarantanny do innego miejsca wytwarzania, zatwierdzonego w tym celu przez kompetentne władze. Istnieją zabezpieczenia zapewniające, że serie, które nie zostały certyfikowane przez Osobę Wykwalifikowaną, nie zostaną zwolnione. Mogą to być zabezpieczenia fizyczne, np. fizyczne rozdzielenie serii i użycie etykiet, albo elektroniczne rozdzielenie, m.in. przy zastosowaniu systemów skomputeryzowanych. W przypadku gdy serie, które nie zostały certyfikowane, są przewożone z jednego miejsca wytwarzania do innego, powinny zostać zastosowane zabezpieczenia zapobiegające przedwczesnemu zwolnieniu serii.
-Osoba Wykwalifikowana
+Z zastrzeżeniem pkt 11.53–11.54 serie ATMP powinny być zwolnione do obrotu, do użytku w badaniach klinicznych lub dostarczone na rynek wyłącznie po certyfikacji przez Osobę Wykwalifikowaną. Dopóki seria nie zostanie zwolniona, powinna pozostać w miejscu wytwarzania lub powinna być wysłana w statusie kwarantanny do innego miejsca wytwarzania, zatwierdzonego w tym celu przez kompetentne władze. Istnieją zabezpieczenia zapewniające, że serie, które nie zostały certyfikowane przez Osobę Wykwalifikowaną, nie zostaną zwolnione. Mogą to być zabezpieczenia fizyczne, np. fizyczne rozdzielenie serii i użycie etykiet, albo elektroniczne rozdzielenie, m.in. przy zastosowaniu systemów skomputeryzowanych. W przypadku gdy serie, które nie zostały certyfikowane, są przewożone z jednego miejsca wytwarzania do innego, powinny zostać zastosowane zabezpieczenia zapobiegające przedwczesnemu zwolnieniu serii. Osoba Wykwalifikowana
 11.12.
 Oprócz wymagań przewidzianych dla Osoby Wykwalifikowanej dodatkowo Osoba Wykwalifikowana certyfikująca ATMP musi posiadać wykształcenie i doświadczenie odpowiednie do charakterystyki tych produktów, włączając w to biologię komórki i tkanki, techniki biotechnologiczne, przetwarzanie komórek, badania charakterystyki i efektywności działania. Osoby Wykwalifikowane powinny posiadać szczegółową wiedzę na temat rodzaju ATMP i etapów wytwarzania, za które ponoszą odpowiedzialność.
 11.13.
@@ -1699,8 +1614,7 @@ Osoby Wykwalifikowane powinny mieć dostęp do:
 1)
 niezbędnych informacji zawartych w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badania klinicznego w celu oceny, czy odpowiednie wymagania zostały spełnione, oraz
 2)
-odpowiednich danych dotyczących całego procesu wytwarzania ATMP, w tym działań związanych z importem, jeżeli dotyczy.
-Importowane ATMP
+odpowiednich danych dotyczących całego procesu wytwarzania ATMP, w tym działań związanych z importem, jeżeli dotyczy. Importowane ATMP
 11.15.
 W przypadku importu badanych ATMP Osoba Wykwalifikowana zapewnia, że jakość serii jest zgodna z warunkami pozwolenia na prowadzenie badania klinicznego (w tym z warunkami Podstawowej Dokumentacji Produktu) i że została wytworzona zgodnie z wymaganiami jakościowymi co najmniej równoważnymi z wymaganiami Dobrej Praktyki Wytwarzania obowiązującymi w Unii Europejskiej.
 11.16.
@@ -1710,13 +1624,11 @@ Ponadto uzasadnione może być poleganie na badaniach przeprowadzonych w państw
 11.18.
 W przypadku gdy Osoba Wykwalifikowana chce polegać na badaniach prób pobranych w państwie trzecim, warunki transportu i przechowywania powinny być odpowiednie, aby zapewnić, że próby pobrane w państwie trzecim są reprezentatywne dla serii.
 11.19.
-We wszystkich przypadkach warunki przechowywania i transportu należy sprawdzić przed certyfikacją każdej serii; warunki te muszą być zgodne z pozwoleniem na dopuszczenie do obrotu lub pozwoleniem na prowadzenie badania klinicznego.
-Uznawanie oceny stosowania wymagań Dobrej Praktyki Wytwarzania przeprowadzonej przez strony trzecie, np. audyty
+We wszystkich przypadkach warunki przechowywania i transportu należy sprawdzić przed certyfikacją każdej serii; warunki te muszą być zgodne z pozwoleniem na dopuszczenie do obrotu lub pozwoleniem na prowadzenie badania klinicznego. Uznawanie oceny stosowania wymagań Dobrej Praktyki Wytwarzania przeprowadzonej przez strony trzecie, np. audyty
 11.20.
 W niektórych przypadkach Osoba Wykwalifikowana może opierać się na audytach przeprowadzanych przez strony trzecie, potwierdzających ogólną zgodność z Dobrą Praktyką Wytwarzania w miejscach wytwarzania produktu. W takich przypadkach powinien istnieć wyraźny podział obowiązków, mają również zastosowanie wymagania określone w pkt 13.10–13.19.
 11.21.
-Osoba Wykwalifikowana powinna mieć dostęp do wszystkich dokumentów, które ułatwią przegląd wyników audytu i dalsze poleganie na działalności zlecanej na zewnątrz.
-Udział więcej niż jednej Osoby Wykwalifikowanej
+Osoba Wykwalifikowana powinna mieć dostęp do wszystkich dokumentów, które ułatwią przegląd wyników audytu i dalsze poleganie na działalności zlecanej na zewnątrz. Udział więcej niż jednej Osoby Wykwalifikowanej
 11.22.
 Osoba Wykwalifikowana, która certyfikuje serię produktu końcowego, może wziąć na siebie pełną odpowiedzialność za wszystkie etapy wytwarzania serii lub odpowiedzialność ta może być dzielona z innymi Osobami Wykwalifikowanymi, które dokonały potwierdzenia określonych etapów wytwarzania i kontroli serii.
 11.23.
@@ -1724,8 +1636,7 @@ Gdy w miejscu wytwarzania prowadzone są tylko niektóre etapy wytwarzania serii
 11.24.
 W przypadku gdy w ocenie jednej serii bierze udział więcej niż jedna Osoba Wykwalifikowana, podział obowiązków między Osobami Wykwalifikowanymi w zakresie potwierdzania zgodności serii (w tym szczegóły odpowiedzialności za ocenę wszelkich odchyleń) są jasno ustalone w formie pisemnej.
 11.25.
-Osoba Wykwalifikowana powinna mieć dostęp do dokumentacji istotnej dla działań, za które bierze odpowiedzialność.
-Zwalnianie serii – proces zwalniania serii do obrotu
+Osoba Wykwalifikowana powinna mieć dostęp do dokumentacji istotnej dla działań, za które bierze odpowiedzialność. Zwalnianie serii – proces zwalniania serii do obrotu
 11.26.
 Proces zwalniania serii składa się z etapów opisanych w pkt 11.27–11.34.
 11.27.
@@ -1771,13 +1682,11 @@ W odniesieniu do badanych ATMP dokumentacja certyfikacji musi być przechowywana
 11.33.
 Przypisanie statusu zwolnienia serii jest to czynność, która faktycznie zwalnia serię do sprzedaży, eksportu lub w przypadku badanych ATMP do użycia w badaniu klinicznym.
 11.34.
-Powiadomienie przez Osobę Wykwalifikowaną miejsca zwalniania serii (patrz pkt 11.33) o tym, że certyfikacja miała miejsce, powinno być udokumentowane i jednoznaczne.
-Zwalnianie serii – dodatkowe uwagi dotyczące badanych ATMP
+Powiadomienie przez Osobę Wykwalifikowaną miejsca zwalniania serii (patrz pkt 11.33) o tym, że certyfikacja miała miejsce, powinno być udokumentowane i jednoznaczne. Zwalnianie serii – dodatkowe uwagi dotyczące badanych ATMP
 11.35.
 Badane ATMP powinny pozostawać pod kontrolą sponsora do czasu zakończenia dwustopniowej procedury: certyfikacji przez Osobę Wykwalifikowaną i zwolnienia przez sponsora do użycia w badaniu klinicznym. Proces zwalniania produktu do użycia w badaniu klinicznym powinien zostać uzgodniony między sponsorem i wytwórcą, z uwzględnieniem terminu ważności produktu. Oba etapy powinny być udokumentowane w odpowiedni sposób.
 11.36.
-W wyjątkowych przypadkach może nastąpić przekazanie badanych ATMP z jednego ośrodka badawczego do drugiego. W takiej sytuacji Osoba Wykwalifikowana w porozumieniu ze sponsorem powinna ustalić szczegółowe warunki, na jakich powinno odbyć się przekazanie.
-Zwolnienie serii przed uzyskaniem wyników badań kontroli jakości
+W wyjątkowych przypadkach może nastąpić przekazanie badanych ATMP z jednego ośrodka badawczego do drugiego. W takiej sytuacji Osoba Wykwalifikowana w porozumieniu ze sponsorem powinna ustalić szczegółowe warunki, na jakich powinno odbyć się przekazanie. Zwolnienie serii przed uzyskaniem wyników badań kontroli jakości
 11.37.
 Ze względu na krótki okres ważności niektóre ATMP mogą zostać zwolnione przed zakończeniem wszystkich badań kontroli jakości. W takim przypadku możliwe jest przeprowadzenie procedury certyfikacji i zwolnienia serii na różnych etapach, np. opisanej w pkt 11.38 i 11.39.
 11.38.
@@ -1789,8 +1698,7 @@ Delegowanie zadań wyznaczonej osobie lub wyznaczonym osobom oraz opis procedury
 11.41.
 Istnieje procedura opisująca środki, które należy podjąć, w tym współpracę z osobami zaangażowanymi w badania kliniczne, w przypadku gdy po zwolnieniu produktu uzyskano wyniki badań poza specyfikacją.
 11.42.
-Uznaje się, że w przypadku ATMP produkty niezgodne ze specyfikacją nie zawsze są wynikiem błędów w procesie wytwarzania (np. czynniki idiopatyczne pacjenta). Należy zbadać wszystkie przypadki produktów niezgodnych ze specyfikacją, a w przypadku stwierdzenia błędu w procesie wytwarzania należy udokumentować odpowiednie działania korygujące lub zapobiegawcze podjęte w celu zapobieżenia powtórzeniu się. W przypadku powtarzających się odchyleń należy ocenić konieczność zmian w procesie wytwarzania.
-Procedura zwalniania serii w przypadku wytwarzania w kilku miejscach wytwarzania
+Uznaje się, że w przypadku ATMP produkty niezgodne ze specyfikacją nie zawsze są wynikiem błędów w procesie wytwarzania (np. czynniki idiopatyczne pacjenta). Należy zbadać wszystkie przypadki produktów niezgodnych ze specyfikacją, a w przypadku stwierdzenia błędu w procesie wytwarzania należy udokumentować odpowiednie działania korygujące lub zapobiegawcze podjęte w celu zapobieżenia powtórzeniu się. W przypadku powtarzających się odchyleń należy ocenić konieczność zmian w procesie wytwarzania. Procedura zwalniania serii w przypadku wytwarzania w kilku miejscach wytwarzania
 11.43.
 Proces wytwarzania ma kluczowe znaczenie dla jakości, bezpieczeństwa i skuteczności ATMP, dlatego szczególnie ważne jest zapewnienie, że proces wytwarzania i metody kontroli są zgodne z pozwoleniem na dopuszczenie do obrotu lub pozwoleniem na prowadzenie badania klinicznego oraz że są przestrzegane wymagania Dobrej Praktyki Wytwarzania. Proces certyfikacji i zwolnienia serii, a także rola Osoby Wykwalifikowanej są ważnym etapem w tym zakresie.
 11.44.
@@ -1812,20 +1720,17 @@ Etapy procesu certyfikacji i zwolnienia serii powinny być określone na piśmie
 11.50.
 Osoba Wykwalifikowana ustanowiona w Unii Europejskiej powinna ponosić ostateczną odpowiedzialność za certyfikację serii. Powinna jednak istnieć możliwość polegania przez Osobę Wykwalifikowaną z głównego miejsca na danych oraz informacjach przekazanych jej przez wykwalifikowany i przeszkolony personel z pozostałych miejsc.
 11.51.
-Jeżeli w pozostałych miejscach wytwarzania wystąpi odchylenie, powinno ono zostać zatwierdzone na piśmie przez odpowiedzialną osobę, po ocenie jego wpływu na jakość, bezpieczeństwo i skuteczność, w razie potrzeby przy udziale Osoby Wykwalifikowanej. Odchylenia powinny być badane w celu zidentyfikowania przyczyny pierwotnej i wdrożenia odpowiednich działań korygujących i zapobiegawczych. Wszelkie przypadki wad jakościowych, odchyleń lub niezgodności powinny być natychmiast zgłaszane do głównego miejsca.
-Postępowanie z nieplanowanymi odchyleniami
+Jeżeli w pozostałych miejscach wytwarzania wystąpi odchylenie, powinno ono zostać zatwierdzone na piśmie przez odpowiedzialną osobę, po ocenie jego wpływu na jakość, bezpieczeństwo i skuteczność, w razie potrzeby przy udziale Osoby Wykwalifikowanej. Odchylenia powinny być badane w celu zidentyfikowania przyczyny pierwotnej i wdrożenia odpowiednich działań korygujących i zapobiegawczych. Wszelkie przypadki wad jakościowych, odchyleń lub niezgodności powinny być natychmiast zgłaszane do głównego miejsca. Postępowanie z nieplanowanymi odchyleniami
 11.52.
 Osoba Wykwalifikowana może potwierdzić zgodność i certyfikować serię, w przypadku gdy wystąpiło nieoczekiwane odchylenie związane z procesem wytwarzania lub badaniami analitycznymi, jeżeli produkt końcowy spełnia wymagania specyfikacji i pod warunkiem że:
 1)
 przeprowadzono dogłębną ocenę wpływu odchylenia, która przemawia za stwierdzeniem, że zdarzenie nie ma negatywnego wpływu na jakość, bezpieczeństwo lub skuteczność produktu, oraz
 2)
-w stosownych przypadkach została oceniona konieczność włączenia odnośnej serii do programu ciągłego badania stabilności.
-Podawanie pacjentowi produktów niespełniających wymagań specyfikacji
+w stosownych przypadkach została oceniona konieczność włączenia odnośnej serii do programu ciągłego badania stabilności. Podawanie pacjentowi produktów niespełniających wymagań specyfikacji
 11.53.
 W wyjątkowych przypadkach może być konieczne podanie pacjentowi komórek lub tkanek zawartych w opartych na komórkach i tkankach ATMP, które nie spełniają wymagań specyfikacji. Dostarczenie produktu do lekarza prowadzącego jest uzasadnione, jeżeli podanie danego produktu jest konieczne w celu uniknięcia natychmiastowego znacznego zagrożenia dla pacjenta i biorąc pod uwagę rozwiązania alternatywne dla pacjenta i konsekwencje wiążące się z nieotrzymaniem komórek lub tkanek zawartych w produkcie.
 11.54.
-Po otrzymaniu zapotrzebowania od lekarza prowadzącego wytwórca powinien dostarczyć lekarzowi prowadzącemu ocenę ryzyka i powiadomić lekarza, że produkt leczniczy niezgodny z wymaganiami specyfikacji jest dostarczany lekarzowi na jego prośbę. Potwierdzenie lekarza prowadzącego o akceptacji produktu powinno zostać odnotowane przez wytwórcę. W przypadku badań klinicznych wytwórca powinien niezwłocznie powiadomić sponsora o takich zdarzeniach. Z kolei sponsor powinien poinformować właściwy organ kompetentny. W przypadku produktów wprowadzanych do obrotu należy poinformować podmiot odpowiedzialny i właściwy dla miejsca zwolnienia serii do obrotu organ nadzoru.
-Kontrola Jakości – zasady ogólne
+Po otrzymaniu zapotrzebowania od lekarza prowadzącego wytwórca powinien dostarczyć lekarzowi prowadzącemu ocenę ryzyka i powiadomić lekarza, że produkt leczniczy niezgodny z wymaganiami specyfikacji jest dostarczany lekarzowi na jego prośbę. Potwierdzenie lekarza prowadzącego o akceptacji produktu powinno zostać odnotowane przez wytwórcę. W przypadku badań klinicznych wytwórca powinien niezwłocznie powiadomić sponsora o takich zdarzeniach. Z kolei sponsor powinien poinformować właściwy organ kompetentny. W przypadku produktów wprowadzanych do obrotu należy poinformować podmiot odpowiedzialny i właściwy dla miejsca zwolnienia serii do obrotu organ nadzoru. Kontrola Jakości – zasady ogólne
 12.10.
 Kontrola Jakości ma na celu zapewnienie, że niezbędne i odpowiednie badania są przeprowadzane oraz że materiały nie są zwalniane do użycia ani produkty do sprzedaży lub dystrybucji, zanim ich jakość nie zostanie oceniona jako odpowiednia. Kontrola jakości nie ogranicza się wyłącznie do prac laboratoryjnych, lecz obejmuje również wszystkie decyzje, które mogą wpłynąć na jakość produktu.
 12.11.
@@ -1849,13 +1754,11 @@ uczestniczenie w postępowaniach wyjaśniających związanych z jakością produ
 12.13.
 Należy przechowywać odpowiednie zapisy związane z wyżej wymienionymi czynnościami. Należy wprowadzić pisemne procedury związane z czynnościami wymienionymi w pkt 12.12.3–12.12.6).
 12.14.
-Personel kontroli jakości powinien mieć wstęp do obszarów produkcyjnych w celu pobierania prób i prowadzenia postępowań wyjaśniających, jeśli to konieczne. Wszystkie dokumenty potrzebne do oceny przez kontrolę jakości (np. opis procedur lub zapisów z procesu wytwarzania i badań) również powinny być dostępne.
-Pobieranie prób – zasady ogólne
+Personel kontroli jakości powinien mieć wstęp do obszarów produkcyjnych w celu pobierania prób i prowadzenia postępowań wyjaśniających, jeśli to konieczne. Wszystkie dokumenty potrzebne do oceny przez kontrolę jakości (np. opis procedur lub zapisów z procesu wytwarzania i badań) również powinny być dostępne. Pobieranie prób – zasady ogólne
 12.15.
 Próby powinny być reprezentatywne dla serii materiałów lub produktów, z których zostały pobrane. Pojemniki zawierające produkt luzem, z których pobierane są próby, powinny być oznakowane. W przypadku prób sterylnych materiałów lub prób, które są pobierane w trakcie procesu wytwarzania, identyfikacja prób powinna być zapewniona za pomocą innych odpowiednich środków.
 12.16.
-Pobieranie prób powinno być wykonane i zarejestrowane zgodnie z zatwierdzonymi procedurami, które opisują metodę pobierania prób, włączając wielkość próby, która ma być pobrana, środki ostrożności, których należy przestrzegać, warunki przechowywania itd. Pojemniki z próbami powinny posiadać etykietę określającą przynajmniej zawartość, numer serii i datę pobrania próby. Jeżeli pojemniki są zbyt małe, należy rozważyć użycie kodów kreskowych lub innych środków, które umożliwią dostęp do tych danych.
-Przechowywanie prób
+Pobieranie prób powinno być wykonane i zarejestrowane zgodnie z zatwierdzonymi procedurami, które opisują metodę pobierania prób, włączając wielkość próby, która ma być pobrana, środki ostrożności, których należy przestrzegać, warunki przechowywania itd. Pojemniki z próbami powinny posiadać etykietę określającą przynajmniej zawartość, numer serii i datę pobrania próby. Jeżeli pojemniki są zbyt małe, należy rozważyć użycie kodów kreskowych lub innych środków, które umożliwią dostęp do tych danych. Przechowywanie prób
 12.17.
 Próby są przechowywane głównie, aby mogły w razie potrzeby zostać poddane analizie podczas okresu przydatności serii, z której zostały pobrane (próby referencyjne) oraz w celach identyfikacyjnych (próba archiwalna całkowicie zapakowanej jednostki serii produktu końcowego). Próby referencyjne i archiwalne w niektórych przypadkach mogą być identyczne (np. całkowicie zapakowane jednostki).
 12.18.
@@ -1879,8 +1782,7 @@ Próby bezpośrednich materiałów opakowaniowych: próby bezpośrednich materia
 12.27.
 Próba całkowicie zapakowanej jednostki (próba archiwalna) każdej serii produktu końcowego jest przechowywana przez okres co najmniej roku po upływie daty ważności. Nie ma konieczności przechowywania próby archiwalnej w przypadku produktów autologicznych lub alogenicznych od zgodnego dawcy jako jednostki wyprodukowanej z tkanki, komórki, którą należy podać pacjentowi. Jeśli nie jest możliwe przechowywanie próby archiwalnej, są akceptowane fotografie i kopie etykiet załączone do zapisów serii.
 12.28.
-Okres przechowywania prób materiałów wyjściowych, substancji czynnych i produktów pośrednich jest dostosowany do stabilności i terminu ważności produktu, w związku z tym uzasadnione może być skrócenie tego okresu. W przypadku krótkiego terminu ważności wytwórca powinien rozważyć, czy przechowywanie prób w warunkach, które wydłużają termin ważności (tj. kriokonserwacja), jest odpowiednie do zamierzonego celu, np. kriokonserwacja świeżych komórek może spowodować, że próba będzie nieodpowiednia do określenia właściwości, ale może być odpowiednia do badania jałowości czy kontroli bezpieczeństwa wirusologicznego (objętość próby może być zredukowana zgodnie z zamierzonym celem). Jeśli zostanie uznane, że krioprzechowywanie jest nieodpowiednie do zamierzonego celu, wytwórca powinien rozważyć alternatywne sposoby (np. próby produktu pośredniego, takie jak komórki zróżnicowane).
-Badania
+Okres przechowywania prób materiałów wyjściowych, substancji czynnych i produktów pośrednich jest dostosowany do stabilności i terminu ważności produktu, w związku z tym uzasadnione może być skrócenie tego okresu. W przypadku krótkiego terminu ważności wytwórca powinien rozważyć, czy przechowywanie prób w warunkach, które wydłużają termin ważności (tj. kriokonserwacja), jest odpowiednie do zamierzonego celu, np. kriokonserwacja świeżych komórek może spowodować, że próba będzie nieodpowiednia do określenia właściwości, ale może być odpowiednia do badania jałowości czy kontroli bezpieczeństwa wirusologicznego (objętość próby może być zredukowana zgodnie z zamierzonym celem). Jeśli zostanie uznane, że krioprzechowywanie jest nieodpowiednie do zamierzonego celu, wytwórca powinien rozważyć alternatywne sposoby (np. próby produktu pośredniego, takie jak komórki zróżnicowane). Badania
 12.29.
 Badania są istotne, żeby zapewnić, że każda seria spełnia wymagania odpowiednich specyfikacji. Badania kontroli wewnątrzprocesowej powinny być przeprowadzone na odpowiednich etapach produkcji w celu kontroli warunków, które są istotne dla jakości produktu.
 12.30.
@@ -1908,8 +1810,7 @@ jednoznaczne oświadczenie o zatwierdzeniu lub odrzuceniu bądź innej decyzji p
 9)
 odesłania do używanego sprzętu.
 12.33.
-Materiały, odczynniki, podłoża hodowlane i wzorce porównawcze używane do badań kontroli jakości powinny być odpowiedniej jakości i powinny być stosowane zgodnie z instrukcjami. Jeżeli to niezbędne, weryfikacja tożsamości lub badanie tożsamości należy rozważyć po ich otrzymaniu lub przed użyciem.
-Transfer techniczny metod badawczych
+Materiały, odczynniki, podłoża hodowlane i wzorce porównawcze używane do badań kontroli jakości powinny być odpowiedniej jakości i powinny być stosowane zgodnie z instrukcjami. Jeżeli to niezbędne, weryfikacja tożsamości lub badanie tożsamości należy rozważyć po ich otrzymaniu lub przed użyciem. Transfer techniczny metod badawczych
 12.34.
 Transfer metod badawczych z jednego laboratorium (laboratorium przekazującego) do innego laboratorium (laboratorium przyjmującego) jest opisany w szczegółowym protokole.
 12.35.
@@ -1925,18 +1826,15 @@ określenie wszelkich szczególnych warunków transportu i przechowywania badany
 5)
 kryteria akceptacji.
 12.36.
-Odchylenia od protokołu zostaną zbadane przed zamknięciem transferu technicznego. Raport z transferu zawiera wyniki porównawcze procesu i identyfikuje obszary wymagające dalszej rewalidacji metody badania, jeżeli ma to zastosowanie.
-Program ciągłego badania stabilności
+Odchylenia od protokołu zostaną zbadane przed zamknięciem transferu technicznego. Raport z transferu zawiera wyniki porównawcze procesu i identyfikuje obszary wymagające dalszej rewalidacji metody badania, jeżeli ma to zastosowanie. Program ciągłego badania stabilności
 12.37.
 Po uzyskaniu pozwolenia na dopuszczenie do obrotu należy wdrożyć program w celu sprawdzenia, czy zgodnie z odpowiednimi warunkami przechowywania (jak przewidziano w pozwoleniu na dopuszczenie do obrotu) produkt jest zgodny ze specyfikacją w terminie ważności (tzw. program ciągłego badania stabilności). Metodologia programu ciągłego badania stabilności może różnić się od podejścia zastosowanego w celu uzyskania danych stabilności przedłożonych we wniosku o pozwolenie na dopuszczenie do obrotu (np. inna częstotliwość badań), pod warunkiem że zostało to uzasadnione.
 12.38.
 Program ciągłego badania stabilności odnosi się głównie do końcowego produktu leczniczego (tj. zwolnionego przez wytwórcę). Gdy produkty pośrednie mogą być przechowywane przez dłuższy czas, należy rozważyć włączenie do programu ciągłego badania stabilności tych serii, które zostały wytworzone z materiałów przechowywanych przez dłuższy czas. Badania stabilności produktu po rekonstytucji są przeprowadzane podczas rozwoju produktu i nie wymagają ciągłego monitorowania. Zastosowanie materiałów zastępczych (tj. materiału pochodzącego od zdrowych ochotników) jest dopuszczalne w przypadku produktów autologicznych (lub w procedurze zgodnego dawcy), których serię należy podawać pacjentowi w całości.
 12.39.
-Liczba serii i częstotliwość badań są wystarczające do przeprowadzenia analizy trendów. Zazwyczaj uznaje się, że przynajmniej jedna seria w roku zostaje włączona do programu ciągłego badania stabilności, chyba że nie wyprodukowano w danym roku żadnej serii lub inna częstotliwość jest uzasadniona. Wyniki poza specyfikacją i znaczące nietypowe trendy należy poddać postępowaniu wyjaśniającemu oraz ocenić ich możliwy wpływ na serie znajdujące się w obrocie i odpowiednio zgłosić do organów kompetentnych.
-Działania zlecane na zewnątrz – zasady ogólne
+Liczba serii i częstotliwość badań są wystarczające do przeprowadzenia analizy trendów. Zazwyczaj uznaje się, że przynajmniej jedna seria w roku zostaje włączona do programu ciągłego badania stabilności, chyba że nie wyprodukowano w danym roku żadnej serii lub inna częstotliwość jest uzasadniona. Wyniki poza specyfikacją i znaczące nietypowe trendy należy poddać postępowaniu wyjaśniającemu oraz ocenić ich możliwy wpływ na serie znajdujące się w obrocie i odpowiednio zgłosić do organów kompetentnych. Działania zlecane na zewnątrz – zasady ogólne
 13.10.
-Działania zlecane stronom trzecim (włączając usługi doradcze) powinny być regulowane przez pisemną umowę, która ustanawia obowiązki każdej ze stron. Odpowiednio, w przypadku wykrycia wad jakościowych, rola i obowiązki powinny być wyraźnie określone w umowie, a także, gdy ma to zastosowanie, obowiązki każdej ze stron w zakresie identyfikowalności.
-Działania zlecane na zewnątrz – obowiązki zleceniodawcy
+Działania zlecane stronom trzecim (włączając usługi doradcze) powinny być regulowane przez pisemną umowę, która ustanawia obowiązki każdej ze stron. Odpowiednio, w przypadku wykrycia wad jakościowych, rola i obowiązki powinny być wyraźnie określone w umowie, a także, gdy ma to zastosowanie, obowiązki każdej ze stron w zakresie identyfikowalności. Działania zlecane na zewnątrz – obowiązki zleceniodawcy
 13.11.
 Przed zleceniem każdego działania na zewnątrz wytwórca lub, w stosownych przypadkach, sponsor lub podmiot odpowiedzialny, jako zleceniodawca, powinien ocenić, czy zleceniobiorca jest w stanie wykonać zlecone działania zgodnie z warunkami pozwolenia na dopuszczenie do obrotu lub pozwolenia na prowadzenie badania klinicznego i innych regulacji mających zastosowanie, w tym zgodności z Dobrą Praktyką Wytwarzania.
 13.12.
@@ -1944,8 +1842,7 @@ W wyjątkowych przypadkach, gdy działalność zlecana na zewnątrz jest wysoce 
 13.13.
 Zleceniodawca powinien dostarczyć zleceniobiorcy szczegółowe informacje na temat produktu lub procesu wytwarzania, a także wszelkie inne dane, które są niezbędne do prawidłowego wykonania zlecanych działań.
 13.14.
-Zleceniodawca jest odpowiedzialny za przegląd i ocenę zapisów oraz wyników związanych z działaniami zlecanymi na zewnątrz.
-Działania zlecane na zewnątrz – obowiązki zleceniobiorcy
+Zleceniodawca jest odpowiedzialny za przegląd i ocenę zapisów oraz wyników związanych z działaniami zlecanymi na zewnątrz. Działania zlecane na zewnątrz – obowiązki zleceniobiorcy
 13.15.
 Zleceniobiorca powinien podjąć wszelkie konieczne środki (np. odpowiednie pomieszczenia, sprzęt, przeszkolony personel), aby w odpowiedni sposób wykonywać zlecone działania. Szczególną uwagę należy zwrócić na zapobieganie zanieczyszczeniu krzyżowemu i utrzymaniu identyfikowalności.
 13.16.
@@ -1955,8 +1852,7 @@ Wszystkie zapisy związane z działaniami zlecanymi oraz próby referencyjne pow
 13.18.
 Nie jest dozwolone, aby zleceniobiorca podzlecał stronie trzeciej powierzone mu działania bez zgody zleceniodawcy.
 13.19.
-Zleceniobiorca powinien umożliwić zleceniodawcy i właściwym organom kompetentnym przeprowadzanie audytów i inspekcji w związku ze zlecanymi mu działaniami.
-Wady jakościowe i wycofanie produktu – wady jakościowe
+Zleceniobiorca powinien umożliwić zleceniodawcy i właściwym organom kompetentnym przeprowadzanie audytów i inspekcji w związku ze zlecanymi mu działaniami. Wady jakościowe i wycofanie produktu – wady jakościowe
 14.10.
 Należy ustanowić system zapewnianiający, że wszelkie reklamacje dotyczące jakości, niezależnie od tego, czy otrzymane ustnie lub na piśmie, są rejestrowane i starannie zbadane. Personel odpowiedzialny za zarządzanie rozpatrywaniem reklamacji i postępowaniami wyjaśniającymi wady jakościowe powinien być niezależny od działów marketingu i sprzedaży, chyba że jest to uzasadnione. W przypadku gdy Osoba Wykwalifikowana zaangażowana w certyfikację serii objętych postępowaniem wyjaśniającym nie uczestniczy w tym postępowaniu, powinna ona być informowana w odpowiednim czasie.
 14.11.
@@ -1972,11 +1868,9 @@ Podczas prowadzenia postępowań wyjaśniających priorytetem powinno być zapew
 14.16.
 Zapisy dotyczące wad jakościowych powinny być przechowywane i wykorzystywane do oceny możliwości występowania powtarzających się problemów. Organy kompetentne powinny być informowane w odpowiednim czasie w przypadku potwierdzonych wad jakościowych ATMP, które mogą skutkować wycofaniem produktu lub nietypowym ograniczeniem dostaw (wadliwa produkcja, pogorszenie jakości produktu, wykrycie sfałszowania, niezgodność z pozwoleniem na dopuszczenie do obrotu lub Podstawową Dokumentacją Produktu lub wszelkie inne poważne problemy jakościowe). Nieplanowane odchylenia opisane w pkt 11.52 nie powinny być zgłaszane.
 14.17.
-W przypadku ATMP wytwarzanych przez podmiot, który nie jest podmiotem odpowiedzialnym ani sponsorem, rola i obowiązki wytwórcy, podmiotu odpowiedzialnego lub sponsora oraz jakichkolwiek innych istotnych stron trzecich związane z oceną, podejmowaniem decyzji, rozpowszechnianiem informacji, wdrażaniem działań zmniejszających ryzyko powinny być ustanowione na piśmie.
-Wady jakościowe i wycofanie produktu – dodatkowe aspekty dotyczące badanych ATMP
+W przypadku ATMP wytwarzanych przez podmiot, który nie jest podmiotem odpowiedzialnym ani sponsorem, rola i obowiązki wytwórcy, podmiotu odpowiedzialnego lub sponsora oraz jakichkolwiek innych istotnych stron trzecich związane z oceną, podejmowaniem decyzji, rozpowszechnianiem informacji, wdrażaniem działań zmniejszających ryzyko powinny być ustanowione na piśmie. Wady jakościowe i wycofanie produktu – dodatkowe aspekty dotyczące badanych ATMP
 14.18.
-Jeżeli protokół badania klinicznego wymaga zaślepienia badanych produktów leczniczych, wytwórca powinien wprowadzić procedurę szybkiego odślepienia produktów, jeżeli jest to konieczne, w celu bezzwłocznego wycofania. Wytwórca powinien zapewnić, aby procedura pozwalała zidentyfikować zaślepiony produkt tylko w takim zakresie, w jakim jest to konieczne.
-Wycofanie produktu i inne działania zmniejszające ryzyko
+Jeżeli protokół badania klinicznego wymaga zaślepienia badanych produktów leczniczych, wytwórca powinien wprowadzić procedurę szybkiego odślepienia produktów, jeżeli jest to konieczne, w celu bezzwłocznego wycofania. Wytwórca powinien zapewnić, aby procedura pozwalała zidentyfikować zaślepiony produkt tylko w takim zakresie, w jakim jest to konieczne. Wycofanie produktu i inne działania zmniejszające ryzyko
 14.19.
 Środki podjęte w związku z wystąpieniem wad jakościowych powinny być proporcjonalne do ryzyk, a priorytetem powinna być ochrona pacjentów. W miarę możliwości działania, jakie należy podjąć, powinny zostać z wyprzedzeniem ustalone z właściwymi organami kompetentnymi.
 14.20.
@@ -1990,11 +1884,9 @@ Wszystkie właściwe organy kompetentne powinny być powiadamiane przed rozpocz�
 14.24.
 Powinien być ustalony plan działania dla przypadków, w których produkt nie może być wycofany, ponieważ został on już podany pacjentom.
 14.25.
-Oprócz wycofań istnieją inne działania zmniejszające ryzyko, które mogą być wzięte pod uwagę w celu zarządzania ryzykiem związanym z wadami jakościowymi, takie jak przekazywanie odpowiednich informacji personelowi medycznemu.
-Wycofanie produktu i inne działania zmniejszające ryzyko – dodatkowe aspekty dotyczące badanych ATMP
+Oprócz wycofań istnieją inne działania zmniejszające ryzyko, które mogą być wzięte pod uwagę w celu zarządzania ryzykiem związanym z wadami jakościowymi, takie jak przekazywanie odpowiednich informacji personelowi medycznemu. Wycofanie produktu i inne działania zmniejszające ryzyko – dodatkowe aspekty dotyczące badanych ATMP
 14.26.
-Procedury dotyczące odbioru badanych ATMP i dokumentowanie tego odbioru powinny być uzgadniane przez sponsora we współpracy z wytwórcą, jeśli są to różne podmioty. Wytwórca, badacz oraz przedstawiciel sponsora muszą znać swoje obowiązki objęte procedurą odbioru. W celu ułatwienia wycofania szczegółowa inwentaryzacja wysyłek wykonywanych przez wytwórcę powinna być przechowywana.
-Środki kontroli środowiska dla ATMP zawierających lub składających się z GMO
+Procedury dotyczące odbioru badanych ATMP i dokumentowanie tego odbioru powinny być uzgadniane przez sponsora we współpracy z wytwórcą, jeśli są to różne podmioty. Wytwórca, badacz oraz przedstawiciel sponsora muszą znać swoje obowiązki objęte procedurą odbioru. W celu ułatwienia wycofania szczegółowa inwentaryzacja wysyłek wykonywanych przez wytwórcę powinna być przechowywana. Środki kontroli środowiska dla ATMP zawierających lub składających się z GMO
 15.10.
 Działania prowadzone na ATMP zawierających lub składających się z GMO mogą zwiększać ryzyko kontaminacji środowiska, dlatego też wymagają wprowadzenia dodatkowych środków kontroli. Po pierwsze należy przeprowadzić analizę ryzyka związaną z izolowanymi ATMP, jak również z ryzykiem w przypadku ekspansji zmodyfikowanych genów w komórkach permisywnych gospodarza. Rezultatem przeprowadzonej analizy ryzyka powinno być przypisanie wytwarzanych produktów do odpowiedniej kategorii określającej nieistotny, mały, średni lub wysoki stopień ryzyka dla środowiska.
 15.11.
@@ -2008,8 +1900,7 @@ Plan postępowania w nagłych wypadkach, dostosowany do poziomu ryzyka, powinien
 15.15.
 W przypadku ATMP posiadających pozwolenie na dopuszczenie do obrotu ocena ryzyka, środki ograniczające rozprzestrzenianie się zanieczyszczeń oraz plan postępowania w nagłych wypadkach powinny być częścią Planu Zarządzania Ryzykiem.
 15.16.
-Przepisy niniejszego rozdziału nie pozostają w sprzeczności do wymagań przepisów rozdziału 2 oraz 2a ustawy z dnia 22 czerwca 2001 r. mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706 oraz z 2020 r. poz. 322), które mogą mieć zastosowanie do badanych ATMP.
-Rekonstytucja produktu po zwolnieniu serii – działania w zakresie rekonstytucji
+Przepisy niniejszego rozdziału nie pozostają w sprzeczności do wymagań przepisów rozdziału 2 oraz 2a ustawy z dnia 22 czerwca 2001 r. mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706 oraz z 2020 r. poz. 322), które mogą mieć zastosowanie do badanych ATMP. Rekonstytucja produktu po zwolnieniu serii – działania w zakresie rekonstytucji
 16.10.
 Działania związane z rekonstytucją mogą odbywać się w miejscu podawania (np. w aptekach szpitalnych), gdzie nie obowiązują wymagania Dobrej Praktyki Wytwarzania.
 16.11.
@@ -2027,8 +1918,7 @@ rozdzielenie produktu i stosowanie w osobnych dawkach, dostosowanie dawki (np. l
 5)
 wprowadzenie do systemów dostarczania lub urządzeń chirurgicznych, przenoszenie do worka infuzyjnego lub strzykawki.
 16.13.
-Powyższe etapy mogą stanowić część procesu rekonstytucji, tylko jeśli jest uzasadnione, że nie można wykonać tych etapów w ramach procesu wytwarzania przed zwolnieniem serii, bez negatywnego wpływu na produkt. Ponadto powyższe działania można uznać za „rekonstytucję” tylko wtedy, gdy są przeprowadzane w miejscu podawania (tj. nie można zaakceptować tych etapów jako zleconych stronie trzeciej, która nie spełnia wymagań Dobrej Praktyki Wytwarzania).
-Obowiązki wytwórcy ATMP w związku z działaniami w zakresie rekonstytucji
+Powyższe etapy mogą stanowić część procesu rekonstytucji, tylko jeśli jest uzasadnione, że nie można wykonać tych etapów w ramach procesu wytwarzania przed zwolnieniem serii, bez negatywnego wpływu na produkt. Ponadto powyższe działania można uznać za „rekonstytucję” tylko wtedy, gdy są przeprowadzane w miejscu podawania (tj. nie można zaakceptować tych etapów jako zleconych stronie trzeciej, która nie spełnia wymagań Dobrej Praktyki Wytwarzania). Obowiązki wytwórcy ATMP w związku z działaniami w zakresie rekonstytucji
 16.14.
 Wytwórca lub, jeśli to właściwe, sponsor lub podmiot odpowiedzialny powinien opisać proces rekonstytucji, w tym stosowane wyposażenie i wymagania w miejscu podania. Instrukcje powinny być szczegółowe i jasne, aby uniknąć negatywnego wpływu na jakość produktu (np. kiedy rekonstytucja wymaga rozmrożenia, powinny być opisane okres oczekiwania w temperaturze pokojowej, szybkość zmiany temperatury podczas rozmrażania, użycie łaźni wodnej itp.).
 16.15.
@@ -2036,13 +1926,11 @@ Podobnie, jeśli rekonstrukcja wymaga zastosowania rozpuszczalników lub innych 
 16.16.
 W przypadku ATMP dopuszczonych do obrotu wytwórca powinien zwalidować proces rekonstytucji, który ma być stosowany od momentu zwolnienia serii do momentu podania pacjentowi, tj. przez odpowiednie badania należy wykazać, że określony proces rekonstytucji jest wystarczająco odporny i powtarzalny, aby można było podawać produkt bez negatywnego wpływu na jakość, bezpieczeństwo i skuteczność ATMP.
 16.17.
-Przestrzeganie określonych wymagań procesu rekonstytucji w miejscu podawania pozostaje poza odpowiedzialnością wytwórcy i poza zakresem wymagań Dobrej Praktyki Wytwarzania.
-Zautomatyzowane wytwarzanie ATMP – zasady ogólne
+Przestrzeganie określonych wymagań procesu rekonstytucji w miejscu podawania pozostaje poza odpowiedzialnością wytwórcy i poza zakresem wymagań Dobrej Praktyki Wytwarzania. Zautomatyzowane wytwarzanie ATMP – zasady ogólne
 17.10.
 Jeżeli wynikiem zautomatyzowanego systemu produkcji (zwanego dalej urządzeniami zautomatyzowanymi) jest produkt spełniający definicję ATMP, stosuje się wymagania rozporządzenia nr 1394/2007. W przypadku ATMP posiadających pozwolenie na dopuszczenie do obrotu albo badanych ATMP stosuje się wymagania Dobrej Praktyki Wytwarzania określone w niniejszym załączniku.
 17.11.
-Stosowanie urządzeń zautomatyzowanych może ułatwić spełnienie niektórych wymagań Dobrej Praktyki Wytwarzania, jak również może przynieść pewne korzyści w odniesieniu do jakości produktu. W niniejszym rozdziale przedstawiono pewne szczególne aspekty odnoszące się do wykorzystania tej technologii do wytwarzania ATMP, jednak, o ile nie stwierdzono inaczej, pozostałe rozdziały niniejszego załącznika mają również zastosowanie.
-Urządzenia zautomatyzowane
+Stosowanie urządzeń zautomatyzowanych może ułatwić spełnienie niektórych wymagań Dobrej Praktyki Wytwarzania, jak również może przynieść pewne korzyści w odniesieniu do jakości produktu. W niniejszym rozdziale przedstawiono pewne szczególne aspekty odnoszące się do wykorzystania tej technologii do wytwarzania ATMP, jednak, o ile nie stwierdzono inaczej, pozostałe rozdziały niniejszego załącznika mają również zastosowanie. Urządzenia zautomatyzowane
 17.12.
 Wytwórca ATMP jest odpowiedzialny za jakość tych produktów. Wytwórca zapewnia, że urządzenie zautomatyzowane jest odpowiednie do zamierzonego zastosowania.
 17.13.
@@ -2064,23 +1952,19 @@ Producent urządzenia zautomatyzowanego opracowuje harmonogram prac konserwacyjn
 17.21.
 Wytwarzanie aseptyczne: urządzenia zautomatyzowane używane są wyłącznie pod warunkiem, że zapewniają aseptyczne warunki wytwarzania (np. przez walidację procesów czyszczenia, sterylizację materiałów wielokrotnego użytku mających kontakt z produktem leczniczym, odpowiednie kontrole integralności urządzeń, np. badanie spadku ciśnienia, badanie szczelności).
 17.22.
-Zapisy wytwarzania serii i zapisy zapewniające identyfikowalność powinny być przechowywane.
-Personel
+Zapisy wytwarzania serii i zapisy zapewniające identyfikowalność powinny być przechowywane. Personel
 17.23.
-Personel zaangażowany w produkcję jest odpowiednio przeszkolony i w pełni zna ryzyka związane z procesem, w szczególności ryzyka związane ze skutecznością produktu.
-Pomieszczenia
+Personel zaangażowany w produkcję jest odpowiednio przeszkolony i w pełni zna ryzyka związane z procesem, w szczególności ryzyka związane ze skutecznością produktu. Pomieszczenia
 17.24.
 Zgodnie z pkt 9.39–9.54 pomieszczenie, w którym używany jest system zamknięty, jest co najmniej klasy D. Przenoszenie materiałów do i z urządzeń jest etapem krytycznym, dlatego wdrożony jest zwalidowany sposób postępowania zabezpieczający produkt przed ryzykiem zanieczyszczenia.
 17.25.
-Pkt 9.39–9.54 określa warunki, w których systemy zamknięte mogą być w drodze wyjątku umiejscowione w niesklasyfikowanym, ale kontrolowanym środowisku.
-Produkcja i walidacja procesu.
+Pkt 9.39–9.54 określa warunki, w których systemy zamknięte mogą być w drodze wyjątku umiejscowione w niesklasyfikowanym, ale kontrolowanym środowisku. Produkcja i walidacja procesu.
 17.26.
 Czas rozpoczęcia i zakończenia procesu wytwarzania jest zdefiniowany. Zadania i odpowiedzialności osób uczestniczących w procesie w różnych punktach czasowych są jasno określone.
 17.27.
 Możliwość prowadzenia kontroli wewnątrzprocesowych może być ograniczona ze względu na ciągły proces prowadzony w systemie zamkniętym. W takich przypadkach powinno być prowadzone stałe monitorowanie krytycznych parametrów procesu wytwarzania lub innych parametrów, które wpływają na jakość produktu leczniczego (jak określono w pozwoleniu na dopuszczenie do obrotu lub pozwoleniu na prowadzenie badania klinicznego), jeżeli to technicznie możliwe. Jeżeli ciągłe monitorowanie jest niemożliwe technicznie, wymagane jest monitorowanie w odpowiednich odstępach czasu z uwzględnieniem krytyczności parametrów i ryzyk z tym związanych. Dane dotyczące parametrów procesu są zachowywane jako część zapisów wytwarzania serii.
 17.28.
-Walidacja procesu aseptycznego obejmuje badania symulacyjne procesu. Zaleca się przeprowadzanie prób symulacyjnych z częstotliwością dwa razy w roku. Inna częstotliwość wykonywania prób symulacyjnych ustalana jest w oparciu o ocenę ryzyka (zobacz pkt 9.55–9.65).
-Osoba Wykwalifikowana i certyfikacji serii
+Walidacja procesu aseptycznego obejmuje badania symulacyjne procesu. Zaleca się przeprowadzanie prób symulacyjnych z częstotliwością dwa razy w roku. Inna częstotliwość wykonywania prób symulacyjnych ustalana jest w oparciu o ocenę ryzyka (zobacz pkt 9.55–9.65). Osoba Wykwalifikowana i certyfikacji serii
 17.29.
 Certyfikacja serii jest podstawowym wymaganiem dla produktów leczniczych, w tym ATMP wytwarzanych z użyciem urządzeń zautomatyzowanych.
 

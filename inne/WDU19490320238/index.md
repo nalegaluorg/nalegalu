@@ -22,20 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1949-04-27 |
 | Data wydania | 1949-05-19 |
-| Wejście w życie | 1949-07-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490320238) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1949/238/text.pdf) |
 
+Stosowanie środków zapobiegających uchylaniu się od sądu
+Postępowanie przed sądem okręgowym i apelacyjnym”
 87)
 w art. 286 skreśla się zdanie zaczynające się od wyrazów „oraz oznajmia” do końca artykułu,
 88)
 art. 287, 288 i 289 uchyla się,
 89)
-art. 290 otrzymuje brzmienie:
-„
+art. 290 otrzymuje brzmienie: „
+Rewizja
+Rewizja nadzwyczajna
+Schroniska dla nieletnich”
 2)
-art. 5 § 1 otrzymuje brzmienie:
-„
+art. 5 § 1 otrzymuje brzmienie: „
 
 **Art. 1.** W kodeksie postępowania karnego wprowadza się następujące zmiany:
 
@@ -236,7 +238,7 @@ w wypadkach, wskazanych w art. 88, na prośbę oskarżonego, który z powodu ub�
 - **49)** art. 159–161 uchyla się,
 - **50)** w księdze IV rozdziały I-IV oznacza się jako II-V, natomiast jako rozdział I wprowadza się przepisy w brzmieniu: „
 
-#### Rozdział I Stosowanie środków zapobiegających uchylaniu się od sądu
+#### Rozdział I
 
 **Art. 1631.** Środki zapobiegające uchylaniu się od sądu stosować może tylko sędzia lub prokurator w razie istnienia dostatecznych poszlak przeciwko oskarżonemu.
 
@@ -439,7 +441,7 @@ w wypadkach, wskazanych w art. 88, na prośbę oskarżonego, który z powodu ub�
 - **85)** art. 284 uchyla się,
 - **86)** w księdze VII dział I otrzymuje tytuł: „
 
-### Dział I Postępowanie przed sądem okręgowym i apelacyjnym”
+### Dział I
 
 **Art. 290.**
 
@@ -548,7 +550,7 @@ w wypadkach, wskazanych w art. 88, na prośbę oskarżonego, który z powodu ub�
 
 - **110)** w księdze VIII rozdział II otrzymuje brzmienie: „
 
-#### Rozdział II Rewizja
+#### Rozdział II
 
 **Art. 473.** Strony mogą zakładać rewizje od wydanych w pierwszej instancji wyroków sądów grodzkich, okręgowych i apelacyjnych.
 
@@ -717,7 +719,7 @@ jeżeli wyrok zapadł z obrazą art. 12 lub 13, jeżeli w składzie sądu uczest
 
 - **111)** w księdze VIII rozdział III otrzymuje brzmienie: „
 
-#### Rozdział III Rewizja nadzwyczajna
+#### Rozdział III
 
 **Art. 507.** Od każdego prawomocnego orzeczenia, kończącego postępowanie sądowe, może być założona rewizja nadzwyczajna do Sądu Najwyższego.
 
@@ -867,7 +869,7 @@ jeżeli wyrok zapadł z obrazą art. 12 lub 13, jeżeli w składzie sądu uczest
 
 - **1)** rozdział II otrzymuje tytuł: „
 
-#### Rozdział II Schroniska dla nieletnich”
+#### Rozdział II
 
 **Art. 5.**
 

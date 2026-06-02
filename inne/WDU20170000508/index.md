@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-02 |
 | Data wydania | 2017-03-10 |
-| Wejście w życie | 2017-03-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000508) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/508/text.pdf) |
 
@@ -86,5 +85,5 @@ przyczyny uzasadniające wystąpienie o przydzielenie asysty.
 3.
 Komendant właściwego miejscowo oddziału Straży Granicznej niezwłocznie po otrzymaniu wniosku, o którym mowa w ust. 1, przekazuje, w formie pisemnej, naczelnikowi właściwego miejscowo urzędu celno-skarbowego informację o podjętych działaniach albo przyczynach ich niepodjęcia.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie poprzedzone było rozporządzeniem Rady Ministrów z dnia 12 stycznia 2010 r. w sprawie współdziałania Służby Celnej i Straży Granicznej w zakresie zadań wykonywanych przez jednostki pływające Służby Celnej na morskich wodach wewnętrznych, morzu terytorialnym lub wodach śródlądowych Rzeczypospolitej Polskiej (Dz. U. poz. 60), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379). 1) Niniejsze rozporządzenie poprzedzone było rozporządzeniem Rady Ministrów z dnia 12 stycznia 2010 r. w sprawie współdziałania Służby Celnej i Straży Granicznej w zakresie zadań wykonywanych przez jednostki pływające Służby Celnej na morskich wodach wewnętrznych, morzu terytorialnym lub wodach śródlądowych Rzeczypospolitej Polskiej (Dz. U. poz. 60), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
 

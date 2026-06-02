@@ -26,13 +26,16 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001389) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1389/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 24 lipca 2015 r. Prawo o zgromadzeniach Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizowanie, odbywanie i rozwiązywanie zgromadzeń Rozdział 3 – Postępowanie uproszczone w sprawach zgromadzeń Rozdział 3a – Postępowanie w sprawach zgromadzeń organizowanych cyklicznie Rozdział 4 – Zgromadzenia spontaniczne Rozdział 5 – Zmiany w przepisach obowiązujących Rozdział 6 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 24 lipca 2015 r. Prawo o zgromadzeniach
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2019 r. poz. 631), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 czerwca 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „
+Przepisy ogólne
+Organizowanie, odbywanie i rozwiązywanie zgromadzeń
+Postępowanie uproszczone w sprawach zgromadzeń
+Postępowanie w sprawach zgromadzeń organizowanych cyklicznie
 1.
 Jeżeli zgromadzenia są organizowane przez tego samego organizatora w tym samym miejscu lub na tej samej trasie co najmniej 4 razy w roku według opracowanego terminarza lub co najmniej raz w roku w dniach świąt państwowych i narodowych, a tego rodzaju wydarzenia odbywały się w ciągu ostatnich 3 lat, chociażby nie w formie zgromadzeń i miały na celu w szczególności uczczenie doniosłych i istotnych dla historii Rzeczypospolitej Polskiej wydarzeń, organizator może zwrócić się z wnioskiem do wojewody o wyrażenie zgody na cykliczne organizowanie tych zgromadzeń.
 2.
@@ -57,15 +60,32 @@ jeżeli co najmniej dwukrotnie, w terminach określonych w terminarzu, o którym
 Przepisu ust. 1 pkt 2 nie stosuje się, jeżeli zgromadzenie nie mogło zostać zorganizowane z przyczyn niezależnych od organizatora.
 Na podstawie jednej decyzji o wyrażeniu zgody na cykliczne organizowanie zgromadzeń zgromadzenia te mogą odbywać się w okresie nie dłuższym niż 3 lata od przeprowadzenia pierwszego z cyklu zgromadzeń.
 Do zgromadzeń organizowanych cyklicznie przepisy art. 8, art. 10–12 oraz art. 14–20 stosuje się odpowiednio.
+Zgromadzenia spontaniczne
+Zmiany w przepisach obowiązujących
 Art. 29–33.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organizowanie, odbywanie i rozwiązywanie zgromadzeń
+
+#### Rozdział 3 – Postępowanie uproszczone w sprawach zgromadzeń
+
+#### Rozdział 3a – Postępowanie w sprawach zgromadzeń organizowanych cyklicznie
+
+#### Rozdział 4 – Zgromadzenia spontaniczne
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 6 – Przepisy przejściowe i końcowe
 
 **Art. 824.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 24 lipca 2015 r. Prawo o zgromadzeniach
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje zasady i tryb organizowania, odbywania oraz rozwiązywania zgromadzeń.
 
@@ -90,7 +110,7 @@ Art. 29–33.
 
 **Art. 6.** Zadania w zakresie postępowania w sprawach dotyczących zgromadzeń należą do zadań zleconych gminy, na obszarze której jest organizowane zgromadzenie.
 
-#### Rozdział 2 Organizowanie, odbywanie i rozwiązywanie zgromadzeń
+#### Rozdział 2
 
 **Art. 7.**
 
@@ -108,9 +128,7 @@ Art. 29–33.
 
 3. Jeżeli zgromadzenie ma zostać zorganizowane w pobliżu obiektów podlegających ochronie Służby Ochrony Państwa, organ gminy informuje niezwłocznie Komendanta Służby Ochrony Państwa o miejscu, terminie oraz o przewidywanej liczbie uczestników zgromadzenia.
 
-4. Jeżeli zgromadzenie ma zostać zorganizowane w pobliżu obiektów podlegających ochronie Straży Marszałkowskiej, organ gminy informuje niezwłocznie Komendanta Straży Marszałkowskiej o miejscu, terminie oraz o przewidywanej liczbie uczestników zgromadzenia.
-
-5. Jeżeli zgromadzenie ma zostać zorganizowane w pobliżu jednostki wojskowej w rozumieniu art. 2 pkt 12 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974), organ gminy informuje niezwłocznie właściwego komendanta terenowej jednostki organizacyjnej Żandarmerii Wojskowej o miejscu, terminie oraz o przewidywanej liczbie uczestników zgromadzenia.
+4. Jeżeli zgromadzenie ma zostać zorganizowane w pobliżu obiektów podlegających ochronie Straży Marszałkowskiej, organ gminy informuje niezwłocznie Komendanta Straży Marszałkowskiej o miejscu, terminie oraz o przewidywanej liczbie uczestników zgromadzenia. 5Ze zmianą wprowadzoną przez art. 759 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), która weszła w życie z dniem 23 kwietnia 2022 r.. Jeżeli zgromadzenie ma zostać zorganizowane w pobliżu jednostki wojskowej w rozumieniu art. 2 pkt 12 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974), organ gminy informuje niezwłocznie właściwego komendanta terenowej jednostki organizacyjnej Żandarmerii Wojskowej o miejscu, terminie oraz o przewidywanej liczbie uczestników zgromadzenia.
 
 6. Organ gminy informuje niezwłocznie podmioty, o których mowa w ust. 1–5, o zmianie miejsca lub terminu organizowanego zgromadzenia albo o wydaniu decyzji o zakazie zgromadzenia.
 
@@ -242,7 +260,7 @@ Art. 29–33.
 
 5. Na postanowienie sądu okręgowego przysługuje w terminie 5 dni od dnia doręczenia postanowienia zażalenie do sądu apelacyjnego. Od postanowienia sądu apelacyjnego nie przysługuje skarga kasacyjna.
 
-#### Rozdział 3 Postępowanie uproszczone w sprawach zgromadzeń
+#### Rozdział 3
 
 **Art. 21.** W przypadku gdy organizator zgromadzenia uzna, że planowane zgromadzenie nie będzie powodować utrudnień w ruchu drogowym, a w szczególności powodować zmiany w jego organizacji, do organizacji takiego zgromadzenia organizator może zastosować przepisy niniejszego rozdziału.
 
@@ -280,9 +298,9 @@ Art. 29–33.
 
 **Art. 26.** Do zgromadzeń, o których mowa w art. 21, przepisy art. 12, art. 13, art. 17 i art. 19 ust. 1, 5 i 7 stosuje się odpowiednio.
 
-#### Rozdział 3a Postępowanie w sprawach zgromadzeń organizowanych cyklicznie
+#### Rozdział 3a
 
-#### Rozdział 4 Zgromadzenia spontaniczne
+#### Rozdział 4
 
 **Art. 27.** Uczestnicy zgromadzenia spontanicznego nie mogą zakłócać przebiegu zgromadzenia organizowanego w trybie przepisów rozdziału 2, 3 lub 3a.
 
@@ -298,20 +316,17 @@ Art. 29–33.
 
 2. Rozwiązanie zgromadzenia spontanicznego na podstawie ust. 1 następuje przez wydanie decyzji ustnej podlegającej natychmiastowemu wykonaniu, poprzedzonej dwukrotnym ostrzeżeniem uczestników zgromadzenia spontanicznego o możliwości jego rozwiązania, a następnie ogłoszonej publicznie uczestnikom tego zgromadzenia.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+#### Rozdział 5
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6
 
 **Art. 34.**
 
 1. Do postępowań wszczętych na podstawie przepisów ustawy, o której mowa w art. 35, i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-2. Do postępowań wszczętych na podstawie art. 7 ustawy zmienianej w art. 31 i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+2. Do postępowań wszczętych na podstawie art. 7 ustawy zmienianej w art. 31Artykuł 31 zawiera zmiany do ustawy z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady. i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 35.** Traci moc ustawa z dnia 5 lipca 1990 r. – Prawo o zgromadzeniach (Dz. U. z 2013 r. poz. 397 oraz z 2014 r. poz. 1327).
 
-**Art. 36.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 759 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), która weszła w życie z dniem 23 kwietnia 2022 r. 2) Artykuł 31 zawiera zmiany do ustawy z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady. 3) Ustawa została ogłoszona w dniu 29 września 2015 r.
-
+**Art. 36.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 29 września 2015 r.. 1) Ze zmianą wprowadzoną przez art. 759 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), która weszła w życie z dniem 23 kwietnia 2022 r. 2) Artykuł 31 zawiera zmiany do ustawy z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady. 3) Ustawa została ogłoszona w dniu 29 września 2015 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 10 kwietnia 2017 r. w sprawie sposobu obliczania danych podanych we wniosku o wydanie świadectwa pochodzenia z kogeneracji oraz szczegółowego zakresu obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji
+# Rozporządzenie Ministra Energiiz dnia 10 kwietnia 2017 r. w sprawie sposobu obliczania danych podanych we wniosku o wydanie świadectwa pochodzenia z kogeneracji oraz szczegółowego zakresu obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-10 |
 | Data wydania | 2017-04-25 |
-| Wejście w życie | 2017-04-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/834/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Sposób obliczania danych stosowanych do obliczania ilości energii elektrycznej z wysokosprawnej kogeneracji oraz wielkości oszczędności energii pierwotnej
 Treść rozporządzenia
-Na podstawie art. 9a ust. 16 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220 i 791) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24 oraz Dz. Urz. UE L 141 z 28.05.2013, str. 28) oraz decyzję Komisji z dnia 19 listopada 2008 r. w sprawie określenia szczegółowych wytycznych dotyczących wykonania i stosowania przepisów załącznika II do dyrektywy 2004/8/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 338 z 17.12.2008, str. 55). Na podstawie art. 9a ust. 16 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220 i 791) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób obliczania danych podanych we wniosku o wydanie świadectwa pochodzenia z kogeneracji oraz szczegółowy zakres obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji, w tym:
 1)
@@ -116,8 +115,7 @@ ciepła użytkowego w kogeneracji dla różnych układów urządzeń wchodzącyc
 2)
 równoważnika paliwowego,
 3)
-współczynnika zmiany mocy
-jest zawarty w załączniku do rozporządzenia.
+współczynnika zmiany mocy – jest zawarty w załączniku do rozporządzenia.
 § 5.
 1.
 Obliczona zgodnie z art. 3 pkt 36 ustawy ilość energii elektrycznej z kogeneracji, oznaczona symbolem „ Abq”, o którym mowa w § 6 ust. 3, jest równa ilości energii elektrycznej z wysokosprawnej kogeneracji, pod warunkiem uzyskania przez jednostkę kogeneracji oszczędności energii pierwotnej, oznaczonej symbolem „ PES ”, o której mowa w § 6 ust. 1, obliczonej w sposób określony w tym przepisie, w wysokości określonej w art. 3 pkt 38 ustawy.
@@ -134,8 +132,7 @@ Jeżeli określenie wartości współczynnika określającego stosunek energii e
 4)
 0,55 dla turbiny gazowej z odzyskiem ciepła,
 5)
-0,75 dla silnika spalinowego
-pod warunkiem że obliczona ilość energii elektrycznej z kogeneracji jest niższa lub równa całkowitej produkcji energii elektrycznej z tej jednostki.
+0,75 dla silnika spalinowego – pod warunkiem że obliczona ilość energii elektrycznej z kogeneracji jest niższa lub równa całkowitej produkcji energii elektrycznej z tej jednostki.
 4.
 W przypadku jednostki kogeneracji będącej w pierwszym roku eksploatacji, dla której nie można wyznaczyć wartości współczynnika określającego stosunek energii elektrycznej z kogeneracji do ciepła użytkowego w kogeneracji, oznaczonego symbolem „ C”, o którym mowa w pkt 1.6 załącznika do rozporządzenia, na podstawie danych pomiarowych przyjmuje się wartość współczynnika na podstawie danych konstrukcyjnych.
 § 6.
@@ -153,8 +150,7 @@ Referencyjne wartości sprawności dla wytwarzania rozdzielonego:
 1)
 energii elektrycznej, oznaczone symbolem „ ηrefe”, o których mowa w ust. 1, ustala się w oparciu o zharmonizowane wartości referencyjnych sprawności dla rozdzielonej produkcji energii elektrycznej określone w załączniku I do rozporządzenia delegowanego Komisji (UE) 2015/2402 z dnia 12 października 2015 r. w sprawie przeglądu zharmonizowanych wartości referencyjnych sprawności dla rozdzielonej produkcji energii elektrycznej i ciepła w zastosowaniu dyrektywy Parlamentu Europejskiego i Rady 2012/27/UE i uchylającego decyzję wykonawczą Komisji 2011/877/UE (Dz. Urz. UE L 333 z 19.12.2015, str. 54), zwanego dalej „rozporządzeniem (UE) 2015/2402”,
 2)
-ciepła, oznaczone symbolem „ ηrefc”, o których mowa w ust. 1, ustala się w oparciu o zharmonizowane wartości referencyjnych sprawności dla rozdzielonej produkcji ciepła określone w załączniku II do rozporządzenia (UE) 2015/2402
-w odniesieniu do następujących warunków atmosferycznych: temperatura otoczenia 15°C, ciśnienie atmosferyczne 1013 hPa oraz wilgotność względna 60%.
+ciepła, oznaczone symbolem „ ηrefc”, o których mowa w ust. 1, ustala się w oparciu o zharmonizowane wartości referencyjnych sprawności dla rozdzielonej produkcji ciepła określone w załączniku II do rozporządzenia (UE) 2015/2402 – w odniesieniu do następujących warunków atmosferycznych: temperatura otoczenia 15°C, ciśnienie atmosferyczne 1013 hPa oraz wilgotność względna 60%.
 6.
 Referencyjną wartość sprawności dla wytwarzania rozdzielonego energii elektrycznej „ ηrefe” należy korygować w celu dostosowania średniej rocznej temperatury otoczenia wynoszącej dla warunków panujących w Polsce 8°C do warunków atmosferycznych, o których mowa w ust. 5, zgodnie z zasadami zawartymi w załączniku III do rozporządzenia (UE) 2015/2402.
 7.
@@ -184,8 +180,7 @@ Ilość energii elektrycznej, oznaczonej symbolami „ Epg”, „ Epk” i „ 
 4.
 W przypadku gdy przedsiębiorstwo energetyczne w roku poprzedzającym rok sporządzania taryfy zrealizowało obowiązek, o którym mowa w art. 9a ust. 1 ustawy, uiszczając opłatę zastępczą w wysokości odpowiadającej ilości energii elektrycznej większej niż 20% ilości energii elektrycznej wynikającej z obowiązku uzyskania i umorzenia świadectw pochodzenia z kogeneracji albo uiszczenia opłaty zastępczej, w kosztach, o których mowa w ust. 1, uwzględnia się 80% kosztów poniesionej opłaty zastępczej.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24 oraz Dz. Urz. UE L 141 z 28.05.2013, str. 28) oraz decyzję Komisji z dnia 19 listopada 2008 r. w sprawie określenia szczegółowych wytycznych dotyczących wykonania i stosowania przepisów załącznika II do dyrektywy 2004/8/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 338 z 17.12.2008, str. 55). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 10 grudnia 2014 r. w sprawie sposobu obliczania danych podanych we wniosku o wydanie świadectwa pochodzenia z kogeneracji oraz szczegółowego zakresu obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji (Dz. U. poz. 1940), które utraciło moc z dniem 5 kwietnia 2017 r. zgodnie z art. 206 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. poz. 478 i 2365, z 2016 r. poz. 925, 1579 i 2260 oraz z 2017 r. poz. 624).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 10 grudnia 2014 r. w sprawie sposobu obliczania danych podanych we wniosku o wydanie świadectwa pochodzenia z kogeneracji oraz szczegółowego zakresu obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji (Dz. U. poz. 1940), które utraciło moc z dniem 5 kwietnia 2017 r. zgodnie z art. 206 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. poz. 478 i 2365, z 2016 r. poz. 925, 1579 i 2260 oraz z 2017 r. poz. 624). 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24 oraz Dz. Urz. UE L 141 z 28.05.2013, str. 28) oraz decyzję Komisji z dnia 19 listopada 2008 r. w sprawie określenia szczegółowych wytycznych dotyczących wykonania i stosowania przepisów załącznika II do dyrektywy 2004/8/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 338 z 17.12.2008, str. 55). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 10 grudnia 2014 r. w sprawie sposobu obliczania danych podanych we wniosku o wydanie świadectwa pochodzenia z kogeneracji oraz szczegółowego zakresu obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji (Dz. U. poz. 1940), które utraciło moc z dniem 5 kwietnia 2017 r. zgodnie z art. 206 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. poz. 478 i 2365, z 2016 r. poz. 925, 1579 i 2260 oraz z 2017 r. poz. 624).
 Załącznik – Sposób obliczania danych stosowanych do obliczania ilości energii elektrycznej z wysokosprawnej kogeneracji oraz wielkości oszczędności energii pierwotnej
 1.
 Zakres
@@ -298,7 +293,9 @@ Pomocnicze turbiny parowe służące do napędu pomp lub sprężarek, dostarczaj
 3.5.
 W układach połączonych szeregowo urządzeń przetwarzających energię chemiczną paliwa w energię elektryczną, mechaniczną i ciepło, urządzenia, w których ciepło to jest wykorzystane do dalszej produkcji energii, nie mogą być traktowane rozdzielnie, nawet jeżeli wytwarzanie energii odbywa się w innym miejscu.
 3.6.
-Główne urządzenia i przyrządy pomiarowe przedstawione na schemacie jednostki kogeneracji powinny być opisane za pomocą prostych oznaczeń składających się z przedrostka oznaczającego typ i numer urządzenia oraz zamieszczonego w nawiasie przyrostka oznaczającego podtyp urządzenia, np.: TP1 (K), TP2 (U/K), ST1 (G), ST2 (DP), Ml (FcS), M2 (TR). Skróty tych oznaczeń zawiera poniższa tabela. Tabela. Skróty oznaczeń Przedrostek Typ urządzenia Przyrostek Podtyp BYP urządzenie obejściowe (by-pass) TG turbina gazowa ST silnik tłokowy (G) silnik gazowy (W) silnik wysokoprężny (DP) silnik dwupaliwowy (COO) ciężki olej opałowy TP turbina parowa (P) przeciwprężna (U) upustowa (D) dopustowa (K) kondensacyjna KO kocioł odzysknicowy (P) para (W) gorąca woda (SpU) spalanie uzupełniające (SpP) spalanie pomocnicze K Kocioł (P) podstawowy (RG) w rezerwie gorącej (RZ) w rezerwie zimnej M stacja pomiarowa (F) przepływy/(Fe) przepływ skorygowany (E) energia elektryczna (Q) ciepło (T) temperatura (P) ciśnienie (An) analizator (I) wskaźnik (R) rejestrator (M) ciężar (S) licznik Do oznaczenia odbiorcy ciepła stosuje się oznaczenie „OC”. Strumienie doprowadzane do jednostki kogeneracji oraz wyjścia energii elektrycznej i ciepła użytkowego powinny być jednoznacznie opisane i zawierać informację o przepływającym medium, a w przypadku pary i wody gorącej – także o roboczym ciśnieniu i temperaturze.
+Główne urządzenia i przyrządy pomiarowe przedstawione na schemacie jednostki kogeneracji powinny być opisane za pomocą prostych oznaczeń składających się z przedrostka oznaczającego typ i numer urządzenia oraz zamieszczonego w nawiasie przyrostka oznaczającego podtyp urządzenia, np.: TP1 (K), TP2 (U/K), ST1 (G), ST2 (DP), Ml (FcS), M2 (TR). Skróty tych oznaczeń zawiera poniższa tabela. Tabela. Skróty oznaczeń
+Przedrostek Typ urządzenia Przyrostek Podtyp BYP urządzenie obejściowe (by-pass) TG turbina gazowa ST silnik tłokowy (G) silnik gazowy (W) silnik wysokoprężny (DP) silnik dwupaliwowy (COO) ciężki olej opałowy TP turbina parowa (P) przeciwprężna (U) upustowa (D) dopustowa (K) kondensacyjna KO kocioł odzysknicowy (P) para (W) gorąca woda (SpU) spalanie uzupełniające (SpP) spalanie pomocnicze K Kocioł (P) podstawowy (RG) w rezerwie gorącej (RZ) w rezerwie zimnej M stacja pomiarowa (F) przepływy/(Fe) przepływ skorygowany (E) energia elektryczna (Q) ciepło (T) temperatura (P) ciśnienie (An) analizator (I) wskaźnik (R) rejestrator (M) ciężar (S) licznik
+Do oznaczenia odbiorcy ciepła stosuje się oznaczenie „OC”. Strumienie doprowadzane do jednostki kogeneracji oraz wyjścia energii elektrycznej i ciepła użytkowego powinny być jednoznacznie opisane i zawierać informację o przepływającym medium, a w przypadku pary i wody gorącej – także o roboczym ciśnieniu i temperaturze.
 4.
 Określanie ilości energii elektrycznej wytworzonej w jednostce kogeneracji
 4.1.
@@ -314,8 +311,7 @@ pompy wody chłodzącej,
 3)
 pompy kondensatu,
 4)
-wentylatory i sprężarki powietrza technologicznego
-dla których alternatywny napęd stanowi silnik elektryczny, może być zaliczona do wyjściowej energii mechanicznej tej jednostki kogeneracji.
+wentylatory i sprężarki powietrza technologicznego – dla których alternatywny napęd stanowi silnik elektryczny, może być zaliczona do wyjściowej energii mechanicznej tej jednostki kogeneracji.
 4.4.
 Ilość energii elektrycznej wytworzonej w jednostce kogeneracji poza procesem kogeneracji wyznacza się, gdy średnioroczna sprawność ogólna obliczona stosownie do § 3 ust. 1 rozporządzenia jest niższa niż sprawność graniczna danej jednostki kogeneracji określona w sposób, o którym mowa w pkt 1.3 i pkt 1.4.
 4.5.

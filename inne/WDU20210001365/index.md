@@ -31,18 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 marca 2000 r. o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. z 2019 r. poz. 1381), z uwzględnieniem zmian wprowadzonych ustawą z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. poz. 2374) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lipca 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. poz. 2374), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. poz. 2374), który stanowi: „
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r. ” . Załącznik – Tekst jednolity ustawy z dnia 16 marca 2000 r. o Chrześcijańskiej Akademii Teologicznej w Warszawie
 
-**Art. 1.**
-
-1. Chrześcijańska Akademia Teologiczna w Warszawie, zwana dalej „Akademią”, jest uczelnią publiczną utworzoną w 1954 r. z Wydziału Teologii Ewangelickiej Uniwersytetu Warszawskiego.
-
-2. Akademia nawiązuje do tradycji Studium Teologii Prawosławnej Uniwersytetu Warszawskiego.
-
-3. Siedzibą Akademii jest Warszawa. Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk teologicznych i humanistycznych.
+**Art. 1.** 1Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. poz. 2374), która weszła w życie z dniem 1 stycznia 2021 r.. Chrześcijańska Akademia Teologiczna w Warszawie, zwana dalej „Akademią”, jest uczelnią publiczną utworzoną w 1954 r. z Wydziału Teologii Ewangelickiej Uniwersytetu Warszawskiego. 2. Akademia nawiązuje do tradycji Studium Teologii Prawosławnej Uniwersytetu Warszawskiego. 3. Siedzibą Akademii jest Warszawa. Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk teologicznych i humanistycznych.
 
 **Art. 3.**
 
@@ -58,8 +51,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 5.** Mienie, obejmujące własność i inne prawa majątkowe Akademii, będące w jej posiadaniu przed dniem wejścia w życie niniejszej ustawy, pozostaje mieniem Akademii.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. poz. 2374), która weszła w życie z dniem 1 stycznia 2021 r. 2) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Ustawa została ogłoszona w dniu 17 maja 2000 r.
-
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 17 maja 2000 r.. 1) Ze zmianą wprowadzoną przez art. 1 pkt 1 ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. poz. 2374), która weszła w życie z dniem 1 stycznia 2021 r. 2) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Ustawa została ogłoszona w dniu 17 maja 2000 r.
 

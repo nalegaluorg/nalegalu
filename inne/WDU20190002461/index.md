@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 16 grudnia 2019 r. w sprawie dodatku kontrolerskiego dla osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej oraz funkcjonariuszy Służby Celno-Skarbowej
+# Rozporządzenie Ministra Finansówz dnia 16 grudnia 2019 r. w sprawie dodatku kontrolerskiego dla osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej oraz funkcjonariuszy Służby Celno-Skarbowej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-16 |
 | Data wydania | 2019-12-20 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2461/text.pdf) |
 
@@ -87,8 +86,7 @@ naczelnik urzędu celno-skarbowego ‒ w przypadku pracowników, funkcjonariuszy
 d)
 naczelnik wydziału, kierownik referatu, kierownik działu ‒ w przypadku pracowników oraz funkcjonariuszy komórek podlegających bezpośrednio dyrektorowi izby administracji skarbowej,
 2)
-w urzędzie obsługującym ministra właściwego do spraw finansów publicznych ‒ osoba kierująca komórką organizacyjną
-− po zasięgnięciu opinii bezpośredniego przełożonego pracownika, funkcjonariusza albo kierownika, którego dotyczy wniosek.
+w urzędzie obsługującym ministra właściwego do spraw finansów publicznych ‒ osoba kierująca komórką organizacyjną − po zasięgnięciu opinii bezpośredniego przełożonego pracownika, funkcjonariusza albo kierownika, którego dotyczy wniosek.
 3.
 Wniosek o przyznanie dodatku zawiera:
 1)
@@ -130,6 +128,5 @@ Wnioski o przyznanie dodatku kontrolerskiego na rok 2020 złożone i nierozpatrz
 § 13.
 Dodatek za styczeń 2020 r. wypłaca się w terminie do dnia 29 lutego 2020 r.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów, Inwestycji i Rozwoju z dnia 7 października 2019 r. w sprawie dodatku kontrolerskiego dla osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej oraz funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 1920), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów, Inwestycji i Rozwoju z dnia 7 października 2019 r. w sprawie dodatku kontrolerskiego dla osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej oraz funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 1920), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów, Inwestycji i Rozwoju z dnia 7 października 2019 r. w sprawie dodatku kontrolerskiego dla osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej oraz funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 1920), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 

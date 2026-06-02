@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowychz dnia 9 sierpnia 2021 r. w sprawie realizacji publicznej usługi hybrydowej w obrocie krajowym
+# Rozporządzenie Ministra Aktywów Państwowychz dnia 9 sierpnia 2021 r. w sprawie realizacji publicznej usługi hybrydowej w obrocie krajowym Minister Aktywów Państwowych kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-09 |
 | Data wydania | 2021-08-17 |
-| Wejście w życie | 2021-10-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001503) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1503/text.pdf) |
 
@@ -63,8 +62,7 @@ Przyjmuje się następujące wskaźniki czasu realizacji usługi:
 1)
 D+6 – 85%,
 2)
-D+8 – 95%
-gdzie D oznacza dzień, od którego jest liczony czas realizacji usługi, a wskaźnik procentowy oznacza udział liczby przesyłek rejestrowanych doręczonych w określonym terminie, liczonym od dnia nadania do dnia doręczenia, zawiadomienia o próbie doręczenia lub odmowy przyjęcia przesyłki rejestrowanej, w ogólnej liczbie nadanych przesyłek rejestrowanych.
+D+8 – 95% – gdzie D oznacza dzień, od którego jest liczony czas realizacji usługi, a wskaźnik procentowy oznacza udział liczby przesyłek rejestrowanych doręczonych w określonym terminie, liczonym od dnia nadania do dnia doręczenia, zawiadomienia o próbie doręczenia lub odmowy przyjęcia przesyłki rejestrowanej, w ogólnej liczbie nadanych przesyłek rejestrowanych.
 § 4.
 1.
 Warunkiem realizacji usługi jest przekazanie za pośrednictwem systemu operatora wyznaczonego, o którym mowa w art. 38 ust. 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, zwanej dalej „ustawą”, lub zintegrowanego z nim systemu, o którym mowa w art. 58 ust. 4 pkt 2 ustawy, dokumentu elektronicznego zawierającego treść korespondencji, który zgodnie z art. 49 ust. 1 pkt 1 ustawy może podlegać przekształceniu w przesyłkę listową i który spełnia wymagania techniczne określone w załączniku do rozporządzenia.
@@ -134,8 +132,7 @@ dokument, o którym mowa w § 6, nie został umieszczony w skrzynce doręczeń n
 § 12.
 Pojedyncza przesyłka w ramach publicznej usługi hybrydowej jest przekazywana wyłącznie w formie plików PDF, których łączna wielkość nie przekracza 15 MB.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 5 października 2021 r.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
+Rozporządzenie wchodzi w życie z dniem 5 października 2021 r. 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 Załącznik – Wymagania techniczne dla przygotowania przesyłek listowych rejestrowanych do nadania w ramach publicznej usługi hybrydowej
 1.
 Wymagania dla dokumentu elektronicznego zawierającego treść korespondencji podlegającego przekształceniu w przesyłkę listową:

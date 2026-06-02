@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001010) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1010/text.pdf) |
 
-Wprowadzenie Udzielenie poniższych informacji wymagane jest prawem, aby zapoznać Kredytobiorcę ze szczegółowymi warunkami udzielania i rozliczania odwróconego kredytu hipotecznego (dalej: „kredytu”). Formularz informacyjny umożliwi porównanie różnych ofert kredytu.
+Załącznik do rozporządzenia Ministra Finansów z dnia 2 lipca 2015 r. (poz. …) FORMULARZ INFORMACYJNY O OFERCIE ODWRÓCONEGO KREDYTU HIPOTECZNEGO Wprowadzenie Udzielenie poniższych informacji wymagane jest prawem, aby zapoznać Kredytobiorcę ze szczegółowymi warunkami udzielania i rozliczania odwróconego kredytu hipotecznego (dalej: „kredytu”). Formularz informacyjny umożliwi porównanie różnych ofert kredytu.
 Niniejszy formularz informacyjny został przygotowany: przez [imię i nazwisko pracownika Banku/Pośrednika ] w dniu [bieżąca data] dla [imię i nazwisko Kredytobiorcy ], [który jest właścicielem (współwłaścicielem) nieruchomości/któremu przysługuje spółdzielcze własnościowe prawo do lokalu (udział w spółdzielczym własnościowym prawie do lokalu)/któremu przysługuje prawo użytkowania wieczystego (udział w prawie użytkowania wieczystego) ] [adres nieruchomości ].
 Niniejszy formularz informacyjny został przedstawiony Kredytobiorcy: przez [imię i nazwisko pracownika Banku/ Pośrednika] w dniu [bieżąca data].
 Niniejszy formularz informacyjny został przygotowany na podstawie informacji dostarczonych przez Kredytobiorcę, które nie zostały zweryfikowane przez Bank/Pośrednika, przy uwzględnieniu aktualnej sytuacji na rynku finansowym.

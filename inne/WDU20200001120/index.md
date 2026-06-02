@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-26 |
 | Data wydania | 2020-06-26 |
-| Wejście w życie | 2020-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001120) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1120/text.pdf) |
 
@@ -35,7 +34,7 @@ Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 w związku z art. 43 ust. 1 i 2, art. 44, art. 46 i art. 53 ust. 3 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2020 r. poz. 537) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. poz. 134, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. poz. 134, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. poz. 782 i 1214, z 2012 r. poz. 1403, z 2013 r. poz. 882, z 2015 r. poz. 241 i 1538, z 2016 r. poz. 227, 396, 686, 1370 i 1611, z 2017 r. poz. 39, 51, 156, 455, 1790 i 2504, z 2018 r. poz. 179, 842, 1692, 1811, 2131 i 2258, z 2019 r. poz. 877, 1125, 1296 i 2124 oraz z 2020 r. poz. 29 i 147.) wprowadza się następujące zmiany:
 1)
 w załączniku nr 1 tabela E otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 2)
@@ -43,11 +42,12 @@ w załączniku nr 3 tabela XI otrzymuje brzmienie określone w załączniku nr 2
 § 2.
 Pracownik, który nie spełnia wymagań kwalifikacyjnych przewidzianych dla stanowiska zajmowanego przez niego w dniu wejścia w życie rozporządzenia, może być nadal zatrudniony na tym stanowisku.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. poz. 782 i 1214, z 2012 r. poz. 1403, z 2013 r. poz. 882, z 2015 r. poz. 241 i 1538, z 2016 r. poz. 227, 396, 686, 1370 i 1611, z 2017 r. poz. 39, 51, 156, 455, 1790 i 2504, z 2018 r. poz. 179, 842, 1692, 1811, 2131 i 2258, z 2019 r. poz. 877, 1125, 1296 i 2124 oraz z 2020 r. poz. 29 i 147.
 
 ## Załącznik nr 1 — – Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli XI załącznika nr 3 do rozporządzenia
 
-Tabela E. Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli XI załącznika nr 3 do rozporządzenia
+Tabela E.
+Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli XI załącznika nr 3 do rozporządzenia
 Kategoria zaszeregowania Kwota w złotych 1 2 I 1800–2600 II 2000–2600 III 2200–2600 IV 2300–2600 V 2400–2600 VI 2500–2600 VII 2600–2650 VIII 2600–2700 IX 2600–2800 X 2600–2900 XI 2600–3100 XII 2600–3300 XIII 2600–3500 XIV 2600–3800 XV 2600–4000 XVI 2600–4300 XVII 2600–4700 XVIII 2600–5100 XIX 2700–5600 XX 2900–6200 XXI 3400–6900
 
 ## Załącznik nr 2 — – Pracowników zatrudnionych w Kasie Rolniczego Ubezpieczenia Społecznego

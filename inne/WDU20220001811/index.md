@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 12 sierpnia 2022 r. w sprawie udzielania przedsiębiorcom pomocy w ramach pobrexitowej rezerwy dostosowawczej
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 12 sierpnia 2022 r. w sprawie udzielania przedsiębiorcom pomocy w ramach pobrexitowej rezerwy dostosowawczej Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-12 |
 | Data wydania | 2022-08-29 |
-| Wejście w życie | 2022-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001811) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1811/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Regionalna pomoc inwestycyjna Rozdział 3 – Pomoc na usługi doradcze na rzecz MŚP Rozdział 4 – Pomoc na udział MŚP w targach Rozdział 5 – Pomoc szkoleniowa Rozdział 6 – Pomoc de minimis Rozdział 7 – Tryb udzielania pomocy Rozdział 8 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 24b ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2021 r. poz. 1057 oraz z 2022 r. poz. 1079) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom w ramach pobrexitowej rezerwy dostosowawczej następujących rodzajów pomocy:
@@ -41,14 +41,13 @@ pomocy na udział MŚP w targach,
 4)
 pomocy szkoleniowej,
 5)
-pomocy de minimis
-zwanych dalej „pomocą”.
+pomocy de minimis – zwanych dalej „pomocą”.
 2.
 Pomoc, o której mowa w ust. 1:
 1)
-pkt 1–4 – stanowi pomoc publiczną, do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”;
+pkt 1–4 – stanowi pomoc publiczną, do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39., zwanego dalej „rozporządzeniem nr 651/2014”;
 2)
-pkt 5 – stanowi pomoc de minimis , do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1407/2013”.
+pkt 5 – stanowi pomoc de minimis , do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3., zwanego dalej „rozporządzeniem nr 1407/2013”.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -108,8 +107,7 @@ pkt 2, w przypadku, o którym mowa w art. 4 ust. 1 lit. d rozporządzenia nr 651
 3)
 pkt 3, w przypadku, o którym mowa w art. 4 ust. 1 lit. e rozporządzenia nr 651/2014,
 4)
-pkt 4, w przypadku, o którym mowa w art. 4 ust. 1 lit. n rozporządzenia nr 651/2014
-stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
+pkt 4, w przypadku, o którym mowa w art. 4 ust. 1 lit. n rozporządzenia nr 651/2014 – stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
 2.
 Dostosowana kwota pomocy publicznej, o której mowa w art. 4 ust. 1 lit. a rozporządzenia nr 651/2014, wynosi:
 1)
@@ -134,6 +132,7 @@ W przypadku pomocy de minimis wartość dopuszczalnej pomocy udzielanej jednemu 
 Pomoc publiczna może być udzielona, jeżeli przedsiębiorca złoży wniosek o udzielenie pomocy, zwany dalej „wnioskiem”, zgodnie z art. 6 ust. 2 zdanie pierwsze rozporządzenia nr 651/2014.
 2.
 Pomoc de minimis może być udzielona, jeżeli przedsiębiorca złoży wniosek.
+Regionalna pomoc inwestycyjna
 § 10.
 Regionalna pomoc inwestycyjna jest udzielana na inwestycję początkową, a w przypadku dużego przedsiębiorcy w województwach: dolnośląskim i wielkopolskim oraz na obszarach regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola – wyłącznie na inwestycję początkową na rzecz nowej działalności gospodarczej.
 § 11.
@@ -152,16 +151,19 @@ Regionalna pomoc inwestycyjna jest udzielana na pokrycie kosztów kwalifikowalny
 Maksymalną intensywność regionalnej pomocy inwestycyjnej określa się zgodnie z przepisami wydanymi na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
 2.
 Maksymalną intensywność oraz wartość regionalnej pomocy inwestycyjnej oblicza się, uwzględniając warunki określone w art. 14 ust. 12 i 13 oraz ust. 14 zdanie pierwsze rozporządzenia nr 651/2014.
+Pomoc na usługi doradcze na rzecz MŚP
 § 14.
 Pomoc na usługi doradcze na rzecz MŚP jest udzielana na usługi doradcze na rzecz MŚP, które nie mają charakteru ciągłego ani okresowego, nie są też związane ze zwykłymi kosztami operacyjnymi przedsiębiorstwa, takimi jak rutynowe usługi doradztwa podatkowego, regularne usługi prawnicze lub reklama.
 § 15.
 Pomoc na usługi doradcze na rzecz MŚP jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 18 ust. 3 rozporządzenia nr 651/2014.
 § 16.
 Maksymalną intensywność pomocy na usługi doradcze na rzecz MŚP określa się zgodnie z art. 18 ust. 2 rozporządzenia nr 651/2014.
+Pomoc na udział MŚP w targach
 § 17.
 Pomoc na udział MŚP w targach jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 19 ust. 2 rozporządzenia nr 651/2014.
 § 18.
 Maksymalną intensywność pomocy na udział MŚP w targach określa się zgodnie z art. 19 ust. 3 rozporządzenia nr 651/2014.
+Pomoc szkoleniowa
 § 19.
 Pomoc szkoleniowa jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 31 ust. 3 rozporządzenia nr 651/2014.
 § 20.
@@ -169,8 +171,10 @@ Pomoc szkoleniowa jest udzielana na pokrycie kosztów kwalifikowalnych, o który
 Maksymalną intensywność pomocy szkoleniowej określa się zgodnie z art. 31 ust. 4 zdanie pierwsze rozporządzenia nr 651/2014.
 2.
 Maksymalną intensywność pomocy szkoleniowej można zwiększyć zgodnie z art. 31 ust. 4 zdanie drugie i ust. 5 rozporządzenia nr 651/2014.
+Pomoc de minimis
 § 21.
 Pomoc de minimis jest udzielana na pokrycie całości lub części kosztów przedsiębiorcy finansowanych w ramach pobrexitowej rezerwy dostosowawczej.
+Tryb udzielania pomocy
 § 22.
 1.
 Przedsiębiorca ubiegający się o pomoc składa wniosek do podmiotu, o którym mowa w § 5 ust. 3.
@@ -203,27 +207,42 @@ W przypadku udzielenia pomocy de minimis przedsiębiorca, przed podpisaniem umow
 1)
 kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie, lub zaświadczeń o pomocy de minimis wrybołówstwie albo oświadczenie o wielkości takiej pomocy, albo oświadczenie o nieotrzymaniu takiej pomocy, o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,
 2)
-informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na pokrycie których ma być przeznaczona pomoc de minimis
-dotyczące okresu od dnia złożenia wniosku.
+informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na pokrycie których ma być przeznaczona pomoc de minimis – dotyczące okresu od dnia złożenia wniosku.
+Przepisy końcowe
 § 24.
 Pomoc jest udzielana do dnia 31 grudnia 2023 r.
 § 25.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Regionalna pomoc inwestycyjna
+#### Rozdział 2 – Regionalna pomoc inwestycyjna
 
-#### Rozdział 3 Pomoc na usługi doradcze na rzecz MŚP
+#### Rozdział 3 – Pomoc na usługi doradcze na rzecz MŚP
 
-#### Rozdział 4 Pomoc na udział MŚP w targach
+#### Rozdział 4 – Pomoc na udział MŚP w targach
 
-#### Rozdział 5 Pomoc szkoleniowa
+#### Rozdział 5 – Pomoc szkoleniowa
 
-#### Rozdział 6 Pomoc de minimis
+#### Rozdział 6 – Pomoc de minimis
 
-#### Rozdział 7 Tryb udzielania pomocy
+#### Rozdział 7 – Tryb udzielania pomocy
 
-#### Rozdział 8 Przepisy końcowe
+#### Rozdział 8 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-22 |
 | Data wydania | 2014-01-07 |
-| Wejście w życie | 2014-01-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/19/text.pdf) |
 
@@ -34,6 +33,6 @@ source: "eli-html"
 
 1. Termin do wniesienia żądania wznowienia postępowania w sprawach, w których przed dniem wejścia w życie niniejszej ustawy wydano decyzję ostateczną ustalającą zobowiązanie podatkowe z tytułu nabycia po dniu 31 grudnia 2006 r. w drodze spadku przez osobę, o której mowa w art. 3a ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, budynku mieszkalnego lub jego części, lokalu mieszkalnego stanowiącego odrębną nieruchomość, spółdzielczego własnościowego prawa do lokalu mieszkalnego, wynikającego z przydziału spółdzielni mieszkaniowej: prawa do domu jednorodzinnego lub prawa do lokalu w małym domu mieszkalnym, upływa z dniem 31 grudnia 2014 r.
 
-2. W przypadku wznowienia postępowania w sprawach, o których mowa w ust. 1, nie stosuje się przepisu art. 245 § 1 pkt 3 lit. b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.). Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+2. W przypadku wznowienia postępowania w sprawach, o których mowa w ust. 1, nie stosuje się przepisu art. 245 § 1 pkt 3 lit. b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529 oraz z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289.). Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529 oraz z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289.
 
 

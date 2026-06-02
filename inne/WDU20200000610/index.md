@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-30 |
 | Data wydania | 2020-04-07 |
-| Wejście w życie | 2020-04-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/610/text.pdf) |
 
@@ -37,13 +36,11 @@ Na podstawie art. 90sa ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświ
 § 1.
 W rozporządzeniu Ministra Obrony Narodowej z dnia 20 sierpnia 2019 r. w sprawie określenia szkół i placówek, w których uczniowie mogą otrzymać niektóre świadczenia (Dz. U. poz. 1617) wprowadza się następujące zmiany:
 1)
-w § 6 dodaje się ust. 5 i 6 w brzmieniu:
-„
+w § 6 dodaje się ust. 5 i 6 w brzmieniu: „
 5.
 Przedmiot umundurowania przewidziany do wydania w trzecim roku nauki może zostać wydany wcześniej w przypadku utraty, zniszczenia lub obniżenia wartości użytkowej przedmiotu wydanego po przyjęciu do szkoły, z odpowiednim wydłużeniem okresu jego używalności.
 6.
-Za przedmioty umundurowania wymienione w załącznikach nr 2 i nr 3 do rozporządzenia w lp. 1 i 9–14 można wydać uczniom przedmioty umundurowania typu damskiego.
-” ;
+Za przedmioty umundurowania wymienione w załącznikach nr 2 i nr 3 do rozporządzenia w lp. 1 i 9–14 można wydać uczniom przedmioty umundurowania typu damskiego. ” ;
 2)
 załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 3)

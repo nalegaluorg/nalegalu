@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-08 |
 | Data wydania | 2013-01-17 |
-| Wejście w życie | 2013-01-18 |
 | Ostatnia zmiana | 2024-11-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000080) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/80/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz śródlądowych dróg wodnych, na których wprowadza się usługi informacji rzecznej (RIS)
 Treść rozporządzenia
-Na podstawie art. 47a ust. 3 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 47a ust. 3 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 846 i Nr 176, poz. 1238, z 2008 r. Nr 171, poz. 1057, z 2009 r. Nr 98, poz. 818, z 2010 r. Nr 127, poz. 857 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622, Nr 168, poz. 1003, Nr 171, poz. 1016, Nr 222, poz. 1326 i Nr 227, poz. 1367.) zarządza się, co następuje:
 § 1.
 Wykaz śródlądowych dróg wodnych, na których wprowadza się usługi informacji rzecznej (RIS), określa załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 846 i Nr 176, poz. 1238, z 2008 r. Nr 171, poz. 1057, z 2009 r. Nr 98, poz. 818, z 2010 r. Nr 127, poz. 857 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622, Nr 168, poz. 1003, Nr 171, poz. 1016, Nr 222, poz. 1326 i Nr 227, poz. 1367.
 Załącznik – Wykaz śródlądowych dróg wodnych, na których wprowadza się usługi informacji rzecznej (RIS)
 1.
 Jezioro Dąbie do granicy z morskimi wodami wewnętrznymi.

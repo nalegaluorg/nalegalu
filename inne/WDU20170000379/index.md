@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-24 |
 | Data wydania | 2017-02-27 |
-| Wejście w życie | 2017-02-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000379) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/379/text.pdf) |
 
@@ -52,7 +51,7 @@ source: "eli-html"
 
 § 4. W razie orzeczenia środka karnego przepadku korzyści majątkowej lub ściągnięcia jej równowartości pieniężnej organ egzekucyjny określony w art. 27 Kodeksu karnego wykonawczego prowadzi także egzekucję orzeczonej równocześnie kary grzywny, środka karnego przepadku przedmiotów lub ściągnięcia ich równowartości pieniężnej, jeżeli ich zabezpieczenia dokonał uprzednio naczelnik urzędu skarbowego, naczelnik urzędu celno-skarbowego lub Szef Krajowej Administracji Skarbowej.
 
-§ 5. Jeżeli orzeczenie o przepadku przedmiotów dotyczy towarów nieunijnych, o których mowa w art. 5 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.), organem postępowania wykonawczego właściwym do wykonania orzeczenia o przepadku przedmiotów w tym zakresie jest naczelnik urzędu celno-skarbowego. Wykonanie orzeczenia następuje w trybie i na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji, z uwzględnieniem przepisów prawa celnego.”; ” ; ” ;
+§ 5. Jeżeli orzeczenie o przepadku przedmiotów dotyczy towarów nieunijnych, o których mowa w art. 5 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 32.), organem postępowania wykonawczego właściwym do wykonania orzeczenia o przepadku przedmiotów w tym zakresie jest naczelnik urzędu celno-skarbowego. Wykonanie orzeczenia następuje w trybie i na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji, z uwzględnieniem przepisów prawa celnego.”; ” ; ” ;
 
 - **4)** w art. 83: pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -68,7 +67,7 @@ source: "eli-html"
     - **a)**
 
 - **1)** pobranym przez naczelnika urzędu skarbowego właściwego do poboru kwoty należności celnych przywozowych wynikających z długu celnego,
-- **2)** należnym z tytułu importu towarów wykazanym przez podatnika w: zgłoszeniu celnym i rozliczonym w deklaracji podatkowej, zgodnie z art. 33a, lub deklaracji importowej, zgodnie z art. 33b w terminie 10 dni, licząc od dnia doręczenia tych decyzji.”, ” , ” , pkt 11 otrzymuje brzmienie: „
+- **2)** należnym z tytułu importu towarów wykazanym przez podatnika w: zgłoszeniu celnym i rozliczonym w deklaracji podatkowej, zgodnie z art. 33a, lub deklaracji importowej, zgodnie z art. 33b – w terminie 10 dni, licząc od dnia doręczenia tych decyzji.”, ” , ” , pkt 11 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **e)**
@@ -95,18 +94,20 @@ source: "eli-html"
     - **k)**
     - **l)**
 
-- **17a)** w art. 112b: w ust. 1 część wspólna otrzymuje brzmienie: „ – naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego określa odpowiednio wysokość tych kwot w prawidłowej wysokości oraz ustala dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 30% kwoty zaniżenia zobowiązania podatkowego albo kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli po zakończeniu kontroli podatkowej, kontroli celno-skarbowej albo w trakcie kontroli celno-skarbowej w przypadkach, o których mowa w: ” , w ust. 3: – w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ jeżeli przed dniem wszczęcia kontroli podatkowej lub kontroli celno-skarbowej podatnik: ” , – w pkt 2 lit. b otrzymuje brzmienie: „ b) nieujęciem podatku należnego lub podatku naliczonego w rozliczeniu za dany okres rozliczeniowy, a podatek należny lub podatek naliczony został ujęty w poprzednich okresach rozliczeniowych lub w okresach następnych po właściwym okresie rozliczeniowym, jeżeli nastąpiło to przed dniem wszczęcia kontroli podatkowej lub kontroli celno-skarbowej;”; ” ; ” ;
+- **17a)** w art. 112b: w ust. 1 część wspólna otrzymuje brzmienie: „ – naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego określa odpowiednio wysokość tych kwot w prawidłowej wysokości oraz ustala dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 30% kwoty zaniżenia zobowiązania podatkowego albo kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli po zakończeniu kontroli podatkowej, kontroli celno-skarbowej albo w trakcie kontroli celno-skarbowej w przypadkach, o których mowa w: ” , w ust. 3: – w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ jeżeli przed dniem wszczęcia kontroli podatkowej lub kontroli celno-skarbowej podatnik: ” , w pkt 2 lit. b otrzymuje brzmienie: „ nieujęciem podatku należnego lub podatku naliczonego w rozliczeniu za dany okres rozliczeniowy, a podatek należny lub podatek naliczony został ujęty w poprzednich okresach rozliczeniowych lub w okresach następnych po właściwym okresie rozliczeniowym, jeżeli nastąpiło to przed dniem wszczęcia kontroli podatkowej lub kontroli celno-skarbowej;”; ” ; ” ;
     - **a)**
     - **b)**
     - **c)**
+    - **b)**
 
 - **5)** w art. 85: po pkt 7 dodaje się pkt 7a w brzmieniu: „
     - **a)**
 
-- **7a)** w art. 65 ust. 2 otrzymuje brzmienie: „ 2. Kwotę należności celnych nieuiszczoną w terminie pokrywa się ze złożonego zabezpieczenia.”; ” , ” , w pkt 12 lit. a otrzymuje brzmienie: „ w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dyrektor izby administracji skarbowej jest właściwy w sprawach, o których mowa w: ” , – pkt 3 otrzymuje brzmienie: „ 3) art. 17a ust. 2 i art. 96 ust. 1 pkt 4–6.”, ” ; ” ;
+- **7a)** w art. 65 ust. 2 otrzymuje brzmienie: „ 2. Kwotę należności celnych nieuiszczoną w terminie pokrywa się ze złożonego zabezpieczenia.”; ” , ” , w pkt 12 lit. a otrzymuje brzmienie: „ w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dyrektor izby administracji skarbowej jest właściwy w sprawach, o których mowa w: ” , pkt 3 otrzymuje brzmienie: „
     - **b)**
     - **a)**
 
+- **3)** art. 17a ust. 2 i art. 96 ust. 1 pkt 4–6.”, ” ; ” ;
 - **6)** art. 112 otrzymuje brzmienie: „
 
 **Art. 112.** W ustawie z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2016 r. poz. 1345, 1605, 1807, 1948 i 2260) wprowadza się następujące zmiany:
@@ -220,5 +221,5 @@ source: "eli-html"
 
 1. Funkcjonariusz odwołany ze stanowiska służbowego lub przeniesiony na niższe stanowisko służbowe zachowuje prawo do uposażenia pobieranego na poprzednio zajmowanym stanowisku przez okres 3 miesięcy. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 32.
 

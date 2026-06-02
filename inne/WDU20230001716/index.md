@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001716) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1716/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY dnia 4 sierpnia 2023 r.
+11771166 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY dnia 4 sierpnia 2023 r.
 w sprawie warunków wprowadzania nieczystości ciekłych stacji zlewnych Na podstawie art. 2 ust. 4 ustawy dnia 13 września 1996 r. o utrzymaniu czystości porządku w gminach (Dz. U.
 2023 r. poz. 1469) zarządza się, co następuje: § 1. Użyte w rozporządzeniu określenia oznaczają:
 1) właściciel stacji zlewnej jednostkę organizacyjną osobę posiadającą stację zlewną w zarządzie lub użytkowaniu, a także inne podmioty władające stacją zlewną;
@@ -46,7 +46,7 @@ w sprawie warunków wprowadzania nieczystości ciekłych stacji zlewnych Na pods
 2. Jeżeli nieczystości ciekłe wprowadzane są bezobsługowej, zautomatyzowanej stacji zlewnej, dostawca nieczystości ciekłych pozostawia odbiera informacje, o których mowa w załączniku rozporządzenia, w sposób określony przez właściciela stacji zlewnej.
 § 9. Traci moc rozporządzenie Ministra Infrastruktury dnia 17 października 2002 r. w sprawie warunków wprowadzania nieczystości ciekłych stacji zlewnych (Dz. U. 2020 r. poz. 939).
 § 10. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury: A. Adamczyk OTWIERD WZÓR POTWIERDZENIA ENIA OD ODBIORU IORU NIECZYSTOŚCI IECZY T Ś CIEKŁYCH C E Ł Odcinek dla dostawcy nieczystości ciekłych Odcinek dla właściciela stacji zlewnej
+Minister Infrastruktury: A. Adamczyk WZÓR POTWIERDZENIA WZÓR POTWIERDZENIA ODBIORU ODBIORU NIECZYSTOŚCI NIECZYSTOŚCI CIEKŁYCH CIEKŁYCH Odcinek dla dostawcy nieczystości ciekłych Odcinek dla właściciela stacji zlewnej
 1. …………………………………………….
 (nr data zawarcia umowy na wprowadzanie nieczystości ciekłych)
 2. ……………………………..….…………..

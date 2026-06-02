@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-12 |
 | Data wydania | 2017-07-17 |
-| Wejście w życie | 2017-07-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001384) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1384/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 83a ust. 3 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 83a ust. 3 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505, z 2016 r. poz. 1330, 1887 i 1948 oraz z 2017 r. poz. 60 i 1086.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób ustalania wysokości i rozliczania dotacji celowej na wyposażenie w zabezpieczenia techniczne na wypadek kradzieży, pożaru i innych zagrożeń pomieszczenia, w którym będzie przechowywany zabytek wpisany na Listę Skarbów Dziedzictwa, zwanej dalej „dotacją”, w tym rodzaje kosztów podlegających dofinansowaniu, wymagania, jakie spełnia wniosek oraz dokumenty, jakie należy dołączyć do wniosku.
 § 2.
@@ -54,7 +53,7 @@ pozwolenie wojewódzkiego konserwatora zabytków na wykonanie robót budowlanych
 3)
 pozwolenie na wykonanie robót budowlanych, o których mowa w pkt 2, jeżeli wymagają one takiego pozwolenia.
 2.
-Do sporządzania kosztorysu, o którym mowa w ust. 1 pkt 1, stosuje się przepisy wydane na podstawie art. 33 ust. 3 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.) w zakresie sporządzania kosztorysu inwestorskiego i obliczania planowanych kosztów robót budowlanych.
+Do sporządzania kosztorysu, o którym mowa w ust. 1 pkt 1, stosuje się przepisy wydane na podstawie art. 33 ust. 3 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260 oraz z 2017 r. poz. 933.) w zakresie sporządzania kosztorysu inwestorskiego i obliczania planowanych kosztów robót budowlanych.
 3.
 Podmiot prowadzący działalność gospodarczą dołącza do wniosku także dokumenty, o których mowa w art. 37 ust. 1 i ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2016 r. poz. 1808 i 1948).
 4.
@@ -88,5 +87,5 @@ Minister informuje wnioskodawcę o rozliczeniu dotacji albo o konieczności doko
 § 10.
 Dotacja stanowiąca pomoc de minimis może być udzielana do dnia 30 czerwca 2021 r.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505, z 2016 r. poz. 1330, 1887 i 1948 oraz z 2017 r. poz. 60 i 1086. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260 oraz z 2017 r. poz. 933.
 

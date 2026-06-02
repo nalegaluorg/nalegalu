@@ -37,42 +37,37 @@ rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 24 października 20
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 4 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 426), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 4 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 426), które stanowią: „
 § 2.
 Sprawy, o których mowa w § 1 pkt 2 lit. b zmienianego rozporządzenia, w których skargi zostały wniesione przed dniem wejścia w życie niniejszego rozporządzenia i postępowanie nie zostało zakończone, rozpoznaje wojewódzki sąd administracyjny właściwy w rozumieniu niniejszego rozporządzenia, z wyjątkiem spraw, w których wyznaczono termin posiedzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 24 października 2023 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 2346), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 24 października 2023 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 2346), które stanowią: „
 § 2.
 Do spraw określonych w § 1 ust. 2 rozporządzenia zmienianego w § 1, w których skargi zostały wniesione przed dniem wejścia w życie niniejszego rozporządzenia i postępowanie nie zostało zakończone przed tym dniem, stosuje się przepisy rozporządzenia zmienianego § 1 w brzmieniu nadanym niniejszym rozporządzeniem, z wyjątkiem spraw, w których wyznaczono termin posiedzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 lutego 2017 r. w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania Szefa Krajowej Administracji Skarbowej, Dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 lutego 2017 r. w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania Szefa Krajowej Administracji Skarbowej, Dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia SpołecznegoOkreślenie przedmiotu rozporządzenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 24 października 2023 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 2346), które weszło w życie z dniem 14 listopada 2023 r.
 Na podstawie art. 13 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 1634, 1705 i 1860) zarządza się, co następuje:
 § 1.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 Rozpoznawanie spraw z zakresu działania:
 1)
-Dyrektora Krajowej Informacji Skarbowej dotyczących wydawania:
+DyrektoraZe zmianą wprowadzoną przez § 1 pkt 2 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 1. Krajowej Informacji Skarbowej dotyczących wydawania:
 a)
 w indywidualnych sprawach interpretacji przepisów prawa podatkowego (interpretacje indywidualne), o których mowa w art. 14b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760),
 b)
-(uchylona),
-2)
+(uchylona),Przez § 1 pkt 2 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 1.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 4 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 426), które weszło w życie z dniem 16 marca 2021 r.)
 Prezesa Zakładu Ubezpieczeń Społecznych dotyczących:
 a)
 umorzenia, odroczenia terminu płatności lub rozłożenia na raty należności z tytułu składek, o których mowa w art. 28 i art. 29 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497),
 b)
 zwolnienia z obowiązku opłacenia należności z tytułu składek, o których mowa w art. 31zo ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2024 r. poz. 340),
 3)
-Prezesa Kasy Rolniczego Ubezpieczenia Społecznego dotyczących umorzenia, odroczenia terminu płatności lub rozłożenia na raty należności z tytułu składek, o których mowa w art. 41a ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90)
-przekazuje się wojewódzkim sądom administracyjnym, na których obszarze właściwości strona skarżąca zamieszkuje lub ma siedzibę.
-2.
+Prezesa Kasy Rolniczego Ubezpieczenia Społecznego dotyczących umorzenia, odroczenia terminu płatności lub rozłożenia na raty należności z tytułu składek, o których mowa w art. 41a ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90) – przekazuje się wojewódzkim sądom administracyjnym, na których obszarze właściwości strona skarżąca zamieszkuje lub ma siedzibę.
+2Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1..
 Rozpoznawanie spraw z zakresu działania:
 1)
 Dyrektora Krajowej Informacji Skarbowej dotyczących:
@@ -87,11 +82,9 @@ Szefa Krajowej Administracji Skarbowej dotyczących:
 a)
 wiążących informacji stawkowych, o których mowa w art. 42a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług,
 b)
-wiążących informacji akcyzowych, o których mowa w art. 7d ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym
-przekazuje się Wojewódzkiemu Sądowi Administracyjnemu w Opolu.
+wiążących informacji akcyzowych, o których mowa w art. 7d ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – przekazuje się Wojewódzkiemu Sądowi Administracyjnemu w Opolu.
 § 2.
 Traci moc rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 sierpnia 2008 r. w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania ministra właściwego do spraw finansów publicznych, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 1016).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Określenie przedmiotu rozporządzenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 24 października 2023 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 2346), które weszło w życie z dniem 14 listopada 2023 r. 2) Oznaczenie ust. 1 nadane przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 1. 4) Przez § 1 pkt 2 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 4 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 426), które weszło w życie z dniem 16 marca 2021 r. 6) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1.
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. 1) Określenie przedmiotu rozporządzenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 24 października 2023 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 2346), które weszło w życie z dniem 14 listopada 2023 r. 2) Oznaczenie ust. 1 nadane przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 1. 4) Przez § 1 pkt 2 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 4 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 426), które weszło w życie z dniem 16 marca 2021 r. 6) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1.
 

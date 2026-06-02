@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-16 |
 | Data wydania | 2015-02-24 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000251) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/251/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+Opodatkowanie przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych
+
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73 i 211.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 dodaje się ust. 6 w brzmieniu: „
 
@@ -52,14 +53,14 @@ source: "eli-html"
 - **c)**
 - **5)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Opodatkowanie przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych
+#### Rozdział 5a
 
 **Art. 25b.**
 
 1. Za przychody, o których mowa w art. 20 ust. 1b, uważa się przychody:
 
 - **1)** nieznajdujące pokrycia w ujawnionych źródłach obejmujące przychody ze źródeł wskazanych przez podatnika, ujawnione w nieprawidłowej wysokości,
-- **2)** ze źródeł nieujawnionych obejmujące przychody ze źródeł niewskazanych przez podatnika i nieustalonych przez organ podatkowy lub organ kontroli skarbowej w kwocie odpowiadającej nadwyżce wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi, uzyskanymi przed poniesieniem tego wydatku.
+- **2)** ze źródeł nieujawnionych obejmujące przychody ze źródeł niewskazanych przez podatnika i nieustalonych przez organ podatkowy lub organ kontroli skarbowej – w kwocie odpowiadającej nadwyżce wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi, uzyskanymi przed poniesieniem tego wydatku.
 
 2. Za wydatek uznaje się wartość zgromadzonego w roku podatkowym mienia lub wysokość wydatkowanych w roku podatkowym środków, w przypadku gdy nie jest możliwe ustalenie roku podatkowego, w którym zgromadzono te środki.
 
@@ -95,7 +96,7 @@ source: "eli-html"
 
 - **6)** w art. 30 w ust. 1 uchyla się pkt 7.
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289, z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644 oraz z 2015 r. poz. 211.) wprowadza się następujące zmiany:
 
 - **1)** w art. 68 po § 4 dodaje się § 4a w brzmieniu: „
 
@@ -119,5 +120,5 @@ source: "eli-html"
 
 **Art. 4.** W okresie od dnia 28 lutego 2015 r. do dnia 31 grudnia 2015 r., zobowiązanie podatkowe z tytułu opodatkowania dochodu nieznajdującego pokrycia w ujawnionych źródłach przychodów lub pochodzącego ze źródeł nieujawnionych nie powstaje, jeżeli decyzja ustalająca to zobowiązanie została doręczona po upływie 5 lat, licząc od końca roku, w którym poniesiono wydatki lub zgromadzono mienie, o których mowa w art. 20 ust. 3 ustawy zmienianej w art. 1, w brzmieniu obowiązującym do dnia 31 grudnia 2015 r.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 4, który wchodzi w życie z dniem 28 lutego 2015 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 4, który wchodzi w życie z dniem 28 lutego 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73 i 211. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289, z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644 oraz z 2015 r. poz. 211.
 

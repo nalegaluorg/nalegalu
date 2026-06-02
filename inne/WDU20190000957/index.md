@@ -26,7 +26,25 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000957) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/957/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Finansów z dnia 1 października 2010 r. w sprawie szczególnych zasad rachunkowości banków Rozdział 1 – Przepisy ogólne Rozdział 2 – Prowadzenie ksiąg rachunkowych Rozdział 3 – Ujmowanie w księgach rachunkowych i prezentacja w sprawozdaniu finansowym operacji dotyczących biura maklerskiego Rozdział 4 – Inwentaryzacja Rozdział 5 – Ujmowanie i wycena aktywów i pasywów oraz ustalanie wyniku finansowego Rozdział 6 – Wycena instrumentów finansowych oraz praw do towarów giełdowych klientów biura maklerskiego Rozdział 7 – Rachunkowość zabezpieczeń Rozdział 8 – Przechowywanie danych Rozdział 9 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Finansów z dnia 1 października 2010 r. w sprawie szczególnych zasad rachunkowości banków
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Prowadzenie ksiąg rachunkowych
+
+#### Rozdział 3 – Ujmowanie w księgach rachunkowych i prezentacja w sprawozdaniu finansowym operacji dotyczących biura maklerskiego
+
+#### Rozdział 4 – Inwentaryzacja
+
+#### Rozdział 5 – Ujmowanie i wycena aktywów i pasywów oraz ustalanie wyniku finansowego
+
+#### Rozdział 6 – Wycena instrumentów finansowych oraz praw do towarów giełdowych klientów biura maklerskiego
+
+#### Rozdział 7 – Rachunkowość zabezpieczeń
+
+#### Rozdział 8 – Przechowywanie danych
+
+#### Rozdział 9 – Przepisy przejściowe i końcowe
 
 ## Załącznik nr 1 — – Informacja dodatkowa sprawozdania finansowego banku
 
@@ -34,16 +52,15 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 1 października 2010 r. w sprawie szczególnych zasad rachunkowości banków (Dz. U. z 2013 r. poz. 329), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju i Finansów z dnia 23 czerwca 2017 r. zmieniającym rozporządzenie w sprawie szczególnych zasad rachunkowości banków (Dz. U. poz. 1271).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 23 czerwca 2017 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości banków (Dz. U. poz. 1271), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 23 czerwca 2017 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości banków (Dz. U. poz. 1271), które stanowią: „
 § 2.
 Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Finansów z dnia 1 października 2010 r. w sprawie szczególnych zasad rachunkowości banków
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Finansów z dnia 1 października 2010 r. w sprawie szczególnych zasad rachunkowości bankówMinister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 Na podstawie art. 81 ust. 2 pkt 8 lit. a ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -70,7 +87,7 @@ konto pozabilansowe – przewidziane planem kont urządzenie przeznaczone w szcz
 zestawienie obrotów i sald – sporządzane na koniec dnia operacyjnego zestawienie obrotów i sald kont syntetycznych i kont analitycznych, których obroty powinny być zgodne z obrotami dziennika lub obrotami zestawienia obrotów dzienników częściowych;
 9)
 dzień bilansowy – dzień, na który bank sporządza sprawozdanie finansowe oraz inne sprawozdania sporządzane na podstawie odrębnych przepisów;
-10)
+10W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 23 czerwca 2017 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości banków (Dz. U. poz. 1271), które weszło w życie z dniem 13 lipca 2017 r.; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r.)
 należności „zagrożone”, „stracone” – odpowiednio ekspozycje, o których mowa w przepisach wydanych na podstawie art. 81 ust. 2 pkt 8 lit. c ustawy;
 11)
 rezerwy celowe – odpisy równoważące skutki ryzyka działalności banku, tworzone zgodnie z przepisami, o których mowa w pkt 10;
@@ -136,7 +153,8 @@ rachunek papierów wartościowych – rachunek, o którym mowa w art. 4 ust. 1 i
 Krajowy Depozyt – Krajowy Depozyt Papierów Wartościowych S.A.
 § 3.
 Bank udostępnia do wglądu zainteresowanym osobom zbadane roczne sprawozdanie finansowe oraz roczne skonsolidowane sprawozdanie finansowe w terminie 15 dni od dnia jego zatwierdzenia.
-Rozdział 2 Prowadzenie ksiąg rachunkowych
+Rozdział 2
+Prowadzenie ksiąg rachunkowych
 § 4.
 Zapisów w księgach rachunkowych dokonuje się w złotych i groszach lub w walutach obcych, w których wykonywane są operacje.
 § 5.
@@ -273,7 +291,8 @@ symbole lub nazwy kont;
 salda na dzień otwarcia kont syntetycznych, obroty za okres od początku roku do dnia zamknięcia ksiąg rachunkowych oraz salda na dzień zamknięcia kont syntetycznych;
 3)
 sumę sald na dzień otwarcia kont syntetycznych, obrotów za okres od początku roku do dnia zamknięcia ksiąg rachunkowych i sumę sald na dzień zamknięcia kont syntetycznych; suma obrotów kont syntetycznych powinna być zgodna z liczonymi w sposób ciągły obrotami dziennika.
-Rozdział 3 Ujmowanie w księgach rachunkowych i prezentacja w sprawozdaniu finansowym operacji dotyczących biura maklerskiego
+Rozdział 3
+Ujmowanie w księgach rachunkowych i prezentacja w sprawozdaniu finansowym operacji dotyczących biura maklerskiego
 § 18.
 W informacji dodatkowej sprawozdania finansowego bank prezentuje informację o instrumentach finansowych klientów, zapisanych na rachunkach papierów wartościowych bądź przechowywanych w formie dokumentu, a także informację o prawach klientów do towarów giełdowych, w ujęciu wartościowym i ilościowym.
 § 19.
@@ -292,7 +311,8 @@ Pożytki naliczone w związku z zarządzaniem środkami pieniężnymi zgromadzon
 Koszty prowadzenia przez Krajowy Depozyt systemu rekompensat, opłaty należne z tytułu zarządzania systemem rekompensat oraz wypłaty środków pieniężnych z tytułu roszczeń przysługujących uprawnionym podmiotom, określonym w dziale V ustawy o obrocie instrumentami finansowymi, w części pochodzącej z pożytków, o których mowa w ust. 3, wykazywane są jako koszty uzyskania pożytków i pomniejszają należności uczestnika systemu rekompensat.
 5.
 Należności, o których mowa w ust. 1, oraz rezerwy, o których mowa w ust. 2, prezentuje się w sprawozdaniu finansowym po dokonaniu kompensaty.
-Rozdział 4 Inwentaryzacja
+Rozdział 4
+Inwentaryzacja
 § 21.
 1.
 Stany aktywów i pasywów wykazywane w księgach rachunkowych banku podlegają rocznej i okresowej inwentaryzacji, której podstawowym celem jest:
@@ -320,7 +340,7 @@ należności i zobowiązania wobec posiadaczy rachunków bankowych nieprowadząc
 należności zakwalifikowane, zgodnie z przepisami wydanymi na podstawie art. 81 ust. 2 pkt 8 lit. c ustawy, do kategorii zagrożonych;
 4)
 należności, których opóźnienie w spłacie wynosi więcej niż 90 dni;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r.)
 odsetki naliczone;
 6)
 roszczenia z tytułu niedoborów i szkód oraz inne należności i zobowiązania wobec pracowników;
@@ -380,7 +400,8 @@ Aktywa i pasywa, których stan ulega zmianie na skutek odpisu ich wartości z ty
 Z przeprowadzonej weryfikacji aktywów i pasywów sporządza się protokół, w którym przedstawia się wyniki dokonanej weryfikacji oraz sposób rozliczenia stwierdzonych różnic inwentaryzacyjnych.
 § 29.
 Różnice inwentaryzacyjne podlegają rozliczeniu w księgach rachunkowych banku tego roku obrotowego, którego inwentaryzacja dotyczy.
-Rozdział 5 Ujmowanie i wycena aktywów i pasywów oraz ustalanie wyniku finansowego
+Rozdział 5
+Ujmowanie i wycena aktywów i pasywów oraz ustalanie wyniku finansowego
 § 30.
 1.
 Aktywa i zobowiązania finansowe klasyfikuje się w dniu ich nabycia lub powstania do następujących kategorii:
@@ -533,7 +554,7 @@ Wynik finansowy netto w księgach rachunkowych banku ustala się z uwzględnieni
 Do wyniku z tytułu odsetek, o których mowa w art. 43 ust. 2 ustawy, zalicza się:
 1)
 nieotrzymane w okresie sprawozdawczym przychody z tytułu:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r.)
 należnych bankowi odsetek, w tym dyskonta oraz odsetek skapitalizowanych,
 b)
 otrzymanych w poprzednich okresach przychodów z tytułu odsetek, w tym dyskonta, przypadających na bieżący okres sprawozdawczy;
@@ -544,10 +565,11 @@ koszty z tytułu odsetek wymagalnych i niewymagalnych od zobowiązań banku przy
 3.
 Do wyniku z tytułu odsetek, o których mowa w art. 43 ust. 2 ustawy, nie zalicza się:
 1)
-(uchylony);
+(uchylony);Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych
 2)
 dyskonta oraz odsetek otrzymanych z góry, przypadających na następne okresy sprawozdawcze.
-Rozdział 6 Wycena instrumentów finansowych oraz praw do towarów giełdowych klientów biura maklerskiego
+Rozdział 6
+Wycena instrumentów finansowych oraz praw do towarów giełdowych klientów biura maklerskiego
 § 42.
 1.
 Wyceny instrumentów finansowych zapisanych na rachunkach papierów wartościowych klientów, znajdujących się w obrocie zorganizowanym, dokonuje się na każdy dzień roboczy według cen bieżących.
@@ -604,7 +626,8 @@ w więcej niż jednym systemie notowań na jednym rynku pozagiełdowym – cenę
 Zdematerializowane papiery wartościowe nienotowane na rynku regulowanym oraz w alternatywnym systemie obrotu, należące do klientów, zapisane na rachunkach papierów wartościowych, wycenia się według wartości nominalnej.
 2.
 Papiery wartościowe inne niż zdematerializowane, przechowywane w formie dokumentu, wycenia się według wartości nominalnej.
-Rozdział 7 Rachunkowość zabezpieczeń
+Rozdział 7
+Rachunkowość zabezpieczeń
 § 45.
 1.
 Rachunkowość zabezpieczeń polega na symetrycznym ujmowaniu wpływu zmian wartości godziwej instrumentu zabezpieczającego i pozycji zabezpieczanej na wynik finansowy.
@@ -689,7 +712,8 @@ bank nie przewiduje realizacji powziętego zobowiązania lub przeprowadzenia pro
 Zabezpieczenie inwestycji netto w podmiocie zagranicznym rozlicza się w sposób przewidziany dla zabezpieczeń przepływów środków pieniężnych.
 2.
 W przypadku zbycia inwestycji netto w podmiocie zagranicznym skutki wyceny instrumentu zabezpieczającego, odnoszące się do części zabezpieczenia uznanego za skuteczne, ujmuje się odpowiednio w przychodach lub kosztach finansowych.
-Rozdział 8 Przechowywanie danych
+Rozdział 8
+Przechowywanie danych
 § 49.
 1.
 Bank przestrzega zasad dotyczących przechowywania i ochrony danych określonych w przepisach art. 71 ustawy i odrębnych przepisach, z zastrzeżeniem ust. 2.
@@ -703,16 +727,16 @@ zachowania przepisów dotyczących tajemnicy bankowej;
 uzyskania zgody kierownika jednostki organizacyjnej banku na wgląd w dokumenty na miejscu;
 3)
 wydania pisemnej zgody prezesa zarządu banku lub osoby przez niego upoważnionej na udostępnienie dokumentów poza miejscem prowadzenia ksiąg rachunkowych, pod warunkiem pozostawienia potwierdzonych „za zgodność z oryginałem” fotokopii dokumentów i protokołu zawierającego ich wykaz.
-Rozdział 9 Przepisy przejściowe i końcowe
+Rozdział 9
+Przepisy przejściowe i końcowe
 § 50.
 Rozporządzenie ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 2010 r.
 § 51.
 Traci moc rozporządzenie Ministra Finansów z dnia 29 sierpnia 2008 r. w sprawie szczególnych zasad rachunkowości banków (Dz. U. poz. 1002).
 § 52.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 23 czerwca 2017 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości banków (Dz. U. poz. 1271), które weszło w życie z dniem 13 lipca 2017 r.; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r. 5) Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 23 czerwca 2017 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości banków (Dz. U. poz. 1271), które weszło w życie z dniem 13 lipca 2017 r.; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r. 5) Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych
 
-## Załącznik nr 1 — – Informacja dodatkowa sprawozdania finansowego banku
+## Załącznik nr 1 — – Informacja dodatkowa sprawozdania finansowego bankuRozporządzenie zostało ogłoszone w dniu 15 października 2010 r.
 
 Informacja dodatkowa sprawozdania finansowego banku obejmuje wprowadzenie do sprawozdania finansowego oraz dodatkowe informacje i objaśnienia.
 I.
@@ -941,7 +965,7 @@ wartość obcych środków trwałych używanych na podstawie umowy, o której mo
 informacje na temat aktywów przejętych za długi w podziale na nieruchomości i pozostałe składniki majątku;
 28.
 informacje o aktywach trwałych przeznaczonych do zbycia, zawierające wartość tych aktywów na początek roku obrotowego, zwiększenia i zmniejszenia oraz stan na koniec roku obrotowego;
-29.
+29W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r..
 wykaz pozycji czynnych i biernych rozliczeń międzyokresowych kosztów oraz rozliczeń międzyokresowych przychodów;
 30.
 dane o strukturze własności kapitału podstawowego, w tym ilość, rodzaj i wartość nominalna akcji oraz wartość udziałów tworzących kapitał, z wyszczególnieniem akcjonariuszy lub udziałowców posiadających ponad 5% głosów na walnym zgromadzeniu;
@@ -1092,8 +1116,7 @@ osobę, która jest małżonkiem lub osobą faktycznie pozostającą we wspólny
 3)
 jednostkę kontrolowaną, współkontrolowaną lub inną jednostkę, na którą znaczący wpływ wywiera lub posiada w niej znaczącą ilość głosów, bezpośrednio albo pośrednio, osoba, o której mowa w pkt 1 i 2, lub
 4)
-jednostkę realizującą program świadczeń pracowniczych po okresie zatrudnienia, skierowany do pracowników banku lub jednostki powiązanej
-wraz z informacjami określającymi charakter tych transakcji; informacje dotyczące poszczególnych transakcji mogą być zgrupowane według ich rodzaju, z wyjątkiem przypadku, gdy informacje na temat poszczególnych transakcji są niezbędne dla zrozumienia ich wpływu na sytuację majątkową, finansową i wynik finansowy banku;
+jednostkę realizującą program świadczeń pracowniczych po okresie zatrudnienia, skierowany do pracowników banku lub jednostki powiązanej – wraz z informacjami określającymi charakter tych transakcji; informacje dotyczące poszczególnych transakcji mogą być zgrupowane według ich rodzaju, z wyjątkiem przypadku, gdy informacje na temat poszczególnych transakcji są niezbędne dla zrozumienia ich wpływu na sytuację majątkową, finansową i wynik finansowy banku;
 46.
 informacje o celach i zasadach zarządzania ryzykiem, z wyszczególnieniem podziału na następujące kategorie ryzyka:
 1)
@@ -1183,6 +1206,5 @@ inne niż zdematerializowane instrumenty finansowe;
 56.
 informacje o towarach giełdowych klientów w ujęciu wartościowym i ilościowym;
 57.
-informacje, które mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej, finansowej oraz wynik finansowy. Informacja dodatkowa powinna zapewnić porównywalność informacji finansowych zawartych w sprawozdaniu za okres sprawozdawczy z informacjami zawartymi w sprawozdaniu finansowym za poprzedni, analogiczny okres sprawozdawczy. Wszelkie dodatkowe informacje, niewynikające lub niezwiązane bezpośrednio z wymienionym wyżej sprawozdaniem, powinny być przedstawione w końcowej części tej informacji.
-6) Rozporządzenie zostało ogłoszone w dniu 15 października 2010 r. 7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r.
+informacje, które mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej, finansowej oraz wynik finansowy. Informacja dodatkowa powinna zapewnić porównywalność informacji finansowych zawartych w sprawozdaniu za okres sprawozdawczy z informacjami zawartymi w sprawozdaniu finansowym za poprzedni, analogiczny okres sprawozdawczy. Wszelkie dodatkowe informacje, niewynikające lub niezwiązane bezpośrednio z wymienionym wyżej sprawozdaniem, powinny być przedstawione w końcowej części tej informacji. 6) Rozporządzenie zostało ogłoszone w dniu 15 października 2010 r. 7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2; ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r.
 

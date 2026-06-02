@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-24 |
 | Data wydania | 2012-05-30 |
-| Wejście w życie | 2012-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000612) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/612/text.pdf) |
 
@@ -136,5 +135,5 @@ Osoba, której przyznano stypendium na podstawie dotychczasowych przepisów, zac
 2.
 Wnioski o stypendia, złożone i nierozpatrzone przed dniem wejścia w życie rozporządzenia, podlegają rozpatrzeniu na podstawie przepisów dotychczasowych.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 12 czerwca 2000 r. w sprawie szczegółowych zasad i trybu przyznawania stypendiów osobom zajmującym się twórczością artystyczną, upowszechnianiem kultury i opieką nad zabytkami oraz wysokości tych stypendiów (Dz. U. Nr 52, poz. 626 oraz z 2007 r. Nr 210, poz. 1531), które utraciło moc na podstawie art. 13 pkt 1 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 12 czerwca 2000 r. w sprawie szczegółowych zasad i trybu przyznawania stypendiów osobom zajmującym się twórczością artystyczną, upowszechnianiem kultury i opieką nad zabytkami oraz wysokości tych stypendiów (Dz. U. Nr 52, poz. 626 oraz z 2007 r. Nr 210, poz. 1531), które utraciło moc na podstawie art. 13 pkt 1 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230).
 

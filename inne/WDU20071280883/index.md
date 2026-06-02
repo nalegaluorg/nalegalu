@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-13 |
 | Data wydania | 2007-07-18 |
-| Wejście w życie | 2007-07-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071280883) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/883/text.pdf) |
 
@@ -58,7 +57,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** sposób dokonywania zwrotu opłaty skarbowej oraz tryb przekazywania organom podatkowym dokumentów niezbędnych do dokonania jej zwrotu uwzględniając konieczność zapewnienia sprawności postępowania podatkowego, a także zapewnienia kontroli zapłaty opłaty skarbowej. ” .
+- **2)** sposób dokonywania zwrotu opłaty skarbowej oraz tryb przekazywania organom podatkowym dokumentów niezbędnych do dokonania jej zwrotu – uwzględniając konieczność zapewnienia sprawności postępowania podatkowego, a także zapewnienia kontroli zapłaty opłaty skarbowej. ” .
 
 **Art. 2.**
 
@@ -70,9 +69,9 @@ source: "eli-html"
 
 **Art. 4.** W przypadku gdy zapłata opłaty skarbowej następuje w sposób określony w art. 2 lub 3, organ administracji rządowej i samorządowej albo podmiot, o którym mowa w art. 1 ust. 2 ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej, dokonując czynności urzędowej, w wyniku której wydawany jest dokument, wydając zaświadczenie lub zezwolenie, na wydawanym dokumencie zamieszcza adnotację określającą wysokość opłaty skarbowej, z uwzględnieniem sposobu jej uiszczenia, potwierdzoną pieczęcią urzędową oraz podpisem osoby dokonującej adnotacji z podaniem imienia, nazwiska i stanowiska służbowego.
 
-**Art. 5.** Do dnia 31 grudnia 2008 r. zapłaty opłaty skarbowej w sposób określony w art. 2 i 3 mogą dokonywać także podmioty, o których mowa w art. 61 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.).
+**Art. 5.** Do dnia 31 grudnia 2008 r. zapłaty opłaty skarbowej w sposób określony w art. 2 i 3 mogą dokonywać także podmioty, o których mowa w art. 61 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635 oraz z 2007 r. Nr 112, poz. 769 i Nr 120, poz. 818.).
 
 **Art. 6.** Przepisy wykonawcze wydane na podstawie art. 10 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia w życie.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635 oraz z 2007 r. Nr 112, poz. 769 i Nr 120, poz. 818.
 

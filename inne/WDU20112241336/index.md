@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-18 |
 | Data wydania | 2011-10-19 |
-| Wejście w życie | 2011-11-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112241336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1336/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
 
 1. Dotacja jest przeznaczona na uzupełnienie Kapitału Wieczystego Fundacji.
 
-2. Środki stanowiące część Kapitału Wieczystego Fundacji pochodzącą z dotacji są w całości inwestowane poprzez nabywanie papierów wartościowych i innych instrumentów finansowych, o których mowa w art. 17 ust. 1e ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.).
+2. Środki stanowiące część Kapitału Wieczystego Fundacji pochodzącą z dotacji są w całości inwestowane poprzez nabywanie papierów wartościowych i innych instrumentów finansowych, o których mowa w art. 17 ust. 1e ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059 i Nr 205, poz. 1202.).
 
 3. Środki pochodzące z dotacji przeznaczonej na uzupełnienie Kapitału Wieczystego Fundacji nie mogą być wydawane ani w inny sposób bezpośrednio przeznaczane na realizację celów Fundacji.
 
@@ -72,5 +71,5 @@ source: "eli-html"
 
 5. Fundacja składa ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego w terminie do końca marca sprawozdanie za rok poprzedni, zawierające rozliczenie rzeczowo-finansowe zadań zrealizowanych ze środków pochodzących z dochodów z inwestowania części Kapitału Wieczystego Fundacji pochodzącej z dotacji oraz informację o sposobie inwestowania środków pochodzących z dotacji.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059 i Nr 205, poz. 1202.
 

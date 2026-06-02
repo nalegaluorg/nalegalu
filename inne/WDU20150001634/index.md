@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę Rady 93/13/EWG z dnia 5 kwietnia 1993 r. w sprawie nieuczciwych warunków w umowach konsumenckich (Dz. Urz. WE L 95 z 21.04.1993, str. 29, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 288); 2) dyrektywę Parlamentu Europejskiego i Rady 2009/22/WE z dnia 23 kwietnia 2009 r. w sprawie nakazów zaprzestania szkodliwych praktyk w celu ochrony interesów konsumentów (Dz. Urz. UE L 110 z 01.05.2009, str. 30, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-10-16 |
-| Wejście w życie | 2016-04-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001634) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1634/text.pdf) |
 
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych oraz ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+Zakaz stosowania niedozwolonych postanowień wzorców umów
+Niedozwolone postanowienia wzorców umów
+Decyzje w sprawach o uznanie postanowień wzorca umowy za niedozwolone
 1.
 Prezes Urzędu wydaje decyzję o uznaniu postanowienia wzorca umowy za niedozwolone i zakazującą jego wykorzystywania, jeżeli stwierdzi naruszenie zakazu określonego w art. 23a. W decyzji Prezes Urzędu przytacza treść postanowienia wzorca umowy uznanego za niedozwolone.
 2.
@@ -56,8 +59,7 @@ przedsiębiorca nie wykonuje zobowiązań lub obowiązków, o których mowa w us
 W przypadku, o którym mowa w ust. 5, Prezes Urzędu może określić środki usunięcia trwających skutków naruszenia zakazu, o których mowa w art. 23b ust. 2. Przepis art. 23b ust. 3 stosuje się.
 7.
 Prezes Urzędu może, za zgodą przedsiębiorcy, z urzędu uchylić decyzję, o której mowa w ust. 1, w części dotyczącej zobowiązań, w przypadku gdy nastąpiła zmiana okoliczności mających istotny wpływ na wydanie tej decyzji. Przepisy ust. 6 stosuje się odpowiednio.
-Prawomocna decyzja o uznaniu postanowienia wzorca umowy za niedozwolone ma skutek wobec przedsiębiorcy, co do którego stwierdzono stosowanie niedozwolonego postanowienia umownego oraz wobec wszystkich konsumentów, którzy zawarli z nim umowę na podstawie wzorca wskazanego w decyzji.
-” ;
+Prawomocna decyzja o uznaniu postanowienia wzorca umowy za niedozwolone ma skutek wobec przedsiębiorcy, co do którego stwierdzono stosowanie niedozwolonego postanowienia umownego oraz wobec wszystkich konsumentów, którzy zawarli z nim umowę na podstawie wzorca wskazanego w decyzji. ” ;
 3)
 w art. 24 w ust. 2:
 a)
@@ -65,14 +67,12 @@ wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przez praktykę naruszając�
 b)
 uchyla się pkt 1,
 c)
-w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
-„
+w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 4)
-proponowanie konsumentom nabycia usług finansowych, które nie odpowiadają potrzebom tych konsumentów ustalonym z uwzględnieniem dostępnych przedsiębiorcy informacji w zakresie cech tych konsumentów lub proponowanie nabycia tych usług w sposób nieadekwatny do ich charakteru.
-” ;
+proponowanie konsumentom nabycia usług finansowych, które nie odpowiadają potrzebom tych konsumentów ustalonym z uwzględnieniem dostępnych przedsiębiorcy informacji w zakresie cech tych konsumentów lub proponowanie nabycia tych usług w sposób nieadekwatny do ich charakteru. ” ;
 4)
-art. 25 otrzymuje brzmienie:
-„
+art. 25 otrzymuje brzmienie: „
+Postępowanie w sprawach o uznanie postanowień wzorca umowy za niedozwolone
 
 **Art. 1.** W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184 i 1618) wprowadza się następujące zmiany:
 
@@ -82,13 +82,13 @@ art. 25 otrzymuje brzmienie:
 
 - **2)** po dziale III dodaje się dział IIIa w brzmieniu: „
 
-### Dział IIIa Zakaz stosowania niedozwolonych postanowień wzorców umów
+### Dział IIIa
 
-#### Rozdział 1 Niedozwolone postanowienia wzorców umów
+#### Rozdział 1
 
 **Art. 23a.** Zakazane jest stosowanie we wzorcach umów zawieranych z konsumentami niedozwolonych postanowień umownych, o których mowa w art. 3851 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
-#### Rozdział 2 Decyzje w sprawach o uznanie postanowień wzorca umowy za niedozwolone
+#### Rozdział 2
 
 **Art. 25.** Ochrona zbiorowych interesów konsumentów przewidziana w ustawie nie wyłącza ochrony wynikającej z innych ustaw, w szczególności z przepisów o przeciwdziałaniu nieuczciwym praktykom rynkowym i przepisów o zwalczaniu nieuczciwej konkurencji. ” ;
 
@@ -166,7 +166,7 @@ art. 25 otrzymuje brzmienie:
 
 - **17)** w dziale VI po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Postępowanie w sprawach o uznanie postanowień wzorca umowy za niedozwolone
+#### Rozdział 3a
 
 **Art. 99a.**
 
@@ -247,24 +247,24 @@ art. 25 otrzymuje brzmienie:
 - **2)** w przypadku naruszenia zakazu praktyk naruszających zbiorowe interesy konsumentów lub stosowania niedozwolonych postanowień wzorców umów – okoliczności, o których mowa w pkt 1 lit. a-d; ” , w ust. 4 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w przypadku naruszenia zakazu praktyk naruszających zbiorowe interesy konsumentów lub stosowania niedozwolonych postanowień wzorców umów: ” .
     - **b)**
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587 i 1595.) wprowadza się następujące zmiany:
 
 - **1)** w części pierwszej w księdze pierwszej w tytule VII tytuł działu IVa otrzymuje brzmienie: „Postępowanie w sprawach z zakresu ochrony konkurencji i konsumentów”;
 - **2)** w części pierwszej w księdze pierwszej w tytule VII uchyla się dział IVb.
 
 **Art. 3.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2015 r. poz. 1094 i 1485) uchyla się art. 138b.
 
-**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.) w art. 105 w ust. 1 w pkt 2 lit. r otrzymuje brzmienie: „
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357 i 1513.) w art. 105 w ust. 1 w pkt 2 lit. r otrzymuje brzmienie: „
 
-Prezesa Urzędu Ochrony Konkurencji i Konsumentów: – w zakresie określonym ustawą z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.), – w związku z toczącym się postępowaniem przed Prezesem Urzędu Ochrony Konkurencji i Konsumentów prowadzonym na podstawie przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184, 1618 i 1634), ” .
+Prezesa Urzędu Ochrony Konkurencji i Konsumentów: – w zakresie określonym ustawą z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.), – w związku z toczącym się postępowaniem przed Prezesem Urzędu Ochrony Konkurencji i Konsumentów prowadzonym na podstawie przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184, 1618 i 1634), ” .
 
 - **r)**
 
-**Art. 5.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. z 2014 r. poz. 157, z późn. zm.) w art. 281 w ust. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+**Art. 5.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. z 2014 r. poz. 157, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 73, 978, 1260 i 1357.) w art. 281 w ust. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
 
 - **12)** Prezesa Urzędu Ochrony Konkurencji i Konsumentów w związku z toczącym się postępowaniem przed Prezesem Urzędu Ochrony Konkurencji i Konsumentów prowadzonym na podstawie przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184, 1618 i 1634), jeżeli są niezbędne w toczącym się postępowaniu. ” .
 
-**Art. 6.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm.) w art. 149 po pkt 9 dodaje się pkt 9a w brzmieniu: „
+**Art. 6.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586 oraz z 2015 r. poz. 73, 978, 1045, 1223, 1260, 1348, 1505 i 1513.) w art. 149 po pkt 9 dodaje się pkt 9a w brzmieniu: „
 
 - **9a)** Prezesa Urzędu Ochrony Konkurencji i Konsumentów w związku z toczącym się postępowaniem przed Prezesem Urzędu Ochrony Konkurencji i Konsumentów prowadzonym na podstawie przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184, 1618 i 1634), jeżeli są niezbędne w toczącym się postępowaniu; ” .
 
@@ -286,5 +286,5 @@ Prezesa Urzędu Ochrony Konkurencji i Konsumentów: – w zakresie określonym u
 
 2. W przypadku postanowień wzorców umów, których stosowania zaniechano przed dniem wejścia w życie niniejszej ustawy i nie upłynął termin, o którym mowa w art. 47939 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, z zastrzeżeniem że Prezes Urzędu Ochrony Konkurencji i Konsumentów może wszcząć postępowanie o uznanie tych postanowień wzorca umowy za niedozwolone w terminie 6 miesięcy od dnia zaniechania ich stosowania przez przedsiębiorcę. W przypadku takim art. 106 ust. 1 pkt 3a ustawy zmienianej w art. 1 nie stosuje się.
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 2 pkt 2 w zakresie uchylanego art. 47945 oraz art. 3, które wchodzą w życie po upływie 10 lat od dnia wejścia w życie niniejszej ustawy.
+**Art. 12.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 2 pkt 2 w zakresie uchylanego art. 47945 oraz art. 3, które wchodzą w życie po upływie 10 lat od dnia wejścia w życie niniejszej ustawy. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę Rady 93/13/EWG z dnia 5 kwietnia 1993 r. w sprawie nieuczciwych warunków w umowach konsumenckich (Dz. Urz. WE L 95 z 21.04.1993, str. 29, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 288); 2) dyrektywę Parlamentu Europejskiego i Rady 2009/22/WE z dnia 23 kwietnia 2009 r. w sprawie nakazów zaprzestania szkodliwych praktyk w celu ochrony interesów konsumentów (Dz. Urz. UE L 110 z 01.05.2009, str. 30, z późn. zm.). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych oraz ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587 i 1595. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357 i 1513. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 73, 978, 1260 i 1357. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586 oraz z 2015 r. poz. 73, 978, 1045, 1223, 1260, 1348, 1505 i 1513.
 

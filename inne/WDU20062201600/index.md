@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 października 2006 r. o zmianie i uchyleniu niektórych upoważnień do wydawania aktów wykonawczych
+# Ustawa z dnia 18 października 2006 r. o zmianie i uchyleniu niektórych upoważnień do wydawania aktów wykonawczych Niniejszą ustawą zmienia się: ustawę z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych, ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych, ustawę z dnia 25 września 1981 r. o przedsiębiorstwach państwowych, ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich, ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, ustawę z dnia 19 lutego 1993 r. o znakach Sił Zbrojnych Rzeczypospolitej Polskiej, ustawę z dnia 13 października 1995 r. – Prawo łowieckie, ustawę z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, ustawę z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego, ustawę z dnia 8 sierpnia 1996 r. o Radzie Ministrów, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 20 czerwca 1997 r. o zmianie ustawy o zakładach opieki zdrowotnej oraz o zmianie niektórych innych ustaw, ustawę z dnia 27 czerwca 1997 r. o bibliotekach, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 29 sierpnia 1997 r. o usługach turystycznych, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 28 sierpnia 1998 r. o zmianie ustawy – Kodeks wykroczeń, ustawy – Kodeks postępowania w sprawach o wykroczenia, ustawy o ustroju kolegiów do spraw wykroczeń, ustawy – Kodeks pracy i niektórych innych ustaw, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych, ustawę z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych, ustawę z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady, ustawę z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej, ustawę z dnia 23 grudnia 1999 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw, ustawę z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych, ustawę z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych oraz o Krajowym Systemie Informatycznym, ustawę z dnia 27 lipca 2001 r. o służbie zagranicznej, ustawę z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych, ustawę z dnia 2 października 2003 r. o biokomponentach stosowanych w paliwach ciekłych i biopaliwach ciekłych, ustawę z dnia 19 lutego 2004 r. o rybołówstwie, ustawę z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 21 stycznia 2005 r. o doświadczeniach na zwierzętach, ustawę z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych oraz ustawę z dnia 29 grudnia 2005 r. o przekształceniach i zmianach w podziale zadań i kompetencji organów państwowych właściwych w sprawach łączności, radiofonii i telewizji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-10-18 |
 | Data wydania | 2006-12-01 |
-| Wejście w życie | 2007-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062201600) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1600/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2000 r. Nr 23, poz. 295, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2000 r. Nr 23, poz. 295, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7 ust. 3 otrzymuje brzmienie: „
 
@@ -39,7 +38,7 @@ source: "eli-html"
 - **1)** wymagania sanitarne, jakim powinna odpowiadać powierzchnia grzebalna cmentarza,
 - **2)** wymagania sanitarne, jakim powinny odpowiadać dom przedpogrzebowy lub kostnica na terenie cmentarza,
 - **3)** warunki i sposób przechowywania zwłok i szczątków,
-- **4)** warunki sanitarne przeprowadzania ekshumacji mając na uwadze zapewnienie poszanowania zwłok i szczątków oraz bezpieczeństwo sanitarne. ” ;
+- **4)** warunki sanitarne przeprowadzania ekshumacji – mając na uwadze zapewnienie poszanowania zwłok i szczątków oraz bezpieczeństwo sanitarne. ” ;
 - **3)** w art. 10: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -51,7 +50,7 @@ source: "eli-html"
 
 - **1)** warunki uzasadniające przekazanie zwłok do celów naukowych w przypadkach, o których mowa w ust. 2,
 - **2)** tryb przekazywania zwłok,
-- **3)** sposób ponoszenia kosztów transportu zwłok kierując się koniecznością zachowania godności należnej zmarłemu oraz bezpieczeństwem sanitarnym. ” , ust. 3 otrzymuje brzmienie: „
+- **3)** sposób ponoszenia kosztów transportu zwłok – kierując się koniecznością zachowania godności należnej zmarłemu oraz bezpieczeństwem sanitarnym. ” , ust. 3 otrzymuje brzmienie: „
     - **c)**
 
 3. Zwłoki niepochowane przez podmioty, o których mowa w ust. 1, albo nieprzekazane publicznej uczelni medycznej albo publicznej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych są chowane przez gminę właściwą ze względu na miejsce zgonu. ” , ust. 5 otrzymuje brzmienie: „
@@ -83,7 +82,7 @@ source: "eli-html"
 1. Przewóz zwłok i szczątków:
 
 - **1)** koleją, samolotami i statkami w granicach Rzeczypospolitej Polskiej,
-- **2)** poza granice Rzeczypospolitej Polskiej, w przypadku gdy zgon nastąpił na terytorium Rzeczypospolitej Polskiej może nastąpić po uzyskaniu pozwolenia właściwego państwowego powiatowego inspektora sanitarnego.
+- **2)** poza granice Rzeczypospolitej Polskiej, w przypadku gdy zgon nastąpił na terytorium Rzeczypospolitej Polskiej – może nastąpić po uzyskaniu pozwolenia właściwego państwowego powiatowego inspektora sanitarnego.
 
 2. W przypadku przewożenia zwłok i szczątków poza granice Rzeczypospolitej Polskiej pozwolenie, o którym mowa w ust. 1, wydaje się po uprzednim przedłożeniu wymaganych dokumentów właściwej władzy państwa, na którego terytorium mają być one pochowane, jak również państw, przez których terytorium mają być przewożone, stwierdzających brak przeszkód do pochowania lub wwiezienia zwłok lub szczątków na terytorium danego państwa.
 
@@ -102,7 +101,7 @@ source: "eli-html"
 
 - **1)** szczegółowy sposób i tryb postępowania w sprawach wydawania pozwoleń oraz zaświadczeń, o których mowa w ust. 1–5,
 - **2)** wykaz dokumentów niezbędnych do uzyskania pozwoleń oraz zaświadczeń, o których mowa w ust. 1–5,
-- **3)** wymagania sanitarno-techniczne, jakim powinien odpowiadać przewóz zwłok i szczątków uwzględniając konieczność ochrony życia i zdrowia ludzi oraz poszanowania zwłok i szczątków. ” ;
+- **3)** wymagania sanitarno-techniczne, jakim powinien odpowiadać przewóz zwłok i szczątków – uwzględniając konieczność ochrony życia i zdrowia ludzi oraz poszanowania zwłok i szczątków. ” ;
 - **7)** w art. 20 ust. 1 otrzymuje brzmienie: „
 
 1. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, wymagania, jakie muszą spełniać cmentarze, groby i inne miejsca grzebania zwłok, z uwzględnieniem wymagań techniczno-budowlanych:
@@ -119,7 +118,7 @@ source: "eli-html"
 
 2. Do postępowania prowadzonego na podstawie niniejszej ustawy, w zakresie w niej nieuregulowanym, stosuje się przepisy Kodeksu postępowania administracyjnego, z tym że do postępowania w sprawie sprowadzenia zwłok i szczątków z zagranicy, należącego do właściwości konsulów, stosuje się przepisy ustawy z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U. z 2002 r. Nr 215, poz. 1823 oraz z 2004 r. Nr 173, poz. 1808). ” .
 
-**Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496 oraz z 2006 r. Nr 104, poz. 708 i 711.) wprowadza się następujące zmiany:
 
 - **1)** w art. 86 uchyla się ust. 3;
 - **2)** w art. 184 ust. 3 otrzymuje brzmienie: „
@@ -138,7 +137,7 @@ source: "eli-html"
 
 2. Minister Obrony Narodowej określi, w drodze zarządzenia, sposób i okoliczności stosowania symboli Rzeczypospolitej Polskiej w jednostkach Sił Zbrojnych Rzeczypospolitej Polskiej, uwzględniając rodzaj jednostki Sił Zbrojnych Rzeczypospolitej Polskiej. ” .
 
-**Art. 4.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2002 r. Nr 112, poz. 981, z późn. zm.) uchyla się art. 45d.
+**Art. 4.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2002 r. Nr 112, poz. 981, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 167, poz. 1399 oraz z 2006 r. Nr 107, poz. 721.) uchyla się art. 45d.
 
 **Art. 5.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674 i Nr 170, poz. 1218) wprowadza się następujące zmiany:
 
@@ -168,13 +167,13 @@ source: "eli-html"
 
 - **b)**
 
-**Art. 6.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2001 r. Nr 86, poz. 953, z późn. zm.) w art. 26 uchyla się ust. 3.
+**Art. 6.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2001 r. Nr 86, poz. 953, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1071, Nr 123, poz. 1353 i Nr 128, poz. 1403, z 2002 r. Nr 1, poz. 18, Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71 i Nr 169, poz. 1417 oraz z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1218 i Nr 218, poz. 1592.) w art. 26 uchyla się ust. 3.
 
-**Art. 7.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2002 r. Nr 11, poz. 109, z późn. zm.) w art. 82 § 2 otrzymuje brzmienie: „
+**Art. 7.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2002 r. Nr 11, poz. 109, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 58, poz. 542, z 2003 r. Nr 137, poz. 1304 i Nr 223, poz. 2217 oraz z 2005 r. Nr 169, poz. 1413.) w art. 82 § 2 otrzymuje brzmienie: „
 
 § 2. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób i tryb kierowania, przyjmowania, przenoszenia, zwalniania i pobytu nieletnich w domach pomocy społecznej oraz formy opieki, a także wskaże organ odpowiedzialny za kierowanie nieletnich do odpowiednich domów, biorąc pod uwagę konieczność zapewnienia sprawności postępowania. ” .
 
-**Art. 8.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2002 r. Nr 147, poz. 1231, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2002 r. Nr 147, poz. 1231, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 167, poz. 1372, z 2003 r. Nr 80, poz. 719 i Nr 122, poz. 1143, z 2004 r. Nr 29, poz. 257, Nr 99, poz. 1001, Nr 152, poz. 1597 i Nr 273, poz. 2703, z 2005 r. Nr 23, poz. 186, Nr 132, poz. 1110, Nr 155, poz. 1298 i Nr 179, poz. 1485 oraz z 2006 r. Nr 170, poz. 1217 i Nr 171, poz. 1225.) wprowadza się następujące zmiany:
 
 - **1)** w art. 28 uchyla się ust. 2;
 - **2)** po art. 28 dodaje się art. 28a w brzmieniu: „
@@ -203,14 +202,14 @@ source: "eli-html"
 
 5. Przepisy art. 51p ust. 6 i 7 stosuje się odpowiednio, przy czym środki finansowe na pokrycie kosztów przechowywania dokumentacji stanowią należność archiwum państwowego, o którym mowa w ust. 3. ” .
 
-**Art. 10.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217 i Nr 171, poz. 1225.) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 22;
 - **2)** w art. 25 uchyla się ust. 2.
 
-**Art. 11.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.) w art. 45 ust. 3 otrzymuje brzmienie: „ 3. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, granice portów wojennych, uwzględniając przepisy o ochronie informacji niejawnych. ” .
+**Art. 11.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703 oraz z 2005 r. Nr 203, poz. 1683.) w art. 45 ust. 3 otrzymuje brzmienie: „ 3. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, granice portów wojennych, uwzględniając przepisy o ochronie informacji niejawnych. ” .
 
-**Art. 12.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. Nr 91, poz. 408, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 12.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. Nr 91, poz. 408, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152, Nr 171, poz. 1663, Nr 213, poz. 2081 i Nr 223, poz. 2215, z 2004 r. Nr 210, poz. 2135 i Nr 273, poz. 2703, z 2005 r. Nr 164, poz. 1365, Nr 169, poz. 1420, Nr 239, poz. 2020 i Nr 249, poz. 2104 oraz z 2006 r. Nr 75, poz. 518, Nr 143, poz. 1032 i Nr 191, poz. 1410.) wprowadza się następujące zmiany:
 
 - **1)** w art. 32e uchyla się ust. 9;
 - **2)** w art. 32f uchyla się ust. 2;
@@ -242,7 +241,7 @@ source: "eli-html"
 - **2)** w art. 42 w ust. 2 pkt 3 otrzymuje brzmienie: „
 - **3)** zezwolenie ministra właściwego do spraw środowiska na łowienie zwierzyny przy użyciu ptaka łowczego, jeżeli wykonuje polowanie przy pomocy ptaków łowczych. ” .
 
-**Art. 15.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 15.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594, z 2004 r. Nr 146, poz. 1546, Nr 213, poz. 2157 i Nr 281, poz. 2783 oraz z 2006 r. Nr 157, poz. 1119.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 ust. 2 otrzymuje brzmienie: „
 
@@ -255,7 +254,7 @@ source: "eli-html"
 - **1)** wysokość oprocentowania kredytów i pożyczek ze środków Funduszu,
 - **2)** rodzaje dokumentów składanych przez wnioskodawców,
 - **3)** warunki i tryb udzielania kredytów i pożyczek ze środków Funduszu oraz ich spłaty, tak aby zapewnić wybór przedsięwzięcia o najwyższej użyteczności społecznej, sprawność udzielania kredytów i pożyczek oraz racjonalne wykorzystanie środków Funduszu,
-- **4)** wymagania, jakie powinny spełniać lokale i budynki budowane, odbudowywane, rozbudowywane i przebudowywane lub adaptowane przy wykorzystaniu kredytu ze środków Funduszu w zakresie: właściwości energetycznych budynków, minimalnych powierzchni mieszkań przeznaczonych do zasiedlenia przez określoną liczbę osób, wyposażenia technicznego budynków i mieszkań uwzględniając racjonalne zużycie energii oraz powszechnie uznawane standardy mieszkaniowe. ” ;
+- **4)** wymagania, jakie powinny spełniać lokale i budynki budowane, odbudowywane, rozbudowywane i przebudowywane lub adaptowane przy wykorzystaniu kredytu ze środków Funduszu w zakresie: właściwości energetycznych budynków, minimalnych powierzchni mieszkań przeznaczonych do zasiedlenia przez określoną liczbę osób, wyposażenia technicznego budynków i mieszkań – uwzględniając racjonalne zużycie energii oraz powszechnie uznawane standardy mieszkaniowe. ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -269,11 +268,11 @@ source: "eli-html"
 4. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia:
 
 - **1)** warunki i tryb dokonywania dopłat do odsetek od kredytów, o których mowa w ust. 1,
-- **2)** przesłanki zawierania umów, o których mowa w ust. 1, oraz ich warunki mając na uwadze racjonalne wykorzystanie środków publicznych. ” .
+- **2)** przesłanki zawierania umów, o których mowa w ust. 1, oraz ich warunki – mając na uwadze racjonalne wykorzystanie środków publicznych. ” .
 
-**Art. 16.** W ustawie z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z późn. zm.) w art. 1 uchyla się ust. 5.
+**Art. 16.** W ustawie z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 770, z 2000 r. Nr 114, poz. 1193, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 273, poz. 2703 oraz z 2006 r. Nr 73, poz. 501 i Nr 208, poz. 1540.) w art. 1 uchyla się ust. 5.
 
-**Art. 17.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.) w art. 14:
+**Art. 17.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104 oraz z 2006 r. Nr 45, poz. 319 i Nr 170, poz. 1217.) w art. 14:
 
 - **1)** w ust. 4 uchyla się pkt 2;
 - **2)** uchyla się ust. 6.
@@ -285,7 +284,7 @@ source: "eli-html"
 3. Minister Obrony Narodowej, po zasięgnięciu opinii Wojskowej Rady Lekarskiej, oraz minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, każdy w zakresie swojego działania – w porozumieniu z ministrem właściwym do spraw zdrowia – określą, w drodze rozporządzeń:
 
 - **1)** tryb uzyskiwania tytułu specjalisty przez lekarza i lekarza dentystę będącego żołnierzem w czynnej służbie wojskowej, lekarza i lekarza dentystę pełniącego służbę lub zatrudnionego odpowiednio w zakładzie opieki zdrowotnej, w stosunku do którego Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych pełnią funkcję organu założycielskiego w rozumieniu przepisów o zakładach opieki zdrowotnej,
-- **2)** wzory dokumentów wymaganych przy realizowaniu specjalizacji uwzględniając konieczność zapewnienia prawidłowego przebiegu szkolenia specjalizacyjnego. ” ;
+- **2)** wzory dokumentów wymaganych przy realizowaniu specjalizacji – uwzględniając konieczność zapewnienia prawidłowego przebiegu szkolenia specjalizacyjnego. ” ;
 - **2)** art. 17 otrzymuje brzmienie: „
 
 1. Lekarz może uzyskać świadectwo potwierdzające posiadanie umiejętności z zakresu węższych dziedzin medycyny lub udzielania określonych świadczeń zdrowotnych, zwane dalej „świadectwem”.
@@ -326,7 +325,7 @@ source: "eli-html"
 - **5)** tryb przeprowadzenia egzaminu oraz wysokość opłaty za jego przeprowadzenie,
 - **6)** wysokość opłaty za wydanie świadectwa,
 - **7)** szczegółowe warunki i tryb uznawania szkoleń odbytych za granicą,
-- **8)** sposób ewidencjonowania wydanych świadectw uwzględniając aktualny stan wiedzy medycznej i konieczność zapewnienia prawidłowego przebiegu szkolenia i egzaminów w tym zakresie.
+- **8)** sposób ewidencjonowania wydanych świadectw – uwzględniając aktualny stan wiedzy medycznej i konieczność zapewnienia prawidłowego przebiegu szkolenia i egzaminów w tym zakresie.
 
 14. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej oraz Krajowej Rady Diagnostów Laboratoryjnych, określa, w drodze rozporządzenia, wykaz umiejętności uprawniających do samodzielnego wykonywania czynności diagnostyki laboratoryjnej w laboratorium uwzględniając odpowiedni poziom wiedzy i umiejętności w zakresie wykonywania czynności diagnostyki laboratoryjnej. ” .
 

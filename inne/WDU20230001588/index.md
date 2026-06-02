@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o czasie pracy na statkach żeglugi śródlądowej
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o czasie pracy na statkach żeglugi śródlądowej Niniejsza ustawa: 1) w zakresie swojej regulacji wdraża następujące dyrektywy: a) dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 z dnia 12 grudnia 2017 r. w sprawie uznawania kwalifikacji zawodowych w żegludze śródlądowej oraz uchylającą dyrektywy Rady 91/672/EWG i 96/50/WE (Dz. Urz. UE L 345 z 27.12.2017, str. 53, Dz. Urz. UE L 274 z 30.07.2021, str. 52 oraz Dz. Urz. UE L 30 z 11.02.2022, str. 3), b) dyrektywę delegowaną Komisji (UE) 2020/12 z dnia 2 sierpnia 2019 r. uzupełniającą dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 w odniesieniu do standardów dotyczących: kompetencji oraz odpowiadających im wiedzy i umiejętności, egzaminów praktycznych, zatwierdzania symulatorów oraz stanu zdrowia (Dz. Urz. UE L 6 z 10.01.2020, str. 15), c) dyrektywę Parlamentu Europejskiego i Rady (UE) 2021/1233 z dnia 14 lipca 2021 r. w sprawie zmiany dyrektywy (UE) 2017/2397 w odniesieniu do środków przejściowych dotyczących uznawania świadectw wydanych przez państwa trzecie (Dz. Urz. UE L 274 z 30.07.2021, str. 52); 2) służy stosowaniu: a) rozporządzenia wykonawczego Komisji (UE) 2020/182 z dnia 14 stycznia 2020 r. w sprawie wzorów stosowanych w dziedzinie kwalifikacji zawodowych w żegludze śródlądowej (Dz. Urz. UE L 38 z 11.02.2020, str. 1), b) rozporządzenia delegowanego Komisji (UE) 2020/473 z dnia 20 stycznia 2019 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 w odniesieniu do norm dotyczących baz danych na temat unijnych świadectw kwalifikacji, żeglarskich książeczek pracy i dzienników pokładowych (Dz. Urz. UE L 100 z 01.04.2020, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-08-10 |
-| Wejście w życie | 2023-08-25 |
 | Ostatnia zmiana | 2024-04-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001588) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1588/text.pdf) |
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 - **10)** dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/2397 z dnia 12 grudnia 2017 r. w sprawie uznawania kwalifikacji zawodowych w żegludze śródlądowej oraz uchylającej dyrektywy Rady 91/672/EWG i 96/50/WE (Dz. Urz. UE L 345 z 27.12.2017, str. 53, Dz. Urz. UE L 274 z 30.07.2021, str. 52 oraz Dz. Urz. UE L 30 z 11.02.2022, str. 3);
 - **11)** dyrektywy delegowanej Komisji (UE) 2020/12 z dnia 2 sierpnia 2019 r. uzupełniającej dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 w odniesieniu do standardów dotyczących: kompetencji oraz odpowiadających im wiedzy i umiejętności, egzaminów praktycznych, zatwierdzania symulatorów oraz stanu zdrowia (Dz. Urz. UE L 6 z 10.01.2020, str. 15). ” ;
-- **2)** do tytułu ustawy dodaje się odnośnik nr 2 w brzmieniu: „
+- **2)** do tytułu ustawy dodaje się odnośnik nr 2 w brzmieniu: „ 2) Niniejsza ustawa służy stosowaniu:
 - **1)** rozporządzenia wykonawczego Komisji (UE) 2020/182 z dnia 14 stycznia 2020 r. w sprawie wzorów stosowanych w dziedzinie kwalifikacji zawodowych w żegludze śródlądowej (Dz. Urz. UE L 38 z 11.02.2020, str. 1);
 - **2)** rozporządzenia delegowanego Komisji (UE) 2020/473 z dnia 20 stycznia 2019 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 w odniesieniu do norm dotyczących baz danych na temat unijnych świadectw kwalifikacji, żeglarskich książeczek pracy i dzienników pokładowych (Dz. Urz. UE L 100 z 01.04.2020, str. 1). ” ;
 - **3)** w art. 1 ust. 3 otrzymuje brzmienie: „
@@ -51,7 +50,7 @@ source: "eli-html"
 - **18)** holownik – statek o napędzie mechanicznym przeznaczony albo przystosowany do holowania innych statków;
 - **19)** lodołamacz – statek o napędzie mechanicznym przeznaczony do łamania lodów;
 - **20)** łódź przewozowa – statek o napędzie mechanicznym albo bez napędu mechanicznego przeznaczony do przewozu nie więcej niż 12 pasażerów z jednego brzegu drogi wodnej na drugi;
-- **21)** mały statek – statek, którego długość kadłuba jest mniejsza niż 20 m, a iloczyn długości, szerokości i zanurzenia nie przekracza 100 m3, z wyjątkiem: promów, statków przeznaczonych do przewozu więcej niż 12 pasażerów, holowników lub pchaczy, lodołamaczy, statków przeznaczonych lub używanych do wykonywania prac technicznych, utrzymania szlaków żeglugowych lub eksploatacji złóż kruszyw niezależnie od długości ich kadłuba oraz iloczynu długości, szerokości i zanurzenia;
+- **21)** mały statek – statek, którego długość kadłuba jest mniejsza niż 20 m, a iloczyn długości, szerokości i zanurzenia nie przekracza 100 m3, z wyjątkiem: promów, statków przeznaczonych do przewozu więcej niż 12 pasażerów, holowników lub pchaczy, lodołamaczy, statków przeznaczonych lub używanych do wykonywania prac technicznych, utrzymania szlaków żeglugowych lub eksploatacji złóż kruszyw – niezależnie od długości ich kadłuba oraz iloczynu długości, szerokości i zanurzenia;
     - **a)**
     - **b)**
     - **c)**
@@ -82,7 +81,7 @@ source: "eli-html"
 
 5. Informacje gromadzone w bazie danych statków, dotyczące unijnych świadectw kwalifikacji, żeglarskich książeczek pracy i dzienników pokładowych, stanowiące dane osobowe, są przetwarzane wyłącznie w celu:
 
-- **1)** wdrażania, stosowania i oceny prawidłowego wdrożenia i stosowania dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/2397 z dnia 12 grudnia 2017 r. w sprawie uznawania kwalifikacji zawodowych w żegludze śródlądowej oraz uchylającej dyrektywy Rady 91/672/EWG i 96/50/WE (Dz. Urz. UE L 345 z 27.12.2017, str. 53, z późn. zm.), zwanej dalej „dyrektywą 2017/2397”, w tym funkcjonowania wewnętrznego systemu zarządzania jakością, o którym mowa w art. 39d;
+- **1)** wdrażania, stosowania i oceny prawidłowego wdrożenia i stosowania dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/2397 z dnia 12 grudnia 2017 r. w sprawie uznawania kwalifikacji zawodowych w żegludze śródlądowej oraz uchylającej dyrektywy Rady 91/672/EWG i 96/50/WE (Dz. Urz. UE L 345 z 27.12.2017, str. 53, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 274 z 30.07.2021, str. 52 oraz Dz. Urz. UE L 30 z 11.02.2022, str. 3.), zwanej dalej „dyrektywą 2017/2397”, w tym funkcjonowania wewnętrznego systemu zarządzania jakością, o którym mowa w art. 39d;
 - **2)** wymiany informacji między organami posiadającymi dostęp do unijnej bazy danych, o której mowa w art. 25 ust. 2 dyrektywy 2017/2397, a Komisją Europejską;
 - **3)** opracowywania przez organy administracji żeglugi śródlądowej statystyk dotyczących w szczególności ilości wydawanych lub przedłużanych dokumentów kwalifikacyjnych, a także ważności tych dokumentów.
 
@@ -161,7 +160,7 @@ source: "eli-html"
 
 - **1)** ukończenie zatwierdzonego programu szkolenia trwającego co najmniej dwa lata i obejmującego standardy kompetencji oraz odpowiadającej im wiedzy i umiejętności dla poziomu operacyjnego oraz odbycie w ramach tego zatwierdzonego programu szkolenia praktyki pływania na statku niebędącym małym statkiem wynoszącej co najmniej 90 dni albo
 - **2)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 360 dni lub – w przypadku, w którym wnioskodawca może przedstawić dowód posiadania doświadczenia zawodowego wynoszącego co najmniej 250 dni, które wnioskodawca zdobył na statku morskim w charakterze członka załogi pokładowej – co najmniej 180 dni, oraz uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku, albo
-- **3)** przed przystąpieniem do zatwierdzonego programu szkolenia posiadanie: co najmniej pięcioletniego doświadczenia zawodowego lub co najmniej 500 dni doświadczenia zawodowego na statku morskim jako członek załogi pokładowej, lub ukończonego szkolenia zawodowego trwającego co najmniej trzy lata oraz ukończenie zatwierdzonego programu szkolenia obejmującego standardy kompetencji oraz odpowiadającej im wiedzy i umiejętności dla poziomu operacyjnego trwającego co najmniej dziewięć miesięcy i odbycie w ramach tego zatwierdzonego programu szkolenia praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 90 dni.
+- **3)** przed przystąpieniem do zatwierdzonego programu szkolenia posiadanie: co najmniej pięcioletniego doświadczenia zawodowego lub co najmniej 500 dni doświadczenia zawodowego na statku morskim jako członek załogi pokładowej, lub ukończonego szkolenia zawodowego trwającego co najmniej trzy lata – oraz ukończenie zatwierdzonego programu szkolenia obejmującego standardy kompetencji oraz odpowiadającej im wiedzy i umiejętności dla poziomu operacyjnego trwającego co najmniej dziewięć miesięcy i odbycie w ramach tego zatwierdzonego programu szkolenia praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 90 dni.
     - **a)**
     - **b)**
     - **c)**
@@ -273,7 +272,7 @@ source: "eli-html"
 3. Do wniosku, o którym mowa w ust. 1, załącza się:
 
 - **1)** aktualną fotografię o wymiarach 3,5 × 4,5 cm – w przypadku unijnych świadectw kwalifikacji kapitana żeglugi śródlądowej, eksperta w dziedzinie żeglugi pasażerskiej lub eksperta w dziedzinie skroplonego gazu ziemnego;
-- **2)** wyciąg pływania będący odpowiednio wyciągiem z: zatwierdzonych wpisów w żeglarskiej książeczce pracy lub w dokumencie będącym połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy i potwierdzony przez dyrektora urzędu żeglugi śródlądowej, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz: – śródlądowe drogi wodne, na których została odbyta praktyka pływania – w przypadku wniosku o wydanie unijnego świadectwa kwalifikacji, – wody śródlądowe, na których została odbyta praktyka pływania – w przypadku pozostałych dokumentów kwalifikacyjnych, lub książki kontroli pracy sprzętu transportowego lub innego dokumentu potwierdzającego przebieg służby, potwierdzony przez właściwego kierownika jednostki organizacyjnej służb podległych ministrowi właściwemu do spraw wewnętrznych, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz wody śródlądowe, na których praktyka pływania została odbyta – w przypadku patentów młodszego stermotorzysty i stermotorzysty żeglugi śródlądowej w przypadku gdy zgodnie z art. 35b ust. 4–13 i art. 35c ust. 2 i 3 określono wymóg odbycia praktyki pływania;
+- **2)** wyciąg pływania będący odpowiednio wyciągiem z: zatwierdzonych wpisów w żeglarskiej książeczce pracy lub w dokumencie będącym połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy i potwierdzony przez dyrektora urzędu żeglugi śródlądowej, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz: – śródlądowe drogi wodne, na których została odbyta praktyka pływania – w przypadku wniosku o wydanie unijnego świadectwa kwalifikacji, – wody śródlądowe, na których została odbyta praktyka pływania – w przypadku pozostałych dokumentów kwalifikacyjnych, lub książki kontroli pracy sprzętu transportowego lub innego dokumentu potwierdzającego przebieg służby, potwierdzony przez właściwego kierownika jednostki organizacyjnej służb podległych ministrowi właściwemu do spraw wewnętrznych, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz wody śródlądowe, na których praktyka pływania została odbyta – w przypadku patentów młodszego stermotorzysty i stermotorzysty żeglugi śródlądowej – w przypadku gdy zgodnie z art. 35b ust. 4–13 i art. 35c ust. 2 i 3 określono wymóg odbycia praktyki pływania;
     - **a)**
     - **b)**
 
@@ -287,12 +286,12 @@ source: "eli-html"
 - **10)** kopię dokumentu potwierdzającego odbycie podstawowego przeszkolenia w zakresie bezpieczeństwa i higieny pracy na statkach – w przypadku unijnego świadectwa kwalifikacji młodszego marynarza żeglugi śródlądowej;
 - **11)** kopię dokumentu, o którym mowa w art. 37a ust. 3, potwierdzającego posiadanie uprawnień do uprawiania turystyki wodnej na jachtach motorowych – w przypadku patentu żeglarskiego młodszego stermotorzysty żeglugi śródlądowej;
 - **12)** kopię dokumentu potwierdzającego posiadanie stopnia chorążego Marynarki Wojennej albo Straży Granicznej w dziale pokładowym – w przypadku patentu żeglarskiego stermotorzysty żeglugi śródlądowej;
-- **13)** kopię dokumentu potwierdzającego posiadanie: stopnia oficera służby mechanicznej Marynarki Wojennej albo stopnia oficera Straży Granicznej o specjalności mechanika, albo dyplomu oficera mechanika w żegludze morskiej w przypadku patentu mechanika statkowego żeglugi śródlądowej;
+- **13)** kopię dokumentu potwierdzającego posiadanie: stopnia oficera służby mechanicznej Marynarki Wojennej albo stopnia oficera Straży Granicznej o specjalności mechanika, albo dyplomu oficera mechanika w żegludze morskiej – w przypadku patentu mechanika statkowego żeglugi śródlądowej;
     - **a)**
     - **b)**
     - **c)**
 
-- **14)** kopię dokumentu potwierdzającego posiadanie: co najmniej stopnia marynarza albo podoficera rezerwy Marynarki Wojennej albo Straży Granicznej o specjalności motorzysty okrętowego albo świadectwa motorzysty wachtowego w żegludze morskiej w przypadku świadectwa motorzysty żeglugi śródlądowej.
+- **14)** kopię dokumentu potwierdzającego posiadanie: co najmniej stopnia marynarza albo podoficera rezerwy Marynarki Wojennej albo Straży Granicznej o specjalności motorzysty okrętowego albo świadectwa motorzysty wachtowego w żegludze morskiej – w przypadku świadectwa motorzysty żeglugi śródlądowej.
     - **a)**
     - **b)**
 
@@ -317,7 +316,7 @@ source: "eli-html"
 - **1)** uprawia żeglugę na znajdujących się na terytorium Rzeczypospolitej Polskiej wodach morskich stanowiących śródlądowe drogi wodne państw członkowskich, które są określone w przepisach wydanych na podstawie art. 29 ust. 3, lub
 - **2)** uprawia żeglugę z pomocą radaru, lub
 - **3)** prowadzi statek napędzany skroplonym gazem ziemnym, lub
-- **4)** prowadzi duży konwój, przez który rozumie się zestaw pchany, którego iloczyn całkowitej długości i całkowitej szerokości jednostki pchanej wynosi co najmniej 7000 m2 oprócz posiadania unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej dodatkowo ma posiadać szczególne zezwolenie dla kapitana, odpowiednie dla rodzaju żeglugi.
+- **4)** prowadzi duży konwój, przez który rozumie się zestaw pchany, którego iloczyn całkowitej długości i całkowitej szerokości jednostki pchanej wynosi co najmniej 7000 m2 – oprócz posiadania unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej dodatkowo ma posiadać szczególne zezwolenie dla kapitana, odpowiednie dla rodzaju żeglugi.
 
 2. Minister właściwy do spraw żeglugi śródlądowej sporządza wykaz wód morskich znajdujących się na terytorium Rzeczypospolitej Polskiej stanowiących śródlądowe drogi wodne państw członkowskich, które są określone w przepisach wydanych na podstawie art. 29 ust. 3, i przekazuje go oraz każdą jego zmianę Komisji Europejskiej.
 
@@ -428,7 +427,7 @@ source: "eli-html"
 10. Jeżeli na skutek wystąpienia okoliczności, w wyniku których zachodzi podejrzenie, że członek załogi statku nie spełnia wymagań dotyczących stanu zdrowia odpowiedniego do zakresu pracy na statkach żeglugi śródlądowej:
 
 - **1)** armator lub kierownik statku, na którym członek załogi statku jest zatrudniony, lub
-- **2)** dyrektor urzędu żeglugi śródlądowej, w drodze decyzji kieruje członka załogi na badania doraźne.
+- **2)** dyrektor urzędu żeglugi śródlądowej, w drodze decyzji – kieruje członka załogi na badania doraźne.
 
 11. Za okoliczności, o których mowa w ust. 10, uznaje się w szczególności spowodowanie wypadku żeglugowego, udział w wypadku żeglugowym, w którym doszło do narażenia na bezpośrednie niebezpieczeństwo powstania uszczerbku na zdrowiu, a także stwierdzenie, że członek załogi statku wykonywał swoje obowiązki w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu.
 
@@ -592,7 +591,7 @@ source: "eli-html"
 
 14. Dopuszcza się badanie krwi lub moczu jako następstwo badania przeprowadzonego metodą, o której mowa w ust. 12, albo jeżeli nie ma możliwości wykorzystania tej metody.
 
-15. Wykaz środków działających podobnie do alkoholu oraz warunki i sposób przeprowadzania badań na ich obecność określają przepisy wydane na podstawie art. 129j ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.).
+15. Wykaz środków działających podobnie do alkoholu oraz warunki i sposób przeprowadzania badań na ich obecność określają przepisy wydane na podstawie art. 129j ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234 i 1394.).
 
 16. Badanie w celu ustalenia zawartości w organizmie alkoholu lub obecności w organizmie środka działającego podobnie do alkoholu nie może naruszać godności, intymności oraz innych dóbr osobistych osoby badanej.
 
@@ -617,7 +616,7 @@ source: "eli-html"
 1. Osoba, której wydano dokument kwalifikacyjny, o którym mowa w art. 35 ust. 2, lub szczególne zezwolenie dla kapitana, o którym mowa w art. 35e ust. 1, jest obowiązana zawiadomić dyrektora urzędu żeglugi śródlądowej, który wydał ten dokument, o:
 
 - **1)** utracie dokumentu lub jego zniszczeniu w stopniu powodującym jego nieczytelność,
-- **2)** zmianie stanu faktycznego wymagającego zmiany danych w nim zawartych w terminie 30 dni od dnia zaistnienia tego zdarzenia.
+- **2)** zmianie stanu faktycznego wymagającego zmiany danych w nim zawartych – w terminie 30 dni od dnia zaistnienia tego zdarzenia.
 
 2. Na wniosek osoby, której wydano dokument kwalifikacyjny, w przypadkach, o których mowa w ust. 1, dyrektor urzędu żeglugi śródlądowej odpowiednio:
 
@@ -801,7 +800,7 @@ source: "eli-html"
 1. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
 - **1)** wykaz stanowisk na statkach,
-- **2)** minimalny skład załogi na śródlądowych drogach wodnych: statku bez napędu mechanicznego wchodzącego w skład zestawu holowanego, statku towarowego o napędzie mechanicznym, holownika, lodołamacza, statku pasażerskiego, pchacza, zestawu pchanego oraz zestawu sprzężonego w zależności od rodzaju statku i czasu jego pracy,
+- **2)** minimalny skład załogi na śródlądowych drogach wodnych: statku bez napędu mechanicznego wchodzącego w skład zestawu holowanego, statku towarowego o napędzie mechanicznym, holownika, lodołamacza, statku pasażerskiego, pchacza, zestawu pchanego oraz zestawu sprzężonego – w zależności od rodzaju statku i czasu jego pracy,
     - **a)**
     - **b)**
     - **c)**
@@ -810,7 +809,7 @@ source: "eli-html"
     - **f)**
 
 - **3)** zakres wymagań egzaminacyjnych niezbędnych do uzyskania dokumentów kwalifikacyjnych,
-- **4)** szczegółowy tryb przeprowadzania egzaminu i sposób działania komisji egzaminacyjnych i szczegółowe warunki wynagradzania członków tych komisji kierując się względami bezpieczeństwa żeglugi, koniecznością posiadania odpowiedniej wiedzy i umiejętności przez członków załogi statków w zakresie żeglugi śródlądowej, sprawnym działaniem komisji egzaminacyjnych oraz rzetelnym przeprowadzaniem egzaminów. ” , uchyla się ust. 2, dodaje się ust. 3 w brzmieniu: „
+- **4)** szczegółowy tryb przeprowadzania egzaminu i sposób działania komisji egzaminacyjnych i szczegółowe warunki wynagradzania członków tych komisji – kierując się względami bezpieczeństwa żeglugi, koniecznością posiadania odpowiedniej wiedzy i umiejętności przez członków załogi statków w zakresie żeglugi śródlądowej, sprawnym działaniem komisji egzaminacyjnych oraz rzetelnym przeprowadzaniem egzaminów. ” , uchyla się ust. 2, dodaje się ust. 3 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -943,7 +942,7 @@ source: "eli-html"
 
 - **1)** wydawania, przedłużania ważności, zawieszania i cofania unijnych świadectw kwalifikacji, żeglarskich książeczek pracy i dzienników pokładowych,
 - **2)** egzaminów i ocen przeprowadzanych przez działające przy nich komisje egzaminacyjne,
-- **3)** dokonywania oceny spełnienia wymagań, o których mowa w art. 36d ust. 4, przez egzaminatorów zapewniający, że obszary te będą funkcjonować zgodnie z przepisami ustawy.
+- **3)** dokonywania oceny spełnienia wymagań, o których mowa w art. 36d ust. 4, przez egzaminatorów – zapewniający, że obszary te będą funkcjonować zgodnie z przepisami ustawy.
 
 2. Informacje, w tym dane osobowe, dotyczące spraw związanych z utrzymaniem systemu jakości, o którym mowa w ust. 1, przechowuje się przez okres 5 lat od dnia ich wykorzystania w celu, o którym mowa w ust. 1. ” ;
 
@@ -1038,7 +1037,7 @@ source: "eli-html"
 - **3)** wyciąg pływania potwierdzony przez dyrektora urzędu żeglugi śródlądowej, będący wyciągiem z zatwierdzonych wpisów w żeglarskiej książeczce pracy lub w dokumencie będącym połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz śródlądowe drogi wodne, na których została odbyta praktyka pływania – w przypadku gdy zgodnie z ust. 1 przewidziano wymóg odbycia takiej praktyki pływania,
 - **4)** wyciąg pływania będący wyciągiem z dokumentu potwierdzającego praktykę pływania na wodach morskich potwierdzony przez właściwy organ – w przypadku gdy zgodnie z ust. 1 przewidziano wymóg odbycia takiej praktyki pływania,
 - **5)** kopię świadectwa zdrowia, o którym mowa w art. 36b ust. 2 ustawy zmienianej w art. 1, potwierdzającego stan zdrowia wymagany do pracy na statkach żeglugi śródlądowej na określonym stanowisku,
-- **6)** dokument będący połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, a w przypadku osób, które nie posiadają takiego dokumentu, wniosek o wydanie dokumentu będącego połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, o którym mowa w art. 39 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – w przypadku dokumentów, o których mowa w ust. 1 pkt 3–12 oraz przedłożyć do wglądu dokument tożsamości.
+- **6)** dokument będący połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, a w przypadku osób, które nie posiadają takiego dokumentu, wniosek o wydanie dokumentu będącego połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, o którym mowa w art. 39 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – w przypadku dokumentów, o których mowa w ust. 1 pkt 3–12 – oraz przedłożyć do wglądu dokument tożsamości.
 
 6. Wydając nowy dokument kwalifikacyjny w trybie, o którym mowa w ust. 1, właściwy dyrektor urzędu żeglugi śródlądowej unieważnia dotychczasowy dokument kwalifikacyjny przez odcięcie lewego rogu tego dokumentu i zwraca dokument jego posiadaczowi.
 
@@ -1060,5 +1059,5 @@ source: "eli-html"
 
 **Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 21 ust. 3 pkt 1 i art. 46 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 21 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, i art. 46 ustawy zmienianej w art. 1 i mogą być w tym czasie zmieniane w granicach określonych w art. 21 ust. 3 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, i art. 46 ustawy zmienianej w art. 1.
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa: 1) w zakresie swojej regulacji wdraża następujące dyrektywy: a) dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 z dnia 12 grudnia 2017 r. w sprawie uznawania kwalifikacji zawodowych w żegludze śródlądowej oraz uchylającą dyrektywy Rady 91/672/EWG i 96/50/WE (Dz. Urz. UE L 345 z 27.12.2017, str. 53, Dz. Urz. UE L 274 z 30.07.2021, str. 52 oraz Dz. Urz. UE L 30 z 11.02.2022, str. 3), b) dyrektywę delegowaną Komisji (UE) 2020/12 z dnia 2 sierpnia 2019 r. uzupełniającą dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 w odniesieniu do standardów dotyczących: kompetencji oraz odpowiadających im wiedzy i umiejętności, egzaminów praktycznych, zatwierdzania symulatorów oraz stanu zdrowia (Dz. Urz. UE L 6 z 10.01.2020, str. 15), c) dyrektywę Parlamentu Europejskiego i Rady (UE) 2021/1233 z dnia 14 lipca 2021 r. w sprawie zmiany dyrektywy (UE) 2017/2397 w odniesieniu do środków przejściowych dotyczących uznawania świadectw wydanych przez państwa trzecie (Dz. Urz. UE L 274 z 30.07.2021, str. 52); 2) służy stosowaniu: a) rozporządzenia wykonawczego Komisji (UE) 2020/182 z dnia 14 stycznia 2020 r. w sprawie wzorów stosowanych w dziedzinie kwalifikacji zawodowych w żegludze śródlądowej (Dz. Urz. UE L 38 z 11.02.2020, str. 1), b) rozporządzenia delegowanego Komisji (UE) 2020/473 z dnia 20 stycznia 2019 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 w odniesieniu do norm dotyczących baz danych na temat unijnych świadectw kwalifikacji, żeglarskich książeczek pracy i dzienników pokładowych (Dz. Urz. UE L 100 z 01.04.2020, str. 1). 2) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 274 z 30.07.2021, str. 52 oraz Dz. Urz. UE L 30 z 11.02.2022, str. 3. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234 i 1394.
 

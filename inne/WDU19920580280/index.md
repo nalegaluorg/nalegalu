@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1992-06-20 |
 | Data wydania | 1992-08-06 |
-| Wejście w życie | 1992-08-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920580280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/280/text.pdf) |
 

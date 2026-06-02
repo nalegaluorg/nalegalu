@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001955) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1955/text.pdf) |
 
-ierpnia 2023 r.
-z
+11995555 z dnia 25 sierpnia 2023 r.
+(Dz. U. poz. …) Załącznik nr 1
 2. CENTRUM KOMPETENCJI RAKA PIERSI Wymagania 1. Posiadanie w lokalizacji następujących komórek organizacyjnych: formalne 1) oddział o profilu chirurgii ogólnej lub chirurgii onkologicznej, lub ginekologii onkologicznej;
 2) oddział o profilu onkologia kliniczna / chemioterapia;
 3) blok operacyjny;
@@ -108,7 +108,9 @@ Pozostałe wymagania Centrum spełnia następujące kryteria jakości:
 4) realizacja w ostatnim roku kalendarzowym co najmniej 1 000 badań mammograficznych diagnostycznych, z czego dopuszczalne powtarzanie badania MMG ze względu na jakość do 3% badań;
 5) realizacja w ostatnim roku kalendarzowym co najmniej 100 biopsji gruboigłowych piersi pod kontrolą technik obrazowych (RM, MMG, USG);
 6) wdrożone wystandaryzowane pisemne protokoły dotyczące diagnostyki i postępowania terapeutycznego we wszystkich stadiach zaawansowania (tzw. standardowe procedury postępowania; Standard Operating Procedure).
-48 Kompleksowa opieka Warunki Do udzielenia świadczenia opieki zdrowotnej kwalifikuje onkologiczna kwalifikacji się świadczeniobiorcę z podejrzeniem lub leczonego z powodu nad pacjentem do świadczenia nowotworu złośliwego piersi w dniu kwalifikacji z rozpoznaniem z nowotworem piersi ICD-10:
+
+## Załącznik nr 2 — 48 Kompleksowa opieka onkologiczna Warunki Do udzielenia świadczenia opieki zdrowotnej kwalifikuje kwalifikacji się świadczeniobiorcę z podejrzeniem lub leczonego z powodu nad pacjentem do świadczenia nowotworu złośliwego piersi w dniu kwalifikacji z rozpoznaniem z nowotworem piersi ICD-10:
+
 1) C50 Nowotwór złośliwy piersi;
 2) C50.0 Brodawka i otoczka brodawki sutkowej;
 3) C50.1 Centralna część sutka;

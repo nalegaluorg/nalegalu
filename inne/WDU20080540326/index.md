@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 marca 2008 r. o zmianie ustawy o drogach publicznych
+# Ustawa z dnia 12 marca 2008 r. o zmianie ustawy o drogach publicznych Niniejszą ustawą dokonuje się, w zakresie jej regulacji, wdrożenia dyrektywy nr 2004/54/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie minimalnych wymagań bezpieczeństwa dla tuneli w transeuropejskiej sieci drogowej (Dz. Urz. UE L 167 z 30.04.2004, str. 39; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 309).
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-03-12 |
 | Data wydania | 2008-03-31 |
-| Wejście w życie | 2008-04-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080540326) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/326/text.pdf) |
+
+Zarządzanie tunelami położonymi w transeuropejskiej sieci drogowej
 
 **Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, Nr 23, poz. 136 i Nr 192, poz. 1381) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w pkt 25 kropkę zastępuje się średnikiem i dodaje się pkt 26 i 27 w brzmieniu: „
 - **26)** transeuropejska sieć drogowa – sieć drogową określoną w decyzji nr 1692/96 Parlamentu Europejskiego i Rady z dnia 23 lipca 1996 r. w sprawie wspólnotowych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej (Dz. Urz. WE L 228 z 09.09.1996, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 364, z późn. zm.);
-- **27)** służby ratownicze – jednostki ochrony przeciwpożarowej w rozumieniu ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2002 r. Nr 147, poz. 1229, z późn. zm.) oraz zespoły ratownictwa medycznego w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172 oraz z 2008 r. Nr 17, poz. 101). ” ;
+- **27)** służby ratownicze – jednostki ochrony przeciwpożarowej w rozumieniu ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2002 r. Nr 147, poz. 1229, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410 oraz z 2007 r. Nr 89, poz. 590.) oraz zespoły ratownictwa medycznego w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172 oraz z 2008 r. Nr 17, poz. 101). ” ;
 - **2)** uchyla się art. 9;
 - **3)** w art. 13 w ust. 3 w pkt 1 lit. a otrzymuje brzmienie: „ Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Służby Celnej, służb ratowniczych, ” ;
     - **a)**
 
 - **4)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Zarządzanie tunelami położonymi w transeuropejskiej sieci drogowej
+#### Rozdział 2a
 
 **Art. 24a.**
 
@@ -117,5 +118,5 @@ source: "eli-html"
 
 **Art. 3.** Pierwszy okres objęty sprawozdaniem, o którym mowa w art. 24g ust. 1 i 2, ustawy, o której mowa w art. 1, rozpoczyna się w dniu, w którym rozpoczęto użytkowanie pierwszego w Rzeczypospolitej Polskiej tunelu położonego w transeuropejskiej sieci drogowej.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą dokonuje się, w zakresie jej regulacji, wdrożenia dyrektywy nr 2004/54/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie minimalnych wymagań bezpieczeństwa dla tuneli w transeuropejskiej sieci drogowej (Dz. Urz. UE L 167 z 30.04.2004, str. 39; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 309). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410 oraz z 2007 r. Nr 89, poz. 590.
 

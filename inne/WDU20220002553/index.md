@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 2 marca 2009 r. w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. z 2020 r. poz. 353), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2021 r. zmieniającym rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 1504).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 1504), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 1504), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 marca 2009 r. w sprawie warunków i trybu dokonywania zamiany nieruchomości
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 marca 2009 r. w sprawie warunków i trybu dokonywania zamiany nieruchomościMinister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 Na podstawie art. 24 ust. 8 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2022 r. poz. 2329) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki i tryb zawierania umów zamiany nieruchomości, na mocy których osoby fizyczne, osoby prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej przenoszą na Skarb Państwa własność nieruchomości w zamian za przeniesienie przez Krajowy Ośrodek Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”, własności nieruchomości Zasobu Własności Rolnej Skarbu Państwa na te podmioty.
@@ -50,7 +48,7 @@ rolniku – rozumie się przez to osobę podlegającą ubezpieczeniu emerytalno-
 ustawie – rozumie się przez to ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa;
 4)
 hektarze przeliczeniowym – rozumie się przez to hektar przeliczeniowy ustalany na podstawie przepisów o podatku rolnym.
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 1504), które weszło w życie z dniem 1 września 2021 r..
 Zamianą mogą być objęte wyłącznie nieruchomości wolne od wszelkich obciążeń, z wyjątkiem służebności.
 § 4.
 1.
@@ -59,13 +57,13 @@ Krajowy Ośrodek może dokonać zamiany:
 jeżeli w jej wyniku ulegnie likwidacji gospodarstwo rolne stanowiące własność rolnika co najmniej przez 5 lat, położone na terenie województw, w których średnia powierzchnia indywidualnego gospodarstwa rolnego jest mniejsza niż 5 ha, i zostanie utworzone przez tego rolnika gospodarstwo rolne na terenie innych województw oraz nastąpi odpowiednia zmiana stałego miejsca zamieszkania rolnika;
 2)
 na wniosek rolnika, jeżeli w jej wyniku zapobiegnie się zmniejszeniu powierzchni gospodarstwa rolnego w związku z przeznaczeniem nieruchomości wchodzących w skład tego gospodarstwa na cele publiczne w rozumieniu przepisów o gospodarce nieruchomościami;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 na wniosek osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, jeżeli zamiana dotyczy przeniesienia przez ten podmiot własności nieruchomości w zamian za przeniesienie na ten podmiot przez Krajowy Ośrodek:
 a)
 własności nieruchomości wchodzącej w skład Zasobu Własności Rolnej Skarbu Państwa, która w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy jest przeznaczona na cele inne niż rolne lub w przypadku której w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym ta nieruchomość jest położona, określony został jako inny niż rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – która jest położona na terenie określonym w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy jako niezwiązany z kierunkami i zasadami kształtowania rolniczej przestrzeni produkcyjnej,
 b)
 własności innej niż określona w lit. a nieruchomości wchodzącej w skład Zasobu Własności Rolnej Skarbu Państwa, gdy jest to uzasadnione realizacją zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej oraz rozwoju obszarów wiejskich za zgodą ministra właściwego do spraw rozwoju wsi wyrażoną na wniosek Dyrektora Generalnego Krajowego Ośrodka.
-1a.
+1aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 We wniosku o wyrażenie zgody, o której mowa w ust. 1 pkt 3 lit. b, Dyrektor Generalny Krajowego Ośrodka wskazuje, w szczególności realizacją jakich zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej oraz rozwoju obszarów wiejskich jest uzasadniona zamiana nieruchomości.
 2.
 Powierzchnia gospodarstwa rolnego utworzonego w wyniku zamiany, o której mowa w ust. 1 pkt 1, nie może być mniejsza niż średnia powierzchnia indywidualnego gospodarstwa rolnego w danym województwie i nie większa niż 10-krotność tej średniej, ustalanej według danych Głównego Urzędu Statystycznego, obowiązującej w dniu zawarcia umowy zamiany.
@@ -176,6 +174,5 @@ Z przekazania nieruchomości sporządza się protokół zdawczo-odbiorczy.
 § 15.
 Traci moc rozporządzenie Ministra Skarbu Państwa z dnia 22 lutego 2000 r. w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 288).
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 1504), które weszło w życie z dniem 1 września 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 20 marca 2009 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 marca 2009 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 1504), które weszło w życie z dniem 1 września 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 20 marca 2009 r.
 

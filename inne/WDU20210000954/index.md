@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o Krajowej Administracji Skarbowej
+# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o Krajowej Administracji Skarbowej Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/880 z dnia 17 kwietnia 2019 r. w sprawie wprowadzania i przywozu dóbr kultury (Dz. Urz. UE L 151 z 07.06.2019, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-15 |
 | Data wydania | 2021-05-25 |
-| Wejście w życie | 2021-06-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000954) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/954/text.pdf) |
 
@@ -42,5 +41,5 @@ art. 108a i art. 109 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiec
 
 - **h)**
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/880 z dnia 17 kwietnia 2019 r. w sprawie wprowadzania i przywozu dóbr kultury (Dz. Urz. UE L 151 z 07.06.2019, str. 1).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 31 sierpnia 2016 r. zmieniające rozporządzenie w sprawie konkursu na stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i stanowisko dyrektora okręgowej komisji egzaminacyjnej
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 31 sierpnia 2016 r. zmieniające rozporządzenie w sprawie konkursu na stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i stanowisko dyrektora okręgowej komisji egzaminacyjnej Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-31 |
 | Data wydania | 2016-09-01 |
-| Wejście w życie | 2016-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001384) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1384/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 9d ust. 14 i 15 ustawy z dnia 7 września 1991 r. o systemie o
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 23 października 2015 r. w sprawie konkursu na stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i stanowisko dyrektora okręgowej komisji egzaminacyjnej (Dz. U. poz. 1827) w § 2 w ust. 2 w pkt 1 skreśla się wyraz „sprawdzianu,”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

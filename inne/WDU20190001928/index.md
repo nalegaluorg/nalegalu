@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-04 |
 | Data wydania | 2019-10-10 |
-| Wejście w życie | 2020-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001928) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1928/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 25 września 2014 r. w sprawi
 1)
 w pkt 7 uchyla się lit. b, c, e, g oraz i;
 2)
-po pkt 29 dodaje się pkt 29a w brzmieniu:
-„
+po pkt 29 dodaje się pkt 29a w brzmieniu: „
 29a)
 w obszarze właściwości Sądu Okręgowego w Rybniku:
 a)
@@ -46,8 +44,7 @@ Sąd Rejonowy w Rybniku – dla obszaru właściwości tego Sądu,
 d)
 Sąd Rejonowy w Wodzisławiu Śląskim – dla obszaru właściwości tego Sądu,
 e)
-Sąd Rejonowy w Żorach – dla obszaru właściwości tego Sądu;
-” .
+Sąd Rejonowy w Żorach – dla obszaru właściwości tego Sądu; ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
 

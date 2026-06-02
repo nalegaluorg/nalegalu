@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 grudnia 2024 r. o zmianie ustawy o Funduszu Ochrony Rolnictwa oraz niektórych innych ustaw
+# Ustawa z dnia 5 grudnia 2024 r. o zmianie ustawy o Funduszu Ochrony Rolnictwa oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji oraz ustawę z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-05 |
 | Data wydania | 2024-12-30 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-01-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001964) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1964/text.pdf) |
 
@@ -46,7 +45,7 @@ source: "eli-html"
 - **3)** określenie rodzaju, ilości i wartości nabytych produktów rolnych stanowiących podstawę naliczenia wpłaty na Fundusz,
 - **4)** kwotę naliczoną z tytułu wpłaty na Fundusz za dany okres,
 - **5)** numer rachunku bankowego tego podmiotu albo numer rachunku tego podmiotu prowadzonego w spółdzielczej kasie oszczędnościowo-kredytowej,
-- **6)** pouczenie, że w przypadku niewpłacenia w terminie kwoty naliczonej z tytułu wpłaty na Fundusz lub wpłacenia tej kwoty w niepełnej wysokości ta deklaracja stanowi podstawę do wystawienia tytułu wykonawczego, zgodnie z przepisami ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji w terminie do dnia 14 lutego roku następującego po roku, za który dokonuje naliczenia tych wpłat. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **6)** pouczenie, że w przypadku niewpłacenia w terminie kwoty naliczonej z tytułu wpłaty na Fundusz lub wpłacenia tej kwoty w niepełnej wysokości ta deklaracja stanowi podstawę do wystawienia tytułu wykonawczego, zgodnie z przepisami ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji – w terminie do dnia 14 lutego roku następującego po roku, za który dokonuje naliczenia tych wpłat. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **b)**
 
 1a. Jeżeli wysokość kwoty naliczonej z tytułu wpłaty na Fundusz za dany rok nie przekracza pięciokrotności kosztów upomnienia w postępowaniu egzekucyjnym w administracji, deklaracji o wysokości naliczonej wpłaty na Fundusz za dany rok nie składa się.
@@ -66,7 +65,7 @@ source: "eli-html"
 - **3)** organizacji producentów owoców i warzyw utworzonej zgodnie z przepisami ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2023 r. poz. 1318) lub zrzeszeniu organizacji producentów owoców i warzyw,
 - **4)** spółdzielni rolników utworzonej zgodnie z przepisami ustawy z dnia 4 października 2018 r. o spółdzielniach rolników (Dz. U. z 2024 r. poz. 372 i 1635) lub związkowi spółdzielni rolników,
 - **5)** rolniczej spółdzielni produkcyjnej utworzonej zgodnie z przepisami ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593),
-- **6)** rolniczemu zrzeszeniu branżowemu utworzonemu zgodnie z przepisami ustawy z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2024 r. poz. 263 i 1560) zwanym dalej „grupami”, za produkty rolne wyprodukowane przez członków grupy będących producentami rolnymi, nabyte od nich przez grupę oraz zbyte przez grupę podmiotowi skupującemu, który stał się niewypłacalny, za które grupa nie otrzymała zapłaty.
+- **6)** rolniczemu zrzeszeniu branżowemu utworzonemu zgodnie z przepisami ustawy z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2024 r. poz. 263 i 1560) – zwanym dalej „grupami”, za produkty rolne wyprodukowane przez członków grupy będących producentami rolnymi, nabyte od nich przez grupę oraz zbyte przez grupę podmiotowi skupującemu, który stał się niewypłacalny, za które grupa nie otrzymała zapłaty.
 
 2. Wysokość rekompensaty, o której mowa w ust. 1, zwanej dalej „rekompensatą”, ustala się jako iloczyn procentowej stawki ustalonej zgodnie z przepisami wydanymi na podstawie ust. 5 i kwoty wierzytelności netto za:
 
@@ -78,8 +77,9 @@ source: "eli-html"
 
 - **1)** istniejącą w dniu wydania decyzji, o której mowa w art. 12 ust. 1;
 - **2)** w przypadku której nie minął termin jej przedawnienia;
-- **3)** powstałą przed datą wystąpienia niewypłacalności podmiotu skupującego. ” , w ust. 3 w pkt 6: – uchyla się lit. a, – lit. b otrzymuje brzmienie: „ b) organ ewidencyjny wykreśli zgodnie z przepisami ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r. poz. 1841) ten podmiot będący osobą fizyczną z Centralnej Ewidencji i Informacji o Działalności Gospodarczej w wyniku zgłoszenia o zaprzestaniu wykonywania działalności gospodarczej lub w wyniku stwierdzenia trwałego zaprzestania wykonywania przez przedsiębiorcę działalności gospodarczej, i po zaprzestaniu prowadzenia przez ten podmiot działalności gospodarczej sąd upadłościowy wyda na podstawie przepisów ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe w ramach postępowania prowadzonego wobec osób nieprowadzących działalności gospodarczej, w tym według przepisów tytułu V części trzeciej tej ustawy, postanowienie o: – ogłoszeniu upadłości tego podmiotu, – oddaleniu wniosku o ogłoszenie upadłości tego podmiotu, jeżeli jego majątek nie wystarcza na zaspokojenie kosztów postępowania lub wystarcza jedynie na zaspokojenie tych kosztów, – oddaleniu wniosku o ogłoszenie upadłości w razie stwierdzenia, że majątek tego podmiotu jest obciążony hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską w takim stopniu, że pozostały jego majątek nie wystarcza na zaspokojenie kosztów postępowania, – umorzeniu postępowania upadłościowego, jeżeli majątek pozostały po wyłączeniu z niego przedmiotów majątkowych tego podmiotu obciążonych hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską nie wystarcza na zaspokojenie kosztów postępowania. ” , – uchyla się lit. c, w ust. 4: – w pkt 1 po wyrazach „lit. a” dodaje się wyrazy „oraz pkt 6 lit. b tiret pierwsze”, – w pkt 3 po wyrazach „lit. c i d” dodaje się wyrazy „oraz pkt 6 lit. b tiret drugie i trzecie”, – w pkt 4 po wyrazach „lit. e” dodaje się wyrazy „oraz pkt 6 lit. b tiret czwarte”, – uchyla się pkt 9;
+- **3)** powstałą przed datą wystąpienia niewypłacalności podmiotu skupującego. ” , w ust. 3 w pkt 6: – uchyla się lit. a, lit. b otrzymuje brzmienie: „ organ ewidencyjny wykreśli zgodnie z przepisami ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r. poz. 1841) ten podmiot będący osobą fizyczną z Centralnej Ewidencji i Informacji o Działalności Gospodarczej w wyniku zgłoszenia o zaprzestaniu wykonywania działalności gospodarczej lub w wyniku stwierdzenia trwałego zaprzestania wykonywania przez przedsiębiorcę działalności gospodarczej, i po zaprzestaniu prowadzenia przez ten podmiot działalności gospodarczej sąd upadłościowy wyda na podstawie przepisów ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe w ramach postępowania prowadzonego wobec osób nieprowadzących działalności gospodarczej, w tym według przepisów tytułu V części trzeciej tej ustawy, postanowienie o: – ogłoszeniu upadłości tego podmiotu, – oddaleniu wniosku o ogłoszenie upadłości tego podmiotu, jeżeli jego majątek nie wystarcza na zaspokojenie kosztów postępowania lub wystarcza jedynie na zaspokojenie tych kosztów, – oddaleniu wniosku o ogłoszenie upadłości w razie stwierdzenia, że majątek tego podmiotu jest obciążony hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską w takim stopniu, że pozostały jego majątek nie wystarcza na zaspokojenie kosztów postępowania, – umorzeniu postępowania upadłościowego, jeżeli majątek pozostały po wyłączeniu z niego przedmiotów majątkowych tego podmiotu obciążonych hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską nie wystarcza na zaspokojenie kosztów postępowania. ” , – uchyla się lit. c, w ust. 4: – w pkt 1 po wyrazach „lit. a” dodaje się wyrazy „oraz pkt 6 lit. b tiret pierwsze”, – w pkt 3 po wyrazach „lit. c i d” dodaje się wyrazy „oraz pkt 6 lit. b tiret drugie i trzecie”, – w pkt 4 po wyrazach „lit. e” dodaje się wyrazy „oraz pkt 6 lit. b tiret czwarte”, – uchyla się pkt 9;
     - **c)**
+    - **b)**
     - **d)**
 
 - **6)** w art. 11: w ust. 1 po wyrazach „producentów rolnych” dodaje się wyrazy „i grup”, uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
@@ -87,9 +87,10 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-3. Podmiot skupujący, syndyk albo inna osoba sprawująca zarząd nad majątkiem tego podmiotu informują producentów rolnych i grupy ujętych w wykazie, o którym mowa w ust. 1, o przekazaniu tego wykazu Dyrektorowi Generalnemu Krajowego Ośrodka w terminie miesiąca od dnia jego przekazania. ” , w ust. 5: – we wprowadzeniu do wyliczenia po wyrazach „na terytorium Rzeczypospolitej Polskiej” dodaje się wyrazy „(Dz. U. z 2022 r. poz. 470 oraz z 2024 r. poz. 1222)”, – pkt 2 otrzymuje brzmienie: „ 2) informuje producenta rolnego i grupę, którzy nie otrzymali zapłaty za zbyte produkty rolne, o przekazaniu dokumentów, o których mowa w pkt 1. ” ;
+3. Podmiot skupujący, syndyk albo inna osoba sprawująca zarząd nad majątkiem tego podmiotu informują producentów rolnych i grupy ujętych w wykazie, o którym mowa w ust. 1, o przekazaniu tego wykazu Dyrektorowi Generalnemu Krajowego Ośrodka w terminie miesiąca od dnia jego przekazania. ” , w ust. 5: – we wprowadzeniu do wyliczenia po wyrazach „na terytorium Rzeczypospolitej Polskiej” dodaje się wyrazy „(Dz. U. z 2022 r. poz. 470 oraz z 2024 r. poz. 1222)”, pkt 2 otrzymuje brzmienie: „
 
 - **d)**
+- **2)** informuje producenta rolnego i grupę, którzy nie otrzymali zapłaty za zbyte produkty rolne, o przekazaniu dokumentów, o których mowa w pkt 1. ” ;
 - **7)** w art. 12: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -97,11 +98,20 @@ source: "eli-html"
 
 - **b)**
 
-1a. Rekompensata stanowi pomoc de minimis w rolnictwie i jest przyznawana zgodnie z przepisami rozporządzenia Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9, z późn. zm.) oraz zgodnie z przepisami o postępowaniu w sprawach dotyczących pomocy publicznej. ” , w ust. 2 we wprowadzeniu do wyliczenia po wyrazach „producenta rolnego” dodaje się wyrazy „albo grupy”, w ust. 3: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) NIP oraz numer identyfikacyjny REGON grupy lub – w przypadku grupy wpisanej do Krajowego Rejestru Sądowego – numer w Krajowym Rejestrze Sądowym; ” , – pkt 3–6 otrzymują brzmienie: „ 3) kwotę wierzytelności netto za produkty rolne zbyte podmiotowi skupującemu, który stał się niewypłacalny, za które producent rolny albo grupa nie otrzymali zapłaty; 4) dane podmiotu skupującego, który stał się niewypłacalny, od którego producent rolny albo grupa nie otrzymali zapłaty za zbyte produkty rolne; 5) wykaz: a) faktur VAT i faktur VAT RR z wyszczególnieniem produktów rolnych, za które producent rolny nie otrzymał zapłaty, b) faktur VAT z wyszczególnieniem produktów rolnych, za które grupa nie otrzymała zapłaty; 6) numer rachunku bankowego producenta rolnego albo grupy albo numer rachunku producenta rolnego albo grupy prowadzonego w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać dokonana wypłata rekompensaty; ” , – dodaje się pkt 7 w brzmieniu: „ 7) oświadczenie o prawdziwości danych i oświadczeń zawartych we wniosku i w załącznikach dołączonych do tego wniosku. ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+1a. Rekompensata stanowi pomoc de minimis w rolnictwie i jest przyznawana zgodnie z przepisami rozporządzenia Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 51I z 22.02.2019, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 55 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023. oraz zgodnie z przepisami o postępowaniu w sprawach dotyczących pomocy publicznej. ” , w ust. 2 we wprowadzeniu do wyliczenia po wyrazach „producenta rolnego” dodaje się wyrazy „albo grupy”, w ust. 3: po pkt 2 dodaje się pkt 2a w brzmieniu: „
 
 - **c)**
 - **d)**
-- **e)**
+- **2a)** NIP oraz numer identyfikacyjny REGON grupy lub – w przypadku grupy wpisanej do Krajowego Rejestru Sądowego – numer w Krajowym Rejestrze Sądowym; ” , pkt 3–6 otrzymują brzmienie: „
+- **3)** kwotę wierzytelności netto za produkty rolne zbyte podmiotowi skupującemu, który stał się niewypłacalny, za które producent rolny albo grupa nie otrzymali zapłaty;
+- **4)** dane podmiotu skupującego, który stał się niewypłacalny, od którego producent rolny albo grupa nie otrzymali zapłaty za zbyte produkty rolne;
+- **5)** wykaz: faktur VAT i faktur VAT RR z wyszczególnieniem produktów rolnych, za które producent rolny nie otrzymał zapłaty, faktur VAT z wyszczególnieniem produktów rolnych, za które grupa nie otrzymała zapłaty;
+    - **a)**
+    - **b)**
+
+- **6)** numer rachunku bankowego producenta rolnego albo grupy albo numer rachunku producenta rolnego albo grupy prowadzonego w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać dokonana wypłata rekompensaty; ” , dodaje się pkt 7 w brzmieniu: „
+- **7)** oświadczenie o prawdziwości danych i oświadczeń zawartych we wniosku i w załącznikach dołączonych do tego wniosku. ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+    - **e)**
 
 3a. Do wniosku o przyznanie rekompensaty dołącza się:
 
@@ -141,7 +151,7 @@ source: "eli-html"
 - **2)** nie przekazuje wykazu, o którym mowa w art. 11 ust. 1, albo nie przekazuje tego wykazu w terminie określonym w tym przepisie – podlega karze pieniężnej w wysokości 60 zł za każdy dzień opóźnienia, ale nie wyższej niż 10 000 zł;
 - **3)** nie informuje producentów rolnych lub grup ujętych w wykazie, o którym mowa w art. 11 ust. 1, o przekazaniu tego wykazu w terminie określonym w art. 11 ust. 3 – podlega karze pieniężnej w wysokości 60 zł za każdy dzień opóźnienia, ale nie wyższej niż 10 000 zł. ” .
 
-**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm.) w art. 3a w § 1 w pkt 15 oraz w § 2 w pkt 1 skreśla się wyraz „kwartalnej”.
+**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 2760 oraz z 2024 r. poz. 858, 859, 1222, 1473, 1572 i 1615.) w art. 3a w § 1 w pkt 15 oraz w § 2 w pkt 1 skreśla się wyraz „kwartalnej”.
 
 **Art. 3.** W ustawie z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2024 r. poz. 700) w art. 9 w ust. 2 w pkt 26 kropkę zastępuje się średnikiem i dodaje się pkt 27 w brzmieniu: „
 
@@ -155,5 +165,5 @@ source: "eli-html"
 
 **Art. 5.** Do przyznawania i wypłaty rekompensaty, o której mowa w art. 10 ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, za produkty rolne określone w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej zbyte przed dniem wejścia w życie niniejszej ustawy oraz do sporządzania i przekazywania dodatkowego wykazu, o którym mowa w art. 11 ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, dotyczącego producentów rolnych w rozumieniu art. 3 pkt 3 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2023 r. poz. 885), którym przysługuje wierzytelność z tytułu zbycia tych produktów rolnych, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji oraz ustawę z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 51I z 22.02.2019, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 55 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 2760 oraz z 2024 r. poz. 858, 859, 1222, 1473, 1572 i 1615.
 

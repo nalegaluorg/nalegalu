@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-03-05 |
 | Data wydania | 2009-04-08 |
-| Wejście w życie | 2009-04-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090570466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/466/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97 i Nr 44, poz. 362.) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 3c;
 - **2)** w art. 80a: § 1 otrzymuje brzmienie: „
@@ -42,7 +41,7 @@ source: "eli-html"
 
 § 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór pełnomocnictwa do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej oraz wzór zawiadomienia o odwołaniu tego pełnomocnictwa, uwzględniając zakres pełnomocnictwa i dane identyfikujące podatnika, płatnika lub inkasenta oraz pełnomocnika. ” .
 
-**Art. 2.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.) w załączniku do ustawy w części IV w kolumnie 4 dodaje się pkt 5 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883, z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394, Nr 182, poz. 1121, Nr 195, poz. 1198, Nr 216, poz. 1367 i Nr 220, poz. 1414 oraz z 2009 r. Nr 6, poz. 33 i Nr 22, poz. 120.) w załączniku do ustawy w części IV w kolumnie 4 dodaje się pkt 5 w brzmieniu: „
 
 - **5)** jeżeli dotyczy podpisywania deklaracji podatkowych składanych za pomocą środków komunikacji elektronicznej ” .
 
@@ -52,5 +51,5 @@ source: "eli-html"
 
 2. Podatnicy i płatnicy posiadający potwierdzenie zgodności danych zawartych w zawiadomieniu z danymi zawartymi w zgłoszeniu, o którym mowa w art. 3c § 3 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, mogą składać za pomocą środków komunikacji elektronicznej deklaracje podpisane przez pełnomocnika bez konieczności składania pełnomocnictwa, o którym mowa w art. 80a § 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97 i Nr 44, poz. 362. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883, z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394, Nr 182, poz. 1121, Nr 195, poz. 1198, Nr 216, poz. 1367 i Nr 220, poz. 1414 oraz z 2009 r. Nr 6, poz. 33 i Nr 22, poz. 120.
 

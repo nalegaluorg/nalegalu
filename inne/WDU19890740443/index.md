@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1989-12-28 |
 | Data wydania | 1989-12-30 |
-| Wejście w życie | 1990-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890740443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/443/text.pdf) |
 
@@ -43,8 +42,10 @@ source: "eli-html"
 
 **Art. 8.** Wolne od podatku dochodowego są dochody osób, o których mowa w art. 2, w wysokości 3.600.000 zł rocznie. ” ;
 
-- **4)** w art. 9: w ust. 1: – pkt 2 skreśla się, – w pkt 12 na końcu skreśla się przecinek oraz dodaje wyrazy „i obligacji,” – w pkt 19 lit. a) wyraz „dziesięciu” zastępuje się wyrazem „pięciu”, – w pkt 21 po wyrazie „spółce” dodaje się wyrazy „będącej osobą prawną i” oraz skreśla się wyrazy „inwestycje związane z działalnością gospodarczą”, – dodaje się pkt 22 w brzmieniu: „ 22) przychody ze sprzedaży akcji i obligacji ” , ust. 2 i 3 skreśla się;
+- **4)** w art. 9: w ust. 1: – pkt 2 skreśla się, – w pkt 12 na końcu skreśla się przecinek oraz dodaje wyrazy „i obligacji,” – w pkt 19 lit. a) wyraz „dziesięciu” zastępuje się wyrazem „pięciu”, – w pkt 21 po wyrazie „spółce” dodaje się wyrazy „będącej osobą prawną i” oraz skreśla się wyrazy „inwestycje związane z działalnością gospodarczą”, dodaje się pkt 22 w brzmieniu: „
     - **a)**
+
+- **22)** przychody ze sprzedaży akcji i obligacji ” , ust. 2 i 3 skreśla się;
     - **b)**
 
 - **5)** art. 12 i 13 otrzymują brzmienie: „
@@ -274,8 +275,11 @@ source: "eli-html"
     - **b)**
 
 - **3)** nabycie w drodze darowizny pieniędzy lub innych rzeczy przez osobę zaliczoną do I grupy podatkowej w wysokości nie przekraczającej 5.000.000 zł od jednego darczyńcy, a od wielu darczyńców łącznie nie więcej niż 10.000.000 zł w okresie 5 lat od daty pierwszej darowizny, jeżeli pieniądze te lub rzeczy obdarowany przeznaczy na wkład budowlany lub mieszkaniowy do spółdzielni, budowę lokalu w małym domu mieszkalnym, budowę domu jednorodzinnego albo nabycie od Państwa lokalu mieszkalnego, stanowiącego odrębną nieruchomość. ” ;
-- **4)** w art. 4: w ust. 1: – pkt 7 skreśla się, – w pkt 9 lit. a) wyrazy „I, II i III” zastępuje się wyrazami „I i II”, – pkt 10 i 11 otrzymują brzmienie: „ 10) nabycie przez osobę zaliczoną do I grupy podatkowej w drodze spadku lub darowizny zakładu wytwórczego, budowlanego, handlowego lub usługowego, pod warunkiem że zakład ten będzie prowadzony przez tę osobę nadal przez okres co najmniej 5 lat od dnia przyjęcia spadku albo darowizny; niedotrzymanie tego warunku powoduje utratę zwolnienia od podatku, z wyjątkiem wypadków niemożności dalszego prowadzenia tej działalności na skutek zdarzeń losowych; w wypadkach tych podatek obniża się proporcjonalnie do okresu prowadzenia działalności przez spadkobiercę lub obdarowanego, 11) nabycie przez osobę prowadzącą działalność gospodarczą w drodze darowizny maszyn, urządzeń i narzędzi otrzymanych z zagranicy, pod warunkiem, że otrzymane maszyny, urządzenia i narzędzia zainstaluje w prowadzonym przez siebie zakładzie i w ciągu 3 lat od dnia przyjęcia darowizny nie sprzeda ich lub nie przekaże bezpłatnie osobom trzecim; niedotrzymanie tego warunku powoduje utratę zwolnienia, ” , – pkt 13 skreśla się, w ust. 2 wyrazy „złożą urzędowi skarbowemu oświadczenie, iż” skreśla się, w ust. 3 wyrazy „10–13” zastępuje się wyrazami „10–12”, w ust. 4 wyrazy „albo siedzibę” skreśla się, ust. 5 i 6 skreśla się;
+- **4)** w art. 4: w ust. 1: – pkt 7 skreśla się, – w pkt 9 lit. a) wyrazy „I, II i III” zastępuje się wyrazami „I i II”, pkt 10 i 11 otrzymują brzmienie: „
     - **a)**
+
+- **10)** nabycie przez osobę zaliczoną do I grupy podatkowej w drodze spadku lub darowizny zakładu wytwórczego, budowlanego, handlowego lub usługowego, pod warunkiem że zakład ten będzie prowadzony przez tę osobę nadal przez okres co najmniej 5 lat od dnia przyjęcia spadku albo darowizny; niedotrzymanie tego warunku powoduje utratę zwolnienia od podatku, z wyjątkiem wypadków niemożności dalszego prowadzenia tej działalności na skutek zdarzeń losowych; w wypadkach tych podatek obniża się proporcjonalnie do okresu prowadzenia działalności przez spadkobiercę lub obdarowanego,
+- **11)** nabycie przez osobę prowadzącą działalność gospodarczą w drodze darowizny maszyn, urządzeń i narzędzi otrzymanych z zagranicy, pod warunkiem, że otrzymane maszyny, urządzenia i narzędzia zainstaluje w prowadzonym przez siebie zakładzie i w ciągu 3 lat od dnia przyjęcia darowizny nie sprzeda ich lub nie przekaże bezpłatnie osobom trzecim; niedotrzymanie tego warunku powoduje utratę zwolnienia, ” , – pkt 13 skreśla się, w ust. 2 wyrazy „złożą urzędowi skarbowemu oświadczenie, iż” skreśla się, w ust. 3 wyrazy „10–13” zastępuje się wyrazami „10–12”, w ust. 4 wyrazy „albo siedzibę” skreśla się, ust. 5 i 6 skreśla się;
     - **b)**
     - **c)**
     - **d)**
@@ -309,8 +313,10 @@ source: "eli-html"
 1. Podatek oblicza się od nadwyżki podstawy opodatkowania ponad kwotę wolną od podatku według następujących skal: kwoty nadwyżki w zł podatek wynosi ponad do 1) od nabywców zaliczonych do I grupy podatkowej: 3.400.000 5% od nadwyżki 3.400.000 – 6.800.000 170.000 zł i 7% od nadwyżki ponad 3.400.000 zł 6.800.000 – 10.200.000 408.000 zł i 9% od nadwyżki ponad 6.800.000 zł 10.200.000 – 13.600.000 714.000 zł i 11% od nadwyżki ponad 10.200.000 zł 13.600.000 – 17.000.000 1.088.000 zł i 13% od nadwyżki ponad 13.600.000 zł 17.000.000 – 20.400.000 1.530.000 zł i 15% od nadwyżki ponad 17.000.000 zł 20.400.000 – 23.800.000 2.040.000 zł i 17% od nadwyżki ponad 20.400.000 zł 23.800.000 2.618.000 zł i 19% od nadwyżki ponad 23.800.000 zł 2) od nabywców zaliczonych do II grupy podatkowej: 3.400.000 11% od nadwyżki 3.400.000 – 6.800.000 374.000 zł i 14% od nadwyżki ponad 3.400.000 zł 6.800.000 – 10.200.000 850.000 zł i 17% od nadwyżki ponad 6.800.000 zł 10.200.000 – 13.600.000 1.428.000 zł i 20% od nadwyżki ponad 10.200.000 zł 13.600.000 – 17.000.000 2.108.000 zł i 23% od nadwyżki ponad 13.600.000 zł 17.000.000 – 20.400.000 2.890.000 zł i 26% od nadwyżki ponad 17.000.000 zł 20.400.000 – 23.800.000 3.774.000 zł i 29% od nadwyżki ponad 20.400.000 zł 23.800.000 4.760.000 zł i 32% od nadwyżki ponad 23.800.000 zł 3) od nabywców zaliczonych do III grupy podatkowej: 3.400.000 17% od nadwyżki 3.400.000 – 6.800.000 578.000 zł i 21% od nadwyżki ponad 3.400.000 zł 6.800.000 – 10.200.000 1.292.000 zł i 25% od nadwyżki ponad 6.800.000 zł 10.200.000 – 13.600.000 2.142.000 zł i 29% od nadwyżki ponad 10.200.000 zł 13.600.000 – 17.000.000 3.128.000 zł i 33% od nadwyżki ponad 13.600.000 zł 17.000.000 – 20.400.000 4.250.000 zł i 37% od nadwyżki ponad 17.000.000 zł 20.400.000 – 23.800.000 5.508.000 zł i 41% od nadwyżki ponad 20.400.000 zł 23.800.000 6.902.000 zł i 45% od nadwyżki ponad 23.800.000 zł, nie więcej jednak niż 40% podstawy obliczenia”, w ust. 2 wyrazy „20%” zastępuje się wyrazami „12%”;
 
 - **b)**
-- **10)** w art. 16: w ust. 1: – w pkt 1 kwotę „900.000 zł” zastępuje się kwotą „15.000.000 zł”, – w pkt 2 kwotę „600.000 zł” zastępuje się kwotą „10.000.000 zł”, – pkt 3 otrzymuje brzmienie: „ 3) nabytego w drodze spadku przez osoby zaliczone do III grupy podatkowej, sprawujące przez co najmniej 2 lata opiekę nad wymagającym takiej opieki spadkodawcą na podstawie umowy zawartej z nim przed terenowym organem administracji państwowej o właściwości ogólnej stopnia podstawowego i za zgodą tego organu – do łącznej wysokości 10.000.000 zł ” , – pkt 4 skreśla się, w ust. 2 wyrazy „i złożą oświadczenie, że co najmniej przez 5 lat od daty powstania obowiązku podatkowego będą zamieszkiwać w nabytym budynku lub lokalu, oraz” zastępuje się wyrazami „oraz co najmniej przez 5 lat od daty powstania obowiązku podatkowego będą zamieszkiwać w nabytym budynku lub lokalu i”, w ust. 3 po wyrazach „ust. 2” dodaje się wyrazy „albo niezachowania warunku zamieszkiwania w nim w okresie przewidzianym w tym przepisie,”;
+- **10)** w art. 16: w ust. 1: – w pkt 1 kwotę „900.000 zł” zastępuje się kwotą „15.000.000 zł”, – w pkt 2 kwotę „600.000 zł” zastępuje się kwotą „10.000.000 zł”, pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** nabytego w drodze spadku przez osoby zaliczone do III grupy podatkowej, sprawujące przez co najmniej 2 lata opiekę nad wymagającym takiej opieki spadkodawcą na podstawie umowy zawartej z nim przed terenowym organem administracji państwowej o właściwości ogólnej stopnia podstawowego i za zgodą tego organu – do łącznej wysokości 10.000.000 zł ” , – pkt 4 skreśla się, w ust. 2 wyrazy „i złożą oświadczenie, że co najmniej przez 5 lat od daty powstania obowiązku podatkowego będą zamieszkiwać w nabytym budynku lub lokalu, oraz” zastępuje się wyrazami „oraz co najmniej przez 5 lat od daty powstania obowiązku podatkowego będą zamieszkiwać w nabytym budynku lub lokalu i”, w ust. 3 po wyrazach „ust. 2” dodaje się wyrazy „albo niezachowania warunku zamieszkiwania w nim w okresie przewidzianym w tym przepisie,”;
     - **b)**
     - **c)**
 
@@ -445,7 +451,7 @@ source: "eli-html"
 1. Przy opodatkowaniu gospodarstw rolnych:
 
 - **1)** żołnierzy odbywających zasadniczą służbę wojskową lub długotrwałe przeszkolenie wojskowe,
-- **2)** osób spełniających zastępczo obowiązek służby wojskowej w formie skoszarowanej prowadzących te gospodarstwa bezpośrednio przed powołaniem do służby, stosuje się ulgę w podatku rolnym od gruntów w wysokości 60%.
+- **2)** osób spełniających zastępczo obowiązek służby wojskowej w formie skoszarowanej – prowadzących te gospodarstwa bezpośrednio przed powołaniem do służby, stosuje się ulgę w podatku rolnym od gruntów w wysokości 60%.
 
 2. Przy opodatkowaniu gospodarstw rolnych członków rodzin osób wymienionych w ust. 1 pkt 1 i 2, które bezpośrednio przed powołaniem do służby pracowały w tych gospodarstwach, stosuje się ulgę w podatku rolnym od gruntów w wysokości 40%.
 

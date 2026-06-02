@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-10 |
 | Data wydania | 2019-12-16 |
-| Wejście w życie | 2020-01-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002411) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2411/text.pdf) |
 
@@ -160,5 +159,5 @@ Działalnością WDT kieruje Szef WDT, który swoje zadania wykonuje przy pomocy
 2.
 Szef WDT ustala dla inspektorów WDT numery identyfikacyjne i wydaje im upoważnienia do wykonywania czynności dozoru technicznego.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 2 stycznia 2020 r.
+Rozporządzenie wchodzi w życie z dniem 2 stycznia 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 6 maja 2013 r. w sprawie szczegółowego zakresu działania oraz organizacji Wojskowego Dozoru Technicznego (Dz. U. poz. 651 oraz z 2016 r. poz. 641), które na mocy art. 8 ust. 2 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o dozorze technicznym (Dz. U. poz. 2518) traci moc z dniem 2 stycznia 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 6 maja 2013 r. w sprawie szczegółowego zakresu działania oraz organizacji Wojskowego Dozoru Technicznego (Dz. U. poz. 651 oraz z 2016 r. poz. 641), które na mocy art. 8 ust. 2 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o dozorze technicznym (Dz. U. poz. 2518) traci moc z dniem 2 stycznia 2020 r.
 

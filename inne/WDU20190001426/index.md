@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 16 lipca 2019 r. w sprawie przyznawania i wypłacania funkcjonariuszom Służby Celno-Skarbowej równoważnika pieniężnego za brak lokalu mieszkalnego albo tymczasowej kwatery
+# Rozporządzenie Ministra Finansówz dnia 16 lipca 2019 r. w sprawie przyznawania i wypłacania funkcjonariuszom Służby Celno-Skarbowej równoważnika pieniężnego za brak lokalu mieszkalnego albo tymczasowej kwatery Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-16 |
 | Data wydania | 2019-07-31 |
-| Wejście w życie | 2019-08-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001426) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1426/text.pdf) |
 
@@ -71,6 +70,5 @@ Oświadczenia mieszkaniowe złożone zgodnie z przepisami dotychczasowymi uznaje
 § 8.
 Wypłata równoważnika pieniężnego za miesiąc poprzedzający miesiąc, w którym rozporządzenie wejdzie w życie, następuje w terminie 14 dni od dnia wejścia w życie rozporządzenia.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Zakres spraw regulowany niniejszym rozporządzeniem był poprzednio uregulowany rozporządzeniem Ministra Finansów z dnia 23 lutego 2018 r. w sprawie wysokości oraz warunków przyznawania i wypłacania funkcjonariuszom Służby Celno-Skarbowej równoważnika pieniężnego za brak lokalu mieszkalnego albo tymczasowej kwatery (Dz. U. poz. 439), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Zakres spraw regulowany niniejszym rozporządzeniem był poprzednio uregulowany rozporządzeniem Ministra Finansów z dnia 23 lutego 2018 r. w sprawie wysokości oraz warunków przyznawania i wypłacania funkcjonariuszom Służby Celno-Skarbowej równoważnika pieniężnego za brak lokalu mieszkalnego albo tymczasowej kwatery (Dz. U. poz. 439), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Zakres spraw regulowany niniejszym rozporządzeniem był poprzednio uregulowany rozporządzeniem Ministra Finansów z dnia 23 lutego 2018 r. w sprawie wysokości oraz warunków przyznawania i wypłacania funkcjonariuszom Służby Celno-Skarbowej równoważnika pieniężnego za brak lokalu mieszkalnego albo tymczasowej kwatery (Dz. U. poz. 439), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 

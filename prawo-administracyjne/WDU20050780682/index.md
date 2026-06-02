@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-03-11 |
 | Data wydania | 2005-05-06 |
-| Wejście w życie | 2005-06-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050780682) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/682/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.) art. 44 i 45 otrzymują brzmienie: „
+**Art. 1.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692 oraz z 2005 r. Nr 64, poz. 565.) art. 44 i 45 otrzymują brzmienie: „
 
 **Art. 44.**
 
@@ -43,5 +42,5 @@ source: "eli-html"
 
 **Art. 45.** Jednostkom organizacyjnym i organizacjom społecznym doręcza się pisma w lokalu ich siedziby do rąk osób uprawnionych do odbioru pism. Przepis art. 44 stosuje się odpowiednio. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692 oraz z 2005 r. Nr 64, poz. 565.
 

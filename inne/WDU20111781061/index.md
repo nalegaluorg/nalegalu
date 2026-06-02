@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-15 |
 | Data wydania | 2011-08-29 |
-| Wejście w życie | 2011-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111781061) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1061/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 219, poz. 1706, z 2010 r. Nr 96, poz. 620, Nr 108, poz. 685, Nr 152, poz. 1020, Nr 161, poz. 1078, Nr 226, poz. 1475 i Nr 238, poz. 1578 oraz z 2011 r. Nr 171, poz. 1016.) wprowadza się następujące zmiany:
 
 - **1)** art. 91 otrzymuje brzmienie: „
 
 **Art. 91.** Państwowe fundusze celowe posiadające osobowość prawną:
 
 - **1)** Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o którym mowa w ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721 i Nr 171, poz. 1016) z dniem 1 stycznia 2015 r.,
-- **2)** Fundusz Gwarantowanych Świadczeń Pracowniczych, o którym mowa w ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121, z późn. zm.) z dniem 1 stycznia 2012 r. stają się państwowymi funduszami celowymi w rozumieniu ustawy, o której mowa w art. 1. ” ;
+- **2)** Fundusz Gwarantowanych Świadczeń Pracowniczych, o którym mowa w ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 125, poz. 1035 i Nr 157, poz. 1241, z 2010 r. Nr 18, poz. 100 i Nr 257, poz. 1726 oraz z 2011 r. Nr 112, poz. 654.) z dniem 1 stycznia 2012 r. – stają się państwowymi funduszami celowymi w rozumieniu ustawy, o której mowa w art. 1. ” ;
 - **2)** w art. 98 ust. 1–9 otrzymują brzmienie: „
 
 **Art. 98.**
@@ -73,5 +72,5 @@ source: "eli-html"
 
 - **6)** art. 33, który wchodzi w życie z dniem 1 stycznia 2015 r. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 219, poz. 1706, z 2010 r. Nr 96, poz. 620, Nr 108, poz. 685, Nr 152, poz. 1020, Nr 161, poz. 1078, Nr 226, poz. 1475 i Nr 238, poz. 1578 oraz z 2011 r. Nr 171, poz. 1016. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 125, poz. 1035 i Nr 157, poz. 1241, z 2010 r. Nr 18, poz. 100 i Nr 257, poz. 1726 oraz z 2011 r. Nr 112, poz. 654.
 

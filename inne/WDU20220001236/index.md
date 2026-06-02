@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 8 czerwca 2022 r. w sprawie szczegółowego trybu prowadzenia mediacji, postępowania wyjaśniającego i postępowania dyscyplinarnego w sprawach odpowiedzialności dyscyplinarnej nauczycieli akademickich, a także sposobu wykonywania kar dyscyplinarnych i ich zatarcia
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 8 czerwca 2022 r. w sprawie szczegółowego trybu prowadzenia mediacji, postępowania wyjaśniającego i postępowania dyscyplinarnego w sprawach odpowiedzialności dyscyplinarnej nauczycieli akademickich, a także sposobu wykonywania kar dyscyplinarnych i ich zatarcia Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-08 |
 | Data wydania | 2022-06-10 |
-| Wejście w życie | 2022-06-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1236/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie wyjaśniające Rozdział 3 – Postępowanie dyscyplinarne w pierwszej instancji Rozdział 4 – Postępowanie dyscyplinarne w drugiej instancji Rozdział 5 – Mediacja Rozdział 6 – Wykonywanie i zatarcie kar dyscyplinarnych Rozdział 7 – Wznowienie postępowania dyscyplinarnego Rozdział 8 – Przepis przejściowy i przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 306 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 306 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079 i 1117.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -126,6 +126,7 @@ osoby, której czynu dotyczy zawiadomienie lub informacja;
 osoby, której czynu dotyczy postępowanie wyjaśniające;
 3)
 obwinionego.
+Postępowanie wyjaśniające
 § 6.
 1.
 Rzecznik dyscyplinarny rozpoczyna prowadzenie sprawy:
@@ -300,6 +301,7 @@ Do wniosku, o którym mowa w ust. 1, dołącza się, do wiadomości komisji dysc
 Wraz z wnioskiem, o którym mowa w ust. 1, rzecznik dyscyplinarny przekazuje komisji uczelnianej albo komisji przy Radzie dokumentację postępowania wyjaśniającego.
 § 17.
 Rzecznik dyscyplinarny niezwłocznie informuje organ, który go powołał, zawiadamiającego i osobę, której czynu dotyczyło postępowanie wyjaśniające, o skierowaniu wniosku o wszczęcie postępowania dyscyplinarnego do komisji dyscyplinarnej.
+Postępowanie dyscyplinarne w pierwszej instancji
 § 18.
 1.
 Przewodniczący komisji dyscyplinarnej kieruje jej pracami i czuwa nad sprawnym i prawidłowym przebiegiem postępowania dyscyplinarnego.
@@ -424,8 +426,7 @@ W przypadku nieobecności:
 1)
 świadka, którego przesłuchanie skład orzekający uzna za niezbędne,
 2)
-biegłego, którego wysłuchanie skład orzekający uzna za niezbędne
-przewodniczący składu orzekającego może odroczyć rozprawę i ustalić jej nowy termin.
+biegłego, którego wysłuchanie skład orzekający uzna za niezbędne – przewodniczący składu orzekającego może odroczyć rozprawę i ustalić jej nowy termin.
 5.
 Przesłuchanie świadka lub biegłego może nastąpić osobiście lub przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku.
 6.
@@ -508,6 +509,7 @@ pouczenie o trybie i terminie wniesienia odwołania.
 Uzasadnienie orzeczenia określa podstawy prawne i faktyczne orzeczenia, zawiera wskazanie, jakie fakty skład orzekający uznał za udowodnione, a jakie za nieudowodnione, na jakich dowodach się oparł i dlaczego nie dał wiary dowodom przeciwnym oraz przytoczenie okoliczności, które skład orzekający uwzględnił przy wymierzaniu kary dyscyplinarnej.
 4.
 Sentencję i uzasadnienie orzeczenia podpisują wszyscy członkowie składu orzekającego. Członek składu orzekającego, podpisując orzeczenie, może złożyć zdanie odrębne wraz z uzasadnieniem.
+Postępowanie dyscyplinarne w drugiej instancji
 § 42.
 1.
 Odwołanie od orzeczenia komisji uczelnianej albo komisji przy Radzie składa się w dwóch egzemplarzach do komisji przy ministrze za pośrednictwem komisji dyscyplinarnej, która wydała orzeczenie, w terminie 14 dni od dnia doręczenia orzeczenia wraz z uzasadnieniem.
@@ -579,6 +581,7 @@ Komisja przy ministrze może zaostrzyć karę orzeczoną przez komisję dyscypli
 Organowi, który powołał rzecznika dyscyplinarnego, jest przekazywana cała dokumentacja postępowania wyjaśniającego i postępowania dyscyplinarnego wraz z orzeczeniem komisji przy ministrze.
 § 47.
 Do postępowania przed komisją przy ministrze stosuje się odpowiednio przepisy § 18, § 19, § 25–28, § 30, § 33, § 34 i § 36–41.
+Mediacja
 § 48.
 1.
 Sprawę z zakresu odpowiedzialności dyscyplinarnej nauczycieli akademickich, w zależności od stadium postępowania, może skierować do mediacji:
@@ -655,6 +658,7 @@ Do sprawozdania dołącza się ugodę podpisaną przez strony mediacji i mediato
 Mediację przeprowadza się w terminie określonym przez rektora, rzecznika dyscyplinarnego albo komisję dyscyplinarną przy skierowaniu sprawy do mediacji.
 2.
 W uzasadnionych przypadkach, na wniosek mediatora, termin, o którym mowa w ust. 1, może zostać przedłużony o czas niezbędny do zakończenia mediacji.
+Wykonywanie i zatarcie kar dyscyplinarnych
 § 54.
 1.
 Rektor, niezwłocznie po otrzymaniu prawomocnego orzeczenia komisji dyscyplinarnej, zarządza wykonanie orzeczonej kary dyscyplinarnej i umieszczenie orzeczenia w aktach osobowych nauczyciela akademickiego oraz informuje o tym ministra lub ministra nadzorującego.
@@ -667,6 +671,7 @@ Informację o ustaniu stosunku pracy w związku z ukaraniem karą, o której mow
 Rektor dokonuje czynności związanych z zatarciem kary dyscyplinarnej przez usunięcie z akt osobowych nauczyciela akademickiego informacji o karze oraz zniszczenie dokumentacji postępowania wyjaśniającego i postępowania dyscyplinarnego.
 2.
 W przypadku kary dyscyplinarnej orzeczonej wobec rektora, czynności, o których mowa w ust. 1, dokonuje osoba wyznaczona w uczelni do jego zastępowania.
+Wznowienie postępowania dyscyplinarnego
 § 57.
 1.
 Wniosek o wznowienie postępowania dyscyplinarnego składa się do komisji dyscyplinarnej, która wydała prawomocne orzeczenie w sprawie.
@@ -689,25 +694,41 @@ komisja przy ministrze uchyla prawomocne orzeczenie i przekazuje sprawę do pono
 W przypadku ponownego rozpatrywania sprawy przez komisję uczelnianą albo komisję przy Radzie do składu orzekającego nie mogą zostać wyznaczeni członkowie komisji, którzy uprzednio orzekali w sprawie.
 3.
 We wznowionym postępowaniu dyscyplinarnym nie można wydać orzeczenia na niekorzyść obwinionego, jeżeli wniosek o wznowienie postępowania dyscyplinarnego złożono na jego korzyść.
+Przepis przejściowy i przepis końcowy
 § 59.
 Do postępowań w sprawie odpowiedzialności dyscyplinarnej nauczycieli akademickich wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy tego rozporządzenia.
 § 60.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079 i 1117. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 25 września 2018 r. w sprawie szczegółowego trybu prowadzenia mediacji, postępowania wyjaśniającego i postępowania dyscyplinarnego w sprawach odpowiedzialności dyscyplinarnej nauczycieli akademickich, a także sposobu wykonywania kar dyscyplinarnych i ich zatarcia (Dz. U. poz. 1843), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 1 października 2021 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz ustawy o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 2141).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 25 września 2018 r. w sprawie szczegółowego trybu prowadzenia mediacji, postępowania wyjaśniającego i postępowania dyscyplinarnego w sprawach odpowiedzialności dyscyplinarnej nauczycieli akademickich, a także sposobu wykonywania kar dyscyplinarnych i ich zatarcia (Dz. U. poz. 1843), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 1 października 2021 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz ustawy o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 2141). 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079 i 1117. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 25 września 2018 r. w sprawie szczegółowego trybu prowadzenia mediacji, postępowania wyjaśniającego i postępowania dyscyplinarnego w sprawach odpowiedzialności dyscyplinarnej nauczycieli akademickich, a także sposobu wykonywania kar dyscyplinarnych i ich zatarcia (Dz. U. poz. 1843), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 1 października 2021 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz ustawy o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 2141).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Postępowanie wyjaśniające
+#### Rozdział 2 – Postępowanie wyjaśniające
 
-#### Rozdział 3 Postępowanie dyscyplinarne w pierwszej instancji
+#### Rozdział 3 – Postępowanie dyscyplinarne w pierwszej instancji
 
-#### Rozdział 4 Postępowanie dyscyplinarne w drugiej instancji
+#### Rozdział 4 – Postępowanie dyscyplinarne w drugiej instancji
 
-#### Rozdział 5 Mediacja
+#### Rozdział 5 – Mediacja
 
-#### Rozdział 6 Wykonywanie i zatarcie kar dyscyplinarnych
+#### Rozdział 6 – Wykonywanie i zatarcie kar dyscyplinarnych
 
-#### Rozdział 7 Wznowienie postępowania dyscyplinarnego
+#### Rozdział 7 – Wznowienie postępowania dyscyplinarnego
 
-#### Rozdział 8 Przepis przejściowy i przepis końcowy
+#### Rozdział 8 – Przepis przejściowy i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

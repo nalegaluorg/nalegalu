@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 11 sierpnia 2017 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 11 sierpnia 2017 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-11 |
 | Data wydania | 2017-08-25 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1587/text.pdf) |
 
@@ -75,7 +74,7 @@ poświadczonej przez kandydata za zgodność z oryginałem kopii aktu nadania st
 m)
 poświadczonej przez kandydata za zgodność z oryginałem kopii karty oceny pracy lub oceny dorobku zawodowego – w przypadku nauczyciela i nauczyciela akademickiego,
 n)
-oświadczenia, że kandydat nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2017 r. poz. 1189) lub w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.) – w przypadku nauczyciela i nauczyciela akademickiego,
+oświadczenia, że kandydat nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2017 r. poz. 1189) lub w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859, 1321, 1428 i 1530.) – w przypadku nauczyciela i nauczyciela akademickiego,
 o)
 oświadczenia, że kandydat ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych;
 5)
@@ -169,6 +168,5 @@ innych nieprawidłowości, które mogły mieć wpływ na wynik konkursu.
 § 9.
 Konkursy na stanowiska dyrektorów publicznych przedszkoli, publicznych szkół lub publicznych placówek ogłoszone i niezakończone przed dniem wejścia w życie rozporządzenia są prowadzone według dotychczasowych przepisów.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859, 1321, 1428 i 1530.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859, 1321, 1428 i 1530.
 

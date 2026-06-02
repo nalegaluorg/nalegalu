@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 28 czerwca 2016 r. zmieniające rozporządzenie w sprawie warunków oraz trybu udostępniania danych przechowywanych w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 28 czerwca 2016 r. zmieniające rozporządzenie w sprawie warunków oraz trybu udostępniania danych przechowywanych w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-28 |
 | Data wydania | 2016-07-11 |
-| Wejście w życie | 2016-07-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1003/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 16 ust. 3 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 stycznia 2004 r. w sprawie warunków oraz trybu udostępniania danych przechowywanych w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów (Dz. U. poz. 90) wprowadza się następujące zmiany:
 1)
-§ 2 otrzymuje brzmienie:
-„
+§ 2 otrzymuje brzmienie: „
 § 2.
-Dane niezbędne do dokonania płatności są udostępniane w postaci elektronicznej w formacie, w którym są prowadzone rejestr lub ewidencja, uzgodnionym z Agencją.
-” ;
+Dane niezbędne do dokonania płatności są udostępniane w postaci elektronicznej w formacie, w którym są prowadzone rejestr lub ewidencja, uzgodnionym z Agencją. ” ;
 2)
-po § 3 dodaje się § 3a w brzmieniu:
-„
+po § 3 dodaje się § 3a w brzmieniu: „
 § 3a.
 1.
 Agencja Nieruchomości Rolnych, w terminie do dnia 30 czerwca danego roku, udostępnia z urzędu Agencji, według stanu na dzień 31 maja danego roku, dane dotyczące gruntów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, zawarte w rejestrach lub ewidencjach prowadzonych przez Agencję Nieruchomości Rolnych, obejmujące:
@@ -61,11 +57,9 @@ datę nawiązania stosunku prawnego, o którym mowa w lit. d, i okres, na jaki z
 f)
 oznaczenie identyfikujące dokument stwierdzający nawiązanie stosunku prawnego, o którym mowa w lit. d.
 2.
-Dane, o których mowa w ust. 1, są udostępniane w postaci elektronicznej na informatycznym nośniku danych lub za pomocą środków komunikacji elektronicznej.
-” .
+Dane, o których mowa w ust. 1, są udostępniane w postaci elektronicznej na informatycznym nośniku danych lub za pomocą środków komunikacji elektronicznej. ” .
 § 2.
 W 2016 r. dane, o których mowa w § 3a ust. 1 rozporządzenia zmienianego w § 1, są udostępniane w terminie 7 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

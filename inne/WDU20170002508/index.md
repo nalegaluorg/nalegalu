@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 27 grudnia 2017 r. w sprawie minimalnej wysokości sumy ubezpieczenia na rzecz podróżnych związanej z działalnością wykonywaną przez organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 27 grudnia 2017 r. w sprawie minimalnej wysokości sumy ubezpieczenia na rzecz podróżnych związanej z działalnością wykonywaną przez organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-20 |
 | Data wydania | 2017-12-30 |
-| Wejście w życie | 2018-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002508) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2508/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Terytoria państw europejskich, z wyłączeniem państw mających lądową granicę z Rzecząpospolitą Polską, a w przypadku Federacji Rosyjskiej – w obrębie Obwodu Kaliningradzkiego
 Treść rozporządzenia
-Na podstawie art. 12 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2302 z dnia 25 listopada 2015 r. w sprawie imprez turystycznych i powiązanych usług turystycznych, zmieniającą rozporządzenie (WE) nr 2006/2004 i dyrektywę Parlamentu Europejskiego i Rady 2011/83/UE oraz uchylającą dyrektywę Rady 90/314/EWG (Dz. Urz. UE L 326 z 11.12.2015, str. 1). Na podstawie art. 12 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa minimalną wysokość sumy ubezpieczenia na rzecz podróżnych, o której mowa w art. 7 ust. 2 pkt 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, związaną z działalnością wykonywaną przez organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych, zwaną dalej „minimalną wysokością sumy ubezpieczenia”.
 § 2.
@@ -262,8 +261,7 @@ Kwoty, o których mowa w § 5–9, są ustalane przy zastosowaniu kursu średnie
 § 15.
 Przepisy rozporządzenia stosuje się do umów ubezpieczenia na rzecz podróżnych zawartych od dnia wejścia w życie rozporządzenia.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.3)
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2302 z dnia 25 listopada 2015 r. w sprawie imprez turystycznych i powiązanych usług turystycznych, zmieniającą rozporządzenie (WE) nr 2006/2004 i dyrektywę Parlamentu Europejskiego i Rady 2011/83/UE oraz uchylającą dyrektywę Rady 90/314/EWG (Dz. Urz. UE L 326 z 11.12.2015, str. 1).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.3) 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2302 z dnia 25 listopada 2015 r. w sprawie imprez turystycznych i powiązanych usług turystycznych, zmieniającą rozporządzenie (WE) nr 2006/2004 i dyrektywę Parlamentu Europejskiego i Rady 2011/83/UE oraz uchylającą dyrektywę Rady 90/314/EWG (Dz. Urz. UE L 326 z 11.12.2015, str. 1).
 Załącznik – Terytoria państw europejskich, z wyłączeniem państw mających lądową granicę z Rzecząpospolitą Polską, a w przypadku Federacji Rosyjskiej – w obrębie Obwodu Kaliningradzkiego
 Lp. Nazwa polska 1 Albania 2 Andora 3 Austria 4 Belgia 5 Bośnia i Hercegowina 6 Bułgaria 7 Chorwacja 8 Czarnogóra 9 Dania (z wyłączeniem Grenlandii) 10 Estonia 11 Finlandia (wraz z Wyspami Alandzkimi) 12 Francja (z wyłączeniem terytoriów zamorskich) 13 Gibraltar 14 Grecja 15 Hiszpania (z wyłączeniem Wysp Kanaryjskich, Ceuty i Melilli) 16 Irlandia 17 Islandia 18 Kosowo 19 Liechtenstein 20 Luksemburg 21 Łotwa 22 Macedonia 23 Malta 24 Mołdowa 25 Monako 26 Niderlandy (z wyłączeniem terytoriów zamorskich) 27 Norwegia (z wyłączeniem wysp Svalbard i Jan Mayen) 28 Portugalia 29 Rosja (część europejska bez obwodu kaliningradzkiego) 30 Rumunia 31 San Marino 32 Serbia 33 Słowenia 34 Szwajcaria 35 Szwecja 36 Turcja (część leżąca na zachód od cieśnin Dardanele i Bosfor) 37 Watykan 38 Węgry 39 Wielka Brytania (wraz z Irlandią Północną, wyspą Man i Wyspami Normandzkimi, ale z wyłączeniem terytoriów zamorskich) 40 Włochy 41 Wyspy Owcze
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 7 grudnia 2017 r. zmieniające rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa zawodowego
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 7 grudnia 2017 r. zmieniające rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa zawodowego Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-07 |
 | Data wydania | 2017-12-18 |
-| Wejście w życie | 2018-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2356/text.pdf) |
 
@@ -39,10 +38,11 @@ dla pozycji „Razem” liczbę „213” zastępuje się liczbą „214”;
 2)
 w tabeli zatytułowanej „Klasyfikacja właściwa”:
 a)
-pozycja dotycząca zawodu „Technik informatyk” o symbolu cyfrowym 351203 otrzymuje brzmienie: 351203 Technik informatyk V informatyzacji, gospodarki morskiej, żeglugi śródlądowej EE X 2 K1 Montaż i eksploatacja systemów komputerowych, urządzeń peryferyjnych i sieci 4 X K2 Programowanie, tworzenie i administrowanie stronami internetowymi i bazami danych 5 X
+pozycja dotycząca zawodu „Technik informatyk” o symbolu cyfrowym 351203 otrzymuje brzmienie:
+351203 Technik informatyk V informatyzacji, gospodarki morskiej, żeglugi śródlądowej EE X 2 K1 Montaż i eksploatacja systemów komputerowych, urządzeń peryferyjnych i sieci 4 X K2 Programowanie, tworzenie i administrowanie stronami internetowymi i bazami danych 5 X
 b)
-po pozycji dotyczącej zawodu „Monter zabudowy i robót wykończeniowych w budownictwie” o symbolu cyfrowym 712905 dodaje się pozycję dotyczącą zawodu „Monter stolarki budowlanej” o symbolu cyfrowym 712906 w brzmieniu: 712906 Monter stolarki budowlanej III budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa BD X K1 Wykonywanie robót związanych z montażem stolarki budowlanej 3 X
+po pozycji dotyczącej zawodu „Monter zabudowy i robót wykończeniowych w budownictwie” o symbolu cyfrowym 712905 dodaje się pozycję dotyczącą zawodu „Monter stolarki budowlanej” o symbolu cyfrowym 712906 w brzmieniu:
+712906 Monter stolarki budowlanej III budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa BD X K1 Wykonywanie robót związanych z montażem stolarki budowlanej 3 X
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2018 r., z wyjątkiem § 1 pkt 2 lit. a, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem 1 września 2018 r., z wyjątkiem § 1 pkt 2 lit. a, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

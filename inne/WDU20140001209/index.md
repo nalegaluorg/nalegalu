@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-21 |
 | Data wydania | 2014-09-11 |
-| Wejście w życie | 2014-09-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1209/text.pdf) |
 
@@ -33,131 +32,97 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Zakres informacji wykazywanych w sprawozdaniu finansowym pracowniczego i dobrowolnego funduszu
 
 Treść rozporządzenia
-Na podstawie art. 81 ust. 2 pkt 6 lit. b ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 81 ust. 2 pkt 6 lit. b ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 24 grudnia 2007 r. w sprawie szczególnych zasad rachunkowości funduszy emerytalnych (Dz. U. z 2013 r. poz. 876) wprowadza się następujące zmiany:
 1)
 w § 2:
 a)
-pkt 14 otrzymuje brzmienie:
-„
+pkt 14 otrzymuje brzmienie: „
 14)
-Fundusz Gwarancyjny – fundusz, o którym mowa w art. 184 ustawy;
-” ,
+Fundusz Gwarancyjny – fundusz, o którym mowa w art. 184 ustawy; ” ,
 b)
 w pkt 15:
 – uchyla się lit. f,
-– lit. g otrzymuje brzmienie: „ g) z wpłat towarzystwa, podmiotów, o których mowa w art. 153 ust. 1 ustawy, lub depozytariusza wniesionych z tytułu naprawienia szkód, o których mowa w art. 48 ust. 1, art. 153 ust. 5 lub art. 160 ust. 2 ustawy, wyrządzonych członkom funduszu; ” ,
+lit. g otrzymuje brzmienie: „
+g)
+z wpłat towarzystwa, podmiotów, o których mowa w art. 153 ust. 1 ustawy, lub depozytariusza wniesionych z tytułu naprawienia szkód, o których mowa w art. 48 ust. 1, art. 153 ust. 5 lub art. 160 ust. 2 ustawy, wyrządzonych członkom funduszu; ” ,
 c)
-pkt 18 otrzymuje brzmienie:
-„
+pkt 18 otrzymuje brzmienie: „
 18)
-rynek regulowany – rynek, o którym mowa w art. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94 i 586), oraz rynek, o którym mowa w art. 8 pkt 17 ustawy;
-” ,
+rynek regulowany – rynek, o którym mowa w art. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94 i 586), oraz rynek, o którym mowa w art. 8 pkt 17 ustawy; ” ,
 d)
-pkt 23 otrzymuje brzmienie:
-„
+pkt 23 otrzymuje brzmienie: „
 23)
-portfel inwestycyjny – aktywa finansowe, o których mowa w art. 141 ust. 1 ustawy i w przepisach wydanych na podstawie art. 141 ust. 7 ustawy;
-” ,
+portfel inwestycyjny – aktywa finansowe, o których mowa w art. 141 ust. 1 ustawy i w przepisach wydanych na podstawie art. 141 ust. 7 ustawy; ” ,
 e)
-pkt 25 otrzymuje brzmienie:
-„
+pkt 25 otrzymuje brzmienie: „
 25)
-cena nabycia – cenę zakupu składnika aktywów wraz z prowizją maklerską i innymi opłatami, w tym obciążeniami o charakterze publicznoprawnym, z wyłączeniem wynagrodzenia depozytariusza;
-” ,
+cena nabycia – cenę zakupu składnika aktywów wraz z prowizją maklerską i innymi opłatami, w tym obciążeniami o charakterze publicznoprawnym, z wyłączeniem wynagrodzenia depozytariusza; ” ,
 f)
-pkt 32 otrzymuje brzmienie:
-„
+pkt 32 otrzymuje brzmienie: „
 32)
-rachunek przeliczeniowy – rachunki pieniężne, na których, do czasu ich przeliczenia na jednostki rozrachunkowe, są przechowywane w szczególności aktywa pieniężne, wpłaty na rachunek rezerwowy, rachunek premiowy, aktywa pieniężne przeznaczone na wypłaty, wypłaty transferowe, zwroty oraz wypłaty na rzecz towarzystwa; na rachunek przeliczeniowy składają się rachunki wpłat, wypłat oraz rachunek kwot do wyjaśnienia;
-” ;
+rachunek przeliczeniowy – rachunki pieniężne, na których, do czasu ich przeliczenia na jednostki rozrachunkowe, są przechowywane w szczególności aktywa pieniężne, wpłaty na rachunek rezerwowy, rachunek premiowy, aktywa pieniężne przeznaczone na wypłaty, wypłaty transferowe, zwroty oraz wypłaty na rzecz towarzystwa; na rachunek przeliczeniowy składają się rachunki wpłat, wypłat oraz rachunek kwot do wyjaśnienia; ” ;
 2)
 w § 11:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Wpłaty dokonane na rzecz członków funduszu, wpłaty dokonane przez członków dobrowolnego funduszu, wpłaty na rachunek rezerwowy oraz na rachunek premiowy są ujmowane na rachunku przeliczeniowym na dzień ich otrzymania.
-” ,
+Wpłaty dokonane na rzecz członków funduszu, wpłaty dokonane przez członków dobrowolnego funduszu, wpłaty na rachunek rezerwowy oraz na rachunek premiowy są ujmowane na rachunku przeliczeniowym na dzień ich otrzymania. ” ,
 b)
-ust. 15 otrzymuje brzmienie:
-„
+ust. 15 otrzymuje brzmienie: „
 15.
-Zasadę, o której mowa w ust. 14, stosuje się odpowiednio do zwiększenia kapitału rezerwowego i kapitału premiowego.
-” ;
+Zasadę, o której mowa w ust. 14, stosuje się odpowiednio do zwiększenia kapitału rezerwowego i kapitału premiowego. ” ;
 3)
-w § 12 ust. 1 otrzymuje brzmienie:
-„
+w § 12 ust. 1 otrzymuje brzmienie: „
 1.
-Środki wpłacone do funduszu przez towarzystwo, podmiot, o którym mowa w art. 153 ust. 1 ustawy, lub depozytariusza z tytułu powstania szkód, o których mowa w art. 48 ust. 1, art. 153 ust. 5 lub art. 160 ust. 2 ustawy, są przeliczane na jednostki rozrachunkowe w najbliższym dniu wyceny następującym po dniu ich przekazania, według wartości jednostki rozrachunkowej z dnia wpłaty.
-” ;
+Środki wpłacone do funduszu przez towarzystwo, podmiot, o którym mowa w art. 153 ust. 1 ustawy, lub depozytariusza z tytułu powstania szkód, o których mowa w art. 48 ust. 1, art. 153 ust. 5 lub art. 160 ust. 2 ustawy, są przeliczane na jednostki rozrachunkowe w najbliższym dniu wyceny następującym po dniu ich przekazania, według wartości jednostki rozrachunkowej z dnia wpłaty. ” ;
 4)
-w § 14 dodaje się ust. 4 w brzmieniu:
-„
+w § 14 dodaje się ust. 4 w brzmieniu: „
 4.
-Nabycie lub zbycie aktywów denominowanych w walutach państw będących członkami UE lub stronami umowy o EOG, lub członkami OECD w celu, o którym mowa w art. 141 ust. 1 pkt 6 ustawy, ujmuje się w księgach rachunkowych na dzień przeprowadzenia transakcji.
-” ;
+Nabycie lub zbycie aktywów denominowanych w walutach państw będących członkami UE lub stronami umowy o EOG, lub członkami OECD w celu, o którym mowa w art. 141 ust. 1 pkt 6 ustawy, ujmuje się w księgach rachunkowych na dzień przeprowadzenia transakcji. ” ;
 5)
 w § 15:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Do dnia otrzymania wpłaty na rachunek premiowy środki należne od powszechnego towarzystwa ujmuje się jako należności od powszechnego towarzystwa oraz wykazuje jako zobowiązanie z tytułu nieprzeliczonych jednostek rozrachunkowych.
-” ,
+Do dnia otrzymania wpłaty na rachunek premiowy środki należne od powszechnego towarzystwa ujmuje się jako należności od powszechnego towarzystwa oraz wykazuje jako zobowiązanie z tytułu nieprzeliczonych jednostek rozrachunkowych. ” ,
 b)
 uchyla się ust. 4;
 6)
-w § 19 ust. 2 otrzymuje brzmienie:
-„
+w § 19 ust. 2 otrzymuje brzmienie: „
 2.
-Zysk lub stratę ze zbycia aktywów denominowanych w walutach państw będących członkami UE lub stronami umowy o EOG, lub członkami OECD wylicza się zgodnie z metodą określoną w ust. 1.
-” ;
+Zysk lub stratę ze zbycia aktywów denominowanych w walutach państw będących członkami UE lub stronami umowy o EOG, lub członkami OECD wylicza się zgodnie z metodą określoną w ust. 1. ” ;
 7)
-w § 20 ust. 5 otrzymuje brzmienie:
-„
+w § 20 ust. 5 otrzymuje brzmienie: „
 5.
-Należną dywidendę wypłacaną w środkach pieniężnych lub w papierach wartościowych z akcji notowanych na rynku regulowanym ujmuje się w księgach rachunkowych na dzień, w którym akcje te po raz pierwszy były notowane bez dywidendy. Należną dywidendę wypłacaną w środkach pieniężnych ujmuje się w należnościach, natomiast papiery wartościowe otrzymywane z tytułu dywidendy są ujmowane w portfelu inwestycyjnym.
-” ;
+Należną dywidendę wypłacaną w środkach pieniężnych lub w papierach wartościowych z akcji notowanych na rynku regulowanym ujmuje się w księgach rachunkowych na dzień, w którym akcje te po raz pierwszy były notowane bez dywidendy. Należną dywidendę wypłacaną w środkach pieniężnych ujmuje się w należnościach, natomiast papiery wartościowe otrzymywane z tytułu dywidendy są ujmowane w portfelu inwestycyjnym. ” ;
 8)
-w § 25 ust. 1 otrzymuje brzmienie:
-„
+w § 25 ust. 1 otrzymuje brzmienie: „
 1.
-Na dzień wyceny, aktywa denominowane w walutach państw będących członkami UE lub stronami umowy o EOG, lub członkami OECD ujmuje się w księgach rachunkowych po przeliczeniu na walutę polską według średniego kursu wyliczanego i ogłaszanego przez Narodowy Bank Polski na dzień wyceny.
-” ;
+Na dzień wyceny, aktywa denominowane w walutach państw będących członkami UE lub stronami umowy o EOG, lub członkami OECD ujmuje się w księgach rachunkowych po przeliczeniu na walutę polską według średniego kursu wyliczanego i ogłaszanego przez Narodowy Bank Polski na dzień wyceny. ” ;
 9)
-w § 27 pkt 7 otrzymuje brzmienie:
-„
+w § 27 pkt 7 otrzymuje brzmienie: „
 7)
-różnice kursowe dodatnie powstałe w związku z wyceną praw majątkowych wynikających ze składników portfela inwestycyjnego, a także środków pieniężnych, należności oraz zobowiązań denominowanych w walutach państw będących członkami UE lub stronami umowy o EOG, lub członkami OECD.
-” ;
+różnice kursowe dodatnie powstałe w związku z wyceną praw majątkowych wynikających ze składników portfela inwestycyjnego, a także środków pieniężnych, należności oraz zobowiązań denominowanych w walutach państw będących członkami UE lub stronami umowy o EOG, lub członkami OECD. ” ;
 10)
 w § 28:
 a)
-pkt 6 otrzymuje brzmienie:
-„
+pkt 6 otrzymuje brzmienie: „
 6)
-różnice kursowe ujemne powstałe w związku z wyceną praw majątkowych wynikających ze składników portfela inwestycyjnego, a także środków pieniężnych, należności oraz zobowiązań denominowanych w walutach państw będących członkami UE lub stronami umowy o EOG, lub członkami OECD;
-” ,
+różnice kursowe ujemne powstałe w związku z wyceną praw majątkowych wynikających ze składników portfela inwestycyjnego, a także środków pieniężnych, należności oraz zobowiązań denominowanych w walutach państw będących członkami UE lub stronami umowy o EOG, lub członkami OECD; ” ,
 b)
-dodaje się pkt 7 w brzmieniu:
-„
+dodaje się pkt 7 w brzmieniu: „
 7)
-koszty, o których mowa w art. 137 ust. 3 ustawy.
-” ;
+koszty, o których mowa w art. 137 ust. 3 ustawy. ” ;
 11)
-w § 30 ust. 1 otrzymuje brzmienie:
-„
+w § 30 ust. 1 otrzymuje brzmienie: „
 1.
-Środki potrącone z rachunku funduszu, niestanowiące kosztów funduszu, o których mowa w art. 136 ust. 1- 2c i art. 137 ust. 3 ustawy, podlegają refinansowaniu przez towarzystwo.
-” ;
+Środki potrącone z rachunku funduszu, niestanowiące kosztów funduszu, o których mowa w art. 136 ust. 1- 2c i art. 137 ust. 3 ustawy, podlegają refinansowaniu przez towarzystwo. ” ;
 12)
-w § 35 pkt 4 otrzymuje brzmienie:
-„
+w § 35 pkt 4 otrzymuje brzmienie: „
 4)
-przychody z tytułu pokrycia szkody;
-” ;
+przychody z tytułu pokrycia szkody; ” ;
 13)
 w § 43 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Likwidator sporządza sprawozdanie finansowe na dzień rozpoczęcia i zakończenia likwidacji funduszu, zawierające co najmniej: ” ;
 14)
@@ -199,7 +164,7 @@ w pozycji „3) Środki pieniężne na rachunku przeliczeniowym wypłat” – i
 3)
 w pozycji „6) Należności od towarzystwa” – informacje o wielkości należności z tytułu rachunku części dodatkowej Funduszu Gwarancyjnego.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100.
 
 ## Załącznik nr 1 — – Zakres informacji wykazywanych w sprawozdaniu finansowym otwartego funduszu
 
@@ -221,8 +186,7 @@ przyjętych zasad (polityki) rachunkowości, dotyczących w szczególności ujmo
 b)
 przyjętej metodologii wyceny,
 c)
-wprowadzonych zmian stosowanych zasad (polityki) rachunkowości, w tym metod ujmowania operacji w księgach rachunkowych, metod wyceny, przy czym zmiany te powinny być opisane w dwóch kolejnych sprawozdaniach finansowych po ich wprowadzeniu, z wyjaśnieniem przyczyn ich wprowadzenia oraz określeniem ich wpływu na sytuację majątkową, finansową oraz wynik finansowy funduszu.
-Bilans
+wprowadzonych zmian stosowanych zasad (polityki) rachunkowości, w tym metod ujmowania operacji w księgach rachunkowych, metod wyceny, przy czym zmiany te powinny być opisane w dwóch kolejnych sprawozdaniach finansowych po ich wprowadzeniu, z wyjaśnieniem przyczyn ich wprowadzenia oraz określeniem ich wpływu na sytuację majątkową, finansową oraz wynik finansowy funduszu. Bilans
 I.
 Aktywa
 1.
@@ -295,8 +259,7 @@ Niezrealizowany zysk (strata) z wyceny inwestycji
 4.
 Zakumulowane przychody z tytułu pokrycia szkody
 VIII.
-Kapitał i zakumulowany nierozdysponowany wynik finansowy, razem (IV+V+VI+VII)
-Rachunek zysków i strat
+Kapitał i zakumulowany nierozdysponowany wynik finansowy, razem (IV+V+VI+VII) Rachunek zysków i strat
 I.
 Przychody operacyjne
 1.
@@ -359,8 +322,7 @@ Wynik z operacji (III+IV)
 VI.
 Przychody z tytułu pokrycia szkody
 VII.
-Wynik finansowy (V+VI)
-Zestawienie zmian w aktywach netto
+Wynik finansowy (V+VI) Zestawienie zmian w aktywach netto
 A.
 Zmiana wartości aktywów netto
 I.
@@ -414,8 +376,7 @@ Minimalna wartość aktywów netto na jednostkę rozrachunkową w okresie sprawo
 5.
 Maksymalna wartość aktywów netto na jednostkę rozrachunkową w okresie sprawozdawczym
 6.
-Wartość aktywów netto na jednostkę rozrachunkową na ostatni dzień wyceny w okresie sprawozdawczym
-Zestawienie zmian w kapitale własnym
+Wartość aktywów netto na jednostkę rozrachunkową na ostatni dzień wyceny w okresie sprawozdawczym Zestawienie zmian w kapitale własnym
 I.
 Kapitały razem funduszu na początek okresu sprawozdawczego
 1.
@@ -456,8 +417,7 @@ Kapitał premiowy funduszu na początek okresu sprawozdawczego
 3.1.
 Zmiany w kapitale premiowym
 a)
-zwiększenia z tytułu
-wpłat towarzystwa
+zwiększenia z tytułu – wpłat towarzystwa
 b)
 zmniejszenia z tytułu
 – zasilenia rachunku rezerwowego
@@ -468,7 +428,9 @@ Kapitał premiowy funduszu na koniec okresu sprawozdawczego
 4.
 Wynik finansowy
 II.
-Kapitały razem w dyspozycji funduszu na koniec okresu sprawozdawczego Zestawienie portfela inwestycyjnego Instrument finansowy Ilość (w szt.) Wartość nabycia (w tys. zł) Wartość bieżąca (w tys. zł) Udział w aktywach (w %) 1 2 3 4 5 6 1 Bony emitowane przez Skarb Państwa 2 Obligacje emitowane przez Skarb Państwa 3 Pożyczka lub kredyt dla Skarbu Państwa (SP) 4 Bony pieniężne Narodowego Banku Polskiego (NBP) 5 Obligacje NBP 6 Pożyczka lub kredyt dla NBP 7 Papiery wartościowe gwarantowane lub poręczane przez SP 8 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez SP 9 Papiery wartościowe gwarantowane lub poręczane przez NBP 10 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez NBP 11 Obligacje emitowane przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym 12 Depozyty w bankach krajowych w walucie polskiej 13 Depozyty w bankach krajowych w walutach państw UE, EOG i OECD 14 Obligacje inne niż wymienione w pkt 11, bankowe papiery wartościowe lub listy zastawne, emitowane przez Bank Gospodarstwa Krajowego 15 Listy zastawne 16 Dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego będące przedmiotem oferty publicznej 17 Dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego, niebędące przedmiotem oferty publicznej 18 Obligacje przychodowe 19 Zabezpieczone całkowicie dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 20 Zabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 21 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe podmiotów innych niż jednostki samorządu terytorialnego lub ich związki, niebędące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 22 Zabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, niebędące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 23 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe, dla których podmiotami zobowiązanymi do spełnienia świadczeń są spółki notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 24 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe spółek nienotowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 25 Niezabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 26 Kwity depozytowe dopuszczone do obrotu na krajowym rynku regulowanym 27 Akcje spółek notowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 28 Akcje spółek notowanych w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 29 Akcje spółek będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 30 Prawa do akcji notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 31 Prawa poboru notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 32 Prawa do akcji notowane w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 33 Prawa poboru notowane w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 34 Akcje będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 35 Prawa do akcji będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 36 Prawa poboru będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 37 Obligacje zamienne na akcje spółek notowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 38 Certyfikaty inwestycyjne emitowane przez fundusze inwestycyjne zamknięte 39 Certyfikaty inwestycyjne emitowane przez sekurytyzacyjne fundusze inwestycyjne zamknięte 40 Jednostki uczestnictwa funduszy inwestycyjnych otwartych 41 Jednostki uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych 42 Inne krajowe instrumenty finansowe 43 Razem lokaty krajowe 44 Obligacje, bony skarbowe i inne dłużne papiery wartościowe emitowane przez rządy państw UE, EOG i OECD 45 Pożyczki lub kredyty dla rządów lub banków centralnych państw UE, EOG i OECD 46 Obligacje i inne dłużne papiery wartościowe emitowane przez banki centralne państw UE, EOG i OECD 47 Obligacje i inne dłużne papiery wartościowe gwarantowane lub poręczane przez rządy lub banki centralne państw UE, EOG i OECD 48 Depozyty, kredyty, pożyczki gwarantowane lub poręczane przez rządy lub banki centralne państw UE, EOG i OECD 49 Depozyty w bankach lub instytucjach kredytowych państw UE, EOG i OECD (w podziale na walutę) 50 Listy zastawne emitowane przez instytucję kredytową, mającą siedzibę na terytorium UE, EOG i OECD 51 Obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 52 Obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, niebędące przedmiotem oferty publicznej 53 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 54 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez inne podmioty niż właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 55 Niebędące przedmiotem oferty publicznej zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD 56 Niebędące przedmiotem oferty publicznej zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez podmioty mające siedzibę na terytorium UE, EOG i OECD inne niż właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD 57 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe, dla których podmiotami zobowiązanymi do spełnienia świadczeń są spółki notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 58 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe spółek nienotowanych na rynku regulowanym na terytorium UE, EOG i OECD, będące przedmiotem oferty publicznej 59 Obligacje przychodowe emitowane przez podmioty mające siedzibę na terytorium UE, EOG i OECD 60 Akcje spółek notowanych na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 61 Prawa poboru notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 62 Prawa do akcji notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 63 Akcje będące przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 64 Prawa poboru do akcji będących przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 65 Prawa do akcji będące przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 66 Tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania typu zamkniętego mające siedzibę na terytorium UE, EOG i OECD 67 Tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania typu otwartego mające siedzibę na terytorium UE, EOG i OECD 68 Obligacje zamienne na akcje spółek notowanych na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 69 Kwity depozytowe dopuszczone do obrotu na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 70 Inne zagraniczne instrumenty finansowe 71 Razem lokaty zagraniczne 72 Razem lokaty Dodatkowe informacje i objaśnienia obejmują w szczególności:
+Kapitały razem w dyspozycji funduszu na koniec okresu sprawozdawczego Zestawienie portfela inwestycyjnego
+Instrument finansowy Ilość (w szt.) Wartość nabycia (w tys. zł) Wartość bieżąca (w tys. zł) Udział w aktywach (w %) 1 2 3 4 5 6 1 Bony emitowane przez Skarb Państwa 2 Obligacje emitowane przez Skarb Państwa 3 Pożyczka lub kredyt dla Skarbu Państwa (SP) 4 Bony pieniężne Narodowego Banku Polskiego (NBP) 5 Obligacje NBP 6 Pożyczka lub kredyt dla NBP 7 Papiery wartościowe gwarantowane lub poręczane przez SP 8 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez SP 9 Papiery wartościowe gwarantowane lub poręczane przez NBP 10 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez NBP 11 Obligacje emitowane przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym 12 Depozyty w bankach krajowych w walucie polskiej 13 Depozyty w bankach krajowych w walutach państw UE, EOG i OECD 14 Obligacje inne niż wymienione w pkt 11, bankowe papiery wartościowe lub listy zastawne, emitowane przez Bank Gospodarstwa Krajowego 15 Listy zastawne 16 Dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego będące przedmiotem oferty publicznej 17 Dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego, niebędące przedmiotem oferty publicznej 18 Obligacje przychodowe 19 Zabezpieczone całkowicie dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 20 Zabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 21 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe podmiotów innych niż jednostki samorządu terytorialnego lub ich związki, niebędące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 22 Zabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, niebędące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 23 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe, dla których podmiotami zobowiązanymi do spełnienia świadczeń są spółki notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 24 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe spółek nienotowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 25 Niezabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 26 Kwity depozytowe dopuszczone do obrotu na krajowym rynku regulowanym 27 Akcje spółek notowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 28 Akcje spółek notowanych w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 29 Akcje spółek będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 30 Prawa do akcji notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 31 Prawa poboru notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 32 Prawa do akcji notowane w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 33 Prawa poboru notowane w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 34 Akcje będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 35 Prawa do akcji będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 36 Prawa poboru będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 37 Obligacje zamienne na akcje spółek notowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 38 Certyfikaty inwestycyjne emitowane przez fundusze inwestycyjne zamknięte 39 Certyfikaty inwestycyjne emitowane przez sekurytyzacyjne fundusze inwestycyjne zamknięte 40 Jednostki uczestnictwa funduszy inwestycyjnych otwartych 41 Jednostki uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych 42 Inne krajowe instrumenty finansowe 43 Razem lokaty krajowe 44 Obligacje, bony skarbowe i inne dłużne papiery wartościowe emitowane przez rządy państw UE, EOG i OECD 45 Pożyczki lub kredyty dla rządów lub banków centralnych państw UE, EOG i OECD 46 Obligacje i inne dłużne papiery wartościowe emitowane przez banki centralne państw UE, EOG i OECD 47 Obligacje i inne dłużne papiery wartościowe gwarantowane lub poręczane przez rządy lub banki centralne państw UE, EOG i OECD 48 Depozyty, kredyty, pożyczki gwarantowane lub poręczane przez rządy lub banki centralne państw UE, EOG i OECD 49 Depozyty w bankach lub instytucjach kredytowych państw UE, EOG i OECD (w podziale na walutę) 50 Listy zastawne emitowane przez instytucję kredytową, mającą siedzibę na terytorium UE, EOG i OECD 51 Obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 52 Obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, niebędące przedmiotem oferty publicznej 53 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 54 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez inne podmioty niż właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 55 Niebędące przedmiotem oferty publicznej zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD 56 Niebędące przedmiotem oferty publicznej zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez podmioty mające siedzibę na terytorium UE, EOG i OECD inne niż właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD 57 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe, dla których podmiotami zobowiązanymi do spełnienia świadczeń są spółki notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 58 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe spółek nienotowanych na rynku regulowanym na terytorium UE, EOG i OECD, będące przedmiotem oferty publicznej 59 Obligacje przychodowe emitowane przez podmioty mające siedzibę na terytorium UE, EOG i OECD 60 Akcje spółek notowanych na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 61 Prawa poboru notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 62 Prawa do akcji notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 63 Akcje będące przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 64 Prawa poboru do akcji będących przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 65 Prawa do akcji będące przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 66 Tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania typu zamkniętego mające siedzibę na terytorium UE, EOG i OECD 67 Tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania typu otwartego mające siedzibę na terytorium UE, EOG i OECD 68 Obligacje zamienne na akcje spółek notowanych na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 69 Kwity depozytowe dopuszczone do obrotu na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 70 Inne zagraniczne instrumenty finansowe 71 Razem lokaty zagraniczne 72 Razem lokaty
+Dodatkowe informacje i objaśnienia obejmują w szczególności:
 I.
 Dane uzupełniające o pozycjach bilansu za poprzedni i bieżący okres sprawozdawczy w odniesieniu do pozycji:
 1)
@@ -813,8 +775,7 @@ przyjętych zasad (polityki) rachunkowości, dotyczących w szczególności ujmo
 b)
 przyjętej metodologii wyceny,
 c)
-wprowadzonych zmian stosowanych zasad (polityki) rachunkowości, w tym metod ujmowania operacji w księgach rachunkowych, metod wyceny, przy czym zmiany te powinny być opisane w dwóch kolejnych sprawozdaniach finansowych po ich wprowadzeniu, z wyjaśnieniem przyczyn ich wprowadzenia oraz określeniem ich wpływu na sytuację majątkową, finansową oraz wynik finansowy funduszu.
-Bilans
+wprowadzonych zmian stosowanych zasad (polityki) rachunkowości, w tym metod ujmowania operacji w księgach rachunkowych, metod wyceny, przy czym zmiany te powinny być opisane w dwóch kolejnych sprawozdaniach finansowych po ich wprowadzeniu, z wyjaśnieniem przyczyn ich wprowadzenia oraz określeniem ich wpływu na sytuację majątkową, finansową oraz wynik finansowy funduszu. Bilans
 I.
 Aktywa
 1.
@@ -875,8 +836,7 @@ Zakumulowany nierozdysponowany zrealizowany zysk (strata) z inwestycji
 3.
 Niezrealizowany zysk (strata) z wyceny inwestycji
 VI.
-Kapitał i zakumulowany nierozdysponowany wynik finansowy, razem (IV+V)
-Rachunek zysków i strat
+Kapitał i zakumulowany nierozdysponowany wynik finansowy, razem (IV+V) Rachunek zysków i strat
 I.
 Przychody operacyjne
 1.
@@ -931,8 +891,7 @@ Zrealizowany zysk (strata) z inwestycji
 2.
 Niezrealizowany zysk (strata) z wyceny inwestycji
 V.
-Wynik finansowy (III+IV)
-Zestawienie zmian w aktywach netto
+Wynik finansowy (III+IV) Zestawienie zmian w aktywach netto
 A.
 Zmiana wartości aktywów netto
 I.
@@ -976,8 +935,7 @@ Minimalna wartość aktywów netto na jednostkę rozrachunkową w okresie sprawo
 5.
 Maksymalna wartość aktywów netto na jednostkę rozrachunkową w okresie sprawozdawczym
 6.
-Wartość aktywów netto na jednostkę rozrachunkową na ostatni dzień wyceny w okresie sprawozdawczym
-Zestawienie zmian w kapitale własnym
+Wartość aktywów netto na jednostkę rozrachunkową na ostatni dzień wyceny w okresie sprawozdawczym Zestawienie zmian w kapitale własnym
 I.
 Kapitały razem funduszu na początek okresu sprawozdawczego
 1.
@@ -1001,7 +959,9 @@ Kapitał funduszu na koniec okresu sprawozdawczego
 2.
 Wynik finansowy
 II.
-Kapitały razem w dyspozycji funduszu na koniec okresu sprawozdawczego Zestawienie portfela inwestycyjnego Instrument finansowy Ilość (w szt.) Wartość nabycia (w tys. zł) Wartość bieżąca (w tys. zł) Udział w aktywach (w %) 1 2 3 4 5 6 1 Bony emitowane przez Skarb Państwa 2 Obligacje emitowane przez Skarb Państwa 3 Pożyczka lub kredyt dla Skarbu Państwa (SP) 4 Bony pieniężne Narodowego Banku Polskiego (NBP) 5 Obligacje NBP 6 Pożyczka lub kredyt dla NBP 7 Papiery wartościowe gwarantowane lub poręczane przez SP 8 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez SP 9 Papiery wartościowe gwarantowane lub poręczane przez NBP 10 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez NBP 11 Obligacje emitowane przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym 12 Depozyty w bankach krajowych w walucie polskiej 13 Depozyty w bankach krajowych w walutach państw UE, EOG i OECD 14 Obligacje inne niż wymienione w pkt 11, bankowe papiery wartościowe lub listy zastawne, emitowane przez Bank Gospodarstwa Krajowego 15 Listy zastawne 16 Dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego, będące przedmiotem oferty publicznej 17 Dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego, niebędące przedmiotem oferty publicznej 18 Obligacje przychodowe 19 Zabezpieczone całkowicie dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 20 Zabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 21 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe podmiotów innych niż jednostki samorządu terytorialnego lub ich związki, niebędące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 22 Zabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, niebędące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 23 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe, dla których podmiotami zobowiązanymi do spełnienia świadczeń są spółki notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 24 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe spółek nienotowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 25 Niezabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 26 Kwity depozytowe dopuszczone do obrotu na krajowym rynku regulowanym 27 Akcje spółek notowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 28 Akcje spółek notowanych w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 29 Akcje spółek będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 30 Prawa do akcji notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 31 Prawa poboru notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 32 Prawa do akcji notowane w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 33 Prawa poboru notowane w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 34 Akcje będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 35 Prawa do akcji będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 36 Prawa poboru będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 37 Obligacje zamienne na akcje spółek notowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 38 Certyfikaty inwestycyjne emitowane przez fundusze inwestycyjne zamknięte 39 Certyfikaty inwestycyjne emitowane przez sekurytyzacyjne fundusze inwestycyjne zamknięte 40 Jednostki uczestnictwa funduszy inwestycyjnych otwartych 41 Jednostki uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych 42 Inne krajowe instrumenty finansowe 43 Razem lokaty krajowe 44 Obligacje, bony skarbowe i inne dłużne papiery wartościowe emitowane przez rządy państw UE, EOG i OECD 45 Pożyczki lub kredyty dla rządów lub banków centralnych państw UE, EOG i OECD 46 Obligacje i inne dłużne papiery wartościowe emitowane przez banki centralne państw UE, EOG i OECD 47 Obligacje i inne dłużne papiery wartościowe gwarantowane lub poręczane przez rządy lub banki centralne państw UE, EOG i OECD 48 Depozyty, kredyty, pożyczki gwarantowane lub poręczane przez rządy lub banki centralne państw UE, EOG i OECD 49 Depozyty w bankach lub instytucjach kredytowych państw UE, EOG i OECD (w podziale na walutę) 50 Listy zastawne emitowane przez instytucję kredytową, mającą siedzibę na terytorium UE, EOG i OECD 51 Obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 52 Obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, niebędące przedmiotem oferty publicznej 53 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 54 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez inne podmioty niż właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 55 Niebędące przedmiotem oferty publicznej zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD 56 Niebędące przedmiotem oferty publicznej zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez podmioty mające siedzibę na terytorium UE, EOG i OECD inne niż właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD S7 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe, dla których podmiotami zobowiązanymi do spełnienia świadczeń są spółki notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 58 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe spółek nienotowanych na rynku regulowanym na terytorium UE, EOG i OECD, będące przedmiotem oferty publicznej 59 Obligacje przychodowe emitowane przez podmioty mające siedzibę na terytorium UE, EOG i OECD 60 Akcje spółek notowanych na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 61 Prawa poboru notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 62 Prawa do akcji notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 63 Akcje będące przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 64 Prawa poboru do akcji będących przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 65 Prawa do akcji będące przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 66 Tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania typu zamkniętego mające siedzibę na terytorium UE, EOG i OECD 67 Tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania typu otwartego mające siedzibę na terytorium UE, EOG i OECD 68 Obligacje zamienne na akcje spółek notowanych na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 69 Kwity depozytowe dopuszczone do obrotu na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 70 Inne zagraniczne instrumenty finansowe 71 Razem lokaty zagraniczne 72 Razem lokaty Dodatkowe informacje i objaśnienia obejmują w szczególności:
+Kapitały razem w dyspozycji funduszu na koniec okresu sprawozdawczego Zestawienie portfela inwestycyjnego
+Instrument finansowy Ilość (w szt.) Wartość nabycia (w tys. zł) Wartość bieżąca (w tys. zł) Udział w aktywach (w %) 1 2 3 4 5 6 1 Bony emitowane przez Skarb Państwa 2 Obligacje emitowane przez Skarb Państwa 3 Pożyczka lub kredyt dla Skarbu Państwa (SP) 4 Bony pieniężne Narodowego Banku Polskiego (NBP) 5 Obligacje NBP 6 Pożyczka lub kredyt dla NBP 7 Papiery wartościowe gwarantowane lub poręczane przez SP 8 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez SP 9 Papiery wartościowe gwarantowane lub poręczane przez NBP 10 Depozyty, pożyczki lub kredyty gwarantowane lub poręczane przez NBP 11 Obligacje emitowane przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym 12 Depozyty w bankach krajowych w walucie polskiej 13 Depozyty w bankach krajowych w walutach państw UE, EOG i OECD 14 Obligacje inne niż wymienione w pkt 11, bankowe papiery wartościowe lub listy zastawne, emitowane przez Bank Gospodarstwa Krajowego 15 Listy zastawne 16 Dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego, będące przedmiotem oferty publicznej 17 Dłużne papiery wartościowe emitowane przez jednostki samorządu terytorialnego, niebędące przedmiotem oferty publicznej 18 Obligacje przychodowe 19 Zabezpieczone całkowicie dłużne papiery wartościowe emitowane przez inne podmioty niż jednostki samorządu terytorialnego, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 20 Zabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 21 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe podmiotów innych niż jednostki samorządu terytorialnego lub ich związki, niebędące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 22 Zabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, niebędące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 23 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe, dla których podmiotami zobowiązanymi do spełnienia świadczeń są spółki notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 24 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe spółek nienotowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 25 Niezabezpieczone całkowicie obligacje sekurytyzacyjnych funduszy inwestycyjnych zamkniętych, będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 26 Kwity depozytowe dopuszczone do obrotu na krajowym rynku regulowanym 27 Akcje spółek notowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 28 Akcje spółek notowanych w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 29 Akcje spółek będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej 30 Prawa do akcji notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 31 Prawa poboru notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 32 Prawa do akcji notowane w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 33 Prawa poboru notowane w innych systemach obrotu na terytorium Rzeczypospolitej Polskiej 34 Akcje będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 35 Prawa do akcji będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 36 Prawa poboru będące przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej nienotowane na rynku regulowanym 37 Obligacje zamienne na akcje spółek notowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej 38 Certyfikaty inwestycyjne emitowane przez fundusze inwestycyjne zamknięte 39 Certyfikaty inwestycyjne emitowane przez sekurytyzacyjne fundusze inwestycyjne zamknięte 40 Jednostki uczestnictwa funduszy inwestycyjnych otwartych 41 Jednostki uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych 42 Inne krajowe instrumenty finansowe 43 Razem lokaty krajowe 44 Obligacje, bony skarbowe i inne dłużne papiery wartościowe emitowane przez rządy państw UE, EOG i OECD 45 Pożyczki lub kredyty dla rządów lub banków centralnych państw UE, EOG i OECD 46 Obligacje i inne dłużne papiery wartościowe emitowane przez banki centralne państw UE, EOG i OECD 47 Obligacje i inne dłużne papiery wartościowe gwarantowane lub poręczane przez rządy lub banki centralne państw UE, EOG i OECD 48 Depozyty, kredyty, pożyczki gwarantowane lub poręczane przez rządy lub banki centralne państw UE, EOG i OECD 49 Depozyty w bankach lub instytucjach kredytowych państw UE, EOG i OECD (w podziale na walutę) 50 Listy zastawne emitowane przez instytucję kredytową, mającą siedzibę na terytorium UE, EOG i OECD 51 Obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 52 Obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, niebędące przedmiotem oferty publicznej 53 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 54 Zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez inne podmioty niż właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD, będące przedmiotem oferty publicznej 55 Niebędące przedmiotem oferty publicznej zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD 56 Niebędące przedmiotem oferty publicznej zabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe emitowane przez podmioty mające siedzibę na terytorium UE, EOG i OECD inne niż właściwe regionalne lub lokalne władze publiczne państw UE, EOG i OECD S7 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe, dla których podmiotami zobowiązanymi do spełnienia świadczeń są spółki notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 58 Niezabezpieczone całkowicie obligacje i inne dłużne papiery wartościowe spółek nienotowanych na rynku regulowanym na terytorium UE, EOG i OECD, będące przedmiotem oferty publicznej 59 Obligacje przychodowe emitowane przez podmioty mające siedzibę na terytorium UE, EOG i OECD 60 Akcje spółek notowanych na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 61 Prawa poboru notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 62 Prawa do akcji notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 63 Akcje będące przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 64 Prawa poboru do akcji będących przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 65 Prawa do akcji będące przedmiotem oferty publicznej na terytorium UE, EOG i OECD nienotowane na rynku regulowanym 66 Tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania typu zamkniętego mające siedzibę na terytorium UE, EOG i OECD 67 Tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania typu otwartego mające siedzibę na terytorium UE, EOG i OECD 68 Obligacje zamienne na akcje spółek notowanych na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 69 Kwity depozytowe dopuszczone do obrotu na rynku regulowanym w państwach innych niż Rzeczpospolita Polska 70 Inne zagraniczne instrumenty finansowe 71 Razem lokaty zagraniczne 72 Razem lokaty
+Dodatkowe informacje i objaśnienia obejmują w szczególności:
 I.
 Dane uzupełniające o pozycjach bilansu za poprzedni i bieżący okres sprawozdawczy w odniesieniu do pozycji:
 1)

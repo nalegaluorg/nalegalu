@@ -33,13 +33,11 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw (Dz. U. Nr 162, poz. 1115),
 2)
-ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 czerwca 2019 r.
+ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 czerwca 2019 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 11 ustawy z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw (Dz. U. Nr 162, poz. 1115), który stanowi:
-„
+art. 11 ustawy z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw (Dz. U. Nr 162, poz. 1115), który stanowi: „
 
 **Art. 11.** Ustawa wchodzi w życie z dniem ogłoszenia. ” ;
 
@@ -63,12 +61,11 @@ art. 11 ustawy z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zd
 1. Uniwersytet z dniem włączenia Akademii, oprócz dotychczasowej działalności:
 
 - **1)** prowadzi działalność dydaktyczną i badawczą w dziedzinie nauk medycznych;
-- **2)** prowadzi działalność leczniczą, z uwzględnieniem przepisów ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. poz. 385, z późn. zm.);
-- **3)** uczestniczy w sprawowaniu opieki zdrowotnej przez zakłady opieki zdrowotnej, na zasadach określonych w ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. poz. 89, z późn. zm.).
+- **2)** prowadzi działalność leczniczą, z uwzględnieniem przepisów ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. poz. 385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. poz. 254 i 314, z 1994 r. poz. 3, 163, 509 i 591, z 1996 r. poz. 34 i 110, z 1997 r. poz. 153, 590, 661, 770 i 943, z 1998 r. poz. 310, 668, 1115 i 1118, z 2000 r. poz. 1268 i 1314, z 2001 r. poz. 924, 1129, 1193, 1194 i 1383, z 2002 r. poz. 33, 34, 1239, 1271 i 1683, z 2003 r. poz. 595, 1176, 1304 i 2081, z 2004 r. poz. 959, 1206, 1598 i 1845 oraz z 2005 r. poz. 71, 187 i 788.)Ustawa utraciła moc z dniem 1 września 2005 r. na podstawie art. 276 pkt 2 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r.; 3Ze zmianą wprowadzoną przez art. 6 ustawy z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1115), która weszła w życie z dniem 30 grudnia 1998 r.) uczestniczy w sprawowaniu opieki zdrowotnej przez zakłady opieki zdrowotnej, na zasadach określonych w ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. poz. 89, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 849, 1172, 1240 i 1290, z 2008 r. poz. 1056 i 1570, z 2009 r. poz. 100, 641, 817, 1241 i 1707, z 2010 r. poz. 620, 679 i 1507 oraz z 2011 r. poz. 235.)Ustawa utraciła moc z dniem 1 lipca 2011 r. na podstawie art. 220 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654), która weszła w życie z dniem 1 lipca 2011 r..
 
-2. (uchylony)
+2. (uchylony)Przez art. 25 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.
 
-3. (uchylony)
+3. (uchylony)Przez art. 25 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.
 
 **Art. 3.**
 
@@ -103,5 +100,5 @@ art. 11 ustawy z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zd
 
 **Art. 8.** W zakresie uregulowanym niniejszą ustawą art. 10 ust. 2–5 ustawy o szkolnictwie wyższym nie stosuje się.
 
-**Art. 9.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 31 maja 1993 r.. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. poz. 254 i 314, z 1994 r. poz. 3, 163, 509 i 591, z 1996 r. poz. 34 i 110, z 1997 r. poz. 153, 590, 661, 770 i 943, z 1998 r. poz. 310, 668, 1115 i 1118, z 2000 r. poz. 1268 i 1314, z 2001 r. poz. 924, 1129, 1193, 1194 i 1383, z 2002 r. poz. 33, 34, 1239, 1271 i 1683, z 2003 r. poz. 595, 1176, 1304 i 2081, z 2004 r. poz. 959, 1206, 1598 i 1845 oraz z 2005 r. poz. 71, 187 i 788. 2) Ustawa utraciła moc z dniem 1 września 2005 r. na podstawie art. 276 pkt 2 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r. 3) Ze zmianą wprowadzoną przez art. 6 ustawy z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1115), która weszła w życie z dniem 30 grudnia 1998 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 849, 1172, 1240 i 1290, z 2008 r. poz. 1056 i 1570, z 2009 r. poz. 100, 641, 817, 1241 i 1707, z 2010 r. poz. 620, 679 i 1507 oraz z 2011 r. poz. 235. 5) Ustawa utraciła moc z dniem 1 lipca 2011 r. na podstawie art. 220 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654), która weszła w życie z dniem 1 lipca 2011 r. 6) Przez art. 25 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 7) Ustawa została ogłoszona w dniu 31 maja 1993 r.
 

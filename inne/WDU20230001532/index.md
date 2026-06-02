@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 oraz niektórych innych ustaw
+# Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych oraz ustawę z dnia 8 grudnia 2017 r. o Sądzie Najwyższym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-16 |
 | Data wydania | 2023-08-07 |
-| Wejście w życie | 2023-08-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1532/text.pdf) |
 
@@ -83,7 +82,7 @@ source: "eli-html"
 
 4. Stronami postępowania w sprawie apelacji są osoba wnosząca apelację i Komisja.
 
-5. Do postępowania w sprawie apelacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) dotyczące apelacji.
+5. Do postępowania w sprawie apelacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803, 852 i 1429.) dotyczące apelacji.
 
 1. Od wydanego przez sąd apelacyjny prawomocnego wyroku lub postanowienia w przedmiocie odrzucenia apelacji albo umorzenia postępowania przed sądem apelacyjnym przysługuje skarga kasacyjna do Sądu Najwyższego.
 
@@ -150,5 +149,5 @@ source: "eli-html"
 
 5. Jeżeli członkowie Komisji nie wybiorą spośród siebie przewodniczącego Komisji w terminie, o którym mowa w ust. 4, przewodniczącego Komisji wybiera Prezes Rady Ministrów, w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 4.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych oraz ustawę z dnia 8 grudnia 2017 r. o Sądzie Najwyższym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803, 852 i 1429.
 

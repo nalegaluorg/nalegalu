@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-05 |
 | Data wydania | 2017-05-16 |
-| Wejście w życie | 2017-07-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000954) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/954/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Rady Ministrów z dnia 22 marca 2011 r. w sprawie dróg krajow
 1)
 w załączniku nr 1 do rozporządzenia:
 a)
-pkt 7 otrzymuje brzmienie:
-„
+pkt 7 otrzymuje brzmienie: „
 7)
 droga ekspresowa S1 na odcinkach:
 a)
@@ -42,17 +40,13 @@ węzeł Pyrzowice – węzeł Podwarpie,
 b)
 węzeł Dąbrowa Górnicza Pogoria – Tychy (skrzyżowanie z drogą krajową nr 86),
 c)
-węzeł Bielsko-Biała Komorowice – węzeł Żywiec Browar;
-” ,
+węzeł Bielsko-Biała Komorowice – węzeł Żywiec Browar; ” ,
 b)
-w pkt 13 lit. h otrzymuje brzmienie:
-„
+w pkt 13 lit. h otrzymuje brzmienie: „
 h)
-skrzyżowanie z drogą powiatową nr 2000B – węzeł Mężenin,
-” ,
+skrzyżowanie z drogą powiatową nr 2000B – węzeł Mężenin, ” ,
 c)
-pkt 18 otrzymuje brzmienie:
-„
+pkt 18 otrzymuje brzmienie: „
 18)
 droga ekspresowa S19 na odcinkach:
 a)
@@ -60,19 +54,15 @@ węzeł Lublin Sławinek – węzeł Lublin Węglin,
 b)
 Stobierna (połączenie z drogą krajową nr 19) – węzeł Rzeszów Wschód,
 c)
-węzeł Rzeszów Zachód – węzeł Świlcza;
-” ;
+węzeł Rzeszów Zachód – węzeł Świlcza; ” ;
 2)
 w załączniku nr 2 do rozporządzenia:
 a)
-po pkt 5 dodaje się pkt 5a w brzmieniu:
-„
+po pkt 5 dodaje się pkt 5a w brzmieniu: „
 5a)
-droga krajowa nr 24 na odcinku Pniewy (skrzyżowanie z drogą krajową nr 92) – węzeł Skwierzyna Południe;
-” ,
+droga krajowa nr 24 na odcinku Pniewy (skrzyżowanie z drogą krajową nr 92) – węzeł Skwierzyna Południe; ” ,
 b)
-po pkt 6 dodaje się pkt 6a w brzmieniu:
-„
+po pkt 6 dodaje się pkt 6a w brzmieniu: „
 6a)
 droga krajowa nr 50 na odcinkach:
 a)
@@ -82,11 +72,9 @@ Chudolipie (skrzyżowanie z drogą wojewódzką nr 876) – Dębówka (skrzyżow
 c)
 skrzyżowanie z drogą powiatową nr 2709W – skrzyżowanie z drogą powiatową nr 4201W,
 d)
-skrzyżowanie z drogą powiatową nr 4202W – węzeł Brok;
-” ,
+skrzyżowanie z drogą powiatową nr 4202W – węzeł Brok; ” ,
 c)
-pkt 13 otrzymuje brzmienie:
-„
+pkt 13 otrzymuje brzmienie: „
 13)
 droga krajowa nr 92 na odcinkach:
 a)
@@ -106,8 +94,7 @@ Kajew (skrzyżowanie z drogą krajową nr 91) – Dudki (skrzyżowanie z drogą 
 h)
 Kutno (skrzyżowanie z drogą krajową nr 60 i drogą wojewódzką nr 702) – Kuznocin (skrzyżowanie z drogą krajową nr 50),
 i)
-Sochaczew (skrzyżowanie z drogą krajową nr 50) – granica m. Warszawa;
-” .
+Sochaczew (skrzyżowanie z drogą krajową nr 50) – granica m. Warszawa; ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 9 lipca 2017 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 1 października 2021 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw
+# Ustawa z dnia 1 października 2021 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-01 |
 | Data wydania | 2021-11-17 |
-| Wejście w życie | 2021-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002071) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2071/text.pdf) |
 
@@ -78,7 +77,7 @@ source: "eli-html"
 4a. Jednorazowa odprawa pieniężna, o której mowa w art. 11a ust. 1 pkt 3, przysługuje pracownikom nieposiadającym uprawnień do urlopu górniczego albo urlopu dla pracowników zakładu przeróbki mechanicznej węgla zatrudnionym w dniu zbycia, o którym mowa w art. 8a ust. 1a:
 
 - **1)** na powierzchni kopalni, w tym w zakładzie mechanicznej przeróbki węgla, i posiadającym co najmniej roczny staż pracy w przedsiębiorstwie górniczym lub
-- **2)** pod ziemią i posiadającym co najmniej roczny staż pracy pod ziemią w przedsiębiorstwie górniczym z którymi umowa o pracę zostanie rozwiązana za porozumieniem stron w okresie do 3 miesięcy od dnia zbycia, o którym mowa w art. 8a ust. 1a.
+- **2)** pod ziemią i posiadającym co najmniej roczny staż pracy pod ziemią w przedsiębiorstwie górniczym – z którymi umowa o pracę zostanie rozwiązana za porozumieniem stron w okresie do 3 miesięcy od dnia zbycia, o którym mowa w art. 8a ust. 1a.
 
 4b. Pracownikom, o których mowa w ust. 4a, przysługuje jednorazowa odprawa pieniężna, o której mowa w art. 11a ust. 1 pkt 3, w wysokości 120 000 zł.
 
@@ -86,7 +85,7 @@ source: "eli-html"
 
 - **8)** w art. 11g dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
-2. Agencja Rozwoju Przemysłu S.A. w odniesieniu do danych osobowych zgromadzonych na podstawie ust. 1 jest administratorem w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.). ” ;
+2. Agencja Rozwoju Przemysłu S.A. w odniesieniu do danych osobowych zgromadzonych na podstawie ust. 1 jest administratorem w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.. ” ;
 
 - **9)** uchyla się art. 11h;
 - **10)** po art. 11h dodaje się art. 11i w brzmieniu: „
@@ -95,7 +94,7 @@ source: "eli-html"
 
 - **1)** szczegółowe warunki i tryb przyznawania dotacji budżetowej przeznaczonej na finansowanie jednorazowych odpraw pieniężnych,
 - **2)** tryb rozliczania dotacji budżetowej, o której mowa w pkt 1,
-- **3)** warunki powodujące czasowe wstrzymanie wypłaty przyznanej dotacji budżetowej, o której mowa w pkt 1 biorąc pod uwagę zapewnienie sprawności wypłacania jednorazowych odpraw pieniężnych, na finansowanie których będzie przyznana dotacja. ” ;
+- **3)** warunki powodujące czasowe wstrzymanie wypłaty przyznanej dotacji budżetowej, o której mowa w pkt 1 – biorąc pod uwagę zapewnienie sprawności wypłacania jednorazowych odpraw pieniężnych, na finansowanie których będzie przyznana dotacja. ” ;
 - **11)** w art. 12: w ust. 1 skreśla się wyrazy „, z zastrzeżeniem ust. 2”, uchyla się ust. 2, w ust. 9 wyrazy „Orzech II” zastępuje się wyrazem „Orzech”, ust. 10 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -167,9 +166,9 @@ source: "eli-html"
 
 6. Emisja skarbowych papierów wartościowych, o których mowa w ust. 1, następuje z dniem zarejestrowania skarbowych papierów wartościowych w depozycie papierów wartościowych oraz w kwocie równej wartości nominalnej wyemitowanych skarbowych papierów wartościowych.
 
-7. Do emisji skarbowych papierów wartościowych, o których mowa w ust. 1, przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.) oraz przepisów wydanych na podstawie art. 97 tej ustawy nie stosuje się. ” .
+7. Do emisji skarbowych papierów wartościowych, o których mowa w ust. 1, przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981 i 2054.) oraz przepisów wydanych na podstawie art. 97 tej ustawy nie stosuje się. ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) po art. 52zc dodaje się art. 52zd w brzmieniu: „ Art. 52zd. Zwalnia się od podatku dochodowego kwoty jednorazowych odpraw pieniężnych, o których mowa w art. 11d ust. 4b ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2019 r. poz. 1821 oraz z 2021 r. poz. 2071). ” .
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834 i 1981.) po art. 52zc dodaje się art. 52zd w brzmieniu: „ Art. 52zd. Zwalnia się od podatku dochodowego kwoty jednorazowych odpraw pieniężnych, o których mowa w art. 11d ust. 4b ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2019 r. poz. 1821 oraz z 2021 r. poz. 2071). ” .
 
 **Art. 3.** W ustawie z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych (Dz. U. z 2016 r. poz. 1192) wprowadza się następujące zmiany:
 
@@ -195,5 +194,5 @@ source: "eli-html"
 
 2. Limit wydatków, o których mowa w ust. 1, jest pomniejszany o nominalną wartość skarbowych papierów wartościowych przekazanych na podwyższenie kapitału zakładowego przedsiębiorstwa, o którym mowa w art. 8 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, na podstawie art. 5 oraz art. 26a ustawy zmienianej w art. 1.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 grudnia 2021 r., z wyjątkiem art. 1 pkt 11 lit. c i art. 3 pkt 2, które wchodzą w życie z dniem 1 stycznia 2022 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 grudnia 2021 r., z wyjątkiem art. 1 pkt 11 lit. c i art. 3 pkt 2, które wchodzą w życie z dniem 1 stycznia 2022 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981 i 2054. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834 i 1981.
 

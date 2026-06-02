@@ -38,27 +38,23 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2020 r
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2183), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2183), które stanowią: „
 § 2.
 Do przyznawania pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
 Do wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1939), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1939), które stanowią: „
 § 2.
 1.
 Do przyznawania pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w sprawach objętych postępowaniami wszczętymi i niezakończonymi zawarciem umowy o przyznaniu pomocy przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z tym że przepisy § 11 rozporządzenia zmienianego w § 1 stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 2.
 Do wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w sprawach objętych postępowaniami wszczętymi i niezakończonymi wypłatą pomocy do dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 października 2015 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 października 2015 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 182 i 904) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanym dalej „programem”, w tym:
@@ -76,7 +72,7 @@ przypadki, w których następcy prawnemu beneficjenta albo nabywcy gospodarstwa 
 1.
 Pomoc przyznaje się rolnikowi, o którym mowa w art. 17 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), zwanego dalej „rozporządzeniem nr 1305/2013”, jeżeli:
 1)
-jest posiadaczem gospodarstwa rolnego w rozumieniu art. 4 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 (Dz. Urz. UE L 347 z 20.12.2013, str. 608, z późn. zm.), położonego na terytorium Rzeczypospolitej Polskiej, zwanego dalej „gospodarstwem”;
+jest posiadaczem gospodarstwa rolnego w rozumieniu art. 4 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 (Dz. Urz. UE L 347 z 20.12.2013, str. 608, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 181 z 20.06.2014, str. 1, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 281 z 25.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 135 z 02.06.2015, str. 8, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 16, Dz. Urz. UE L 167 z 30.06.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15 oraz Dz. Urz. UE L 30 z 02.02.2018, str. 6., położonego na terytorium Rzeczypospolitej Polskiej, zwanego dalej „gospodarstwem”;
 2)
 (uchylony);
 3)
@@ -158,7 +154,7 @@ pkt 3 jest zaświadczenie o zatrudnieniu zawierające informację potwierdzając
 pkt 4 jest zaświadczenie o odbyciu stażu dla bezrobotnych w gospodarstwie wydane przez starostę lub – w przypadku odbycia takiego stażu w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – odpowiedni dokument wydany przez właściwy organ lub instytucję tego państwa.
 4.
 (uchylony).
-5.
+5W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2183), które weszło w życie z dniem 27 listopada 2019 r..
 Pomoc na operację obejmującą inwestycję, o której mowa w ust. 1 pkt 1 lit. b, przyznaje się w przypadku, gdy w gospodarstwie są spełnione wymagania określone w programie działań dotyczące warunków przechowywania nawozów naturalnych płynnych, albo w przypadku, gdy operacja ta obejmuje również realizację inwestycji, o której mowa w ust. 1 pkt 1 lit. a tiret pierwsze.
 § 4.
 Pomoc przyznaje się na operację:
@@ -176,8 +172,7 @@ zbiorników do przechowywania nawozów naturalnych płynnych,
 b)
 płyt do gromadzenia i przechowywania nawozów naturalnych stałych,
 c)
-zbiorników lub płyt do przechowywania kiszonek
-wraz z zakupem instalacji technicznej lub wyposażenia,
+zbiorników lub płyt do przechowywania kiszonek – wraz z zakupem instalacji technicznej lub wyposażenia,
 2)
 rozbiórki i utylizacji materiałów pochodzących z rozbiórki pod warunkiem, że rozbiórka jest niezbędna w celu realizacji operacji,
 3)
@@ -197,8 +192,7 @@ zakupu wozów asenizacyjnych z aplikatorami nawozów naturalnych w postaci płyn
 5)
 (uchylony),
 6)
-ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi”
-które są uzasadnione wielkością prowadzonej w gospodarstwie produkcji, adekwatne do panujących w nim warunków gospodarowania, niezbędne do osiągnięcia celu operacji oraz racjonalne.
+ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi” – które są uzasadnione wielkością prowadzonej w gospodarstwie produkcji, adekwatne do panujących w nim warunków gospodarowania, niezbędne do osiągnięcia celu operacji oraz racjonalne.
 2.
 Do kosztów kwalifikowalnych zalicza się koszty budowy, przebudowy lub zakupu zbiorników, o których mowa w ust. 1 pkt 1 lit. a, oraz płyt, o których mowa w ust. 1 pkt 1 lit. b, o pojemności lub powierzchni, która:
 1)
@@ -305,9 +299,9 @@ Wniosek o przyznanie pomocy zawiera dane niezbędne do jej przyznania, w szczeg�
 1)
 numer identyfikacyjny podmiotu ubiegającego się o przyznanie pomocy albo numer identyfikacyjny:
 a)
-(uchylona),
+(uchylona),Przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1939), które weszło w życie z dniem 4 listopada 2020 r.
 b)
-(uchylona),
+(uchylona),Przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1939), które weszło w życie z dniem 4 listopada 2020 r.
 c)
 spółki cywilnej, której jest wspólnikiem – w przypadku wspólnika spółki cywilnej;
 2)
@@ -344,19 +338,18 @@ zestawienie rzeczowo-finansowe operacji;
 kwotę wnioskowanej pomocy.
 2.
 Do wniosku o przyznanie pomocy dołącza się:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.)
 biznesplan opracowany na formularzu udostępnionym przez Agencję;
 2)
 kopie dokumentów określonych w:
 a)
 załączniku nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 lipca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, potwierdzających posiadanie kwalifikacji zawodowych w zakresie wykształcenia, lub
 b)
-§ 3 ust. 3b, potwierdzających posiadanie kwalifikacji zawodowych w zakresie stażu pracy
-w przypadku operacji realizowanej przez młodego rolnika;
+§ 3 ust. 3b, potwierdzających posiadanie kwalifikacji zawodowych w zakresie stażu pracy – w przypadku operacji realizowanej przez młodego rolnika;
 3)
 (uchylony);
 4)
-(uchylony);
+(uchylony);Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
 5)
 kopię umowy spółki cywilnej – w przypadku gdy operacja będzie realizowana w ramach wykonywania działalności gospodarczej w formie spółki cywilnej;
 6)
@@ -381,7 +374,7 @@ kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, których uzyskanie j
 kopię dokumentacji dotyczącej ewidencji środków trwałych oraz wartości niematerialnych i prawnych – w przypadku gdy podmiot ubiegający się o przyznanie pomocy jest zobowiązany do prowadzenia ewidencji zgodnie z przepisami o podatku dochodowym od osób fizycznych lub przepisami o rachunkowości;
 15)
 kopię dokumentacji dotyczącej wykazu środków trwałych oraz wartości niematerialnych i prawnych – w przypadku gdy podmiot ubiegający się o przyznanie pomocy jest zobowiązany do prowadzenia wykazu zgodnie z przepisami o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne;
-16)
+16Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 kopię wniosku o wpis do ewidencji producentów, o której mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, jeżeli podmiotowi ubiegającemu się o przyznanie pomocy lub spółce cywilnej, której jest wspólnikiem, nie został nadany numer identyfikacyjny, a w przypadku składania wniosku o wpis tego podmiotu do tej ewidencji łącznie z wnioskiem o przyznanie pomocy – oryginał wniosku;
 17)
 informację o numerze rachunku bankowego podmiotu ubiegającego się o przyznanie pomocy – w przypadku gdy podmiot ten ubiega się o zaliczkę;
@@ -391,22 +384,21 @@ dokument określający dane osób uprawnionych do reprezentowania podmiotu ubieg
 oświadczenie podmiotu ubiegającego się o przyznanie pomocy o spełnieniu w gospodarstwie wymagań określonych w programie działań, dotyczących warunków przechowywania nawozów naturalnych płynnych – w przypadku gdy operacja nie obejmuje realizacji inwestycji, o której mowa w § 3 ust. 1 pkt 1 lit. a tiret pierwsze;
 18)
 inne dokumenty potwierdzające spełnienie warunków do przyznania pomocy.
-2a.
+2aDodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 4..
 Jeżeli biznesplan nie jest składany w formie dokumentu elektronicznego na elektroniczną skrzynkę podawczą w rozumieniu art. 3 pkt 17 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670, 952 i 1005), składa się go na informatycznym nośniku danych (CD, DVD lub pamięć USB) wraz z wydrukiem podsumowania tego biznesplanu.
 3.
 Kopie dokumentów dołącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Agencji lub podmiot, który wydał dokument, albo poświadczonych za zgodność z oryginałem przez notariusza lub przez występującego w sprawie pełnomocnika będącego radcą prawnym lub adwokatem, z tym że kopie, o których mowa w ust. 2 pkt 14 i 15, mogą być potwierdzone przez podmiot ubiegający się o przyznanie pomocy.
 4.
 Podmiot ubiegający się o przyznanie pomocy informuje Agencję, w formie pisemnej, o wszelkich zmianach w zakresie danych objętych wnioskiem o przyznanie pomocy niezwłocznie po ich zaistnieniu.
 § 11.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4..
 Jeżeli wniosek o przyznanie pomocy nie został złożony:
 1)
 w terminie, o którym mowa w § 7 ust. 2, lub
 2)
-w sposób określony w § 9 ust. 1 zdanie drugie i ust. 2 albo w art. 42b ust. 2 ustawy
-Agencja pozostawia wniosek bez rozpatrzenia.
+w sposób określony w § 9 ust. 1 zdanie drugie i ust. 2 albo w art. 42b ust. 2 ustawy – Agencja pozostawia wniosek bez rozpatrzenia.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4.
 3.
 Jeżeli we wniosku o przyznanie pomocy nie wskazano adresu podmiotu ubiegającego się o przyznanie pomocy i adresu tego nie można ustalić na podstawie posiadanych danych lub podmiot ten pisemnie poinformował o rezygnacji z ubiegania się o pomoc, wniosek pozostawia się bez rozpatrzenia.
 4.
@@ -473,7 +465,7 @@ Prezes Agencji, nie później niż w terminie 50 dni od dnia upływu terminu sk�
 Jeżeli dane zawarte we wniosku o przyznanie pomocy mające wpływ na ustalenie kolejności przysługiwania pomocy ulegną zmianie, aktualizacji informacji o kolejności przysługiwania pomocy dokonuje się wyłącznie w przypadku, gdy z nowych danych wynika, że pomoc przysługuje w dalszej kolejności niż pierwotnie ustalona.
 3.
 Agencja nie przyznaje pomocy, jeżeli w wyniku zmiany, o której mowa w ust. 2, przyznano mniej niż 1 punkt. Przepis art. 35 ust. 1 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4..
 Informacja, o której mowa w ust. 1, jest aktualizowana w przypadku, o którym mowa w ust. 2, nie rzadziej niż co:
 1)
 20 dni – w terminie 3 miesięcy od dnia podania do publicznej wiadomości informacji, o której mowa w ust. 1;
@@ -538,7 +530,7 @@ zrealizowania operacji i złożenia wniosku o płatność końcową w terminie, 
 uwzględniania wszystkich transakcji związanych z operacją w oddzielnym systemie rachunkowości albo wykorzystywania do ich identyfikacji odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013;
 10)
 zrealizowania inwestycji, o której mowa w § 3 ust. 1 pkt 1 lit. a tiret drugie, w terminie 24 miesięcy od dnia rozpoczęcia przez młodego rolnika prowadzenia gospodarstwa jako kierujący – w przypadku operacji, która obejmuje taką inwestycję oraz inną inwestycję, o której mowa w § 3 ust. 1 pkt 1;
-11)
+11Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4.)
 zabezpieczenia należytego wykonania zobowiązań określonych w umowie.
 2.
 Zobowiązania, o których mowa w ust. 1 pkt 5 i 6, są wykonywane do dnia, w którym upływa 5 lat od dnia wypłaty płatności końcowej.
@@ -546,9 +538,9 @@ Zobowiązania, o których mowa w ust. 1 pkt 5 i 6, są wykonywane do dnia, w kt�
 Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu udostępnionym przez Agencję, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
 § 21.
 1.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4.
 3.
 Beneficjent będący osobą fizyczną dołącza do umowy oświadczenie:
 1)
@@ -563,18 +555,17 @@ zrealizował operację, w tym poniósł związane z tym koszty,
 2)
 zrealizował lub realizuje zobowiązania określone w umowie,
 3)
-udokumentował zrealizowanie operacji, w tym poniesienie kosztów kwalifikowalnych z tym związanych
-zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz warunkami określonymi w innych przepisach dotyczących inwestycji objętych operacją, nie później niż do dnia złożenia wniosku o płatność końcową, a gdy został wezwany do usunięcia braków w tym wniosku, zgodnie z § 23 ust. 2 lub 3 – nie później niż w terminie 14 dni od dnia doręczenia tego wezwania.
+udokumentował zrealizowanie operacji, w tym poniesienie kosztów kwalifikowalnych z tym związanych – zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz warunkami określonymi w innych przepisach dotyczących inwestycji objętych operacją, nie później niż do dnia złożenia wniosku o płatność końcową, a gdy został wezwany do usunięcia braków w tym wniosku, zgodnie z § 23 ust. 2 lub 3 – nie później niż w terminie 14 dni od dnia doręczenia tego wezwania.
 2.
 Koszty kwalifikowalne podlegają refundacji w pełnej wysokości, określonej w § 5 ust. 8, jeżeli zostały:
 1)
 poniesione:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.)
 od dnia, w którym został złożony wniosek o przyznanie pomocy, i jeżeli realizacja zestawienia rzeczowo-finansowego operacji w zakresie danego kosztu została rozpoczęta nie wcześniej niż w tym dniu, a w przypadku kosztów ogólnych – od dnia 1 stycznia 2014 r.,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.)
 zgodnie z przepisami:
 – o zamówieniach publicznych – w przypadku gdy te przepisy mają zastosowanie,
-– (uchylone),
+– (uchylone),Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4.
 c)
 w formie rozliczenia bezgotówkowego;
 2)
@@ -618,11 +609,11 @@ na następcę prawnego beneficjenta przeszły prawa beneficjenta nabyte w ramach
 Wniosek następcy prawnego beneficjenta o przyznanie pomocy, zwany dalej „wnioskiem następcy”, składa się w oddziale regionalnym Agencji właściwym ze względu na miejsce realizacji operacji, w terminie 2 miesięcy od dnia zaistnienia zdarzenia określonego w ust. 1.
 3.
 Do wniosku następcy dołącza się dokument potwierdzający fakt zaistnienia następstwa prawnego.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 Jeżeli nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku albo w przedmiocie wydania europejskiego poświadczenia spadkowego, spadkobierca beneficjenta dołącza do wniosku następcy oświadczenie o trwającym postępowaniu sądowym o stwierdzenie nabycia spadku albo w przedmiocie wydania europejskiego poświadczenia spadkowego ze wskazaniem sądu prowadzącego sprawę i sygnatury akt sprawy.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku, o którym mowa w ust. 4, spadkobierca przekazuje Agencji niezwłocznie od dnia uprawomocnienia się postanowienia o stwierdzeniu nabycia spadku albo postanowienia w przedmiocie wydania europejskiego poświadczenia spadkowego odpis tego postanowienia.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 Jeżeli z prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowanego aktu poświadczenia dziedziczenia, albo europejskiego poświadczenia spadkowego wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca, który złożył wniosek następcy, dołącza do tego wniosku oświadczenia pozostałych spadkobierców, że wyrażają zgodę na przyznanie pomocy temu spadkobiercy.
 7.
 W przypadku złożenia wniosku następcy po upływie terminu, o którym mowa w ust. 2, Agencja nie przyznaje pomocy, o czym informuje podmiot ubiegający się o przyznanie pomocy w formie pisemnej, podając przyczynę nieprzyznania pomocy. Przepis art. 35 ust. 1 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
@@ -677,14 +668,13 @@ W 2015 r. Agencja udostępni formularz wniosku o płatność oraz wzór umowy na
 W 2018 r. ogłoszenie o naborze wniosków o przyznanie pomocy podaje się do publicznej wiadomości nie później niż 7 dni przed planowanym terminem rozpoczęcia biegu terminu składania tych wniosków.
 2.
 W przypadku ogłoszenia o naborze wniosków o przyznanie pomocy podanego do publicznej wiadomości w 2018 r., termin, o którym mowa w § 7 ust. 3, nie może być krótszy niż 14 i dłuższy niż 60 dni.
-§ 31b.
+§ 31bDodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4..
 1.
 W 2020 r. ogłoszenie o naborze wniosków o przyznanie pomocy podaje się do publicznej wiadomości nie później niż 7 dni przed planowanym terminem rozpoczęcia biegu terminu składania tych wniosków.
 2.
 W ogłoszeniu o naborze wniosków o przyznanie pomocy podanym do publicznej wiadomości w 2020 r., termin określony w § 7 ust. 3 nie może być krótszy niż 14 i dłuższy niż 60 dni.
 § 32.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 181 z 20.06.2014, str. 1, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 281 z 25.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 135 z 02.06.2015, str. 8, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 16, Dz. Urz. UE L 167 z 30.06.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15 oraz Dz. Urz. UE L 30 z 02.02.2018, str. 6. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2183), które weszło w życie z dniem 27 listopada 2019 r. 4) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1939), które weszło w życie z dniem 4 listopada 2020 r. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 6) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 7) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 8) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 4. 9) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 10) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4. 11) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 12) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 13) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 14) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 15) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4. 16) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 17) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4. 18) Rozporządzenie zostało ogłoszone w dniu 4 listopada 2015 r.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 4 listopada 2015 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 181 z 20.06.2014, str. 1, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 281 z 25.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 135 z 02.06.2015, str. 8, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 16, Dz. Urz. UE L 167 z 30.06.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15 oraz Dz. Urz. UE L 30 z 02.02.2018, str. 6. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 2183), które weszło w życie z dniem 27 listopada 2019 r. 4) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1939), które weszło w życie z dniem 4 listopada 2020 r. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 6) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 7) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 8) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 4. 9) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 10) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4. 11) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 12) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 13) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 14) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 15) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4. 16) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 17) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4. 18) Rozporządzenie zostało ogłoszone w dniu 4 listopada 2015 r.
 Załącznik –
 (uchylony)
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 30 września 2019 r. w sprawie powierzenia prowadzenia rejestru jachtów i innych jednostek pływających o długości do 24 m i administrowania nim
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 30 września 2019 r. w sprawie powierzenia prowadzenia rejestru jachtów i innych jednostek pływających o długości do 24 m i administrowania nim Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-30 |
 | Data wydania | 2019-10-09 |
-| Wejście w życie | 2019-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001908) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1908/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 17 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i 
 § 1.
 Prowadzenie rejestru jachtów i innych jednostek pływających o długości do 24 m i administrowanie nim powierza się Dyrektorowi Urzędu Morskiego w Szczecinie.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2020 r.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2020 r. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 

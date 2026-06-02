@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-11-26 |
 | Data wydania | 2011-01-10 |
-| Wejście w życie | 2011-07-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110060017) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/17/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2002 r. Nr 12, poz. 110, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2002 r. Nr 12, poz. 110, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2021, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 121, poz. 1265 i Nr 173, poz. 1808, z 2008 r. Nr 180, poz. 1112 oraz z 2010 r. Nr 47, poz. 278.) wprowadza się następujące zmiany:
 
 - **1)** w art. 8: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -59,8 +58,12 @@ source: "eli-html"
 
 2. Organ, o którym mowa w ust. 1, może upoważnić do przeprowadzenia kontroli działalności gospodarczej w zakresie usług detektywistycznych Komendanta Głównego Policji oraz komendantów wojewódzkich Policji. ” ;
 
-- **5)** w art. 29: w ust. 1: – pkt 8 i 9 otrzymują brzmienie: „ 8) posiada pozytywną opinię komendanta powiatowego (rejonowego, miejskiego) Policji właściwego ze względu na miejsce zamieszkania, sporządzoną na podstawie aktualnie posiadanych informacji przez Policję albo – w przypadku obywatela innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym – przez organ odpowiedniego szczebla i kompetencji tych państw, właściwy ze względu na miejsce zamieszkania, 9) posiada zdolność psychiczną do wykonywania czynności, o których mowa w art. 2 ust. 1, stwierdzoną orzeczeniem lekarskim, ” , – dodaje się pkt 10 w brzmieniu: „ 10) zdała egzamin na licencję detektywa, zwany dalej „egzaminem”, przed właściwą komisją egzaminacyjną albo uzyskała w trybie przepisów ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej decyzję w sprawie uznania kwalifikacji w zawodzie detektywa. ” , ust. 2 otrzymuje brzmienie: „
+- **5)** w art. 29: w ust. 1: pkt 8 i 9 otrzymują brzmienie: „
     - **a)**
+
+- **8)** posiada pozytywną opinię komendanta powiatowego (rejonowego, miejskiego) Policji właściwego ze względu na miejsce zamieszkania, sporządzoną na podstawie aktualnie posiadanych informacji przez Policję albo – w przypadku obywatela innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym – przez organ odpowiedniego szczebla i kompetencji tych państw, właściwy ze względu na miejsce zamieszkania,
+- **9)** posiada zdolność psychiczną do wykonywania czynności, o których mowa w art. 2 ust. 1, stwierdzoną orzeczeniem lekarskim, ” , dodaje się pkt 10 w brzmieniu: „
+- **10)** zdała egzamin na licencję detektywa, zwany dalej „egzaminem”, przed właściwą komisją egzaminacyjną albo uzyskała w trybie przepisów ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej decyzję w sprawie uznania kwalifikacji w zawodzie detektywa. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Okoliczności, o których mowa w ust. 1 pkt 4–6 i 10, potwierdzają odpowiednio: pisemne oświadczenie osoby ubiegającej się o wydanie licencji oraz zaświadczenie o niekaralności, zaświadczenie o zdaniu egzaminu albo decyzja o uznaniu kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej w sprawie uznania kwalifikacji w zawodzie detektywa. Dokumenty te osoba ubiegająca się o wydanie licencji jest obowiązana złożyć wraz z wnioskiem o wydanie licencji. ” , uchyla się ust. 3;
@@ -124,7 +127,7 @@ source: "eli-html"
 - **4)** tryb pracy zespołu oraz sposób opracowania i przekazania Komendantowi Głównemu Policji pytań i zadań praktycznych na egzamin,
 - **5)** szczegółową organizację egzaminu, w tym sposób oceniania i czas trwania egzaminu,
 - **6)** sposób przeprowadzania i dokumentowania egzaminu,
-- **7)** wzory dokumentów egzaminacyjnych mając na uwadze zapewnienie prawidłowego, terminowego i efektywnego przygotowania pytań i zadań praktycznych na egzamin oraz przeprowadzenie egzaminu z zachowaniem bezstronności pracy komisji. ” ;
+- **7)** wzory dokumentów egzaminacyjnych – mając na uwadze zapewnienie prawidłowego, terminowego i efektywnego przygotowania pytań i zadań praktycznych na egzamin oraz przeprowadzenie egzaminu z zachowaniem bezstronności pracy komisji. ” ;
 - **11)** w art. 37 ust. 1 otrzymuje brzmienie: „
 
 1. Komendant wojewódzki Policji odmawia wydania licencji, jeżeli osoba ubiegająca się o jej wydanie nie spełnia wymogów, o których mowa w art. 29 ust. 1. ” ;
@@ -151,5 +154,5 @@ source: "eli-html"
 
 5. W przypadku, o którym mowa w ust. 4, osoba ubiegająca się o przystąpienie do egzaminu na licencję detektywa jest obowiązana przedłożyć Komendantowi Głównemu Policji, najpóźniej 30 dni przed terminem rozpoczęcia egzaminu, dowód uiszczenia opłaty egzaminacyjnej.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2021, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 121, poz. 1265 i Nr 173, poz. 1808, z 2008 r. Nr 180, poz. 1112 oraz z 2010 r. Nr 47, poz. 278.
 

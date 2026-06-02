@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 13 grudnia 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 13 grudnia 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2326).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 30 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 375), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2016 r. zmieniającym rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 852).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2016 r. zmieniającego rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 852), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2016 r. zmieniającego rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 852), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2326).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 30 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2326).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 30 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodzinyObecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2326).
 Na podstawie art. 23 ust. 4 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. poz. 1203 oraz z 2017 r. poz. 60) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -68,7 +65,7 @@ poradę rodzinną;
 5)
 interwencję kryzysową.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2016 r. zmieniającego rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 852), które weszło w życie z dniem 30 czerwca 2016 r..
 Minister właściwy do spraw wewnętrznych monitoruje realizację prawa weteranów poszkodowanych-funkcjonariuszy do pomocy psychologicznej udzielanej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, zwanych dalej „podmiotami”.
 2.
 Monitorowanie realizacji prawa weteranów poszkodowanych-funkcjonariuszy do pomocy psychologicznej obejmuje zbieranie i analizę informacji dotyczących dostępności oraz zakresu udzielonej pomocy psychologicznej.
@@ -76,17 +73,16 @@ Monitorowanie realizacji prawa weteranów poszkodowanych-funkcjonariuszy do pomo
 Monitorowanie, o którym mowa w ust. 2, polega na:
 1)
 dokonywaniu kompleksowej oceny dostępności pomocy psychologicznej dla weteranów poszkodowanych-funkcjonariuszy;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 współdziałaniu z podmiotami w zakresie pozyskiwania informacji o realizacji prawa weteranów poszkodowanych-funkcjonariuszy do uzyskania pomocy psychologicznej;
 3)
 udzielaniu odpowiedzi na skargi i wnioski weteranów poszkodowanych-funkcjonariuszy dotyczące korzystania z pomocy psychologicznej.
-§ 5.
+§ 5W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Podmioty przekazują ministrowi właściwemu do spraw wewnętrznych w terminie do dnia 31 stycznia każdego roku, za rok poprzedni, informacje o:
 1)
 zakresie pomocy psychologicznej udzielonej weteranom poszkodowanym-funkcjonariuszom;
 2)
 liczbie weteranów poszkodowanych-funkcjonariuszy, którzy skorzystali z pomocy psychologicznej udzielanej w podmiotach.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2326). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2016 r. zmieniającego rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 852), które weszło w życie z dniem 30 czerwca 2016 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 4 kwietnia 2012 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 4 kwietnia 2012 r.. 1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2326). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2016 r. zmieniającego rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 852), które weszło w życie z dniem 30 czerwca 2016 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Rozporządzenie zostało ogłoszone w dniu 4 kwietnia 2012 r.
 

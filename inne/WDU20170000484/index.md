@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-03 |
 | Data wydania | 2017-03-06 |
-| Wejście w życie | 2017-03-06 |
 | Ostatnia zmiana | 2025-06-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/484/text.pdf) |
 
@@ -129,5 +128,5 @@ Jeżeli prokurator zamieszkuje w miejscu delegowania wspólnie z członkami rodz
 4.
 Przepisy § 2 ust. 4–7 stosuje się odpowiednio, z tym że do rozliczenia przyjmuje się średni kurs euro ogłaszany przez Narodowy Bank Polski w ostatnim dniu miesiąca kalendarzowego poprzedzającego miesiąc, w którym następuje rozliczenie.
 § 12.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 23 maja 2008 r. w sprawie należności przysługujących prokuratorom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa (Dz. U. z 2013 r. poz. 1106), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103) utraciło moc. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 23 maja 2008 r. w sprawie należności przysługujących prokuratorom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa (Dz. U. z 2013 r. poz. 1106), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103) utraciło moc.
 

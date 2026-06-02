@@ -1,42 +1,79 @@
 {
-  "generated_at": "2026-05-28T17:57:41Z",
+  "generated_at": "2026-06-02T19:40:24Z",
   "acts": {
-    "published": 16649,
-    "rejected": 5958,
-    "total_in_db": 19614
+    "published": 18266,
+    "rejected": 70,
+    "total_in_db": 19664
   },
   "content": {
-    "total_body_chars": 387089268,
-    "total_articles": 131289,
-    "avg_body_chars": 23250,
-    "avg_articles": 7.9
+    "total_body_chars": 495166253,
+    "total_articles": 113743,
+    "avg_body_chars": 27108,
+    "avg_articles": 6.2
   },
   "sources": {
-    "eli-html": 15785,
-    "isap-pdf": 864
+    "eli-html": 14332,
+    "isap-pdf": 3934
+  },
+  "act_types": {
+    "Rozporządzenie": 10420,
+    "Ustawa": 4064,
+    "Obwieszczenie": 2051,
+    "Orzeczenie": 1343,
+    "Umowa międzynarodowa": 328,
+    "Protokół": 18,
+    "Uchwała": 10,
+    "Konwencja": 8,
+    "Porozumienie": 8,
+    "Postanowienie": 6,
+    "Oświadczenie rządowe": 4,
+    "Dekret": 3,
+    "Traktat": 1,
+    "Decyzja": 1,
+    "Oświadczenie": 1
+  },
+  "statuses": {
+    "obowiązujący": 11154,
+    "akt objęty tekstem jednolitym": 5088,
+    "akt posiada tekst jednolity": 1540,
+    "nieobowiązujący - uchylona podstawa prawna": 482,
+    "wygaśnięcie aktu": 2
+  },
+  "pdf_types": {
+    "O": 12279,
+    "unknown": 3937,
+    "T": 2023,
+    "U": 27
+  },
+  "unified_text_pdf_types": {
+    "unknown": 3755,
+    "O": 2852,
+    "U": 16,
+    "T": 5
   },
   "domains": {
-    "inne": 15817,
-    "prawo-podatkowe": 186,
-    "prawo-karne": 149,
-    "prawo-cywilne": 137,
-    "prawo-pracy": 63,
-    "prawo-ochrony-srodowiska": 62,
-    "prawo-administracyjne": 59,
-    "prawo-budowlane": 42,
+    "inne": 17497,
+    "prawo-podatkowe": 167,
+    "prawo-karne": 146,
+    "prawo-cywilne": 127,
+    "prawo-pracy": 56,
+    "prawo-ochrony-srodowiska": 56,
+    "prawo-administracyjne": 54,
+    "prawo-budowlane": 38,
     "prawo-energetyczne": 34,
-    "prawo-bankowe": 27,
-    "prawo-handlowe": 24,
-    "prawo-upadlosciowe": 17,
-    "prawo-zamowien": 12,
-    "prawo-morskie": 7,
-    "prawo-ochrony-danych": 7,
+    "prawo-bankowe": 23,
+    "prawo-handlowe": 21,
+    "prawo-zamowien": 17,
+    "prawo-upadlosciowe": 12,
+    "prawo-ochrony-danych": 6,
+    "prawo-morskie": 5,
     "prawo-telekomunikacyjne": 5,
-    "prawo-konstytucyjne": 1
+    "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 42,
-    "rejected_scans": 59,
-    "rejected_other": 5899
+    "quality_gate_blocked": 456,
+    "original_pdf_for_unified_skipped": 2602,
+    "rejected_scans": 3,
+    "rejected_other": 67
   }
 }

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2017-12-22 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002409) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2409/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14: w ust. 1 w pkt 1 po wyrazach „zwanej dalej „Szkołą” „ skreśla się wyrazy „dyrektora Centrum Informatyki KAS, zwanego dalej „Centrum”,”, w ust. 3 po wyrazach „dyrektora Szkoły” skreśla się przecinek i wyrazy „dyrektora Centrum”;
     - **a)**
@@ -69,7 +68,7 @@ source: "eli-html"
 
 - **1)** Szefa Krajowej Administracji Skarbowej,
 - **2)** dyrektora Krajowej Informacji Skarbowej,
-- **3)** dyrektorów izb administracji skarbowej dotyczących obszaru informatyki, z wyłączeniem informatyki śledczej, w zakresie dostarczania usług informatycznych będących przedmiotem działalności Centrum Informatyki Resortu Finansów, w tym finansowanych albo dofinansowanych ze środków pochodzących z budżetu Unii Europejskiej, przejmuje Centrum Informatyki Resortu Finansów.
+- **3)** dyrektorów izb administracji skarbowej – dotyczących obszaru informatyki, z wyłączeniem informatyki śledczej, w zakresie dostarczania usług informatycznych będących przedmiotem działalności Centrum Informatyki Resortu Finansów, w tym finansowanych albo dofinansowanych ze środków pochodzących z budżetu Unii Europejskiej, przejmuje Centrum Informatyki Resortu Finansów.
 
 4. Należności i zobowiązania dyrektora Krajowej Informacji Skarbowej oraz Krajowej Informacji Skarbowej, dyrektorów izb administracji skarbowej oraz izb administracji skarbowej, związane z przejętym przez Centrum Informatyki Resortu Finansów mieniem, o którym mowa w ust. 2, oraz wynikające z umów i porozumień, o których mowa w ust. 3, stają się należnościami i zobowiązaniami Centrum Informatyki Resortu Finansów. ” ;
 
@@ -81,5 +80,5 @@ source: "eli-html"
 
 - **5)** art. 168 i art. 192 ust. 2–4, które wchodzą w życie z dniem 1 stycznia 2019 r. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 i art. 2 pkt 1–4 i 6, pkt 7 lit. a i pkt 8 lit. a, które wchodzą w życie z dniem 1 stycznia 2018 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 i art. 2 pkt 1–4 i 6, pkt 7 lit. a i pkt 8 lit. a, które wchodzą w życie z dniem 1 stycznia 2018 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321.
 

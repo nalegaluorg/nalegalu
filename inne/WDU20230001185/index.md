@@ -26,13 +26,20 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1185/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów Rozdział 1 – Przepisy ogólne Rozdział 2 – Pobieranie komórek, tkanek lub narządów ze zwłok ludzkich Rozdział 3 – Pobieranie komórek, tkanek lub narządów od żywych dawców Rozdział 4 – Szczególne rodzaje pobierania i przeszczepiania komórek, tkanek i narządów Rozdział 5 – Dawstwo komórek, tkanek i narządów lub ich części Rozdział 6 – Banki tkanek i komórek Rozdział 7 – Postępowanie z komórkami, tkankami oraz narządami Rozdział 7a – Znakowanie, monitorowanie oraz kryteria bezpieczeństwa i jakości komórek, tkanek i narządów Rozdział 8 – Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”, Krajowe Centrum Bankowania Tkanek i Komórek i Krajowa Rada Transplantacyjna Rozdział 9 – Nadzór Rozdział 10 – Przepisy karne Rozdział 11 – Zmiany w przepisach obowiązujących Rozdział 12 – Przepisy przejściowe, dostosowawcze i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2020 r. poz. 2134), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 kwietnia 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 166 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 166 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280), który stanowi: „
+Przepisy ogólne
+Pobieranie komórek, tkanek lub narządów ze zwłok ludzkich
+Pobieranie komórek, tkanek lub narządów od żywych dawców
+Szczególne rodzaje pobierania i przeszczepiania komórek, tkanek i narządów
+Dawstwo komórek, tkanek i narządów lub ich części
+Banki tkanek i komórek
+Postępowanie z komórkami, tkankami oraz narządami
+Znakowanie, monitorowanie oraz kryteria bezpieczeństwa i jakości komórek, tkanek i narządów
 1.
 Bank tkanek i komórek oznacza komórki i tkanki w sposób umożliwiający identyfikację ich dawcy za pomocą jednolitego kodu europejskiego najpóźniej przed ich dopuszczeniem do obiegu lub dystrybucją w celu przeszczepienia lub zastosowania u ludzi.
 2.
@@ -103,8 +110,7 @@ prowadzić walidację wszystkich procesów,
 2)
 określać krytyczne momenty wszystkich procesów, które powinny być kontrolowane w oparciu o wyznaczone kryteria akceptacji,
 3)
-prowadzić kwalifikację sprzętu, urządzeń technicznych i środowiska przebiegającego procesu rozumianą jako udokumentowane działanie mające na celu wykazanie, że to środowisko, sprzęt lub urządzenia są odpowiednio zainstalowane i pracują właściwie
-w celu zapewnienia jakości i bezpieczeństwa wymaganego dla danego typu komórki, tkanki lub narządu oraz uzyskania oczekiwanych wyników.
+prowadzić kwalifikację sprzętu, urządzeń technicznych i środowiska przebiegającego procesu rozumianą jako udokumentowane działanie mające na celu wykazanie, że to środowisko, sprzęt lub urządzenia są odpowiednio zainstalowane i pracują właściwie – w celu zapewnienia jakości i bezpieczeństwa wymaganego dla danego typu komórki, tkanki lub narządu oraz uzyskania oczekiwanych wyników.
 Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 1)
 sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek lub tkanek oraz sposób oznaczania komórek lub tkanek – w postaci zastosowania jednolitego kodu europejskiego,
@@ -113,15 +119,45 @@ sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację 
 3)
 sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy narządów oraz sposób oznaczania narządów za pomocą tego oznakowania,
 4)
-wymagania w zakresie monitorowania, o którym mowa w art. 37c ust. 3
-uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców oraz możliwość prawidłowego przeanalizowania i prześledzenia drogi tkanek i komórek od dawcy do biorcy i odwrotnie.
+wymagania w zakresie monitorowania, o którym mowa w art. 37c ust. 3 – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców oraz możliwość prawidłowego przeanalizowania i prześledzenia drogi tkanek i komórek od dawcy do biorcy i odwrotnie.
+Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”, Krajowe Centrum Bankowania Tkanek i Komórek i Krajowa Rada Transplantacyjna
+Nadzór
+Przepisy karne
+Zmiany w przepisach obowiązujących
+Przepisy przejściowe, dostosowawcze i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Pobieranie komórek, tkanek lub narządów ze zwłok ludzkich
+
+#### Rozdział 3 – Pobieranie komórek, tkanek lub narządów od żywych dawców
+
+#### Rozdział 4 – Szczególne rodzaje pobierania i przeszczepiania komórek, tkanek i narządów
+
+#### Rozdział 5 – Dawstwo komórek, tkanek i narządów lub ich części
+
+#### Rozdział 6 – Banki tkanek i komórek
+
+#### Rozdział 7 – Postępowanie z komórkami, tkankami oraz narządami
+
+#### Rozdział 7a – Znakowanie, monitorowanie oraz kryteria bezpieczeństwa i jakości komórek, tkanek i narządów
+
+#### Rozdział 8 – Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”, Krajowe Centrum Bankowania Tkanek i Komórek i Krajowa Rada Transplantacyjna
+
+#### Rozdział 9 – Nadzór
+
+#### Rozdział 10 – Przepisy karne
+
+#### Rozdział 11 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 12 – Przepisy przejściowe, dostosowawcze i końcowe
 
 **Art. 166.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 31 ust. 4, art. 68 ust. 2 pkt 5 i ust. 3, art. 76 pkt 23, art. 88 pkt 9 lit. c tiret drugie, art. 147 pkt 2 oraz art. 149 pkt 1–4 i 12–17, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
-- **2)** art. 149 pkt 5–11 oraz art. 152–154, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
+- **2)** art. 149 pkt 5–11 oraz art. 152–154, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządówNiniejsza ustawa wdraża postanowienia następujących dyrektyw Unii Europejskiej: 1) dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48, Dz. Urz. UE L 188 z 18.07.2009, str. 14 i Dz. Urz. UE L 7 z 13.01.2015, str. 5/2) – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291); 2) dyrektywy Komisji (UE) 2015/565 z dnia 8 kwietnia 2015 r. zmieniającej dyrektywę 2006/86/WE w odniesieniu do niektórych wymagań technicznych dotyczących kodowania tkanek i komórek ludzkich (Dz. Urz. UE L 93 z 09.04.2015, str. 43); 3) dyrektywy Komisji (UE) 2015/566 z dnia 8 kwietnia 2015 r. w sprawie wykonania dyrektywy 2004/23/WE w odniesieniu do procedur weryfikacji równorzędnych norm jakości i bezpieczeństwa przywożonych tkanek i komórek (Dz. Urz. UE L 93 z 09.04.2015, str. 56).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -129,7 +165,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 - **1)** pobierania, przechowywania, przeszczepiania i zastosowania u ludzi komórek, w tym komórek krwiotwórczych szpiku, krwi obwodowej oraz krwi pępowinowej, tkanek i narządów pochodzących od żywego dawcy lub ze zwłok;
 - **2)** testowania, przetwarzania, przechowywania i dystrybucji komórek i tkanek ludzkich;
-- **3)** donacji, pobierania, gromadzenia, testowania i dopuszczania do obiegu tkanek i komórek przeznaczonych do wytwarzania produktów leczniczych terapii zaawansowanej w rozumieniu rozporządzenia (WE) nr 1394/2007 Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. w sprawie produktów leczniczych terapii zaawansowanej i zmieniającego dyrektywę 2001/83/WE oraz rozporządzenie (WE) nr 726/2004 (Dz. Urz. UE L 324 z 10.12.2007, str. 121, z późn. zm.).
+- **3)** donacji, pobierania, gromadzenia, testowania i dopuszczania do obiegu tkanek i komórek przeznaczonych do wytwarzania produktów leczniczych terapii zaawansowanej w rozumieniu rozporządzenia (WE) nr 1394/2007 Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. w sprawie produktów leczniczych terapii zaawansowanej i zmieniającego dyrektywę 2001/83/WE oraz rozporządzenie (WE) nr 726/2004 (Dz. Urz. UE L 324 z 10.12.2007, str. 121, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 174 i Dz. Urz. UE L 348 z 31.12.2010, str. 1..
 
 2. Przepisów ustawy nie stosuje się do:
 
@@ -167,7 +203,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 - **22)** kod tkanek i komórek – identyfikator dla określonego rodzaju tkanek lub komórek składający się z identyfikatora systemu kodowania tkanek i komórek wskazującego system kodowania zastosowany przez bank tkanek i komórek (»E« dla EUTC, »A« dla ISBT 128, »B« dla Eurocode) oraz z numeru tkanek i komórek przewidzianego dla danego rodzaju tkanek lub komórek w danym systemie kodowania;
 - **23)** komórka – pojedynczą komórkę lub grupę komórek niepowiązanych ze sobą substancją międzykomórkową;
 - **24)** konserwowanie – zastosowanie odczynników chemicznych, dokonywanie zmian w warunkach środowiskowych lub inne środki zastosowane podczas przetwarzania w celu zapobieżenia lub opóźnienia biologicznej lub fizycznej degradacji komórek, tkanek lub narządów;
-- **25)** koordynacja pobrania i przeszczepiania lub pobrania i zastosowania u ludzi – uzgodnienia dotyczące organizacji, nadzoru i dokumentacji procesów identyfikacji i kwalifikacji dawcy, autoryzacji pobrania, pobrania, przechowywania, alokacji i dystrybucji oraz przeszczepiania komórek, tkanek lub narządów lub zastosowania u ludzi komórek lub tkanek, w tym sposobu przekazania i transportu oraz przyjęcia komórek, tkanek lub narządów w podmiocie leczniczym w rozumieniu art. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, z późn. zm.) lub banku tkanek i komórek oraz ich dostarczenia do biorcy;
+- **25)** koordynacja pobrania i przeszczepiania lub pobrania i zastosowania u ludzi – uzgodnienia dotyczące organizacji, nadzoru i dokumentacji procesów identyfikacji i kwalifikacji dawcy, autoryzacji pobrania, pobrania, przechowywania, alokacji i dystrybucji oraz przeszczepiania komórek, tkanek lub narządów lub zastosowania u ludzi komórek lub tkanek, w tym sposobu przekazania i transportu oraz przyjęcia komórek, tkanek lub narządów w podmiocie leczniczym w rozumieniu art. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 974, 1079, 2280, 2705 i 2770.) lub banku tkanek i komórek oraz ich dostarczenia do biorcy;
 - **26)** koordynator pobierania i przeszczepiania lub pobierania i zastosowania u ludzi – uprawnioną i przeszkoloną osobę organizującą koordynację pobrania i przeszczepiania lub koordynację pobrania i zastosowania u ludzi;
 - **27)** kryteria akceptacji – przyjęte limity ilościowe i jakościowe, ich zakresy lub inne ustalone wskaźniki kontrolowanych parametrów, na podstawie których podejmowana jest decyzja o uznaniu efektu danej czynności za akceptowalny;
 - **28)** krytyczny moment – etap procesu mający potencjalny wpływ na jakość i bezpieczeństwo komórek, tkanek lub narządów;
@@ -272,13 +308,13 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 12. Zwrotu podmiotowi leczniczemu kosztów określonych w:
 
 - **1)** ust. 3 pkt 1–5 – dokonuje Narodowy Fundusz Zdrowia,
-- **2)** ust. 4, 7 i 8 – dokonuje Narodowy Fundusz Zdrowia albo minister właściwy do spraw zdrowia w ramach umowy o udzielanie świadczeń opieki zdrowotnej zawartej na podstawie przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+- **2)** ust. 4, 7 i 8 – dokonuje Narodowy Fundusz Zdrowia albo minister właściwy do spraw zdrowia – w ramach umowy o udzielanie świadczeń opieki zdrowotnej zawartej na podstawie przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 13. Koszty, o których mowa w ust. 3 pkt 10, są kosztami działalności banku tkanek i komórek.
 
 14. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy sposób ustalania kosztów czynności związanych z pobieraniem, przechowywaniem, przetwarzaniem, sterylizacją i dystrybucją komórek, tkanek i narządów, uwzględniając procedury związane z wykonywaniem tych czynności.
 
-#### Rozdział 2 Pobieranie komórek, tkanek lub narządów ze zwłok ludzkich
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -370,7 +406,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 **Art. 11.** Lekarz pobierający ze zwłok ludzkich komórki, tkanki lub narządy jest obowiązany zapewnić nadanie zwłokom należytego wyglądu.
 
-#### Rozdział 3 Pobieranie komórek, tkanek lub narządów od żywych dawców
+#### Rozdział 3
 
 **Art. 12.**
 
@@ -465,7 +501,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 5. Dane, o których mowa w ust. 3 i 4, podmioty lecznicze i fundacje, o których mowa w art. 16a ust. 1, lub banki tkanek i komórek przekazują niezwłocznie do rejestru szpiku i krwi pępowinowej.
 
-6. (utracił moc)
+6. (utracił moc)Z dniem 29 lipca 2014 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 22 lipca 2014 r. sygn. akt K 25/13 (Dz. U. poz. 1000).
 
 7. Rejestr szpiku i krwi pępowinowej prowadzi Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”.
 
@@ -515,7 +551,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 - **6)** warunki transportu próbek do badań potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej,
 - **7)** sposób i warunki organizowania opieki nad dawcami szpiku lub komórek krwiotwórczych krwi obwodowej,
 - **8)** tryb przekazywania danych, o których mowa w ust. 8, do rejestru szpiku i krwi pępowinowej,
-- **9)** standardowe procedury operacyjne obowiązujące w ośrodku dawców szpiku uwzględniając w szczególności prawidłową realizację zadań, o których mowa w ust. 2, oraz zapewnienie bezpieczeństwa dawców i biorców.
+- **9)** standardowe procedury operacyjne obowiązujące w ośrodku dawców szpiku – uwzględniając w szczególności prawidłową realizację zadań, o których mowa w ust. 2, oraz zapewnienie bezpieczeństwa dawców i biorców.
 
 1. Ośrodek dawców szpiku uzyskuje pozwolenie, o którym mowa w art. 16a ust. 1, jeżeli łącznie spełnia następujące warunki:
 
@@ -594,7 +630,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 - **1)** sposób i tryb tworzenia i prowadzenia listy,
 - **2)** kryteria medyczne i sposób dokonywania wyboru potencjalnego biorcy,
-- **3)** sposób informowania potencjalnych biorców o kolejności wpisu na listę uwzględniając aktualny stan wiedzy medycznej i zachowanie równego dostępu do zabiegu przeszczepienia oraz możliwość prowadzenia listy w postaci elektronicznej.
+- **3)** sposób informowania potencjalnych biorców o kolejności wpisu na listę – uwzględniając aktualny stan wiedzy medycznej i zachowanie równego dostępu do zabiegu przeszczepienia oraz możliwość prowadzenia listy w postaci elektronicznej.
 
 **Art. 18.**
 
@@ -630,7 +666,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 3. Administrator danych, o którym mowa w ust. 1, w celu zapewnienia eksploatacji systemów teleinformatycznych, o których mowa w ust. 2, może powierzać przetwarzanie danych podmiotom wyspecjalizowanym w zapewnianiu obsługi technicznej systemów teleinformatycznych.
 
-4. Podmioty, o których mowa w ust. 3, są obowiązane do stworzenia warunków organizacyjnych i technicznych zapewniających ochronę przetwarzanych danych, w szczególności zabezpieczenia danych przed nieuprawnionym dostępem, nielegalnym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą. Dane przetwarzane w rejestrach oraz liście, o której mowa w ust. 1, podlegają ochronie na poziomie wysokim, o którym mowa w przepisach wydanych na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723).
+4. Podmioty, o których mowa w ust. 3, są obowiązane do stworzenia warunków organizacyjnych i technicznych zapewniających ochronę przetwarzanych danych, w szczególności zabezpieczenia danych przed nieuprawnionym dostępem, nielegalnym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą. Dane przetwarzane w rejestrach oraz liście, o której mowa w ust. 1, podlegają ochronie na poziomie wysokim, o którym mowa w przepisach wydanych na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723)Ustawa utraciła moc z dniem 25 maja 2018 r. z wyjątkiem art. 1, art. 2, art. 3 ust. 1, art. 4–7, art. 14–22, art. 23–28, art. 31 oraz rozdziałów 4, 5 i 7, które zachowały moc w odniesieniu do przetwarzania danych osobowych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, prowadzenia postępowań w sprawach dotyczących tych czynów oraz wykonywania orzeczeń w nich wydanych, kar porządkowych i środków przymusu w zakresie określonym w przepisach stanowiących podstawę działania służb i organów uprawnionych do realizacji zadań w tym zakresie, w terminie do dnia wejścia w życie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającą decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89), na podstawie art. 175 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000), która weszła w życie z dniem 25 maja 2018 r. Przepisy ustawy wymienione w zdaniu pierwszym utraciły moc z dniem 6 lutego 2019 r., na podstawie art. 107 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), która weszła w życie z dniem 6 lutego 2019 r..
 
 5. Administrator danych, o którym mowa w ust. 1, może kontrolować podmioty, o których mowa w ust. 3, w zakresie realizacji wymagań, o których mowa w ust. 4, oraz sposobu realizacji celów powierzenia danych przetwarzanych w rejestrach, o których mowa w ust. 1.
 
@@ -640,7 +676,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 8. Podmioty, o których mowa w ust. 3, są obowiązane do zachowania w tajemnicy informacji związanych z pacjentem uzyskanych w związku z powierzeniem przetwarzania danych, o którym mowa w ust. 3. Podmioty te są związane tajemnicą także po śmierci pacjenta.
 
-#### Rozdział 4 Szczególne rodzaje pobierania i przeszczepiania komórek, tkanek i narządów
+#### Rozdział 4
 
 **Art. 20.**
 
@@ -652,7 +688,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 **Art. 21.** Komórki, tkanki lub narządy mogą być pozyskane w celu przeszczepienia lub komórki lub tkanki mogą być pozyskane w celu zastosowania u ludzi z narządów lub ich części usuniętych z innych przyczyn niż w celu pobrania z nich komórek, tkanek lub narządów, po uzyskaniu zgody na ich użycie od dawcy lub jego przedstawiciela ustawowego.
 
-#### Rozdział 5 Dawstwo komórek, tkanek i narządów lub ich części
+#### Rozdział 5
 
 **Art. 22.**
 
@@ -676,7 +712,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 **Art. 24.** Podmioty podejmujące działania w zakresie propagowania donacji komórek, tkanek lub narządów są obowiązane poinformować ministra właściwego do spraw zdrowia o zakresie tych działań.
 
-#### Rozdział 6 Banki tkanek i komórek
+#### Rozdział 6
 
 **Art. 25.** W celu gromadzenia, przetwarzania, sterylizacji, przechowywania, dystrybucji, dopuszczania do obiegu lub prowadzenia działalności przywozowej tkanek i komórek przeznaczonych do przeszczepienia lub zastosowania u ludzi są tworzone banki tkanek i komórek.
 
@@ -749,7 +785,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
     - **d)**
     - **e)**
 
-- **2)** pozwolenia na wykonywanie czynności, o których mowa w art. 25: nazwę właściwego organu wydającego pozwolenie, nazwę krajowego organu odpowiedzialnego za prowadzenie europejskiego kompendium banków tkanek i komórek, sposób przeprowadzenia kontroli, nazwę (firmę) posiadacza pozwolenia, rodzaje tkanek lub komórek, w odniesieniu do których wydano pozwolenie, rodzaje czynności, na których wykonywanie wydano pozwolenie, informację o tym, czy pozwolenie jest ważne, cofnięte albo czy dobrowolnie zaprzestano prowadzenia działalności, na wykonywanie której zostało wydane pozwolenie na wykonywanie czynności, o których mowa w art. 25 i na tej podstawie przydziela bankowi tkanek i komórek europejski kod banku tkanek i komórek na potrzeby jednolitego kodu europejskiego.
+- **2)** pozwolenia na wykonywanie czynności, o których mowa w art. 25: nazwę właściwego organu wydającego pozwolenie, nazwę krajowego organu odpowiedzialnego za prowadzenie europejskiego kompendium banków tkanek i komórek, sposób przeprowadzenia kontroli, nazwę (firmę) posiadacza pozwolenia, rodzaje tkanek lub komórek, w odniesieniu do których wydano pozwolenie, rodzaje czynności, na których wykonywanie wydano pozwolenie, informację o tym, czy pozwolenie jest ważne, cofnięte albo czy dobrowolnie zaprzestano prowadzenia działalności, na wykonywanie której zostało wydane pozwolenie na wykonywanie czynności, o których mowa w art. 25 – i na tej podstawie przydziela bankowi tkanek i komórek europejski kod banku tkanek i komórek na potrzeby jednolitego kodu europejskiego.
     - **a)**
     - **b)**
     - **c)**
@@ -937,7 +973,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 1. Bank tkanek i komórek:
 
 - **1)** jest obowiązany prowadzić, gromadzić i przechowywać dokumentację dotyczącą podejmowanych czynności dotyczących tkanek i komórek,
-- **2)** prowadzący działalność przywozową tkanek lub komórek z państwa trzeciego, w tym dokonujący jednorazowego przywozu, jest obowiązany prowadzić, gromadzić i przechowywać dokumentację podejmowanych czynności, obejmującą rodzaje i ilości przywożonych tkanek lub komórek oraz ich pochodzenie i przeznaczenie przez okres 30 lat od dnia wydania tkanek lub komórek w celu przeszczepienia lub zastosowania u ludzi, w sposób umożliwiający identyfikację dawców i biorców tkanek lub komórek.
+- **2)** prowadzący działalność przywozową tkanek lub komórek z państwa trzeciego, w tym dokonujący jednorazowego przywozu, jest obowiązany prowadzić, gromadzić i przechowywać dokumentację podejmowanych czynności, obejmującą rodzaje i ilości przywożonych tkanek lub komórek oraz ich pochodzenie i przeznaczenie – przez okres 30 lat od dnia wydania tkanek lub komórek w celu przeszczepienia lub zastosowania u ludzi, w sposób umożliwiający identyfikację dawców i biorców tkanek lub komórek.
 
 2. Bank tkanek i komórek jest obowiązany przekazywać do Krajowego Centrum Bankowania Tkanek i Komórek roczny raport dotyczący podejmowanych czynności, obejmujący rodzaje i ilości gromadzonych, przetwarzanych, przechowywanych i wydawanych tkanek lub komórek oraz ich pochodzenie i przeznaczenie.
 
@@ -1045,16 +1081,16 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 - **1)** banków tkanek i komórek,
 - **2)** podmiotów, o których mowa w art. 16a ust. 1, art. 26 ust. 4 pkt 7, art. 36 ust. 1 i art. 37 ust. 1, w zakresie działalności objętej pozwoleniami wydanymi na podstawie przepisów ustawy,
-- **3)** ośrodków kwalifikujących, w zakresie spełnienia wymagań określonych ustawą i przepisami wydanymi na podstawie art. 16c ust. 10 uwzględniając w szczególności sposób dokonywania poszczególnych czynności kontrolnych, ich zakres oraz dokumentację przebiegu kontroli, mając na uwadze potrzebę zapewnienia sprawnego przeprowadzenia kontroli.
+- **3)** ośrodków kwalifikujących, w zakresie spełnienia wymagań określonych ustawą i przepisami wydanymi na podstawie art. 16c ust. 10 – uwzględniając w szczególności sposób dokonywania poszczególnych czynności kontrolnych, ich zakres oraz dokumentację przebiegu kontroli, mając na uwadze potrzebę zapewnienia sprawnego przeprowadzenia kontroli.
 
 1. W przypadku ogłoszenia stanu zagrożenia epidemicznego, stanu epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego w szczególności wystąpienia choroby szczególnie niebezpiecznej i wysoce zakaźnej, w rozumieniu art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub innych nadzwyczajnych okoliczności zagrażających zdrowiu i życiu wielu osób, minister właściwy do spraw zdrowia może przesunąć termin kontroli, o której mowa w art. 35 ust. 3, jednorazowo, nie dłużej niż o okres 6 miesięcy licząc od dnia upływu 2 lat od dnia ostatniej kontroli. W przypadku nieustania okoliczności będących podstawą przesunięcia terminu kontroli, minister właściwy do spraw zdrowia może powtórnie przesunąć termin kontroli o okres nie dłuższy niż o 3 miesiące.
 
 2. W przypadkach:
 
 - **1)** związanych z koniecznością zabezpieczenia prawidłowego funkcjonowania podmiotów, o których mowa w art. 16a ust. 1, art. 16c ust. 1, art. 25, art. 31 ust. 1, art. 31a ust. 1, art. 36 ust. 1a i art. 37 ust. 1,
-- **2)** niecierpiących zwłoki, innych niż określone w pkt 1 minister właściwy do spraw zdrowia może zlecić przeprowadzenie kontroli za pośrednictwem systemu teleinformatycznego lub systemu łączności.
+- **2)** niecierpiących zwłoki, innych niż określone w pkt 1 – minister właściwy do spraw zdrowia może zlecić przeprowadzenie kontroli za pośrednictwem systemu teleinformatycznego lub systemu łączności.
 
-#### Rozdział 7 Postępowanie z komórkami, tkankami oraz narządami
+#### Rozdział 7
 
 **Art. 36.**
 
@@ -1084,7 +1120,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 - **2)** kwalifikacje zawodowe koordynatorów pobierania i przeszczepiania komórek, tkanek i narządów,
 - **3)** warunki, jakim powinny odpowiadać podmioty wymienione w ust. 1, w których podejmowane będzie postępowanie polegające na pobieraniu, przechowywaniu, przeszczepianiu komórek, tkanek lub narządów lub zastosowaniu u ludzi komórek lub tkanek,
 - **4)** szczegółowe zasady współdziałania podmiotów, o których mowa w ust. 1, w zakresie pobierania, przechowywania komórek, tkanek i narządów w celu ich wykorzystania do przeszczepienia lub zastosowania u ludzi,
-- **5)** wymagania, jakim powinna odpowiadać dokumentacja medyczna dotycząca pobierania komórek, tkanek i narządów, ich przechowywania i przeszczepiania lub zastosowania u ludzi uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców i dawców komórek, tkanek lub narządów.
+- **5)** wymagania, jakim powinna odpowiadać dokumentacja medyczna dotycząca pobierania komórek, tkanek i narządów, ich przechowywania i przeszczepiania lub zastosowania u ludzi – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców i dawców komórek, tkanek lub narządów.
 
 1. Na wniosek banku tkanek i komórek kierownik podmiotu, o którym mowa w art. 36 ust. 1 pkt 3, może zorganizować zespół pobierający.
 
@@ -1102,31 +1138,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 6. Merytoryczny nadzór nad działalnością zespołów pobierających sprawuje Krajowe Centrum Bankowania Tkanek i Komórek.
 
-**Art. 37.**
-
-1. Postępowanie polegające na testowaniu komórek, tkanek i narządów może być podejmowane wyłącznie w laboratorium w rozumieniu art. 2 pkt 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280), posiadającym pozwolenie ministra właściwego do spraw zdrowia na wykonywanie tych czynności.
-
-2. Do pozwolenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 26 i art. 27 ust. 1–5.
-
-3. Do kontroli spełniania przez laboratorium, o którym mowa w ust. 1, warunków, wymaganych do uzyskania pozwolenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 35 ust. 3–10.
-
-1. Wywozu szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej z terytorium Rzeczypospolitej Polskiej i ich przywozu na terytorium Rzeczypospolitej Polskiej dokonuje podmiot leczniczy wykonujący pobranie lub przeszczepienie lub stosujący u ludzi szpik, komórki krwiotwórcze krwi obwodowej i krwi pępowinowej, za zgodą dyrektora Centrum Organizacyjno-Koordynacyjnego do Spraw Transplantacji „Poltransplant”.
-
-2. Wywozu komórek lub tkanek pobranych ze zwłok ludzkich z terytorium Rzeczypospolitej Polskiej i przywozu tych komórek lub tkanek na terytorium Rzeczypospolitej Polskiej dokonuje bank tkanek i komórek za zgodą dyrektora Krajowego Centrum Bankowania Tkanek i Komórek.
-
-3. Wywozu regenerujących się komórek lub tkanek innych niż komórki i tkanki wymienione w ust. 2, z terytorium Rzeczypospolitej Polskiej i przywozu tych komórek lub tkanek na terytorium Rzeczypospolitej Polskiej dokonuje bank tkanek i komórek za zgodą dyrektora Krajowego Centrum Bankowania Tkanek i Komórek.
-
-3a. Jednorazowego przywozu tkanek lub komórek na terytorium Rzeczypospolitej Polskiej od dostawcy z państwa trzeciego dokonuje bank tkanek i komórek, za zgodą dyrektora Krajowego Centrum Bankowania Tkanek i Komórek.
-
-4. Wywozu narządów ze zwłok ludzkich z terytorium Rzeczypospolitej Polskiej i przywozu tych narządów na terytorium Rzeczypospolitej Polskiej dokonuje podmiot leczniczy, wykonujący pobranie lub przeszczepienie narządów ze zwłok ludzkich, za zgodą dyrektora Centrum Organizacyjno-Koordynacyjnego do Spraw Transplantacji „Poltransplant”.
-
-5. Zgody, o których mowa w ust. 1–4, albo ich odmowy są wydawane niezwłocznie, podmiotom wymienionym w tych przepisach, każdorazowo w drodze decyzji administracyjnej, na wniosek, do którego są dołączone informacje o spełnianiu wymagań określonych w ust. 8. Decyzjom tym nadaje się rygor natychmiastowej wykonalności.
-
-6. Od decyzji dyrektora Centrum Organizacyjno-Koordynacyjnego do Spraw Transplantacji „Poltransplant” oraz dyrektora Krajowego Centrum Bankowania Tkanek i Komórek przysługuje odwołanie do ministra właściwego do spraw zdrowia.
-
-7. Zgody na wywóz komórek, tkanek lub narządu odmawia się w przypadku gdy na liście znajduje się zgodny do przeszczepienia potencjalny biorca.
-
-8. Podmioty, które uzyskały zgody, o których mowa w ust. 1–4, są obowiązane zapewnić:
+**Art. 37.** 1W brzmieniu ustalonym przez art. 146 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280), która weszła w życie z dniem 10 grudnia 2022 r.. Postępowanie polegające na testowaniu komórek, tkanek i narządów może być podejmowane wyłącznie w laboratorium w rozumieniu art. 2 pkt 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280), posiadającym pozwolenie ministra właściwego do spraw zdrowia na wykonywanie tych czynności. 2. Do pozwolenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 26 i art. 27 ust. 1–5. 3. Do kontroli spełniania przez laboratorium, o którym mowa w ust. 1, warunków, wymaganych do uzyskania pozwolenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 35 ust. 3–10. 1. Wywozu szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej z terytorium Rzeczypospolitej Polskiej i ich przywozu na terytorium Rzeczypospolitej Polskiej dokonuje podmiot leczniczy wykonujący pobranie lub przeszczepienie lub stosujący u ludzi szpik, komórki krwiotwórcze krwi obwodowej i krwi pępowinowej, za zgodą dyrektora Centrum Organizacyjno-Koordynacyjnego do Spraw Transplantacji „Poltransplant”. 2. Wywozu komórek lub tkanek pobranych ze zwłok ludzkich z terytorium Rzeczypospolitej Polskiej i przywozu tych komórek lub tkanek na terytorium Rzeczypospolitej Polskiej dokonuje bank tkanek i komórek za zgodą dyrektora Krajowego Centrum Bankowania Tkanek i Komórek. 3. Wywozu regenerujących się komórek lub tkanek innych niż komórki i tkanki wymienione w ust. 2, z terytorium Rzeczypospolitej Polskiej i przywozu tych komórek lub tkanek na terytorium Rzeczypospolitej Polskiej dokonuje bank tkanek i komórek za zgodą dyrektora Krajowego Centrum Bankowania Tkanek i Komórek. 3a. Jednorazowego przywozu tkanek lub komórek na terytorium Rzeczypospolitej Polskiej od dostawcy z państwa trzeciego dokonuje bank tkanek i komórek, za zgodą dyrektora Krajowego Centrum Bankowania Tkanek i Komórek. 4. Wywozu narządów ze zwłok ludzkich z terytorium Rzeczypospolitej Polskiej i przywozu tych narządów na terytorium Rzeczypospolitej Polskiej dokonuje podmiot leczniczy, wykonujący pobranie lub przeszczepienie narządów ze zwłok ludzkich, za zgodą dyrektora Centrum Organizacyjno-Koordynacyjnego do Spraw Transplantacji „Poltransplant”. 5. Zgody, o których mowa w ust. 1–4, albo ich odmowy są wydawane niezwłocznie, podmiotom wymienionym w tych przepisach, każdorazowo w drodze decyzji administracyjnej, na wniosek, do którego są dołączone informacje o spełnianiu wymagań określonych w ust. 8. Decyzjom tym nadaje się rygor natychmiastowej wykonalności. 6. Od decyzji dyrektora Centrum Organizacyjno-Koordynacyjnego do Spraw Transplantacji „Poltransplant” oraz dyrektora Krajowego Centrum Bankowania Tkanek i Komórek przysługuje odwołanie do ministra właściwego do spraw zdrowia. 7. Zgody na wywóz komórek, tkanek lub narządu odmawia się w przypadku gdy na liście znajduje się zgodny do przeszczepienia potencjalny biorca. 8. Podmioty, które uzyskały zgody, o których mowa w ust. 1–4, są obowiązane zapewnić:
 
 - **1)** monitorowanie stanu wywożonych i przywożonych ludzkich komórek, tkanek i narządów w drodze między dawcą a biorcą;
 - **2)** jakość i bezpieczeństwo przywożonych i wywożonych komórek, tkanek lub narządów przeznaczonych do przeszczepienia lub komórek lub tkanek przeznaczonych do zastosowania u ludzi.
@@ -1140,9 +1152,9 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 11. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki wywozu ludzkich komórek, tkanek i narządów z terytorium Rzeczypospolitej Polskiej i przywozu tych komórek, tkanek i narządów na to terytorium oraz sposób monitorowania stanu wywożonych i przywożonych ludzkich komórek, tkanek i narządów w drodze między dawcą a biorcą, mając na względzie zapewnienie jakości i bezpieczeństwa, o których mowa w ust. 8 pkt 2, oraz uwzględniając bezpieczeństwo zdrowotne biorcy.
 
-#### Rozdział 7a Znakowanie, monitorowanie oraz kryteria bezpieczeństwa i jakości komórek, tkanek i narządów
+#### Rozdział 7a
 
-#### Rozdział 8 Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”, Krajowe Centrum Bankowania Tkanek i Komórek i Krajowa Rada Transplantacyjna
+#### Rozdział 8
 
 **Art. 38.**
 
@@ -1288,7 +1300,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 8. Minister właściwy do spraw zdrowia nadaje, w drodze rozporządzenia, statut Krajowej Radzie Transplantacyjnej, określający szczegółowy zakres, organizację, tryb jej działania, w tym Komisji Etycznej, sposób wynagradzania członków Rady oraz sposób i tryb udzielania opinii, uwzględniając konieczność sprawnego wypełniania zadań przez Radę.
 
-#### Rozdział 9 Nadzór
+#### Rozdział 9
 
 **Art. 42.**
 
@@ -1312,7 +1324,7 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 - **2)** przeprowadza kontrolę, o której mowa w art. 35, na umotywowany pisemny wniosek właściwego organu innego państwa członkowskiego Unii Europejskiej w przypadku wystąpienia istotnej niepożądanej reakcji lub istotnego zdarzenia niepożądanego po przeszczepie;
 - **3)** udziela, na wniosek Komisji Europejskiej lub właściwego organu innego państwa członkowskiego Unii Europejskiej, informacji pisemnej na temat wyników kontroli, o której mowa w art. 35, przeprowadzonej na wniosek, o którym mowa w pkt 2.
 
-#### Rozdział 10 Przepisy karne
+#### Rozdział 10
 
 **Art. 43.** Kto rozpowszechnia ogłoszenie o odpłatnym zbyciu, nabyciu lub o pośredniczeniu w odpłatnym zbyciu lub nabyciu komórki, tkanki lub narządu, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
@@ -1332,13 +1344,13 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 
 2. Kierownik podmiotu leczniczego, który wbrew szczególnemu obowiązkowi nadzoru nad tym podmiotem dopuszcza do pobierania komórki, tkanki lub narządu, przeszczepiania komórki, tkanki lub narządu lub stosowania u ludzi komórki lub tkanki bez wymaganego pozwolenia, jak również powziąwszy wiadomość o pobieraniu komórki, tkanki lub narządu, ich przeszczepianiu lub stosowaniu u ludzi bez wymaganego pozwolenia, nie podejmie prawem przewidzianego postępowania, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3. Kto, bez wymaganej zgody wywozi z terytorium Rzeczypospolitej Polskiej lub wwozi na to terytorium komórkę, tkankę lub narząd, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3. Kto, wbrew przepisom ustawy, nie zgłasza potencjalnych biorców narządów lub szpiku lub komórek krwiotwórczych krwi obwodowej lub krwi pępowinowej na listę albo dokonanych przeszczepień komórek, tkanek i narządów do rejestru przeszczepień albo pozyskanych potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej do rejestru szpiku i krwi pępowinowej, podlega grzywnie albo karze ograniczenia wolności.
 
-#### Rozdział 11 Zmiany w przepisach obowiązujących
+#### Rozdział 11
 
 **Art. 47.** (pominięty)
 
 **Art. 48.** (pominięty)
 
-#### Rozdział 12 Przepisy przejściowe, dostosowawcze i końcowe
+#### Rozdział 12
 
 **Art. 49.** Do postępowań wszczętych na podstawie art. 7, 9 i 10 ustawy, o której mowa w art. 58, i niezakończonych do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
@@ -1379,6 +1391,6 @@ uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców o
 **Art. 59.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r., z tym że przepisy:
 
 - **1)** art. 22–35 ust. 1, 2 i 11 oraz art. 36 i 37,
-- **2)** art. 38 ust. 3 pkt 11, art. 39 ust. 6, art. 41 ust. 6 pkt 6 i pkt 8 lit. a, art. 42 ust. 2 pkt 3 i 5, art. 45 i 48 stosuje się od dnia 31 grudnia 2006 r.
+- **2)** art. 38 ust. 3 pkt 11, art. 39 ust. 6, art. 41 ust. 6 pkt 6 i pkt 8 lit. a, art. 42 ust. 2 pkt 3 i 5, art. 45 i 48 – stosuje się od dnia 31 grudnia 2006 r. 1) Niniejsza ustawa wdraża postanowienia następujących dyrektyw Unii Europejskiej: 1) dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48, Dz. Urz. UE L 188 z 18.07.2009, str. 14 i Dz. Urz. UE L 7 z 13.01.2015, str. 5/2) – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291); 2) dyrektywy Komisji (UE) 2015/565 z dnia 8 kwietnia 2015 r. zmieniającej dyrektywę 2006/86/WE w odniesieniu do niektórych wymagań technicznych dotyczących kodowania tkanek i komórek ludzkich (Dz. Urz. UE L 93 z 09.04.2015, str. 43); 3) dyrektywy Komisji (UE) 2015/566 z dnia 8 kwietnia 2015 r. w sprawie wykonania dyrektywy 2004/23/WE w odniesieniu do procedur weryfikacji równorzędnych norm jakości i bezpieczeństwa przywożonych tkanek i komórek (Dz. Urz. UE L 93 z 09.04.2015, str. 56). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 174 i Dz. Urz. UE L 348 z 31.12.2010, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 974, 1079, 2280, 2705 i 2770. 4) Z dniem 29 lipca 2014 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 22 lipca 2014 r. sygn. akt K 25/13 (Dz. U. poz. 1000). 5) Ustawa utraciła moc z dniem 25 maja 2018 r. z wyjątkiem art. 1, art. 2, art. 3 ust. 1, art. 4–7, art. 14–22, art. 23–28, art. 31 oraz rozdziałów 4, 5 i 7, które zachowały moc w odniesieniu do przetwarzania danych osobowych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, prowadzenia postępowań w sprawach dotyczących tych czynów oraz wykonywania orzeczeń w nich wydanych, kar porządkowych i środków przymusu w zakresie określonym w przepisach stanowiących podstawę działania służb i organów uprawnionych do realizacji zadań w tym zakresie, w terminie do dnia wejścia w życie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającą decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89), na podstawie art. 175 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000), która weszła w życie z dniem 25 maja 2018 r. Przepisy ustawy wymienione w zdaniu pierwszym utraciły moc z dniem 6 lutego 2019 r., na podstawie art. 107 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), która weszła w życie z dniem 6 lutego 2019 r. 6) W brzmieniu ustalonym przez art. 146 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280), która weszła w życie z dniem 10 grudnia 2022 r.
 
 

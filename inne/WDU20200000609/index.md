@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-26 |
 | Data wydania | 2020-04-07 |
-| Wejście w życie | 2020-04-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000609) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/609/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 47 ust. 2d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 47 ust. 2d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki i tryb ubiegania się o dofinansowanie kosztów zaopatrzenia w wyroby medyczne przysługujące osobie posiadającej status weterana poszkodowanego nadany na podstawie art. 5 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2019 r. poz. 1569 i 1726), zwanej dalej „ustawą”, w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa oraz osobie posiadającej status weterana poszkodowanego nadany na podstawie art. 5 ust. 1 ustawy, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30%, zwanymi dalej „weteranem poszkodowanym”, w przypadku gdy cena wyrobu medycznego jest wyższa od wysokości limitu finansowania ze środków publicznych określonego w przepisach wydanych na podstawie art. 38 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2020 r. poz. 357), zwanej dalej „ustawą o refundacji”.
 § 2.
@@ -75,5 +74,5 @@ Zaświadczenie o wysokości dofinansowania przekazuje się weteranowi poszkodowa
 3.
 Środki finansowe w wysokości wynikającej z zaświadczenia o wysokości dofinansowania są przekazywane na wskazany rachunek bankowy podmiotu realizującego zaopatrzenie w terminie 30 dni od dnia otrzymania przez dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia faktury lub rachunku wraz z potwierdzeniem odbioru wyrobu medycznego przez weterana poszkodowanego.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 21 marca 2012 r. w sprawie warunków i trybu ubiegania się o dofinansowanie kosztów zaopatrzenia w wyroby medyczne stosowane w leczeniu urazów i chorób nabytych przez weterana poszkodowanego-żołnierza podczas wykonywania zadań poza granicami państwa (Dz. U. z 2017 r. poz. 687), które na podstawie art. 19 ust. 1 pkt 6 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 21 marca 2012 r. w sprawie warunków i trybu ubiegania się o dofinansowanie kosztów zaopatrzenia w wyroby medyczne stosowane w leczeniu urazów i chorób nabytych przez weterana poszkodowanego-żołnierza podczas wykonywania zadań poza granicami państwa (Dz. U. z 2017 r. poz. 687), które na podstawie art. 19 ust. 1 pkt 6 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

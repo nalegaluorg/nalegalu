@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 29 kwietnia 2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu wykonującego działalność leczniczą
+# Rozporządzenie Ministra Finansówz dnia 29 kwietnia 2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu wykonującego działalność leczniczą Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-29 |
 | Data wydania | 2019-05-10 |
-| Wejście w życie | 2019-06-01 |
 | Ostatnia zmiana | 2025-03-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000866) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/866/text.pdf) |
 
@@ -71,6 +70,5 @@ Jeżeli dany podmiot wykonujący działalność leczniczą wykonuje więcej niż
 3.
 Kwoty, o których mowa w ust. 1, są ustalane przy zastosowaniu średniego kursu euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym umowa ubezpieczenia OC zostaje zawarta.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 grudnia 2011 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu wykonującego działalność leczniczą (Dz. U. poz. 1729), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219).
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 grudnia 2011 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu wykonującego działalność leczniczą (Dz. U. poz. 1729), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 grudnia 2011 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu wykonującego działalność leczniczą (Dz. U. poz. 1729), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219).
 

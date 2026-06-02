@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy – Prawo atomowe oraz niektórych innych ustaw
+# Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy – Prawo atomowe oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady 2011/70/EURATOM z dnia 19 lipca 2011 r. ustanawiającą ramy wspólnotowe w zakresie odpowiedzialnego i bezpiecznego gospodarowania wypalonym paliwem jądrowym i odpadami promieniotwórczymi (Dz. Urz. UE L 199 z 02.08.2011, str. 48).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-04 |
 | Data wydania | 2014-05-09 |
-| Wejście w życie | 2014-05-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/587/text.pdf) |
+
+Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 25 listopada 2013 r., pod numerem 2013/0641/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). Niniejszą ustawą zmienia się ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko i ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 
 **Art. 1.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264 i 908) wprowadza się następujące zmiany:
 
@@ -49,8 +50,14 @@ source: "eli-html"
     - **g)**
 
 - **54)** zamknięcie składowiska odpadów promieniotwórczych – zaprzestanie dostarczania odpadów promieniotwórczych do składowiska, na podstawie decyzji właściwego organu, oraz wykonanie prac koniecznych do zapewnienia bezpieczeństwa składowiska; ” ;
-- **2)** w art. 4: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) wytwarzaniu, przetwarzaniu, przechowywaniu, transporcie, stosowaniu materiałów jądrowych lub źródeł promieniotwórczych i obrocie tymi materiałami lub źródłami, ” , – po pkt 1 dodaje się pkt 1a-1c w brzmieniu: „ 1a) przechowywaniu, transporcie, przetwarzaniu lub składowaniu odpadów promieniotwórczych, 1b) przechowywaniu, transporcie lub przerobie wypalonego paliwa jądrowego i obrocie tym paliwem, 1c) wzbogacaniu izotopowym, ” , – pkt 3 otrzymuje brzmienie: „ 3) budowie, eksploatacji i zamknięciu składowisk odpadów promieniotwórczych, ” , dodaje się ust. 3 w brzmieniu: „
+- **2)** w art. 4: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** wytwarzaniu, przetwarzaniu, przechowywaniu, transporcie, stosowaniu materiałów jądrowych lub źródeł promieniotwórczych i obrocie tymi materiałami lub źródłami, ” , po pkt 1 dodaje się pkt 1a-1c w brzmieniu: „
+- **1a)** przechowywaniu, transporcie, przetwarzaniu lub składowaniu odpadów promieniotwórczych,
+- **1b)** przechowywaniu, transporcie lub przerobie wypalonego paliwa jądrowego i obrocie tym paliwem,
+- **1c)** wzbogacaniu izotopowym, ” , pkt 3 otrzymuje brzmienie: „
+- **3)** budowie, eksploatacji i zamknięciu składowisk odpadów promieniotwórczych, ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. Działalność polegająca na obrocie odpadami promieniotwórczymi jest zabroniona. ” ;
@@ -134,7 +141,7 @@ source: "eli-html"
 3. Na podstawie kart ewidencyjnych, o których mowa w ust. 1, kierownik jednostki organizacyjnej:
 
 - **1)** przyjmującej odpady promieniotwórcze lub wypalone paliwo jądrowe w celu ich przechowywania, przetwarzania, przerobu lub składowania, lub
-- **2)** wykonującej działalność związaną z narażeniem, polegającą na rozruchu, eksploatacji oraz likwidacji obiektów jądrowych prowadzi, w formie informatycznej bazy danych, wspólną ewidencję dla działań w postępowaniu z odpadami promieniotwórczymi lub z wypalonym paliwem jądrowym, zwaną dalej „wspólną ewidencją”.
+- **2)** wykonującej działalność związaną z narażeniem, polegającą na rozruchu, eksploatacji oraz likwidacji obiektów jądrowych – prowadzi, w formie informatycznej bazy danych, wspólną ewidencję dla działań w postępowaniu z odpadami promieniotwórczymi lub z wypalonym paliwem jądrowym, zwaną dalej „wspólną ewidencją”.
 
 4. Wspólna ewidencja obejmuje w szczególności dane dotyczące:
 
@@ -409,7 +416,7 @@ source: "eli-html"
 
 - **1)** budowę składowiska odpadów promieniotwórczych – w terminie 24 miesięcy,
 - **2)** eksploatację składowiska odpadów promieniotwórczych – w terminie 12 miesięcy,
-- **3)** zamknięcie składowiska odpadów promieniotwórczych – w terminie 18 miesięcy od dnia złożenia wniosku wraz z wymaganymi dokumentami. Do postępowania o wydanie zezwolenia na budowę, eksploatację i zamknięcie składowiska odpadów promieniotwórczych nie stosuje się przepisu art. 31 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+- **3)** zamknięcie składowiska odpadów promieniotwórczych – w terminie 18 miesięcy – od dnia złożenia wniosku wraz z wymaganymi dokumentami. Do postępowania o wydanie zezwolenia na budowę, eksploatację i zamknięcie składowiska odpadów promieniotwórczych nie stosuje się przepisu art. 31 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 1. Prezes Agencji, po otrzymaniu wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem polegającej na budowie składowiska odpadów promieniotwórczych, niezwłocznie ogłasza na swoich stronach podmiotowych w Biuletynie Informacji Publicznej treść wniosku wraz ze skróconym raportem bezpieczeństwa oraz informacje o:
 
@@ -468,7 +475,7 @@ source: "eli-html"
 - **7)** szczegółowe wymagania dla poszczególnych rodzajów składowisk w zakresie ich eksploatacji i budowy,
 - **8)** szczegółowe wymagania w zakresie przygotowania odpadów promieniotwórczych do składowania,
 - **9)** sposób i zakres przeprowadzania kontroli zgodności stanu odpadów promieniotwórczych z informacjami zamieszczonymi w karcie ewidencyjnej,
-- **10)** wzory tablic informacyjnych do oznaczania wejść do: przechowalnika wypalonego paliwa jądrowego, magazynu odpadów promieniotwórczych, składowiska odpadów promieniotwórczych kierując się koniecznością zapewnienia spełnienia wymagań bezpieczeństwa w działaniach w postępowaniu z odpadami promieniotwórczymi lub z wypalonym paliwem jądrowym oraz ochrony interesów przyszłych pokoleń.
+- **10)** wzory tablic informacyjnych do oznaczania wejść do: przechowalnika wypalonego paliwa jądrowego, magazynu odpadów promieniotwórczych, składowiska odpadów promieniotwórczych – kierując się koniecznością zapewnienia spełnienia wymagań bezpieczeństwa w działaniach w postępowaniu z odpadami promieniotwórczymi lub z wypalonym paliwem jądrowym oraz ochrony interesów przyszłych pokoleń.
     - **a)**
     - **b)**
     - **c)**
@@ -599,7 +606,7 @@ source: "eli-html"
     - **a)**
 
 - **2)** w art. 25 w ust. 1 pkt 9 otrzymuje brzmienie: „
-- **9)** przez Prezesa Państwowej Agencji Atomistyki, z zakresu ustawy z dnia 29 listopada 2000 r. – Prawo atomowe: informacje o stanie bezpieczeństwa jądrowego i ochrony radiologicznej obiektu jądrowego, jego wpływie na zdrowie ludzi i na środowisko oraz o wielkości i składzie izotopowym uwolnień substancji promieniotwórczych z obiektu jądrowego do środowiska, a także o nieplanowanych zdarzeniach w obiekcie jądrowym, powodujących powstanie zagrożenia, roczne oceny stanu bezpieczeństwa nadzorowanych obiektów jądrowych, informacje o stanie ochrony radiologicznej składowisk odpadów promieniotwórczych, ich wpływie na zdrowie ludzi i środowisko, informacje o wielkości i składzie izotopowym uwolnień substancji promieniotwórczych ze składowisk odpadów promieniotwórczych do środowiska, informacje o zdarzeniach w składowiskach odpadów promieniotwórczych powodujących powstanie zagrożenia z wyłączeniem informacji dotyczących ochrony fizycznej i zabezpieczeń materiałów jądrowych, a także informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji; ” .
+- **9)** przez Prezesa Państwowej Agencji Atomistyki, z zakresu ustawy z dnia 29 listopada 2000 r. – Prawo atomowe: informacje o stanie bezpieczeństwa jądrowego i ochrony radiologicznej obiektu jądrowego, jego wpływie na zdrowie ludzi i na środowisko oraz o wielkości i składzie izotopowym uwolnień substancji promieniotwórczych z obiektu jądrowego do środowiska, a także o nieplanowanych zdarzeniach w obiekcie jądrowym, powodujących powstanie zagrożenia, roczne oceny stanu bezpieczeństwa nadzorowanych obiektów jądrowych, informacje o stanie ochrony radiologicznej składowisk odpadów promieniotwórczych, ich wpływie na zdrowie ludzi i środowisko, informacje o wielkości i składzie izotopowym uwolnień substancji promieniotwórczych ze składowisk odpadów promieniotwórczych do środowiska, informacje o zdarzeniach w składowiskach odpadów promieniotwórczych powodujących powstanie zagrożenia – z wyłączeniem informacji dotyczących ochrony fizycznej i zabezpieczeń materiałów jądrowych, a także informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji; ” .
     - **a)**
     - **b)**
     - **c)**
@@ -650,5 +657,5 @@ source: "eli-html"
 
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 51 oraz art. 55 ustawy zmienianej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 57a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 17, który wchodzi w życie z dniem 1 stycznia 2015 r.
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 17, który wchodzi w życie z dniem 1 stycznia 2015 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady 2011/70/EURATOM z dnia 19 lipca 2011 r. ustanawiającą ramy wspólnotowe w zakresie odpowiedzialnego i bezpiecznego gospodarowania wypalonym paliwem jądrowym i odpadami promieniotwórczymi (Dz. Urz. UE L 199 z 02.08.2011, str. 48). 2) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 25 listopada 2013 r., pod numerem 2013/0641/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 3) Niniejszą ustawą zmienia się ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko i ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 

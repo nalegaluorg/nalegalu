@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 lutego 2017 r. w sprawie sposobu złożenia zabezpieczenia w formie depozytu w gotówce
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 lutego 2017 r. w sprawie sposobu złożenia zabezpieczenia w formie depozytu w gotówce Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-22 |
 | Data wydania | 2017-02-28 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2025-03-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000416) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/416/text.pdf) |
 
@@ -39,7 +38,7 @@ dokumenty uważane za równoważne z depozytem w gotówce, mające wartość pł
 3)
 sposób potwierdzenia przez organ celny złożenia zabezpieczenia.
 § 2.
-Dłużnik lub osoby, o których mowa w art. 89 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.), zwani dalej „zobowiązanym”, mogą złożyć zabezpieczenie co najmniej w jeden z następujących sposobów:
+Dłużnik lub osoby, o których mowa w art. 89 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 i Dz. Urz. UE L 42 z 18.02.2017, str. 43/2., zwani dalej „zobowiązanym”, mogą złożyć zabezpieczenie co najmniej w jeden z następujących sposobów:
 1)
 wpłacając kwotę zabezpieczenia gotówką:
 a)
@@ -72,10 +71,15 @@ Wydanie potwierdzenia złożenia zabezpieczenia może nastąpić po przedstawien
 § 5.
 Traci moc rozporządzenie Ministra Finansów z dnia 13 lipca 2004 r. w sprawie sposobu złożenia zabezpieczenia w formie depozytu w gotówce (Dz. U. z 2016 r. poz. 1279).
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 i Dz. Urz. UE L 42 z 18.02.2017, str. 43/2.
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 i Dz. Urz. UE L 42 z 18.02.2017, str. 43/2.
 Załącznik – Wzór potwierdzenia złożenia zabezpieczenia
-Druk ścisłego zarachowania – Seria ... Nr .... ...(pieczęć podłużna organu celnego) ...(datownik) Potwierdzenie złożenia zabezpieczenia Składający zabezpieczenie: Zabezpieczenie dotyczy: Numer sprawy: Sposób złożenia zabezpieczenia: Wysokość zabezpieczenia w złotych: Termin ważności zabezpieczenia: Data złożenia zabezpieczenia: Oryginał potwierdzenia otrzymałem(am):... (data i czytelny podpis zobowiązanego) ...(organ celny przyjmujący zabezpieczenie) Pouczenie
+Druk ścisłego zarachowania – Seria ... Nr .... ...
+(pieczęć podłużna organu celnego) ...
+(datownik) Potwierdzenie złożenia zabezpieczenia Składający zabezpieczenie: Zabezpieczenie dotyczy: Numer sprawy: Sposób złożenia zabezpieczenia: Wysokość zabezpieczenia w złotych: Termin ważności zabezpieczenia: Data złożenia zabezpieczenia: Oryginał potwierdzenia otrzymałem(am):
+...
+(data i czytelny podpis zobowiązanego) ...
+(organ celny przyjmujący zabezpieczenie)
+Pouczenie
 1.
 Zabezpieczenie podlega zwrotowi na rzecz osoby uprawnionej, jeżeli właściwy organ stwierdzi, że dług celny, na którego pokrycie zostało złożone, wygasł albo nie będzie już mógł powstać.
 2.
@@ -85,6 +89,5 @@ Zabezpieczenie w gotówce, wpłacone na bankowy rachunek sum depozytowych Urzęd
 4.
 Zabezpieczenie złożone w postaci dokumentów płatniczych może być zwrócone w urzędzie celno-skarbowym, w którym zostało złożone.
 5.
-W przypadku zagubienia oryginału potwierdzenia złożenia zabezpieczenia podlegające zwrotowi zabezpieczenie może zostać zwrócone osobie uprawnionej w miejscu, w którym zostało złożone, po upływie dwóch miesięcy od dnia złożenia w tym miejscu oświadczenia osoby uprawnionej o zagubieniu oryginału potwierdzenia.
-Miejsce na adnotacje dotyczące wydania lub wykorzystania zabezpieczenia: Z pouczeniem zapoznałem(am) się: ... (data i czytelny podpis zobowiązanego) ...
+W przypadku zagubienia oryginału potwierdzenia złożenia zabezpieczenia podlegające zwrotowi zabezpieczenie może zostać zwrócone osobie uprawnionej w miejscu, w którym zostało złożone, po upływie dwóch miesięcy od dnia złożenia w tym miejscu oświadczenia osoby uprawnionej o zagubieniu oryginału potwierdzenia. Miejsce na adnotacje dotyczące wydania lub wykorzystania zabezpieczenia: Z pouczeniem zapoznałem(am) się: ... (data i czytelny podpis zobowiązanego) ...
 

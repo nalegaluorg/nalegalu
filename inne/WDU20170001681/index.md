@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 sierpnia 2017 r. zmieniające rozporządzenie w sprawie sposobu przeprowadzania przetargów na wybór zakładów odkostniających i chłodni
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 sierpnia 2017 r. zmieniające rozporządzenie w sprawie sposobu przeprowadzania przetargów na wybór zakładów odkostniających i chłodni Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-24 |
 | Data wydania | 2017-09-04 |
-| Wejście w życie | 2017-09-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1681/text.pdf) |
 
@@ -35,6 +34,5 @@ użyte w § 1 oraz § 8, w różnym przypadku, wyrazy „Agencja Rynku Rolnego�
 2)
 użyte w § 2, § 4 ust. 1 oraz § 5 ust. 1, w różnym przypadku, wyrazy „Prezes Agencji Rynku Rolnego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

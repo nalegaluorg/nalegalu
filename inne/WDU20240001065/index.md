@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 10 lipca 2024 r. w sprawie informacji dotyczących działalności banków związanej z lokatami strukturyzowanymi
+# Rozporządzenie Ministra Finansówz dnia 10 lipca 2024 r. w sprawie informacji dotyczących działalności banków związanej z lokatami strukturyzowanymi Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-10 |
 | Data wydania | 2024-07-18 |
-| Wejście w życie | 2024-08-02 |
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1065/text.pdf) |
 
@@ -65,8 +64,7 @@ Informacje, o których mowa w § 2 pkt 1, przekazuje się po raz pierwszy za kwa
 2.
 Informacje, o których mowa w § 2 pkt 3, przekazuje się po raz pierwszy w odniesieniu do naruszeń, o których bank powziął informacje od dnia wejścia w życie rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 ## Załącznik nr 1 — – Szczegółowy zakres informacji dotyczących oferowanych i zawieranych lokat strukturyzowanych
 
@@ -91,8 +89,7 @@ Waluta lokaty strukturyzowanej.
 10.
 Łączna wartość zobowiązań banku wynikających z aktywnej lokaty strukturyzowanej, zgodnie ze stanem na koniec okresu sprawozdawczego ( w PLN ).
 11.
-Łączna liczba klientów, którzy zawarli umowę lokaty strukturyzowanej, do której odnoszą się dane z pkt 10.
-Objaśnienia:
+Łączna liczba klientów, którzy zawarli umowę lokaty strukturyzowanej, do której odnoszą się dane z pkt 10. Objaśnienia:
 a)
 W informacjach wykazuje się dane dla lokat strukturyzowanych w rozumieniu art. 4 ust. 1 pkt 41 ustawy.
 b)
@@ -113,8 +110,7 @@ Data (rozpoczęcia / ograniczenia / zaprzestania wykonywania czynności z pkt 4)
 4.
 Rodzaj czynności w ramach prowadzonej działalności związanej z lokatami strukturyzowanymi (rekomendowanie / oferowanie / zawieranie / umożliwienie zawarcia umowy lokaty strukturyzowanej).
 5.
-Rodzaj zdarzenia dotyczącego czynności z pkt 4 (rozpoczęcie / ograniczenie / zaprzestanie).
-Objaśnienia: W przypadku gdy informacja dotyczy wykonywania czynności:
+Rodzaj zdarzenia dotyczącego czynności z pkt 4 (rozpoczęcie / ograniczenie / zaprzestanie). Objaśnienia: W przypadku gdy informacja dotyczy wykonywania czynności:
 a)
 o których mowa w art. 5 ust. 1 pkt 1 ustawy, których przedmiotem są lokaty strukturyzowane, wykazuje się tę informację jako dotyczącą oferowania lub zawierania umowy lokaty strukturyzowanej,
 b)

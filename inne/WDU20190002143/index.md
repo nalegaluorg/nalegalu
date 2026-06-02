@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 5 listopada 2019 r. w sprawie minimalnych wymagań w zakresie wyposażenia mobilnej stacji kontroli drogowej oraz wyznaczonego punktu przeprowadzania kontroli drogowej i przyrządów kontrolno-pomiarowych w nich stosowanych
+# Rozporządzenie Ministra Infrastrukturyz dnia 5 listopada 2019 r. w sprawie minimalnych wymagań w zakresie wyposażenia mobilnej stacji kontroli drogowej oraz wyznaczonego punktu przeprowadzania kontroli drogowej i przyrządów kontrolno-pomiarowych w nich stosowanych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-05 |
 | Data wydania | 2019-11-06 |
-| Wejście w życie | 2019-11-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002143) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2143/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 129fb ust. 6 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 129fb ust. 6 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818 i 2020.) zarządza się, co następuje:
 § 1.
 Nawierzchnia stanowiska kontrolnego mobilnej stacji kontroli drogowej i wyznaczonego punktu przeprowadzania kontroli drogowej stanowi nawierzchnię twardą, wykonaną z masy bitumicznej, masy betonowej, płyt betonowych lub płyt kamienno-betonowych, o wymiarach umożliwiających przeprowadzenie kontroli.
 § 2.
@@ -66,6 +65,5 @@ Przyrządy kontrolno-pomiarowe, o których mowa w § 2, wykorzystywane do przepr
 § 5.
 Przyrządy kontrolno-pomiarowe, o których mowa w § 2, wykorzystywane do przeprowadzania szczegółowej drogowej kontroli technicznej, podlegające wzorcowaniu lub prawnej kontroli metrologicznej, posiadają ważne świadectwo wzorcowania, ważną legalizację lub ważną decyzję zatwierdzenia typu.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 7 listopada 2019 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818 i 2020.
+Rozporządzenie wchodzi w życie z dniem 7 listopada 2019 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818 i 2020.
 

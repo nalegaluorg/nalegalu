@@ -31,29 +31,27 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. z 2021 r. poz. 2287), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2023 r. zmieniającym rozporządzenie w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. poz. 1401).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. poz. 1401), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. poz. 1401), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej
+Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie warunków i sposobu naliczeń etatowych w Straży GranicznejMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 Na podstawie art. 7 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
 § 1.
 1.
 W Komendzie Głównej Straży Granicznej, zwanej dalej „Komendą Główną”, naliczenia etatowe dokonywane są przy uwzględnieniu:
 1)
 zakresu, rodzaju i liczby realizowanych przez funkcjonariuszy i pracowników Komendy Głównej ustawowych zadań Straży Granicznej;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. poz. 1401), które weszło w życie z dniem 1 października 2023 r.)
 zakresu zadań wynikających ze sprawowania przez Komendanta Głównego Straży Granicznej nadzoru nad terenowymi organami Straży Granicznej, Biurem Spraw Wewnętrznych Straży Granicznej, Wyższą Szkołą Straży Granicznej, ośrodkami szkolenia Straży Granicznej oraz ośrodkami Straży Granicznej;
 3)
 zakresu zadań wynikających z prowadzenia współpracy międzynarodowej z organami i instytucjami właściwymi w sprawach ochrony granic państwowych.
 1a.
 W Biurze Spraw Wewnętrznych Straży Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 zakresu, rodzaju i liczby realizowanych przez funkcjonariuszy i pracowników Biura Spraw Wewnętrznych Straży Granicznej ustawowych zadań Straży Granicznej, w szczególności w zakresie rozpoznawania, zapobiegania i zwalczania przestępczości popełnianej przez funkcjonariuszy i pracowników Straży Granicznej oraz wykrywania i ścigania sprawców tych przestępstw, a także funkcjonariuszy i pracowników Policji i Służby Ochrony Państwa lub strażaków i pracowników Państwowej Straży Pożarnej;
 2)
 zakresu zadań wynikających ze współdziałania z innymi jednostkami organizacyjnymi Straży Granicznej oraz właściwymi organami i instytucjami, w tym innych państw.
-1b.
+1bDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 W Wyższej Szkole Straży Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
 1)
 zakresu programów studiów oraz szkoleń;
@@ -113,9 +111,9 @@ W ośrodkach szkolenia Straży Granicznej, zwanych dalej „ośrodkami szkolenia
 zakresu programów szkoleń;
 2)
 zadań realizowanych w ramach posiadanych kompetencji;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
 liczby słuchaczy;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
 liczby i rodzaju kierunków szkoleń;
 5)
 przewidywanych potrzeb szkoleniowych;
@@ -150,6 +148,5 @@ utrzymanie w należytym stanie technicznym posiadanych pojazdów, statków powie
 § 3.
 Przepisy rozporządzenia stosuje się od dnia 16 czerwca 2002 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. poz. 1401), które weszło w życie z dniem 1 października 2023 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 26 czerwca 2002 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 26 czerwca 2002 r.. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. poz. 1401), które weszło w życie z dniem 1 października 2023 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 26 czerwca 2002 r.
 

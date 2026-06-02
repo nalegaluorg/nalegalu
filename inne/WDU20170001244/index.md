@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 20 czerwca 2017 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej
+# Rozporządzenie Ministra Zdrowiaz dnia 20 czerwca 2017 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-20 |
 | Data wydania | 2017-06-26 |
-| Wejście w życie | 2017-07-01 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001244) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1244/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357 i 2164) § 6a otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357 i 2164) § 6a otrzymuje brzmienie: „
 § 6a.
 1.
 Świadczeniodawca realizujący diagnostykę onkologiczną i leczenie onkologiczne, na podstawie karty diagnostyki i leczenia onkologicznego oraz na warunkach określonych w załączniku nr 1 do rozporządzenia:
@@ -59,9 +57,7 @@ zakończenia diagnostyki wstępnej, o której mowa w ust. 1 pkt 3, lub porady sp
 b)
 wpisania świadczeniobiorcy na listę oczekujących na udzielenie świadczenia, w przypadku realizacji przez innego świadczeniodawcę diagnostyki pogłębionej, o której mowa w ust. 1 pkt 3, dotyczącej innej lokalizacji nowotworu złośliwego lub miejscowo złośliwego niż będąca podstawą realizacji diagnostyki wstępnej, o której mowa w ust. 1 pkt 3, albo
 c)
-wpisania świadczeniobiorcy na listę oczekujących na udzielenie świadczenia lub porady specjalistycznej, w trakcie której stwierdzono nowotwór złośliwy lub miejscowo złośliwy i wystawiono kartę diagnostyki i leczenia onkologicznego, w przypadku realizacji przez innego świadczeniodawcę diagnostyki pogłębionej, o której mowa w ust. 1 pkt 3.
-” .
+wpisania świadczeniobiorcy na listę oczekujących na udzielenie świadczenia lub porady specjalistycznej, w trakcie której stwierdzono nowotwór złośliwy lub miejscowo złośliwy i wystawiono kartę diagnostyki i leczenia onkologicznego, w przypadku realizacji przez innego świadczeniodawcę diagnostyki pogłębionej, o której mowa w ust. 1 pkt 3. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.
 

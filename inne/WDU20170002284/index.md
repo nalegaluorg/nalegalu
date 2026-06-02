@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-04 |
 | Data wydania | 2017-12-08 |
-| Wejście w życie | 2017-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2284/text.pdf) |
 
@@ -35,7 +34,7 @@ Ilekroć w rozporządzeniu jest mowa o:
 1)
 ustawie – należy przez to rozumieć ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
 2)
-rozporządzeniu delegowanym Komisji (UE) 2015/35 – należy przez to rozumieć rozporządzenie delegowane Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, z późn. zm.);
+rozporządzeniu delegowanym Komisji (UE) 2015/35 – należy przez to rozumieć rozporządzenie delegowane Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 85 z 01.04.2016, str. 6 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 14.;
 3)
 zakładzie – należy przez to rozumieć zakład ubezpieczeń i zakład reasekuracji.
 § 3.
@@ -101,5 +100,5 @@ oświadczenie biegłego rewidenta o przypadkach istotnej niepewności w odniesie
 § 5.
 Jeżeli w toku badania sprawozdania o wypłacalności i kondycji finansowej biegły rewident stwierdzi istotne, mające wpływ na to sprawozdanie, naruszenie przepisów prawa dotyczących warunków udzielenia zezwolenia lub wykonywania działalności przez zakład, statutu lub umowy spółki, zamieszcza o tym informację w sprawozdaniu biegłego rewidenta.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 22 grudnia 2017 r.
+Rozporządzenie wchodzi w życie z dniem 22 grudnia 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie badania sprawozdania o wypłacalności i kondycji finansowej zakładu ubezpieczeń i zakładu reasekuracji przez podmiot uprawniony do badania sprawozdań finansowych (Dz. U. poz. 2027), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 295 pkt 3 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 85 z 01.04.2016, str. 6 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 14. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie badania sprawozdania o wypłacalności i kondycji finansowej zakładu ubezpieczeń i zakładu reasekuracji przez podmiot uprawniony do badania sprawozdań finansowych (Dz. U. poz. 2027), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 295 pkt 3 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089).
 

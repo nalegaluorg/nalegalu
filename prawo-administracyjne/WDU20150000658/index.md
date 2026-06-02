@@ -22,17 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-09 |
 | Data wydania | 2015-05-14 |
-| Wejście w życie | 2015-08-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000658) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/658/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529 oraz z 2014 r. poz. 183 i 543.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w § 2: pkt 3 i 4 otrzymują brzmienie: „
     - **a)**
 
 - **3)** postanowienia wydane w postępowaniu egzekucyjnym i zabezpieczającym, na które służy zażalenie, z wyłączeniem postanowień wierzyciela o niedopuszczalności zgłoszonego zarzutu oraz postanowień, przedmiotem których jest stanowisko wierzyciela w sprawie zgłoszonego zarzutu;
-- **4)** inne niż określone w pkt 1–3 akty lub czynności z zakresu administracji publicznej dotyczące uprawnień lub obowiązków wynikających z przepisów prawa, z wyłączeniem aktów lub czynności podjętych w ramach postępowania administracyjnego określonego w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.) oraz postępowań określonych w działach IV, V i VI ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613) oraz postępowań, do których mają zastosowanie przepisy powołanych ustaw; ” , pkt 8 otrzymuje brzmienie: „
+- **4)** inne niż określone w pkt 1–3 akty lub czynności z zakresu administracji publicznej dotyczące uprawnień lub obowiązków wynikających z przepisów prawa, z wyłączeniem aktów lub czynności podjętych w ramach postępowania administracyjnego określonego w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211.) oraz postępowań określonych w działach IV, V i VI ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613) oraz postępowań, do których mają zastosowanie przepisy powołanych ustaw; ” , pkt 8 otrzymuje brzmienie: „
     - **b)**
 
 - **8)** bezczynność lub przewlekłe prowadzenie postępowania w przypadkach określonych w pkt 1–4 lub przewlekłe prowadzenie postępowania w przypadku określonym w pkt 4a; ” , dodaje się pkt 9 w brzmieniu: „
@@ -504,5 +503,5 @@ source: "eli-html"
 
 **Art. 2.** Przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym przez art. 1 pkt 2–8, pkt 10–14, pkt 19–32, pkt 34–39, pkt 41–47, pkt 51, pkt 52, pkt 55, pkt 57, pkt 58, pkt 60–69, pkt 71, pkt 72 i pkt 74–81 niniejszej ustawy stosuje się również do postępowań wszczętych przed dniem jej wejścia w życie. W pozostałym zakresie do tych postępowań stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529 oraz z 2014 r. poz. 183 i 543. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211.
 

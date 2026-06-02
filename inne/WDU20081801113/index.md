@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 września 2008 r. o zmianie ustawy o zastawie rejestrowym i rejestrze zastawów oraz o zmianie innych ustaw
+# Ustawa z dnia 5 września 2008 r. o zmianie ustawy o zastawie rejestrowym i rejestrze zastawów oraz o zmianie innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej i ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze.
 
 | Pole | Wartość |
 |---|---|
@@ -22,45 +22,36 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-09-05 |
 | Data wydania | 2008-10-10 |
-| Wejście w życie | 2009-01-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081801113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1113/text.pdf) |
 
+Ustanowienie zastawu rejestrowego”;
 4)
 w art. 2:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Do ustanowienia zastawu rejestrowego są wymagane umowa o ustanowienie tego zastawu (umowa zastawnicza) między osobą uprawnioną do rozporządzania przedmiotem zastawu (zastawcą) a wierzycielem (zastawnikiem) oraz wpis do rejestru zastawów.
-” ,
+Do ustanowienia zastawu rejestrowego są wymagane umowa o ustanowienie tego zastawu (umowa zastawnicza) między osobą uprawnioną do rozporządzania przedmiotem zastawu (zastawcą) a wierzycielem (zastawnikiem) oraz wpis do rejestru zastawów. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Do ustanowienia zastawu rejestrowego zabezpieczającego wierzytelności z tytułu dłużnych papierów wartościowych emitowanych w serii, zamiast umowy, o której mowa w ust. 1, jest wymagana umowa zastawnicza między zastawcą i administratorem zastawu, o którym mowa w art. 4 ust. 4.
-” ;
+Do ustanowienia zastawu rejestrowego zabezpieczającego wierzytelności z tytułu dłużnych papierów wartościowych emitowanych w serii, zamiast umowy, o której mowa w ust. 1, jest wymagana umowa zastawnicza między zastawcą i administratorem zastawu, o którym mowa w art. 4 ust. 4. ” ;
 5)
 w art. 3:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Umowa zastawnicza powinna być pod rygorem nieważności zawarta na piśmie. Do umów o ustanowienie zastawu rejestrowego na wierzytelnościach i prawach nie stosuje się przepisów o formie pisemnej szczególnej określonej w odrębnych przepisach.
-” ,
+Umowa zastawnicza powinna być pod rygorem nieważności zawarta na piśmie. Do umów o ustanowienie zastawu rejestrowego na wierzytelnościach i prawach nie stosuje się przepisów o formie pisemnej szczególnej określonej w odrębnych przepisach. ” ,
 b)
-w ust. 2 pkt 4 otrzymuje brzmienie:
-„
+w ust. 2 pkt 4 otrzymuje brzmienie: „
 4)
-wierzytelność zabezpieczoną zastawem – przez oznaczenie stosunku prawnego, z którego ta wierzytelność wynika lub może wynikać, oraz najwyższej sumy zabezpieczenia.
-” ,
+wierzytelność zabezpieczoną zastawem – przez oznaczenie stosunku prawnego, z którego ta wierzytelność wynika lub może wynikać, oraz najwyższej sumy zabezpieczenia. ” ,
 c)
 uchyla się ust. 3;
 6)
-art. 4 otrzymuje brzmienie:
-„
+art. 4 otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. Nr 149, poz. 703, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. Nr 149, poz. 703, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 769, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 48, poz. 554, Nr 60, poz. 702 i Nr 114, poz. 1193, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 146, poz. 1546 i Nr 273, poz. 2703, z 2005 r. Nr 183, poz. 1538 oraz z 2007 r. Nr 112, poz. 766.) wprowadza się następujące zmiany:
 
 - **1)** tytuł rozdziału 1 otrzymuje brzmienie: „ Przepisy ogólne ” ;
 - **2)** w art. 1 ust. 1 otrzymuje brzmienie: „
@@ -69,7 +60,7 @@ art. 4 otrzymuje brzmienie:
 
 - **3)** po art. 1 dodaje się oznaczenie i tytuł rozdziału 1a w brzmieniu: „
 
-#### Rozdział 1a Ustanowienie zastawu rejestrowego”;
+#### Rozdział 1a
 
 **Art. 4.**
 
@@ -77,7 +68,7 @@ art. 4 otrzymuje brzmienie:
 
 - **1)** wierzytelności przysługującej dwóm lub więcej wierzycielom,
 - **2)** dwóch lub więcej wierzytelności wynikających z umów,
-- **3)** wierzytelności objętej układem w postępowaniu upadłościowym lub naprawczym jeden z wierzycieli wskazany w umowie zawartej z pozostałymi wierzycielami lub w układzie, może być upoważniony do zabezpieczenia zastawem rejestrowym wierzytelności przysługujących pozostałym wierzycielom i do wykonywania we własnym imieniu, ale na ich rachunek, praw i obowiązków zastawnika wynikających z umowy zastawniczej i przepisów prawa (administrator zastawu).
+- **3)** wierzytelności objętej układem w postępowaniu upadłościowym lub naprawczym – jeden z wierzycieli wskazany w umowie zawartej z pozostałymi wierzycielami lub w układzie, może być upoważniony do zabezpieczenia zastawem rejestrowym wierzytelności przysługujących pozostałym wierzycielom i do wykonywania we własnym imieniu, ale na ich rachunek, praw i obowiązków zastawnika wynikających z umowy zastawniczej i przepisów prawa (administrator zastawu).
 
 2. Przepis ust. 1 stosuje się również w przypadku przeniesienia części wierzytelności zabezpieczonej zastawem rejestrowym na inną osobę.
 
@@ -174,10 +165,15 @@ art. 4 otrzymuje brzmienie:
 
 **Art. 21a.** Od chwili zajęcia przedmiotu zastawu rejestrowego przez komornika lub inny organ egzekucyjny zastawnik nie może podejmować czynności mających na celu zaspokojenie na podstawie przepisów art. 22–27. ” ;
 
-- **19)** w art. 22: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) przedmiotem zastawu rejestrowego są rzeczy, wierzytelności i prawa lub zbiory rzeczy lub praw stanowiące całość gospodarczą, a strony w umowie zastawniczej ściśle oznaczyły wartość przedmiotu zastawu albo określiły sposób ustalenia jego wartości dla zaspokojenia zastawnika, ” , – po pkt 3 dodaje się pkt 4 w brzmieniu: „ 4) przedmiotem zastawu rejestrowego jest wierzytelność z rachunku bankowego. ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) złożenia przez zastawnika oświadczenia na piśmie o przejęciu tego przedmiotu na własność – w przypadku określonym w ust. 1 pkt 2 i 3, ” , – po pkt 2 dodaje się pkt 3 w brzmieniu: „ 3) pobrania przez zastawnika prowadzącego rachunek bankowy środków znajdujących się na tym rachunku – w przypadku określonym w ust. 1 pkt 4. ” ;
+- **19)** w art. 22: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** przedmiotem zastawu rejestrowego są rzeczy, wierzytelności i prawa lub zbiory rzeczy lub praw stanowiące całość gospodarczą, a strony w umowie zastawniczej ściśle oznaczyły wartość przedmiotu zastawu albo określiły sposób ustalenia jego wartości dla zaspokojenia zastawnika, ” , po pkt 3 dodaje się pkt 4 w brzmieniu: „
+- **4)** przedmiotem zastawu rejestrowego jest wierzytelność z rachunku bankowego. ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **b)**
 
+- **2)** złożenia przez zastawnika oświadczenia na piśmie o przejęciu tego przedmiotu na własność – w przypadku określonym w ust. 1 pkt 2 i 3, ” , po pkt 2 dodaje się pkt 3 w brzmieniu: „
+- **3)** pobrania przez zastawnika prowadzącego rachunek bankowy środków znajdujących się na tym rachunku – w przypadku określonym w ust. 1 pkt 4. ” ;
 - **20)** w art. 24 ust. 2 otrzymuje brzmienie: „
 
 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, miejsce, warunki, sposób i koszty przeprowadzenia sprzedaży, o której mowa w ust. 1, mając na uwadze rodzaj przedmiotu zastawu rejestrowego, interesy zastawnika i zastawcy oraz bezpieczeństwo obrotu. ” ;
@@ -226,8 +222,11 @@ art. 4 otrzymuje brzmienie:
 
 5. Urzędowe formularze są udostępniane w siedzibach sądów oraz na stronie internetowej Ministerstwa Sprawiedliwości. ” ;
 
-- **27)** w art. 40: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) imię i nazwisko (nazwę), właściwy powszechny numer identyfikacyjny oraz miejsce zamieszkania (siedzibę) i adres zastawcy, zastawnika oraz dłużnika niebędącego zastawcą; w przypadku gdy zastawca, zastawnik lub dłużnik posiada miejsce zamieszkania (siedzibę) poza granicami Rzeczypospolitej Polskiej, wpisuje się ponadto adres dla doręczeń w Polsce, ” , – pkt 4 otrzymuje brzmienie: „ 4) oznaczenie najwyższej sumy zabezpieczenia i waluty, w której jest wyrażona, ” , ust. 3 otrzymuje brzmienie: „
+- **27)** w art. 40: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** imię i nazwisko (nazwę), właściwy powszechny numer identyfikacyjny oraz miejsce zamieszkania (siedzibę) i adres zastawcy, zastawnika oraz dłużnika niebędącego zastawcą; w przypadku gdy zastawca, zastawnik lub dłużnik posiada miejsce zamieszkania (siedzibę) poza granicami Rzeczypospolitej Polskiej, wpisuje się ponadto adres dla doręczeń w Polsce, ” , pkt 4 otrzymuje brzmienie: „
+- **4)** oznaczenie najwyższej sumy zabezpieczenia i waluty, w której jest wyrażona, ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Rozpoznając wniosek o wpis, sąd bada jedynie treść i formę wniosku oraz dokumentów stanowiących podstawę wpisu w zakresie danych podlegających wpisowi. Sąd oddala wniosek o wpis, jeżeli treść dokumentów stanowiących jego podstawę oczywiście narusza prawo. ” ;
@@ -264,7 +263,7 @@ art. 4 otrzymuje brzmienie:
 
 **Art. 43a.** Minister Sprawiedliwości określi, w drodze rozporządzenia, warunki organizacyjno-techniczne dotyczące formy wniosków i dokumentów oraz ich składania do sądów prowadzących rejestr zastawów i do centralnej informacji o zastawach rejestrowych drogą elektroniczną, a także orzeczeń, odpisów, zaświadczeń i informacji doręczanych wnioskodawcom tą drogą przez sądy oraz centralną informację, kierując się potrzebą ułatwienia i upowszechnienia dostępu do rejestru zastawów. ” .
 
-**Art. 2.** W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286, z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398, z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 208, poz. 1539 oraz z 2007 r. Nr 99, poz. 662 i Nr 136, poz. 958.) wprowadza się następujące zmiany:
 
 - **1)** w art. 67 po ust. 3 dodaje się ust. 4 w brzmieniu: „
 
@@ -274,7 +273,7 @@ art. 4 otrzymuje brzmienie:
 
 1. Prawo ochronne na znak towarowy jest zbywalne i podlega dziedziczeniu. Przepisy art. 67 ust. 2–4 stosuje się odpowiednio. ” .
 
-**Art. 3.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2006 r. Nr 100, poz. 696, z późn. zm.) w art. 38 wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2006 r. Nr 100, poz. 696, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 141, poz. 1008, Nr 170, poz. 1217 i Nr 249, poz. 1829, z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 558 oraz z 2008 r. Nr 97, poz. 625, Nr 144, poz. 901 i Nr 177, poz. 1095.) w art. 38 wprowadza się następujące zmiany:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
@@ -288,5 +287,5 @@ art. 4 otrzymuje brzmienie:
 
 2. Umowy o ustanowienie zastawu rejestrowego zawarte przed dniem wejścia w życie niniejszej ustawy będą stanowić podstawę wpisu do rejestru zastawów wraz z wnioskiem złożonym po dniu jej wejścia w życie, po dostosowaniu do przepisów niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej i ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 769, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 48, poz. 554, Nr 60, poz. 702 i Nr 114, poz. 1193, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 146, poz. 1546 i Nr 273, poz. 2703, z 2005 r. Nr 183, poz. 1538 oraz z 2007 r. Nr 112, poz. 766. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286, z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398, z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 208, poz. 1539 oraz z 2007 r. Nr 99, poz. 662 i Nr 136, poz. 958. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 141, poz. 1008, Nr 170, poz. 1217 i Nr 249, poz. 1829, z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 558 oraz z 2008 r. Nr 97, poz. 625, Nr 144, poz. 901 i Nr 177, poz. 1095.
 

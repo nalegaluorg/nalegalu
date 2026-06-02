@@ -22,56 +22,43 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-11 |
 | Data wydania | 2012-05-18 |
-| Wejście w życie | 2012-05-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000542) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/542/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 5 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 5 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 85, poz. 458, Nr 87, poz. 483, Nr 106, poz. 622 i Nr 142, poz. 830.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. Nr 148, poz. 1564, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. Nr 148, poz. 1564, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2005 r. Nr 11, poz. 83, z 2007 r. Nr 187, poz. 1336, z 2008 r. Nr 173, poz. 1078 oraz z 2010 r. Nr 49, poz. 290.) wprowadza się następujące zmiany:
 1)
 w § 6:
 a)
-po pkt 15 dodaje się pkt 15a w brzmieniu:
-„
+po pkt 15 dodaje się pkt 15a w brzmieniu: „
 15a)
-umowę deweloperską,
-” ,
+umowę deweloperską, ” ,
 b)
-pkt 16 otrzymuje brzmienie:
-„
+pkt 16 otrzymuje brzmienie: „
 16)
-umowę ustanowienia odrębnej własności lokalu mieszkalnego i przeniesienia własności tego lokalu na nabywcę, w tym w wykonaniu umowy deweloperskiej,
-” ,
+umowę ustanowienia odrębnej własności lokalu mieszkalnego i przeniesienia własności tego lokalu na nabywcę, w tym w wykonaniu umowy deweloperskiej, ” ,
 c)
-po pkt 17 stawia się przecinek i dodaje się pkt 18 i 19 w brzmieniu:
-„
+po pkt 17 stawia się przecinek i dodaje się pkt 18 i 19 w brzmieniu: „
 18)
 umowę przeniesienia na nabywcę własności nieruchomości zabudowanej domem jednorodzinnym lub prawa użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego, w tym w wykonaniu umowy deweloperskiej,
 19)
-umowę sprzedaży lokalu mieszkalnego
-” ;
+umowę sprzedaży lokalu mieszkalnego ” ;
 2)
 w § 8:
 a)
-pkt 4 otrzymuje brzmienie:
-„
+pkt 4 otrzymuje brzmienie: „
 4)
-testament zawierający zapis zwykły, polecenie lub pozbawienie uprawnionego prawa do zachowku – 150 zł;
-” ,
+testament zawierający zapis zwykły, polecenie lub pozbawienie uprawnionego prawa do zachowku – 150 zł; ” ,
 b)
-po pkt 4 dodaje się pkt 4a w brzmieniu:
-„
+po pkt 4 dodaje się pkt 4a w brzmieniu: „
 4a)
-testament zawierający zapis windykacyjny – 200 zł;
-” ;
+testament zawierający zapis windykacyjny – 200 zł; ” ;
 3)
-w § 10a po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w § 10a po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Za sporządzenie aktu poświadczenia dziedziczenia testamentowego z zapisem windykacyjnym maksymalna stawka wynosi 100 zł.
-” .
+Za sporządzenie aktu poświadczenia dziedziczenia testamentowego z zapisem windykacyjnym maksymalna stawka wynosi 100 zł. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 85, poz. 458, Nr 87, poz. 483, Nr 106, poz. 622 i Nr 142, poz. 830. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2005 r. Nr 11, poz. 83, z 2007 r. Nr 187, poz. 1336, z 2008 r. Nr 173, poz. 1078 oraz z 2010 r. Nr 49, poz. 290.
 

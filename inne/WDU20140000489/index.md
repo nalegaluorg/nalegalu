@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-08 |
 | Data wydania | 2014-04-15 |
-| Wejście w życie | 2014-04-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000489) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/489/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2007 r. Nr 42, poz. 274, z 2008 r. Nr 118, poz. 746 oraz z 2009 r. Nr 18, poz. 97) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie kamiennogórskiej specjalnej strefy ekonomicznej (Dz. U. Nr 232, poz. 1549, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie kamiennogórskiej specjalnej strefy ekonomicznej (Dz. U. Nr 232, poz. 1549, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 113, poz. 937, z 2010 r. Nr 186, poz. 1244 oraz z 2013 r. poz. 968.) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 413,3960 ha, położone na terenie miast: Jawor, Jelenia Góra, Kamienna Góra, Lubań, Ostrów Wielkopolski, Piechowice, Zgorzelec oraz gmin: Bolków, Gryfów Śląski, Janowice Wielkie, Kamienna Góra, Lubań, Lubawka, Mirsk, Nowogrodziec, Prusice i Żmigród.
-” ;
+Strefa obejmuje grunty o powierzchni 413,3960 ha, położone na terenie miast: Jawor, Jelenia Góra, Kamienna Góra, Lubań, Ostrów Wielkopolski, Piechowice, Zgorzelec oraz gmin: Bolków, Gryfów Śląski, Janowice Wielkie, Kamienna Góra, Lubań, Lubawka, Mirsk, Nowogrodziec, Prusice i Żmigród. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU KAMIENNOGÓRSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ MAŁEJ PRZEDSIĘBIORCZOŚCI:
 a)
@@ -51,5 +48,5 @@ skreśla się opis granic i terenu Podstrefy Dobroszyce,
 e)
 na końcu SZCZEGÓŁOWEGO OPISU GRANIC I TERENU KAMIENNOGÓRSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ MAŁEJ PRZEDSIĘBIORCZOŚCI dodaje się opisy granic i terenów Podstref: Bolków i Mirsk w brzmieniu: „ Podstrefa Bolków Obręb ewidencyjny Wolbromek, arkusz mapy nr 3 Granica biegnie od punktu nr 1, położonego na styku granic działek nr: 592 (droga), 591 (droga) i 336, w kierunku południowo-wschodnim przez punkt nr 2 do punktu nr 3. Tu zmienia kierunek na południowy i biegnie przez punkt nr 4 wzdłuż granicy działki nr 336 do punktu nr 5, położonego na styku granic działek nr: 336, 590 (rów) i 591 (droga). Z punktu nr 5 biegnie w kierunku północno-zachodnim i dochodzi do punktu nr 1, od którego rozpoczęto opis. Podstrefa Mirsk Kompleks 1 Obręb ewidencyjny Mirsk 2, arkusz mapy nr 6 Granica biegnie od punktu nr 1, położonego na styku granic działek nr: 518 (droga), 485/21 (droga) i 485/20, w kierunku północnym do punktu nr 2, znajdującego się u zbiegu granic działek nr: 518 (droga), 485/20 i 484. Tu zmienia kierunek na południowo-wschodni i dochodzi do punktu nr 3, znajdującego się na granicy działek nr: 484, 488/3 i 485/19. Z punktu nr 3 biegnie w kierunku południowo-zachodnim do punktu nr 4, położonego na styku granic działek nr: 485/19, 488/3, 488/2 i 485/21 (droga). Tu zmienia kierunek na północno-zachodni i dochodzi do punktu nr 1, od którego rozpoczęto opis. Kompleks 2 Obręb ewidencyjny Mirsk 2, arkusz mapy nr 6 Granica biegnie od punktu nr 5, położonego na styku granic działek nr: 518 (droga), 485/21 (droga) i 485/22, w kierunku południowo-wschodnim przez punkt nr 6 do punktu nr 7, usytuowanego na granicy działek nr: 486, 485/26 i 485/25. W punkcie nr 7 zmienia kierunek na północno-zachodni i dochodzi do punktu nr 8, położonego na styku granic działek nr: 518 (droga), 485/24 i 485/25. Tu zmienia kierunek na północny i wzdłuż granic działek nr: 485/24, 485/23 i 485/22 dochodzi do punktu nr 5, od którego rozpoczęto opis. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 15 kwietnia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 15 kwietnia 2014 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 113, poz. 937, z 2010 r. Nr 186, poz. 1244 oraz z 2013 r. poz. 968.
 

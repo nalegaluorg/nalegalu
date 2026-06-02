@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 8 czerwca 2021 r. w sprawie systemu zarządzania ryzykiem i systemu kontroli wewnętrznej oraz polityki wynagrodzeń w bankach
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 8 czerwca 2021 r. w sprawie systemu zarządzania ryzykiem i systemu kontroli wewnętrznej oraz polityki wynagrodzeń w bankach Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-08 |
 | Data wydania | 2021-06-10 |
-| Wejście w życie | 2021-06-11 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001045) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1045/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – System zarządzania ryzykiem Rozdział 3 – Polityka wynagrodzeń Rozdział 4 – System kontroli wewnętrznej Rozdział 5 – Procedury anonimowego zgłaszania naruszeń prawa oraz obowiązujących w banku procedur i standardów etycznych Rozdział 6 – Zasady zarządzania ryzykiem płynności i finansowania Rozdział 7 – Przepisy dostosowujące i końcowe
 Treść rozporządzenia
-Na podstawie art. 9f ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, 2320 i 2419 oraz z 2021 r. poz. 432, 680 i 815) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji: 1) wdraża dyrektywę Parlamentu Europejskiego i Rady 2019/878 z dnia 20 maja 2019 r. zmieniającą dyrektywę 2013/36/UE w odniesieniu do podmiotów zwolnionych, finansowych spółek holdingowych, finansowych spółek holdingowych o działalności mieszanej, wynagrodzeń, środków i uprawnień nadzorczych oraz środków ochrony kapitału (Dz. Urz. UE L 150 z 07.06.2019, str. 253); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 355 z 12.12.2014, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 144 z 07.06.2017, str. 14, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 322 z 07.12.2017, str. 27, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 137 z 04.06.2018, str. 3, Dz. Urz. UE L 309 z 05.12.2018, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25). Na podstawie art. 9f ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, 2320 i 2419 oraz z 2021 r. poz. 432, 680 i 815) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -82,6 +82,7 @@ monitoruje skuteczność czynności wykonywanych przez członków zarządu w zwi
 nadzoruje przestrzeganie w banku polityk, procedur i planów.
 2.
 W przypadku banków będących uczestnikami systemu ochrony nadzór nad działalnością komórki audytu wewnętrznego systemu ochrony sprawuje organ nadzorujący system ochrony w rozumieniu art. 22e ust. 3 pkt 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających.
+System zarządzania ryzykiem
 § 7.
 1.
 W ramach systemu zarządzania ryzykiem bank zarządza ryzykiem przez identyfikację, pomiar lub ocenę, monitorowanie, kontrolę, w tym ograniczanie ryzyka, oraz raportowanie o ryzyku wraz z oceną skuteczności podjętych działań ograniczających ryzyko.
@@ -127,7 +128,7 @@ Bank stosuje metody identyfikowania, pomiaru lub oceny ryzyka, monitorowania, ko
 2.
 Częstotliwość pomiaru lub oceny ryzyka jest dostosowana do wielkości banku i profilu ryzyka jego działalności.
 3.
-Stosowane przez bank metody pomiaru lub oceny ryzyka uwzględniają aktualnie prowadzoną i planowaną działalność banku oraz kryteria udzielania zezwoleń, o których mowa w art. 329 ust. 1, art. 352 ust. 1 i art. 358 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 575/2013”.
+Stosowane przez bank metody pomiaru lub oceny ryzyka uwzględniają aktualnie prowadzoną i planowaną działalność banku oraz kryteria udzielania zezwoleń, o których mowa w art. 329 ust. 1, art. 352 ust. 1 i art. 358 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 355 z 12.12.2014, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 144 z 07.06.2017, str. 14, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 322 z 07.12.2017, str. 27, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 137 z 04.06.2018, str. 3, Dz. Urz. UE L 309 z 05.12.2018, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25.), zwanego dalej „rozporządzeniem nr 575/2013”.
 § 13.
 1.
 W ramach pomiaru ryzyka bank przeprowadza testy warunków skrajnych.
@@ -280,6 +281,7 @@ Zasady zarządzania ryzykiem w podmiotach zależnych wynikają z przyjętej prze
 W banku jest dokonywana ocena wielkości i profilu ryzyka związanego z działalnością podmiotów zależnych.
 4.
 Bank ustanawia dla ryzyk istotnych limity na poziomie skonsolidowanym (na poziomie grupy).
+Polityka wynagrodzeń
 § 23.
 Polityka wynagrodzeń wszystkich pracowników banku:
 1)
@@ -329,8 +331,7 @@ w bankach działających w formie spółki akcyjnej co najmniej 50% zmiennych sk
 a)
 akcje lub związane z nimi instrumenty finansowe albo odpowiadające im instrumenty niepieniężne,
 b)
-inne instrumenty w rozumieniu art. 52 lub art. 63 rozporządzenia nr 575/2013 lub inne instrumenty, które mogą zostać w pełni przekształcone w instrumenty kapitału podstawowego Tier I, lub które mogą podlegać odpisowi obniżającemu wartość, które w każdym wypadku odpowiednio odzwierciedlają wiarygodność kredytową banku kontynuującego działalność i są przeznaczone do wykorzystania, jako zmienne składniki wynagrodzenia
-przy czym bank ma obowiązek zapewnienia w polityce wynagrodzeń, regulaminie pracy, regulaminie wynagradzania, umowie o pracę lub innej umowie stanowiącej podstawę sprawowania funkcji przez osobę, o której mowa w § 24, że osoba ta nie może zbyć tych instrumentów wcześniej, niż wynika to z zasad określonych przez bank;
+inne instrumenty w rozumieniu art. 52 lub art. 63 rozporządzenia nr 575/2013 lub inne instrumenty, które mogą zostać w pełni przekształcone w instrumenty kapitału podstawowego Tier I, lub które mogą podlegać odpisowi obniżającemu wartość, które w każdym wypadku odpowiednio odzwierciedlają wiarygodność kredytową banku kontynuującego działalność i są przeznaczone do wykorzystania, jako zmienne składniki wynagrodzenia – przy czym bank ma obowiązek zapewnienia w polityce wynagrodzeń, regulaminie pracy, regulaminie wynagradzania, umowie o pracę lub innej umowie stanowiącej podstawę sprawowania funkcji przez osobę, o której mowa w § 24, że osoba ta nie może zbyć tych instrumentów wcześniej, niż wynika to z zasad określonych przez bank;
 8)
 co najmniej 40% zmiennych składników wynagrodzenia wypłaca się po zakończeniu okresu oceny, za jaki to wynagrodzenie przysługuje, przy czym okres odroczenia nie jest krótszy niż od 4 do 5 lat od zakończenia okresu oceny, a w przypadku rady nadzorczej banku istotnego, z zastrzeżeniem ust. 1 pkt 2, oraz kadry kierowniczej wyższego szczebla banku istotnego, nie jest krótszy niż 5 lat, w równych rocznych ratach płatnych z dołu; wynagrodzenie to jest uzależnione od efektów pracy danej osoby, w okresie oceny, o którym mowa w pkt 2, za jaki przysługuje wynagrodzenie, oraz uwzględnia ryzyko banku; w przypadku zmiennych składników wynagrodzenia opiewających na szczególnie dużą kwotę, określoną w polityce wynagrodzeń, wypłacie w takich terminach podlega nie mniej niż 60% zmiennych składników wynagrodzenia; okres odroczenia wypłaty ustala się zgodnie z cyklem koniunkturalnym, charakterem działalności, ryzykiem z nią związanym oraz obowiązkami danej osoby; bank przewiduje w polityce wynagrodzeń, regulaminie pracy, regulaminie wynagradzania, umowie o pracę lub innej umowie stanowiącej podstawę sprawowania funkcji przez tę osobę, że wypłata zmiennych składników wynagrodzenia tej osobie może być ograniczana lub wstrzymywana w sytuacji, o której mowa w art. 142 ust. 1 ustawy – Prawo bankowe;
 9)
@@ -368,8 +369,7 @@ objęte polityką wynagrodzeń kryteria określania:
 a)
 stałych składników wynagrodzenia, zależnych od doświadczenia zawodowego i zakresu odpowiedzialności związanej z pełnioną funkcją oraz
 b)
-zmiennych składników wynagrodzenia, zależnych od zrównoważonych i dostosowanych do ryzyka wyników lub innych czynników określonych w polityce wynagrodzeń
-są w polityce wynagrodzeń wyraźnie wyodrębnione.
+zmiennych składników wynagrodzenia, zależnych od zrównoważonych i dostosowanych do ryzyka wyników lub innych czynników określonych w polityce wynagrodzeń – są w polityce wynagrodzeń wyraźnie wyodrębnione.
 § 26.
 Do polityki wynagrodzeń w zakresie zmiennych składników wynagrodzenia, o której mowa w § 25 ust. 2, w przypadku gdy bank stosuje politykę wynagrodzeń w ograniczonym zakresie, przepisów § 25 ust. 3 pkt 7, 8 i 12 nie stosuje się.
 § 27.
@@ -385,6 +385,7 @@ Wdrożenie polityki wynagrodzeń podlega niezależnemu wewnętrznemu przeglądow
 Bank stosuje przepisy niniejszego rozdziału odpowiednio do formy prawnej, w jakiej działa, rozmiaru działalności, ryzyka związanego z prowadzoną działalnością, wewnętrznej organizacji oraz charakteru, zakresu i stopnia złożoności prowadzonej działalności. Polityka wynagrodzeń w podmiotach zależnych banku jest zgodna z zasadami określonymi w niniejszym rozdziale, z uwzględnieniem rodzaju działalności prowadzonej przez te podmioty.
 3.
 W Banku Gospodarstwa Krajowego polityki wynagrodzeń nie stosuje się do pracowników, o których mowa w ustawie z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. z 2020 r. poz. 1907). Składniki wynagrodzenia, o których mowa w § 25 ust. 1 pkt 1 i 2, tych pracowników ustala się zgodnie z art. 11a ustawy z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2020 r. poz. 1198 oraz z 2021 r. poz. 680).
+System kontroli wewnętrznej
 § 31.
 System kontroli wewnętrznej funkcjonuje w sposób zapewniający osiąganie celów, o których mowa w art. 9c ust. 1 ustawy – Prawo bankowe.
 § 32.
@@ -584,6 +585,7 @@ b)
 w zależności od potrzeb, nie rzadziej jednak niż raz do roku, sporządza i przesyła do zarządu i rady nadzorczej raport z wykonywania przez komórkę audytu wewnętrznego powierzonych jej zadań, zawierający informacje, czy podjęto odpowiednie środki naprawcze w banku w przypadku ewentualnych nieprawidłowości.
 § 45.
 W przypadku banku, o którym mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, w zakresie czynności, o których mowa w art. 70 ust. 2 tej ustawy, kierujący komórką do spraw zgodności pełni jednocześnie rolę inspektora nadzoru wykonującego czynności nadzoru zgodności z prawem regulującym wykonywanie tych czynności.
+Procedury anonimowego zgłaszania naruszeń prawa oraz obowiązujących w banku procedur i standardów etycznych
 § 46.
 1.
 Bank opracowuje i wdraża procedury anonimowego zgłaszania przez pracowników naruszeń prawa oraz obowiązujących w banku procedur i standardów etycznych, zwanych dalej „naruszeniami”.
@@ -598,7 +600,7 @@ sposób odbierania zgłoszeń w sprawie naruszeń, zapewniający w szczególnoś
 2)
 sposób ochrony pracownika dokonującego zgłoszenia, zapewniający co najmniej ochronę przed działaniami o charakterze represyjnym, dyskryminacją lub innymi rodzajami niesprawiedliwego traktowania;
 3)
-sposób ochrony danych osobowych pracownika dokonującego zgłoszenia oraz osoby, której zarzuca się dokonanie naruszenia, zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.);
+sposób ochrony danych osobowych pracownika dokonującego zgłoszenia oraz osoby, której zarzuca się dokonanie naruszenia, zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.;
 4)
 zasady zapewniające zachowanie poufności pracownikowi dokonującemu zgłoszenia, w przypadku gdy pracownik ten ujawnił swoją tożsamość lub jego tożsamość jest możliwa do ustalenia;
 5)
@@ -610,8 +612,7 @@ rodzaj i charakter działań następczych podejmowanych na skutek:
 a)
 odebrania zgłoszenia naruszenia,
 b)
-weryfikacji zgłoszenia naruszenia
-oraz sposób koordynacji tych działań;
+weryfikacji zgłoszenia naruszenia – oraz sposób koordynacji tych działań;
 8)
 termin usunięcia przez bank danych osobowych zawartych w zgłoszeniach naruszeń;
 9)
@@ -634,6 +635,7 @@ Członek zarządu, o którym mowa w ust. 5, nie rzadziej niż raz na pół roku,
 Rada nadzorcza, w zależności od potrzeb, nie rzadziej jednak niż raz w roku, ocenia adekwatność i skuteczność procedury anonimowego zgłaszania przez pracowników naruszeń.
 13.
 Bank przeprowadza wstępne i regularne szkolenia pracowników banku w zakresie zgłaszania naruszeń, w szczególności obowiązujących w tym zakresie procedur.
+Zasady zarządzania ryzykiem płynności i finansowania
 § 47.
 W ramach zasad zarządzania ryzykiem płynności bank wprowadza w szczególności:
 1)
@@ -668,6 +670,7 @@ zasady dostosowywania polityk i procedur, w tym limitów dotyczących ryzyka pł
 zatwierdzone przez zarząd plany awaryjne płynności określające właściwe działania i odpowiednie środki wykonawcze w celu pokrycia ewentualnego braku płynności, w tym w stosunku do jednostek organizacyjnych mających siedzibę w innych państwach członkowskich, z uwzględnieniem, że plany te są testowane co najmniej raz w roku oraz uaktualniane na podstawie rezultatów testów warunków skrajnych;
 14)
 zasady dotyczące podejmowania z wyprzedzeniem koniecznych działań operacyjnych w celu zapewnienia możliwości natychmiastowego wdrożenia planów awaryjnych płynności, o których mowa w pkt 13, przy czym działania te obejmują posiadanie zabezpieczenia dostępnego w trybie natychmiastowym na potrzeby pozyskania finansowania z banku centralnego, w tym w walucie innego państwa członkowskiego lub walucie państwa trzeciego, w stosunku do którego bank posiada ekspozycje, oraz – jeżeli to konieczne z punktu widzenia operacyjnego – na terytorium przyjmującego państwa członkowskiego lub państwa trzeciego, którego waluty dotyczy ekspozycja.
+Przepisy dostosowujące i końcowe
 § 48.
 Przepisy rozporządzenia nie mają zastosowania do zmiennych składników wynagrodzeń należnych za rok 2020 oraz lata wcześniejsze.
 § 49.
@@ -675,20 +678,33 @@ Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z w
 1)
 § 18 pkt 6, który wchodzi w życie z dniem 28 czerwca 2021 r.;
 2)
-§ 14 ust. 2 oraz § 22 ust. 4, które wchodzą w życie z dniem 31 grudnia 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie w zakresie swojej regulacji: 1) wdraża dyrektywę Parlamentu Europejskiego i Rady 2019/878 z dnia 20 maja 2019 r. zmieniającą dyrektywę 2013/36/UE w odniesieniu do podmiotów zwolnionych, finansowych spółek holdingowych, finansowych spółek holdingowych o działalności mieszanej, wynagrodzeń, środków i uprawnień nadzorczych oraz środków ochrony kapitału (Dz. Urz. UE L 150 z 07.06.2019, str. 253); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 355 z 12.12.2014, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 144 z 07.06.2017, str. 14, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 322 z 07.12.2017, str. 27, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 137 z 04.06.2018, str. 3, Dz. Urz. UE L 309 z 05.12.2018, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 355 z 12.12.2014, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 144 z 07.06.2017, str. 14, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 322 z 07.12.2017, str. 27, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 137 z 04.06.2018, str. 3, Dz. Urz. UE L 309 z 05.12.2018, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 6 marca 2017 r. w sprawie systemu zarządzania ryzykiem i systemu kontroli wewnętrznej, polityki wynagrodzeń oraz szczegółowego sposobu szacowania kapitału wewnętrznego w bankach (Dz. U. poz. 637), które utraciło moc w związku z wejściem w życie ustawy z dnia 25 lutego 2021 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 680).
+§ 14 ust. 2 oraz § 22 ust. 4, które wchodzą w życie z dniem 31 grudnia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 6 marca 2017 r. w sprawie systemu zarządzania ryzykiem i systemu kontroli wewnętrznej, polityki wynagrodzeń oraz szczegółowego sposobu szacowania kapitału wewnętrznego w bankach (Dz. U. poz. 637), które utraciło moc w związku z wejściem w życie ustawy z dnia 25 lutego 2021 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 680). 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie w zakresie swojej regulacji: 1) wdraża dyrektywę Parlamentu Europejskiego i Rady 2019/878 z dnia 20 maja 2019 r. zmieniającą dyrektywę 2013/36/UE w odniesieniu do podmiotów zwolnionych, finansowych spółek holdingowych, finansowych spółek holdingowych o działalności mieszanej, wynagrodzeń, środków i uprawnień nadzorczych oraz środków ochrony kapitału (Dz. Urz. UE L 150 z 07.06.2019, str. 253); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 355 z 12.12.2014, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 144 z 07.06.2017, str. 14, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 322 z 07.12.2017, str. 27, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 137 z 04.06.2018, str. 3, Dz. Urz. UE L 309 z 05.12.2018, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 355 z 12.12.2014, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 144 z 07.06.2017, str. 14, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 322 z 07.12.2017, str. 27, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 137 z 04.06.2018, str. 3, Dz. Urz. UE L 309 z 05.12.2018, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 6 marca 2017 r. w sprawie systemu zarządzania ryzykiem i systemu kontroli wewnętrznej, polityki wynagrodzeń oraz szczegółowego sposobu szacowania kapitału wewnętrznego w bankach (Dz. U. poz. 637), które utraciło moc w związku z wejściem w życie ustawy z dnia 25 lutego 2021 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 680).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 System zarządzania ryzykiem
+#### Rozdział 2 – System zarządzania ryzykiem
 
-#### Rozdział 3 Polityka wynagrodzeń
+#### Rozdział 3 – Polityka wynagrodzeń
 
-#### Rozdział 4 System kontroli wewnętrznej
+#### Rozdział 4 – System kontroli wewnętrznej
 
-#### Rozdział 5 Procedury anonimowego zgłaszania naruszeń prawa oraz obowiązujących w banku procedur i standardów etycznych
+#### Rozdział 5 – Procedury anonimowego zgłaszania naruszeń prawa oraz obowiązujących w banku procedur i standardów etycznych
 
-#### Rozdział 6 Zasady zarządzania ryzykiem płynności i finansowania
+#### Rozdział 6 – Zasady zarządzania ryzykiem płynności i finansowania
 
-#### Rozdział 7 Przepisy dostosowujące i końcowe
+#### Rozdział 7 – Przepisy dostosowujące i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacjiz dnia 5 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji
+# Obwieszczenie Ministra Edukacjiz dnia 5 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 
 | Pole | Wartość |
 |---|---|
@@ -37,8 +37,7 @@ rozporządzeniem Ministra Edukacji i Nauki z dnia 31 maja 2023 r. zmieniającym 
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2–8 rozporządzenia Ministra Edukacji Narodowej z dnia 29 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1664), które stanowią:
-„
+§ 2–8 rozporządzenia Ministra Edukacji Narodowej z dnia 29 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1664), które stanowią: „
 § 2.
 1.
 W przypadku uczniów branżowej szkoły I stopnia i szkoły policealnej oraz słuchaczy szkoły policealnej, którzy rozpoczęli kształcenie w tych szkołach przed dniem 1 września 2019 r., wpisów w arkuszu ocen ucznia albo słuchacza dokonuje się na podstawie danych zawartych odpowiednio w księdze uczniów, księdze słuchaczy, dzienniku lekcyjnym, protokołach egzaminów semestralnych, protokołach egzaminów klasyfikacyjnych i poprawkowych, protokołach sprawdzianów wiadomości i umiejętności, protokołach z prac komisji powołanej w celu ustalenia rocznej oceny klasyfikacyjnej zachowania, protokołach zebrań rady pedagogicznej, informacji o wyniku egzaminu potwierdzającego kwalifikacje w zawodzie, a także innych dokumentach potwierdzających dane podlegające wpisowi. Nauczyciel wypełniający arkusz ocen ucznia albo słuchacza potwierdza podpisem zgodność wpisów z dokumentami, na podstawie których ich dokonano.
@@ -55,16 +54,12 @@ Minister właściwy do spraw oświaty i wychowania udostępni w Biuletynie Infor
 § 7.
 Publiczne przedszkola, szkoły podstawowe i szkoły ponadpodstawowe oraz publiczne placówki, o których mowa w art. 2 pkt 3–8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, prowadzące dzienniki, o których mowa w § 2, § 8–13, § 18 i § 20 rozporządzenia zmienianego w § 1, w postaci elektronicznej przed dniem 1 września 2020 r. dostosują ich prowadzenie do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie do dnia 31 sierpnia 2021 r.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem § 1 pkt 3 i 10, które wchodzą w życie z dniem 1 września 2020 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem § 1 pkt 3 i 10, które wchodzą w życie z dniem 1 września 2020 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1062), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1062), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 25 sierpnia 2017 r. w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 25 sierpnia 2017 r. w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacjiObecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 Na podstawie art. 47 ust. 1 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób prowadzenia przez publiczne przedszkola, szkoły podstawowe i szkoły ponadpodstawowe, a także przez publiczne placówki, o których mowa w art. 2 pkt 3–8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwane dalej „placówkami”, dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzaje tej dokumentacji.
@@ -103,9 +98,9 @@ Do księgi uczniów wpisuje się imię (imiona) i nazwisko, datę i miejsce urod
 Wpisów w księdze uczniów dokonuje się chronologicznie według dat rozpoczęcia przez uczniów nauki w danej szkole.
 4.
 Wpisów w księdze uczniów w szkole w młodzieżowym ośrodku wychowawczym dokonuje się chronologicznie według dat przybycia ucznia do ośrodka.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 29 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1664), które weszło w życie z dniem 1 września 2019 r..
 Szkoła dla dorosłych, branżowa szkoła II stopnia i szkoła policealna prowadzą księgę słuchaczy. Przepisy ust. 2 i 3 stosuje się odpowiednio.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 29 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1664), które weszło w życie z dniem 1 września 2019 r..
 Do księgi słuchaczy nie wpisuje się danych rodziców pełnoletnich słuchaczy.
 § 5.
 1.
@@ -114,13 +109,13 @@ Specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy, młodzie
 Do księgi wychowanków wpisuje się imię (imiona) i nazwisko, datę i miejsce urodzenia oraz numer PESEL wychowanka, adres zamieszkania wychowanka, imiona i nazwiska rodziców oraz adresy ich zamieszkania, jeżeli są różne od adresu zamieszkania wychowanka, datę przyjęcia wychowanka do placówki oraz datę i przyczynę skreślenia z listy wychowanków, a także nazwę i adres placówki, do której wychowanek został przeniesiony.
 3.
 Wpisów w księdze wychowanków dokonuje się chronologicznie według dat przyjęcia wychowanków do danej placówki.
-4.
+4W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Edukacji i Nauki z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1062), które weszło w życie z dniem 6 czerwca 2023 r..
 Wpisów w księdze wychowanków młodzieżowego ośrodka wychowawczego dokonuje się chronologicznie według dat otrzymania przez dyrektora młodzieżowego ośrodka wychowawczego zawiadomienia o skierowaniu nieletniego do tego ośrodka, zgodnie z przepisami wydanymi na podstawie art. 185 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700 oraz z 2023 r. poz. 289 i 1860).
-§ 6.
+§ 6W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku gdy dziecko, uczeń, słuchacz lub wychowanek nie posiada numeru PESEL, do księgi ewidencji, o której mowa w § 3 ust. 1, księgi uczniów, księgi słuchaczy i księgi wychowanków zamiast numeru PESEL wpisuje się nazwę i numer dokumentu potwierdzającego tożsamość.
 § 7.
 Wpisów w księdze ewidencji, o której mowa w § 3 ust. 1, księdze uczniów, księdze słuchaczy i księdze wychowanków dokonuje się na podstawie dowodów osobistych lub innych dokumentów tożsamości rodziców albo pełnoletniego ucznia, słuchacza albo wychowanka, innych dokumentów zawierających dane podlegające wpisowi do odpowiedniej księgi oraz informacji przekazanych przez organ gminy lub dyrektora innej szkoły lub placówki.
-§ 7a.
+§ 7aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r..
 1.
 2.
 Za zgodą organu prowadzącego szkołę lub placówkę, księga ewidencji, o której mowa w § 3 ust. 1, księga uczniów, księga słuchaczy i księga wychowanków mogą być prowadzone wyłącznie w postaci elektronicznej.
@@ -141,15 +136,15 @@ Do prowadzenia księgi ewidencji, o której mowa w § 3 ust. 1, księgi uczniów
 § 8.
 1.
 Szkoła prowadzi dla każdego oddziału dziennik lekcyjny, w którym dokumentuje się przebieg nauczania w danym roku szkolnym.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Do dziennika lekcyjnego wpisuje się w porządku alfabetycznym lub innym ustalonym przez dyrektora szkoły nazwiska i imiona uczniów albo słuchaczy, daty i miejsca urodzenia oraz adresy ich zamieszkania, imiona i nazwiska rodziców oraz adresy ich zamieszkania, jeżeli są różne od adresu zamieszkania ucznia albo słuchacza, adresy poczty elektronicznej rodziców i numery ich telefonów, jeżeli je posiadają, imiona i nazwiska nauczycieli prowadzących zajęcia edukacyjne oraz tygodniowy rozkład zajęć, a w szkołach prowadzących kształcenie w formie zaocznej – semestralny rozkład zajęć. W przypadku dziennika lekcyjnego prowadzonego przez szkołę dla dorosłych, branżową szkołę II stopnia i szkołę policealną nie wpisuje się danych rodziców pełnoletnich słuchaczy.
 3.
-W dzienniku lekcyjnym prowadzonym przez szkołę dla dzieci i młodzieży odnotowuje się obecność uczniów na zajęciach edukacyjnych, liczbę godzin usprawiedliwionych i nieusprawiedliwionych nieobecności uczniów na tych zajęciach oraz wpisuje się tematy przeprowadzonych zajęć edukacyjnych, oceny bieżące, śródroczne i roczne oceny klasyfikacyjne z zajęć edukacyjnych oraz śródroczne i roczne oceny klasyfikacyjne zachowania.Przeprowadzenie zajęć edukacyjnych nauczyciel potwierdza podpisem.
-3a.
+W dzienniku lekcyjnym prowadzonym przez szkołę dla dzieci i młodzieży odnotowuje się obecność uczniów na zajęciach edukacyjnych, liczbę godzin usprawiedliwionych i nieusprawiedliwionych nieobecności uczniów na tych zajęciach oraz wpisuje się tematy przeprowadzonych zajęć edukacyjnych, oceny bieżące, śródroczne i roczne oceny klasyfikacyjne z zajęć edukacyjnych oraz śródroczne i roczne oceny klasyfikacyjne zachowania.Zdanie pierwsze ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2.Przeprowadzenie zajęć edukacyjnych nauczyciel potwierdza podpisem.
+3aDodany przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 W dzienniku lekcyjnym prowadzonym przez szkołę dla dzieci i młodzieży dla klasy wstępnej odnotowuje się obecność uczniów na zajęciach edukacyjnych, liczbę godzin usprawiedliwionych i nieusprawiedliwionych nieobecności uczniów na tych zajęciach oraz wpisuje się tematy przeprowadzonych zajęć edukacyjnych. Przeprowadzenie zajęć edukacyjnych nauczyciel potwierdza podpisem.
 4.
 Bieżące oceny opisowe, śródroczne i roczne opisowe oceny klasyfikacyjne z zajęć edukacyjnych, o których mowa w art. 44i ust. 1 pkt 2, ust. 2, 4 i 7 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005), zwanej dalej „ustawą o systemie oświaty”, oraz śródroczne i roczne opisowe oceny klasyfikacyjne zachowania, o których mowa w art. 44i ust. 1 pkt 2, ust. 4 i 7 ustawy o systemie oświaty, sporządzone komputerowo w postaci wydruku podpisanego przez odpowiednio nauczyciela prowadzącego dane zajęcia edukacyjne albo wychowawcę klasy, można dołączyć do dziennika lekcyjnego, co jest równoznaczne z wpisem do dziennika lekcyjnego.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 2..
 W dzienniku lekcyjnym prowadzonym przez szkołę dla dorosłych, branżową szkołę II stopnia i szkołę policealną wpisuje się tematy przeprowadzonych zajęć edukacyjnych, oceny bieżące, oceny z egzaminów semestralnych przeprowadzanych w formie ustnej, w formie pisemnej i w formie zadań praktycznych, oceny z egzaminów poprawkowych przeprowadzanych w formie ustnej, w formie pisemnej i w formie zadań praktycznych oraz semestralne oceny klasyfikacyjne z zajęć edukacyjnych. Przeprowadzenie zajęć edukacyjnych nauczyciel potwierdza podpisem. Integralną częścią dziennika lekcyjnego są listy obecności słuchaczy na zajęciach edukacyjnych, na których słuchacze potwierdzają podpisem obecność na poszczególnych godzinach zajęć.
 § 9.
 1.
@@ -164,13 +159,13 @@ Do dziennika zajęć w placówce, o której mowa w ust. 1, wpisuje się w porzą
 3.
 Do dziennika zajęć w specjalnym ośrodku wychowawczym wpisuje się także oddział, nazwę i adres szkoły, do której wychowanek uczęszcza, tygodniowy rozkład zajęć ustalony dla oddziału, do którego wychowanek uczęszcza, oraz odnotowuje się liczbę godzin usprawiedliwionych i nieusprawiedliwionych nieobecności wychowanka na zajęciach edukacyjnych w szkole, uzyskane przez wychowanka w szkole śródroczne i roczne oceny klasyfikacyjne z zajęć edukacyjnych oraz śródroczną i roczną ocenę klasyfikacyjną zachowania.
 § 11.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Przedszkole, szkoła i placówka prowadzą dzienniki innych zajęć niż zajęcia wpisywane odpowiednio do dziennika zajęć przedszkola, dziennika lekcyjnego, dziennika zajęć w świetlicy oraz dziennika zajęć, o którym mowa w § 10 ust. 1, jeżeli jest to uzasadnione koniecznością dokumentowania przebiegu nauczania, działalności wychowawczej i opiekuńczej, w szczególności zajęć z zakresu pomocy psychologiczno-pedagogicznej, zajęć rozwijających zainteresowania i uzdolnienia odpowiednio dzieci, uczniów, słuchaczy lub wychowanków oraz zajęć związanych z kształtowaniem kompetencji zawodowych uczniów lub słuchaczy.
 2.
 Do dziennika innych zajęć wpisuje się imiona i nazwiska odpowiednio dzieci, uczniów, słuchaczy lub wychowanków, daty i tematy przeprowadzonych zajęć, liczbę godzin tych zajęć oraz odnotowuje się obecność odpowiednio dzieci, uczniów, słuchaczy lub wychowanków. Przeprowadzenie zajęć nauczyciel potwierdza podpisem.
 3.
 Do dziennika innych zajęć, w przypadku zajęć z zakresu pomocy psychologiczno-pedagogicznej, wpisuje się w porządku alfabetycznym nazwiska i imiona odpowiednio dzieci, uczniów, słuchaczy lub wychowanków oraz oddział, do którego uczęszczają odpowiednio dzieci, uczniowie, słuchacze lub wychowankowie, adresy poczty elektronicznej rodziców i numery ich telefonów, jeżeli je posiadają, indywidualny program pracy z dzieckiem, uczniem, słuchaczem lub wychowankiem, a w przypadku zajęć grupowych – program pracy grupy, tygodniowy rozkład zajęć, daty i czas trwania oraz tematy przeprowadzonych zajęć, ocenę postępów i wnioski dotyczące dalszej pracy z dzieckiem, uczniem, słuchaczem lub wychowankiem oraz odnotowuje się obecność dzieci, uczniów, słuchaczy lub wychowanków na zajęciach. Przeprowadzenie zajęć nauczyciel potwierdza podpisem.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Do dziennika innych zajęć prowadzonego przez szkołę dla dorosłych, branżową szkołę II stopnia i szkołę policealną nie wpisuje się danych rodziców pełnoletnich słuchaczy.
 § 12.
 1.
@@ -182,31 +177,30 @@ Do dziennika zajęć rewalidacyjno-wychowawczych dla każdego zespołu wpisuje s
 § 13.
 Dla dzieci objętych indywidualnym obowiązkowym rocznym przygotowaniem przedszkolnym i uczniów objętych indywidualnym nauczaniem przedszkole i szkoła prowadzą odpowiednio odrębnie dla każdego dziecka i ucznia odpowiednio dziennik indywidualnych zajęć albo dziennik indywidualnego nauczania.
 § 14.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Szkoła dla dzieci i młodzieży prowadzi dla każdego ucznia, a szkoła dla dorosłych, branżowa szkoła II stopnia i szkoła policealna dla każdego słuchacza, przez okres jego nauki w danej szkole odpowiednio arkusz ocen ucznia albo słuchacza.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Wpisów w arkuszu ocen ucznia albo słuchacza dokonuje się na podstawie danych zawartych odpowiednio w księdze uczniów, księdze słuchaczy, dzienniku lekcyjnym, protokołach egzaminów semestralnych, protokołach egzaminów klasyfikacyjnych i poprawkowych, protokołach sprawdzianów wiadomości i umiejętności, protokołach z prac komisji powołanej w celu ustalenia rocznej oceny klasyfikacyjnej zachowania, protokołach zebrań rady pedagogicznej, informacji o wyniku egzaminu ósmoklasisty albo o zwolnieniu z tego egzaminu przez dyrektora okręgowej komisji egzaminacyjnej, informacji o wyniku egzaminu zawodowego albo o zwolnieniu z tego egzaminu przez dyrektora okręgowej komisji egzaminacyjnej, a także innych dokumentach potwierdzających dane podlegające wpisowi. Nauczyciel wypełniający arkusz ocen ucznia albo słuchacza potwierdza podpisem zgodność wpisów z dokumentami, na podstawie których ich dokonano.
 3.
 Roczne opisowe oceny klasyfikacyjne z zajęć edukacyjnych i roczne opisowe oceny klasyfikacyjne zachowania, o których mowa w art. 44i ust. 1 pkt 2, ust. 4 i 7 ustawy o systemie oświaty, oraz końcowe opisowe oceny klasyfikacyjne z zajęć edukacyjnych, o których mowa w art. 44i ust. 7 ustawy o systemie oświaty, sporządzone komputerowo w postaci wydruku podpisanego przez odpowiednio nauczyciela prowadzącego dane zajęcia edukacyjne albo wychowawcę klasy, można dołączyć do arkusza ocen ucznia, co jest równoznaczne z wpisem do arkusza ocen.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Podstawą wpisu o klasyfikowaniu, promowaniu lub ukończeniu przez ucznia albo słuchacza szkoły jest:
 1)
 uchwała rady pedagogicznej,
 2)
-rozstrzygnięcie, o którym mowa w art. 73a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe
-których datę wpisuje się do arkusza ocen ucznia albo słuchacza.
-5.
+rozstrzygnięcie, o którym mowa w art. 73a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – których datę wpisuje się do arkusza ocen ucznia albo słuchacza.
+5W brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Arkusze ocen uczniów albo słuchaczy wypełnia się pismem ręcznym lub w postaci elektronicznej, zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy o systemie oświaty. Arkusze ocen wypełniane w postaci elektronicznej przybierają postać papierowego wydruku dokumentu utworzonego i wypełnionego pierwotnie w postaci elektronicznej.
 6.
-(uchylony).
+(uchylony).Przez § 1 pkt 6 lit. d rozporządzenia, o którym mowa w odnośniku 2.
 7.
-(uchylony).
+(uchylony).Przez § 1 pkt 6 lit. d rozporządzenia, o którym mowa w odnośniku 2.
 8.
 Dyrektor szkoły specjalnej zorganizowanej w podmiocie leczniczym oraz jednostce pomocy społecznej przesyła dyrektorowi szkoły, do której uczeń wraca, pisemną informację o ocenach bieżących uzyskanych przez ucznia w czasie nauki w szkole specjalnej, jeżeli w tym okresie uczeń nie był klasyfikowany, oraz informację o jego zachowaniu.
 § 15.
 1.
 Szkoła zakłada księgi arkuszy ocen.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2..
 1)
 „Księga arkuszy ocen uczniów, którzy w............ roku szkolnym ukończyli lub opuścili szkołę”;
 2)
@@ -229,7 +223,7 @@ Na końcu księgi arkuszy ocen umieszcza się adnotację odpowiednio:
 ....................... arkuszy ocen słuchaczy, którzy z różnych przyczyn opuścili szkołę.”. (podać liczbę)
 5.
 Adnotację, o której mowa w ust. 4, opatruje się pieczęcią szkoły oraz pieczątką i podpisem dyrektora szkoły.
-§ 16.
+§ 16W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Słuchaczom szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej mogą być wydawane indeksy.
 § 17.
 Dokumentację przebiegu nauczania stanowią także:
@@ -241,7 +235,7 @@ b)
 przedłużenia okresu nauki uczniowi niepełnosprawnemu,
 c)
 skrócenia okresu nauki uczniowi niedostosowanemu społecznie lub zagrożonemu niedostosowaniem społecznym uczęszczającemu do branżowej szkoły I stopnia zorganizowanej w młodzieżowym ośrodku wychowawczym lub młodzieżowym ośrodku socjoterapii;
-1a)
+1aDodany przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 rozstrzygnięcia, o których mowa w art. 73a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, o wynikach klasyfikacji i promocji uczniów;
 2)
 zezwolenia odpowiednio dyrektora przedszkola lub szkoły na:
@@ -251,7 +245,7 @@ b)
 spełnianie przez dziecko obowiązku rocznego przygotowania przedszkolnego poza przedszkolem lub inną formą wychowania przedszkolnego,
 c)
 spełnianie przez ucznia obowiązku szkolnego lub obowiązku nauki poza szkołą;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 protokoły egzaminów semestralnych słuchaczy szkół dla dorosłych, branżowych szkół II stopnia i szkół policealnych do czasu ukończenia lub opuszczenia przez nich szkoły;
 4)
 zaświadczenie o przebiegu nauczania ucznia albo słuchacza.
@@ -278,7 +272,7 @@ Za zgodą organu prowadzącego przedszkole, szkołę lub placówkę, dzienniki, 
 3.
 Prowadzenie dziennika elektronicznego wymaga:
 1)
-(uchylony);
+(uchylony);Przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r.
 2)
 zabezpieczenia danych stanowiących dziennik elektroniczny przed dostępem osób nieuprawnionych;
 3)
@@ -287,19 +281,19 @@ zabezpieczenia danych stanowiących dziennik elektroniczny przed zniszczeniem, u
 rejestrowania historii zmian i ich autorów;
 5)
 umożliwienia bezpłatnego wglądu rodzicom do dziennika elektronicznego, w zakresie dotyczącym ich dzieci.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r..
 System informatyczny służący do prowadzenia dzienników elektronicznych:
 1)
 umożliwia wydruk oraz eksport, w formie dokumentu elektronicznego zapisanego w formacie XML, danych dzienników, o których mowa w § 2, § 8–13, § 18 i § 20;
 2)
 uwzględnia wytyczne dla dostępności treści internetowych 2.1 stosowane dla stron internetowych i aplikacji mobilnych w zakresie dostępności dla osób niepełnosprawnych, określone w załączniku do ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. z 2023 r. poz. 1440), w zakresie prezentacji zasobów informacji udostępnianych rodzicom uczniów i uczniom albo słuchaczom.
-4a.
+4aDodany przez § 1 pkt 10 lit. c rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r..
 Dokument elektroniczny, o którym mowa w ust. 4 pkt 1, jest zgodny ze schematem, określonym we wzorze zdefiniowanym w formacie XSD, opisującym sposób zapisu danych i informacji, o których mowa odpowiednio w § 2, § 8–13, § 18 i § 20, udostępnionym pod adresem elektronicznym wskazanym w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw oświaty i wychowania.
-4b.
+4bDodany przez § 1 pkt 10 lit. c rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r..
 Wydruk, o którym mowa w ust. 4 pkt 1, jest sporządzany na podstawie dokumentu elektronicznego, o którym mowa w ust. 4a, zgodnie z szablonem wizualizacji zdefiniowanym w formacie XSLT, udostępnionym pod adresem elektronicznym wskazanym w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw oświaty i wychowania.
 5.
 W przypadku prowadzenia dzienników, o których mowa w § 2, § 8, § 9, § 11 i § 20, wyłącznie w postaci elektronicznej, wpisanie przez nauczyciela w dzienniku elektronicznym tematu zajęć, o których mowa w § 2 ust. 2, § 8 ust. 3 i 5, § 9 ust. 2, § 11 ust. 2 i 3 oraz § 20 ust. 2 i 3, jest równoznaczne z potwierdzeniem przez nauczyciela przeprowadzenia tych zajęć.
-§ 22.
+§ 22W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 W terminie 10 dni od dnia zakończenia roku szkolnego, a w przypadku szkół dla dorosłych, branżowych szkół II stopnia i szkół policealnych – w terminie 10 dni od dnia zakończenia semestru, dane stanowiące dziennik elektroniczny zapisuje się w formie dokumentu elektronicznego na informatycznym nośniku danych, według stanu odpowiednio na dzień zakończenia roku szkolnego albo na dzień zakończenia semestru.
 2.
@@ -356,8 +350,7 @@ Z dniem 1 września 2017 r. dokumentacja przebiegu nauczania, o której mowa w �
 7.
 Z dniem 1 września 2017 r. dokumentacja badań i czynności uzupełniających, o której mowa w § 20 rozporządzenia wymienionego w ust. 1, prowadzona przez dotychczasową szkołę podstawową, szkołę policealną i szkołę specjalną przysposabiającą do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi staje się dokumentacją badań i czynności uzupełniających, o której mowa w § 19, prowadzoną przez szkołę podstawową, szkołę policealną i szkołę specjalną przysposabiającą do pracy.
 § 29.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 29 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1664), które weszło w życie z dniem 1 września 2019 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Edukacji i Nauki z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1062), które weszło w życie z dniem 6 czerwca 2023 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r. 6) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) Zdanie pierwsze ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) Dodany przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 12) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 2. 15) Przez § 1 pkt 6 lit. d rozporządzenia, o którym mowa w odnośniku 2. 16) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 17) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 18) Dodany przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2. 19) Ze zmianą wprowadzoną przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 2. 20) Przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r. 21) W brzmieniu ustalonym przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r. 22) Dodany przez § 1 pkt 10 lit. c rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r. 23) W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 29 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1664), które weszło w życie z dniem 1 września 2019 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Edukacji i Nauki z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia przez publiczne przedszkola, szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji (Dz. U. poz. 1062), które weszło w życie z dniem 6 czerwca 2023 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r. 6) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) Zdanie pierwsze ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) Dodany przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 12) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 2. 15) Przez § 1 pkt 6 lit. d rozporządzenia, o którym mowa w odnośniku 2. 16) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 17) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 18) Dodany przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2. 19) Ze zmianą wprowadzoną przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 2. 20) Przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r. 21) W brzmieniu ustalonym przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r. 22) Dodany przez § 1 pkt 10 lit. c rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 września 2020 r. 23) W brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2.
 
 # Księga ewidencji, o której mowa w § 3 ust. 1, księga uczniów, księga słuchaczy i księga wychowanków mogą być prowadzone także w postaci elektronicznej.
 

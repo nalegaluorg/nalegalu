@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-19 |
 | Data wydania | 2022-11-14 |
-| Wejście w życie | 2022-11-29 |
 | Ostatnia zmiana | 2024-04-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002308) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2308/text.pdf) |
 
@@ -37,8 +36,7 @@ w § 4:
 a)
 w ust. 1 uchyla się pkt 3,
 b)
-dodaje się ust. 3 i 4 w brzmieniu:
-„
+dodaje się ust. 3 i 4 w brzmieniu: „
 3.
 Dokumentacja audytu krajobrazowego zawiera w szczególności:
 1)
@@ -52,8 +50,7 @@ dane przestrzenne map, o których mowa w ust. 1 pkt 2, które powinny być zapis
 5)
 zestawienia tabelaryczne dla danych, o których mowa w ust. 1 pkt 1 lit. b-g.
 4.
-Dokumentację audytu krajobrazowego udostępnia się w Biuletynie Informacji Publicznej na stronie podmiotowej zarządu województwa wraz z wyłożeniem projektu audytu do publicznego wglądu, a w przypadku wprowadzenia zmian w tej dokumentacji – także po uchwaleniu audytu przez sejmik województwa.
-” ;
+Dokumentację audytu krajobrazowego udostępnia się w Biuletynie Informacji Publicznej na stronie podmiotowej zarządu województwa wraz z wyłożeniem projektu audytu do publicznego wglądu, a w przypadku wprowadzenia zmian w tej dokumentacji – także po uchwaleniu audytu przez sejmik województwa. ” ;
 2)
 załącznik nr 5 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
@@ -90,6 +87,5 @@ krajobraz otrzymał co najmniej 75% wskazań TAK w kolumnie Wskazania do typowan
 2)
 w granicach krajobrazu znajdują się elementy ekspozycji takie jak przedpola ekspozycji, osie widokowe i punkty widokowe istotne dla sąsiedniego krajobrazu priorytetowego wskazanego na podstawie pozostałych kryteriów, lub
 3)
-ważność krajobrazu wynika z dodatkowych analiz, w szczególności z analiz cech analitycznych niewymienionych w rozporządzeniu, jeżeli te cechy są istotne dla charakterystyki krajobrazów, lub z zastosowania do analiz zestawu cech, które są adekwatne do danego podtypu krajobrazu, w tym typu rzeźby – przy czym liczba krajobrazów priorytetowych wskazanych w oparciu o tę przesłankę nie może być większa niż 10% wszystkich krajobrazów w województwie.
-1) Metodykę analizy opisuje się w dokumentacji audytu krajobrazowego.
+ważność krajobrazu wynika z dodatkowych analiz, w szczególności z analiz cech analitycznych niewymienionych w rozporządzeniu, jeżeli te cechy są istotne dla charakterystyki krajobrazów, lub z zastosowania do analiz zestawu cech, które są adekwatne do danego podtypu krajobrazu, w tym typu rzeźbyMetodykę analizy opisuje się w dokumentacji audytu krajobrazowego. – przy czym liczba krajobrazów priorytetowych wskazanych w oparciu o tę przesłankę nie może być większa niż 10% wszystkich krajobrazów w województwie. 1) Metodykę analizy opisuje się w dokumentacji audytu krajobrazowego.
 

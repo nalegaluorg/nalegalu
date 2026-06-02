@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-25 |
 | Data wydania | 2014-10-09 |
-| Wejście w życie | 2014-10-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1371/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 114 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 114 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951, z 2013 r. poz. 628, 675, 829, 1351 i 1650 oraz z 2014 r. poz. 463, 486, 502, 616, 619 i 1055.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -75,5 +74,5 @@ Zapomogę przyznaje się na pisemny uzasadniony wniosek funkcjonariusza, związk
 § 6.
 Nagrodę uznaniową oraz zapomogę wypłaca się lub wręcza niezwłocznie, z zastrzeżeniem § 4 ust. 3.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 5 marca 2010 r. w sprawie nagród rocznych, nagród uznaniowych i zapomóg funkcjonariuszy Straży Granicznej (Dz. U. Nr 45, poz. 270 oraz z 2013 r. poz. 821 i 1712), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 17 pkt 2 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951, z 2013 r. poz. 628, 675, 829, 1351 i 1650 oraz z 2014 r. poz. 463, 486, 502, 616, 619 i 1055. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 5 marca 2010 r. w sprawie nagród rocznych, nagród uznaniowych i zapomóg funkcjonariuszy Straży Granicznej (Dz. U. Nr 45, poz. 270 oraz z 2013 r. poz. 821 i 1712), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 17 pkt 2 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502).
 

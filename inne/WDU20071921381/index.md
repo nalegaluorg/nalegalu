@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 września 2007 r. o zmianie ustawy o transporcie drogowym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 19 września 2007 r. o zmianie ustawy o transporcie drogowym oraz o zmianie niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie minimalnych warunków wykonywania rozporządzeń Rady (EWG) nr 3820/85 i nr 3821/85 dotyczących przepisów socjalnych odnoszących się do działalności w transporcie drogowym oraz uchylającej dyrektywę Rady 88/599/WE (Dz. Urz. UE L 102 z 11.04.2006, s. 35).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-09-19 |
 | Data wydania | 2007-10-19 |
-| Wejście w życie | 2007-11-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071921381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1381/text.pdf) |
 
@@ -155,7 +154,7 @@ source: "eli-html"
 2. Komendant Główny Policji, Komendant Główny Straży Granicznej, Szef Służby Celnej, oraz wojewódzki inspektor transportu drogowego, a w zakresie, o którym mowa w pkt 2, również Główny Inspektor Pracy, przekazują Głównemu Inspektorowi Transportu Drogowego zbiorczą informację dotyczącą kontroli:
 
 - **1)** stanu technicznego pojazdów – co dwa lata, w terminie do dnia 31 stycznia po upływie dwuletniego okresu objętego sprawozdaniem;
-- **2)** przestrzegania przepisów dotyczących czasu jazdy i czasu postoju pojazdu, obowiązkowych przerw oraz czasu odpoczynku kierowcy – co dwa lata, w terminie do dnia 31 lipca po upływie dwuletniego okresu objętego sprawozdaniem na odpowiednich formularzach. ” dodaje się ust. 4 w brzmieniu: „
+- **2)** przestrzegania przepisów dotyczących czasu jazdy i czasu postoju pojazdu, obowiązkowych przerw oraz czasu odpoczynku kierowcy – co dwa lata, w terminie do dnia 31 lipca po upływie dwuletniego okresu objętego sprawozdaniem – na odpowiednich formularzach. ” dodaje się ust. 4 w brzmieniu: „
     - **b)**
 
 4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzory formularzy do przekazywania danych, o których mowa w ust. 2, uwzględniając zakres niezbędnych danych. ”
@@ -178,11 +177,11 @@ source: "eli-html"
 - **1)** parkingów przeznaczonych dla postoju pojazdów wykonujących przewozy drogowe, wynikającego z konieczności przestrzegania przepisów o czasie prowadzenia pojazdów oraz przepisów o ograniczeniach i zakazach ruchu drogowego;
 - **2)** miejsc wykonywania kontroli ruchu i transportu drogowego, przeznaczonych w szczególności do ważenia pojazdów. ” .
 
-**Art. 3.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258, z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834 oraz z 2007 r. Nr 21, poz. 124.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
-3a. Kontrola ciśnieniowych urządzeń transportowych w rozumieniu ustawy z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.) prowadzona jest zgodnie z przepisami ustawy z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych, z uwzględnieniem zmian wynikających z przepisów rozdziału 6 niniejszej ustawy. ” ;
+3a. Kontrola ciśnieniowych urządzeń transportowych w rozumieniu ustawy z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 90, poz. 757 i Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238.) prowadzona jest zgodnie z przepisami ustawy z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych, z uwzględnieniem zmian wynikających z przepisów rozdziału 6 niniejszej ustawy. ” ;
 
 - **2)** w art. 38: w ust. 2 pkt 9 otrzymuje brzmienie: „
     - **a)**
@@ -199,7 +198,7 @@ source: "eli-html"
 
 4b. Przepis ust. 4 stosuje się odpowiednio do ciśnieniowych urządzeń transportowych w rozumieniu ustawy z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych. ” .
 
-**Art. 4.** W ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 90, poz. 757 i Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 pkt 4 otrzymuje brzmienie: „
 - **4)** właściwy miejscowo komendant wojewódzki Państwowej Straży Pożarnej – w sprawach: sprawozdawczości wypadkowej, nadzoru nad czynnościami ładunkowymi i postojem pojazdów z towarami niebezpiecznymi. ” ;
@@ -230,7 +229,7 @@ source: "eli-html"
 
 5. Decyzji, o której mowa w ust. 3, nadaje się rygor natychmiastowej wykonalności.
 
-6. Opłatę, o której mowa w ust. 3, uiszcza się w terminie 21 dni od dnia doręczenia decyzji. W przypadku nieuiszczenia opłaty w terminie podlega ona ściągnięciu w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postepowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.).
+6. Opłatę, o której mowa w ust. 3, uiszcza się w terminie 21 dni od dnia doręczenia decyzji. W przypadku nieuiszczenia opłaty w terminie podlega ona ściągnięciu w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postepowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381 oraz z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378.).
 
 7. Opłata, o której mowa w ust. 3, stanowi dochód budżetu państwa. ” ;
 
@@ -239,7 +238,7 @@ source: "eli-html"
 1. W przypadku stwierdzenia, że:
 
 - **1)** ciśnieniowe urządzenie transportowe nie spełnia wymagań;
-- **2)** oznakowanie znakiem Ð ciśnieniowego urządzenia transportowego zostało dokonane niezgodnie z przepisami niniejszego rozdziału wojewódzki inspektor transportu drogowego wydaje w tym zakresie decyzję i nakazuje jednocześnie zapewnić w określonym terminie zgodność ciśnieniowego urządzenia transportowego z wymaganiami lub warunkami określonymi w art. 19t ust. 1 albo wycofać urządzenie z obrotu.
+- **2)** oznakowanie znakiem Ð ciśnieniowego urządzenia transportowego zostało dokonane niezgodnie z przepisami niniejszego rozdziału – wojewódzki inspektor transportu drogowego wydaje w tym zakresie decyzję i nakazuje jednocześnie zapewnić w określonym terminie zgodność ciśnieniowego urządzenia transportowego z wymaganiami lub warunkami określonymi w art. 19t ust. 1 albo wycofać urządzenie z obrotu.
 
 2. Wojewódzki inspektor transportu drogowego po upływie terminu ustalonego w decyzji, o której mowa w ust. 1, przeprowadza kontrolę mającą na celu ustalenie, czy niezgodność została usunięta w wyznaczonym terminie albo, czy ciśnieniowe urządzenie transportowe zostało wycofane z obrotu.
 
@@ -263,7 +262,7 @@ source: "eli-html"
 
 - **8)** po art. 33a dodaje się art. 33b w brzmieniu: „
 
-**Art. 33b.** Orzekanie w sprawach, o których mowa w art. 33a, następuje w trybie określonym w przepisach ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 106, poz. 1148, z późn. zm.). ” .
+**Art. 33b.** Orzekanie w sprawach, o których mowa w art. 33a, następuje w trybie określonym w przepisach ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 106, poz. 1148, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081, z 2004 r. Nr 128, poz. 1351, z 2005 r. Nr 132, poz. 1103 i Nr 143, poz. 1203, z 2006 r. Nr 226, poz. 1648 oraz z 2007 r. Nr 89, poz. 589 i Nr 99, poz. 664.). ” .
 
 **Art. 5.** W ustawie z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. Nr 92, poz. 879, z 2005 r. Nr 180, poz. 1497 oraz z 2007 r. Nr 99, poz. 661) w art. 31 wprowadza się następujące zmiany:
 
@@ -279,5 +278,5 @@ source: "eli-html"
 
 **Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 89 ust. 2 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 89 ust. 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 54b ust. 2 i 3, który wchodzi w życie z dniem 1 maja 2009 r.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 54b ust. 2 i 3, który wchodzi w życie z dniem 1 maja 2009 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie minimalnych warunków wykonywania rozporządzeń Rady (EWG) nr 3820/85 i nr 3821/85 dotyczących przepisów socjalnych odnoszących się do działalności w transporcie drogowym oraz uchylającej dyrektywę Rady 88/599/WE (Dz. Urz. UE L 102 z 11.04.2006, s. 35). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258, z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834 oraz z 2007 r. Nr 21, poz. 124. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 90, poz. 757 i Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808, z 2005 r. Nr 90, poz. 757 i Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381 oraz z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081, z 2004 r. Nr 128, poz. 1351, z 2005 r. Nr 132, poz. 1103 i Nr 143, poz. 1203, z 2006 r. Nr 226, poz. 1648 oraz z 2007 r. Nr 89, poz. 589 i Nr 99, poz. 664.
 

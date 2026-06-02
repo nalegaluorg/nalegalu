@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-10-18 |
 | Data wydania | 2006-10-26 |
-| Wejście w życie | 2006-11-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061941432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1432/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 101, poz. 1177, z 2000 r. Nr 62, poz. 718, z 2002 r. Nr 74, poz. 676 oraz z 2006 r. Nr 104, poz. 708 i 711.) wprowadza się następujące zmiany:
 
 - **1)** po art. 12 dodaje się art. 12a w brzmieniu: „
 
@@ -66,5 +65,5 @@ source: "eli-html"
 
 **Art. 2.** Kanclerza oraz członków Kapituły Orderu Krzyża Wojskowego powoła Prezydent spośród dwunastu pierwszych odznaczonych Orderem Krzyża Wojskowego.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 101, poz. 1177, z 2000 r. Nr 62, poz. 718, z 2002 r. Nr 74, poz. 676 oraz z 2006 r. Nr 104, poz. 708 i 711.
 

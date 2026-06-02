@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-11 |
 | Data wydania | 2015-02-27 |
-| Wejście w życie | 2015-03-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/274/text.pdf) |
 
@@ -86,5 +85,5 @@ Sprawozdanie sporządza się w formie pisemnej w jednym egzemplarzu.
 4.
 Sprawozdanie z wywiadu dołącza się do akt postępowania, w którego toku przeprowadza się wywiad.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 23 grudnia 2008 r. w sprawie wywiadu środowiskowego przeprowadzanego przez funkcjonariuszy Straży Granicznej w postępowaniach prowadzonych wobec cudzoziemców (Dz. U. Nr 236, poz. 1647), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 520 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463 i 1004). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 23 grudnia 2008 r. w sprawie wywiadu środowiskowego przeprowadzanego przez funkcjonariuszy Straży Granicznej w postępowaniach prowadzonych wobec cudzoziemców (Dz. U. Nr 236, poz. 1647), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 520 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463 i 1004).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-24 |
 | Data wydania | 2013-07-01 |
-| Wejście w życie | 2013-07-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/756/text.pdf) |
 
@@ -65,7 +64,7 @@ innych przedsięwzięć niezbędnych do realizacji szkolenia sportowego;
 10)
 kosztów obsługi zadania.
 § 4.
-Dofinansowania realizacji zadań związanych z przygotowaniem kadry narodowej udziela się po przeprowadzeniu otwartego konkursu, o którym mowa w art. 11 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.), z uwzględnieniem przepisów niniejszego rozporządzenia.
+Dofinansowania realizacji zadań związanych z przygotowaniem kadry narodowej udziela się po przeprowadzeniu otwartego konkursu, o którym mowa w art. 11 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.), z uwzględnieniem przepisów niniejszego rozporządzenia.
 § 5.
 1.
 Wnioski zawierające oferty na dofinansowanie realizacji zadań związanych z przygotowaniem kadry narodowej mogą składać podmioty, których podstawowym celem statutowym jest prowadzenie działalności w zakresie kultury fizycznej.
@@ -144,5 +143,5 @@ Osiągnięte przez oferenta dochody z tytułu kar umownych powinny być zwrócon
 § 10.
 Oferenci realizujący zadania związane z przygotowaniem kadry narodowej mogą przeznaczyć na koszty pośrednie nie więcej niż 10% kosztów bezpośrednich związanych z realizacją zadania, dofinansowanych ze środków Funduszu, w tym na wynagrodzenia osób obsługujących te zadania. Wysokość kosztów pośrednich pokrywanych ze środków Funduszu ustala się, po ich szczegółowej analizie, w drodze negocjacji przed podpisaniem umowy, z uwzględnieniem rodzaju i specyfiki zadania.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-06-23 |
 | Data wydania | 2006-08-22 |
-| Wejście w życie | 2006-09-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061491073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1073/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej, Służby Więziennej, Centralnego Biura Antykorupcyjnego i Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. Nr 53, poz. 548, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej, Służby Więziennej, Centralnego Biura Antykorupcyjnego i Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. Nr 53, poz. 548, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 27, poz. 298, z 2002 r. Nr 74, poz. 676 oraz z 2006 r. Nr 104, poz. 708 i 711.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** uposażeniu przysługującym funkcjonariuszowi – należy przez to rozumieć uposażenie zasadnicze wraz z dodatkami o charakterze stałym należne funkcjonariuszowi w dniu wyrządzenia szkody, a w przypadku szkody powstałej po rozwiązaniu stosunku służbowego – należne w dniu zwolnienia ze służby. ” ;
@@ -71,6 +70,6 @@ source: "eli-html"
 
 1. Należność stanowiąca odszkodowanie może być, na wniosek funkcjonariusza odpowiedzialnego za szkodę, umorzona w całości lub części, a jej spłata odroczona lub rozłożona na raty, jeżeli okoliczności, o których mowa w art. 13 ust. 2 pkt 3 lit. b) i c), zaistniały lub zostały ujawnione po ustaleniu tej należności.
 
-2. Umorzenie, odroczenie lub rozłożenie na raty spłaty należności następuje w drodze umowy zawartej z funkcjonariuszem. Przepisy art. 13 ust. 3 i 4 stosuje się odpowiednio. ” . Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+2. Umorzenie, odroczenie lub rozłożenie na raty spłaty należności następuje w drodze umowy zawartej z funkcjonariuszem. Przepisy art. 13 ust. 3 i 4 stosuje się odpowiednio. ” . Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 27, poz. 298, z 2002 r. Nr 74, poz. 676 oraz z 2006 r. Nr 104, poz. 708 i 711.
 
 

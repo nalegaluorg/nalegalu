@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-24 |
 | Data wydania | 2014-09-26 |
-| Wejście w życie | 2014-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001295) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1295/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Równoważnik wypłacany policjantowi mianowanemu na stałe w zamian za przedmioty ubioru galowego, wyjściowego i służbowego (w zł)
 Treść rozporządzenia
-Na podstawie art. 70 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.) zarządza się, co następuje:
+Na podstawie art. 70 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 26 marca 2010 r. w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. Nr 47, poz. 279 oraz z 2011 r. Nr 70, poz. 373) wprowadza się następujące zmiany:
 1)
@@ -41,7 +40,16 @@ tytuł tabeli nr 5 otrzymuje brzmienie: „ Kalkulacja wysokości równoważnika
 b)
 tytuł tabeli nr 6 otrzymuje brzmienie: „ Kalkulacja wysokości równoważnika pieniężnego w zamian za umundurowanie (wg normy nr 2 załącznika nr 10 do rozporządzenia*)) dla mianowanych na stałe policjantów-kobiet służby kryminalnej, śledczej oraz wspomagającej działalność Policji w zakresie organizacyjnym, logistycznym i technicznym ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 9 października 2014 r.
+Rozporządzenie wchodzi w życie z dniem 9 października 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 627, 664, 908, 951 i 1529, z 2013 r. poz. 628, 675, 1351, 1635 i 1650 oraz z 2014 r. poz. 24, 486, 502, 538, 616, 1055 i 1199. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371.
 Załącznik – Równoważnik wypłacany policjantowi mianowanemu na stałe w zamian za przedmioty ubioru galowego, wyjściowego i służbowego (w zł)
-Lp. Wyszczególnienie Pleć policjanta KorpusgenerałówPolicji KorpusoficerówPolicji KorpusaspirantówPolicji Korpus podoficerówPolicji i szeregowychPolicji 1 2 3 4 5 6 7 1 Policjant służby prewencyjnej*) mężczyzna 3 184,80 2 122,10 2 120,70 2 095,60 kobieta 3 210,80 2 148,10 2 146,70 2 121,60 2 Policjant służby prewencyjnej pełniący służbę w komórkach ruchu drogowego, patrolowo-interwencyjnych, konwojowych, w policji sądowej, w pomieszczeniach dla osób zatrzymanych, dzielnicowy, dyżurny i przewodnik psa służbowego mężczyzna 3 184,80 2 362,00 2 360,60 2 335,50 kobieta 3 210,80 2 388,00 2 386,60 2 361,50 3 Policjant służby kryminalnej, śledczej oraz wspomagającej działalność Policji w zakresie organizacyjnym, logistycznym i technicznym mężczyzna 3 184,80 1 813,80 1 812,40 1 787,30 kobieta 3 210,80 1 839,80 1 838,40 1 813,30 *) Z wyłączeniem policjantów, o których mowa w lp. 2.
+Lp. Wyszczególnienie Pleć policjanta Korpus
+generałów
+Policji Korpus
+oficerów
+Policji Korpus
+aspirantów
+Policji Korpus podoficerów
+Policji i szeregowych
+Policji 1 2 3 4 5 6 7 1 Policjant służby prewencyjnej*) mężczyzna 3 184,80 2 122,10 2 120,70 2 095,60 kobieta 3 210,80 2 148,10 2 146,70 2 121,60 2 Policjant służby prewencyjnej pełniący służbę w komórkach ruchu drogowego, patrolowo-interwencyjnych, konwojowych, w policji sądowej, w pomieszczeniach dla osób zatrzymanych, dzielnicowy, dyżurny i przewodnik psa służbowego mężczyzna 3 184,80 2 362,00 2 360,60 2 335,50 kobieta 3 210,80 2 388,00 2 386,60 2 361,50 3 Policjant służby kryminalnej, śledczej oraz wspomagającej działalność Policji w zakresie organizacyjnym, logistycznym i technicznym mężczyzna 3 184,80 1 813,80 1 812,40 1 787,30 kobieta 3 210,80 1 839,80 1 838,40 1 813,30
+*) Z wyłączeniem policjantów, o których mowa w lp. 2.
 

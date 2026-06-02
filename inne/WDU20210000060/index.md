@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 4 stycznia 2021 r. w sprawie szczegółowego sposobu postępowania w zakresie wypłaty odszkodowań oraz udzielania dotacji celowych i pożyczek ze środków Funduszu Reprywatyzacji
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 4 stycznia 2021 r. w sprawie szczegółowego sposobu postępowania w zakresie wypłaty odszkodowań oraz udzielania dotacji celowych i pożyczek ze środków Funduszu Reprywatyzacji Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-04 |
 | Data wydania | 2021-01-11 |
-| Wejście w życie | 2021-01-11 |
 | Ostatnia zmiana | 2025-10-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/60/text.pdf) |
 
@@ -102,7 +101,7 @@ uzasadnienie prawne i ekonomiczne przyznania dotacji celowej na rzecz jednostki 
 3)
 numer rachunku bankowego jednostki samorządu terytorialnego, na który dotacja ma zostać przekazana.
 3.
-Do wniosku, o którym mowa w ust. 1, dołącza się poświadczone przez organ wnioskujący kopie dokumentów umożliwiających weryfikację roszczenia, którego dotyczy wniosek, a także dokumenty poświadczające posiadanie środków finansowych na realizację zadania co najmniej w wysokości, o której mowa w art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.).
+Do wniosku, o którym mowa w ust. 1, dołącza się poświadczone przez organ wnioskujący kopie dokumentów umożliwiających weryfikację roszczenia, którego dotyczy wniosek, a także dokumenty poświadczające posiadanie środków finansowych na realizację zadania co najmniej w wysokości, o której mowa w art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695, 1175 i 2320.).
 4.
 Dysponent Funduszu może wezwać jednostkę samorządu terytorialnego do przedstawienia dodatkowych dokumentów i informacji w związku ze złożonym wnioskiem, o którym mowa w ust. 1.
 § 5.
@@ -140,8 +139,7 @@ Wniosek o udzielenie pożyczki ze środków Funduszu, zwany dalej „wnioskiem o
 1)
 spółka, o której mowa w art. 56 ust. 4d1pkt 1 ustawy,
 2)
-przedsiębiorca, o którym mowa w art. 56 ust. 4d1pkt 2 ustawy
-zwani dalej „podmiotem wnioskującym”.
+przedsiębiorca, o którym mowa w art. 56 ust. 4d1pkt 2 ustawy – zwani dalej „podmiotem wnioskującym”.
 2.
 Wniosek o udzielenie pożyczki zawiera co najmniej:
 1)
@@ -211,7 +209,7 @@ oświadczenie podmiotu wnioskującego o niewystępowaniu poniższych okolicznoś
 a)
 ubiegania się przez podmiot wnioskujący o udzielenie lub korzystania z pomocy na ratowanie lub restrukturyzację,
 b)
-znajdowania się podmiotu wnioskującego w trudnej sytuacji zgodnie z kryteriami określonymi w przepisach Unii Europejskiej dotyczących pomocy podmiotom w takiej sytuacji.
+znajdowania się podmiotu wnioskującego w trudnej sytuacji zgodnie z kryteriami określonymi w przepisach Unii Europejskiej dotyczących pomocy podmiotom w takiej sytuacjiKryteria te zostały określone w komunikacie Komisji w pkt 19 i 20 Wytycznych dotyczących pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1 i Dz. Urz. UE C 224 z 08.07.2020, str. 2)..
 4.
 Kopie dokumentów dołączonych do wniosku o udzielenie pożyczki powinny być potwierdzone za zgodność z oryginałem lub dokumentem elektronicznym. Prezes Rady Ministrów może żądać dostarczenia dokumentów w oryginale do wglądu.
 § 10.

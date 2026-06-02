@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-28 |
 | Data wydania | 2022-03-30 |
-| Wejście w życie | 2022-03-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000701) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/701/text.pdf) |
 
@@ -48,6 +47,5 @@ W przypadku gdy trasa dojazdu do miejsca pełnienia służby nie jest obsługiwa
 § 3.
 Przepisy rozporządzenia mają zastosowanie do ryczałtu przysługującego funkcjonariuszowi od dnia 1 stycznia 2022 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 11 kwietnia 2012 r. w sprawie ryczałtu za dojazd do miejsca pełnienia służby funkcjonariusza Służby Więziennej (Dz. U. poz. 413), które utraciło moc z dniem 1 stycznia 2022 r., w związku z wejściem w życie art. 1 pkt 1 ustawy z dnia 21 stycznia 2021 r. o zmianie ustawy o Służbie Więziennej, ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 180).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 11 kwietnia 2012 r. w sprawie ryczałtu za dojazd do miejsca pełnienia służby funkcjonariusza Służby Więziennej (Dz. U. poz. 413), które utraciło moc z dniem 1 stycznia 2022 r., w związku z wejściem w życie art. 1 pkt 1 ustawy z dnia 21 stycznia 2021 r. o zmianie ustawy o Służbie Więziennej, ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 180). 1) Rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 11 kwietnia 2012 r. w sprawie ryczałtu za dojazd do miejsca pełnienia służby funkcjonariusza Służby Więziennej (Dz. U. poz. 413), które utraciło moc z dniem 1 stycznia 2022 r., w związku z wejściem w życie art. 1 pkt 1 ustawy z dnia 21 stycznia 2021 r. o zmianie ustawy o Służbie Więziennej, ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 180).
 

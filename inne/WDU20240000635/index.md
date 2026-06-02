@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 23 kwietnia 2024 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytu w ramach Funduszu InvestEU
+# Rozporządzenie Ministra Finansówz dnia 23 kwietnia 2024 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytu w ramach Funduszu InvestEU Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -28,7 +28,7 @@ source: "eli-html"
 Treść rozporządzenia
 Na podstawie art. 34a ust. 4 pkt 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa szczegółowe warunki oraz tryb udzielania przez Bank Gospodarstwa Krajowego, zwany dalej „BGK”, pomocy publicznej w formie gwarancji spłaty kredytu, zwanej dalej „pomocą”, w ramach rządowego programu poręczeniowo-gwarancyjnego, o którym mowa w art. 34a ust. 1 pkt 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z wykorzystaniem środków pochodzących z Funduszu InvestEU, o którym mowa w art. 1 zdanie pierwsze rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/523 z dnia 24 marca 2021 r. ustanawiającego Program InvestEU i zmieniającego rozporządzenie (UE) 2015/1017 (Dz. Urz. UE L 107 z 26.03.2021, str. 30, z późn. zm.) , zwanego dalej „Funduszem InvestEU”.
+Rozporządzenie określa szczegółowe warunki oraz tryb udzielania przez Bank Gospodarstwa Krajowego, zwany dalej „BGK”, pomocy publicznej w formie gwarancji spłaty kredytu, zwanej dalej „pomocą”, w ramach rządowego programu poręczeniowo-gwarancyjnego, o którym mowa w art. 34a ust. 1 pkt 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z wykorzystaniem środków pochodzących z Funduszu InvestEU, o którym mowa w art. 1 zdanie pierwsze rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/523 z dnia 24 marca 2021 r. ustanawiającego Program InvestEU i zmieniającego rozporządzenie (UE) 2015/1017 (Dz. Urz. UE L 107 z 26.03.2021, str. 30, z późn. zm.) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/795 z 29.02.2024., zwanego dalej „Funduszem InvestEU”.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -36,7 +36,7 @@ banku udzielającym kredytu – należy przez to rozumieć komercyjnego pośredn
 2)
 przedsiębiorcy – należy przez to rozumieć mikroprzedsiębiorcę, małego lub średniego przedsiębiorcę w rozumieniu art. 2 pkt 2 rozporządzenia Komisji;
 3)
-rozporządzeniu Komisji – należy przez to rozumieć rozporządzenie Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznające niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.).
+rozporządzeniu Komisji – należy przez to rozumieć rozporządzenie Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznające niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1..
 § 3.
 1.
 Gwarancja może być udzielona przez BGK bankowi udzielającemu kredytu.
@@ -79,6 +79,5 @@ Dniem udzielenia pomocy jest dzień udzielenia gwarancji.
 § 10.
 Pomoc jest udzielana do dnia 30 czerwca 2027 r.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 26 kwietnia 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/795 z 29.02.2024. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
+Rozporządzenie wchodzi w życie z dniem 26 kwietnia 2024 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/795 z 29.02.2024. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
 

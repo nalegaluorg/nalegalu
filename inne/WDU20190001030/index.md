@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych oraz niektórych innych ustaw
+# Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającego ramy etykietowania energetycznego i uchylającego dyrektywę 2010/30/UE (Dz. Urz. UE L 198 z 28.07.2017, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-12 |
 | Data wydania | 2019-06-04 |
-| Wejście w życie | 2019-06-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001030) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1030/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne oraz ustawę z dnia 20 maja 2016 r. o efektywności energetycznej.
 
 **Art. 1.** W ustawie z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych (Dz. U. z 2016 r. poz. 1790) wprowadza się następujące zmiany:
 
@@ -77,7 +78,7 @@ source: "eli-html"
 - **3)** wycofanie produktu związanego z energią z obrotu lub z użytku, lub
 - **4)** wycofanie produktu związanego z energią od użytkowników, lub
 - **5)** wstrzymanie się z udostępnianiem produktu związanego z energią, lub
-- **6)** zaprzestanie reklamowania produktu związanego z energią oraz przedstawienie dowodów podjętych działań w terminie określonym przez organ kontrolujący.
+- **6)** zaprzestanie reklamowania produktu związanego z energią – oraz przedstawienie dowodów podjętych działań w terminie określonym przez organ kontrolujący.
 
 2. Jeżeli dostawca lub sprzedawca nie przedstawi, w terminie ustalonym przez organ kontrolujący, dowodów podjętych działań lub w wyniku kontroli stwierdzono, że działania takie nie zostały podjęte, organ kontrolujący wydaje decyzję:
 
@@ -86,7 +87,7 @@ source: "eli-html"
 - **3)** nakazującą usunięcie niezgodności,
 - **4)** nakazującą wycofanie produktu związanego z energią od użytkowników,
 - **5)** zakazującą udostępniania produktu związanego z energią,
-- **6)** zakazującą reklamowania produktu związanego z energią w terminie określonym przez organ kontrolujący.
+- **6)** zakazującą reklamowania produktu związanego z energią – w terminie określonym przez organ kontrolujący.
 
 3. Organ kontrolujący może przeprowadzić kontrolę w celu ustalenia, czy dostawca lub sprzedawca wykonał decyzję, o której mowa w ust. 2. ” ;
 
@@ -108,12 +109,12 @@ source: "eli-html"
 
 3. W przypadku, o którym mowa w ust. 1 pkt 3, kara pieniężna wynosi od dwukrotnego do dziesięciokrotnego przeciętnego wynagrodzenia, o którym mowa w ust. 2. ” . W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2018 r. poz. 1930 i 2227) w art. 3 w ust. 1 pkt 1d otrzymuje brzmienie: „
 
-- **1d)** kontrola produktów związanych z energią wprowadzonych do obrotu lub oddawanych do użytku, o których mowa w aktach delegowanych określonych w wykazie ogłaszanym na podstawie art. 2 ust. 2 ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią (Dz. U. z 2016 r. poz. 1790 oraz z 2019 r. poz. 1030), z wyłączeniem produktów, o których mowa w rozporządzeniu delegowanym Komisji (UE) nr 1062/2010 z dnia 28 września 2010 r. uzupełniającym dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej dla telewizorów (Dz. Urz. UE L 314 z 30.11.2010, str. 64, z późn. zm.); ” .
+- **1d)** kontrola produktów związanych z energią wprowadzonych do obrotu lub oddawanych do użytku, o których mowa w aktach delegowanych określonych w wykazie ogłaszanym na podstawie art. 2 ust. 2 ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią (Dz. U. z 2016 r. poz. 1790 oraz z 2019 r. poz. 1030), z wyłączeniem produktów, o których mowa w rozporządzeniu delegowanym Komisji (UE) nr 1062/2010 z dnia 28 września 2010 r. uzupełniającym dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej dla telewizorów (Dz. Urz. UE L 314 z 30.11.2010, str. 64, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 147 z 17.05.2014, str. 1, Dz. Urz. UE L 38 z 15.02.2017, str. 1 oraz Dz. Urz. UE L 55 z 02.03.2017, str. 38.; ” .
 
 **Art. 3.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954, 2245 i 2354 oraz z 2019 r. poz. 643 i 730) w art. 199 ust. 1b otrzymuje brzmienie: „ 1b. Prezes UKE jako organ:
 
-- **1)** kontrolujący w rozumieniu przepisów ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią (Dz. U. z 2016 r. poz. 1790 oraz z 2019 r. poz. 1030) jest uprawniony do kontroli wprowadzanych do obrotu lub oddawanych do użytku produktów związanych z energią, o których mowa w rozporządzeniu delegowanym Komisji (UE) nr 1062/2010 z dnia 28 września 2010 r. uzupełniającym dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej dla telewizorów (Dz. Urz. UE L 314 z 30.11.2010, str. 64, z późn. zm.);
-- **2)** przeprowadzający kontrolę realizacji programu znakowania efektywności energetycznej urządzeń biurowych w rozumieniu przepisów ustawy, o której mowa w pkt 1, jest uprawniony do kontroli realizacji programu znakowania efektywności energetycznej urządzeń biurowych, o którym mowa w art. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 106/2008 z dnia 15 stycznia 2008 r. w sprawie unijnego programu znakowania efektywności energetycznej urządzeń biurowych (Dz. Urz. UE L 39 z 13.02.2008, str. 1, z późn. zm.). ” .
+- **1)** kontrolujący w rozumieniu przepisów ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią (Dz. U. z 2016 r. poz. 1790 oraz z 2019 r. poz. 1030) jest uprawniony do kontroli wprowadzanych do obrotu lub oddawanych do użytku produktów związanych z energią, o których mowa w rozporządzeniu delegowanym Komisji (UE) nr 1062/2010 z dnia 28 września 2010 r. uzupełniającym dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej dla telewizorów (Dz. Urz. UE L 314 z 30.11.2010, str. 64, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 147 z 17.05.2014, str. 1, Dz. Urz. UE L 38 z 15.02.2017, str. 1 oraz Dz. Urz. UE L 55 z 02.03.2017, str. 38.;
+- **2)** przeprowadzający kontrolę realizacji programu znakowania efektywności energetycznej urządzeń biurowych w rozumieniu przepisów ustawy, o której mowa w pkt 1, jest uprawniony do kontroli realizacji programu znakowania efektywności energetycznej urządzeń biurowych, o którym mowa w art. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 106/2008 z dnia 15 stycznia 2008 r. w sprawie unijnego programu znakowania efektywności energetycznej urządzeń biurowych (Dz. Urz. UE L 39 z 13.02.2008, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 63 z 06.03.2013, str. 1.). ” .
 
 **Art. 4.** W ustawie z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2019 r. poz. 545) wprowadza się następujące zmiany:
 
@@ -173,6 +174,6 @@ source: "eli-html"
 
 3. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest odpowiednio Prezes Urzędu Ochrony Konkurencji i Konsumentów lub Prezes Urzędu Komunikacji Elektronicznej.
 
-4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest odpowiednio Prezes Urzędu Ochrony Konkurencji i Konsumentów lub Prezes Urzędu Komunikacji Elektronicznej. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest odpowiednio Prezes Urzędu Ochrony Konkurencji i Konsumentów lub Prezes Urzędu Komunikacji Elektronicznej. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającego ramy etykietowania energetycznego i uchylającego dyrektywę 2010/30/UE (Dz. Urz. UE L 198 z 28.07.2017, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne oraz ustawę z dnia 20 maja 2016 r. o efektywności energetycznej. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 147 z 17.05.2014, str. 1, Dz. Urz. UE L 38 z 15.02.2017, str. 1 oraz Dz. Urz. UE L 55 z 02.03.2017, str. 38. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 147 z 17.05.2014, str. 1, Dz. Urz. UE L 38 z 15.02.2017, str. 1 oraz Dz. Urz. UE L 55 z 02.03.2017, str. 38. 5) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 63 z 06.03.2013, str. 1.
 
 

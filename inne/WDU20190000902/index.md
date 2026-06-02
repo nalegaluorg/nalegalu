@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 7 maja 2019 r. w sprawie podziału środków finansowych dla uczelni służb państwowych na utrzymanie i rozwój potencjału dydaktycznego, potencjału badawczego oraz na zadania związane z bezpieczeństwem obywateli i ochroną ludności
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 7 maja 2019 r. w sprawie podziału środków finansowych dla uczelni służb państwowych na utrzymanie i rozwój potencjału dydaktycznego, potencjału badawczego oraz na zadania związane z bezpieczeństwem obywateli i ochroną ludności Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-07 |
 | Data wydania | 2019-05-14 |
-| Wejście w życie | 2019-05-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000902) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/902/text.pdf) |
 
@@ -33,7 +32,7 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Sposób podziału dotacji dla uczelni służb państwowych na zadania w zakresie bezpieczeństwa obywateli i ochrony ludności
 
 Treść rozporządzenia
-Na podstawie art. 462 ust. 2 pkt 1–3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 462 ust. 2 pkt 1–3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób podziału środków finansowych, o których mowa w art. 365 pkt 1 lit. a-c, pkt 2 lit. a-d oraz art. 459 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”, dla uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych.
 § 2.
@@ -57,8 +56,7 @@ Wysokość subwencji ze środków finansowych, o których mowa w art. 365 pkt 1 
 1)
 niższa niż 98%,
 2)
-wyższa niż 106%
-wysokości tej subwencji z roku poprzedzającego rok przyznania subwencji, w warunkach porównywalnych.
+wyższa niż 106% – wysokości tej subwencji z roku poprzedzającego rok przyznania subwencji, w warunkach porównywalnych.
 § 4.
 Sposób podziału dotacji dla uczelni służb państwowych na zadania w zakresie bezpieczeństwa obywateli i ochrony ludności, o których mowa w art. 459 pkt 2 ustawy, jest określony w załączniku nr 2 do rozporządzenia.
 § 5.
@@ -66,7 +64,7 @@ Wysokość subwencji ze środków, o których mowa w art. 365 pkt 1 lit. a-c ora
 1)
 w 2019 r.:
 a)
-wysokość subwencji dla i-tej uczelni służb państwowych na utrzymanie i rozwój potencjału dydaktycznego oraz na utrzymanie i rozwój potencjału badawczego nie może być niższa niż 99% ani wyższa niż 104% sumy dotacji, o których mowa w art. 94 ust. 1 pkt 7 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.), w części przeznaczonej na dofinansowanie remontów domów oraz stołówek studenckich, art. 94 ust. 1 pkt 1, 8 i 9 oraz art. 94b ust. 1 pkt 6 tej ustawy, oraz dotacji, o której mowa w art. 18 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2018 r. poz. 87), z wyłączeniem zwiększeń tej dotacji, i dotacji, o której mowa w art. 18 ust. 1 pkt 3 tej ustawy, przyznanych i-tej uczelni służb państwowych w roku 2018, w warunkach porównywalnych,
+wysokość subwencji dla i-tej uczelni służb państwowych na utrzymanie i rozwój potencjału dydaktycznego oraz na utrzymanie i rozwój potencjału badawczego nie może być niższa niż 99% ani wyższa niż 104% sumy dotacji, o których mowa w art. 94 ust. 1 pkt 7 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693.), w części przeznaczonej na dofinansowanie remontów domów oraz stołówek studenckich, art. 94 ust. 1 pkt 1, 8 i 9 oraz art. 94b ust. 1 pkt 6 tej ustawy, oraz dotacji, o której mowa w art. 18 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2018 r. poz. 87), z wyłączeniem zwiększeń tej dotacji, i dotacji, o której mowa w art. 18 ust. 1 pkt 3 tej ustawy, przyznanych i-tej uczelni służb państwowych w roku 2018, w warunkach porównywalnych,
 b)
 ksk – oznacza wskaźnik kosztochłonności k-tego kierunku studiów stacjonarnych prowadzonych w i-tej uczelni służb państwowych ustalony zgodnie z przepisami wydanymi na podstawie art. 96 ust. 1 pkt 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym,
 c)
@@ -84,8 +82,7 @@ dla parametru stałej przeniesienia C, o której mowa w ust. 2 załącznika nr 2
 § 7.
 Przepisy rozporządzenia stosuje się do środków finansowych dla uczelni służb państwowych na utrzymanie i rozwój potencjału dydaktycznego, potencjału badawczego oraz na zadania związane z bezpieczeństwem obywateli i ochroną ludności udzielanych od dnia 1 stycznia 2019 r.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693. 4) Niniejsze rozporządzenie było poprzedzone: 1) w zakresie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego dla uczelni służb państwowych – rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 27 marca 2015 r. w sprawie sposobu podziału dotacji z budżetu państwa dla uczelni publicznych i niepublicznych (Dz. U. z 2017 r. poz. 2163), 2) w zakresie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału badawczego dla uczelni służb państwowych – rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 11 września 2015 r. w sprawie sposobu ustalania wysokości dotacji i rozliczania środków finansowych na utrzymanie potencjału badawczego oraz na badania naukowe lub prace rozwojowe oraz zadania z nimi związane, służące rozwojowi młodych naukowców oraz uczestników studiów doktoranckich (Dz. U. poz. 1443 oraz z 2017 r. poz. 1495) – które utraciły moc na podstawie art. 169 pkt 3 i 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone: 1) w zakresie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego dla uczelni służb państwowych – rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 27 marca 2015 r. w sprawie sposobu podziału dotacji z budżetu państwa dla uczelni publicznych i niepublicznych (Dz. U. z 2017 r. poz. 2163), 2) w zakresie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału badawczego dla uczelni służb państwowych – rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 11 września 2015 r. w sprawie sposobu ustalania wysokości dotacji i rozliczania środków finansowych na utrzymanie potencjału badawczego oraz na badania naukowe lub prace rozwojowe oraz zadania z nimi związane, służące rozwojowi młodych naukowców oraz uczestników studiów doktoranckich (Dz. U. poz. 1443 oraz z 2017 r. poz. 1495) – które utraciły moc na podstawie art. 169 pkt 3 i 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693. 4) Niniejsze rozporządzenie było poprzedzone: 1) w zakresie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego dla uczelni służb państwowych – rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 27 marca 2015 r. w sprawie sposobu podziału dotacji z budżetu państwa dla uczelni publicznych i niepublicznych (Dz. U. z 2017 r. poz. 2163), 2) w zakresie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału badawczego dla uczelni służb państwowych – rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 11 września 2015 r. w sprawie sposobu ustalania wysokości dotacji i rozliczania środków finansowych na utrzymanie potencjału badawczego oraz na badania naukowe lub prace rozwojowe oraz zadania z nimi związane, służące rozwojowi młodych naukowców oraz uczestników studiów doktoranckich (Dz. U. poz. 1443 oraz z 2017 r. poz. 1495) – które utraciły moc na podstawie art. 169 pkt 3 i 4 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534).
 
 ## Załącznik nr 1 — – Sposób podziału części zasadniczej środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz na utrzymanie i rozwój potencjału badawczego
 

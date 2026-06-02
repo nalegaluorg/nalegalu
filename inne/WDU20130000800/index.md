@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-18 |
 | Data wydania | 2013-07-10 |
-| Wejście w życie | 2013-07-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000800) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/800/text.pdf) |
 
@@ -33,5 +32,5 @@ Uznane organizacje producentów owoców i warzyw, zwane dalej „organizacjami p
 § 2.
 Organizacje producentów wdrażają w realizowanych programach operacyjnych strategię krajową, o której mowa w § 1, jeżeli spełniają wszystkie wymogi dotyczące poszczególnych celów, działań i środków określonych w tej strategii dla wybranych celów, działań i środków objętych programami operacyjnymi.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 21 października 2010 r. w sprawie zakresu i sposobu wdrażania strategii krajowej w programach operacyjnych realizowanych na rynkach owoców i warzyw (Dz. U. Nr 201, poz. 1330), które utraciło moc z dniem 18 grudnia 2012 r., na podstawie art. 12 ust. 1 ustawy z dnia 22 października 2010 r. o zmianie ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego oraz niektórych innych ustaw (Dz. U. Nr 228, poz. 1486). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 21 października 2010 r. w sprawie zakresu i sposobu wdrażania strategii krajowej w programach operacyjnych realizowanych na rynkach owoców i warzyw (Dz. U. Nr 201, poz. 1330), które utraciło moc z dniem 18 grudnia 2012 r., na podstawie art. 12 ust. 1 ustawy z dnia 22 października 2010 r. o zmianie ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego oraz niektórych innych ustaw (Dz. U. Nr 228, poz. 1486).
 

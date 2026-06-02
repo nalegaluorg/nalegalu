@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-19 |
 | Data wydania | 2015-01-09 |
-| Wejście w życie | 2015-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000030) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/30/text.pdf) |
 
@@ -34,8 +33,7 @@ Członkowi korpusu służby cywilnej zatrudnionemu w komórce organizacyjnej egz
 1)
 organ egzekucyjny,
 2)
-organ rekwizycyjny
-w przydzielonej mu sprawie egzekucyjnej.
+organ rekwizycyjny – w przydzielonej mu sprawie egzekucyjnej.
 2.
 W przypadku, o którym mowa w ust. 1 pkt 2, wynagrodzenie prowizyjne przysługuje wyłącznie osobie uprawnionej zatrudnionej w urzędzie obsługującym organ rekwizycyjny.
 3.
@@ -123,5 +121,5 @@ Przepis ust. 5 ma zastosowanie do członków korpusu służby cywilnej, których
 § 8.
 Do dnia wejścia w życie § 7 niniejszego rozporządzenia stosuje się § 4 rozporządzenia Prezesa Rady Ministrów z dnia 25 kwietnia 2007 r. w sprawie uprawnień szczególnych przysługujących niektórym kategoriom członków korpusu służby cywilnej (Dz. U. Nr 76, poz. 506 i Nr 249, poz. 1858).
 § 9.
-Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem § 7, który wchodzi w życie pierwszego dnia trzeciego miesiąca następującego po miesiącu ogłoszenia.
+Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem § 7, który wchodzi w życie pierwszego dnia trzeciego miesiąca następującego po miesiącu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 25 kwietnia 2007 r. w sprawie uprawnień szczególnych przysługujących niektórym kategoriom członków korpusu służby cywilnej (Dz. U. Nr 76, poz. 506 i Nr 249, poz. 1858), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 207 ust. 2 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111 i 1199). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 25 kwietnia 2007 r. w sprawie uprawnień szczególnych przysługujących niektórym kategoriom członków korpusu służby cywilnej (Dz. U. Nr 76, poz. 506 i Nr 249, poz. 1858), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 207 ust. 2 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111 i 1199).
 

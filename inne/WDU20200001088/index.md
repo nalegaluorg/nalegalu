@@ -22,62 +22,47 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-06-16 |
 | Data wydania | 2020-06-23 |
-| Wejście w życie | 2020-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1088/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 199 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 199 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568 i 695.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach (Dz. U. z 2019 r. poz. 1715 i 2535) wprowadza się następujące zmiany:
 1)
 w § 3:
 a)
-w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-rachunki bieżące państwowych jednostek budżetowych, z wyodrębnieniem rachunków dochodów i wydatków, oraz prowadzone dla tych rachunków rachunki VAT, o ile odrębne przepisy nie stanowią inaczej;
-” ,
+rachunki bieżące państwowych jednostek budżetowych, z wyodrębnieniem rachunków dochodów i wydatków, oraz prowadzone dla tych rachunków rachunki VAT, o ile odrębne przepisy nie stanowią inaczej; ” ,
 b)
 w ust. 2 skreśla się zdanie drugie;
 2)
-w § 7 ust. 3 otrzymuje brzmienie:
-„
+w § 7 ust. 3 otrzymuje brzmienie: „
 3.
-Dysponenci środków budżetu państwa prowadzą jeden rachunek bieżący dochodów i jeden rachunek bieżący wydatków dla danej części budżetu państwa.
-” ;
+Dysponenci środków budżetu państwa prowadzą jeden rachunek bieżący dochodów i jeden rachunek bieżący wydatków dla danej części budżetu państwa. ” ;
 3)
 w § 8:
 a)
-w ust. 1 pkt 7 otrzymuje brzmienie:
-„
+w ust. 1 pkt 7 otrzymuje brzmienie: „
 7)
-środki pieniężne zgromadzone na rachunku VAT prowadzonym dla tego rachunku dochodów.
-” ,
+środki pieniężne zgromadzone na rachunku VAT prowadzonym dla tego rachunku dochodów. ” ,
 b)
-w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-przelewy zrealizowanego w dochodach budżetowych jednostki podatku od towarów i usług na właściwe rachunki na zasadach i w terminach określonych w odrębnych przepisach.
-” ;
+przelewy zrealizowanego w dochodach budżetowych jednostki podatku od towarów i usług na właściwe rachunki na zasadach i w terminach określonych w odrębnych przepisach. ” ;
 4)
-w § 9 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
-„
+w § 9 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
 7)
-środki pieniężne zgromadzone na rachunku VAT prowadzonym dla tego rachunku wydatków.
-” ;
+środki pieniężne zgromadzone na rachunku VAT prowadzonym dla tego rachunku wydatków. ” ;
 5)
-w § 13 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
-„
+w § 13 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 4)
-środki pieniężne zgromadzone na rachunku VAT prowadzonym dla tego rachunku pomocniczego.
-” ;
+środki pieniężne zgromadzone na rachunku VAT prowadzonym dla tego rachunku pomocniczego. ” ;
 6)
-w § 14 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w § 14 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-środki pieniężne zgromadzone na rachunku VAT prowadzonym dla tego rachunku pomocniczego.
-” .
+środki pieniężne zgromadzone na rachunku VAT prowadzonym dla tego rachunku pomocniczego. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2020 r.
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2020 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568 i 695.
 

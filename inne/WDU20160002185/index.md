@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 16 grudnia 2016 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodów regulowanych w dziedzinie bezpieczeństwa i higieny pracy
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 16 grudnia 2016 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodów regulowanych w dziedzinie bezpieczeństwa i higieny pracy Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-16 |
 | Data wydania | 2016-12-28 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2185/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Koszty odbywania stażu adaptacyjnego i przeprowadzania testu umiejętności Rozdział 5 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad jego odbywaniem oraz oceny nabytych w jego trakcie umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za jego odbywanie,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie
-w toku postępowania o uznanie, nabytych w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA), stronach umowy o Europejskim Obszarze Gospodarczym, kwalifikacji do wykonywania w Rzeczypospolitej Polskiej zawodów w dziedzinie bezpieczeństwa i higieny pracy.
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie – w toku postępowania o uznanie, nabytych w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA), stronach umowy o Europejskim Obszarze Gospodarczym, kwalifikacji do wykonywania w Rzeczypospolitej Polskiej zawodów w dziedzinie bezpieczeństwa i higieny pracy.
 § 2.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -58,6 +57,7 @@ specjalista do spraw bezpieczeństwa i higieny pracy.
 Po otrzymaniu postanowienia wydanego w toku postępowania, zgodnie z art. 20 ust. 1 i 2 ustawy, wnioskodawca występuje do organu prowadzącego postępowanie z wnioskiem o odbycie stażu adaptacyjnego albo przeprowadzenie testu umiejętności. Wniosek może być złożony w postaci papierowej albo elektronicznej.
 § 5.
 Organ prowadzący postępowanie udostępnia na swoich stronach podmiotowych w Biuletynie Informacji Publicznej informacje o wymaganiach kwalifikacyjnych dla zawodów w dziedzinie bezpieczeństwa i higieny pracy.
+Staż adaptacyjny
 § 6.
 Staż adaptacyjny odbywa się pod nadzorem opiekuna stażu, którym może być:
 1)
@@ -191,6 +191,7 @@ Organ prowadzący postępowanie przekazuje ocenę wnioskodawcy w terminie 3 dni 
 Jeżeli ocena umiejętności, o której mowa w § 12 ust. 1, jest negatywna, wnioskodawca może wystąpić do organu prowadzącego postępowanie w terminie 14 dni od dnia otrzymania oceny, na podstawie tego samego postanowienia, o którym mowa w § 4, z wnioskiem o ponowne odbycie stażu adaptacyjnego.
 2.
 Do ponownego odbycia stażu adaptacyjnego przepisy § 7–12 i § 22 stosuje się odpowiednio.
+Test umiejętności
 § 14.
 1.
 Test umiejętności przeprowadza organ prowadzący postępowanie w terminie 4 miesięcy od dnia złożenia przez wnioskodawcę wniosku o przeprowadzenie testu umiejętności.
@@ -252,6 +253,7 @@ Jeżeli ocena testu umiejętności jest negatywna, wnioskodawca w terminie 14 dn
 Organ prowadzący postępowanie, na złożony przez wnioskodawcę wniosek, o którym mowa w ust. 1, wyraża zgodę na powtórne przystąpienie do testu umiejętności i wyznacza jego termin.
 3.
 Do ponownego przystąpienia do testu umiejętności stosuje się odpowiednio przepisy § 14–20 i § 23.
+Koszty odbywania stażu adaptacyjnego i przeprowadzania testu umiejętności
 § 22.
 1.
 Wyliczenia kosztów stażu adaptacyjnego dokonuje opiekun stażu, w porozumieniu z organem prowadzącym postępowanie. O wysokości wyliczonej kwoty opiekun stażu informuje wnioskodawcę nie później niż na 14 dni przed dniem rozpoczęcia stażu adaptacyjnego.
@@ -278,17 +280,27 @@ W przypadku nieprzystąpienia do testu bez usprawiedliwionej przyczyny, opłata 
 W przypadku nieprzystąpienia do testu z usprawiedliwionej przyczyny, wnioskodawca nie ponosi kosztów z tytułu ponownego przystąpienia do testu umiejętności. Jeżeli po wyznaczeniu ponownego miejsca i terminu przeprowadzenia testu wycofa wniosek, o którym mowa w § 4, przysługuje mu zwrot wniesionej opłaty.
 6.
 W przypadku nieodbycia się testu z przyczyny leżącej po stronie organu prowadzącego postępowanie opłata z tytułu kosztów przeprowadzenia testu umiejętności podlega zwrotowi na rachunek bankowy wskazany przez wnioskodawcę.
+Przepis końcowy
 § 24.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
 
-#### Rozdział 4 Koszty odbywania stażu adaptacyjnego i przeprowadzania testu umiejętności
+#### Rozdział 4 – Koszty odbywania stażu adaptacyjnego i przeprowadzania testu umiejętności
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

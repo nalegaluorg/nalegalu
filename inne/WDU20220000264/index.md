@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowychz dnia 3 lutego 2022 r. w sprawie dopłat do redukcji zdolności produkcyjnych przedsiębiorstw górniczych
+# Rozporządzenie Ministra Aktywów Państwowychz dnia 3 lutego 2022 r. w sprawie dopłat do redukcji zdolności produkcyjnych przedsiębiorstw górniczych Minister Aktywów Państwowych kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-03 |
 | Data wydania | 2022-02-03 |
-| Wejście w życie | 2022-02-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000264) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/264/text.pdf) |
 
@@ -218,8 +217,7 @@ W przypadku gdy przedsiębiorstwo górnicze:
 1)
 nie przedłoży w terminie ministrowi wniosku miesięcznego, informacji miesięcznej, rozliczenia miesięcznego, informacji rocznej lub rozliczenia rocznego,
 2)
-przedstawi nieprawidłowo sporządzone wniosek miesięczny, rozliczenie miesięczne, informację miesięczną, informację roczną lub rozliczenie roczne
-następuje czasowe wstrzymanie wypłaty transzy dotacji do czasu przedłożenia prawidłowo sporządzonego dokumentu.
+przedstawi nieprawidłowo sporządzone wniosek miesięczny, rozliczenie miesięczne, informację miesięczną, informację roczną lub rozliczenie roczne – następuje czasowe wstrzymanie wypłaty transzy dotacji do czasu przedłożenia prawidłowo sporządzonego dokumentu.
 § 15.
 1.
 W przypadku dopłaty w formie podwyższenia kapitału zakładowego przedsiębiorstwa górniczego skarbowymi papierami wartościowymi podstawą udzielenia pomocy publicznej jest umowa o podwyższeniu kapitału zakładowego zawarta między ministrem a przedsiębiorstwem górniczym.
@@ -243,8 +241,7 @@ W przypadku gdy:
 1)
 zostaną przekroczone ustalone poziomy odchyleń od wskaźników efektywności zawartych w programie operacyjnym lub planie techniczno-ekonomicznym lub
 2)
-wystąpi zdarzenie nadzwyczajne mające wpływ na funkcjonowanie danej jednostki produkcyjnej rozumiane jako zdarzenie, któremu nie można było zapobiec przy zachowaniu należytej staranności wymaganej w ramach typowej, bieżącej działalności, które jest zewnętrzne i pozostaje poza kontrolą przedsiębiorcy
-minister lub wskazany przez niego podmiot przeprowadza weryfikację nadzwyczajną przy udziale komisji powołanej przez przedsiębiorstwo górnicze, zwanej dalej „komisją”.
+wystąpi zdarzenie nadzwyczajne mające wpływ na funkcjonowanie danej jednostki produkcyjnej rozumiane jako zdarzenie, któremu nie można było zapobiec przy zachowaniu należytej staranności wymaganej w ramach typowej, bieżącej działalności, które jest zewnętrzne i pozostaje poza kontrolą przedsiębiorcy – minister lub wskazany przez niego podmiot przeprowadza weryfikację nadzwyczajną przy udziale komisji powołanej przez przedsiębiorstwo górnicze, zwanej dalej „komisją”.
 4.
 W ramach weryfikacji nadzwyczajnej komisja przedstawia ministrowi stanowisko zawierające rekomendacje co do dalszych działań, w tym propozycję programu naprawczego, w terminie wspólnie uzgodnionym, nie później jednak niż 3 tygodnie od wystąpienia zdarzenia, o którym mowa w ust. 3.
 5.
@@ -261,6 +258,5 @@ Kontrola jest przeprowadzana co najmniej raz w roku, w tym po zakończeniu daneg
 § 18.
 Koszty kwalifikowane, o których mowa w § 3 ust. 3, obejmują zobowiązania powstałe przed dniem 3 lutego 2022 r.
 § 19.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 

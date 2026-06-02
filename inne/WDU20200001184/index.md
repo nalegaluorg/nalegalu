@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 25 listopada 2002 r. w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2018 r. poz. 520), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 4 czerwca 2019 r. zmieniającym rozporządzenie w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1053).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 4 czerwca 2019 r. zmieniającego rozporządzenie w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1053), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 4 czerwca 2019 r. zmieniającego rozporządzenie w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1053), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 25 listopada 2002 r. w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego
 Na podstawie art. 126 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
-§ 1.
+§ 1W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 4 czerwca 2019 r. zmieniającego rozporządzenie w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1053), które weszło w życie z dniem 21 czerwca 2019 r..
 1.
 Do okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, zwanej dalej „nagrodą”, przez funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, zwanych dalej „funkcjonariuszami”, wlicza się:
 1)
@@ -88,5 +86,5 @@ Nagrodę wypłaca się funkcjonariuszowi w formie bezgotówkowej na rachunek ban
 2.
 W razie śmierci lub zaginięcia funkcjonariusza nagrodę wypłaca się osobom, o których mowa w art. 131 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 30 listopada 2002 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 8 sierpnia 1997 r. w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej oraz zasad jej obliczania i wypłacania funkcjonariuszom Urzędu Ochrony Państwa (Dz. U. poz. 609) zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676). 1) W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 4 czerwca 2019 r. zmieniającego rozporządzenie w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1053), które weszło w życie z dniem 21 czerwca 2019 r. 2) Rozporządzenie zostało ogłoszone w dniu 30 listopada 2002 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 8 sierpnia 1997 r. w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej oraz zasad jej obliczania i wypłacania funkcjonariuszom Urzędu Ochrony Państwa (Dz. U. poz. 609) zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676).
 

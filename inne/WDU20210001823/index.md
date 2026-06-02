@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 28 września 2021 r. zmieniające rozporządzenie w sprawie rejestru systemu zapasów interwencyjnych
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 28 września 2021 r. zmieniające rozporządzenie w sprawie rejestru systemu zapasów interwencyjnych Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-28 |
 | Data wydania | 2021-10-06 |
-| Wejście w życie | 2021-10-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001823) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1823/text.pdf) |
 
@@ -41,10 +40,11 @@ w § 12 wyrazy „ Prezesowi Agencji Rezerw Materiałowych” zastępuje się wy
 3)
 w załączniku nr 1 do rozporządzenia:
 a)
-w punkcie 12 tabela otrzymuje brzmienie: SUROWIEC/PRODUKT PRODUKCJA PRZYWÓZ KOD CN8) ILOŚĆ KOD CN8) ILOŚĆ Ropa naftowa, kondensat gazu ziemnego NGL Gaz płynny (LPG) Benzyny silnikowe Benzyny lotnicze Paliwa typu benzynowego do silników odrzutowych Paliwa typu nafty do silników odrzutowych Inne rodzaje nafty Oleje napędowe, w tym lekkie oleje opałowe Ciężkie oleje opałowe
+w punkcie 12 tabela otrzymuje brzmienie:
+SUROWIEC/PRODUKT PRODUKCJA PRZYWÓZ KOD CN8) ILOŚĆ KOD CN8) ILOŚĆ Ropa naftowa, kondensat gazu ziemnego NGL Gaz płynny (LPG) Benzyny silnikowe Benzyny lotnicze Paliwa typu benzynowego do silników odrzutowych Paliwa typu nafty do silników odrzutowych Inne rodzaje nafty Oleje napędowe, w tym lekkie oleje opałowe Ciężkie oleje opałowe
 b)
-w punkcie 13 tabela otrzymuje brzmienie: SUROWIEC/PRODUKT KOD CN8) ILOŚĆ Ropa naftowa Gaz płynny (LPG) Benzyny silnikowe Benzyny lotnicze Paliwa typu benzynowego do silników odrzutowych Paliwa typu nafty do silników odrzutowych Inne rodzaje nafty Oleje napędowe, w tym lekkie oleje opałowe Ciężkie oleje opałowe
+w punkcie 13 tabela otrzymuje brzmienie:
+SUROWIEC/PRODUKT KOD CN8) ILOŚĆ Ropa naftowa Gaz płynny (LPG) Benzyny silnikowe Benzyny lotnicze Paliwa typu benzynowego do silników odrzutowych Paliwa typu nafty do silników odrzutowych Inne rodzaje nafty Oleje napędowe, w tym lekkie oleje opałowe Ciężkie oleje opałowe
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
 

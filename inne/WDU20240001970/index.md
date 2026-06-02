@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-24 |
 | Data wydania | 2024-12-31 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-07-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001970) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1970/text.pdf) |
 
@@ -35,15 +34,13 @@ w § 3 w ust. 8 skreśla się wyrazy „, w tym w szczególności środki przeka
 2)
 uchyla się § 4;
 3)
-w § 8 ust. 2 otrzymuje brzmienie:
-„
+w § 8 ust. 2 otrzymuje brzmienie: „
 2.
 Sprawozdanie, o którym mowa w ust. 1, Wody Polskie przekazują:
 1)
 ministrowi właściwemu do spraw gospodarki wodnej do dnia 31 marca roku następującego po roku sprawozdawczym;
 2)
-ministrowi właściwemu do spraw finansów publicznych do dnia 15 kwietnia roku następującego po roku sprawozdawczym.
-” .
+ministrowi właściwemu do spraw finansów publicznych do dnia 15 kwietnia roku następującego po roku sprawozdawczym. ” .
 § 2.
 Do sprawozdania, o którym mowa w § 8 ust. 1 rozporządzenia zmienianego w § 1, za rok 2024 stosuje się przepisy § 8 ust. 2 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.

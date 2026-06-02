@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 18 stycznia 2021 r. w sprawie trybu składania i rozpatrywania wniosków o dzierżawę obwodów łowieckich oraz kryteriów oceny tych wniosków i wnioskodawców
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 18 stycznia 2021 r. w sprawie trybu składania i rozpatrywania wniosków o dzierżawę obwodów łowieckich oraz kryteriów oceny tych wniosków i wnioskodawców Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-18 |
 | Data wydania | 2021-01-21 |
-| Wejście w życie | 2021-01-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/139/text.pdf) |
 
@@ -247,8 +246,7 @@ W przypadku, o którym mowa w ust. 1, jeżeli więcej niż jeden wnioskodawca:
 1)
 uzyskał równą liczbę punktów oraz
 2)
-posiada równą liczbę członków koła łowieckiego zamieszkałych w powiatach, na obszarze których znajduje się obwód łowiecki, którego dotyczy wniosek o dzierżawę obwodu łowieckiego
-obwód łowiecki wydzierżawia się temu wnioskodawcy, który najwcześniej uzyskał osobowość prawną.
+posiada równą liczbę członków koła łowieckiego zamieszkałych w powiatach, na obszarze których znajduje się obwód łowiecki, którego dotyczy wniosek o dzierżawę obwodu łowieckiego – obwód łowiecki wydzierżawia się temu wnioskodawcy, który najwcześniej uzyskał osobowość prawną.
 § 11.
 1.
 Jeżeli o dzierżawę obwodu łowieckiego ubiegają się wyłącznie nowi dzierżawcy i nowo powstali dzierżawcy, dokonuje się oceny nowego dzierżawcy i nowo powstałego dzierżawcy na podstawie kryteriów określonych w § 6.
@@ -261,8 +259,7 @@ W przypadku, o którym mowa w ust. 1, jeżeli więcej niż jeden wnioskodawca:
 1)
 uzyskał równą liczbę punktów oraz
 2)
-posiada równą liczbę członków koła łowieckiego zamieszkałych w powiatach, na obszarze których znajduje się obwód łowiecki, którego dotyczy wniosek o dzierżawę obwodu łowieckiego
-obwód łowiecki wydzierżawia się temu wnioskodawcy, który najwcześniej uzyskał osobowość prawną.
+posiada równą liczbę członków koła łowieckiego zamieszkałych w powiatach, na obszarze których znajduje się obwód łowiecki, którego dotyczy wniosek o dzierżawę obwodu łowieckiego – obwód łowiecki wydzierżawia się temu wnioskodawcy, który najwcześniej uzyskał osobowość prawną.
 § 12.
 1.
 Jeżeli o dzierżawę obwodu łowieckiego ubiegają się wyłącznie nowi dzierżawcy, dokonuje się ich oceny na podstawie kryteriów określonych w § 5.
@@ -277,8 +274,7 @@ W przypadku, o którym mowa w ust. 1 i 2, jeżeli więcej niż jeden wnioskodawc
 1)
 uzyskał równą liczbę punktów oraz
 2)
-posiada równą liczbę członków koła łowieckiego zamieszkałych w powiatach, na obszarze których znajduje się obwód łowiecki, którego dotyczy wniosek o dzierżawę obwodu łowieckiego
-obwód łowiecki wydzierżawia się temu wnioskodawcy, który najwcześniej uzyskał osobowość prawną.
+posiada równą liczbę członków koła łowieckiego zamieszkałych w powiatach, na obszarze których znajduje się obwód łowiecki, którego dotyczy wniosek o dzierżawę obwodu łowieckiego – obwód łowiecki wydzierżawia się temu wnioskodawcy, który najwcześniej uzyskał osobowość prawną.
 § 13.
 Wartości wyrażone w procentach, o których mowa w § 4 pkt 1–3, § 5 pkt 1–3, § 6, §7 ust. 2, § 9 ust. 2 oraz § 10 ust. 2, zaokrągla się do pełnych procentów w ten sposób, że końcówki wynoszące mniej niż 0,5 procenta pomija się, a końcówki wynoszące 0,5 procenta i więcej podwyższa się do pełnych procentów.
 § 14.
@@ -294,6 +290,5 @@ od dnia 1 stycznia 2021 r. do dnia 31 stycznia 2021 r. – składa się w termin
 3)
 od dnia 1 lutego 2021 r. – składa się w terminie 30 dni od dnia jego utworzenia.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
 

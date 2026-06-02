@@ -26,21 +26,34 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2205/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców Rozdział 1 – Przepisy ogólne Rozdział 2 – Przejrzystość stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi Rozdział 3 – Przejrzystość finansowa przedsiębiorców Rozdział 4 – Przechowywanie i przekazywanie dokumentów, materiałów i informacji Rozdział 5 – Przepisy zmieniające, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411 i Nr 245, poz. 1775), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej (Dz. U. poz. 1662),
 2)
-ustawą z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1655, z 2020 r. poz. 288 oraz z 2021 r. poz. 187)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 października 2021 r.
+ustawą z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1655, z 2020 r. poz. 288 oraz z 2021 r. poz. 187) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 października 2021 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411 i Nr 245, poz. 1775), który stanowi:
-„
-(pominięty)
+art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411 i Nr 245, poz. 1775), który stanowi: „
+Przepisy ogólne
+Przejrzystość stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi
+Przejrzystość finansowa przedsiębiorców
+Przechowywanie i przekazywanie dokumentów, materiałów i informacji
+Przepisy zmieniające, przejściowe i końcowe
+(pominięty)Zamieszczony w obwieszczeniu.
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Przejrzystość stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi
+
+#### Rozdział 3 – Przejrzystość finansowa przedsiębiorców
+
+#### Rozdział 4 – Przechowywanie i przekazywanie dokumentów, materiałów i informacji
+
+#### Rozdział 5 – Przepisy zmieniające, przejściowe i końcowe
 
 **Art. 21.** W ustawie z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291) wprowadza się następujące zmiany:
 
@@ -63,9 +76,9 @@ art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansow
 
 - **3)** art. 36 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1655, z 2020 r. poz. 288 oraz z 2021 r. poz. 187), który stanowi: „
 
-**Art. 36.** Ustawa wchodzi w życie z dniem 1 lipca 2021 r., z wyjątkiem art. 1 pkt 9, 10, 12, 13, 17–27, art. 15, art. 28 i art. 35, które wchodzą w życie z dniem 1 marca 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców
+**Art. 36.** Ustawa wchodzi w życie z dniem 1 lipca 2021 r., z wyjątkiem art. 1 pkt 9, 10, 12, 13, 17–27, art. 15, art. 28 i art. 35, które wchodzą w życie z dniem 1 marca 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorcówNiniejsza ustawa: 1) zmienia ustawę z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej; 2) dokonuje wdrożenia dyrektywy Komisji 80/723/EWG z dnia 25 czerwca 1980 r. w sprawie przejrzystości stosunków finansowych między państwami członkowskimi a przedsiębiorstwami publicznymi (Dz. Urz. WE L 195 z 29.07.1980, s. 35, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 1, s. 23, z późn. zm.).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady i sposób zapewnienia przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi, a także przejrzystości finansowej niektórych przedsiębiorców.
 
@@ -96,13 +109,11 @@ art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansow
     - **c)**
 
 - **11)** prawach wyłącznych – należy przez to rozumieć przysługujące z mocy prawa lub przyznane przez organy publiczne prawa, które zastrzegają na rzecz danego przedsiębiorcy wyłączność na wykonywanie określonego rodzaju działalności na wyznaczonym obszarze geograficznym;
-- **12)** usługach w ogólnym interesie gospodarczym – należy przez to rozumieć usługi, o których mowa w art. 86 ust. 2 Traktatu ustanawiającego Wspólnotę Europejską.
-
-2. Jeżeli w spółce, o której mowa w ust. 1 pkt 2 lit. a, udziały posiada Skarb Państwa oraz jednostka samorządu terytorialnego lub związek takich jednostek, albo różne jednostki samorządu terytorialnego, organ nadzorujący ustala się, biorąc pod uwagę wielkość udziału w kapitale zakładowym spółki, a w przypadku prostej spółki akcyjnej – w ogólnej liczbie akcji tej spółki.
+- **12)** usługach w ogólnym interesie gospodarczym – należy przez to rozumieć usługi, o których mowa w art. 86 ust. 2 Traktatu ustanawiającego Wspólnotę Europejską. 2W brzmieniu ustalonym przez art. 20 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1655, z 2020 r. poz. 288 oraz z 2021 r. poz. 187), która weszła w życie z dniem 1 lipca 2021 r.. Jeżeli w spółce, o której mowa w ust. 1 pkt 2 lit. a, udziały posiada Skarb Państwa oraz jednostka samorządu terytorialnego lub związek takich jednostek, albo różne jednostki samorządu terytorialnego, organ nadzorujący ustala się, biorąc pod uwagę wielkość udziału w kapitale zakładowym spółki, a w przypadku prostej spółki akcyjnej – w ogólnej liczbie akcji tej spółki.
 
 3. Wyrażone w euro wielkości, o których mowa w ustawie, przelicza się na walutę polską według średniego kursu ogłaszanego przez Narodowy Bank Polski na dzień bilansowy kończący dany rok obrotowy, z wyjątkiem art. 17, w którym przyjmuje się średni kurs ogłoszony przez Narodowy Bank Polski na dzień bilansowy kończący ostatni rok obrotowy.
 
-#### Rozdział 2 Przejrzystość stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -114,8 +125,7 @@ art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansow
 
 2. Obowiązek, o którym mowa w ust. 1, dotyczy w szczególności przysporzenia ze środków publicznych polegającego na:
 
-- **1)** pokryciu strat wynikających z prowadzenia działalności gospodarczej lub nieuczestniczeniu w zyskach;
-- **2)** dokapitalizowaniu przedsiębiorcy, w tym przez nabycie akcji i udziałów w podwyższonym kapitale zakładowym spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej albo nowych akcji prostej spółki akcyjnej;
+- **1)** pokryciu strat wynikających z prowadzenia działalności gospodarczej lub nieuczestniczeniu w zyskach; 2W brzmieniu ustalonym przez art. 20 pkt 2 ustawy, o której mowa w odnośniku 2.) dokapitalizowaniu przedsiębiorcy, w tym przez nabycie akcji i udziałów w podwyższonym kapitale zakładowym spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej albo nowych akcji prostej spółki akcyjnej;
 - **3)** udzieleniu dotacji;
 - **4)** udzieleniu pożyczki lub kredytu na warunkach korzystniejszych od oferowanych na rynku;
 - **5)** udzieleniu poręczenia i gwarancji przedsiębiorcy lub za zobowiązania przedsiębiorcy – na warunkach korzystniejszych od oferowanych na rynku;
@@ -131,13 +141,7 @@ art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansow
 
 3. Przedsiębiorca przekazuje właściwemu organowi nadzorującemu – na jego żądanie, w zakresie i terminie określonym w żądaniu – dokumenty i informacje, pozwalające na ustalenie, czy dany przedsiębiorca spełnia przesłanki, o których mowa w art. 2 ust. 1 pkt 4 i 9, art. 7 oraz art. 17.
 
-4. Przedsiębiorca publiczny przekazuje właściwemu organowi nadzorującemu – na jego żądanie, w zakresie i terminie określonym w żądaniu – dodatkowo dokumenty, materiały i informacje, jeżeli dokumenty, materiały i informacja, przekazane na podstawie ust. 1, są niekompletne lub niewystarczające do dokonania weryfikacji i oceny wykonania obowiązku, o którym mowa w art. 3 ust. 1, lub do udzielenia odpowiedzi, o której mowa w art. 18 ust. 1.
-
-5. Obowiązki, o których mowa w ust. 1 i 4, nie dotyczą przedsiębiorców publicznych, którzy nie uzyskali przysporzenia ze środków publicznych w ostatnim roku obrotowym i nie wykorzystywali w ostatnim roku obrotowym przysporzeń ze środków publicznych uzyskanych w latach poprzednich, jeżeli nie są przedsiębiorcami, o których mowa w art. 17.
-
-6. Przedsiębiorca publiczny w przypadkach, o których mowa w ust. 5, składa właściwemu organowi nadzorującemu, w terminie określonym w ust. 1, oświadczenie pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń o nieuzyskaniu i niewykorzystywaniu przysporzeń określonych w ust. 5. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-
-7. Przedsiębiorca publiczny, o którym mowa w ust. 5, przekazuje właściwemu organowi nadzorującemu – na jego żądanie, w zakresie i terminie określonych w żądaniu – dokumenty, materiały i informacje, o których mowa w ust. 1. Przepisy ust. 4 i art. 6 stosuje się odpowiednio.
+4. Przedsiębiorca publiczny przekazuje właściwemu organowi nadzorującemu – na jego żądanie, w zakresie i terminie określonym w żądaniu – dodatkowo dokumenty, materiały i informacje, jeżeli dokumenty, materiały i informacja, przekazane na podstawie ust. 1, są niekompletne lub niewystarczające do dokonania weryfikacji i oceny wykonania obowiązku, o którym mowa w art. 3 ust. 1, lub do udzielenia odpowiedzi, o której mowa w art. 18 ust. 1. 5Dodany przez art. 25 ustawy z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej (Dz. U. poz. 1662), która weszła w życie z dniem 1 stycznia 2015 r.. Obowiązki, o których mowa w ust. 1 i 4, nie dotyczą przedsiębiorców publicznych, którzy nie uzyskali przysporzenia ze środków publicznych w ostatnim roku obrotowym i nie wykorzystywali w ostatnim roku obrotowym przysporzeń ze środków publicznych uzyskanych w latach poprzednich, jeżeli nie są przedsiębiorcami, o których mowa w art. 17. 6Dodany przez art. 25 ustawy z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej (Dz. U. poz. 1662), która weszła w życie z dniem 1 stycznia 2015 r.. Przedsiębiorca publiczny w przypadkach, o których mowa w ust. 5, składa właściwemu organowi nadzorującemu, w terminie określonym w ust. 1, oświadczenie pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń o nieuzyskaniu i niewykorzystywaniu przysporzeń określonych w ust. 5. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. 7Dodany przez art. 25 ustawy z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej (Dz. U. poz. 1662), która weszła w życie z dniem 1 stycznia 2015 r.. Przedsiębiorca publiczny, o którym mowa w ust. 5, przekazuje właściwemu organowi nadzorującemu – na jego żądanie, w zakresie i terminie określonych w żądaniu – dokumenty, materiały i informacje, o których mowa w ust. 1. Przepisy ust. 4 i art. 6 stosuje się odpowiednio.
 
 **Art. 5.** Organ nadzorujący może, w zakresie swojej właściwości, wystąpić do organu publicznego o przekazanie, w wyznaczonym terminie, dokumentów, materiałów i informacji niezbędnych do ustalenia, czy została zachowana przejrzystość stosunków finansowych pomiędzy tym organem a przedsiębiorcą publicznym.
 
@@ -151,7 +155,7 @@ art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansow
 2. W razie stwierdzenia, że:
 
 - **1)** przedsiębiorca publiczny nie wykonuje lub nienależycie wykonuje obowiązki, o których mowa w art. 3 ust. 1 oraz art. 4 ust. 1 i 4,
-- **2)** przedsiębiorca nie wykonuje lub nienależycie wykonuje obowiązki, o których mowa w art. 4 ust. 3 organ nadzorujący może, w drodze decyzji, zobowiązać tego przedsiębiorcę do podjęcia, w wyznaczonym terminie, określonych działań niezbędnych do wykonania lub należytego wykonania tych obowiązków.
+- **2)** przedsiębiorca nie wykonuje lub nienależycie wykonuje obowiązki, o których mowa w art. 4 ust. 3 – organ nadzorujący może, w drodze decyzji, zobowiązać tego przedsiębiorcę do podjęcia, w wyznaczonym terminie, określonych działań niezbędnych do wykonania lub należytego wykonania tych obowiązków.
 
 3. W przypadku gdy niewykonanie lub nienależyte wykonanie obowiązków, o których mowa w art. 3 ust. 1 oraz art. 4 ust. 1, 3 i 4, dotyczy stosunków finansowych pomiędzy przedsiębiorcą albo przedsiębiorcą publicznym a określonym organem publicznym innym niż organ nadzorujący, przed wydaniem decyzji, o której mowa w ust. 2, organ nadzorujący zwraca się do tego organu publicznego o zajęcie stanowiska, zawiadamiając o tym przedsiębiorcę.
 
@@ -169,7 +173,7 @@ art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansow
 - **4)** przedsiębiorcami publicznymi, których przychody netto ze sprzedaży produktów, towarów i materiałów w każdym z kolejnych dwóch lat obrotowych, poprzedzających rok dokonania na ich rzecz przysporzenia ze środków publicznych, nie przekroczyły równowartości 40 mln euro;
 - **5)** przedsiębiorcami publicznymi będącymi bankami, których suma bilansowa w każdym z kolejnych dwóch lat obrotowych, poprzedzających rok dokonania na ich rzecz przysporzenia ze środków publicznych, nie przekroczyła równowartości 800 mln euro.
 
-#### Rozdział 3 Przejrzystość finansowa przedsiębiorców
+#### Rozdział 3
 
 **Art. 8.**
 
@@ -214,7 +218,7 @@ art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansow
 
 **Art. 15.** Przepisów art. 8–14 nie stosuje się, w przypadku gdy zasady dotyczące zachowania przejrzystości finansowej przez przedsiębiorców, o których mowa w art. 8 ust. 1 oraz art. 12, zostały uregulowane w odrębnych przepisach.
 
-#### Rozdział 4 Przechowywanie i przekazywanie dokumentów, materiałów i informacji
+#### Rozdział 4
 
 **Art. 16.** Dokumenty, materiały i informacje uzyskane na podstawie:
 
@@ -248,9 +252,9 @@ art. 21 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansow
 
 2. Przekazanie odpowiedzi oraz dokumentów, materiałów i informacji, określone w art. 4 ust. 1, 3 i 4, art. 5, art. 9 ust. 1 i 3, art. 14, art. 17–19, nie stanowi naruszenia obowiązku zachowania tajemnicy przedsiębiorstwa, jak również innych tajemnic ustawowo chronionych.
 
-#### Rozdział 5 Przepisy zmieniające, przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 22.** Przedsiębiorca korzystający z praw specjalnych lub praw wyłącznych oraz przedsiębiorca realizujący usługi w ogólnym interesie gospodarczym albo inne zadania, który w związku z realizacją tych usług albo zadań uzyskuje przysporzenie ze środków publicznych – jeżeli prowadzi również inny rodzaj działalności gospodarczej niż działalność, której dotyczą te prawa lub usługi albo zadania – jest obowiązany do realizacji obowiązku, o którym mowa w art. 8 ust. 1, od początku pierwszego roku obrotowego, następującego po dniu wejścia w życie ustawy; tego roku obrotowego dotyczą również przekazywane przez przedsiębiorcę po raz pierwszy po dniu wejścia w życie ustawy dokumenty, materiały i informacja, o których mowa w art. 9 ust. 1.
 
-**Art. 23.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 23.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 20 października 2006 r.. 1) Niniejsza ustawa: 1) zmienia ustawę z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej; 2) dokonuje wdrożenia dyrektywy Komisji 80/723/EWG z dnia 25 czerwca 1980 r. w sprawie przejrzystości stosunków finansowych między państwami członkowskimi a przedsiębiorstwami publicznymi (Dz. Urz. WE L 195 z 29.07.1980, s. 35, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 1, s. 23, z późn. zm.). 2) W brzmieniu ustalonym przez art. 20 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1655, z 2020 r. poz. 288 oraz z 2021 r. poz. 187), która weszła w życie z dniem 1 lipca 2021 r. 3) W brzmieniu ustalonym przez art. 20 pkt 2 ustawy, o której mowa w odnośniku 2. 4) Dodany przez art. 25 ustawy z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej (Dz. U. poz. 1662), która weszła w życie z dniem 1 stycznia 2015 r. 5) Zamieszczony w obwieszczeniu. 6) Ustawa została ogłoszona w dniu 20 października 2006 r.
 

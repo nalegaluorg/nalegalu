@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-30 |
 | Data wydania | 2018-12-12 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002319) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2319/text.pdf) |
 
@@ -97,5 +96,5 @@ przekazem pocztowym;
 2)
 przelewem na wskazany rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 6 października 2015 r. w sprawie pobierania przez komorników opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych (Dz. U. poz. 1646 oraz z 2016 r. poz. 415), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 53 ustawy z dnia 28 lutego 2018 r. o kosztach komorniczych (Dz. U. poz. 770 i 2244). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 6 października 2015 r. w sprawie pobierania przez komorników opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych (Dz. U. poz. 1646 oraz z 2016 r. poz. 415), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 53 ustawy z dnia 28 lutego 2018 r. o kosztach komorniczych (Dz. U. poz. 770 i 2244).
 

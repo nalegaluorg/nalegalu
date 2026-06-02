@@ -26,19 +26,68 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/544/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego Dział I Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby prawne Kościoła i ich organy Dział II – Działalność Kościoła Rozdział 1 – Kult publiczny Rozdział 2 – Katecheza i szkolnictwo Rozdział 3 – Duszpasterstwo wojskowe i służba wojskowa osób duchownych Rozdział 4 – Duszpasterstwo specjalne Rozdział 5 – Organizacje kościelne i bractwa prawosławne Rozdział 6 – Działalność charytatywno-opiekuńcza Kościoła Rozdział 7 – Budownictwo sakralne i kościelne. Cmentarze Rozdział 8 – Kultura oraz środki masowego przekazywania Dział III – Sprawy majątkowe kościelnych osób prawnych Dział IV – Przepisy przejściowe i końcowe Rozdział 1 – Regulacja spraw majątkowych Kościoła Rozdział 2 – Przepisy przejściowe Rozdział 3 – Przepisy końcowe
+Załącznik – Tekst jednolity ustawy z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U. z 2014 r. poz. 1726), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „
+Przepisy ogólne
+Osoby prawne Kościoła i ich organy
+Działalność Kościoła
+Kult publiczny
+Katecheza i szkolnictwo
+Duszpasterstwo wojskowe i służba wojskowa osób duchownych
+Duszpasterstwo specjalne
+Organizacje kościelne i bractwa prawosławne
+Działalność charytatywno-opiekuńcza Kościoła
+Budownictwo sakralne i kościelne. Cmentarze
+Kultura oraz środki masowego przekazywania
+Sprawy majątkowe kościelnych osób prawnych
+Przepisy przejściowe i końcowe
+Regulacja spraw majątkowych Kościoła
+Przepisy przejściowe
+Przepisy końcowe
+
+### Dział I
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Osoby prawne Kościoła i ich organy
+
+### Dział II – Działalność Kościoła
+
+#### Rozdział 1 – Kult publiczny
+
+#### Rozdział 2 – Katecheza i szkolnictwo
+
+#### Rozdział 3 – Duszpasterstwo wojskowe i służba wojskowa osób duchownych
+
+#### Rozdział 4 – Duszpasterstwo specjalne
+
+#### Rozdział 5 – Organizacje kościelne i bractwa prawosławne
+
+#### Rozdział 6 – Działalność charytatywno-opiekuńcza Kościoła
+
+#### Rozdział 7 – Budownictwo sakralne i kościelne. Cmentarze
+
+#### Rozdział 8 – Kultura oraz środki masowego przekazywania
+
+### Dział III – Sprawy majątkowe kościelnych osób prawnych
+
+### Dział IV – Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Regulacja spraw majątkowych Kościoła
+
+#### Rozdział 2 – Przepisy przejściowe
+
+#### Rozdział 3 – Przepisy końcowe
 
 **Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego
 
 ### Dział I
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Polski Autokefaliczny Kościół Prawosławny, zwany dalej „Kościołem”, stanowi część Powszechnego Kościoła Prawosławnego i zachowuje z nim jedność w sprawach dogmatycznych i kanonicznych. Jest niezależny od jakiejkolwiek pozakrajowej władzy duchownej i świeckiej.
 
@@ -60,7 +109,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Przepis ust. 1 nie narusza właściwości organów państwowych oraz organów Kościoła.
 
-#### Rozdział 2 Osoby prawne Kościoła i ich organy
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -108,7 +157,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 7. Przełożeni (przełożone) klasztorów mogą używać innych, tradycyjnych nazw.
 
-**Art. 7.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Świętego Soboru Biskupów, uzyskać osobowość prawną w drodze rozporządzenia Ministra-Szefa Urzędu Rady Ministrów .
+**Art. 7.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Świętego Soboru Biskupów, uzyskać osobowość prawną w drodze rozporządzenia Ministra-Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r..
 
 **Art. 8.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
@@ -120,7 +169,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Właściwym organem jest:
 
-- **1)** odnośnie osób prawnych wymienionych w art. 6 ust. 1 pkt 2, 3, 8 i 10 – minister właściwy do spraw wyznań religijnych ;
+- **1)** odnośnie osób prawnych wymienionych w art. 6 ust. 1 pkt 2, 3, 8 i 10 – minister właściwy do spraw wyznań religijnych Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1.;
 - **2)** w pozostałych przypadkach – wojewoda.
 
 3. Powiadomienie powinno zawierać:
@@ -142,11 +191,11 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Utworzenie lub zniesienie jednostki organizacyjnej Kościoła za granicą Rzeczypospolitej Polskiej może nastąpić przy zachowaniu przepisów prawa państwa, na którego terytorium ma ona swoją siedzibę.
 
-2. Przed utworzeniem jednostki organizacyjnej Kościoła, o której mowa w ust. 1, Święty Sobór Biskupów zasięga opinii Ministra-Szefa Urzędu Rady Ministrów . Niezgłoszenie uzasadnionych zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody.
+2. Przed utworzeniem jednostki organizacyjnej Kościoła, o której mowa w ust. 1, Święty Sobór Biskupów zasięga opinii Ministra-Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r.. Niezgłoszenie uzasadnionych zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody.
 
-### Dział II Działalność Kościoła
+### Dział II
 
-#### Rozdział 1 Kult publiczny
+#### Rozdział 1
 
 **Art. 12.**
 
@@ -176,7 +225,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Osoby niepełnoletnie mogą korzystać z prawa określonego w ust. 2 na wniosek swych rodziców lub opiekunów prawnych.
 
-#### Rozdział 2 Katecheza i szkolnictwo
+#### Rozdział 2
 
 **Art. 15.**
 
@@ -190,15 +239,11 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Do nauczycieli i wychowawców zatrudnionych w szkołach i innych placówkach oświatowo-wychowawczych oraz placówkach opiekuńczo-wychowawczych prowadzonych przez kościelne osoby prawne, a także do świeckich nauczycieli w seminariach duchownych oraz w szkołach ikonografii i śpiewu cerkiewnego stosuje się prawa i obowiązki ustalone dla nauczycieli i wychowawców zatrudnionych w państwowych szkołach i placówkach oświatowo-wychowawczych oraz opiekuńczo-wychowawczych, z uwzględnieniem ust. 2.
 
-2. Szczegółowy zakres uprawnień i obowiązków, o których mowa w ust. 1, określa Minister Edukacji Narodowej na wniosek Świętego Soboru Biskupów.
+2. Szczegółowy zakres uprawnień i obowiązków, o których mowa w ust. 1, określa Minister Edukacji Narodowej Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ustawy, o której mowa w odnośniku 1.na wniosek Świętego Soboru Biskupów.
 
 3. Pracownikom szkół i innych placówek oświatowo-wychowawczych oraz placówek opiekuńczo-wychowawczych, niebędącym nauczycielami lub wychowawcami, przysługują uprawnienia i świadczenia, przewidziane dla tej kategorii pracowników zatrudnionych w państwowych szkołach i placówkach.
 
-**Art. 18.**
-
-1. Uczącym się w szkołach prowadzonych przez kościelne osoby prawne przysługują świadczenia społecznej służby zdrowia i ulgi w opłatach za przejazdy publicznymi środkami lokomocji na równi z uczniami szkół państwowych.
-
-2. Rodzicom lub opiekunom prawnym uczniów szkół kościelnych przysługuje prawo do zasiłków rodzinnych.
+**Art. 18.** 1Utracił moc z dniem 1 stycznia 1999 r. na podstawie art. 170 pkt 31 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. poz. 153 oraz z 1998 r. poz. 756) w zakresie uregulowanym niniejszą ustawą.. Uczącym się w szkołach prowadzonych przez kościelne osoby prawne przysługują świadczenia społecznej służby zdrowia i ulgi w opłatach za przejazdy publicznymi środkami lokomocji na równi z uczniami szkół państwowych. 2. Rodzicom lub opiekunom prawnym uczniów szkół kościelnych przysługuje prawo do zasiłków rodzinnych.
 
 **Art. 19.**
 
@@ -212,7 +257,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 20.** Osoby duchowne i członkowie wspólnot klasztornych mają prawo kształcenia się w szkołach państwowych wszystkich stopni i rodzajów. Podlegają oni obowiązującym przepisom, zachowując prawo do noszenia stroju duchownego.
 
-#### Rozdział 3 Duszpasterstwo wojskowe i służba wojskowa osób duchownych
+#### Rozdział 3
 
 **Art. 21.**
 
@@ -265,31 +310,27 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. W razie ogłoszenia mobilizacji i w czasie wojny właściwe organy wojskowe, w porozumieniu z biskupem diecezjalnym, zapewniają pozostawienie do duszpasterskiej obsługi ludności niezbędnej liczby duchownych spośród tych, którzy podlegają mobilizacji.
 
-#### Rozdział 4 Duszpasterstwo specjalne
+#### Rozdział 4
 
 **Art. 26.**
 
 1. Dzieciom i młodzieży przebywającym w zakładach wychowawczych i opiekuńczych, jak również w sanatoriach, prewentoriach i szpitalach, a także na krajowych obozach i koloniach zapewnia się prawo wykonywania praktyk religijnych i katechizacji z zachowaniem wzajemnej tolerancji. W szczególności mają one prawo do udziału w Liturgii Świętej w niedziele i święta prawosławne.
 
-2. Szczegółowe przepisy w sprawach, o których mowa w ust. 1, wydadzą Minister Edukacji Narodowej  oraz Minister Zdrowia i Opieki Społecznej , w porozumieniu ze Świętym Soborem Biskupów.
+2. Szczegółowe przepisy w sprawach, o których mowa w ust. 1, wydadzą Minister Edukacji Narodowej Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ustawy, o której mowa w odnośniku 1. oraz Minister Zdrowia i Opieki Społecznej Obecnie minister właściwy do spraw zdrowia zgodnie z art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1., w porozumieniu ze Świętym Soborem Biskupów.
 
 **Art. 27.**
 
 1. Osobom przebywającym w szpitalach oraz w zakładach pomocy społecznej zapewnia się prawo wykonywania praktyk religijnych i korzystania z posług religijnych.
 
-2. W celu realizacji uprawnień, o których mowa w ust. 1, kierownicy właściwych zakładów państwowych zatrudnią kapelanów, jeżeli zostaną oni skierowani przez biskupa diecezjalnego, oraz przeznaczą odpowiednie pomieszczenie na kaplicę lub udostępnią do tego celu inne pomieszczenia.
-
-**Art. 28.**
+2. W celu realizacji uprawnień, o których mowa w ust. 1, kierownicy właściwych zakładów państwowych zatrudnią kapelanów, jeżeli zostaną oni skierowani przez biskupa diecezjalnego, oraz przeznaczą odpowiednie pomieszczenie na kaplicę lub udostępnią do tego celu inne pomieszczenia. Art. 28Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083)..
 
 1. Osoby tymczasowo aresztowane mogą wykonywać praktyki religijne i wysłuchiwać nabożeństw transmitowanych przez środki masowego przekazywania oraz, za zgodą organu, do którego dyspozycji pozostają, korzystać z indywidualnych posług religijnych.
 
-2. Osobom skazanym zapewnia się możliwość wykonywania praktyk religijnych, korzystania z posług religijnych oraz uczestniczenia w nabożeństwach odprawianych w niedziele i święta prawosławne w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które nie mogą uczestniczyć w odprawianych na terenie zakładu nabożeństwach, należy zapewnić, w miarę potrzeby, w oddzielnych pomieszczeniach, możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazywania.
-
-3. Nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia w Liturgii Świętej w niedziele i święta prawosławne. Nieletnim, którzy nie mogą uczestniczyć w Liturgii Świętej, należy zapewnić, w miarę potrzeby, w oddzielnych pomieszczeniach, możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazywania.
+2. Osobom skazanym zapewnia się możliwość wykonywania praktyk religijnych, korzystania z posług religijnych oraz uczestniczenia w nabożeństwach odprawianych w niedziele i święta prawosławne w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które nie mogą uczestniczyć w odprawianych na terenie zakładu nabożeństwach, należy zapewnić, w miarę potrzeby, w oddzielnych pomieszczeniach, możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazywania. 3W brzmieniu ustalonym przez art. 367 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r.. Nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia w Liturgii Świętej w niedziele i święta prawosławne. Nieletnim, którzy nie mogą uczestniczyć w Liturgii Świętej, należy zapewnić, w miarę potrzeby, w oddzielnych pomieszczeniach, możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazywania.
 
 4. W celu realizacji uprawnień osób wymienionych w ust. 1–3 kierownicy odpowiednich zakładów zawierają umowy w sprawie nieodpłatnego wykonywania obowiązków kapelana z duchownymi skierowanymi przez biskupa diecezjalnego.
 
-#### Rozdział 5 Organizacje kościelne i bractwa prawosławne
+#### Rozdział 5
 
 **Art. 29.**
 
@@ -309,7 +350,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Organizacje kościelne mają w szczególności na celu działalność na rzecz formacji religijnej, kultu publicznego, nauki prawosławnej oraz przeciwdziałania patologiom społecznym i ich skutkom.
 
-3. Organizacje kościelne działają w ramach tych kościelnych osób prawnych, w których zostały powołane. O erygowaniu organizacji o zasięgu ponaddiecezjalnym Święty Sobór Biskupów powiadamia Ministra-Szefa Urzędu Rady Ministrów . Organizacje wymienione w ust. 1 pkt 1 mogą nabywać osobowość prawną w trybie art. 7.
+3. Organizacje kościelne działają w ramach tych kościelnych osób prawnych, w których zostały powołane. O erygowaniu organizacji o zasięgu ponaddiecezjalnym Święty Sobór Biskupów powiadamia Ministra-Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r.. Organizacje wymienione w ust. 1 pkt 1 mogą nabywać osobowość prawną w trybie art. 7.
 
 4. Władze kościelne czuwają nad zgodnością działania organizacji z ich celami religijnymi i moralnymi.
 
@@ -325,7 +366,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** wystąpienie do sądu z wnioskiem o rozwiązanie bractwa wymaga uzgodnienia z biskupem diecezjalnym;
 - **3)** w przypadku likwidacji bractwa prawosławnego, do jego majątku stosuje się odpowiednio przepisy o majątku zlikwidowanych kościelnych osób prawnych, chyba że statut bractwa stanowi inaczej.
 
-#### Rozdział 6 Działalność charytatywno-opiekuńcza Kościoła
+#### Rozdział 6
 
 **Art. 32.**
 
@@ -344,7 +385,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 6. Działalność charytatywno-opiekuńczą mogą prowadzić bractwa cerkiewne w zakresie określonym w ich statutach.
 
-#### Rozdział 7 Budownictwo sakralne i kościelne. Cmentarze
+#### Rozdział 7
 
 **Art. 33.**
 
@@ -364,7 +405,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. Przepisy ust. 1–3 nie naruszają ogólnych przepisów o cmentarzach i chowaniu zmarłych, o planowaniu przestrzennym oraz o ochronie gruntów rolnych i leśnych.
 
-#### Rozdział 8 Kultura oraz środki masowego przekazywania
+#### Rozdział 8
 
 **Art. 36.**
 
@@ -380,7 +421,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 38.** Instytucje państwowe, samorządowe i kościelne współdziałają w ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury.
 
-### Dział III Sprawy majątkowe kościelnych osób prawnych
+### Dział III
 
 **Art. 39.** Kościołowi i jego osobom prawnym przysługuje prawo nabywania, posiadania i zbywania mienia ruchomego i nieruchomego, nabywania i zbywania innych praw oraz zarządzania swoim majątkiem.
 
@@ -388,7 +429,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Majątek i przychody kościelnych osób prawnych podlegają ogólnym przepisom podatkowym, z wyjątkami określonymi w ust. 2–7.
 
-2. Kościelne osoby prawne są zwolnione od opodatkowania z tytułu przychodów ze swojej działalności niegospodarczej. W tym zakresie osoby te nie mają obowiązku prowadzenia dokumentacji wymaganej przez przepisy o zobowiązaniach podatkowych.
+2. Kościelne osoby prawne są zwolnione od opodatkowania z tytułu przychodów ze swojej działalności niegospodarczej. W tym zakresie osoby te nie mają obowiązku prowadzenia dokumentacji wymaganej przez przepisy o zobowiązaniach podatkowychZgodnie z art. 341 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180), jeżeli obowiązujące przepisy odsyłają ogólnie do przepisów o zobowiązaniach podatkowych, stosuje się przepisy działu III tej ustawy..
 
 3. Dochody z działalności gospodarczej kościelnych osób prawnych oraz spółek, których udziałowcami są wyłącznie te osoby, są zwolnione od opodatkowania w części, w jakiej zostały przeznaczone w roku podatkowym lub w roku po nim następującym na cele kultowe, oświatowo-wychowawcze, naukowe, kulturalne, działalność charytatywno-opiekuńczą, punkty katechetyczne, konserwację zabytków oraz na inwestycje sakralne i te inwestycje kościelne, których przedmiotem są punkty katechetyczne i zakłady charytatywno-opiekuńcze, jak również remonty tych obiektów.
 
@@ -405,7 +446,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** rzeczy i prawa nieprzeznaczone do działalności gospodarczej;
 - **2)** sprowadzone z zagranicy maszyny, urządzenia i materiały poligraficzne oraz papier.
 
-7. Darowizny na kościelną działalność charytatywno-opiekuńczą są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym i podatkiem wyrównawczym , jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz w okresie dwóch lat od dnia przekazania darowizny sprawozdanie o przeznaczeniu jej na tę działalność. W odniesieniu do darowizn na inne cele mają zastosowanie ogólne przepisy podatkowe.
+7. Darowizny na kościelną działalność charytatywno-opiekuńczą są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym i podatkiem wyrównawczym Ustawa z dnia 28 lipca 1983 r. o podatku wyrównawczym (Dz. U. poz. 188, z 1984 r. poz. 268, z 1988 r. poz. 254, z 1989 r. poz. 192 oraz z 1991 r. poz. 345) utraciła moc z dniem 1 stycznia 1992 r. na podstawie art. 54 ust. 1 pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. poz. 350)., jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz w okresie dwóch lat od dnia przekazania darowizny sprawozdanie o przeznaczeniu jej na tę działalność. W odniesieniu do darowizn na inne cele mają zastosowanie ogólne przepisy podatkowe.
 
 8. Kościelne jednostki organizacyjne, o których mowa w art. 9, mogą być na wniosek kościelnej osoby prawnej uznane przez właściwą izbę skarbową za odrębne podmioty podatkowe, jeżeli są organizacyjnie wyodrębnione.
 
@@ -438,16 +479,16 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 45.** Niezależnie od ustawowego ubezpieczenia duchownych kościelne osoby prawne mogą prowadzić wewnętrzną działalność ubezpieczeniową na rzecz duchownych, która w rozumieniu ustawy jest działalnością niegospodarczą.
 
-### Dział IV Przepisy przejściowe i końcowe
+### Dział IV
 
-#### Rozdział 1 Regulacja spraw majątkowych Kościoła
+#### Rozdział 1
 
 **Art. 46.**
 
 1. Nieruchomości lub ich części pozostające w dniu wejścia w życie ustawy we władaniu kościelnych osób prawnych, stają się z mocy prawa ich własnością, jeżeli:
 
 - **1)** podlegały ustawie z dnia 23 czerwca 1939 r. o uregulowaniu stanu prawnego majątków Kościoła Prawosławnego (Dz. U. poz. 370), bez względu na to, czy w myśl tej ustawy przechodziły z mocy prawa na własność Państwa;
-- **2)** podlegały przejęciu na własność Państwa z mocy ustawy z dnia 20 marca 1950 r. o przejęciu przez Państwo dóbr martwej ręki, poręczeniu proboszczom posiadania gospodarstw rolnych i utworzeniu Funduszu Kościelnego (Dz. U. poz. 87, z późn. zm.), a zostały pozostawione, wydzierżawione lub przekazane kościelnym osobom prawnym;
+- **2)** podlegały przejęciu na własność Państwa z mocy ustawy z dnia 20 marca 1950 r. o przejęciu przez Państwo dóbr martwej ręki, poręczeniu proboszczom posiadania gospodarstw rolnych i utworzeniu Funduszu Kościelnego (Dz. U. poz. 87, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1950 r. poz. 111, z 1969 r. poz. 95 oraz z 1998 r. poz. 887.), a zostały pozostawione, wydzierżawione lub przekazane kościelnym osobom prawnym;
 - **3)** znajdują się na nich cmentarze grzebalne lub obiekty sakralne wraz z obiektami towarzyszącymi, z zastrzeżeniem art. 49; dotyczy to również obiektów położonych na obszarze m.st. Warszawy.
 
 2. Przez „obiekty towarzyszące” obiektom sakralnym rozumie się położone w sąsiedztwie obiektów sakralnych: budynki mieszkalne i gospodarcze proboszcza, wikariusza i psalmisty, budynki stanowiące mieszkanie pracowników świeckich parafii oraz budynki punktu katechetycznego.
@@ -476,9 +517,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 48.**
 
-1. Wnioski, o których mowa w art. 47 ust. 1, mogą być składane w terminie dwóch lat od dnia wejścia w życie ustawy do Ministra-Szefa Urzędu Rady Ministrów . Roszczenia niezgłoszone w tym terminie wygasają.
+1. Wnioski, o których mowa w art. 47 ust. 1, mogą być składane w terminie dwóch lat od dnia wejścia w życie ustawy do Ministra-Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r.. Roszczenia niezgłoszone w tym terminie wygasają.
 
-2. Minister-Szef Urzędu Rady Ministrów  wydając decyzję może:
+2. Minister-Szef Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. wydając decyzję może:
 
 - **1)** przywrócić własność nieruchomości, o których mowa w art. 47 ust. 1;
 - **2)** przenieść własność nieruchomości zamiennej, gdy przywrócenie własności natrafiało na trudne do przezwyciężenia przeszkody;
@@ -492,9 +533,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Wnioski kościelnych osób prawnych wniesione w trybie określonym w art. 47 ust. 1, w stosunku do których nie zostały zakończone postępowania administracyjne, stają się przedmiotem postępowania regulacyjnego wszczynanego na wniosek jednej ze stron dotychczasowego postępowania.
 
-2. Postępowanie regulacyjne, o którym mowa w ust. 1, przeprowadza Komisja Regulacyjna do Spraw Polskiego Autokefalicznego Kościoła Prawosławnego, zwana dalej „Komisją”, w skład której wchodzi po dwóch przedstawicieli Ministra Spraw Wewnętrznych i Administracji  oraz Prawosławnego Metropolity Warszawskiego i Całej Polski.
+2. Postępowanie regulacyjne, o którym mowa w ust. 1, przeprowadza Komisja Regulacyjna do Spraw Polskiego Autokefalicznego Kościoła Prawosławnego, zwana dalej „Komisją”, w skład której wchodzi po dwóch przedstawicieli Ministra Spraw Wewnętrznych i Administracji Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. oraz Prawosławnego Metropolity Warszawskiego i Całej Polski.
 
-3. Szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego określa, w drodze zarządzenia, Minister Spraw Wewnętrznych i Administracji  w porozumieniu z Prawosławnym Metropolitą Warszawskim i Całej Polski.
+3. Szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego określa, w drodze zarządzenia, Minister Spraw Wewnętrznych i Administracji Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. w porozumieniu z Prawosławnym Metropolitą Warszawskim i Całej Polski.
 
 4. Postępowanie regulacyjne wszczyna się z chwilą złożenia wniosku w Komisji.
 
@@ -539,27 +580,24 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 49.**
 
-1. Uregulowanie stanu prawnego nieruchomości lub ich części, które przeszły na własność Państwa na podstawie dekretu z dnia 5 września 1947 r. o przejęciu na własność Państwa mienia pozostałego po osobach przesiedlonych do ZSRR (Dz. U. poz. 318, z późn. zm.), a były własnością diecezji, parafii, klasztorów lub innych instytucji grecko-katolickich (unickich) Diecezji Przemyskiej obrządku grecko-katolickiego oraz Administracji Apostolskiej Łemkowszczyzny i które pozostają we władaniu prawosławnych kościelnych osób prawnych określi odrębna ustawa.
+1. Uregulowanie stanu prawnego nieruchomości lub ich części, które przeszły na własność Państwa na podstawie dekretu z dnia 5 września 1947 r. o przejęciu na własność Państwa mienia pozostałego po osobach przesiedlonych do ZSRR (Dz. U. poz. 318, z późn. zm.Zmiany wymienionego dekretu zostały ogłoszone w Dz. U. z 1949 r. poz. 404, z 1958 r. poz. 72 oraz z 1969 r. poz. 95.), a były własnością diecezji, parafii, klasztorów lub innych instytucji grecko-katolickich (unickich) Diecezji Przemyskiej obrządku grecko-katolickiego oraz Administracji Apostolskiej Łemkowszczyzny i które pozostają we władaniu prawosławnych kościelnych osób prawnych określi odrębna ustawa.
 
 2. Do czasu wydania tej ustawy Polski Autokefaliczny Kościół Prawosławny i Kościół Katolicki obrządku bizantyjsko-ukraińskiego na mocy porozumienia biskupów diecezjalnych mogą wspólnie użytkować świątynie pozostające we władaniu prawosławnych kościelnych osób prawnych w dniu wejścia w życie niniejszej ustawy.
 
-**Art. 50.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.), podlega postępowaniu, o którym mowa w art. 47 i 48 niniejszej ustawy.
+**Art. 50.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462.), podlega postępowaniu, o którym mowa w art. 47 i 48 niniejszej ustawy.
 
-#### Rozdział 2 Przepisy przejściowe
+#### Rozdział 2
 
 **Art. 51.** Dowodem posiadania osobowości prawnej przez istniejące w dniu wejścia w życie ustawy osoby prawne wymienione w art. 6 ust. 1 pkt 2–10 jest wymienienie ich w wykazie parafii i jednostek organizacyjnych Kościoła, który władza kościelna złoży, w terminie sześciu miesięcy od dnia wejścia w życie ustawy, organom administracji, wymienionym w art. 10 ust. 2.
 
 **Art. 52.** Do czasu zwołania Soboru Lokalnego, Statut Wewnętrzny Kościoła jest uchwalany przez Święty Sobór Biskupów. Wnioski, o których mowa w art. 48e ust. 1, mogą być składane w terminie do dnia 31 grudnia 1998 r.
 
-#### Rozdział 3 Przepisy końcowe
+#### Rozdział 3
 
 **Art. 53.** Tracą moc:
 
 - **1)** dekret Prezydenta Rzeczypospolitej Polskiej z dnia 18 listopada 1938 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U. poz. 597 oraz z 1945 r. poz. 271 i 273);
 - **2)** ustawa z dnia 23 czerwca 1939 r. o uregulowaniu stanu prawnego majątków Kościoła Prawosławnego (Dz. U. poz. 370).
 
-**Art. 54.** Ustawa wchodzi w życie z dniem ogłoszenia.
-
-- **1)** Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ustawy, o której mowa w odnośniku 1. 4) Utracił moc z dniem 1 stycznia 1999 r. na podstawie art. 170 pkt 31 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. poz. 153 oraz z 1998 r. poz. 756) w zakresie uregulowanym niniejszą ustawą. 5) Obecnie minister właściwy do spraw zdrowia zgodnie z art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1. 6) Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083). 7) W brzmieniu ustalonym przez art. 367 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 8) Zgodnie z art. 341 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180), jeżeli obowiązujące przepisy odsyłają ogólnie do przepisów o zobowiązaniach podatkowych, stosuje się przepisy działu III tej ustawy. 9) Ustawa z dnia 28 lipca 1983 r. o podatku wyrównawczym (Dz. U. poz. 188, z 1984 r. poz. 268, z 1988 r. poz. 254, z 1989 r. poz. 192 oraz z 1991 r. poz. 345) utraciła moc z dniem 1 stycznia 1992 r. na podstawie art. 54 ust. 1 pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. poz. 350). 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1950 r. poz. 111, z 1969 r. poz. 95 oraz z 1998 r. poz. 887. 11) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 12) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 13) Zmiany wymienionego dekretu zostały ogłoszone w Dz. U. z 1949 r. poz. 404, z 1958 r. poz. 72 oraz z 1969 r. poz. 95. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462. 15) Ustawa została ogłoszona w dniu 29 lipca 1991 r.
-
+**Art. 54.** Ustawa wchodzi w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 29 lipca 1991 r.. 1) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Obecnie minister właściwy do spraw oświaty i wychowania na podstawie art. 4 ust. 1, art. 5 pkt 15 i art. 20 ustawy, o której mowa w odnośniku 1. 4) Utracił moc z dniem 1 stycznia 1999 r. na podstawie art. 170 pkt 31 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. poz. 153 oraz z 1998 r. poz. 756) w zakresie uregulowanym niniejszą ustawą. 5) Obecnie minister właściwy do spraw zdrowia zgodnie z art. 4 ust. 1, art. 5 pkt 28 i art. 33 ust. 1 ustawy, o której mowa w odnośniku 1. 6) Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083). 7) W brzmieniu ustalonym przez art. 367 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 8) Zgodnie z art. 341 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180), jeżeli obowiązujące przepisy odsyłają ogólnie do przepisów o zobowiązaniach podatkowych, stosuje się przepisy działu III tej ustawy. 9) Ustawa z dnia 28 lipca 1983 r. o podatku wyrównawczym (Dz. U. poz. 188, z 1984 r. poz. 268, z 1988 r. poz. 254, z 1989 r. poz. 192 oraz z 1991 r. poz. 345) utraciła moc z dniem 1 stycznia 1992 r. na podstawie art. 54 ust. 1 pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. poz. 350). 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1950 r. poz. 111, z 1969 r. poz. 95 oraz z 1998 r. poz. 887. 11) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 12) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 13) Zmiany wymienionego dekretu zostały ogłoszone w Dz. U. z 1949 r. poz. 404, z 1958 r. poz. 72 oraz z 1969 r. poz. 95. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462. 15) Ustawa została ogłoszona w dniu 29 lipca 1991 r.
 

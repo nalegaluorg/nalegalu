@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-18 |
 | Data wydania | 2016-03-22 |
-| Wejście w życie | 2016-03-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000378) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/378/text.pdf) |
 
@@ -95,5 +94,5 @@ wartości rezerw techniczno-ubezpieczeniowych w podziale na grupy ubezpieczeń d
 b)
 wartości i liczby wypłaconych świadczeń i odszkodowań.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 16 sierpnia 2007 r. w sprawie danych gromadzonych w bazach danych tworzonych przez Polską Izbę Ubezpieczeń (Dz. U. poz. 1119), które utraciło moc z dniem 1 stycznia 2016 r. w związku z wejściem w życie ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 16 sierpnia 2007 r. w sprawie danych gromadzonych w bazach danych tworzonych przez Polską Izbę Ubezpieczeń (Dz. U. poz. 1119), które utraciło moc z dniem 1 stycznia 2016 r. w związku z wejściem w życie ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844).
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-09 |
 | Data wydania | 2014-05-22 |
-| Wejście w życie | 2014-05-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/662/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 3 § 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r. poz. 952, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 3 § 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r. poz. 952, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 448 i 1247 oraz z 2014 r. poz. 188 i 512.) zarządza się, co następuje:
 § 1.
 1.
 Określa się siedziby i obszary właściwości wojskowych sądów okręgowych:
@@ -52,5 +51,5 @@ Wojskowy Sąd Garnizonowy w Warszawie – dla województw: łódzkiego, mazowiec
 7)
 Wojskowy Sąd Garnizonowy we Wrocławiu – dla województw: dolnośląskiego, opolskiego i śląskiego.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 19 listopada 1998 r. w sprawie utworzenia sądów wojskowych oraz określenia ich siedzib i obszarów właściwości (Dz. U. Nr 146, poz. 956, z 2001 r. Nr 138, poz. 1556, z 2002 r. Nr 145, poz. 1224 oraz z 2010 r. Nr 32, poz. 175), które utraciło moc z dniem wejścia w życie ustawy z dnia 12 grudnia 2013 r. o zmianie ustawy – Prawo o ustroju sądów wojskowych (Dz. U. z 2014 r. poz. 188). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 448 i 1247 oraz z 2014 r. poz. 188 i 512. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 19 listopada 1998 r. w sprawie utworzenia sądów wojskowych oraz określenia ich siedzib i obszarów właściwości (Dz. U. Nr 146, poz. 956, z 2001 r. Nr 138, poz. 1556, z 2002 r. Nr 145, poz. 1224 oraz z 2010 r. Nr 32, poz. 175), które utraciło moc z dniem wejścia w życie ustawy z dnia 12 grudnia 2013 r. o zmianie ustawy – Prawo o ustroju sądów wojskowych (Dz. U. z 2014 r. poz. 188).
 

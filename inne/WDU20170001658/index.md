@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 25 sierpnia 2017 r. w sprawie nadzoru pedagogicznego
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 25 sierpnia 2017 r. w sprawie nadzoru pedagogicznego Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-25 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001658) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1658/text.pdf) |
 
@@ -467,6 +466,5 @@ Plany nadzoru pedagogicznego opracowane na rok szkolny 2017/2018 na podstawie do
 § 35.
 Przepisów § 22–24 i § 34 nie stosuje się do niepublicznych szkół i placówek.
 § 36.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 27 sierpnia 2015 r. w sprawie nadzoru pedagogicznego (Dz. U. poz. 1270), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 27 sierpnia 2015 r. w sprawie nadzoru pedagogicznego (Dz. U. poz. 1270), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 27 sierpnia 2015 r. w sprawie nadzoru pedagogicznego (Dz. U. poz. 1270), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
 

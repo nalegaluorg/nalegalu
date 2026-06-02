@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-05 |
 | Data wydania | 2015-02-11 |
-| Wejście w życie | 2015-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/204/text.pdf) |
 
@@ -44,8 +43,7 @@ jest wpisana data, która nie ma odpowiednika w kalendarzu,
 2)
 zapis słowny daty różni się od zapisu cyframi arabskimi,
 3)
-data urodzenia rodziców dziecka, osób, które zawarły małżeństwo, osoby zmarłej jest wpisana przez wskazanie miesiąca i roku albo roku
-tę datę zamieszcza się w akcie stanu cywilnego w rejestrze stanu cywilnego w brzmieniu wynikającym z przenoszonego aktu stanu cywilnego, po uprzednim oznaczeniu pola wyboru oznaczającego datę niepoprawną.
+data urodzenia rodziców dziecka, osób, które zawarły małżeństwo, osoby zmarłej jest wpisana przez wskazanie miesiąca i roku albo roku – tę datę zamieszcza się w akcie stanu cywilnego w rejestrze stanu cywilnego w brzmieniu wynikającym z przenoszonego aktu stanu cywilnego, po uprzednim oznaczeniu pola wyboru oznaczającego datę niepoprawną.
 4.
 Jeżeli w przenoszonym akcie stanu cywilnego są wpisane daty według kalendarza juliańskiego i gregoriańskiego, w akcie stanu cywilnego w rejestrze stanu cywilnego zamieszcza się datę zgodną z kalendarzem gregoriańskim.
 § 4.

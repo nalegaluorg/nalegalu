@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-16 |
 | Data wydania | 2021-03-24 |
-| Wejście w życie | 2022-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000533) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/533/text.pdf) |
 
@@ -35,8 +34,7 @@ w pkt 4 uchyla się lit. d;
 2)
 w pkt 11 uchyla się lit. a, d, e oraz k;
 3)
-po pkt 33 dodaje się pkt 33a w brzmieniu:
-„
+po pkt 33 dodaje się pkt 33a w brzmieniu: „
 33a)
 w obszarze właściwości Sądu Okręgowego w Sosnowcu:
 a)
@@ -48,8 +46,7 @@ Sąd Rejonowy w Jaworznie – dla obszaru właściwości tego Sądu,
 d)
 Sąd Rejonowy w Sosnowcu – dla obszaru właściwości tego Sądu,
 e)
-Sąd Rejonowy w Zawierciu – dla obszaru właściwości tego Sądu;
-” .
+Sąd Rejonowy w Zawierciu – dla obszaru właściwości tego Sądu; ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.
 

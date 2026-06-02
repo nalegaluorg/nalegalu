@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 maja 2021 r. o zmianie ustawy o Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw
+# Ustawa z dnia 28 maja 2021 r. o zmianie ustawy o Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego, ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, ustawę z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw oraz ustawę z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19.
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-28 |
 | Data wydania | 2021-06-17 |
-| Wejście w życie | 2021-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001080) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1080/text.pdf) |
 
+Przepisy wstępne”;
 19)
-po art. 211 dodaje się oznaczenie i tytuł rozdziału 2 w brzmieniu:
-„
+po art. 211 dodaje się oznaczenie i tytuł rozdziału 2 w brzmieniu: „
+Przebieg postępowania o zatwierdzenie układu”;
 20)
-w tytule II w dziale I w rozdziale 2 po art. 211 dodaje się art. 211a w brzmieniu:
-„
+w tytule II w dziale I w rozdziale 2 po art. 211 dodaje się art. 211a w brzmieniu: „
+Skutki obwieszczenia o ustaleniu dnia układowego
 
 **Art. 1.** W ustawie z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych (Dz. U. z 2019 r. poz. 55, 912, 1214 i 1802 oraz z 2020 r. poz. 1747) wprowadza się następujące zmiany:
 
@@ -94,18 +94,26 @@ w pkt 14 w lit. a ust. 1 otrzymuje brzmienie: „
 
 **Art. 160a.** Syndyk na bieżąco rejestruje w systemie teleinformatycznym obsługującym postępowanie sądowe wpływy i wydatki masy upadłości. ” ,
 
-w pkt 20: – w lit. a ust. 1 otrzymuje brzmienie: „ 1. Syndyk składa sędziemu-komisarzowi w terminach przez niego wyznaczonych, przynajmniej co trzy miesiące, sprawozdanie, które obejmuje raport ze zmian w stanie i składzie masy upadłości w okresie sprawozdawczym, w tym stan środków pieniężnych na początek i koniec okresu sprawozdawczego, raport ze zmian stanu wierzytelności oraz niezaspokojonych przez syndyka zobowiązań masy upadłości w okresie sprawozdawczym, raport z wpływów i wydatków w okresie sprawozdawczym, informację o stanie środków pieniężnych w kasie i na rachunkach bankowych na początek i koniec okresu sprawozdawczego oraz opis czynności syndyka w okresie sprawozdawczym z uzasadnieniem. ” , – w lit. c ust. 4 otrzymuje brzmienie: „ 4. Po zakończeniu pełnienia funkcji syndyk i jego zastępcy składają sędziemu-komisarzowi sprawozdanie ostateczne, które obejmuje raport ze zmian w stanie i składzie masy upadłości w okresie postępowania upadłościowego ze wskazaniem łącznej kwoty uzyskanej z likwidacji masy upadłości, raport ze zmian stanu wierzytelności w okresie postępowania upadłościowego ze wskazaniem stopnia zaspokojenia wierzycieli w poszczególnych kategoriach oraz niezaspokojonych przez syndyka zobowiązań masy upadłości, raport z wpływów i wydatków w okresie postępowania upadłościowego oraz opis czynności syndyka w okresie postępowania upadłościowego z uzasadnieniem. Sprawozdanie ostateczne obejmuje również wskazanie miejsca zarchiwizowania dokumentów upadłego. O niezłożeniu sprawozdania ostatecznego, mimo wezwania do jego złożenia w terminie tygodnia, sędzia-komisarz zawiadamia Ministra Sprawiedliwości. ” , w pkt 21 ust. 7 otrzymuje brzmienie: „
+w pkt 20: w lit. a ust. 1 otrzymuje brzmienie: „
 
 - **d)**
+
+1. Syndyk składa sędziemu-komisarzowi w terminach przez niego wyznaczonych, przynajmniej co trzy miesiące, sprawozdanie, które obejmuje raport ze zmian w stanie i składzie masy upadłości w okresie sprawozdawczym, w tym stan środków pieniężnych na początek i koniec okresu sprawozdawczego, raport ze zmian stanu wierzytelności oraz niezaspokojonych przez syndyka zobowiązań masy upadłości w okresie sprawozdawczym, raport z wpływów i wydatków w okresie sprawozdawczym, informację o stanie środków pieniężnych w kasie i na rachunkach bankowych na początek i koniec okresu sprawozdawczego oraz opis czynności syndyka w okresie sprawozdawczym z uzasadnieniem. ” , w lit. c ust. 4 otrzymuje brzmienie: „
+
+4. Po zakończeniu pełnienia funkcji syndyk i jego zastępcy składają sędziemu-komisarzowi sprawozdanie ostateczne, które obejmuje raport ze zmian w stanie i składzie masy upadłości w okresie postępowania upadłościowego ze wskazaniem łącznej kwoty uzyskanej z likwidacji masy upadłości, raport ze zmian stanu wierzytelności w okresie postępowania upadłościowego ze wskazaniem stopnia zaspokojenia wierzycieli w poszczególnych kategoriach oraz niezaspokojonych przez syndyka zobowiązań masy upadłości, raport z wpływów i wydatków w okresie postępowania upadłościowego oraz opis czynności syndyka w okresie postępowania upadłościowego z uzasadnieniem. Sprawozdanie ostateczne obejmuje również wskazanie miejsca zarchiwizowania dokumentów upadłego. O niezłożeniu sprawozdania ostatecznego, mimo wezwania do jego złożenia w terminie tygodnia, sędzia-komisarz zawiadamia Ministra Sprawiedliwości. ” , w pkt 21 ust. 7 otrzymuje brzmienie: „
+
 - **e)**
 
 7. Postanowienie o powołaniu syndyka albo organu, do którego przepisy o syndyku stosuje się odpowiednio, a także prawomocne postanowienie o zmianie, odwołaniu, zawieszeniu albo stwierdzeniu wygaśnięcia funkcji syndyka albo organu, do którego przepisy o syndyku stosuje się odpowiednio, obwieszcza się. ” , w pkt 26 w lit. a ust. 1 otrzymuje brzmienie: „
 
 - **f)**
 
-1. W postępowaniu upadłościowym pisma procesowe oraz dokumenty, z wyłączeniem pism i dokumentów, o których mowa w art. 216ab, wnosi się wyłącznie za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z wykorzystaniem udostępnianych w tym systemie formularzy. Pisma oraz dokumenty niewniesione za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe nie wywołują skutków prawnych, jakie ustawa wiąże z wniesieniem pisma albo dokumentu do sądu, tymczasowego nadzorcy sądowego, zarządcy przymusowego, syndyka albo organu, do którego przepisy o syndyku stosuje się odpowiednio, o czym poucza się wnoszącego pismo albo dokument. Pouczenie nie jest wymagane, jeżeli wnoszącym pismo albo dokument jest tymczasowy nadzorca sądowy, zarządca przymusowy, syndyk albo organ, do którego przepisy o syndyku stosuje się odpowiednio. ” , w pkt 27: – w art. 216aa ust. 3 otrzymuje brzmienie: „ 3. Pracownik biura podawczego wprowadza treść wniosku lub oświadczenia do systemu teleinformatycznego obsługującego postępowanie sądowe, podając imię, nazwisko oraz numer PESEL osoby przekazującej ustnie treść wniosku lub oświadczenia ustalone na podstawie dowodu osobistego albo innego dokumentu potwierdzającego tożsamość, a także rodzaj i numer dokumentu potwierdzającego tożsamość i oznaczenie organu, który go wydał, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację tej osoby. Wprowadzona do systemu treść wniosku lub oświadczenia podlega wydrukowaniu i podpisaniu przez osobę przekazującą ustnie treść wniosku lub oświadczenia oraz złożeniu do zbioru dokumentów. Wniosek lub oświadczenie wprowadzone do systemu teleinformatycznego obsługującego postępowanie sądowe opatruje podpisem pracownik biura podawczego zgodnie z art. 216a ust. 1a. ” , – art. 216ab otrzymuje brzmienie: „ Art. 216ab. Pisma procesowe i dokumenty zawierające informacje niejawne w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742), a także oferty składane w toku przetargu lub aukcji wnosi się z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe. ” , w pkt 28 w lit. a ust. 1–1b otrzymują brzmienie: „
+1. W postępowaniu upadłościowym pisma procesowe oraz dokumenty, z wyłączeniem pism i dokumentów, o których mowa w art. 216ab, wnosi się wyłącznie za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z wykorzystaniem udostępnianych w tym systemie formularzy. Pisma oraz dokumenty niewniesione za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe nie wywołują skutków prawnych, jakie ustawa wiąże z wniesieniem pisma albo dokumentu do sądu, tymczasowego nadzorcy sądowego, zarządcy przymusowego, syndyka albo organu, do którego przepisy o syndyku stosuje się odpowiednio, o czym poucza się wnoszącego pismo albo dokument. Pouczenie nie jest wymagane, jeżeli wnoszącym pismo albo dokument jest tymczasowy nadzorca sądowy, zarządca przymusowy, syndyk albo organ, do którego przepisy o syndyku stosuje się odpowiednio. ” , w pkt 27: w art. 216aa ust. 3 otrzymuje brzmienie: „
 
 - **g)**
+
+3. Pracownik biura podawczego wprowadza treść wniosku lub oświadczenia do systemu teleinformatycznego obsługującego postępowanie sądowe, podając imię, nazwisko oraz numer PESEL osoby przekazującej ustnie treść wniosku lub oświadczenia ustalone na podstawie dowodu osobistego albo innego dokumentu potwierdzającego tożsamość, a także rodzaj i numer dokumentu potwierdzającego tożsamość i oznaczenie organu, który go wydał, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację tej osoby. Wprowadzona do systemu treść wniosku lub oświadczenia podlega wydrukowaniu i podpisaniu przez osobę przekazującą ustnie treść wniosku lub oświadczenia oraz złożeniu do zbioru dokumentów. Wniosek lub oświadczenie wprowadzone do systemu teleinformatycznego obsługującego postępowanie sądowe opatruje podpisem pracownik biura podawczego zgodnie z art. 216a ust. 1a. ” , art. 216ab otrzymuje brzmienie: „ Art. 216ab. Pisma procesowe i dokumenty zawierające informacje niejawne w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742), a także oferty składane w toku przetargu lub aukcji wnosi się z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe. ” , w pkt 28 w lit. a ust. 1–1b otrzymują brzmienie: „
+
 - **h)**
 
 1. W postępowaniu upadłościowym orzeczenia zapadają w formie postanowień. Postanowienie oraz zarządzenie wydane na posiedzeniu niejawnym uzasadnia się z urzędu, gdy przysługuje na nie środek zaskarżenia.
@@ -140,11 +148,33 @@ w pkt 20: – w lit. a ust. 1 otrzymuje brzmienie: „ 1. Syndyk składa sędzie
 
 **Art. 30a.** Postanowienie o powołaniu nadzorcy sądowego, zarządcy albo organu, do którego przepisy o nadzorcy sądowym albo zarządcy stosuje się odpowiednio, a także prawomocne postanowienie o zmianie, odwołaniu, zawieszeniu albo stwierdzeniu wygaśnięcia funkcji nadzorcy sądowego, zarządcy albo organu, do którego przepisy o nadzorcy sądowym albo zarządcy stosuje się odpowiednio, obwieszcza się. ” ,
 
-w pkt 19: – w lit. a ust. 2 otrzymuje brzmienie: „ 2. Głosowanie przeprowadza nadzorca sądowy albo zarządca pod nadzorem sędziego-komisarza. Spis głosów, do którego stosuje się odpowiednio przepis art. 86 ust. 2, stanowi załącznik do protokołu. Jeżeli oddano głos w cudzym imieniu, wskazuje się również imię i nazwisko głosującego. ” , – w lit. b ust. 4 otrzymuje brzmienie: „ 4. Głos oddany na piśmie oraz głos oddany za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe zawiera wskazanie imienia i nazwiska albo nazwy głosującego oraz wskazanie, czy głosuje za czy przeciw uchwale. ” , – lit. c otrzymuje brzmienie: „ c) uchyla się ust. 8; ” , w pkt 29: – w art. 196a ust. 1 otrzymuje brzmienie: „ 1. W postępowaniu restrukturyzacyjnym pisma procesowe oraz dokumenty, z wyłączeniem pism i dokumentów, o których mowa w art. 196c, wnosi się wyłącznie za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z wykorzystaniem udostępnianych w tym systemie formularzy. Pisma oraz dokumenty niewniesione za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe nie wywołują skutków prawnych, jakie ustawa wiąże z wniesieniem pisma albo dokumentu do sądu, nadzorcy, zarządcy albo organu, do którego przepisy o nadzorcy sądowym albo zarządcy stosuje się odpowiednio, o czym poucza się wnoszącego pismo albo dokument. Pouczenie nie jest wymagane, jeżeli wnoszącym pismo albo dokument jest nadzorca, zarządca albo organ, do którego przepisy o nadzorcy albo zarządcy stosuje się odpowiednio. ” , – w art. 196b ust. 3 otrzymuje brzmienie: „ 3. Pracownik biura podawczego wprowadza treść wniosku lub oświadczenia do systemu teleinformatycznego obsługującego postępowanie sądowe, podając imię, nazwisko oraz numer PESEL osoby przekazującej ustnie treść wniosku lub oświadczenia ustalone na podstawie dowodu osobistego albo innego dokumentu potwierdzającego tożsamość, a także rodzaj i numer dokumentu potwierdzającego tożsamość i oznaczenie organu, który go wydał, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację tej osoby. Wprowadzona do systemu treść wniosku lub oświadczenia podlega wydrukowaniu i podpisaniu przez osobę przekazującą ustnie treść wniosku lub oświadczenia oraz złożeniu do zbioru dokumentów. Wniosek lub oświadczenie wprowadzone do systemu teleinformatycznego obsługującego postępowanie sądowe opatruje podpisem pracownik biura podawczego zgodnie z art. 196a ust. 2. ” , – art. 196c otrzymuje brzmienie: „ Art. 196c. Pisma procesowe i dokumenty zawierające informacje niejawne w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742), a także oferty składane w toku przetargu lub aukcji wnosi się z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe. ” , w pkt 30: – w lit. a ust. 1a otrzymuje brzmienie: „ 1a. Orzeczenia w chwili ich wydania są wraz z uzasadnieniem utrwalane wyłącznie w systemie teleinformatycznym obsługującym postępowanie sądowe z wykorzystaniem wzorców udostępnionych w tym systemie i opatrywane kwalifikowanym podpisem elektronicznym. ” , – w lit. b ust. 2a otrzymuje brzmienie: „ 2a. W postanowieniu oraz dokumencie, które dotyczą wierzytelności wierzyciela, podaje się liczbę porządkową w spisie wierzytelności. Na podstawie prawomocnych postanowień oraz dokumentów, które dotyczą wierzytelności wierzycieli oraz sprawozdań nadzorcy sądowego albo zarządcy, tworzy się aktualny stan wierzytelności oraz niezaspokojonych przez dłużnika albo zarządcę zobowiązań. ” , – w lit. c ust. 4 otrzymuje brzmienie: „ 4. Uczestnicy postępowania oraz osoby przez nich upoważnione mają dostęp do akt postępowania za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe. ” , w pkt 31 w lit. b ust. 6 otrzymuje brzmienie: „
+w pkt 19: w lit. a ust. 2 otrzymuje brzmienie: „
 
 - **b)**
+
+2. Głosowanie przeprowadza nadzorca sądowy albo zarządca pod nadzorem sędziego-komisarza. Spis głosów, do którego stosuje się odpowiednio przepis art. 86 ust. 2, stanowi załącznik do protokołu. Jeżeli oddano głos w cudzym imieniu, wskazuje się również imię i nazwisko głosującego. ” , w lit. b ust. 4 otrzymuje brzmienie: „
+
+4. Głos oddany na piśmie oraz głos oddany za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe zawiera wskazanie imienia i nazwiska albo nazwy głosującego oraz wskazanie, czy głosuje za czy przeciw uchwale. ” , lit. c otrzymuje brzmienie: „ uchyla się ust. 8; ” , w pkt 29: w art. 196a ust. 1 otrzymuje brzmienie: „
+
 - **c)**
+- **c)**
+
+1. W postępowaniu restrukturyzacyjnym pisma procesowe oraz dokumenty, z wyłączeniem pism i dokumentów, o których mowa w art. 196c, wnosi się wyłącznie za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z wykorzystaniem udostępnianych w tym systemie formularzy. Pisma oraz dokumenty niewniesione za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe nie wywołują skutków prawnych, jakie ustawa wiąże z wniesieniem pisma albo dokumentu do sądu, nadzorcy, zarządcy albo organu, do którego przepisy o nadzorcy sądowym albo zarządcy stosuje się odpowiednio, o czym poucza się wnoszącego pismo albo dokument. Pouczenie nie jest wymagane, jeżeli wnoszącym pismo albo dokument jest nadzorca, zarządca albo organ, do którego przepisy o nadzorcy albo zarządcy stosuje się odpowiednio. ” , w art. 196b ust. 3 otrzymuje brzmienie: „
+
+3. Pracownik biura podawczego wprowadza treść wniosku lub oświadczenia do systemu teleinformatycznego obsługującego postępowanie sądowe, podając imię, nazwisko oraz numer PESEL osoby przekazującej ustnie treść wniosku lub oświadczenia ustalone na podstawie dowodu osobistego albo innego dokumentu potwierdzającego tożsamość, a także rodzaj i numer dokumentu potwierdzającego tożsamość i oznaczenie organu, który go wydał, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację tej osoby. Wprowadzona do systemu treść wniosku lub oświadczenia podlega wydrukowaniu i podpisaniu przez osobę przekazującą ustnie treść wniosku lub oświadczenia oraz złożeniu do zbioru dokumentów. Wniosek lub oświadczenie wprowadzone do systemu teleinformatycznego obsługującego postępowanie sądowe opatruje podpisem pracownik biura podawczego zgodnie z art. 196a ust. 2. ” , art. 196c otrzymuje brzmienie: „
+
+**Art. 196c.** Pisma procesowe i dokumenty zawierające informacje niejawne w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742), a także oferty składane w toku przetargu lub aukcji wnosi się z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe. ” ,
+
+w pkt 30: w lit. a ust. 1a otrzymuje brzmienie: „
+
 - **d)**
+
+1a. Orzeczenia w chwili ich wydania są wraz z uzasadnieniem utrwalane wyłącznie w systemie teleinformatycznym obsługującym postępowanie sądowe z wykorzystaniem wzorców udostępnionych w tym systemie i opatrywane kwalifikowanym podpisem elektronicznym. ” , w lit. b ust. 2a otrzymuje brzmienie: „
+
+2a. W postanowieniu oraz dokumencie, które dotyczą wierzytelności wierzyciela, podaje się liczbę porządkową w spisie wierzytelności. Na podstawie prawomocnych postanowień oraz dokumentów, które dotyczą wierzytelności wierzycieli oraz sprawozdań nadzorcy sądowego albo zarządcy, tworzy się aktualny stan wierzytelności oraz niezaspokojonych przez dłużnika albo zarządcę zobowiązań. ” , w lit. c ust. 4 otrzymuje brzmienie: „
+
+4. Uczestnicy postępowania oraz osoby przez nich upoważnione mają dostęp do akt postępowania za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe. ” , w pkt 31 w lit. b ust. 6 otrzymuje brzmienie: „
+
 - **e)**
 
 6. Pisma oraz postanowienia, o których mowa w ust. 1, skierowane do osoby albo jednostki, która nie ma założonego konta w systemie teleinformatycznym obsługującym postępowanie sądowe, pozostawia się w aktach sprawy ze skutkiem doręczenia, o czym należy pouczyć przy pierwszym doręczeniu wraz z pouczeniem o sposobie założenia konta w systemie teleinformatycznym obsługującym postępowanie sądowe oraz sposobie uwierzytelnienia się. ” , w pkt 44 ust. 1 otrzymuje brzmienie: „
@@ -189,7 +219,7 @@ w pkt 19: – w lit. a ust. 2 otrzymuje brzmienie: „ 2. Głosowanie przeprowad
 - **1)** zatwierdzenie warunków sprzedaży,
 - **2)** zabezpieczenie majątku dłużnika,
 - **3)** wynagrodzenie i zwrot wydatków tymczasowego nadzorcy sądowego,
-- **4)** wynagrodzenie i zwrot wydatków zarządcy przymusowego które rozpoznaje sąd drugiej instancji. ” ;
+- **4)** wynagrodzenie i zwrot wydatków zarządcy przymusowego – które rozpoznaje sąd drugiej instancji. ” ;
 - **6)** w art. 38 ust. 1 otrzymuje brzmienie: „
 
 1. Sąd może zabezpieczyć majątek dłużnika przez ustanowienie tymczasowego nadzorcy sądowego. Do tymczasowego nadzorcy sądowego przepisy art. 156 ust. 4, art. 157, art. 157a, art. 159–161, art. 166 ust. 6, art. 167 ust. 2, art. 167a, art. 167b, art. 170–172 i art. 178 stosuje się odpowiednio. ” ;
@@ -545,7 +575,7 @@ w pkt 19: – w lit. a ust. 2 otrzymuje brzmienie: „ 2. Głosowanie przeprowad
 1. W przyspieszonym postępowaniu układowym dłużnik składa zaliczkę na pokrycie wynagrodzenia nadzorcy sądowego w terminie:
 
 - **1)** siedmiu dni od dnia doręczenia mu postanowienia o otwarciu postępowania – w wysokości 30% wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2,
-- **2)** dwóch miesięcy od dnia otwarcia postępowania – w wysokości 10% wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2 pod rygorem umorzenia postępowania.
+- **2)** dwóch miesięcy od dnia otwarcia postępowania – w wysokości 10% wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2 – pod rygorem umorzenia postępowania.
 
 2. Wysokość zaliczki dłużnik oblicza na podstawie danych o liczbie wierzycieli i sumie wierzytelności zawartych w wykazie wierzycieli, o którym mowa w art. 227 ust. 1 pkt 6, a jeżeli w postępowaniu nadzorca sądowy złożył spis wierzytelności – na podstawie spisu wierzytelności.
 
@@ -572,9 +602,11 @@ w pkt 19: – w lit. a ust. 2 otrzymuje brzmienie: „ 2. Głosowanie przeprowad
 
 - **b)**
 
-5. Zawiadomień wierzycieli o terminie zgromadzenia wierzycieli dokonuje nadzorca sądowy albo zarządca za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320) albo za pośrednictwem komornika sądowego w sposób określony w ustawie z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2021 r. poz. 850). Jeżeli wierzyciel w postępowaniu wniósł pismo za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, to zawiadomienia o terminie zgromadzenia wierzycieli dokonuje się za pośrednictwem tego systemu. Przepis art. 1311§ 2 Kodeksu postępowania cywilnego stosuje się. ” , w ust. 6: – pkt 1 otrzymuje brzmienie: „ 1) otrzymane karty do głosowania, wraz z pełnomocnictwami koniecznymi do wykazania uprawnienia do oddania głosu oraz informacją, czy w stosunku do wierzyciela nie zachodzą okoliczności wskazane w art. 116, uszeregowane zgodnie z kolejnością przyjętą w spisie wierzytelności; ” , – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ 3) otrzymane przez nadzorcę sądowego albo zarządcę dowody doręczenia zawiadomienia o zgromadzeniu wierzycieli. ” ;
+5. Zawiadomień wierzycieli o terminie zgromadzenia wierzycieli dokonuje nadzorca sądowy albo zarządca za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320) albo za pośrednictwem komornika sądowego w sposób określony w ustawie z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2021 r. poz. 850). Jeżeli wierzyciel w postępowaniu wniósł pismo za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, to zawiadomienia o terminie zgromadzenia wierzycieli dokonuje się za pośrednictwem tego systemu. Przepis art. 1311§ 2 Kodeksu postępowania cywilnego stosuje się. ” , w ust. 6: pkt 1 otrzymuje brzmienie: „
 
 - **c)**
+- **1)** otrzymane karty do głosowania, wraz z pełnomocnictwami koniecznymi do wykazania uprawnienia do oddania głosu oraz informacją, czy w stosunku do wierzyciela nie zachodzą okoliczności wskazane w art. 116, uszeregowane zgodnie z kolejnością przyjętą w spisie wierzytelności; ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** otrzymane przez nadzorcę sądowego albo zarządcę dowody doręczenia zawiadomienia o zgromadzeniu wierzycieli. ” ;
 - **11)** w art. 110: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -621,9 +653,9 @@ w pkt 19: – w lit. a ust. 2 otrzymuje brzmienie: „ 2. Głosowanie przeprowad
 
 - **18)** w tytule II po tytule działu I dodaje się oznaczenie i tytuł rozdziału 1 w brzmieniu: „
 
-#### Rozdział 1 Przepisy wstępne”;
+#### Rozdział 1
 
-#### Rozdział 2 Przebieg postępowania o zatwierdzenie układu”;
+#### Rozdział 2
 
 **Art. 211a.**
 
@@ -671,9 +703,12 @@ w pkt 19: – w lit. a ust. 2 otrzymuje brzmienie: „ 2. Głosowanie przeprowad
 - **25)** w art. 219: w ust. 1 pkt 3 otrzymuje brzmienie: „
     - **a)**
 
-- **3)** wynik głosowania ze wskazaniem liczby wierzycieli i sumy wierzytelności uprawniających do głosowania, liczby wierzycieli i sumy wierzytelności, co do których oddano ważny głos, oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem, a jeżeli propozycje układowe przewidują podział wierzycieli na grupy – również liczby wierzycieli i sumy wierzytelności poszczególnych grup oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem w każdej grupie. ” , w ust. 2: – pkt 1 i 2 otrzymują brzmienie: „ 1) zebrane przez nadzorcę układu za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe karty do głosowania, wraz z pełnomocnictwami koniecznymi dla wykazania uprawnienia do oddania głosu oraz informacją, czy w stosunku do wierzyciela nie zachodzą okoliczności wskazane w art. 116, uszeregowane zgodnie z kolejnością przyjętą w spisie wierzytelności sporządzonym przez nadzorcę układu; 2) dowód wysłania co najmniej na trzy tygodnie przed dniem złożenia wniosku o zatwierdzenie układu informacji o sposobie głosowania z pouczeniem o sposobie uwierzytelnienia się w systemie teleinformatycznym obsługującym postępowanie sądowe i sposobie wypełnienia karty do głosowania lub zawiadomienia o terminie zgromadzenia wierzycieli wierzycielom, którzy nie oddali głosu; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) otrzymane przez nadzorcę układu dowody doręczenia informacji i zawiadomień, o których mowa w pkt 2; ” ;
+- **3)** wynik głosowania ze wskazaniem liczby wierzycieli i sumy wierzytelności uprawniających do głosowania, liczby wierzycieli i sumy wierzytelności, co do których oddano ważny głos, oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem, a jeżeli propozycje układowe przewidują podział wierzycieli na grupy – również liczby wierzycieli i sumy wierzytelności poszczególnych grup oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem w każdej grupie. ” , w ust. 2: pkt 1 i 2 otrzymują brzmienie: „
     - **b)**
 
+- **1)** zebrane przez nadzorcę układu za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe karty do głosowania, wraz z pełnomocnictwami koniecznymi dla wykazania uprawnienia do oddania głosu oraz informacją, czy w stosunku do wierzyciela nie zachodzą okoliczności wskazane w art. 116, uszeregowane zgodnie z kolejnością przyjętą w spisie wierzytelności sporządzonym przez nadzorcę układu;
+- **2)** dowód wysłania co najmniej na trzy tygodnie przed dniem złożenia wniosku o zatwierdzenie układu informacji o sposobie głosowania z pouczeniem o sposobie uwierzytelnienia się w systemie teleinformatycznym obsługującym postępowanie sądowe i sposobie wypełnienia karty do głosowania lub zawiadomienia o terminie zgromadzenia wierzycieli wierzycielom, którzy nie oddali głosu; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** otrzymane przez nadzorcę układu dowody doręczenia informacji i zawiadomień, o których mowa w pkt 2; ” ;
 - **26)** w art. 220: pkt 12 otrzymuje brzmienie: „
     - **a)**
 
@@ -687,7 +722,7 @@ w pkt 19: – w lit. a ust. 2 otrzymuje brzmienie: „ 2. Głosowanie przeprowad
 
 - **28)** w tytule II w dziale I dodaje się rozdział 3 w brzmieniu: „
 
-#### Rozdział 3 Skutki obwieszczenia o ustaleniu dnia układowego
+#### Rozdział 3
 
 **Art. 226a.**
 
@@ -742,7 +777,7 @@ w pkt 19: – w lit. a ust. 2 otrzymuje brzmienie: „ 2. Głosowanie przeprowad
 
 1. Mienie należące do dłużnika i wchodzące w skład masy sanacyjnej oraz składniki majątkowe, o których mowa w art. 307 ust. 1, mogą zostać zbyte przez zarządcę, za zgodą sędziego-komisarza, który określa warunki zbycia. Przepis art. 73 stosuje się. ” .
 
-**Art. 6.** W ustawie z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, z 2019 r. poz. 55, 1214 i 2355, z 2020 r. poz. 288 i 1747 oraz z 2021 r. poz. 187.) wprowadza się następujące zmiany:
 
 - **1)** art. 45 otrzymuje brzmienie: „
 
@@ -772,6 +807,6 @@ w pkt 19: – w lit. a ust. 2 otrzymuje brzmienie: „ 2. Głosowanie przeprowad
 **Art. 12.** Ustawa wchodzi w życie z dniem 1 grudnia 2021 r., z wyjątkiem:
 
 - **1)** art. 7, który wchodzi w życie z dniem 30 czerwca 2021 r.;
-- **2)** art. 1 pkt 8 i art. 6 pkt 3, które wchodzą w życie z dniem 1 lipca 2021 r.
+- **2)** art. 1 pkt 8 i art. 6 pkt 3, które wchodzą w życie z dniem 1 lipca 2021 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego, ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, ustawę z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw oraz ustawę z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, z 2019 r. poz. 55, 1214 i 2355, z 2020 r. poz. 288 i 1747 oraz z 2021 r. poz. 187.
 
 

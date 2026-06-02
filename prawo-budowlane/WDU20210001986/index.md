@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-17 |
 | Data wydania | 2021-11-02 |
-| Wejście w życie | 2022-01-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001986) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1986/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784.) wprowadza się następujące zmiany:
 
 - **1)** w art. 21 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -38,7 +37,7 @@ source: "eli-html"
 - **1a)** wolno stojących, nie więcej niż dwukondygnacyjnych budynków mieszkalnych jednorodzinnych o powierzchni zabudowy do 70 m2, których obszar oddziaływania mieści się w całości na działce lub działkach, na których zostały zaprojektowane, a budowa jest prowadzona w celu zaspokojenia własnych potrzeb mieszkaniowych inwestora; ” , pkt 16 otrzymuje brzmienie: „
     - **b)**
 
-- **16)** wolno stojących parterowych budynków rekreacji indywidualnej rozumianych jako budynki przeznaczone do okresowego wypoczynku, o powierzchni zabudowy: do 35 m2, powyżej 35 m2, ale nie więcej niż 70 m2, przy rozpiętości elementów konstrukcyjnych do 6 m i wysięgu wsporników do 2 m przy czym liczba tych budynków na działce nie może być większa niż jeden na każde 500 m2 powierzchni działki; ” ;
+- **16)** wolno stojących parterowych budynków rekreacji indywidualnej rozumianych jako budynki przeznaczone do okresowego wypoczynku, o powierzchni zabudowy: do 35 m2, powyżej 35 m2, ale nie więcej niż 70 m2, przy rozpiętości elementów konstrukcyjnych do 6 m i wysięgu wsporników do 2 m – przy czym liczba tych budynków na działce nie może być większa niż jeden na każde 500 m2 powierzchni działki; ” ;
     - **a)**
     - **b)**
 
@@ -46,7 +45,7 @@ source: "eli-html"
     - **a)**
 
 - **6)** w przypadku budowy, o której mowa w art. 29 ust. 1 pkt 1a – oświadczenie inwestora, że planowana budowa jest prowadzona w celu zaspokojenia własnych potrzeb mieszkaniowych, złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517 oraz z 2021 r. poz. 1023); składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy(-ma) odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **7)** oświadczenie inwestora, że: przyjmuje odpowiedzialność za kierowanie budową w przypadku nieustanowienia kierownika budowy, dokumentacja dołączona do zgłoszenia jest kompletna w przypadku budowy, o której mowa w art. 29 ust. 1 pkt 1a. ” , po ust. 5i dodaje się ust. 5j i 5k w brzmieniu: „
+- **7)** oświadczenie inwestora, że: przyjmuje odpowiedzialność za kierowanie budową w przypadku nieustanowienia kierownika budowy, dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy, o której mowa w art. 29 ust. 1 pkt 1a. ” , po ust. 5i dodaje się ust. 5j i 5k w brzmieniu: „
     - **a)**
     - **b)**
     - **b)**
@@ -61,7 +60,7 @@ source: "eli-html"
 2c. Uprawnienia budowlane do projektowania w specjalności:
 
 - **1)** architektonicznej lub
-- **2)** konstrukcyjno-budowlanej uprawniające do sporządzania projektów w zakresie rozwiązań architektonicznych uprawniają do sporządzania projektu zagospodarowania działki lub terenu w odniesieniu do budynków, o których mowa w art. 29 ust. 1 pkt 1a. ” ;
+- **2)** konstrukcyjno-budowlanej uprawniające do sporządzania projektów w zakresie rozwiązań architektonicznych – uprawniają do sporządzania projektu zagospodarowania działki lub terenu w odniesieniu do budynków, o których mowa w art. 29 ust. 1 pkt 1a. ” ;
 - **6)** w art. 41 w ust. 4a w pkt 1 lit. a otrzymuje brzmienie: „ kierownika budowy – w przypadku robót budowlanych wymagających ustanowienia kierownika budowy, ” ;
     - **a)**
 
@@ -95,8 +94,14 @@ source: "eli-html"
 
 2i. Stroną postępowania w sprawie wymierzenia kary pieniężnej, o której mowa w ust. 2, jest organ właściwy do wydania decyzji w sprawie ustalenia lokalizacji inwestycji celu publicznego. ” ;
 
-- **2)** w art. 52: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) mapę zasadniczą lub, w przypadku jej braku, mapę ewidencyjną, pochodzące z państwowego zasobu geodezyjnego i kartograficznego, obejmujące teren, którego wniosek dotyczy, wraz z obszarem, na który inwestycja będzie oddziaływać, w skali 1:500 lub 1:1000, a w stosunku do inwestycji liniowych również w skali 1:2000, w postaci: a) elektronicznej – w obowiązującym państwowym systemie odniesień przestrzennych albo b) papierowej; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) określenie granic terenu objętego wnioskiem; ” , dodaje się ust. 4 w brzmieniu: „
+- **2)** w art. 52: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** mapę zasadniczą lub, w przypadku jej braku, mapę ewidencyjną, pochodzące z państwowego zasobu geodezyjnego i kartograficznego, obejmujące teren, którego wniosek dotyczy, wraz z obszarem, na który inwestycja będzie oddziaływać, w skali 1:500 lub 1:1000, a w stosunku do inwestycji liniowych również w skali 1:2000, w postaci: elektronicznej – w obowiązującym państwowym systemie odniesień przestrzennych albo papierowej; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **1a)** określenie granic terenu objętego wnioskiem; ” , dodaje się ust. 4 w brzmieniu: „
     - **b)**
 
 4. Zamiast oryginału dokumentu strona może złożyć wraz z wnioskiem o ustalenie lokalizacji inwestycji celu publicznego kopię dokumentu. Przepis art. 76a § 4 Kodeksu postępowania administracyjnego stosuje się odpowiednio. ” ;
@@ -149,5 +154,5 @@ source: "eli-html"
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 57 ust. 3b ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 57 ust. 3b ustawy zmienianej w art. 1, jednak nie dłużej niż przez okres 3 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784.
 

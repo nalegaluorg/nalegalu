@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy – Prawo własności przemysłowej
+# Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy – Prawo własności przemysłowej Niniejszą ustawą zmienia się ustawę z dnia 14 marca 2003 r. o dokonywaniu europejskich zgłoszeń patentowych oraz skutkach patentu europejskiego w Rzeczypospolitej Polskiej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-29 |
 | Data wydania | 2007-07-31 |
-| Wejście w życie | 2007-11-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071360958) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/958/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.) wprowadza się następujące zmiany:
+Postępowanie w sprawie ochrony międzynarodowych znaków towarowych
+
+**Art. 1.** W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286, z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398, z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 208, poz. 1539 oraz z 2007 r. Nr 99, poz. 662.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 1 dodaje się pkt 7–11 w brzmieniu: „
 - **7)** Biurze Międzynarodowym – rozumie się przez to Międzynarodowe Biuro Własności Intelektualnej utworzone na podstawie Konwencji o ustanowieniu Światowej Organizacji Własności Intelektualnej, sporządzonej w Sztokholmie dnia 14 lipca 1967 r. (Dz. U. z 1975 r. Nr 9, poz. 49);
@@ -249,7 +250,7 @@ source: "eli-html"
 
 - **37)** w tytule III w dziale I po rozdziale 4 dodaje się rozdział 41 w brzmieniu: „
 
-#### Rozdział 41 Postępowanie w sprawie ochrony międzynarodowych znaków towarowych
+#### Rozdział 41
 
 **Art. 1521.** Urząd Patentowy prowadzi postępowanie w sprawie ochrony na terytorium Rzeczypospolitej Polskiej międzynarodowych znaków towarowych, w zakresie przewidzianym Porozumieniem lub Protokołem.
 

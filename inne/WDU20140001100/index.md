@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy o rachunkowości
+# Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy o rachunkowości Niniejsza ustawa w zakresie swojej regulacji wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady 2013/34/UE z dnia 26 czerwca 2013 r. w sprawie rocznych sprawozdań finansowych, skonsolidowanych sprawozdań finansowych i powiązanych sprawozdań niektórych rodzajów jednostek, zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2006/43/WE oraz uchylającą dyrektywy Rady 78/660/EWG i 83/349/EWG (Dz. Urz. UE L 182 z 29.06.2013, s. 19), w odniesieniu do jednostek mikro.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-11 |
 | Data wydania | 2014-08-21 |
-| Wejście w życie | 2014-09-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1100/text.pdf) |
 
@@ -30,8 +29,11 @@ Załącznik – Zakres informacji wykazywanych w sprawozdaniu finansowym, o któ
 
 **Art. 1.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330 i 613 oraz z 2014 r. poz. 768) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) osób fizycznych, spółek cywilnych osób fizycznych, spółek jawnych osób fizycznych oraz spółek partnerskich, jeżeli ich przychody netto ze sprzedaży towarów, produktów i operacji finansowych za poprzedni rok obrotowy wyniosły co najmniej równowartość w walucie polskiej 1 200 000 euro; ” , – w pkt 4 uchyla się lit. c, – pkt 6 otrzymuje brzmienie: „ 6) oddziałów i przedstawicielstw przedsiębiorców zagranicznych, w rozumieniu przepisów o swobodzie działalności gospodarczej; ” , dodaje się ust. 4 w brzmieniu: „
+- **1)** w art. 2: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** osób fizycznych, spółek cywilnych osób fizycznych, spółek jawnych osób fizycznych oraz spółek partnerskich, jeżeli ich przychody netto ze sprzedaży towarów, produktów i operacji finansowych za poprzedni rok obrotowy wyniosły co najmniej równowartość w walucie polskiej 1 200 000 euro; ” , – w pkt 4 uchyla się lit. c, pkt 6 otrzymuje brzmienie: „
+- **6)** oddziałów i przedstawicielstw przedsiębiorców zagranicznych, w rozumieniu przepisów o swobodzie działalności gospodarczej; ” , dodaje się ust. 4 w brzmieniu: „
     - **b)**
 
 4. Kościelne osoby prawne nieprowadzące działalności gospodarczej prowadzą rachunkowość zgodnie z przepisami wewnętrznymi tych osób. ” ;
@@ -48,7 +50,7 @@ Załącznik – Zakres informacji wykazywanych w sprawozdaniu finansowym, o któ
 
 - **2)** stowarzyszenia, związki zawodowe, organizacje pracodawców, izby gospodarcze, fundacje, przedstawicielstwa przedsiębiorców zagranicznych, w rozumieniu przepisów o swobodzie działalności gospodarczej, społeczno-zawodowe organizacje rolników, organizacje samorządu zawodowego, organizacje samorządu gospodarczego rzemiosła i Polskie Biuro Ubezpieczycieli Komunikacyjnych – jeżeli nie prowadzą działalności gospodarczej,
 - **3)** osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie, jeżeli przychody netto tych jednostek ze sprzedaży towarów, produktów i operacji finansowych wyniosły równowartość w walucie polskiej nie mniej niż 1 200 000 euro i nie więcej niż 2 000 000 euro za poprzedni rok obrotowy, a w przypadku jednostek rozpoczynających działalność albo prowadzenie ksiąg rachunkowych w sposób określony ustawą – w roku obrotowym, w którym rozpoczęły działalność albo prowadzenie ksiąg rachunkowych w sposób określony ustawą,
-- **4)** osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie, które stosują zasady rachunkowości na podstawie art. 2 ust. 2 w stosunku, do których organ zatwierdzający podjął decyzję w sprawie sporządzania sprawozdania finansowego z zastosowaniem art. 46 ust. 5 pkt 4, art. 47 ust. 4 pkt 4, art. 48 ust. 3, art. 48a ust. 3, art. 48b ust. 4 lub art. 49 ust. 4.
+- **4)** osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie, które stosują zasady rachunkowości na podstawie art. 2 ust. 2 – w stosunku, do których organ zatwierdzający podjął decyzję w sprawie sporządzania sprawozdania finansowego z zastosowaniem art. 46 ust. 5 pkt 4, art. 47 ust. 4 pkt 4, art. 48 ust. 3, art. 48a ust. 3, art. 48b ust. 4 lub art. 49 ust. 4.
 
 1b. Jednostkami mikro w rozumieniu ustawy są również jednostki, o których mowa w ust. 1a pkt 1, które:
 
@@ -76,9 +78,11 @@ Załącznik – Zakres informacji wykazywanych w sprawozdaniu finansowym, o któ
 - **6)** w art. 47: po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **a)**
 
-3a. Ustalona w rachunku zysków i strat różnica pomiędzy przychodami a kosztami jednostki mikro, o której mowa w art. 3 ust. 1a pkt 2, zwiększa – po zatwierdzeniu rocznego sprawozdania finansowego – odpowiednio przychody lub koszty w następnym roku obrotowym; różnica dodatnia może być zaliczona na zwiększenie kapitału (funduszu) podstawowego. ” , w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) dla jednostek innych niż banki, zakłady ubezpieczeń, zakłady reasekuracji i jednostki mikro – w załączniku nr 1 do ustawy, w wariancie kalkulacyjnym albo porównawczym, zależnie od wyboru dokonanego przez kierownika jednostki; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) dla jednostek mikro – w załączniku nr 4 do ustawy. ” ;
+3a. Ustalona w rachunku zysków i strat różnica pomiędzy przychodami a kosztami jednostki mikro, o której mowa w art. 3 ust. 1a pkt 2, zwiększa – po zatwierdzeniu rocznego sprawozdania finansowego – odpowiednio przychody lub koszty w następnym roku obrotowym; różnica dodatnia może być zaliczona na zwiększenie kapitału (funduszu) podstawowego. ” , w ust. 4: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
+- **1)** dla jednostek innych niż banki, zakłady ubezpieczeń, zakłady reasekuracji i jednostki mikro – w załączniku nr 1 do ustawy, w wariancie kalkulacyjnym albo porównawczym, zależnie od wyboru dokonanego przez kierownika jednostki; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** dla jednostek mikro – w załączniku nr 4 do ustawy. ” ;
 - **7)** w art. 48 dodaje się ust. 3 w brzmieniu: „
 
 3. Jednostka mikro może nie sporządzać informacji dodatkowej, o której mowa w ust. 1, pod warunkiem że przedstawi informacje uzupełniające do bilansu określone w załączniku nr 4 do ustawy. ” ;
@@ -116,7 +120,7 @@ Załącznik – Zakres informacji wykazywanych w sprawozdaniu finansowym, o któ
 - **1)** w art. 3 ust. 1a pkt 1 dodawanym do ustawy wymienionej w art. 1, z wyłączeniem jednostek rozpoczynających działalność, pod warunkiem że w roku obrotowym kończącym się po dniu wejścia w życie niniejszej ustawy oraz w roku poprzedzającym ten rok obrotowy jednostki te nie przekroczyły co najmniej dwóch z wymienionych w tym przepisie wielkości;
 - **2)** w art. 3 ust. 1a pkt 3 dodawanym do ustawy wymienionej w art. 1, z wyłączeniem jednostek rozpoczynających działalność, pod warunkiem że w roku obrotowym poprzedzającym rok obrotowy kończący się po dniu wejścia w życie niniejszej ustawy jednostki te osiągnęły przychody netto ze sprzedaży towarów, produktów i operacji finansowych w wysokości mieszczącej się w przedziale określonym w tym przepisie.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Załącznik – Zakres informacji wykazywanych w sprawozdaniu finansowym, o którym mowa w art. 45 ustawy, dla jednostek mikro Informacje ogólne:
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady 2013/34/UE z dnia 26 czerwca 2013 r. w sprawie rocznych sprawozdań finansowych, skonsolidowanych sprawozdań finansowych i powiązanych sprawozdań niektórych rodzajów jednostek, zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2006/43/WE oraz uchylającą dyrektywy Rady 78/660/EWG i 83/349/EWG (Dz. Urz. UE L 182 z 29.06.2013, s. 19), w odniesieniu do jednostek mikro. Załącznik – Zakres informacji wykazywanych w sprawozdaniu finansowym, o którym mowa w art. 45 ustawy, dla jednostek mikro Informacje ogólne:
 
 - **1)** firma, siedziba i adres albo miejsce zamieszkania i adres oraz numer we właściwym rejestrze sądowym albo ewidencji,
 - **2)** wskazanie czasu trwania działalności jednostki, jeżeli jest ograniczony,

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 grudnia 2019 r. o zmianie ustawy o Solidarnościowym Funduszu Wsparcia Osób Niepełnosprawnych oraz niektórych innych ustaw
+# Ustawa z dnia 20 grudnia 2019 r. o zmianie ustawy o Solidarnościowym Funduszu Wsparcia Osób Niepełnosprawnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych, ustawę z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami oraz ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-20 |
 | Data wydania | 2019-12-21 |
-| Wejście w życie | 2019-12-22 |
 | Ostatnia zmiana | 2024-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002473) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2473/text.pdf) |
 
@@ -99,7 +98,7 @@ source: "eli-html"
     - **i)**
     - **j)**
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166 i 2200.) wprowadza się następujące zmiany:
 
 - **1)** w art. 22 w ust. 6bb wprowadzenie do wyliczenia otrzymuje brzmienie: „ Składki z tytułu należności, o których mowa w ust. 6ba, określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w części finansowanej przez płatnika składek, składki na Fundusz Pracy, Fundusz Solidarnościowy oraz Fundusz Gwarantowanych Świadczeń Pracowniczych, z zastrzeżeniem art. 23 ust. 1 pkt 37, stanowią koszty uzyskania przychodów w miesiącu, za który należności te są należne, pod warunkiem że składki zostaną opłacone: ” ;
 - **2)** w art. 23: w ust. 1 pkt 37 otrzymuje brzmienie: „
@@ -110,7 +109,7 @@ source: "eli-html"
 
 3d. Przepis ust. 1 pkt 55a stosuje się odpowiednio, z zastrzeżeniem ust. 1 pkt 37 oraz art. 22 ust. 6bb, do składek na Fundusz Pracy, Fundusz Solidarnościowy oraz Fundusz Gwarantowanych Świadczeń Pracowniczych. ” .
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200 i 2217.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15 w ust. 4h wprowadzenie do wyliczenia otrzymuje brzmienie: „ Składki z tytułu należności, o których mowa w ust. 4g, określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w części finansowanej przez płatnika składek, składki na Fundusz Pracy, Fundusz Solidarnościowy oraz Fundusz Gwarantowanych Świadczeń Pracowniczych, z zastrzeżeniem art. 16 ust. 1 pkt 40, stanowią koszty uzyskania przychodów w miesiącu, za który należności te są należne, pod warunkiem że składki zostaną opłacone: ” ;
 - **2)** w art. 16: w ust. 1 pkt 40 otrzymuje brzmienie: „
@@ -125,7 +124,7 @@ source: "eli-html"
 
 **Art. 481.** Samorządy wojewódzkie i powiatowe mogą otrzymać środki z Funduszu Solidarnościowego, na zasadach określonych w ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. poz. 2192 oraz z 2019 r. poz. 1622, 1696 i 2473), na finansowanie zadań, o których mowa w art. 35 i art. 35a. ” .
 
-**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590, 1655, 1818, 2020 i 2070.) wprowadza się następujące zmiany:
 
 - **1)** art. 32 otrzymuje brzmienie: „
 
@@ -180,7 +179,7 @@ source: "eli-html"
 
 **Art. 109l.** Ze środków Funduszu Pracy mogą być udzielane nieoprocentowane pożyczki do Funduszu Solidarnościowego na finansowanie wydatków, o których mowa w art. 6b ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. poz. 2192 oraz z 2019 r. poz. 1622, 1696 i 2473). ” .
 
-**Art. 9.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905 i 2020.) wprowadza się następujące zmiany:
 
 - **1)** w art. 16 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** orzeczenia o zdolności do prowadzenia pojazdów mechanicznych oraz inne orzeczenia i zaświadczenia lekarskie wydawane na życzenie świadczeniobiorcy, jeżeli nie są one związane z dalszym leczeniem, rehabilitacją, niezdolnością do pracy, kontynuowaniem nauki, uczestnictwem dzieci, uczniów, słuchaczy zakładów kształcenia nauczycieli i studentów w zajęciach sportowych i w zorganizowanym wypoczynku, a także jeżeli nie są wydawane dla celów pomocy społecznej, wspierania rodziny i systemu pieczy zastępczej, orzecznictwa o niepełnosprawności, uzyskania zasiłku pielęgnacyjnego, uzyskania świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. poz. 1622), lub ustalenia przyczyn i rodzaju uszkodzeń ciała związanych z użyciem przemocy w rodzinie; ” ;
@@ -220,6 +219,6 @@ source: "eli-html"
 **Art. 13.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 3 w zakresie art. 3 ust. 1a pkt 3, art. 1 pkt 4 w zakresie art. 6b ust. 1 pkt 3 oraz art. 6, które wchodzą w życie z dniem 1 stycznia 2020 r.;
-- **2)** art. 12 pkt 3, który wchodzi w życie z dniem 1 stycznia 2021 r.
+- **2)** art. 12 pkt 3, który wchodzi w życie z dniem 1 stycznia 2021 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych, ustawę z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami oraz ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166 i 2200. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200 i 2217. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590, 1655, 1818, 2020 i 2070. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905 i 2020.
 
 

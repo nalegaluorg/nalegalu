@@ -26,18 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/218/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity rozporządzenia Prezesa Rady Ministrów z dnia 19 września 2005 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego Rozdział 1 – Zasady i tryb szkolenia zawodowego Rozdział 2 – Zakres tematyczny szkoleń Rozdział 3 – Składanie egzaminów na pierwszy stopień w korpusie chorążych lub oficerów Rozdział 4 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity rozporządzenia Prezesa Rady Ministrów z dnia 19 września 2005 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 19 września 2005 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2013 r. poz. 961), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 7 listopada 2019 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2246).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 7 listopada 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2246), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 7 listopada 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2246), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Prezesa Rady Ministrów z dnia 19 września 2005 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego
 Na podstawie art. 71 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860) zarządza się, co następuje:
+Zasady i tryb szkolenia zawodowego
 § 1.
 1.
 W ramach systemu szkolenia zawodowego w Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, są organizowane następujące rodzaje szkoleń zawodowych:
@@ -52,12 +51,11 @@ specjalistyczne,
 5)
 doskonalenia zawodowego,
 6)
-języków obcych
-zwanych dalej „szkoleniami”.
+języków obcych – zwanych dalej „szkoleniami”.
 2.
 W ramach systemu szkolenia, o którym mowa w ust. 1, funkcjonariusz ABW, zwany dalej „funkcjonariuszem”, może odbywać w okresie służby przygotowawczej staż adaptacyjny, zwany dalej „stażem”.
 § 2.
-1.
+1W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 listopada 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2246), które weszło w życie z dniem 3 grudnia 2019 r..
 Szkolenia organizuje i prowadzi Centralny Ośrodek Szkolenia i Edukacji ABW, zwany dalej „COS”.
 2.
 Szkolenia, o których mowa w § 1 ust. 1 pkt 4–6, mogą być organizowane i prowadzone przez COS lub inną jednostkę organizacyjną ABW, zwaną dalej „jednostką organizacyjną”.
@@ -310,6 +308,7 @@ Egzamin końcowy szkoleń, o których mowa w § 1 ust. 1 pkt 4 i 5, przeprowadza
 Nadzór nad organizacją i prawidłowym przebiegiem egzaminu, o którym mowa w ust. 1, sprawuje kierownik jednostki organizacyjnej właściwej w sprawach osobowych.
 4.
 Egzamin końcowy szkoleń, o których mowa w § 1 ust. 1 pkt 4–6, organizowanych i prowadzonych poza ABW, przeprowadza podmiot prowadzący szkolenie.
+Zakres tematyczny szkoleń
 § 23.
 Tematyka szkolenia na pierwszy stopień podoficerski obejmuje:
 1)
@@ -360,6 +359,7 @@ podstawy organizacji i zarządzania;
 doskonalenie strzeleckie oraz zajęcia sportowe.
 § 26.
 Tematyka szkoleń, o których mowa w § 1 ust. 1 pkt 4 i 5, jest uzależniona od potrzeb szkoleniowych jednostek organizacyjnych.
+Składanie egzaminów na pierwszy stopień w korpusie chorążych lub oficerów
 § 27.
 1.
 Szkolenia, o których mowa w § 1 ust. 1 pkt 2 i 3, kończą się egzaminem końcowym.
@@ -404,18 +404,27 @@ nazwę szkolenia;
 skład komisji egzaminacyjnej, w tym wskazanie przewodniczącego komisji;
 6)
 końcową ocenę szkolenia, o której mowa w § 19 ust. 4.
+Przepisy przejściowe i końcowe
 § 33.
 Szkolenie funkcjonariusza rozpoczęte przed dniem wejścia w życie rozporządzenia prowadzi się i kończy na podstawie dotychczas obowiązujących przepisów.
 § 34.
 Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 9 maja 2003 r. w sprawie zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 822).
 § 35.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 29 września 2005 r.. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 7 listopada 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2246), które weszło w życie z dniem 3 grudnia 2019 r. 2) Rozporządzenie zostało ogłoszone w dniu 29 września 2005 r.
 
-#### Rozdział 1 Zasady i tryb szkolenia zawodowego
+#### Rozdział 1 – Zasady i tryb szkolenia zawodowego
 
-#### Rozdział 2 Zakres tematyczny szkoleń
+#### Rozdział 2 – Zakres tematyczny szkoleń
 
-#### Rozdział 3 Składanie egzaminów na pierwszy stopień w korpusie chorążych lub oficerów
+#### Rozdział 3 – Składanie egzaminów na pierwszy stopień w korpusie chorążych lub oficerów
 
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

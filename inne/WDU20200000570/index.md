@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-31 |
 | Data wydania | 2020-03-31 |
-| Wejście w życie | 2020-03-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/570/text.pdf) |
 
@@ -33,9 +32,9 @@ Rozporządzenie określa inne terminy wypełniania obowiązków w zakresie ewide
 1)
 ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351, 1495, 1571, 1655 i 1680 oraz z 2020 r. poz. 568) oraz w aktach wykonawczych wydanych na podstawie tej ustawy;
 2)
-ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.) oraz w aktach wykonawczych wydanych na podstawie tej ustawy;
+ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374 i 568.) oraz w aktach wykonawczych wydanych na podstawie tej ustawy;
 3)
-art. 45 ust. 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.).
+art. 45 ust. 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726,).
 § 2.
 Termin określony w art. 45 ust. 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych przedłuża się do dnia 31 lipca 2020 r.
 § 3.
@@ -83,5 +82,5 @@ miesięcznych za miesiąc marzec i kwiecień 2020 r.
 § 10.
 Przepisy § 2, § 3, § 5, § 6 i § 8 mają zastosowanie do obowiązków dotyczących roku obrotowego kończącego się po dniu 29 września 2019 r., jednak nie później niż w dniu 30 kwietnia 2020 r., których termin wykonania nie upłynął przed dniem 31 marca 2020 r.
 § 11.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374 i 568. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726,
 

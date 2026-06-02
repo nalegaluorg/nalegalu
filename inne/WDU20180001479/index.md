@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, ustawę z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych, ustawę z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, ustawę z dnia 19 lipca 2016 r. o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania, ustawę z dnia 20 lipca 2017 r. – Prawo wodne oraz ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 | Pole | Wartość |
 |---|---|
@@ -22,34 +22,56 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-03 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001479) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1479/text.pdf) |
 
+Pracownicy Inspekcji Ochrony Środowiska
+
 **Art. 1.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2018 r. poz. 1471) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – w pkt 1 w lit. k średnik zastępuje się przecinkiem i dodaje się lit. I w brzmieniu: „ l) przestrzegania przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2018 r. poz. 992, 1000 i 1479); ” , – pkt 2 otrzymuje brzmienie: „ 2) prowadzenie państwowego monitoringu środowiska, w szczególności: a) opracowywanie i realizacja wieloletnich strategicznych programów państwowego monitoringu środowiska i wykonawczych programów państwowego monitoringu środowiska, b) gromadzenie informacji o środowisku w zakresie ujętym w programach państwowego monitoringu środowiska, c) przetwarzanie zgromadzonych informacji o środowisku i dokonywanie ocen stanu środowiska, d) opracowywanie raportów o stanie środowiska, e) udział w międzynarodowej wymianie informacji o stanie środowiska, w tym koordynacja współpracy z Europejską Agencją Środowiska, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 401/2009 z dnia 23 kwietnia 2009 r. w sprawie Europejskiej Agencji Środowiska oraz Europejskiej Sieci Informacji i Obserwacji Środowiska (Dz. Urz. UE L 126 z 21.05.2009, str. 13); ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) prowadzenie działalności laboratoryjnej polegającej na: a) wykonywaniu badań, w tym pobieraniu próbek, wykonywaniu pomiarów i analiz na potrzeby państwowego monitoringu środowiska oraz działań kontrolnych, b) zapewnieniu nadzoru nad jakością badań, o których mowa w lit. a, zgodnie z normą PN-EN-ISO/IEC 17025 Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących, c) prowadzeniu badań przy użyciu referencyjnych i równoważnych metod pomiarowych, d) organizacji i udziale w porównaniach międzylaboratoryjnych i badaniach biegłości; ” , – uchyla się pkt 15 i 16, – po pkt 17b dodaje się pkt 17c w brzmieniu: „ 17c) wykonywanie zadań wynikających z ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. z 2018 r. poz. 1473); ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **1)** w art. 2: w ust. 1: w pkt 1 w lit. k średnik zastępuje się przecinkiem i dodaje się lit. I w brzmieniu: „ przestrzegania przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2018 r. poz. 992, 1000 i 1479); ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
+    - **l)**
+
+- **2)** prowadzenie państwowego monitoringu środowiska, w szczególności: opracowywanie i realizacja wieloletnich strategicznych programów państwowego monitoringu środowiska i wykonawczych programów państwowego monitoringu środowiska, gromadzenie informacji o środowisku w zakresie ujętym w programach państwowego monitoringu środowiska, przetwarzanie zgromadzonych informacji o środowisku i dokonywanie ocen stanu środowiska, opracowywanie raportów o stanie środowiska, udział w międzynarodowej wymianie informacji o stanie środowiska, w tym koordynacja współpracy z Europejską Agencją Środowiska, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 401/2009 z dnia 23 kwietnia 2009 r. w sprawie Europejskiej Agencji Środowiska oraz Europejskiej Sieci Informacji i Obserwacji Środowiska (Dz. Urz. UE L 126 z 21.05.2009, str. 13); ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2a)** prowadzenie działalności laboratoryjnej polegającej na: wykonywaniu badań, w tym pobieraniu próbek, wykonywaniu pomiarów i analiz na potrzeby państwowego monitoringu środowiska oraz działań kontrolnych, zapewnieniu nadzoru nad jakością badań, o których mowa w lit. a, zgodnie z normą PN-EN-ISO/IEC 17025 Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących, prowadzeniu badań przy użyciu referencyjnych i równoważnych metod pomiarowych, organizacji i udziale w porównaniach międzylaboratoryjnych i badaniach biegłości; ” , – uchyla się pkt 15 i 16, po pkt 17b dodaje się pkt 17c w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **17c)** wykonywanie zadań wynikających z ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. z 2018 r. poz. 1473); ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Do zadań Inspekcji Ochrony Środowiska należy również ściganie przestępstw przeciwko środowisku określonych w Kodeksie karnym oraz wykroczeń określonych w Kodeksie wykroczeń i ustawach wymienionych w ust. 1, w tym wnoszenie i popieranie aktów oskarżenia. ” , uchyla się ust. 2;
 
 - **c)**
-- **2)** w art. 4a: w ust. 1: – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) może wydawać wojewódzkim inspektorom ochrony środowiska polecenia przeprowadzenia w określonym czasie kontroli; ” , – pkt 5 otrzymuje brzmienie: „ 5) opracowuje i realizuje wieloletnie strategiczne oraz wykonawcze programy państwowego monitoringu środowiska; ” , ust. 1a otrzymuje brzmienie: „
+- **2)** w art. 4a: w ust. 1: po pkt 4 dodaje się pkt 4a w brzmieniu: „
     - **a)**
+
+- **4a)** może wydawać wojewódzkim inspektorom ochrony środowiska polecenia przeprowadzenia w określonym czasie kontroli; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** opracowuje i realizuje wieloletnie strategiczne oraz wykonawcze programy państwowego monitoringu środowiska; ” , ust. 1a otrzymuje brzmienie: „
     - **b)**
 
 1a. Wykonywanie zadań Inspekcji Ochrony Środowiska w zakresie:
 
 - **1)** prowadzenia państwowego monitoringu środowiska oraz prowadzenia działalności laboratoryjnej,
 - **2)** prowadzenia działań edukacyjnych dla innych organów i podmiotów korzystających ze środowiska z zakresu korzystania ze środowiska,
-- **3)** wykonywania zadań, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych należy do Głównego Inspektora Ochrony Środowiska. ” ;
+- **3)** wykonywania zadań, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych – należy do Głównego Inspektora Ochrony Środowiska. ” ;
 - **3)** w art. 5: w ust. 3 pkt 5 otrzymuje brzmienie: „
     - **a)**
 
-- **5)** posiada co najmniej 5-letni staż pracy na stanowiskach związanych z zadaniami z zakresu ochrony środowiska; ” , w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) wykonuje jej zadania, z wyłączeniem zadań, o których mowa w art. 2 ust. 1 pkt 2 i 2a, zgodnie z ogólnymi kierunkami działania, zaleceniami i wytycznymi oraz poleceniami Głównego Inspektora Ochrony Środowiska; ” , – uchyla się pkt 3, – pkt 4 otrzymuje brzmienie: „ 4) dokonuje na obszarze województwa analiz i ocen przestrzegania przepisów, o których mowa w art. 2 ust. 1; ” ;
+- **5)** posiada co najmniej 5-letni staż pracy na stanowiskach związanych z zadaniami z zakresu ochrony środowiska; ” , w ust. 4: pkt 1 otrzymuje brzmienie: „
     - **b)**
 
+- **1)** wykonuje jej zadania, z wyłączeniem zadań, o których mowa w art. 2 ust. 1 pkt 2 i 2a, zgodnie z ogólnymi kierunkami działania, zaleceniami i wytycznymi oraz poleceniami Głównego Inspektora Ochrony Środowiska; ” , – uchyla się pkt 3, pkt 4 otrzymuje brzmienie: „
+- **4)** dokonuje na obszarze województwa analiz i ocen przestrzegania przepisów, o których mowa w art. 2 ust. 1; ” ;
 - **4)** w art. 5a w ust. 1 pkt 4 i 5 otrzymują brzmienie: „
 - **4)** procedury opracowywania programów kontroli planowych dla zakładów, o których mowa w pkt 3;
 - **5)** procedury kontroli pozaplanowych dla zakładów, o których mowa w pkt 3; ” ;
@@ -59,7 +81,7 @@ source: "eli-html"
 
 - **6)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Pracownicy Inspekcji Ochrony Środowiska
+#### Rozdział 2a
 
 **Art. 8d.**
 
@@ -100,7 +122,7 @@ source: "eli-html"
 4. W zmianowym systemie czasu pracy, o którym mowa w ust. 3 zdanie:
 
 - **1)** pierwsze, pracownik nie może wykonywać pracy na więcej niż dziesięciu zmianach w porze nocnej w miesiącu kalendarzowym,
-- **2)** drugie, pracownik nie może wykonywać pracy na więcej niż ośmiu zmianach w porze nocnej w miesiącu kalendarzowym chyba że jest to uzasadnione szczególnymi potrzebami pracodawcy lub tym, że jego nieobecność mogłaby spowodować poważne zakłócenie organizacji pracy u pracodawcy.
+- **2)** drugie, pracownik nie może wykonywać pracy na więcej niż ośmiu zmianach w porze nocnej w miesiącu kalendarzowym – chyba że jest to uzasadnione szczególnymi potrzebami pracodawcy lub tym, że jego nieobecność mogłaby spowodować poważne zakłócenie organizacji pracy u pracodawcy.
 
 5. Praca w godzinach nadliczbowych pracownika jest dopuszczalna ze względu na:
 
@@ -127,7 +149,7 @@ source: "eli-html"
 
 - **1)** pracownika będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
 - **2)** pracownika opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia do opieki nie korzysta drugie z rodziców lub opiekun,
-- **3)** pracownicę karmiącą dziecko piersią bez ich zgody. Inspektorom Inspekcji Ochrony Środowiska wykonującym czynności kontrolne przysługuje miesięczny dodatek inspekcyjny do wynagrodzenia w wysokości do 100% tego wynagrodzenia. Pracownicy Inspekcji Ochrony Środowiska podczas pełnienia obowiązków służbowych i w związku z pełnieniem tych obowiązków korzystają z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych. ” ;
+- **3)** pracownicę karmiącą dziecko piersią – bez ich zgody. Inspektorom Inspekcji Ochrony Środowiska wykonującym czynności kontrolne przysługuje miesięczny dodatek inspekcyjny do wynagrodzenia w wysokości do 100% tego wynagrodzenia. Pracownicy Inspekcji Ochrony Środowiska podczas pełnienia obowiązków służbowych i w związku z pełnieniem tych obowiązków korzystają z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych. ” ;
 - **7)** w art. 9: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -144,10 +166,22 @@ source: "eli-html"
 
 1c. Przez kontrole interwencyjne rozumie się kontrole przeprowadzane w związku z rozpatrywaniem skarg i interwencji dotyczących zanieczyszczenia środowiska lub podejrzenia wystąpienia takiego zanieczyszczenia, wystąpienia poważnych awarii lub w celu przeciwdziałania popełnieniu przestępstwa lub wykroczenia.
 
-1d. Kontrolę wykonują Główny Inspektor Ochrony Środowiska, wojewódzcy inspektorzy ochrony środowiska oraz upoważnieni przez nich inspektorzy Inspekcji Ochrony Środowiska, zwani dalej „inspektorami”. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) wstępu przez całą dobę wraz z niezbędnym sprzętem: a) na teren nieruchomości, obiektu lub ich części, na których prowadzona jest działalność gospodarcza, b) do środków transportu, c) na teren niezwiązany z prowadzeniem działalności gospodarczej; ” , – uchyla się pkt 1a, – pkt 2 i 3 otrzymują brzmienie: „ 2) przeprowadzania niezbędnych pomiarów lub badań, w tym pobierania próbek lub wykonywania innych czynności kontrolnych, w tym z użyciem bezzałogowych statków powietrznych, w celu ustalenia na terenie kontrolowanej nieruchomości, w obiekcie lub jego części, w kontrolowanym środku transportu, stanu środowiska oraz oceny tego stanu w świetle przepisów o ochronie środowiska, a także warunków wykonywania działalności wpływającej na środowisko indywidualnie określonych w decyzjach administracyjnych; 3) żądania wstrzymania ruchu lub uruchomienia instalacji lub urządzeń, w tym środków transportu oraz powstrzymania się od wykonywania innych czynności w zakresie, w jakim jest to niezbędne dla przeprowadzenia badań, w tym pobrania próbek i wykonania pomiarów; ” , – pkt 6–8 otrzymują brzmienie: „ 6) żądania pisemnych lub ustnych informacji oraz wzywania i przesłuchiwania osób w zakresie niezbędnym dla ustalenia stanu faktycznego przy jednoczesnym pouczeniu ich o odpowiedzialności karnej za składanie fałszywych zeznań, o której mowa w Kodeksie karnym; 7) żądania okazania dokumentów, w tym dokumentów finansowych i udostępnienia wszelkich danych mających związek z problematyką kontroli; 8) ustalania tożsamości osób oraz żądania okazania dokumentów niezbędnych do wymierzenia grzywny w drodze mandatu karnego lub sporządzenia wniosku o ukaranie; ” , – w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „ 10) określenia składu morfologicznego odpadów w oparciu o wiedzę ekspercką. ” , uchyla się ust. 2b i 3;
+1d. Kontrolę wykonują Główny Inspektor Ochrony Środowiska, wojewódzcy inspektorzy ochrony środowiska oraz upoważnieni przez nich inspektorzy Inspekcji Ochrony Środowiska, zwani dalej „inspektorami”. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **1)** wstępu przez całą dobę wraz z niezbędnym sprzętem: na teren nieruchomości, obiektu lub ich części, na których prowadzona jest działalność gospodarcza, do środków transportu, na teren niezwiązany z prowadzeniem działalności gospodarczej; ” , – uchyla się pkt 1a, pkt 2 i 3 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** przeprowadzania niezbędnych pomiarów lub badań, w tym pobierania próbek lub wykonywania innych czynności kontrolnych, w tym z użyciem bezzałogowych statków powietrznych, w celu ustalenia na terenie kontrolowanej nieruchomości, w obiekcie lub jego części, w kontrolowanym środku transportu, stanu środowiska oraz oceny tego stanu w świetle przepisów o ochronie środowiska, a także warunków wykonywania działalności wpływającej na środowisko indywidualnie określonych w decyzjach administracyjnych;
+- **3)** żądania wstrzymania ruchu lub uruchomienia instalacji lub urządzeń, w tym środków transportu oraz powstrzymania się od wykonywania innych czynności w zakresie, w jakim jest to niezbędne dla przeprowadzenia badań, w tym pobrania próbek i wykonania pomiarów; ” , pkt 6–8 otrzymują brzmienie: „
+- **6)** żądania pisemnych lub ustnych informacji oraz wzywania i przesłuchiwania osób w zakresie niezbędnym dla ustalenia stanu faktycznego przy jednoczesnym pouczeniu ich o odpowiedzialności karnej za składanie fałszywych zeznań, o której mowa w Kodeksie karnym;
+- **7)** żądania okazania dokumentów, w tym dokumentów finansowych i udostępnienia wszelkich danych mających związek z problematyką kontroli;
+- **8)** ustalania tożsamości osób oraz żądania okazania dokumentów niezbędnych do wymierzenia grzywny w drodze mandatu karnego lub sporządzenia wniosku o ukaranie; ” , w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+- **10)** określenia składu morfologicznego odpadów w oparciu o wiedzę ekspercką. ” , uchyla się ust. 2b i 3;
+    - **d)**
+
 - **8)** po art. 9 dodaje się art. 9a-9c w brzmieniu: „
 
 **Art. 9a.**
@@ -210,7 +244,7 @@ source: "eli-html"
 - **12)** art. 95–97 oraz art. 134 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym,
 - **13)** art. 45–47 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych,
 - **14)** art. 78, art. 80, art. 81 pkt 1 i 2, art. 83, art. 90 pkt 3, art. 91–92a i art. 94–95a ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach,
-- **15)** art. 19 ust. 1 ustawy z dnia 27 maja 2015 r. o zmianie ustawy o recyklingu pojazdów wycofanych z eksploatacji oraz niektórych innych ustaw (Dz. U. poz. 933 i 1688) Główny Inspektor Ochrony Środowiska, wojewódzki inspektor ochrony środowiska lub upoważnieni inspektorzy Inspekcji Ochrony Środowiska mogą podjąć czynności, o których mowa w ust. 2.
+- **15)** art. 19 ust. 1 ustawy z dnia 27 maja 2015 r. o zmianie ustawy o recyklingu pojazdów wycofanych z eksploatacji oraz niektórych innych ustaw (Dz. U. poz. 933 i 1688) – Główny Inspektor Ochrony Środowiska, wojewódzki inspektor ochrony środowiska lub upoważnieni inspektorzy Inspekcji Ochrony Środowiska mogą podjąć czynności, o których mowa w ust. 2.
 
 2. Główny Inspektor Ochrony Środowiska, wojewódzki inspektor ochrony środowiska lub upoważnieni inspektorzy Inspekcji Ochrony Środowiska mogą podjąć czynności polegające na:
 
@@ -431,7 +465,7 @@ source: "eli-html"
 **Art. 31b.** Kto, będąc do tego obowiązany na podstawie art. 23 ust. 16, nie gromadzi lub nie przetwarza danych lub informacji lub nie udostępnia ich nieodpłatnie na potrzeby państwowego monitoringu środowiska – podlega karze grzywny. 1. Kto:
 
 - **1)** uniemożliwia organowi Inspekcji Ochrony Środowiska przeprowadzanie kontroli albo
-- **2)** utrudnia organowi Inspekcji Ochrony Środowiska przeprowadzanie kontroli podlega karze pieniężnej w wysokości od 10 000 zł do 100 000 zł.
+- **2)** utrudnia organowi Inspekcji Ochrony Środowiska przeprowadzanie kontroli – podlega karze pieniężnej w wysokości od 10 000 zł do 100 000 zł.
 
 2. Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, właściwy organ Inspekcji Ochrony Środowiska.
 
@@ -439,7 +473,7 @@ source: "eli-html"
 
 4. Kary pieniężne stanowią dochód budżetu państwa i są wpłacane odpowiednio na rachunek bankowy wojewódzkiego inspektoratu ochrony środowiska albo Głównego Inspektoratu Ochrony Środowiska.
 
-5. Do kar pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska albo Głównemu Inspektorowi Ochrony Środowiska. ” .
+5. Do kar pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039 i 1075.), z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska albo Głównemu Inspektorowi Ochrony Środowiska. ” .
 
 **Art. 2.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2017 r. poz. 788 oraz z 2018 r. poz. 650 i 651) wprowadza się następujące zmiany:
 
@@ -449,15 +483,15 @@ source: "eli-html"
 
 - **1)** środków i procedur zapewniających dostęp do informacji, o których mowa w art. 6 ust. 1 lit. a rozporządzenia nr 995/2010, lub
 - **2)** procedur oceny ryzyka, o których mowa w art. 6 ust. 1 lit. b rozporządzenia nr 995/2010, lub
-- **3)** procedur ograniczania ryzyka, o których mowa w art. 6 ust. 1 lit. c rozporządzenia nr 995/2010 podlega administracyjnej karze pieniężnej w wysokości od 5000 zł do 500 000 zł. Kto, wbrew przepisowi art. 4 ust. 3 rozporządzenia nr 995/2010, nie utrzymuje lub nie ocenia regularnie stosowanych przez siebie:
+- **3)** procedur ograniczania ryzyka, o których mowa w art. 6 ust. 1 lit. c rozporządzenia nr 995/2010 – podlega administracyjnej karze pieniężnej w wysokości od 5000 zł do 500 000 zł. Kto, wbrew przepisowi art. 4 ust. 3 rozporządzenia nr 995/2010, nie utrzymuje lub nie ocenia regularnie stosowanych przez siebie:
 - **1)** środków i procedur zapewniających dostęp do informacji, o których mowa w art. 6 ust. 1 lit. a rozporządzenia nr 995/2010, lub
 - **2)** procedur oceny ryzyka, o których mowa w art. 6 ust. 1 lit. b rozporządzenia nr 995/2010, lub
-- **3)** procedur ograniczania ryzyka, o których mowa w art. 6 ust. 1 lit. c rozporządzenia nr 995/2010 podlega administracyjnej karze pieniężnej w wysokości od 5000 zł do 500 000 zł. ” ;
+- **3)** procedur ograniczania ryzyka, o których mowa w art. 6 ust. 1 lit. c rozporządzenia nr 995/2010 – podlega administracyjnej karze pieniężnej w wysokości od 5000 zł do 500 000 zł. ” ;
 - **2)** w art. 66e ust. 1 otrzymuje brzmienie: „
 
 1. Kto, wbrew przepisom art. 5 rozporządzenia nr 995/2010, nie przechowuje przez co najmniej 5 lat informacji pozwalających zidentyfikować operatorów lub podmioty handlowe, którzy dostarczyli mu drewno lub produkty z drewna, oraz podmioty handlowe, którym dostarczył drewno lub produkty z drewna, podlega administracyjnej karze pieniężnej w wysokości od 5000 zł do 20 000 zł. ” .
 
-**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm.) w art. 129 po ust. 4a dodaje się ust. 4aa w brzmieniu: „ 4aa. Kontrolę ruchu drogowego mogą przeprowadzać także inspektorzy Inspekcji Ochrony Środowiska, którym przysługują uprawnienia, o których mowa w ust. 2 pkt 1, 2, 21, 2a, pkt 7 lit. b, pkt 8 lit. b i pkt 11a. ” .
+**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z 2018 r. poz. 79, 106, 138, 317, 650, 957, 1099 i 1356.) w art. 129 po ust. 4a dodaje się ust. 4aa w brzmieniu: „ 4aa. Kontrolę ruchu drogowego mogą przeprowadzać także inspektorzy Inspekcji Ochrony Środowiska, którym przysługują uprawnienia, o których mowa w ust. 2 pkt 1, 2, 21, 2a, pkt 7 lit. b, pkt 8 lit. b i pkt 11a. ” .
 
 **Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799 i 1356) wprowadza się następujące zmiany:
 
@@ -473,7 +507,7 @@ source: "eli-html"
 - **1)** wyników klasyfikacji stref, o której mowa w art. 88 ust. 2,
 - **2)** wyników pomiarów, o których mowa w art. 90 ust. 1,
 - **3)** wyników oceny poziomów substancji w powietrzu i wyników klasyfikacji stref, o których mowa w art. 89,
-- **4)** informacji o stwierdzonych przekroczeniach alarmowych poziomów substancji w powietrzu, o których mowa w art. 93 dokonuje zbiorczej oceny jakości powietrza w skali kraju. ” ;
+- **4)** informacji o stwierdzonych przekroczeniach alarmowych poziomów substancji w powietrzu, o których mowa w art. 93 – dokonuje zbiorczej oceny jakości powietrza w skali kraju. ” ;
 - **5)** w art. 120a uchyla się ust. 3;
 - **6)** w art. 179 w ust. 4 w pkt 2 wyrazy „właściwemu wojewódzkiemu inspektorowi ochrony środowiska” zastępuje się wyrazami „Głównemu Inspektorowi Ochrony Środowiska”;
 - **7)** w art. 236d ust. 1 i 2 otrzymują brzmienie: „
@@ -492,7 +526,7 @@ source: "eli-html"
 
 - **1)** gdy kontrolowany organ nie realizuje zaleceń pokontrolnych, o których mowa w art. 96a ust. 3, w zakresie dotrzymania terminu uchwalenia programów ochrony powietrza oraz planów działań krótkoterminowych,
 - **2)** niedotrzymania ustawowego terminu uchwalenia programów ochrony powietrza oraz planów działań krótkoterminowych,
-- **3)** niedotrzymania terminów realizacji zadań określonych w programach ochrony powietrza oraz planach działań krótkoterminowych organ za to odpowiedzialny podlega karze pieniężnej w wysokości od 50 000 zł do 500 000 zł. ” ;
+- **3)** niedotrzymania terminów realizacji zadań określonych w programach ochrony powietrza oraz planach działań krótkoterminowych – organ za to odpowiedzialny podlega karze pieniężnej w wysokości od 50 000 zł do 500 000 zł. ” ;
 - **10)** uchyla się art. 329;
 - **11)** w art. 361 wyraz „329” zastępuje się wyrazem „330”;
 - **12)** w art. 400a w ust. 1 pkt 6 otrzymuje brzmienie: „
@@ -502,7 +536,7 @@ source: "eli-html"
 
 - **1)** usunięcia z pojazdów wycofanych z eksploatacji elementów lub substancji niebezpiecznych, w tym płynów,
 - **2)** wymontowania z pojazdów wycofanych z eksploatacji przedmiotów wyposażenia lub części nadających się do ponownego użycia,
-- **3)** wymontowania z pojazdów wycofanych z eksploatacji elementów nadających się do odzysku lub recyklingu podlega karze pieniężnej od 15 000 do 500 000 zł. ” .
+- **3)** wymontowania z pojazdów wycofanych z eksploatacji elementów nadających się do odzysku lub recyklingu – podlega karze pieniężnej od 15 000 do 500 000 zł. ” .
 
 **Art. 6.** W ustawie z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. z 2018 r. poz. 296) art. 32 i art. 33 otrzymują brzmienie: „
 
@@ -563,7 +597,7 @@ source: "eli-html"
 
 - **1)** narusza warunki, wymogi oraz obowiązki, o których mowa w art. 82 ust. 1 pkt 1 lit. b w zakresie fazy realizacji, lit. e oraz pkt 2 i 5, określone w decyzji o środowiskowych uwarunkowaniach,
 - **2)** nie realizuje działań służących zapobieganiu, ograniczaniu i kompensacji znaczącego negatywnego oddziaływania na obszar Natura 2000, określonych w decyzjach, o których mowa w art. 96 ust. 1, w ramach których przeprowadzono ocenę oddziaływania przedsięwzięcia na obszar Natura 2000,
-- **3)** narusza obowiązki i wymagania, o których mowa w art. 93 ust. 2 pkt 1 lit. b oraz pkt 2 i 4, określone w decyzjach, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, oraz pozwoleniu, o którym mowa w art. 82 ust. 1 pkt 4b podlega karze pieniężnej w wysokości od 5000 zł do 1 000 000 zł. ” . W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2016 r. poz. 1803 oraz z 2018 r. poz. 650) wprowadza się następujące zmiany:
+- **3)** narusza obowiązki i wymagania, o których mowa w art. 93 ust. 2 pkt 1 lit. b oraz pkt 2 i 4, określone w decyzjach, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, oraz pozwoleniu, o którym mowa w art. 82 ust. 1 pkt 4b – podlega karze pieniężnej w wysokości od 5000 zł do 1 000 000 zł. ” . W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2016 r. poz. 1803 oraz z 2018 r. poz. 650) wprowadza się następujące zmiany:
 - **1)** art. 97–99c otrzymują brzmienie: „
 
 **Art. 97.** Kto, wbrew przepisowi art. 10 ust. 1, wprowadza do obrotu baterie lub akumulatory niespełniające wymagań określonych w art. 8 lub art. 9, podlega karze pieniężnej od 2000 zł do 150 000 zł.
@@ -592,7 +626,7 @@ source: "eli-html"
 
 - **1)** naruszenie szczegółowych wymagań dla transportu odpadów,
 - **2)** przemieszczanie odpadów do nieuprawnionego odbiorcy,
-- **3)** naruszenie przepisów o międzynarodowym przemieszczaniu odpadów pojazd wraz z odpadami może zostać zatrzymany przez Krajową Administrację Skarbową, Straż Graniczną, Policję, Inspekcję Transportu Drogowego oraz organy Inspekcji Ochrony Środowiska.
+- **3)** naruszenie przepisów o międzynarodowym przemieszczaniu odpadów – pojazd wraz z odpadami może zostać zatrzymany przez Krajową Administrację Skarbową, Straż Graniczną, Policję, Inspekcję Transportu Drogowego oraz organy Inspekcji Ochrony Środowiska.
 
 2. Zatrzymany pojazd wraz z odpadami jest kierowany, na koszt podmiotu wykonującego transport odpadów, na wyznaczone w wojewódzkim planie gospodarki odpadami miejsce spełniające warunki magazynowania odpadów. Plan ten w części dotyczącej wyznaczenia miejsc spełniających warunki magazynowania odpadów podlega zaopiniowaniu przez właściwych starostów, na terenie działania których mają zostać wyznaczone te miejsca.
 
@@ -734,12 +768,12 @@ source: "eli-html"
 1. Kto, wbrew obowiązkowi określonemu w:
 
 - **1)** art. 123 ust. 2, nie przechowuje zaświadczeń, o których mowa w art. 123 ust. 1,
-- **2)** art. 131 ust. 3, nie przechowuje dodatkowej ewidencji, o której mowa w art. 32 ust. 1 ustawy, o której mowa w art. 141, oraz zaświadczeń, o których mowa w art. 53 i art. 54 ustawy, o której mowa w art. 141 podlega administracyjnej karze pieniężnej w wysokości od 10 000 zł do 300 000 zł. ” .
+- **2)** art. 131 ust. 3, nie przechowuje dodatkowej ewidencji, o której mowa w art. 32 ust. 1 ustawy, o której mowa w art. 141, oraz zaświadczeń, o których mowa w art. 53 i art. 54 ustawy, o której mowa w art. 141 – podlega administracyjnej karze pieniężnej w wysokości od 10 000 zł do 300 000 zł. ” .
 
 **Art. 13.** W ustawie z dnia 19 lipca 2016 r. o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania (Dz. U. poz. 1340) art. 11–15 otrzymują brzmienie: „ Kto, wbrew obowiązkowi określonemu w art. 4 ust. 2 rozporządzenia nr 511/2014, przekazuje lub wykorzystuje zasoby genetyczne lub tradycyjną wiedzę związaną z zasobami genetycznymi bez wzajemnie uzgodnionych warunków lub niezgodnie z tymi warunkami, podlega karze pieniężnej w wysokości od 5000 zł do 100 000 zł. Kto, wbrew obowiązkowi określonemu w:
 
 - **1)** art. 4 ust. 3 rozporządzenia nr 511/2014, nie uzyskuje, nie zachowuje lub nie przekazuje kolejnym użytkownikom informacji i dokumentów, o których mowa w tym przepisie,
-- **2)** art. 4 ust. 6 rozporządzenia nr 511/2014, nie przechowuje informacji związanych z dostępem i podziałem korzyści przez dwadzieścia lat od zakończenia okresu wykorzystania podlega karze pieniężnej w wysokości od 1000 zł do 100 000 zł. Kto, wbrew obowiązkowi określonemu w art. 4 ust. 5 rozporządzenia nr 511/2014, wykorzystuje zasoby genetyczne mimo nieuzyskania zezwolenia na dostęp lub jego równoważnika oraz nieustanowienia wzajemnie uzgodnionych warunków, podlega karze pieniężnej w wysokości od 10 000 zł do 200 000 zł.
+- **2)** art. 4 ust. 6 rozporządzenia nr 511/2014, nie przechowuje informacji związanych z dostępem i podziałem korzyści przez dwadzieścia lat od zakończenia okresu wykorzystania – podlega karze pieniężnej w wysokości od 1000 zł do 100 000 zł. Kto, wbrew obowiązkowi określonemu w art. 4 ust. 5 rozporządzenia nr 511/2014, wykorzystuje zasoby genetyczne mimo nieuzyskania zezwolenia na dostęp lub jego równoważnika oraz nieustanowienia wzajemnie uzgodnionych warunków, podlega karze pieniężnej w wysokości od 10 000 zł do 200 000 zł.
 
 **Art. 14.** Kto, wbrew obowiązkowi określonemu w art. 7 ust. 1 rozporządzenia nr 511/2014, nie złożył oświadczenia o dołożeniu należytej staranności, podlega karze pieniężnej w wysokości od 1000 zł do 20 000 zł.
 
@@ -894,6 +928,6 @@ source: "eli-html"
 
 - **1)** art. 1 pkt 8 w zakresie art. 9b ust. 5, art. 19 ust. 2, art. 27 ust. 1 i art. 30, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 1 pkt 1 lit. b i c, pkt 2 lit. a tiret pierwsze, pkt 7–15 i 26, art. 3, art. 9, art. 15, art. 19 ust. 7, art. 20 oraz art. 22, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-- **3)** art. 11 pkt 1 w zakresie art. 49 pkt 6, który wchodzi w życie z dniem 1 stycznia 2020 r.
+- **3)** art. 11 pkt 1 w zakresie art. 49 pkt 6, który wchodzi w życie z dniem 1 stycznia 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, ustawę z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych, ustawę z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, ustawę z dnia 19 lipca 2016 r. o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania, ustawę z dnia 20 lipca 2017 r. – Prawo wodne oraz ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039 i 1075. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z 2018 r. poz. 79, 106, 138, 317, 650, 957, 1099 i 1356.
 
 

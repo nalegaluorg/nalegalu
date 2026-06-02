@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 4 stycznia 2024 r. zmieniające rozporządzenie w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 4 stycznia 2024 r. zmieniające rozporządzenie w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 2721).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-01-04 |
 | Data wydania | 2024-01-11 |
-| Wejście w życie | 2024-01-12 |
 | Ostatnia zmiana | 2025-01-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/39/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 191 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 191 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 11 marca 2014 r. w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej (Dz. U. z 2021 r. poz. 1222) wprowadza się następujące zmiany:
 1)
@@ -61,6 +60,5 @@ w pkt 4:
 § 2.
 W zakresie zwrotu opłaty za postępowanie kwalifikacyjne oraz ustalania wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej w postępowaniach kwalifikacyjnych w sprawie nadania uprawnień zawodowych w zakresie szacowania nieruchomości przeprowadzonych w terminach określonych komunikatem Ministra Rozwoju i Technologii z dnia 29 grudnia 2022 r. w sprawie ogłoszenia terminów i miejsca przeprowadzania postępowania kwalifikacyjnego dla osób ubiegających się o nadanie uprawnień zawodowych w zakresie szacowania nieruchomości (Dz. Urz. Min. Roz. i Tech. poz. 56) stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 2721). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 2721). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029.
 

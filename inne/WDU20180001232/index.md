@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 8 czerwca 2018 r. w sprawie przesyłek w głosowaniu korespondencyjnym
+# Rozporządzenie Ministra Infrastrukturyz dnia 8 czerwca 2018 r. w sprawie przesyłek w głosowaniu korespondencyjnym Minister Infrastruktury kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-08 |
 | Data wydania | 2018-06-26 |
-| Wejście w życie | 2018-07-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001232) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1232/text.pdf) |
 
@@ -65,6 +64,5 @@ Przekazanie zgromadzonych pakietów wyborczych następuje przez jednorazowe wyda
 § 6.
 Koperty zwrotne niedostarczone do obwodowej komisji wyborczej do zakończenia głosowania operator wyznaczony przekazuje właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego przez jednorazowe wydanie ich osobie uprawnionej do odbioru przesyłek w siedzibie delegatury Krajowego Biura Wyborczego, za pokwitowaniem odbioru.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 21 stycznia 2015 r. w sprawie przesyłek w głosowaniu korespondencyjnym w kraju (Dz. U. poz. 131), które zgodnie z art. 18 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 21 stycznia 2015 r. w sprawie przesyłek w głosowaniu korespondencyjnym w kraju (Dz. U. poz. 131), które zgodnie z art. 18 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 21 stycznia 2015 r. w sprawie przesyłek w głosowaniu korespondencyjnym w kraju (Dz. U. poz. 131), które zgodnie z art. 18 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

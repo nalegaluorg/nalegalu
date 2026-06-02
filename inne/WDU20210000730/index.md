@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 15 kwietnia 2021 r. w sprawie konsultacji w celu wprowadzenia ograniczeń operacyjnych w porcie lotniczym
+# Rozporządzenie Ministra Infrastrukturyz dnia 15 kwietnia 2021 r. w sprawie konsultacji w celu wprowadzenia ograniczeń operacyjnych w porcie lotniczym Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-15 |
 | Data wydania | 2021-04-21 |
-| Wejście w życie | 2021-04-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/730/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 71e ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970) zarządza się, co następuje:
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 598/2014 z dnia 16 kwietnia 2014 r. w sprawie ustanowienia zasad i procedur w odniesieniu do wprowadzenia ograniczeń operacyjnych odnoszących się do poziomu hałasu w portach lotniczych Unii w ramach zrównoważonego podejścia oraz uchylającego dyrektywę 2002/30/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 65). Na podstawie art. 71e ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -103,7 +102,11 @@ istniejących i planowanych środkach mających na celu zarządzanie hałasem em
 – zmniejszenia hałasu u źródła, na podstawie zgromadzonych informacji o obecnej flocie statków powietrznych, spodziewanych udoskonaleniach technicznych i planach odnowienia floty,
 – planowania i zagospodarowania przestrzennego, na podstawie zgromadzonych informacji o stosowanych instrumentach planowania przestrzennego oraz środkach służących zmniejszaniu hałasu, takich jak programy izolacji akustycznej lub środki mające na celu ograniczenie obszaru użytkowanych gruntów wrażliwych, o których mowa w pkt 1.4.2 lit. a i b załącznika I do rozporządzenia nr 598/2014, procesów konsultacji w sprawie środków związanych z użytkowaniem gruntów, monitorowaniem nielegalnego przekraczania zabudową granic sąsiednich działek ewidencyjnych oraz szacowanej liczby osób narażonych na hałas emitowany przez statki powietrzne, z rozróżnieniem istniejących, nowo wybudowanych lub planowanych osiedli mieszkalnych, o których mowa w pkt 2.4 załącznika I do rozporządzenia nr 598/2014,
 – operacyjnych środków ochrony przed hałasem, w zakresie, w jakim środki te nie ograniczają przepustowości portu lotniczego, w tym użytkowania preferowanych dróg startowych, korzystania z tras preferowanych ze względu na hałas, korzystania z procedur służących zmniejszeniu poziomu hałasu przy starcie i lądowaniu, zakresu, w jakim środki te są regulowane na podstawie kluczowych wskaźników skuteczności działania, o których mowa w załączniku I w sekcji 1 pkt 2.1 do rozporządzenia wykonawczego Komisji nr 2019/317 z dnia 11 lutego 2019 r. ustanawiającego system skuteczności działania i opłat w jednolitej europejskiej przestrzeni powietrznej oraz uchylającego rozporządzenia wykonawcze (UE) nr 390/2013 i (UE) nr 391/2013,
-– ograniczeń operacyjnych, w tym o: – – wykorzystaniu ograniczeń o charakterze globalnym, takich jak ograniczenia w odniesieniu do liczby operacji lub ilościowe limity hałasu, – – stosowaniu ograniczeń w stosunku do określonych statków powietrznych, takich jak wycofywanie z eksploatacji statków powietrznych marginalnie zgodnych, o których mowa w art. 2 pkt 4 rozporządzenia nr 598/2014, – – stosowaniu ograniczeń częściowych, w podziale na środki stosowane w ciągu dnia i w nocy, – – stosowanych instrumentach finansowych, takich jak opłaty lotniskowe z tytułu emisji hałasu;
+ograniczeń operacyjnych, w tym o:
+– – wykorzystaniu ograniczeń o charakterze globalnym, takich jak ograniczenia w odniesieniu do liczby operacji lub ilościowe limity hałasu,
+– – stosowaniu ograniczeń w stosunku do określonych statków powietrznych, takich jak wycofywanie z eksploatacji statków powietrznych marginalnie zgodnych, o których mowa w art. 2 pkt 4 rozporządzenia nr 598/2014,
+– – stosowaniu ograniczeń częściowych, w podziale na środki stosowane w ciągu dnia i w nocy,
+– – stosowanych instrumentach finansowych, takich jak opłaty lotniskowe z tytułu emisji hałasu;
 5)
 prognozowanym stanie w porcie lotniczym, bez uwzględnienia nowych środków, uwzględniającym plany rozwoju i rozbudowy portu lotniczego, w tym określone w planie generalnym lotniska użytku publicznego, o którym mowa w art. 55 ust. 5 ustawy, z uwzględnieniem:
 a)
@@ -173,8 +176,7 @@ instytucji zapewniającej służby żeglugi powietrznej,
 c)
 menedżerowi sieci, o którym mowa w art. 2 pkt 6 rozporządzenia wykonawczego Komisji (UE) 2019/123 z dnia 24 stycznia 2019 r. ustanawiającego szczegółowe przepisy wykonawcze dotyczące funkcji sieciowych zarządzania ruchem lotniczym (ATM) oraz uchylającego rozporządzenie Komisji (UE) nr 677/2011,
 d)
-koordynatorowi, o którym mowa w art. 67b ust. 1 ustawy, albo organizatorowi rozkładów lotów, o którym mowa w art. 67e ust. 1 ustawy – jeżeli zostali powołani
-wraz z metodą oceny hałasu i wynikami oceny hałasu, łącznie ze streszczeniem i podsumowaniem w języku niespecjalistycznym.
+koordynatorowi, o którym mowa w art. 67b ust. 1 ustawy, albo organizatorowi rozkładów lotów, o którym mowa w art. 67e ust. 1 ustawy – jeżeli zostali powołani – wraz z metodą oceny hałasu i wynikami oceny hałasu, łącznie ze streszczeniem i podsumowaniem w języku niespecjalistycznym.
 5.
 W celu zawiadomienia o rozpoczęciu konsultacji podmiotów, o których mowa w ust. 3 pkt 6, zarządzający portem lotniczym, w terminie co najmniej 14 dni przed planowaną datą rozpoczęcia konsultacji, udostępnia informację o rozpoczęciu konsultacji za pośrednictwem środków komunikacji społecznej innych niż środki, o których mowa w ust. 4, w tym w prasie lokalnej oraz lokalnej rozgłośni radiowej.
 6.
@@ -231,6 +233,5 @@ Sprawozdanie z przebiegu konsultacji zarządzający portem lotniczym podaje niez
 11.
 Informacje o zakończeniu konsultacji wraz ze wskazaniem miejsca publikacji sprawozdania z przebiegu konsultacji zarządzający portem lotniczym podaje niezwłocznie do publicznej wiadomości za pośrednictwem środków określonych w § 4 ust. 5.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 598/2014 z dnia 16 kwietnia 2014 r. w sprawie ustanowienia zasad i procedur w odniesieniu do wprowadzenia ograniczeń operacyjnych odnoszących się do poziomu hałasu w portach lotniczych Unii w ramach zrównoważonego podejścia oraz uchylającego dyrektywę 2002/30/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 65). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 30 stycznia 2007 r. w sprawie określenia zakresu informacji wymaganych do wydania decyzji o wprowadzeniu ograniczeń lub zakazów wykonywania operacji lotniczych w celu ograniczenia hałasu emitowanego na lotnisku (Dz. U. poz. 133), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) utraciło moc z dniem 2 października 2020 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 30 stycznia 2007 r. w sprawie określenia zakresu informacji wymaganych do wydania decyzji o wprowadzeniu ograniczeń lub zakazów wykonywania operacji lotniczych w celu ograniczenia hałasu emitowanego na lotnisku (Dz. U. poz. 133), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) utraciło moc z dniem 2 października 2020 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 598/2014 z dnia 16 kwietnia 2014 r. w sprawie ustanowienia zasad i procedur w odniesieniu do wprowadzenia ograniczeń operacyjnych odnoszących się do poziomu hałasu w portach lotniczych Unii w ramach zrównoważonego podejścia oraz uchylającego dyrektywę 2002/30/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 65). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu z dnia 30 stycznia 2007 r. w sprawie określenia zakresu informacji wymaganych do wydania decyzji o wprowadzeniu ograniczeń lub zakazów wykonywania operacji lotniczych w celu ograniczenia hałasu emitowanego na lotnisku (Dz. U. poz. 133), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) utraciło moc z dniem 2 października 2020 r.
 

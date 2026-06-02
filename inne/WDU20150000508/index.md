@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 11 kwietnia 2011 r. w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. Nr 86, poz. 471), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 21 listopada 2014 r. zmieniającym rozporządzenie w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. poz. 1729).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 21 listopada 2014 r. zmieniającego rozporządzenie w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. poz. 1729), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 21 listopada 2014 r. zmieniającego rozporządzenie w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. poz. 1729), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 11 kwietnia 2011 r. w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa
 Na podstawie art. 10 ust. 4 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2013 r. poz. 1166) zarządza się, co następuje:
-§ 1.
+§ 1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 21 listopada 2014 r. zmieniającego rozporządzenie w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. poz. 1729), które weszło w życie z dniem 20 grudnia 2014 r..
 1.
 W skład Rządowego Centrum Bezpieczeństwa, zwanego dalej „Centrum”, wchodzą:
 1)
@@ -60,9 +58,9 @@ W biurach mogą być tworzone wydziały, sekcje lub jednoosobowe samodzielne sta
 3.
 W Centrum mogą być tworzone jednoosobowe samodzielne stanowiska pracy podległe bezpośrednio dyrektorowi Centrum lub jego zastępcom.
 § 2.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 Centrum kieruje dyrektor przy pomocy zastępców i szefa Samodzielnego Wydziału Ochrony i Kontroli.
-1a.
+1aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Biurami kierują zastępcy dyrektora Centrum.
 2.
 Dyrektor Centrum może upoważnić pracowników Centrum do działania w jego imieniu w określonych przez niego sprawach.
@@ -70,7 +68,7 @@ Dyrektor Centrum może upoważnić pracowników Centrum do działania w jego imi
 W razie nieobecności dyrektora pracą Centrum kieruje wyznaczony przez niego zastępca dyrektora.
 4.
 Do zadań dyrektora Centrum należy:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1.)
 powoływanie i odwoływanie szefa Samodzielnego Wydziału Ochrony i Kontroli;
 2)
 udzielanie pełnomocnictw osobom fizycznym i prawnym do dokonywania określonych czynności cywilnoprawnych i faktycznych;
@@ -98,7 +96,7 @@ wydawać decyzje i wytyczne w sprawach związanych z zakresem działania Centrum
 1.
 Funkcja krajowego centrum zarządzania kryzysowego jest realizowana przez pełnienie całodobowego dyżuru w Centrum.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
 3.
 Centrum pracuje w trybie ciągłym, z zapewnieniem zmianowej pracy osób w nim zatrudnionych w czasie obowiązywania stanu nadzwyczajnego oraz występowania sytuacji kryzysowej, w których działania podejmuje właściwy organ zarządzania kryzysowego obsługiwany przez Centrum.
 4.
@@ -106,5 +104,5 @@ Dyrektor Centrum może wprowadzić tryb pracy ciągłej w sytuacji prowadzenia l
 § 4.
 Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 10 lipca 2008 r. w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. Nr 128, poz. 821).
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 22 kwietnia 2011 r.. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 21 listopada 2014 r. zmieniającego rozporządzenie w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. poz. 1729), które weszło w życie z dniem 20 grudnia 2014 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1. 5) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 6) Rozporządzenie zostało ogłoszone w dniu 22 kwietnia 2011 r.
 

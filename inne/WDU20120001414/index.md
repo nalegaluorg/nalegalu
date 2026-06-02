@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-16 |
 | Data wydania | 2012-12-17 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1414/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. Nr 251, poz. 2507, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. Nr 251, poz. 2507, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 249, poz. 1832, z 2007 r. Nr 64, poz. 427 i Nr 123, poz. 847, z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 92, poz. 753 oraz z 2010 r. Nr 257, poz. 1726.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 3 i 4 otrzymują brzmienie: „
 
@@ -58,5 +57,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe statuty wojewódzkich ośrodków doradztwa rolniczego nadane na podstawie art. 3 ust. 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie statutów wojewódzkich ośrodków doradztwa rolniczego nadanych na podstawie art. 3 ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3, który wchodzi w życie z dniem 1 stycznia 2013 r.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3, który wchodzi w życie z dniem 1 stycznia 2013 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 249, poz. 1832, z 2007 r. Nr 64, poz. 427 i Nr 123, poz. 847, z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 92, poz. 753 oraz z 2010 r. Nr 257, poz. 1726.
 

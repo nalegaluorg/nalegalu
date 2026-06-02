@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 10 grudnia 2020 r. w sprawie szczegółowego zakresu zadań psychologa w ramach wsparcia psychologicznego dyspozytorów medycznych
+# Rozporządzenie Ministra Zdrowiaz dnia 10 grudnia 2020 r. w sprawie szczegółowego zakresu zadań psychologa w ramach wsparcia psychologicznego dyspozytorów medycznych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-10 |
 | Data wydania | 2020-12-21 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002307) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2307/text.pdf) |
 
@@ -154,6 +153,5 @@ Psycholog udostępnia raport roczny, o którym mowa w ust. 1, kierownikowi wła�
 § 8.
 Pierwszy raport roczny, o którym mowa w § 7 ust. 1, psycholog opracowuje i przekazuje wojewodzie za 2021 r.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 

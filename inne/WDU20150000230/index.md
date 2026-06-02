@@ -22,20 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-17 |
 | Data wydania | 2015-02-19 |
-| Wejście w życie | 2015-02-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/230/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2014 r. poz. 1438) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187) po § 13 dodaje się § 13a w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187) po § 13 dodaje się § 13a w brzmieniu: „
 § 13a.
 1.
-W 2015 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu, w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który w 2014 r. poniósł szkody wyrządzone przez dziki w uprawach rolnych położonych na obszarach ochronnych lub obszarach objętych ograniczeniami, o których mowa w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 31 marca 2014 r. w sprawie środków podejmowanych w związku z wystąpieniem u dzików afrykańskiego pomoru świń (Dz. U. poz. 420, z późn. zm.).
+W 2015 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu, w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który w 2014 r. poniósł szkody wyrządzone przez dziki w uprawach rolnych położonych na obszarach ochronnych lub obszarach objętych ograniczeniami, o których mowa w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 31 marca 2014 r. w sprawie środków podejmowanych w związku z wystąpieniem u dzików afrykańskiego pomoru świń (Dz. U. poz. 420, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2014 r. poz. 1205, 1394 i 1846.).
 2.
-Pomoc, o której mowa w ust. 1, może być również udzielona producentowi rolnemu, który uzyskał pomoc na warunkach określonych w § 14f rozporządzenia Rady Ministrów z dnia 22 stycznia 2009 r. w sprawie realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 22, poz. 121, z późn. zm.).
+Pomoc, o której mowa w ust. 1, może być również udzielona producentowi rolnemu, który uzyskał pomoc na warunkach określonych w § 14f rozporządzenia Rady Ministrów z dnia 22 stycznia 2009 r. w sprawie realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 22, poz. 121, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 645 i Nr 95, poz. 793, z 2010 r. Nr 4, poz. 27, Nr 107, poz. 681 i 682 i Nr 208, poz. 1374, z 2012 r. poz. 408 i 988, z 2013 r. poz. 998 oraz z 2014 r. poz. 527, 1333, 1536, 1630 i 1904.).
 3.
 Pomoc, o której mowa w ust. 1, ma charakter pomocy de minimis w rolnictwie i jest udzielana zgodnie z przepisami rozporządzenia nr 1408/2013 oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
 4.
@@ -67,8 +65,7 @@ odszkodowanie z tytułu szkód określonych w ust. 1, przyznawane na podstawie p
 b)
 pomoc, o której mowa w § 14f rozporządzenia Rady Ministrów z dnia 22 stycznia 2009 r. w sprawie realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa, a jeżeli uzyskał taką pomoc – również o jej wysokości;
 4)
-oświadczenie producenta rolnego, że w przypadku otrzymania pomocy, o której mowa w ust. 1, nie będzie ubiegał się o odszkodowanie przyznawane na podstawie przepisów prawa łowieckiego z tytułu wyrządzonych szkód określonych w ust. 1.
-” .
+oświadczenie producenta rolnego, że w przypadku otrzymania pomocy, o której mowa w ust. 1, nie będzie ubiegał się o odszkodowanie przyznawane na podstawie przepisów prawa łowieckiego z tytułu wyrządzonych szkód określonych w ust. 1. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2014 r. poz. 1205, 1394 i 1846. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 76, poz. 645 i Nr 95, poz. 793, z 2010 r. Nr 4, poz. 27, Nr 107, poz. 681 i 682 i Nr 208, poz. 1374, z 2012 r. poz. 408 i 988, z 2013 r. poz. 998 oraz z 2014 r. poz. 527, 1333, 1536, 1630 i 1904.
 

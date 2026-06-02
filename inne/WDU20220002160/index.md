@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 29 września 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 29 września 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -41,32 +41,23 @@ rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 4 kwietnia 
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2018 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 244), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2018 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 244), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2019 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 559), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2019 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 559), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 5 kwietnia 2019 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 5 kwietnia 2019 r. ” ;
 3)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lutego 2022 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 444), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lutego 2022 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 444), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 4)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 766), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 766), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 września 2014 r. w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów
-Na podstawie art. 110b ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 września 2014 r. w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantówObecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Na podstawie art. 110b ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2333, 2447 i 2448 oraz z 2022 r. poz. 655, 1115, 1488 i 1855.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -102,15 +93,14 @@ Nagrodę motywacyjną i zapomogę wypłaca się w terminie 14 dni od dnia ich pr
 § 6.
 1.
 Przełożonymi właściwymi w zakresie przyznawania nagrody motywacyjnej i zapomogi są:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2018 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 244), które weszło w życie z dniem 27 stycznia 2018 r.)
 minister właściwy do spraw wewnętrznych w stosunku do policjanta na stanowisku służbowym Komendanta Głównego Policji i jego zastępcy oraz w stosunku do policjanta na stanowisku służbowym Komendanta Biura Spraw Wewnętrznych Policji i jego zastępcy, a w szczególnie uzasadnionych przypadkach także w stosunku do innych policjantów;
 2)
 Komendant Główny Policji w stosunku do policjanta na stanowisku służbowym:
 a)
 Komendanta Centralnego Biura Śledczego Policji i jego zastępców,
-aa)
-Komendanta Centralnego Biura Zwalczania Cyberprzestępczości i jego zastępców,
-ab) Dyrektora Centralnego Laboratorium Kryminalistycznego Policji i jego zastępców,
+aaDodana przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lutego 2022 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 444), które weszło w życie z dniem 23 lutego 2022 r.)
+Komendanta Centralnego Biura Zwalczania Cyberprzestępczości i jego zastępców, ab)Dodana przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 766), które weszło w życie z dniem 7 kwietnia 2022 r. Dyrektora Centralnego Laboratorium Kryminalistycznego Policji i jego zastępców,
 b)
 komendanta wojewódzkiego Policji, Komendanta Stołecznego Policji i ich zastępców,
 c)
@@ -118,24 +108,24 @@ Komendanta-rektora, Zastępcy Komendanta-prorektora i kanclerza Wyższej Szkoły
 d)
 komendanta szkoły policyjnej i jego zastępców,
 e)
-(uchylona),
+(uchylona),Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 5.
 f)
 w Komendzie Głównej Policji lub pozostającego w jego dyspozycji, z wyłączeniem swoich zastępców,
-g)
+gDodana przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2019 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 559), które weszło w życie z dniem 5 kwietnia 2019 r.)
 dowódcy Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” i jego zastępców;
 3)
 Komendant Centralnego Biura Śledczego Policji w stosunku do policjanta na stanowisku służbowym w Centralnym Biurze Śledczym Policji lub pozostającego w jego dyspozycji, z wyłączeniem swoich zastępców;
-3a)
+3aDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 Komendant Biura Spraw Wewnętrznych Policji w stosunku do policjanta na stanowisku służbowym w Biurze Spraw Wewnętrznych Policji lub pozostającego w jego dyspozycji, z wyłączeniem swoich zastępców;
-3b)
+3bDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4.)
 Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do policjanta na stanowisku służbowym w Centralnym Biurze Zwalczania Cyberprzestępczości lub pozostającego w jego dyspozycji, z wyłączeniem swoich zastępców;
-3c)
+3cDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5.)
 Dyrektor Centralnego Laboratorium Kryminalistycznego Policji w stosunku do policjanta na stanowisku służbowym w Centralnym Laboratorium Kryminalistycznym Policji lub pozostającego w jego dyspozycji, z wyłączeniem swoich zastępców;
 4)
 komendant wojewódzki Policji, Komendant Stołeczny Policji w stosunku do policjanta na stanowisku służbowym:
 a)
 komendanta powiatowego, miejskiego i rejonowego Policji oraz ich zastępców,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 7.)
 w komendzie wojewódzkiej Policji, Komendzie Stołecznej Policji, oddziale prewencji Policji, samodzielnym pododdziale prewencji Policji, samodzielnym pododdziale kontrterrorystycznym Policji, komisariacie specjalistycznym Policji oraz ośrodku szkolenia Policji lub pozostającego w jego dyspozycji, z wyłączeniem swoich zastępców;
 5)
 komendant powiatowy, miejski, rejonowy Policji w stosunku do policjanta na stanowisku służbowym:
@@ -148,8 +138,8 @@ Komendant-rektor Wyższej Szkoły Policji w Szczytnie w stosunku do policjanta n
 7)
 komendant szkoły policyjnej w stosunku do policjanta na stanowisku służbowym w szkole policyjnej lub pozostającego w jego dyspozycji, z wyłączeniem swoich zastępców;
 8)
-(uchylony).
-1a.
+(uchylony).Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 5.
+1aDodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 7..
 Dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” przyznaje nagrody motywacyjne i zapomogi policjantom na stanowiskach służbowych w Centralnym Pododdziale Kontrterrorystycznym Policji „BOA”, z wyłączeniem swoich zastępców.
 2.
 Dyrektorzy komórek organizacyjnych Komendy Głównej Policji przyznają nagrody motywacyjne i zapomogi podległym im policjantom, z wyłączeniem swoich zastępców.
@@ -166,23 +156,23 @@ a)
 policjantów tej jednostki organizacyjnej Policji,
 b)
 Centralnego Biura Śledczego Policji,
-c)
+cDodana przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 Biura Spraw Wewnętrznych Policji,
-d)
+dDodana przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7.)
 Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”,
-e)
+eDodana przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4.)
 Centralnego Biura Zwalczania Cyberprzestępczości,
-f)
+fDodana przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 5.)
 Centralnego Laboratorium Kryminalistycznego Policji;
 2)
 komendzie wojewódzkiej Policji i Komendzie Stołecznej Policji;
 3)
 Wyższej Szkole Policji w Szczytnie i szkołach policyjnych;
 4)
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 5.
 2.
 Wysokość funduszu wynosi 2,25% planowanych na dany rok kalendarzowy środków na uposażenie zasadnicze wraz z dodatkami do uposażenia o charakterze stałym. W ramach funduszu pozostawia się do dyspozycji ministra właściwego do spraw wewnętrznych środki w wysokości nieprzekraczającej kwoty wynikającej z iloczynu kwoty stanowiącej 0,1% przeciętnego uposażenia policjantów i ogólnej liczby etatów Policji, z przeznaczeniem na nagrody motywacyjne i zapomogi dla policjantów.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 5..
 W ramach funduszu utworzonego w Komendzie Głównej Policji wyodrębnia się środki do dyspozycji Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, Komendanta Centralnego Biura Zwalczania Cyberprzestępczości i Dyrektora Centralnego Laboratorium Kryminalistycznego Policji, z przeznaczeniem na nagrody motywacyjne i zapomogi dla policjantów pełniących służbę w podległej im jednostce organizacyjnej. Przepis ust. 2 zdanie pierwsze stosuje się odpowiednio.
 4.
 W ramach funduszu utworzonego w jednostkach organizacyjnych, o których mowa w ust. 1 pkt 2, wyodrębnia się środki do dyspozycji właściwych miejscowo komendantów powiatowych, miejskich i rejonowych Policji, z przeznaczeniem na nagrody motywacyjne i zapomogi dla policjantów pełniących służbę w podległych im jednostkach organizacyjnych. Przepis ust. 2 zdanie pierwsze stosuje się odpowiednio.
@@ -200,6 +190,5 @@ Wysokość funduszu, niezależnie od zwiększenia, o którym mowa w art. 121g us
 2.
 Środki wyodrębnione w trybie określonym w § 8 ust. 3 i 4 mogą być podwyższane, na warunkach określonych w ust. 1, odpowiednio przez Komendanta Głównego Policji i właściwego terytorialnie komendanta wojewódzkiego Policji lub Komendanta Stołecznego Policji.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 9 października 2014 r.
-1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2333, 2447 i 2448 oraz z 2022 r. poz. 655, 1115, 1488 i 1855. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2018 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 244), które weszło w życie z dniem 27 stycznia 2018 r. 4) Dodana przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lutego 2022 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 444), które weszło w życie z dniem 23 lutego 2022 r. 5) Dodana przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 766), które weszło w życie z dniem 7 kwietnia 2022 r. 6) Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 5. 7) Dodana przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2019 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 559), które weszło w życie z dniem 5 kwietnia 2019 r. 8) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 9) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4. 10) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5. 11) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 7. 12) Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 5. 13) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 7. 14) Dodana przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 15) Dodana przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7. 16) Dodana przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 17) Dodana przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 5. 18) Przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 5. 19) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 5. 20) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 grudnia 2006 r. w sprawie przyznawania policjantom nagród i zapomóg, a także sposobu tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 1859), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 17 pkt 1 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502).
+Rozporządzenie wchodzi w życie z dniem 9 października 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 grudnia 2006 r. w sprawie przyznawania policjantom nagród i zapomóg, a także sposobu tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 1859), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 17 pkt 1 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502). 1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2333, 2447 i 2448 oraz z 2022 r. poz. 655, 1115, 1488 i 1855. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2018 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 244), które weszło w życie z dniem 27 stycznia 2018 r. 4) Dodana przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lutego 2022 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 444), które weszło w życie z dniem 23 lutego 2022 r. 5) Dodana przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 766), które weszło w życie z dniem 7 kwietnia 2022 r. 6) Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 5. 7) Dodana przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2019 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 559), które weszło w życie z dniem 5 kwietnia 2019 r. 8) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 9) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4. 10) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5. 11) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 7. 12) Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 5. 13) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 7. 14) Dodana przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 15) Dodana przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7. 16) Dodana przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 17) Dodana przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 5. 18) Przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 5. 19) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 5. 20) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 grudnia 2006 r. w sprawie przyznawania policjantom nagród i zapomóg, a także sposobu tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 1859), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 17 pkt 1 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502).
 

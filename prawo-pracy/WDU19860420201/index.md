@@ -22,15 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1986-11-24 |
 | Data wydania | 1986-12-06 |
-| Wejście w życie | 1987-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19860420201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1986/201/text.pdf) |
 
+Układy zbiorowe pracy i zakładowe umowy zbiorowe
+Układ zbiorowy pracy
+Zakładowa umowa zbiorowa
+
 **Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. Nr 24, poz. 141, z 1975 r. Nr 16, poz. 91, z 1981 r. Nr 6, poz. 23, z 1982 r. Nr 31, poz. 214 oraz z 1985 r. Nr 20, poz. 85 i Nr 35, poz. 162) dział jedenasty otrzymuje brzmienie: „
 
-### Dział jedenasty Układy zbiorowe pracy i zakładowe umowy zbiorowe
+### Dział jedenasty
 
-#### Rozdział I Układ zbiorowy pracy
+#### Rozdział I
 
 **Art. 238.**
 
@@ -143,7 +146,7 @@ source: "eli-html"
 
 **Art. 2419.** Rada Ministrów, po porozumieniu z ogólnokrajową organizacją międzyzwiązkową, określa w drodze rozporządzenia szczegółowy tryb zawierania, rozwiązywania i rejestracji układów.
 
-#### Rozdział II Zakładowa umowa zbiorowa
+#### Rozdział II
 
 **Art. 24110.** W zakładach pracy, o których mowa w art. 241 § 1, zawiera się zakładowe umowy zbiorowe, zwane dalej „umowami”.
 
@@ -180,7 +183,7 @@ source: "eli-html"
 
 - **1)** organ założycielski,
 - **2)** zarząd centralnego związku spółdzielczego,
-- **3)** właściwą jednostkę organizacyjną nadrzędną nad zakładem pracy po stwierdzeniu zgodności projektu umowy z przepisami prawa i postanowieniami układu oraz po zasięgnięciu opinii właściwej ogólnokrajowej organizacji związkowej.
+- **3)** właściwą jednostkę organizacyjną nadrzędną nad zakładem pracy – po stwierdzeniu zgodności projektu umowy z przepisami prawa i postanowieniami układu oraz po zasięgnięciu opinii właściwej ogólnokrajowej organizacji związkowej.
 
 § 3. W razie odmowy rejestracji, strony umowy i organ uprawniony do rejestracji są obowiązane do niezwłocznego podjęcia rozmów w celu doprowadzenia do zgodności umowy z przepisami prawa i postanowieniami układu. Jeżeli rozmowy nie doprowadzą do uzgodnienia treści umowy, każda ze stron umowy może żądać wszczęcia postępowania pojednawczego. Postępowanie pojednawcze prowadzi komisja powołana w połowie jej składu przez każdą ze stron sporu oraz zaproszony przez nich arbiter posiadający wykształcenie prawnicze jako przewodniczący.
 

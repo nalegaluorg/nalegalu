@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 20 listopada 2024 r. w sprawie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich z zakresu usług komunikacji elektronicznej
+# Rozporządzenie Ministra Cyfryzacjiz dnia 20 listopada 2024 r. w sprawie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich z zakresu usług komunikacji elektronicznej Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-20 |
 | Data wydania | 2024-11-27 |
-| Wejście w życie | 2026-01-01 |
 | Ostatnia zmiana | 2024-11-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1743/text.pdf) |
 
@@ -58,8 +57,7 @@ dołączenia:
 a)
 uzasadnienia żądania strony,
 b)
-kopii posiadanych przez wnioskodawcę dokumentów potwierdzających informacje zawarte we wniosku
-o których mowa w art. 384 ust. 3 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
+kopii posiadanych przez wnioskodawcę dokumentów potwierdzających informacje zawarte we wniosku – o których mowa w art. 384 ust. 3 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
 2.
 W przypadku stwierdzenia braków we wniosku w zakresie, o którym mowa w ust. 1, Prezes UKE wzywa wnioskodawcę do jego uzupełnienia w terminie 10 dni od dnia doręczenia wezwania do uzupełnienia wniosku.
 3.
@@ -83,6 +81,5 @@ za pomocą środków komunikacji elektronicznej, w przypadku przekazywania infor
 2)
 przesyłką rejestrowaną, w przypadku przekazywania informacji w postaci papierowej.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 4 stycznia 2017 r. w sprawie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich z zakresu usług telekomunikacyjnych prowadzonego przez Prezesa Urzędu Komunikacji Elektronicznej (Dz. U. poz. 49), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 104 pkt 10 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 4 stycznia 2017 r. w sprawie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich z zakresu usług telekomunikacyjnych prowadzonego przez Prezesa Urzędu Komunikacji Elektronicznej (Dz. U. poz. 49), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 104 pkt 10 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222). 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 4 stycznia 2017 r. w sprawie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich z zakresu usług telekomunikacyjnych prowadzonego przez Prezesa Urzędu Komunikacji Elektronicznej (Dz. U. poz. 49), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 104 pkt 10 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222).
 

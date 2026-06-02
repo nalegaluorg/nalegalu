@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-20 |
 | Data wydania | 2012-12-29 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001521) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1521/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 8 ust. 4 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2010 r. Nr 112, poz. 744 oraz z 2011 r. Nr 54, poz. 278) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2004 r. w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii (Dz. U. Nr 200, poz. 2057, z późn. zm.) w załączniku nr 1 w ust. 1 pkt 20 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2004 r. w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii (Dz. U. Nr 200, poz. 2057, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2005 r. Nr 230, poz. 1957, z 2007 r. Nr 123, poz. 855, z 2008 r. Nr 96, poz. 613, z 2009 r. Nr 147, poz. 1194, z 2011 r. Nr 237, poz. 1413 oraz z 2012 r. poz. 1423.) w załączniku nr 1 w ust. 1 pkt 20 otrzymuje brzmienie: „
 20)
-Powiatowy Lekarz Weterynarii z siedzibą w Wałbrzychu właściwy dla Wałbrzycha – miasta na prawach powiatu oraz powiatu wałbrzyskiego;
-” .
+Powiatowy Lekarz Weterynarii z siedzibą w Wałbrzychu właściwy dla Wałbrzycha – miasta na prawach powiatu oraz powiatu wałbrzyskiego; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2005 r. Nr 230, poz. 1957, z 2007 r. Nr 123, poz. 855, z 2008 r. Nr 96, poz. 613, z 2009 r. Nr 147, poz. 1194, z 2011 r. Nr 237, poz. 1413 oraz z 2012 r. poz. 1423.
 

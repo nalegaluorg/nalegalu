@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1998-12-10 |
 | Data wydania | 1998-12-30 |
-| Wejście w życie | 1998-12-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981621115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/1115/text.pdf) |
+
+Szpitale kliniczne
+Transport sanitarny
 
 **Art. 1.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. Nr 91, poz. 408, z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041 oraz z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756) wprowadza się następujące zmiany:
 
@@ -62,7 +64,7 @@ source: "eli-html"
 
 - **8)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Szpitale kliniczne
+#### Rozdział 2a
 
 **Art. 43a.**
 
@@ -106,8 +108,12 @@ source: "eli-html"
 
 6. Uzgodnienie, o którym mowa w ust. 5, dotyczy wyłącznie osoby proponowanej na stanowisko kierownika szpitala klinicznego. ” ;
 
-- **10)** w art. 44a: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) kierownika zakładu, z wyjątkiem kierownika samodzielnego zakładu opieki zdrowotnej oraz kierownika szpitala klinicznego, ” , – po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „ 3a) ordynatora – kierownika kliniki, 3b) ordynatora – kierownika oddziału klinicznego, ” , ust. 2 otrzymuje brzmienie: „
+- **10)** w art. 44a: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** kierownika zakładu, z wyjątkiem kierownika samodzielnego zakładu opieki zdrowotnej oraz kierownika szpitala klinicznego, ” , po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
+- **3a)** ordynatora – kierownika kliniki,
+- **3b)** ordynatora – kierownika oddziału klinicznego, ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Konkurs na stanowisko kierownika zakładu opieki zdrowotnej oraz zastępcy kierownika w okoliczności określonej w ust. 1 pkt 2 ogłasza podmiot, który utworzył zakład, a na pozostałe stanowiska – kierownik zakładu, z zastrzeżeniem ust. 2a. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
@@ -140,7 +146,7 @@ source: "eli-html"
 
 - **16)** po dziale IV dodaje się dział V w brzmieniu: „
 
-### Dział V Transport sanitarny
+### Dział V
 
 **Art. 70a.**
 

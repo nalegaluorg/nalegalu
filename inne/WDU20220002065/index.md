@@ -36,11 +36,9 @@ obwieszczeniem Prezesa Rady Ministrów z dnia 27 lipca 2016 r. o sprostowaniu b�
 2)
 rozporządzeniem Prezesa Rady Ministrów z dnia 4 marca 2022 r. zmieniającym rozporządzenie w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP (Dz. U. poz. 538).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 4 marca 2022 r. zmieniającego rozporządzenie w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP (Dz. U. poz. 538), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 4 marca 2022 r. zmieniającego rozporządzenie w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP (Dz. U. poz. 538), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 25 lipca 2016 r. w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP
 Na podstawie art. 16 ust. 5 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2021 r. poz. 2234 oraz z 2022 r. poz. 583 i 655) zarządza się, co następuje:
 § 1.
@@ -55,14 +53,13 @@ Szczegółowy zakres przedsięwzięć wykonywanych w ramach kompetencji ustawowy
 Właściciele, posiadacze samoistni i posiadacze zależni obiektów infrastruktury krytycznej uwzględniają, na potrzeby współpracy, o której mowa w § 1 ust. 2, szczegółowy zakres przedsięwzięć, o którym mowa w ust. 1.
 § 3.
 Organy administracji publicznej oraz kierownicy służb i instytucji właściwych w sprawach bezpieczeństwa i zarządzania kryzysowego określają procedury realizacji przedsięwzięć w ramach poszczególnych stopni alarmowych i stopni alarmowych CRP, w tym moduły zadaniowe dla każdego stopnia, zawierające w szczególności wykaz zadań do wykonania.
-§ 4.
+§ 4Ze zmianą wprowadzoną przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 4 marca 2022 r. zmieniającego rozporządzenie w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP (Dz. U. poz. 538), które weszło w życie z dniem 8 marca 2022 r..
 Po otrzymaniu informacji o wprowadzeniu stopnia alarmowego lub stopnia alarmowego CRP, organy administracji publicznej oraz kierownicy służb i instytucji właściwych w sprawach bezpieczeństwa i zarządzania kryzysowego niezwłocznie potwierdzają Rządowemu Centrum Bezpieczeństwa fakt otrzymania informacji o wprowadzeniu stopnia alarmowego lub stopnia alarmowego CRP oraz przekazują raport o stanie realizacji zadań wynikających z wprowadzonego stopnia, w czasie nie dłuższym niż 12 godzin od rozpoczęcia obowiązywania stopnia.
 § 5.
 Organy administracji publicznej oraz kierownicy służb i instytucji właściwych w sprawach bezpieczeństwa i zarządzania kryzysowego określą, w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia, procedury realizacji przedsięwzięć w ramach poszczególnych stopni alarmowych i stopni alarmowych CRP, w tym moduły zadaniowe dla każdego stopnia, o których mowa w § 3.
 § 6.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Ze zmianą wprowadzoną przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 4 marca 2022 r. zmieniającego rozporządzenie w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP (Dz. U. poz. 538), które weszło w życie z dniem 8 marca 2022 r.
-Załącznik – Szczegółowy zakres przedsięwzięć wykonywanych w ramach kompetencji ustawowych przez organy administracji publicznej oraz kierowników służb i instytucji właściwych w sprawach bezpieczeństwa i zarządzania kryzysowego w poszczególnych stopniach alarmowych i stopniach alarmowych CRP
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Ze zmianą wprowadzoną przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 4 marca 2022 r. zmieniającego rozporządzenie w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP (Dz. U. poz. 538), które weszło w życie z dniem 8 marca 2022 r.
+Załącznik – Szczegółowy zakres przedsięwzięć wykonywanych w ramach kompetencji ustawowych przez organy administracji publicznej oraz kierowników służb i instytucji właściwych w sprawach bezpieczeństwa i zarządzania kryzysowego w poszczególnych stopniach alarmowych i stopniach alarmowych CRPZe zmianami wprowadzonymi przez obwieszczenie Prezesa Rady Ministrów z dnia 27 lipca 2016 r. o sprostowaniu błędów (Dz. U. poz. 1116).
 I.
 Przedsięwzięcia wykonywane w ramach kompetencji ustawowych przez organy administracji publicznej oraz kierowników służb i instytucji właściwych w sprawach bezpieczeństwa i zarządzania kryzysowego w poszczególnych stopniach alarmowych
 1.
@@ -196,6 +193,5 @@ Po wprowadzeniu czwartego stopnia alarmowego CRP (stopień DELTA-CRP) należy wy
 1)
 uruchomić plany awaryjne lub plany ciągłości działania organizacji w sytuacjach awarii lub utraty ciągłości działania;
 2)
-stosownie do sytuacji przystąpić do realizacji procedur przywracania ciągłości działania.
-3) Ze zmianami wprowadzonymi przez obwieszczenie Prezesa Rady Ministrów z dnia 27 lipca 2016 r. o sprostowaniu błędów (Dz. U. poz. 1116).
+stosownie do sytuacji przystąpić do realizacji procedur przywracania ciągłości działania. 3) Ze zmianami wprowadzonymi przez obwieszczenie Prezesa Rady Ministrów z dnia 27 lipca 2016 r. o sprostowaniu błędów (Dz. U. poz. 1116).
 

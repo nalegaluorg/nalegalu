@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 19 listopada 2024 r. w sprawie sposobu i trybu finansowania z budżetu państwa świadczeń opieki zdrowotnej wykonywanych w związku z przeciwdziałaniem skutkom powodzi
+# Rozporządzenie Ministra Zdrowiaz dnia 19 listopada 2024 r. w sprawie sposobu i trybu finansowania z budżetu państwa świadczeń opieki zdrowotnej wykonywanych w związku z przeciwdziałaniem skutkom powodzi Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-19 |
 | Data wydania | 2024-11-21 |
-| Wejście w życie | 2024-11-22 |
 | Ostatnia zmiana | 2024-11-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001708) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1708/text.pdf) |
 
@@ -83,6 +82,5 @@ Sprawozdanie oraz wniosek o uruchomienie dotacji celowej, o którym mowa w § 2 
 2.
 Minister właściwy do spraw zdrowia przekazuje Funduszowi środki finansowe w formie dotacji celowej w terminie 30 dni od dnia otrzymania sprawozdania, o którym mowa w ust. 1.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 marca 2020 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 27 marca 2020 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-27 |
 | Data wydania | 2020-03-28 |
-| Wejście w życie | 2020-04-01 |
 | Ostatnia zmiana | 2025-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000547) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/547/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. z 2020 r. poz. 320 i 437) wprowadza się następujące zmiany:
 1)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
-Przepisy § 16 ust. 1a, 3–5 oraz § 30 ust. 1a załącznika do rozporządzenia stosuje się od dnia 1 stycznia 2021 r.
-” ;
+Przepisy § 16 ust. 1a, 3–5 oraz § 30 ust. 1a załącznika do rozporządzenia stosuje się od dnia 1 stycznia 2021 r. ” ;
 2)
 w załączniku do rozporządzenia w § 24:
 a)
@@ -68,6 +65,5 @@ postanowienia o zwrocie środków określonych w pkt 1, w przypadku ich nieprzez
 § 3.
 Do trybu oraz sposobu podziału środków przekazanych w drodze zmiany umowy, o której mowa w § 2 ust. 4 i 5, stosuje się odpowiednio przepisy § 2 ust. 4–8 rozporządzenia Ministra Zdrowia z dnia 14 października 2015 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r., z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 14 marca 2020 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r., z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 14 marca 2020 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
 

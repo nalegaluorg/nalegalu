@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 12 marca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 12 marca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-12 |
 | Data wydania | 2018-03-14 |
-| Wejście w życie | 2018-03-15 |
 | Ostatnia zmiana | 2025-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/544/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2015 r. w 
 1)
 w § 24 w ust. 1 uchyla się pkt 9;
 2)
-w § 26 w ust. 2 w pkt 1 lit. b otrzymuje brzmienie:
-„
+w § 26 w ust. 2 w pkt 1 lit. b otrzymuje brzmienie: „
 b)
-zgodnie z przepisami ustawy określającymi konkurencyjny tryb wyboru wykonawcy i przepisami wydanymi na podstawie art. 43a ust. 6 ustawy – w przypadku gdy te przepisy mają zastosowanie,
-” .
+zgodnie z przepisami ustawy określającymi konkurencyjny tryb wyboru wykonawcy i przepisami wydanymi na podstawie art. 43a ust. 6 ustawy – w przypadku gdy te przepisy mają zastosowanie, ” .
 § 2.
 Do refundacji kosztów kwalifikowalnych objętych umowami o przyznaniu pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 zawartymi przed dniem 18 stycznia 2017 r. przepis § 26 ust. 2 pkt 1 lit. b rozporządzenia zmienianego w § 1 stosuje się w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 

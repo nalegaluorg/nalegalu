@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-29 |
 | Data wydania | 2016-08-11 |
-| Wejście w życie | 2016-08-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001211) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1211/text.pdf) |
 
@@ -41,5 +40,5 @@ do kapitana (kapitana marynarki) włącznie – jedna norma.
 § 3.
 Normy określone w § 2 ulegają zwiększeniu o jedną normę na każdego członka rodziny, o którym mowa w art. 26 ust. 3 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 12 maja 2010 r. w sprawie norm powierzchni użytkowej podstawowej przysługujących żołnierzom zawodowym (Dz. U. poz. 578), które na podstawie art. 136 ust. 2 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614 i 1202) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 12 maja 2010 r. w sprawie norm powierzchni użytkowej podstawowej przysługujących żołnierzom zawodowym (Dz. U. poz. 578), które na podstawie art. 136 ust. 2 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614 i 1202) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 marca 2007 r. o zmianie ustawy – Prawo farmaceutyczne oraz o zmianie niektórych innych ustaw
+# Ustawaz dnia 30 marca 2007 r. o zmianie ustawy – Prawo farmaceutyczne oraz o zmianie niektórych innych ustaw Przepisy niniejszej ustawy wdrażają postanowienia:
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-03-30 |
 | Data wydania | 2007-04-26 |
-| Wejście w życie | 2007-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070750492) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/492/text.pdf) |
 
+dyrektywy 2004/24/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. zmieniającej dyrektywę 2001/83/WE w sprawie wspólnotowego kodeksu dotyczącego produktów leczniczych stosowanych u ludzi, w odniesieniu do tradycyjnych ziołowych produktów leczniczych(Dz. Urz. UE L 136 z 30.04.2004, str. 85; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 313),
 2)
 dyrektywy 2004/27/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. zmieniającej dyrektywę 2001/83/WE w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 136 z 30.04.2004, str. 34; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 262),
 3)
 dyrektywy 2004/28/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. zmieniającej dyrektywę 2001/82/WE w sprawie wspólnotowego kodeksu odnoszącego się do weterynaryjnych produktów leczniczych (Dz. Urz. UE L 136 z 30.04.2004, str. 58; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 286),
 4)
-dyrektywy 2001/20/WE Parlamentu Europejskiego i Rady z dnia 4 kwietnia 2001 r. w sprawie zbliżania przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich, odnoszących się do wdrożenia zasady dobrej praktyki klinicznej w prowadzeniu badań klinicznych produktów leczniczych przeznaczonych do stosowania przez człowieka (Dz. Urz. WE L 121 z 01.05.2001, str. 34; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 26, str. 299).
-Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 6 września 2001 r. – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary oraz ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej.
+dyrektywy 2001/20/WE Parlamentu Europejskiego i Rady z dnia 4 kwietnia 2001 r. w sprawie zbliżania przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich, odnoszących się do wdrożenia zasady dobrej praktyki klinicznej w prowadzeniu badań klinicznych produktów leczniczych przeznaczonych do stosowania przez człowieka (Dz. Urz. WE L 121 z 01.05.2001, str. 34; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 26, str. 299). Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 6 września 2001 r. – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary oraz ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej.
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 91, poz. 877, Nr 92, poz. 882, Nr 93, poz. 896, Nr 173, poz. 1808, Nr 210, poz. 2135 i Nr 273, poz. 2703, z 2005 r. Nr 94, poz. 787, Nr 163, poz. 1362, Nr 179, poz. 1485 i Nr 184, poz. 1539, z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 217, poz. 1588 oraz z 2007 r. Nr 50, poz. 331.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: pkt 2a i 2b otrzymują brzmienie: „
     - **a)**
@@ -71,7 +70,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **14)** nazwą produktu leczniczego – jest nazwa nadana produktowi leczniczemu, która może być nazwą własną niestwarzającą możliwości pomyłki z nazwą powszechnie stosowaną albo nazwą powszechnie stosowaną lub naukową, opatrzoną znakiem towarowym lub nazwą podmiotu odpowiedzialnego; ” , pkt 17a otrzymuje brzmienie: „
     - **i)**
 
-- **17a)** niespodziewanym ciężkim niepożądanym działaniem produktu leczniczego – jest każde niepożądane działanie produktu leczniczego, którego charakter lub stopień nasilenia nie jest zgodny z danymi zawartymi w odpowiedniej informacji o produkcie leczniczym: dla produktów leczniczych w badaniach klinicznych – najczęściej w broszurze badacza, dla produktów leczniczych dopuszczonych do obrotu – w Charakterystyce Produktu Leczniczego albo w Charakterystyce Produktu Leczniczego Weterynaryjnego które bez względu na zastosowaną dawkę produktu leczniczego powoduje zgon pacjenta, zagrożenie życia, konieczność hospitalizacji lub jej przedłużenie, trwały lub znaczny uszczerbek na zdrowiu lub inne działanie produktu leczniczego, które lekarz według swojego stanu wiedzy uzna za ciężkie, lub jest chorobą, wadą wrodzoną lub uszkodzeniem płodu; ” , uchyla się pkt 18, pkt 19 otrzymuje brzmienie: „
+- **17a)** niespodziewanym ciężkim niepożądanym działaniem produktu leczniczego – jest każde niepożądane działanie produktu leczniczego, którego charakter lub stopień nasilenia nie jest zgodny z danymi zawartymi w odpowiedniej informacji o produkcie leczniczym: dla produktów leczniczych w badaniach klinicznych – najczęściej w broszurze badacza, dla produktów leczniczych dopuszczonych do obrotu – w Charakterystyce Produktu Leczniczego albo w Charakterystyce Produktu Leczniczego Weterynaryjnego – które bez względu na zastosowaną dawkę produktu leczniczego powoduje zgon pacjenta, zagrożenie życia, konieczność hospitalizacji lub jej przedłużenie, trwały lub znaczny uszczerbek na zdrowiu lub inne działanie produktu leczniczego, które lekarz według swojego stanu wiedzy uzna za ciężkie, lub jest chorobą, wadą wrodzoną lub uszkodzeniem płodu; ” , uchyla się pkt 18, pkt 19 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **j)**
@@ -134,7 +133,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 - **1)** posiada pozwolenie, o którym mowa w art. 3 ust. 1 lub 2,
 - **2)** jest dopuszczony do obrotu w państwie, z którego jest sprowadzany,
-- **3)** jest niedostępny na terytorium Rzeczypospolitej Polskiej pod warunkiem że na terytorium Rzeczypospolitej Polskiej nie jest dostępny produkt leczniczy zawierający tę samą lub te same substancje czynne, tę samą moc i postać, co produkt leczniczy sprowadzany. ” ;
+- **3)** jest niedostępny na terytorium Rzeczypospolitej Polskiej – pod warunkiem że na terytorium Rzeczypospolitej Polskiej nie jest dostępny produkt leczniczy zawierający tę samą lub te same substancje czynne, tę samą moc i postać, co produkt leczniczy sprowadzany. ” ;
 - **5)** po art. 4a dodaje się art. 4b w brzmieniu: „
 
 **Art. 4b.** Minister właściwy do spraw zdrowia może wydać zgodę na obcojęzyczną treść oznakowania opakowania dla określonej ilości opakowań leków sierocych określonych w rozporządzeniu (WE) nr 141/2000 Parlamentu Europejskiego i Rady z dnia 16 grudnia 1999 r. w sprawie sierocych produktów leczniczych (Dz. Urz. WE L 18 z 22.01.2000, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 21). ” ;
@@ -160,16 +159,19 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **8)** w art. 8: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Pozwolenie na dopuszczenie do obrotu minister właściwy do spraw zdrowia wydaje na podstawie raportu sporządzonego przez Prezesa Urzędu. ” , w ust. 1a: – pkt 2 i 3 otrzymują brzmienie: „ 2) może zażądać od podmiotu odpowiedzialnego uzupełnień lub wyjaśnień dotyczących dokumentacji, o której mowa w art. 10, a także przedstawienia systemu zarządzania ryzykiem użycia produktu leczniczego; 3) może, w przypadku wątpliwości, odnośnie do metod kontroli, o których mowa w art. 10 ust. 2 pkt 2, a w przypadku produktów leczniczych weterynaryjnych – odnośnie do metod badań, o których mowa w art. 10 ust. 2b pkt 6 lit. a, które mogą być wyjaśnione wyłącznie eksperymentalnie, skierować do badań produkt leczniczy, materiały wyjściowe i produkty pośrednie lub inne składniki produktu leczniczego będącego przedmiotem wniosku przed skierowaniem do badań produktu leczniczego, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego, Prezes Urzędu pisemnie informuje podmiot odpowiedzialny o powziętych wątpliwościach oraz uzasadnia konieczność przeprowadzenia badań; ” , – dodaje się pkt 5 w brzmieniu: „ 5) opracowuje raport oceniający zawierający opinię naukową o produkcie leczniczym. ” , po ust. 1a dodaje się ust. 1b-1d w brzmieniu: „
+1. Pozwolenie na dopuszczenie do obrotu minister właściwy do spraw zdrowia wydaje na podstawie raportu sporządzonego przez Prezesa Urzędu. ” , w ust. 1a: pkt 2 i 3 otrzymują brzmienie: „
 
 - **b)**
-- **c)**
+- **2)** może zażądać od podmiotu odpowiedzialnego uzupełnień lub wyjaśnień dotyczących dokumentacji, o której mowa w art. 10, a także przedstawienia systemu zarządzania ryzykiem użycia produktu leczniczego;
+- **3)** może, w przypadku wątpliwości, odnośnie do metod kontroli, o których mowa w art. 10 ust. 2 pkt 2, a w przypadku produktów leczniczych weterynaryjnych – odnośnie do metod badań, o których mowa w art. 10 ust. 2b pkt 6 lit. a, które mogą być wyjaśnione wyłącznie eksperymentalnie, skierować do badań produkt leczniczy, materiały wyjściowe i produkty pośrednie lub inne składniki produktu leczniczego będącego przedmiotem wniosku przed skierowaniem do badań produktu leczniczego, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego, Prezes Urzędu pisemnie informuje podmiot odpowiedzialny o powziętych wątpliwościach oraz uzasadnia konieczność przeprowadzenia badań; ” , dodaje się pkt 5 w brzmieniu: „
+- **5)** opracowuje raport oceniający zawierający opinię naukową o produkcie leczniczym. ” , po ust. 1a dodaje się ust. 1b-1d w brzmieniu: „
+    - **c)**
 
 1b. Raport oceniający jest aktualizowany w przypadku pojawienia się nowych informacji istotnych dla oceny jakości, bezpieczeństwa lub skuteczności danego produktu leczniczego.
 
 1c. Po wydaniu pozwolenia raport oceniający udostępnia się na podstawie przepisów o dostępie do informacji publicznej.
 
-1d. Podmiot odpowiedzialny, składając wniosek, o którym mowa w art. 7 ust. 1, może wystąpić do Prezesa Urzędu z wnioskiem o nieujawnianie informacji zawartych w raporcie oceniającym, które stanowią tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.), a w szczególności informacji dotyczących źródeł zaopatrzenia. ” , dodaje się ust. 5 w brzmieniu: „
+1d. Podmiot odpowiedzialny, składając wniosek, o którym mowa w art. 7 ust. 1, może wystąpić do Prezesa Urzędu z wnioskiem o nieujawnianie informacji zawartych w raporcie oceniającym, które stanowią tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804 oraz z 2005 r. Nr 10, poz. 68.), a w szczególności informacji dotyczących źródeł zaopatrzenia. ” , dodaje się ust. 5 w brzmieniu: „
 
 - **d)**
 
@@ -215,14 +217,14 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **1)** opis wytwarzania produktu leczniczego;
 - **2)** opis metod kontroli stosowanych w procesie wytwarzania;
 - **3)** informacje dotyczące specjalnych wymagań co do sposobu przechowywania produktu leczniczego, wydawania pacjentom oraz unieszkodliwiania produktu przeterminowanego, wraz z oceną związanego z produktem leczniczym zagrożenia dla środowiska, oraz opis metod mających na celu ograniczenie tego zagrożenia;
-- **4)** wyniki, streszczenia oraz sprawozdania z badań: farmaceutycznych: fizykochemicznych, biologicznych lub mikrobiologicznych, nieklinicznych: farmakologicznych i toksykologicznych, klinicznych wraz z ogólnym podsumowaniem jakości, przeglądem nieklinicznym i streszczeniem danych nieklinicznych oraz przeglądem klinicznym i podsumowaniem klinicznym;
+- **4)** wyniki, streszczenia oraz sprawozdania z badań: farmaceutycznych: fizykochemicznych, biologicznych lub mikrobiologicznych, nieklinicznych: farmakologicznych i toksykologicznych, klinicznych – wraz z ogólnym podsumowaniem jakości, przeglądem nieklinicznym i streszczeniem danych nieklinicznych oraz przeglądem klinicznym i podsumowaniem klinicznym;
     - **a)**
     - **b)**
     - **c)**
 
 - **5)** opis systemu monitorowania działań niepożądanych, który zostanie wdrożony przez podmiot odpowiedzialny;
 - **6)** opis systemu zarządzania ryzykiem użycia produktu leczniczego, który zostanie wdrożony przez podmiot odpowiedzialny, jeżeli jest to wymagane na podstawie wytycznych Wspólnoty Europejskiej;
-- **7)** w przypadku badań klinicznych przeprowadzonych poza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oświadczenie, że badania te spełniają wymogi etyczne określone w przepisach rozdziału 2a;
+- **7)** w przypadku badań klinicznych przeprowadzonych poza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oświadczenie, że badania te spełniają wymogi etyczne określone w przepisach rozdziału 2a;
 - **8)** oświadczenie podmiotu odpowiedzialnego potwierdzające, że dysponuje usługami osoby, do której obowiązków będzie należeć ciągły nadzór nad monitorowaniem bezpieczeństwa stosowania produktu leczniczego będącego przedmiotem wniosku, oraz że dysponuje systemem zapewniającym możliwość niezwłocznego zgłoszenia podejrzenia wystąpienia działania niepożądanego na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, lub innych państw;
 - **9)** oświadczenia podpisane przez ekspertów sporządzających ogólne podsumowanie jakości, przegląd niekliniczny i streszczenie danych nieklinicznych oraz przegląd kliniczny i podsumowanie kliniczne, o których mowa w pkt 4, o posiadaniu przez nich niezbędnych kwalifikacji technicznych lub zawodowych, opisanych w załączonym życiorysie;
 - **10)** w przypadku, o którym mowa w art. 16 ust. 1, sporządzone przez eksperta uzasadnienie dotyczące wykorzystania piśmiennictwa naukowego zgodnie z wymaganiami określonymi w załączniku I do dyrektywy 2001/83/WE;
@@ -247,7 +249,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **3)** informacje o dawce dla poszczególnych gatunków zwierząt, dla których produkt leczniczy weterynaryjny jest przeznaczony, oraz warunkach podawania i stosowania;
 - **4)** określenie metod unieszkodliwiania produktu leczniczego weterynaryjnego i odpadów powstających z produktu leczniczego weterynaryjnego oraz określenie potencjalnego ryzyka związanego z użyciem produktu leczniczego weterynaryjnego dla środowiska, ludzi, zwierząt i roślin;
 - **5)** określenie okresu karencji dla produktów leczniczych weterynaryjnych stosowanych u docelowych gatunków zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi, wraz z opisem metod badań;
-- **6)** wyniki, streszczenia, sprawozdania z badań oraz metody badań: farmaceutycznych: fizykochemicznych, biologicznych lub mikrobiologicznych, bezpieczeństwa i pozostałości, przedklinicznych i klinicznych, ekotoksyczności: określenie potencjalnego ryzyka związanego z użyciem produktu leczniczego weterynaryjnego dla środowiska wraz z raportami ekspertów;
+- **6)** wyniki, streszczenia, sprawozdania z badań oraz metody badań: farmaceutycznych: fizykochemicznych, biologicznych lub mikrobiologicznych, bezpieczeństwa i pozostałości, przedklinicznych i klinicznych, ekotoksyczności: określenie potencjalnego ryzyka związanego z użyciem produktu leczniczego weterynaryjnego dla środowiska – wraz z raportami ekspertów;
     - **a)**
     - **b)**
     - **c)**
@@ -390,7 +392,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 **Art. 15.**
 
-1. Niezależnie od ochrony wynikającej z przepisów ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.) podmiot odpowiedzialny nie jest obowiązany do przedstawienia wyników badań nieklinicznych lub klinicznych, jeżeli wykaże, że:
+1. Niezależnie od ochrony wynikającej z przepisów ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286, z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398 oraz z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 208, poz. 1539.) podmiot odpowiedzialny nie jest obowiązany do przedstawienia wyników badań nieklinicznych lub klinicznych, jeżeli wykaże, że:
 
 - **1)** produkt leczniczy jest odpowiednikiem referencyjnego produktu leczniczego, który został dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej, lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, i podmiot odpowiedzialny posiadający pozwolenie na dopuszczenie do obrotu referencyjnego produktu leczniczego wyraził zgodę na wykorzystanie do oceny wniosku o dopuszczenie do obrotu tego odpowiednika wyników badań nieklinicznych i klinicznych zawartych w dokumentacji referencyjnego produktu leczniczego, albo
 - **2)** produkt leczniczy jest odpowiednikiem referencyjnego produktu leczniczego, który jest lub byt dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej, lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, a od daty wydania pierwszego pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego w którymkolwiek z tych państw do dnia złożenia wniosku o dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej upłynął okres 6 lat, chyba że ochrona patentowa referencyjnego produktu leczniczego na terytorium Rzeczypospolitej Polskiej wygasła wcześniej.
@@ -468,7 +470,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **20)** w art. 17: ust. 1–2 otrzymują brzmienie: „
     - **a)**
 
-1. Badania, o których mowa w art. 10 ust. 2 pkt 4 lit. b, przeprowadzane w celu oceny bezpieczeństwa produktu leczniczego lub badania, o których mowa w art. 10 ust. 2b pkt 6 lit. b, przeprowadzane w celu oceny bezpieczeństwa produktu leczniczego weterynaryjnego są wykonywane zgodnie z zasadami Dobrej Praktyki Laboratoryjnej w rozumieniu ustawy z dnia 11 stycznia 2001 r. o substancjach i preparatach chemicznych (Dz. U. Nr 11, poz. 84, z późn. zm.).
+1. Badania, o których mowa w art. 10 ust. 2 pkt 4 lit. b, przeprowadzane w celu oceny bezpieczeństwa produktu leczniczego lub badania, o których mowa w art. 10 ust. 2b pkt 6 lit. b, przeprowadzane w celu oceny bezpieczeństwa produktu leczniczego weterynaryjnego są wykonywane zgodnie z zasadami Dobrej Praktyki Laboratoryjnej w rozumieniu ustawy z dnia 11 stycznia 2001 r. o substancjach i preparatach chemicznych (Dz. U. Nr 11, poz. 84, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1085, Nr 123, poz. 1350 i Nr 125, poz. 1367, z 2002 r. Nr 135, poz. 1145 i Nr 142, poz. 1187, z 2003 r. Nr 189, poz. 1852, z 2004 r. Nr 96, poz. 959 i Nr 121, poz. 1263, z 2005 r. Nr 179, poz. 1485 oraz z 2006 r. Nr 171, poz. 1225.).
 
 1a. Badania produktu leczniczego, o których mowa w art. 10 ust. 2 pkt 4 lit. c, są wykonywane zgodnie z wymaganiami Dobrej Praktyki Klinicznej, a badania produktu leczniczego weterynaryjnego, o których mowa w art. 10 ust. 2b pkt 6 lit. c, są wykonywane zgodnie z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej.
 
@@ -589,16 +591,22 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **28)** w art. 21: w ust. 2 pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** nazwę i adres podmiotu odpowiedzialnego, wytwórcy lub importera, u którego następuje zwolnienie serii produktu leczniczego, miejsca wytwarzania, w tym miejsca wytwarzania, gdzie następuje kontrola jego serii, lub miejsca prowadzenia działalności importowej, gdzie następuje kontrola jego serii, oraz numery zezwoleń na wytwarzanie produktu leczniczego lub na import produktu leczniczego; ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) opis sposobu otrzymywania i kontroli substancji pierwotnych oraz potwierdzenie, na podstawie piśmiennictwa, w tym naukowego, ich homeopatycznego zastosowania; ” , – pkt 8 otrzymuje brzmienie: „ 8) dane dotyczące opakowania bezpośredniego, z podaniem wymagań jakościowych, oraz wzory opakowań bezpośrednich lub zewnętrznych, wielkość opakowania, wraz z podaniem informacji o zawartości produktu leczniczego homeopatycznego w opakowaniu bezpośrednim; ” , ust. 4 otrzymuje brzmienie: „
+- **1)** nazwę i adres podmiotu odpowiedzialnego, wytwórcy lub importera, u którego następuje zwolnienie serii produktu leczniczego, miejsca wytwarzania, w tym miejsca wytwarzania, gdzie następuje kontrola jego serii, lub miejsca prowadzenia działalności importowej, gdzie następuje kontrola jego serii, oraz numery zezwoleń na wytwarzanie produktu leczniczego lub na import produktu leczniczego; ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **b)**
+
+- **1)** opis sposobu otrzymywania i kontroli substancji pierwotnych oraz potwierdzenie, na podstawie piśmiennictwa, w tym naukowego, ich homeopatycznego zastosowania; ” , pkt 8 otrzymuje brzmienie: „
+- **8)** dane dotyczące opakowania bezpośredniego, z podaniem wymagań jakościowych, oraz wzory opakowań bezpośrednich lub zewnętrznych, wielkość opakowania, wraz z podaniem informacji o zawartości produktu leczniczego homeopatycznego w opakowaniu bezpośrednim; ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Produkty lecznicze homeopatyczne weterynaryjne podlegają także uproszczonej procedurze dopuszczania do obrotu, w przypadku gdy:
 
 - **1)** ich oznakowanie nie zawiera wskazań do stosowania,
 - **2)** charakteryzują się odpowiednim stopniem rozcieńczenia, gwarantującym bezpieczeństwo stosowania, co oznacza, że nie zawierają więcej niż 1/10000 części roztworu macierzystego lub nie więcej niż 1/100 najmniejszej dawki substancji czynnej zawartej w produkcie leczniczym wydawanym z przepisu lekarza,
-- **3)** są podawane drogą opisaną w Farmakopei Europejskiej lub w innych farmakopeach oficjalnie uznanych przez państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym z wyłączeniem immunologicznych homeopatycznych produktów leczniczych weterynaryjnych. ” , w ust. 6: – pkt 1 otrzymuje brzmienie: „ 1) opis sposobu otrzymywania i kontroli substancji pierwotnych oraz potwierdzenie, na podstawie piśmiennictwa, w tym naukowego, ich homeopatycznego zastosowania; ” , – w pkt 10 w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) okresu karencji, z pełnym uzasadnieniem. ” , ust. 7a otrzymuje brzmienie: „
+- **3)** są podawane drogą opisaną w Farmakopei Europejskiej lub w innych farmakopeach oficjalnie uznanych przez państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym – z wyłączeniem immunologicznych homeopatycznych produktów leczniczych weterynaryjnych. ” , w ust. 6: pkt 1 otrzymuje brzmienie: „
     - **d)**
+
+- **1)** opis sposobu otrzymywania i kontroli substancji pierwotnych oraz potwierdzenie, na podstawie piśmiennictwa, w tym naukowego, ich homeopatycznego zastosowania; ” , w pkt 10 w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ okresu karencji, z pełnym uzasadnieniem. ” , ust. 7a otrzymuje brzmienie: „
+    - **c)**
     - **e)**
 
 7a. Wniosek o dopuszczenie do obrotu, o którym mowa w ust. 2 i 5, może obejmować listę produktów leczniczych homeopatycznych pochodzących z tej samej lub z tych samych substancji pierwotnych homeopatycznych. ” ;
@@ -632,8 +640,13 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 9a. Podmiot uprawniony do importu równoległego niezwłocznie powiadamia ministra właściwego do spraw zdrowia o wygaśnięciu pozwolenia na dopuszczenie do obrotu produktu leczniczego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy importowany równolegle jest sprowadzany. ” ;
 
-- **30)** w art. 23: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) nazwę i adres wytwórcy lub importera, u którego następuje zwolnienie serii produktu leczniczego, miejsca wytwarzania lub miejsca prowadzenia działalności importowej, gdzie następuje kontrola jego serii; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) kategorię stosowania, w odniesieniu do produktów leczniczych weterynaryjnych; ” , – w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 i 14 w brzmieniu: „ 13) termin uprawniający do wprowadzenia do obrotu odpowiednika referencyjnego produktu leczniczego weterynaryjnego, w przypadku, o którym mowa w art. 15a ust. 2; 14) warunki wynikające z oceny dokumentacji, o których mowa w art. 23b, jeżeli ma to zastosowanie. ” , ust. 3 otrzymuje brzmienie: „
+- **30)** w art. 23: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** nazwę i adres wytwórcy lub importera, u którego następuje zwolnienie serii produktu leczniczego, miejsca wytwarzania lub miejsca prowadzenia działalności importowej, gdzie następuje kontrola jego serii; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** kategorię stosowania, w odniesieniu do produktów leczniczych weterynaryjnych; ” , w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 i 14 w brzmieniu: „
+- **13)** termin uprawniający do wprowadzenia do obrotu odpowiednika referencyjnego produktu leczniczego weterynaryjnego, w przypadku, o którym mowa w art. 15a ust. 2;
+- **14)** warunki wynikające z oceny dokumentacji, o których mowa w art. 23b, jeżeli ma to zastosowanie. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, kryteria zaliczenia produktu leczniczego do poszczególnych kategorii dostępności, uwzględniając w szczególności charakter poszczególnych kategorii dostępności oraz bezpieczeństwo stosowania produktu leczniczego. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
@@ -775,8 +788,15 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 1b. W przypadku zmiany danych objętych pozwoleniem lub zmiany dokumentacji będącej podstawą wydania pozwolenia w procedurze wzajemnego uznania lub w procedurze zdecentralizowanej podmiot odpowiedzialny składa wnioski we wszystkich państwach członkowskich Unii Europejskiej i państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, w których produkt leczniczy został dopuszczony do obrotu. Przepisy art. 18a ust. 6 i art. 19 ust. 4 stosuje się odpowiednio. ” ;
 
-- **39)** w art. 33: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) stwierdzenia, że produkt leczniczy jest wprowadzany do obrotu niezgodnie z pozwoleniem lub przepisami ustawy; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) nieuiszczenia w terminie opłaty, o której mowa w art. 36 ust. 2; ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–9 w brzmieniu: „ 6) usunięcia ze wspólnotowej listy tradycyjnych produktów leczniczych, o której mowa w art. 16f ust. 1 dyrektywy 2001/83/WE, chyba że podmiot odpowiedzialny w terminie 3 miesięcy od dnia usunięcia z tej listy uzupełni dokumentację, o której mowa w art. 20a ust. 5 pkt 6 i ust. 7 pkt 2 i 3, a minister właściwy do spraw zdrowia wyda pozytywną decyzję dotyczącą wniosku, o którym mowa w art. 20a ust. 5; 7) niespełnienia warunków, o których mowa w art. 23b; 8) usunięcia substancji farmakologicznie czynnej z załączników I, II albo III do rozporządzenia nr 2377/90; 9) w przypadku upływu terminu, o którym mowa w art. 24 ust. 3b. ” , dodaje się ust. 4 i 5 w brzmieniu: „
+- **39)** w art. 33: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** stwierdzenia, że produkt leczniczy jest wprowadzany do obrotu niezgodnie z pozwoleniem lub przepisami ustawy; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** nieuiszczenia w terminie opłaty, o której mowa w art. 36 ust. 2; ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–9 w brzmieniu: „
+- **6)** usunięcia ze wspólnotowej listy tradycyjnych produktów leczniczych, o której mowa w art. 16f ust. 1 dyrektywy 2001/83/WE, chyba że podmiot odpowiedzialny w terminie 3 miesięcy od dnia usunięcia z tej listy uzupełni dokumentację, o której mowa w art. 20a ust. 5 pkt 6 i ust. 7 pkt 2 i 3, a minister właściwy do spraw zdrowia wyda pozytywną decyzję dotyczącą wniosku, o którym mowa w art. 20a ust. 5;
+- **7)** niespełnienia warunków, o których mowa w art. 23b;
+- **8)** usunięcia substancji farmakologicznie czynnej z załączników I, II albo III do rozporządzenia nr 2377/90;
+- **9)** w przypadku upływu terminu, o którym mowa w art. 24 ust. 3b. ” , dodaje się ust. 4 i 5 w brzmieniu: „
     - **b)**
 
 4. W przypadku, o którym mowa w ust. 1 pkt 6, przepisy art. 31 stosuje się odpowiednio.
@@ -853,7 +873,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 - **2a)** dokumentację, o której mowa w art. 37m ust. 2,
 - **2b)** wzór wniosku do komisji bioetycznej o wydanie opinii i do ministra właściwego do spraw zdrowia o wyrażenie zgody w zakresie zmian, o których mowa w art. 37x ust. 1,
-- **2c)** wzór zawiadomienia do komisji bioetycznej i do ministra właściwego do spraw zdrowia o zakończeniu badania klinicznego, o którym mowa w art. 37ab uwzględniając w szczególności wytyczne Europejskiej Agencji Oceny Leków oraz konieczność przedkładania wniosków i zawiadomień w języku polskim i angielskim, a w przypadku wniosków i zawiadomienia do ministra właściwego do spraw zdrowia również w formie elektronicznej; ” ;
+- **2c)** wzór zawiadomienia do komisji bioetycznej i do ministra właściwego do spraw zdrowia o zakończeniu badania klinicznego, o którym mowa w art. 37ab – uwzględniając w szczególności wytyczne Europejskiej Agencji Oceny Leków oraz konieczność przedkładania wniosków i zawiadomień w języku polskim i angielskim, a w przypadku wniosków i zawiadomienia do ministra właściwego do spraw zdrowia również w formie elektronicznej; ” ;
 - **47)** w art. 37x: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -889,7 +909,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 4. Główny Inspektor Farmaceutyczny wydaje opinię o zgodności warunków wytwarzania z wymaganiami Dobrej Praktyki Wytwarzania, o których mowa w art. 39 ust. 4, produktu leczniczego wytwarzanego za granicą, jeżeli:
 
 - **1)** podmiot odpowiedzialny występuje z wnioskiem o uzyskanie pozwolenia, o którym mowa w art. 10 ust. 1 i 2a, lub
-- **2)** produkt leczniczy przywożony jest na terytorium Rzeczypospolitej Polskiej, w celu dalszego przetworzenia po stwierdzeniu, na podstawie inspekcji przeprowadzonej przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego lub raportu z inspekcji przeprowadzonej w ciągu ostatnich 3 lat przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo państwa posiadającego porozumienie o wzajemnym uznawaniu inspekcji z państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym, że zostały spełnione albo nie zostały spełnione wymagania niezbędne do uzyskania produktu leczniczego odpowiadającego deklarowanej jakości, oraz po przedstawieniu uwierzytelnionej kopii zezwolenia na wytwarzanie wydanego przez właściwy organ w państwie, gdzie produkt jest wytwarzany.
+- **2)** produkt leczniczy przywożony jest na terytorium Rzeczypospolitej Polskiej, w celu dalszego przetworzenia – po stwierdzeniu, na podstawie inspekcji przeprowadzonej przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego lub raportu z inspekcji przeprowadzonej w ciągu ostatnich 3 lat przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo państwa posiadającego porozumienie o wzajemnym uznawaniu inspekcji z państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym, że zostały spełnione albo nie zostały spełnione wymagania niezbędne do uzyskania produktu leczniczego odpowiadającego deklarowanej jakości, oraz po przedstawieniu uwierzytelnionej kopii zezwolenia na wytwarzanie wydanego przez właściwy organ w państwie, gdzie produkt jest wytwarzany.
 
 5. W przypadku, o którym mowa w ust. 4 pkt 1, Główny Inspektor Farmaceutyczny przedstawia opinię ministrowi właściwemu do spraw zdrowia.
 
@@ -902,8 +922,12 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 - **50)** w art. 39 w ust. 4 pkt 1 otrzymuje brzmienie: „
 - **1)** wymagania Dobrej Praktyki Wytwarzania, uwzględniając odpowiednie wytyczne Wspólnoty Europejskiej; ” ;
-- **51)** w art. 42: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) udostępnianie, w celu przeprowadzenia inspekcji, inspektorom do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego pomieszczeń wytwórni, dokumentacji i innych danych dotyczących wytwarzania, a także umożliwienie pobrania próbek produktów leczniczych do badań jakościowych, w tym z archiwum; ” , – pkt 6 otrzymuje brzmienie: „ 6) stosowanie wymagań Dobrej Praktyki Wytwarzania odnośnie do produktów leczniczych oraz stosowanie jako materiałów wyjściowych przeznaczonych do wytwarzania produktów leczniczych wyłącznie substancji czynnych, które zostały wytworzone zgodnie z wymaganiami Dobrej Praktyki Wytwarzania odnośnie do substancji czynnych przeznaczonych do wytwarzania produktów leczniczych; ” , – dodaje się pkt 7 w brzmieniu: „ 7) stosowanie wymagań Dobrej Praktyki Wytwarzania w odniesieniu do substancji uzupełniających określonych w przepisach wydanych na podstawie ust. 3. ” , dodaje się ust. 3 w brzmieniu: „
+- **51)** w art. 42: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** udostępnianie, w celu przeprowadzenia inspekcji, inspektorom do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego pomieszczeń wytwórni, dokumentacji i innych danych dotyczących wytwarzania, a także umożliwienie pobrania próbek produktów leczniczych do badań jakościowych, w tym z archiwum; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** stosowanie wymagań Dobrej Praktyki Wytwarzania odnośnie do produktów leczniczych oraz stosowanie jako materiałów wyjściowych przeznaczonych do wytwarzania produktów leczniczych wyłącznie substancji czynnych, które zostały wytworzone zgodnie z wymaganiami Dobrej Praktyki Wytwarzania odnośnie do substancji czynnych przeznaczonych do wytwarzania produktów leczniczych; ” , dodaje się pkt 7 w brzmieniu: „
+- **7)** stosowanie wymagań Dobrej Praktyki Wytwarzania w odniesieniu do substancji uzupełniających określonych w przepisach wydanych na podstawie ust. 3. ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, listę substancji uzupełniających, w odniesieniu do których stosuje się wymagania Dobrej Praktyki Wytwarzania, oraz zakres zastosowania tych wymagań, uwzględniając przepisy prawa Wspólnoty Europejskiej. ” ;
@@ -981,7 +1005,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **1)** sposób prowadzenia rejestru,
 - **2)** tryb postępowania przy dokonywaniu wpisów do rejestru, zmian w rejestrze i skreśleń z rejestru, a także tryb udostępniania rejestru,
 - **3)** wzór wniosku o dokonanie wpisu do rejestru, zmiany w rejestrze lub skreślenia z rejestru,
-- **4)** wysokość opłat, o których mowa w ust. 5, oraz sposób ich uiszczania, uwzględniając nakład pracy związanej z wykonywaniem danej czynności i poziomem kosztów ponoszonych przez Urząd Rejestracji uwzględniając w szczególności dane określone w ust. 2. ” ;
+- **4)** wysokość opłat, o których mowa w ust. 5, oraz sposób ich uiszczania, uwzględniając nakład pracy związanej z wykonywaniem danej czynności i poziomem kosztów ponoszonych przez Urząd Rejestracji – uwzględniając w szczególności dane określone w ust. 2. ” ;
 - **58)** w art. 48 w ust. 1 pkt 2 otrzymuje brzmienie: „
 - **2)** w przypadku produktu leczniczego pochodzącego z importu, bez względu na to, czy produkt został wytworzony w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym – każda seria produktu leczniczego została poddana na terytorium Rzeczypospolitej Polskiej pełnej analizie jakościowej i ilościowej, przynajmniej w odniesieniu do wszystkich substancji czynnych, oraz innym testom i badaniom koniecznym do zapewnienia jakości produktów leczniczych zgodnie z wymaganiami określonymi w pozwoleniu na dopuszczenie do obrotu. ” ;
 - **59)** po art. 51 dodaje się art. 51a w brzmieniu: „ Art. 51 a. Przepisy niniejszego rozdziału stosuje się również do produktów leczniczych przeznaczonych wyłącznie na eksport, produktów pośrednich oraz do badanych produktów leczniczych. ” ;
@@ -1069,7 +1093,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 - **b)**
 
-2. Przepis ust. 1 nie dotyczy szczepień ochronnych określonych w komunikacie Głównego Inspektora Sanitarnego wydanym na podstawie art. 14 ust. 9 ustawy z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. Nr 126, poz. 1384, z późn. zm.). ” ;
+2. Przepis ust. 1 nie dotyczy szczepień ochronnych określonych w komunikacie Głównego Inspektora Sanitarnego wydanym na podstawie art. 14 ust. 9 ustawy z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. Nr 126, poz. 1384, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391 i Nr 199, poz. 1938, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 210, poz. 2135 oraz z 2006 r. Nr 220, poz. 1600.). ” ;
 
 - **63)** w art. 58 ust. 3 otrzymuje brzmienie: „
 
@@ -1082,7 +1106,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **1)** warunki i formy reklamy produktów leczniczych kierowanej do publicznej wiadomości, do osób uprawnionych do wystawiania recept i osób prowadzących obrót produktami leczniczymi,
 - **2)** niezbędne dane, jakie reklama ma zawierać,
 - **3)** sposób przekazywania reklamy,
-- **4)** dokumentację będącą podstawą do wprowadzenia na terytorium Rzeczypospolitej Polskiej próbek produktów leczniczych przeznaczonych do dostarczania w ramach reklamy uwzględniając w szczególności obowiązek obiektywnej prezentacji produktu leczniczego oraz bezpieczeństwo jego stosowania. ” ;
+- **4)** dokumentację będącą podstawą do wprowadzenia na terytorium Rzeczypospolitej Polskiej próbek produktów leczniczych przeznaczonych do dostarczania w ramach reklamy – uwzględniając w szczególności obowiązek obiektywnej prezentacji produktu leczniczego oraz bezpieczeństwo jego stosowania. ” ;
 - **65)** w art. 60 dodaje się ust. 5 w brzmieniu: „
 
 5. Przepisy ust. 1–4 stosuje się do podmiotu uprawnionego do importu równoległego. ” ;
@@ -1146,7 +1170,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 1. Lekarz weterynarii świadczący usługi lekarsko-weterynaryjne w ramach zakładu leczniczego dla zwierząt jest obowiązany do:
 
-- **1)** prowadzenia dokumentacji w odniesieniu do każdej transakcji dotyczącej produktów leczniczych weterynaryjnych wydawanych na receptę w postaci: dokumentacji obrotu detalicznego, dokumentacji lekarsko-weterynaryjnej w sposób określony przepisami ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625, z późn. zm.);
+- **1)** prowadzenia dokumentacji w odniesieniu do każdej transakcji dotyczącej produktów leczniczych weterynaryjnych wydawanych na receptę w postaci: dokumentacji obrotu detalicznego, dokumentacji lekarsko-weterynaryjnej w sposób określony przepisami ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 23, poz. 188 i Nr 33, poz. 289 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1045 i Nr 249, poz. 1830.);
     - **a)**
     - **b)**
 
@@ -1175,7 +1199,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 - **1)** sklepy zielarsko-medyczne,
 - **2)** sklepy specjalistyczne zaopatrzenia medycznego,
-- **3)** sklepy ogólnodostępne zwane dalej „placówkami obrotu pozaaptecznego”. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **3)** sklepy ogólnodostępne – zwane dalej „placówkami obrotu pozaaptecznego”. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Poza zakładami leczniczymi dla zwierząt przedsiębiorcy mogą prowadzić obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza po zgłoszeniu wojewódzkiemu lekarzowi weterynarii na 7 dni przed rozpoczęciem działalności. ” , ust. 3 otrzymuje brzmienie: „
@@ -1187,14 +1211,14 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **1)** kryteria klasyfikacji produktów leczniczych do wykazów, o których mowa w pkt 2,
 - **2)** wykazy produktów leczniczych, które mogą być dopuszczone do obrotu w placówkach obrotu pozaaptecznego oraz punktach aptecznych,
 - **3)** kwalifikacje osób wydających produkty lecznicze w placówkach obrotu pozaaptecznego,
-- **4)** wymagania, jakim powinien odpowiadać lokal i wyposażenie placówek obrotu pozaaptecznego i punktu aptecznego, o którym mowa w art. 70 uwzględniając bezpieczeństwo stosowania produktów leczniczych oraz wymagania dotyczące przechowywania i dystrybucji produktów leczniczych w tych placówkach. ” , dodaje się ust. 4 i 5 w brzmieniu: „
+- **4)** wymagania, jakim powinien odpowiadać lokal i wyposażenie placówek obrotu pozaaptecznego i punktu aptecznego, o którym mowa w art. 70 – uwzględniając bezpieczeństwo stosowania produktów leczniczych oraz wymagania dotyczące przechowywania i dystrybucji produktów leczniczych w tych placówkach. ” , dodaje się ust. 4 i 5 w brzmieniu: „
     - **d)**
 
 4. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** kryteria klasyfikacji produktów leczniczych weterynaryjnych do wykazu, o którym mowa w pkt 2,
 - **2)** wykaz produktów leczniczych weterynaryjnych, które mogą być przedmiotem obrotu przez podmioty, o których mowa w ust. 1a,
-- **3)** warunki, jakie powinny spełniać podmioty, o których mowa w ust. 1a mając na względzie zapewnienie bezpieczeństwa obrotu detalicznego produktami leczniczymi weterynaryjnymi oraz uwarunkowania higieniczno-sanitarne, a w szczególności zapewnienie należytego oddzielenia tych produktów od pozostałego asortymentu oraz zapewnienie właściwego przechowywania.
+- **3)** warunki, jakie powinny spełniać podmioty, o których mowa w ust. 1a – mając na względzie zapewnienie bezpieczeństwa obrotu detalicznego produktami leczniczymi weterynaryjnymi oraz uwarunkowania higieniczno-sanitarne, a w szczególności zapewnienie należytego oddzielenia tych produktów od pozostałego asortymentu oraz zapewnienie właściwego przechowywania.
 
 5. Wykazy, o których mowa w ust. 3 pkt 2 i w ust. 4 pkt 2, aktualizuje się co 12 miesięcy. ” ;
 
@@ -1237,8 +1261,11 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 7. Minister właściwy do spraw zdrowia, a w odniesieniu do produktów leczniczych weterynaryjnych minister właściwy do spraw rolnictwa, określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 6, uwzględniając w szczególności rodzaj prowadzonej działalności gospodarczej, przy czym wysokość tej opłaty nie może być wyższa niż siedmiokrotność minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę. ” ;
 
-- **74)** w art. 78: w ust. 1: – pkt 6 otrzymuje brzmienie: „ 6) przekazywanie ministrowi właściwemu do spraw zdrowia, a w przypadku produktów leczniczych weterynaryjnych ministrowi właściwemu do spraw rolnictwa, kwartalnych raportów dotyczących wielkości obrotu produktami leczniczymi, wraz ze strukturą tego obrotu; ” , – dodaje się pkt 7 w brzmieniu: „ 7) przechowywanie dokumentów, o których mowa w pkt 6, przez okres 5 lat, licząc od końca danego roku kalendarzowego. ” , dodaje się ust. 4 w brzmieniu: „
+- **74)** w art. 78: w ust. 1: pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** przekazywanie ministrowi właściwemu do spraw zdrowia, a w przypadku produktów leczniczych weterynaryjnych ministrowi właściwemu do spraw rolnictwa, kwartalnych raportów dotyczących wielkości obrotu produktami leczniczymi, wraz ze strukturą tego obrotu; ” , dodaje się pkt 7 w brzmieniu: „
+- **7)** przechowywanie dokumentów, o których mowa w pkt 6, przez okres 5 lat, licząc od końca danego roku kalendarzowego. ” , dodaje się ust. 4 w brzmieniu: „
     - **b)**
 
 4. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, zakres danych, o których mowa w ust. 1 pkt 6, i sposób ich przekazywania, zapewniając zachowanie tajemnicy handlowej i uwzględniając w szczególności strukturę obrotu produktami leczniczymi weterynaryjnymi skierowanymi do zakładów leczniczych dla zwierząt oraz sposób identyfikacji produktów. ” ;
@@ -1303,7 +1330,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 - **1)** warunkami wytwarzania i importu produktów leczniczych i produktów leczniczych weterynaryjnych,
 - **2)** jakością i obrotem produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych,
-- **3)** obrotem wyrobami medycznymi, z wyłączeniem wyrobów medycznych stosowanych w medycynie weterynaryjnej w celu zabezpieczenia interesu społecznego w zakresie bezpieczeństwa zdrowia i życia ludzi przy stosowaniu produktów leczniczych i wyrobów medycznych, znajdujących się w hurtowniach farmaceutycznych, aptekach, działach farmacji szpitalnej, punktach aptecznych i placówkach obrotu pozaaptecznego. ” , uchyla się ust. 2 i 3, w ust. 4 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **3)** obrotem wyrobami medycznymi, z wyłączeniem wyrobów medycznych stosowanych w medycynie weterynaryjnej – w celu zabezpieczenia interesu społecznego w zakresie bezpieczeństwa zdrowia i życia ludzi przy stosowaniu produktów leczniczych i wyrobów medycznych, znajdujących się w hurtowniach farmaceutycznych, aptekach, działach farmacji szpitalnej, punktach aptecznych i placówkach obrotu pozaaptecznego. ” , uchyla się ust. 2 i 3, w ust. 4 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -1360,7 +1387,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **1)** sposób przeprowadzania kontroli i rodzaje kontroli,
 - **2)** sposób i tryb pobierania próbek do badań oraz przeprowadzania badań,
 - **3)** tryb przeprowadzania kontroli przyjmowanych i wydawanych produktów leczniczych oraz warunki ich transportowania,
-- **4)** wzór i sposób prowadzenia książki kontroli, o której mowa w art. 123, sposób dokonywania wpisów oraz tryb powiadamiania o usunięciu stwierdzonych uchybień uwzględniając przepisy prawa i wytyczne Wspólnoty Europejskiej. ” , dodaje się ust. 6 w brzmieniu: „
+- **4)** wzór i sposób prowadzenia książki kontroli, o której mowa w art. 123, sposób dokonywania wpisów oraz tryb powiadamiania o usunięciu stwierdzonych uchybień – uwzględniając przepisy prawa i wytyczne Wspólnoty Europejskiej. ” , dodaje się ust. 6 w brzmieniu: „
     - **d)**
 
 6. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, formy współpracy z Inspekcją Farmaceutyczną organów wojskowych sprawujących nadzór nad wytwarzaniem i obrotem produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, i wyrobami medycznymi w zakładach opieki zdrowotnej tworzonych przez Ministra Obrony Narodowej i jednostkach wojskowych, uwzględniając:
@@ -1418,7 +1445,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 - **1)** sposób przeprowadzania kontroli i inspekcji oraz rodzaje kontroli i inspekcji,
 - **2)** sposób i tryb pobierania próbek do badań oraz przeprowadzania badań,
 - **3)** tryb przeprowadzania kontroli przyjmowanych i wydawanych produktów leczniczych i wyrobów medycznych oraz warunki ich transportowania,
-- **4)** wzór i sposób prowadzenia książki kontroli, sposób dokonywania wpisów oraz tryb powiadamiania o usunięciu stwierdzonych uchybień uwzględniając przepisy prawa i wytyczne Wspólnoty Europejskiej. ” ;
+- **4)** wzór i sposób prowadzenia książki kontroli, sposób dokonywania wpisów oraz tryb powiadamiania o usunięciu stwierdzonych uchybień – uwzględniając przepisy prawa i wytyczne Wspólnoty Europejskiej. ” ;
 - **95)** po art. 126 dodaje się art. 126a w brzmieniu: „
 
 **Art. 126a.** Kto bez wymaganego pozwolenia lub niezgodnie z przepisami rozdziału 2a prowadzi badanie kliniczne lub badanie kliniczne weterynaryjne produktu leczniczego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. ” ;
@@ -1465,7 +1492,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzęd
 
 **Art. 2.** W ustawie z dnia 27 lipca 2001 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 126, poz. 1379, z 2002 r. Nr 152, poz. 1263, z 2004 r. Nr 93, poz. 896 oraz z 2006 r. Nr 170, poz. 1217) w art. 6 w ust. 1 w pkt 1 dodaje się lit. j w brzmieniu: „
 
-prowadzenie kontroli systemu monitorowania bezpieczeństwa stosowania produktów leczniczych, ” . W ustawie z dnia 6 września 2001 r. – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 126, poz. 1382, z późn. zm.) wprowadza się następujące zmiany:
+prowadzenie kontroli systemu monitorowania bezpieczeństwa stosowania produktów leczniczych, ” . W ustawie z dnia 6 września 2001 r. – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 126, poz. 1382, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1801, z 2002 r. Nr 32, poz. 300 i Nr 152, poz. 1266 oraz z 2004 r. Nr 10, poz. 77, Nr 92, poz. 882 i Nr 93, poz. 896.) wprowadza się następujące zmiany:
 
 - **j)**
 - **1)** w art. 14: po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
@@ -1486,11 +1513,11 @@ prowadzenie kontroli systemu monitorowania bezpieczeństwa stosowania produktów
 
 - **b)**
 
-5a. Apteki szpitalne, o których mowa w ust. 5, które nie dostosowały swojej działalności do wymagań określonych w art. 98 ust. 1 i 4 Prawa farmaceutycznego w terminie określonym w ust. 5, są obowiązane dostosować swoją działalność, w zakresie i terminach określonych w przepisach wydanych na podstawie art. 9 ust. 2 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89). ” . W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.) w art. 16 w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „
+5a. Apteki szpitalne, o których mowa w ust. 5, które nie dostosowały swojej działalności do wymagań określonych w art. 98 ust. 1 i 4 Prawa farmaceutycznego w terminie określonym w ust. 5, są obowiązane dostosować swoją działalność, w zakresie i terminach określonych w przepisach wydanych na podstawie art. 9 ust. 2 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89). ” . W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442, z 2005 r. Nr 157, poz. 1316, Nr 178, poz. 1479, Nr 180, poz. 1492 i Nr 183, poz. 1538 oraz z 2006 r. Nr 120, poz. 826.) w art. 16 w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „
 
-- **14)** określone w art. 124, 124a, 126, 130 i 132d ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, z późn. zm.). ” .
+- **14)** określone w art. 124, 124a, 126, 130 i 132d ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 91, poz. 877, Nr 92, poz. 882, Nr 93, poz. 896, Nr 173, poz. 1808, Nr 210, poz. 2135 i Nr 273, poz. 2703, z 2005 r. Nr 94, poz. 787, Nr 163, poz. 1362, Nr 179, poz. 1485 i Nr 184, poz. 1539, z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 217, poz. 1588 oraz z 2007 r. Nr 50, poz. 331 i Nr 75, poz. 492.). ” .
 
-**Art. 5.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. Nr 33, poz. 287, z późn. zm.) w art. 3 w ust. 2 w pkt 5 lit. e otrzymuje brzmienie: „
+**Art. 5.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. Nr 33, poz. 287, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 877 i Nr 273, poz. 2703, z 2005 r. Nr 23, poz. 188, Nr 33, poz. 289, Nr 163, poz. 1362 i Nr 178, poz. 1480, z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1045, Nr 170, poz. 1217 i Nr 171, poz. 1225 oraz z 2007 r. Nr 52, poz. 345.) w art. 3 w ust. 2 w pkt 5 lit. e otrzymuje brzmienie: „
 
 obrotem i ilością stosowanych produktów leczniczych weterynaryjnych, ” .
 
@@ -1517,11 +1544,10 @@ obrotem i ilością stosowanych produktów leczniczych weterynaryjnych, ” .
 **Art. 14.** Decyzje ostateczne w sprawie zezwolenia na wytwarzanie lub import produktów leczniczych weterynaryjnych, wydane na podstawie przepisów ustawy zmienianej w art. 1 przed dniem wejścia w życie niniejszej ustawy, zachowują ważność. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 2, art. 10 ust. 7, art. 17 ust. 3, art. 23 ust. 3, art. 26 ust. 2, art. 36a, art. 37w, art. 39 ust. 4 pkt 1, art. 47b ust. 2, art. 59, art. 69 ust. 1b i 5, art. 70 ust. 7, art. 71 ust. 3, art. 74 ust. 7, art. 118 ust. 4 i art. 123 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 2, art. 10 ust. 7 i 8, art. 17 ust. 3, art. 23 ust. 3 i 3a, art. 26 ust. 2 i 3, art. 36a, art. 37w, art. 39 ust. 4 pkt 1, art. 47b ust. 3, art. 59, art. 69 ust. 5 i 6, art. 70 ust. 7, art. 71 ust. 3 i 4, art. 74 ust. 7, art. 118 ust. 4 i art. 123 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie z dniem 1 maja 2007 r., z wyjątkiem:
 
 - **1)** art. 54 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w zakresie dotyczącym informacji o przyznanej kategorii dostępności, o cenie urzędowej detalicznej oraz o maksymalnej kwocie dopłaty ponoszonej przez pacjenta, oraz art. 55 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w zakresie dotyczącym osób znanych publicznie, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
-- **2)** art. 132e ustawy zmienianej w art. 1, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-- **1)** Przepisy niniejszej ustawy wdrażają postanowienia:
+- **2)** art. 132e ustawy zmienianej w art. 1, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Przepisy niniejszej ustawy wdrażają postanowienia:
 - **1)** dyrektywy 2004/24/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. zmieniającej dyrektywę 2001/83/WE w sprawie wspólnotowego kodeksu dotyczącego produktów leczniczych stosowanych u ludzi, w odniesieniu do tradycyjnych ziołowych produktów leczniczych (Dz. Urz. UE L 136 z 30.04.2004, str. 85; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 313),
 - **2)** dyrektywy 2004/27/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. zmieniającej dyrektywę 2001/83/WE w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 136 z 30.04.2004, str. 34; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 262),
 - **3)** dyrektywy 2004/28/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. zmieniającej dyrektywę 2001/82/WE w sprawie wspólnotowego kodeksu odnoszącego się do weterynaryjnych produktów leczniczych (Dz. Urz. UE L 136 z 30.04.2004, str. 58; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 286),
-- **4)** dyrektywy 2001/20/WE Parlamentu Europejskiego i Rady z dnia 4 kwietnia 2001 r. w sprawie zbliżania przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich, odnoszących się do wdrożenia zasady dobrej praktyki klinicznej w prowadzeniu badań klinicznych produktów leczniczych przeznaczonych do stosowania przez człowieka (Dz. Urz. WE L 121 z 01.05.2001, str. 34; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 26, str. 299). Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 6 września 2001 r. – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary oraz ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej.
+- **4)** dyrektywy 2001/20/WE Parlamentu Europejskiego i Rady z dnia 4 kwietnia 2001 r. w sprawie zbliżania przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich, odnoszących się do wdrożenia zasady dobrej praktyki klinicznej w prowadzeniu badań klinicznych produktów leczniczych przeznaczonych do stosowania przez człowieka (Dz. Urz. WE L 121 z 01.05.2001, str. 34; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 26, str. 299). Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lipca 2001 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 6 września 2001 r. – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary oraz ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 91, poz. 877, Nr 92, poz. 882, Nr 93, poz. 896, Nr 173, poz. 1808, Nr 210, poz. 2135 i Nr 273, poz. 2703, z 2005 r. Nr 94, poz. 787, Nr 163, poz. 1362, Nr 179, poz. 1485 i Nr 184, poz. 1539, z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 217, poz. 1588 oraz z 2007 r. Nr 50, poz. 331. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804 oraz z 2005 r. Nr 10, poz. 68. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 33, poz. 286, z 2005 r. Nr 10, poz. 68, Nr 163, poz. 1362 i Nr 167, poz. 1398 oraz z 2006 r. Nr 170, poz. 1217 i 1218 i Nr 208, poz. 1539. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1085, Nr 123, poz. 1350 i Nr 125, poz. 1367, z 2002 r. Nr 135, poz. 1145 i Nr 142, poz. 1187, z 2003 r. Nr 189, poz. 1852, z 2004 r. Nr 96, poz. 959 i Nr 121, poz. 1263, z 2005 r. Nr 179, poz. 1485 oraz z 2006 r. Nr 171, poz. 1225. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391 i Nr 199, poz. 1938, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 210, poz. 2135 oraz z 2006 r. Nr 220, poz. 1600. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 23, poz. 188 i Nr 33, poz. 289 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1045 i Nr 249, poz. 1830. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1801, z 2002 r. Nr 32, poz. 300 i Nr 152, poz. 1266 oraz z 2004 r. Nr 10, poz. 77, Nr 92, poz. 882 i Nr 93, poz. 896. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442, z 2005 r. Nr 157, poz. 1316, Nr 178, poz. 1479, Nr 180, poz. 1492 i Nr 183, poz. 1538 oraz z 2006 r. Nr 120, poz. 826. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 91, poz. 877, Nr 92, poz. 882, Nr 93, poz. 896, Nr 173, poz. 1808, Nr 210, poz. 2135 i Nr 273, poz. 2703, z 2005 r. Nr 94, poz. 787, Nr 163, poz. 1362, Nr 179, poz. 1485 i Nr 184, poz. 1539, z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 217, poz. 1588 oraz z 2007 r. Nr 50, poz. 331 i Nr 75, poz. 492. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 877 i Nr 273, poz. 2703, z 2005 r. Nr 23, poz. 188, Nr 33, poz. 289, Nr 163, poz. 1362 i Nr 178, poz. 1480, z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1045, Nr 170, poz. 1217 i Nr 171, poz. 1225 oraz z 2007 r. Nr 52, poz. 345.
 
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-15 |
 | Data wydania | 2021-06-24 |
-| Wejście w życie | 2021-06-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1135/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
 **Art. 2.** Operator wyznaczony przedkłada Prezesowi Urzędu Komunikacji Elektronicznej projekt:
 
 - **1)** cennika, o którym mowa w art. 52 ust. 6 ustawy zmienianej w art. 1,
-- **2)** regulaminu świadczenia publicznej usługi rejestrowanego doręczenia elektronicznego i publicznej usługi hybrydowej, o którym mowa w art. 54 ust. 3 ustawy zmienianej w art. 1 w terminie do dnia 5 sierpnia 2021 r.
+- **2)** regulaminu świadczenia publicznej usługi rejestrowanego doręczenia elektronicznego i publicznej usługi hybrydowej, o którym mowa w art. 54 ust. 3 ustawy zmienianej w art. 1 – w terminie do dnia 5 sierpnia 2021 r.
 
 **Art. 3.** Postępowania administracyjne w sprawie przedłożonego na podstawie art. 150 ustawy zmienianej w art. 1 projektu pierwszego cennika publicznej usługi rejestrowanego doręczenia elektronicznego i publicznej usługi hybrydowej oraz projektu pierwszego regulaminu świadczenia publicznej usługi rejestrowanego doręczenia elektronicznego i publicznej usługi hybrydowej, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, umarza się.
 

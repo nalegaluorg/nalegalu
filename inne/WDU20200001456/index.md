@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 19 sierpnia 2020 r. w sprawie udzielania pomocy publicznej za pośrednictwem Narodowego Centrum Badań i Rozwoju
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 19 sierpnia 2020 r. w sprawie udzielania pomocy publicznej za pośrednictwem Narodowego Centrum Badań i Rozwoju Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 kwietnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 724).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-19 |
 | Data wydania | 2020-08-26 |
-| Wejście w życie | 2020-09-01 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001456) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1456/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych oraz przygotowanie studiów wykonalności Rozdział 3 – Pomoc w ramach wyłączeń grupowych na wspieranie innowacyjności Rozdział 4 – Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury Rozdział 5 – Pomoc w ramach wyłączeń grupowych na wspieranie komercjalizacji przez finansowanie ryzyka Rozdział 6 – Pomoc w ramach wyłączeń grupowych na wspieranie przedsiębiorców rozpoczynających prowadzenie działalności B+R+I Rozdział 7 – Pomoc w ramach wyłączeń grupowych na pokrycie kosztów rozpoznania potencjalnych beneficjentów pomocy na wspieranie komercjalizacji przez finansowanie ryzyka Rozdział 8 – Pomoc w ramach wyłączeń grupowych na usługi doradcze Rozdział 9 – Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych na rzecz nowej działalności gospodarczej Rozdział 10 – Pomoc de minimis Rozdział 11 – Pomoc na rzecz IPCEI Rozdział 12 – Przepis przejściowy i przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 33 ust. 2 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2019 r. poz. 1770 i 2020 oraz z 2020 r. poz. 284 i 695) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki i tryb udzielania pomocy publicznej za pośrednictwem Narodowego Centrum Badań i Rozwoju, zwanego dalej „Centrum”, w tym:
 1)
@@ -42,7 +42,7 @@ maksymalne wielkości pomocy.
 § 2.
 Pomoc publiczna może być udzielana za pośrednictwem Centrum jako:
 1)
-pomoc zgodna z przepisami rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”, przeznaczona na:
+pomoc zgodna z przepisami rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 10.07.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3., zwanego dalej „rozporządzeniem nr 651/2014”, przeznaczona na:
 a)
 prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych oraz przygotowanie studiów wykonalności – zgodnie z art. 25 rozporządzenia nr 651/2014,
 b)
@@ -58,12 +58,11 @@ pokrycie kosztów rozpoznania potencjalnych beneficjentów pomocy publicznej na 
 g)
 usługi doradcze – zgodnie z art. 18 rozporządzenia nr 651/2014,
 h)
-wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych na rzecz nowej działalności gospodarczej – zgodnie z art. 14 rozporządzenia nr 651/2014
-zwana dalej „pomocą w ramach wyłączeń grupowych”;
+wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych na rzecz nowej działalności gospodarczej – zgodnie z art. 14 rozporządzenia nr 651/2014 – zwana dalej „pomocą w ramach wyłączeń grupowych”;
 2)
-pomoc de minimis zgodna z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1407/2013”, przeznaczona na wspieranie komercjalizacji oraz innych form transferu do gospodarki wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych lub know-how związanego z tymi wynikami;
+pomoc de minimis zgodna z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 07.07.2020, str. 3., zwanego dalej „rozporządzeniem nr 1407/2013”, przeznaczona na wspieranie komercjalizacji oraz innych form transferu do gospodarki wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych lub know-how związanego z tymi wynikami;
 3)
-pomoc na wspieranie realizacji ważnych projektów stanowiących przedmiot wspólnego europejskiego zainteresowania ( important projects of common European interest ), o których mowa w art. 107 ust. 3 lit. b Traktatu o Funkcjonowaniu Unii Europejskiej, zwana dalej „pomocą na rzecz IPCEI”.
+pomoc na wspieranie realizacji ważnych projektów stanowiących przedmiot wspólnego europejskiego zainteresowania ( important projects of common European interest ), o których mowa w art. 107 ust. 3 lit. b Traktatu o Funkcjonowaniu Unii Europejskiej, zwana dalej „pomocą na rzecz IPCEI”Warunki, pod którymi pomoc na rzecz IPCEI może być uznana za zgodną z rynkiem wewnętrznym, zostały określone w komunikacie Komisji Kryteria analizy zgodności z rynkiem wewnętrznym pomocy państwa na wspieranie realizacji ważnych projektów stanowiących przedmiot wspólnego europejskiego zainteresowania (Dz. Urz. UE C 188 z 20.06.2014, str. 4 oraz Dz. Urz. UE C 224 z 08.07.2020, str. 2)..
 § 3.
 1.
 Przepisów rozporządzenia nie stosuje się do pomocy publicznej niebędącej pomocą de minimis albo pomocą na rzecz IPCEI, która:
@@ -74,7 +73,7 @@ jest uwarunkowana pierwszeństwem użycia towarów produkcji krajowej w stosunku
 3)
 jest udzielana w sektorze:
 a)
-rybołówstwa i akwakultury zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającym rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającym rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.), z wyłączeniem pomocy, o której mowa w § 2 pkt 1 lit. a-f,
+rybołówstwa i akwakultury zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającym rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającym rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 133 z 29.05.2015, str. 1., z wyłączeniem pomocy, o której mowa w § 2 pkt 1 lit. a-f,
 b)
 produkcji podstawowej produktów rolnych, z wyłączeniem pomocy, o której mowa w § 2 pkt 1 lit. a-d i g,
 c)
@@ -161,8 +160,7 @@ O pomoc publiczną, o której mowa w § 2, mogą ubiegać się:
 1)
 przedsiębiorca,
 2)
-grupa podmiotów, w skład której wchodzi co najmniej jedna organizacja badawcza i co najmniej jeden przedsiębiorca
-wskazani w ogłoszeniu o naborze wniosków.
+grupa podmiotów, w skład której wchodzi co najmniej jedna organizacja badawcza i co najmniej jeden przedsiębiorca – wskazani w ogłoszeniu o naborze wniosków.
 2.
 Wniosek o udzielenie pomocy publicznej w imieniu grupy podmiotów, o której mowa w ust. 1 pkt 2, może złożyć przedsiębiorca albo organizacja badawcza.
 § 9.
@@ -250,6 +248,7 @@ Pomocy de minimis nie można łączyć z pomocą w ramach wyłączeń grupowych 
 Pomoc de minimis może zostać udzielona przedsiębiorcy, jeżeli wartość brutto tej pomocy łącznie z wartością brutto innej pomocy de minimis , udzielonej mu w okresie 3 lat podatkowych, nie przekroczy kwoty stanowiącej równowartość 200 000 euro, a w przypadku przedsiębiorcy prowadzącego działalność zarobkową w zakresie transportu drogowego towarów – 100 000 euro.
 7.
 Pomoc na rzecz IPCEI można łączyć z inną pomocą publiczną, o której mowa w § 2, jeżeli taka kumulacja jest dopuszczalna na podstawie decyzji potwierdzającej zgodność.
+Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych oraz przygotowanie studiów wykonalności
 § 12.
 1.
 W przypadku pomocy w ramach wyłączeń grupowych udzielanej na projekt obejmujący badania podstawowe, badania przemysłowe lub eksperymentalne prace rozwojowe kosztami kwalifikowalnymi są koszty:
@@ -300,6 +299,7 @@ W przypadku studiów wykonalności intensywność pomocy w ramach wyłączeń gr
 10 punktów procentowych – dla średnich przedsiębiorców;
 2)
 20 punktów procentowych – dla mikro- i małych przedsiębiorców.
+Pomoc w ramach wyłączeń grupowych na wspieranie innowacyjności
 § 15.
 Pomoc w ramach wyłączeń grupowych na wspieranie innowacyjności jest udzielana mikro-, małemu albo średniemu przedsiębiorcy.
 § 16.
@@ -315,6 +315,7 @@ usług doradczych w zakresie innowacji w rozumieniu art. 2 pkt 94 rozporządzeni
 Intensywność pomocy w ramach wyłączeń grupowych na wspieranie innowacyjności nie może przekroczyć 50% kosztów kwalifikowalnych.
 2.
 Intensywność pomocy w ramach wyłączeń grupowych na wspieranie innowacyjności przeznaczonej na pokrycie kosztów, o których mowa w § 16 pkt 3, może zostać zwiększona do 100% kosztów kwalifikowalnych pod warunkiem, że całkowita wielkość tej pomocy nie przekroczy równowartości 200 000 euro dla jednego przedsiębiorcy w okresie 3 lat poprzedzających złożenie wniosku, o którym mowa w § 9 ust. 1.
+Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury
 § 18.
 Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury jest udzielana, jeżeli projekt objęty pomocą znajduje się w sferze zainteresowania wszystkich przedsiębiorców działających w tym sektorze.
 § 19.
@@ -339,6 +340,7 @@ Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań 
 W przypadku pomocy w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury kosztami kwalifikowalnymi są koszty, o których mowa w § 12 ust. 1.
 § 23.
 Intensywność pomocy w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury nie może przekroczyć 100% kosztów kwalifikowalnych.
+Pomoc w ramach wyłączeń grupowych na wspieranie komercjalizacji przez finansowanie ryzyka
 § 24.
 1.
 Pomoc w ramach wyłączeń grupowych na wspieranie komercjalizacji przez finansowanie ryzyka jest udzielana mikro-, małemu albo średniemu przedsiębiorcy, prowadzącemu badania podstawowe, badania przemysłowe lub eksperymentalne prace rozwojowe, który w dniu dokonania początkowej inwestycji w zakresie finansowania ryzyka w rozumieniu art. 2 pkt 71 rozporządzenia nr 651/2014 jest nienotowanym mikro-, małym albo średnim przedsiębiorcą w rozumieniu art. 2 pkt 76 rozporządzenia nr 651/2014 i spełnia co najmniej jeden z następujących warunków:
@@ -347,8 +349,7 @@ nie prowadzi działalności na żadnym rynku,
 2)
 prowadzi działalność na dowolnym rynku przez okres krótszy niż 7 lat od pierwszej sprzedaży komercyjnej w rozumieniu art. 2 pkt 75 rozporządzenia nr 651/2014,
 3)
-potrzebuje początkowej inwestycji w zakresie finansowania ryzyka, która – w oparciu o biznesplan sporządzony w celu wprowadzenia na nowy rynek produktowy lub geograficzny produktu lub usługi, które powstały w wyniku badań podstawowych, badań przemysłowych lub eksperymentalnych prac rozwojowych – przekracza 50% jego średnich rocznych obrotów w poprzednich 5 latach
-zwanemu dalej „przedsiębiorcą kwalifikowalnym”.
+potrzebuje początkowej inwestycji w zakresie finansowania ryzyka, która – w oparciu o biznesplan sporządzony w celu wprowadzenia na nowy rynek produktowy lub geograficzny produktu lub usługi, które powstały w wyniku badań podstawowych, badań przemysłowych lub eksperymentalnych prac rozwojowych – przekracza 50% jego średnich rocznych obrotów w poprzednich 5 latach – zwanemu dalej „przedsiębiorcą kwalifikowalnym”.
 2.
 Pomoc w ramach wyłączeń grupowych na wspieranie komercjalizacji przez finansowanie ryzyka może być przeznaczona również na pokrycie kosztów inwestycji kontynuacyjnych w rozumieniu art. 2 pkt 77 rozporządzenia nr 651/2014 w zakresie finansowania ryzyka, następujących po wcześniejszej albo kilku wcześniejszych inwestycjach w zakresie finansowania ryzyka w danego przedsiębiorcę kwalifikowalnego, w tym po upływie okresu, o którym mowa w ust. 1 pkt 2, pod warunkiem że:
 1)
@@ -371,8 +372,7 @@ wybranym przez Centrum w drodze otwartego, przejrzystego i niedyskryminującego 
 a)
 doświadczeniem i wiedzą fachową członków organu zarządzającego tym podmiotem albo osób prowadzących jego sprawy,
 b)
-potencjałem operacyjnym i finansowym tego podmiotu
-zwanym dalej „funduszem”.
+potencjałem operacyjnym i finansowym tego podmiotu – zwanym dalej „funduszem”.
 2.
 Pomoc w ramach wyłączeń grupowych na wspieranie komercjalizacji przez finansowanie ryzyka może zostać udzielona, jeżeli fundusz spełnia następujące warunki:
 1)
@@ -431,7 +431,7 @@ stosowania dobrych praktyk w zarządzaniu funduszem.
 5.
 Wynagrodzenie z tytułu zarządzania funduszem jest powiązane z wynikami osiąganymi przez fundusz.
 § 27.
-Udział pomocy w ramach wyłączeń grupowych na wspieranie komercjalizacji przez finansowanie ryzyka i innych środków publicznych w rozumieniu art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.) w całkowitej wartości inwestycji:
+Udział pomocy w ramach wyłączeń grupowych na wspieranie komercjalizacji przez finansowanie ryzyka i innych środków publicznych w rozumieniu art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.) w całkowitej wartości inwestycji:
 1)
 w przedsiębiorców kwalifikowalnych, o których mowa w:
 a)
@@ -442,6 +442,7 @@ c)
 § 24 ust. 1 pkt 3 – wynosi nie więcej niż 40%;
 2)
 kontynuacyjnych w przedsiębiorców kwalifikowalnych po upływie okresu, o którym mowa w § 24 ust. 1 pkt 2 – wynosi nie więcej niż 40%.
+Pomoc w ramach wyłączeń grupowych na wspieranie przedsiębiorców rozpoczynających prowadzenie działalności B+R+I
 § 28.
 Pomoc w ramach wyłączeń grupowych na wspieranie przedsiębiorców rozpoczynających prowadzenie działalności B+R+I jest udzielana małemu przedsiębiorcy w rozumieniu załącznika I do rozporządzenia nr 651/2014, który:
 1)
@@ -486,12 +487,14 @@ c)
 kombinacji form, o których mowa w pkt 1–3, pod warunkiem że odsetek kwoty przyznanej w jednej formie, obliczony na podstawie maksymalnej wielkości pomocy dopuszczalnej dla tej formy, jest uwzględniony przy ustalaniu pozostałego odsetka maksymalnej wielkości pomocy udzielanej w innych formach wchodzących w skład kombinacji.
 § 30.
 W przypadku małych przedsiębiorców spełniających kryteria przedsiębiorstwa innowacyjnego w rozumieniu art. 2 pkt 80 rozporządzenia nr 651/2014 maksymalne wielkości pomocy, o których mowa w § 29, ulegają podwojeniu.
+Pomoc w ramach wyłączeń grupowych na pokrycie kosztów rozpoznania potencjalnych beneficjentów pomocy na wspieranie komercjalizacji przez finansowanie ryzyka
 § 31.
 Pomoc w ramach wyłączeń grupowych na pokrycie kosztów rozpoznania potencjalnych beneficjentów pomocy na wspieranie komercjalizacji przez finansowanie ryzyka jest udzielana funduszowi.
 § 32.
 Kosztami kwalifikowalnymi są koszty wstępnego rozpoznania oraz badania sytuacji prawnej i ekonomicznej potencjalnych beneficjentów pomocy na wspieranie komercjalizacji przez finansowanie ryzyka, ponoszone w celu oceny szansy na dokonanie komercjalizacji.
 § 33.
 Intensywność pomocy w ramach wyłączeń grupowych na pokrycie kosztów rozpoznania potencjalnych beneficjentów pomocy na wspieranie komercjalizacji przez finansowanie ryzyka nie może przekroczyć 50% kosztów kwalifikowalnych.
+Pomoc w ramach wyłączeń grupowych na usługi doradcze
 § 34.
 Pomoc w ramach wyłączeń grupowych na usługi doradcze jest udzielana mikro-, małemu albo średniemu przedsiębiorcy, który:
 1)
@@ -508,13 +511,13 @@ niemających charakteru ciągłego ani okresowego;
 niezwiązanych ze zwykłymi kosztami operacyjnymi przedsiębiorcy, takimi jak stałe usługi doradztwa podatkowego, regularne usługi prawnicze lub reklama.
 § 36.
 Intensywność pomocy w ramach wyłączeń grupowych na usługi doradcze nie może przekroczyć 50% kosztów kwalifikowalnych.
+Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych na rzecz nowej działalności gospodarczej
 § 37.
 Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie:
 1)
 inwestycji początkowych – jest udzielana: a) mikro-, małemu albo średniemu przedsiębiorcy, działającemu na obszarze wszystkich województw, b) dużemu przedsiębiorcy działającemu na obszarze wszystkich województw, z wyłączeniem województwa mazowieckiego,
 2)
-inwestycji początkowych na rzecz nowej działalności gospodarczej – jest udzielana dużemu przedsiębiorcy działającemu na obszarze województwa mazowieckiego
-jako regionalna pomoc inwestycyjna.
+inwestycji początkowych na rzecz nowej działalności gospodarczej – jest udzielana dużemu przedsiębiorcy działającemu na obszarze województwa mazowieckiego – jako regionalna pomoc inwestycyjna.
 § 38.
 Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych na rzecz nowej działalności gospodarczej jest udzielana przedsiębiorcy po zapewnieniu spełnienia warunków, o których mowa w art. 14 ust. 5 i 16 rozporządzenia nr 651/2014.
 § 39.
@@ -558,6 +561,7 @@ W przypadku pomocy na przejęcie aktywów zakładu koszty kwalifikowalne są uwz
 Maksymalną intensywność pomocy w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych na rzecz nowej działalności gospodarczej na pokrycie kosztów kwalifikowalnych, o których mowa w § 39 ust. 1, określa się zgodnie z przepisami wydanymi na podstawie art. 10 ust. 2 ustawy o pomocy publicznej.
 § 41.
 Maksymalną wielkość pomocy w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych na rzecz nowej działalności gospodarczej oblicza się, uwzględniając warunki, o których mowa w art. 14 ust. 12–14 rozporządzenia nr 651/2014.
+Pomoc de minimis
 § 42.
 1.
 W przypadku pomocy de minimis kosztami kwalifikowalnymi są koszty:
@@ -582,10 +586,10 @@ Koszty, o których mowa w:
 1)
 ust. 1 pkt 4, uwzględnia się do wysokości 70%,
 2)
-ust. 1 pkt 8, uwzględnia się do wysokości 15%
-całkowitych kosztów kwalifikowalnych projektu.
+ust. 1 pkt 8, uwzględnia się do wysokości 15% – całkowitych kosztów kwalifikowalnych projektu.
 § 43.
 Intensywność pomocy de minimis nie może przekroczyć 90% wartości kosztów kwalifikowalnych określonych w § 42 ust. 1.
+Pomoc na rzecz IPCEI
 § 44.
 1.
 Pomoc na rzecz IPCEI jest udzielana przedsiębiorcy prowadzącemu działalność B+R+I.
@@ -623,6 +627,7 @@ zawiera ono znaczący element o charakterze badawczym, rozwojowym lub innowacyjn
 inne nierozłącznie związane z wykonywaniem projektu, z wyjątkiem kosztów stanowiących wydatki operacyjne nieobjęte pkt 10.
 § 46.
 Intensywność pomocy na rzecz IPCEI nie może przekroczyć 100% kosztów kwalifikowalnych.
+Przepis przejściowy i przepisy końcowe
 § 47.
 Do wniosków o udzielenie pomocy de minimis złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 48.
@@ -639,30 +644,53 @@ Pomoc de minimis może być udzielana do końca okresu dostosowawczego, o który
 3.
 Pomoc na rzecz IPCEI może być udzielana do końca okresu wskazanego w pkt 50 komunikatu Komisji Kryteria analizy zgodności z rynkiem wewnętrznym pomocy państwa na wspieranie realizacji ważnych projektów stanowiących przedmiot wspólnego europejskiego zainteresowania.
 § 49.
-Rozporządzenie wchodzi w życie z dniem 1 września 2020 r.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 kwietnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 724). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 10.07.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 4) Warunki, pod którymi pomoc na rzecz IPCEI może być uznana za zgodną z rynkiem wewnętrznym, zostały określone w komunikacie Komisji Kryteria analizy zgodności z rynkiem wewnętrznym pomocy państwa na wspieranie realizacji ważnych projektów stanowiących przedmiot wspólnego europejskiego zainteresowania (Dz. Urz. UE C 188 z 20.06.2014, str. 4 oraz Dz. Urz. UE C 224 z 08.07.2020, str. 2). 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 133 z 29.05.2015, str. 1. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 25 lutego 2015 r. w sprawie warunków i trybu udzielania pomocy publicznej i pomocy de minimis za pośrednictwem Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 299), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 349 pkt 2 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086).
+Rozporządzenie wchodzi w życie z dniem 1 września 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 25 lutego 2015 r. w sprawie warunków i trybu udzielania pomocy publicznej i pomocy de minimis za pośrednictwem Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 299), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 349 pkt 2 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086). 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 kwietnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 724). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 10.07.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 4) Warunki, pod którymi pomoc na rzecz IPCEI może być uznana za zgodną z rynkiem wewnętrznym, zostały określone w komunikacie Komisji Kryteria analizy zgodności z rynkiem wewnętrznym pomocy państwa na wspieranie realizacji ważnych projektów stanowiących przedmiot wspólnego europejskiego zainteresowania (Dz. Urz. UE C 188 z 20.06.2014, str. 4 oraz Dz. Urz. UE C 224 z 08.07.2020, str. 2). 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 133 z 29.05.2015, str. 1. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 25 lutego 2015 r. w sprawie warunków i trybu udzielania pomocy publicznej i pomocy de minimis za pośrednictwem Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 299), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 349 pkt 2 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534 oraz z 2020 r. poz. 695, 875 i 1086).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych oraz przygotowanie studiów wykonalności
+#### Rozdział 2 – Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych oraz przygotowanie studiów wykonalności
 
-#### Rozdział 3 Pomoc w ramach wyłączeń grupowych na wspieranie innowacyjności
+#### Rozdział 3 – Pomoc w ramach wyłączeń grupowych na wspieranie innowacyjności
 
-#### Rozdział 4 Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury
+#### Rozdział 4 – Pomoc w ramach wyłączeń grupowych na prowadzenie badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych w sektorze rybołówstwa i akwakultury
 
-#### Rozdział 5 Pomoc w ramach wyłączeń grupowych na wspieranie komercjalizacji przez finansowanie ryzyka
+#### Rozdział 5 – Pomoc w ramach wyłączeń grupowych na wspieranie komercjalizacji przez finansowanie ryzyka
 
-#### Rozdział 6 Pomoc w ramach wyłączeń grupowych na wspieranie przedsiębiorców rozpoczynających prowadzenie działalności B+R+I
+#### Rozdział 6 – Pomoc w ramach wyłączeń grupowych na wspieranie przedsiębiorców rozpoczynających prowadzenie działalności B+R+I
 
-#### Rozdział 7 Pomoc w ramach wyłączeń grupowych na pokrycie kosztów rozpoznania potencjalnych beneficjentów pomocy na wspieranie komercjalizacji przez finansowanie ryzyka
+#### Rozdział 7 – Pomoc w ramach wyłączeń grupowych na pokrycie kosztów rozpoznania potencjalnych beneficjentów pomocy na wspieranie komercjalizacji przez finansowanie ryzyka
 
-#### Rozdział 8 Pomoc w ramach wyłączeń grupowych na usługi doradcze
+#### Rozdział 8 – Pomoc w ramach wyłączeń grupowych na usługi doradcze
 
-#### Rozdział 9 Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych na rzecz nowej działalności gospodarczej
+#### Rozdział 9 – Pomoc w ramach wyłączeń grupowych na wspieranie wdrażania wyników badań podstawowych, badań przemysłowych i eksperymentalnych prac rozwojowych przez finansowanie inwestycji początkowych oraz inwestycji początkowych na rzecz nowej działalności gospodarczej
 
-#### Rozdział 10 Pomoc de minimis
+#### Rozdział 10 – Pomoc de minimis
 
-#### Rozdział 11 Pomoc na rzecz IPCEI
+#### Rozdział 11 – Pomoc na rzecz IPCEI
 
-#### Rozdział 12 Przepis przejściowy i przepisy końcowe
+#### Rozdział 12 – Przepis przejściowy i przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+#### Rozdział 12
 

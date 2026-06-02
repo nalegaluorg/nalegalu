@@ -26,13 +26,21 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1606/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą Dział I – Przepisy ogólne Dział II – Obrót towarami z krajami trzecimi dokonywany na podstawie przepisów prawa wspólnotowego Dział III – Środki administrowania obrotem towarami z zagranicą Rozdział 1 – Przepisy ogólne Rozdział 2 – Automatyczna rejestracja Rozdział 3 – Kontyngent i zakaz Rozdział 4 – Pozwolenia Rozdział 5 – Kaucja Dział IIIA – Kary pieniężne Dział IV – Zmiany w przepisach obowiązujących i przepisy końcowe
+Załącznik – Tekst jednolity ustawy z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą (Dz. U. z 2017 r. poz. 1021), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2019 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 54 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 54 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244), który stanowi: „
+Przepisy ogólne
+Obrót towarami z krajami trzecimi dokonywany na podstawie przepisów prawa wspólnotowego
+Środki administrowania obrotem towarami z zagranicą
+Przepisy ogólne
+Automatyczna rejestracja
+Kontyngent i zakaz
+Pozwolenia
+Kaucja
+Kary pieniężne
 1.
 Karze pieniężnej podlega ten, kto, będąc importerem nasion konopi nieprzeznaczonych do siewu, oznaczonych kodem CN 1207 99 91:
 1)
@@ -51,14 +59,35 @@ Od decyzji Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa przysług
 Do egzekucji kary pieniężnej stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 6.
 Wpłacone kary pieniężne stanowią dochód budżetu państwa.
+Zmiany w przepisach obowiązujących i przepisy końcowe
+
+### Dział I – Przepisy ogólne
+
+### Dział II – Obrót towarami z krajami trzecimi dokonywany na podstawie przepisów prawa wspólnotowego
+
+### Dział III – Środki administrowania obrotem towarami z zagranicą
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Automatyczna rejestracja
+
+#### Rozdział 3 – Kontyngent i zakaz
+
+#### Rozdział 4 – Pozwolenia
+
+#### Rozdział 5 – Kaucja
+
+### Dział IIIA – Kary pieniężne
+
+### Dział IV – Zmiany w przepisach obowiązujących i przepisy końcowe
 
 **Art. 54.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem:
 
 - **1)** art. 1, art. 18 i art. 35, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
 - **2)** art. 4, art. 6, art. 17, art. 19 i art. 44, które wchodzą w życie z dniem 1 lipca 2019 r.;
-- **3)** art. 7 pkt 1 i art. 8 pkt 1 lit. a, które wchodzą w życie z dniem 1 stycznia 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą
+- **3)** art. 7 pkt 1 i art. 8 pkt 1 lit. a, które wchodzą w życie z dniem 1 stycznia 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicąDane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
-### Dział I Przepisy ogólne
+### Dział I
 
 **Art. 1.**
 
@@ -68,7 +97,7 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-- **1)** obszar celny Unii – obszar celny w rozumieniu art. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.);
+- **1)** obszar celny Unii – obszar celny w rozumieniu art. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90.);
 - **2)** towar – rzecz ruchomą oraz energię;
 - **3)** towary rolno-spożywcze – towary rolne objęte Wspólną Polityką Rolną, regulowaną przepisami wspólnotowymi, oraz towary przetworzone nieobjęte załącznikiem I do Traktatu ustanawiającego Wspólnotę Europejską (towary z grupy non-aneks I);
 - **4)** obrót towarami z zagranicą – przywóz towarów pochodzących z kraju trzeciego na terytorium Rzeczypospolitej Polskiej lub wywóz towarów do kraju trzeciego z terytorium Rzeczypospolitej Polskiej, niezależnie od sposobu ich przemieszczania przez granicę;
@@ -82,7 +111,7 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 - **12)** kwota gwarantowana – określoną ilość lub wartość towarów, zagwarantowaną dla importerów lub eksporterów nietradycyjnych;
 - **13)** kraj trzeci – kraj niebędący członkiem Wspólnoty Europejskiej. Zadania, które zgodnie z ustawą wykonuje Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, są wykonywane jako zadania delegowane Krajowemu Ośrodkowi Wsparcia Rolnictwa zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
-### Dział II Obrót towarami z krajami trzecimi dokonywany na podstawie przepisów prawa wspólnotowego
+### Dział II
 
 **Art. 3.**
 
@@ -97,11 +126,7 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 - **7)** (uchylony)
 - **8)** (uchylony)
 - **9)** (uchylony)
-- **10)** powrotny wywóz towaru pozwolenie to jest wydawane w drodze decyzji administracyjnej.
-
-2. Do dokumentów, które zgodnie z przepisami prawa wspólnotowego lub przepisami wydanymi na podstawie art. 3a dołącza się do wniosku o udzielenie pozwolenia, o którym mowa w ust. 1, sporządzonych w języku obcym należy, na żądanie organu wydającego pozwolenie, dołączyć tłumaczenie tych dokumentów na język polski sporządzone przez tłumacza przysięgłego. Jeżeli wynika to z przepisów prawa wspólnotowego w zakresie administrowania obrotem towarami z krajami trzecimi, minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, warunki udzielenia i wykorzystania pozwolenia na przywóz lub wywóz towarów, mając na uwadze potrzebę zapewnienia szczególnej kontroli uzasadnionej specyfiką obrotu określonymi towarami z zagranicą i uwzględniając przesłanki zawarte w przepisach prawa wspólnotowego.
-
-**Art. 4.**
+- **10)** powrotny wywóz towaru – pozwolenie to jest wydawane w drodze decyzji administracyjnej. 2W brzmieniu ustalonym przez art. 23 pkt 1 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244), która weszła w życie z dniem 1 stycznia 2019 r.. Do dokumentów, które zgodnie z przepisami prawa wspólnotowego lub przepisami wydanymi na podstawie art. 3a dołącza się do wniosku o udzielenie pozwolenia, o którym mowa w ust. 1, sporządzonych w języku obcym należy, na żądanie organu wydającego pozwolenie, dołączyć tłumaczenie tych dokumentów na język polski sporządzone przez tłumacza przysięgłego. Jeżeli wynika to z przepisów prawa wspólnotowego w zakresie administrowania obrotem towarami z krajami trzecimi, minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, warunki udzielenia i wykorzystania pozwolenia na przywóz lub wywóz towarów, mając na uwadze potrzebę zapewnienia szczególnej kontroli uzasadnionej specyfiką obrotu określonymi towarami z zagranicą i uwzględniając przesłanki zawarte w przepisach prawa wspólnotowego. Art. 4W brzmieniu ustalonym przez art. 23 pkt 2 ustawy, o której mowa w odnośniku 3..
 
 1. Z zastrzeżeniem warunków i zasad określonych w przepisach prawa wspólnotowego oraz z zastrzeżeniem ust. 2 w sprawach indywidualnych rozstrzyganych w drodze decyzji administracyjnej stosuje się przepisy Kodeksu postępowania administracyjnego, z wyłączeniem art. 10, art. 57 § 5, art. 58–60, art. 75, art. 76 § 2 i 3, art. 77 § 2–4, art. 78–88 oraz art. 97–103.
 
@@ -126,7 +151,7 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 1. Minister właściwy do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw gospodarki może określić, w drodze rozporządzeń, w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi:
 
 - **1)** wykaz podmiotów uprawnionych do wywozu towarów w ramach pozawspólnotowych akcji humanitarnych, bez konieczności złożenia zabezpieczenia wynikającego z przepisów prawa wspólnotowego,
-- **2)** wykaz międzynarodowych organów kontroli i nadzoru uprawnionych do wystawiania dokumentów potwierdzających przywóz towarów do krajów trzecich mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego.
+- **2)** wykaz międzynarodowych organów kontroli i nadzoru uprawnionych do wystawiania dokumentów potwierdzających przywóz towarów do krajów trzecich – mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego.
 
 2. Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa przekazuje do Komisji Europejskiej wymagane przez przepisy prawa wspólnotowego informacje o działaniach podjętych w celu realizacji tych przepisów.
 
@@ -157,7 +182,7 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 - **1)** wzór wniosku stosowany w postępowaniu o wydanie decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi,
 - **2)** wykaz dokumentów i informacji, które powinny być dołączone do wniosku,
 - **3)** wzór decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi,
-- **4)** sposób i tryb ewidencjonowania wydanych decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego w tym zakresie, a także maksymalne uproszczenie i ujednolicenie wymogów dotyczących dokumentów i informacji, które są niezbędne w postępowaniu o wydanie decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi, i ich ewidencjonowania.
+- **4)** sposób i tryb ewidencjonowania wydanych decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi – mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego w tym zakresie, a także maksymalne uproszczenie i ujednolicenie wymogów dotyczących dokumentów i informacji, które są niezbędne w postępowaniu o wydanie decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi, i ich ewidencjonowania.
 
 1. Importer lub eksporter wspólnotowy towarów rolno-spożywczych objętych pozwoleniem na przywóz lub wywóz towarów rolno-spożywczych, w ramach decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi, prowadzi dokumentację tych towarów zawierającą:
 
@@ -171,7 +196,7 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 - **1)** wzór wniosku stosowany w postępowaniu o udzielenie pozwolenia na przywóz lub wywóz towarów rolno-spożywczych,
 - **2)** wykaz dokumentów, które powinny być dołączone do wniosku,
 - **3)** wykaz dokumentów potwierdzających dokonanie czynności, jakim zostały poddane towary rolno-spożywcze objęte pozwoleniem, oraz termin składania tych dokumentów,
-- **4)** termin ważności pozwolenia na przywóz lub wywóz towarów rolno-spożywczych mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego. Odmowa udzielenia pozwolenia na przywóz lub wywóz towarów rolno-spożywczych następuje, jeżeli wnioskodawca nie spełnia wymogów określonych w przepisach prawa wspólnotowego lub przepisach wydanych na podstawie art. 8g. Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa przekazuje Komisji Europejskiej oraz zainteresowanym władzom państw członkowskich informacje dotyczące administrowania obrotem towarami rolno-spożywczymi z krajami trzecimi w zakresie, o którym mowa w przepisach prawa wspólnotowego.
+- **4)** termin ważności pozwolenia na przywóz lub wywóz towarów rolno-spożywczych – mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego. Odmowa udzielenia pozwolenia na przywóz lub wywóz towarów rolno-spożywczych następuje, jeżeli wnioskodawca nie spełnia wymogów określonych w przepisach prawa wspólnotowego lub przepisach wydanych na podstawie art. 8g. Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa przekazuje Komisji Europejskiej oraz zainteresowanym władzom państw członkowskich informacje dotyczące administrowania obrotem towarami rolno-spożywczymi z krajami trzecimi w zakresie, o którym mowa w przepisach prawa wspólnotowego.
 
 1. Organy celne przekazują informacje o dokonanym przywozie z krajów trzecich towarów objętych środkami ochronnymi ustanowionymi na podstawie:
 
@@ -183,9 +208,9 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 
 2. Informacje, o których mowa w ust. 1, są rejestrowane i przekazywane zgodnie z przepisami wydanymi na podstawie art. 15 ust. 3, w zakresie określonym w tych przepisach.
 
-### Dział III Środki administrowania obrotem towarami z zagranicą
+### Dział III
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 9.** Środki administrowania obrotem towarami z zagranicą, o których mowa w art. 10 ust. 1, są ustanawiane:
 
@@ -224,7 +249,7 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 
 2. W zakresie towarów rolno-spożywczych rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki wydaje również w porozumieniu z ministrem właściwym do spraw rynków rolnych.
 
-#### Rozdział 2 Automatyczna rejestracja
+#### Rozdział 2
 
 **Art. 13.** Automatyczna rejestracja polega na rejestracji przez organ celny przywozu towarów z krajów trzecich lub wywozu towarów do krajów trzecich, lub na obowiązku uzyskania pozwolenia na przywóz lub wywóz towarów.
 
@@ -256,7 +281,7 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 
 3. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, tryb przekazywania informacji, o których mowa w ust. 2, organy, którym te informacje są przekazywane, a także sposób rejestrowania towarów objętych automatyczną rejestracją, mając na względzie sprawny obieg tych informacji.
 
-#### Rozdział 3 Kontyngent i zakaz
+#### Rozdział 3
 
 **Art. 16.**
 
@@ -320,7 +345,7 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 
 **Art. 22.** Minister właściwy do spraw gospodarki, w rozporządzeniu o ustanowieniu zakazu, może określić procedury celne oraz normy ilościowe lub wartościowe, których zakaz nie dotyczy.
 
-#### Rozdział 4 Pozwolenia
+#### Rozdział 4
 
 **Art. 23.** Pozwolenie na przywóz towarów z krajów trzecich lub wywóz towarów do krajów trzecich jest wymagane, jeżeli przedmiotem obrotu są towary objęte:
 
@@ -390,11 +415,11 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 - **2)** wykaz dokumentów i informacji, które powinny być dołączone do wniosku,
 - **3)** sposób udzielenia i wykorzystania pozwoleń,
 - **4)** wzory pozwoleń,
-- **5)** sposób i tryb ewidencjonowania udzielonych pozwoleń mając na względzie maksymalne uproszczenie i ujednolicenie wymogów dotyczących dokumentów i informacji, które są niezbędne w postępowaniu o udzielenie pozwoleń, i ich ewidencjonowania.
+- **5)** sposób i tryb ewidencjonowania udzielonych pozwoleń – mając na względzie maksymalne uproszczenie i ujednolicenie wymogów dotyczących dokumentów i informacji, które są niezbędne w postępowaniu o udzielenie pozwoleń, i ich ewidencjonowania.
 
 2. Określając dokumenty, informacje oraz sposób udzielenia i wykorzystania pozwoleń, o których mowa w ust. 1 pkt 2 i 3, minister właściwy do spraw gospodarki uwzględnia w szczególności potrzebę zapewnienia szczególnej kontroli uzasadnionej specyfiką obrotu towarami z zagranicą, uwzględniającą przesłanki określone w przepisach prawa wspólnotowego, o których mowa w art. 9.
 
-#### Rozdział 5 Kaucja
+#### Rozdział 5
 
 **Art. 32.** Minister właściwy do spraw gospodarki, w rozporządzeniu o ustanowieniu automatycznej rejestracji albo kontyngentu, może uzależnić udzielenie pozwolenia od złożenia przez wnioskodawcę kaucji w określonej wysokości. Kaucję złożoną przez osobę trzecią na rzecz wnioskodawcy uznaje się za złożoną przez wnioskodawcę.
 
@@ -423,20 +448,17 @@ Wpłacone kary pieniężne stanowią dochód budżetu państwa.
 
 - **1)** formy, w jakich kaucja może być składana,
 - **2)** szczegółowy tryb pobierania kaucji oraz jej zwrotu, w tym przypadki, w których wycofanie wniosku o udzielenie pozwolenia nie powoduje przepadku kaucji,
-- **3)** kwotę kaucji, do wysokości której organ udzielający pozwoleń nie pobiera kaucji uwzględniając potrzebę zapewnienia prawidłowego wykorzystania udzielonych pozwoleń oraz maksymalnego uproszczenia trybu pobierania i zwrotu kaucji.
+- **3)** kwotę kaucji, do wysokości której organ udzielający pozwoleń nie pobiera kaucji – uwzględniając potrzebę zapewnienia prawidłowego wykorzystania udzielonych pozwoleń oraz maksymalnego uproszczenia trybu pobierania i zwrotu kaucji.
 
 **Art. 39.** Od kwoty zwróconej kaucji nie płaci się odsetek.
 
-### Dział IIIA Kary pieniężne
+### Dział IIIA
 
-### Dział IV Zmiany w przepisach obowiązujących i przepisy końcowe
+### Dział IV
 
 **Art. 40.** (pominięty)
 
 **Art. 41.** Wnioski o udzielenie pozwolenia na obrót towarami z krajami trzecimi przyjęte przed dniem wejścia w życie ustawy, w celu wykonania prawa wspólnotowego, uznaje się za przyjęte zgodnie z przepisami ustawy. Za zgodne z przepisami ustawy uznaje się również działania organów państwa zmierzające do wykonania w tym zakresie przepisów prawa wspólnotowego.
 
-**Art. 42.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 40, który wchodzi w życie z dniem 2 maja 2004 r.
-
-- **1)** Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90. 3) W brzmieniu ustalonym przez art. 23 pkt 1 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244), która weszła w życie z dniem 1 stycznia 2019 r. 4) W brzmieniu ustalonym przez art. 23 pkt 2 ustawy, o której mowa w odnośniku 3. 5) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej w dniu 1 maja 2004 r.
-
+**Art. 42.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii EuropejskiejRzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej w dniu 1 maja 2004 r., z wyjątkiem art. 40, który wchodzi w życie z dniem 2 maja 2004 r. 1) Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90. 3) W brzmieniu ustalonym przez art. 23 pkt 1 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244), która weszła w życie z dniem 1 stycznia 2019 r. 4) W brzmieniu ustalonym przez art. 23 pkt 2 ustawy, o której mowa w odnośniku 3. 5) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej w dniu 1 maja 2004 r.
 

@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-12 |
 | Data wydania | 2021-04-14 |
-| Wejście w życie | 2021-04-15 |
 | Ostatnia zmiana | 2024-10-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000684) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/684/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 75 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2020 r. poz. 1192 i 2320) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 17 grudnia 2013 r. w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. z 2018 r. poz. 2127 oraz z 2020 r. poz. 889) w § 4 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 17 grudnia 2013 r. w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. z 2018 r. poz. 2127 oraz z 2020 r. poz. 889) w § 4 ust. 1 otrzymuje brzmienie: „
 1.
-Zajęcia seminaryjne dla aplikantów rozpoczynają się nie później niż w dniu 21 stycznia i trwają do dnia 31 grudnia, a dla aplikantów czwartego roku do dnia 30 czerwca.
-” .
+Zajęcia seminaryjne dla aplikantów rozpoczynają się nie później niż w dniu 21 stycznia i trwają do dnia 31 grudnia, a dla aplikantów czwartego roku do dnia 30 czerwca. ” .
 § 2.
 1.
 W czasie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, w przypadku uzasadnionego braku możliwości prowadzenia zajęć seminaryjnych i praktyki w sądzie zgodnie z określonym harmonogramem zajęć seminaryjnych dla każdego roku szkoleniowego oraz harmonogramem praktyki w sądzie dla drugiego roku aplikacji, rada właściwej izby notarialnej może dokonać zmian w określonych harmonogramach, w szczególności co do terminów zajęć seminaryjnych i praktyki w sądzie, formy zajęć oraz wykładowców. W razie konieczności prezes rady właściwej izby notarialnej i prezes właściwego sądu apelacyjnego dokonują zmian w porozumieniu zawartym na podstawie § 6 ust. 4 rozporządzenia zmienianego w § 1, w szczególności co do terminów praktyki w sądzie, którą aplikant notarialny może odbyć również w czasie trwania trzeciego roku aplikacji. Zmiany w harmonogramach rada właściwej izby notarialnej ogłasza na swojej stronie internetowej i przesyła do wiadomości Krajowej Radzie Notarialnej oraz Ministrowi Sprawiedliwości w terminie 14 dni od dnia dokonania zmiany.

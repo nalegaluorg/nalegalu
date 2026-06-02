@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy o lasach oraz niektórych innych ustaw
+# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy o lasach oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-20 |
 | Data wydania | 2015-05-14 |
-| Wejście w życie | 2015-05-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000671) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/671/text.pdf) |
+
+Administracyjne kary pieniężne
 
 **Art. 1.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2014 r. poz. 1153 oraz z 2015 r. poz. 349) wprowadza się następujące zmiany:
 
@@ -39,16 +40,16 @@ source: "eli-html"
 - **2)** wprowadzania do obrotu drewna i produktów z drewna oraz zbywania i nabywania drewna i produktów z drewna wprowadzonych do obrotu, w tym przez jednostki organizacyjne nieposiadające osobowości prawnej, określają przepisy rozporządzenia nr 995/2010. ” ;
 - **3)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „
 
-#### Rozdział 9a Administracyjne kary pieniężne
+#### Rozdział 9a
 
 **Art. 66a.** Kto, wbrew zakazowi określonemu w art. 4 ust. 1 rozporządzenia nr 2173/2005, dokonuje przywozu na terytorium Rzeczypospolitej Polskiej produktów z drewna wywiezionych z państw partnerskich, w przypadku gdy ich dostawa nie jest objęta zezwoleniem FLEGT, podlega administracyjnej karze pieniężnej w wysokości dwukrotnej wartości celnej tych produktów. Kto, wbrew zakazowi określonemu w art. 4 ust. 1 rozporządzenia nr 995/2010, wprowadza do obrotu nielegalnie pozyskane drewno lub produkty z drewna, podlega administracyjnej karze pieniężnej w wysokości od 20 000 zł do 200 000 zł. Kto, wbrew przepisowi art. 4 ust. 2 rozporządzenia nr 995/2010, wprowadzając do obrotu drewno lub produkty z drewna, nie stosuje:
 
 - **1)** środków i procedur zapewniających dostęp do informacji, o których mowa w art. 6 ust. 1 lit. a rozporządzenia nr 995/2010, lub
 - **2)** procedur oceny ryzyka, o których mowa w art. 6 ust. 1 lit. b rozporządzenia nr 995/2010, lub
-- **3)** procedur ograniczania ryzyka, o których mowa w art. 6 ust. 1 lit. c rozporządzenia nr 995/2010 podlega administracyjnej karze pieniężnej w wysokości od 500 zł do 200 000 zł. Kto, wbrew przepisowi art. 4 ust. 3 rozporządzenia nr 995/2010, nie utrzymuje lub nie ocenia regularnie stosowanych przez siebie:
+- **3)** procedur ograniczania ryzyka, o których mowa w art. 6 ust. 1 lit. c rozporządzenia nr 995/2010 – podlega administracyjnej karze pieniężnej w wysokości od 500 zł do 200 000 zł. Kto, wbrew przepisowi art. 4 ust. 3 rozporządzenia nr 995/2010, nie utrzymuje lub nie ocenia regularnie stosowanych przez siebie:
 - **1)** środków i procedur zapewniających dostęp do informacji, o których mowa w art. 6 ust. 1 lit. a rozporządzenia nr 995/2010, lub
 - **2)** procedur oceny ryzyka, o których mowa w art. 6 ust. 1 lit. b rozporządzenia nr 995/2010, lub
-- **3)** procedur ograniczania ryzyka, o których mowa w art. 6 ust. 1 lit. c rozporządzenia nr 995/2010 podlega administracyjnej karze pieniężnej w wysokości od 500 zł do 20 000 zł.
+- **3)** procedur ograniczania ryzyka, o których mowa w art. 6 ust. 1 lit. c rozporządzenia nr 995/2010 – podlega administracyjnej karze pieniężnej w wysokości od 500 zł do 20 000 zł.
 
 1. Kto, wbrew przepisom art. 5 rozporządzenia nr 995/2010, nie przechowuje przez co najmniej 5 lat informacji pozwalających zidentyfikować operatorów lub podmioty handlowe, którzy dostarczyli mu drewno lub produkty z drewna, oraz podmioty handlowe, którym dostarczył drewno lub produkty z drewna, podlega administracyjnej karze pieniężnej w wysokości od 500 zł do 2000 zł.
 
@@ -72,11 +73,11 @@ source: "eli-html"
 
 2. Wpływy z tytułu administracyjnych kar pieniężnych stanowią dochód budżetu państwa. W sprawach dotyczących administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613), z tym że uprawnienia organu podatkowego przysługują organom wymierzającym administracyjne kary pieniężne. ” .
 
-**Art. 2.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686, z późn. zm.) w art. 2 w ust. 1 po pkt 12 dodaje się pkt 12a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888, z 2014 r. poz. 1101 oraz z 2015 r. poz. 277.) w art. 2 w ust. 1 po pkt 12 dodaje się pkt 12a w brzmieniu: „
 
 - **12a)** wykonywanie zadań wynikających z rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 995/2010 z dnia 20 października 2010 r. ustanawiającego obowiązki podmiotów wprowadzających do obrotu drewno i produkty z drewna (Dz. Urz. UE L 295 z 12.11.2010, str. 23); ” .
 
-**Art. 3.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.) w rozdziale 1 po art. 8 dodaje się art. 8a w brzmieniu: „
+**Art. 3.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2013 r. poz. 1404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662 oraz z 2015 r. poz. 211.) w rozdziale 1 po art. 8 dodaje się art. 8a w brzmieniu: „
 
 **Art. 8a.**
 
@@ -89,5 +90,5 @@ source: "eli-html"
 - **3)** kraj pochodzenia drewna i produktów z drewna oraz kraj, z którego drewno i produkty z drewna są importowane, jeżeli jest on inny niż kraj pochodzenia drewna i produktów z drewna;
 - **4)** szacunkową wartość drewna i produktów z drewna. ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888, z 2014 r. poz. 1101 oraz z 2015 r. poz. 277. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 1055, 1215, 1395 i 1662 oraz z 2015 r. poz. 211.
 

@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1997-06-26 |
 | Data wydania | 1998-05-15 |
-| Wejście w życie | 1998-05-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980590375) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/375/text.pdf) |
 
+Rejestrowanie kościołów i innych związków wyznaniowych
+Regulacja spraw majątkowych niektórych kościołów
 1.
 Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej «Komisją», w celu ostatecznego uregulowania spraw majątkowych między państwem a kościołami i ich osobami prawnymi, które zgłosiły roszczenia w trybie i na zasadach określonych w:
 1)
@@ -84,11 +85,9 @@ Nabycie własności nieruchomości lub ich części na podstawie ugody lub orzec
 1.
 Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
 2.
-Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte – wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a i 38b.
-” ;
+Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte – wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a i 38b. ” ;
 18)
-art. 40 otrzymuje brzmienie:
-„
+art. 40 otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. Nr 29, poz. 155, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 oraz z 1993 r. Nr 7, poz. 34) wprowadza się następujące zmiany:
 
@@ -140,8 +139,10 @@ art. 40 otrzymuje brzmienie:
 
 3. Podpisana umowa zostaje opublikowana w dzienniku urzędowym właściwego ministerstwa. ” ;
 
-- **9)** w art. 19: w ust. 2: – pkt 5 otrzymuje brzmienie: „ 5) ustanawiać, kształcić i zatrudniać duchownych, ” – skreśla się pkt 16, dodaje się ust. 3 w brzmieniu: „
+- **9)** w art. 19: w ust. 2: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** ustanawiać, kształcić i zatrudniać duchownych, ” – skreśla się pkt 16, dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. Za wypełnianie funkcji religijnych, o których mowa w ust. 1, nie uznaje się oddziaływania poprzez badania i eksperymenty psychologiczne. ” ;
@@ -179,7 +180,7 @@ art. 40 otrzymuje brzmienie:
 - **15)** w art. 27 w ust. 1 po wyrazach „moralność publiczną” dodaje się wyrazy „władzę rodzicielską”;
 - **16)** dział III otrzymuje brzmienie: „
 
-### Dział III Rejestrowanie kościołów i innych związków wyznaniowych
+### Dział III
 
 **Art. 30.** Prawo wpisu do rejestru kościołów i innych związków wyznaniowych, zwanego dalej «rejestrem», prowadzonego przez Ministra Spraw Wewnętrznych i Administracji, jest realizowane przez złożenie temu ministrowi, zwanemu dalej «organem rejestrowym», deklaracji o utworzeniu kościoła lub innego związku wyznaniowego i wniosku o wpis do rejestru.
 
@@ -272,7 +273,7 @@ art. 40 otrzymuje brzmienie:
 
 - **17)** po dziale III dodaje się dział IIIa w brzmieniu: „
 
-### Dział IIIa Regulacja spraw majątkowych niektórych kościołów
+### Dział IIIa
 
 **Art. 40.** Stosunki Państwa z kościołami i innymi związkami wyznaniowymi działającymi na podstawie wpisu do rejestru mogą być regulowane w drodze odrębnej ustawy. ” ;
 

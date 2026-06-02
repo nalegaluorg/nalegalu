@@ -25,9 +25,10 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102221454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1454/text.pdf) |
 
-Treść obwieszczenia Rozdział 1 – Dane ogólne Rozdział 2 – Wybory do rad gmin w gminach liczących do 20 tys. mieszkańców Rozdział 3 – Wybory do rad gmin w gminach liczących powyżej 20 tys. mieszkańców Rozdział 4 – Wybory do rad miast w miastach na prawach powiatu Rozdział 5 – Wybory do Rady m.st. Warszawy Rozdział 6 – Wybory do rad dzielnic m.st. Warszawy Rozdział 7 – Wybory do rad powiatów Rozdział 8 – Wybory do sejmików województw
 Treść obwieszczenia
-Na podstawie art. 184 ust. 1 ustawy z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190) i art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361, z późn. zm.) Państwowa Komisja Wyborcza podaje do publicznej wiadomości zbiorcze wyniki wyborów do rad na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r.
+Treść obwieszczenia
+Na podstawie art. 184 ust. 1 ustawy z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190) i art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1087, z 2006 r. Nr 249, poz. 1826 i 1828 oraz z 2009 r. Nr 95, poz. 787.) Państwowa Komisja Wyborcza podaje do publicznej wiadomości zbiorcze wyniki wyborów do rad na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r.
+Dane ogólne
 1.
 Wybory przeprowadzono do 2 827 rad, z czego:
 1)
@@ -90,6 +91,7 @@ We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych.
 Głosowanie przeprowadzono w 25 464 obwodach głosowania.
 7.
 Głosowania nie przeprowadzono w 1 001 okręgach wyborczych, w których liczba zarejestrowanych kandydatów była równa lub mniejsza od liczby radnych wybieranych w tych okręgach wyborczych. W związku z tym 1 180 radnych uzyskało mandaty bez głosowania.
+Wybory do rad gmin w gminach liczących do 20 tys. mieszkańców
 1.
 Wybory przeprowadzono do 2 152 rad gmin, w których utworzono 20 379 okręgów wyborczych.
 2.
@@ -110,6 +112,7 @@ Głosów nieważnych oddano 190 490, to jest 2,78% ogólnej liczby głosów odda
 Głosowanie przeprowadzono w 13 166 obwodach głosowania.
 10.
 Głosowania nie przeprowadzono w 1 001 okręgach wyborczych, w których liczba zarejestrowanych kandydatów była równa lub mniejsza od liczby radnych wybieranych w tych okręgach wyborczych. W związku z tym 1 180 radnych uzyskało mandaty bez głosowania.
+Wybory do rad gmin w gminach liczących powyżej 20 tys. mieszkańców
 1.
 Wybory przeprowadzono do 262 rad gmin, w których utworzono 921 okręgów wyborczych.
 2.
@@ -128,6 +131,7 @@ Głosów ważnych oddano 3 123 106, to jest 94,55% ogólnej liczby głosów odda
 Głosów nieważnych oddano 179 935, to jest 5,45% ogólnej liczby głosów oddanych.
 9.
 Głosowanie przeprowadzono w 5 317 obwodach głosowania.
+Wybory do rad miast w miastach na prawach powiatu
 1.
 Wybory przeprowadzono do 64 rad miejskich w miastach na prawach powiatu, w których utworzono 290 okręgów wyborczych.
 2.
@@ -146,6 +150,7 @@ Głosów ważnych oddano 3 402 669, to jest 96,44% ogólnej liczby głosów odda
 Głosów nieważnych oddano 125 495, to jest 3,56% ogólnej liczby głosów oddanych.
 9.
 Głosowanie przeprowadzono w 5 867 obwodach głosowania.
+Wybory do Rady m.st. Warszawy
 1.
 Wybory przeprowadzono w 9 okręgach wyborczych.
 2.
@@ -164,6 +169,7 @@ Głosów ważnych oddano 619 410, to jest 95,62% ogólnej liczby głosów oddany
 Głosów nieważnych oddano 28 375, to jest 4,38% ogólnej liczby głosów oddanych.
 9.
 Głosowanie przeprowadzono w 857 obwodach głosowania.
+Wybory do rad dzielnic m.st. Warszawy
 1.
 Wybory przeprowadzono do 18 rad dzielnic miasta stołecznego Warszawy, w których utworzono 70 okręgów wyborczych.
 2.
@@ -182,6 +188,7 @@ Głosów ważnych oddano 624 974, to jest 96,60% ogólnej liczby głosów oddany
 Głosów nieważnych oddano 22 007, to jest 3,40% ogólnej liczby głosów oddanych.
 9.
 Głosowanie przeprowadzono w 857 obwodach głosowania.
+Wybory do rad powiatów
 1.
 Wybory przeprowadzono do 314 rad powiatów, w których utworzono 1 345 okręgów wyborczych.
 2.
@@ -200,6 +207,7 @@ Głosów ważnych oddano 9 457 268, to jest 91,82% ogólnej liczby głosów odda
 Głosów nieważnych oddano 841 976, to jest 8,18% ogólnej liczby głosów oddanych.
 9.
 Głosowanie przeprowadzono w 18 740 obwodach głosowania.
+Wybory do sejmików województw
 1.
 Wybory przeprowadzono do 16 sejmików województw, w których utworzono 87 okręgów wyborczych.
 2.
@@ -217,21 +225,37 @@ Głosów ważnych oddano 12 721 376, to jest 87,94% ogólnej liczby głosów odd
 8.
 Głosów nieważnych oddano 1 744 609, to jest 12,06% ogólnej liczby głosów oddanych.
 9.
-Głosowanie przeprowadzono w 25 464 obwodach głosowania.
+Głosowanie przeprowadzono w 25 464 obwodach głosowania. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1087, z 2006 r. Nr 249, poz. 1826 i 1828 oraz z 2009 r. Nr 95, poz. 787.
 
-#### Rozdział 1 Dane ogólne
+#### Rozdział 1 – Dane ogólne
 
-#### Rozdział 2 Wybory do rad gmin w gminach liczących do 20 tys. mieszkańców
+#### Rozdział 2 – Wybory do rad gmin w gminach liczących do 20 tys. mieszkańców
 
-#### Rozdział 3 Wybory do rad gmin w gminach liczących powyżej 20 tys. mieszkańców
+#### Rozdział 3 – Wybory do rad gmin w gminach liczących powyżej 20 tys. mieszkańców
 
-#### Rozdział 4 Wybory do rad miast w miastach na prawach powiatu
+#### Rozdział 4 – Wybory do rad miast w miastach na prawach powiatu
 
-#### Rozdział 5 Wybory do Rady m.st. Warszawy
+#### Rozdział 5 – Wybory do Rady m.st. Warszawy
 
-#### Rozdział 6 Wybory do rad dzielnic m.st. Warszawy
+#### Rozdział 6 – Wybory do rad dzielnic m.st. Warszawy
 
-#### Rozdział 7 Wybory do rad powiatów
+#### Rozdział 7 – Wybory do rad powiatów
 
-#### Rozdział 8 Wybory do sejmików województw
+#### Rozdział 8 – Wybory do sejmików województw
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

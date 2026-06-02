@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-10 |
 | Data wydania | 2016-10-14 |
-| Wejście w życie | 2016-10-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001700) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1700/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 43y § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 43y § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428 i 437.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób i tryb sprawowania nadzoru nad wykonywaniem dozoru elektronicznego, w tym sposób dokumentowania tego nadzoru.
 § 2.
@@ -78,5 +77,5 @@ Odpis sprawozdania z przebiegu lustracji oraz informację podmiotu dozorującego
 § 9.
 Czynności nadzorcze, o których mowa w § 3 pkt 4, należy udokumentować w postaci pisemnej.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 15 października 2016 r.
+Rozporządzenie wchodzi w życie z dniem 15 października 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 czerwca 2015 r. w sprawie sposobu i trybu sprawowania nadzoru nad wykonywaniem dozoru elektronicznego (Dz. U. poz. 919), które na podstawie art. 5 ustawy z dnia 11 marca 2016 r. o zmianie ustawy – Kodeks karny oraz ustawy – Kodeks karny wykonawczy (Dz. U. poz. 428) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428 i 437. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 czerwca 2015 r. w sprawie sposobu i trybu sprawowania nadzoru nad wykonywaniem dozoru elektronicznego (Dz. U. poz. 919), które na podstawie art. 5 ustawy z dnia 11 marca 2016 r. o zmianie ustawy – Kodeks karny oraz ustawy – Kodeks karny wykonawczy (Dz. U. poz. 428) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

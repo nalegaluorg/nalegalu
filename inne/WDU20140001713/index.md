@@ -39,19 +39,19 @@ w sprawie siedlisk przyrodniczych oraz gatunków będących przedmiotem zaintere
 § 3. Gatunki zwierząt będące przedmiotem zainteresowania Wspólnoty, ze wskazaniem tych, które wymagają ochrony w formie wyznaczenia obszarów Natura 2000, oraz gatunków zwierząt o znaczeniu priorytetowym, są określone w załączniku nr 2 do rozporządzenia.
 § 4. Gatunki roślin będące przedmiotem zainteresowania Wspólnoty, ze wskazaniem tych, które wymagają ochrony w formie wyznaczenia obszarów Natura 2000, oraz gatunków roślin o znaczeniu priorytetowym, są określone w załączniku nr 3 do rozporządzenia.
 § 5. Kryteria wyboru obszarów kwalifikujących się do uznania za obszary mające znaczenie dla Wspólnoty i wyznaczenia jako specjalne obszary ochrony siedlisk Natura 2000 są następujące:
-1) w ystępowanie typu siedliska przyrodniczego wymienionego w załączniku nr 1 do rozporządzenia, uwzględniając:
-a) p riorytetowe znaczenie typu siedliska przyrodniczego,
-b) z achowanie pełnej zmienności danego typu siedliska przyrodniczego,
-c) w ielkości krajowych zasobów typu siedliska przyrodniczego i ich rozmieszczenia,
-d) p odatność typu siedliska przyrodniczego na proces degradacji,
-e) z naczenie obszaru Natura 2000 dla zachowania typu siedliska przyrodniczego w kraju, uwzględniając: stopień reprezentatywności i wykształcenia siedliska przyrodniczego na obszarze, powierzchnię zajmowaną przez siedlisko przyrodnicze na obszarze w stosunku do całkowitej powierzchni tego typu siedliska przyrodniczego na obszarze kraju, stan zachowania struktury i funkcji siedliska przyrodniczego na obszarze lub możliwość jego renaturyzacji, istniejące i potencjalne zagrożenia powodujące utratę wartości przyrodniczych siedliska;
+1) występowanie typu siedliska przyrodniczego wymienionego w załączniku nr 1 do rozporządzenia, uwzględniając:
+a) priorytetowe znaczenie typu siedliska przyrodniczego,
+b) zachowanie pełnej zmienności danego typu siedliska przyrodniczego,
+c) wielkości krajowych zasobów typu siedliska przyrodniczego i ich rozmieszczenia,
+d) podatność typu siedliska przyrodniczego na proces degradacji,
+e) znaczenie obszaru Natura 2000 dla zachowania typu siedliska przyrodniczego w kraju, uwzględniając: stopień reprezentatywności i wykształcenia siedliska przyrodniczego na obszarze, powierzchnię zajmowaną przez siedlisko przyrodnicze na obszarze w stosunku do całkowitej powierzchni tego typu siedliska przyrodniczego na obszarze kraju, stan zachowania struktury i funkcji siedliska przyrodniczego na obszarze lub możliwość jego renaturyzacji, istniejące i potencjalne zagrożenia powodujące utratę wartości przyrodniczych siedliska;
 wielkość i zagęszczenie lokalnej populacji gatunku w stosunku do populacji krajowej, stan zachowania cech siedliska ważnych dla gatunku oraz możliwość renaturyzacji zdegradowanych siedlisk gatunku, stopień izolacji lokalnej populacji gatunku w stosunku do naturalnego zasięgu gatunku, istniejące i potencjalne zagrożenia dla lokalnej populacji gatunku i jego siedliska powodujące utratę ich wartości przyrodniczych,
 d) znaczenie obszaru dla przemieszczania się gatunków, uwzględniając jego: położenie na trasie wędrówek innych gatunków niż wymienione w załącznikach nr 2 i 3 do rozporządzenia, funkcjonowanie jako korytarza ekologicznego łączącego inne obszary istotne dla ochrony siedlisk gatunków, w szczególności gatunków priorytetowych, wymienionych w załącznikach nr 2 i 3 do rozporządzenia;
 3) powierzchnia obszaru, która powinna umożliwiać skuteczne i trwałe zachowanie siedlisk przyrodniczych i gatunków, dla których ochrony ten obszar się wyznacza, przy czym:
 a) w odniesieniu do siedlisk przyrodniczych wymienionych w załączniku nr 1 do rozporządzenia powierzchnia ta powinna obejmować reprezentatywne występowanie wszystkich stwierdzonych na obszarze siedlisk przyrodniczych,
 b) w odniesieniu do gatunków wymienionych w załącznikach nr 2 i 3 do rozporządzenia powierzchnia powinna obejmować całą przestrzeń życiową stabilnych, rozmnażających się lokalnych populacji tych gatunków lub kluczowe dla ich ochrony miejsca występowania, w szczególności miejsca rozrodu, żerowiska, zimowiska i miejsca odpoczynku także w czasie migracji;
-4) w spółwystępowanie typów siedlisk przyrodniczych i gatunków wymienionych w załącznikach do rozporządzenia;
-5) p owiązanie obszaru z innymi obszarami ważnymi dla ochrony siedlisk gatunków i siedlisk przyrodniczych wymienionych w załączniku nr 1 do rozporządzenia, w szczególności z innymi obszarami Natura 2000 lub innymi formami ochrony przyrody.
+4) współwystępowanie typów siedlisk przyrodniczych i gatunków wymienionych w załącznikach do rozporządzenia;
+5) powiązanie obszaru z innymi obszarami ważnymi dla ochrony siedlisk gatunków i siedlisk przyrodniczych wymienionych w załączniku nr 1 do rozporządzenia, w szczególności z innymi obszarami Natura 2000 lub innymi formami ochrony przyrody.
 § 6. Kryteria wyboru obszarów kwalifikujących się do wyznaczenia jako obszary specjalnej ochrony ptaków Natura 2000 są następujące:
 1) występowanie gatunków ptaków, o których mowa w załączniku nr 2 do rozporządzenia Ministra Środowiska z dnia 12 stycznia 2011 r. w sprawie obszarów specjalnej ochrony ptaków (Dz. U. Nr 25, poz. 133 i Nr 67, poz. 358 oraz z 2012 r. poz. 358), gdy stwierdzono:
 a) regularne występowanie co najmniej 1% krajowej lęgowej populacji gatunku lub

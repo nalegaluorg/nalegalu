@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-21 |
 | Data wydania | 2022-04-22 |
-| Wejście w życie | 2022-04-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/875/text.pdf) |
 
@@ -156,5 +155,5 @@ ustalanie priorytetów w zakresie przekazywania informacji i decyzji;
 5)
 ustalanie narzędzi i procedur przekazywania informacji i decyzji na potrzeby wykonywania zadań obronnych.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 23 kwietnia 2022 r.
+Rozporządzenie wchodzi w życie z dniem 23 kwietnia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 13 stycznia 2004 r. w sprawie ogólnych zasad wykonywania zadań w ramach powszechnego obowiązku obrony (Dz. U. poz. 152), które w związku z wejściem w życie ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) traci moc z dniem 23 kwietnia 2022 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 13 stycznia 2004 r. w sprawie ogólnych zasad wykonywania zadań w ramach powszechnego obowiązku obrony (Dz. U. poz. 152), które w związku z wejściem w życie ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) traci moc z dniem 23 kwietnia 2022 r.
 

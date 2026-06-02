@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-09-06 |
 | Data wydania | 2001-09-29 |
-| Wejście w życie | 2001-10-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011061150) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1150/text.pdf) |
+
+Opodatkowanie stron umowy leasingu
+Opodatkowanie stron umowy leasingu
 
 **Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228i Nr 122, poz. 1324oraz z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968i Nr 102, poz. 1117) wprowadza się następujące zmiany:
 
@@ -39,10 +41,12 @@ source: "eli-html"
     - **b)**
 
 - **3)** składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami tych składników – jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający ” ;
-- **3)** w art. 22b: w ust. 1 w tiret wyrazy „innej umowy o podobnym charakterze” zastępuje się wyrazami „umowy określonej w art. 23a pkt 1”, w ust. 2: – w pkt 1 lit. b) otrzymuje brzmienie: „ b) przyjęcia do odpłatnego korzystania, a odpisów amortyzacyjnych, zgodnie z przepisami rozdziału 4a, dokonuje korzystający, ” – pkt 3 otrzymuje brzmienie: „ 3) składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości – jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający ” ;
+- **3)** w art. 22b: w ust. 1 w tiret wyrazy „innej umowy o podobnym charakterze” zastępuje się wyrazami „umowy określonej w art. 23a pkt 1”, w ust. 2: w pkt 1 lit. b) otrzymuje brzmienie: „ przyjęcia do odpłatnego korzystania, a odpisów amortyzacyjnych, zgodnie z przepisami rozdziału 4a, dokonuje korzystający, ” pkt 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+    - **b)**
 
+- **3)** składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości – jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający ” ;
 - **4)** w art. 22ł ust. 4–6 otrzymują brzmienie: „
 
 4. Od środków trwałych lub wartości niematerialnych i prawnych, przekazanych do używania na podstawie innych umów niż wymienione w ust. 1, odpisów amortyzacyjnych od tych składników dokonują odpowiednio finansujący lub korzystający na zasadach określonych w art. 22h-22k i art. 22m, z uwzględnieniem przepisów rozdziału 4a.
@@ -59,7 +63,7 @@ source: "eli-html"
 
 - **6)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Opodatkowanie stron umowy leasingu
+#### Rozdział 4a
 
 **Art. 23a.** Ilekroć w rozdziale jest mowa o:
 
@@ -86,7 +90,7 @@ source: "eli-html"
 
 - **1)** art. 6 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324),
 - **2)** przepisów o specjalnych strefach ekonomicznych,
-- **3)** art. 23 i 37 ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. z 1997 r. Nr 26, poz. 143, z 1998 r. Nr 160, poz. 1063 oraz z 1999 r. Nr 49, poz. 484 i Nr 101, poz. 1178) do umowy tej stosuje się zasady opodatkowania określone w art. 23f-23h. Jeżeli po upływie podstawowego okresu umowy leasingu, o której mowa w art. 23b ust. 1, finansujący przenosi na korzystającego własność środków trwałych lub wartości niematerialnych i prawnych, będących przedmiotem tej umowy:
+- **3)** art. 23 i 37 ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. z 1997 r. Nr 26, poz. 143, z 1998 r. Nr 160, poz. 1063 oraz z 1999 r. Nr 49, poz. 484 i Nr 101, poz. 1178) – do umowy tej stosuje się zasady opodatkowania określone w art. 23f-23h. Jeżeli po upływie podstawowego okresu umowy leasingu, o której mowa w art. 23b ust. 1, finansujący przenosi na korzystającego własność środków trwałych lub wartości niematerialnych i prawnych, będących przedmiotem tej umowy:
 - **1)** przychodem ze sprzedaży środków trwałych lub wartości niematerialnych i prawnych jest ich wartość wyrażona w cenie określonej w umowie sprzedaży; jeżeli jednak cena ta jest niższa od hipotetycznej wartości netto środków trwałych lub wartości niematerialnych i prawnych, przychód ten określa się w wysokości wartości rynkowej według zasad określonych w art. 19,
 - **2)** kosztem uzyskania przychodów przy ustalaniu dochodu ze sprzedaży jest rzeczywista wartość netto.
 
@@ -172,10 +176,12 @@ source: "eli-html"
     - **b)**
 
 - **3)** składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 17a pkt 1, zawartej z właścicielem lub współwłaścicielami tych składników – jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający ” ;
-- **7)** w art. 16b: w ust. 1 w tiret wyrazy „innej umowy o podobnym charakterze” zastępuje się wyrazami „umowy określonej w art. 17a pkt 1”, w ust. 2: – w pkt 2 lit. b) otrzymuje brzmienie: „ b) przyjęcia do odpłatnego korzystania, a odpisów amortyzacyjnych, zgodnie z przepisami rozdziału 4a, dokonuje korzystający, ” – pkt 4 otrzymuje brzmienie: „ 4) składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 17a pkt 1, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości – jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający ” ;
+- **7)** w art. 16b: w ust. 1 w tiret wyrazy „innej umowy o podobnym charakterze” zastępuje się wyrazami „umowy określonej w art. 17a pkt 1”, w ust. 2: w pkt 2 lit. b) otrzymuje brzmienie: „ przyjęcia do odpłatnego korzystania, a odpisów amortyzacyjnych, zgodnie z przepisami rozdziału 4a, dokonuje korzystający, ” pkt 4 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+    - **b)**
 
+- **4)** składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 17a pkt 1, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości – jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający ” ;
 - **8)** w art. 16ł ust. 4–6 otrzymują brzmienie: „
 
 4. Od środków trwałych lub wartości niematerialnych i prawnych, przekazanych do używania na podstawie innych umów niż wymienione w ust. 1, odpisów amortyzacyjnych od tych składników dokonują odpowiednio finansujący lub korzystający na zasadach określonych w art. 16h-16k i art. 16m, z uwzględnieniem przepisów rozdziału 4a.
@@ -188,7 +194,7 @@ source: "eli-html"
 - **1a)** dochodów uzyskanych z działalności polegającej na oddaniu środków trwałych lub wartości niematerialnych i prawnych do odpłatnego używania na warunkach określonych w art. 17a-17k, ” ;
 - **10)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Opodatkowanie stron umowy leasingu
+#### Rozdział 4a
 
 **Art. 17a.** Ilekroć w rozdziale jest mowa o:
 
@@ -215,7 +221,7 @@ source: "eli-html"
 
 - **1)** art. 6,
 - **2)** przepisów o specjalnych strefach ekonomicznych,
-- **3)** art. 23 i 37 ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. z 1997 r. Nr 26, poz. 143, z 1998 r. Nr 160, poz. 1063 oraz z 1999 r. Nr 49, poz. 484 i Nr 101, poz. 1178) do umowy tej stosuje się zasady opodatkowania określone w art. 17f-17h. Jeżeli po upływie podstawowego okresu umowy leasingu, o której mowa w art. 17b ust. 1, finansujący przenosi na korzystającego własność środków trwałych lub wartości niematerialnych i prawnych, będących przedmiotem tej umowy:
+- **3)** art. 23 i 37 ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. z 1997 r. Nr 26, poz. 143, z 1998 r. Nr 160, poz. 1063 oraz z 1999 r. Nr 49, poz. 484 i Nr 101, poz. 1178) – do umowy tej stosuje się zasady opodatkowania określone w art. 17f-17h. Jeżeli po upływie podstawowego okresu umowy leasingu, o której mowa w art. 17b ust. 1, finansujący przenosi na korzystającego własność środków trwałych lub wartości niematerialnych i prawnych, będących przedmiotem tej umowy:
 - **1)** przychodem ze sprzedaży środków trwałych lub wartości niematerialnych i prawnych jest ich wartość wyrażona w cenie określonej w umowie sprzedaży; jeżeli jednak cena ta jest niższa od hipotetycznej wartości netto środków trwałych lub wartości niematerialnych i prawnych, przychód ten określa się w wysokości wartości rynkowej według zasad określonych w art. 14,
 - **2)** kosztem uzyskania przychodów przy ustalaniu dochodu ze sprzedaży jest rzeczywista wartość netto.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacjiz dnia 27 grudnia 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie nadzoru pedagogicznego
+# Obwieszczenie Ministra Edukacjiz dnia 27 grudnia 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie nadzoru pedagogicznego Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 
 | Pole | Wartość |
 |---|---|
@@ -31,15 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 25 sierpnia 2017 r. w sprawie nadzoru pedagogicznego (Dz. U. z 2020 r. poz. 1551), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 1 września 2021 r. zmieniającym rozporządzenie w sprawie nadzoru pedagogicznego (Dz. U. poz. 1618).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Edukacji i Nauki z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie nadzoru pedagogicznego (Dz. U. poz. 1618), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Edukacji i Nauki z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie nadzoru pedagogicznego (Dz. U. poz. 1618), które stanowią: „
 § 2.
 Plany nadzoru pedagogicznego opracowane na rok szkolny 2021/2022 na podstawie dotychczasowych przepisów należy dostosować do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 25 sierpnia 2017 r. w sprawie nadzoru pedagogicznego
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 25 sierpnia 2017 r. w sprawie nadzoru pedagogicznegoObecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 Na podstawie art. 60 ust. 10 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -66,16 +63,16 @@ placówce – należy przez to rozumieć publiczne placówki wymienione w art. 2
 3a)
 dyrektorze szkoły – należy przez to rozumieć także kierownika szkoły polskiej;
 4)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie nadzoru pedagogicznego (Dz. U. poz. 1618), które weszło w życie z dniem 4 września 2021 r.
 5)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie nadzoru pedagogicznego (Dz. U. poz. 1618), które weszło w życie z dniem 4 września 2021 r.
 6)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie nadzoru pedagogicznego (Dz. U. poz. 1618), które weszło w życie z dniem 4 września 2021 r.
 7)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie nadzoru pedagogicznego (Dz. U. poz. 1618), które weszło w życie z dniem 4 września 2021 r.
 8)
-(uchylony);
-9)
+(uchylony);Przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie nadzoru pedagogicznego (Dz. U. poz. 1618), które weszło w życie z dniem 4 września 2021 r.
+9W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 kontroli – należy przez to rozumieć działania organu sprawującego nadzór pedagogiczny lub dyrektora szkoły lub placówki prowadzone w szkole lub placówce w celu oceny:
 a)
 stanu przestrzegania przepisów prawa dotyczących działalności dydaktycznej, wychowawczej i opiekuńczej oraz innej działalności statutowej szkoły lub placówki,
@@ -86,7 +83,7 @@ efektów działalności dydaktycznej, wychowawczej i opiekuńczej oraz innej dzi
 10)
 wspomaganiu – należy przez to rozumieć działania organu sprawującego nadzór pedagogiczny lub dyrektora szkoły lub placówki mające na celu inspirowanie i intensyfikowanie w szkole lub placówce procesów służących poprawie i doskonaleniu ich pracy, ukierunkowane na rozwój uczniów i wychowanków;
 11)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 12)
 platformie – należy przez to rozumieć elektroniczną platformę nadzoru pedagogicznego, o której mowa w art. 60 ust. 2 ustawy.
 § 3.
@@ -106,32 +103,32 @@ współdziałania organów sprawujących nadzór pedagogiczny z organami prowadz
 tworzenia warunków sprzyjających rozwojowi szkół i placówek;
 3)
 pozyskiwania informacji zapewniających obiektywną i pełną ocenę działalności dydaktycznej, wychowawczej i opiekuńczej oraz innej działalności statutowej szkoły lub placówki.
-§ 4a.
+§ 4aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Organ sprawujący nadzór pedagogiczny może występować do dyrektora szkoły lub placówki o przekazanie informacji i danych dotyczących działalności dydaktycznej, wychowawczej i opiekuńczej oraz innej działalności statutowej szkoły lub placówki.
 § 5.
 Formami nadzoru pedagogicznego są:
 1)
-(uchylony);
+(uchylony);Przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 2)
 kontrola;
 3)
 wspomaganie;
 4)
-(uchylony).
+(uchylony).Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 § 6.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 § 7.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 § 8.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 § 9.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 § 10.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 § 11.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 § 12.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 § 13.
 Kontrola podejmowana przez kuratora oświaty, przewidziana w planie nadzoru pedagogicznego, o którym mowa w § 20 ust. 1, jest przeprowadzana z wykorzystaniem arkuszy kontroli zatwierdzonych przez ministra właściwego do spraw oświaty i wychowania.
 § 14.
@@ -157,7 +154,7 @@ terminy rozpoczęcia i zakończenia czynności kontroli;
 pieczęć i podpis organu sprawującego nadzór pedagogiczny.
 4.
 Przeprowadzenie w szkole lub placówce czynności kontroli nie może zakłócać pracy szkoły lub placówki.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Kontrola przewidziana w planie nadzoru pedagogicznego, o którym mowa w § 20 ust. 1, prowadzona w celu oceny:
 1)
 stanu przestrzegania przepisów prawa dotyczących działalności dydaktycznej, wychowawczej i opiekuńczej oraz innej działalności statutowej szkoły lub placówki – nie powinna trwać dłużej niż 2 dni;
@@ -187,7 +184,7 @@ nazwę i siedzibę organu sprawującego nadzór pedagogiczny, imię i nazwisko k
 terminy rozpoczęcia i zakończenia kontroli ze wskazaniem dni, w których odbywały się czynności kontroli w szkole lub placówce;
 4)
 tematykę kontroli;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 opis ustalonego stanu faktycznego, w tym ujawnionych nieprawidłowości, wnioski wynikające z przeprowadzonych czynności kontroli, a także zalecenia wraz z terminem ich realizacji, o których mowa w art. 55 ust. 4 ustawy;
 6)
 pouczenie o prawie zgłoszenia przez dyrektora szkoły lub placówki zastrzeżeń do ustaleń zawartych w protokole kontroli;
@@ -195,13 +192,12 @@ pouczenie o prawie zgłoszenia przez dyrektora szkoły lub placówki zastrzeże�
 parafy kontrolującego i dyrektora szkoły lub placówki na każdej stronie protokołu;
 8)
 podpisy kontrolującego i dyrektora szkoły lub placówki oraz miejsce i datę podpisania protokołu.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Protokół kontroli sporządza się w dwóch jednobrzmiących egzemplarzach. Jeden egzemplarz kontrolujący przekazuje, za poświadczeniem odbioru, dyrektorowi szkoły lub placówki w terminie:
 1)
 7 dni roboczych od dnia zakończenia czynności kontroli w szkole lub placówce – w przypadku kontroli, o której mowa w § 14 ust. 5 pkt 1;
 2)
-14 dni roboczych od dnia zakończenia czynności kontroli w szkole lub placówce – w przypadku kontroli, o której mowa w § 14 ust. 5 pkt 2.
-Drugi egzemplarz kontrolujący włącza do akt kontroli.
+14 dni roboczych od dnia zakończenia czynności kontroli w szkole lub placówce – w przypadku kontroli, o której mowa w § 14 ust. 5 pkt 2. Drugi egzemplarz kontrolujący włącza do akt kontroli.
 § 17.
 1.
 Dyrektor szkoły lub placówki może odmówić podpisania protokołu kontroli, składając w terminie 7 dni od dnia jego otrzymania wyjaśnienia dotyczące przyczyn odmowy.
@@ -218,27 +214,27 @@ W przypadku stwierdzenia zasadności zgłoszonych zastrzeżeń organ sprawujący
 W przypadku nieuwzględnienia całości lub części zgłoszonych zastrzeżeń organ sprawujący nadzór pedagogiczny sporządza pisemne stanowisko wobec zastrzeżeń i przekazuje je dyrektorowi szkoły lub placówki w terminie 14 dni roboczych od dnia otrzymania zastrzeżeń.
 § 19.
 Organ sprawujący nadzór pedagogiczny wspomaga szkoły i placówki w szczególności przez:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.)
 przygotowywanie i podawanie do publicznej wiadomości na stronie internetowej organu analiz wyników sprawowanego nadzoru pedagogicznego, w tym wniosków z kontroli;
 2)
 organizowanie konferencji i narad dla dyrektorów szkół i placówek;
 3)
 przekazywanie informacji o istotnych zagadnieniach dotyczących systemu oświaty i zmianach w przepisach prawa dotyczących funkcjonowania szkół i placówek.
 § 19a.
-(uchylony).
+(uchylony).Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2.
 § 19b.
-(uchylony).
+(uchylony).Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2.
 § 20.
 1.
 Organ sprawujący nadzór pedagogiczny opracowuje na każdy rok szkolny plan nadzoru pedagogicznego, z uwzględnieniem wniosków z nadzoru pedagogicznego sprawowanego w poprzednim roku szkolnym oraz podstawowych kierunków realizacji polityki oświatowej państwa, o których mowa w art. 60 ust. 3 pkt 1 ustawy.
 2.
 Plan nadzoru pedagogicznego, o którym mowa w ust. 1, zawiera:
 1)
-(uchylony);
+(uchylony);Przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 2)
 liczbę i tematykę kontroli planowanych w poszczególnych typach szkół i rodzajach placówek;
 3)
-(uchylony).
+(uchylony).Przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 3.
 Organ sprawujący nadzór pedagogiczny podaje do publicznej wiadomości plan nadzoru pedagogicznego, o którym mowa w ust. 1, przez zamieszczenie na stronie internetowej urzędu obsługującego organ sprawujący nadzór pedagogiczny w terminie do dnia 31 sierpnia roku szkolnego poprzedzającego rok szkolny, którego dotyczy ten plan.
 4.
@@ -249,8 +245,8 @@ Kurator oświaty opracowuje i przedstawia ministrowi właściwemu do spraw oświ
 1.
 Dyrektor szkoły lub placówki we współpracy z innymi nauczycielami zajmującymi stanowiska kierownicze, w ramach sprawowanego nadzoru pedagogicznego:
 1)
-(uchylony);
-2)
+(uchylony);Przez § 1 pkt 10 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
+2W brzmieniu ustalonym przez § 1 pkt 10 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 kontroluje:
 a)
 przestrzeganie przez nauczycieli przepisów prawa dotyczących działalności dydaktycznej, wychowawczej i opiekuńczej oraz innej działalności statutowej szkoły lub placówki,
@@ -265,9 +261,9 @@ planowanie działań rozwojowych, w tym motywowanie nauczycieli do doskonalenia 
 c)
 prowadzenie działań rozwojowych, w tym organizowanie szkoleń i narad;
 4)
-(uchylony).
+(uchylony).Przez § 1 pkt 10 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 3.
 W celu realizacji zadań, o których mowa w ust. 1, dyrektor szkoły lub placówki we współpracy z nauczycielami, o których mowa w ust. 1, w szczególności:
 1)
@@ -282,15 +278,15 @@ Plan nadzoru pedagogicznego, o którym mowa w ust. 1, jest opracowywany z uwzgl�
 3.
 Plan nadzoru pedagogicznego, o którym mowa w ust. 1, zawiera w szczególności:
 1)
-(uchylony);
-2)
+(uchylony);Przez § 1 pkt 11 lit. a rozporządzenia, o którym mowa w odnośniku 2.
+2W brzmieniu ustalonym przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 tematykę i terminy przeprowadzania kontroli, o której mowa w § 22 ust. 1 pkt 2;
 3)
 zakres wspomagania nauczycieli w realizacji ich zadań, o którym mowa w § 22 ust. 1 pkt 3;
 4)
 plan obserwacji, o której mowa w § 22 ust. 3 pkt 2;
 5)
-(uchylony).
+(uchylony).Przez § 1 pkt 11 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 4.
 W przypadku dokonania zmian w planie nadzoru, o którym mowa w ust. 1, dyrektor szkoły lub placówki niezwłocznie informuje radę pedagogiczną, a w przypadku szkoły lub placówki, w której nie tworzy się rady pedagogicznej – nauczycieli i osoby niebędące nauczycielami, które realizują zadania statutowe szkoły lub placówki, o wprowadzonych zmianach.
 § 24.
@@ -310,26 +306,26 @@ numer identyfikacyjny szkoły lub placówki w krajowym rejestrze urzędowym podm
 e)
 status publicznoprawny: szkoła lub placówka publiczna, niepubliczna szkoła artystyczna o uprawnieniach publicznej szkoły artystycznej albo szkoła lub placówka niepubliczna;
 2)
-(uchylony);
+(uchylony);Przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 3)
-(uchylony);
+(uchylony);Przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 4)
 informacje uzyskane w trakcie przeprowadzania kontroli przewidzianych w planie nadzoru pedagogicznego, o którym mowa w § 20 ust. 1, zawarte w arkuszach kontroli, o których mowa w § 13;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 informacje dotyczące zakresu i wyników kontroli prowadzonych w trybie działań planowych, zgodnie z § 3 ust. 2, w szczególności opis ustalonego stanu faktycznego, w tym ujawnionych nieprawidłowości, oraz wnioski i zalecenia, o których mowa w § 16 ust. 1 pkt 5;
 6)
 informacje dotyczące zakresu i wyników kontroli prowadzonych w trybie działań doraźnych zgodnie z § 3 ust. 3;
 7)
-(uchylony).
+(uchylony).Przez § 1 pkt 12 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 § 26.
 1.
 Dostęp do platformy uzyskują w zakresie:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 wykorzystania narzędzi nadzoru pedagogicznego do przeprowadzania kontroli oraz analizy danych dotyczących nadzoru pedagogicznego gromadzonych na platformie i opracowania wyników – pracownicy urzędów obsługujących ministrów sprawujących nadzór pedagogiczny i podległych im lub podporządkowanych jednostek organizacyjnych lub organów, o których mowa w art. 53 ust. 1, 2 i 2a, art. 54 oraz art. 60 ust. 4 i 6 ustawy, oraz kuratoriów oświaty, wykonujący zadania w zakresie nadzoru pedagogicznego, koordynujący lub nadzorujący wykonywanie tych zadań;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 wykorzystania narzędzi nadzoru pedagogicznego w trakcie kontroli prowadzonej w szkole lub placówce do udzielenia informacji na pytania zawarte w tych narzędziach – dyrektorzy tych szkół i placówek, nauczyciele, uczniowie i rodzice;
 3)
-(uchylony);
+(uchylony);Przez § 1 pkt 13 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 4)
 wyników nadzoru pedagogicznego w poszczególnych szkołach lub placówkach – przedstawiciele organów prowadzących te szkoły lub placówki;
 5)
@@ -361,16 +357,16 @@ Identyfikacja użytkownika jest dokonywana automatycznie przez mechanizmy platfo
 Osobiste konto użytkownika jest likwidowane przez ministra właściwego do spraw oświaty i wychowania, po przekazaniu przez podmioty, o których mowa w § 26 ust. 1 pkt 1, 4 i 5, wniosku o likwidację osobistego konta użytkownika zawierającego informacje, o których mowa w ust. 2 pkt 1, 2 i 4.
 § 28.
 1.
-Osobom, o których mowa w § 26 ust. 1 pkt 2, umożliwia się dostęp do platformy:
-1)
+Osobom, o których mowa w § 26 ust. 1 pkt 2, umożliwia się dostęp do platformy:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 14 lit. a rozporządzenia, o którym mowa w odnośniku 2.
+1Ze zmianą wprowadzoną przez § 1 pkt 14 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 na terenie szkoły lub placówki – przez odblokowanie dostępu do narzędzi nadzoru pedagogicznego przypisanych do danej kontroli;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 14 lit. c rozporządzenia, o którym mowa w odnośniku 2.)
 poza terenem szkoły lub placówki – przez udostępnienie kodu PIN, za pomocą którego osoby te uzyskują dostęp do narzędzi nadzoru pedagogicznego przypisanych do danej kontroli; kod PIN składa się z co najmniej 4 znaków i jest udostępniany na czas prowadzenia danej kontroli.
 2.
 Odblokowania dostępu, o którym mowa w ust. 1 pkt 1, oraz udostępnienia kodu PIN, o którym mowa w ust. 1 pkt 2, dokonuje pracownik, o którym mowa w § 26 ust. 1 pkt 1, wykonujący zadania w zakresie nadzoru pedagogicznego.
 § 29.
 1.
-Ustala się następujący wykaz stanowisk w urzędach obsługujących ministrów sprawujących nadzór pedagogiczny i podległych im lub podporządkowanych jednostkach organizacyjnych lub organach, o których mowa w art. 53 ust. 1, 2 i 2a, art. 54 oraz art. 60 ust. 4 i 6 ustawy, oraz kuratoriach oświaty, których zajmowanie wymaga kwalifikacji pedagogicznych:
+Ustala się następujący wykaz stanowisk w urzędach obsługujących ministrów sprawujących nadzór pedagogiczny i podległych im lub podporządkowanych jednostkach organizacyjnych lub organach, o których mowa w art. 53 ust. 1, 2 i 2a, art. 54 oraz art. 60 ust. 4 i 6 ustawy, oraz kuratoriach oświaty, których zajmowanie wymaga kwalifikacji pedagogicznych:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 15 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 1)
 w urzędach obsługujących ministrów: wizytatorzy, starsi wizytatorzy i główni wizytatorzy;
 2)
@@ -408,12 +404,12 @@ co najmniej dwuletni staż pracy w urzędzie organu sprawującego nadzór pedago
 2)
 nauczyciele akademiccy posiadający co najmniej pięcioletni staż pracy w uczelni i ukończone formy doskonalenia w zakresie administracji lub zarządzania.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 15 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 4.
 Kwalifikacje wymagane do zajmowania stanowiska kuratora oświaty określa ustawa.
 § 30.
 Kurator oświaty oraz inne organy sprawujące nadzór pedagogiczny mogą zlecać prowadzenie badań i opracowywanie ekspertyz, o których mowa w art. 60 ust. 9 ustawy, osobom, które ukończyły studia drugiego stopnia lub jednolite studia magisterskie i posiadają dorobek naukowy lub znaczący dorobek zawodowy w dziedzinie związanej z przedmiotem badań lub ekspertyz.
-§ 30a.
+§ 30aZe zmianą wprowadzoną przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2..
 Przepisy § 2 pkt 9 i 10, § 3 ust. 1 i 4, § 4, § 4a i § 5 oraz § 22–24 stosuje się odpowiednio do publicznych placówek doskonalenia nauczycieli prowadzonych przez samorząd województwa, powiat lub gminę.
 § 31.
 Do dnia 31 sierpnia 2019 r. przepisy rozporządzenia stosuje się odpowiednio do nadzoru pedagogicznego, o którym mowa w art. 321 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287).
@@ -426,6 +422,5 @@ Plany nadzoru pedagogicznego opracowane na rok szkolny 2017/2018 na podstawie do
 § 35.
 Przepisów § 22–24 i § 34 nie stosuje się do niepublicznych szkół i placówek.
 § 36.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie nadzoru pedagogicznego (Dz. U. poz. 1618), które weszło w życie z dniem 4 września 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) Przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 12) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 13) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 14) Przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2. 15) Przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 2. 16) Przez § 1 pkt 10 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 17) W brzmieniu ustalonym przez § 1 pkt 10 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 18) Przez § 1 pkt 10 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 19) Przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 2. 20) Przez § 1 pkt 11 lit. a rozporządzenia, o którym mowa w odnośniku 2. 21) W brzmieniu ustalonym przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2. 22) Przez § 1 pkt 11 lit. c rozporządzenia, o którym mowa w odnośniku 2. 23) Przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 2. 24) W brzmieniu ustalonym przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 2. 25) Przez § 1 pkt 12 lit. c rozporządzenia, o którym mowa w odnośniku 2. 26) W brzmieniu ustalonym przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 2. 27) Przez § 1 pkt 13 lit. b rozporządzenia, o którym mowa w odnośniku 2. 28) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 14 lit. a rozporządzenia, o którym mowa w odnośniku 2. 29) Ze zmianą wprowadzoną przez § 1 pkt 14 lit. b rozporządzenia, o którym mowa w odnośniku 2. 30) W brzmieniu ustalonym przez § 1 pkt 14 lit. c rozporządzenia, o którym mowa w odnośniku 2. 31) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 15 lit. a rozporządzenia, o którym mowa w odnośniku 2. 32) Przez § 1 pkt 15 lit. b rozporządzenia, o którym mowa w odnośniku 2. 33) Ze zmianą wprowadzoną przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2. 34) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 27 sierpnia 2015 r. w sprawie nadzoru pedagogicznego (Dz. U. poz. 1270), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 27 sierpnia 2015 r. w sprawie nadzoru pedagogicznego (Dz. U. poz. 1270), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). 1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie nadzoru pedagogicznego (Dz. U. poz. 1618), które weszło w życie z dniem 4 września 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) Przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 7) Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 8) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 12) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 13) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 14) Przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2. 15) Przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 2. 16) Przez § 1 pkt 10 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 17) W brzmieniu ustalonym przez § 1 pkt 10 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 18) Przez § 1 pkt 10 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 19) Przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 2. 20) Przez § 1 pkt 11 lit. a rozporządzenia, o którym mowa w odnośniku 2. 21) W brzmieniu ustalonym przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2. 22) Przez § 1 pkt 11 lit. c rozporządzenia, o którym mowa w odnośniku 2. 23) Przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 2. 24) W brzmieniu ustalonym przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 2. 25) Przez § 1 pkt 12 lit. c rozporządzenia, o którym mowa w odnośniku 2. 26) W brzmieniu ustalonym przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 2. 27) Przez § 1 pkt 13 lit. b rozporządzenia, o którym mowa w odnośniku 2. 28) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 14 lit. a rozporządzenia, o którym mowa w odnośniku 2. 29) Ze zmianą wprowadzoną przez § 1 pkt 14 lit. b rozporządzenia, o którym mowa w odnośniku 2. 30) W brzmieniu ustalonym przez § 1 pkt 14 lit. c rozporządzenia, o którym mowa w odnośniku 2. 31) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 15 lit. a rozporządzenia, o którym mowa w odnośniku 2. 32) Przez § 1 pkt 15 lit. b rozporządzenia, o którym mowa w odnośniku 2. 33) Ze zmianą wprowadzoną przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2. 34) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 27 sierpnia 2015 r. w sprawie nadzoru pedagogicznego (Dz. U. poz. 1270), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
 

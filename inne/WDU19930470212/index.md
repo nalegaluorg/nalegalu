@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1993-04-28 |
 | Data wydania | 1993-06-08 |
-| Wejście w życie | 1993-07-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930470212) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/212/text.pdf) |
+
+Budowa autostrad i dróg ekspresowych
 
 **Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. Nr 14, poz. 60, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i z 1991 r. Nr 75, poz. 332) wprowadza się następujące zmiany:
 
@@ -67,7 +68,7 @@ source: "eli-html"
 
 - **4)** po rozdziale 1 dodaje się rozdział 1a w brzmieniu: „
 
-#### Rozdział 1a Budowa autostrad i dróg ekspresowych
+#### Rozdział 1a
 
 **Art. 16a.** Zadania w zakresie budowy i eksploatacji autostrad i dróg ekspresowych mogą być realizowane:
 

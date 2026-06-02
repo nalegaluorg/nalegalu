@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-27 |
 | Data wydania | 2017-01-04 |
-| Wejście w życie | 2017-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/18/text.pdf) |
 
@@ -38,7 +37,7 @@ Agencji Mienia Wojskowego nadaje się statut stanowiący załącznik do rozporz�
 § 2.
 Rozporządzenie stosuje się od dnia 17 listopada 2016 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2010 r. w sprawie nadania statutu Wojskowej Agencji Mieszkaniowej (Dz. U. z 2014 r. poz. 299), które utraciło moc z dniem 2 października 2016 r. na podstawie art. 136 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614, 1202, 1789, 2003 i 2260). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2010 r. w sprawie nadania statutu Wojskowej Agencji Mieszkaniowej (Dz. U. z 2014 r. poz. 299), które utraciło moc z dniem 2 października 2016 r. na podstawie art. 136 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614, 1202, 1789, 2003 i 2260).
 Załącznik – Statut Agencji Mienia Wojskowego
 § 1.
 Agencja Mienia Wojskowego, zwana dalej „Agencją”, działa na podstawie ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, zwanej dalej „ustawą”, oraz niniejszego statutu.

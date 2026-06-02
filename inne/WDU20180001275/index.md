@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 27 czerwca 2018 r. w sprawie określenia obszaru działania i siedzib okręgowych urzędów miar
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 27 czerwca 2018 r. w sprawie określenia obszaru działania i siedzib okręgowych urzędów miar Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-27 |
 | Data wydania | 2018-06-29 |
-| Wejście w życie | 2018-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001275) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1275/text.pdf) |
 
@@ -79,6 +78,5 @@ Okręgowego Urzędu Miar w Warszawie poza obszarem działania ustalonym w § 1 p
 2)
 Okręgowego Urzędu Miar w Gdańsku poza obszarem działania ustalonym w § 1 pkt 6 obejmuje również część województwa warmińsko-mazurskiego obejmującą powiaty: ełcki, giżycki, gołdapski, olecki, piski i węgorzewski.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r., z wyjątkiem § 1 pkt 10 i § 2 pkt 10, które wchodzą w życie z dniem 1 stycznia 2019 r.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 19 marca 2010 r. w sprawie zniesienia niektórych obwodowych urzędów miar oraz określenia obszaru działania i siedzib okręgowych i obwodowych urzędów miar (Dz. U. poz. 341), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 10 pkt 2 ustawy z dnia 23 marca 2017 r. o zmianie ustawy – Prawo o miarach oraz ustawy o wojewodzie i administracji rządowej w województwie (Dz. U. poz. 976).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r., z wyjątkiem § 1 pkt 10 i § 2 pkt 10, które wchodzą w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 19 marca 2010 r. w sprawie zniesienia niektórych obwodowych urzędów miar oraz określenia obszaru działania i siedzib okręgowych i obwodowych urzędów miar (Dz. U. poz. 341), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 10 pkt 2 ustawy z dnia 23 marca 2017 r. o zmianie ustawy – Prawo o miarach oraz ustawy o wojewodzie i administracji rządowej w województwie (Dz. U. poz. 976). 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 19 marca 2010 r. w sprawie zniesienia niektórych obwodowych urzędów miar oraz określenia obszaru działania i siedzib okręgowych i obwodowych urzędów miar (Dz. U. poz. 341), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 10 pkt 2 ustawy z dnia 23 marca 2017 r. o zmianie ustawy – Prawo o miarach oraz ustawy o wojewodzie i administracji rządowej w województwie (Dz. U. poz. 976).
 

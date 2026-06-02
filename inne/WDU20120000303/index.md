@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 8 marca 2012 r. w sprawie deklaracji o towarach niebezpiecznych lub zanieczyszczających
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 8 marca 2012 r. w sprawie deklaracji o towarach niebezpiecznych lub zanieczyszczających Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy 2002/59/WE Parlamentu Europejskiego i Rady z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę Rady 93/75/EWG (Dz. Urz. WE L 208 z 05.08.2002, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-08 |
 | Data wydania | 2012-03-22 |
-| Wejście w życie | 2012-04-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/303/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 10b ust. 3 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2006 r. Nr 99, poz. 692, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 10b ust. 3 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2006 r. Nr 99, poz. 692, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238, z 2009 r. Nr 63, poz. 518 oraz z 2011 r. Nr 185, poz. 1094 i Nr 228, poz. 1368.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa zakres informacji, jaką powinna zawierać deklaracja o towarach niebezpiecznych lub zanieczyszczających.
 § 2.
@@ -61,6 +60,5 @@ kartę bezpieczeństwa (MSDS), o której mowa w ustawie z dnia 18 sierpnia 2011 
 8)
 dane adresowe podmiotu, od którego można otrzymać szczegółowe informacje o dostarczanym towarze oraz numery alarmowe załadowcy lub innego podmiotu, będących w posiadaniu informacji dotyczących fizykochemicznych właściwości przewożonych towarów oraz określających działania, jakie należy podjąć w nagłych wypadkach.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy 2002/59/WE Parlamentu Europejskiego i Rady z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę Rady 93/75/EWG (Dz. Urz. WE L 208 z 05.08.2002, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238, z 2009 r. Nr 63, poz. 518 oraz z 2011 r. Nr 185, poz. 1094 i Nr 228, poz. 1368. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 kwietnia 2004 r. w sprawie przekazywania informacji przez załadowcę podstawiającego pod załadunek na statek towary niebezpieczne lub zanieczyszczające (Dz. U. Nr 103, poz. 1084), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 149 ust. 3 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 kwietnia 2004 r. w sprawie przekazywania informacji przez załadowcę podstawiającego pod załadunek na statek towary niebezpieczne lub zanieczyszczające (Dz. U. Nr 103, poz. 1084), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 149 ust. 3 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368). 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy 2002/59/WE Parlamentu Europejskiego i Rady z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę Rady 93/75/EWG (Dz. Urz. WE L 208 z 05.08.2002, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238, z 2009 r. Nr 63, poz. 518 oraz z 2011 r. Nr 185, poz. 1094 i Nr 228, poz. 1368. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 kwietnia 2004 r. w sprawie przekazywania informacji przez załadowcę podstawiającego pod załadunek na statek towary niebezpieczne lub zanieczyszczające (Dz. U. Nr 103, poz. 1084), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 149 ust. 3 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368).
 

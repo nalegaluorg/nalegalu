@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-09-19 |
 | Data wydania | 2008-10-14 |
-| Wejście w życie | 2008-10-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081821121) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1121/text.pdf) |
 
@@ -59,9 +58,9 @@ source: "eli-html"
     - **c)**
     - **d)**
 
-2. Osoby zatrudnione na stanowisku kierownika urzędu stanu cywilnego lub zastępcy kierownika urzędu stanu cywilnego mogą być zatrudnione również w niepełnym wymiarze czasu pracy. Kierownik urzędu stanu cywilnego współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego ustawowych zadań. W zakresie nieuregulowanym w niniejszej ustawie do naboru na stanowiska, o których mowa w art. 6 ust. 3–5, oraz do osób zatrudnionych na tych stanowiskach stosuje się przepisy ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. Nr 142, poz. 1593, z późn. zm.). ” .
+2. Osoby zatrudnione na stanowisku kierownika urzędu stanu cywilnego lub zastępcy kierownika urzędu stanu cywilnego mogą być zatrudnione również w niepełnym wymiarze czasu pracy. Kierownik urzędu stanu cywilnego współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego ustawowych zadań. W zakresie nieuregulowanym w niniejszej ustawie do naboru na stanowiska, o których mowa w art. 6 ust. 3–5, oraz do osób zatrudnionych na tych stanowiskach stosuje się przepisy ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. Nr 142, poz. 1593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806, z 2005 r. Nr 10, poz. 71, Nr 23, poz. 192 i Nr 122, poz. 1020 oraz z 2006 r. Nr 79, poz. 549, Nr 169, poz. 1201 i Nr 170, poz. 1218.). ” .
 
-**Art. 2.** W załączniku do ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.) w części I ust. 4 otrzymuje brzmienie: 1 2 3 4 „4. Pozostałe decyzje wydawane przez kierownika urzędu stanu cywilnego uwzględniające wnioski stron” 39 zł
+**Art. 2.** W załączniku do ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883 oraz z 2008 r. Nr 44, poz. 262 i Nr 63, poz. 394.) w części I ust. 4 otrzymuje brzmienie: 1 2 3 4 „4. Pozostałe decyzje wydawane przez kierownika urzędu stanu cywilnego uwzględniające wnioski stron” 39 zł
 
 **Art. 3.**
 
@@ -71,5 +70,5 @@ source: "eli-html"
 
 **Art. 4.** Czynności dokonane w okresie od dnia 7 sierpnia 2005 r. do dnia wejścia w życie niniejszej ustawy przez kierownika urzędu stanu cywilnego lub zastępcę kierownika urzędu stanu cywilnego, powołanych uchwałą rady gminy na podstawie art. 6 ust. 3 ustawy, o której mowa w art. 1, bez przeprowadzenia naboru w trybie art. 3a-3d ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych, uznaje się za dokonane przez uprawniony organ.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806, z 2005 r. Nr 10, poz. 71, Nr 23, poz. 192 i Nr 122, poz. 1020 oraz z 2006 r. Nr 79, poz. 549, Nr 169, poz. 1201 i Nr 170, poz. 1218. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883 oraz z 2008 r. Nr 44, poz. 262 i Nr 63, poz. 394.
 

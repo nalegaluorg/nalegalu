@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-23 |
 | Data wydania | 2015-06-26 |
-| Wejście w życie | 2015-06-27 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000894) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/894/text.pdf) |
 
@@ -33,22 +32,17 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 
 1)
 w § 7 w:
 a)
-ust. 4 w pkt 3 część wspólna otrzymuje brzmienie:
-„
+ust. 4 w pkt 3 część wspólna otrzymuje brzmienie: „
 – lecz nie później niż do dnia 30 września 2015 r.;
 ” ,
 b)
-ust. 5 w pkt 1 lit. d otrzymuje brzmienie:
-„
+ust. 5 w pkt 1 lit. d otrzymuje brzmienie: „
 d)
-zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną nastąpi w terminie 60 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 30 września 2015 r., przy czym złożenie ostatniego wniosku o płatność w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu nastąpi w terminach określonych w ust. 4 pkt 3;
-” ;
+zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną nastąpi w terminie 60 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 30 września 2015 r., przy czym złożenie ostatniego wniosku o płatność w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu nastąpi w terminach określonych w ust. 4 pkt 3; ” ;
 2)
-w § 23a ust. 1 otrzymuje brzmienie:
-„
+w § 23a ust. 1 otrzymuje brzmienie: „
 1.
-Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie terminów określonych w § 7 ust. 4 pkt 3 albo ust. 5 pkt 1 lit. d, w terminie późniejszym, nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 września 2015 r.
-” .
+Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie terminów określonych w § 7 ust. 4 pkt 3 albo ust. 5 pkt 1 lit. d, w terminie późniejszym, nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 września 2015 r. ” .
 § 2.
 1.
 Umowa o przyznanie pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 zawarta przed dniem wejścia w życie niniejszego rozporządzenia może być zmieniona w zakresie wynikającym ze zmian wprowadzonych tym rozporządzeniem, jeżeli beneficjent złoży najpóźniej do dnia 15 lipca 2015 r. w oddziale regionalnym Agencji Restrukturyzacji i Modernizacji Rolnictwa, w którym została zawarta umowa o przyznanie pomocy finansowej, wniosek o dokonanie takich zmian.

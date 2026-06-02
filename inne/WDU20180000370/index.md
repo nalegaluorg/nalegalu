@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 1 marca 2012 r. w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 245), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 20 stycznia 2017 r. zmieniającym rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 179).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 20 stycznia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 179), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 20 stycznia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 179), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-” .
-Załącznik – Rozporządzenie Ministra Finansów z dnia 1 marca 2012 r. w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy
-Na podstawie art. 171a § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. ” .
+Załącznik – Rozporządzenie Ministra Finansów z dnia 1 marca 2012 r. w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawyMinister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
+Na podstawie art. 171a § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491 oraz z 2018 r. poz. 106 i 138.) zarządza się, co następuje:
 § 1.
 Obowiązek prowadzenia metryki sprawy jest wyłączony w sprawie:
 1)
@@ -63,11 +61,9 @@ zwrotu osobom fizycznym części wydatków poniesionych na zakup materiałów bu
 11)
 wydania podatkowych znaków akcyzy lub sprzedaży legalizacyjnych znaków akcyzy,
 12)
-(uchylony),
+(uchylony),Przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 20 stycznia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 179), które weszło w życie z dniem 1 marca 2017 r.
 13)
-(uchylony)
-z wyjątkiem sprawy załatwianej w postępowaniu odwoławczym, w postępowaniu dotyczącym wznowienia postępowania, stwierdzenia nieważności decyzji ostatecznej albo postanowienia ostatecznego oraz uchylenia albo zmiany decyzji ostatecznej albo postanowienia ostatecznego.
+(uchylony)Przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 20 stycznia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 179), które weszło w życie z dniem 1 marca 2017 r. – z wyjątkiem sprawy załatwianej w postępowaniu odwoławczym, w postępowaniu dotyczącym wznowienia postępowania, stwierdzenia nieważności decyzji ostatecznej albo postanowienia ostatecznego oraz uchylenia albo zmiany decyzji ostatecznej albo postanowienia ostatecznego.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 7 marca 2012 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491 oraz z 2018 r. poz. 106 i 138. 3) Przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 20 stycznia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 179), które weszło w życie z dniem 1 marca 2017 r.
+Rozporządzenie wchodzi w życie z dniem 7 marca 2012 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491 oraz z 2018 r. poz. 106 i 138. 3) Przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 20 stycznia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 179), które weszło w życie z dniem 1 marca 2017 r.
 

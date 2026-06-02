@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 kwietnia 2020 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 30 kwietnia 2020 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-30 |
 | Data wydania | 2020-05-29 |
-| Wejście w życie | 2020-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000956) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/956/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.) wprowadza się następujące zmiany:
+Sprawy o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazanie zbliżania się do mieszkania i jego bezpośredniego otoczenia
+
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288, 462 i 875.) wprowadza się następujące zmiany:
 
 - **1)** w art. 131 po § 1 dodaje się § 11 w brzmieniu: „
 
@@ -34,7 +35,7 @@ source: "eli-html"
 
 - **2)** w części pierwszej w księdze drugiej w tytule II po dziale I dodaje się dział Ia w brzmieniu: „
 
-### Dział Ia Sprawy o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazanie zbliżania się do mieszkania i jego bezpośredniego otoczenia
+### Dział Ia
 
 **Art. 5602.** Przepisy zawarte w niniejszym dziale stosuje się w sprawach, o których mowa w art. 11a ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. z 2020 r. poz. 218 i 956).
 
@@ -110,7 +111,7 @@ source: "eli-html"
 
 - **1)** wydanego przez Policję, na podstawie art. 15aa ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360 i 956), lub Żandarmerię Wojskową, na podstawie art. 18a ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2020 r. poz. 431 i 956), nakazu natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazu zbliżania się do mieszkania i jego bezpośredniego otoczenia,
 - **2)** postanowienia sądu o udzieleniu zabezpieczenia w sprawach o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazanie zbliżania się do mieszkania i jego bezpośredniego otoczenia, którym nakaz lub zakaz, o których mowa w pkt 1, został przedłużony,
-- **3)** postanowienia sądu o zobowiązaniu osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazaniu zbliżania się do mieszkania i jego bezpośredniego otoczenia, wydanego na podstawie art. 11a ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. z 2020 r. poz. 218 i 956) podlega karze aresztu, ograniczenia wolności albo grzywny. ” .
+- **3)** postanowienia sądu o zobowiązaniu osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazaniu zbliżania się do mieszkania i jego bezpośredniego otoczenia, wydanego na podstawie art. 11a ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. z 2020 r. poz. 218 i 956) – podlega karze aresztu, ograniczenia wolności albo grzywny. ” .
 
 **Art. 3.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360) wprowadza się następujące zmiany:
 
@@ -454,7 +455,7 @@ source: "eli-html"
 
 **Art. 11a.**
 
-1. Jeżeli członek rodziny wspólnie zajmujący mieszkanie, swoim zachowaniem polegającym na stosowaniu przemocy w rodzinie czyni szczególnie uciążliwym wspólne zamieszkiwanie, osoba dotknięta tą przemocą może żądać, aby sąd, właściwy według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.) o postępowaniu nieprocesowym, zobowiązał go do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazał zbliżania się do mieszkania i jego bezpośredniego otoczenia.
+1. Jeżeli członek rodziny wspólnie zajmujący mieszkanie, swoim zachowaniem polegającym na stosowaniu przemocy w rodzinie czyni szczególnie uciążliwym wspólne zamieszkiwanie, osoba dotknięta tą przemocą może żądać, aby sąd, właściwy według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288, 462, 875 i 956.) o postępowaniu nieprocesowym, zobowiązał go do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazał zbliżania się do mieszkania i jego bezpośredniego otoczenia.
 
 2. Przepis ust. 1 stosuje się również w przypadku, gdy:
 
@@ -466,7 +467,7 @@ source: "eli-html"
 
 - **1)** nakazu lub zakazu, o których mowa w art. 15aa ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360 i 956),
 - **2)** nakazu lub zakazu, o których mowa w art. 18a ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2020 r. poz. 431 i 956),
-- **3)** postanowienia sądu o zobowiązaniu osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazaniu zbliżania się do mieszkania i jego bezpośredniego otoczenia, w tym również o udzieleniu zabezpieczenia jest obowiązana do ponoszenia opłat za dostawy do tego mieszkania energii, gazu, wody oraz odbiór ścieków, odpadów i nieczystości ciekłych oraz czynsz lub koszty bieżącego zarządzania nieruchomością, chyba że względem niej osoba stosująca przemoc w rodzinie jest obowiązana do świadczeń alimentacyjnych.
+- **3)** postanowienia sądu o zobowiązaniu osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazaniu zbliżania się do mieszkania i jego bezpośredniego otoczenia, w tym również o udzieleniu zabezpieczenia – jest obowiązana do ponoszenia opłat za dostawy do tego mieszkania energii, gazu, wody oraz odbiór ścieków, odpadów i nieczystości ciekłych oraz czynsz lub koszty bieżącego zarządzania nieruchomością, chyba że względem niej osoba stosująca przemoc w rodzinie jest obowiązana do świadczeń alimentacyjnych.
 
 4. Przepisy ust. 1–3 stosuje się do każdego lokalu służącego zaspokajaniu bieżących potrzeb mieszkaniowych. ” ;
 
@@ -474,5 +475,5 @@ source: "eli-html"
 
 **Art. 8.** Do spraw, o których mowa w art. 11a ust. 1 ustawy zmienianej w art. 7, w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288, 462 i 875. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288, 462, 875 i 956.
 

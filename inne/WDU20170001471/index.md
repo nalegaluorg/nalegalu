@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-01 |
-| Wejście w życie | 2017-08-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001471) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1471/text.pdf) |
 
@@ -33,7 +32,7 @@ Dokumentami potwierdzającymi uprawnienie do ulgi w opłacie za wstęp do muzeó
 1)
 legitymacja szkolna, słuchacza, studencka, doktoranta;
 2)
-legitymacja ucznia wydana przez konsula Rzeczypospolitej Polskiej na podstawie art. 6 ust. 3 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2012 r. poz. 1138, z późn. zm.);
+legitymacja ucznia wydana przez konsula Rzeczypospolitej Polskiej na podstawie art. 6 ust. 3 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2012 r. poz. 1138, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1421 i 1650, z 2014 r. poz. 1863, z 2016 r. poz. 1948 oraz z 2017 r. poz. 60 i 132.);
 3)
 legitymacja nauczyciela wydana przez konsula Rzeczypospolitej Polskiej na podstawie art. 6 ust. 3 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego;
 4)
@@ -67,5 +66,5 @@ Karta Polaka;
 5)
 dokument potwierdzający wiek.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 10 czerwca 2008 r. w sprawie określenia grup osób, którym przysługuje ulga w opłacie lub zwolnienie z opłaty za wstęp do muzeów państwowych, oraz rodzajów dokumentów potwierdzających ich uprawnienia (Dz. U. poz. 994), które utraciło moc z dniem 21 kwietnia 2017 r. w związku z wejściem w życie ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 132). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1421 i 1650, z 2014 r. poz. 1863, z 2016 r. poz. 1948 oraz z 2017 r. poz. 60 i 132. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 10 czerwca 2008 r. w sprawie określenia grup osób, którym przysługuje ulga w opłacie lub zwolnienie z opłaty za wstęp do muzeów państwowych, oraz rodzajów dokumentów potwierdzających ich uprawnienia (Dz. U. poz. 994), które utraciło moc z dniem 21 kwietnia 2017 r. w związku z wejściem w życie ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 132).
 

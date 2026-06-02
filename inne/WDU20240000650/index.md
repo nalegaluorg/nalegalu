@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 16 kwietnia 2024 r. zmieniające rozporządzenie w sprawie warunków pobierania krwi od kandydatów na dawców krwi i dawców krwi
+# Rozporządzenie Ministra Zdrowiaz dnia 16 kwietnia 2024 r. zmieniające rozporządzenie w sprawie warunków pobierania krwi od kandydatów na dawców krwi i dawców krwi Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,60 +22,48 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-16 |
 | Data wydania | 2024-04-26 |
-| Wejście w życie | 2024-05-11 |
 | Ostatnia zmiana | 2025-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/650/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Dopuszczalna ilość oddawanej krwi i jej składników oraz częstotliwość ich oddawania
 Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża:
 Na podstawie art. 16 ust. 7 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 281) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 11 września 2017 r. w sprawie warunków pobierania krwi od kandydatów na dawców krwi i dawców krwi (Dz. U. z 2022 r. poz. 1279) wprowadza się następujące zmiany:
 1)
 w § 3:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-O spełnianiu przez kandydata na dawcę krwi lub dawcę krwi wymagań zdrowotnych, o których mowa w § 2 ust. 1, orzeka się po przeprowadzeniu czynności wymienionych w art. 15 ust. 1 pkt 3 ustawy.
-” ,
+O spełnianiu przez kandydata na dawcę krwi lub dawcę krwi wymagań zdrowotnych, o których mowa w § 2 ust. 1, orzeka się po przeprowadzeniu czynności wymienionych w art. 15 ust. 1 pkt 3 ustawy. ” ,
 b)
-w ust. 4 pkt 4 otrzymuje brzmienie:
-„
+w ust. 4 pkt 4 otrzymuje brzmienie: „
 4)
-określenie stanu skóry, w tym w okolicach miejsca wkłucia do żyły.
-” ;
+określenie stanu skóry, w tym w okolicach miejsca wkłucia do żyły. ” ;
 2)
 w § 4:
 a)
-ust. 7 otrzymuje brzmienie:
-„
+ust. 7 otrzymuje brzmienie: „
 7.
-U dawców krwi oddających regularnie osocze oznacza się dodatkowo stężenie białka całkowitego i skład procentowy białek lub wskaźnik albuminowo-globulinowy, lub IgG co najmniej raz na 12 miesięcy albo co 26 donacji osocza w zależności, które z tych zdarzeń nastąpi jako pierwsze.
-” ,
+U dawców krwi oddających regularnie osocze oznacza się dodatkowo stężenie białka całkowitego i skład procentowy białek lub wskaźnik albuminowo-globulinowy, lub IgG co najmniej raz na 12 miesięcy albo co 26 donacji osocza w zależności, które z tych zdarzeń nastąpi jako pierwsze. ” ,
 b)
-dodaje się ust. 8:
-„
+dodaje się ust. 8: „
 8.
-U kandydata na dawcę krwi lub dawcy krwi zgłaszającego się na oddanie krwi lub jej składników po raz pierwszy po oddaniu komórek krwiotwórczych z krwi obwodowej lub ze szpiku kostnego lub limfocytów dla biorcy jego komórek krwiotwórczych wykonuje się pełną morfologię krwi.
-” ;
+U kandydata na dawcę krwi lub dawcy krwi zgłaszającego się na oddanie krwi lub jej składników po raz pierwszy po oddaniu komórek krwiotwórczych z krwi obwodowej lub ze szpiku kostnego lub limfocytów dla biorcy jego komórek krwiotwórczych wykonuje się pełną morfologię krwi. ” ;
 3)
 w § 5:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Orzeczenie, o którym mowa w § 3 ust. 1, o stanie zdrowia kandydata na dawcę krwi lub dawcy krwi zawiera określenie „kwalifikuje się do pobrania krwi” albo „nie kwalifikuje się do pobrania krwi”.
-” ,
+Orzeczenie, o którym mowa w § 3 ust. 1, o stanie zdrowia kandydata na dawcę krwi lub dawcy krwi zawiera określenie „kwalifikuje się do pobrania krwi” albo „nie kwalifikuje się do pobrania krwi”. ” ,
 b)
 w ust. 6 w pkt 2 wyraz „lekarz” zastępuje się wyrazami „osoba kwalifikująca”;
 4)
-w załączniku nr 1 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu:
-„
+w załączniku nr 1 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „
 17)
-konieczności stosowania diety bogatej w żelazo, a w przypadku dawców krwi pełnej lub krwinek czerwonych metodą aferezy, oddających krew pełną lub krwinki czerwone metodą aferezy częściej niż 3 razy w roku – zalecanej suplementacji żelaza.
-” ;
+konieczności stosowania diety bogatej w żelazo, a w przypadku dawców krwi pełnej lub krwinek czerwonych metodą aferezy, oddających krew pełną lub krwinki czerwone metodą aferezy częściej niż 3 razy w roku – zalecanej suplementacji żelaza. ” ;
 5)
 w załączniku nr 2:
 a)
@@ -83,26 +71,44 @@ w pkt 1.1. „Wiek i badanie przedmiotowe” w lp. 3 kolumna 3 „Szczegółowy 
 b)
 pkt 1.5. otrzymuje brzmienie:
 1.5.
-Wartość referencyjna leukocytów: 4–10 x 109/l (± 10%).
-” ,
+Wartość referencyjna leukocytów: 4–10 x 109/l (± 10%). ” ,
 c)
 w pkt 2.1. „Kryteria dyskwalifikacji stałej dla kandydatów na dawców krwi lub dawców krwi allogenicznej oraz przeciwwskazania do jej pobrania”:
-– w lp. 4 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ Padaczka, inne napady drgawkowe: – kiedykolwiek rozpoznana padaczka, – napady drgawkowe – poza drgawkami wieku dziecięcego lub sytuacją, w której co najmniej przez 3 lata po zakończeniu leczenia nie obserwuje się nawrotu drgawek ” ,
+w lp. 4 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ Padaczka, inne napady drgawkowe:
+– kiedykolwiek rozpoznana padaczka,
+– napady drgawkowe – poza drgawkami wieku dziecięcego lub sytuacją, w której co najmniej przez 3 lata po zakończeniu leczenia nie obserwuje się nawrotu drgawek
+” ,
 – w lp. 5–12 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ poważna choroba: aktywna, przewlekła lub nawracająca ” ,
-– lp. 13 otrzymuje brzmienie: 13 Cukrzyca leczona insuliną kandydaci na dawców krwi lub dawcy krwi z rozpoznaną cukrzycą leczoną insuliną
+lp. 13 otrzymuje brzmienie:
+13 Cukrzyca leczona insuliną kandydaci na dawców krwi lub dawcy krwi z rozpoznaną cukrzycą leczoną insuliną
 – w lp. 15 w kolumnie 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” uchyla się pkt 3,
 – w lp. 20 kolumna 2 „Kryterium/przeciwwskazanie” otrzymuje brzmienie: „ Poważne zaburzenia psychiczne, które mogą zwiększyć ryzyko wystąpienia niepożądanych reakcji u dawcy lub biorcy ” ,
-– lp. 22 otrzymuje brzmienie: 22 Wstrząs anafilaktyczny każdy przypadek przebycia wstrząsu anafilaktycznego
+lp. 22 otrzymuje brzmienie:
+22 Wstrząs anafilaktyczny każdy przypadek przebycia wstrząsu anafilaktycznego
 d)
 w pkt 2.2.1. „Choroby zakaźne – czas trwania dyskwalifikacji”:
 – w lp. 8 kolumna 2 „Kryterium/przeciwwskazanie” otrzymuje brzmienie: „ Zapalenie kości i szpiku ” ,
-– lp. 9 otrzymuje brzmienie: 9 Malaria: 1) Kandydaci na dawców krwi lub dawcy krwi urodzeni lub zamieszkujący nieprzerwanie przez co najmniej 6 miesięcy na terenie endemicznego występowania malarii lub którzy otrzymali transfuzję na obszarze endemicznego występowania malarii – 3 lata po dniu powrotu z ostatniego pobytu na terenie endemicznym lub- 4 miesiące po dniu powrotu z ostatniego pobytu na terenie endemicznym, jeżeli wyniki badania testem immunoenzymatycznym są negatywne i osoby te nie wykazywały i nie wykazują objawów; jeżeli wynik testu immunoenzymatycznego jest pozytywny – dyskwalifikacja na 3 lata, po tym czasie pobranie krwi jest możliwe, jeżeli wynik badania będzie negatywny 2) kandydaci na dawców krwi lub dawcy krwi, którzy przebyli malarię – na czas występowania objawów i leczenia oraz 3 lata po dniu ustąpienia objawów i zakończenia leczenia; pobranie krwi jest po tym czasie możliwe tylko, jeżeli wyniki badania testem immunoenzymatycznym będą negatywne 3) kandydaci na dawców krwi lub dawcy krwi, którzy powracają z terenów endemicznego występowania malarii bez objawów choroby po pobycie krótszym niż 6 miesięcy – 6 miesięcy od dnia opuszczenia terenów endemicznego występowania malarii lub- 4 miesiące od dnia opuszczenia terenów endemicznego występowania malarii, jeżeli wyniki badania testem immunoenzymatycznym są negatywne; jeżeli wynik jest pozytywny – dyskwalifikacja na 3 lata, po tym czasie pobranie krwi jest możliwe, jeżeli wynik badania będzie negatywny 4) kandydaci na dawców krwi lub dawcy krwi, u których w czasie pobytu na obszarach endemicznego występowania malarii lub w ciągu 6 miesięcy po powrocie występowała gorączka o niejasnym pochodzeniu – 3 lata po dniu ustąpienia objawów lub- 4 miesiące po dniu ustąpienia objawów, jeżeli wyniki badania testem immunoenzymatycznym są negatywne; jeżeli wynik jest pozytywny – dyskwalifikacja na 3 lata, po tym czasie pobranie krwi jest możliwe, jeżeli wynik badania będzie negatywny
-– w lp. 11 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ – okres choroby oraz 4 miesiące od dnia zakończenia leczenia, – 4 miesiące od dnia ostatniego kontaktu seksualnego z osobą zakażoną rzeżączką ” ,
-– w lp. 13 w kolumnie 2 „Kryterium/przeciwwskazanie” pkt 2 otrzymuje brzmienie: „ 2) kandydaci na dawców krwi lub dawcy krwi zgłaszający kontakty seksualne z osobami, u których stwierdzono zakażenie wirusem Zika ” ,
-– dodaje się lp. 14 w brzmieniu: 14 Żółtaczka i zapalenie wątroby Kandydaci na dawców krwi lub dawcy krwi z przebytą żółtaczką o nieznanej etiologii lub zapaleniem wątroby (po wykluczeniu zapalenia wątroby typu B i typu C) mogą oddać krew pod warunkiem upływu minimum 6 miesięcy od zakończenia leczenia lub wyzdrowienia oraz uzyskania negatywnych wyników badań przeglądowych obowiązkowych w kierunku HCV i HBV
+lp. 9 otrzymuje brzmienie:
+9 Malaria: 1) Kandydaci na dawców krwi lub dawcy krwi urodzeni lub zamieszkujący nieprzerwanie przez co najmniej 6 miesięcy na terenie endemicznego występowania malarii lub którzy otrzymali transfuzję na obszarze endemicznego występowania malarii – 3 lata po dniu powrotu z ostatniego pobytu na terenie endemicznym lub
+4 miesiące po dniu powrotu z ostatniego pobytu na terenie endemicznym, jeżeli wyniki badania testem immunoenzymatycznym są negatywne i osoby te nie wykazywały i nie wykazują objawów; jeżeli wynik testu immunoenzymatycznego jest pozytywny – dyskwalifikacja na 3 lata, po tym czasie pobranie krwi jest możliwe, jeżeli wynik badania będzie negatywny 2) kandydaci na dawców krwi lub dawcy krwi, którzy przebyli malarię – na czas występowania objawów i leczenia oraz 3 lata po dniu ustąpienia objawów i zakończenia leczenia; pobranie krwi jest po tym czasie możliwe tylko, jeżeli wyniki badania testem immunoenzymatycznym będą negatywne 3) kandydaci na dawców krwi lub dawcy krwi, którzy powracają z terenów endemicznego występowania malarii bez objawów choroby po pobycie krótszym niż 6 miesięcy – 6 miesięcy od dnia opuszczenia terenów endemicznego występowania malarii lub
+4 miesiące od dnia opuszczenia terenów endemicznego występowania malarii, jeżeli wyniki badania testem immunoenzymatycznym są negatywne; jeżeli wynik jest pozytywny – dyskwalifikacja na 3 lata, po tym czasie pobranie krwi jest możliwe, jeżeli wynik badania będzie negatywny 4) kandydaci na dawców krwi lub dawcy krwi, u których w czasie pobytu na obszarach endemicznego występowania malarii lub w ciągu 6 miesięcy po powrocie występowała gorączka o niejasnym pochodzeniu – 3 lata po dniu ustąpienia objawów lub
+4 miesiące po dniu ustąpienia objawów, jeżeli wyniki badania testem immunoenzymatycznym są negatywne; jeżeli wynik jest pozytywny – dyskwalifikacja na 3 lata, po tym czasie pobranie krwi jest możliwe, jeżeli wynik badania będzie negatywny
+w lp. 11 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „
+– okres choroby oraz 4 miesiące od dnia zakończenia leczenia,
+– 4 miesiące od dnia ostatniego kontaktu seksualnego z osobą zakażoną rzeżączką
+” ,
+w lp. 13 w kolumnie 2 „Kryterium/przeciwwskazanie” pkt 2 otrzymuje brzmienie: „
+2)
+kandydaci na dawców krwi lub dawcy krwi zgłaszający kontakty seksualne z osobami, u których stwierdzono zakażenie wirusem Zika ” ,
+dodaje się lp. 14 w brzmieniu:
+14 Żółtaczka i zapalenie wątroby Kandydaci na dawców krwi lub dawcy krwi z przebytą żółtaczką o nieznanej etiologii lub zapaleniem wątroby (po wykluczeniu zapalenia wątroby typu B i typu C) mogą oddać krew pod warunkiem upływu minimum 6 miesięcy od zakończenia leczenia lub wyzdrowienia oraz uzyskania negatywnych wyników badań przeglądowych obowiązkowych w kierunku HCV i HBV
 e)
 w pkt 2.2.2. „Narażenie na niebezpieczeństwo zakażenia chorobami przenoszonymi drogą przetoczenia krwi”:
-– w lp. 1: – – w kolumnie 2 „Kryterium/przeciwwskazanie” pkt 7 otrzymuje brzmienie: „ 7) akupunktura, o ile nie została wykonana przez wykwalifikowaną osobę przy użyciu jałowych jednorazowych igieł; ” , – – kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ 4 miesiące ” ,
+w lp. 1:
+– w kolumnie 2 „Kryterium/przeciwwskazanie” pkt 7 otrzymuje brzmienie: „
+7)
+akupunktura, o ile nie została wykonana przez wykwalifikowaną osobę przy użyciu jałowych jednorazowych igieł; ” ,
+– – kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ 4 miesiące ” ,
 – w lp. 2 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ 4 miesiące ” ,
 – w lp. 3 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ Po zaprzestaniu ryzykownych zachowań, które mogą zwiększyć ryzyko wystąpienia niepożądanych reakcji u dawcy lub biorcy, w tym przeniesienia drogą przetoczenia krwi czynników chorobotwórczych, dyskwalifikacja na okres zależny od rodzaju choroby i od dostępności odpowiednich testów. Osoby utrzymujące kontakty seksualne z partnerami, u których testy w kierunku AIDS (HIV) wypadły dodatnio – 4 miesiące po zaprzestaniu kontaktów ” ,
 – w lp. 4 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ Okres przymusowego pozbawienia wolności i 4 miesiące po dniu zakończenia przymusowego pozbawienia wolności ” ,
@@ -114,9 +120,14 @@ w pkt 2.2.3. „Szczepienia”:
 g)
 w pkt 2.2.4. „Inne przyczyny dyskwalifikacji czasowej oraz przeciwwskazania do pobrania krwi”:
 – uchyla się lp. 2,
-– w lp. 4 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ Leczenie stomatologiczne lub wizyta u higienistki stomatologicznej: – ekstrakcja zęba, leczenie kanałowe – 7 dni od zabiegu, – wszczepienie implantu i inne zabiegi chirurgiczne – 4 miesiące od dnia zabiegu, – pozostałe przypadki – 24 godziny od zakończenia leczenia lub wizyty ” ,
+w lp. 4 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ Leczenie stomatologiczne lub wizyta u higienistki stomatologicznej:
+– ekstrakcja zęba, leczenie kanałowe – 7 dni od zabiegu,
+– wszczepienie implantu i inne zabiegi chirurgiczne – 4 miesiące od dnia zabiegu,
+– pozostałe przypadki – 24 godziny od zakończenia leczenia lub wizyty
+” ,
 – w lp. 13 kolumna 3 „Szczegółowy opis kryterium/przeciwwskazania oraz warunki pobierania krwi od kandydata na dawcę krwi lub dawcy krwi” otrzymuje brzmienie: „ na czas wywoływania tolerancji na alergen; pobranie krwi jest możliwe tylko przy dawkach podtrzymujących 14 dni po dawce lub 14 dni przed następną dawką ” ,
-– dodaje się lp. 15 w brzmieniu: 15 Cukrzyca typu 2 nieleczona insuliną od kandydatów na dawców krwi lub dawców krwi pobiera się tylko krew pełną i tylko jeżeli są leczeni dietą lub metforminą
+dodaje się lp. 15 w brzmieniu:
+15 Cukrzyca typu 2 nieleczona insuliną od kandydatów na dawców krwi lub dawców krwi pobiera się tylko krew pełną i tylko jeżeli są leczeni dietą lub metforminą
 6)
 załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
@@ -125,11 +136,26 @@ Dyskwalifikacje czasowe i stałe orzeczone na podstawie przepisów dotychczasowy
 2.
 Dyskwalifikację stałą orzeczoną na podstawie przepisów dotychczasowych cofa się po przeprowadzeniu kwalifikacji do pobrania krwi lub jej składników, jeżeli dawca krwi spełnia wymagania określane w rozporządzeniu zmienianym w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża:1) dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady z dnia 27 stycznia 2003 r. ustanawiającą normy jakości i bezpiecznego pobierania, badania, preparatyki, przechowywania, wydawania krwi ludzkiej i składników krwi oraz zmieniającą dyrektywę 2001/83/WE (Dz. Urz. UE L 33 z 08.02.2003, str. 30 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 346, Dz. Urz. UE L 230 z 24.08.2006, str. 12, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 98 z 15.04.2015, str. 11);2) dyrektywę Komisji 2004/33/WE z dnia 22 marca 2004 r. wykonującą dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady w zakresie niektórych wymagań technicznych dotyczących krwi i składników krwi (Dz. Urz. UE L 91 z 30.03.2004, str. 25 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 272, Dz. Urz. UE L 288 z 04.11.2009, str. 7, Dz. Urz. UE L 97 z 12.04.2011, str. 28 oraz Dz. Urz. UE L 366 z 20.12.2014, str. 81).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża:
+1) dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady z dnia 27 stycznia 2003 r. ustanawiającą normy jakości i bezpiecznego pobierania, badania, preparatyki, przechowywania, wydawania krwi ludzkiej i składników krwi oraz zmieniającą dyrektywę 2001/83/WE (Dz. Urz. UE L 33 z 08.02.2003, str. 30 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 346, Dz. Urz. UE L 230 z 24.08.2006, str. 12, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 98 z 15.04.2015, str. 11);
+2) dyrektywę Komisji 2004/33/WE z dnia 22 marca 2004 r. wykonującą dyrektywę 2002/98/WE Parlamentu Europejskiego i Rady w zakresie niektórych wymagań technicznych dotyczących krwi i składników krwi (Dz. Urz. UE L 91 z 30.03.2004, str. 25 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 272, Dz. Urz. UE L 288 z 04.11.2009, str. 7, Dz. Urz. UE L 97 z 12.04.2011, str. 28 oraz Dz. Urz. UE L 366 z 20.12.2014, str. 81).
 Załącznik – Dopuszczalna ilość oddawanej krwi i jej składników oraz częstotliwość ich oddawania
 I.
-DOPUSZCZALNE ODSTĘPY MIĘDZY DONACJAMI KRWI I JEJ SKŁADNIKÓW Poprzednia donacja / Obecna donacja – Krew pełna- Pojedyncza erytroafereza- Pojedyncza erytroafereza + plazmafereza- Pojedyncza erytroafereza + trombafereza- Pojedyncza erytroafereza + plazmafereza + trombafereza- Nieudany zwrot krwi przy aferezie Trombafereza Plazmafereza Trombafereza + plazmafereza Podwójna erytroafereza Leukafereza Krew pełna 8 tygodni 48 godzin 48 godzin 48 godzin 24 tygodnie dla kobiet16 tygodni dla mężczyzn 8 tygodni Pojedyncza erytroafereza 8 tygodni 48 godzin 48 godzin 48 godzin 24 tygodnie dla kobiet16 tygodni dla mężczyzn 8 tygodni Pojedyncza erytroafereza + plazmafereza 8 tygodni 48 godzin 2 tygodnie 2 tygodnie 24 tygodnie dla kobiet16 tygodni dla mężczyzn 8 tygodni Pojedyncza erytroafereza + trombafereza 8 tygodni 2 tygodnie 48 godzin 2 tygodnie 24 tygodnie dla kobiet16 tygodni dla mężczyzn 8 tygodni Pojedyncza erytroafereza + plazmafereza + trombafereza 8 tygodni 2 tygodnie 2 tygodnie 2 tygodnie 24 tygodnie dla kobiet16 tygodni dla mężczyzn 8 tygodni Trombafereza 4 tygodnie 2 tygodnie 48 godzin 2 tygodnie 4 tygodnie 4 tygodnie Plazmafereza 4 tygodnie 48 godzin 2 tygodnie 2 tygodnie 4 tygodnie 4 tygodnie Trombafereza + plazmafereza 4 tygodnie 2 tygodnie 2 tygodnie 2 tygodnie 4 tygodnie 4 tygodnie Podwójna erytroafereza 12 tygodni 48 godzin 48 godzin 48 godzin 24 tygodnie dla kobiet16 tygodni dla mężczyzn 12 tygodni Leukafereza 4 tygodnie 2 tygodnie 48 godzin 2 tygodnie 24 tygodnie dla kobiet16 tygodni dla mężczyzn 8 tygodni Przy obliczaniu terminów wskazanych w tabeli uwzględnia się dzień pobrania krwi lub jej składników.
+DOPUSZCZALNE ODSTĘPY MIĘDZY DONACJAMI KRWI I JEJ SKŁADNIKÓW
+Poprzednia donacja / Obecna donacja – Krew pełna
+Pojedyncza erytroafereza
+Pojedyncza erytroafereza + plazmafereza
+Pojedyncza erytroafereza + trombafereza
+Pojedyncza erytroafereza + plazmafereza + trombafereza
+Nieudany zwrot krwi przy aferezie Trombafereza Plazmafereza Trombafereza + plazmafereza Podwójna erytroafereza Leukafereza Krew pełna 8 tygodni 48 godzin 48 godzin 48 godzin 24 tygodnie dla kobiet
+16 tygodni dla mężczyzn 8 tygodni Pojedyncza erytroafereza 8 tygodni 48 godzin 48 godzin 48 godzin 24 tygodnie dla kobiet
+16 tygodni dla mężczyzn 8 tygodni Pojedyncza erytroafereza + plazmafereza 8 tygodni 48 godzin 2 tygodnie 2 tygodnie 24 tygodnie dla kobiet
+16 tygodni dla mężczyzn 8 tygodni Pojedyncza erytroafereza + trombafereza 8 tygodni 2 tygodnie 48 godzin 2 tygodnie 24 tygodnie dla kobiet
+16 tygodni dla mężczyzn 8 tygodni Pojedyncza erytroafereza + plazmafereza + trombafereza 8 tygodni 2 tygodnie 2 tygodnie 2 tygodnie 24 tygodnie dla kobiet
+16 tygodni dla mężczyzn 8 tygodni Trombafereza 4 tygodnie 2 tygodnie 48 godzin 2 tygodnie 4 tygodnie 4 tygodnie Plazmafereza 4 tygodnie 48 godzin 2 tygodnie 2 tygodnie 4 tygodnie 4 tygodnie Trombafereza + plazmafereza 4 tygodnie 2 tygodnie 2 tygodnie 2 tygodnie 4 tygodnie 4 tygodnie Podwójna erytroafereza 12 tygodni 48 godzin 48 godzin 48 godzin 24 tygodnie dla kobiet
+16 tygodni dla mężczyzn 12 tygodni Leukafereza 4 tygodnie 2 tygodnie 48 godzin 2 tygodnie 24 tygodnie dla kobiet
+16 tygodni dla mężczyzn 8 tygodni
+Przy obliczaniu terminów wskazanych w tabeli uwzględnia się dzień pobrania krwi lub jej składników.
 II.
 DOPUSZCZALNA ILOŚĆ ODDAWANEJ KRWI I JEJ SKŁADNIKÓW ORAZ SZCZEGÓLNE PRZYPADKI ODSTĘPÓW MIĘDZY DONACJAMI KRWI I JEJ SKŁADNIKÓW
 A.

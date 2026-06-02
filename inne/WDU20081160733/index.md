@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-05-30 |
 | Data wydania | 2008-07-02 |
-| Wejście w życie | 2008-07-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081160733) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/733/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 - **1)** w art. 1 ust. 1 otrzymuje brzmienie: „
 
-1. Właściwi starostowie, w terminie 18 miesięcy od dnia wejścia w życie ustawy, sporządzą i przekażą właściwym wojewodom, marszałkom województw, wójtom, burmistrzom i prezydentom miast wykaz nieruchomości, które na mocy odrębnych przepisów przeszły na własność Skarbu Państwa i stanowią jego własność albo własność jednostek samorządu terytorialnego, a także niestanowiących własności Skarbu Państwa albo własności jednostek samorządu terytorialnego i niepozostających w posiadaniu ich właścicieli, nieruchomości zabudowanych, w których lokale zajmowane są przez osoby objęte przepisami ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.). ” ;
+1. Właściwi starostowie, w terminie 18 miesięcy od dnia wejścia w życie ustawy, sporządzą i przekażą właściwym wojewodom, marszałkom województw, wójtom, burmistrzom i prezydentom miast wykaz nieruchomości, które na mocy odrębnych przepisów przeszły na własność Skarbu Państwa i stanowią jego własność albo własność jednostek samorządu terytorialnego, a także niestanowiących własności Skarbu Państwa albo własności jednostek samorządu terytorialnego i niepozostających w posiadaniu ich właścicieli, nieruchomości zabudowanych, w których lokale zajmowane są przez osoby objęte przepisami ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833 oraz z 2007 r. Nr 128, poz. 902 i Nr 173, poz. 1218.). ” ;
 
 - **2)** w art. 2: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -48,5 +47,5 @@ source: "eli-html"
 - **1)** poinformowania mieszkańców powiatu o potrzebie sprawdzenia zgodności ksiąg wieczystych z rzeczywistym stanem prawnym;
 - **2)** udzielenia pomocy mieszkańcom w zakresie informacji o rodzaju i sposobie działań niezbędnych do uzyskania tytułu prawnego do zajmowanych przez nich nieruchomości i ujawnienia ich praw w księgach wieczystych. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 18 maja 2008 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 18 maja 2008 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833 oraz z 2007 r. Nr 128, poz. 902 i Nr 173, poz. 1218.
 

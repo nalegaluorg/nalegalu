@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 13 grudnia 2017 r. w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej
+# Rozporządzenie Ministra Środowiskaz dnia 13 grudnia 2017 r. w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-13 |
 | Data wydania | 2017-12-20 |
-| Wejście w życie | 2017-12-21 |
 | Ostatnia zmiana | 2024-11-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2386/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Rada nadzorcza Rozdział 3 – Zarząd dwuosobowy Rozdział 4 – Zarząd jednoosobowy Rozdział 5 – Udzielanie pełnomocnictw Rozdział 6 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 400p ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 400p ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowy tryb działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, zwanych dalej „wojewódzkimi funduszami”, oraz sposób udzielania pełnomocnictw.
 § 2.
@@ -122,6 +122,7 @@ Do protokołu dołącza się co najmniej listę obecności osób, o których mow
 Protokoły przechowuje biuro wojewódzkiego funduszu.
 5.
 Członkowie organów wojewódzkiego funduszu mają wgląd w protokoły z posiedzeń.
+Rada nadzorcza
 § 9.
 1.
 Pracami rady nadzorczej kieruje przewodniczący rady nadzorczej.
@@ -177,6 +178,7 @@ Na potrzeby realizacji swoich zadań rada nadzorcza, na wniosek przewodnicząceg
 powoływać zespoły doradcze lub ekspertów, których zadaniem jest sporządzenie opinii w zleconych im sprawach;
 2)
 upoważnić poszczególnych członków rady nadzorczej do przeprowadzenia kontroli działalności zarządu w określonym zakresie.
+Zarząd dwuosobowy
 § 16.
 Członkowie zarządu dwuosobowego wykonują swoje funkcje osobiście. Przepis § 11 ust. 2 stosuje się odpowiednio.
 § 17.
@@ -201,29 +203,43 @@ W posiedzeniach zarządu, na zaproszenie lub za zgodą prezesa zarządu, uczestn
 W posiedzeniach zarządu, w dyskusji nad wskazanym punktem porządku obrad, mogą uczestniczyć, na zaproszenie zarządu albo z własnej inicjatywy – przewodniczący rady nadzorczej lub wyznaczeni przez niego członkowie rady nadzorczej, a na zaproszenie zarządu – pracownicy biura wojewódzkiego funduszu, a także inne osoby, w szczególności eksperci, jeżeli ich udział może przyczynić się do wyjaśnienia sprawy i jest uzasadniony potrzebami zarządu. Prezes zarządu informuje przewodniczącego rady nadzorczej w terminie, o którym mowa w § 3 ust. 1, o zwołaniu posiedzenia zarządu.
 7.
 Przepisy ust. 6 stosuje się odpowiednio do podejmowania uchwał z wykorzystaniem środków bezpośredniego porozumiewania się na odległość.
+Zarząd jednoosobowy
 § 19.
 1.
 Zarząd jednoosobowy działa przez prezesa zarządu, podejmując rozstrzygnięcia w formie pisemnej.
 2.
 Do zarządu jednoosobowego nie stosuje się przepisów § 2–8.
+Udzielanie pełnomocnictw
 § 20.
 1.
 Prezes zarządu udziela pełnomocnictw do dokonywania czynności prawnych w zakresie praw i obowiązków majątkowych wojewódzkiego funduszu i określa zakres tych pełnomocnictw.
 2.
 Udzielenie pełnomocnictwa następuje w formie pisemnej, z zastrzeżeniem art. 99 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132).
+Przepis końcowy
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Rada nadzorcza
+#### Rozdział 2 – Rada nadzorcza
 
-#### Rozdział 3 Zarząd dwuosobowy
+#### Rozdział 3 – Zarząd dwuosobowy
 
-#### Rozdział 4 Zarząd jednoosobowy
+#### Rozdział 4 – Zarząd jednoosobowy
 
-#### Rozdział 5 Udzielanie pełnomocnictw
+#### Rozdział 5 – Udzielanie pełnomocnictw
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

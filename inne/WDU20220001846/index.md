@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego
+# Ustawa z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 września 1981 r. o przedsiębiorstwach państwowych, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 16 grudnia 2005 r. o Funduszu Kolejowym, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego, ustawę z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych, ustawę z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa, ustawę z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, ustawę z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg oraz ustawę z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym oraz uchyla się ustawę z dnia 15 września 2017 r. o przedsiębiorstwie państwowym „Porty Lotnicze”.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-22 |
 | Data wydania | 2022-09-01 |
-| Wejście w życie | 2022-10-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001846) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1846/text.pdf) |
 
+Przekształcenie przedsiębiorstwa państwowego „Porty Lotnicze” w jednoosobową spółkę Skarbu Państwa
+Zmiany w przepisach
+Udostępnienie nieruchomości na cele badań przyrodniczych
 1.
 Inwestor, w celu przeprowadzenia badań przyrodniczych niezbędnych do przygotowania i realizacji Inwestycji, w szczególności do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko, o których mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, może wystąpić do właściwego miejscowo wojewody z wnioskiem o wydanie rozporządzenia o udostępnieniu nieruchomości na cele badań przyrodniczych.
 2.
@@ -63,8 +65,7 @@ Biuletynach Informacji Publicznej i na tablicach ogłoszeń:
 a)
 starostw powiatowych,
 b)
-urzędów gmin
-które w całości lub w części są położone na obszarze objętym rozporządzeniem;
+urzędów gmin – które w całości lub w części są położone na obszarze objętym rozporządzeniem;
 3)
 sposób zwyczajowo przyjęty na danym terenie;
 4)
@@ -74,6 +75,7 @@ Koszty ogłoszeń w prasie, o których mowa w ust. 3 pkt 4, ponosi Inwestor.
 Do egzekucji obowiązków wynikających z rozporządzenia, o którym mowa w art. 31a ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 Szkody wyrządzone w związku z wykonywaniem badań przyrodniczych podlegają naprawieniu na zasadach wynikających z ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 Przepisów niniejszego rozdziału nie stosuje się do obszaru objętego rozporządzeniem, o którym mowa w art. 28 ust. 1.
+Udostępnienie nieruchomości na cele badań i pomiarów
 1.
 Jeżeli do przeprowadzenia badań i pomiarów niezbędnych do przygotowania i realizacji Inwestycji, w szczególności:
 1)
@@ -83,8 +85,7 @@ badań konserwatorskich,
 3)
 prac geologicznych,
 4)
-ustalania geotechnicznych warunków posadawiania obiektów budowlanych bez wykonywania robót geologicznych
-konieczne jest udostępnienie nieruchomości, a jej właściciel lub użytkownik wieczysty odmówił jej udostępnienia, Inwestor może wystąpić z wnioskiem do właściwego miejscowo wojewody o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów. Decyzja o udostępnieniu nieruchomości na cele badań i pomiarów może być także wydana w celu zapewnienia dojazdu umożliwiającego wykonanie badań i pomiarów.
+ustalania geotechnicznych warunków posadawiania obiektów budowlanych bez wykonywania robót geologicznych – konieczne jest udostępnienie nieruchomości, a jej właściciel lub użytkownik wieczysty odmówił jej udostępnienia, Inwestor może wystąpić z wnioskiem do właściwego miejscowo wojewody o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów. Decyzja o udostępnieniu nieruchomości na cele badań i pomiarów może być także wydana w celu zapewnienia dojazdu umożliwiającego wykonanie badań i pomiarów.
 2.
 Przed złożeniem wniosku o wydanie decyzji, o której mowa w ust. 1, Inwestor jest obowiązany wystąpić do właściciela lub użytkownika wieczystego nieruchomości o zgodę na udostępnienie tej nieruchomości, określając przewidywany sposób, zakres i terminy korzystania z nieruchomości.
 3.
@@ -172,8 +173,7 @@ przekazanie akt i odpowiedzi na skargę następuje w terminie 15 dni od dnia wni
 2)
 skargę rozpoznaje się w terminie 30 dni od dnia jej wpłynięcia do sądu.
 2.
-Termin rozpoznania skargi kasacyjnej wynosi 2 miesiące od dnia jej wniesienia.
-” ;
+Termin rozpoznania skargi kasacyjnej wynosi 2 miesiące od dnia jej wniesienia. ” ;
 22)
 w dziale III uchyla się rozdział 2;
 23)
@@ -183,8 +183,11 @@ w ust. 2 wyrazy „lotniczych urządzeń naziemnych” zastępuje się wyrazem �
 b)
 w ust. 3 wyraz „inwestycji” zastępuje się wyrazem „Inwestycji”;
 24)
-po art. 38 dodaje się art. 38a w brzmieniu:
-„
+po art. 38 dodaje się art. 38a w brzmieniu: „
+Decyzja o środowiskowych uwarunkowaniach dla Inwestycji
+Przygotowanie i realizacja Inwestycji Towarzyszących
+Zasady ogólne
+Szczególne zasady zmiany sposobu zagospodarowania terenu na obszarach Inwestycji Towarzyszących
 W przypadku złożenia przez Inwestora wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej prowadzone postępowania o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, które dotyczą chociażby w części nieruchomości objętej którymkolwiek z wariantów zawartych we wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, zawiesza się do czasu wydania prawomocnej decyzji o środowiskowych uwarunkowaniach lub decyzji o umorzeniu postępowania.
 1.
 W przypadku wydania, na podstawie wniosku Inwestora, przez organ pierwszej instancji decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej:
@@ -231,8 +234,7 @@ Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwar
 1)
 wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, bez załączników, o których mowa w art. 74 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, i z wyłączeniem mapy, o której mowa w art. 74 ust. 1 pkt 3a tej ustawy,
 2)
-decyzji kończącej postępowanie w przedmiocie środowiskowych uwarunkowań
-właściwym wójtom, burmistrzom, prezydentom miast, zarządowi województwa i wojewodzie.
+decyzji kończącej postępowanie w przedmiocie środowiskowych uwarunkowań – właściwym wójtom, burmistrzom, prezydentom miast, zarządowi województwa i wojewodzie.
 15.
 Przepis ust. 14 pkt 1 stosuje się odpowiednio przy zmianie wniosku o wydanie decyzji o środowiskowych uwarunkowaniach.
 W przypadku złożenia przez Inwestora wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej, lub wydania takiej decyzji nie uchwala się:
@@ -257,8 +259,7 @@ uchwały w sprawie ustanowienia pomnika przyrody, stanowiska dokumentacyjnego, u
 10)
 statutu uzdrowiska,
 11)
-zarządzenia regionalnego dyrektora ochrony środowiska w sprawie rezerwatów przyrody
-których ustalenia są sprzeczne z lokalizacją inwestycji określoną we wniosku, w zakresie wariantu preferowanego przez inwestora, lub decyzji.
+zarządzenia regionalnego dyrektora ochrony środowiska w sprawie rezerwatów przyrody – których ustalenia są sprzeczne z lokalizacją inwestycji określoną we wniosku, w zakresie wariantu preferowanego przez inwestora, lub decyzji.
 1.
 Spółka Celowa doręcza kopię:
 1)
@@ -266,18 +267,17 @@ wniosku Inwestora o wydanie decyzji o środowiskowych uwarunkowaniach, o której
 2)
 decyzji o umorzeniu postępowania w sprawie wydania decyzji o środowiskowych uwarunkowaniach oraz
 3)
-decyzji o środowiskowych uwarunkowaniach
-właściwym wójtom, burmistrzom, prezydentom miast oraz zarządowi województwa.
+decyzji o środowiskowych uwarunkowaniach – właściwym wójtom, burmistrzom, prezydentom miast oraz zarządowi województwa.
 2.
 Przepis ust. 1 pkt 1 stosuje się odpowiednio przy zmianie wniosku o wydanie decyzji o środowiskowych uwarunkowaniach.
 Przepisów art. 120a-120c nie stosuje się do terenów objętych aktami wydanymi na podstawie art. 28 ust. 1 lub art. 120.
+Szczególne zasady realizacji Inwestycji Towarzyszących
 1.
 Ilekroć w przepisach:
 1)
 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych jest mowa o strategicznej inwestycji w zakresie sieci przesyłowej, należy przez to rozumieć również inne inwestycje wymienione w art. 119 ust. 1 pkt 3,
 2)
-ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym jest mowa o strategicznej inwestycji w sektorze naftowym, należy przez to rozumieć również inne inwestycje wymienione w art. 119 ust. 1 pkt 6
-o ile stanowią Inwestycje Towarzyszące w rozumieniu niniejszej ustawy.
+ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym jest mowa o strategicznej inwestycji w sektorze naftowym, należy przez to rozumieć również inne inwestycje wymienione w art. 119 ust. 1 pkt 6 – o ile stanowią Inwestycje Towarzyszące w rozumieniu niniejszej ustawy.
 2.
 Rada Ministrów może, w drodze rozporządzenia, ustanowić inwestorami Inwestycji Towarzyszących inne podmioty niż inwestorzy wskazani w ustawach, o których mowa w ust. 1, uwzględniając potencjał i doświadczenie danego podmiotu w realizacji inwestycji tego typu oraz region, na którego obszarze dany podmiot prowadzi przeważającą działalność.
 3.
@@ -291,8 +291,7 @@ wycince drzew i krzewów, wykonaniu kompensacji przyrodniczej,
 2)
 przeprowadzeniu badań archeologicznych, hydrogeologicznych, prac geologicznych lub określeniu geotechnicznych warunków posadowienia obiektu, lub wykonaniu innych czynności niezbędnych do sporządzenia dokumentacji technicznej bezpośrednio związanej z Inwestycją Towarzyszącą,
 3)
-przeprowadzeniu pomiarów, badań lub innych prac niezbędnych do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko
-Inwestor Inwestycji Towarzyszącej występuje do właściciela lub użytkownika wieczystego nieruchomości o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia z nim przewidywany sposób, zakres i termin korzystania z nieruchomości.
+przeprowadzeniu pomiarów, badań lub innych prac niezbędnych do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko – Inwestor Inwestycji Towarzyszącej występuje do właściciela lub użytkownika wieczystego nieruchomości o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia z nim przewidywany sposób, zakres i termin korzystania z nieruchomości.
 2.
 W przypadku gdy czynności, o których mowa w ust. 1, wymagają wejścia na teren nieruchomości stanowiących teren zamknięty lub objętych obszarem kolejowym, Inwestor Inwestycji Towarzyszącej występuje odpowiednio do organu, który wydał decyzję o zamknięciu terenu, zarządcy infrastruktury kolejowej lub innego podmiotu zarządzającego obszarem kolejowym o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia przewidywany sposób, zakres i termin korzystania z nieruchomości.
 3.
@@ -357,6 +356,7 @@ Do czynności prawnych, o których mowa w ust. 2, nie stosuje się art. 38–41 
 Czynności prawne dokonane z naruszeniem ust. 2 są nieważne.
 7.
 Zgoda, o której mowa w ust. 2, lub odmowa zgody wyrażana jest w drodze decyzji administracyjnej.
+Plan rezerwacji terenu dla Inwestycji Towarzyszących
 1.
 W celu zabezpieczenia prawidłowego przygotowania i realizacji Inwestycji Towarzyszącej, na wniosek Inwestora tej inwestycji, dokonuje się rezerwacji obszaru realizacji takiej inwestycji wskazanego w decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, wydanej na podstawie wniosku Inwestora przez organ pierwszej instancji.
 2.
@@ -370,7 +370,7 @@ obszary oddziaływania akustycznego;
 2)
 obszary oddziaływania elektromagnetycznego;
 3)
-tereny, na których zgodnie z przepisami art. 73 ust. 4 i 5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.) nie mogą być lokalizowane zakłady stwarzające zagrożenie wystąpienia poważnej awarii przemysłowej, wielorodzinne budynki mieszkalne, obiekty użyteczności publicznej, budynki zamieszkania zbiorowego, drogi krajowe oraz linie kolejowe o znaczeniu państwowym;
+tereny, na których zgodnie z przepisami art. 73 ust. 4 i 5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504, 1576 i 1747.) nie mogą być lokalizowane zakłady stwarzające zagrożenie wystąpienia poważnej awarii przemysłowej, wielorodzinne budynki mieszkalne, obiekty użyteczności publicznej, budynki zamieszkania zbiorowego, drogi krajowe oraz linie kolejowe o znaczeniu państwowym;
 4)
 tereny leżące w odległości, o której mowa w art. 11 pkt 5 lit. n i o ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
 5.
@@ -426,8 +426,7 @@ W przypadku gdy po doręczeniu zawiadomienia, o którym mowa w ust. 12, nastąpi
 1)
 zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej w całości lub w części wnioskiem o wydanie decyzji dotyczącej lokalizacji, lokalizacji i realizacji lub realizacji Inwestycji Towarzyszącej wydawanej w oparciu o decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1,
 2)
-przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji, o której mowa w pkt 1
-nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego.
+przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji, o której mowa w pkt 1 – nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego.
 16.
 Niedokonanie zgłoszenia zgodnie z ust. 15 i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
 17.
@@ -630,8 +629,7 @@ zapewnienia telekomunikacji,
 5)
 odbudowie,
 6)
-budowie mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii
-niezmieniającą kolorystyki obiektu budowlanego oraz – w przypadku budynków – niezwiększającą powierzchni zabudowy o więcej niż 5%.
+budowie mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – niezmieniającą kolorystyki obiektu budowlanego oraz – w przypadku budynków – niezwiększającą powierzchni zabudowy o więcej niż 5%.
 1.
 Właścicielowi nieruchomości, która w całości lub w części znajduje się w granicach określonego w planie rezerwacji obszaru lokalizacji Inwestycji Towarzyszącej, przysługuje roszczenie do wnioskodawcy wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, o wykupienie takiej nieruchomości lub jej części.
 2.
@@ -651,11 +649,10 @@ W przypadku realizacji inwestycji innej niż Inwestycja Towarzysząca, która w 
 Przepis ust. 1 stosuje się również w sytuacji, gdy zapewnienie ochrony przed hałasem wymaga budowy ekranów akustycznych lub realizacji innych robót budowlanych w obrębie pasa drogowego lub linii kolejowej.
 3.
 Szczegółowe warunki prowadzenia robót budowlanych, o których mowa w ust. 2, określa umowa między Inwestorem Inwestycji Towarzyszącej a inwestorem inwestycji niebędącej Inwestycją Towarzyszącą.
-Przepisy art. 120n-120zb dotyczące właściciela nieruchomości stosuje się także do użytkownika wieczystego nieruchomości.
-” ;
+Przepisy art. 120n-120zb dotyczące właściciela nieruchomości stosuje się także do użytkownika wieczystego nieruchomości. ” ;
 59)
-po dziale IV dodaje się działy IVa-IVc w brzmieniu:
-„
+po dziale IV dodaje się działy IVa-IVc w brzmieniu: „
+Planowanie przestrzenne obszaru lokalizacji Inwestycji
 1.
 W przypadku gdy z planu generalnego lotniska wynika etapowy charakter budowy Inwestycji, w odniesieniu do zakresu Inwestycji, który nie został objęty wnioskiem o wydanie decyzji o środowiskowych uwarunkowaniach lub wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji CPK, wojewoda, na wniosek Pełnomocnika, przyjmuje w drodze zarządzenia plan miejscowy Centralnego Portu Komunikacyjnego, zwany dalej „planem miejscowym CPK”.
 2.
@@ -676,6 +673,7 @@ Właścicielowi albo użytkownikowi wieczystemu nieruchomości przysługuje wył
 W okresie objęcia nieruchomości ustaleniami planu miejscowego CPK przepisu art. 137 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się. Roszczenie, o którym mowa w art. 136 ust. 3 tej ustawy, powstaje z dniem utraty mocy obowiązującej planu miejscowego CPK w odniesieniu do nieruchomości.
 10.
 Wojewoda co 5 lat dokonuje analizy aktualności planu miejscowego CPK, w szczególności z ustaleniami planu generalnego lotniska, stwierdzając, w drodze zarządzenia, aktualność albo wszczynając postępowanie w przedmiocie zmiany bądź uchylenia planu miejscowego CPK.
+Zarządzanie rozwojem obszaru otoczenia Centralnego Portu Komunikacyjnego
 1.
 Przepisy niniejszego działu stosuje się do zarządzania rozwojem obszaru otoczenia CPK.
 2.
@@ -797,6 +795,7 @@ Pełnomocnik koordynuje monitoring oraz ewaluację realizacji strategii.
 W zakresie nieuregulowanym niniejszym działem do zarządzania rozwojem obszaru otoczenia CPK stosuje się przepisy ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
 2.
 Do zmiany strategii stosuje się odpowiednio przepisy niniejszego działu.
+Zorganizowana relokacja
 1.
 Przepisy niniejszego działu stosuje się do realizacji projektów zorganizowanej relokacji miejscowości albo ich części w związku z nabywaniem nieruchomości na cele realizacji zadań określonych w ustawie, zwanych dalej „projektami relokacji”.
 2.
@@ -896,11 +895,10 @@ Niewydanie opinii, o których mowa w ust. 1, w terminie 21 dni od dnia doręczen
 Do wniosku o wydanie opinii, o których mowa w ust. 1, załącza się projekt planu miejscowego projektu relokacji wraz z prognozą oddziaływania na środowisko.
 4.
 Opinie wydawane w postępowaniu w przedmiocie uchwalenia planu miejscowego projektu relokacji zastępują wymagane przepisami prawa rozstrzygnięcia, w szczególności uzgodnienia i decyzje administracyjne.
-Do uchwalania planu miejscowego projektu relokacji oraz do gruntów rolnych i leśnych objętych tym planem nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych oraz ustawy z dnia 28 września 1991 r. o lasach.
-” ;
+Do uchwalania planu miejscowego projektu relokacji oraz do gruntów rolnych i leśnych objętych tym planem nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych oraz ustawy z dnia 28 września 1991 r. o lasach. ” ;
 60)
-po art. 128 dodaje się art. 128a w brzmieniu:
-„
+po art. 128 dodaje się art. 128a w brzmieniu: „
+Przepisy przejściowe, dostosowujące i końcowe
 1.
 Do dnia przekształcenia, o którym mowa w art. 8 ust. 2 niniejszej ustawy, art. 4 ust. 1 pkt 2 ustawy zmienianej w art. 13 stosuje się w brzmieniu dotychczasowym.
 2.
@@ -908,7 +906,13 @@ Do dnia przekształcenia, o którym mowa w art. 8 ust. 2, do roszczeń majątkow
 3.
 W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości PPL albo Spółki, ujawnionych przed dniem 1 kwietnia 2007 r., Spółka i Polska Agencja Żeglugi Powietrznej odpowiadają za te zobowiązania solidarnie.
 
-#### Rozdział 1 Przekształcenie przedsiębiorstwa państwowego „Porty Lotnicze” w jednoosobową spółkę Skarbu Państwa
+#### Rozdział 1 – Przekształcenie przedsiębiorstwa państwowego „Porty Lotnicze” w jednoosobową spółkę Skarbu Państwa
+
+#### Rozdział 2 – Zmiany w przepisach
+
+#### Rozdział 3 – Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1
 
 **Art. 1.** Przepisy niniejszego rozdziału regulują zasady i tryb przekształcenia przedsiębiorstwa państwowego „Porty Lotnicze”, zwanego dalej „PPL”, w jednoosobową spółkę akcyjną Skarbu Państwa działającą pod nazwą Polskie Porty Lotnicze Spółka Akcyjna, zwaną dalej „Spółką”.
 
@@ -921,7 +925,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 1. Pełnomocnik Rządu do spraw Centralnego Portu Komunikacyjnego, zwany dalej „Pełnomocnikiem”, działając w imieniu Skarbu Państwa, wyposaży PPL w nieruchomości będące własnością Skarbu Państwa, które w dniu poprzedzającym dzień wejścia w życie ustawy są:
 
 - **1)** oddane PPL w użytkowanie wieczyste;
-- **2)** przekazane PPL w zarząd na podstawie przepisów ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. poz. 127, z późn. zm.);
+- **2)** przekazane PPL w zarząd na podstawie przepisów ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. poz. 127, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. poz. 446 i 464, z 1993 r. poz. 212 i 629, z 1994 r. poz. 96, 118, 384, 388, 415 i 601, z 1995 r. poz. 486 i 692, z 1996 r. poz. 33, 405, 496 i 775 oraz z 1997 r. poz. 24, 44, 348 i 435.);
 - **3)** przekazane PPL w trwały zarząd na podstawie przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2021 r. poz. 1079);
 - **4)** posiadane przez PPL bez tytułu prawnego, z wyłączeniem nieruchomości Skarbu Państwa, na których ustanowiono użytkowanie wieczyste na rzecz osób trzecich.
 
@@ -1023,7 +1027,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 
 6. Nabyte przez Spółkę Celową, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, akcje Spółki mogą zostać zbyte jedynie na rzecz spółki, której akcjonariuszem jest wyłącznie Skarb Państwa lub inna państwowa osoba prawna.
 
-#### Rozdział 2 Zmiany w przepisach
+#### Rozdział 2
 
 **Art. 13.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2021 r. poz. 1317) w art. 4 uchyla się ust. 1.
 
@@ -1059,7 +1063,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
     - **a)**
     - **b)**
 
-**Art. 17.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) w art. 21 w ust. 1 po pkt 29a dodaje się pkt 29aa i 29ab w brzmieniu: „ 29aa) przychody uzyskane z tytułu odszkodowania wypłacanego zgodnie z art. 58 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2021 r. poz. 1354 oraz z 2022 r. poz. 807, 1079, 1390 i 1846) oraz z tytułu sprzedaży nieruchomości w związku z realizacją przez nabywcę prawa pierwokupu, o którym mowa w art. 29b ust. 1 pkt 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, lub sprzedaży nieruchomości na szczególnych zasadach, określonych w art. 29b ust. 1 pkt 2 tej ustawy; nie dotyczy to przypadków, gdy właściciel nieruchomości, o której mowa w zdaniu pierwszym, nabył jej własność w okresie 2 lat przed wszczęciem postępowania wywłaszczeniowego bądź odpłatnym zbyciem nieruchomości za cenę niższą o co najmniej 50% od wysokości uzyskanego odszkodowania lub ceny zbycia nieruchomości; 29ab) przychody z tytułu renty, o której mowa w art. 29c ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym; nie dotyczy to przypadków, gdy właściciel nieruchomości, o której mowa w tym przepisie, nabył jej własność w okresie 2 lat przed zbyciem nieruchomości za cenę niższą o co najmniej 50% od wysokości ceny zbycia nieruchomości; ” .
+**Art. 17.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358, 1459, 1512, 1561 i 1692.) w art. 21 w ust. 1 po pkt 29a dodaje się pkt 29aa i 29ab w brzmieniu: „ 29aa) przychody uzyskane z tytułu odszkodowania wypłacanego zgodnie z art. 58 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2021 r. poz. 1354 oraz z 2022 r. poz. 807, 1079, 1390 i 1846) oraz z tytułu sprzedaży nieruchomości w związku z realizacją przez nabywcę prawa pierwokupu, o którym mowa w art. 29b ust. 1 pkt 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, lub sprzedaży nieruchomości na szczególnych zasadach, określonych w art. 29b ust. 1 pkt 2 tej ustawy; nie dotyczy to przypadków, gdy właściciel nieruchomości, o której mowa w zdaniu pierwszym, nabył jej własność w okresie 2 lat przed wszczęciem postępowania wywłaszczeniowego bądź odpłatnym zbyciem nieruchomości za cenę niższą o co najmniej 50% od wysokości uzyskanego odszkodowania lub ceny zbycia nieruchomości; 29ab) przychody z tytułu renty, o której mowa w art. 29c ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym; nie dotyczy to przypadków, gdy właściciel nieruchomości, o której mowa w tym przepisie, nabył jej własność w okresie 2 lat przed zbyciem nieruchomości za cenę niższą o co najmniej 50% od wysokości ceny zbycia nieruchomości; ” .
 
 **Art. 18.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2022 r. poz. 514, 1270 i 1370) wprowadza się następujące zmiany:
 
@@ -1072,8 +1076,10 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 - **2)** art. 32a ust. 1 w zakresie obejmowania lub nabywania akcji lub udziałów w spółkach prawa handlowego oraz nabywania nieruchomości lub ich części oraz przedsiębiorstw lub zorganizowanych części przedsiębiorstw w rozumieniu Kodeksu cywilnego, na własność Skarbu Państwa; ” ;
 - **4)** w art. 24 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** wniesienia mienia lub jego części do spółki prawa handlowego, w szczególności Spółki Celowej, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2021 r. poz. 1354 oraz z 2022 r. poz. 807, 1079, 1390 i 1846), oraz spółki, o której mowa w art. 15 ust. 1 tej ustawy, której powierzono zadania związane z gospodarowaniem Zasobem, o którym mowa w art. 2 pkt 13 tej ustawy; ” ;
-- **5)** w art. 29: w ust. 3b: – w pkt 7 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, – dodaje się pkt 8 w brzmieniu: „ 8) rolnicy indywidualni, w rozumieniu przepisów o kształtowaniu ustroju rolnego, którzy zbyli nieruchomość rolną na cele związane z realizacją Inwestycji lub Inwestycji Towarzyszącej w rozumieniu ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym lub zostali wywłaszczeni na cele określone w tej ustawie, oraz osoby, które utraciły status rolnika indywidualnego w wyniku zbycia nieruchomości na cele określone w tej ustawie lub zostały wywłaszczone na te cele. ” , po ust. 3bd dodaje się ust. 3be w brzmieniu: „ 3be. Krajowy Ośrodek może zastrzec, że rolnik indywidualny albo osoba, która utraciła status rolnika indywidualnego, o których mowa w ust. 3b pkt 8, nie mogą brać udziału w więcej niż jednym przetargu określonym w ust. 3b pkt 8, w przypadku gdy w jednym z tych przetargów:
+- **5)** w art. 29: w ust. 3b: – w pkt 7 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, dodaje się pkt 8 w brzmieniu: „
     - **a)**
+
+- **8)** rolnicy indywidualni, w rozumieniu przepisów o kształtowaniu ustroju rolnego, którzy zbyli nieruchomość rolną na cele związane z realizacją Inwestycji lub Inwestycji Towarzyszącej w rozumieniu ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym lub zostali wywłaszczeni na cele określone w tej ustawie, oraz osoby, które utraciły status rolnika indywidualnego w wyniku zbycia nieruchomości na cele określone w tej ustawie lub zostały wywłaszczone na te cele. ” , po ust. 3bd dodaje się ust. 3be w brzmieniu: „ 3be. Krajowy Ośrodek może zastrzec, że rolnik indywidualny albo osoba, która utraciła status rolnika indywidualnego, o których mowa w ust. 3b pkt 8, nie mogą brać udziału w więcej niż jednym przetargu określonym w ust. 3b pkt 8, w przypadku gdy w jednym z tych przetargów:
     - **b)**
 
 - **1)** rolnik ten albo osoba, która utraciła status rolnika indywidualnego, zostali wyłonieni jako kandydat na nabywcę albo
@@ -1085,7 +1091,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 1. Krajowy Ośrodek, za zgodą ministra właściwego do spraw rozwoju wsi wydaną na uzasadniony wniosek Dyrektora Generalnego Krajowego Ośrodka, może:
 
 - **1)** obejmować lub nabywać, a na wniosek ministra właściwego do spraw rozwoju wsi – obejmuje lub nabywa, odpłatnie albo nieodpłatnie akcje lub udziały w spółkach prawa handlowego,
-- **2)** nabywać, a na wniosek ministra właściwego do spraw rozwoju wsi – nabywa, odpłatnie albo nieodpłatnie nieruchomości lub ich części oraz przedsiębiorstwa lub zorganizowane części przedsiębiorstw w rozumieniu Kodeksu cywilnego na własność Skarbu Państwa, jeżeli wymaga tego realizacja zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej, rozwoju obszarów wiejskich oraz wspierania rozwoju sektora rolno-spożywczego.
+- **2)** nabywać, a na wniosek ministra właściwego do spraw rozwoju wsi – nabywa, odpłatnie albo nieodpłatnie nieruchomości lub ich części oraz przedsiębiorstwa lub zorganizowane części przedsiębiorstw w rozumieniu Kodeksu cywilnego – na własność Skarbu Państwa, jeżeli wymaga tego realizacja zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej, rozwoju obszarów wiejskich oraz wspierania rozwoju sektora rolno-spożywczego.
 
 2. Odpłatne objęcie lub nabycie akcji lub udziałów, o którym mowa w ust. 1 pkt 1, następuje po cenie odpowiadającej wartości rynkowej tych akcji lub udziałów, uwzględniającej ich obciążenia.
 
@@ -1219,7 +1225,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 - **1)** przeprowadzeniu badań archeologicznych, prac geologicznych lub określeniu geotechnicznych warunków posadowienia obiektu lub wykonaniu innych czynności niezbędnych do sporządzenia dokumentacji technicznej bezpośrednio związanej z inwestycją drogową,
 - **2)** przeprowadzeniu pomiarów, badań lub innych prac niezbędnych do sporządzenia raportu o odziaływaniu przedsięwzięcia na środowisko,
 - **3)** wycince drzew lub krzewów,
-- **4)** wykonaniu kompensacji przyrodniczej właściwy zarządca drogi występuje do właściciela lub użytkownika wieczystego nieruchomości o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia z nim przewidywany sposób, zakres i termin korzystania z nieruchomości.
+- **4)** wykonaniu kompensacji przyrodniczej – właściwy zarządca drogi występuje do właściciela lub użytkownika wieczystego nieruchomości o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia z nim przewidywany sposób, zakres i termin korzystania z nieruchomości.
 
 2. W przypadku gdy prace przygotowawcze, o których mowa w ust. 1, polegają na wycince drzew i krzewów lub wykonaniu kompensacji przyrodniczej, stosuje się odpowiednio przepisy art. 20b i art. 21.
 
@@ -1280,9 +1286,10 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
     - **a)**
     - **b)**
 
-- **2)** przedstawia stanowisko w sprawie konieczności przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko oraz postępowania w sprawie transgranicznego oddziaływania na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, pozwolenia na prace przygotowawcze, o którym mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, oraz pozwolenia na prace przygotowawcze, o których mowa w przepisach ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących; nie dotyczy to inwestycji w zakresie terminalu. ” , w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W stanowisku, o którym mowa w ust. 4 pkt 2, regionalny dyrektor ochrony środowiska i organ właściwy w sprawach ocen wodnoprawnych, o których mowa w przepisach ustawy z dnia 20 lipca 2017 r. – Prawo wodne, a w przypadku gdy przedsięwzięcie jest realizowane na obszarze morskim – dyrektor urzędu morskiego, stwierdza konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, pozwolenia na prace przygotowawcze, o którym mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, oraz pozwolenia na prace przygotowawcze, o których mowa w przepisach ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących, biorąc pod uwagę w szczególności następujące okoliczności: ” , – pkt 1 otrzymuje brzmienie: „ 1) posiadane na etapie wydawania decyzji o środowiskowych uwarunkowaniach dane na temat przedsięwzięcia lub elementów przyrodniczych środowiska objętych zakresem przewidywanego oddziaływania przedsięwzięcia na środowisko nie pozwalają wystarczająco ocenić jego oddziaływania na środowisko lub wymagają uszczegółowienia w ramach decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, pozwolenia na prace przygotowawcze, o którym mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, oraz pozwolenia na prace przygotowawcze, o których mowa w przepisach ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących; ” ;
+- **2)** przedstawia stanowisko w sprawie konieczności przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko oraz postępowania w sprawie transgranicznego oddziaływania na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, pozwolenia na prace przygotowawcze, o którym mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, oraz pozwolenia na prace przygotowawcze, o których mowa w przepisach ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących; nie dotyczy to inwestycji w zakresie terminalu. ” , w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W stanowisku, o którym mowa w ust. 4 pkt 2, regionalny dyrektor ochrony środowiska i organ właściwy w sprawach ocen wodnoprawnych, o których mowa w przepisach ustawy z dnia 20 lipca 2017 r. – Prawo wodne, a w przypadku gdy przedsięwzięcie jest realizowane na obszarze morskim – dyrektor urzędu morskiego, stwierdza konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, pozwolenia na prace przygotowawcze, o którym mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, oraz pozwolenia na prace przygotowawcze, o których mowa w przepisach ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących, biorąc pod uwagę w szczególności następujące okoliczności: ” , pkt 1 otrzymuje brzmienie: „
     - **c)**
 
+- **1)** posiadane na etapie wydawania decyzji o środowiskowych uwarunkowaniach dane na temat przedsięwzięcia lub elementów przyrodniczych środowiska objętych zakresem przewidywanego oddziaływania przedsięwzięcia na środowisko nie pozwalają wystarczająco ocenić jego oddziaływania na środowisko lub wymagają uszczegółowienia w ramach decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, pozwolenia na prace przygotowawcze, o którym mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, oraz pozwolenia na prace przygotowawcze, o których mowa w przepisach ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących; ” ;
 - **5)** w art. 78 w ust. 1 w pkt 1: w lit. a uchyla się tiret drugie, w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e i f w brzmieniu: „ inwestycji w zakresie linii kolejowych, Inwestycji w rozumieniu art. 2 pkt 3 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym; ” ;
     - **a)**
     - **b)**
@@ -1322,11 +1329,14 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 - **2)** przygotowania i realizacji Przedsięwzięć;
 - **3)** zarządzania rozwojem obszaru otoczenia CPK;
 - **4)** przygotowania i realizacji procesów zorganizowanej relokacji w związku z nabywaniem gruntów na cele określone w ustawie. ” ;
-- **2)** w art. 2: w pkt 2: – lit. b otrzymuje brzmienie: „ b) spółkę, o której mowa w art. 15 ust. 1, ” , – lit. e otrzymuje brzmienie: „ e) osoby prawne, jeżeli podmioty, o których mowa w lit. a-d, pojedynczo lub wspólnie, bezpośrednio lub pośrednio przez inny podmiot: – finansują je w ponad 50% lub – posiadają ponad połowę udziałów albo akcji, lub – dysponują większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik albo użytkownik, bądź w zarządzie tej osoby prawnej, także na podstawie porozumień z innymi osobami, lub – są uprawnione do powoływania lub odwoływania większości członków zarządu lub rady nadzorczej tej osoby prawnej, także na podstawie porozumień z innymi osobami, lub – mają prawo do całego albo części mienia tej osoby prawnej, lub – na podstawie umów zarządzają tą osobą prawną lub osoba prawna przekazuje im zysk – o ile przygotowują lub realizują Przedsięwzięcia, ” , – dodaje się lit. f w brzmieniu: „ f) osoby prawne, w których więcej niż połowę członków zarządu stanowią członkowie zarządu lub rady nadzorczej podmiotów, o których mowa w lit. a-d, o ile przygotowują lub realizują Przedsięwzięcia. ” , pkt 3 otrzymuje brzmienie: „
+- **2)** w art. 2: w pkt 2: lit. b otrzymuje brzmienie: „ spółkę, o której mowa w art. 15 ust. 1, ” , lit. e otrzymuje brzmienie: „ osoby prawne, jeżeli podmioty, o których mowa w lit. a-d, pojedynczo lub wspólnie, bezpośrednio lub pośrednio przez inny podmiot: – finansują je w ponad 50% lub – posiadają ponad połowę udziałów albo akcji, lub – dysponują większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik albo użytkownik, bądź w zarządzie tej osoby prawnej, także na podstawie porozumień z innymi osobami, lub – są uprawnione do powoływania lub odwoływania większości członków zarządu lub rady nadzorczej tej osoby prawnej, także na podstawie porozumień z innymi osobami, lub – mają prawo do całego albo części mienia tej osoby prawnej, lub – na podstawie umów zarządzają tą osobą prawną lub osoba prawna przekazuje im zysk – o ile przygotowują lub realizują Przedsięwzięcia, ” , dodaje się lit. f w brzmieniu: „ osoby prawne, w których więcej niż połowę członków zarządu stanowią członkowie zarządu lub rady nadzorczej podmiotów, o których mowa w lit. a-d, o ile przygotowują lub realizują Przedsięwzięcia. ” , pkt 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+    - **e)**
+    - **f)**
+    - **b)**
 
-- **3)** Inwestycji – należy przez to rozumieć budowę lotniska użytku publicznego w rozumieniu art. 54 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715 i 1846) wraz z obiektami, urządzeniami, wyposażeniem, sieciami i instalacjami służącymi do jego budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki oraz innymi inwestycjami, w szczególności wraz z: drogami publicznymi w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693, 1768 i 1783), sieciami przesyłowymi i sieciami dystrybucyjnymi w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385 i 1723), drogami kolejowymi w rozumieniu art. 4 pkt 1a ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2021 r. poz. 1984 oraz z 2022 r. poz. 727 i 1846), urządzeniami i obiektami do obsługi ruchu lotniczego w rozumieniu art. 2 pkt 8 ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2021 r. poz. 1079 oraz z 2022 r. poz. 1846), urządzeniami wodnymi w rozumieniu art. 16 pkt 65 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm.), rurociągami ropy naftowej lub produktów naftowych wraz z infrastrukturą niezbędną do obsługi w rozumieniu ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2022 r. poz. 1275) jeżeli są one przestrzennie oraz funkcjonalnie powiązane z projektowanym lotniskiem; ” , uchyla się pkt 8, pkt 9 otrzymuje brzmienie: „
+- **3)** Inwestycji – należy przez to rozumieć budowę lotniska użytku publicznego w rozumieniu art. 54 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715 i 1846) wraz z obiektami, urządzeniami, wyposażeniem, sieciami i instalacjami służącymi do jego budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki oraz innymi inwestycjami, w szczególności wraz z: drogami publicznymi w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693, 1768 i 1783), sieciami przesyłowymi i sieciami dystrybucyjnymi w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385 i 1723), drogami kolejowymi w rozumieniu art. 4 pkt 1a ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2021 r. poz. 1984 oraz z 2022 r. poz. 727 i 1846), urządzeniami i obiektami do obsługi ruchu lotniczego w rozumieniu art. 2 pkt 8 ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2021 r. poz. 1079 oraz z 2022 r. poz. 1846), urządzeniami wodnymi w rozumieniu art. 16 pkt 65 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2368 oraz z 2022 r. poz. 88, 258, 855, 1079 i 1549.), rurociągami ropy naftowej lub produktów naftowych wraz z infrastrukturą niezbędną do obsługi w rozumieniu ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2022 r. poz. 1275) – jeżeli są one przestrzennie oraz funkcjonalnie powiązane z projektowanym lotniskiem; ” , uchyla się pkt 8, pkt 9 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
@@ -1358,7 +1368,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 - **1)** wnioskiem o wydanie decyzji o środowiskowych uwarunkowaniach,
 - **2)** decyzją, o której mowa w pkt 1,
 - **3)** wnioskiem o wydanie decyzji dokonującej lokalizacji inwestycji lub zezwalającej na realizację robót budowlanych,
-- **4)** decyzjami, o których mowa w pkt 3 dotyczącymi Inwestycji i Inwestycji Towarzyszących, inwestycje przeciwdziałające skutkom suszy może lokalizować i realizować wyłącznie Inwestor Inwestycji lub Inwestycji Towarzyszącej. ” ;
+- **4)** decyzjami, o których mowa w pkt 3 – dotyczącymi Inwestycji i Inwestycji Towarzyszących, inwestycje przeciwdziałające skutkom suszy może lokalizować i realizować wyłącznie Inwestor Inwestycji lub Inwestycji Towarzyszącej. ” ;
 - **4)** w art. 5: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
 
@@ -1410,8 +1420,17 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 
 6. Porozumienia i umowy, o których mowa w ust. 5, określają zakres zadań oraz wynagrodzenie. Porozumienia i umowy zawiera się po uzyskaniu zgody Pełnomocnika. ” ;
 
-- **9)** w art. 17: w ust. 1: – w pkt 2 po wyrazach „Inwestycji Towarzyszącej” dodaje się wyrazy „realizowanej przez Spółkę Celową”, – pkt 4 otrzymuje brzmienie: „ 4) nabywa, na swoją rzecz lub na rzecz Skarbu Państwa, własność lub inne prawa do nieruchomości, a także uczestniczy w postępowaniach związanych z wywłaszczeniem nieruchomości i innych postępowaniach dotyczących tych nieruchomości; ” , – uchyla się pkt 5 i 7, – pkt 9 otrzymuje brzmienie: „ 9) dokonuje wypłaty odszkodowania, zwrotu wypłaconych środków finansowych z tytułu odszkodowania, kary umownej lub konieczności zwrotu przyznanych środków w przypadkach określonych w ustawie; ” , – uchyla się pkt 10, – w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15–18 w brzmieniu: „ 15) zarządza zrealizowanymi Przedsięwzięciami, jeżeli jest to konieczne dla realizacji celów Programu; 16) prowadzi działalność związaną z eksploatacją obszaru geograficznego w celu udostępniania przewoźnikom lotniczym portów lotniczych lub działalność mającą na celu zapewnianie lub obsługę sieci świadczących usługi dla odbiorców publicznych w obszarze transportu koleją lub systemami automatycznymi; 17) zapewnia optymalne warunki rozwoju społeczno-gospodarczego oraz przestrzennego na obszarze otoczenia CPK; 18) prowadzi działalność gospodarczą w zakresie: a) wytwarzania i dystrybucji energii elektrycznej, b) wytwarzania, dystrybucji oraz transportu ciepła – na zasadach i warunkach określonych w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne. ” , po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
+- **9)** w art. 17: w ust. 1: – w pkt 2 po wyrazach „Inwestycji Towarzyszącej” dodaje się wyrazy „realizowanej przez Spółkę Celową”, pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** nabywa, na swoją rzecz lub na rzecz Skarbu Państwa, własność lub inne prawa do nieruchomości, a także uczestniczy w postępowaniach związanych z wywłaszczeniem nieruchomości i innych postępowaniach dotyczących tych nieruchomości; ” , – uchyla się pkt 5 i 7, pkt 9 otrzymuje brzmienie: „
+- **9)** dokonuje wypłaty odszkodowania, zwrotu wypłaconych środków finansowych z tytułu odszkodowania, kary umownej lub konieczności zwrotu przyznanych środków w przypadkach określonych w ustawie; ” , – uchyla się pkt 10, w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15–18 w brzmieniu: „
+- **15)** zarządza zrealizowanymi Przedsięwzięciami, jeżeli jest to konieczne dla realizacji celów Programu;
+- **16)** prowadzi działalność związaną z eksploatacją obszaru geograficznego w celu udostępniania przewoźnikom lotniczym portów lotniczych lub działalność mającą na celu zapewnianie lub obsługę sieci świadczących usługi dla odbiorców publicznych w obszarze transportu koleją lub systemami automatycznymi;
+- **17)** zapewnia optymalne warunki rozwoju społeczno-gospodarczego oraz przestrzennego na obszarze otoczenia CPK;
+- **18)** prowadzi działalność gospodarczą w zakresie: wytwarzania i dystrybucji energii elektrycznej, wytwarzania, dystrybucji oraz transportu ciepła – na zasadach i warunkach określonych w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne. ” , po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
+    - **a)**
+    - **b)**
     - **b)**
 
 1a. Po zrealizowaniu Inwestycji Towarzyszącej polegającej na budowie linii kolejowej wybudowana linia kolejowa jest przekazywana wraz z powiązaną infrastrukturą kolejową:
@@ -1530,7 +1549,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 3. Podmiot gospodarujący nieruchomością w imieniu Skarbu Państwa przed:
 
 - **1)** ustanowieniem ograniczonych praw rzeczowych,
-- **2)** zawarciem umowy dzierżawy lub najmu nieruchomości gruntowej oraz umowy, która pozwala na realizację inwestycji na nieruchomości, również inwestycji o charakterze innym niż budowlanym jest obowiązany do uzyskania zgody Pełnomocnika.
+- **2)** zawarciem umowy dzierżawy lub najmu nieruchomości gruntowej oraz umowy, która pozwala na realizację inwestycji na nieruchomości, również inwestycji o charakterze innym niż budowlanym – jest obowiązany do uzyskania zgody Pełnomocnika.
 
 4. Umowy, o których mowa w ust. 3 pkt 2, zawarte bez dokonania zawiadomienia lub przed upływem terminu, o którym mowa w ust. 2, lub mimo braku zgody Pełnomocnika są nieważne z mocy prawa.
 
@@ -1561,12 +1580,12 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
     - **f)**
 
 - **5)** odbudowie,
-- **6)** budowie mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii niezwiększających powierzchni zabudowy o więcej niż 5%.
+- **6)** budowie mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – niezwiększających powierzchni zabudowy o więcej niż 5%.
 
 1. Szczególne zasady nabywania nieruchomości obejmują:
 
 - **1)** prawo pierwokupu nieruchomości na rzecz Spółki Celowej, z wyłączeniem samodzielnych lokali mieszkalnych;
-- **2)** uprawnienie Spółki Celowej, uwzględniając znaczenie nieruchomości dla realizacji Przedsięwzięć, do: nabywania nieruchomości za cenę odpowiadającą najwyższej z wartości ustalonych zgodnie z ust. 2–13 lub na zasadach określonych w ust. 14 i 15 albo nabywania nieruchomości za cenę określoną zgodnie z ust. 2 i ustanowienia renty z tytułu zaprzestania prowadzenia działalności rolniczej na warunkach określonych w art. 29c oraz wypłaty rekompensaty w związku ze spadkiem zdolności kredytowej zbywcy nieruchomości.
+- **2)** uprawnienie Spółki Celowej, uwzględniając znaczenie nieruchomości dla realizacji Przedsięwzięć, do: nabywania nieruchomości za cenę odpowiadającą najwyższej z wartości ustalonych zgodnie z ust. 2–13 lub na zasadach określonych w ust. 14 i 15 albo nabywania nieruchomości za cenę określoną zgodnie z ust. 2 i ustanowienia renty z tytułu zaprzestania prowadzenia działalności rolniczej na warunkach określonych w art. 29c – oraz wypłaty rekompensaty w związku ze spadkiem zdolności kredytowej zbywcy nieruchomości.
     - **a)**
     - **b)**
 
@@ -1645,7 +1664,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 3. W przypadku, o którym mowa w ust. 2, gdy:
 
 - **1)** część nieruchomości pozostała po wykonaniu prawa pierwokupu nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele,
-- **2)** osoba trzecia, na rzecz której nieruchomość stanowiąca przedmiot prawa pierwokupu miała zostać sprzedana, oświadczy, że nie jest zainteresowana nabyciem części nieruchomości pozostałej po wykonaniu prawa pierwokupu Spółka Celowa nabywa na wniosek właściciela tę część nieruchomości, na zasadach określonych w ust. 1.
+- **2)** osoba trzecia, na rzecz której nieruchomość stanowiąca przedmiot prawa pierwokupu miała zostać sprzedana, oświadczy, że nie jest zainteresowana nabyciem części nieruchomości pozostałej po wykonaniu prawa pierwokupu – Spółka Celowa nabywa na wniosek właściciela tę część nieruchomości, na zasadach określonych w ust. 1.
 
 4. W przypadku zbiegu prawa pierwokupu określonego w niniejszej ustawie z prawem pierwokupu określonym w przepisach odrębnych, pierwszym uprawnionym do wykonania prawa pierwokupu jest Spółka Celowa.
 
@@ -1716,9 +1735,9 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 - **20)** w art. 31 we wprowadzeniu do wyliczenia skreśla się wyrazy „, wraz z ich treścią,”;
 - **21)** po art. 31 dodaje się rozdziały 1a i 1b w brzmieniu: „
 
-#### Rozdział 1a Udostępnienie nieruchomości na cele badań przyrodniczych
+#### Rozdział 1a
 
-#### Rozdział 1b Udostępnienie nieruchomości na cele badań i pomiarów
+#### Rozdział 1b
 
 **Art. 38a.** Decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK może obejmować lokalizację innych obiektów, urządzeń, sieci lub instalacji w zakresie, w jakim są one przestrzennie oraz funkcjonalnie powiązane z Inwestycją, w tym:
 
@@ -1782,7 +1801,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 6. W przypadku gdy:
 
 - **1)** decyzja, o której mowa w ust. 2, dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony przynajmniej jeden lokal mieszkalny, oraz
-- **2)** osoby zamieszkujące nieruchomość, o której mowa w pkt 1, nie posiadają innego budynku mieszkalnego albo lokalu mieszkalnego i zgłoszą ten fakt Inwestorowi Inwestor jest obowiązany, w terminie faktycznego objęcia nieruchomości w posiadanie, do wskazania lokalu tymczasowego, przy czym lokal ten może być położony w innej miejscowości. ” , w ust. 7 wyraz „zamienny” zastępuje się wyrazem „tymczasowy”;
+- **2)** osoby zamieszkujące nieruchomość, o której mowa w pkt 1, nie posiadają innego budynku mieszkalnego albo lokalu mieszkalnego i zgłoszą ten fakt Inwestorowi – Inwestor jest obowiązany, w terminie faktycznego objęcia nieruchomości w posiadanie, do wskazania lokalu tymczasowego, przy czym lokal ten może być położony w innej miejscowości. ” , w ust. 7 wyraz „zamienny” zastępuje się wyrazem „tymczasowy”;
     - **d)**
 
 - **36)** po art. 52 dodaje się art. 52a w brzmieniu: „
@@ -1798,7 +1817,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 
 - **39)** po art. 75 dodaje się rozdział 7a w brzmieniu: „
 
-#### Rozdział 7a Decyzja o środowiskowych uwarunkowaniach dla Inwestycji
+#### Rozdział 7a
 
 **Art. 75a.**
 
@@ -1825,7 +1844,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 - **2)** stanowiących własność Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe zgodnie z ustawą z dnia 28 września 1991 r. o lasach,
 - **3)** stanowiących własność Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Wodne Wody Polskie zgodnie z ustawą z dnia 20 lipca 2017 r. – Prawo wodne,
 - **4)** stanowiących własność Skarbu Państwa, powierzonych Krajowemu Zasobowi Nieruchomości zgodnie z ustawą z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2021 r. poz. 1961 oraz z 2022 r. poz. 807 i 1561),
-- **5)** stanowiących własność Skarbu Państwa, powierzonych Krajowemu Ośrodkowi Wsparcia Rolnictwa zgodnie z ustawą z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2022 r. poz. 514, 1270, 1370 i 1846) w celu wykonania prac wstępnych, o których mowa w art. 75b, o ile nieruchomości te nie są przedmiotem najmu lub dzierżawy, użyczenia lub innego stosunku zobowiązaniowego, trwałego zarządu lub nie zostały obciążone ograniczonymi prawami rzeczowymi, z wyłączeniem służebności przesyłu.
+- **5)** stanowiących własność Skarbu Państwa, powierzonych Krajowemu Ośrodkowi Wsparcia Rolnictwa zgodnie z ustawą z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2022 r. poz. 514, 1270, 1370 i 1846) – w celu wykonania prac wstępnych, o których mowa w art. 75b, o ile nieruchomości te nie są przedmiotem najmu lub dzierżawy, użyczenia lub innego stosunku zobowiązaniowego, trwałego zarządu lub nie zostały obciążone ograniczonymi prawami rzeczowymi, z wyłączeniem służebności przesyłu.
 
 2. Warunki wejścia na teren nieruchomości, o których mowa w ust. 1, podmiot, na rzecz którego wydano decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, nie później niż w terminie 30 dni przed planowanym wejściem na teren nieruchomości uzgadnia, w drodze pisemnego porozumienia, z właściwym organem gospodarującym zasobem nieruchomości, Państwowym Gospodarstwem Leśnym Lasy Państwowe, Państwowym Gospodarstwem Wodnym Wody Polskie, Krajowym Zasobem Nieruchomości lub Krajowym Ośrodkiem Wsparcia Rolnictwa.
 
@@ -1970,8 +1989,11 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 
 **Art. 97.** Pełnomocnik oraz Spółka Celowa, działając we współpracy z Krajowym Ośrodkiem Wsparcia Rolnictwa, Agencją Restrukturyzacji i Modernizacji Rolnictwa oraz Państwowym Gospodarstwem Leśnym Lasy Państwowe, tworzy warunki do zamiany nieruchomości oraz warunki do utrzymania prowadzenia produkcji rolnej lub leśnej przez właścicieli lub dzierżawców nieruchomości, w tym nieruchomości rolnych, w trybie przepisów o scalaniu i wymianie gruntów. ” ;
 
-- **46)** w art. 98: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) gruntowe, które stały się własnością Spółki Celowej wskutek decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK; ” , – pkt 3 otrzymuje brzmienie: „ 3) które zostały nabyte przez Spółkę Celową, w tym w szczególności z obszaru objętego przepisami wydanymi na podstawie art. 28 ust. 1; ” , – w pkt 4 wyrazy „ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się wyrazami „Skarb Państwa reprezentowany przez Pełnomocnika”, ust. 3 otrzymuje brzmienie: „
+- **46)** w art. 98: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** gruntowe, które stały się własnością Spółki Celowej wskutek decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** które zostały nabyte przez Spółkę Celową, w tym w szczególności z obszaru objętego przepisami wydanymi na podstawie art. 28 ust. 1; ” , – w pkt 4 wyrazy „ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się wyrazami „Skarb Państwa reprezentowany przez Pełnomocnika”, ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Nieruchomości wchodzące w skład Zasobu mogą:
@@ -2069,9 +2091,9 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 
 - **58)** dział IV otrzymuje brzmienie: „
 
-### Dział IV Przygotowanie i realizacja Inwestycji Towarzyszących
+### Dział IV
 
-#### Rozdział 1 Zasady ogólne
+#### Rozdział 1
 
 **Art. 118.**
 
@@ -2103,7 +2125,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 
 - **1)** Spółka Celowa lub spółka, o której mowa w art. 15 ust. 1,
 - **2)** podmiot, o którym mowa w art. 2 pkt 2 lit. e i f,
-- **3)** w przypadku, o którym mowa w ust. 1 pkt 2 i ust. 8, spółka, o której mowa w art. 1 pkt 2 lub art. 14 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, korzystająca, w zakresie wymaganym do realizacji Inwestycji Towarzyszącej, z praw i obowiązków przewidzianych w rozdziale 2b ustawy z dnia 28 marca 2003 r. o transporcie kolejowym dla PKP PLK SA z uwzględnieniem przepisów niniejszego działu.
+- **3)** w przypadku, o którym mowa w ust. 1 pkt 2 i ust. 8, spółka, o której mowa w art. 1 pkt 2 lub art. 14 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, korzystająca, w zakresie wymaganym do realizacji Inwestycji Towarzyszącej, z praw i obowiązków przewidzianych w rozdziale 2b ustawy z dnia 28 marca 2003 r. o transporcie kolejowym dla PKP PLK SA – z uwzględnieniem przepisów niniejszego działu.
 
 3. W przypadku, o którym mowa w ust. 2, przy dokonywaniu wywłaszczeń do zapłaty odszkodowania obowiązana jest Spółka Celowa.
 
@@ -2142,17 +2164,17 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 
 8. Właścicielowi albo użytkownikowi wieczystemu nieruchomości przysługuje wyłącznie roszczenie do Spółki Celowej o wykupienie nieruchomości lub jej części objętej planem miejscowym. Przepis art. 36 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio. W pozostałym zakresie przepisów art. 36–371 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym nie stosuje się. Gmina nie pokrywa kosztów i roszczeń związanych z wejściem w życie tego planu miejscowego.
 
-#### Rozdział 2 Szczególne zasady zmiany sposobu zagospodarowania terenu na obszarach Inwestycji Towarzyszących
+#### Rozdział 2
 
-#### Rozdział 3 Szczególne zasady realizacji Inwestycji Towarzyszących
+#### Rozdział 3
 
-#### Rozdział 4 Plan rezerwacji terenu dla Inwestycji Towarzyszących
+#### Rozdział 4
 
-### Dział IVa Planowanie przestrzenne obszaru lokalizacji Inwestycji
+### Dział IVa
 
-### Dział IVb Zarządzanie rozwojem obszaru otoczenia Centralnego Portu Komunikacyjnego
+### Dział IVb
 
-### Dział IVc Zorganizowana relokacja
+### Dział IVc
 
 **Art. 128a.**
 
@@ -2183,10 +2205,10 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 **Art. 37.** W ustawie z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2022 r. poz. 505, 655, 1561 i 1768) w art. 24 po ust. 5 dodaje się ust. 5a w brzmieniu: „ 5a. W odniesieniu do inwestycji zlokalizowanych na:
 
 - **1)** obszarze objętym szczególnymi zasadami gospodarowania nieruchomościami, planowania i zagospodarowania przestrzennego oraz realizacji inwestycji, określonym w przepisach wydanych na podstawie art. 28 ust. 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2021 r. poz. 1354 oraz z 2022 r. poz. 807, 1079, 1390 i 1846),
-- **2)** obszarze objętym strategią rozwoju, o której mowa w dziale IVb ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym komisja może umieścić na liście, o której mowa w ust. 5, zadania powiatowe lub zadanie gminne do dofinansowania ze środków Funduszu wyłącznie po uzyskaniu pozytywnej opinii Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego, wydawanej w terminie 14 dni od dnia doręczenia wniosku temu pełnomocnikowi. ” . W ustawie z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2022 r. poz. 1275) w art. 1 w ust. 2 w pkt 2 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ Spółka Celowa, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2021 r. poz. 1354 oraz z 2022 r. poz. 807, 1079, 1390 i 1846), lub spółka, o której mowa w art. 15 ust. 1 tej ustawy, na zasadach określonych w tej ustawie; ” .
+- **2)** obszarze objętym strategią rozwoju, o której mowa w dziale IVb ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym – komisja może umieścić na liście, o której mowa w ust. 5, zadania powiatowe lub zadanie gminne do dofinansowania ze środków Funduszu wyłącznie po uzyskaniu pozytywnej opinii Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego, wydawanej w terminie 14 dni od dnia doręczenia wniosku temu pełnomocnikowi. ” . W ustawie z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2022 r. poz. 1275) w art. 1 w ust. 2 w pkt 2 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ Spółka Celowa, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2021 r. poz. 1354 oraz z 2022 r. poz. 807, 1079, 1390 i 1846), lub spółka, o której mowa w art. 15 ust. 1 tej ustawy, na zasadach określonych w tej ustawie; ” .
     - **e)**
 
-#### Rozdział 3 Przepisy przejściowe, dostosowujące i końcowe
+#### Rozdział 3
 
 **Art. 40.**
 
@@ -2207,7 +2229,7 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 1. Do projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy, projektów miejscowych planów zagospodarowania przestrzennego, a także ich zmian, w stosunku do których przed dniem wejścia w życie niniejszej ustawy:
 
 - **1)** podjęto uchwałę o przystąpieniu do sporządzenia lub zmiany studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy lub do sporządzenia lub zmiany miejscowego planu zagospodarowania przestrzennego oraz
-- **2)** ogłoszono w prasie miejscowej oraz przez obwieszczenie o wyłożeniu projektu studium lub planu do publicznego wglądu stosuje się przepisy dotychczasowe.
+- **2)** ogłoszono w prasie miejscowej oraz przez obwieszczenie o wyłożeniu projektu studium lub planu do publicznego wglądu – stosuje się przepisy dotychczasowe.
 
 2. Do projektów planów zagospodarowania przestrzennego województw, a także ich zmian, w stosunku do których przed dniem wejścia w życie niniejszej ustawy skierowano projekt planu do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, stosuje się przepisy dotychczasowe.
 
@@ -2259,5 +2281,5 @@ W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości P
 
 2. Do dnia przekształcenia, o którym mowa w art. 8 ust. 2, stosuje się przepisy ustawy, o której mowa w ust. 1, z tym że kompetencje ministra właściwego do spraw transportu wykonuje Pełnomocnik.
 
-**Art. 55.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 18 pkt 1–3 i 6, art. 20 i art. 35, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 55.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 18 pkt 1–3 i 6, art. 20 i art. 35, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 września 1981 r. o przedsiębiorstwach państwowych, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 16 grudnia 2005 r. o Funduszu Kolejowym, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego, ustawę z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych, ustawę z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa, ustawę z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, ustawę z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg oraz ustawę z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym oraz uchyla się ustawę z dnia 15 września 2017 r. o przedsiębiorstwie państwowym „Porty Lotnicze”. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. poz. 446 i 464, z 1993 r. poz. 212 i 629, z 1994 r. poz. 96, 118, 384, 388, 415 i 601, z 1995 r. poz. 486 i 692, z 1996 r. poz. 33, 405, 496 i 775 oraz z 1997 r. poz. 24, 44, 348 i 435. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358, 1459, 1512, 1561 i 1692. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2368 oraz z 2022 r. poz. 88, 258, 855, 1079 i 1549. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504, 1576 i 1747.
 

@@ -37,17 +37,13 @@ rozporządzeniem Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r. zmieniającym
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającego rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1110), który stanowi:
-„
+§ 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającego rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1110), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1535), który stanowi:
-„
+§ 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1535), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Prezesa Rady Ministrów z dnia 11 marca 2003 r. w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego
 Na podstawie art. 142 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860) zarządza się, co następuje:
 § 1.
@@ -56,7 +52,7 @@ Rozporządzenie określa terminy płatności uposażenia i innych świadczeń pi
 1.
 Uposażenie, o którym mowa w art. 115 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”, wypłaca funkcjonariuszowi jednostka organizacyjna, w której funkcjonariusz pozostaje na zaopatrzeniu finansowym, w terminach miesięcznych z góry, w pierwszym dniu roboczym każdego miesiąca, za który uposażenie przysługuje.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającego rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1110), które weszło w życie z dniem 23 czerwca 2017 r.
 § 3.
 1.
 Jeżeli prawo do wyższego uposażenia zostało ustalone po sporządzeniu listy uposażenia, termin wypłaty wyrównania uposażenia może zostać przesunięty na następny miesiąc.
@@ -70,15 +66,15 @@ Przysługujące funkcjonariuszowi inne świadczenia pieniężne, o których mowa
 3.
 Wypłaty świadczeń pieniężnych dokonuje właściwa komórka jednostki organizacyjnej, w której funkcjonariusz pozostaje na zaopatrzeniu finansowym, po otrzymaniu dokumentów określających wysokość świadczeń pieniężnych przysługujących funkcjonariuszowi.
 4.
-(uchylony).
-§ 5.
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
+§ 5W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Uposażenie oraz świadczenia pieniężne wypłaca się w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.
 § 6.
 1.
 Z uposażenia funkcjonariusza, o którym mowa w art. 142 ust. 2 ustawy, potrąceń dokonuje właściwa komórka jednostki organizacyjnej, w której funkcjonariusz pozostaje na zaopatrzeniu finansowym.
 2.
 Fakt dokonania potrącenia z uposażenia funkcjonariusza odnotowuje się na liście uposażeń.
-§ 7.
+§ 7W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1535), które weszło w życie z dniem 31 sierpnia 2019 r..
 Za zgodą funkcjonariusza, wyrażoną na piśmie, mogą być dokonywane potrącenia z tytułu zobowiązań:
 1)
 zapłaty odszkodowania, przewidzianych w przepisach ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 2349);
@@ -114,8 +110,7 @@ samowolnego opuszczenia miejsca pełnienia służby albo pozostawania poza nim l
 2)
 zawinionej niemożności pełnienia obowiązków służbowych,
 3)
-rozpoczęcia urlopu bezpłatnego w ciągu miesiąca kalendarzowego
-stanowi rozkaz personalny.
+rozpoczęcia urlopu bezpłatnego w ciągu miesiąca kalendarzowego – stanowi rozkaz personalny.
 § 9.
 Z uposażenia funkcjonariusza, należnego mu w dniu wypłaty, nie dokonuje się potrąceń, jeżeli rozkaz personalny o zmniejszeniu uposażenia został wydany po terminie wypłaty.
 § 10.
@@ -130,5 +125,5 @@ W przypadku zawieszenia lub przywrócenia wypłaty pełnego uposażenia właści
 § 11.
 Kwoty potrąceń właściwa jednostka organizacyjna przekazuje zgodnie z dyspozycją funkcjonariusza albo organów egzekucyjnych lub wierzycieli, na których wezwanie są dokonywane potrącenia.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 28 marca 2003 r.. 1) Przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającego rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1110), które weszło w życie z dniem 23 czerwca 2017 r. 2) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1535), które weszło w życie z dniem 31 sierpnia 2019 r. 5) Rozporządzenie zostało ogłoszone w dniu 28 marca 2003 r.
 

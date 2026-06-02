@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 4 kwietnia 2017 r. w sprawie trybu, zakresu, terminów i szczegółowego sposobu rozliczania wydatków poniesionych w ramach realizowanych operacji Programu Operacyjnego „Rybactwo i Morze”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 4 kwietnia 2017 r. w sprawie trybu, zakresu, terminów i szczegółowego sposobu rozliczania wydatków poniesionych w ramach realizowanych operacji Programu Operacyjnego „Rybactwo i Morze” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-04 |
 | Data wydania | 2017-04-10 |
-| Wejście w życie | 2017-04-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000754) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/754/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 31 ust. 2 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. poz. 1358 oraz z 2016 r. poz. 1203 i 1948) zarządza się, co następuje:
 § 1.
-Rozporządzenie określa tryb, zakres, terminy i szczegółowy sposób rozliczania wydatków poniesionych w ramach realizowanych operacji Programu Operacyjnego „Rybactwo i Morze”, zwanego dalej „programem operacyjnym”, stanowiących podstawę wniosku o płatność okresową, o którym mowa w art. 135 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem nr 1303/2013”, oraz zestawienia wydatków, o którym mowa w art. 137 ust. 1 rozporządzenia nr 1303/2013, w odniesieniu do operacji oraz programu operacyjnego.
+Rozporządzenie określa tryb, zakres, terminy i szczegółowy sposób rozliczania wydatków poniesionych w ramach realizowanych operacji Programu Operacyjnego „Rybactwo i Morze”, zwanego dalej „programem operacyjnym”, stanowiących podstawę wniosku o płatność okresową, o którym mowa w art. 135 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259 i 470 i Dz. Urz. UE L 270 z 15.10.2015, str. 1.), zwanego dalej „rozporządzeniem nr 1303/2013”, oraz zestawienia wydatków, o którym mowa w art. 137 ust. 1 rozporządzenia nr 1303/2013, w odniesieniu do operacji oraz programu operacyjnego.
 § 2.
 1.
 Podstawę rozliczenia wydatków poniesionych w ramach realizowanych operacji programu operacyjnego, stanowiących podstawę wniosku o płatność okresową, o którym mowa w art. 135 ust. 1 rozporządzenia nr 1303/2013, oraz zestawienia wydatków, o którym mowa w art. 137 ust. 1 rozporządzenia nr 1303/2013, zwanych dalej „wydatkami”, stanowią środki finansowe wypłacone z tytułu przyznanej beneficjentowi pomocy na realizację operacji w ramach programu operacyjnego, zwanej dalej „pomocą”, z zastrzeżeniem ust. 3, w terminie:
@@ -46,7 +45,7 @@ beneficjentem pomocy jest państwowa jednostka budżetowa.
 1)
 przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”, przelewem na rachunek bankowy wskazany przez beneficjenta lub następcę prawnego beneficjenta albo nabywcę przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części – w przypadku, o którym mowa w ust. 1 pkt 1 i 2 lit. a;
 2)
-w sposób określony w art. 188 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.) – w przypadku, o którym mowa w ust. 1 pkt 2 lit. b.
+w sposób określony w art. 188 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191 i 659.) – w przypadku, o którym mowa w ust. 1 pkt 2 lit. b.
 3.
 Jeżeli wystąpią okoliczności uniemożliwiające wypłatę pomocy w terminie, o którym mowa w ust. 1, podstawę rozliczenia wydatków stanowią środki finansowe wypłacone z tytułu przyznanej beneficjentowi pomocy w terminie innym niż określony w ust. 1, o którym instytucja pośrednicząca, z którą ten beneficjent zawarł umowę o dofinansowanie, informuje go na piśmie.
 § 3.
@@ -84,8 +83,7 @@ dnia 7 czerwca – za miesiące kwiecień i maj,
 3)
 dnia 7 października – za miesiące czerwiec-wrzesień,
 4)
-7. dnia miesiąca następującego po upływie IV kwartału
-i obejmują wydatki poniesione w każdym okresie, za który jest sporządzane poświadczenie.
+7. dnia miesiąca następującego po upływie IV kwartału – i obejmują wydatki poniesione w każdym okresie, za który jest sporządzane poświadczenie.
 3.
 Agencja, po dokonaniu wypłaty pomocy, sporządza i przekazuje instytucji zarządzającej zbiorcze poświadczenie poniesionych wydatków.
 4.
@@ -122,6 +120,5 @@ Instytucja certyfikująca dokonuje weryfikacji wniosku o płatność okresową, 
 2.
 Instytucja certyfikująca dokonuje weryfikacji informacji stanowiących podstawę zestawienia wydatków, o którym mowa w art. 137 ust. 1 rozporządzenia nr 1303/2013.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259 i 470 i Dz. Urz. UE L 270 z 15.10.2015, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191 i 659.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259 i 470 i Dz. Urz. UE L 270 z 15.10.2015, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191 i 659.
 

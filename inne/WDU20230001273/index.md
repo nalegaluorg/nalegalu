@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027
+# Ustawa z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 Niniejsza ustawa służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16 oraz Dz. Urz. UE L 275 z 25.10.2022, str. 23); 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1139 z dnia 7 lipca 2021 r. ustanawiającego Europejski Fundusz Morski, Rybacki i Akwakultury oraz zmieniającego rozporządzenie (UE) 2017/1004 (Dz. Urz. UE L 247 z 13.07.2021, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,40 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-05-26 |
 | Data wydania | 2023-07-04 |
-| Wejście w życie | 2023-07-19 |
 | Ostatnia zmiana | 2026-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001273) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1273/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 5 grudnia 2008 r. o organizacji rynku rybnego, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych oraz ustawę z dnia 19 grudnia 2014 r. o rybołówstwie morskim.
+Przepisy ogólne
+System instytucjonalny
+Przyznawanie i wypłata pomocy
+RLKS
+Zwrot pomocy
+Kontrole
+Zmiany w przepisach
+Przepisy przejściowe i przepisy końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – System instytucjonalny
+
+#### Rozdział 3 – Przyznawanie i wypłata pomocy
+
+#### Rozdział 4 – RLKS
+
+#### Rozdział 5 – Zwrot pomocy
+
+#### Rozdział 6 – Kontrole
+
+#### Rozdział 7 – Zmiany w przepisach
+
+#### Rozdział 8 – Przepisy przejściowe i przepisy końcowe
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady realizacji programu Fundusze Europejskie dla Rybactwa na lata 2021–2027, zwanego dalej „programem”, w tym:
 
-- **1)** zadania oraz właściwość organów i jednostek organizacyjnych w zakresie wspierania zrównoważonego rozwoju sektora rybackiego z udziałem środków finansowych pochodzących z Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, zwanego dalej „EFMRA”, w ramach programu określone w: rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/1139 z dnia 7 lipca 2021 r. ustanawiającym Europejski Fundusz Morski, Rybacki i Akwakultury oraz zmieniającym rozporządzenie (UE) 2017/1004 (Dz. Urz. UE L 247 z 13.07.2021, str. 1), zwanym dalej „rozporządzeniem EFMRA”, oraz w przepisach Unii Europejskiej wydanych na podstawie tego rozporządzenia, rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.), zwanym dalej „rozporządzeniem ogólnym”, oraz w przepisach Unii Europejskiej wydanych na podstawie tego rozporządzenia;
+- **1)** zadania oraz właściwość organów i jednostek organizacyjnych w zakresie wspierania zrównoważonego rozwoju sektora rybackiego z udziałem środków finansowych pochodzących z Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, zwanego dalej „EFMRA”, w ramach programu określone w: rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/1139 z dnia 7 lipca 2021 r. ustanawiającym Europejski Fundusz Morski, Rybacki i Akwakultury oraz zmieniającym rozporządzenie (UE) 2017/1004 (Dz. Urz. UE L 247 z 13.07.2021, str. 1), zwanym dalej „rozporządzeniem EFMRA”, oraz w przepisach Unii Europejskiej wydanych na podstawie tego rozporządzenia, rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16 oraz Dz. Urz. UE L 275 z 25.10.2022, str. 23.), zwanym dalej „rozporządzeniem ogólnym”, oraz w przepisach Unii Europejskiej wydanych na podstawie tego rozporządzenia;
     - **a)**
     - **b)**
 
@@ -89,7 +114,7 @@ source: "eli-html"
 
 2. Priorytety oraz działania wymienione w ust. 1 służą realizacji celów szczegółowych, o których mowa w art. 14 ust. 1 lit. a-d i f, art. 26 ust. 1, art. 29 oraz art. 31 rozporządzenia EFMRA.
 
-#### Rozdział 2 System instytucjonalny
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -154,7 +179,7 @@ source: "eli-html"
 
 3. Do przetwarzania danych osobowych i dostępu do rejestrów wymienionych w art. 92 ust. 2 ustawy wdrożeniowej oraz rejestru statków rybackich, o którym mowa w art. 13 ustawy o rybołówstwie morskim, przepisy art. 87 ust. 2, art. 88, art. 89 ust. 1, art. 90, art. 91 oraz art. 92 ust. 1 i 3–7 ustawy wdrożeniowej stosuje się odpowiednio.
 
-#### Rozdział 3 Przyznawanie i wypłata pomocy
+#### Rozdział 3
 
 **Art. 10.** W ramach programu pomoc jest przyznawana:
 
@@ -174,7 +199,7 @@ source: "eli-html"
 
 2. Za okoliczność określoną w art. 11 ust. 1 lit. c rozporządzenia EFMRA uznaje się skazanie za którekolwiek z przestępstw, o których mowa w:
 
-- **1)** rozdziale XXII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.);
+- **1)** rozdziale XXII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818, 852 i 1234.);
 - **2)** art. 127a, art. 128 lub art. 128a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726, 2185 i 2375);
 - **3)** art. 31–34 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2022 r. poz. 1816);
 - **4)** art. 58–61 lub art. 64 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546);
@@ -186,7 +211,7 @@ source: "eli-html"
 3. Niedopuszczalność wniosku o dofinansowanie w rozumieniu:
 
 - **1)** art. 11 ust. 1 lit. a rozporządzenia EFMRA – stwierdza się na podstawie rejestru naruszeń, o którym mowa w art. 80 ustawy o rybołówstwie morskim;
-- **2)** art. 11 ust. 1 lit. b rozporządzenia EFMRA – stwierdza się na podstawie wspólnotowego wykazu statków prowadzących nielegalne, nieraportowane i nieuregulowane połowy, o którym mowa w art. 27 ust. 1 rozporządzenia Rady (WE) nr 1005/2008 z dnia 29 września 2008 r. ustanawiającego wspólnotowy system zapobiegania nielegalnym, nieraportowanym i nieuregulowanym połowom oraz ich powstrzymywania i eliminowania, zmieniającego rozporządzenia (EWG) nr 2847/93, (WE) nr 1936/2001 i (WE) nr 601/2004 oraz uchylającego rozporządzenia (WE) nr 1093/94 i (WE) nr 1447/1999 (Dz. Urz. UE L 286 z 29.10.2008, str. 1, z późn. zm.), oraz listy niewspółpracujących państw trzecich, o której mowa w art. 33 ust. 1 tego rozporządzenia.
+- **2)** art. 11 ust. 1 lit. b rozporządzenia EFMRA – stwierdza się na podstawie wspólnotowego wykazu statków prowadzących nielegalne, nieraportowane i nieuregulowane połowy, o którym mowa w art. 27 ust. 1 rozporządzenia Rady (WE) nr 1005/2008 z dnia 29 września 2008 r. ustanawiającego wspólnotowy system zapobiegania nielegalnym, nieraportowanym i nieuregulowanym połowom oraz ich powstrzymywania i eliminowania, zmieniającego rozporządzenia (EWG) nr 2847/93, (WE) nr 1936/2001 i (WE) nr 601/2004 oraz uchylającego rozporządzenia (WE) nr 1093/94 i (WE) nr 1447/1999 (Dz. Urz. UE L 286 z 29.10.2008, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 280 z 27.10.2009, str. 5, Dz. Urz. UE L 26 z 30.01.2010, str. 1, Dz. Urz. UE L 57 z 02.03.2011, str. 10 oraz Dz. Urz. UE L 233 z 08.09.2022, str. 36., oraz listy niewspółpracujących państw trzecich, o której mowa w art. 33 ust. 1 tego rozporządzenia.
 
 **Art. 12.** W ramach programu stosuje się następujące formy pomocy:
 
@@ -290,7 +315,7 @@ source: "eli-html"
 
 - **1)** poprawności sporządzenia,
 - **2)** zgodności planowanej operacji z celami działania, w ramach którego ma być realizowana operacja,
-- **3)** zasadności udzielenia pomocy na realizację planowanej operacji w sposób określony w przepisach wydanych na podstawie art. 26 ust. 1, 3, 5 lub 6.
+- **3)** zasadności udzielenia pomocy na realizację planowanej operacji – w sposób określony w przepisach wydanych na podstawie art. 26 ust. 1, 3, 5 lub 6.
 
 2. Rozpatrzenie wniosku o dofinansowanie przez Agencję następuje w terminie niezbędnym do należytego wyjaśnienia sprawy, w tym do przeprowadzenia przez Agencję kontroli wnioskodawcy, jeżeli jest prowadzona, nie dłuższym niż 6 miesięcy od dnia upływu terminu składania wniosków o dofinansowanie, a w przypadku gdy termin składania wniosków o dofinansowanie wynosi więcej niż 30 dni – od dnia złożenia wniosku o dofinansowanie.
 
@@ -321,7 +346,7 @@ source: "eli-html"
 
 1. Umowa o dofinansowanie:
 
-- **1)** jest zawierana zgodnie ze wzorem: przygotowanym przez Agencję i zatwierdzonym przez instytucję zarządzającą, umieszczonym na stronie programu pod rygorem nieważności, w formie pisemnej albo w formie elektronicznej;
+- **1)** jest zawierana zgodnie ze wzorem: przygotowanym przez Agencję i zatwierdzonym przez instytucję zarządzającą, umieszczonym na stronie programu – pod rygorem nieważności, w formie pisemnej albo w formie elektronicznej;
     - **a)**
     - **b)**
 
@@ -361,7 +386,7 @@ source: "eli-html"
 
 - **1)** wnioskuje o wypłatę pomocy w formie zaliczki lub refundacji,
 - **2)** wykazuje wydatki związane z realizacją operacji,
-- **3)** przekazuje informację o postępie realizacji operacji oraz dokumenty niezbędne do rozliczenia operacji, określone w przepisach wydanych na podstawie art. 26 ust. 1, 3, 5 lub 6, w szczególności w zakresie monitoringu rzeczowo-finansowego, harmonogramów finansowych i trwałości operacji, są składane przez beneficjenta za pomocą systemu teleinformatycznego.
+- **3)** przekazuje informację o postępie realizacji operacji – oraz dokumenty niezbędne do rozliczenia operacji, określone w przepisach wydanych na podstawie art. 26 ust. 1, 3, 5 lub 6, w szczególności w zakresie monitoringu rzeczowo-finansowego, harmonogramów finansowych i trwałości operacji, są składane przez beneficjenta za pomocą systemu teleinformatycznego.
 
 2. W przypadku gdy z powodów technicznych złożenie wniosku o płatność za pomocą systemu teleinformatycznego nie jest możliwe, beneficjent składa go, za zgodą Agencji, w sposób przez nią wskazany.
 
@@ -421,7 +446,7 @@ source: "eli-html"
 
 6. W przypadku wydania przez Komisję Europejską decyzji, o której mowa w art. 26 ust. 2 akapit drugi rozporządzenia EFMRA, minister właściwy do spraw rybołówstwa może określić, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy lub wysokość tej pomocy w przypadku działania, o którym mowa w art. 3 ust. 1 pkt 2 lit. h, uwzględniając tę decyzję Komisji Europejskiej, a także kierując się potrzebą zapewnienia prawidłowej realizacji programu, w szczególności przyznawania i wypłaty pomocy zgodnie z warunkami wynikającymi z programu.
 
-#### Rozdział 4 RLKS
+#### Rozdział 4
 
 **Art. 27.**
 
@@ -464,7 +489,7 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **3)** LSR będzie realizowana przez RLGD spełniającą wymagania określone w art. 28 zwane dalej „warunkami dostępu”.
+- **3)** LSR będzie realizowana przez RLGD spełniającą wymagania określone w art. 28 – zwane dalej „warunkami dostępu”.
 
 2. Wyboru LSR dokonuje się przy zastosowaniu kryteriów dotyczących:
 
@@ -475,7 +500,7 @@ source: "eli-html"
 - **5)** celów LSR i środków służących do ich osiągnięcia,
 - **6)** operacji planowanych do wsparcia w ramach LSR,
 - **7)** udziału społeczności lokalnej w przygotowaniu LSR,
-- **8)** procesu realizacji LSR i zdolności RLGD do jej realizacji zwanych dalej „kryteriami oceny LSR”.
+- **8)** procesu realizacji LSR i zdolności RLGD do jej realizacji – zwanych dalej „kryteriami oceny LSR”.
 
 3. Liczbę mieszkańców, o których mowa w ust. 1 pkt 2 lit. c, ustala się według stanu na dzień 31 grudnia 2020 r. na podstawie wynikowych informacji statystycznych ogłaszanych, udostępnianych lub rozpowszechnianych zgodnie z przepisami o statystyce publicznej.
 
@@ -530,7 +555,7 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **2)** do wniosku o wybór LSR nie dołączono LSR instytucja zarządzająca pozostawia wniosek bez rozpatrzenia.
+- **2)** do wniosku o wybór LSR nie dołączono LSR – instytucja zarządzająca pozostawia wniosek bez rozpatrzenia.
 
 2. W przypadku stwierdzenia, że wniosek o wybór LSR zawiera braki inne niż określone w ust. 1 lub że jest konieczne złożenie wyjaśnień lub dokumentów niezbędnych do oceny spełnienia warunków dostępu, instytucja zarządzająca wzywa RLGD do uzupełnienia tych braków lub złożenia tych wyjaśnień lub dokumentów w terminie 7 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku o wybór LSR bez rozpatrzenia.
 
@@ -615,7 +640,7 @@ source: "eli-html"
 
 2. W postępowaniu w sprawie wyboru LSR, w tym w zakresie oceny spełniania warunków dostępu i kryteriów oceny LSR, stosuje się odpowiednio przepisy art. 19 ust. 1–3.
 
-#### Rozdział 5 Zwrot pomocy
+#### Rozdział 5
 
 **Art. 40.**
 
@@ -623,7 +648,7 @@ source: "eli-html"
 
 - **1)** wykorzystana niezgodnie z przeznaczeniem lub
 - **2)** wykorzystana z naruszeniem procedur, o których mowa w art. 184 ustawy o finansach publicznych, lub
-- **3)** pobrana nienależnie lub w nadmiernej wysokości podlega zwrotowi wraz z odsetkami określonymi jak dla zaległości podatkowych, liczonymi od dnia wypłaty środków, chyba że przepisy, o których mowa w art. 1 pkt 1, lub ustawa o finansach publicznych stanowią inaczej.
+- **3)** pobrana nienależnie lub w nadmiernej wysokości – podlega zwrotowi wraz z odsetkami określonymi jak dla zaległości podatkowych, liczonymi od dnia wypłaty środków, chyba że przepisy, o których mowa w art. 1 pkt 1, lub ustawa o finansach publicznych stanowią inaczej.
 
 2. Pomocą pobraną nienależnie lub w nadmiernej wysokości, o której mowa w ust. 1 pkt 3, jest pomoc wypłacona beneficjentowi:
 
@@ -643,7 +668,7 @@ source: "eli-html"
 
 3. Dochodzenie zwrotu pomocy, o której mowa w art. 40 ust. 1, wraz z odsetkami, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-#### Rozdział 6 Kontrole
+#### Rozdział 6
 
 **Art. 42.**
 
@@ -702,7 +727,7 @@ source: "eli-html"
 - **2)** zapewnienie efektywności realizacji środków programu;
 - **3)** możliwość zweryfikowania tożsamości osoby upoważnionej do wykonywania czynności kontrolnych.
 
-#### Rozdział 7 Zmiany w przepisach
+#### Rozdział 7
 
 **Art. 47.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2022 r. poz. 2142 i 2236 oraz z 2023 r. poz. 412 i 919) w załączniku do ustawy w części III w kolumnie 2 w ust. 22:
 
@@ -891,8 +916,15 @@ source: "eli-html"
 - **10)** opracowuje oraz przekazuje Komisji Europejskiej sprawozdanie, o którym mowa w art. 22 ust. 2 rozporządzenia nr 1380/2013, oraz plan działania, o którym mowa w art. 22 ust. 4 rozporządzenia nr 1380/2013;
 - **11)** opracowuje wieloletni krajowy plan strategiczny, o którym mowa w art. 34 ust. 2 rozporządzenia nr 1380/2013. ” ;
 - **18)** w art. 107 w ust. 1 w pkt 1 w lit. a po wyrazach „nr 1005/2008” dodaje się wyrazy „, z wykorzystaniem dostępnych dokumentów i źródeł informacji, w tym komputerowej bazy danych, o której mowa w art. 109 ust. 1 rozporządzenia nr 1224/2009, oraz systemu zatwierdzania, o którym mowa w art. 109 ust. 3 rozporządzenia nr 1224/2009”;
-- **19)** w art. 109: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) wejścia na pokład statku, z którego są prowadzone połowy, w tym w ramach wykonywania rybołówstwa komercyjnego lub rybołówstwa rekreacyjnego, kontroli dokumentów tożsamości, dziennika połowowego, dokumentu przewozowego oraz dokumentów uprawniających do wykonywania rybołówstwa morskiego; ” , – pkt 4 i 5 otrzymują brzmienie: „ 4) kontroli w zakresie obrotu produktami rybołówstwa, w tym kontroli dokumentów pierwszej sprzedaży, faktur, handlowych dokumentów identyfikacyjnych lub innych dokumentów potwierdzających zakup lub sprzedaż ryb; 5) kontroli pomieszczeń statków, magazynów, przetwórni i innych pomieszczeń służących lub mogących służyć do przechowywania organizmów morskich; ” , – po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „ 5a) zatrzymania i kontroli środków transportu w miejscach związanych z wyładunkiem, przeładunkiem i magazynowaniem ryb; 5b) kontroli ważenia produktów rybołówstwa, w tym urządzeń ważących i rejestrów ważenia; ” , – pkt 9 otrzymuje brzmienie: „ 9) żądania zaprzestania połowów, w tym wybrania z wody narzędzi połowowych używanych do połowów. ” , ust. 2 otrzymuje brzmienie: „
+- **19)** w art. 109: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** wejścia na pokład statku, z którego są prowadzone połowy, w tym w ramach wykonywania rybołówstwa komercyjnego lub rybołówstwa rekreacyjnego, kontroli dokumentów tożsamości, dziennika połowowego, dokumentu przewozowego oraz dokumentów uprawniających do wykonywania rybołówstwa morskiego; ” , pkt 4 i 5 otrzymują brzmienie: „
+- **4)** kontroli w zakresie obrotu produktami rybołówstwa, w tym kontroli dokumentów pierwszej sprzedaży, faktur, handlowych dokumentów identyfikacyjnych lub innych dokumentów potwierdzających zakup lub sprzedaż ryb;
+- **5)** kontroli pomieszczeń statków, magazynów, przetwórni i innych pomieszczeń służących lub mogących służyć do przechowywania organizmów morskich; ” , po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „
+- **5a)** zatrzymania i kontroli środków transportu w miejscach związanych z wyładunkiem, przeładunkiem i magazynowaniem ryb;
+- **5b)** kontroli ważenia produktów rybołówstwa, w tym urządzeń ważących i rejestrów ważenia; ” , pkt 9 otrzymuje brzmienie: „
+- **9)** żądania zaprzestania połowów, w tym wybrania z wody narzędzi połowowych używanych do połowów. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Jeżeli zachodzi uzasadnione podejrzenie naruszenia przepisów o rybołówstwie morskim, inspektor rybołówstwa morskiego może zatrzymać statek, z którego są prowadzone połowy, o ile nie zachodzą okoliczności, o których mowa w art. 103 rozporządzenia nr 404/2011. ” ;
@@ -908,11 +940,11 @@ source: "eli-html"
 
 1a. W postępowaniu w sprawie wymierzenia kary pieniężnej kapitanowi statku rybackiego stroną jest również armator tego statku. ” .
 
-#### Rozdział 8 Przepisy przejściowe i przepisy końcowe
+#### Rozdział 8
 
 **Art. 52.**
 
-1. W przypadku otrzymania przed dniem wejścia w życie niniejszej ustawy przez państwowy instytut badawczy albo instytut naukowy, o których mowa w art. 73 ust. 1 ustawy zmienianej w art. 51, realizujących zadania określone w art. 25 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1380/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej polityki rybołówstwa, zmieniającego rozporządzenia Rady (WE) nr 1954/2003 i (WE) nr 1224/2009 oraz uchylającego rozporządzenia Rady (WE) nr 2371/2002 i (WE) nr 639/2004 oraz decyzję Rady 2004/585/WE (Dz. Urz. UE L 354 z 28.12.2013, str. 22, z późn. zm.), środków z budżetu państwa w formie dotacji celowej na finansowanie kosztów kwalifikowalnych ponoszonych na ich realizację są one obowiązane do zwrotu tych środków, do wysokości udziału refundowanego ze środków EFMRA, na rachunek dochodów właściwego dysponenta, ze środków otrzymanych z Agencji tytułem refundacji wydatków kwalifikowalnych ze środków EFMRA w ramach działania, o którym mowa w art. 3 ust. 1 pkt 1 lit. j, w terminie 10 dni od dnia otrzymania środków z Agencji tytułem refundacji wydatków kwalifikowalnych ze środków EFMRA w ramach tego działania.
+1. W przypadku otrzymania przed dniem wejścia w życie niniejszej ustawy przez państwowy instytut badawczy albo instytut naukowy, o których mowa w art. 73 ust. 1 ustawy zmienianej w art. 51, realizujących zadania określone w art. 25 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1380/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej polityki rybołówstwa, zmieniającego rozporządzenia Rady (WE) nr 1954/2003 i (WE) nr 1224/2009 oraz uchylającego rozporządzenia Rady (WE) nr 2371/2002 i (WE) nr 639/2004 oraz decyzję Rady 2004/585/WE (Dz. Urz. UE L 354 z 28.12.2013, str. 22, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86, Dz. Urz. UE L 133 z 29.05.2015, str. 1, Dz. Urz. UE L 302 z 17.11.2017, str. 1, Dz. Urz. UE L 122 z 17.05.2018, str. 35 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 105., środków z budżetu państwa w formie dotacji celowej na finansowanie kosztów kwalifikowalnych ponoszonych na ich realizację są one obowiązane do zwrotu tych środków, do wysokości udziału refundowanego ze środków EFMRA, na rachunek dochodów właściwego dysponenta, ze środków otrzymanych z Agencji tytułem refundacji wydatków kwalifikowalnych ze środków EFMRA w ramach działania, o którym mowa w art. 3 ust. 1 pkt 1 lit. j, w terminie 10 dni od dnia otrzymania środków z Agencji tytułem refundacji wydatków kwalifikowalnych ze środków EFMRA w ramach tego działania.
 
 2. Właściwy dysponent przekazuje środki, o których mowa w ust. 1, na dochody budżetu państwa w terminie 5 dni od dnia ich otrzymania.
 
@@ -933,6 +965,6 @@ source: "eli-html"
 **Art. 56.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 49 pkt 2 i 3, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-- **2)** art. 51 pkt 10, który wchodzi w życie z dniem 1 stycznia 2024 r.
+- **2)** art. 51 pkt 10, który wchodzi w życie z dniem 1 stycznia 2024 r. 1) Niniejsza ustawa służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16 oraz Dz. Urz. UE L 275 z 25.10.2022, str. 23); 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1139 z dnia 7 lipca 2021 r. ustanawiającego Europejski Fundusz Morski, Rybacki i Akwakultury oraz zmieniającego rozporządzenie (UE) 2017/1004 (Dz. Urz. UE L 247 z 13.07.2021, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 5 grudnia 2008 r. o organizacji rynku rybnego, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych oraz ustawę z dnia 19 grudnia 2014 r. o rybołówstwie morskim. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16 oraz Dz. Urz. UE L 275 z 25.10.2022, str. 23. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818, 852 i 1234. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 280 z 27.10.2009, str. 5, Dz. Urz. UE L 26 z 30.01.2010, str. 1, Dz. Urz. UE L 57 z 02.03.2011, str. 10 oraz Dz. Urz. UE L 233 z 08.09.2022, str. 36. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86, Dz. Urz. UE L 133 z 29.05.2015, str. 1, Dz. Urz. UE L 302 z 17.11.2017, str. 1, Dz. Urz. UE L 122 z 17.05.2018, str. 35 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 105.
 
 

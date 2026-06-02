@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-02-20 |
 | Data wydania | 2009-05-07 |
-| Wejście w życie | 2009-05-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090690586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/586/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505 oraz z 2009 r. Nr 3, poz. 11.) wprowadza się następujące zmiany:
 
 - **1)** w art. 23 ust. 3 otrzymuje brzmienie: „
 
@@ -36,5 +35,5 @@ source: "eli-html"
 
 5. Uzyskania koncesji, o której mowa w ust. 1 pkt 4, nie wymaga wykonywanie działalności gospodarczej w zakresie obrotu benzyną lotniczą oznaczoną symbolem PKWiU 23.20.11–40 oraz objętą kodem CN 2710 11 31, jeżeli roczna wartość obrotu nie przekracza równowartości 1 000 000 euro. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505 oraz z 2009 r. Nr 3, poz. 11.
 

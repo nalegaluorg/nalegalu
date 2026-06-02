@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 20 grudnia 2024 r. w sprawie stypendiów sportowych
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 20 grudnia 2024 r. w sprawie stypendiów sportowych Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-20 |
 | Data wydania | 2024-12-30 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001968) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1968/text.pdf) |
 
@@ -276,11 +275,9 @@ wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życi
 2)
 dotyczących wstrzymywania i pozbawiania stypendiów przyznanych za wyniki sportowe osiągnięte przed dniem wejścia w życie niniejszego rozporządzenia,
 3)
-dotyczących wniosków o przyznanie stypendium na podstawie wyników sportowych uprawniających do stypendium osiągniętych przed dniem wejścia w życie niniejszego rozporządzenia
-stosuje się przepisy niniejszego rozporządzenia.
+dotyczących wniosków o przyznanie stypendium na podstawie wyników sportowych uprawniających do stypendium osiągniętych przed dniem wejścia w życie niniejszego rozporządzenia – stosuje się przepisy niniejszego rozporządzenia.
 § 16.
 Traci moc rozporządzenie Ministra Sportu i Turystyki z dnia 17 maja 2022 r. w sprawie stypendiów sportowych (Dz. U. poz. 1298 oraz z 2023 r. poz. 2648).
 § 17.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 1) Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2722).
 

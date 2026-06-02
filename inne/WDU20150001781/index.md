@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-11-03 |
-| Wejście w życie | 2015-11-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001781) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1781/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) po art. 177 dodaje się art. 177a w brzmieniu: „
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418 i 1595.) po art. 177 dodaje się art. 177a w brzmieniu: „
 
 **Art. 177a.** W sprawie z powództwa sędziego, dyrektora sądu, referendarza sądowego lub asystenta sędziego o roszczenie majątkowe ze stosunku służbowego lub stosunku pracy, Minister Sprawiedliwości może w każdym stanie sprawy, aż do zamknięcia rozprawy w drugiej instancji, przystąpić do strony pozwanej. Do stanowiska Ministra Sprawiedliwości w procesie stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o interwencji ubocznej, z wyłączeniem art. 78 Kodeksu postępowania cywilnego. Minister Sprawiedliwości nie musi podawać interesu prawnego we wstąpieniu do sprawy. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418 i 1595.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-12-03 |
 | Data wydania | 2011-01-25 |
-| Wejście w życie | 2011-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110170079) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/79/text.pdf) |
 
@@ -61,7 +60,7 @@ source: "eli-html"
 1. W celu dokonania rozliczenia rocznego organ rentowy ustala łączną kwotę przychodu osiągniętą w okresie roku rozliczeniowego i porównuje ją z:
 
 - **1)** roczną dopuszczalną kwotą przychodu,
-- **2)** roczną graniczną kwotą przychodu z tym że okres, z którego ustala się kwoty roczne, ulega odpowiedniemu skróceniu w roku rozliczeniowym, w którym prawo do świadczenia przedemerytalnego powstało, ustało lub w którym wypłata tego świadczenia była wstrzymana z przyczyn określonych w art. 4 ust. 2 lub 4 lub na podstawie art. 103 ust. 3 ustawy o emeryturach i rentach z FUS.
+- **2)** roczną graniczną kwotą przychodu – z tym że okres, z którego ustala się kwoty roczne, ulega odpowiedniemu skróceniu w roku rozliczeniowym, w którym prawo do świadczenia przedemerytalnego powstało, ustało lub w którym wypłata tego świadczenia była wstrzymana z przyczyn określonych w art. 4 ust. 2 lub 4 lub na podstawie art. 103 ust. 3 ustawy o emeryturach i rentach z FUS.
 
 2. Jeżeli kwota przychodu uzyskana w roku rozliczeniowym przekroczyła roczną dopuszczalną kwotę przychodu, nie przekroczyła jednak rocznej granicznej kwoty przychodu, organ rentowy ustala łączną kwotę zmniejszenia w roku rozliczeniowym zgodnie z art. 5 ust. 3, z uwzględnieniem art. 5 ust. 4.
 

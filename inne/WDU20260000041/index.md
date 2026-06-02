@@ -11,7 +11,9 @@ domain: null
 source: "isap-pdf"
 ---
 
-# 41
+# zmianie ustawy transporcie kolejowym
+
+*USTAWA dnia 18 grudnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +24,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-12-18 |
 | Data wydania | 2026-01-14 |
-| Wejście w życie | 2026-01-29 |
 | Ostatnia zmiana | 2026-01-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000041) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/41/text.pdf) |
 
-USTAWA dnia 18 grudnia 2025 r.
-zmianie ustawy transporcie kolejowym
 Art. W ustawie dnia 28 marca 2003 r. transporcie kolejowym (Dz. U. 2025 r. poz. 1234) wprowadza się następujące zmiany: art. 9q 4 otrzymuje brzmienie: „4. Przepisy 2–3 stosuje się odpowiednio do doręczenia zawiadamiania stron wydaniu ustaleniu kolejowej wydanej przez organ drugiej instancji, wydanych na podstawie art. 9wa 1 art. 9yba 1, a także wydanych na podstawie art. 145, art. 155, art. 156 art. 161–163 Kodeksu postępowania administracyjnego.”;
 2) art. 9s:
 a) 4 otrzymuje brzmienie: „4. Do ustalenia wysokości wypłacenia odszkodowania przypadkach, których 3 3a, stosuje się odpowiednio przepisy gospodarce nieruchomościami, zastrzeżeniem art. 9wa 5, art. 9y art. 9z.”,

@@ -32,14 +32,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 19 czerwca 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2017 r. poz. 1749), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lutego 2018 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 487).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lutego 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 487), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lutego 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 487), które stanowią: „
 § 2.
 Do postępowań w sprawach zawieszania rent strukturalnych w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, wszczętych i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 czerwca 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 czerwca 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2018 r. poz. 1936) zarządza się, co następuje:
 § 1.
 Działanie „Renty strukturalne” objęte Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 jest wdrażane na terytorium Rzeczypospolitej Polskiej.
@@ -53,7 +51,7 @@ rozporządzeniu z dnia 17 października 2007 r. – rozumie się przez to rozpor
 (uchylony);
 3)
 następcy – rozumie się przez to osobę fizyczną, która rozpoczyna prowadzenie działalności rolniczej po raz pierwszy z dniem przejęcia gospodarstwa rolnego od producenta rolnego ubiegającego się o rentę strukturalną, jeżeli do dnia wydania decyzji o przyznaniu renty strukturalnej temu producentowi rolnemu została tej osobie przyznana pomoc finansowa na podstawie rozporządzenia z dnia 17 października 2007 r.;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lutego 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 487), które weszło w życie z dniem 8 marca 2018 r.)
 prawie do emerytury lub renty – rozumie się przez to prawo do emerytury lub renty na podstawie przepisów o ubezpieczeniu społecznym rolników lub o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, lub o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, lub o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, lub o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
 § 3.
 Renty strukturalne są przyznawane w danym województwie według kolejności ustalonej przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”, przy zastosowaniu kryteriów wyboru wniosków o przyznanie renty strukturalnej, o których mowa w § 19 ust. 5–8 i § 19a ust. 1–6.
@@ -92,11 +90,11 @@ przez przeniesienie własności gospodarstwa rolnego w całości na rzecz nastę
 b)
 przez przeniesienie własności gospodarstwa rolnego w całości na powiększenie jednego gospodarstwa rolnego, przy czym powierzchnia użytków rolnych wchodzących w skład gospodarstwa rolnego po powiększeniu nie może być mniejsza niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w kraju, z tym że w przypadku przekazywania gospodarstwa rolnego o powierzchni użytków rolnych większej niż 10 ha powierzchnia użytków rolnych wchodzących w skład gospodarstwa rolnego po powiększeniu powinna być większa co najmniej o 10% od powierzchni użytków rolnych wchodzących w skład przekazywanego gospodarstwa rolnego.
 2.
-Warunek przekazania gospodarstwa rolnego uważa się także za spełniony, jeżeli Agencja Nieruchomości Rolnych skorzystała z określonego w ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2018 r. poz. 1405, 1496 i 1637 oraz z 2019 r. poz. 1080) prawa pierwokupu lub prawa, o którym mowa w art. 4 ust. 1 tej ustawy, w zakresie użytków rolnych wchodzących w skład tego gospodarstwa.
+Warunek przekazania gospodarstwa rolnego uważa się także za spełniony, jeżeli Agencja Nieruchomości Rolnych Agencja Nieruchomości Rolnych została zniesiona z dniem 31 sierpnia 2017 r., na podstawie art. 45 ust. 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), który wszedł w życie z dniem 24 marca 2017 r.skorzystała z określonego w ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2018 r. poz. 1405, 1496 i 1637 oraz z 2019 r. poz. 1080) prawa pierwokupu lub prawa, o którym mowa w art. 4 ust. 1 tej ustawy, w zakresie użytków rolnych wchodzących w skład tego gospodarstwa.
 3.
 Przy ustalaniu spełnienia warunku przekazania gospodarstwa rolnego, o którym mowa w ust. 1 pkt 2 lub § 4 pkt 5, bierze się pod uwagę średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju, w roku poprzedzającym rok złożenia wniosku o rentę strukturalną.
 4.
-Średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju w danym roku przyjmuje się na podstawie informacji ogłaszanych przez Prezesa Agencji na podstawie art. 42 ust. 2 ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2012 r. poz. 1164 i 1529, z 2013 r. poz. 311 oraz z 2014 r. poz. 240).
+Średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju w danym roku przyjmuje się na podstawie informacji ogłaszanych przez Prezesa Agencji na podstawie art. 42 ust. 2 ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2012 r. poz. 1164 i 1529, z 2013 r. poz. 311 oraz z 2014 r. poz. 240)Utraciła moc na podstawie art. 61 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2018 r. poz. 1312), która weszła w życie z dniem 15 marca 2015 r..
 5.
 Przy ustalaniu powierzchni użytków rolnych, wchodzących w skład gospodarstwa rolnego po powiększeniu, sumuje się powierzchnię użytków rolnych stanowiących przedmiot:
 1)
@@ -145,7 +143,7 @@ prowadziła działalność rolniczą w gospodarstwie rolnym o łącznej powierzc
 3)
 była zatrudniona w gospodarstwie rolnym na podstawie umowy o pracę lub spółdzielczej umowy o pracę, wykonując pracę związaną z prowadzeniem działalności rolniczej, lub
 4)
-odbyła staż, o którym mowa w art. 53 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm.), obejmujący wykonywanie czynności związanych z prowadzeniem działalności rolniczej.
+odbyła staż, o którym mowa w art. 53 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215, 2245, 2432 i 2435 oraz z 2019 r. poz. 60, 577, 622, 730, 743 i 986.), obejmujący wykonywanie czynności związanych z prowadzeniem działalności rolniczej.
 4.
 (uchylony).
 § 8.
@@ -216,18 +214,16 @@ Jeżeli małżonek uprawnionego do renty strukturalnej, powiększonej o zwiększ
 § 15.
 1.
 W przypadku gdy:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 uprawniony do renty strukturalnej jest zatrudniony lub wykonuje inną pracę zarobkową podlegającą obowiązkowi ubezpieczenia społecznego, z wyjątkiem prowadzenia pozarolniczej działalności gospodarczej lub pełnienia funkcji członka rady nadzorczej,
 2)
-uprawniony do renty strukturalnej lub jego małżonek podejmie prowadzenie działalności rolniczej, jako właściciel (współwłaściciel) lub posiadacz (współposiadacz) gospodarstwa rolnego, z zastrzeżeniem ust. 2
-wypłata renty strukturalnej ulega zawieszeniu od miesiąca zaistnienia tych okoliczności.
+uprawniony do renty strukturalnej lub jego małżonek podejmie prowadzenie działalności rolniczej, jako właściciel (współwłaściciel) lub posiadacz (współposiadacz) gospodarstwa rolnego, z zastrzeżeniem ust. 2 – wypłata renty strukturalnej ulega zawieszeniu od miesiąca zaistnienia tych okoliczności.
 2.
 W przypadku nabycia lub odzyskania użytków rolnych odpowiednio:
 1)
 w drodze dziedziczenia lub
 2)
-w wyniku rozwiązania – z przyczyn niezależnych od uprawnionego do renty strukturalnej – umowy, na podstawie której uprzednio zbył on te grunty, albo w wyniku uchylenia lub stwierdzenia nieważności decyzji administracyjnej
-wypłata renty strukturalnej ulega zawieszeniu po roku od dnia zaistnienia tych okoliczności, jeżeli uprawniony do renty strukturalnej powiadomi o tych okolicznościach kierownika biura powiatowego Agencji, w terminie 14 dni od dnia ich zaistnienia, a jeżeli uprawniony do renty strukturalnej, z przyczyn leżących po jego stronie, nie powiadomi kierownika biura powiatowego Agencji, w terminie 14 dni od dnia zaistnienia tych okoliczności, wypłata renty strukturalnej ulega zawieszeniu od miesiąca zaistnienia tych okoliczności.
+w wyniku rozwiązania – z przyczyn niezależnych od uprawnionego do renty strukturalnej – umowy, na podstawie której uprzednio zbył on te grunty, albo w wyniku uchylenia lub stwierdzenia nieważności decyzji administracyjnej – wypłata renty strukturalnej ulega zawieszeniu po roku od dnia zaistnienia tych okoliczności, jeżeli uprawniony do renty strukturalnej powiadomi o tych okolicznościach kierownika biura powiatowego Agencji, w terminie 14 dni od dnia ich zaistnienia, a jeżeli uprawniony do renty strukturalnej, z przyczyn leżących po jego stronie, nie powiadomi kierownika biura powiatowego Agencji, w terminie 14 dni od dnia zaistnienia tych okoliczności, wypłata renty strukturalnej ulega zawieszeniu od miesiąca zaistnienia tych okoliczności.
 2a.
 W przypadku gdy pobierający rentę strukturalną nie złoży potwierdzenia złożenia wniosku, o którym mowa w § 13a ust. 3, wypłata renty strukturalnej ulega zawieszeniu:
 1)
@@ -405,16 +401,67 @@ Jeżeli w wyniku weryfikacji wniosku o przyznanie renty strukturalnej zostanie u
 1)
 nie spełnia warunków określonych w § 4 pkt 1–4 lub § 11 lub
 2)
-nie jest właścicielem gospodarstwa rolnego o powierzchni użytków rolnych określonej w § 4 pkt 5, współwłaścicielem takiego gospodarstwa wraz z małżonkiem ani właścicielem takiego gospodarstwa nie jest małżonek rolnika
-kierownik biura powiatowego Agencji, w drodze decyzji administracyjnej, odmawia przyznania renty strukturalnej.
+nie jest właścicielem gospodarstwa rolnego o powierzchni użytków rolnych określonej w § 4 pkt 5, współwłaścicielem takiego gospodarstwa wraz z małżonkiem ani właścicielem takiego gospodarstwa nie jest małżonek rolnika – kierownik biura powiatowego Agencji, w drodze decyzji administracyjnej, odmawia przyznania renty strukturalnej.
 5.
 W przypadku wniosków o przyznanie renty strukturalnej, w wyniku weryfikacji których zostało ustalone, że wnioskodawca spełnia warunki określone w § 4 pkt 1–4 i § 11 oraz jest właścicielem gospodarstwa rolnego o powierzchni użytków rolnych określonej w § 4 pkt 5, współwłaścicielem takiego gospodarstwa wraz z małżonkiem albo właścicielem takiego gospodarstwa jest małżonek rolnika, kierownik biura powiatowego Agencji, w terminie 7 dni od dnia zakończenia weryfikacji, określa dla każdego z wniosków zapotrzebowanie na środki, jakie wynika z wniosku, stanowiące sumę środków, jakie maksymalnie miałyby być wypłacone danemu wnioskodawcy przez 52 miesiące, oraz przyznaje dla każdego z wniosków punkty na podstawie następujących kryteriów:
 1)
 powierzchnia użytków rolnych, zadeklarowanych do przekazania, wchodzących w skład przekazywanego gospodarstwa rolnego
 1)
-powierzchnia użytków rolnych, zadeklarowanych do przekazania, wchodzących w skład przekazywanego gospodarstwa rolnego Lp. Powierzchnia użytków rolnych, zadeklarowanych do przekazania, wchodzących w skład przekazywanego gospodarstwa rolnego Liczba przyznawanych punktów 1 2 3 1 powierzchnia użytków rolnych jest: a) nie niniejsza niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w kraju i nie większa niż 1,5-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest większa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju, albo przyznaje się nie mniej niż 0 i nie więcej niż 20 punktów, obliczanych według wzoru: a) [wzór]gdzie: p – liczba punktów, y – średnia powierzchnia użytków rolnych w gospodarstwierolnym w kraju (ha), z – powierzchnia użytków rolnych zadeklarowanych do prze-kazania (ha) b) nie mniejsza niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie i nie większa niż 1,5-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest mniejsza od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju b) [wzór]gdzie: p – liczba punktów, y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w województwie (ha), z – powierzchnia użytków rolnych zadeklarowanych do prze-kazania (ha) 2 powierzchnia użytków rolnych jest: a) większa niż 1,5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju i nie większa niż 3-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest większa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju, albo przyznaje się nie mniej niż 20 i nie więcej niż 50 punktów, obliczanych według wzoru: a) [wzór]gdzie: p – liczba punktów, y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w kraju (ha), z – powierzchnia użytków rolnych zadeklarowanych do przekazania (ha) b) większa niż 1,5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie i nie większa niż 3-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest mniejsza od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju b) [wzór]gdzie: p – liczba punktów, y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w województwie (ha), z – powierzchnia użytków rolnych zadeklarowanych do przekazania (ha) 3 powierzchnia użytków rolnych jest większa niż 3-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju albo jest większa niż 3-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie przyznaje się 50 punktów
+powierzchnia użytków rolnych, zadeklarowanych do przekazania, wchodzących w skład przekazywanego gospodarstwa rolnego
+Lp. Powierzchnia użytków rolnych, zadeklarowanych do przekazania, wchodzących w skład przekazywanego gospodarstwa rolnego Liczba przyznawanych punktów 1 2 3 1 powierzchnia użytków rolnych jest:
+a) nie niniejsza niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w kraju i nie większa niż 1,5-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest większa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju,
+albo przyznaje się nie mniej niż 0 i nie więcej niż 20 punktów, obliczanych według wzoru:
+a) [wzór]
+gdzie:
+p – liczba punktów,
+y – średnia powierzchnia użytków rolnych w gospodarstwie
+rolnym w kraju (ha),
+z – powierzchnia użytków rolnych zadeklarowanych do prze-
+kazania (ha) b) nie mniejsza niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie i nie większa niż 1,5-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest mniejsza od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju b) [wzór]
+gdzie:
+p – liczba punktów,
+y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w województwie (ha),
+z – powierzchnia użytków rolnych zadeklarowanych do prze-
+kazania (ha) 2 powierzchnia użytków rolnych jest:
+a) większa niż 1,5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju i nie większa niż 3-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest większa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju,
+albo przyznaje się nie mniej niż 20 i nie więcej niż 50 punktów, obliczanych według wzoru:
+a) [wzór]
+gdzie:
+p – liczba punktów,
+y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w kraju (ha),
+z – powierzchnia użytków rolnych zadeklarowanych do przekazania (ha) b) większa niż 1,5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie i nie większa niż 3-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest mniejsza od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju b) [wzór]
+gdzie:
+p – liczba punktów,
+y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w województwie (ha),
+z – powierzchnia użytków rolnych zadeklarowanych do przekazania (ha) 3 powierzchnia użytków rolnych jest większa niż 3-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju albo jest większa niż 3-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie przyznaje się 50 punktów
 2)
-powierzchnia użytków rolnych wchodzących w skład gospodarstwa rolnego po powiększeniu lub zadeklarowana do przekazania na rzecz następcy Lp. Powierzchnia użytków rolnych wchodzącychw skład gospodarstwa rolnego po powiększeniulub zadeklarowana do przekazania na rzecznastępcy Liczba przyznawanych punktów 1 2 3 1 powierzchnia użytków rolnych jest: a) nie mniejsza niż 1,5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju i nie większa niż 3-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest większa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju, albo przyznaje się nie mniej niż 10 i nie więcej niż 20 punktów, obliczanych według wzoru: a) [wzór]gdzie: p – liczba punktów, y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w kraju (ha), z- powierzchnia użytków rolnych po powiększeniu lub zadeklarowana do przekazania na rzecz następcy (ha) b) nie mniejsza niż 1,5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie i nie większa niż 3-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest mniejsza od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju b) [wzór]gdzie: p – liczba punktów, y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w województwie (ha), z- powierzchnia użytków rolnych po powiększeniu lub zadeklarowana do przekazania na rzecz następcy (ha) 2 powierzchnia użytków rolnych jest: a) większa niż 3-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju i nie większa niż 5-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest większa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju, albo przyznaje się nie mniej niż 20 i nie więcej niż 40 punktów, obliczanych według wzoru: a) [wzór]gdzie: p – liczba punktów, y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w kraju (ha), z- powierzchnia użytków rolnych po powiększeniu lub zadeklarowana do przekazania na rzecz następcy (ha) b) większa niż 3-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie i nie większa niż 5-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest mniejsza od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju b) [wzór]gdzie: p – liczba punktów, y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w województwie (ha), z- powierzchnia użytków rolnych po powiększeniu lub zadeklarowana do przekazania na rzecz następcy (ha) 3 powierzchnia użytków rolnych jest większa niż 5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju albo jest większa niż 5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie przyznaje się 40 punktów
+powierzchnia użytków rolnych wchodzących w skład gospodarstwa rolnego po powiększeniu lub zadeklarowana do przekazania na rzecz następcy
+Lp. Powierzchnia użytków rolnych wchodzących
+w skład gospodarstwa rolnego po powiększeniu
+lub zadeklarowana do przekazania na rzecz
+następcy Liczba przyznawanych punktów 1 2 3 1 powierzchnia użytków rolnych jest:
+a) nie mniejsza niż 1,5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju i nie większa niż 3-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest większa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju,
+albo przyznaje się nie mniej niż 10 i nie więcej niż 20 punktów, obliczanych według wzoru:
+a) [wzór]
+gdzie:
+p – liczba punktów,
+y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w kraju (ha),
+z- powierzchnia użytków rolnych po powiększeniu lub zadeklarowana do przekazania na rzecz następcy (ha) b) nie mniejsza niż 1,5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie i nie większa niż 3-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest mniejsza od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju b) [wzór]
+gdzie:
+p – liczba punktów,
+y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w województwie (ha),
+z- powierzchnia użytków rolnych po powiększeniu lub zadeklarowana do przekazania na rzecz następcy (ha) 2 powierzchnia użytków rolnych jest:
+a) większa niż 3-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju i nie większa niż 5-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest większa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju,
+albo przyznaje się nie mniej niż 20 i nie więcej niż 40 punktów, obliczanych według wzoru:
+a) [wzór]
+gdzie:
+p – liczba punktów,
+y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w kraju (ha),
+z- powierzchnia użytków rolnych po powiększeniu lub zadeklarowana do przekazania na rzecz następcy (ha) b) większa niż 3-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie i nie większa niż 5-krotność tej średniej – w przypadku województw, w których średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie jest mniejsza od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju b) [wzór]
+gdzie:
+p – liczba punktów,
+y – średnia powierzchnia użytków rolnych w gospodarstwie rolnym w województwie (ha),
+z- powierzchnia użytków rolnych po powiększeniu lub zadeklarowana do przekazania na rzecz następcy (ha) 3 powierzchnia użytków rolnych jest większa niż 5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju albo jest większa niż 5-krotność średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie przyznaje się 40 punktów
 3)
 jeżeli przekazanie gospodarstwa rolnego następuje na rzecz osoby fizycznej poniżej 40. roku życia, przyznaje się 5 punktów;
 4)
@@ -498,7 +545,7 @@ Uprawniony do pobierania renty strukturalnej informuje kierownika biura powiatow
 § 24.
 (uchylony).
 § 25.
-Średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju za rok 2006 przyjmuje się na podstawie informacji ogłoszonych przez Prezesa Agencji na podstawie art. 56 ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego.
+Średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju za rok 2006 przyjmuje się na podstawie informacji ogłoszonych przez Prezesa Agencji na podstawie art. 56 ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniegoUtraciła moc na podstawie art. 61 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2018 r. poz. 1312), która weszła w życie z dniem 15 marca 2015 r..
 § 26.
 Termin składania w 2007 r. wniosków o przyznanie renty strukturalnej Prezes Agencji poda do publicznej wiadomości, w sposób określony w § 21, do dnia 31 lipca 2007 r.
 § 27.
@@ -506,8 +553,7 @@ Do postępowań w sprawach przyznania rent strukturalnych prowadzonych w ramach 
 § 28.
 W przypadku wniosków o przyznanie renty strukturalnej złożonych w 2007 r. postanowienia, o których mowa w § 19 ust. 4, wydaje się od dnia zatwierdzenia Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 przez Komisję Europejską.
 § 29.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lutego 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 487), które weszło w życie z dniem 8 marca 2018 r. 3) Agencja Nieruchomości Rolnych została zniesiona z dniem 31 sierpnia 2017 r., na podstawie art. 45 ust. 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), który wszedł w życie z dniem 24 marca 2017 r. 4) Utraciła moc na podstawie art. 61 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2018 r. poz. 1312), która weszła w życie z dniem 15 marca 2015 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215, 2245, 2432 i 2435 oraz z 2019 r. poz. 60, 577, 622, 730, 743 i 986. 6) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 7) Rozporządzenie zostało ogłoszone w dniu 21 czerwca 2007 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 21 czerwca 2007 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lutego 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Renty strukturalne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 487), które weszło w życie z dniem 8 marca 2018 r. 3) Agencja Nieruchomości Rolnych została zniesiona z dniem 31 sierpnia 2017 r., na podstawie art. 45 ust. 1 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), który wszedł w życie z dniem 24 marca 2017 r. 4) Utraciła moc na podstawie art. 61 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2018 r. poz. 1312), która weszła w życie z dniem 15 marca 2015 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215, 2245, 2432 i 2435 oraz z 2019 r. poz. 60, 577, 622, 730, 743 i 986. 6) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 7) Rozporządzenie zostało ogłoszone w dniu 21 czerwca 2007 r.
 Załącznik – Dokumenty potwierdzające posiadanie kwalifikacji zawodowych przydatnych do prowadzenia działalności rolniczej
 1.
 Dokumentem potwierdzającym posiadanie wykształcenia rolniczego:
@@ -536,8 +582,7 @@ marketing artykułów rolnych;
 4)
 rachunkowość rolnicza;
 5)
-agrobiznes.
-Dokumentem potwierdzającym ukończenie studiów podyplomowych jest świadectwo ich ukończenia wraz z wykazem przedmiotów objętych programem studiów oraz ich wymiarem godzinowym.
+agrobiznes. Dokumentem potwierdzającym ukończenie studiów podyplomowych jest świadectwo ich ukończenia wraz z wykazem przedmiotów objętych programem studiów oraz ich wymiarem godzinowym.
 5.
 Dokumentem potwierdzającym posiadanie wykształcenia:
 1)
@@ -579,8 +624,7 @@ technika rolnicza i leśna;
 5)
 zootechnika;
 6)
-architektura krajobrazu.
-W przypadku ukończenia studiów na kierunku innym niż wymienione w pkt 1–6 uznaje się za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej kierunki studiów, dla których zakres kształcenia albo standardy kształcenia obejmują treści związane z rolnictwem w wymiarze łącznym co najmniej 120 godzin.
+architektura krajobrazu. W przypadku ukończenia studiów na kierunku innym niż wymienione w pkt 1–6 uznaje się za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej kierunki studiów, dla których zakres kształcenia albo standardy kształcenia obejmują treści związane z rolnictwem w wymiarze łącznym co najmniej 120 godzin.
 7.
 Wykaz zawodów i specjalności wykształcenia średniego zawodowego:
 1)

@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-12 |
 | Data wydania | 2014-12-01 |
-| Wejście w życie | 2015-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001684) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1684/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 58 pkt 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 58 pkt 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 25 września 2014 r. w sprawie określenia sądów rejonowych prowadzących księgi wieczyste oraz obszarów ich właściwości miejscowej (Dz. U. poz. 1398) w § 1 wprowadza się następujące zmiany:
 1)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
 w obszarze właściwości Sądu Okręgowego w Bydgoszczy:
 a)
@@ -50,11 +48,9 @@ Sąd Rejonowy w Świeciu – dla obszaru właściwości tego Sądu,
 g)
 Sąd Rejonowy w Tucholi – dla obszaru właściwości tego Sądu,
 h)
-Sąd Rejonowy w Żninie – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy w Żninie – dla obszaru właściwości tego Sądu; ” ;
 2)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
 w obszarze właściwości Sądu Okręgowego w Elblągu:
 a)
@@ -68,17 +64,13 @@ Sąd Rejonowy w Iławie – dla obszaru właściwości tego Sądu,
 e)
 Sąd Rejonowy w Nowym Mieście Lubawskim – dla obszaru właściwości tego Sądu,
 f)
-Sąd Rejonowy w Ostródzie – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy w Ostródzie – dla obszaru właściwości tego Sądu; ” ;
 3)
-w pkt 8 w lit. d średnik na końcu zdania zastępuje się przecinkiem i dodaje się lit. e w brzmieniu:
-„
+w pkt 8 w lit. d średnik na końcu zdania zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „
 e)
-Sąd Rejonowy w Sulęcinie – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy w Sulęcinie – dla obszaru właściwości tego Sądu; ” ;
 4)
-pkt 10 otrzymuje brzmienie:
-„
+pkt 10 otrzymuje brzmienie: „
 10)
 w obszarze właściwości Sądu Okręgowego w Kaliszu:
 a)
@@ -94,11 +86,9 @@ Sąd Rejonowy w Ostrowie Wielkopolskim – dla obszaru właściwości tego Sądu
 f)
 Sąd Rejonowy w Ostrzeszowie – dla obszaru właściwości tego Sądu,
 g)
-Sąd Rejonowy w Pleszewie – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy w Pleszewie – dla obszaru właściwości tego Sądu; ” ;
 5)
-pkt 12 otrzymuje brzmienie:
-„
+pkt 12 otrzymuje brzmienie: „
 12)
 w obszarze właściwości Sądu Okręgowego w Kielcach:
 a)
@@ -124,11 +114,9 @@ Sąd Rejonowy w Skarżysku-Kamiennej – dla obszaru właściwości tego Sądu,
 k)
 Sąd Rejonowy w Starachowicach – dla obszaru właściwości tego Sądu,
 l)
-Sąd Rejonowy we Włoszczowie – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy we Włoszczowie – dla obszaru właściwości tego Sądu; ” ;
 6)
-pkt 14–17 otrzymują brzmienie:
-„
+pkt 14–17 otrzymują brzmienie: „
 14)
 w obszarze właściwości Sądu Okręgowego w Koszalinie:
 a)
@@ -196,17 +184,13 @@ Sąd Rejonowy w Legnicy – dla obszaru właściwości tego Sądu,
 d)
 Sąd Rejonowy w Lubinie – dla obszaru właściwości tego Sądu,
 e)
-Sąd Rejonowy w Złotoryi – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy w Złotoryi – dla obszaru właściwości tego Sądu; ” ;
 7)
-w pkt 18 w lit. k średnik na końcu zdania zastępuje się przecinkiem i dodaje się lit. I w brzmieniu:
-„
+w pkt 18 w lit. k średnik na końcu zdania zastępuje się przecinkiem i dodaje się lit. I w brzmieniu: „
 l)
-Sąd Rejonowy we Włodawie – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy we Włodawie – dla obszaru właściwości tego Sądu; ” ;
 8)
-pkt 22 i 23 otrzymują brzmienie:
-„
+pkt 22 i 23 otrzymują brzmienie: „
 22)
 w obszarze właściwości Sądu Okręgowego w Olsztynie:
 a)
@@ -248,11 +232,9 @@ Sąd Rejonowy w Opolu – dla obszaru właściwości tego Sądu,
 h)
 Sąd Rejonowy w Prudniku – dla obszaru właściwości tego Sądu,
 i)
-Sąd Rejonowy w Strzelcach Opolskich – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy w Strzelcach Opolskich – dla obszaru właściwości tego Sądu; ” ;
 9)
-pkt 28–30 otrzymują brzmienie:
-„
+pkt 28–30 otrzymują brzmienie: „
 28)
 w obszarze właściwości Sądu Okręgowego w Przemyślu:
 a)
@@ -290,11 +272,9 @@ Sąd Rejonowy w Łańcucie – dla obszaru właściwości tego Sądu,
 d)
 Sąd Rejonowy w Ropczycach – dla obszaru właściwości tego Sądu,
 e)
-Sąd Rejonowy w Rzeszowie – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy w Rzeszowie – dla obszaru właściwości tego Sądu; ” ;
 10)
-pkt 33 otrzymuje brzmienie:
-„
+pkt 33 otrzymuje brzmienie: „
 33)
 w obszarze właściwości Sądu Okręgowego w Słupsku:
 a)
@@ -308,11 +288,9 @@ Sąd Rejonowy w Lęborku – dla obszaru właściwości tego Sądu,
 e)
 Sąd Rejonowy w Miastku – dla obszaru właściwości tego Sądu,
 f)
-Sąd Rejonowy w Słupsku – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy w Słupsku – dla obszaru właściwości tego Sądu; ” ;
 11)
-pkt 35 otrzymuje brzmienie:
-„
+pkt 35 otrzymuje brzmienie: „
 35)
 w obszarze właściwości Sądu Okręgowego w Szczecinie:
 a)
@@ -334,11 +312,9 @@ Sąd Rejonowy w Stargardzie Szczecińskim – dla obszaru właściwości tego S�
 i)
 Sąd Rejonowy Szczecin-Prawobrzeże i Zachód w Szczecinie – dla obszaru właściwości tego Sądu i Sądu Rejonowego Szczecin-Centrum w Szczecinie,
 j)
-Sąd Rejonowy w Świnoujściu – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy w Świnoujściu – dla obszaru właściwości tego Sądu; ” ;
 12)
-pkt 37 otrzymuje brzmienie:
-„
+pkt 37 otrzymuje brzmienie: „
 37)
 w obszarze właściwości Sądu Okręgowego w Tarnobrzegu:
 a)
@@ -350,11 +326,9 @@ Sąd Rejonowy w Nisku – dla obszaru właściwości tego Sądu,
 d)
 Sąd Rejonowy w Stalowej Woli – dla obszaru właściwości tego Sądu,
 e)
-Sąd Rejonowy w Tarnobrzegu – dla obszaru właściwości tego Sądu
-” ;
+Sąd Rejonowy w Tarnobrzegu – dla obszaru właściwości tego Sądu ” ;
 13)
-pkt 39 otrzymuje brzmienie:
-„
+pkt 39 otrzymuje brzmienie: „
 39)
 w obszarze właściwości Sądu Okręgowego w Toruniu:
 a)
@@ -368,11 +342,9 @@ Sąd Rejonowy w Grudziądzu – dla obszaru właściwości tego Sądu,
 e)
 Sąd Rejonowy w Toruniu – dla obszaru właściwości tego Sądu,
 f)
-Sąd Rejonowy w Wąbrzeźnie – dla obszaru właściwości tego Sądu;
-” ;
+Sąd Rejonowy w Wąbrzeźnie – dla obszaru właściwości tego Sądu; ” ;
 14)
-pkt 42–45 otrzymują brzmienie:
-„
+pkt 42–45 otrzymują brzmienie: „
 42)
 w obszarze właściwości Sądu Okręgowego we Włocławku:
 a)
@@ -435,8 +407,7 @@ Sąd Rejonowy w Zielonej Górze – dla obszaru właściwości tego Sądu,
 f)
 Sąd Rejonowy w Żaganiu – dla obszaru właściwości tego Sądu,
 g)
-Sąd Rejonowy w Żarach – dla obszaru właściwości tego Sądu.
-” .
+Sąd Rejonowy w Żarach – dla obszaru właściwości tego Sądu. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289.
 

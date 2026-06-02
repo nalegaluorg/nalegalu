@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 stycznia 2022 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw
+# Ustawa z dnia 13 stycznia 2022 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-13 |
 | Data wydania | 2022-01-31 |
-| Wejście w życie | 2022-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/218/text.pdf) |
 
@@ -40,7 +39,7 @@ source: "eli-html"
 - **5)** długotrwale bezrobotnych w rozumieniu przepisów o promocji zatrudnienia i instytucjach rynku pracy,
 - **6)** zwalnianych z zakładów karnych, mających trudności w integracji ze środowiskiem, w rozumieniu przepisów o pomocy społecznej,
 - **7)** uchodźców realizujących indywidualny program integracji, w rozumieniu przepisów o pomocy społecznej,
-- **8)** osób niepełnosprawnych, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych którzy podlegają wykluczeniu społecznemu i ze względu na swoją sytuację życiową nie są w stanie własnym staraniem zaspokoić swoich podstawowych potrzeb życiowych i znajdują się w sytuacji uniemożliwiającej lub ograniczającej uczestnictwo w życiu zawodowym, społecznym i rodzinnym. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **8)** osób niepełnosprawnych, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych – którzy podlegają wykluczeniu społecznemu i ze względu na swoją sytuację życiową nie są w stanie własnym staraniem zaspokoić swoich podstawowych potrzeb życiowych i znajdują się w sytuacji uniemożliwiającej lub ograniczającej uczestnictwo w życiu zawodowym, społecznym i rodzinnym. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **b)**
 
 3a. Osoby, o których mowa w ust. 3 pkt 6, mogą uczestniczyć w zajęciach prowadzonych przez kluby integracji społecznej na zasadach określonych w art. 18 ust. 3–5a. ” ;
@@ -97,16 +96,20 @@ source: "eli-html"
 - **8)** w art. 8: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Marszałek województwa, na zasadach określonych w porozumieniu zawartym z instytucją tworzącą lub podmiotem prowadzącym klub integracji społecznej, może przyznać Centrum lub klubowi integracji społecznej dotację na wyposażenie oraz przyznać Centrum dotację na działalność przez okres pierwszych 3 miesięcy z dochodów własnych samorządu województwa przeznaczonych na realizację wojewódzkiego programu profilaktyki i rozwiązywania problemów alkoholowych. ” , w ust. 2: – we wprowadzeniu do wyliczenia skreśla się wyraz „pierwsze”, – w pkt 1 po wyrazie „Centrum” dodaje się wyrazy „lub klubie integracji społecznej”, – pkt 3 otrzymuje brzmienie: „ 3) zakup surowców, materiałów i narzędzi niezbędnych do prowadzenia działalności. ” , w ust. 4 skreśla się wyraz „pierwsze”;
+1. Marszałek województwa, na zasadach określonych w porozumieniu zawartym z instytucją tworzącą lub podmiotem prowadzącym klub integracji społecznej, może przyznać Centrum lub klubowi integracji społecznej dotację na wyposażenie oraz przyznać Centrum dotację na działalność przez okres pierwszych 3 miesięcy z dochodów własnych samorządu województwa przeznaczonych na realizację wojewódzkiego programu profilaktyki i rozwiązywania problemów alkoholowych. ” , w ust. 2: – we wprowadzeniu do wyliczenia skreśla się wyraz „pierwsze”, – w pkt 1 po wyrazie „Centrum” dodaje się wyrazy „lub klubie integracji społecznej”, pkt 3 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **3)** zakup surowców, materiałów i narzędzi niezbędnych do prowadzenia działalności. ” , w ust. 4 skreśla się wyraz „pierwsze”;
+    - **c)**
+
 - **9)** art. 8a otrzymuje brzmienie: „
 
-**Art. 8a.** Do finansowania, o którym mowa w art. 7 ust. 1 pkt 2 lit. c i d i ust. 2 oraz w art. 8, dotyczącego utworzenia Centrum przez organizację pozarządową lub podmioty, o których mowa w art. 3 ust. 3 pkt 1 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, nie stosuje się art. 221 ust. 2–4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.). ” ;
+**Art. 8a.** Do finansowania, o którym mowa w art. 7 ust. 1 pkt 2 lit. c i d i ust. 2 oraz w art. 8, dotyczącego utworzenia Centrum przez organizację pozarządową lub podmioty, o których mowa w art. 3 ust. 3 pkt 1 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, nie stosuje się art. 221 ust. 2–4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270.). ” ;
 
-- **10)** w art. 10: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Działalność Centrum jest finansowana w szczególności z: ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) dotacji z budżetu państwa pochodzących z resortowych programów na rzecz rozwoju Centrów i klubów integracji społecznej, o których mowa w art. 18ca. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+- **10)** w art. 10: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Działalność Centrum jest finansowana w szczególności z: ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
     - **a)**
+
+- **5)** dotacji z budżetu państwa pochodzących z resortowych programów na rzecz rozwoju Centrów i klubów integracji społecznej, o których mowa w art. 18ca. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
     - **b)**
 
 1b. Działalność Centrum zorganizowanego w formie samorządowego zakładu budżetowego może być dofinansowana w formie dotacji podmiotowej pochodzącej od instytucji tworzącej. ” , w ust. 2 we wprowadzeniu do wyliczenia po wyrazach „organizację pozarządową” dodaje się wyrazy „lub podmioty, o których mowa w art. 3 ust. 3 pkt 1 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie,”, w ust. 4 po wyrazach „organizacja pozarządowa” dodaje się wyrazy „lub podmioty, o których mowa w art. 3 ust. 3 pkt 1 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie”;
@@ -203,7 +206,7 @@ source: "eli-html"
 
 4. Prezes Zakładu Ubezpieczeń Społecznych ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, uwzględnianą od tego terminu kwotę miesięczną uprawniającą do świadczenia uzupełniającego, o której mowa w ust. 2 oraz w art. 4 ust. 1 i 2. ” .
 
-**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459.) wprowadza się następujące zmiany:
 
 - **1)** w art. 31a: po ust. 1b dodaje się ust. 1c w brzmieniu: „
     - **a)**
@@ -271,6 +274,6 @@ source: "eli-html"
 - **1)** art. 1 pkt 4, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia;
 - **2)** art. 1 pkt 12 lit. a, c oraz d, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia, z mocą od dnia 1 stycznia 2022 r.;
 - **3)** art. 4 pkt 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
-- **4)** art. 4 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 22 grudnia 2021 r.
+- **4)** art. 4 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 22 grudnia 2021 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459.
 
 

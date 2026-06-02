@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 49 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 49 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), który stanowi: „
 
 **Art. 49.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -48,7 +47,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
 - **1)** data zakończenia przewozu towaru – datę dostarczenia towaru na terytorium kraju do miejsca wskazanego w zgłoszeniu albo datę objęcia na terytorium kraju procedurą celną towaru będącego przedmiotem przewozu albo datę wywozu towaru z terytorium kraju;
-- **2)** kierujący – osobę fizyczną: która kieruje pojazdem samochodowym lub zespołem pojazdów składającym się z pojazdu samochodowego oraz przyczepy lub naczepy w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.), będącą maszynistą w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731);
+- **2)** kierujący – osobę fizyczną: która kieruje pojazdem samochodowym lub zespołem pojazdów składającym się z pojazdu samochodowego oraz przyczepy lub naczepy w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834.), będącą maszynistą w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731);
     - **a)**
     - **b)**
 
@@ -96,7 +95,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Systemowi monitorowania przewozu i obrotu podlega przewóz:
 
-- **1)** towarów objętych pozycjami CN: 2207 nieoznaczonych znakami akcyzy, 2707, 2710, 2905, 2917, 3403, 3811, 3814 zawierających alkohol etylowy, 3820 zawierających alkohol etylowy, 3824, 3826 jeżeli masa brutto przesyłki towarów objętych tymi pozycjami przekracza 500 kg lub jej objętość przekracza 500 litrów;
+- **1)** towarów objętych pozycjami CN: 2207 nieoznaczonych znakami akcyzy, 2707, 2710, 2905, 2917, 3403, 3811, 3814 zawierających alkohol etylowy, 3820 zawierających alkohol etylowy, 3824, 3826 – jeżeli masa brutto przesyłki towarów objętych tymi pozycjami przekracza 500 kg lub jej objętość przekracza 500 litrów;
     - **a)**
     - **b)**
     - **c)**
@@ -110,7 +109,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
     - **k)**
 
 - **1a)** paliw opałowych, bez względu na ich ilość w przesyłce;
-- **2)** alkoholu całkowicie skażonego wskazanymi przez dowolne państwo członkowskie Unii Europejskiej środkami dopuszczonymi do skażania alkoholu etylowego na podstawie rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r. w sprawie wzajemnego uznawania procedur całkowitego skażenia alkoholu etylowego do celów zwolnienia z podatku akcyzowego (Dz. Urz. WE L 288 z 23.11.1993, str. 12, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 249, z późn. zm.), w tym zawartego w wyrobach nieprzeznaczonych do spożycia przez ludzi w przypadku przesyłek o objętości powyżej 500 litrów;
+- **2)** alkoholu całkowicie skażonego wskazanymi przez dowolne państwo członkowskie Unii Europejskiej środkami dopuszczonymi do skażania alkoholu etylowego na podstawie rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r. w sprawie wzajemnego uznawania procedur całkowitego skażenia alkoholu etylowego do celów zwolnienia z podatku akcyzowego (Dz. Urz. WE L 288 z 23.11.1993, str. 12, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 260 z 31.10.1995, str. 45 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 281, Dz. Urz. WE L 320 z 28.11.1998, str. 27 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 319, Dz. Urz. UE L 374 z 22.12.2004, str. 42, Dz. Urz. UE L 208 z 11.08.2005, str. 12, Dz. Urz. UE L 326 z 13.12.2005, str. 8, Dz. Urz. UE L 23 z 26.01.2008, str. 13, Dz. Urz. UE L 231 z 29.08.2008, str. 11, Dz. Urz. UE L 200 z 03.08.2011, str. 14, Dz. Urz. UE L 49 z 22.02.2008, str. 55 oraz Dz. Urz. UE L 286 z 20.10.2016, str. 32. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 249, z późn. zm.), w tym zawartego w wyrobach nieprzeznaczonych do spożycia przez ludzi w przypadku przesyłek o objętości powyżej 500 litrów;
 - **3)** suszu tytoniowego w rozumieniu przepisów o podatku akcyzowym, nieoznaczonego znakami akcyzy, bez względu na jego ilość w przesyłce;
 - **3a)** produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686);
 - **4)** towarów innych niż wymienione w pkt 1–3a, w stosunku do których zachodzi uzasadnione prawdopodobieństwo wystąpienia naruszeń przepisów prawa podatkowego w zakresie podatku od towarów i usług lub podatku akcyzowego, mogących powodować, ze względu na skalę lub częstotliwość obrotu tymi towarami, znaczne uszczuplenia tych podatków – określonych w przepisach wydanych na podstawie ust. 11.
@@ -122,14 +121,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 4. Systemowi monitorowania przewozu i obrotu nie podlega przewóz towarów objętych:
 
 - **1)** (uchylony)
-- **2)** pozycjami CN: 2207 nieoznaczonych znakami akcyzy w opakowaniach jednostkowych nie większych niż 5 litrów, 2707 w opakowaniach jednostkowych nie większych niż 11 litrów, 2710 w opakowaniach jednostkowych nie większych niż 11 litrów, z wyłączeniem paliw opałowych, 2905 w opakowaniach jednostkowych nie większych niż 11 litrów, 3403 w opakowaniach jednostkowych nie większych niż 16 litrów, 3811 w opakowaniach jednostkowych nie większych niż 16 litrów, 3820 zawierających alkohol etylowy w opakowaniach jednostkowych nie większych niż 16 litrów.
+- **2)** pozycjami CN: 2207 nieoznaczonych znakami akcyzy w opakowaniach jednostkowych nie większych niż 5 litrów, 2707 w opakowaniach jednostkowych nie większych niż 11 litrów, 2710 w opakowaniach jednostkowych nie większych niż 11 litrów, z wyłączeniem paliw opałowych, 2905 w opakowaniach jednostkowych nie większych niż 11 litrów, 3403 w opakowaniach jednostkowych nie większych niż 16 litrów, 3811 w opakowaniach jednostkowych nie większych niż 16 litrów, ea) 3814 zawierających alkohol etylowy w opakowaniach jednostkowych nie większych niż 11 litrów, 3820 zawierających alkohol etylowy w opakowaniach jednostkowych nie większych niż 16 litrów.
     - **a)**
     - **aa)**
     - **b)**
     - **c)**
     - **d)**
     - **e)**
-    - **ea)** 3814 zawierających alkohol etylowy w opakowaniach jednostkowych nie większych niż 11 litrów,
     - **f)**
 
 5. Systemowi monitorowania przewozu i obrotu nie podlega przewóz towarów, o których mowa w ust. 2 pkt 2, w opakowaniach jednostkowych nie większych niż 5 litrów.
@@ -218,10 +216,8 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4d. Na realizację zadania, o którym mowa w ust. 4a i 4c, instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych, otrzymują dotację celową z budżetu państwa z części, której dysponentem jest minister właściwy do spraw finansów publicznych.
 
-5. Dane, o których mowa w ust. 4:
+5. Dane, o których mowa w ust. 4: 1W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 4.) pkt 1 i 2 – są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia; 1W brzmieniu ustalonym przez art. 43 pkt 1 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523); wejdzie w życie z dniem 1 stycznia 2025 r.) pkt 1 i 2 – są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia, z wyjątkiem danych dotyczących zgłoszenia wykonywania międzynarodowego przewozu drogowego rzeczy oraz zgłoszenia wykonywania przewozu kabotażowego rzeczy, o których mowa w art. 28b ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 728 i 731), które są przechowywane przez 2 lata, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia;
 
-- **1)** pkt 1 i 2 – są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia;
-- **1)** pkt 1 i 2 – są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia, z wyjątkiem danych dotyczących zgłoszenia wykonywania międzynarodowego przewozu drogowego rzeczy oraz zgłoszenia wykonywania przewozu kabotażowego rzeczy, o których mowa w art. 28b ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 728 i 731), które są przechowywane przez 2 lata, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia;
 - **1a)** pkt 1b – są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym przesłano miesięczne zestawienie informacji dotyczących okresowych umów;
 - **2)** pkt 1a – są przechowywane nie dłużej niż 12 miesięcy, licząc od daty zakończenia przewozu towaru, chyba że przed upływem tego terminu wszczęte zostanie postępowanie administracyjne, w którym dane te są niezbędne; w takim przypadku dane geolokalizacyjne są przechowywane do czasu prawomocnego zakończenia postępowania administracyjnego.
 
@@ -236,7 +232,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 9. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyznaczyć jednostkę sektora finansów publicznych albo instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych, do:
 
 - **1)** dokonywania analizy danych z rejestru oraz wskazać zakres danych podlegających tej analizie,
-- **2)** wykonywania czynności związanych z technicznym utrzymaniem i rozwojem środków, o których mowa w ust. 1, oraz wskazać zakres tych czynności uwzględniając przygotowanie techniczne wyznaczanego podmiotu i jego doświadczenie w analizie danych, w szczególności danych geolokalizacyjnych oraz w zakresie utrzymania i rozwoju technologii teleinformatycznych.
+- **2)** wykonywania czynności związanych z technicznym utrzymaniem i rozwojem środków, o których mowa w ust. 1, oraz wskazać zakres tych czynności – uwzględniając przygotowanie techniczne wyznaczanego podmiotu i jego doświadczenie w analizie danych, w szczególności danych geolokalizacyjnych oraz w zakresie utrzymania i rozwoju technologii teleinformatycznych.
 
 10. W przypadku gdy podmiot, o którym mowa w ust. 9, jest podmiotem, który jest nadzorowany przez ministra innego niż minister właściwy do spraw finansów publicznych, rozporządzenie, o którym mowa w ust. 9, wydaje się w porozumieniu z właściwym ministrem.
 
@@ -256,7 +252,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
     - **b)**
 
 - **4)** numer identyfikacji podatkowej podmiotu wysyłającego albo numer, za pomocą którego podmiot wysyłający jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej;
-- **4a)** informację, czy: podmiot wysyłający jest pośredniczącym podmiotem olejowym, dostawa jest realizowana w ramach umowy, o której mowa w art. 89 ust. 5e albo 5f ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym jeżeli dostawa dotyczy paliw opałowych;
+- **4a)** informację, czy: podmiot wysyłający jest pośredniczącym podmiotem olejowym, dostawa jest realizowana w ramach umowy, o której mowa w art. 89 ust. 5e albo 5f ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – jeżeli dostawa dotyczy paliw opałowych;
     - **a)**
     - **b)**
 
@@ -398,7 +394,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 1. W przypadku wewnątrzwspólnotowego nabycia paliw opałowych w procedurze zawieszenia poboru akcyzy przez zarejestrowanego odbiorcę w rozumieniu ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym będącego:
 
 - **1)** zużywającym podmiotem olejowym lub pośredniczącym podmiotem olejowym, gdy nabycie to nastąpiło na potrzeby prowadzonej działalności gospodarczej, albo
-- **2)** pośredniczącym podmiotem olejowym, gdy nabycie to nastąpiło na rzecz innych podmiotów podmiot ten jest obowiązany przesłać do rejestru zgłoszenie i uzyskać numer referencyjny dla tego zgłoszenia w dniu dostarczenia towaru do miejsca określonego w zezwoleniu, o którym mowa w art. 57 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
+- **2)** pośredniczącym podmiotem olejowym, gdy nabycie to nastąpiło na rzecz innych podmiotów – podmiot ten jest obowiązany przesłać do rejestru zgłoszenie i uzyskać numer referencyjny dla tego zgłoszenia w dniu dostarczenia towaru do miejsca określonego w zezwoleniu, o którym mowa w art. 57 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 1, zgłoszenie zawiera:
 
@@ -494,7 +490,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 2. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:
 
 - **1)** przypadki, w których przewóz towarów jest wyłączony z obowiązku przesłania do rejestru zgłoszenia lub innych obowiązków w zakresie uzupełniania i aktualizacji zgłoszenia lub w zakresie przekazywania aktualnych danych geolokalizacyjnych środka transportu,
-- **2)** warunki wyłączenia, o którym mowa w pkt 1 uwzględniając stopień obciążenia administracyjnego, skuteczność monitorowania przewozu towarów albo obrotu danym towarem oraz ryzyko powstania uszczupleń w zakresie podatku od towarów i usług lub podatku akcyzowego.
+- **2)** warunki wyłączenia, o którym mowa w pkt 1 – uwzględniając stopień obciążenia administracyjnego, skuteczność monitorowania przewozu towarów albo obrotu danym towarem oraz ryzyko powstania uszczupleń w zakresie podatku od towarów i usług lub podatku akcyzowego.
 
 1. W przypadku niektórych towarów odpowiednio podmiot wysyłający, podmiot odbierający i przewoźnik są obowiązani do wskazania lub uzupełnienia w zgłoszeniu dodatkowych danych, jeżeli dane te ze względu na specyfikę towaru lub przewozu towaru, lub obrotu tym towarem są przekazywane do innych organów na podstawie przepisów odrębnych oraz jest to konieczne do zapewnienia skuteczności monitorowania przewozu towarów – w przypadkach określonych w przepisach wydanych na podstawie ust. 2.
 
@@ -572,7 +568,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** przywróceniu sprawności lokalizatora albo zewnętrznego systemu lokalizacji albo
 - **2)** przeładunku towaru na środek transportu wyposażony w sprawny lokalizator albo którego dane geolokalizacyjne są przekazywane do rejestru z zewnętrznego systemu lokalizacji, albo
 - **3)** wyposażeniu środka transportu w sprawny lokalizator, albo
-- **4)** nałożeniu zamknięć urzędowych na środek transportu lub towar albo zarządzeniu konwoju, o którym mowa w art. 67 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.).
+- **4)** nałożeniu zamknięć urzędowych na środek transportu lub towar albo zarządzeniu konwoju, o którym mowa w art. 67 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879.).
 
 4. Rozstrzygnięcie w zakresie, o którym mowa w ust. 3 pkt 4, jest podejmowane przez naczelnika urzędu celno-skarbowego, na terenie którego znajduje się środek transportu, po uzyskaniu informacji od przewoźnika dotyczącej potrzeby kontynuowania przewozu towaru.
 
@@ -604,17 +600,16 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **3)** organów Straży Granicznej,
 - **4)** Ministra Obrony Narodowej,
 - **5)** Prezesa Urzędu Regulacji Energetyki,
-- **6)** Prezesa Rządowej Agencji Rezerw Strategicznych,
-- **7)** ministra do spraw transportu jeżeli dane te są niezbędne do realizacji ich ustawowych zadań innych niż określone w ust. 1 pkt 1.
+- **6)** Prezesa Rządowej Agencji Rezerw Strategicznych, 7Dodany przez art. 43 pkt 2 lit. a ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2025 r.) ministra do spraw transportu – jeżeli dane te są niezbędne do realizacji ich ustawowych zadań innych niż określone w ust. 1 pkt 1.
 
 3. Szef Krajowej Administracji Skarbowej na wniosek Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Centralnego Biura Antykorupcyjnego, Szefa Agencji Wywiadu, Szefa Służby Wywiadu Wojskowego oraz Szefa Służby Kontrwywiadu Wojskowego udostępnia nieodpłatnie dane z rejestru, jeżeli są one niezbędne do realizacji ich ustawowych zadań. Dane z rejestru są przekazywane funkcjonariuszom tych organów bez konieczności każdorazowego przedstawiania przez nich imiennego upoważnienia wydanego przez te organy, okazywanego wraz z legitymacją służbową.
 
 3a. Szef Krajowej Administracji Skarbowej nieodpłatnie udostępnia dane zgromadzone w rejestrze, również na wniosek:
 
 - **1)** sądu,
-- **2)** prokuratora w związku z toczącym się postępowaniem.
+- **2)** prokuratora – w związku z toczącym się postępowaniem.
 
-4. Szef Krajowej Administracji Skarbowej udostępnia organom, o których mowa w ust. 2 pkt 5 i ust. 3, dane z rejestru w drodze teletransmisji, jeżeli dane te są niezbędne do realizacji ich ustawowych zadań i odpowiednio Urząd Regulacji Energetyki albo jednostka organizacyjna odpowiednio Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego będący odbiorcą informacji spełnia łącznie następujące warunki:Szef Krajowej Administracji Skarbowej udostępnia organom, o których mowa w ust. 2 pkt 1–3, 5 i 7 oraz ust. 3, dane z rejestru w drodze teletransmisji, jeżeli dane te są niezbędne do realizacji ich ustawowych zadań i odpowiednio Urząd Regulacji Energetyki, urząd obsługujący ministra do spraw transportu albo jednostka organizacyjna odpowiednio Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Straży Granicznej będąca odbiorcą informacji, spełnia łącznie następujące warunki:
+4. Szef Krajowej Administracji Skarbowej udostępnia organom, o których mowa w ust. 2 pkt 5 i ust. 3, dane z rejestru w drodze teletransmisji, jeżeli dane te są niezbędne do realizacji ich ustawowych zadań i odpowiednio Urząd Regulacji Energetyki albo jednostka organizacyjna odpowiednio Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego będący odbiorcą informacji spełnia łącznie następujące warunki:Wprowadzenie do wyliczenia w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 8.Szef Krajowej Administracji Skarbowej udostępnia organom, o których mowa w ust. 2 pkt 1–3, 5 i 7 oraz ust. 3, dane z rejestru w drodze teletransmisji, jeżeli dane te są niezbędne do realizacji ich ustawowych zadań i odpowiednio Urząd Regulacji Energetyki, urząd obsługujący ministra do spraw transportu albo jednostka organizacyjna odpowiednio Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Straży Granicznej będąca odbiorcą informacji, spełnia łącznie następujące warunki:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 43 pkt 2 lit. b ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2025 r.
 
 - **1)** posiada urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu oraz jakie dane uzyskał;
 - **2)** posiada zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania;
@@ -665,7 +660,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** stwierdzenia nieprawidłowości w toku kontroli lub na żądanie kontrolowanego,
 - **2)** pobrania próbki towaru,
-- **3)** nałożenia zamknięć urzędowych kontrolujący sporządza protokół.
+- **3)** nałożenia zamknięć urzędowych – kontrolujący sporządza protokół.
 
 8. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw transportu określi, w drodze rozporządzenia:
 
@@ -695,7 +690,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 9. Kaucja pobrana:
 
 - **1)** w formie gotówkowej podlega zwrotowi na rachunek bankowy przewoźnika lub jego rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wskazany przez przewoźnika albo kierującego,
-- **2)** za pomocą instrumentu płatniczego podlega zwrotowi na rachunek bankowy przewoźnika lub jego rachunek w spółdzielczej kasie oszczędnościowo-kredytowej właściwy dla instrumentu płatniczego w terminie 7 dni od dnia usunięcia zamknięć urzędowych.
+- **2)** za pomocą instrumentu płatniczego podlega zwrotowi na rachunek bankowy przewoźnika lub jego rachunek w spółdzielczej kasie oszczędnościowo-kredytowej właściwy dla instrumentu płatniczego – w terminie 7 dni od dnia usunięcia zamknięć urzędowych.
 
 10. Kaucja, o której mowa w ust. 4, nie podlega zwrotowi, w przypadku niedopełnienia przez przewoźnika obowiązku, o którym mowa w ust. 3, w terminie 30 dni od daty kontroli. Kaucja stanowi dochód budżetu państwa.
 
@@ -706,14 +701,14 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 1. Jeżeli w trakcie kontroli przewozu towarów:
 
 - **1)** ujawniono niedokonanie zgłoszenia,
-- **2)** nie zostanie przedstawiony przez kierującego numer referencyjny dla dokonywanego przewozu towaru, dokument zastępujący zgłoszenie i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie albo dokument, o którym mowa w art. 3 ust. 7 towar albo środek transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem może zostać zatrzymany.
+- **2)** nie zostanie przedstawiony przez kierującego numer referencyjny dla dokonywanego przewozu towaru, dokument zastępujący zgłoszenie i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie albo dokument, o którym mowa w art. 3 ust. 7 – towar albo środek transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem może zostać zatrzymany.
 
 1a. Jeżeli w trakcie kontroli przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, ujawniono, że przewóz towarów jest dokonywany:
 
 - **1)** bez dokonania Głównemu Inspektorowi Farmaceutycznemu zgłoszenia, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
 - **2)** przed upływem terminu na zgłoszenie sprzeciwu, określonego w art. 37av ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
 - **3)** wbrew sprzeciwowi, o którym mowa w art. 37av ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
-- **4)** bez dokumentu, o którym mowa w art. 37av ust. 16a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, albo gdy dokument ten zawiera dane niekompletne lub niezgodne ze stanem faktycznym towar zatrzymuje się.
+- **4)** bez dokumentu, o którym mowa w art. 37av ust. 16a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, albo gdy dokument ten zawiera dane niekompletne lub niezgodne ze stanem faktycznym – towar zatrzymuje się.
 
 1b. W przypadku przewozu towarów po krajowej sieci kolejowej towar może zostać zatrzymany w miejscu dostarczenia towaru na terytorium kraju.
 
@@ -723,7 +718,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Towar zatrzymuje się do czasu ustalenia, przez naczelnika urzędu celno-skarbowego właściwego ze względu na miejsce kontroli przewozu towarów, podmiotu posiadającego prawo do dysponowania towarem jak właściciel w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług i złożenia zgłoszenia. W przypadku nieustalenia podmiotu, który posiada prawo do dysponowania towarem jak właściciel, w terminie 60 dni od dnia zatrzymania towaru, orzeka się przepadek towaru na rzecz Skarbu Państwa.
 
-4. Z wnioskiem o orzeczenie przepadku towaru na rzecz Skarbu Państwa występuje do sądu cywilnego naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce kontroli przewozu towarów. Do spraw o przepadek towaru stosuje się odpowiednio przepisy art. 6101–6105 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.).
+4. Z wnioskiem o orzeczenie przepadku towaru na rzecz Skarbu Państwa występuje do sądu cywilnego naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce kontroli przewozu towarów. Do spraw o przepadek towaru stosuje się odpowiednio przepisy art. 6101–6105 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859 i 863.).
 
 5. W przypadku towarów łatwo psujących się termin, o którym mowa w ust. 3, wynosi 3 dni.
 
@@ -751,21 +746,12 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. W zakresie nieuregulowanym w ustawie do opłat stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
 
-6. W przypadku produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, w zakresie opłat za ich przechowywanie i strzeżenie stosuje się przepisy rozdziału 2c tej ustawy.
-
-**Art. 18.**
-
-1. Zwrot:
+6. W przypadku produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych objętych obowiązkiem, o którym mowa w art. 37av ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, w zakresie opłat za ich przechowywanie i strzeżenie stosuje się przepisy rozdziału 2c tej ustawy. Art. 18W tym brzmieniu obowiązuje do wejścia w życie zmian, o których mowa w odnośnikach 11 i 12.. 1Oznaczenie ust. 1 nadane przez art. 43 pkt 3 ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2025 r.. Zwrot:
 
 - **1)** środka transportu z wyznaczonego miejsca następuje po uiszczeniu opłat dotyczących środka transportu ustalonych w postanowieniu, o którym mowa w art. 17 ust. 3;
-- **2)** towaru z wyznaczonego miejsca następuje po uiszczeniu opłat dotyczących towaru ustalonych w postanowieniu, o którym mowa w art. 17 ust. 3, z wyjątkiem art. 31.
-
-2. Zwrot środka transportu, w przypadku międzynarodowego przewozu drogowego rzeczy, o którym mowa w art. 28b ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym, nie może nastąpić przed:
-
+- **2)** towaru z wyznaczonego miejsca następuje po uiszczeniu opłat dotyczących towaru ustalonych w postanowieniu, o którym mowa w art. 17 ust. 3, z wyjątkiem art. 31. 2Dodany przez art. 43 pkt 3 ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2025 r.. Zwrot środka transportu, w przypadku międzynarodowego przewozu drogowego rzeczy, o którym mowa w art. 28b ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym, nie może nastąpić przed:
 - **1)** dopełnieniem przez przewoźnika drogowego obowiązku zgłoszenia takiego przewozu i uzyskaniu dla niego numeru referencyjnego, oraz
-- **2)** przedstawieniem prawidłowo wypełnionego wymaganego zezwolenia na wykonywanie międzynarodowego przewozu drogowego rzeczy, o ile jest wymagane.
-
-3. Zwrot środka transportu, w przypadku przewozu kabotażowego rzeczy, o którym mowa w art. 28b ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym, nie może nastąpić przed dopełnieniem przez przewoźnika drogowego obowiązku zgłoszenia takiego przewozu i uzyskaniu dla niego numeru referencyjnego.
+- **2)** przedstawieniem prawidłowo wypełnionego wymaganego zezwolenia na wykonywanie międzynarodowego przewozu drogowego rzeczy, o ile jest wymagane. 3Dodany przez art. 43 pkt 3 ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2025 r.. Zwrot środka transportu, w przypadku przewozu kabotażowego rzeczy, o którym mowa w art. 28b ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym, nie może nastąpić przed dopełnieniem przez przewoźnika drogowego obowiązku zgłoszenia takiego przewozu i uzyskaniu dla niego numeru referencyjnego.
 
 **Art. 19.** Dyrektor izby administracji skarbowej może powierzyć usuwanie towarów lub środka transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem lub prowadzenie wyznaczonego miejsca innym podmiotom.
 
@@ -777,14 +763,14 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Ustala się maksymalną wysokość stawek kwotowych opłat, o których mowa w art. 17 ust. 1, za:
 
-- **1)** środek transportu: o dopuszczalnej masie całkowitej do 3,5 t – za usunięcie – 476 zł; za każdą dobę przechowywania i strzeżenia – 39 zł, o dopuszczalnej masie całkowitej powyżej 3,5 t do 7,5 t – za usunięcie – 594 zł; za każdą dobę przechowywania i strzeżenia – 51 zł, o dopuszczalnej masie całkowitej powyżej 7,5 t do 16 t – za usunięcie – 841 zł; za każdą dobę przechowywania i strzeżenia – 73 zł, o dopuszczalnej masie całkowitej powyżej 16 t – za usunięcie – 1239 zł; za każdą dobę przechowywania i strzeżenia – 133 zł, przewożący materiały niebezpieczne – za usunięcie – 1508 zł; za każdą dobę przechowywania i strzeżenia – 196 zł;
+- **1)** środek transportu: o dopuszczalnej masie całkowitej do 3,5 t – za usunięcie – 476 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5.; za każdą dobę przechowywania i strzeżenia – 39 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5., o dopuszczalnej masie całkowitej powyżej 3,5 t do 7,5 t – za usunięcie – 594 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5.; za każdą dobę przechowywania i strzeżenia – 51 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5., o dopuszczalnej masie całkowitej powyżej 7,5 t do 16 t – za usunięcie – 841 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5.; za każdą dobę przechowywania i strzeżenia – 73 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5., o dopuszczalnej masie całkowitej powyżej 16 t – za usunięcie – 1239 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5.; za każdą dobę przechowywania i strzeżenia – 133 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5., przewożący materiały niebezpieczne – za usunięcie – 1508 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5.; za każdą dobę przechowywania i strzeżenia – 196 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5.;
     - **a)**
     - **b)**
     - **c)**
     - **d)**
     - **e)**
 
-- **2)** towar: za usunięcie – 1508 zł, za każdą dobę przechowywania i strzeżenia – 4 zł za 1 m3albo 0,80 zł za 1 m2 powierzchni magazynowej.
+- **2)** towar: za usunięcie – 1508 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5., za każdą dobę przechowywania i strzeżenia – 4 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5. za 1 m3albo 0,80 złMaksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5. za 1 m2 powierzchni magazynowej.
     - **a)**
     - **b)**
 
@@ -814,7 +800,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** niedokonania zgłoszenia przez przewoźnika,
 - **2)** stwierdzenia, że towar nie odpowiada co do rodzaju, ilości, masy lub objętości towarowi wskazanemu przez przewoźnika w zgłoszeniu,
-- **3)** niewykonania obowiązku, o którym mowa w art. 12a ust. 3 i 4 oraz art. 15 ust. 3 na przewoźnika nakłada się karę pieniężną w wysokości 20 000 zł.
+- **3)** niewykonania obowiązku, o którym mowa w art. 12a ust. 3 i 4 oraz art. 15 ust. 3 – na przewoźnika nakłada się karę pieniężną w wysokości 20 000 zł.
 
 1a. W przypadku niewykonania obowiązku, o którym mowa w art. 10 ust. 1a, i dostarczenia zgłoszonego paliwa opałowego do innego miejsca dostarczenia towaru, na przewoźnika nakłada się karę pieniężną w wysokości 100 000 zł, o ile nie ustalono podmiotu, który nabył lub posiada to paliwo.
 
@@ -837,7 +823,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 1. W przypadku gdy podmiot wysyłający, podmiot odbierający albo przewoźnik:
 
 - **1)** nie wykona obowiązku, o którym mowa w art. 8 ust. 1,
-- **2)** zgłosi dane niezgodne ze stanem faktycznym, inne niż dotyczące towaru odpowiednio na podmiot wysyłający, podmiot odbierający albo przewoźnika nakłada się karę pieniężną w wysokości 10 000 zł.
+- **2)** zgłosi dane niezgodne ze stanem faktycznym, inne niż dotyczące towaru – odpowiednio na podmiot wysyłający, podmiot odbierający albo przewoźnika nakłada się karę pieniężną w wysokości 10 000 zł.
 
 1a. W przypadku gdy towar był przewożony ze składu podatkowego w rozumieniu ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym i podatek akcyzowy oraz należny podatek od towarów i usług zostały wpłacone przez podmiot wysyłający a ujawnione nieprawidłowości są wynikiem oczywistego błędu i dotyczą zgłoszonych przez podmiot wysyłający, podmiot odbierający albo przewoźnika danych innych niż dotyczące towaru, z wyjątkiem numeru rejestracyjnego środka transportu, o którym mowa w art. 2 pkt 11 lit. a, odpowiednio, na podmiot wysyłający, podmiot odbierający albo przewoźnika nakłada się karę pieniężną w wysokości 2000 zł.
 
@@ -859,7 +845,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 2. Karę pieniężną nakłada naczelnik urzędu celno-skarbowego właściwy:
 
 - **1)** dla miejsca kontroli – w przypadku kontroli przewozu towarów,
-- **2)** ze względu na adres zamieszkania lub na adres siedziby podmiotu odbierającego albo podmiotu nabywającego – w przypadku, o którym mowa w art. 24 ust. 1b z wyjątkiem przypadków, o których mowa w art. 30.
+- **2)** ze względu na adres zamieszkania lub na adres siedziby podmiotu odbierającego albo podmiotu nabywającego – w przypadku, o którym mowa w art. 24 ust. 1b – z wyjątkiem przypadków, o których mowa w art. 30.
 
 3. Organ może odstąpić od nałożenia kary pieniężnej, jeżeli to odstąpienie:
 
@@ -924,14 +910,14 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** rozpoczęcia przewozu towaru przez kierującego, o którym mowa w art. 2 pkt 2 lit. a, bez numeru referencyjnego, bez dokumentu zastępującego zgłoszenie i potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie albo dokumentu, o którym mowa w art. 3 ust. 7,
 - **2)** niedopełnienia obowiązku, o którym mowa w art. 10b,
-- **3)** niedopełnienia obowiązku, o którym mowa w art. 10c ust. 1 kierujący podlega karze grzywny w wysokości od 5000 do 7500 zł.
+- **3)** niedopełnienia obowiązku, o którym mowa w art. 10c ust. 1 – kierujący podlega karze grzywny w wysokości od 5000 do 7500 zł.
 
 2. Kontrolującemu będącemu:
 
 - **1)** funkcjonariuszem Służby Celno-Skarbowej,
 - **2)** funkcjonariuszem Policji,
 - **3)** funkcjonariuszem Straży Granicznej,
-- **4)** inspektorem Inspekcji Transportu Drogowego przysługuje prawo do nakładania i pobierania grzywny w drodze mandatu karnego za czyn, o którym mowa w ust. 1.
+- **4)** inspektorem Inspekcji Transportu Drogowego – przysługuje prawo do nakładania i pobierania grzywny w drodze mandatu karnego za czyn, o którym mowa w ust. 1.
 
 3. Orzekanie w sprawie nałożenia grzywny, o której mowa w ust. 1, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977). Grzywny, o których mowa w art. 32 ust. 1, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402). Art. 33–36. (pominięte)
 
@@ -958,5 +944,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 4. W przypadku gdy wysokość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
-**Art. 39.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 21–32, art. 34 oraz art. 35 pkt 2, które wchodzą w życie z dniem 1 maja 2017 r.
+**Art. 39.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 3 kwietnia 2017 r., z wyjątkiem przepisów art. 21–32, art. 34 oraz art. 35 pkt 2, które wchodzą w życie z dniem 1 maja 2017 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 260 z 31.10.1995, str. 45 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 281, Dz. Urz. WE L 320 z 28.11.1998, str. 27 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 319, Dz. Urz. UE L 374 z 22.12.2004, str. 42, Dz. Urz. UE L 208 z 11.08.2005, str. 12, Dz. Urz. UE L 326 z 13.12.2005, str. 8, Dz. Urz. UE L 23 z 26.01.2008, str. 13, Dz. Urz. UE L 231 z 29.08.2008, str. 11, Dz. Urz. UE L 200 z 03.08.2011, str. 14, Dz. Urz. UE L 49 z 22.02.2008, str. 55 oraz Dz. Urz. UE L 286 z 20.10.2016, str. 32. 3) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 4. 4) W brzmieniu ustalonym przez art. 43 pkt 1 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523); wejdzie w życie z dniem 1 stycznia 2025 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879. 6) Dodany przez art. 43 pkt 2 lit. a ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2025 r. 7) Wprowadzenie do wyliczenia w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 8. 8) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 43 pkt 2 lit. b ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2025 r. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859 i 863. 10) W tym brzmieniu obowiązuje do wejścia w życie zmian, o których mowa w odnośnikach 11 i 12. 11) Oznaczenie ust. 1 nadane przez art. 43 pkt 3 ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2025 r. 12) Dodany przez art. 43 pkt 3 ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2025 r. 13) Maksymalną wysokość stawek kwotowych, o których mowa w art. 17 ust. 1, ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” minister właściwy do spraw finansów publicznych, na podstawie art. 20 ust. 5. 14) Ustawa została ogłoszona w dniu 3 kwietnia 2017 r.
 

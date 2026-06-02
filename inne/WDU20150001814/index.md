@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-06 |
-| Wejście w życie | 2015-11-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001814) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1814/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 357, 1066, 1217, 1240, 1268, 1567, 1582, 1607 i 1767.) wprowadza się następujące zmiany:
 
 - **1)** w art. 108 po ust. 1i dodaje się ust. 1j w brzmieniu: „
 
@@ -87,5 +86,5 @@ source: "eli-html"
 
 16. Kwoty z tytułu zwrotu uzyskanej pomocy, o której mowa w art. 150f, dokonywanego przez pracodawców od roku 2018 powiększają przychody Funduszu Pracy. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 357, 1066, 1217, 1240, 1268, 1567, 1582, 1607 i 1767.
 

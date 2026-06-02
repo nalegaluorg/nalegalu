@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 czerwca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie przygotowawcze” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 851), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2022 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie przygotowawcze” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 201).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie przygotowawcze” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 201), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie przygotowawcze” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 201), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 czerwca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie przygotowawcze” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 czerwca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie przygotowawcze” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 1234 i 1270) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty, a także szczegółowe warunki zwrotu pomocy finansowej w ramach poddziałania „Wsparcie przygotowawcze” w ramach działania „Wsparcie dla rozwoju lokalnego w ramach inicjatywy LEADER” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanej dalej „pomocą”, w tym:
@@ -49,29 +47,29 @@ szczegółowe wymagania, jakim powinna odpowiadać umowa o przyznaniu pomocy, zw
 § 2.
 Pomoc przyznaje się na operację w ramach poddziałania „Wsparcie przygotowawcze”, o którym mowa w art. 3 ust. 1 pkt 14 lit. a ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanej dalej „ustawą”.
 § 3.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie przygotowawcze” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 201), które weszło w życie z dniem 29 stycznia 2022 r..
 Pomoc przyznaje się lokalnej grupie działania, o której mowa w art. 1 pkt 2 lit. a ustawy z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2022 r. poz. 943), zwanej dalej „ustawą o rozwoju lokalnym”.
 2.
-Pomoc przyznaje się lokalnej grupie działania, zwanej dalej „LGD”, jeżeli poza spełnieniem warunków określonych w art. 16 ustawy o rozwoju lokalnym:
-1)
-wśród członków tej LGD znajduje się przynajmniej po jednym przedstawicielu publicznych i prywatnych lokalnych interesów społeczno-gospodarczych, o których mowa w art. 31 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.), z każdej gminy, której obszar jest objęty obszarem planowanym do objęcia strategią rozwoju lokalnego kierowanego przez społeczność, zwaną dalej „LSR”;
+Pomoc przyznaje się lokalnej grupie działania, zwanej dalej „LGD”, jeżeli poza spełnieniem warunków określonych w art. 16 ustawy o rozwoju lokalnym:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
+wśród członków tej LGD znajduje się przynajmniej po jednym przedstawicielu publicznych i prywatnych lokalnych interesów społeczno-gospodarczych, o których mowa w art. 31 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 261 z 22.07.2021, str. 58., z każdej gminy, której obszar jest objęty obszarem planowanym do objęcia strategią rozwoju lokalnego kierowanego przez społeczność, zwaną dalej „LSR”;
 2)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 3)
 plan włączenia społeczności lokalnej w przygotowanie LSR, zwany dalej „planem włączenia społeczności”, zakłada co najmniej:
 a)
 przygotowanie LSR:
 – z udziałem lokalnej społeczności, w tym przeprowadzenie konsultacji społecznych,
-–  która ma być współfinansowana w szczególności ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich,
+– Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b tiret trzecie podwójne tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. która ma być współfinansowana w szczególności ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich,
 b)
-(uchylona),
+(uchylona),Przez § 1 pkt 1 lit. b tiret trzecie podwójne tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 c)
-(uchylona),
+(uchylona),Przez § 1 pkt 1 lit. b tiret trzecie podwójne tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 d)
 prowadzenie strony internetowej na potrzeby przygotowania LSR,
-e)
+eDodana przez § 1 pkt 1 lit. b tiret trzecie podwójne tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 wykorzystanie zróżnicowanych środków komunikacji, w tym elektronicznej, w procesie przygotowania LSR;
-4)
+4Dodany przez § 1 pkt 1 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 2.)
 proces przygotowania LSR jest ukierunkowany w szczególności na zagadnienia dotyczące:
 a)
 innowacyjności,
@@ -83,42 +81,42 @@ d)
 zmian demograficznych ze szczególnym uwzględnieniem starzenia się społeczeństwa oraz wyludniania się obszaru planowanego do objęcia LSR,
 e)
 partnerstwa w realizacji LSR polegającego na wspólnej realizacji przedsięwzięć i projektów;
-5)
+5Dodany przez § 1 pkt 1 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 2.)
 obszar planowany do objęcia LSR:
 a)
 jest zamieszkiwany przez nie więcej niż 150 tys. mieszkańców według stanu ustalonego na dzień 31 grudnia 2020 r. na podstawie wynikowych informacji statystycznych ogłaszanych, udostępnianych lub rozpowszechnianych zgodnie z przepisami o statystyce publicznej,
 b)
 jest spójny przestrzennie;
-6)
+6Dodany przez § 1 pkt 1 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 2.)
 członkowie LGD, o których mowa w pkt 1, z wyjątkiem gmin, nie są oraz do dnia 31 grudnia 2020 r. nie byli członkami innych wnioskodawców ubiegających się o przyznanie pomocy w ramach tego samego naboru wniosków o przyznanie pomocy.
-2a.
+2aDodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Pomocy nie przyznaje się, jeżeli obszar planowany do objęcia LSR przez LGD ubiegającą się o przyznanie pomocy, obejmując obszar LSR wybranej i realizowanej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanego dalej „PROW 2014–2020”, nie obejmuje wszystkich gmin objętych tą wybraną i realizowaną LSR w ramach PROW 2014–2020.
-2b.
+2bDodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Przepisu ust. 2a nie stosuje się, jeżeli obszar gmin nieobjętych obszarem planowanym do objęcia LSR, o których mowa w ust. 2a:
 1)
 jest spójny przestrzennie i zamieszkany nie mniej niż przez 30 tys. mieszkańców, nie licząc mieszkańców miast zamieszkanych przez więcej niż 20 tys. mieszkańców, a co najmniej dwie gminy spośród tych gmin nie są miastami zamieszkanymi przez więcej niż 20 tys. mieszkańców, lub
 2)
 jest planowany do objęcia LSR przez inne LGD ubiegające się o przyznanie pomocy, ale żaden z obszarów planowanych do objęcia LSR przez te inne LGD nie obejmuje tych samych gmin co obszar planowany do objęcia LSR, o którym mowa w ust. 2a.
-2c.
+2cDodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Warunek, o którym mowa w ust. 2 pkt 5 lit. a, uznaje się za spełniony także, jeżeli wnioskodawca jest stroną umowy o warunkach i sposobie realizacji LSR, zwanej dalej „umową ramową”, zawartej przed dniem 1 stycznia 2021 r., ale nie wcześniej niż dnia 1 stycznia 2016 r., a obszar objęty planowaną LSR jest tożsamy z obszarem objętym LSR i ta LSR stanowi załącznik do umowy ramowej.
-2d.
+2dDodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Warunek, o którym mowa w ust. 2 pkt 6, nie dotyczy LGD realizującej LSR w ramach PROW 2014–2020.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. d rozporządzenia, o którym mowa w odnośniku 2..
 Konsultacje społeczne, o których mowa w ust. 2 pkt 3 lit. a tiret pierwsze, obejmują co najmniej jedno spotkanie na obszarze każdej z gmin planowanych do objęcia LSR poświęcone w szczególności analizie potrzeb rozwojowych i potencjału danego obszaru, a także celów LSR, w tym wymiernych celów końcowych polegających na osiągnięciu określonych rezultatów, oraz planowanych działań, o których mowa w art. 32 ust. 1 lit. c i d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej, i odbywają się według harmonogramu określonego w planie włączenia społeczności.
-3a.
+3aDodany przez § 1 pkt 1 lit. e rozporządzenia, o którym mowa w odnośniku 2..
 Spotkania, o których mowa w ust. 3, mogą w uzasadnionych przypadkach zostać przeprowadzone z wykorzystaniem środków komunikacji elektronicznej, w szczególności gdy nie mogą się odbyć we wskazanym miejscu z uwagi na wprowadzenie ograniczeń, nakazów i zakazów w związku z wystąpieniem stanu zagrożenia epidemicznego albo stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64, 655 i 974).
 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. f rozporządzenia, o którym mowa w odnośniku 2.
 § 4.
 Pomocy nie przyznaje się:
-1)
-LGD, której udzielono już wsparcia obejmującego budowanie potencjału, szkolenie i tworzenie sieci kontaktów w celu przygotowania i wdrożenia LSR w rozumieniu art. 35 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), chyba że od dnia udzielenia tego wsparcia po raz ostatni upłynęły 3 lata;
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
+LGD, której udzielono już wsparcia obejmującego budowanie potencjału, szkolenie i tworzenie sieci kontaktów w celu przygotowania i wdrożenia LSR w rozumieniu art. 35 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38., chyba że od dnia udzielenia tego wsparcia po raz ostatni upłynęły 3 lata;
 2)
-(uchylony).
-§ 5.
+(uchylony).Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.
+§ 5W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc przyznaje się w wysokości 74 000 złotych.
 § 6.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 § 7.
 1.
 Postępowanie w sprawie o przyznanie pomocy prowadzi właściwy organ samorządu województwa.
@@ -138,8 +136,7 @@ Wniosek o przyznanie pomocy składa się w:
 1)
 urzędzie marszałkowskim albo
 2)
-samorządowej jednostce
-samorządu województwa, na którego obszarze znajduje się siedziba podmiotu ubiegającego się o przyznanie pomocy.
+samorządowej jednostce – samorządu województwa, na którego obszarze znajduje się siedziba podmiotu ubiegającego się o przyznanie pomocy.
 § 10.
 1.
 Wniosek o przyznanie pomocy zawiera w szczególności:
@@ -158,13 +155,13 @@ plan włączenia społeczności;
 3)
 kopie dokumentów potwierdzających członkostwo lub zobowiązanie do współpracy, o których mowa w § 3 ust. 2 pkt 1;
 4)
-(uchylony);
+(uchylony);Przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 5)
-(uchylony);
-6)
+(uchylony);Przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2.
+6Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 opis procesu przygotowania LSR;
-7)
-oświadczenie wnioskodawcy, że warunki przyznania pomocy w celu ich spełnienia, stosownie do art. 60 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.), nie zostały sztucznie stworzone, w szczególności że wnioskodawca ani jego członkowie nie są powiązani z innymi wnioskodawcami lub ich członkami w sposób świadczący o zamiarze uzyskania pomocy w sposób sprzeczny z celami tej pomocy.
+7Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
+oświadczenie wnioskodawcy, że warunki przyznania pomocy w celu ich spełnienia, stosownie do art. 60 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 256 z 01.10.2015, str. 9, Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 242 z 09.09.2016, str. 22, Dz. Urz. UE L 327 z 09.12.2017, str. 83, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 27 z 31.01.2020, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1., nie zostały sztucznie stworzone, w szczególności że wnioskodawca ani jego członkowie nie są powiązani z innymi wnioskodawcami lub ich członkami w sposób świadczący o zamiarze uzyskania pomocy w sposób sprzeczny z celami tej pomocy.
 3.
 Kopie dokumentów dołącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika urzędu marszałkowskiego lub samorządowej jednostki, lub podmiot, który wydał dokument, lub notariusza.
 4.
@@ -206,42 +203,42 @@ Wezwanie wnioskodawcy do wykonania określonych czynności w toku postępowania 
 § 15.
 1.
 Poza postanowieniami określonymi w art. 36 ustawy umowa określa warunki wypłaty pomocy oraz zawiera co najmniej zobowiązania beneficjenta dotyczące:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 realizacji operacji, w tym przygotowania LSR w wyniku realizacji planu włączenia społeczności i zgodnie z założeniami opisu procesu przygotowania LSR;
 2)
-(uchylony);
+(uchylony);Przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 3)
 przechowywania dokumentów związanych z przyznaną pomocą do dnia upływu 5 lat od dnia wypłaty drugiej transzy pomocy;
 4)
 informowania właściwego organu samorządu województwa o okolicznościach mogących mieć wpływ na wykonanie umowy;
 5)
 umożliwienia przeprowadzania kontroli związanych z przyznaną pomocą do dnia upływu 5 lat od dnia wypłaty drugiej transzy pomocy;
-6)
+6Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 udostępniania uprawnionym podmiotom informacji niezbędnych do monitorowania i ewaluacji PROW 2014–2020 do dnia upływu 5 lat od dnia wypłaty drugiej transzy pomocy;
 7)
 ustanowienia zabezpieczenia należytego wykonania przez beneficjenta zobowiązań określonych w umowie.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Organizacja spotkań, o których mowa w § 3 ust. 3, w ramach realizacji planu włączenia społeczności następuje nie wcześniej niż w dniu przekazania do właściwego organu samorządu województwa informacji o miejscach i terminach przeprowadzenia tych spotkań oraz o tym, czy te spotkania będą przeprowadzone zgodnie z § 3 ust. 3a.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 5.
 Formularz umowy udostępnia się nie później niż w dniu podania do publicznej wiadomości ogłoszenia, o którym mowa w § 8 ust. 1.
 § 16.
 1.
 Środki finansowe z tytułu pomocy są wypłacane na warunkach określonych w umowie, z tym że pomoc jest wypłacana w dwóch transzach.
 2.
-Pierwsza transza pomocy obejmuje 20% kwoty przyznanej pomocy i jest wypłacana, jeżeli:
+Pierwsza transza pomocy obejmuje 20% kwoty przyznanej pomocy i jest wypłacana, jeżeli:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 7 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
 1)
 beneficjent:
 a)
-(uchylona),
+(uchylona),Przez § 1 pkt 7 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 b)
-(uchylona),
+(uchylona),Przez § 1 pkt 7 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 c)
 przedstawił właściwemu organowi samorządu województwa informację, o której mowa w § 15 ust. 2;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 jest prowadzona strona internetowa, o której mowa w § 3 ust. 2 pkt 3 lit. d, i na tej stronie zostały podane do publicznej wiadomości plan włączenia społeczności wraz z opisem procesu przygotowania LSR oraz informacja, o której mowa w § 15 ust. 2.
 3.
 Druga transza pomocy jest wypłacana, jeżeli:
@@ -249,28 +246,27 @@ Druga transza pomocy jest wypłacana, jeżeli:
 beneficjent zrealizował lub realizuje zobowiązania określone w umowie;
 2)
 w terminie składania wniosków o wybór LSR, o którym mowa w art. 7 pkt 2 ustawy o rozwoju lokalnym, beneficjent:
-a)
+aZe zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 zrealizował operację zgodnie z warunkami określonymi w rozporządzeniu i w umowie, w tym zrealizował plan włączenia społeczności zgodnie z opisem procesu przygotowania LSR,
 b)
 udokumentował zrealizowanie operacji;
-3)
+3Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 beneficjent przygotował LSR;
-4)
+4Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 realizacja przygotowanej przez beneficjenta LSR ma być współfinansowana w szczególności ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich;
-5)
+5Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 2.)
 przygotowana przez beneficjenta LSR spełnia warunki dostępu określone w przepisach ustawy o rozwoju lokalnym.
 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 5.
-(uchylony).
+(uchylony).Przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 § 17.
 1.
 Wniosek o płatność składa się w:
 1)
 urzędzie marszałkowskim albo
 2)
-samorządowej jednostce
-samorządu województwa, z którym jest zawarta umowa.
+samorządowej jednostce – samorządu województwa, z którym jest zawarta umowa.
 2.
 Do wniosku o płatność dołącza się dokumenty niezbędne do wypłaty środków finansowych z tytułu pomocy, potwierdzające spełnienie warunków wypłaty pomocy, których wykaz zawiera formularz wniosku o płatność.
 3.
@@ -301,7 +297,7 @@ Pomoc wypłacona w ramach pierwszej transzy podlega zwrotowi, jeżeli nie są sp
 2.
 W przypadku niezrealizowania zobowiązania, o którym mowa w § 15 ust. 1:
 1)
-(uchylony);
+(uchylony);Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2.
 2)
 pkt 3 – zwrotowi podlega 5% kwoty wypłaconej pomocy;
 3)
@@ -313,13 +309,12 @@ pkt 6 – zwrotowi podlega 3% kwoty wypłaconej pomocy.
 Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie o przyznanie pomocy i w sprawie o wypłatę środków finansowych z tytułu pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
 2.
 Jeżeli przepisy rozporządzenia nie stanowią inaczej, termin wykonania określonych czynności w toku postępowania w sprawie o przyznanie pomocy i w sprawie o wypłatę środków finansowych z tytułu pomocy uważa się za zachowany, jeżeli przed jego upływem nadano pismo w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896).
-§ 22.
+§ 22Ze zmianą wprowadzoną przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2..
 W poddziałaniu „Wsparcie przygotowawcze” w ramach działania „Wsparcie dla rozwoju lokalnego w ramach inicjatywy LEADER” objętego PROW 2014–2020:
 1)
 następca prawny wnioskodawcy nie wstępuje do toczącego się postępowania w sprawie o przyznanie pomocy na miejsce wnioskodawcy;
 2)
 następcy prawnemu beneficjenta nie przyznaje się pomocy.
 § 23.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie przygotowawcze” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 201), które weszło w życie z dniem 29 stycznia 2022 r. 3) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 5) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 261 z 22.07.2021, str. 58. 6) Przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b tiret trzecie podwójne tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 8) Przez § 1 pkt 1 lit. b tiret trzecie podwójne tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 9) Dodana przez § 1 pkt 1 lit. b tiret trzecie podwójne tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 1 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 1 lit. d rozporządzenia, o którym mowa w odnośniku 2. 13) Dodany przez § 1 pkt 1 lit. e rozporządzenia, o którym mowa w odnośniku 2. 14) Przez § 1 pkt 1 lit. f rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 16) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38. 17) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 18) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 19) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 20) Przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 21) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 22) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 256 z 01.10.2015, str. 9, Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 242 z 09.09.2016, str. 22, Dz. Urz. UE L 327 z 09.12.2017, str. 83, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 27 z 31.01.2020, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1. 23) W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 24) Przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 25) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 26) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 27) Przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 2. 28) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 7 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 29) Przez § 1 pkt 7 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 30) W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 31) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 32) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 33) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 34) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 35) Przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 2. 36) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 37) Ze zmianą wprowadzoną przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 38) Rozporządzenie zostało ogłoszone w dniu 19 czerwca 2015 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 19 czerwca 2015 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie przygotowawcze” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 201), które weszło w życie z dniem 29 stycznia 2022 r. 3) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 5) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 261 z 22.07.2021, str. 58. 6) Przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b tiret trzecie podwójne tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 8) Przez § 1 pkt 1 lit. b tiret trzecie podwójne tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 9) Dodana przez § 1 pkt 1 lit. b tiret trzecie podwójne tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 1 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 1 lit. d rozporządzenia, o którym mowa w odnośniku 2. 13) Dodany przez § 1 pkt 1 lit. e rozporządzenia, o którym mowa w odnośniku 2. 14) Przez § 1 pkt 1 lit. f rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 16) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38. 17) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 18) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 19) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 20) Przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 21) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 22) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 256 z 01.10.2015, str. 9, Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 242 z 09.09.2016, str. 22, Dz. Urz. UE L 327 z 09.12.2017, str. 83, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 27 z 31.01.2020, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1. 23) W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 24) Przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 25) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 26) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 27) Przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 2. 28) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 7 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 29) Przez § 1 pkt 7 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 30) W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 31) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 32) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 33) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 34) Ze zmianą wprowadzoną przez § 1 pkt 7 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 35) Przez § 1 pkt 7 lit. c rozporządzenia, o którym mowa w odnośniku 2. 36) Przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 37) Ze zmianą wprowadzoną przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 38) Rozporządzenie zostało ogłoszone w dniu 19 czerwca 2015 r.
 

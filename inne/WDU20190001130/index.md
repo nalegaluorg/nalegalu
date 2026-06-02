@@ -35,13 +35,11 @@ ustawą z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu wielo
 2)
 ustawą z dnia 15 stycznia 2015 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. poz. 300),
 3)
-ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 czerwca 2019 r.
+ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 czerwca 2019 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 2 ustawy z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. Nr 79, poz. 664), który stanowi:
-„
+art. 2 ustawy z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. Nr 79, poz. 664), który stanowi: „
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 
@@ -55,15 +53,9 @@ art. 2 ustawy z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu
 
 **Art. 1.**
 
-1. Ustanawia się program wieloletni „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”, zwany dalej „Programem”.
+1. Ustanawia się program wieloletni „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”, zwany dalej „Programem”. 2W brzmieniu ustalonym przez art. 1 ustawy z dnia 15 stycznia 2015 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. poz. 300), która weszła w życie z dniem 19 marca 2015 r.. Ustala się okres realizacji Programu na lata 2001–2017. Nadzór nad realizacją Programu sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
 
-2. Ustala się okres realizacji Programu na lata 2001–2017. Nadzór nad realizacją Programu sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
+**Art. 3.** 1W brzmieniu ustalonym przez art. 1 pkt 2 ustawy z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. poz. 664), która weszła w życie z dniem 12 czerwca 2009 r.. Łączne nakłady budżetu państwa na dofinansowanie Programu w całym okresie jego realizacji nie mogą przekroczyć kwoty 946 543 tys. zł, przy wartości kosztorysowej zadań inwestycyjnych objętych Programem wynoszącej 962 500 tys. zł w cenach roku 2008. 2. Środki finansowe z budżetu państwa, o których mowa w ust. 1, uwzględnia się każdego roku w ustawie budżetowej.
 
-**Art. 3.**
-
-1. Łączne nakłady budżetu państwa na dofinansowanie Programu w całym okresie jego realizacji nie mogą przekroczyć kwoty 946 543 tys. zł, przy wartości kosztorysowej zadań inwestycyjnych objętych Programem wynoszącej 962 500 tys. zł w cenach roku 2008.
-
-2. Środki finansowe z budżetu państwa, o których mowa w ust. 1, uwzględnia się każdego roku w ustawie budżetowej.
-
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 29 czerwca 2001 r.. 1) W brzmieniu ustalonym przez art. 1 ustawy z dnia 15 stycznia 2015 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. poz. 300), która weszła w życie z dniem 19 marca 2015 r. 2) W brzmieniu ustalonym przez art. 55 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 3) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. poz. 664), która weszła w życie z dniem 12 czerwca 2009 r. 4) Ustawa została ogłoszona w dniu 29 czerwca 2001 r.
 

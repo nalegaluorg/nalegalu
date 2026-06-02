@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-06 |
 | Data wydania | 2007-01-17 |
-| Wejście w życie | 2007-02-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070070047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/47/text.pdf) |
 
@@ -42,7 +41,7 @@ source: "eli-html"
 6. Spółka jest obowiązana do:
 
 - **1)** prowadzenia odrębnej ewidencji dla działalności związanej z realizacją celów określonych w art. 1 oraz dla pozostałej działalności gospodarczej, w tym do prawidłowego przypisywania przychodów i kosztów na podstawie konsekwentnie stosowanych i mających obiektywne uzasadnienie metod oraz
-- **2)** jasnego określenia w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.), zasad prowadzenia odrębnej ewidencji oraz metod przypisywania kosztów i przychodów, o których mowa w pkt 1, oraz
+- **2)** jasnego określenia w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252 oraz z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540.), zasad prowadzenia odrębnej ewidencji oraz metod przypisywania kosztów i przychodów, o których mowa w pkt 1, oraz
 - **3)** składania sprawozdań kwartalnych i rocznych z realizacji zadań objętych dotacją i wykorzystania dotacji.
 
 7. Spółka przedstawia ministrowi właściwemu do spraw Skarbu Państwa rozliczenie z otrzymanej dotacji.
@@ -51,7 +50,7 @@ source: "eli-html"
 
 - **2)** art. 5 otrzymuje brzmienie: „
 
-**Art. 5.** Do Spółki stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.), chyba że ustawa stanowi inaczej. ” ;
+**Art. 5.** Do Spółki stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540.), chyba że ustawa stanowi inaczej. ” ;
 
 - **3)** art. 6 otrzymuje brzmienie: „
 
@@ -64,7 +63,7 @@ source: "eli-html"
 - **4)** w art. 7: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Przed udostępnieniem akcji minister właściwy do spraw Skarbu Państwa zarządzi przeprowadzenie analizy ekonomiczno-finansowej i prawnej Spółki, stosując odpowiednio przepisy art. 32 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.). ” , ust. 4 otrzymuje brzmienie: „
+2. Przed udostępnieniem akcji minister właściwy do spraw Skarbu Państwa zarządzi przeprowadzenie analizy ekonomiczno-finansowej i prawnej Spółki, stosując odpowiednio przepisy art. 32 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539 oraz z 2006 r. Nr 107, poz. 721 i Nr 208, poz. 1532.). ” , ust. 4 otrzymuje brzmienie: „
 
 - **b)**
 
@@ -74,5 +73,5 @@ source: "eli-html"
 
 2. Rada Programowa Polskiej Agencji Prasowej S.A., na wniosek organów Spółki lub z własnej inicjatywy, zajmuje stanowiska oraz wyraża opinie w sprawach realizacji zadań przez Spółkę i jej organy. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252 oraz z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722, z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539 oraz z 2006 r. Nr 107, poz. 721 i Nr 208, poz. 1532.
 

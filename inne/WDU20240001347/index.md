@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 10 września 2024 r. w sprawie wykazu Wojewódzkich Ośrodków Monitorujących
+# Rozporządzenie Ministra Zdrowiaz dnia 10 września 2024 r. w sprawie wykazu Wojewódzkich Ośrodków Monitorujących Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-10 |
 | Data wydania | 2024-09-10 |
-| Wejście w życie | 2024-09-11 |
 | Ostatnia zmiana | 2024-09-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001347) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1347/text.pdf) |
 
@@ -63,6 +62,5 @@ Wielkopolskie Centrum Onkologii im. Marii Skłodowskiej-Curie w Poznaniu – dla
 16)
 Zachodniopomorskie Centrum Onkologii w Szczecinie – dla województwa zachodniopomorskiego.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

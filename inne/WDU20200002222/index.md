@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowychz dnia 27 listopada 2020 r. w sprawie szczegółowych zasad podziału uprawnionych pracowników na grupy i ustalenia liczby akcji przypadających na każdą z tych grup oraz trybu nabywania akcji przez uprawnionych pracowników
+# Rozporządzenie Ministra Aktywów Państwowychz dnia 27 listopada 2020 r. w sprawie szczegółowych zasad podziału uprawnionych pracowników na grupy i ustalenia liczby akcji przypadających na każdą z tych grup oraz trybu nabywania akcji przez uprawnionych pracowników Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1a rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2256 oraz z 2020 r. poz. 496 i 1746).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-27 |
 | Data wydania | 2020-12-11 |
-| Wejście w życie | 2020-12-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002222) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2222/text.pdf) |
 
@@ -178,6 +177,5 @@ Przed zawarciem umowy uprawniony pracownik ponownie składa pisemne oświadczeni
 § 16.
 Po dokonaniu czynności z zakresu udostępnienia akcji uprawnionym pracownikom spółka przekazuje ministrowi właściwemu do spraw aktywów państwowych pisemne sprawozdanie z dokonanych czynności.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1a rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2256 oraz z 2020 r. poz. 496 i 1746). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 29 listopada 2017 r. w sprawie szczegółowych zasad podziału uprawnionych pracowników na grupy i ustalenia liczby akcji przypadających na każdą z tych grup oraz trybu nabywania akcji przez uprawnionych pracowników (Dz. U. poz. 2283), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 111 ust. 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 29 listopada 2017 r. w sprawie szczegółowych zasad podziału uprawnionych pracowników na grupy i ustalenia liczby akcji przypadających na każdą z tych grup oraz trybu nabywania akcji przez uprawnionych pracowników (Dz. U. poz. 2283), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 111 ust. 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284). 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1a rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2256 oraz z 2020 r. poz. 496 i 1746). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 29 listopada 2017 r. w sprawie szczegółowych zasad podziału uprawnionych pracowników na grupy i ustalenia liczby akcji przypadających na każdą z tych grup oraz trybu nabywania akcji przez uprawnionych pracowników (Dz. U. poz. 2283), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 111 ust. 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284).
 

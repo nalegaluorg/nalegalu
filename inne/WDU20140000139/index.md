@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-28 |
 | Data wydania | 2014-01-29 |
-| Wejście w życie | 2014-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/139/text.pdf) |
 
@@ -80,5 +79,5 @@ Aktywa funduszu nie mogą być lokowane w instrumenty finansowe, których warto�
 § 7.
 W celu obliczenia maksymalnej części aktywów funduszu w poszczególnych kategoriach lokat, dla celów ustalenia zgodności z obowiązującymi ograniczeniami, do wartości dłużnych papierów wartościowych zalicza się wartość naliczonych odsetek na dzień wyceny.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 26 kwietnia 2011 r. w sprawie dodatkowych ograniczeń w zakresie prowadzenia działalności lokacyjnej przez fundusze emerytalne (Dz. U. Nr 90, poz. 517), które traci moc z dniem 1 lutego 2014 r. w związku z wejściem w życie ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 26 kwietnia 2011 r. w sprawie dodatkowych ograniczeń w zakresie prowadzenia działalności lokacyjnej przez fundusze emerytalne (Dz. U. Nr 90, poz. 517), które traci moc z dniem 1 lutego 2014 r. w związku z wejściem w życie ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717).
 

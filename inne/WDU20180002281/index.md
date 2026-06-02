@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 listopada 2018 r. zmieniające rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego
+# Rozporządzenie Ministra Zdrowiaz dnia 27 listopada 2018 r. zmieniające rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-27 |
 | Data wydania | 2018-12-07 |
-| Wejście w życie | 2018-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002281) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2281/text.pdf) |
 
@@ -31,18 +30,13 @@ Na podstawie art. 10b ust. 6 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowi
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 13 stycznia 2006 r. w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 126 oraz z 2010 r. poz. 552) wprowadza się następujące zmiany:
 1)
-§ 2 otrzymuje brzmienie:
-„
+§ 2 otrzymuje brzmienie: „
 § 2.
-Rzecznik wykonuje czynności, o których mowa w § 1, w oddziałach psychiatrycznych w szpitalach ogólnych, klinikach psychiatrycznych, sanatoriach dla osób z zaburzeniami psychicznymi i innych zakładach leczniczych sprawujących całodobową opiekę psychiatryczną lub odwykową, przy czym swoim działaniem obejmuje obszar terytorialny nie większy niż trzy sąsiadujące ze sobą województwa, w zależności od rozmieszczenia tych zakładów.
-” ;
+Rzecznik wykonuje czynności, o których mowa w § 1, w oddziałach psychiatrycznych w szpitalach ogólnych, klinikach psychiatrycznych, sanatoriach dla osób z zaburzeniami psychicznymi i innych zakładach leczniczych sprawujących całodobową opiekę psychiatryczną lub odwykową, przy czym swoim działaniem obejmuje obszar terytorialny nie większy niż trzy sąsiadujące ze sobą województwa, w zależności od rozmieszczenia tych zakładów. ” ;
 2)
-w § 7 ust. 1 otrzymuje brzmienie:
-„
+w § 7 ust. 1 otrzymuje brzmienie: „
 1.
-Rzecznik umieszcza na tablicach informacyjnych w oddziałach psychiatrycznych w szpitalach ogólnych, klinikach psychiatrycznych, sanatoriach dla osób z zaburzeniami psychicznymi i innych zakładach leczniczych sprawujących całodobową opiekę psychiatryczną lub odwykową informację o możliwości korzystania z pomocy Rzecznika przez pacjenta, jego przedstawiciela ustawowego, opiekuna prawnego lub osobę sprawującą faktyczną opiekę nad pacjentem.
-” .
+Rzecznik umieszcza na tablicach informacyjnych w oddziałach psychiatrycznych w szpitalach ogólnych, klinikach psychiatrycznych, sanatoriach dla osób z zaburzeniami psychicznymi i innych zakładach leczniczych sprawujących całodobową opiekę psychiatryczną lub odwykową informację o możliwości korzystania z pomocy Rzecznika przez pacjenta, jego przedstawiciela ustawowego, opiekuna prawnego lub osobę sprawującą faktyczną opiekę nad pacjentem. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 

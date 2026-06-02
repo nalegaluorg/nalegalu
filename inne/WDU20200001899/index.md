@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-17 |
 | Data wydania | 2020-10-28 |
-| Wejście w życie | 2020-11-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001899) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1899/text.pdf) |
 
@@ -111,7 +110,7 @@ source: "eli-html"
 - **2)** sposób funkcjonowania centrum i sposób realizacji jego zadań przez operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów oraz koordynatorów-trenerów,
 - **3)** procedury obsługi zgłoszeń alarmowych oraz sposób ich opracowywania i aktualizacji,
 - **4)** procedury obsługi zgłoszeń alarmowych w przypadku, o którym mowa w art. 8 ust. 2, oraz sposób ich opracowywania i aktualizacji,
-- **5)** maksymalną liczbę operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów i koordynatorów-trenerów oraz sposób jej podziału na poszczególne centra uwzględniając konieczność ujednolicenia struktury organizacyjnej i realizacji zadań przez centrum oraz jego oddziały, zapewnienia właściwego funkcjonowania centrum i jego oddziałów i sprawnej obsługi zgłoszeń alarmowych oraz unifikacji procedur ich obsługi. ” ;
+- **5)** maksymalną liczbę operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów i koordynatorów-trenerów oraz sposób jej podziału na poszczególne centra – uwzględniając konieczność ujednolicenia struktury organizacyjnej i realizacji zadań przez centrum oraz jego oddziały, zapewnienia właściwego funkcjonowania centrum i jego oddziałów i sprawnej obsługi zgłoszeń alarmowych oraz unifikacji procedur ich obsługi. ” ;
 - **9)** art. 12 i art. 13 otrzymują brzmienie: „
 
 **Art. 12.** Podmioty ratownicze zapewniają warunki techniczne i organizacyjne umożliwiające przyjęcie zgłoszeń alarmowych kierowanych z centrum za pośrednictwem systemu teleinformatycznego w celu podjęcia działań ratowniczych w związku z otrzymanym zgłoszeniem alarmowym.
@@ -134,7 +133,7 @@ source: "eli-html"
 
 - **1)** wymagania funkcjonalne dla systemu teleinformatycznego,
 - **2)** wymagania funkcjonalne dla interfejsu komunikacyjnego,
-- **3)** zakres informacji przekazywanych za pośrednictwem interfejsu komunikacyjnego mając na uwadze potrzebę sprawnego przekazania zgłoszenia alarmowego między systemem teleinformatycznym a podmiotami ratowniczymi. ” ;
+- **3)** zakres informacji przekazywanych za pośrednictwem interfejsu komunikacyjnego – mając na uwadze potrzebę sprawnego przekazania zgłoszenia alarmowego między systemem teleinformatycznym a podmiotami ratowniczymi. ” ;
 - **10)** art. 16 otrzymuje brzmienie: „
 
 **Art. 16.**
@@ -230,7 +229,7 @@ source: "eli-html"
 - **5)** wymagania dotyczące bazy dydaktycznej,
 - **6)** szczegółową formę i szczegółowy tryb przeprowadzania oraz sposób dokumentowania egzaminu, o którym mowa w art. 16a ust. 2,
 - **7)** wzór certyfikatu operatora numerów alarmowych,
-- **8)** wzór zaświadczenia o ukończeniu szkolenia w ramach doskonalenia zawodowego uwzględniając konieczność zapewnienia jednakowego poziomu wiedzy i umiejętności zdobytych przez pracowników centrum podczas szkolenia oraz czytelności wzorów certyfikatu i zaświadczenia.
+- **8)** wzór zaświadczenia o ukończeniu szkolenia w ramach doskonalenia zawodowego – uwzględniając konieczność zapewnienia jednakowego poziomu wiedzy i umiejętności zdobytych przez pracowników centrum podczas szkolenia oraz czytelności wzorów certyfikatu i zaświadczenia.
 
 1. Nadzór nad prawidłową realizacją pracy operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów oraz koordynatorów-trenerów sprawuje kierownik centrum lub jego zastępca.
 
@@ -315,8 +314,13 @@ source: "eli-html"
 
 6. Przekazywanie zgłoszeń z centrum do dyspozytorni medycznej drogą elektroniczną za pomocą interfejsu komunikacyjnego następuje po upływie miesiąca od dnia ogłoszenia, o którym mowa w ust. 4. ” ;
 
-- **19)** w art. 35: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Maksymalny limit wydatków z budżetu państwa, w częściach, których dysponentami są minister właściwy do spraw administracji publicznej, minister właściwy do spraw finansów publicznych oraz wojewodowie w zakresie systemu, będących skutkiem finansowym ustawy, wynosi 1 053 814 533 zł, z tego: ” , – pkt 7–10 otrzymują brzmienie: „ 7) w 2020 r. – 155 425 000 zł; 8) w 2021 r. – 159 360 000 zł; 9) w 2022 r. – 163 392 000 zł; 10) w 2023 r. – 167 480 000 zł. ” , w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Maksymalny limit wydatków z budżetu państwa, w częściach, których dysponentem jest minister właściwy do spraw wewnętrznych w zakresie dotyczącym współpracy Policji, Państwowej Straży Pożarnej, dyspozytorni medycznych i ministra właściwego do spraw zdrowia z systemem oraz wojewodów w zakresie dotyczącym współpracy Państwowej Straży Pożarnej z systemem, będących skutkiem finansowym ustawy, wynosi 342 173 239 zł, z tego: ” .
+- **19)** w art. 35: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Maksymalny limit wydatków z budżetu państwa, w częściach, których dysponentami są minister właściwy do spraw administracji publicznej, minister właściwy do spraw finansów publicznych oraz wojewodowie w zakresie systemu, będących skutkiem finansowym ustawy, wynosi 1 053 814 533 zł, z tego: ” , pkt 7–10 otrzymują brzmienie: „
     - **a)**
+
+- **7)** w 2020 r. – 155 425 000 zł;
+- **8)** w 2021 r. – 159 360 000 zł;
+- **9)** w 2022 r. – 163 392 000 zł;
+- **10)** w 2023 r. – 167 480 000 zł. ” , w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Maksymalny limit wydatków z budżetu państwa, w częściach, których dysponentem jest minister właściwy do spraw wewnętrznych w zakresie dotyczącym współpracy Policji, Państwowej Straży Pożarnej, dyspozytorni medycznych i ministra właściwego do spraw zdrowia z systemem oraz wojewodów w zakresie dotyczącym współpracy Państwowej Straży Pożarnej z systemem, będących skutkiem finansowym ustawy, wynosi 342 173 239 zł, z tego: ” .
     - **b)**
 
 **Art. 2.** W urzędzie obsługującym ministra właściwego do spraw administracji publicznej tworzy się Krajowe Centrum Monitorowania Systemu Powiadamiania Ratunkowego.
@@ -353,9 +357,9 @@ source: "eli-html"
 **Art. 7.** Szkolenia, o których mowa w art. 18 ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, powierzone do prowadzenia wojewodzie lub innemu podmiotowi, są realizowane na podstawie dotychczasowych przepisów, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 9 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 13 ust. 3 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13 ust. 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+- **2)** art. 13 ust. 3 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13 ust. 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 - **1)** art. 1 pkt 11 w zakresie art. 16a, art. 16b i art. 16c ust. 5–8,
 - **2)** art. 1 pkt 13 w zakresie art. 18a pkt 3–8,
-- **3)** art. 1 pkt 17 w zakresie art. 28b ust. 2 ustawy zmienianej w art. 1, które wchodzą w życie w terminie 6 miesięcy od dnia ogłoszenia.
+- **3)** art. 1 pkt 17 w zakresie art. 28b ust. 2 – ustawy zmienianej w art. 1, które wchodzą w życie w terminie 6 miesięcy od dnia ogłoszenia.
 
 

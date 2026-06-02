@@ -22,23 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-09 |
 | Data wydania | 2015-11-26 |
-| Wejście w życie | 2016-03-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001975) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1975/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Wymagania dotyczące przeprowadzanej przez wytwórcę produktów leczniczych oceny producenta substancji pomocniczych wykorzystywanych do wytwarzania produktów leczniczych przeznaczonych dla ludzi w celu ustalenia ryzyka i zastosowania wymagań dobrej praktyki wytwarzania odpowiednich do stwierdzonego ryzyka wprowadzenie Rozdział 1 – ZAKRES Rozdział 2 – OKREŚLENIE ODPOWIEDNICH WYMAGAŃ GMP NA PODSTAWIE RODZAJU I ZASTOSOWANIA SUBSTANCJI POMOCNICZEJ Rozdział 3 – OKREŚLENIE PROFILU RYZYKA PRODUCENTA SUBSTANCJI POMOCNICZEJ Rozdział 4 – POTWIERDZENIE STOSOWANIA ODPOWIEDNICH WYMAGAŃ GMP
+Załącznik – Wymagania dotyczące przeprowadzanej przez wytwórcę produktów leczniczych oceny producenta substancji pomocniczych wykorzystywanych do wytwarzania produktów leczniczych przeznaczonych dla ludzi w celu ustalenia ryzyka i zastosowania wymagań dobrej praktyki wytwarzania odpowiednich do stwierdzonego ryzyka wprowadzenie
 Treść rozporządzenia
-Na podstawie art. 51b ust. 13 pkt 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 51b ust. 13 pkt 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918 i 1926.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wymagania dotyczące przeprowadzanej przez wytwórcę produktów leczniczych oceny producenta substancji pomocniczych oraz substancji pomocniczych wykorzystywanych do wytwarzania produktów leczniczych przeznaczonych dla ludzi w celu ustalenia ich ryzyka i zastosowania wymagań Dobrej Praktyki Wytwarzania odpowiednich do stwierdzonego ryzyka.
 § 2.
 Wymagania, o których mowa w § 1, są określone w załączniku do rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 21 marca 2016 r.
+Rozporządzenie wchodzi w życie z dniem 21 marca 2016 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918 i 1926.
 Załącznik – Wymagania dotyczące przeprowadzanej przez wytwórcę produktów leczniczych oceny producenta substancji pomocniczych wykorzystywanych do wytwarzania produktów leczniczych przeznaczonych dla ludzi w celu ustalenia ryzyka i zastosowania wymagań dobrej praktyki wytwarzania odpowiednich do stwierdzonego ryzyka wprowadzenie
 Wytwórca produktu leczniczego zapewnia, aby substancje pomocnicze nadawały się do wykorzystania w produktach leczniczych, poprzez ustalenie, które wymagania określone w przepisach wydanych na podstawie art. 39 ust. 5 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zwanych dalej „GMP”, są odpowiednie. Odpowiednie wymagania GMP dla substancji pomocniczych wykorzystywanych do wytwarzania produktów leczniczych przeznaczonych dla ludzi ustala się na podstawie formalnej oceny ryzyka. Ocena ryzyka uwzględnia wymagania obowiązujące w ramach innych systemów jakości mających zastosowanie u wytwórcy produktu leczniczego, a także pochodzenie, rodzaj i planowane wykorzystanie substancji pomocniczych oraz wcześniejsze przypadki wad jakościowych. Wytwórca produktu leczniczego stosuje ustalone w ten sposób odpowiednie wymagania GMP. Wytwórca produktu leczniczego dokumentuje zastosowane wymagania. Procedura oceny ryzyka lub zarządzania ryzykiem w odniesieniu do substancji pomocniczych stanowi element Farmaceutycznego Systemu Jakości wytwórcy produktu leczniczego. Dokumentacja dotycząca oceny ryzyka lub zarządzania ryzykiem dla substancji pomocniczych, w tym procedura oceny ryzyka lub zarządzania ryzykiem, jest udostępniana podczas inspekcji. Istotne informacje zawarte w ocenie ryzyka są przekazywane, w miarę potrzeb, producentowi substancji pomocniczej, aby ułatwić mu wprowadzenie ulepszeń.
+ZAKRES
 Wymagań nie stosuje się do substancji pomocniczych dodawanych w celu zapewnienia stabilności do substancji czynnych, które nie mogą istnieć samodzielnie.
+OKREŚLENIE ODPOWIEDNICH WYMAGAŃ GMP NA PODSTAWIE RODZAJU I ZASTOSOWANIA SUBSTANCJI POMOCNICZEJ
 2.1.
 W GMP oraz w wytycznej Międzynarodowej Konferencji ds. Harmonizacji ICH Q9 Zarządzania Ryzykiem Jakości (ICH Q9) są określone zasady i przykłady narzędzi Zarządzania Ryzykiem Jakości, które można stosować w odniesieniu do substancji pomocniczych.
 2.2.
@@ -119,6 +120,7 @@ system kontroli zmian i system zarządzania odchyleniami;
 program inspekcji wewnętrznych;
 16)
 kontrolę środowiska wytwarzania i warunków przechowywania.
+OKREŚLENIE PROFILU RYZYKA PRODUCENTA SUBSTANCJI POMOCNICZEJ
 3.1.
 Wytwórca produktu leczniczego po określeniu odpowiednich wymagań GMP przeprowadzi analizę różnic pomiędzy stanem faktycznym i możliwościami producenta substancji pomocniczej a tymi wymaganiami.
 3.2.
@@ -129,6 +131,7 @@ Przy określaniu profilu ryzyka wytwórca produktu leczniczego uwzględni certyf
 Wytwórca produktu leczniczego udokumentuje zidentyfikowane różnice pomiędzy odpowiednimi wymaganiami GMP a stanem faktycznym i możliwościami producenta substancji pomocniczej. Wytwórca produktu leczniczego przeprowadzi ocenę ryzyka w celu określenia profilu ryzyka producenta substancji pomocniczej, na przykład: niskiego, średniego albo wysokiego ryzyka. Do tego celu stosuje się wytyczne ICH Q9 i wymienione tam narzędzia Zarządzania Ryzykiem Jakości, na przykład HACCP.
 3.5.
 Wytwórca produktu leczniczego w zależności od profilu ryzyka producenta substancji pomocniczej posiada kilka schematów postępowania: od zaakceptowania przez kontrolowanie do odrzucenia producenta substancji pomocniczej oraz bazującą na tym strategię kontroli producenta substancji pomocniczej, na przykład: audyt, pozyskiwanie dokumentacji i badania.
+POTWIERDZENIE STOSOWANIA ODPOWIEDNICH WYMAGAŃ GMP
 4.1.
 Wytwórca produktu leczniczego po określeniu odpowiednich wymagań GMP dla substancji pomocniczej i profilu ryzyka producenta substancji pomocniczej przeprowadza stałą ocenę ryzyka przez:
 1)
@@ -150,11 +153,19 @@ ankiety.
 4.2.
 Wytwórca produktu leczniczego na podstawie wyników oceny ryzyka wykona przeglądu i, w razie potrzeby, skoryguje ustaloną strategię kontroli.
 
-#### Rozdział 1 ZAKRES
+#### Rozdział 1 – ZAKRES
 
-#### Rozdział 2 OKREŚLENIE ODPOWIEDNICH WYMAGAŃ GMP NA PODSTAWIE RODZAJU I ZASTOSOWANIA SUBSTANCJI POMOCNICZEJ
+#### Rozdział 2 – OKREŚLENIE ODPOWIEDNICH WYMAGAŃ GMP NA PODSTAWIE RODZAJU I ZASTOSOWANIA SUBSTANCJI POMOCNICZEJ
 
-#### Rozdział 3 OKREŚLENIE PROFILU RYZYKA PRODUCENTA SUBSTANCJI POMOCNICZEJ
+#### Rozdział 3 – OKREŚLENIE PROFILU RYZYKA PRODUCENTA SUBSTANCJI POMOCNICZEJ
 
-#### Rozdział 4 POTWIERDZENIE STOSOWANIA ODPOWIEDNICH WYMAGAŃ GMP
+#### Rozdział 4 – POTWIERDZENIE STOSOWANIA ODPOWIEDNICH WYMAGAŃ GMP
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

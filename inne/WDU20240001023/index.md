@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 4 lipca 2024 r. w sprawie współpracy wierzyciela, organu egzekucyjnego i dłużnika zajętej wierzytelności w postępowaniu egzekucyjnym należności pieniężnych
+# Rozporządzenie Ministra Finansówz dnia 4 lipca 2024 r. w sprawie współpracy wierzyciela, organu egzekucyjnego i dłużnika zajętej wierzytelności w postępowaniu egzekucyjnym należności pieniężnych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-04 |
 | Data wydania | 2024-07-10 |
-| Wejście w życie | 2024-07-11 |
 | Ostatnia zmiana | 2024-07-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001023) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1023/text.pdf) |
 
@@ -122,7 +121,7 @@ W przypadku niewyegzekwowania należności pieniężnej, odsetek z tytułu nieza
 W przypadku, o którym mowa w ust. 1, inny uprawniony organ egzekucyjny zawiadamia wierzyciela niebędącego jednocześnie organem egzekucyjnym o zakończeniu prowadzonej przez siebie egzekucji. Przepis § 9 ust. 2 pkt 1 stosuje się odpowiednio.
 § 11.
 1.
-Organ egzekucyjny, który prowadzi postępowanie egzekucyjne na podstawie tytułu wykonawczego, o którym mowa w art. 79 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm.), przekazuje innemu uprawnionemu organowi egzekucyjnemu:
+Organ egzekucyjny, który prowadzi postępowanie egzekucyjne na podstawie tytułu wykonawczego, o którym mowa w art. 79 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 288 z 22.10.2016, str. 58, Dz. Urz. UE L 76 z 22.03.2017, str. 13 oraz Dz. Urz. UE L 54 z 24.02.2018, str. 18., przekazuje innemu uprawnionemu organowi egzekucyjnemu:
 1)
 wniosek egzekucyjny o zastosowanie środków egzekucyjnych, do których organ egzekucyjny nie jest uprawniony;
 2)
@@ -170,13 +169,11 @@ Przepisy § 7 ust. 1 zdanie drugie oraz ust. 3 i 4 rozporządzenia uchylanego w 
 1)
 przekazywania innemu uprawnionemu organowi egzekucyjnemu dalszego tytułu wykonawczego lub kolejnego tytułu wykonawczego w przypadku, o którym mowa w art. 26c § 1 pkt 1 lub art. 26ca § 1 ustawy, wraz z wnioskiem o zastosowanie środków egzekucyjnych, do których organ egzekucyjny nie jest uprawniony,
 2)
-wniosku o zastosowanie środków egzekucyjnych, do których organ egzekucyjny nie jest uprawniony
-jednak nie dłużej niż do dnia 30 czerwca 2025 r.
+wniosku o zastosowanie środków egzekucyjnych, do których organ egzekucyjny nie jest uprawniony – jednak nie dłużej niż do dnia 30 czerwca 2025 r.
 § 19.
 Do doręczeń pomiędzy wierzycielem, organem egzekucyjnym i innym organem egzekucyjnym, dokonywanych przed dniem, w którym ostatni z podmiotów, pomiędzy którymi dokonywane jest doręczenie, stał się obowiązany do stosowania przepisów ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych w zakresie doręczania korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego, stosuje się przepisy dotychczasowe.
 § 20.
 Traci moc rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 lutego 2021 r. w sprawie współpracy wierzyciela, organu egzekucyjnego i dłużnika zajętej wierzytelności w postępowaniu egzekucyjnym należności pieniężnych (Dz. U. poz. 320).
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 288 z 22.10.2016, str. 58, Dz. Urz. UE L 76 z 22.03.2017, str. 13 oraz Dz. Urz. UE L 54 z 24.02.2018, str. 18.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 288 z 22.10.2016, str. 58, Dz. Urz. UE L 76 z 22.03.2017, str. 13 oraz Dz. Urz. UE L 54 z 24.02.2018, str. 18.
 

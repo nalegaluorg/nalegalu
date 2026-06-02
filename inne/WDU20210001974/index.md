@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-27 |
 | Data wydania | 2021-10-29 |
-| Wejście w życie | 2021-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001974) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1974/text.pdf) |
 
@@ -41,5 +40,5 @@ Radnemu przysługują w ciągu miesiąca diety w wysokości do:
 3)
 50% maksymalnej wysokości diety w gminach poniżej 15 tys. mieszkańców.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 26 lipca 2000 r. w sprawie maksymalnej wysokości diet przysługujących radnemu gminy (Dz. U. poz. 710), które zgodnie z art. 17 ust. 2 ustawy z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 26 lipca 2000 r. w sprawie maksymalnej wysokości diet przysługujących radnemu gminy (Dz. U. poz. 710), które zgodnie z art. 17 ust. 2 ustawy z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

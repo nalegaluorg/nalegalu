@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
+# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady nr 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-10-30 |
-| Wejście w życie | 2016-01-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001753) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1753/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym i ustawę z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych.
 
 **Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2015 r. poz. 1297 i 1741) wprowadza się następujące zmiany:
 
@@ -107,5 +108,5 @@ wniosek, o którym mowa w art. 4 ust. 1, zawiera dane określone w art. 4 ust. 1
 
 **Art. 6.** Przepisów art. 4 i art. 5 nie stosuje się do zarządców infrastruktury i przewoźników kolejowych w rozumieniu ustawy zmienianej w art. 1, zwolnionych z obowiązku stosowania przepisów art. 37 ust. 3–8 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, ujętych w obwieszczeniu ministra właściwego do spraw transportu, o którym mowa w art. 5 ust. 3e ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady nr 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym i ustawę z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych.
 

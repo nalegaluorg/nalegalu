@@ -44,7 +44,7 @@ b) środkami finansowymi niezbędnymi do organizowania i prowadzenia zamierzoneg
 c) kadrą dydaktyczno-instruktorską posiadającą kwalifikacje i uprawnienia odpowiednie do rodzaju i zakresu zamierzonego szkolenia,
 d) materiałami szkoleniowymi odpowiednimi do rodzaju i zakresu zamierzonego szkolenia,
 e) programami szkolenia odpowiednimi do rodzaju i zakresu zamierzonego szkolenia,
-f) statkami powietrznymi odpowiednimi do rodzaju i zakresu zamierzonego szkolenia, spełniającymi wymagania, o których mowa w przepisach wydanych na podstawie art. 33 ust. 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze,
+f) s tatkami powietrznymi odpowiednimi do rodzaju i zakresu zamierzonego szkolenia, spełniającymi wymagania, o których mowa w przepisach wydanych na podstawie art. 33 ust. 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze,
 g) ubezpieczeniem odpowiedzialności cywilnej za szkody powstałe w związku z prowadzoną działalnością lotniczą odpowiednim dla zamierzonego szkolenia;
 2) opracował procedury planowania, prowadzenia i dokumentowania przebiegu szkolenia;
 3) oświadczy, że działalność szkoleniowa będzie prowadzona w sposób niezagrażający bezpieczeństwu w ruchu lotniczym oraz bezpieczeństwu i porządkowi publicznemu.
@@ -90,69 +90,124 @@ g) ubezpieczeniem odpowiedzialności cywilnej za szkody powstałe w związku z p
 3. Prezes Urzędu potwierdza dokonanie wpisu do rejestru, o którym mowa w ust. 1, przez wydanie zaświadczenia o wpisie do rejestru, zgodnie ze wzorem stanowiącym załącznik nr 4 do rozporządzenia.
 4. Przepisy ust. 1–3 stosuje się do podmiotów, które w dniu wejścia w życie rozporządzenia posiadają ważny certyfikat ośrodka szkolenia lotniczego upoważniający do prowadzenia szkolenia personelu lotniczego w celu uzyskania licencji skoczka spadochronowego zawodowego oraz uprawnień do niej wpisywanych, z tym że uzyskują one wpis do rejestru jako podmioty prowadzące szkolenie personelu lotniczego lub kandydatów na członków personelu lotniczego w celu uzyskania świadectwa kwalifikacji skoczka spadochronowego lub uprawnień do niego wpisywanych, objętych zakresem dotychczas posiadanego certyfikatu.
 § 15. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak Urząd Lotnictwa WNIOSEK O WPIS DO REJESTRU PODMIOTÓW Cywilnego SZKOLĄCYCH I. Dane wnioskodawcy
+Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak Gospodarki Morskiej z dnia………2013 r.
+(poz. …..) Załącznik nr 1 WZÓR Urząd Lotnictwa WNIOSEK O WPIS DO REJESTRU PODMIOTÓW Cywilnego SZKOLĄCYCH I. Dane wnioskodawcy
 1. Firma przedsiębiorcy, jego siedziba albo miejsce zamieszkania i adres: …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… ……………………………………………………………………………………....................................
-2. Oznaczenie formy prawnej: ....…………………………………………………………………………………………………………
-3. Numer identyfikacji podatkowej (NIP): ....…………………………………………………………………………………………………………
-4. Numer w rejestrze przedsiębiorców albo w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, albo w innym rejestrze, w którym przedsiębiorca został zarejestrowany: ….…………………………………………………………………………………………………………
+2. Oznaczenie formy prawnej: ....………………………………………………………………………………………………………….
+3. Numer identyfikacji podatkowej (NIP): ....………………………………………………………………………………………………………….
+4. Numer w rejestrze przedsiębiorców albo w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, albo w innym rejestrze, w którym przedsiębiorca został zarejestrowany: ….………………………………………………………………………………………………………….
 5. Dane kontaktowe przedsiębiorcy: Numer telefonu: ………………………………………………………………………………………....
 Numer telefonu komórkowego: .…………………………………...........................................................
 Numer faksu: ………………………………………….............................................................................
 E-mail: …………………………...........……....……................................................................................
-WZÓR II. Opis działalności szkoleniowej
-1. Data planowanego rozpoczęcia działalności szkoleniowej: ....…………………….…………………………………………………………………………………
-2. Imię, nazwisko, adres i numer telefonu instruktora pilotażu/instruktorów pilotażu oraz jego/ich kwalifikacje (wskazać posiadane licencje, świadectwa kwalifikacji i wpisane do nich uprawnienia oraz doświadczenie w wykonywaniu lotów lub skoków): ....…………………….………………………………………………………………………………… ....…………………….………………………………………………………………………………… ....…………………….………………………………………………………………………………… ....…………………….………………………………………………………………………………… ....…………………….………………………………………………………………………………… ....…………………….………………………………………………………………………………… .……………...……….………………………………………………………………………………… ....…………………….…………………………………………………………………………………
-3. Nazwa i adres lotniska lub lądowiska, na którym będzie prowadzone szkolenie, lub miejsce prowadzenia szkolenia praktycznego odpowiednie do rodzaju i zakresu zamierzonego szkolenia (w przypadku gdy nie ma możliwości określenia stałego miejsca szkolenia, jako miejsce tego szkolenia dopuszcza się wskazanie siedziby albo miejsca zamieszkania i adresu przedsiębiorcy): ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….…………………………………………………………………………………
-4. Wykaz statków powietrznych używanych do zamierzonego szkolenia, jeżeli podlegają wpisowi do ewidencji, o której mowa w przepisach wydanych na podstawie art. 33 ust. 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze: ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….…………………………………………………………………………………
-5. Zakres szkoleń: ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….…………………………………………………………………………………
-6. Charakterystyka bazy operacyjno-dydaktycznej odpowiedniej dla rodzaju i zakresu zamierzonego szkolenia: ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….…………………………………………………………………………………
-7. Materiały szkoleniowe odpowiednie do rodzaju i zakresu zamierzonego szkolenia, jakimi dysponuje podmiot: ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… ……………………….………………………………………………………………………………… III. Załączniki do wniosku
+1 WZÓR 2 II. Opis działalności szkoleniowej
+1. Data planowanego rozpoczęcia działalności szkoleniowej: ....…………………….………………………………………………………………………………….
+2. Imię, nazwisko, adres i numer telefonu instruktora pilotażu/instruktorów pilotażu oraz jego/ich kwalifikacje (wskazać posiadane licencje, świadectwa kwalifikacji i wpisane do nich uprawnienia oraz doświadczenie w wykonywaniu lotów lub skoków): ....…………………….………………………………………………………………………………….
+....…………………….………………………………………………………………………………….
+....…………………….………………………………………………………………………………….
+....…………………….………………………………………………………………………………….
+....…………………….………………………………………………………………………………….
+....…………………….………………………………………………………………………………….
+.……………...……….………………………………………………………………………………….
+....…………………….………………………………………………………………………………….
+3. Nazwa i adres lotniska lub lądowiska, na którym będzie prowadzone szkolenie, lub miejsce prowadzenia szkolenia praktycznego odpowiednie do rodzaju i zakresu zamierzonego szkolenia (w przypadku gdy nie ma możliwości określenia stałego miejsca szkolenia, jako miejsce tego szkolenia dopuszcza się wskazanie siedziby albo miejsca zamieszkania i adresu przedsiębiorcy): ……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+4. Wykaz statków powietrznych używanych do zamierzonego szkolenia, jeżeli podlegają wpisowi do ewidencji, o której mowa w przepisach wydanych na podstawie art. 33 ust. 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze: ……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+5. Zakres szkoleń: ……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+3
+6. Charakterystyka bazy operacyjno-dydaktycznej odpowiedniej dla rodzaju i zakresu zamierzonego szkolenia: ……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+7. Materiały szkoleniowe odpowiednie do rodzaju i zakresu zamierzonego szkolenia, jakimi dysponuje podmiot: ……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+……………………….………………………………………………………………………………….
+III. Załączniki do wniosku
 1) oświadczenie o spełnieniu warunków wymaganych do wykonywania działalności szkoleniowej zgodnie z wzorem określonym w załączniku nr 2 do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 sierpnia 2013 r. w sprawie działalności szkoleniowej personelu lotniczego podlegającej wpisowi do rejestru podmiotów szkolących (Dz. U. poz. 1068), a w przypadku gdy wniosek jest składany w postaci elektronicznej kopia tego oświadczenia;
 2) dowód wniesienia opłaty lotniczej za wpis do rejestru podmiotów szkolących i wydanie zaświadczenia o wpisie do rejestru podmiotów szkolących, a w przypadku gdy wniosek jest składany w postaci elektronicznej kopia tego dowodu;
 3) lista programów szkolenia odpowiednich do rodzaju i zakresu zamierzonego szkolenia, na podstawie których będzie prowadzone szkolenie;
 4) kopia polisy posiadanego ubezpieczenia odpowiedzialności cywilnej za szkody powstałe w związku z prowadzoną działalnością lotniczą w zakresie zamierzonego szkolenia.
-IV. Oświadczenia
+4 IV. Oświadczenia
 1. Oświadczam, że działalność objęta wpisem do rejestru podmiotów szkolących będzie prowadzona w sposób bezpieczny, niezagrażający bezpieczeństwu w ruchu lotniczym oraz bezpieczeństwu i porządkowi publicznemu.
 2. Świadomy(-ma) odpowiedzialności karnej z art. 272 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) oświadczam, że powyższe dane są kompletne i zgodne z prawdą.
 Nazwisko i imię przedsiębiorcy lub osoby działającej w jego imieniu lub w imieniu reprezentującego go organu ………………………………………..........…………………………………… Podpis: ……..............................................................………………………….
-Data złożenia wniosku: ………………........................................……………… OŚWIADCZENIE O SPEŁNIENIU WARUNKÓW WYMAGANYCH DO WYKONYWANIA
+Data złożenia wniosku: ………………........................................……………… Załącznik nr 2 WZÓR OŚWIADCZENIE O SPEŁNIENIU WARUNKÓW WYMAGANYCH DO WYKONYWANIA
 DZIAŁALNOŚCI SZKOLENIOWEJ …………………., dnia ……………………..r.
-Na podstawie art. 65 ust. 1 i 2 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.), działając w imieniu ……………......……………………… ………..................................................................................………………..
+5 Na podstawie art. 65 ust. 1 i 2 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.), działając w imieniu ……………......……………………… ………..................................................................................………………..
 OŚWIADCZAM, ŻE …………………………………………….........……… spełnia warunki wymagane do wykonywania działalności gospodarczej w zakresie prowadzenia szkolenia personelu lotniczego w celu uzyskania świadectwa kwalifikacji członka personelu lotniczego oraz wpisywanych do niego uprawnień, określone przepisami ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U.
 z 2012 r. poz. 933, z późn. zm.) oraz rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 sierpnia 2013 r. w sprawie działalności szkoleniowej personelu lotniczego podlegającej wpisowi do rejestru podmiotów szkolących (Dz. U. poz. 1068).
-……………………………………………………………………………………………… WZÓR Urząd Lotnictwa WNIOSEK O ROZSZERZENIE WPISU DO REJESTRU Cywilnego PODMIOTÓW SZKOLĄCYCH I. Dane wnioskodawcy
-1. Firma podmiotu szkolącego: ...……………………….…………………………………………………………………………………
-2. Numer wpisu do rejestru podmiotów szkolących: ...……………………….…………………………………………………………………………………
+……………………………………………………………………………………………… WZÓR 6 Załącznik nr 3 WZÓR Urząd Lotnictwa WNIOSEK O ROZSZERZENIE WPISU DO REJESTRU Cywilnego PODMIOTÓW SZKOLĄCYCH I. Dane wnioskodawcy
+1. Firma podmiotu szkolącego: ...……………………….………………………………………………………………………………….
+2. Numer wpisu do rejestru podmiotów szkolących: ...……………………….………………………………………………………………………………….
 3. Dane kontaktowe podmiotu szkolącego: Numer telefonu: ………………………………………..…………………………….………………….
 Numer telefonu komórkowego: …………………………………............................................................
 Numer faksu: …………………………………………............................................................................
 E-mail: …………………………...........……....……...............................................................................
 II. Opis działalności szkoleniowej w rozszerzonym zakresie
-1. Data planowanego rozpoczęcia działalności szkoleniowej w rozszerzonym zakresie: ......……………………….…………………………………………………………………………………
-2. Imię, nazwisko, adres i numer telefonu instruktora pilotażu/instruktorów pilotażu oraz jego/ich kwalifikacje (wskazać posiadane licencje, świadectwa kwalifikacji i wpisane do nich uprawnienia oraz posiadane doświadczenie w wykonywaniu lotów lub skoków): ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… WZÓR
-3. Nazwa i adres lotniska lub lądowiska, na którym będzie prowadzone szkolenie w rozszerzonym zakresie, lub miejsce prowadzenia szkolenia praktycznego odpowiednie do rodzaju i zakresu zamierzonego szkolenia w rozszerzonym zakresie (w przypadku gdy nie ma możliwości określenia stałego miejsca szkolenia, jako miejsce tego szkolenia dopuszcza się wskazanie siedziby albo miejsca zamieszkania i adresu podmiotu szkolącego): ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….…………………………………………………………………………………
-4. Wykaz statków powietrznych używanych do szkolenia w rozszerzonym zakresie, jeżeli podlegają wpisowi do ewidencji, o której mowa w przepisach wydanych na podstawie art. 33 ust. 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze: ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….…………………………………………………………………………………
+1. Data planowanego rozpoczęcia działalności szkoleniowej w rozszerzonym zakresie: ......……………………….………………………………………………………………………………….
+2. Imię, nazwisko, adres i numer telefonu instruktora pilotażu/instruktorów pilotażu oraz jego/ich kwalifikacje (wskazać posiadane licencje, świadectwa kwalifikacji i wpisane do nich uprawnienia oraz posiadane doświadczenie w wykonywaniu lotów lub skoków): ......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+WZÓR 7
+3. Nazwa i adres lotniska lub lądowiska, na którym będzie prowadzone szkolenie w rozszerzonym zakresie, lub miejsce prowadzenia szkolenia praktycznego odpowiednie do rodzaju i zakresu zamierzonego szkolenia w rozszerzonym zakresie (w przypadku gdy nie ma możliwości określenia stałego miejsca szkolenia, jako miejsce tego szkolenia dopuszcza się wskazanie siedziby albo miejsca zamieszkania i adresu podmiotu szkolącego): ......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+4. Wykaz statków powietrznych używanych do szkolenia w rozszerzonym zakresie, jeżeli podlegają wpisowi do ewidencji, o której mowa w przepisach wydanych na podstawie art. 33 ust. 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze: ......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
 5. Szkolenia, jakie będą prowadzone w rozszerzonym zakresie: ........................................................................................................................................................................
 ........................................................................................................................................................................
 ........................................................................................................................................................................
 ........................................................................................................................................................................
 ........................................................................................................................................................................
-6. Charakterystyka bazy operacyjno-dydaktycznej odpowiedniej dla zamierzonego szkolenia w rozszerzonym zakresie: ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….………………………………………………………………………………… ......……………………….…………………………………………………………………………………
+6. Charakterystyka bazy operacyjno-dydaktycznej odpowiedniej dla zamierzonego szkolenia w rozszerzonym zakresie: ......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+......……………………….………………………………………………………………………………….
+8
 7. Materiały szkoleniowe odpowiednie dla zamierzonego szkolenia w rozszerzonym zakresie, jakimi dysponuje podmiot szkolący: ……………………………………………………………………………………………………………… ……………………………………………………………………………………………………………… ……………………………………………………………………………………………………………… ……………………………………………………………………………………………………………… III. Załączniki do wniosku
 1) oświadczenie o spełnieniu warunków wymaganych do wykonywania działalności szkoleniowej zgodnie z wzorem określonym w załączniku nr 2 do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 sierpnia 2013 r. w sprawie działalności szkoleniowej personelu lotniczego podlegającej wpisowi do rejestru podmiotów szkolących (Dz. U. poz. 1068), a w przypadku gdy wniosek jest składany w postaci elektronicznej kopia tego oświadczenia;
 2) dowód wniesienia opłaty lotniczej za rozszerzenie wpisu do rejestru podmiotów szkolących i wydanie zaświadczenia o wpisie do rejestru podmiotów szkolących, a w przypadku gdy wniosek jest składany w postaci elektronicznej kopia tego dowodu;
 3) lista programów szkolenia odpowiednich do rodzaju i zakresu zamierzonego szkolenia w rozszerzonym zakresie;
 4) kopia polisy posiadanego ubezpieczenia odpowiedzialności cywilnej za szkody powstałe w związku z prowadzoną działalnością lotniczą w zakresie zamierzonego szkolenia w rozszerzonym zakresie;
 5) inne niezbędne informacje dotyczące w szczególności instruktorów, statków powietrznych oraz miejsca prowadzenia działalności szkoleniowej, jeżeli uległy zmianie w związku z rozszerzeniem zakresu szkolenia.
-IV. Zmiana innych danych rejestrowych Jednocześnie wnioskuję o dokonanie zmiany innych danych rejestrowych (jeżeli dotyczy, wskazać, jakie dane się zmieniły): ........……………………….………………………………………………………………………………… ........……………………….………………………………………………………………………………… ........……………………….………………………………………………………………………………… ........……………………….………………………………………………………………………………… ........……………………….………………………………………………………………………………… ........……………………….………………………………………………………………………………… ........……………………….………………………………………………………………………………… ........……………………….………………………………………………………………………………… ..........……………………….……………………………………………………………………………… .
-V. Oświadczenia
+IV. Zmiana innych danych rejestrowych Jednocześnie wnioskuję o dokonanie zmiany innych danych rejestrowych (jeżeli dotyczy, wskazać, jakie dane się zmieniły): ........……………………….………………………………………………………………………………….
+........……………………….………………………………………………………………………………….
+........……………………….………………………………………………………………………………….
+........……………………….………………………………………………………………………………….
+........……………………….………………………………………………………………………………….
+........……………………….………………………………………………………………………………….
+........……………………….………………………………………………………………………………….
+........……………………….………………………………………………………………………………….
+..........……………………….……………………………………………………………………………… ..
+9 V. Oświadczenia
 1. Oświadczam, że działalność objęta wpisem do rejestru podmiotów szkolących będzie prowadzona w sposób bezpieczny, niezagrażający bezpieczeństwu w ruchu lotniczym oraz bezpieczeństwu i porządkowi publicznemu.
 2. Świadomy(-ma) odpowiedzialności karnej z art. 272 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) oświadczam, że powyższe dane są kompletne i zgodne z prawdą.
-Nazwisko i imię przedsiębiorcy lub osoby działającej w jego imieniu lub w imieniu reprezentującego go organu ........……………………….……………………………......................................
-........……………………….……………………………......................................
+Nazwisko i imię przedsiębiorcy lub osoby działającej w jego imieniu lub w imieniu reprezentującego go organu ........……………………….…………………………….......................................
+........……………………….…………………………….......................................
 Podpis: …………………………………………………....................................
 Data złożenia wniosku: ……………………...............................................……..
-RZECZPOSPOLITA URZĄD POLSKA LOTNICTWA CYWILNEGO ZAŚWIADCZENIE O WPISIE DO REJESTRU PODMIOTÓW SZKOLĄCYCH ………………………………………….
+10 Załącznik nr 4 WZÓR RZECZPOSPOLITA URZĄD POLSKA LOTNICTWA CYWILNEGO ZAŚWIADCZENIE O WPISIE DO REJESTRU PODMIOTÓW SZKOLĄCYCH ………………………………………….
 ………………………………………….
 ………………………………………….
 Nr ……RPS-…..-…../…..

@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-26 |
 | Data wydania | 2018-02-14 |
-| Wejście w życie | 2018-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000369) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/369/text.pdf) |
+
+Ochrona dobrego imienia Rzeczypospolitej Polskiej i Narodu Polskiego
 
 **Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575 oraz z 2018 r. poz. 5) wprowadza się następujące zmiany:
 
@@ -45,7 +46,7 @@ source: "eli-html"
 - **4)** uchyla się art. 53n;
 - **5)** po rozdziale 6b dodaje się rozdział 6c w brzmieniu: „
 
-#### Rozdział 6c Ochrona dobrego imienia Rzeczypospolitej Polskiej i Narodu Polskiego
+#### Rozdział 6c
 
 **Art. 53o.** Do ochrony dobrego imienia Rzeczypospolitej Polskiej i Narodu Polskiego odpowiednie zastosowanie mają przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132) o ochronie dóbr osobistych. Powództwo o ochronę dobrego imienia Rzeczypospolitej Polskiej lub Narodu Polskiego może wytoczyć organizacja pozarządowa w zakresie swoich zadań statutowych. Odszkodowanie lub zadośćuczynienie przysługują Skarbowi Państwa. Powództwo o ochronę dobrego imienia Rzeczypospolitej Polskiej lub Narodu Polskiego może wytoczyć również Instytut Pamięci Narodowej. W sprawach tych Instytut Pamięci Narodowej ma zdolność sądową. Przepisy art. 53o i art. 53p mają zastosowanie niezależnie od tego, jakie prawo jest właściwe. ” ;
 
@@ -133,7 +134,7 @@ source: "eli-html"
 - **2)** tryb postępowania w sprawach o nadanie medalu, okoliczności wręczania odznaki medalu oraz legitymacji potwierdzającej nadanie medalu,
 - **3)** sposób noszenia i przechowywania odznaki medalu,
 - **4)** tryb i sposób wydawania duplikatu legitymacji potwierdzającej nadanie medalu,
-- **5)** wzory odznaki medalu oraz legitymacji potwierdzającej nadanie medalu uwzględniając konieczność zapewnienia sprawności postępowania w sprawach o nadanie medalu oraz godnego i uroczystego uhonorowania osób oraz jednostek organizacyjnych, którym jest nadawany medal. ” .
+- **5)** wzory odznaki medalu oraz legitymacji potwierdzającej nadanie medalu – uwzględniając konieczność zapewnienia sprawności postępowania w sprawach o nadanie medalu oraz godnego i uroczystego uhonorowania osób oraz jednostek organizacyjnych, którym jest nadawany medal. ” .
 
 **Art. 4.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2016 r. poz. 1541 oraz z 2017 r. poz. 724 i 933) w art. 16 w ust. 1 po pkt 9a dodaje się pkt 9b w brzmieniu: „
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy – Prawo o postępowaniu przed sądami administracyjnymi Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, Dz. Urz. UE L 258 z 04.10.2011, str. 9, Dz. Urz. UE L 58 z 29.02.2012, str. 3, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 77 z 23.03.2016, str. 1 oraz Dz. Urz. UE L 114 z 04.05.2018, str. 39).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-09 |
 | Data wydania | 2019-01-03 |
-| Wejście w życie | 2019-03-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000011) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/11/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, 1467, 1544 i 1629) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 pkt 4 otrzymuje brzmienie: „
-- **4)** wiz wydawanych przez konsulów, z wyjątkiem wiz: o których mowa w art. 2 pkt 2–5 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, z późn. zm.), wydawanych cudzoziemcowi będącemu członkiem rodziny obywatela państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2017 r. poz. 900 oraz z 2018 r. poz. 650); ” ;
+- **4)** wiz wydawanych przez konsulów, z wyjątkiem wiz: o których mowa w art. 2 pkt 2–5 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 04.10.2011, str. 9, Dz. Urz. UE L 58 z 29.02.2012, str. 3, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 77 z 23.03.2016, str. 1 oraz Dz. Urz. UE L 114 z 04.05.2018, str. 39.), wydawanych cudzoziemcowi będącemu członkiem rodziny obywatela państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2017 r. poz. 900 oraz z 2018 r. poz. 650); ” ;
     - **a)**
     - **b)**
 
@@ -65,5 +64,5 @@ source: "eli-html"
 
 3. Minister właściwy do spraw zagranicznych monitoruje wykorzystanie limitów wydatków, określonych w ust. 1. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wynosi więcej niż 65% limitu wydatków przewidzianych na dany rok, minister właściwy do spraw zagranicznych obniża wielkość środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę pomiędzy wielkością tego limitu a kwotą przekroczenia wydatków, określając zakres ograniczeń dla poszczególnych zadań realizowanych na podstawie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, Dz. Urz. UE L 258 z 04.10.2011, str. 9, Dz. Urz. UE L 58 z 29.02.2012, str. 3, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 77 z 23.03.2016, str. 1 oraz Dz. Urz. UE L 114 z 04.05.2018, str. 39). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 04.10.2011, str. 9, Dz. Urz. UE L 58 z 29.02.2012, str. 3, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 77 z 23.03.2016, str. 1 oraz Dz. Urz. UE L 114 z 04.05.2018, str. 39.
 

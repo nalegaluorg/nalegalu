@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-27 |
 | Data wydania | 2013-01-14 |
-| Wejście w życie | 2013-01-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/58/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2007 r. Nr 42, poz. 274, z 2008 r. Nr 118, poz. 746 oraz z 2009 r. Nr 18, poz. 97) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie pomorskiej specjalnej strefy ekonomicznej (Dz. U. Nr 232, poz. 1556, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie pomorskiej specjalnej strefy ekonomicznej (Dz. U. Nr 232, poz. 1556, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 131, poz. 1077, z 2010 r. Nr 236, poz. 1554, z 2011 r. Nr 204, poz. 1199 oraz z 2012 r. poz. 516.) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 1380,6253 ha, położone na terenach miast: Bydgoszcz, Gdańsk, Gdynia, Grudziądz, Kwidzyn, Malbork, Piła, Rypin, Stargard Szczeciński, Starogard Gdański, Tczew, Toruń, Włocławek oraz gmin: Barcin, Chojnice, Człuchów, Gniewino, Kowalewo Pomorskie, Krokowa, Łysomice, Sztum, Świecie, Tczew i Wąbrzeźno.
-” ;
+Strefa obejmuje grunty o powierzchni 1380,6253 ha, położone na terenach miast: Bydgoszcz, Gdańsk, Gdynia, Grudziądz, Kwidzyn, Malbork, Piła, Rypin, Stargard Szczeciński, Starogard Gdański, Tczew, Toruń, Włocławek oraz gmin: Barcin, Chojnice, Człuchów, Gniewino, Kowalewo Pomorskie, Krokowa, Łysomice, Sztum, Świecie, Tczew i Wąbrzeźno. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU POMORSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ:
 a)
@@ -49,5 +46,5 @@ w Podstrefie Gdynia w Kompleksie 3 dodaje się opis granic i terenu Obszaru 8 w 
 e)
 na końcu SZCZEGÓŁOWEGO OPISU GRANIC I TERENU POMORSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ dodaje się opis granic i terenu Podstrefy Włocławek w brzmieniu: „ Podstrefa Włocławek Kompleks 1 Obręb ewidencyjny Włocławek 4 – Kawka, karta mapy 1 Granica biegnie po granicach działki 4/26 od pkt 1 w kierunku północno-wschodnim do pkt 2. Tu skręca w kierunku południowo-wschodnim i dochodzi do pkt 3, w którym skręca na północny wschód, i dochodzi do pkt 4. Stąd biegnie na południowy wschód do pkt 5, gdzie skręca na południowy zachód, i biegnie do pkt 6. Tu załamuje się na północny zachód i przez pkt 7 dochodzi do pkt 1, od którego rozpoczęto opis. Kompleks 2 Obręb ewidencyjny Włocławek 4 – Kawka, karta mapy 1 Granica biegnie po granicach działki 4/35 od pkt 1 w kierunku północno-wschodnim do pkt 2. Stąd biegnie na północny zachód do pkt 3, gdzie skręca na północny wschód, i dochodzi do pkt 4. Tu skręca na południowy wschód i biegnie do pkt 5. Stąd biegnie na południowy zachód przez pkt 2 do pkt 1, od którego rozpoczęto opis. Kompleks 3 Obręb ewidencyjny Włocławek 4 – Kawka, karta mapy 1 Granica biegnie po granicach działki 4/37 od pkt 1 w kierunku północno-zachodnim do pkt 2. Tu skręca na północny wschód i dochodzi do pkt 3, z którego biegnie na południowy wschód do pkt 4. Tu załamuje się na południowy zachód i przez pkt 5 dochodzi do pkt 1, od którego rozpoczęto opis. Kompleks 4 Obręb ewidencyjny Włocławek 4 – Kawka, karta mapy 1 Granica biegnie po granicach działki 4/28 od pkt 1 w kierunku południowo-wschodnim do pkt 2. Stąd biegnie na południowy wschód przez pkt 3 do pkt 4. Tu skręca na południowy zachód i dochodzi do pkt 5. Stąd biegnie na północny zachód do pkt 1, od którego rozpoczęto opis. Kompleks 5 Obręb ewidencyjny Włocławek 4 – Kawka, karta mapy 1 Granica biegnie po granicach działki 4/34 od pkt 1 w kierunku północno-wschodnim do pkt 2. Stąd biegnie na południowy wschód przez pkt 3 do pkt 4. Tu skręca na zachód i przez pkt: 5 i 6 dochodzi do pkt 7. Stąd biegnie na północny zachód, obiegając działkę 4/30, przez pkt: 8, 9, 10 i 11 do pkt 12. Tu załamuje się na północny wschód i dochodzi do pkt 1, od którego rozpoczęto opis. Wewnątrz kompleksu znajduje się działka 4/31, która nie wchodzi w obszar strefy i stanowi enklawę oznaczoną pkt: 13–18. Kompleks 6 Obręb ewidencyjny Włocławek 4 – Kawka, karta mapy 1 Granica biegnie po granicach działki 4/40 od pkt 1 w kierunku północno-wschodnim do pkt 2. Stąd biegnie na południowy wschód przez pkt 3 do pkt 4, gdzie skręca na północny zachód, i dochodzi do pkt 1, od którego rozpoczęto opis. Kompleks 7 Obręb ewidencyjny Włocławek 8 – Azoty, karta mapy 1 Granica biegnie po granicach działki 22 od pkt 1 w kierunku północno-wschodnim do pkt 2. Tu skręca na południowy wschód i dochodzi do pkt 3, z którego biegnie na południowy zachód do pkt 4. Tu skręca na północny zachód i biegnie do pkt 1, od którego rozpoczęto opis. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 15 stycznia 2013 r.
+Rozporządzenie wchodzi w życie z dniem 15 stycznia 2013 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 131, poz. 1077, z 2010 r. Nr 236, poz. 1554, z 2011 r. Nr 204, poz. 1199 oraz z 2012 r. poz. 516.
 

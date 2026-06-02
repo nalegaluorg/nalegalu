@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy o kształtowaniu ustroju rolnego oraz niektórych innych ustaw
+# Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy o kształtowaniu ustroju rolnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. – Prawo spółdzielcze, ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawę z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-26 |
 | Data wydania | 2019-06-11 |
-| Wejście w życie | 2019-06-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001080) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1080/text.pdf) |
 
@@ -50,10 +49,22 @@ source: "eli-html"
 - **5)** w art. 2a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Nabywcą nieruchomości rolnej może być wyłącznie rolnik indywidualny, chyba że ustawa stanowi inaczej. ” , w ust. 3: – w pkt 1: – – lit. ca otrzymuje brzmienie: „ ca) spółkę prawa handlowego: – której wyłącznym udziałowcem albo akcjonariuszem jest Skarb Państwa, będącą operatorem systemu przesyłowego albo posiadającą koncesję na przesyłanie paliw ciekłych, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755 i 730), – która jest operatorem systemu dystrybucyjnego gazowego w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w przypadku nabycia nieruchomości rolnej na cele związane z budową, modernizacją lub rozbudową systemu dystrybucyjnego gazowego, ” , – – po lit. ca dodaje się lit. cb w brzmieniu: „ cb) spółkę kapitałową lub grupę kapitałową, o których mowa w art. 1 ust. 1 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw energii oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. U. z 2016 r. poz. 2012), w przypadku nabycia nieruchomości rolnej na cele związane z budową, modernizacją lub rozbudową mienia określonego w art. 1 ust. 2 tej ustawy, ” , – – lit. e otrzymuje brzmienie: „ e) parki narodowe, w przypadku nabycia nieruchomości rolnej na cele związane z ochroną przyrody, ” , – – w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h oraz i w brzmieniu: „ h) spółdzielnię produkcji rolnej w wyniku: – wykonania prawa pierwokupu, o którym mowa w art. 147 § 2 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2018 r. poz. 1285 oraz z 2019 r. poz. 730 i 1080), lub – zbycia wkładu gruntowego przez członka tej spółdzielni, i) członka spółdzielni produkcji rolnej, mającego wkład gruntowy w tej spółdzielni, w przypadku zbycia na jego rzecz wkładu gruntowego przez innego członka tej samej spółdzielni; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) o powierzchni mniejszej niż 1 ha; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–12 w brzmieniu: „ 5) na podstawie art. 118 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2019 r. poz. 299 i 303); 6) na podstawie art. 17 ust. 1 ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2017 r. poz. 1161); 7) na podstawie art. 125 ust. 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 2204 i 2348 oraz z 2019 r. poz. 270, 492 i 801); 8) na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2019 r. poz. 868); 9) w toku postępowania egzekucyjnego i upadłościowego; 10) w wyniku zniesienia współwłasności, podziału majątku wspólnego po ustaniu małżeństwa oraz działu spadku; 11) w wyniku podziału, przekształcenia bądź łączenia spółek prawa handlowego; 12) położonej na obszarze górniczym lub terenie górniczym w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+1. Nabywcą nieruchomości rolnej może być wyłącznie rolnik indywidualny, chyba że ustawa stanowi inaczej. ” , w ust. 3: w pkt 1: – lit. ca otrzymuje brzmienie: „ ca) spółkę prawa handlowego: – której wyłącznym udziałowcem albo akcjonariuszem jest Skarb Państwa, będącą operatorem systemu przesyłowego albo posiadającą koncesję na przesyłanie paliw ciekłych, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755 i 730), – która jest operatorem systemu dystrybucyjnego gazowego w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w przypadku nabycia nieruchomości rolnej na cele związane z budową, modernizacją lub rozbudową systemu dystrybucyjnego gazowego, ” , – – po lit. ca dodaje się lit. cb w brzmieniu: „ cb) spółkę kapitałową lub grupę kapitałową, o których mowa w art. 1 ust. 1 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw energii oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. U. z 2016 r. poz. 2012), w przypadku nabycia nieruchomości rolnej na cele związane z budową, modernizacją lub rozbudową mienia określonego w art. 1 ust. 2 tej ustawy, ” , – lit. e otrzymuje brzmienie: „ parki narodowe, w przypadku nabycia nieruchomości rolnej na cele związane z ochroną przyrody, ” , – w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h oraz i w brzmieniu: „ spółdzielnię produkcji rolnej w wyniku: – wykonania prawa pierwokupu, o którym mowa w art. 147 § 2 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2018 r. poz. 1285 oraz z 2019 r. poz. 730 i 1080), lub – zbycia wkładu gruntowego przez członka tej spółdzielni, członka spółdzielni produkcji rolnej, mającego wkład gruntowy w tej spółdzielni, w przypadku zbycia na jego rzecz wkładu gruntowego przez innego członka tej samej spółdzielni; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
 - **b)**
-- **c)**
+- **e)**
+- **h)**
+- **i)**
+- **1a)** o powierzchni mniejszej niż 1 ha; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–12 w brzmieniu: „
+- **5)** na podstawie art. 118 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2019 r. poz. 299 i 303);
+- **6)** na podstawie art. 17 ust. 1 ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2017 r. poz. 1161);
+- **7)** na podstawie art. 125 ust. 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 2204 i 2348 oraz z 2019 r. poz. 270, 492 i 801);
+- **8)** na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2019 r. poz. 868);
+- **9)** w toku postępowania egzekucyjnego i upadłościowego;
+- **10)** w wyniku zniesienia współwłasności, podziału majątku wspólnego po ustaniu małżeństwa oraz działu spadku;
+- **11)** w wyniku podziału, przekształcenia bądź łączenia spółek prawa handlowego;
+- **12)** położonej na obszarze górniczym lub terenie górniczym w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **c)**
 
 3a. Jeżeli nabywana nieruchomość rolna ma wejść w skład wspólności majątkowej małżeńskiej, wystarczające jest, gdy określone w ustawie wymogi dotyczące nabywcy nieruchomości rolnej spełnia jeden z małżonków. ” , ust. 4 otrzymuje brzmienie: „
 
@@ -213,8 +224,12 @@ source: "eli-html"
 
 - **1)** użytkowania wieczystego nieruchomości rolnej albo udziału w użytkowaniu wieczystym nieruchomości rolnej;
 - **2)** udziału we współwłasności nieruchomości rolnej. ” ;
-- **8)** w art. 3: w ust. 5 w pkt 1: – po lit. ba dodaje się lit. bb w brzmieniu: „ bb) spółka kapitałowa lub grupa kapitałowa, o których mowa w art. 2a ust. 3 pkt 1 lit. cb, ” , – w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d-f w brzmieniu: „ d) Spółka Celowa, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, e) spółdzielnia produkcji rolnej, o której mowa w art. 2a ust. 3 pkt 1 lit. h, f) członek spółdzielni produkcji rolnej, o którym mowa w art. 2a ust. 3 pkt 1 lit. i; ” , po ust. 8 dodaje się ust. 8a w brzmieniu: „
+- **8)** w art. 3: w ust. 5 w pkt 1: po lit. ba dodaje się lit. bb w brzmieniu: „ spółka kapitałowa lub grupa kapitałowa, o których mowa w art. 2a ust. 3 pkt 1 lit. cb, ” , w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d-f w brzmieniu: „ Spółka Celowa, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, spółdzielnia produkcji rolnej, o której mowa w art. 2a ust. 3 pkt 1 lit. h, członek spółdzielni produkcji rolnej, o którym mowa w art. 2a ust. 3 pkt 1 lit. i; ” , po ust. 8 dodaje się ust. 8a w brzmieniu: „
     - **a)**
+    - **bb)**
+    - **d)**
+    - **e)**
+    - **f)**
     - **b)**
 
 8a. Krajowy Ośrodek może dokonać zapłaty niespornej części ceny nieruchomości rolnej przed wystąpieniem do sądu o ustalenie ceny tej nieruchomości. ” , ust. 9 otrzymuje brzmienie: „
@@ -226,10 +241,11 @@ source: "eli-html"
 - **9)** w art. 3a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Krajowemu Ośrodkowi działającemu na rzecz Skarbu Państwa przysługuje prawo pierwokupu udziałów i akcji w spółce kapitałowej w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505), która jest właścicielem lub użytkownikiem wieczystym nieruchomości rolnej o powierzchni co najmniej 5 ha albo nieruchomości rolnych o łącznej powierzchni co najmniej 5 ha. ” , w ust. 2: – w pkt 1 wyrazy „akcji dopuszczonych” zastępuje się wyrazami „akcji spółek, których akcje są dopuszczone”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) udziałów i akcji na rzecz spółki kapitałowej lub grupy kapitałowej, o których mowa w art. 2a ust. 3 pkt 1 lit. cb. ” , ust. 3 otrzymuje brzmienie: „
+1. Krajowemu Ośrodkowi działającemu na rzecz Skarbu Państwa przysługuje prawo pierwokupu udziałów i akcji w spółce kapitałowej w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505), która jest właścicielem lub użytkownikiem wieczystym nieruchomości rolnej o powierzchni co najmniej 5 ha albo nieruchomości rolnych o łącznej powierzchni co najmniej 5 ha. ” , w ust. 2: – w pkt 1 wyrazy „akcji dopuszczonych” zastępuje się wyrazami „akcji spółek, których akcje są dopuszczone”, w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 
 - **b)**
-- **c)**
+- **5)** udziałów i akcji na rzecz spółki kapitałowej lub grupy kapitałowej, o których mowa w art. 2a ust. 3 pkt 1 lit. cb. ” , ust. 3 otrzymuje brzmienie: „
+    - **c)**
 
 3. Krajowemu Ośrodkowi przed nabyciem udziałów i akcji w spółce, o której mowa w ust. 1, przysługuje prawo przeglądania ksiąg i dokumentów tej spółki oraz żądania od tej spółki informacji dotyczących obciążeń i zobowiązań nieujętych w księgach i dokumentach. Uzyskane przez Krajowy Ośrodek informacje stanowią tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2019 r. poz. 1010). ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
@@ -289,17 +305,24 @@ source: "eli-html"
 - **1)** zawarcia umowy innej niż umowa sprzedaży lub
 - **2)** jednostronnej czynności prawnej, lub
 - **3)** orzeczenia sądu, organu administracji publicznej albo orzeczenia sądu lub organu egzekucyjnego wydanego na podstawie przepisów o postępowaniu egzekucyjnym, lub
-- **4)** innej czynności prawnej lub innego zdarzenia prawnego, w szczególności: zasiedzenia nieruchomości rolnej, dziedziczenia oraz zapisu windykacyjnego, którego przedmiotem jest nieruchomość rolna lub gospodarstwo rolne, podziału, przekształcenia bądź łączenia spółek prawa handlowego Krajowy Ośrodek działający na rzecz Skarbu Państwa może złożyć oświadczenie o nabyciu tej nieruchomości za zapłatą ceny tej nieruchomości.
+- **4)** innej czynności prawnej lub innego zdarzenia prawnego, w szczególności: zasiedzenia nieruchomości rolnej, dziedziczenia oraz zapisu windykacyjnego, którego przedmiotem jest nieruchomość rolna lub gospodarstwo rolne, podziału, przekształcenia bądź łączenia spółek prawa handlowego – Krajowy Ośrodek działający na rzecz Skarbu Państwa może złożyć oświadczenie o nabyciu tej nieruchomości za zapłatą ceny tej nieruchomości.
     - **a)**
     - **b)**
 
 2. Jeżeli cena, o której mowa w ust. 1, nie wynika z treści czynności prawnej, orzeczenia sądu, organu administracji publicznej albo orzeczenia sądu lub organu egzekucyjnego wydanego na podstawie przepisów o postępowaniu egzekucyjnym, wartość rynkową nieruchomości rolnej Krajowy Ośrodek określa przy zastosowaniu sposobów określenia wartości nieruchomości przewidzianych w przepisach o gospodarce nieruchomościami.
 
-2a. W przypadku, o którym mowa w ust. 2, właściciel nieruchomości rolnej w terminie miesiąca od dnia otrzymania oświadczenia Krajowego Ośrodka o nabyciu tej nieruchomości może wystąpić do sądu o ustalenie ceny odpowiadającej wartości rynkowej nieruchomości rolnej nabywanej przez Krajowy Ośrodek. Sąd ustala cenę odpowiadającą wartości rynkowej nabywanej nieruchomości rolnej przy zastosowaniu sposobów określenia wartości nieruchomości przewidzianych w przepisach o gospodarce nieruchomościami. ” , w ust. 3 wyrazy „równowartość pieniężna” zastępuje się wyrazem „cena”, w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) jeżeli w wyniku przeniesienia własności nieruchomości rolnej następuje powiększenie gospodarstwa rodzinnego, jednak do powierzchni nie większej niż określona w art. 5 ust. 1 pkt 2, a nabywana nieruchomość rolna jest położona w gminie, w której ma miejsce zamieszkania nabywca, lub w gminie graniczącej z tą gminą; ” , – w pkt 2 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f-i w brzmieniu: „ f) przez spółkę kapitałową lub grupę kapitałową, o których mowa w art. 2a ust. 3 pkt 1 lit. cb, g) przez Spółkę Celową, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, h) przez spółdzielnię produkcji rolnej, o której mowa w art. 2a ust. 3 pkt 1 lit. h, i) przez członka spółdzielni produkcji rolnej, o którym mowa w art. 2a ust. 3 pkt 1 lit. i; ” , – pkt 3 otrzymuje brzmienie: „ 3) jeżeli przeniesienie własności nieruchomości rolnej następuje w wyniku wykonania umowy z następcą, o której mowa w art. 84 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników; ” , ust. 6 otrzymuje brzmienie: „
+2a. W przypadku, o którym mowa w ust. 2, właściciel nieruchomości rolnej w terminie miesiąca od dnia otrzymania oświadczenia Krajowego Ośrodka o nabyciu tej nieruchomości może wystąpić do sądu o ustalenie ceny odpowiadającej wartości rynkowej nieruchomości rolnej nabywanej przez Krajowy Ośrodek. Sąd ustala cenę odpowiadającą wartości rynkowej nabywanej nieruchomości rolnej przy zastosowaniu sposobów określenia wartości nieruchomości przewidzianych w przepisach o gospodarce nieruchomościami. ” , w ust. 3 wyrazy „równowartość pieniężna” zastępuje się wyrazem „cena”, w ust. 4: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
 - **c)**
-- **d)**
+- **1)** jeżeli w wyniku przeniesienia własności nieruchomości rolnej następuje powiększenie gospodarstwa rodzinnego, jednak do powierzchni nie większej niż określona w art. 5 ust. 1 pkt 2, a nabywana nieruchomość rolna jest położona w gminie, w której ma miejsce zamieszkania nabywca, lub w gminie graniczącej z tą gminą; ” , w pkt 2 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f-i w brzmieniu: „ przez spółkę kapitałową lub grupę kapitałową, o których mowa w art. 2a ust. 3 pkt 1 lit. cb, przez Spółkę Celową, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, przez spółdzielnię produkcji rolnej, o której mowa w art. 2a ust. 3 pkt 1 lit. h, przez członka spółdzielni produkcji rolnej, o którym mowa w art. 2a ust. 3 pkt 1 lit. i; ” , pkt 3 otrzymuje brzmienie: „
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+
+- **3)** jeżeli przeniesienie własności nieruchomości rolnej następuje w wyniku wykonania umowy z następcą, o której mowa w art. 84 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników; ” , ust. 6 otrzymuje brzmienie: „
+    - **d)**
 
 6. Przepisy ust. 1–3, ust. 4 pkt 2 lit. b-g, art. 3 ust. 10 i 11 oraz art. 3a ust. 3–6 stosuje się odpowiednio do nabycia udziałów i akcji w spółce prawa handlowego, która jest właścicielem lub użytkownikiem wieczystym nieruchomości rolnej o powierzchni co najmniej 5 ha, albo nieruchomości rolnych o łącznej powierzchni co najmniej 5 ha, z wyłączeniem przypadku, gdy nabywcą udziałów i akcji jest Skarb Państwa. W przypadku nabycia udziałów lub akcji takiej spółki w wyniku podwyższenia kapitału zakładowego, zawiadomienia, o którym mowa w ust. 5, dokonuje spółka po wpisaniu tego podwyższenia do rejestru przedsiębiorców, prowadzonego na podstawie przepisów o Krajowym Rejestrze Sądowym. ” ;
 
@@ -312,7 +335,7 @@ source: "eli-html"
 2. Krajowy Ośrodek:
 
 - **1)** za zgodą ministra właściwego do spraw rozwoju wsi, wydaną na uzasadniony wniosek Dyrektora Generalnego Krajowego Ośrodka, może obejmować i nabywać,
-- **2)** na wniosek ministra właściwego do spraw rozwoju wsi, obejmuje i nabywa odpłatnie albo nieodpłatnie, na własność Skarbu Państwa, akcje i udziały w spółkach prawa handlowego, jeżeli wymaga tego realizacja zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej oraz rozwoju obszarów wiejskich.
+- **2)** na wniosek ministra właściwego do spraw rozwoju wsi, obejmuje i nabywa – odpłatnie albo nieodpłatnie, na własność Skarbu Państwa, akcje i udziały w spółkach prawa handlowego, jeżeli wymaga tego realizacja zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej oraz rozwoju obszarów wiejskich.
 
 3. Nabycie nieruchomości rolnych oraz objęcie i nabycie akcji i udziałów, o których mowa w ust. 1 i 2, następuje po cenie odpowiadającej wartości rynkowej tych nieruchomości, akcji lub udziałów, uwzględniającej ich obciążenia.
 
@@ -358,7 +381,7 @@ source: "eli-html"
 
 - **2)** nie wykonuje zobowiązania, o którym mowa w art. 2a ust. 4 pkt 1 lit. b, pkt 2 lit. c lub pkt 3 lit. d,
 - **3)** nie wykorzystuje nieruchomości na cele rolnicze, w przypadku, o którym mowa w art. 2a ust. 4 pkt 4 lit. b,
-- **4)** nie rozpocznie albo nie zrealizuje inwestycji w terminach wskazanych w art. 2a ust. 4 pkt 5 lit. b oraz c Krajowy Ośrodek może wystąpić do sądu o nabycie własności tej nieruchomości przez Krajowy Ośrodek działający na rzecz Skarbu Państwa, za zapłatą ceny odpowiadającej jej wartości rynkowej określonej stosownie do przepisów o gospodarce nieruchomościami. ” . W ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2018 r. poz. 1285 oraz z 2019 r. poz. 730) wprowadza się następujące zmiany:
+- **4)** nie rozpocznie albo nie zrealizuje inwestycji w terminach wskazanych w art. 2a ust. 4 pkt 5 lit. b oraz c – Krajowy Ośrodek może wystąpić do sądu o nabycie własności tej nieruchomości przez Krajowy Ośrodek działający na rzecz Skarbu Państwa, za zapłatą ceny odpowiadającej jej wartości rynkowej określonej stosownie do przepisów o gospodarce nieruchomościami. ” . W ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2018 r. poz. 1285 oraz z 2019 r. poz. 730) wprowadza się następujące zmiany:
 - **1)** w art. 147 § 2 otrzymuje brzmienie: „
 
 § 2. W razie odpłatnego przeniesienia własności wkładu gruntowego spółdzielni przysługuje prawo pierwokupu. Nie dotyczy to przeniesienia własności wkładu gruntowego na rzecz innego członka tej samej spółdzielni posiadającego w niej wkład gruntowy. ” ;
@@ -397,14 +420,15 @@ source: "eli-html"
 
 - **1)** w pierwszej kolejności wydzierżawienia albo sprzedaży nieruchomości rolnych na powiększenie lub utworzenie gospodarstw rodzinnych, na zasadach określonych w rozdziałach 6 lub 8, z wyłączeniem nieruchomości rolnych o powierzchni mniejszej niż 1 ha oraz nieruchomości rolnych przeznaczonych w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy na cele inne niż rolne, a w przypadku braku miejscowego planu – na cele niezwiązane z kierunkami i zasadami kształtowania rolniczej przestrzeni produkcyjnej, określonymi w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;
 - **2)** oddania mienia na czas oznaczony do odpłatnego korzystania osobom prawnym lub fizycznym na zasadach określonych w rozdziale 8 i 9;
-- **3)** wniesienia mienia lub jego części do spółki prawa handlowego; ” , w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Za zgodą ministra właściwego do spraw rozwoju wsi, nieruchomości wchodzące w skład Zasobu Krajowy Ośrodek może, w drodze umowy, nieodpłatnie przekazać na własność: ” , – w pkt 1 lit. c otrzymuje brzmienie: „ c) na cele związane z realizacją inwestycji infrastrukturalnych służących wykonywaniu zadań własnych w zakresie wodociągów i zaopatrzenia w wodę, kanalizacji, usuwania i oczyszczania ścieków komunalnych, utrzymania czystości i porządku oraz urządzeń sanitarnych, wysypisk i unieszkodliwiania odpadów komunalnych, ochrony zdrowia, pomocy społecznej, edukacji publicznej, kultury i kultury fizycznej, zakładania lub rozszerzania cmentarzy komunalnych albo, jeżeli położony jest na nich cmentarz – pod warunkiem że jest to zgodne z ustaleniami miejscowego planu zagospodarowania przestrzennego, miejscowego planu rewitalizacji, ostateczną decyzją o warunkach zabudowy i zagospodarowania terenu albo z ustaleniami studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy; ” , ust. 5a otrzymuje brzmienie: „
+- **3)** wniesienia mienia lub jego części do spółki prawa handlowego; ” , w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Za zgodą ministra właściwego do spraw rozwoju wsi, nieruchomości wchodzące w skład Zasobu Krajowy Ośrodek może, w drodze umowy, nieodpłatnie przekazać na własność: ” , w pkt 1 lit. c otrzymuje brzmienie: „ na cele związane z realizacją inwestycji infrastrukturalnych służących wykonywaniu zadań własnych w zakresie wodociągów i zaopatrzenia w wodę, kanalizacji, usuwania i oczyszczania ścieków komunalnych, utrzymania czystości i porządku oraz urządzeń sanitarnych, wysypisk i unieszkodliwiania odpadów komunalnych, ochrony zdrowia, pomocy społecznej, edukacji publicznej, kultury i kultury fizycznej, zakładania lub rozszerzania cmentarzy komunalnych albo, jeżeli położony jest na nich cmentarz – pod warunkiem że jest to zgodne z ustaleniami miejscowego planu zagospodarowania przestrzennego, miejscowego planu rewitalizacji, ostateczną decyzją o warunkach zabudowy i zagospodarowania terenu albo z ustaleniami studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy; ” , ust. 5a otrzymuje brzmienie: „
     - **b)**
+    - **c)**
     - **c)**
 
 5a. W przypadku gdy nabywca, o którym mowa w ust. 5:
 
 - **1)** przed upływem 10 lat, licząc od dnia nabycia nieruchomości, zbył lub przeznaczył tę nieruchomość na inne cele niż określone w umowie,
-- **2)** w okresie 10 lat od dnia nabycia nieruchomości nie wykorzystał jej na cele określone w umowie Krajowy Ośrodek występuje do tego nabywcy z żądaniem zwrotu aktualnej wartości pieniężnej tej nieruchomości, ustalonej według zasad określonych w art. 30 ust. 1, natomiast od osób wymienionych w ust. 5 pkt 3 Krajowemu Ośrodkowi zwrot taki przysługuje, o ile Lasy Państwowe nie skorzystają z prawa pierwokupu. W przypadku zamiaru zbycia gruntu przez osoby wymienione w ust. 5 pkt 3 Lasom Państwowym przysługuje prawo pierwokupu tej nieruchomości, na zasadach określonych w przepisach o gospodarce nieruchomościami. ” , ust. 5c otrzymuje brzmienie: „
+- **2)** w okresie 10 lat od dnia nabycia nieruchomości nie wykorzystał jej na cele określone w umowie – Krajowy Ośrodek występuje do tego nabywcy z żądaniem zwrotu aktualnej wartości pieniężnej tej nieruchomości, ustalonej według zasad określonych w art. 30 ust. 1, natomiast od osób wymienionych w ust. 5 pkt 3 Krajowemu Ośrodkowi zwrot taki przysługuje, o ile Lasy Państwowe nie skorzystają z prawa pierwokupu. W przypadku zamiaru zbycia gruntu przez osoby wymienione w ust. 5 pkt 3 Lasom Państwowym przysługuje prawo pierwokupu tej nieruchomości, na zasadach określonych w przepisach o gospodarce nieruchomościami. ” , ust. 5c otrzymuje brzmienie: „
     - **d)**
 
 5c. Nieruchomości wchodzące w skład Zasobu, zajęte pod drogi gminne, powiatowe i wojewódzkie, grunty faktycznie wykorzystywane jako drogi oraz grunty przeznaczone na te cele w miejscowym planie zagospodarowania przestrzennego, a w przypadku braku miejscowego planu – w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, Krajowy Ośrodek może, w drodze umowy, nieodpłatnie przekazać na własność jednostce samorządu terytorialnego. ” , po ust. 5c dodaje się ust. 5d w brzmieniu: „
@@ -428,7 +452,7 @@ source: "eli-html"
 2. W przypadku gdy nabywca, o którym mowa w ust. 1:
 
 - **1)** przed upływem 10 lat, licząc od dnia nabycia nieruchomości, zbył lub przeznaczył tę nieruchomość na inne cele niż określone w umowie,
-- **2)** w okresie 10 lat nie wykorzystał jej na cele określone w umowie Krajowy Ośrodek występuje do tego podmiotu z żądaniem zwrotu aktualnej wartości pieniężnej tej nieruchomości, ustalonej według zasad określonych w przepisach o gospodarce nieruchomościami. ” ;
+- **2)** w okresie 10 lat nie wykorzystał jej na cele określone w umowie – Krajowy Ośrodek występuje do tego podmiotu z żądaniem zwrotu aktualnej wartości pieniężnej tej nieruchomości, ustalonej według zasad określonych w przepisach o gospodarce nieruchomościami. ” ;
 - **6)** po art. 24a dodaje się art. 24b w brzmieniu: „
 
 1. Dyrektor Generalny Krajowego Ośrodka, za zgodą ministra właściwego do spraw rozwoju wsi, może wyodrębnić z Zasobu nieruchomości, które wraz z innymi składnikami mienia tworzą nierozerwalną, zorganizowaną całość gospodarczą, o powierzchni przekraczającej 50 ha, której podział byłby nieuzasadniony ekonomicznie, zwane dalej „ośrodkami produkcji rolniczej”.
@@ -466,10 +490,14 @@ source: "eli-html"
 2. Nieruchomości, które nie zostały sprzedane na zasadach określonych w przepisach ust. 1, art. 17a i art. 42 albo co do których przepisy te nie mają zastosowania, podlegają sprzedaży w trybie publicznego przetargu ustnego (licytacja), z tym że nieruchomości rolne o powierzchni od 1 ha oraz nieruchomości przeznaczone w miejscowym planie zagospodarowania przestrzennego na użytkowanie rolnicze, a w przypadku braku miejscowego planu objęte ustaleniami studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy określającymi kierunki i zasady kształtowania rolniczej przestrzeni produkcyjnej, podlegają w pierwszej kolejności sprzedaży w trybie przetargu, w którym mogą uczestniczyć wyłącznie podmioty, o których mowa w ust. 3b. ” , w ust. 3ba pkt 3 otrzymuje brzmienie: „
 
 - **c)**
-- **3)** w dniu opublikowania wykazu, o którym mowa w art. 28 ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej Krajowego Ośrodka posiadał udziały lub akcje w spółkach prawa handlowego będących właścicielami nieruchomości rolnych lub w spółce zależnej lub dominującej, w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505), w stosunku do takiej spółki, z wyjątkiem: akcji dopuszczonych do obrotu na rynku giełdowym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244 oraz z 2019 r. poz. 730 i 875), akcji lub udziałów w spółce, będącej grupą producentów rolnych, o której mowa w ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2018 r. poz. 1026). ” , w ust. 3bb: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Krajowy Ośrodek może organizować przetargi, o których mowa w ust. 3b, w których oprócz: ” , – pkt 1 otrzymuje brzmienie: „ 1) rolników indywidualnych, o których mowa w ust. 3b pkt 1, może uczestniczyć również osoba, która nie spełnia jedynie wymogu dotyczącego 5-letniego okresu osobistego prowadzenia gospodarstwa rolnego, określonego w przepisach o kształtowaniu ustroju rolnego, w przypadku gdy osoba ta: a) w dniu ogłoszenia wykazu, o którym mowa w art. 28 ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej Krajowego Ośrodka ma nie więcej niż 40 lat lub b) realizuje warunki określone w decyzji o przyznaniu pomocy, o której mowa w art. 3 ust. 1 pkt 6 lit. a ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020; ” , w ust. 3bc pkt 2 otrzymuje brzmienie: „
+- **3)** w dniu opublikowania wykazu, o którym mowa w art. 28 ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej Krajowego Ośrodka posiadał udziały lub akcje w spółkach prawa handlowego będących właścicielami nieruchomości rolnych lub w spółce zależnej lub dominującej, w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505), w stosunku do takiej spółki, z wyjątkiem: akcji dopuszczonych do obrotu na rynku giełdowym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244 oraz z 2019 r. poz. 730 i 875), akcji lub udziałów w spółce, będącej grupą producentów rolnych, o której mowa w ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2018 r. poz. 1026). ” , w ust. 3bb: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Krajowy Ośrodek może organizować przetargi, o których mowa w ust. 3b, w których oprócz: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **d)**
+
+- **1)** rolników indywidualnych, o których mowa w ust. 3b pkt 1, może uczestniczyć również osoba, która nie spełnia jedynie wymogu dotyczącego 5-letniego okresu osobistego prowadzenia gospodarstwa rolnego, określonego w przepisach o kształtowaniu ustroju rolnego, w przypadku gdy osoba ta: w dniu ogłoszenia wykazu, o którym mowa w art. 28 ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej Krajowego Ośrodka ma nie więcej niż 40 lat lub realizuje warunki określone w decyzji o przyznaniu pomocy, o której mowa w art. 3 ust. 1 pkt 6 lit. a ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020; ” , w ust. 3bc pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
     - **e)**
 
 - **2)** władają lub władały nieruchomościami Zasobu bez tytułu prawnego i mimo wezwania Krajowego Ośrodka nieruchomości tych nie opuściły albo podmioty, w których są wspólnikami bądź w organach których uczestniczą osoby, które władają lub władały nieruchomościami Zasobu bez tytułu prawnego i mimo wezwania Krajowego Ośrodka nieruchomości tych nie opuściły. ” , w ust. 3bd w pkt 2 lit. b otrzymuje brzmienie: „ kilku nieruchomości Zasobu znajdujących się na terenie jednego obrębu ewidencyjnego. ” , dodaje się ust. 6–14 w brzmieniu: „
@@ -547,7 +575,7 @@ source: "eli-html"
 3. Każda jednostka organizacyjna Krajowego Ośrodka, zgodnie z przepisami prawa zamówień publicznych, samodzielnie sporządza:
 
 - **1)** plan postępowań o udzielenie zamówień publicznych, jakie przewiduje przeprowadzić w danym roku finansowym,
-- **2)** roczne sprawozdanie o udzielonych zamówieniach publicznych uwzględniając wydatki planowane i dokonane w ramach rocznego planu finansowego Krajowego Ośrodka, o którym mowa w art. 11 ust. 2, oraz rocznego planu finansowego Zasobu Własności Rolnej Skarbu Państwa. ” ;
+- **2)** roczne sprawozdanie o udzielonych zamówieniach publicznych – uwzględniając wydatki planowane i dokonane w ramach rocznego planu finansowego Krajowego Ośrodka, o którym mowa w art. 11 ust. 2, oraz rocznego planu finansowego Zasobu Własności Rolnej Skarbu Państwa. ” ;
 - **4)** w art. 15 dodaje się ust. 4 w brzmieniu: „
 
 4. Krajowy Ośrodek, za zgodą ministra właściwego do spraw rozwoju wsi, może wykorzystywać mienie do ustanawiania zabezpieczeń zobowiązań finansowych innych niż te, o których mowa w ust. 1, jeżeli są związane z realizacją zadań wynikających z polityki państwa, w szczególności w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej oraz rozwoju obszarów wiejskich. Krajowy Ośrodek może w szczególności ustanowić hipotekę na nieruchomościach Krajowego Ośrodka. ” ;
@@ -574,7 +602,7 @@ source: "eli-html"
 **Art. 6.** Postępowania w sprawach dotyczących wyrażenia zgody przez Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa na nabycie nieruchomości rolnych:
 
 - **1)** o powierzchni mniejszej niż 1ha,
-- **2)** przez podmioty i w przypadkach, o których mowa w art. 2a ust. 3 pkt 1 lit. ca tiret drugie, lit. cb, lit. e, lit. h oraz lit. i, oraz pkt 5–12 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą wszczęte i niezakończone ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy umarza się.
+- **2)** przez podmioty i w przypadkach, o których mowa w art. 2a ust. 3 pkt 1 lit. ca tiret drugie, lit. cb, lit. e, lit. h oraz lit. i, oraz pkt 5–12 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – wszczęte i niezakończone ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy umarza się.
 
 **Art. 7.** W przypadku nieruchomości rolnych nabytych przed dniem wejścia w życie niniejszej ustawy do okresu, przez który nabywca nieruchomości rolnej, która weszła w skład jego gospodarstwa rolnego, jest obowiązany prowadzić to gospodarstwo rolne, oraz okresu, w którym nabyta nieruchomość nie może być zbyta ani oddana w posiadanie innym podmiotom, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
@@ -589,11 +617,11 @@ source: "eli-html"
 **Art. 10.** Do zawartych przed dniem wejścia w życie ustawy umów:
 
 - **1)** dzierżawy nieruchomości Zasobu Własności Rolnej Skarbu Państwa nie stosuje się przepisu art. 695 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2018 r. poz. 1025, 1104, 1629, 2073 i 2244 oraz z 2019 r. poz. 80),
-- **2)** najmu mienia Zasobu Własności Rolnej Skarbu Państwa, z wyłączeniem umów najmu lokali mieszkalnych, nie stosuje się przepisu art. 661 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny chyba że przed dniem wejścia w życie ustawy umowy te stały się umowami zawartymi na czas nieoznaczony.
+- **2)** najmu mienia Zasobu Własności Rolnej Skarbu Państwa, z wyłączeniem umów najmu lokali mieszkalnych, nie stosuje się przepisu art. 661 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny – chyba że przed dniem wejścia w życie ustawy umowy te stały się umowami zawartymi na czas nieoznaczony.
 
 **Art. 11.** Informacje o zamówieniach publicznych udzielonych przez Krajowy Ośrodek Wsparcia Rolnictwa w 2019 r. przed dniem wejścia w życie ustawy uwzględnia się w rocznym sprawozdaniu o udzielonych zamówieniach publicznych za rok 2019 sporządzonym przez biuro Krajowego Ośrodka Wsparcia Rolnictwa.
 
 **Art. 12.** Jednostki organizacyjne Krajowego Ośrodka Wsparcia Rolnictwa sporządzają plany postępowań o udzielenie zamówień publicznych, jakie przewidują przeprowadzić w roku 2019, w terminie 30 dni od dnia wejścia w życie ustawy.
 
-**Art. 13.** Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa przekazuje dyrektorom oddziałów terenowych Krajowego Ośrodka Wsparcia Rolnictwa limit wydatków przeznaczonych na funkcjonowanie oddziałów terenowych Krajowego Ośrodka Wsparcia Rolnictwa w roku 2019, w terminie 30 dni od dnia wejścia w życie ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 lit. e, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 13.** Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa przekazuje dyrektorom oddziałów terenowych Krajowego Ośrodka Wsparcia Rolnictwa limit wydatków przeznaczonych na funkcjonowanie oddziałów terenowych Krajowego Ośrodka Wsparcia Rolnictwa w roku 2019, w terminie 30 dni od dnia wejścia w życie ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 lit. e, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. – Prawo spółdzielcze, ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawę z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa.
 

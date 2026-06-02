@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 15 grudnia 2021 r. w sprawie ekspertyzy nawigacyjnej i ekspertyz technicznych dla morskiej farmy wiatrowej i zespołu urządzeń
+# Rozporządzenie Ministra Infrastrukturyz dnia 15 grudnia 2021 r. w sprawie ekspertyzy nawigacyjnej i ekspertyz technicznych dla morskiej farmy wiatrowej i zespołu urządzeń Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-15 |
 | Data wydania | 2021-12-22 |
-| Wejście w życie | 2022-01-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002380) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2380/text.pdf) |
 
@@ -91,8 +90,7 @@ Kopie dokumentów, o których mowa w ust. 3 i 4, podlegają zwrotowi wnioskodawc
 § 4.
 W sprawach wszczętych na podstawie art. 113b ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy tego rozporządzenia.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 ## Załącznik nr 1 — – Szczegółowy zakres ekspertyzy nawigacyjnej w zakresie oceny wpływu morskiej farmy wiatrowej i zespołu urządzeń na bezpieczeństwo i efektywność żeglugi statków w polskich obszarach morskich
 

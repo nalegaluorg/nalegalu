@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 sierpnia 2017 r. zmieniające rozporządzenie w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 sierpnia 2017 r. zmieniające rozporządzenie w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,25 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-28 |
 | Data wydania | 2017-08-31 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001643) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1643/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 2 pkt 11 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 2 pkt 11 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 kwietnia 2013 r. w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach (Dz. U. poz. 532) wprowadza się następujące zmiany:
 1)
 tytuł rozporządzenia otrzymuje brzmienie: „ w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych szkołach i placówkach ” ;
 2)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
-Publiczne gimnazja, szkoły ponadgimnazjalne i placówki udzielają uczniom uczęszczającym do tych szkół i placówek, ich rodzicom oraz nauczycielom pomocy psychologiczno-pedagogicznej i organizują tę pomoc na zasadach określonych w rozporządzeniu.
-” ;
+Publiczne gimnazja, szkoły ponadgimnazjalne i placówki udzielają uczniom uczęszczającym do tych szkół i placówek, ich rodzicom oraz nauczycielom pomocy psychologiczno-pedagogicznej i organizują tę pomoc na zasadach określonych w rozporządzeniu. ” ;
 3)
-§ 3–5 otrzymują brzmienie:
-„
+§ 3–5 otrzymują brzmienie: „
 § 3.
 1.
 Pomoc psychologiczno-pedagogiczna udzielana uczniowi w szkole i placówce polega na rozpoznawaniu i zaspokajaniu indywidualnych potrzeb rozwojowych i edukacyjnych ucznia oraz rozpoznawaniu indywidualnych możliwości psychofizycznych ucznia i czynników środowiskowych wpływających na jego funkcjonowanie w szkole i placówce, w celu wspierania potencjału rozwojowego ucznia i stwarzania warunków do jego aktywnego i pełnego uczestnictwa w życiu szkoły i placówki oraz w środowisku społecznym.
@@ -92,36 +88,36 @@ innymi szkołami i placówkami;
 5)
 organizacjami pozarządowymi oraz innymi instytucjami i podmiotami działającymi na rzecz rodziny, dzieci i młodzieży.
 4.
-Dyrektor szkoły lub placówki uzgadnia z podmiotami wskazanymi w ust. 3 warunki współpracy, o której mowa w ust. 3.
-” ;
+Dyrektor szkoły lub placówki uzgadnia z podmiotami wskazanymi w ust. 3 warunki współpracy, o której mowa w ust. 3. ” ;
 4)
 w § 6:
 a)
 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Pomoc psychologiczno-pedagogiczna w szkole i placówce jest udzielana z inicjatywy: ” ,
 b)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-dyrektora szkoły lub placówki
-” ,
+dyrektora szkoły lub placówki ” ,
 c)
-w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu:
-„
+w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
 12)
-organizacji pozarządowej, innej instytucji lub podmiotu działających na rzecz rodziny, dzieci i młodzieży.
-” ;
+organizacji pozarządowej, innej instytucji lub podmiotu działających na rzecz rodziny, dzieci i młodzieży. ” ;
 5)
 w § 7:
 a)
 w ust. 1:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W szkole pomoc psychologiczno-pedagogiczna jest udzielana w trakcie bieżącej pracy z uczniem oraz przez zintegrowane działania nauczycieli i specjalistów, a także w formie: ” ,
-– po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) zajęć rozwijających umiejętności uczenia się; ” ,
+po pkt 2 dodaje się pkt 2a w brzmieniu: „
+2a)
+zajęć rozwijających umiejętności uczenia się; ” ,
 – w pkt 4 wyraz „socjoterapeutycznych” zastępuje się wyrazami „rozwijających kompetencje emocjonalno-społeczne”,
-– pkt 5 otrzymuje brzmienie: „ 5) zajęć związanych z wyborem kierunku kształcenia i zawodu oraz planowaniem kształcenia i kariery zawodowej; ” ,
-– po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) zindywidualizowanej ścieżki kształcenia; ” ,
+pkt 5 otrzymuje brzmienie: „
+5)
+zajęć związanych z wyborem kierunku kształcenia i zawodu oraz planowaniem kształcenia i kariery zawodowej; ” ,
+po pkt 5 dodaje się pkt 5a w brzmieniu: „
+5a)
+zindywidualizowanej ścieżki kształcenia; ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 W placówce pomoc psychologiczno-pedagogiczna jest udzielana w trakcie bieżącej pracy z uczniem oraz przez zintegrowane działania nauczycieli, wychowawców grup wychowawczych i specjalistów, a także w formie:
 1)
@@ -135,63 +131,49 @@ zajęć związanych z wyborem kierunku kształcenia i zawodu oraz planowaniem ks
 5)
 porad i konsultacji;
 6)
-warsztatów.
-” ,
+warsztatów. ” ,
 c)
 w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W szkole dla dorosłych pomoc psychologiczno-pedagogiczna jest udzielana w trakcie bieżącej pracy ze słuchaczem oraz przez zintegrowane działania nauczycieli i specjalistów, a także w formie: ” ;
 d)
 w ust. 4 wyrazy „W przedszkolu, szkole i placówce” zastępuje się wyrazami „W szkole i placówce”,
 e)
-dodaje się ust. 5 w brzmieniu:
-„
+dodaje się ust. 5 w brzmieniu: „
 5.
-Dyrektor szkoły lub placówki organizuje wspomaganie szkoły i placówki w zakresie realizacji zadań z zakresu pomocy psychologiczno-pedagogicznej polegające na zaplanowaniu i przeprowadzeniu działań mających na celu poprawę jakości udzielanej pomocy psychologiczno-pedagogicznej.
-” ;
+Dyrektor szkoły lub placówki organizuje wspomaganie szkoły i placówki w zakresie realizacji zadań z zakresu pomocy psychologiczno-pedagogicznej polegające na zaplanowaniu i przeprowadzeniu działań mających na celu poprawę jakości udzielanej pomocy psychologiczno-pedagogicznej. ” ;
 6)
 w § 8:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Klasy terapeutyczne organizuje się dla uczniów wymagających dostosowania organizacji i procesu nauczania oraz długotrwałej pomocy specjalistycznej z uwagi na trudności w funkcjonowaniu w szkole lub oddziale wynikające z zaburzeń rozwojowych lub ze stanu zdrowia, posiadających opinię poradni, z której wynika potrzeba objęcia ucznia pomocą w tej formie.
-” ,
+Klasy terapeutyczne organizuje się dla uczniów wymagających dostosowania organizacji i procesu nauczania oraz długotrwałej pomocy specjalistycznej z uwagi na trudności w funkcjonowaniu w szkole lub oddziale wynikające z zaburzeń rozwojowych lub ze stanu zdrowia, posiadających opinię poradni, z której wynika potrzeba objęcia ucznia pomocą w tej formie. ” ,
 b)
 uchyla się ust. 2 i 6,
 c)
-ust. 7 otrzymuje brzmienie:
-„
+ust. 7 otrzymuje brzmienie: „
 7.
-Do klas terapeutycznych, za zgodą organu prowadzącego szkołę, w ramach posiadanych środków, mogą uczęszczać uczniowie innej szkoły, z uwzględnieniem przepisów dotyczących dowożenia uczniów do szkoły w związku z art. 308 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
-” ,
+Do klas terapeutycznych, za zgodą organu prowadzącego szkołę, w ramach posiadanych środków, mogą uczęszczać uczniowie innej szkoły, z uwzględnieniem przepisów dotyczących dowożenia uczniów do szkoły w związku z art. 308 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). ” ,
 d)
-po ust. 7 dodaje się ust. 7a w brzmieniu:
-„
+po ust. 7 dodaje się ust. 7a w brzmieniu: „
 7a.
-Nauka ucznia w klasie terapeutycznej trwa do czasu złagodzenia albo wyeliminowania trudności w funkcjonowaniu ucznia w szkole lub oddziale, stanowiących powód objęcia ucznia pomocą w tej formie.
-” ,
+Nauka ucznia w klasie terapeutycznej trwa do czasu złagodzenia albo wyeliminowania trudności w funkcjonowaniu ucznia w szkole lub oddziale, stanowiących powód objęcia ucznia pomocą w tej formie. ” ,
 e)
 uchyla się ust. 8;
 7)
 w § 9 skreśla się wyrazy „oraz prowadzi się przy wykorzystaniu aktywnych metod pracy”,
 8)
-po § 9 dodaje się § 9a w brzmieniu:
-„
+po § 9 dodaje się § 9a w brzmieniu: „
 § 9a.
-Zajęcia rozwijające umiejętności uczenia się organizuje się dla uczniów w celu podnoszenia efektywności uczenia się.
-” ;
+Zajęcia rozwijające umiejętności uczenia się organizuje się dla uczniów w celu podnoszenia efektywności uczenia się. ” ;
 9)
 w § 11 wyrazy „lub specyficznymi” zastępuje się wyrazami „, w tym specyficznymi”;
 10)
-§ 12 i § 13 otrzymują brzmienie:
-„
+§ 12 i § 13 otrzymują brzmienie: „
 § 12.
 Zajęcia logopedyczne organizuje się dla uczniów z deficytami kompetencji i zaburzeniami sprawności językowych. Liczba uczestników zajęć nie może przekraczać 4.
 § 13.
-Zajęcia rozwijające kompetencje emocjonalno-społeczne organizuje się dla uczniów przejawiających trudności w funkcjonowaniu społecznym. Liczba uczestników zajęć nie może przekraczać 10, chyba że zwiększenie liczby uczestników jest uzasadnione potrzebami uczniów.
-” ;
+Zajęcia rozwijające kompetencje emocjonalno-społeczne organizuje się dla uczniów przejawiających trudności w funkcjonowaniu społecznym. Liczba uczestników zajęć nie może przekraczać 10, chyba że zwiększenie liczby uczestników jest uzasadnione potrzebami uczniów. ” ;
 11)
-po § 13 dodaje się § 13a i § 13b w brzmieniu:
-„
+po § 13 dodaje się § 13a i § 13b w brzmieniu: „
 § 13a.
 Inne zajęcia o charakterze terapeutycznym organizuje się dla uczniów z zaburzeniami i odchyleniami rozwojowymi mających problemy w funkcjonowaniu w szkole lub placówce oraz z aktywnym i pełnym uczestnictwem w życiu szkoły lub placówki. Liczba uczestników zajęć nie może przekraczać 10.
 § 13b.
@@ -234,11 +216,9 @@ Zindywidualizowanej ścieżki kształcenia nie organizuje się dla:
 1)
 uczniów objętych kształceniem specjalnym zgodnie z przepisami wydanymi na podstawie art. 71b ust. 7 pkt 2 ustawy;
 2)
-uczniów objętych indywidualnym nauczaniem zgodnie z przepisami wydanymi na podstawie art. 71b ust. 8 ustawy.
-” ;
+uczniów objętych indywidualnym nauczaniem zgodnie z przepisami wydanymi na podstawie art. 71b ust. 8 ustawy. ” ;
 12)
-§ 14 i § 15 otrzymują brzmienie:
-„
+§ 14 i § 15 otrzymują brzmienie: „
 § 14.
 1.
 Godzina zajęć, o których mowa w § 7 ust. 1 pkt 2–5, ust. 2 pkt 1–4 i ust. 3 pkt 1, trwa 45 minut.
@@ -248,13 +228,11 @@ Dopuszcza się prowadzenie zajęć, o których mowa w § 7 ust. 1 pkt 2–5, ust
 1.
 Zajęcia rozwijające uzdolnienia, zajęcia rozwijające umiejętności uczenia się, zajęcia dydaktyczno-wyrównawcze oraz zajęcia specjalistyczne prowadzą nauczyciele, wychowawcy grup wychowawczych i specjaliści posiadający kwalifikacje odpowiednie do rodzaju zajęć.
 2.
-Zajęcia, o których mowa w ust. 1, prowadzi się przy wykorzystaniu aktywizujących metod pracy.
-” ;
+Zajęcia, o których mowa w ust. 1, prowadzi się przy wykorzystaniu aktywizujących metod pracy. ” ;
 13)
 uchyla się § 16;
 14)
-§ 19 otrzymuje brzmienie:
-„
+§ 19 otrzymuje brzmienie: „
 § 19.
 1.
 Do zadań nauczycieli, wychowawców grup wychowawczych i specjalistów w szkole i placówce należy w szczególności:
@@ -315,51 +293,41 @@ Dyrektor szkoły lub placówki, o której mowa w art. 2 pkt 7 ustawy, może wyzn
 14.
 Przepisy ust. 3–13 stosuje się odpowiednio do uczniów posiadających orzeczenie o potrzebie indywidualnego nauczania lub opinię poradni, z tym że przy planowaniu udzielania uczniom pomocy psychologiczno-pedagogicznej uwzględnia się także zalecenia zawarte w orzeczeniu lub opinii.
 15.
-Przepisy ust. 3–10 i ust. 13 stosuje się odpowiednio do słuchaczy szkół dla dorosłych.
-” ;
+Przepisy ust. 3–10 i ust. 13 stosuje się odpowiednio do słuchaczy szkół dla dorosłych. ” ;
 15)
 w § 20:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-W przypadku ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego planowanie i koordynowanie udzielania pomocy psychologiczno-pedagogicznej w szkole lub placówce, o której mowa w art. 2 pkt 7 ustawy, w tym ustalenie dla ucznia form udzielania tej pomocy, a w przypadku form, o których mowa w § 7 ust. 1 pkt 1–5 i ust. 2 pkt 1–4 – także okres ich udzielania oraz wymiar godzin, w którym poszczególne formy będą realizowane, jest zadaniem zespołu, o którym mowa w przepisach wydanych na podstawie art. 71b ust. 7 pkt 2 ustawy. Podczas planowania i koordynowania udzielania uczniowi pomocy psychologiczno-pedagogicznej uwzględnia się wymiar godzin ustalony dla poszczególnych form udzielania uczniom pomocy psychologiczno-pedagogicznej.
-” ,
+W przypadku ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego planowanie i koordynowanie udzielania pomocy psychologiczno-pedagogicznej w szkole lub placówce, o której mowa w art. 2 pkt 7 ustawy, w tym ustalenie dla ucznia form udzielania tej pomocy, a w przypadku form, o których mowa w § 7 ust. 1 pkt 1–5 i ust. 2 pkt 1–4 – także okres ich udzielania oraz wymiar godzin, w którym poszczególne formy będą realizowane, jest zadaniem zespołu, o którym mowa w przepisach wydanych na podstawie art. 71b ust. 7 pkt 2 ustawy. Podczas planowania i koordynowania udzielania uczniowi pomocy psychologiczno-pedagogicznej uwzględnia się wymiar godzin ustalony dla poszczególnych form udzielania uczniom pomocy psychologiczno-pedagogicznej. ” ,
 b)
 uchyla się ust. 2 i 3;
 16)
 w § 21 uchyla się ust. 2;
 17)
-w § 22 ust. 2 otrzymuje brzmienie:
-„
+w § 22 ust. 2 otrzymuje brzmienie: „
 2.
-O ustalonych dla ucznia formach, okresie udzielania pomocy psychologiczno-pedagogicznej oraz wymiarze godzin, w którym poszczególne formy pomocy będą realizowane, dyrektor szkoły lub placówki, o której mowa w art. 2 pkt 7 ustawy, niezwłocznie informuje pisemnie, w sposób przyjęty w danej szkole lub placówce, rodziców ucznia albo pełnoletniego ucznia.
-” ;
+O ustalonych dla ucznia formach, okresie udzielania pomocy psychologiczno-pedagogicznej oraz wymiarze godzin, w którym poszczególne formy pomocy będą realizowane, dyrektor szkoły lub placówki, o której mowa w art. 2 pkt 7 ustawy, niezwłocznie informuje pisemnie, w sposób przyjęty w danej szkole lub placówce, rodziców ucznia albo pełnoletniego ucznia. ” ;
 18)
 w § 23:
 a)
 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do zadań pedagoga i psychologa w szkole i placówce należy w szczególności:”,
 b)
-pkt 1 i 2 otrzymują brzmienie:
-„
+pkt 1 i 2 otrzymują brzmienie: „
 1)
 prowadzenie badań i działań diagnostycznych uczniów, w tym diagnozowanie indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych uczniów w celu określenia mocnych stron, predyspozycji, zainteresowań i uzdolnień uczniów oraz przyczyn niepowodzeń edukacyjnych lub trudności w funkcjonowaniu uczniów, w tym barier i ograniczeń utrudniających funkcjonowanie ucznia i jego uczestnictwo w życiu szkoły i placówki;
 2)
-diagnozowanie sytuacji wychowawczych w szkole lub placówce w celu rozwiązywania problemów wychowawczych stanowiących barierę i ograniczających aktywne i pełne uczestnictwo ucznia w życiu szkoły i placówki;
-” ,
+diagnozowanie sytuacji wychowawczych w szkole lub placówce w celu rozwiązywania problemów wychowawczych stanowiących barierę i ograniczających aktywne i pełne uczestnictwo ucznia w życiu szkoły i placówki; ” ,
 c)
-pkt 8 otrzymuje brzmienie:
-„
+pkt 8 otrzymuje brzmienie: „
 8)
 wspieranie nauczycieli, wychowawców grup wychowawczych i innych specjalistów w:
 a)
 rozpoznawaniu indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych uczniów w celu określenia mocnych stron, predyspozycji, zainteresowań i uzdolnień uczniów oraz przyczyn niepowodzeń edukacyjnych lub trudności w funkcjonowaniu uczniów, w tym barier i ograniczeń utrudniających funkcjonowanie ucznia i jego uczestnictwo w życiu szkoły lub placówki,
 b)
-udzielaniu pomocy psychologiczno-pedagogicznej.
-” ;
+udzielaniu pomocy psychologiczno-pedagogicznej. ” ;
 19)
-§ 24 otrzymuje brzmienie:
-„
+§ 24 otrzymuje brzmienie: „
 § 24.
 Do zadań logopedy w szkole i placówce należy w szczególności:
 1)
@@ -373,25 +341,19 @@ wspieranie nauczycieli, wychowawców grup wychowawczych i innych specjalistów w
 a)
 rozpoznawaniu indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych uczniów w celu określenia mocnych stron, predyspozycji, zainteresowań i uzdolnień uczniów oraz przyczyn niepowodzeń edukacyjnych lub trudności w funkcjonowaniu uczniów, w tym barier i ograniczeń utrudniających funkcjonowanie ucznia i jego uczestnictwo w życiu szkoły i placówki,
 b)
-udzielaniu pomocy psychologiczno-pedagogicznej.
-” ;
+udzielaniu pomocy psychologiczno-pedagogicznej. ” ;
 20)
 w § 25:
 a)
-w ust. 1 pkt 3 otrzymuje brzmienie:
-„
+w ust. 1 pkt 3 otrzymuje brzmienie: „
 3)
-prowadzenie zajęć związanych z wyborem kierunku kształcenia i zawodu oraz planowaniem kształcenia i kariery zawodowej, z uwzględnieniem rozpoznanych mocnych stron, predyspozycji, zainteresowań i uzdolnień uczniów;
-” ,
+prowadzenie zajęć związanych z wyborem kierunku kształcenia i zawodu oraz planowaniem kształcenia i kariery zawodowej, z uwzględnieniem rozpoznanych mocnych stron, predyspozycji, zainteresowań i uzdolnień uczniów; ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-W przypadku braku doradcy zawodowego w szkole lub placówce dyrektor szkoły lub placówki wyznacza nauczyciela, wychowawcę grupy wychowawczej lub specjalistę realizującego zadania, o których mowa w ust. 1.
-” ;
+W przypadku braku doradcy zawodowego w szkole lub placówce dyrektor szkoły lub placówki wyznacza nauczyciela, wychowawcę grupy wychowawczej lub specjalistę realizującego zadania, o których mowa w ust. 1. ” ;
 21)
-§ 26 i § 27 otrzymują brzmienie:
-„
+§ 26 i § 27 otrzymują brzmienie: „
 § 26.
 Do zadań terapeuty pedagogicznego należy w szczególności:
 1)
@@ -409,15 +371,11 @@ rozpoznawaniu indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwośc
 b)
 udzielaniu pomocy psychologiczno-pedagogicznej.
 § 27.
-Wsparcie merytoryczne dla nauczycieli, wychowawców grup wychowawczych i specjalistów udzielających pomocy psychologiczno-pedagogicznej w szkole i placówce, na wniosek dyrektora szkoły i placówki, zapewniają poradnie oraz placówki doskonalenia nauczycieli.
-” ;
+Wsparcie merytoryczne dla nauczycieli, wychowawców grup wychowawczych i specjalistów udzielających pomocy psychologiczno-pedagogicznej w szkole i placówce, na wniosek dyrektora szkoły i placówki, zapewniają poradnie oraz placówki doskonalenia nauczycieli. ” ;
 22)
-po § 27 dodaje się § 27a w brzmieniu:
-„
+po § 27 dodaje się § 27a w brzmieniu: „
 § 27a.
-Przepisy rozporządzenia stosuje się także do klas gimnazjum lub szkoły ponadgimnazjalnej prowadzonych w szkołach innego typu oraz dotychczasowych szkół artystycznych, o których mowa w art. 363 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe.
-” .
+Przepisy rozporządzenia stosuje się także do klas gimnazjum lub szkoły ponadgimnazjalnej prowadzonych w szkołach innego typu oraz dotychczasowych szkół artystycznych, o których mowa w art. 363 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
 

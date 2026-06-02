@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-18 |
 | Data wydania | 2011-10-18 |
-| Wejście w życie | 2012-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112221321) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1321/text.pdf) |
 
-Treść ustawy Art. 1. Art. 2. Art. 3. Art. 4. Art. 5. Art. 6. Art. 7. Art. 8.
-Załącznik – Kategorie zezwoleń na przejazd pojazdu nienormatywnego
+Kary pieniężne za przejazd pojazdów nienormatywnych bez zezwolenia lub niezgodnie z warunkami określonymi w zezwoleniu
 Art. 140aa.
 1.
 Za przejazd po drogach publicznych pojazdów nienormatywnych bez zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, lub niezgodnie z warunkami określonymi dla tego zezwolenia nakłada się karę pieniężną, w drodze decyzji administracyjnej.
@@ -118,12 +116,86 @@ Urzędy celne i wojewódzkie inspektoraty transportu drogowego otrzymują prowiz
 4.
 Prowizja, o której mowa w ust. 3, stanowi dochód budżetu państwa.
 5.
-Od kar pieniężnych urzędy celne i wojewódzkie inspektoraty transportu drogowego odliczają prowizję, a pozostałą część kary, w terminie 4 dni po upływie każdych kolejnych 10 dni miesiąca, przekazują odpowiednio do podmiotów wymienionych w ust. 1.
-” ;
+Od kar pieniężnych urzędy celne i wojewódzkie inspektoraty transportu drogowego odliczają prowizję, a pozostałą część kary, w terminie 4 dni po upływie każdych kolejnych 10 dni miesiąca, przekazują odpowiednio do podmiotów wymienionych w ust. 1. ” ;
 14)
 dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do niniejszej ustawy.
+W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381, z 2008 r. Nr 54, poz. 326, Nr 218, poz. 1391 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100 i 101, Nr 86, poz. 720 i Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 675, Nr 152, poz. 1018 i Nr 225, poz. 1466 oraz z 2011 r. Nr 5, poz. 13 i Nr 159, poz. 945.) wprowadza się następujące zmiany:
+1)
+w art. 4 pkt 25 otrzymuje brzmienie: „
+25)
+pojazd nienormatywny – pojazd lub zespół pojazdów w rozumieniu art. 2 pkt 35a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323, z 2010 r. Nr 40, poz. 230, Nr 43, poz. 246, Nr 122, poz. 827, Nr 151, poz. 1013, Nr 152, poz. 1018, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 225, poz. 1466 i Nr 257, poz. 1726 oraz z 2011 r. Nr 30, poz. 151, Nr 92, poz. 530, Nr 102, poz. 585, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 204, poz. 1195, Nr 205, poz. 1210, Nr 208, poz. 1240 i 1241 i Nr 222, poz. 1321.); ” ;
+2)
+w art. 13:
+a)
+w ust. 1 uchyla się pkt 2,
+b)
+w ust. 3:
+– wprowadzenie do wyliczenia otrzymuje brzmienie: „ Od opłat, o których mowa w ust. 1 pkt 1 oraz ust. 2, są zwolnione: ” ,
+w pkt 1 lit. a otrzymuje brzmienie: „
+a)
+Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Służby Więziennej, Służby Celnej, służb ratowniczych, ” ,
+c)
+ust. 5 otrzymuje brzmienie: „
+5.
+Korzystający z drogi publicznej jest zwolniony z opłat, o których mowa w ust. 1 pkt 1 i ust. 2, w przypadku wykonywania przez niego przejazdu w ramach pomocy humanitarnej lub medycznej. ” ;
+3)
+uchyla się art. 13c;
+4)
+uchyla się art. 13g;
+5)
+w art. 13k:
+a)
+ust. 7 otrzymuje brzmienie: „
+7.
+Karę pieniężną uiszcza się w formie bezgotówkowej za pomocą przekazu na właściwy rachunek bankowy lub za pomocą karty płatniczej, z tym że w przypadku przedsiębiorców zagranicznych możliwe jest uiszczenie kary pieniężnej w formie gotówkowej bezpośrednio organowi, który ją wymierzył. ” ,
+b)
+po ust. 7 dodaje ust. 7a-7e w brzmieniu: „
+7a.
+W przypadku uiszczenia kary pieniężnej w formie gotówkowej organ wydaje pokwitowanie na druku ścisłego zarachowania, stanowiące dowód uiszczenia tej kary.
+7b.
+Koszty związane z uiszczeniem kary pieniężnej przez przekazanie jej na rachunek bankowy, a w przypadku uiszczenia kary pieniężnej za pomocą karty płatniczej koszty związane z autoryzacją transakcji i przekazem środków na właściwy rachunek bankowy pokrywa wpłacający.
+7c.
+Do czasu uiszczenia kary pieniężnej przez przedsiębiorcę zagranicznego pojazd kieruje się lub usuwa, na jego koszt, na najbliższy parking strzeżony, o którym mowa w art. 130a ust. 5c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+7d.
+W zakresie postępowania w związku z usuwaniem pojazdu stosuje się odpowiednio przepisy art. 130a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+7e.
+Zwrot pojazdu z parkingu następuje po ustaniu przyczyny skierowania pojazdu na parking i przedstawieniu przez kontrolowanego organowi, który wymierzył karę, dowodu uiszczenia kary pieniężnej. ” ;
+6)
+w art. 18 w ust. 2 pkt 3 otrzymuje brzmienie: „
+3)
+wydawanie zezwoleń na przejazd pojazdów nienormatywnych; ” ;
+7)
+w art. 39 w ust. 1 pkt 3 otrzymuje brzmienie: „
+3)
+poruszania się po drogach pojazdów nienormatywnych bez wymaganego zezwolenia lub w sposób niezgodny z przepisami ruchu drogowego; ” ;
+8)
+w art. 40a:
+a)
+ust. 1 otrzymuje brzmienie: „
+1.
+Opłaty określone w art. 13 ust. 1 i 2, z wyłączeniem opłaty elektronicznej, w art. 13f ust. 1 i art. 40 ust. 3 oraz kary pieniężne określone w art. 13k ust. 1 i 2, art. 29a ust. 1 i 2 oraz w art. 40 ust. 12, a także opłaty z tytułu umów zawieranych na podstawie art. 22 ust. 2 i art. 39 ust. 7 są przekazywane odpowiednio do budżetów jednostek samorządu terytorialnego lub na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad. ” ,
+b)
+uchyla się ust. 2;
+9)
+uchyla się art. 40b i 40c;
+10)
+art. 40d otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.**
+
+**Art. 2.**
+
+**Art. 3.**
+
+**Art. 4.**
+
+**Art. 5.**
+
+**Art. 6.**
+
+**Art. 7.**
+
+**Art. 8.** Załącznik – Kategorie zezwoleń na przejazd pojazdu nienormatywnego W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323, z 2010 r. Nr 40, poz. 230, Nr 43, poz. 246, Nr 122, poz. 827, Nr 151, poz. 1013, Nr 152, poz. 1018, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 225, poz. 1466 i Nr 257, poz. 1726 oraz z 2011 r. Nr 30, poz. 151, Nr 92, poz. 530, Nr 102, poz. 585, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 204, poz. 1195, Nr 205, poz. 1210 i Nr 208, poz. 1240 i 1241.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: po pkt 35 dodaje się pkt 35a-35c w brzmieniu: „
     - **a)**
@@ -315,7 +387,7 @@ dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do nini
 10. Zezwolenie jest ważne przez okres:
 
 - **1)** 14 dni – w przypadku zezwolenia na jednokrotny przejazd,
-- **2)** 30 dni – w przypadku zezwolenia na wielokrotny przejazd liczonych od dnia wskazanego we wniosku o wydanie zezwolenia.
+- **2)** 30 dni – w przypadku zezwolenia na wielokrotny przejazd – liczonych od dnia wskazanego we wniosku o wydanie zezwolenia.
 
 11. Opłatę za wydanie zezwolenia ustala się zgodnie z wzorem: \( O_n = p_j + \left( {n – 1} \right) \times 0,7 \times p_j , \) w którym poszczególne symbole oznaczają: – On – wysokość opłaty za wydanie zezwolenia, – n – liczbę przejazdów pojazdu nienormatywnego, – pj – stawkę opłaty za wydanie zezwolenia na jednokrotny przejazd pojazdu nienormatywnego.
 
@@ -367,7 +439,7 @@ dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do nini
 - **1)** warunki dystrybucji blankietów zezwoleń na przejazd pojazdu nienormatywnego,
 - **2)** sposób i tryb wydawania zezwoleń na przejazd pojazdu nienormatywnego,
 - **3)** warunki wyznaczania trasy przejazdu oraz kryteria ustalania warunków przejazdu pojazdu nienormatywnego, w tym przejazdu przez most lub wiadukt,
-- **4)** wzory zezwoleń na przejazd pojazdu nienormatywnego oraz wzory dokumentów związanych z wydawaniem tych zezwoleń mając na uwadze potrzebę ujednolicenia zezwoleń i ułatwienie ich identyfikacji oraz sprawność dystrybucji blankietów zezwoleń, a także konieczność zapewnienia sprawności i przejrzystości procedury administracyjnej wydawania zezwoleń oraz bezpieczeństwa infrastruktury drogowej i bezpieczeństwa przejazdu pojazdu nienormatywnego.
+- **4)** wzory zezwoleń na przejazd pojazdu nienormatywnego oraz wzory dokumentów związanych z wydawaniem tych zezwoleń – mając na uwadze potrzebę ujednolicenia zezwoleń i ułatwienie ich identyfikacji oraz sprawność dystrybucji blankietów zezwoleń, a także konieczność zapewnienia sprawności i przejrzystości procedury administracyjnej wydawania zezwoleń oraz bezpieczeństwa infrastruktury drogowej i bezpieczeństwa przejazdu pojazdu nienormatywnego.
 
 2. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe warunki i sposób pilotowania pojazdów nienormatywnych oraz wyposażenie i oznakowanie pojazdów wykonujących pilotowanie, mając na uwadze potrzebę zapewnienia rozpoznawalności przejazdu pojazdu nienormatywnego oraz bezpieczeństwa ruchu drogowego podczas takiego przejazdu.
 
@@ -379,13 +451,16 @@ dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do nini
 - **2)** sposób i tryb wydawania zezwoleń wojskowych na przejazdy drogowe,
 - **3)** wzory zezwoleń wojskowych na przejazdy drogowe oraz wzory dokumentów związanych z ich wydaniem,
 - **4)** sposób organizacji i oznakowania kolumn pojazdów,
-- **5)** warunki i sposób pilotowania pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej oraz oznakowanie i wyposażenie pojazdu pilotującego mając na uwadze potrzebę ujednolicenia procedury wydawania zezwoleń wojskowych na przejazdy drogowe, sprawności wydawania zezwoleń wojskowych na przejazd drogowy oraz zapewnienia bezpieczeństwa ruchu drogowego podczas przejazdu pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej. ” ;
+- **5)** warunki i sposób pilotowania pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej oraz oznakowanie i wyposażenie pojazdu pilotującego – mając na uwadze potrzebę ujednolicenia procedury wydawania zezwoleń wojskowych na przejazdy drogowe, sprawności wydawania zezwoleń wojskowych na przejazd drogowy oraz zapewnienia bezpieczeństwa ruchu drogowego podczas przejazdu pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej. ” ;
 - **10)** w art. 66 ust. 7 otrzymuje brzmienie: „
 
 7. Minister właściwy do spraw wewnętrznych, Minister Obrony Narodowej, minister właściwy do spraw finansów publicznych oraz Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw transportu, określą, w drodze rozporządzenia, warunki techniczne pojazdów specjalnych i używanych do celów specjalnych Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, kontroli skarbowej, Służby Celnej, Służby Więziennej i straży pożarnej. ” ;
 
-- **11)** w art. 129: w ust. 2: – po pkt 2a dodaje się pkt 2b w brzmieniu: „ 2b) sprawdzania zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, lub wypisu z tego zezwolenia; ” , – pkt 14 otrzymuje brzmienie: „ 14) pilotowania pojazdów, z wyłączeniem pojazdów nienormatywnych pilotowanych zgodnie z art. 64 ust. 1 pkt 3. ” , ust. 4 otrzymuje brzmienie: „
+- **11)** w art. 129: w ust. 2: po pkt 2a dodaje się pkt 2b w brzmieniu: „
     - **a)**
+
+- **2b)** sprawdzania zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, lub wypisu z tego zezwolenia; ” , pkt 14 otrzymuje brzmienie: „
+- **14)** pilotowania pojazdów, z wyłączeniem pojazdów nienormatywnych pilotowanych zgodnie z art. 64 ust. 1 pkt 3. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Kontrola ruchu drogowego w stosunku do kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej oraz w stosunku do żołnierzy pełniących czynną służbę wojskową kierujących innymi pojazdami, pilotowanie pojazdów, a także kierowanie ruchem drogowym w związku z pilotowaniem pojazdów wojskowych należy do Żandarmerii Wojskowej i wojskowych organów porządkowych. W tym zakresie Żandarmerii Wojskowej i wojskowym organom porządkowym przysługują uprawnienia policjantów określone w ust. 2. ” , ust. 4b otrzymuje brzmienie: „
@@ -427,50 +502,7 @@ dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do nini
 
 - **13)** w dziale V dodaje się rozdział 4 w brzmieniu: „
 
-#### Rozdział 4 Kary pieniężne za przejazd pojazdów nienormatywnych bez zezwolenia lub niezgodnie z warunkami określonymi w zezwoleniu
-
-**Art. 2.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, z późn. zm.) wprowadza się następujące zmiany:
-
-- **1)** w art. 4 pkt 25 otrzymuje brzmienie: „
-- **25)** pojazd nienormatywny – pojazd lub zespół pojazdów w rozumieniu art. 2 pkt 35a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.); ” ;
-- **2)** w art. 13: w ust. 1 uchyla się pkt 2, w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Od opłat, o których mowa w ust. 1 pkt 1 oraz ust. 2, są zwolnione: ” , – w pkt 1 lit. a otrzymuje brzmienie: „ a) Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Służby Więziennej, Służby Celnej, służb ratowniczych, ” , ust. 5 otrzymuje brzmienie: „
-    - **a)**
-    - **b)**
-    - **c)**
-
-5. Korzystający z drogi publicznej jest zwolniony z opłat, o których mowa w ust. 1 pkt 1 i ust. 2, w przypadku wykonywania przez niego przejazdu w ramach pomocy humanitarnej lub medycznej. ” ;
-
-- **3)** uchyla się art. 13c;
-- **4)** uchyla się art. 13g;
-- **5)** w art. 13k: ust. 7 otrzymuje brzmienie: „
-    - **a)**
-
-7. Karę pieniężną uiszcza się w formie bezgotówkowej za pomocą przekazu na właściwy rachunek bankowy lub za pomocą karty płatniczej, z tym że w przypadku przedsiębiorców zagranicznych możliwe jest uiszczenie kary pieniężnej w formie gotówkowej bezpośrednio organowi, który ją wymierzył. ” , po ust. 7 dodaje ust. 7a-7e w brzmieniu: „
-
-- **b)**
-
-7a. W przypadku uiszczenia kary pieniężnej w formie gotówkowej organ wydaje pokwitowanie na druku ścisłego zarachowania, stanowiące dowód uiszczenia tej kary.
-
-7b. Koszty związane z uiszczeniem kary pieniężnej przez przekazanie jej na rachunek bankowy, a w przypadku uiszczenia kary pieniężnej za pomocą karty płatniczej koszty związane z autoryzacją transakcji i przekazem środków na właściwy rachunek bankowy pokrywa wpłacający.
-
-7c. Do czasu uiszczenia kary pieniężnej przez przedsiębiorcę zagranicznego pojazd kieruje się lub usuwa, na jego koszt, na najbliższy parking strzeżony, o którym mowa w art. 130a ust. 5c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
-
-7d. W zakresie postępowania w związku z usuwaniem pojazdu stosuje się odpowiednio przepisy art. 130a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
-
-7e. Zwrot pojazdu z parkingu następuje po ustaniu przyczyny skierowania pojazdu na parking i przedstawieniu przez kontrolowanego organowi, który wymierzył karę, dowodu uiszczenia kary pieniężnej. ” ;
-
-- **6)** w art. 18 w ust. 2 pkt 3 otrzymuje brzmienie: „
-- **3)** wydawanie zezwoleń na przejazd pojazdów nienormatywnych; ” ;
-- **7)** w art. 39 w ust. 1 pkt 3 otrzymuje brzmienie: „
-- **3)** poruszania się po drogach pojazdów nienormatywnych bez wymaganego zezwolenia lub w sposób niezgodny z przepisami ruchu drogowego; ” ;
-- **8)** w art. 40a: ust. 1 otrzymuje brzmienie: „
-    - **a)**
-
-1. Opłaty określone w art. 13 ust. 1 i 2, z wyłączeniem opłaty elektronicznej, w art. 13f ust. 1 i art. 40 ust. 3 oraz kary pieniężne określone w art. 13k ust. 1 i 2, art. 29a ust. 1 i 2 oraz w art. 40 ust. 12, a także opłaty z tytułu umów zawieranych na podstawie art. 22 ust. 2 i art. 39 ust. 7 są przekazywane odpowiednio do budżetów jednostek samorządu terytorialnego lub na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad. ” , uchyla się ust. 2;
-
-- **b)**
-- **9)** uchyla się art. 40b i 40c;
-- **10)** art. 40d otrzymuje brzmienie: „
+#### Rozdział 4
 
 **Art. 40d.**
 
@@ -489,21 +521,13 @@ dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do nini
 2. Minister właściwy do spraw transportu ustala, w drodze rozporządzenia, wykaz:
 
 - **1)** dróg krajowych oraz dróg wojewódzkich, po których mogą poruszać się pojazdy o dopuszczalnym nacisku pojedynczej osi do 10 t,
-- **2)** dróg krajowych, po których mogą poruszać się pojazdy o dopuszczalnym nacisku pojedynczej osi do 8 t mając na uwadze potrzebę ochrony dróg oraz zapewnienia ruchu tranzytowego.
+- **2)** dróg krajowych, po których mogą poruszać się pojazdy o dopuszczalnym nacisku pojedynczej osi do 8 t – mając na uwadze potrzebę ochrony dróg oraz zapewnienia ruchu tranzytowego.
 
 3. Drogi wojewódzkie inne niż drogi określone na podstawie ust. 2 pkt 1, drogi powiatowe oraz drogi gminne stanowią sieć dróg, po których mogą poruszać się pojazdy o dopuszczalnym nacisku pojedynczej osi do 8 t. ” ;
 
-- **12)** uchyla się załączniki nr 1 i 2 do ustawy.
-
-**Art. 3.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.) w art. 39b w ust. 1 pkt 11b otrzymuje brzmienie: „
-
-- **11b)** innych wpływów z opłat i kar określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych, wpływów z opłat i kar określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz wpływów z opłat określonych w ustawie z dnia 6 września 2001 r. o transporcie drogowym, z zastrzeżeniem ust. 3; ” .
-
-**Art. 4.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.) w załączniku do ustawy w części I w ust. 53 w kolumnie 4 dodaje się pkt 7 w brzmieniu: „
-
+- **12)** uchyla się załączniki nr 1 i 2 do ustawy. W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61, z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666, z 2008 r. Nr 218, poz. 1391 oraz z 2009 r. Nr 3, poz. 11, Nr 19, poz. 101, Nr 86, poz. 720, Nr 105, poz. 877, Nr 115, poz. 966, Nr 143, poz. 1164, Nr 157, poz. 1241 i Nr 223, poz. 1776.) w art. 39b w ust. 1 pkt 11b otrzymuje brzmienie: „
+- **11b)** innych wpływów z opłat i kar określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych, wpływów z opłat i kar określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz wpływów z opłat określonych w ustawie z dnia 6 września 2001 r. o transporcie drogowym, z zastrzeżeniem ust. 3; ” . W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883, z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394, Nr 182, poz. 1121, Nr 195, poz. 1198, Nr 216, poz. 1367 i Nr 220, poz. 1414, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 57, poz. 466 i Nr 72, poz. 619, z 2010 r. Nr 8, poz. 51, Nr 81, poz. 531, Nr 107, poz. 679 i Nr 167, poz. 1131 oraz z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622, Nr 112, poz. 654, Nr 133, poz. 768, Nr 149, poz. 887, Nr 152, poz. 897, Nr 163, poz. 981, Nr 171, poz. 1016 i Nr 207, poz. 1230.) w załączniku do ustawy w części I w ust. 53 w kolumnie 4 dodaje się pkt 7 w brzmieniu: „
 - **7)** decyzja zwalniająca z obowiązku uzyskania zezwolenia na przejazd pojazdu nienormatywnego, wykonującego przejazd w ramach pomocy humanitarnej lub medycznej ” .
-
-**Art. 5.**
 
 1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
@@ -513,15 +537,8 @@ dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do nini
     - **a)**
     - **b)**
 
-- **2)** rzeczywista masa całkowita pojazdu nienormatywnego nie przekracza dopuszczalnej wielkości lub wielkości określonej w zezwoleniu na przejazd pojazdu nienormatywnego, a przekroczenie dotyczy wyłącznie nacisku osi pojazdu przy przewozie ładunków sypkich oraz drewna.
-
-**Art. 6.** Zezwolenia wydane przed dniem wejścia w życie ustawy zachowują ważność przez okres, na jaki zostały wydane, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
-
-**Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 66 ust. 7 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wydanych na podstawie art. 66 ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 8.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia, z wyjątkiem:
-
+- **2)** rzeczywista masa całkowita pojazdu nienormatywnego nie przekracza dopuszczalnej wielkości lub wielkości określonej w zezwoleniu na przejazd pojazdu nienormatywnego, a przekroczenie dotyczy wyłącznie nacisku osi pojazdu przy przewozie ładunków sypkich oraz drewna. Zezwolenia wydane przed dniem wejścia w życie ustawy zachowują ważność przez okres, na jaki zostały wydane, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie ustawy. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 66 ust. 7 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wydanych na podstawie art. 66 ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia, z wyjątkiem:
 - **1)** art. 1 pkt 9 w zakresie art. 64h oraz art. 5 ust. 2, które wchodzą w życie z dniem ogłoszenia;
-- **2)** art. 1 pkt 5 lit. b w zakresie art. 61 ust. 15 i 16, który wchodzi w życie w terminie 3 miesięcy od dnia ogłoszenia. Załącznik – Kategorie zezwoleń na przejazd pojazdu nienormatywnego Lp. Zezwolenie Pojazdy nienormatywne Drogi 1 2 3 4 1 kategorii I a) o wymiarach oraz rzeczywistej masie całkowitej nie większych od dopuszczalnych, gminne, powiatowe, wojewódzkie wskazane w zezwoleniu b) o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t; 2 kategorii II a) o długości, wysokości oraz rzeczywistej masie całkowitej nie większych od dopuszczalnych, publiczne, z wyjątkiem ekspresowych i autostrad b) o naciskach osi nie większych od dopuszczalnych dla danej drogi, c) o szerokości nieprzekraczającej 3,5 m; 3 kategorii III a) o naciskach osi i rzeczywistej masie całkowitej nie większych od dopuszczalnych, publiczne b) o szerokości nieprzekraczającej 3,2 m, c) o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, d) o wysokości nieprzekraczającej 4,3 m; 4 kategorii IV a) o rzeczywistej masie całkowitej nie większej od dopuszczalnej, krajowe b) o szerokości nieprzekraczającej 3,4 m, c) o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, – 30 m dla zespołu pojazdów o skrętnych osiach, d) o wysokości nieprzekraczającej 4,3 m, e) o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t; 5 kategorii V a) o naciskach osi nie większych od dopuszczalnych dla danej drogi, publiczne b) o szerokości nieprzekraczającej 3,4 m, c) o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, – 30 m dla zespołu pojazdów o skrętnych osiach, d) o wysokości nieprzekraczającej 4,3 m, e) o rzeczywistej masie całkowitej nieprzekraczającej 60 t; 6 kategorii VI a) o szerokości nieprzekraczającej: krajowe – zgodnie z wykazem dróg, o którym mowa w art. 64c ust. 7 – 3,4 m dla drogi jednojezdniowej, – 4 m dla drogi dwujezdniowej klasy A, S i GP, b) o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, – 30 m dla zespołu pojazdów o skrętnych osiach, c) o wysokości nieprzekraczającej 4,3 m, d) o rzeczywistej masie całkowitej nieprzekraczającej 60 t, e) o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t; 7 kategorii VII a) o wymiarach oraz rzeczywistej masie całkowitej większych od wymienionych w kategoriach I-VI, wyznaczona trasa wskazana w zezwoleniu b) o naciskach osi przekraczających wielkości przewidziane dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t;
+- **2)** art. 1 pkt 5 lit. b w zakresie art. 61 ust. 15 i 16, który wchodzi w życie w terminie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323, z 2010 r. Nr 40, poz. 230, Nr 43, poz. 246, Nr 122, poz. 827, Nr 151, poz. 1013, Nr 152, poz. 1018, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 225, poz. 1466 i Nr 257, poz. 1726 oraz z 2011 r. Nr 30, poz. 151, Nr 92, poz. 530, Nr 102, poz. 585, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 204, poz. 1195, Nr 205, poz. 1210 i Nr 208, poz. 1240 i 1241. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381, z 2008 r. Nr 54, poz. 326, Nr 218, poz. 1391 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100 i 101, Nr 86, poz. 720 i Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 675, Nr 152, poz. 1018 i Nr 225, poz. 1466 oraz z 2011 r. Nr 5, poz. 13 i Nr 159, poz. 945. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323, z 2010 r. Nr 40, poz. 230, Nr 43, poz. 246, Nr 122, poz. 827, Nr 151, poz. 1013, Nr 152, poz. 1018, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 225, poz. 1466 i Nr 257, poz. 1726 oraz z 2011 r. Nr 30, poz. 151, Nr 92, poz. 530, Nr 102, poz. 585, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 204, poz. 1195, Nr 205, poz. 1210, Nr 208, poz. 1240 i 1241 i Nr 222, poz. 1321. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61, z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666, z 2008 r. Nr 218, poz. 1391 oraz z 2009 r. Nr 3, poz. 11, Nr 19, poz. 101, Nr 86, poz. 720, Nr 105, poz. 877, Nr 115, poz. 966, Nr 143, poz. 1164, Nr 157, poz. 1241 i Nr 223, poz. 1776. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883, z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394, Nr 182, poz. 1121, Nr 195, poz. 1198, Nr 216, poz. 1367 i Nr 220, poz. 1414, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 57, poz. 466 i Nr 72, poz. 619, z 2010 r. Nr 8, poz. 51, Nr 81, poz. 531, Nr 107, poz. 679 i Nr 167, poz. 1131 oraz z 2011 r. Nr 75, poz. 398, Nr 106, poz. 622, Nr 112, poz. 654, Nr 133, poz. 768, Nr 149, poz. 887, Nr 152, poz. 897, Nr 163, poz. 981, Nr 171, poz. 1016 i Nr 207, poz. 1230. Załącznik – Kategorie zezwoleń na przejazd pojazdu nienormatywnego Lp. Zezwolenie Pojazdy nienormatywne Drogi 1 2 3 4 1 kategorii I a) o wymiarach oraz rzeczywistej masie całkowitej nie większych od dopuszczalnych, gminne, powiatowe, wojewódzkie wskazane w zezwoleniu b) o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t; 2 kategorii II a) o długości, wysokości oraz rzeczywistej masie całkowitej nie większych od dopuszczalnych, publiczne, z wyjątkiem ekspresowych i autostrad b) o naciskach osi nie większych od dopuszczalnych dla danej drogi, c) o szerokości nieprzekraczającej 3,5 m; 3 kategorii III a) o naciskach osi i rzeczywistej masie całkowitej nie większych od dopuszczalnych, publiczne b) o szerokości nieprzekraczającej 3,2 m, c) o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, d) o wysokości nieprzekraczającej 4,3 m; 4 kategorii IV a) o rzeczywistej masie całkowitej nie większej od dopuszczalnej, krajowe b) o szerokości nieprzekraczającej 3,4 m, c) o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, – 30 m dla zespołu pojazdów o skrętnych osiach, d) o wysokości nieprzekraczającej 4,3 m, e) o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t; 5 kategorii V a) o naciskach osi nie większych od dopuszczalnych dla danej drogi, publiczne b) o szerokości nieprzekraczającej 3,4 m, c) o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, – 30 m dla zespołu pojazdów o skrętnych osiach, d) o wysokości nieprzekraczającej 4,3 m, e) o rzeczywistej masie całkowitej nieprzekraczającej 60 t; 6 kategorii VI a) o szerokości nieprzekraczającej: krajowe – zgodnie z wykazem dróg, o którym mowa w art. 64c ust. 7 – 3,4 m dla drogi jednojezdniowej, – 4 m dla drogi dwujezdniowej klasy A, S i GP, b) o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, – 30 m dla zespołu pojazdów o skrętnych osiach, c) o wysokości nieprzekraczającej 4,3 m, d) o rzeczywistej masie całkowitej nieprzekraczającej 60 t, e) o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t; 7 kategorii VII a) o wymiarach oraz rzeczywistej masie całkowitej większych od wymienionych w kategoriach I-VI, wyznaczona trasa wskazana w zezwoleniu b) o naciskach osi przekraczających wielkości przewidziane dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t;
 
 

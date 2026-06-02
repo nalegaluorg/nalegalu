@@ -33,13 +33,11 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409),
 2)
-ustawą z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 stycznia 2018 r.
+ustawą z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 stycznia 2018 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409), który stanowi:
-„
+art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409), który stanowi: „
 
 **Art. 260.** Ustawa wchodzi w życie z dniem 1 marca 2017 r., z wyjątkiem:
 
@@ -60,7 +58,7 @@ art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę 
 - **3)** art. 21 ust. 3 ustawy zmienianej w art. 22 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 21 ust. 4 ustawy zmienianej w art. 22,
 - **4)** art. 9a ust. 5 oraz art. 10 ust. 5 ustawy zmienianej w art. 30 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9a ust. 5 oraz art. 10 ust. 5 ustawy zmienianej w art. 30,
 - **5)** art. 5 ust. 2 ustawy zmienianej w art. 35 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 5 ust. 2 ustawy zmienianej w art. 35,
-- **6)** art. 9 ust. 5 oraz art. 10 ust. 6 ustawy zmienianej w art. 41 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 5 oraz art. 10 ust. 6 ustawy zmienianej w art. 41 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+- **6)** art. 9 ust. 5 oraz art. 10 ust. 6 ustawy zmienianej w art. 41 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 5 oraz art. 10 ust. 6 ustawy zmienianej w art. 41 – w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 2. Przepisy wykonawcze wydane na podstawie:
 
@@ -74,7 +72,7 @@ art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę 
 - **8)** art. 6 ust. 2 ustawy zmienianej w art. 30,
 - **9)** art. 9 ust. 5 ustawy zmienianej w art. 35,
 - **10)** art. 35 ust. 6 ustawy zmienianej w art. 37,
-- **11)** art. 5 ust. 2 ustawy zmienianej w art. 41 zachowują moc i mogą być zmieniane na podstawie tego przepisu. ” „
+- **11)** art. 5 ust. 2 ustawy zmienianej w art. 41 – zachowują moc i mogą być zmieniane na podstawie tego przepisu. ” „
 
 **Art. 61.** Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem art. 45, art. 46, art. 49–51, art. 52 ust. 2–5 oraz art. 57 ust. 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia niniejszej ustawy. ” . Załącznik – Tekst jednolity ustawy z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej
 
@@ -88,14 +86,12 @@ art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę 
 
 **Art. 2.** Minister właściwy do spraw finansów publicznych, jeżeli ustawa nie stanowi inaczej, wykonuje zadania związane z uruchamianiem środków, o których mowa w art. 1, określone dla państwa członkowskiego i właściwego organu w rozporządzeniu nr 1290/2005 oraz rozporządzeniu Komisji (WE) nr 885/2006 z dnia 21 czerwca 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie akredytacji agencji płatniczych i innych jednostek, jak również rozliczania rachunków EFRG i EFRROW (Dz. Urz. UE L 171 z 23.06.2006, str. 90), zwanego dalej „rozporządzeniem nr 885/2006”, w tym w zakresie:
 
-- **1)** przyznawania jednostce organizacyjnej: akredytacji i tymczasowej akredytacji jako agencji płatniczej w rozumieniu art. 6 ust. 1 rozporządzenia nr 1290/2005; (uchylona) (uchylona)
+- **1)** przyznawania jednostce organizacyjnej: akredytacji i tymczasowej akredytacji jako agencji płatniczej w rozumieniu art. 6 ust. 1 rozporządzenia nr 1290/2005; (uchylona)Przez art. 30 pkt 1 lit. a ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r. (uchylona)
     - **a)**
     - **b)**
     - **c)**
 
-- **1a)** cofania akredytacji jednostce organizacyjnej jako agencji płatniczej;
-- **2)** sprawowania stałego nadzoru nad agencją płatniczą, o którym mowa w art. 2 rozporządzenia nr 885/2006;
-- **3)** przekazywania Komisji Europejskiej informacji określonych w rozporządzeniu nr 885/2006, dotyczących agencji płatniczej i danych identyfikacyjnych jednostki certyfikującej, określonej w art. 14 ust. 1 pkt 15 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.), będącej jednostką certyfikującą w rozumieniu art. 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549).
+- **1a)** cofania akredytacji jednostce organizacyjnej jako agencji płatniczej; 2Ze zmianą wprowadzoną przez art. 30 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.) sprawowania stałego nadzoru nad agencją płatniczą, o którym mowa w art. 2 rozporządzenia nr 885/2006; 3W brzmieniu ustalonym przez art. 103 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948), która weszła w życie z dniem 1 marca 2017 r.; ze zmianą wprowadzoną przez art. 30 pkt 1 lit. c ustawy, o której mowa w odnośniku 1.) przekazywania Komisji Europejskiej informacji określonych w rozporządzeniu nr 885/2006, dotyczących agencji płatniczej i danych identyfikacyjnych jednostki certyfikującej, określonej w art. 14 ust. 1 pkt 15 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491.), będącej jednostką certyfikującą w rozumieniu art. 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549).
 
 **Art. 3.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, dodatkowe kryteria akredytacyjne, które powinna spełniać agencja płatnicza, inne niż określone w załączniku nr 1 do rozporządzenia nr 885/2006, mając na względzie zapewnienie prawidłowego wydatkowania środków pochodzących z EFRG i EFRROW.
 
@@ -107,20 +103,16 @@ art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę 
 
 - **1)** nazwę i siedzibę agencji płatniczej,
 - **2)** zakres udzielonej akredytacji,
-- **3)** datę udzielenia akredytacji uwzględniając zasady przyznawania jednostce organizacyjnej akredytacji jako agencji płatniczej określone w rozporządzeniu nr 885/2006 oraz spełnienie przez jednostkę organizacyjną dodatkowych kryteriów akredytacyjnych, jeżeli zostały określone w przepisach wydanych na podstawie art. 3.
+- **3)** datę udzielenia akredytacji – uwzględniając zasady przyznawania jednostce organizacyjnej akredytacji jako agencji płatniczej określone w rozporządzeniu nr 885/2006 oraz spełnienie przez jednostkę organizacyjną dodatkowych kryteriów akredytacyjnych, jeżeli zostały określone w przepisach wydanych na podstawie art. 3.
 
 2. Minister właściwy do spraw finansów publicznych może przyznać, w drodze rozporządzenia, jednostce organizacyjnej tymczasową akredytację jako agencji płatniczej, określając:
 
 - **1)** nazwę i siedzibę agencji płatniczej,
 - **2)** zakres udzielonej akredytacji,
 - **3)** datę udzielenia akredytacji,
-- **4)** zalecenia do zrealizowania działań mających na celu spełnienie wszystkich kryteriów akredytacyjnych oraz termin ich realizacji uwzględniając zasady przyznawania jednostce organizacyjnej tymczasowej akredytacji jako agencji płatniczej określone w rozporządzeniu nr 885/2006 oraz spełnienie przez jednostkę organizacyjną dodatkowych kryteriów akredytacyjnych, jeżeli zostały określone w przepisach wydanych na podstawie art. 3.
+- **4)** zalecenia do zrealizowania działań mających na celu spełnienie wszystkich kryteriów akredytacyjnych oraz termin ich realizacji – uwzględniając zasady przyznawania jednostce organizacyjnej tymczasowej akredytacji jako agencji płatniczej określone w rozporządzeniu nr 885/2006 oraz spełnienie przez jednostkę organizacyjną dodatkowych kryteriów akredytacyjnych, jeżeli zostały określone w przepisach wydanych na podstawie art. 3.
 
-**Art. 6.**
-
-1. Minister właściwy do spraw finansów publicznych w ramach sprawowania stałego nadzoru nad agencją płatniczą, o którym mowa w art. 2 rozporządzenia nr 885/2006, współpracuje z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej.
-
-2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, warunki i tryb współpracy, o której mowa w ust. 1, mając na względzie zapewnienie stałego nadzoru nad agencją płatniczą, w tym przedkładania informacji dotyczących spełniania przez agencję płatniczą kryteriów akredytacyjnych określonych w załączniku nr 1 do rozporządzenia nr 885/2006 oraz dodatkowych kryteriów akredytacyjnych, jeżeli zostały określone w przepisach wydanych na podstawie art. 3.
+**Art. 6.** 1Ze zmianą wprowadzoną przez art. 30 pkt 2 ustawy, o której mowa w odnośniku 1.. Minister właściwy do spraw finansów publicznych w ramach sprawowania stałego nadzoru nad agencją płatniczą, o którym mowa w art. 2 rozporządzenia nr 885/2006, współpracuje z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej. 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, warunki i tryb współpracy, o której mowa w ust. 1, mając na względzie zapewnienie stałego nadzoru nad agencją płatniczą, w tym przedkładania informacji dotyczących spełniania przez agencję płatniczą kryteriów akredytacyjnych określonych w załączniku nr 1 do rozporządzenia nr 885/2006 oraz dodatkowych kryteriów akredytacyjnych, jeżeli zostały określone w przepisach wydanych na podstawie art. 3.
 
 **Art. 7.**
 
@@ -128,17 +120,15 @@ art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę 
 
 - **1)** nazwę i siedzibę agencji płatniczej,
 - **2)** przyczyny cofnięcia akredytacji,
-- **3)** datę cofnięcia akredytacji mając na względzie konieczność zapewnienia prawidłowego wydatkowania środków pochodzących z EFRG i EFRROW oraz zasady cofania akredytacji określone w rozporządzeniu nr 1290/2005 i rozporządzeniu nr 885/2006.
+- **3)** datę cofnięcia akredytacji – mając na względzie konieczność zapewnienia prawidłowego wydatkowania środków pochodzących z EFRG i EFRROW oraz zasady cofania akredytacji określone w rozporządzeniu nr 1290/2005 i rozporządzeniu nr 885/2006.
 
-2. Jednostka organizacyjna, której została cofnięta akredytacja jako agencji płatniczej, niezwłocznie przekazuje agencji płatniczej, wskazanej przez ministra właściwego do spraw finansów publicznych, pełną dokumentację i bazy danych w zakresie objętym cofniętą akredytacją.
-
-**Art. 8.**
+2. Jednostka organizacyjna, której została cofnięta akredytacja jako agencji płatniczej, niezwłocznie przekazuje agencji płatniczej, wskazanej przez ministra właściwego do spraw finansów publicznych, pełną dokumentację i bazy danych w zakresie objętym cofniętą akredytacją. Art. 8W brzmieniu ustalonym przez art. 30 pkt 3 ustawy, o której mowa w odnośniku 1..
 
 1. Minister właściwy do spraw rozwoju wsi prowadzi sprawy związane z postępowaniami kontrolnymi Komisji Europejskiej wynikającymi z przepisów Unii Europejskiej.
 
 2. Agencja płatnicza, organy administracji publicznej oraz państwowe i samorządowe jednostki organizacyjne na żądanie ministra właściwego do spraw rozwoju wsi udzielają informacji i wyjaśnień w zakresie dotyczącym spraw, o których mowa w ust. 1.
 
-**Art. 9.** (uchylony) 1. Minister właściwy do spraw rozwoju wsi sporządza i podaje do publicznej wiadomości wykaz beneficjentów, o którym mowa w art. 44a rozporządzenia nr 1290/2005. 2. Wykaz beneficjentów jest publikowany na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rozwoju wsi. 3. Poza informacjami określonymi w art. 1 ust. 1 rozporządzenia Komisji (WE) nr 259/2008 z dnia 18 marca 2008 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie publikowania informacji na temat beneficjentów środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 76 z 19.03.2008, str. 28, z późn. zm.), zwanego dalej „rozporządzeniem nr 259/2008”, w wykazie beneficjentów zamieszcza się numer identyfikacji podatkowej (NIP), jeżeli został nadany. 4. Agencja płatnicza przekazuje ministrowi właściwemu do spraw rozwoju wsi informacje, o których mowa w ust. 3. 5. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, tryb, formę i terminy przekazywania przez agencję płatniczą informacji, o których mowa w ust. 3, mając na względzie wykonanie przepisów rozporządzenia nr 259/2008 oraz prawidłową identyfikację podmiotów wskazanych w wykazie beneficjentów, o którym mowa w art. 44a rozporządzenia nr 1290/2005.
+**Art. 9.** (uchylony)Przez art. 30 pkt 4 ustawy, o której mowa w odnośniku 1. 1Ze zmianą wprowadzoną przez art. 30 pkt 5 lit. a ustawy, o której mowa w odnośniku 1.. Minister właściwy do spraw rozwoju wsi sporządza i podaje do publicznej wiadomości wykaz beneficjentów, o którym mowa w art. 44a rozporządzenia nr 1290/2005. 2Ze zmianą wprowadzoną przez art. 30 pkt 5 lit. b ustawy, o której mowa w odnośniku 1.. Wykaz beneficjentów jest publikowany na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rozwoju wsi. 3. Poza informacjami określonymi w art. 1 ust. 1 rozporządzenia Komisji (WE) nr 259/2008 z dnia 18 marca 2008 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie publikowania informacji na temat beneficjentów środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 76 z 19.03.2008, str. 28, z późn. zm.), zwanego dalej „rozporządzeniem nr 259/2008”, w wykazie beneficjentów zamieszcza się numer identyfikacji podatkowej (NIP), jeżeli został nadany. 4W brzmieniu ustalonym przez art. 30 pkt 5 lit. c ustawy, o której mowa w odnośniku 1.. Agencja płatnicza przekazuje ministrowi właściwemu do spraw rozwoju wsi informacje, o których mowa w ust. 3. 5Ze zmianą wprowadzoną przez art. 30 pkt 5 lit. d ustawy, o której mowa w odnośniku 1.. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, tryb, formę i terminy przekazywania przez agencję płatniczą informacji, o których mowa w ust. 3, mając na względzie wykonanie przepisów rozporządzenia nr 259/2008 oraz prawidłową identyfikację podmiotów wskazanych w wykazie beneficjentów, o którym mowa w art. 44a rozporządzenia nr 1290/2005.
 
 **Art. 10.**
 
@@ -146,11 +136,7 @@ art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę 
 
 2. Środki, o których mowa w ust. 1, w części dotyczącej EFRG są przekazywane agencji płatniczej na podstawie zapotrzebowania składanego przez agencję płatniczą.
 
-3. Środki, o których mowa w ust. 1, w części dotyczącej EFRROW są przekazywane agencji płatniczej na wniosek ministra właściwego do spraw rozwoju wsi, sporządzony na podstawie zapotrzebowania składanego przez agencję płatniczą.
-
-4. Środki na finansowanie płatności w ramach wspólnej polityki rolnej w części współfinansowania krajowego są przekazywane agencji płatniczej w formie dotacji celowej przez ministra właściwego do spraw rozwoju wsi na podstawie zapotrzebowania składanego przez agencję płatniczą.
-
-5. Minister Finansów  w porozumieniu z ministrem właściwym do spraw rozwoju wsi określi, w drodze rozporządzenia, warunki i tryb przekazywania na rachunek bankowy agencji płatniczej środków, o których mowa w ust. 1 i 4, oraz sposób postępowania ze środkami odzyskanymi od beneficjentów pomocy w ramach Wspólnej Polityki Rolnej, mając na względzie dochowanie terminów dokonywania płatności oraz prawidłowe gospodarowanie środkami publicznymi.
+3. Środki, o których mowa w ust. 1, w części dotyczącej EFRROW są przekazywane agencji płatniczej na wniosek ministra właściwego do spraw rozwoju wsi, sporządzony na podstawie zapotrzebowania składanego przez agencję płatniczą. 4Ze zmianą wprowadzoną przez art. 30 pkt 6 lit. a ustawy, o której mowa w odnośniku 1.. Środki na finansowanie płatności w ramach wspólnej polityki rolnej w części współfinansowania krajowego są przekazywane agencji płatniczej w formie dotacji celowej przez ministra właściwego do spraw rozwoju wsi na podstawie zapotrzebowania składanego przez agencję płatniczą. 5Ze zmianą wprowadzoną przez art. 30 pkt 6 lit. b ustawy, o której mowa w odnośniku 1.. Minister Finansów Obecnie minister właściwy do spraw finansów publicznych, na podstawie art. 4 ust. 1, art. 5 pkt 3 i art. 8 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2017 r. poz. 888, 1086, 1566, 1909, 2180 i 2494), która weszła w życie z dniem 1 kwietnia 1999 r. w porozumieniu z ministrem właściwym do spraw rozwoju wsi określi, w drodze rozporządzenia, warunki i tryb przekazywania na rachunek bankowy agencji płatniczej środków, o których mowa w ust. 1 i 4, oraz sposób postępowania ze środkami odzyskanymi od beneficjentów pomocy w ramach Wspólnej Polityki Rolnej, mając na względzie dochowanie terminów dokonywania płatności oraz prawidłowe gospodarowanie środkami publicznymi.
 
 1. Samorządy województw realizujące zadania z zakresu pomocy technicznej z udziałem środków EFRROW i krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z EFRROW oraz jednostki samorządu terytorialnego realizujące działanie: poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywaniem rolnictwa i leśnictwa przez scalanie gruntów i gospodarowanie rolniczymi zasobami wodnymi, w ramach programu rozwoju obszarów wiejskich, z udziałem środków EFRROW i krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z EFRROW mogą otrzymywać środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych, ponoszonych na realizację tych zadań.
 
@@ -168,7 +154,7 @@ art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę 
 5a. Właściwy dysponent przekazuje:
 
 - **1)** środki, o których mowa w ust. 5, z wyłączeniem środków z zakresu pomocy technicznej, na dochody budżetu środków europejskich,
-- **2)** środki z zakresu pomocy technicznej, o których mowa w ust. 5, na dochody budżetu państwa w terminie 3 dni roboczych od dnia otrzymania tych środków od jednostki samorządu terytorialnego.
+- **2)** środki z zakresu pomocy technicznej, o których mowa w ust. 5, na dochody budżetu państwa – w terminie 3 dni roboczych od dnia otrzymania tych środków od jednostki samorządu terytorialnego.
 
 6. Jeżeli jednostka samorządu terytorialnego, o której mowa w ust. 1, nie otrzyma refundacji, o której mowa w ust. 5, z przyczyn leżących po stronie tej jednostki, dokonuje ona zwrotu środków, o których mowa w ust. 3 pkt 1, w wysokości niezrefundowanej, z wydatków budżetu tej jednostki przeznaczonych na realizację jej zadań własnych, w terminie 21 dni od dnia otrzymania informacji o odmowie wypłaty środków z tytułu tej pomocy. Przepisy ust. 5a stosuje się odpowiednio.
 
@@ -191,13 +177,13 @@ art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę 
 
 - **1)** szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie,
 - **2)** wdrażanie lokalnych strategii rozwoju,
-- **3)** wdrażanie projektów współpracy mogą otrzymać z agencji płatniczej realizującej płatności z EFRROW środki przeznaczone na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji.
+- **3)** wdrażanie projektów współpracy – mogą otrzymać z agencji płatniczej realizującej płatności z EFRROW środki przeznaczone na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji.
 
 2. Środki, o których mowa w ust. 1, są wypłacane beneficjentowi:
 
-- **1)** jeżeli beneficjent wnioskował o ich wypłatę we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawyz dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich(Dz. U. poz. 427, z późn. zm. ), zwanej dalej „ustawą PROW”;
+- **1)** jeżeli beneficjent wnioskował o ich wypłatę we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawyz dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich(Dz. U. poz. 427, z późn. zm. Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 634, 1349 i 1655, z 2009 r. poz. 105, z 2010 r. poz. 490 i 993, z 2011 r. poz. 1202 oraz z 2012 r. poz. 243.)Obecnie ustawa z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2017 r. poz. 1856) na podstawie art. 69 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2017 r. poz. 562, 624, 892, 935 i 1475), która weszła w życie z dniem 15 marca 2015 r., zwanej dalej „ustawą PROW”;
 - **2)** na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW;
-- **3)** we wnioskowanej wysokości, nie wyższej od wysokości udziału krajowych środków publicznych pochodzących z budżetu państwa przeznaczonych na współfinansowanie wydatków realizowanych z EFRROW na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW, z tym że: w odniesieniu do działania szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie – nie wyższej niż 25%, w odniesieniu do działań: wdrażanie lokalnych strategii rozwoju oraz wdrażanie projektów współpracy – nie wyższej niż 20% kwoty pomocy przyznanej na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW.
+- **3)** we wnioskowanej wysokości, nie wyższej od wysokości udziału krajowych środków publicznych pochodzących z budżetu państwa przeznaczonych na współfinansowanie wydatków realizowanych z EFRROW na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW, z tym że: w odniesieniu do działania szkolenia zawodowe dla osób zatrudnionych w rolnictwie i leśnictwie – nie wyższej niż 25%, w odniesieniu do działań: wdrażanie lokalnych strategii rozwoju oraz wdrażanie projektów współpracy – nie wyższej niż 20% – kwoty pomocy przyznanej na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW.
     - **a)**
     - **b)**
 
@@ -206,7 +192,7 @@ art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę 
 4. Środki, o których mowa w ust. 1, pobrane:
 
 - **1)** nienależnie lub
-- **2)** w nadmiernej wysokości podlegają zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia doręczenia beneficjentowi wezwania do ich zwrotu.
+- **2)** w nadmiernej wysokości – podlegają zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia doręczenia beneficjentowi wezwania do ich zwrotu.
 
 5. Zwrotowi, o którym mowa w ust. 3 i 4, podlega odpowiednio ta część środków, która została wykorzystana niezgodnie z przeznaczeniem albo pobrana nienależnie lub w nadmiernej wysokości.
 
@@ -292,11 +278,11 @@ art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę 
 2. Zaliczka pobrana:
 
 - **1)** nienależnie lub
-- **2)** w nadmiernej wysokości podlega zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia doręczenia beneficjentowi wezwania do ich zwrotu.
+- **2)** w nadmiernej wysokości – podlega zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia doręczenia beneficjentowi wezwania do ich zwrotu.
 
 3. Zwrotowi, o którym mowa w ust. 1 i 2, podlega odpowiednio ta część środków, która została wykorzystana niezgodnie z przeznaczeniem albo pobrana nienależnie lub w nadmiernej wysokości.
 
 4. Do środków podlegających zwrotowi na podstawie ust. 1 lub 2 stosuje się odpowiednio przepisy ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa dotyczące nienależnie lub nadmiernie pobranych krajowych środków publicznych, przeznaczonych na współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej, które zostały przekazane przez Agencję Restrukturyzacji i Modernizacji Rolnictwa na podstawie umowy w związku z realizacją Wspólnej Polityki Rolnej, Wspólnej Polityki Rybackiej lub sektorowego programu operacyjnego. Art. 11–15. (pominięte)
 
-**Art. 16.** Ustawa wchodzi w życie z dniem 16 października 2006 r.
+**Art. 16.** Ustawa wchodzi w życie z dniem 16 października 2006 r. 1) Przez art. 30 pkt 1 lit. a ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r. 2) Ze zmianą wprowadzoną przez art. 30 pkt 1 lit. b ustawy, o której mowa w odnośniku 1. 3) W brzmieniu ustalonym przez art. 103 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948), która weszła w życie z dniem 1 marca 2017 r.; ze zmianą wprowadzoną przez art. 30 pkt 1 lit. c ustawy, o której mowa w odnośniku 1. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491. 5) Ze zmianą wprowadzoną przez art. 30 pkt 2 ustawy, o której mowa w odnośniku 1. 6) W brzmieniu ustalonym przez art. 30 pkt 3 ustawy, o której mowa w odnośniku 1. 7) Przez art. 30 pkt 4 ustawy, o której mowa w odnośniku 1. 8) Ze zmianą wprowadzoną przez art. 30 pkt 5 lit. a ustawy, o której mowa w odnośniku 1. 9) Ze zmianą wprowadzoną przez art. 30 pkt 5 lit. b ustawy, o której mowa w odnośniku 1. 10) W brzmieniu ustalonym przez art. 30 pkt 5 lit. c ustawy, o której mowa w odnośniku 1. 11) Ze zmianą wprowadzoną przez art. 30 pkt 5 lit. d ustawy, o której mowa w odnośniku 1. 12) Ze zmianą wprowadzoną przez art. 30 pkt 6 lit. a ustawy, o której mowa w odnośniku 1. 13) Ze zmianą wprowadzoną przez art. 30 pkt 6 lit. b ustawy, o której mowa w odnośniku 1. 14) Obecnie minister właściwy do spraw finansów publicznych, na podstawie art. 4 ust. 1, art. 5 pkt 3 i art. 8 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2017 r. poz. 888, 1086, 1566, 1909, 2180 i 2494), która weszła w życie z dniem 1 kwietnia 1999 r. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 634, 1349 i 1655, z 2009 r. poz. 105, z 2010 r. poz. 490 i 993, z 2011 r. poz. 1202 oraz z 2012 r. poz. 243. 16) Obecnie ustawa z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2017 r. poz. 1856) na podstawie art. 69 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2017 r. poz. 562, 624, 892, 935 i 1475), która weszła w życie z dniem 15 marca 2015 r.
 

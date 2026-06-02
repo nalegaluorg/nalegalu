@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy oraz ustawę z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-09-29 |
-| Wejście w życie | 2011-10-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112051211) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1211/text.pdf) |
 
@@ -45,9 +44,13 @@ source: "eli-html"
     - **b)**
 
 - **2)** organizację pozarządową,
-- **3)** podmioty, o których mowa w art. 3 ust. 3 pkt 1 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536 oraz z 2011 r. Nr 112, poz. 654 i Nr 149, poz. 887), z zastrzeżeniem, że w przypadku spółdzielni socjalnych Centrum mogą tworzyć spółdzielnie zakładane przez podmioty, o których mowa w art. 4 ust. 2 pkt 2 i 3 ustawy z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych (Dz. U. Nr 94, poz. 651, z 2009 r. Nr 91, poz. 742 oraz z 2010 r. Nr 28, poz. 146) zwane dalej „instytucjami tworzącymi”. ” ;
-- **3)** w art. 16: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) powiatowy urząd pracy może skierować uczestnika lub uczestniczącego w klubie integracji społecznej do pracy: a) u pracodawcy, b) w Centrum; ” , – uchyla się pkt 2, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **3)** podmioty, o których mowa w art. 3 ust. 3 pkt 1 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536 oraz z 2011 r. Nr 112, poz. 654 i Nr 149, poz. 887), z zastrzeżeniem, że w przypadku spółdzielni socjalnych Centrum mogą tworzyć spółdzielnie zakładane przez podmioty, o których mowa w art. 4 ust. 2 pkt 2 i 3 ustawy z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych (Dz. U. Nr 94, poz. 651, z 2009 r. Nr 91, poz. 742 oraz z 2010 r. Nr 28, poz. 146) – zwane dalej „instytucjami tworzącymi”. ” ;
+- **3)** w art. 16: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** powiatowy urząd pracy może skierować uczestnika lub uczestniczącego w klubie integracji społecznej do pracy: u pracodawcy, w Centrum; ” , – uchyla się pkt 2, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
     - **b)**
 
 1a. Absolwenci centrum integracji społecznej lub absolwenci klubu integracji społecznej mogą podjąć wspólną działalność gospodarczą w formie spółdzielni socjalnej na zasadach określonych w przepisach o spółdzielniach socjalnych. ” , ust. 2 i 3 otrzymują brzmienie: „
@@ -75,10 +78,12 @@ source: "eli-html"
 - **4)** w art. 18: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Gmina, organizacja pozarządowa oraz podmioty, o których mowa w art. 3 ust. 2 pkt 3, prowadzące reintegrację zawodową i społeczną dla osób, o których mowa w art. 1, mogą prowadzić klub integracji społecznej. Klub integracji społecznej prowadzony jest po dokonaniu wpisu w rejestrze, o którym mowa w art. 18a. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) działania mające na celu pomoc w znalezieniu pracy na czas określony lub na czas wykonania określonej pracy, w pełnym lub niepełnym wymiarze czasu pracy u pracodawców, wykonywania usług na podstawie umów cywilnoprawnych oraz przygotowanie do podjęcia zatrudnienia lub podjęcia działalności w formie spółdzielni socjalnej; ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6 w brzmieniu: „ 6) staże, o których mowa w przepisach o promocji zatrudnienia i instytucjach rynku pracy. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+1. Gmina, organizacja pozarządowa oraz podmioty, o których mowa w art. 3 ust. 2 pkt 3, prowadzące reintegrację zawodową i społeczną dla osób, o których mowa w art. 1, mogą prowadzić klub integracji społecznej. Klub integracji społecznej prowadzony jest po dokonaniu wpisu w rejestrze, o którym mowa w art. 18a. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** działania mające na celu pomoc w znalezieniu pracy na czas określony lub na czas wykonania określonej pracy, w pełnym lub niepełnym wymiarze czasu pracy u pracodawców, wykonywania usług na podstawie umów cywilnoprawnych oraz przygotowanie do podjęcia zatrudnienia lub podjęcia działalności w formie spółdzielni socjalnej; ” , w pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6 w brzmieniu: „
+- **6)** staże, o których mowa w przepisach o promocji zatrudnienia i instytucjach rynku pracy. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **c)**
 
 5a. Zakończenie uczestnictwa w klubie integracji społecznej może zostać potwierdzone zaświadczeniem wydanym przez podmiot prowadzący klub integracji społecznej, nie później jednak niż 2 miesiące od daty zakończenia zajęć w klubie integracji społecznej. Zaświadczenie wydawane jest na wniosek osoby, która uczestniczyła w klubie integracji społecznej i zachowuje ważność w terminie 4 miesięcy od daty wystawienia. ” ;
 
@@ -98,7 +103,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536 oraz z 2011 r. Nr 112, poz. 654 i Nr 149, poz. 887) w art. 3 ust. 3a otrzymuje brzmienie: „ 3a. Przepisów art. 19b-41i nie stosuje się do spółdzielni socjalnych. ” .
 
-**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.) w art. 46:
+**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 106, poz. 622, Nr 171, poz. 1016 i Nr 205, poz. 1206.) w art. 46:
 
 - **1)** po ust. 1a dodaje się ust. 1b w brzmieniu: „
 
@@ -110,7 +115,7 @@ source: "eli-html"
 
 - **1)** szczegółowe warunki i tryb dokonywania refundacji, o której mowa w ust. 1 pkt 1 i 1a oraz ust. 1a,
 - **2)** szczegółowe warunki i tryb przyznawania bezrobotnemu oraz osobom, o których mowa w ust. 1b, jednorazowo środków na podjęcie działalności gospodarczej, o których mowa w ust. 1 pkt 2,
-- **3)** formy zabezpieczenia zwrotu otrzymanej refundacji lub środków na podjęcie działalności gospodarczej, w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania mając na względzie zwiększenie mobilności oraz poziomu zatrudnienia bezrobotnych, racjonalne gospodarowanie środkami Funduszu Pracy, a także konieczność zapewnienia zgodności udzielania pomocy z zasadami przyznawania pomocy de minimis w przypadku refundacji kosztów wyposażenia i doposażenia stanowiska pracy dla skierowanego bezrobotnego oraz w przypadku pomocy przyznawanej bezrobotnemu lub osobom określonym w ust. 1b w postaci jednorazowej wypłaty środków na rozpoczęcie działalności gospodarczej lub refundacji kosztów pomocy prawnej, konsultacji i doradztwa dotyczących podjęcia takiej działalności.
+- **3)** formy zabezpieczenia zwrotu otrzymanej refundacji lub środków na podjęcie działalności gospodarczej, w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania – mając na względzie zwiększenie mobilności oraz poziomu zatrudnienia bezrobotnych, racjonalne gospodarowanie środkami Funduszu Pracy, a także konieczność zapewnienia zgodności udzielania pomocy z zasadami przyznawania pomocy de minimis w przypadku refundacji kosztów wyposażenia i doposażenia stanowiska pracy dla skierowanego bezrobotnego oraz w przypadku pomocy przyznawanej bezrobotnemu lub osobom określonym w ust. 1b w postaci jednorazowej wypłaty środków na rozpoczęcie działalności gospodarczej lub refundacji kosztów pomocy prawnej, konsultacji i doradztwa dotyczących podjęcia takiej działalności.
 
 6a. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania bezrobotnemu oraz osobom, o których mowa w ust. 1b jednorazowo środków na podjęcie działalności na zasadach określonych dla spółdzielni socjalnych, o których mowa w ust. 1 pkt 2, oraz formy zabezpieczenia zwrotu środków na podjęcie działalności na zasadach określonych dla spółdzielni socjalnych, w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania – mając na względzie zwiększenie mobilności oraz poziomu zatrudnienia bezrobotnych, racjonalne gospodarowanie środkami Funduszu Pracy, a także konieczność zapewnienia zgodności udzielania pomocy z zasadami przyznawania pomocy de minimis w przypadku pomocy przyznawanej bezrobotnemu lub osobom określonym w ust. 1b w postaci jednorazowej wypłaty środków na rozpoczęcie działalności na zasadach określonych dla spółdzielni socjalnych. ” .
 
@@ -118,7 +123,7 @@ source: "eli-html"
 
 - **1)** w art. 8 ust. 1 otrzymuje brzmienie: „
 
-1. Statutowa działalność spółdzielni socjalnej w części obejmującej działalność w zakresie społecznej i zawodowej reintegracji oraz działalność, o której mowa w art. 2 ust. 3, nie jest działalnością gospodarczą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.) i może być prowadzona jako statutowa działalność odpłatna lub działalność nieodpłatna. ” ;
+1. Statutowa działalność spółdzielni socjalnej w części obejmującej działalność w zakresie społecznej i zawodowej reintegracji oraz działalność, o której mowa w art. 2 ust. 3, nie jest działalnością gospodarczą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593 oraz z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175 i Nr 204, poz. 1195.) i może być prowadzona jako statutowa działalność odpłatna lub działalność nieodpłatna. ” ;
 
 - **2)** art. 9 otrzymuje brzmienie: „
 
@@ -134,5 +139,5 @@ source: "eli-html"
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 6 i 6a ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 6 i 6a tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy oraz ustawę z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 106, poz. 622, Nr 171, poz. 1016 i Nr 205, poz. 1206. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593 oraz z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175 i Nr 204, poz. 1195.
 

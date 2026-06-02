@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 14 listopada 2017 r. zmieniające rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 14 listopada 2017 r. zmieniające rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-14 |
 | Data wydania | 2017-12-08 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2285/text.pdf) |
 
-Treść rozporządzenia § 1. § 2. § 3.
+Treść rozporządzenia
+§ 1.
+§ 2.
+§ 3.
 
 ## Załącznik nr 1 — – Wykaz polskich norm powołanych w rozporządzeniu
 
@@ -35,7 +37,7 @@ Treść rozporządzenia § 1. § 2. § 3.
 ## Załącznik nr 3 — – Stosowane w rozporządzeniu określenia dotyczące palności i rozprzestrzeniania ognia oraz odpowiadające im klasy reakcji na ogień oraz klasy odporności dachów na ogień zewnętrzny
 
 Treść rozporządzenia
-Na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13). Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 12 lipca 2017 r., pod numerem 2017/326/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 2015/1535/UE Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 19.09.2015, str. 1). Na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Infrastruktury z dnia 12 kwietnia 2002 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. z 2015 r. poz. 1422) wprowadza się następujące zmiany:
 1)
@@ -43,42 +45,31 @@ w § 2 uchyla się ust. 6;
 2)
 w § 3:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-zabudowie śródmiejskiej – należy przez to rozumieć zgrupowanie intensywnej zabudowy na obszarze śródmieścia, określonej w miejscowym planie zagospodarowania przestrzennego, a w przypadku braku planu miejscowego w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;
-” ,
+zabudowie śródmiejskiej – należy przez to rozumieć zgrupowanie intensywnej zabudowy na obszarze śródmieścia, określonej w miejscowym planie zagospodarowania przestrzennego, a w przypadku braku planu miejscowego w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy; ” ,
 b)
-dodaje się pkt 1a w brzmieniu:
-„
+dodaje się pkt 1a w brzmieniu: „
 1a)
-działce budowlanej – należy przez to rozumieć nieruchomość gruntową lub działkę gruntu, której wielkość, cechy geometryczne, dostęp do drogi publicznej oraz wyposażenie w urządzenia infrastruktury technicznej spełniają wymogi realizacji obiektów budowlanych wynikające z rozporządzenia, odrębnych przepisów i aktów prawa miejscowego;
-” ,
+działce budowlanej – należy przez to rozumieć nieruchomość gruntową lub działkę gruntu, której wielkość, cechy geometryczne, dostęp do drogi publicznej oraz wyposażenie w urządzenia infrastruktury technicznej spełniają wymogi realizacji obiektów budowlanych wynikające z rozporządzenia, odrębnych przepisów i aktów prawa miejscowego; ” ,
 c)
-pkt 16 i 17 otrzymują brzmienie:
-„
+pkt 16 i 17 otrzymują brzmienie: „
 16)
 kondygnacji – należy przez to rozumieć poziomą część budynku, zawartą pomiędzy powierzchnią posadzki na stropie lub najwyżej położonej warstwy podłogowej na gruncie a powierzchnią posadzki na stropie lub warstwy osłaniającej izolację cieplną stropu, znajdującego się nad tą częścią budynku, przy czym za kondygnację uważa się także poddasze z pomieszczeniami przeznaczonymi na pobyt ludzi oraz poziomą część budynku stanowiącą przestrzeń na urządzenia techniczne, mającą średnią wysokość w świetle większą niż 2 m; za kondygnację nie uznaje się nadbudówek ponad dachem, takich jak maszynownia dźwigu, centrala wentylacyjna, centrala klimatyzacyjna, obudowa wyjścia z klatki schodowej, kotłownia lub inne pomieszczenia techniczne;
 17)
-kondygnacji podziemnej – należy przez to rozumieć kondygnację zagłębioną poniżej poziomu przylegającego do niej terenu co najmniej w połowie jej wysokości w świetle, a także każdą usytuowaną pod nią kondygnację;
-” ,
+kondygnacji podziemnej – należy przez to rozumieć kondygnację zagłębioną poniżej poziomu przylegającego do niej terenu co najmniej w połowie jej wysokości w świetle, a także każdą usytuowaną pod nią kondygnację; ” ,
 d)
-pkt 22 otrzymuje brzmienie:
-„
+pkt 22 otrzymuje brzmienie: „
 22)
-terenie biologicznie czynnym – należy przez to rozumieć teren o nawierzchni urządzonej w sposób zapewniający naturalną wegetację roślin i retencję wód opadowych, a także 50% powierzchni tarasów i stropodachów z taką nawierzchnią oraz innych powierzchni zapewniających naturalną wegetację roślin, o powierzchni nie mniejszej niż 10 m2, oraz wodę powierzchniową na tym terenie;
-” ,
+terenie biologicznie czynnym – należy przez to rozumieć teren o nawierzchni urządzonej w sposób zapewniający naturalną wegetację roślin i retencję wód opadowych, a także 50% powierzchni tarasów i stropodachów z taką nawierzchnią oraz innych powierzchni zapewniających naturalną wegetację roślin, o powierzchni nie mniejszej niż 10 m2, oraz wodę powierzchniową na tym terenie; ” ,
 e)
-dodaje się pkt 25 i 26 w brzmieniu:
-„
+dodaje się pkt 25 i 26 w brzmieniu: „
 25)
 parkingu – należy przez to rozumieć wydzieloną powierzchnię terenu przeznaczoną do postoju i parkowania samochodów, składającą się ze stanowisk postojowych oraz dojazdów łączących te stanowiska, jeżeli takie dojazdy występują;
 26)
-aneksie kuchennym – należy przez to rozumieć część pomieszczenia mieszkalnego służącą do przygotowywania posiłków.
-” ;
+aneksie kuchennym – należy przez to rozumieć część pomieszczenia mieszkalnego służącą do przygotowywania posiłków. ” ;
 3)
-§ 12 otrzymuje brzmienie:
-„
+§ 12 otrzymuje brzmienie: „
 § 12.
 1.
 Jeżeli z przepisów § 13, 19, 23, 36, 40, 60 i 271–273 lub przepisów odrębnych określających dopuszczalne odległości niektórych budowli od budynków nie wynikają inne wymagania, budynek na działce budowlanej należy sytuować od granicy tej działki w odległości nie mniejszej niż:
@@ -113,24 +104,19 @@ Budynek inwentarski lub budynek gospodarczy, uwzględniając przepisy odrębne o
 9.
 Odległości podziemnej części budynku, a także budowli podziemnej spełniającej funkcje użytkowe budynku, znajdujących się całkowicie poniżej poziomu otaczającego terenu, od granicy działki budowlanej nie ustala się.
 10.
-Zachowanie odległości, o których mowa w ust. 1–9, nie jest wymagane w przypadku, gdy sąsiednia działka jest działką drogową.
-” ;
+Zachowanie odległości, o których mowa w ust. 1–9, nie jest wymagane w przypadku, gdy sąsiednia działka jest działką drogową. ” ;
 4)
-w § 14 ust. 1 otrzymuje brzmienie:
-„
+w § 14 ust. 1 otrzymuje brzmienie: „
 1.
-Do działek budowlanych oraz do budynków i urządzeń z nimi związanych należy zapewnić dojście i dojazd umożliwiający dostęp do drogi publicznej, odpowiednie do przeznaczenia i sposobu ich użytkowania oraz wymagań dotyczących ochrony przeciwpożarowej, określonych w przepisach odrębnych. Szerokość jezdni stanowiącej dojazd nie może być mniejsza niż 3 m.
-” ;
+Do działek budowlanych oraz do budynków i urządzeń z nimi związanych należy zapewnić dojście i dojazd umożliwiający dostęp do drogi publicznej, odpowiednie do przeznaczenia i sposobu ich użytkowania oraz wymagań dotyczących ochrony przeciwpożarowej, określonych w przepisach odrębnych. Szerokość jezdni stanowiącej dojazd nie może być mniejsza niż 3 m. ” ;
 5)
-w § 16 ust. 2 otrzymuje brzmienie:
-„
+w § 16 ust. 2 otrzymuje brzmienie: „
 2.
-Wymaganie dostępności osób niepełnosprawnych, o których mowa w ust. 1, nie dotyczy budynków na terenach zamkniętych, z wyjątkiem budynków, o których mowa w § 3 pkt 6.
-” ;
+Wymaganie dostępności osób niepełnosprawnych, o których mowa w ust. 1, nie dotyczy budynków na terenach zamkniętych, z wyjątkiem budynków, o których mowa w § 3 pkt 6. ” ;
 6)
-w dziale II rozdział 3 otrzymuje brzmienie:
-„
-Rozdział 3 Parkingi i garaże dla samochodów
+w dziale II rozdział 3 otrzymuje brzmienie: „
+Rozdział 3
+Parkingi i garaże dla samochodów
 § 18.
 1.
 Zagospodarowując działkę budowlaną, należy urządzić, stosownie do jej przeznaczenia i sposobu zabudowy, stanowiska postojowe dla samochodów użytkowników stałych i przebywających okresowo, w tym również stanowiska postojowe dla samochodów, z których korzystają osoby niepełnosprawne.
@@ -205,21 +191,17 @@ szerokość 3 m i długość 19 m – w przypadku autobusów.
 3.
 Stanowiska postojowe i dojazdy manewrowe dla samochodów powinny mieć nawierzchnię utwardzoną lub co najmniej gruntową stabilizowaną, ze spadkiem zapewniającym spływ wody.
 4.
-Stanowiska przeznaczone do mycia i niezawodowego przeglądu samochodów na parkingach powinny mieć doprowadzenie wody oraz twardą nawierzchnię ze spadkami zapewniającymi spływ wody do wpustów kanalizacyjnych z osadnikami błota i łapaczami oleju.
-” ;
+Stanowiska przeznaczone do mycia i niezawodowego przeglądu samochodów na parkingach powinny mieć doprowadzenie wody oraz twardą nawierzchnię ze spadkami zapewniającymi spływ wody do wpustów kanalizacyjnych z osadnikami błota i łapaczami oleju. ” ;
 7)
 w § 22 w ust. 2:
 a)
 w pkt 2 wyrazy „wentylację grawitacyjną” zastępuje się wyrazem „wentylację”,
 b)
-w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
-„
+w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 4)
-utwardzone place z nadziemnymi otworami wrzutowymi i podziemnymi lub częściowo podziemnymi kontenerami.
-” ;
+utwardzone place z nadziemnymi otworami wrzutowymi i podziemnymi lub częściowo podziemnymi kontenerami. ” ;
 8)
-§ 23 otrzymuje brzmienie:
-„
+§ 23 otrzymuje brzmienie: „
 § 23.
 1.
 Odległość miejsc do gromadzenia odpadów stałych, o których mowa w § 22 ust. 2 pkt 1, 3 i 4, powinna wynosić co najmniej:
@@ -236,143 +218,109 @@ W przypadku przebudowy istniejącej zabudowy odległości, o których mowa w ust
 4.
 W zabudowie jednorodzinnej, zagrodowej i rekreacji indywidualnej odległości, o których mowa w ust. 1 pkt 1 i 2, nie określa się.
 5.
-Dojście od najdalszego wejścia do obsługiwanego budynku mieszkalnego wielorodzinnego, zamieszkania zbiorowego lub użyteczności publicznej do miejsca do gromadzenia odpadów stałych, o których mowa w § 22 ust. 2 pkt 1, 3 i 4, wynosi nie więcej niż 80 m. Wymaganie to nie dotyczy budynków na terenach zamkniętych.
-” ;
+Dojście od najdalszego wejścia do obsługiwanego budynku mieszkalnego wielorodzinnego, zamieszkania zbiorowego lub użyteczności publicznej do miejsca do gromadzenia odpadów stałych, o których mowa w § 22 ust. 2 pkt 1, 3 i 4, wynosi nie więcej niż 80 m. Wymaganie to nie dotyczy budynków na terenach zamkniętych. ” ;
 9)
 uchyla się § 25;
 10)
-w § 26 ust. 1 otrzymuje brzmienie:
-„
+w § 26 ust. 1 otrzymuje brzmienie: „
 1.
-Działka budowlana przewidziana pod zabudowę budynkami przeznaczonymi na pobyt ludzi powinna mieć zapewnioną możliwość przyłączenia uzbrojenia działki lub bezpośrednio budynku do sieci wodociągowej, kanalizacyjnej, elektroenergetycznej i ciepłowniczej, a dla budynków wymienionych w § 56 – także telekomunikacyjnej.
-” ;
+Działka budowlana przewidziana pod zabudowę budynkami przeznaczonymi na pobyt ludzi powinna mieć zapewnioną możliwość przyłączenia uzbrojenia działki lub bezpośrednio budynku do sieci wodociągowej, kanalizacyjnej, elektroenergetycznej i ciepłowniczej, a dla budynków wymienionych w § 56 – także telekomunikacyjnej. ” ;
 11)
-w § 28 ust. 2 otrzymuje brzmienie:
-„
+w § 28 ust. 2 otrzymuje brzmienie: „
 2.
-W przypadku budynków niskich lub budynków, dla których nie ma możliwości przyłączenia do sieci kanalizacji deszczowej lub ogólnospławnej, dopuszcza się odprowadzenie wód opadowych na własny teren nieutwardzony, do dołów chłonnych lub do zbiorników retencyjnych.
-” ;
+W przypadku budynków niskich lub budynków, dla których nie ma możliwości przyłączenia do sieci kanalizacji deszczowej lub ogólnospławnej, dopuszcza się odprowadzenie wód opadowych na własny teren nieutwardzony, do dołów chłonnych lub do zbiorników retencyjnych. ” ;
 12)
-§ 34 otrzymuje brzmienie:
-„
+§ 34 otrzymuje brzmienie: „
 § 34.
 1.
 Zbiorniki na nieczystości ciekłe mogą być sytuowane tylko na działkach budowlanych niemających możliwości przyłączenia do sieci kanalizacyjnej, przy czym nie dopuszcza się ich sytuowania na obszarach podlegających szczególnej ochronie środowiska i narażonych na niebezpieczeństwo powodzi oraz na terenach zalewowych.
 2.
-Przepisu ust. 1 nie stosuje się do zbiorników na nieczystości ciekłe, dla których została wydana decyzja na podstawie art. 40 ust. 3 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2017 r. poz. 1121, z późn. zm.) lub na podstawie art. 77 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2017 r. poz. 1566).
-” ;
+Przepisu ust. 1 nie stosuje się do zbiorników na nieczystości ciekłe, dla których została wydana decyzja na podstawie art. 40 ust. 3 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2017 r. poz. 1121, z późn. zm.) lub na podstawie art. 77 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2017 r. poz. 1566). ” ;
 13)
 w § 36 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W zabudowie jednorodzinnej, zagrodowej i rekreacji indywidualnej odległości, o których mowa w ust. 1, powinny wynosić co najmniej: ” ;
 14)
-w § 40 ust. 2 i 3 otrzymują brzmienie:
-„
+w § 40 ust. 2 i 3 otrzymują brzmienie: „
 2.
 Nasłonecznienie placu zabaw dla dzieci powinno wynosić co najmniej 4 godziny, liczone w dniach równonocy, w godzinach 1000–1600. W zabudowie śródmiejskiej dopuszcza się nasłonecznienie nie krótsze niż 2 godziny.
 3.
-Odległość placów zabaw dla dzieci, boisk dla dzieci i młodzieży oraz miejsc rekreacyjnych od linii rozgraniczających ulicę, od okien pomieszczeń przeznaczonych na pobyt ludzi oraz od miejsc gromadzenia odpadów powinna wynosić co najmniej 10 m, przy zachowaniu wymogów § 19 ust. 1.
-” ;
+Odległość placów zabaw dla dzieci, boisk dla dzieci i młodzieży oraz miejsc rekreacyjnych od linii rozgraniczających ulicę, od okien pomieszczeń przeznaczonych na pobyt ludzi oraz od miejsc gromadzenia odpadów powinna wynosić co najmniej 10 m, przy zachowaniu wymogów § 19 ust. 1. ” ;
 15)
-w § 54 ust. 1 otrzymuje brzmienie:
-„
+w § 54 ust. 1 otrzymuje brzmienie: „
 1.
-Budynek użyteczności publicznej, budynek mieszkalny wielorodzinny, budynek zamieszkania zbiorowego, z wyłączeniem budynków zamieszkania zbiorowego na terenach zamkniętych, oraz każdy inny budynek mający najwyższą kondygnację z pomieszczeniami przeznaczonymi na pobyt więcej niż 50 osób, w których różnica poziomów posadzek pomiędzy pierwszą a najwyższą kondygnacją nadziemną, niestanowiącą drugiego poziomu w mieszkaniu dwupoziomowym, przekracza 9,5 m, a także mający dwie lub więcej kondygnacji nadziemnych budynek opieki zdrowotnej i budynek opieki społecznej, należy wyposażyć w dźwig osobowy.
-” ;
+Budynek użyteczności publicznej, budynek mieszkalny wielorodzinny, budynek zamieszkania zbiorowego, z wyłączeniem budynków zamieszkania zbiorowego na terenach zamkniętych, oraz każdy inny budynek mający najwyższą kondygnację z pomieszczeniami przeznaczonymi na pobyt więcej niż 50 osób, w których różnica poziomów posadzek pomiędzy pierwszą a najwyższą kondygnacją nadziemną, niestanowiącą drugiego poziomu w mieszkaniu dwupoziomowym, przekracza 9,5 m, a także mający dwie lub więcej kondygnacji nadziemnych budynek opieki zdrowotnej i budynek opieki społecznej, należy wyposażyć w dźwig osobowy. ” ;
 16)
 w § 55:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-W budynku mieszkalnym wielorodzinnym niewyposażanym w dźwigi należy wykonać pochylnię lub zainstalować odpowiednie urządzenie techniczne, umożliwiające dostęp osobom niepełnosprawnym do mieszkań położonych na pierwszej kondygnacji nadziemnej oraz do kondygnacji podziemnej zawierającej stanowiska postojowe dla samochodów osobowych.
-” ,
+W budynku mieszkalnym wielorodzinnym niewyposażanym w dźwigi należy wykonać pochylnię lub zainstalować odpowiednie urządzenie techniczne, umożliwiające dostęp osobom niepełnosprawnym do mieszkań położonych na pierwszej kondygnacji nadziemnej oraz do kondygnacji podziemnej zawierającej stanowiska postojowe dla samochodów osobowych. ” ,
 b)
 w ust. 2 zdanie drugie otrzymuje brzmienie: „ Nie dotyczy to budynków zamieszkania zbiorowego na terenach zamkniętych. ” ,
 c)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-W istniejącym budynku mieszkalnym wielorodzinnym niewyposażonym w dźwigi, na którego budowę została wydana decyzja o pozwoleniu na budowę przed dniem 1 kwietnia 1995 r., na poddaszu usytuowanym bezpośrednio nad 4. kondygnacją nadziemną, dopuszcza się zmianę sposobu użytkowania pomieszczeń na mieszkania.
-” ;
+W istniejącym budynku mieszkalnym wielorodzinnym niewyposażonym w dźwigi, na którego budowę została wydana decyzja o pozwoleniu na budowę przed dniem 1 kwietnia 1995 r., na poddaszu usytuowanym bezpośrednio nad 4. kondygnacją nadziemną, dopuszcza się zmianę sposobu użytkowania pomieszczeń na mieszkania. ” ;
 17)
-§ 60 otrzymuje brzmienie:
-„
+§ 60 otrzymuje brzmienie: „
 § 60.
 1.
 Pomieszczenia przeznaczone do zbiorowego przebywania dzieci w żłobku, klubie dziecięcym, przedszkolu, innych formach opieki przedszkolnej oraz szkole, z wyjątkiem pracowni chemicznej, fizycznej i plastycznej, powinny mieć zapewniony czas nasłonecznienia wynoszący co najmniej 3 godziny w dniach równonocy w godzinach 800–1600, natomiast pokoje mieszkalne – w godzinach 700–1700.
 2.
 W mieszkaniach wielopokojowych wymagania ust. 1 powinny być spełnione przynajmniej dla jednego pokoju.
 3.
-W przypadku budynków zlokalizowanych w zabudowie śródmiejskiej dopuszcza się ograniczenie wymaganego czasu nasłonecznienia, określonego w ust. 1, do 1,5 godziny, a w odniesieniu do mieszkania jednopokojowego w takiej zabudowie nie określa się wymaganego czasu nasłonecznienia.
-” ;
+W przypadku budynków zlokalizowanych w zabudowie śródmiejskiej dopuszcza się ograniczenie wymaganego czasu nasłonecznienia, określonego w ust. 1, do 1,5 godziny, a w odniesieniu do mieszkania jednopokojowego w takiej zabudowie nie określa się wymaganego czasu nasłonecznienia. ” ;
 18)
-w § 61 ust. 2 otrzymuje brzmienie:
-„
+w § 61 ust. 2 otrzymuje brzmienie: „
 2.
-Wymaganie przystosowania wejść dla osób niepełnosprawnych nie dotyczy budynków mieszkalnych w zabudowie jednorodzinnej i zagrodowej, budynków rekreacji indywidualnej oraz budynków na terenach zamkniętych z wyłączeniem budynków użyteczności publicznej.
-” ;
+Wymaganie przystosowania wejść dla osób niepełnosprawnych nie dotyczy budynków mieszkalnych w zabudowie jednorodzinnej i zagrodowej, budynków rekreacji indywidualnej oraz budynków na terenach zamkniętych z wyłączeniem budynków użyteczności publicznej. ” ;
 19)
-§ 73 otrzymuje brzmienie:
-„
+§ 73 otrzymuje brzmienie: „
 § 73.
 1.
 W pomieszczeniach przeznaczonych na stały pobyt ludzi poziom podłogi powinien znajdować się powyżej lub być równy poziomowi terenu przy budynku.
 2.
-Dopuszcza się usytuowanie pomieszczeń produkcyjnych, handlowych, usługowych, gastronomicznych lub obsługi pasażerów, określonych w ust. 1, poniżej poziomu terenu przy budynku pod warunkiem uzyskania zgody państwowego wojewódzkiego inspektora sanitarnego wydanej w przypadku pomieszczeń stałej pracy w rozumieniu ogólnych przepisów bezpieczeństwa i higieny pracy w porozumieniu z właściwym okręgowym inspektorem pracy.
-” ;
+Dopuszcza się usytuowanie pomieszczeń produkcyjnych, handlowych, usługowych, gastronomicznych lub obsługi pasażerów, określonych w ust. 1, poniżej poziomu terenu przy budynku pod warunkiem uzyskania zgody państwowego wojewódzkiego inspektora sanitarnego wydanej w przypadku pomieszczeń stałej pracy w rozumieniu ogólnych przepisów bezpieczeństwa i higieny pracy w porozumieniu z właściwym okręgowym inspektorem pracy. ” ;
 20)
-w § 75 ust. 1 otrzymuje brzmienie:
-„
+w § 75 ust. 1 otrzymuje brzmienie: „
 1.
-Drzwi do pomieszczenia przeznaczonego na stały pobyt ludzi oraz do kuchni powinny mieć co najmniej szerokość 0,8 m i wysokość 2 m w świetle ościeżnicy.
-” ;
+Drzwi do pomieszczenia przeznaczonego na stały pobyt ludzi oraz do kuchni powinny mieć co najmniej szerokość 0,8 m i wysokość 2 m w świetle ościeżnicy. ” ;
 21)
 uchyla się § 80;
 22)
-w § 84 po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+w § 84 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Ustępów ogólnodostępnych, o których mowa w ust. 1, nie urządza się w budynku obsługi bankowej, handlu lub usług o powierzchni użytkowej do 100 m2 włącznie.
-” ;
+Ustępów ogólnodostępnych, o których mowa w ust. 1, nie urządza się w budynku obsługi bankowej, handlu lub usług o powierzchni użytkowej do 100 m2 włącznie. ” ;
 23)
 w § 85:
 a)
-w ust. 2 pkt 5 otrzymuje brzmienie:
-„
+w ust. 2 pkt 5 otrzymuje brzmienie: „
 5)
-miski ustępowe umieszczone w oddzielnych kabinach o szerokości co najmniej 1 m i długości 1,10 m, ze ściankami i drzwiami o wysokości co najmniej 2 m z prześwitem nad podłogą 0,15 m; w żłobkach, klubach dziecięcych, przedszkolach oraz innych formach opieki przedszkolnej dopuszcza się stosowanie ścianek i drzwi o wysokości nie mniejszej niż 1,5 m;
-” ,
+miski ustępowe umieszczone w oddzielnych kabinach o szerokości co najmniej 1 m i długości 1,10 m, ze ściankami i drzwiami o wysokości co najmniej 2 m z prześwitem nad podłogą 0,15 m; w żłobkach, klubach dziecięcych, przedszkolach oraz innych formach opieki przedszkolnej dopuszcza się stosowanie ścianek i drzwi o wysokości nie mniejszej niż 1,5 m; ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Przedsionków, o których mowa w ust. 2 pkt 1, nie wymagają ustępy przy salach zajęć w żłobkach, klubach dziecięcych, przedszkolach, innych formach opieki przedszkolnej oraz przy pokojach dla chorych w szpitalach.
-” ;
+Przedsionków, o których mowa w ust. 2 pkt 1, nie wymagają ustępy przy salach zajęć w żłobkach, klubach dziecięcych, przedszkolach, innych formach opieki przedszkolnej oraz przy pokojach dla chorych w szpitalach. ” ;
 24)
-po § 85 dodaje się § 85a w brzmieniu:
-„
+po § 85 dodaje się § 85a w brzmieniu: „
 § 85a.
 1.
 W budynkach: gastronomii, handlu lub usług o powierzchni użytkowej powyżej 1000 m2, a także stacji paliw o powierzchni użytkowej powyżej 100 m2 powinno znajdować się wydzielone pomieszczenie dostosowane do karmienia i przewijania dzieci.
 2.
 Pomieszczenie do karmienia i przewijania dzieci powinno być wyposażone w umywalkę oraz wentylację spełniającą wymagania przepisów rozporządzenia.
 3.
-Przepisu ust. 1 nie stosuje się do stacji paliw zlokalizowanych na terenach zamkniętych.
-” ;
+Przepisu ust. 1 nie stosuje się do stacji paliw zlokalizowanych na terenach zamkniętych. ” ;
 25)
 w § 92:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Mieszkanie, oprócz pomieszczeń mieszkalnych, powinno mieć kuchnię lub aneks kuchenny, łazienkę, ustęp wydzielony lub miskę ustępową w łazience, przestrzeń składowania, miejsce umożliwiające zainstalowanie automatycznej pralki domowej oraz przestrzeń komunikacji wewnętrznej.
-” ,
+Mieszkanie, oprócz pomieszczeń mieszkalnych, powinno mieć kuchnię lub aneks kuchenny, łazienkę, ustęp wydzielony lub miskę ustępową w łazience, przestrzeń składowania, miejsce umożliwiające zainstalowanie automatycznej pralki domowej oraz przestrzeń komunikacji wewnętrznej. ” ,
 b)
 uchyla się ust. 2,
 c)
 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ W budynku mieszkalnym wielorodzinnym w łazienkach powinno być możliwe zainstalowanie wanny lub kabiny natryskowej, umywalki, miski ustępowej (jeżeli nie ma ustępu wydzielonego). ” ;
 26)
-§ 93 otrzymuje brzmienie:
-„
+§ 93 otrzymuje brzmienie: „
 § 93.
 1.
 Pomieszczenie mieszkalne, kuchnia oraz aneks kuchenny powinny mieć bezpośrednie oświetlenie światłem dziennym.
@@ -387,143 +335,113 @@ W mieszkaniu jednopokojowym dopuszcza się stosowanie aneksu kuchennego połącz
 4.
 W mieszkaniu wielopokojowym dopuszcza się stosowanie aneksu kuchennego w pokoju przeznaczonym na pobyt dzienny pod warunkiem zastosowania w tym aneksie wentylacji.
 5.
-W przypadku zastosowania okapu kuchennego w kuchni lub w aneksie kuchennym, należy zapewnić podłączenie tego okapu do odrębnego przewodu kominowego.
-” ;
+W przypadku zastosowania okapu kuchennego w kuchni lub w aneksie kuchennym, należy zapewnić podłączenie tego okapu do odrębnego przewodu kominowego. ” ;
 27)
-§ 94 otrzymuje brzmienie:
-„
+§ 94 otrzymuje brzmienie: „
 § 94.
-Mieszkanie powinno mieć powierzchnię użytkową nie mniejszą niż 25 m2.
-” ;
+Mieszkanie powinno mieć powierzchnię użytkową nie mniejszą niż 25 m2. ” ;
 28)
 w § 104:
 a)
-w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-przy usytuowaniu prostopadłym – 5,0 m;
-” ,
+przy usytuowaniu prostopadłym – 5,0 m; ” ,
 b)
 uchyla się ust. 2,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
 Odległość między dłuższą krawędzią stanowiska postojowego a:
 1)
 ścianą powinna wynosić co najmniej 0,3 m;
 2)
-słupem powinna wynosić co najmniej 0,1 m pod warunkiem zapewnienia swobodnego otwarcia drzwi samochodu.
-” ;
+słupem powinna wynosić co najmniej 0,1 m pod warunkiem zapewnienia swobodnego otwarcia drzwi samochodu. ” ;
 29)
-w § 113 w ust. 3a pkt 1 otrzymuje brzmienie:
-„
+w § 113 w ust. 3a pkt 1 otrzymuje brzmienie: „
 1)
-centralnie – rozpoczyna się bezpośrednio za armaturą odcinającą tę instalację od źródła ciepła, takiego jak kotłownia, węzeł ciepłowniczy indywidualny lub grupowy, kolektory słoneczne, pojemnościowy podgrzewacz elektryczny lub pompa ciepła, a kończy punktami czerpalnymi;
-” ;
+centralnie – rozpoczyna się bezpośrednio za armaturą odcinającą tę instalację od źródła ciepła, takiego jak kotłownia, węzeł ciepłowniczy indywidualny lub grupowy, kolektory słoneczne, pojemnościowy podgrzewacz elektryczny lub pompa ciepła, a kończy punktami czerpalnymi; ” ;
 30)
 w § 148:
 a)
 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Wentylację mechaniczną wywiewną lub nawiewno-wywiewną należy stosować w budynkach wysokich i wysokościowych oraz w innych budynkach, w których zapewnienie odpowiedniej wymiany powietrza nie jest możliwe za pomocą wentylacji grawitacyjnej lub wentylacji hybrydowej. ” ,
 b)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Instalacja wentylacji hybrydowej, wentylacji mechanicznej wywiewnej oraz nawiewno-wywiewnej powinna mieć regulację wentylatorów zapewniającą dostosowanie ich wydajności powietrznej do potrzeb użytkowych.
-” ;
+Instalacja wentylacji hybrydowej, wentylacji mechanicznej wywiewnej oraz nawiewno-wywiewnej powinna mieć regulację wentylatorów zapewniającą dostosowanie ich wydajności powietrznej do potrzeb użytkowych. ” ;
 31)
 w § 150:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Przepływ powietrza wentylacyjnego w mieszkaniach powinien odbywać się z pokoi do kuchni lub aneksu kuchennego oraz do pomieszczeń higienicznosanitarnych.
-” ,
+Przepływ powietrza wentylacyjnego w mieszkaniach powinien odbywać się z pokoi do kuchni lub aneksu kuchennego oraz do pomieszczeń higienicznosanitarnych. ” ,
 b)
-ust. 11 otrzymuje brzmienie:
-„
+ust. 11 otrzymuje brzmienie: „
 11.
-W pomieszczeniach, które należy chronić przed wpływem zanieczyszczeń lub uciążliwych zapachów z pomieszczeń sąsiadujących i z otoczenia zewnętrznego, należy stosować wentylację mechaniczną nadciśnieniową.
-” ;
+W pomieszczeniach, które należy chronić przed wpływem zanieczyszczeń lub uciążliwych zapachów z pomieszczeń sąsiadujących i z otoczenia zewnętrznego, należy stosować wentylację mechaniczną nadciśnieniową. ” ;
 32)
 w § 152:
 a)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Czerpnie powietrza sytuowane na poziomie terenu lub na ścianie dwóch najniższych kondygnacji nadziemnych budynku powinny znajdować się w odległości co najmniej 8 m w rzucie poziomym od ulic i parkingów powyżej 20 stanowisk postojowych, miejsc gromadzenia odpadów stałych, wywiewek kanalizacyjnych oraz innych źródeł zanieczyszczenia powietrza. Odległość dolnej krawędzi otworu wlotowego czerpni od poziomu terenu powinna wynosić co najmniej 2 m.
-” ,
+Czerpnie powietrza sytuowane na poziomie terenu lub na ścianie dwóch najniższych kondygnacji nadziemnych budynku powinny znajdować się w odległości co najmniej 8 m w rzucie poziomym od ulic i parkingów powyżej 20 stanowisk postojowych, miejsc gromadzenia odpadów stałych, wywiewek kanalizacyjnych oraz innych źródeł zanieczyszczenia powietrza. Odległość dolnej krawędzi otworu wlotowego czerpni od poziomu terenu powinna wynosić co najmniej 2 m. ” ,
 b)
 w ust. 9:
-– pkt 1 otrzymuje brzmienie: „ 1) powietrze wywiewane nie zawiera uciążliwych zapachów; ” ,
-– dodaje się pkt 1a w brzmieniu: „ 1a) powietrze wywiewane nie zawiera zanieczyszczeń szkodliwych dla zdrowia; ” ;
+pkt 1 otrzymuje brzmienie: „
+1)
+powietrze wywiewane nie zawiera uciążliwych zapachów; ” ,
+dodaje się pkt 1a w brzmieniu: „
+1a)
+powietrze wywiewane nie zawiera zanieczyszczeń szkodliwych dla zdrowia; ” ;
 33)
-w § 153 ust. 6 otrzymuje brzmienie:
-„
+w § 153 ust. 6 otrzymuje brzmienie: „
 6.
-Przewody prowadzone przez pomieszczenia lub przestrzenie nieogrzewane, a w przypadku instalacji klimatyzacji – również niechłodzone, powinny mieć izolację cieplną, z uwzględnieniem wymagań określonych w § 267 ust. 1.
-” ;
+Przewody prowadzone przez pomieszczenia lub przestrzenie nieogrzewane, a w przypadku instalacji klimatyzacji – również niechłodzone, powinny mieć izolację cieplną, z uwzględnieniem wymagań określonych w § 267 ust. 1. ” ;
 34)
-w § 154 ust. 10 i 11 otrzymują brzmienie:
-„
+w § 154 ust. 10 i 11 otrzymują brzmienie: „
 10.
-Moc właściwą wentylatorów stosowanych w instalacjach wentylacyjnych i klimatyzacyjnych określa poniższa tabela: Lp. Rodzaj i zastosowanie wentylatora Maksymalna moc właściwa wentylatora [kW/(m3/s)] 1 2 3 1 Wentylator nawiewny: a) instalacja klimatyzacji lub wentylacji nawiewno-wywiewnej z odzyskiem ciepła 1,60 b) instalacja wentylacji nawiewno-wywiewnej bez odzysku ciepła oraz wentylacji nawiewnej 1,25 2 Wentylator wywiewny: a) instalacja klimatyzacji lub wentylacji nawiewno-wywiewnej z odzyskiem ciepła 1,00 b) instalacja wentylacji nawiewno-wywiewnej bez odzysku ciepła 1,00 c) instalacja wywiewna 0,80
+Moc właściwą wentylatorów stosowanych w instalacjach wentylacyjnych i klimatyzacyjnych określa poniższa tabela:
+Lp. Rodzaj i zastosowanie wentylatora Maksymalna moc właściwa wentylatora [kW/(m3/s)] 1 2 3 1 Wentylator nawiewny: a) instalacja klimatyzacji lub wentylacji nawiewno-wywiewnej z odzyskiem ciepła 1,60 b) instalacja wentylacji nawiewno-wywiewnej bez odzysku ciepła oraz wentylacji nawiewnej 1,25 2 Wentylator wywiewny: a) instalacja klimatyzacji lub wentylacji nawiewno-wywiewnej z odzyskiem ciepła 1,00 b) instalacja wentylacji nawiewno-wywiewnej bez odzysku ciepła 1,00 c) instalacja wywiewna 0,80
 11.
-Dopuszcza się zwiększenie mocy właściwej wentylatora, w przypadku zastosowania wybranych elementów instalacji, do wartości określonej w poniższej tabeli: Lp. Dodatkowe elementy instalacji wentylacyjnej lub klimatyzacyjnej Dodatkowa moc właściwa wentylatora [kW/(m3/s)] 1 2 3 1 Dodatkowy stopień filtracji powietrza 0,3 2 Dodatkowy stopień filtracji powietrza z filtrami klasy H10 i wyższej 0,6 3 Filtry do usuwania gazowych zanieczyszczeń powietrza 0,3 4 Wysoko skuteczne urządzenie do odzysku ciepła (sprawność temperaturowa większa niż 67%) 0,3
+Dopuszcza się zwiększenie mocy właściwej wentylatora, w przypadku zastosowania wybranych elementów instalacji, do wartości określonej w poniższej tabeli:
+Lp. Dodatkowe elementy instalacji wentylacyjnej lub klimatyzacyjnej Dodatkowa moc właściwa wentylatora [kW/(m3/s)] 1 2 3 1 Dodatkowy stopień filtracji powietrza 0,3 2 Dodatkowy stopień filtracji powietrza z filtrami klasy H10 i wyższej 0,6 3 Filtry do usuwania gazowych zanieczyszczeń powietrza 0,3 4 Wysoko skuteczne urządzenie do odzysku ciepła (sprawność temperaturowa większa niż 67%) 0,3
 ”;
 35)
-w § 159 ust. 7 otrzymuje brzmienie:
-„
+w § 159 ust. 7 otrzymuje brzmienie: „
 7.
-W zabudowie śródmiejskiej dopuszcza się instalowanie kurka głównego przed budynkiem, poniżej poziomu terenu, pod warunkiem zachowania wymagań właściwych dla armatury zaporowej montowanej na gazociągach sieci gazowych.
-” ;
+W zabudowie śródmiejskiej dopuszcza się instalowanie kurka głównego przed budynkiem, poniżej poziomu terenu, pod warunkiem zachowania wymagań właściwych dla armatury zaporowej montowanej na gazociągach sieci gazowych. ” ;
 36)
-w § 166 ust. 6 otrzymuje brzmienie:
-„
+w § 166 ust. 6 otrzymuje brzmienie: „
 6.
-Gazomierze mogą być ponadto instalowane w wydzielonych i zamykanych pomieszczeniach piwnicznych, jeżeli mają one okno oraz przewód wentylacji grawitacyjnej wyprowadzony ponad dach lub przez ścianę zewnętrzną na wysokość co najmniej 2,5 m powyżej terenu, w odległości nie mniejszej niż 0,5 m od bocznej krawędzi okien, drzwi i innych otworów.
-” ;
+Gazomierze mogą być ponadto instalowane w wydzielonych i zamykanych pomieszczeniach piwnicznych, jeżeli mają one okno oraz przewód wentylacji grawitacyjnej wyprowadzony ponad dach lub przez ścianę zewnętrzną na wysokość co najmniej 2,5 m powyżej terenu, w odległości nie mniejszej niż 0,5 m od bocznej krawędzi okien, drzwi i innych otworów. ” ;
 37)
-w § 170 ust. 2 otrzymuje brzmienie:
-„
+w § 170 ust. 2 otrzymuje brzmienie: „
 2.
-Urządzenia gazowe z otwartą komorą spalania, przez co rozumie się urządzenia typu A i B, nie mogą być instalowane w pomieszczeniach mieszkalnych, z zastrzeżeniem § 93 ust. 2, 4 i 5.
-” ;
+Urządzenia gazowe z otwartą komorą spalania, przez co rozumie się urządzenia typu A i B, nie mogą być instalowane w pomieszczeniach mieszkalnych, z zastrzeżeniem § 93 ust. 2, 4 i 5. ” ;
 38)
-w § 172 w ust. 1 tabela otrzymuje brzmienie: Rodzaje pomieszczeń Maksymalne obciążenie cieplne urządzeń gazowych na 1 m3 kubatury pomieszczenia typ A – bez odprowadzenia spalin typ B – z odprowadzaniem spalin 1 2 3 Pomieszczenie przeznaczone na stały pobyt ludzi oraz aneksy kuchenne połączone z przedpokojem 175 W (150 kcal/h) 350 W (300 kcal/h) Pomieszczenia nieprzeznaczone na stały pobyt ludzi, w tym kuchnie 930 W (800 kcal/h) 4650 W (4000 kcal/h)
+w § 172 w ust. 1 tabela otrzymuje brzmienie:
+Rodzaje pomieszczeń Maksymalne obciążenie cieplne urządzeń gazowych na 1 m3 kubatury pomieszczenia typ A – bez odprowadzenia spalin typ B – z odprowadzaniem spalin 1 2 3 Pomieszczenie przeznaczone na stały pobyt ludzi oraz aneksy kuchenne połączone z przedpokojem 175 W (150 kcal/h) 350 W (300 kcal/h) Pomieszczenia nieprzeznaczone na stały pobyt ludzi, w tym kuchnie 930 W (800 kcal/h) 4650 W (4000 kcal/h)
 39)
-w § 179 ust. 6 otrzymuje brzmienie:
-„
+w § 179 ust. 6 otrzymuje brzmienie: „
 6.
-Odległość zbiorników z gazem płynnym od granicy działki budowlanej z tymi zbiornikami powinna być nie mniejsza niż połowa odległości określonej w tabeli w ust. 4 w kolumnach 2 i 3, przy zachowaniu wymaganej odległości od budynku danego rodzaju.
-” ;
+Odległość zbiorników z gazem płynnym od granicy działki budowlanej z tymi zbiornikami powinna być nie mniejsza niż połowa odległości określonej w tabeli w ust. 4 w kolumnach 2 i 3, przy zachowaniu wymaganej odległości od budynku danego rodzaju. ” ;
 40)
-§ 192a otrzymuje brzmienie:
-„
+§ 192a otrzymuje brzmienie: „
 § 192a.
-Mieszkania w budynku mieszkalnym wielorodzinnym należy wyposażyć w instalację wejściowej sygnalizacji dzwonkowej oraz w odpowiednią sygnalizację alarmowo-przyzywową dostosowaną do potrzeb osób niepełnosprawnych.
-” ;
+Mieszkania w budynku mieszkalnym wielorodzinnym należy wyposażyć w instalację wejściowej sygnalizacji dzwonkowej oraz w odpowiednią sygnalizację alarmowo-przyzywową dostosowaną do potrzeb osób niepełnosprawnych. ” ;
 41)
-w § 193 ust. 3 otrzymuje brzmienie:
-„
+w § 193 ust. 3 otrzymuje brzmienie: „
 3.
-W zabudowie śródmiejskiej w średniowysokim budynku mieszkalnym wielorodzinnym, mającym nie więcej niż 3 mieszkania dostępne z klatki schodowej na kondygnacji, dopuszcza się instalowanie dźwigu niespełniającego wymagań określonych w ust. 2, poza przystosowaniem go do potrzeb osób niepełnosprawnych.
-” ;
+W zabudowie śródmiejskiej w średniowysokim budynku mieszkalnym wielorodzinnym, mającym nie więcej niż 3 mieszkania dostępne z klatki schodowej na kondygnacji, dopuszcza się instalowanie dźwigu niespełniającego wymagań określonych w ust. 2, poza przystosowaniem go do potrzeb osób niepełnosprawnych. ” ;
 42)
-§ 202 otrzymuje brzmienie:
-„
+§ 202 otrzymuje brzmienie: „
 § 202.
-Szczegółowe wymagania, jakim powinny odpowiadać dźwigi, inne urządzenia podnoszące, schody ruchome oraz pochylnie ruchome, określają przepisy odrębne.
-” ;
+Szczegółowe wymagania, jakim powinny odpowiadać dźwigi, inne urządzenia podnoszące, schody ruchome oraz pochylnie ruchome, określają przepisy odrębne. ” ;
 43)
-w § 206 ust. 2 otrzymuje brzmienie:
-„
+w § 206 ust. 2 otrzymuje brzmienie: „
 2.
-Rozbudowa, nadbudowa, przebudowa oraz zmiana sposobu użytkowania budynku powinny być poprzedzone ekspertyzą techniczną stanu konstrukcji i elementów budynku, z uwzględnieniem stanu podłoża gruntowego.
-” ;
+Rozbudowa, nadbudowa, przebudowa oraz zmiana sposobu użytkowania budynku powinny być poprzedzone ekspertyzą techniczną stanu konstrukcji i elementów budynku, z uwzględnieniem stanu podłoża gruntowego. ” ;
 44)
-§ 207 otrzymuje brzmienie:
-„
+§ 207 otrzymuje brzmienie: „
 § 207.
 1.
 Budynek i urządzenia z nim związane powinny być projektowane i wykonane w sposób ograniczający możliwość powstania pożaru, a w razie jego wystąpienia zapewniający:
@@ -538,11 +456,9 @@ możliwość ewakuacji ludzi lub ich uratowania w inny sposób;
 5)
 uwzględnienie bezpieczeństwa ekip ratowniczych.
 2.
-Przepisy rozporządzenia dotyczące bezpieczeństwa pożarowego, wymiarów schodów, o których mowa w § 68 ust. 1 i 2, a także oświetlenia awaryjnego, o którym mowa w § 181, stosuje się, z uwzględnieniem § 2 ust. 2, również do użytkowanych budynków istniejących, które na podstawie przepisów odrębnych uznaje się za zagrażające życiu ludzi.
-” ;
+Przepisy rozporządzenia dotyczące bezpieczeństwa pożarowego, wymiarów schodów, o których mowa w § 68 ust. 1 i 2, a także oświetlenia awaryjnego, o którym mowa w § 181, stosuje się, z uwzględnieniem § 2 ust. 2, również do użytkowanych budynków istniejących, które na podstawie przepisów odrębnych uznaje się za zagrażające życiu ludzi. ” ;
 45)
-w § 208 w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+w § 208 w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
 wymagań Polskich Norm i warunków określonych w załączniku nr 3 do rozporządzenia, dotyczących w szczególności zasad ustalania:
 a)
@@ -558,17 +474,13 @@ stopnia rozprzestrzeniania ognia przez ściany zewnętrzne od strony zewnętrzne
 f)
 klas reakcji na ogień wyrobów (materiałów) budowlanych,
 g)
-toksyczności produktów rozkładu spalania materiałów.
-” ;
+toksyczności produktów rozkładu spalania materiałów. ” ;
 46)
-w § 208a ust. 5 otrzymuje brzmienie:
-„
+w § 208a ust. 5 otrzymuje brzmienie: „
 5.
-Klasy dymoszczelności drzwi Sa i S200 określa się zgodnie z Polską Normą dotyczącą klasyfikacji ogniowej ustalanej na podstawie badań odporności ogniowej, z wyłączeniem instalacji wentylacyjnej.
-” ;
+Klasy dymoszczelności drzwi Sa i S200 określa się zgodnie z Polską Normą dotyczącą klasyfikacji ogniowej ustalanej na podstawie badań odporności ogniowej, z wyłączeniem instalacji wentylacyjnej. ” ;
 47)
-§ 213 otrzymuje brzmienie:
-„
+§ 213 otrzymuje brzmienie: „
 § 213.
 Wymagania dotyczące klasy odporności pożarowej budynków określone w § 212 oraz dotyczące klas odporności ogniowej elementów budynków i rozprzestrzeniania ognia przez te elementy określone w § 216, z zastrzeżeniem § 271 ust. 8a, nie dotyczą budynków:
 1)
@@ -588,41 +500,31 @@ o kubaturze brutto do 1000 m3 przeznaczonych do wykonywania zawodu lub działaln
 3)
 wolnostojących garaży o liczbie stanowisk postojowych nie większej niż 2;
 4)
-inwentarskich o kubaturze brutto do 1500 m3.
-” ;
+inwentarskich o kubaturze brutto do 1500 m3. ” ;
 48)
-w § 223 ust. 3 otrzymuje brzmienie:
-„
+w § 223 ust. 3 otrzymuje brzmienie: „
 3.
-Elementy poziome wymienione w ust. 2 powinny spełniać wymagania szczelności ogniowej i izolacyjności ogniowej, również w obrębie połączenia ze ścianami zewnętrznymi, przez okres odpowiadający czasowi klasyfikacyjnemu wymaganemu w stosunku do ścian zewnętrznych budynku i być nierozprzestrzeniające ognia.
-” ;
+Elementy poziome wymienione w ust. 2 powinny spełniać wymagania szczelności ogniowej i izolacyjności ogniowej, również w obrębie połączenia ze ścianami zewnętrznymi, przez okres odpowiadający czasowi klasyfikacyjnemu wymaganemu w stosunku do ścian zewnętrznych budynku i być nierozprzestrzeniające ognia. ” ;
 49)
-w § 227 w ust. 4 pkt 1 otrzymuje brzmienie:
-„
+w § 227 w ust. 4 pkt 1 otrzymuje brzmienie: „
 1)
-stałych samoczynnych urządzeń gaśniczych wodnych – o 100%;
-” ;
+stałych samoczynnych urządzeń gaśniczych wodnych – o 100%; ” ;
 50)
 w § 232:
 a)
 w ust. 2 dodaje się zdanie drugie w brzmieniu: „ Ograniczenia nie stosuje się do otworów w ścianach oddzielenia przeciwpożarowego w garażu, które znajdują się na drogach manewrowych. ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Przedsionek przeciwpożarowy powinien mieć wymiary rzutu poziomego nie mniejsze niż 1,4 × 1,4 m, ściany i strop, a także osłony lub obudowy przewodów i kabli elektrycznych z wyjątkiem wykorzystywanych w przedsionku oraz z wyjątkiem zespołów kablowych, o których mowa w § 187 ust. 3 – o klasie odporności ogniowej co najmniej E I 60 wykonane z materiałów niepalnych oraz powinien być zamykany drzwiami i wentylowany co najmniej grawitacyjnie, z zastrzeżeniem § 246 ust. 2 i 3.
-” ;
+Przedsionek przeciwpożarowy powinien mieć wymiary rzutu poziomego nie mniejsze niż 1,4 × 1,4 m, ściany i strop, a także osłony lub obudowy przewodów i kabli elektrycznych z wyjątkiem wykorzystywanych w przedsionku oraz z wyjątkiem zespołów kablowych, o których mowa w § 187 ust. 3 – o klasie odporności ogniowej co najmniej E I 60 wykonane z materiałów niepalnych oraz powinien być zamykany drzwiami i wentylowany co najmniej grawitacyjnie, z zastrzeżeniem § 246 ust. 2 i 3. ” ;
 51)
-w § 242 ust. 3 i 4 otrzymują brzmienie:
-„
+w § 242 ust. 3 i 4 otrzymują brzmienie: „
 3.
 Wysokość drogi ewakuacyjnej powinna wynosić co najmniej 2,2 m, natomiast wysokość lokalnego obniżenia 2 m, przy czym długość obniżonego odcinka drogi nie może być większa niż 1,5 m na każdym odcinku drogi ewakuacyjnej o długości 10 m.
 4.
-Skrzydła drzwi stanowiących wyjście na drogę ewakuacyjną nie mogą, po ich całkowitym otwarciu, zmniejszać wymaganej szerokości tej drogi. Wymagania nie stosuje się do drzwi wyposażonych w urządzenia samoczynnie je zamykające.
-” ;
+Skrzydła drzwi stanowiących wyjście na drogę ewakuacyjną nie mogą, po ich całkowitym otwarciu, zmniejszać wymaganej szerokości tej drogi. Wymagania nie stosuje się do drzwi wyposażonych w urządzenia samoczynnie je zamykające. ” ;
 52)
-§ 245 otrzymuje brzmienie:
-„
+§ 245 otrzymuje brzmienie: „
 § 245.
 Klatki schodowe przeznaczone do ewakuacji ze strefy pożarowej:
 1)
@@ -630,93 +532,69 @@ ZL II w budynku niskim (N),
 2)
 ZL I, ZL II, ZL III lub ZL V w budynku średniowysokim (SW),
 3)
-PM o gęstości obciążenia ogniowego powyżej 500 MJ/m2 lub zawierającej pomieszczenie zagrożone wybuchem w budynku niskim (N) bądź średniowysokim (SW)
-powinny być obudowane i zamykane drzwiami dymoszczelnymi oraz wyposażone w urządzenia zapobiegające zadymieniu lub służące do usuwania dymu, uruchamiane samoczynnie za pomocą systemu wykrywania dymu.
-” ;
+PM o gęstości obciążenia ogniowego powyżej 500 MJ/m2 lub zawierającej pomieszczenie zagrożone wybuchem w budynku niskim (N) bądź średniowysokim (SW) – powinny być obudowane i zamykane drzwiami dymoszczelnymi oraz wyposażone w urządzenia zapobiegające zadymieniu lub służące do usuwania dymu, uruchamiane samoczynnie za pomocą systemu wykrywania dymu. ” ;
 53)
 w § 246:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-W budynku wysokim (W) i wysokościowym (WW), z zastrzeżeniem ust. 4, należy zapewnić możliwość ewakuacji do co najmniej dwóch klatek schodowych, które powinny być obudowane i oddzielone od poziomych dróg komunikacyjnych lub ewakuacyjnych oraz pomieszczeń, przedsionkiem przeciwpożarowym, odpowiadającym wymaganiom określonym w § 232.
-” ,
+W budynku wysokim (W) i wysokościowym (WW), z zastrzeżeniem ust. 4, należy zapewnić możliwość ewakuacji do co najmniej dwóch klatek schodowych, które powinny być obudowane i oddzielone od poziomych dróg komunikacyjnych lub ewakuacyjnych oraz pomieszczeń, przedsionkiem przeciwpożarowym, odpowiadającym wymaganiom określonym w § 232. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
 Prowadzenie ewakuacji tylko do jednej klatki schodowej dopuszcza się w przypadku:
 1)
 budynku wysokiego (W) niezawierającego strefy pożarowej ZL II, jeżeli powierzchnia wewnętrzna kondygnacji nie przekracza 750 m2;
 2)
-strefy pożarowej ZL IV, jeżeli łączna powierzchnia wewnętrzna mieszkań na kondygnacji lub jej części nie przekracza 750 m2.
-” ;
+strefy pożarowej ZL IV, jeżeli łączna powierzchnia wewnętrzna mieszkań na kondygnacji lub jej części nie przekracza 750 m2. ” ;
 54)
 w § 249:
 a)
 uchyla się ust. 2,
 b)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Odległość między ścianą zewnętrzną, stanowiącą obudowę klatki schodowej przeznaczonej do ewakuacji, o której mowa w § 245, 246 i 256 ust. 2, a inną ścianą zewnętrzną tego samego lub innego budynku powinna być ustalona zgodnie z § 271. Przepisu nie stosuje się, jeżeli co najmniej jedna z tych ścian posiada co najmniej klasę odporności ogniowej zgodnie z § 216, jak dla stropu budynku z tą klatką schodową, w pasie terenu określonym zgodnie z § 271.
-” ;
+Odległość między ścianą zewnętrzną, stanowiącą obudowę klatki schodowej przeznaczonej do ewakuacji, o której mowa w § 245, 246 i 256 ust. 2, a inną ścianą zewnętrzną tego samego lub innego budynku powinna być ustalona zgodnie z § 271. Przepisu nie stosuje się, jeżeli co najmniej jedna z tych ścian posiada co najmniej klasę odporności ogniowej zgodnie z § 216, jak dla stropu budynku z tą klatką schodową, w pasie terenu określonym zgodnie z § 271. ” ;
 55)
-w § 253 ust. 1 otrzymuje brzmienie:
-„
+w § 253 ust. 1 otrzymuje brzmienie: „
 1.
-W budynku ZL I, ZL II, ZL III lub ZL V, mającym kondygnację z posadzką na wysokości powyżej 25 m ponad poziomem terenu przy najniżej położonym wejściu do budynku oraz w budynku wysokościowym (WW) ZL IV przynajmniej jeden dźwig powinien być przystosowany do potrzeb ekip ratowniczych, spełniając wymagania Polskiej Normy dotyczącej dźwigów dla straży pożarnej. Dźwig dla ekip ratowniczych powinien zapewniać dostęp do każdej strefy pożarowej na kondygnacji bezpośrednio lub drogami komunikacji ogólnej.
-” ;
+W budynku ZL I, ZL II, ZL III lub ZL V, mającym kondygnację z posadzką na wysokości powyżej 25 m ponad poziomem terenu przy najniżej położonym wejściu do budynku oraz w budynku wysokościowym (WW) ZL IV przynajmniej jeden dźwig powinien być przystosowany do potrzeb ekip ratowniczych, spełniając wymagania Polskiej Normy dotyczącej dźwigów dla straży pożarnej. Dźwig dla ekip ratowniczych powinien zapewniać dostęp do każdej strefy pożarowej na kondygnacji bezpośrednio lub drogami komunikacji ogólnej. ” ;
 56)
 w § 256 w ust. 3 odnośnik 1 otrzymuje brzmienie: „ 1) Dla dojścia najkrótszego, przy czym dopuszcza się dla drugiego dojścia długość większą o 100% od najkrótszego. Dojścia te nie mogą się pokrywać ani krzyżować, przy czym dopuszcza się ich wspólny początkowy przebieg na długości nie większej niż 2 m. ” ;
 57)
-w § 267 ust. 5 otrzymuje brzmienie:
-„
+w § 267 ust. 5 otrzymuje brzmienie: „
 5.
-W kuchni lub w aneksie kuchennym w mieszkaniu dopuszcza się stosowanie przewodów wentylacji wywiewnej z materiałów co najmniej trudno zapalnych.
-” ;
+W kuchni lub w aneksie kuchennym w mieszkaniu dopuszcza się stosowanie przewodów wentylacji wywiewnej z materiałów co najmniej trudno zapalnych. ” ;
 58)
 w § 271:
 a)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-Najmniejszą odległość budynków ZL, PM, IN od granicy (konturu) lasu, rozumianego jako grunt leśny (Ls) określony na mapie ewidencyjnej lub teren przeznaczony w miejscowym planie zagospodarowania przestrzennego jako leśny, przyjmuje się jako odległość ścian tych budynków od ściany budynku ZL z przekryciem dachu rozprzestrzeniającym ogień.
-” ,
+Najmniejszą odległość budynków ZL, PM, IN od granicy (konturu) lasu, rozumianego jako grunt leśny (Ls) określony na mapie ewidencyjnej lub teren przeznaczony w miejscowym planie zagospodarowania przestrzennego jako leśny, przyjmuje się jako odległość ścian tych budynków od ściany budynku ZL z przekryciem dachu rozprzestrzeniającym ogień. ” ,
 b)
-po ust. 8 dodaje się ust. 8a w brzmieniu:
-„
+po ust. 8 dodaje się ust. 8a w brzmieniu: „
 8a.
 Najmniejsza odległość budynków wymienionych w § 213, wykonanych z elementów nierozprzestrzeniających ognia, niezawierających pomieszczeń zagrożonych wybuchem oraz posiadających klasę odporności pożarowej wyższą niż wymagana zgodnie z § 212, od granicy (konturu) lasu zlokalizowanej na:
 1)
 sąsiedniej działce – wynosi 4 m,
 2)
-działce, na której sytuuje się budynek – nie określa się
-jeżeli teren, na którym znajduje się granica (kontur) lasu, przeznaczony jest w miejscowym planie zagospodarowania przestrzennego pod zabudowę niezwiązaną z produkcją leśną, a w przypadku braku planu miejscowego – grunty leśne są objęte zgodą na zmianę przeznaczenia na cele nieleśne uzyskaną przy sporządzaniu miejscowych planów zagospodarowania przestrzennego, które utraciły moc na podstawie art. 1 lit. a ustawy z dnia 21 grudnia 2001 r. o zmianie ustawy o zagospodarowaniu przestrzennym (Dz. U. poz. 1804) oraz art. 87 ust. 3 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2017 r. poz. 1073 i 1566).
-” ;
+działce, na której sytuuje się budynek – nie określa się – jeżeli teren, na którym znajduje się granica (kontur) lasu, przeznaczony jest w miejscowym planie zagospodarowania przestrzennego pod zabudowę niezwiązaną z produkcją leśną, a w przypadku braku planu miejscowego – grunty leśne są objęte zgodą na zmianę przeznaczenia na cele nieleśne uzyskaną przy sporządzaniu miejscowych planów zagospodarowania przestrzennego, które utraciły moc na podstawie art. 1 lit. a ustawy z dnia 21 grudnia 2001 r. o zmianie ustawy o zagospodarowaniu przestrzennym (Dz. U. poz. 1804) oraz art. 87 ust. 3 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2017 r. poz. 1073 i 1566). ” ;
 59)
-w § 274 ust. 3 otrzymuje brzmienie:
-„
+w § 274 ust. 3 otrzymuje brzmienie: „
 3.
-Jednokondygnacyjny, nadziemny garaż otwarty, mający formę zadaszenia stanowisk postojowych z odkrytymi drogami manewrowymi, powinien mieć elementy konstrukcji i przekrycia dachu niekapiące pod wpływem wysokiej temperatury.
-” ;
+Jednokondygnacyjny, nadziemny garaż otwarty, mający formę zadaszenia stanowisk postojowych z odkrytymi drogami manewrowymi, powinien mieć elementy konstrukcji i przekrycia dachu niekapiące pod wpływem wysokiej temperatury. ” ;
 60)
-w § 275 ust. 2 otrzymuje brzmienie:
-„
+w § 275 ust. 2 otrzymuje brzmienie: „
 2.
-Dopuszcza się, z zastrzeżeniem § 277 ust. 5, wykonanie nad najwyższą kondygnacją garażu otwartego, będącego budynkiem niskim (N), dodatkowego poziomu stanowisk postojowych bez zadaszenia lub z zadaszeniem spełniającym wymagania określone w § 274 ust. 3.
-” ;
+Dopuszcza się, z zastrzeżeniem § 277 ust. 5, wykonanie nad najwyższą kondygnacją garażu otwartego, będącego budynkiem niskim (N), dodatkowego poziomu stanowisk postojowych bez zadaszenia lub z zadaszeniem spełniającym wymagania określone w § 274 ust. 3. ” ;
 61)
-w § 277 ust. 3 i 4 otrzymują brzmienie:
-„
+w § 277 ust. 3 i 4 otrzymują brzmienie: „
 3.
 W garażu zamkniętym obejmującym więcej niż dwie kondygnacje podziemne lub znajdującym się poniżej drugiej kondygnacji podziemnej należy stosować stałe samoczynne urządzenia gaśnicze wodne. Wymagania nie stosuje się do strefy pożarowej garażu, która posiada bezpośredni wjazd lub wyjazd z budynku.
 4.
-W strefie pożarowej garażu zamkniętego należy stosować instalację wentylacji oddymiającej uruchamianą za pomocą systemu wykrywania dymu, w przypadku gdy ta strefa nie posiada bezpośredniego wjazdu lub wyjazdu z budynku lub gdy jej powierzchnia przekracza 1500 m2.
-” ;
+W strefie pożarowej garażu zamkniętego należy stosować instalację wentylacji oddymiającej uruchamianą za pomocą systemu wykrywania dymu, w przypadku gdy ta strefa nie posiada bezpośredniego wjazdu lub wyjazdu z budynku lub gdy jej powierzchnia przekracza 1500 m2. ” ;
 62)
-§ 278 otrzymuje brzmienie:
-„
+§ 278 otrzymuje brzmienie: „
 § 278.
 1.
 Ze strefy pożarowej garażu, która posiada więcej niż 25 stanowisk postojowych i nie jest wyposażona w instalację wentylacji oddymiającej lub ma powierzchnię przekraczającą 1500 m2, należy zapewnić co najmniej dwa wyjścia ewakuacyjne, przy czym jednym z tych wyjść może być wjazd lub wyjazd.
@@ -733,49 +611,50 @@ Wyjście ewakuacyjne powinno być dostępne także w przypadku zamknięcia wjazd
 5.
 Jeżeli poziom parkowania leży nie wyżej niż 3 m nad poziomem terenu urządzonego przy budynku, za wyjście ewakuacyjne mogą służyć nieobudowane schody zewnętrzne.
 6.
-W garażu podziemnym strefy pożarowe o powierzchni powyżej 1500 m2 powinny, w razie pożaru, mieć możliwość oddzielenia ich od siebie i od kondygnacji nadziemnej budynku za pomocą drzwi, bram lub innych zamknięć o klasie odporności ogniowej nie mniejszej niż E I 30.
-” ;
+W garażu podziemnym strefy pożarowe o powierzchni powyżej 1500 m2 powinny, w razie pożaru, mieć możliwość oddzielenia ich od siebie i od kondygnacji nadziemnej budynku za pomocą drzwi, bram lub innych zamknięć o klasie odporności ogniowej nie mniejszej niż E I 30. ” ;
 63)
-w § 322 ust. 3 otrzymuje brzmienie:
-„
+w § 322 ust. 3 otrzymuje brzmienie: „
 3.
-Przed podjęciem przebudowy, rozbudowy lub zmiany sposobu użytkowania budynku, w przypadku stwierdzenia występowania zawilgocenia i oznak korozji biologicznej, należy wykonać ekspertyzę mykologiczną i na podstawie jej wyników – odpowiednie roboty zabezpieczające.
-” ;
+Przed podjęciem przebudowy, rozbudowy lub zmiany sposobu użytkowania budynku, w przypadku stwierdzenia występowania zawilgocenia i oznak korozji biologicznej, należy wykonać ekspertyzę mykologiczną i na podstawie jej wyników – odpowiednie roboty zabezpieczające. ” ;
 64)
 w § 328:
 a)
-w ust. 1 pkt 1 i 2 otrzymują brzmienie:
-„
+w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
 1)
 wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m2·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. poz. 1200 oraz z 2015 r. poz. 151), jest mniejsza lub równa wartości maksymalnej obliczonej zgodnie ze wzorem, o którym mowa w § 329 ust. 1 lub 3;
 2)
-przegrody oraz wyposażenie techniczne budynku odpowiadają przynajmniej wymaganiom izolacyjności cieplnej określonym w załączniku nr 2 do rozporządzenia.
-” ,
+przegrody oraz wyposażenie techniczne budynku odpowiadają przynajmniej wymaganiom izolacyjności cieplnej określonym w załączniku nr 2 do rozporządzenia. ” ,
 b)
-ust. 1a otrzymuje brzmienie:
-„
+ust. 1a otrzymuje brzmienie: „
 1a.
-Wymagania minimalne, o których mowa w ust. 1, uznaje się za spełnione dla budynku podlegającego przebudowie, jeżeli przegrody oraz wyposażenie techniczne budynku podlegające przebudowie odpowiadają przynajmniej wymaganiom izolacyjności cieplnej określonym w załączniku nr 2 do rozporządzenia.
-” ,
+Wymagania minimalne, o których mowa w ust. 1, uznaje się za spełnione dla budynku podlegającego przebudowie, jeżeli przegrody oraz wyposażenie techniczne budynku podlegające przebudowie odpowiadają przynajmniej wymaganiom izolacyjności cieplnej określonym w załączniku nr 2 do rozporządzenia. ” ,
 c)
-po ust. 1a dodaje się ust. 1b w brzmieniu:
-„
+po ust. 1a dodaje się ust. 1b w brzmieniu: „
 1b.
-Budynek, który spełnia wymagania minimalne określone w ust. 1, na dzień 31 grudnia 2020 r., a w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością – na dzień 1 stycznia 2019 r., jest budynkiem o niskim zużyciu energii.
-” ;
+Budynek, który spełnia wymagania minimalne określone w ust. 1, na dzień 31 grudnia 2020 r., a w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością – na dzień 1 stycznia 2019 r., jest budynkiem o niskim zużyciu energii. ” ;
 65)
-§ 329 otrzymuje brzmienie:
-„
+§ 329 otrzymuje brzmienie: „
 § 329.
 1.
 Maksymalną wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP oblicza się zgodnie z poniższym wzorem: EP = EPH+W + ΔEPC + ΔEPL [kWh/(m2 · rok)], gdzie: EPH+W – cząstkowa wartość wskaźnika EP na potrzeby ogrzewania, wentylacji oraz przygotowania ciepłej wody użytkowej, ΔEPC – cząstkowa wartość wskaźnika EP na potrzeby chłodzenia, ΔEPL – cząstkowa wartość wskaźnika EP na potrzeby oświetlenia.
 2.
-Cząstkowe wartości wskaźnika EP, o których mowa w ust. 1, określa się zgodnie z poniższymi tabelami: Cząstkowe wartości wskaźnika EP na potrzeby ogrzewania, wentylacji oraz przygotowania ciepłej wody użytkowej Lp. Rodzaj budynku Cząstkowe wartości wskaźnika EP na potrzeby ogrzewania, wentylacji i przygotowania ciepłej wody EPH+W [kWh/(m2 · rok)] od 1 stycznia 2017 r. od 31 grudnia 2020 r.*) 1 2 3 1 Budynek mieszkalny: a) jednorodzinny 95 70 b) wielorodzinny 85 65 2 Budynek zamieszkania zbiorowego 85 75 3 Budynek użyteczności publicznej: a) opieki zdrowotnej 290 190 b) pozostałe 60 45 4 Budynek gospodarczy, magazynowy i produkcyjny 90 70 *) Od 1 stycznia 2019 r. – w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością. Cząstkowe wartości wskaźnika EP na potrzeby chłodzenia Lp. Rodzaj budynku Cząstkowe wartości wskaźnika EP na potrzeby chłodzenia ΔEPC [kWh/(m2rok)]*) od 1 stycznia 2017 r. od 31 grudnia 2020 r.**) 1 2 3 1 Budynek mieszkalny: a) jednorodzinny ΔEPC = 10·Af,C /Af ΔEPC = 5·Af,C /Af b) wielorodzinny 2 Budynek zamieszkania zbiorowego 3 Budynek użyteczności publicznej: a) opieki zdrowotnej ΔEPC = 25·Af,C/Af ΔEPC = 25·Af,C /Af b) pozostałe 4 Budynek gospodarczy, magazynowy i produkcyjny gdzie:Af – powierzchnia pomieszczeń o regulowanej temperaturze powietrza (ogrzewana lub chłodzona), określona zgodnie z przepisami wydanymi na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków [m2], Af,C – powierzchnia pomieszczeń o regulowanej temperaturze powietrza (chłodzona), określona zgodnie z ww. przepisami [m2]. *)Jeżeli budynek posiada instalację chłodzenia, w przeciwnym przypadku ΔEPC = 0 kWh/(m2rok). **) Od 1 stycznia 2019 r. – w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością. Cząstkowe wartości wskaźnika EP na potrzeby oświetlenia Lp. Rodzaj budynku Cząstkowe wartości wskaźnika EP na potrzeby oświetleniaΔEPL [kWh/(m2 · rok)] w zależności od czasu działania oświetlenia w ciągu roku t0 [h/rok]*) od 1 stycznia 2017 r. od 31 grudnia 2020 r.**) 1 2 3 1 Budynek mieszkalny: a) jednorodzinny ΔEPL = 0 ΔEPL = 0 b) wielorodzinny 2 Budynek zamieszkania zbiorowego dla t0 < 2500ΔEPL = 50 dla t0 < 2500ΔEPL = 25 3 Budynek użyteczności publicznej: a) opieki zdrowotnej dla t0 ≥ 2500ΔEPL = 100 dla t0 ≥ 2500ΔEPL = 50 b) pozostałe 4 Budynek gospodarczy, magazynowy i produkcyjny *)Jeżeli w budynku należy uwzględnić oświetlenie wbudowane, w przeciwnym przypadku ΔEPL = 0 kWh/(m2rok).**) Od 1 stycznia 2019 r. – w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością.
+Cząstkowe wartości wskaźnika EP, o których mowa w ust. 1, określa się zgodnie z poniższymi tabelami: Cząstkowe wartości wskaźnika EP na potrzeby ogrzewania, wentylacji oraz przygotowania ciepłej wody użytkowej
+Lp. Rodzaj budynku Cząstkowe wartości wskaźnika EP na potrzeby ogrzewania, wentylacji i przygotowania ciepłej wody EPH+W [kWh/(m2 · rok)] od 1 stycznia 2017 r. od 31 grudnia 2020 r.*) 1 2 3 1 Budynek mieszkalny: a) jednorodzinny 95 70 b) wielorodzinny 85 65 2 Budynek zamieszkania zbiorowego 85 75 3 Budynek użyteczności publicznej: a) opieki zdrowotnej 290 190 b) pozostałe 60 45 4 Budynek gospodarczy, magazynowy i produkcyjny 90 70 *) Od 1 stycznia 2019 r. – w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością.
+Cząstkowe wartości wskaźnika EP na potrzeby chłodzenia
+Lp. Rodzaj budynku Cząstkowe wartości wskaźnika EP na potrzeby chłodzenia ΔEPC [kWh/(m2rok)]*) od 1 stycznia 2017 r. od 31 grudnia 2020 r.**) 1 2 3 1 Budynek mieszkalny: a) jednorodzinny ΔEPC = 10·Af,C /Af ΔEPC = 5·Af,C /Af b) wielorodzinny 2 Budynek zamieszkania zbiorowego 3 Budynek użyteczności publicznej: a) opieki zdrowotnej ΔEPC = 25·Af,C/Af ΔEPC = 25·Af,C /Af b) pozostałe 4 Budynek gospodarczy, magazynowy i produkcyjny gdzie:
+Af – powierzchnia pomieszczeń o regulowanej temperaturze powietrza (ogrzewana lub chłodzona), określona zgodnie z przepisami wydanymi na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków [m2], Af,C – powierzchnia pomieszczeń o regulowanej temperaturze powietrza (chłodzona), określona zgodnie z ww. przepisami [m2]. *)Jeżeli budynek posiada instalację chłodzenia, w przeciwnym przypadku ΔEPC = 0 kWh/(m2rok). **) Od 1 stycznia 2019 r. – w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością.
+Cząstkowe wartości wskaźnika EP na potrzeby oświetlenia
+Lp. Rodzaj budynku Cząstkowe wartości wskaźnika EP na potrzeby oświetlenia
+ΔEPL [kWh/(m2 · rok)] w zależności od czasu działania oświetlenia w ciągu roku t0 [h/rok]*) od 1 stycznia 2017 r. od 31 grudnia 2020 r.**) 1 2 3 1 Budynek mieszkalny: a) jednorodzinny ΔEPL = 0 ΔEPL = 0 b) wielorodzinny 2 Budynek zamieszkania zbiorowego dla t0 < 2500
+ΔEPL = 50 dla t0 < 2500
+ΔEPL = 25 3 Budynek użyteczności publicznej: a) opieki zdrowotnej dla t0 ≥ 2500
+ΔEPL = 100 dla t0 ≥ 2500
+ΔEPL = 50 b) pozostałe 4 Budynek gospodarczy, magazynowy i produkcyjny *)Jeżeli w budynku należy uwzględnić oświetlenie wbudowane, w przeciwnym przypadku ΔEPL = 0 kWh/(m2rok).
+**) Od 1 stycznia 2019 r. – w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością.
 3.
 W przypadku budynku o różnych funkcjach użytkowych maksymalną wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP oblicza się zgodnie z poniższym wzorem: EP = Σi (EPi · Af, i) / Σi Af, i; [kWh/(m2·rok)], gdzie: EPi – wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP dla części budynku o jednolitej funkcji użytkowej o powierzchni Af, i, obliczona zgodnie ze wzorem zawartym w ust. 1, Af, i – powierzchnia pomieszczeń o regulowanej temperaturze powietrza (ogrzewana lub chłodzona) dla części budynku o jednolitej funkcji użytkowej, określona zgodnie z przepisami wydanymi na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków.
 4.
-Wymagania określone w § 328 ust. 2 uznaje się za spełnione, jeżeli okna oraz inne przegrody przeszklone i przezroczyste odpowiadają przynajmniej wymaganiom określonym w pkt 2.1.1. załącznika nr 2 do rozporządzenia.
-” ;
+Wymagania określone w § 328 ust. 2 uznaje się za spełnione, jeżeli okna oraz inne przegrody przeszklone i przezroczyste odpowiadają przynajmniej wymaganiom określonym w pkt 2.1.1. załącznika nr 2 do rozporządzenia. ” ;
 66)
 załącznik nr 1 otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 67)
@@ -814,30 +693,91 @@ został złożony wniosek o pozwolenie na budowę, odrębny wniosek o zatwierdze
 2)
 zostało dokonane zgłoszenie budowy lub wykonania robót budowlanych w przypadku, gdy nie jest wymagane uzyskanie decyzji o pozwoleniu na budowę,
 3)
-została wydana decyzja o pozwoleniu na budowę lub odrębna decyzja o zatwierdzeniu projektu budowlanego
-można stosować Polskie Normy wymienione w lp. 49 załącznika nr 1 do rozporządzenia, o którym mowa w § 1, w brzmieniu dotychczasowym.
+została wydana decyzja o pozwoleniu na budowę lub odrębna decyzja o zatwierdzeniu projektu budowlanego – można stosować Polskie Normy wymienione w lp. 49 załącznika nr 1 do rozporządzenia, o którym mowa w § 1, w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. z wyjątkiem § 1 pkt 28, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 12 lipca 2017 r., pod numerem 2017/326/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 2015/1535/UE Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 19.09.2015, str. 1).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. z wyjątkiem § 1 pkt 28, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13). 3) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 12 lipca 2017 r., pod numerem 2017/326/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 2015/1535/UE Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 19.09.2015, str. 1).
 
 ## Załącznik nr 1 — – Wykaz polskich norm powołanych w rozporządzeniu
 
-Lp. Miejsce powołania normy Numer normy**) Tytuł normy (zakres powołania) 1 2 3 4 1 § 53 ust. 2 PN-EN 62305–1:2011 Ochrona odgromowa – Część 1: Zasady ogólne PN-EN 62305–2:2008 Ochrona odgromowa – Część 2: Zarządzanie ryzykiem 2 § 96 ust. 1 PN-B-02151–02:1987PN-B-02151–02:1987/Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem w budynkach – Część 2: Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02170:2016–12 Ocena szkodliwości drgań przekazywanych przez podłoże na budynki PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 3 § 98 ust. 2 PN-HD 308 S2:2007 Identyfikacja żył w kablach i przewodach oraz w przewodach sznurowych PN-HD 60364–4–41:2009 Instalacje elektryczne niskiego napięcia – Część 4–41: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed porażeniem elektrycznym PN-EN 12464–1:2012 Światło i oświetlenie – Oświetlenie miejsc pracy -Część 1: Miejsca pracy we wnętrzach PN-HD 60364–1:2010 Instalacje elektryczne niskiego napięcia – Część 1: Wymagania podstawowe, ustalanie ogólnych charakterystyk, definicje PN-HD 60364–4–41:2009 Instalacje elektryczne niskiego napięcia – Część 4–41: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed porażeniem elektrycznym PN-HD 60364–4–42:2011 Instalacje elektryczne niskiego napięcia – Część 4–42: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed skutkami oddziaływania cieplnego PN-HD 60364–4–43:2012 Instalacje elektryczne niskiego napięcia – Część 4–43: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed prądem przetężeniowym PN-IEC 60364–4–442:1999 Instalacje elektryczne w obiektach budowlanych -Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed przepięciami- Ochrona instalacji niskiego napięcia przed przejściowymi przepięciami i uszkodzeniami przy doziemieniach w sieciach wysokiego napięcia PN-HD 60364–4–443:2016 Instalacje elektryczne w obiektach budowlanych -Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed przepięciami- Ochrona przed przepięciami atmosferycznymi lub łączeniowymi PN-HD 60364–4–444:2012 Instalacje elektryczne niskiego napięcia – Część 4–444: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed zakłóceniami napięciowymi i zaburzeniami elektromagnetycznymi PN-HD 60364–5–51:2011 Instalacje elektryczne w obiektach budowlanych -Część 5–51: Dobór i montaż wyposażenia elektrycznego – Postanowienia ogólne PN-IEC 60364–5–52:2011 Instalacje elektryczne niskiego napięcia – Część 5–52: Dobór i montaż wyposażenia elektrycznego -Oprzewodowanie PN-IEC 60364–5–53:2016 Instalacje elektryczne niskiego napięcia – Część 5–53: Dobór i montaż wyposażenia elektrycznego -Aparatura rozdzielcza i sterownicza PN-HD 60364–5–534:2016 Instalacje elektryczne niskiego napięcia – Część 5–534: Dobór i montaż wyposażenia elektrycznego -Odłączanie izolacyjne, łączenie i sterowanie -Urządzenia do ochrony przed przejściowymi przepięciami PN-IEC 60364–5–537:1999 Instalacje elektryczne w obiektach budowlanych -Dobór i montaż wyposażenia elektrycznego -Aparatura rozdzielcza i sterownicza – Urządzenia do odłączania izolacyjnego i łączenia PN-HD 60364–5–54:2011 Instalacje elektryczne niskiego napięcia – Część 5–54: Dobór i montaż wyposażenia elektrycznego – Układy uziemiające i przewody ochronne PN-IEC 60364–5–551:2003 Instalacje elektryczne w obiektach budowlanych -Dobór i montaż wyposażenia elektrycznego -Inne wyposażenie – Niskonapięciowe zespoły prądotwórcze PN-HD 60364–5–559:2010 Instalacje elektryczne w obiektach budowlanych – Część 5–55: Dobór i montaż wyposażenia elektrycznego – Inne wyposażenie – Sekcja 559: Oprawy oświetleniowe i instalacje oświetleniowe PN-HD 60364–5–56:2010 Instalacje elektryczne niskiego napięcia – Część 5–56: Dobór i montaż wyposażenia elektrycznego – Instalacje bezpieczeństwa PN-HD 60364–6:2008 Instalacje elektryczne niskiego napięcia – Część 6: Sprawdzanie PN-EN 60445:2010 Zasady podstawowe i bezpieczeństwa przy współdziałaniu człowieka z maszyną, znakowanie i identyfikacja – Identyfikacja zacisków urządzeń i zakończeń przewodów PN-EN 60446:2010 Zasady podstawowe i bezpieczeństwa przy współdziałaniu człowieka z maszyną, znakowanie i identyfikacja – Identyfikacja przewodów kolorami albo znakami alfanumerycznymi 4 § 113 ust. 4 PN-B-01706:1992 Instalacje wodociągowe – Wymagania w projektowaniu (w zakresie pkt 2.1; 2.3; 2.4.1; 2.4.3–2.4.5; 3.1.1–3.1.3; 3.1.5; 3.1.7; 3.2.2; 3.2.3; 3.3; 4.1; 4.2 i 4.4–4.6) 5 § 113 ust. 7 PN-EN 1717:2003 Ochrona przed wtórnym zanieczyszczaniem wody w instalacjach wodociągowych i ogólne wymagania dotyczące urządzeń zapobiegających zanieczyszczeniu przez przepływ zwrotny 6 § 115 ust. 1 PN-B-10720:1998 Wodociągi – Zabudowa zestawów wodomierzowych w instalacjach wodociągowych – Wymagania i badania przy odbiorze (w zakresie pkt 2.1; 2.3; 2.4 i 2.6) 7 § 116 ust. 3 PN-HD 60364–5–54:2011 Instalacje elektryczne niskiego napięcia – Część 5–54: Dobór i montaż wyposażenia elektrycznego – Układy uziemiające i przewody ochronne 8 § 120 ust. 4 PN-B-02440:1976 Zabezpieczenie urządzeń ciepłej wody użytkowej – Wymagania (w zakresie pkt 2; 3.1.1; 3.1.2 i 3.2.1–3.2.13) 9 § 121 ust. 2 PN-B-10720:1998 Wodociągi – Zabudowa zestawów wodomierzowych w instalacjach wodociągowych – Wymagania i badania przy odbiorze (w zakresie pkt 2.1; 2.3; 2.4 i 2.6) 10 § 122 ust. 2 PN-EN 12056–1:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 1: Postanowienia ogólne i wymagania (w zakresie pkt 4 i 5) PN-EN 12056–2:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 2: Kanalizacja sanitarna – Projektowanie układu i obliczenia (w zakresie pkt 4–6) PN-EN 12056–3:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 3: Przewody deszczowe – Projektowanie układu i obliczenia (w zakresie pkt 4–7) PN-EN 12056–4:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 4: Pompownie ścieków – Projektowanie układu i obliczenia (w zakresie pkt 4–6) PN-EN 12056–5:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 5: Montaż i badania, instrukcje działania, użytkowania i eksploatacji (w zakresie pkt 5–9) PN-EN 12109:2003 Wewnętrzne systemy kanalizacji podciśnieniowej (w zakresie pkt 5; 7 i 8) 11 § 124 PN-EN 12056–4:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 4: Pompownie ścieków – Projektowanie układu i obliczenia (w zakresie pkt 4–6) PN-EN 13564–1:2004 Urządzenia przeciwzalewowe w budynkach – Część 1: Wymagania 12 § 125 ust. 4 PN-B-01707:1992 Instalacje kanalizacyjne – Wymagania w projektowaniu (w zakresie pkt 4.2.2 z wyjątkiem odwołania do pkt 3.5) 13 § 131 PN-B-94340:1991 Zsyp na odpady 14 § 133 ust. 3 PN-B-02413:1991 Ogrzewnictwo i ciepłownictwo – Zabezpieczenie instalacji ogrzewań wodnych systemu otwartego – Wymagania PN-B-02414:1999 Ogrzewnictwo i ciepłownictwo – Zabezpieczenie instalacji ogrzewań wodnych systemu zamkniętego z naczyniami wzbiorczymi przeponowymi – Wymagania PN-B-02415:1991 Ogrzewnictwo i ciepłownictwo – Zabezpieczenie wodnych zamkniętych systemów ciepłowniczych – Wymagania PN-B-02416:1991 Ogrzewnictwo i ciepłownictwo – Zabezpieczenie instalacji ogrzewań wodnych systemu zamkniętego przyłączonych do sieci cieplnych – Wymagania 15 § 133 ust. 4 PN-C-04607:1993 Woda w instalacjach ogrzewania – Wymagania i badania dotyczące jakości wody 16 § 134 ust. 1 PN-EN ISO 6946:2008 Komponenty budowlane i elementy budynku – Opór cieplny i współczynnik przenikania ciepła – Metoda obliczania PN-EN ISO 10077–1:2007PN-EN ISO 10077–1:2007/AC:2010 Cieplne właściwości użytkowe okien, drzwi i żaluzji – Obliczanie współczynnika przenikania ciepła – Część 1: Postanowienia ogólne PN-EN ISO 10077–2:2012 Cieplne właściwości użytkowe okien, drzwi i żaluzji – Obliczanie współczynnika przenikania ciepła – Część 2: Metoda komputerowa dla ram PN-EN ISO 10211:2008 Mostki cieplne w budynkach – Strumienie ciepła i temperatury powierzchni – Obliczenia szczegółowe PN-EN 12831:2006 Instalacje ogrzewcze w budynkach – Metoda obliczania projektowego obciążenia cieplnego PN-EN ISO 13370:2008 Cieplne właściwości użytkowe budynków – Przenoszenie ciepła przez grunt – Metody obliczania PN-EN ISO 13789:2008 Cieplne właściwości użytkowe budynków – Współczynniki wymiany ciepła przez przenikanie i wentylację – Metoda obliczania PN-EN ISO 14683:2008 Mostki cieplne w budynkach – Liniowy współczynnik przenikania ciepła – Metody uproszczone i wartości orientacyjne 17 § 134 ust. 2 PN-B-02403:1982 Ogrzewnictwo – Temperatury obliczeniowe zewnętrzne 18 § 135 ust. 4 PN-B-02421:2000 Ogrzewnictwo i ciepłownictwo – Izolacja cieplna przewodów, armatury i urządzeń – Wymagania i badania odbiorcze (w zakresie pkt 2.1; 2.2; 2.3.1; 2.4.1–2.4.4 i 2.5.1–2.5.6) 19 § 136 ust. 2 PN-B-02411:1987 Ogrzewnictwo – Kotłownie wbudowane na paliwo stałe – Wymagania (w zakresie pkt 2.1.3–2.1.6 i 2.1.8–2.1.10) 20 § 136 ust. 2a PN-B-02411:1987 Ogrzewnictwo – Kotłownie wbudowane na paliwo stałe – Wymagania (w zakresie pkt 2.1.3–2.1.5; 2.1.6.2 i 2.1.9–2.1.10) 21 § 136 ust. 3 PN-B-02411:1987 Ogrzewnictwo – Kotłownie wbudowane na paliwo stałe – Wymagania (w zakresie pkt 2.2.2–2.2.8 i 2.2.10–2.2.16) 22 § 137 ust. 9 PN-E-05204:1994 Ochrona przed elektrycznością statyczną – Ochrona obiektów, instalacji i urządzeń – Wymagania 23 § 140 ust. 1 PN-B-10425:1989 Przewody dymowe, spalinowe i wentylacyjne murowane z cegły – Wymagania techniczne i badania przy odbiorze 24 § 142 ust. 2 PN-B-10425:1989 Przewody dymowe, spalinowe i wentylacyjne murowane z cegły – Wymagania techniczne i badania przy odbiorze (w zakresie pkt 3.3.2) 25 § 143 ust. 1 PN-EN 1990*):PN-EN 1991*): Eurokod: Podstawy projektowania konstrukcji Eurokod 1: Oddziaływania na konstrukcje 26 § 147 ust. 1 PN-B-03430:1983PN-B-03430:1983/Az3:2000 Wentylacja w budynkach mieszkalnych zamieszkania zbiorowego i użyteczności publicznej – Wymagania (z wyjątkiem pkt 5.2.1 i 5.2.3) 27 § 147 ust. 3 PN-B-03421:1978 Wentylacja i klimatyzacja – Parametry obliczeniowe powietrza wewnętrznego w pomieszczeniach przeznaczonych do stałego przebywania ludzi 28 § 149 ust. 1 PN-B-03430:1983PN-B-03430:1983/Az3:2000 Wentylacja w budynkach mieszkalnych zamieszkania zbiorowego i użyteczności publicznej – Wymagania (w zakresie pkt 2.1.2–2.1.4; 3.1 i 4.1) 29 § 149 ust. 4 PN-B-03421:1978 Wentylacja i klimatyzacja – Parametry obliczeniowe powietrza wewnętrznego w pomieszczeniach przeznaczonych do stałego przebywania ludzi 30 § 153 ust. 2 PN-EN 1507:2007 Wentylacja budynków – Przewody wentylacyjne z blachy o przekroju prostokątnym – Wymagania dotyczące wytrzymałości i szczelności PN-EN 12237:2005 Wentylacja budynków – Sieć przewodów – Wytrzymałość i szczelność przewodów z blachy o przekroju kołowym 31 § 153 ust. 5 PN-EN 12097:2007 Wentylacja budynków – Sieć przewodów – Wymagania dotyczące elementów składowych sieci przewodów ułatwiających konserwację sieci przewodów 32 § 154 ust. 6 PN-EN 779:2005 Przeciwpyłowe filtry powietrza do wentylacji ogólnej – Określanie parametrów filtracyjnych (w zakresie rozdziału 4) 33 § 155 ust. 4 PN-B-03430:1983PN-B-03430:1983/Az3:2000 Wentylacja w budynkach mieszkalnych zamieszkania zbiorowego i użyteczności publicznej – Wymagania (w zakresie pkt 2.1.5) 34 § 157 ust. 2 PN-C-04753:2011 Gaz ziemny – Jakość gazu dostarczanego odbiorcom z sieci dystrybucyjnej (w zakresie rozdziału 2) PN-C-96008:1998 Przetwory naftowe – Gazy węglowodorowe – Gazy skroplone C3-C4 (w zakresie rozdziału 3) 35 § 163 ust. 1a PN-EN 1775:2009 Dostawa gazu – Przewody gazowe dla budynków – Maksymalne ciśnienie robocze równe 5 bar lub mniejsze – Zalecenia funkcjonalne (w zakresie pkt 4.2) 36 § 163 ust. 2 PN-EN 10208–1:2000 Rury stalowe przewodowe dla mediów palnych – Rury o klasie wymagań A 37 § 163 ust. 4 PN-EN 1775:2009 Dostawa gazu – Przewody gazowe dla budynków – Maksymalne ciśnienie robocze równe 5 bar lub mniejsze – Zalecenia funkcjonalne (w zakresie pkt 4.2) 38 § 166 ust. 1 PN-EN 1359:2004 Gazomierze – Gazomierze miechowe 39 § 170 ust. 1 PN-B-03430:1983PN-B-03430:1983/Az3:2000 Wentylacja w budynkach mieszkalnych zamieszkania zbiorowego i użyteczności publicznej – Wymagania (z wyjątkiem pkt 5.2.1 i 5.2.3) 40 § 176 ust. 1 PN-B-02431–1:1999 Ogrzewnictwo – Kotłownie wbudowane na paliwa gazowe o gęstości względnej mniejszej niż 1 – Wymagania (w zakresie pkt 2.2 z wyłączeniem 2.2.1.4; 2.2.1.8;2.2.2.4 i 2.2.2.5 oraz pkt 2.3 z wyłączeniem 2.3.8.1;2.3.8.2; 2.3.9 i 2.3.14) 41 § 180 PN-HD 308 S2:2007 Identyfikacja żył w kablach i przewodach oraz w przewodach sznurowych PN-HD 60364–4–41:2009 Instalacje elektryczne niskiego napięcia – Część 4–41: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed porażeniem elektrycznym PN-ISO 7010 Symbole graficzne – Barwy bezpieczeństwa i znaki bezpieczeństwa – Znaki bezpieczeństwa stosowane w miejscach pracy i w obszarach użyteczności publicznej PN-B-02151–02:1987PN-B-02151–02:1987/Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach PN-E-05010:1991 Zakresy napięciowe instalacji elektrycznych w obiektach budowlanych PN-E-05115:2002 Instalacje elektroenergetyczne prądu przemiennego o napięciu wyższym od 1 kV PN-E-08501:1988 Urządzenia elektryczne – Tablice i znaki bezpieczeństwa PN-EN 12464–1:2012 Światło i oświetlenie – Oświetlenie miejsc pracy – Część 1: Miejsca pracy we wnętrzach PN-EN 50160:2010PN-EN50160:2010/A1:2015–02 Parametry napięcia zasilającego w publicznych sieciach elektroenergetycznych PN-EN 50310:2012 Stosowanie połączeń wyrównawczych i uziemiających w budynkach z zainstalowanym sprzętem informatycznym PN-HD 60364–1:2010 Instalacje elektryczne niskiego napięcia – Część 1: Wymagania podstawowe, ustalanie ogólnych charakterystyk, definicje PN-HD 60364–4–41:2009 Instalacje elektryczne niskiego napięcia – Część 4–41: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed porażeniem elektrycznym PN-HD 60364–4–42:2011 Instalacje elektryczne niskiego napięcia – Część 4–42: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed skutkami oddziaływania cieplnego PN-HD 60364–4–43:2012 Instalacje elektryczne niskiego napięcia – Część 4–43: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed prądem przetężeniowym PN-IEC 60364–4–442:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed przepięciami – Ochrona instalacji niskiego napięcia przed przejściowymi przepięciami i uszkodzeniami przy doziemieniach w sieciach wysokiego napięcia PN-IEC 60364–4–443:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed przepięciami – Ochrona przed przepięciami atmosferycznymi lub łączeniowymi PN-HD 60364–4–444:2012 Instalacje elektryczne niskiego napięcia – Część 4–444: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed zakłóceniami napięciowymi i zaburzeniami elektromagnetycznymi PN-IEC 60364–4–45:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed obniżeniem napięcia PN-IEC 60364–4–473:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Stosowanie środków ochrony zapewniających bezpieczeństwo – Środki ochrony przed prądem przetężeniowym PN-IEC 60364–4–482:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Dobór środków ochrony w zależności od wpływów zewnętrznych – Ochrona przeciwpożarowa PN-HD 60364–5–51:2011 Instalacje elektryczne w obiektach budowlanych – Część 5–51: Dobór i montaż wyposażenia elektrycznego – Postanowienia ogólne PN-IEC 60364–5–52:2002 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Oprzewodowanie PN-IEC 60364–5–523:2001 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Obciążalność prądowa długotrwała przewodów PN-IEC 60364–5–53:2000 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Aparatura rozdzielcza i sterownicza PN-HD 60364–5–534:2012 Instalacje elektryczne niskiego napięcia – Część 5–53: Dobór i montaż wyposażenia elektrycznego – Odłączanie izolacyjne, łączenie i sterowanie – Sekcja 534: Urządzenia do ochrony przed przepięciami PN-IEC 60364–5–537:1999 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Aparatura rozdzielcza i sterownicza – Urządzenia do odłączania izolacyjnego i łączenia PN-HD 60364–5–54:2011 Instalacje elektryczne niskiego napięcia – Część 5–54: Dobór i montaż wyposażenia elektrycznego – Układy uziemiające i przewody ochronne PN-IEC 60364–5–551:2003 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Inne wyposażenie – Niskonapięciowe zespoły prądotwórcze PN-HD 60364–5–559:2010 Instalacje elektryczne w obiektach budowlanych – Część 5–55: Dobór i montaż wyposażenia elektrycznego – Inne wyposażenie – Sekcja 559: Oprawy oświetleniowe i instalacje oświetleniowe PN-IEC 60364–5–56:2010 Instalacje elektryczne niskiego napięcia – Część 5–56: Dobór i montaż wyposażenia elektrycznego – Instalacje bezpieczeństwa PN-HD 60364–6:2008 Instalacje elektryczne niskiego napięcia – Część 6: Sprawdzanie PN-HD 60364–7–701:2010PN-HD60364–7–701:2010/AC:2012 Instalacje elektryczne niskiego napięcia – Część 7–701: Wymagania dotyczące specjalnych instalacji lub lokalizacji – Pomieszczenia wyposażone w wannę lub prysznic PN-IEC 60364–7–702:1999PN-IEC60364–7–702:1999/Apl:2002 Instalacje elektryczne w obiektach budowlanych – Wymagania dotyczące specjalnych instalacji lub lokalizacji – Baseny pływackie i inne PN-HD 60364–7–703:2007 Instalacje elektryczne w obiektach budowlanych – Część 7–703: Wymagania dotyczące specjalnych instalacji lub lokalizacji – Pomieszczenia i kabiny zawierające ogrzewacze sauny PN-HD 60364–7–704:2010 Instalacje elektryczne niskiego napięcia – Część 7–704: Wymagania dotyczące specjalnych instalacji lub lokalizacji – Instalacje na terenie budowy i rozbiórki PN-IEC 60364–7–705:1999 Instalacje elektryczne w obiektach budowlanych – Wymagania dotyczące specjalnych instalacji lub lokalizacji – Instalacje elektryczne w gospodarstwach rolniczych i ogrodniczych PN-IEC 60364–7–706:2000 Instalacje elektryczne w obiektach budowlanych – Wymagania dotyczące specjalnych instalacji lub lokalizacji – Przestrzenie ograniczone powierzchniami przewodzącymi PN-IEC 60364–7–714:2003 Instalacje elektryczne w obiektach budowlanych – Wymagania dotyczące specjalnych instalacji lub lokalizacji – Instalacje oświetlenia zewnętrznego PN-HD 60364–7–715:2006 Instalacje elektryczne w obiektach budowlanych – Część 7–715: Wymagania dotyczące specjalnych instalacji lub lokalizacji – Instalacje oświetleniowe o bardzo niskim napięciu PN-HD 60364–7–740:2009 Instalacje elektryczne w obiektach budowlanych – Część 7–740: Wymagania dotyczące specjalnych instalacji lub lokalizacji – Tymczasowe instalacje elektryczne obiektów, urządzeń rozrywkowych i straganów na terenie targów, wesołych miasteczek i cyrków PN-EN 60445:2010 Zasady podstawowe i bezpieczeństwa przy współdziałaniu człowieka z maszyną, znakowanie i identyfikacja – Identyfikacja zacisków urządzeń i zakończeń przewodów PN-EN 60446:2010 Zasady podstawowe i bezpieczeństwa przy współdziałaniu człowieka z maszyną, znakowanie i identyfikacja – Identyfikacja przewodów kolorami albo znakami alfanumerycznymi PN-EN 60529:2003 Stopnie ochrony zapewnianej przez obudowy (kod IP) PN-EN 61140:2005PN-EN61140:2005/Al:2008 Ochrona przed porażeniem prądem elektrycznym – Wspólne aspekty instalacji i urządzeń PN-EN 61293:2000 Znakowanie urządzeń elektrycznych danymi znamionowymi dotyczącymi zasilania elektrycznego – Wymagania bezpieczeństwa 42 § 181 ust. 7 PN-EN 1838:2005 Zastosowania oświetlenia – Oświetlenie awaryjne PN-EN 50172:2005 Systemy awaryjnego oświetlenia ewakuacyjnego PN-IEC 60364–5–56:2010 Instalacje elektryczne niskiego napięcia – Część 5–56: Dobór i montaż wyposażenia elektrycznego – Instalacje bezpieczeństwa 43 § 184 ust. 2 PN-HD 60364–5–54:2011 Instalacje elektryczne niskiego napięcia – Część 5–54: Dobór i montaż wyposażenia elektrycznego – Układy uziemiające i przewody ochronne 44 § 184 ust. 3 PN-EN 62305–1:2011 Ochrona odgromowa – Część 1: Zasady ogólne PN-EN 62305–2:2008 Ochrona odgromowa – Część 2: Zarządzanie ryzykiem PN-EN 62305–3:2011 Ochrona odgromowa – Część 3: Uszkodzenia fizyczne obiektów i zagrożenie życia PN-EN 62305–4:2011 Ochrona odgromowa – Część 4: Urządzenia elektryczne i elektroniczne w obiektach PN-IEC 60364–4–443:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed przepięciami – Ochrona przed przepięciami atmosferycznymi lub łączeniowymi 45 § 186 ust. 2 PN-IEC 60364–5–52:2002 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Oprzewodowanie 46 § 187 ust. 3 PN-EN 1363–1:2012 Badania odporności ogniowej – Część 1: Wymagania ogólne 47 § 187 ust. 5 PN-EN 50200:2003 Metoda badania palności cienkich przewodów i kabli bez ochrony specjalnej stosowanych w obwodach zabezpieczających 47a § 192b PN-EN 50174–2:2010PN-EN50174–2:2010/A1:2011PN-EN50174–2:2010/AC:2014–10PN-EN50174–2:2010/A2:2015–02PN-EN50174–2:2010/Ap1:2016–12 Technika Informatyczna – Instalacje okablowania – Część 2: Planowanie i wykonywanie instalacji wewnątrz budynków 48 § 196 ust. 2 i 3 PN-B-02151–02:1987PN-B-02151–02:1987/Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 49 § 204 ust. 4 PN-EN 1990*): Eurokod: Podstawy projektowania konstrukcji PN-EN 1991*): Eurokod 1: Oddziaływania na konstrukcje PN-EN 1992*): Eurokod 2: Projektowanie konstrukcji z betonu PN-EN 1993*): Eurokod 3: Projektowanie konstrukcji stalowych PN-EN 1994*): Eurokod 4: Projektowanie konstrukcji stalowo--betonowych PN-EN 1995*): Eurokod 5: Projektowanie konstrukcji drewnianych PN-EN 1996*): Eurokod 6: Projektowanie konstrukcji murowych PN-EN 1997*): Eurokod 7: Projektowanie geotechniczne PN-EN 1999*): Eurokod 9: Projektowanie konstrukcji aluminiowych (wszystkie części norm) 50 § 208§ 208a PN-EN 81–58:2005 Przepisy bezpieczeństwa dotyczące budowy i instalowania dźwigów – Badania i próby – Część 58: Próba odporności ogniowej drzwi przystankowych PN-EN 1021–1:2007 Meble – Ocena zapalności mebli tapicerowanych – Część 1: Źródło zapłonu: tlący się papieros PN-EN 1021–2:2007 Meble – Ocena zapalności mebli tapicerowanych – Część 2: Źródło zapłonu: równoważnik płomienia zapałki PN-EN 1991–1–2:2006PN-EN1991–1–2:2006/Ap1:2010PN-EN1991–1–2:2006/Ap2:2014–12PN-EN1991–1–2:2006/AC:2013–071991–1–2:2006/AC:2009 Eurokod 1: Oddziaływania na konstrukcje – Część 1–2: Oddziaływania ogólne – Oddziaływania na konstrukcje w warunkach pożaru PN-B-02852:2001 Ochrona przeciwpożarowa budynków – Obliczanie gęstości obciążenia ogniowego oraz wyznaczanie względnego czasu trwania pożaru (w zakresie części dotyczącej gęstości obciążenia ogniowego – pkt 2) PN-B-02855:1988 Ochrona przeciwpożarowa budynków – Metoda badania wydzielania toksycznych produktów rozkładu i spalania materiałów PN-B-02867:2013–06 Ochrona przeciwpożarowa budynków – Metoda badania stopnia rozprzestrzeniania ognia przez ściany zewnętrzne od strony zewnętrznej oraz zasady klasyfikacji PN-EN ISO 6940: 2005 Wyroby włókiennicze – Zachowanie się podczas palenia – Wyznaczanie zapalności pionowo umieszczonych próbek PN-EN ISO 6941: 2005 Wyroby włókiennicze – Zachowanie się podczas palenia – Pomiar właściwości rozprzestrzeniania się płomienia na pionowo umieszczonych próbkach PN-EN 13501–1 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 1: Klasyfikacja na podstawie badań reakcji na ogień PN-EN 13501–2 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 2: Klasyfikacja na podstawie badań odporności ogniowej, z wyłączeniem instalacji wentylacyjnej PN-EN 13501–3 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 3: Klasyfikacja na podstawie badań odporności ogniowej wyrobów i elementów stosowanych w instalacjach użytkowych w budynkach: ognioodpornych przewodów wentylacyjnych i przeciwpożarowych klap odcinających PN-EN 13501–4 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 4: Klasyfikacja na podstawie wyników badań odporności ogniowej elementów systemów kontroli rozprzestrzeniania dymu PN-EN 13501–5 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 5: Klasyfikacja na podstawie wyników badań oddziaływania ognia zewnętrznego na dachy 51 § 253 ust. 1 PN-EN 81–72:2005 Przepisy bezpieczeństwa dotyczące budowy i instalowania dźwigów – Szczególne zastosowania dźwigów osobowych i towarowych – Część 72: Dźwigi dla straży pożarnej 52 § 258 ust. 1a PN-EN ISO 6940:2005 Wyroby włókiennicze – Zachowanie się podczas palenia – Wyznaczanie zapalności pionowo umieszczonych próbek PN-EN ISO 6941:2005 Wyroby włókiennicze – Zachowanie się podczas palenia – Pomiar właściwości rozprzestrzeniania się płomienia na pionowo umieszczonych próbkach 53 § 261 pkt 1 PN-EN 1021–2:2007 Meble – Ocena zapalności mebli tapicerowanych – Część 2: Źródło zapłonu: równoważnik płomienia zapałki PN-EN 1021–1:2007 Meble – Ocena zapalności mebli tapicerowanych – Część 1: Źródło zapłonu: tlący się papieros PN-B-02855:1988 Ochrona przeciwpożarowa budynków – Metoda badania wydzielania toksycznych produktów rozkładu i spalania materiałów 54 § 266 ust. 2 PN-B-02870:1993 Badania ogniowe – Małe kominy- Badania w podwyższonych temperaturach 55 § 287 pkt 4 PN-N-01256–02:1992 Znaki bezpieczeństwa – Ewakuacja PN-N-01256–5:1998 Znaki bezpieczeństwa – Zasady umieszczania znaków bezpieczeństwa na drogach ewakuacyjnych i drogach pożarowych PN-ISO 7010 Symbole graficzne – Barwy bezpieczeństwa i znaki bezpieczeństwa – Znaki bezpieczeństwa stosowane w miejscach pracy i w obszarach użyteczności publicznej 56 § 287 pkt 6 patrz: Polskie Normy powołane w § 180 57 § 288 pkt 5 PN-N-01256–02:1992 Znaki bezpieczeństwa – Ewakuacja PN-N-01256–5:1998 Znaki bezpieczeństwa – Zasady umieszczania znaków bezpieczeństwa na drogach ewakuacyjnych i drogach pożarowych PN-ISO 7010 Symbole graficzne – Barwy bezpieczeństwa i znaki bezpieczeństwa – Znaki bezpieczeństwa stosowane w miejscach pracy i w obszarach użyteczności publicznej 58 § 288 pkt 7 patrz: Polskie Normy powołane w § 180 59 § 298 ust. 1 PN-EN 1990*):PN-EN 1991*): Eurokod: Podstawy projektowania konstrukcji Eurokod 1: Oddziaływania na konstrukcje 60 § 305 ust. 2 PN-E-05204:1994 Ochrona przed elektrycznością statyczną – Ochrona obiektów, instalacji i urządzeń – Wymagania 60a § 323 ust. 2 PN-B-02151–4:2015–06 Akustyka budowlana – Ochrona przed hałasem w budynkach – Część 4: Wymagania dotyczące warunków pogłosowych i zrozumiałości mowy w pomieszczeniach oraz wytyczne prowadzenia badań 61 §324 PN-B-02151–02:1987PN-B-02151–02:1987/Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02170:2016–12 Ocena szkodliwości drgań przekazywanych przez podłoże na budynki PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 62 § 325 ust. 1 PN-B-02151–02:1987PN-B-02151–02:1987/Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02170:2016–12 Ocena szkodliwości drgań przekazywanych przez podłoże na budynki PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 63 § 325 ust. 2 PN-B-02151–3:2015–10 Akustyka budowlana – Ochrona przed hałasem w budynkach – Część 3: Wymagania dotyczące izolacyjności akustycznej przegród w budynkach i elementów budowlanych 64 § 326 ust. 1 PN-B-02151–02:1987PN-B-02151–02:1987/Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02156:1987 Akustyka budowlana – Metody pomiaru dźwięku A w budynkach PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 65 § 326 ust. 2 PN-EN ISO 140–4:2000 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary terenowe izolacyjności od dźwięków powietrznych między pomieszczeniami PN-EN ISO 140–5:1999 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary terenowe izolacyjności akustycznej od dźwięków powietrznych ściany zewnętrznej i jej elementów PN-EN ISO 140–6:1999 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary laboratoryjne izolacyjności od dźwięków uderzeniowych stropów PN-EN ISO 140–7:2000 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary terenowe izolacyjności od dźwięków uderzeniowych stropów PN-EN ISO 140–8:1999 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary laboratoryjne tłumienia dźwięków uderzeniowych przez podłogi na masywnym stropie wzorcowym PN-EN ISO 10848–2:2007 Akustyka – Pomiary laboratoryjne przenoszenia bocznego dźwięków powietrznych i uderzeniowych pomiędzy przylegającymi komorami – Część 2: Dotyczy lekkich elementów w przypadku małego wpływu złącza PN-EN 20140–3:1999PN-EN20140–3:1999/A1:2007 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary laboratoryjne izolacyjności od dźwięków powietrznych elementów budowlanych PN-EN ISO 10848–2:2007 Akustyka – Pomiary laboratoryjne przenoszenia bocznego dźwięków powietrznych i uderzeniowych pomiędzy przylegającymi komorami – Część 2: Dotyczy lekkich elementów w przypadku małego wpływu złącza PN-EN 20140–10:1994 Akustyka – Pomiary izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary laboratoryjne izolacyjności od dźwięków powietrznych małych elementów budowlanych 66 § 326 ust. 3 PN-B-02151–3:2015–10 Akustyka budowlana – Ochrona przed hałasem w budynkach – Część 3: Wymagania dotyczące izolacyjności akustycznej przegród w budynkach i elementów budowlanych 67 § 326 ust. 4 PN-B-02151–02:1987PN-B-02151–02:1987/Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02156:1987 Akustyka budowlana – Metody pomiaru dźwięku A w budynkach PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 68 § 326 ust. 5 PN-EN ISO 354:2005 Akustyka – Pomiar pochłaniania dźwięku w komorze pogłosowej 69 Załącznik nr 2pkt 1.1. i 1.4. PN-EN ISO 6946 Komponenty budowlane i elementy budynku – Opór cieplny i współczynnik przenikania ciepła – Metoda obliczaniaCieplne właściwości użytkowe budynków – Przenoszenie ciepła przez grunt – Metody obliczania PN-EN ISO 13370 70 Załącznik nr 2pkt 2.2.1., 2.2.2., 2.2.3. ppkt 1 i pkt 2.2.4. PN-EN ISO 13788:2013–05 Cieplno-wilgotnościowe właściwości komponentów budowlanych i elementów budynku – Temperatura powierzchni wewnętrznej konieczna do uniknięcia krytycznej wilgotności powierzchni i kondensacji międzywarstwowej – Metody obliczania 71 Załącznik nr 2pkt 2.2.3. ppkt 2 PN-EN ISO 10211 Mostki cieplne w budynkach – Strumienie ciepła i temperatury powierzchni – Obliczenia szczegółowe 72 Załącznik nr 2pkt 2.3.2. PN-EN 12207:2001 Okna i drzwi – Przepuszczalność powietrza – Klasyfikacja 73 Załącznik nr 2pkt 2.3.4. PN-EN 13829:2002 Właściwości cieplne budynków – Określanie przepuszczalności powietrznej budynków – Metoda pomiaru ciśnieniowego z użyciem wentylatora 74 Załącznik nr 3 PN-ENV 1187:2004PN-ENV1187:2004/A1:2007 Metody badań oddziaływania ognia zewnętrznego na dachy PN-EN 13501–1+A1 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 1: Klasyfikacja na podstawie wyników badań reakcji na ogień *) Polskie Normy projektowania wprowadzające europejskie normy projektowania konstrukcji – Eurokody, zatwierdzone i opublikowane w języku polskim, są stosowane do projektowania konstrukcji, jeżeli obejmują one wszystkie niezbędne aspekty związane z zaprojektowaniem tej konstrukcji (stanowią kompletny zestaw norm umożliwiający projektowanie). Projektowanie każdego rodzaju konstrukcji wymaga stosowania PN-EN 1990 i PN-EN 1991.**) W przypadku gdy przywołano niedatowaną Polską Normę, należy stosować najnowszą normę opublikowaną w języku polskim.
+Lp. Miejsce powołania normy Numer normy**) Tytuł normy (zakres powołania) 1 2 3 4 1 § 53 ust. 2 PN-EN 62305–1:2011 Ochrona odgromowa – Część 1: Zasady ogólne PN-EN 62305–2:2008 Ochrona odgromowa – Część 2: Zarządzanie ryzykiem 2 § 96 ust. 1 PN-B-02151–02:1987
+PN-B-02151–02:1987/
+Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem w budynkach – Część 2: Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02170:2016–12 Ocena szkodliwości drgań przekazywanych przez podłoże na budynki PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 3 § 98 ust. 2 PN-HD 308 S2:2007 Identyfikacja żył w kablach i przewodach oraz w przewodach sznurowych PN-HD 60364–4–41:2009 Instalacje elektryczne niskiego napięcia – Część 4–41: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed porażeniem elektrycznym PN-EN 12464–1:2012 Światło i oświetlenie – Oświetlenie miejsc pracy -Część 1: Miejsca pracy we wnętrzach PN-HD 60364–1:2010 Instalacje elektryczne niskiego napięcia – Część 1: Wymagania podstawowe, ustalanie ogólnych charakterystyk, definicje PN-HD 60364–4–41:2009 Instalacje elektryczne niskiego napięcia – Część 4–41: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed porażeniem elektrycznym PN-HD 60364–4–42:2011 Instalacje elektryczne niskiego napięcia – Część 4–42: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed skutkami oddziaływania cieplnego PN-HD 60364–4–43:2012 Instalacje elektryczne niskiego napięcia – Część 4–43: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed prądem przetężeniowym PN-IEC 60364–4–442:1999 Instalacje elektryczne w obiektach budowlanych -Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed przepięciami- Ochrona instalacji niskiego napięcia przed przejściowymi przepięciami i uszkodzeniami przy doziemieniach w sieciach wysokiego napięcia PN-HD 60364–4–443:2016 Instalacje elektryczne w obiektach budowlanych -Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed przepięciami- Ochrona przed przepięciami atmosferycznymi lub łączeniowymi PN-HD 60364–4–444:2012 Instalacje elektryczne niskiego napięcia – Część 4–444: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed zakłóceniami napięciowymi i zaburzeniami elektromagnetycznymi PN-HD 60364–5–51:2011 Instalacje elektryczne w obiektach budowlanych -Część 5–51: Dobór i montaż wyposażenia elektrycznego – Postanowienia ogólne PN-IEC 60364–5–52:2011 Instalacje elektryczne niskiego napięcia – Część 5–52: Dobór i montaż wyposażenia elektrycznego -Oprzewodowanie PN-IEC 60364–5–53:2016 Instalacje elektryczne niskiego napięcia – Część 5–53: Dobór i montaż wyposażenia elektrycznego -Aparatura rozdzielcza i sterownicza PN-HD 60364–5–534:2016 Instalacje elektryczne niskiego napięcia – Część 5–534: Dobór i montaż wyposażenia elektrycznego -Odłączanie izolacyjne, łączenie i sterowanie -Urządzenia do ochrony przed przejściowymi przepięciami PN-IEC 60364–5–537:1999 Instalacje elektryczne w obiektach budowlanych -Dobór i montaż wyposażenia elektrycznego -Aparatura rozdzielcza i sterownicza – Urządzenia do odłączania izolacyjnego i łączenia PN-HD 60364–5–54:2011 Instalacje elektryczne niskiego napięcia – Część 5–54: Dobór i montaż wyposażenia elektrycznego – Układy uziemiające i przewody ochronne PN-IEC 60364–5–551:2003 Instalacje elektryczne w obiektach budowlanych -Dobór i montaż wyposażenia elektrycznego -Inne wyposażenie – Niskonapięciowe zespoły prądotwórcze PN-HD 60364–5–559:2010 Instalacje elektryczne w obiektach budowlanych – Część 5–55: Dobór i montaż wyposażenia elektrycznego – Inne wyposażenie – Sekcja 559: Oprawy oświetleniowe i instalacje oświetleniowe PN-HD 60364–5–56:2010 Instalacje elektryczne niskiego napięcia – Część 5–56: Dobór i montaż wyposażenia elektrycznego – Instalacje bezpieczeństwa PN-HD 60364–6:2008 Instalacje elektryczne niskiego napięcia – Część 6: Sprawdzanie PN-EN 60445:2010 Zasady podstawowe i bezpieczeństwa przy współdziałaniu człowieka z maszyną, znakowanie i identyfikacja – Identyfikacja zacisków urządzeń i zakończeń przewodów PN-EN 60446:2010 Zasady podstawowe i bezpieczeństwa przy współdziałaniu człowieka z maszyną, znakowanie i identyfikacja – Identyfikacja przewodów kolorami albo znakami alfanumerycznymi 4 § 113 ust. 4 PN-B-01706:1992 Instalacje wodociągowe – Wymagania w projektowaniu (w zakresie pkt 2.1; 2.3; 2.4.1; 2.4.3–2.4.5; 3.1.1–3.1.3; 3.1.5; 3.1.7; 3.2.2; 3.2.3; 3.3; 4.1; 4.2 i 4.4–4.6) 5 § 113 ust. 7 PN-EN 1717:2003 Ochrona przed wtórnym zanieczyszczaniem wody w instalacjach wodociągowych i ogólne wymagania dotyczące urządzeń zapobiegających zanieczyszczeniu przez przepływ zwrotny 6 § 115 ust. 1 PN-B-10720:1998 Wodociągi – Zabudowa zestawów wodomierzowych w instalacjach wodociągowych – Wymagania i badania przy odbiorze (w zakresie pkt 2.1; 2.3; 2.4 i 2.6) 7 § 116 ust. 3 PN-HD 60364–5–54:2011 Instalacje elektryczne niskiego napięcia – Część 5–54: Dobór i montaż wyposażenia elektrycznego – Układy uziemiające i przewody ochronne 8 § 120 ust. 4 PN-B-02440:1976 Zabezpieczenie urządzeń ciepłej wody użytkowej – Wymagania (w zakresie pkt 2; 3.1.1; 3.1.2 i 3.2.1–3.2.13) 9 § 121 ust. 2 PN-B-10720:1998 Wodociągi – Zabudowa zestawów wodomierzowych w instalacjach wodociągowych – Wymagania i badania przy odbiorze (w zakresie pkt 2.1; 2.3; 2.4 i 2.6) 10 § 122 ust. 2 PN-EN 12056–1:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 1: Postanowienia ogólne i wymagania (w zakresie pkt 4 i 5) PN-EN 12056–2:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 2: Kanalizacja sanitarna – Projektowanie układu i obliczenia (w zakresie pkt 4–6) PN-EN 12056–3:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 3: Przewody deszczowe – Projektowanie układu i obliczenia (w zakresie pkt 4–7) PN-EN 12056–4:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 4: Pompownie ścieków – Projektowanie układu i obliczenia (w zakresie pkt 4–6) PN-EN 12056–5:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 5: Montaż i badania, instrukcje działania, użytkowania i eksploatacji (w zakresie pkt 5–9) PN-EN 12109:2003 Wewnętrzne systemy kanalizacji podciśnieniowej (w zakresie pkt 5; 7 i 8) 11 § 124 PN-EN 12056–4:2002 Systemy kanalizacji grawitacyjnej wewnątrz budynków – Część 4: Pompownie ścieków – Projektowanie układu i obliczenia (w zakresie pkt 4–6) PN-EN 13564–1:2004 Urządzenia przeciwzalewowe w budynkach – Część 1: Wymagania 12 § 125 ust. 4 PN-B-01707:1992 Instalacje kanalizacyjne – Wymagania w projektowaniu (w zakresie pkt 4.2.2 z wyjątkiem odwołania do pkt 3.5) 13 § 131 PN-B-94340:1991 Zsyp na odpady 14 § 133 ust. 3 PN-B-02413:1991 Ogrzewnictwo i ciepłownictwo – Zabezpieczenie instalacji ogrzewań wodnych systemu otwartego – Wymagania PN-B-02414:1999 Ogrzewnictwo i ciepłownictwo – Zabezpieczenie instalacji ogrzewań wodnych systemu zamkniętego z naczyniami wzbiorczymi przeponowymi – Wymagania PN-B-02415:1991 Ogrzewnictwo i ciepłownictwo – Zabezpieczenie wodnych zamkniętych systemów ciepłowniczych – Wymagania PN-B-02416:1991 Ogrzewnictwo i ciepłownictwo – Zabezpieczenie instalacji ogrzewań wodnych systemu zamkniętego przyłączonych do sieci cieplnych – Wymagania 15 § 133 ust. 4 PN-C-04607:1993 Woda w instalacjach ogrzewania – Wymagania i badania dotyczące jakości wody 16 § 134 ust. 1 PN-EN ISO 6946:2008 Komponenty budowlane i elementy budynku – Opór cieplny i współczynnik przenikania ciepła – Metoda obliczania PN-EN ISO 10077–1:2007
+PN-EN ISO 10077–1:2007/AC:2010 Cieplne właściwości użytkowe okien, drzwi i żaluzji – Obliczanie współczynnika przenikania ciepła – Część 1: Postanowienia ogólne PN-EN ISO 10077–2:2012 Cieplne właściwości użytkowe okien, drzwi i żaluzji – Obliczanie współczynnika przenikania ciepła – Część 2: Metoda komputerowa dla ram PN-EN ISO 10211:2008 Mostki cieplne w budynkach – Strumienie ciepła i temperatury powierzchni – Obliczenia szczegółowe PN-EN 12831:2006 Instalacje ogrzewcze w budynkach – Metoda obliczania projektowego obciążenia cieplnego PN-EN ISO 13370:2008 Cieplne właściwości użytkowe budynków – Przenoszenie ciepła przez grunt – Metody obliczania PN-EN ISO 13789:2008 Cieplne właściwości użytkowe budynków – Współczynniki wymiany ciepła przez przenikanie i wentylację – Metoda obliczania PN-EN ISO 14683:2008 Mostki cieplne w budynkach – Liniowy współczynnik przenikania ciepła – Metody uproszczone i wartości orientacyjne 17 § 134 ust. 2 PN-B-02403:1982 Ogrzewnictwo – Temperatury obliczeniowe zewnętrzne 18 § 135 ust. 4 PN-B-02421:2000 Ogrzewnictwo i ciepłownictwo – Izolacja cieplna przewodów, armatury i urządzeń – Wymagania i badania odbiorcze (w zakresie pkt 2.1; 2.2; 2.3.1; 2.4.1–2.4.4 i 2.5.1–2.5.6) 19 § 136 ust. 2 PN-B-02411:1987 Ogrzewnictwo – Kotłownie wbudowane na paliwo stałe – Wymagania (w zakresie pkt 2.1.3–2.1.6 i 2.1.8–2.1.10) 20 § 136 ust. 2a PN-B-02411:1987 Ogrzewnictwo – Kotłownie wbudowane na paliwo stałe – Wymagania (w zakresie pkt 2.1.3–2.1.5; 2.1.6.2 i 2.1.9–2.1.10) 21 § 136 ust. 3 PN-B-02411:1987 Ogrzewnictwo – Kotłownie wbudowane na paliwo stałe – Wymagania (w zakresie pkt 2.2.2–2.2.8 i 2.2.10–2.2.16) 22 § 137 ust. 9 PN-E-05204:1994 Ochrona przed elektrycznością statyczną – Ochrona obiektów, instalacji i urządzeń – Wymagania 23 § 140 ust. 1 PN-B-10425:1989 Przewody dymowe, spalinowe i wentylacyjne murowane z cegły – Wymagania techniczne i badania przy odbiorze 24 § 142 ust. 2 PN-B-10425:1989 Przewody dymowe, spalinowe i wentylacyjne murowane z cegły – Wymagania techniczne i badania przy odbiorze (w zakresie pkt 3.3.2) 25 § 143 ust. 1 PN-EN 1990*):
+PN-EN 1991*): Eurokod: Podstawy projektowania konstrukcji Eurokod 1: Oddziaływania na konstrukcje 26 § 147 ust. 1 PN-B-03430:1983
+PN-B-03430:1983/Az3:2000 Wentylacja w budynkach mieszkalnych zamieszkania zbiorowego i użyteczności publicznej – Wymagania (z wyjątkiem pkt 5.2.1 i 5.2.3) 27 § 147 ust. 3 PN-B-03421:1978 Wentylacja i klimatyzacja – Parametry obliczeniowe powietrza wewnętrznego w pomieszczeniach przeznaczonych do stałego przebywania ludzi 28 § 149 ust. 1 PN-B-03430:1983
+PN-B-03430:1983/Az3:2000 Wentylacja w budynkach mieszkalnych zamieszkania zbiorowego i użyteczności publicznej – Wymagania (w zakresie pkt 2.1.2–2.1.4; 3.1 i 4.1) 29 § 149 ust. 4 PN-B-03421:1978 Wentylacja i klimatyzacja – Parametry obliczeniowe powietrza wewnętrznego w pomieszczeniach przeznaczonych do stałego przebywania ludzi 30 § 153 ust. 2 PN-EN 1507:2007 Wentylacja budynków – Przewody wentylacyjne z blachy o przekroju prostokątnym – Wymagania dotyczące wytrzymałości i szczelności PN-EN 12237:2005 Wentylacja budynków – Sieć przewodów – Wytrzymałość i szczelność przewodów z blachy o przekroju kołowym 31 § 153 ust. 5 PN-EN 12097:2007 Wentylacja budynków – Sieć przewodów – Wymagania dotyczące elementów składowych sieci przewodów ułatwiających konserwację sieci przewodów 32 § 154 ust. 6 PN-EN 779:2005 Przeciwpyłowe filtry powietrza do wentylacji ogólnej – Określanie parametrów filtracyjnych (w zakresie rozdziału 4) 33 § 155 ust. 4 PN-B-03430:1983
+PN-B-03430:1983/Az3:2000 Wentylacja w budynkach mieszkalnych zamieszkania zbiorowego i użyteczności publicznej – Wymagania (w zakresie pkt 2.1.5) 34 § 157 ust. 2 PN-C-04753:2011 Gaz ziemny – Jakość gazu dostarczanego odbiorcom z sieci dystrybucyjnej (w zakresie rozdziału 2) PN-C-96008:1998 Przetwory naftowe – Gazy węglowodorowe – Gazy skroplone C3-C4 (w zakresie rozdziału 3) 35 § 163 ust. 1a PN-EN 1775:2009 Dostawa gazu – Przewody gazowe dla budynków – Maksymalne ciśnienie robocze równe 5 bar lub mniejsze – Zalecenia funkcjonalne (w zakresie pkt 4.2) 36 § 163 ust. 2 PN-EN 10208–1:2000 Rury stalowe przewodowe dla mediów palnych – Rury o klasie wymagań A 37 § 163 ust. 4 PN-EN 1775:2009 Dostawa gazu – Przewody gazowe dla budynków – Maksymalne ciśnienie robocze równe 5 bar lub mniejsze – Zalecenia funkcjonalne (w zakresie pkt 4.2) 38 § 166 ust. 1 PN-EN 1359:2004 Gazomierze – Gazomierze miechowe 39 § 170 ust. 1 PN-B-03430:1983
+PN-B-03430:1983/Az3:2000 Wentylacja w budynkach mieszkalnych zamieszkania zbiorowego i użyteczności publicznej – Wymagania (z wyjątkiem pkt 5.2.1 i 5.2.3) 40 § 176 ust. 1 PN-B-02431–1:1999 Ogrzewnictwo – Kotłownie wbudowane na paliwa gazowe o gęstości względnej mniejszej niż 1 – Wymagania (w zakresie pkt 2.2 z wyłączeniem 2.2.1.4; 2.2.1.8;
+2.2.2.4 i 2.2.2.5 oraz pkt 2.3 z wyłączeniem 2.3.8.1;
+2.3.8.2; 2.3.9 i 2.3.14) 41 § 180 PN-HD 308 S2:2007 Identyfikacja żył w kablach i przewodach oraz w przewodach sznurowych PN-HD 60364–4–41:2009 Instalacje elektryczne niskiego napięcia – Część 4–41: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed porażeniem elektrycznym PN-ISO 7010 Symbole graficzne – Barwy bezpieczeństwa i znaki bezpieczeństwa – Znaki bezpieczeństwa stosowane w miejscach pracy i w obszarach użyteczności publicznej PN-B-02151–02:1987
+PN-B-02151–02:1987/
+Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach PN-E-05010:1991 Zakresy napięciowe instalacji elektrycznych w obiektach budowlanych PN-E-05115:2002 Instalacje elektroenergetyczne prądu przemiennego o napięciu wyższym od 1 kV PN-E-08501:1988 Urządzenia elektryczne – Tablice i znaki bezpieczeństwa PN-EN 12464–1:2012 Światło i oświetlenie – Oświetlenie miejsc pracy – Część 1: Miejsca pracy we wnętrzach PN-EN 50160:2010
+PN-EN
+50160:2010/A1:2015–02 Parametry napięcia zasilającego w publicznych sieciach elektroenergetycznych PN-EN 50310:2012 Stosowanie połączeń wyrównawczych i uziemiających w budynkach z zainstalowanym sprzętem informatycznym PN-HD 60364–1:2010 Instalacje elektryczne niskiego napięcia – Część 1: Wymagania podstawowe, ustalanie ogólnych charakterystyk, definicje PN-HD 60364–4–41:2009 Instalacje elektryczne niskiego napięcia – Część 4–41: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed porażeniem elektrycznym PN-HD 60364–4–42:2011 Instalacje elektryczne niskiego napięcia – Część 4–42: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed skutkami oddziaływania cieplnego PN-HD 60364–4–43:2012 Instalacje elektryczne niskiego napięcia – Część 4–43: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed prądem przetężeniowym PN-IEC 60364–4–442:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed przepięciami – Ochrona instalacji niskiego napięcia przed przejściowymi przepięciami i uszkodzeniami przy doziemieniach w sieciach wysokiego napięcia PN-IEC 60364–4–443:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed przepięciami – Ochrona przed przepięciami atmosferycznymi lub łączeniowymi PN-HD 60364–4–444:2012 Instalacje elektryczne niskiego napięcia – Część 4–444: Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed zakłóceniami napięciowymi i zaburzeniami elektromagnetycznymi PN-IEC 60364–4–45:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed obniżeniem napięcia PN-IEC 60364–4–473:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Stosowanie środków ochrony zapewniających bezpieczeństwo – Środki ochrony przed prądem przetężeniowym PN-IEC 60364–4–482:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Dobór środków ochrony w zależności od wpływów zewnętrznych – Ochrona przeciwpożarowa PN-HD 60364–5–51:2011 Instalacje elektryczne w obiektach budowlanych – Część 5–51: Dobór i montaż wyposażenia elektrycznego – Postanowienia ogólne PN-IEC 60364–5–52:2002 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Oprzewodowanie PN-IEC 60364–5–523:2001 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Obciążalność prądowa długotrwała przewodów PN-IEC 60364–5–53:2000 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Aparatura rozdzielcza i sterownicza PN-HD 60364–5–534:2012 Instalacje elektryczne niskiego napięcia – Część 5–53: Dobór i montaż wyposażenia elektrycznego – Odłączanie izolacyjne, łączenie i sterowanie – Sekcja 534: Urządzenia do ochrony przed przepięciami PN-IEC 60364–5–537:1999 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Aparatura rozdzielcza i sterownicza – Urządzenia do odłączania izolacyjnego i łączenia PN-HD 60364–5–54:2011 Instalacje elektryczne niskiego napięcia – Część 5–54: Dobór i montaż wyposażenia elektrycznego – Układy uziemiające i przewody ochronne PN-IEC 60364–5–551:2003 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Inne wyposażenie – Niskonapięciowe zespoły prądotwórcze PN-HD 60364–5–559:2010 Instalacje elektryczne w obiektach budowlanych – Część 5–55: Dobór i montaż wyposażenia elektrycznego – Inne wyposażenie – Sekcja 559: Oprawy oświetleniowe i instalacje oświetleniowe PN-IEC 60364–5–56:2010 Instalacje elektryczne niskiego napięcia – Część 5–56: Dobór i montaż wyposażenia elektrycznego – Instalacje bezpieczeństwa PN-HD 60364–6:2008 Instalacje elektryczne niskiego napięcia – Część 6: Sprawdzanie PN-HD 60364–7–701:2010
+PN-HD
+60364–7–701:2010/AC:2012 Instalacje elektryczne niskiego napięcia – Część 7–701: Wymagania dotyczące specjalnych instalacji lub lokalizacji – Pomieszczenia wyposażone w wannę lub prysznic PN-IEC 60364–7–702:1999
+PN-IEC
+60364–7–702:1999/Apl:2002 Instalacje elektryczne w obiektach budowlanych – Wymagania dotyczące specjalnych instalacji lub lokalizacji – Baseny pływackie i inne PN-HD 60364–7–703:2007 Instalacje elektryczne w obiektach budowlanych – Część 7–703: Wymagania dotyczące specjalnych instalacji lub lokalizacji – Pomieszczenia i kabiny zawierające ogrzewacze sauny PN-HD 60364–7–704:2010 Instalacje elektryczne niskiego napięcia – Część 7–704: Wymagania dotyczące specjalnych instalacji lub lokalizacji – Instalacje na terenie budowy i rozbiórki PN-IEC 60364–7–705:1999 Instalacje elektryczne w obiektach budowlanych – Wymagania dotyczące specjalnych instalacji lub lokalizacji – Instalacje elektryczne w gospodarstwach rolniczych i ogrodniczych PN-IEC 60364–7–706:2000 Instalacje elektryczne w obiektach budowlanych – Wymagania dotyczące specjalnych instalacji lub lokalizacji – Przestrzenie ograniczone powierzchniami przewodzącymi PN-IEC 60364–7–714:2003 Instalacje elektryczne w obiektach budowlanych – Wymagania dotyczące specjalnych instalacji lub lokalizacji – Instalacje oświetlenia zewnętrznego PN-HD 60364–7–715:2006 Instalacje elektryczne w obiektach budowlanych – Część 7–715: Wymagania dotyczące specjalnych instalacji lub lokalizacji – Instalacje oświetleniowe o bardzo niskim napięciu PN-HD 60364–7–740:2009 Instalacje elektryczne w obiektach budowlanych – Część 7–740: Wymagania dotyczące specjalnych instalacji lub lokalizacji – Tymczasowe instalacje elektryczne obiektów, urządzeń rozrywkowych i straganów na terenie targów, wesołych miasteczek i cyrków PN-EN 60445:2010 Zasady podstawowe i bezpieczeństwa przy współdziałaniu człowieka z maszyną, znakowanie i identyfikacja – Identyfikacja zacisków urządzeń i zakończeń przewodów PN-EN 60446:2010 Zasady podstawowe i bezpieczeństwa przy współdziałaniu człowieka z maszyną, znakowanie i identyfikacja – Identyfikacja przewodów kolorami albo znakami alfanumerycznymi PN-EN 60529:2003 Stopnie ochrony zapewnianej przez obudowy (kod IP) PN-EN 61140:2005
+PN-EN
+61140:2005/Al:2008 Ochrona przed porażeniem prądem elektrycznym – Wspólne aspekty instalacji i urządzeń PN-EN 61293:2000 Znakowanie urządzeń elektrycznych danymi znamionowymi dotyczącymi zasilania elektrycznego – Wymagania bezpieczeństwa 42 § 181 ust. 7 PN-EN 1838:2005 Zastosowania oświetlenia – Oświetlenie awaryjne PN-EN 50172:2005 Systemy awaryjnego oświetlenia ewakuacyjnego PN-IEC 60364–5–56:2010 Instalacje elektryczne niskiego napięcia – Część 5–56: Dobór i montaż wyposażenia elektrycznego – Instalacje bezpieczeństwa 43 § 184 ust. 2 PN-HD 60364–5–54:2011 Instalacje elektryczne niskiego napięcia – Część 5–54: Dobór i montaż wyposażenia elektrycznego – Układy uziemiające i przewody ochronne 44 § 184 ust. 3 PN-EN 62305–1:2011 Ochrona odgromowa – Część 1: Zasady ogólne PN-EN 62305–2:2008 Ochrona odgromowa – Część 2: Zarządzanie ryzykiem PN-EN 62305–3:2011 Ochrona odgromowa – Część 3: Uszkodzenia fizyczne obiektów i zagrożenie życia PN-EN 62305–4:2011 Ochrona odgromowa – Część 4: Urządzenia elektryczne i elektroniczne w obiektach PN-IEC 60364–4–443:1999 Instalacje elektryczne w obiektach budowlanych – Ochrona dla zapewnienia bezpieczeństwa – Ochrona przed przepięciami – Ochrona przed przepięciami atmosferycznymi lub łączeniowymi 45 § 186 ust. 2 PN-IEC 60364–5–52:2002 Instalacje elektryczne w obiektach budowlanych – Dobór i montaż wyposażenia elektrycznego – Oprzewodowanie 46 § 187 ust. 3 PN-EN 1363–1:2012 Badania odporności ogniowej – Część 1: Wymagania ogólne 47 § 187 ust. 5 PN-EN 50200:2003 Metoda badania palności cienkich przewodów i kabli bez ochrony specjalnej stosowanych w obwodach zabezpieczających 47a § 192b PN-EN 50174–2:2010
+PN-EN
+50174–2:2010/A1:2011
+PN-EN
+50174–2:2010/AC:2014–10
+PN-EN
+50174–2:2010/A2:2015–02
+PN-EN
+50174–2:2010/Ap1:2016–12 Technika Informatyczna – Instalacje okablowania – Część 2: Planowanie i wykonywanie instalacji wewnątrz budynków 48 § 196 ust. 2 i 3 PN-B-02151–02:1987
+PN-B-02151–02:1987/
+Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 49 § 204 ust. 4 PN-EN 1990*): Eurokod: Podstawy projektowania konstrukcji PN-EN 1991*): Eurokod 1: Oddziaływania na konstrukcje PN-EN 1992*): Eurokod 2: Projektowanie konstrukcji z betonu PN-EN 1993*): Eurokod 3: Projektowanie konstrukcji stalowych PN-EN 1994*): Eurokod 4: Projektowanie konstrukcji stalowo--betonowych PN-EN 1995*): Eurokod 5: Projektowanie konstrukcji drewnianych PN-EN 1996*): Eurokod 6: Projektowanie konstrukcji murowych PN-EN 1997*): Eurokod 7: Projektowanie geotechniczne PN-EN 1999*): Eurokod 9: Projektowanie konstrukcji aluminiowych (wszystkie części norm) 50 § 208
+§ 208a PN-EN 81–58:2005 Przepisy bezpieczeństwa dotyczące budowy i instalowania dźwigów – Badania i próby – Część 58: Próba odporności ogniowej drzwi przystankowych PN-EN 1021–1:2007 Meble – Ocena zapalności mebli tapicerowanych – Część 1: Źródło zapłonu: tlący się papieros PN-EN 1021–2:2007 Meble – Ocena zapalności mebli tapicerowanych – Część 2: Źródło zapłonu: równoważnik płomienia zapałki PN-EN 1991–1–2:2006
+PN-EN
+1991–1–2:2006/Ap1:2010
+PN-EN
+1991–1–2:2006/Ap2:2014–12
+PN-EN
+1991–1–2:2006/AC:2013–07
+1991–1–2:2006/AC:2009 Eurokod 1: Oddziaływania na konstrukcje – Część 1–2: Oddziaływania ogólne – Oddziaływania na konstrukcje w warunkach pożaru PN-B-02852:2001 Ochrona przeciwpożarowa budynków – Obliczanie gęstości obciążenia ogniowego oraz wyznaczanie względnego czasu trwania pożaru (w zakresie części dotyczącej gęstości obciążenia ogniowego – pkt 2) PN-B-02855:1988 Ochrona przeciwpożarowa budynków – Metoda badania wydzielania toksycznych produktów rozkładu i spalania materiałów PN-B-02867:2013–06 Ochrona przeciwpożarowa budynków – Metoda badania stopnia rozprzestrzeniania ognia przez ściany zewnętrzne od strony zewnętrznej oraz zasady klasyfikacji PN-EN ISO 6940: 2005 Wyroby włókiennicze – Zachowanie się podczas palenia – Wyznaczanie zapalności pionowo umieszczonych próbek PN-EN ISO 6941: 2005 Wyroby włókiennicze – Zachowanie się podczas palenia – Pomiar właściwości rozprzestrzeniania się płomienia na pionowo umieszczonych próbkach PN-EN 13501–1 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 1: Klasyfikacja na podstawie badań reakcji na ogień PN-EN 13501–2 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 2: Klasyfikacja na podstawie badań odporności ogniowej, z wyłączeniem instalacji wentylacyjnej PN-EN 13501–3 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 3: Klasyfikacja na podstawie badań odporności ogniowej wyrobów i elementów stosowanych w instalacjach użytkowych w budynkach: ognioodpornych przewodów wentylacyjnych i przeciwpożarowych klap odcinających PN-EN 13501–4 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 4: Klasyfikacja na podstawie wyników badań odporności ogniowej elementów systemów kontroli rozprzestrzeniania dymu PN-EN 13501–5 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 5: Klasyfikacja na podstawie wyników badań oddziaływania ognia zewnętrznego na dachy 51 § 253 ust. 1 PN-EN 81–72:2005 Przepisy bezpieczeństwa dotyczące budowy i instalowania dźwigów – Szczególne zastosowania dźwigów osobowych i towarowych – Część 72: Dźwigi dla straży pożarnej 52 § 258 ust. 1a PN-EN ISO 6940:2005 Wyroby włókiennicze – Zachowanie się podczas palenia – Wyznaczanie zapalności pionowo umieszczonych próbek PN-EN ISO 6941:2005 Wyroby włókiennicze – Zachowanie się podczas palenia – Pomiar właściwości rozprzestrzeniania się płomienia na pionowo umieszczonych próbkach 53 § 261 pkt 1 PN-EN 1021–2:2007 Meble – Ocena zapalności mebli tapicerowanych – Część 2: Źródło zapłonu: równoważnik płomienia zapałki PN-EN 1021–1:2007 Meble – Ocena zapalności mebli tapicerowanych – Część 1: Źródło zapłonu: tlący się papieros PN-B-02855:1988 Ochrona przeciwpożarowa budynków – Metoda badania wydzielania toksycznych produktów rozkładu i spalania materiałów 54 § 266 ust. 2 PN-B-02870:1993 Badania ogniowe – Małe kominy- Badania w podwyższonych temperaturach 55 § 287 pkt 4 PN-N-01256–02:1992 Znaki bezpieczeństwa – Ewakuacja PN-N-01256–5:1998 Znaki bezpieczeństwa – Zasady umieszczania znaków bezpieczeństwa na drogach ewakuacyjnych i drogach pożarowych PN-ISO 7010 Symbole graficzne – Barwy bezpieczeństwa i znaki bezpieczeństwa – Znaki bezpieczeństwa stosowane w miejscach pracy i w obszarach użyteczności publicznej 56 § 287 pkt 6 patrz: Polskie Normy powołane w § 180 57 § 288 pkt 5 PN-N-01256–02:1992 Znaki bezpieczeństwa – Ewakuacja PN-N-01256–5:1998 Znaki bezpieczeństwa – Zasady umieszczania znaków bezpieczeństwa na drogach ewakuacyjnych i drogach pożarowych PN-ISO 7010 Symbole graficzne – Barwy bezpieczeństwa i znaki bezpieczeństwa – Znaki bezpieczeństwa stosowane w miejscach pracy i w obszarach użyteczności publicznej 58 § 288 pkt 7 patrz: Polskie Normy powołane w § 180 59 § 298 ust. 1 PN-EN 1990*):
+PN-EN 1991*): Eurokod: Podstawy projektowania konstrukcji Eurokod 1: Oddziaływania na konstrukcje 60 § 305 ust. 2 PN-E-05204:1994 Ochrona przed elektrycznością statyczną – Ochrona obiektów, instalacji i urządzeń – Wymagania 60a § 323 ust. 2 PN-B-02151–4:2015–06 Akustyka budowlana – Ochrona przed hałasem w budynkach – Część 4: Wymagania dotyczące warunków pogłosowych i zrozumiałości mowy w pomieszczeniach oraz wytyczne prowadzenia badań 61 §324 PN-B-02151–02:1987
+PN-B-02151–02:1987/
+Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02170:2016–12 Ocena szkodliwości drgań przekazywanych przez podłoże na budynki PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 62 § 325 ust. 1 PN-B-02151–02:1987
+PN-B-02151–02:1987/
+Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02170:2016–12 Ocena szkodliwości drgań przekazywanych przez podłoże na budynki PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 63 § 325 ust. 2 PN-B-02151–3:2015–10 Akustyka budowlana – Ochrona przed hałasem w budynkach – Część 3: Wymagania dotyczące izolacyjności akustycznej przegród w budynkach i elementów budowlanych 64 § 326 ust. 1 PN-B-02151–02:1987
+PN-B-02151–02:1987/
+Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02156:1987 Akustyka budowlana – Metody pomiaru dźwięku A w budynkach PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 65 § 326 ust. 2 PN-EN ISO 140–4:2000 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary terenowe izolacyjności od dźwięków powietrznych między pomieszczeniami PN-EN ISO 140–5:1999 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary terenowe izolacyjności akustycznej od dźwięków powietrznych ściany zewnętrznej i jej elementów PN-EN ISO 140–6:1999 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary laboratoryjne izolacyjności od dźwięków uderzeniowych stropów PN-EN ISO 140–7:2000 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary terenowe izolacyjności od dźwięków uderzeniowych stropów PN-EN ISO 140–8:1999 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary laboratoryjne tłumienia dźwięków uderzeniowych przez podłogi na masywnym stropie wzorcowym PN-EN ISO 10848–2:2007 Akustyka – Pomiary laboratoryjne przenoszenia bocznego dźwięków powietrznych i uderzeniowych pomiędzy przylegającymi komorami – Część 2: Dotyczy lekkich elementów w przypadku małego wpływu złącza PN-EN 20140–3:1999
+PN-EN
+20140–3:1999/A1:2007 Akustyka – Pomiar izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary laboratoryjne izolacyjności od dźwięków powietrznych elementów budowlanych PN-EN ISO 10848–2:2007 Akustyka – Pomiary laboratoryjne przenoszenia bocznego dźwięków powietrznych i uderzeniowych pomiędzy przylegającymi komorami – Część 2: Dotyczy lekkich elementów w przypadku małego wpływu złącza PN-EN 20140–10:1994 Akustyka – Pomiary izolacyjności akustycznej w budynkach i izolacyjności akustycznej elementów budowlanych – Pomiary laboratoryjne izolacyjności od dźwięków powietrznych małych elementów budowlanych 66 § 326 ust. 3 PN-B-02151–3:2015–10 Akustyka budowlana – Ochrona przed hałasem w budynkach – Część 3: Wymagania dotyczące izolacyjności akustycznej przegród w budynkach i elementów budowlanych 67 § 326 ust. 4 PN-B-02151–02:1987
+PN-B-02151–02:1987/
+Ap1:2015–05 Akustyka budowlana – Ochrona przed hałasem pomieszczeń w budynkach – Dopuszczalne wartości poziomu dźwięku w pomieszczeniach PN-B-02156:1987 Akustyka budowlana – Metody pomiaru dźwięku A w budynkach PN-B-02171:2017–06 Ocena wpływu drgań na ludzi w budynkach 68 § 326 ust. 5 PN-EN ISO 354:2005 Akustyka – Pomiar pochłaniania dźwięku w komorze pogłosowej 69 Załącznik nr 2
+pkt 1.1. i 1.4. PN-EN ISO 6946 Komponenty budowlane i elementy budynku – Opór cieplny i współczynnik przenikania ciepła – Metoda obliczania
+Cieplne właściwości użytkowe budynków – Przenoszenie ciepła przez grunt – Metody obliczania PN-EN ISO 13370 70 Załącznik nr 2
+pkt 2.2.1., 2.2.2., 2.2.3. ppkt 1 i pkt 2.2.4. PN-EN ISO 13788:2013–05 Cieplno-wilgotnościowe właściwości komponentów budowlanych i elementów budynku – Temperatura powierzchni wewnętrznej konieczna do uniknięcia krytycznej wilgotności powierzchni i kondensacji międzywarstwowej – Metody obliczania 71 Załącznik nr 2
+pkt 2.2.3. ppkt 2 PN-EN ISO 10211 Mostki cieplne w budynkach – Strumienie ciepła i temperatury powierzchni – Obliczenia szczegółowe 72 Załącznik nr 2
+pkt 2.3.2. PN-EN 12207:2001 Okna i drzwi – Przepuszczalność powietrza – Klasyfikacja 73 Załącznik nr 2
+pkt 2.3.4. PN-EN 13829:2002 Właściwości cieplne budynków – Określanie przepuszczalności powietrznej budynków – Metoda pomiaru ciśnieniowego z użyciem wentylatora 74 Załącznik nr 3 PN-ENV 1187:2004
+PN-ENV
+1187:2004/A1:2007 Metody badań oddziaływania ognia zewnętrznego na dachy PN-EN 13501–1+A1 Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 1: Klasyfikacja na podstawie wyników badań reakcji na ogień *) Polskie Normy projektowania wprowadzające europejskie normy projektowania konstrukcji – Eurokody, zatwierdzone i opublikowane w języku polskim, są stosowane do projektowania konstrukcji, jeżeli obejmują one wszystkie niezbędne aspekty związane z zaprojektowaniem tej konstrukcji (stanowią kompletny zestaw norm umożliwiający projektowanie). Projektowanie każdego rodzaju konstrukcji wymaga stosowania PN-EN 1990 i PN-EN 1991.
+**) W przypadku gdy przywołano niedatowaną Polską Normę, należy stosować najnowszą normę opublikowaną w języku polskim.
 
 ## Załącznik nr 2 — – Wymagania izolacyjności cieplnej i inne wymagania związane z oszczędnością energii
 
 1.
 Izolacyjność cieplna przegród
 1.1.
-Wartości współczynnika przenikania ciepła Uc ścian, dachów, stropów i stropodachów dla wszystkich rodzajów budynków, uwzględniające poprawki ze względu na pustki powietrzne w warstwie izolacji, łączniki mechaniczne przechodzące przez warstwę izolacyjną oraz opady na dach o odwróconym układzie warstw, obliczone zgodnie z Polskimi Normami dotyczącymi obliczania oporu cieplnego i współczynnika przenikania ciepła oraz przenoszenia ciepła przez grunt, nie mogą być większe niż wartości UC(max) określone w poniższej tabeli: Lp. Rodzaj przegrody i temperatura w pomieszczeniu Współczynnik przenikania ciepła UC(max) [W/(m2 · K)] od 1 stycznia 2017 r. od 31 grudnia 2020 r.*) 1 2 3 1 Ściany zewnętrzne: a) przy ti > 16°C 0,23 0,20 b) przy 8°C < ti < 16°C 0,45 0,45 c) przy ti < 8°C 0,90 0,90 2 Ściany wewnętrzne: a) przy ∆ti > 8°C oraz oddzielające pomieszczenia ogrzewane od klatek schodowych i korytarzy 1,00 1,00 b) przy ∆ti < 8°C bez wymagań bez wymagań c) oddzielające pomieszczenie ogrzewane od nieogrzewanego 0,30 0,30 3 Ściany przyległe do szczelin dylatacyjnych o szerokości: a) do 5 cm, trwale zamkniętych i wypełnionych izolacją cieplną na głębokości co najmniej 20 cm 1,00 1,00 b) powyżej 5 cm, niezależnie od przyjętego sposobu zamknięcia i zaizolowania szczeliny 0,70 0,70 4 Ściany nieogrzewanych kondygnacji podziemnych bez wymagań bez wymagań 5 Dachy, stropodachy i stropy pod nieogrzewanymi poddaszami lub nad przejazdami: a) przy ti ≥ 16°C 0,18 0,15 b) przy 8°C ≤ ti < 16°C 0,30 0,30 c) przy ti < 8°C 0,70 0,70 6 Podłogi na gruncie: a) przy t ≥ 16°C 0,30 0,30 b) przy 8°C ≤ ti < 16°C 1,20 1,20 c) przy ti < 8°C 1,50 1,50 7 Stropy nad pomieszczeniami nieogrzewanymi i zamkniętymi przestrzeniami podpodłogowymi: a) przy ti ≥ 16°C 0,25 0,25 b) przy 8°C ≤ ti < 16°C 0,30 0,30 c) przy ti < 8°C 1,00 1,00 8 Stropy nad ogrzewanymi pomieszczeniami podziemnymi i stropy międzykondygnacyjne: a) przy ∆ti ≥ 8°C 1,00 1,00 b) przy ∆ti < 8°C bez wymagań bez wymagań c) oddzielające pomieszczenie ogrzewane od nieogrzewanego 0,25 0,25 Pomieszczenie ogrzewane – pomieszczenie, w którym na skutek działania systemu ogrzewania lub w wyniku bilansu strat i zysków ciepła utrzymywana jest temperatura, której wartość została określona w § 134 ust. 2 rozporządzenia. ti – temperatura pomieszczenia ogrzewanego zgodnie z § 134 ust. 2 rozporządzenia. *) Od 1 stycznia 2019 r. – w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością.
+Wartości współczynnika przenikania ciepła Uc ścian, dachów, stropów i stropodachów dla wszystkich rodzajów budynków, uwzględniające poprawki ze względu na pustki powietrzne w warstwie izolacji, łączniki mechaniczne przechodzące przez warstwę izolacyjną oraz opady na dach o odwróconym układzie warstw, obliczone zgodnie z Polskimi Normami dotyczącymi obliczania oporu cieplnego i współczynnika przenikania ciepła oraz przenoszenia ciepła przez grunt, nie mogą być większe niż wartości UC(max) określone w poniższej tabeli:
+Lp. Rodzaj przegrody i temperatura w pomieszczeniu Współczynnik przenikania ciepła UC(max) [W/(m2 · K)] od 1 stycznia 2017 r. od 31 grudnia 2020 r.*) 1 2 3 1 Ściany zewnętrzne: a) przy ti > 16°C 0,23 0,20 b) przy 8°C < ti < 16°C 0,45 0,45 c) przy ti < 8°C 0,90 0,90 2 Ściany wewnętrzne: a) przy ∆ti > 8°C oraz oddzielające pomieszczenia ogrzewane od klatek schodowych i korytarzy 1,00 1,00 b) przy ∆ti < 8°C bez wymagań bez wymagań c) oddzielające pomieszczenie ogrzewane od nieogrzewanego 0,30 0,30 3 Ściany przyległe do szczelin dylatacyjnych o szerokości: a) do 5 cm, trwale zamkniętych i wypełnionych izolacją cieplną na głębokości co najmniej 20 cm 1,00 1,00 b) powyżej 5 cm, niezależnie od przyjętego sposobu zamknięcia i zaizolowania szczeliny 0,70 0,70 4 Ściany nieogrzewanych kondygnacji podziemnych bez wymagań bez wymagań 5 Dachy, stropodachy i stropy pod nieogrzewanymi poddaszami lub nad przejazdami: a) przy ti ≥ 16°C 0,18 0,15 b) przy 8°C ≤ ti < 16°C 0,30 0,30 c) przy ti < 8°C 0,70 0,70 6 Podłogi na gruncie: a) przy t ≥ 16°C 0,30 0,30 b) przy 8°C ≤ ti < 16°C 1,20 1,20 c) przy ti < 8°C 1,50 1,50 7 Stropy nad pomieszczeniami nieogrzewanymi i zamkniętymi przestrzeniami podpodłogowymi: a) przy ti ≥ 16°C 0,25 0,25 b) przy 8°C ≤ ti < 16°C 0,30 0,30 c) przy ti < 8°C 1,00 1,00 8 Stropy nad ogrzewanymi pomieszczeniami podziemnymi i stropy międzykondygnacyjne: a) przy ∆ti ≥ 8°C 1,00 1,00 b) przy ∆ti < 8°C bez wymagań bez wymagań c) oddzielające pomieszczenie ogrzewane od nieogrzewanego 0,25 0,25 Pomieszczenie ogrzewane – pomieszczenie, w którym na skutek działania systemu ogrzewania lub w wyniku bilansu strat i zysków ciepła utrzymywana jest temperatura, której wartość została określona w § 134 ust. 2 rozporządzenia. ti – temperatura pomieszczenia ogrzewanego zgodnie z § 134 ust. 2 rozporządzenia. *) Od 1 stycznia 2019 r. – w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością.
 1.2.
-Wartości współczynnika przenikania ciepła U okien, drzwi balkonowych, drzwi zewnętrznych i powierzchni przezroczystych nieotwieralnych, dla wszystkich rodzajów budynków, nie mogą być większe niż wartości U(max) określone w poniższej tabeli: Lp. Okna, drzwi balkonowe i drzwi zewnętrzne Współczynnik przenikania ciepła U(max) [W/(m2 · K)] od 1 stycznia 2017 r. od 31 grudnia 2020 r.*) 1 2 3 1 Okna (z wyjątkiem okien połaciowych), drzwi balkonowe i powierzchnie przezroczyste nieotwieralne: a) przy ti ≥ 16°C 1,1 0,9 b) przy ti < 16°C 1,6 1,4 2 Okna połaciowe: a) przy ti ≥ 16°C 1,3 1,1 b) przy ti < 16°C 1,6 1,4 3 Okna w ścianach wewnętrznych: a) przy ∆ti ≥ 8°C 1,3 1,1 b) przy ∆ti < 8°C bez wymagań bez wymagań c) oddzielające pomieszczenie ogrzewane od nieogrzewanego 1,3 1,1 4 Drzwi w przegrodach zewnętrznych lub w przegrodach między pomieszczeniami ogrzewanymi i nieogrzewanymi 1,5 1,3 5 Okna i drzwi zewnętrzne w przegrodach zewnętrznych pomieszczeń nieogrzewanych bez wymagań bez wymagań Pomieszczenie ogrzewane – pomieszczenie, w którym na skutek działania systemu ogrzewania lub w wyniku bilansu strat i zysków ciepła utrzymywana jest temperatura, której wartość została określona w § 134 ust. 2 rozporządzenia. ti – temperatura pomieszczenia ogrzewanego zgodnie z § 134 ust. 2 rozporządzenia. *) Od 1 stycznia 2019 r. – w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością.
+Wartości współczynnika przenikania ciepła U okien, drzwi balkonowych, drzwi zewnętrznych i powierzchni przezroczystych nieotwieralnych, dla wszystkich rodzajów budynków, nie mogą być większe niż wartości U(max) określone w poniższej tabeli:
+Lp. Okna, drzwi balkonowe i drzwi zewnętrzne Współczynnik przenikania ciepła U(max) [W/(m2 · K)] od 1 stycznia 2017 r. od 31 grudnia 2020 r.*) 1 2 3 1 Okna (z wyjątkiem okien połaciowych), drzwi balkonowe i powierzchnie przezroczyste nieotwieralne: a) przy ti ≥ 16°C 1,1 0,9 b) przy ti < 16°C 1,6 1,4 2 Okna połaciowe: a) przy ti ≥ 16°C 1,3 1,1 b) przy ti < 16°C 1,6 1,4 3 Okna w ścianach wewnętrznych: a) przy ∆ti ≥ 8°C 1,3 1,1 b) przy ∆ti < 8°C bez wymagań bez wymagań c) oddzielające pomieszczenie ogrzewane od nieogrzewanego 1,3 1,1 4 Drzwi w przegrodach zewnętrznych lub w przegrodach między pomieszczeniami ogrzewanymi i nieogrzewanymi 1,5 1,3 5 Okna i drzwi zewnętrzne w przegrodach zewnętrznych pomieszczeń nieogrzewanych bez wymagań bez wymagań Pomieszczenie ogrzewane – pomieszczenie, w którym na skutek działania systemu ogrzewania lub w wyniku bilansu strat i zysków ciepła utrzymywana jest temperatura, której wartość została określona w § 134 ust. 2 rozporządzenia. ti – temperatura pomieszczenia ogrzewanego zgodnie z § 134 ust. 2 rozporządzenia. *) Od 1 stycznia 2019 r. – w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością.
 1.3.
 Dopuszcza się dla budynku produkcyjnego, magazynowego i gospodarczego większe wartości współczynnika U niż UC(max) oraz U(max) określone w pkt 1.1. i 1.2., jeżeli uzasadnia to rachunek efektywności ekonomicznej inwestycji, obejmujący koszty budowy i eksploatacji budynku.
 1.4.
 W budynku mieszkalnym, zamieszkania zbiorowego, użyteczności publicznej, produkcyjnym, magazynowym i gospodarczym podłoga na gruncie w ogrzewanym pomieszczeniu powinna mieć izolację cieplną obwodową z materiału izolacyjnego w postaci warstwy o oporze cieplnym co najmniej 2,0 (m2 · K) /W, przy czym opór cieplny warstw podłogowych oblicza się zgodnie z Polskimi Normami, o których mowa w pkt 1.1.
 1.5.
-Izolacja cieplna przewodów rozdzielczych i komponentów w instalacjach centralnego ogrzewania, ciepłej wody użytkowej (w tym przewodów cyrkulacyjnych), instalacji chłodu i ogrzewania powietrznego powinna spełniać następujące wymagania minimalne określone w poniższej tabeli: Lp. Rodzaj przewodu lub komponentu Minimalna grubość izolacji cieplnej (materiał o współczynniku przewodzenia ciepła λ = 0,035[W/(m · K)]1)) 1 2 3 1 Średnica wewnętrzna do 22 mm 20 mm 2 Średnica wewnętrzna od 22 do 35 mm 30 mm 3 Średnica wewnętrzna od 35 do 100 mm równa średnicy wewnętrznej rury 4 Średnica wewnętrzna ponad 100 mm 100 mm 5 Przewody i armatura wg lp. 1–4 przechodzące przez ściany lub stropy, skrzyżowania przewodów 50% wymagań z lp. 1–4 6 Przewody ogrzewań centralnych, przewody wody ciepłej i cyrkulacji instalacji ciepłej wody użytkowej wg lp. 1–4, ułożone w komponentach budowlanych między ogrzewanymi pomieszczeniami różnych użytkowników 50% wymagań z lp. 1–4 7 Przewody wg lp. 6 ułożone w podłodze 6 mm 8 Przewody ogrzewania powietrznego (ułożone w części ogrzewanej budynku) 40 mm 9 Przewody ogrzewania powietrznego (ułożone w części nieogrzewanej budynku) 80 mm 10 Przewody instalacji wody lodowej prowadzone wewnątrz budynku2) 50% wymagań z lp. 1–4 11 Przewody instalacji wody lodowej prowadzone na zewnątrz budynku2) 100% wymagań z lp. 1–4 Uwaga:1) Przy zastosowaniu materiału izolacyjnego o innym współczynniku przewodzenia ciepła niż podany w tabeli – należy skorygować grubość warstwy izolacyjnej.2) Izolacja cieplna wykonana jako powietrznoszczelna.
+Izolacja cieplna przewodów rozdzielczych i komponentów w instalacjach centralnego ogrzewania, ciepłej wody użytkowej (w tym przewodów cyrkulacyjnych), instalacji chłodu i ogrzewania powietrznego powinna spełniać następujące wymagania minimalne określone w poniższej tabeli:
+Lp. Rodzaj przewodu lub komponentu Minimalna grubość izolacji cieplnej (materiał o współczynniku przewodzenia ciepła λ = 0,035[W/(m · K)]1)) 1 2 3 1 Średnica wewnętrzna do 22 mm 20 mm 2 Średnica wewnętrzna od 22 do 35 mm 30 mm 3 Średnica wewnętrzna od 35 do 100 mm równa średnicy wewnętrznej rury 4 Średnica wewnętrzna ponad 100 mm 100 mm 5 Przewody i armatura wg lp. 1–4 przechodzące przez ściany lub stropy, skrzyżowania przewodów 50% wymagań z lp. 1–4 6 Przewody ogrzewań centralnych, przewody wody ciepłej i cyrkulacji instalacji ciepłej wody użytkowej wg lp. 1–4, ułożone w komponentach budowlanych między ogrzewanymi pomieszczeniami różnych użytkowników 50% wymagań z lp. 1–4 7 Przewody wg lp. 6 ułożone w podłodze 6 mm 8 Przewody ogrzewania powietrznego (ułożone w części ogrzewanej budynku) 40 mm 9 Przewody ogrzewania powietrznego (ułożone w części nieogrzewanej budynku) 80 mm 10 Przewody instalacji wody lodowej prowadzone wewnątrz budynku2) 50% wymagań z lp. 1–4 11 Przewody instalacji wody lodowej prowadzone na zewnątrz budynku2) 100% wymagań z lp. 1–4 Uwaga:
+1) Przy zastosowaniu materiału izolacyjnego o innym współczynniku przewodzenia ciepła niż podany w tabeli – należy skorygować grubość warstwy izolacyjnej.
+2) Izolacja cieplna wykonana jako powietrznoszczelna.
 2.
 Inne wymagania związane z oszczędnością energii
 2.1.
@@ -845,9 +785,11 @@ Okna
 2.1.1.
 We wszystkich rodzajach budynków współczynnik przepuszczalności energii całkowitej promieniowania słonecznego okien oraz przegród szklanych i przezroczystych g liczony według wzoru: g = fC · gn gdzie: gn – współczynnik całkowitej przepuszczalności energii promieniowania słonecznego dla typu oszklenia, fC – współczynnik redukcji promieniowania, ze względu na zastosowane urządzenia przeciwsłoneczne, w okresie letnim nie może być większy niż 0,35.
 2.1.2.
-Wartości współczynnika całkowitej przepuszczalności energii promieniowania słonecznego dla typu oszklenia gn należy przyjmować na podstawie deklaracji właściwości użytkowych okna. W przypadku braku danych wartość gn określa poniższa tabela: Lp. Typ oszklenia Współczynnik całkowitej przepuszczalności energii promieniowania słonecznego gn 1 2 3 1 Pojedynczo szklone 0,85 2 Podwójnie szklone 0,75 3 Podwójnie szklone z powłoką selektywną 0,67 4 Potrójnie szklone 0,7 5 Potrójnie szklone z powłoką selektywną 0,5 6 Okna podwójne 0,75
+Wartości współczynnika całkowitej przepuszczalności energii promieniowania słonecznego dla typu oszklenia gn należy przyjmować na podstawie deklaracji właściwości użytkowych okna. W przypadku braku danych wartość gn określa poniższa tabela:
+Lp. Typ oszklenia Współczynnik całkowitej przepuszczalności energii promieniowania słonecznego gn 1 2 3 1 Pojedynczo szklone 0,85 2 Podwójnie szklone 0,75 3 Podwójnie szklone z powłoką selektywną 0,67 4 Potrójnie szklone 0,7 5 Potrójnie szklone z powłoką selektywną 0,5 6 Okna podwójne 0,75
 2.1.3.
-Wartości współczynnika redukcji promieniowania ze względu na zastosowane urządzenia przeciwsłoneczne fC określa poniższa tabela: Lp. Typ zasłon Właściwości optyczne Współczynnik redukcji promieniowania fC współczynnik absorpcji współczynnik przepuszczalności osłona wewnętrzna osłona zewnętrzna 1 2 3 4 5 6 1 Białe żaluzje o lamelach nastawnych 0,1 0,05 0,25 0,10 0,1 0,30 0,15 0,3 0,45 0,35 2 Zasłony białe 0,1 0,5 0,65 0,55 0,7 0,80 0,75 0,9 0,95 0,95 3 Zasłony kolorowe 0,3 0,1 0,42 0,17 0,3 0,57 0,37 0,5 0,77 0,57 4 Zasłony z powłoką aluminiową 0,2 0,05 0,20 0,08
+Wartości współczynnika redukcji promieniowania ze względu na zastosowane urządzenia przeciwsłoneczne fC określa poniższa tabela:
+Lp. Typ zasłon Właściwości optyczne Współczynnik redukcji promieniowania fC współczynnik absorpcji współczynnik przepuszczalności osłona wewnętrzna osłona zewnętrzna 1 2 3 4 5 6 1 Białe żaluzje o lamelach nastawnych 0,1 0,05 0,25 0,10 0,1 0,30 0,15 0,3 0,45 0,35 2 Zasłony białe 0,1 0,5 0,65 0,55 0,7 0,80 0,75 0,9 0,95 0,95 3 Zasłony kolorowe 0,3 0,1 0,42 0,17 0,3 0,57 0,37 0,5 0,77 0,57 4 Zasłony z powłoką aluminiową 0,2 0,05 0,20 0,08
 2.1.4.
 Pkt 2.1.1. nie stosuje się w odniesieniu do powierzchni pionowych oraz powierzchni nachylonych więcej niż 60 stopni do poziomu, skierowanych w kierunkach od północno-zachodniego do północno-wschodniego (kierunek północny +/- 45 stopni), okien chronionych przed promieniowaniem słonecznym elementem zacieniającym, spełniającym wymagania, o których mowa w pkt 2.1.1., oraz do okien o powierzchni mniejszej niż 0,5 m2.
 2.2.
@@ -888,11 +830,32 @@ Palność wyrobów budowlanych
 1.1.
 Stosowanym w rozporządzeniu określeniom: niepalny, niezapalny, trudno zapalny, łatwo zapalny, niekapiący, samogasnący, intensywnie dymiący (z wyłączeniem posadzek – w tym wykładzin podłogowych) odpowiadają klasy reakcji na ogień, zgodnie z Polską Normą PN-EN 13501–1 „Klasyfikacja ogniowa wyrobów budowlanych i elementów budynków – Część 1: klasyfikacja na podstawie badań reakcji na ogień”, zwaną dalej „Polską Normą PN-EN 13501–1”, podane w kolumnie 2 tabeli 1.
 Tabela 1
-Określenia dotyczące palności stosowane w rozporządzeniu Klasy reakcji na ogień zgodnie z Polską Normą PN-EN 13501–1 Niepalne A1;A2-s1, d0; A2-s2, d0; A2-s3, d0; A2-s1, d1; A2-s2, d1; A2-s3, d1;A2-s1, d2; A2-s2, d2; A2-s3, d2; niezapalne B-s1, d0; B-s2, d0; B-s3, d0;B-s1, d1; B-s2, d1; B-s3, d1;B-s1, d2; B-s2, d2; B-s3, d2; Palne trudno zapalne C-s1, d0;C-s2, d0;C-s3, d0;C-s1, d1;C-s2, d1;C-s3, d1;C-s1, d2;C-s2, d2;C-s3, d2;D-s1, d0; D-s1, d1; D-s1, d2; łatwo zapalne D-s2, d0; D-s3, d0;D-s2, d1; D-s3, d1;D-s2, d2; D-s3, d2;E-d2; E;F Niekapiące A1;A2-s1, d0; A2-s2, d0; A2-s3, d0;B-s1, d0; B-s2, d0; B-s3, d0;C-s1, d0;C-s2, d0;C-s3, d0;D-s1, d0; D-s2, d0; D-s3, d0; Samogasnące co najmniej E Intensywnie dymiące A2-s3, d0; A2-s3, d1; A2-s3, d2;B-s3, d0; B-s3, d1; B-s3, d2;C-s3, d0;C-s3, d1;C-s3, d2;D-s3, d0; D-s3, d1; D-s3, d2;E-d2; E;F
+Określenia dotyczące palności stosowane w rozporządzeniu Klasy reakcji na ogień zgodnie z Polską Normą PN-EN 13501–1 Niepalne A1;
+A2-s1, d0; A2-s2, d0; A2-s3, d0; A2-s1, d1; A2-s2, d1; A2-s3, d1;
+A2-s1, d2; A2-s2, d2; A2-s3, d2; niezapalne B-s1, d0; B-s2, d0; B-s3, d0;
+B-s1, d1; B-s2, d1; B-s3, d1;
+B-s1, d2; B-s2, d2; B-s3, d2; Palne trudno zapalne C-s1, d0;C-s2, d0;C-s3, d0;
+C-s1, d1;C-s2, d1;C-s3, d1;
+C-s1, d2;C-s2, d2;C-s3, d2;
+D-s1, d0; D-s1, d1; D-s1, d2; łatwo zapalne D-s2, d0; D-s3, d0;
+D-s2, d1; D-s3, d1;
+D-s2, d2; D-s3, d2;
+E-d2; E;
+F Niekapiące A1;
+A2-s1, d0; A2-s2, d0; A2-s3, d0;
+B-s1, d0; B-s2, d0; B-s3, d0;
+C-s1, d0;C-s2, d0;C-s3, d0;
+D-s1, d0; D-s2, d0; D-s3, d0; Samogasnące co najmniej E Intensywnie dymiące A2-s3, d0; A2-s3, d1; A2-s3, d2;
+B-s3, d0; B-s3, d1; B-s3, d2;
+C-s3, d0;C-s3, d1;C-s3, d2;
+D-s3, d0; D-s3, d1; D-s3, d2;
+E-d2; E;
+F
 1.2.
 Stosowanym w rozporządzeniu określeniom: niepalny, niezapalny, trudno zapalny, intensywnie dymiący dotyczącym posadzek (w tym wykładzin podłogowych) odpowiadają klasy reakcji na ogień, zgodnie z Polską Normą PN-EN 13501–1, podane w kolumnie 2 tabeli 2.
 Tabela 2
-Określenia dotyczące palności stosowane w rozporządzeniu Klasy reakcji na ogień zgodnie z Polską Normą PN-EN 13501–1 Niepalne A1fl; A2fl -s1; A2fl -s2 Trudno zapalne Bfl -s1; Bfl -s2; Cfl -s1; Cfl -s2 Łatwo zapalne Dfl -s1; Dfl -s2; Efl; Ffl Intensywnie dymiące A2fl -s2; Bfl -s2; Cfl -s2; Dfl -s2; Efl; Ffl Uwaga: Stosowane w pkt 1.1. i 1.2. określenia odnoszą się także do wyrobów (materiałów) budowlanych uznanych za spełniające wymagania w zakresie reakcji na ogień, bez potrzeby prowadzenia badań, których wykazy zawarte są w decyzjach Komisji Europejskiej publikowanych w Dzienniku Urzędowym Unii Europejskiej.
+Określenia dotyczące palności stosowane w rozporządzeniu Klasy reakcji na ogień zgodnie z Polską Normą PN-EN 13501–1 Niepalne A1fl; A2fl -s1; A2fl -s2 Trudno zapalne Bfl -s1; Bfl -s2; Cfl -s1; Cfl -s2 Łatwo zapalne Dfl -s1; Dfl -s2; Efl; Ffl Intensywnie dymiące A2fl -s2; Bfl -s2; Cfl -s2; Dfl -s2; Efl; Ffl
+Uwaga: Stosowane w pkt 1.1. i 1.2. określenia odnoszą się także do wyrobów (materiałów) budowlanych uznanych za spełniające wymagania w zakresie reakcji na ogień, bez potrzeby prowadzenia badań, których wykazy zawarte są w decyzjach Komisji Europejskiej publikowanych w Dzienniku Urzędowym Unii Europejskiej.
 2.
 Rozprzestrzenianie ognia przez elementy budynku z wyłączeniem ścian zewnętrznych przy działaniu ognia z zewnątrz budynku
 2.1.
@@ -914,10 +877,11 @@ Nierozprzestrzeniającym ognia przekryciom dachów odpowiadają przekrycia:
 1)
 klasy BROOF (t1) badane zgodnie z Polską Normą PN-ENV 1187:2004 „Metody badań oddziaływania ognia zewnętrznego na dachy”; badanie 1.
 2)
-klasy BROOF, uznane za spełniające wymagania w zakresie odporności wyrobów na działanie ognia zewnętrznego, bez potrzeby przeprowadzenia badań, których wykazy zawarte są w decyzjach Komisji Europejskiej publikowanych w Dzienniku Urzędowym Unii Europejskiej.
-Warunki i kryteria techniczne dla przekryć klasy BROOF (t1), o których mowa w pkt 1, podano w tabeli 3.
+klasy BROOF, uznane za spełniające wymagania w zakresie odporności wyrobów na działanie ognia zewnętrznego, bez potrzeby przeprowadzenia badań, których wykazy zawarte są w decyzjach Komisji Europejskiej publikowanych w Dzienniku Urzędowym Unii Europejskiej. Warunki i kryteria techniczne dla przekryć klasy BROOF (t1), o których mowa w pkt 1, podano w tabeli 3.
 Tabela 3
-Grupy kryteriów Warunki i kryteria dla klasy BROOF (t1) (konieczne spełnienie wszystkich wymienionych poniżej) Grupa apowierzchniowe rozprzestrzenianie ognia zasięg zniszczenia (na zewnątrz i wewnątrz dachu) w górę dachu < 0,70 m zasięg zniszczenia (na zewnątrz i wewnątrz dachu) w dół dachu < 0,60 m maksymalny zasięg zniszczenia na skutek spalania (na zewnątrz i wewnątrz dachu) < 0,80 m brak palących się materiałów (kropli lub odpadów stałych) spadających od strony eksponowanej boczny zasięg ognia nie osiąga krawędzi mierzonej strefy (pasa) maksymalny zasięg (promień) zniszczenia na dachach płaskich (na zewnątrz i wewnątrz dachu) < 0,20 m Grupa bpenetracja ognia do wewnątrz budynku brak palących się lub żarzących się cząstek penetrujących konstrukcję dachu brak pojedynczych otworów przelotowych o powierzchni > 25 mm2 suma powierzchni wszystkich otworów przelotowych < 4500 mm2 brak wewnętrznego spalania w postaci żarzenia
+Grupy kryteriów Warunki i kryteria dla klasy BROOF (t1) (konieczne spełnienie wszystkich wymienionych poniżej) Grupa a
+powierzchniowe rozprzestrzenianie ognia zasięg zniszczenia (na zewnątrz i wewnątrz dachu) w górę dachu < 0,70 m zasięg zniszczenia (na zewnątrz i wewnątrz dachu) w dół dachu < 0,60 m maksymalny zasięg zniszczenia na skutek spalania (na zewnątrz i wewnątrz dachu) < 0,80 m brak palących się materiałów (kropli lub odpadów stałych) spadających od strony eksponowanej boczny zasięg ognia nie osiąga krawędzi mierzonej strefy (pasa) maksymalny zasięg (promień) zniszczenia na dachach płaskich (na zewnątrz i wewnątrz dachu) < 0,20 m Grupa b
+penetracja ognia do wewnątrz budynku brak palących się lub żarzących się cząstek penetrujących konstrukcję dachu brak pojedynczych otworów przelotowych o powierzchni > 25 mm2 suma powierzchni wszystkich otworów przelotowych < 4500 mm2 brak wewnętrznego spalania w postaci żarzenia
 4.2.
 Przekrycia dachów spełniające kryteria grupy b i niespełniające jednego lub więcej kryteriów grupy a klasyfikuje się jako słabo rozprzestrzeniające ogień.
 4.3.

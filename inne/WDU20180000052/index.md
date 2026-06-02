@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 4 stycznia 2018 r. zmieniające rozporządzenie w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 4 stycznia 2018 r. zmieniające rozporządzenie w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020 Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-04 |
 | Data wydania | 2018-01-10 |
-| Wejście w życie | 2018-01-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000052) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/52/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460, 1475 i 2433) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 28 sierpnia 2015 r. w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 1364) w § 8 ust. 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 28 sierpnia 2015 r. w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 1364) w § 8 ust. 2 otrzymuje brzmienie: „
 2.
-W przypadku pomocy nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 53 ust. 8 rozporządzenia nr 651/2014.
-” .
+W przypadku pomocy nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 53 ust. 8 rozporządzenia nr 651/2014. ” .
 § 2.
 1.
 Do umów zawartych i decyzji o dofinansowaniu projektu podjętych przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie których udzielono pomocy, stosuje się przepisy dotychczasowe.
@@ -42,6 +39,5 @@ Do wniosków o udzielenie pomocy złożonych przed dniem wejścia w życie ninie
 3.
 Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, uzupełnia się na wezwanie podmiotu udzielającego pomocy w terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od dnia otrzymania wezwania.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 

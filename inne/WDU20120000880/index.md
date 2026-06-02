@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-24 |
 | Data wydania | 2012-08-02 |
-| Wejście w życie | 2012-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000880) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/880/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 14 ust. 4 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. Nr 123, poz. 1353, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 14 ust. 4 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. Nr 123, poz. 1353, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676 i Nr 89, poz. 804, z 2003 r. Nr 113, poz. 1070 i Nr 139, poz. 1326, z 2004 r. Nr 116, poz. 1203, Nr 171, poz. 1800 i Nr 273, poz. 2703, z 2006 r. Nr 104, poz. 711, z 2007 r. Nr 176, poz. 1242, z 2009 r. Nr 85, poz. 716, Nr 157, poz. 1241 i Nr 190, poz. 1474, z 2010 r. Nr 113, poz. 745 i Nr 182, poz. 1228, z 2011 r. Nr 53, poz. 273 oraz z 2012 r. poz. 627.) zarządza się, co następuje:
 § 1.
 Współdziałanie Żandarmerii Wojskowej ze Służbą Kontrwywiadu Wojskowego, Służbą Wywiadu Wojskowego, wojskowymi organami porządkowymi oraz dowódcami jednostek wojskowych i dowódcami (komendantami) garnizonów organizują właściwi miejscowo komendanci jednostek organizacyjnych Żandarmerii Wojskowej, współdziałając z dyrektorami (kierownikami) jednostek organizacyjnych Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego, dowódcami jednostek wojskowych oraz dowódcami (komendantami) garnizonów.
 § 2.
@@ -98,5 +97,5 @@ uzgadniania szczegółów organizacyjnych i technicznych wspólnych przedsięwzi
 § 5.
 Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 14 grudnia 2001 r. w sprawie zakresu i trybu współdziałania Żandarmerii Wojskowej z Wojskowymi Służbami Informacyjnymi, wojskowymi organami porządkowymi oraz z dowódcami jednostek wojskowych i dowódcami (komendantami) garnizonów (Dz. U. Nr 157, poz. 1849).
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676 i Nr 89, poz. 804, z 2003 r. Nr 113, poz. 1070 i Nr 139, poz. 1326, z 2004 r. Nr 116, poz. 1203, Nr 171, poz. 1800 i Nr 273, poz. 2703, z 2006 r. Nr 104, poz. 711, z 2007 r. Nr 176, poz. 1242, z 2009 r. Nr 85, poz. 716, Nr 157, poz. 1241 i Nr 190, poz. 1474, z 2010 r. Nr 113, poz. 745 i Nr 182, poz. 1228, z 2011 r. Nr 53, poz. 273 oraz z 2012 r. poz. 627.
 

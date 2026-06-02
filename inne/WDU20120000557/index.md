@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-27 |
 | Data wydania | 2012-05-21 |
-| Wejście w życie | 2012-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000557) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/557/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 46 ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 46 ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496 oraz z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa:
@@ -167,5 +166,5 @@ Roczne plany kontroli specjalistycznych uzbrojonych formacji ochronnych, zatwier
 § 12.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 sierpnia 1998 r. w sprawie szczegółowych zasad wydawania upoważnień do kontroli oraz trybu wykonywania czynności nadzoru Komendanta Głównego Policji nad działalnością specjalistycznych uzbrojonych formacji ochronnych (Dz. U. Nr 116, poz. 752).
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, z 2008 r. Nr 171, poz. 1055 i Nr 180, poz. 1112, z 2009 r. Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278, Nr 182, poz. 1228 i Nr 229, poz. 1496 oraz z 2011 r. Nr 106, poz. 622, Nr 170, poz. 1015 i Nr 171, poz. 1016.
 

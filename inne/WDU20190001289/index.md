@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-11 |
 | Data wydania | 2019-07-11 |
-| Wejście w życie | 2019-07-12 |
 | Ostatnia zmiana | 2025-03-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001289) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1289/text.pdf) |
 
@@ -67,7 +66,7 @@ d)
 4)
 świadectwo dojrzałości, aneks do świadectwa dojrzałości oraz zaświadczenie o wynikach egzaminu maturalnego, o których mowa w art. 44zzl, art. 44zzo i art. 44zzp ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245 oraz z 2019 r. poz. 730 i 761);
 5)
-dokumenty, o których mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.), zwanej dalej „ustawą”:
+dokumenty, o których mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.), zwanej dalej „ustawą”:
 a)
 dyplom ukończenia studiów, o którym mowa w art. 77 ust. 1 ustawy,
 b)
@@ -97,7 +96,7 @@ zaświadczenie o prawie wykonywania zawodu lekarza weterynarii, o którym mowa w
 b)
 dyplom uzyskania tytułu specjalisty w dziedzinach weterynarii, o którym mowa w art. 3 ustawy;
 11)
-dowody rejestracyjne pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Służby Ochrony Państwa, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Krajowej Administracji Skarbowej wykorzystywane przez Służbę Celno-Skarbową, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.);
+dowody rejestracyjne pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Służby Ochrony Państwa, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Krajowej Administracji Skarbowej wykorzystywane przez Służbę Celno-Skarbową, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123 i 1180.);
 12)
 dyplom uzyskania tytułu specjalisty, o którym mowa w art. 16w ust. 7 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2019 r. poz. 537, 577 i 730);
 13)
@@ -117,7 +116,7 @@ legitymacja służbowa inspektora dozoru jądrowego, o której mowa w art. 65a u
 § 3.
 Dokumentami publicznymi kategorii trzeciej są:
 1)
-dokumenty, o których mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 58, z późn. zm.), zwanej dalej „ustawą”:
+dokumenty, o których mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 58, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60, 125, 690, 730, 1123 i 1180.), zwanej dalej „ustawą”:
 a)
 zezwolenie na wykonywanie zawodu przewoźnika drogowego, o którym mowa w art. 5 ust. 1 ustawy,
 b)
@@ -155,7 +154,7 @@ zezwolenie na wykonywanie przewozów okazjonalnych w międzynarodowym transporci
 r)
 zezwolenie na wykonywanie przewozów wahadłowych w międzynarodowym transporcie drogowym, o którym mowa w art. 18 ust. 2 ustawy;
 2)
-zaświadczenie na przewozy na potrzeby własne w międzynarodowym przewozie drogowym osób, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającym rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.);
+zaświadczenie na przewozy na potrzeby własne w międzynarodowym przewozie drogowym osób, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającym rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 178 z 10.07.2012, str. 4 oraz Dz. Urz. UE L 158 z 10.06.2013, str. 1.);
 3)
 świadectwo kierowcy, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącym zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72);
 4)
@@ -257,7 +256,7 @@ zaświadczenie stwierdzające charakter, okres i rodzaj działalności wykonywan
 11)
 świadectwo fitosanitarne dla roślin, produktów roślinnych lub przedmiotów wyprowadzanych z terytorium Rzeczypospolitej Polskiej do państw trzecich, o którym mowa w art. 18 ust. 1 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2019 r. poz. 972);
 12)
-Karta Dużej Rodziny, o której mowa w art. 1 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2017 r. poz. 1832, z późn. zm.);
+Karta Dużej Rodziny, o której mowa w art. 1 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2017 r. poz. 1832, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2161, z 2018 r. poz. 1544, 1669, 2383 i 2432 oraz z 2019 r. poz. 60 i 730.);
 13)
 legitymacja studencka, o której mowa w art. 74 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 14)
@@ -319,9 +318,9 @@ legitymacja członka Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej
 33)
 licencja doradcy restrukturyzacyjnego, o której mowa w art. 16 ustawy z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego (Dz. U. z 2016 r. poz. 883 oraz z 2019 r. poz. 55, 730 i 912);
 34)
-dokument potwierdzający przysługujące uprawnienia osoby poszkodowanej poza granicami państwa, o którym mowa w art. 47b ust. 1 i 1a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.);
+dokument potwierdzający przysługujące uprawnienia osoby poszkodowanej poza granicami państwa, o którym mowa w art. 47b ust. 1 i 1a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730, 752 i 1078.);
 35)
 legitymacja służbowa strażnika Państwowej Straży Rybackiej, o której mowa w art. 26 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2018 r. poz. 1476 oraz z 2019 r. poz. 125 i 730).
 § 4.
-Rozporządzenie wchodzi w życie z dniem 12 lipca 2019 r., z wyjątkiem § 3 pkt 14 lit. d, który wchodzi w życie z dniem 1 września 2019 r.
+Rozporządzenie wchodzi w życie z dniem 12 lipca 2019 r., z wyjątkiem § 3 pkt 14 lit. d, który wchodzi w życie z dniem 1 września 2019 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123 i 1180. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60, 125, 690, 730, 1123 i 1180. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 178 z 10.07.2012, str. 4 oraz Dz. Urz. UE L 158 z 10.06.2013, str. 1. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2161, z 2018 r. poz. 1544, 1669, 2383 i 2432 oraz z 2019 r. poz. 60 i 730. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730, 752 i 1078.
 

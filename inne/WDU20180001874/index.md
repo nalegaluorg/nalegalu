@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 września 2018 r. w sprawie wymogów technicznych infrastruktury sektorów na stadionie, na których są udostępniane miejsca stojące
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 września 2018 r. w sprawie wymogów technicznych infrastruktury sektorów na stadionie, na których są udostępniane miejsca stojące Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-20 |
 | Data wydania | 2018-10-02 |
-| Wejście w życie | 2018-10-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001874) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1874/text.pdf) |
 
@@ -52,6 +51,5 @@ W celu zapewnienia płynnego przemieszczania się osób podczas zapełniania i o
 5.
 Barier bezpieczeństwa nie montuje się przed pierwszym rzędem miejsc w sektorze, który znajduje się na poziomie płyty boiska lub z którego w przypadku prowadzenia ewakuacji jest możliwy dostęp do płyty boiska.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

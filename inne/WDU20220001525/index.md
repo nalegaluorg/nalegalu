@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 14 listopada 2014 r. w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego (Dz. U. poz. 1624), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającym rozporządzenie w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego (Dz. U. poz. 1180).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającego rozporządzenie w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego (Dz. U. poz. 1180), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającego rozporządzenie w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego (Dz. U. poz. 1180), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
-” .
-Załącznik – Rozporządzenie Ministra Finansów z dnia 14 listopada 2014 r. w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r. ” .
+Załącznik – Rozporządzenie Ministra Finansów z dnia 14 listopada 2014 r. w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnegoMinister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 Na podstawie art. 98 ust. 1 pkt 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137, 1301 i 1488) zarządza się, co następuje:
 § 1.
 Obowiązku składania zgłoszenia rejestracyjnego nie mają podatnicy:
@@ -66,19 +64,18 @@ k)
 dostawę towarów, dla której podatnikiem jest nabywca,
 l)
 pozostałe usługi świadczone na rzecz armatorów morskich lub innych podmiotów wykonujących przewozy środkami transportu morskiego służące bezpośrednim potrzebom środków transportu morskiego, rybołówstwa morskiego i statków ratowniczych morskich, o których mowa w art. 83 ust. 1 pkt 1 ustawy, lub ich ładunków,
-m)
+mW brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającego rozporządzenie w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego (Dz. U. poz. 1180), które weszło w życie z dniem 1 lipca 2021 r.)
 usługi świadczone na rzecz osób niebędących podatnikami, o których mowa w art. 28a ustawy, rozliczane w szczególnej procedurze, o której mowa w dziale XII rozdziale 6a i 7 ustawy,
-n)
+nDodana przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 wewnątrzwspólnotową sprzedaż na odległość towarów, które w momencie zakończenia wysyłki lub transportu znajdują się na terytorium kraju, rozliczaną w szczególnej procedurze, o której mowa w dziale XII rozdziale 6a ustawy,
-o)
+oDodana przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 dostawę towarów, o której mowa w art. 7a ust. 2 ustawy, dokonywaną przez podatnika ułatwiającego dostawy towarów, jeżeli wysyłka lub transport tych towarów rozpoczyna się i kończy na terytorium kraju, rozliczaną w szczególnej procedurze, o której mowa w dziale XII rozdziale 6a ustawy;
 2)
 zidentyfikowani jako podatnicy VAT – przewozy okazjonalne na podstawie art. 134a ust. 4 ustawy;
-3)
+3Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 dokonujący na terytorium kraju wyłącznie sprzedaży na odległość towarów importowanych, rozliczanej w szczególnej procedurze, o której mowa w dziale XII rozdziale 9 ustawy.
 § 2.
 Traci moc rozporządzenie Ministra Finansów z dnia 6 kwietnia 2004 r. w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego (Dz. U. poz. 558, z 2007 r. poz. 1808, z 2009 r. poz. 1762 oraz z 2011 r. poz. 228, 364 i 799).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającego rozporządzenie w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego (Dz. U. poz. 1180), które weszło w życie z dniem 1 lipca 2021 r. 3) Dodana przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającego rozporządzenie w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego (Dz. U. poz. 1180), które weszło w życie z dniem 1 lipca 2021 r. 3) Dodana przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 

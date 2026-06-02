@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-29 |
 | Data wydania | 2016-08-11 |
-| Wejście w życie | 2016-08-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1216/text.pdf) |
 
@@ -46,7 +45,7 @@ Oceny kwalifikacji dokonuje się na piśmie.
 2.
 Ocena kwalifikacji zawiera:
 1)
-dane dotyczące kandydata odnoszące się do przebiegu pracy zawodowej, obejmujące w szczególności informacje o rodzaju powierzonych zadań lub funkcji, odbytych delegacjach, o których mowa w art. 106 § 1–3 i § 6 w związku z art. 174 § 1 pkt 1 ustawy oraz art. 77 § 1–3a i art. 106zb § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.), a także szkoleniach, osiągnięciach naukowych i pracy dydaktycznej;
+dane dotyczące kandydata odnoszące się do przebiegu pracy zawodowej, obejmujące w szczególności informacje o rodzaju powierzonych zadań lub funkcji, odbytych delegacjach, o których mowa w art. 106 § 1–3 i § 6 w związku z art. 174 § 1 pkt 1 ustawy oraz art. 77 § 1–3a i art. 106zb § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1596 i 1781 oraz z 2016 r. poz. 147, 437, 633 i 960.), a także szkoleniach, osiągnięciach naukowych i pracy dydaktycznej;
 2)
 wskazanie akt, opinii prawnych, publikacji, aktów notarialnych lub innych dokumentów, na podstawie których jest dokonywana ocena;
 3)
@@ -138,5 +137,5 @@ Opis wyników pracy, o którym mowa w § 4 ust. 2 pkt 3, kandydata mającego tyt
 § 10.
 Do opisu wyników pracy, o którym mowa w § 4 ust. 2 pkt 3, kandydata zajmującego stanowisko prezesa lub wiceprezesa Prokuratorii Generalnej Skarbu Państwa stosuje się odpowiednio, stosownie do zawodu wykonywanego przed powołaniem na to stanowisko, przepisy § 5–9.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 23 grudnia 2015 r. w sprawie oceny kwalifikacji kandydatów na wolne stanowisko prokuratorskie (Dz. U. poz. 2226), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1596 i 1781 oraz z 2016 r. poz. 147, 437, 633 i 960. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 23 grudnia 2015 r. w sprawie oceny kwalifikacji kandydatów na wolne stanowisko prokuratorskie (Dz. U. poz. 2226), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

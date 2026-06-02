@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1983-11-22 |
 | Data wydania | 1983-11-26 |
-| Wejście w życie | 1983-11-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830630287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1983/287/text.pdf) |
 

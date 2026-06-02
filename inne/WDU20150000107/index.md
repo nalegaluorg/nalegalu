@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-16 |
 | Data wydania | 2015-01-21 |
-| Wejście w życie | 2015-01-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000107) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/107/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 19 ust. 1 pkt 3 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 19 ust. 1 pkt 3 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 805, 829 i 1635 oraz z 2014 r. poz. 897.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa rodzaje prac geodezyjnych i kartograficznych mających znaczenie dla obronności i bezpieczeństwa państwa oraz sposób współdziałania Głównego Geodety Kraju z Ministrem Obrony Narodowej w zakresie wykonywania tych prac, a także wzajemnego przekazywania materiałów.
 § 2.
@@ -62,5 +61,5 @@ Główny Geodeta Kraju i Minister Obrony Narodowej informują się wzajemnie do 
 2.
 Główny Geodeta Kraju i Minister Obrony Narodowej informują się wzajemnie do dnia 31 marca każdego roku o zakresie wykonania w roku poprzednim prac określonych w § 2.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 maja 2010 r. w sprawie rodzajów prac geodezyjnych i kartograficznych mających znaczenie dla obronności i bezpieczeństwa państwa oraz współdziałania Służby Geodezyjnej i Kartograficznej z jednostką organizacyjną Sztabu Generalnego Wojska Polskiego właściwą w sprawach geodezji i kartografii (Dz. U. Nr 109, poz. 718), które utraciło moc na podstawie art. 14 ustawy z dnia 5 czerwca 2014 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 897). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 805, 829 i 1635 oraz z 2014 r. poz. 897. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 maja 2010 r. w sprawie rodzajów prac geodezyjnych i kartograficznych mających znaczenie dla obronności i bezpieczeństwa państwa oraz współdziałania Służby Geodezyjnej i Kartograficznej z jednostką organizacyjną Sztabu Generalnego Wojska Polskiego właściwą w sprawach geodezji i kartografii (Dz. U. Nr 109, poz. 718), które utraciło moc na podstawie art. 14 ustawy z dnia 5 czerwca 2014 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 897).
 

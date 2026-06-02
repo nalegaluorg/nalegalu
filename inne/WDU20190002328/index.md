@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 21 listopada 2019 r. w sprawie organizacji oraz sposobu przeprowadzania konkursów dla uczniów publicznych szkół i placówek artystycznych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 21 listopada 2019 r. w sprawie organizacji oraz sposobu przeprowadzania konkursów dla uczniów publicznych szkół i placówek artystycznych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2254).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-21 |
 | Data wydania | 2019-11-28 |
-| Wejście w życie | 2019-11-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002328) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2328/text.pdf) |
 
@@ -33,8 +32,7 @@ Rozporządzenie określa organizację oraz sposób przeprowadzania konkursów ma
 1)
 publicznych szkół artystycznych, o których mowa w rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 26 maja 2017 r. w sprawie typów szkół artystycznych publicznych i niepublicznych (Dz. U. poz. 1125 oraz z 2018 r. poz. 2485),
 2)
-publicznych placówek artystycznych, o których mowa w art. 124 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.)
-zwanych dalej „szkołami artystycznymi”.
+publicznych placówek artystycznych, o których mowa w art. 124 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248.) – zwanych dalej „szkołami artystycznymi”.
 § 2.
 Ilekroć w rozporządzeniu jest mowa bez bliższego określenia o:
 1)
@@ -52,8 +50,7 @@ państwową instytucję kultury,
 d)
 fundację w rozumieniu ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2018 r. poz. 1491),
 e)
-stowarzyszenie w rozumieniu ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2019 r. poz. 713) wpisane do Krajowego Rejestru Sądowego
-prowadzące działalność kulturalną lub edukacyjną w zakresie odpowiadającym rodzajowi konkursu.
+stowarzyszenie w rozumieniu ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2019 r. poz. 713) wpisane do Krajowego Rejestru Sądowego – prowadzące działalność kulturalną lub edukacyjną w zakresie odpowiadającym rodzajowi konkursu.
 § 3.
 1.
 Konkursy są organizowane z obowiązkowych zajęć edukacyjnych artystycznych, objętych ramowym planem nauczania szkoły artystycznej.
@@ -204,6 +201,5 @@ W roku szkolnym 2019/2020 jednostka, o której mowa w niniejszym rozporządzeniu
 § 16.
 W roku szkolnym 2019/2020 organizator konkursu podaje do publicznej wiadomości na swojej stronie internetowej wykaz przeprowadzanych w tym roku szkolnym konkursów, w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2254). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 4 października 2011 r. w sprawie organizacji oraz sposobu przeprowadzania konkursów, turniejów i olimpiad dla uczniów publicznych szkół i placówek artystycznych (Dz. U. poz. 1346), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 169 ust. 3 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534, 1287 i 2248).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 4 października 2011 r. w sprawie organizacji oraz sposobu przeprowadzania konkursów, turniejów i olimpiad dla uczniów publicznych szkół i placówek artystycznych (Dz. U. poz. 1346), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 169 ust. 3 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534, 1287 i 2248). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2254). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 4 października 2011 r. w sprawie organizacji oraz sposobu przeprowadzania konkursów, turniejów i olimpiad dla uczniów publicznych szkół i placówek artystycznych (Dz. U. poz. 1346), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 169 ust. 3 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534, 1287 i 2248).
 

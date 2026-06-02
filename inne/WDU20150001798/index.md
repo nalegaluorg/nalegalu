@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-22 |
 | Data wydania | 2015-11-04 |
-| Wejście w życie | 2015-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001798) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1798/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31d ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2012 r. poz. 406, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31d ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2012 r. poz. 406, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 423 oraz z 2015 r. poz. 337 i 1505.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki ustalania:
 1)
@@ -133,5 +132,5 @@ Dodatek specjalny jest wypłacany w ramach posiadanych środków na wynagrodzeni
 4.
 Dodatek specjalny jest wypłacany w terminie wypłaty wynagrodzenia.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2015 r., z wyjątkiem § 3, który wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2015 r., z wyjątkiem § 3, który wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 3 października 2012 r. w sprawie wynagradzania pracowników instytucji kultury (Dz. U. poz. 1105), które traci moc z dniem 30 listopada 2015 r. w związku z wejściem w życie ustawy z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów (Dz. U. poz. 1505). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 423 oraz z 2015 r. poz. 337 i 1505. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 3 października 2012 r. w sprawie wynagradzania pracowników instytucji kultury (Dz. U. poz. 1105), które traci moc z dniem 30 listopada 2015 r. w związku z wejściem w życie ustawy z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów (Dz. U. poz. 1505).
 

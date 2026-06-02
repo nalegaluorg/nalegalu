@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-25 |
 | Data wydania | 2020-11-27 |
-| Wejście w życie | 2020-11-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2101/text.pdf) |
 
@@ -35,21 +34,17 @@ w § 13 w ust. 1 kropkę zastępuje się przecinkiem i dodaje się wyrazy „z z
 2)
 w § 15:
 a)
-ust. 10 otrzymuje brzmienie:
-„
+ust. 10 otrzymuje brzmienie: „
 10.
-Przekazywanie informacji niejawnych o klauzuli „poufne” lub wyższej pomiędzy elementami systemów teleinformatycznych odbywa się w strefie ochronnej, na podstawie wyników procesu szacowania ryzyka, o którym mowa w art. 49 ust. 1 ustawy.
-” ,
+Przekazywanie informacji niejawnych o klauzuli „poufne” lub wyższej pomiędzy elementami systemów teleinformatycznych odbywa się w strefie ochronnej, na podstawie wyników procesu szacowania ryzyka, o którym mowa w art. 49 ust. 1 ustawy. ” ,
 b)
-po ust. 10 dodaje się ust. 10a-10c w brzmieniu:
-„
+po ust. 10 dodaje się ust. 10a-10c w brzmieniu: „
 10a.
 Przetwarzanie informacji niejawnych o klauzuli „zastrzeżone” w systemach teleinformatycznych odbywa się w pomieszczeniu, zespole pomieszczeń lub obszarze wyposażonych w system kontroli dostępu, w warunkach uwzględniających wyniki procesu szacowania ryzyka, o którym mowa w art. 49 ust. 1 ustawy.
 10b.
 Przetwarzanie informacji niejawnych w części mobilnej zasobów systemu teleinformatycznego odbywa się na podstawie wyników procesu szacowania ryzyka, o którym mowa w art. 49 ust. 1 ustawy, w sposób określony w dokumentacji bezpieczeństwa systemu teleinformatycznego.
 10c.
-Zgodę na przetwarzanie informacji niejawnych, o których mowa w ust. 10a, poza strefami ochronnymi wydaje na wniosek kierownika jednostki organizującej system teleinformatyczny Minister Obrony Narodowej lub osoba przez niego upoważniona.
-” .
+Zgodę na przetwarzanie informacji niejawnych, o których mowa w ust. 10a, poza strefami ochronnymi wydaje na wniosek kierownika jednostki organizującej system teleinformatyczny Minister Obrony Narodowej lub osoba przez niego upoważniona. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

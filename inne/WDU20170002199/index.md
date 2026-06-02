@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 20 listopada 2017 r. w sprawie organizacji roku szkolnego w publicznych szkołach i placówkach artystycznych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 20 listopada 2017 r. w sprawie organizacji roku szkolnego w publicznych szkołach i placówkach artystycznych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-20 |
 | Data wydania | 2017-11-29 |
-| Wejście w życie | 2017-11-30 |
 | Ostatnia zmiana | 2025-02-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2199/text.pdf) |
 
@@ -89,6 +88,5 @@ Szkoła, o której mowa w ust. 1, ma obowiązek informowania rodziców o możliw
 § 6.
 W roku szkolnym 2017/2018 dyrektor szkoły informuje nauczycieli, uczniów oraz ich rodziców o dodatkowych dniach wolnych od zajęć dydaktyczno-wychowawczych, o których mowa w § 4 ust. 1, w terminie 14 dni od dnia wejścia w życie rozporządzenia.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 

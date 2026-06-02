@@ -37,17 +37,13 @@ rozporządzeniem Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającym
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 4 października 2019 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 1936 i 2559), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 4 października 2019 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 1936 i 2559), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 529), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 529), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 września 2021 r. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwości z dnia 29 listopada 2012 r. w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych
 Na podstawie art. 20 pkt 4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072) zarządza się, co następuje:
 § 1.
@@ -62,11 +58,11 @@ b)
 Sądowi Okręgowemu w Toruniu – sprawy z właściwości Sądu Okręgowego we Włocławku;
 3)
 w obszarze właściwości Sądu Apelacyjnego w Katowicach:
-a)
+aW tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2.)
 Sądowi Okręgowemu w Katowicach – sprawy z właściwości Sądu Okręgowego w Bielsku-Białej,
-a)
+aW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 529), które wejdzie w życie z dniem 1 września 2021 r.)
 Sądowi Okręgowemu w Katowicach – sprawy z właściwości Sądów Okręgowych w Bielsku-Białej i Sosnowcu,
-b)
+bW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 4 października 2019 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 1936 i 2559), które weszło w życie z dniem 1 lipca 2020 r.)
 Sądowi Okręgowemu w Gliwicach – sprawy z właściwości Sądów Okręgowych w Częstochowie i Rybniku;
 4)
 w obszarze właściwości Sądu Apelacyjnego w Krakowie – Sądowi Okręgowemu w Nowym Sączu – sprawy z właściwości Sądu Okręgowego w Tarnowie;
@@ -83,6 +79,5 @@ w obszarze właściwości Sądu Apelacyjnego w Szczecinie – Sądowi Okręgowem
 10)
 w obszarze właściwości Sądu Apelacyjnego we Wrocławiu – Sądowi Okręgowemu we Wrocławiu – sprawy z właściwości Sądów Okręgowych w Jeleniej Górze, Legnicy, Opolu i Świdnicy.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
-1) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2. 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 529), które wejdzie w życie z dniem 1 września 2021 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 4 października 2019 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 1936 i 2559), które weszło w życie z dniem 1 lipca 2020 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 21 lutego 2007 r. w sprawie ustalenia sądów okręgowych, którym przekazuje się rozpoznawanie spraw zgodności z prawdą oświadczeń lustracyjnych z obszarów właściwości innych sądów okręgowych (Dz. U. poz. 224 oraz z 2010 r. poz. 1183), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 20 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1192).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 21 lutego 2007 r. w sprawie ustalenia sądów okręgowych, którym przekazuje się rozpoznawanie spraw zgodności z prawdą oświadczeń lustracyjnych z obszarów właściwości innych sądów okręgowych (Dz. U. poz. 224 oraz z 2010 r. poz. 1183), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 20 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1192). 1) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2. 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 529), które wejdzie w życie z dniem 1 września 2021 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 4 października 2019 r. zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 1936 i 2559), które weszło w życie z dniem 1 lipca 2020 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 21 lutego 2007 r. w sprawie ustalenia sądów okręgowych, którym przekazuje się rozpoznawanie spraw zgodności z prawdą oświadczeń lustracyjnych z obszarów właściwości innych sądów okręgowych (Dz. U. poz. 224 oraz z 2010 r. poz. 1183), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 20 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1192).
 

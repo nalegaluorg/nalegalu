@@ -42,20 +42,16 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 1 sierpnia 2013 r. zmie
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 133, poz. 776), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 133, poz. 776), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 953), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 953), które stanowią: „
 § 2.
 Do postępowań w sprawie przyznania pomocy finansowej na realizację operacji objętych osią priorytetową 5 – Pomoc techniczna, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”, wszczętych przed dniem 1 października 2013 r., przepis § 3 ust. 2 rozporządzenia wymienionego w § 1 stosuje się w brzmieniu obowiązującym do dnia 1 października 2013 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 3 ust. 2 rozporządzenia wymienionego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, który wchodzi w życie z dniem 1 października 2013 r.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 października 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 3 ust. 2 rozporządzenia wymienionego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, który wchodzi w życie z dniem 1 października 2013 r. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 października 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”Minister Rolnictwa i Rozwoju Wsi kierował działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486).
 Na podstawie art. 19 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. Nr 72, poz. 619 i Nr 157, poz. 1241) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty i zwracania pomocy finansowej na realizację osi priorytetowej 5 – Pomoc techniczna, zwanej dalej „pomocą techniczną”, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”, zwanym dalej „programem operacyjnym”, w tym:
@@ -69,7 +65,7 @@ szczegółowe wymagania, jakim powinna odpowiadać umowa o dofinansowanie;
 koszty kwalifikowalne w ramach pomocy technicznej, stanowiące załącznik do rozporządzenia.
 § 2.
 1.
-Pomoc techniczną przyznaje się na realizację operacji w zakresie określonym w art. 46 ust. 1–3 rozporządzenia Rady (WE) nr 1198/2006 z dnia 27 lipca 2006 r. w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 223 z 15.08.2006, str. 1) następującym podmiotom realizującym program operacyjny:
+Pomoc techniczną przyznaje się na realizację operacji w zakresie określonym w art. 46 ust. 1–3 rozporządzenia Rady (WE) nr 1198/2006 z dnia 27 lipca 2006 r. w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 223 z 15.08.2006, str. 1)Utraciło moc z dniem 1 stycznia 2014 r. na mocy art. 128 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1); odesłania do uchylonego rozporządzenia należy traktować jako odesłania do powyższego rozporządzenia. następującym podmiotom realizującym program operacyjny:
 1)
 Ministerstwu Rolnictwa i Rozwoju Wsi;
 2)
@@ -89,7 +85,7 @@ Podmiotom, o których mowa w ust. 1 pkt 5, pomoc techniczną przyznaje się wył
 Pomoc techniczną przyznaje się w formie zwrotu kosztów kwalifikowalnych operacji:
 1)
 w wysokości do 100% tych kosztów;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 953), które weszło w życie z dniem 23 sierpnia 2013 r.)
 określonych w załączniku nr 1 do rozporządzenia;
 3)
 poniesionych:
@@ -99,21 +95,21 @@ b)
 od dnia wejścia w życie ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, zwanej dalej „ustawą” – w przypadku podmiotów, o których mowa w § 2 ust. 1 pkt 3–5,
 c)
 od dnia podpisania umowy, o której mowa w art. 5 ust. 2 ustawy – w przypadku instytucji pośredniczącej.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3; wszedł w życie z dniem 1 października 2013 r..
 W przypadku przyznania pomocy technicznej do kosztów kwalifikowalnych zalicza się również koszty poniesione przed dniem zawarcia umowy o dofinansowanie, lecz nie wcześniej niż 18 miesięcy przed dniem złożenia wniosku o dofinansowanie.
-3.
+3Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3..
 Pomoc techniczna jest przyznawana poszczególnym podmiotom realizującym program operacyjny „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” do wysokości limitu stanowiącego równowartość w złotych kwoty euro określonej w załączniku nr 2 do rozporządzenia.
-4.
-W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowlanych nie zostało uwzględnione w odrębnej ewidencji księgowej oraz w dokumentacji finansowo-księgowej, prowadzonych zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.), koszty te podlegają zwrotowi w wysokości określonej w ust. 1 pkt 1, pomniejszonej o 10%.
+4Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3..
+W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowlanych nie zostało uwzględnione w odrębnej ewidencji księgowej oraz w dokumentacji finansowo-księgowej, prowadzonych zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100.), koszty te podlegają zwrotowi w wysokości określonej w ust. 1 pkt 1, pomniejszonej o 10%.
 § 4.
 1.
 Pomoc techniczna przysługuje według kolejności złożenia wniosków o dofinansowanie.
-1a.
+1aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Wniosek o dofinansowanie składa się do dnia 31 marca 2015 r.
 2.
 Wniosek o dofinansowanie składa się począwszy od następnego dnia roboczego po dniu, w którym wzór wniosku został udostępniony na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa.
 3.
-Wniosek o dofinansowanie jest składany, w formie papierowej i na informatycznym nośniku danych, na formularzu opracowanym i udostępnionym przez instytucję zarządzającą, bezpośrednio w siedzibie instytucji pośredniczącej albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora wyznaczonego lub przesyłką kurierską.
+Wniosek o dofinansowanie jest składany, w formie papierowej i na informatycznym nośniku danych, na formularzu opracowanym i udostępnionym przez instytucję zarządzającą, bezpośrednio w siedzibie instytucji pośredniczącej albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora wyznaczonegoZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. lub przesyłką kurierską.
 4.
 Złożenie wniosku o dofinansowanie bezpośrednio w siedzibie instytucji pośredniczącej jest potwierdzane na piśmie. Potwierdzenie, które zawiera datę i godzinę wpływu wniosku, jest opatrzone pieczęcią instytucji pośredniczącej oraz podpisane przez osobę przyjmującą wniosek.
 5.
@@ -123,7 +119,7 @@ rejestrowaną – dniem złożenia wniosku jest data stempla pocztowego;
 2)
 kurierską – dniem złożenia wniosku jest dzień nadania tej przesyłki.
 § 5.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 Wniosek o dofinansowanie rozpatruje się w terminie 60 dni od dnia jego wpływu.
 2.
 W przypadku nierozpatrzenia wniosku w terminie, o którym mowa w ust. 1, instytucja pośrednicząca zawiadamia wnioskodawcę o przyczynach zwłoki, określając nowy termin rozpatrzenia wniosku, nie dłuższy niż 30 dni.
@@ -181,7 +177,7 @@ uzgodnionym z instytucją pośredniczącą przed upływem wyznaczonego w wezwani
 wyznaczonym przez instytucję pośredniczącą, nie dłuższym niż 14 dni od dnia, na który został wyznaczony poprzedni termin zawarcia umowy.
 6.
 W przypadku nieprzyznania pomocy technicznej na podstawie ust. 5 przepisy art. 14 ust. 4 i 5 ustawy stosuje się odpowiednio.
-§ 10.
+§ 10W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 133, poz. 776), które weszło w życie z dniem 13 lipca 2011 r..
 1.
 Umowa o dofinansowanie, poza postanowieniami określonymi w art. 15 ust. 1 ustawy:
 1)
@@ -212,13 +208,13 @@ Pięcioletni okres, którego dotyczą zobowiązania, o których mowa w ust. 1 pk
 1.
 Wniosek o płatność składa się, w formie papierowej i na informatycznym nośniku danych, na formularzu opracowanym przez instytucję zarządzającą i udostępnionym na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa oraz na stronie internetowej administrowanej przez instytucję pośredniczącą.
 2.
-Wniosek o płatność jest składany bezpośrednio w siedzibie instytucji pośredniczącej albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora wyznaczonego lub przesyłką kurierską. Do potwierdzenia złożenia wniosku o płatność przepisy § 4 ust. 4 i 5 stosuje się odpowiednio.
+Wniosek o płatność jest składany bezpośrednio w siedzibie instytucji pośredniczącej albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora wyznaczonegoZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. lub przesyłką kurierską. Do potwierdzenia złożenia wniosku o płatność przepisy § 4 ust. 4 i 5 stosuje się odpowiednio.
 3.
 Wniosek o płatność może dotyczyć płatności pośredniej. Wniosek składa się po zrealizowaniu danego etapu operacji, określonego w umowie o dofinansowanie.
 § 12.
 Do wniosku o płatność dołącza się:
 1)
-poświadczone za zgodność z oryginałem przez pracownika instytucji pośredniczącej lub pracownika beneficjenta kopie:
+poświadczone za zgodność z oryginałem przez pracownika instytucji pośredniczącej lub pracownika beneficjenta kopie:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 10.
 a)
 faktur lub dokumentów księgowych o równoważnej wartości dowodowej wraz z dowodami zapłaty, zgodnie z zestawieniem dokumentów potwierdzających poniesione wydatki,
 b)
@@ -227,10 +223,10 @@ c)
 wyciągów bankowych lub przelewów bankowych, dokumentujących operacje na rachunku bankowym beneficjenta w zakresie realizacji operacji;
 2)
 zestawienie rzeczowo-finansowe operacji;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 10.)
 oświadczenie beneficjenta lub inny dokument zawierający informację o numerze rachunku bankowego, na który mają być przekazane środki finansowe – w przypadku pierwszego wniosku o płatność;
 4)
-(uchylony);
+(uchylony);Przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 10.
 5)
 inne dokumenty potwierdzające poniesienie wydatków w zakresie realizacji operacji.
 § 13.
@@ -261,7 +257,7 @@ umowę o dofinansowanie zawiera się w siedzibie instytucji zarządzającej;
 wniosek o płatność składa się do instytucji zarządzającej.
 2.
 Do przyznawania pomocy technicznej przez instytucję zarządzającą przepisy § 4–13 stosuje się odpowiednio.
-§ 15.
+§ 15W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 10..
 1.
 Pomoc techniczna podlega zwrotowi w całości, jeżeli beneficjent:
 1)
@@ -274,14 +270,13 @@ Pomoc techniczna podlega zwrotowi w całości albo w części, jeżeli beneficje
 1.
 Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie przyznania pomocy technicznej i wypłaty środków finansowych z tytułu tej pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
 2.
-Termin uważa się za zachowany, jeżeli przed jego upływem złożono pismo bezpośrednio w siedzibie właściwej instytucji, nadano pismo w polskiej placówce pocztowej operatora wyznaczonego lub nadano przesyłkę kurierską.
+Termin uważa się za zachowany, jeżeli przed jego upływem złożono pismo bezpośrednio w siedzibie właściwej instytucji, nadano pismo w polskiej placówce pocztowej operatora wyznaczonegoZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. lub nadano przesyłkę kurierską.
 § 17.
 W przypadku przyznania pomocy technicznej, środki finansowe wydatkowane na realizację programu operacyjnego przed dniem wejścia w życie rozporządzenia uznaje się za wydatkowane zgodnie z przepisami rozporządzenia.
 § 18.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kierował działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) Utraciło moc z dniem 1 stycznia 2014 r. na mocy art. 128 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1); odesłania do uchylonego rozporządzenia należy traktować jako odesłania do powyższego rozporządzenia. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 953), które weszło w życie z dniem 23 sierpnia 2013 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3; wszedł w życie z dniem 1 października 2013 r. 5) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100. 7) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 8) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 133, poz. 776), które weszło w życie z dniem 13 lipca 2011 r. 11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 10. 12) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 10. 13) Przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 10. 14) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 10. 15) Rozporządzenie zostało ogłoszone w dniu 23 października 2009 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 23 października 2009 r.. 1) Minister Rolnictwa i Rozwoju Wsi kierował działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) Utraciło moc z dniem 1 stycznia 2014 r. na mocy art. 128 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1); odesłania do uchylonego rozporządzenia należy traktować jako odesłania do powyższego rozporządzenia. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 953), które weszło w życie z dniem 23 sierpnia 2013 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3; wszedł w życie z dniem 1 października 2013 r. 5) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613 oraz z 2014 r. poz. 768 i 1100. 7) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 8) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 10) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 7 czerwca 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 – Pomoc techniczna, zawartej w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 133, poz. 776), które weszło w życie z dniem 13 lipca 2011 r. 11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 10. 12) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 10. 13) Przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 10. 14) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 10. 15) Rozporządzenie zostało ogłoszone w dniu 23 października 2009 r.
 
-## Załącznik nr 1 — – Koszty kwalifikowalne w ramach pomocy technicznej
+## Załącznik nr 1 — – Koszty kwalifikowalne w ramach pomocy technicznejOznaczenie załącznika nr 1 nadane przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
 1.
 Koszty osobowe pracowników odpowiedz ialnych za przygotowanie, zarządzanie, moni torowanie, ocenę, promocję, kontrolę i audyt programu operacyjnego:
@@ -374,10 +369,9 @@ konserwacją i serwisem sprzętu i wyposażenia zakupionego w ramach pomocy tech
 19)
 ubezpieczeniem sprzętu zakupionego w ramach pomocy technicznej;
 20)
-umowami zlecenia lub umowami o dzieło zawieranymi w celu wsparcia realizacji programu operacyjnego.
-16) Oznaczenie załącznika nr 1 nadane przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
+umowami zlecenia lub umowami o dzieło zawieranymi w celu wsparcia realizacji programu operacyjnego. 16) Oznaczenie załącznika nr 1 nadane przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 2 — – Wysokość limitu w ramach pomocy technicznej
+## Załącznik nr 2 — – Wysokość limitu w ramach pomocy technicznejDodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
 Lp. Instytucja Limit w euro 1 Ministerstwo Rolnictwa i Rozwoju Wsi 13 803 455,16 2 Ministerstwo Finansów 1 661 652,46 3 Agencja Restrukturyzacji i Modernizacji Rolnictwa 6 800 000,00 4 Instytucja pośrednicząca 990 937,51 5 Okręgowy Inspektorat Rybołówstwa Morskiego w Gdyni 620 167,36 6 Okręgowy Inspektorat Rybołówstwa Morskiego w Słupsku 500 536,14 7 Okręgowy Inspektorat Rybołówstwa Morskiego w Szczecinie 470 785,87 8 Samorząd Województwa Dolnośląskiego 505 000,00 9 Samorząd Województwa Kujawsko-Pomorskiego 700 000,00 10 Samorząd Województwa Lubelskiego 480 000,00 11 Samorząd Województwa Lubuskiego 879 510,31 12 Samorząd Województwa Łódzkiego 530 000,00 13 Samorząd Województwa Małopolskiego 650 000,00 14 Samorząd Województwa Mazowieckiego 542 981,62 15 Samorząd Województwa Opolskiego 550 000,00 16 Samorząd Województwa Podkarpackiego 500 000,00 17 Samorząd Województwa Podlaskiego 750 000,00 18 Samorząd Województwa Pomorskiego 1 500 000,00 19 Samorząd Województwa Śląskiego 644 602,26 20 Samorząd Województwa Świętokrzyskiego 600 000,00 21 Samorząd Województwa Warmińsko-Mazurskiego 750 000,00 22 Samorząd Województwa Wielkopolskiego 1 025 000,00 23 Samorząd Województwa Zachodniopomorskiego 1 250 000,00
 

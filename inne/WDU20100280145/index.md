@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 stycznia 2010 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw
+# Ustawaz dnia 22 stycznia 2010 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-01-22 |
 | Data wydania | 2010-02-25 |
-| Wejście w życie | 2010-03-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100280145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/145/text.pdf) |
 
+dyrektywy Rady 75/439/EWG z dnia 16 czerwca 1975 r. w sprawie unieszkodliwiania olejów odpadowych(Dz. Urz. WE L 194 z 25.07.1975, str. 23, L 42 z 12.02.1987, str. 43, L 377 z 31.12.1991, str. 48, L 243 z 24.09.1996, str. 31 i L 332 z 28.12.2000, str. 91; Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 14);
 2)
 dyrektywy Rady 78/176/EWG z dnia 20 lutego 1978 r. w sprawie odpadów pochodzących z przemysłu ditlenku tytanu (Dz. Urz. WE L 54 z 25.02.1978, str. 19, L 378 z 31.12.1982, str. 1, L 32 z 03.02.1983, str. 28, L 377 z 31.12.1991, str. 48 i L 409 z 31.12.1992, str. 11; Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 71);
 3)
@@ -50,29 +50,24 @@ dyrektywy Parlamentu Europejskiego i Rady 2006/12/WE z dnia 5 kwietnia 2006 r. w
 dyrektywy Parlamentu Europejskiego i Rady 2006/21/WE z dnia 15 marca 2006 r. w sprawie gospodarowania odpadami pochodzącymi z przemysłu wydobywczego oraz zmieniającej dyrektywę 2004/35/WE (Dz. Urz. L 102 z 11.04.2006, str. 15);
 13)
 dyrektywy Parlamentu Europejskiego i Rady 2006/66/WE z dnia 6 września 2006 r. w sprawie baterii i akumulatorów oraz zużytych baterii i akumulatorów oraz uchylającej dyrektywę 91/157/EWG (Dz. Urz. WE L 266 z 26.09.2006, str. 1, L 76 z 19.03.2008, str. 39 i L 327 z 05.12.2008, str. 7).
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów, ustawę z dnia 10 lipca 2008 r. o odpadach wydobywczych oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+Obowiązki posiadaczy odpadów i transportujących odpady”;
 8)
 w art. 17:
 a)
-po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-Wytwórca odpadów, który prowadzi działalność polegającą na świadczeniu usług w zakresie budowy, rozbiórki, remontu obiektów, czyszczenia zbiorników lub urządzeń oraz sprzątania, konserwacji i napraw, a także przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych, jest obowiązany do uzyskania decyzji zatwierdzającej program gospodarki odpadami.
-” ,
+Wytwórca odpadów, który prowadzi działalność polegającą na świadczeniu usług w zakresie budowy, rozbiórki, remontu obiektów, czyszczenia zbiorników lub urządzeń oraz sprzątania, konserwacji i napraw, a także przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych, jest obowiązany do uzyskania decyzji zatwierdzającej program gospodarki odpadami. ” ,
 b)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-Wytwórca odpadów, który jednocześnie prowadzi działalność w zakresie rozbiórki i remontów obiektów, w wyniku której powstają odpady zawierające azbest i który przetwarza te odpady w urządzeniach przewoźnych, jest obowiązany do uzyskania jednej decyzji zatwierdzającej program gospodarki odpadami, obejmującej odpady powstające w wyniku rozbiórki i remontów oraz odpady powstałe w wyniku eksploatacji urządzeń przewoźnych do przetwarzania odpadów zawierających azbest.
-” ,
+Wytwórca odpadów, który jednocześnie prowadzi działalność w zakresie rozbiórki i remontów obiektów, w wyniku której powstają odpady zawierające azbest i który przetwarza te odpady w urządzeniach przewoźnych, jest obowiązany do uzyskania jednej decyzji zatwierdzającej program gospodarki odpadami, obejmującej odpady powstające w wyniku rozbiórki i remontów oraz odpady powstałe w wyniku eksploatacji urządzeń przewoźnych do przetwarzania odpadów zawierających azbest. ” ,
 c)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Przepisów ust. 1 -4 nie stosuje się do odpadów komunalnych, odpadów z wypadków, odpadów powstałych w wyniku klęsk żywiołowych oraz odpadów powstałych w wyniku poważnej awarii lub poważnej awarii przemysłowej, a także do osób fizycznych niebędących przedsiębiorcami oraz do właścicieli pojazdów przekazujących pojazdy wycofane z eksploatacji do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów.
-” ;
+Przepisów ust. 1 -4 nie stosuje się do odpadów komunalnych, odpadów z wypadków, odpadów powstałych w wyniku klęsk żywiołowych oraz odpadów powstałych w wyniku poważnej awarii lub poważnej awarii przemysłowej, a także do osób fizycznych niebędących przedsiębiorcami oraz do właścicieli pojazdów przekazujących pojazdy wycofane z eksploatacji do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów. ” ;
 9)
-w art. 18 ust. 3 i 4 otrzymują brzmienie:
-„
+w art. 18 ust. 3 i 4 otrzymują brzmienie: „
 3.
 Właściwy organ odmawia wydania pozwolenia na wytwarzanie odpadów w przypadkach określonych w przepisach o ochronie środowiska lub jeżeli zamierzony sposób gospodarki odpadami:
 1)
@@ -84,11 +79,10 @@ jest niezgodny z przepisami prawa miejscowego;
 4)
 jest niezgodny z przepisami z zakresu gospodarki odpadami.
 4.
-Kopię wydanego pozwolenia na wytwarzanie odpadów regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu ze względu na miejsce wytwarzania odpadów marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta. Wymóg przekazania prezydentowi miasta kopii wydanego przez starostę pozwolenia na wytwarzanie odpadów nie dotyczy prezydenta miasta na prawach powiatu.
-” ;
+Kopię wydanego pozwolenia na wytwarzanie odpadów regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu ze względu na miejsce wytwarzania odpadów marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta. Wymóg przekazania prezydentowi miasta kopii wydanego przez starostę pozwolenia na wytwarzanie odpadów nie dotyczy prezydenta miasta na prawach powiatu. ” ;
 10)
-art. 19 otrzymuje brzmienie:
-„
+art. 19 otrzymuje brzmienie: „
+Kary pieniężne
 1.
 Jeżeli posiadacz odpadów lub transportujący odpady:
 1)
@@ -98,8 +92,7 @@ wytwarza odpady bez wymaganego złożenia informacji o wytworzonych odpadach ora
 3)
 wytwarza odpady pomimo wniesienia sprzeciwu, o którym mowa w art. 24 ust. 5, albo rozpoczyna działalność powodującą powstawanie odpadów przed upływem terminu do wniesienia sprzeciwu, lub
 4)
-będąc obowiązany do zgłoszenia do rejestru, o którym mowa w art. 33 ust. 5, nie dopełnił tego obowiązku lub wykonał go niezgodnie ze stanem faktycznym lub dokonuje zbierania odpadów lub transportu odpadów niezgodnie z informacjami zgłoszonymi do rejestru,
-podlega karze pieniężnej w wysokości 5 000 zł.
+będąc obowiązany do zgłoszenia do rejestru, o którym mowa w art. 33 ust. 5, nie dopełnił tego obowiązku lub wykonał go niezgodnie ze stanem faktycznym lub dokonuje zbierania odpadów lub transportu odpadów niezgodnie z informacjami zgłoszonymi do rejestru, podlega karze pieniężnej w wysokości 5 000 zł.
 2.
 Jeżeli posiadacz odpadów lub transportujący odpady:
 1)
@@ -113,8 +106,7 @@ powodując wzrost zagrożenia dla zdrowia lub życia ludzi lub środowiska, mies
 5)
 prowadzi działalność w zakresie zbierania, transportu, odzysku lub unieszkodliwiania odpadów bez wymaganego zezwolenia lub z naruszeniem jego warunków, lub
 6)
-wbrew zakazom dotyczącym zbierania odpadów dokonuje zbierania odpadów,
-podlega karze pieniężnej w wysokości 10 000 zł.
+wbrew zakazom dotyczącym zbierania odpadów dokonuje zbierania odpadów, podlega karze pieniężnej w wysokości 10 000 zł.
 1.
 Jeżeli zarządzający składowiskiem bez wymaganej zgody organu zamyka składowisko lub jego wydzieloną część podlega karze pieniężnej w wysokości 5 000 zł.
 2.
@@ -130,8 +122,7 @@ Kary pieniężne, o których mowa w art. 79c, wymierza, w drodze decyzji, właś
 4.
 Kary pieniężne, o których mowa w art. 79c, wnosi się na odrębny rachunek bankowy zarządu województwa w terminie 14 dni od dnia, w którym decyzja o wymiarze kary stała się ostateczna.
 5.
-W sprawach dotyczących kar pieniężnych, o których mowa w art. 79b i 79c, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska oraz marszałkowi województwa.
-” ;
+W sprawach dotyczących kar pieniężnych, o których mowa w art. 79b i 79c, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676.), z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska oraz marszałkowi województwa. ” ;
 50)
 użyte w ustawie:
 a)
@@ -166,8 +157,9 @@ o)
 w art. 40 ust. 2 wyrazy „prowadzenie działalności w zakresie unieszkodliwiania” zastępuje się wyrazami „unieszkodliwianie”,
 p)
 w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zastępuje się wyrazem „odzysk”.
+Kary pieniężne
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2007 r. Nr 39, poz. 251, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2007 r. Nr 39, poz. 251, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 88, poz. 587, z 2008 r. Nr 138, poz. 865, Nr 199, poz. 1227 i Nr 223, poz. 1464 oraz z 2009 r. Nr 18, poz. 97 i Nr 79, poz. 666.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: w ust. 2 po pkt 6 dodaje się pkt 6a w brzmieniu: „
     - **a)**
@@ -261,7 +253,7 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 - **1)** pozostałości z sortowania odpadów komunalnych,
 - **2)** komunalnych osadów ściekowych,
 - **3)** zakaźnych odpadów medycznych,
-- **4)** zakaźnych odpadów weterynaryjnych poza miejscami ich wytwarzania.
+- **4)** zakaźnych odpadów weterynaryjnych – poza miejscami ich wytwarzania.
 
 2. Jeżeli ze względów bezpieczeństwa lub w celu zapewnienia ciągłości odbioru zakaźnych odpadów medycznych lub zakaźnych odpadów weterynaryjnych, zbieranie tych odpadów jest konieczne, marszałek województwa właściwy ze względu na miejsce zbierania może zezwolić, w drodze decyzji, na zbieranie tych odpadów.
 
@@ -275,7 +267,7 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 
 - **7)** tytuł rozdziału 4 otrzymuje brzmienie: „
 
-#### Rozdział 4 Obowiązki posiadaczy odpadów i transportujących odpady”;
+#### Rozdział 4
 
 **Art. 19.**
 
@@ -283,7 +275,7 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 
 2. Program gospodarki odpadami niebezpiecznymi jest zatwierdzany, w drodze decyzji, przez właściwy organ, którym jest:
 
-- **1)** regionalny dyrektor ochrony środowiska – dla przedsięwzięć i zdarzeń na terenach zamkniętych, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, z późn. zm.);
+- **1)** regionalny dyrektor ochrony środowiska – dla przedsięwzięć i zdarzeń na terenach zamkniętych, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241.);
 - **2)** marszałek województwa – dla przedsięwzięć i zdarzeń, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
 - **3)** starosta – dla pozostałych przedsięwzięć.
 
@@ -293,7 +285,7 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 
 5. Starosta zatwierdza program gospodarki odpadami niebezpiecznymi po zasięgnięciu opinii wójta, burmistrza lub prezydenta miasta, właściwego ze względu na miejsce wytwarzania odpadów niebezpiecznych. Wymóg zasięgania opinii prezydenta miasta nie dotyczy prezydenta miasta na prawach powiatu.
 
-6. W przypadku niewydania opinii w terminie określonym w art. 106 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.) przyjmuje się, że wydano opinię pozytywną.
+6. W przypadku niewydania opinii w terminie określonym w art. 106 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539 oraz z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676.) przyjmuje się, że wydano opinię pozytywną.
 
 7. Na postanowienia, o których mowa w ust. 4 i 5, nie przysługuje zażalenie.
 
@@ -413,8 +405,12 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
     - **a)**
 
 - **5)** wskazanie miejsca i sposobu oraz rodzaju magazynowanych odpadów, a w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych – wskazanie sposobu oraz rodzaju magazynowanych odpadów;
-- **6)** szczegółowy opis stosowanych metod odzysku lub unieszkodliwiania odpadów, w tym wskazanie procesu odzysku lub unieszkodliwiania zgodnie z załącznikami 5 lub 6 do ustawy oraz opis procesu technologicznego; ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) miejsce i dopuszczone metody odzysku lub unieszkodliwiania odpadów, ze wskazaniem procesu odzysku lub unieszkodliwiania zgodnie z załącznikami 5 lub 6 do ustawy, oraz opis procesu technologicznego; ” , – pkt 4 otrzymuje brzmienie: „ 4) miejsce i sposób magazynowania odpadów, a w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych – wskazanie sposobu oraz rodzaju magazynowanych odpadów; ” , – pkt 6 otrzymuje brzmienie: „ 6) czas obowiązywania zezwolenia, który w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych, nie może być dłuższy niż 5 lat. ” , ust. 3 otrzymuje brzmienie: „
+- **6)** szczegółowy opis stosowanych metod odzysku lub unieszkodliwiania odpadów, w tym wskazanie procesu odzysku lub unieszkodliwiania zgodnie z załącznikami 5 lub 6 do ustawy oraz opis procesu technologicznego; ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **b)**
+
+- **2)** miejsce i dopuszczone metody odzysku lub unieszkodliwiania odpadów, ze wskazaniem procesu odzysku lub unieszkodliwiania zgodnie z załącznikami 5 lub 6 do ustawy, oraz opis procesu technologicznego; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** miejsce i sposób magazynowania odpadów, a w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych – wskazanie sposobu oraz rodzaju magazynowanych odpadów; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** czas obowiązywania zezwolenia, który w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych, nie może być dłuższy niż 5 lat. ” , ust. 3 otrzymuje brzmienie: „
     - **c)**
 
 3. Zezwolenie na unieszkodliwianie odpadów niebezpiecznych wydaje się po kontroli przez wojewódzkiego inspektora ochrony środowiska funkcjonowania instalacji i urządzeń służących do unieszkodliwiania odpadów, a w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych – po przeprowadzeniu, w pierwszym miejscu eksploatacji danego urządzenia, kontroli przez wojewódzkiego inspektora ochrony środowiska. ” ;
@@ -645,9 +641,11 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 
 - **c)**
 
-4a. Właściciel, dzierżawca lub inna osoba władająca nieruchomością, na której mają być stosowane komunalne osady ściekowe, jest obowiązana przechowywać wyniki badań i informacje, o których mowa w ust. 3 i 4, przez okres 5 lat. ” , w ust. 6: – pkt 2 otrzymuje brzmienie: „ 2) na terenach ochrony pośredniej stref ochronnych ujęć wody, o ile akt prawa miejscowego wydanego na podstawie art. 58 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.) nie stanowi inaczej; ” , – pkt 8 otrzymuje brzmienie: „ 8) na obszarach ochronnych zbiorników wód śródlądowych, o ile akt prawa miejscowego wydanego na podstawie art. 58 ustawy z dnia 18 lipca 2001 r. – Prawo wodne, nie stanowi inaczej; ” ;
+4a. Właściciel, dzierżawca lub inna osoba władająca nieruchomością, na której mają być stosowane komunalne osady ściekowe, jest obowiązana przechowywać wyniki badań i informacje, o których mowa w ust. 3 i 4, przez okres 5 lat. ” , w ust. 6: pkt 2 otrzymuje brzmienie: „
 
 - **d)**
+- **2)** na terenach ochrony pośredniej stref ochronnych ujęć wody, o ile akt prawa miejscowego wydanego na podstawie art. 58 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658, z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033, Nr 176, poz. 1238, Nr 181, poz. 1286 i Nr 231, poz. 1704, z 2008 r. Nr 199, poz. 1227 i Nr 227, poz. 1505 oraz z 2009 r. Nr 168, poz. 1323 i Nr 215, poz. 1664.) nie stanowi inaczej; ” , pkt 8 otrzymuje brzmienie: „
+- **8)** na obszarach ochronnych zbiorników wód śródlądowych, o ile akt prawa miejscowego wydanego na podstawie art. 58 ustawy z dnia 18 lipca 2001 r. – Prawo wodne, nie stanowi inaczej; ” ;
 - **31)** w art. 45 ust. 1 otrzymuje brzmienie: „
 
 1. Zarządzający spalarnią odpadów lub współspalarnią odpadów jest obowiązany, w czasie przyjmowania i termicznego przekształcania odpadów, do podejmowania niezbędnych środków ostrożności mających na celu zapobieżenie lub ograniczenie negatywnych skutków dla środowiska, w szczególności w odniesieniu do zanieczyszczeń powietrza, gleby, wód powierzchniowych i gruntowych oraz zapachów i hałasu, a także bezpośredniego zagrożenia zdrowia ludzi, oraz przestrzegania wymagań w zakresie termicznego przekształcania odpadów wynikających z przepisów wydanych na podstawie art. 47. ” ;
@@ -763,7 +761,7 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 
 - **1)** składowisko odpadów lub jego wydzielona część nie spełniają wymogów technicznych lub formalnych określonych przepisami prawa lub
 - **2)** w wyniku przeprowadzonej kontroli wojewódzki inspektor ochrony środowiska stwierdzi, że na składowisku odpadów innych niż niebezpieczne i obojętne, na którym składowane są odpady komunalne, co najmniej od roku nie są przyjmowane odpady, lub
-- **3)** określona w decyzjach administracyjnych pojemność składowiska odpadów została zapełniona a zarządzający składowiskiem nie wystąpił z wnioskiem o zgodę na zamknięcie składowiska odpadów lub jego wydzielonej części – właściwy organ ze względu na lokalizację składowiska, wykonuje ekspertyzę.
+- **3)** określona w decyzjach administracyjnych pojemność składowiska odpadów została zapełniona – a zarządzający składowiskiem nie wystąpił z wnioskiem o zgodę na zamknięcie składowiska odpadów lub jego wydzielonej części – właściwy organ ze względu na lokalizację składowiska, wykonuje ekspertyzę.
 
 2. Właściwym organem, o którym mowa w ust. 1, jest:
 
@@ -797,8 +795,11 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 
 2. Na pokrycie kosztów związanych z zamknięciem składowiska odpadów, o których mowa w art. 54b ust. 1, oraz w przypadkach, o których mowa w art. 54c ust. 1 pkt 2 i 3, mogą być przeznaczone środki finansowe z ustanowionego zabezpieczenia roszczeń. Główny Inspektor Ochrony Środowiska przechowuje dane dotyczące rozmieszczenia eksploatowanych i zamkniętych składowisk odpadów, w tym składowisk odpadów zawierających azbest lub wydzielonych części na terenie innych składowisk odpadów, przeznaczonych do wyłącznego składowania odpadów zawierających azbest. ” ;
 
-- **38)** w art. 55: w ust. 1: – po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) palnych selektywnie zebranych; ” , – po pkt 7a dodaje się pkt 7b w brzmieniu: „ 7b) ulegających biodegradacji selektywnie zebranych; ” , dodaje się ust. 3a w brzmieniu: „
+- **38)** w art. 55: w ust. 1: po pkt 7 dodaje się pkt 7a w brzmieniu: „
     - **a)**
+
+- **7a)** palnych selektywnie zebranych; ” , po pkt 7a dodaje się pkt 7b w brzmieniu: „
+- **7b)** ulegających biodegradacji selektywnie zebranych; ” , dodaje się ust. 3a w brzmieniu: „
     - **b)**
 
 3a. W rozporządzeniu, o którym mowa w ust. 3, minister właściwy do spraw gospodarki może określić kryteria oraz procedury dopuszczania odpadów do składowania na składowisku odpadów innych niż niebezpieczne i obojętne, uwzględniając zawartość w odpadach substancji organicznych oraz rodzaje odpadów, których to dotyczy. ” ;
@@ -878,7 +879,7 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 
 - **47)** art. 79 otrzymuje brzmienie: „
 
-**Art. 79.** Orzekanie w sprawach, o których mowa w art. 69a-78, następuje na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.). ” ;
+**Art. 79.** Orzekanie w sprawach, o których mowa w art. 69a-78, następuje na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651 oraz z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589.). ” ;
 
 - **48)** w art. 79a ust. 5 otrzymuje brzmienie: „
 
@@ -886,9 +887,9 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 
 - **49)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „
 
-#### Rozdział 9a Kary pieniężne
+#### Rozdział 9a
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104.) wprowadza się następujące zmiany:
 
 - **1)** w art. 236b po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
@@ -906,7 +907,7 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 
 - **1)** nad brzegami zbiorników wodnych, w szczególności w strefach ochronnych ujęć wód i na terenach wypływu wód z warstw wodonośnych,
 - **2)** na terenach parków narodowych i rezerwatów przyrody,
-- **3)** na terenach leśnych albo uzdrowiskowych lub na terenach rekreacyjno-wypoczynkowych podmiot korzystający ze środowiska ponosi opłaty podwyższone w wysokości 1,0 jednostkowej stawki opłaty za umieszczenie odpadów na składowisku za każdą tonę odpadów i za każdą dobę składowania. ” ; dodaje się ust. 7 w brzmieniu: „
+- **3)** na terenach leśnych albo uzdrowiskowych lub na terenach rekreacyjno-wypoczynkowych – podmiot korzystający ze środowiska ponosi opłaty podwyższone w wysokości 1,0 jednostkowej stawki opłaty za umieszczenie odpadów na składowisku za każdą tonę odpadów i za każdą dobę składowania. ” ; dodaje się ust. 7 w brzmieniu: „
     - **b)**
 
 7. Opłatę podwyższoną ponosi się niezależnie od opłaty za umieszczenie odpadów na składowisku. ” ;
@@ -926,13 +927,13 @@ w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zast
 
 16. Wojewódzki inspektor ochrony środowiska przed przekazaniem na rachunek Narodowego Funduszu wpływów z kar, o których mowa w art. 53a ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, pomniejsza je o 20%, a kwotę uzyskaną z tytułu pomniejszenia przeznacza na koszty egzekucji ustalonej należnej kary oraz koszty weryfikacji ustalenia jej wysokości. ” .
 
-**Art. 3.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) w art. 84 w ust. 2 w pkt 2 dodaje się lit. c w brzmieniu: „
+**Art. 3.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 49, poz. 328, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 133, poz. 922, z 2008 r. Nr 225, poz. 1486 oraz z 2009 r. Nr 91, poz. 739 i Nr 97, poz. 802.) w art. 84 w ust. 2 w pkt 2 dodaje się lit. c w brzmieniu: „
 
 Inspekcja Ochrony Środowiska. ” .
 
 - **c)**
 
-**Art. 4.** W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1458, z 2007 r. Nr 176, poz. 1236 oraz z 2009 r. Nr 79, poz. 666, Nr 92, poz. 753 i Nr 215, poz. 1664.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 dodaje się ust. 1a w brzmieniu: „
 
@@ -986,7 +987,7 @@ Inspekcja Ochrony Środowiska. ” .
 - **9)** w art. 23: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Przedsiębiorca prowadzący stację demontażu jest obowiązany do przyjęcia każdego pojazdu wycofanego z eksploatacji, który posiada cechy identyfikacyjne pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908 z późn. zm.), z zastrzeżeniem ust. 7 i 7a. ” , ust. 6 otrzymuje brzmienie: „
+1. Przedsiębiorca prowadzący stację demontażu jest obowiązany do przyjęcia każdego pojazdu wycofanego z eksploatacji, który posiada cechy identyfikacyjne pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908 z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574 oraz z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323.), z zastrzeżeniem ust. 7 i 7a. ” , ust. 6 otrzymuje brzmienie: „
 
 - **b)**
 
@@ -1026,7 +1027,7 @@ Inspekcja Ochrony Środowiska. ” .
 
 - **d)**
 
-3. Przy obliczaniu poziomów recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji do recyklingu zalicza się działania oznaczone jako R2-R9 w załączniku nr 5 do ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2007 r. Nr 39, poz. 251, z późn. zm.) oraz wymontowywanie przedmiotów wyposażenia i części pojazdów przeznaczonych do ponownego użycia.
+3. Przy obliczaniu poziomów recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji do recyklingu zalicza się działania oznaczone jako R2-R9 w załączniku nr 5 do ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2007 r. Nr 39, poz. 251, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 88, poz. 587, z 2008 r. Nr 138, poz. 865, Nr 199, poz. 1227 i Nr 223, poz. 1464, z 2009 r. Nr 18, poz. 97 i Nr 79, poz. 666 oraz z 2010 r. Nr 28, poz. 145.) oraz wymontowywanie przedmiotów wyposażenia i części pojazdów przeznaczonych do ponownego użycia.
 
 4. Przy obliczaniu poziomów odzysku odpadów pochodzących z pojazdów wycofanych z eksploatacji do odzysku zalicza się działania uwzględnione przy obliczaniu poziomu recyklingu oraz działania oznaczone jako R1 w załączniku nr 5 do ustawy z dnia 27 kwietnia 2001 r. o odpadach. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
 
@@ -1083,9 +1084,9 @@ Inspekcja Ochrony Środowiska. ” .
 
 **Art. 40.**
 
-1. Organem właściwym do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu jest marszałek województwa; w przypadku gdy stacja demontażu położona jest na terenie zamkniętym, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, z późn. zm.), organem właściwym jest regionalny dyrektor ochrony środowiska.
+1. Organem właściwym do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu jest marszałek województwa; w przypadku gdy stacja demontażu położona jest na terenie zamkniętym, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241.), organem właściwym jest regionalny dyrektor ochrony środowiska.
 
-2. Pozwolenie na wytwarzanie odpadów może być wydane po uzyskaniu wymaganego pozwolenia na użytkowanie obiektu budowlanego w rozumieniu przepisów prawa budowlanego, z wyłączeniem nowo zbudowanych lub przebudowanych obiektów budowlanych, zespołów obiektów lub instalacji, do których ma zastosowanie art. 76 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.), oraz po sprawdzeniu przez wojewódzkiego inspektora ochrony środowiska funkcjonowania instalacji i urządzeń służących do demontażu pojazdów wycofanych z eksploatacji.
+2. Pozwolenie na wytwarzanie odpadów może być wydane po uzyskaniu wymaganego pozwolenia na użytkowanie obiektu budowlanego w rozumieniu przepisów prawa budowlanego, z wyłączeniem nowo zbudowanych lub przebudowanych obiektów budowlanych, zespołów obiektów lub instalacji, do których ma zastosowanie art. 76 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104 i Nr 28, poz. 145.), oraz po sprawdzeniu przez wojewódzkiego inspektora ochrony środowiska funkcjonowania instalacji i urządzeń służących do demontażu pojazdów wycofanych z eksploatacji.
 
 3. Jeżeli przedsiębiorca prowadzący stację demontażu poświadcza nieprawdę w zaświadczeniu o demontażu pojazdu lub zaświadczeniu o przyjęciu niekompletnego pojazdu, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
 
@@ -1130,7 +1131,7 @@ Inspekcja Ochrony Środowiska. ” .
 - **23)** uchyla się art. 50;
 - **24)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Kary pieniężne
+#### Rozdział 8a
 
 **Art. 53a.**
 
@@ -1138,7 +1139,7 @@ Inspekcja Ochrony Środowiska. ” .
 
 - **1)** usunięcia z pojazdów wycofanych z eksploatacji elementów lub substancji niebezpiecznych, w tym płynów,
 - **2)** wymontowania z pojazdów wycofanych z eksploatacji przedmiotów wyposażenia lub części nadających się do ponownego użycia,
-- **3)** wymontowania z pojazdów wycofanych z eksploatacji elementów nadających się do odzysku lub recyklingu podlega karze pieniężnej od 10 000 do 300 000 zł.
+- **3)** wymontowania z pojazdów wycofanych z eksploatacji elementów nadających się do odzysku lub recyklingu – podlega karze pieniężnej od 10 000 do 300 000 zł.
 
 2. Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, wojewódzki inspektor ochrony środowiska.
 
@@ -1163,7 +1164,7 @@ Inspekcja Ochrony Środowiska. ” .
 
 - **1)** w art. 4 dodaje się ust. 6 w brzmieniu: „
 
-6. Dla przedsięwzięć i zdarzeń na terenach zamkniętych, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, z późn. zm.), decyzję, o której mowa w ust. 5, wydaje regionalny dyrektor ochrony środowiska. ” ;
+6. Dla przedsięwzięć i zdarzeń na terenach zamkniętych, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241.), decyzję, o której mowa w ust. 5, wydaje regionalny dyrektor ochrony środowiska. ” ;
 
 - **2)** w art. 12 ust. 2 otrzymuje brzmienie: „
 
@@ -1172,7 +1173,7 @@ Inspekcja Ochrony Środowiska. ” .
 - **3)** w art. 40 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** regionalny dyrektor ochrony środowiska – dla przedsięwzięć i zdarzeń na terenach zamkniętych; ” .
 
-**Art. 7.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.) w art. 131 w ust. 1 dodaje się pkt 11 w brzmieniu: „
+**Art. 7.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241.) w art. 131 w ust. 1 dodaje się pkt 11 w brzmieniu: „
 
 - **11)** wykonywanie zadań, w tym wydawanie decyzji oraz zlecania ekspertyz z zakresu gospodarki odpadami. ” .
 
@@ -1184,7 +1185,7 @@ Inspekcja Ochrony Środowiska. ” .
 - **2)** komunalnych osadów ściekowych,
 - **3)** zakaźnych odpadów medycznych,
 - **4)** zakaźnych odpadów weterynaryjnych,
-- **5)** odpadów pochodzących z unieszkodliwiania zakaźnych odpadów medycznych lub zakaźnych odpadów weterynaryjnych innymi metodami niż termiczne przekształcanie może prowadzić swoją działalność w tym zakresie na podstawie zezwoleń, pozwoleń lub decyzji zatwierdzających program gospodarki odpadami niebezpiecznymi, nie dłużej jednak niż 3 miesiące od dnia wejścia w życie ustawy, o ile wcześniej nie straciły mocy.
+- **5)** odpadów pochodzących z unieszkodliwiania zakaźnych odpadów medycznych lub zakaźnych odpadów weterynaryjnych innymi metodami niż termiczne przekształcanie – może prowadzić swoją działalność w tym zakresie na podstawie zezwoleń, pozwoleń lub decyzji zatwierdzających program gospodarki odpadami niebezpiecznymi, nie dłużej jednak niż 3 miesiące od dnia wejścia w życie ustawy, o ile wcześniej nie straciły mocy.
 
 2. Zezwolenia, pozwolenia oraz decyzje zatwierdzające program gospodarki odpadami niebezpiecznymi, o których mowa w ust. 1, wygasają w całości lub w części dotyczącej zbierania po upływie 3 miesięcy od dnia wejścia w życie ustawy.
 
@@ -1200,7 +1201,7 @@ Inspekcja Ochrony Środowiska. ” .
 
 2. Zezwolenia, pozwolenia lub decyzje zatwierdzające program gospodarki odpadami niebezpiecznymi w zakresie dotyczącym unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych innymi metodami niż termiczne przekształcanie odpadów zachowują moc na czas, na jaki zostały wydane, jednak nie dłużej niż 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 11.** Z dniem wejścia w życie niniejszej ustawy wygasają decyzje o pozwoleniu na budowę składowiska odpadów wydane na podstawie ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.), jeżeli do dnia wejścia w życie niniejszej ustawy nie rozpoczęto budowy tych składowisk.
+**Art. 11.** Z dniem wejścia w życie niniejszej ustawy wygasają decyzje o pozwoleniu na budowę składowiska odpadów wydane na podstawie ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279.), jeżeli do dnia wejścia w życie niniejszej ustawy nie rozpoczęto budowy tych składowisk.
 
 **Art. 12.**
 
@@ -1242,8 +1243,7 @@ Inspekcja Ochrony Środowiska. ” .
 **Art. 17.** Przepis art. 7 ust. 1 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą stosuje się do materiałów, przedmiotów wyposażenia i części pojazdów wprowadzonych do obrotu po dniu wejścia w życie ustawy, przeznaczonych do stosowania w pojazdach wyprodukowanych od dnia 1 lipca 2003 r. Przepisy art. 2 pkt 5 w zakresie dotyczącym art. 402 ust. 13 i 16 tracą moc z dniem 1 stycznia 2011 r. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 26 lit. a, pkt 38 lit. a tiret 1, art. 2 pkt 1 oraz art. 4 pkt 13, 14, 15 i 18, które wchodzą w życie z dniem 1 stycznia 2011 r.;
-- **2)** art. 1 pkt 38 lit. a tiret 2, który wchodzi w życie z dniem 1 stycznia 2013 r.
-- **1)** Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
+- **2)** art. 1 pkt 38 lit. a tiret 2, który wchodzi w życie z dniem 1 stycznia 2013 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 - **1)** dyrektywy Rady 75/439/EWG z dnia 16 czerwca 1975 r. w sprawie unieszkodliwiania olejów odpadowych (Dz. Urz. WE L 194 z 25.07.1975, str. 23, L 42 z 12.02.1987, str. 43, L 377 z 31.12.1991, str. 48, L 243 z 24.09.1996, str. 31 i L 332 z 28.12.2000, str. 91; Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 14);
 - **2)** dyrektywy Rady 78/176/EWG z dnia 20 lutego 1978 r. w sprawie odpadów pochodzących z przemysłu ditlenku tytanu (Dz. Urz. WE L 54 z 25.02.1978, str. 19, L 378 z 31.12.1982, str. 1, L 32 z 03.02.1983, str. 28, L 377 z 31.12.1991, str. 48 i L 409 z 31.12.1992, str. 11; Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 71);
 - **3)** dyrektywy Rady 86/278/EWG z dnia 12 czerwca 1986 r. w sprawie ochrony środowiska, w szczególności gleby, w przypadku wykorzystywania osadów ściekowych w rolnictwie (Dz. Urz. WE L 181 z 04.07.1986, str. 6 i L 377 z 31.12.1991, str. 48; Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 265);
@@ -1256,6 +1256,6 @@ Inspekcja Ochrony Środowiska. ” .
 - **10)** dyrektywy Parlamentu Europejskiego i Rady 2002/96/WE z dnia 27 stycznia 2003 r. w sprawie zużytego sprzętu elektrycznego i elektronicznego (WEEE) (Dz. Urz. WE L 37 z 13.02.2003, str. 24, L 345 z 31.12.2003, str. 106 i L 81 z 20.03.2008, str. 65; Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 7, str. 359, z późn. zm.);
 - **11)** dyrektywy Parlamentu Europejskiego i Rady 2006/12/WE z dnia 5 kwietnia 2006 r. w sprawie odpadów (Dz. Urz. WE L 114 z 27.04.2006, str. 9);
 - **12)** dyrektywy Parlamentu Europejskiego i Rady 2006/21/WE z dnia 15 marca 2006 r. w sprawie gospodarowania odpadami pochodzącymi z przemysłu wydobywczego oraz zmieniającej dyrektywę 2004/35/WE (Dz. Urz. L 102 z 11.04.2006, str. 15);
-- **13)** dyrektywy Parlamentu Europejskiego i Rady 2006/66/WE z dnia 6 września 2006 r. w sprawie baterii i akumulatorów oraz zużytych baterii i akumulatorów oraz uchylającej dyrektywę 91/157/EWG (Dz. Urz. WE L 266 z 26.09.2006, str. 1, L 76 z 19.03.2008, str. 39 i L 327 z 05.12.2008, str. 7).
+- **13)** dyrektywy Parlamentu Europejskiego i Rady 2006/66/WE z dnia 6 września 2006 r. w sprawie baterii i akumulatorów oraz zużytych baterii i akumulatorów oraz uchylającej dyrektywę 91/157/EWG (Dz. Urz. WE L 266 z 26.09.2006, str. 1, L 76 z 19.03.2008, str. 39 i L 327 z 05.12.2008, str. 7). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów, ustawę z dnia 10 lipca 2008 r. o odpadach wydobywczych oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 88, poz. 587, z 2008 r. Nr 138, poz. 865, Nr 199, poz. 1227 i Nr 223, poz. 1464 oraz z 2009 r. Nr 18, poz. 97 i Nr 79, poz. 666. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539 oraz z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658, z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033, Nr 176, poz. 1238, Nr 181, poz. 1286 i Nr 231, poz. 1704, z 2008 r. Nr 199, poz. 1227 i Nr 227, poz. 1505 oraz z 2009 r. Nr 168, poz. 1323 i Nr 215, poz. 1664. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651 oraz z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 49, poz. 328, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 133, poz. 922, z 2008 r. Nr 225, poz. 1486 oraz z 2009 r. Nr 91, poz. 739 i Nr 97, poz. 802. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1458, z 2007 r. Nr 176, poz. 1236 oraz z 2009 r. Nr 79, poz. 666, Nr 92, poz. 753 i Nr 215, poz. 1664. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574 oraz z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 88, poz. 587, z 2008 r. Nr 138, poz. 865, Nr 199, poz. 1227 i Nr 223, poz. 1464, z 2009 r. Nr 18, poz. 97 i Nr 79, poz. 666 oraz z 2010 r. Nr 28, poz. 145. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104 i Nr 28, poz. 145. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279.
 
 

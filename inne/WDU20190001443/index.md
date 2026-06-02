@@ -25,21 +25,23 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1443/text.pdf) |
 
-Treść obwieszczenia 1. 2.
-Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych Rozdział 1 – Przepisy ogólne Rozdział 2 – Komisja Nazw Miejscowości i Obiektów Fizjograficznych Rozdział 3 – Urzędowe nazwy miejscowości i ich części oraz obiektów fizjograficznych Rozdział 4 – Wykazy urzędowych nazw miejscowości i ich części oraz obiektów fizjograficznych Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+2.
+Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. Nr 166, poz. 1612), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141),
 2)
-ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 lipca 2019 r.
+ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 lipca 2019 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 10 i art. 11 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. Nr 166, poz. 1612), które stanowią:
-„
+art. 10 i art. 11 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. Nr 166, poz. 1612), które stanowią: „
+Numeracja porządkowa nieruchomości w miejscowościach
+Przepisy ogólne
 1.
 Ustawa określa:
 1)
@@ -50,10 +52,24 @@ zasady działania Komisji Nazw Miejscowości i Obiektów Fizjograficznych;
 sposób ustalania i ogłaszania wykazów urzędowych nazw miejscowości i ich części oraz obiektów fizjograficznych.
 2.
 Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia urzędowych nazw w zakresie uregulowanym przepisami o ochronie przyrody, a także w przypadkach, gdy urzędową nazwę określa odrębna ustawa.
-(pominięty)
-(pominięty)
+Komisja Nazw Miejscowości i Obiektów Fizjograficznych
+Urzędowe nazwy miejscowości i ich części oraz obiektów fizjograficznych
+Wykazy urzędowych nazw miejscowości i ich części oraz obiektów fizjograficznych
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+(pominięty)Zamieszczony w obwieszczeniu.
+(pominięty)Zamieszczony w obwieszczeniu.
 
-**Art. 10.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2000 r. Nr 100, poz. 1086, z późn. zm.a) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189, Nr 115, poz. 1229 i Nr 125, poz. 1363 oraz z 2003 r. Nr 162, poz. 1568.) wprowadza się następujące zmiany:
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Komisja Nazw Miejscowości i Obiektów Fizjograficznych
+
+#### Rozdział 3 – Urzędowe nazwy miejscowości i ich części oraz obiektów fizjograficznych
+
+#### Rozdział 4 – Wykazy urzędowych nazw miejscowości i ich części oraz obiektów fizjograficznych
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 10.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2000 r. Nr 100, poz. 1086, z późn. zm.a)Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189, Nr 115, poz. 1229 i Nr 125, poz. 1363 oraz z 2003 r. Nr 162, poz. 1568.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 otrzymuje brzmienie: „
 
@@ -69,7 +85,7 @@ Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia u
 - **8)** numeracji porządkowej nieruchomości w miejscowościach. ” ;
 - **2)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Numeracja porządkowa nieruchomości w miejscowościach
+#### Rozdział 8a
 
 **Art. 47a.** Do zadań gminy należy:
 
@@ -80,7 +96,7 @@ Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia u
 
 2. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, sposób ustalania numerów porządkowych oraz oznaczania nimi nieruchomości, uwzględniając w szczególności, że oznaczenie nieruchomości numerem porządkowym następuje z urzędu lub na wniosek właściciela nieruchomości. ” .
 
-**Art. 11.** W ustawie z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw (Dz. U. Nr 34, poz. 198, z późn. zm.b) Zmiany ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 87, poz. 506, z 1991 r. Nr 95, poz. 425, Nr 107, poz. 464 i Nr 114, poz. 492, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 121, poz. 769 oraz z 1998 r. Nr 162, poz. 1126.) w art. 1 uchyla się pkt 1. ” ;
+**Art. 11.** W ustawie z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw (Dz. U. Nr 34, poz. 198, z późn. zm.b)Zmiany ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 87, poz. 506, z 1991 r. Nr 95, poz. 425, Nr 107, poz. 464 i Nr 114, poz. 492, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 121, poz. 769 oraz z 1998 r. Nr 162, poz. 1126.) w art. 1 uchyla się pkt 1. ” ;
 
 - **2)** art. 43 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141), który stanowi: „
 
@@ -91,10 +107,9 @@ Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia u
 **Art. 350.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r. ” . Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych
-    - **a)** Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189, Nr 115, poz. 1229 i Nr 125, poz. 1363 oraz z 2003 r. Nr 162, poz. 1568. b) Zmiany ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 87, poz. 506, z 1991 r. Nr 95, poz. 425, Nr 107, poz. 464 i Nr 114, poz. 492, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 121, poz. 769 oraz z 1998 r. Nr 162, poz. 1126.
+- **2)** art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r. ” . a) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189, Nr 115, poz. 1229 i Nr 125, poz. 1363 oraz z 2003 r. Nr 162, poz. 1568. b) Zmiany ustawy zostały ogłoszone w Dz. U. z 1990 r. Nr 43, poz. 253 i Nr 87, poz. 506, z 1991 r. Nr 95, poz. 425, Nr 107, poz. 464 i Nr 114, poz. 492, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 121, poz. 769 oraz z 1998 r. Nr 162, poz. 1126. Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
@@ -121,7 +136,7 @@ Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia u
 
 2. Przy ustalaniu urzędowych nazw, o których mowa w ust. 1, określa się również rodzaj danej miejscowości lub obiektu fizjograficznego. Do określenia i zmiany rodzaju miejscowości lub obiektu fizjograficznego stosuje się odpowiednio przepisy ustawy dotyczące ustalania i zmian ich nazw.
 
-#### Rozdział 2 Komisja Nazw Miejscowości i Obiektów Fizjograficznych
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -147,10 +162,8 @@ Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia u
 
 - **1)** przewodniczący, którym jest przedstawiciel nauki z dziedziny językoznawstwa, powoływany na czteroletnią kadencję przez ministra właściwego do spraw administracji publicznej spośród osób wskazanych przez Prezesa Polskiej Akademii Nauk;
 - **2)** zastępca przewodniczącego, powoływany na czteroletnią kadencję przez ministra właściwego do spraw administracji publicznej na wniosek przewodniczącego Komisji spośród członków Komisji, o których mowa w pkt 4;
-- **3)** sekretarz, którym jest przedstawiciel ministra właściwego do spraw administracji publicznej;
-- **4)** sześciu członków powoływanych na czteroletnią kadencję przez ministra właściwego do spraw administracji publicznej spośród przedstawicieli nauki zgłoszonych przez senaty uczelni oraz rady naukowe komitetów i instytutów naukowych Polskiej Akademii Nauk – z zakresu: językoznawstwa, historii, geografii oraz kartografii;
-- **5)** po jednym przedstawicielu: Ministra Obrony Narodowej, ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, Głównego Geodety Kraju oraz Prezesa Głównego Urzędu Statystycznego, powoływanym na czteroletnią kadencję przez ministra właściwego do spraw administracji publicznej;
-- **6)** sekretarz Komisji Wspólnej Rządu i Mniejszości Narodowych i Etnicznych, utworzonej na podstawie przepisu art. 23 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r. poz. 823).
+- **3)** sekretarz, którym jest przedstawiciel ministra właściwego do spraw administracji publicznej; 4W brzmieniu ustalonym przez art. 78 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.) sześciu członków powoływanych na czteroletnią kadencję przez ministra właściwego do spraw administracji publicznej spośród przedstawicieli nauki zgłoszonych przez senaty uczelni oraz rady naukowe komitetów i instytutów naukowych Polskiej Akademii Nauk – z zakresu: językoznawstwa, historii, geografii oraz kartografii;
+- **5)** po jednym przedstawicielu: Ministra Obrony Narodowej, ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, Głównego Geodety Kraju oraz Prezesa Głównego Urzędu Statystycznego, powoływanym na czteroletnią kadencję przez ministra właściwego do spraw administracji publicznej; 6Dodany przez art. 38 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. poz. 141), która weszła w życie z dniem 1 maja 2005 r.) sekretarz Komisji Wspólnej Rządu i Mniejszości Narodowych i Etnicznych, utworzonej na podstawie przepisu art. 23 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r. poz. 823).
 
 2. Minister właściwy do spraw administracji publicznej odwołuje członka Komisji przed upływem kadencji w przypadku:
 
@@ -161,7 +174,7 @@ Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia u
 
 4. Koszty działalności Komisji są pokrywane z budżetu państwa w części, której dysponentem jest minister właściwy do spraw administracji publicznej.
 
-#### Rozdział 3 Urzędowe nazwy miejscowości i ich części oraz obiektów fizjograficznych
+#### Rozdział 3
 
 **Art. 6.**
 
@@ -208,7 +221,7 @@ Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia u
 
 9. W przypadku negatywnego rozpatrzenia wniosku, o którym mowa w ust. 1, minister właściwy do spraw administracji publicznej zawiadamia niezwłocznie, za pośrednictwem wojewody, wnioskodawcę o przyczynach nieuwzględnienia wniosku.
 
-#### Rozdział 4 Wykazy urzędowych nazw miejscowości i ich części oraz obiektów fizjograficznych
+#### Rozdział 4
 
 **Art. 9.**
 
@@ -224,7 +237,7 @@ Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia u
 
 4. Minister właściwy do spraw administracji publicznej ogłasza, w drodze obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej, aktualne wykazy urzędowych nazw miejscowości i ich części oraz obiektów fizjograficznych. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 12.** Do czasu powołania składu osobowego Komisji Nazw Miejscowości i Obiektów Fizjograficznych, nie dłużej jednak niż przez rok od dnia wejścia w życie ustawy, jej zadania wykonuje Komisja Ustalania Nazw Miejscowości i Obiektów Fizjograficznych utworzona na podstawie rozporządzenia wymienionego w art. 15.
 
@@ -234,5 +247,5 @@ Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia u
 
 **Art. 15.** Traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o ustalaniu nazw miejscowości i obiektów fizjograficznych oraz o numeracji nieruchomości (Dz. U. poz. 850, z 1948 r. poz. 251, z 1971 r. poz. 115 oraz z 1990 r. poz. 198).
 
-**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 22 września 2003 r.. 1) W brzmieniu ustalonym przez art. 78 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 2) Dodany przez art. 38 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. poz. 141), która weszła w życie z dniem 1 maja 2005 r. 3) Zamieszczony w obwieszczeniu. 4) Ustawa została ogłoszona w dniu 22 września 2003 r.
 

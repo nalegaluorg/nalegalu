@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw
+# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej oraz ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-12 |
 | Data wydania | 2022-05-26 |
-| Wejście w życie | 2022-06-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1115/text.pdf) |
 
@@ -74,7 +73,7 @@ source: "eli-html"
 3. Funkcjonariusz Służby Celnej lub funkcjonariusz Służby Celno-Skarbowej, który w dniu zwolnienia ze służby, przekształcenia albo wygaśnięcia stosunku służbowego osiągnął staż służby 15 lat, nabywa prawo do emerytury w dniu osiągnięcia tego stażu niezależnie od przyczyny zwolnienia ze służby, wygaśnięcia czy przekształcenia stosunku służbowego. ” ;
 
 - **3)** w art. 13 w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „
-- **6)** okresy zatrudnienia: w komórkach organizacyjnych, o których mowa w art. 11g ust. 1 i 2 oraz art. 36, jako inspektorzy prowadzący czynności dochodzeniowo-śledcze, o których mowa w art. 38 ust. 4 i 5 ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2016 r. poz. 720, 1165 i 2261);
+- **6)** okresy zatrudnienia: w komórkach organizacyjnych, o których mowa w art. 11g ust. 1 i 2 oraz art. 36, jako inspektorzy prowadzący czynności dochodzeniowo-śledcze, o których mowa w art. 38 ust. 4 i 5 – ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2016 r. poz. 720, 1165 i 2261);
     - **a)**
     - **b)**
 
@@ -115,11 +114,11 @@ source: "eli-html"
 
 - **b)**
 
-4. Zasady określone w ust. 1 i 2 dotyczą odpowiednio funkcjonariuszy Służby Celno-Skarbowej, których stosunek pracy przekształcił się w stosunek służby na podstawie art. 171 ust. 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948, z późn. zm.) albo na podstawie art. 150 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, 835 i 1079). ” ;
+4. Zasady określone w ust. 1 i 2 dotyczą odpowiednio funkcjonariuszy Służby Celno-Skarbowej, których stosunek pracy przekształcił się w stosunek służby na podstawie art. 171 ust. 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 379, 1537, 1926 i 2409 oraz z 2018 r. poz. 2354.) albo na podstawie art. 150 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, 835 i 1079). ” ;
 
 - **6)** w art. 15e wyrazy „o których mowa w art. 12 ust. 2–3” zastępuje się wyrazami „o których mowa w art. 12 ust. 3”;
 - **7)** w art. 18b w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
-- **4)** zatrudnienia: w komórkach organizacyjnych, o których mowa w art. 11g ust. 1 i 2 oraz art. 36, jako inspektorzy prowadzący czynności dochodzeniowo-śledcze, o których mowa w art. 38 ust. 4 i 5 ustawy z dnia 28 września 1991 r. o kontroli skarbowej. ” ;
+- **4)** zatrudnienia: w komórkach organizacyjnych, o których mowa w art. 11g ust. 1 i 2 oraz art. 36, jako inspektorzy prowadzący czynności dochodzeniowo-śledcze, o których mowa w art. 38 ust. 4 i 5 – ustawy z dnia 28 września 1991 r. o kontroli skarbowej. ” ;
     - **a)**
     - **b)**
 
@@ -184,5 +183,5 @@ obliczonej na podstawie art. 15, art. 15aa, art. 15c lub prawa do jej zwiększen
 
 **Art. 13.** W stosunku do funkcjonariuszy, wobec których wydano decyzję o odmowie przyznania świadczenia motywacyjnego albo decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia na podstawie art. 120a ust. 7 pkt 2 ustawy zmienianej w art. 3, art. 117d ust. 6 pkt 2 ustawy zmienianej w art. 4, art. 97e ust. 6 pkt 3 ustawy zmienianej w art. 5, art. 208f ust. 5 pkt 2 ustawy zmienianej w art. 8 albo art. 172b ust. 6 pkt 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego wydaje się w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy. W przypadku wydania decyzji o przyznaniu świadczenia motywacyjnego wypłata świadczenia następuje za okres od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej oraz ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 379, 1537, 1926 i 2409 oraz z 2018 r. poz. 2354.
 

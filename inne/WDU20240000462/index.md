@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowychz dnia 25 marca 2024 r. w sprawie egzaminu dla kandydatów na członków organów nadzorczych
+# Rozporządzenie Ministra Aktywów Państwowychz dnia 25 marca 2024 r. w sprawie egzaminu dla kandydatów na członków organów nadzorczych Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2724).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-25 |
 | Data wydania | 2024-03-28 |
-| Wejście w życie | 2024-03-29 |
 | Ostatnia zmiana | 2024-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/462/text.pdf) |
 
@@ -61,8 +60,7 @@ Regulamin przeprowadzania egzaminu jest określony w załączniku do rozporządz
 § 5.
 Traci moc rozporządzenie Ministra Aktywów Państwowych z dnia 5 czerwca 2020 r. w sprawie egzaminu dla kandydatów na członków organów nadzorczych (Dz. U. poz. 1022).
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2724).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2724).
 Załącznik – Regulamin przeprowadzania egzaminu
 § 1.
 1.

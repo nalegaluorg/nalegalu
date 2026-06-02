@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-03-09 |
 | Data wydania | 2023-03-27 |
-| Wejście w życie | 2023-04-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000572) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/572/text.pdf) |
 
@@ -105,7 +104,7 @@ source: "eli-html"
 - **1)** tryb i kryteria wyboru jej członków,
 - **2)** zasady i tryb jej działania,
 - **3)** długość jej kadencji, z tym że kadencja nie może trwać dłużej niż kadencja rady powiatu, na terenie którego funkcjonuje ta rada,
-- **4)** zasady wygaśnięcia mandatu i odwołania jej członków dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków powiatowej rady seniorów.
+- **4)** zasady wygaśnięcia mandatu i odwołania jej członków – dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków powiatowej rady seniorów.
 
 12. Jeżeli rada powiatu zadecydowała o zwracaniu kosztów, o których mowa w ust. 10, w statucie, o którym mowa w ust. 11, określa się zasady zwrotu tych kosztów, w tym ich maksymalną wysokość podlegającą zwrotowi.
 
@@ -147,7 +146,7 @@ source: "eli-html"
 - **1)** tryb i kryteria wyboru jej członków,
 - **2)** zasady i tryb jej działania,
 - **3)** długość jej kadencji, z tym że kadencja nie może trwać dłużej niż kadencja sejmiku województwa, na terenie którego funkcjonuje ta rada,
-- **4)** zasady wygaśnięcia mandatu i odwołania jej członków dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków wojewódzkiej rady seniorów.
+- **4)** zasady wygaśnięcia mandatu i odwołania jej członków – dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków wojewódzkiej rady seniorów.
 
 12. Jeżeli sejmik województwa zadecydował o zwracaniu kosztów, o których mowa w ust. 10, w statucie, o którym mowa w ust. 11, określa się zasady zwrotu tych kosztów, w tym ich maksymalną wysokość podlegającą zwrotowi.
 

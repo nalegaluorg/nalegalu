@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-07 |
 | Data wydania | 2016-09-07 |
-| Wejście w życie | 2016-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1422/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 53a § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 53a § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147, 437, 633 i 960.) zarządza się, co następuje:
 § 1.
 Weryfikacja istnienia i treści pisma w systemie teleinformatycznym obsługującym postępowanie sądowe, zwanego dalej „systemem teleinformatycznym”, odbywa się za pośrednictwem usługi udostępnianej na stronie internetowej.
 § 2.
@@ -56,5 +55,5 @@ Dane, o których mowa w ust. 2 pkt 1, 2, 5 i 6, są udostępniane na każdej str
 § 3.
 Weryfikacja pisma nie wymaga uwierzytelnienia w systemie teleinformatycznym.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.
+Rozporządzenie wchodzi w życie z dniem 8 września 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147, 437, 633 i 960.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 24 października 2022 r. zmieniające rozporządzenie w sprawie zapasów paliw w przedsiębiorstwach energetycznych
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 24 października 2022 r. zmieniające rozporządzenie w sprawie zapasów paliw w przedsiębiorstwach energetycznych Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-24 |
 | Data wydania | 2022-10-28 |
-| Wejście w życie | 2022-11-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002213) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2213/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 10 ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energety
 § 1.
 W rozporządzeniu Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 12 lutego 2003 r. w sprawie zapasów paliw w przedsiębiorstwach energetycznych (Dz. U. poz. 338 oraz z 2010 r. poz. 701) wprowadza się następujące zmiany:
 1)
-w § 2 ust. 1 i 1a otrzymują brzmienie:
-„
+w § 2 ust. 1 i 1a otrzymują brzmienie: „
 1.
 Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem energii elektrycznej w jednostkach wytwórczych centralnie dysponowanych wykorzystujących węgiel kamienny, węgiel brunatny oraz olej opałowy utrzymuje zapasy tych paliw w ilości odpowiadającej co najmniej:
 1)
@@ -48,11 +46,9 @@ dla węgla brunatnego – piętnastodobowemu zużyciu;
 3)
 dla olejów opałowych, gdy stanowią one podstawowe źródło energii pierwotnej – piętnastodobowemu zużyciu, jeżeli olej opałowy jest dostarczany transportem kolejowym lub samochodowym do miejsca składowania sąsiadującego z miejscem wytwarzania energii.
 1a.
-W przypadkach, o których mowa w ust. 1 pkt 1 lit. b oraz pkt 2, uwzględnia się zapasy utrzymywane przez dostawcę, na podstawie umowy sprzedaży zawartej z przedsiębiorstwem energetycznym na okres nie krótszy niż rok, jeżeli transport węgla kamiennego lub węgla brunatnego od dostawcy do miejsca jego składowania znajdującego się w odległości nie większej niż 10 km od miejsca wytwarzania energii jest realizowany w sposób zapewniający utrzymanie ciągłości dostaw paliwa dla przedsiębiorstwa energetycznego, przy użyciu środków transportu przeznaczonych i wykorzystywanych wyłącznie w tym celu.
-” ;
+W przypadkach, o których mowa w ust. 1 pkt 1 lit. b oraz pkt 2, uwzględnia się zapasy utrzymywane przez dostawcę, na podstawie umowy sprzedaży zawartej z przedsiębiorstwem energetycznym na okres nie krótszy niż rok, jeżeli transport węgla kamiennego lub węgla brunatnego od dostawcy do miejsca jego składowania znajdującego się w odległości nie większej niż 10 km od miejsca wytwarzania energii jest realizowany w sposób zapewniający utrzymanie ciągłości dostaw paliwa dla przedsiębiorstwa energetycznego, przy użyciu środków transportu przeznaczonych i wykorzystywanych wyłącznie w tym celu. ” ;
 2)
-po § 2 dodaje się § 2a-2c w brzmieniu:
-„
+po § 2 dodaje się § 2a-2c w brzmieniu: „
 § 2a.
 1.
 Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem ciepła, w tym ciepła wytwarzanego w kogeneracji, lub energii elektrycznej w jednostkach wytwórczych innych niż wskazane w § 2 ust. 1 wykorzystujących węgiel kamienny, węgiel brunatny oraz olej opałowy utrzymuje zapasy tych paliw w ilości odpowiadającej co najmniej:
@@ -82,11 +78,9 @@ Jeżeli zapasy paliw są utrzymywane w odległości, o której mowa w ust. 1, pr
 3.
 Przedsiębiorstwo energetyczne, o którym mowa w § 2 ust. 1, przekazuje Prezesowi Urzędu Regulacji Energetyki, zwanemu dalej „Prezesem URE”, dokumenty potwierdzające, że zapasy znajdują się w odległości, o której mowa w ust. 1, nie później niż w terminie 7 dni przed rozpoczęciem miesiąca, w którym zapasy są utrzymywane na warunkach określonych w ust. 1 i 2.
 § 2c.
-Jeżeli przedsiębiorstwo energetyczne jest jednocześnie przedsiębiorstwem energetycznym, o którym mowa w § 2 ust. 1 i § 2a ust. 1, utrzymuje ono zapasy paliw na warunkach określonych w § 2 i § 3.
-” ;
+Jeżeli przedsiębiorstwo energetyczne jest jednocześnie przedsiębiorstwem energetycznym, o którym mowa w § 2 ust. 1 i § 2a ust. 1, utrzymuje ono zapasy paliw na warunkach określonych w § 2 i § 3. ” ;
 3)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
 1.
 Zużycie dobowe, o którym mowa w § 2 ust. 1, w poszczególnych miesiącach ustala się według wzoru: \( C_{\min .} = \eta \times t_{doba} \times P_{zainst.} \times W_{sezonowy} \) Cmin. – zużycie dobowe paliwa [t], η – średnie zużycie dobowe paliwa wymagane do produkcji 1 MWh energii elektrycznej brutto w danym miesiącu w trzech ostatnich latach [t/MWh], tdoba – liczba godzin w dobie [h], Pzainst. – moc zainstalowana jednostki wytwórczej na wymagany okres w zakresie wykorzystywanego paliwa [MW], Wsezonowy – współczynnik sezonowy, który wynosi:
@@ -111,12 +105,9 @@ przedsiębiorstwo energetyczne rozpoczyna działalność gospodarczą w zakresie
 2)
 występuje zmiana wielkości zużycia paliw w przedsiębiorstwie energetycznym w wyniku uruchomienia nowych lub zmodernizowanych urządzeń lub zmiany rodzaju lub jakości zużywanych paliw, lub
 3)
-występuje zmiana wielkości zużycia paliw w przedsiębiorstwie energetycznym w wyniku planowanego wycofania z eksploatacji urządzeń
-średnie zużycie dobowe paliwa w okresach, o których mowa w ust. 1, ustala się jako planowane wielkości średniego dobowego ich zużycia w tych okresach, uwzględniającego zmiany mocy zainstalowanej.
-” ;
+występuje zmiana wielkości zużycia paliw w przedsiębiorstwie energetycznym w wyniku planowanego wycofania z eksploatacji urządzeń – średnie zużycie dobowe paliwa w okresach, o których mowa w ust. 1, ustala się jako planowane wielkości średniego dobowego ich zużycia w tych okresach, uwzględniającego zmiany mocy zainstalowanej. ” ;
 4)
-po § 3 dodaje się § 3a w brzmieniu:
-„
+po § 3 dodaje się § 3a w brzmieniu: „
 § 3a.
 1.
 Zużycie dobowe, o którym mowa w § 2a ust. 1, w poszczególnych miesiącach ustala się w następujący sposób:
@@ -149,19 +140,15 @@ przedsiębiorstwo energetyczne rozpoczyna działalność gospodarczą w zakresie
 2)
 występuje zmiana wielkości zużycia paliw w przedsiębiorstwie energetycznym w wyniku uruchomienia nowych lub zmodernizowanych urządzeń lub zmiany rodzaju lub jakości zużywanych paliw, lub
 3)
-występuje zmiana wielkości zużycia paliw w przedsiębiorstwie energetycznym w wyniku planowanego wycofania z eksploatacji urządzeń
-średnie zużycie dobowe paliwa w okresach, o których mowa w ust. 1, ustala się jako planowane wielkości średniego dobowego ich zużycia w tych okresach.
+występuje zmiana wielkości zużycia paliw w przedsiębiorstwie energetycznym w wyniku planowanego wycofania z eksploatacji urządzeń – średnie zużycie dobowe paliwa w okresach, o których mowa w ust. 1, ustala się jako planowane wielkości średniego dobowego ich zużycia w tych okresach.
 3.
 Przedsiębiorstwo energetyczne, o którym mowa w § 2a ust. 1, które dokonuje zmiany źródła energii pierwotnej w terminie:
 1)
 od 90. dnia kalendarzowego do 60. dnia kalendarzowego poprzedzającego dzień rozpoczęcia dostaw energii lub ciepła z nowej jednostki wytwórczej do sieci,
 2)
-od 59. dnia kalendarzowego do dnia poprzedzającego dzień rozpoczęcia dostaw energii lub ciepła z nowej jednostki wytwórczej do sieci
-może utrzymywać zapasy paliw na poziomie nie mniejszym niż odpowiednio 50% i 25% poziomu określonego w ust. 1 albo 2.
-” ;
+od 59. dnia kalendarzowego do dnia poprzedzającego dzień rozpoczęcia dostaw energii lub ciepła z nowej jednostki wytwórczej do sieci – może utrzymywać zapasy paliw na poziomie nie mniejszym niż odpowiednio 50% i 25% poziomu określonego w ust. 1 albo 2. ” ;
 5)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 Zapasy paliw gromadzi się w magazynach, w zbiornikach i na składowiskach w sposób zapewniający:
 1)
@@ -171,24 +158,19 @@ ochronę środowiska;
 3)
 zminimalizowanie utraty parametrów jakościowych paliwa;
 4)
-składowanie i pobieranie paliw w sposób ciągły przez cały rok, z zastrzeżeniem § 2 ust. 1a i 2 oraz § 2a ust. 2 i 3.
-” ;
+składowanie i pobieranie paliw w sposób ciągły przez cały rok, z zastrzeżeniem § 2 ust. 1a i 2 oraz § 2a ust. 2 i 3. ” ;
 6)
-po § 4 dodaje się § 4a w brzmieniu:
-„
+po § 4 dodaje się § 4a w brzmieniu: „
 § 4a.
 Kontrolę stanu zapasów paliw przeprowadza się w siedzibie:
 1)
 Prezesa URE na podstawie dokumentów i wyjaśnień dotyczących ewidencjonowania zapasów, złożonych na piśmie na jego żądanie, lub
 2)
-przedsiębiorstwa energetycznego lub miejscach gromadzenia i utrzymywania zapasów.
-” ;
+przedsiębiorstwa energetycznego lub miejscach gromadzenia i utrzymywania zapasów. ” ;
 7)
-w § 5 w ust. 3 pkt 1 otrzymuje brzmienie:
-„
+w § 5 w ust. 3 pkt 1 otrzymuje brzmienie: „
 1)
-ustalenia dotyczące rzeczywistego stanu zapasów i ich zgodności z wielkościami ustalanymi zgodnie z § 2 i § 3 lub § 2a i § 3a.
-” .
+ustalenia dotyczące rzeczywistego stanu zapasów i ich zgodności z wielkościami ustalanymi zgodnie z § 2 i § 3 lub § 2a i § 3a. ” .
 § 2.
 Do przeprowadzania kontroli stanu zapasów rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
@@ -197,6 +179,5 @@ Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem ciepła, w tym ciep�
 2.
 Do przeprowadzania kontroli stanu zapasów paliw utrzymywanych przez przedsiębiorstwo energetyczne, o którym mowa w ust. 1, do dnia 31 maja 2023 r. stosuje się § 5 ust. 3 pkt 1 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 

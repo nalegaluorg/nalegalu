@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacji i Naukiz dnia 9 listopada 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie legitymacji służbowej nauczyciela akademickiego
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 9 listopada 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie legitymacji służbowej nauczyciela akademickiego Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 | Pole | Wartość |
 |---|---|
@@ -35,13 +35,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 13 marca 2020 r. w sprawie legitymacji służbowej nauczyciela akademickiego (Dz. U. poz. 689), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Edukacji i Nauki z dnia 8 stycznia 2021 r. zmieniającym rozporządzenie w sprawie legitymacji służbowej nauczyciela akademickiego (Dz. U. poz. 79).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 8 stycznia 2021 r. zmieniającego rozporządzenie w sprawie legitymacji służbowej nauczyciela akademickiego (Dz. U. poz. 79), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 8 stycznia 2021 r. zmieniającego rozporządzenie w sprawie legitymacji służbowej nauczyciela akademickiego (Dz. U. poz. 79), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
-Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 13 marca 2020 r. w sprawie legitymacji służbowej nauczyciela akademickiego
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 13 marca 2020 r. w sprawie legitymacji służbowej nauczyciela akademickiegoObecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 Na podstawie art. 122 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619, 1630, 2141 i 2232) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wzór legitymacji służbowej nauczyciela akademickiego, zwanej dalej „legitymacją”, oraz sposób potwierdzania jej ważności.
@@ -57,10 +54,9 @@ co semestr – w przypadku nauczyciela akademickiego zatrudnionego na czas okre�
 2.
 Ważność legitymacji potwierdza się przez aktualizację danych w układzie elektronicznym oraz umieszczenie hologramu w kolejno oznaczonych polach legitymacji. Opis hologramu stanowi załącznik nr 2 do rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
-1) Obecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 27 lipca 2006 r. w sprawie wzoru oraz trybu wystawiania legitymacji służbowej nauczycielowi akademickiemu (Dz. U. poz. 990), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534).
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 27 lipca 2006 r. w sprawie wzoru oraz trybu wystawiania legitymacji służbowej nauczycielowi akademickiemu (Dz. U. poz. 990), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534). 1) Obecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 27 lipca 2006 r. w sprawie wzoru oraz trybu wystawiania legitymacji służbowej nauczycielowi akademickiemu (Dz. U. poz. 990), które utraciło moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669 oraz z 2019 r. poz. 39 i 534).
 
-## Załącznik nr 1 — – Wzór legitymacji służbowej nauczyciela akademickiego
+## Załącznik nr 1 — – Wzór legitymacji służbowej nauczyciela akademickiegoZe zmianą wprowadzoną przez § 1 rozporządzenia Ministra Edukacji i Nauki z dnia 8 stycznia 2021 r. zmieniającego rozporządzenie w sprawie legitymacji służbowej nauczyciela akademickiego (Dz. U. poz. 79), które weszło w życie z dniem 14 stycznia 2021 r.
 
 Opis:
 1.

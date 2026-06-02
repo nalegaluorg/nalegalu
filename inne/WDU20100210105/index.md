@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy o bezpieczeństwie żywności i żywienia oraz niektórych innych ustaw
+# Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy o bezpieczeństwie żywności i żywienia oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń oraz ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-01-08 |
 | Data wydania | 2010-02-08 |
-| Wejście w życie | 2010-03-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100210105) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/105/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. Nr 171, poz. 1225, z późn. zm.) wprowadza się następujące zmiany:
+Oświadczenia żywieniowe i zdrowotne
 
-- **1)** odnośnik nr 2 do tytułu ustawy otrzymuje brzmienie: „
-- **2)** Ustawa wykonuje w zakresie swojej regulacji następujące rozporządzenia Wspólnoty Europejskiej:
+**Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. Nr 171, poz. 1225, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1346, Nr 223, poz. 1463 i Nr 234, poz. 1570 oraz z 2009 r. Nr 98, poz. 817.) wprowadza się następujące zmiany:
+
+- **1)** odnośnik nr 2 do tytułu ustawy otrzymuje brzmienie: „ 2) Ustawa wykonuje w zakresie swojej regulacji następujące rozporządzenia Wspólnoty Europejskiej:
 - **1)** rozporządzenie Rady (EURATOM) nr 3954/87 z dnia 22 grudnia 1987 r. ustanawiające maksymalne dozwolone poziomy skażenia radioaktywnego środków spożywczych oraz pasz po wypadku jądrowym lub w każdym innym przypadku pogotowia radiologicznego (Dz. Urz. WE L 371 z 30.12.1987, str. 11, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 1, str. 333);
 - **2)** rozporządzenie Komisji (EURATOM) nr 944/89 z dnia 12 kwietnia 1989 r. ustanawiające maksymalne dozwolone poziomy skażenia radioaktywnego w środkach spożywczych o mniejszym znaczeniu w następstwie wypadku jądrowego lub w każdym innym przypadku pogotowia radiologicznego (Dz. Urz. WE L 101 z 13.04.1989, str. 17; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 1, str. 347);
 - **3)** rozporządzenie Rady (EWG) nr 315/93 z dnia 8 lutego 1993 r. ustanawiające procedury Wspólnoty w odniesieniu do substancji skażających w żywności (Dz. Urz. WE L 37 z 13.02.1993, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 204);
@@ -211,7 +211,7 @@ source: "eli-html"
 3. Dopuszcza się do obrotu na terytorium Rzeczypospolitej Polskiej środki spożywcze niespełniające wymagań, o których mowa w ust. 2, jeżeli zostały:
 
 - **1)** wyprodukowane lub wprowadzone do obrotu w innym państwie członkowskim Unii Europejskiej, zgodnie z prawem tego państwa, lub
-- **2)** wyprodukowane w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA), będącym stroną umowy o Europejskim Obszarze Gospodarczym, albo wyprodukowane lub wprowadzone do obrotu w Republice Turcji, zgodnie z prawem tych państw, w zakresie, w jakim korzystają ze swobody przepływu towarów na podstawie umów zawartych ze Wspólnotą Europejską pod warunkiem, że nie stanowią zagrożenia dla zdrowia lub życia człowieka.
+- **2)** wyprodukowane w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA), będącym stroną umowy o Europejskim Obszarze Gospodarczym, albo wyprodukowane lub wprowadzone do obrotu w Republice Turcji, zgodnie z prawem tych państw, w zakresie, w jakim korzystają ze swobody przepływu towarów na podstawie umów zawartych ze Wspólnotą Europejską – pod warunkiem, że nie stanowią zagrożenia dla zdrowia lub życia człowieka.
 
 4. W przypadku uzasadnionego podejrzenia, że środek spożywczy, o którym mowa w ust. 3, może zagrażać zdrowiu lub życiu człowieka, właściwy organ urzędowej kontroli żywności żąda przedstawienia przez podmiot działający na rynku spożywczym w wyznaczonym terminie informacji potwierdzających spełnianie równoważnych wymagań zdrowotnych, w tym dokumentów wydanych przez właściwe władze państwa pochodzenia. ” ;
 
@@ -233,7 +233,7 @@ source: "eli-html"
 **Art. 10.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wykaz substancji dodatkowych (dozwolonych substancji dodatkowych), które mogą być wprowadzane do obrotu i stosowane w żywności, w tym w aromatach, zgodnie z ich funkcjami technologicznymi, oraz szczegółowe warunki ich stosowania, w tym rodzaj środków spożywczych, w których mogą być stosowane, oraz ich dopuszczalne maksymalne poziomy,
-- **2)** specyfikacje i kryteria czystości substancji dodatkowych mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz wymagania w tym zakresie obowiązujące w Unii Europejskiej. ” ;
+- **2)** specyfikacje i kryteria czystości substancji dodatkowych – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz wymagania w tym zakresie obowiązujące w Unii Europejskiej. ” ;
 - **11)** po art. 10 dodaje się art. 10a w brzmieniu: „ Wymagania dotyczące enzymów spożywczych określa rozporządzenie nr 1332/2008. ” ;
 - **12)** uchyla się art. 11;
 - **13)** art. 13 otrzymuje brzmienie: „
@@ -257,10 +257,10 @@ source: "eli-html"
 
 2. Minister właściwy do spraw zdrowia może wydać rozporządzenie, o którym mowa w ust. 1, z zachowaniem trybu i po spełnieniu warunków określonych w art. 5 ust. 3 rozporządzenia nr 315/93.
 
-3. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa może określić, w drodze rozporządzenia, na potrzeby urzędowej kontroli żywności i monitoringu, w celu oznaczania poziomów zawartości substancji zanieczyszczających innych niż określone w rozporządzeniach Unii Europejskiej[3) Rozporządzenie Komisji (WE) nr 401/2006 z dnia 23 lutego 2006 r. ustanawiające metody pobierania próbek i analizy do celów urzędowej kontroli poziomów mikotoksyn w środkach spożywczych (Dz. Urz. UE L 70 z 23.02.2006, str. 12); rozporządzenie Komisji (WE) nr 1882/2006 z dnia 19 grudnia 2006 r. ustanawiające metody pobierania próbek do celów urzędowej kontroli poziomów azotanów w niektórych środkach spożywczych (Dz. Urz. UE L 364 z 20.12.2006, str. 25), rozporządzenie Komisji (WE) nr 1883/2006 z dnia 19 grudnia 2006 r. ustanawiające metody pobierania próbek i metody analizy do celów urzędowej kontroli dioksyn i dioksynopodobnych polichlorowanych bifenyli (PCB) w środkach spożywczych (Dz. Urz. UE L 364 z 20.12.2006, str. 32), rozporządzenie Komisji (WE) nr 333/2007 z dnia 28 marca 2007 r. ustanawiające metody pobierania próbek i metody analiz do celów urzędowej kontroli poziomów ołowiu, kadmu, rtęci, cyny nieorganicznej, 3-MCPD i benzo[a]pirenu w środkach spożywczych (Dz. Urz. UE L 88 z 29.03.2007, str. 29).](#gloss-0:3:):
+3. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa może określić, w drodze rozporządzenia, na potrzeby urzędowej kontroli żywności i monitoringu, w celu oznaczania poziomów zawartości substancji zanieczyszczających innych niż określone w rozporządzeniach Unii Europejskiej[Rozporządzenie Komisji (WE) nr 401/2006 z dnia 23 lutego 2006 r. ustanawiające metody pobierania próbek i analizy do celów urzędowej kontroli poziomów mikotoksyn w środkach spożywczych (Dz. Urz. UE L 70 z 23.02.2006, str. 12); rozporządzenie Komisji (WE) nr 1882/2006 z dnia 19 grudnia 2006 r. ustanawiające metody pobierania próbek do celów urzędowej kontroli poziomów azotanów w niektórych środkach spożywczych (Dz. Urz. UE L 364 z 20.12.2006, str. 25), rozporządzenie Komisji (WE) nr 1883/2006 z dnia 19 grudnia 2006 r. ustanawiające metody pobierania próbek i metody analizy do celów urzędowej kontroli dioksyn i dioksynopodobnych polichlorowanych bifenyli (PCB) w środkach spożywczych (Dz. Urz. UE L 364 z 20.12.2006, str. 32), rozporządzenie Komisji (WE) nr 333/2007 z dnia 28 marca 2007 r. ustanawiające metody pobierania próbek i metody analiz do celów urzędowej kontroli poziomów ołowiu, kadmu, rtęci, cyny nieorganicznej, 3-MCPD i benzo[a]pirenu w środkach spożywczych (Dz. Urz. UE L 88 z 29.03.2007, str. 29).](#gloss-0:3:):
 
 - **1)** metody pobierania i przygotowywania próbek określonych środków spożywczych,
-- **2)** kryteria dla metod analitycznych stosowanych do oznaczania tych poziomów mając na względzie potrzebę zapewnienia bezpieczeństwa żywności. ” ;
+- **2)** kryteria dla metod analitycznych stosowanych do oznaczania tych poziomów – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności. ” ;
 - **16)** w art. 24 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Środki spożywcze specjalnego przeznaczenia żywieniowego, ze względu na swoje przeznaczenie, obejmują w szczególności następujące grupy: ” ;
 - **17)** w art. 26 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** wykaz substancji chemicznych należących do kategorii substancji dodawanych w szczególnych celach żywieniowych do środków spożywczych specjalnego przeznaczenia żywieniowego określonych w art. 24 ust. 2 pkt 1 i 2, które mogą być wykorzystane w produkcji tych środków spożywczych oraz warunki ich stosowania, ” ;
@@ -273,7 +273,7 @@ source: "eli-html"
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** środki spożywcze, do których są obligatoryjnie dodawane witaminy i składniki mineralne,
-- **2)** poziomy lub maksymalne poziomy witamin i składników mineralnych mając na względzie potwierdzone dane naukowe, w tym dotyczące zmiennego zapotrzebowania różnych grup konsumentów, wymagania określone w art. 12 rozporządzenia nr 1925/2006 oraz potrzebę zapewnienia bezpieczeństwa żywności.
+- **2)** poziomy lub maksymalne poziomy witamin i składników mineralnych – mając na względzie potwierdzone dane naukowe, w tym dotyczące zmiennego zapotrzebowania różnych grup konsumentów, wymagania określone w art. 12 rozporządzenia nr 1925/2006 oraz potrzebę zapewnienia bezpieczeństwa żywności.
 
 3. Minister właściwy do spraw zdrowia może określić w rozporządzeniu, o którym mowa w ust. 2, zakazy lub ograniczenia w stosowaniu niektórych substancji innych niż witaminy i składniki mineralne w produkcji określonych środków spożywczych.
 
@@ -283,7 +283,7 @@ source: "eli-html"
 
 - **1)** preparaty do początkowego żywienia niemowląt oraz środki spożywcze specjalnego przeznaczenia żywieniowego, które nie należą do grup określonych w art. 24 ust. 2 pkt 1–3,
 - **2)** suplementy diety,
-- **3)** środki spożywcze, do których dodawane są witaminy, składniki mineralne lub substancje, o których mowa w załączniku III część B i C do rozporządzenia nr 1925/2006 jest obowiązany powiadomić o tym Głównego Inspektora Sanitarnego.
+- **3)** środki spożywcze, do których dodawane są witaminy, składniki mineralne lub substancje, o których mowa w załączniku III część B i C do rozporządzenia nr 1925/2006 – jest obowiązany powiadomić o tym Głównego Inspektora Sanitarnego.
 
 2. W powiadomieniu, o którym mowa w ust. 1, podmiot działający na rynku spożywczym podaje następujące dane:
 
@@ -332,7 +332,7 @@ source: "eli-html"
 
 1. W przypadku przeprowadzania postępowania, o którym mowa w art. 30 ust. 1, Główny Inspektor Sanitarny może:
 
-- **1)** zażądać opinii Zespołu do Spraw Suplementów Diety działającego w ramach Rady Sanitarno-Epidemiologicznej, o której mowa w art. 9 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.);
+- **1)** zażądać opinii Zespołu do Spraw Suplementów Diety działającego w ramach Rady Sanitarno-Epidemiologicznej, o której mowa w art. 9 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570 oraz z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241.);
 - **2)** zobowiązać podmiot, o którym mowa w art. 29 ust. 1, do udokumentowania, że środek spożywczy spełnia wymagania, o których mowa w art. 30 ust. 1, w szczególności do przedłożenia opinii jednostki naukowej.
 
 2. W przypadku przeprowadzania postępowania, o którym mowa w art. 30 ust. 1 pkt 2, mającego na celu wyjaśnienie, że środek spożywczy objęty powiadomieniem nie spełnia wymagań produktu leczniczego określonego przepisami prawa farmaceutycznego albo wyrobu medycznego w rozumieniu przepisów o wyrobach medycznych, Główny Inspektor Sanitarny zobowiązuje podmiot, o którym mowa w art. 29 ust. 1, do przedłożenia opinii Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
@@ -349,7 +349,7 @@ source: "eli-html"
 - **2)** dane zawarte w rejestrze produktów objętych powiadomieniem umożliwiające ich identyfikację oraz wzór rejestru,
 - **3)** wykaz krajowych jednostek naukowych właściwych do wydawania opinii, o której mowa w ust. 1 pkt 2,
 - **4)** metody obliczania kosztów ponoszonych przez krajową jednostkę naukową w związku z wydaniem opinii, w tym w szczególności rodzaje kosztów i średni wymiar czasu pracy niezbędnego do przygotowania opinii,
-- **5)** wysokość opłaty pobieranej przy wydawaniu opinii przez Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych mając na względzie zapewnienie sprawnego przebiegu postępowań, o których mowa w art. 30, kompetencje jednostek zgodnie z zakresem zadań określonych statutami oraz kwalifikacje personelu i kalkulację kosztów za przygotowywanie opinii. ” ;
+- **5)** wysokość opłaty pobieranej przy wydawaniu opinii przez Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych – mając na względzie zapewnienie sprawnego przebiegu postępowań, o których mowa w art. 30, kompetencje jednostek zgodnie z zakresem zadań określonych statutami oraz kwalifikacje personelu i kalkulację kosztów za przygotowywanie opinii. ” ;
 - **21)** w art. 32 ust. 1 i 2 otrzymują brzmienie: „
 
 1. W przypadku podejrzenia, że środek spożywczy, o którym mowa w art. 29 ust. 1, niespełniający wymagań określonych dla tego środka, znajduje się w obrocie, właściwy państwowy powiatowy lub graniczny inspektor sanitarny podejmuje decyzję o czasowym wstrzymaniu wprowadzania tego środka spożywczego do obrotu lub wycofaniu z obrotu do czasu zakończenia postępowania, o którym mowa w art. 30 ust. 1.
@@ -383,7 +383,7 @@ source: "eli-html"
 - **1)** szczegółowe wymagania, jakie powinny spełniać naturalne wody mineralne, wody źródlane i wody stołowe, w tym wymagania mikrobiologiczne, maksymalne dopuszczalne poziomy naturalnych składników mineralnych tych wód, warunki poddawania tych wód procesom usuwania składników lub nasycania dwutlenkiem węgla,
 - **2)** wzorcowy zakres badań, sposób przeprowadzania oceny i kwalifikacji rodzajowej wód, o których mowa w pkt 1,
 - **3)** szczególne wymagania dotyczące oznakowania, prezentacji i reklamy wód, o których mowa w pkt 1,
-- **4)** szczegółowe wymagania higieniczne dotyczące wydobywania, transportu i rozlewu wód, o których mowa w pkt 1 mając na względzie potrzebę zapewnienia bezpieczeństwa żywności, przestrzeganie warunków określonych w art. 33 oraz jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej. ” ;
+- **4)** szczegółowe wymagania higieniczne dotyczące wydobywania, transportu i rozlewu wód, o których mowa w pkt 1 – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności, przestrzeganie warunków określonych w art. 33 oraz jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej. ” ;
 - **25)** w art. 42 uchyla się ust. 2;
 - **26)** art. 44 otrzymuje brzmienie: „
 
@@ -396,7 +396,7 @@ source: "eli-html"
 - **5)** wzory atestów na grzyby świeże i grzyby suszone,
 - **6)** warunki i tryb uzyskiwania uprawnień klasyfikatora grzybów i grzyboznawcy, w tym ramowe programy kursów specjalistycznych,
 - **7)** państwowego wojewódzkiego inspektora sanitarnego właściwego do nadawania i pozbawiania uprawnień, o których mowa w pkt 6,
-- **8)** wzory świadectw klasyfikatora grzybów i grzyboznawcy mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz racjonalne gospodarowanie zasobami grzybów rosnących w warunkach naturalnych, w tym ograniczenia wynikające z przepisów o ochronie przyrody. ” ;
+- **8)** wzory świadectw klasyfikatora grzybów i grzyboznawcy – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz racjonalne gospodarowanie zasobami grzybów rosnących w warunkach naturalnych, w tym ograniczenia wynikające z przepisów o ochronie przyrody. ” ;
 - **27)** w art. 45 ust. 4 otrzymuje brzmienie: „
 
 4. Środki spożywcze niebędące preparatami do początkowego żywienia niemowląt nie mogą być oznakowane, prezentowane, reklamowane, promowane i wprowadzane do obrotu jako środki spożywcze wystarczające do zaspokajania potrzeb żywieniowych prawidłowo rozwijających się niemowląt w ciągu pierwszych miesięcy życia, do momentu wprowadzenia odpowiedniego żywienia uzupełniającego. ” ;
@@ -415,7 +415,7 @@ source: "eli-html"
 
 - **31)** w dziale II po rozdziale 11 dodaje się rozdział 12 w brzmieniu: „
 
-#### Rozdział 12 Oświadczenia żywieniowe i zdrowotne
+#### Rozdział 12
 
 **Art. 52a.** Środki spożywcze mogą być znakowane oświadczeniami żywieniowymi i zdrowotnymi pod warunkiem spełniania wymagań określonych w rozporządzeniu nr 1924/2006. 1. Główny Inspektor Sanitarny jest właściwym organem krajowym w rozumieniu art. 13 ust. 5, art. 14, art. 15 ust. 2 oraz art. 16–19 rozporządzenia nr 1924/2006 w zakresie odnoszącym się do przyjmowania i przekazywania do Europejskiego Urzędu ds. Bezpieczeństwa Żywności (EFSA) wniosków podmiotów działających na rynku spożywczym w celu udzielenia zezwolenia na wpisanie oświadczenia o zmniejszeniu ryzyka choroby lub oświadczenia odnoszącego się do rozwoju i zdrowia dzieci lub oświadczenia zawierającego wniosek o ochronę zastrzeżonych danych do wspólnotowego rejestru oświadczeń żywieniowych i zdrowotnych dotyczących żywności. 2. Właściwy państwowy powiatowy inspektor sanitarny lub państwowy graniczny inspektor sanitarny są organami właściwymi w sprawach czasowego zawieszania na terytorium Rzeczypospolitej Polskiej stosowania oświadczenia żywieniowego lub zdrowotnego niezgodnego z przepisami rozporządzenia nr 1924/2006. 3. W przypadku wydania decyzji w zakresie, o którym mowa w ust. 2, właściwy państwowy inspektor sanitarny powiadamia Głównego Inspektora Sanitarnego, przesyłając kopię ostatecznej decyzji. ” ;
 
@@ -453,7 +453,7 @@ source: "eli-html"
 - **1)** produkują lub wprowadzają do obrotu żywność pochodzenia niezwierzęcego,
 - **2)** wprowadzają do obrotu produkty pochodzenia zwierzęcego, nieobjętych urzędową kontrolą organów Inspekcji Weterynaryjnej,
 - **3)** produkują lub wprowadzają do obrotu żywność zawierającą jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego, o której mowa w art. 1 ust. 2 rozporządzenia nr 853/2004, z zastrzeżeniem art. 73 ust. 6,
-- **4)** działają na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością, w tym zakładów prowadzonych przez podmioty zajmujące się recyklingiem w trybie i na zasadach określonych w rozporządzeniu nr 852/2004 i rozporządzeniu nr 882/2004. ” ;
+- **4)** działają na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością, w tym zakładów prowadzonych przez podmioty zajmujące się recyklingiem – w trybie i na zasadach określonych w rozporządzeniu nr 852/2004 i rozporządzeniu nr 882/2004. ” ;
 - **37)** w art. 62: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Właściwy ze względu na siedzibę zakładu lub miejsce prowadzenia przez zakład działalności państwowy powiatowy inspektor sanitarny lub państwowy graniczny inspektor sanitarny: ” , ust. 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -461,7 +461,7 @@ source: "eli-html"
 2. W odniesieniu do obiektów lub urządzeń ruchomych i tymczasowych właściwym w sprawach rejestracji oraz zatwierdzania jest państwowy powiatowy inspektor sanitarny lub państwowy graniczny inspektor sanitarny:
 
 - **1)** dla obiektów lub urządzeń ruchomych – właściwy ze względu na siedzibę zakładu,
-- **2)** dla obiektów lub urządzeń tymczasowych – właściwy ze względu na miejsce prowadzenia działalności przez zakład który produkuje lub wprowadza do obrotu żywność z tych obiektów lub urządzeń. ” , dodaje się ust. 3 w brzmieniu: „
+- **2)** dla obiektów lub urządzeń tymczasowych – właściwy ze względu na miejsce prowadzenia działalności przez zakład – który produkuje lub wprowadza do obrotu żywność z tych obiektów lub urządzeń. ” , dodaje się ust. 3 w brzmieniu: „
     - **c)**
 
 3. W odniesieniu do urządzeń dystrybucyjnych do sprzedaży żywności właściwym w sprawach rejestracji jest państwowy powiatowy inspektor sanitarny lub państwowy graniczny inspektor sanitarny właściwy ze względu na siedzibę zakładu, który produkuje lub wprowadza do obrotu żywność z tych urządzeń. ” ;
@@ -505,15 +505,18 @@ source: "eli-html"
 1a. W przypadku zmiany danych podmiot działający na rynku spożywczym lub na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością składa wniosek o dokonanie zmian w rejestrze zakładów, w formie pisemnej, według wzoru określonego na podstawie art. 67 ust. 3 pkt 4, w terminie 30 dni od dnia powstania zmiany. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
 
 - **c)**
-- **1)** imię, nazwisko i numer PESEL, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy, numer REGON oraz numer identyfikacji podatkowej (NIP), jeżeli podmiot takie numery posiada; ” , w ust. 3: – uchyla się pkt 2, – pkt 3 otrzymuje brzmienie: „ 3) zaświadczenie o wpisie do ewidencji gospodarstw rolnych, w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zawierające numer identyfikacyjny – w odniesieniu do podmiotów działających na rynku spożywczym prowadzących działalność w zakresie produkcji pierwotnej lub dostaw bezpośrednich; ” ;
+- **1)** imię, nazwisko i numer PESEL, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy, numer REGON oraz numer identyfikacji podatkowej (NIP), jeżeli podmiot takie numery posiada; ” , w ust. 3: – uchyla się pkt 2, pkt 3 otrzymuje brzmienie: „
     - **d)**
 
+- **3)** zaświadczenie o wpisie do ewidencji gospodarstw rolnych, w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zawierające numer identyfikacyjny – w odniesieniu do podmiotów działających na rynku spożywczym prowadzących działalność w zakresie produkcji pierwotnej lub dostaw bezpośrednich; ” ;
 - **40)** w art. 65: w ust. 1 pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** wniosku podmiotu działającego na rynku spożywczym lub na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością w przypadkach określonych w art. 63 ust. 2; ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) wniosku podmiotu działającego na rynku spożywczym lub na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością; ” , – pkt 3 otrzymuje brzmienie: „ 3) decyzji właściwego państwowego powiatowego inspektora sanitarnego lub państwowego granicznego inspektora sanitarnego, jeżeli zakład zaprzestał działalności w zakresie produkcji lub obrotu żywnością lub materiałami i wyrobami przeznaczonymi do kontaktu z żywnością, a podmiot działający na rynku spożywczym lub na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością nie złożył wniosku, o którym mowa w pkt 1; ” ;
+- **1)** wniosku podmiotu działającego na rynku spożywczym lub na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością w przypadkach określonych w art. 63 ust. 2; ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **b)**
 
+- **1)** wniosku podmiotu działającego na rynku spożywczym lub na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** decyzji właściwego państwowego powiatowego inspektora sanitarnego lub państwowego granicznego inspektora sanitarnego, jeżeli zakład zaprzestał działalności w zakresie produkcji lub obrotu żywnością lub materiałami i wyrobami przeznaczonymi do kontaktu z żywnością, a podmiot działający na rynku spożywczym lub na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością nie złożył wniosku, o którym mowa w pkt 1; ” ;
 - **41)** w art. 67 w ust. 1 uchyla się pkt 4;
 - **42)** w art. 70 pkt 1 otrzymuje brzmienie: „
 - **1)** cukru surowego luzem, ” ;
@@ -540,7 +543,7 @@ source: "eli-html"
     - **d)**
 
 - **2)** organy Wojskowej Inspekcji Sanitarnej, zgodnie z właściwością określoną w przepisach wydanych na podstawie art. 20a ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej;
-- **3)** organy Inspekcji Weterynaryjnej, zgodnie z właściwością określoną przepisami ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, z późn. zm.);
+- **3)** organy Inspekcji Weterynaryjnej, zgodnie z właściwością określoną przepisami ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 145, poz. 916, Nr 195, poz. 1201, Nr 227, poz. 1505 i Nr 237, poz. 1655 oraz z 2009 r. Nr 18, poz. 97, Nr 20, poz. 105 i Nr 157, poz. 1241.);
 - **4)** organy Wojskowej Inspekcji Weterynaryjnej, zgodnie z właściwością określoną w przepisach wydanych na podstawie art. 3 ust. 7 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej;
 - **5)** inne organy w zakresie posiadanych kompetencji.
 
@@ -608,8 +611,18 @@ source: "eli-html"
 - **14)** nie przestrzega w zakładzie działającym na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością zasad dobrej praktyki produkcyjnej wbrew obowiązkowi określonemu w art. 4 rozporządzenia nr 2023/2006,
 - **15)** prowadzi proces recyklingu materiałów i wyrobów z tworzyw sztucznych, bez zezwolenia Komisji wydanego na zasadach określonych w art. 4–8 rozporządzenia nr 282/2008 lub w sposób niezgodny z warunkami określonymi w tym zezwoleniu,
 - **16)** prowadzi działalność w zakresie produkcji lub obrotu materiałami i wyrobami przeznaczonymi do kontaktu z żywnością, w tym materiałami i wyrobami z tworzyw sztucznych pochodzącymi z recyklingu, bez złożenia wniosku o wpis do rejestru zakładów w trybie i na zasadach określonych w art. 63, ” ;
-- **53)** w art. 103: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) nie przestrzega wymagań w zakresie znakowania środków spożywczych, w tym w zakresie prezentacji, reklamy i promocji, określonych w art. 27 ust. 4, art. 33 ust. 3 i 4 oraz art. 45–49, a także wymagań w tym zakresie określonych w przepisach wydanych na podstawie art. 14 ust. 2 pkt 3, art. 22 ust. 1 pkt 3, art. 26 ust. 1 pkt 4, art. 27 ust. 6 pkt 2, art. 39 pkt 3, art. 44 pkt 2, art. 50 ust. 1 i art. 51, ” , – po pkt 1 dodaje się pkt 1 a i 1 b w brzmieniu: „ 1a) nie przestrzega wymagań w zakresie znakowania aromatów określonych w przepisach wydanych na podstawie art. 13 ust. 2 pkt 2, 1b) nie przestrzega wymagań w zakresie znakowania środków spożywczych, określonych w przepisach: a) rozporządzenia nr 1333/2008 – w zakresie substancji dodatkowych, b) rozporządzenia nr 1334/2008 – w zakresie aromatów, ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) nie wycofuje z obrotu środka spożywczego szkodliwego dla zdrowia lub życia człowieka, środka spożywczego zepsutego oraz środka spożywczego zafałszowanego, 4) prowadzi działalność w zakresie produkcji lub obrotu żywnością bez złożenia wniosku o wpis do rejestru zakładów lub o zatwierdzenie zakładu i wpis do rejestru zakładów lub wbrew decyzji o odmowie zatwierdzenia zakładu w trybie i na zasadach określonych w art. 6 rozporządzenia nr 852/2004 oraz art. 63, ” , – pkt 6 otrzymuje brzmienie: „ 6) prowadzi działalność w zakresie produkcji lub obrotu żywnością wbrew decyzji o cofnięciu lub zawieszeniu zatwierdzenia zakładu, o której mowa w art. 66 ust. 1, lub wbrew decyzji o czasowym zawieszeniu działania lub zamknięciu całego lub części danego zakładu na podstawie art. 54 ust. 2 lit. e rozporządzenia nr 882/2004, ” , ust. 2 otrzymuje brzmienie: „
+- **53)** w art. 103: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** nie przestrzega wymagań w zakresie znakowania środków spożywczych, w tym w zakresie prezentacji, reklamy i promocji, określonych w art. 27 ust. 4, art. 33 ust. 3 i 4 oraz art. 45–49, a także wymagań w tym zakresie określonych w przepisach wydanych na podstawie art. 14 ust. 2 pkt 3, art. 22 ust. 1 pkt 3, art. 26 ust. 1 pkt 4, art. 27 ust. 6 pkt 2, art. 39 pkt 3, art. 44 pkt 2, art. 50 ust. 1 i art. 51, ” , po pkt 1 dodaje się pkt 1 a i 1 b w brzmieniu: „
+- **1a)** nie przestrzega wymagań w zakresie znakowania aromatów określonych w przepisach wydanych na podstawie art. 13 ust. 2 pkt 2,
+- **1b)** nie przestrzega wymagań w zakresie znakowania środków spożywczych, określonych w przepisach: rozporządzenia nr 1333/2008 – w zakresie substancji dodatkowych, rozporządzenia nr 1334/2008 – w zakresie aromatów, ” , pkt 3 i 4 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+- **3)** nie wycofuje z obrotu środka spożywczego szkodliwego dla zdrowia lub życia człowieka, środka spożywczego zepsutego oraz środka spożywczego zafałszowanego,
+- **4)** prowadzi działalność w zakresie produkcji lub obrotu żywnością bez złożenia wniosku o wpis do rejestru zakładów lub o zatwierdzenie zakładu i wpis do rejestru zakładów lub wbrew decyzji o odmowie zatwierdzenia zakładu w trybie i na zasadach określonych w art. 6 rozporządzenia nr 852/2004 oraz art. 63, ” , pkt 6 otrzymuje brzmienie: „
+- **6)** prowadzi działalność w zakresie produkcji lub obrotu żywnością wbrew decyzji o cofnięciu lub zawieszeniu zatwierdzenia zakładu, o której mowa w art. 66 ust. 1, lub wbrew decyzji o czasowym zawieszeniu działania lub zamknięciu całego lub części danego zakładu na podstawie art. 54 ust. 2 lit. e rozporządzenia nr 882/2004, ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. W przypadkach, o których mowa w ust. 1:
@@ -641,7 +654,7 @@ source: "eli-html"
 
 § 2. Tej samej karze podlega, kto nie zachowuje należytej czystości w produkcji lub w obrocie środkami spożywczymi. ” ;
 
-- **3)** uchyla się art. 112. W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+- **3)** uchyla się art. 112. W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 r. Nr 122, poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570 oraz z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241.) wprowadza się następujące zmiany:
 - **1)** w art. 4 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** higieny środowiska, a zwłaszcza wody przeznaczonej do spożycia przez ludzi, czystości powietrza atmosferycznego, gleby, wód i innych elementów środowiska w zakresie ustalonym w odrębnych przepisach; ” ;
 - **2)** w art. 9 po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
@@ -650,7 +663,7 @@ source: "eli-html"
 
 2b. Do zadań Zespołu należy:
 
-- **1)** wsparcie merytoryczne i naukowe Głównego Inspektora Sanitarnego przy wyjaśnianiu okoliczności dotyczących produktów objętych powiadomieniem, o których mowa w art. 30 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. Nr 171, poz. 1225, z późn. zm.), poprzez opracowywanie pisemnych opinii w formie uchwał podejmowanych większością głosów członków Zespołu;
+- **1)** wsparcie merytoryczne i naukowe Głównego Inspektora Sanitarnego przy wyjaśnianiu okoliczności dotyczących produktów objętych powiadomieniem, o których mowa w art. 30 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. Nr 171, poz. 1225, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1346, Nr 223, poz. 1463 i Nr 234, poz. 1570, z 2009 r. Nr 98, poz. 817 oraz z 2010 r. Nr 21, poz. 105.), poprzez opracowywanie pisemnych opinii w formie uchwał podejmowanych większością głosów członków Zespołu;
 - **2)** przygotowanie listy składników roślinnych z uwzględnieniem ich maksymalnych dawek w suplementach diety;
 - **3)** określanie maksymalnych dawek witamin i składników mineralnych w zalecanej dziennej porcji w suplementach diety, powyżej których wykazują one działanie lecznicze;
 - **4)** monitorowanie interakcji i działań niepożądanych suplementów diety. ” ;
@@ -701,6 +714,6 @@ source: "eli-html"
 
 - **1)** art. 1 pkt 3 lit. s oraz pkt 9, 10 i pkt 53 lit. a tiret drugie w zakresie dotyczącym art. 103 ust. 1 pkt 1b lit. a, oraz art. 10, które wchodzą w życie z dniem ogłoszenia;
 - **2)** art. 1 pkt 3 lit. a, b, l, p, r oraz pkt 13 i pkt 53 lit. a tiret drugie w zakresie dotyczącym art. 103 ust. 1 pkt 1b lit. b, które wchodzą w życie z dniem 20 stycznia 2011 r.;
-- **3)** art. 1 pkt 12, który wchodzi w życie z dniem wejścia w życie przepisów, o których mowa w art. 30 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. w sprawie dodatków do żywności.
+- **3)** art. 1 pkt 12, który wchodzi w życie z dniem wejścia w życie przepisów, o których mowa w art. 30 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. w sprawie dodatków do żywności. 1) Niniejszą ustawą zmienia się ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń oraz ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1346, Nr 223, poz. 1463 i Nr 234, poz. 1570 oraz z 2009 r. Nr 98, poz. 817. 3) Rozporządzenie Komisji (WE) nr 401/2006 z dnia 23 lutego 2006 r. ustanawiające metody pobierania próbek i analizy do celów urzędowej kontroli poziomów mikotoksyn w środkach spożywczych (Dz. Urz. UE L 70 z 23.02.2006, str. 12); rozporządzenie Komisji (WE) nr 1882/2006 z dnia 19 grudnia 2006 r. ustanawiające metody pobierania próbek do celów urzędowej kontroli poziomów azotanów w niektórych środkach spożywczych (Dz. Urz. UE L 364 z 20.12.2006, str. 25), rozporządzenie Komisji (WE) nr 1883/2006 z dnia 19 grudnia 2006 r. ustanawiające metody pobierania próbek i metody analizy do celów urzędowej kontroli dioksyn i dioksynopodobnych polichlorowanych bifenyli (PCB) w środkach spożywczych (Dz. Urz. UE L 364 z 20.12.2006, str. 32), rozporządzenie Komisji (WE) nr 333/2007 z dnia 28 marca 2007 r. ustanawiające metody pobierania próbek i metody analiz do celów urzędowej kontroli poziomów ołowiu, kadmu, rtęci, cyny nieorganicznej, 3-MCPD i benzo[a]pirenu w środkach spożywczych (Dz. Urz. UE L 88 z 29.03.2007, str. 29). 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570 oraz z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 145, poz. 916, Nr 195, poz. 1201, Nr 227, poz. 1505 i Nr 237, poz. 1655 oraz z 2009 r. Nr 18, poz. 97, Nr 20, poz. 105 i Nr 157, poz. 1241. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570 oraz z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1346, Nr 223, poz. 1463 i Nr 234, poz. 1570, z 2009 r. Nr 98, poz. 817 oraz z 2010 r. Nr 21, poz. 105.
 
 

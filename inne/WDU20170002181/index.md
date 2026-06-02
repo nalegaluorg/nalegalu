@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 października 2017 r. o zmianie ustawy o pracy na morzu oraz niektórych innych ustaw
+# Ustawa z dnia 12 października 2017 r. o zmianie ustawy o pracy na morzu oraz niektórych innych ustaw Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/1794 z dnia 6 października 2015 r. zmieniającą dyrektywy Parlamentu Europejskiego i Rady 2008/94/WE, 2009/38/WE i 2002/14/WE oraz dyrektywy Rady 98/59/WE i 2001/23/WE w odniesieniu do marynarzy (Dz. Urz. UE L 263 z 08.10.2015, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-12 |
 | Data wydania | 2017-11-27 |
-| Wejście w życie | 2017-12-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2181/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych oraz ustawę z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników.
 
 **Art. 1.** W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. poz. 1569 oraz z 2017 r. poz. 60 i 785) wprowadza się następujące zmiany:
 
@@ -168,7 +169,7 @@ source: "eli-html"
 **Art. 110a.** Kto, będąc armatorem:
 
 - **1)** uprawia żeglugę z naruszeniem obowiązku, o którym mowa w art. 62b ust. 4, art. 76a ust. 3, art. 76b ust. 4, art. 92 ust. 1 lub 6,
-- **2)** nie poddał statku inspekcji warunków pracy i życia marynarzy, o której mowa w art. 93a ust. 1 podlega karze pieniężnej w wysokości od 5000 zł do 10 000 zł. ” ;
+- **2)** nie poddał statku inspekcji warunków pracy i życia marynarzy, o której mowa w art. 93a ust. 1 – podlega karze pieniężnej w wysokości od 5000 zł do 10 000 zł. ” ;
 - **12)** w art. 112 pkt 6 otrzymuje brzmienie: „
 - **6)** nie posiada wymaganego zabezpieczenia finansowego na wypadek porzucenia marynarza lub zabezpieczenia finansowego odpowiedzialności armatora ” ;
 - **13)** w art. 116 w pkt 7 dodaje się przecinek i dodaje się pkt 8 w brzmieniu: „
@@ -232,5 +233,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 94 ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 94a ustawy zmienianej w art. 1, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/1794 z dnia 6 października 2015 r. zmieniającą dyrektywy Parlamentu Europejskiego i Rady 2008/94/WE, 2009/38/WE i 2002/14/WE oraz dyrektywy Rady 98/59/WE i 2001/23/WE w odniesieniu do marynarzy (Dz. Urz. UE L 263 z 08.10.2015, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych oraz ustawę z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników.
 

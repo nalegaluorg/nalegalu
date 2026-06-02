@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 września 2008 r. o zmianie ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw
+# Ustawaz dnia 4 września 2008 r. o zmianie ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-09-04 |
 | Data wydania | 2008-09-23 |
-| Wejście w życie | 2008-10-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081711058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1058/text.pdf) |
 
+dyrektywy 2004/18/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie koordynacji procedur udzielania zamówień publicznych na roboty budowlane, dostawy i usługi(Dz. Urz. UE L 134 z 30.04.2004, str. 114; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 7, str. 132, z późn. zm.);
 2)
-dyrektywy 2004/17/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. koordynującej procedury udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych (Dz. Urz. UE L 134 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 7, str. 19, z późn. zm.).
-Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o partnerstwie publiczno-prywatnym i ustawę z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012.
+dyrektywy 2004/17/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. koordynującej procedury udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych (Dz. Urz. UE L 134 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 7, str. 19, z późn. zm.). Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o partnerstwie publiczno-prywatnym i ustawę z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012.
+Kontrola udzielania zamówień
+Przepisy ogólne
+Kontrola doraźna
+Kontrola uprzednia zamówień współfinansowanych ze środków Unii Europejskiej
 
 **Art. 1.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655) wprowadza się następujące zmiany:
 
@@ -184,7 +187,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o partne
 
 - **1)** oczywiste omyłki pisarskie,
 - **2)** oczywiste omyłki rachunkowe, z uwzględnieniem konsekwencji rachunkowych dokonanych poprawek,
-- **3)** inne omyłki polegające na niezgodności oferty ze specyfikacją istotnych warunków zamówienia, niepowodujące istotnych zmian w treści oferty niezwłocznie zawiadamiając o tym wykonawcę, którego oferta została poprawiona. ” ;
+- **3)** inne omyłki polegające na niezgodności oferty ze specyfikacją istotnych warunków zamówienia, niepowodujące istotnych zmian w treści oferty – niezwłocznie zawiadamiając o tym wykonawcę, którego oferta została poprawiona. ” ;
 - **30)** uchyla się art. 88;
 - **31)** w art. 89 w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -234,8 +237,11 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o partne
 
 1. Zakazuje się zmian postanowień zawartej umowy w stosunku do treści oferty, na podstawie której dokonano wyboru wykonawcy, chyba że zamawiający przewidział możliwość dokonania takiej zmiany w ogłoszeniu o zamówieniu lub w specyfikacji istotnych warunków zamówienia oraz określił warunki takiej zmiany. ” ;
 
-- **41)** w art. 146: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) zamawiający zawarł umowę bez wymaganej zgody wyrażonej w postanowieniu Krajowej Izby Odwoławczej przed ostatecznym rozstrzygnięciem protestu; ” , – uchyla się pkt 3 i 4, – pkt 7 otrzymuje brzmienie: „ 7) zamawiający zawarł umowę przed upływem terminów, o których mowa w art. 94 ust. 1, z zastrzeżeniem art. 94 ust. 1a. ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **41)** w art. 146: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** zamawiający zawarł umowę bez wymaganej zgody wyrażonej w postanowieniu Krajowej Izby Odwoławczej przed ostatecznym rozstrzygnięciem protestu; ” , – uchyla się pkt 3 i 4, pkt 7 otrzymuje brzmienie: „
+- **7)** zamawiający zawarł umowę przed upływem terminów, o których mowa w art. 94 ust. 1, z zastrzeżeniem art. 94 ust. 1a. ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
     - **b)**
 
 - **2)** części umowy, o której mowa w art. 140 ust. 3; ” ;
@@ -243,9 +249,9 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o partne
 - **5a)** prowadzi, ogłasza i aktualizuje na stronie internetowej Urzędu wykaz wykonawców, którzy wyrządzili szkodę, nie wykonując zamówienia lub wykonując je nienależycie, jeżeli szkoda ta została stwierdzona prawomocnym orzeczeniem sądu; ” ;
 - **43)** w dziale V rozdział 3 otrzymuje brzmienie: „
 
-#### Rozdział 3 Kontrola udzielania zamówień
+#### Rozdział 3
 
-##### Oddział 1 Przepisy ogólne
+##### Oddział 1
 
 **Art. 161.**
 
@@ -294,7 +300,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o partne
 - **4)** oznaczenie postępowania o udzielenie zamówienia, które było przedmiotem kontroli;
 - **5)** informację o stwierdzeniu naruszeń.
 
-##### Oddział 2 Kontrola doraźna
+##### Oddział 2
 
 **Art. 165.**
 
@@ -335,7 +341,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o partne
 - **2)** nałożyć karę pieniężną, o której mowa w dziale VII;
 - **3)** wystąpić do sądu o stwierdzenie nieważności umowy w całości lub w części.
 
-##### Oddział 3 Kontrola uprzednia zamówień współfinansowanych ze środków Unii Europejskiej
+##### Oddział 3
 
 **Art. 169.**
 
@@ -394,7 +400,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o partne
 4. Jeżeli postępowanie jest prowadzone w trybie innym niż przetarg nieograniczony, protest dotyczący postanowień specyfikacji istotnych warunków zamówienia wnosi się w terminie:
 
 - **1)** 7 dni od dnia doręczenia specyfikacji istotnych warunków zamówienia, jednak nie później niż 3 dni przed upływem terminu składania ofert – jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8,
-- **2)** 10 dni od dnia doręczenia specyfikacji istotnych warunków zamówienia – jeżeli wartość zamówienia jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 przepisu ust. 2 zdanie pierwsze nie stosuje się. ” ;
+- **2)** 10 dni od dnia doręczenia specyfikacji istotnych warunków zamówienia – jeżeli wartość zamówienia jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 – przepisu ust. 2 zdanie pierwsze nie stosuje się. ” ;
 - **46)** w art. 182 ust. 2–4 otrzymują brzmienie: „
 
 2. Protest jest ostatecznie rozstrzygnięty:
@@ -472,9 +478,8 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o partne
 
 5. Do kontroli wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 
-- **1)** Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 - **1)** dyrektywy 2004/18/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie koordynacji procedur udzielania zamówień publicznych na roboty budowlane, dostawy i usługi (Dz. Urz. UE L 134 z 30.04.2004, str. 114; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 7, str. 132, z późn. zm.);
 - **2)** dyrektywy 2004/17/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. koordynującej procedury udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych (Dz. Urz. UE L 134 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 7, str. 19, z późn. zm.). Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lipca 2005 r. o partnerstwie publiczno-prywatnym i ustawę z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012.
 

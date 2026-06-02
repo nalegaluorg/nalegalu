@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-28 |
 | Data wydania | 2012-07-03 |
-| Wejście w życie | 2012-07-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000751) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/751/text.pdf) |
 
@@ -37,14 +36,11 @@ w § 12:
 a)
 uchyla się ust. 1,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Pomoc na realizację operacji w ramach środka działania wodno-środowiskowe w zakresie wsparcia wykorzystania tradycyjnych lub przyjaznych środowisku praktyk i technik w chowie i hodowli ryb przyznaje się w formie rekompensaty wypłacanej jednorazowo za cały okres realizowania zobowiązań, o których mowa w § 9 ust. 1, określony w umowie o dofinansowanie.
-” ,
+Pomoc na realizację operacji w ramach środka działania wodno-środowiskowe w zakresie wsparcia wykorzystania tradycyjnych lub przyjaznych środowisku praktyk i technik w chowie i hodowli ryb przyznaje się w formie rekompensaty wypłacanej jednorazowo za cały okres realizowania zobowiązań, o których mowa w § 9 ust. 1, określony w umowie o dofinansowanie. ” ,
 c)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
 Jeżeli beneficjent nie zrealizował w danym roku kalendarzowym zobowiązań określonych w § 9 ust. 1, rekompensatę wypłaca się w zmniejszonej wysokości:
 1)
@@ -52,11 +48,9 @@ stanowiącej iloczyn stawki rekompensaty za pakiet pierwszy i powierzchni ewiden
 2)
 stanowiącej iloczyn stawki rekompensaty określonej dla danego wymogu i powierzchni, na której nie był realizowany wymóg określony w § 9 ust. 1 pkt 2;
 3)
-proporcjonalnie za okres, w którym nie były realizowane wymagania określone w § 10.
-” ;
+proporcjonalnie za okres, w którym nie były realizowane wymagania określone w § 10. ” ;
 2)
-§ 15 otrzymuje brzmienie:
-„
+§ 15 otrzymuje brzmienie: „
 § 15.
 1.
 Pomoc na realizację operacji w ramach środka działania wodno-środowiskowe w zakresie ochrony zasobów genetycznych ryb przyznaje się posiadaczowi obiektu chowu lub hodowli, który zobowiąże się do realizowania przez 5 lat, licząc od początku roku, w którym podpisano umowę o dofinansowanie, zobowiązań z zakresu ochrony zasobów genetycznych ryb, wykraczających poza podstawowe zasady dobrej praktyki rybackiej, o których mowa w § 10 ust. 2.
@@ -83,58 +77,43 @@ b)
 3)
 w § 26 w ust. 3:
 a)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-działalności marginalnej, lokalnej i ograniczonej w rozumieniu przepisów rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2010 r. w sprawie szczegółowych warunków uznania działalności marginalnej, lokalnej i ograniczonej (Dz. U. Nr 113, poz. 753);
-” ,
+działalności marginalnej, lokalnej i ograniczonej w rozumieniu przepisów rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2010 r. w sprawie szczegółowych warunków uznania działalności marginalnej, lokalnej i ograniczonej (Dz. U. Nr 113, poz. 753); ” ,
 b)
-dodaje się pkt 3 w brzmieniu:
-„
+dodaje się pkt 3 w brzmieniu: „
 3)
-operacji dotyczących budowy nowych zakładów przetwórstwa produktów rybnych lub zakładów zajmujących się obrotem tymi produktami, z wyjątkiem operacji dotyczących budowy nowych zakładów w celu dywersyfikacji prowadzonej dotychczas działalności w zakresie rybołówstwa morskiego, rybactwa śródlądowego, przetwórstwa produktów rybnych lub obrotu produktami rybnymi.
-” ;
+operacji dotyczących budowy nowych zakładów przetwórstwa produktów rybnych lub zakładów zajmujących się obrotem tymi produktami, z wyjątkiem operacji dotyczących budowy nowych zakładów w celu dywersyfikacji prowadzonej dotychczas działalności w zakresie rybołówstwa morskiego, rybactwa śródlądowego, przetwórstwa produktów rybnych lub obrotu produktami rybnymi. ” ;
 4)
-w § 30 po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+w § 30 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Pomoc na realizację operacji w ramach środka inwestycje w zakresie przetwórstwa i obrotu przyznaje się do wysokości limitu dostępnych środków finansowych, nie więcej jednak niż 15 000 000 zł na jednego beneficjenta w ramach jednego naboru wniosków o dofinansowanie.
-” ;
+Pomoc na realizację operacji w ramach środka inwestycje w zakresie przetwórstwa i obrotu przyznaje się do wysokości limitu dostępnych środków finansowych, nie więcej jednak niż 15 000 000 zł na jednego beneficjenta w ramach jednego naboru wniosków o dofinansowanie. ” ;
 5)
 uchyla się § 36;
 6)
 uchyla się § 39a;
 7)
-w § 40a ust. 3 otrzymuje brzmienie:
-„
+w § 40a ust. 3 otrzymuje brzmienie: „
 3.
-Prezes Agencji może określić w informacji, o której mowa w ust. 1, że mogą być składane wyłącznie wnioski o dofinansowanie na realizację operacji we wskazanym przez Prezesa Agencji zakresie, w ramach środków, o których mowa w § 1.
-” ;
+Prezes Agencji może określić w informacji, o której mowa w ust. 1, że mogą być składane wyłącznie wnioski o dofinansowanie na realizację operacji we wskazanym przez Prezesa Agencji zakresie, w ramach środków, o których mowa w § 1. ” ;
 8)
-w § 41 w ust. 2 pkt 3 otrzymuje brzmienie:
-„
+w § 41 w ust. 2 pkt 3 otrzymuje brzmienie: „
 3)
-numer identyfikacji podatkowej (NIP) wnioskodawcy – jeżeli został nadany;
-” ;
+numer identyfikacji podatkowej (NIP) wnioskodawcy – jeżeli został nadany; ” ;
 9)
-w § 43 ust. 6 otrzymuje brzmienie:
-„
+w § 43 ust. 6 otrzymuje brzmienie: „
 6.
-Jeżeli wniosek o dofinansowanie został złożony w terminie innym niż określony w informacji, o której mowa w § 40a ust. 2, Agencja nie przyznaje pomocy; przepisy art. 14 ust. 4 i 5 ustawy stosuje się odpowiednio.
-” ;
+Jeżeli wniosek o dofinansowanie został złożony w terminie innym niż określony w informacji, o której mowa w § 40a ust. 2, Agencja nie przyznaje pomocy; przepisy art. 14 ust. 4 i 5 ustawy stosuje się odpowiednio. ” ;
 10)
 w § 44:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Wniosek o dofinansowanie rozpatruje się w terminie 3 miesięcy od dnia jego złożenia.
-” ,
+Wniosek o dofinansowanie rozpatruje się w terminie 3 miesięcy od dnia jego złożenia. ” ,
 b)
 uchyla się ust. 5;
 11)
-§ 47 otrzymuje brzmienie:
-„
+§ 47 otrzymuje brzmienie: „
 § 47.
 1.
 Umowa o dofinansowanie, poza postanowieniami określonymi w art. 15 ustawy:
@@ -163,19 +142,15 @@ informowania Agencji o okolicznościach mogących mieć wpływ na wykonanie umow
 2.
 Pięcioletni okres, którego dotyczą zobowiązania wymienione w ust. 1 pkt 2 lit. a i lit. c-f, liczy się od dnia dokonania przez Agencję płatności końcowej.
 3.
-Przepisu ust. 1 pkt 1 lit. a nie stosuje się do umów o dofinansowanie dotyczących realizacji operacji w ramach środka działania wodno-środowiskowe.
-” ;
+Przepisu ust. 1 pkt 1 lit. a nie stosuje się do umów o dofinansowanie dotyczących realizacji operacji w ramach środka działania wodno-środowiskowe. ” ;
 12)
 w § 48 w ust. 1 uchyla się pkt 2;
 13)
-w § 49 ust. 1 otrzymuje brzmienie:
-„
+w § 49 ust. 1 otrzymuje brzmienie: „
 1.
-Wypłaty pomocy w ramach środka, o którym mowa w § 1 pkt 1 i 3–5, Agencja dokonuje na podstawie wniosku o płatność.
-” ;
+Wypłaty pomocy w ramach środka, o którym mowa w § 1 pkt 1 i 3–5, Agencja dokonuje na podstawie wniosku o płatność. ” ;
 14)
-po § 49 dodaje się § 49a w brzmieniu:
-„
+po § 49 dodaje się § 49a w brzmieniu: „
 § 49a.
 1.
 Wypłaty pomocy w ramach środka, o którym mowa w § 1 pkt 2, Agencja dokonuje na podstawie umowy o dofinansowanie.
@@ -194,13 +169,11 @@ Jeżeli beneficjent, pomimo ponownego wezwania, o którym mowa w ust. 6, nie dos
 1)
 weryfikacja realizacji zobowiązań jest możliwa jedynie w części – żąda zwrotu wypłaconej pomocy na realizację tych zobowiązań, co do których weryfikacja nie była możliwa, albo
 2)
-nie jest możliwa weryfikacja realizacji ani jednego zobowiązania – żąda zwrotu wypłaconej pomocy w całości.
-” ;
+nie jest możliwa weryfikacja realizacji ani jednego zobowiązania – żąda zwrotu wypłaconej pomocy w całości. ” ;
 15)
 uchyla się § 51a;
 16)
-§ 52 otrzymuje brzmienie:
-„
+§ 52 otrzymuje brzmienie: „
 § 52.
 1.
 Pomoc podlega zwrotowi w całości, jeżeli beneficjent:
@@ -219,39 +192,31 @@ w wysokości stanowiącej iloczyn stawki rekompensaty określonej dla danego wym
 3)
 w wysokości stanowiącej iloczyn stawki rekompensaty i ilości ryb, w stosunku do których nie wypełniono zobowiązań określonych w załączniku nr 1a do rozporządzenia;
 4)
-proporcjonalnie do okresu, w którym nie były realizowane wymagania określone w § 10 albo w § 15 ust. 1 i 2.
-” ;
+proporcjonalnie do okresu, w którym nie były realizowane wymagania określone w § 10 albo w § 15 ust. 1 i 2. ” ;
 17)
 w § 53:
 a)
 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku operacji realizowanych w ramach środków, o których mowa w § 1, następca prawny wnioskodawcy albo nabywca przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części, zwany dalej „następcą prawnym wnioskodawcy”, może wstąpić do toczącego się postępowania na miejsce wnioskodawcy, jeżeli: ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Następca prawny wnioskodawcy składa wniosek o dofinansowanie w oddziale regionalnym Agencji, w którym wnioskodawca złożył wniosek o dofinansowanie.
-” ,
+Następca prawny wnioskodawcy składa wniosek o dofinansowanie w oddziale regionalnym Agencji, w którym wnioskodawca złożył wniosek o dofinansowanie. ” ,
 c)
 uchyla się ust. 5,
 d)
-ust. 7 otrzymuje brzmienie:
-„
+ust. 7 otrzymuje brzmienie: „
 7.
-Do wniosku o dofinansowanie następcy prawnego wnioskodawcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 41 ust. 2 pkt 1–5 i pkt 8 i 9 oraz ust. 3 i 4, § 42 ust. 2–5 oraz § 43–45.
-” ;
+Do wniosku o dofinansowanie następcy prawnego wnioskodawcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 41 ust. 2 pkt 1–5 i pkt 8 i 9 oraz ust. 3 i 4, § 42 ust. 2–5 oraz § 43–45. ” ;
 18)
 w § 54:
 a)
 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku operacji realizowanych w ramach środków, o których mowa w § 1, następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części, zwanemu dalej „następcą prawnym beneficjenta”, może być przyznana pomoc na operację, którą realizował beneficjent, jeżeli: ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Wniosek o dofinansowanie następca prawny beneficjenta składa w oddziale regionalnym Agencji, w którym beneficjent złożył wniosek o dofinansowanie, w terminie 2 miesięcy od dnia wystąpienia zdarzenia prawnego, w wyniku którego zaistniało następstwo prawne.
-” ,
+Wniosek o dofinansowanie następca prawny beneficjenta składa w oddziale regionalnym Agencji, w którym beneficjent złożył wniosek o dofinansowanie, w terminie 2 miesięcy od dnia wystąpienia zdarzenia prawnego, w wyniku którego zaistniało następstwo prawne. ” ,
 c)
-ust. 6–10 otrzymują brzmienie:
-„
+ust. 6–10 otrzymują brzmienie: „
 6.
 Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca albo zapisobierca windykacyjny, spadkobierca albo zapisobierca windykacyjny, który złożył wniosek o dofinansowanie, dołącza do tego wniosku oświadczenia pozostałych spadkobierców albo zapisobierców windykacyjnych, że wyrażają zgodę na przyznanie pomocy temu spadkobiercy albo zapisobiercy.
 7.
@@ -261,13 +226,11 @@ Wniosek następcy prawnego beneficjenta o dofinansowanie rozpatruje się w termi
 9.
 W przypadku nierozpatrzenia wniosku następcy prawnego beneficjenta o dofinansowanie w terminie, o którym mowa w ust. 8, Agencja zawiadamia wnioskodawcę o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, nie dłuższy niż miesiąc.
 10.
-Do wniosku o dofinansowanie następcy prawnego beneficjenta i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 41 ust. 2 pkt 1–5 i pkt 8 i 9 oraz ust. 3 i 4, § 42 ust. 2–5, § 43, § 44 ust. 3 i 4 oraz § 45.
-” ,
+Do wniosku o dofinansowanie następcy prawnego beneficjenta i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 41 ust. 2 pkt 1–5 i pkt 8 i 9 oraz ust. 3 i 4, § 42 ust. 2–5, § 43, § 44 ust. 3 i 4 oraz § 45. ” ,
 d)
 uchyla się ust. 11;
 19)
-§ 56 otrzymuje brzmienie:
-„
+§ 56 otrzymuje brzmienie: „
 § 56.
 1.
 W ramach środka, o którym mowa w § 1 pkt 2, pomoc może zostać przyznana na operacje rozpoczęte przed dniem złożenia wniosku o dofinansowanie, nie wcześniej jednak niż przed dniem 1 stycznia 2012 r.
@@ -276,33 +239,42 @@ W przypadku gdy wypełnianie wymogów, o których mowa w § 9 ust. 1, albo reali
 1)
 wniosek o dofinansowanie zawiera, poza elementami, o których mowa w § 41 ust. 2, oświadczenie wnioskodawcy o wypełnianiu wymogów, o których mowa w § 9 ust. 1, albo o realizacji zobowiązań określonych w § 15 ust. 1, wskazanych we wniosku o dofinansowanie, w okresie od dnia 1 stycznia 2012 r. do dnia złożenia tego wniosku;
 2)
-umowa o dofinansowanie zawiera, poza elementami, o których mowa w § 47 ust. 1, oświadczenie wnioskodawcy o wypełnianiu wymogów, o których mowa w § 9 ust. 1, albo o realizacji zobowiązań określonych w § 15 ust. 1, wskazanych we wniosku o dofinansowanie, w okresie od dnia złożenia tego wniosku do dnia zawarcia umowy o dofinansowanie.
-” ;
+umowa o dofinansowanie zawiera, poza elementami, o których mowa w § 47 ust. 1, oświadczenie wnioskodawcy o wypełnianiu wymogów, o których mowa w § 9 ust. 1, albo o realizacji zobowiązań określonych w § 15 ust. 1, wskazanych we wniosku o dofinansowanie, w okresie od dnia złożenia tego wniosku do dnia zawarcia umowy o dofinansowanie. ” ;
 20)
-w załączniku nr 1 do rozporządzenia w części I Pakiet 1 w ust. 1 pkt 3 otrzymuje brzmienie:
-„
+w załączniku nr 1 do rozporządzenia w części I Pakiet 1 w ust. 1 pkt 3 otrzymuje brzmienie: „
 3)
-bieżąca konserwacja rowów (doprowadzalników i odprowadzalników, rowów opaskowych); w przypadku gdy pozwolenie wodnoprawne określa sposób konserwacji rowów – w sposób określony w tym pozwoleniu;
-” ;
+bieżąca konserwacja rowów (doprowadzalników i odprowadzalników, rowów opaskowych); w przypadku gdy pozwolenie wodnoprawne określa sposób konserwacji rowów – w sposób określony w tym pozwoleniu; ” ;
 21)
 po załączniku nr 1 do rozporządzenia dodaje się załącznik nr 1a do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia;
 22)
 w załączniku nr 2 do rozporządzenia:
 a)
 w ust. 1:
-– pkt 1 otrzymuje brzmienie: „ 1) aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru; ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru; ” ,
 – uchyla się pkt 13,
 b)
 w ust. 2:
-– pkt 1 otrzymuje brzmienie: „ 1) aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru; ” ,
-– pkt 6 i 7 otrzymują brzmienie: „ 6) zestawienie dokumentów potwierdzających roczną produkcję ryb łososiowatych w danym obiekcie chowu lub hodowli – w przypadku gdy wymaga tego specyfika operacji; 7) aktualne pozwolenie wodnoprawne, o którym mowa w przepisach prawa wodnego – w przypadku gdy wymaga tego specyfika operacji; ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru; ” ,
+pkt 6 i 7 otrzymują brzmienie: „
+6)
+zestawienie dokumentów potwierdzających roczną produkcję ryb łososiowatych w danym obiekcie chowu lub hodowli – w przypadku gdy wymaga tego specyfika operacji;
+7)
+aktualne pozwolenie wodnoprawne, o którym mowa w przepisach prawa wodnego – w przypadku gdy wymaga tego specyfika operacji; ” ,
 c)
 w ust. 3:
-– pkt 1 otrzymuje brzmienie: „ 1) aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru; ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru; ” ,
 – uchyla się pkt 12,
 d)
 w ust. 4:
-– pkt 1 otrzymuje brzmienie: „ 1) aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru; ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+aktualny odpis z Krajowego Rejestru Sądowego, jeżeli ubiegający się o dofinansowanie podlega obowiązkowi wpisu do tego rejestru; ” ,
 – uchyla się pkt 12;
 23)
 w załączniku nr 3 do rozporządzenia w ust. 2:
@@ -311,11 +283,9 @@ w pkt 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ rysunek systemu rozp
 b)
 uchyla się pkt 10,
 c)
-dodaje się pkt 12 w brzmieniu:
-„
+dodaje się pkt 12 w brzmieniu: „
 12)
-kopię dokumentacji hodowlanej zawierającej w szczególności: kopie protokołów odłowów tarlaków lub selektów, kopie arkuszy pomiarowych cech morfometrycznych dla próby minimum 30 sztuk z każdego pokolenia oraz informacje dotyczące rodowodów linii hodowlanych przy realizacji operacji dotyczącej ochrony zasobów genetycznych ryb – w przypadku gdy wymaga tego specyfika operacji.
-” .
+kopię dokumentacji hodowlanej zawierającej w szczególności: kopie protokołów odłowów tarlaków lub selektów, kopie arkuszy pomiarowych cech morfometrycznych dla próby minimum 30 sztuk z każdego pokolenia oraz informacje dotyczące rodowodów linii hodowlanych przy realizacji operacji dotyczącej ochrony zasobów genetycznych ryb – w przypadku gdy wymaga tego specyfika operacji. ” .
 § 2.
 1.
 Do postępowań w sprawie przyznania pomocy finansowej na realizację środków objętych osią priorytetową 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy, na podstawie której jest przyznawana pomoc, stosuje się przepisy dotychczasowe.

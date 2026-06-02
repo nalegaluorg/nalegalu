@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 23 lutego 2024 r. w sprawie egzaminu potwierdzającego wiedzę i umiejętności niezbędne do świadczenia doradztwa w zakresie ogólnoeuropejskiego indywidualnego produktu emerytalnego
+# Rozporządzenie Ministra Finansówz dnia 23 lutego 2024 r. w sprawie egzaminu potwierdzającego wiedzę i umiejętności niezbędne do świadczenia doradztwa w zakresie ogólnoeuropejskiego indywidualnego produktu emerytalnego Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-23 |
 | Data wydania | 2024-02-29 |
-| Wejście w życie | 2024-03-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/287/text.pdf) |
 
@@ -43,7 +42,7 @@ Zakres obowiązujących tematów egzaminu obejmuje:
 1)
 przepisy ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym;
 2)
-przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1, z późn. zm.);
+przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2023/2869 z 20.12.2023.;
 3)
 przepisy dotyczące systemu zabezpieczenia emerytalnego w Rzeczypospolitej Polskiej;
 4)
@@ -161,8 +160,7 @@ Dostawca lub dystrybutor:
 1)
 wydaje zaświadczenie o zdaniu egzaminu zawierające imię i nazwisko osoby zdającej egzamin oraz jej numer PESEL wraz z informacją o uzyskanej liczbie punktów albo
 2)
-powiadamia osobę, która nie zdała egzaminu, o wyniku egzaminu i uzyskanej liczbie punktów
-w formie pisemnej, w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, nie później niż w terminie 7 dni od dnia przeprowadzenia egzaminu.
+powiadamia osobę, która nie zdała egzaminu, o wyniku egzaminu i uzyskanej liczbie punktów – w formie pisemnej, w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, nie później niż w terminie 7 dni od dnia przeprowadzenia egzaminu.
 2.
 W przypadku utraty zaświadczenia o zdaniu egzaminu dostawca lub dystrybutor, na wniosek osoby, która zdała egzamin, w terminie 7 dni od dnia złożenia wniosku, wydaje dokument potwierdzający zdanie egzaminu.
 § 14.
@@ -190,6 +188,5 @@ Odwołanie od wyniku egzaminu wnosi się w formie pisemnej, w postaci papierowej
 2.
 Dostawca lub dystrybutor rozpatruje odwołanie w terminie 14 dni od dnia jego doręczenia i powiadamia osobę odwołującą się o wyniku tego odwołania w formie pisemnej, w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2023/2869 z 20.12.2023.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2023/2869 z 20.12.2023.
 

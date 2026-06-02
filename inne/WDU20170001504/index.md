@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-31 |
 | Data wydania | 2017-08-07 |
-| Wejście w życie | 2017-08-08 |
 | Ostatnia zmiana | 2024-10-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1504/text.pdf) |
 
@@ -35,17 +34,13 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 15 lutego 2016 r. w sprawie z
 1)
 w § 68 w ust. 3:
 a)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-USKA – dla naczelników urzędów skarbowych;
-” ,
+USKA – dla naczelników urzędów skarbowych; ” ,
 b)
-dodaje się pkt 4 w brzmieniu:
-„
+dodaje się pkt 4 w brzmieniu: „
 4)
-KREP – dla Komisji do spraw usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa.
-” ;
+KREP – dla Komisji do spraw usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa. ” ;
 2)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.

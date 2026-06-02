@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-04 |
 | Data wydania | 2020-12-16 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002260) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2260/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm.) w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału terytorialnego kraju” wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. poz. 161, z 2001 r. poz. 100 i 1840, z 2002 r. poz. 1459, z 2003 r. poz. 2022, z 2004 r. poz. 2535, z 2005 r. poz. 1706, z 2006 r. poz. 246 i 1577, z 2007 r. poz. 1386, z 2008 r. poz. 1358, z 2009 r. poz. 1559, z 2010 r. poz. 1727, z 2012 r. poz. 403 i 1389, z 2013 r. poz. 1585, z 2014 r. poz. 1829, z 2015 r. poz. 2266, z 2016 r. poz. 1916, z 2017 r. poz. 2248, z 2018 r. poz. 717, z 2019 r. poz. 339 oraz z 2020 r. poz. 629.) w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału terytorialnego kraju” wprowadza się następujące zmiany:
 1)
 w części dotyczącej województwa dolnośląskiego:
 a)
@@ -65,5 +64,5 @@ powiatu chodzieskiego w części Gminy wyrazy „Budzyń 300102 2” zastępuje 
 b)
 powiatu kaliskiego w części Gminy wyrazy „Koźminek 300705 2” zastępuje się wyrazami: „ Koźminek 300705 3 Koźminek – miasto 300705 4 Koźminek – obszar wiejski 300705 5 ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. poz. 161, z 2001 r. poz. 100 i 1840, z 2002 r. poz. 1459, z 2003 r. poz. 2022, z 2004 r. poz. 2535, z 2005 r. poz. 1706, z 2006 r. poz. 246 i 1577, z 2007 r. poz. 1386, z 2008 r. poz. 1358, z 2009 r. poz. 1559, z 2010 r. poz. 1727, z 2012 r. poz. 403 i 1389, z 2013 r. poz. 1585, z 2014 r. poz. 1829, z 2015 r. poz. 2266, z 2016 r. poz. 1916, z 2017 r. poz. 2248, z 2018 r. poz. 717, z 2019 r. poz. 339 oraz z 2020 r. poz. 629.
 

@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 24 kwietnia 2003 r. w sprawie rozkładu czasu służby funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 793), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 24 października 2019 r. zmieniającym rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 2151).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 października 2019 r. zmieniającego rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 2151), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 października 2019 r. zmieniającego rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 2151), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 24 kwietnia 2003 r. w sprawie rozkładu czasu służby funkcjonariuszy Agencji Wywiadu
 Na podstawie art. 51 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27 i 2320) zarządza się, co następuje:
 § 1.
@@ -76,7 +74,7 @@ Do czasu służby pełnionej w zmianowym rozkładzie czasu służby wlicza się:
 60 minut przerwy, w przypadku służby na zmianie trwającej 24 godziny.
 5.
 W przypadku uzasadnionym potrzebami służby, kierownik, za zgodą lub na polecenie Szefa Agencji Wywiadu, może wydać podległym mu funkcjonariuszom pełniącym służbę w zmianowym rozkładzie czasu służby polecenie pełnienia służby w dniu harmonogramowo wolnym od służby.
-§ 4.
+§ 4W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 24 października 2019 r. zmieniającego rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 2151), które weszło w życie z dniem 22 listopada 2019 r..
 1.
 Funkcjonariusz pełni służbę w podstawowym rozkładzie czasu służby przez 8 godzin codziennie od poniedziałku do piątku.
 2.
@@ -113,8 +111,7 @@ Funkcjonariuszowi pełniącemu służbę w:
 1)
 zmianowym rozkładzie czasu służby, który na polecenie, o którym mowa w § 3 ust. 5, pełnił służbę w dniu harmonogramowo wolnym od służby,
 2)
-podstawowym rozkładzie czasu służby, który na polecenie, o którym mowa w § 4 ust. 2 pkt 2, pełnił służbę w niedzielę, święto lub dniu dodatkowo wolnym od służby
-udziela się dnia wolnego od służby w innym terminie. Dni wolnych od służby z tego tytułu udziela się najpóźniej do końca roku kalendarzowego.
+podstawowym rozkładzie czasu służby, który na polecenie, o którym mowa w § 4 ust. 2 pkt 2, pełnił służbę w niedzielę, święto lub dniu dodatkowo wolnym od służby – udziela się dnia wolnego od służby w innym terminie. Dni wolnych od służby z tego tytułu udziela się najpóźniej do końca roku kalendarzowego.
 § 9.
 1.
 Kierownik może wyznaczyć funkcjonariusza do pełnienia dyżuru domowego, w wymiarze nieprzekraczającym 12 godzin na dobę. Czasu dyżuru domowego nie wlicza się do czasu służby, jeżeli podczas dyżuru funkcjonariusz nie wykonywał zadań służbowych.
@@ -125,12 +122,11 @@ Jeżeli funkcjonariusz wykonywał na polecenie przełożonego zadania służbowe
 1)
 po godzinach służby, to za czas ich wykonywania udziela się mu w tym samym wymiarze czasu na wypoczynek;
 2)
-w niedzielę, święto, dniu dodatkowo lub harmonogramowo wolnym od służby, udziela się mu dodatkowo dnia wolnego od służby.
-Przepis § 8 zdanie drugie stosuje się odpowiednio.
+w niedzielę, święto, dniu dodatkowo lub harmonogramowo wolnym od służby, udziela się mu dodatkowo dnia wolnego od służby. Przepis § 8 zdanie drugie stosuje się odpowiednio.
 § 10.
 W jednostkach organizacyjnych Agencji Wywiadu prowadzi się ewidencję czasu służby, którą udostępnia się funkcjonariuszowi na jego żądanie. W szczególności mogą być prowadzone: lista obecności, ewidencja wyjść w godzinach pełnienia służby i harmonogram służby.
 § 11.
 W uzasadnionych przypadkach Szef Agencji Wywiadu może ustalić dniem wolnym od służby dzień przypadający między dniami wolnymi od służby albo dzień poprzedzający dzień ustawowo wolny od pracy, pod warunkiem wyznaczenia soboty dniem służby.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 17 maja 2003 r..Niniejsze rozporządzenie było poprzedzone zarządzeniem Szefa Urzędu Ochrony Państwa z dnia 17 września 1997 r. w sprawie ustalania rozkładu czasu służby funkcjonariuszy Urzędu Ochrony Państwa (M. P. poz. 672 i 854), zachowanym w mocy na podstawie art. 15 ustawy z dnia 6 lipca 2001 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawy o odszkodowaniach przysługujących w razie wypadków i chorób pozostających w związku ze służbą w Milicji Obywatelskiej, ustawy o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawy o uposażeniu żołnierzy, ustawy o Policji, ustawy o Urzędzie Ochrony Państwa, ustawy o Państwowej Straży Pożarnej, ustawy o kontroli skarbowej, ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawy o Służbie Więziennej oraz ustawy o Inspekcji Celnej (Dz. U. poz. 877) oraz zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676). 1) W brzmieniu ustalonym przez § 1 rozporządzenia Prezesa Rady Ministrów z dnia 24 października 2019 r. zmieniającego rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 2151), które weszło w życie z dniem 22 listopada 2019 r. 2) Rozporządzenie zostało ogłoszone w dniu 17 maja 2003 r. 3) Niniejsze rozporządzenie było poprzedzone zarządzeniem Szefa Urzędu Ochrony Państwa z dnia 17 września 1997 r. w sprawie ustalania rozkładu czasu służby funkcjonariuszy Urzędu Ochrony Państwa (M. P. poz. 672 i 854), zachowanym w mocy na podstawie art. 15 ustawy z dnia 6 lipca 2001 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawy o odszkodowaniach przysługujących w razie wypadków i chorób pozostających w związku ze służbą w Milicji Obywatelskiej, ustawy o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawy o uposażeniu żołnierzy, ustawy o Policji, ustawy o Urzędzie Ochrony Państwa, ustawy o Państwowej Straży Pożarnej, ustawy o kontroli skarbowej, ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, ustawy o Służbie Więziennej oraz ustawy o Inspekcji Celnej (Dz. U. poz. 877) oraz zachowanym w mocy na podstawie art. 232 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 676).
 

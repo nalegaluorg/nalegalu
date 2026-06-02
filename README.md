@@ -60,9 +60,9 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 | Dziedzina | Aktów | Opis |
 |-----------|------:|------|
 | [Ochrona danych osobowych](prawo-ochrony-danych/README.md) | 8 | [Pełna lista aktów →](prawo-ochrony-danych/README.md) (2 z orzecznictwem) |
-| [Prawo administracyjne](prawo-administracyjne/README.md) | 69 | [Pełna lista aktów →](prawo-administracyjne/README.md) (13 z orzecznictwem) |
+| [Prawo administracyjne](prawo-administracyjne/README.md) | 68 | [Pełna lista aktów →](prawo-administracyjne/README.md) (13 z orzecznictwem) |
 | [Prawo bankowe](prawo-bankowe/README.md) | 28 | [Pełna lista aktów →](prawo-bankowe/README.md) (7 z orzecznictwem) |
-| [Prawo budowlane](prawo-budowlane/README.md) | 45 | [Pełna lista aktów →](prawo-budowlane/README.md) (6 z orzecznictwem) |
+| [Prawo budowlane](prawo-budowlane/README.md) | 44 | [Pełna lista aktów →](prawo-budowlane/README.md) (6 z orzecznictwem) |
 | [Prawo cywilne](prawo-cywilne/README.md) | 144 | [Pełna lista aktów →](prawo-cywilne/README.md) (47 z orzecznictwem) |
 | [Prawo energetyczne](prawo-energetyczne/README.md) | 35 | [Pełna lista aktów →](prawo-energetyczne/README.md) (5 z orzecznictwem) |
 | [Prawo handlowe](prawo-handlowe/README.md) | 26 | [Pełna lista aktów →](prawo-handlowe/README.md) (7 z orzecznictwem) |
@@ -70,12 +70,12 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 | [Prawo konstytucyjne](prawo-konstytucyjne/README.md) | 2 | [Pełna lista aktów →](prawo-konstytucyjne/README.md) (1 z orzecznictwem) |
 | [Prawo morskie](prawo-morskie/README.md) | 7 | [Pełna lista aktów →](prawo-morskie/README.md) (2 z orzecznictwem) |
 | [Prawo ochrony środowiska](prawo-ochrony-srodowiska/README.md) | 65 | [Pełna lista aktów →](prawo-ochrony-srodowiska/README.md) (9 z orzecznictwem) |
-| [Prawo podatkowe](prawo-podatkowe/README.md) | 196 | [Pełna lista aktów →](prawo-podatkowe/README.md) (29 z orzecznictwem) |
-| [Prawo pracy](prawo-pracy/README.md) | 68 | [Pełna lista aktów →](prawo-pracy/README.md) (21 z orzecznictwem) |
+| [Prawo podatkowe](prawo-podatkowe/README.md) | 193 | [Pełna lista aktów →](prawo-podatkowe/README.md) (29 z orzecznictwem) |
+| [Prawo pracy](prawo-pracy/README.md) | 67 | [Pełna lista aktów →](prawo-pracy/README.md) (21 z orzecznictwem) |
 | [Prawo telekomunikacyjne](prawo-telekomunikacyjne/README.md) | 6 | [Pełna lista aktów →](prawo-telekomunikacyjne/README.md) (2 z orzecznictwem) |
-| [Prawo upadłościowe](prawo-upadlosciowe/README.md) | 19 | [Pełna lista aktów →](prawo-upadlosciowe/README.md) (4 z orzecznictwem) |
+| [Prawo upadłościowe](prawo-upadlosciowe/README.md) | 18 | [Pełna lista aktów →](prawo-upadlosciowe/README.md) (4 z orzecznictwem) |
 | [Prawo zamówień publicznych](prawo-zamowien/README.md) | 19 | [Pełna lista aktów →](prawo-zamowien/README.md) (7 z orzecznictwem) |
-| [Inne](inne/README.md) | 18723 | [Pełna lista aktów →](inne/README.md) (1074 z orzecznictwem) |
+| [Inne](inne/README.md) | 18664 | [Pełna lista aktów →](inne/README.md) (1074 z orzecznictwem) |
 
 ## Bramka jakości
 
@@ -97,9 +97,9 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 
 ## Testy
 
-**PASSED** — 0 tests — 0 passed, 0 failed, 0 errors
+**PASSED** — 142 tests — 142 passed, 0 failed, 0 errors, 33 skipped
 
-Ostatni przebieg: 2026-05-27 02:03 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+Ostatni przebieg: 2026-06-02 19:15 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
 
 <!-- STATS:START -->
 ## Statystyki
@@ -108,23 +108,23 @@ Ostatni przebieg: 2026-05-27 02:03 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESU
 
 | | Wartość |
 |---|---:|
-| Opublikowane akty | **16,649** |
-| Odrzucone (jakość) | 5,958 |
-| Artykuły | 131,289 |
-| Znaki treści | 387.1M |
-| Śr. znaków/akt | 23,250 |
-| Śr. artykułów/akt | 7.9 |
+| Opublikowane akty | **18,266** |
+| Odrzucone (jakość) | 70 |
+| Artykuły | 113,743 |
+| Znaki treści | 495.2M |
+| Śr. znaków/akt | 27,108 |
+| Śr. artykułów/akt | 6.2 |
 
 **Źródła danych:**
 
-- ELI HTML: 15,785 (95%)
-- ISAP PDF: 864 (5%)
+- ELI HTML: 14,332 (78%)
+- ISAP PDF: 3,934 (22%)
 
-*Odrzucone: 59 skanów bez OCR, 42 zablokowanych przez bramkę jakości, 5899 inne*
+*Odrzucone: 3 skanów bez OCR, 456 zablokowanych przez bramkę jakości, 67 inne*
 
-*Od 2026-05-18: +3,328 aktów*
+*Od 2026-05-18: +4,945 aktów*
 
-*Ostatnia aktualizacja: 2026-05-28*
+*Ostatnia aktualizacja: 2026-06-02*
 <!-- STATS:END -->
 
 ## Zakres i ograniczenia
@@ -135,4 +135,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*19620 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-28*
+*19554 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-06-02*

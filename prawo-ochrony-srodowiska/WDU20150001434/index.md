@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw
+# Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE z dnia 4 lipca 2012 r. w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi, zmieniającej, a następnie uchylającej dyrektywę Rady 96/82/WE (Dz. Urz. UE L 197 z 24.07.2012, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-23 |
 | Data wydania | 2015-09-21 |
-| Wejście w życie | 2015-10-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001434) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1434/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym i ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045 i 1223.) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 1 do tytułu ustawy: uchyla się pkt 5, w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „
     - **a)**
@@ -68,7 +69,7 @@ source: "eli-html"
 
 - **1)** sposób ustalania bezpiecznej odległości, o której mowa w art. 73 ust. 4 i 5,
 - **2)** rodzaje poważnych awarii przemysłowych, których potencjalne skutki należy uwzględnić przy ustalaniu bezpiecznej odległości, o której mowa w art. 73 ust. 4 i 5,
-- **3)** parametry graniczne oddziaływania potencjalnych skutków poważnych awarii przemysłowych w zakresie palności, wybuchowości i toksyczności substancji niebezpiecznych, których miejsca występowania należy uwzględnić przy ustalaniu bezpiecznej odległości, o której mowa w art. 73 ust. 4 i 5 kierując się potrzebą zapewnienia wysokiego poziomu ochrony ludzi i środowiska. ” ;
+- **3)** parametry graniczne oddziaływania potencjalnych skutków poważnych awarii przemysłowych w zakresie palności, wybuchowości i toksyczności substancji niebezpiecznych, których miejsca występowania należy uwzględnić przy ustalaniu bezpiecznej odległości, o której mowa w art. 73 ust. 4 i 5 – kierując się potrzebą zapewnienia wysokiego poziomu ochrony ludzi i środowiska. ” ;
 - **5)** w art. 184 w ust. 4 uchyla się pkt 4;
 - **6)** art. 243a i art. 244 otrzymują brzmienie: „
 
@@ -93,8 +94,15 @@ source: "eli-html"
 
 **Art. 244.** Prowadzący zakład, którego działalność może być przyczyną wystąpienia awarii, podmiot transportujący substancje niebezpieczne oraz organy administracji są obowiązani do ochrony środowiska przed awariami. ” ;
 
-- **7)** w art. 248: w ust. 2a: – pkt 2 otrzymuje brzmienie: „ 2) transportu drogowego, kolejowego, wodnego śródlądowego, morskiego lub powietrznego substancji niebezpiecznych i bezpośredniego związanego z nim tymczasowego ich składowania poza terenem zakładów, z uwzględnieniem załadunku i rozładunku oraz transportu do i z doków, nabrzeży i stacji rozrządowych; ” , – pkt 4 otrzymuje brzmienie: „ 4) składowisk odpadów oraz składowania i magazynowania odpadów, z wyjątkiem odpadów niebezpiecznych stanowiących substancje niebezpieczne określone w przepisach wydanych na podstawie ust. 3 oraz powiązanych z tymi operacjami chemicznych i cieplnych procesów przetwarzania tych odpadów; ” , – dodaje się pkt 5–8 w brzmieniu: „ 5) zagrożeń spowodowanych promieniowaniem jonizującym generowanym przez substancje; 6) poszukiwania, rozpoznawania i wydobywania kopalin ze złóż na obszarach morskich; 7) magazynowania gazu w podziemnych obiektach morskich, obejmujących zarówno przeznaczone do tego obiekty magazynowe, jak i obiekty, w których prowadzi się również poszukiwania i eksploatację kopalin, w tym węglowodorów; 8) transportu substancji niebezpiecznych rurociągami, z uwzględnieniem pompowni, znajdującymi się poza zakładami o zwiększonym ryzyku lub zakładami o dużym ryzyku. ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
+- **7)** w art. 248: w ust. 2a: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** transportu drogowego, kolejowego, wodnego śródlądowego, morskiego lub powietrznego substancji niebezpiecznych i bezpośredniego związanego z nim tymczasowego ich składowania poza terenem zakładów, z uwzględnieniem załadunku i rozładunku oraz transportu do i z doków, nabrzeży i stacji rozrządowych; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** składowisk odpadów oraz składowania i magazynowania odpadów, z wyjątkiem odpadów niebezpiecznych stanowiących substancje niebezpieczne określone w przepisach wydanych na podstawie ust. 3 oraz powiązanych z tymi operacjami chemicznych i cieplnych procesów przetwarzania tych odpadów; ” , dodaje się pkt 5–8 w brzmieniu: „
+- **5)** zagrożeń spowodowanych promieniowaniem jonizującym generowanym przez substancje;
+- **6)** poszukiwania, rozpoznawania i wydobywania kopalin ze złóż na obszarach morskich;
+- **7)** magazynowania gazu w podziemnych obiektach morskich, obejmujących zarówno przeznaczone do tego obiekty magazynowe, jak i obiekty, w których prowadzi się również poszukiwania i eksploatację kopalin, w tym węglowodorów;
+- **8)** transportu substancji niebezpiecznych rurociągami, z uwzględnieniem pompowni, znajdującymi się poza zakładami o zwiększonym ryzyku lub zakładami o dużym ryzyku. ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
     - **b)**
 
 2b. W przypadku składowania rtęci metalicznej w postaci odpadu przez co najmniej rok przepisu ust. 2a pkt 4 nie stosuje się. ” , ust. 3 otrzymuje brzmienie: „
@@ -109,7 +117,7 @@ source: "eli-html"
     - **c)**
     - **d)**
 
-- **2)** nazw i oznaczeń numerycznych substancji niebezpiecznych decydujących o zaliczeniu zakładu do zakładu o zwiększonym ryzyku albo zakładu o dużym ryzyku kierując się potrzebą zapewnienia właściwej kwalifikacji zakładów ze względu na stwarzane przez nie zagrożenia wystąpienia awarii przemysłowej. ” , uchyla się ust. 4;
+- **2)** nazw i oznaczeń numerycznych substancji niebezpiecznych decydujących o zaliczeniu zakładu do zakładu o zwiększonym ryzyku albo zakładu o dużym ryzyku – kierując się potrzebą zapewnienia właściwej kwalifikacji zakładów ze względu na stwarzane przez nie zagrożenia wystąpienia awarii przemysłowej. ” , uchyla się ust. 4;
     - **d)**
 
 - **8)** w art. 250: w ust. 2 pkt 6 i 7 otrzymują brzmienie: „
@@ -334,10 +342,10 @@ source: "eli-html"
 
 3. Wysokość kosztów opracowania i zmiany zewnętrznego planu operacyjno-ratowniczego określa się następująco:
 
-- **1)** w przypadku opracowania zewnętrznego planu operacyjno-ratowniczego – jako kwotę równą wysokości przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok przyjęcia zewnętrznego planu operacyjno-ratowniczego, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.);
+- **1)** w przypadku opracowania zewnętrznego planu operacyjno-ratowniczego – jako kwotę równą wysokości przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok przyjęcia zewnętrznego planu operacyjno-ratowniczego, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311.);
 - **2)** w przypadku zmiany zewnętrznego planu operacyjno-ratowniczego – 50% kwoty, o której mowa w pkt 1.
 
-4. Koszty, o których mowa w ust. 3, stanowią przychód funduszu wojewódzkiego będącego częścią Funduszu Wsparcia Państwowej Straży Pożarnej, o którym mowa w art. 19e ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.).
+4. Koszty, o których mowa w ust. 3, stanowią przychód funduszu wojewódzkiego będącego częścią Funduszu Wsparcia Państwowej Straży Pożarnej, o którym mowa w art. 19e ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268 i 1434.).
 
 5. Zewnętrzny plan operacyjno-ratowniczy podlega zaopiniowaniu przez organy i podmioty, o których mowa w ust. 2.
 
@@ -349,7 +357,7 @@ source: "eli-html"
 
 9. Komendant wojewódzki Państwowej Straży Pożarnej jest obowiązany do przeprowadzania analizy i przećwiczenia realizacji zewnętrznego planu operacyjno-ratowniczego co najmniej raz na 3 lata, w celu wprowadzenia w nim niezbędnych zmian; w szczególności należy brać pod uwagę zmiany dokonane w instalacji, w sposobie funkcjonowania jednostek ochrony przeciwpożarowej, stan wiedzy dotyczącej zapobiegania, zwalczania i usuwania skutków awarii przemysłowej, a także postęp naukowo-techniczny.
 
-10. Do wykonania zewnętrznego planu operacyjno-ratowniczego stosuje się przepisy ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.).
+10. Do wykonania zewnętrznego planu operacyjno-ratowniczego stosuje się przepisy ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908, z 2013 r. poz. 1635 oraz z 2015 r. poz. 867.).
 
 **Art. 266.**
 
@@ -501,7 +509,7 @@ source: "eli-html"
 - **1)** może wydać decyzję nakazującą usunięcie w określonym terminie stwierdzonych uchybień lub
 - **2)** wydaje decyzję wstrzymującą uruchomienie albo użytkowanie zakładu, instalacji, w tym magazynu lub jakiejkolwiek ich części, jeżeli stwierdzone uchybienia mogą powodować ryzyko wystąpienia awarii przemysłowej. ” .
 
-**Art. 2.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888, z 2014 r. poz. 1101 oraz z 2015 r. poz. 277, 671, 881 i 1223.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5a: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
@@ -523,7 +531,7 @@ source: "eli-html"
 - **b)**
 - **c)**
 
-6. Jeżeli kontrola instalacji wymagających pozwolenia zintegrowanego lub zakładu o zwiększonym ryzyku lub zakładu o dużym ryzyku wykaże istotne naruszenie wymogów określonych w tym pozwoleniu lub w zakresie przeciwdziałania poważnej awarii przemysłowej, w terminie 6 miesięcy od dnia zakończenia tej kontroli przeprowadza się powtórną kontrolę, o której mowa w art. 83 ust. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.). ” ;
+6. Jeżeli kontrola instalacji wymagających pozwolenia zintegrowanego lub zakładu o zwiększonym ryzyku lub zakładu o dużym ryzyku wykaże istotne naruszenie wymogów określonych w tym pozwoleniu lub w zakresie przeciwdziałania poważnej awarii przemysłowej, w terminie 6 miesięcy od dnia zakończenia tej kontroli przeprowadza się powtórną kontrolę, o której mowa w art. 83 ust. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268 i 1272.). ” ;
 
 - **2)** w art. 29: uchyla się pkt 2, pkt 4 otrzymuje brzmienie: „
     - **a)**
@@ -539,10 +547,10 @@ source: "eli-html"
 
 1a. Wojewódzki inspektor ochrony środowiska może odstąpić od przeprowadzenia kontroli, o której mowa w ust. 1, jeżeli z uzgodnionego pomiędzy komendantem wojewódzkim Państwowej Straży Pożarnej a wojewódzkim inspektorem ochrony środowiska wykazu, o którym mowa w art. 269a ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, wynika, że kontrola ta została zaplanowana przez właściwy organ Państwowej Straży Pożarnej. ” .
 
-**Art. 3.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.) w art. 23:
+**Art. 3.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217 i 1268.) w art. 23:
 
 - **1)** w ust. 2 pkt 2 otrzymuje brzmienie: „
-- **2)** art. 269 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.), w zakresie zakładów o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej i zakładów o dużym ryzyku wystąpienia poważnej awarii przemysłowej; ” ;
+- **2)** art. 269 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045, 1223 i 1434.), w zakresie zakładów o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej i zakładów o dużym ryzyku wystąpienia poważnej awarii przemysłowej; ” ;
 - **2)** w ust. 3 pkt 4 otrzymuje brzmienie: „
 - **4)** ustalania spełnienia wymogów bezpieczeństwa w zakładzie o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej lub zakładzie o dużym ryzyku wystąpienia poważnej awarii przemysłowej, na zasadach ustalonych dla kontroli w art. 269 oraz art. 269a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska; ” ;
 - **3)** ust. 6 i 7 otrzymują brzmienie: „
@@ -550,21 +558,21 @@ source: "eli-html"
 6. Strażacy, o których mowa w ust. 4, w przypadku naruszenia:
 
 - **1)** przepisów przeciwpożarowych lub
-- **2)** przepisów art. 250 ust. 1, 4, 5, 8 i 9, art. 251 ust. 1, 5–8, art. 252 ust. 1, art. 253 ust. 1, art. 254 ust. 1, art. 255 ust. 1 i 2, art. 256–258, art. 261 ust. 1 pkt 1 i 2 oraz ust. 2–5, art. 261a ust. 1 i 2, art. 262, art. 263 lub art. 264 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, przez prowadzącego zakład o dużym ryzyku wystąpienia poważnej awarii przemysłowej lub prowadzącego zakład o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej mają prawo do nakładania grzywny w drodze mandatu karnego.
+- **2)** przepisów art. 250 ust. 1, 4, 5, 8 i 9, art. 251 ust. 1, 5–8, art. 252 ust. 1, art. 253 ust. 1, art. 254 ust. 1, art. 255 ust. 1 i 2, art. 256–258, art. 261 ust. 1 pkt 1 i 2 oraz ust. 2–5, art. 261a ust. 1 i 2, art. 262, art. 263 lub art. 264 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, przez prowadzącego zakład o dużym ryzyku wystąpienia poważnej awarii przemysłowej lub prowadzącego zakład o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej – mają prawo do nakładania grzywny w drodze mandatu karnego.
 
 7. Czynności kontrolno-rozpoznawcze mogą być przeprowadzane po doręczeniu kontrolowanemu upoważnienia do przeprowadzenia tych czynności przynajmniej na 7 dni, a w przypadkach, o których mowa w ust. 2 pkt 5, przynajmniej na 3 dni – przed terminem ich rozpoczęcia. Upoważnienie może być doręczone kontrolowanemu w chwili przystąpienia do czynności kontrolno-rozpoznawczych, jeżeli:
 
 - **1)** powzięto informację o możliwości występowania w miejscu ich przeprowadzania zagrożenia życia ludzi lub bezpośredniego niebezpieczeństwa powstania pożaru, lub poważnej awarii przemysłowej;
 - **2)** przeprowadzenie czynności kontrolno-rozpoznawczych jest niezbędne w celu dokonania ustaleń w zakresie określonym w ust. 3 pkt 7 i 8. ” .
 
-**Art. 4.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm.) w art. 53 w ust. 4 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+**Art. 4.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 443, 774 i 1265.) w art. 53 w ust. 4 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
 
 - **12)** właściwym organem Państwowej Straży Pożarnej i wojewódzkim inspektorem ochrony środowiska – w odniesieniu do: lokalizacji zakładów nowych w rozumieniu art. 243a pkt 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, zmian, o których mowa w art. 250 ust. 5 i 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, w istniejących zakładach o zwiększonym ryzyku lub zakładach o dużym ryzyku wystąpienia poważnej awarii przemysłowej, nowych inwestycji w sąsiedztwie zakładów o zwiększonym ryzyku lub zakładów o dużym ryzyku wystąpienia poważnej awarii przemysłowej w przypadku, gdy te inwestycje zwiększają ryzyko lub skutki poważnych awarii. ” .
     - **a)**
     - **b)**
     - **c)**
 
-**Art. 5.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223 i 1265.) wprowadza się następujące zmiany:
 
 - **1)** w art. 21 w ust. 2 w pkt 23: po lit. m dodaje się lit. ma i mb w brzmieniu: „ma) zgłoszeniach, o których mowa w art. 250 ust. 1 tej ustawy, mb) programach zapobiegania poważnym awariom przemysłowym, o których mowa w art. 251 ust. 1 tej ustawy,”, po lit. n dodaje się lit. na w brzmieniu: „ na) kontrolach planowych, o których mowa w art. 269 tej ustawy, ” ;
     - **a)**
@@ -606,7 +614,7 @@ source: "eli-html"
 - **2)** zatwierdzenia lub odmowy zatwierdzenia raportu o bezpieczeństwie lub jego zmiany, o którym mowa w art. 254 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym,
 - **3)** wniesienia sprzeciwu wobec dokonania zmian w zakładzie, instalacji, procesie przemysłowym lub zmian rodzaju, właściwości lub ilości składowanych substancji niebezpiecznych mogących mieć wpływ na wystąpienie zagrożenia awarią przemysłową, o którym mowa w art. 258 ust. 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym,
 - **4)** ustalania grupy zakładów o zwiększonym ryzyku lub o dużym ryzyku, których zlokalizowanie w niedużej odległości od siebie może zwiększyć prawdopodobieństwo wystąpienia poważnej awarii przemysłowej lub pogłębić jej skutki, w szczególności na skoncentrowanie posiadanych rodzajów, kategorii i ilości składowanych substancji niebezpiecznych, o której mowa w art. 259 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym,
-- **5)** nałożenia obowiązku poniesienia kosztów sporządzenia zewnętrznego planu operacyjno-ratowniczego, o których mowa w art. 265 ust. 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym stają się postępowaniami, wszczętymi odpowiednio z urzędu lub na wniosek, na podstawie przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- **5)** nałożenia obowiązku poniesienia kosztów sporządzenia zewnętrznego planu operacyjno-ratowniczego, o których mowa w art. 265 ust. 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym – stają się postępowaniami, wszczętymi odpowiednio z urzędu lub na wniosek, na podstawie przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE z dnia 4 lipca 2012 r. w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi, zmieniającej, a następnie uchylającej dyrektywę Rady 96/82/WE (Dz. Urz. UE L 197 z 24.07.2012, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym i ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045 i 1223. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268 i 1434. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 353, z 2012 r. poz. 908, z 2013 r. poz. 1635 oraz z 2015 r. poz. 867. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888, z 2014 r. poz. 1101 oraz z 2015 r. poz. 277, 671, 881 i 1223. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268 i 1272. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217 i 1268. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045, 1223 i 1434. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 443, 774 i 1265. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 587, 822, 850, 1101 i 1133 oraz z 2015 r. poz. 200, 277, 774, 1045, 1211, 1223 i 1265.
 

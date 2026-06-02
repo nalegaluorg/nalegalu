@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 22 grudnia 2022 r. zmieniające rozporządzenie w sprawie określenia górnej granicy składek organizacji spółdzielczych na rzecz związków rewizyjnych i Krajowej Rady Spółdzielczej
+# Rozporządzenie Ministra Finansówz dnia 22 grudnia 2022 r. zmieniające rozporządzenie w sprawie określenia górnej granicy składek organizacji spółdzielczych na rzecz związków rewizyjnych i Krajowej Rady Spółdzielczej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-22 |
 | Data wydania | 2022-12-29 |
-| Wejście w życie | 2022-12-30 |
 | Ostatnia zmiana | 2025-09-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002827) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2827/text.pdf) |
 
@@ -33,6 +32,5 @@ W rozporządzeniu Ministra Finansów z dnia 19 marca 1999 r. w sprawie określen
 § 2.
 Przepis § 1 ust. 1 pkt 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do składek zaliczanych do kosztów uzyskania przychodów płaconych przez organizacje spółdzielcze na rzecz Krajowej Rady Spółdzielczej należnych za rok 2023.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 

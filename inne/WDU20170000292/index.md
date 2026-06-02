@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-13 |
 | Data wydania | 2017-02-20 |
-| Wejście w życie | 2017-02-28 |
 | Ostatnia zmiana | 2024-10-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000292) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/292/text.pdf) |
 
@@ -160,5 +159,5 @@ Do przekazanych na podstawie ust. 1 uwag uprawniony organ ustosunkowuje się w t
 § 13.
 Do sposobu realizacji kompetencji zastępcy prokuratora okręgowego do spraw wojskowych w zakresie kontroli nad czynnościami operacyjno-rozpoznawczymi stosuje się odpowiednio § 2–7, § 9, § 10 oraz § 12.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 28 lutego 2017 r.
+Rozporządzenie wchodzi w życie z dniem 28 lutego 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 czerwca 2011 r. w sprawie sposobu realizacji kompetencji prokuratora w zakresie nadzoru nad czynnościami operacyjno-rozpoznawczymi (Dz. U. poz. 692), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103) z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 czerwca 2011 r. w sprawie sposobu realizacji kompetencji prokuratora w zakresie nadzoru nad czynnościami operacyjno-rozpoznawczymi (Dz. U. poz. 692), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103) z dniem wejścia w życie niniejszego rozporządzenia.
 

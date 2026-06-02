@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-21 |
 | Data wydania | 2021-11-08 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002022) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2022/text.pdf) |
 
@@ -33,5 +32,5 @@ Nadawca programu telewizyjnego wyspecjalizowanego o charakterze filmowym, w któ
 § 2.
 Nadawca programu telewizyjnego wyspecjalizowanego o charakterze kulturalnym lub historycznym, w którym audycje wytworzone co najmniej 10 lat przed rozpowszechnieniem w programie stanowią nie mniej niż 40% kwartalnego czasu nadawania programu, przeznacza na audycje europejskie wytworzone przez producentów niezależnych w okresie 5 lat przed rozpowszechnieniem w programie co najmniej 2% kwartalnego czasu nadawania programu, z wyłączeniem serwisów informacyjnych, reklam, telesprzedaży, transmisji sportowych, przekazów tekstowych i teleturniejów.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 30 czerwca 2011 r. w sprawie niższego udziału w programie telewizyjnym audycji europejskich wytworzonych przez producentów niezależnych w okresie 5 lat przed rozpowszechnieniem w programie (Dz. U. poz. 876), które zgodnie z art. 6 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii (Dz. U. poz. 1676) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 30 czerwca 2011 r. w sprawie niższego udziału w programie telewizyjnym audycji europejskich wytworzonych przez producentów niezależnych w okresie 5 lat przed rozpowszechnieniem w programie (Dz. U. poz. 876), które zgodnie z art. 6 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii (Dz. U. poz. 1676) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

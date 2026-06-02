@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 9 sierpnia 2021 r. w sprawie wyznaczenia podmiotu świadczącego usługi z zakresu rozwoju i wsparcia elementów Systemu Poboru Opłaty Elektronicznej KAS
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 9 sierpnia 2021 r. w sprawie wyznaczenia podmiotu świadczącego usługi z zakresu rozwoju i wsparcia elementów Systemu Poboru Opłaty Elektronicznej KAS Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-09 |
 | Data wydania | 2021-08-12 |
-| Wejście w życie | 2021-08-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001463) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1463/text.pdf) |
 
@@ -38,8 +37,7 @@ moduł wirtualnych bramownic,
 3)
 moduł map,
 4)
-element Systemu odpowiedzialny za proces naliczania opłaty, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych
-zwanych dalej „elementami Systemu”.
+element Systemu odpowiedzialny za proces naliczania opłaty, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych – zwanych dalej „elementami Systemu”.
 2.
 Usługi z zakresu rozwoju i wsparcia elementów Systemu będą świadczone również w zakresie integracji elementów Systemu z pozostałymi częściami Systemu.
 § 2.
@@ -71,6 +69,5 @@ wdrażanie zmian w elementach Systemu;
 § 4.
 Do świadczenia usługi z zakresu wdrożenia elementów, o której mowa w § 1 pkt 3 rozporządzenia Ministra Infrastruktury z dnia 7 sierpnia 2019 r. w sprawie wyznaczenia podmiotu świadczącego usługi z zakresu projektowania, budowy i wdrożenia systemu teleinformatycznego służącego do poboru opłaty elektronicznej i kontroli prawidłowości uiszczenia tej opłaty oraz określenia zakresu usług realizowanych przez ten podmiot (Dz. U. poz. 1492 oraz z 2020 r. poz. 948), stosuje się przepisy dotychczasowe.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 7 sierpnia 2019 r. w sprawie wyznaczenia podmiotu świadczącego usługi z zakresu projektowania, budowy i wdrożenia systemu teleinformatycznego służącego do poboru opłaty elektronicznej i kontroli prawidłowości uiszczenia tej opłaty oraz określenia zakresu usług realizowanych przez ten podmiot (Dz. U. poz. 1492 oraz z 2020 r. poz. 948), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ustawy z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1087 oraz z 2021 r. poz. 1005).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 7 sierpnia 2019 r. w sprawie wyznaczenia podmiotu świadczącego usługi z zakresu projektowania, budowy i wdrożenia systemu teleinformatycznego służącego do poboru opłaty elektronicznej i kontroli prawidłowości uiszczenia tej opłaty oraz określenia zakresu usług realizowanych przez ten podmiot (Dz. U. poz. 1492 oraz z 2020 r. poz. 948), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ustawy z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1087 oraz z 2021 r. poz. 1005). 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 7 sierpnia 2019 r. w sprawie wyznaczenia podmiotu świadczącego usługi z zakresu projektowania, budowy i wdrożenia systemu teleinformatycznego służącego do poboru opłaty elektronicznej i kontroli prawidłowości uiszczenia tej opłaty oraz określenia zakresu usług realizowanych przez ten podmiot (Dz. U. poz. 1492 oraz z 2020 r. poz. 948), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ustawy z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1087 oraz z 2021 r. poz. 1005).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-10 |
 | Data wydania | 2024-12-12 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001842) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1842/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 35 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokurat
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 19 lutego 2016 r. w sprawie utworzenia Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratur regionalnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. z 2023 r. poz. 1209 i 2767) w § 4:
 1)
-w pkt 1 lit. c otrzymuje brzmienie:
-„
+w pkt 1 lit. c otrzymuje brzmienie: „
 c)
-Prokuraturę Rejonową w Białymstoku dla gmin: Choroszcz, Czarna Białostocka, Dobrzyniewo Duże, Grabówka, Gródek, Jasionówka, Jaświły, Juchnowiec Kościelny, Knyszyn, Krypno, Łapy, Michałowo, Mońki, Poświętne, Supraśl, Suraż, Turośń Kościelna, Tykocin, Wasilków i Zabłudów,
-” ;
+Prokuraturę Rejonową w Białymstoku dla gmin: Choroszcz, Czarna Białostocka, Dobrzyniewo Duże, Grabówka, Gródek, Jasionówka, Jaświły, Juchnowiec Kościelny, Knyszyn, Krypno, Łapy, Michałowo, Mońki, Poświętne, Supraśl, Suraż, Turośń Kościelna, Tykocin, Wasilków i Zabłudów, ” ;
 2)
-w pkt 20 lit. b otrzymuje brzmienie:
-„
+w pkt 20 lit. b otrzymuje brzmienie: „
 b)
-Prokuraturę Rejonową w Limanowej dla miast Limanowa i Mszana Dolna oraz gmin: Dobra, Jodłownik, Kamienica, Laskowa, Limanowa, Łukowica, Mszana Dolna, Niedźwiedź, Stopnice, Szczawa i Tymbark,
-” .
+Prokuraturę Rejonową w Limanowej dla miast Limanowa i Mszana Dolna oraz gmin: Dobra, Jodłownik, Kamienica, Laskowa, Limanowa, Łukowica, Mszana Dolna, Niedźwiedź, Stopnice, Szczawa i Tymbark, ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
 

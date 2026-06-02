@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 6 lipca 2007 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw
+# Ustawa z dnia 6 lipca 2007 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych oraz ustawę z dnia 20 kwietnia 2004 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-07-06 |
 | Data wydania | 2007-09-25 |
-| Wejście w życie | 2007-10-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071761237) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1237/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej (Dz. U. z 2001 r. Nr 57, poz. 602, z późn. zm.) wprowadza się następujące zmiany:
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, z późn. zm.).
+
+**Art. 1.** W ustawie z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej (Dz. U. z 2001 r. Nr 57, poz. 602, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 89, poz. 969, z 2003 r. Nr 109, poz. 1029, z 2004 r. Nr 19, poz. 177, Nr 92, poz. 885 i Nr 173, poz. 1808 oraz z 2005 r. Nr 175, poz. 1461 i Nr 253, poz. 2131.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 dodaje się ust. 4 w brzmieniu: „
 
@@ -120,7 +121,7 @@ source: "eli-html"
 
 - **22a)** „Moaşǎ” w Rumunii, ” .
 
-**Art. 2.** W ustawie z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 41, poz. 178, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 41, poz. 178, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 24, poz. 110 i Nr 91, poz. 410, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 62, poz. 559, Nr 153, poz. 1271 i Nr 240, poz. 2052 oraz z 2004 r. Nr 92, poz. 885.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 dodaje się ust. 3 w brzmieniu: „
 
@@ -159,5 +160,5 @@ source: "eli-html"
 
 **Art. 4.** Postępowania wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy toczą się na podstawie przepisów dotychczasowych.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 20 października 2007 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 20 października 2007 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych oraz ustawę z dnia 20 kwietnia 2004 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw. 2) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 89, poz. 969, z 2003 r. Nr 109, poz. 1029, z 2004 r. Nr 19, poz. 177, Nr 92, poz. 885 i Nr 173, poz. 1808 oraz z 2005 r. Nr 175, poz. 1461 i Nr 253, poz. 2131. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 24, poz. 110 i Nr 91, poz. 410, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 62, poz. 559, Nr 153, poz. 1271 i Nr 240, poz. 2052 oraz z 2004 r. Nr 92, poz. 885.
 

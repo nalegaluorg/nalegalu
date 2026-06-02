@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-07 |
 | Data wydania | 2015-05-25 |
-| Wejście w życie | 2015-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000716) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/716/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 23a § 8 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 23a § 8 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307, z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654, Nr 117, poz. 678, Nr 142, poz. 829, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 240, poz. 1430, 1431 i 1438 i Nr 279, poz. 1645, z 2012 r. poz. 886, 1091, 1101, 1327, 1426, 1447 i 1529, z 2013 r. poz. 480, 765, 849, 1247, 1262, 1282 i 1650, z 2014 r. poz. 85, 384, 694, 1375 i 1556 oraz z 2015 r. poz. 21, 290 i 396.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -51,8 +50,7 @@ zapewnia przeprowadzenie postępowania mediacyjnego przez osoby spełniające wa
 3)
 posiada warunki organizacyjne umożliwiające przeprowadzenie postępowania mediacyjnego,
 4)
-została wpisana do wykazu
-zwana dalej „instytucją uprawnioną”.
+została wpisana do wykazu – zwana dalej „instytucją uprawnioną”.
 § 4.
 Do przeprowadzenia postępowania mediacyjnego jest uprawniona osoba, która:
 1)
@@ -70,8 +68,7 @@ posiada umiejętności i wiedzę w zakresie przeprowadzania postępowania mediac
 7)
 daje rękojmię należytego wykonywania obowiązków,
 8)
-została wpisana do wykazu
-zwana dalej „osobą uprawnioną”.
+została wpisana do wykazu – zwana dalej „osobą uprawnioną”.
 § 5.
 Postępowania mediacyjnego nie może przeprowadzać czynny zawodowo sędzia, prokurator, asesor prokuratorski, aplikant wymienionych zawodów, ławnik, referendarz sądowy, asystent sędziego, asystent prokuratora oraz funkcjonariusz instytucji uprawnionej do ścigania przestępstw.
 § 6.
@@ -94,8 +91,7 @@ Osoba kierująca instytucją uprawnioną i osoba uprawniona mają obowiązek zaw
 1)
 każdej zmianie danych, o których mowa w ust. 4,
 2)
-utracie któregokolwiek z warunków, o których mowa w § 3 pkt 1–3 lub w § 4 pkt 1, 2 i 4–6
-w terminie 14 dni od dnia zmiany lub utraty spełnienia warunku.
+utracie któregokolwiek z warunków, o których mowa w § 3 pkt 1–3 lub w § 4 pkt 1, 2 i 4–6 – w terminie 14 dni od dnia zmiany lub utraty spełnienia warunku.
 6.
 W przypadku, o którym mowa w ust. 5 pkt 1, prezes sądu okręgowego dokonuje aktualizacji wykazu.
 § 7.
@@ -262,5 +258,5 @@ Prezes sądu okręgowego w terminie 3 miesięcy od dnia wejścia w życie rozpor
 § 19.
 Do dnia wydania decyzji, o której mowa w § 18 ust. 3, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie rozporządzenia, postępowanie mediacyjne może przeprowadzać instytucja albo osoba godna zaufania wpisana do wykazu, o którym mowa w § 4 ust. 1 rozporządzenia Ministra Sprawiedliwości z dnia 13 czerwca 2003 r. w sprawie postępowania mediacyjnego w sprawach karnych.
 § 20.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 13 czerwca 2003 r. w sprawie postępowania mediacyjnego w sprawach karnych (Dz. U. Nr 108, poz. 1020), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 51 ust. 1 ustawy z dnia 27 września 2013 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1247, z 2014 r. poz. 1556 i 1778 oraz z 2015 r. poz. 21 i 396). 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307, z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654, Nr 117, poz. 678, Nr 142, poz. 829, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 240, poz. 1430, 1431 i 1438 i Nr 279, poz. 1645, z 2012 r. poz. 886, 1091, 1101, 1327, 1426, 1447 i 1529, z 2013 r. poz. 480, 765, 849, 1247, 1262, 1282 i 1650, z 2014 r. poz. 85, 384, 694, 1375 i 1556 oraz z 2015 r. poz. 21, 290 i 396. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 13 czerwca 2003 r. w sprawie postępowania mediacyjnego w sprawach karnych (Dz. U. Nr 108, poz. 1020), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 51 ust. 1 ustawy z dnia 27 września 2013 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1247, z 2014 r. poz. 1556 i 1778 oraz z 2015 r. poz. 21 i 396).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-17 |
 | Data wydania | 2014-07-18 |
-| Wejście w życie | 2014-07-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000950) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/950/text.pdf) |
 
@@ -39,72 +38,67 @@ Na podstawie art. 123 ust. 1f ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (
 § 1.
 W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 16 maja 2013 r. w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych (Dz. U. poz. 576) wprowadza się następujące zmiany:
 1)
-w § 2 pkt 12 otrzymuje brzmienie:
-„
+w § 2 pkt 12 otrzymuje brzmienie: „
 12)
-lot akrobacyjny – zamierzone wykonywanie manewrów lub figur przez pilotującego statek powietrzny, powodujące zmianę położenia statku powietrznego na położenie niestandardowe lub powodujące niestandardową zmianę prędkości, w tym wykonywanie lotu między ustawionymi obiektami;
-” ;
+lot akrobacyjny – zamierzone wykonywanie manewrów lub figur przez pilotującego statek powietrzny, powodujące zmianę położenia statku powietrznego na położenie niestandardowe lub powodujące niestandardową zmianę prędkości, w tym wykonywanie lotu między ustawionymi obiektami; ” ;
 2)
 w § 5:
 a)
-po ust. 4 dodaje się ust. 4a w brzmieniu:
-„
+po ust. 4 dodaje się ust. 4a w brzmieniu: „
 4a.
-Loty akrobacyjne w strefie pokazu lotniczego, o którym mowa w art. 123 ust. 1d ustawy, wykonuje się na wysokości nie mniejszej niż 150 m (500 ft) nad poziomem terenu.
-” ,
+Loty akrobacyjne w strefie pokazu lotniczego, o którym mowa w art. 123 ust. 1d ustawy, wykonuje się na wysokości nie mniejszej niż 150 m (500 ft) nad poziomem terenu. ” ,
 b)
 w ust. 6:
 – uchyla się pkt 2,
-– po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) typ statku powietrznego używanego podczas lotu akrobacyjnego; ” ,
-– pkt 5 otrzymuje brzmienie: „ 5) numer uprawnienia lotniczego pilota statku powietrznego, z wyłączeniem członków załóg statków powietrznych lotnictwa państwowego; ” ,
-– po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) w przypadku pilotów państw obcych – zgodę właściwego organu państwa ich pochodzenia na wykonywanie lotów akrobacyjnych na wysokości mniejszej niż 300 m (1000 ft), jeżeli została udzielona; ” ,
+po pkt 2 dodaje się pkt 2a w brzmieniu: „
+2a)
+typ statku powietrznego używanego podczas lotu akrobacyjnego; ” ,
+pkt 5 otrzymuje brzmienie: „
+5)
+numer uprawnienia lotniczego pilota statku powietrznego, z wyłączeniem członków załóg statków powietrznych lotnictwa państwowego; ” ,
+po pkt 5 dodaje się pkt 5a w brzmieniu: „
+5a)
+w przypadku pilotów państw obcych – zgodę właściwego organu państwa ich pochodzenia na wykonywanie lotów akrobacyjnych na wysokości mniejszej niż 300 m (1000 ft), jeżeli została udzielona; ” ,
 c)
 uchyla się ust. 7,
 d)
-po ust. 7 dodaje się ust. 7a w brzmieniu:
-„
+po ust. 7 dodaje się ust. 7a w brzmieniu: „
 7a.
-Prezes Urzędu może wezwać organizatora lotów akrobacyjnych lub organizatora pokazu lotniczego do złożenia wyjaśnień dotyczących danych oraz informacji, zawartych we wniosku, o którym mowa w ust. 6.
-” ;
+Prezes Urzędu może wezwać organizatora lotów akrobacyjnych lub organizatora pokazu lotniczego do złożenia wyjaśnień dotyczących danych oraz informacji, zawartych we wniosku, o którym mowa w ust. 6. ” ;
 3)
 w § 7:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Pokaz lotniczy, w tym lot treningowy do tego pokazu, odbywa się zgodnie z programem pokazu lotniczego.
-” ,
+Pokaz lotniczy, w tym lot treningowy do tego pokazu, odbywa się zgodnie z programem pokazu lotniczego. ” ,
 b)
 w ust. 2:
-– pkt 2 otrzymuje brzmienie: „ 2) datę i godziny pokazu lotniczego oraz datę i godziny lotów treningowych do tego pokazu; ” ,
+pkt 2 otrzymuje brzmienie: „
+2)
+datę i godziny pokazu lotniczego oraz datę i godziny lotów treningowych do tego pokazu; ” ,
 – w pkt 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ wyznaczone miejsce startu i lądowania oraz szkic terenu, nad którym ma być wykonany pokaz lotniczy i loty treningowe do tego pokazu, zawierający: ” ,
-– w pkt 6 dodaje się lit. g w brzmieniu: „ g) zamiaru wykonania lotu treningowego do pokazu lotniczego; ” ,
+w pkt 6 dodaje się lit. g w brzmieniu: „
+g)
+zamiaru wykonania lotu treningowego do pokazu lotniczego; ” ,
 c)
-dodaje się ust. 6 w brzmieniu:
-„
+dodaje się ust. 6 w brzmieniu: „
 6.
-Określenie danych, o których mowa w ust. 2 pkt 6 lit. a i b, nie jest wymagane w przypadku członków załóg statków powietrznych lotnictwa państwowego.
-” ;
+Określenie danych, o których mowa w ust. 2 pkt 6 lit. a i b, nie jest wymagane w przypadku członków załóg statków powietrznych lotnictwa państwowego. ” ;
 4)
-po § 9 dodaje się § 9a w brzmieniu:
-„
+po § 9 dodaje się § 9a w brzmieniu: „
 § 9a.
 1.
 Dyrektor pokazu lotniczego może dokonać zmian w składzie załogi statku powietrznego na inny skład, który nie został ujęty w programie pokazu lotniczego, pod warunkiem że nowi członkowie załogi statku powietrznego posiadają niezbędne uprawnienia i kwalifikacje oraz będą uczestniczyć w odprawie przed lotami, o której mowa w § 26 ust. 1.
 2.
 Dyrektor pokazu lotniczego może dokonać zmiany statku powietrznego na inny statek powietrzny, z zastrzeżeniem, że statek powietrzny w czasie pokazu lotniczego nie będzie wykonywał lotu z prędkością większą niż deklarowana maksymalna prędkość, o której mowa w § 7 ust. 2 pkt 6 lit. f.
 3.
-Zmiany, o których mowa w ust. 1 i 2, wraz z ich uzasadnieniem, dyrektor pokazu lotniczego odnotowuje w formie pisemnej w dokumentacji pokazu lotniczego.
-” ;
+Zmiany, o których mowa w ust. 1 i 2, wraz z ich uzasadnieniem, dyrektor pokazu lotniczego odnotowuje w formie pisemnej w dokumentacji pokazu lotniczego. ” ;
 5)
-w § 13 w ust. 3 pkt 4 otrzymuje brzmienie:
-„
+w § 13 w ust. 3 pkt 4 otrzymuje brzmienie: „
 4)
-w sposób umożliwiający znalezienie się statku powietrznego po zakończeniu każdej figury akrobacyjnej na wysokości nie mniejszej niż 150 m nad poziomem terenu – w przypadku pokazu lotniczego, o którym mowa w art. 123 ust. 1d ustawy.
-” ;
+w sposób umożliwiający znalezienie się statku powietrznego po zakończeniu każdej figury akrobacyjnej na wysokości nie mniejszej niż 150 m nad poziomem terenu – w przypadku pokazu lotniczego, o którym mowa w art. 123 ust. 1d ustawy. ” ;
 6)
-§ 19 otrzymuje brzmienie:
-„
+§ 19 otrzymuje brzmienie: „
 § 19.
 1.
 Dyrektor pokazu lotniczego współdziała z kierownikiem do spraw bezpieczeństwa w zakresie zapewnienia bezpieczeństwa pokazu lotniczego jako imprezy masowej.
@@ -115,17 +109,13 @@ Rejestrację lotów, o której mowa w ust. 2, wykonuje się zgodnie z przepisami
 4.
 Kopię zapisu rejestracji lotów, o której mowa w ust. 3, organizator pokazu lotniczego przesyła do Prezesa Urzędu w terminie 14 dni od dnia zakończenia pokazu lotniczego.
 5.
-Przepisów ust. 3 i 4 nie stosuje się do pokazu lotniczego, w którym biorą udział wyłącznie państwowe statki powietrzne, organizowanego na terenach będących w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej albo ministrowi właściwemu do spraw wewnętrznych lub przez nich nadzorowanych oraz do pokazu lotniczego, którego organizatorami są te jednostki.
-” ;
+Przepisów ust. 3 i 4 nie stosuje się do pokazu lotniczego, w którym biorą udział wyłącznie państwowe statki powietrzne, organizowanego na terenach będących w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej albo ministrowi właściwemu do spraw wewnętrznych lub przez nich nadzorowanych oraz do pokazu lotniczego, którego organizatorami są te jednostki. ” ;
 7)
-w § 23 w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+w § 23 w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
-numer uprawnienia lotniczego, o którym mowa w § 7 ust. 2 pkt 6 lit. b, wraz z datą jego ważności oraz orzeczenie lotniczo-lekarskie, jeżeli jest wymagane;
-” ;
+numer uprawnienia lotniczego, o którym mowa w § 7 ust. 2 pkt 6 lit. b, wraz z datą jego ważności oraz orzeczenie lotniczo-lekarskie, jeżeli jest wymagane; ” ;
 8)
-§ 30 otrzymuje brzmienie:
-„
+§ 30 otrzymuje brzmienie: „
 § 30.
 1.
 Loty lub skoki spadochronowe podczas pokazu lotniczego mogą wykonywać wyłącznie:
@@ -136,8 +126,7 @@ piloci lotni, motolotni, paralotni i paraplanów posiadający nalot co najmniej 
 3)
 piloci balonów posiadający nalot co najmniej 25 godzin w charakterze dowódcy balonu gazowego lub balonu na ogrzane powietrze, w tym nalot co najmniej 5 godzin w charakterze dowódcy statku powietrznego, na którym wykonują lot podczas pokazu lotniczego,
 4)
-skoczkowie spadochronowi, którzy wykonali minimum 200 skoków, w tym co najmniej 5 skoków na spadochronie, na którym wykonują skok podczas pokazu lotniczego
-o ile zostali dopuszczeni do ich wykonywania przez dyrektora pokazu lotniczego.
+skoczkowie spadochronowi, którzy wykonali minimum 200 skoków, w tym co najmniej 5 skoków na spadochronie, na którym wykonują skok podczas pokazu lotniczego – o ile zostali dopuszczeni do ich wykonywania przez dyrektora pokazu lotniczego.
 2.
 Loty akrobacyjne podczas pokazu lotniczego mogą wykonywać wyłącznie:
 1)
@@ -151,12 +140,9 @@ dokument równoważny licencji lub świadectwu kwalifikacji wydany przez właśc
 2)
 piloci państwowych statków powietrznych posiadający kopię dokumentu potwierdzającego kwalifikacje lub uprawnienia w lotnictwie państwowym,
 3)
-piloci państwowych statków powietrznych z państw obcych posiadający uprawnienie w zakresie wykonywania lotów akrobacyjnych wydane przez właściwy organ państwa obcego
-o ile zostali dopuszczeni do ich wykonywania przez dyrektora pokazu lotniczego.
-” ;
+piloci państwowych statków powietrznych z państw obcych posiadający uprawnienie w zakresie wykonywania lotów akrobacyjnych wydane przez właściwy organ państwa obcego – o ile zostali dopuszczeni do ich wykonywania przez dyrektora pokazu lotniczego. ” ;
 9)
-§ 36 otrzymuje brzmienie:
-„
+§ 36 otrzymuje brzmienie: „
 § 36.
 1.
 W przypadku lotów innych niż akrobacyjne wysokość lotu nad terenem podczas pokazu lotniczego, z zastrzeżeniem ust. 3, nie może być mniejsza niż:
@@ -185,8 +171,7 @@ gaszenia pożaru,
 5)
 lądowania w przypadku lotu nad drogą startową,
 6)
-zawodów lotniczych
-wykonuje się wyłącznie w ramach pokazu lotniczego, o którym mowa w art. 123 ust. 1b ustawy. Loty te mogą być wykonywane poniżej minimalnych wysokości, o których mowa w ust. 1, jeżeli zostało to ujęte w programie pokazu lotniczego, na którego przeprowadzenie Prezes Urzędu wyraził zgodę, w trybie art. 123 ust. 1b ustawy, z uwzględnieniem specyfiki poszczególnych lotów oraz uprawnień i doświadczenia pilotów.
+zawodów lotniczych – wykonuje się wyłącznie w ramach pokazu lotniczego, o którym mowa w art. 123 ust. 1b ustawy. Loty te mogą być wykonywane poniżej minimalnych wysokości, o których mowa w ust. 1, jeżeli zostało to ujęte w programie pokazu lotniczego, na którego przeprowadzenie Prezes Urzędu wyraził zgodę, w trybie art. 123 ust. 1b ustawy, z uwzględnieniem specyfiki poszczególnych lotów oraz uprawnień i doświadczenia pilotów.
 4.
 Loty akrobacyjne wykonywane między ustawionymi obiektami oraz loty, o których mowa w ust. 3 pkt 6, wykonuje się po przeprowadzeniu lotu treningowego w strefie pokazu lotniczego.
 5.
@@ -194,29 +179,22 @@ Kierownik lotów informuje personel lotniczy uczestniczący w pokazie lotniczym 
 6.
 Podczas pokazu lotniczego skoków spadochronowych kontrolę prawidłowości otwarcia spadochronu przeprowadza się na wysokości nie mniejszej niż 700 m (2000 ft).
 7.
-W przypadku pokazu lotniczego organizowanego w formie przelotu statków powietrznych wysokość względna lotu nie może być mniejsza niż 150 m (500 ft) nad najwyższą przeszkodą znajdującą się w promieniu 200 m od statku powietrznego.
-” ;
+W przypadku pokazu lotniczego organizowanego w formie przelotu statków powietrznych wysokość względna lotu nie może być mniejsza niż 150 m (500 ft) nad najwyższą przeszkodą znajdującą się w promieniu 200 m od statku powietrznego. ” ;
 10)
-§ 37 otrzymuje brzmienie:
-„
+§ 37 otrzymuje brzmienie: „
 § 37.
-Dyrektor pokazu lotniczego może zezwolić uczestnikom pokazu lotniczego na wykonanie lotu treningowego w wyznaczonej strefie pokazu lotniczego przed rozpoczęciem pokazu lotniczego, jeżeli taki lot został ujęty w programie pokazu lotniczego, o którym mowa w § 7 ust. 2.
-” ;
+Dyrektor pokazu lotniczego może zezwolić uczestnikom pokazu lotniczego na wykonanie lotu treningowego w wyznaczonej strefie pokazu lotniczego przed rozpoczęciem pokazu lotniczego, jeżeli taki lot został ujęty w programie pokazu lotniczego, o którym mowa w § 7 ust. 2. ” ;
 11)
-w § 39 ust. 2 otrzymuje brzmienie:
-„
+w § 39 ust. 2 otrzymuje brzmienie: „
 2.
-W przypadku wlotu do strefy pokazu lotniczego z obszaru, w którym znajdują się osiedla lub inne skupiska ludności, statek powietrzny może wykonać zniżanie w celu wykonania lotu na stałej wysokości w strefie pokazu lotniczego do wysokości względnej nie mniejszej niż 150 m (500 ft), jednak kąt zniżania nie może być większy niż przewidziany w normalnym podejściu do lądowania dla danego typu statku powietrznego.
-” ;
+W przypadku wlotu do strefy pokazu lotniczego z obszaru, w którym znajdują się osiedla lub inne skupiska ludności, statek powietrzny może wykonać zniżanie w celu wykonania lotu na stałej wysokości w strefie pokazu lotniczego do wysokości względnej nie mniejszej niż 150 m (500 ft), jednak kąt zniżania nie może być większy niż przewidziany w normalnym podejściu do lądowania dla danego typu statku powietrznego. ” ;
 12)
-po § 46 dodaje się § 46a w brzmieniu:
-„
+po § 46 dodaje się § 46a w brzmieniu: „
 § 46a.
 1.
 Podczas pokazów lotniczych loty mogą wykonywać modele latające oraz bezzałogowe statki powietrzne o maksymalnej masie startowej (MTOM) nie większej niż 25 kg, wyłącznie w operacjach w zasięgu wzroku, zgodnie z przepisami wydanymi na podstawie art. 33 ust. 2 i 4 ustawy.
 2.
-Minimalną odległość linii pokazu lotniczego od strefy dla publiczności dla modeli latających oraz bezzałogowych statków powietrznych określa załącznik nr 5 do rozporządzenia.
-” ;
+Minimalną odległość linii pokazu lotniczego od strefy dla publiczności dla modeli latających oraz bezzałogowych statków powietrznych określa załącznik nr 5 do rozporządzenia. ” ;
 13)
 załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 14)
@@ -235,11 +213,13 @@ Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 
 ## Załącznik nr 1 — – Minimalne odległości linii pokazu lotniczego od strefy dla publiczności
 
-Minimalna odległość linii pokazu lotniczego od strefy dla publiczności* Kategoria lub typ statku powietrznego Element pokazu lotniczego 230 m kategoria I statków powietrznych kategoria II statków powietrznych oraz śmigłowce lot akrobacyjny 150 m kategoria III statków powietrznych wiatrakowce lot akrobacyjny 150 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany lot akrobacyjny 150 m śmigłowce manewrowanie z uwzględnieniem wpływu ziemi 230 m kategoria I statków powietrznych prezentacja w locie 150 m kategoria II statków powietrznych lub kategoria III statków powietrznych prezentacja w locie 100 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany prezentacja w locie 50 m dla statków powietrznych o masie własnej łącznie z paliwem nieprzekraczających 70 kg manewrowanie przy ziemi 50 m spadochrony skok * W przypadku wykonywania lotów grupowych odległość określona w pierwszej kolumnie dotyczy statku powietrznego znajdującego się najbliżej publiczności.
+Minimalna odległość linii pokazu lotniczego od strefy dla publiczności* Kategoria lub typ statku powietrznego Element pokazu lotniczego 230 m kategoria I statków powietrznych kategoria II statków powietrznych oraz śmigłowce lot akrobacyjny 150 m kategoria III statków powietrznych wiatrakowce lot akrobacyjny 150 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany lot akrobacyjny 150 m śmigłowce manewrowanie z uwzględnieniem wpływu ziemi 230 m kategoria I statków powietrznych prezentacja w locie 150 m kategoria II statków powietrznych lub kategoria III statków powietrznych prezentacja w locie 100 m ultralekkie statki powietrzne, szybowce, lotnie, motolotnie, paraplany prezentacja w locie 50 m dla statków powietrznych o masie własnej łącznie z paliwem nieprzekraczających 70 kg manewrowanie przy ziemi 50 m spadochrony skok
+* W przypadku wykonywania lotów grupowych odległość określona w pierwszej kolumnie dotyczy statku powietrznego znajdującego się najbliżej publiczności.
 
 ## Załącznik nr 2 — – Minimalne warunki atmosferyczne dla statków powietrznych biorących udział w pokazie lotniczym
 
-Rodzaj statku powietrznego Rodzaj wykonywanego lotu Minimalne warunki atmosferyczne podstawa chmur (zachmurzenie ≥4/8) widzialność (m) (km) Statki powietrzne o masie własnej łącznie z paliwem nieprzekraczające 70 kg, lotnie, motolotnie, paraplany loty podczas pokazu lotniczego pojedyncze statki 150 2,0 formacje 200 3,0 Śmigłowce, wiatrakowce i inne statki powietrzne o prędkości przeciągnięcia poniżej 95 km/h (50 kt) loty podczas pokazu lotniczego z wyłączeniem lotów akrobacyjnych wykonywanych w pionie pojedyncze statki 200 3,0 formacje 200 3,0 loty akrobacyjne wykonywane w pionie pojedyncze statki 300 3,0 formacje 400 5,0 Inne statki powietrzne loty podczas pokazu lotniczego z wyłączeniem lotów akrobacyjnych wykonywanych w pionie pojedyncze statki 300 3,0 formacje 300 5,0 loty akrobacyjne wykonywane w pionie pojedyncze statki 500 5,0 formacje tłokowe i turbośmigłowe 500 5,0 formacje odrzutowe 1000 8,0 Uwaga: Minimalne warunki atmosferyczne dla statków powietrznych biorących udział w pokazie lotniczym mogą być podwyższone dla poszczególnych statków powietrznych, w zależności od ich charakterystyk, w szczególności ich osiągów lotniczo-technicznych zawartych w instrukcjach eksploatacji tych statków powietrznych.
+Rodzaj statku powietrznego Rodzaj wykonywanego lotu Minimalne warunki atmosferyczne podstawa chmur (zachmurzenie ≥4/8) widzialność (m) (km) Statki powietrzne o masie własnej łącznie z paliwem nieprzekraczające 70 kg, lotnie, motolotnie, paraplany loty podczas pokazu lotniczego pojedyncze statki 150 2,0 formacje 200 3,0 Śmigłowce, wiatrakowce i inne statki powietrzne o prędkości przeciągnięcia poniżej 95 km/h (50 kt) loty podczas pokazu lotniczego z wyłączeniem lotów akrobacyjnych wykonywanych w pionie pojedyncze statki 200 3,0 formacje 200 3,0 loty akrobacyjne wykonywane w pionie pojedyncze statki 300 3,0 formacje 400 5,0 Inne statki powietrzne loty podczas pokazu lotniczego z wyłączeniem lotów akrobacyjnych wykonywanych w pionie pojedyncze statki 300 3,0 formacje 300 5,0 loty akrobacyjne wykonywane w pionie pojedyncze statki 500 5,0 formacje tłokowe i turbośmigłowe 500 5,0 formacje odrzutowe 1000 8,0
+Uwaga: Minimalne warunki atmosferyczne dla statków powietrznych biorących udział w pokazie lotniczym mogą być podwyższone dla poszczególnych statków powietrznych, w zależności od ich charakterystyk, w szczególności ich osiągów lotniczo-technicznych zawartych w instrukcjach eksploatacji tych statków powietrznych.
 
 ## Załącznik nr 3 — – Minimalna odległość linii pokazu lotniczego od strefy dla publiczności dla modeli latających oraz bezzałogowych statków powietrznych
 

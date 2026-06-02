@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 31 grudnia 2018 r. w sprawie zamknięć urzędowych
+# Rozporządzenie Ministra Finansówz dnia 31 grudnia 2018 r. w sprawie zamknięć urzędowych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-31 |
 | Data wydania | 2019-01-02 |
-| Wejście w życie | 2019-01-02 |
 | Ostatnia zmiana | 2024-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy zakres i tryb nakładania i zdejmowania zamknięć urzędowych Rozdział 3 – Rodzaje lub formy zamknięć urzędowych oraz przypadki, w których stosowane są określone rodzaje zamknięć urzędowych Rozdział 4 – Rodzaje podmiotów upoważnionych do nakładania i zdejmowania zamknięć urzędowych i warunki, które te podmioty muszą spełniać Rozdział 5 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 65 ust. 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 65 ust. 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -37,13 +37,14 @@ szczegółowy zakres i tryb nakładania i zdejmowania zamknięć urzędowych;
 rodzaje lub formy zamknięć urzędowych oraz przypadki, w których stosowane są określone rodzaje zamknięć urzędowych;
 3)
 rodzaje podmiotów upoważnionych przez dyrektora izby administracji skarbowej lub naczelnika urzędu celno-skarbowego do nakładania i zdejmowania zamknięć urzędowych i warunki, które te podmioty muszą spełniać.
+Szczegółowy zakres i tryb nakładania i zdejmowania zamknięć urzędowych
 § 2.
 1.
 Zamknięcia urzędowe są nakładane, gdy jest to niezbędne:
 1)
 ze względu na warunki procedury celnej, w celu zapewnienia tożsamości towarów lub ich identyfikacji;
 2)
-wobec towarów objętych procedurą składowania celnego, które są przemieszczane w przypadkach określonych w art. 219 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.), zwanego dalej „unijnym kodeksem celnym”;
+wobec towarów objętych procedurą składowania celnego, które są przemieszczane w przypadkach określonych w art. 219 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 oraz Dz. Urz. UE L 42 z 18.02.2017, str. 43., zwanego dalej „unijnym kodeksem celnym”;
 3)
 wobec towarów czasowo składowanych, które są przemieszczane w przypadkach określonych w art. 148 ust. 5 unijnego kodeksu celnego;
 4)
@@ -90,7 +91,7 @@ W przypadku zdjęcia zamknięć urzędowych przez funkcjonariusza lub pracownika
 1.
 Nałożenie oraz zdjęcie zamknięć urzędowych dokumentuje się w przypadku kontroli celno-skarbowej, w zakresie:
 1)
-przestrzegania przepisów prawa podatkowego w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania znaków akcyzy i oznaczania znakami akcyzy tych wyrobów – w krajowym systemie teleinformatycznym służącym do obsługi przemieszczania wyrobów akcyzowych albo dokumentach mających zastosowanie do przemieszczania wyrobów akcyzowych, o których mowa w przepisach ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.), a także w protokole z czynności kontrolnych, o ile taki protokół został sporządzony, oraz w spisie zamknięć urzędowych prowadzonym przez podmiot podlegający kontroli celno-skarbowej;
+przestrzegania przepisów prawa podatkowego w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania znaków akcyzy i oznaczania znakami akcyzy tych wyrobów – w krajowym systemie teleinformatycznym służącym do obsługi przemieszczania wyrobów akcyzowych albo dokumentach mających zastosowanie do przemieszczania wyrobów akcyzowych, o których mowa w przepisach ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227, 2244, 2354 i 2538.), a także w protokole z czynności kontrolnych, o ile taki protokół został sporządzony, oraz w spisie zamknięć urzędowych prowadzonym przez podmiot podlegający kontroli celno-skarbowej;
 2)
 przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów w obrocie między obszarem celnym Unii Europejskiej a państwami trzecimi, w szczególności przepisów dotyczących towarów objętych ograniczeniami lub zakazami – w dokumencie wymaganym przy obejmowaniu towaru procedurą celną lub powrotnym wywozem;
 3)
@@ -109,13 +110,14 @@ c)
 potwierdzeniu usunięcia zamknięć urzędowych.
 2.
 Spis zamknięć urzędowych, o którym mowa w ust. 1 pkt 1 i 3–5, oraz dokumenty, o których mowa w ust. 1, zawierają informacje o miejscu, dacie, liczbie, rodzaju i cechach identyfikacyjnych nałożonych i zdjętych zamknięć urzędowych oraz podpis funkcjonariusza lub pracownika, który nakładał i zdejmował te zamknięcia, a w przypadku spisu zamknięć urzędowych także podpis osoby odpowiedzialnej za wykonywanie powierzonych jej, przez podmiot podlegający kontroli, obowiązków w zakresie objętym kontrolą celno-skarbową.
+Rodzaje lub formy zamknięć urzędowych oraz przypadki, w których stosowane są określone rodzaje zamknięć urzędowych
 § 10.
 1.
 Stosuje się następujące rodzaje zamknięć urzędowych:
 1)
 plomby ołowiane lub z innych metali bądź ich stopów, o dużej plastyczności, odporne na zwykłe zużycie lub przypadkowe naruszenie, wraz z elementami mocującymi plombę;
 2)
-plomby stosowane jako specjalny rodzaj zamknięć, o których mowa w art. 317 ust. 2 rozporządzenia wykonawczego Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.);
+plomby stosowane jako specjalny rodzaj zamknięć, o których mowa w art. 317 ust. 2 rozporządzenia wykonawczego Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 02.04.2016 str. 35, Dz. Urz. UE L 101 z 13.04.2017, str. 200, Dz. Urz. UE L 149 z 13.06.2017, str. 19, Dz. Urz. UE L 101 z 20.04.2018, str. 22, Dz. Urz. UE L 157 z 20.06.2018, str. 27 oraz Dz. Urz. UE L 317 z 14.12.2018, str. 57.;
 3)
 pieczęcie, stemple oraz inne znaki, których wzory zostały określone w przepisach odrębnych;
 4)
@@ -150,8 +152,7 @@ pkt 2, nakłada się w formie plomby na elemencie mocującym na towarze, urządz
 3)
 pkt 3, nakłada się w formie odciśnięcia pieczęci, stempla lub innego znaku na urządzeniu, naczyniu, pomieszczeniu, środku transportu lub opakowaniu,
 4)
-pkt 4, nakłada się w formie plomby elektronicznej na elemencie mocującym na towarze, urządzeniu, naczyniu, pomieszczeniu, środku transportu lub opakowaniu
-tak, aby po nałożeniu były łatwo dostępne do kontroli celno-skarbowej i rozpoznania oraz aby każda próba ich naruszenia, manipulacji nimi lub ich usunięcia pozostawiała widoczne ślady, a w przypadku zamknięć urzędowych, o których mowa w § 10 ust. 1 pkt 4, wzbudzała alarm i zapisywana była w pamięci plomby elektronicznej.
+pkt 4, nakłada się w formie plomby elektronicznej na elemencie mocującym na towarze, urządzeniu, naczyniu, pomieszczeniu, środku transportu lub opakowaniu – tak, aby po nałożeniu były łatwo dostępne do kontroli celno-skarbowej i rozpoznania oraz aby każda próba ich naruszenia, manipulacji nimi lub ich usunięcia pozostawiała widoczne ślady, a w przypadku zamknięć urzędowych, o których mowa w § 10 ust. 1 pkt 4, wzbudzała alarm i zapisywana była w pamięci plomby elektronicznej.
 2.
 Zamknięcia urzędowe, o których mowa w § 10 ust. 1 pkt 1–3, są nakładane:
 1)
@@ -164,6 +165,7 @@ Zamknięcia urzędowe, o których mowa w § 10 ust. 1 pkt 4, są nakładane bezp
 Zamknięcia urzędowe są opatrzone znakami identyfikacyjnymi określonymi w przepisach odrębnych, uniemożliwiającymi ich sfałszowanie lub podrobienie, a w przypadku zamknięć urzędowych, o których mowa w § 10 ust. 1 pkt 4, dodatkowo umożliwiającymi ich identyfikację w systemie, o którym mowa w ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów.
 § 12.
 Zamknięciami urzędowymi są też inne niż wymienione w § 10 ust. 1 rodzaje zamknięć, nałożone przez właściwe organy, również innych państw.
+Rodzaje podmiotów upoważnionych do nakładania i zdejmowania zamknięć urzędowych i warunki, które te podmioty muszą spełniać
 § 13.
 Dyrektor izby administracji skarbowej może upoważnić podmiot obowiązany do przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów w obrocie między obszarem celnym Unii Europejskiej a państwami trzecimi, w szczególności przepisów dotyczących towarów objętych ograniczeniami lub zakazami, do nakładania lub zdejmowania zamknięć urzędowych, o których mowa w § 10 ust. 1:
 1)
@@ -186,8 +188,7 @@ podmiot używający alkoholu etylowego wyłącznie:
 a)
 jako próbki do analiz, do niezbędnych prób produkcyjnych lub do celów naukowych,
 b)
-do badań naukowych
-pod warunkiem że użycie w ciągu roku nie przekracza ilości 3000 dm3alkoholu etylowego 100% vol. w stanie nieskażonym oraz 20 000 dm3alkoholu etylowego 100% vol. w stanie skażonym – w przypadku przyjęcia przesyłki alkoholu etylowego,
+do badań naukowych – pod warunkiem że użycie w ciągu roku nie przekracza ilości 3000 dm3alkoholu etylowego 100% vol. w stanie nieskażonym oraz 20 000 dm3alkoholu etylowego 100% vol. w stanie skażonym – w przypadku przyjęcia przesyłki alkoholu etylowego,
 3)
 podmiot zużywający alkohol etylowy w ilościach nieprzekraczających w ciągu roku 1000 dm3alkoholu etylowego 100% vol. w stanie nieskażonym lub 3000 dm3alkoholu etylowego 100% vol. w stanie skażonym – w przypadku przyjęcia przesyłki alkoholu etylowego,
 4)
@@ -195,21 +196,30 @@ podmiot, który dokonuje:
 a)
 odbioru lub wysyłki wyrobów akcyzowych bez udziału funkcjonariusza lub pracownika, pod warunkiem posiadania przez taki podmiot zatwierdzonych akt weryfikacyjnych, o których mowa w art. 109 ust. 1 ustawy, oraz spełnienia przez niego warunków do uzyskania zwolnienia z obowiązku składania zabezpieczenia akcyzowego, o których mowa w art. 64 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym,
 b)
-przyjęcia przesyłki alkoholu etylowego, który został skażony w obecności funkcjonariusza lub pracownika
-obowiązane do przestrzegania przepisów prawa podatkowego w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania znaków akcyzy i oznaczania znakami akcyzy tych wyrobów.
+przyjęcia przesyłki alkoholu etylowego, który został skażony w obecności funkcjonariusza lub pracownika – obowiązane do przestrzegania przepisów prawa podatkowego w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania znaków akcyzy i oznaczania znakami akcyzy tych wyrobów.
 3.
 Podmioty, o których mowa w ust. 1 i 2, mogą uzyskać upoważnienie do nakładania i zdejmowania zamknięć urzędowych, pod warunkiem opracowania i wdrożenia procedury ewidencjonowania nałożonych i zdjętych zamknięć urzędowych oraz procedury przekazywania naczelnikowi urzędu celno-skarbowego informacji o nałożeniu lub zdjęciu zamknięć urzędowych, z uwzględnieniem informacji o liczbie, rodzaju i cechach identyfikacyjnych tych zamknięć.
+Przepis końcowy
 § 15.
-Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 oraz Dz. Urz. UE L 42 z 18.02.2017, str. 43. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227, 2244, 2354 i 2538. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 02.04.2016 str. 35, Dz. Urz. UE L 101 z 13.04.2017, str. 200, Dz. Urz. UE L 149 z 13.06.2017, str. 19, Dz. Urz. UE L 101 z 20.04.2018, str. 22, Dz. Urz. UE L 157 z 20.06.2018, str. 27 oraz Dz. Urz. UE L 317 z 14.12.2018, str. 57. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 lutego 2018 r. w sprawie zamknięć urzędowych (Dz. U. poz. 434), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z aaadnia 9 listopada 2018 r. o zmianie aaaustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 lutego 2018 r. w sprawie zamknięć urzędowych (Dz. U. poz. 434), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z aaadnia 9 listopada 2018 r. o zmianie aaaustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 oraz Dz. Urz. UE L 42 z 18.02.2017, str. 43. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227, 2244, 2354 i 2538. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 02.04.2016 str. 35, Dz. Urz. UE L 101 z 13.04.2017, str. 200, Dz. Urz. UE L 149 z 13.06.2017, str. 19, Dz. Urz. UE L 101 z 20.04.2018, str. 22, Dz. Urz. UE L 157 z 20.06.2018, str. 27 oraz Dz. Urz. UE L 317 z 14.12.2018, str. 57. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 lutego 2018 r. w sprawie zamknięć urzędowych (Dz. U. poz. 434), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z aaadnia 9 listopada 2018 r. o zmianie aaaustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy zakres i tryb nakładania i zdejmowania zamknięć urzędowych
+#### Rozdział 2 – Szczegółowy zakres i tryb nakładania i zdejmowania zamknięć urzędowych
 
-#### Rozdział 3 Rodzaje lub formy zamknięć urzędowych oraz przypadki, w których stosowane są określone rodzaje zamknięć urzędowych
+#### Rozdział 3 – Rodzaje lub formy zamknięć urzędowych oraz przypadki, w których stosowane są określone rodzaje zamknięć urzędowych
 
-#### Rozdział 4 Rodzaje podmiotów upoważnionych do nakładania i zdejmowania zamknięć urzędowych i warunki, które te podmioty muszą spełniać
+#### Rozdział 4 – Rodzaje podmiotów upoważnionych do nakładania i zdejmowania zamknięć urzędowych i warunki, które te podmioty muszą spełniać
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

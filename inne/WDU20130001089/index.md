@@ -22,11 +22,32 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-30 |
 | Data wydania | 2013-09-17 |
-| Wejście w życie | 2013-10-01 |
 | Ostatnia zmiana | 2025-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1089/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Uczestnicy przetargów Rozdział 3 – Przetargi obligacji Rozdział 4 – Przetarg sprzedaży Rozdział 5 – Przetarg uzupełniający Rozdział 6 – Rozrachunek przetargu sprzedaży i przetargu uzupełniającego Rozdział 7 – Przetarg zamiany obligacji Rozdział 8 – Przetarg odkupu obligacji Rozdział 9 – Oprocentowanie obligacji Rozdział 10 – Przedterminowy wykup obligacji Rozdział 11 – Wykup obligacji
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Uczestnicy przetargów
+
+#### Rozdział 3 – Przetargi obligacji
+
+#### Rozdział 4 – Przetarg sprzedaży
+
+#### Rozdział 5 – Przetarg uzupełniający
+
+#### Rozdział 6 – Rozrachunek przetargu sprzedaży i przetargu uzupełniającego
+
+#### Rozdział 7 – Przetarg zamiany obligacji
+
+#### Rozdział 8 – Przetarg odkupu obligacji
+
+#### Rozdział 9 – Oprocentowanie obligacji
+
+#### Rozdział 10 – Przedterminowy wykup obligacji
+
+#### Rozdział 11 – Wykup obligacji
 
 ## Załącznik nr 1 — – Sposób obliczenia ceny zakupu obligacji nabytych na przetargu sprzedaży
 
@@ -38,7 +59,8 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Uczestn
 
 Treść rozporządzenia
 Na podstawie art. 97 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885 i 938) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki emitowania obligacji skarbowych oferowanych w sprzedaży hurtowej, zwanych dalej „obligacjami”, w szczególności:
 1)
@@ -115,20 +137,21 @@ Obligacje mogą być nabywane przez osoby fizyczne, osoby prawne lub spółki ni
 Obligacje mogą być przedmiotem obrotu między podmiotami, o których mowa w ust. 1, przy zachowaniu warunków określonych w przepisach regulujących obrót dewizowy, a także obrót instrumentami finansowymi, ofertę publiczną i warunki wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz nadzór nad rynkiem kapitałowym.
 § 7.
 Listy emisyjne i komunikaty są publikowane na stronie internetowej Ministerstwa Finansów lub w innych środkach masowego przekazu o zasięgu ogólnopolskim.
-Rozdział 2 Uczestnicy przetargów
+Rozdział 2
+Uczestnicy przetargów
 § 8.
 1.
 W przetargach mogą brać udział:
 1)
-banki, instytucje kredytowe lub instytucje finansowe, a także ich oddziały, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.), z którymi Minister Finansów zawarł umowę w sprawie pełnienia funkcji Dealera Skarbowych Papierów Wartościowych, przyznającą im prawo do składania ofert na przetargach obligacji określonych w rozporządzeniu,
+banki, instytucje kredytowe lub instytucje finansowe, a także ich oddziały, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777 i 1036.), z którymi Minister Finansów zawarł umowę w sprawie pełnienia funkcji Dealera Skarbowych Papierów Wartościowych, przyznającą im prawo do składania ofert na przetargach obligacji określonych w rozporządzeniu,
 2)
-banki państwowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nieposiadające statusu Dealera Skarbowych Papierów Wartościowych
-zwane dalej „uczestnikami przetargu”.
+banki państwowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nieposiadające statusu Dealera Skarbowych Papierów Wartościowych – zwane dalej „uczestnikami przetargu”.
 2.
 Szczegółowe warunki uczestnictwa w przetargach podmiotów, o których mowa w ust. 1 pkt 2, zostaną określone w umowie zawartej z Ministrem Finansów.
 § 9.
 Uczestnicy przetargu nabywają obligacje we własnym imieniu i na własny rachunek. Obowiązek zapłacenia ceny zakupu obligacji ciąży na uczestniku przetargu.
-Rozdział 3 Przetargi obligacji
+Rozdział 3
+Przetargi obligacji
 § 10.
 1.
 Przetargi obligacji są organizowane przez agenta emisji.
@@ -155,7 +178,8 @@ Nie przydziela się ułamkowych części obligacji.
 Wartość nominalna oferty przedstawionej przez uczestnika przetargu nie może być mniejsza od określonej w komunikacie.
 2.
 Oferty nabycia obligacji złożone niezgodnie z warunkiem określonym w ust. 1 lub błędne pod względem rachunkowym, a także złożone po upływie terminu określonego w komunikacie zostają odrzucone.
-Rozdział 4 Przetarg sprzedaży
+Rozdział 4
+Przetarg sprzedaży
 § 14.
 Obligacje są oferowane na przetargach, w terminach określonych w liście emisyjnym.
 § 15.
@@ -255,7 +279,8 @@ najwyższą przyjętą cenę czystą i odpowiadającą jej rentowność, z dokł
 stopę redukcji ofert zawierających minimalną cenę sprzedaży, z dokładnością do dwóch miejsc po przecinku, z wyszczególnieniem ofert niekonkurencyjnych, jeżeli dopuszczono ich składanie.
 2.
 W przypadku sprzedaży obligacji na przetargu jednej ceny komunikat, o którym mowa w ust. 1, nie zawiera danych, o których mowa w ust. 1 pkt 9 i 10.
-Rozdział 5 Przetarg uzupełniający
+Rozdział 5
+Przetarg uzupełniający
 § 21.
 1.
 Minister Finansów może oferować obligacje na przetargu uzupełniającym.
@@ -333,7 +358,8 @@ wartość nominalną obligacji oferowanych do sprzedaży;
 wartość nominalną obligacji, na które otrzymano ofertę zakupu;
 7)
 wartość nominalną obligacji, których oferty zakupu przyjęto.
-Rozdział 6 Rozrachunek przetargu sprzedaży i przetargu uzupełniającego
+Rozdział 6
+Rozrachunek przetargu sprzedaży i przetargu uzupełniającego
 § 29.
 1.
 Sposób obliczenia ceny zakupu obligacji nabytych na przetargu sprzedaży określa załącznik nr 1 do rozporządzenia.
@@ -358,7 +384,8 @@ Wysokość odstępnego, o którym mowa w ust. 4, obliczona będzie jako iloczyn 
 Odstępne jest pobierane z rachunku, o którym mowa w § 25 ust. 1 pkt 4, w następnym dniu roboczym po dniu, o którym mowa w ust. 4.
 § 31.
 W przypadku przetargu uzupełniającego przepisy § 29 i 30 stosuje się odpowiednio.
-Rozdział 7 Przetarg zamiany obligacji
+Rozdział 7
+Przetarg zamiany obligacji
 § 32.
 Minister Finansów może oferować na przetargach obligacje w drodze sprzedaży w zamian za odkupione od posiadaczy obligacje, których termin wykupu jeszcze nie upłynął, poprzez zaliczenie wierzytelności posiadaczom tych obligacji z tytułu odkupu na poczet ceny nabywanych przez nich obligacji kolejnych emisji (przetargi zamiany).
 § 33.
@@ -505,7 +532,8 @@ w przypadku przetargu jednej ceny – po cenie wynikającej z iloczynu liczby na
 Przepisy § 29 ust. 2–4 i § 30 stosuje się odpowiednio.
 § 44.
 Po upływie terminu, o którym mowa w § 41 ust. 1 pkt 15, Minister Finansów ogłasza komunikat o liczbie obligacji nabytych w drodze zakupu gotówkowego.
-Rozdział 8 Przetarg odkupu obligacji
+Rozdział 8
+Przetarg odkupu obligacji
 § 45.
 1.
 Minister Finansów może odkupować obligacje przed upływem terminu, na jaki zostały wyemitowane.
@@ -593,7 +621,8 @@ W przypadku przetargu odkupu przepisy § 39 ust. 3–9 oraz § 40 stosuje się o
 Zapłata ceny odkupu przez Ministra Finansów następuje za pośrednictwem Krajowego Depozytu i jest dokonywana z wykorzystaniem rachunków bieżących banków prowadzonych przez Narodowy Bank Polski. Rozrachunki przetargu odkupu odbywają się w trybie i na zasadach określonych w umowie pomiędzy Ministrem Finansów a Krajowym Depozytem.
 2.
 Uznanie rachunków, o których mowa w ust. 1, oraz obciążenie rachunku budżetu państwa odbywa się za pośrednictwem Krajowego Depozytu.
-Rozdział 9 Oprocentowanie obligacji
+Rozdział 9
+Oprocentowanie obligacji
 § 54.
 1.
 Obligacje są oprocentowane według stopy procentowej, której wysokość lub sposób obliczenia określa list emisyjny.
@@ -607,7 +636,8 @@ Narosłe odsetki naliczane są zgodnie z wzorem określonym w załączniku nr 4 
 W przypadku obligacji o zmiennej stopie procentowej Minister Finansów ogłasza, w drodze komunikatu, wysokość stopy procentowej oraz wartość należnych odsetek od jednej obligacji w kolejnych okresach odsetkowych.
 § 56.
 Odsetki od obligacji są naliczane od wartości nominalnej obligacji w sposób określony w załączniku nr 4 do rozporządzenia, w okresach odsetkowych określonych w liście emisyjnym.
-Rozdział 10 Przedterminowy wykup obligacji
+Rozdział 10
+Przedterminowy wykup obligacji
 § 57.
 1.
 Minister Finansów zastrzega sobie prawo do wezwania posiadaczy wybranych serii obligacji o określonym terminie wykupu do bezwarunkowego przedstawienia ich do przedterminowego wykupu. W takim przypadku obligacje nie podlegają oprocentowaniu od następnego dnia po przedterminowym wykupie.
@@ -624,7 +654,8 @@ Szczegółowe warunki przedterminowego wykupu, w tym wartość nominalną obliga
 Uczestnicy przetargu składają u agenta emisji dyspozycje przedterminowego wykupu obligacji w imieniu własnym.
 4.
 W przypadku gdy łączna wartość obligacji przedstawionych do przedterminowego wykupu przekracza wartość nominalną obligacji, o której mowa w ust. 2, Minister Finansów ma prawo dokonać redukcji zleceń wynikających z dyspozycji przedstawienia do przedterminowego wykupu. Stopa redukcji jest ogłaszana w odpowiednim komunikacie.
-Rozdział 11 Wykup obligacji
+Rozdział 11
+Wykup obligacji
 § 59.
 1.
 Wykup obligacji następuje według ich wartości nominalnej, w dniu określonym w liście emisyjnym.
@@ -662,7 +693,7 @@ Do sprzedaży, odkupu i zamiany obligacji, które zostaną wyemitowane na podsta
 § 64.
 Traci moc rozporządzenie Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie warunków emitowania obligacji skarbowych oferowanych w sprzedaży hurtowej (Dz. U. Nr 250, poz. 1680).
 § 65.
-Rozporządzenie wchodzi w życie z dniem 1 października 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 października 2013 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777 i 1036.
 
 ## Załącznik nr 1 — – Sposób obliczenia ceny zakupu obligacji nabytych na przetargu sprzedaży
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 13 grudnia 2022 r. zmieniające rozporządzenie w sprawie przyznawania, przekazywania i rozliczania dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 13 grudnia 2022 r. zmieniające rozporządzenie w sprawie przyznawania, przekazywania i rozliczania dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-13 |
 | Data wydania | 2022-12-16 |
-| Wejście w życie | 2022-12-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2650/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 75b ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2022 r. poz. 2082 i 2089) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Edukacji i Nauki z dnia 22 lipca 2022 r. w sprawie przyznawania, przekazywania i rozliczania dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji (Dz. U. poz. 1540 i 1739) po § 19 dodaje się § 19a w brzmieniu:
-„
+W rozporządzeniu Ministra Edukacji i Nauki z dnia 22 lipca 2022 r. w sprawie przyznawania, przekazywania i rozliczania dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji (Dz. U. poz. 1540 i 1739) po § 19 dodaje się § 19a w brzmieniu: „
 § 19a.
-W 2023 r. wniosek o przyznanie dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji inwestycji, o której mowa w art. 75a pkt 2 i 3 ustawy, lub remontu składa się w terminie od dnia 1 kwietnia do dnia 30 kwietnia.
-” .
+W 2023 r. wniosek o przyznanie dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji inwestycji, o której mowa w art. 75a pkt 2 i 3 ustawy, lub remontu składa się w terminie od dnia 1 kwietnia do dnia 30 kwietnia. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
 

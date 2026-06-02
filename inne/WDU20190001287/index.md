@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw
+# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych oraz ustawę z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-07-11 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1287/text.pdf) |
 
@@ -170,8 +169,11 @@ source: "eli-html"
 
 4. W przypadku, o którym mowa w ust. 3, organ sprawujący nadzór pedagogiczny wyznacza dyrektora szkoły, który wykonuje czynności związane z odbywaniem stażu przez nauczyciela, w tym powołuje opiekuna stażu, dokonuje oceny dorobku zawodowego nauczyciela oraz wskazuje nauczycielowi właściwego dyrektora szkoły lub właściwy organ do złożenia wniosku o podjęcie odpowiednio postępowania kwalifikacyjnego lub egzaminacyjnego. ” ;
 
-- **11)** w art. 30: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) dodatków: za wysługę lat, motywacyjnego, funkcyjnego, w tym z tytułu sprawowania funkcji wychowawcy klasy, oraz za warunki pracy, ” , – pkt 4 otrzymuje brzmienie: „ 4) nagród i innych świadczeń wynikających ze stosunku pracy, z wyłączeniem świadczeń z zakładowego funduszu świadczeń socjalnych, świadczenia, o którym mowa w art. 53a, i dodatku, o którym mowa w art. 54 ust. 5. ” , w ust. 6 pkt 1 otrzymuje brzmienie: „
+- **11)** w art. 30: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** dodatków: za wysługę lat, motywacyjnego, funkcyjnego, w tym z tytułu sprawowania funkcji wychowawcy klasy, oraz za warunki pracy, ” , pkt 4 otrzymuje brzmienie: „
+- **4)** nagród i innych świadczeń wynikających ze stosunku pracy, z wyłączeniem świadczeń z zakładowego funduszu świadczeń socjalnych, świadczenia, o którym mowa w art. 53a, i dodatku, o którym mowa w art. 54 ust. 5. ” , w ust. 6 pkt 1 otrzymuje brzmienie: „
     - **b)**
 
 - **1)** wysokość stawek dodatków, o których mowa w ust. 1 pkt 2, oraz szczegółowe warunki przyznawania tych dodatków, z zastrzeżeniem art. 33–34a, ” , ust. 8 i 8a otrzymują brzmienie: „
@@ -264,8 +266,10 @@ source: "eli-html"
     - **b)**
     - **j)**
 
-- **2)** w art. 50: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Na podstawie danych zgromadzonych w bazie danych SIO zawartych w zbiorach danych szkół i placówek oświatowych, zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty, zbiorach danych uczniów oraz zbiorach danych nauczycieli, według stanu na dzień 30 września, a w przypadku kolegiów pracowników służb społecznych według stanu na dzień 10 października, są sporządzane: ” , – pkt 2 otrzymuje brzmienie: „ 2) zestawienia zawierające dane dotyczące liczby uczniów i liczby etatów nauczycieli w szkołach i placówkach oświatowych prowadzonych przez ministrów. ” , ust. 2 i 3 otrzymują brzmienie: „
+- **2)** w art. 50: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Na podstawie danych zgromadzonych w bazie danych SIO zawartych w zbiorach danych szkół i placówek oświatowych, zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty, zbiorach danych uczniów oraz zbiorach danych nauczycieli, według stanu na dzień 30 września, a w przypadku kolegiów pracowników służb społecznych według stanu na dzień 10 października, są sporządzane: ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** zestawienia zawierające dane dotyczące liczby uczniów i liczby etatów nauczycieli w szkołach i placówkach oświatowych prowadzonych przez ministrów. ” , ust. 2 i 3 otrzymują brzmienie: „
     - **b)**
 
 2. Zestawienia, o których mowa w ust. 1 pkt 1, są udostępniane w bazie danych SIO jednostkom samorządu terytorialnego nie później niż do dnia 15 grudnia, a jeżeli dzień ten wypada w dniu ustawowo wolnym od pracy, w najbliższym dniu roboczym.
@@ -319,8 +323,21 @@ source: "eli-html"
 
 4. Minister właściwy do spraw oświaty i wychowania w decyzji, o której mowa w ust. 1, określa niezbędne warunki funkcjonowania szkoły, uwzględniając w szczególności założenia i sposób realizacji eksperymentu, wskazane we wniosku, a także możliwość wydawania świadectw, zaświadczeń i innych druków zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy o systemie oświaty. W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego decyzja obejmuje również przypisanie do kwalifikacji wyodrębnionych w tym zawodzie oraz do zawodu poziomu Polskiej Ramy Kwalifikacji. Dokonując przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych w zawodzie oraz zawodu, stosuje się przepisy art. 21 ust. 1–3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji. ” ;
 
-- **2)** w art. 6: w pkt 10: – w art. 9j ust. 2 otrzymuje brzmienie: „ 2. Warunkiem nadania nauczycielowi szkoły za granicą stopnia awansu zawodowego jest posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, odbycie stażu nauczyciela za granicą zakończonego pozytywną oceną realizacji planu rozwoju zawodowego nauczyciela, o której mowa w art. 9q ust. 2, oraz: 1) w przypadku nauczyciela stażysty – uzyskanie akceptacji komisji kwalifikacyjnej po przeprowadzonej rozmowie; 2) w przypadku nauczyciela kontraktowego – zdanie egzaminu przed komisją egzaminacyjną; 3) w przypadku nauczyciela mianowanego – uzyskanie akceptacji komisji kwalifikacyjnej po dokonaniu analizy dorobku zawodowego nauczyciela i przeprowadzonej rozmowie. ” , – w art. 9m w ust. 1 pkt 1 otrzymuje brzmienie: „ 1) nauczyciela kontraktowego – 9 miesięcy; ” , – w art. 9n ust. 1 otrzymuje brzmienie: „ 1. Nauczyciel kontraktowy może rozpocząć staż na stopień nauczyciela mianowanego po upływie co najmniej 2 lat prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela kontraktowego, a nauczyciel mianowany może rozpocząć staż na stopień nauczyciela dyplomowanego po upływie co najmniej roku prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela mianowanego. ” , – w art. 9p ust. 5 otrzymuje brzmienie: „ 5. Nauczycielowi szkoły w Rzeczypospolitej Polskiej, który rozpoczął prowadzenie zajęć w szkole za granicą, szkole polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkole lub zespole szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, albo szkole europejskiej, do stażu zalicza się okres dotychczas odbytego stażu, jeżeli otrzymał pozytywną ocenę dorobku zawodowego za okres odbytego stażu oraz podjął zatrudnienie lub rozpoczął prowadzenie zajęć nie później niż w okresie 12 miesięcy od dnia ustania zatrudnienia w szkole w Rzeczypospolitej Polskiej. ” , – w art. 9r w ust. 1 pkt 1 otrzymuje brzmienie: „ 1) na stopień nauczyciela kontraktowego lub nauczyciela mianowanego, składa wniosek o podjęcie odpowiednio postępowania kwalifikacyjnego lub egzaminacyjnego w roku uzyskania pozytywnej oceny realizacji planu rozwoju zawodowego; ” , – w art. 9s w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Minister właściwy do spraw oświaty i wychowania powołuje komisję kwalifikacyjną dla nauczycieli ubiegających się o awans na stopień nauczyciela kontraktowego albo nauczyciela dyplomowanego oraz komisję egzaminacyjną na stopień nauczyciela mianowanego. ” , uchyla się pkt 13;
+- **2)** w art. 6: w pkt 10: w art. 9j ust. 2 otrzymuje brzmienie: „
     - **a)**
+
+2. Warunkiem nadania nauczycielowi szkoły za granicą stopnia awansu zawodowego jest posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, odbycie stażu nauczyciela za granicą zakończonego pozytywną oceną realizacji planu rozwoju zawodowego nauczyciela, o której mowa w art. 9q ust. 2, oraz:
+
+- **1)** w przypadku nauczyciela stażysty – uzyskanie akceptacji komisji kwalifikacyjnej po przeprowadzonej rozmowie;
+- **2)** w przypadku nauczyciela kontraktowego – zdanie egzaminu przed komisją egzaminacyjną;
+- **3)** w przypadku nauczyciela mianowanego – uzyskanie akceptacji komisji kwalifikacyjnej po dokonaniu analizy dorobku zawodowego nauczyciela i przeprowadzonej rozmowie. ” , w art. 9m w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** nauczyciela kontraktowego – 9 miesięcy; ” , w art. 9n ust. 1 otrzymuje brzmienie: „
+
+1. Nauczyciel kontraktowy może rozpocząć staż na stopień nauczyciela mianowanego po upływie co najmniej 2 lat prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela kontraktowego, a nauczyciel mianowany może rozpocząć staż na stopień nauczyciela dyplomowanego po upływie co najmniej roku prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela mianowanego. ” , w art. 9p ust. 5 otrzymuje brzmienie: „
+
+5. Nauczycielowi szkoły w Rzeczypospolitej Polskiej, który rozpoczął prowadzenie zajęć w szkole za granicą, szkole polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkole lub zespole szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, albo szkole europejskiej, do stażu zalicza się okres dotychczas odbytego stażu, jeżeli otrzymał pozytywną ocenę dorobku zawodowego za okres odbytego stażu oraz podjął zatrudnienie lub rozpoczął prowadzenie zajęć nie później niż w okresie 12 miesięcy od dnia ustania zatrudnienia w szkole w Rzeczypospolitej Polskiej. ” , w art. 9r w ust. 1 pkt 1 otrzymuje brzmienie: „
+
+- **1)** na stopień nauczyciela kontraktowego lub nauczyciela mianowanego, składa wniosek o podjęcie odpowiednio postępowania kwalifikacyjnego lub egzaminacyjnego w roku uzyskania pozytywnej oceny realizacji planu rozwoju zawodowego; ” , – w art. 9s w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Minister właściwy do spraw oświaty i wychowania powołuje komisję kwalifikacyjną dla nauczycieli ubiegających się o awans na stopień nauczyciela kontraktowego albo nauczyciela dyplomowanego oraz komisję egzaminacyjną na stopień nauczyciela mianowanego. ” , uchyla się pkt 13;
     - **b)**
 
 - **3)** w art. 30: w pkt 3 lit. a otrzymuje brzmienie: „ ust. 3 otrzymuje brzmienie: „
@@ -349,7 +366,7 @@ source: "eli-html"
     - **c)**
     - **f)**
 
-- **5a)** dyplom zawodowy: po ukończeniu technikum albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, albo po ukończeniu branżowej szkoły II stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. c ustawy z dnia 7 września 1991 r. o systemie oświaty oraz po zdaniu egzaminów zawodowych w danym zawodzie – potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;”, ” , ” , lit. h otrzymuje brzmienie: „ po pkt 7 dodaje się pkt 7a w brzmieniu: „
+- **5a)** dyplom zawodowy: po ukończeniu technikum albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, albo po ukończeniu branżowej szkoły II stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. c ustawy z dnia 7 września 1991 r. o systemie oświaty – oraz po zdaniu egzaminów zawodowych w danym zawodzie – potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;”, ” , ” , lit. h otrzymuje brzmienie: „ po pkt 7 dodaje się pkt 7a w brzmieniu: „
     - **a)**
     - **b)**
     - **d)**
@@ -402,6 +419,6 @@ source: "eli-html"
 
 - **1)** art. 5 oraz art. 7 pkt 8, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 7 pkt 5 i art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-- **3)** art. 7 pkt 2 lit. a, który wchodzi w życie z dniem 1 stycznia 2021 r.
+- **3)** art. 7 pkt 2 lit. a, który wchodzi w życie z dniem 1 stycznia 2021 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych oraz ustawę z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw.
 
 

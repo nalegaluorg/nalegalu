@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 17 listopada 2024 r. w sprawie uznawania i metod wyceny oraz ujawniania i prezentacji instrumentów finansowych
+# Rozporządzenie Ministra Finansówz dnia 17 listopada 2024 r. w sprawie uznawania i metod wyceny oraz ujawniania i prezentacji instrumentów finansowych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-17 |
 | Data wydania | 2024-11-28 |
-| Wejście w życie | 2024-12-13 |
 | Ostatnia zmiana | 2024-11-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001750) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1750/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady uznawania instrumentów finansowych Rozdział 3 – Metody wyceny instrumentów finansowych Rozdział 4 – Metody wyceny pozycji zabezpieczanych i zabezpieczających Rozdział 5 – Prezentacja instrumentów finansowych i ujawnianie informacji Rozdział 6 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 81 ust. 2 pkt 4 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619 i 1685) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe zasady uznawania, metody wyceny, zakres ujawniania i sposób prezentacji instrumentów finansowych, z wyłączeniem:
@@ -115,7 +115,7 @@ standaryzowana transakcja kupna albo sprzedaży – kupno lub sprzedaż składni
 20)
 tytuły uczestnictwa w instytucjach wspólnego inwestowania lub certyfikaty inwestycyjne funduszy inwestycyjnych – tytuły uczestnictwa w instytucjach wspólnego inwestowania w rozumieniu art. 3 pkt 3 ustawy o obrocie instrumentami finansowymi oraz certyfikaty inwestycyjne funduszy inwestycyjnych wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego;
 21)
-umowa krótkiej sprzedaży – umowę dotyczącą krótkiej sprzedaży, o której mowa w art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1, z późn. zm.);
+umowa krótkiej sprzedaży – umowę dotyczącą krótkiej sprzedaży, o której mowa w art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 6 z 11.01.2022, str. 9, Dz. Urz. UE L 2869/2023 z 20.12.2023 oraz Dz. Urz. UE L 2845/2023 z 27.12.2023.;
 22)
 umowa odkupu – umowę, z której wynika zobowiązanie do wymiany z inną jednostką aktywów finansowych w zamian za środki pieniężne lub zapłatę w innej formie oraz jednoczesne zobowiązanie do odkupienia tych aktywów finansowych w przyszłym terminie za kwotę stanowiącą równowartość otrzymanych środków pieniężnych lub zapłaty w innej formie, powiększoną o odsetki;
 23)
@@ -130,6 +130,7 @@ zabezpieczanie – wybór jednego lub więcej instrumentów zabezpieczających, 
 zasoby niefinansowe – aktywa niebędące aktywami finansowymi, usługi, a także dostarczaną na bieżąco energię elektryczną, energię cieplną, gaz lub tożsame im zasoby;
 28)
 złożony instrument finansowy – kontrakt składający się z instrumentu kapitałowego oraz zobowiązania finansowego lub zobowiązania o innym charakterze.
+Zasady uznawania instrumentów finansowych
 § 3.
 1.
 Instrumenty pochodne oraz wynikające z instrumentów finansowych aktywa finansowe oraz zobowiązania finansowe wprowadza się do ksiąg rachunkowych na dzień zawarcia kontraktu, bez względu na przewidziany w umowie termin rozliczenia transakcji.
@@ -337,6 +338,7 @@ Zobowiązanie finansowe uznaje się za spełnione również wtedy, gdy do obowi�
 Na dzień, od którego obowiązują zmiany w umowie, o których mowa w ust. 5, dotychczasowe zobowiązanie finansowe zostaje wyłączone z ksiąg rachunkowych, a nowe zobowiązanie finansowe do nich wprowadzone.
 7.
 Jednostka dokonująca zmiany umowy spełniającej kryteria, o których mowa w ust. 5, stosuje zasady określone w § 22 w zakresie wyceny nowo wprowadzonego zobowiązania finansowego.
+Metody wyceny instrumentów finansowych
 § 12.
 1.
 Aktywa finansowe wprowadza się do ksiąg rachunkowych na dzień zawarcia kontraktu w wartości godziwej ponoszonych wydatków lub przekazywanych w zamian innych składników majątkowych, zaś zobowiązania finansowe – w wartości godziwej uzyskanej kwoty lub wartości otrzymanych innych składników majątkowych; przepisy § 21–24 i § 37 ust. 4 stosuje się odpowiednio. Poniesione przez jednostkę koszty transakcji podwyższają wartość wprowadzanych do ksiąg rachunkowych aktywów finansowych, zaś w przypadku zobowiązań finansowych koszty transakcji pomniejszają wartość zobowiązań, które można bezpośrednio przypisać do nabycia lub emisji tych aktywów finansowych lub zobowiązań finansowych.
@@ -426,7 +428,7 @@ Jeżeli w wyniku skorygowania wartości bilansowej zmodyfikowanych aktywów fina
 4.
 Jeżeli zmiany oczekiwanych przepływów pieniężnych wynikają ze zmian w stopach referencyjnych lub wskaźniku inflacji, jednostka przelicza efektywną stopę procentową.
 5.
-Przepis ust. 4 w zakresie stóp referencyjnych stosuje się odpowiednio do modyfikacji umów, gdy zmiana wskaźnika stóp referencyjnych wynika z reformy stóp referencyjnych, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszu inwestycyjnego i zmieniającym dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm.).
+Przepis ust. 4 w zakresie stóp referencyjnych stosuje się odpowiednio do modyfikacji umów, gdy zmiana wskaźnika stóp referencyjnych wynika z reformy stóp referencyjnych, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszu inwestycyjnego i zmieniającym dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023..
 § 19.
 W przypadku aktywów finansowych i zobowiązań finansowych wycenianych w skorygowanej cenie nabycia, które uruchamiane są w częściach, jednostka może ustalać skorygowaną cenę nabycia i efektywną stopę procentową dla każdej części oddzielnie, jeżeli możliwe jest jednoznaczne zidentyfikowanie przepływów pieniężnych powiązanych z poszczególnymi częściami. Jednostka rozlicza koszty transakcji związane z pozyskaniem składnika aktywów lub zaciągnięciem finansowania na poszczególne części proporcjonalnie do ich przewidywanej wartości początkowej. W przypadku zmiany założeń co do uruchomienia przyszłych części finansowania, przypisane do nich koszty transakcji ujmowane są w kosztach finansowych i odpowiednio przychodach finansowych niezwłocznie w proporcji przypadającej na części finansowania, które nie zostaną uruchomione.
 § 20.
@@ -456,8 +458,7 @@ Jeżeli w związku z rozliczeniem instrumentu pochodnego nie można ustalić war
 1)
 aktywa finansowe – w wartości równej wartości godziwej wyłączonych z ksiąg rachunkowych lub przekazanych aktywów finansowych, skorygowanej o wartość godziwą wyłączonych z ksiąg zobowiązań finansowych,
 2)
-zobowiązania finansowe – w wartości równej wartości godziwej wyłączonych z ksiąg zobowiązań finansowych, skorygowanej o wartość godziwą wyłączonych z ksiąg lub przekazanych aktywów finansowych
-− jeżeli jest nie niższa niż zero.
+zobowiązania finansowe – w wartości równej wartości godziwej wyłączonych z ksiąg zobowiązań finansowych, skorygowanej o wartość godziwą wyłączonych z ksiąg lub przekazanych aktywów finansowych − jeżeli jest nie niższa niż zero.
 7.
 Jeżeli w związku z rozliczeniem instrumentu pochodnego w zamian za nowo powstałe aktywa finansowe lub zobowiązania finansowe jednostka wyłącza z ksiąg rachunkowych tylko część składnika aktywów finansowych lub zobowiązania finansowego, zasady określone w ust. 1–6 stosuje się odpowiednio.
 § 22.
@@ -586,6 +587,7 @@ Przepis ust. 2 stosuje się odpowiednio do innych pożytków uzyskiwanych z udzi
 Odpisy aktualizujące należności z tytułu dywidendy zalicza się do kosztów finansowych.
 5.
 Do zaliczki na poczet dywidendy stosuje się odpowiednio przepisy ust. 1–4.
+Metody wyceny pozycji zabezpieczanych i zabezpieczających
 § 31.
 1.
 Jednostka może stosować przepisy niniejszego rozdziału do wszystkich lub wybranych pozycji zabezpieczanych i instrumentów zabezpieczających tworzących zabezpieczenie. Informacja o stosowaniu przepisów niniejszego rozdziału powinna się znaleźć w dokumentacji, o której mowa w art. 10 ust. 1 ustawy.
@@ -679,8 +681,7 @@ Ustalone od dnia rozpoczęcia zabezpieczania i wykazane w księgach rachunkowych
 1)
 od dnia, w którym nastąpiło przeszacowanie wartości godziwej zabezpieczanego instrumentu wynikające z zabezpieczenia ryzyka lub
 2)
-od dnia, w którym jednostka zaprzestaje tego przeszacowywania
-do terminu wymagalności i zalicza się odpowiednio do przychodów lub kosztów finansowych okresu sprawozdawczego.
+od dnia, w którym jednostka zaprzestaje tego przeszacowywania – do terminu wymagalności i zalicza się odpowiednio do przychodów lub kosztów finansowych okresu sprawozdawczego.
 4.
 Skutki przeszacowania, o których mowa w ust. 3, rozlicza się za pomocą efektywnej stopy procentowej przeliczonej na dzień rozpoczęcia rozliczenia. Jeżeli rozliczenie skutków przeszacowania z wykorzystaniem efektywnej stopy procentowej nie jest możliwe, skutki przeszacowania rozlicza się liniowo.
 5.
@@ -730,6 +731,7 @@ różnice kursowe, ujemne i dodatnie, powstałe na dzień wyceny zabezpieczanych
 zyski lub straty z wyceny wartości godziwej instrumentu zabezpieczającego lub z wyceny składnika walutowego instrumentu zabezpieczającego niebędącego instrumentem pochodnym, w części uznanej zgodnie z § 32 ust. 4 za skuteczne zabezpieczenie ryzyka zmiany kursu walut związanego z zabezpieczaną pozycją, odnosi się na kapitał (fundusz) z aktualizacji wyceny i rozlicza na dzień wyłączenia z ksiąg rachunkowych całości lub części zabezpieczanych udziałów, jako korektę wartości wydawanych aktywów; bezwzględna wartość kwoty odniesionej na kapitał nie może być jednak wyższa od bezwzględnych wartości skumulowanych od dnia rozpoczęcia zabezpieczania różnic kursowych z wyceny zabezpieczanych udziałów;
 3)
 pozostałą część skutków przeszacowania instrumentu zabezpieczającego, obejmującą kwotę niestanowiącą skutecznego zabezpieczenia, jeżeli instrumentem zabezpieczającym jest pochodny instrument finansowy, zalicza się do przychodów lub kosztów finansowych okresu sprawozdawczego; w innym przypadku pozostałą część skutków przeszacowania instrumentu zabezpieczającego wykazuje się w sposób określony w art. 35 ust. 3 i 4 ustawy.
+Prezentacja instrumentów finansowych i ujawnianie informacji
 § 39.
 Jednostka sporządzająca sprawozdanie finansowe, o którym mowa w art. 45 ust. 1 ustawy, prezentuje w bilansie instrumenty finansowe w podziale na długoterminowe i krótkoterminowe.
 § 40.
@@ -899,6 +901,7 @@ kwoty odpisów zwiększających i zmniejszających kapitał (fundusz) z aktualiz
 kwoty odpisane z kapitału (funduszu) z aktualizacji wyceny i zaliczone do przychodów lub kosztów okresu sprawozdawczego;
 3)
 kwoty odpisane z kapitału (funduszu) z aktualizacji wyceny i dodane do ceny nabycia lub inaczej ustalonej wartości początkowej na dzień wprowadzenia do ksiąg rachunkowych składnika aktywów lub zobowiązań, który do tego dnia był objęty planowaną transakcją lub stanowił uprawdopodobnione przyszłe zobowiązanie poddane zabezpieczeniu.
+Przepisy przejściowe i końcowe
 § 47.
 1.
 Przepisy rozporządzenia:
@@ -915,18 +918,29 @@ Przepisy rozporządzenia stosuje się do transakcji lub innych zdarzeń, które 
 § 48.
 Traci moc rozporządzenie Ministra Finansów z dnia 12 grudnia 2001 r. w sprawie szczegółowych zasad uznawania, metod wyceny, zakresu ujawniania i sposobu prezentacji instrumentów finansowych (Dz. U. z 2017 r. poz. 277).
 § 49.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 6 z 11.01.2022, str. 9, Dz. Urz. UE L 2869/2023 z 20.12.2023 oraz Dz. Urz. UE L 2845/2023 z 27.12.2023. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 6 z 11.01.2022, str. 9, Dz. Urz. UE L 2869/2023 z 20.12.2023 oraz Dz. Urz. UE L 2845/2023 z 27.12.2023. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 2023/2869 z 20.12.2023.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zasady uznawania instrumentów finansowych
+#### Rozdział 2 – Zasady uznawania instrumentów finansowych
 
-#### Rozdział 3 Metody wyceny instrumentów finansowych
+#### Rozdział 3 – Metody wyceny instrumentów finansowych
 
-#### Rozdział 4 Metody wyceny pozycji zabezpieczanych i zabezpieczających
+#### Rozdział 4 – Metody wyceny pozycji zabezpieczanych i zabezpieczających
 
-#### Rozdział 5 Prezentacja instrumentów finansowych i ujawnianie informacji
+#### Rozdział 5 – Prezentacja instrumentów finansowych i ujawnianie informacji
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

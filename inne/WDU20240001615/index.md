@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw
+# Ustawa z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 23 października 2018 r. o Funduszu Solidarnościowym oraz ustawę z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-27 |
 | Data wydania | 2024-11-04 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-11-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001615) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1615/text.pdf) |
 
@@ -160,11 +159,11 @@ source: "eli-html"
 
 **Art. 16.** W postępowaniu w sprawach o rentę socjalną oraz dodatek dopełniający stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że niniejsza ustawa stanowi inaczej. ” .
 
-**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm.) w art. 1a po pkt 10a dodaje się pkt 10b w brzmieniu: „
+**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 2760 oraz z 2024 r. poz. 858, 859, 1222, 1473 i 1572.) w art. 1a po pkt 10a dodaje się pkt 10b w brzmieniu: „
 
 - **10b)** rencie socjalnej – rozumie się przez to rentę socjalną lub rentę socjalną z dodatkiem dopełniającym; ” .
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.) w art. 34:
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585 i 1593.) w art. 34:
 
 - **1)** w ust. 1 po wyrazach „rent socjalnych” dodaje się wyrazy „, dodatków dopełniających”;
 - **2)** w ust. 7 we wprowadzeniu do wyliczenia po wyrazach „rent socjalnych,” dodaje się wyrazy „dodatków dopełniających,”;
@@ -210,6 +209,6 @@ source: "eli-html"
 
 3. W przypadku osoby, o której mowa w art. 10 ust. 3, wypłata dodatku dopełniającego, o którym mowa w art. 6a ustawy zmienianej w art. 1, nastąpi nie wcześniej niż w terminie płatności określonym w ust. 1, z wyrównaniem od miesiąca złożenia wniosku.
 
-4. W przypadku wypłaty dodatku dopełniającego, o którym mowa w art. 6a ustawy zmienianej w art. 1, z wyrównaniem osobie, której za okres wyrównania wypłacono świadczenie uzupełniające, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 256, 859 i 1246), dodatek dopełniający wypłaca się po potrąceniu kwoty wypłaconego świadczenia uzupełniającego. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r.
+4. W przypadku wypłaty dodatku dopełniającego, o którym mowa w art. 6a ustawy zmienianej w art. 1, z wyrównaniem osobie, której za okres wyrównania wypłacono świadczenie uzupełniające, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 256, 859 i 1246), dodatek dopełniający wypłaca się po potrąceniu kwoty wypłaconego świadczenia uzupełniającego. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 23 października 2018 r. o Funduszu Solidarnościowym oraz ustawę z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 2760 oraz z 2024 r. poz. 858, 859, 1222, 1473 i 1572. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585 i 1593.
 
 

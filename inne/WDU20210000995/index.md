@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 25 maja 2021 r. zmieniające rozporządzenie w sprawie warunków i trybu udzielania pomocy publicznej za pośrednictwem Narodowego Centrum Nauki
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 25 maja 2021 r. zmieniające rozporządzenie w sprawie warunków i trybu udzielania pomocy publicznej za pośrednictwem Narodowego Centrum Nauki Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-25 |
 | Data wydania | 2021-06-01 |
-| Wejście w życie | 2021-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000995) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/995/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 37 ust. 2 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2019 r. poz. 1384) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2015 r. w sprawie warunków i trybu udzielania pomocy publicznej za pośrednictwem Narodowego Centrum Nauki (Dz. U. poz. 1381) § 18 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2015 r. w sprawie warunków i trybu udzielania pomocy publicznej za pośrednictwem Narodowego Centrum Nauki (Dz. U. poz. 1381) § 18 otrzymuje brzmienie: „
 § 18.
 1.
 Pomoc publiczna może być udzielana za pośrednictwem Centrum do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 rozporządzenia Komisji nr 651/2014, w związku z art. 59 zdanie drugie tego rozporządzenia.
 2.
-Pomoc de minimis może być udzielana za pośrednictwem Centrum do końca okresu 6 miesięcy, o którym mowa w art. 7 ust. 4 rozporządzenia Komisji nr 1407/2013, w związku z art. 8 zdanie drugie tego rozporządzenia.
-” .
+Pomoc de minimis może być udzielana za pośrednictwem Centrum do końca okresu 6 miesięcy, o którym mowa w art. 7 ust. 4 rozporządzenia Komisji nr 1407/2013, w związku z art. 8 zdanie drugie tego rozporządzenia. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 30 czerwca 2021 r.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Rozporządzenie wchodzi w życie z dniem 30 czerwca 2021 r. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 

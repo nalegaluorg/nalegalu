@@ -22,14 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-05-11 |
 | Data wydania | 2007-07-09 |
-| Wejście w życie | 2007-07-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071230845) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/845/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701 oraz z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381 i Nr 99, poz. 661.) wprowadza się następujące zmiany:
 
-- **1)** w art. 6: w ust. 1: – pkt 5 otrzymuje brzmienie: „ 5) osoba działająca w imieniu zarządcy drogi lub osoba wykonująca roboty na drodze na zlecenie lub za zgodą zarządcy drogi; ” , – w pkt 7 kropkę zastępuje się średnikiem oraz dodaje się pkt 8 w brzmieniu: „ 8) strażnik leśny lub funkcjonariusz Straży Parku – na terenie odpowiednio lasu lub parku narodowego. ” , w ust. 4 w pkt 2 kropkę zastępuje się średnikiem oraz dodaje się pkt 3 w brzmieniu: „
+- **1)** w art. 6: w ust. 1: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** osoba działająca w imieniu zarządcy drogi lub osoba wykonująca roboty na drodze na zlecenie lub za zgodą zarządcy drogi; ” , w pkt 7 kropkę zastępuje się średnikiem oraz dodaje się pkt 8 w brzmieniu: „
+- **8)** strażnik leśny lub funkcjonariusz Straży Parku – na terenie odpowiednio lasu lub parku narodowego. ” , w ust. 4 w pkt 2 kropkę zastępuje się średnikiem oraz dodaje się pkt 3 w brzmieniu: „
     - **b)**
 
 - **3)** określi, w drodze rozporządzenia, wzór ubioru osób, o których mowa w ust. 1 pkt 4–6. ” ;
@@ -113,5 +115,5 @@ source: "eli-html"
 
 **Art. 2.** Przepisy wykonawcze wydane na podstawie art. 131 ust. 1 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych, o ile nie są sprzeczne z niniejszą ustawą, przez okres nie dłuższy niż 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701 oraz z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381 i Nr 99, poz. 661.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 lutego 2019 r. w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 lutego 2019 r. w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-28 |
 | Data wydania | 2019-03-15 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2026-02-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000502) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/502/text.pdf) |
 
@@ -492,8 +491,7 @@ Do zakończenia roku szkolnego 2025/2026 branżowa szkoła I stopnia może, na w
 § 26.
 Jeżeli przed dniem wejścia w życie niniejszego rozporządzenia w oddziale specjalnym w szkole podstawowej ogólnodostępnej zorganizowano nauczanie w klasach łączonych na podstawie § 13 ust. 3 rozporządzenia Ministra Edukacji Narodowej z dnia 17 marca 2017 r. w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli (Dz. U. poz. 649 oraz z 2018 r. poz. 691), nauczanie to może być kontynuowane w tej klasie łączonej do końca danego etapu edukacyjnego.
 § 27.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 ##### Oddział przysposabiający do pracy może być tworzony w szkole podstawowej dla uczniów, którzy ukończyli 15. rok życia i nie rokują ukończenia szkoły podstawowej w normalnym trybie oraz którzy:
 

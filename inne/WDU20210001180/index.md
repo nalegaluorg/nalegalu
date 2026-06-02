@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 29 czerwca 2021 r. zmieniające rozporządzenie w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 29 czerwca 2021 r. zmieniające rozporządzenie w sprawie określenia podatników niemających obowiązku składania zgłoszenia rejestracyjnego Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-29 |
 | Data wydania | 2021-06-30 |
-| Wejście w życie | 2021-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1180/text.pdf) |
 
@@ -33,26 +32,19 @@ W rozporządzeniu Ministra Finansów z dnia 14 listopada 2014 r. w sprawie okre�
 1)
 w pkt 1:
 a)
-lit. m otrzymuje brzmienie:
-„
+lit. m otrzymuje brzmienie: „
 m)
-usługi świadczone na rzecz osób niebędących podatnikami, o których mowa w art. 28a ustawy, rozliczane w szczególnej procedurze, o której mowa w dziale XII rozdziale 6a i 7 ustawy,
-” ,
+usługi świadczone na rzecz osób niebędących podatnikami, o których mowa w art. 28a ustawy, rozliczane w szczególnej procedurze, o której mowa w dziale XII rozdziale 6a i 7 ustawy, ” ,
 b)
-dodaje się lit. n i o w brzmieniu:
-„
+dodaje się lit. n i o w brzmieniu: „
 n)
 wewnątrzwspólnotową sprzedaż na odległość towarów, które w momencie zakończenia wysyłki lub transportu znajdują się na terytorium kraju, rozliczaną w szczególnej procedurze, o której mowa w dziale XII rozdziale 6a ustawy,
 o)
-dostawę towarów, o której mowa w art. 7a ust. 2 ustawy, dokonywaną przez podatnika ułatwiającego dostawy towarów, jeżeli wysyłka lub transport tych towarów rozpoczyna się i kończy na terytorium kraju, rozliczaną w szczególnej procedurze, o której mowa w dziale XII rozdziale 6a ustawy;
-” ;
+dostawę towarów, o której mowa w art. 7a ust. 2 ustawy, dokonywaną przez podatnika ułatwiającego dostawy towarów, jeżeli wysyłka lub transport tych towarów rozpoczyna się i kończy na terytorium kraju, rozliczaną w szczególnej procedurze, o której mowa w dziale XII rozdziale 6a ustawy; ” ;
 2)
-w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-dokonujący na terytorium kraju wyłącznie sprzedaży na odległość towarów importowanych, rozliczanej w szczególnej procedurze, o której mowa w dziale XII rozdziale 9 ustawy.
-” .
+dokonujący na terytorium kraju wyłącznie sprzedaży na odległość towarów importowanych, rozliczanej w szczególnej procedurze, o której mowa w dziale XII rozdziale 9 ustawy. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

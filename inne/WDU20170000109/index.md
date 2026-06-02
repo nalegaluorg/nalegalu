@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 11 stycznia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Restrukturyzacja małych gospodarstw” w ramach poddziałania „Pomoc na rozpoczęcie działalności gospodarczej na rzecz rozwoju małych gospodarstw” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 11 stycznia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Restrukturyzacja małych gospodarstw” w ramach poddziałania „Pomoc na rozpoczęcie działalności gospodarczej na rzecz rozwoju małych gospodarstw” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-11 |
 | Data wydania | 2017-01-17 |
-| Wejście w życie | 2017-01-18 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000109) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/109/text.pdf) |
 
@@ -39,18 +38,13 @@ uchyla się ust. 1,
 b)
 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dyrektor oddziału regionalnego Agencji niezwłocznie po przyznaniu punktów, o których mowa w § 12 ust. 2, ustala: ” ;
 3)
-w § 17 ust. 4 otrzymuje brzmienie:
-„
+w § 17 ust. 4 otrzymuje brzmienie: „
 4.
-Dyrektor oddziału regionalnego Agencji uchyla decyzję o przyznaniu pomocy w przypadku złożenia przez beneficjenta, przed upływem terminu określonego w § 16 ust. 1, pisemnego wniosku o uchylenie tej decyzji, zawierającego oświadczenie o rezygnacji z przyznanej pomocy.
-” ;
+Dyrektor oddziału regionalnego Agencji uchyla decyzję o przyznaniu pomocy w przypadku złożenia przez beneficjenta, przed upływem terminu określonego w § 16 ust. 1, pisemnego wniosku o uchylenie tej decyzji, zawierającego oświadczenie o rezygnacji z przyznanej pomocy. ” ;
 4)
-w § 25 w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+w § 25 w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
-w oddziale regionalnym Agencji, w którym został złożony wniosek o przyznanie pomocy, o którym mowa w § 9;
-” .
+w oddziale regionalnym Agencji, w którym został złożony wniosek o przyznanie pomocy, o którym mowa w § 9; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

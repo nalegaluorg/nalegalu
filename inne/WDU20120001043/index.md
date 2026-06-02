@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 31 sierpnia 2012 r. w sprawie zakresu i sposobu przeprowadzania analiz bezpieczeństwa przeprowadzanych przed wystąpieniem z wnioskiem o wydanie zezwolenia na budowę obiektu jądrowego, oraz zakresu wstępnego raportu bezpieczeństwa dla obiektu jądrowego
+# Rozporządzenie Rady Ministrówz dnia 31 sierpnia 2012 r. w sprawie zakresu i sposobu przeprowadzania analiz bezpieczeństwa przeprowadzanych przed wystąpieniem z wnioskiem o wydanie zezwolenia na budowę obiektu jądrowego, oraz zakresu wstępnego raportu bezpieczeństwa dla obiektu jądrowego Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18 oraz Dz. Urz. UE L 260 z 03.10.2009, str. 40).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,31 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-31 |
 | Data wydania | 2012-09-20 |
-| Wejście w życie | 2012-10-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1043/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagania ogólne dla analiz bezpieczeństwa Rozdział 3 – Wymagania szczegółowe dla analizy deterministycznej bezpieczeństwa Rozdział 4 – Wymagania szczegółowe dla analizy probabilistycznej bezpieczeństwa Rozdział 5 – Wymagania dotyczące zawartości wstępnego raportu bezpieczeństwa Rozdział 6 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Wymagania ogólne dla analiz bezpieczeństwa
+
+#### Rozdział 3 – Wymagania szczegółowe dla analizy deterministycznej bezpieczeństwa
+
+#### Rozdział 4 – Wymagania szczegółowe dla analizy probabilistycznej bezpieczeństwa
+
+#### Rozdział 5 – Wymagania dotyczące zawartości wstępnego raportu bezpieczeństwa
+
+#### Rozdział 6 – Przepisy przejściowe i końcowe
 
 ## Załącznik nr 1 — – Kryteria grupowania Postulowanych Zdarzeń Inicjujących (PZI) prowadzących do określonych stanów elektrowni jądrowej, według szacunkowego prawdopodobieństwa występowania PZI
 
 ## Załącznik nr 2 — – Zakres wstępnego raportu bezpieczeństwa obiektu jądrowego
 
 Treść rozporządzenia
-Na podstawie art. 36d ust. 3 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264 i 908) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 kwietnia 2012 r., pod numerem 2012/278/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). Na podstawie art. 36d ust. 3 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264 i 908) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 W rozumieniu niniejszego rozporządzenia użyte określenia oznaczają:
 1)
@@ -118,7 +130,8 @@ b)
 część systemów i elementów wyposażenia obiektu jądrowego połączonych z granicą ciśnieniową obiegu chłodzenia reaktora lub z przestrzenią pierwotnej obudowy bezpieczeństwa reaktora, które w razie awarii mogą przenosić skażone płyny poza pierwotną obudowę bezpieczeństwa reaktora;
 30)
 zwielokrotnienie (redundancja) – zastosowanie większej liczby systemów lub elementów wyposażenia niż wymaga tego funkcjonowanie obiektu jądrowego, w szczególności jego systemów bezpieczeństwa, tak, żeby uszkodzenie jakiegokolwiek z nich nie skutkowało niewypełnieniem funkcji bezpieczeństwa.
-Rozdział 2 Wymagania ogólne dla analiz bezpieczeństwa
+Rozdział 2
+Wymagania ogólne dla analiz bezpieczeństwa
 § 2.
 1.
 Analizy bezpieczeństwa obejmują funkcjonowanie obiektu jądrowego w stanach eksploatacyjnych i warunkach awaryjnych.
@@ -251,7 +264,8 @@ podlega przeglądowi i odpowiednim zmianom w miarę postępu projektowania i oce
 Zdarzenia odrzucone z zestawu PZI przyjętego do analiz bezpieczeństwa specyfikuje się w analizie bezpieczeństwa, wraz z uzasadnieniem powodów odrzucenia.
 § 12.
 Wykonywanie analiz bezpieczeństwa obejmuje się programem zapewnienia jakości. W szczególności podaje się i dokumentuje źródła pochodzenia wszystkich danych oraz dokumentuje się i archiwizuje cały proces analiz w taki sposób, aby możliwe było jego niezależne sprawdzenie.
-Rozdział 3 Wymagania szczegółowe dla analizy deterministycznej bezpieczeństwa
+Rozdział 3
+Wymagania szczegółowe dla analizy deterministycznej bezpieczeństwa
 § 13.
 1.
 W analizie deterministycznej bezpieczeństwa uwzględnia się PZI i ich odpowiednie kombinacje, ustalone dla określonego projektu i lokalizacji obiektu jądrowego, prowadzące do określonych stanów obiektu jądrowego, według szacowanego prawdopodobieństwa ich występowania.
@@ -480,7 +494,8 @@ uwzględnia się doświadczenia eksploatacyjne z obiektów podobnego typu.
 Wyniki oszacowania dawek podczas normalnej eksploatacji obiektu jądrowego ocenia się w celu zidentyfikowania wszelkich słabych elementów projektu obiektu jądrowego lub sposobu prowadzenia jego eksploatacji i wprowadzenia odpowiednich ulepszeń tam, gdzie jest to rozsądnie wykonalne.
 § 36.
 Analiza deterministyczna bezpieczeństwa dla normalnej eksploatacji obiektu jądrowego zawiera także oszacowanie planowanych uwolnień do środowiska substancji promieniotwórczych, ze szczególnym uwzględnieniem oceny, czy planowane uwolnienia substancji promieniotwórczych są najmniejsze, jak to jest rozsądnie osiągalne.
-Rozdział 4 Wymagania szczegółowe dla analizy probabilistycznej bezpieczeństwa
+Rozdział 4
+Wymagania szczegółowe dla analizy probabilistycznej bezpieczeństwa
 § 37.
 1.
 Analiza probabilistyczna bezpieczeństwa obiektu jądrowego obejmuje określenie wszystkich sekwencji zdarzeń o istotnym wkładzie w ryzyko powodowane przez obiekt jądrowy, ocenę zbalansowania całościowego projektu konfiguracji obiektu, ocenę występowania wyodrębnionych obszarów ryzyka oraz ocenę spełniania przez projekt obiektu probabilistycznych kryteriów bezpieczeństwa określonych w § 10 rozporządzenia projektowego.
@@ -545,17 +560,19 @@ ostatniej bariery ochronnej – w przypadku zakładu wzbogacania izotopowego, za
 rozpatruje się skuteczność rozwiązań projektowych obiektu jądrowego zastosowanych celem ograniczenia skutków uszkodzeń, o których mowa w ust. 1 pkt 1 lit. a;
 3)
 szacuje się częstość dużych uwolnień substancji promieniotwórczych do środowiska.
-Rozdział 5 Wymagania dotyczące zawartości wstępnego raportu bezpieczeństwa
+Rozdział 5
+Wymagania dotyczące zawartości wstępnego raportu bezpieczeństwa
 § 42.
 1.
 Wymagania dotyczące zakresu wstępnego raportu bezpieczeństwa elektrowni jądrowej są określone w załączniku nr 2 do rozporządzenia.
 2.
 Wymagania określone w załączniku nr 2 do rozporządzenia stosuje się odpowiednio do obiektów jądrowych innych niż elektrownia jądrowa.
-Rozdział 6 Przepisy przejściowe i końcowe
+Rozdział 6
+Przepisy przejściowe i końcowe
 § 43.
 Przepisów niniejszego rozporządzenia nie stosuje się do obiektów jądrowych będących w fazie budowy, rozruchu lub eksploatacji na terytorium Rzeczypospolitej Polskiej w dniu jego wejścia w życie.
 § 44.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającej wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18 oraz Dz. Urz. UE L 260 z 03.10.2009, str. 40). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 30 kwietnia 2012 r., pod numerem 2012/278/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
 
 ## Załącznik nr 1 — – Kryteria grupowania Postulowanych Zdarzeń Inicjujących (PZI) prowadzących do określonych stanów elektrowni jądrowej, według szacunkowego prawdopodobieństwa występowania PZI
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 marca 2007 r. o zmianie ustawy o ochronie roślin oraz niektórych innych ustaw
+# Ustawa z dnia 30 marca 2007 r. o zmianie ustawy o ochronie roślin oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych, ustawę z dnia 26 czerwca 2003 r. o nasiennictwie oraz ustawę z dnia 20 kwietnia 2004 r. o rolnictwie ekologicznym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-03-30 |
 | Data wydania | 2007-05-09 |
-| Wejście w życie | 2007-05-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070800541) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/541/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2004 r. Nr 11, poz. 94, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2004 r. Nr 11, poz. 94, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 oraz z 2006 r. Nr 92, poz. 639, Nr 170, poz. 1217 i Nr 171, poz. 1225.) wprowadza się następujące zmiany:
 
-- **1)** odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „
+- **1)** odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „ 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 - **1)** dyrektywy Rady 69/464/EWG z dnia 8 grudnia 1969 r. w sprawie zwalczania raka ziemniaczanego (Dz. Urz. WE L 323 z 24.12.1969, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 172, z późn. zm.),
 - **2)** dyrektywy Rady 69/465/EWG z dnia 8 grudnia 1969 r. w sprawie zwalczania mątwika ziemniaczanego (Dz. Urz. WE L 323 z 24.12.1969, str. 3, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 174, z późn. zm.),
 - **3)** dyrektywy Rady 69/466/EWG z dnia 8 grudnia 1969 r. w sprawie zwalczania tarcznika niszczyciela (Dz. Urz. WE L 323 z 24.12.1969, str. 5, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 176, z późn. zm.),
@@ -544,15 +543,19 @@ source: "eli-html"
 - **39)** w art. 64: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Działalność gospodarcza w zakresie konfekcjonowania lub obrotu środkami ochrony roślin jest działalnością regulowaną w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.) i wymaga wpisu do rejestru przedsiębiorców wykonujących działalność w zakresie konfekcjonowania lub obrotu środkami ochrony roślin, zwanego dalej „rejestrem”. ” , w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) zapewnić, że osoby bezpośrednio wykonujące czynności wymagające kontaktu ze środkiem ochrony roślin: a) ukończyły szkolenie w zakresie obrotu i konfekcjonowania środków ochrony roślin w Rzeczypospolitej Polskiej i posiadają aktualne zaświadczenie o ukończeniu tego szkolenia lub b) ukończyły szkolenie w zakresie, o którym mowa w lit. a, w innym państwie członkowskim, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym i posiadają aktualne świadectwo potwierdzające ukończenie tego szkolenia, lub c) posiadają kwalifikacje w zakresie obrotu substancjami lub preparatami toksycznymi nabyte w innym państwie członkowskim, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, potwierdzone stosownym świadectwem. ” , – uchyla się pkt 1a, po ust. 4 dodaje się ust. 4a w brzmieniu: „
+1. Działalność gospodarcza w zakresie konfekcjonowania lub obrotu środkami ochrony roślin jest działalnością regulowaną w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121, Nr 171, poz. 1225 i Nr 235, poz. 1699.) i wymaga wpisu do rejestru przedsiębiorców wykonujących działalność w zakresie konfekcjonowania lub obrotu środkami ochrony roślin, zwanego dalej „rejestrem”. ” , w ust. 4: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** zapewnić, że osoby bezpośrednio wykonujące czynności wymagające kontaktu ze środkiem ochrony roślin: ukończyły szkolenie w zakresie obrotu i konfekcjonowania środków ochrony roślin w Rzeczypospolitej Polskiej i posiadają aktualne zaświadczenie o ukończeniu tego szkolenia lub ukończyły szkolenie w zakresie, o którym mowa w lit. a, w innym państwie członkowskim, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym i posiadają aktualne świadectwo potwierdzające ukończenie tego szkolenia, lub posiadają kwalifikacje w zakresie obrotu substancjami lub preparatami toksycznymi nabyte w innym państwie członkowskim, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, potwierdzone stosownym świadectwem. ” , – uchyla się pkt 1a, po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **c)**
 
 4a. Wymagań, o których mowa w ust. 4 pkt 1, nie stosuje się wobec osób, które:
 
 - **1)** prowadziły przez okres 5 kolejnych lat obrót substancjami lub preparatami toksycznymi lub
-- **2)** były zatrudnione przez okres 5 kolejnych lat na stanowisku kierowniczym, na którym zakres obowiązków obejmował prowadzenie obrotu substancjami lub produktami toksycznymi przy czym działalność ta była prowadzona nie później niż na dwa lata przed dniem złożenia wniosku o wpis do rejestru i wymagała bezpośredniego kontaktu ze środkami ochrony roślin. ” ;
+- **2)** były zatrudnione przez okres 5 kolejnych lat na stanowisku kierowniczym, na którym zakres obowiązków obejmował prowadzenie obrotu substancjami lub produktami toksycznymi – przy czym działalność ta była prowadzona nie później niż na dwa lata przed dniem złożenia wniosku o wpis do rejestru i wymagała bezpośredniego kontaktu ze środkami ochrony roślin. ” ;
 - **40)** w art. 65: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -584,7 +587,7 @@ source: "eli-html"
 1. Wojewódzki inspektor, w drodze decyzji:
 
 - **1)** nakazuje wycofanie środka ochrony roślin z obrotu na koszt posiadacza lub
-- **2)** zakazuje stosowania tego środka jeżeli zostało stwierdzone, że środek ten nie jest dopuszczony do obrotu, jest podrobiony, przeterminowany, nie odpowiada wymaganiom jakościowym lub jest sprzedawany w uszkodzonych lub nieoryginalnych opakowaniach. ” ;
+- **2)** zakazuje stosowania tego środka – jeżeli zostało stwierdzone, że środek ten nie jest dopuszczony do obrotu, jest podrobiony, przeterminowany, nie odpowiada wymaganiom jakościowym lub jest sprzedawany w uszkodzonych lub nieoryginalnych opakowaniach. ” ;
 - **44)** w art. 75: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -668,7 +671,7 @@ source: "eli-html"
 **Art. 104.** Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, stawki opłat za:
 
 - **1)** usługi, o których mowa w art. 103 ust. 1 pkt 1 i 2 oraz ust. 1a,
-- **2)** wydawanie etykiet, paszportów roślin lub plomb urzędowych lub wydawanie formularzy paszportów roślin w przypadkach, o których mowa w art. 16 ust. 15 mając na uwadze w szczególności rzeczywiste koszty wykonania badań, koszty dojazdu, wielkość partii lub przesyłek poddanych kontroli, wielkość badanych prób, koszty związane z prowadzeniem szkoleń oraz koszty przygotowania etykiet, paszportów roślin i plomb urzędowych. ” ;
+- **2)** wydawanie etykiet, paszportów roślin lub plomb urzędowych lub wydawanie formularzy paszportów roślin w przypadkach, o których mowa w art. 16 ust. 15 – mając na uwadze w szczególności rzeczywiste koszty wykonania badań, koszty dojazdu, wielkość partii lub przesyłek poddanych kontroli, wielkość badanych prób, koszty związane z prowadzeniem szkoleń oraz koszty przygotowania etykiet, paszportów roślin i plomb urzędowych. ” ;
 - **51)** w art. 107: po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
 
@@ -760,5 +763,5 @@ source: "eli-html"
 
 **Art. 7.** Przedsiębiorca wykonujący działalność gospodarczą w zakresie konfekcjonowania lub obrotu środkami ochrony roślin, który w dniu wejścia w życie niniejszej ustawy nie spełnia warunku określonego w art. 64 ust. 4 pkt 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jest obowiązany spełnić ten warunek w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Formularze paszportów roślin stosowane na podstawie dotychczasowych przepisów mogą być stosowane do czasu wyczerpania ich zapasów, jednak nie dłużej niż do dnia 31 grudnia 2007 r. Do spraw wszczętych na podstawie art. 12 ust. 3 ustawy, o której mowa w art. 4, i niezakończonych do dnia wejścia w życie niniejszej ustawy decyzją ostateczną, stosuje się przepisy dotychczasowe. Przepisy wykonawcze wydane na podstawie art. 104 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 104 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych, ustawę z dnia 26 czerwca 2003 r. o nasiennictwie oraz ustawę z dnia 20 kwietnia 2004 r. o rolnictwie ekologicznym. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 oraz z 2006 r. Nr 92, poz. 639, Nr 170, poz. 1217 i Nr 171, poz. 1225. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121, Nr 171, poz. 1225 i Nr 235, poz. 1699.
 

@@ -33,13 +33,11 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw (Dz. U. poz. 2191),
 2)
-ustawą z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2349)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2022 r.
+ustawą z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2349) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2022 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 8 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw (Dz. U. poz. 2191), który stanowi:
-„
+art. 8 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw (Dz. U. poz. 2191), który stanowi: „
 
 **Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2 pkt 2–6 oraz art. 4–7, które wchodzą w życie z dniem 1 stycznia 2022 r. ” ;
 
@@ -77,9 +75,7 @@ art. 8 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy pa
 
 6. Przepisy art. 5 ust. 1–3 i 5 oraz art. 6–9 ustawy z dnia 22 listopada 2002 r. o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela stosuje się odpowiednio.
 
-7. Nie pobiera się opłat od pozwu o rekompensatę wniesionego przez wnioskodawcę.
-
-8. Wojewoda, na udokumentowany wniosek, za zgodą ministra właściwego do spraw administracji publicznej, w szczególnie uzasadnionych przypadkach, może przyznać rekompensatę również podmiotom innym niż wskazane w art. 1, które prowadzą działalność na obszarze, o którym mowa w art. 1 ust. 1 lub art. 2a ust. 1, gdy okoliczności, a zwłaszcza poziom strat, utraconych korzyści lub ciężkie położenie materialne, wskazują, że wymagają tego względy słuszności. Do wniosku stosuje się odpowiednio przepisy ust. 1–7.
+7. Nie pobiera się opłat od pozwu o rekompensatę wniesionego przez wnioskodawcę. 8Dodany przez art. 4 ustawy z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2349), która weszła w życie z dniem 18 grudnia 2021 r.. Wojewoda, na udokumentowany wniosek, za zgodą ministra właściwego do spraw administracji publicznej, w szczególnie uzasadnionych przypadkach, może przyznać rekompensatę również podmiotom innym niż wskazane w art. 1, które prowadzą działalność na obszarze, o którym mowa w art. 1 ust. 1 lub art. 2a ust. 1, gdy okoliczności, a zwłaszcza poziom strat, utraconych korzyści lub ciężkie położenie materialne, wskazują, że wymagają tego względy słuszności. Do wniosku stosuje się odpowiednio przepisy ust. 1–7.
 
 **Art. 4.** Przychód z tytułu rekompensaty nie stanowi przychodu w rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych.
 
@@ -90,5 +86,5 @@ art. 8 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy pa
 
 **Art. 6.** Rekompensata stanowi pomoc de minimis i może być udzielana w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa unijnego dotyczących pomocy w ramach zasady de minimis .
 
-**Art. 7.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 4 października 2021 r.. 1) Dodany przez art. 3 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw (Dz. U. poz. 2191), która weszła w życie z dniem 1 grudnia 2021 r. 2) Dodany przez art. 4 ustawy z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2349), która weszła w życie z dniem 18 grudnia 2021 r. 3) Ustawa została ogłoszona w dniu 4 października 2021 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o lasach oraz ustawy o ochronie przyrody
+# Ustawaz dnia 17 listopada 2021 r. o zmianie ustawy o lasach oraz ustawy o ochronie przyrody Niniejsza ustawa w zakresie swojej regulacji wdraża:
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-17 |
 | Data wydania | 2022-01-13 |
-| Wejście w życie | 2022-02-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/84/text.pdf) |
 
@@ -58,5 +57,9 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża:
+
+- **1)** dyrektywę Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz. Urz. UE L 206 z 22.07.1992, str. 7 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 102, Dz. Urz. WE L 305 z 08.01.1997, str. 42 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 3, Dz. Urz. UE L 236 z 23.09.2003, str. 33, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 363 z 20.12.2006, str. 368, Dz. Urz. UE L 218 z 23.08.2007, str. 15, Dz. Urz. UE L 158 z 10.06.2013, str. 193 oraz Dz. Urz. UE L 111 z 31.03.2021, str. 35);
+- **2)** dyrektywę Parlamentu Europejskiego i Rady 2009/147/WE z dnia 30 listopada 2009 r. w sprawie ochrony dzikiego ptactwa (Dz. Urz. UE L 20 z 26.01.2010, str. 7, Dz. Urz. UE L 158 z 10.06.2013, str. 193 oraz Dz. Urz. UE L 170 z 25.06.2019, str. 115).
+
 

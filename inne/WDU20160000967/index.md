@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-29 |
 | Data wydania | 2016-07-01 |
-| Wejście w życie | 2016-07-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000967) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/967/text.pdf) |
 
@@ -85,7 +84,7 @@ source: "eli-html"
 12. Członkowi Rady, w związku z uczestnictwem w posiedzeniu Rady, przysługuje zwrot kosztów przejazdu na obszarze kraju:
 
 - **1)** środkiem transportu, z wyłączeniem samochodu osobowego, w wysokości udokumentowanej biletami lub fakturami obejmującymi cenę biletu środka transportu, którego rodzaj i klasę ustala Prezes;
-- **2)** samochodem osobowym, w wysokości 1/3 kosztów tego przejazdu stanowiących iloczyn przejechanych kilometrów przez maksymalną stawkę za jeden kilometr przebiegu, określoną w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.).
+- **2)** samochodem osobowym, w wysokości 1/3 kosztów tego przejazdu stanowiących iloczyn przejechanych kilometrów przez maksymalną stawkę za jeden kilometr przebiegu, określoną w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211, 390, 978, 1269, 1273, 1893 i 2183.).
 
 **Art. 9.**
 
@@ -127,5 +126,5 @@ source: "eli-html"
 
 4. Kadencja Prezesa Polskiego Klubu Wyścigów Konnych trwająca w dniu wejścia w życie ustawy upływa w dniu powołania Prezesa zgodnie z ust. 1.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211, 390, 978, 1269, 1273, 1893 i 2183.
 

@@ -22,19 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-05-22 |
 | Data wydania | 2003-06-27 |
-| Wejście w życie | 2003-07-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031091031) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1031/text.pdf) |
 
+Odszkodowanie za niesłuszne ukaranie lub zatrzymanie
 32)
-w art. 114 § 2 otrzymuje brzmienie:
-„
+w art. 114 § 2 otrzymuje brzmienie: „
 § 2.
-Odszkodowanie i zadośćuczynienie przysługuje także osobie niewątpliwie niesłusznie zatrzymanej oraz osobie osadzonej w zakładzie karnym na podstawie art. 82 § 5 pkt 2 albo pkt 3, która następnie została prawomocnie uniewinniona albo wobec której prawomocnie umorzono postępowanie.
-” ;
+Odszkodowanie i zadośćuczynienie przysługuje także osobie niewątpliwie niesłusznie zatrzymanej oraz osobie osadzonej w zakładzie karnym na podstawie art. 82 § 5 pkt 2 albo pkt 3, która następnie została prawomocnie uniewinniona albo wobec której prawomocnie umorzono postępowanie. ” ;
 33)
-art. 119 otrzymuje brzmienie:
-„
+art. 119 otrzymuje brzmienie: „
 
 **Art. 1.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 106, poz. 1148) wprowadza się następujące zmiany:
 
@@ -104,8 +101,11 @@ art. 119 otrzymuje brzmienie:
 
 **Art. 56a.** Jeżeli nie zachodzą okoliczności określone w art. 27, osobie, która złożyła zawiadomienie o popełnieniu wykroczenia, przysługuje zażalenie do organu nadrzędnego na niewniesienie wniosku o ukaranie. ” ;
 
-- **12)** w art. 57: w § 3: – pkt 2 otrzymuje brzmienie: „ 2) miejsca zatrudnienia obwinionego oraz, w miarę możności, danych o jego warunkach materialnych, rodzinnych i osobistych, ” , – pkt 7 otrzymuje brzmienie: „ 7) danych dotyczących uprzedniego skazania obwinionego za podobne przestępstwo lub wykroczenie, jeżeli oskarżyciel powołuje się na tę okoliczność. ” , § 4 otrzymuje brzmienie: „
+- **12)** w art. 57: w § 3: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** miejsca zatrudnienia obwinionego oraz, w miarę możności, danych o jego warunkach materialnych, rodzinnych i osobistych, ” , pkt 7 otrzymuje brzmienie: „
+- **7)** danych dotyczących uprzedniego skazania obwinionego za podobne przestępstwo lub wykroczenie, jeżeli oskarżyciel powołuje się na tę okoliczność. ” , § 4 otrzymuje brzmienie: „
     - **b)**
 
 § 4. Do wniosku o ukaranie oskarżyciel publiczny dołącza materiały czynności wyjaśniających lub postępowania przygotowawczego, a także, do wiadomości sądu, adresy świadków i pokrzywdzonych oraz po jednym odpisie wniosku dla każdego z obwinionych. ” ;
@@ -210,7 +210,7 @@ art. 119 otrzymuje brzmienie:
 § 1. W postępowaniu mandatowym, jeżeli ustawa nie stanowi inaczej, funkcjonariusz uprawniony do nakładania grzywny w drodze mandatu karnego może ją nałożyć jedynie, gdy:
 
 - **1)** schwytano sprawcę wykroczenia na gorącym uczynku lub bezpośrednio po popełnieniu wykroczenia,
-- **2)** stwierdzi popełnienie wykroczenia naocznie pod nieobecność sprawcy albo za pomocą urządzenia pomiarowego lub kontrolnego, a nie zachodzi wątpliwość co do osoby sprawcy czynu w tym także, w razie potrzeby, po przeprowadzeniu w niezbędnym zakresie czynności wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze mandatu karnego nie może nastąpić po upływie 14 dni od daty ujawnienia czynu w wypadku, o którym mowa w pkt 1, i 30 dni w wypadku, o którym mowa w pkt 2. ” ;
+- **2)** stwierdzi popełnienie wykroczenia naocznie pod nieobecność sprawcy albo za pomocą urządzenia pomiarowego lub kontrolnego, a nie zachodzi wątpliwość co do osoby sprawcy czynu – w tym także, w razie potrzeby, po przeprowadzeniu w niezbędnym zakresie czynności wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze mandatu karnego nie może nastąpić po upływie 14 dni od daty ujawnienia czynu w wypadku, o którym mowa w pkt 1, i 30 dni w wypadku, o którym mowa w pkt 2. ” ;
 - **25)** w art. 98 § 2 i 3 otrzymują brzmienie: „
 
 § 2. Mandatem karnym, o którym mowa w § 1 pkt 1, może być nałożona grzywna jedynie wobec osoby czasowo przebywającej na terytorium Rzeczypospolitej Polskiej lub niemającej stałego miejsca zamieszkania albo pobytu. Mandat taki staje się prawomocny z chwilą uiszczenia grzywny funkcjonariuszowi, który ją nałożył.
@@ -240,7 +240,7 @@ art. 119 otrzymuje brzmienie:
 - **30)** tytuł działu XII otrzymuje brzmienie: „ Postępowanie po uprawomocnieniu się orzeczenia ” ;
 - **31)** w dziale XII po tytule działu dodaje się wyrazy:
 
-#### Rozdział 20 Odszkodowanie za niesłuszne ukaranie lub zatrzymanie
+#### Rozdział 20
 
 **Art. 119.** Do kosztów postępowania stosuje się odpowiednio przepisy art. 616, 617, 618 § 1 i 3, art. 623, 624 § 1, art. 625–627, 630, 633–635, 636 § 1 i 2, art. 637–639 i 641 Kodeksu postępowania karnego, przy czym wydatkami Skarbu Państwa są także wydatki ponoszone w toku czynności wyjaśniających. ” .
 

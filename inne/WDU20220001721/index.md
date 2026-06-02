@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 5 sierpnia 2022 r. zmieniające rozporządzenie w sprawie urzędów celno-skarbowych, w których może być dokonywany wywóz, przywóz i tranzyt towarów o znaczeniu strategicznym
+# Rozporządzenie Ministra Finansówz dnia 5 sierpnia 2022 r. zmieniające rozporządzenie w sprawie urzędów celno-skarbowych, w których może być dokonywany wywóz, przywóz i tranzyt towarów o znaczeniu strategicznym Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-05 |
 | Data wydania | 2022-08-17 |
-| Wejście w życie | 2022-08-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001721) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1721/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 20 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagra
 § 1.
 W rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. w sprawie urzędów celno-skarbowych, w których może być dokonywany wywóz, przywóz i tranzyt towarów o znaczeniu strategicznym (Dz. U. poz. 365 oraz z 2021 r. poz. 1860) w załączniku w lp. I uchyla się pkt 5.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 

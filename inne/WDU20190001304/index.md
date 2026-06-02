@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 lipca 2019 r. w sprawie wyznaczenia koordynatora delegowanego w dziale sprawy wewnętrzne oraz zakresu zadań przekazanych koordynatorowi delegowanemu do realizacji
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 lipca 2019 r. w sprawie wyznaczenia koordynatora delegowanego w dziale sprawy wewnętrzne oraz zakresu zadań przekazanych koordynatorowi delegowanemu do realizacji Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1058).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-02 |
 | Data wydania | 2019-07-12 |
-| Wejście w życie | 2019-07-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1304/text.pdf) |
 
@@ -48,6 +47,5 @@ udziela wyjaśnień i pomocy nadzorowanym organom gmin oraz kierownikom urzędó
 6)
 zapewnia sprawny przepływ informacji w zakresie określonym w rozporządzeniu 2016/1191.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1058).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1058).
 

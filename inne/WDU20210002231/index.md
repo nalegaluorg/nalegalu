@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 24 listopada 2021 r. zmieniające rozporządzenie w sprawie wykazu wydzielonych pomieszczeń przeznaczonych dla osób zatrzymanych, w których mogą być odrębnie umieszczeni tymczasowo aresztowani i skazani, oraz warunków, którym pomieszczenia te muszą odpowiadać
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 24 listopada 2021 r. zmieniające rozporządzenie w sprawie wykazu wydzielonych pomieszczeń przeznaczonych dla osób zatrzymanych, w których mogą być odrębnie umieszczeni tymczasowo aresztowani i skazani, oraz warunków, którym pomieszczenia te muszą odpowiadać Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-24 |
 | Data wydania | 2021-12-03 |
-| Wejście w życie | 2021-12-18 |
 | Ostatnia zmiana | 2024-06-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002231) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2231/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 223e § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, 472, 1236 i 2054) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 grudnia 2009 r. w sprawie wykazu wydzielonych pomieszczeń przeznaczonych dla osób zatrzymanych, w których mogą być odrębnie umieszczeni tymczasowo aresztowani i skazani, oraz warunków, którym pomieszczenia te muszą odpowiadać (Dz. U. z 2017 r. poz. 896 i 2298) w § 2 w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 grudnia 2009 r. w sprawie wykazu wydzielonych pomieszczeń przeznaczonych dla osób zatrzymanych, w których mogą być odrębnie umieszczeni tymczasowo aresztowani i skazani, oraz warunków, którym pomieszczenia te muszą odpowiadać (Dz. U. z 2017 r. poz. 896 i 2298) w § 2 w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-uzyskania pozwolenia odpowiednio Państwowej Inspekcji Sanitarnej lub Wojskowej Inspekcji Sanitarnej;
-” .
+uzyskania pozwolenia odpowiednio Państwowej Inspekcji Sanitarnej lub Wojskowej Inspekcji Sanitarnej; ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

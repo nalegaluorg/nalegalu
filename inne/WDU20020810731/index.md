@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-05-23 |
 | Data wydania | 2002-06-21 |
-| Wejście w życie | 2003-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020810731) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/731/text.pdf) |
 
@@ -114,9 +113,11 @@ source: "eli-html"
 **Art. 75a.** Dla potrzeb kontroli granicznej, kontroli legalności pobytu, o której mowa w art. 26 ust. 1, jak również dla potrzeb innych postępowań prowadzonych na podstawie ustaw tworzy się Krajowy System Informatyczny stanowiący bazę danych prowadzoną w Krajowym Centrum Informacji Kryminalnych. ” ;
 
 - **2)** w art. 75b w ust. 1 w pkt 1 skreśla się lit. b);
-- **3)** w art. 75d: użyte w ust. 1 i 3 wyrazy „minister właściwy do spraw wewnętrznych” zastępuje się wyrazami „Szef Krajowego Centrum Informacji Kryminalnych”, w ust. 2: – skreśla się pkt 7, – w pkt 15 kropkę zastępuje się przecinkiem i dodaje się pkt 16 w brzmieniu: „ 16) Policji. ” , w ust. 4 wyrazy „o których mowa w ust. 2 pkt 1–14” zastępuje się wyrazami „o których mowa w ust. 2 pkt 1–14 i 16”;
+- **3)** w art. 75d: użyte w ust. 1 i 3 wyrazy „minister właściwy do spraw wewnętrznych” zastępuje się wyrazami „Szef Krajowego Centrum Informacji Kryminalnych”, w ust. 2: – skreśla się pkt 7, w pkt 15 kropkę zastępuje się przecinkiem i dodaje się pkt 16 w brzmieniu: „
     - **a)**
     - **b)**
+
+- **16)** Policji. ” , w ust. 4 wyrazy „o których mowa w ust. 2 pkt 1–14” zastępuje się wyrazami „o których mowa w ust. 2 pkt 1–14 i 16”;
     - **c)**
 
 **Art. 4.** W ustawie z dnia 11 kwietnia 2001 r. o zmianie ustawy o cudzoziemcach oraz o zmianie niektórych ustaw (Dz. U. Nr 42, poz. 475 i z 2002 r. Nr 25, poz. 253) w art. 18 ust. 3 otrzymuje brzmienie: „ 3. Szef Krajowego Centrum Informacji Kryminalnych utworzy Krajowy System Informatyczny do dnia 30 czerwca 2003 r. ” Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem art. 1 pkt 15, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia z mocą od dnia 5 kwietnia 2002 r.

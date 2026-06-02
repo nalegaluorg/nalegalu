@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 marca 2017 r. o zmianie ustawy o rzecznikach patentowych
+# Ustawa z dnia 9 marca 2017 r. o zmianie ustawy o rzecznikach patentowych Niniejsza ustawa w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2006/123/WE z dnia 12 grudnia 2006 r. dotyczącej usług na rynku wewnętrznym (Dz. Urz. UE L 376 z 27.12.2006, s. 36).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-09 |
 | Data wydania | 2017-03-31 |
-| Wejście w życie | 2017-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/694/text.pdf) |
 
@@ -63,5 +62,5 @@ source: "eli-html"
 
 3. Do umów z klientami, o których mowa w art. 13 ust. 1 ustawy zmienianej w art. 1, zawartych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2006/123/WE z dnia 12 grudnia 2006 r. dotyczącej usług na rynku wewnętrznym (Dz. Urz. UE L 376 z 27.12.2006, s. 36).
 

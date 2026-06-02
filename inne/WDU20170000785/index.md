@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 lutego 2017 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz niektórych innych ustaw
+# Ustawa z dnia 24 lutego 2017 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/89/UE z dnia 23 lipca 2014 r. ustanawiającą ramy planowania przestrzennego obszarów morskich (Dz. Urz. UE L 257 z 28.08.2014, str. 135). Niniejsza ustawa służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1257/2013 z dnia 20 listopada 2013 r. w sprawie recyklingu statków oraz zmieniającego rozporządzenie (WE) nr 1013/2006 i dyrektywę 2009/16/WE (Dz. Urz. UE L 330 z 10.12.2013, str. 1); 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/757 z dnia 29 kwietnia 2015 r. w sprawie monitorowania, raportowania i weryfikacji emisji dwutlenku węgla z transportu morskiego oraz zmiany dyrektywy 2009/16/WE (Dz. Urz. UE L 123 z 19.05.2015, str. 55 oraz Dz. Urz. UE L 320 z 26.11.2016, str. 1). Niniejsza ustawa w zakresie swojej regulacji wdraża postanowienia decyzji wykonawczej Komisji (UE) 2015/253 z dnia 16 lutego 2015 r. ustanawiającej zasady dotyczące pobierania próbek i sprawozdawczości na podstawie dyrektywy Rady 1999/32/WE w zakresie zawartości siarki w paliwach żeglugowych (Dz. Urz. UE L 41 z 17.02.2015, str. 55).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-24 |
 | Data wydania | 2017-04-14 |
-| Wejście w życie | 2017-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000785) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/785/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 24 lipca 2015 r. o zmianie ustawy o bezpieczeństwie morskim oraz niektórych innych ustaw oraz ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu.
+Statki przeznaczone do recyklingu
 
 **Art. 1.** W ustawie z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2015 r. poz. 434 i 881, z 2016 r. poz. 1954 oraz z 2017 r. poz. 32) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 i 9 w brzmieniu: „
 - **8)** system obiegu paliwa na statku – oznacza system dystrybucji, filtracji i oczyszczania paliwa, a także dostarczania paliwa ze zbiorników paliwowych do urządzeń spalania paliwa;
-- **9)** THETIS-EU – oznacza unijny system informacji, opracowany i obsługiwany przez Europejską Agencję Bezpieczeństwa Morskiego, zwaną dalej „EMSA”, będący platformą do raportowania i wymiany informacji o wynikach kontroli przeprowadzanych zgodnie z przepisami: niniejszej ustawy, ustawy z dnia 12 września 2002 r. o portowych urządzeniach do odbioru odpadów oraz pozostałości ładunkowych ze statków (Dz. U. poz. 1361, z 2004 r. poz. 959, z 2005 r. poz. 1683 oraz z 2010 r. poz. 1508), decyzji wykonawczej Komisji (UE) 2015/253 z dnia 16 lutego 2015 r. ustanawiającej zasady dotyczące pobierania próbek i sprawozdawczości na podstawie dyrektywy Rady 1999/32/WE w zakresie zawartości siarki w paliwach żeglugowych (Dz. Urz. UE L 41 z 17.02.2015, str. 55), zwanej dalej „decyzją 2015/253”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/757 z dnia 29 kwietnia 2015 r. w sprawie monitorowania, raportowania i weryfikacji emisji dwutlenku węgla z transportu morskiego oraz zmiany dyrektywy 2009/16/WE (Dz. Urz. UE L 123 z 19.05.2015, str. 55, z późn. zm.), zwanego dalej „rozporządzeniem 2015/757”, wykorzystującą informacje z systemów SafeSeaNet. ” ;
+- **9)** THETIS-EU – oznacza unijny system informacji, opracowany i obsługiwany przez Europejską Agencję Bezpieczeństwa Morskiego, zwaną dalej „EMSA”, będący platformą do raportowania i wymiany informacji o wynikach kontroli przeprowadzanych zgodnie z przepisami: niniejszej ustawy, ustawy z dnia 12 września 2002 r. o portowych urządzeniach do odbioru odpadów oraz pozostałości ładunkowych ze statków (Dz. U. poz. 1361, z 2004 r. poz. 959, z 2005 r. poz. 1683 oraz z 2010 r. poz. 1508), decyzji wykonawczej Komisji (UE) 2015/253 z dnia 16 lutego 2015 r. ustanawiającej zasady dotyczące pobierania próbek i sprawozdawczości na podstawie dyrektywy Rady 1999/32/WE w zakresie zawartości siarki w paliwach żeglugowych (Dz. Urz. UE L 41 z 17.02.2015, str. 55), zwanej dalej „decyzją 2015/253”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/757 z dnia 29 kwietnia 2015 r. w sprawie monitorowania, raportowania i weryfikacji emisji dwutlenku węgla z transportu morskiego oraz zmiany dyrektywy 2009/16/WE (Dz. Urz. UE L 123 z 19.05.2015, str. 55, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 320 z 26.11.2016, str. 1.), zwanego dalej „rozporządzeniem 2015/757”, wykorzystującą informacje z systemów SafeSeaNet. ” ;
 - **2)** w art. 6 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „
 - **6)** dla statków objętych rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1257/2013 z dnia 20 listopada 2013 r. w sprawie recyklingu statków oraz zmieniającym rozporządzenie (WE) nr 1013/2006 i dyrektywę 2009/16/WE (Dz. Urz. UE L 330 z 10.12.2013, str. 1), zwanym dalej „rozporządzeniem 1257/2013” – w przepisach tego rozporządzenia;
 - **7)** dla statków objętych rozporządzeniem 2015/757 – w przepisach tego rozporządzenia. ” ;
@@ -112,7 +114,7 @@ source: "eli-html"
 2. Inspekcja w zakresie zawartości siarki w paliwie żeglugowym jest przeprowadzana zgodnie z art. 3–6 decyzji 2015/253 i obejmuje:
 
 - **1)** sprawdzanie każdorazowo dokumentów dostawy paliwa zawierających informacje dostawcy paliwa o zawartości siarki w paliwie żeglugowym, w tym sprawdzanie, czy towarzyszą tym dokumentom zaplombowane próbki paliwa żeglugowego podpisane przez przedstawiciela statku przyjmującego paliwo, oraz sprawdzanie dziennika maszynowego i książki zapisów olejowych w zakresie wpisów dokumentujących operacje zmiany paliwa;
-- **2)** w odniesieniu do co najmniej 40% inspekcjonowanych statków pobieranie próbek paliwa żeglugowego: z systemu obiegu paliwa na statku, ze zbiornika paliwowego statku, jeżeli jest to technicznie możliwe, wykorzystując zaplombowane próbki paliwa żeglugowego towarzyszące dokumentom dostawy paliwa, przekazane na statek przez dostawcę paliwa zgodnie z prawidłem 18 załącznika VI do Konwencji MARPOL lub w trakcie jego dostawy na statek i badanie w nim zawartości siarki.
+- **2)** w odniesieniu do co najmniej 40% inspekcjonowanych statków pobieranie próbek paliwa żeglugowego: z systemu obiegu paliwa na statku, ze zbiornika paliwowego statku, jeżeli jest to technicznie możliwe, wykorzystując zaplombowane próbki paliwa żeglugowego towarzyszące dokumentom dostawy paliwa, przekazane na statek przez dostawcę paliwa zgodnie z prawidłem 18 załącznika VI do Konwencji MARPOL lub w trakcie jego dostawy na statek – i badanie w nim zawartości siarki.
     - **a)**
     - **b)**
     - **c)**
@@ -184,7 +186,7 @@ source: "eli-html"
 - **3)** nie monitoruje parametrów, o których mowa w art. 10 zdanie pierwsze rozporządzenia 2015/757, w sposób określony w tym przepisie,
 - **4)** nie przedkłada w terminie do dnia 30 kwietnia każdego roku Komisji Europejskiej lub dyrektorowi urzędu morskiego właściwego dla portu macierzystego statku raportu, o którym mowa w art. 11 ust. 1 rozporządzenia 2015/757,
 - **5)** wbrew art. 11 ust. 2 rozporządzenia 2015/757 nie zapewnia, aby w przypadku określonym w tym przepisie każdy statek, za który odpowiada, spełniał wymogi rozporządzenia 2015/757 w odniesieniu do całego okresu sprawozdawczego, w którym armator odpowiada za dany statek,
-- **6)** wbrew art. 12 ust. 1 rozporządzenia 2015/757 nie składa raportu, o którym mowa w art. 11 ust. 1 rozporządzenia 2015/757, z wykorzystaniem automatycznych systemów i formatów wymiany danych, w tym szablonów elektronicznych podlega karze pieniężnej do wysokości 50 000 SDR. ” ;
+- **6)** wbrew art. 12 ust. 1 rozporządzenia 2015/757 nie składa raportu, o którym mowa w art. 11 ust. 1 rozporządzenia 2015/757, z wykorzystaniem automatycznych systemów i formatów wymiany danych, w tym szablonów elektronicznych – podlega karze pieniężnej do wysokości 50 000 SDR. ” ;
 - **13)** w art. 37 w pkt 11 na końcu dodaje się przecinek i dodaje się pkt 12–18 w brzmieniu: „
 - **12)** nie posiada na statku dokumentów dostawy paliwa żeglugowego znajdującego się w zbiornikach paliwowych statku lub posiadane dokumenty nie zawierają wszystkich wymaganych informacji zgodnie z konwencją MARPOL,
 - **13)** niezgodnie z konwencją MARPOL nie posiada na statku próbek paliwa żeglugowego znajdującego się w zbiornikach paliwowych statku lub próbki paliwa żeglugowego są niezaplombowane lub niepodpisane,
@@ -389,7 +391,7 @@ source: "eli-html"
 
 **Art. 101a.**
 
-1. Kontener eksportowany z portu polskiego, przed załadowaniem na statek, musi posiadać informację o zweryfikowanej masie brutto kontenera (VGM), zgodnie z prawidłem 2 rozdziału VI Konwencji SOLAS. VGM określa się, biorąc pod uwagę wytyczne IMO dotyczące weryfikowanej masy brutto kontenera przewożącego ładunek.
+1. Kontener eksportowany z portu polskiego, przed załadowaniem na statek, musi posiadać informację o zweryfikowanej masie brutto kontenera (VGM), zgodnie z prawidłem 2 rozdziału VI Konwencji SOLAS. VGM określa się, biorąc pod uwagę wytyczne IMO dotyczące weryfikowanej masy brutto kontenera przewożącego ładunekOkólnik MSC.1/Circ.1475 – Wytyczne IMO dotyczące weryfikowanej masy brutto kontenera przewożącego ładunek (Dz. Urz..
 
 2. Za określenie VGM odpowiada załadowca wskazany w wystawionym przez przedsiębiorcę żeglugowego konosamencie, morskim liście przewozowym albo innym dokumencie transportu multimodalnego, w tym w bezpośrednim konosamencie, a w przypadku braku tych dokumentów – podmiot, który zawarł umowę przewozu z przedsiębiorcą żeglugowym albo na rzecz lub w imieniu którego taką umowę zawarto, zwany dalej „załadowcą”.
 
@@ -432,11 +434,11 @@ source: "eli-html"
 
 7. W przypadku stosowania metody 1 i metody 2 załadowca jest obowiązany do przechowywania dokumentacji potwierdzającej określenie VGM na certyfikowanych lub zalegalizowanych urządzeniach pomiarowych oraz dokumentacji wskazującej osobę odpowiedzialną przez okres co najmniej 3 lat od dnia określenia VGM.
 
-8. Kontener pakuje się, biorąc pod uwagę wytyczne IMO dotyczące pakowania jednostek transportowo-ładunkowych.
+8. Kontener pakuje się, biorąc pod uwagę wytyczne IMO dotyczące pakowania jednostek transportowo-ładunkowych.Okólnik MSC.1/Circ.1497 – Kodeks praktyki IMO/ILO/UNECE dotyczący pakowania jednostek transportowo-ładunkowych (Kodeks CTU) (Dz. Urz. Min. Gosp. Mors. i Żegl. Śródl. z 2016 r. poz. 19).
 
 9. Dyrektor urzędu morskiego właściwy dla siedziby załadowcy może przeprowadzać doraźne kontrole u załadowców stosujących metodę 1 lub metodę 2 w celu potwierdzenia spełniania warunków określonych dla stosowania metody 1 lub metody 2, w tym zweryfikowania informacji o potencjalnych nieprawidłowościach.
 
-10. O negatywnym wyniku kontroli doraźnej u załadowcy posiadającego status upoważnionego przedsiębiorcy, o którym mowa w art. 38 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.), zwanego dalej „upoważnionym przedsiębiorcą AEOS”, dyrektor urzędu morskiego powiadamia naczelnika urzędu celno-skarbowego właściwego dla portu morskiego.
+10. O negatywnym wyniku kontroli doraźnej u załadowcy posiadającego status upoważnionego przedsiębiorcy, o którym mowa w art. 38 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267), zwanego dalej „upoważnionym przedsiębiorcą AEOS”, dyrektor urzędu morskiego powiadamia naczelnika urzędu celno-skarbowego właściwego dla portu morskiego.
 
 11. Dyrektor urzędu morskiego właściwy dla siedziby załadowcy, biorąc pod uwagę skalę i powtarzalność naruszeń, może cofnąć, w drodze decyzji, zatwierdzenie, o którym mowa w ust. 4, w przypadku stwierdzenia nieprawidłowości w określaniu VGM przez załadowcę stosującego metodę 2 lub różnic między masą kontenera a VGM określoną przez załadowcę. Ponowne zatwierdzenie może nastąpić po upływie 3 miesięcy od daty cofnięcia zatwierdzenia.
 
@@ -503,9 +505,24 @@ source: "eli-html"
 
 1a. Wysokość kar pieniężnych, o których mowa w art. 126–128, ustala się z uwzględnieniem zakresu naruszenia, powtarzalności naruszeń lub korzyści finansowych uzyskanych z tytułu naruszenia. ” ;
 
-- **14)** w załączniku do ustawy: w części I: – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a. Za przeprowadzenie inspekcji w celu wydania certyfikatu dla statku uprawiającego żeglugę na wodach polarnych – 1500 PLN. ” , – pkt 18.8 otrzymuje brzmienie: 18.8. Opłata za przeprowadzenie kontroli dla stacji atestacji urządzeń i wyposażenia statku, w tym sprzętu ochrony przeciwpożarowej, środków ratunkowych oraz urządzeń radiowych i nawigacyjnych: ” , – po pkt 18.30 dodaje się pkt 18.31 w brzmieniu: 18.31. Za przeprowadzenie kontroli w celu zatwierdzenia albo potwierdzenia zatwierdzenia stosowania metody 2 – 2000 PLN. ” , w części III: – pkt 4 otrzymuje brzmienie: „ 4. Opłata za egzamin teoretyczny na jachty komercyjne: 4.1. Na dyplom kapitana na jachtach o pojemności brutto (GT) do 200 jednostek – 400 PLN. 4.2. Na poziomie operacyjnym – 400 PLN. 4.3. Na poziomie zarządzania – 500 PLN. ” , – uchyla się pkt 6.3.2.
+- **14)** w załączniku do ustawy: w części I: po pkt 4 dodaje się pkt 4a w brzmieniu: „
     - **a)**
-    - **b)**
+
+4a. Za przeprowadzenie inspekcji w celu wydania certyfikatu dla statku uprawiającego żeglugę na wodach polarnych – 1500 PLN. ” , pkt 18.8 otrzymuje brzmienie:
+
+18. 8. Opłata za przeprowadzenie kontroli dla stacji atestacji urządzeń i wyposażenia statku, w tym sprzętu ochrony przeciwpożarowej, środków ratunkowych oraz urządzeń radiowych i nawigacyjnych: ” , po pkt 18.30 dodaje się pkt 18.31 w brzmieniu:
+
+18. 31. Za przeprowadzenie kontroli w celu zatwierdzenia albo potwierdzenia zatwierdzenia stosowania metody 2 – 2000 PLN. ” , w części III: pkt 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Opłata za egzamin teoretyczny na jachty komercyjne:
+
+4. 1. Na dyplom kapitana na jachtach o pojemności brutto (GT) do 200 jednostek – 400 PLN.
+
+4. 2. Na poziomie operacyjnym – 400 PLN.
+
+4. 3. Na poziomie zarządzania – 500 PLN. ” , – uchyla się pkt 6.3.2.
 
 **Art. 6.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2016 r. poz. 1987 i 1954) wprowadza się następujące zmiany:
 
@@ -556,7 +573,7 @@ source: "eli-html"
 
 - **10)** w dziale VII dodaje się rozdział 8 w brzmieniu: „
 
-#### Rozdział 8 Statki przeznaczone do recyklingu
+#### Rozdział 8
 
 **Art. 102a.**
 
@@ -620,5 +637,5 @@ source: "eli-html"
 
 3. Jeżeli prowadzący zakład recyklingu statków nie złożył wniosku, o którym mowa w ust. 2, w terminie, o którym mowa w tym przepisie, zezwolenie na przetwarzanie albo pozwolenie na wytwarzanie odpadów lub pozwolenie zintegrowane, uwzględniające wymagania dla zezwolenia na przetwarzanie, na podstawie których jest prowadzona działalność w zakresie recyklingu statków, wygasa z upływem tego terminu.
 
-**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 68 ustawy zmienianej w art. 5 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 68 ustawy zmienianej w art. 5 w brzmieniu nadanym niniejszą ustawą, nie dłużej niż 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 8, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 68 ustawy zmienianej w art. 5 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 68 ustawy zmienianej w art. 5 w brzmieniu nadanym niniejszą ustawą, nie dłużej niż 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 8, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/89/UE z dnia 23 lipca 2014 r. ustanawiającą ramy planowania przestrzennego obszarów morskich (Dz. Urz. UE L 257 z 28.08.2014, str. 135). Niniejsza ustawa służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1257/2013 z dnia 20 listopada 2013 r. w sprawie recyklingu statków oraz zmieniającego rozporządzenie (WE) nr 1013/2006 i dyrektywę 2009/16/WE (Dz. Urz. UE L 330 z 10.12.2013, str. 1); 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/757 z dnia 29 kwietnia 2015 r. w sprawie monitorowania, raportowania i weryfikacji emisji dwutlenku węgla z transportu morskiego oraz zmiany dyrektywy 2009/16/WE (Dz. Urz. UE L 123 z 19.05.2015, str. 55 oraz Dz. Urz. UE L 320 z 26.11.2016, str. 1). Niniejsza ustawa w zakresie swojej regulacji wdraża postanowienia decyzji wykonawczej Komisji (UE) 2015/253 z dnia 16 lutego 2015 r. ustanawiającej zasady dotyczące pobierania próbek i sprawozdawczości na podstawie dyrektywy Rady 1999/32/WE w zakresie zawartości siarki w paliwach żeglugowych (Dz. Urz. UE L 41 z 17.02.2015, str. 55). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 24 lipca 2015 r. o zmianie ustawy o bezpieczeństwie morskim oraz niektórych innych ustaw oraz ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 320 z 26.11.2016, str. 1. 4) Okólnik MSC.1/Circ.1475 – Wytyczne IMO dotyczące weryfikowanej masy brutto kontenera przewożącego ładunek (Dz. Urz. 5) Okólnik MSC.1/Circ.1497 – Kodeks praktyki IMO/ILO/UNECE dotyczący pakowania jednostek transportowo-ładunkowych (Kodeks CTU) (Dz. Urz. Min. Gosp. Mors. i Żegl. Śródl. z 2016 r. poz. 19). 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267
 

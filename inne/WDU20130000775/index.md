@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-14 |
 | Data wydania | 2013-07-04 |
-| Wejście w życie | 2013-07-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000775) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/775/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 2. Przepisu ust. 1 nie stosuje się do wyrobów pirotechnicznych klas P1, P2, T2 oraz wyrobów pirotechnicznych widowiskowych klasy 4 spełniających następujące warunki:
 
 - **1)** z wyrobu nie można łatwo wydobyć materiału wybuchowego detonującego;
-- **2)** w przypadku wyrobów pirotechnicznych klasy P1 – wyrób nie może: działać w sposób detonacyjny, inicjować wybuchu wtórnych materiałów wybuchowych w formie, w jakiej został zaprojektowany i wytworzony;
+- **2)** w przypadku wyrobów pirotechnicznych klasy P1 – wyrób nie może: działać w sposób detonacyjny, inicjować wybuchu wtórnych materiałów wybuchowych – w formie, w jakiej został zaprojektowany i wytworzony;
     - **a)**
     - **b)**
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-15 |
 | Data wydania | 2007-06-29 |
-| Wejście w życie | 2007-07-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071150792) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/792/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769 i Nr 115, poz. 791.) wprowadza się następujące zmiany:
 
 - **1)** w art. 16: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -43,7 +42,7 @@ source: "eli-html"
 - **8)** osób wykonujących odpłatnie pracę, na podstawie skierowania do pracy, w czasie odbywania kary pozbawienia wolności lub tymczasowego aresztowania,
 - **9)** osób współpracujących ze zleceniobiorcami,
 - **10)** funkcjonariuszy Służby Celnej,
-- **11)** poborowych odbywających służbę zastępczą finansują z własnych środków, w równych częściach, ubezpieczeni i płatnicy składek. ” , ust. 1a otrzymuje brzmienie: „
+- **11)** poborowych odbywających służbę zastępczą – finansują z własnych środków, w równych częściach, ubezpieczeni i płatnicy składek. ” , ust. 1a otrzymuje brzmienie: „
     - **b)**
 
 1a. Składki na ubezpieczenia emerytalne osób pobierających świadczenie szkoleniowe po ustaniu zatrudnienia finansują z własnych środków, w równych częściach, ubezpieczeni i płatnicy składek. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
@@ -63,7 +62,7 @@ source: "eli-html"
 
 1. Podstawa wymiaru zasiłku chorobowego z tytułu pracy w pełnym wymiarze czasu pracy nie może być niższa od kwoty minimalnego wynagrodzenia za pracę, po odliczeniu kwoty odpowiadającej 13,71% tego wynagrodzenia, a w przypadku osób, o których mowa w art. 6 ust. 2 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz. 1314) – od kwoty wynagrodzenia, o którym mowa w tym przepisie, po odliczeniu kwoty odpowiadającej 13,71% tego wynagrodzenia. ” .
 
-**Art. 3.** W ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. Nr 199, poz. 1673, z późn. zm.) w art. 9 w ust. 3 pkt 3 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. Nr 199, poz. 1673, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 241, poz. 2074, z 2003 r. Nr 83, poz. 760 i Nr 223, poz. 2217, z 2004 r. Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 187, poz. 1925 i Nr 210, poz. 2135 oraz z 2005 r. Nr 164, poz. 1366.) w art. 9 w ust. 3 pkt 3 otrzymuje brzmienie: „
 
 - **3)** pozostałym osobom – stosuje się zasady określone w art. 46, 48 i 52 ustawy o świadczeniach pieniężnych z ubezpieczenia chorobowego, z tym że przy ustalaniu podstawy wymiaru uwzględnia się przychód stanowiący podstawę wymiaru składek na ubezpieczenie wypadkowe po odliczeniu kwoty odpowiadającej 11,26% podstawy wymiaru składki na ubezpieczenie wypadkowe. ” .
 
@@ -75,5 +74,5 @@ source: "eli-html"
 
 **Art. 7.** Przy ustalaniu podstawy wymiaru zasiłku chorobowego przysługującego osobom, o których mowa w art. 9 ust. 3 pkt 3 ustawy wymienionej w art. 3, stosuje się zasady określone w art. 46, 48 i 52 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2005 r. Nr 31, poz. 267, z 2006 r. Nr 221, poz. 1615 oraz z 2007 r. Nr 47, poz. 318), przy czym przychodem za okres od dnia 1 lipca 2007 r. do dnia 31 grudnia 2007 r. jest przychód stanowiący podstawę wymiaru składek na ubezpieczenie wypadkowe po odliczeniu kwoty odpowiadającej 13,26% podstawy wymiaru składki na ubezpieczenie wypadkowe.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 lipca 2007 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 lipca 2007 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769 i Nr 115, poz. 791. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 241, poz. 2074, z 2003 r. Nr 83, poz. 760 i Nr 223, poz. 2217, z 2004 r. Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 187, poz. 1925 i Nr 210, poz. 2135 oraz z 2005 r. Nr 164, poz. 1366.
 

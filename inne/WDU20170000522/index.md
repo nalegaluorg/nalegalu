@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-22 |
 | Data wydania | 2017-03-13 |
-| Wejście w życie | 2017-03-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000522) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/522/text.pdf) |
 
@@ -35,17 +34,13 @@ W rozporządzeniu Rady Ministrów z dnia 29 maja 2012 r. w sprawie środków bez
 1)
 w § 4:
 a)
-po ust. 5 dodaje się ust. 5a w brzmieniu:
-„
+po ust. 5 dodaje się ust. 5a w brzmieniu: „
 5a.
-Elektroniczne systemy pomocnicze wspomagające ochronę informacji niejawnych należy wykonywać zgodnie z zasadami sztuki inżynierskiej i aktualnym poziomem wiedzy technicznej, opisanym w szczególności w odpowiednich Polskich Normach.
-” ,
+Elektroniczne systemy pomocnicze wspomagające ochronę informacji niejawnych należy wykonywać zgodnie z zasadami sztuki inżynierskiej i aktualnym poziomem wiedzy technicznej, opisanym w szczególności w odpowiednich Polskich Normach. ” ,
 b)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Elektroniczne systemy pomocnicze wspomagające ochronę informacji niejawnych powinny posiadać wydane przez dostawcę, z uwzględnieniem przepisów o systemie oceny zgodności, poświadczenia zgodności z wymogami określonymi w rozporządzeniu.
-” ;
+Elektroniczne systemy pomocnicze wspomagające ochronę informacji niejawnych powinny posiadać wydane przez dostawcę, z uwzględnieniem przepisów o systemie oceny zgodności, poświadczenia zgodności z wymogami określonymi w rozporządzeniu. ” ;
 2)
 w załączniku nr 2 do rozporządzenia:
 a)
@@ -55,5 +50,28 @@ w części III tabela „KATEGORIA K4: Kontrola dostępu Środek bezpieczeństwa
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Załącznik – Tekst załącznika
-KATEGORIA K4: Kontrola dostępu Środek bezpieczeństwa K4S1 – Systemy kontroli dostępu Typ/Punktacja Funkcje lub cechy Typ 44 pkt Elektroniczny automatyczny system kontroli dostępu:1) obejmuje wszystkie wejścia i wyjścia kontrolowanego pomieszczenia lub obszaru;2) spełnia co najmniej wymagania systemu, w którym rozpoznanie następuje w wyniku powiązania odczytu identyfikatora (karty, klucza itp.) z wprowadzeniem informacji zapamiętanej (hasło, osobisty numer identyfikacyjny PIN) lub powiązania odczytu cech biometrycznych (odciski palców, kształt dłoni, tęczówka oka, układ naczyń krwionośnych itp.) z wprowadzeniem informacji zapamiętanej, lub powiązania odczytu identyfikatora z odczytem cech biometrycznych, a na przejściach stosuje się uzależnienie uprawnień dostępu od czasu oraz rejestruje zdarzenia;3) zapewnia właściwy stopień ochrony, wymagający jedynie minimalnego nadzoru przez personel bezpieczeństwa;4) jest stosowany w połączeniu z barierą dostępu uniemożliwiającą powrót, działającą na zasadzie uniemożliwiającej otwarcie danego przejścia kontrolowanego, jeżeli wcześniej nie nastąpiło wyjście ze strefy, do której zamierza się wejść, albo bez uprzedniego wejścia do poprzedzającej go strefy;5) przekazuje sygnały ostrzeżeń i alarmów do stacji monitoringu obsługiwanej przez personel bezpieczeństwa. Typ 33 pkt Elektroniczny automatyczny system kontroli dostępu:1) obejmuje wszystkie wejścia i wyjścia kontrolowanego pomieszczenia lub obszaru;2) spełnia co najmniej wymagania systemu, w którym rozpoznanie następuje w wyniku powiązania odczytu identyfikatora (karty, klucza itp.) z wprowadzeniem informacji zapamiętanej (hasło, osobisty numer identyfikacyjny PIN) lub powiązania odczytu cech biometrycznych (odciski palców, kształt dłoni, tęczówka oka, układ naczyń krwionośnych itp.) z wprowadzeniem informacji zapamiętanej, lub powiązania odczytu identyfikatora z odczytem cech biometrycznych, a na przejściach stosuje się uzależnienie uprawnień dostępu od czasu oraz rejestruje zdarzenia;3) wstęp jest kontrolowany przez odpowiednią barierę, która może wymagać bezpośredniego nadzoru przez personel bezpieczeństwa. Typ 22 pkt Dopuszcza się zastosowanie jednego z poniższych rozwiązań:1) elektroniczny automatyczny system kontroli dostępu: a) obejmuje wszystkie wejścia i wyjścia kontrolowanego obszaru, b) spełnia co najmniej wymagania systemu, w którym rozpoznanie następuje w wyniku odczytu identyfikatora (karty, klucza itp.) lub odczytu cech biometrycznych (odciski palców, kształt dłoni, tęczówka oka, układ naczyń krwionośnych itp.), a na przejściach stosuje się uzależnienie uprawnień dostępu od czasu oraz rejestruje zdarzenia, c) wstęp jest kontrolowany przez odpowiednią barierę, która może wymagać bezpośredniego nadzoru strażnika;2) system kontroli dostępu obejmujący wszystkie wejścia i wyjścia z kontrolowanego obszaru, wymagający: a) obecności personelu bezpieczeństwa, b) zastosowania fotografii lub systemu wstępu na podstawie unikalnych przepustek; w zależności od ustaleń związanych z przyznawaniem wstępu mogą być akceptowane również inne dokumenty identyfikacyjne, np. legitymacja służbowa. Typ 11 pkt System tego typu może być stosowany do zabezpieczania obszarów, w których są przetwarzane informacje niejawne najwyżej o klauzuli „poufne”.System kontroli dostępu oparty na zamkniętych drzwiach pomieszczenia lub obszaru, do którego można uzyskać dostęp za pomocą:1) kodów – weryfikowanych przez elektroniczny automatyczny system kontroli dostępu, w którym rozpoznanie następuje w wyniku wprowadzenia informacji zapamiętanej (hasło, osobisty numer identyfikacyjny PIN), a na przejściach stosuje się uzależnienie uprawnień dostępu od czasu oraz rejestruje zdarzenia, lub2) kluczy wydawanych uprawnionym osobom.
+KATEGORIA K4: Kontrola dostępu Środek bezpieczeństwa K4S1 – Systemy kontroli dostępu
+Typ/Punktacja Funkcje lub cechy Typ 4
+4 pkt Elektroniczny automatyczny system kontroli dostępu:
+1) obejmuje wszystkie wejścia i wyjścia kontrolowanego pomieszczenia lub obszaru;
+2) spełnia co najmniej wymagania systemu, w którym rozpoznanie następuje w wyniku powiązania odczytu identyfikatora (karty, klucza itp.) z wprowadzeniem informacji zapamiętanej (hasło, osobisty numer identyfikacyjny PIN) lub powiązania odczytu cech biometrycznych (odciski palców, kształt dłoni, tęczówka oka, układ naczyń krwionośnych itp.) z wprowadzeniem informacji zapamiętanej, lub powiązania odczytu identyfikatora z odczytem cech biometrycznych, a na przejściach stosuje się uzależnienie uprawnień dostępu od czasu oraz rejestruje zdarzenia;
+3) zapewnia właściwy stopień ochrony, wymagający jedynie minimalnego nadzoru przez personel bezpieczeństwa;
+4) jest stosowany w połączeniu z barierą dostępu uniemożliwiającą powrót, działającą na zasadzie uniemożliwiającej otwarcie danego przejścia kontrolowanego, jeżeli wcześniej nie nastąpiło wyjście ze strefy, do której zamierza się wejść, albo bez uprzedniego wejścia do poprzedzającej go strefy;
+5) przekazuje sygnały ostrzeżeń i alarmów do stacji monitoringu obsługiwanej przez personel bezpieczeństwa. Typ 3
+3 pkt Elektroniczny automatyczny system kontroli dostępu:
+1) obejmuje wszystkie wejścia i wyjścia kontrolowanego pomieszczenia lub obszaru;
+2) spełnia co najmniej wymagania systemu, w którym rozpoznanie następuje w wyniku powiązania odczytu identyfikatora (karty, klucza itp.) z wprowadzeniem informacji zapamiętanej (hasło, osobisty numer identyfikacyjny PIN) lub powiązania odczytu cech biometrycznych (odciski palców, kształt dłoni, tęczówka oka, układ naczyń krwionośnych itp.) z wprowadzeniem informacji zapamiętanej, lub powiązania odczytu identyfikatora z odczytem cech biometrycznych, a na przejściach stosuje się uzależnienie uprawnień dostępu od czasu oraz rejestruje zdarzenia;
+3) wstęp jest kontrolowany przez odpowiednią barierę, która może wymagać bezpośredniego nadzoru przez personel bezpieczeństwa. Typ 2
+2 pkt Dopuszcza się zastosowanie jednego z poniższych rozwiązań:
+1) elektroniczny automatyczny system kontroli dostępu:
+a) obejmuje wszystkie wejścia i wyjścia kontrolowanego obszaru,
+b) spełnia co najmniej wymagania systemu, w którym rozpoznanie następuje w wyniku odczytu identyfikatora (karty, klucza itp.) lub odczytu cech biometrycznych (odciski palców, kształt dłoni, tęczówka oka, układ naczyń krwionośnych itp.), a na przejściach stosuje się uzależnienie uprawnień dostępu od czasu oraz rejestruje zdarzenia,
+c) wstęp jest kontrolowany przez odpowiednią barierę, która może wymagać bezpośredniego nadzoru strażnika;
+2) system kontroli dostępu obejmujący wszystkie wejścia i wyjścia z kontrolowanego obszaru, wymagający:
+a) obecności personelu bezpieczeństwa,
+b) zastosowania fotografii lub systemu wstępu na podstawie unikalnych przepustek; w zależności od ustaleń związanych z przyznawaniem wstępu mogą być akceptowane również inne dokumenty identyfikacyjne, np. legitymacja służbowa. Typ 1
+1 pkt System tego typu może być stosowany do zabezpieczania obszarów, w których są przetwarzane informacje niejawne najwyżej o klauzuli „poufne”.
+System kontroli dostępu oparty na zamkniętych drzwiach pomieszczenia lub obszaru, do którego można uzyskać dostęp za pomocą:
+1) kodów – weryfikowanych przez elektroniczny automatyczny system kontroli dostępu, w którym rozpoznanie następuje w wyniku wprowadzenia informacji zapamiętanej (hasło, osobisty numer identyfikacyjny PIN), a na przejściach stosuje się uzależnienie uprawnień dostępu od czasu oraz rejestruje zdarzenia, lub
+2) kluczy wydawanych uprawnionym osobom.
 

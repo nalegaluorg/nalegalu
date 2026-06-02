@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-21 |
 | Data wydania | 2008-12-18 |
-| Wejście w życie | 2009-06-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231463) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1463/text.pdf) |
 
@@ -72,7 +71,7 @@ source: "eli-html"
 - **6)** wzory wniosków, o których mowa w pkt 3 i 4 oraz zawiadomień o wpisie, odmowie dokonania wpisu, a także o wykreśleniu z rejestru podmiotów uprawnionych do wydawania certyfikatów;
 - **7)** sposób oznaczania psów asystujących i psów w trakcie szkolenia. ” .
 
-**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844, z późn. zm.) w art. 18a po pkt 2 dodaje się pkt 2a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 220, poz. 1601, Nr 225, poz. 1635, Nr 245, poz. 1775, Nr 249, poz. 1828 i Nr 251, poz. 1847 oraz z 2008 r. Nr 93, poz. 585 i Nr 116, poz. 730.) w art. 18a po pkt 2 dodaje się pkt 2a w brzmieniu: „
 
 - **2a)** osób niepełnosprawnych w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2008 r. Nr 14, poz. 92 i Nr 223, poz. 1463) – z tytułu posiadania psa asystującego; ” .
 
@@ -82,5 +81,5 @@ source: "eli-html"
 
 **Art. 4.** Do dnia 30 czerwca 2010 r. osoby korzystające z pomocy psów asystujących korzystają z uprawnień, o których mowa w art. 20a ustawy zmienianej w art. 1, na podstawie dotychczas posiadanych dokumentów.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 220, poz. 1601, Nr 225, poz. 1635, Nr 245, poz. 1775, Nr 249, poz. 1828 i Nr 251, poz. 1847 oraz z 2008 r. Nr 93, poz. 585 i Nr 116, poz. 730.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1996-09-27 |
 | Data wydania | 1996-10-31 |
-| Wejście w życie | 1997-01-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961280602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/602/text.pdf) |
 
@@ -73,8 +72,11 @@ source: "eli-html"
 
 8. Uprawniony do rybactwa za wydane zezwolenia na uprawianie amatorskiego połowu ryb może pobierać opłatę w wysokości przez siebie ustalonej. ” ;
 
-- **5)** w art. 8: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) w odległości mniejszej niż 50 m od budowli i urządzeń hydrotechnicznych piętrzących wodę, ” – w pkt 5 po wyrazie „sieciami” dodaje się wyrazy „, wędkami lub kuszami”, – pkt 11 otrzymuje brzmienie: „ 11) więcej niż dwiema wędkami jednocześnie, a w wypadku ryb łososiowatych i lipieni – więcej niż jedną wędką, ” w ust. 2 na końcu zdania skreśla się kropkę i dodaje się wyrazy „i krześliskach.”;
+- **5)** w art. 8: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** w odległości mniejszej niż 50 m od budowli i urządzeń hydrotechnicznych piętrzących wodę, ” – w pkt 5 po wyrazie „sieciami” dodaje się wyrazy „, wędkami lub kuszami”, pkt 11 otrzymuje brzmienie: „
+- **11)** więcej niż dwiema wędkami jednocześnie, a w wypadku ryb łososiowatych i lipieni – więcej niż jedną wędką, ” w ust. 2 na końcu zdania skreśla się kropkę i dodaje się wyrazy „i krześliskach.”;
     - **b)**
 
 - **6)** w art. 10 ust. 2 otrzymuje brzmienie: „

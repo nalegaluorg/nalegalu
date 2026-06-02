@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-01-07 |
 | Data wydania | 2005-02-09 |
-| Wejście w życie | 2005-02-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050230187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/187/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206, Nr 152, poz. 1598 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
 
@@ -91,7 +90,7 @@ source: "eli-html"
 3. Miesięczną wysokość dochodu na osobę w rodzinie studenta uprawniającą do ubiegania się o stypendium socjalne ustala się na zasadach określonych w ustawie, o której mowa w ust. 2, z uwzględnieniem ust. 2a, z zastrzeżeniem, że do dochodu nie wlicza się:
 
 - **1)** dochodów, o których mowa w ust. 2a pkt 3, jeżeli student jest samodzielny finansowo,
-- **2)** świadczeń, o których mowa w art. 152 ust. 1, oraz świadczeń, o których mowa w art. 75 ust. 1 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590, z późn. zm.),
+- **2)** świadczeń, o których mowa w art. 152 ust. 1, oraz świadczeń, o których mowa w art. 75 ust. 1 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206, Nr 152, poz. 1598 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71 i Nr 23, poz. 187.),
 - **3)** świadczeń otrzymywanych na podstawie Działania Zintegrowanego Programu Operacyjnego Rozwoju Regionalnego „Wyrównywanie szans edukacyjnych poprzez programy stypendialne”,
 - **4)** świadczeń pomocy materialnej dla uczniów otrzymywanych na podstawie ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, Nr 273, poz. 2703 i Nr 281, poz. 2781 oraz z 2005 r. Nr 17, poz. 141). ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **c)**
@@ -134,7 +133,7 @@ source: "eli-html"
 
 **Art. 161a.** W przypadku niepaństwowych szkół wyższych uprawnienia dziekana, rektora, rady wydziału oraz senatu, o których mowa w art. 24 ust. 7 i 8, art. 152a-152c i art. 152h, przysługują odpowiednio określonym w statucie jednoosobowym oraz kolegialnym organom uczelni. ” .
 
-**Art. 2.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206, Nr 152, poz. 1598 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
 
@@ -281,5 +280,5 @@ source: "eli-html"
 
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 33 ust. 2 ustawy wymienionej w art. 1 zachowują moc do czasu wydania przepisów wykonawczych na podstawie art. 33 ust. 2 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206, Nr 152, poz. 1598 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206, Nr 152, poz. 1598 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71 i Nr 23, poz. 187. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206, Nr 152, poz. 1598 i Nr 179, poz. 1845 oraz z 2005 r. Nr 10, poz. 71.
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-15 |
 | Data wydania | 2015-12-24 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002190) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2190/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 9 pkt 4 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 9 pkt 4 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045, 1137, 1348, 1418, 1587, 1595 i 1854.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wysokość zryczałtowanych kosztów przeprowadzenia dowodu z opinii opiniodawczego zespołu sądowych specjalistów w sprawach rodzinnych i opiekuńczych.
 § 2.
@@ -39,5 +38,5 @@ W przypadku gdy w wydawaniu opinii opiniodawczego zespołu sądowych specjalist�
 § 5.
 Łączne zryczałtowane koszty przeprowadzenia dowodu z opinii opiniodawczego zespołu sądowych specjalistów sporządzonej na podstawie badań psychologicznych, pedagogicznych lub lekarskich nie mogą przekraczać 60% kwoty bazowej.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045, 1137, 1348, 1418, 1587, 1595 i 1854.
 

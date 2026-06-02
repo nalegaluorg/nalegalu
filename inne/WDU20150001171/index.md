@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 28 lipca 2015 r. w sprawie przetargu na udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesji na wydobywanie węglowodorów ze złoża
+# Rozporządzenie Rady Ministrówz dnia 28 lipca 2015 r. w sprawie przetargu na udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesji na wydobywanie węglowodorów ze złoża Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 94/22/WE z dnia 30 maja 1994 r. w sprawie warunków udzielania i korzystania z zezwoleń na poszukiwanie, badanie i produkcję węglowodorów (Dz. Urz. WE L 164 z 30.06.1994, str. 3; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 2, str. 262).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-28 |
 | Data wydania | 2015-08-14 |
-| Wejście w życie | 2015-08-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001171) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1171/text.pdf) |
 
@@ -211,5 +210,5 @@ Zakończeniem pracy komisji przetargowej jest przekazanie organowi koncesyjnemu 
 6.
 W przypadku uwzględnienia przez organ koncesyjny protestu, o którym mowa w art. 49n ustawy, do powtórzenia oprotestowanych czynności przepisy § 3–6 oraz § 7 ust. 1–4 stosuje się odpowiednio. W takim przypadku zakończeniem pracy komisji przetargowej jest przekazanie organowi koncesyjnemu protokołu z wykonania oprotestowanych czynności.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 94/22/WE z dnia 30 maja 1994 r. w sprawie warunków udzielania i korzystania z zezwoleń na poszukiwanie, badanie i produkcję węglowodorów (Dz. Urz. WE L 164 z 30.06.1994, str. 3; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 2, str. 262).
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-03-04 |
 | Data wydania | 2005-04-20 |
-| Wejście w życie | 2005-04-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050640567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/567/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. Nr 155, poz. 1016, z późn. zm.) w rozdziale 4 Udostępnianie dokumentów przez Instytut Pamięci dodaje się art. 29a w brzmieniu: „
+**Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. Nr 155, poz. 1016, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, z 2000 r. Nr 48, poz. 553, z 2002 r. Nr 74, poz. 676 i Nr 153, poz. 1271 oraz z 2003 r. Nr 139, poz. 1326.) w rozdziale 4 Udostępnianie dokumentów przez Instytut Pamięci dodaje się art. 29a w brzmieniu: „
 
 **Art. 29a.**
 
@@ -38,5 +37,5 @@ source: "eli-html"
 
 **Art. 2.** Przepisy niniejszej ustawy stosuje się również do wniosków, o których mowa w art. 29a ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, złożonych przed dniem jej wejścia w życie.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, z 2000 r. Nr 48, poz. 553, z 2002 r. Nr 74, poz. 676 i Nr 153, poz. 1271 oraz z 2003 r. Nr 139, poz. 1326.
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-06 |
 | Data wydania | 2014-08-18 |
-| Wejście w życie | 2014-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1092/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 783 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 783 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945 i 1091.) zarządza się, co następuje:
 § 1.
 1.
 Ustala się następujące brzmienie klauzuli wykonalności: „W imieniu Rzeczypospolitej Polskiej, dnia ….. 20….. r. Sąd ….. w ….. / Referendarz sądowy w Sądzie ….. w. …. stwierdza, że niniejszy tytuł uprawnia do egzekucji w całości / w zakresie ….. oraz poleca wszystkim organom, urzędom oraz osobom, których to może dotyczyć, aby postanowienia tytułu niniejszego wykonały, a gdy o to prawnie będą wezwane, udzieliły pomocy.”.
@@ -48,5 +47,5 @@ numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku – numer w innym 
 § 5.
 Przepisu § 4 nie stosuje się do klauzul wykonalności nadawanych orzeczeniom sądów lub referendarzy sądowych, które wydano w postępowaniach wszczętych przed dniem 7 lipca 2013 r., oraz ugodom sądowym zawartym w postępowaniach wszczętych przed tym dniem.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 443 oraz z 2013 r. poz. 859), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 2 ustawy z dnia 7 lutego 2014 r. o zmianie ustawy – Kodeks postępowania cywilnego (Dz. U. poz. 293). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945 i 1091. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 443 oraz z 2013 r. poz. 859), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 2 ustawy z dnia 7 lutego 2014 r. o zmianie ustawy – Kodeks postępowania cywilnego (Dz. U. poz. 293).
 

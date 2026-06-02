@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 26 kwietnia 2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej pośrednika w obrocie nieruchomościami
+# Rozporządzenie Ministra Finansówz dnia 26 kwietnia 2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej pośrednika w obrocie nieruchomościami Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-26 |
 | Data wydania | 2019-04-29 |
-| Wejście w życie | 2019-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000804) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/804/text.pdf) |
 
@@ -53,6 +52,5 @@ Minimalna suma gwarancyjna ubezpieczenia OC, w odniesieniu do jednego zdarzenia 
 2.
 Kwota, o której mowa w ust. 1, jest ustalana przy zastosowaniu kursu średniego euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym umowa ubezpieczenia OC została zawarta.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 grudnia 2013 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej pośrednika w obrocie nieruchomościami (Dz. U. poz. 1626), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 216 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650).
+Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 grudnia 2013 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej pośrednika w obrocie nieruchomościami (Dz. U. poz. 1626), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 216 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 grudnia 2013 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej pośrednika w obrocie nieruchomościami (Dz. U. poz. 1626), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 216 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650).
 

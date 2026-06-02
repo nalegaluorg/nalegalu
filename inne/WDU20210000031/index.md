@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 18 grudnia 2020 r. w sprawie szczegółowego zakresu informacji zawartych we wniosku o ponowne wszczęcie egzekucji administracyjnej
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 18 grudnia 2020 r. w sprawie szczegółowego zakresu informacji zawartych we wniosku o ponowne wszczęcie egzekucji administracyjnej Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-18 |
 | Data wydania | 2021-01-07 |
-| Wejście w życie | 2021-02-20 |
 | Ostatnia zmiana | 2025-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000031) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/31/text.pdf) |
 
@@ -68,6 +67,5 @@ informację o nieobciążeniu wierzyciela kosztami egzekucyjnymi powstałymi w u
 § 4.
 Wniosek sporządzony na podstawie więcej niż jednego dotychczasowego tytułu wykonawczego lub dalszego tytułu wykonawczego zawiera dane, o których mowa w § 2 ust. 1 pkt 3, 5, 7−10 i 12, § 3 pkt 1 i 2 oraz art. 26 § 1e pkt 4 i 5 ustawy, w zakresie numeru i daty wydania postanowienia o umorzeniu postępowania egzekucyjnego, odrębnie dla każdego tytułu wykonawczego lub dalszego tytułu wykonawczego.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 20 lutego 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem 20 lutego 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

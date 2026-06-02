@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1996-08-30 |
 | Data wydania | 1996-12-04 |
-| Wejście w życie | 1997-01-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961390646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/646/text.pdf) |
 
@@ -30,8 +29,11 @@ source: "eli-html"
 
 - **1)** preambuła otrzymuje brzmienie: „ Uznając, że życie jest fundamentalnym dobrem człowieka, a troska o życie i zdrowie należy do podstawowych obowiązków państwa, społeczeństwa i obywatela; uznając prawo każdego do odpowiedzialnego decydowania o posiadaniu dzieci oraz prawo dostępu do informacji, edukacji, poradnictwa i środków umożliwiających korzystanie z tego prawa, stanowi się, co następuje: ” ;
 - **2)** art. 1 otrzymuje brzmienie: „ Prawo do życia podlega ochronie, w tym również w fazie prenatalnej w granicach określonych w ustawie. ” ;
-- **3)** w art. 2: w ust. 1: – w zdaniu pierwszym wyrazy „opieki socjalnej, medycznej i prawnej” zastępuje się wyrazami „opieki medycznej, socjalnej i prawnej”, – pkt 1 otrzymuje brzmienie: „ 1) opiekę prenatalną nad płodem oraz opiekę medyczną nad kobietą w ciąży, ” – pkt 3 otrzymuje brzmienie: „ 3) dostęp do szczegółowych informacji na temat uprawnień, zasiłków i świadczeń przysługujących kobietom w ciąży, matkom, ojcom oraz ich dzieciom oraz do informacji dotyczących instytucji i organizacji pomagających w rozwiązywaniu problemów psychologicznych i społecznych, a także zajmujących się sprawami przysposobienia. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **3)** w art. 2: w ust. 1: – w zdaniu pierwszym wyrazy „opieki socjalnej, medycznej i prawnej” zastępuje się wyrazami „opieki medycznej, socjalnej i prawnej”, pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** opiekę prenatalną nad płodem oraz opiekę medyczną nad kobietą w ciąży, ” pkt 3 otrzymuje brzmienie: „
+- **3)** dostęp do szczegółowych informacji na temat uprawnień, zasiłków i świadczeń przysługujących kobietom w ciąży, matkom, ojcom oraz ich dzieciom oraz do informacji dotyczących instytucji i organizacji pomagających w rozwiązywaniu problemów psychologicznych i społecznych, a także zajmujących się sprawami przysposobienia. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Organy administracji rządowej oraz samorządu terytorialnego, w zakresie swoich kompetencji określonych w przepisach szczególnych, są zobowiązane zapewnić swobodny dostęp do informacji i badań prenatalnych, szczególnie wtedy, gdy istnieje podwyższone ryzyko bądź podejrzenie wystąpienia wady genetycznej lub rozwojowej płodu albo nieuleczalnej choroby zagrażającej życiu płodu. ” ;

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-02-25 |
 | Data wydania | 2011-04-26 |
-| Wejście w życie | 2011-05-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110870483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/483/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm.) art. 57 otrzymuje brzmienie: „
+**Art. 1.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 85, poz. 458.) art. 57 otrzymuje brzmienie: „
 
 **Art. 57.**
 
@@ -40,5 +39,5 @@ source: "eli-html"
 
 **Art. 2.** Postępowanie dyscyplinarne wszczęte przed dniem wejścia w życie ustawy toczy się do końca postępowania w danej instancji według przepisów dotychczasowych.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 85, poz. 458.
 

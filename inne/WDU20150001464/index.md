@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-02 |
 | Data wydania | 2015-09-24 |
-| Wejście w życie | 2015-10-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001464) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1464/text.pdf) |
 
@@ -85,5 +84,5 @@ informacji, komu, kiedy, w jakim zakresie i przez kogo zostały udostępnione da
 § 11.
 Przepisy rozporządzenia stosuje się odpowiednio do zabezpieczenia i przetwarzania danych o podmiotach zbiorowych zgromadzonych w Rejestrze.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 16 maja 2012 r. w sprawie gromadzenia danych osobowych i danych o podmiotach zbiorowych w Krajowym Rejestrze Karnym oraz usuwania tych danych z Rejestru (Dz. U. z 2014 r. poz. 1057), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 27 pkt 4 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 16 maja 2012 r. w sprawie gromadzenia danych osobowych i danych o podmiotach zbiorowych w Krajowym Rejestrze Karnym oraz usuwania tych danych z Rejestru (Dz. U. z 2014 r. poz. 1057), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 27 pkt 4 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396).
 

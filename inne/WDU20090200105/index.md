@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
+# Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej oraz ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-19 |
 | Data wydania | 2009-01-09 |
-| Wejście w życie | 2009-02-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090200105) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/105/text.pdf) |
 
@@ -57,8 +56,11 @@ source: "eli-html"
 
 - **4)** w art. 17 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 - **3)** ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz wymogów określonych w przepisach Unii Europejskiej z uwzględnieniem przepisów krajowych wdrażających te przepisy. ” ;
-- **5)** w art. 22: w ust. 4: – w pkt 2 lit. b otrzymuje brzmienie: „ b) kopię wniosku o stwierdzenie nabycia spadku: – potwierdzoną za zgodność z oryginałem przez sąd albo – potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora publicznego albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji, albo ” , – dodaje się pkt 3 w brzmieniu: „ 3) zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza. ” , ust. 6 otrzymuje brzmienie: „
+- **5)** w art. 22: w ust. 4: w pkt 2 lit. b otrzymuje brzmienie: „ kopię wniosku o stwierdzenie nabycia spadku: – potwierdzoną za zgodność z oryginałem przez sąd albo – potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora publicznego albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji, albo ” , dodaje się pkt 3 w brzmieniu: „
     - **a)**
+    - **b)**
+
+- **3)** zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza. ” , ust. 6 otrzymuje brzmienie: „
     - **b)**
 
 6. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca wstępujący do postępowania w sprawie przyznania płatności lub pomocy, o których mowa w ust. 1 i 1a, jest obowiązany do dołączenia do wniosku, o którym mowa w ust. 2, oświadczeń pozostałych spadkobierców, że wyrażają zgodę na wstąpienie tego spadkobiercy na miejsce spadkodawcy i przyznanie mu płatności lub pomocy. ” , ust. 8 otrzymuje brzmienie: „
@@ -88,7 +90,7 @@ source: "eli-html"
 4. Spadkobierca rolnika, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 1, składa wniosek o wypłatę płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku do kierownika biura powiatowego Agencji, do którego został złożony wniosek o przyznanie tych płatności lub pomocy przez spadkodawcę, wraz z:
 
 - **1)** prawomocnym postanowieniem sądu o stwierdzeniu nabycia spadku – w terminie 14 dni od dnia uprawomocnienia się postanowienia sądu albo
-- **2)** zarejestrowanym aktem poświadczenia dziedziczenia sporządzonym przez notariusza – w terminie 14 dni od dnia wpisu aktu poświadczenia dziedziczenia do rejestru aktów poświadczenia dziedziczenia jednak nie później niż w ciągu 6 miesięcy od dnia doręczenia spadkodawcy decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku.
+- **2)** zarejestrowanym aktem poświadczenia dziedziczenia sporządzonym przez notariusza – w terminie 14 dni od dnia wpisu aktu poświadczenia dziedziczenia do rejestru aktów poświadczenia dziedziczenia – jednak nie później niż w ciągu 6 miesięcy od dnia doręczenia spadkodawcy decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku.
 
 5. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca występujący z wnioskiem, o którym mowa w ust. 4, jest obowiązany dołączyć do tego wniosku oświadczenia pozostałych spadkobierców, że wyrażają zgodę na wypłatę mu płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku. ” ;
 
@@ -204,12 +206,12 @@ source: "eli-html"
 - **3)** określa się termin, o którym mowa w art. 66 ust. 2b rozporządzenia nr 796/2004. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 - **1)** liczbę punktów, jaką przypisuje się stwierdzonej niezgodności w ramach oceny wagi, o której mowa w art. 48 ust. 1 lit. c rozporządzenia nr 796/2004, w zależności od rodzaju stwierdzonego naruszenia,
 - **2)** przypadki, które uznaje się za drobną niezgodność, oraz liczbę punktów, jaką przypisuje się stwierdzonej drobnej niezgodności w ramach oceny wagi, o której mowa w art. 48 ust. 1 lit. c rozporządzenia nr 796/2004, jeżeli rolnik nie zrealizował działań określonych w decyzji, o której mowa w art. 37b ust. 2,
-- **3)** wyrażoną w procentach wielkość zmniejszenia płatności obszarowych, płatności cukrowej lub płatności do pomidorów w zależności od liczby punktów przypisanych stwierdzonym niezgodnościom biorąc pod uwagę przeprowadzenie oceny zgodnie z zasadami określonymi w art. 7 ust. 2 rozporządzenia nr 1782/2003, art. 41, art. 66 ust. 1, 2, 2b-5 oraz art. 67 rozporządzenia nr 796/2004, jak również wielkość gospodarstwa rolnego, jego położenie geograficzne, liczbę zwierząt znajdujących się w gospodarstwie rolnym oraz liczbę zwierząt nieoznakowanych zgodnie z wymogami. ” ;
+- **3)** wyrażoną w procentach wielkość zmniejszenia płatności obszarowych, płatności cukrowej lub płatności do pomidorów w zależności od liczby punktów przypisanych stwierdzonym niezgodnościom – biorąc pod uwagę przeprowadzenie oceny zgodnie z zasadami określonymi w art. 7 ust. 2 rozporządzenia nr 1782/2003, art. 41, art. 66 ust. 1, 2, 2b-5 oraz art. 67 rozporządzenia nr 796/2004, jak również wielkość gospodarstwa rolnego, jego położenie geograficzne, liczbę zwierząt znajdujących się w gospodarstwie rolnym oraz liczbę zwierząt nieoznakowanych zgodnie z wymogami. ” ;
 - **17)** art. 40 otrzymuje brzmienie: „
 
 **Art. 40.** Prezes Agencji odstępuje od ustalenia kwot nienależnie lub nadmiernie pobranych płatności obszarowych, płatności cukrowej lub płatności do pomidorów, o którym mowa w art. 29 ust. 1 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634 i Nr 227, poz. 1505), w przypadku gdy kwota każdej z tych płatności nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 3 rozporządzenia nr 1913/2006. ” .
 
-**Art. 2.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842, późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 145, poz. 916, Nr 195, poz. 1201, Nr 227, poz. 1505 i Nr 237, poz. 1655 oraz z 2009 r. Nr 18, poz. 97.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 2 w pkt 4 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ kontroli na miejscu w zakresie przestrzegania wymogów wskazanych w załączniku III lit. A ust. 6–8a rozporządzenia Rady (WE) nr 1782/2003 z dnia 29 września 2003 r. ustanawiającego wspólne zasady dla systemów wsparcia bezpośredniego w ramach wspólnej polityki rolnej i ustanawiającego określone systemy wsparcia dla rolników oraz zmieniającego rozporządzenia (EWG) nr 2019/93, (WE) nr 1452/2001, (WE) nr 1453/2001, (WE) nr 1454/2001, (WE) nr 1868/94, (WE) nr 1251/1999, (WE) nr 1254/1999, (WE) nr 1673/2000, (EWG) nr 2358/71 i (WE) nr 2529/2001 (Dz. Urz. UE L 270 z 21.10.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 40, str. 269, z późn. zm.), jako specjalny organ kontroli, o którym mowa w art. 42 ust. 1 rozporządzenia Komisji (WE) nr 796/2004 z dnia 21 kwietnia 2004 r. ustanawiającego szczegółowe zasady wdrażania wzajemnej zgodności, modulacji oraz zintegrowanego systemu administracji i kontroli przewidzianych w rozporządzeniu Rady (WE) nr 1782/2003 ustanawiającym wspólne zasady dla systemów pomocy bezpośredniej w zakresie wspólnej polityki rolnej oraz określonych systemów wsparcia dla rolników (Dz. Urz. UE L 141 z 30.04.2004, str. 18, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 44, str. 243, z późn. zm.); ” ;
     - **c)**
@@ -260,5 +262,5 @@ source: "eli-html"
 
 2. Przepisy wykonawcze wydane na podstawie art. 29 ust. 1 pkt 1 ustawy wymienionej w art. 3, dotyczące działań objętych programem, w których warunkiem przyznania pomocy jest spełnianie w ramach wzajemnej zgodności wymogów lub norm, o których mowa w rozporządzeniu Rady (WE) nr 1782/2003 z dnia 29 września 2003 r. ustanawiającego wspólne zasady dla systemów wsparcia bezpośredniego w ramach wspólnej polityki rolnej i ustanawiającego określone systemy wsparcia dla rolników oraz zmieniającego rozporządzenia (EWG) nr 2019/93, (WE) nr 1452/2001, (WE) nr 1453/2001, (WE) nr 1454/2001, (WE) nr 1868/94, (WE) nr 1251/1999, (WE) nr 1254/1999, (WE) nr 1673/2000, (EWG) nr 2358/71 i (WE) nr 2529/2001 (Dz. Urz. UE L 270 z 21.10.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 40, str. 269, z późn. zm.) oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 29 ust. 1 pkt 1, z uwzględnieniem art. 29 ust. 1a tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia w życie.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5, który wchodzi w życie z dniem ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5, który wchodzi w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej oraz ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 145, poz. 916, Nr 195, poz. 1201, Nr 227, poz. 1505 i Nr 237, poz. 1655 oraz z 2009 r. Nr 18, poz. 97.
 

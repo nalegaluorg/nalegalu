@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 8 grudnia 2017 r. zmieniające rozporządzenie w sprawie wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 8 grudnia 2017 r. zmieniające rozporządzenie w sprawie wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – rodzina, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-08 |
 | Data wydania | 2017-12-20 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002379) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2379/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 25 ust. 3 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi
 § 1.
 W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 10 lipca 2014 r. w sprawie wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy (Dz. U. poz. 925) wprowadza się następujące zmiany:
 1)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
 1.
 Lokal, w którym ma być prowadzony żłobek lub klub dziecięcy, znajduje się w budynku lub jego części, które spełniają wymagania określone w przepisach w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie, oraz wymagania ochrony przeciwpożarowej dla kategorii zagrożenia ludzi ZL II, określone w przepisach dotyczących ochrony przeciwpożarowej, z tym że dopuszcza się spełnienie tych wymagań także w sposób określony w art. 6a ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2017 r. poz. 736 i 1169).
@@ -65,14 +63,11 @@ W strefie pożarowej, o której mowa w ust. 5, może występować inny lokal, w 
 7.
 W lokalu, o którym mowa w ust. 2, i na drogach ewakuacyjnych z tego lokalu są spełnione wymagania określone w przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, właściwe dla kategorii zagrożenia ludzi tej strefy pożarowej, w której lokal i te drogi się znajdują, w szczególności nie występują w tym lokalu ani na tych drogach warunki techniczne będące podstawą do uznania budynku za zagrażający życiu ludzi.
 8.
-Drogi ewakuacyjne z lokalu, o którym mowa w ust. 2, posiadają obudowę o klasie odporności ogniowej co najmniej EI 15, a wyjścia z pomieszczeń na te drogi są zamykane drzwiami; wymaganie dotyczące klasy odporności ogniowej nie dotyczy przypadków, w których z lokalu zapewniono dwie drogi ewakuacyjne, które się nie pokrywają ani nie krzyżują.
-” ;
+Drogi ewakuacyjne z lokalu, o którym mowa w ust. 2, posiadają obudowę o klasie odporności ogniowej co najmniej EI 15, a wyjścia z pomieszczeń na te drogi są zamykane drzwiami; wymaganie dotyczące klasy odporności ogniowej nie dotyczy przypadków, w których z lokalu zapewniono dwie drogi ewakuacyjne, które się nie pokrywają ani nie krzyżują. ” ;
 2)
-po § 1 dodaje się § 1a w brzmieniu:
-„
+po § 1 dodaje się § 1a w brzmieniu: „
 § 1a.
-Ilekroć w rozporządzeniu jest mowa o: kondygnacji, kondygnacji nadziemnej, kategorii zagrożenia ludzi, strefie pożarowej, przejściu ewakuacyjnym, drodze ewakuacyjnej, klasie odporności ogniowej, palności wyrobów (materiałów) budowlanych oraz elementach budynku nierozprzestrzeniających ognia – należy przez to rozumieć odpowiednio kondygnację, kondygnację nadziemną, kategorię zagrożenia ludzi, strefę pożarową, przejście ewakuacyjne, drogę ewakuacyjną, klasę odporności ogniowej, palność wyrobów (materiałów) budowlanych oraz elementy budynku nierozprzestrzeniające ognia w rozumieniu przepisów w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie.
-” ;
+Ilekroć w rozporządzeniu jest mowa o: kondygnacji, kondygnacji nadziemnej, kategorii zagrożenia ludzi, strefie pożarowej, przejściu ewakuacyjnym, drodze ewakuacyjnej, klasie odporności ogniowej, palności wyrobów (materiałów) budowlanych oraz elementach budynku nierozprzestrzeniających ognia – należy przez to rozumieć odpowiednio kondygnację, kondygnację nadziemną, kategorię zagrożenia ludzi, strefę pożarową, przejście ewakuacyjne, drogę ewakuacyjną, klasę odporności ogniowej, palność wyrobów (materiałów) budowlanych oraz elementy budynku nierozprzestrzeniające ognia w rozumieniu przepisów w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie. ” ;
 3)
 w § 2 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ powierzchnia każdego pomieszczenia przeznaczonego na zbiorowy pobyt od 3 do 5 dzieci wynosi co najmniej 16 m2; w przypadku liczby dzieci większej niż 5 powierzchnia pomieszczenia przeznaczonego na zbiorowy pobyt dzieci ulega odpowiedniemu zwiększeniu na każde kolejne dziecko, z tym że: ” .
 § 2.
@@ -83,6 +78,5 @@ Dopuszcza się prowadzenie żłobka lub klubu dziecięcego na podstawie przepis�
 3.
 Podmioty prowadzące żłobki i kluby dziecięce, o których mowa w ust. 1 i 2, są obowiązane dostosować warunki lokalowe i sanitarne lokali, w których prowadzone są te żłobki i kluby dziecięce, do wymagań określonych w § 1 ust. 2 pkt 5, ust. 4 i 8 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem w terminie do dnia 1 stycznia 2019 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – rodzina, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – rodzina, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 

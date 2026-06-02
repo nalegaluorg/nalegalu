@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-01 |
 | Data wydania | 2021-10-01 |
-| Wejście w życie | 2021-10-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001798) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1798/text.pdf) |
 
@@ -37,11 +36,9 @@ w § 1:
 a)
 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W związku z wprowadzeniem na podstawie rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 2 września 2021 r. w sprawie wprowadzenia stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego (Dz. U. poz. 1612) stanu wyjątkowego oraz przedłużeniem jego obowiązywania na podstawie rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 1 października 2021 r. w sprawie przedłużenia stanu wyjątkowego wprowadzonego na obszarze części województwa podlaskiego oraz części województwa lubelskiego (Dz. U. poz. 1788) określa się następujący zakres wprowadzenia i stosowania ustalonych przez Prezydenta Rzeczypospolitej Polskiej ograniczeń wolności i praw: ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Ograniczenia, o których mowa w ust. 1, stosuje się na obszarze objętym stanem wyjątkowym.
-” ;
+Ograniczenia, o których mowa w ust. 1, stosuje się na obszarze objętym stanem wyjątkowym. ” ;
 3)
 użyty w § 2 w ust. 1 w pkt 2–15 wyraz „wprowadzono” zastępuje się wyrazem „obowiązuje”.
 § 2.

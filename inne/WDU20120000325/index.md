@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-12 |
 | Data wydania | 2012-03-27 |
-| Wejście w życie | 2012-04-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000325) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/325/text.pdf) |
 
@@ -56,5 +55,5 @@ zabezpiecza się przed wywołaniem zagrożenia dla środowiska, w szczególnośc
 2.
 Substancję chemiczną, jej mieszaninę lub wyrób, w stosunku do których wydano decyzje o wycofaniu z obrotu, przechowuje się, zapewniając właściwy poziom ochrony zdrowia i środowiska.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 1 września 2010 r. w sprawie trybu wycofania substancji chemicznej, preparatu chemicznego lub wyrobu z obrotu i sposobu ich przechowywania (Dz. U. Nr 164, poz. 1115), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 88 pkt 4 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. Nr 63, poz. 322). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 1 września 2010 r. w sprawie trybu wycofania substancji chemicznej, preparatu chemicznego lub wyrobu z obrotu i sposobu ich przechowywania (Dz. U. Nr 164, poz. 1115), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 88 pkt 4 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. Nr 63, poz. 322).
 

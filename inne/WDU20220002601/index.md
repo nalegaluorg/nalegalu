@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 8 grudnia 2022 r. w sprawie programu pilotażowego w zakresie monitorowania dzieci i młodzieży z pierwotnymi i wtórnymi niedoborami odporności
+# Rozporządzenie Ministra Zdrowiaz dnia 8 grudnia 2022 r. w sprawie programu pilotażowego w zakresie monitorowania dzieci i młodzieży z pierwotnymi i wtórnymi niedoborami odporności Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-08 |
 | Data wydania | 2022-12-13 |
-| Wejście w życie | 2022-12-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002601) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2601/text.pdf) |
 
@@ -66,7 +65,7 @@ porada specjalistyczna – immunologia.
 1)
 pkt 1, są wykonywane przez świadczeniodawcę realizującego świadczenia opieki zdrowotnej w rodzaju określonym w części I ust. 1 pkt 1 załącznika nr 1 do rozporządzenia Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. z 2021 r. poz. 540 oraz z 2022 r. poz. 834, 1293, 1355 i 1965);
 2)
-pkt 2, są wykonywane przez świadczeniodawcę realizującego świadczenia opieki zdrowotnej w rodzaju określonym w rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357, z późn. zm.), w zakresie realizowanego świadczenia.
+pkt 2, są wykonywane przez świadczeniodawcę realizującego świadczenia opieki zdrowotnej w rodzaju określonym w rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 2164, z 2017 r. poz. 1244, 1766 i 2423, z 2018 r. poz. 657, z 2019 r. poz. 397, 1060 i 1864, z 2020 r. poz. 612, z 2021 r. poz. 543 i 727 oraz z 2022 r. poz. 365, 482 i 1542.), w zakresie realizowanego świadczenia.
 § 5.
 1.
 Świadczenia opieki zdrowotnej w ramach programu pilotażowego są udzielane świadczeniobiorcy w rozumieniu art. 2 ust. 1 ustawy, który nie ukończył 18. roku życia, z pierwotnym i wtórnym niedoborem odporności, w tym po przebytym zakażeniu wirusem SARS-CoV-2, zwanemu dalej „świadczeniobiorcą”.
@@ -227,6 +226,5 @@ Podmiotem obowiązanym do wdrożenia, finansowania, monitorowania i ewaluacji pr
 2.
 Środki finansowe na zakup innowacyjnych urządzeń wielofunkcyjnych minister przekazuje do Funduszu w ramach dotacji celowej.
 § 17.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 2164, z 2017 r. poz. 1244, 1766 i 2423, z 2018 r. poz. 657, z 2019 r. poz. 397, 1060 i 1864, z 2020 r. poz. 612, z 2021 r. poz. 543 i 727 oraz z 2022 r. poz. 365, 482 i 1542.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 2164, z 2017 r. poz. 1244, 1766 i 2423, z 2018 r. poz. 657, z 2019 r. poz. 397, 1060 i 1864, z 2020 r. poz. 612, z 2021 r. poz. 543 i 727 oraz z 2022 r. poz. 365, 482 i 1542.
 

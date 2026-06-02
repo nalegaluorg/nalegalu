@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 13 grudnia 2018 r. w sprawie przenoszenia do służby w Służbie Ochrony Państwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 13 grudnia 2018 r. w sprawie przenoszenia do służby w Służbie Ochrony Państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-13 |
 | Data wydania | 2019-01-18 |
-| Wejście w życie | 2019-01-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/111/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 70 ust. 6 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 70 ust. 6 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669 i 2245 i 2399.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -84,7 +83,7 @@ posiadanie prawa wykonywania zawodu lekarza lub lekarza weterynarii;
 7)
 posiadanie prawa wykonywania zawodu psychologa;
 8)
-posiadanie tytułu biegłego rewidenta lub możliwość sprawowania funkcji głównego księgowego, określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.) oraz ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089 oraz z 2018 r. poz. 398, 1669, 2193 i 2243);
+posiadanie tytułu biegłego rewidenta lub możliwość sprawowania funkcji głównego księgowego, określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500.) oraz ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089 oraz z 2018 r. poz. 398, 1669, 2193 i 2243);
 9)
 posiadanie uprawnień budowlanych pozwalających na samodzielne wykonywanie funkcji w zakresie nadzoru budowlanego;
 10)
@@ -202,6 +201,5 @@ Funkcjonariusza Centralnego Biura Antykorupcyjnego, który nie uzyskał w dotych
 § 15.
 W sprawach wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669 i 2245 i 2399. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2018 r. w sprawie przenoszenia do służby w Służbie Ochrony Państwa (Dz. U. poz. 391), które utraciło moc z dniem wejścia w życie ustawy z dnia 26 stycznia 2018 r. – Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2018 r. w sprawie przenoszenia do służby w Służbie Ochrony Państwa (Dz. U. poz. 391), które utraciło moc z dniem wejścia w życie ustawy z dnia 26 stycznia 2018 r. – Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669 i 2245 i 2399. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2018 r. w sprawie przenoszenia do służby w Służbie Ochrony Państwa (Dz. U. poz. 391), które utraciło moc z dniem wejścia w życie ustawy z dnia 26 stycznia 2018 r. – Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730).
 

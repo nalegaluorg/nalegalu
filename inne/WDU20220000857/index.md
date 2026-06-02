@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 lutego 2022 r. o ochronie dziedzictwa narodowego związanego z nazwami obiektów przestrzeni publicznej oraz pomnikami
+# Ustawa z dnia 24 lutego 2022 r. o ochronie dziedzictwa narodowego związanego z nazwami obiektów przestrzeni publicznej oraz pomnikami Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 grudnia 1992 r. o radiofonii i telewizji, ustawę z dnia 8 sierpnia 1996 r. o Radzie Ministrów oraz ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-24 |
 | Data wydania | 2022-04-20 |
-| Wejście w życie | 2022-04-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000857) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/857/text.pdf) |
 
 **Art. 1.** Ustawa określa zasady:
 
 - **1)** zmiany nazw obiektów przestrzeni publicznej,
-- **2)** usuwania pomników upamiętniających osoby, grupy osób, organizacje, instytucje, wydarzenia, przedmioty, daty lub miejsca istotne dla tożsamości Narodu Polskiego, działania na rzecz budowania i umacniania Państwa Polskiego oraz rozwoju społeczeństwa.
+- **2)** usuwania pomników – upamiętniających osoby, grupy osób, organizacje, instytucje, wydarzenia, przedmioty, daty lub miejsca istotne dla tożsamości Narodu Polskiego, działania na rzecz budowania i umacniania Państwa Polskiego oraz rozwoju społeczeństwa.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
@@ -127,5 +126,5 @@ source: "eli-html"
 
 **Art. 13.** Do postępowań administracyjnych i sądowych w sprawach dotyczących uchwał organu jednostki samorządu terytorialnego, związku jednostek samorządu terytorialnego albo związku metropolitalnego dotyczących zmiany nazwy obiektu przestrzeni publicznej lub usunięcia pomnika wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 4.
 
-**Art. 14.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 grudnia 1992 r. o radiofonii i telewizji, ustawę z dnia 8 sierpnia 1996 r. o Radzie Ministrów oraz ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 

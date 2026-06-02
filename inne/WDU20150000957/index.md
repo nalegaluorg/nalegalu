@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-15 |
 | Data wydania | 2015-07-08 |
-| Wejście w życie | 2015-07-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000957) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/957/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) w art. 79 w ust. 1 w pkt 3 w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „
+**Art. 1.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238 i 539.) w art. 79 w ust. 1 w pkt 3 w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „
 
 zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym, jeżeli postępowanie w pierwszej instancji zakończyło się zawarciem ugody sądowej. ” .
 
 - **d)**
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238 i 539.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lutego 2008 r. o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 7 lutego 2008 r. o zmianie ustawy o transporcie kolejowym Niniejszą ustawą dokonuje się, w zakresie jej regulacji, wdrożenia dyrektywy Komisji 2007/32/WE z dnia 1 czerwca 2007 r. zmieniającej załącznik VI do dyrektywy Rady 96/48/WE w sprawie interoperacyjności transeuropejskiego systemu kolei dużych prędkości i załącznik VI do dyrektywy 2001/16/WE Parlamentu Europejskiego i Rady w sprawie interoperacyjności transeuropejskiego systemu kolei konwencjonalnej (Dz. Urz. UE L 141 z 02.06.2007, str. 63–66).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-02-07 |
 | Data wydania | 2008-04-09 |
-| Wejście w życie | 2008-05-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080590359) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/359/text.pdf) |
 
@@ -90,5 +89,5 @@ source: "eli-html"
 
 2. Notyfikowane jednostki certyfikujące w zakresie podsystemów są obowiązane do publikowania corocznie, w terminie do końca pierwszego kwartału, informacji o otrzymanych wnioskach o dokonanie oceny zgodności, o wydanych certyfikatach zgodności podsystemu lub pośrednich certyfikatach zgodności podsystemu oraz o odmowach ich wydania, za poprzedni rok kalendarzowy. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą dokonuje się, w zakresie jej regulacji, wdrożenia dyrektywy Komisji 2007/32/WE z dnia 1 czerwca 2007 r. zmieniającej załącznik VI do dyrektywy Rady 96/48/WE w sprawie interoperacyjności transeuropejskiego systemu kolei dużych prędkości i załącznik VI do dyrektywy 2001/16/WE Parlamentu Europejskiego i Rady w sprawie interoperacyjności transeuropejskiego systemu kolei konwencjonalnej (Dz. Urz. UE L 141 z 02.06.2007, str. 63–66).
 

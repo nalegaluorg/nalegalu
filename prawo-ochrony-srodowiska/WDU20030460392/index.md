@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-02-14 |
 | Data wydania | 2003-03-18 |
-| Wejście w życie | 2003-04-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030460392) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/392/text.pdf) |
 
@@ -39,7 +38,7 @@ source: "eli-html"
 
 - **1)** jest gruntem klasy VIz, VI i V, a także klasy IV, jeżeli jego powierzchnia w łącznej powierzchni gruntu przeznaczonego do zalesienia nie przekracza 10%,
 - **2)** jest gruntem położonym na stoku o średnim nachyleniu powyżej 15%,
-- **3)** jest gruntem zdegradowanym w rozumieniu ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. Nr 16, poz. 78, z późn. zm.), i jeżeli jest przewidziany do zalesienia w miejscowym planie zagospodarowania przestrzennego lub w decyzji o warunkach zabudowy i zagospodarowania terenu. ” , ust. 6 otrzymuje brzmienie: „
+- **3)** jest gruntem zdegradowanym w rozumieniu ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. Nr 16, poz. 78, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 60, poz. 370, Nr 80, poz. 505 i Nr 160, poz. 1079, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 81, poz. 875 i Nr 100, poz. 1085 oraz z 2002 r. Nr 113, poz. 984.), i jeżeli jest przewidziany do zalesienia w miejscowym planie zagospodarowania przestrzennego lub w decyzji o warunkach zabudowy i zagospodarowania terenu. ” , ust. 6 otrzymuje brzmienie: „
     - **b)**
 
 6. Wniosek, o którym mowa w ust. 4, zawiera:
@@ -52,7 +51,7 @@ source: "eli-html"
 
 - **3)** po art. 3 dodaje się art. 3a w brzmieniu: „
 
-**Art. 3a.** Za gospodarstwo rolne uważa się gospodarstwo rolne w rozumieniu przepisów Kodeksu cywilnego, które jego właściciel lub spadkodawca lub darczyńca prowadził lub prowadzi osobiście co najmniej od 5 lat – co jest potwierdzone przez urząd gminy, na którego terenie gospodarstwo się znajduje, z zastrzeżeniem art. 24 ust. 5 pkt 3 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2001 r. Nr 57, poz. 603, z późn. zm.). ” ;
+**Art. 3a.** Za gospodarstwo rolne uważa się gospodarstwo rolne w rozumieniu przepisów Kodeksu cywilnego, które jego właściciel lub spadkodawca lub darczyńca prowadził lub prowadzi osobiście co najmniej od 5 lat – co jest potwierdzone przez urząd gminy, na którego terenie gospodarstwo się znajduje, z zastrzeżeniem art. 24 ust. 5 pkt 3 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2001 r. Nr 57, poz. 603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, Nr 122, poz. 1323 i Nr 154, poz. 1793 i 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 155, poz. 1287 oraz z 2003 r. Nr 6, poz. 64.). ” ;
 
 - **4)** w art. 5 ust. 2 otrzymuje brzmienie: „
 
@@ -112,5 +111,5 @@ source: "eli-html"
 
 **Art. 4.** Do spraw wszczętych przed dniem wejścia w życie ustawy, a niezakończonych decyzją ostateczną o przeznaczeniu gruntów do zalesienia, stosuje się przepisy niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 stycznia 2003 r.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 stycznia 2003 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 60, poz. 370, Nr 80, poz. 505 i Nr 160, poz. 1079, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 81, poz. 875 i Nr 100, poz. 1085 oraz z 2002 r. Nr 113, poz. 984. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, Nr 122, poz. 1323 i Nr 154, poz. 1793 i 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 155, poz. 1287 oraz z 2003 r. Nr 6, poz. 64.
 

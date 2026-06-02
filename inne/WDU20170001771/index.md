@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 12 września 2017 r. w sprawie statutu Narodowej Agencji Wymiany Akademickiej
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 12 września 2017 r. w sprawie statutu Narodowej Agencji Wymiany Akademickiej Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-12 |
 | Data wydania | 2017-09-22 |
-| Wejście w życie | 2017-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001771) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1771/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 16 ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany A
 § 1.
 Narodowej Agencji Wymiany Akademickiej nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2017 r.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896).
+Rozporządzenie wchodzi w życie z dniem 1 października 2017 r. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896).
 Załącznik – Statut Narodowej Agencji Wymiany Akademickiej
 § 1.
 1.

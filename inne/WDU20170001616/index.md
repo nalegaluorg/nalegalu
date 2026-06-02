@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 sierpnia 2017 r. w sprawie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego dzieci i indywidualnego nauczania dzieci i młodzieży
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 sierpnia 2017 r. w sprawie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego dzieci i indywidualnego nauczania dzieci i młodzieży Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-09 |
 | Data wydania | 2017-08-29 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-11-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1616/text.pdf) |
 
@@ -114,9 +113,7 @@ Zajęcia indywidualnego przygotowania przedszkolnego i zajęcia indywidualnego n
 1)
 w orzeczeniu tym wskazano możliwość realizacji indywidualnego przygotowania przedszkolnego lub indywidualnego nauczania w pomieszczeniu odpowiednio w przedszkolu, innej formie wychowania przedszkolnego lub szkole,
 2)
-odpowiednio przedszkole, inna forma wychowania przedszkolnego lub szkoła dysponuje pomieszczeniem, w którym mogą odbywać się zajęcia dla tego dziecka lub ucznia
-do końca okresu na jaki zostało wydane to orzeczenie, nie dłużej jednak niż do końca roku szkolnego 2017/2018.
+odpowiednio przedszkole, inna forma wychowania przedszkolnego lub szkoła dysponuje pomieszczeniem, w którym mogą odbywać się zajęcia dla tego dziecka lub ucznia – do końca okresu na jaki zostało wydane to orzeczenie, nie dłużej jednak niż do końca roku szkolnego 2017/2018.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 18 stycznia 2019 r. w sprawie należności przysługujących policjantowi oddelegowanemu do instytucji zagranicznej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 18 stycznia 2019 r. w sprawie należności przysługujących policjantowi oddelegowanemu do instytucji zagranicznej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-18 |
 | Data wydania | 2019-03-12 |
-| Wejście w życie | 2019-03-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000481) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/481/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 36p ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 36p ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405, z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102, 2245 i 2399 oraz z 2019 r. poz. 15, 53 i 81.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -54,8 +53,7 @@ Oddelegowanemu przysługuje ryczałt na pokrycie kosztów utrzymania stanowiący
 1)
 w pierwszym miesiącu pełnienia służby poza granicami państwa – 100%,
 2)
-w następnych miesiącach pełnienia służby poza granicami państwa – 60%
-diet na pokrycie kosztów wyżywienia i innych drobnych wydatków oraz limitów na pokrycie kosztów noclegu, określonych na podstawie przepisów w sprawie przyznawania policjantom należności za podróże służbowe i przeniesienia.
+w następnych miesiącach pełnienia służby poza granicami państwa – 60% – diet na pokrycie kosztów wyżywienia i innych drobnych wydatków oraz limitów na pokrycie kosztów noclegu, określonych na podstawie przepisów w sprawie przyznawania policjantom należności za podróże służbowe i przeniesienia.
 2.
 Kwotę należnego ryczałtu pomniejsza się o kwotę otrzymanego przez oddelegowanego od instytucji zagranicznej lub instytucji finansującej świadczenia pieniężnego na pokrycie kosztów utrzymania.
 3.
@@ -84,6 +82,5 @@ Informację składa się przełożonemu na piśmie.
 § 9.
 Świadczenia i należności należne, a niewypłacone przed dniem wejścia w życie rozporządzenia, przyznaje się i wypłaca w wysokości i w trybie określonym w przepisach dotychczasowych.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405, z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102, 2245 i 2399 oraz z 2019 r. poz. 15, 53 i 81. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 czerwca 2011 r. w sprawie oddelegowania policjantów do wykonywania zadań służbowych poza Policją w kraju i za granicą (Dz. U. poz. 847 oraz z 2014 r. poz. 1241).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 czerwca 2011 r. w sprawie oddelegowania policjantów do wykonywania zadań służbowych poza Policją w kraju i za granicą (Dz. U. poz. 847 oraz z 2014 r. poz. 1241). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405, z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102, 2245 i 2399 oraz z 2019 r. poz. 15, 53 i 81. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 czerwca 2011 r. w sprawie oddelegowania policjantów do wykonywania zadań służbowych poza Policją w kraju i za granicą (Dz. U. poz. 847 oraz z 2014 r. poz. 1241).
 

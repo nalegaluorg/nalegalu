@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw
+# Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników, ustawę z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych oraz ustawę z dnia 23 maja 1991 r. o organizacjach pracodawców.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-08 |
 | Data wydania | 2021-08-27 |
-| Wejście w życie | 2021-09-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001579) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1579/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 
 - **1)** izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej,
 - **2)** stowarzyszeń zrzeszających młodych rolników w Europejskiej Radzie Młodych Rolników (CEJA),
-- **3)** organizacji pracodawców zrzeszających pracodawców rolnych w Grupie Pracodawców Rolniczych Organizacji Zawodowych Unii Europejskiej (GEOPA) są w latach 2021–2026 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej. ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
+- **3)** organizacji pracodawców zrzeszających pracodawców rolnych w Grupie Pracodawców Rolniczych Organizacji Zawodowych Unii Europejskiej (GEOPA) – są w latach 2021–2026 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej. ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
     - **b)**
 
 2a. Umowa, o której mowa w ust. 2, zawiera co najmniej:
@@ -69,7 +68,7 @@ source: "eli-html"
 - **1)** szczegółowy zakres i sposób udzielania oraz rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b,
 - **2)** wysokość dofinansowania,
 - **3)** sposób przekazywania środków finansowych z tytułu udzielenia dofinansowania,
-- **4)** elementy informacji, o której mowa w ust. 4b, oraz tryb opracowania tej informacji mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b, a także biorąc pod uwagę wysokość limitu środków finansowych na udzielenie dofinansowania z budżetu państwa w formie dotacji celowej oraz to, że w przypadku dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w tych organizacjach dofinansowanie to wynosi co najmniej 95% tych kosztów. ” ;
+- **4)** elementy informacji, o której mowa w ust. 4b, oraz tryb opracowania tej informacji – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b, a także biorąc pod uwagę wysokość limitu środków finansowych na udzielenie dofinansowania z budżetu państwa w formie dotacji celowej oraz to, że w przypadku dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w tych organizacjach dofinansowanie to wynosi co najmniej 95% tych kosztów. ” ;
 - **2)** art. 35c otrzymuje brzmienie: „
 
 **Art. 35c.** Środki pochodzące z budżetu państwa przeznaczone na pokrycie kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w art. 35b ust. 1–1b, nie podlegają egzekucji, z wyjątkiem przypadków gdy zostały wykorzystane niezgodnie z przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości. ” .
@@ -86,5 +85,5 @@ source: "eli-html"
 
 **Art. 6.** W 2021 r. dofinansowywane są koszty związane z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych odpowiednio w organizacjach, o których mowa w art. 35b ust. 1b ustawy zmienianej w art. 1, poniesione od dnia 1 stycznia 2021 r.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników, ustawę z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych oraz ustawę z dnia 23 maja 1991 r. o organizacjach pracodawców.
 

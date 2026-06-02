@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 30 listopada 2022 r. zmieniające rozporządzenie w sprawie wysokości wynagrodzenia przysługującego członkom instytucji, organów i zespołów oraz ekspertom i rzecznikom dyscyplinarnym działającym w systemie szkolnictwa wyższego i nauki
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 30 listopada 2022 r. zmieniające rozporządzenie w sprawie wysokości wynagrodzenia przysługującego członkom instytucji, organów i zespołów oraz ekspertom i rzecznikom dyscyplinarnym działającym w systemie szkolnictwa wyższego i nauki Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-30 |
 | Data wydania | 2022-12-08 |
-| Wejście w życie | 2022-12-23 |
 | Ostatnia zmiana | 2026-03-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2549/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 403 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 403 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459, 2185 i 2306.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 14 grudnia 2018 r. w sprawie wysokości wynagrodzenia przysługującego członkom instytucji, organów i zespołów oraz ekspertom i rzecznikom dyscyplinarnym działającym w systemie szkolnictwa wyższego i nauki (Dz. U. z 2020 r. poz. 2208) w § 7:
 1)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Za udział w posiedzeniach zespołów doradczych powołanych na podstawie art. 341 ustawy w celu wspierania ministra w:
 1)
@@ -46,15 +44,11 @@ realizacji zadań związanych z udziałem podmiotów systemu szkolnictwa wyższe
 a)
 1000 zł – dla przewodniczącego albo członka zespołu prowadzącego posiedzenie w zastępstwie nieobecnego przewodniczącego,
 b)
-800 zł – dla pozostałych członków zespołu.
-” ;
+800 zł – dla pozostałych członków zespołu. ” ;
 2)
-w ust. 4 po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+w ust. 4 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-o którym mowa w ust. 2 pkt 2, przysługuje wynagrodzenie w wysokości od 700 zł do 1500 zł za przygotowanie projektu każdej opinii, w zależności od jej przedmiotu i zakresu;
-” .
+o którym mowa w ust. 2 pkt 2, przysługuje wynagrodzenie w wysokości od 700 zł do 1500 zł za przygotowanie projektu każdej opinii, w zależności od jej przedmiotu i zakresu; ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459, 2185 i 2306.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459, 2185 i 2306.
 

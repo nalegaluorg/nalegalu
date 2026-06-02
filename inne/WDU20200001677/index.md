@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 29 września 2020 r. zmieniające rozporządzenie w sprawie strzeżonych ośrodków i aresztów dla cudzoziemców
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 29 września 2020 r. zmieniające rozporządzenie w sprawie strzeżonych ośrodków i aresztów dla cudzoziemców Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-29 |
 | Data wydania | 2020-09-30 |
-| Wejście w życie | 2020-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001677) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1677/text.pdf) |
 
@@ -31,23 +30,17 @@ Na podstawie art. 427 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (D
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 24 kwietnia 2015 r. w sprawie strzeżonych ośrodków i aresztów dla cudzoziemców (Dz. U. z 2018 r. poz. 1576) wprowadza się następujące zmiany:
 1)
-w § 23 ust. 4 otrzymuje brzmienie:
-„
+w § 23 ust. 4 otrzymuje brzmienie: „
 4.
 Cudzoziemcy umieszczeni w strzeżonym ośrodku lub przebywający w areszcie otrzymują posiłki i napoje przygotowane według wartości pieniężnej dziennej normy wyżywienia odpowiadającej zasadniczej szkolnej normie wyżywienia, zwanej dalej „normą SZ”, określonej w przepisach wydanych na podstawie art. 76 ust. 10 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2020 r. poz. 305 i 1610), zwanej dalej „ustawą”, stanowiącej:
 1)
 65% wartości pieniężnej normy SZ, w przypadku cudzoziemców, o których mowa w ust. 2 pkt 6,
 2)
-75% wartości pieniężnej normy SZ, w przypadku cudzoziemców, o których mowa w ust. 2 pkt 1–5
-z uwzględnieniem wymogów religijnych i kulturowych cudzoziemców oraz wartości podwyższenia, o którym mowa w art. 76 ust. 4 ustawy, w przypadku konieczności realizacji wyżywienia przez zewnętrzne podmioty gastronomiczne.
-” ;
+75% wartości pieniężnej normy SZ, w przypadku cudzoziemców, o których mowa w ust. 2 pkt 1–5 – z uwzględnieniem wymogów religijnych i kulturowych cudzoziemców oraz wartości podwyższenia, o którym mowa w art. 76 ust. 4 ustawy, w przypadku konieczności realizacji wyżywienia przez zewnętrzne podmioty gastronomiczne. ” ;
 2)
-w § 25 ust. 2 otrzymuje brzmienie:
-„
+w § 25 ust. 2 otrzymuje brzmienie: „
 2.
-Żywienie zgodne z warunkami określonymi w ust. 1 odbywa się w ramach przysługującej cudzoziemcom dziennej normy wyżywienia, o której mowa w § 23 ust. 2 i 4.
-” .
+Żywienie zgodne z warunkami określonymi w ust. 1 odbywa się w ramach przysługującej cudzoziemcom dziennej normy wyżywienia, o której mowa w § 23 ust. 2 i 4. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

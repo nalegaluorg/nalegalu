@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 grudnia 2014 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw
+# Ustawa z dnia 5 grudnia 2014 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1) oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-05 |
 | Data wydania | 2015-01-15 |
-| Wejście w życie | 2015-01-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/73/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych, ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym oraz ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
+Wykonywanie zadań właściwego organu w rozumieniu rozporządzenia 236/2012
 
 **Art. 1.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94 i 586) wprowadza się następujące zmiany:
 
@@ -47,8 +49,12 @@ source: "eli-html"
 
 5. Przed złożeniem wniosku o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi ani instrumentami pochodnymi, do obrotu na rynku regulowanym, podmiot ubiegający się o dopuszczenie do obrotu tych instrumentów jest zobowiązany do zawarcia z Krajowym Depozytem umowy, której przedmiotem jest rejestracja tych instrumentów w depozycie papierów wartościowych. ” ;
 
-- **4)** w art. 7: w ust. 5: – pkt 3 otrzymuje brzmienie: „ 3) zostały one uprzednio nabyte w wyniku transakcji zawartej na zagranicznym rynku regulowanym, lub ” , – dodaje się pkt 4 i 5 w brzmieniu: „ 4) następuje w ramach transakcji krótkiej sprzedaży zgodnie z przepisami rozporządzenia 236/2012, lub 5) zostały one uprzednio przeniesione przez zbywcę na podstawie umowy pożyczki papierów wartościowych lub z zastrzeżeniem prawa odkupu, a rozrachunek ich zwrotu lub odkupu nastąpi nie później niż rozrachunek zbycia. ” , uchyla się ust. 5a, ust. 5b otrzymuje brzmienie: „
+- **4)** w art. 7: w ust. 5: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** zostały one uprzednio nabyte w wyniku transakcji zawartej na zagranicznym rynku regulowanym, lub ” , dodaje się pkt 4 i 5 w brzmieniu: „
+- **4)** następuje w ramach transakcji krótkiej sprzedaży zgodnie z przepisami rozporządzenia 236/2012, lub
+- **5)** zostały one uprzednio przeniesione przez zbywcę na podstawie umowy pożyczki papierów wartościowych lub z zastrzeżeniem prawa odkupu, a rozrachunek ich zwrotu lub odkupu nastąpi nie później niż rozrachunek zbycia. ” , uchyla się ust. 5a, ust. 5b otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -83,7 +89,7 @@ source: "eli-html"
 
 - **1)** uzyskał zezwolenie Komisji lub właściwego organu nadzoru nad rynkiem finansowym w innym państwie członkowskim na wykonywanie działalności w państwie członkowskim lub
 - **2)** jest spółką prowadzącą giełdę, lub
-- **3)** jest spółką prowadzącą giełdę towarową lub giełdową izbę rozrachunkową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych o ile okoliczność ta zostanie wykazana w zawiadomieniu.
+- **3)** jest spółką prowadzącą giełdę towarową lub giełdową izbę rozrachunkową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych – o ile okoliczność ta zostanie wykazana w zawiadomieniu.
 
 3. Dokonując oceny, o której mowa w art. 32 ust. 1 rozporządzenia 648/2012, Komisja uwzględnia w szczególności złożone w związku z postępowaniem zobowiązania dotyczące CCP lub ostrożnego i stabilnego nim zarządzania.
 
@@ -98,14 +104,14 @@ source: "eli-html"
 - **1)** z naruszeniem przepisu art. 31 ust. 2 rozporządzenia 648/2012 albo
 - **2)** pomimo zgłoszenia przez Komisję sprzeciwu, o którym mowa w art. 32 ust. 2 rozporządzenia 648/2012, albo
 - **3)** przed upływem terminu uprawniającego Komisję do zgłoszenia sprzeciwu, o którym mowa w art. 31 ust. 2 rozporządzenia 648/2012, albo
-- **4)** po upływie terminu wyznaczonego przez Komisję na podstawie art. 31 ust. 7 rozporządzenia 648/2012 z akcji tych nie można wykonywać prawa głosu.
+- **4)** po upływie terminu wyznaczonego przez Komisję na podstawie art. 31 ust. 7 rozporządzenia 648/2012 – z akcji tych nie można wykonywać prawa głosu.
 
 2. W przypadku wykonywania uprawnień podmiotu dominującego CCP:
 
 - **1)** z naruszeniem przepisu art. 31 ust. 2 rozporządzenia 648/2012 albo
 - **2)** pomimo zgłoszenia przez Komisję sprzeciwu, o którym mowa w art. 32 ust. 2 rozporządzenia 648/2012, albo
 - **3)** przed upływem terminu uprawniającego Komisję do zgłoszenia sprzeciwu, o którym mowa w art. 31 ust. 2 rozporządzenia 648/2012, albo
-- **4)** uzyskanych po upływie terminu, o którym mowa w art. 31 ust. 2 rozporządzenia 648/2012 członkowie zarządu CCP powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji CCP. W przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego CCP.
+- **4)** uzyskanych po upływie terminu, o którym mowa w art. 31 ust. 2 rozporządzenia 648/2012 – członkowie zarządu CCP powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji CCP. W przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego CCP.
 
 3. Uchwały walnego zgromadzenia CCP podjęte z naruszeniem ust. 1 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów bez uwzględnienia głosów nieważnych.
 
@@ -199,7 +205,7 @@ source: "eli-html"
 - **2)** ograniczenia w zakresie zawierania transakcji swapu ryzyka kredytowego z tytułu długu państwowego, określone w art. 14 rozporządzenia 236/2012,
 - **3)** ograniczenia w zakresie zawierania transakcji swapu ryzyka kredytowego z tytułu długu państwowego lub w zakresie wartości otwieranych pozycji dotyczących swapu ryzyka kredytowego z tytułu długu państwowego, wprowadzone na podstawie art. 21 rozporządzenia 236/2012,
 - **4)** zakaz lub ograniczenia w zakresie dokonywania krótkiej sprzedaży lub zawierania innych transakcji, w przypadku których spadek ceny lub wartości instrumentu finansowego wiąże się z uzyskaniem korzyści majątkowej, wprowadzone na podstawie art. 20 lub art. 28 ust. 1 lit. b rozporządzenia 236/2012,
-- **5)** zakaz lub ograniczenia w zakresie dokonywania na rynku regulowanym lub w alternatywnym systemie obrotu krótkiej sprzedaży określonego instrumentu finansowego lub zawierania innych transakcji mających za przedmiot określony instrument finansowy, wprowadzone na podstawie art. 23 rozporządzenia 236/2012 Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł albo do wysokości dziesięciokrotności korzyści majątkowej uzyskanej w wyniku transakcji.
+- **5)** zakaz lub ograniczenia w zakresie dokonywania na rynku regulowanym lub w alternatywnym systemie obrotu krótkiej sprzedaży określonego instrumentu finansowego lub zawierania innych transakcji mających za przedmiot określony instrument finansowy, wprowadzone na podstawie art. 23 rozporządzenia 236/2012 – Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł albo do wysokości dziesięciokrotności korzyści majątkowej uzyskanej w wyniku transakcji.
 
 2. Na każdego, kto nie wykonuje lub nienależycie wykonuje inne niż wymienione w ust. 1 obowiązki określone w rozporządzeniu 236/2012 lub obowiązki określone w rozporządzeniu delegowanym Komisji (UE) nr 918/2012 z dnia 5 lipca 2012 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 236/2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego w odniesieniu do definicji, obliczania pozycji krótkich netto, pokrytych swapów ryzyka kredytowego z tytułu długu państwowego, progów powodujących obowiązek zgłoszenia, progów płynności w odniesieniu do zawieszenia ograniczeń, znacznych spadków wartości instrumentów finansowych i wystąpienia niekorzystnych zdarzeń (Dz. Urz. UE L 274 z 09.10.2012, str. 1), Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 500 000 zł. Przy ustalaniu wysokości kar pieniężnych, o których mowa w art. 171a, uwzględnia się w szczególności stopień i zakres naruszenia, jego wpływ na prawidłowe funkcjonowanie rynku kapitałowego oraz możliwości finansowe podmiotu, który dokonał naruszenia. ” ;
 
@@ -224,7 +230,7 @@ source: "eli-html"
 - **1)** CCP,
 - **2)** członek rozliczający w rozumieniu art. 2 pkt 14 rozporządzenia 648/2012,
 - **3)** klient w rozumieniu art. 2 pkt 15 rozporządzenia 648/2012, świadczący pośrednie usługi rozliczeniowe, o których mowa w rozdziale II rozporządzenia delegowanego Komisji (UE) nr 149/2013 z dnia 19 grudnia 2012 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 w odniesieniu do regulacyjnych standardów technicznych dotyczących pośrednich uzgodnień rozliczeniowych, obowiązku rozliczania, rejestru publicznego, dostępu do systemu obrotu, kontrahentów niefinansowych, technik ograniczania ryzyka związanego z kontraktami pochodnymi będącymi przedmiotem obrotu poza rynkiem regulowanym, które nie są rozliczane przez kontrahenta centralnego (Dz. Urz. UE L 52 z 23.02.2013, str. 11),
-- **4)** podmiot prowadzący system obrotu w rozumieniu art. 2 pkt 4 rozporządzenia 648/2012 nie wykonuje lub nienależycie wykonuje obowiązki określone w rozporządzeniu 648/2012 lub przepisach wydanych na jego podstawie, Komisja może, w drodze decyzji, nałożyć na te podmioty karę pieniężną do wysokości 10 000 000 zł, nie większą niż 10% przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym, a w przypadku braku obowiązku badania sprawozdania finansowego nie większą niż 10% przychodu wykazanego w ostatnim zatwierdzonym sprawozdaniu finansowym.
+- **4)** podmiot prowadzący system obrotu w rozumieniu art. 2 pkt 4 rozporządzenia 648/2012 – nie wykonuje lub nienależycie wykonuje obowiązki określone w rozporządzeniu 648/2012 lub przepisach wydanych na jego podstawie, Komisja może, w drodze decyzji, nałożyć na te podmioty karę pieniężną do wysokości 10 000 000 zł, nie większą niż 10% przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym, a w przypadku braku obowiązku badania sprawozdania finansowego nie większą niż 10% przychodu wykazanego w ostatnim zatwierdzonym sprawozdaniu finansowym.
 
 2. Na podmioty, o których mowa w ust. 1 pkt 1–3, które nie wykonują lub nienależycie wykonują obowiązki określone w tym przepisie, i które wbrew obowiązkowi nie sporządziły lub nie poddały badaniu sprawozdania finansowego, Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 10 000 000 zł.
 
@@ -247,7 +253,7 @@ source: "eli-html"
 
 - **24)** po art. 179 dodaje się art. 179a w brzmieniu: „ Kto wbrew obowiązkowi określonemu w art. 28 ust. 4, art. 33 ust. 5, art. 83 lub art. 84 rozporządzenia 648/2012 ujawnia informacje poufne w rozumieniu tego rozporządzenia lub wykorzystuje takie informacje do celów innych niż określone w tym rozporządzeniu, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie. ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5a w pkt 35 kropkę zastępuje się średnikiem i dodaje się pkt 36 w brzmieniu: „
 - **36)** krótkiej sprzedaży – oznacza to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1). ” ;
@@ -264,7 +270,7 @@ source: "eli-html"
 
 14. Dochodem, o którym mowa w ust. 13, uzyskanym w roku podatkowym, jest różnica między sumą przychodów z odpłatnego zbycia papierów wartościowych a wydatkami poniesionymi na zapewnienie dostępności papierów wartościowych na potrzeby dokonania rozrachunku, w tym na nabycie zwróconych papierów wartościowych w przypadku, o którym mowa w ust. 13 pkt 1. ” .
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4a w pkt 24 kropkę zastępuje się średnikiem i dodaje się pkt 25 w brzmieniu: „
 - **25)** krótkiej sprzedaży – oznacza to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1). ” ;
@@ -351,7 +357,7 @@ source: "eli-html"
 - **2)** rozporządzenia 648/2012 – określają art. 17–19, art. 24, art. 32 ust. 6 i 7 oraz art. 84 tego rozporządzenia. ” ;
 - **8)** po art. 23 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Wykonywanie zadań właściwego organu w rozumieniu rozporządzenia 236/2012
+#### Rozdział 3a
 
 **Art. 23a.**
 
@@ -409,7 +415,7 @@ source: "eli-html"
 1a. Przepisy niniejszego rozdziału stosuje się odpowiednio:
 
 - **1)** w toku postępowania, o którym mowa w ust. 1 pkt 1,
-- **2)** w przypadku, o którym mowa w ust. 1 pkt 2 do osoby trzeciej, której podmiot, o którym mowa w ust. 1 pkt 1, powierzył, w granicach upoważnienia wynikającego z właściwych przepisów, wykonywanie niektórych czynności z zakresu podlegającego nadzorowi Komisji – do czasu zaprzestania przez ten podmiot prowadzenia działalności podlegającej nadzorowi Komisji. ” ;
+- **2)** w przypadku, o którym mowa w ust. 1 pkt 2 – do osoby trzeciej, której podmiot, o którym mowa w ust. 1 pkt 1, powierzył, w granicach upoważnienia wynikającego z właściwych przepisów, wykonywanie niektórych czynności z zakresu podlegającego nadzorowi Komisji – do czasu zaprzestania przez ten podmiot prowadzenia działalności podlegającej nadzorowi Komisji. ” ;
 - **14)** w art. 38: ust. 4a otrzymuje brzmienie: „
     - **a)**
 
@@ -420,7 +426,7 @@ source: "eli-html"
 5. W granicach koniecznych do sprawdzenia, czy zachodzi:
 
 - **1)** uzasadnione podejrzenie popełnienia przestępstwa, o którym mowa w ust. 1, lub potrzeba wszczęcia postępowania administracyjnego w sprawach, o których mowa w art. 171a lub w art. 172 ustawy o obrocie instrumentami finansowymi, Przewodniczący Komisji może zażądać od podmiotu świadczącego usługi telekomunikacyjne udostępnienia informacji, stanowiących tajemnicę telekomunikacyjną w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, 827 i 1198) w zakresie wykazu połączeń telefonicznych lub innych przekazów informacji, dotyczących podmiotu dokonującego czynności faktycznych lub prawnych mających związek z wyjaśnianymi faktami, z uwzględnieniem danych abonenta pozwalających na jego identyfikację, czasu ich dokonania i innych informacji związanych z połączeniem lub przekazem, niestanowiących treści przekazu;
-- **2)** uzasadnione podejrzenie popełnienia przestępstwa, o którym mowa w ust. 1, lub potrzeba wszczęcia postępowania administracyjnego w sprawach, o których mowa w art. 172 ustawy o obrocie instrumentami finansowymi, Przewodniczący Komisji może zażądać od Generalnego Inspektora Kontroli Skarbowej udostępnienia określonych informacji stanowiących tajemnicę skarbową w rozumieniu ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2011 r. Nr 41, poz. 214, z późn. zm.). ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+- **2)** uzasadnione podejrzenie popełnienia przestępstwa, o którym mowa w ust. 1, lub potrzeba wszczęcia postępowania administracyjnego w sprawach, o których mowa w art. 172 ustawy o obrocie instrumentami finansowymi, Przewodniczący Komisji może zażądać od Generalnego Inspektora Kontroli Skarbowej udostępnienia określonych informacji stanowiących tajemnicę skarbową w rozumieniu ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2011 r. Nr 41, poz. 214, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 53, poz. 273 i Nr 230, poz. 1371, z 2012 r. poz. 362 i 1544, z 2013 r. poz. 628 i 1145 oraz z 2014 r. poz. 915, 1055 i 1822.). ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **c)**
 
 5a. Udostępnienie informacji zgodnie z:
@@ -446,7 +452,7 @@ source: "eli-html"
 - **1)** ust. 1 pkt 1 – przepisy art. 39 i art. 40 stosuje się odpowiednio;
 - **2)** ust. 1 pkt 2 – przepis art. 39 stosuje się odpowiednio. ” .
 
-**Art. 6.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2012 r. poz. 1149, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2012 r. poz. 1149, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 i 1385 oraz z 2013 r. poz. 70, 1012, 1036 i 1567.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11: po ust. 6 dodaje się ust. 6a w brzmieniu: „
     - **a)**
@@ -457,7 +463,7 @@ source: "eli-html"
 
 9. Jeżeli Komisja wskutek wyłączenia osób wchodzących w jej skład nie może załatwić sprawy, Prezes Rady Ministrów wyznacza do załatwienia sprawy inny organ administracji publicznej. ” ;
 
-- **2)** w art. 12 w ust. 2 w pkt 4 w lit. y średnik zastępuje się przecinkiem i dodaje się lit. z i za w brzmieniu: „ wydawania decyzji, o których mowa w art. 23a ust. 1 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, udzielenia zezwolenia na świadczenie usług rozliczeniowych jako CCP na podstawie art. 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.), a także cofnięcia zezwolenia na świadczenie usług rozliczeniowych jako CCP na podstawie art. 20 tego rozporządzenia; ” . Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 13 i 14, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+- **2)** w art. 12 w ust. 2 w pkt 4 w lit. y średnik zastępuje się przecinkiem i dodaje się lit. z i za w brzmieniu: „ wydawania decyzji, o których mowa w art. 23a ust. 1 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, udzielenia zezwolenia na świadczenie usług rozliczeniowych jako CCP na podstawie art. 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.), a także cofnięcia zezwolenia na świadczenie usług rozliczeniowych jako CCP na podstawie art. 20 tego rozporządzenia; ” . Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 13 i 14, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1) oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych, ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym oraz ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 53, poz. 273 i Nr 230, poz. 1371, z 2012 r. poz. 362 i 1544, z 2013 r. poz. 628 i 1145 oraz z 2014 r. poz. 915, 1055 i 1822. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 i 1385 oraz z 2013 r. poz. 70, 1012, 1036 i 1567.
     - **z)**
     - **za)**
 

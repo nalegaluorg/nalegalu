@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-07 |
 | Data wydania | 2024-11-13 |
-| Wejście w życie | 2024-11-14 |
 | Ostatnia zmiana | 2024-11-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1655/text.pdf) |
 
@@ -74,8 +73,7 @@ Dowódca jednostki wojskowej po otrzymaniu wniosku wraz z kompletem dokumentów 
 1)
 realnie poniesionych przez żołnierza zawodowego kosztów oraz rozstrzygnięcia o kosztach procesu – niezwłocznie, nie później niż w ciągu 14 dni od dnia otrzymania wniosku wraz z kompletem dokumentów – w przypadku, o którym mowa w ust. 3, lub
 2)
-kosztów procesu, którymi zgodnie z umową o pomoc prawną ma zostać obciążony żołnierz zawodowy – niezwłocznie po otrzymaniu wniosku wraz z kompletem dokumentów, przed przypadającym terminem płatności za udzieloną pomoc prawną – w przypadku, o którym mowa w ust. 4
-w granicach określonych w art. 296 ust. 2 ustawy.
+kosztów procesu, którymi zgodnie z umową o pomoc prawną ma zostać obciążony żołnierz zawodowy – niezwłocznie po otrzymaniu wniosku wraz z kompletem dokumentów, przed przypadającym terminem płatności za udzieloną pomoc prawną – w przypadku, o którym mowa w ust. 4 – w granicach określonych w art. 296 ust. 2 ustawy.
 § 3.
 1.
 Zwrot kosztów pomocy prawnej, o którym mowa w art. 296 ust. 1 ustawy, następuje na wniosek żołnierza zawodowego.
@@ -154,5 +152,5 @@ W przypadkach, o których mowa w § 2 ust. 6, § 3 ust. 5 i § 4 ust. 5, dowódc
 § 8.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2022 r. w sprawie zwrotu kosztów i finansowania pomocy prawnej dla żołnierzy zawodowych (Dz. U. poz. 1242), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 pkt 3 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2022 r. w sprawie zwrotu kosztów i finansowania pomocy prawnej dla żołnierzy zawodowych (Dz. U. poz. 1242), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 pkt 3 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 7 lutego 2020 r. w sprawie wysokości opłat związanych z rejestracją jachtów i innych jednostek pływających o długości do 24 m
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 7 lutego 2020 r. w sprawie wysokości opłat związanych z rejestracją jachtów i innych jednostek pływających o długości do 24 m Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-07 |
 | Data wydania | 2020-02-17 |
-| Wejście w życie | 2020-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/248/text.pdf) |
 
@@ -45,6 +44,5 @@ Za rozpatrzenie wniosku, o którym mowa w § 1 pkt 4, pobiera się opłatę w wy
 § 4.
 Za rozpatrzenie wniosku o rejestrację i wydanie dokumentu rejestracyjnego w przypadku, o którym mowa w art. 28 ust. 2 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m, pobiera się opłatę w wysokości 60 zł.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2020 r.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2020 r. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 

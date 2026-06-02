@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-04 |
 | Data wydania | 2013-01-17 |
-| Wejście w życie | 2013-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000082) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/82/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. Nr 30, poz. 151, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. Nr 30, poz. 151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 92, poz. 530, Nr 106, poz. 622, Nr 205, poz. 1210, Nr 227, poz. 1367 i Nr 244, poz. 1454 oraz z 2012 r. poz. 113.) wprowadza się następujące zmiany:
 
 - **1)** w art. 82 w ust. 1 w pkt 6 średnik zastępuje się kropką i uchyla pkt 7;
 - **2)** w art. 103 w ust. 1 w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje lit. d w brzmieniu: „ niezgłoszenia się we wskazanym terminie na egzamin państwowy który miał być przeprowadzony w trybie art. 49 ust. 1 pkt 2 i pkt 3 lit. b; ” ;
@@ -45,7 +44,7 @@ source: "eli-html"
 
 - **5)** po art. 135 dodaje się art. 135a i art. 135b w brzmieniu: „
 
-**Art. 135a.** Do dnia 3 stycznia 2016 r. skierowanie na badanie lekarskie i badanie psychologiczne w przypadku kierowania pojazdem w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu, następuje na podstawie odpisu wyroku przesłanego przez sąd w trybie art. 182 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.). W stosunku do jednostek o których mowa w art. 109 ust. 5, warunek określony w art. 109 ust. 1 pkt 3 oraz ust. 4 stosuje się od dnia 4 stycznia 2016 r. ” ;
+**Art. 135a.** Do dnia 3 stycznia 2016 r. skierowanie na badanie lekarskie i badanie psychologiczne w przypadku kierowania pojazdem w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu, następuje na podstawie odpisu wyroku przesłanego przez sąd w trybie art. 182 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344, z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 34, poz. 191, Nr 40, poz. 227, Nr 125, poz. 842 i Nr 182, poz. 1228, z 2011 r. Nr 39, poz. 201 i 202, Nr 112, poz. 654, Nr 129, poz. 734, Nr 185, poz. 1092, Nr 217, poz. 1280 i Nr 240, poz. 1431 oraz z 2012 r. poz. 908.). W stosunku do jednostek o których mowa w art. 109 ust. 5, warunek określony w art. 109 ust. 1 pkt 3 oraz ust. 4 stosuje się od dnia 4 stycznia 2016 r. ” ;
 
 - **6)** art. 136 otrzymuje brzmienie: „
 
@@ -75,5 +74,5 @@ source: "eli-html"
 
 **Art. 2.** Rozporządzenie, o którym mowa w art. 138b ust. 2 ustawy zmienianej w art. 1 minister właściwy do spraw wewnętrznych wyda w terminie do dnia 1 lipca 2015 r.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 18 stycznia 2013 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 18 stycznia 2013 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 92, poz. 530, Nr 106, poz. 622, Nr 205, poz. 1210, Nr 227, poz. 1367 i Nr 244, poz. 1454 oraz z 2012 r. poz. 113. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344, z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 34, poz. 191, Nr 40, poz. 227, Nr 125, poz. 842 i Nr 182, poz. 1228, z 2011 r. Nr 39, poz. 201 i 202, Nr 112, poz. 654, Nr 129, poz. 734, Nr 185, poz. 1092, Nr 217, poz. 1280 i Nr 240, poz. 1431 oraz z 2012 r. poz. 908.
 

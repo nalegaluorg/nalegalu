@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 12 maja 2021 r. zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 12 maja 2021 r. zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-12 |
 | Data wydania | 2021-05-18 |
-| Wejście w życie | 2021-05-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000916) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/916/text.pdf) |
 
@@ -33,20 +32,15 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 29 kwietni
 1)
 w § 3 w ust. 4:
 a)
-po pkt 2 dodaje się pkt 2a w brzmieniu:
-„
+po pkt 2 dodaje się pkt 2a w brzmieniu: „
 2a)
-skierowanie na szczepienie przeciwko COVID-19;
-” ,
+skierowanie na szczepienie przeciwko COVID-19; ” ,
 b)
-po pkt 7 dodaje się pkt 7a w brzmieniu:
-„
+po pkt 7 dodaje się pkt 7a w brzmieniu: „
 7a)
-Karta Szczepień;
-” ;
+Karta Szczepień; ” ;
 2)
-po § 50 dodaje się § 50a i § 50b w brzmieniu:
-„
+po § 50 dodaje się § 50a i § 50b w brzmieniu: „
 § 50a.
 1.
 Skierowanie na szczepienie przeciwko COVID-19 zawiera:
@@ -108,9 +102,7 @@ podpisy osób dokonujących wpisu.
 2.
 Osoby, o których mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, w zakresie szczepień przeciwko COVID-19, dokonują wpisów do Karty Szczepień.
 3.
-Wpisy w Karcie Szczepień są dokonywane w okresie nieprzekraczającym 24 godzin od momentu przeprowadzenia odpowiednio lekarskiego badania kwalifikacyjnego albo szczepienia.
-” .
+Wpisy w Karcie Szczepień są dokonywane w okresie nieprzekraczającym 24 godzin od momentu przeprowadzenia odpowiednio lekarskiego badania kwalifikacyjnego albo szczepienia. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

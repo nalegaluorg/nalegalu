@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-09 |
 | Data wydania | 2015-02-18 |
-| Wejście w życie | 2015-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000225) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/225/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepis ogólny Rozdział 2 – Sposób prowadzenia rejestru stanu cywilnego Rozdział 3 – Sposób oznaczania aktów stanu cywilnego w rejestrze stanu cywilnego Rozdział 4 – Sposób prowadzenia akt zbiorowych rejestracji stanu cywilnego Rozdział 5 – Sposób zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, wynoszonych poza urząd stanu cywilnego Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 27 ust. 4 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. poz. 1741 i 1888) zarządza się, co następuje:
+Przepis ogólny
 § 1.
 Rozporządzenie określa sposób:
 1)
@@ -39,6 +39,7 @@ oznaczania w rejestrze stanu cywilnego aktów stanu cywilnego;
 prowadzenia akt zbiorowych rejestracji stanu cywilnego;
 4)
 zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego w przypadku, o którym mowa w art. 27 ust. 3 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego, zwanej dalej „ustawą”.
+Sposób prowadzenia rejestru stanu cywilnego
 § 2.
 1.
 Wpisów w rejestrze stanu cywilnego dokonuje się w alfabecie łacińskim rozszerzonym, wielkimi literami.
@@ -75,14 +76,14 @@ W przypadku gdy nie jest możliwe ustalenie danych podlegających zamieszczeniu 
 § 8.
 Przy akcie stanu cywilnego zamieszcza się dane, których nie zawiera akt stanu cywilnego, a które są niezbędne do wydania wielojęzycznego odpisu skróconego w rozumieniu Konwencji nr 16 dotyczącej wydawania wielojęzycznych odpisów skróconych aktów stanu cywilnego, sporządzonej w Wiedniu dnia 8 września 1976 r. (Dz. U. z 2004 r. Nr 166, poz. 1735), zwanego dalej „odpisem wielojęzycznym”.
 § 9.
-W przypadku zmiany numeru PESEL w trybie przewidzianym w art. 19 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm.) w rejestrze stanu cywilnego, w miejsce dotychczas przechowywanego numeru PESEL, zamieszcza się przy aktach stanu cywilnego danej osoby nowy numer PESEL.
+W przypadku zmiany numeru PESEL w trybie przewidzianym w art. 19 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 133, poz. 768, Nr 204, poz. 1195 i Nr 288, poz. 1689, z 2012 r. poz. 921 i 1407, z 2013 r. poz. 1650 oraz z 2014 r. poz. 301, 1741 i 1888.) w rejestrze stanu cywilnego, w miejsce dotychczas przechowywanego numeru PESEL, zamieszcza się przy aktach stanu cywilnego danej osoby nowy numer PESEL.
 § 10.
 Dokonanie wpisu w rejestrze uznań wymaga uwierzytelnienia przez właściwego kierownika urzędu stanu cywilnego przez złożenie podpisu.
 § 11.
 1.
 Jeżeli przed kierownikiem urzędu stanu cywilnego zostało złożone oświadczenie mężczyzny konieczne do uznania ojcostwa, a matka dziecka nie potwierdziła jednocześnie, że ojcem dziecka jest ten mężczyzna, informację o tym zamieszcza się w rejestrze uznań.
 2.
-Jeżeli matka dziecka nie potwierdziła w terminie, o którym mowa w art. 73 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2012 r. poz. 788, z późn. zm.), że mężczyzna, który złożył oświadczenie konieczne do uznania ojcostwa dziecka, jest ojcem dziecka, w rejestrze uznań rejestruje się informację oznaczającą brak ważności uznania ojcostwa dziecka.
+Jeżeli matka dziecka nie potwierdziła w terminie, o którym mowa w art. 73 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2012 r. poz. 788, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1529, z 2013 r. poz. 1439 oraz z 2014 r. poz. 1188 i 1741.), że mężczyzna, który złożył oświadczenie konieczne do uznania ojcostwa dziecka, jest ojcem dziecka, w rejestrze uznań rejestruje się informację oznaczającą brak ważności uznania ojcostwa dziecka.
 § 12.
 Dołączenie w rejestrze stanu cywilnego wzmianki dodatkowej do aktu urodzenia, aktu małżeństwa albo aktu zgonu wymaga uwierzytelnienia przez właściwego kierownika urzędu stanu cywilnego przez złożenie podpisu.
 § 13.
@@ -214,6 +215,7 @@ adnotacji o ustaniu małżeństwa, jego unieważnieniu, ustaleniu nieistnienia m
 innych danych z aktu stanu cywilnego umieszczonych w odpisie wielojęzycznym aktu urodzenia lub odpisie wielojęzycznym aktu małżeństwa.
 § 41.
 W rejestrze stanu cywilnego przechowuje się informacje o odpisach skróconych aktów stanu cywilnego wydanych z rejestru stanu cywilnego, w tym odpisach wielojęzycznych, w szczególności informację o treści odpisu, dacie jego wydania, kierowniku urzędu stanu cywilnego, który wydał odpis, lub osobie upoważnionej do wydania odpisu wraz z nazwą urzędu stanu cywilnego właściwego dla kierownika urzędu stanu cywilnego lub osoby upoważnionej do wydania odpisu, a także informacje o odpisach zupełnych aktów stanu cywilnego wydanych z rejestru stanu cywilnego.
+Sposób oznaczania aktów stanu cywilnego w rejestrze stanu cywilnego
 § 42.
 1.
 Oznaczenie aktu stanu cywilnego jest nadawane przez system teleinformatyczny, w którym jest prowadzony rejestr stanu cywilnego, z chwilą sporządzenia aktu urodzenia, aktu małżeństwa albo aktu zgonu.
@@ -231,6 +233,7 @@ czteroznakowego oznaczenia roku, w którym akt jest sporządzany;
 sześcioznakowego numeru aktu.
 3.
 Z chwilą przeniesienia aktu stanu cywilnego do rejestru stanu cywilnego na podstawie art. 124 lub art. 145 ust. 13 ustawy, jest nadawane w rejestrze stanu cywilnego nowe oznaczenie tego aktu. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+Sposób prowadzenia akt zbiorowych rejestracji stanu cywilnego
 § 43.
 1.
 Akta zbiorowe rejestracji stanu cywilnego, niezależnie od postaci, w której są sporządzone, opatruje się oznaczeniem nadanym aktowi stanu cywilnego, którego dotyczą.
@@ -264,6 +267,7 @@ W przypadku gdy przypisek jest zamieszczany przy akcie stanu cywilnego w wyniku 
 W przypadkach, o których mowa w ust. 1 i 2, w aktach zbiorowych rejestracji stanu cywilnego, dotyczących danego aktu stanu cywilnego, gromadzi się adnotację zawierającą oznaczenie innego aktu stanu cywilnego w rejestrze stanu cywilnego. Adnotacji nie zamieszcza się, jeżeli z treści wzmianki dodatkowej albo przypisku wynika to oznaczenie.
 § 47.
 Dokument zamieszczony omyłkowo w rejestrze stanu cywilnego w aktach zbiorowych rejestracji stanu cywilnego przy niewłaściwym akcie stanu cywilnego podlega usunięciu z tych akt zbiorowych i dołączeniu do właściwych akt zbiorowych.
+Sposób zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, wynoszonych poza urząd stanu cywilnego
 § 48.
 1.
 Wyniesienie poza urząd stanu cywilnego akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, w przypadku zgody wojewody, odbywa się przez przekazanie akt zbiorowych przez upoważnionego pracownika albo przez nadanie jako przesyłki poleconej w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529).
@@ -271,18 +275,31 @@ Wyniesienie poza urząd stanu cywilnego akt zbiorowych rejestracji stanu cywilne
 W przypadku, o którym mowa w ust. 1, akta zbiorowe rejestracji stanu cywilnego niesporządzone w formie dokumentu elektronicznego umieszcza się w opakowaniu wykonanym z materiałów chroniących przed uszkodzeniem mechanicznym, chemicznym lub biologicznym, zapewniającym zabezpieczenie dokumentów w sposób uniemożliwiający dostęp do nich osób nieuprawnionych.
 3.
 Przepisów ust. 1 i 2 nie stosuje się do wynoszenia poza urząd stanu cywilnego akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego w przypadku niebezpieczeństwa zagrażającego tym aktom. W takim przypadku akta zbiorowe umieszcza się w opakowaniu wykonanym z materiałów chroniących przed uszkodzeniem mechanicznym, chemicznym lub biologicznym, zapewniającym zabezpieczenie dokumentów w sposób uniemożliwiający dostęp do nich osób nieuprawnionych, niezwłocznie po ustaniu niebezpieczeństwa lub przeniesieniu akt zbiorowych poza obszar jego oddziaływania.
+Przepis końcowy
 § 49.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 133, poz. 768, Nr 204, poz. 1195 i Nr 288, poz. 1689, z 2012 r. poz. 921 i 1407, z 2013 r. poz. 1650 oraz z 2014 r. poz. 301, 1741 i 1888. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1529, z 2013 r. poz. 1439 oraz z 2014 r. poz. 1188 i 1741.
 
-#### Rozdział 1 Przepis ogólny
+#### Rozdział 1 – Przepis ogólny
 
-#### Rozdział 2 Sposób prowadzenia rejestru stanu cywilnego
+#### Rozdział 2 – Sposób prowadzenia rejestru stanu cywilnego
 
-#### Rozdział 3 Sposób oznaczania aktów stanu cywilnego w rejestrze stanu cywilnego
+#### Rozdział 3 – Sposób oznaczania aktów stanu cywilnego w rejestrze stanu cywilnego
 
-#### Rozdział 4 Sposób prowadzenia akt zbiorowych rejestracji stanu cywilnego
+#### Rozdział 4 – Sposób prowadzenia akt zbiorowych rejestracji stanu cywilnego
 
-#### Rozdział 5 Sposób zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, wynoszonych poza urząd stanu cywilnego
+#### Rozdział 5 – Sposób zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, wynoszonych poza urząd stanu cywilnego
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

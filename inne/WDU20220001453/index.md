@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 7 lipca 2022 r. w sprawie rodzajów pism niewymagających opatrzenia podpisem lub pieczęcią przez użytkownika e-Urzędu Skarbowego
+# Rozporządzenie Ministra Finansówz dnia 7 lipca 2022 r. w sprawie rodzajów pism niewymagających opatrzenia podpisem lub pieczęcią przez użytkownika e-Urzędu Skarbowego Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-07 |
 | Data wydania | 2022-07-08 |
-| Wejście w życie | 2022-07-09 |
 | Ostatnia zmiana | 2025-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001453) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1453/text.pdf) |
 
@@ -37,10 +36,9 @@ wniosku w sprawie, której załatwienie polega na wydaniu przez Szefa Krajowej A
 a)
 zaświadczenia o wysokości dochodu podatnika w podatku dochodowym od osób fizycznych (ZAS-DF) i
 b)
-zaświadczenia o wysokości przychodu, dochodu, podatku należnego oraz odliczonych składek na ubezpieczenia społeczne lub ubezpieczenie zdrowotne w podatku dochodowym od osób fizycznych (ZAS-DFU)
-składanego na podstawie art. 306i § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.);
+zaświadczenia o wysokości przychodu, dochodu, podatku należnego oraz odliczonych składek na ubezpieczenia społeczne lub ubezpieczenie zdrowotne w podatku dochodowym od osób fizycznych (ZAS-DFU) – składanego na podstawie art. 306i § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265 i 1301.);
 2)
-zeznania udostępnianego podatnikowi przez organ podatkowy za pośrednictwem konta osoby fizycznej w e-Urzędzie Skarbowym na podstawie art. 45cd ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) oraz art. 21c ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2021 r. poz. 1993, 2105 i 2427 oraz z 2022 r. poz. 1265 i 1301);
+zeznania udostępnianego podatnikowi przez organ podatkowy za pośrednictwem konta osoby fizycznej w e-Urzędzie Skarbowym na podstawie art. 45cd ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301 i 1358.) oraz art. 21c ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2021 r. poz. 1993, 2105 i 2427 oraz z 2022 r. poz. 1265 i 1301);
 3)
 deklaracji o wysokości pobranego i wpłaconego przez płatnika podatku (SD-2), o której mowa w art. 18 ust. 2 pkt 3 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2021 r. poz. 1043);
 4)
@@ -60,6 +58,5 @@ wyjaśnienia przeznaczenia wpłaty;
 11)
 pisma ogólnego.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265 i 1301. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301 i 1358.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265 i 1301. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301 i 1358.
 

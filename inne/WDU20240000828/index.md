@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-24 |
 | Data wydania | 2024-06-04 |
-| Wejście w życie | 2024-06-05 |
 | Ostatnia zmiana | 2024-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000828) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/828/text.pdf) |
 
@@ -45,8 +44,7 @@ a)
 b)
 dostarczania sieci telekomunikacyjnych,
 c)
-świadczenia usług pocztowych
-z uwzględnieniem pierwszeństwa dla organów realizujących zadania na potrzeby obronne państwa;
+świadczenia usług pocztowych – z uwzględnieniem pierwszeństwa dla organów realizujących zadania na potrzeby obronne państwa;
 3)
 systemie łączności – należy przez to rozumieć telekomunikację, teleinformatykę oraz pocztę przygotowane i wykorzystane w celu realizowania wymiany informacji między elementami systemu obronnego państwa;
 4)
@@ -163,5 +161,5 @@ opracowuje, w uzgodnieniu z ministrem właściwym do spraw wewnętrznych, wykaz 
 2.
 Przedsięwzięcia, o których mowa w ust. 1 pkt 1–3 oraz § 5 ust. 1 pkt 1–4, ust. 2 pkt 1 i ust. 3, są realizowane w uzgodnieniu z Ministrem Obrony Narodowej i ministrem właściwym do spraw wewnętrznych.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 3 sierpnia 2004 r. w sprawie przygotowania i wykorzystania systemów łączności na potrzeby obronne państwa (Dz. U. poz. 1855 oraz z 2016 r. poz. 964), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 3 sierpnia 2004 r. w sprawie przygotowania i wykorzystania systemów łączności na potrzeby obronne państwa (Dz. U. poz. 1855 oraz z 2016 r. poz. 964), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248).
 

@@ -35,11 +35,9 @@ obwieszczeniem Prezesa Rady Ministrów z dnia 15 września 2010 r. o sprostowani
 2)
 rozporządzeniem Rady Ministrów z dnia 16 marca 2012 r. zmieniającym rozporządzenie w sprawie ustalenia granic i nazw gmin oraz siedzib ich władz, ustalenia granic niektórych miast oraz nadania niektórym miejscowościom statusu miasta (Dz. U. poz. 337).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 16 marca 2012 r. zmieniającego rozporządzenie w sprawie ustalenia granic i nazw gmin oraz siedzib ich władz, ustalenia granic niektórych miast oraz nadania niektórym miejscowościom statusu miasta (Dz. U. poz. 337), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 16 marca 2012 r. zmieniającego rozporządzenie w sprawie ustalenia granic i nazw gmin oraz siedzib ich władz, ustalenia granic niektórych miast oraz nadania niektórym miejscowościom statusu miasta (Dz. U. poz. 337), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Rady Ministrów z dnia 27 lipca 2010 r. w sprawie ustalenia granic i nazw gmin oraz siedzib ich władz, ustalenia granic niektórych miast oraz nadania niektórym miejscowościom statusu miasta
 Na podstawie art. 4 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594 i 645) zarządza się, co następuje:
 § 1.
@@ -50,7 +48,7 @@ w województwie lubelskim, w powiecie kraśnickim – gminy o statusie miasta Kr
 w województwie śląskim:
 a)
 w powiecie bieruńsko-lędzińskim gminy o statusie miasta Imielin oraz gminy Chełm Śląski, przez włączenie do dotychczasowego obszaru gminy Imielin części obrębu ewidencyjnego Chełm Śląski, tj. działek ewidencyjnych o numerach 268/8, 516/8 i 517/8 o łącznej powierzchni 0,30 ha z gminy Chełm Śląski,
-b)
+bZe zmianą wprowadzoną przez § 1 rozporządzenia Rady Ministrów z dnia 16 marca 2012 r. zmieniającego rozporządzenie w sprawie ustalenia granic i nazw gmin oraz siedzib ich władz, ustalenia granic niektórych miast oraz nadania niektórym miejscowościom statusu miasta (Dz. U. poz. 337), które weszło w życie z dniem 12 kwietnia 2012 r.)
 miasta na prawach powiatu Żory oraz w powiecie pszczyńskim gminy Pawłowice, przez przyłączenie do dotychczasowego obszaru miasta na prawach powiatu Żory części obrębu ewidencyjnego Warszowice, tj. działek ewidencyjnych o numerach 443/225, 444/55, 445/55, 446/55, 1144/55, 1146/55, 1147/141, 1149/143, 1155/155, 1156/155, 1157/155, 1159/156, 1161/156, 1162/156, 1163/158, 1165/158, 1167/158, 1168/160, 1169/160, 1171/159, 1172/159, 1173/159, 1175/225, 1176/225, 1229/55, 1230/55, 1231/55, 1232/142, 1233/142, 1234/142, 1151/142, 1587/142, 1589/142, o łącznej powierzchni 5,20 ha z gminy Pawłowice.
 § 2.
 Z dniem 1 stycznia 2011 r. nadaje się status miasta następującym miejscowościom:
@@ -70,7 +68,7 @@ Z dniem 1 stycznia 2011 r. ustala się granice następujących miast:
 w województwie dolnośląskim:
 a)
 w powiecie polkowickim, w gminie Chocianów – miasta Chocianów przez włączenie do dotychczasowego obszaru miasta części obrębu ewidencyjnego Chocianowiec, tj. działek ewidencyjnych o numerach 1850/1, 1850/2, 1851/1–1851/4, 1851/6, 1851/7, 1852, 1853/3, 1853/4, 1853/6, 1853/8, 1853/9, 1853/11, 1853/13, 1853/15, 1853/16, 1853/18–1853/22, 1855/1–1855/13, 1856/2, 1856/4–1856/12, 1865/1, 1866, 1869/4–1869/10, 1869/12, 1869/13, 1869/15–1869/17, 1870, 1931/1, 1932, 1934, 1936, 1938, 1939, 1941/1, 1941/2, 1942, 1981, 1993/2, 1993/4–1993/6, 2338/1, 2338/2, 2338/4, 2338/6, 2338/7, 2358/264, 2411, 2460/61, 2462/230, 2463/230, 2464/230, 2465/230, 2466/230, 2467/230, 2468/230, 2469/230, 2470/230, 2471/230, 2472/230, 2473/230, 2474/230, 2475/230, 2476/230, 2477/230, 2478/230, 2479/230, 2480/230, 2482/230, 2483/230, 2484/230, 2485/230, 2486/230, 2487/230, 2488/230, 2491, 2502/230, 2504, 2505, 2506/1–2506/3, 2507/1, 2507/2, 2524/230, 2525/230, 2541–2544, 2545/1, 2545/2 oraz 2546–2563, o łącznej powierzchni 168,76 ha z gminy Chocianów,
-b)
+bZe zmianą wprowadzoną obwieszczeniem Prezesa Rady Ministrów z dnia 15 września 2010 r. o sprostowaniu błędu (Dz. U. Nr 177, poz. 1196).)
 w powiecie polkowickim, w gminie Przemków – miasta Przemków przez włączenie do dotychczasowego obszaru miasta części obszaru wsi Karpie, tj. działek ewidencyjnych o numerach 23–25, 26/1, 26/2, 27–29, 30/1–30/3, 31–33, 34/1–34/3, 35, 36/3, 37–41, 141, 148/1–148/5, 149, 150/1, 150/2, 151–156, 163/3–163/9, 163/11–163/28, 163/30–163/35, 163/39, 163/40, 163/43–163/45, 163/47–163/49, 163/51–163/94, 178/5, 178/13, 178/14, 178/17–178/20, 178/22–178/31, 178/33–178/44, 178/46–178/53, 178/55, 178/59–178/64, 178/66–178/68, 178/70, 178/71, 178/73–178/75, 180/3–180/5, 181/2, 181/3, 182/1, 182/2, 184/3, 184/5, 184/6, 185/3–185/6, 186/1–186/3, 187–191, 192/1–192/5, 192/9, 192/11, 192/15–192/23, 193/3, 194, 195, 196/1, 196/2, 197–204, 205/2, 206/1, 206/2, 207–211, 222/1, 397/1–397/15, 398, o łącznej powierzchni 52,79 ha z gminy Przemków,
 c)
 w powiecie wrocławskim, w gminie Kąty Wrocławskie – miasta Kąty Wrocławskie przez włączenie do dotychczasowego obszaru miasta części obrębu Nowa Wieś Kącka, tj. działek ewidencyjnych o numerach 301/1, 301/2, 301/5–301/10, 302–304, 306/1, 307/4, 307/6, 307/7, 307/9–307/14, 308/1, 308/3–308/6, 309/1, 309/2, 310/1–310/3, 311/1, 311/2, 312/1, 312/2, 324, 327, 328/2, 328/3, 331/2, 331/3, 333/1, 333/3, 333/4, 334/1, 334/2, 335/1, 335/2, 336/6–336/9, 337–341, 342/1, 342/2, 343/1, 343/2, 344/2, 344/3, 348, 349/1, 349/2, 350/1, 350/2, 351/1, 351/2, 352/2, 352/4, 352/5, 353–357, 358/1, 358/2, 359, 360, 361/3, 362–370, 524/2, 551/1, 551/2, 552–555, 557/1, 557/2, 559, 562, 563/1, 563/2, 564, 565, 569, 592, 597/1, 598, 599/1, 599/2, 600, 601/1, 601/2, 602, 604/2, 604/3, 606, 608, 671–692 oraz części obrębu Wszemiłowice-Jurczyce, tj. działek ewidencyjnych o numerach 95/1–95/6, 96/4–96/32, 98, 99, 100/2, 109/3, 109/4, 110/3–110/5, 111/3, 111/4, 261, 262/2, 264/1, o łącznej powierzchni 225,96 ha z gminy Kąty Wrocławskie;
@@ -105,6 +103,5 @@ w województwie lubelskim, w powiecie radzyńskim, gminy Kąkolewnica Wschodnia 
 2)
 w województwie podlaskim, w powiecie wysokomazowieckim, gminy Czyżew-Osada z siedzibą władz w Czyżewie-Osadzie – na gmina Czyżew z siedzibą władz w Czyżewie.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 31 lipca 2010 r.
-1) Ze zmianą wprowadzoną przez § 1 rozporządzenia Rady Ministrów z dnia 16 marca 2012 r. zmieniającego rozporządzenie w sprawie ustalenia granic i nazw gmin oraz siedzib ich władz, ustalenia granic niektórych miast oraz nadania niektórym miejscowościom statusu miasta (Dz. U. poz. 337), które weszło w życie z dniem 12 kwietnia 2012 r. 2) Ze zmianą wprowadzoną obwieszczeniem Prezesa Rady Ministrów z dnia 15 września 2010 r. o sprostowaniu błędu (Dz. U. Nr 177, poz. 1196).
+Rozporządzenie wchodzi w życie z dniem 31 lipca 2010 r. 1) Ze zmianą wprowadzoną przez § 1 rozporządzenia Rady Ministrów z dnia 16 marca 2012 r. zmieniającego rozporządzenie w sprawie ustalenia granic i nazw gmin oraz siedzib ich władz, ustalenia granic niektórych miast oraz nadania niektórym miejscowościom statusu miasta (Dz. U. poz. 337), które weszło w życie z dniem 12 kwietnia 2012 r. 2) Ze zmianą wprowadzoną obwieszczeniem Prezesa Rady Ministrów z dnia 15 września 2010 r. o sprostowaniu błędu (Dz. U. Nr 177, poz. 1196).
 

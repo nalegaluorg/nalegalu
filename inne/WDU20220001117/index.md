@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
+# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 11 maja 2001 r. – Prawo o miarach, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki, ustawę z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych oraz ustawę z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-12 |
 | Data wydania | 2022-05-26 |
-| Wejście w życie | 2022-06-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001117) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1117/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010 i 1079.) wprowadza się następujące zmiany:
 
 - **1)** tytuł działu XI otrzymuje brzmienie: „Stypendia i nagrody ministra, nagrody Prezesa Rady Ministrów oraz Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas” ”;
 - **2)** po art. 364 dodaje się art. 364a w brzmieniu: „
@@ -86,7 +85,7 @@ source: "eli-html"
 - **3)** wzory odznak Medalu i wzór legitymacji potwierdzającej nadanie Medalu,
 - **4)** sposób wręczania, noszenia i przechowywania odznaki Medalu,
 - **5)** sposób ponownego wydawania odznaki Medalu i duplikatu legitymacji potwierdzającej nadanie Medalu,
-- **6)** wysokość opłaty, o której mowa w ust. 9, i sposób jej wnoszenia uwzględniając stopnie Medalu i konieczność zapewnienia sprawności postępowania w sprawach o nadanie i pozbawienie Medalu oraz ponownego wydawania odznaki Medalu i duplikatu legitymacji potwierdzającej nadanie Medalu, a także uroczystego wręczania, godnego noszenia i przechowywania odznaki Medalu. ” .
+- **6)** wysokość opłaty, o której mowa w ust. 9, i sposób jej wnoszenia – uwzględniając stopnie Medalu i konieczność zapewnienia sprawności postępowania w sprawach o nadanie i pozbawienie Medalu oraz ponownego wydawania odznaki Medalu i duplikatu legitymacji potwierdzającej nadanie Medalu, a także uroczystego wręczania, godnego noszenia i przechowywania odznaki Medalu. ” .
 
 **Art. 2.** W ustawie z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2021 r. poz. 2068) w art. 16 w ust. 1:
 
@@ -94,7 +93,7 @@ source: "eli-html"
     - **a)**
 
 - **2)** pkt 2 otrzymuje brzmienie: „
-- **2)** prowadzenie działalności naukowej w rozumieniu art. 4 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.), obejmującej prowadzenie badań naukowych i prac rozwojowych w dyscyplinach naukowych dotyczących metrologii, w szczególności w zakresie technologii pomiarowych, w sposób samodzielny i ciągły; ” ;
+- **2)** prowadzenie działalności naukowej w rozumieniu art. 4 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079 i 1117.), obejmującej prowadzenie badań naukowych i prac rozwojowych w dyscyplinach naukowych dotyczących metrologii, w szczególności w zakresie technologii pomiarowych, w sposób samodzielny i ciągły; ” ;
 - **3)** po pkt 2 dodaje się pkt 2a w brzmieniu: „
 - **2a)** podejmowanie działalności na rzecz umiędzynarodowienia nauki w dyscyplinach naukowych dotyczących metrologii; ” ;
 - **4)** w pkt 3 lit. e otrzymuje brzmienie: „ inicjowanie i prowadzenie badań naukowych, prac rozwojowych i innych przedsięwzięć w dyscyplinach naukowych dotyczących metrologii, również we współpracy z podmiotami krajowymi i zagranicznymi zajmującymi się taką działalnością, w tym także w zakresie prowadzonej przez nie działalności gospodarczej; ” .
@@ -130,7 +129,7 @@ source: "eli-html"
 - **1)** Komisję – podpisuje przewodniczący Komisji, a w przypadku jego nieobecności – wiceprzewodniczący Komisji;
 - **2)** lokalną komisję – podpisuje przewodniczący lokalnej komisji, a w przypadku jego nieobecności – wiceprzewodniczący lokalnej komisji. ” .
 
-**Art. 6.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086, z 2021 r. poz. 1630 i 2232 oraz z 2022 r. poz. 1010.) wprowadza się następujące zmiany:
 
 - **1)** w art. 187: ust. 3 otrzymuje brzmienie: „
     - **a)**
@@ -166,5 +165,5 @@ source: "eli-html"
 
 **Art. 9.** Czynności podjęte w okresie od dnia 1 stycznia 2021 r. do dnia wejścia w życie niniejszej ustawy zgodnie z art. 187 ust. 3 ustawy zmienianej w art. 6 w brzmieniu dotychczasowym pozostają w mocy.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem 1 października 2022 r.
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem 1 października 2022 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 11 maja 2001 r. – Prawo o miarach, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki, ustawę z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych oraz ustawę z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010 i 1079. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079 i 1117. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086, z 2021 r. poz. 1630 i 2232 oraz z 2022 r. poz. 1010.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 22 września 2019 r. w sprawie zakresu danych do wyliczenia premii gwarantowanej indywidualnej i premii kogeneracyjnej indywidualnej oraz sposobu ich wyliczania, w tym sposobu uwzględniania wartości otrzymanej pomocy publicznej
+# Rozporządzenie Ministra Energiiz dnia 22 września 2019 r. w sprawie zakresu danych do wyliczenia premii gwarantowanej indywidualnej i premii kogeneracyjnej indywidualnej oraz sposobu ich wyliczania, w tym sposobu uwzględniania wartości otrzymanej pomocy publicznej Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-22 |
 | Data wydania | 2019-09-30 |
-| Wejście w życie | 2019-10-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1858/text.pdf) |
 
@@ -83,7 +82,7 @@ zakładany niezbędny minimalny poziom zwrotu z kapitału – w przypadku jednos
 8)
 okres wsparcia w latach kalendarzowych;
 9)
-przyznane dla danego roku, na który przyznawana jest premia gwarantowana indywidualna, bezpłatne pozwolenia na emisję gazów cieplarnianych przydzielone jednostce kogeneracji na podstawie art. 10a dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. Urz. UE L 275 z 25.10.2003, str. 32, z późn. zm.) – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 631), zwanej dalej „dyrektywą 2003/87/WE”, o których wartość pomniejszane są koszty przypadające wyłącznie na produkcję ciepła w jednostce kogeneracji.
+przyznane dla danego roku, na który przyznawana jest premia gwarantowana indywidualna, bezpłatne pozwolenia na emisję gazów cieplarnianych przydzielone jednostce kogeneracji na podstawie art. 10a dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. Urz. UE L 275 z 25.10.2003, str. 32, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 113 z 25.04.2013, str. 1, Dz. Urz. UE L 343 z 19.12.2013, str. 1, Dz. Urz. UE L 129 z 30.04.2014, str. 1, Dz. Urz. UE L 264 z 09.10.2015, str. 1, Dz. Urz. UE L 280 z 24.10.2015, str. 39, Dz. Urz. UE L 350 z 29.12.2017, str. 7 oraz Dz. Urz. UE L 76 z 19.03.2018, str. 3. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 631), zwanej dalej „dyrektywą 2003/87/WE”, o których wartość pomniejszane są koszty przypadające wyłącznie na produkcję ciepła w jednostce kogeneracji.
 § 3.
 Wartość bezpłatnych pozwoleń na emisję gazów cieplarnianych, o których mowa w § 2 pkt 9, jest obliczana przez Prezesa URE na podstawie średniej ceny pozwoleń na emisję gazów cieplarnianych w kontraktach terminowych z dostawą na ostatni dzień roku kalendarzowego, w którym składany jest wniosek o dopuszczenie do systemu premii gwarantowanej, notowanych na giełdzie Intercontinental Exchange, obliczanej na dzień składania wniosku, określonej jako średnia z ostatnich 60 dostępnych sesji notowań. Ceny określone podczas poszczególnych sesji notowań Prezes URE przelicza na złote według ogłoszonego przez Narodowy Bank Polski średniego kursu euro w dniu, w którym odbywała się sesja notowań, a jeżeli nie został ogłoszony średni kurs w tym dniu, stosuje ogłoszony przez Narodowy Bank Polski kurs w najbliższym dniu poprzedzającym dzień sesji notowań.
 § 4.
@@ -169,6 +168,5 @@ Pomniejszenia premii albo premii skorygowanej o pomoc inwestycyjną lub wzrost w
 3.
 W przypadku jednostki kogeneracji, o której mowa w art. 6 ust. 1 pkt 2 ustawy, przepisy § 11 ust. 3 stosuje się odpowiednio.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 113 z 25.04.2013, str. 1, Dz. Urz. UE L 343 z 19.12.2013, str. 1, Dz. Urz. UE L 129 z 30.04.2014, str. 1, Dz. Urz. UE L 264 z 09.10.2015, str. 1, Dz. Urz. UE L 280 z 24.10.2015, str. 39, Dz. Urz. UE L 350 z 29.12.2017, str. 7 oraz Dz. Urz. UE L 76 z 19.03.2018, str. 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314). 2) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 113 z 25.04.2013, str. 1, Dz. Urz. UE L 343 z 19.12.2013, str. 1, Dz. Urz. UE L 129 z 30.04.2014, str. 1, Dz. Urz. UE L 264 z 09.10.2015, str. 1, Dz. Urz. UE L 280 z 24.10.2015, str. 39, Dz. Urz. UE L 350 z 29.12.2017, str. 7 oraz Dz. Urz. UE L 76 z 19.03.2018, str. 3.
 

@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-13 |
 | Data wydania | 2013-10-30 |
-| Wejście w życie | 2013-11-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001272) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1272/text.pdf) |
+
+Organizacje producentów i zrzeszenia organizacji producentów
 
 **Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2013 r. poz. 50) wprowadza się następujące zmiany:
 
@@ -46,7 +47,7 @@ source: "eli-html"
 
 - **4)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Organizacje producentów i zrzeszenia organizacji producentów
+#### Rozdział 3a
 
 **Art. 48a.**
 
@@ -138,7 +139,7 @@ source: "eli-html"
 1. W przypadku gdy:
 
 - **1)** organizacja producentów nie spełnia wymagań określonych w art. 126a ust. 1 lit. a lub d rozporządzenia, o którym mowa w pkt 2 załącznika, lub w art. 48a ust. 2 pkt 1 lit. a-e albo
-- **2)** zrzeszenie organizacji producentów nie spełnia wymagań określonych w art. 126a ust. 2 rozporządzenia, o którym mowa w pkt 2 załącznika, lub w art. 48a ust. 2 pkt 2 lit. a-c Prezes Agencji wzywa pisemnie do usunięcia naruszeń oraz określa termin ich usunięcia, nie dłuższy niż 12 miesięcy, biorąc pod uwagę rodzaj naruszenia.
+- **2)** zrzeszenie organizacji producentów nie spełnia wymagań określonych w art. 126a ust. 2 rozporządzenia, o którym mowa w pkt 2 załącznika, lub w art. 48a ust. 2 pkt 2 lit. a-c – Prezes Agencji wzywa pisemnie do usunięcia naruszeń oraz określa termin ich usunięcia, nie dłuższy niż 12 miesięcy, biorąc pod uwagę rodzaj naruszenia.
 
 2. Organizacja producentów albo zrzeszenie organizacji producentów, w terminie wyznaczonym przez Prezesa Agencji w wezwaniu, o którym mowa w ust. 1, informuje, na formularzu opracowanym przez Prezesa Agencji, o usunięciu stwierdzonych naruszeń i przedkłada dokumenty potwierdzające zaistniałe zmiany.
 
@@ -180,7 +181,7 @@ source: "eli-html"
 
 - **6)** po art. 54n dodaje się art. 54na-54nd w brzmieniu: „ Art. 54na. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które naruszają którykolwiek z warunków prowadzenia negocjacji określonych w art. 126c rozporządzenia, o którym mowa w pkt 2 załącznika, z wyłączeniem przypadków, o których mowa w art. 126c ust. 2 lit. d tego rozporządzenia, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
 - **1)** wyrażonej w kilogramach 0,1% ilości mleka objętego tymi negocjacjami oraz
-- **2)** ceny skupu mleka ustalonej przez ministra właściwego do spraw rynków rolnych na podstawie danych rynkowych zbieranych zgodnie z ustawą z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. Nr 42, poz. 471, z późn. zm.) dla miesiąca poprzedzającego miesiąc, w którym stwierdzono naruszenie warunków prowadzenia negocjacji, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które nie przekazują powiadomienia określonego w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika, w terminie określonym w tym rozporządzeniu, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
+- **2)** ceny skupu mleka ustalonej przez ministra właściwego do spraw rynków rolnych na podstawie danych rynkowych zbieranych zgodnie z ustawą z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. Nr 42, poz. 471, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 135, poz. 1145, z 2004 r. Nr 34, poz. 292, z 2007 r. Nr 176, poz. 1238 oraz z 2011 r. Nr 120, poz. 690.) dla miesiąca poprzedzającego miesiąc, w którym stwierdzono naruszenie warunków prowadzenia negocjacji, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które nie przekazują powiadomienia określonego w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika, w terminie określonym w tym rozporządzeniu, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
 - **1)** wyrażonej w kilogramach 0,1% ilości mleka lub przetworów mlecznych wytwarzanych rocznie przez uznaną organizację producentów lub uznane zrzeszenie organizacji producentów oraz
 - **2)** ceny skupu mleka ustalonej przez ministra właściwego do spraw rynków rolnych na podstawie danych rynkowych zbieranych zgodnie z ustawą z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych dla miesiąca poprzedzającego miesiąc, w którym upływa termin przekazania powiadomienia, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które utrudniają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 2 załącznika, podlegają karze pieniężnej w wysokości od 1000 zł do 2000 zł. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które uniemożliwiają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 2 załącznika, podlegają karze pieniężnej w wysokości od 2000 zł do 5000 zł. ” ;
 - **7)** w art. 54o ust. 1 otrzymuje brzmienie: „
@@ -193,5 +194,5 @@ source: "eli-html"
 - **9)** rozporządzenie wykonawcze Komisji (UE) nr 511/2012 z dnia 15 czerwca 2012 r. w sprawie powiadomień dotyczących organizacji producentów i organizacji międzybranżowych oraz negocjacji umownych i stosunków umownych określonych w rozporządzeniu Rady (WE) nr 1234/2007 w odniesieniu do sektora mleka i przetworów mlecznych (Dz. Urz. UE L 156 z 16.06.2012, str. 39);
 - **10)** rozporządzenie delegowane Komisji (UE) nr 880/2012 z dnia 28 czerwca 2012 r. uzupełniające rozporządzenie Rady (WE) nr 1234/2007 w odniesieniu do współpracy międzynarodowej i negocjacji umownych organizacji producentów w sektorze mleka i przetworów mlecznych (Dz. Urz. UE L 263 z 28.09.2012, str. 8). ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 135, poz. 1145, z 2004 r. Nr 34, poz. 292, z 2007 r. Nr 176, poz. 1238 oraz z 2011 r. Nr 120, poz. 690.
 

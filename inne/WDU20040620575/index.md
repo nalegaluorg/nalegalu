@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-05 |
 | Data wydania | 2004-04-14 |
-| Wejście w życie | 2004-05-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040620575) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/575/text.pdf) |
 
+Wykonanie orzeczeń i postanowień
 Wykonaniu podlega:
 1)
 orzeczenie w części dotyczącej zastosowanego środka, o którym mowa w art. 35 ust. 1 lub 2, jeżeli postępowanie zostało ostatecznie zakończone,
@@ -45,15 +45,13 @@ Organ, o którym mowa w ust. 1, zwróci zainteresowanemu złożony przez niego d
 1)
 z upływem okresu pozbawienia prawa wykonywania uprawnień w żegludze morskiej i po stwierdzeniu spełnienia warunków, od których przywrócenie prawa wykonywania uprawnień było uzależnione,
 2)
-jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze morskiej zostało uchylone.
-” ;
+jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze morskiej zostało uchylone. ” ;
 27)
 w art. 48 w ust. 3 wyraz „państwowej” zastępuje się wyrazem „rządowej”;
 28)
-art. 50 otrzymuje brzmienie:
-„
+art. 50 otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. Nr 58, poz. 320, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. Nr 58, poz. 320, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 16, poz. 91, z 1989 r. Nr 33, poz. 175 i Nr 35, poz. 192 oraz z 2000 r. Nr 120, poz. 1268.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
 
@@ -227,7 +225,7 @@ art. 50 otrzymuje brzmienie:
 
 - **26)** w dziale II po rozdziale IV dodaje się rozdział IVa w brzmieniu: „
 
-#### Rozdział IVa Wykonanie orzeczeń i postanowień
+#### Rozdział IVa
 
 **Art. 50.** Nie pobiera się kosztów postępowania od armatora statku o obcej przynależności, z wyjątkiem przypadku, kiedy postępowanie zostało wszczęte na wniosek armatora lub kapitana takiego statku. ” ;
 
@@ -243,5 +241,5 @@ art. 50 otrzymuje brzmienie:
 
 1. Izba morska może nałożyć na winnych nieprzestrzegania przepisów art. 21 ust. 3 i 3a oraz art. 28 ust. 2 karę pieniężną w wysokości do 5 000 zł. ” . W sprawach wypadków morskich, w których postępowanie przed izbami morskimi nie zostało ostatecznie zakończone przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 4, art. 6 ust. 2 oraz art. 12 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 4, art. 6 ust. 2 oraz art. 12 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 16, poz. 91, z 1989 r. Nr 33, poz. 175 i Nr 35, poz. 192 oraz z 2000 r. Nr 120, poz. 1268.
 

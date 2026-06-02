@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 22 października 2018 r. w sprawie bezpieczeństwa i higieny pracy przy obsłudze żurawi wieżowych i szybkomontujących
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 22 października 2018 r. w sprawie bezpieczeństwa i higieny pracy przy obsłudze żurawi wieżowych i szybkomontujących Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-22 |
 | Data wydania | 2018-11-15 |
-| Wejście w życie | 2019-02-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002147) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2147/text.pdf) |
 
@@ -61,8 +60,7 @@ Pracodawca przed dopuszczeniem do pracy operatora żurawia, sygnalisty i hakoweg
 1)
 instrukcję bezpieczeństwa prac transportowych,
 2)
-instrukcję ewakuacji z kabiny żurawia
-oraz zapoznaje ich z postanowieniami zawartymi w tych informacjach i instrukcjach.
+instrukcję ewakuacji z kabiny żurawia – oraz zapoznaje ich z postanowieniami zawartymi w tych informacjach i instrukcjach.
 2.
 Wymóg, o którym mowa w ust. 1 pkt 2, nie dotyczy sygnalisty i hakowego.
 § 6.
@@ -157,8 +155,7 @@ dotyczące czynności, przy których operator powstrzymał się od wykonywania p
 5)
 o przemieszczaniu osób przy użyciu żurawia,
 6)
-o przemieszczaniu ładunku przy użyciu więcej niż jednego żurawia
-które wpisuje operator żurawia w czasie zmiany i potwierdza własnoręcznym podpisem.
+o przemieszczaniu ładunku przy użyciu więcej niż jednego żurawia – które wpisuje operator żurawia w czasie zmiany i potwierdza własnoręcznym podpisem.
 3.
 Przed przystąpieniem do pracy operator żurawia zapoznaje się z informacjami zawartymi w książce dyżurów, o której mowa w ust. 1.
 § 15.
@@ -233,6 +230,5 @@ Dotarcie do kabiny żurawia usytuowanej na wysokości równej 80 m lub większej
 § 23.
 Przy wejściu na żuraw umieszcza się napis ostrzegawczy „Osobom nieupoważnionym wstęp wzbroniony”.
 § 24.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem § 20 i § 21, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia, oraz § 22, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem § 20 i § 21, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia, oraz § 22, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 

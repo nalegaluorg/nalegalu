@@ -8,10 +8,10 @@ pos: 1120
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 7 czerwca 2023 r. w sprawie świadectw, dyplomów państwowych i innych druków
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,1082 +22,666 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-07 |
 | Data wydania | 2023-06-16 |
-| Wejście w życie | 2023-06-17 |
 | Ostatnia zmiana | 2026-03-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001120) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1120/text.pdf) |
 
-Treść rozporządzenia
-
-## Załącznik nr 1 — – Informacje ogólne dotyczące wydawania świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków oraz opis zabezpieczeń przed fałszerstwem dokumentów publicznych
-
-## Załącznik nr 2 — – Wykaz wzorów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków
-
-## Załącznik nr 3 — – Wzory świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły, indeksu, arkusza ocen, zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, zaświadczenia o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia, świadectwa ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych, zaświadczenia o wynikach egzaminu maturalnego, świadectwa dojrzałości, aneksu do świadectwa dojrzałości, certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe, suplementu do dyplomu zawodowego, suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, świadectwa potwierdzającego kwalifikację w zawodzie, zaświadczenia o spełnianiu obowiązku rocznego przygotowania przedszkolnego, informacji o gotowości dziecka do podjęcia nauki w szkole podstawowej, poddruku duplikatu, zaświadczenia o zawodzie, zaświadczenia o przebiegu nauczania i zaświadczenia o braku możliwości wydania duplikatu
-
-## Załącznik nr 4 — – Informacje ogólne dotyczące legitymacji szkolnej, legitymacji przedszkolnej i mLegitymacji szkolnej, wzory tych legitymacji oraz opis zabezpieczeń legitymacji szkolnej i legitymacji przedszkolnej przed fałszerstwem
-
-Treść rozporządzenia
-Na podstawie art. 11 ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230) zarządza się, co następuje:
-§ 1.
-Rozporządzenie określa:
-1)
-warunki i tryb wydawania oraz wzory świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków, w tym umieszczenie na wzorach znaków graficznych, o których mowa w art. 10 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226);
-2)
-tryb i sposób dokonywania sprostowań, zmiany imienia (imion) lub nazwiska oraz wydawania duplikatów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków;
-3)
-tryb i sposób dokonywania uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą;
-4)
-wysokość i sposób dokonywania opłat za wydawanie duplikatów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych, odpisów świadectw dojrzałości i odpisów aneksów do świadectw dojrzałości oraz innych druków, a także za dokonywanie uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą.
-§ 2.
-1.
-Ilekroć w rozporządzeniu jest mowa o:
-1)
-egzaminie potwierdzającym kwalifikacje w zawodzie – należy przez to rozumieć egzamin potwierdzający kwalifikacje w zawodzie, o którym mowa w art. 302a ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245, z 2019 r. poz. 1287 oraz z 2022 r. poz. 1116) i egzamin potwierdzający kwalifikacje w zawodzie, o którym mowa w art. 130 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm.);
-2)
-klasyfikacji zawodów szkolnictwa zawodowego – należy przez to rozumieć klasyfikację zawodów szkolnictwa zawodowego określoną odpowiednio w przepisach wydanych na podstawie art. 24 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2017 r., albo przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900), w brzmieniu obowiązującym przed dniem 1 września 2019 r.;
-3)
-klasyfikacji zawodów szkolnictwa branżowego – należy przez to rozumieć klasyfikację zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
-4)
-podstawie programowej kształcenia w zawodach – należy przez to rozumieć podstawę programową kształcenia w zawodach określoną odpowiednio w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy z dnia 7 września 1991 r. o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2017 r., albo przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.;
-5)
-szkole – należy przez to rozumieć szkołę, o której mowa w art. 18 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
-6)
-szkole polskiej – należy przez to rozumieć szkołę polską, o której mowa w art. 4 pkt 29d ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
-2.
-Do szkół i zespołów szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą – Prawo oświatowe”, które prowadzą kształcenie dzieci obywateli polskich czasowo przebywających za granicą zgodnie z podstawą programową kształcenia ogólnego, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 ustawy – Prawo oświatowe, stosuje się odpowiednio przepisy rozporządzenia dotyczące szkół lub szkół danego typu, z wyjątkiem przepisów § 59, § 61 ust. 10 i 12 oraz § 66.
-3.
-Do szkół i zespołów szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, które umożliwiają uczniom uczęszczającym do szkół funkcjonujących w systemach oświaty innych państw uzupełnianie wykształcenia w zakresie szkoły podstawowej i liceum ogólnokształcącego zgodnie z ramami programowymi kształcenia uzupełniającego i planami nauczania dla szkół polskich, stosuje się odpowiednio przepisy rozporządzenia dotyczące szkół polskich, z wyjątkiem przepisów § 59, § 61 ust. 10 i 12 oraz § 66.
-§ 3.
-1.
-Informacje ogólne dotyczące wydawania świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków oraz opis zabezpieczeń przed fałszerstwem dokumentów publicznych określa załącznik nr 1 do rozporządzenia.
-2.
-Wykaz wzorów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków określa załącznik nr 2 do rozporządzenia.
-3.
-Wzory świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły, indeksu, arkusza ocen, zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, zaświadczenia o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia, świadectwa ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych, zaświadczenia o wynikach egzaminu maturalnego, świadectwa dojrzałości, aneksu do świadectwa dojrzałości, certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe, suplementu do dyplomu zawodowego, suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, świadectwa potwierdzającego kwalifikację w zawodzie, zaświadczenia o spełnianiu obowiązku rocznego przygotowania przedszkolnego, informacji o gotowości dziecka do podjęcia nauki w szkole podstawowej, poddruku duplikatu, zaświadczenia o zawodzie, zaświadczenia o przebiegu nauczania i zaświadczenia o braku możliwości wydania duplikatu określa załącznik nr 3 do rozporządzenia.
-4.
-Informacje ogólne dotyczące legitymacji szkolnej, legitymacji przedszkolnej i mLegitymacji szkolnej, wzory tych legitymacji oraz opis zabezpieczeń legitymacji szkolnej i legitymacji przedszkolnej przed fałszerstwem określa załącznik nr 4 do rozporządzenia.
-§ 4.
-1.
-Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły i legitymację szkolną wydaje szkoła i szkoła polska.
-2.
-Szkoła, wydając legitymację szkolną, może wydać uczniowi, któremu nadano numer PESEL, dodatkowo, mLegitymację szkolną stanowiącą dokument elektroniczny przechowywany i prezentowany przy użyciu oprogramowania przeznaczonego dla urządzeń mobilnych, o którym mowa w art. 19e ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57), zwaną dalej „mLegitymacją szkolną”.
-3.
-Legitymację przedszkolną, zaświadczenie o spełnianiu obowiązku rocznego przygotowania przedszkolnego i informację o gotowości dziecka do podjęcia nauki w szkole podstawowej wydaje odpowiednio dyrektor publicznego i niepublicznego przedszkola i szkoły podstawowej oraz osoba kierująca inną formą wychowania przedszkolnego.
-4.
-Świadectwo ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych, zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty, zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia, świadectwo dojrzałości i jego odpis, aneks do świadectwa dojrzałości i jego odpis, zaświadczenie o wynikach egzaminu maturalnego, certyfikat kwalifikacji zawodowej, dyplom zawodowy, dyplom potwierdzający kwalifikacje zawodowe, suplement do dyplomu zawodowego, suplement do dyplomu potwierdzającego kwalifikacje zawodowe i świadectwo potwierdzające kwalifikację w zawodzie wydają okręgowe komisje egzaminacyjne.
-§ 5.
-1.
-Zaświadczenie o spełnianiu obowiązku rocznego przygotowania przedszkolnego wydaje się na wniosek rodziców dziecka spełniającego obowiązek rocznego przygotowania przedszkolnego.
-2.
-Informację o gotowości dziecka do podjęcia nauki w szkole podstawowej wydaje się rodzicom dziecka spełniającego obowiązek rocznego przygotowania przedszkolnego w terminie do końca kwietnia roku szkolnego poprzedzającego rok szkolny, w którym dziecko ma obowiązek lub może rozpocząć naukę w szkole podstawowej.
-3.
-W przypadku dziecka mogącego podjąć naukę w szkole podstawowej w wieku 6 lat, informację o gotowości dziecka do podjęcia nauki w szkole podstawowej wydaje się na wniosek rodziców złożony nie później niż do dnia 30 września roku szkolnego poprzedzającego rok szkolny, w którym dziecko może rozpocząć naukę w szkole podstawowej.
-§ 6.
-1.
-Szkoła i szkoła polska, na wniosek pełnoletniego ucznia, pełnoletniego absolwenta, rodziców niepełnoletniego ucznia albo rodziców niepełnoletniego absolwenta, wydaje zaświadczenie o przebiegu nauczania. Wnioskodawca potwierdza podpisem otrzymanie zaświadczenia.
-2.
-Szkoła prowadząca kształcenie zawodowe, na wniosek absolwenta, wydaje zaświadczenie o zawodzie, w którym absolwent kształcił się w tej szkole, w szczególności dla celów postępowania rekrutacyjnego do branżowej szkoły II stopnia, o którym mowa w art. 135 ust. 1 pkt 2 ustawy – Prawo oświatowe. Wnioskodawca potwierdza podpisem otrzymanie zaświadczenia.
-3.
-Wniosek o wydanie mLegitymacji szkolnej składa pełnoletni uczeń albo rodzice niepełnoletniego ucznia.
-§ 7.
-1.
-Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły, zaświadczenie o zawodzie i zaświadczenie o przebiegu nauczania wydaje się na podstawie dokumentacji przebiegu nauczania prowadzonej przez szkołę i szkołę polską.
-2.
-Świadectwo ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych przeprowadzanych przez okręgowe komisje egzaminacyjne i zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia wydaje się na podstawie dokumentacji egzaminów eksternistycznych.
-3.
-Zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty wydaje się na podstawie dokumentacji egzaminu ósmoklasisty.
-4.
-Świadectwo dojrzałości, aneks do świadectwa dojrzałości i zaświadczenie o wynikach egzaminu maturalnego wydaje się na podstawie dokumentacji egzaminu maturalnego.
-5.
-Świadectwo dojrzałości w przypadku, o którym mowa w art. 44zzd ust. 4b ustawy z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą”, wydaje się również na podstawie dokumentów, o których mowa w tym przepisie.
-6.
-Certyfikat kwalifikacji zawodowej wydaje się na podstawie dokumentacji egzaminu zawodowego.
-7.
-Świadectwo potwierdzające kwalifikację w zawodzie wydaje się na podstawie dokumentacji egzaminu potwierdzającego kwalifikacje w zawodzie.
-8.
-Informację o gotowości dziecka do podjęcia nauki w szkole podstawowej wydaje się na podstawie dokumentacji prowadzonych obserwacji pedagogicznych dzieci objętych wychowaniem przedszkolnym w przedszkolu, oddziale przedszkolnym w szkole podstawowej lub innej formie wychowania przedszkolnego.
-§ 8.
-1.
-Przedszkole, szkoła podstawowa, w której zorganizowano oddział przedszkolny, inna forma wychowania przedszkolnego, szkoła, szkoła polska, okręgowa komisja egzaminacyjna i inny organ właściwy do wydania duplikatu dokumentu publicznego prowadzi ewidencję blankietów i druków dokumentów publicznych.
-2.
-Ewidencja, o której mowa w ust. 1, zawiera:
-1)
-nazwę producenta blankietu lub druku dokumentu publicznego;
-2)
-numer oznaczenia indywidualnego blankietu lub druku dokumentu publicznego;
-3)
-datę odbioru blankietu lub druku dokumentu publicznego przez podmiot, o którym mowa w ust. 1.
-3.
-Przedszkole, szkoła podstawowa, w której zorganizowano oddział przedszkolny, i inna forma wychowania przedszkolnego prowadzi imienną ewidencję wydanych legitymacji przedszkolnych oraz duplikatów tych legitymacji.
-4.
-Ewidencja, o której mowa w ust. 3, zawiera:
-1)
-imię (imiona) i nazwisko dziecka;
-2)
-nazwę producenta blankietu dokumentu publicznego;
-3)
-numer oznaczenia indywidualnego blankietu dokumentu publicznego;
-4)
-numer wydanego dokumentu publicznego;
-5)
-datę odbioru dokumentu publicznego;
-6)
-podpis rodzica odbierającego dokument publiczny.
-5.
-Szkoła prowadzi imienną ewidencję wydanych odpowiednio świadectw ukończenia szkoły i legitymacji szkolnych oraz ich duplikatów, a także zaświadczeń o szczegółowych wynikach egzaminu ósmoklasisty, świadectw dojrzałości i jego odpisów, aneksów do świadectw dojrzałości i jego odpisów, zaświadczeń o wynikach egzaminu maturalnego, certyfikatów kwalifikacji zawodowych, dyplomów zawodowych, dyplomów potwierdzających kwalifikacje zawodowe i świadectw potwierdzających kwalifikacje w zawodzie przekazywanych szkole przez okręgową komisję egzaminacyjną.
-6.
-Ewidencja, o której mowa w ust. 5, zawiera:
-1)
-imię (imiona) i nazwisko ucznia albo absolwenta;
-2)
-numer PESEL ucznia albo absolwenta;
-3)
-numer wydanego dokumentu publicznego;
-4)
-numer oznaczenia indywidualnego blankietu dokumentu publicznego;
-5)
-nazwę producenta blankietu dokumentu publicznego – w przypadku świadectw ukończenia szkoły i legitymacji szkolnych oraz ich duplikatów;
-6)
-datę odbioru dokumentu publicznego;
-7)
-podpis ucznia, absolwenta, rodziców niepełnoletniego ucznia albo rodziców niepełnoletniego absolwenta, którzy odebrali dokument publiczny.
-7.
-Szkoła polska prowadzi imienną ewidencję wydanych świadectw ukończenia szkoły i legitymacji szkolnych oraz ich duplikatów.
-8.
-Ewidencja, o której mowa w ust. 7, zawiera:
-1)
-imię (imiona) i nazwisko ucznia albo absolwenta;
-2)
-numer PESEL ucznia albo absolwenta;
-3)
-nazwę producenta blankietu dokumentu publicznego;
-4)
-numer wydanego dokumentu publicznego;
-5)
-numer oznaczenia indywidualnego blankietu dokumentu publicznego;
-6)
-datę odbioru dokumentu publicznego;
-7)
-podpis ucznia, absolwenta, rodziców niepełnoletniego ucznia albo rodziców niepełnoletniego absolwenta, którzy odebrali dokument publiczny.
-9.
-Podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, prowadzi imienną ewidencję wydanych odpowiednio certyfikatów kwalifikacji zawodowych i świadectw potwierdzających kwalifikacje w zawodzie, przekazywanych temu podmiotowi przez okręgową komisję egzaminacyjną.
-10.
-Ewidencja, o której mowa w ust. 9, zawiera:
-1)
-imię (imiona) i nazwisko osoby, która zaliczyła kwalifikacyjny kurs zawodowy i otrzymała odpowiednio certyfikat kwalifikacji zawodowej albo świadectwo potwierdzające kwalifikację w zawodzie;
-2)
-numer PESEL osoby, która zaliczyła kwalifikacyjny kurs zawodowy i otrzymała odpowiednio certyfikat kwalifikacji zawodowej albo świadectwo potwierdzające kwalifikację w zawodzie;
-3)
-numer wydanego dokumentu publicznego;
-4)
-numer oznaczenia indywidualnego blankietu dokumentu publicznego;
-5)
-datę odbioru dokumentu publicznego;
-6)
-podpis osoby, o której mowa w pkt 1, która odebrała dokument publiczny, a w przypadku osoby niepełnoletniej – podpis jej rodziców.
-§ 9.
-1.
-Okręgowa komisja egzaminacyjna prowadzi imienną ewidencję wydanych dokumentów, o których mowa w § 4 ust. 4, a także wydanych duplikatów dokumentów, o których mowa w § 61 ust. 1, 6 i 11.
-2.
-Ewidencja, o której mowa w ust. 1, zawiera:
-1)
-imię (imiona) i nazwisko osoby, której wydano dokument publiczny;
-2)
-datę urodzenia osoby, której wydano dokument publiczny;
-3)
-numer PESEL osoby, której wydano dokument publiczny;
-4)
-nazwę producenta blankietu dokumentu publicznego;
-5)
-numer wydanego dokumentu publicznego;
-6)
-nazwę i adres szkoły, do której przekazano dokument publiczny – w przypadku zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, świadectwa dojrzałości i jego odpisu, aneksu do świadectwa dojrzałości i jego odpisu oraz zaświadczenia o wynikach egzaminu maturalnego;
-7)
-nazwę i adres odpowiednio szkoły lub podmiotu, do którego przekazano dokument publiczny – w przypadku certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe i świadectwa potwierdzającego kwalifikację w zawodzie przekazywanych do szkoły lub podmiotu, o którym mowa w § 8 ust. 9;
-8)
-datę odbioru dokumentu publicznego i podpis osoby, która otrzymała dokument publiczny, albo zwrotne potwierdzenie odbioru przesyłki poleconej, jeżeli dokument publiczny przesłano za pośrednictwem operatora pocztowego – w przypadku świadectwa ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych, certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe, świadectwa potwierdzającego kwalifikację w zawodzie i zaświadczenia o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia wydawanego osobie przystępującej do egzaminu zgodnie z przepisami w sprawie egzaminów eksternistycznych oraz osobie przystępującej do egzaminu zawodowego lub egzaminu potwierdzającego kwalifikacje w zawodzie po ukończeniu kwalifikacyjnego kursu zawodowego;
-9)
-datę odbioru duplikatu oraz podpis osoby, która otrzymała duplikat, albo zwrotne potwierdzenie odbioru przesyłki poleconej, jeżeli duplikat przesłano za pośrednictwem operatora pocztowego – w przypadku duplikatu dokumentu publicznego wydawanego przez okręgową komisję egzaminacyjną, o którym mowa odpowiednio w § 61 ust. 1, 6 i 11.
-3.
-Ewidencja, o której mowa w ust. 1, w zakresie dokumentów wymienionych w ust. 2 pkt 6 i 7, jest prowadzona w postaci elektronicznej bazy danych.
-§ 10.
-1.
-W przypadkach, o których mowa w § 20 ust. 3, § 59 ust. 5, § 60 ust. 2 i 4, § 63 ust. 4 i 5, w ewidencjach, o których mowa odpowiednio w § 8 ust. 3, 5 i 7 oraz § 9 ust. 1:
-1)
-wpisuje się adnotację o zniszczeniu zwróconego dokumentu publicznego;
-2)
-nadaje się nowy numer wydanego dokumentu publicznego lub jego duplikatu oraz wpisuje się datę odbioru dokumentu publicznego lub jego duplikatu.
-2.
-W przypadku, o którym mowa w ust. 1:
-1)
-ewidencja, o której mowa w § 8 ust. 3, zawiera podpis rodzica dziecka, który odebrał dokument publiczny lub jego duplikat;
-2)
-ewidencja, o której mowa w § 8 ust. 5 i 7, zawiera podpis ucznia, absolwenta, rodziców niepełnoletniego ucznia albo rodziców niepełnoletniego absolwenta, którzy odebrali dokument publiczny lub jego duplikat;
-3)
-ewidencja, o której mowa w § 9 ust. 1, zawiera podpis osoby, która odebrała dokument publiczny lub jego duplikat, albo zwrotne potwierdzenie odbioru przesyłki poleconej, jeżeli dokument publiczny lub jego duplikat przesłano za pośrednictwem operatora pocztowego.
-§ 11.
-1.
-Po ukończeniu nauki w danej klasie, z wyjątkiem klasy programowo najwyższej, uczeń szkoły dla dzieci i młodzieży, w zależności od wyników klasyfikacji rocznej, otrzymuje świadectwo szkolne promocyjne potwierdzające otrzymanie albo nieotrzymanie promocji do klasy programowo wyższej.
-2.
-Po ukończeniu nauki w danym semestrze, z wyjątkiem semestru programowo najwyższego, słuchacz branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych, w zależności od wyników klasyfikacji semestralnej, otrzymuje wpis do indeksu potwierdzający otrzymanie albo nieotrzymanie promocji na semestr programowo wyższy.
-3.
-Począwszy od klasy IV szkoły podstawowej, uczeń szkoły dla dzieci i młodzieży, który otrzymał promocję do klasy programowo wyższej z wyróżnieniem, otrzymuje świadectwo szkolne promocyjne potwierdzające uzyskanie promocji z wyróżnieniem.
-4.
-W przypadku, o którym mowa w art. 44i ust. 4 i 7 ustawy, wraz ze świadectwem, o którym mowa w ust. 1, uczeń otrzymuje informację o ocenach opisowych w formie pisemnej.
-§ 12.
-1.
-Uczeń szkoły i szkoły polskiej, który ukończył daną szkołę, otrzymuje świadectwo ukończenia szkoły.
-2.
-Uczeń szkoły dla dzieci i młodzieży, który ukończył szkołę z wyróżnieniem, otrzymuje świadectwo ukończenia szkoły potwierdzające ukończenie szkoły z wyróżnieniem.
-§ 13.
-1.
-Dyplom zawodowy może otrzymać osoba, która posiada:
-1)
-certyfikaty kwalifikacji zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie zgodnie z klasyfikacją zawodów szkolnictwa branżowego oraz
-2)
-świadectwo ukończenia szkoły ponadgimnazjalnej albo szkoły ponadpodstawowej albo zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej, branżowej szkoły I stopnia lub branżowej szkoły II stopnia, odpowiednio do poziomu kształcenia w danym zawodzie wskazanym zgodnie z klasyfikacją zawodów szkolnictwa branżowego.
-2.
-Dyplom zawodowy w zawodzie nauczanym na poziomie technika, w którym wyodrębniono zgodnie z klasyfikacją zawodów szkolnictwa branżowego co najmniej jedną kwalifikację wspólną z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, może otrzymać również osoba, która:
-1)
-posiada:
-a)
-dyplom zawodowy w zawodzie nauczanym na poziomie branżowej szkoły I stopnia, wydany po zdaniu egzaminu zawodowego, którego zakres odpowiada kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, wspólnej z zawodem nauczanym na poziomie branżowej szkoły I stopnia oraz
-b)
-certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej wyłącznie w zawodzie nauczanym na poziomie technika, oraz
-c)
-świadectwo ukończenia szkoły ponadgimnazjalnej albo szkoły ponadpodstawowej, dających wykształcenie średnie lub średnie branżowe albo zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia;
-2)
-spełnia warunki określone w przepisach wydanych na podstawie art. 11b ustawy.
-3.
-Dyplom zawodowy w zawodzie nauczanym na poziomie technika może otrzymać osoba, która nie spełnia warunków określonych w ust. 1 lub 2, jeżeli:
-1)
-posiada dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej, wydany po zdaniu egzaminu potwierdzającego kwalifikacje zawodowe, którego zakres odpowiada kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, wspólnej z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, oraz spełnia warunki, o których mowa w ust. 2 pkt 1 lit. b i c;
-2)
-ukończyła dokształcanie teoretyczne młodocianych pracowników w zasadniczej szkole zawodowej lub branżowej szkole I stopnia oraz posiada świadectwo czeladnicze w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, wydane po zdaniu egzaminu czeladniczego, którego zakres odpowiada kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, wspólnej z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, przeprowadzanego zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159), w brzmieniu obowiązującym przed dniem 1 września 2012 r., oraz spełnia warunki, o których mowa w ust. 2 pkt 1 lit. b i c;
-3)
-posiada świadectwo uzyskania tytułu zawodowego w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej wydane po zdaniu egzaminu kwalifikacyjnego przeprowadzonego przez państwową komisję egzaminacyjną powołaną przez kuratora oświaty, którego zakres odpowiada kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, wspólnym z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, oraz spełnia warunki, o których mowa w ust. 2 pkt 1 lit. b i c.
-4.
-Dyplom zawodowy wydaje się na wniosek osoby, o której mowa w ust. 1–3, złożony do dyrektora okręgowej komisji egzaminacyjnej, który wydał certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w danym zawodzie, z której egzamin zawodowy został zdany jako ostatni. Do wniosku dołącza się odpowiednie dokumenty, o których mowa w ust. 1–3 albo w przepisach wydanych na podstawie art. 11b ustawy.
-5.
-Absolwentom szkoły prowadzącej kształcenie zawodowe, którzy w danym roku szkolnym otrzymali świadectwo ukończenia tej szkoły i posiadają certyfikaty kwalifikacji zawodowych w zakresie wszystkich kwalifikacji wyodrębnionych w zawodzie, w którym kształci ta szkoła, dyplom zawodowy wydaje się na podstawie przekazanego przez dyrektora tej szkoły do okręgowej komisji egzaminacyjnej wykazu absolwentów w danym roku szkolnym, zawierającego imiona i nazwiska absolwentów oraz ich numery PESEL, wraz z informacją o posiadanych przez absolwenta certyfikatach kwalifikacji zawodowych, uzyskanych w trakcie kształcenia w szkole.
-6.
-Słuchaczom szkoły policealnej, którzy w danym roku szkolnym otrzymali certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie, w którym kształci ta szkoła i z zakresu której egzamin zawodowy został zdany jako ostatni, dyplom zawodowy wydaje się na podstawie przekazanego przez dyrektora tej szkoły do okręgowej komisji egzaminacyjnej wykazu słuchaczy w danym roku szkolnym, zawierającego imiona i nazwiska słuchaczy oraz ich numery PESEL, wraz z informacją o posiadanych przez słuchacza certyfikatach, uzyskanych w trakcie kształcenia w szkole.
-7.
-W przypadku absolwenta albo słuchacza, o których mowa w ust. 5 i 6, posiadających świadectwo potwierdzające kwalifikację w zawodzie, certyfikat kwalifikacji zawodowej albo świadectwo czeladnicze nieuzyskane w trakcie kształcenia w danej szkole, dyplom zawodowy wydaje się na wniosek tego absolwenta albo słuchacza. Do wniosku stosuje się przepis ust. 4.
-8.
-Dyrektor szkoły przekazuje okręgowej komisji egzaminacyjnej wykazy, o których mowa odpowiednio w ust. 5 i 6, w terminie 7 dni od dnia zakończenia rocznych zajęć dydaktyczno-wychowawczych.
-§ 14.
-Okręgowa komisja egzaminacyjna, która wydała dyplom zawodowy, wydaje suplement do dyplomu zawodowego sporządzony na podstawie efektów kształcenia określonych w podstawie programowej kształcenia w danym zawodzie szkolnictwa branżowego.
-§ 15.
-1.
-Dyplom potwierdzający kwalifikacje zawodowe może otrzymać osoba, która posiada:
-1)
-świadectwa potwierdzające wszystkie kwalifikacje wyodrębnione w danym zawodzie zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego oraz
-2)
-świadectwo ukończenia szkoły ponadgimnazjalnej albo szkoły ponadpodstawowej albo zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla zasadniczej szkoły zawodowej, branżowej szkoły I stopnia lub branżowej szkoły II stopnia odpowiednio do poziomu kształcenia w danym zawodzie wskazanym zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego.
-2.
-Dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika, w którym wyodrębniono zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego, co najmniej jedną kwalifikację wspólną z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, może otrzymać również osoba, która:
-1)
-posiada:
-a)
-dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, wydany po zdaniu egzaminu potwierdzającego kwalifikacje w zawodzie, którego zakres odpowiada kwalifikacji lub kwalifikacjom wyodrębnionym w zawodzie nauczanym na poziomie technika, wspólnym z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia oraz
-b)
-świadectwo lub świadectwa potwierdzające kwalifikacje wyodrębnione wyłącznie w zawodzie nauczanym na poziomie technika, oraz
-c)
-świadectwo ukończenia szkoły ponadgimnazjalnej albo szkoły ponadpodstawowej, dających wykształcenie średnie lub średnie branżowe albo zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia;
-2)
-spełnia warunki określone w przepisach wydanych na podstawie art. 11b ustawy.
-3.
-Dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika może otrzymać osoba, która nie spełnia warunków określonych w ust. 1 lub 2, jeżeli:
-1)
-posiada dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej, wydany po zdaniu egzaminu potwierdzającego kwalifikacje zawodowe, którego zakres odpowiada kwalifikacji lub kwalifikacjom wyodrębnionym w zawodzie nauczanym na poziomie technika, wspólnym z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, oraz spełnia warunki określone ust. 2 pkt 1 lit. b i c;
-2)
-ukończyła dokształcanie teoretyczne młodocianych pracowników w zasadniczej szkole zawodowej lub branżowej szkole I stopnia oraz posiada świadectwo czeladnicze w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, wydane po zdaniu egzaminu czeladniczego, którego zakres odpowiada kwalifikacji lub kwalifikacjom wyodrębnionym w zawodzie nauczanym na poziomie technika, wspólnym z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, przeprowadzanego zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle, w brzmieniu obowiązującym przed dniem 1 września 2012 r., oraz spełnia warunki, o których mowa w ust. 2 pkt 1 lit. b i c;
-3)
-posiada świadectwo uzyskania tytułu zawodowego w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej, wydane po zdaniu egzaminu kwalifikacyjnego przeprowadzonego przez państwową komisję egzaminacyjną powołaną przez kuratora oświaty, którego zakres odpowiada kwalifikacji lub kwalifikacjom wyodrębnionym w zawodzie nauczanym na poziomie technika, wspólnym z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, oraz spełnia warunki, o których mowa w ust. 2 pkt 1 lit. b i c.
-4.
-Dyplom potwierdzający kwalifikacje zawodowe wydaje się na wniosek osoby, o której mowa w ust. 1–3, złożony do dyrektora okręgowej komisji egzaminacyjnej, który wydał świadectwo potwierdzające kwalifikację wyodrębnioną w danym zawodzie, z zakresu której egzamin potwierdzający kwalifikacje w zawodzie został zdany jako ostatni. Do wniosku dołącza się dokumenty, o których mowa w ust. 1–3 albo w przepisach wydanych na podstawie art. 11b ustawy.
-§ 16.
-Okręgowa komisja egzaminacyjna, która wydała dyplom potwierdzający kwalifikacje zawodowe, wydaje suplement do dyplomu potwierdzającego kwalifikacje zawodowe sporządzony na podstawie efektów kształcenia określonych w odpowiedniej podstawie programowej kształcenia w zawodach.
-§ 17.
-Osoba, która zdała egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia, otrzymuje zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia.
-§ 18.
-1.
-Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły, arkusz ocen i indeks wypełnia się czytelnie, bez dokonywania poprawek.
-2.
-Świadectwo ukończenia szkoły i duplikat tego świadectwa wypełnia się w postaci elektronicznej.
-3.
-Świadectwo szkolne promocyjne, arkusz ocen i indeks wypełnia się pismem ręcznym lub w postaci elektronicznej, z uwzględnieniem przepisu § 49.
-4.
-Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły i arkusz ocen wypełniane w postaci elektronicznej przybierają postać papierowego wydruku dokumentu utworzonego i wypełnionego pierwotnie w postaci elektronicznej.
-§ 19.
-1.
-Na dokumentach wydawanych według wzorów określonych w załącznikach nr 3 i 4 do rozporządzenia, odpowiednio imię (imiona) i nazwisko, miesiąc w dacie urodzenia, klasę lub semestr, oceny z zajęć edukacyjnych, ocenę zachowania lub miesiąc wydania danego dokumentu wpisuje się wyrazami w pełnym brzmieniu i bez stosowania skrótów.
-2.
-Dokumenty wydawane według wzorów określonych w załączniku nr 3 do rozporządzenia opatruje się wyraźnym odciskiem pieczęci urzędowej lub pieczątki.
-3.
-Nazwę szkoły i szkoły polskiej wpisuje się w pełnym brzmieniu zgodnie z nazwą ustaloną w statucie szkoły albo szkoły polskiej, z tym że w nazwie szkoły wchodzącej w skład zespołu szkół lub specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii i placówki kształcenia ustawicznego można pominąć nazwę zespołu lub specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii i placówki kształcenia ustawicznego.
-4.
-W wierszach, które nie są wypełniane, wstawia się poziomą kreskę, a w przypadku:
-1)
-zwolnienia ucznia z zajęć edukacyjnych – w wierszu przeznaczonym na wpisanie oceny z tych zajęć wpisuje się wyraz odpowiednio „zwolniony” albo „zwolniona”;
-2)
-nieklasyfikowania ucznia z zajęć edukacyjnych – w wierszu przeznaczonym na wpisanie oceny z tych zajęć wpisuje się wyraz odpowiednio „nieklasyfikowany” albo „nieklasyfikowana”.
-5.
-W przypadku niewypełnienia kilku kolejnych wierszy można je przekreślić ukośną kreską, z wyjątkiem pierwszego i ostatniego wolnego wiersza, w których wstawia się poziome kreski.
-6.
-Nazwy zajęć edukacyjnych wpisuje się w pełnym brzmieniu. Dopuszcza się wpisanie nazwy zajęć edukacyjnych w dwóch wierszach, z tym że w pierwszym wierszu przeznaczonym na wpisanie oceny z zajęć edukacyjnych wstawia się poziomą kreskę.
-7.
-Na świadectwie szkolnym promocyjnym, świadectwie ukończenia szkoły, arkuszu ocen i indeksie, w części „Obowiązkowe zajęcia edukacyjne”, wpisuje się obowiązkowe zajęcia edukacyjne zgodnie z kolejnością przyjętą w ramowym planie nauczania dla danego typu szkoły na dany etap edukacyjny, określonym w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 i ust. 4 ustawy – Prawo oświatowe, oraz zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3 ustawy.
-§ 20.
-1.
-Jako datę wydania świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły przyjmuje się datę zakończenia rocznych zajęć dydaktyczno-wychowawczych.
-2.
-W przypadku ucznia:
-1)
-który przystępował do egzaminu poprawkowego,
-2)
-który przystępował do egzaminu klasyfikacyjnego,
-3)
-który przystępował do sprawdzianu wiadomości i umiejętności,
-4)
-któremu ustalono roczną ocenę klasyfikacyjną w związku ze złożonymi zastrzeżeniami po zakończeniu rocznych zajęć dydaktyczno-wychowawczych
-jako datę wydania świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły przyjmuje się datę podjęcia przez radę pedagogiczną uchwały w sprawie wyników odpowiednio promocji albo klasyfikacji i promocji tego ucznia.
-3.
-Uczniowi, któremu w wyniku:
-1)
-przeprowadzonego sprawdzianu wiadomości i umiejętności podwyższono roczną ocenę klasyfikacyjną z zajęć edukacyjnych lub
-2)
-głosowania komisji powołanej przez dyrektora szkoły podwyższono roczną ocenę klasyfikacyjną zachowania
-wydaje się nowe świadectwo szkolne promocyjne i świadectwo ukończenia szkoły za zwrotem świadectwa lub jego duplikatu, wydanego poprzednio.
-§ 21.
-Jako datę wydania zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, świadectwa dojrzałości, aneksu do świadectwa dojrzałości, zaświadczenia o wynikach egzaminu maturalnego, certyfikatu kwalifikacji zawodowej i dyplomu zawodowego przyjmuje się datę określoną w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze podwójne tiret drugie i trzecie ustawy.
-§ 22.
-W przypadkach, o których mowa w § 20 ust. 3, § 59 ust. 5 i § 60 ust. 2, na nowo wydawanym dokumencie przyjmuje się odpowiednio datę zgodnie z przepisami § 20 ust. 1 lub 2 lub § 21.
-§ 23.
-1.
-Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły i indeks wydawane odpowiednio przez szkołę i szkołę polską opatruje się odciskiem pieczęci urzędowej szkoły albo szkoły polskiej.
-2.
-Świadectwa szkolne promocyjne i świadectwa ukończenia szkoły wydawane przez szkołę albo szkołę polską podpisują odpowiednio dyrektor szkoły albo szkoły polskiej i wychowawca. W uzasadnionych przypadkach świadectwo szkolne promocyjne i świadectwo ukończenia szkoły może podpisać, zamiast wychowawcy klasy, inny nauczyciel wskazany przez dyrektora szkoły albo szkoły polskiej.
-§ 24.
-W przypadku osoby, która nie posiada numeru PESEL, na dokumentach wydawanych według wzorów określonych załącznikach nr 3 i 4 do rozporządzenia, w ewidencjach, o których mowa w § 8 ust. 3, 5, 7 i 9 oraz § 9 ust. 1, oraz w wykazach, o których mowa w § 13 ust. 5 i 6, zamiast numeru PESEL wpisuje się nazwę i numer dokumentu potwierdzającego tożsamość.
-§ 25.
-1.
-Na świadectwie szkolnym promocyjnym i w arkuszu ocen, w części dotyczącej wyników klasyfikacji rocznej, wpisuje się obowiązkowe zajęcia edukacyjne i roczne oceny klasyfikacyjne z tych zajęć.
-2.
-W arkuszu ocen i indeksie, w części dotyczącej wyników klasyfikacji semestralnej, wpisuje się obowiązkowe zajęcia edukacyjne i semestralne oceny klasyfikacyjne z tych zajęć.
-3.
-Na świadectwie ukończenia szkoły oraz w arkuszu ocen, w części dotyczącej wyników klasyfikacji końcowej, wpisuje się obowiązkowe zajęcia edukacyjne i końcowe oceny klasyfikacyjne z tych zajęć.
-4.
-Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen ucznia liceum ogólnokształcącego i technikum, w części „Obowiązkowe zajęcia edukacyjne”, nad przedmiotem „historia”, wpisuje się obowiązkowe zajęcia edukacyjne realizowane zgodnie z § 9 rozporządzenia Ministra Edukacji Narodowej z dnia 3 kwietnia 2019 r. w sprawie ramowych planów nauczania dla publicznych szkół (Dz. U. poz. 639, z 2020 r. poz. 1008, z 2022 r. poz. 658 oraz z 2023 r. poz. 277).
-5.
-Jeżeli szkoła prowadząca kształcenie zawodowe zrealizowała obowiązkowe zajęcia edukacyjne, o których mowa w § 4 ust. 5 pkt 2 rozporządzenia Ministra Edukacji Narodowej z dnia 3 kwietnia 2019 r. w sprawie ramowych planów nauczania dla publicznych szkół, na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen, w części „Obowiązkowe zajęcia edukacyjne”, wpisuje się nazwę tych zajęć oraz ocenę z tych zajęć. W przypadku realizacji obowiązkowych zajęć edukacyjnych przygotowujących uczniów do uzyskania dodatkowych umiejętności zawodowych związanych z nauczanym zawodem, o których mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe, wpisuje się również adnotację „dodatkowe umiejętności zawodowe”.
-6.
-Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen, w miejscu przeznaczonym na wpisanie ocen klasyfikacyjnych z religii/etyki, wpisuje się:
-1)
-poziomą kreskę, jeżeli uczeń nie uczęszczał na żadne z tych zajęć;
-2)
-ocenę z religii albo ocenę z etyki, jeżeli uczeń uczęszczał na jedne z tych zajęć, bez wskazywania, z jakich zajęć jest to ocena;
-3)
-ocenę z religii i ocenę z etyki, jeżeli uczeń uczęszczał na zajęcia z religii i na zajęcia z etyki.
-7.
-Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen, w części „Dodatkowe zajęcia edukacyjne”, wpisuje się dodatkowe zajęcia edukacyjne, o których mowa w art. 109 ust. 1 pkt 2 ustawy – Prawo oświatowe, i zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3 ustawy.
-8.
-Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen, w części „Szczególne osiągnięcia”, wpisuje się:
-1)
-uzyskane wysokie miejsca nagrodzone lub uhonorowane zwycięskim tytułem w zawodach wiedzy, zawodach artystycznych i zawodach sportowych, organizowanych przez kuratora oświaty albo organizowanych, co najmniej na szczeblu powiatowym, przez inne podmioty działające na terenie szkół;
-2)
-osiągnięcia w aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu;
-3)
-realizację lub ukończenie programu nauczania ustalonego przez zagraniczną instytucję edukacyjną, o którym mowa w art. 21 ust. 3 ustawy – Prawo oświatowe, wraz z nazwą tego programu, jeżeli uczeń uczęszczał do oddziału międzynarodowego, w którym ten program był realizowany.
-9.
-Uczestnictwo ucznia w zajęciach wychowania do życia w rodzinie na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen wpisuje się w części „Inne zajęcia”. W miejscu przeznaczonym na wpisanie oceny z tych zajęć wpisuje się odpowiednio „uczestniczył” albo „uczestniczyła”.
-10.
-Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen ucznia, który uzyskał odpowiednio tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata albo finalisty olimpiady przedmiotowej po ustaleniu rocznej lub semestralnej oceny klasyfikacyjnej z zajęć edukacyjnych, wpisuje się, z danych zajęć edukacyjnych, celującą końcową ocenę klasyfikacyjną.
-§ 26.
-1.
-Świadectwo szkolne promocyjne i świadectwo ukończenia szkoły z językiem nauczania mniejszości narodowej, mniejszości etnicznej lub językiem regionalnym, w której zajęcia są prowadzone w tym języku, mogą składać się z dwóch części.
-2.
-Część pierwszą świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły, o których mowa w ust. 1, stanowi świadectwo według wzoru określonego dla danego typu szkoły, wypełnione w języku polskim.
-3.
-Część drugą świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły, o których mowa w ust. 1, stanowi świadectwo według tego samego wzoru określonego dla danego typu szkoły, przetłumaczone, wypełnione w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym. Symbol świadectwa zawiera na końcu dodatkowy znak „-” i literę albo litery wskazujące język danej mniejszości narodowej, etnicznej albo mniejszości posługującej się językiem regionalnym odpowiednio: B – białoruski, Cz – czeski, L – litewski, N – niemiecki, O – ormiański, Rs – rosyjski, S – słowacki, U – ukraiński, J (jidysz) albo Hr (hebrajski) – żydowski, Kr – karaimski, Ł – łemkowski, Rm – romski, T – tatarski i Ks – kaszubski.
-4.
-Część drugą świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły, o których mowa w ust. 1, wydaje się na wniosek pełnoletniego ucznia lub rodziców niepełnoletniego ucznia.
-5.
-Tłumaczenie, wypełnienie i wydruk świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły w odpowiednim języku danej mniejszości narodowej, języku danej mniejszości etnicznej lub języku regionalnym zapewnia dyrektor szkoły.
-6.
-Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen ucznia, który realizował zajęcia z języka mniejszości narodowej, języka mniejszości etnicznej lub języka regionalnego oraz zajęcia z własnej historii i kultury mniejszości lub społeczności posługującej się językiem regionalnym:
-1)
-język mniejszości narodowej, język mniejszości etnicznej lub język regionalny wpisuje się w części „Obowiązkowe zajęcia edukacyjne”, wpisując status tego języka („język mniejszości narodowej”, „język mniejszości etnicznej” lub „język regionalny”) oraz jego nazwę;
-2)
-historię i kulturę własną mniejszości lub społeczności posługującej się językiem regionalnym wpisuje się w części „Dodatkowe zajęcia edukacyjne”, wpisując nazwę tych zajęć („historia i kultura”) oraz nazwę mniejszości narodowej, mniejszości etnicznej lub społeczności posługującej się językiem regionalnym, której one dotyczą.
-7.
-Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen ucznia, który realizował dodatkowo zajęcia z geografii państwa, z którego obszarem kulturowym utożsamia się mniejszość narodowa, w części „Inne zajęcia”, wpisuje się nazwę tych zajęć („geografia”) oraz nazwę tego państwa. W miejscu przeznaczonym na wpisanie oceny z tych zajęć wpisuje się odpowiednio „uczestniczył” albo „uczestniczyła”.
-§ 27.
-Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły wydawanym uczniowi szkoły lub oddziału dwujęzycznego oraz w arkuszu ocen ucznia szkoły lub oddziału dwujęzycznego:
-1)
-obok nazwy przedmiotu nauczanego dwujęzycznie wpisuje się adnotację odpowiednio „nauczany dwujęzycznie” albo „nauczana dwujęzycznie” albo wpisuje się skrót „ND”;
-2)
-obok nazwy języka obcego nowożytnego, który jest drugim językiem nauczania w liceum ogólnokształcącym i technikum, wpisuje się adnotację „poziom dwujęzyczny” albo wpisuje się skrót „PD”.
-§ 28.
-Na świadectwie szkolnym promocyjnym, świadectwie ukończenia szkoły oraz w arkuszu ocen, w części „Obowiązkowe zajęcia edukacyjne”, wpisuje się uczestnictwo uczniów w zajęciach sportowych realizowanych w oddziałach i szkołach sportowych oraz w oddziałach i szkołach mistrzostwa sportowego. W miejscu przeznaczonym na wpisanie oceny z tych zajęć wstawia się poziomą kreskę.
-§ 29.
-Na świadectwie szkolnym promocyjnym, świadectwie ukończenia szkoły oraz w arkuszu ocen, obok nazwy języka obcego nowożytnego, wpisuje się:
-1)
-w szkole podstawowej (klasy IV-VIII):
-a)
-adnotację „II.1.” – w przypadku języka obcego nowożytnego, który jest nauczany jako pierwszy (kontynuacja z klas I-III),
-b)
-adnotację „II.1.DJ” – w przypadku języka obcego nowożytnego, który jest nauczany jako pierwszy dla oddziałów dwujęzycznych,
-c)
-adnotację „II.2.” – w przypadku języka obcego nowożytnego, który jest nauczany jako drugi od początku w klasie VII,
-d)
-adnotację „II.2.DJ” – w przypadku języka obcego nowożytnego, który jest nauczany jako drugi od początku w klasie VII w oddziałach dwujęzycznych;
-2)
-w branżowej szkole I stopnia:
-a)
-adnotację „III.BS1.1” – w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 1 lit. a,
-b)
-adnotację „III.BS1.2” – w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 1 lit. c,
-c)
-adnotację „III.BS1.0” – w przypadku języka obcego nowożytnego, który jest nauczany od początku w klasie I;
-3)
-w liceum ogólnokształcącym i technikum:
-a)
-adnotację „III.1.P” – w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 1 lit. a, w zakresie podstawowym,
-b)
-adnotację „III.1.R” – w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 1 lit. a, w zakresie rozszerzonym,
-c)
-adnotację „III.2.0.” – w przypadku języka obcego nowożytnego, który jest nauczany od początku w klasie I,
-d)
-adnotację „III.2.” – w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 1 lit. c,
-e)
-adnotację „III.DJ” – w przypadku języka obcego nowożytnego, który jest nauczany:
-– jako kontynuacja języka, o którym mowa w pkt 1 lit. a albo c albo
-– od początku w klasie I liceum ogólnokształcącego dwujęzycznego, technikum dwujęzycznego lub w oddziale dwujęzycznym w liceum ogólnokształcącym lub technikum, albo
-– jako kontynuacja języka z klasy wstępnej;
-4)
-w branżowej szkole II stopnia:
-a)
-adnotację „III.BS2.1” – w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 2 lit. a,
-b)
-adnotację „III.BS2.2” – w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 2 lit. b,
-c)
-adnotację „III.BS2.0” – w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 2 lit. c.
-§ 30.
-Na świadectwo ukończenia liceum ogólnokształcącego dla dorosłych wydawane absolwentowi branżowej szkoły I stopnia lub absolwentowi zasadniczej szkoły zawodowej, który został przyjęty do klasy drugiej liceum ogólnokształcącego dla dorosłych, ze świadectwa ukończenia odpowiednio branżowej szkoły I stopnia lub zasadniczej szkoły zawodowej, przepisuje się odpowiednio ocenę z:
-1)
-podstaw przedsiębiorczości albo biznesu i zarządzania jako ocenę z biznesu i zarządzania;
-2)
-wiedzy o społeczeństwie albo historii i teraźniejszości jako ocenę z historii i teraźniejszości – w przypadku liceum ogólnokształcącego dla dorosłych kształcącego w formie zaocznej;
-3)
-informatyki – w przypadku liceum ogólnokształcącego dla dorosłych kształcącego w formie zaocznej.
-§ 31.
-Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły, wydawanych przez szkołę i szkołę polską oraz w indeksie, w miejscu przeznaczonym na wpisanie numeru, wpisuje się numer pod którym uczeń albo słuchacz jest wpisany w księdze uczniów albo księdze słuchaczy.
-§ 32.
-1.
-W arkuszu ocen ucznia z niepełnosprawnością intelektualną w stopniu lekkim realizującego w danym roku szkolnym program nauczania dostosowany do indywidualnych potrzeb i możliwości na podstawie orzeczenia o potrzebie kształcenia specjalnego wydanego przez zespół orzekający działający w publicznej poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, w miejscu przeznaczonym na wpisanie informacji o tym orzeczeniu, wpisuje się nazwę poradni, która wydała to orzeczenie.
-2.
-W arkuszu ocen po wpisaniu wyników klasyfikacji rocznej lub semestralnej uzyskanych w klasie programowo najwyższej lub semestrze programowo najwyższym szkoły i szkoły polskiej danego typu, w kolejnej kolumnie, wpisuje się wyniki klasyfikacji końcowej.
-3.
-W arkuszu ocen ucznia liceum ogólnokształcącego i technikum, w części „Obowiązkowe zajęcia edukacyjne”, obok nazwy obowiązkowych zajęć edukacyjnych realizowanych w zakresie rozszerzonym wpisuje się adnotację „(zakres rozszerzony)”.
-4.
-W arkuszu ocen ucznia technikum i słuchacza branżowej szkoły II stopnia i szkoły policealnej, w miejscu przeznaczonym na wpisanie informacji o egzaminie zawodowym, wpisuje się odpowiednio informację o:
-1)
-przystąpieniu do egzaminu zawodowego, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie lub
-2)
-nieprzystąpieniu do egzaminu zawodowego lub jego części, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie – w przypadku gdy uczeń lub słuchacz nie przystąpił odpowiednio do tego egzaminu lub jego części, lub
-3)
-zwolnieniu z obowiązku przystąpienia do części pisemnej lub części praktycznej egzaminu zawodowego na podstawie art. 44zzzga ust. 4 ustawy, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie – w przypadku gdy uczeń lub słuchacz został zwolniony z tego egzaminu, lub
-4)
-zwolnieniu z obowiązku przystąpienia do części pisemnej egzaminu zawodowego na podstawie art. 44zzze ust. 1 ustawy, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie – w przypadku gdy uczeń lub słuchacz został zwolniony z tej części egzaminu.
-5.
-W arkuszu ocen ucznia branżowej szkoły I stopnia, w miejscu przeznaczonym na wpisanie informacji o egzaminie zawodowym lub egzaminie czeladniczym, wpisuje się odpowiednio informację o:
-1)
-przystąpieniu do egzaminu zawodowego, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie lub
-2)
-przystąpieniu do egzaminu czeladniczego – w przypadku gdy uczeń będący młodocianym pracownikiem zatrudnionym w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem przystąpił do egzaminu czeladniczego, lub
-3)
-nieprzystąpieniu do egzaminu zawodowego lub jego części, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie lub do egzaminu czeladniczego – w przypadku gdy uczeń nie przystąpił odpowiednio do danego egzaminu lub jego części, lub
-4)
-zwolnieniu z obowiązku przystąpienia do części pisemnej lub części praktycznej egzaminu zawodowego na podstawie art. 44zzzga ust. 4 ustawy, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie – w przypadku gdy uczeń został zwolniony z tego egzaminu, lub
-5)
-zwolnieniu z obowiązku przystąpienia do części pisemnej egzaminu zawodowego na podstawie art. 44zzze ust. 1 ustawy, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie – w przypadku gdy uczeń lub słuchacz został zwolniony z tej części egzaminu.
-6.
-Do arkusza ocen słuchacza liceum ogólnokształcącego dla dorosłych, przyjętego do klasy drugiej na podstawie świadectwa ukończenia odpowiednio branżowej szkoły I stopnia lub zasadniczej szkoły zawodowej, dołącza się kopię tego świadectwa, poświadczoną za zgodność z oryginałem przez dyrektora liceum ogólnokształcącego dla dorosłych, do którego został przyjęty absolwent odpowiednio branżowej szkoły I stopnia lub zasadniczej szkoły zawodowej.
-§ 33.
-Na zaświadczeniu o szczegółowych wynikach egzaminu ósmoklasisty, w przypadkach, o których mowa w art. 44zw ust. 2 i art. 44zz ust. 2 ustawy, w części przeznaczonej na wpisanie wyniku egzaminu ósmoklasisty z danego przedmiotu:
-1)
-uzyskanego przez ucznia – wpisuje się odpowiednio „zwolniony” albo „zwolniona”;
-2)
-ustalonego w skali centylowej – wpisuje się poziomą kreskę.
-§ 34.
-1.
-Na świadectwie dojrzałości w części przeznaczonej na wpisanie:
-1)
-wyników z przedmiotów obowiązkowych – wpisuje się wyniki uzyskane na egzaminie maturalnym z przedmiotów obowiązkowych;
-2)
-wyników z przedmiotów dodatkowych:
-a)
-wpisuje się wyniki uzyskane na egzaminie maturalnym z przedmiotów dodatkowych – jeżeli absolwent przystępował do egzaminu maturalnego z przedmiotów dodatkowych,
-b)
-wstawia się poziomą kreskę – jeżeli absolwent nie przystępował do egzaminu maturalnego z przedmiotów dodatkowych, w przypadku, o którym mowa w art. 44zzd ust. 4b ustawy.
-2.
-Na świadectwie dojrzałości wpisuje się oddzielnie wyniki uzyskane z przedmiotów zdawanych w części ustnej i w części pisemnej egzaminu maturalnego. W części pisemnej egzaminu maturalnego wpisuje się dodatkowo poziom, na jakim był zdawany egzamin z danego przedmiotu.
-3.
-W przypadku absolwenta, o którym mowa w art. 44zze ust. 4 ustawy, który przystąpił do egzaminu maturalnego w części ustnej z języka obcego nowożytnego jako przedmiotu dodatkowego, na poziomie dwujęzycznym, na świadectwie dojrzałości, obok nazwy tego języka, wpisuje się „poziom dwujęzyczny”.
-4.
-W przypadku absolwenta, o którym mowa w art. 44zzg ustawy, zwolnionego z części ustnej egzaminu maturalnego, na świadectwie dojrzałości, zamiast wyniku egzaminu maturalnego w części ustnej, wpisuje się odpowiednio „zwolniony” albo „zwolniona”.
-5.
-Na świadectwie dojrzałości, w przypadku absolwenta szkoły lub oddziału z nauczaniem języka mniejszości narodowej, w części dotyczącej wyników w części ustnej i części pisemnej egzaminu maturalnego z przedmiotów obowiązkowych wpisuje się dodatkowo język danej mniejszości narodowej oraz wynik uzyskany z egzaminu z tego języka.
-6.
-Na świadectwie dojrzałości, w przypadku absolwenta szkoły lub oddziału dwujęzycznego, który w części pisemnej egzaminu maturalnego zdawał przedmiot, który był nauczany dwujęzycznie, i przystąpił do rozwiązywania dodatkowych zadań egzaminacyjnych w języku obcym nowożytnym będącym drugim językiem nauczania, wpisuje się oddzielnie wynik uzyskany w części zdawanej w drugim języku nauczania, oznaczając ją jako „część w języku... „, wpisując nazwę drugiego języka nauczania.
-7.
-Na świadectwie dojrzałości, w przypadku absolwenta, o którym mowa w art. 44zzd ust. 4b ustawy, pod częścią przeznaczoną na wpisanie wyników uzyskanych na egzaminie maturalnym z przedmiotów dodatkowych wpisuje się informację:
-1)
-„Absolwent spełnia warunki uzyskania dyplomu zawodowego w zawodzie nauczanym na poziomie technika.” albo
-2)
-„Absolwent spełnia warunki uzyskania dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika.”.
-8.
-Absolwent otrzymuje oryginał świadectwa dojrzałości i jego odpis.
-9.
-Odpis, o którym mowa w ust. 8, wydaje się na druku świadectwa dojrzałości, umieszczając na pierwszej stronie tego druku, w prawym górnym rogu, wyraz „ODPIS”.
-§ 35.
-1.
-Na aneksie do świadectwa dojrzałości wpisuje się wynik lub wyniki egzaminu maturalnego z przedmiotu lub przedmiotów, z których absolwent podwyższył wynik lub wyniki egzaminu maturalnego z przedmiotu lub przedmiotów dodatkowych.
-2.
-Na aneksie do świadectwa dojrzałości wpisuje się oddzielnie wyniki uzyskane z przedmiotów zdawanych w części ustnej i w części pisemnej egzaminu maturalnego. W części pisemnej egzaminu maturalnego wpisuje się dodatkowo poziom, na jakim był zdawany egzamin z danego przedmiotu.
-3.
-Na aneksie do świadectwa dojrzałości, w przypadku absolwenta, o którym mowa w art. 44zze ust. 4 ustawy, który przystąpił do egzaminu maturalnego z języka obcego nowożytnego jako przedmiotu dodatkowego na poziomie dwujęzycznym, obok nazwy tego języka wpisuje się „poziom dwujęzyczny”.
-4.
-Absolwent otrzymuje oryginał aneksu do świadectwa dojrzałości i jego odpis.
-5.
-Odpis, o którym mowa w ust. 4, wydaje się na druku aneksu do świadectwa dojrzałości, umieszczając na pierwszej stronie tego druku, w prawym górnym rogu, wyraz „ODPIS”.
-§ 36.
-Odpisy, o których mowa w § 34 ust. 8 i § 35 ust. 4, są wypełniane w postaci elektronicznej i drukowane z nadrukiem „ODPIS”, wizerunkiem pieczęci urzędowej okręgowej komisji egzaminacyjnej oraz pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej.
-§ 37.
-1.
-Na zaświadczeniu o wynikach egzaminu maturalnego wpisuje się oddzielnie wyniki z przedmiotu lub przedmiotów zdawanych w części ustnej i w części pisemnej egzaminu maturalnego. W części pisemnej egzaminu maturalnego wpisuje się dodatkowo poziom, na jakim był zdawany egzamin z danego przedmiotu lub przedmiotów.
-2.
-Na zaświadczeniu, o którym mowa w art. 44zzp ust. 2 i 3 ustawy, w przypadku absolwenta, o którym mowa w art. 44zze ust. 4 ustawy, który przystąpił do egzaminu maturalnego w części ustnej z języka obcego nowożytnego jako przedmiotu dodatkowego na poziomie dwujęzycznym, obok nazwy tego języka wpisuje się „poziom dwujęzyczny”.
-§ 38.
-1.
-Na certyfikacie kwalifikacji zawodowej wydawanym po zdaniu egzaminu zawodowego wpisuje się:
-1)
-symbol i nazwę kwalifikacji wyodrębnionej w zawodzie zgodnie z klasyfikacją zawodów szkolnictwa branżowego;
-2)
-nazwę i symbol cyfrowy zawodu lub zawodów, w których została wyodrębniona kwalifikacja zgodnie z klasyfikacją zawodów szkolnictwa branżowego;
-3)
-wynik egzaminu zawodowego.
-2.
-Na certyfikacie kwalifikacji zawodowej wydawanym po zdaniu egzaminu zawodowego, w przypadku, o którym mowa w art. 45 ust. 11b ustawy – Prawo oświatowe, w części przeznaczonej na wpisanie:
-1)
-symbolu i nazwy kwalifikacji, wpisuje się:
-a)
-nazwę kwalifikacji wyodrębnionej w zawodzie – w przypadku gdy kwalifikacja nie jest określona w klasyfikacji zawodów szkolnictwa branżowego,
-b)
-symbol i nazwę kwalifikacji wyodrębnionej w zawodzie zgodnie z klasyfikacją zawodów szkolnictwa branżowego – w przypadku gdy kwalifikacja jest określona w klasyfikacji zawodów szkolnictwa branżowego;
-2)
-nazwy i symbolu cyfrowego zawodu, wpisuje się:
-a)
-nazwę zawodu, w którym została wyodrębniona kwalifikacja – w przypadku gdy zawód nie jest określony w klasyfikacji zawodów szkolnictwa branżowego,
-b)
-nazwę i symbol cyfrowy zawodu lub zawodów, w których została wyodrębniona kwalifikacja zgodnie z klasyfikacją zawodów szkolnictwa branżowego – w przypadku gdy zawód jest określony w klasyfikacji zawodów szkolnictwa branżowego.
-3.
-Na certyfikacie kwalifikacji zawodowej, w przypadku, o którym mowa w ust. 2 pkt 1 lit. a, po nazwie kwalifikacji wpisuje się informację „(Kwalifikacja wyodrębniona w zawodzie nieokreślonym w klasyfikacji zawodów szkolnictwa branżowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
-§ 39.
-1.
-Na dyplomie zawodowym wydawanym osobie, o której mowa w § 13 ust. 1 i 2, pod miejscem przeznaczonym na wpisanie nazwy i symbolu cyfrowego zawodu wpisuje się informację „Końcowy wynik egzaminów zawodowych: … % punktów możliwych do uzyskania.”.
-2.
-Na dyplomie zawodowym wydawanym po zdaniu egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie w przypadku, o którym mowa w art. 45 ust. 11b ustawy – Prawo oświatowe, w miejscu przeznaczonym na wpisanie nazwy i symbolu cyfrowego zawodu wpisuje się nazwę zawodu i informację „(Zawód nieokreślony w klasyfikacji zawodów szkolnictwa branżowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
-§ 40.
-Przepisy § 13 ust. 1, 4–6 i 8 oraz § 39 ust. 1 stosuje się również odpowiednio do słuchacza lub absolwenta szkoły realizującej kształcenie w zawodzie nieumieszczonym w klasyfikacji zawodów szkolnictwa branżowego na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania, o której mowa w art. 45 ust. 8 ustawy – Prawo oświatowe.
-§ 41.
-1.
-Na suplemencie do dyplomu zawodowego, w części „Oficjalnie uznane sposoby uzyskania dyplomu”, wpisuje się informacje o możliwych sposobach nabywania kwalifikacji w zawodzie, udział kształcenia teoretycznego i kształcenia praktycznego dla danego zawodu określony w procentach, informację o czasie trwania kształcenia prowadzącego do uzyskania dyplomu zawodowego oraz adres strony internetowej instytucji wyznaczonej przez ministra właściwego do spraw oświaty i wychowania do pełnienia funkcji Krajowego Centrum Europass.
-2.
-W przypadku dyplomu, o którym mowa w § 39 ust. 2, na suplemencie do dyplomu zawodowego, w miejscu przeznaczonym na wpisanie nazwy dyplomu, po nazwie zawodu, wpisuje się informację „(Zawód nieokreślony w klasyfikacji zawodów szkolnictwa branżowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
-§ 42.
-1.
-Na dyplomie potwierdzającym kwalifikacje zawodowe wpisuje się:
-1)
-nazwę zawodu, w którym zostały potwierdzone kwalifikacje;
-2)
-nazwę kwalifikacji, zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego, a w przypadku zawodów, w których zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego wyodrębniono więcej niż jedną kwalifikację – nazwy wszystkich kwalifikacji wyodrębnionych w tym zawodzie;
-3)
-wyniki egzaminu lub egzaminów potwierdzających kwalifikacje w zawodzie, oddzielnie w części pisemnej i części praktycznej – w przypadku dyplomu wydawanego osobie, o której mowa w § 15 ust. 1 i 2.
-2.
-Na dyplomie potwierdzającym kwalifikacje zawodowe wydawanym osobie, o której mowa w § 15 ust. 3, wpisuje się:
-1)
-nazwę zawodu, w którym zostały potwierdzone kwalifikacje;
-2)
-nazwę lub nazwy kwalifikacji zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego, potwierdzonych świadectwem lub świadectwami, o których mowa w § 15 ust. 3 pkt 2 lub 3;
-3)
-wyniki egzaminu lub egzaminów potwierdzających kwalifikacje w zawodzie, oddzielnie w części pisemnej i w części praktycznej;
-4)
-adnotację o posiadaniu dyplomu lub świadectwa czeladniczego lub świadectwa uzyskania tytułu zawodowego, o których mowa odpowiednio w § 15 ust. 3.
-3.
-Na dyplomie potwierdzającym kwalifikacje zawodowe wydawanym po zdaniu egzaminów potwierdzających kwalifikacje w zawodzie ze wszystkich kwalifikacji wyodrębnionych w zawodzie nieumieszczonym w odpowiedniej klasyfikacji zawodów szkolnictwa zawodowego, w którym kształcenie jest realizowane na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania, o której mowa w art. 45 ust. 8 ustawy – Prawo oświatowe, po nazwie zawodu wpisuje się informację „(Zawód nieokreślony w klasyfikacji zawodów szkolnictwa zawodowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
-§ 43.
-Przepisy § 15 ust. 1 i 4 oraz § 42 ust. 1 stosuje się również do absolwenta szkoły realizującej kształcenie w zawodzie nieumieszczonym w odpowiedniej klasyfikacji zawodów szkolnictwa zawodowego na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania, o której mowa w art. 45 ust. 8 ustawy – Prawo oświatowe.
-§ 44.
-1.
-Na suplemencie do dyplomu potwierdzającego kwalifikacje zawodowe wpisuje się opis oficjalnie uznanych sposobów uzyskania dyplomu.
-2.
-Na suplemencie do dyplomu potwierdzającego kwalifikacje zawodowe, wydanego po zdaniu egzaminu potwierdzającego kwalifikacje w zawodzie, w części „Oficjalnie uznane sposoby uzyskania dyplomu”, wpisuje się informacje o możliwych sposobach nabywania kwalifikacji w zawodzie, udział kształcenia teoretycznego i kształcenia praktycznego dla danego zawodu określony w procentach, informację o czasie trwania kształcenia prowadzącego do uzyskania dyplomu potwierdzającego kwalifikacje zawodowe oraz adres strony internetowej instytucji wyznaczonej przez ministra właściwego do spraw oświaty i wychowania do pełnienia funkcji Krajowego Centrum Europass.
-3.
-Na suplemencie do dyplomu potwierdzającego kwalifikacje zawodowe, w przypadku dyplomu, o którym mowa w § 42 ust. 3, w miejscu przeznaczonym na wpisanie nazwy dyplomu, po nazwie zawodu wpisuje się informację „(Zawód nieokreślony w klasyfikacji zawodów szkolnictwa zawodowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
-§ 45.
-1.
-Na świadectwie potwierdzającym kwalifikację w zawodzie wpisuje się:
-1)
-nazwę kwalifikacji zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego;
-2)
-oznaczenie kwalifikacji zgodnie z odpowiednią podstawą programową kształcenia w zawodach;
-3)
-nazwę i symbol cyfrowy zawodu lub zawodów, w których została wyodrębniona dana kwalifikacja zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego;
-4)
-wyniki egzaminu potwierdzającego kwalifikacje w zawodzie, oddzielnie w części pisemnej i części praktycznej.
-2.
-Na świadectwie potwierdzającym kwalifikację w zawodzie, w przypadku gdy egzamin potwierdzający kwalifikacje w zawodzie zdała osoba kształcąca się w zawodzie nieumieszczonym w klasyfikacji zawodów szkolnictwa zawodowego, w którym kształcenie jest realizowane na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania, o której mowa w art. 45 ust. 8 ustawy – Prawo oświatowe, wpisuje się:
-1)
-nazwę kwalifikacji wyodrębnionej w zawodzie – w przypadku gdy kwalifikacja nie jest określona w klasyfikacji zawodów szkolnictwa zawodowego;
-2)
-oznaczenie i nazwę kwalifikacji wyodrębnionej w zawodzie – w przypadku gdy kwalifikacja jest określona w odpowiedniej klasyfikacji zawodów szkolnictwa zawodowego;
-3)
-nazwę zawodu, w którym została wyodrębniona dana kwalifikacja – w przypadku gdy zawód nie jest określony w klasyfikacji zawodów szkolnictwa zawodowego;
-4)
-nazwę i symbol cyfrowy zawodu lub zawodów, w których została wyodrębniona dana kwalifikacja zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego – w przypadku gdy zawód jest określony w odpowiedniej klasyfikacji zawodów szkolnictwa zawodowego;
-5)
-wyniki uzyskane w części pisemnej i części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie.
-3.
-Na świadectwie potwierdzającym kwalifikację w zawodzie, w przypadku, o którym mowa w ust. 2 pkt 1, po nazwie kwalifikacji wpisuje się informację „(Kwalifikacja wyodrębniona w zawodzie nieokreślonym w klasyfikacji zawodów szkolnictwa zawodowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
-§ 46.
-1.
-Na legitymacji szkolnej i legitymacji przedszkolnej mogą być kodowane usługi związane z działalnością statutową odpowiednio szkoły, szkoły polskiej, przedszkola lub innej formy wychowania przedszkolnego oraz z przejazdami środkami publicznego transportu zbiorowego.
-2.
-O rodzaju usług kodowanych na legitymacji szkolnej i legitymacji przedszkolnej decyduje odpowiednio dyrektor szkoły, szkoły polskiej, przedszkola lub osoba kierująca inną formą wychowania przedszkolnego za zgodą pełnoletnich uczniów albo rodziców niepełnoletnich uczniów, a w przypadku legitymacji przedszkolnej – za zgodą rodziców dziecka.
-§ 47.
-1.
-We wzorze legitymacji przedszkolnej, w miejscu „Nazwa i adres przedszkola/szkoły”, wpisuje się nazwę i adres:
-1)
-przedszkola, do którego uczęszcza dziecko;
-2)
-szkoły podstawowej, w której zorganizowano oddział przedszkolny, do którego uczęszcza dziecko;
-3)
-innej formy wychowania przedszkolnego, do której uczęszcza dziecko.
-2.
-We wzorze legitymacji przedszkolnej, w miejscu „Dyrektor przedszkola/szkoły”, wpisuje się imię (imiona) i nazwisko:
-1)
-dyrektora przedszkola, do którego uczęszcza dziecko;
-2)
-dyrektora szkoły podstawowej, w której zorganizowano oddział przedszkolny, do którego uczęszcza dziecko;
-3)
-osoby kierującej inną formą wychowania przedszkolnego – w przypadku gdy inna forma wychowania przedszkolnego jest prowadzona przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną.
-§ 48.
-We wzorze legitymacji szkolnej, w miejscu „Dyrektor szkoły”, wpisuje się imię (imiona) i nazwisko dyrektora szkoły albo dyrektora szkoły polskiej.
-§ 49.
-Świadectwo szkolne promocyjne i świadectwo ukończenia szkoły może być wypełnione w postaci elektronicznej oraz wydrukowane z pominięciem zawartych we wzorach tych świadectw odpowiednio:
-1)
-linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, roku szkolnego, klasy, nazwy, numeru i imienia szkoły, nazwy szkoły/szkoły polskiej, nazwy miejscowości, w której znajduje się szkoła albo szkoła polska, nazwy województwa, w którym znajduje się szkoła, okresu nauczania, przedmiotów ujętych w podstawie programowej kształcenia ogólnego w zakresie rozszerzonym, nazwy miejscowości i daty wydania świadectwa, numeru świadectwa, ocen zachowania i z religii/etyki, nazw obowiązkowych i dodatkowych zajęć edukacyjnych oraz ocen z tych zajęć, informacji dotyczącej przedmiotów uzupełniających, innych zajęć, indywidualnego programu lub toku nauki oraz szczególnych osiągnięć ucznia – w miejscu linii przerywanych wpisuje się odpowiednie dane;
-2)
-linii przerywanych oznaczających miejsca przeznaczone na pieczątkę i podpis dyrektora oraz podpis wychowawcy klasy;
-3)
-linii przerywanych w wyrazach „uczęszczał...”, „Uczęszczał...”, „ukończył...”, „Realizował...”, „realizował...”, „zrealizował...” i „otrzymał...” – w przypadku uczennicy albo absolwentki w miejscu linii przerywanych wpisuje się „a”;
-4)
-linii przerywanej w wyrazie „promocj...” – w miejscu linii przerywanej wpisuje się odpowiednią literę;
-5)
-linii przerywanej przed wyrazem „otrzymał...”, oznaczającej miejsce przeznaczone na wpisanie informacji o nieuzyskaniu promocji do klasy programowo wyższej – w przypadku uzyskania promocji do klasy programowo wyższej nie drukuje się linii przerywanej;
-6)
-oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej szkoły albo szkoły polskiej.
-§ 50.
-1.
-Dokumenty, o których mowa w § 4 ust. 4, są wypełniane w postaci elektronicznej i drukowane.
-2.
-Dokumenty, o których mowa w § 4 ust. 4, z wyjątkiem suplementu do dyplomu zawodowego i suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, mogą być drukowane wraz z wizerunkiem pieczęci urzędowej okręgowej komisji egzaminacyjnej oraz pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej.
-§ 51.
-Świadectwo ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych i zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia wypełnia się i drukuje z pominięciem zawartych we wzorach tych świadectw albo wzorach tych zaświadczeń:
-1)
-linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy miejscowości, w której znajduje się siedziba okręgowej komisji egzaminacyjnej, nazwy języka obcego, ocen uzyskanych z egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych, nazwy miejscowości i daty wydania świadectwa albo zaświadczenia, numeru świadectwa albo zaświadczenia oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej – w miejscu linii przerywanych wpisuje się odpowiednie dane;
-2)
-wyrazów „imię (imiona) i nazwisko”, „miejscowość” oraz „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
-3)
-linii przerywanych w wyrazach „ukończył...”, „uzyskał...” i „zdał...” – w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
-4)
-oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
-§ 52.
-Zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty wypełnia się i drukuje z pominięciem zawartych we wzorze tego zaświadczenia:
-1)
-linii przerywanych oznaczających miejsca przeznaczone na wpisanie: numeru zaświadczenia, imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, wyników z przedmiotów, z których jest przeprowadzany egzamin ósmoklasisty, nazwy miejscowości i daty oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej – w miejscu linii przerywanych wpisuje się odpowiednie dane;
-2)
-wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
-3)
-linii przerywanych w wyrazach „przystąpił...” i „uzyskał...” – w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
-4)
-oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
-§ 53.
-1.
-Świadectwo dojrzałości wypełnia się i drukuje z pominięciem zawartych we wzorze tego świadectwa:
-1)
-linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy języka obcego, nazwy miejscowości i daty, numeru świadectwa dojrzałości oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej – w miejscu linii przerywanych wpisuje się odpowiednie dane;
-2)
-wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
-3)
-linii przerywanych w wyrazach „zdał...” i „uzyskał...” – w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
-4)
-oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
-2.
-Zaświadczenie o wynikach egzaminu maturalnego wypełnia się i drukuje z pominięciem zawartych we wzorze tego zaświadczenia:
-1)
-linii przerywanych oznaczających miejsce przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, numeru świadectwa dojrzałości, nazwy szkoły lub kuratora oświaty, nazwy miejscowości i daty, numeru zaświadczenia oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej – w miejscu linii przerywanych wpisuje się odpowiednie dane;
-2)
-wyrazów „imię (imiona) i nazwisko”, „nazwa szkoły lub kuratora oświaty”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
-3)
-linii przerywanych w wyrazach „legitymując...”, „przystąpił...” oraz „uzyskał...” – w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
-4)
-oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
-3.
-Aneks do świadectwa dojrzałości wypełnia się i drukuje z pominięciem zawartych we wzorze tego aneksu:
-1)
-linii przerywanych oznaczających miejsca przeznaczone na wpisanie: numeru świadectwa dojrzałości, imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy miejscowości i daty, numeru aneksu oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej – w miejscu linii przerywanych wpisuje się odpowiednie dane;
-2)
-wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
-3)
-linii przerywanych w wyrazach „przystąpił...” i „uzyskał...” – w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
-4)
-oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
-§ 54.
-Certyfikat kwalifikacji zawodowej wypełnia się i drukuje z pominięciem zawartych we wzorze tego certyfikatu:
-1)
-linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, symbolu i nazwy kwalifikacji, nazwy i symbolu cyfrowego zawodu lub zawodów, w których została wyodrębniona kwalifikacja, wyniku egzaminu zawodowego, nazwy miejscowości i daty, numeru certyfikatu oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej – w miejscu linii przerywanych wpisuje się odpowiednie dane;
-2)
-wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
-3)
-linii przerywanych w wyrazach „zdał...” i „uzyskał...” – w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
-4)
-linii przerywanej w wyrazie „zawod...” – w przypadku kwalifikacji wyodrębnionej w jednym zawodzie w miejscu linii przerywanej wpisuje się „zie”, a w przypadku kwalifikacji wyodrębnionej w więcej niż jednym zawodzie wpisuje się „ach”;
-5)
-oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
-§ 55.
-1.
-Dyplom zawodowy wypełnia się i drukuje z pominięciem zawartych we wzorze tego dyplomu:
-1)
-linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy i symbolu cyfrowego zawodu, nazwy miejscowości i daty wydania dyplomu, numeru dyplomu oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej – w miejscu linii przerywanych wpisuje się odpowiednie dane;
-2)
-wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
-3)
-oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
-2.
-Dyplom potwierdzający kwalifikacje zawodowe wypełnia się i drukuje z pominięciem zawartych we wzorze tego dyplomu:
-1)
-linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy zawodu, nazwy kwalifikacji, wyniku uzyskanego w części pisemnej i części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie, nazwy miejscowości i daty, numeru dyplomu oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej – w miejscu linii przerywanych wpisuje się odpowiednie dane;
-2)
-wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
-3)
-linii przerywanych w wyrazach „otrzymał...” i „uzyskał...” – w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
-4)
-linii przerywanej w wyrazie „świadectw...” – w przypadku uzyskania świadectwa potwierdzającego kwalifikację w zawodzie wpisuje się „o”, a w przypadku uzyskania więcej niż jednego świadectwa potwierdzającego kwalifikację w zawodzie wpisuje się „a”;
-5)
-linii przerywanej w wyrazie „kwalifikacj...” – w przypadku uzyskania świadectwa potwierdzającego kwalifikację w zawodzie wpisuje się „ę”, a w przypadku uzyskania więcej niż jednego świadectwa potwierdzającego kwalifikację w zawodzie wpisuje się „e”;
-6)
-oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
-§ 56.
-1.
-Suplement do dyplomu zawodowego wypełnia się i drukuje z pominięciem zawartych we wzorze tego suplementu linii przerywanych oznaczających miejsca przeznaczone na wpisanie numeru dyplomu zawodowego oraz imienia (imion) i nazwiska posiadacza tego dyplomu.
-2.
-Suplement do dyplomu potwierdzającego kwalifikacje zawodowe wypełnia się i drukuje z pominięciem zawartych we wzorze tego suplementu linii przerywanych oznaczających miejsca przeznaczone na wpisanie numeru dyplomu potwierdzającego kwalifikacje zawodowe oraz imienia (imion) i nazwiska posiadacza tego dyplomu.
-§ 57.
-Świadectwo potwierdzające kwalifikację w zawodzie wypełnia się i drukuje z pominięciem zawartych we wzorze tego świadectwa:
-1)
-linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy i oznaczenia kwalifikacji, nazwy i symbolu cyfrowego zawodu lub zawodów, w których została wyodrębniona kwalifikacja, wyniku uzyskanego w części pisemnej i części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie, nazwy miejscowości i daty, numeru świadectwa oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej – w miejscu linii przerywanych wpisuje się odpowiednie dane;
-2)
-wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
-3)
-linii przerywanych w wyrazach „zdał...” i „uzyskał...” – w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
-4)
-linii przerywanej w wyrazie „zawod...” – w przypadku kwalifikacji wyodrębnionej w jednym zawodzie w miejscu linii przerywanej wpisuje się „zie”, a w przypadku kwalifikacji wyodrębnionej w więcej niż jednym zawodzie wpisuje się „ach”;
-5)
-oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
-§ 58.
-Na dokumentach, o których mowa w § 4 ust. 4, z wyjątkiem suplementu do dyplomu zawodowego i suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, okręgowa komisja egzaminacyjna drukuje numer, wykonany materiałami drukarskimi koloru czarnego, na który składa się:
-1)
-jedno lub dwuliterowy symbol oznaczający odpowiednio:
-a)
-„SP” – świadectwo ukończenia szkoły podstawowej po zdaniu egzaminów eksternistycznych,
-b)
-„LO” – świadectwo ukończenia liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych,
-c)
-„O” – zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty,
-d)
-„M” – świadectwo dojrzałości,
-e)
-„AM” – aneks do świadectwa dojrzałości,
-f)
-„ZM” – zaświadczenie o wynikach egzaminu maturalnego,
-g)
-„C” – certyfikat kwalifikacji zawodowej,
-h)
-„DZ” – dyplom zawodowy,
-i)
-„D” – dyplom potwierdzający kwalifikacje zawodowe,
-j)
-„K” – świadectwo potwierdzające kwalifikację w zawodzie,
-k)
-„BP” – zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia,
-l)
-„BD” – zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia,
-2)
-ośmiocyfrowy numer, w którym pierwsza cyfra oznacza numer okręgowej komisji egzaminacyjnej,
-3)
-dwucyfrowe oznaczenie roku
-które są oddzielone od siebie znakiem „/”.
-§ 59.
-1.
-Szkoła, szkoła polska, a także szkoła i zespół szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, z własnej inicjatywy albo na wniosek ucznia, absolwenta, rodziców niepełnoletniego ucznia albo rodziców niepełnoletniego absolwenta, dokonuje sprostowania błędu i oczywistej omyłki w treści odpowiednio świadectwa szkolnego promocyjnego albo w indeksie. Jeżeli szkoła albo szkoła polska została zlikwidowana lub przekształcona, sprostowania dokonuje organ, o którym mowa w art. 89 ust. 6 i 7 lub art. 172 ust. 5 ustawy – Prawo oświatowe, a w przypadku szkoły polskiej albo szkoły i zespołu szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe – minister właściwy do spraw oświaty i wychowania lub podległa mu jednostka organizacyjna, o której mowa w przepisach wydanych na podstawie art. 60 ust. 6 ustawy – Prawo oświatowe.
-2.
-Sprostowania dokonuje się przez skreślenie kolorem czerwonym nieprawidłowego zapisu i czytelne wpisanie kolorem czerwonym nad skreślonymi wyrazami właściwych danych. Na końcu świadectwa szkolnego promocyjnego lub indeksu wpisuje się adnotację „Dokonano sprostowania” i datę oraz opatruje czytelnym podpisem odpowiednio dyrektora szkoły, szkoły polskiej, szkoły i zespołu szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, albo osoby przez niego upoważnionej albo organu, o którym mowa w ust. 1, i odciskiem pieczęci urzędowej odpowiednio tej szkoły albo organu.
-3.
-Informację o dokonaniu sprostowania wpisuje się w arkuszu ocen.
-4.
-Nie dokonuje się sprostowania w treści świadectwa ukończenia szkoły i dokumentu, o którym mowa w § 4 ust. 4, a także duplikatów tego świadectwa i dokumentu.
-5.
-Świadectwo ukończenia szkoły i dokument, o którym mowa w § 4 ust. 4, zawierające błędy lub omyłki podlegają wymianie za zwrotem dokumentu zawierającego błąd lub omyłkę.
-§ 60.
-1.
-Nie dokonuje się zmiany imienia (imion) lub nazwiska na świadectwie szkolnym promocyjnym, świadectwie ukończenia szkoły, dokumencie, o którym mowa w § 4 ust. 4, zaświadczeniu o zawodzie, zaświadczeniu o przebiegu nauczania i w dokumentacji przebiegu nauczania prowadzonej przez szkołę i szkołę polską, jeżeli zmiana ta nastąpiła po:
-1)
-ukończeniu szkoły albo szkoły polskiej,
-2)
-zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia,
-3)
-zdaniu egzaminu zawodowego albo egzaminu potwierdzającego kwalifikacje w zawodzie,
-4)
-otrzymaniu dyplomu zawodowego albo dyplomu potwierdzającego kwalifikacje zawodowe,
-5)
-wydaniu zaświadczenia o zawodzie lub zaświadczenia o przebiegu nauczania
-chyba że zmiana imienia (imion) lub nazwiska nastąpiła na podstawie decyzji administracyjnej albo orzeczenia sądowego.
-2.
-W przypadku gdy zmiana imienia (imion) lub nazwiska nastąpiła na podstawie decyzji administracyjnej albo orzeczenia sądowego świadectwo szkolne promocyjne, świadectwo ukończenia szkoły, dokument, o którym mowa w § 4 ust. 4, zaświadczenie o zawodzie lub zaświadczenie o przebiegu nauczania wydaje się na nowe imię (imiona) lub nazwisko, a jeżeli ich wydanie nie jest możliwe – duplikat świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły, dokumentu, o którym mowa w § 4 ust. 4, z wyjątkiem suplementu do dyplomu zawodowego i suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, po przedstawieniu decyzji administracyjnej albo orzeczenia sądowego i za zwrotem dokumentu, wydanego na poprzednie imię (imiona) lub nazwisko.
-3.
-W przypadku gdy zmiana imienia (imion) lub nazwiska nastąpiła przed dniem ukończenia szkoły albo szkoły polskiej zakłada się arkusz ocen na nowe imię (imiona) lub nazwisko, w którym wpisuje się dotychczasowe informacje, z wyjątkiem dotychczasowego imienia (imion) lub nazwiska. Dotychczasowy arkusz ocen zawierający poprzednie dane osobowe podlega zniszczeniu. W pozostałej dokumentacji przebiegu nauczania prowadzonej przez szkołę albo szkołę polską przekreśla się kolorem czerwonym dotychczasowe imię (imiona) lub nazwisko i nad nim wpisuje się kolorem czerwonym nowe imię (imiona) lub nazwisko. Na dole strony wpisuje się adnotację „Dokonano zmiany imienia (imion)/nazwiska” i datę oraz opatruje czytelnym podpisem osoby upoważnionej do podpisywania dokumentacji przebiegu nauczania.
-4.
-W przypadku gdy zmiana imienia (imion) lub nazwiska nastąpiła przed dniem ukończenia szkoły albo szkoły polskiej albo przed dniem zakończenia korzystania przez dziecko z wychowania przedszkolnego, wydaje się legitymację szkolną albo legitymację przedszkolną na nowe imię (imiona) lub nazwisko.
-5.
-Nowe imię (imiona) lub nazwisko, w przypadkach, o których mowa w ust. 3 i 4, może być wpisane na podstawie odpisu aktu urodzenia, odpisu aktu małżeństwa, decyzji administracyjnej o zmianie imienia (imion) lub nazwiska albo orzeczenia sądowego.
-§ 61.
-1.
-W przypadku utraty oryginału świadectwa, certyfikatu, zaświadczenia, aneksu, dyplomu, odpisu świadectwa dojrzałości lub odpisu aneksu do świadectwa dojrzałości osoba, która otrzymała dokument, może wystąpić odpowiednio do szkoły, szkoły polskiej, okręgowej komisji egzaminacyjnej lub kuratora oświaty, którzy wydali ten dokument, z wnioskiem o wydanie duplikatu tego dokumentu.
-2.
-W przypadku utraty indeksu, suplementu do dyplomu zawodowego, suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, zaświadczenia o spełnianiu obowiązku rocznego przygotowania przedszkolnego, informacji o spełnianiu obowiązku rocznego przygotowania przedszkolnego, zaświadczenia o zawodzie, zaświadczenia o przebiegu nauczania lub zaświadczenia o braku możliwości wydania duplikatu, osoba, która otrzymała ten dokument, może wystąpić odpowiednio do szkoły, szkoły polskiej, okręgowej komisji egzaminacyjnej lub kuratora oświaty, którzy wydali ten dokument, z wnioskiem o wydanie nowego dokumentu. Przepisy ust. 10 i 11 stosuje się odpowiednio.
-3.
-Szkoła, szkoła polska, okręgowa komisja egzaminacyjna albo kurator oświaty sporządza duplikat dokumentu, o którym mowa w ust. 1, na podstawie dokumentacji stanowiącej podstawę wydania danego dokumentu.
-4.
-W przypadku gdy w załączniku nr 3 do rozporządzenia określono wzór dokumentu, który jest zgodny z wzorem obowiązującym w dniu wydania oryginału dokumentu, o którym mowa w ust. 1, duplikat wydaje się na druku według wzoru obowiązującego dla tego dokumentu określonego w załączniku nr 3 do rozporządzenia.
-5.
-Na pierwszej stronie duplikatu, u góry, umieszcza się wyraz „Duplikat”, a na końcu dokumentu dodaje wyrazy „oryginał podpisali” i wymienia nazwiska osób, które podpisały oryginał dokumentu, dla którego jest wydawany duplikat, lub stwierdza nieczytelność podpisów oraz wpisuje się datę wydania duplikatu i opatruje odciskiem pieczęci urzędowej odpowiednio szkoły, szkoły polskiej, okręgowej komisji egzaminacyjnej albo kuratora oświaty. Na duplikacie nie umieszcza się fotografii.
-6.
-W przypadku gdy szkoła, szkoła polska, okręgowa komisja egzaminacyjna lub kurator oświaty posiada dokumentację, która stanowiła podstawę wydania danego dokumentu, dla którego ma być wydany duplikat, a w załączniku nr 3 do rozporządzenia nie określono wzoru dokumentu, który byłby zgodny z wzorem obowiązującym w dniu wydania oryginału tego dokumentu, duplikat wydaje się na poddruku duplikatu według wzoru odpowiednio nr 83–89 określonego w załączniku nr 3 do rozporządzenia, przygotowanym przez szkołę, szkołę polską, okręgową komisję egzaminacyjną lub kuratora oświaty, na którym umieszcza się informacje zgodne z treścią oryginału danego dokumentu i wzorem obowiązującym w dniu wydania oryginału danego dokumentu, z tym że duplikat:
-1)
-świadectwa dojrzałości, aneksu do świadectwa dojrzałości i zaświadczenia o wynikach egzaminu maturalnego wydanego przez okręgową komisję egzaminacyjną wydaje się na poddruku duplikatu według wzoru nr 84 określonego w załączniku nr 3 do rozporządzenia;
-2)
-świadectwa potwierdzającego kwalifikację w zawodzie i dyplomu potwierdzającego kwalifikacje zawodowe wydaje się na poddruku duplikatu według wzoru nr 85 określonego w załączniku nr 3 do rozporządzenia.
-7.
-Duplikat dokumentu wydawany przez okręgową komisję egzaminacyjną, z wyjątkiem suplementu do dyplomu zawodowego i suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, jest wypełniany w postaci elektronicznej i drukowany wraz z wizerunkiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
-8.
-Na dokumencie na podstawie którego wydano duplikat, przechowywanego w okręgowej komisji egzaminacyjnej, wpisuje się adnotację o wydaniu duplikatu oraz imię (imiona) i nazwisko osoby odbierającej duplikat, stwierdzone na podstawie dowodu osobistego lub innego dokumentu potwierdzającego tożsamość. W przypadku przesłania duplikatu za pośrednictwem operatora pocztowego doręczenie następuje przesyłką poleconą za zwrotnym potwierdzeniem odbioru, które dołącza się do dokumentu lub dokumentów, na podstawie których wydano duplikat.
-9.
-Duplikat ma moc oryginału i może być wydany ponownie.
-10.
-W przypadku likwidacji lub przekształcenia szkoły albo szkoły polskiej duplikat świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły i świadectwa dojrzałości, wydawanego po zdaniu egzaminu dojrzałości, wydaje organ, o którym mowa w art. 89 ust. 6 i 7 lub art. 172 ust. 5 ustawy – Prawo oświatowe, a w przypadku szkoły i zespołu szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe – minister właściwy do spraw oświaty i wychowania lub podległa mu jednostka organizacyjna, o której mowa w przepisach wydanych na podstawie art. 60 ust. 6 ustawy – Prawo oświatowe.
-11.
-W przypadku likwidacji okręgowej komisji egzaminacyjnej duplikat wydaje okręgowa komisja egzaminacyjna wskazana przez ministra właściwego do spraw oświaty i wychowania.
-12.
-W przypadku gdy szkoła polska albo szkoła i zespół szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, nie posiadają dokumentacji przebiegu nauczania duplikat danego dokumentu wydaje minister właściwy do spraw oświaty i wychowania lub podległa mu jednostka organizacyjna, o której mowa w przepisach wydanych na podstawie art. 60 ust. 6 ustawy – Prawo oświatowe.
-13.
-W przypadku braku dokumentacji stanowiącej podstawę wydania duplikatu danego dokumentu, szkoła, okręgowa komisja egzaminacyjna, kurator oświaty albo organ właściwy do wydania duplikatu zgodnie z przepisami ust. 10 i 12, wydaje zaświadczenie o braku możliwości wydania duplikatu.
-14.
-Przy sporządzaniu duplikatów legitymacji szkolnych i legitymacji przedszkolnych stosuje się odpowiednio przepisy ust. 1, 3–5 i 9.
-15.
-Duplikat legitymacji szkolnej wydaje się z fotografią.
-16.
-Duplikat legitymacji przedszkolnej wydaje przedszkole, szkoła podstawowa, w której zorganizowano oddział przedszkolny, lub inna forma wychowania przedszkolnego, na pisemny wniosek rodziców dziecka.
-§ 62.
-1.
-Dyrektor szkoły albo szkoły polskiej poświadcza zgodność kopii z oryginałem świadectwa ukończenia szkoły, zaświadczenia o zawodzie, zaświadczenia o przebiegu nauczania lub arkusza ocen, w przypadku gdy jest to niezbędne do złożenia kopii w aktach tej szkoły albo szkoły polskiej.
-2.
-Dyrektor szkoły poświadcza zgodność kopii z oryginałem świadectwa ukończenia szkoły w przypadku, o którym mowa w art. 33 ust. 1 pkt 3 lit. b ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2022 r. poz. 2082, 2089 i 2666 oraz z 2023 r. poz. 709 i 825).
-3.
-Dyrektor szkoły podstawowej poświadcza zgodność od jednej do trzech kopii z oryginałem świadectwa ukończenia szkoły podstawowej i zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty również, gdy jest to niezbędne dla celów postępowania rekrutacyjnego, o którym mowa w rozdziale 6 ustawy – Prawo oświatowe.
-4.
-W przypadku przejścia ucznia do innej szkoły po co najmniej jednym roku nauki, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych, po co najmniej jednym semestrze nauki, przesyła się do tej szkoły albo wydaje pełnoletniemu uczniowi albo rodzicom niepełnoletniego ucznia kopię arkusza ocen tego ucznia poświadczoną za zgodność z oryginałem przez dyrektora szkoły. Pełnoletni uczeń albo rodzice niepełnoletniego ucznia potwierdzają otrzymanie kopii arkusza ocen podpisem.
-5.
-W przypadku przejścia ucznia do innej szkoły po okresie nauki krótszym niż okres, o którym mowa w ust. 4, przesyła się do tej szkoły albo wydaje pełnoletniemu uczniowi albo rodzicom niepełnoletniego ucznia zaświadczenie o przebiegu nauczania tego ucznia. Pełnoletni uczeń albo rodzice niepełnoletniego ucznia potwierdzają otrzymanie zaświadczenia podpisem.
-6.
-Poświadczając zgodność kopii z oryginałem na każdej stronie kopii wpisuje się adnotację „Stwierdzam zgodność z oryginałem” i datę oraz opatruje odciskiem pieczęci urzędowej szkoły albo szkoły polskiej, pieczątką i podpisem dyrektora szkoły albo szkoły polskiej albo pieczątką i podpisem upoważnionej przez nich osoby.
-§ 63.
-1.
-Ważność legitymacji szkolnej w szkole dla dzieci i młodzieży oraz w szkole polskiej potwierdza się w kolejnym roku szkolnym przez umieszczenie na legitymacji szkolnej hologramu.
-2.
-Ważność legitymacji szkolnej w branżowej szkole II stopnia, szkole policealnej i szkole dla dorosłych potwierdza się w kolejnym semestrze przez umieszczenie na legitymacji szkolnej hologramu.
-3.
-Ważność legitymacji przedszkolnej potwierdza się w kolejnym roku szkolnym przez umieszczenie na legitymacji przedszkolnej hologramu.
-4.
-W legitymacji szkolnej i legitymacji przedszkolnej nie dokonuje się skreśleń i poprawek. Legitymacja szkolna i legitymacja przedszkolna zawierająca błąd lub omyłkę podlega wymianie.
-5.
-Dziecku albo uczniowi, którzy w trakcie ważności posiadanej legitymacji przedszkolnej albo legitymacji szkolnej uzyskali orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność wydaje się odpowiednio nową legitymację przedszkolną albo nową legitymację szkolną.
-§ 64.
-1.
-mLegitymacja szkolna jest ważna w okresie ważności legitymacji szkolnej.
-2.
-W przypadku utraty mLegitymacji szkolnej na skutek uszkodzeń, niepoprawnego działania lub utraty urządzenia mobilnego, w którym była przechowywana mLegitymacja szkolna, szkoła umożliwia ponowne wydanie mLegitymacji szkolnej.
-§ 65.
-W przypadkach, o których mowa w § 20 ust. 3, § 59 ust. 5 i § 60 ust. 2 i 4, zwrócone dokumenty, a także kopie świadectw ukończenia szkoły, o których mowa w § 62 ust. 2, nieprzekazane organowi prowadzącemu szkołę albo szkołę polską, podlegają niezwłocznemu zniszczeniu.
-§ 66.
-1.
-Uwierzytelnienia przeznaczonego do obrotu prawnego z zagranicą:
-1)
-świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły, indeksu lub innego dokumentu wydanego przez szkołę, placówkę kształcenia ustawicznego albo centrum kształcenia zawodowego – dokonuje kurator oświaty właściwy ze względu na siedzibę szkoły;
-2)
-świadectwa ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych, zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, świadectwa dojrzałości i jego odpisu, aneksu do świadectwa dojrzałości i jego odpisu, zaświadczenia o wynikach egzaminu maturalnego, certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe, świadectwa potwierdzającego kwalifikację w zawodzie i zaświadczenia o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia, lub innego dokumentu wydanego przez okręgową komisję egzaminacyjną – dokonuje dyrektor okręgowej komisji egzaminacyjnej, która wydała dany dokument;
-3)
-świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły lub innego dokumentu wydanego przez szkołę polską albo szkołę i zespół szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe – dokonuje minister właściwy do spraw oświaty i wychowania.
-2.
-Uwierzytelnienie polega na poświadczeniu autentyczności podpisu i charakteru, w jakim działała osoba podpisująca dokument, o którym mowa w ust. 1, lub dokonująca uwierzytelnienia tego dokumentu oraz tożsamości odcisku pieczęci, którymi jest opatrzony ten dokument.
-3.
-W klauzuli uwierzytelniającej zamieszcza się:
-1)
-odcisk pieczątki i podpis osoby upoważnionej do uwierzytelnienia dokumentu, o którym mowa w ust. 1;
-2)
-odcisk pieczęci urzędowej organu, o którym mowa w ust. 1;
-3)
-nazwę miejscowości, w której znajduje się siedziba organu, o którym mowa w ust. 1;
-4)
-datę dokonania uwierzytelnienia.
-4.
-W przypadku gdy dokument, o którym mowa w ust. 1 pkt 1, jest przeznaczony do obrotu prawnego w państwie będącym stroną Konwencji znoszącej wymóg legalizacji zagranicznych dokumentów urzędowych, sporządzonej w Hadze dnia 5 października 1961 r. (Dz. U. z 2005 r. poz. 938), do dokumentu dołącza się albo umieszcza się na nim apostille wydaną przez kuratora oświaty właściwego ze względu na siedzibę szkoły.
-5.
-W przypadku gdy dokument, o którym mowa w ust. 1 pkt 2, jest przeznaczony do obrotu prawnego w państwie będącym stroną Konwencji, o której mowa w ust. 4, do dokumentu dołącza się albo umieszcza się na nim apostille wydaną przez dyrektora tej okręgowej komisji egzaminacyjnej, która wydała ten dokument.
-6.
-W przypadku gdy dokument, o którym mowa w ust. 1 pkt 3, jest przeznaczony do obrotu prawnego w państwie będącym stroną Konwencji, o której mowa w ust. 4, do dokumentu dołącza się albo umieszcza się na nim apostille wydaną przez ministra właściwego do spraw oświaty i wychowania.
-7.
-Przedłożone do wydania apostille lub do uwierzytelnienia wielostronicowe dokumenty zszywa się i miejsca zszycia opatruje odciskiem pieczęci urzędowej organu, o którym mowa w ust. 1 lub ust. 4–6, w sposób uniemożliwiający wymianę kart tego dokumentu.
-§ 67.
-1.
-Za wydanie duplikatu dokumentu i za uwierzytelnienie dokumentu przeznaczonego do obrotu prawnego z zagranicą pobiera się opłatę w wysokości równej kwocie opłaty skarbowej od legalizacji dokumentu, a za wydanie duplikatu legitymacji szkolnej lub legitymacji przedszkolnej – kwocie opłaty skarbowej od poświadczenia własnoręczności podpisu.
-2.
-Opłatę, o której mowa w ust. 1, wnosi się na rachunek bankowy wskazany odpowiednio przez dyrektora szkoły, szkoły polskiej, przedszkola, osoby kierującej inną formą wychowania przedszkolnego, okręgowej komisji egzaminacyjnej, kuratora oświaty lub ministra właściwego do spraw oświaty i wychowania.
-§ 68.
-1.
-Równoważność świadectwa ukończenia szkoły lub dyplomu ukończenia szkoły, wydanego przed dniem wejścia w życie ustawy, które nie określają poziomu wykształcenia absolwenta, ze świadectwem lub dyplomem ukończenia odpowiedniego typu szkoły, po stwierdzeniu porównywalności programu nauczania ukończonej szkoły z podstawą programową jednego z typów szkół, potwierdza kurator oświaty właściwy ze względu na miejsce zamieszkania osoby zainteresowanej, na jej pisemny wniosek i po przedstawieniu oryginału świadectwa lub dyplomu.
-2.
-Potwierdzeniem równoważności świadectwa lub dyplomu ze świadectwem lub dyplomem ukończenia odpowiedniego typu szkoły jest zaświadczenie określające nazwę ukończonej szkoły, datę i miejsce wydania świadectwa lub dyplomu, imię (imiona) i nazwisko oraz datę urodzenia osoby, dla której świadectwo lub dyplom wydano, oraz stwierdzające równoważność ze świadectwem lub dyplomem ukończenia szkoły odpowiedniego typu. Zaświadczenie opatruje się odciskiem pieczęci urzędowej kuratorium oświaty, datą wydania i oznacza numerem sprawy.
-3.
-Za potwierdzenie równoważności, o której mowa w ust. 1, nie pobiera się opłaty.
-§ 69.
-W roku szkolnym 2022/2023 do dotychczasowego czteroletniego technikum stosuje się przepisy dotychczasowe.
-§ 70.
-Na świadectwo ukończenia liceum ogólnokształcącego dla dorosłych wydawane absolwentowi branżowej szkoły I stopnia lub absolwentowi zasadniczej szkoły zawodowej, który został przyjęty do klasy drugiej liceum ogólnokształcącego dla dorosłych przed dniem 1 września 2023 r., ze świadectwa ukończenia odpowiednio branżowej szkoły I stopnia lub zasadniczej szkoły zawodowej, przepisuje się oceny z następujących obowiązkowych zajęć edukacyjnych:
-1)
-podstaw przedsiębiorczości – w przypadku liceum ogólnokształcącego dla dorosłych w formie stacjonarnej i zaocznej;
-2)
-wiedzy o społeczeństwie i informatyki – w przypadku liceum ogólnokształcącego dla dorosłych w formie zaocznej.
-§ 71.
-1.
-Wniosek o wydanie:
-1)
-dyplomu zawodowego,
-2)
-suplementu do dyplomu zawodowego,
-3)
-dyplomu potwierdzającego kwalifikacje zawodowe,
-4)
-suplementu do dyplomu potwierdzającego kwalifikacje zawodowe,
-5)
-duplikatu odpowiedniego dokumentu,
-6)
-zaświadczenia o spełnianiu obowiązku rocznego przygotowania przedszkolnego,
-7)
-zaświadczenia o przebiegu nauczania,
-8)
-zaświadczenia o zawodzie
-złożony i nierozpatrzony przed dniem wejścia w życie rozporządzenia, rozpatruje się na podstawie przepisów niniejszego rozporządzenia.
-2.
-Wnioski o sprostowanie błędu lub oczywistej omyłki w treści świadectwa szkolnego promocyjnego albo w indeksie, złożone i nierozpatrzone przed dniem wejścia w życie rozporządzenia, rozpatruje się na podstawie przepisów niniejszego rozporządzenia.
-3.
-Wnioski o potwierdzenie równoważności świadectwa ukończenia szkoły lub dyplomu ukończenia szkoły, złożone i nierozpatrzone przed dniem wejścia w życie rozporządzenia, rozpatruje się na podstawie przepisów niniejszego rozporządzenia.
-§ 72.
-1.
-Arkusze ocen założone przed dniem wejścia w życie rozporządzenia na podstawie przepisów dotychczasowych:
-1)
-uczniom szkół podstawowych,
-2)
-uczniom szkół polskich i szkół i zespołów szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe,
-3)
-uczniom szkół specjalnych przysposabiających do pracy,
-4)
-słuchaczom branżowych szkół II stopnia,
-5)
-słuchaczom szkół policealnych,
-6)
-słuchaczom szkół podstawowych i liceów ogólnokształcących dla dorosłych
-są prowadzone do czasu zakończenia przez tych uczniów albo słuchaczy kształcenia w tych szkołach.
-2.
-Arkusze ocen założone przed dniem 1 września 2022 r. na podstawie przepisów dotychczasowych:
-1)
-uczniom liceów ogólnokształcących,
-2)
-uczniom techników,
-3)
-uczniom branżowych szkół I stopnia
-są prowadzone do czasu zakończenia przez tych uczniów kształcenia w tych szkołach.
-3.
-W przypadku przejścia ucznia albo słuchacza, o których mowa w ust. 1 lub 2, w trakcie kształcenia w danej szkole do innej szkoły tego samego typu, arkusz ocen zakłada się na odpowiednim wzorze określonym w załączniku nr 3 do rozporządzenia.
-§ 73.
-1.
-Indeksy wydane przed dniem wejścia w życie rozporządzenia na podstawie przepisów dotychczasowych zachowują ważność i są wypełnianie do czasu zakończenia kształcenia przez słuchacza w danej szkole.
-2.
-W przypadku przejścia słuchacza, o którym mowa w ust. 1, w trakcie kształcenia w danej szkole do innej szkoły tego samego typu, indeks zakłada się na odpowiednim wzorze określonym w załączniku nr 3 do rozporządzenia.
-§ 74.
-1.
-Legitymacje szkolne i legitymacje przedszkolne w postaci papierowej i w postaci kart formatu ID-1 wydane przed dniem wejścia w życie rozporządzenia, zachowują ważność do czasu odpowiednio zakończenia przez ucznia kształcenia w danej szkole, szkole polskiej albo szkole i zespole szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, albo zakończenia przez dziecko niepełnosprawne wychowania przedszkolnego.
-2.
-Legitymacje przedszkolne i legitymacje szkolne w postaci papierowej i w postaci kart formatu ID-1 mogą być wydawane odpowiednio uczniom i dzieciom niepełnosprawnym na podstawie i na drukach według wzorów określonych w przepisach dotychczasowych, do dnia 12 lipca 2024 r.
-3.
-Legitymacje szkolne i legitymacje przedszkolne wydane zgodnie z ust. 2 zachowują ważność do czasu odpowiednio zakończenia przez ucznia kształcenia w danej szkole, szkole polskiej albo szkole i zespole szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, albo zakończenia przez dziecko niepełnosprawne wychowania przedszkolnego.
-4.
-Wydane na podstawie przepisów dotychczasowych mLegitymacje szkolne zachowują ważność w okresie ważności legitymacji szkolnych w postaci papierowej i w postaci kart formatu ID-1 wydanych przed dniem wejścia w życie rozporządzenia.
-5.
-Uczniom szkół, którym zgodnie z ust. 1 i 2, wydano legitymację szkolną w postaci papierowej lub w postaci karty formatu ID-1, może być także wydana, na podstawie przepisów dotychczasowych, mLegitymacja szkolna.
-§ 75.
-1.
-Świadectwa szkolne promocyjne szkoły podstawowej i szkoły specjalnej przysposabiającej do pracy mogą być wydawane na blankietach i drukach wyprodukowanych na podstawie przepisów dotychczasowych i według wzorów określonych w przepisach dotychczasowych, do czasu wyczerpania zapasów tych blankietów i druków.
-2.
-Świadectwa szkolne promocyjne liceum ogólnokształcącego, technikum i branżowej szkoły I stopnia, mogą być wydawane na blankietach i drukach wyprodukowanych na podstawie przepisów dotychczasowych, do czasu wyczerpania zapasów tych blankietów i druków.
-3.
-Świadectwa szkolne promocyjne liceum ogólnokształcącego, technikum i branżowej szkoły I stopnia, w stosunku do uczniów, którzy rozpoczęli kształcenie w tych szkołach przed dniem 1 września 2022 r., mogą być wydawane według wzorów określonych w przepisach dotychczasowych.
-§ 76.
-Świadectwa ukończenia szkoły i duplikaty tych świadectw mogą być wydawane, do dnia 12 lipca 2024 r., na blankietach i drukach wyprodukowanych na podstawie przepisów dotychczasowych i według wzorów określonych w przepisach dotychczasowych, z tym że blankiety i druki tych świadectw i duplikatów nie muszą spełniać wymagań odnośnie do minimalnych zabezpieczeń określonych w ustawie z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2023 r. poz. 1006).
-§ 77.
-Suplementy do dyplomów zawodowych i suplementy do dyplomów potwierdzających kwalifikacje zawodowe mogą być wydawane, do dnia 31 maja 2024 r., według wzorów określonych w przepisach dotychczasowych.
-§ 78.
-Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 27 sierpnia 2019 r. w sprawie świadectw, dyplomów państwowych i innych druków (Dz. U. poz. 1700 i 1780, z 2021 r. poz. 1203 oraz z 2022 r. poz. 2049).
-§ 79.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2432, z 2019 r. poz. 534, 1287 i 2248, z 2021 r. poz. 4 oraz z 2022 r. poz. 1116.
-
-## Załącznik nr 1 — – Informacje ogólne dotyczące wydawania świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków oraz opis zabezpieczeń przed fałszerstwem dokumentów publicznych
-
-patrz oryginał
-
-## Załącznik nr 2 — – Wykaz wzorów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków
-
-patrz oryginał
-
-## Załącznik nr 3 — – Wzory świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły, indeksu, arkusza ocen, zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, zaświadczenia o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia, świadectwa ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych, zaświadczenia o wynikach egzaminu maturalnego, świadectwa dojrzałości, aneksu do świadectwa dojrzałości, certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe, suplementu do dyplomu zawodowego, suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, świadectwa potwierdzającego kwalifikację w zawodzie, zaświadczenia o spełnianiu obowiązku rocznego przygotowania przedszkolnego, informacji o gotowości dziecka do podjęcia nauki w szkole podstawowej, poddruku duplikatu, zaświadczenia o zawodzie, zaświadczenia o przebiegu nauczania i zaświadczenia o braku możliwości wydania duplikatu
-
-patrz oryginał
-
-## Załącznik nr 4 — – Informacje ogólne dotyczące legitymacji szkolnej, legitymacji przedszkolnej i mLegitymacji szkolnej, wzory tych legitymacji oraz opis zabezpieczeń legitymacji szkolnej i legitymacji przedszkolnej przed fałszerstwem
-
-patrz oryginał
+11112200 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 7 czerwca 2023 r.
+w sprawie świadectw, dyplomów państwowych i innych druków Na podstawie art. 11 ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230) zarządza się, co następuje: § 1. Rozporządzenie określa:
+1) warunki i tryb wydawania oraz wzory świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków, w tym umieszczenie na wzorach znaków graficznych, o których mowa w art. 10 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226);
+2) tryb i sposób dokonywania sprostowań, zmiany imienia (imion) lub nazwiska oraz wydawania duplikatów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków;
+3) tryb i sposób dokonywania uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą;
+4) wysokość i sposób dokonywania opłat za wydawanie duplikatów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych, odpisów świadectw dojrzałości i odpisów aneksów do świadectw dojrzałości oraz innych druków, a także za dokonywanie uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą.
+§ 2. 1. Ilekroć w rozporządzeniu jest mowa o:
+1) egzaminie potwierdzającym kwalifikacje w zawodzie należy przez to rozumieć egzamin potwierdzający kwalifikacje w zawodzie, o którym mowa w art. 302a ustawy z dnia 14 grudnia 2016 r. Przepisy wprowadzające ustawę Prawo oświatowe (Dz. U. z 2017 r. poz. 60, i egzamin potwierdzający kwalifikacje w zawodzie, o którym mowa w art. 130 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U.
+poz. 2245, z późn. zm. );
+2) klasyfikacji zawodów szkolnictwa zawodowego należy przez to rozumieć klasyfikację zawodów szkolnictwa zawodowego określoną odpowiednio w przepisach wydanych na podstawie art. 24 ust. 1 ustawy z dnia 7 września 1991 r.
+o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2017 r., albo przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2023 r. poz. 900), w brzmieniu obowiązującym przed dniem 1 września 2019 r.;
+3) klasyfikacji zawodów szkolnictwa branżowego należy przez to rozumieć klasyfikację zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe;
+4) podstawie programowej kształcenia w zawodach należy przez to rozumieć podstawę programową kształcenia w zawodach określoną odpowiednio w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy z dnia 7 września 1991 r. o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2017 r., albo przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.;
+5) szkole należy przez to rozumieć szkołę, o której mowa w art. 18 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe;
+6) szkole polskiej należy przez to rozumieć szkołę polską, o której mowa w art. 4 pkt 29d ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe.
+2. Do szkół i zespołów szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, zwanej dalej „ustawą Prawo oświatowe”, które prowadzą kształcenie dzieci obywateli polskich czasowo przebywających za granicą zgodnie z podstawą programową kształcenia ogólnego, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 ustawy Prawo oświatowe, stosuje się odpowiednio przepisy rozporządzenia dotyczące szkół lub szkół danego typu, z wyjątkiem przepisów § 59, § 61 ust. 10 i 12 oraz § 66.
+3. Do szkół i zespołów szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe, które umożliwiają uczniom uczęszczającym do szkół funkcjonujących w systemach oświaty innych państw uzupełnianie wykształcenia w zakresie szkoły podstawowej i liceum ogólnokształcącego zgodnie z ramami programowymi kształcenia uzupełniającego i planami nauczania dla szkół polskich, stosuje się odpowiednio przepisy rozporządzenia dotyczące szkół polskich, z wyjątkiem przepisów § 59, § 61 ust. 10 i 12 oraz § 66.
+§ 3. 1. Informacje ogólne dotyczące wydawania świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków oraz opis zabezpieczeń przed fałszerstwem dokumentów publicznych określa załącznik nr 1 do rozporządzenia.
+2. Wykaz wzorów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków określa załącznik nr 2 do rozporządzenia.
+3. Wzory świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły, indeksu, arkusza ocen, zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, zaświadczenia o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia, świadectwa ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych, zaświadczenia o wynikach egzaminu maturalnego, świadectwa dojrzałości, aneksu do świadectwa dojrzałości, certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe, suplementu do dyplomu zawodowego, suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, świadectwa potwierdzającego kwalifikację w zawodzie, zaświadczenia o spełnianiu obowiązku rocznego przygotowania przedszkolnego, informacji o gotowości dziecka do podjęcia nauki w szkole podstawowej, poddruku duplikatu, zaświadczenia o zawodzie, zaświadczenia o przebiegu nauczania i zaświadczenia o braku możliwości wydania duplikatu określa załącznik nr 3 do rozporządzenia.
+4. Informacje ogólne dotyczące legitymacji szkolnej, legitymacji przedszkolnej i mLegitymacji szkolnej, wzory tych legitymacji oraz opis zabezpieczeń legitymacji szkolnej i legitymacji przedszkolnej przed fałszerstwem określa załącznik nr 4 do rozporządzenia.
+§ 4. 1. Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły i legitymację szkolną wydaje szkoła i szkoła polska.
+2. Szkoła, wydając legitymację szkolną, może wydać uczniowi, któremu nadano numer PESEL, dodatkowo, mLegitymację szkolną stanowiącą dokument elektroniczny przechowywany i prezentowany przy użyciu oprogramowania przeznaczonego dla urządzeń mobilnych, o którym mowa w art. 19e ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57), zwaną dalej „mLegitymacją szkolną”.
+3. Legitymację przedszkolną, zaświadczenie o spełnianiu obowiązku rocznego przygotowania przedszkolnego i informację o gotowości dziecka do podjęcia nauki w szkole podstawowej wydaje odpowiednio dyrektor publicznego i niepublicznego przedszkola i szkoły podstawowej oraz osoba kierująca inną formą wychowania przedszkolnego.
+4. Świadectwo ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych, zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty, zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia, świadectwo dojrzałości i jego odpis, aneks do świadectwa dojrzałości i jego odpis, zaświadczenie o wynikach egzaminu maturalnego, certyfikat kwalifikacji zawodowej, dyplom zawodowy, dyplom potwierdzający kwalifikacje zawodowe, suplement do dyplomu zawodowego, suplement do dyplomu potwierdzającego kwalifikacje zawodowe i świadectwo potwierdzające kwalifikację w zawodzie wydają okręgowe komisje egzaminacyjne.
+§ 5. 1. Zaświadczenie o spełnianiu obowiązku rocznego przygotowania przedszkolnego wydaje się na wniosek rodziców dziecka spełniającego obowiązek rocznego przygotowania przedszkolnego.
+2. Informację o gotowości dziecka do podjęcia nauki w szkole podstawowej wydaje się rodzicom dziecka spełniającego obowiązek rocznego przygotowania przedszkolnego w terminie do końca kwietnia roku szkolnego poprzedzającego rok szkolny, w którym dziecko ma obowiązek lub może rozpocząć naukę w szkole podstawowej.
+3. W przypadku dziecka mogącego podjąć naukę w szkole podstawowej w wieku 6 lat, informację o gotowości dziecka do podjęcia nauki w szkole podstawowej wydaje się na wniosek rodziców złożony nie później niż do dnia 30 września roku szkolnego poprzedzającego rok szkolny, w którym dziecko może rozpocząć naukę w szkole podstawowej.
+§ 6. 1. Szkoła i szkoła polska, na wniosek pełnoletniego ucznia, pełnoletniego absolwenta, rodziców niepełnoletniego ucznia albo rodziców niepełnoletniego absolwenta, wydaje zaświadczenie o przebiegu nauczania. Wnioskodawca potwierdza podpisem otrzymanie zaświadczenia.
+2. Szkoła prowadząca kształcenie zawodowe, na wniosek absolwenta, wydaje zaświadczenie o zawodzie, w którym absolwent kształcił się w tej szkole, w szczególności dla celów postępowania rekrutacyjnego do branżowej szkoły II stopnia, o którym mowa w art. 135 ust. 1 pkt 2 ustawy Prawo oświatowe. Wnioskodawca potwierdza podpisem otrzymanie zaświadczenia.
+3. Wniosek o wydanie mLegitymacji szkolnej składa pełnoletni uczeń albo rodzice niepełnoletniego ucznia.
+§ 7. 1. Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły, zaświadczenie o zawodzie i zaświadczenie o przebiegu nauczania wydaje się na podstawie dokumentacji przebiegu nauczania prowadzonej przez szkołę i szkołę polską.
+2. Świadectwo ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych przeprowadzanych przez okręgowe komisje egzaminacyjne i zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia wydaje się na podstawie dokumentacji egzaminów eksternistycznych.
+3. Zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty wydaje się na podstawie dokumentacji egzaminu ósmoklasisty.
+4. Świadectwo dojrzałości, aneks do świadectwa dojrzałości i zaświadczenie o wynikach egzaminu maturalnego wydaje się na podstawie dokumentacji egzaminu maturalnego.
+5. Świadectwo dojrzałości w przypadku, o którym mowa w art. 44zzd ust. 4b ustawy z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą”, wydaje się również na podstawie dokumentów, o których mowa w tym przepisie.
+6. Certyfikat kwalifikacji zawodowej wydaje się na podstawie dokumentacji egzaminu zawodowego.
+7. Świadectwo potwierdzające kwalifikację w zawodzie wydaje się na podstawie dokumentacji egzaminu potwierdzającego kwalifikacje w zawodzie.
+8. Informację o gotowości dziecka do podjęcia nauki w szkole podstawowej wydaje się na podstawie dokumentacji prowadzonych obserwacji pedagogicznych dzieci objętych wychowaniem przedszkolnym w przedszkolu, oddziale przedszkolnym w szkole podstawowej lub innej formie wychowania przedszkolnego.
+§ 8. 1. Przedszkole, szkoła podstawowa, w której zorganizowano oddział przedszkolny, inna forma wychowania przedszkolnego, szkoła, szkoła polska, okręgowa komisja egzaminacyjna i inny organ właściwy do wydania duplikatu dokumentu publicznego prowadzi ewidencję blankietów i druków dokumentów publicznych.
+2. Ewidencja, o której mowa w ust. 1, zawiera:
+1) nazwę producenta blankietu lub druku dokumentu publicznego;
+2) numer oznaczenia indywidualnego blankietu lub druku dokumentu publicznego;
+3) datę odbioru blankietu lub druku dokumentu publicznego przez podmiot, o którym mowa w ust. 1.
+3. Przedszkole, szkoła podstawowa, w której zorganizowano oddział przedszkolny, i inna forma wychowania przedszkolnego prowadzi imienną ewidencję wydanych legitymacji przedszkolnych oraz duplikatów tych legitymacji.
+4. Ewidencja, o której mowa w ust. 3, zawiera:
+1) imię (imiona) i nazwisko dziecka;
+2) nazwę producenta blankietu dokumentu publicznego;
+3) numer oznaczenia indywidualnego blankietu dokumentu publicznego;
+4) numer wydanego dokumentu publicznego;
+5) datę odbioru dokumentu publicznego;
+6) podpis rodzica odbierającego dokument publiczny.
+5. Szkoła prowadzi imienną ewidencję wydanych odpowiednio świadectw ukończenia szkoły i legitymacji szkolnych oraz ich duplikatów, a także zaświadczeń o szczegółowych wynikach egzaminu ósmoklasisty, świadectw dojrzałości i jego odpisów, aneksów do świadectw dojrzałości i jego odpisów, zaświadczeń o wynikach egzaminu maturalnego, certyfikatów kwalifikacji zawodowych, dyplomów zawodowych, dyplomów potwierdzających kwalifikacje zawodowe i świadectw potwierdzających kwalifikacje w zawodzie przekazywanych szkole przez okręgową komisję egzaminacyjną.
+6. Ewidencja, o której mowa w ust. 5, zawiera:
+1) imię (imiona) i nazwisko ucznia albo absolwenta;
+2) numer PESEL ucznia albo absolwenta;
+3) numer wydanego dokumentu publicznego;
+4) numer oznaczenia indywidualnego blankietu dokumentu publicznego;
+5) nazwę producenta blankietu dokumentu publicznego w przypadku świadectw ukończenia szkoły i legitymacji szkolnych oraz ich duplikatów;
+6) datę odbioru dokumentu publicznego;
+7) podpis ucznia, absolwenta, rodziców niepełnoletniego ucznia albo rodziców niepełnoletniego absolwenta, którzy odebrali dokument publiczny.
+7. Szkoła polska prowadzi imienną ewidencję wydanych świadectw ukończenia szkoły i legitymacji szkolnych oraz ich duplikatów.
+8. Ewidencja, o której mowa w ust. 7, zawiera:
+1) imię (imiona) i nazwisko ucznia albo absolwenta;
+2) numer PESEL ucznia albo absolwenta;
+3) nazwę producenta blankietu dokumentu publicznego;
+4) numer wydanego dokumentu publicznego;
+5) numer oznaczenia indywidualnego blankietu dokumentu publicznego;
+6) datę odbioru dokumentu publicznego;
+7) podpis ucznia, absolwenta, rodziców niepełnoletniego ucznia albo rodziców niepełnoletniego absolwenta, którzy odebrali dokument publiczny.
+9. Podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy Prawo oświatowe, prowadzi imienną ewidencję wydanych odpowiednio certyfikatów kwalifikacji zawodowych i świadectw potwierdzających kwalifikacje w zawodzie, przekazywanych temu podmiotowi przez okręgową komisję egzaminacyjną.
+10. Ewidencja, o której mowa w ust. 9, zawiera:
+1) imię (imiona) i nazwisko osoby, która zaliczyła kwalifikacyjny kurs zawodowy i otrzymała odpowiednio certyfikat kwalifikacji zawodowej albo świadectwo potwierdzające kwalifikację w zawodzie;
+2) numer PESEL osoby, która zaliczyła kwalifikacyjny kurs zawodowy i otrzymała odpowiednio certyfikat kwalifikacji
+3) numer wydanego dokumentu publicznego;
+4) numer oznaczenia indywidualnego blankietu dokumentu publicznego;
+5) datę odbioru dokumentu publicznego;
+6) podpis osoby, o której mowa w pkt 1, która odebrała dokument publiczny, a w przypadku osoby niepełnoletniej podpis jej rodziców.
+§ 9. 1. Okręgowa komisja egzaminacyjna prowadzi imienną ewidencję wydanych dokumentów, o których mowa w § 4 ust. 4, a także wydanych duplikatów dokumentów, o których mowa w § 61 ust. 1, 6 i 11.
+2. Ewidencja, o której mowa w ust. 1, zawiera:
+1) imię (imiona) i nazwisko osoby, której wydano dokument publiczny;
+2) datę urodzenia osoby, której wydano dokument publiczny;
+3) numer PESEL osoby, której wydano dokument publiczny;
+4) nazwę producenta blankietu dokumentu publicznego;
+5) numer wydanego dokumentu publicznego;
+6) nazwę i adres szkoły, do której przekazano dokument publiczny w przypadku zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, świadectwa dojrzałości i jego odpisu, aneksu do świadectwa dojrzałości i jego odpisu oraz zaświadczenia o wynikach egzaminu maturalnego;
+7) nazwę i adres odpowiednio szkoły lub podmiotu, do którego przekazano dokument publiczny w przypadku certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe i świadectwa potwierdzającego kwalifikację w zawodzie przekazywanych do szkoły lub podmiotu, o którym mowa w § 8 ust. 9;
+8) datę odbioru dokumentu publicznego i podpis osoby, która otrzymała dokument publiczny, albo zwrotne potwierdzenie odbioru przesyłki poleconej, jeżeli dokument publiczny przesłano za pośrednictwem operatora pocztowego w przypadku świadectwa ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych, certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe, świadectwa potwierdzającego kwalifikację w zawodzie i zaświadczenia o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia wydawanego osobie przystępującej do egzaminu zgodnie z przepisami w sprawie egzaminów eksternistycznych oraz osobie przystępującej do egzaminu zawodowego lub egzaminu potwierdzającego kwalifikacje w zawodzie po ukończeniu kwalifikacyjnego kursu zawodowego;
+9) datę odbioru duplikatu oraz podpis osoby, która otrzymała duplikat, albo zwrotne potwierdzenie odbioru przesyłki poleconej, jeżeli duplikat przesłano za pośrednictwem operatora pocztowego w przypadku duplikatu dokumentu publicznego wydawanego przez okręgową komisję egzaminacyjną, o którym mowa odpowiednio w § 61 ust. 1, 6 i 11.
+3. Ewidencja, o której mowa w ust. 1, w zakresie dokumentów wymienionych w ust. 2 pkt 6 i 7, jest prowadzona w postaci elektronicznej bazy danych.
+§ 10. 1. W przypadkach, o których mowa w § 20 ust. 3, § 59 ust. 5, § 60 ust. 2 i 4, § 63 ust. 4 i 5, w ewidencjach, o których mowa odpowiednio w § 8 ust. 3, 5 i 7 oraz § 9 ust. 1:
+1) wpisuje się adnotację o zniszczeniu zwróconego dokumentu publicznego;
+2) nadaje się nowy numer wydanego dokumentu publicznego lub jego duplikatu oraz wpisuje się datę odbioru dokumentu publicznego lub jego duplikatu.
+2. W przypadku, o którym mowa w ust. 1:
+1) ewidencja, o której mowa w § 8 ust. 3, zawiera podpis rodzica dziecka, który odebrał dokument publiczny lub jego duplikat;
+2) ewidencja, o której mowa w § 8 ust. 5 i 7, zawiera podpis ucznia, absolwenta, rodziców niepełnoletniego ucznia albo rodziców niepełnoletniego absolwenta, którzy odebrali dokument publiczny lub jego duplikat;
+3) ewidencja, o której mowa w § 9 ust. 1, zawiera podpis osoby, która odebrała dokument publiczny lub jego duplikat, albo zwrotne potwierdzenie odbioru przesyłki poleconej, jeżeli dokument publiczny lub jego duplikat przesłano za pośrednictwem operatora pocztowego.
+§ 11. 1. Po ukończeniu nauki w danej klasie, z wyjątkiem klasy programowo najwyższej, uczeń szkoły dla dzieci i młodzieży, w zależności od wyników klasyfikacji rocznej, otrzymuje świadectwo szkolne promocyjne potwierdzające otrzymanie albo nieotrzymanie promocji do klasy programowo wyższej.
+2. Po ukończeniu nauki w danym semestrze, z wyjątkiem semestru programowo najwyższego, słuchacz branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych, w zależności od wyników klasyfikacji semestralnej, otrzymuje wpis do indeksu potwierdzający otrzymanie albo nieotrzymanie promocji na semestr programowo wyższy.
+3. Począwszy od klasy IV szkoły podstawowej, uczeń szkoły dla dzieci i młodzieży, który otrzymał promocję do klasy programowo wyższej z wyróżnieniem, otrzymuje świadectwo szkolne promocyjne potwierdzające uzyskanie promocji z wyróżnieniem.
+4. W przypadku, o którym mowa w art. 44i ust. 4 i 7 ustawy, wraz ze świadectwem, o którym mowa w ust. 1, uczeń otrzymuje informację o ocenach opisowych w formie pisemnej.
+§ 12. 1. Uczeń szkoły i szkoły polskiej, który ukończył daną szkołę, otrzymuje świadectwo ukończenia szkoły.
+2. Uczeń szkoły dla dzieci i młodzieży, który ukończył szkołę z wyróżnieniem, otrzymuje świadectwo ukończenia szkoły potwierdzające ukończenie szkoły z wyróżnieniem.
+§ 13. 1. Dyplom zawodowy może otrzymać osoba, która posiada:
+1) certyfikaty kwalifikacji zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie zgodnie z klasyfikacją zawodów szkolnictwa branżowego oraz
+2) świadectwo ukończenia szkoły ponadgimnazjalnej albo szkoły ponadpodstawowej albo zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej, branżowej szkoły I stopnia lub branżowej szkoły II stopnia, odpowiednio do poziomu kształcenia w danym zawodzie wskazanym zgodnie z klasyfikacją zawodów szkolnictwa branżowego.
+2. Dyplom zawodowy w zawodzie nauczanym na poziomie technika, w którym wyodrębniono zgodnie z klasyfikacją zawodów szkolnictwa branżowego co najmniej jedną kwalifikację wspólną z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, może otrzymać również osoba, która:
+1) posiada:
+a) dyplom zawodowy w zawodzie nauczanym na poziomie branżowej szkoły I stopnia, wydany po zdaniu egzaminu zawodowego, którego zakres odpowiada kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, wspólnej z zawodem nauczanym na poziomie branżowej szkoły I stopnia oraz
+b) certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej wyłącznie w zawodzie nauczanym na poziomie technika, oraz
+c) świadectwo ukończenia szkoły ponadgimnazjalnej albo szkoły ponadpodstawowej, dających wykształcenie średnie lub średnie branżowe albo zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia;
+2) spełnia warunki określone w przepisach wydanych na podstawie art. 11b ustawy.
+3. Dyplom zawodowy w zawodzie nauczanym na poziomie technika może otrzymać osoba, która nie spełnia warunków określonych w ust. 1 lub 2, jeżeli:
+1) posiada dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej, wydany po zdaniu egzaminu potwierdzającego kwalifikacje zawodowe, którego zakres odpowiada kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, wspólnej z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, oraz spełnia warunki, o których mowa w ust. 2 pkt 1 lit. b i c;
+2) ukończyła dokształcanie teoretyczne młodocianych pracowników w zasadniczej szkole zawodowej lub branżowej szkole I stopnia oraz posiada świadectwo czeladnicze w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, wydane po zdaniu egzaminu czeladniczego, którego zakres odpowiada kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, wspólnej z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, przeprowadzanego zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159), w brzmieniu obowią3) posiada świadectwo uzyskania tytułu zawodowego w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej wydane po zdaniu egzaminu kwalifikacyjnego przeprowadzonego przez państwową komisję egzaminacyjną powołaną przez kuratora oświaty, którego zakres odpowiada kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, wspólnym z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, oraz spełnia warunki, o których mowa w ust. 2 pkt 1 lit. b i c.
+4. Dyplom zawodowy wydaje się na wniosek osoby, o której mowa w ust. 1–3, złożony do dyrektora okręgowej komisji egzaminacyjnej, który wydał certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w danym zawodzie, z której egzamin zawodowy został zdany jako ostatni. Do wniosku dołącza się odpowiednie dokumenty, o których mowa w ust. 1–3 albo w przepisach wydanych na podstawie art. 11b ustawy.
+5. Absolwentom szkoły prowadzącej kształcenie zawodowe, którzy w danym roku szkolnym otrzymali świadectwo ukończenia tej szkoły i posiadają certyfikaty kwalifikacji zawodowych w zakresie wszystkich kwalifikacji wyodrębnionych w zawodzie, w którym kształci ta szkoła, dyplom zawodowy wydaje się na podstawie przekazanego przez dyrektora tej szkoły do okręgowej komisji egzaminacyjnej wykazu absolwentów w danym roku szkolnym, zawierającego imiona i nazwiska absolwentów oraz ich numery PESEL, wraz z informacją o posiadanych przez absolwenta certyfikatach kwalifikacji zawodowych, uzyskanych w trakcie kształcenia w szkole.
+6. Słuchaczom szkoły policealnej, którzy w danym roku szkolnym otrzymali certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie, w którym kształci ta szkoła i z zakresu której egzamin zawodowy został zdany jako ostatni, dyplom zawodowy wydaje się na podstawie przekazanego przez dyrektora tej szkoły do okręgowej komisji egzaminacyjnej wykazu słuchaczy w danym roku szkolnym, zawierającego imiona i nazwiska słuchaczy oraz ich numery PESEL, wraz z informacją o posiadanych przez słuchacza certyfikatach, uzyskanych w trakcie kształcenia w szkole.
+7. W przypadku absolwenta albo słuchacza, o których mowa w ust. 5 i 6, posiadających świadectwo potwierdzające kwalifikację w zawodzie, certyfikat kwalifikacji zawodowej albo świadectwo czeladnicze nieuzyskane w trakcie kształcenia w danej szkole, dyplom zawodowy wydaje się na wniosek tego absolwenta albo słuchacza. Do wniosku stosuje się przepis ust. 4.
+8. Dyrektor szkoły przekazuje okręgowej komisji egzaminacyjnej wykazy, o których mowa odpowiednio w ust. 5 i 6, w terminie 7 dni od dnia zakończenia rocznych zajęć dydaktyczno-wychowawczych.
+§ 14. Okręgowa komisja egzaminacyjna, która wydała dyplom zawodowy, wydaje suplement do dyplomu zawodowego sporządzony na podstawie efektów kształcenia określonych w podstawie programowej kształcenia w danym zawodzie szkolnictwa branżowego.
+§ 15. 1. Dyplom potwierdzający kwalifikacje zawodowe może otrzymać osoba, która posiada:
+1) świadectwa potwierdzające wszystkie kwalifikacje wyodrębnione w danym zawodzie zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego oraz
+2) świadectwo ukończenia szkoły ponadgimnazjalnej albo szkoły ponadpodstawowej albo zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla zasadniczej szkoły zawodowej, branżowej szkoły I stopnia lub branżowej szkoły II stopnia odpowiednio do poziomu kształcenia w danym zawodzie wskazanym zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego.
+2. Dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika, w którym wyodrębniono zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego, co najmniej jedną kwalifikację wspólną z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, może otrzymać również osoba, która:
+1) posiada:
+a) dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, wydany po zdaniu egzaminu potwierdzającego kwalifikacje w zawodzie, którego zakres odpowiada kwalifikacji lub kwalifikacjom wyodrębnionym w zawodzie nauczanym na poziomie technika, wspólnym z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia oraz
+b) świadectwo lub świadectwa potwierdzające kwalifikacje wyodrębnione wyłącznie w zawodzie nauczanym na poziomie technika, oraz
+c) świadectwo ukończenia szkoły ponadgimnazjalnej albo szkoły ponadpodstawowej, dających wykształcenie średnie lub średnie branżowe albo zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia;
+2) spełnia warunki określone w przepisach wydanych na podstawie art. 11b ustawy.
+3. Dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika może otrzymać osoba, która nie spełnia warunków określonych w ust. 1 lub 2, jeżeli:
+1) posiada dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej, wydany po zdaniu egzaminu potwierdzającego kwalifikacje zawodowe, którego zakres odpowiada kwalifikacji lub kwalifikacjom wyodrębnionym w zawodzie nauczanym na poziomie technika, wspólnym z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, oraz spełnia warunki określone ust. 2 pkt 1 lit. b i c;
+2) ukończyła dokształcanie teoretyczne młodocianych pracowników w zasadniczej szkole zawodowej lub branżowej szkole I stopnia oraz posiada świadectwo czeladnicze w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, wydane po zdaniu egzaminu czeladniczego, którego zakres odpowiada kwalifikacji lub kwalifikacjom wyodrębnionym w zawodzie nauczanym na poziomie technika, wspólnym z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, przeprowadzanego zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle, w brzmieniu obowiązującym przed dniem 1 września 2012 r., oraz spełnia warunki, o których mowa w ust. 2 pkt 1 lit. b i c;
+3) posiada świadectwo uzyskania tytułu zawodowego w zawodzie nauczanym na poziomie zasadniczej szkoły zawodowej, wydane po zdaniu egzaminu kwalifikacyjnego przeprowadzonego przez państwową komisję egzaminacyjną powołaną przez kuratora oświaty, którego zakres odpowiada kwalifikacji lub kwalifikacjom wyodrębnionym w zawodzie nauczanym na poziomie technika, wspólnym z zawodem nauczanym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia, oraz spełnia warunki, o których mowa w ust. 2 pkt 1 lit. b i c.
+4. Dyplom potwierdzający kwalifikacje zawodowe wydaje się na wniosek osoby, o której mowa w ust. 1–3, złożony do dyrektora okręgowej komisji egzaminacyjnej, który wydał świadectwo potwierdzające kwalifikację wyodrębnioną w danym zawodzie, z zakresu której egzamin potwierdzający kwalifikacje w zawodzie został zdany jako ostatni. Do wniosku dołącza się dokumenty, o których mowa w ust. 1–3 albo w przepisach wydanych na podstawie art. 11b ustawy.
+§ 16. Okręgowa komisja egzaminacyjna, która wydała dyplom potwierdzający kwalifikacje zawodowe, wydaje suplement do dyplomu potwierdzającego kwalifikacje zawodowe sporządzony na podstawie efektów kształcenia określonych w odpowiedniej podstawie programowej kształcenia w zawodach.
+§ 17. Osoba, która zdała egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia, otrzymuje zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia.
+§ 18. 1. Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły, arkusz ocen i indeks wypełnia się czytelnie, bez dokonywania poprawek.
+2. Świadectwo ukończenia szkoły i duplikat tego świadectwa wypełnia się w postaci elektronicznej.
+3. Świadectwo szkolne promocyjne, arkusz ocen i indeks wypełnia się pismem ręcznym lub w postaci elektronicznej, z uwzględnieniem przepisu § 49.
+4. Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły i arkusz ocen wypełniane w postaci elektronicznej przybierają postać papierowego wydruku dokumentu utworzonego i wypełnionego pierwotnie w postaci elektronicznej.
+§ 19. 1. Na dokumentach wydawanych według wzorów określonych w załącznikach nr 3 i 4 do rozporządzenia, odpowiednio imię (imiona) i nazwisko, miesiąc w dacie urodzenia, klasę lub semestr, oceny z zajęć edukacyjnych, ocenę zachowania lub miesiąc wydania danego dokumentu wpisuje się wyrazami w pełnym brzmieniu i bez stosowania skrótów.
+2. Dokumenty wydawane według wzorów określonych w załączniku nr 3 do rozporządzenia opatruje się wyraźnym odciskiem pieczęci urzędowej lub pieczątki.
+3. Nazwę szkoły i szkoły polskiej wpisuje się w pełnym brzmieniu zgodnie z nazwą ustaloną w statucie szkoły albo szkoły polskiej, z tym że w nazwie szkoły wchodzącej w skład zespołu szkół lub specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii i placówki kształcenia ustawicznego można pominąć nazwę zespołu lub specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii i placówki kształcenia ustawicznego.
+4. W wierszach, które nie są wypełniane, wstawia się poziomą kreskę, a w przypadku:
+1) zwolnienia ucznia z zajęć edukacyjnych w wierszu przeznaczonym na wpisanie oceny z tych zajęć wpisuje się wyraz odpowiednio „zwolniony” albo „zwolniona”;
+2) nieklasyfikowania ucznia z zajęć edukacyjnych w wierszu przeznaczonym na wpisanie oceny z tych zajęć wpisuje się wyraz odpowiednio „nieklasyfikowany” albo „nieklasyfikowana”.
+5. W przypadku niewypełnienia kilku kolejnych wierszy można je przekreślić ukośną kreską, z wyjątkiem pierwszego i ostatniego wolnego wiersza, w których wstawia się poziome kreski.
+6. Nazwy zajęć edukacyjnych wpisuje się w pełnym brzmieniu. Dopuszcza się wpisanie nazwy zajęć edukacyjnych w dwóch wierszach, z tym że w pierwszym wierszu przeznaczonym na wpisanie oceny z zajęć edukacyjnych wstawia się poziomą kreskę.
+7. Na świadectwie szkolnym promocyjnym, świadectwie ukończenia szkoły, arkuszu ocen i indeksie, w części „Obowiązkowe zajęcia edukacyjne”, wpisuje się obowiązkowe zajęcia edukacyjne zgodnie z kolejnością przyjętą w ramowym planie nauczania dla danego typu szkoły na dany etap edukacyjny, określonym w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 i ust. 4 ustawy Prawo oświatowe, oraz zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3 ustawy.
+§ 20. 1. Jako datę wydania świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły przyjmuje się datę zakończenia rocznych zajęć dydaktyczno-wychowawczych.
+2. W przypadku ucznia:
+1) który przystępował do egzaminu poprawkowego,
+2) który przystępował do egzaminu klasyfikacyjnego,
+3) który przystępował do sprawdzianu wiadomości i umiejętności,
+4) któremu ustalono roczną ocenę klasyfikacyjną w związku ze złożonymi zastrzeżeniami po zakończeniu rocznych zajęć dydaktyczno-wychowawczych jako datę wydania świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły przyjmuje się datę podjęcia przez radę pedagogiczną uchwały w sprawie wyników odpowiednio promocji albo klasyfikacji i promocji tego ucznia.
+3. Uczniowi, któremu w wyniku:
+1) przeprowadzonego sprawdzianu wiadomości i umiejętności podwyższono roczną ocenę klasyfikacyjną z zajęć edukacyjnych lub
+2) głosowania komisji powołanej przez dyrektora szkoły podwyższono roczną ocenę klasyfikacyjną zachowania wydaje się nowe świadectwo szkolne promocyjne i świadectwo ukończenia szkoły za zwrotem świadectwa lub jego duplikatu, wydanego poprzednio.
+§ 21. Jako datę wydania zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, świadectwa dojrzałości, aneksu do świadectwa dojrzałości, zaświadczenia o wynikach egzaminu maturalnego, certyfikatu kwalifikacji zawodowej i dyplomu zawodowego przyjmuje się datę określoną w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze podwójne tiret drugie i trzecie ustawy.
+§ 22. W przypadkach, o których mowa w § 20 ust. 3, § 59 ust. 5 i § 60 ust. 2, na nowo wydawanym dokumencie przyjmuje się odpowiednio datę zgodnie z przepisami § 20 ust. 1 lub 2 lub § 21.
+§ 23. 1. Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły i indeks wydawane odpowiednio przez szkołę i szkołę polską opatruje się odciskiem pieczęci urzędowej szkoły albo szkoły polskiej.
+2. Świadectwa szkolne promocyjne i świadectwa ukończenia szkoły wydawane przez szkołę albo szkołę polską podpisują odpowiednio dyrektor szkoły albo szkoły polskiej i wychowawca. W uzasadnionych przypadkach świadectwo szkolne promocyjne i świadectwo ukończenia szkoły może podpisać, zamiast wychowawcy klasy, inny nauczyciel wskazany przez dyrektora szkoły albo szkoły polskiej.
+§ 24. W przypadku osoby, która nie posiada numeru PESEL, na dokumentach wydawanych według wzorów określonych załącznikach nr 3 i 4 do rozporządzenia, w ewidencjach, o których mowa w § 8 ust. 3, 5, 7 i 9 oraz § 9 ust. 1, oraz w wykazach, o których mowa w § 13 ust. 5 i 6, zamiast numeru PESEL wpisuje się nazwę i numer dokumentu potwierdzającego tożsamość.
+§ 25. 1. Na świadectwie szkolnym promocyjnym i w arkuszu ocen, w części dotyczącej wyników klasyfikacji rocznej, wpisuje się obowiązkowe zajęcia edukacyjne i roczne oceny klasyfikacyjne z tych zajęć.
+2. W arkuszu ocen i indeksie, w części dotyczącej wyników klasyfikacji semestralnej, wpisuje się obowiązkowe zajęcia edukacyjne i semestralne oceny klasyfikacyjne z tych zajęć.
+3. Na świadectwie ukończenia szkoły oraz w arkuszu ocen, w części dotyczącej wyników klasyfikacji końcowej, wpisuje się obowiązkowe zajęcia edukacyjne i końcowe oceny klasyfikacyjne z tych zajęć.
+4. Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen ucznia liceum ogólnokształcącego i technikum, w części „Obowiązkowe zajęcia edukacyjne”, nad przedmiotem „historia”, wpisuje się obowiązkowe zajęcia edukacyjne realizowane zgodnie z § 9 rozporządzenia Ministra Edukacji Narodowej z dnia 3 kwietnia 2019 r. w sprawie ramowych planów nauczania dla publicznych szkół (Dz. U. poz. 639, z 2020 r. poz. 1008, z 2022 r.
+poz. 658 oraz z 2023 r. poz. 277).
+5. Jeżeli szkoła prowadząca kształcenie zawodowe zrealizowała obowiązkowe zajęcia edukacyjne, o których mowa w § 4 ust. 5 pkt 2 rozporządzenia Ministra Edukacji Narodowej z dnia 3 kwietnia 2019 r. w sprawie ramowych planów nauczania dla publicznych szkół, na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen, w części „Obowiązkowe zajęcia edukacyjne”, wpisuje się nazwę tych zajęć oraz ocenę z tych zajęć. W przypadku realizacji obowiązkowych zajęć edukacyjnych przygotowujących uczniów do uzyskania dodatkowych umiejętności zawodowych związanych z nauczanym zawodem, o których mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe, wpisuje się również adnotację „dodatkowe umiejętności zawodowe”.
+6. Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen, w miejscu przeznaczonym na wpisanie ocen klasyfikacyjnych z religii/etyki, wpisuje się:
+1) poziomą kreskę, jeżeli uczeń nie uczęszczał na żadne z tych zajęć;
+2) ocenę z religii albo ocenę z etyki, jeżeli uczeń uczęszczał na jedne z tych zajęć, bez wskazywania, z jakich zajęć jest to ocena;
+3) ocenę z religii i ocenę z etyki, jeżeli uczeń uczęszczał na zajęcia z religii i na zajęcia z etyki.
+7. Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen, w części „Dodatkowe zajęcia edukacyjne”, wpisuje się dodatkowe zajęcia edukacyjne, o których mowa w art. 109 ust. 1 pkt 2 ustawy Prawo oświatowe, i zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3 ustawy.
+8. Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen, w części „Szczególne osiągnięcia”, wpisuje się:
+1) uzyskane wysokie miejsca nagrodzone lub uhonorowane zwycięskim tytułem w zawodach wiedzy, zawodach artystycznych i zawodach sportowych, organizowanych przez kuratora oświaty albo organizowanych, co najmniej na szczeblu powiatowym, przez inne podmioty działające na terenie szkół;
+2) osiągnięcia w aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu;
+3) realizację lub ukończenie programu nauczania ustalonego przez zagraniczną instytucję edukacyjną, o którym mowa w art. 21 ust. 3 ustawy Prawo oświatowe, wraz z nazwą tego programu, jeżeli uczeń uczęszczał do oddziału międzynarodowego, w którym ten program był realizowany.
+9. Uczestnictwo ucznia w zajęciach wychowania do życia w rodzinie na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen wpisuje się w części „Inne zajęcia”. W miejscu przeznaczonym na wpisanie oceny z tych zajęć wpisuje się odpowiednio „uczestniczył” albo „uczestniczyła”.
+10. Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen ucznia, który uzyskał odpowiednio tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata albo finalisty olimpiady przedmiotowej po ustaleniu rocznej lub semestralnej oceny klasyfikacyjnej z zajęć edukacyjnych, wpisuje się, z danych zajęć edukacyjnych, celującą końcową ocenę klasyfikacyjną.
+§ 26. 1. Świadectwo szkolne promocyjne i świadectwo ukończenia szkoły z językiem nauczania mniejszości narodowej, mniejszości etnicznej lub językiem regionalnym, w której zajęcia są prowadzone w tym języku, mogą składać się z dwóch części.
+2. Część pierwszą świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły, o których mowa w ust. 1, stanowi świadectwo według wzoru określonego dla danego typu szkoły, wypełnione w języku polskim.
+3. Część drugą świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły, o których mowa w ust. 1, stanowi świadectwo według tego samego wzoru określonego dla danego typu szkoły, przetłumaczone, wypełnione w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym. Symbol świadectwa zawiera na końcu dodatkowy znak „–” i literę albo litery wskazujące język danej mniejszości narodowej, etnicznej albo mniejszości posługującej się językiem regionalnym odpowiednio: B białoruski, Cz czeski, L litewski, N niemiecki, O ormiański, Rs rosyjski, S słowacki, U ukraiński, J (jidysz) albo Hr (hebrajski) żydowski, Kr karaimski, Ł łemkowski, Rm romski, T tatarski i Ks kaszubski.
+4. Część drugą świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły, o których mowa w ust. 1, wydaje się na wniosek pełnoletniego ucznia lub rodziców niepełnoletniego ucznia.
+5. Tłumaczenie, wypełnienie i wydruk świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły w odpowiednim języku danej mniejszości narodowej, języku danej mniejszości etnicznej lub języku regionalnym zapewnia dyrektor szkoły.
+6. Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen ucznia, który realizował zajęcia z języka mniejszości narodowej, języka mniejszości etnicznej lub języka regionalnego oraz zajęcia z własnej historii i kultury mniejszości lub społeczności posługującej się językiem regionalnym:
+1) język mniejszości narodowej, język mniejszości etnicznej lub język regionalny wpisuje się w części „Obowiązkowe zajęcia edukacyjne”, wpisując status tego języka („język mniejszości narodowej”, „język mniejszości etnicznej” lub „język regionalny”) oraz jego nazwę;
+2) historię i kulturę własną mniejszości lub społeczności posługującej się językiem regionalnym wpisuje się w części „Dodatkowe zajęcia edukacyjne”, wpisując nazwę tych zajęć („historia i kultura”) oraz nazwę mniejszości narodowej, mniejszości etnicznej lub społeczności posługującej się językiem regionalnym, której one dotyczą.
+7. Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły oraz w arkuszu ocen ucznia, który realizował dodatkowo zajęcia z geografii państwa, z którego obszarem kulturowym utożsamia się mniejszość narodowa, w części „Inne zajęcia”, wpisuje się nazwę tych zajęć („geografia”) oraz nazwę tego państwa. W miejscu przeznaczonym na wpisanie oceny z tych zajęć wpisuje się odpowiednio „uczestniczył” albo „uczestniczyła”.
+§ 27. Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły wydawanym uczniowi szkoły lub oddziału dwujęzycznego oraz w arkuszu ocen ucznia szkoły lub oddziału dwujęzycznego:
+1) obok nazwy przedmiotu nauczanego dwujęzycznie wpisuje się adnotację odpowiednio „nauczany dwujęzycznie” albo „nauczana dwujęzycznie” albo wpisuje się skrót „ND”;
+2) obok nazwy języka obcego nowożytnego, który jest drugim językiem nauczania w liceum ogólnokształcącym i technikum, wpisuje się adnotację „poziom dwujęzyczny” albo wpisuje się skrót „PD”.
+§ 28. Na świadectwie szkolnym promocyjnym, świadectwie ukończenia szkoły oraz w arkuszu ocen, w części „Obowiązkowe zajęcia edukacyjne”, wpisuje się uczestnictwo uczniów w zajęciach sportowych realizowanych w oddziałach i szkołach sportowych oraz w oddziałach i szkołach mistrzostwa sportowego. W miejscu przeznaczonym na wpisanie oceny z tych zajęć wstawia się poziomą kreskę.
+§ 29. Na świadectwie szkolnym promocyjnym, świadectwie ukończenia szkoły oraz w arkuszu ocen, obok nazwy języka obcego nowożytnego, wpisuje się:
+1) w szkole podstawowej (klasy IV–VIII):
+a) adnotację „II.1.” w przypadku języka obcego nowożytnego, który jest nauczany jako pierwszy (kontynuacja z klas I–III),
+b) adnotację „II.1.DJ” w przypadku języka obcego nowożytnego, który jest nauczany jako pierwszy dla oddziałów dwujęzycznych,
+c) adnotację „II.2.” w przypadku języka obcego nowożytnego, który jest nauczany jako drugi od początku w klasie VII,
+d) adnotację „II.2.DJ” w przypadku języka obcego nowożytnego, który jest nauczany jako drugi od początku
+2) w branżowej szkole I stopnia:
+a) adnotację „III.BS1.1” w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 1 lit. a,
+b) adnotację „III.BS1.2” w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 1 lit. c,
+c) adnotację „III.BS1.0” w przypadku języka obcego nowożytnego, który jest nauczany od początku w klasie I;
+3) w liceum ogólnokształcącym i technikum:
+a) adnotację „III.1.P” w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 1 lit. a, w zakresie podstawowym,
+b) adnotację „III.1.R” w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 1 lit. a, w zakresie rozszerzonym,
+c) adnotację „III.2.0.” w przypadku języka obcego nowożytnego, który jest nauczany od początku w klasie I,
+d) adnotację „III.2.” w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 1 lit. c,
+e) adnotację „III.DJ” w przypadku języka obcego nowożytnego, który jest nauczany: jako kontynuacja języka, o którym mowa w pkt 1 lit. a albo c albo od początku w klasie I liceum ogólnokształcącego dwujęzycznego, technikum dwujęzycznego lub w oddziale dwujęzycznym w liceum ogólnokształcącym lub technikum, albo jako kontynuacja języka z klasy wstępnej;
+4) w branżowej szkole II stopnia:
+a) adnotację „III.BS2.1” w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 2 lit. a,
+b) adnotację „III.BS2.2” w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 2 lit. b,
+c) adnotację „III.BS2.0” w przypadku języka obcego nowożytnego, który jest nauczany jako kontynuacja języka, o którym mowa w pkt 2 lit. c.
+§ 30. Na świadectwo ukończenia liceum ogólnokształcącego dla dorosłych wydawane absolwentowi branżowej szkoły I stopnia lub absolwentowi zasadniczej szkoły zawodowej, który został przyjęty do klasy drugiej liceum ogólnokształcącego dla dorosłych, ze świadectwa ukończenia odpowiednio branżowej szkoły I stopnia lub zasadniczej szkoły zawodowej, przepisuje się odpowiednio ocenę z:
+1) podstaw przedsiębiorczości albo biznesu i zarządzania jako ocenę z biznesu i zarządzania;
+2) wiedzy o społeczeństwie albo historii i teraźniejszości jako ocenę z historii i teraźniejszości w przypadku liceum ogólnokształcącego dla dorosłych kształcącego w formie zaocznej;
+3) informatyki w przypadku liceum ogólnokształcącego dla dorosłych kształcącego w formie zaocznej.
+§ 31. Na świadectwie szkolnym promocyjnym i świadectwie ukończenia szkoły, wydawanych przez szkołę i szkołę polską oraz w indeksie, w miejscu przeznaczonym na wpisanie numeru, wpisuje się numer pod którym uczeń albo słuchacz jest wpisany w księdze uczniów albo księdze słuchaczy.
+§ 32. 1. W arkuszu ocen ucznia z niepełnosprawnością intelektualną w stopniu lekkim realizującego w danym roku szkolnym program nauczania dostosowany do indywidualnych potrzeb i możliwości na podstawie orzeczenia o potrzebie kształcenia specjalnego wydanego przez zespół orzekający działający w publicznej poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, w miejscu przeznaczonym na wpisanie informacji o tym orzeczeniu, wpisuje się nazwę poradni, która wydała to orzeczenie.
+2. W arkuszu ocen po wpisaniu wyników klasyfikacji rocznej lub semestralnej uzyskanych w klasie programowo najwyższej lub semestrze programowo najwyższym szkoły i szkoły polskiej danego typu, w kolejnej kolumnie, wpisuje się wyniki klasyfikacji końcowej.
+3. W arkuszu ocen ucznia liceum ogólnokształcącego i technikum, w części „Obowiązkowe zajęcia edukacyjne”, obok nazwy obowiązkowych zajęć edukacyjnych realizowanych w zakresie rozszerzonym wpisuje się adnotację „(zakres rozsze4. W arkuszu ocen ucznia technikum i słuchacza branżowej szkoły II stopnia i szkoły policealnej, w miejscu przeznaczonym na wpisanie informacji o egzaminie zawodowym, wpisuje się odpowiednio informację o:
+1) przystąpieniu do egzaminu zawodowego, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie lub
+2) nieprzystąpieniu do egzaminu zawodowego lub jego części, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie w przypadku gdy uczeń lub słuchacz nie przystąpił odpowiednio do tego egzaminu lub jego części, lub
+3) zwolnieniu z obowiązku przystąpienia do części pisemnej lub części praktycznej egzaminu zawodowego na podstawie art. 44zzzga ust. 4 ustawy, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie w przypadku gdy uczeń lub słuchacz został zwolniony z tego egzaminu, lub
+4) zwolnieniu z obowiązku przystąpienia do części pisemnej egzaminu zawodowego na podstawie art. 44zzze ust. 1 ustawy, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie w przypadku gdy uczeń lub słuchacz został zwolniony z tej części egzaminu.
+5. W arkuszu ocen ucznia branżowej szkoły I stopnia, w miejscu przeznaczonym na wpisanie informacji o egzaminie zawodowym lub egzaminie czeladniczym, wpisuje się odpowiednio informację o:
+1) przystąpieniu do egzaminu zawodowego, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie lub
+2) przystąpieniu do egzaminu czeladniczego w przypadku gdy uczeń będący młodocianym pracownikiem zatrudnionym w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem przystąpił do egzaminu czeladniczego, lub
+3) nieprzystąpieniu do egzaminu zawodowego lub jego części, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie lub do egzaminu czeladniczego w przypadku gdy uczeń nie przystąpił odpowiednio do danego egzaminu lub jego części, lub
+4) zwolnieniu z obowiązku przystąpienia do części pisemnej lub części praktycznej egzaminu zawodowego na podstawie art. 44zzzga ust. 4 ustawy, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie w przypadku gdy uczeń został zwolniony z tego egzaminu, lub
+5) zwolnieniu z obowiązku przystąpienia do części pisemnej egzaminu zawodowego na podstawie art. 44zzze ust. 1 ustawy, symbol i nazwę kwalifikacji wyodrębnionej w zawodzie w przypadku gdy uczeń lub słuchacz został zwolniony z tej części egzaminu.
+6. Do arkusza ocen słuchacza liceum ogólnokształcącego dla dorosłych, przyjętego do klasy drugiej na podstawie świadectwa ukończenia odpowiednio branżowej szkoły I stopnia lub zasadniczej szkoły zawodowej, dołącza się kopię tego świadectwa, poświadczoną za zgodność z oryginałem przez dyrektora liceum ogólnokształcącego dla dorosłych, do którego został przyjęty absolwent odpowiednio branżowej szkoły I stopnia lub zasadniczej szkoły zawodowej.
+§ 33. Na zaświadczeniu o szczegółowych wynikach egzaminu ósmoklasisty, w przypadkach, o których mowa w art. 44zw ust. 2 i art. 44zz ust. 2 ustawy, w części przeznaczonej na wpisanie wyniku egzaminu ósmoklasisty z danego przedmiotu:
+1) uzyskanego przez ucznia wpisuje się odpowiednio „zwolniony” albo „zwolniona”;
+2) ustalonego w skali centylowej wpisuje się poziomą kreskę.
+§ 34. 1. Na świadectwie dojrzałości w części przeznaczonej na wpisanie:
+1) wyników z przedmiotów obowiązkowych wpisuje się wyniki uzyskane na egzaminie maturalnym z przedmiotów obowiązkowych;
+2) wyników z przedmiotów dodatkowych:
+a) wpisuje się wyniki uzyskane na egzaminie maturalnym z przedmiotów dodatkowych jeżeli absolwent przystępował do egzaminu maturalnego z przedmiotów dodatkowych,
+b) wstawia się poziomą kreskę jeżeli absolwent nie przystępował do egzaminu maturalnego z przedmiotów dodatkowych, w przypadku, o którym mowa w art. 44zzd ust. 4b ustawy.
+2. Na świadectwie dojrzałości wpisuje się oddzielnie wyniki uzyskane z przedmiotów zdawanych w części ustnej i w części pisemnej egzaminu maturalnego. W części pisemnej egzaminu maturalnego wpisuje się dodatkowo poziom, na jakim był zdawany egzamin z danego przedmiotu.
+3. W przypadku absolwenta, o którym mowa w art. 44zze ust. 4 ustawy, który przystąpił do egzaminu maturalnego w części ustnej z języka obcego nowożytnego jako przedmiotu dodatkowego, na poziomie dwujęzycznym, na świadectwie dojrzałości, obok nazwy tego języka, wpisuje się „poziom dwujęzyczny”.
+4. W przypadku absolwenta, o którym mowa w art. 44zzg ustawy, zwolnionego z części ustnej egzaminu maturalnego, na świadectwie dojrzałości, zamiast wyniku egzaminu maturalnego w części ustnej, wpisuje się odpowiednio „zwolniony” albo „zwolniona”.
+5. Na świadectwie dojrzałości, w przypadku absolwenta szkoły lub oddziału z nauczaniem języka mniejszości narodowej, w części dotyczącej wyników w części ustnej i części pisemnej egzaminu maturalnego z przedmiotów obowiązkowych wpisuje się dodatkowo język danej mniejszości narodowej oraz wynik uzyskany z egzaminu z tego języka.
+6. Na świadectwie dojrzałości, w przypadku absolwenta szkoły lub oddziału dwujęzycznego, który w części pisemnej egzaminu maturalnego zdawał przedmiot, który był nauczany dwujęzycznie, i przystąpił do rozwiązywania dodatkowych zadań egzaminacyjnych w języku obcym nowożytnym będącym drugim językiem nauczania, wpisuje się oddzielnie wynik uzyskany w części zdawanej w drugim języku nauczania, oznaczając ją jako „część w języku ...”, wpisując nazwę drugiego języka nauczania.
+7. Na świadectwie dojrzałości, w przypadku absolwenta, o którym mowa w art. 44zzd ust. 4b ustawy, pod częścią przeznaczoną na wpisanie wyników uzyskanych na egzaminie maturalnym z przedmiotów dodatkowych wpisuje się informację:
+1) „Absolwent spełnia warunki uzyskania dyplomu zawodowego w zawodzie nauczanym na poziomie technika.” albo
+2) „Absolwent spełnia warunki uzyskania dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika.”.
+8. Absolwent otrzymuje oryginał świadectwa dojrzałości i jego odpis.
+9. Odpis, o którym mowa w ust. 8, wydaje się na druku świadectwa dojrzałości, umieszczając na pierwszej stronie tego druku, w prawym górnym rogu, wyraz „ODPIS”.
+§ 35. 1. Na aneksie do świadectwa dojrzałości wpisuje się wynik lub wyniki egzaminu maturalnego z przedmiotu lub przedmiotów, z których absolwent podwyższył wynik lub wyniki egzaminu maturalnego z przedmiotu lub przedmiotów dodatkowych.
+2. Na aneksie do świadectwa dojrzałości wpisuje się oddzielnie wyniki uzyskane z przedmiotów zdawanych w części ustnej i w części pisemnej egzaminu maturalnego. W części pisemnej egzaminu maturalnego wpisuje się dodatkowo poziom, na jakim był zdawany egzamin z danego przedmiotu.
+3. Na aneksie do świadectwa dojrzałości, w przypadku absolwenta, o którym mowa w art. 44zze ust. 4 ustawy, który przystąpił do egzaminu maturalnego z języka obcego nowożytnego jako przedmiotu dodatkowego na poziomie dwujęzycznym, obok nazwy tego języka wpisuje się „poziom dwujęzyczny”.
+4. Absolwent otrzymuje oryginał aneksu do świadectwa dojrzałości i jego odpis.
+5. Odpis, o którym mowa w ust. 4, wydaje się na druku aneksu do świadectwa dojrzałości, umieszczając na pierwszej stronie tego druku, w prawym górnym rogu, wyraz „ODPIS”.
+§ 36. Odpisy, o których mowa w § 34 ust. 8 i § 35 ust. 4, są wypełniane w postaci elektronicznej i drukowane z nadrukiem „ODPIS”, wizerunkiem pieczęci urzędowej okręgowej komisji egzaminacyjnej oraz pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej.
+§ 37. 1. Na zaświadczeniu o wynikach egzaminu maturalnego wpisuje się oddzielnie wyniki z przedmiotu lub przedmiotów zdawanych w części ustnej i w części pisemnej egzaminu maturalnego. W części pisemnej egzaminu maturalnego wpisuje się dodatkowo poziom, na jakim był zdawany egzamin z danego przedmiotu lub przedmiotów.
+2. Na zaświadczeniu, o którym mowa w art. 44zzp ust. 2 i 3 ustawy, w przypadku absolwenta, o którym mowa w art. 44zze ust. 4 ustawy, który przystąpił do egzaminu maturalnego w części ustnej z języka obcego nowożytnego jako przedmiotu dodatkowego na poziomie dwujęzycznym, obok nazwy tego języka wpisuje się „poziom dwujęzyczny”.
+§ 38. 1. Na certyfikacie kwalifikacji zawodowej wydawanym po zdaniu egzaminu zawodowego wpisuje się:
+1) symbol i nazwę kwalifikacji wyodrębnionej w zawodzie zgodnie z klasyfikacją zawodów szkolnictwa branżowego;
+2) nazwę i symbol cyfrowy zawodu lub zawodów, w których została wyodrębniona kwalifikacja zgodnie z klasyfikacją zawodów szkolnictwa branżowego;
+3) wynik egzaminu zawodowego.
+2. Na certyfikacie kwalifikacji zawodowej wydawanym po zdaniu egzaminu zawodowego, w przypadku, o którym mowa w art. 45 ust. 11b ustawy Prawo oświatowe, w części przeznaczonej na wpisanie:
+1) symbolu i nazwy kwalifikacji, wpisuje się:
+a) nazwę kwalifikacji wyodrębnionej w zawodzie w przypadku gdy kwalifikacja nie jest określona w klasyfikacji zawodów szkolnictwa branżowego,
+b) symbol i nazwę kwalifikacji wyodrębnionej w zawodzie zgodnie z klasyfikacją zawodów szkolnictwa branżowego w przypadku gdy kwalifikacja jest określona w klasyfikacji zawodów szkolnictwa branżowego;
+2) nazwy i symbolu cyfrowego zawodu, wpisuje się:
+a) nazwę zawodu, w którym została wyodrębniona kwalifikacja w przypadku gdy zawód nie jest określony w klasyfikacji zawodów szkolnictwa branżowego,
+b) nazwę i symbol cyfrowy zawodu lub zawodów, w których została wyodrębniona kwalifikacja zgodnie z klasyfikacją zawodów szkolnictwa branżowego w przypadku gdy zawód jest określony w klasyfikacji zawodów szkolnictwa branżowego.
+3. Na certyfikacie kwalifikacji zawodowej, w przypadku, o którym mowa w ust. 2 pkt 1 lit. a, po nazwie kwalifikacji wpisuje się informację „(Kwalifikacja wyodrębniona w zawodzie nieokreślonym w klasyfikacji zawodów szkolnictwa branżowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
+§ 39. 1. Na dyplomie zawodowym wydawanym osobie, o której mowa w § 13 ust. 1 i 2, pod miejscem przeznaczonym na wpisanie nazwy i symbolu cyfrowego zawodu wpisuje się informację „Końcowy wynik egzaminów zawodowych: … % punktów możliwych do uzyskania.”.
+2. Na dyplomie zawodowym wydawanym po zdaniu egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie w przypadku, o którym mowa w art. 45 ust. 11b ustawy Prawo oświatowe, w miejscu przeznaczonym na wpisanie nazwy i symbolu cyfrowego zawodu wpisuje się nazwę zawodu i informację „(Zawód nieokreślony w klasyfikacji zawodów szkolnictwa branżowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
+§ 40. Przepisy § 13 ust. 1, 4–6 i 8 oraz § 39 ust. 1 stosuje się również odpowiednio do słuchacza lub absolwenta szkoły realizującej kształcenie w zawodzie nieumieszczonym w klasyfikacji zawodów szkolnictwa branżowego na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania, o której mowa w art. 45 ust. 8 ustawy Prawo oświatowe.
+§ 41. 1. Na suplemencie do dyplomu zawodowego, w części „Oficjalnie uznane sposoby uzyskania dyplomu”, wpisuje się informacje o możliwych sposobach nabywania kwalifikacji w zawodzie, udział kształcenia teoretycznego i kształcenia praktycznego dla danego zawodu określony w procentach, informację o czasie trwania kształcenia prowadzącego do uzyskania dyplomu zawodowego oraz adres strony internetowej instytucji wyznaczonej przez ministra właściwego do spraw oświaty i wychowania do pełnienia funkcji Krajowego Centrum Europass.
+2. W przypadku dyplomu, o którym mowa w § 39 ust. 2, na suplemencie do dyplomu zawodowego, w miejscu przeznaczonym na wpisanie nazwy dyplomu, po nazwie zawodu, wpisuje się informację „(Zawód nieokreślony w klasyfikacji zawodów szkolnictwa branżowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
+§ 42. 1. Na dyplomie potwierdzającym kwalifikacje zawodowe wpisuje się:
+1) nazwę zawodu, w którym zostały potwierdzone kwalifikacje;
+2) nazwę kwalifikacji, zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego, a w przypadku zawodów, w których zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego wyodrębniono więcej niż jedną kwalifikację nazwy wszystkich kwalifikacji wyodrębnionych w tym zawodzie;
+3) wyniki egzaminu lub egzaminów potwierdzających kwalifikacje w zawodzie, oddzielnie w części pisemnej i części praktycznej w przypadku dyplomu wydawanego osobie, o której mowa w § 15 ust. 1 i 2.
+2. Na dyplomie potwierdzającym kwalifikacje zawodowe wydawanym osobie, o której mowa w § 15 ust. 3, wpisuje się:
+1) nazwę zawodu, w którym zostały potwierdzone kwalifikacje;
+2) nazwę lub nazwy kwalifikacji zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego, potwierdzonych świadectwem lub świadectwami, o których mowa w § 15 ust. 3 pkt 2 lub 3;
+3) wyniki egzaminu lub egzaminów potwierdzających kwalifikacje w zawodzie, oddzielnie w części pisemnej i w części praktycznej;
+4) adnotację o posiadaniu dyplomu lub świadectwa czeladniczego lub świadectwa uzyskania tytułu zawodowego, o których mowa odpowiednio w § 15 ust. 3.
+3. Na dyplomie potwierdzającym kwalifikacje zawodowe wydawanym po zdaniu egzaminów potwierdzających kwalifikacje w zawodzie ze wszystkich kwalifikacji wyodrębnionych w zawodzie nieumieszczonym w odpowiedniej klasyfikacji zawodów szkolnictwa zawodowego, w którym kształcenie jest realizowane na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania, o której mowa w art. 45 ust. 8 ustawy Prawo oświatowe, po nazwie zawodu wpisuje się informację „(Zawód nieokreślony w klasyfikacji zawodów szkolnictwa zawodowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
+§ 43. Przepisy § 15 ust. 1 i 4 oraz § 42 ust. 1 stosuje się również do absolwenta szkoły realizującej kształcenie w zawodzie nieumieszczonym w odpowiedniej klasyfikacji zawodów szkolnictwa zawodowego na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania, o której mowa w art. 45 ust. 8 ustawy Prawo oświatowe.
+§ 44. 1. Na suplemencie do dyplomu potwierdzającego kwalifikacje zawodowe wpisuje się opis oficjalnie uznanych sposobów uzyskania dyplomu.
+2. Na suplemencie do dyplomu potwierdzającego kwalifikacje zawodowe, wydanego po zdaniu egzaminu potwierdzającego kwalifikacje w zawodzie, w części „Oficjalnie uznane sposoby uzyskania dyplomu”, wpisuje się informacje o możliwych sposobach nabywania kwalifikacji w zawodzie, udział kształcenia teoretycznego i kształcenia praktycznego dla danego zawodu określony w procentach, informację o czasie trwania kształcenia prowadzącego do uzyskania dyplomu potwierdzającego kwalifikacje zawodowe oraz adres strony internetowej instytucji wyznaczonej przez ministra właściwego do spraw oświaty i wychowania do pełnienia funkcji Krajowego Centrum Europass.
+3. Na suplemencie do dyplomu potwierdzającego kwalifikacje zawodowe, w przypadku dyplomu, o którym mowa w § 42 ust. 3, w miejscu przeznaczonym na wpisanie nazwy dyplomu, po nazwie zawodu wpisuje się informację „(Zawód nieokreślony w klasyfikacji zawodów szkolnictwa zawodowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
+§ 45. 1. Na świadectwie potwierdzającym kwalifikację w zawodzie wpisuje się:
+1) nazwę kwalifikacji zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego;
+2) oznaczenie kwalifikacji zgodnie z odpowiednią podstawą programową kształcenia w zawodach;
+3) nazwę i symbol cyfrowy zawodu lub zawodów, w których została wyodrębniona dana kwalifikacja zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego;
+4) wyniki egzaminu potwierdzającego kwalifikacje w zawodzie, oddzielnie w części pisemnej i części praktycznej.
+2. Na świadectwie potwierdzającym kwalifikację w zawodzie, w przypadku gdy egzamin potwierdzający kwalifikacje w zawodzie zdała osoba kształcąca się w zawodzie nieumieszczonym w klasyfikacji zawodów szkolnictwa zawodowego, w którym kształcenie jest realizowane na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania, o której mowa w art. 45 ust. 8 ustawy Prawo oświatowe, wpisuje się:
+1) nazwę kwalifikacji wyodrębnionej w zawodzie w przypadku gdy kwalifikacja nie jest określona w klasyfikacji zawodów szkolnictwa zawodowego;
+2) oznaczenie i nazwę kwalifikacji wyodrębnionej w zawodzie w przypadku gdy kwalifikacja jest określona w odpowiedniej klasyfikacji zawodów szkolnictwa zawodowego;
+3) nazwę zawodu, w którym została wyodrębniona dana kwalifikacja w przypadku gdy zawód nie jest określony w klasyfikacji zawodów szkolnictwa zawodowego;
+4) nazwę i symbol cyfrowy zawodu lub zawodów, w których została wyodrębniona dana kwalifikacja zgodnie z odpowiednią klasyfikacją zawodów szkolnictwa zawodowego w przypadku gdy zawód jest określony w odpowiedniej klasyfikacji zawodów szkolnictwa zawodowego;
+5) wyniki uzyskane w części pisemnej i części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie.
+3. Na świadectwie potwierdzającym kwalifikację w zawodzie, w przypadku, o którym mowa w ust. 2 pkt 1, po nazwie kwalifikacji wpisuje się informację „(Kwalifikacja wyodrębniona w zawodzie nieokreślonym w klasyfikacji zawodów szkolnictwa zawodowego, w którym nauczanie było realizowane jako eksperyment pedagogiczny na podstawie zgody wyrażonej w decyzji ministra właściwego do spraw oświaty i wychowania)”.
+§ 46. 1. Na legitymacji szkolnej i legitymacji przedszkolnej mogą być kodowane usługi związane z działalnością statutową odpowiednio szkoły, szkoły polskiej, przedszkola lub innej formy wychowania przedszkolnego oraz z przejazdami środkami publicznego transportu zbiorowego.
+2. O rodzaju usług kodowanych na legitymacji szkolnej i legitymacji przedszkolnej decyduje odpowiednio dyrektor szkoły, szkoły polskiej, przedszkola lub osoba kierująca inną formą wychowania przedszkolnego za zgodą pełnoletnich uczniów albo rodziców niepełnoletnich uczniów, a w przypadku legitymacji przedszkolnej za zgodą rodziców dziecka.
+§ 47. 1. We wzorze legitymacji przedszkolnej, w miejscu „Nazwa i adres przedszkola/szkoły”, wpisuje się nazwę i adres:
+1) przedszkola, do którego uczęszcza dziecko;
+2) szkoły podstawowej, w której zorganizowano oddział przedszkolny, do którego uczęszcza dziecko;
+3) innej formy wychowania przedszkolnego, do której uczęszcza dziecko.
+2. We wzorze legitymacji przedszkolnej, w miejscu „Dyrektor przedszkola/szkoły”, wpisuje się imię (imiona) i nazwisko:
+1) dyrektora przedszkola, do którego uczęszcza dziecko;
+2) dyrektora szkoły podstawowej, w której zorganizowano oddział przedszkolny, do którego uczęszcza dziecko;
+3) osoby kierującej inną formą wychowania przedszkolnego w przypadku gdy inna forma wychowania przedszkolnego jest prowadzona przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną.
+§ 48. We wzorze legitymacji szkolnej, w miejscu „Dyrektor szkoły”, wpisuje się imię (imiona) i nazwisko dyrektora szkoły albo dyrektora szkoły polskiej.
+§ 49. Świadectwo szkolne promocyjne i świadectwo ukończenia szkoły może być wypełnione w postaci elektronicznej oraz wydrukowane z pominięciem zawartych we wzorach tych świadectw odpowiednio:
+1) linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, roku szkolnego, klasy, nazwy, numeru i imienia szkoły, nazwy szkoły/szkoły polskiej, nazwy miejscowości, w której znajduje się szkoła albo szkoła polska, nazwy województwa, w którym znajduje się szkoła, okresu nauczania, przedmiotów ujętych w podstawie programowej kształcenia ogólnego w zakresie rozszerzonym, nazwy miejscowości i daty wydania świadectwa, numeru świadectwa, ocen zachowania i z religii/etyki, nazw obowiązkowych i dodatkowych zajęć edukacyjnych oraz ocen z tych zajęć, informacji dotyczącej przedmiotów uzupełniających, innych zajęć, indywidualnego programu lub toku nauki oraz szczególnych osiągnięć ucznia w miejscu linii przerywanych wpisuje się odpowiednie dane;
+2) linii przerywanych oznaczających miejsca przeznaczone na pieczątkę i podpis dyrektora oraz podpis wychowawcy klasy;
+3) linii przerywanych w wyrazach „uczęszczał...”, „Uczęszczał...”, „ukończył...”, „Realizował...”, „realizował...”, „zrealizował...” i „otrzymał...” w przypadku uczennicy albo absolwentki w miejscu linii przerywanych wpisuje się „a”;
+4) linii przerywanej w wyrazie „promocj...” w miejscu linii przerywanej wpisuje się odpowiednią literę;
+5) linii przerywanej przed wyrazem „otrzymał...”, oznaczającej miejsce przeznaczone na wpisanie informacji o nieuzyskaniu promocji do klasy programowo wyższej w przypadku uzyskania promocji do klasy programowo wyższej nie drukuje się linii przerywanej;
+6) oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej szkoły albo szkoły polskiej.
+§ 50. 1. Dokumenty, o których mowa w § 4 ust. 4, są wypełniane w postaci elektronicznej i drukowane.
+2. Dokumenty, o których mowa w § 4 ust. 4, z wyjątkiem suplementu do dyplomu zawodowego i suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, mogą być drukowane wraz z wizerunkiem pieczęci urzędowej okręgowej § 51. Świadectwo ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych i zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia wypełnia się i drukuje z pominięciem zawartych we wzorach tych świadectw albo wzorach tych zaświadczeń:
+1) linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy miejscowości, w której znajduje się siedziba okręgowej komisji egzaminacyjnej, nazwy języka obcego, ocen uzyskanych z egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych, nazwy miejscowości i daty wydania świadectwa albo zaświadczenia, numeru świadectwa albo zaświadczenia oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej w miejscu linii przerywanych wpisuje się odpowiednie dane;
+2) wyrazów „imię (imiona) i nazwisko”, „miejscowość” oraz „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
+3) linii przerywanych w wyrazach „ukończył...”, „uzyskał...” i „zdał...” w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
+4) oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
+§ 52. Zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty wypełnia się i drukuje z pominięciem zawartych we wzorze tego zaświadczenia:
+1) linii przerywanych oznaczających miejsca przeznaczone na wpisanie: numeru zaświadczenia, imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, wyników z przedmiotów, z których jest przeprowadzany egzamin ósmoklasisty, nazwy miejscowości i daty oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej w miejscu linii przerywanych wpisuje się odpowiednie dane;
+2) wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
+3) linii przerywanych w wyrazach „przystąpił...” i „uzyskał...” w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
+4) oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
+§ 53. 1. Świadectwo dojrzałości wypełnia się i drukuje z pominięciem zawartych we wzorze tego świadectwa:
+1) linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy języka obcego, nazwy miejscowości i daty, numeru świadectwa dojrzałości oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej w miejscu linii przerywanych wpisuje się odpowiednie dane;
+2) wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
+3) linii przerywanych w wyrazach „zdał...” i „uzyskał...” w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
+4) oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
+2. Zaświadczenie o wynikach egzaminu maturalnego wypełnia się i drukuje z pominięciem zawartych we wzorze tego zaświadczenia:
+1) linii przerywanych oznaczających miejsce przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, numeru świadectwa dojrzałości, nazwy szkoły lub kuratora oświaty, nazwy miejscowości i daty, numeru zaświadczenia oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej w miejscu linii przerywanych wpisuje się odpowiednie dane;
+2) wyrazów „imię (imiona) i nazwisko”, „nazwa szkoły lub kuratora oświaty”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
+3) linii przerywanych w wyrazach „legitymując...”, „przystąpił...” oraz „uzyskał...” w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
+4) oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
+3. Aneks do świadectwa dojrzałości wypełnia się i drukuje z pominięciem zawartych we wzorze tego aneksu:
+1) linii przerywanych oznaczających miejsca przeznaczone na wpisanie: numeru świadectwa dojrzałości, imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy miejscowości i daty, numeru aneksu oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej w miejscu linii przerywanych wpisuje się odpowiednie dane;
+2) wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
+3) linii przerywanych w wyrazach „przystąpił...” i „uzyskał...” w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
+4) oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
+§ 54. Certyfikat kwalifikacji zawodowej wypełnia się i drukuje z pominięciem zawartych we wzorze tego certyfikatu:
+1) linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, symbolu i nazwy kwalifikacji, nazwy i symbolu cyfrowego zawodu lub zawodów, w których została wyodrębniona kwalifikacja, wyniku egzaminu zawodowego, nazwy miejscowości i daty, numeru certyfikatu oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej w miejscu linii przerywanych wpisuje się odpowiednie dane;
+2) wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
+3) linii przerywanych w wyrazach „zdał...” i „uzyskał...” w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
+4) linii przerywanej w wyrazie „zawod...” w przypadku kwalifikacji wyodrębnionej w jednym zawodzie w miejscu linii przerywanej wpisuje się „zie”, a w przypadku kwalifikacji wyodrębnionej w więcej niż jednym zawodzie wpisuje się „ach”;
+5) oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
+§ 55. 1. Dyplom zawodowy wypełnia się i drukuje z pominięciem zawartych we wzorze tego dyplomu:
+1) linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy i symbolu cyfrowego zawodu, nazwy miejscowości i daty wydania dyplomu, numeru dyplomu oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej w miejscu linii przerywanych wpisuje się odpowiednie dane;
+2) wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
+3) oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
+2. Dyplom potwierdzający kwalifikacje zawodowe wypełnia się i drukuje z pominięciem zawartych we wzorze tego dyplomu:
+1) linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy zawodu, nazwy kwalifikacji, wyniku uzyskanego w części pisemnej i części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie, nazwy miejscowości i daty, numeru dyplomu oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej w miejscu linii przerywanych wpisuje się odpowiednie dane;
+2) wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
+3) linii przerywanych w wyrazach „otrzymał...” i „uzyskał...” w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
+4) linii przerywanej w wyrazie „świadectw...” w przypadku uzyskania świadectwa potwierdzającego kwalifikację w zawodzie wpisuje się „o”, a w przypadku uzyskania więcej niż jednego świadectwa potwierdzającego kwalifikację
+5) linii przerywanej w wyrazie „kwalifikacj...” w przypadku uzyskania świadectwa potwierdzającego kwalifikację w zawodzie wpisuje się „ę”, a w przypadku uzyskania więcej niż jednego świadectwa potwierdzającego kwalifikację w zawodzie wpisuje się „e”;
+6) oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
+§ 56. 1. Suplement do dyplomu zawodowego wypełnia się i drukuje z pominięciem zawartych we wzorze tego suplementu linii przerywanych oznaczających miejsca przeznaczone na wpisanie numeru dyplomu zawodowego oraz imienia (imion) i nazwiska posiadacza tego dyplomu.
+2. Suplement do dyplomu potwierdzającego kwalifikacje zawodowe wypełnia się i drukuje z pominięciem zawartych we wzorze tego suplementu linii przerywanych oznaczających miejsca przeznaczone na wpisanie numeru dyplomu potwierdzającego kwalifikacje zawodowe oraz imienia (imion) i nazwiska posiadacza tego dyplomu.
+§ 57. Świadectwo potwierdzające kwalifikację w zawodzie wypełnia się i drukuje z pominięciem zawartych we wzorze tego świadectwa:
+1) linii przerywanych oznaczających miejsca przeznaczone na wpisanie: imienia (imion) i nazwiska, daty urodzenia, numeru PESEL, nazwy i oznaczenia kwalifikacji, nazwy i symbolu cyfrowego zawodu lub zawodów, w których została wyodrębniona kwalifikacja, wyniku uzyskanego w części pisemnej i części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie, nazwy miejscowości i daty, numeru świadectwa oraz linii przerywanej oznaczającej miejsce, w którym drukuje się wizerunek pieczątki i podpisu dyrektora okręgowej komisji egzaminacyjnej w miejscu linii przerywanych wpisuje się odpowiednie dane;
+2) wyrazów „imię (imiona) i nazwisko”, „miejscowość” i „pieczątka i podpis dyrektora okręgowej komisji egzaminacyjnej”;
+3) linii przerywanych w wyrazach „zdał...” i „uzyskał...” w przypadku zdającej w miejscu linii przerywanych wpisuje się „a”;
+4) linii przerywanej w wyrazie „zawod...” w przypadku kwalifikacji wyodrębnionej w jednym zawodzie w miejscu linii przerywanej wpisuje się „zie”, a w przypadku kwalifikacji wyodrębnionej w więcej niż jednym zawodzie wpisuje się „ach”;
+5) oznaczenia miejsca opatrzenia odciskiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
+§ 58. Na dokumentach, o których mowa w § 4 ust. 4, z wyjątkiem suplementu do dyplomu zawodowego i suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, okręgowa komisja egzaminacyjna drukuje numer, wykonany materiałami drukarskimi koloru czarnego, na który składa się:
+1) jedno lub dwuliterowy symbol oznaczający odpowiednio:
+a) „SP” świadectwo ukończenia szkoły podstawowej po zdaniu egzaminów eksternistycznych,
+b) „LO” świadectwo ukończenia liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych,
+c) „O” zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty,
+d) „M” świadectwo dojrzałości,
+e) „AM” aneks do świadectwa dojrzałości,
+f) „ZM” zaświadczenie o wynikach egzaminu maturalnego,
+g) „C” certyfikat kwalifikacji zawodowej,
+h) „DZ” dyplom zawodowy,
+i) „D” dyplom potwierdzający kwalifikacje zawodowe,
+j) „K” świadectwo potwierdzające kwalifikację w zawodzie,
+k) „BP” zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia,
+l) „BD” zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia,
+2) ośmiocyfrowy numer, w którym pierwsza cyfra oznacza numer okręgowej komisji egzaminacyjnej,
+3) dwucyfrowe oznaczenie roku które są oddzielone od siebie znakiem „/”.
+§ 59. 1. Szkoła, szkoła polska, a także szkoła i zespół szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe, z własnej inicjatywy albo na wniosek ucznia, absolwenta, rodziców niepełnoletniego ucznia albo rodziców niepełnoletniego absolwenta, dokonuje sprostowania błędu i oczywistej omyłki w treści odpowiednio świadectwa szkolnego promocyjnego albo w indeksie. Jeżeli szkoła albo szkoła polska została zlikwidowana lub przekształcona, sprostowania dokonuje organ, o którym mowa w art. 89 ust. 6 i 7 lub art. 172 ust. 5 ustawy Prawo oświatowe, a w przypadku szkoły polskiej albo szkoły i zespołu szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe minister właściwy do spraw oświaty i wychowania lub podległa mu jednostka organizacyjna, o której mowa w przepisach wydanych na podstawie art. 60 ust. 6 ustawy Prawo oświatowe.
+2. Sprostowania dokonuje się przez skreślenie kolorem czerwonym nieprawidłowego zapisu i czytelne wpisanie kolorem czerwonym nad skreślonymi wyrazami właściwych danych. Na końcu świadectwa szkolnego promocyjnego lub indeksu wpisuje się adnotację „Dokonano sprostowania” i datę oraz opatruje czytelnym podpisem odpowiednio dyrektora szkoły, szkoły polskiej, szkoły i zespołu szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe, albo osoby przez niego upoważnionej albo organu, o którym mowa w ust. 1, i odciskiem pieczęci urzędowej odpowiednio tej szkoły albo organu.
+3. Informację o dokonaniu sprostowania wpisuje się w arkuszu ocen.
+4. Nie dokonuje się sprostowania w treści świadectwa ukończenia szkoły i dokumentu, o którym mowa w § 4 ust. 4, a także duplikatów tego świadectwa i dokumentu.
+5. Świadectwo ukończenia szkoły i dokument, o którym mowa w § 4 ust. 4, zawierające błędy lub omyłki podlegają wymianie za zwrotem dokumentu zawierającego błąd lub omyłkę.
+§ 60. 1. Nie dokonuje się zmiany imienia (imion) lub nazwiska na świadectwie szkolnym promocyjnym, świadectwie ukończenia szkoły, dokumencie, o którym mowa w § 4 ust. 4, zaświadczeniu o zawodzie, zaświadczeniu o przebiegu nauczania i w dokumentacji przebiegu nauczania prowadzonej przez szkołę i szkołę polską, jeżeli zmiana ta nastąpiła po:
+1) ukończeniu szkoły albo szkoły polskiej,
+2) zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia,
+3) zdaniu egzaminu zawodowego albo egzaminu potwierdzającego kwalifikacje w zawodzie,
+4) otrzymaniu dyplomu zawodowego albo dyplomu potwierdzającego kwalifikacje zawodowe,
+5) wydaniu zaświadczenia o zawodzie lub zaświadczenia o przebiegu nauczania chyba że zmiana imienia (imion) lub nazwiska nastąpiła na podstawie decyzji administracyjnej albo orzeczenia sądowego.
+2. W przypadku gdy zmiana imienia (imion) lub nazwiska nastąpiła na podstawie decyzji administracyjnej albo orzeczenia sądowego świadectwo szkolne promocyjne, świadectwo ukończenia szkoły, dokument, o którym mowa w § 4 ust. 4, zaświadczenie o zawodzie lub zaświadczenie o przebiegu nauczania wydaje się na nowe imię (imiona) lub nazwisko, a jeżeli ich wydanie nie jest możliwe duplikat świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły, dokumentu, o którym mowa w § 4 ust. 4, z wyjątkiem suplementu do dyplomu zawodowego i suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, po przedstawieniu decyzji administracyjnej albo orzeczenia sądowego i za zwrotem dokumentu, wydanego na poprzednie imię (imiona) lub nazwisko.
+3. W przypadku gdy zmiana imienia (imion) lub nazwiska nastąpiła przed dniem ukończenia szkoły albo szkoły polskiej zakłada się arkusz ocen na nowe imię (imiona) lub nazwisko, w którym wpisuje się dotychczasowe informacje, z wyjątkiem dotychczasowego imienia (imion) lub nazwiska. Dotychczasowy arkusz ocen zawierający poprzednie dane osobowe podlega zniszczeniu. W pozostałej dokumentacji przebiegu nauczania prowadzonej przez szkołę albo szkołę polską przekreśla się kolorem czerwonym dotychczasowe imię (imiona) lub nazwisko i nad nim wpisuje się kolorem czerwonym nowe imię (imiona) lub nazwisko. Na dole strony wpisuje się adnotację „Dokonano zmiany imienia (imion)/nazwiska” i datę oraz opatruje czytelnym podpisem osoby upoważnionej do podpisywania dokumentacji przebiegu nauczania.
+4. W przypadku gdy zmiana imienia (imion) lub nazwiska nastąpiła przed dniem ukończenia szkoły albo szkoły polskiej albo przed dniem zakończenia korzystania przez dziecko z wychowania przedszkolnego, wydaje się legitymację szkolną albo legitymację przedszkolną na nowe imię (imiona) lub nazwisko.
+5. Nowe imię (imiona) lub nazwisko, w przypadkach, o których mowa w ust. 3 i 4, może być wpisane na podstawie odpisu aktu urodzenia, odpisu aktu małżeństwa, decyzji administracyjnej o zmianie imienia (imion) lub nazwiska albo orze§ 61. 1. W przypadku utraty oryginału świadectwa, certyfikatu, zaświadczenia, aneksu, dyplomu, odpisu świadectwa dojrzałości lub odpisu aneksu do świadectwa dojrzałości osoba, która otrzymała dokument, może wystąpić odpowiednio do szkoły, szkoły polskiej, okręgowej komisji egzaminacyjnej lub kuratora oświaty, którzy wydali ten dokument, z wnioskiem o wydanie duplikatu tego dokumentu.
+2. W przypadku utraty indeksu, suplementu do dyplomu zawodowego, suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, zaświadczenia o spełnianiu obowiązku rocznego przygotowania przedszkolnego, informacji o spełnianiu obowiązku rocznego przygotowania przedszkolnego, zaświadczenia o zawodzie, zaświadczenia o przebiegu nauczania lub zaświadczenia o braku możliwości wydania duplikatu, osoba, która otrzymała ten dokument, może wystąpić odpowiednio do szkoły, szkoły polskiej, okręgowej komisji egzaminacyjnej lub kuratora oświaty, którzy wydali ten dokument, z wnioskiem o wydanie nowego dokumentu. Przepisy ust. 10 i 11 stosuje się odpowiednio.
+3. Szkoła, szkoła polska, okręgowa komisja egzaminacyjna albo kurator oświaty sporządza duplikat dokumentu, o którym mowa w ust. 1, na podstawie dokumentacji stanowiącej podstawę wydania danego dokumentu.
+4. W przypadku gdy w załączniku nr 3 do rozporządzenia określono wzór dokumentu, który jest zgodny z wzorem obowiązującym w dniu wydania oryginału dokumentu, o którym mowa w ust. 1, duplikat wydaje się na druku według wzoru obowiązującego dla tego dokumentu określonego w załączniku nr 3 do rozporządzenia.
+5. Na pierwszej stronie duplikatu, u góry, umieszcza się wyraz „Duplikat”, a na końcu dokumentu dodaje wyrazy „oryginał podpisali” i wymienia nazwiska osób, które podpisały oryginał dokumentu, dla którego jest wydawany duplikat, lub stwierdza nieczytelność podpisów oraz wpisuje się datę wydania duplikatu i opatruje odciskiem pieczęci urzędowej odpowiednio szkoły, szkoły polskiej, okręgowej komisji egzaminacyjnej albo kuratora oświaty. Na duplikacie nie umieszcza się fotografii.
+6. W przypadku gdy szkoła, szkoła polska, okręgowa komisja egzaminacyjna lub kurator oświaty posiada dokumentację, która stanowiła podstawę wydania danego dokumentu, dla którego ma być wydany duplikat, a w załączniku nr 3 do rozporządzenia nie określono wzoru dokumentu, który byłby zgodny z wzorem obowiązującym w dniu wydania oryginału tego dokumentu, duplikat wydaje się na poddruku duplikatu według wzoru odpowiednio nr 83–89 określonego w załączniku nr 3 do rozporządzenia, przygotowanym przez szkołę, szkołę polską, okręgową komisję egzaminacyjną lub kuratora oświaty, na którym umieszcza się informacje zgodne z treścią oryginału danego dokumentu i wzorem obowiązującym w dniu wydania oryginału danego dokumentu, z tym że duplikat:
+1) świadectwa dojrzałości, aneksu do świadectwa dojrzałości i zaświadczenia o wynikach egzaminu maturalnego wydanego przez okręgową komisję egzaminacyjną wydaje się na poddruku duplikatu według wzoru nr 84 określonego w załączniku nr 3 do rozporządzenia;
+2) świadectwa potwierdzającego kwalifikację w zawodzie i dyplomu potwierdzającego kwalifikacje zawodowe wydaje się na poddruku duplikatu według wzoru nr 85 określonego w załączniku nr 3 do rozporządzenia.
+7. Duplikat dokumentu wydawany przez okręgową komisję egzaminacyjną, z wyjątkiem suplementu do dyplomu zawodowego i suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, jest wypełniany w postaci elektronicznej i drukowany wraz z wizerunkiem pieczęci urzędowej okręgowej komisji egzaminacyjnej.
+8. Na dokumencie na podstawie którego wydano duplikat, przechowywanego w okręgowej komisji egzaminacyjnej, wpisuje się adnotację o wydaniu duplikatu oraz imię (imiona) i nazwisko osoby odbierającej duplikat, stwierdzone na podstawie dowodu osobistego lub innego dokumentu potwierdzającego tożsamość. W przypadku przesłania duplikatu za pośrednictwem operatora pocztowego doręczenie następuje przesyłką poleconą za zwrotnym potwierdzeniem odbioru, które dołącza się do dokumentu lub dokumentów, na podstawie których wydano duplikat.
+9. Duplikat ma moc oryginału i może być wydany ponownie.
+10. W przypadku likwidacji lub przekształcenia szkoły albo szkoły polskiej duplikat świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły i świadectwa dojrzałości, wydawanego po zdaniu egzaminu dojrzałości, wydaje organ, o którym mowa w art. 89 ust. 6 i 7 lub art. 172 ust. 5 ustawy Prawo oświatowe, a w przypadku szkoły i zespołu szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe minister właściwy do spraw oświaty i wychowania lub podległa mu jednostka organizacyjna, o której mowa w przepisach wydanych na podstawie art. 60 ust. 6 ustawy Prawo oświatowe.
+11. W przypadku likwidacji okręgowej komisji egzaminacyjnej duplikat wydaje okręgowa komisja egzaminacyjna wskazana przez ministra właściwego do spraw oświaty i wychowania.
+12. W przypadku gdy szkoła polska albo szkoła i zespół szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe, nie posiadają dokumentacji przebiegu nauczania duplikat danego dokumentu wydaje minister właściwy do spraw oświaty i wychowania lub podległa mu jednostka organizacyjna, o której mowa w przepisach wydanych na podstawie art. 60 ust. 6 ustawy Prawo oświatowe.
+13. W przypadku braku dokumentacji stanowiącej podstawę wydania duplikatu danego dokumentu, szkoła, okręgowa komisja egzaminacyjna, kurator oświaty albo organ właściwy do wydania duplikatu zgodnie z przepisami ust. 10 i 12, wydaje zaświadczenie o braku możliwości wydania duplikatu.
+14. Przy sporządzaniu duplikatów legitymacji szkolnych i legitymacji przedszkolnych stosuje się odpowiednio przepisy ust. 1, 3–5 i 9.
+15. Duplikat legitymacji szkolnej wydaje się z fotografią.
+16. Duplikat legitymacji przedszkolnej wydaje przedszkole, szkoła podstawowa, w której zorganizowano oddział przedszkolny, lub inna forma wychowania przedszkolnego, na pisemny wniosek rodziców dziecka.
+§ 62. 1. Dyrektor szkoły albo szkoły polskiej poświadcza zgodność kopii z oryginałem świadectwa ukończenia szkoły, zaświadczenia o zawodzie, zaświadczenia o przebiegu nauczania lub arkusza ocen, w przypadku gdy jest to niezbędne do złożenia kopii w aktach tej szkoły albo szkoły polskiej.
+2. Dyrektor szkoły poświadcza zgodność kopii z oryginałem świadectwa ukończenia szkoły w przypadku, o którym mowa w art. 33 ust. 1 pkt 3 lit. b ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2022 r.
+poz. 2082, 2089 i 2666 oraz z 2023 r. poz. 709 i 825).
+3. Dyrektor szkoły podstawowej poświadcza zgodność od jednej do trzech kopii z oryginałem świadectwa ukończenia szkoły podstawowej i zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty również, gdy jest to niezbędne dla celów postępowania rekrutacyjnego, o którym mowa w rozdziale 6 ustawy Prawo oświatowe.
+4. W przypadku przejścia ucznia do innej szkoły po co najmniej jednym roku nauki, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych, po co najmniej jednym semestrze nauki, przesyła się do tej szkoły albo wydaje pełnoletniemu uczniowi albo rodzicom niepełnoletniego ucznia kopię arkusza ocen tego ucznia poświadczoną za zgodność z oryginałem przez dyrektora szkoły. Pełnoletni uczeń albo rodzice niepełnoletniego ucznia potwierdzają otrzymanie kopii arkusza ocen podpisem.
+5. W przypadku przejścia ucznia do innej szkoły po okresie nauki krótszym niż okres, o którym mowa w ust. 4, przesyła się do tej szkoły albo wydaje pełnoletniemu uczniowi albo rodzicom niepełnoletniego ucznia zaświadczenie o przebiegu nauczania tego ucznia. Pełnoletni uczeń albo rodzice niepełnoletniego ucznia potwierdzają otrzymanie zaświadczenia podpisem.
+6. Poświadczając zgodność kopii z oryginałem na każdej stronie kopii wpisuje się adnotację „Stwierdzam zgodność z oryginałem” i datę oraz opatruje odciskiem pieczęci urzędowej szkoły albo szkoły polskiej, pieczątką i podpisem dyrektora szkoły albo szkoły polskiej albo pieczątką i podpisem upoważnionej przez nich osoby.
+§ 63. 1. Ważność legitymacji szkolnej w szkole dla dzieci i młodzieży oraz w szkole polskiej potwierdza się w kolejnym roku szkolnym przez umieszczenie na legitymacji szkolnej hologramu.
+2. Ważność legitymacji szkolnej w branżowej szkole II stopnia, szkole policealnej i szkole dla dorosłych potwierdza się w kolejnym semestrze przez umieszczenie na legitymacji szkolnej hologramu.
+3. Ważność legitymacji przedszkolnej potwierdza się w kolejnym roku szkolnym przez umieszczenie na legitymacji przedszkolnej hologramu.
+4. W legitymacji szkolnej i legitymacji przedszkolnej nie dokonuje się skreśleń i poprawek. Legitymacja szkolna i legitymacja przedszkolna zawierająca błąd lub omyłkę podlega wymianie.
+5. Dziecku albo uczniowi, którzy w trakcie ważności posiadanej legitymacji przedszkolnej albo legitymacji szkolnej uzyskali orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność wydaje się odpowiednio nową legitymację przedszkolną albo nową legitymację szkolną.
+§ 64. 1. mLegitymacja szkolna jest ważna w okresie ważności legitymacji szkolnej.
+2. W przypadku utraty mLegitymacji szkolnej na skutek uszkodzeń, niepoprawnego działania lub utraty urządzenia mobilnego, w którym była przechowywana mLegitymacja szkolna, szkoła umożliwia ponowne wydanie mLegitymacji szkolnej.
+§ 65. W przypadkach, o których mowa w § 20 ust. 3, § 59 ust. 5 i § 60 ust. 2 i 4, zwrócone dokumenty, a także kopie świadectw ukończenia szkoły, o których mowa w § 62 ust. 2, nieprzekazane organowi prowadzącemu szkołę albo szkołę polską, podlegają niezwłocznemu zniszczeniu.
+§ 66. 1. Uwierzytelnienia przeznaczonego do obrotu prawnego z zagranicą:
+1) świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły, indeksu lub innego dokumentu wydanego przez szkołę, placówkę kształcenia ustawicznego albo centrum kształcenia zawodowego dokonuje kurator oświaty właściwy ze względu na siedzibę szkoły;
+2) świadectwa ukończenia szkoły podstawowej lub liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych, zaświadczenia o szczegółowych wynikach egzaminu ósmoklasisty, świadectwa dojrzałości i jego odpisu, aneksu do świadectwa dojrzałości i jego odpisu, zaświadczenia o wynikach egzaminu maturalnego, certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe, świadectwa potwierdzającego kwalifikację w zawodzie i zaświadczenia o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego odpowiednio dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia, lub innego dokumentu wydanego przez okręgową komisję egzaminacyjną dokonuje dyrektor okręgowej komisji egzaminacyjnej, która wydała dany dokument;
+3) świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły lub innego dokumentu wydanego przez szkołę polską albo szkołę i zespół szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe dokonuje minister właściwy do spraw oświaty i wychowania.
+2. Uwierzytelnienie polega na poświadczeniu autentyczności podpisu i charakteru, w jakim działała osoba podpisująca dokument, o którym mowa w ust. 1, lub dokonująca uwierzytelnienia tego dokumentu oraz tożsamości odcisku pieczęci, którymi jest opatrzony ten dokument.
+3. W klauzuli uwierzytelniającej zamieszcza się:
+1) odcisk pieczątki i podpis osoby upoważnionej do uwierzytelnienia dokumentu, o którym mowa w ust. 1;
+2) odcisk pieczęci urzędowej organu, o którym mowa w ust. 1;
+3) nazwę miejscowości, w której znajduje się siedziba organu, o którym mowa w ust. 1;
+4) datę dokonania uwierzytelnienia.
+4. W przypadku gdy dokument, o którym mowa w ust. 1 pkt 1, jest przeznaczony do obrotu prawnego w państwie będącym stroną Konwencji znoszącej wymóg legalizacji zagranicznych dokumentów urzędowych, sporządzonej w Hadze dnia 5 października 1961 r. (Dz. U. z 2005 r. poz. 938), do dokumentu dołącza się albo umieszcza się na nim apostille wydaną przez kuratora oświaty właściwego ze względu na siedzibę szkoły.
+5. W przypadku gdy dokument, o którym mowa w ust. 1 pkt 2, jest przeznaczony do obrotu prawnego w państwie będącym stroną Konwencji, o której mowa w ust. 4, do dokumentu dołącza się albo umieszcza się na nim apostille wydaną przez dyrektora tej okręgowej komisji egzaminacyjnej, która wydała ten dokument.
+6. W przypadku gdy dokument, o którym mowa w ust. 1 pkt 3, jest przeznaczony do obrotu prawnego w państwie będącym stroną Konwencji, o której mowa w ust. 4, do dokumentu dołącza się albo umieszcza się na nim apostille wydaną przez ministra właściwego do spraw oświaty i wychowania.
+7. Przedłożone do wydania apostille lub do uwierzytelnienia wielostronicowe dokumenty zszywa się i miejsca zszycia opatruje odciskiem pieczęci urzędowej organu, o którym mowa w ust. 1 lub ust. 4–6, w sposób uniemożliwiający wymianę kart tego dokumentu.
+§ 67. 1. Za wydanie duplikatu dokumentu i za uwierzytelnienie dokumentu przeznaczonego do obrotu prawnego z zagranicą pobiera się opłatę w wysokości równej kwocie opłaty skarbowej od legalizacji dokumentu, a za wydanie duplikatu legitymacji szkolnej lub legitymacji przedszkolnej kwocie opłaty skarbowej od poświadczenia własnoręczności podpisu.
+2. Opłatę, o której mowa w ust. 1, wnosi się na rachunek bankowy wskazany odpowiednio przez dyrektora szkoły, szkoły polskiej, przedszkola, osoby kierującej inną formą wychowania przedszkolnego, okręgowej komisji egzaminacyjnej, ku§ 68. 1. Równoważność świadectwa ukończenia szkoły lub dyplomu ukończenia szkoły, wydanego przed dniem wejścia w życie ustawy, które nie określają poziomu wykształcenia absolwenta, ze świadectwem lub dyplomem ukończenia odpowiedniego typu szkoły, po stwierdzeniu porównywalności programu nauczania ukończonej szkoły z podstawą programową jednego z typów szkół, potwierdza kurator oświaty właściwy ze względu na miejsce zamieszkania osoby zainteresowanej, na jej pisemny wniosek i po przedstawieniu oryginału świadectwa lub dyplomu.
+2. Potwierdzeniem równoważności świadectwa lub dyplomu ze świadectwem lub dyplomem ukończenia odpowiedniego typu szkoły jest zaświadczenie określające nazwę ukończonej szkoły, datę i miejsce wydania świadectwa lub dyplomu, imię (imiona) i nazwisko oraz datę urodzenia osoby, dla której świadectwo lub dyplom wydano, oraz stwierdzające równoważność ze świadectwem lub dyplomem ukończenia szkoły odpowiedniego typu. Zaświadczenie opatruje się odciskiem pieczęci urzędowej kuratorium oświaty, datą wydania i oznacza numerem sprawy.
+3. Za potwierdzenie równoważności, o której mowa w ust. 1, nie pobiera się opłaty.
+§ 69. W roku szkolnym 2022/2023 do dotychczasowego czteroletniego technikum stosuje się przepisy dotychczasowe.
+§ 70. Na świadectwo ukończenia liceum ogólnokształcącego dla dorosłych wydawane absolwentowi branżowej szkoły I stopnia lub absolwentowi zasadniczej szkoły zawodowej, który został przyjęty do klasy drugiej liceum ogólnokształcącego dla dorosłych przed dniem 1 września 2023 r., ze świadectwa ukończenia odpowiednio branżowej szkoły I stopnia lub zasadniczej szkoły zawodowej, przepisuje się oceny z następujących obowiązkowych zajęć edukacyjnych:
+1) podstaw przedsiębiorczości w przypadku liceum ogólnokształcącego dla dorosłych w formie stacjonarnej i zaocznej;
+2) wiedzy o społeczeństwie i informatyki w przypadku liceum ogólnokształcącego dla dorosłych w formie zaocznej.
+§ 71. 1. Wniosek o wydanie:
+1) dyplomu zawodowego,
+2) suplementu do dyplomu zawodowego,
+3) dyplomu potwierdzającego kwalifikacje zawodowe,
+4) suplementu do dyplomu potwierdzającego kwalifikacje zawodowe,
+5) duplikatu odpowiedniego dokumentu,
+6) zaświadczenia o spełnianiu obowiązku rocznego przygotowania przedszkolnego,
+7) zaświadczenia o przebiegu nauczania,
+8) zaświadczenia o zawodzie złożony i nierozpatrzony przed dniem wejścia w życie rozporządzenia, rozpatruje się na podstawie przepisów niniejszego rozporządzenia.
+2. Wnioski o sprostowanie błędu lub oczywistej omyłki w treści świadectwa szkolnego promocyjnego albo w indeksie, złożone i nierozpatrzone przed dniem wejścia w życie rozporządzenia, rozpatruje się na podstawie przepisów niniejszego rozporządzenia.
+3. Wnioski o potwierdzenie równoważności świadectwa ukończenia szkoły lub dyplomu ukończenia szkoły, złożone i nierozpatrzone przed dniem wejścia w życie rozporządzenia, rozpatruje się na podstawie przepisów niniejszego rozporządzenia.
+§ 72. 1. Arkusze ocen założone przed dniem wejścia w życie rozporządzenia na podstawie przepisów dotychczasowych:
+1) uczniom szkół podstawowych,
+2) uczniom szkół polskich i szkół i zespołów szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe,
+3) uczniom szkół specjalnych przysposabiających do pracy,
+4) słuchaczom branżowych szkół II stopnia,
+5) słuchaczom szkół policealnych,
+6) słuchaczom szkół podstawowych i liceów ogólnokształcących dla dorosłych są prowadzone do czasu zakończenia przez tych uczniów albo słuchaczy kształcenia w tych szkołach.
+2. Arkusze ocen założone przed dniem 1 września 2022 r. na podstawie przepisów dotychczasowych:
+1) uczniom liceów ogólnokształcących,
+2) uczniom techników,
+3) uczniom branżowych szkół I stopnia są prowadzone do czasu zakończenia przez tych uczniów kształcenia w tych szkołach.
+3. W przypadku przejścia ucznia albo słuchacza, o których mowa w ust. 1 lub 2, w trakcie kształcenia w danej szkole do innej szkoły tego samego typu, arkusz ocen zakłada się na odpowiednim wzorze określonym w załączniku nr 3 do rozporządzenia.
+§ 73. 1. Indeksy wydane przed dniem wejścia w życie rozporządzenia na podstawie przepisów dotychczasowych zachowują ważność i są wypełnianie do czasu zakończenia kształcenia przez słuchacza w danej szkole.
+2. W przypadku przejścia słuchacza, o którym mowa w ust. 1, w trakcie kształcenia w danej szkole do innej szkoły tego samego typu, indeks zakłada się na odpowiednim wzorze określonym w załączniku nr 3 do rozporządzenia.
+§ 74. 1. Legitymacje szkolne i legitymacje przedszkolne w postaci papierowej i w postaci kart formatu ID-1 wydane przed dniem wejścia w życie rozporządzenia, zachowują ważność do czasu odpowiednio zakończenia przez ucznia kształcenia w danej szkole, szkole polskiej albo szkole i zespole szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe, albo zakończenia przez dziecko niepełnosprawne wychowania przedszkolnego.
+2. Legitymacje przedszkolne i legitymacje szkolne w postaci papierowej i w postaci kart formatu ID-1 mogą być wydawane odpowiednio uczniom i dzieciom niepełnosprawnym na podstawie i na drukach według wzorów określonych w przepisach dotychczasowych, do dnia 12 lipca 2024 r.
+3. Legitymacje szkolne i legitymacje przedszkolne wydane zgodnie z ust. 2 zachowują ważność do czasu odpowiednio zakończenia przez ucznia kształcenia w danej szkole, szkole polskiej albo szkole i zespole szkół w Polsce oraz przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy Prawo oświatowe, albo zakończenia przez dziecko niepełnosprawne wychowania przedszkolnego.
+4. Wydane na podstawie przepisów dotychczasowych mLegitymacje szkolne zachowują ważność w okresie ważności legitymacji szkolnych w postaci papierowej i w postaci kart formatu ID-1 wydanych przed dniem wejścia w życie rozporządzenia.
+5. Uczniom szkół, którym zgodnie z ust. 1 i 2, wydano legitymację szkolną w postaci papierowej lub w postaci karty formatu ID-1, może być także wydana, na podstawie przepisów dotychczasowych, mLegitymacja szkolna.
+§ 75. 1. Świadectwa szkolne promocyjne szkoły podstawowej i szkoły specjalnej przysposabiającej do pracy mogą być wydawane na blankietach i drukach wyprodukowanych na podstawie przepisów dotychczasowych i według wzorów określonych w przepisach dotychczasowych, do czasu wyczerpania zapasów tych blankietów i druków.
+2. Świadectwa szkolne promocyjne liceum ogólnokształcącego, technikum i branżowej szkoły I stopnia, mogą być wydawane na blankietach i drukach wyprodukowanych na podstawie przepisów dotychczasowych, do czasu wyczerpania zapasów tych blankietów i druków.
+3. Świadectwa szkolne promocyjne liceum ogólnokształcącego, technikum i branżowej szkoły I stopnia, w stosunku do uczniów, którzy rozpoczęli kształcenie w tych szkołach przed dniem 1 września 2022 r., mogą być wydawane według wzorów określonych w przepisach dotychczasowych.
+§ 76. Świadectwa ukończenia szkoły i duplikaty tych świadectw mogą być wydawane, do dnia 12 lipca 2024 r., na blankietach i drukach wyprodukowanych na podstawie przepisów dotychczasowych i według wzorów określonych w przepisach dotychczasowych, z tym że blankiety i druki tych świadectw i duplikatów nie muszą spełniać wymagań odnośnie do minimalnych zabezpieczeń określonych w ustawie z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2023 r.
+poz. 1006).
+§ 77. Suplementy do dyplomów zawodowych i suplementy do dyplomów potwierdzających kwalifikacje zawodowe mogą być wydawane, do dnia 31 maja 2024 r., według wzorów określonych w przepisach dotychczasowych.
+§ 78. Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 27 sierpnia 2019 r. w sprawie świadectw, dyplomów państwowych i innych druków (Dz. U. poz. 1700 i 1780, z 2021 r. poz. 1203 oraz z 2022 r. poz. 2049).
+§ 79. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Edukacji i Nauki: P. Czarnek INFORMACJE OGÓLNE DOTYCZĄCE WYDAWANIA ŚWIADECTW, CERTYFIKATÓW, ZAŚWIADCZEŃ, ANEKSÓW, DYPLOMÓW PAŃSTWOWYCH I INNYCH DRUKÓW ORAZ OPIS ZABEZPIECZEŃ PRZED FAŁSZERSTWEM DOKUMENTÓW PUBLICZNYCH I. Informacje ogólne dotyczące wydawania świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków.
+1. Świadectwo szkolne promocyjne i świadectwo ukończenia szkoły drukuje się na papierze zadrukowanym tłem giloszowym w następujących kolorach:
+1) niebieskim Pantone 636 U w przypadku świadectwa szkolnego promocyjnego i świadectwa ukończenia szkoły podstawowej;
+2) żółtym Pantone 123 U w przypadku świadectwa szkolnego promocyjnego i świadectwa ukończenia branżowej szkoły I stopnia oraz szkoły specjalnej przysposabiającej do pracy;
+3) jasnofioletowym Pantone 256 U w przypadku świadectwa ukończenia branżowej szkoły II stopnia;
+4) różowym Pantone 182 U w przypadku świadectwa szkolnego promocyjnego i świadectwa ukończenia liceum ogólnokształcącego i technikum;
+5) brązowym Pantone 722 U w przypadku świadectwa ukończenia szkoły policealnej.
+2. Duplikaty wydawane na poddrukach duplikatów według wzorów nr 86–89 określonych w załączniku nr 3 do rozporządzenia drukuje się na papierze zadrukowanym tłem giloszowym w kolorze szarym Pantone Cool Gray 3 C.
+3. Dokumenty, o których mowa w § 4 ust. 4 rozporządzenia, z wyjątkiem suplementu do dyplomu zawodowego i suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, i ich duplikaty w przypadku, o którym mowa w § 61 ust. 4 rozporządzenia, oraz duplikaty wydawane na poddrukach według wzorów nr 83–85 określonych w załączniku nr 3 do rozporządzenia, drukuje się na papierze zadrukowanym tłem giloszowym według wzorów tych dokumentów określonych w załączniku nr 3 do rozporządzenia.
+INFORMACJE OGÓLNE DOTYCZĄCE WYDAWANIA ŚWIADECTW, CERTYFIKATÓW, ZAŚWIADCZEŃ, ANEKSÓW, DYPLOMÓW PAŃSTWOWYCH I INNYCH DRUKÓW ORAZ OPIS ZABEZPIECZEŃ PRZED FAŁSZERSTWEM DOKUMENTÓW PUBLICZNYCH
+4. Suplement do dyplomu zawodowego i suplement do dyplomu potwierdzającego kwalifikacje zawodowe drukuje się dwustronnie na białym papierze, bez tła giloszowego.
+5. Pierwsza strona świadectwa szkolnego promocyjnego, świadectwa ukończenia szkoły i duplikatów tych świadectw, wydawanych przez szkoły i szkoły polskie jest zadrukowana tłem giloszowym z literami RP. Kolejne strony są zadrukowane tłem giloszowym bez liter RP.
+6. Indeksy mają format A6, zaświadczenie o spełnianiu obowiązku rocznego przygotowania przedszkolnego ma format A5, a pozostałe dokumenty mają format A4.
+7. Świadectwo szkolne promocyjne, świadectwo ukończenia szkoły i duplikaty tych świadectw, zaświadczenie o zawodzie, zaświadczenie o przebiegu nauczania, zaświadczenie o braku możliwości wydania duplikatu, suplement do dyplomu zawodowego i suplement do dyplomu potwierdzającego kwalifikacje zawodowe drukuje się na papierze offsetowym o gramaturze nie mniejszej niż 80 g/m .
+8. Zaświadczenie o spełnianiu obowiązku rocznego przygotowania przedszkolnego drukuje się na kartonie offsetowym o gramaturze 170 g/m .
+9. Dokumenty, o których mowa w § 4 ust. 4 rozporządzenia, z wyjątkiem suplementu do dyplomu zawodowego i suplementu do dyplomu potwierdzającego kwalifikacje zawodowe, i duplikaty tych dokumentów drukuje się na papierze o gramaturze 120 g/m .
+10. Świadectwo szkolne promocyjne z wyróżnieniem i świadectwo ukończenia szkoły z wyróżnieniem posiada na pierwszej stronie biało-czerwony pionowy pasek o szerokości 12 mm, umieszczony w odległości 50 mm od lewej krawędzi świadectwa.
+11. Miejsce oznaczone we wzorze druku opatruje się odciskiem pieczęci urzędowej o średnicy 36 mm, a w przypadku indeksu w miejscu przeznaczonym na umieszczenie fotografii używa się pieczęci urzędowej o średnicy 20 mm.
+II. Opis zabezpieczeń przed fałszerstwem dokumentów publicznych kategorii drugiej: świadectwo dojrzałości (wzór nr 61 określony w załączniku nr 3 do rozporządzenia), aneks do świadectwa dojrzałości (wzór nr 62 określony w załączniku nr 3 do rozporządzenia), zaświadczenie o wynikach egzaminu maturalnego (wzór nr 60 określony w załączniku nr 3 do rozporządzenia) i jednostronicowy poddruk duplikatu dokumentu publicznego kategorii drugiej (wzór nr 84 określony w załączniku nr 3 do rozporządzenia). Zabezpieczenia w podłożu i w druku oraz personalizacja obejmuje wyłącznie awers dokumentu.
+1. Zabezpieczenia w papierze:
+1) papier niewykazujący luminescencji w promieniowaniu ultrafioletowym;
+2) papier uczulony na działanie odczynników chemicznych (zabezpieczony chemicznie);
+3) znak wodny umiejscowiony wielotonowy;
+4) włókna zabezpieczające widoczne jedynie w promieniowaniu ultrafioletowym w dwóch kolorach (dwa jednokolorowe włókna);
+5) włókna zabezpieczające widoczne jedynie w świetle widzialnym w dwóch kolorach (dwa jednokolorowe włókna).
+2. Zabezpieczenia w druku (strona zawierająca dane personalne):
+1) technika druku: offset i staloryt;
+2) dwukolorowe tło giloszowe wykonane w technice druku irysowego;
+3) mikrodruki;
+4) dwa elementy graficzne wydrukowane farbą niewidoczną w świetle widzialnym i aktywną w promieniowaniu ultrafioletowym;
+5) element graficzny wykonany farbą optycznie zmienną.
+3. Personalizacja dokumentu wykonana z wykorzystaniem drukarki laserowej, atramentowej lub innej równoważnej, której środek kryjący będzie zapewniał trwałą integrację z podłożem.
+4. Oznaczenie indywidualne wykonane przez producenta blankietów dokumentów publicznych na pierwszej stronie blankietu, w prawej dolnej jego części, techniką druku typograficznego z zastosowaniem farby specjalnej, widocznej w świetle widzialnym i aktywnej w promieniowaniu ultrafioletowym.
+5. Na oznaczenie indywidualne składa się:
+1) symbol „M”;
+2) jednoliterowe oznaczenie roku produkcji blankietu;
+3) siedmiocyfrowy numer.
+III. Opis zabezpieczeń przed fałszerstwem dokumentu publicznego kategorii drugiej: czterostronicowy poddruk duplikatu dokumentu publicznego kategorii drugiej (wzór nr 83 określony w załączniku nr 3 do rozporządzenia).
+1. Zabezpieczenia w papierze:
+1) papier niewykazujący luminescencji w promieniowaniu ultrafioletowym;
+2) papier uczulony na działanie odczynników chemicznych (zabezpieczony chemicznie);
+3) znak wodny dwutonowy;
+4) włókna zabezpieczające widoczne w świetle widzialnym i jednocześnie wykazujące luminescencję w promieniowaniu ultrafioletowym;
+5) włókna zabezpieczające widoczne jedynie w świetle widzialnym;
+6) włókna zabezpieczające widoczne jedynie w promieniowaniu ultrafioletowym.
+2. Zabezpieczenia w druku (strona zawierająca dane personalne):
+1) awers strona zawierająca dane personalne:
+a) technika druku: offset,
+b) dwukolorowe tło giloszowe wykonane w technice druku irysowego,
+c) mikrodruki,
+d) element graficzny wykonany farbą aktywną w promieniowaniu ultrafioletowym,
+e) element graficzny wykonany farbą antykseryczną;
+2) rewers strony zawierające dane inne niż dane personalne:
+a) technika druku: offset,
+b) dwukolorowe tło giloszowe wykonane w technice druku irysowego,
+c) mikrodruki,
+d) element graficzny wykonany farbą aktywną w promieniowaniu ultrafioletowym.
+3. Personalizacja dokumentu wykonana z wykorzystaniem drukarki atramentowej lub innej równoważnej, której środek kryjący będzie zapewniał trwałą integrację z podłożem.
+4. Oznaczenie indywidualne wykonane przez producenta blankietów dokumentów publicznych na pierwszej stronie blankietu, w prawej dolnej jego części, techniką druku typograficznego z zastosowaniem farby specjalnej, aktywnej w promieniowaniu ultrafioletowym.
+5. Na oznaczenie indywidualne składają się dwie litery i siedem cyfr.
+6. Obok oznaczenia indywidualnego, z lewej jego strony, producent blankietu umieszcza skrót nazwy producenta blankietu dokumentu publicznego, według schematu:
+1) od czterech do siedmiu liter oznaczających skrót nazwy producenta blankietu dokumentu publicznego, które umieszcza w miejscu oznaczonym we wzorze symbolem XXXX,
+2) cztery cyfry oznaczające rok produkcji blankietu, które umieszcza w miejscu oznaczonym we wzorze symbolem YYYY przy czym skrót nazwy producenta blankietu dokumentu publicznego i rok produkcji jest wykonany w technice offsetowej.
+IV. Opis zabezpieczeń przed fałszerstwem dokumentu publicznego kategorii trzeciej: świadectwo ukończenia liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych (wzór nr 59 określony w załączniku nr 3 do rozporządzenia).
+Zabezpieczenia w podłożu i w druku oraz personalizacja obejmuje wyłącznie awers dokumentu.
+1. Zabezpieczenia w papierze:
+1) papier niewykazujący luminescencji w promieniowaniu ultrafioletowym;
+2) papier uczulony na działanie odczynników chemicznych (zabezpieczony chemicznie);
+3) znak wodny umiejscowiony wielotonowy;
+4) włókna zabezpieczające widoczne jedynie w promieniowaniu ultrafioletowym w dwóch kolorach (dwa jednokolorowe włókna);
+5) włókna zabezpieczające widoczne jedynie w świetle widzialnym w dwóch kolorach (dwa jednokolorowe włókna).
+2. Zabezpieczenia w druku (strona zawierająca dane personalne):
+1) technika druku: offset i staloryt;
+2) dwukolorowe tło giloszowe wykonane w technice druku irysowego;
+3) mikrodruki;
+4) dwa elementy graficzne wydrukowane farbą niewidoczną w świetle widzialnym i aktywną w promieniowaniu ultrafioletowym.
+3. Personalizacja dokumentu wykonana z wykorzystaniem drukarki laserowej, atramentowej lub innej równoważnej, której środek kryjący będzie zapewniał trwałą integrację z podłożem.
+4. Oznaczenie indywidualne wykonane przez producenta blankietów dokumentów publicznych na pierwszej stronie blankietu, w prawej dolnej jego części, techniką druku typograficznego z zastosowaniem farby specjalnej, widocznej w świetle widzialnym oraz aktywnej w promieniowaniu ultrafioletowym.
+5. Na oznaczenie indywidualne składa się:
+1) symbol „M”;
+2) jednoliterowe oznaczenie roku produkcji blankietu;
+3) siedmiocyfrowy numer.
+V. Opis zabezpieczeń przed fałszerstwem dokumentów publicznych kategorii trzeciej: zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty (wzór nr 55 określony w załączniku nr 3 do rozporządzenia), świadectwo ukończenia szkoły podstawowej po zdaniu egzaminów eksternistycznych (wzór nr 58 określony w załączniku nr 3 do rozporządzenia), zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia (wzór nr 56 określony w załączniku nr 3 do rozporządzenia) i zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia (wzór nr 57 określony w załączniku nr 3 do rozporządzenia). Zabezpieczenia w podłożu i w druku oraz personalizacja obejmuje wyłącznie awers dokumentu.
+1. Zabezpieczenia w papierze:
+1) papier niewykazujący luminescencji w promieniowaniu ultrafioletowym;
+2) papier uczulony na działanie odczynników chemicznych (zabezpieczony chemicznie);
+3) znak wodny umiejscowiony wielotonowy;
+4) włókna zabezpieczające widoczne jedynie w promieniowaniu ultrafioletowym w dwóch kolorach (dwa jednokolorowe włókna);
+5) włókna zabezpieczające widoczne jedynie w świetle widzialnym w dwóch kolorach (dwa jednokolorowe włókna).
+2. Zabezpieczenia w druku (strona zawierająca dane personalne):
+1) technika druku: offset;
+2) tło giloszowe;
+3) mikrodruki;
+4) element graficzny wydrukowany farbą niewidoczną w świetle widzialnym i aktywną w promieniowaniu ultrafioletowym.
+3. Personalizacja dokumentu wykonana z wykorzystaniem drukarki laserowej, atramentowej lub innej równoważnej, której środek kryjący będzie zapewniał trwałą integrację z podłożem.
+4. Oznaczenie indywidualne wykonane przez producenta blankietów dokumentów publicznych na pierwszej stronie blankietu, w prawej dolnej jego części, techniką druku typograficznego z zastosowaniem farby specjalnej, widocznej w świetle widzialnym oraz aktywnej w promieniowaniu ultrafioletowym.
+5. Na oznaczenie indywidualne składa się:
+1) symbol oznaczający odpowiednio:
+a) „O” dla blankietu zaświadczenia szczegółowych o wynikach egzaminu ósmoklasisty i świadectwa ukończenia szkoły podstawowej po zdaniu egzaminów eksternistycznych,
+b) „P” dla blankietu zaświadczenia o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia,
+c) „D” dla blankietu zaświadczenia o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia;
+2) jednoliterowe oznaczenie roku produkcji blankietu;
+3) siedmiocyfrowy numer.
+VI. Opis zabezpieczeń przed fałszerstwem dokumentów publicznych kategorii trzeciej: certyfikaty kwalifikacji zawodowych (wzory nr 63–66 określone w załączniku nr 3 do rozporządzenia), dyplomy zawodowe (wzory nr 67–70 określone w załączniku nr 3 do rozporządzenia), dyplomy potwierdzające kwalifikacje zawodowe (wzory nr 71–74 określone w załączniku nr 3 do rozporządzenia), świadectwa potwierdzające kwalifikacje w zawodzie (wzory nr 77–80 określone w załączniku nr 3 do rozporządzenia) i jednostronicowy poddruk duplikatu dokumentu publicznego kategorii trzeciej (wzór nr 85 określony w załączniku nr 3 do rozporządzenia). Zabezpieczenia w podłożu i w druku oraz personalizacja obejmuje wyłącznie awers dokumentu.
+1. Zabezpieczenia w papierze:
+1) papier niewykazujący luminescencji w promieniowaniu ultrafioletowym;
+2) papier uczulony na działanie odczynników chemicznych (zabezpieczony chemicznie);
+3) znak wodny umiejscowiony wielotonowy;
+4) włókna zabezpieczające widoczne jedynie w promieniowaniu ultrafioletowym w dwóch kolorach (dwa jednokolorowe włókna);
+5) włókna zabezpieczające widoczne jedynie w świetle widzialnym w dwóch kolorach (dwa jednokolorowe włókna).
+2. Zabezpieczenia w druku (strona zawierająca dane personalne):
+1) technika druku: offset i staloryt;
+2) dwukolorowe tło giloszowe wykonane w technice druku irysowego;
+3) mikrodruki;
+4) element graficzny wykonany farbą optycznie zmienną;
+5) dwa elementy graficzne wydrukowane farbą niewidoczną w świetle widzialnym i aktywną w promieniowaniu ultrafioletowym.
+3. Personalizacja dokumentu wykonana z wykorzystaniem drukarki laserowej, atramentowej lub innej równoważnej, której środek kryjący będzie zapewniał trwałą integrację z podłożem.
+4. Oznaczenie indywidualne wykonane przez producenta blankietów dokumentów publicznych na pierwszej stronie blankietu, w prawej dolnej jego części, techniką druku typograficznego z zastosowaniem farby specjalnej, widocznej w świetle widzialnym i aktywnej w promieniowaniu ultrafioletowym.
+5. Na oznaczenie indywidualne składa się:
+1) symbol „Z”;
+2) jednoliterowe oznaczenie roku produkcji blankietu;
+3) siedmiocyfrowy numer.
+VII. Opis zabezpieczeń przed fałszerstwem dokumentów publicznych kategorii trzeciej: świadectwa ukończenia szkoły podstawowej (wzory nr 8–12 określone w załączniku nr 3 do rozporządzenia), świadectwa ukończenia liceum ogólnokształcącego (wzory nr 16–18 określone w załączniku nr 3 do rozporządzenia), świadectwa ukończenia technikum (wzory nr 21 i 22 określone w załączniku nr 3 do rozporządzenia), świadectwa ukończenia branżowej szkoły I stopnia (wzory nr 25 i 26 określone w załączniku nr 3 do rozporządzenia), świadectwo ukończenia branżowej szkoły II stopnia (wzór nr 27 określony w załączniku nr 3 do rozporządzenia), świadectwo ukończenia szkoły specjalnej przysposabiającej do pracy (wzór nr 29 określony w załączniku nr 3 do rozporządzenia), świadectwo ukończenia szkoły policealnej (wzór nr 30 określony w załączniku nr 3 do rozporządzenia), dwustronicowy poddruk duplikatu dokumentu publicznego kategorii trzeciej (wzór nr 86 określony w załączniku nr 3 do rozporządzenia) i czterostronicowy poddruk duplikatu dokumentu publicznego kategorii trzeciej (wzór nr 87 określony w załączniku nr 3 do rozporządzenia).
+1. Zabezpieczenia w papierze:
+1) papier niewykazujący luminescencji w promieniowaniu ultrafioletowym;
+2) papier uczulony na działanie odczynników chemicznych (zabezpieczony chemicznie);
+3) znak wodny dwutonowy;
+4) włókna zabezpieczające widoczne w świetle widzialnym i jednocześnie wykazujące luminescencję w promieniowaniu ultrafioletowym;
+5) włókna zabezpieczające widoczne jedynie w promieniowaniu ultrafioletowym.
+2. Zabezpieczenia w druku (strona zawierająca dane personalne):
+1) technika druku: offset;
+2) tło giloszowe według wzorów określonych w załączniku nr 3 do rozporządzenia;
+3) mikrodruki;
+4) element graficzny wykonany farbą aktywną w promieniowaniu ultrafioletowym;
+5) zastosowanie farby aktywnej w promieniowaniu ultrafioletowym.
+3. Zabezpieczenia w druku (pozostałe strony):
+1) technika druku: offset;
+2) tło giloszowe według wzorów określonych w załączniku nr 3 do rozporządzenia;
+3) element graficzny wykonany farbą aktywną w promieniowaniu ultrafioletowym.
+4. Personalizacja dokumentu wykonana z wykorzystaniem drukarki atramentowej lub innej równoważnej, której środek kryjący będzie zapewniał trwałą integrację z podłożem.
+5. Oznaczenie indywidualne wykonane przez producenta blankietów dokumentów publicznych na pierwszej stronie blankietu, w prawej dolnej jego części, w technice typografii przy zastosowaniu farby specjalnej, aktywnej w promieniowaniu ultrafioletowym.
+6. Na oznaczenie indywidualne składają się dwie litery i siedem cyfr.
+7. Obok oznaczenia indywidualnego, z lewej jego strony, producent blankietu umieszcza skrót nazwy producenta blankietu dokumentu publicznego, według schematu:
+1) od czterech do siedmiu liter oznaczających skrót nazwy producenta blankietu dokumentu publicznego, które umieszcza w miejscu oznaczonym we wzorze symbolem XXXX,
+2) cztery cyfry oznaczające rok produkcji blankietu, które umieszcza w miejscu oznaczonym we wzorze symbolem YYYY przy czym skrót nazwy producenta blankietu dokumentu publicznego i rok produkcji jest wykonany w technice offsetowej.
+DYPLOMÓW PAŃSTWOWYCH I INNYCH DRUKÓW I. Świadectwa szkolne i indeksy
+1. Świadectwa szkolne promocyjne szkoły podstawowej Numer Symbol Przeznaczenie wzoru 1 2 3 1 MEiN-I/1/1 dla uczniów klas I–III szkoły podstawowej dla dzieci i młodzieży 2 MEiN-I/2-SZ/1 dla uczniów klas I–III szkoły podstawowej przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, szkoły podstawowej w Polsce oraz szkoły polskiej, realizujących program nauczania uwzględniający ramy programowe kształcenia uzupełniającego dla szkół polskich w zakresie szkoły podstawowej oraz plan nauczania uzupełniającego w zakresie szkoły podstawowej 3 MEiN-I/3/1 dla uczniów klas IV–VII szkoły podstawowej dla dzieci i młodzieży 4 MEiN-I/4-w/1 dla uczniów klas IV–VII szkoły podstawowej dla dzieci i młodzieży z wyróżnieniem 5 MEiN-I/5/1 dla uczniów klas VII oddziałów przysposabiających do pracy organizowanych w szkołach podstawowych dla dzieci i młodzieży 6 MEiN-I/6/1 dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, uczęszczających do klas I–VII szkoły podstawowej 7 MEiN-I/7-SZ/1 dla uczniów klas IV–VII szkoły podstawowej przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, szkoły podstawowej w Polsce oraz szkoły polskiej, realizujących program nauczania uwzględniający ramy programowe kształcenia uzupełniającego dla szkół polskich w zakresie szkoły podstawowej oraz plan nauczania uzupełniającego w zakresie szkoły podstawowej
+2. Świadectwa ukończenia szkoły podstawowej Numer Symbol Przeznaczenie wzoru 1 2 3 WYKAZ WZORÓW ŚWIADECTW, CERTYFIKATÓW, ZAŚWIADCZEŃ, ANEKSÓW, DYPLOMÓW PAŃSTWOWYCH I INNYCH DRUKÓW 8 MEiN-I/8/1 dla uczniów szkoły podstawowej dla dzieci i młodzieży oraz dla słuchaczy szkoły podstawowej dla dorosłych, zawierające znak graficzny PRK II 9 MEiN-I/9-w/1 dla uczniów szkoły podstawowej dla dzieci i młodzieży, zawierające znak graficzny PRK II z wyróżnieniem 10 MEiN-I/10/1 dla uczniów oddziału przysposabiającego do pracy organizowanego w szkole podstawowej dla dzieci i młodzieży, zawierające znak graficzny PRK II 11 MEiN-I/11/1 dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, uczęszczających do szkoły podstawowej, zawierające znak graficzny PRK II 12 MEiN-I/12- dla uczniów szkoły podstawowej przy przedstawicielstwie SZ/1 dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, szkoły podstawowej w Polsce oraz szkoły polskiej, realizujących program nauczania uwzględniający ramy programowe kształcenia uzupełniającego dla szkół polskich w zakresie szkoły podstawowej oraz plan nauczania uzupełniającego w zakresie szkoły podstawowej
+3. Świadectwa szkolne promocyjne liceum ogólnokształcącego Numer Symbol Przeznaczenie wzoru 1 2 3 13 MEiN-I/13/2 dla uczniów liceum ogólnokształcącego dla młodzieży 14 MEiN-I/14-w/2 dla uczniów liceum ogólnokształcącego dla młodzieży z wyróżnieniem 15 MEiN-I/15- dla uczniów klas I–III liceum ogólnokształcącego przy SZ/2 przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, liceum ogólnokształcącego w Polsce oraz szkoły polskiej, realizujących program nauczania uwzględniający ramy programowe kształcenia uzupełniającego dla szkół polskich w zakresie liceum ogólnokształcącego oraz plan nauczania uzupełniającego w zakresie liceum ogólnokształcącego
+4. Świadectwa ukończenia liceum ogólnokształcącego Numer Symbol Przeznaczenie wzoru 1 2 3 16 MEiN-I/16/2 dla uczniów liceum ogólnokształcącego dla młodzieży oraz dla słuchaczy liceum ogólnokształcącego dla dorosłych 17 MEiN-I/17-w/2 dla uczniów liceum ogólnokształcącego dla młodzieży z wyróżnieniem 18 MEiN-I/18- dla uczniów liceum ogólnokształcącego przy SZ/2 przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, liceum ogólnokształcącego w Polsce oraz szkoły polskiej, realizujących program nauczania uwzględniający ramy programowe kształcenia uzupełniającego dla szkół polskich w zakresie liceum ogólnokształcącego oraz plan nauczania uzupełniającego w zakresie liceum ogólnokształcącego
+5. Świadectwa szkolne promocyjne technikum Numer Symbol Przeznaczenie wzoru 1 2 3 19 MEiN-I/19/2 dla uczniów technikum 20 MEiN-I/20-w/2 dla uczniów technikum z wyróżnieniem
+6. Świadectwa ukończenia technikum Numer wzoru Symbol Przeznaczenie 1 2 3 21 MEiN-I/21/2 dla uczniów technikum 22 MEiN-I/22-w/2 dla uczniów technikum z wyróżnieniem
+7. Świadectwa szkolne promocyjne branżowej szkoły I stopnia Numer Symbol Przeznaczenie wzoru 1 2 3 23 MEiN-I/23/2 dla uczniów branżowej szkoły I stopnia 24 MEiN-I/24-w/2 dla uczniów branżowej szkoły I stopnia z wyróżnieniem
+8. Świadectwa ukończenia branżowej szkoły I stopnia Numer Symbol Przeznaczenie wzoru 1 2 3 25 MEiN-I/25/2 dla uczniów branżowej szkoły I stopnia 26 MEiN-I/26-w/2 dla uczniów branżowej szkoły I stopnia z wyróżnieniem
+9. Świadectwo ukończenia branżowej szkoły II stopnia Numer Symbol Przeznaczenie wzoru 1 2 3 27 MEiN-I/27/2 dla słuchaczy branżowej szkoły II stopnia
+10. Świadectwo szkolne promocyjne szkoły specjalnej przysposabiającej do pracy Numer Symbol Przeznaczenie wzoru 1 2 3 28 MEiN-I/28/2 dla uczniów szkoły specjalnej przysposabiającej do pracy
+11. Świadectwo ukończenia szkoły specjalnej przysposabiającej do pracy Numer Symbol Przeznaczenie wzoru 1 2 3 29 MEiN-I/29/2 dla uczniów szkoły specjalnej przysposabiającej do pracy
+12. Świadectwo ukończenia szkoły policealnej Numer wzoru Symbol Przeznaczenie 1 2 3 30 MEiN-I/30/2 dla słuchaczy szkoły policealnej
+13. Indeksy Numer Symbol Przeznaczenie wzoru 1 2 3 31 MEiN-I/31/2 dla słuchaczy szkoły dla dorosłych 32 MEiN-I/32/2 dla słuchaczy szkoły policealnej i branżowej szkoły II stopnia II. Arkusze ocen
+1. Arkusze ocen wypełniane pismem ręcznym Numer Symbol Przeznaczenie wzoru 1 2 3 33 MEiN-I/33/1 dla uczniów szkoły podstawowej dla dzieci i młodzieży 34 MEiN-I/34/1 dla uczniów szkoły podstawowej przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, szkoły podstawowej w Polsce oraz szkoły polskiej, realizujących program nauczania uwzględniający ramy programowe kształcenia uzupełniającego dla szkół polskich w zakresie szkoły podstawowej oraz plan nauczania uzupełniającego w zakresie szkoły podstawowej 35 MEiN-I/35/1 dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, uczęszczających do szkoły podstawowej 36 MEiN-I/36/2 dla uczniów szkoły specjalnej przysposabiającej do pracy 37 MEiN-I/37/2 dla uczniów liceum ogólnokształcącego dla młodzieży 38 MEiN-I/38/2 dla uczniów liceum ogólnokształcącego przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, liceum ogólnokształcącego w Polsce oraz szkoły polskiej, realizujących program nauczania uwzględniający ramy programowe kształcenia uzupełniającego dla szkół polskich w zakresie liceum ogólnokształcącego oraz plan nauczania uzupełniającego w zakresie liceum ogólnokształcącego 39 MEiN-I/39/2 dla uczniów technikum 40 MEiN-I/40/2 dla uczniów branżowej szkoły I stopnia 41 MEiN-I/41/2 dla słuchaczy branżowej szkoły II stopnia 42 MEiN-I/42/2 dla słuchaczy szkoły policealnej 43 MEiN-I/43/2 dla słuchaczy szkoły dla dorosłych
+2. Arkusze ocen wypełniane w postaci elektronicznej Numer wzoru Symbol Przeznaczenie 1 2 3 44 MEiN-I/44/1 dla uczniów szkoły podstawowej dla dzieci i młodzieży 45 MEiN-I/45/1 dla uczniów szkoły podstawowej przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, szkoły podstawowej w Polsce oraz szkoły polskiej, realizujących program nauczania uwzględniający ramy programowe kształcenia uzupełniającego dla szkół polskich w zakresie szkoły podstawowej oraz plan nauczania uzupełniającego w zakresie szkoły podstawowej 46 MEiN-I/46/1 dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, uczęszczających do szkoły podstawowej 47 MEiN-I/47/2 dla uczniów szkoły specjalnej przysposabiającej do pracy 48 MEiN-I/48/2 dla uczniów liceum ogólnokształcącego dla młodzieży 49 MEiN-I/49/2 dla uczniów liceum ogólnokształcącego przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, liceum ogólnokształcącego w Polsce oraz szkoły polskiej, realizujących program nauczania uwzględniający ramy programowe kształcenia uzupełniającego dla szkół polskich w zakresie liceum ogólnokształcącego oraz plan nauczania uzupełniającego w zakresie liceum ogólnokształcącego 50 MEiN-I/50/2 dla uczniów technikum 51 MEiN-I/51/2 dla uczniów branżowej szkoły I stopnia 52 MEiN-I/52/2 dla słuchaczy branżowej szkoły II stopnia 53 MEiN-I/53/2 dla słuchaczy szkoły policealnej 54 MEiN-I/54/2 dla słuchaczy szkoły dla dorosłych III. Świadectwa, certyfikaty, zaświadczenia, aneks do świadectwa dojrzałości, dyplomy, suplementy i świadectwa potwierdzające kwalifikacje w zawodzie wydawane przez okręgowe komisje egzaminacyjne Numer Symbol Nazwa dokumentu lub przeznaczenie wzoru 1 2 3 55 OKE-II/55/3 zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty 56 OKE-II/56/3 zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia 57 OKE-II/57/3 zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia 58 OKE-II/58/3 świadectwo ukończenia szkoły podstawowej po zdaniu egzaminów eksternistycznych, zawierające znak graficzny PRK II 59 OKE-II/59/3 świadectwo ukończenia liceum ogólnokształcącego po zdaniu egzaminów eksternistycznych 60 OKE-II/60/3 zaświadczenie o wynikach egzaminu maturalnego 61 OKE-II/61/3 świadectwo dojrzałości, zawierające znak graficzny PRK IV 62 OKE-II/62/3 aneks do świadectwa dojrzałości 63 OKE-II/63/3 certyfikat kwalifikacji zawodowej wydawany po zdaniu egzaminu zawodowego, zawierający znak graficzny PRK 2 zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji cząstkowej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 64 OKE-II/64/3 certyfikat kwalifikacji zawodowej wydawany po zdaniu egzaminu zawodowego, zawierający znak graficzny PRK 3 zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji cząstkowej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 65 OKE-II/65/3 certyfikat kwalifikacji zawodowej wydawany po zdaniu egzaminu zawodowego, zawierający znak graficzny PRK 4 zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji cząstkowej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 66 OKE-II/66/3 certyfikat kwalifikacji zawodowej wydawany po zdaniu egzaminu zawodowego, zawierający znak graficzny PRK 5 zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji cząstkowej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 67 OKE-II/67/3 dyplom zawodowy, zawierający znak graficzny PRK II zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji pełnej, o którym mowa w przepisach wydanych na podstawie art. 46 ust.
+1 ustawy Prawo oświatowe 68 OKE-II/68/3 dyplom zawodowy, zawierający znak graficzny PRK III zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji pełnej, o którym mowa w przepisach wydanych na podstawie art. 46 ust.
+1 ustawy Prawo oświatowe 69 OKE-II/69/3 dyplom zawodowy, zawierający znak graficzny PRK IV zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji pełnej, o którym mowa w przepisach wydanych na podstawie art. 46 ust.
+1 ustawy Prawo oświatowe 70 OKE-II/70/3 dyplom zawodowy, zawierający znak graficzny PRK V zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji pełnej, o którym mowa w przepisach wydanych na podstawie art. 46 ust.
+1 ustawy Prawo oświatowe 71 OKE-II/71/3 dyplom potwierdzający kwalifikacje zawodowe, zawierający znak graficzny PRK II zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji pełnej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 72 OKE-II/72/3 dyplom potwierdzający kwalifikacje zawodowe, zawierający znak graficzny PRK III zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji pełnej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 73 OKE-II/73/3 dyplom potwierdzający kwalifikacje zawodowe, zawierający znak graficzny PRK IV zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji pełnej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 74 OKE-II/74/3 dyplom potwierdzający kwalifikacje zawodowe, zawierający znak graficzny PRK V zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji pełnej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 75 OKE-II/75/3 suplement do dyplomu zawodowego 76 OKE-II/76/3 suplement do dyplomu potwierdzającego kwalifikacje zawodowe 77 OKE-II/77/3 świadectwo potwierdzające kwalifikację w zawodzie, zawierające znak graficzny PRK 2 zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji cząstkowej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 78 OKE-II/78/3 świadectwo potwierdzające kwalifikację w zawodzie, zawierające znak graficzny PRK 3 zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji cząstkowej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 79 OKE-II/79/3 świadectwo potwierdzające kwalifikację w zawodzie, zawierające znak graficzny PRK 4 zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji cząstkowej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe 80 OKE-II/80/3 świadectwo potwierdzające kwalifikację w zawodzie, zawierające znak graficzny PRK 5 zgodnie z poziomem Polskiej Ramy Kwalifikacji dla kwalifikacji cząstkowej, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy Prawo oświatowe IV. Zaświadczenie o spełnianiu obowiązku rocznego przygotowania przedszkolnego Numer Symbol Przeznaczenie wzoru 1 2 3 81 MEiN-I/81 dla dzieci spełniających obowiązek rocznego przygotowania przedszkolnego V. Informacja o gotowości dziecka do podjęcia nauki w szkole podstawowej Numer Symbol Przeznaczenie wzoru 1 2 3 82 MEiN-I/82 dla dzieci pięcioletnich i sześcioletnich objętych wychowaniem przedszkolnym VI. Duplikaty Numer Symbol Przeznaczenie wzoru 1 2 3 83 MEiN-I/83 czterostronicowy poddruk duplikatu dokumentu publicznego kategorii drugiej 84 OKE-II/84 jednostronicowy poddruk duplikatu dokumentu publicznego kategorii drugiej 85 OKE-II/85 jednostronicowy poddruk duplikatu dokumentu publicznego kategorii trzeciej 86 MEiN-I/86 dwustronicowy poddruk duplikatu dokumentu publicznego kategorii trzeciej 87 MEiN-I/87 czterostronicowy poddruk duplikatu dokumentu publicznego kategorii trzeciej 88 MEiN-I/88 dwustronicowy poddruk duplikatu dokumentu innego niż dokument publiczny 89 MEiN-I/89 czterostronicowy poddruk duplikatu dokumentu innego niż dokument publiczny VII. Zaświadczenie o zawodzie Numer Symbol Przeznaczenie wzoru 1 2 3 90 MEiN-I/90 dla absolwentów szkół prowadzących kształcenie zawodowe VIII. Zaświadczenie o przebiegu nauczania Numer Symbol Przeznaczenie wzoru 1 2 3 91 MEiN-I/91 dla uczniów albo absolwentów IX. Zaświadczenie o braku możliwości wydania duplikatu Numer Symbol Nazwa dokumentu wzoru 1 2 3 92 MEiN-I/92 Zaświadczenie o braku możliwości wydania duplikatu
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-01-05 |
 | Data wydania | 2011-02-23 |
-| Wejście w życie | 2011-03-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110390201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/201/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344, z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475, Nr 201, poz. 1540 i Nr 206, poz. 1589 oraz z 2010 r. Nr 34, poz. 191, Nr 40, poz. 227, Nr 125, poz. 842 i Nr 182, poz. 1228.) wprowadza się następujące zmiany:
 
 - **1)** po art. 88c dodaje się art. 88d w brzmieniu: „
 
@@ -41,7 +40,7 @@ source: "eli-html"
 § 2. Szczególna ochrona może polegać również na stosowaniu wobec skazanego, o którym mowa w § 1:
 
 - **1)** warunków odbywania kary określonych w art. 88b lub 88c,
-- **2)** ochrony osobistej w rozumieniu ustawy z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2007 r. Nr 36, poz. 232, z 2009 r. Nr 178, poz. 1375 oraz z 2010 r. Nr 127, poz. 857 i Nr 182, poz. 1228) za zgodą skazanego.
+- **2)** ochrony osobistej w rozumieniu ustawy z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2007 r. Nr 36, poz. 232, z 2009 r. Nr 178, poz. 1375 oraz z 2010 r. Nr 127, poz. 857 i Nr 182, poz. 1228) – za zgodą skazanego.
 
 § 3. Dyrektor zakładu karnego obejmuje skazanego szczególną ochroną na wniosek sądu, przed którym toczy się postępowanie karne, albo prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze. We wniosku należy podać przyczyny objęcia skazanego szczególną ochroną oraz wskazać czas jej trwania, nie dłuższy niż 6 miesięcy.
 
@@ -73,7 +72,7 @@ source: "eli-html"
 § 2. Szczególna ochrona może polegać również na stosowaniu wobec tymczasowo aresztowanego, o którym mowa w § 1:
 
 - **1)** warunków odbywania kary określonych w art. 212b,
-- **2)** ochrony osobistej w rozumieniu ustawy z dnia 25 czerwca 1997 r. o świadku koronnym za zgodą tymczasowo aresztowanego.
+- **2)** ochrony osobistej w rozumieniu ustawy z dnia 25 czerwca 1997 r. o świadku koronnym – za zgodą tymczasowo aresztowanego.
 
 § 3. Dyrektor aresztu śledczego obejmuje tymczasowo aresztowanego szczególną ochroną na wniosek sądu, przed którym toczy się postępowanie karne, albo prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze. We wniosku należy podać przyczyny objęcia tymczasowo aresztowanego szczególną ochroną oraz wskazać czas jej trwania, nie dłuższy niż 3 miesiące.
 
@@ -93,5 +92,5 @@ source: "eli-html"
 
 § 11. Po zakończeniu postępowania karnego organem właściwym w zakresie składania wniosków sądu lub prokuratora, o których mowa w § 3 i 7, jest sędzia penitencjarny. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344, z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475, Nr 201, poz. 1540 i Nr 206, poz. 1589 oraz z 2010 r. Nr 34, poz. 191, Nr 40, poz. 227, Nr 125, poz. 842 i Nr 182, poz. 1228.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 11 marca 2022 r. w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów (przychodów) związanych z kredytem hipotecznym udzielonym na cele mieszkaniowe
+# Rozporządzenie Ministra Finansówz dnia 11 marca 2022 r. w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów (przychodów) związanych z kredytem hipotecznym udzielonym na cele mieszkaniowe Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-11 |
 | Data wydania | 2022-03-14 |
-| Wejście w życie | 2022-03-15 |
 | Ostatnia zmiana | 2025-12-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/592/text.pdf) |
 
@@ -48,7 +47,7 @@ odsetki, w tym odsetki skapitalizowane, i prowizje;
 3)
 opłaty, jeżeli ich poniesienie przez kredytobiorcę było niezbędne do zawarcia umowy kredytu mieszkaniowego, z wyjątkiem kosztów usług dodatkowych, w szczególności ubezpieczeń.
 3.
-W przypadku gdy kredyt mieszkaniowy został zaciągnięty również na wydatki inne niż określone w art. 21 ust. 25 pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.), zaniechanie, o którym mowa w ust. 1 pkt 1, obejmuje kwotę wierzytelności z tytułu kredytu mieszkaniowego w części, w jakiej kwota kredytu mieszkaniowego zaciągniętego na wydatki określone w art. 21 ust. 25 pkt 1 tej ustawy pozostaje do całkowitej kwoty zaciągniętego kredytu mieszkaniowego.
+W przypadku gdy kredyt mieszkaniowy został zaciągnięty również na wydatki inne niż określone w art. 21 ust. 25 pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558 i 583.), zaniechanie, o którym mowa w ust. 1 pkt 1, obejmuje kwotę wierzytelności z tytułu kredytu mieszkaniowego w części, w jakiej kwota kredytu mieszkaniowego zaciągniętego na wydatki określone w art. 21 ust. 25 pkt 1 tej ustawy pozostaje do całkowitej kwoty zaciągniętego kredytu mieszkaniowego.
 4.
 W przypadku gdy kredyt mieszkaniowy został zastąpiony kredytem refinansowym lub gdy na jego spłatę został zaciągnięty kredyt konsolidacyjny, zaniechanie, o którym mowa w ust. 1 pkt 1, obejmuje odpowiednio kwotę wierzytelności z tytułu kredytu refinansowego lub konsolidacyjnego w części odpowiadającej kwocie wierzytelności z tytułu kredytu mieszkaniowego.
 5.
@@ -69,7 +68,7 @@ umorzenia dokonuje podmiot, którego działalność podlega nadzorowi państwowe
 2)
 równowartość umorzonych kwot wierzytelności nie pomniejszyła w jakiejkolwiek innej formie przychodu, dochodu, podstawy opodatkowania ani podatku podmiotu udzielającego kredytu mieszkaniowego lub umarzającego kwoty wierzytelności z tytułu kredytu mieszkaniowego, z wyjątkiem rezerw i odpisów utworzonych na te wierzytelności, które zostały rozwiązane w związku z tym umorzeniem, i w następstwie ich rozwiązania ustalony został przychód do opodatkowania podatkiem dochodowym od osób prawnych.
 2.
-Przepis ust. 1 stosuje się odpowiednio do podatkowej grupy kapitałowej w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800, z późn. zm.), przy czym zaniechanie, o którym mowa w ust. 1, przysługuje wyłącznie do wysokości dochodów spółki tworzącej taką grupę, która umorzyła kwoty wierzytelności z tytułu kredytu mieszkaniowego i jest podmiotem określonym w ust. 1 pkt 1.
+Przepis ust. 1 stosuje się odpowiednio do podatkowej grupy kapitałowej w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1927, 2105, 2106, 2269 i 2427 oraz z 2022 r. poz. 583.), przy czym zaniechanie, o którym mowa w ust. 1, przysługuje wyłącznie do wysokości dochodów spółki tworzącej taką grupę, która umorzyła kwoty wierzytelności z tytułu kredytu mieszkaniowego i jest podmiotem określonym w ust. 1 pkt 1.
 § 3.
 Ilekroć w rozporządzeniu jest mowa o kredycie mieszkaniowym, należy przez to rozumieć kredyt, który został:
 1)
@@ -81,6 +80,5 @@ zaciągnięty na wydatki, o których mowa w art. 21 ust. 25 pkt 1 ustawy z dnia 
 § 4.
 Zaniechanie, o którym mowa w § 1 i § 2, ma zastosowanie do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2022 r. do dnia 31 grudnia 2022 r.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558 i 583. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1927, 2105, 2106, 2269 i 2427 oraz z 2022 r. poz. 583.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558 i 583. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1927, 2105, 2106, 2269 i 2427 oraz z 2022 r. poz. 583.
 

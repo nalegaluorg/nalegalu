@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 8 października 2019 r. w sprawie zakresu wykroczeń, za które uprawnieni pracownicy Państwowego Gospodarstwa Leśnego Lasy Państwowe oraz strażnicy Państwowej Straży Łowieckiej są upoważnieni do nakładania grzywien w drodze mandatu karnego
+# Rozporządzenie Ministra Środowiskaz dnia 8 października 2019 r. w sprawie zakresu wykroczeń, za które uprawnieni pracownicy Państwowego Gospodarstwa Leśnego Lasy Państwowe oraz strażnicy Państwowej Straży Łowieckiej są upoważnieni do nakładania grzywien w drodze mandatu karnego Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-08 |
 | Data wydania | 2019-10-30 |
-| Wejście w życie | 2019-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2090/text.pdf) |
 
@@ -80,6 +79,5 @@ strażnikom Państwowej Straży Łowieckiej – zachowują ważność przez okre
 § 6.
 Traci moc rozporządzenie Ministra Środowiska z dnia 24 września 2002 r. w sprawie zakresu wykroczeń, za które uprawnieni pracownicy Lasów Państwowych, pracownicy parków narodowych oraz strażnicy łowieccy są upoważnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 1432).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 

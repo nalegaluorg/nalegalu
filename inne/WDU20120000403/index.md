@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-30 |
 | Data wydania | 2012-04-16 |
-| Wejście w życie | 2012-04-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/403/text.pdf) |
 
@@ -33,29 +32,23 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Zakres informacji, które powinien zawierać elektroniczny wykaz ubytków zasobów mieszkaniowych oraz obiektów zbiorowego zakwaterowania w danym kwartale
 
 Treść rozporządzenia
-Na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769, z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668, z 2001 r. Nr 100, poz. 1080, z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362, z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 166, poz. 1172, z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278 i Nr 76, poz. 489 oraz z 2011 r. Nr 131, poz. 764, Nr 139, poz. 814, Nr 171, poz. 1016 i Nr 204, poz. 1195.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. Nr 157, poz. 1031, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. Nr 157, poz. 1031, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. Nr 13, poz. 161, z 2001 r. Nr 12, poz. 100 i Nr 157, poz. 1840, z 2002 r. Nr 177, poz. 1459, z 2003 r. Nr 208, poz. 2022, z 2004 r. Nr 254, poz. 2535, z 2005 r. Nr 206, poz. 1706, z 2006 r. Nr 36, poz. 246 i Nr 214, poz. 1577, z 2007 r. Nr 192, poz. 1386, z 2008 r. Nr 215, poz. 1358, z 2009 r. Nr 202, poz. 1559 oraz z 2010 r. Nr 257, poz. 1727.) wprowadza się następujące zmiany:
 1)
-w § 7 w ust. 1 pkt 3 otrzymuje brzmienie:
-„
+w § 7 w ust. 1 pkt 3 otrzymuje brzmienie: „
 3)
-mieszkania wraz z ich danymi adresowymi oraz numerem obrębu ewidencyjnego i numerem działki ewidencyjnej, przyporządkowanymi do rejonów statystycznych i obwodów spisowych.
-” ;
+mieszkania wraz z ich danymi adresowymi oraz numerem obrębu ewidencyjnego i numerem działki ewidencyjnej, przyporządkowanymi do rejonów statystycznych i obwodów spisowych. ” ;
 2)
 w § 12:
 a)
-w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-sporządzone na podstawie prowadzonej ewidencji gruntów i budynków elektroniczne wykazy oddanych do użytku w każdym kwartale budynków i mieszkań oraz ich ubytków – w terminie 14 dni po każdym kwartale; zakres informacji, które powinny zawierać elektroniczne wykazy, jest określony w załącznikach nr 3 i 4 do rozporządzenia,
-” ,
+sporządzone na podstawie prowadzonej ewidencji gruntów i budynków elektroniczne wykazy oddanych do użytku w każdym kwartale budynków i mieszkań oraz ich ubytków – w terminie 14 dni po każdym kwartale; zakres informacji, które powinny zawierać elektroniczne wykazy, jest określony w załącznikach nr 3 i 4 do rozporządzenia, ” ,
 b)
-ust. 1a otrzymuje brzmienie:
-„
+ust. 1a otrzymuje brzmienie: „
 1a.
-W powiatach, w których ewidencja gruntów i budynków nie zawiera odpowiednich danych lub nie została zmodernizowana zgodnie z § 80 rozporządzenia Ministra Rozwoju Regionalnego i Budownictwa z dnia 29 marca 2001 r. w sprawie ewidencji gruntów i budynków (Dz. U. Nr 38, poz. 454), do czasu jej zmodernizowania, powiatowi inspektorzy nadzoru budowlanego przekazują urzędom statystycznym, stosownie do art. 13 ustawy, elektroniczne wykazy, o których mowa w ust. 1 pkt 1, sporządzone na podstawie prowadzonej ewidencji rozpoczynanych i oddawanych do użytku obiektów budowlanych oraz ewidencji decyzji o pozwoleniu na rozbiórkę i zgłoszeń rozbiórki obiektu budowlanego.
-” ;
+W powiatach, w których ewidencja gruntów i budynków nie zawiera odpowiednich danych lub nie została zmodernizowana zgodnie z § 80 rozporządzenia Ministra Rozwoju Regionalnego i Budownictwa z dnia 29 marca 2001 r. w sprawie ewidencji gruntów i budynków (Dz. U. Nr 38, poz. 454), do czasu jej zmodernizowania, powiatowi inspektorzy nadzoru budowlanego przekazują urzędom statystycznym, stosownie do art. 13 ustawy, elektroniczne wykazy, o których mowa w ust. 1 pkt 1, sporządzone na podstawie prowadzonej ewidencji rozpoczynanych i oddawanych do użytku obiektów budowlanych oraz ewidencji decyzji o pozwoleniu na rozbiórkę i zgłoszeń rozbiórki obiektu budowlanego. ” ;
 3)
 uchyla się § 14;
 4)
@@ -65,11 +58,11 @@ załącznik nr 3 otrzymuje brzmienie określone w załączniku nr 1 do niniejsze
 6)
 załącznik nr 4 otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769, z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668, z 2001 r. Nr 100, poz. 1080, z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362, z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 166, poz. 1172, z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 47, poz. 278 i Nr 76, poz. 489 oraz z 2011 r. Nr 131, poz. 764, Nr 139, poz. 814, Nr 171, poz. 1016 i Nr 204, poz. 1195. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. Nr 13, poz. 161, z 2001 r. Nr 12, poz. 100 i Nr 157, poz. 1840, z 2002 r. Nr 177, poz. 1459, z 2003 r. Nr 208, poz. 2022, z 2004 r. Nr 254, poz. 2535, z 2005 r. Nr 206, poz. 1706, z 2006 r. Nr 36, poz. 246 i Nr 214, poz. 1577, z 2007 r. Nr 192, poz. 1386, z 2008 r. Nr 215, poz. 1358, z 2009 r. Nr 202, poz. 1559 oraz z 2010 r. Nr 257, poz. 1727.
 
-## Załącznik nr 1 — – Zakres informacji, które powinien zawierać elektroniczny wykaz budynków mieszkalnych i niemieszkalnych oraz obiektów zbiorowego zakwaterowania przekazanych do użytku w danym kwartalea) Budynek niemieszkalny – inny rodzaj budynku niż mieszkalny, tj.: przemysłowy produkcyjny i energetyczny, transportu i łączności, handlowy i usługowy, składowy, biurowy, ochrony zdrowia i opieki społecznej, oświaty, nauki i kultury, produkcyjny i usługowy rolnictwa oraz gospodarczy lub inny, w którym znajduje się przynajmniej jedno mieszkanie.
+## Załącznik nr 1 — – Zakres informacji, które powinien zawierać elektroniczny wykaz budynków mieszkalnych i niemieszkalnych oraz obiektów zbiorowego zakwaterowania przekazanych do użytku w danym kwartalea)Budynek niemieszkalny – inny rodzaj budynku niż mieszkalny, tj.: przemysłowy produkcyjny i energetyczny, transportu i łączności, handlowy i usługowy, składowy, biurowy, ochrony zdrowia i opieki społecznej, oświaty, nauki i kultury, produkcyjny i usługowy rolnictwa oraz gospodarczy lub inny, w którym znajduje się przynajmniej jedno mieszkanie.
 
-b) Do obiektów zbiorowego zakwaterowania należą: internaty, bursy, domy studenckie i akademickie, hotele pracownicze, asystenckie, komunalne i turystyczne, motele, domy wczasowe i schroniska turystyczne, placówki opiekuńczo-wychowawcze, zakłady wychowawcze, żłobki i przedszkola tygodniowe, domy rencistów, zakłady (domy) pomocy społecznej, szpitale, sanatoria, klasztory, domy zakonne i tym podobne obiekty.
+b)Do obiektów zbiorowego zakwaterowania należą: internaty, bursy, domy studenckie i akademickie, hotele pracownicze, asystenckie, komunalne i turystyczne, motele, domy wczasowe i schroniska turystyczne, placówki opiekuńczo-wychowawcze, zakłady wychowawcze, żłobki i przedszkola tygodniowe, domy rencistów, zakłady (domy) pomocy społecznej, szpitale, sanatoria, klasztory, domy zakonne i tym podobne obiekty.
 I.
 Dane dotyczące jednostki sporządzającej wykaz:
 1.
@@ -117,14 +110,13 @@ Liczba mieszkań według ilości izb
 18.
 Liczba izb
 19.
-Obiekt zamkniętyc) Za budynek stanowiący obiekt zamknięty należy uważać budynek będący w zarządzie Ministerstw: Obrony Narodowej, Sprawiedliwości oraz ministra właściwego do spraw administracji publicznej, do którego bez specjalnego zezwolenia (przepustki) nie mają wstępu osoby cywilne. Są to również budynki zajmowane przez obce przedstawicielstwa dyplomatyczne i urzędy konsularne państw obcych, a także przez osoby korzystające z przywilejów i immunitetów dyplomatycznych.: T – Tak, N – Nie
+Obiekt zamkniętyc)Za budynek stanowiący obiekt zamknięty należy uważać budynek będący w zarządzie Ministerstw: Obrony Narodowej, Sprawiedliwości oraz ministra właściwego do spraw administracji publicznej, do którego bez specjalnego zezwolenia (przepustki) nie mają wstępu osoby cywilne. Są to również budynki zajmowane przez obce przedstawicielstwa dyplomatyczne i urzędy konsularne państw obcych, a także przez osoby korzystające z przywilejów i immunitetów dyplomatycznych.: T – Tak, N – Nie
 20.
-Nazwa obiektu zbiorowego zakwaterowania (jeżeli dotyczy).
-a) Budynek niemieszkalny – inny rodzaj budynku niż mieszkalny, tj.: przemysłowy produkcyjny i energetyczny, transportu i łączności, handlowy i usługowy, składowy, biurowy, ochrony zdrowia i opieki społecznej, oświaty, nauki i kultury, produkcyjny i usługowy rolnictwa oraz gospodarczy lub inny, w którym znajduje się przynajmniej jedno mieszkanie. b) Do obiektów zbiorowego zakwaterowania należą: internaty, bursy, domy studenckie i akademickie, hotele pracownicze, asystenckie, komunalne i turystyczne, motele, domy wczasowe i schroniska turystyczne, placówki opiekuńczo-wychowawcze, zakłady wychowawcze, żłobki i przedszkola tygodniowe, domy rencistów, zakłady (domy) pomocy społecznej, szpitale, sanatoria, klasztory, domy zakonne i tym podobne obiekty. c) Za budynek stanowiący obiekt zamknięty należy uważać budynek będący w zarządzie Ministerstw: Obrony Narodowej, Sprawiedliwości oraz ministra właściwego do spraw administracji publicznej, do którego bez specjalnego zezwolenia (przepustki) nie mają wstępu osoby cywilne. Są to również budynki zajmowane przez obce przedstawicielstwa dyplomatyczne i urzędy konsularne państw obcych, a także przez osoby korzystające z przywilejów i immunitetów dyplomatycznych.
+Nazwa obiektu zbiorowego zakwaterowania (jeżeli dotyczy). a) Budynek niemieszkalny – inny rodzaj budynku niż mieszkalny, tj.: przemysłowy produkcyjny i energetyczny, transportu i łączności, handlowy i usługowy, składowy, biurowy, ochrony zdrowia i opieki społecznej, oświaty, nauki i kultury, produkcyjny i usługowy rolnictwa oraz gospodarczy lub inny, w którym znajduje się przynajmniej jedno mieszkanie. b) Do obiektów zbiorowego zakwaterowania należą: internaty, bursy, domy studenckie i akademickie, hotele pracownicze, asystenckie, komunalne i turystyczne, motele, domy wczasowe i schroniska turystyczne, placówki opiekuńczo-wychowawcze, zakłady wychowawcze, żłobki i przedszkola tygodniowe, domy rencistów, zakłady (domy) pomocy społecznej, szpitale, sanatoria, klasztory, domy zakonne i tym podobne obiekty. c) Za budynek stanowiący obiekt zamknięty należy uważać budynek będący w zarządzie Ministerstw: Obrony Narodowej, Sprawiedliwości oraz ministra właściwego do spraw administracji publicznej, do którego bez specjalnego zezwolenia (przepustki) nie mają wstępu osoby cywilne. Są to również budynki zajmowane przez obce przedstawicielstwa dyplomatyczne i urzędy konsularne państw obcych, a także przez osoby korzystające z przywilejów i immunitetów dyplomatycznych.
 
-## Załącznik nr 2 — – Zakres informacji, które powinien zawierać elektroniczny wykaz ubytków zasobów mieszkaniowych oraz obiektów zbiorowego zakwaterowania w danym kwartalea) W wykazie należy ująć faktyczne ubytki mieszkań i obiektów zbiorowego zakwaterowania na podstawie zgłoszeń o rozbiórkach obiektów budowlanych, decyzji o nakazie przymusowej rozbiórki, wydanych zezwoleń na zmianę sposobu użytkowania budynku mieszkalnego lub mieszkania na cele inne niż mieszkalne, wydanych decyzji o nakazie rozbiórki obiektów budowlanych nieużytkowanych, zniszczonych lub niewykończonych, nienadających się do remontu, odbudowy lub wykończenia; jeżeli budynek wielomieszkaniowy podlega likwidacji łącznie z wykwaterowaniem lokatorów w dłuższym okresie czasu, to należy wykazać tylko te mieszkania, które w nim ubyły w danym kwartale.
+## Załącznik nr 2 — – Zakres informacji, które powinien zawierać elektroniczny wykaz ubytków zasobów mieszkaniowych oraz obiektów zbiorowego zakwaterowania w danym kwartalea)W wykazie należy ująć faktyczne ubytki mieszkań i obiektów zbiorowego zakwaterowania na podstawie zgłoszeń o rozbiórkach obiektów budowlanych, decyzji o nakazie przymusowej rozbiórki, wydanych zezwoleń na zmianę sposobu użytkowania budynku mieszkalnego lub mieszkania na cele inne niż mieszkalne, wydanych decyzji o nakazie rozbiórki obiektów budowlanych nieużytkowanych, zniszczonych lub niewykończonych, nienadających się do remontu, odbudowy lub wykończenia; jeżeli budynek wielomieszkaniowy podlega likwidacji łącznie z wykwaterowaniem lokatorów w dłuższym okresie czasu, to należy wykazać tylko te mieszkania, które w nim ubyły w danym kwartale.
 
-b) Do obiektów zbiorowego zakwaterowania należą: internaty, bursy, domy studenckie i akademickie, hotele pracownicze, asystenckie, komunalne i turystyczne, motele, domy wczasowe i schroniska turystyczne, placówki opiekuńczo-wychowawcze, zakłady wychowawcze, żłobki i przedszkola tygodniowe, domy rencistów, zakłady (domy) pomocy społecznej, szpitale, sanatoria, klasztory, domy zakonne i tym podobne obiekty.
+b)Do obiektów zbiorowego zakwaterowania należą: internaty, bursy, domy studenckie i akademickie, hotele pracownicze, asystenckie, komunalne i turystyczne, motele, domy wczasowe i schroniska turystyczne, placówki opiekuńczo-wychowawcze, zakłady wychowawcze, żłobki i przedszkola tygodniowe, domy rencistów, zakłady (domy) pomocy społecznej, szpitale, sanatoria, klasztory, domy zakonne i tym podobne obiekty.
 I.
 Dane dotyczące jednostki sporządzającej wykaz:
 1.
@@ -154,6 +146,5 @@ Przyczyna ubytku: 1 – zły stan techniczny; 2 – zajęcie terenu pod inwestyc
 10.
 Adres dodatkowy
 11.
-Nazwa obiektu zbiorowego zakwaterowania (jeżeli dotyczy).
-a) W wykazie należy ująć faktyczne ubytki mieszkań i obiektów zbiorowego zakwaterowania na podstawie zgłoszeń o rozbiórkach obiektów budowlanych, decyzji o nakazie przymusowej rozbiórki, wydanych zezwoleń na zmianę sposobu użytkowania budynku mieszkalnego lub mieszkania na cele inne niż mieszkalne, wydanych decyzji o nakazie rozbiórki obiektów budowlanych nieużytkowanych, zniszczonych lub niewykończonych, nienadających się do remontu, odbudowy lub wykończenia; jeżeli budynek wielomieszkaniowy podlega likwidacji łącznie z wykwaterowaniem lokatorów w dłuższym okresie czasu, to należy wykazać tylko te mieszkania, które w nim ubyły w danym kwartale. b) Do obiektów zbiorowego zakwaterowania należą: internaty, bursy, domy studenckie i akademickie, hotele pracownicze, asystenckie, komunalne i turystyczne, motele, domy wczasowe i schroniska turystyczne, placówki opiekuńczo-wychowawcze, zakłady wychowawcze, żłobki i przedszkola tygodniowe, domy rencistów, zakłady (domy) pomocy społecznej, szpitale, sanatoria, klasztory, domy zakonne i tym podobne obiekty.
+Nazwa obiektu zbiorowego zakwaterowania (jeżeli dotyczy). a) W wykazie należy ująć faktyczne ubytki mieszkań i obiektów zbiorowego zakwaterowania na podstawie zgłoszeń o rozbiórkach obiektów budowlanych, decyzji o nakazie przymusowej rozbiórki, wydanych zezwoleń na zmianę sposobu użytkowania budynku mieszkalnego lub mieszkania na cele inne niż mieszkalne, wydanych decyzji o nakazie rozbiórki obiektów budowlanych nieużytkowanych, zniszczonych lub niewykończonych, nienadających się do remontu, odbudowy lub wykończenia; jeżeli budynek wielomieszkaniowy podlega likwidacji łącznie z wykwaterowaniem lokatorów w dłuższym okresie czasu, to należy wykazać tylko te mieszkania, które w nim ubyły w danym kwartale. b) Do obiektów zbiorowego zakwaterowania należą: internaty, bursy, domy studenckie i akademickie, hotele pracownicze, asystenckie, komunalne i turystyczne, motele, domy wczasowe i schroniska turystyczne, placówki opiekuńczo-wychowawcze, zakłady wychowawcze, żłobki i przedszkola tygodniowe, domy rencistów, zakłady (domy) pomocy społecznej, szpitale, sanatoria, klasztory, domy zakonne i tym podobne obiekty.
 

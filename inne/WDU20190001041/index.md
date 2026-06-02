@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-31 |
 | Data wydania | 2019-06-05 |
-| Wejście w życie | 2019-06-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001041) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1041/text.pdf) |
 
@@ -47,8 +46,7 @@ przygotowywanie, w porozumieniu z administratorem, dla osób, które uczestnicz�
 a)
 cyklicznych lub organizowanych w zależności od bieżących potrzeb instruktaży i kursów, w tym z wykorzystaniem technologii informatycznych, które składają się z zajęć teoretycznych i praktycznych,
 b)
-samokształcenia kierowanego, w tym z wykorzystaniem technologii informatycznych lub w celu realizacji samokształcenia online, przy jednoczesnym zapewnieniu konsultacji oraz udostępnieniu materiałów
-umożliwiających uzyskanie, aktualizowanie lub uzupełnianie wiedzy i umiejętności w zakresie przetwarzania danych osobowych oraz obowiązujących przepisów o ochronie danych osobowych.
+samokształcenia kierowanego, w tym z wykorzystaniem technologii informatycznych lub w celu realizacji samokształcenia online, przy jednoczesnym zapewnieniu konsultacji oraz udostępnieniu materiałów – umożliwiających uzyskanie, aktualizowanie lub uzupełnianie wiedzy i umiejętności w zakresie przetwarzania danych osobowych oraz obowiązujących przepisów o ochronie danych osobowych.
 § 5.
 1.
 Inspektor ochrony danych realizuje zadanie, o którym mowa w art. 47 ust. 1 pkt 3 ustawy, przez gromadzenie informacji uzyskanych od administratora lub osób odpowiedzialnych za bezpieczeństwo przetwarzanych danych osobowych na temat procesów przetwarzania danych osobowych w celu ich identyfikacji, analizę tych informacji oraz ich ocenę pod kątem zgodności przetwarzania danych osobowych przez administratora oraz osoby zajmujące się przetwarzaniem danych osobowych z przepisami o ochronie danych osobowych, a także z zaleceniami w zakresie oceny skutków dla ochrony danych osobowych, w tym wydanymi przez Prezesa Urzędu w ramach uprzednich konsultacji. W przypadku stwierdzenia nieprawidłowości w tym zakresie inspektor ochrony danych przekazuje administratorowi pisemne rekomendacje dotyczące podjęcia określonych działań.

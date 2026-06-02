@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-26 |
 | Data wydania | 2018-12-07 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2287/text.pdf) |
 
@@ -56,5 +55,5 @@ Dane, o których mowa w ust. 2 pkt 1, 2, 5 i 6, są udostępniane na każdej str
 § 3.
 Weryfikacja dokumentu nie wymaga uwierzytelnienia w systemie teleinformatycznym.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 7 września 2016 r. w sprawie sposobu i cech umożliwiających weryfikację istnienia i treści pisma w systemie teleinformatycznym obsługującym postępowanie egzekucyjne prowadzone przez komornika (Dz. U. poz. 1421), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 7 września 2016 r. w sprawie sposobu i cech umożliwiających weryfikację istnienia i treści pisma w systemie teleinformatycznym obsługującym postępowanie egzekucyjne prowadzone przez komornika (Dz. U. poz. 1421), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244).
 

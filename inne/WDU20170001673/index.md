@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-28 |
 | Data wydania | 2017-09-01 |
-| Wejście w życie | 2017-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001673) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1673/text.pdf) |
 
@@ -37,11 +36,9 @@ w § 1 wyrazy „Agencji Rynku Rolnego” zastępuje się wyrazami „Agencji Re
 3)
 w § 8 w ust. 1 wyraz „terenowego” zastępuje się wyrazem „regionalnego”;
 4)
-§ 11 otrzymuje brzmienie:
-„
+§ 11 otrzymuje brzmienie: „
 § 11.
-Środki finansowe z tytułu wsparcia Agencja wypłaca w terminie określonym w art. 1 ust. 1 rozporządzenia 2015/1853.
-” .
+Środki finansowe z tytułu wsparcia Agencja wypłaca w terminie określonym w art. 1 ust. 1 rozporządzenia 2015/1853. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

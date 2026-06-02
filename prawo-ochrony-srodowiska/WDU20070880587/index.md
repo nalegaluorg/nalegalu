@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 kwietnia 2007 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw
+# Ustawaz dnia 26 kwietnia 2007 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw Przepisy niniejszej ustawy:
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-04-26 |
 | Data wydania | 2007-05-18 |
-| Wejście w życie | 2007-08-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070880587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/587/text.pdf) |
 
+wdrażają postanowieniadyrektywy 2004/107/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie arsenu, kadmu, rtęci, niklu i wielopierścieniowych węglowodorów aromatycznych w otaczającym powietrzu(Dz. Urz. UE L 23 z 26.01.2005, str. 3);
 2)
-wykonują postanowienia rozporządzenia (WE) nr 166/2006 Parlamentu Europejskiego i Rady z dnia 18 stycznia 2006 r. w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającego dyrektywę Rady 91/689/EWG i 96/61/WE (Dz. Urz. UE L 33 z 04.02.2006, str. 1).
-Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 27 kwietnia 2001 r. o odpadach, ustawę z dnia 18 lipca 2001 r. – Prawo wodne, ustawę z dnia 18 maja 2005 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw, ustawę z dnia 30 czerwca 2005 r. o finansach publicznych oraz ustawę z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej.
+wykonują postanowienia rozporządzenia (WE) nr 166/2006 Parlamentu Europejskiego i Rady z dnia 18 stycznia 2006 r. w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającego dyrektywę Rady 91/689/EWG i 96/61/WE (Dz. Urz. UE L 33 z 04.02.2006, str. 1). Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 27 kwietnia 2001 r. o odpadach, ustawę z dnia 18 lipca 2001 r. – Prawo wodne, ustawę z dnia 18 maja 2005 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw, ustawę z dnia 30 czerwca 2005 r. o finansach publicznych oraz ustawę z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej.
+Krajowy Rejestr Uwalniania i Transferu Zanieczyszczeń
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2006 r. Nr 129, poz. 902, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2006 r. Nr 129, poz. 902, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 169, poz. 1199, Nr 170, poz. 1217 i Nr 249, poz. 1832 oraz z 2007 r. Nr 21, poz. 124 i Nr 75, poz. 493.) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: w pkt 20 lit. a i b otrzymują brzmienie: „ przedsiębiorcę w rozumieniu art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.), a także osoby prowadzące działalność wytwórczą w rolnictwie w zakresie upraw rolnych, chowu lub hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa i rybactwa śródlądowego oraz osoby wykonujące zawód medyczny w ramach indywidualnej praktyki lub indywidualnej specjalistycznej praktyki, jednostkę organizacyjną niebędącą przedsiębiorcą w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ” , pkt 28 otrzymuje brzmienie: „
+- **1)** w art. 3: w pkt 20 lit. a i b otrzymują brzmienie: „ przedsiębiorcę w rozumieniu art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121, Nr 171, poz. 1225 i Nr 235, poz. 1699.), a także osoby prowadzące działalność wytwórczą w rolnictwie w zakresie upraw rolnych, chowu lub hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa i rybactwa śródlądowego oraz osoby wykonujące zawód medyczny w ramach indywidualnej praktyki lub indywidualnej specjalistycznej praktyki, jednostkę organizacyjną niebędącą przedsiębiorcą w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ” , pkt 28 otrzymuje brzmienie: „
     - **a)**
     - **a)**
     - **b)**
@@ -63,9 +63,22 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 
 1a. Organy Inspekcji Ochrony Środowiska udostępniają nieodpłatnie organom Państwowej Inspekcji Sanitarnej, gromadzone w ramach państwowego monitoringu środowiska, dane zawierające wyniki pomiarów, o których mowa w art. 90 ust. 1. ” ;
 
-- **6)** w art. 30: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) wyników pomiarów, o których mowa w art. 90 ust. 1, ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) programów ochrony powietrza, o których mowa w art. 91 ust. 3 i 5, ” , – pkt 3 otrzymuje brzmienie: „ 3) planów działań krótkoterminowych, o których mowa w art. 92 ust. 1, ” , – pkt 6 otrzymuje brzmienie: „ 6) map akustycznych, o których mowa w art. 118 ust. 1, ” , – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) map akustycznych, o których mowa w art. 179 ust. 1, ” , – pkt 7 otrzymuje brzmienie: „ 7) terenów, o których mowa w art. 118 ust. 6, ” , – po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) programów ochrony środowiska przed hałasem, o których mowa w art. 119 ust. 1, ” , w ust. 2: – pkt 1 i 2 otrzymują brzmienie: „ 1) wojewoda – w zakresie informacji, o których mowa w ust. 1 pkt 2a i 3, oraz, z zastrzeżeniem pkt 2, w zakresie informacji, o których mowa w ust. 1 pkt 6, 7 i 7a; 2) starosta – w zakresie informacji, o których mowa w ust. 1 pkt 4 i 5, oraz, gdy dotyczy to terenów, o których mowa w art. 117 ust. 2 pkt 1 i ust. 3, w zakresie informacji, o których mowa w ust. 1 pkt 6, 7 i 7a; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „ 5) zarządzający drogą, linią kolejową lub lotniskiem – w zakresie informacji, o których mowa w ust. 1 pkt 6a; 6) zarządzający drogą, linią kolejową, linią tramwajową, lotniskiem lub portem – w zakresie informacji, o których mowa w ust. 1 pkt 11. ” , w ust. 2a pkt 2 otrzymuje brzmienie: „
+- **6)** w art. 30: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** wyników pomiarów, o których mowa w art. 90 ust. 1, ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** programów ochrony powietrza, o których mowa w art. 91 ust. 3 i 5, ” , pkt 3 otrzymuje brzmienie: „
+- **3)** planów działań krótkoterminowych, o których mowa w art. 92 ust. 1, ” , pkt 6 otrzymuje brzmienie: „
+- **6)** map akustycznych, o których mowa w art. 118 ust. 1, ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **6a)** map akustycznych, o których mowa w art. 179 ust. 1, ” , pkt 7 otrzymuje brzmienie: „
+- **7)** terenów, o których mowa w art. 118 ust. 6, ” , po pkt 7 dodaje się pkt 7a w brzmieniu: „
+- **7a)** programów ochrony środowiska przed hałasem, o których mowa w art. 119 ust. 1, ” , w ust. 2: pkt 1 i 2 otrzymują brzmienie: „
     - **b)**
+
+- **1)** wojewoda – w zakresie informacji, o których mowa w ust. 1 pkt 2a i 3, oraz, z zastrzeżeniem pkt 2, w zakresie informacji, o których mowa w ust. 1 pkt 6, 7 i 7a;
+- **2)** starosta – w zakresie informacji, o których mowa w ust. 1 pkt 4 i 5, oraz, gdy dotyczy to terenów, o których mowa w art. 117 ust. 2 pkt 1 i ust. 3, w zakresie informacji, o których mowa w ust. 1 pkt 6, 7 i 7a; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
+- **5)** zarządzający drogą, linią kolejową lub lotniskiem – w zakresie informacji, o których mowa w ust. 1 pkt 6a;
+- **6)** zarządzający drogą, linią kolejową, linią tramwajową, lotniskiem lub portem – w zakresie informacji, o których mowa w ust. 1 pkt 11. ” , w ust. 2a pkt 2 otrzymuje brzmienie: „
     - **c)**
 
 - **2)** przez Głównego Inspektora Ochrony Środowiska: Krajowy Rejestr Uwalniania i Transferu Zanieczyszczeń, o którym mowa w art. 236a ust. 1, raporty o stanie środowiska w Polsce, o których mowa w art. 25b ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska; ” ;
@@ -87,7 +100,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 - **10)** w art. 41 w ust. 2 pkt 4–6 otrzymują brzmienie: „
 - **4)** określać, analizować i oceniać istniejące problemy ochrony środowiska istotne z punktu widzenia projektowanego dokumentu, w szczególności dotyczące obszarów podlegających ochronie na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
 - **5)** określać, analizować i oceniać cele ochrony środowiska ustanowione na szczeblu międzynarodowym, wspólnotowym i krajowym, istotne z punktu widzenia projektowanego dokumentu, oraz sposoby, w jakich te cele i inne problemy środowiska zostały uwzględnione podczas opracowywania dokumentu;
-- **6)** określać, analizować i oceniać przewidywane znaczące oddziaływania, w tym oddziaływania bezpośrednie, pośrednie, wtórne, skumulowane, krótkoterminowe, średnioterminowe i długoterminowe, stałe i chwilowe oraz pozytywne i negatywne, na środowisko, a w szczególności na: różnorodność biologiczną, ludzi, zwierzęta, rośliny, wodę, powietrze, powierzchnię ziemi, krajobraz, klimat, zasoby naturalne, zabytki z uwzględnieniem zależności między tymi elementami środowiska i między oddziaływaniami na te elementy; ” ;
+- **6)** określać, analizować i oceniać przewidywane znaczące oddziaływania, w tym oddziaływania bezpośrednie, pośrednie, wtórne, skumulowane, krótkoterminowe, średnioterminowe i długoterminowe, stałe i chwilowe oraz pozytywne i negatywne, na środowisko, a w szczególności na: różnorodność biologiczną, ludzi, zwierzęta, rośliny, wodę, powietrze, powierzchnię ziemi, krajobraz, klimat, zasoby naturalne, zabytki – z uwzględnieniem zależności między tymi elementami środowiska i między oddziaływaniami na te elementy; ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -103,17 +116,23 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 - **11)** w art. 45: pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** państwowy wojewódzki inspektor sanitarny w odniesieniu do pozostałych postępowań, z wyłączeniem postępowań dotyczących miejscowych planów zagospodarowania przestrzennego; ” , dodaje się pkt 3 w brzmieniu: „
+- **2)** państwowy wojewódzki inspektor sanitarny – w odniesieniu do pozostałych postępowań, z wyłączeniem postępowań dotyczących miejscowych planów zagospodarowania przestrzennego; ” , dodaje się pkt 3 w brzmieniu: „
     - **b)**
 
-- **3)** państwowy powiatowy inspektor sanitarny w odniesieniu do postępowań dotyczących miejscowych planów zagospodarowania przestrzennego. ” ;
+- **3)** państwowy powiatowy inspektor sanitarny – w odniesieniu do postępowań dotyczących miejscowych planów zagospodarowania przestrzennego. ” ;
 - **12)** w art. 46: po ust. 1a dodaje się ust. 1b w brzmieniu: „
     - **a)**
 
-1b. W przypadku przedsięwzięcia polegającego na przebudowie drogi, będącego przedsięwzięciem mogącym znacząco oddziaływać na środowisko, o którym mowa w art. 51 ust. 1 pkt 1, decyzję o środowiskowych uwarunkowaniach wydaje się dla całego przedsięwzięcia realizowanego w granicach województwa. ” , w ust. 4: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) decyzji o warunkach zabudowy dla przedsięwzięcia polegającego na zalesieniu – na podstawie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) decyzji określającej szczegółowe warunki wydobywania kopaliny – na podstawie art. 10 ust. 2 ustawy z dnia 27 lipca 2001 r. o zmianie ustawy – Prawo geologiczne i górnicze; ” , – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) dla planowanego przedsięwzięcia, które może znacząco oddziaływać na obszar Natura 2000 i nie jest bezpośrednio związane z ochroną tego obszaru lub nie wynika z tej ochrony: a) decyzji uzgadniającej warunki rekultywacji – na podstawie art. 106 ust. 2, b) decyzji w sprawie rekultywacji i zagospodarowania – na podstawie ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.), c) decyzji w sprawie zgody na przeznaczenie gruntów rolnych i leśnych na cele nierolnicze i nieleśne – na podstawie ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych; ” , ust. 4b otrzymuje brzmienie: „
+1b. W przypadku przedsięwzięcia polegającego na przebudowie drogi, będącego przedsięwzięciem mogącym znacząco oddziaływać na środowisko, o którym mowa w art. 51 ust. 1 pkt 1, decyzję o środowiskowych uwarunkowaniach wydaje się dla całego przedsięwzięcia realizowanego w granicach województwa. ” , w ust. 4: po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
 - **b)**
-- **c)**
+- **1a)** decyzji o warunkach zabudowy dla przedsięwzięcia polegającego na zalesieniu – na podstawie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** decyzji określającej szczegółowe warunki wydobywania kopaliny – na podstawie art. 10 ust. 2 ustawy z dnia 27 lipca 2001 r. o zmianie ustawy – Prawo geologiczne i górnicze; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **6a)** dla planowanego przedsięwzięcia, które może znacząco oddziaływać na obszar Natura 2000 i nie jest bezpośrednio związane z ochroną tego obszaru lub nie wynika z tej ochrony: decyzji uzgadniającej warunki rekultywacji – na podstawie art. 106 ust. 2, decyzji w sprawie rekultywacji i zagospodarowania – na podstawie ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63 oraz z 2007 r. Nr 75, poz. 493 i Nr 80, poz. 541.), decyzji w sprawie zgody na przeznaczenie gruntów rolnych i leśnych na cele nierolnicze i nieleśne – na podstawie ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych; ” , ust. 4b otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **c)**
 
 4b. Decyzję o środowiskowych uwarunkowaniach dołącza się do wniosku o wydanie decyzji, o której mowa w ust. 4, oraz do zgłoszenia, o którym mowa w ust. 4a; złożenie wniosku albo dokonanie zgłoszenia powinno nastąpić nie później niż przed upływem czterech lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna. ” , po ust 4e dodaje się ust. 4f w brzmieniu: „
 
@@ -121,9 +140,13 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 
 4f. Jeżeli na terenie, na którym realizowane jest przedsięwzięcie, dla którego została wydana jedna z decyzji określonych w ust. 4 lub dokonano zgłoszenia, o którym mowa w ust. 4a, został wyznaczony obszar Natura 2000, uprawniony podmiot powinien złożyć, w terminie 6 miesięcy od dnia wyznaczenia tego obszaru, wniosek o wydanie decyzji o środowiskowych uwarunkowaniach w zakresie oddziaływania na obszar Natura 2000. ” ;
 
-- **13)** w art. 46a: uchyla się ust. 3, w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) poświadczoną przez właściwy organ kopię mapy ewidencyjnej obejmującej przewidywany teren, na którym będzie realizowane przedsięwzięcie, wraz z terenem działek sąsiednich; ” , – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „ 3) w postępowaniu dotyczącym przedsięwzięć określonych w art. 51 ust. 1 pkt 1 – raport o oddziaływaniu przedsięwzięcia na środowisko, w trzech egzemplarzach, wraz z jego zapisem w formie elektronicznej na informatycznych nośnikach danych; 4) w postępowaniu dotyczącym przedsięwzięć określonych w art. 51 ust. 1 pkt 2 i 3 – informacje zawierające dane, o których mowa w art. 49 ust. 3, w trzech egzemplarzach, wraz z ich zapisem w formie elektronicznej na informatycznych nośnikach danych. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **13)** w art. 46a: uchyla się ust. 3, w ust. 4: pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **1)** poświadczoną przez właściwy organ kopię mapy ewidencyjnej obejmującej przewidywany teren, na którym będzie realizowane przedsięwzięcie, wraz z terenem działek sąsiednich; ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „
+- **3)** w postępowaniu dotyczącym przedsięwzięć określonych w art. 51 ust. 1 pkt 1 – raport o oddziaływaniu przedsięwzięcia na środowisko, w trzech egzemplarzach, wraz z jego zapisem w formie elektronicznej na informatycznych nośnikach danych;
+- **4)** w postępowaniu dotyczącym przedsięwzięć określonych w art. 51 ust. 1 pkt 2 i 3 – informacje zawierające dane, o których mowa w art. 49 ust. 3, w trzech egzemplarzach, wraz z ich zapisem w formie elektronicznej na informatycznych nośnikach danych. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **c)**
 
 4a. Przepisu ust. 4 pkt 2 nie stosuje się do wniosku o wydanie decyzji o środowiskowych uwarunkowaniach dla drogi krajowej. ” , po ust. 7 dodaje się ust. 7a w brzmieniu: „
@@ -132,7 +155,10 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 
 7a. W przypadku przedsięwzięcia, o którym mowa w ust. 7 pkt 4, realizowanego przez gminę decyzję o środowiskowych uwarunkowaniach wydaje wójt, burmistrz lub prezydent miasta, na którego obszarze właściwości przedsięwzięcie jest realizowane. ” ;
 
-- **14)** w art. 48: w ust. 2: – pkt 1a otrzymuje brzmienie: „ 1a) w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a – z organem, o którym mowa w art. 57; ” , – w pkt 3 lit. a otrzymuje brzmienie: „ a) będących przedsięwzięciami, o których mowa w art. 51 ust. 1 pkt 1–2 – z wojewodą, a na obszarach morskich z dyrektorem urzędu morskiego, a także, jeżeli przedsięwzięcia te wymagają decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a – z organem, o którym mowa w art. 57, ” , – uchyla się pkt 4, dodaje się ust. 4 i 5 w brzmieniu: „
+- **14)** w art. 48: w ust. 2: pkt 1a otrzymuje brzmienie: „
+    - **a)**
+
+- **1a)** w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a – z organem, o którym mowa w art. 57; ” , w pkt 3 lit. a otrzymuje brzmienie: „ będących przedsięwzięciami, o których mowa w art. 51 ust. 1 pkt 1–2 – z wojewodą, a na obszarach morskich z dyrektorem urzędu morskiego, a także, jeżeli przedsięwzięcia te wymagają decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a – z organem, o którym mowa w art. 57, ” , – uchyla się pkt 4, dodaje się ust. 4 i 5 w brzmieniu: „
     - **a)**
     - **b)**
 
@@ -140,8 +166,11 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 
 5. Przepisu ust. 3 pkt 3 nie stosuje się do uzgodnień warunków realizacji przedsięwzięcia dla drogi krajowej. ” ;
 
-- **15)** w art. 49: w ust. 5: – pkt 1 otrzymuje brzmienie: „ 1) wojewody; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) organu, o którym mowa w art. 57, w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a; ” , – uchyla się pkt 3, po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
+- **15)** w art. 49: w ust. 5: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** wojewody; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** organu, o którym mowa w art. 57, w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a; ” , – uchyla się pkt 3, po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
     - **b)**
 
 5a. Opinię, o której mowa w ust. 5, wydaje się w terminie 14 dni od dnia otrzymania wniosku o wydanie opinii.
@@ -153,7 +182,12 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
     - **a)**
 
 - **2)** planowane przedsięwzięcia mogące znacząco oddziaływać na środowisko, dla których obowiązek może być stwierdzony na podstawie ust. 2;
-- **3)** planowane przedsięwzięcia mogące znacząco oddziaływać na obszar Natura 2000, dla których obowiązek może być stwierdzony na podstawie ust. 2 ” , w ust. 3: – pkt 2 i 3 otrzymują brzmienie: „ 2) organu, o którym mowa w art. 57, w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a; 3) w przypadku przedsięwzięć, które mogą znacząco oddziaływać na obszar Natura 2000 i nie są bezpośrednio związane z ochroną tego obszaru lub nie wynikają z tej ochrony, będących przedsięwzięciami, o których mowa w ust. 1 pkt 2: a) wojewody, a na obszarach morskich dyrektora urzędu morskiego, b) organu, o którym mowa w art. 57 – jeżeli przedsięwzięcia te wymagają decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a; ” , – uchyla się pkt 5, ust. 4 otrzymuje brzmienie: „
+- **3)** planowane przedsięwzięcia mogące znacząco oddziaływać na obszar Natura 2000, dla których obowiązek może być stwierdzony na podstawie ust. 2 ” , w ust. 3: pkt 2 i 3 otrzymują brzmienie: „
+    - **b)**
+
+- **2)** organu, o którym mowa w art. 57, w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a;
+- **3)** w przypadku przedsięwzięć, które mogą znacząco oddziaływać na obszar Natura 2000 i nie są bezpośrednio związane z ochroną tego obszaru lub nie wynikają z tej ochrony, będących przedsięwzięciami, o których mowa w ust. 1 pkt 2: wojewody, a na obszarach morskich dyrektora urzędu morskiego, organu, o którym mowa w art. 57 – jeżeli przedsięwzięcia te wymagają decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a; ” , – uchyla się pkt 5, ust. 4 otrzymuje brzmienie: „
+    - **a)**
     - **b)**
     - **c)**
 
@@ -169,7 +203,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 4b. W przypadku przedsięwzięć:
 
 - **1)** o których mowa w ust. 1 pkt 2, wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 3–7,
-- **2)** o których mowa w ust. 1 pkt 3 odpowiednio starosta albo wojewoda, a na obszarach morskich dyrektor urzędu morskiego, wydając opinię w sprawie braku potrzeby sporządzenia raportu, jednocześnie uzgadnia warunki realizacji przedsięwzięcia, w trybie art. 48 ust. 2.
+- **2)** o których mowa w ust. 1 pkt 3 – odpowiednio starosta albo wojewoda, a na obszarach morskich dyrektor urzędu morskiego, wydając opinię w sprawie braku potrzeby sporządzenia raportu, jednocześnie uzgadnia warunki realizacji przedsięwzięcia, w trybie art. 48 ust. 2.
 
 4c. Opinię, o której mowa w ust. 3, wydaje się w terminie 14 dni od dnia otrzymania wniosku o wydanie opinii.
 
@@ -181,8 +215,12 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 
 - **f)**
 - **1)** rodzaje przedsięwzięć mogących znacząco oddziaływać na środowisko, wymagających sporządzenia raportu o oddziaływaniu na środowisko, oraz rodzaje przedsięwzięć, dla których obowiązek sporządzenia raportu może być wymagany, w tym przypadki, gdy zmiany dokonywane w obiektach są kwalifikowane jako takie przedsięwzięcia, biorąc pod uwagę rodzaj działalności, wielkość produkcji i inne parametry techniczne, a także charakterystykę przedsięwzięcia, wielkość emisji, usytuowanie oraz rodzaj i skalę jego oddziaływania na środowisko; ” ;
-- **18)** w art. 52: w ust. 1: – uchyla się pkt 4a, – pkt 7a otrzymuje brzmienie: „ 7a) dla dróg będących przedsięwzięciami mogącymi znacząco oddziaływać na środowisko, o których mowa w art. 51 ust. 1 pkt 1: a) określenie założeń do: – ratowniczych badań zidentyfikowanych zabytków znajdujących się na obszarze planowanego przedsięwzięcia, odkrywanych w trakcie robót budowlanych, – programu zabezpieczenia istniejących zabytków przed negatywnym oddziaływaniem planowanego przedsięwzięcia oraz ochrony krajobrazu kulturowego, b) analizę i ocenę możliwych zagrożeń i szkód dla zabytków chronionych na podstawie przepisów o ochronie zabytków i opiece nad zabytkami, w szczególności zabytków archeologicznych, w obrębie terenu, na którym ma być realizowane przedsięwzięcie; ” , po ust. 1c dodaje się ust. 1d w brzmieniu: „
+- **18)** w art. 52: w ust. 1: – uchyla się pkt 4a, pkt 7a otrzymuje brzmienie: „
     - **a)**
+
+- **7a)** dla dróg będących przedsięwzięciami mogącymi znacząco oddziaływać na środowisko, o których mowa w art. 51 ust. 1 pkt 1: określenie założeń do: – ratowniczych badań zidentyfikowanych zabytków znajdujących się na obszarze planowanego przedsięwzięcia, odkrywanych w trakcie robót budowlanych, – programu zabezpieczenia istniejących zabytków przed negatywnym oddziaływaniem planowanego przedsięwzięcia oraz ochrony krajobrazu kulturowego, analizę i ocenę możliwych zagrożeń i szkód dla zabytków chronionych na podstawie przepisów o ochronie zabytków i opiece nad zabytkami, w szczególności zabytków archeologicznych, w obrębie terenu, na którym ma być realizowane przedsięwzięcie; ” , po ust. 1c dodaje się ust. 1d w brzmieniu: „
+    - **a)**
+    - **b)**
     - **b)**
 
 1d. Dla przedsięwzięć polegających na przebudowie drogi oraz dla dróg, dla których została wydana decyzja, o której mowa w art. 46 ust. 4 pkt 8 lub 9, informacje, o których mowa w ust. 1 pkt 3–4 i pkt 5, nie dotyczą wariantów lokalizacyjnych planowanego przedsięwzięcia. ” ;
@@ -330,8 +368,12 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 
 3. Minister właściwy do spraw środowiska, biorąc pod uwagę substancje, których poziom w powietrzu podlega ocenie, określi, w drodze rozporządzenia, strefy, o których mowa w ust. 2 pkt 2, z uwzględnieniem ich nazw i kodów. ” ;
 
-- **34)** w art. 88: w ust. 2: – po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „ 1a) przekroczone są poziomy docelowe; 1b) przekroczone są poziomy celów długoterminowych; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) poziom substancji nie przekracza poziomu docelowego i jest wyższy od górnego progu oszacowania; ” , ust. 3 otrzymuje brzmienie: „
+- **34)** w art. 88: w ust. 2: po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „
     - **a)**
+
+- **1a)** przekroczone są poziomy docelowe;
+- **1b)** przekroczone są poziomy celów długoterminowych; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** poziom substancji nie przekracza poziomu docelowego i jest wyższy od górnego progu oszacowania; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Górny oraz dolny próg oszacowania oznacza procentową część dopuszczalnego albo docelowego poziomu substancji w powietrzu. ” ;
@@ -361,8 +403,17 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 3. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw zdrowia, kierując się potrzebą ujednolicenia zasad dokonywania oceny jakości powietrza w strefach, określi, w drodze rozporządzenia:
 
 - **1)** metody i zakres dokonywania oceny poziomów substancji w powietrzu;
-- **2)** górne i dolne progi oszacowania dla niektórych substancji w powietrzu. ” , w ust. 4: – pkt 1–3 otrzymują brzmienie: „ 1) zakresy wymaganych pomiarów, z podziałem na pomiary ciągłe oraz okresowe; 2) kryteria lokalizacji punktów poboru próbek substancji; 3) minimalna liczba stałych punktów pomiarowych; ” , – uchyla się pkt 4, – pkt 5 otrzymuje brzmienie: „ 5) przypadki, gdy ocena jakości powietrza: a) powinna być dokonywana metodami pomiarowymi, b) może być dokonywana: – przy zastosowaniu kombinacji metod pomiarowych i metod modelowania, – metodami modelowania lub innymi metodami szacowania; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) wymagania dotyczące jakości pomiarów i zakresu dokumentacji dotyczącej uzasadnienia lokalizacji punktów pomiarowych. ” , dodaje się ust. 6 w brzmieniu: „
+- **2)** górne i dolne progi oszacowania dla niektórych substancji w powietrzu. ” , w ust. 4: pkt 1–3 otrzymują brzmienie: „
     - **d)**
+
+- **1)** zakresy wymaganych pomiarów, z podziałem na pomiary ciągłe oraz okresowe;
+- **2)** kryteria lokalizacji punktów poboru próbek substancji;
+- **3)** minimalna liczba stałych punktów pomiarowych; ” , – uchyla się pkt 4, pkt 5 otrzymuje brzmienie: „
+- **5)** przypadki, gdy ocena jakości powietrza: powinna być dokonywana metodami pomiarowymi, może być dokonywana: – przy zastosowaniu kombinacji metod pomiarowych i metod modelowania, – metodami modelowania lub innymi metodami szacowania; ” , w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **7)** wymagania dotyczące jakości pomiarów i zakresu dokumentacji dotyczącej uzasadnienia lokalizacji punktów pomiarowych. ” , dodaje się ust. 6 w brzmieniu: „
     - **e)**
 
 6. Główny Inspektor Ochrony Środowiska:
@@ -467,8 +518,8 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 
 1. Prowadzący instalację oraz użytkownik urządzenia są obowiązani zapewnić wykonanie pomiarów wielkości emisji lub innych warunków korzystania ze środowiska przez:
 
-- **1)** akredytowane laboratorium w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.) lub
-- **2)** laboratorium posiadające uprawnienia do badania właściwości fizykochemicznych, toksyczności i ekotoksyczności substancji i preparatów nadane w trybie ustawy z dnia 11 stycznia 2001 r. o substancjach i preparatach chemicznych (Dz. U. Nr 11, poz. 84, z późn. zm.) w zakresie badań, do których wykonywania są obowiązani. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **1)** akredytowane laboratorium w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258, z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834 oraz z 2007 r. Nr 21, poz. 124.) lub
+- **2)** laboratorium posiadające uprawnienia do badania właściwości fizykochemicznych, toksyczności i ekotoksyczności substancji i preparatów nadane w trybie ustawy z dnia 11 stycznia 2001 r. o substancjach i preparatach chemicznych (Dz. U. Nr 11, poz. 84, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1085, Nr 123, poz. 1350 i Nr 125, poz. 1367, z 2002 r. Nr 135, poz. 1145 i Nr 142, poz. 1187, z 2003 r. Nr 189, poz. 1852, z 2004 r. Nr 96, poz. 959 i Nr 121, poz. 1263, z 2005 r. Nr 179, poz. 1485 oraz z 2006 r. Nr 171, poz. 1225.) – w zakresie badań, do których wykonywania są obowiązani. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **b)**
 
 1a. Prowadzący instalację oraz użytkownik urządzenia, posiadający certyfikat systemu zarządzania jakością, mogą wykonywać pomiary wielkości emisji lub innych warunków korzystania ze środowiska, do których wykonywania są obowiązani, we własnym laboratorium, pod warunkiem że laboratorium to jest również objęte systemem zarządzania jakością.
@@ -476,7 +527,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 1b. Przepisów ust. 1 i la nie stosuje się do wykonywania pomiarów:
 
 - **1)** ilości pobieranej wody, do których są obowiązani prowadzący instalację oraz użytkownik urządzenia;
-- **2)** wielkości emisji, do których jest obowiązana służba radiokomunikacyjna amatorska w rozumieniu art. 2 pkt 37 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.). ” ;
+- **2)** wielkości emisji, do których jest obowiązana służba radiokomunikacyjna amatorska w rozumieniu art. 2 pkt 37 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834 oraz z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556.). ” ;
 - **48)** w art. 148 ust. 1 otrzymuje brzmienie: „
 
 1. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wymagania w zakresie prowadzenia pomiarów wielkości emisji, o których mowa w art. 147 ust. 1 i 2, oraz pomiarów ilości pobieranej wody, o których mowa w art. 147 ust. 1. ” ;
@@ -559,7 +610,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 
 - **62)** w tytule III po dziale IV dodaje się dział IVa w brzmieniu: „
 
-### Dział IVa Krajowy Rejestr Uwalniania i Transferu Zanieczyszczeń
+### Dział IVa
 
 **Art. 236a.**
 
@@ -675,19 +726,19 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 
 **Art. 32a.** Decyzja zatwierdzająca program gospodarki odpadami niebezpiecznymi oraz zezwolenia na prowadzenie działalności w zakresie zbierania, odzysku lub unieszkodliwiania odpadów wygasają w części dotyczącej pozwolenia zintegrowanego z chwilą upływu terminu, w którym prowadzący instalację powinien uzyskać pozwolenie zintegrowane, chyba że prowadzący instalację uzyskał pozwolenie zintegrowane przed tym terminem. ” .
 
-**Art. 5.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.) w art. 127 ust. 8 otrzymuje brzmienie: „ 8. W postępowaniu o wydanie pozwolenia wodno-prawnego nie stosuje się przepisów art. 31 Kodeksu postępowania administracyjnego. ” .
+**Art. 5.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427 i Nr 75, poz. 493.) w art. 127 ust. 8 otrzymuje brzmienie: „ 8. W postępowaniu o wydanie pozwolenia wodno-prawnego nie stosuje się przepisów art. 31 Kodeksu postępowania administracyjnego. ” .
 
 **Art. 6.** W ustawie z dnia 18 maja 2005 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. Nr 113, poz. 954 oraz z 2006 r. Nr 50, poz. 360) wprowadza się następujące zmiany:
 
 - **1)** w art. 19 dodaje się ust. 3 w brzmieniu: „
 
-3. Przez decyzję o ustaleniu lokalizacji drogi krajowej rozumie się również decyzję o ustaleniu lokalizacji autostrady na podstawie ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.), decyzję o warunkach zabudowy i zagospodarowania terenu oraz decyzję o ustaleniu lokalizacji inwestycji celu publicznego na podstawie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym. ” ;
+3. Przez decyzję o ustaleniu lokalizacji drogi krajowej rozumie się również decyzję o ustaleniu lokalizacji autostrady na podstawie ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61 oraz z 2007 r. Nr 23, poz. 136.), decyzję o warunkach zabudowy i zagospodarowania terenu oraz decyzję o ustaleniu lokalizacji inwestycji celu publicznego na podstawie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym. ” ;
 
 - **2)** w art. 24 ust. 2 otrzymuje brzmienie: „
 
 2. W sprawach wszczętych, a niezakończonych decyzją ostateczną, stosuje się przepisy art. 184 ust. 2 pkt 17a i 17b, art. 188 ust. 2 pkt 4 i 6, art. 191a, art. 208 ust. 2a, art. 209 ust. 2 oraz art. 211 ust. 2 pkt 3a, ust. 2a i ust. 3b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. ” .
 
-**Art. 7.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.) w art. 22 wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560.) w art. 22 wprowadza się następujące zmiany:
 
 - **1)** w ust. 2 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 i 17 w brzmieniu: „
 - **16)** z opłat, o których mowa w art. 9 ust. 1 i 3 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. Nr 180, poz. 1495);
@@ -702,7 +753,7 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 
 9. Odrębne ustawy nie mogą określać innych źródeł dochodów własnych niż wymienione w ust. 1 i 2 i innego ich przeznaczenia niż wymienione w ust. 6–7. ” .
 
-**Art. 8.** W ustawie z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej (Dz. U. Nr 175, poz. 1462, z późn. zm.) w art. 19 wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej (Dz. U. Nr 175, poz. 1462, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 189, poz. 1604 i Nr 267, poz. 2257 oraz z 2006 r. Nr 144, poz. 1043, Nr 220, poz. 1601 i Nr 251, poz. 1848.) w art. 19 wprowadza się następujące zmiany:
 
 - **1)** pkt 1 i 2 otrzymują brzmienie: „
 - **1)** użyty w art. 30 w ust. 2 w pkt 1, w art. 49 w ust. 5 w pkt 1, w art. 89 w ust. 1a, w art. 91 w ust. 4, 8 i 9, w art. 92a w ust. 1–3, w art. 93 w ust. 1, w art. 94 w ust. 2–2b, w art. 95 w ust. 1, w art. 162 w ust. 3, 6 i 7, w art. 163 w ust. 3 w pkt 4 i 5, w ust. 6 i 8, w art. 212 w ust. 2, w art. 346 w ust. 1, w art. 395 w ust. 4, w art. 396 w ust. 1 i 3 w pkt 1, w ust. 4 i 5, w art. 397 w ust. 2, w art. 426 w ust. 2 i 5, w art. 428 w ust. 1, w art. 430 w ust. 2, w art. 434, w art. 435 w ust. 2, 3, 5 i 6, w art. 437 w ust. 1, 4 i 8 oraz w art. 441 w ust. 1, 2 i 4, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”;
@@ -745,9 +796,8 @@ Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspek
 **Art. 13.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 18 lit. b i pkt 73–78 oraz art. 7, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-- **2)** art. 1 pkt 47, pkt 50 lit. c i pkt 51, które wchodzą w życie z dniem 1 stycznia 2008 r.
-- **1)** Przepisy niniejszej ustawy:
+- **2)** art. 1 pkt 47, pkt 50 lit. c i pkt 51, które wchodzą w życie z dniem 1 stycznia 2008 r. 1) Przepisy niniejszej ustawy:
 - **1)** wdrażają postanowienia dyrektywy 2004/107/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie arsenu, kadmu, rtęci, niklu i wielopierścieniowych węglowodorów aromatycznych w otaczającym powietrzu (Dz. Urz. UE L 23 z 26.01.2005, str. 3);
-- **2)** wykonują postanowienia rozporządzenia (WE) nr 166/2006 Parlamentu Europejskiego i Rady z dnia 18 stycznia 2006 r. w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającego dyrektywę Rady 91/689/EWG i 96/61/WE (Dz. Urz. UE L 33 z 04.02.2006, str. 1). Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 27 kwietnia 2001 r. o odpadach, ustawę z dnia 18 lipca 2001 r. – Prawo wodne, ustawę z dnia 18 maja 2005 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw, ustawę z dnia 30 czerwca 2005 r. o finansach publicznych oraz ustawę z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej.
+- **2)** wykonują postanowienia rozporządzenia (WE) nr 166/2006 Parlamentu Europejskiego i Rady z dnia 18 stycznia 2006 r. w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającego dyrektywę Rady 91/689/EWG i 96/61/WE (Dz. Urz. UE L 33 z 04.02.2006, str. 1). Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 27 kwietnia 2001 r. o odpadach, ustawę z dnia 18 lipca 2001 r. – Prawo wodne, ustawę z dnia 18 maja 2005 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw, ustawę z dnia 30 czerwca 2005 r. o finansach publicznych oraz ustawę z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 169, poz. 1199, Nr 170, poz. 1217 i Nr 249, poz. 1832 oraz z 2007 r. Nr 21, poz. 124 i Nr 75, poz. 493. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121, Nr 171, poz. 1225 i Nr 235, poz. 1699. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63 oraz z 2007 r. Nr 75, poz. 493 i Nr 80, poz. 541. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 64, poz. 565 i Nr 267, poz. 2258, z 2006 r. Nr 170, poz. 1217, Nr 235, poz. 1700 i Nr 249, poz. 1832 i 1834 oraz z 2007 r. Nr 21, poz. 124. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1085, Nr 123, poz. 1350 i Nr 125, poz. 1367, z 2002 r. Nr 135, poz. 1145 i Nr 142, poz. 1187, z 2003 r. Nr 189, poz. 1852, z 2004 r. Nr 96, poz. 959 i Nr 121, poz. 1263, z 2005 r. Nr 179, poz. 1485 oraz z 2006 r. Nr 171, poz. 1225. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834 oraz z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427 i Nr 75, poz. 493. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61 oraz z 2007 r. Nr 23, poz. 136. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 189, poz. 1604 i Nr 267, poz. 2257 oraz z 2006 r. Nr 144, poz. 1043, Nr 220, poz. 1601 i Nr 251, poz. 1848.
 
 

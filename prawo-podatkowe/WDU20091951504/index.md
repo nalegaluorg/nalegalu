@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 października 2009 r. o zmianie ustawy o podatku od towarów i usług
+# Ustawaz dnia 23 października 2009 r. o zmianie ustawy o podatku od towarów i usług Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia:
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-10-23 |
 | Data wydania | 2009-11-23 |
-| Wejście w życie | 2010-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091951504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1504/text.pdf) |
 
+dyrektywy Rady 2008/8/WE z dnia 12 lutego 2008 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do miejsca świadczenia usług(Dz. Urz. UE L 44 z 20.02.2008, str. 11);
 2)
 dyrektywy Rady 2008/9/WE z dnia 12 lutego 2008 r. określającej szczegółowe zasady zwrotu podatku od wartości dodanej, przewidzianego w dyrektywie 2006/112/WE, podatnikom niemającym siedziby w państwie członkowskim zwrotu, lecz mającym siedzibę w innym państwie członkowskim (Dz. Urz. UE L 44 z 20.02.2008, str. 23);
 3)
 dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej w celu zwalczania uchylania się od opodatkowania w związku z transakcjami wewnątrzwspólnotowymi (Dz. Urz. UE L 14 z 20.01.2009, str. 7).
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, Nr 90, poz. 756, Nr 143, poz. 1199 i Nr 179, poz. 1484, z 2006 r. Nr 143, poz. 1028 i 1029, z 2007 r. Nr 168, poz. 1187 i Nr 192, poz. 1382, z 2008 r. Nr 74, poz. 444, Nr 130, poz. 826, Nr 141, poz. 888 i Nr 209, poz. 1320 oraz z 2009 r. Nr 3, poz. 11 i Nr 116, poz. 979.) wprowadza się następujące zmiany:
 
 - **1)** w art. 8 ust. 4 otrzymuje brzmienie: „
 
@@ -117,7 +117,7 @@ dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 20
 2. Miejscem świadczenia usług w dziedzinie kultury, sztuki, sportu, nauki, edukacji, rozrywki oraz podobnych usług, takich jak targi i wystawy, oraz usług pomocniczych do tych usług, w tym świadczenia usług przez organizatorów usług w tych dziedzinach, świadczonych na rzecz podmiotów niebędących podatnikami, jest miejsce, w którym ta działalność faktycznie jest wykonywana. W przypadku świadczenia na rzecz podmiotów niebędących podatnikami usług:
 
 - **1)** pomocniczych do usług transportowych, takich jak załadunek, rozładunek, przeładunek lub podobnych usług,
-- **2)** wyceny rzeczowego majątku ruchomego oraz na rzeczowym majątku ruchomym miejscem świadczenia usług jest miejsce, w którym usługi są faktycznie wykonywane.
+- **2)** wyceny rzeczowego majątku ruchomego oraz na rzeczowym majątku ruchomym – miejscem świadczenia usług jest miejsce, w którym usługi są faktycznie wykonywane.
 
 1. Miejscem świadczenia usług restauracyjnych i cateringowych jest miejsce, w którym usługi są faktycznie wykonywane, z zastrzeżeniem ust. 2.
 
@@ -149,7 +149,7 @@ dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 20
     - **b)**
 
 - **13)** bezpośrednio związanych z usługami, o których mowa w pkt 11 i 12,
-- **14)** polegających na zobowiązaniu się do powstrzymania się od dokonania czynności lub posługiwania się prawem, o których mowa w pkt 1–13 miejscem świadczenia usług jest miejsce, gdzie podmioty te posiadają siedzibę, stałe miejsce zamieszkania lub miejsce zwykłego pobytu. W przypadku świadczenia usług telekomunikacyjnych lub usług nadawczych radiowych i telewizyjnych na rzecz podmiotów niebędących podatnikami, posiadających siedzibę, stałe miejsce zamieszkania lub miejsce zwykłego pobytu na terytorium państwa członkowskiego, przez podatnika, który posiada siedzibę, stałe miejsce zamieszkania lub stałe miejsce prowadzenia działalności, z którego świadczy te usługi, poza terytorium Wspólnoty, a w przypadku braku takiej siedziby, stałego miejsca zamieszkania lub stałego miejsca prowadzenia działalności, posiada zwykłe miejsce prowadzenia działalności lub miejsce zwykłego pobytu poza terytorium Wspólnoty, których faktyczne użytkowanie i wykorzystanie ma miejsce na terytorium państwa członkowskiego, na którym podmiot będący usługobiorcą ma siedzibę, stałe miejsce zamieszkania lub miejsce zwykłego pobytu – miejscem świadczenia tych usług jest terytorium państwa członkowskiego, na którym podmiot będący usługobiorcą ma siedzibę, stałe miejsce zamieszkania lub miejsce zwykłego pobytu.
+- **14)** polegających na zobowiązaniu się do powstrzymania się od dokonania czynności lub posługiwania się prawem, o których mowa w pkt 1–13 – miejscem świadczenia usług jest miejsce, gdzie podmioty te posiadają siedzibę, stałe miejsce zamieszkania lub miejsce zwykłego pobytu. W przypadku świadczenia usług telekomunikacyjnych lub usług nadawczych radiowych i telewizyjnych na rzecz podmiotów niebędących podatnikami, posiadających siedzibę, stałe miejsce zamieszkania lub miejsce zwykłego pobytu na terytorium państwa członkowskiego, przez podatnika, który posiada siedzibę, stałe miejsce zamieszkania lub stałe miejsce prowadzenia działalności, z którego świadczy te usługi, poza terytorium Wspólnoty, a w przypadku braku takiej siedziby, stałego miejsca zamieszkania lub stałego miejsca prowadzenia działalności, posiada zwykłe miejsce prowadzenia działalności lub miejsce zwykłego pobytu poza terytorium Wspólnoty, których faktyczne użytkowanie i wykorzystanie ma miejsce na terytorium państwa członkowskiego, na którym podmiot będący usługobiorcą ma siedzibę, stałe miejsce zamieszkania lub miejsce zwykłego pobytu – miejscem świadczenia tych usług jest terytorium państwa członkowskiego, na którym podmiot będący usługobiorcą ma siedzibę, stałe miejsce zamieszkania lub miejsce zwykłego pobytu.
 
 1. W przypadku świadczenia usług turystyki, o których mowa w art. 119, miejscem świadczenia jest miejsce, gdzie świadczący usługę ma siedzibę lub stałe miejsce zamieszkania, z zastrzeżeniem ust. 2.
 
@@ -170,8 +170,10 @@ dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 20
 14. Przepisy ust. 1–4, 11 i 12 stosuje się odpowiednio do wewnątrzwspólnotowej dostawy towarów, o której mowa w art. 13 ust. 3. ” ;
 
 - **9)** w art. 86 w ust. 9 zdanie końcowe otrzymuje brzmienie: „ – w przypadku gdy miejscem świadczenia tych usług, zgodnie z art. 28b lub art. 28I, jest terytorium państwa trzeciego lub gdy usługi dotyczą bezpośrednio towarów eksportowanych, pod warunkiem że podatnik posiada dokumenty, z których wynika związek odliczonego podatku z tymi czynnościami. ” ;
-- **10)** w art. 89: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) podmiotów nieposiadających siedziby, stałego miejsca zamieszkania, stałego miejsca prowadzenia działalności, zwykłego miejsca prowadzenia działalności lub miejsca zwykłego pobytu na terytorium kraju, niedokonujących sprzedaży oraz niezarejestrowanych na potrzeby podatku na terytorium kraju ” , – zdanie końcowe otrzymuje brzmienie: „ – mogą być zastosowane zwroty podatku na warunkach określonych w ust. 1a-1g oraz w rozporządzeniu wydanym na podstawie ust. 2, 3 i 5. ” , po ust. 1 dodaje się ust. 1a-1l w brzmieniu: „
+- **10)** w art. 89: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** podmiotów nieposiadających siedziby, stałego miejsca zamieszkania, stałego miejsca prowadzenia działalności, zwykłego miejsca prowadzenia działalności lub miejsca zwykłego pobytu na terytorium kraju, niedokonujących sprzedaży oraz niezarejestrowanych na potrzeby podatku na terytorium kraju ” , zdanie końcowe otrzymuje brzmienie: „ – mogą być zastosowane zwroty podatku na warunkach określonych w ust. 1a-1g oraz w rozporządzeniu wydanym na podstawie ust. 2, 3 i 5. ” , po ust. 1 dodaje się ust. 1a-1l w brzmieniu: „
     - **b)**
 
 1a. Podmioty, o których mowa w ust. 1 pkt 3, mogą ubiegać się o zwrot podatku w odniesieniu do nabytych przez nie na terytorium kraju towarów i usług lub w odniesieniu do towarów, które były przedmiotem importu na terytorium kraju, jeżeli te towary i usługi były przez te podmioty wykorzystywane do wykonywania czynności dających prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego na terytorium państwa, w którym rozliczają one podatek od wartości dodanej lub podatek o podobnym charakterze, innym niż terytorium kraju.
@@ -225,7 +227,7 @@ dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 20
 - **5)** sposób i przypadki potwierdzania złożenia wniosku o zwrot podatku,
 - **6)** przypadki, w których podatnik ubiegający się o zwrot powinien złożyć dodatkowe dokumenty, oraz rodzaje tych dokumentów,
 - **7)** przypadki, w których podmiotom, o których mowa w ust. 1 pkt 3, dokonującym sprzedaży przysługuje zwrot podatku,
-- **8)** tryb zwrotu podatku w przypadkach, o których mowa w ust. 1e uwzględniając konieczność prawidłowego udokumentowania zakupów, od których przysługuje zwrot podatku, potrzebę zapewnienia prawidłowej informacji o wysokości zwracanych kwot podatku i niezbędnych informacji o podmiocie ubiegającym się o zwrot podatku jako podmiocie uprawnionym do otrzymania tego zwrotu, potrzebę zapewnienia prawidłowego naliczania odsetek za zwłokę, potrzebę wykorzystania środków komunikacji elektronicznej oraz przepisy Wspólnoty Europejskiej. ” , dodaje się ust. 8 w brzmieniu: „
+- **8)** tryb zwrotu podatku w przypadkach, o których mowa w ust. 1e – uwzględniając konieczność prawidłowego udokumentowania zakupów, od których przysługuje zwrot podatku, potrzebę zapewnienia prawidłowej informacji o wysokości zwracanych kwot podatku i niezbędnych informacji o podmiocie ubiegającym się o zwrot podatku jako podmiocie uprawnionym do otrzymania tego zwrotu, potrzebę zapewnienia prawidłowego naliczania odsetek za zwłokę, potrzebę wykorzystania środków komunikacji elektronicznej oraz przepisy Wspólnoty Europejskiej. ” , dodaje się ust. 8 w brzmieniu: „
     - **d)**
 
 8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, informacje, jakie powinien zawierać wniosek, o którym mowa w ust. 1h, sposób opisu niektórych informacji, a także warunki i termin składania wniosków, uwzględniając:
@@ -249,7 +251,7 @@ dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 20
 - **1)** dokonywaniu wewnątrzwspólnotowego nabycia towarów,
 - **2)** dokonywaniu wewnątrzwspólnotowej dostawy towarów,
 - **3)** świadczeniu usług, do których stosuje się art. 100 ust. 1 pkt 4, dla podatników podatku od wartości dodanej lub osób prawnych niebędących takimi podatnikami, zidentyfikowanych na potrzeby podatku od wartości dodanej,
-- **4)** nabywaniu usług, do których stosuje się art. 28b, dla których są podatnikami z tytułu importu usług są obowiązane do posługiwania się numerem identyfikacji podatkowej poprzedzonym kodem PL. ” , uchyla się ust. 11;
+- **4)** nabywaniu usług, do których stosuje się art. 28b, dla których są podatnikami z tytułu importu usług – są obowiązane do posługiwania się numerem identyfikacji podatkowej poprzedzonym kodem PL. ” , uchyla się ust. 11;
     - **c)**
 
 - **12)** w art. 99 ust. 9 otrzymuje brzmienie: „
@@ -265,7 +267,7 @@ dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 20
 - **1)** wewnątrzwspólnotowych dostawach towarów w rozumieniu art. 13 ust. 1 i 3, do których ma zastosowanie art. 42 ust. 1, na rzecz podatników podatku od wartości dodanej lub osób prawnych niebędących takimi podatnikami, zidentyfikowanych na potrzeby podatku od wartości dodanej,
 - **2)** wewnątrzwspólnotowych nabyciach towarów, o których mowa w art. 9 ust. 1 lub art. 11 ust. 1, od podatników podatku od wartości dodanej, zidentyfikowanych na potrzeby podatku od wartości dodanej,
 - **3)** dostawach towarów zgodnie z art. 136 ust. 1 lub 2, na rzecz podatników podatku od wartości dodanej lub osób prawnych niebędących takimi podatnikami, zidentyfikowanych na potrzeby podatku od wartości dodanej,
-- **4)** usługach, do których stosuje się art. 28b, na rzecz podatników podatku od wartości dodanej lub osób prawnych niebędących takimi podatnikami, zidentyfikowanych na potrzeby podatku od wartości dodanej, świadczonych na terytorium państwa członkowskiego innym niż terytorium kraju, innych niż zwolnionych od podatku od wartości dodanej lub opodatkowanych stawką 0%, dla których zobowiązanym do zapłaty podatku od wartości dodanej jest usługobiorca zwane dalej „informacjami podsumowującymi”.
+- **4)** usługach, do których stosuje się art. 28b, na rzecz podatników podatku od wartości dodanej lub osób prawnych niebędących takimi podatnikami, zidentyfikowanych na potrzeby podatku od wartości dodanej, świadczonych na terytorium państwa członkowskiego innym niż terytorium kraju, innych niż zwolnionych od podatku od wartości dodanej lub opodatkowanych stawką 0%, dla których zobowiązanym do zapłaty podatku od wartości dodanej jest usługobiorca – zwane dalej „informacjami podsumowującymi”.
 
 2. Przepis ust. 1 pkt 2 w zakresie wewnątrzwspólnotowych nabyć towarów, o których mowa w art. 9 ust. 1, stosuje się również do osób prawnych niebędących podatnikami w rozumieniu art. 15, zarejestrowanych jako podatnicy VAT UE.
 
@@ -280,7 +282,7 @@ dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 20
 5. Składający informacje podsumowujące za okresy kwartalne, u których:
 
 - **1)** całkowita wartość transakcji, o których mowa w ust. 1 pkt 1 i 3, bez podatku od wartości dodanej, przekroczyła w danym kwartale kwotę 250 000 zł lub
-- **2)** całkowita wartość transakcji, o których mowa w ust. 1 pkt 2, bez podatku, przekroczyła w danym kwartale kwotę 50 000 zł są obowiązani do składania informacji podsumowujących za okresy miesięczne, z uwzględnieniem ust. 6.
+- **2)** całkowita wartość transakcji, o których mowa w ust. 1 pkt 2, bez podatku, przekroczyła w danym kwartale kwotę 50 000 zł – są obowiązani do składania informacji podsumowujących za okresy miesięczne, z uwzględnieniem ust. 6.
 
 6. W przypadku, o którym mowa w ust. 5, informacje podsumowujące za poszczególne miesiące, które upłynęły od rozpoczęcia danego kwartału, są składane w terminie do 15. dnia miesiąca następującego po miesiącu, w którym przekroczono odpowiednio kwotę 250 000 zł lub 50 000 zł, z tym że jeżeli przekroczenie kwoty nastąpiło w trzecim miesiącu kwartału, składana jest jedna informacja podsumowująca za ten kwartał.
 
@@ -328,10 +330,9 @@ dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 20
 **Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2010 r., z wyjątkiem:
 
 - **1)** art. 3, który wchodzi w życie z dniem 1 grudnia 2009 r.;
-- **2)** art. 1 pkt 7 w zakresie art. 28g, który wchodzi w życie z dniem 1 stycznia 2011 r.
-- **1)** Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia:
+- **2)** art. 1 pkt 7 w zakresie art. 28g, który wchodzi w życie z dniem 1 stycznia 2011 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia:
 - **1)** dyrektywy Rady 2008/8/WE z dnia 12 lutego 2008 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do miejsca świadczenia usług (Dz. Urz. UE L 44 z 20.02.2008, str. 11);
 - **2)** dyrektywy Rady 2008/9/WE z dnia 12 lutego 2008 r. określającej szczegółowe zasady zwrotu podatku od wartości dodanej, przewidzianego w dyrektywie 2006/112/WE, podatnikom niemającym siedziby w państwie członkowskim zwrotu, lecz mającym siedzibę w innym państwie członkowskim (Dz. Urz. UE L 44 z 20.02.2008, str. 23);
-- **3)** dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej w celu zwalczania uchylania się od opodatkowania w związku z transakcjami wewnątrzwspólnotowymi (Dz. Urz. UE L 14 z 20.01.2009, str. 7).
+- **3)** dyrektywy Rady 2008/117/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej w celu zwalczania uchylania się od opodatkowania w związku z transakcjami wewnątrzwspólnotowymi (Dz. Urz. UE L 14 z 20.01.2009, str. 7). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, Nr 90, poz. 756, Nr 143, poz. 1199 i Nr 179, poz. 1484, z 2006 r. Nr 143, poz. 1028 i 1029, z 2007 r. Nr 168, poz. 1187 i Nr 192, poz. 1382, z 2008 r. Nr 74, poz. 444, Nr 130, poz. 826, Nr 141, poz. 888 i Nr 209, poz. 1320 oraz z 2009 r. Nr 3, poz. 11 i Nr 116, poz. 979.
 
 

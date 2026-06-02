@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-06 |
 | Data wydania | 2013-08-12 |
-| Wejście w życie | 2013-08-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000916) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/916/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Opłaty za zezwolenie na wykonywanie zawodu przewoźnika drogowego i za licencje Rozdział 3 – Opłaty za zezwolenia, formularz jazdy, świadectwo kierowcy oraz decyzje w sprawie odstępstwa od warunków określonych w zezwoleniu Rozdział 4 – Opłaty za zaświadczenie na przewozy drogowe na potrzeby własne Rozdział 5 – Opłaty za egzaminowanie oraz za wydanie certyfikatu kompetencji zawodowych i certyfikatu potwierdzającego spełnienie przez pojazd odpowiednich wymogów bezpieczeństwa lub warunków dopuszczenia do ruchu Rozdział 6 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 47 ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2012 r. poz. 1265, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 47 ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2012 r. poz. 1265, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 21, 567, 628, 829 i 914.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa wysokość opłat za:
 1)
@@ -55,15 +55,19 @@ wydanie zaświadczenia, zmianę zaświadczenia, wydanie wypisu z zaświadczenia 
 egzaminowanie i wydanie certyfikatu kompetencji zawodowych dla przedsiębiorców podejmujących i wykonujących działalność gospodarczą w zakresie transportu drogowego;
 12)
 wydanie certyfikatu potwierdzającego spełnienie przez pojazd odpowiednich wymogów bezpieczeństwa lub warunków dopuszczenia do ruchu, zmianę certyfikatu, wydanie wtórnika certyfikatu.
+Opłaty za zezwolenie na wykonywanie zawodu przewoźnika drogowego i za licencje
 § 2.
 1.
 Za udzielenie zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji pobiera się następujące opłaty:
 1)
-za licencję na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką: Opłata w zł od każdego pojazdu obszar gminy obszar gmin sąsiadujących obszar miasta stołecznego Warszawy okres ważności licencji w latach od 2 do 15 powyżej 15 do 30 powyżej 30 do 50 od 2 do 15 powyżej 15 do 30 powyżej 30 do 50 od 2 do 15 powyżej 15 do 30 powyżej 30 do 50 200 250 300 280 350 400 320 380 450
+za licencję na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką:
+Opłata w zł od każdego pojazdu obszar gminy obszar gmin sąsiadujących obszar miasta stołecznego Warszawy okres ważności licencji w latach od 2 do 15 powyżej 15 do 30 powyżej 30 do 50 od 2 do 15 powyżej 15 do 30 powyżej 30 do 50 od 2 do 15 powyżej 15 do 30 powyżej 30 do 50 200 250 300 280 350 400 320 380 450
 2)
-za licencję na wykonywanie krajowego transportu drogowego w zakresie przewozu osób samochodem osobowym lub za licencję na wykonywanie krajowego transportu drogowego w zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą: Opłata w zł okres ważności licencji w latach od 2 do 15 powyżej 15 do 30 powyżej 30 do 50 700 800 900
+za licencję na wykonywanie krajowego transportu drogowego w zakresie przewozu osób samochodem osobowym lub za licencję na wykonywanie krajowego transportu drogowego w zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą:
+Opłata w zł okres ważności licencji w latach od 2 do 15 powyżej 15 do 30 powyżej 30 do 50 700 800 900
 3)
-za licencję na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie rzeczy: Opłata w zł okres ważności licencji w latach od 2 do 15 powyżej 15 do 30 powyżej 30 do 50 800 900 1000
+za licencję na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie rzeczy:
+Opłata w zł okres ważności licencji w latach od 2 do 15 powyżej 15 do 30 powyżej 30 do 50 800 900 1000
 2.
 Za udzielenie zezwolenia na wykonywanie zawodu przewoźnika drogowego w zakresie przewozu osób lub rzeczy pobiera się opłatę w wysokości 1000 zł.
 § 3.
@@ -88,8 +92,7 @@ licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób
 3)
 licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą lub
 4)
-licencji wspólnotowej
-jednego lub więcej niż jednego pojazdu pobiera się jedną opłatę, o której mowa w § 2 ust. 1 pkt 2, ust. 2 i § 3, odpowiednią dla okresu ważności licencji, powiększoną o 10% tej opłaty za każdy pojazd.
+licencji wspólnotowej – jednego lub więcej niż jednego pojazdu pobiera się jedną opłatę, o której mowa w § 2 ust. 1 pkt 2, ust. 2 i § 3, odpowiednią dla okresu ważności licencji, powiększoną o 10% tej opłaty za każdy pojazd.
 § 5.
 1.
 Za wydanie wypisu z:
@@ -100,8 +103,7 @@ licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób
 3)
 licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą lub
 4)
-licencji wspólnotowej
-na każdy pojazd samochodowy zgłoszony we wniosku o udzielenie zezwolenia lub licencji pobiera się opłatę w wysokości 1% opłaty, o której mowa w § 2 ust. 1 pkt 2, ust. 2 i § 3, stanowiącej podstawę do obliczenia opłaty jak za udzielenie zezwolenia lub licencji.
+licencji wspólnotowej – na każdy pojazd samochodowy zgłoszony we wniosku o udzielenie zezwolenia lub licencji pobiera się opłatę w wysokości 1% opłaty, o której mowa w § 2 ust. 1 pkt 2, ust. 2 i § 3, stanowiącej podstawę do obliczenia opłaty jak za udzielenie zezwolenia lub licencji.
 2.
 Za wydanie wypisu z:
 1)
@@ -111,8 +113,7 @@ licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób
 3)
 licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą lub
 4)
-licencji wspólnotowej
-na każdy pojazd niezgłoszony we wniosku o udzielenie zezwolenia lub licencji pobiera się opłatę w wysokości 11% opłaty, o której mowa w § 2 ust. 1 pkt 2, ust. 2 i § 3, stanowiącej podstawę do obliczenia opłaty jak za udzielenie zezwolenia lub licencji.
+licencji wspólnotowej – na każdy pojazd niezgłoszony we wniosku o udzielenie zezwolenia lub licencji pobiera się opłatę w wysokości 11% opłaty, o której mowa w § 2 ust. 1 pkt 2, ust. 2 i § 3, stanowiącej podstawę do obliczenia opłaty jak za udzielenie zezwolenia lub licencji.
 3.
 Za wydanie wypisu z:
 1)
@@ -122,8 +123,7 @@ licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób
 3)
 licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą lub
 4)
-licencji wspólnotowej
-w przypadku zmiany zezwolenia lub licencji pobiera się opłatę w wysokości 5% opłaty, o której mowa w § 2 ust. 1 pkt 2, ust. 2 i § 3, stanowiącej podstawę do obliczenia opłaty jak za udzielenie zezwolenia lub licencji.
+licencji wspólnotowej – w przypadku zmiany zezwolenia lub licencji pobiera się opłatę w wysokości 5% opłaty, o której mowa w § 2 ust. 1 pkt 2, ust. 2 i § 3, stanowiącej podstawę do obliczenia opłaty jak za udzielenie zezwolenia lub licencji.
 4.
 Za wydanie wypisu z:
 1)
@@ -133,8 +133,7 @@ licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób
 3)
 licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą lub
 4)
-licencji wspólnotowej
-w innych przypadkach niż określone w ust. 1–3 pobiera się opłatę w wysokości 1% opłaty, o której mowa w § 2 ust. 1 pkt 2, ust. 2 i § 3, stanowiącej podstawę do obliczenia opłaty jak za udzielenie zezwolenia lub licencji.
+licencji wspólnotowej – w innych przypadkach niż określone w ust. 1–3 pobiera się opłatę w wysokości 1% opłaty, o której mowa w § 2 ust. 1 pkt 2, ust. 2 i § 3, stanowiącej podstawę do obliczenia opłaty jak za udzielenie zezwolenia lub licencji.
 5.
 Przy obliczaniu opłaty, o której mowa w ust. 1–4, przyjmuje się okres ważności odpowiadający okresowi ważności posiadanej licencji.
 § 6.
@@ -153,24 +152,27 @@ Za przeniesienie uprawnień wynikających z zezwolenia na wykonywanie zawodu prz
 1)
 śmierci osoby fizycznej posiadającej zezwolenie na wykonywanie zawodu przewoźnika drogowego lub licencję i wstąpienia na jej miejsce spadkobiercy, w tym również osoby fizycznej będącej wspólnikiem, w szczególności spółki jawnej lub komandytowej,
 2)
-połączenia, podziału lub przekształcenia, zgodnie z odrębnymi przepisami, przedsiębiorcy posiadającego zezwolenie na wykonywanie zawodu przewoźnika drogowego lub licencję
-pobiera się opłatę w wysokości 5% opłaty, o której mowa w § 2 i § 3, stanowiącej podstawę do obliczenia opłaty jak za udzielenie zezwolenia lub licencji.
+połączenia, podziału lub przekształcenia, zgodnie z odrębnymi przepisami, przedsiębiorcy posiadającego zezwolenie na wykonywanie zawodu przewoźnika drogowego lub licencję – pobiera się opłatę w wysokości 5% opłaty, o której mowa w § 2 i § 3, stanowiącej podstawę do obliczenia opłaty jak za udzielenie zezwolenia lub licencji.
+Opłaty za zezwolenia, formularz jazdy, świadectwo kierowcy oraz decyzje w sprawie odstępstwa od warunków określonych w zezwoleniu
 § 11.
 Za wydanie zezwolenia na wykonywanie przewozu osób w krajowym transporcie drogowym pojazdem samochodowym pobiera się następujące opłaty:
 1)
-dla przewozu regularnego: Opłata w zł okres ważności zezwolenia obszar gminy obszar powiatu obszar wykraczający poza granice co najmniej jednego powiatu, jednakże niewykraczający poza obszar województwa obszar wykraczający poza granice co najmniej jednego województwa do 1 roku 100 250 350 500 do 2 lat 150 300 400 550 do 3 lat 200 350 450 600 do 4 lat 250 450 550 650 do 5 lat 300 550 600 700
+dla przewozu regularnego:
+Opłata w zł okres ważności zezwolenia obszar gminy obszar powiatu obszar wykraczający poza granice co najmniej jednego powiatu, jednakże niewykraczający poza obszar województwa obszar wykraczający poza granice co najmniej jednego województwa do 1 roku 100 250 350 500 do 2 lat 150 300 400 550 do 3 lat 200 350 450 600 do 4 lat 250 450 550 650 do 5 lat 300 550 600 700
 2)
 dla przewozu regularnego specjalnego opłata za wydanie zezwolenia wynosi 50% odpowiedniej opłaty, o której mowa w pkt 1.
 § 12.
 Za wydanie zezwolenia na wykonywanie przewozu osób w międzynarodowym transporcie drogowym pojazdem samochodowym pobiera się następujące opłaty:
 1)
-dla przewozu regularnego wykonywanego pojazdem samochodowym zgodnie z rozkładem jazdy zawierającym jeden przystanek początkowy na terytorium Rzeczypospolitej Polskiej: Okres ważności zezwolenia Opłata w zł obszar jednego kraju lub obszar więcej niż jednego kraju do 6 miesięcy 400 do 1 roku 800 do 2 lat 1500 do 3 lat 2200 do 4 lat 3000 do 5 lat 3700
+dla przewozu regularnego wykonywanego pojazdem samochodowym zgodnie z rozkładem jazdy zawierającym jeden przystanek początkowy na terytorium Rzeczypospolitej Polskiej:
+Okres ważności zezwolenia Opłata w zł obszar jednego kraju lub obszar więcej niż jednego kraju do 6 miesięcy 400 do 1 roku 800 do 2 lat 1500 do 3 lat 2200 do 4 lat 3000 do 5 lat 3700
 2)
 dla przewozu regularnego wykonywanego pojazdem samochodowym, zgodnie z rozkładem jazdy zawierającym więcej niż jeden przystanek początkowy na terytorium Rzeczypospolitej Polskiej, pobiera się odpowiednią opłatę, o której mowa w pkt 1, powiększoną o 60% tej opłaty za każdy kolejny przystanek początkowy;
 3)
 dla przewozu regularnego specjalnego, wykonywanego pojazdem samochodowym, opłata za wydanie zezwolenia wynosi 50% odpowiedniej opłaty, o której mowa w pkt 1;
 4)
-dla przewozu wahadłowego wykonywanego pojazdem samochodowym: Okres ważności zezwolenia Opłata w zł obszar jednego kraju lub obszar więcej niż jednego kraju do 6 miesięcy 100 do 1 roku 200
+dla przewozu wahadłowego wykonywanego pojazdem samochodowym:
+Okres ważności zezwolenia Opłata w zł obszar jednego kraju lub obszar więcej niż jednego kraju do 6 miesięcy 100 do 1 roku 200
 5)
 dla przewozu okazjonalnego wykonywanego pojazdem samochodowym opłata za wydanie zezwolenia wynosi 50 zł za każdy przejazd.
 § 13.
@@ -235,6 +237,7 @@ Za zmianę świadectwa kierowcy pobiera się opłatę w wysokości 10 zł.
 Za wydanie wtórnika świadectwa kierowcy pobiera się opłatę w wysokości 10 zł.
 § 23.
 Za wydanie decyzji w sprawie odstępstwa od warunków określonych w zezwoleniu pobiera się opłatę w wysokości 40 zł.
+Opłaty za zaświadczenie na przewozy drogowe na potrzeby własne
 § 24.
 1.
 Za wydanie zaświadczenia na krajowy przewóz drogowy na potrzeby własne osób lub rzeczy na czas nieokreślony pobiera się opłatę w wysokości 500 zł.
@@ -291,6 +294,7 @@ Za wydanie zaświadczenia na międzynarodowy przewóz drogowy na potrzeby własn
 170 zł – gdy zaświadczenie jest wydawane na okres do 5 lat.
 2.
 Za zmianę zaświadczenia, o którym mowa w ust. 1, polegającą na zmianie danych w nim zawartych, o ile zmiana ta nie dotyczy pojazdu samochodowego i terminu ważności zaświadczenia, pobiera się opłatę w wysokości 20 zł.
+Opłaty za egzaminowanie oraz za wydanie certyfikatu kompetencji zawodowych i certyfikatu potwierdzającego spełnienie przez pojazd odpowiednich wymogów bezpieczeństwa lub warunków dopuszczenia do ruchu
 § 26.
 1.
 Za sprawdzenie posiadanej wiedzy niezbędnej do wykonywania działalności gospodarczej w zakresie transportu drogowego pobiera się, od osoby, opłatę za egzamin w wysokości 500 zł.
@@ -313,18 +317,31 @@ Za wydanie certyfikatu potwierdzającego spełnienie odpowiednich wymogów bezpi
 Za zmianę certyfikatu, o którym mowa w ust. 1, pobiera się opłatę w wysokości 30 zł.
 3.
 Za wydanie wtórnika certyfikatu, o którym mowa w ust. 1, pobiera się opłatę w wysokości 30 zł.
+Przepis końcowy
 § 28.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 4 grudnia 2007 r. w sprawie wysokości opłat za czynności administracyjne związane z wykonywaniem przewozu drogowego oraz za egzaminowanie i wydanie certyfikatu kompetencji zawodowych (Dz. U. Nr 235, poz. 1726, z 2011 r. Nr 155, poz. 918 oraz z 2012 r. poz. 97), które na podstawie art. 6 ustawy z dnia 5 kwietnia 2013 r. o zmianie ustawy o transporcie drogowym oraz ustawy o czasie pracy kierowców (Dz. U. poz. 567 i 914) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 21, 567, 628, 829 i 914. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 4 grudnia 2007 r. w sprawie wysokości opłat za czynności administracyjne związane z wykonywaniem przewozu drogowego oraz za egzaminowanie i wydanie certyfikatu kompetencji zawodowych (Dz. U. Nr 235, poz. 1726, z 2011 r. Nr 155, poz. 918 oraz z 2012 r. poz. 97), które na podstawie art. 6 ustawy z dnia 5 kwietnia 2013 r. o zmianie ustawy o transporcie drogowym oraz ustawy o czasie pracy kierowców (Dz. U. poz. 567 i 914) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Opłaty za zezwolenie na wykonywanie zawodu przewoźnika drogowego i za licencje
+#### Rozdział 2 – Opłaty za zezwolenie na wykonywanie zawodu przewoźnika drogowego i za licencje
 
-#### Rozdział 3 Opłaty za zezwolenia, formularz jazdy, świadectwo kierowcy oraz decyzje w sprawie odstępstwa od warunków określonych w zezwoleniu
+#### Rozdział 3 – Opłaty za zezwolenia, formularz jazdy, świadectwo kierowcy oraz decyzje w sprawie odstępstwa od warunków określonych w zezwoleniu
 
-#### Rozdział 4 Opłaty za zaświadczenie na przewozy drogowe na potrzeby własne
+#### Rozdział 4 – Opłaty za zaświadczenie na przewozy drogowe na potrzeby własne
 
-#### Rozdział 5 Opłaty za egzaminowanie oraz za wydanie certyfikatu kompetencji zawodowych i certyfikatu potwierdzającego spełnienie przez pojazd odpowiednich wymogów bezpieczeństwa lub warunków dopuszczenia do ruchu
+#### Rozdział 5 – Opłaty za egzaminowanie oraz za wydanie certyfikatu kompetencji zawodowych i certyfikatu potwierdzającego spełnienie przez pojazd odpowiednich wymogów bezpieczeństwa lub warunków dopuszczenia do ruchu
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

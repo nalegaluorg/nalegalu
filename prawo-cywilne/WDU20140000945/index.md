@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-10 |
 | Data wydania | 2014-07-17 |
-| Wejście w życie | 2015-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000945) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/945/text.pdf) |
 
+Odstąpienie od wymierzenia kary pieniężnej lub jej obniżenie w sprawach porozumień ograniczających konkurencję
 1.
 Przedsiębiorca, który zawarł porozumienie, o którym mowa w art. 6 ust. 1 ustawy lub w art. 101 TFUE, może złożyć do Prezesa Urzędu wniosek o odstąpienie od wymierzenia kary pieniężnej lub jej obniżenie, zwany dalej „wnioskiem”.
 2.
@@ -74,8 +74,7 @@ przedstawił:
 a)
 dowód wystarczający do wszczęcia postępowania antymonopolowego lub informacje umożliwiające Prezesowi Urzędu uzyskanie takiego dowodu, albo
 b)
-jeżeli wniosek został złożony po wszczęciu postępowania antymonopolowego – dowód, który w istotny sposób przyczyni się do wydania decyzji, o której mowa w art. 10, lub na żądanie Prezesa Urzędu przedstawił informacje umożliwiające uzyskanie takiego dowodu
-o ile Prezes Urzędu nie posiadał w tym czasie tych informacji lub dowodów;
+jeżeli wniosek został złożony po wszczęciu postępowania antymonopolowego – dowód, który w istotny sposób przyczyni się do wydania decyzji, o której mowa w art. 10, lub na żądanie Prezesa Urzędu przedstawił informacje umożliwiające uzyskanie takiego dowodu – o ile Prezes Urzędu nie posiadał w tym czasie tych informacji lub dowodów;
 3)
 nie nakłaniał innych przedsiębiorców do uczestnictwa w porozumieniu.
 1.
@@ -141,10 +140,10 @@ Wniosek przedsiębiorcy zgodny z wymogami określonymi w art. 113a ust. 2, wraz 
 Jeżeli osoba zarządzająca współpracuje z Prezesem Urzędu od powzięcia wiadomości o złożeniu wniosku w sposób określony w art. 113a ust. 5, Prezes Urzędu obniża karę pieniężną nakładaną na tę osobę na tych samych zasadach, na jakich kara zostaje obniżona w stosunku do przedsiębiorcy.
 3.
 Prezes Urzędu odstępuje od nałożenia kary pieniężnej albo obniża karę pieniężną nakładaną na osobę zarządzającą spełniającą warunki, o których mowa w ust. 2, pomimo nieodstąpienia od nałożenia kary pieniężnej na przedsiębiorcę, który złożył wniosek albo nieobniżenia kary pieniężnej nakładanej na tego przedsiębiorcę z powodu niespełnienia przez niego warunków określonych w art. 113a ust. 3, 5 i 6 lub w art. 113b pkt 3.
-Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb postępowania z wnioskiem złożonym przez przedsiębiorcę lub osobę zarządzającą mając na uwadze kategorię podmiotu składającego wniosek i konieczność zapewnienia rzetelnej oceny spełnienia warunków, o których mowa w art. 113b i w art. 113c ust. 1, oraz właściwego zakwalifikowania wniosku.
-” .
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb postępowania z wnioskiem złożonym przez przedsiębiorcę lub osobę zarządzającą mając na uwadze kategorię podmiotu składającego wniosek i konieczność zapewnienia rzetelnej oceny spełnienia warunków, o których mowa w art. 113b i w art. 113c ust. 1, oraz właściwego zakwalifikowania wniosku. ” .
+Podmioty uprawnione do udziału w postępowaniu na podstawie odrębnych przepisów
 
-**Art. 1.** W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4: w pkt 1 lit. d otrzymuje brzmienie: „ związek przedsiębiorców w rozumieniu pkt 2, z wyłączeniem przepisów dotyczących koncentracji; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
@@ -413,7 +412,7 @@ Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb
 
 - **b)**
 
-4. W zakresie nieuregulowanym w ustawie do przeszukania, o którym mowa w ust. 1, przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) mające zastosowanie do przeszukania stosuje się odpowiednio. ” ;
+4. W zakresie nieuregulowanym w ustawie do przeszukania, o którym mowa w ust. 1, przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307, z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654, Nr 117, poz. 678, Nr 142, poz. 829, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 240, poz. 1430, 1431 i 1438 i Nr 279, poz. 1645, z 2012 r. poz. 886, 1091, 1101, 1327, 1426, 1447 i 1529, z 2013 r. poz. 480, 765, 849, 1247, 1262, 1282 i 1650 oraz z 2014 r. poz. 85, 384 i 694.) mające zastosowanie do przeszukania stosuje się odpowiednio. ” ;
 
 - **35)** art. 93 otrzymuje brzmienie: „
 
@@ -450,7 +449,7 @@ Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb
 
 - **1)** szczególnie skomplikowanych,
 - **2)** co do których z informacji zawartych w zgłoszeniu zamiaru koncentracji lub innych informacji, w tym uzyskanych przez Prezesa Urzędu w toku prowadzonych postępowań, wynika, że istnieje uzasadnione prawdopodobieństwo istotnego ograniczenia konkurencji na rynku w wyniku dokonania koncentracji lub
-- **3)** wymagających przeprowadzenia badania rynku termin zakończenia postępowania ulega przedłużeniu o 4 miesiące.
+- **3)** wymagających przeprowadzenia badania rynku – termin zakończenia postępowania ulega przedłużeniu o 4 miesiące.
 
 2. W przypadkach określonych w ust. 1 Prezes Urzędu przedłuża termin zakończenia postępowania w drodze postanowienia, na które nie przysługuje zażalenie. Postanowienie wymaga uzasadnienia.
 
@@ -491,8 +490,10 @@ Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb
 **Art. 105.** Nie wszczyna się postępowania w sprawie praktyk naruszających zbiorowe interesy konsumentów, jeżeli od końca roku, w którym zaprzestano ich stosowania, upłynął rok. ” ;
 
 - **44)** w dziale VI tytuł rozdziału 5 otrzymuje brzmienie: „Kontrola i przeszukanie w toku postępowania przed Prezesem Urzędu”;
-- **45)** w art. 105a: w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Upoważnienie do przeprowadzenia kontroli lub do udziału w kontroli zawiera: ” , – pkt 6 otrzymuje brzmienie: „ 6) określenie zakresu przedmiotowego kontroli, w tym okresu objętego kontrolą; ” , ust. 5 i 6 otrzymują brzmienie: „
+- **45)** w art. 105a: w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Upoważnienie do przeprowadzenia kontroli lub do udziału w kontroli zawiera: ” , pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** określenie zakresu przedmiotowego kontroli, w tym okresu objętego kontrolą; ” , ust. 5 i 6 otrzymują brzmienie: „
     - **b)**
 
 5. Upoważnienie do przeprowadzenia kontroli, o której mowa w ust. 1, wydają odpowiednio: Prezes Urzędu oraz, na jego wniosek, wojewódzcy inspektorzy Inspekcji Handlowej.
@@ -718,7 +719,7 @@ Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb
 
 2. Do wniosku dołącza się uzasadnienie wskazujące ważny interes wnioskodawcy.
 
-3. W przypadku odroczenia uiszczenia kary pieniężnej albo rozłożenia jej na raty, Prezes Urzędu nalicza od nieuiszczonej kwoty odsetki w stosunku rocznym, których wysokość wynosi 50% stawki odsetek za zwłokę, ogłaszanej na podstawie art. 56 § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.), od dnia następującego po dniu złożenia wniosku.
+3. W przypadku odroczenia uiszczenia kary pieniężnej albo rozłożenia jej na raty, Prezes Urzędu nalicza od nieuiszczonej kwoty odsetki w stosunku rocznym, których wysokość wynosi 50% stawki odsetek za zwłokę, ogłaszanej na podstawie art. 56 § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183 i 567.), od dnia następującego po dniu złożenia wniosku.
 
 4. W przypadku rozłożenia na raty kary pieniężnej, odsetki, o których mowa w ust. 3, są naliczane odrębnie od każdej raty.
 
@@ -730,13 +731,13 @@ Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb
 
 - **61)** po art. 113 dodaje się rozdział 2 w brzmieniu: „
 
-#### Rozdział 2 Odstąpienie od wymierzenia kary pieniężnej lub jej obniżenie w sprawach porozumień ograniczających konkurencję
+#### Rozdział 2
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567 i 616.) wprowadza się następujące zmiany:
 
 - **1)** w części pierwszej w księdze pierwszej po tytule IIIb dodaje się tytuł IIIc w brzmieniu: „
 
-## Tytuł IIIc Podmioty uprawnione do udziału w postępowaniu na podstawie odrębnych przepisów
+## Tytuł IIIc
 
 **Art. 635.**
 
@@ -744,8 +745,11 @@ Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb
 
 § 2. Na wniosek podmiotu uprawnionego sąd udostępnia akta sprawy w zakresie niezbędnym do przedstawienia poglądu. ” ;
 
-- **2)** w art. 47928: w § 1: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) zażaleń na postanowienia wydawane przez Prezesa Urzędu w sprawie rozpatrzenia sprzeciwu, o którym mowa w art. 84c ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.); ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) zażaleń, o których mowa w art. 105m i w art. 105p ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.). ” , § 2 otrzymuje brzmienie: „
+- **2)** w art. 47928: w § 1: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
+
+- **2a)** zażaleń na postanowienia wydawane przez Prezesa Urzędu w sprawie rozpatrzenia sprzeciwu, o którym mowa w art. 84c ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822.); ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** zażaleń, o których mowa w art. 105m i w art. 105p ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241, z 2011 r. Nr 34, poz. 173 oraz z 2014 r. poz. 945.). ” , § 2 otrzymuje brzmienie: „
     - **b)**
 
 § 2. Odwołanie od decyzji Prezesa Urzędu wnosi się za jego pośrednictwem do sądu ochrony konkurencji i konsumentów w terminie miesiąca od dnia doręczenia decyzji. ” ;
@@ -776,7 +780,7 @@ Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb
 - **1)** z własnej inicjatywy i na żądanie Prezesa Urzędu dostarcza niezwłocznie wszelkie dowody lub informacje dotyczące zakazanego porozumienia, którymi dysponuje, albo którymi może dysponować, mające istotne znaczenie dla sprawy,
 - **2)** nie utrudnia złożenia wyjaśnień przez osoby zatrudnione przez przedsiębiorcę,
 - **3)** nie niszczy, nie fałszuje, nie zataja dowodów lub informacji związanych ze sprawą,
-- **4)** nie ujawnia faktu złożenia wniosku Prezes Urzędu obniża, zgodnie z art. 113c ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, karę pieniężną nakładaną na tę osobę, uwzględniając kolejność spełnienia przez przedsiębiorcę warunków określonych w art. 109 ustawy zmienianej w art. 1.
+- **4)** nie ujawnia faktu złożenia wniosku – Prezes Urzędu obniża, zgodnie z art. 113c ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, karę pieniężną nakładaną na tę osobę, uwzględniając kolejność spełnienia przez przedsiębiorcę warunków określonych w art. 109 ustawy zmienianej w art. 1.
 
 5. Prezes Urzędu odstępuje od nałożenia kary pieniężnej albo obniża karę pieniężną nakładaną na osobę zarządzającą spełniającą warunki, o których mowa w ust. 4, pomimo nieodstąpienia od nałożenia kary pieniężnej na przedsiębiorcę, który złożył wniosek albo nieobniżenia kary pieniężnej nakładanej na tego przedsiębiorcę z powodu niespełnienia przez niego warunków określonych w art. 109 ustawy zmienianej w art. 1.
 
@@ -784,5 +788,5 @@ Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb
 
 **Art. 9.** Do kontroli i przeszukań, prowadzonych przez Prezesa Urzędu w przypadkach, o których mowa w art. 105i ust. 1 ustawy zmienianej w art. 1, rozpoczętych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. Wysokość kary pieniężnej nakładanej na świadka za nieuzasadnioną odmowę zeznań w postępowaniu wszczętym przed dniem wejścia w życie niniejszej ustawy ustala się na podstawie art. 108 ust. 6 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 11.** Termin do wniesienia odwołania, o którym mowa w art. 81 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, ma zastosowanie również do decyzji wydanych przed dniem wejścia w życie niniejszej ustawy, jeżeli w tym dniu nie upłynął termin do wniesienia odwołania, określony w przepisach dotychczasowych. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 11.** Termin do wniesienia odwołania, o którym mowa w art. 81 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, ma zastosowanie również do decyzji wydanych przed dniem wejścia w życie niniejszej ustawy, jeżeli w tym dniu nie upłynął termin do wniesienia odwołania, określony w przepisach dotychczasowych. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307, z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654, Nr 117, poz. 678, Nr 142, poz. 829, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 240, poz. 1430, 1431 i 1438 i Nr 279, poz. 1645, z 2012 r. poz. 886, 1091, 1101, 1327, 1426, 1447 i 1529, z 2013 r. poz. 480, 765, 849, 1247, 1262, 1282 i 1650 oraz z 2014 r. poz. 85, 384 i 694. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183 i 567. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567 i 616. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241, z 2011 r. Nr 34, poz. 173 oraz z 2014 r. poz. 945.
 

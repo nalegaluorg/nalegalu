@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 14 grudnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 14 grudnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji Minister Klimatu i Środowiska kieruje działami administracji rządowej – energia i klimat, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Energii z dnia 30 sierpnia 2019 r. w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji (Dz. U. poz. 1665), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Klimatu z dnia 21 września 2020 r. zmieniającym rozporządzenie w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji (Dz. U. poz. 1682).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu z dnia 21 września 2020 r. zmieniającego rozporządzenie w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji (Dz. U. poz. 1682), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu z dnia 21 września 2020 r. zmieniającego rozporządzenie w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji (Dz. U. poz. 1682), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Klimatu i Środowiska kieruje działami administracji rządowej – energia i klimat, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
-Załącznik – Rozporządzenie Ministra Energii z dnia 30 sierpnia 2019 r. w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Klimatu i Środowiska kieruje działami administracji rządowej – energia i klimat, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Załącznik – Rozporządzenie Ministra Energii z dnia 30 sierpnia 2019 r. w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycjiObecnie działami administracji rządowej – energia i klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 Na podstawie art. 22 ust. 4 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2020 r. poz. 1077 i 2320 oraz z 2021 r. poz. 1047 i 2127) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa rodzaje programów i projektów przeznaczonych do realizacji w obszarach, o których mowa w art. 22 ust. 2 pkt 5, 5a i 8a-8c ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.
@@ -49,7 +46,7 @@ a)
 budowa, rozbudowa, przebudowa lub modernizacja instalacji odnawialnego źródła energii w rozumieniu art. 2 pkt 13 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2021 r. poz. 610, 1093, 1873 i 2376), zwanej dalej „instalacją odnawialnego źródła energii”, wraz z infrastrukturą niezbędną do jej funkcjonowania, w tym instalacji odnawialnego źródła energii odbiorcy końcowego, o którym mowa w art. 2 pkt 27a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, oraz instalacji odnawialnego źródła energii stanowiącej własność spółdzielni energetycznej w rozumieniu art. 2 pkt 33a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, lub jej członków,
 b)
 rozwój i wykorzystanie technologii lub narzędzi informatycznych służących stabilnej, przewidywalnej i efektywnej współpracy instalacji odnawialnego źródła energii z siecią elektroenergetyczną, gazową lub ciepłowniczą,
-c)
+cDodana przez § 1 rozporządzenia Ministra Klimatu z dnia 21 września 2020 r. zmieniającego rozporządzenie w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji (Dz. U. poz. 1682), które weszło w życie z dniem 15 października 2020 r.)
 zakup i podłączenie do instalacji wewnętrznej budynku mieszkalnego punktu ładowania w rozumieniu art. 2 pkt 17 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2021 r. poz. 110, 1093 i 2269), wykorzystującego energię elektryczną wytwarzaną przez prosumenta energii odnawialnej w rozumieniu art. 2 pkt 27a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii w instalacji odnawialnego źródła energii lub wykorzystującego energię elektryczną pobraną przez tego prosumenta z sieci dystrybucyjnej podlegającą rozliczeniu z energią elektryczną wytwarzaną przez niego w instalacji odnawialnego źródła energii, wraz z infrastrukturą niezbędną do funkcjonowania tego punktu;
 2)
 inwestycji w jednostki kogeneracji wytwarzające energię elektryczną i ciepło użytkowe w wysokosprawnej kogeneracji:
@@ -62,7 +59,7 @@ dostosowanie istniejących jednostek kogeneracji do niskoemisyjnej i elastycznej
 3)
 inwestycji realizowanych przez operatora systemu dystrybucyjnego:
 a)
-budowa, rozbudowa, przebudowa lub modernizacja sieci w rozumieniu art. 3 pkt 11 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.), w szczególności w celu umożliwienia przyłączenia do sieci nowych odbiorców, a także instalacji odnawialnego źródła energii, źródeł niskoemisyjnych lub jednostek kogeneracji,
+budowa, rozbudowa, przebudowa lub modernizacja sieci w rozumieniu art. 3 pkt 11 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1.), w szczególności w celu umożliwienia przyłączenia do sieci nowych odbiorców, a także instalacji odnawialnego źródła energii, źródeł niskoemisyjnych lub jednostek kogeneracji,
 b)
 modernizacja lub odtworzenie istniejących sieci w rozumieniu art. 3 pkt 11 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, związana z poprawą jakości lub niezawodności pracy sieci lub świadczenia usług dystrybucji,
 c)
@@ -93,6 +90,5 @@ rozwój i wykorzystanie technologii lub narzędzi informatycznych:
 – w celu efektywnego zarządzania pracą i optymalizacji pracy magazynów energii,
 – w ramach instalacji obejmujących i integrujących rozproszone jednostki wytwórcze, magazyny energii i inne elementy infrastruktury niezbędnej do ich funkcjonowania.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działami administracji rządowej – energia i klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Dodana przez § 1 rozporządzenia Ministra Klimatu z dnia 21 września 2020 r. zmieniającego rozporządzenie w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji (Dz. U. poz. 1682), które weszło w życie z dniem 15 października 2020 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1. 4) Rozporządzenie zostało ogłoszone w dniu 30 sierpnia 2019 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 30 sierpnia 2019 r.. 1) Obecnie działami administracji rządowej – energia i klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Dodana przez § 1 rozporządzenia Ministra Klimatu z dnia 21 września 2020 r. zmieniającego rozporządzenie w sprawie rodzajów programów i projektów przeznaczonych do realizacji w ramach Krajowego systemu zielonych inwestycji (Dz. U. poz. 1682), które weszło w życie z dniem 15 października 2020 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1. 4) Rozporządzenie zostało ogłoszone w dniu 30 sierpnia 2019 r.
 

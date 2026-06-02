@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2017-12-27 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002434) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2434/text.pdf) |
+
+Finansowanie ochrony zdrowia
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, 2110, 2217 i 2361) wprowadza się następujące zmiany:
 
@@ -33,7 +34,7 @@ source: "eli-html"
 - **5a)** dotacje podmiotowe z budżetu państwa z przeznaczeniem na finansowanie świadczeń gwarantowanych określonych w przepisach wydanych na podstawie art. 131d ust. 2; ” ;
 - **3)** po dziale V dodaje się dział Va w brzmieniu: „
 
-### Dział Va Finansowanie ochrony zdrowia
+### Dział Va
 
 **Art. 131c.**
 

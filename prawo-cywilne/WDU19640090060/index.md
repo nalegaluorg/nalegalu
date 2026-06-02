@@ -22,11 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1964-02-25 |
 | Data wydania | 1964-03-05 |
-| Wejście w życie | 1965-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1964/60/text.pdf) |
 
-Treść ustawy Rozdział I – Przepisy ogólne Rozdział II – Zmiany w przepisach obowiązujących Rozdział III – Przepisy przejściowe – Przepis końcowy
+– Przepis końcowy
+Przepisy ogólne
 Art. I.
 Kodeks rodzinny i opiekuńczy wchodzi w życie z dniem 1 stycznia 1965 r.
 Art. II.
@@ -42,17 +42,16 @@ przepisy wprowadzające kodeks rodzinny (ustawa z dnia 27 czerwca 1950 r. – Dz
 Pozostają w mocy przepisy art. 20 ustawy z dnia 10 grudnia 1959 r. o zwalczaniu alkoholizmu (Dz. U. Nr 69, poz. 434).
 Art. III.
 Jeżeli obowiązujące przepisy powołują się na przepisy uchylone niniejszą ustawą albo odsyłają ogólnie do przepisów, które dotyczą przedmiotów unormowanych w kodeksie rodzinnym i opiekuńczym, stosuje się odpowiednio przepisy tego kodeksu.
+Zmiany w przepisach obowiązujących
 Art. IV.
 W prawie o aktach stanu cywilnego (dekret z dnia 8 czerwca 1955 r. – Dz. U. Nr 25, poz. 151, z 1956 r. Nr 41, poz. 189, z 1958 r. Nr 72, poz. 358 i z 1962 r. Nr 10, poz. 46) wprowadza się zmiany następujące:
 1)
-w art. 34 ust. 1 otrzymuje brzmienie:
-„
+w art. 34 ust. 1 otrzymuje brzmienie: „
 1.
-Jeżeli według przepisów kodeksu rodzinnego i opiekuńczego nie istnieje domniemanie, że ojcem dziecka jest mąż matki, dane dotyczące osoby ojca będą wpisane tylko w razie uznania dziecka albo w razie ustalenia ojcostwa przez sąd.
-” ;
+Jeżeli według przepisów kodeksu rodzinnego i opiekuńczego nie istnieje domniemanie, że ojcem dziecka jest mąż matki, dane dotyczące osoby ojca będą wpisane tylko w razie uznania dziecka albo w razie ustalenia ojcostwa przez sąd. ” ;
 2)
-art. 38 otrzymuje brzmienie:
-„
+art. 38 otrzymuje brzmienie: „
+Przepisy przejściowe
 Art. V.
 Przepisy kodeksu rodzinnego i opiekuńczego stosuje się do stosunków w nim unormowanych, chociażby powstały przed jego wejściem w życie, chyba że przepisy poniższe stanowią inaczej.
 Art. VI.
@@ -86,9 +85,15 @@ Przepis końcowy
 Art. XIV.
 Ustawa wchodzi w życie z dniem 1 stycznia 1965 r.
 
-#### Rozdział I Przepisy ogólne
+#### Rozdział I – Przepisy ogólne
 
-#### Rozdział II Zmiany w przepisach obowiązujących
+#### Rozdział II – Zmiany w przepisach obowiązujących
+
+#### Rozdział III – Przepisy przejściowe
+
+#### Rozdział I
+
+#### Rozdział II
 
 **Art. 38.**
 
@@ -121,5 +126,5 @@ Ustawa wchodzi w życie z dniem 1 stycznia 1965 r.
 - **10)** w art. 79 ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** przyjmowania oświadczeń o uznaniu dziecka oraz o nadaniu dziecku przez małżonków nazwiska męża matki. ”
 
-#### Rozdział III Przepisy przejściowe
+#### Rozdział III
 

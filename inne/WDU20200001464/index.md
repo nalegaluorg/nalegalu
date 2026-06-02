@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-19 |
 | Data wydania | 2020-08-27 |
-| Wejście w życie | 2020-08-28 |
 | Ostatnia zmiana | 2024-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001464) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1464/text.pdf) |
 
@@ -37,8 +36,7 @@ sytuacji kryzysowych,
 b)
 stanów nadzwyczajnych,
 c)
-bezpośrednich zagrożeń dla bezpieczeństwa lub integralności infrastruktury telekomunikacyjnej przedsiębiorcy lub świadczonych przez niego usług
-zwanych dalej „sytuacjami szczególnych zagrożeń”;
+bezpośrednich zagrożeń dla bezpieczeństwa lub integralności infrastruktury telekomunikacyjnej przedsiębiorcy lub świadczonych przez niego usług – zwanych dalej „sytuacjami szczególnych zagrożeń”;
 2)
 organy uzgadniające plan działań w sytuacjach szczególnych zagrożeń, zwany dalej „planem”, oraz zakres tych uzgodnień;
 3)
@@ -110,8 +108,7 @@ podmiotów i służb wykonujących zadania w zakresie ratownictwa oraz niesienia
 b)
 podmiotów i służb wykonujących zadania na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego,
 c)
-podmiotów właściwych w sprawach zarządzania kryzysowego
-zwanych dalej „właściwymi podmiotami i służbami”, na podstawie danych udostępnionych przez organy uzgadniające plan lub inne organy administracji rządowej wskazane przez organy uzgadniające plan, a także oceny możliwości zaspokojenia tych potrzeb.
+podmiotów właściwych w sprawach zarządzania kryzysowego – zwanych dalej „właściwymi podmiotami i służbami”, na podstawie danych udostępnionych przez organy uzgadniające plan lub inne organy administracji rządowej wskazane przez organy uzgadniające plan, a także oceny możliwości zaspokojenia tych potrzeb.
 2.
 Dokonując analiz i ocen, o których mowa w ust. 1, przedsiębiorca bierze również pod uwagę własne dane o zaistniałych w przeszłości naruszeniach bezpieczeństwa lub integralności infrastruktury telekomunikacyjnej lub świadczonych usług.
 § 7.
@@ -228,5 +225,5 @@ Przedsiębiorca sporządza i uzgadnia plan zgodnie z przepisami niniejszego rozp
 2.
 Plany przedsiębiorców sporządzone, uzgodnione i wprowadzone do stosowania przed dniem wejścia w życie niniejszego rozporządzenia zachowują aktualność do upływu terminu ich sporządzenia, o którym mowa w ust. 1.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 28 sierpnia 2020 r.
+Rozporządzenie wchodzi w życie z dniem 28 sierpnia 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 4 stycznia 2010 r. w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń (Dz. U. poz. 77, z 2016 r. poz. 1798 oraz z 2017 r. poz. 2307), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 92 ust. 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2020 r. poz. 1369). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 4 stycznia 2010 r. w sprawie planu działań przedsiębiorcy telekomunikacyjnego w sytuacjach szczególnych zagrożeń (Dz. U. poz. 77, z 2016 r. poz. 1798 oraz z 2017 r. poz. 2307), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 92 ust. 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2020 r. poz. 1369).
 

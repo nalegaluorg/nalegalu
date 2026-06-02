@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-01 |
 | Data wydania | 2019-03-18 |
-| Wejście w życie | 2019-04-02 |
 | Ostatnia zmiana | 2026-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000509) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/509/text.pdf) |
 
@@ -111,5 +110,5 @@ Na wniosek prokuratora delegowanego kierownik jednostki przyznaje prokuratorowi 
 2.
 Zwrot kosztów następuje na podstawie umowy o używanie pojazdu do celów służbowych, zawartej między prokuratorem delegowanym a kierownikiem jednostki, na warunkach określonych w przepisach w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów niebędących własnością pracodawcy.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 6 grudnia 2016 r. w sprawie delegowania prokuratorów do Prokuratury Krajowej lub Ministerstwa Sprawiedliwości oraz Krajowej Szkoły Sądownictwa i Prokuratury, a także świadczeń przysługujących prokuratorom delegowanym poza stałe miejsce pełnienia służby (Dz. U. poz. 1995), które na podstawie art. 14 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1443) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 6 grudnia 2016 r. w sprawie delegowania prokuratorów do Prokuratury Krajowej lub Ministerstwa Sprawiedliwości oraz Krajowej Szkoły Sądownictwa i Prokuratury, a także świadczeń przysługujących prokuratorom delegowanym poza stałe miejsce pełnienia służby (Dz. U. poz. 1995), które na podstawie art. 14 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1443) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

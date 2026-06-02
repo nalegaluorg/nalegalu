@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 15 kwietnia 2020 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 15 kwietnia 2020 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-15 |
 | Data wydania | 2020-04-17 |
-| Wejście w życie | 2020-04-18 |
 | Ostatnia zmiana | 2025-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/696/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. z 2020 r. poz. 320, 437 i 547) w załączniku do rozporządzenia:
 1)
-w § 7 ust. 3 otrzymuje brzmienie:
-„
+w § 7 ust. 3 otrzymuje brzmienie: „
 3.
-Zmiana określonego w umowie miejsca udzielania świadczeń następuje na wniosek świadczeniodawcy, po uzyskaniu zgody dyrektora oddziału wojewódzkiego Funduszu. Brak odpowiedzi na wniosek w terminie 7 dni od dnia jego otrzymania oznacza jego pozytywne rozpatrzenie. Dyrektor oddziału wojewódzkiego Funduszu może, przed upływem tego terminu, po poinformowaniu o tym wnioskodawcy, wydłużyć termin rozpatrzenia wniosku o kolejne 7 dni. Brak odpowiedzi na wniosek w wydłużonym terminie oznacza jego pozytywne rozpatrzenie.
-” ;
+Zmiana określonego w umowie miejsca udzielania świadczeń następuje na wniosek świadczeniodawcy, po uzyskaniu zgody dyrektora oddziału wojewódzkiego Funduszu. Brak odpowiedzi na wniosek w terminie 7 dni od dnia jego otrzymania oznacza jego pozytywne rozpatrzenie. Dyrektor oddziału wojewódzkiego Funduszu może, przed upływem tego terminu, po poinformowaniu o tym wnioskodawcy, wydłużyć termin rozpatrzenia wniosku o kolejne 7 dni. Brak odpowiedzi na wniosek w wydłużonym terminie oznacza jego pozytywne rozpatrzenie. ” ;
 2)
 w § 10 uchyla się ust. 2;
 3)
@@ -45,14 +42,11 @@ w § 23:
 a)
 ust. 6 otrzymuje brzmienie: „6. Przepisów ust. 5 nie stosuje się w przypadku, gdy: 1) prawo do świadczeń zostało potwierdzone w sposób określony w art. 50 ust. 1 albo 3 ustawy lub 2) świadczeniodawca otrzymał za pośrednictwem dedykowanych serwisów internetowych lub usług informatycznych, o których mowa w § 10 ust. 1, informację o braku konieczności przekazania kopii albo odpisu dokumentu, o którym mowa w ust. 5.”,
 b)
-po ust. 6 dodaje się ust. 6a w brzmieniu:
-„
+po ust. 6 dodaje się ust. 6a w brzmieniu: „
 6a.
-Fundusz niezwłocznie informuje świadczeniodawcę, na jego wniosek, za pośrednictwem dedykowanych serwisów internetowych lub usług informatycznych, o których mowa w § 10 ust. 1, o braku konieczności przekazania kopii albo odpisu dokumentu, o którym mowa w ust. 5.
-” ,
+Fundusz niezwłocznie informuje świadczeniodawcę, na jego wniosek, za pośrednictwem dedykowanych serwisów internetowych lub usług informatycznych, o których mowa w § 10 ust. 1, o braku konieczności przekazania kopii albo odpisu dokumentu, o którym mowa w ust. 5. ” ,
 c)
-ust. 7 i 8 otrzymują brzmienie:
-„
+ust. 7 i 8 otrzymują brzmienie: „
 7.
 Raport statystyczny i informację, o której mowa w § 17 ust. 2, świadczeniodawca przekazuje w postaci elektronicznej.
 8.
@@ -60,14 +54,11 @@ Raport statystyczny i informację, o której mowa w § 17 ust. 2, świadczenioda
 1)
 z wykorzystaniem dedykowanego serwisu internetowego lub usług informatycznych, o których mowa w § 10 ust. 1;
 2)
-zgodnie z formatem ustalonym przez Prezesa Funduszu.
-” ,
+zgodnie z formatem ustalonym przez Prezesa Funduszu. ” ,
 d)
-dodaje się ust. 9 w brzmieniu:
-„
+dodaje się ust. 9 w brzmieniu: „
 9.
-W przypadku braku możliwości złożenia Funduszowi rachunku w postaci elektronicznej, dopuszcza się złożenie rachunku w postaci papierowej. Dane zawarte w rachunku świadczeniodawca przekazuje w postaci elektronicznej w sposób, o którym mowa w ust. 8.
-” ;
+W przypadku braku możliwości złożenia Funduszowi rachunku w postaci elektronicznej, dopuszcza się złożenie rachunku w postaci papierowej. Dane zawarte w rachunku świadczeniodawca przekazuje w postaci elektronicznej w sposób, o którym mowa w ust. 8. ” ;
 5)
 w § 25:
 a)
@@ -75,24 +66,20 @@ wyrazy „14 dni” zastępuje się wyrazami „5 dni roboczych”,
 b)
 uchyla się zdanie drugie;
 6)
-w § 26 ust. 4 otrzymuje brzmienie:
-„
+w § 26 ust. 4 otrzymuje brzmienie: „
 4.
-” ;
 7)
 w § 34 w ust. 1 zdanie drugie otrzymuje brzmienie: „ Świadczeniodawca w terminie 7 dni od dnia dokonania tych zmian informuje oddział wojewódzki Funduszu o dokonaniu zmian. ” ;
 8)
 uchyla się § 39;
 9)
-w § 40 ust. 1 otrzymuje brzmienie:
-„
+w § 40 ust. 1 otrzymuje brzmienie: „
 1.
 Oświadczenia Funduszu wymagające doręczenia świadczeniodawcy na piśmie są skuteczne, jeżeli zostaną dokonane:
 1)
 listem poleconym na adres siedziby świadczeniodawcy lub wskazany przez niego adres do doręczeń lub
 2)
-za pośrednictwem dedykowanych serwisów internetowych lub usług informatycznych, o których mowa w § 10 ust. 1, przy zapewnieniu, że składający oświadczenie uzyska potwierdzenie doręczenia pisma.
-” .
+za pośrednictwem dedykowanych serwisów internetowych lub usług informatycznych, o których mowa w § 10 ust. 1, przy zapewnieniu, że składający oświadczenie uzyska potwierdzenie doręczenia pisma. ” .
 § 2.
 1.
 Na wniosek świadczeniodawcy w okresie, o którym mowa w art. 36 ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, 567 i 568), należność dla danego zakresu świadczeń, o której mowa w § 18 ust. 1 załącznika do rozporządzenia zmienianego w § 1, może być ustalona jako iloczyn odwrotności liczby okresów sprawozdawczych w okresie rozliczeniowym i kwoty zobowiązania dla danego zakresu świadczeń.
@@ -121,8 +108,7 @@ Do wniosków o zmianę określonego w umowie o udzielanie świadczeń opieki zdr
 2.
 Świadczeniodawca może składać Narodowemu Funduszowi Zdrowia rachunek, o którym mowa w § 23 ust. 1 załącznika do rozporządzenia zmienianego w § 1, w postaci papierowej, nie dłużej niż do dnia 30 czerwca 2020 r.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 2 ust. 1, 3 i 4 oraz § 4 ust. 1 pkt 1 i 2, które wchodzą w życie z mocą od dnia 14 marca 2020 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 2 ust. 1, 3 i 4 oraz § 4 ust. 1 pkt 1 i 2, które wchodzą w życie z mocą od dnia 14 marca 2020 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
 
-##### Oddział wojewódzki Funduszu dokonuje płatności wstrzymanych należności w terminie 5 dni roboczych od dnia otrzymania uzupełnionych lub poprawionych dokumentów rozliczeniowych, informacji, o której mowa w § 17 ust. 2, dokumentów, o których mowa w § 23 ust. 5, lub otrzymania korygujących dokumentów rozliczeniowych.
+##### Oddział wojewódzki Funduszu dokonuje płatności wstrzymanych należności w terminie 5 dni roboczych od dnia otrzymania uzupełnionych lub poprawionych dokumentów rozliczeniowych, informacji, o której mowa w § 17 ust. 2, dokumentów, o których mowa w § 23 ust. 5, lub otrzymania korygujących dokumentów rozliczeniowych. ” ;
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 marca 2009 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki
+# Ustawaz dnia 20 marca 2009 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-03-20 |
 | Data wydania | 2009-04-23 |
-| Wejście w życie | 2009-05-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090630518) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/518/text.pdf) |
 
+dyrektywy 2002/59/WE Parlamentu Europejskiego i Rady z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę Rady 93/75/EWG(Dz. Urz. WE L 208 z 05.08.2002, str. 10; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12);
 2)
 dyrektywy 2005/35/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie zanieczyszczenia pochodzącego ze statków oraz wprowadzenia sankcji w przypadku naruszenia prawa (Dz. Urz. UE L 255 z 30.09.2005, str. 11).
 
@@ -49,14 +49,14 @@ dyrektywy 2005/35/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. 
 2. Kapitan statku o polskiej przynależności:
 
 - **1)** uczestniczącego w wypadku powodującym zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego,
-- **2)** na którym nastąpiło zdarzenie powodujące zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego jest obowiązany do niezwłocznego przekazania informacji o tym do stacji brzegowej najbliższego państwa nadbrzeżnego i armatora statku oraz dyrektora urzędu morskiego właściwego dla portu macierzystego statku.
+- **2)** na którym nastąpiło zdarzenie powodujące zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego – jest obowiązany do niezwłocznego przekazania informacji o tym do stacji brzegowej najbliższego państwa nadbrzeżnego i armatora statku oraz dyrektora urzędu morskiego właściwego dla portu macierzystego statku.
 
 3. Kapitan statku znajdującego się w polskich obszarach morskich, który zauważy na morzu zanieczyszczenie lub wypadek powodujący albo mogący spowodować rozlew oleju lub zanieczyszczenia innego rodzaju, przekazuje niezwłocznie informację do najbliższej stacji brzegowej lub Służby Kontroli Ruchu Statków, zwanej dalej „Służbą VTS”, oraz do armatora statku.
 
 4. Kapitan statku znajdującego się w polskich obszarach morskich:
 
 - **1)** uczestniczącego w wypadku powodującym zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego,
-- **2)** na którym nastąpiło zdarzenie powodujące zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego jest obowiązany do niezwłocznego przekazania informacji o tym do najbliższej stacji brzegowej lub Służby VTS i do armatora statku.
+- **2)** na którym nastąpiło zdarzenie powodujące zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego – jest obowiązany do niezwłocznego przekazania informacji o tym do najbliższej stacji brzegowej lub Służby VTS i do armatora statku.
 
 5. Informacja, o której mowa w ust. 1–4, zawiera:
 
@@ -104,9 +104,8 @@ dyrektywy 2005/35/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. 
 
 **Art. 37a.** Kto nie wykonuje obowiązków określonych w przepisach rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 782/2003 z dnia 14 kwietnia 2003 r. w sprawie zakazu stosowania związków cynoorganicznych na statkach oraz rozporządzenia Komisji (WE) nr 536/2008 z dnia 13 czerwca 2008 r. nadającego moc art. 6 ust. 3 i art. 7 rozporządzenia (WE) nr 782/2003 Parlamentu Europejskiego i Rady w sprawie zakazu stosowania związków cynoorganicznych na statkach oraz zmieniającego to rozporządzenie, podlega karze pieniężnej do wysokości 50 000 SDR. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 
-- **1)** Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
 - **1)** dyrektywy 2002/59/WE Parlamentu Europejskiego i Rady z dnia 27 czerwca 2002 r. ustanawiającej wspólnotowy system monitorowania i informacji o ruchu statków i uchylającej dyrektywę Rady 93/75/EWG (Dz. Urz. WE L 208 z 05.08.2002, str. 10; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 12);
 - **2)** dyrektywy 2005/35/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie zanieczyszczenia pochodzącego ze statków oraz wprowadzenia sankcji w przypadku naruszenia prawa (Dz. Urz. UE L 255 z 30.09.2005, str. 11).
 

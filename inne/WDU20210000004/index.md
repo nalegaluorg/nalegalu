@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 listopada 2020 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw
+# Ustawa z dnia 19 listopada 2020 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej oraz ustawę z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-19 |
 | Data wydania | 2021-01-04 |
-| Wejście w życie | 2021-01-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/4/text.pdf) |
 
@@ -233,5 +232,5 @@ source: "eli-html"
 - **1)** badania jakości kształcenia artystycznego, o których mowa w art. 53 ust. 1b ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, przeprowadza się zgodnie z przepisami art. 53 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą;
 - **2)** dyrektor specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1 ustawy zmienianej w art. 4, ogłasza informacje, o których mowa w art. 53 ust. 1d ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej oraz ustawę z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw.
 

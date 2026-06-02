@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 29 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 29 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 21 grudnia 2018 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 2531), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Klimatu i Środowiska z dnia 22 marca 2022 r. zmieniającym rozporządzenie w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 676).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 22 marca 2022 r. zmieniającego rozporządzenie w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 676), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 22 marca 2022 r. zmieniającego rozporządzenie w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 676), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
-Załącznik – Rozporządzenie Ministra Środowiska z dnia 21 grudnia 2018 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Załącznik – Rozporządzenie Ministra Środowiska z dnia 21 grudnia 2018 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegaturObecnie działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 Na podstawie art. 5 ust. 9 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa zasady i sposób organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur.
@@ -78,7 +75,7 @@ l)
 ochrony danych osobowych,
 m)
 ochrony informacji niejawnych,
-n)
+nDodana przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 22 marca 2022 r. zmieniającego rozporządzenie w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 676), które weszło w życie z dniem 26 marca 2022 r.)
 zwalczania przestępczości środowiskowej;
 2)
 delegatury.
@@ -102,6 +99,5 @@ Regulaminy organizacyjne określające organizację wojewódzkich inspektoratów
 § 5.
 Traci moc rozporządzenie Ministra Środowiska z dnia 30 maja 2011 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 747).
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Obecnie działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Dodana przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 22 marca 2022 r. zmieniającego rozporządzenie w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 676), które weszło w życie z dniem 26 marca 2022 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 1) Obecnie działem administracji rządowej – klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Dodana przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 22 marca 2022 r. zmieniającego rozporządzenie w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 676), które weszło w życie z dniem 26 marca 2022 r.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-10 |
 | Data wydania | 2020-09-21 |
-| Wejście w życie | 2020-09-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001622) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1622/text.pdf) |
 
@@ -31,27 +30,21 @@ Na podstawie art. 24 ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zaniec
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 8 sierpnia 2017 r. w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1631) wprowadza się następujące zmiany:
 1)
-w § 3 ust. 1 otrzymuje brzmienie:
-„
+w § 3 ust. 1 otrzymuje brzmienie: „
 1.
-Kapitan statku, który spowodował zagrożenie lub zanieczyszczenie morza, jest obowiązany podjąć, w miarę posiadanych możliwości, natychmiastowe działania mające na celu w szczególności zatrzymanie wypływu szkodliwej substancji lub ograniczenie jego wielkości oraz przeciwdziałanie rozprzestrzenianiu się zanieczyszczenia.
-” ;
+Kapitan statku, który spowodował zagrożenie lub zanieczyszczenie morza, jest obowiązany podjąć, w miarę posiadanych możliwości, natychmiastowe działania mające na celu w szczególności zatrzymanie wypływu szkodliwej substancji lub ograniczenie jego wielkości oraz przeciwdziałanie rozprzestrzenianiu się zanieczyszczenia. ” ;
 2)
-po § 9 dodaje się § 9a w brzmieniu:
-„
+po § 9 dodaje się § 9a w brzmieniu: „
 § 9a.
 Do Krajowego Planu załącza się zatwierdzone plany zwalczania:
 1)
 zagrożeń i zanieczyszczeń wód portowych opracowane przez podmioty zarządzające portem lub przystanią morską oraz podmioty prowadzące działalność i użytkujące nabrzeże w granicach portu morskiego lub przystani morskiej, których działalność może powodować zagrożenie zanieczyszczenia wód portowych;
 2)
-rozlewów olejowych i likwidacji zagrożeń dla środowiska opracowane przez podmioty prowadzące działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej.
-” ;
+rozlewów olejowych i likwidacji zagrożeń dla środowiska opracowane przez podmioty prowadzące działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej. ” ;
 3)
-w § 14 ust. 2 otrzymuje brzmienie:
-„
+w § 14 ust. 2 otrzymuje brzmienie: „
 2.
-Działania mające na celu zwalczanie zagrożeń i zanieczyszczeń na obszarach portowych podejmują kierownicy podmiotów prowadzących działalność i użytkujących nabrzeża w granicach portów morskich lub przystani morskich oraz podmioty zarządzające portem lub przystanią morską przy wykorzystaniu wyspecjalizowanych jednostek organizacyjnych, zgodnie z planami zwalczania zagrożeń i zanieczyszczeń wód portowych.
-” ;
+Działania mające na celu zwalczanie zagrożeń i zanieczyszczeń na obszarach portowych podejmują kierownicy podmiotów prowadzących działalność i użytkujących nabrzeża w granicach portów morskich lub przystani morskich oraz podmioty zarządzające portem lub przystanią morską przy wykorzystaniu wyspecjalizowanych jednostek organizacyjnych, zgodnie z planami zwalczania zagrożeń i zanieczyszczeń wód portowych. ” ;
 4)
 uchyla się § 15.
 § 2.

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-02 |
 | Data wydania | 2024-02-14 |
-| Wejście w życie | 2024-02-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/183/text.pdf) |
 
@@ -57,5 +56,5 @@ dla dotacji podmiotowej – do 20 dnia po zakończeniu danego kwartału.
 2.
 Rozliczenie dotacji celowej na przejściowe finansowanie zadań w części pozostającej do opłacenia przez organy Organizacji Traktatu Północnoatlantyckiego następuje przez kompensatę wzajemnych płatności składek do wspólnego budżetu inwestycyjnego Organizacji Traktatu Północnoatlantyckiego w wysokości określonej w dokumentach decyzyjnych Komitetu Inwestycyjnego Organizacji Traktatu Północnoatlantyckiego, z uwzględnieniem całkowitego rozliczenia zadania.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 21 kwietnia 2022 r. w sprawie wysokości oraz warunków i trybu przyznawania i rozliczania dotacji dla instytucji gospodarki budżetowej powołanej w celu realizacji na terytorium Rzeczypospolitej Polskiej zadań inwestycyjnych określonych w Programie Inwestycji Organizacji Traktatu Północnoatlantyckiego w Dziedzinie Bezpieczeństwa (Dz. U. poz. 871), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 21 kwietnia 2022 r. w sprawie wysokości oraz warunków i trybu przyznawania i rozliczania dotacji dla instytucji gospodarki budżetowej powołanej w celu realizacji na terytorium Rzeczypospolitej Polskiej zadań inwestycyjnych określonych w Programie Inwestycji Organizacji Traktatu Północnoatlantyckiego w Dziedzinie Bezpieczeństwa (Dz. U. poz. 871), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872).
 

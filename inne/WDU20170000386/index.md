@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-22 |
 | Data wydania | 2017-02-28 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/386/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zatrzymywanie osób Rozdział 3 – Przeszukiwanie osób, lokali mieszkalnych, pomieszczeń i innych miejsc, bagażu, ładunku i środków przewozowych oraz zatrzymywanie rzeczy Rozdział 4 – Doprowadzanie osób zatrzymanych Rozdział 5 – Współpraca Służby Celno-Skarbowej z Policją i Strażą Graniczną Rozdział 6 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 135 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947 i 2255 oraz z 2017 r. poz. 88, 244 i 379) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -50,6 +50,7 @@ Funkcjonariusz nieumundurowany przy wykonywaniu czynności, o których mowa w §
 Po wykonaniu czynności, o których mowa w § 1 pkt 1, funkcjonariusz ustnie informuje osobę, wobec której czynności te podjęto, o prawie złożenia zażalenia na sposób przeprowadzenia tych czynności do prokuratora właściwego ze względu na miejsce ich przeprowadzenia.
 § 3.
 Jeżeli w trakcie wykonywania czynności, o których mowa w § 1 pkt 1, zostaną ujawnione przedmioty stwarzające niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia, funkcjonariusz, w granicach dostępnych środków, niezwłocznie podejmuje czynności ochronne, a w szczególności zabezpiecza niebezpieczne przedmioty i miejsce zagrożone przed dostępem osób postronnych oraz powiadamia dyżurnego w urzędzie celno-skarbowym właściwym ze względu na miejsce zdarzenia o konieczności podjęcia działań usuwających to niebezpieczeństwo.
+Zatrzymywanie osób
 § 4.
 1.
 Funkcjonariusz podczas zatrzymywania osoby w kolejności:
@@ -135,6 +136,7 @@ powiadamia o zatrzymaniu właściwego miejscowo prokuratora.
 Jeżeli zachowanie osoby zatrzymanej wskazuje na to, że jest ona pod wpływem alkoholu lub innego podobnie działającego środka albo z innych powodów ma zakłóconą świadomość, osobę taką poddaje się niezwłocznie badaniu lekarskiemu.
 2.
 Czynności określone w § 6 pkt 1, 2, 4 i 5 wykonuje się po ustaniu przyczyn zakłócających świadomość osoby zatrzymanej.
+Przeszukiwanie osób, lokali mieszkalnych, pomieszczeń i innych miejsc, bagażu, ładunku i środków przewozowych oraz zatrzymywanie rzeczy
 § 8.
 1.
 Funkcjonariusz dokonujący przeszukania osób, lokali mieszkalnych, pomieszczeń i innych miejsc, bagażu, ładunku lub środków przewozowych, zwanego dalej „przeszukaniem”, okazuje postanowienie sądu lub prokuratora.
@@ -211,6 +213,7 @@ Funkcjonariusz, który ujawnił:
 rzeczy mogące stanowić dowód w sprawie o przestępstwo, wykroczenie, przestępstwo skarbowe lub wykroczenie skarbowe, którego ściganie należy do zadań Krajowej Administracji Skarbowej, lub podlegające zajęciu w takim postępowaniu, zatrzymuje te rzeczy za pokwitowaniem;
 2)
 rzeczy mogące stanowić dowód w sprawie o przestępstwo, wykroczenie, przestępstwo skarbowe lub wykroczenie skarbowe, podlegające zajęciu w postępowaniu, którego ściganie nie należy do zadań Krajowej Administracji Skarbowej, niezwłocznie powiadamia o tym Policję lub inny właściwy organ.
+Doprowadzanie osób zatrzymanych
 § 14.
 Doprowadzenie osoby zatrzymanej, o którym mowa w art. 134 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, zwane dalej „doprowadzeniem”, nie może być wykonywane z narażeniem życia lub zdrowia uczestników doprowadzenia lub osób postronnych.
 § 15.
@@ -311,6 +314,7 @@ informację dotyczącą okoliczności powstania widocznych obrażeń ciała – 
 dodatkowe informacje dotyczące przekazania;
 10)
 podpisy dowódcy i funkcjonariusza przyjmującego.
+Współpraca Służby Celno-Skarbowej z Policją i Strażą Graniczną
 § 24.
 Współpraca Służby Celno-Skarbowej z Policją i Strażą Graniczną, zwana dalej „współpracą”, jest prowadzona w związku z wykonywanymi przez funkcjonariuszy czynnościami, o których mowa w § 1 pkt 1 i 2, w zakresie:
 1)
@@ -335,21 +339,33 @@ W przypadku dokonania zatrzymania w znacznej odległości od siedziby jednostki 
 W przypadku gdy wobec osób zatrzymanych zachodzi podejrzenie, że mogą one dokonać zamachu na życie lub zdrowie własne, funkcjonariuszy lub innych osób lub podjąć próbę ucieczki, albo w przypadku doprowadzenia osób zachowujących się agresywnie, Policja lub Straż Graniczna, w miarę posiadanych możliwości, na wniosek organu Krajowej Administracji Skarbowej, udziela pomocy przy wykonywaniu doprowadzenia, a w szczególności zapewnia przewóz osoby zatrzymanej środkiem transportu z przedziałem dla osób konwojowanych lub doprowadzanych.
 § 28.
 W przypadkach uzasadnionych koniecznością dostosowania zakresu i trybu współpracy do szczególnych, indywidualnych uwarunkowań, właściwe organy Krajowej Administracji Skarbowej, Policji i Straży Granicznej mogą zawierać porozumienia określające zakres niezbędnych dostosowań.
+Przepisy przejściowe i końcowe
 § 29.
 Wszczęte i niezakończone przed dniem 1 marca 2017 r. sprawy związane z czynnościami zatrzymywania i przeszukiwania osób, zatrzymywania rzeczy, zatrzymywania pojazdów i innych środków przewozowych, przeszukiwania pomieszczeń, bagażu, ładunku, środków transportu i statków, a także badania towarów i pobierania ich próbek, do których właściwy był dyrektor izby celnej albo dyrektor urzędu kontroli skarbowej, przejmuje naczelnik urzędu celno-skarbowego.
 § 30.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Zakres spraw regulowany niniejszym rozporządzeniem był poprzednio uregulowany w: 1) rozporządzeniu Rady Ministrów z dnia 18 października 2010 r. w sprawie sposobu wykonywania niektórych czynności przez funkcjonariuszy celnych oraz trybu i zakresu współpracy Służby Celnej z Policją i Strażą Graniczną (Dz. U. poz. 1386), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379); 2) rozporządzeniu Ministra Finansów z dnia 8 lipca 2011 r. w sprawie warunków, sposobu i szczegółowego trybu wykonywania niektórych czynności przez inspektorów i pracowników kontroli skarbowej, sposobu i trybu współpracy z Policją w zakresie wykonywanych czynności oraz wzorów dokumentów stosowanych w sprawach zatrzymania osoby i kontroli rodzaju paliwa używanego do napędu pojazdu mechanicznego (Dz. U. poz. 899), które w części dotyczącej zatrzymywania i przeszukiwania osób, przeszukiwania pomieszczeń, bagażu i ładunku, zatrzymywania pojazdów i innych środków przewozowych, oraz współpracy z Policją w zakresie dokonywania tych czynności traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej.
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.Zakres spraw regulowany niniejszym rozporządzeniem był poprzednio uregulowany w: 1) rozporządzeniu Rady Ministrów z dnia 18 października 2010 r. w sprawie sposobu wykonywania niektórych czynności przez funkcjonariuszy celnych oraz trybu i zakresu współpracy Służby Celnej z Policją i Strażą Graniczną (Dz. U. poz. 1386), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379); 2) rozporządzeniu Ministra Finansów z dnia 8 lipca 2011 r. w sprawie warunków, sposobu i szczegółowego trybu wykonywania niektórych czynności przez inspektorów i pracowników kontroli skarbowej, sposobu i trybu współpracy z Policją w zakresie wykonywanych czynności oraz wzorów dokumentów stosowanych w sprawach zatrzymania osoby i kontroli rodzaju paliwa używanego do napędu pojazdu mechanicznego (Dz. U. poz. 899), które w części dotyczącej zatrzymywania i przeszukiwania osób, przeszukiwania pomieszczeń, bagażu i ładunku, zatrzymywania pojazdów i innych środków przewozowych, oraz współpracy z Policją w zakresie dokonywania tych czynności traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej. 1) Zakres spraw regulowany niniejszym rozporządzeniem był poprzednio uregulowany w: 1) rozporządzeniu Rady Ministrów z dnia 18 października 2010 r. w sprawie sposobu wykonywania niektórych czynności przez funkcjonariuszy celnych oraz trybu i zakresu współpracy Służby Celnej z Policją i Strażą Graniczną (Dz. U. poz. 1386), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379); 2) rozporządzeniu Ministra Finansów z dnia 8 lipca 2011 r. w sprawie warunków, sposobu i szczegółowego trybu wykonywania niektórych czynności przez inspektorów i pracowników kontroli skarbowej, sposobu i trybu współpracy z Policją w zakresie wykonywanych czynności oraz wzorów dokumentów stosowanych w sprawach zatrzymania osoby i kontroli rodzaju paliwa używanego do napędu pojazdu mechanicznego (Dz. U. poz. 899), które w części dotyczącej zatrzymywania i przeszukiwania osób, przeszukiwania pomieszczeń, bagażu i ładunku, zatrzymywania pojazdów i innych środków przewozowych, oraz współpracy z Policją w zakresie dokonywania tych czynności traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zatrzymywanie osób
+#### Rozdział 2 – Zatrzymywanie osób
 
-#### Rozdział 3 Przeszukiwanie osób, lokali mieszkalnych, pomieszczeń i innych miejsc, bagażu, ładunku i środków przewozowych oraz zatrzymywanie rzeczy
+#### Rozdział 3 – Przeszukiwanie osób, lokali mieszkalnych, pomieszczeń i innych miejsc, bagażu, ładunku i środków przewozowych oraz zatrzymywanie rzeczy
 
-#### Rozdział 4 Doprowadzanie osób zatrzymanych
+#### Rozdział 4 – Doprowadzanie osób zatrzymanych
 
-#### Rozdział 5 Współpraca Służby Celno-Skarbowej z Policją i Strażą Graniczną
+#### Rozdział 5 – Współpraca Służby Celno-Skarbowej z Policją i Strażą Graniczną
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

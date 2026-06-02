@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 17 czerwca 2024 r. zmieniające rozporządzenie w sprawie nadzoru i kontroli w pomocy społecznej
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 17 czerwca 2024 r. zmieniające rozporządzenie w sprawie nadzoru i kontroli w pomocy społecznej Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-17 |
 | Data wydania | 2024-06-20 |
-| Wejście w życie | 2024-06-21 |
 | Ostatnia zmiana | 2025-08-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000912) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/912/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 134 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 134 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rodziny i Polityki Społecznej z dnia 9 grudnia 2020 r. w sprawie nadzoru i kontroli w pomocy społecznej (Dz. U. poz. 2285) wprowadza się następujące zmiany:
 1)
@@ -35,11 +34,9 @@ w § 2 w pkt 1 wyrazy „mieszkanie chronione” zastępuje się wyrazami „mie
 2)
 w § 5 w ust. 2 kropkę zastępuje się przecinkiem i dodaje się wyrazy „problemowej lub doraźnej.”;
 3)
-w § 6 dodaje się ust. 3 w brzmieniu:
-„
+w § 6 dodaje się ust. 3 w brzmieniu: „
 3.
-Kontrola problemowa może być prowadzona w siedzibie kontrolującego, na podstawie dokumentów udostępnionych przez jednostkę podlegającą kontroli.
-” ;
+Kontrola problemowa może być prowadzona w siedzibie kontrolującego, na podstawie dokumentów udostępnionych przez jednostkę podlegającą kontroli. ” ;
 4)
 w § 14 w pkt 4 średnik zastępuje się przecinkiem i dodaje się wyrazy „w miarę możliwości oddzielne pomieszczenie z odpowiednim wyposażeniem;”;
 5)
@@ -47,6 +44,5 @@ w § 19 uchyla się ust. 4.
 § 2.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859.
 

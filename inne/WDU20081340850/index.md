@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-06-27 |
 | Data wydania | 2008-07-28 |
-| Wejście w życie | 2008-09-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081340850) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/850/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. Nr 192, poz. 1378) wprowadza się następujące zmiany:
 
-- **1)** po art. 1 dodaje się art. 1a w brzmieniu: „
+- **1)** po art. 1 dodaje się art. 1a w brzmieniu: „ Art. 1 a. 1. Świadczenia z funduszu alimentacyjnego przysługują:
 - **1)** obywatelom polskim;
 - **2)** cudzoziemcom: jeżeli wynika to z przepisów o koordynacji systemów zabezpieczenia społecznego, jeżeli wynika to z wiążących Rzeczpospolitą Polską umów dwustronnych o zabezpieczeniu społecznym, przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na osiedlenie się, zezwolenia na pobyt rezydenta długoterminowego Wspólnot Europejskich oraz zezwolenia na zamieszkanie na czas oznaczony udzielonego w związku z okolicznością, o której mowa w art. 53 ust. 1 pkt 13 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 70, poz. 416), przebywającym na terytorium Rzeczypospolitej Polskiej w związku z uzyskaniem statusu uchodźcy lub ochrony uzupełniającej.
     - **a)**
@@ -48,7 +47,7 @@ source: "eli-html"
     - **c)**
     - **c)**
 
-- **12)** rodzinie – oznacza to odpowiednio następujących członków rodziny: rodziców osoby uprawnionej, małżonka rodzica osoby uprawnionej, osobę, z którą rodzic osoby uprawnionej wychowuje wspólne dziecko, pozostające na ich utrzymaniu dzieci w wieku do ukończenia 25. roku życia oraz dziecko, które ukończyło 25. rok życia otrzymujące świadczenia z funduszu alimentacyjnego lub legitymujące się orzeczeniem o znacznym stopniu niepełnosprawności, jeżeli w związku z tą niepełnosprawnością przysługuje świadczenie pielęgnacyjne, o którym mowa w przepisach ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm.), a także osobę uprawnioną; do rodziny nie zalicza się: dziecka pozostającego pod opieką opiekuna prawnego, dziecka pozostającego w związku małżeńskim, pełnoletniego dziecka posiadającego dziecko, rodzica osoby uprawnionej zobowiązanego tytułem wykonawczym pochodzącym lub zatwierdzonym przez sąd do alimentów na jej rzecz; ” , uchyla się pkt 15, po pkt 15 dodaje się pkt 15a w brzmieniu: „
+- **12)** rodzinie – oznacza to odpowiednio następujących członków rodziny: rodziców osoby uprawnionej, małżonka rodzica osoby uprawnionej, osobę, z którą rodzic osoby uprawnionej wychowuje wspólne dziecko, pozostające na ich utrzymaniu dzieci w wieku do ukończenia 25. roku życia oraz dziecko, które ukończyło 25. rok życia otrzymujące świadczenia z funduszu alimentacyjnego lub legitymujące się orzeczeniem o znacznym stopniu niepełnosprawności, jeżeli w związku z tą niepełnosprawnością przysługuje świadczenie pielęgnacyjne, o którym mowa w przepisach ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446 oraz z 2008 r. Nr 70, poz. 416.), a także osobę uprawnioną; do rodziny nie zalicza się: dziecka pozostającego pod opieką opiekuna prawnego, dziecka pozostającego w związku małżeńskim, pełnoletniego dziecka posiadającego dziecko, rodzica osoby uprawnionej zobowiązanego tytułem wykonawczym pochodzącym lub zatwierdzonym przez sąd do alimentów na jej rzecz; ” , uchyla się pkt 15, po pkt 15 dodaje się pkt 15a w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -76,7 +75,7 @@ source: "eli-html"
 
 6. W przypadku gdy członek rodziny przebywa w instytucji zapewniającej całodobowe utrzymanie, ustalając dochód rodziny w przeliczeniu na osobę, nie uwzględnia się osoby przebywającej w tej instytucji.
 
-7. W przypadku ustalania dochodu z gospodarstwa rolnego przyjmuje się, że z 1 ha przeliczeniowego uzyskuje się dochód miesięczny w wysokości 1/12 dochodu ogłaszanego corocznie w drodze obwieszczenia przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 18 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2006 r. Nr 136, poz. 969, z późn. zm.). ” , ust. 11 otrzymuje brzmienie: „
+7. W przypadku ustalania dochodu z gospodarstwa rolnego przyjmuje się, że z 1 ha przeliczeniowego uzyskuje się dochód miesięczny w wysokości 1/12 dochodu ogłaszanego corocznie w drodze obwieszczenia przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 18 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2006 r. Nr 136, poz. 969, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 191, poz. 1412, Nr 245, poz. 1775 i Nr 249, poz. 1825, z 2007 r. Nr 109, poz. 747 oraz z 2008 r. Nr 116, poz. 730.). ” , ust. 11 otrzymuje brzmienie: „
 
 - **c)**
 
@@ -169,5 +168,5 @@ source: "eli-html"
 - **20)** w art. 48 pkt 1 otrzymuje brzmienie: „
 - **1)** art. 12 ust. 2 i 3a, art. 15 ust. 9, art. 20 ust. 3–5 i art. 46a, które wchodzą w życie z dniem 1 sierpnia 2008 r.; ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 30 września 2008 r., z wyjątkiem art. 1 pkt 6 lit. a i b, pkt 19 i 20, które wchodzą w życie z dniem 31 lipca 2008 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 30 września 2008 r., z wyjątkiem art. 1 pkt 6 lit. a i b, pkt 19 i 20, które wchodzą w życie z dniem 31 lipca 2008 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446 oraz z 2008 r. Nr 70, poz. 416. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 191, poz. 1412, Nr 245, poz. 1775 i Nr 249, poz. 1825, z 2007 r. Nr 109, poz. 747 oraz z 2008 r. Nr 116, poz. 730.
 

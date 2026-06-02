@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-17 |
 | Data wydania | 2020-01-07 |
-| Wejście w życie | 2020-01-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/18/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) po § 13v dodaje się § 13w w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025 oraz z 2019 r. poz. 157, 1323 i 1779.) po § 13v dodaje się § 13w w brzmieniu: „
 § 13w.
 1.
 W 2020 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie objętym działem administracji rządowej – rybołówstwo, o której mowa w § 2 ust. 1 pkt 6, podatnikowi podatku rolnego, który w 2019 r. prowadził chów lub hodowlę ryb słodkowodnych w stawach rybnych położonych na obszarze gmin, w których wystąpiła w 2019 r. susza lub powódź, w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich.
@@ -67,8 +65,7 @@ Wysokość pomocy, o której mowa w ust. 1, ustala się jako iloczyn deklarowane
 7.
 Stawka pomocy, o której mowa w ust. 6, wynosi 300 zł na 1 ha powierzchni gruntów pod stawami zarybionymi.
 8.
-Termin składania wniosków, o których mowa w ust. 3, minister właściwy do spraw rolnictwa ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu najpóźniej 14 dni przed rozpoczęciem terminu składania tych wniosków.
-” .
+Termin składania wniosków, o których mowa w ust. 3, minister właściwy do spraw rolnictwa ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu najpóźniej 14 dni przed rozpoczęciem terminu składania tych wniosków. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025 oraz z 2019 r. poz. 157, 1323 i 1779.
 

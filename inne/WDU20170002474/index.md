@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 21 grudnia 2017 r. w sprawie sposobu prowadzenia przez publiczne szkoły i placówki artystyczne dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 21 grudnia 2017 r. w sprawie sposobu prowadzenia przez publiczne szkoły i placówki artystyczne dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-21 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2017-12-30 |
 | Ostatnia zmiana | 2025-10-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2474/text.pdf) |
 
@@ -200,15 +199,11 @@ Do czasu ukończenia szkoły przez uczniów arkusze ocen przechowuje się oddzie
 Szkoła zakłada księgi arkuszy ocen.
 3.
 4.
-Na końcu księgi arkuszy ocen umieszcza się adnotację:
-„
+Na końcu księgi arkuszy ocen umieszcza się adnotację: „ Księga zawiera:
 1).
-.............................. arkuszy ocen uczniów, (podać liczbę)
-którzy ukończyli szkołę;
+.............................. arkuszy ocen uczniów, (podać liczbę) którzy ukończyli szkołę;
 2).
-.............................. arkuszy ocen uczniów, (podać liczbę)
-którzy z różnych przyczyn opuścili szkołę.
-” .
+.............................. arkuszy ocen uczniów, (podać liczbę) którzy z różnych przyczyn opuścili szkołę. ” .
 5.
 Adnotację na końcu księgi arkuszy ocen opatruje się pieczęcią szkoły oraz pieczątką i podpisem dyrektora szkoły.
 § 7.
@@ -275,10 +270,7 @@ Dokumentacja przebiegu nauczania prowadzona przez publiczne szkoły i placówki 
 2.
 Dokumentacja badań i czynności uzupełniających prowadzona przez publiczne szkoły i placówki artystyczne, o których mowa w przepisach wydanych na podstawie art. 18 ust. 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, dla roku szkolnego 2017/2018, dla ucznia objętego pomocą psychologiczno-pedagogiczną lub inna dokumentacja związana z udzielaniem takiej pomocy, spełniająca wymogi niniejszego rozporządzenia stanowi odpowiednio dokumentację badań i czynności uzupełniających dla ucznia objętego pomocą psychologiczno-pedagogiczną lub inną dokumentację związaną z udzielaniem takiej pomocy w rozumieniu niniejszego rozporządzenia.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 # Księga arkuszy ocen zawiera ułożone w porządku alfabetycznym wykazy uczniów wszystkich klas, którzy w danym roku szkolnym ukończyli lub opuścili szkołę, oraz ich arkusze ocen. Na pierwszej stronie księgi arkuszy ocen umieszcza się adnotację: „Księga arkuszy ocen uczniów, którzy w roku szkolnym......................... ukończyli lub opuścili szkołę.”.
-
-# Księga zawiera:
 

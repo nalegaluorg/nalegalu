@@ -38,8 +38,7 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmie
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2–6 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1137), które stanowią:
-„
+§ 2–6 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1137), które stanowią: „
 § 2.
 Do spraw dotyczących przyznania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia:
 1)
@@ -81,8 +80,7 @@ w sposób, o którym mowa w § 12 ust. 1 i ust. 1a rozporządzenia wymienionego 
 2)
 w terminach, o których mowa w § 10 ust. 2 i 3 rozporządzenia wymienionego w § 1, przy czym w przypadku wniosków o przyznanie pomocy złożonych przesyłką rejestrowaną, nadaną w placówce pocztowej operatora wyznaczonego, w terminie, o którym mowa w § 10 ust. 2 lub 3, wpłynęły one do oddziału regionalnego Agencji w terminie do 30 dnia od dnia upływu terminu składania wniosków o przyznanie pomocy,
 3)
-zawierające zapotrzebowanie na środki przekraczające wysokość limitu wojewódzkiego na dzień 23 lipca 2014 r.
-pomoc przysługuje według kolejności ustalonej przez Agencję dla całego kraju przy zastosowaniu kryteriów wyboru operacji.
+zawierające zapotrzebowanie na środki przekraczające wysokość limitu wojewódzkiego na dzień 23 lipca 2014 r. – pomoc przysługuje według kolejności ustalonej przez Agencję dla całego kraju przy zastosowaniu kryteriów wyboru operacji.
 2.
 Agencja, ustalając kolejność przysługiwania pomocy, uwzględnia wszystkie wnioski o przyznanie pomocy, o których mowa w ust. 1, z wyłączeniem tych, do których ma zastosowanie przepis § 3 ust. 9.
 3.
@@ -90,19 +88,17 @@ O kolejności przysługiwania pomocy decyduje suma uzyskanych punktów przyznany
 1)
 powierzchnia trwałych użytków zielonych, o których mowa w § 15 ust. 3b rozporządzenia wymienionego w § 1, jest określana na podstawie powierzchni trwałych użytków zielonych zadeklarowanej w 2014 r. we wniosku o przyznanie jednolitej płatności obszarowej;
 2)
-średnia roczna liczba sztuk, o której mowa w § 15 ust. 3d rozporządzenia wymienionego w § 1, jest obliczana za okres od dnia 1 stycznia 2013 r. do dnia 31 grudnia 2013 r., na podstawie zdarzeń zgłoszonych do rejestru zwierząt gospodarskich oznakowanych, o którym mowa w ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2008 r. Nr 204, poz. 1281, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 116, poz. 976, z 2012 r. poz. 1529 oraz z 2014 r. poz. 29.), do dnia 31 lipca 2014 r.
+średnia roczna liczba sztuk, o której mowa w § 15 ust. 3d rozporządzenia wymienionego w § 1, jest obliczana za okres od dnia 1 stycznia 2013 r. do dnia 31 grudnia 2013 r., na podstawie zdarzeń zgłoszonych do rejestru zwierząt gospodarskich oznakowanych, o którym mowa w ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2008 r. Nr 204, poz. 1281, z późn. zm.a)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 116, poz. 976, z 2012 r. poz. 1529 oraz z 2014 r. poz. 29.), do dnia 31 lipca 2014 r.
 4.
 Kolejność, o której mowa w ust. 1, jest ustalana na podstawie danych zawartych we wniosku o przyznanie pomocy, które zostały zaktualizowane zgodnie z § 3, a w przypadku, o którym mowa w § 15 ust. 3 pkt 6 rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, na podstawie danych z rejestru zwierząt gospodarskich oznakowanych. Jeżeli wniosek nie zawiera danych niezbędnych do ustalenia kolejności, nie przyznaje się punktów.
 5.
 Prezes Agencji, niezwłocznie po ustaleniu kolejności, o której mowa w ust. 1, podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję, informację o kolejności przysługiwania pomocy. Informacja ta jest aktualizowana w przypadkach, o których mowa w § 15 ust. 13 rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, nie rzadziej niż co 10 dni.
 § 5.
-W przypadku osób wspólnie wnioskujących, których wniosek o przyznanie pomocy złożony w 2011 r. zawiera zapotrzebowanie na środki przekraczające wysokość limitu środków w podziale na poszczególne województwa w ramach działania, o którym mowa w § 1, określonego w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 stycznia 2013 r. w sprawie podziału środków Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 119, z późn. zm.b) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 797 i 1357 oraz z 2014 r. poz. 904.) na dzień 23 lipca 2014 r., przepisu § 8 ust. 5b rozporządzenia wymienionego w § 1 nie stosuje się.
+W przypadku osób wspólnie wnioskujących, których wniosek o przyznanie pomocy złożony w 2011 r. zawiera zapotrzebowanie na środki przekraczające wysokość limitu środków w podziale na poszczególne województwa w ramach działania, o którym mowa w § 1, określonego w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 stycznia 2013 r. w sprawie podziału środków Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 119, z późn. zm.b)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 797 i 1357 oraz z 2014 r. poz. 904.) na dzień 23 lipca 2014 r., przepisu § 8 ust. 5b rozporządzenia wymienionego w § 1 nie stosuje się.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” ;
 2)
-§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 894), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 894), które stanowią: „
 § 2.
 1.
 Umowa o przyznanie pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 zawarta przed dniem wejścia w życie niniejszego rozporządzenia może być zmieniona w zakresie wynikającym ze zmian wprowadzonych tym rozporządzeniem, jeżeli beneficjent złoży najpóźniej do dnia 15 lipca 2015 r. w oddziale regionalnym Agencji Restrukturyzacji i Modernizacji Rolnictwa, w którym została zawarta umowa o przyznanie pomocy finansowej, wniosek o dokonanie takich zmian.
@@ -113,10 +109,8 @@ Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa podaje do publicznej wi
 § 3.
 Jeżeli wniosek o płatność został złożony po dniu 30 czerwca 2015 r., czynności, o których mowa w § 26 ust. 1, 2 i 4 rozporządzenia zmienianego w § 1, dokonuje się w terminie 7 dni od dnia doręczenia wezwania, o którym mowa odpowiednio w § 26 ust. 1, 2 lub 4 rozporządzenia zmienianego w § 1.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 116, poz. 976, z 2012 r. poz. 1529 oraz z 2014 r. poz. 29. b) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 797 i 1357 oraz z 2014 r. poz. 904.
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 116, poz. 976, z 2012 r. poz. 1529 oraz z 2014 r. poz. 29. b) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 797 i 1357 oraz z 2014 r. poz. 904.
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 173 oraz z 2015 r. poz. 349) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanej dalej „pomocą”, w tym:
@@ -129,7 +123,7 @@ szczegółowe wymagania, jakim powinna odpowiadać umowa, na podstawie której j
 4)
 przypadki, w których następcy prawnemu beneficjenta albo nabywcy gospodarstwa albo jego części może być przyznana pomoc, oraz warunki i tryb przyznania pomocy;
 5)
-kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy.
+kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.)Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy.
 § 2.
 1.
 O pomoc może ubiegać się osoba fizyczna, która:
@@ -142,7 +136,7 @@ jest obywatelem państwa członkowskiego Unii Europejskiej;
 4)
 jest pełnoletnia i nie osiągnęła wieku emerytalnego; za osiągnięcie wieku emerytalnego uważa się:
 a)
-ukończenie wieku, o którym mowa w art. 27 ust. 2 albo 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.) – w przypadku osób urodzonych przed dniem 1 stycznia 1949 r.,
+ukończenie wieku, o którym mowa w art. 27 ust. 2 albo 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311.) – w przypadku osób urodzonych przed dniem 1 stycznia 1949 r.,
 b)
 ukończenie wieku, o którym mowa w art. 24 ust. 1a albo 1b ustawy, o której mowa w lit. a – w przypadku osób urodzonych po dniu 31 grudnia 1948 r.;
 5)
@@ -158,17 +152,17 @@ wykształcenie podstawowe, gimnazjalne lub zasadnicze zawodowe inne niż rolnicz
 e)
 kwalifikacje rolnicze wymagane przy udzielaniu pomocy inwestycyjnej rolnikom w państwie, którego obywatelstwo posiada, w ramach analogicznego działania współfinansowanego przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) – jeżeli nie posiada obywatelstwa polskiego;
 6)
-nie podlega wykluczeniu z ubiegania się o przyznanie pomocy na podstawie przepisów rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem Rady (WE) nr 1698/2005”, oraz przepisów Unii Europejskiej wydanych w trybie tego rozporządzenia lub przepisów odrębnych.
+nie podlega wykluczeniu z ubiegania się o przyznanie pomocy na podstawie przepisów rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., zwanego dalej „rozporządzeniem Rady (WE) nr 1698/2005”, oraz przepisów Unii Europejskiej wydanych w trybie tego rozporządzenia lub przepisów odrębnych.
 1a.
-Wielkość ekonomiczną gospodarstwa, o której mowa w ust. 1 pkt 1, ustala się z wykorzystaniem współczynników standardowych nadwyżek bezpośrednich, o których mowa w decyzji Komisji z dnia 7 czerwca 1985 r. ustanawiającej wspólnotową typologię gospodarstw rolnych (85/377/EWG) (Dz. Urz. WE L 220 z 17.08.1985, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 6, str. 198, z późn. zm.), obliczonych dla:
+Wielkość ekonomiczną gospodarstwa, o której mowa w ust. 1 pkt 1, ustala się z wykorzystaniem współczynników standardowych nadwyżek bezpośrednich, o których mowa w decyzji Komisji z dnia 7 czerwca 1985 r. ustanawiającej wspólnotową typologię gospodarstw rolnych (85/377/EWG) (Dz. Urz. WE L 220 z 17.08.1985, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 6, str. 198, z późn. zm.)Uchylona z dniem 19 grudnia 2008 r. na podstawie art. 7 ust. 1 rozporządzenia Komisji (WE) nr 1242/2008 z dnia 8 grudnia 2008 r. ustanawiającego wspólnotową typologię gospodarstw rolnych (Dz. Urz. UE L 335 z 13.12.2008, str. 3, z późn. zm.); decyzję stosuje się jednak dalej w celu klasyfikacji gospodarstw w ramach Sieci Danych Rachunkowych z Gospodarstw Rolnych do roku obrachunkowego 2009 włącznie oraz w badaniach struktury gospodarstw rolnych, o których mowa w rozporządzeniu Rady (EWG) nr 571/88, do badań przeprowadzanych w 2007 r. włącznie; odesłania do uchylonej decyzji należy odczytywać jako odesłania do rozporządzenia Komisji (WE) nr 1242/2008, zgodnie z tabelą korelacji w załączniku V., obliczonych dla:
 1)
 rodzajów produkcji prowadzonych na terytorium Rzeczypospolitej Polskiej;
 2)
 okresu 2003–2005 jako okresu referencyjnego, o którym mowa w tej decyzji;
 3)
-czterech polskich okręgów wymienionych w załączniku do rozporządzenia Rady nr 79/65/EWG z dnia 15 czerwca 1965 r. ustanawiającego sieć zbierania danych rachunkowych o dochodach i prowadzonej działalności gospodarczej gospodarstw rolnych w Europejskiej Wspólnocie Gospodarczej (Dz. Urz. WE L 109 z 23.06.1965, str. 1859; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 47, z późn. zm.).
+czterech polskich okręgów wymienionych w załączniku do rozporządzenia Rady nr 79/65/EWG z dnia 15 czerwca 1965 r. ustanawiającego sieć zbierania danych rachunkowych o dochodach i prowadzonej działalności gospodarczej gospodarstw rolnych w Europejskiej Wspólnocie Gospodarczej (Dz. Urz. WE L 109 z 23.06.1965, str. 1859; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 47, z późn. zm.)Utraciło moc z dniem 4 stycznia 2010 r. na podstawie art. 20 rozporządzenia Rady (WE) nr 1217/2009 z dnia 30 listopada 2009 r. ustanawiającego sieć zbierania danych rachunkowych o dochodach i działalności gospodarczej gospodarstw rolnych we Wspólnocie Europejskiej (Dz. Urz. UE L 328 z 15.12.2009, str. 27, z późn. zm.); odesłania do uchylonego rozporządzenia należy odczytywać jako odesłania do rozporządzenia Rady (WE) nr 1217/2009, zgodnie z tabelą korelacji znajdującą się w załączniku III..
 1b.
-W przypadku gdy dla danego rodzaju produkcji prowadzonego na terytorium Rzeczypospolitej Polskiej nie obliczono współczynnika, o którym mowa w ust. 1a, wielkość ekonomiczną gospodarstwa można ustalić z wykorzystaniem współczynnika standardowej nadwyżki bezpośredniej obliczonej dla rodzaju produkcji zgodnego ze wspólnotowym wykazem działalności wymienionym w załączniku I do rozporządzenia Rady (EWG) nr 571/88 z dnia 29 lutego 1988 r. w sprawie organizacji badań statystycznych Wspólnoty dotyczących struktury gospodarstw rolnych (Dz. Urz. WE L 56 z 02.03.1988, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 8, str. 10, z późn. zm.).
+W przypadku gdy dla danego rodzaju produkcji prowadzonego na terytorium Rzeczypospolitej Polskiej nie obliczono współczynnika, o którym mowa w ust. 1a, wielkość ekonomiczną gospodarstwa można ustalić z wykorzystaniem współczynnika standardowej nadwyżki bezpośredniej obliczonej dla rodzaju produkcji zgodnego ze wspólnotowym wykazem działalności wymienionym w załączniku I do rozporządzenia Rady (EWG) nr 571/88 z dnia 29 lutego 1988 r. w sprawie organizacji badań statystycznych Wspólnoty dotyczących struktury gospodarstw rolnych (Dz. Urz. WE L 56 z 02.03.1988, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 8, str. 10, z późn. zm.)Uchylone z dniem 1 stycznia 2009 r. na podstawie art. 17 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1166/2008 z dnia 19 listopada 2008 r. w sprawie badań struktury gospodarstw rolnych i badania metod produkcji rolnej oraz uchylającego rozporządzenie Rady (EWG) nr 571/88 (Dz. Urz. UE L 321 z 01.12.2008, str. 14); odesłania do uchylonego rozporządzenia należy traktować jako odesłania do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1166/2008..
 1c.
 Wielkość ekonomiczną gospodarstwa, o której mowa w ust. 1 pkt 1, ustala się na podstawie danych dotyczących w szczególności:
 1)
@@ -194,7 +188,7 @@ była zatrudniona w gospodarstwie, na podstawie umowy o pracę lub spółdzielcz
 3)
 była posiadaczem gospodarstwa, z wyłączeniem okresu przed ukończeniem przez tę osobę 16 roku życia, lub
 4)
-odbyła staż, o którym mowa w art. 53 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm.), obejmujący wykonywanie czynności związanych z prowadzeniem działalności rolniczej.
+odbyła staż, o którym mowa w art. 53 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 357, 1066, 1217, 1240, 1268, 1567, 1582, 1607, 1767, 1814, 1830 i 2199.), obejmujący wykonywanie czynności związanych z prowadzeniem działalności rolniczej.
 3.
 Warunek, o którym mowa w ust. 1 pkt 5, w przypadku gdy o przyznanie pomocy ubiega się beneficjent działania „Ułatwianie startu młodym rolnikom” objętego Programem, powinien być spełniony najpóźniej w terminie wyznaczonym w związku z przyznaniem pomocy na podstawie przepisów w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Ułatwianie startu młodym rolnikom” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013.
 4.
@@ -206,8 +200,7 @@ spełniają warunki określone w § 2,
 2)
 planują zakup nowych maszyn lub urządzeń, o których mowa w § 9 ust. 1 pkt 2, które będą stanowić przedmiot ich współwłasności, w celu używania tych maszyn lub urządzeń w posiadanych gospodarstwach,
 3)
-zawarły pomiędzy sobą, w formie pisemnej, umowę, której czas trwania nie może być krótszy niż 6 lat od dnia złożenia przez te osoby wniosku o przyznanie pomocy, zawierającą w szczególności postanowienia dotyczące zasad wspólnego używania maszyn lub urządzeń, o których mowa w pkt 2, oraz zakresu prac wykonywanych przez każdą z tych osób z użyciem tych maszyn lub urządzeń, przy czym określając zakres prac, należy uwzględnić zasoby i potrzeby gospodarstw tych osób
-zwane dalej „osobami wspólnie wnioskującymi”.
+zawarły pomiędzy sobą, w formie pisemnej, umowę, której czas trwania nie może być krótszy niż 6 lat od dnia złożenia przez te osoby wniosku o przyznanie pomocy, zawierającą w szczególności postanowienia dotyczące zasad wspólnego używania maszyn lub urządzeń, o których mowa w pkt 2, oraz zakresu prac wykonywanych przez każdą z tych osób z użyciem tych maszyn lub urządzeń, przy czym określając zakres prac, należy uwzględnić zasoby i potrzeby gospodarstw tych osób – zwane dalej „osobami wspólnie wnioskującymi”.
 § 3.
 O pomoc może ubiegać się osoba prawna, jeżeli:
 1)
@@ -246,11 +239,11 @@ spełnia warunki określone w § 2 ust. 1 pkt 1, 2 i 6 oraz § 3 pkt 2;
 co najmniej jedna osoba uprawniona do prowadzenia spraw spółki posiada kwalifikacje zawodowe określone w § 3 pkt 3.
 § 5a.
 1.
-O pomoc na operację dotyczącą priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 , mogą ubiegać się: osoba fizyczna, osoby wspólnie wnioskujące, osoba prawna, wspólnicy spółki cywilnej, spółka osobowa w rozumieniu Kodeksu spółek handlowych, jeżeli:
+O pomoc na operację dotyczącą priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., mogą ubiegać się: osoba fizyczna, osoby wspólnie wnioskujące, osoba prawna, wspólnicy spółki cywilnej, spółka osobowa w rozumieniu Kodeksu spółek handlowych, jeżeli:
 1)
 spełniają odpowiednio warunki, o których mowa w § 2–5;
 2)
-są wpisani do rejestru producentów, o którym mowa w art. 13ust. 1  ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2016 r. poz. 155), i w dniu złożenia wniosku o przyznanie pomocy przysługuje im kwota indywidualna, o której mowa w tej ustawie, zwana dalej „kwotą indywidualną”, w wysokości co najmniej 20 000 kg;
+są wpisani do rejestru producentów, o którym mowa w art. 13ust. 1 Uchylony przez art. 6 pkt 3 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw (Dz. U. poz. 1419), która weszła w życie z dniem 3 października 2015 r. ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2016 r. poz. 155), i w dniu złożenia wniosku o przyznanie pomocy przysługuje im kwota indywidualna, o której mowa w tej ustawie, zwana dalej „kwotą indywidualną”, w wysokości co najmniej 20 000 kg;
 3)
 co najmniej od roku prowadzą działalność rolniczą w zakresie produkcji mleka.
 2.
@@ -293,7 +286,7 @@ która nie spowoduje wzrostu produkcji, dla której brak jest rynku zbytu;
 5)
 (uchylony).
 1a.
-W przypadku operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. erozporządzenia Rady (WE) nr 1698/2005 , pomoc przyznaje się, jeżeli:
+W przypadku operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. erozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., pomoc przyznaje się, jeżeli:
 1)
 operacja obejmuje wyłącznie inwestycje związane z prowadzeniem działalności rolniczej;
 2)
@@ -329,8 +322,7 @@ zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną 
 a)
 36 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w dwóch etapach,
 b)
-24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie
-lecz nie później niż do dnia 30 września 2015 r.;
+24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie – lecz nie później niż do dnia 30 września 2015 r.;Część wspólna w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 894), które weszło w życie z dniem 27 czerwca 2015 r.
 4)
 płatność ostateczna będzie obejmować nie mniej niż 25% łącznej planowanej wysokości pomocy.
 5.
@@ -343,7 +335,7 @@ b)
 złożenie pierwszego wniosku o płatność pośrednią nastąpi w terminie 12 miesięcy od dnia zawarcia umowy, przy czym złożenie pierwszego wniosku o płatność pośrednią w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu nastąpi w terminie określonym w ust. 4 pkt 2,
 c)
 wniosek o płatność będzie składany nie częściej niż dwa razy w roku,
-d)
+dW brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 10.)
 zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną nastąpi w terminie 60 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 30 września 2015 r., przy czym złożenie ostatniego wniosku o płatność w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu nastąpi w terminach określonych w ust. 4 pkt 3;
 2)
 nie stosuje się przepisu ust. 4 pkt 4.
@@ -365,8 +357,7 @@ poniesionych:
 a)
 od dnia zawarcia umowy, jeżeli realizacja zestawienia rzeczowo-finansowego operacji w zakresie danego kosztu została rozpoczęta nie wcześniej niż w tym dniu, a w przypadku kosztów stanowiących koszty ogólne – poniesionych nie wcześniej niż dnia 1 stycznia 2007 r.,
 b)
-w formie rozliczenia pieniężnego, a w przypadku transakcji, której wartość bez względu na liczbę wynikających z niej płatności przekracza 10 tys. zł, lub kosztów, o których mowa w § 9 ust. 5 – w formie rozliczenia bezgotówkowego przeprowadzonego poleceniem przelewu
-zwanych dalej „kosztami kwalifikowalnymi”.
+w formie rozliczenia pieniężnego, a w przypadku transakcji, której wartość bez względu na liczbę wynikających z niej płatności przekracza 10 tys. zł, lub kosztów, o których mowa w § 9 ust. 5 – w formie rozliczenia bezgotówkowego przeprowadzonego poleceniem przelewu – zwanych dalej „kosztami kwalifikowalnymi”.
 2.
 W przypadku przyznania pomocy do kosztów kwalifikowalnych zalicza się również koszty poniesione przez wnioskodawcę przed dniem zawarcia umowy, lecz nie wcześniej niż w dniu podania przez Prezesa Agencji informacji, o której mowa w § 15 ust. 10, jeżeli realizacja zestawienia rzeczowo-finansowego operacji w zakresie danego kosztu została rozpoczęta nie wcześniej niż w dniu podania tej informacji.
 2a.
@@ -404,7 +395,7 @@ W przypadku osób wspólnie wnioskujących refundacji podlegają koszty kwalifik
 2)
 60% kosztów kwalifikowalnych, jeżeli żadna z tych osób w dniu złożenia wniosku o przyznanie pomocy nie ukończyła 40 roku życia, a operacja jest realizowana na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW), określonych w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, obszarach NATURA 2000 oraz związanych z wdrażaniem Ramowej Dyrektywy Wodnej określonych w przepisach odrębnych.
 5b.
-W przypadku osób wspólnie wnioskujących poziom refundacji, o którym mowa w ust. 4 pkt 1 i 3 oraz ust. 5a, zwiększa się o 10 punktów procentowych, jeżeli realizowana operacja dotyczy priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 .
+W przypadku osób wspólnie wnioskujących poziom refundacji, o którym mowa w ust. 4 pkt 1 i 3 oraz ust. 5a, zwiększa się o 10 punktów procentowych, jeżeli realizowana operacja dotyczy priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r..
 6.
 Za operację realizowaną na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW), określonych w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, obszarach NATURA 2000 oraz związanych z wdrażaniem Ramowej Dyrektywy Wodnej określonych w przepisach odrębnych, uważa się:
 1)
@@ -420,10 +411,9 @@ W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych:
 1)
 nie zostało uwzględnione w oddzielnym systemie rachunkowości albo
 2)
-do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego
-o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia Rady (WE) nr 1698/2005 , koszty te podlegają refundacji w wysokości określonej w ust. 4 pomniejszonej o 10%.
+do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego – o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., koszty te podlegają refundacji w wysokości określonej w ust. 4 pomniejszonej o 10%.
 7b.
-Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia Rady (WE) nr 1698/2005 , odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Agencję, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
+Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Agencję, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
 8.
 Pomoc przyznaje się i wypłaca do wysokości limitu, który w okresie realizacji Programu wynosi maksymalnie 300 tys. złotych na jednego beneficjenta i na jedno gospodarstwo.
 9.
@@ -488,8 +478,7 @@ Kosztem kwalifikowalnym może być koszt:
 1)
 budowy nowego budynku inwentarskiego przeznaczonego do produkcji trzody chlewnej (chlewni) albo drobiu (kurnika),
 2)
-przebudowy lub remontu połączonego z modernizacją istniejącego budynku wykorzystywanego do produkcji rolnej oraz do przechowywania, magazynowania, przygotowywania do sprzedaży lub sprzedaży bezpośredniej, mających na celu przekształcenie go w budynek inwentarski przeznaczony do produkcji trzody chlewnej (chlewni) albo drobiu (kurnika)
-wyłącznie w przypadku, gdy celem operacji jest przeniesienie całej produkcji z istniejącego budynku inwentarskiego będącego w posiadaniu wnioskodawcy do budynku, o którym mowa w pkt 1 albo 2, przy zachowaniu dotychczasowego poziomu produkcji; ograniczenie to nie dotyczy wnioskodawcy, który jest beneficjentem działania „Ułatwianie startu młodym rolnikom” objętego Programem.
+przebudowy lub remontu połączonego z modernizacją istniejącego budynku wykorzystywanego do produkcji rolnej oraz do przechowywania, magazynowania, przygotowywania do sprzedaży lub sprzedaży bezpośredniej, mających na celu przekształcenie go w budynek inwentarski przeznaczony do produkcji trzody chlewnej (chlewni) albo drobiu (kurnika) – wyłącznie w przypadku, gdy celem operacji jest przeniesienie całej produkcji z istniejącego budynku inwentarskiego będącego w posiadaniu wnioskodawcy do budynku, o którym mowa w pkt 1 albo 2, przy zachowaniu dotychczasowego poziomu produkcji; ograniczenie to nie dotyczy wnioskodawcy, który jest beneficjentem działania „Ułatwianie startu młodym rolnikom” objętego Programem.
 5.
 Do kosztów kwalifikowalnych zalicza się koszty zakupu maszyn lub urządzeń używanych nieprzekraczające ich wartości rynkowej oraz ceny nowych podobnych maszyn i urządzeń, jeżeli:
 1)
@@ -507,12 +496,12 @@ do dnia podania informacji, o której mowa w § 15 ust. 10, nie były w posiadan
 6.
 W przypadku osób wspólnie wnioskujących do kosztów kwalifikowalnych zalicza się wyłącznie koszty zakupu nowych maszyn lub urządzeń.
 § 10.
-1.
-Prezes Agencji podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję oraz co najmniej w jednym dzienniku o zasięgu ogólnokrajowym, najpóźniej 14 dni przed rozpoczęciem terminu składania wniosków o przyznanie pomocy, informację o możliwości składania wniosków o przyznanie pomocy, w tym wniosków o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 .
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1137), które weszło w życie z dniem 4 września 2014 r..
+Prezes Agencji podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję oraz co najmniej w jednym dzienniku o zasięgu ogólnokrajowym, najpóźniej 14 dni przed rozpoczęciem terminu składania wniosków o przyznanie pomocy, informację o możliwości składania wniosków o przyznanie pomocy, w tym wniosków o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r..
 2.
 Prezes Agencji określa w informacji, o której mowa w ust. 1, dzień rozpoczęcia oraz dzień zakończenia terminu składania wniosków o przyznanie pomocy, przy czym termin ten nie może być dłuższy niż 28 dni.
 3.
-Prezes Agencji może określić w informacji, o której mowa w ust. 1, że przez pierwsze 14 dni terminu, o którym mowa w ust. 2, mogą być składane wyłącznie wnioski o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 .
+Prezes Agencji może określić w informacji, o której mowa w ust. 1, że przez pierwsze 14 dni terminu, o którym mowa w ust. 2, mogą być składane wyłącznie wnioski o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r..
 § 11.
 1.
 W jednym roku można złożyć jeden wniosek o przyznanie pomocy.
@@ -559,7 +548,7 @@ zestawienie rzeczowo-finansowe operacji;
 11)
 kwotę pomocy, o którą ubiega się wnioskodawca;
 12)
-informację, czy operacja dotyczy priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 .
+informację, czy operacja dotyczy priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r..
 1a.
 W przypadku wniosku o przyznanie pomocy składanego przez osoby wspólnie wnioskujące informacje, o których mowa w ust. 1 pkt 1–4, 7, 9 i 11, podaje się dla każdej z tych osób, przy czym kwotę, o której mowa w ust. 1 pkt 11, podaje się z uwzględnieniem zakresu prac wykonywanych przez każdą z tych osób z użyciem maszyn lub urządzeń planowanych do zakupu.
 2.
@@ -583,7 +572,7 @@ plan sprzedaży lub kopię umowy przedwstępnej sprzedaży całej produkcji wytw
 9)
 kopię dokumentu tożsamości – w przypadku gdy wnioskodawcą jest osoba fizyczna albo wspólnik spółki cywilnej będący osobą fizyczną;
 10)
-oświadczenie wnioskodawcy potwierdzające, że prowadzi jedno z przedsiębiorstw określonych w art. 55 ust. 1 zdanie drugie rozporządzenia nr 1974/2006, sporządzone na formularzu opracowanym i udostępnionym przez Agencję – w przypadku operacji dotyczącej zakupu maszyn lub urządzeń używanych;
+oświadczenie wnioskodawcy potwierdzające, że prowadzi jedno z przedsiębiorstw określonych w art. 55 ust. 1 zdanie drugie rozporządzenia nr 1974/2006Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., sporządzone na formularzu opracowanym i udostępnionym przez Agencję – w przypadku operacji dotyczącej zakupu maszyn lub urządzeń używanych;
 11)
 kopię umowy spółki cywilnej – w przypadku gdy operacja będzie realizowana w ramach wykonywania działalności gospodarczej w formie spółki cywilnej;
 12)
@@ -597,7 +586,7 @@ opis zadań wymienionych w zestawieniu rzeczowo-finansowym operacji, sporządzon
 16)
 kopię promesy umowy leasingu dotyczącej planowanego zakupu rzeczy wraz z harmonogramem spłat rat leasingowych z wyszczególnieniem części kapitałowej i części odsetkowej – w przypadku gdy operacja obejmuje inwestycje polegające na nabyciu rzeczy będących przedmiotem leasingu;
 17)
-kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne gospodarstwa, w którym będzie realizowana operacja, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 251 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.), jest wystarczające podanie numeru księgi wieczystej;
+kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne gospodarstwa, w którym będzie realizowana operacja, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 251 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289 oraz z 2015 r. poz. 218, 978 i 1433.), jest wystarczające podanie numeru księgi wieczystej;
 18)
 oświadczenie właściciela albo współwłaściciela gospodarstwa albo jego części o wyrażeniu zgody na realizację operacji, sporządzone na formularzu opracowanym i udostępnionym przez Agencję – w przypadku gdy operacja będzie realizowana w gospodarstwie niestanowiącym własności wnioskodawcy albo stanowiącym współwłasność wnioskodawcy i nie dotyczy wyłącznie nabycia rzeczy ruchomych, które nie wymagają instalacji;
 19)
@@ -611,7 +600,7 @@ informację o stanie przestrzegania wymagań ochrony środowiska wydaną przez w
 23)
 zaświadczenie wystawione przez powiatowego lekarza weterynarii potwierdzające spełnianie wymagań w zakresie higieny i warunków utrzymania zwierząt – w przypadku gdy operacja jest związana z produkcją zwierzęcą;
 24)
-dokumenty potwierdzające spełnianie warunków, o których mowa w § 5a ust. 1 pkt 2 i 3 – w przypadku operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 ;
+dokumenty potwierdzające spełnianie warunków, o których mowa w § 5a ust. 1 pkt 2 i 3 – w przypadku operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r.;
 25)
 kopię dokumentacji dotyczącej ewidencji środków trwałych oraz wartości niematerialnych i prawnych – w przypadku wnioskodawców zobowiązanych do prowadzenia ewidencji zgodnie z przepisami o podatku dochodowym od osób fizycznych, przepisami o podatku dochodowym od osób prawnych lub przepisami o rachunkowości;
 26)
@@ -637,13 +626,13 @@ Jeżeli wniosek o przyznanie pomocy nie zawiera numeru identyfikacyjnego wniosko
 Przepisu ust. 1 nie stosuje się w odniesieniu do numeru identyfikacyjnego wnioskodawcy, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, jeżeli numer ten można ustalić w tej ewidencji.
 2.
 Jeżeli we wniosku o przyznanie pomocy nie wskazano adresu wnioskodawcy i nie ma możności ustalenia tego adresu na podstawie posiadanych danych, wniosek pozostawia się bez rozpatrzenia.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 12..
 Jeżeli wniosek o przyznanie pomocy nie spełnia innych niż określone w ust. 1 i 2 wymagań, Agencja wzywa wnioskodawcę, w formie pisemnej, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
 4.
 Jeżeli wnioskodawca, pomimo wezwania do usunięcia braków, nie usunął w terminie:
 1)
 żadnego z braków, Agencja nie przyznaje pomocy; przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 12.)
 wszystkich braków, Agencja wzywa ponownie wnioskodawcę, w formie pisemnej, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
 5.
 Jeżeli wnioskodawca, pomimo ponownego wezwania do usunięcia braków, nie usunął wszystkich braków w terminie, Agencja nie przyznaje pomocy. Przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
@@ -654,7 +643,7 @@ zmian wynikających z wezwań Agencji;
 2)
 jednej zmiany w zakresie planu finansowego operacji lub zestawienia rzeczowo-finansowego operacji, jeżeli zmiana ta nie spowoduje zmiany celów operacji wskazanych we wniosku o przyznanie pomocy oraz zwiększenia kwoty pomocy.
 § 15.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 12..
 Pomoc przysługuje według kolejności ustalonej przez Agencję dla całego kraju, przy zastosowaniu kryteriów wyboru operacji.
 2.
 Agencja, ustalając kolejność przysługiwania pomocy, uwzględnia wszystkie wnioski o przyznanie pomocy złożone osobiście albo przez upoważnioną osobę bezpośrednio w oddziale regionalnym Agencji albo za pośrednictwem biura powiatowego Agencji w terminie, o którym mowa w § 10 ust. 2, oraz wszystkie wnioski o przyznanie pomocy złożone przesyłką rejestrowaną, nadaną w placówce pocztowej operatora wyznaczonego w terminie, o którym mowa w § 10 ust. 2, które wpłynęły do oddziału regionalnego Agencji w terminie do 30 dnia od dnia upływu terminu składania wniosków o przyznanie pomocy.
@@ -690,7 +679,7 @@ c)
 jeżeli wielkość ekonomiczna gospodarstwa wynosi co najmniej 40 i mniej niż 70 ESU, przyznaje się 1 punkt,
 d)
 jeżeli wielkość ekonomiczna gospodarstwa wynosi co najmniej 70 ESU, przyznaje się 0 punktów;
-4)
+4Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 12.)
 w przypadku operacji, której realizacja ma na celu poprawę warunków ochrony środowiska naturalnego, punkty przyznaje się, w zależności od udziału wnioskowanej kwoty pomocy na poprawę ochrony środowiska naturalnego w całości wnioskowanej kwoty pomocy, w następujący sposób:
 a)
 jeżeli udział wnioskowanej kwoty pomocy na poprawę ochrony środowiska naturalnego w całości wnioskowanej kwoty pomocy wynosi od 30% do 50%, przyznaje się 1 punkt,
@@ -698,13 +687,13 @@ b)
 jeżeli udział wnioskowanej kwoty pomocy na poprawę ochrony środowiska naturalnego w całości wnioskowanej kwoty pomocy wynosi więcej niż 50% i nie więcej niż 70%, przyznaje się 3 punkty,
 c)
 jeżeli udział wnioskowanej kwoty pomocy na poprawę ochrony środowiska naturalnego w całości wnioskowanej kwoty pomocy wynosi więcej niż 70%, przyznaje się 5 punktów;
-5)
-w przypadku gdy w zestawieniu rzeczowo-finansowym operacji są zawarte koszty kwalifikowalne związane z ogółem zabiegów stosowanych w gospodarstwie na trwałych użytkach zielonych w rozumieniu art.2 lit. c rozporządzenia Komisji (WE) nr 1120/2009 z dnia 29 października 2009 r. ustanawiającego szczegółowe zasady wdrażania systemu płatności jednolitej przewidzianego w tytule III rozporządzenia Rady (WE) nr 73/2009 ustanawiającego wspólne zasady dla systemów wsparcia bezpośredniego w ramach wspólnej polityki rolnej i ustanawiającego określone systemy wsparcia dla rolników (Dz. Urz. UE L 316 z 02.12.2009, str. 1)i operacja jest realizowana w gospodarstwie, w którym trwałe użytki zielone stanowią co najmniej 30% użytków rolnych i nie mniej niż 5 ha, punkty przyznaje się w następujący sposób:
+5Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 12.)
+w przypadku gdy w zestawieniu rzeczowo-finansowym operacji są zawarte koszty kwalifikowalne związane z ogółem zabiegów stosowanych w gospodarstwie na trwałych użytkach zielonych w rozumieniu art.2 lit. c rozporządzenia Komisji (WE) nr 1120/2009 z dnia 29 października 2009 r. ustanawiającego szczegółowe zasady wdrażania systemu płatności jednolitej przewidzianego w tytule III rozporządzenia Rady (WE) nr 73/2009 ustanawiającego wspólne zasady dla systemów wsparcia bezpośredniego w ramach wspólnej polityki rolnej i ustanawiającego określone systemy wsparcia dla rolników (Dz. Urz. UE L 316 z 02.12.2009, str. 1)Utraciło moc z dniem 27 czerwca 2014 r. na podstawie art. 78 rozporządzenia delegowanego Komisji (UE) nr 639/2014 z dnia 11 marca 2014 r. w sprawie uzupełnienia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz zmiany załącznika X do tego rozporządzenia (Dz. Urz. UE L 181 z 20.06.2014, str. 1, z późn. zm.); rozporządzenie obowiązuje jednak nadal w stosunku do wniosków o przyznanie pomocy odnoszących się do lat kalendarzowych przed rokiem kalendarzowym 2015.i operacja jest realizowana w gospodarstwie, w którym trwałe użytki zielone stanowią co najmniej 30% użytków rolnych i nie mniej niż 5 ha, punkty przyznaje się w następujący sposób:
 a)
 jeżeli realizacja operacji przyczyni się do utrzymania powierzchni trwałych użytków zielonych w gospodarstwie, przyznaje się 1 punkt,
 b)
 jeżeli realizacja operacji przyczyni się do zwiększenia powierzchni trwałych użytków zielonych w gospodarstwie co najmniej o 10% i nie mniej niż o 1 ha, przyznaje się 2 punkty;
-6)
+6Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 12.)
 w przypadku operacji, która jest realizowana w gospodarstwie, w którym głównym kierunkiem produkcji jest trzoda chlewna, punkty przyznaje się w następujący sposób:
 a)
 jeżeli średnia roczna liczba świń w stadzie wynosi od 10 sztuk do 200 sztuk, przyznaje się 1 punkt,
@@ -712,25 +701,25 @@ b)
 jeżeli średnia roczna liczba świń w stadzie wynosi więcej niż 200 sztuk i nie więcej niż 1000 sztuk, przyznaje się 3 punkty,
 c)
 jeżeli średnia roczna liczba świń w stadzie wynosi więcej niż 1000 sztuk i nie więcej niż 2000 sztuk, przyznaje się 2 punkty.
-3a.
+3aDodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 12..
 Do wnioskowanej kwoty pomocy na poprawę ochrony środowiska naturalnego nie wlicza się wnioskowanej kwoty pomocy na zakup ciągnika rolniczego.
-3b.
+3bDodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 12..
 W przypadku, o którym mowa w ust. 3 pkt 5, uwzględnia się powierzchnię trwałych użytków zielonych zadeklarowaną we wniosku o przyznanie jednolitej płatności obszarowej, ostatnio złożonym.
-3c.
+3cDodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 12..
 Za główny kierunek produkcji, o którym mowa w ust. 3 pkt 6, uznaje się kierunek produkcji w gospodarstwie, którego prowadzenie pozwala osiągać wielkość ekonomiczną przekraczającą 1/3 wielkości ekonomicznej gospodarstwa.
-3d.
+3dDodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 12..
 Średnia roczna liczba świń, o której mowa w ust. 3 pkt 6, stanowi sumę stanu stada na dzień 1 stycznia i stanów stada na ostatni dzień każdego miesiąca roku poprzedzającego rok złożenia wniosku o przyznanie pomocy, podzieloną przez 13, określoną na podstawie zdarzeń zgłoszonych do rejestru zwierząt gospodarskich oznakowanych, o którym mowa w ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2015 r. poz. 1172 i 1893), do dnia 31 stycznia roku złożenia wniosku.
 4.
 Kolejność, o której mowa w ust. 1, jest ustalana na podstawie danych zawartych we wniosku o przyznanie pomocy na dzień złożenia wniosku. Jeżeli wniosek nie zawiera danych niezbędnych do ustalenia kolejności, nie przyznaje się punktów.
 5.
 W przypadku osób wspólnie wnioskujących wielkość ekonomiczną gospodarstwa stanowi średnia arytmetyczna z wielkości ekonomicznej gospodarstw będących w posiadaniu tych osób.
-5a.
+5aDodany przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 12..
 W przypadku operacji, która jest realizowana przez osoby wspólnie wnioskujące, punkty za spełnienie kryterium określonego w ust. 3 pkt 5 przyznaje się, jeżeli warunki odnoszące się do procentowego udziału trwałych użytków zielonych w użytkach rolnych oraz powierzchni trwałych użytków zielonych są spełnione w gospodarstwie każdej z tych osób oraz jeżeli realizacja operacji przyczyni się do utrzymania lub zwiększenia powierzchni trwałych użytków zielonych co najmniej o 10% i nie mniej niż o 1 ha w gospodarstwie każdej z osób wspólnie wnioskujących, w wysokości:
 1)
 1 punkt – w przypadku gdy realizacja operacji przyczyni się do utrzymania powierzchni trwałych użytków zielonych w gospodarstwie co najmniej jednej z tych osób;
 2)
 2 punkty – w przypadku gdy realizacja operacji przyczyni się do zwiększenia powierzchni trwałych użytków zielonych co najmniej o 10% i nie mniej niż o 1 ha w gospodarstwie każdej z tych osób.
-5b.
+5bDodany przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 12..
 W przypadku operacji, która jest realizowana przez osoby wspólnie wnioskujące, punkty za spełnienie kryterium określonego w ust. 3 pkt 6 przyznaje się, jeżeli warunki odnoszące się do głównego kierunku produkcji oraz średniej rocznej liczby świń w stadzie wynoszącej od 10 sztuk i nie więcej niż 2000 sztuk są spełnione w gospodarstwie każdej z tych osób, w wysokości:
 1)
 3 punkty – w przypadku gdy średnia roczna liczba świń w stadzie wynosi więcej niż 200 sztuk i nie więcej niż 1000 sztuk w gospodarstwie każdej z tych osób;
@@ -746,13 +735,13 @@ Operację, o której wsparcie ubiegają się osoby wspólnie wnioskujące, uznaj
 W przypadku operacji o takiej samej liczbie punktów w pierwszej kolejności pomoc przysługuje wnioskodawcy, który do dnia złożenia danego wniosku o przyznanie pomocy nie zawarł żadnej umowy, na podstawie której została przyznana pomoc w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem.
 9.
 W przypadku gdy po ustaleniu kolejności zgodnie z ust. 8 konieczne jest ustalenie kolejności w ramach operacji z taką samą liczbą punktów, o kolejności tej decyduje wartość wielkości ekonomicznej gospodarstwa, przy czym kolejność ta jest ustalana od najmniejszej do największej wartości.
-10.
+10W brzmieniu ustalonym przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 12..
 Prezes Agencji, nie później niż w terminie 40 dni od dnia upływu terminu składania wniosków o przyznanie pomocy, podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję, informację o kolejności przysługiwania pomocy. Informacja ta jest aktualizowana w przypadkach, o których mowa w ust. 11 i 13 oraz § 15c ust. 2, nie rzadziej niż co 10 dni.
-11.
+11W brzmieniu ustalonym przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 12..
 W przypadku wniosków o przyznanie pomocy, które zostały złożone w terminie, o którym mowa w § 10 ust. 2, ale wpłynęły do Agencji po upływie 30 dni od dnia upływu terminu składania wniosków o przyznanie pomocy, pomoc przysługuje w kolejności ustalonej przy zastosowaniu kryteriów wyboru operacji, po wnioskach o przyznanie pomocy, których kolejność ustalono zgodnie z ust. 1–9.
 12.
-(uchylony).
-13.
+(uchylony).Przez § 1 pkt 3 lit. f rozporządzenia, o którym mowa w odnośniku 12.
+13W brzmieniu ustalonym przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 12..
 Jeżeli dane zawarte we wniosku o przyznanie pomocy mające wpływ na ustalenie kolejności przysługiwania pomocy ulegną zmianie, dokonuje się aktualizacji informacji o kolejności przysługiwania pomocy wyłącznie w przypadku, gdy z nowych danych wynika, że pomoc przysługuje w dalszej kolejności niż pierwotnie ustalona.
 14.
 Wniosek o przyznanie pomocy rozpatruje się w terminie 4 miesięcy od dnia podania do publicznej wiadomości informacji, o której mowa w ust. 10.
@@ -764,7 +753,7 @@ Przepis ust. 15 stosuje się odpowiednio w przypadkach, o których mowa w § 20a
 W przypadku nierozpatrzenia wniosku o przyznanie pomocy w terminie, o którym mowa w ust. 14, Agencja zawiadamia wnioskodawcę o przyczynach zwłoki, podając nowy termin rozpatrzenia wniosku, nie dłuższy niż 3 miesiące.
 § 15a.
 1.
-W przypadku wniosków o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 , złożonych w terminie, o którym mowa w § 10 ust. 3, o kolejności przysługiwania pomocy decyduje suma uzyskanych punktów, przyznanych na podstawie następujących kryteriów:
+W przypadku wniosków o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., złożonych w terminie, o którym mowa w § 10 ust. 3, o kolejności przysługiwania pomocy decyduje suma uzyskanych punktów, przyznanych na podstawie następujących kryteriów:
 1)
 w przypadku operacji związanych z rozwijaniem produkcji mleka:
 a)
@@ -808,19 +797,19 @@ W przypadku operacji, która jest realizowana przez osoby wspólnie wnioskujące
 7.
 W przypadku gdy po ustaleniu kolejności zgodnie z ust. 5 konieczne jest ustalenie kolejności w ramach operacji z taką samą liczbą punktów, o kolejności tej decyduje wysokość kwoty indywidualnej, przy czym kolejność ta jest ustalana od najmniejszej do największej wysokości.
 § 15b.
-Jeżeli Prezes Agencji określi w informacji, o której mowa w § 10 ust. 1, termin składania wniosków o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 , pomoc przysługuje w pierwszej kolejności wnioskodawcom ubiegającym się o przyznanie pomocy w ramach tego priorytetu.
+Jeżeli Prezes Agencji określi w informacji, o której mowa w § 10 ust. 1, termin składania wniosków o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., pomoc przysługuje w pierwszej kolejności wnioskodawcom ubiegającym się o przyznanie pomocy w ramach tego priorytetu.
 § 15c.
 1.
-Jeżeli operacja dotycząca priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 , nie spełnia warunków, o których mowa w § 7 ust. 1a-1c, albo wniosek o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 , został złożony po terminie składania tych wniosków określonym zgodnie z § 10 ust. 3, ale w terminie składania wniosków o przyznanie pomocy, o którym mowa w § 10 ust. 2, pomoc przysługuje według kolejności ustalonej przy zastosowaniu kryteriów wyboru operacji, o których mowa w § 15 ust. 1–9, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
+Jeżeli operacja dotycząca priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., nie spełnia warunków, o których mowa w § 7 ust. 1a-1c, albo wniosek o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., został złożony po terminie składania tych wniosków określonym zgodnie z § 10 ust. 3, ale w terminie składania wniosków o przyznanie pomocy, o którym mowa w § 10 ust. 2, pomoc przysługuje według kolejności ustalonej przy zastosowaniu kryteriów wyboru operacji, o których mowa w § 15 ust. 1–9, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
 2.
 W przypadku, o którym mowa w ust. 1, pomoc przysługuje po wnioskach o przyznanie pomocy, których kolejność ustalono zgodnie z § 15 ust. 1–9.
 3.
-Jeżeli Prezes Agencji nie określi w informacji, o której mowa w § 10 ust. 1, że przez pierwsze 14 dni terminu, o którym mowa w § 10 ust. 2, mogą być składane wyłącznie wnioski o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 , wnioski o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 , mogą być składane w terminie, o którym mowa w § 10 ust. 2.
+Jeżeli Prezes Agencji nie określi w informacji, o której mowa w § 10 ust. 1, że przez pierwsze 14 dni terminu, o którym mowa w § 10 ust. 2, mogą być składane wyłącznie wnioski o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art.16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., wnioski o przyznanie pomocy na realizację operacji dotyczącej priorytetu, o którym mowa w art. 16a ust. 1 lit. e rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r., mogą być składane w terminie, o którym mowa w § 10 ust. 2.
 4.
 W przypadku, o którym mowa w ust. 3, pomoc przysługuje według kolejności ustalonej przy zastosowaniu kryteriów wyboru operacji, o których mowa w § 15 ust. 1–9, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
-§ 15d.
+§ 15dDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 12..
 Agencja nie przyznaje pomocy, jeżeli przyznano mniej niż 3,5 punktu. Przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
-§ 15e.
+§ 15eDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 12..
 1.
 W przypadku gdy wnioski o przyznanie pomocy złożone w ramach działania, o którym mowa w § 1, zawierają zapotrzebowanie na środki przekraczające wysokość limitu stanowiącego równowartość w złotych kwoty w euro określonej w Programie na to działanie, wnioskodawców informuje się niezwłocznie, w formie pisemnej, o tym fakcie, pouczając o sposobie postępowania z takimi wnioskami.
 2.
@@ -839,11 +828,11 @@ wyznaczonym przez Agencję, nie dłuższym niż 21 dni od dnia, na który zosta�
 3.
 W przypadku nieprzyznania pomocy na podstawie ust. 2, przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
 § 17.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 12.
 § 18.
 1.
 W razie uchybienia terminu wykonania przez wnioskodawcę określonych czynności w toku postępowania w sprawie przyznania pomocy Agencja, na prośbę wnioskodawcy, przywraca termin wykonania tych czynności, jeżeli wnioskodawca:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 12.)
 wniósł prośbę w terminie 14 dni od dnia ustania przyczyny uchybienia;
 2)
 jednocześnie z wniesieniem prośby dopełnił czynności, dla której określony był termin;
@@ -884,8 +873,7 @@ ograniczeń lub warunków w zakresie:
 a)
 przenoszenia własności lub posiadania rzeczy nabytych w ramach realizacji operacji lub sposobu ich wykorzystywania,
 b)
-sposobu lub miejsca prowadzenia działalności związanej z przyznaną pomocą
-przez 5 lat;
+sposobu lub miejsca prowadzenia działalności związanej z przyznaną pomocą – przez 5 lat;
 4)
 umożliwienia przeprowadzania kontroli związanych z przyznaną pomocą przez 5 lat;
 5)
@@ -951,7 +939,7 @@ udokumentował zrealizowanie operacji lub jej etapu, w tym poniesienie kosztów 
 2.
 W przypadku gdy beneficjent nie spełnił któregokolwiek z warunków, o których mowa w ust. 1, środki finansowe z tytułu pomocy mogą być wypłacone w części dotyczącej operacji lub jej etapu, które zostały zrealizowane zgodnie z tymi warunkami, oraz jeżeli cel operacji został osiągnięty lub może zostać osiągnięty do dnia złożenia wniosku o płatność ostateczną.
 § 23a.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 10..
 Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie terminów określonych w § 7 ust. 4 pkt 3 albo ust. 5 pkt 1 lit. d, w terminie późniejszym, nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 września 2015 r.
 2.
 Zgoda, o której mowa w ust. 1, może zostać wyrażona również po upływie terminu zakończenia realizacji operacji lub złożenia wniosku o płatność ostateczną.
@@ -960,8 +948,7 @@ W przypadku operacji obejmujących inwestycje polegające na nabyciu rzeczy będ
 1)
 umowę leasingu wraz z harmonogramem spłat,
 2)
-(uchylony)
-w terminie określonym w umowie.
+(uchylony) – w terminie określonym w umowie.
 § 25.
 1.
 Tryb wypłaty środków finansowych z tytułu pomocy określa umowa, z tym że są one wypłacane na wniosek o płatność.
@@ -1061,7 +1048,7 @@ Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku p
 Termin wykonania określonych czynności w toku postępowania w sprawie przyznania pomocy i wypłaty środków finansowych z tytułu pomocy uważa się za zachowany, jeżeli przed jego upływem nadano pismo w polskiej placówce pocztowej operatora wyznaczonego albo złożono w polskim urzędzie konsularnym.
 § 34.
 1.
-Innymi, niż wymienione w przepisach rozporządzenia nr 1974/2006  kategoriami siły wyższej lub wyjątkowymi okolicznościami, w przypadku wystąpienia których nie jest wymagany zwrot całości albo części pomocy, są:
+Innymi, niż wymienione w przepisach rozporządzenia nr 1974/2006 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r. kategoriami siły wyższej lub wyjątkowymi okolicznościami, w przypadku wystąpienia których nie jest wymagany zwrot całości albo części pomocy, są:
 1)
 wywłaszczenie części nieruchomości związanej z operacją, jeżeli takiego wywłaszczenia nie można było przewidzieć w dniu zawarcia umowy;
 2)
@@ -1079,9 +1066,9 @@ zmiana, za zgodą Agencji, w okresie 5 lat od dnia zawarcia umowy, o której mow
 2.
 Sposób postępowania beneficjenta i Agencji w razie wystąpienia okoliczności siły wyższej lub wyjątkowych okoliczności, w przypadku wystąpienia których nie jest wymagany zwrot pomocy, określa umowa.
 3.
-Wyrażając zgodę, o której mowa w ust. 1 pkt 6 i 7, Agencja uwzględnia przepis art. 72 rozporządzenia Rady (WE) nr 1698/2005 .
+Wyrażając zgodę, o której mowa w ust. 1 pkt 6 i 7, Agencja uwzględnia przepis art. 72 rozporządzenia Rady (WE) nr 1698/2005 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r..
 § 35.
-Poza okolicznościami siły wyższej i wyjątkowymi okolicznościami, o których mowa w przepisach rozporządzenia nr 1974/2006  oraz w § 34 ust. 1, beneficjent nie jest zobowiązany do zwrotu pomocy w części dotyczącej operacji, która została zrealizowana zgodnie z warunkami, o których mowa w § 23 ust. 1, jeżeli cel operacji został osiągnięty i zachowany.
+Poza okolicznościami siły wyższej i wyjątkowymi okolicznościami, o których mowa w przepisach rozporządzenia nr 1974/2006 Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r. oraz w § 34 ust. 1, beneficjent nie jest zobowiązany do zwrotu pomocy w części dotyczącej operacji, która została zrealizowana zgodnie z warunkami, o których mowa w § 23 ust. 1, jeżeli cel operacji został osiągnięty i zachowany.
 § 36.
 1.
 Podmiot, któremu przyznano dofinansowanie projektu w ramach Sektorowego Programu Operacyjnego „Restrukturyzacja i modernizacja sektora żywnościowego oraz rozwój obszarów wiejskich 2004–2006” w zakresie działania „Inwestycje w gospodarstwach rolnych”, może złożyć wniosek o przyznanie pomocy po zrealizowaniu tego projektu, a w przypadku gdy dofinansowanie to przyznano na realizację kilku projektów – po zrealizowaniu ostatniego z projektów, nie wcześniej niż:
@@ -1113,8 +1100,7 @@ Wnioski o przyznanie pomocy złożone w 2007 r., do dnia zawarcia umowy, mogą b
 5.
 Dokonanie przez wnioskodawców zmian we wnioskach o przyznanie pomocy złożonych w 2007 r. w zakresie, o którym mowa w ust. 4, może wydłużyć termin ich rozpatrzenia określony w ust. 3 nie więcej jednak niż o 4 miesiące.
 § 37.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311. 4) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r. 5) Uchylona z dniem 19 grudnia 2008 r. na podstawie art. 7 ust. 1 rozporządzenia Komisji (WE) nr 1242/2008 z dnia 8 grudnia 2008 r. ustanawiającego wspólnotową typologię gospodarstw rolnych (Dz. Urz. UE L 335 z 13.12.2008, str. 3, z późn. zm.); decyzję stosuje się jednak dalej w celu klasyfikacji gospodarstw w ramach Sieci Danych Rachunkowych z Gospodarstw Rolnych do roku obrachunkowego 2009 włącznie oraz w badaniach struktury gospodarstw rolnych, o których mowa w rozporządzeniu Rady (EWG) nr 571/88, do badań przeprowadzanych w 2007 r. włącznie; odesłania do uchylonej decyzji należy odczytywać jako odesłania do rozporządzenia Komisji (WE) nr 1242/2008, zgodnie z tabelą korelacji w załączniku V. 6) Utraciło moc z dniem 4 stycznia 2010 r. na podstawie art. 20 rozporządzenia Rady (WE) nr 1217/2009 z dnia 30 listopada 2009 r. ustanawiającego sieć zbierania danych rachunkowych o dochodach i działalności gospodarczej gospodarstw rolnych we Wspólnocie Europejskiej (Dz. Urz. UE L 328 z 15.12.2009, str. 27, z późn. zm.); odesłania do uchylonego rozporządzenia należy odczytywać jako odesłania do rozporządzenia Rady (WE) nr 1217/2009, zgodnie z tabelą korelacji znajdującą się w załączniku III. 7) Uchylone z dniem 1 stycznia 2009 r. na podstawie art. 17 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1166/2008 z dnia 19 listopada 2008 r. w sprawie badań struktury gospodarstw rolnych i badania metod produkcji rolnej oraz uchylającego rozporządzenie Rady (EWG) nr 571/88 (Dz. Urz. UE L 321 z 01.12.2008, str. 14); odesłania do uchylonego rozporządzenia należy traktować jako odesłania do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1166/2008. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 357, 1066, 1217, 1240, 1268, 1567, 1582, 1607, 1767, 1814, 1830 i 2199. 9) Uchylony przez art. 6 pkt 3 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw (Dz. U. poz. 1419), która weszła w życie z dniem 3 października 2015 r. 10) Część wspólna w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 894), które weszło w życie z dniem 27 czerwca 2015 r. 11) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 10. 12) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1137), które weszło w życie z dniem 4 września 2014 r. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289 oraz z 2015 r. poz. 218, 978 i 1433. 14) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 12. 15) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 12. 16) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 12. 17) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 12. 18) Utraciło moc z dniem 27 czerwca 2014 r. na podstawie art. 78 rozporządzenia delegowanego Komisji (UE) nr 639/2014 z dnia 11 marca 2014 r. w sprawie uzupełnienia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz zmiany załącznika X do tego rozporządzenia (Dz. Urz. UE L 181 z 20.06.2014, str. 1, z późn. zm.); rozporządzenie obowiązuje jednak nadal w stosunku do wniosków o przyznanie pomocy odnoszących się do lat kalendarzowych przed rokiem kalendarzowym 2015. 19) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 12. 20) Dodany przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 12. 21) W brzmieniu ustalonym przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 12. 22) Przez § 1 pkt 3 lit. f rozporządzenia, o którym mowa w odnośniku 12. 23) W brzmieniu ustalonym przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 12. 24) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 12. 25) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 12. 26) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 12. 27) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 10. 28) Rozporządzenie zostało ogłoszone w dniu 19 października 2007 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 19 października 2007 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 19 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm.); rozporządzenie stosuje się nadal do operacji wdrożonych na podstawie programów zatwierdzonych przez Komisję zgodnie z rozporządzeniem Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1302 i 1311. 4) Utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.); rozporządzenie stosuje się nadal do operacji realizowanych zgodnie z programami zatwierdzonymi przez Komisję na mocy rozporządzenia Rady (WE) nr 1698/2005 przed dniem 1 stycznia 2014 r. 5) Uchylona z dniem 19 grudnia 2008 r. na podstawie art. 7 ust. 1 rozporządzenia Komisji (WE) nr 1242/2008 z dnia 8 grudnia 2008 r. ustanawiającego wspólnotową typologię gospodarstw rolnych (Dz. Urz. UE L 335 z 13.12.2008, str. 3, z późn. zm.); decyzję stosuje się jednak dalej w celu klasyfikacji gospodarstw w ramach Sieci Danych Rachunkowych z Gospodarstw Rolnych do roku obrachunkowego 2009 włącznie oraz w badaniach struktury gospodarstw rolnych, o których mowa w rozporządzeniu Rady (EWG) nr 571/88, do badań przeprowadzanych w 2007 r. włącznie; odesłania do uchylonej decyzji należy odczytywać jako odesłania do rozporządzenia Komisji (WE) nr 1242/2008, zgodnie z tabelą korelacji w załączniku V. 6) Utraciło moc z dniem 4 stycznia 2010 r. na podstawie art. 20 rozporządzenia Rady (WE) nr 1217/2009 z dnia 30 listopada 2009 r. ustanawiającego sieć zbierania danych rachunkowych o dochodach i działalności gospodarczej gospodarstw rolnych we Wspólnocie Europejskiej (Dz. Urz. UE L 328 z 15.12.2009, str. 27, z późn. zm.); odesłania do uchylonego rozporządzenia należy odczytywać jako odesłania do rozporządzenia Rady (WE) nr 1217/2009, zgodnie z tabelą korelacji znajdującą się w załączniku III. 7) Uchylone z dniem 1 stycznia 2009 r. na podstawie art. 17 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1166/2008 z dnia 19 listopada 2008 r. w sprawie badań struktury gospodarstw rolnych i badania metod produkcji rolnej oraz uchylającego rozporządzenie Rady (EWG) nr 571/88 (Dz. Urz. UE L 321 z 01.12.2008, str. 14); odesłania do uchylonego rozporządzenia należy traktować jako odesłania do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1166/2008. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 357, 1066, 1217, 1240, 1268, 1567, 1582, 1607, 1767, 1814, 1830 i 2199. 9) Uchylony przez art. 6 pkt 3 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw (Dz. U. poz. 1419), która weszła w życie z dniem 3 października 2015 r. 10) Część wspólna w brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 894), które weszło w życie z dniem 27 czerwca 2015 r. 11) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 10. 12) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Modernizacja gospodarstw rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 1137), które weszło w życie z dniem 4 września 2014 r. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289 oraz z 2015 r. poz. 218, 978 i 1433. 14) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 12. 15) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 12. 16) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 12. 17) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 12. 18) Utraciło moc z dniem 27 czerwca 2014 r. na podstawie art. 78 rozporządzenia delegowanego Komisji (UE) nr 639/2014 z dnia 11 marca 2014 r. w sprawie uzupełnienia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz zmiany załącznika X do tego rozporządzenia (Dz. Urz. UE L 181 z 20.06.2014, str. 1, z późn. zm.); rozporządzenie obowiązuje jednak nadal w stosunku do wniosków o przyznanie pomocy odnoszących się do lat kalendarzowych przed rokiem kalendarzowym 2015. 19) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 12. 20) Dodany przez § 1 pkt 3 lit. d rozporządzenia, o którym mowa w odnośniku 12. 21) W brzmieniu ustalonym przez § 1 pkt 3 lit. e rozporządzenia, o którym mowa w odnośniku 12. 22) Przez § 1 pkt 3 lit. f rozporządzenia, o którym mowa w odnośniku 12. 23) W brzmieniu ustalonym przez § 1 pkt 3 lit. g rozporządzenia, o którym mowa w odnośniku 12. 24) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 12. 25) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 12. 26) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 12. 27) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 10. 28) Rozporządzenie zostało ogłoszone w dniu 19 października 2007 r.
 Załącznik – Szczegółowy wykaz kierunków studiów, zawodów i specjalności oraz tytułów kwalifikacyjnych w zakresie rolnictwa, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych
 1.
 Kierunki studiów pierwszego i drugiego stopnia oraz jednolitych studiów magisterskich, których ukończenie uznaje się za posiadanie wykształcenia wyższego rolniczego:
@@ -1129,8 +1115,7 @@ technika rolnicza i leśna;
 5)
 zootechnika;
 6)
-architektura krajobrazu.
-W przypadku ukończenia studiów na kierunku innym niż wymieniony w pkt 1–6 za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej uznaje się kierunki studiów, w ramach których zakres kształcenia albo standardy kształcenia obejmują treści związane z rolnictwem w wymiarze łącznym co najmniej 120 godzin.
+architektura krajobrazu. W przypadku ukończenia studiów na kierunku innym niż wymieniony w pkt 1–6 za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej uznaje się kierunki studiów, w ramach których zakres kształcenia albo standardy kształcenia obejmują treści związane z rolnictwem w wymiarze łącznym co najmniej 120 godzin.
 2.
 Wykaz zawodów i specjalności wykształcenia rolniczego średniego zawodowego:
 1)

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-29 |
 | Data wydania | 2022-08-05 |
-| Wejście w życie | 2022-08-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001638) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1638/text.pdf) |
 
@@ -33,11 +32,9 @@ Na podstawie art. 54 ust. 5 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze 
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 3 września 2021 r. w sprawie stanowisk służbowych w Centralnym Biurze Antykorupcyjnym oraz wymagań w zakresie wykształcenia i kwalifikacji zawodowych, jakie powinni spełniać funkcjonariusze na poszczególnych stanowiskach służbowych (Dz. U. poz. 1683) wprowadza się następujące zmiany:
 1)
-po § 1 dodaje się § 1a w brzmieniu:
-„
+po § 1 dodaje się § 1a w brzmieniu: „
 § 1a.
-Stanowisko kierownika sekcji lub wyższe można uzupełniać przez dodanie po myślniku wyrazów „radca prawny”, „główny księgowy” albo „audytor wewnętrzny”.
-” ;
+Stanowisko kierownika sekcji lub wyższe można uzupełniać przez dodanie po myślniku wyrazów „radca prawny”, „główny księgowy” albo „audytor wewnętrzny”. ” ;
 2)
 załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.

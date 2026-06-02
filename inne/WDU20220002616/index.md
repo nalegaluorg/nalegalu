@@ -26,14 +26,18 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2616/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby prawne Kościoła i ich organy Rozdział 3 – Działalność Kościoła Rozdział 4 – Sprawy majątkowe Kościoła Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej
 Załącznik – Wykaz osób prawnych Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1889), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 listopada 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „
+Przepisy ogólne
+Osoby prawne Kościoła i ich organy
+Działalność Kościoła
+Sprawy majątkowe Kościoła
+Przepisy przejściowe i końcowe
 1.
 Nieruchomości lub ich części pozostające w dniu wejścia w życie ustawy we władaniu Kościoła i jego osób prawnych stają się z mocy prawa ich własnością, o ile nie narusza to praw niepaństwowych i niesamorządowych osób trzecich; dotyczy to także obiektów położonych na terenie miasta stołecznego Warszawy.
 2.
@@ -45,9 +49,19 @@ Postępowanie sądowe i administracyjne dotyczące nieruchomości, o których mo
 5.
 Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o niej sąd lub organ, który zawiesił postępowanie, zwracając akta sprawy. Sąd lub organ umorzy postępowanie.
 
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Osoby prawne Kościoła i ich organy
+
+#### Rozdział 3 – Działalność Kościoła
+
+#### Rozdział 4 – Sprawy majątkowe Kościoła
+
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
 **Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -61,7 +75,7 @@ Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o nie
 
 **Art. 3.** Kościół rządzi się w swoich sprawach własnym Prawem Kościelnym i swobodnie wykonuje władzę duchowną i jurysdykcyjną oraz zarządza swoimi sprawami.
 
-#### Rozdział 2 Osoby prawne Kościoła i ich organy
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -86,17 +100,17 @@ Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o nie
 
 4. W sprawach majątkowych Kościół reprezentuje jego Zarząd. Do składania oświadczeń woli uprawnieni są dwaj członkowie Zarządu Kościoła działający łącznie, w tym Przewodniczący lub jego zastępca.
 
-5. Zmiana nazwy lub siedziby osób prawnych wymienionych w ust. 2 może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Zarządu Kościoła, ogłasza Minister – Szef Urzędu Rady Ministrów  w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+5. Zmiana nazwy lub siedziby osób prawnych wymienionych w ust. 2 może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Zarządu Kościoła, ogłasza Minister – Szef Urzędu Rady Ministrów Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 5.** Inne kościelne jednostki organizacyjne mogą, na wniosek Zarządu Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra – Szefa Urzędu Rady Ministrów .
+**Art. 5.** Inne kościelne jednostki organizacyjne mogą, na wniosek Zarządu Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra – Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1..
 
 **Art. 6.**
 
 1. Kościół samodzielnie tworzy, przekształca i znosi kościelne jednostki organizacyjne, w tym także posiadające osobowość prawną.
 
-2. O faktach wymienionych w ust. 1 Zarząd Kościoła powiadamia niezwłocznie Ministra – Szefa Urzędu Rady Ministrów .
+2. O faktach wymienionych w ust. 1 Zarząd Kościoła powiadamia niezwłocznie Ministra – Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1..
 
-3. Nowo utworzone diecezje Kościoła nabywają osobowość prawną z chwilą powiadomienia Ministra – Szefa Urzędu Rady Ministrów . Odpis powiadomienia, z umieszczonym na nim potwierdzeniem odbioru, jest dowodem uzyskania osobowości prawnej.
+3. Nowo utworzone diecezje Kościoła nabywają osobowość prawną z chwilą powiadomienia Ministra – Szefa Urzędu Rady Ministrów Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1.. Odpis powiadomienia, z umieszczonym na nim potwierdzeniem odbioru, jest dowodem uzyskania osobowości prawnej.
 
 4. Powiadomienie, o którym mowa w ust. 2 i 3, powinno zawierać nazwę i siedzibę kościelnej osoby prawnej, a w odniesieniu do diecezji – także ich zasięg terytorialny.
 
@@ -106,7 +120,7 @@ Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o nie
 
 **Art. 8.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
-#### Rozdział 3 Działalność Kościoła
+#### Rozdział 3
 
 **Art. 9.** Kościół swobodnie pełni swoją misję i sprawuje kult publiczny.
 
@@ -156,7 +170,7 @@ Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o nie
 
 **Art. 15.**
 
-1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej  a Zarządem Kościoła.
+1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 1. a Zarządem Kościoła.
 
 2. Studentom szkół, o których mowa w ust. 1 oraz w art. 14 ust. 2, przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi ze studentami uczelni publicznych.
 
@@ -164,7 +178,7 @@ Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o nie
 
 - **1)** opieki zdrowotnej finansowane ze środków publicznych;
 - **2)** ubezpieczenia społecznego oraz
-- **3)** zaopatrzenia emerytalnego pracowników i ich rodzin . Nauczycielom przysługują ponadto ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z nauczycielami akademickimi.
+- **3)** zaopatrzenia emerytalnego pracowników i ich rodzin Obecnie emerytury i renty z Funduszu Ubezpieczeń Społecznych na podstawie art. 192 i art. 195 pkt 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504 i 1504).. Nauczycielom przysługują ponadto ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z nauczycielami akademickimi.
 
 4. Poręcza się Kościołowi prawo do kształcenia kadr duchownych w Chrześcijańskiej Akademii Teologicznej w Warszawie w zakresie teologii adwentystycznej, w ramach samodzielnej jednostki naukowo-dydaktycznej utworzonej zgodnie z ustawą o szkolnictwie wyższym.
 
@@ -184,19 +198,13 @@ Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o nie
 
 2. Opiekę duszpasterską na terenie jednostek wojskowych dla żołnierzy, o których mowa w ust. 1, zapewniają duchowni Kościoła w terminach i na zasadach uzgodnionych z dowódcą jednostki.
 
-3. Duchownych, o których mowa w ust. 2, wyznacza Zarząd Kościoła w porozumieniu z Ministrem Obrony Narodowej.
-
-**Art. 18.**
-
-1. Wiernym przebywającym w szpitalach i sanatoriach, w domach pomocy społecznej i w zakładach karnych oraz osobom tymczasowo aresztowanym i nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich – zapewnia się prawo do wykonywania praktyk religijnych, w tym udział w nabożeństwach i innych praktykach religijnych oraz w nauczaniu kościelnym i spotkaniach o charakterze wychowawczo-religijnym z osobami duchownymi lub świeckimi tego wyznania, a także świętowania soboty i przestrzegania zasad dietetycznych, oraz umożliwia się umieszczanie symboli religijnych, uwzględniających potrzeby religijne wiernych.
-
-2. Przepis ust. 1 ma również zastosowanie do dzieci i młodzieży korzystających z zorganizowanych form wypoczynku. Organizatorzy zorganizowanego wypoczynku dla dzieci i młodzieży zapewniają prawo do wykonywania praktyk religijnych, o których mowa w ust. 1, na życzenie rodzica lub opiekuna prawnego dziecka uczestniczącego w tym wypoczynku albo pełnoletniego uczestnika tego wypoczynku.
+3. Duchownych, o których mowa w ust. 2, wyznacza Zarząd Kościoła w porozumieniu z Ministrem Obrony Narodowej. Art. 18Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów, dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083).. 1W brzmieniu ustalonym przez art. 373 pkt 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r.. Wiernym przebywającym w szpitalach i sanatoriach, w domach pomocy społecznej i w zakładach karnych oraz osobom tymczasowo aresztowanym i nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich – zapewnia się prawo do wykonywania praktyk religijnych, w tym udział w nabożeństwach i innych praktykach religijnych oraz w nauczaniu kościelnym i spotkaniach o charakterze wychowawczo-religijnym z osobami duchownymi lub świeckimi tego wyznania, a także świętowania soboty i przestrzegania zasad dietetycznych, oraz umożliwia się umieszczanie symboli religijnych, uwzględniających potrzeby religijne wiernych. 2W brzmieniu ustalonym przez art. 373 pkt 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r.. Przepis ust. 1 ma również zastosowanie do dzieci i młodzieży korzystających z zorganizowanych form wypoczynku. Organizatorzy zorganizowanego wypoczynku dla dzieci i młodzieży zapewniają prawo do wykonywania praktyk religijnych, o których mowa w ust. 1, na życzenie rodzica lub opiekuna prawnego dziecka uczestniczącego w tym wypoczynku albo pełnoletniego uczestnika tego wypoczynku.
 
 3. W celu zaspokojenia potrzeb, o których mowa w ust. 1 i 2, władze kościelne mogą wyznaczyć kapelanów dla zakładów prowadzonych przez administrację rządową oraz samorządową.
 
 4. W celu umożliwienia udziału chorych i podopiecznych w nabożeństwach lub zbiorowych posługach religijnych, kierownicy właściwych zakładów prowadzonych przez administrację rządową oraz samorządową udostępnią odpowiednie pomieszczenia.
 
-5. (uchylony)
+5. (uchylony)Przez art. 373 pkt 2 ustawy, o której mowa w odnośniku 6.
 
 **Art. 19.**
 
@@ -257,7 +265,7 @@ Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o nie
 
 **Art. 26.** Instytucje państwowe, samorządowe i kościelne współdziałają w ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury.
 
-#### Rozdział 4 Sprawy majątkowe Kościoła
+#### Rozdział 4
 
 **Art. 27.** Kościołowi i jego osobom prawnym przysługuje prawo nabywania, posiadania i zbywania mienia ruchomego i nieruchomego, nabywania i zbywania innych praw oraz zarządzania swoim majątkiem.
 
@@ -306,7 +314,7 @@ Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o nie
 
 **Art. 33.** Niezależnie od ustawowego ubezpieczenia duchownych, Kościół prowadzi Kościelny Fundusz Socjalny na rzecz duchownych i ich rodzin, który w rozumieniu ustawy nie jest działalnością gospodarczą.
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 34.**
 
@@ -314,7 +322,7 @@ Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o nie
 
 2. Przyznaje się Kościołowi prawo do nieruchomości zamiennej wraz z budynkiem za nieruchomość przy ul. Górskiej nr 9 w Warszawie, przeznaczoną na budownictwo komunalne.
 
-3. Minister-Szef Urzędu Rady Ministrów  określi, w drodze zarządzenia, szczegółowe zasady i tryb regulacji określonych w ust. 1 i 2.
+3. Minister-Szef Urzędu Rady Ministrów Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. określi, w drodze zarządzenia, szczegółowe zasady i tryb regulacji określonych w ust. 1 i 2.
 
 4. Przekazanie własności nieruchomości na podstawie ust. 1 i 2 jest wolne od podatków i opłat, a wynikające z niego wpisy do ksiąg wieczystych i ich zakładanie jest wolne od opłat sądowych.
 
@@ -339,8 +347,5 @@ Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o nie
 
 2. Wykaz kościelnych osób prawnych istniejących w dniu wejścia w życie ustawy określa załącznik do ustawy.
 
-**Art. 37.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 1. 4) Obecnie emerytury i renty z Funduszu Ubezpieczeń Społecznych na podstawie art. 192 i art. 195 pkt 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504 i 1504). 5) Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów, dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083). 6) W brzmieniu ustalonym przez art. 373 pkt 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 7) Przez art. 373 pkt 2 ustawy, o której mowa w odnośniku 6. 8) Ustawa została ogłoszona w dniu 23 sierpnia 1995 r. Załącznik – Wykaz osób prawnych Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej I. Diecezje: Diecezja Południowa Diecezja Wschodnia Diecezja Zachodnia II. Instytucje i organizacje: Chrześcijańska Służba Charytatywna Chrześcijański Instytut Wydawniczy „Znaki Czasu” Dom Opieki „Samarytanin” w Bielsku-Białej Ośrodek Radiowo-Telewizyjny „Głos Nadziei” III. Seminaria: Wyższe Seminarium Duchowne Kościoła Adwentystów Dnia Siódmego im. Michała Beliny-Czechowskiego w Podkowie Leśnej.
-
+**Art. 37.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 23 sierpnia 1995 r.. 1) Obecnie minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847, 1390 i 1933), która weszła w życie z dniem 1 kwietnia 1999 r. 2) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy, o której mowa w odnośniku 1. 3) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 1. 4) Obecnie emerytury i renty z Funduszu Ubezpieczeń Społecznych na podstawie art. 192 i art. 195 pkt 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504 i 1504). 5) Z dniem 1 września 1998 r. utraciły moc przepisy o stosunku Państwa do Kościołów, dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych na podstawie art. 257 § 2 pkt 2 lit. b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557 i 1083). 6) W brzmieniu ustalonym przez art. 373 pkt 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), która weszła w życie z dniem 1 września 2022 r. 7) Przez art. 373 pkt 2 ustawy, o której mowa w odnośniku 6. 8) Ustawa została ogłoszona w dniu 23 sierpnia 1995 r. Załącznik – Wykaz osób prawnych Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej I. Diecezje: Diecezja Południowa Diecezja Wschodnia Diecezja Zachodnia II. Instytucje i organizacje: Chrześcijańska Służba Charytatywna Chrześcijański Instytut Wydawniczy „Znaki Czasu” Dom Opieki „Samarytanin” w Bielsku-Białej Ośrodek Radiowo-Telewizyjny „Głos Nadziei” III. Seminaria: Wyższe Seminarium Duchowne Kościoła Adwentystów Dnia Siódmego im. Michała Beliny-Czechowskiego w Podkowie Leśnej.
 

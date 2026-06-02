@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 lipca 2004 r. o zmianie ustawy o narodowym zasobie archiwalnym i archiwach
+# Ustawa z dnia 23 lipca 2004 r. o zmianie ustawy o narodowym zasobie archiwalnym i archiwach Niniejsza ustawa dokonuje transpozycji przepisów dyrektywy Rady 93/7/EWG z dnia 15 marca 1993 r. w sprawie zwrotu dóbr kultury wyprowadzonych niezgodnie z prawem z terytorium Państwa Członkowskiego (Dz. Urz. WE L 74 z 27.03.1993) zmienionej dyrektywą Parlamentu Europejskiego i Rady 2001/38/WE z dnia 5 czerwca 2001 r. (Dz. Urz. WE L 187 z 10.07.2001).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-07-23 |
 | Data wydania | 2004-09-16 |
-| Wejście w życie | 2004-10-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042022065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2065/text.pdf) |
 
@@ -33,5 +32,5 @@ source: "eli-html"
 - **1)** więcej niż 50 lat,
 - **2)** 50 lat lub mniej, jeżeli stanowią państwowy zasób archiwalny – stosuje się odpowiednio przepisy rozdziału 6 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568 oraz z 2004 r. Nr 96, poz. 959), z tym że organem właściwym do prowadzenia postępowania dotyczącego zwrotu materiałów archiwalnych jest Naczelny Dyrektor Archiwów Państwowych. Przepis art. 14a nie wyklucza możliwości dochodzenia przez Rzeczpospolitą Polską zwrotu, na podstawie prawa lub zwyczajów międzynarodowych, wywiezionych niezgodnie z prawem polskim z terytorium Rzeczypospolitej Polskiej materiałów archiwalnych innych niż określone w art. 14a. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje transpozycji przepisów dyrektywy Rady 93/7/EWG z dnia 15 marca 1993 r. w sprawie zwrotu dóbr kultury wyprowadzonych niezgodnie z prawem z terytorium Państwa Członkowskiego (Dz. Urz. WE L 74 z 27.03.1993) zmienionej dyrektywą Parlamentu Europejskiego i Rady 2001/38/WE z dnia 5 czerwca 2001 r. (Dz. Urz. WE L 187 z 10.07.2001).
 

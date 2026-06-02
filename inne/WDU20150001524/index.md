@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-15 |
 | Data wydania | 2015-10-02 |
-| Wejście w życie | 2015-10-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001524) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1524/text.pdf) |
 
@@ -77,5 +76,5 @@ Umowę o pracę na czas określony zawiera z pracownikiem Dowódca Operacyjny Ro
 § 7.
 Do procedur naboru wszczętych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 1 października 1999 r. w sprawie szczegółowych zasad zatrudniania pracowników w jednostkach wojskowych przewidzianych do użycia lub pobytu poza granicami państwa (Dz. U. Nr 80, poz. 906 oraz z 2013 r. poz. 1732), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 3 ustawy z dnia 10 czerwca 2014 r. o zmianie ustawy o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. poz. 1033). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 1 października 1999 r. w sprawie szczegółowych zasad zatrudniania pracowników w jednostkach wojskowych przewidzianych do użycia lub pobytu poza granicami państwa (Dz. U. Nr 80, poz. 906 oraz z 2013 r. poz. 1732), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 3 ustawy z dnia 10 czerwca 2014 r. o zmianie ustawy o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. poz. 1033).
 

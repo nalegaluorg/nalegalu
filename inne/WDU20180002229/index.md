@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 28 listopada 2018 r. w sprawie szczegółowych warunków i trybu przyznawania oraz rozliczania przez Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich oraz jej wysokości
+# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 28 listopada 2018 r. w sprawie szczegółowych warunków i trybu przyznawania oraz rozliczania przez Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich oraz jej wysokości Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-28 |
 | Data wydania | 2018-11-29 |
-| Wejście w życie | 2018-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002229) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2229/text.pdf) |
 
@@ -76,8 +75,7 @@ Wysokość pomocy jest uzależniona od liczby członków ustalonej na dzień zł
 2)
 4000 zł, jeżeli koło gospodyń wiejskich liczy od 31 do 75 członków,
 3)
-5000 zł, jeżeli koło gospodyń wiejskich liczy ponad 75 członków
-z zastrzeżeniem art. 36 ustawy.
+5000 zł, jeżeli koło gospodyń wiejskich liczy ponad 75 członków – z zastrzeżeniem art. 36 ustawy.
 7.
 Pomoc jest przyznawana kołu gospodyń wiejskich jednorazowo.
 § 3.
@@ -125,7 +123,5 @@ W 2018 r. wniosek o przyznanie pomocy może być złożony nie później niż do
 § 8.
 W 2018 r. informacje, o których mowa w § 2 ust. 4, Prezes Agencji przedstawia ministrowi właściwemu do spraw rozwoju regionalnego w terminach do dnia 7 grudnia i do dnia 20 grudnia.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-s
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. s 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 

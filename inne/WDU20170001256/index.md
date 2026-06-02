@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 19 czerwca 2017 r. w sprawie nadania statutu Polskiej Agencji Antydopingowej
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 19 czerwca 2017 r. w sprawie nadania statutu Polskiej Agencji Antydopingowej Minister Sportu i Turystyki kieruje działami administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 1911).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-19 |
 | Data wydania | 2017-06-27 |
-| Wejście w życie | 2017-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001256) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1256/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 4 ust. 4 ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu doping
 § 1.
 Polskiej Agencji Antydopingowej nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.
-1) Minister Sportu i Turystyki kieruje działami administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 1911).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r. 1) Minister Sportu i Turystyki kieruje działami administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 1911).
 Załącznik – Statut Polskiej Agencji Antydopingowej
 § 1.
 Polska Agencja Antydopingowa, zwana dalej „Agencją”, jest państwową osobą prawną, działającą na podstawie ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie (Dz. U. poz. 1051), zwanej dalej „ustawą”, oraz niniejszego statutu.

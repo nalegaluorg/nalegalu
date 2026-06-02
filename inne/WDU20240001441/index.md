@@ -26,7 +26,21 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1441/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 5 lipca 2012 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagania ogólnoprzestrzenne Rozdział 3 – Wymagania dla niektórych pomieszczeń i urządzeń Rozdział 4 – Wymagania ogólnobudowlane Rozdział 5 – Oświetlenie Rozdział 6 – Wymagania dotyczące instalacji Rozdział 7 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 5 lipca 2012 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Wymagania ogólnoprzestrzenne
+
+#### Rozdział 3 – Wymagania dla niektórych pomieszczeń i urządzeń
+
+#### Rozdział 4 – Wymagania ogólnobudowlane
+
+#### Rozdział 5 – Oświetlenie
+
+#### Rozdział 6 – Wymagania dotyczące instalacji
+
+#### Rozdział 7 – Przepis końcowy
 
 ## Załącznik nr 1 — – Szczegółowe wymagania, jakim powinny odpowiadać pomieszczenia i urządzenia szpitala
 
@@ -40,14 +54,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 5 lipca 2012 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności (Dz. U. poz. 808), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 20 kwietnia 2017 r. zmieniającym rozporządzenie w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności (Dz. U. poz. 917).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 20 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności (Dz. U. poz. 917), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 20 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności (Dz. U. poz. 917), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 5 lipca 2012 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności
 Na podstawie art. 22 ust. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozdział 1
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe wymagania, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności.
@@ -77,7 +90,8 @@ pomieszczenie higieniczno-sanitarne – pomieszczenie wyposażone co najmniej w 
 pomieszczenie porządkowe – pomieszczenie służące do przechowywania sprzętu stosowanego do utrzymywania czystości, środków czystości oraz preparatów myjąco-dezynfekcyjnych, a także do przygotowywania roztworów roboczych oraz mycia i dezynfekcji sprzętu stosowanego do utrzymywania czystości, wyposażone w zlew z baterią i dozownik ze środkiem dezynfekcyjnym;
 6)
 zakład karny – zakład karny lub areszt śledczy.
-Rozdział 2 Wymagania ogólnoprzestrzenne
+Rozdział 2
+Wymagania ogólnoprzestrzenne
 § 3.
 1.
 Szpital lub ambulatorium z izbą chorych mogą być zlokalizowane w samodzielnym budynku lub w zespole budynków o innym przeznaczeniu, będących w strukturze zakładu karnego, z możliwym maksymalnym zachowaniem odrębności od innych użytkowników budynku.
@@ -92,7 +106,8 @@ Kształt i powierzchnia poszczególnych pomieszczeń szpitala lub ambulatorium z
 W szpitalu nie mogą być stosowane zsypy.
 2.
 W uzasadnionych przypadkach, w szczególności wynikających z warunków technicznych, państwowy wojewódzki inspektor sanitarny może wyrazić zgodę na zastosowanie w szpitalu zsypów brudnej bielizny.
-Rozdział 3 Wymagania dla niektórych pomieszczeń i urządzeń
+Rozdział 3
+Wymagania dla niektórych pomieszczeń i urządzeń
 § 7.
 Łóżka w pokojach łóżkowych szpitala są dostępne przynajmniej z dwóch stron, w tym jednej dłuższej.
 § 8.
@@ -180,7 +195,8 @@ Meble w pomieszczeniach podmiotu wykonującego działalność leczniczą umożli
 Przepisu ust. 1 nie stosuje się do mebli w pomieszczeniach administracyjnych i socjalnych, poradni i gabinetów podmiotów wykonujących świadczenia z zakresu opieki psychiatrycznej i leczenia uzależnień.
 § 17.
 W zakładzie karnym, w którego strukturze funkcjonuje szpital lub ambulatorium z izbą chorych, zapewnia się co najmniej jedno pomieszczenie porządkowe umożliwiające dodatkowo mycie i dezynfekcję środków transportu.
-Rozdział 4 Wymagania ogólnobudowlane
+Rozdział 4
+Wymagania ogólnobudowlane
 § 18.
 1.
 W pomieszczeniach szpitala lub ambulatorium z izbą chorych podłogi, a także połączenia ścian z podłogami wykonuje się z materiałów umożliwiających ich mycie i dezynfekcję.
@@ -192,7 +208,8 @@ Pomieszczenia i urządzenia wymagające utrzymania aseptyki i wyposażenie tych 
 W przypadku konieczności zastosowania sufitów podwieszonych w pomieszczeniach o podwyższonych wymaganiach higienicznych, w szczególności w salach operacyjnych i porodowych, pokojach łóżkowych, w oddziale anestezjologii i intensywnej terapii, salach pooperacyjnych, sufity te są wykonane w sposób zapewniający szczelność powierzchni oraz umożliwiający ich mycie i dezynfekcję.
 § 21.
 Szerokość drzwi w pomieszczeniach, przez które odbywa się ruch pacjentów na łóżkach, umożliwia ten ruch.
-Rozdział 5 Oświetlenie
+Rozdział 5
+Oświetlenie
 § 22.
 W pokojach łóżkowych zapewnia się bezpośredni dostęp światła dziennego.
 § 23.
@@ -202,7 +219,8 @@ W przypadku nadmiernego naświetlenia pokoi łóżkowych instaluje się w nich o
 W salach operacyjnych i pomieszczeniach diagnostyki obrazowej stosuje się wyłącznie oświetlenie elektryczne.
 2.
 W przypadku gdy nie stanowi to utrudnienia przy wykonywaniu zabiegów operacyjnych i diagnostycznych, dopuszcza się zastosowanie w pomieszczeniach, o których mowa w ust. 1, oświetlenia dziennego.
-Rozdział 6 Wymagania dotyczące instalacji
+Rozdział 6
+Wymagania dotyczące instalacji
 § 25.
 1.
 Pomieszczenia, w których są wykonywane badania lub zabiegi, z wyjątkiem pomieszczeń, w których odbywa się badanie za pomocą rezonansu magnetycznego, wyposażone są w umywalki z baterią z ciepłą i zimną wodą, dozownik z mydłem w płynie, dozownik ze środkiem dezynfekcyjnym oraz pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki albo urządzenie do suszenia rąk.
@@ -219,16 +237,17 @@ W salach operacyjnych oraz innych pomieszczeniach, gdzie podtlenek azotu jest st
 Instalacje i urządzenia wentylacji mechanicznej i klimatyzacji podlegają okresowemu przeglądowi, czyszczeniu, dezynfekcji lub wymianie elementów instalacji zgodnie z zaleceniami producenta, nie rzadziej niż co 12 miesięcy.
 2.
 Dokonanie czynności, o których mowa w ust. 1, wymaga udokumentowania.
-§ 29.
+§ 29W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 20 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności (Dz. U. poz. 917), które weszło w życie z dniem 26 maja 2017 r..
 Szpital posiada rezerwowe źródło zaopatrzenia w wodę, zapewniające co najmniej jej 12-godzinny zapas.
 § 30.
 1.
 Szpital posiada rezerwowe źródło zaopatrzenia w energię elektryczną, którym jest agregat prądotwórczy wyposażony w funkcję autostartu, zapewniający co najmniej 30 % potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania.
 2.
 Przepisu ust. 1 nie stosuje się w sytuacji, gdy zakład karny, na terenie którego funkcjonuje szpital, ma agregat prądotwórczy lub inne rezerwowe źródło zaopatrzenia w energię elektryczną, o ile ich wydolność zapewni szpitalowi co najmniej 30 % potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania.
-Rozdział 7 Przepis końcowy
+Rozdział 7
+Przepis końcowy
 § 31.
-Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 13 lipca 2012 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie wymagań, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia zakładu opieki zdrowotnej (Dz. U. poz. 158). 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 20 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności (Dz. U. poz. 917), które weszło w życie z dniem 26 maja 2017 r. 2) Rozporządzenie zostało ogłoszone w dniu 13 lipca 2012 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie wymagań, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia zakładu opieki zdrowotnej (Dz. U. poz. 158).
 
 ## Załącznik nr 1 — – Szczegółowe wymagania, jakim powinny odpowiadać pomieszczenia i urządzenia szpitala
 
@@ -257,7 +276,7 @@ pojemniki na odpady medyczne i inne odpady;
 3)
 co najmniej jedno pomieszczenie higieniczno-sanitarne wyposażone dodatkowo co najmniej w natrysk przystosowany także dla osób niepełnosprawnych;
 4)
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1.
 3.
 W punkcie przyjęć i konsultacji zapewnia się możliwość krótkotrwałej izolacji pacjenta, u którego stwierdzono chorobę zakaźną lub jej podejrzenie. Izolacja może się odbywać w oddzielnym pomieszczeniu lub w gabinecie, w którym przeprowadzono badanie pacjenta.
 II.
@@ -265,7 +284,7 @@ Zespół pomieszczeń pielęgnacyjnych W skład zespołu pomieszczeń pielęgnac
 1)
 pokoje łóżkowe;
 2)
-(uchylony);
+(uchylony);Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1.
 3)
 gabinet diagnostyczno-zabiegowy;
 4)
@@ -558,7 +577,7 @@ Centralna sterylizatornia
 W szpitalu zapewnia się stałe zaopatrzenie w materiały sterylne.
 2.
 W zależności od przyjętych rozwiązań materiały sterylne mogą być dostarczane bądź ze sterylizatorni zlokalizowanej poza zaopatrywanym obiektem, posiadającej system zarządzania jakością (ISO lub GMP) i gwarantującej wykonanie wyrobu sterylnego, bądź z centralnej sterylizatorni zorganizowanej w ramach zaopatrywanego szpitala.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1..
 W przypadku zaopatrywania szpitala ze sterylizatorni zlokalizowanej poza szpitalem należy zapewnić pomieszczenie przeznaczone do ekspedycji materiału skażonego oraz odbioru materiału sterylnego, jak również pomieszczenie przeznaczone do mycia oraz dezynfekcji wózków i innych elementów transportowych.
 4.
 W przypadku urządzania centralnej sterylizatorni w ramach szpitala musi ona być wyposażona w urządzenia do wyjaławiania sprzętu, aparatury, narzędzi, bielizny operacyjnej, materiałów opatrunkowych i innych elementów tego wymagających oraz dezynfekowania wózków i pojemników służących do transportu materiałów poddawanych sterylizacji.
@@ -611,7 +630,7 @@ Do zasilania wytwornic pary dla sterylizatorów parowych i myjni-dezynfektorów 
 22.
 Stacja uzdatniania wody może być integralną częścią centralnej sterylizatorni lub może być zlokalizowana w odrębnym pomieszczeniu.
 23.
-Przy doborze wydajności stacji uzdatniania wody uwzględnia się ewentualne zasilanie z niej wodą uzdatnioną innych oddziałów szpitala (apteka, laboratoria, blok operacyjny, kuchnia mleczna, zakład diagnostyki obrazowej, stacja dializ, oddział urologii, pracownia badań i zabiegów endoskopowych).
+Przy doborze wydajności stacji uzdatniania wody uwzględnia się ewentualne zasilanie z niej wodą uzdatnioną innych oddziałów szpitala (apteka, laboratoria, blok operacyjny, kuchnia mleczna, zakład diagnostyki obrazowej, stacja dializ, oddział urologii, pracownia badań i zabiegów endoskopowych). 4) Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 5) Przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1.
 
 ## Załącznik nr 2 — – Szczegółowe wymagania, jakim powinny odpowiadać pomieszczenia i urządzenia ambulatorium z izbą chorych
 

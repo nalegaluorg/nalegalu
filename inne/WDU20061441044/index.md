@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-07-14 |
 | Data wydania | 2006-08-11 |
-| Wejście w życie | 2006-08-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061441044) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1044/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703 oraz z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104.) wprowadza się następujące zmiany:
 
 - **1)** w art. 77: po § 3 dodaje się § 3a w brzmieniu: „
     - **a)**
@@ -73,7 +72,7 @@ source: "eli-html"
 
 § 7. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, tryb, wysokość i szczegółowe warunki przyznawania i wypłaty należności, o których mowa w § 2, limity, do wysokości których podlegają zwrotowi koszty zamieszkania, oraz walutę, w której należności takie są wypłacane, uwzględniając zakres ich przyznawania zależnie od miejsca pełnienia obowiązków i powierzonej sędziemu funkcji, a także potrzebę zapewnienia warunków do prawidłowego ich wykonywania oraz konieczność pokrycia zwiększonych kosztów związanych z wykonywaniem tych obowiązków lub funkcji poza granicami państwa oraz z sytuacjami szczególnymi, w tym zdarzeniami losowymi. ” .
 
-**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. Nr 117, poz. 753, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. Nr 117, poz. 753, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 75, poz. 853, z 2001 r. Nr 98, poz. 1070, z 2002 r. Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 185, poz. 1907 oraz z 2005 r. Nr 249, poz. 2104.) wprowadza się następujące zmiany:
 
 - **1)** po art. 26 dodaje się art. 26a w brzmieniu: „
 
@@ -97,7 +96,7 @@ source: "eli-html"
 - **2)** uprawnienia określone w art. 92 § 1 powołanej ustawy przysługują, jeżeli sędzia wojskowy nie nabył wcześniej prawa do urlopu dodatkowego określonego w przepisach o służbie wojskowej żołnierzy zawodowych,
 - **3)** uprawnienia określone w art. 172–174 powołanej ustawy przysługują w wypadku określonym w art. 61 niniejszej ustawy. ” .
 
-**Art. 3.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2002 r. Nr 21, poz. 206, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2002 r. Nr 21, poz. 206, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 213, poz. 1802, z 2003 r. Nr 228, poz. 2256 oraz z 2005 r. Nr 130, poz. 1085, Nr 167, poz. 1398 i Nr 169, poz. 1410 i 1417.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 1: po pkt 5 dodaje się pkt 5a w brzmieniu: „
     - **a)**
@@ -163,5 +162,5 @@ source: "eli-html"
 
 1. Do asesorów powszechnych jednostek organizacyjnych prokuratury stosuje się odpowiednio przepisy dotyczące prokuratorów tych prokuratur, a do asesorów wojskowych – przepisy dotyczące prokuratorów wojskowych jednostek organizacyjnych prokuratury, z wyłączeniem art. 50 ust. 2a, 3 i 4, art. 51a, art. 62 ust. 1a-1d i ust. 1h-1k oraz art. 62a ust. 1 – w zakresie art. 69–71, art. 73 i art. 74, art. 99–102 i art. 104 ustawy, o której mowa w art. 62a ust. 1 – oraz art. 62a ust. 2–5, a także art. 62b, art. 62c i art. 65a. ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703 oraz z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 75, poz. 853, z 2001 r. Nr 98, poz. 1070, z 2002 r. Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 185, poz. 1907 oraz z 2005 r. Nr 249, poz. 2104. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 213, poz. 1802, z 2003 r. Nr 228, poz. 2256 oraz z 2005 r. Nr 130, poz. 1085, Nr 167, poz. 1398 i Nr 169, poz. 1410 i 1417.
 

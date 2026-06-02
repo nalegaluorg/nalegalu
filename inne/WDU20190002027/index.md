@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 11 października 2019 r. zmieniające rozporządzenie w sprawie warunków zdrowotnych wykonywania prac podwodnych
+# Rozporządzenie Ministra Zdrowiaz dnia 11 października 2019 r. zmieniające rozporządzenie w sprawie warunków zdrowotnych wykonywania prac podwodnych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-11 |
 | Data wydania | 2019-10-24 |
-| Wejście w życie | 2019-11-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002027) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2027/text.pdf) |
 
@@ -45,6 +44,5 @@ wyrazy „podpis i pieczątka kierownika ośrodka” zastępuje się wyrazami �
 § 2.
 Zaświadczenia, których wzór został określony w załącznikach nr 1 i 9 do rozporządzenia zmienianego w § 1, wydane przed dniem wejścia w życie niniejszego rozporządzenia, zachowują ważność.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 

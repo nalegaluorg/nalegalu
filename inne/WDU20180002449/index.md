@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2018-12-28 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002449) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2449/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 8091§ 6 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 8091§ 6 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -111,5 +110,5 @@ W okresie do dnia 31 grudnia 2020 r. w sprawach, w których akta nie są prowadz
 2.
 W razie prowadzenia akt w postaci dotychczasowej komornik udostępnia zapis organom nadzoru judykacyjnego lub administracyjnego oraz innym uprawnionym organom wraz z udostępnieniem akt sprawy albo na informatycznym nośniku danych.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432.
 

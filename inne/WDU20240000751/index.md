@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 10 maja 2024 r. w sprawie szczegółowych warunków przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 4. Wzmocnienie międzynarodowego zarządzania oceanami oraz przyczynienie się do zapewnienia bezpieczeństwa i czystości mórz i oceanów, ochrony na nich, a także zrównoważonego zarządzania nimi objętego programem Fundusze Europejskie dla Rybactwa na lata 2021–2027 oraz wysokości tej pomocy
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 10 maja 2024 r. w sprawie szczegółowych warunków przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 4. Wzmocnienie międzynarodowego zarządzania oceanami oraz przyczynienie się do zapewnienia bezpieczeństwa i czystości mórz i oceanów, ochrony na nich, a także zrównoważonego zarządzania nimi objętego programem Fundusze Europejskie dla Rybactwa na lata 2021–2027 oraz wysokości tej pomocy Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-10 |
 | Data wydania | 2024-05-17 |
-| Wejście w życie | 2024-05-18 |
 | Ostatnia zmiana | 2024-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000751) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/751/text.pdf) |
 
@@ -77,7 +76,7 @@ dla której wykazano racjonalność kosztów;
 7)
 która nie stanowi operacji lub wydatków, o których mowa w art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1139 z dnia 7 lipca 2021 r. ustanawiającego Europejski Fundusz Morski, Rybacki i Akwakultury oraz zmieniającego rozporządzenie (UE) 2017/1004;
 8)
-która nie obejmuje kosztów przeniesienia produkcji zgodnie z art. 66 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.), zwanego dalej „rozporządzeniem 2021/1060”;
+która nie obejmuje kosztów przeniesienia produkcji zgodnie z art. 66 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 130 z 16.05.2023 oraz Dz. Urz. UE L 2024/795 z 29.02.2024., zwanego dalej „rozporządzeniem 2021/1060”;
 9)
 która spełnia szczegółowe kryteria wyboru operacji określone w załączniku nr 1 do rozporządzenia w stopniu wystarczającym do uzyskania minimalnej liczby punktów według kolejności liczby punktów uzyskanych w ramach oceny spełniania szczegółowych kryteriów wyboru operacji.
 2.
@@ -107,7 +106,7 @@ ministrowi właściwemu do spraw gospodarki morskiej;
 3)
 urzędowi morskiemu;
 4)
-uczelni, o której mowa w przepisach ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.), prowadzącej kształcenie lub badania naukowe w zakresie rybołówstwa morskiego, gospodarki morskiej lub środowiska morskiego;
+uczelni, o której mowa w przepisach ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227.), prowadzącej kształcenie lub badania naukowe w zakresie rybołówstwa morskiego, gospodarki morskiej lub środowiska morskiego;
 5)
 instytutowi badawczemu w rozumieniu art. 1 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534) prowadzącemu badania naukowe lub prace rozwojowe w zakresie rybołówstwa morskiego, gospodarki morskiej lub środowiska morskiego;
 6)
@@ -171,7 +170,7 @@ Wniosek o dofinansowanie, poza informacjami, o których mowa w art. 15 ust. 1 us
 1)
 numer identyfikacji podatkowej (NIP) wnioskodawcy – jeżeli został nadany;
 2)
-określenie kategorii wielkości przedsiębiorstwa prowadzonego przez wnioskodawcę zgodnie z załącznikiem I do rozporządzenia Komisji (UE) 2022/2473 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 82, z późn. zm.) – jeżeli dotyczy;
+określenie kategorii wielkości przedsiębiorstwa prowadzonego przez wnioskodawcę zgodnie z załącznikiem I do rozporządzenia Komisji (UE) 2022/2473 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 82, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 167 z 30.06.2023, str. 1 oraz Dz. Urz. UE L 2023/2603 z 23.11.2023.) – jeżeli dotyczy;
 3)
 kwotę wnioskowanej pomocy;
 4)
@@ -222,8 +221,7 @@ Do wniosku o płatność dołącza się dokumenty niezbędne do potwierdzenia zr
 § 14.
 Pomoc na realizację operacji w ramach działania Wiedza o morzu udzielona podmiotom, o których mowa w § 4 pkt 4–7, stanowi pomoc de minimis i jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023).
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 130 z 16.05.2023 oraz Dz. Urz. UE L 2024/795 z 29.02.2024. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 167 z 30.06.2023, str. 1 oraz Dz. Urz. UE L 2023/2603 z 23.11.2023.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 130 z 16.05.2023 oraz Dz. Urz. UE L 2024/795 z 29.02.2024. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 167 z 30.06.2023, str. 1 oraz Dz. Urz. UE L 2023/2603 z 23.11.2023.
 
 ## Załącznik nr 1 — – Szczegółowe kryteria wyboru operacji
 
@@ -268,8 +266,7 @@ operacja przyczynia się do popularyzowania wiedzy z zakresu środowiska morskie
 a)
 kryterium niespełnione – 0 pkt,
 b)
-kryterium spełnione – 5 pkt.
-Minimalna liczba punktów – 3.
+kryterium spełnione – 5 pkt. Minimalna liczba punktów – 3.
 2.
 Działanie Nadzór morski i współpraca straży przybrzeżnych:
 1)
@@ -289,8 +286,7 @@ operacja przyczynia się do doskonalenia zawodowego z zakresu monitoringu, nadzo
 a)
 kryterium niespełnione – 0 pkt,
 b)
-kryterium spełnione – 5 pkt.
-Minimalna liczba punktów – 5.
+kryterium spełnione – 5 pkt. Minimalna liczba punktów – 5.
 
 ## Załącznik nr 2 — – Wykaz dokumentów niezbędnych do ustalenia spełnienia warunków przyznania pomocy dołączanych do wniosku o dofinansowanie
 

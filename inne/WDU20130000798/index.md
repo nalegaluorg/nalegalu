@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-17 |
 | Data wydania | 2013-07-10 |
-| Wejście w życie | 2013-07-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000798) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/798/text.pdf) |
 
@@ -132,5 +131,5 @@ Na statku przewożącym towary niebezpieczne, na którym nastąpi pożar, rozsyp
 2.
 W razie zdarzenia, o którym mowa w ust. 1, stanowiącego zagrożenie dla żeglugi innych statków, linii brzegowej lub środowiska morskiego kapitan statku lub jego armator w przypadku opuszczenia statku przez załogę jest obowiązany do niezwłocznego przesłania dyrektorowi urzędu morskiego właściwemu dla miejsca zdarzenia, wszelkimi dostępnymi środkami łączności, szczegółowych informacji o wypadku, dotyczących w szczególności: pozycji, miejsca i czasu wypadku, rodzaju awarii i rodzaju oczekiwanej pomocy.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 3 kwietnia 2003 r. w sprawie określenia zasad przewozu towarów niebezpiecznych statkami niepodlegającymi Konwencji SOLAS (Dz. U. Nr 89, poz. 832), które na podstawie art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368 oraz z 2012 r. poz. 1068) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 3 kwietnia 2003 r. w sprawie określenia zasad przewozu towarów niebezpiecznych statkami niepodlegającymi Konwencji SOLAS (Dz. U. Nr 89, poz. 832), które na podstawie art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368 oraz z 2012 r. poz. 1068) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

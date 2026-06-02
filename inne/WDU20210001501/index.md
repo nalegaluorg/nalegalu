@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowych i Ministra Cyfryzacjiz dnia 9 sierpnia 2021 r. w sprawie reklamacji za niewykonanie lub nienależyte wykonanie publicznej usługi rejestrowanego doręczenia elektronicznego oraz publicznej usługi hybrydowej
+# Rozporządzenie Ministra Aktywów Państwowych i Ministra Cyfryzacjiz dnia 9 sierpnia 2021 r. w sprawie reklamacji za niewykonanie lub nienależyte wykonanie publicznej usługi rejestrowanego doręczenia elektronicznego oraz publicznej usługi hybrydowej Minister Aktywów Państwowych kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-09 |
 | Data wydania | 2021-08-17 |
-| Wejście w życie | 2021-10-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1501/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 57 ust. 4 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72, 802, 1135 i 1163) zarządza się, co następuje:
+Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716). Na podstawie art. 57 ust. 4 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72, 802, 1135 i 1163) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -142,6 +141,5 @@ Operator wyznaczony przesyła wezwanie, o którym mowa w § 7 ust. 1, odpowiedź
 2.
 W przypadku gdy reklamujący, wnosząc reklamację, nie wskazał adresu poczty elektronicznej lub zadeklarował, że nie wyraża zgody na przesyłanie na ten adres korespondencji, o której mowa w ust. 1, operator wyznaczony przesyła tę korespondencję przesyłką poleconą.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 5 października 2021 r.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943). 2) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
+Rozporządzenie wchodzi w życie z dniem 5 października 2021 r. 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943). 2) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
 

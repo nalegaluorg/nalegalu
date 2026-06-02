@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i d Ziedzictwa Narodowegoz dnia 5 października 2022 r. w sprawie oceny pracy nauczycieli szkół artystycznych
+# Rozporządzenie Ministra Kultury i d Ziedzictwa Narodowegoz dnia 5 października 2022 r. w sprawie oceny pracy nauczycieli szkół artystycznych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1951).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-05 |
 | Data wydania | 2022-10-11 |
-| Wejście w życie | 2022-10-12 |
 | Ostatnia zmiana | 2026-04-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2076/text.pdf) |
 
@@ -130,8 +129,7 @@ organu prowadzącego szkołę artystyczną,
 3)
 rady szkoły,
 4)
-rady rodziców
-dyrektor szkoły artystycznej niezwłocznie powiadamia nauczyciela, w formie pisemnej, o rozpoczęciu dokonywania oceny jego pracy.
+rady rodziców – dyrektor szkoły artystycznej niezwłocznie powiadamia nauczyciela, w formie pisemnej, o rozpoczęciu dokonywania oceny jego pracy.
 2.
 W powiadomieniu, o którym mowa w ust. 1, dyrektor szkoły artystycznej wskazuje jedno kryterium oceny pracy zgodnie z § 2 ust. 5.
 3.
@@ -261,6 +259,5 @@ Przepisy § 7 ust. 4–7 stosuje się odpowiednio.
 § 13.
 Do nauczyciela, któremu czasowo powierzono pełnienie obowiązków dyrektora szkoły artystycznej, oraz nauczyciela pełniącego w zastępstwie obowiązki dyrektora szkoły artystycznej przez okres co najmniej 6 miesięcy przepisy § 9–12 stosuje się odpowiednio.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1951). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 3 października 2019 r. w sprawie trybu dokonywania oceny pracy nauczycieli szkół artystycznych, szczegółowego zakresu informacji zawartych w karcie oceny pracy, składu i sposobu powoływania zespołu oceniającego oraz trybu postępowania odwoławczego (Dz. U. poz. 1906), które utraciło moc z dniem 1 września 2022 r. na podstawie art. 1 pkt 2 lit. I ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1730).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 3 października 2019 r. w sprawie trybu dokonywania oceny pracy nauczycieli szkół artystycznych, szczegółowego zakresu informacji zawartych w karcie oceny pracy, składu i sposobu powoływania zespołu oceniającego oraz trybu postępowania odwoławczego (Dz. U. poz. 1906), które utraciło moc z dniem 1 września 2022 r. na podstawie art. 1 pkt 2 lit. I ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1730). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1951). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 3 października 2019 r. w sprawie trybu dokonywania oceny pracy nauczycieli szkół artystycznych, szczegółowego zakresu informacji zawartych w karcie oceny pracy, składu i sposobu powoływania zespołu oceniającego oraz trybu postępowania odwoławczego (Dz. U. poz. 1906), które utraciło moc z dniem 1 września 2022 r. na podstawie art. 1 pkt 2 lit. I ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1730).
 

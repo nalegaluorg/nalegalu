@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych
+# Ustawa z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych Niniejszą ustawą zmienia się ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,26 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-08-02 |
-| Wejście w życie | 2023-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1501/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Przepisy ogólne
+Postępowanie dotyczące przygotowania i realizacji inwestycji
+Postępowanie administracyjne oraz sądowoadministracyjne przy realizacji inwestycji
+Inwestycje towarzyszące
+Przepisy zmieniające, epizodyczne, przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Postępowanie dotyczące przygotowania i realizacji inwestycji
+
+#### Rozdział 3 – Postępowanie administracyjne oraz sądowoadministracyjne przy realizacji inwestycji
+
+#### Rozdział 4 – Inwestycje towarzyszące
+
+#### Rozdział 5 – Przepisy zmieniające, epizodyczne, przejściowe i końcowe
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady przygotowania i realizacji inwestycji w zakresie budowy, przebudowy i utrzymania Krajowego Centrum Przetwarzania Danych oraz inwestycji towarzyszących.
 
@@ -48,7 +63,7 @@ source: "eli-html"
 
 **Art. 3.** Inwestycje w zakresie Krajowego Centrum Przetwarzania Danych oraz inwestycje towarzyszące są celami publicznymi w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-#### Rozdział 2 Postępowanie dotyczące przygotowania i realizacji inwestycji
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -272,7 +287,7 @@ source: "eli-html"
 7. W przypadku gdy po doręczeniu zawiadomienia, o którym mowa w ust. 1, nastąpi:
 
 - **1)** zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych,
-- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego.
+- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych – nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego.
 
 8. Niedokonanie zgłoszenia zgodnie z ust. 7 oraz prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
 
@@ -372,7 +387,7 @@ source: "eli-html"
 
 2. Przepisu ust. 1 nie stosuje się, jeżeli:
 
-- **1)** nabywcą nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych jest: jednostka samorządu terytorialnego, Skarb Państwa, spółka celowa, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, lub spółka, o której mowa w art. 15 ust. 1 tej ustawy, spółka prawa handlowego: – której wyłącznym udziałowcem albo akcjonariuszem jest Skarb Państwa, będąca operatorem systemu przesyłowego albo posiadająca koncesję na przesyłanie paliw ciekłych, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.), – która jest operatorem systemu dystrybucyjnego gazowego w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w przypadku nabycia nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych na cele związane z budową systemu dystrybucyjnego gazowego, spółka kapitałowa lub grupa kapitałowa w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120 i 295) prowadzące działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, których mienie zostało ujawnione w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122), w przypadku nabycia nieruchomości na cele związane z budową mienia określonego w art. 1 ust. 2 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. U. z 2020 r. poz. 2173), parki narodowe, w przypadku nabycia nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych na cele związane z ochroną przyrody, podmiot, który skorzystał z prawa pierwokupu na podstawie przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2022 r. poz. 2569 oraz z 2023 r. poz. 326, 412 i 595), osoba bliska zbywcy;
+- **1)** nabywcą nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych jest: jednostka samorządu terytorialnego, Skarb Państwa, spółka celowa, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, lub spółka, o której mowa w art. 15 ust. 1 tej ustawy, spółka prawa handlowego: – której wyłącznym udziałowcem albo akcjonariuszem jest Skarb Państwa, będąca operatorem systemu przesyłowego albo posiadająca koncesję na przesyłanie paliw ciekłych, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295.), – która jest operatorem systemu dystrybucyjnego gazowego w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w przypadku nabycia nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych na cele związane z budową systemu dystrybucyjnego gazowego, spółka kapitałowa lub grupa kapitałowa w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120 i 295) prowadzące działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, których mienie zostało ujawnione w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122), w przypadku nabycia nieruchomości na cele związane z budową mienia określonego w art. 1 ust. 2 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. U. z 2020 r. poz. 2173), parki narodowe, w przypadku nabycia nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych na cele związane z ochroną przyrody, podmiot, który skorzystał z prawa pierwokupu na podstawie przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2022 r. poz. 2569 oraz z 2023 r. poz. 326, 412 i 595), osoba bliska zbywcy;
     - **a)**
     - **b)**
     - **c)**
@@ -696,7 +711,7 @@ source: "eli-html"
 - **2)** właściwego zarządcy infrastruktury kolejowej lub innego właściwego podmiotu zarządzającego obszarem kolejowym – w przypadku gruntów objętych obszarem kolejowym,
 - **3)** właściwego zarządzającego lotniskiem – w przypadku nieruchomości zajętych pod lotniska użytku publicznego lub lotnicze urządzenia naziemne zarządzającego lotniskiem użytku publicznego,
 - **4)** właściwego zarządcy terenów wojskowych – w przypadku gruntów stanowiących tereny zamknięte niezbędne dla obronności państwa, ustalone przez Ministra Obrony Narodowej na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, oraz ich stref ochronnych, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym,
-- **5)** Prezesa Polskiej Agencji Żeglugi Powietrznej – w przypadku nieruchomości zajętych pod urządzenia i obiekty służące do obsługi ruchu lotniczego przez Polską Agencję Żeglugi Powietrznej i uzgodnić z nimi przewidywany sposób, zakres i terminy korzystania z nieruchomości.
+- **5)** Prezesa Polskiej Agencji Żeglugi Powietrznej – w przypadku nieruchomości zajętych pod urządzenia i obiekty służące do obsługi ruchu lotniczego przez Polską Agencję Żeglugi Powietrznej – i uzgodnić z nimi przewidywany sposób, zakres i terminy korzystania z nieruchomości.
 
 4. W przypadku nieuzyskania zgody, o której mowa w ust. 2 albo ust. 3, w terminie 30 dni od dnia otrzymania odpowiednio przez właściciela, użytkownika wieczystego nieruchomości, właściwego zarządcę drogi, właściwego zarządcę infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym, właściwego zarządcę lotniskiem, właściwego zarządcę terenów wojskowych lub Prezesa Polskiej Agencji Żeglugi Powietrznej wystąpienia inwestora o taką zgodę właściwy wojewoda wydaje decyzję o zezwoleniu, o której mowa w ust. 1, w terminie 30 dni od dnia złożenia wniosku.
 
@@ -796,7 +811,7 @@ source: "eli-html"
 
 2. Do inwestycji w zakresie Krajowego Centrum Przetwarzania Danych nie stosuje się art. 139 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581 oraz z 2023 r. poz. 1394).
 
-#### Rozdział 3 Postępowanie administracyjne oraz sądowoadministracyjne przy realizacji inwestycji
+#### Rozdział 3
 
 **Art. 45.**
 
@@ -824,7 +839,7 @@ source: "eli-html"
 
 12. O każdym przypadku nierozpatrzenia w terminie odwołania od decyzji, o której mowa w art. 37 ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia strony postępowania, ministra właściwego do spraw środowiska oraz ministra właściwego do spraw informatyzacji, podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
 
-13. Odwołanie od decyzji, o której mowa w art. 41 ust. 5, przysługuje do Sądu Okręgowego w Warszawie – Sądu Ochrony Konkurencji i Konsumentów. Postępowanie toczy się zgodnie z przepisami części pierwszej księgi pierwszej tytułu VII działu IVc ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.).
+13. Odwołanie od decyzji, o której mowa w art. 41 ust. 5, przysługuje do Sądu Okręgowego w Warszawie – Sądu Ochrony Konkurencji i Konsumentów. Postępowanie toczy się zgodnie z przepisami części pierwszej księgi pierwszej tytułu VII działu IVc ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803, 852 i 1429.).
 
 **Art. 46.**
 
@@ -885,7 +900,7 @@ source: "eli-html"
 
 6. Przepisy ust. 4 i 5 stosuje się odpowiednio do decyzji o pozwoleniu na budowę inwestycji w zakresie Krajowego Centrum Przetwarzania Danych oraz decyzji o środowiskowych uwarunkowaniach realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych.
 
-#### Rozdział 4 Inwestycje towarzyszące
+#### Rozdział 4
 
 **Art. 50.** Inwestycjami towarzyszącymi w zakresie Krajowego Centrum Przetwarzania Danych są inwestycje związane z funkcjonowaniem Krajowego Centrum Przetwarzania Danych, obejmujące:
 
@@ -902,7 +917,7 @@ source: "eli-html"
 
 **Art. 51.** Do inwestycji towarzyszących stosuje się odpowiednio przepisy art. 2 oraz rozdziałów 2 i 3.
 
-#### Rozdział 5 Przepisy zmieniające, epizodyczne, przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 52.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094 i 1113) wprowadza się następujące zmiany:
 
@@ -971,5 +986,5 @@ source: "eli-html"
 
 2. Przepis art. 53 traci moc z dniem 1 stycznia 2026 r.
 
-**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803, 852 i 1429.
 

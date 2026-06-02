@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 28 czerwca 2019 r. zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę pracowników podmiotów leczniczych działających w formie jednostki budżetowej
+# Rozporządzenie Ministra Zdrowiaz dnia 28 czerwca 2019 r. zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę pracowników podmiotów leczniczych działających w formie jednostki budżetowej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-28 |
 | Data wydania | 2019-07-17 |
-| Wejście w życie | 2019-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001325) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1325/text.pdf) |
 
@@ -35,8 +34,7 @@ W rozporządzeniu Ministra Zdrowia z dnia 17 lipca 2014 r. w sprawie warunków w
 § 2.
 Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku do niniejszego rozporządzenia mają zastosowanie do wynagrodzeń należnych od dnia 1 stycznia 2019 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 Załącznik – Tabela miesięcznych stawek wynagrodzenia zasadniczego
 Kategoria zaszeregowania Kwota w zł I 1460–2540 II 1470–2560 III 1480–2580 IV 1490–2610 V 1500–2630 VI 1510–2660 VII 1520–2690 VIII 1550–2800 IX 1560–2950 X 1570–3110 XI 1580–3260 XII 1590–3410 XIII 1600–3580 XIV 1610–3990 XV 1630–4400 XVI 1650–4800 XVII 1740–5000 XVIII 1860–5400 XIX 2020–6070 XX 2170–6750 XXI 2330–6870 XXII 2520–7320
 

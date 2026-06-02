@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 27 lipca 2018 r. w sprawie sposobu wyznaczania obszarów i granic aglomeracji
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 27 lipca 2018 r. w sprawie sposobu wyznaczania obszarów i granic aglomeracji Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-27 |
 | Data wydania | 2018-08-20 |
-| Wejście w życie | 2018-08-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1586/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 95 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710 i 1479) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 91/271/EWG z dnia 21 maja 1991 r. dotyczącą oczyszczania ścieków komunalnych (Dz. Urz. WE L 135 z 30.05.1991, str. 40, – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 26, Dz. Urz. WE L 67 z 07.03.1998, str. 29 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 27, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 311 z 21.11.2008, str. 1, z późn. zm. i Dz. Urz. UE L 353 z 28.12.2013, str. 8). Na podstawie art. 95 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710 i 1479) zarządza się, co następuje:
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -84,8 +83,7 @@ stref ochronnych ujęć wody obejmujących tereny ochrony bezpośredniej i teren
 3)
 obszarów ochronnych zbiorników wód śródlądowych,
 4)
-objętym przynajmniej jedną formą ochrony przyrody, o której mowa w art. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 142, 10 i 650), lub na terenie obszaru mającego znaczenie dla Wspólnoty znajdującego się na liście, o której mowa w art. 27 ust. 1 tej ustawy
-z tym że wskaźnik koncentracji nie może być mniejszy niż 90 stałych mieszkańców aglomeracji i osób czasowo przebywających w aglomeracji na 1 km planowanej do budowy sieci kanalizacyjnej.
+objętym przynajmniej jedną formą ochrony przyrody, o której mowa w art. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 142, 10 i 650), lub na terenie obszaru mającego znaczenie dla Wspólnoty znajdującego się na liście, o której mowa w art. 27 ust. 1 tej ustawy – z tym że wskaźnik koncentracji nie może być mniejszy niż 90 stałych mieszkańców aglomeracji i osób czasowo przebywających w aglomeracji na 1 km planowanej do budowy sieci kanalizacyjnej.
 § 4.
 1.
 Projekt uchwały wyznaczającej aglomerację zawiera:
@@ -130,6 +128,5 @@ Obszar i granice aglomeracji mogą być wyznaczone z wykorzystaniem mapy zasadni
 3.
 W przypadku konieczności aktualizacji RLM aglomeracji uzasadnionej zmianą koncentracji zaludnienia lub zmianą wielkości ładunku pochodzącego z przemysłu, przy braku wpływu tych zmian na obszar i granice aglomeracji oraz zakres planowanych inwestycji, projekt uchwały wyznaczającej aglomerację obejmuje wyłącznie informacje dotyczące projektowanej zmiany.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 91/271/EWG z dnia 21 maja 1991 r. dotyczącą oczyszczania ścieków komunalnych (Dz. Urz. WE L 135 z 30.05.1991, str. 40, – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 26, Dz. Urz. WE L 67 z 07.03.1998, str. 29 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 27, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 311 z 21.11.2008, str. 1, z późn. zm. i Dz. Urz. UE L 353 z 28.12.2013, str. 8). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 22 lipca 2014 r. w sprawie sposobu wyznaczania obszaru i granic aglomeracji (Dz. U. poz. 995), które utraciło moc z dniem 1 stycznia 2018 r. w związku z wejściem w życie ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710 i 1479).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 22 lipca 2014 r. w sprawie sposobu wyznaczania obszaru i granic aglomeracji (Dz. U. poz. 995), które utraciło moc z dniem 1 stycznia 2018 r. w związku z wejściem w życie ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710 i 1479). 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 91/271/EWG z dnia 21 maja 1991 r. dotyczącą oczyszczania ścieków komunalnych (Dz. Urz. WE L 135 z 30.05.1991, str. 40, – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 26, Dz. Urz. WE L 67 z 07.03.1998, str. 29 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 27, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 311 z 21.11.2008, str. 1, z późn. zm. i Dz. Urz. UE L 353 z 28.12.2013, str. 8). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 22 lipca 2014 r. w sprawie sposobu wyznaczania obszaru i granic aglomeracji (Dz. U. poz. 995), które utraciło moc z dniem 1 stycznia 2018 r. w związku z wejściem w życie ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710 i 1479).
 

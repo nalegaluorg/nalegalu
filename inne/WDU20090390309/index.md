@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-02-12 |
 | Data wydania | 2009-03-13 |
-| Wejście w życie | 2009-04-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090390309) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/309/text.pdf) |
 
@@ -41,7 +40,7 @@ source: "eli-html"
 - **2)** remoncie lub przebudowie budynku będącego własnością gminy i przeznaczonego na pobyt ludzi albo części takiego budynku,
 - **3)** zmianie sposobu użytkowania budynku będącego własnością gminy albo części takiego budynku, wymagającej dokonania remontu lub przebudowy,
 - **4)** kupnie lokali mieszkalnych lub budynku mieszkalnego,
-- **5)** kupnie lokali mieszkalnych lub budynku mieszkalnego, połączonym z remontem tych lokali lub budynku w wyniku którego powstaną lokale socjalne, z zastrzeżeniem art. 6 ust. 1 oraz art. 6a.
+- **5)** kupnie lokali mieszkalnych lub budynku mieszkalnego, połączonym z remontem tych lokali lub budynku – w wyniku którego powstaną lokale socjalne, z zastrzeżeniem art. 6 ust. 1 oraz art. 6a.
 
 2. Finansowego wsparcia na kupno lokali mieszkalnych oraz na kupno lokali mieszkalnych połączonych z ich remontem udziela się, jeżeli liczba utworzonych w ramach przedsięwzięcia lokali socjalnych oraz lokali, o których mowa w art. 6 ust. 1, nie przekracza połowy liczby wszystkich lokali mieszkalnych znajdujących się w budynku. ” ;
 
@@ -51,7 +50,7 @@ source: "eli-html"
 
 - **1)** budowie, w tym rozbudowie lub nadbudowie budynku na nieruchomości stanowiącej własność albo będącej w użytkowaniu wieczystym gminy, związku międzygminnego albo organizacji pożytku publicznego,
 - **2)** remoncie lub przebudowie budynku, przeznaczonego na pobyt ludzi, będącego własnością gminy, związku międzygminnego albo organizacji pożytku publicznego, albo części takiego budynku,
-- **3)** zmianie sposobu użytkowania budynku będącego własnością gminy, związku międzygminnego albo organizacji pożytku publicznego, albo części takiego budynku, wymagającej dokonania remontu lub przebudowy w wyniku którego powstaną noclegownie lub domy dla bezdomnych lub nastąpi zwiększenie powierzchni użytkowej pomieszczeń mieszkalnych, w tym sypialni, w istniejącej noclegowni lub domu dla bezdomnych. ” ;
+- **3)** zmianie sposobu użytkowania budynku będącego własnością gminy, związku międzygminnego albo organizacji pożytku publicznego, albo części takiego budynku, wymagającej dokonania remontu lub przebudowy – w wyniku którego powstaną noclegownie lub domy dla bezdomnych lub nastąpi zwiększenie powierzchni użytkowej pomieszczeń mieszkalnych, w tym sypialni, w istniejącej noclegowni lub domu dla bezdomnych. ” ;
 - **4)** w art. 5: w ust. 1 pkt 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -137,7 +136,7 @@ source: "eli-html"
 
 2. Przez rozpoczęcie realizacji przedsięwzięcia rozumie się:
 
-- **1)** rozpoczęcie robót budowlanych – w przypadkach, o których mowa w art. 3 ust. 1 pkt 1–3 oraz art. 4; w przypadku przedsięwzięć wymagających zawiadomienia właściwego organu o zamierzonym terminie rozpoczęcia robót budowlanych, zgodnie z art. 41 ust. 4 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.), za dzień rozpoczęcia robót budowlanych uważa się dzień określony w tym zawiadomieniu, z wyłączeniem sytuacji, w której przedsięwzięcie stanowi realizację kolejnego obiektu budowlanego lub etapu inwestycji wieloobiektowej, o rozpoczęciu której inwestor zawiadomił właściwy organ przed jej rozpoczęciem;
+- **1)** rozpoczęcie robót budowlanych – w przypadkach, o których mowa w art. 3 ust. 1 pkt 1–3 oraz art. 4; w przypadku przedsięwzięć wymagających zawiadomienia właściwego organu o zamierzonym terminie rozpoczęcia robót budowlanych, zgodnie z art. 41 ust. 4 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206.), za dzień rozpoczęcia robót budowlanych uważa się dzień określony w tym zawiadomieniu, z wyłączeniem sytuacji, w której przedsięwzięcie stanowi realizację kolejnego obiektu budowlanego lub etapu inwestycji wieloobiektowej, o rozpoczęciu której inwestor zawiadomił właściwy organ przed jej rozpoczęciem;
 - **2)** kupno lokali mieszkalnych objętych przedsięwzięciem lub kupno budynku mieszkalnego – w przypadkach, o których mowa w art. 3 ust. 1 pkt 4 i 5;
 - **3)** zawarcie umowy, o której mowa w art. 5 ust. 3 pkt 1 – w przypadku przedsięwzięć, o których mowa w art. 5 ust. 1.
 
@@ -183,7 +182,7 @@ source: "eli-html"
 
 8. Dopuszcza się w każdym czasie zmianę przeznaczenia noclegowni na dom dla bezdomnych oraz zmianę przeznaczenia domu dla bezdomnych na noclegownię. ” .
 
-**Art. 2.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.) art. 30a otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594, z 2004 r. Nr 146, poz. 1546, Nr 213, poz. 2157 i Nr 281, poz. 2783, z 2006 r. Nr 157, poz. 1119, Nr 220, poz. 1600 i Nr 251, poz. 1844 oraz z 2008 r. Nr 180, poz. 1109.) art. 30a otrzymuje brzmienie: „
 
 **Art. 30a.**
 
@@ -198,5 +197,5 @@ source: "eli-html"
 - **1)** prowadzenia w nim mieszkania chronionego, o którym mowa w przepisach o pomocy społecznej, lub
 - **2)** ulokowania w nim placówki opiekuńczo-wychowawczej dla nie więcej niż czternaściorga dzieci. ” . Do przedsięwzięć, na realizację których, zgodnie z art. 9 ustawy zmienianej w art. 1, został złożony wniosek o finansowe wsparcie przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe, z zastrzeżeniem art. 4. Przepis art. 21 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, ma zastosowanie także do lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych utworzonych lub będących w trakcie tworzenia przy wykorzystaniu finansowego wsparcia udzielonego na podstawie dotychczasowych przepisów.
 
-**Art. 5.** Przepisy wykonawcze wydane na podstawie art. 19 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 19 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 lipca 2009 r. Ustawa wchodzi w życie z dniem 1 kwietnia 2009 r.
+**Art. 5.** Przepisy wykonawcze wydane na podstawie art. 19 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 19 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 lipca 2009 r. Ustawa wchodzi w życie z dniem 1 kwietnia 2009 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 153, poz. 1271, Nr 216, poz. 1824 i Nr 240, poz. 2058, z 2003 r. Nr 65, poz. 594, z 2004 r. Nr 146, poz. 1546, Nr 213, poz. 2157 i Nr 281, poz. 2783, z 2006 r. Nr 157, poz. 1119, Nr 220, poz. 1600 i Nr 251, poz. 1844 oraz z 2008 r. Nr 180, poz. 1109.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 20 października 2015 r. w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w ośrodku medycznie wspomaganej prokreacji oraz w banku komórek rozrodczych i zarodków
+# Rozporządzenie Ministra Zdrowiaz dnia 20 października 2015 r. w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w ośrodku medycznie wspomaganej prokreacji oraz w banku komórek rozrodczych i zarodków Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia:
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-20 |
 | Data wydania | 2015-10-28 |
-| Wejście w życie | 2015-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1727/text.pdf) |
 
@@ -87,7 +86,7 @@ sposobu przekazywania informacji na temat świadczeń zdrowotnych związanych z 
 2)
 sposobu i zakresu przekazywania informacji na temat sposobu postępowania z komórkami rozrodczymi i zarodkami w procedurze medycznie wspomaganej prokreacji oraz sposobu ich przechowywania;
 3)
-sposobu przekazywania dawcy komórek rozrodczych oraz biorczyni informacji o zakresie i skutkach prawnych stosowania pobranych od dawcy komórek rozrodczych w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie albo zarodków utworzonych z tych komórek rozrodczych wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583, z późn. zm.), w tym sytuacji prawnej dziecka urodzonego w wyniku zastosowania procedury medycznie wspomaganej prokreacji;
+sposobu przekazywania dawcy komórek rozrodczych oraz biorczyni informacji o zakresie i skutkach prawnych stosowania pobranych od dawcy komórek rozrodczych w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie albo zarodków utworzonych z tych komórek rozrodczych wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1062, 1087, 1199 i 1274.), w tym sytuacji prawnej dziecka urodzonego w wyniku zastosowania procedury medycznie wspomaganej prokreacji;
 4)
 środków bezpieczeństwa prowadzących do ochrony danych dawcy komórek rozrodczych i dawców zarodka;
 5)
@@ -566,5 +565,8 @@ Sprawozdanie z przeprowadzonego audytu jest przekazywane osobie kierującej ośr
 4.
 Osoba kierująca ośrodkiem medycznie wspomaganej prokreacji albo bankiem komórek rozrodczych i zarodków może w każdej chwili zlecić przeprowadzenie audytu poza planem, o którym mowa w ust. 2, wskazując na zakres i cel jego przeprowadzenia.
 § 25.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia:
+1) dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291);
+2) dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40, z późn. zm.);
+3) dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1062, 1087, 1199 i 1274.
 

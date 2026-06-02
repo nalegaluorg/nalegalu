@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw
+# Ustawa z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 30 maja 1996 r. o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 21 listopada 2008 r. o pracownikach samorządowych oraz ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-17 |
 | Data wydania | 2021-10-08 |
-| Wejście w życie | 2021-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1834/text.pdf) |
 
@@ -183,5 +182,5 @@ source: "eli-html"
 
 **Art. 18.** Przepisy ustaw zmienianych w art. 1, art. 2, art. 4–6, art. 11 i art. 12 w brzmieniu nadanym niniejszą ustawą mają zastosowanie do ustalania wysokości wynagrodzeń, diet, i uposażeń należnych od dnia 1 sierpnia 2021 r.
 
-**Art. 19.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+**Art. 19.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 30 maja 1996 r. o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 21 listopada 2008 r. o pracownikach samorządowych oraz ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 

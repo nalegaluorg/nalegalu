@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 lutego 2019 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
+# Ustawa z dnia 22 lutego 2019 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/40/UE z dnia 3 kwietnia 2014 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich w sprawie produkcji, prezentowania i sprzedaży wyrobów tytoniowych i powiązanych wyrobów oraz uchylającej dyrektywę 2001/37/WE (Dz. Urz. UE L 127 z 29.04.2014, str. 1, Dz. Urz. UE L 360 z 17.12.2014, str. 22 oraz Dz. Urz. UE L 150 z 17.06.2015, str. 24).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-22 |
 | Data wydania | 2019-04-04 |
-| Wejście w życie | 2019-04-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000638) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/638/text.pdf) |
 
@@ -37,12 +36,12 @@ source: "eli-html"
 - **1)** przekazuje Komisji Europejskiej informacje, o których mowa w art. 7c ust. 6, art. 11a ust. 3 i 4 oraz art. 11f ust. 2,
 - **2)** przedstawia Komisji Europejskiej wnioski, o których mowa w art. 7d ust. 5 i 9,
 - **3)** zasięga opinii niezależnego panelu doradczego na podstawie art. 7d ust. 8,
-- **4)** udostępnia Komisji Europejskiej oraz organom innych państw członkowskich Unii Europejskiej informacje, o których mowa w art. 8ab ust. 2 oraz art. 11d ust. 3 także w postaci elektronicznej, bez konieczności stosowania kwalifikowanego podpisu elektronicznego albo podpisu zaufanego.
+- **4)** udostępnia Komisji Europejskiej oraz organom innych państw członkowskich Unii Europejskiej informacje, o których mowa w art. 8ab ust. 2 oraz art. 11d ust. 3 – także w postaci elektronicznej, bez konieczności stosowania kwalifikowanego podpisu elektronicznego albo podpisu zaufanego.
 
 2. Doręczenia producentowi lub importerowi:
 
 - **1)** pism w postępowaniach administracyjnych, o których mowa w art. 8a ust. 5b, art. 11a ust. 1, art. 11b ust. 11, art. 11f ust. 1 i 3 oraz art. 15a ust. 2,
-- **2)** wezwań, o których mowa w art. 3a ust. 5, art. 7d ust. 3 i 4, art. 8aa ust. 6 i 8, art. 8ab ust. 5, art. 10 ust. 7 pkt 1 i ust. 8, art. 11b ust. 7 i 9 oraz art. 11e ust. 5 dokonuje się na adres udostępniony przez producenta lub importera w rejestrze ustanowionym na podstawie decyzji wykonawczej Komisji (UE) 2015/2183 z dnia 24 listopada 2015 r. ustanawiającej wspólny format zgłaszania papierosów elektronicznych i pojemników zapasowych (Dz. Urz. UE L 309 z 26.11.2015, str. 15), zwanej dalej „decyzją wykonawczą Komisji (UE) 2015/2183”, albo decyzji wykonawczej Komisji (UE) 2015/2186 z dnia 25 listopada 2015 r. ustanawiającej format przekazywania i udostępniania informacji o wyrobach tytoniowych (Dz. Urz. UE L 312 z 27.11.2015, str. 5), zwanej dalej „decyzją wykonawczą Komisji (UE) 2015/2186”, chyba że producent lub importer udostępnił inny adres do doręczeń na terytorium Rzeczypospolitej Polskiej. Jeżeli ostatni udostępniony w rejestrze adres został wykreślony jako niezgodny z rzeczywistym stanem rzeczy i nie został udostępniony nowy adres, adres wykreślony uznaje się za adres udostępniony w rejestrze.
+- **2)** wezwań, o których mowa w art. 3a ust. 5, art. 7d ust. 3 i 4, art. 8aa ust. 6 i 8, art. 8ab ust. 5, art. 10 ust. 7 pkt 1 i ust. 8, art. 11b ust. 7 i 9 oraz art. 11e ust. 5 – dokonuje się na adres udostępniony przez producenta lub importera w rejestrze ustanowionym na podstawie decyzji wykonawczej Komisji (UE) 2015/2183 z dnia 24 listopada 2015 r. ustanawiającej wspólny format zgłaszania papierosów elektronicznych i pojemników zapasowych (Dz. Urz. UE L 309 z 26.11.2015, str. 15), zwanej dalej „decyzją wykonawczą Komisji (UE) 2015/2183”, albo decyzji wykonawczej Komisji (UE) 2015/2186 z dnia 25 listopada 2015 r. ustanawiającej format przekazywania i udostępniania informacji o wyrobach tytoniowych (Dz. Urz. UE L 312 z 27.11.2015, str. 5), zwanej dalej „decyzją wykonawczą Komisji (UE) 2015/2186”, chyba że producent lub importer udostępnił inny adres do doręczeń na terytorium Rzeczypospolitej Polskiej. Jeżeli ostatni udostępniony w rejestrze adres został wykreślony jako niezgodny z rzeczywistym stanem rzeczy i nie został udostępniony nowy adres, adres wykreślony uznaje się za adres udostępniony w rejestrze.
 
 3. W postępowaniach administracyjnych, o których mowa w ust. 2 pkt 1, składanie przez stronę wyjaśnień może być prowadzone w języku angielskim i może być przekazywane w postaci elektronicznej, bez konieczności stosowania kwalifikowanego podpisu elektronicznego albo podpisu zaufanego.
 
@@ -61,7 +60,7 @@ source: "eli-html"
 5b. W przypadku gdy dokumentacja, o której mowa w ust. 5a, w zakresie danego rodzaju lub marki wyrobu tytoniowego:
 
 - **1)** nie odpowiada wymogom określonym w ust. 1, 4 i 5 lub
-- **2)** zawiera dane wskazujące na niezgodność wyrobu tytoniowego z ustawą lub aktami delegowanymi Inspektor stwierdza to naruszenie, w drodze decyzji.
+- **2)** zawiera dane wskazujące na niezgodność wyrobu tytoniowego z ustawą lub aktami delegowanymi – Inspektor stwierdza to naruszenie, w drodze decyzji.
 
 5c. Inspektor podaje do publicznej wiadomości informację o wydaniu decyzji, o której mowa w ust. 5b, przez ogłoszenie w Biuletynie Informacji Publicznej na swojej stronie podmiotowej rodzaju lub marki wyrobu tytoniowego oraz nazwy producenta lub importera. ” ;
 
@@ -135,7 +134,7 @@ source: "eli-html"
 
 1. Producent lub importer jest obowiązany do zapewnienia zabezpieczenia opakowań jednostkowych wyrobów tytoniowych odpornym na ingerencję zabezpieczeniem złożonym z widocznego i niewidocznego elementu, zgodnie z przepisami decyzji wykonawczej Komisji (UE) 2018/576 z dnia 15 grudnia 2017 r. w sprawie norm technicznych dotyczących zabezpieczeń umieszczanych na wyrobach tytoniowych (Dz. Urz. UE L 96 z 16.04.2018, str. 57), zwanej dalej „decyzją wykonawczą Komisji (UE) 2018/576”.
 
-2. Znak akcyzy, o którym mowa w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.), stanowi zabezpieczenie, o którym mowa w ust. 1. Nie dotyczy to sprzedawanych w wolnych obszarach celnych podróżnym udającym się do krajów trzecich opakowań jednostkowych wyrobów tytoniowych, na których są umieszczane zabezpieczenia, o których mowa w art. 3 decyzji wykonawczej Komisji (UE) 2018/576.
+2. Znak akcyzy, o którym mowa w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227, 2244, 2354 i 2538 oraz z 2019 r. poz. 534.), stanowi zabezpieczenie, o którym mowa w ust. 1. Nie dotyczy to sprzedawanych w wolnych obszarach celnych podróżnym udającym się do krajów trzecich opakowań jednostkowych wyrobów tytoniowych, na których są umieszczane zabezpieczenia, o których mowa w art. 3 decyzji wykonawczej Komisji (UE) 2018/576.
 
 3. Znak akcyzy jest nanoszony zgodnie z przepisami ustawy, o której mowa w ust. 2.
 
@@ -185,7 +184,7 @@ source: "eli-html"
 11. W przypadku gdy dokumentacja, o której mowa w ust. 10, w zakresie danego rodzaju lub marki papierosa elektronicznego lub pojemnika zapasowego:
 
 - **1)** nie odpowiada wymogom określonym w ust. 5 lub
-- **2)** zawiera dane wskazujące na niezgodność papierosa elektronicznego lub pojemnika zapasowego z ustawą lub aktami delegowanymi Inspektor stwierdza to naruszenie, w drodze decyzji.
+- **2)** zawiera dane wskazujące na niezgodność papierosa elektronicznego lub pojemnika zapasowego z ustawą lub aktami delegowanymi – Inspektor stwierdza to naruszenie, w drodze decyzji.
 
 12. Inspektor podaje do publicznej wiadomości informację o wydaniu decyzji, o której mowa w ust. 11, przez ogłoszenie w Biuletynie Informacji Publicznej na swojej stronie podmiotowej rodzaju lub marki papierosa elektronicznego lub pojemnika zapasowego oraz nazwy producenta lub importera.
 
@@ -256,5 +255,5 @@ source: "eli-html"
 - **1)** papierosów i tytoniu do samodzielnego skręcania papierosów – od dnia 20 maja 2019 r.;
 - **2)** wyrobów tytoniowych innych niż papierosy i tytoń do samodzielnego skręcania papierosów – od dnia 20 maja 2024 r.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8 w zakresie art. 10aa ust. 1 i ust. 12 pkt 1, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8 w zakresie art. 10aa ust. 1 i ust. 12 pkt 1, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/40/UE z dnia 3 kwietnia 2014 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich w sprawie produkcji, prezentowania i sprzedaży wyrobów tytoniowych i powiązanych wyrobów oraz uchylającej dyrektywę 2001/37/WE (Dz. Urz. UE L 127 z 29.04.2014, str. 1, Dz. Urz. UE L 360 z 17.12.2014, str. 22 oraz Dz. Urz. UE L 150 z 17.06.2015, str. 24). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227, 2244, 2354 i 2538 oraz z 2019 r. poz. 534.
 

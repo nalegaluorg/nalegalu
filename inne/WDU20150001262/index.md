@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-19 |
 | Data wydania | 2015-08-31 |
-| Wejście w życie | 2015-09-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1262/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki 
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia stomatologicznego (Dz. U. poz. 1462) wprowadza się następujące zmiany:
 1)
-w § 2 w pkt 4 dodaje się lit. e w brzmieniu:
-„
+w § 2 w pkt 4 dodaje się lit. e w brzmieniu: „
 e)
-pielęgniarka.
-” ;
+pielęgniarka. ” ;
 2)
 w załączniku nr 1 w tabeli nr 1 w lp. 44 kolumna nr 4 „Warunki realizacji świadczeń” otrzymuje brzmienie: „ Świadczenie dotyczy bruzd zębów szóstych i jest udzielane 1 raz do ukończenia 8. roku życia. ” ;
 3)
@@ -51,8 +48,7 @@ w załączniku nr 4 w tabeli nr 1 w lp. 47 kolumna nr 4 „Warunki realizacji ś
 6)
 w załączniku nr 5 w tabeli nr 2:
 a)
-w pkt 1.1 kolumna „Personel” otrzymuje brzmienie:
-„
+w pkt 1.1 kolumna „Personel” otrzymuje brzmienie: „
 1)
 lekarz dentysta specjalista w dziedzinie chirurgii stomatologicznej lub chirurgii szczękowo-twarzowej, lub chirurgii szczękowej, lub periodontologii, lub paradontologii lub
 2)
@@ -60,14 +56,11 @@ lekarz dentysta posiadający specjalizację I stopnia w dziedzinie chirurgii sto
 3)
 lekarz dentysta w trakcie specjalizacji w dziedzinie chirurgii stomatologicznej lub chirurgii szczękowo-twarzowej, lub periodontologii, lub
 4)
-lekarz specjalista w dziedzinie chirurgii szczękowo-twarzowej lub chirurgii szczękowej
-” ,
+lekarz specjalista w dziedzinie chirurgii szczękowo-twarzowej lub chirurgii szczękowej ” ,
 b)
-w pkt 1.2 w kolumnie „Personel” pkt 2 otrzymuje brzmienie:
-„
+w pkt 1.2 w kolumnie „Personel” pkt 2 otrzymuje brzmienie: „
 2)
-pielęgniarka posiadająca 2-letnie doświadczenie zawodowe lub pielęgniarka, która ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa operacyjnego lub pielęgniarstwa chirurgicznego, lub pielęgniarka w trakcie kursu kwalifikacyjnego w dziedzinie pielęgniarstwa operacyjnego lub chirurgicznego, lub pielęgniarka, która posiada tytuł specjalisty w dziedzinie pielęgniarstwa operacyjnego lub pielęgniarstwa chirurgicznego, lub pielęgniarka w trakcie szkolenia specjalizacyjnego w dziedzinie pielęgniarstwa operacyjnego lub pielęgniarstwa chirurgicznego
-” ;
+pielęgniarka posiadająca 2-letnie doświadczenie zawodowe lub pielęgniarka, która ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa operacyjnego lub pielęgniarstwa chirurgicznego, lub pielęgniarka w trakcie kursu kwalifikacyjnego w dziedzinie pielęgniarstwa operacyjnego lub chirurgicznego, lub pielęgniarka, która posiada tytuł specjalisty w dziedzinie pielęgniarstwa operacyjnego lub pielęgniarstwa chirurgicznego, lub pielęgniarka w trakcie szkolenia specjalizacyjnego w dziedzinie pielęgniarstwa operacyjnego lub pielęgniarstwa chirurgicznego ” ;
 7)
 w załączniku nr 6 w tabeli nr 1 w lp. 17 kolumna nr 4 „Warunki realizacji świadczeń” otrzymuje brzmienie: „ Świadczenie dotyczy naprawy ruchomego aparatu ortodontycznego wykonanego w ramach świadczeń gwarantowanych do ukończenia 13. roku życia. Świadczenie jest udzielane nie częściej niż 12 razy w roku kalendarzowym (nie przysługuje naprawa aparatu ortodontycznego uszkodzonego z powodu nieprawidłowego użytkowania). ” .
 § 2.

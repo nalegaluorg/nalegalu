@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 12 kwietnia 2019 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek regulowany oraz platforma aukcyjna
+# Rozporządzenie Ministra Finansówz dnia 12 kwietnia 2019 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek regulowany oraz platforma aukcyjna Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-12 |
 | Data wydania | 2019-04-18 |
-| Wejście w życie | 2019-04-22 |
 | Ostatnia zmiana | 2025-07-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000726) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/726/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe warunki, jakie musi spełniać rynek regulowany Rozdział 3 – Szczegółowe warunki, jakie musi spełniać platforma aukcyjna Rozdział 4 – Przepis przejściowy i końcowy
 Treść rozporządzenia
-Na podstawie art. 17 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116 oraz Dz. Urz. UE L 231 z 14.09.2018, str. 39). Na podstawie art. 17 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -37,6 +37,7 @@ członku – rozumie się przez to podmiot dopuszczony do działalności na dany
 instytucji kredytowej – rozumie się przez to instytucję kredytową w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354 oraz z 2019 r. poz. 326);
 3)
 Komisji – rozumie się przez to Komisję Nadzoru Finansowego.
+Szczegółowe warunki, jakie musi spełniać rynek regulowany
 § 2.
 Spółka prowadząca rynek regulowany zapewnia warunki niezbędne do prowadzenia sprawnego i bezpiecznego obrotu na tym rynku, w tym do skutecznego i niezwłocznego wykonywania zleceń składanych na tym rynku.
 § 3.
@@ -88,7 +89,7 @@ O istotnych zdarzeniach mogących wpłynąć na ryzyko operacyjne lub powodując
 Przepisów ust. 2–4 nie stosuje się do spółki prowadzącej rynek regulowany, do której ma zastosowanie rozporządzenie delegowane Komisji (UE) nr 2017/584 z dnia 14 lipca 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do regulacyjnych standardów technicznych określających wymogi organizacyjne w zakresie systemów obrotu (Dz. Urz. UE L 87 z 31.03.2017, str. 350).
 § 5.
 1.
-Spółka prowadząca rynek regulowany zapewnia zabezpieczenie udostępnianych w formie przekazu elektronicznego informacji, o których mowa w art. 3, art. 6, art. 8 oraz art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm.), także w przypadku odroczenia ich publikacji zgodnie z art. 7 i art. 11 tego rozporządzenia, w sposób uniemożliwiający dokonanie w nich zmian przez osoby nieuprawnione.
+Spółka prowadząca rynek regulowany zapewnia zabezpieczenie udostępnianych w formie przekazu elektronicznego informacji, o których mowa w art. 3, art. 6, art. 8 oraz art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4 oraz Dz. Urz. UE L 175 z 30.06.2016, str. 1.), także w przypadku odroczenia ich publikacji zgodnie z art. 7 i art. 11 tego rozporządzenia, w sposób uniemożliwiający dokonanie w nich zmian przez osoby nieuprawnione.
 2.
 W przypadku stwierdzenia wprowadzenia przez osoby nieuprawnione zmian do udostępnionych w formie przekazu elektronicznego informacji, o których mowa w art. 3, art. 6, art. 8 oraz art. 10 rozporządzenia, o którym mowa w ust. 1, także w przypadku odroczenia ich publikacji zgodnie z art. 7 i art. 11 tego rozporządzenia, spółka prowadząca rynek regulowany zapewnia dokonanie ich korekty z jednoczesnym wskazaniem, kiedy taka zmiana została wykryta, które informacje zostały zmienione oraz kiedy została zrobiona korekta.
 § 6.
@@ -148,7 +149,7 @@ Spółka prowadząca rynek regulowany, która świadczy na rzecz członków rynk
 1.
 Spółka prowadząca rynek regulowany organizuje i sprawuje, w sposób ciągły i adekwatny do ryzyka, nadzór nad przestrzeganiem przez członków tego rynku regulowanego wdrożonych przez tę spółkę regulacji dotyczących jego funkcjonowania, w tym dokonywanego na nim obrotu.
 2.
-Spółka prowadząca rynek regulowany monitoruje zlecenia, w tym zlecenia anulowane, oraz transakcje zawierane na tym rynku przez jej członków, w celu identyfikowania przypadków naruszeń regulacji, o których mowa w ust. 1, oraz zasad uczciwego obrotu, a także przypadków uzasadniających podejrzenie usiłowania dokonania lub wystąpienia manipulacji na rynku, o której mowa w art. 12 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenia w sprawie nadużyć na rynku) oraz uchylającego dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, z późn. zm.), usiłowania wykorzystania, wykorzystania lub ujawniania informacji poufnej, o której mowa w art. 7 tego rozporządzenia, oraz zakłóceń funkcjonowania systemu obrotu instrumentami finansowymi.
+Spółka prowadząca rynek regulowany monitoruje zlecenia, w tym zlecenia anulowane, oraz transakcje zawierane na tym rynku przez jej członków, w celu identyfikowania przypadków naruszeń regulacji, o których mowa w ust. 1, oraz zasad uczciwego obrotu, a także przypadków uzasadniających podejrzenie usiłowania dokonania lub wystąpienia manipulacji na rynku, o której mowa w art. 12 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenia w sprawie nadużyć na rynku) oraz uchylającego dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320 oraz Dz. Urz. UE L 254 z 10.10.2018, str. 19., usiłowania wykorzystania, wykorzystania lub ujawniania informacji poufnej, o której mowa w art. 7 tego rozporządzenia, oraz zakłóceń funkcjonowania systemu obrotu instrumentami finansowymi.
 3.
 O przypadku istotnego naruszenia zasad uczciwego obrotu oraz regulacji, o których mowa w ust. 1, spółka prowadząca rynek regulowany informuje Komisję niezwłocznie, lecz nie później niż w terminie 24 godzin od powzięcia informacji o wystąpieniu zdarzenia. Informacja zawiera szczegółowy opis takiego przypadku wraz ze wskazaniem działań, jakie spółka podjęła lub zamierza podjąć w związku z jego wystąpieniem.
 4.
@@ -177,9 +178,10 @@ Spółka prowadząca rynek regulowany, która umożliwia składanie zleceń z wy
 Informacje, o których mowa w ust. 1, spółka prowadząca rynek regulowany udostępnia Komisji na jej żądanie, zgodnie z art. 1 rozporządzenia, o którym mowa w ust. 1.
 § 12.
 Spółka prowadząca rynek regulowany synchronizuje zegary rynku regulowanego, których używa do rejestrowania daty i godziny wszystkich zdarzeń podlegających sprawozdawczości, oraz zapewnia, aby synchronizację taką przeprowadzali uczestnicy tego rynku.
+Szczegółowe warunki, jakie musi spełniać platforma aukcyjna
 § 13.
 1.
-Spółka prowadząca platformę aukcyjną zapewnia warunki niezbędne do prowadzenia w sposób sprawny i bezpieczny aukcji na tej platformie, w tym do skutecznego i niezwłocznego przyjmowania ofert składanych na tę platformę, z uwzględnieniem rozporządzenia Komisji (UE) nr 1031/2010 z dnia 12 listopada 2010 r. w sprawie harmonogramu, kwestii administracyjnych oraz pozostałych aspektów sprzedaży na aukcji uprawnień do emisji gazów cieplarnianych na mocy dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady ustanawiającej system handlu przydziałami emisji gazów cieplarnianych we Wspólnocie (Dz. Urz. UE L 302 z 18.11.2010, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 1031/2010”.
+Spółka prowadząca platformę aukcyjną zapewnia warunki niezbędne do prowadzenia w sposób sprawny i bezpieczny aukcji na tej platformie, w tym do skutecznego i niezwłocznego przyjmowania ofert składanych na tę platformę, z uwzględnieniem rozporządzenia Komisji (UE) nr 1031/2010 z dnia 12 listopada 2010 r. w sprawie harmonogramu, kwestii administracyjnych oraz pozostałych aspektów sprzedaży na aukcji uprawnień do emisji gazów cieplarnianych na mocy dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady ustanawiającej system handlu przydziałami emisji gazów cieplarnianych we Wspólnocie (Dz. Urz. UE L 302 z 18.11.2010, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 308 z 24.11.2011, str. 2, Dz. Urz. UE L 234 z 31.08.2012, str. 4, Dz. Urz. UE L 310 z 09.11.2012, str. 19, Dz. Urz. UE L 303 z 14.11.2013, str. 10, Dz. Urz. UE L 56 z 26.02.2014, str. 11, Dz. Urz. UE L 269 z 19.10.2017, str. 13 oraz Dz. Urz. UE L 2 z 04.01.2019, str. 1., zwanego dalej „rozporządzeniem 1031/2010”.
 2.
 Spółka prowadząca platformę aukcyjną zapewnia warunki niezbędne do zawarcia i wdrożenia uzgodnień w formie umowy z prowadzącym aukcje, w celu umożliwienia sprzedaży oferowanych przez Rzeczpospolitą Polską uprawnień do emisji, o których mowa w art. 22 ust. 2 i 3 rozporządzenia 1031/2010.
 § 14.
@@ -234,17 +236,25 @@ O każdym podejrzeniu, o którym mowa w art. 56 ust. 1 rozporządzenia 1031/2010
 O każdym przypadku nieuczciwych lub nieprawidłowych warunków sprzedaży na aukcji lub istotnego naruszenia zasad, o których mowa w art. 54 ust. 1 lit. b rozporządzenia 1031/2010, spółka prowadząca platformę aukcyjną informuje Komisję niezwłocznie, lecz nie później niż w terminie 24 godzin od powzięcia informacji o wystąpieniu zdarzenia. Informacja zawiera szczegółowy opis takiego przypadku wraz ze wskazaniem działań, jakie spółka podjęła lub zamierza podjąć w związku z jego wystąpieniem.
 3.
 Spółka prowadząca platformę aukcyjną opracowuje, wdraża i stosuje odpowiednie rozwiązania techniczne w celu przeciwdziałania i ujawniania przypadków wykorzystania informacji wewnętrznej, o której mowa w art. 37 lit. a rozporządzenia 1031/2010, w związku z wycofaniem oferty z platformy aukcyjnej.
+Przepis przejściowy i końcowy
 § 17.
 Spółki prowadzące rynek regulowany w dniu wejścia w życie rozporządzenia są obowiązane dostosować prowadzoną działalność do przepisów rozporządzenia w terminie 6 miesięcy od dnia jego wejścia w życie.
 § 18.
-Rozporządzenie wchodzi w życie z dniem 22 kwietnia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116 oraz Dz. Urz. UE L 231 z 14.09.2018, str. 39). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4 oraz Dz. Urz. UE L 175 z 30.06.2016, str. 1. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320 oraz Dz. Urz. UE L 254 z 10.10.2018, str. 19. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 308 z 24.11.2011, str. 2, Dz. Urz. UE L 234 z 31.08.2012, str. 4, Dz. Urz. UE L 310 z 09.11.2012, str. 19, Dz. Urz. UE L 303 z 14.11.2013, str. 10, Dz. Urz. UE L 56 z 26.02.2014, str. 11, Dz. Urz. UE L 269 z 19.10.2017, str. 13 oraz Dz. Urz. UE L 2 z 04.01.2019, str. 1. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 stycznia 2016 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek regulowany oraz platforma aukcyjna (Dz. U. poz. 139), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 34 pkt 1 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685).
+Rozporządzenie wchodzi w życie z dniem 22 kwietnia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 stycznia 2016 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek regulowany oraz platforma aukcyjna (Dz. U. poz. 139), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 34 pkt 1 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116 oraz Dz. Urz. UE L 231 z 14.09.2018, str. 39). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4 oraz Dz. Urz. UE L 175 z 30.06.2016, str. 1. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320 oraz Dz. Urz. UE L 254 z 10.10.2018, str. 19. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 308 z 24.11.2011, str. 2, Dz. Urz. UE L 234 z 31.08.2012, str. 4, Dz. Urz. UE L 310 z 09.11.2012, str. 19, Dz. Urz. UE L 303 z 14.11.2013, str. 10, Dz. Urz. UE L 56 z 26.02.2014, str. 11, Dz. Urz. UE L 269 z 19.10.2017, str. 13 oraz Dz. Urz. UE L 2 z 04.01.2019, str. 1. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 stycznia 2016 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek regulowany oraz platforma aukcyjna (Dz. U. poz. 139), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 34 pkt 1 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe warunki, jakie musi spełniać rynek regulowany
+#### Rozdział 2 – Szczegółowe warunki, jakie musi spełniać rynek regulowany
 
-#### Rozdział 3 Szczegółowe warunki, jakie musi spełniać platforma aukcyjna
+#### Rozdział 3 – Szczegółowe warunki, jakie musi spełniać platforma aukcyjna
 
-#### Rozdział 4 Przepis przejściowy i końcowy
+#### Rozdział 4 – Przepis przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

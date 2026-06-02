@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 26 marca 2019 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą
+# Rozporządzenie Ministra Zdrowiaz dnia 26 marca 2019 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-26 |
 | Data wydania | 2019-03-29 |
-| Wejście w życie | 2019-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000595) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/595/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagania ogólnoprzestrzenne Rozdział 3 – Wymagania dla niektórych pomieszczeń i urządzeń Rozdział 4 – Wymagania ogólnobudowlane Rozdział 5 – Oświetlenie Rozdział 6 – Wymagania dotyczące instalacji Rozdział 7 – Przepis końcowy
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Wymagania ogólnoprzestrzenne
+
+#### Rozdział 3 – Wymagania dla niektórych pomieszczeń i urządzeń
+
+#### Rozdział 4 – Wymagania ogólnobudowlane
+
+#### Rozdział 5 – Oświetlenie
+
+#### Rozdział 6 – Wymagania dotyczące instalacji
+
+#### Rozdział 7 – Przepis końcowy
 
 ## Załącznik nr 1 — – Szczegółowe wymagania, jakim powinny odpowiadać pomieszczenia i urządzenia szpitala
 
@@ -44,7 +57,8 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagan
 
 Treść rozporządzenia
 Na podstawie art. 22 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 2190 i 2219 oraz z 2019 r. poz. 492) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozdział 1
+Przepisy ogólne
 § 1.
 Pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą odpowiadają, odpowiednio do rodzaju wykonywanej działalności leczniczej oraz zakresu udzielanych świadczeń zdrowotnych, wymaganiom określonym w rozdziałach 2–6.
 § 2.
@@ -73,7 +87,7 @@ Przepis ust. 1 stosuje się odpowiednio do innego niż szpital zakładu lecznicz
 3.
 Wymagania określone dla oddziału stosuje się także do jednostki organizacyjnej szpitala stanowiącej wyodrębnioną część struktury bezoddziałowej, w której są udzielane świadczenia zdrowotne o jednolitym profilu.
 4.
-Szpitalny oddział ratunkowy, o którym mowa w art. 3 pkt 9 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195, z późn. zm.), w zakresie nieuregulowanym w przepisach wydanych na podstawie art. 34 tej ustawy, spełnia także wymagania określone w ust. 1.
+Szpitalny oddział ratunkowy, o którym mowa w art. 3 pkt 9 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 1115, 1544, 1629 i 1669 oraz z 2019 r. poz. 15, 60, 235 i 399.), w zakresie nieuregulowanym w przepisach wydanych na podstawie art. 34 tej ustawy, spełnia także wymagania określone w ust. 1.
 § 4.
 1.
 Pomieszczenia i urządzenia ambulatorium odpowiadają, odpowiednio do zakresu udzielanych świadczeń zdrowotnych, szczegółowym wymaganiom określonym w załączniku nr 2 do rozporządzenia.
@@ -104,8 +118,9 @@ Do zakładu leczniczego realizującego wyłącznie zadania określone w ustawie 
 2.
 Pomieszczenia i urządzenia zakładów lecznictwa uzdrowiskowego, o których mowa w art. 6 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2017 r. poz. 1056), spełniają wymagania określone w przepisach wydanych na podstawie art. 5 ust. 3 i art. 19 ust. 2 tej ustawy.
 3.
-Lokale podmiotów wykonujących czynności z zakresu zaopatrzenia w środki pomocnicze i wyroby medyczne będące przedmiotami ortopedycznymi spełniają wymagania określone w przepisach wydanych na podstawie art. 159 ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.).
-Rozdział 2 Wymagania ogólnoprzestrzenne
+Lokale podmiotów wykonujących czynności z zakresu zaopatrzenia w środki pomocnicze i wyroby medyczne będące przedmiotami ortopedycznymi spełniają wymagania określone w przepisach wydanych na podstawie art. 159 ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399 i 447.).
+Rozdział 2
+Wymagania ogólnoprzestrzenne
 § 14.
 1.
 Pomieszczenia podmiotu wykonującego działalność leczniczą lokalizuje się w samodzielnym budynku albo w zespole budynków.
@@ -127,7 +142,8 @@ Zespoły pomieszczeń stanowiących oddziały łóżkowe szpitala, z wyjątkiem 
 Kształt i powierzchnia pomieszczeń podmiotu wykonującego działalność leczniczą umożliwiają prawidłowe rozmieszczenie, zainstalowanie i użytkowanie urządzeń, aparatury i sprzętu, stanowiących jego niezbędne funkcjonalne wyposażenie.
 § 17.
 W budynkach szpitala nie mogą być stosowane zsypy.
-Rozdział 3 Wymagania dla niektórych pomieszczeń i urządzeń
+Rozdział 3
+Wymagania dla niektórych pomieszczeń i urządzeń
 § 18.
 1.
 Łóżka w pokojach łóżkowych są dostępne z trzech stron, w tym z dwóch dłuższych.
@@ -222,7 +238,8 @@ Przepisu ust. 1 nie stosuje się do mebli w pomieszczeniach administracyjnych i 
 W szpitalu i innym niż szpital zakładzie leczniczym, w którym są udzielane stacjonarne i całodobowe świadczenia zdrowotne inne niż szpitalne, zapewnia się co najmniej jedno pomieszczenie porządkowe umożliwiające dodatkowo mycie i dezynfekcję środków transportu.
 § 29.
 W pokojach łóżkowych dopuszcza się instalację urządzeń umożliwiających obserwację pacjentów, jeżeli jest to konieczne w procesie ich leczenia i dla zapewnienia im bezpieczeństwa.
-Rozdział 4 Wymagania ogólnobudowlane
+Rozdział 4
+Wymagania ogólnobudowlane
 § 30.
 1.
 Podłogi wykonuje się z materiałów umożliwiających ich mycie i dezynfekcję.
@@ -236,7 +253,8 @@ Pomieszczenia i urządzenia wymagające utrzymania aseptyki i wyposażenie tych 
 W przypadku konieczności zastosowania sufitów podwieszonych w pomieszczeniach o podwyższonych wymaganiach higienicznych, w szczególności w salach operacyjnych i porodowych, pokojach łóżkowych przystosowanych do odbioru porodu, pokojach łóżkowych na oddziałach anestezjologii i intensywnej terapii, salach pooperacyjnych, salach oparzeniowych oraz w pomieszczeniach przeznaczonych do pobierania i przerobu krwi w centrum, sufity te są wykonane w sposób zapewniający szczelność powierzchni oraz umożliwiający ich mycie i dezynfekcję.
 § 33.
 Szerokość drzwi w pomieszczeniach, przez które odbywa się ruch pacjentów na łóżkach, umożliwia ten ruch.
-Rozdział 5 Oświetlenie
+Rozdział 5
+Oświetlenie
 § 34.
 W pokojach łóżkowych zapewnia się bezpośredni dostęp światła dziennego.
 § 35.
@@ -246,7 +264,8 @@ W przypadku nadmiernego naświetlenia pokoi łóżkowych instaluje się w nich u
 W salach operacyjnych i pomieszczeniach diagnostyki obrazowej stosuje się wyłącznie oświetlenie elektryczne.
 2.
 W przypadku gdy nie stanowi to utrudnienia przy wykonywaniu zabiegów operacyjnych i diagnostycznych, dopuszcza się zastosowanie w pomieszczeniach, o których mowa w ust. 1, oświetlenia dziennego.
-Rozdział 6 Wymagania dotyczące instalacji
+Rozdział 6
+Wymagania dotyczące instalacji
 § 37.
 1.
 Pomieszczenia, w których są wykonywane badania lub zabiegi, z wyjątkiem pomieszczeń, w których odbywa się badanie za pomocą rezonansu magnetycznego, wyposaża się w:
@@ -275,10 +294,10 @@ Dokonanie czynności, o których mowa w ust. 1, wymaga udokumentowania.
 Rezerwowe źródło zaopatrzenia szpitala w wodę zapewnia co najmniej jej 12-godzinny zapas.
 § 42.
 Rezerwowym źródłem zaopatrzenia szpitala w energię elektryczną jest agregat prądotwórczy wyposażony w funkcję autostartu, zapewniający co najmniej 30% potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania.
-Rozdział 7 Przepis końcowy
+Rozdział 7
+Przepis końcowy
 § 43.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 1115, 1544, 1629 i 1669 oraz z 2019 r. poz. 15, 60, 235 i 399. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399 i 447. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 czerwca 2012 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą (Dz. U. poz. 739), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219).
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 czerwca 2012 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą (Dz. U. poz. 739), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 1115, 1544, 1629 i 1669 oraz z 2019 r. poz. 15, 60, 235 i 399. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399 i 447. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 czerwca 2012 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą (Dz. U. poz. 739), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219).
 
 ## Załącznik nr 1 — – Szczegółowe wymagania, jakim powinny odpowiadać pomieszczenia i urządzenia szpitala
 

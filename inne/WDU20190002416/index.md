@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 11 grudnia 2019 r. w sprawie wysokości wpłaty lotniczej w 2020 r.
+# Rozporządzenie Ministra Infrastrukturyz dnia 11 grudnia 2019 r. w sprawie wysokości wpłaty lotniczej w 2020 r. Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-11 |
 | Data wydania | 2019-12-17 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002416) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2416/text.pdf) |
 
@@ -33,6 +32,5 @@ Rozporządzenie określa wysokość wpłaty z tytułu kosztów realizowania prze
 § 2.
 Wysokość wpłaty lotniczej na rok 2020 wynosi 13 144 166 zł.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacjiz dnia 2 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji i Nauki w sprawie egzaminu maturalnego
+# Obwieszczenie Ministra Edukacjiz dnia 2 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji i Nauki w sprawie egzaminu maturalnego Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 
 | Pole | Wartość |
 |---|---|
@@ -26,19 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000302) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/302/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Edukacji i Nauki z dnia 1 sierpnia 2022 r. w sprawie egzaminu maturalnego Rozdział 1 – Przepisy ogólne Rozdział 2 – Część ustna egzaminu maturalnego Rozdział 3 – Część pisemna egzaminu maturalnego Rozdział 4 – Przepisy wspólne dla części ustnej i części pisemnej egzaminu maturalnego Rozdział 5 – Przepisy epizodyczne, przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Edukacji i Nauki z dnia 1 sierpnia 2022 r. w sprawie egzaminu maturalnego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji i Nauki z dnia 1 sierpnia 2022 r. w sprawie egzaminu maturalnego (Dz. U. z 2023 r. poz. 2534), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji z dnia 29 grudnia 2023 r. zmieniającym rozporządzenie w sprawie egzaminu maturalnego (Dz. U. z 2024 r. poz. 8).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji z dnia 29 grudnia 2023 r. zmieniającego rozporządzenie w sprawie egzaminu maturalnego (Dz. U. z 2024 r. poz. 8), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji z dnia 29 grudnia 2023 r. zmieniającego rozporządzenie w sprawie egzaminu maturalnego (Dz. U. z 2024 r. poz. 8), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 Załącznik – Rozporządzenie Ministra Edukacji i Nauki z dnia 1 sierpnia 2022 r. w sprawie egzaminu maturalnego
-Na podstawie art. 44zzza ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005) zarządza się, co następuje:
+Na podstawie art. 44zzza ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234 i 2005) zarządza się, co następuje: Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki i sposób przeprowadzania egzaminu maturalnego dla absolwentów posiadających wykształcenie średnie lub wykształcenie średnie branżowe.
 § 2.
@@ -66,8 +64,7 @@ materiałów i przyborów pomocniczych, z których można korzystać na egzamini
 3)
 listy systemów operacyjnych, programów użytkowych oraz języków programowania, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy,
 4)
-szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu maturalnego, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy
-jest ogłaszany nie później niż do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin maturalny.
+szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu maturalnego, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy – jest ogłaszany nie później niż do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin maturalny.
 2.
 Komunikat w sprawie listy jawnych zadań egzaminacyjnych w części ustnej egzaminu maturalnego, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret piąte ustawy, jest ogłaszany nie później niż do dnia 1 września roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin maturalny.
 § 7.
@@ -99,7 +96,7 @@ języka regionalnego;
 w części pisemnej z:
 a)
 biologii – obejmuje określony w podstawie programowej kształcenia ogólnego zakres podstawowy i zakres rozszerzony dla przedmiotu biologia,
-aa)
+aaDodana przez § 1 pkt 1 rozporządzenia Ministra Edukacji z dnia 29 grudnia 2023 r. zmieniającego rozporządzenie w sprawie egzaminu maturalnego (Dz. U. z 2024 r. poz. 8), które weszło w życie z dniem 4 stycznia 2024 r.)
 biznesu i zarządzania – obejmuje określony w podstawie programowej kształcenia ogólnego zakres podstawowy i zakres rozszerzony dla przedmiotu biznes i zarządzanie,
 b)
 chemii – obejmuje określony w podstawie programowej kształcenia ogólnego zakres podstawowy i zakres rozszerzony dla przedmiotu chemia,
@@ -164,11 +161,11 @@ informację o posiadaniu orzeczenia o potrzebie kształcenia specjalnego, o któ
 W przypadkach, o których mowa w ust. 1 pkt 8–10, do deklaracji zdający dołącza odpowiednio:
 1)
 dokument lub dokumenty, o których mowa w art. 44zzd ust. 4b ustawy;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 dokument potwierdzający posiadanie wykształcenia średniego lub średniego branżowego albo świadectwo dojrzałości uzyskane po zdaniu egzaminu dojrzałości przeprowadzanego dla absolwentów ponadpodstawowych szkół średnich, albo dyplom IB (International Baccalaureate) wydany przez organizację International Baccalaureate Organization w Genewie i uzyskany po zakończeniu kształcenia w oddziale międzynarodowym, o którym mowa w art. 4 pkt 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005);
 3)
 orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 44zzr ust. 1 ustawy.
-2a.
+2aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku gdy zdający przystępuje do egzaminu maturalnego po raz pierwszy, dołącza do deklaracji dokumenty, o których mowa w ust. 2 pkt 2.
 3.
 Deklaracja zawiera także oświadczenie zdającego o wyrażeniu albo niewyrażeniu zgody na przetwarzanie danych osobowych, o której mowa w art. 6 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35), w celu udostępnienia przez administratora bazy danych systemu informacji oświatowej wyników egzaminu maturalnego uzyskanych przez zdającego uczelni, o przyjęcie do której ubiega się zdający.
@@ -196,8 +193,7 @@ która posiada świadectwo lub inny dokument wydane za granicą i uznane w Rzecz
 2)
 której wykształcenie średnie lub średnie branżowe zostało potwierdzone zgodnie z art. 93a ustawy,
 3)
-która posiada świadectwo szkolne uzyskane za granicą, uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, o której mowa w art. 93 ust. 2 ustawy, w brzmieniu obowiązującym przed dniem 31 marca 2015 r.
-składa deklarację dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania tej osoby, a jeżeli posiada ona miejsce zamieszkania za granicą – dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na ostatnie miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, nie później niż do dnia 7 lutego roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego.
+która posiada świadectwo szkolne uzyskane za granicą, uznane za równorzędne świadectwu ukończenia odpowiedniej szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej w drodze nostryfikacji, o której mowa w art. 93 ust. 2 ustawy, w brzmieniu obowiązującym przed dniem 31 marca 2015 r. – składa deklarację dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na miejsce zamieszkania tej osoby, a jeżeli posiada ona miejsce zamieszkania za granicą – dyrektorowi okręgowej komisji egzaminacyjnej właściwej ze względu na ostatnie miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, nie później niż do dnia 7 lutego roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego.
 9.
 Dyrektor okręgowej komisji egzaminacyjnej informuje absolwenta i osobę, o których mowa w ust. 4 i 6–8, o miejscu przystąpienia do egzaminu maturalnego, nie później niż do dnia 31 marca roku szkolnego, w którym absolwent lub osoba, o których mowa w ust. 4 i 6–8, zamierza przystąpić do egzaminu maturalnego.
 § 13.
@@ -233,11 +229,11 @@ numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub i
 wskazanie adresu korespondencyjnego albo – jeżeli posiada – adresu poczty elektronicznej, na który ma zostać przekazany identyfikator (login) i hasło dostępu – w przypadku absolwenta i osoby, o których mowa w § 12 ust. 1, 6 i 7;
 4)
 nazwę i adres szkoły, którą absolwent lub osoba, o których mowa w § 12 ust. 4 i 6–8, ukończyli;
-5)
+5Dodany przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 wskazanie sposobu odebrania identyfikatora (loginu) i hasła dostępu – w przypadku absolwenta lub osoby, o których mowa w § 12 ust. 4 i 8.
 11.
 Odpowiednio dyrektor szkoły albo dyrektor okręgowej komisji egzaminacyjnej przekazuje absolwentowi lub osobie, o których mowa w § 12 ust. 1, 6 i 7, identyfikator (login) i hasło dostępu w terminie siedmiu dni roboczych od dnia otrzymania wniosku, o którym mowa w ust. 7–9.
-12.
+12W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Absolwent i osoba, o której mowa w § 12 ust. 4 i 8, odbierają identyfikator (login) i hasło dostępu w siedzibie właściwej okręgowej komisji egzaminacyjnej po okazaniu dokumentu ze zdjęciem potwierdzającym tożsamość albo drogą elektroniczną przy użyciu środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej.
 13.
 Dokumenty, o których mowa w § 11 ust. 2 lub § 17 ust. 1 i 3, dołącza się do deklaracji składanej w postaci elektronicznej jako odwzorowanie cyfrowe tych dokumentów sporządzonych w postaci papierowej.
@@ -299,7 +295,7 @@ a)
 formy przeprowadzania egzaminu maturalnego, o którym mowa w art. 44zzr ust. 1 ustawy,
 b)
 warunków przeprowadzania egzaminu maturalnego, o którym mowa w art. 44zzr ust. 1–7 ustawy;
-3)
+3Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.)
 numer dyplomu IB (International Baccalaureate) w przypadku absolwenta, o którym mowa w § 11 ust. 2 pkt 2.
 2.
 Wykaz, o którym mowa w ust. 1, dyrektor szkoły przekazuje dyrektorowi okręgowej komisji egzaminacyjnej przy użyciu elektronicznego systemu wspomagającego przeprowadzanie egzaminu maturalnego.
@@ -347,8 +343,7 @@ naruszenia przesyłki, o której mowa w ust. 1,
 2)
 nieprawidłowości w materiałach egzaminacyjnych, o których mowa w ust. 2,
 3)
-niekompletności materiałów egzaminacyjnych, o których mowa w ust. 1 i 2
-‒ przewodniczący zespołu egzaminacyjnego lub upoważniony przez niego członek tego zespołu powiadamia o tym niezwłocznie dyrektora okręgowej komisji egzaminacyjnej. Dyrektor okręgowej komisji egzaminacyjnej informuje przewodniczącego zespołu egzaminacyjnego lub upoważnionego przez niego członka tego zespołu o dalszym postępowaniu.
+niekompletności materiałów egzaminacyjnych, o których mowa w ust. 1 i 2 ‒ przewodniczący zespołu egzaminacyjnego lub upoważniony przez niego członek tego zespołu powiadamia o tym niezwłocznie dyrektora okręgowej komisji egzaminacyjnej. Dyrektor okręgowej komisji egzaminacyjnej informuje przewodniczącego zespołu egzaminacyjnego lub upoważnionego przez niego członka tego zespołu o dalszym postępowaniu.
 § 23.
 1.
 Przewodniczący zespołu przedmiotowego kieruje pracą tego zespołu i zapewnia prawidłowy przebieg części ustnej egzaminu maturalnego z danego przedmiotu.
@@ -558,7 +553,7 @@ przedstawiciele organu sprawującego nadzór pedagogiczny, organu prowadzącego,
 Dla osób wchodzących w skład zespołu nadzorującego, o których mowa w ust. 4, przewodniczący zespołu egzaminacyjnego przeprowadza szkolenie w zakresie organizacji egzaminu maturalnego.
 6.
 W przypadku powołania w skład zespołu nadzorującego osób, o którym mowa w ust. 4, przewodniczącym zespołu nadzorującego może być wyłącznie nauczyciel zatrudniony w szkole, w której jest przeprowadzany egzamin maturalny, lub nauczyciel zatrudniony w innej szkole lub w placówce, który uczestniczył w przeprowadzaniu egzaminu maturalnego.
-7.
+7Ze zmianą wprowadzoną przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli w sali egzaminacyjnej jest nie więcej niż 15 zdających, w skład zespołu nadzorującego wchodzą co najmniej 2 osoby.
 8.
 Jeżeli w sali egzaminacyjnej jest więcej niż 30 zdających, liczbę członków zespołu nadzorującego zwiększa się o jedną osobę na każdych kolejnych 25 zdających.
@@ -570,7 +565,7 @@ Powołanie w skład zespołu nadzorującego osoby, o której mowa w ust. 4, nast
 W skład zespołu nadzorującego zamiast jednej z osób, o których mowa w ust. 3 lub 4, z wyłączeniem przewodniczącego zespołu nadzorującego, może wchodzić nauczyciel wspomagający lub specjalista z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym w przypadku, o którym mowa w art. 44zzr ust. 10 pkt 6 ustawy.
 12.
 W skład zespołu nadzorującego nie może wchodzić nauczyciel przedmiotu, z którego jest przeprowadzana część pisemna egzaminu maturalnego, oraz wychowawca zdających.
-13.
+13Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli do części pisemnej egzaminu maturalnego z danego języka obcego nowożytnego, języka łacińskiego, języka mniejszości narodowej, języka mniejszości etnicznej lub języka regionalnego przystępuje absolwent, który korzysta z dostosowania warunków przeprowadzania egzaminu maturalnego polegającego na obecności i pomocy nauczyciela wspomagającego, o którym mowa w art. 44zzr ust. 10 pkt 6 ustawy, w skład zespołu nadzorującego zamiast jednej z osób, o których mowa w ust. 3 lub 4, z wyłączeniem przewodniczącego zespołu nadzorującego, może wchodzić nauczyciel danego języka będący nauczycielem wspomagającym.
 § 36.
 1.
@@ -632,7 +627,7 @@ przedmiotu dodatkowego na poziomie dwujęzycznym trwa 180 minut.
 Do sprawdzenia umiejętności rozumienia ze słuchu są wykorzystywane teksty nagrane przez rodzimych użytkowników danego języka.
 3.
 W czasie trwania egzaminu zdający nie może korzystać z żadnych słowników.
-§ 40a.
+§ 40aDodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Egzamin maturalny w części pisemnej z języka łacińskiego trwa 120 minut.
 2.
@@ -655,7 +650,7 @@ Egzamin maturalny w części pisemnej z języka mniejszości etnicznej i języka
 2.
 W czasie trwania egzaminu zdający może korzystać ze słowników językowych wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy.
 § 44.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2..
 Egzamin maturalny w części pisemnej z biznesu i zarządzania oraz informatyki trwa 210 minut.
 2.
 Podczas egzaminu maturalnego w części pisemnej z informatyki zdający rozwiązuje zadania egzaminacyjne z wykorzystaniem komputera. Rozwiązanie zadania lub zadań może być zapisane na informatycznym nośniku danych wskazanym w informacji o sposobie organizacji i przeprowadzania egzaminu maturalnego, o której mowa w art. 9a ust. 2 pkt 10 lit. b ustawy.
@@ -766,6 +761,7 @@ koperty zawierające zeszyty zadań egzaminacyjnych, karty odpowiedzi lub karty 
 wykazy, o których mowa w ust. 1 pkt 1;
 3)
 kopie zaświadczeń stwierdzających uzyskanie tytułu laureata lub finalisty olimpiady przedmiotowej, o których mowa w art. 44zzh ust. 1 ustawy.
+Przepisy wspólne dla części ustnej i części pisemnej egzaminu maturalnego
 § 49.
 1.
 Dla absolwentów, którzy uzyskali zgodę dyrektora okręgowej komisji egzaminacyjnej na przystąpienie do części ustnej lub części pisemnej egzaminu maturalnego z danego przedmiotu w terminie dodatkowym, egzamin maturalny jest przeprowadzany:
@@ -827,17 +823,18 @@ Protokoły indywidualne części ustnej egzaminu maturalnego, o których mowa w 
 § 55.
 1.
 Prace egzaminacyjne absolwentów: zeszyty zadań egzaminacyjnych, karty odpowiedzi lub karty rozwiązań zadań egzaminacyjnych oraz informatyczne nośniki danych, o których mowa w § 44 ust. 2, a także wykazy, o których mowa w § 34 ust. 5 pkt 1 i § 48 ust. 1 pkt 1, oraz kopie zaświadczeń, o których mowa w § 34 ust. 5 pkt 2 i § 48 ust. 5 pkt 3, przechowuje okręgowa komisja egzaminacyjna przez okres 6 miesięcy, licząc od dnia przekazania szkołom świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Protokoły zbiorcze, o których mowa w § 34 ust. 3 i § 48 ust. 3, przechowuje okręgowa komisja egzaminacyjna przez okres 2 lat, licząc od dnia przekazania szkołom świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy.
 § 56.
 1.
 Opłata za egzamin maturalny, o której mowa w art. 44zzq ust. 1 ustawy, wynosi 50 zł.
 2.
 Dowód wniesienia opłaty za egzamin maturalny absolwent składa dyrektorowi okręgowej komisji egzaminacyjnej w terminie od dnia 1 stycznia do dnia 7 marca roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek o zwolnienie z opłaty za egzamin maturalny, o którym mowa w art. 44zzq ust. 4 ustawy, składa się do dyrektora okręgowej komisji egzaminacyjnej nie później niż do dnia 7 lutego roku szkolnego, w którym absolwent zamierza przystąpić do egzaminu maturalnego. Do wniosku dołącza się dokumenty potwierdzające wysokość dochodów.
 § 57.
 Dyrektor szkoły umożliwia osobom upoważnionym przez dyrektora Centralnej Komisji Egzaminacyjnej lub dyrektora okręgowej komisji egzaminacyjnej przeprowadzenie na terenie szkoły próbnego zastosowania materiałów egzaminacyjnych w postaci propozycji zadań egzaminacyjnych oraz ich zestawów do przeprowadzenia egzaminu maturalnego.
+Przepisy epizodyczne, przejściowe i końcowe
 § 58.
 1.
 Egzamin maturalny w części pisemnej z przedmiotu dodatkowego wiedza o społeczeństwie obejmujący wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego i rozszerzonego dla przedmiotu wiedza o społeczeństwie jest przeprowadzany dla absolwentów:
@@ -875,7 +872,7 @@ W roku szkolnym 2022/2023 i 2023/2024 liczba jawnych zadań egzaminacyjnych w cz
 Dla egzaminu maturalnego przeprowadzanego w roku szkolnym 2022/2023 obowiązują komunikaty w sprawie listy jawnych zadań egzaminacyjnych w części ustnej egzaminu maturalnego wraz z aneksami, o których mowa w art. 11 ust. 6 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116), a także aneksami, które dyrektor Centralnej Komisji Egzaminacyjnej ogłosi do dnia 17 marca 2023 r. W aneksach dyrektor Centralnej Komisji Egzaminacyjnej ogranicza liczbę jawnych zadań egzaminacyjnych w części ustnej egzaminu maturalnego do liczby wskazanej odpowiednio w § 59a ust. 1 lub § 59b.
 2.
 Dla egzaminu maturalnego przeprowadzanego w roku szkolnym 2023/2024 obowiązują komunikaty w sprawie listy jawnych zadań egzaminacyjnych w części ustnej egzaminu maturalnego, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret piąte ustawy, wraz z aneksami, które dyrektor Centralnej Komisji Egzaminacyjnej ogłosi do dnia 15 czerwca 2023 r. W aneksach dyrektor Centralnej Komisji Egzaminacyjnej ogranicza liczbę jawnych zadań egzaminacyjnych w części ustnej egzaminu maturalnego do liczby wskazanej odpowiednio w § 59a ust. 1 lub § 59b.
-§ 59d.
+§ 59dDodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2..
 Egzamin maturalny w części pisemnej z biznesu i zarządzania jest przeprowadzany dla absolwentów:
 1)
 liceum ogólnokształcącego – począwszy od roku szkolnego 2026/2027;
@@ -886,7 +883,7 @@ branżowej szkoły II stopnia – począwszy od roku szkolnego 2027/2028.
 § 60.
 Podstawą dostosowania warunków przeprowadzania egzaminu maturalnego, o którym mowa w art. 44zzr ust. 5 ustawy, mogą być również opinie poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, o specyficznych trudnościach w uczeniu się, wydane na podstawie:
 1)
-§ 6a rozporządzenia Ministra Edukacji Narodowej z dnia 30 kwietnia 2007 r. w sprawie warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania sprawdzianów i egzaminów w szkołach publicznych (Dz. U. poz. 562, z późn. zm.);
+§ 6a rozporządzenia Ministra Edukacji Narodowej z dnia 30 kwietnia 2007 r. w sprawie warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania sprawdzianów i egzaminów w szkołach publicznych (Dz. U. poz. 562, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. poz. 906, z 2008 r. poz. 9 i 1097, z 2009 r. poz. 475, 694 i 1150, z 2010 r. poz. 1046 i 1491, z 2011 r. poz. 178 i 1063, z 2012 r. poz. 262 oraz z 2013 r. poz. 520.);
 2)
 § 4 rozporządzenia Ministra Edukacji Narodowej z dnia 10 czerwca 2015 r. w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach (Dz. U. poz. 843, z 2016 r. poz. 1278, z 2017 r. poz. 1651 oraz z 2019 r. poz. 372);
 3)
@@ -894,22 +891,35 @@ Podstawą dostosowania warunków przeprowadzania egzaminu maturalnego, o którym
 § 61.
 Określone w rozporządzeniu szczegółowe warunki i sposób przeprowadzania egzaminu maturalnego dotyczą egzaminu maturalnego dla absolwentów, o których mowa w art. 10 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
 § 62.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Dodana przez § 1 pkt 1 rozporządzenia Ministra Edukacji z dnia 29 grudnia 2023 r. zmieniającego rozporządzenie w sprawie egzaminu maturalnego (Dz. U. z 2024 r. poz. 8), które weszło w życie z dniem 4 stycznia 2024 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 12) Ze zmianą wprowadzoną przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 13) Ze zmianą wprowadzoną przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 14) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 15) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. poz. 906, z 2008 r. poz. 9 i 1097, z 2009 r. poz. 475, 694 i 1150, z 2010 r. poz. 1046 i 1491, z 2011 r. poz. 178 i 1063, z 2012 r. poz. 262 oraz z 2013 r. poz. 520. 16) Rozporządzenie zostało ogłoszone w dniu 5 sierpnia 2022 r. 17) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji i Nauki z dnia 26 lutego 2021 r. w sprawie egzaminu maturalnego (Dz. U. poz. 482), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 40 pkt 1 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 5 sierpnia 2022 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji i Nauki z dnia 26 lutego 2021 r. w sprawie egzaminu maturalnego (Dz. U. poz. 482), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 40 pkt 1 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Dodana przez § 1 pkt 1 rozporządzenia Ministra Edukacji z dnia 29 grudnia 2023 r. zmieniającego rozporządzenie w sprawie egzaminu maturalnego (Dz. U. z 2024 r. poz. 8), które weszło w życie z dniem 4 stycznia 2024 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 12) Ze zmianą wprowadzoną przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 13) Ze zmianą wprowadzoną przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 14) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 15) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. poz. 906, z 2008 r. poz. 9 i 1097, z 2009 r. poz. 475, 694 i 1150, z 2010 r. poz. 1046 i 1491, z 2011 r. poz. 178 i 1063, z 2012 r. poz. 262 oraz z 2013 r. poz. 520. 16) Rozporządzenie zostało ogłoszone w dniu 5 sierpnia 2022 r. 17) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji i Nauki z dnia 26 lutego 2021 r. w sprawie egzaminu maturalnego (Dz. U. poz. 482), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 40 pkt 1 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Część ustna egzaminu maturalnego
+#### Rozdział 2 – Część ustna egzaminu maturalnego
+
+#### Rozdział 3 – Część pisemna egzaminu maturalnego
+
+#### Rozdział 4 – Przepisy wspólne dla części ustnej i części pisemnej egzaminu maturalnego
+
+#### Rozdział 5 – Przepisy epizodyczne, przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+## Część ustna egzaminu maturalnego
 
 ## Część ustna egzaminu maturalnego z języka polskiego trwa nie dłużej niż 15 minut i składa się z dwóch części:
 
 ## Część ustna egzaminu maturalnego z języka mniejszości narodowej, języka mniejszości etnicznej lub języka regionalnego trwa nie dłużej niż 15 minut i składa się z dwóch części:
 
-#### Rozdział 3 Część pisemna egzaminu maturalnego
+#### Rozdział 3
+
+## Część pisemna egzaminu maturalnego
 
 ## Część pisemna egzaminu maturalnego z danego przedmiotu rozpoczyna się o godzinie określonej w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy. Czas trwania części pisemnej egzaminu maturalnego z danego przedmiotu rozpoczyna się z chwilą zapisania w widocznym miejscu przez przewodniczącego zespołu nadzorującego czasu rozpoczęcia i zakończenia pracy zdających.
 
-#### Rozdział 4 Przepisy wspólne dla części ustnej i części pisemnej egzaminu maturalnego
+#### Rozdział 4
 
-#### Rozdział 5 Przepisy epizodyczne, przejściowe i końcowe
+#### Rozdział 5
 

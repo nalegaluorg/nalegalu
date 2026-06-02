@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowychz dnia 22 grudnia 2021 r. w sprawie dotacji budżetowej przeznaczonej na finansowanie świadczenia z tytułu urlopów górniczych oraz urlopów dla pracowników zakładu przeróbki mechanicznej węgla
+# Rozporządzenie Ministra Aktywów Państwowychz dnia 22 grudnia 2021 r. w sprawie dotacji budżetowej przeznaczonej na finansowanie świadczenia z tytułu urlopów górniczych oraz urlopów dla pracowników zakładu przeróbki mechanicznej węgla Minister Aktywów Państwowych kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-22 |
 | Data wydania | 2021-12-27 |
-| Wejście w życie | 2021-12-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002424) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2424/text.pdf) |
 
@@ -93,6 +92,5 @@ Czasowe wstrzymanie wypłaty przyznanej dotacji następuje w przypadku, gdy prze
 § 9.
 Do dotacji przyznanych w okresie od dnia 1 stycznia 2021 r. do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 10 kwietnia 2015 r. w sprawie dotacji budżetowej przeznaczonej na finansowanie świadczeń z tytułu urlopów górniczych oraz urlopów dla pracowników zakładu przeróbki mechanicznej węgla (Dz. U. poz. 512), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 1 października 2021 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw (Dz. U. poz. 2071).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 10 kwietnia 2015 r. w sprawie dotacji budżetowej przeznaczonej na finansowanie świadczeń z tytułu urlopów górniczych oraz urlopów dla pracowników zakładu przeróbki mechanicznej węgla (Dz. U. poz. 512), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 1 października 2021 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw (Dz. U. poz. 2071). 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – gospodarka złożami kopalin, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 10 kwietnia 2015 r. w sprawie dotacji budżetowej przeznaczonej na finansowanie świadczeń z tytułu urlopów górniczych oraz urlopów dla pracowników zakładu przeróbki mechanicznej węgla (Dz. U. poz. 512), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 1 października 2021 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw (Dz. U. poz. 2071).
 

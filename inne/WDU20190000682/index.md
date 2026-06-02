@@ -37,17 +37,13 @@ rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 21 lipca 2015 r. zm
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 10 marca 2005 r. zmieniającego rozporządzenie w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechniania tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych (Dz. U. poz. 514), który stanowi:
-„
+§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 10 marca 2005 r. zmieniającego rozporządzenie w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechniania tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych (Dz. U. poz. 514), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 21 lipca 2015 r. zmieniającego rozporządzenie w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechniania tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych (Dz. U. poz. 1034), który stanowi:
-„
+§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 21 lipca 2015 r. zmieniającego rozporządzenie w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechniania tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych (Dz. U. poz. 1034), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” .
 Załącznik – Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 12 sierpnia 2003 r. w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechniania tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych
 Na podstawie art. 55 ust. 1 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2015 r. poz. 318, z 2017 r. poz. 850 oraz z 2018 r. poz. 1579) zarządza się, co następuje:
 § 1.
@@ -85,7 +81,7 @@ nazwę podmiotu uprawnionego do rozpowszechniania audycji referendalnych;
 2)
 imię i nazwisko oraz miejsce zamieszkania i adres przedstawiciela podmiotu uprawnionego wraz ze stosownym pełnomocnictwem wystawionym przez podmiot uprawniony;
 3)
-(uchylony).
+(uchylony).Przez § 1 pkt 1 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 21 lipca 2015 r. zmieniającego rozporządzenie w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechniania tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych (Dz. U. poz. 1034), które weszło w życie z dniem 24 lipca 2015 r.
 § 5.
 Przed dokonaniem podziału czasu antenowego organy spółek zwołują zebrania przedstawicieli w celu poinformowania ich o proponowanym ramowym układzie czasu rozpowszechniania audycji referendalnych, warunkach rejestracji i rozpowszechniania audycji referendalnych oraz przeprowadzenia losowania kolejności rozpowszechniania audycji referendalnych.
 § 6.
@@ -98,7 +94,7 @@ terminach emisji audycji referendalnych podmiotu uprawnionego;
 terminach i czasie rejestracji audycji referendalnych;
 4)
 warunkach technicznych, jakim powinny odpowiadać materiały audycji referendalnych przygotowanych samodzielnie przez podmioty uprawnione;
-5)
+5Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 miejscu i terminie losowania kolejności rozpowszechniania audycji referendalnych.
 § 7.
 Jeżeli materiały audycji referendalnych przygotowanych samodzielnie przez podmioty uprawnione nie odpowiadają warunkom technicznym podanym do wiadomości przedstawicieli, Telewizja Polska i Polskie Radio oraz spółki radiofonii regionalnej wzywają przedstawicieli do usunięcia wskazanych usterek i dostarczenia poprawionego materiału audycji referendalnej, najpóźniej na 8 godzin przed ustalonym czasem rozpowszechnienia audycji.
@@ -118,13 +114,13 @@ Telewizja Polska, Polskie Radio i spółki radiofonii regionalnej zobowiązane d
 Rejestracja i rozpowszechnienie audycji referendalnych jest dokonywana na koszt Telewizji Polskiej, Polskiego Radia i spółek radiofonii regionalnej.
 2.
 Rejestracja telewizyjnej audycji referendalnej i przygotowanie jej do rozpowszechnienia obejmuje:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1.)
 nieodpłatne przegranie audycji referendalnej dostarczonej przez podmiot uprawniony na kasecie lub innym nośniku z obrazem o rozdzielczości SD lub wyższej, wskazanym przedstawicielom podmiotów uprawnionych przez Telewizję Polską, na stosowane w emisji nośniki;
 2)
 udostępnienie studia, o wyposażeniu i standardach technicznych nagrania określonych przez Telewizję Polską i podanych do wiadomości podmiotu uprawnionego zgodnie z § 6 pkt 3, wraz z realizatorem, w celu nagrania audycji referendalnej, na czas nie dłuższy niż pięciokrotność czasu trwania danej audycji referendalnej, nie krótszy jednak niż 15 minut.
 3.
 Rejestracja radiowej audycji referendalnej i przygotowanie jej do rozpowszechnienia obejmuje:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 1.)
 nieodpłatne przegranie audycji referendalnej dostarczonej przez podmiot uprawniony na kasecie, płycie lub innym nośniku dźwięku, wskazanym przedstawicielom podmiotów uprawnionych przez Polskie Radio i spółki radiofonii regionalnej, na stosowane w emisji nośniki;
 2)
 udostępnienie studia, o wyposażeniu i standardach technicznych nagrania określonych przez Polskie Radio i spółki radiofonii regionalnej i podanych do wiadomości podmiotów uprawnionych zgodnie z § 6 pkt 3, wraz z realizatorem, w celu nagrania audycji referendalnej, na czas nie dłuższy niż trzykrotność czasu trwania danej audycji referendalnej, nie krótszy jednak niż 10 minut.
@@ -136,10 +132,10 @@ Wniosek o udostępnienie studia i urządzeń technicznych składa przedstawiciel
 § 12.
 1.
 Spółkami radiofonii regionalnej, które rozpowszechniają programy regionalne, są spółki z siedzibami w: Białymstoku, Bydgoszczy, Gdańsku, Katowicach, Kielcach, Koszalinie, Krakowie, Lublinie, Łodzi, Olsztynie, Opolu, Poznaniu, Warszawie, Rzeszowie, Szczecinie, we Wrocławiu i w Zielonej Górze.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 10 marca 2005 r. zmieniającego rozporządzenie w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechniania tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych (Dz. U. poz. 514), które weszło w życie z dniem 27 kwietnia 2005 r..
 Telewizja Polska rozpowszechnia programy regionalne w terenowych oddziałach, które mają swoje siedziby w: Białymstoku, Bydgoszczy, Gorzowie Wielkopolskim, Gdańsku, Katowicach, Kielcach, Krakowie, Lublinie, Łodzi, Opolu, Olsztynie, Poznaniu, Rzeszowie, Szczecinie, Warszawie, Wrocławiu.
 § 13.
 Traci moc rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 30 kwietnia 2003 r. w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechniania tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych w referendum zarządzonym na dzień 8 czerwca 2003 r. w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej (Dz. U. poz. 680).
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 22 września 2003 r.. 1) Przez § 1 pkt 1 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 21 lipca 2015 r. zmieniającego rozporządzenie w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechniania tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych (Dz. U. poz. 1034), które weszło w życie z dniem 24 lipca 2015 r. 2) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 10 marca 2005 r. zmieniającego rozporządzenie w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechniania tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych (Dz. U. poz. 514), które weszło w życie z dniem 27 kwietnia 2005 r. 6) Rozporządzenie zostało ogłoszone w dniu 22 września 2003 r.
 

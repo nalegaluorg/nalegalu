@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-17 |
 | Data wydania | 2015-12-24 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002188) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2188/text.pdf) |
 
@@ -134,5 +133,5 @@ Wysokość opłaty egzaminacyjnej stanowi równowartość 75% minimalnego wynagr
 2.
 Opłatę egzaminacyjną uiszcza się najpóźniej 45 dni przed terminem rozpoczęcia egzaminu na rachunek bankowy Ministerstwa Sprawiedliwości wskazany w ogłoszeniu o terminie egzaminu. W przypadku dołączenia do wniosku o dopuszczenie do egzaminu dowodu wniesienia opłaty egzaminacyjnej w formie wydruku potwierdzającego dokonanie operacji bankowej, na wydruku tym zamieszcza się potwierdzoną własnoręcznym podpisem informację, że figurująca na nim kwota stanowi opłatę egzaminacyjną, jeżeli taki tytuł przelewu nie został podany w samej jego treści.
 § 19.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 1 marca 2011 r. w sprawie egzaminu dla osób ubiegających się o licencję syndyka oraz opłaty egzaminacyjnej (Dz. U. z 2013 r. poz. 648), które traci moc z dniem 1 stycznia 2016 r. na podstawie art. 456 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, 1259, 1513, 1830 i 1844). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 1 marca 2011 r. w sprawie egzaminu dla osób ubiegających się o licencję syndyka oraz opłaty egzaminacyjnej (Dz. U. z 2013 r. poz. 648), które traci moc z dniem 1 stycznia 2016 r. na podstawie art. 456 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, 1259, 1513, 1830 i 1844).
 

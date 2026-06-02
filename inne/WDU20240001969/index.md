@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 22 grudnia 2024 r. w sprawie danych zawartych w powiadomieniu o zamiarze skorzystania ze zwolnienia w państwie członkowskim innym niż Rzeczpospolita Polska oraz informacji kwartalnej
+# Rozporządzenie Ministra Finansówz dnia 22 grudnia 2024 r. w sprawie danych zawartych w powiadomieniu o zamiarze skorzystania ze zwolnienia w państwie członkowskim innym niż Rzeczpospolita Polska oraz informacji kwartalnej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-22 |
 | Data wydania | 2024-12-30 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-12-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001969) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1969/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 113b ust. 22 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2020/285 z dnia 18 lutego 2020 r. zmieniającą dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej w odniesieniu do procedury szczególnej dla małych przedsiębiorstw oraz rozporządzenie (UE) nr 904/2010 w odniesieniu do współpracy administracyjnej i wymiany informacji do celów monitorowania i prawidłowego stosowania procedury szczególnej dla małych przedsiębiorstw (Dz. Urz. UE L 62 z 02.03.2020, str. 13). Na podstawie art. 113b ust. 22 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -110,6 +109,5 @@ W przypadku gdy podatnik nie dokonał sprzedaży na terytorium kraju lub dostaw 
 § 5.
 Uprzednie powiadomienie oraz informacja kwartalna zawierają pouczenie podatnika, że podanie nieprawdy lub zatajenie prawdy albo niedopełnienie obowiązku zawiadomienia o zmianie danych grozi odpowiedzialnością przewidzianą w przepisach Kodeksu karnego skarbowego.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2020/285 z dnia 18 lutego 2020 r. zmieniającą dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej w odniesieniu do procedury szczególnej dla małych przedsiębiorstw oraz rozporządzenie (UE) nr 904/2010 w odniesieniu do współpracy administracyjnej i wymiany informacji do celów monitorowania i prawidłowego stosowania procedury szczególnej dla małych przedsiębiorstw (Dz. Urz. UE L 62 z 02.03.2020, str. 13).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2020/285 z dnia 18 lutego 2020 r. zmieniającą dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej w odniesieniu do procedury szczególnej dla małych przedsiębiorstw oraz rozporządzenie (UE) nr 904/2010 w odniesieniu do współpracy administracyjnej i wymiany informacji do celów monitorowania i prawidłowego stosowania procedury szczególnej dla małych przedsiębiorstw (Dz. Urz. UE L 62 z 02.03.2020, str. 13).
 

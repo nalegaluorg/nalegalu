@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 15 lutego 2017 r. zmieniające rozporządzenie w sprawie wykazu dokumentów potwierdzających dokonanie zapłaty zobowiązania podatkowego i opłaty paliwowej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 15 lutego 2017 r. zmieniające rozporządzenie w sprawie wykazu dokumentów potwierdzających dokonanie zapłaty zobowiązania podatkowego i opłaty paliwowej Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-15 |
 | Data wydania | 2017-02-21 |
-| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000310) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/310/text.pdf) |
 
@@ -33,12 +32,9 @@ W rozporządzeniu Ministra Finansów z dnia 22 grudnia 2015 r. w sprawie wykazu 
 1)
 użyte w § 1 w pkt 4 oraz w § 2 wyrazy „właściwej izby celnej” zastępuje się wyrazami „właściwego urzędu skarbowego”;
 2)
-w § 1 pkt 5 otrzymuje brzmienie:
-„
+w § 1 pkt 5 otrzymuje brzmienie: „
 5)
-dowód wpłaty wydany przez właściwego naczelnika urzędu skarbowego, potwierdzający zapłatę w kasie tego urzędu skarbowego należnego zobowiązania podatkowego lub opłaty paliwowej.
-” .
+dowód wpłaty wydany przez właściwego naczelnika urzędu skarbowego, potwierdzający zapłatę w kasie tego urzędu skarbowego należnego zobowiązania podatkowego lub opłaty paliwowej. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 3 sierpnia 2017 r. zmieniające rozporządzenie w sprawie wypadków i incydentów lotniczych
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 3 sierpnia 2017 r. zmieniające rozporządzenie w sprawie wypadków i incydentów lotniczych Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-03 |
 | Data wydania | 2017-08-17 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001539) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1539/text.pdf) |
 
@@ -33,22 +32,17 @@ W rozporządzeniu Ministra Transportu z dnia 18 stycznia 2007 r. w sprawie wypad
 1)
 w § 26:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Komisja przekazuje raporty wstępne Prezesowi Urzędu w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej, w jednym z formatów danych określonych w załączniku nr 2 do rozporządzenia Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych (Dz. U. z 2016 r. poz. 113 i 1744), albo w postaci papierowej.
-” ,
+Komisja przekazuje raporty wstępne Prezesowi Urzędu w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej, w jednym z formatów danych określonych w załączniku nr 2 do rozporządzenia Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych (Dz. U. z 2016 r. poz. 113 i 1744), albo w postaci papierowej. ” ,
 b)
 uchyla się ust. 3,
 c)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
-Komisja udostępnia na swojej stronie internetowej raporty wstępne z badania wypadku lotniczego, a w przypadku gdy jest to uzasadnione względami bezpieczeństwa wykonywania lotów – także z badania poważnego incydentu lotniczego.
-” ;
+Komisja udostępnia na swojej stronie internetowej raporty wstępne z badania wypadku lotniczego, a w przypadku gdy jest to uzasadnione względami bezpieczeństwa wykonywania lotów – także z badania poważnego incydentu lotniczego. ” ;
 2)
 w § 31 uchyla się ust. 2 i 3.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 

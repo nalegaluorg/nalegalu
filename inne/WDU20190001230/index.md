@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 13 czerwca 2019 r. w sprawie kontroli wyrobów budowlanych wprowadzonych do obrotu lub udostępnianych na rynku krajowym
+# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 13 czerwca 2019 r. w sprawie kontroli wyrobów budowlanych wprowadzonych do obrotu lub udostępnianych na rynku krajowym Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-07-03 |
-| Wejście w życie | 2019-07-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1230/text.pdf) |
 
@@ -67,8 +66,7 @@ Do kontroli wszczętych i niezakończonych przed dniem wejścia w życie rozporz
 § 7.
 Traci moc rozporządzenie Ministra Infrastruktury z dnia 2 września 2009 r. w sprawie kontroli wyrobów budowlanych wprowadzonych do obrotu (Dz. U. poz. 1182).
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 ## Załącznik nr 1 — – Upoważnienie do przeprowadzenia kontroli wyrobów budowlanych (wzór)
 
@@ -84,6 +82,5 @@ Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 1)
 ...
 2)
-...
-dokonali oględzin wyrobu budowlanego: ... ... ... ...(nazwa wyrobu, typ wyrobu, producent wyrobu i zakład, w którym wyrób budowlany jest wytwarzany, lub importer wyrobu)... Oględziny wykazały, co następuje: ... ... ... ... ... Ciąg dalszy protokołu oględzin z dnia ..., nr akt kontroli ..., karta nr ... ... ... ... ... ... ... ... ... ... ...(podpis kontrolowanego lub osoby przez niego upoważnionej**))... ...(podpisy kontrolujących)... Ciąg dalszy protokołu oględzin z dnia ..., nr akt kontroli ..., karta nr ... Załączniki do protokołu oględzin: ... ... ... Omówienie poprawek: ... ... ... ... ... ... Na tym protokół oględzin zakończono i podpisano w dniu ... r. Protokół oględzin sporządzono w dwóch jednobrzmiących egzemplarzach. Kontrolowany lub osoba przez niego upoważniona albo pracownik lub świadek odmówił/odmówiła*) podpisania protokołu oględzin z powodu: ... ... ... ... ... ...(podpis kontrolowanego lub osoby przez niego upoważnionej**))... ...(podpisy kontrolujących)... Potwierdzam odbiór 1 egz. protokołu oględzin ... ...(podpis kontrolowanego lub osoby przez niego upoważnionej**)) *) Niepotrzebne skreślić. **) W przypadku nieobecności kontrolowanego lub osoby przez niego upoważnionej – podpis pracownika lub świadka.
+... dokonali oględzin wyrobu budowlanego: ... ... ... ...(nazwa wyrobu, typ wyrobu, producent wyrobu i zakład, w którym wyrób budowlany jest wytwarzany, lub importer wyrobu)... Oględziny wykazały, co następuje: ... ... ... ... ... Ciąg dalszy protokołu oględzin z dnia ..., nr akt kontroli ..., karta nr ... ... ... ... ... ... ... ... ... ... ...(podpis kontrolowanego lub osoby przez niego upoważnionej**))... ...(podpisy kontrolujących)... Ciąg dalszy protokołu oględzin z dnia ..., nr akt kontroli ..., karta nr ... Załączniki do protokołu oględzin: ... ... ... Omówienie poprawek: ... ... ... ... ... ... Na tym protokół oględzin zakończono i podpisano w dniu ... r. Protokół oględzin sporządzono w dwóch jednobrzmiących egzemplarzach. Kontrolowany lub osoba przez niego upoważniona albo pracownik lub świadek odmówił/odmówiła*) podpisania protokołu oględzin z powodu: ... ... ... ... ... ...(podpis kontrolowanego lub osoby przez niego upoważnionej**))... ...(podpisy kontrolujących)... Potwierdzam odbiór 1 egz. protokołu oględzin ... ...(podpis kontrolowanego lub osoby przez niego upoważnionej**)) *) Niepotrzebne skreślić. **) W przypadku nieobecności kontrolowanego lub osoby przez niego upoważnionej – podpis pracownika lub świadka.
 

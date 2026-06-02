@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 5 stycznia 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji do wykonywania zawodu przewodnika górskiego
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 5 stycznia 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji do wykonywania zawodu przewodnika górskiego Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 1911).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-05 |
 | Data wydania | 2017-01-17 |
-| Wejście w życie | 2017-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/113/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354, z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad jego odbywaniem oraz oceny nabytych w jego trakcie umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za jego odbywanie,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie
-w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu przewodnika górskiego w Rzeczypospolitej Polskiej, zwanego dalej „postępowaniem”, nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie – w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu przewodnika górskiego w Rzeczypospolitej Polskiej, zwanego dalej „postępowaniem”, nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
 § 2.
 1.
 Organem właściwym do prowadzenia postępowania jest minister właściwy do spraw turystyki, zwany dalej „organem prowadzącym postępowanie”.
@@ -68,6 +67,7 @@ Organ prowadzący postępowanie przekazuje postanowienie i wniosek, wraz z kopi�
 opiekuna;
 2)
 zespołu przygotowującego i przeprowadzającego test umiejętności, o którym mowa w § 3 ust. 2 pkt 2.
+Staż adaptacyjny
 § 5.
 1.
 Wnioskodawca dołącza do wniosku o odbycie stażu adaptacyjnego, zwanego dalej „stażem”, zobowiązanie opiekuna do zorganizowania i przeprowadzenia stażu dla wnioskodawcy.
@@ -158,6 +158,7 @@ tygodniowy wykaz czynności wykonywanych przez wnioskodawcę;
 okresowe oceny, przygotowane w oparciu o informacje, o których mowa w ust. 1.
 § 12.
 Opiekun przedstawia organowi prowadzącemu postępowanie dziennik stażu wraz z końcową oceną nabytych w trakcie stażu umiejętności wnioskodawcy w terminie 5 dni roboczych od dnia zakończenia stażu.
+Test umiejętności
 § 13.
 1.
 Test umiejętności, zwany dalej „testem”, jest realizowany na podstawie zakresu ustalonego przez organ prowadzący postępowanie w postanowieniu, wydanym na podstawie art. 20 ust. 1 ustawy, zgodnie z zakresem zagadnień niezbędnych dla danego rodzaju uprawnień przewodnika górskiego, o którym mowa w art. 34 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych.
@@ -253,21 +254,28 @@ Do przygotowania i przeprowadzenia oraz ponownego przystąpienia do testu w rama
 1)
 świadczenia usług transgranicznych przewodnika górskiego w Rzeczypospolitej Polskiej, w przypadku, o którym mowa w art. 34 ust. 4 ustawy,
 2)
-ubiegania się o Europejską Legitymację Zawodową dla przewodnika górskiego, w przypadku, o którym mowa w art. 45 ust. 2 pkt 2 lit. b ustawy
-przepisy § 13, § 14 ust. 2–4, § 15 ust. 1–3 i 5–7 oraz § 17–19 stosuje się odpowiednio.
+ubiegania się o Europejską Legitymację Zawodową dla przewodnika górskiego, w przypadku, o którym mowa w art. 45 ust. 2 pkt 2 lit. b ustawy – przepisy § 13, § 14 ust. 2–4, § 15 ust. 1–3 i 5–7 oraz § 17–19 stosuje się odpowiednio.
+Przepis końcowy
 § 22.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 1911). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354, z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 22 stycznia 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności przeprowadzanych w toku postępowania o uznanie kwalifikacji do wykonywania zawodu przewodnika górskiego (Dz. U. z 2016 r. poz. 12), które utraciło moc na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 22 stycznia 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności przeprowadzanych w toku postępowania o uznanie kwalifikacji do wykonywania zawodu przewodnika górskiego (Dz. U. z 2016 r. poz. 12), które utraciło moc na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 1911). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354, z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu i Turystyki z dnia 22 stycznia 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności przeprowadzanych w toku postępowania o uznanie kwalifikacji do wykonywania zawodu przewodnika górskiego (Dz. U. z 2016 r. poz. 12), które utraciło moc na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
+
+#### Rozdział 4 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ## Część teoretyczna testu przeprowadzana w formie pisemnej na każdy obszar górski z osobna trwa 120 minut i składa się z 30 pytań, w tym nie więcej niż 3 pytań o charakterze opisowym. Każde z pytań niemające charakteru opisowego zawiera nie mniej niż trzy możliwości odpowiedzi, z których tylko jedna może być prawidłowa.
 
 ## Część teoretyczna testu odbywa się stacjonarnie, w województwie właściwym dla obszaru uprawnień. Część praktyczna testu odbywa się na obszarze uprawnień, o które ubiega się wnioskodawca.
 
-#### Rozdział 4 Przepis końcowy
+#### Rozdział 4
 

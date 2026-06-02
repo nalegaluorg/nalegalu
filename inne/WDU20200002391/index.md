@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-27 |
 | Data wydania | 2020-12-29 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002391) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2391/text.pdf) |
 
@@ -30,8 +29,11 @@ source: "eli-html"
 
 - **1)** w art. 2 pkt 3 otrzymuje brzmienie: „
 - **3)** okres podczas zawodów – okres rozpoczynający się o godzinie 23.59 w dniu poprzedzającym zawody rozumiane jako pojedynczy wyścig, gra lub konkurencja sportowa, w której zawodnik ma uczestniczyć, trwający do ich zakończenia, o ile przepisy właściwej międzynarodowej organizacji sportowej lub organizatora zawodów nie stanowią inaczej, obejmujący również okres kontroli antydopingowej związanej z zawodami. ” ;
-- **2)** w art. 3: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) unikanie pobrania próbki fizjologicznej, niewyrażenie zgody na pobranie próbki fizjologicznej lub niezgłoszenie się na to pobranie bez ważnego uzasadnienia, po uprzednim powiadomieniu zawodnika o wytypowaniu do pobrania próbki fizjologicznej przez osobę upoważnioną do jej pobrania; ” , – w pkt 10 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „ 11) poza manipulowaniem lub usiłowaniem manipulowania, o którym mowa w pkt 5, działanie zawodnika lub innej osoby zmierzające do zniechęcenia osoby zgłaszającej naruszenie przepisów antydopingowych lub grożenie osobie zgłaszającej naruszenie przepisów antydopingowych. ” , ust. 2 otrzymuje brzmienie: „
+- **2)** w art. 3: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** unikanie pobrania próbki fizjologicznej, niewyrażenie zgody na pobranie próbki fizjologicznej lub niezgłoszenie się na to pobranie bez ważnego uzasadnienia, po uprzednim powiadomieniu zawodnika o wytypowaniu do pobrania próbki fizjologicznej przez osobę upoważnioną do jej pobrania; ” , w pkt 10 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
+- **11)** poza manipulowaniem lub usiłowaniem manipulowania, o którym mowa w pkt 5, działanie zawodnika lub innej osoby zmierzające do zniechęcenia osoby zgłaszającej naruszenie przepisów antydopingowych lub grożenie osobie zgłaszającej naruszenie przepisów antydopingowych. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Współpracę, o której mowa w ust. 1 pkt 10, uznaje się za doping w sporcie, jeżeli zawodnik lub inna osoba podejmująca tę współpracę nie przedstawi dowodów potwierdzających, że współpraca z osobą o statusie osoby pomagającej w przygotowaniu do współzawodnictwa sportowego nie była związana ze sportem, z wykonywaniem pracy zawodowej lub że nie można było tej współpracy uniknąć. ” ;

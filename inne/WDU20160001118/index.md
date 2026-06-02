@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-06 |
 | Data wydania | 2016-07-27 |
-| Wejście w życie | 2016-08-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1118/text.pdf) |
 
@@ -137,7 +136,7 @@ W ewidencji uwzględnia się charakter objętych nią praw stosownie do zapisów
 3.
 Jako wartość ewidencyjną mienia ujętego w dziale, o którym mowa w ust. 1, przyjmuje się wartość wskazaną w protokole zdawczo-odbiorczym lub w innym dokumencie stanowiącym podstawę nabycia.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 8 marca 2005 r. w sprawie prowadzenia ewidencji mienia Agencji Mienia Wojskowego (Dz. U. poz. 426), które na podstawie art. 136 ust. 3 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 8 marca 2005 r. w sprawie prowadzenia ewidencji mienia Agencji Mienia Wojskowego (Dz. U. poz. 426), które na podstawie art. 136 ust. 3 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 # Księga ewidencyjna może być prowadzona z wykorzystaniem systemu teleinformatycznego albo w postaci papie§5. 1. Księgę ewidencyjną mienia prowadzi się w podziale na:
 

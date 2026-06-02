@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-23 |
 | Data wydania | 2013-05-29 |
-| Wejście w życie | 2013-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000622) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/622/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 8 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 8 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 30 marca 2011 r. w sprawie wyłączenia niektórych rodzajów porozumień wertykalnych spod zakazu porozumień ograniczających konkurencję (Dz. U. Nr 81, poz. 441) wprowadza się następujące zmiany:
 1)
-w § 3 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16–20 w brzmieniu:
-„
+w § 3 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16–20 w brzmieniu: „
 16)
 usługi serwisowe – usługi polegające na naprawie lub przeglądzie pojazdów samochodowych;
 17)
@@ -42,11 +40,9 @@ warsztat – przedsiębiorcę świadczącego usługi serwisowe;
 19)
 autoryzowany warsztat – warsztat działający w ramach systemu dystrybucji stworzonego przez dostawcę;
 20)
-niezależny warsztat – warsztat, który nie działa w ramach systemu dystrybucji stworzonego przez dostawcę, dla którego świadczy usługi serwisowe; autoryzowany warsztat działający w ramach systemu dystrybucji danego dostawcy uważa się za niezależny warsztat w takim zakresie, w jakim świadczy on usługi serwisowe dotyczące pojazdów samochodowych nieobjętych systemem dystrybucji tego dostawcy.
-” ;
+niezależny warsztat – warsztat, który nie działa w ramach systemu dystrybucji stworzonego przez dostawcę, dla którego świadczy usługi serwisowe; autoryzowany warsztat działający w ramach systemu dystrybucji danego dostawcy uważa się za niezależny warsztat w takim zakresie, w jakim świadczy on usługi serwisowe dotyczące pojazdów samochodowych nieobjętych systemem dystrybucji tego dostawcy. ” ;
 2)
-po § 11 dodaje się § 11a w brzmieniu:
-„
+po § 11 dodaje się § 11a w brzmieniu: „
 § 11a.
 1.
 Wyłączeniu nie podlegają porozumienia wertykalne w sektorze pojazdów samochodowych, które bezpośrednio lub pośrednio, samodzielnie lub w powiązaniu z innymi okolicznościami zależnymi od stron tych porozumień mają na celu:
@@ -57,8 +53,7 @@ uzgodnione – między dostawcą części zamiennych do pojazdów samochodowych,
 3)
 uzgodnione – między producentem pojazdów samochodowych, wykorzystującym komponenty do montażu pojazdów samochodowych, oraz dostawcą takich komponentów – ograniczenie uprawnienia dostawcy do efektywnego umieszczania swojego znaku towarowego lub swojego logo w widocznym miejscu na dostarczanych komponentach lub na częściach zamiennych do pojazdów samochodowych.
 2.
-Przez części zamienne do pojazdów samochodowych, o których mowa w ust. 1, rozumie się towary do zainstalowania w/lub na pojeździe samochodowym, w celu zastąpienia komponentów tego pojazdu, oraz substancje, które są konieczne do funkcjonowania pojazdu samochodowego, takie jak środki smarne i płyny eksploatacyjne, z wyłączeniem paliw.
-” .
+Przez części zamienne do pojazdów samochodowych, o których mowa w ust. 1, rozumie się towary do zainstalowania w/lub na pojeździe samochodowym, w celu zastąpienia komponentów tego pojazdu, oraz substancje, które są konieczne do funkcjonowania pojazdu samochodowego, takie jak środki smarne i płyny eksploatacyjne, z wyłączeniem paliw. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2013 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173.
 

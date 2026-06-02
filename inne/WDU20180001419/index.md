@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 13 lipca 2018 r. w sprawie udzielania pomocy publicznej na działalność kulturalną w ramach Programu „Kultura” finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego na lata 2014–2021
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 13 lipca 2018 r. w sprawie udzielania pomocy publicznej na działalność kulturalną w ramach Programu „Kultura” finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego na lata 2014–2021 Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-13 |
 | Data wydania | 2018-07-24 |
-| Wejście w życie | 2018-08-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001419) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1419/text.pdf) |
 
@@ -31,7 +30,7 @@ Na podstawie art. 28a ust. 2 pkt 1 ustawy z dnia 25 października 1991 r. o orga
 § 1.
 Rozporządzenie określa warunki i tryb udzielania przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „ministrem”, pomocy publicznej na działalność kulturalną w ramach Programu „Kultura” finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego na lata 2014–2021, zwanego dalej „Programem”.
 § 2.
-Pomoc publiczna jest udzielana na projekty realizowane w ramach Programu, zwane dalej „projektami”, spełniające warunki określone w art. 53 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
+Pomoc publiczna jest udzielana na projekty realizowane w ramach Programu, zwane dalej „projektami”, spełniające warunki określone w art. 53 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28., zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
 § 3.
 Pomoc publiczna może być udzielana podmiotom określonym w Programie, o ile te podmioty stanowią przedsiębiorstwa w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014.
 § 4.
@@ -99,6 +98,5 @@ dane kontaktowe do kierowania dodatkowych pytań.
 § 13.
 Pomoc publiczna może być udzielana do końca okresu stosowania rozporządzenia Komisji (UE) nr 651/2014.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
 

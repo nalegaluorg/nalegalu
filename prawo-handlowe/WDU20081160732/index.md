@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-05-30 |
 | Data wydania | 2008-07-02 |
-| Wejście w życie | 2008-07-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081160732) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/732/text.pdf) |
 
@@ -32,11 +31,14 @@ source: "eli-html"
 
 2. Ilekroć w ustawie jest mowa o mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy, należy przez to rozumieć odpowiednio mikroprzedsiębiorcę, małego lub średniego przedsiębiorcę spełniającego warunki określone w załączniku I do rozporządzenia Komisji (WE) nr 70/2001 z dnia 12 stycznia 2001 r. w sprawie stosowania art. 87 i 88 TWE o pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10 z 13.01.2001, str. 33, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 2, str. 141, z późn. zm.). ” ;
 
-- **2)** w art. 4: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) przedsiębiorców, w szczególności mikroprzedsiębiorców, małych i średnich przedsiębiorców oraz osób zamierzających podjąć działalność gospodarczą; ” , – po pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) rozwoju potencjału adaptacyjnego przedsiębiorców. ” , ust. 1a otrzymuje brzmienie: „
+- **2)** w art. 4: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** przedsiębiorców, w szczególności mikroprzedsiębiorców, małych i średnich przedsiębiorców oraz osób zamierzających podjąć działalność gospodarczą; ” , po pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** rozwoju potencjału adaptacyjnego przedsiębiorców. ” , ust. 1a otrzymuje brzmienie: „
     - **b)**
 
-1a. Agencja uczestniczy w realizacji programów operacyjnych, o których mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z późn. zm.) oraz w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. Nr 227, poz. 1658 oraz z 2007 r. Nr 140, poz. 984):
+1a. Agencja uczestniczy w realizacji programów operacyjnych, o których mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251 oraz z 2006 r. Nr 149, poz. 1074 i Nr 249, poz. 1832.) oraz w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. Nr 227, poz. 1658 oraz z 2007 r. Nr 140, poz. 984):
 
 - **1)** jako instytucja wdrażająca (instytucja pośrednicząca II stopnia) albo pośrednicząca, udzielająca pomocy finansowej beneficjentom określonym w art. 6b ust. 1 lub
 - **2)** jako beneficjant. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
@@ -48,12 +50,30 @@ source: "eli-html"
 - **2)** analizowanie administracyjnych, prawnych i finansowych barier rozwoju mikroprzedsiębiorców, małych i średnich przedsiębiorców;
 - **3)** opracowywanie corocznych raportów w zakresie określonym w pkt 2 i ich rozpowszechnianie, w tym przez zamieszczanie na stronie internetowej;
 - **4)** gromadzenie i udostępnianie informacji o programach pomocowych w rozumieniu przepisów o postępowaniu w sprawach dotyczących pomocy publicznej. ” ;
-- **3)** w art. 6: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) świadczenie usług doradczych; ” , – pkt 5 otrzymuje brzmienie: „ 5) gromadzenie i udostępnianie informacji istotnych dla bezrobotnych oraz podmiotów, o których mowa w art. 6b ust. 1; ” , – pkt 10 otrzymuje brzmienie: „ 10) udzielanie pomocy finansowej przeznaczonej na: a) wspomaganie działań określonych w pkt 1–6 i 11, prowadzonych przez inne podmioty, b) wspomaganie inwestycji przedsiębiorców, w szczególności sprzyjających wzrostowi ich konkurencyjności lub innowacyjności, c) działania określone w art. 6b ust. 5, d) wzmacnianie potencjału podmiotów działających na rzecz rozwoju gospodarczego, innowacyjności, zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorców, e) uzyskanie ochrony i realizację ochrony prawa własności przemysłowej, f) realizację przedsięwzięć w zakresie rozwoju infrastruktury technicznej; ” , uchyla się ust. 2;
+- **3)** w art. 6: w ust. 1: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** świadczenie usług doradczych; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** gromadzenie i udostępnianie informacji istotnych dla bezrobotnych oraz podmiotów, o których mowa w art. 6b ust. 1; ” , pkt 10 otrzymuje brzmienie: „
+- **10)** udzielanie pomocy finansowej przeznaczonej na: wspomaganie działań określonych w pkt 1–6 i 11, prowadzonych przez inne podmioty, wspomaganie inwestycji przedsiębiorców, w szczególności sprzyjających wzrostowi ich konkurencyjności lub innowacyjności, działania określone w art. 6b ust. 5, wzmacnianie potencjału podmiotów działających na rzecz rozwoju gospodarczego, innowacyjności, zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorców, uzyskanie ochrony i realizację ochrony prawa własności przemysłowej, realizację przedsięwzięć w zakresie rozwoju infrastruktury technicznej; ” , uchyla się ust. 2;
     - **a)**
     - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **b)**
 
-- **4)** w art. 6b: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) przedsiębiorcom, pracownikom przedsiębiorców i osobom zamierzającym podjąć działalność gospodarczą; ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) podmiotom działającym na rzecz zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorców; 4) jednostkom samorządu terytorialnego oraz ich związkom; ” , – po pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6–9 w brzmieniu: „ 6) partnerom społecznym i gospodarczym w rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju; 7) organizacjom pracodawców i organizacjom związkowym reprezentatywnym w rozumieniu przepisów ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.); 8) jednostkom naukowym w rozumieniu art. 2 pkt 9 ustawy z dnia 8 października 2004 r. o zasadach finansowania nauki (Dz. U. Nr 238, poz. 2390, z późn. zm.); 9) stowarzyszeniom z udziałem jednostek samorządu terytorialnego. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **4)** w art. 6b: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** przedsiębiorcom, pracownikom przedsiębiorców i osobom zamierzającym podjąć działalność gospodarczą; ” , pkt 3 i 4 otrzymują brzmienie: „
+- **3)** podmiotom działającym na rzecz zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorców;
+- **4)** jednostkom samorządu terytorialnego oraz ich związkom; ” , po pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6–9 w brzmieniu: „
+- **6)** partnerom społecznym i gospodarczym w rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju;
+- **7)** organizacjom pracodawców i organizacjom związkowym reprezentatywnym w rozumieniu przepisów ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407.);
+- **8)** jednostkom naukowym w rozumieniu art. 2 pkt 9 ustawy z dnia 8 października 2004 r. o zasadach finansowania nauki (Dz. U. Nr 238, poz. 2390, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 85, poz. 727 i Nr 179, poz. 1484, z 2007 r. Nr 115, poz. 795 oraz z 2008 r. Nr 116, poz. 730.);
+- **9)** stowarzyszeniom z udziałem jednostek samorządu terytorialnego. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Przez podmiot działający na rzecz zatrudnienia, rozwoju zasobów ludzkich lub potencjału adaptacyjnego przedsiębiorców rozumie się w szczególności:
@@ -79,7 +99,7 @@ source: "eli-html"
 - **1)** udziela pożyczek, zwanego dalej „funduszem pożyczkowym”, lub
 - **2)** udziela poręczeń, zwanego dalej „funduszem poręczeniowym”, lub
 - **3)** obejmuje akcje lub udziały w spółkach będących przedsiębiorcami we wczesnej fazie rozwoju, zwanego dalej „funduszem kapitału zalążkowego”, lub
-- **4)** dokonuje inwestycji w spółki będące mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami, zwanego dalej „funduszem kapitału podwyższonego ryzyka” uznaje się za wykorzystane w kwocie faktycznie wykorzystanej przez podmiot zgodnie z umową o udzielenie wsparcia, odpowiednio na udzielenie pożyczek, udzielenie poręczeń, objęcie akcji lub udziałów, bądź dokonywanie inwestycji.
+- **4)** dokonuje inwestycji w spółki będące mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami, zwanego dalej „funduszem kapitału podwyższonego ryzyka” – uznaje się za wykorzystane w kwocie faktycznie wykorzystanej przez podmiot zgodnie z umową o udzielenie wsparcia, odpowiednio na udzielenie pożyczek, udzielenie poręczeń, objęcie akcji lub udziałów, bądź dokonywanie inwestycji.
 
 6. Wykorzystanie wsparcia, o którym mowa w ust. 5, powinno nastąpić w ciągu okresu ustalonego w umowie o udzielenie wsparcia, nie dłuższego niż 5 lat licząc od dnia przekazania kwoty wsparcia podmiotowi, o którym mowa w ust. 1 pkt 1–3 i 5. Z upływem tego okresu podmiot zwraca Agencji niewykorzystaną kwotę wsparcia wraz z odsetkami wynikającymi z przechowywania tej kwoty na rachunku bankowym.
 
@@ -122,7 +142,7 @@ source: "eli-html"
 - **10)** w art. 14: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Agencja działa zgodnie z rocznym planem działania oraz planem finansowym, o którym mowa w ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.). ” , uchyla się ust. 1a, ust. 3 i 4 otrzymują brzmienie: „
+1. Agencja działa zgodnie z rocznym planem działania oraz planem finansowym, o którym mowa w ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984.). ” , uchyla się ust. 1a, ust. 3 i 4 otrzymują brzmienie: „
 
 - **b)**
 - **c)**
@@ -191,7 +211,7 @@ source: "eli-html"
 - **2)** kwotę należności lub wierzytelności, z wyodrębnieniem odsetek,
 - **3)** podanie przyczyny ubiegania się o umorzenie całości lub części zadłużenia, odroczenia lub rozłożenia na raty jego spłaty,
 - **4)** informację o aktualnej sytuacji majątkowej dłużnika,
-- **5)** informację, czy wnioskodawcy już umarzano należność lub wierzytelność Agencji, odraczano lub rozkładano na raty ich spłatę z zastrzeżeniem ust. 2.
+- **5)** informację, czy wnioskodawcy już umarzano należność lub wierzytelność Agencji, odraczano lub rozkładano na raty ich spłatę – z zastrzeżeniem ust. 2.
 
 2. Wniosek o odroczenie, rozłożenie na raty spłaty lub częściowe umorzenie, oprócz elementów określonych w ust. 1, powinien zawierać także:
 
@@ -217,5 +237,5 @@ source: "eli-html"
 
 **Art. 3.** Do działań i projektów realizowanych w ramach Sektorowego Programu Operacyjnego Wzrost Konkurencyjności Przedsiębiorstw, lata 2004–2006 oraz umów o akredytację, zawartych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 6c ustawy, o której mowa w art. 1, w dotychczasowym brzmieniu.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251 oraz z 2006 r. Nr 149, poz. 1074 i Nr 249, poz. 1832. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 85, poz. 727 i Nr 179, poz. 1484, z 2007 r. Nr 115, poz. 795 oraz z 2008 r. Nr 116, poz. 730. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984.
 

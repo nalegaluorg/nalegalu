@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 18 stycznia 2013 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety
+# Rozporządzenie Ministra Zdrowiaz dnia 18 stycznia 2013 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety Niniejsze rozporządzenie wykonuje postanowienia rozporządzenia Komisji (UE) nr 1161/2011 z dnia 14 listopada 2011 r. zmieniającego dyrektywę 2002/46/WE Parlamentu Europejskiego i Rady, rozporządzenie (WE) nr 1925/2006 Parlamentu Europejskiego i Rady oraz rozporządzenie Komisji (WE) nr 953/2009 w odniesieniu do wykazów składników mineralnych, które można dodawać do żywności (Dz. Urz. UE L 296 z 15.11.2011, str. 29) w zakresie zmiany dyrektywy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-18 |
 | Data wydania | 2013-01-29 |
-| Wejście w życie | 2013-02-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000138) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/138/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz form chemicznych witamin i składników mineralnych, które mogą być stosowane w produkcji suplementów diety
 Treść rozporządzenia
-Na podstawie art. 27 ust. 6 i 7 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 6 i 7 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511 oraz z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 9 października 2007 r. w sprawie składu oraz oznakowania suplementów diety (Dz. U. Nr 196, poz. 1425 oraz z 2010 r. Nr 91, poz. 596) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie wykonuje postanowienia rozporządzenia Komisji (UE) nr 1161/2011 z dnia 14 listopada 2011 r. zmieniającego dyrektywę 2002/46/WE Parlamentu Europejskiego i Rady, rozporządzenie (WE) nr 1925/2006 Parlamentu Europejskiego i Rady oraz rozporządzenie Komisji (WE) nr 953/2009 w odniesieniu do wykazów składników mineralnych, które można dodawać do żywności (Dz. Urz. UE L 296 z 15.11.2011, str. 29) w zakresie zmiany dyrektywy. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511 oraz z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016.
 Załącznik – Wykaz form chemicznych witamin i składników mineralnych, które mogą być stosowane w produkcji suplementów diety
 1.
 Witaminy:
@@ -434,8 +433,7 @@ kwas ortokrzemowy stabilizowany choliną;
 139)
 ditlenek krzemu;
 140)
-kwas krzemowy6).
-Objaśnienia: 1) Alfa-tokoferol < 20%, beta-tokoferol < 10%, gamma-tokoferol 50–70% oraz delta-tokoferol 10–30%. 2) Typowe poziomy poszczególnych tokoferoli i tokotrienoli:
+kwas krzemowy6). Objaśnienia: 1) Alfa-tokoferol < 20%, beta-tokoferol < 10%, gamma-tokoferol 50–70% oraz delta-tokoferol 10–30%. 2) Typowe poziomy poszczególnych tokoferoli i tokotrienoli:
 – 115 mg/g alfa-tokoferolu (co najmniej 101 mg/g),
 – 5 mg/g beta-tokoferolu (co najmniej < 1 mg/g),
 – 45 mg/g gamma-tokoferolu (co najmniej 25 mg/g),

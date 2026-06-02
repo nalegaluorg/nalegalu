@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-13 |
 | Data wydania | 2016-06-27 |
-| Wejście w życie | 2016-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000910) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/910/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868.) wprowadza się następujące zmiany:
 
 - **1)** w art. 29 § 2 otrzymuje brzmienie: „
 
@@ -43,5 +42,5 @@ source: "eli-html"
 - **4)** w art. 281 pkt 2 otrzymuje brzmienie: „
 - **2)** nie potwierdza na piśmie zawartej z pracownikiem umowy o pracę przed dopuszczeniem go do pracy, ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 września 2016 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 września 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662, z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735 oraz z 2016 r. poz. 868.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 29 grudnia 2023 r. w sprawie wysokości wpłaty lotniczej w 2024 r.
+# Rozporządzenie Ministra Infrastrukturyz dnia 29 grudnia 2023 r. w sprawie wysokości wpłaty lotniczej w 2024 r. Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-12-29 |
 | Data wydania | 2024-01-03 |
-| Wejście w życie | 2024-01-04 |
 | Ostatnia zmiana | 2026-02-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000006) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/6/text.pdf) |
 
@@ -33,6 +32,5 @@ Rozporządzenie określa wysokość wpłaty z tytułu kosztów realizowania prze
 § 2.
 Wysokość wpłaty lotniczej na rok 2024 wynosi 14 835 436 zł.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 

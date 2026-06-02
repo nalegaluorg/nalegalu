@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 6 października 2016 r. w sprawie zatwierdzania metody wyznaczania składek na obowiązkowy system gwarantowania depozytów w spółdzielczych kasach oszczędnościowo-kredytowych oraz jej udostępniania
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 6 października 2016 r. w sprawie zatwierdzania metody wyznaczania składek na obowiązkowy system gwarantowania depozytów w spółdzielczych kasach oszczędnościowo-kredytowych oraz jej udostępniania Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-06 |
 | Data wydania | 2016-10-14 |
-| Wejście w życie | 2016-10-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001689) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1689/text.pdf) |
 
@@ -48,8 +47,7 @@ Dokonane przez Fundusz zmiany w metodzie wyznaczania składek polegające na:
 1)
 zmianie definicji wskaźników ryzyka, o ile wynikają one ze zmian sprawozdawczości kas,
 2)
-zmianie granic dla ocen wskaźników ryzyka w przypadku zmiany norm nadzorczych, na których opierają się te wskaźniki
-nie wymagają zatwierdzenia przez Komisję.
+zmianie granic dla ocen wskaźników ryzyka w przypadku zmiany norm nadzorczych, na których opierają się te wskaźniki – nie wymagają zatwierdzenia przez Komisję.
 § 5.
 1.
 Fundusz zamieszcza na swojej stronie internetowej informację zawierającą opis metody wyznaczania składek zatwierdzonej przez Komisję, algorytm ich obliczania oraz parametry niezbędne do obliczenia składki, w tym:
@@ -66,6 +64,5 @@ Fundusz niezwłocznie zamieszcza informacje, o których mowa w ust. 1, również
 3.
 Fundusz, na wniosek kasy, informuje kasę o jej profilu ryzyka określonym na podstawie zastosowanej metody wyznaczania składki, w tym o ocenie wskaźników branych pod uwagę przy wyznaczeniu tego profilu i o całkowitej wadze ryzyka.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

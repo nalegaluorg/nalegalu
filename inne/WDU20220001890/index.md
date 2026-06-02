@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-31 |
 | Data wydania | 2022-09-07 |
-| Wejście w życie | 2022-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001890) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1890/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich z ośrodków Rozdział 3 – Szczegółowe warunki pobytu nieletnich w ośrodku Rozdział 4 – Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 211 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -47,6 +47,8 @@ ustawie – rozumie się przez to ustawę z dnia 9 czerwca 2022 r. o wspieraniu 
 ośrodku – rozumie się przez to okręgowy ośrodek wychowawczy;
 4)
 terenie ośrodka – rozumie się przez to teren, który ogranicza zewnętrzna linia ogrodzenia ochronnego lub innego oznaczenia granic okręgowego ośrodka wychowawczego.
+Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich z ośrodków
+Środek wychowawczy
 § 3.
 1.
 Niezwłocznie po uprawomocnieniu się orzeczenia o zastosowaniu wobec nieletniego środka wychowawczego w postaci umieszczenia nieletniego w ośrodku sędzia przesyła do Ministerstwa Sprawiedliwości pisemny wniosek o skierowanie nieletniego do ośrodka, do którego dołącza:
@@ -147,6 +149,7 @@ Ministerstwo Sprawiedliwości;
 rodziców albo tego z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekuna nieletniego.
 3.
 Ponowne umieszczenie w ośrodku nieletniego skreślonego z ewidencji ośrodka z przyczyn, o których mowa w ust. 1 pkt 3 i 4, wymaga zwrócenia się do Ministerstwa Sprawiedliwości z wnioskiem o skierowanie do ośrodka. Do czasu wydania skierowania nieletniego umieszcza się w ośrodku, z którego ewidencji został skreślony.
+Środek tymczasowy
 § 13.
 1.
 Niezwłocznie po wydaniu orzeczenia o zastosowaniu wobec nieletniego środka tymczasowego, o którym mowa w art. 44 pkt 6 ustawy, sędzia przesyła do Ministerstwa Sprawiedliwości pisemny wniosek o skierowanie nieletniego do ośrodka, do którego dołącza odpis orzeczenia o zastosowaniu wobec nieletniego środka tymczasowego, o którym mowa w art. 44 pkt 6 ustawy.
@@ -236,6 +239,8 @@ Ministerstwo Sprawiedliwości;
 rodziców albo tego z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekuna nieletniego.
 § 23.
 Przepisy § 4, § 5 ust. 2, § 6 ust. 2, § 7, § 8 i § 10 stosuje się odpowiednio.
+Szczegółowe warunki pobytu nieletnich w ośrodku
+Środek wychowawczy
 § 24.
 1.
 W ośrodku prowadzi się proces resocjalizacji nieletniego w oparciu o indywidualną diagnozę i indywidualny plan oddziaływań wychowawczych, resocjalizacyjnych i terapeutycznych, opracowany przez pedagoga i psychologa z udziałem nieletniego i innych pracowników zakładu.
@@ -285,6 +290,7 @@ Osoba doręczająca paczkę nieletniemu sporządza w jego obecności spis jej za
 Przed udzieleniem urlopu opracowuje się program pobytu nieletniego na urlopie.
 2.
 Pracownik pedagogiczny po powrocie nieletniego z urlopu sprawdza jego zachowanie podczas urlopu i sporządza stosowną informację do akt osobowych.
+Środek tymczasowy
 § 30.
 1.
 W ośrodku prowadzi się oddziaływania wychowawcze ukierunkowane na rozpoczęcie procesu resocjalizacji.
@@ -294,6 +300,7 @@ W procesie resocjalizacji uwzględnia się udzielanie nieletniemu pomocy psychol
 Ośrodek informuje rodziców albo tego z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekuna nieletniego o zachowaniu nieletniego.
 § 32.
 Przepisy § 24–27 i § 29 stosuje się odpowiednio.
+Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych
 § 33.
 1.
 Dyrektor ośrodka niezwłocznie zawiera z duchownym kościoła lub innego związku wyznaniowego, do którego nieletni należy, umowę w celu zapewnienia nieletniemu wykonywania praktyk religijnych i korzystania z posług religijnych podczas pobytu w ośrodku.
@@ -310,24 +317,35 @@ ochrony danych osobowych.
 Dyrektor ośrodka może cofnąć duchownemu lub osobom go zastępującym prawo wstępu na teren ośrodka w przypadku rażącego naruszenia przez nich przepisów, o których mowa w ust. 1, powiadamiając o tym właściwe władze kościołów lub innych związków wyznaniowych.
 § 35.
 Dyrektor ośrodka podejmuje niezbędne czynności w celu zapewnienia odpowiednich warunków do wykonywania praktyk religijnych i posług religijnych oraz korzystania z tych posług, a także zasięga opinii duchownego w sprawie organizacji posług religijnych.
+Przepis końcowy
 § 36.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich z ośrodków
+#### Rozdział 2 – Szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich z ośrodków
 
-##### Oddział 1 Środek wychowawczy
+#### Rozdział 3 – Szczegółowe warunki pobytu nieletnich w ośrodku
 
-##### Oddział 2 Środek tymczasowy
+#### Rozdział 4 – Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych
 
-#### Rozdział 3 Szczegółowe warunki pobytu nieletnich w ośrodku
+#### Rozdział 5 – Przepis końcowy
 
-##### Oddział 1 Środek wychowawczy
+#### Rozdział 1
 
-##### Oddział 2 Środek tymczasowy
+#### Rozdział 2
 
-#### Rozdział 4 Uczestniczenie przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych
+##### Oddział 1
 
-#### Rozdział 5 Przepis końcowy
+##### Oddział 2
+
+#### Rozdział 3
+
+##### Oddział 1
+
+##### Oddział 2
+
+#### Rozdział 4
+
+#### Rozdział 5
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 23 listopada 2016 r. w sprawie udzielania pomocy publicznej na projekty inwestycyjne w zakresie budowy lub przebudowy jednostek wytwarzających energię z odnawialnych źródeł energii w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014–2020
+# Rozporządzenie Ministra Energiiz dnia 23 listopada 2016 r. w sprawie udzielania pomocy publicznej na projekty inwestycyjne w zakresie budowy lub przebudowy jednostek wytwarzających energię z odnawialnych źródeł energii w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014–2020 Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-23 |
 | Data wydania | 2016-12-01 |
-| Wejście w życie | 2016-12-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001941) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1941/text.pdf) |
 
@@ -32,7 +31,7 @@ Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014–2020, pomocy publicznej na projekty inwestycyjne w zakresie budowy lub przebudowy jednostek wytwarzających energię z odnawialnych źródeł energii, zwanej dalej „pomocą”, a także podmiot udzielający tej pomocy.
 § 2.
 1.
-Przepisy rozporządzenia stosuje się do pomocy, o której mowa w art. 41 ust. 5 zdanie pierwsze rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”.
+Przepisy rozporządzenia stosuje się do pomocy, o której mowa w art. 41 ust. 5 zdanie pierwsze rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10.), zwanego dalej „rozporządzeniem nr 651/2014”.
 2.
 Przepisów rozporządzenia nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. a, c i d, ust. 4 lit. c i ust. 5 oraz w przypadkach, o których mowa w art. 41 ust. 2–4 i ust. 5 zdanie drugie rozporządzenia nr 651/2014.
 § 3.
@@ -82,7 +81,7 @@ sprzęt i wyposażenie;
 6)
 wartości niematerialne i prawne;
 7)
-podatek od towarów i usług, jeżeli przedsiębiorca nie ma możliwości obniżenia kwoty podatku należnego o kwotę podatku naliczonego, w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm.);
+podatek od towarów i usług, jeżeli przedsiębiorca nie ma możliwości obniżenia kwoty podatku należnego o kwotę podatku naliczonego, w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 960, 1052, 1206, 1228 i 1579.);
 8)
 inne opłaty i obciążenia bezpośrednio związane z realizacją projektu inwestycyjnego, z wyłączeniem kosztów poniesionych na działania informacyjne i promocyjne.
 4.
@@ -120,6 +119,5 @@ Po przeprowadzeniu oceny wniosku pomoc może zostać udzielona przedsiębiorcy n
 § 14.
 Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku z art. 59 rozporządzenia nr 651/2014.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 960, 1052, 1206, 1228 i 1579.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 oraz Dz. Urz. UE L 149 z 07.06.2016, str. 10. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 960, 1052, 1206, 1228 i 1579.
 

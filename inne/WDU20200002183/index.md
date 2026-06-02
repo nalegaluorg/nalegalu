@@ -26,19 +26,30 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2183/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie restrukturyzacyjne Rozdział 3 – Premia podatkowa Rozdział 4 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców (Dz. U. z 2017 r. poz. 2042), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 listopada 2020 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), który stanowi: „
+Przepisy ogólne
+Postępowanie restrukturyzacyjne
+Premia podatkowa
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 Art. 26–28.
 (pominięte)
 
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Postępowanie restrukturyzacyjne
+
+#### Rozdział 3 – Premia podatkowa
+
+#### Rozdział 4 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
 **Art. 114.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -52,7 +63,7 @@ Art. 26–28.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
-- **1)** przedsiębiorcy – rozumie się przez to przedsiębiorcę określonego w art. 2 ust. 2 i 3 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. poz. 1178, z późn. zm.) mającego miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej będącego podatnikiem, płatnikiem, następcą prawnym lub osobą trzecią odpowiadającą za zaległości podatkowe albo innego zobowiązanego do uiszczenia należności, o których mowa w art. 6;
+- **1)** przedsiębiorcy – rozumie się przez to przedsiębiorcę określonego w art. 2 ust. 2 i 3 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. poz. 1178, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 958 i 1193, z 2001 r. poz. 509, 679, 1115 i 1643 oraz z 2002 r. poz. 2, 995 i 1112.)Utraciła moc na podstawie art. 66 ustawy z dnia 2 lipca 2004 r. – Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. poz. 1808, z 2006 r. poz. 1636, z 2008 r. poz. 888, z 2009 r. poz. 97 oraz z 2011 r. poz. 764), która weszła w życie z dniem 21 sierpnia 2004 r. mającego miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej będącego podatnikiem, płatnikiem, następcą prawnym lub osobą trzecią odpowiadającą za zaległości podatkowe albo innego zobowiązanego do uiszczenia należności, o których mowa w art. 6;
 - **2)** organie restrukturyzacyjnym – rozumie się przez to organ podatkowy, organ celny lub inny organ właściwy do poboru należności, o których mowa w art. 6 – będący organem pierwszej instancji;
 - **3)** należnościach znanych – rozumie się przez to należności, w tym należności sporne, wynikające z ewidencji lub rejestrów prowadzonych przez organ restrukturyzacyjny lub z innych danych znajdujących się w posiadaniu tego organu, a w szczególności z zeznań, deklaracji, decyzji i postanowień;
 - **4)** należnościach spornych – rozumie się przez to należności, o których mowa w art. 6, będące przedmiotem sporu – w przypadku gdy: od decyzji dotyczącej danej należności, wydanej przed dniem 1 lipca 2002 r., wniesiono odwołanie lub skargę do sądu, decyzja dotycząca danej należności, wydana przed dniem 1 lipca 2002 r., jest przedmiotem postępowania w sprawie stwierdzenia nieważności, wznowienia postępowania, zmiany lub uchylenia, lub stwierdzenia jej wygaśnięcia, wszczętego na wniosek;
@@ -60,7 +71,7 @@ Art. 26–28.
     - **b)**
 
 - **5)** programie restrukturyzacji – rozumie się przez to program opracowany przez przedsiębiorcę, zawierający w szczególności analizę i ocenę stanu ekonomiczno-finansowego przedsiębiorcy, określenie sposobów działania, które mogą zapewnić osiągnięcie trwałej poprawy wyniku finansowego wraz ze wskazaniem źródeł finansowania przedsięwzięć restrukturyzacyjnych, prognozę efektów ekonomiczno-finansowych – którego celem jest poprawa sytuacji finansowej przedsiębiorcy, stworzenie perspektyw jego rozwoju oraz tworzenie nowych miejsc pracy;
-- **6)** przedsiębiorcach objętych programami restrukturyzacyjnymi – rozumie się przez to przedsiębiorców, którzy podlegają różnym formom restrukturyzacji na podstawie ustaw: z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z 2001 r. poz. 41 i 1802, z 2002 r. poz. 1826 i 2020 oraz z 2003 r. poz. 844), z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1663), z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2016 r. poz. 1752), z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2020 r. poz. 292, 400, 462 i 1747), z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. poz. 1196, z późn. zm.).
+- **6)** przedsiębiorcach objętych programami restrukturyzacyjnymi – rozumie się przez to przedsiębiorców, którzy podlegają różnym formom restrukturyzacji na podstawie ustaw: z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z 2001 r. poz. 41 i 1802, z 2002 r. poz. 1826 i 2020 oraz z 2003 r. poz. 844)Utraciła moc na podstawie art. 55 ustawy z dnia 28 listopada 2003 r. o restrukturyzacji górnictwa węgla kamiennego w latach 2003–2006 (Dz. U. poz. 2037, z 2005 r. poz. 1250, z 2006 r. poz. 1835 oraz z 2007 r. poz. 227), która weszła w życie z dniem 26 grudnia 2003 r., z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1663), z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2016 r. poz. 1752), z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”Obecnie tytuł ustawy brzmi: o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, na podstawie art. 30 pkt 1 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), która weszła w życie z dniem 1 stycznia 2017 r. (Dz. U. z 2020 r. poz. 292, 400, 462 i 1747), z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. poz. 1196, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 495, 844 i 1325, z 2004 r. poz. 102 i 1252, z 2005 r. poz. 1398 i 1539, z 2007 r. poz. 331 oraz z 2020 r. poz. 284.).
     - **a)**
     - **b)**
     - **c)**
@@ -143,12 +154,12 @@ Art. 26–28.
 
 6. Należność może być objęta tylko jednym postępowaniem restrukturyzacyjnym.
 
-#### Rozdział 2 Postępowanie restrukturyzacyjne
+#### Rozdział 2
 
 **Art. 9.** Do restrukturyzacji stosuje się odpowiednio przepisy:
 
 - **1)** Ordynacji podatkowej w zakresie należności wymienionych w art. 6 ust. 1 pkt 1,
-- **2)** właściwe do wymiaru i poboru należności wymienionych w art. 6 ust. 1 pkt 2 chyba że ustawa stanowi inaczej.
+- **2)** właściwe do wymiaru i poboru należności wymienionych w art. 6 ust. 1 pkt 2 – chyba że ustawa stanowi inaczej.
 
 **Art. 10.**
 
@@ -244,9 +255,7 @@ Art. 26–28.
 - **1)** ogólną kwotę należności objętych restrukturyzacją pozostających w jego właściwości, podając również rodzaj i wysokość poszczególnych należności oraz okres, którego należność dotyczy;
 - **2)** wysokość opłaty restrukturyzacyjnej;
 - **3)** warunki spłaty należności, o których mowa w art. 11 ust. 1 pkt 2 oraz w art. 6 ust. 1 pkt 2 lit. b i c;
-- **4)** zasady regulowania należności podlegających spłacie oraz opłaty restrukturyzacyjnej, o ile organ restrukturyzacyjny uzna to za konieczne.
-
-3. W przypadku uzasadnionych wątpliwości w zakresie celowości lub podstawy restrukturyzacji należności od przedsiębiorców objętych programami restrukturyzacyjnymi, organ restrukturyzacyjny, w terminie 20 dni od dnia otrzymania wniosku, o którym mowa w art. 12 ust. 1, oraz dołączonych do niego dokumentów i danych określonych w art. 13, może zwrócić się z wnioskiem do ministra właściwego: ze względu na rodzaj należności, do spraw finansów publicznych, zabezpieczenia społecznego, gospodarki, klimatu albo środowiska – o opinię.
+- **4)** zasady regulowania należności podlegających spłacie oraz opłaty restrukturyzacyjnej, o ile organ restrukturyzacyjny uzna to za konieczne. 3Ze zmianą wprowadzoną przez art. 30 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.. W przypadku uzasadnionych wątpliwości w zakresie celowości lub podstawy restrukturyzacji należności od przedsiębiorców objętych programami restrukturyzacyjnymi, organ restrukturyzacyjny, w terminie 20 dni od dnia otrzymania wniosku, o którym mowa w art. 12 ust. 1, oraz dołączonych do niego dokumentów i danych określonych w art. 13, może zwrócić się z wnioskiem do ministra właściwego: ze względu na rodzaj należności, do spraw finansów publicznych, zabezpieczenia społecznego, gospodarki, klimatu albo środowiska – o opinię.
 
 4. Właściwy minister, w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 3, wydaje opinię, w formie postanowienia; wyłącznie w przypadku opinii negatywnej, opinia ministra nie wiąże organu restrukturyzacyjnego.
 
@@ -313,7 +322,7 @@ Art. 26–28.
 
 2. Opłata restrukturyzacyjna, o której mowa w art. 19, oraz opłata prolongacyjna, o której mowa w art. 20 ust. 3, nie stanowią kosztu uzyskania przychodu w rozumieniu przepisów o podatku dochodowym.
 
-#### Rozdział 3 Premia podatkowa
+#### Rozdział 3
 
 **Art. 23.**
 
@@ -342,13 +351,13 @@ Art. 26–28.
 
 2. Prawo do skorzystania z premii podatkowej wygasa w terminie złożenia rocznego zeznania podatkowego za rok podatkowy rozpoczynający się w 2002 r.
 
-#### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+#### Rozdział 4
 
 **Art. 29.**
 
-1. Do spraw wszczętych na podstawie przepisów ustawy, o której mowa w art. 27, a niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+1. Do spraw wszczętych na podstawie przepisów ustawy, o której mowa w art. 27Art. 27 zawiera zmiany do ustawy z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy., a niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-2. (utracił moc)
+2. (utracił moc)Z dniem 9 czerwca 2005 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 30 maja 2005 r. sygn. akt P 7/04 (Dz. U. poz. 851).
 
-**Art. 30.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 30.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 23 września 2002 r.. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 958 i 1193, z 2001 r. poz. 509, 679, 1115 i 1643 oraz z 2002 r. poz. 2, 995 i 1112. 2) Utraciła moc na podstawie art. 66 ustawy z dnia 2 lipca 2004 r. – Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. poz. 1808, z 2006 r. poz. 1636, z 2008 r. poz. 888, z 2009 r. poz. 97 oraz z 2011 r. poz. 764), która weszła w życie z dniem 21 sierpnia 2004 r. 3) Utraciła moc na podstawie art. 55 ustawy z dnia 28 listopada 2003 r. o restrukturyzacji górnictwa węgla kamiennego w latach 2003–2006 (Dz. U. poz. 2037, z 2005 r. poz. 1250, z 2006 r. poz. 1835 oraz z 2007 r. poz. 227), która weszła w życie z dniem 26 grudnia 2003 r. 4) Obecnie tytuł ustawy brzmi: o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, na podstawie art. 30 pkt 1 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), która weszła w życie z dniem 1 stycznia 2017 r. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 495, 844 i 1325, z 2004 r. poz. 102 i 1252, z 2005 r. poz. 1398 i 1539, z 2007 r. poz. 331 oraz z 2020 r. poz. 284. 6) Ze zmianą wprowadzoną przez art. 30 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. 7) Art. 27 zawiera zmiany do ustawy z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy. 8) Z dniem 9 czerwca 2005 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 30 maja 2005 r. sygn. akt P 7/04 (Dz. U. poz. 851). 9) Ustawa została ogłoszona w dniu 23 września 2002 r.
 

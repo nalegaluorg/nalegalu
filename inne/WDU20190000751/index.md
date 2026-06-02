@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-11 |
 | Data wydania | 2019-04-25 |
-| Wejście w życie | 2019-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000751) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/751/text.pdf) |
 
@@ -33,11 +32,9 @@ W rozporządzeniu Prezesa Rady Ministrów z dnia 8 maja 2009 r. w sprawie zasad 
 1)
 podstawa prawna wydania rozporządzenia otrzymuje brzmienie: „ Na podstawie art. 10 ust. 3 ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 2349) zarządza się, co następuje: ” ;
 2)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
-Przepisów rozporządzenia nie stosuje się do funkcjonariuszy ponoszących wspólną odpowiedzialność majątkową, o której mowa w art. 11 ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego.
-” .
+Przepisów rozporządzenia nie stosuje się do funkcjonariuszy ponoszących wspólną odpowiedzialność majątkową, o której mowa w art. 11 ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

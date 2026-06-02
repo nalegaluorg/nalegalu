@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-09 |
 | Data wydania | 2020-07-10 |
-| Wejście w życie | 2020-07-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1230/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady i tryb udzielania wyróżnień Rozdział 3 – Postępowanie dyscyplinarne Rozdział 4 – Wymierzanie kar dyscyplinarnych Rozdział 5 – Postępowanie odwoławcze Rozdział 6 – Wykonywanie kar dyscyplinarnych Rozdział 7 – Zatarcie i darowanie kar dyscyplinarnych Rozdział 8 – Wznowienie postępowania dyscyplinarnego Rozdział 9 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 152 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -74,6 +74,7 @@ Funkcjonariusz przebywający na urlopie lub oddelegowany do wykonywania zadań s
 W postępowaniu dyscyplinarnym, w sprawach nieuregulowanych rozporządzeniem, stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2020 r. poz. 30, 413, 568 i 1086) dotyczące wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz zatrzymania i doprowadzenia świadków. Do świadków nie stosuje się art. 184 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 2.
 O zwolnieniu od złożenia zeznania lub odpowiedzi na pytania osoby pozostającej z obwinionym w szczególnie bliskim stosunku osobistym rozstrzyga rzecznik dyscyplinarny. Na odmowę zwolnienia od złożenia zeznania lub odpowiedzi na pytania służy zażalenie w terminie 3 dni od dnia doręczenia postanowienia.
+Zasady i tryb udzielania wyróżnień
 § 5.
 1.
 Przełożony może udzielić funkcjonariuszowi wyróżnień, o których mowa w art. 101 pkt 1–3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”.
@@ -100,6 +101,7 @@ przeciwko któremu nie jest prowadzone postępowanie karne lub dyscyplinarne, a 
 który nie został ukarany karą dyscyplinarną, a w przypadku ukarania taką karą – dopiero po zatarciu tej kary;
 3)
 który nie został skazany prawomocnym orzeczeniem sądu za przestępstwo lub wykroczenie, a w przypadku skazania takim orzeczeniem – dopiero po zatarciu tego skazania.
+Postępowanie dyscyplinarne
 § 8.
 Naruszeniem dyscypliny służbowej, za które funkcjonariusz ponosi odpowiedzialność dyscyplinarną, jest:
 1)
@@ -201,8 +203,7 @@ Postępowanie dyscyplinarne oraz czynności wyjaśniające, o których mowa w §
 1)
 wobec zastępcy Szefa Agencji Wywiadu, kierownika jednostki organizacyjnej Agencji Wywiadu, zastępcy kierownika jednostki organizacyjnej Agencji Wywiadu oraz rzecznika dyscyplinarnego w okresie sprawowania przez niego tej funkcji,
 2)
-w przypadku wszczęcia tego postępowania lub polecenia podjęcia tych czynności przez Szefa Agencji Wywiadu
-prowadzi rzecznik dyscyplinarny wyznaczony przez Szefa Agencji Wywiadu.
+w przypadku wszczęcia tego postępowania lub polecenia podjęcia tych czynności przez Szefa Agencji Wywiadu – prowadzi rzecznik dyscyplinarny wyznaczony przez Szefa Agencji Wywiadu.
 3.
 Władzę dyscyplinarną przełożonego w postępowaniu dyscyplinarnym prowadzonym wobec osób, o których mowa w ust. 2, posiada Szef Agencji Wywiadu.
 § 15.
@@ -358,6 +359,7 @@ dokładne określenie zarzucanego obwinionemu czynu, ze wskazaniem czasu, miejsc
 opis ustalonego stanu faktycznego na podstawie zebranych dowodów;
 6)
 wnioski dotyczące orzeczenia dyscyplinarnego lub umorzenia postępowania dyscyplinarnego z uzasadnieniem i wskazaniem okoliczności łagodzących i obciążających.
+Wymierzanie kar dyscyplinarnych
 § 28.
 1.
 Na podstawie zebranego w sprawie materiału dowodowego przełożony orzeka o:
@@ -439,6 +441,7 @@ W przypadku gdy w uzasadnieniu orzeczenia zostały zawarte wiadomości stanowią
 Obwiniony i jego obrońca mają prawo zapoznać się z uzasadnieniem, o którym mowa w ust. 4. Przed udostępnieniem uzasadnienia przełożony lub rzecznik dyscyplinarny poucza o obowiązku zachowania w tajemnicy informacji niejawnych zawartych w uzasadnieniu i uprzedza o skutkach niedopełnienia tego obowiązku.
 6.
 Fakt przeprowadzenia czynności, o których mowa w ust. 5, obwiniony i obrońca potwierdzają własnoręcznym podpisem.
+Postępowanie odwoławcze
 § 33.
 1.
 Odwołanie od orzeczenia składa się na piśmie do Szefa Agencji Wywiadu, w terminie 7 dni od dnia jego doręczenia, za pośrednictwem przełożonego, który wydał orzeczenie.
@@ -490,6 +493,7 @@ Przepisy dotyczące postępowania dyscyplinarnego stosuje się odpowiednio w pos
 W orzeczeniu, o którym mowa w § 36 ust. 1 pkt 2, nie można wymierzyć kary dyscyplinarnej surowszej niż wymierzona w orzeczeniu o ukaraniu.
 § 40.
 W przypadku, o którym mowa w § 36 ust. 1 pkt 3, w dalszym postępowaniu można orzec karę dyscyplinarną surowszą niż orzeczona w uchylonym orzeczeniu.
+Wykonywanie kar dyscyplinarnych
 § 41.
 Po uprawomocnieniu się orzeczenia o ukaraniu przełożony niezwłocznie wykonuje orzeczoną karę dyscyplinarną.
 § 42.
@@ -513,6 +517,7 @@ wydaniu rozkazu o utracie przez ukaranego posiadanego stopnia oficerskiego i nad
 przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i ostrzeżeniu, że za ponowne popełnienie czynu ukarany może być wydalony ze służby – w razie wymierzenia kary ostrzeżenia o niepełnej przydatności do służby;
 7)
 wydaniu rozkazu personalnego o zwolnieniu ze służby – w razie wymierzenia kary wydalenia ze służby.
+Zatarcie i darowanie kar dyscyplinarnych
 § 44.
 1.
 Zatarcie kary dyscyplinarnej oznacza uznanie kary za niebyłą.
@@ -554,6 +559,7 @@ Zatarcie kary dyscyplinarnej powoduje usunięcie z akt osobowych funkcjonariusza
 W przypadkach, o których mowa w § 47 i § 48 ust. 1, orzeczenie wydaje przełożony, który karę wymierzył.
 2.
 Orzeczenie o zatarciu kary dyscyplinarnej doręcza się funkcjonariuszowi.
+Wznowienie postępowania dyscyplinarnego
 § 50.
 Przełożony, który wydał orzeczenie kończące postępowanie dyscyplinarne, wznawia postępowanie z urzędu lub na wniosek obwinionego albo w przypadku jego śmierci na wniosek jego krewnego w linii prostej, przysposabiającego lub przysposobionego, rodzeństwa oraz małżonka.
 § 51.
@@ -566,8 +572,7 @@ Na postanowienie, o którym mowa w ust. 1, wydane przez:
 1)
 kierownika jednostki organizacyjnej Agencji Wywiadu – przysługuje zażalenie do Szefa Agencji Wywiadu,
 2)
-Szefa Agencji Wywiadu – przysługuje wniosek do Szefa Agencji Wywiadu o ponowne rozpatrzenie sprawy
-w terminie 7 dni od dnia doręczenia postanowienia osobie, o której mowa w ust. 2.
+Szefa Agencji Wywiadu – przysługuje wniosek do Szefa Agencji Wywiadu o ponowne rozpatrzenie sprawy – w terminie 7 dni od dnia doręczenia postanowienia osobie, o której mowa w ust. 2.
 § 52.
 1.
 Postanowienie o wznowieniu postępowania dyscyplinarnego stanowi podstawę do przeprowadzenia postępowania co do przyczyn wznowienia oraz co do rozstrzygnięcia istoty sprawy. Postępowanie to prowadzi wyznaczony przez przełożonego rzecznik dyscyplinarny. Przepisy o postępowaniu dyscyplinarnym stosuje się odpowiednio.
@@ -579,6 +584,7 @@ odmawia uchylenia dotychczasowego orzeczenia albo
 uchyla dotychczasowe orzeczenie i rozstrzyga o istocie sprawy.
 3.
 Na orzeczenie wydane w trybie wznowienia postępowania dyscyplinarnego służy odwołanie obwinionemu, a w przypadku, o którym mowa w § 50, osobie, która złożyła wniosek o wznowienie postępowania dyscyplinarnego. Przepisy o postępowaniu odwoławczym stosuje się odpowiednio.
+Przepisy przejściowe i końcowe
 § 53.
 Do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 54.
@@ -586,23 +592,41 @@ Czynności realizowane w ramach wszczętych i niezakończonych postępowań dysc
 § 55.
 Rzecznik dyscyplinarny powołany na podstawie przepisów dotychczasowych staje się rzecznikiem dyscyplinarnym w rozumieniu niniejszego rozporządzenia do czasu upływu dotychczasowej kadencji.
 § 56.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 sierpnia 2003 r. w sprawie udzielania wyróżnień i przeprowadzania postępowań dyscyplinarnych wobec funkcjonariuszy Agencji Wywiadu (Dz. U. z 2013 r. poz. 1420), które na podstawie art. 13 pkt 2 ustawy z dnia 16 maja 2019 r. o zmianie ustawy o Policji oraz niektórych innych ustaw (Dz. U. poz. 1091) utraciło moc z dniem 27 czerwca 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 sierpnia 2003 r. w sprawie udzielania wyróżnień i przeprowadzania postępowań dyscyplinarnych wobec funkcjonariuszy Agencji Wywiadu (Dz. U. z 2013 r. poz. 1420), które na podstawie art. 13 pkt 2 ustawy z dnia 16 maja 2019 r. o zmianie ustawy o Policji oraz niektórych innych ustaw (Dz. U. poz. 1091) utraciło moc z dniem 27 czerwca 2020 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zasady i tryb udzielania wyróżnień
+#### Rozdział 2 – Zasady i tryb udzielania wyróżnień
 
-#### Rozdział 3 Postępowanie dyscyplinarne
+#### Rozdział 3 – Postępowanie dyscyplinarne
 
-#### Rozdział 4 Wymierzanie kar dyscyplinarnych
+#### Rozdział 4 – Wymierzanie kar dyscyplinarnych
 
-#### Rozdział 5 Postępowanie odwoławcze
+#### Rozdział 5 – Postępowanie odwoławcze
 
-#### Rozdział 6 Wykonywanie kar dyscyplinarnych
+#### Rozdział 6 – Wykonywanie kar dyscyplinarnych
 
-#### Rozdział 7 Zatarcie i darowanie kar dyscyplinarnych
+#### Rozdział 7 – Zatarcie i darowanie kar dyscyplinarnych
 
-#### Rozdział 8 Wznowienie postępowania dyscyplinarnego
+#### Rozdział 8 – Wznowienie postępowania dyscyplinarnego
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+#### Rozdział 9 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
 

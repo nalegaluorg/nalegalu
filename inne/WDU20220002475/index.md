@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-06 |
 | Data wydania | 2022-12-01 |
-| Wejście w życie | 2022-12-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2475/text.pdf) |
 
@@ -77,10 +76,14 @@ source: "eli-html"
 - **1)** zlecanie realizacji zadań w ramach programów, o których mowa w art. 23 ust. 1, w formie otwartych konkursów ofert, o których mowa w dziale II rozdziale 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie;
 - **2)** finansowanie lub dofinansowanie zadań zlecanych w ramach programów, o których mowa w art. 23 ust. 1, realizowanych w drodze konkursów prowadzonych zgodnie z postanowieniami ust. 2–4 albo zgodnie z odrębnymi przepisami.
 
-2. Regulaminy konkursów, o których mowa w ust. 1, są ustalane przez Dyrektora i zatwierdzane przez Radę. ” , w ust. 3: – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) zasady dokonywania oceny ofert i wyboru ofert przeznaczonych do finansowania lub dofinansowania, w tym możliwość powołania w tym celu komisji konkursowej; ” , – po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „ 7a) możliwość tworzenia listy rezerwowej i dokonywania wyboru ofert z tej listy przez Dyrektora w przypadku uwolnienia środków w ramach konkursu; 7b) przypadki, w których następuje unieważnienie konkursu; ” , w ust. 4 pkt 4 otrzymuje brzmienie: „
+2. Regulaminy konkursów, o których mowa w ust. 1, są ustalane przez Dyrektora i zatwierdzane przez Radę. ” , w ust. 3: po pkt 6 dodaje się pkt 6a w brzmieniu: „
 
 - **b)**
-- **c)**
+- **6a)** zasady dokonywania oceny ofert i wyboru ofert przeznaczonych do finansowania lub dofinansowania, w tym możliwość powołania w tym celu komisji konkursowej; ” , po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „
+- **7a)** możliwość tworzenia listy rezerwowej i dokonywania wyboru ofert z tej listy przez Dyrektora w przypadku uwolnienia środków w ramach konkursu;
+- **7b)** przypadki, w których następuje unieważnienie konkursu; ” , w ust. 4 pkt 4 otrzymuje brzmienie: „
+    - **c)**
+
 - **4)** możliwość realizacji zadania przez osoby zaangażowane w jego realizację, w tym doświadczenie wnioskodawcy, a także potencjał partnerów; ” ;
 - **8)** w art. 32: ust. 1 otrzymuje brzmienie: „
     - **a)**

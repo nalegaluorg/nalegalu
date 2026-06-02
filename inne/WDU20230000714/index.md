@@ -26,15 +26,41 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/714/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych Rozdział 1 – Przepisy ogólne Rozdział 2 – Bezpieczeństwo na obszarach wodnych Rozdział 3 – Podmioty uprawnione do wykonywania ratownictwa wodnego oraz obowiązki ratowników wodnych Rozdział 4 – Organizowanie i finansowanie działań ratowniczych Rozdział 5 – Nadzór i kontrola nad ratownictwem wodnym Rozdział 6 – Usunięcie statku lub innego obiektu pływającego Rozdział 7 – Przepisy karne Rozdział 8 – Zmiany w przepisach obowiązujących Rozdział 9 – Przepisy przejściowe i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2022 r. poz. 147), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 marca 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 221–226 i art. 234 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 221–226 i art. 234 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), które stanowią: „
+Przepisy ogólne
+Bezpieczeństwo na obszarach wodnych
+Podmioty uprawnione do wykonywania ratownictwa wodnego oraz obowiązki ratowników wodnych
+Organizowanie i finansowanie działań ratowniczych
+Nadzór i kontrola nad ratownictwem wodnym
+Usunięcie statku lub innego obiektu pływającego
+Przepisy karne
+Zmiany w przepisach obowiązujących
 Art. 37–39.
 (pominięte)
+Przepisy przejściowe i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Bezpieczeństwo na obszarach wodnych
+
+#### Rozdział 3 – Podmioty uprawnione do wykonywania ratownictwa wodnego oraz obowiązki ratowników wodnych
+
+#### Rozdział 4 – Organizowanie i finansowanie działań ratowniczych
+
+#### Rozdział 5 – Nadzór i kontrola nad ratownictwem wodnym
+
+#### Rozdział 6 – Usunięcie statku lub innego obiektu pływającego
+
+#### Rozdział 7 – Przepisy karne
+
+#### Rozdział 8 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 9 – Przepisy przejściowe i przepis końcowy
 
 **Art. 221.**
 
@@ -62,7 +88,7 @@ Art. 37–39.
 
 **Art. 234.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 217 oraz art. 227–232, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -83,7 +109,7 @@ Art. 37–39.
 - **7)** kąpielisku – rozumie się przez to kąpielisko, o którym mowa w art. 16 pkt 22 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
 - **8)** pływalni – rozumie się przez to obiekt kryty lub odkryty, z wodą przepływową, przeznaczony do pływania lub kąpieli, posiadający co najmniej jedną nieckę basenową, z trwałym brzegiem i dnem, wyposażony w urządzenia sanitarne, szatnie i natryski.
 
-#### Rozdział 2 Bezpieczeństwo na obszarach wodnych
+#### Rozdział 2
 
 **Art. 3.** Osoby przebywające na obszarach wodnych obowiązane są do zachowania należytej staranności w celu ochrony życia i zdrowia własnego oraz innych osób, a w szczególności:
 
@@ -111,7 +137,7 @@ Art. 37–39.
 
 - **1)** na terenie parku narodowego lub krajobrazowego – dyrektor parku,
 - **2)** na terenie, na którym prowadzona jest działalność w zakresie sportu lub rekreacji – osoba fizyczna, osoba prawna i jednostka organizacyjna nieposiadająca osobowości prawnej, która prowadzi działalność w tym zakresie,
-- **3)** na pozostałym obszarze – właściwy miejscowo wójt (burmistrz, prezydent miasta) zwani dalej „zarządzającym obszarem wodnym”.
+- **3)** na pozostałym obszarze – właściwy miejscowo wójt (burmistrz, prezydent miasta) – zwani dalej „zarządzającym obszarem wodnym”.
 
 3. Zadania, o których mowa w ust. 1, wykonywane przez wójta (burmistrza, prezydenta miasta) na obszarze, o którym mowa w ust. 2 pkt 3, należą do zadań własnych gminy.
 
@@ -145,7 +171,7 @@ Art. 37–39.
 **Art. 8.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia:
 
 - **1)** sposób oznakowania i zabezpieczania obszarów wodnych,
-- **2)** wzory znaków zakazu, nakazu oraz informacyjnych i flag mając na uwadze konieczność zapewnienia odpowiedniego poziomu bezpieczeństwa i udzielania pomocy osobom kąpiącym się, pływającym i uprawiającym sport lub rekreację na obszarach wodnych.
+- **2)** wzory znaków zakazu, nakazu oraz informacyjnych i flag – mając na uwadze konieczność zapewnienia odpowiedniego poziomu bezpieczeństwa i udzielania pomocy osobom kąpiącym się, pływającym i uprawiającym sport lub rekreację na obszarach wodnych.
 
 **Art. 9.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, minimalne wymagania dotyczące liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego, biorąc pod uwagę wielkość tego obszaru oraz konieczność zapewnienia bezpieczeństwa osobom na nim przebywającym.
 
@@ -153,7 +179,7 @@ Art. 37–39.
 
 **Art. 11.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wymagania, jakim powinna odpowiadać woda na pływalniach, a także częstotliwość pobierania próbek wody, metodyki referencyjne analiz i sposób oceny, czy woda odpowiada wymaganym warunkom, oraz sposób informowania ludności o jakości wody na pływalniach, uwzględniając ochronę zdrowia publicznego oraz potrzebę dostarczania społeczeństwu informacji w tym zakresie.
 
-#### Rozdział 3 Podmioty uprawnione do wykonywania ratownictwa wodnego oraz obowiązki ratowników wodnych
+#### Rozdział 3
 
 **Art. 12.**
 
@@ -244,14 +270,12 @@ Art. 37–39.
 - **2)** zakres wiedzy teoretycznej i umiejętności praktycznych niezbędnych do uzyskania uprawnień z zakresu ratownictwa wodnego,
 - **3)** wzory dokumentów potwierdzających posiadanie uprawnień, o których mowa w pkt 2,
 - **4)** kwalifikacje kadry dydaktycznej prowadzącej szkolenia,
-- **5)** sposób przeprowadzania egzaminu mając na względzie bezpieczeństwo na obszarach wodnych, zapewnienie odpowiedniego poziomu wyszkolenia ratowników wodnych, zapewnienie odpowiedniego poziomu kadry dydaktycznej, konieczność zapewnienia jednolitego sposobu przeprowadzania egzaminu oraz zakres uprawnień uzyskiwanych po zdaniu egzaminu.
+- **5)** sposób przeprowadzania egzaminu – mając na względzie bezpieczeństwo na obszarach wodnych, zapewnienie odpowiedniego poziomu wyszkolenia ratowników wodnych, zapewnienie odpowiedniego poziomu kadry dydaktycznej, konieczność zapewnienia jednolitego sposobu przeprowadzania egzaminu oraz zakres uprawnień uzyskiwanych po zdaniu egzaminu.
 
 1. Ratownikiem wodnym może być osoba, która:
 
 - **1)** posiada wiedzę i umiejętności z zakresu ratownictwa wodnego i technik pływackich;
-- **2)** posiada co najmniej jedną z innych kwalifikacji przydatnych w ratownictwie wodnym, o którym mowa w art. 2 pkt 4, do prowadzenia działań ratowniczych wymienionych w art. 13;
-- **3)** spełnia wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu Państwowe Ratownictwo Medyczne, pielęgniarki systemu Państwowe Ratownictwo Medyczne, ratownika medycznego realizujących doskonalenie zawodowe lub ratownika;
-- **3)** spełnia wymagania określone w: ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu Państwowe Ratownictwo Medyczne i pielęgniarki systemu Państwowe Ratownictwo Medyczne realizujących doskonalenie zawodowe lub ratownika, ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) dla ratownika medycznego realizującego doskonalenie zawodowe;
+- **2)** posiada co najmniej jedną z innych kwalifikacji przydatnych w ratownictwie wodnym, o którym mowa w art. 2 pkt 4, do prowadzenia działań ratowniczych wymienionych w art. 13; 3W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2.) spełnia wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu Państwowe Ratownictwo Medyczne, pielęgniarki systemu Państwowe Ratownictwo Medyczne, ratownika medycznego realizujących doskonalenie zawodowe lub ratownika; 3W brzmieniu ustalonym przez art. 213 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), która wejdzie w życie z dniem 22 czerwca 2023 r.) spełnia wymagania określone w: ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu Państwowe Ratownictwo Medyczne i pielęgniarki systemu Państwowe Ratownictwo Medyczne realizujących doskonalenie zawodowe lub ratownika, ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) dla ratownika medycznego realizującego doskonalenie zawodowe;
     - **a)**
     - **b)**
 
@@ -292,7 +316,7 @@ Art. 37–39.
 
 **Art. 20.** Ratownik wodny oraz ratownik wodny z psem ratowniczym w czasie działań ratowniczych mają prawo bezpłatnego wstępu na teren parku narodowego i rezerwatu udostępnionego dla ruchu turystycznego na podstawie ważnej legitymacji służbowej.
 
-#### Rozdział 4 Organizowanie i finansowanie działań ratowniczych
+#### Rozdział 4
 
 **Art. 21.**
 
@@ -307,7 +331,7 @@ Art. 37–39.
 1. Podmioty uprawnione do wykonywania ratownictwa wodnego:
 
 - **1)** wykonują zadania z zakresu ratownictwa wodnego,
-- **2)** organizują i prowadzą szkolenia ratowników wodnych w zakresie ratownictwa wodnego na podstawie zlecania realizacji zadań publicznych, o których mowa w art. 11 ust. 1 pkt 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327, 1265 i 1812).
+- **2)** organizują i prowadzą szkolenia ratowników wodnych w zakresie ratownictwa wodnego – na podstawie zlecania realizacji zadań publicznych, o których mowa w art. 11 ust. 1 pkt 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327, 1265 i 1812).
 
 2. Zadania, o których mowa w ust. 1, są dofinansowywane przez wojewodów w ramach dotacji celowych przyznawanych z części budżetu państwa, której są dysponentami.
 
@@ -329,7 +353,7 @@ Art. 37–39.
 
 8. Podmioty uprawnione do wykonywania ratownictwa wodnego, do dnia 31 grudnia, przekazują ministrowi właściwemu do spraw wewnętrznych informację o wysokości otrzymanych w danym roku dotacji, celu, na który zostały udzielone oraz podmiocie, który ich udzielił.
 
-#### Rozdział 5 Nadzór i kontrola nad ratownictwem wodnym
+#### Rozdział 5
 
 **Art. 23.**
 
@@ -413,7 +437,7 @@ Art. 37–39.
 
 **Art. 29.** Podmiot uprawniony do wykonywania ratownictwa wodnego objęty kontrolą zawiadamia, w terminie 30 dni od dnia otrzymania protokołu kontroli lub stanowiska kontrolującego, o którym mowa w art. 27 ust. 3, lub poprawionego protokołu kontroli, ministra właściwego do spraw wewnętrznych o wykonaniu wniosków i zaleceń pokontrolnych zawartych w protokole kontroli lub o przyczynach ich niewykonania.
 
-#### Rozdział 6 Usunięcie statku lub innego obiektu pływającego
+#### Rozdział 6
 
 **Art. 30.**
 
@@ -431,11 +455,11 @@ Art. 37–39.
 
 2. Ustala się maksymalną wysokość opłat, o których mowa w ust. 1, w przypadku:
 
-- **1)** usunięcia roweru wodnego lub skutera wodnego – 50 zł  oraz za każdą dobę jego przechowywania – 15 zł ;
-- **2)** usunięcia poduszkowca – 100 zł oraz za każdą dobę jego przechowywania – 30 zł ;
-- **3)** usunięcia statku o długości kadłuba do 10 m – 120 zł oraz za każdą dobę jego przechowywania – 50 zł ;
-- **4)** usunięcia statku o długości kadłuba do 20 m – 150 zł ; oraz za każdą dobę jego przechowywania – 100 zł ;
-- **5)** usunięcia statku o długości kadłuba powyżej 20 m – 200 zł ; oraz za każdą dobę jego przechowywania – 150 zł .
+- **1)** usunięcia roweru wodnego lub skutera wodnego – 50 zł Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy. oraz za każdą dobę jego przechowywania – 15 zł Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy.;
+- **2)** usunięcia poduszkowca – 100 zł Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy.oraz za każdą dobę jego przechowywania – 30 zł Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy.;
+- **3)** usunięcia statku o długości kadłuba do 10 m – 120 zł Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy.oraz za każdą dobę jego przechowywania – 50 zł Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy.;
+- **4)** usunięcia statku o długości kadłuba do 20 m – 150 zł Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy.; oraz za każdą dobę jego przechowywania – 100 zł Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy.;
+- **5)** usunięcia statku o długości kadłuba powyżej 20 m – 200 zł Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy.; oraz za każdą dobę jego przechowywania – 150 zł Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy..
 
 3. Maksymalne opłaty określone w ust. 2, obowiązujące w danym roku kalendarzowym, podlegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
 
@@ -451,7 +475,7 @@ Art. 37–39.
 
 2. Jeżeli w chwili usunięcia statek lub inny obiekt pływający znajdował się we władaniu osoby dysponującej nim na podstawie innego niż własność tytułu prawnego, osoba ta jest zobowiązana solidarnie do pokrycia kosztów, o których mowa w ust. 1.
 
-3. Termin płatności należności ustalonych decyzją, o której mowa w ust. 1, wynosi 30 dni licząc od dnia, w którym decyzja ta stała się ostateczna. Odsetki ustawowe za opóźnienie nalicza się od dnia następującego po upływie terminu płatności. Należności te wraz z odsetkami podlegają egzekucji w trybie i na zasadach określonych w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.).
+3. Termin płatności należności ustalonych decyzją, o której mowa w ust. 1, wynosi 30 dni licząc od dnia, w którym decyzja ta stała się ostateczna. Odsetki ustawowe za opóźnienie nalicza się od dnia następującego po upływie terminu płatności. Należności te wraz z odsetkami podlegają egzekucji w trybie i na zasadach określonych w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687.).
 
 4. Decyzji, o której mowa w ust. 1, nie wydaje się, jeżeli od dnia uprawomocnienia się orzeczenia sądu o przepadku upłynęło 5 lat.
 
@@ -475,13 +499,13 @@ Art. 37–39.
 
 8. W przypadku nieodebrania statku lub innego obiektu pływającego z portu, przystani lub parkingu w terminie określonym w ust. 2 jednostka prowadząca port strzeżony, przystań strzeżoną lub parking strzeżony, powiadamia o tym fakcie właściwego miejscowo starostę oraz podmiot, który wydał dyspozycję usunięcia tego statku lub innego obiektu pływającego nie później niż trzeciego dnia od dnia upływu tego terminu.
 
-9. Do badania w celu ustalenia w organizmie obecności środka działającego podobnie do alkoholu stosuje się odpowiednio art. 127 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.).
+9. Do badania w celu ustalenia w organizmie obecności środka działającego podobnie do alkoholu stosuje się odpowiednio art. 127 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642.).
 
 10. Do współdziałania z Policją podmiotów, o których mowa w art. 30 ust. 4, oraz trybu i warunków wydawania statku lub innego obiektu pływającego stosuje się odpowiednio przepisy wydane na podstawie art. 130a ust. 11 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
-11. W sprawach o przepadek statku lub innego obiektu pływającego stosuje się odpowiednio art. 6106 i art. 6107 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.).
+11. W sprawach o przepadek statku lub innego obiektu pływającego stosuje się odpowiednio art. 6106 i art. 6107 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326 i 403.).
 
-#### Rozdział 7 Przepisy karne
+#### Rozdział 7
 
 **Art. 34.** Kto, w przypadku o którym mowa w art. 6, nie stosuje się do polecenia zarządzającego obszarem wodnym lub upoważnionej przez niego osoby i wchodzi na obszar wodny albo nie opuszcza tego obszaru, podlega karze grzywny.
 
@@ -489,9 +513,9 @@ Art. 37–39.
 
 **Art. 36.** Postępowanie w sprawach określonych w art. 34 i art. 35 prowadzi się na podstawie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących
+#### Rozdział 8
 
-#### Rozdział 9 Przepisy przejściowe i przepis końcowy
+#### Rozdział 9
 
 **Art. 40.** Do dnia uzyskania zgody, o której mowa w art. 12 ust. 1, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy, za podmioty uprawnione do wykonywania ratownictwa uznaje się podmioty uprawnione do wykonywania ratownictwa wodnego na podstawie przepisów dotychczasowych.
 
@@ -501,8 +525,5 @@ Art. 37–39.
 
 2. Do osób, które rozpoczęły uzyskiwanie uprawnień ratownika z zakresu ratownictwa wodnego przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem przepisów art. 22 ust. 2 i 3, które wchodzą w życie z dniem 1 stycznia 2013 r.
-
-- **1)** W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2. 2) W brzmieniu ustalonym przez art. 213 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), która wejdzie w życie z dniem 22 czerwca 2023 r. 3) Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326 i 403.
-
+**Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem przepisów art. 22 ust. 2 i 3, które wchodzą w życie z dniem 1 stycznia 2013 r. 1) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2. 2) W brzmieniu ustalonym przez art. 213 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), która wejdzie w życie z dniem 22 czerwca 2023 r. 3) Aktualną maksymalną wysokość opłat za usunięcie i przechowywanie statków lub innych obiektów pływających ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym „Monitor Polski” minister właściwy do spraw finansów publicznych, zgodnie z art. 31 ust. 4 niniejszej ustawy. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326 i 403.
 

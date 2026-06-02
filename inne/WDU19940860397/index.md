@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1994-06-24 |
 | Data wydania | 1994-08-05 |
-| Wejście w życie | 1994-08-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940860397) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/397/text.pdf) |
 

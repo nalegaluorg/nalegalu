@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 września 2021 r. zmieniające rozporządzenie w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 września 2021 r. zmieniające rozporządzenie w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-16 |
 | Data wydania | 2021-10-15 |
-| Wejście w życie | 2021-10-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001866) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1866/text.pdf) |
 
@@ -37,8 +36,7 @@ Na podstawie art. 71 ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceu
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 3 kwietnia 2008 r. w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu (Dz. U. z 2015 r. poz. 1382, z 2016 r. poz. 653 oraz z 2018 r. poz. 1736) załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 
 ## Załącznik nr 1 — – Kryteria klasyfikacji produktów leczniczych weterynaryjnych do wykazu produktów leczniczych weterynaryjnych, które mogą być przedmiotem obrotu przez podmioty
 

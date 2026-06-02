@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 12 września 2017 r. w sprawie wysokości wynagrodzenia członków Rady Narodowej Agencji Wymiany Akademickiej
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 12 września 2017 r. w sprawie wysokości wynagrodzenia członków Rady Narodowej Agencji Wymiany Akademickiej Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-12 |
 | Data wydania | 2017-09-18 |
-| Wejście w życie | 2017-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1755/text.pdf) |
 
@@ -36,6 +35,5 @@ Członkom Rady przysługuje wynagrodzenie za udział w posiedzeniu Rady w wysoko
 § 2.
 W przypadku gdy suma wynagrodzeń za udział w posiedzeniach Rady w danym miesiącu powodowałaby przekroczenie limitu, o którym mowa odpowiednio w art. 12 ust. 2 pkt 1 albo 2 ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej, wynagrodzenia za udział w posiedzeniu Rady powodującego przekroczenie tego limitu nie wypłaca się.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 października 2017 r.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896).
+Rozporządzenie wchodzi w życie z dniem 1 października 2017 r. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1896).
 

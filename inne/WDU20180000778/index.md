@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 26 marca 2018 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Wiedza Edukacja Rozwój 2014–2020
+# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 26 marca 2018 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Wiedza Edukacja Rozwój 2014–2020 Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460, 1475 i 2433) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Wiedza Edukacja Rozwój 2014–2020.
 
 | Pole | Wartość |
 |---|---|
@@ -22,53 +22,41 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-26 |
 | Data wydania | 2018-04-25 |
-| Wejście w życie | 2018-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/778/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2018 r. poz. 110 i 650) zarządza się, co następuje:
+Tekst Programu Operacyjnego Wiedza Edukacja Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 17 grudnia 2014 r. przyjmującą niektóre elementy programu operacyjnego „Wiedza Edukacja Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Społecznego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Wiedza Edukacja Rozwój na lata 2014–2020. Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2018 r. poz. 110 i 650) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 9 listopada 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Wiedza Edukacja Rozwój 2014–2020 (Dz. U. poz. 2026) wprowadza się następujące zmiany:
 1)
 w § 2:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”;
-” ,
+mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10 oraz Dz. Urz. UE L 156 z 20.06.2017, str. 1., zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”; ” ,
 b)
-po pkt 1 dodaje się pkt 1a w brzmieniu:
-„
+po pkt 1 dodaje się pkt 1a w brzmieniu: „
 1a)
-dużym przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo, o którym mowa w art. 2 pkt 24 rozporządzenia Komisji (UE) nr 651/2014;
-” ,
+dużym przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo, o którym mowa w art. 2 pkt 24 rozporządzenia Komisji (UE) nr 651/2014; ” ,
 c)
-pkt 2 i 3 otrzymują brzmienie:
-„
+pkt 2 i 3 otrzymują brzmienie: „
 2)
 pracowniku przedsiębiorcy – należy przez to rozumieć osobę, o której mowa w art. 3 ust. 3 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, wykonującą pracę na rzecz mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy lub dużego przedsiębiorcy;
 3)
-sektorowej radzie do spraw kompetencji – należy przez to rozumieć radę, o której mowa w art. 4c ust. 1 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości;
-” ,
+sektorowej radzie do spraw kompetencji – należy przez to rozumieć radę, o której mowa w art. 4c ust. 1 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości; ” ,
 d)
-w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu:
-„
+w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
 5)
 firmie rodzinnej – należy przez to rozumieć przedsiębiorstwo prowadzone w oparciu o osobistą pracę co najmniej dwóch członków rodziny, gdzie co najmniej jeden z nich ma istotny wpływ na zarządzanie przedsiębiorstwem, oraz członkowie rodziny łącznie posiadają większościowy udział w strukturze własnościowej,
 6)
-członkach rodziny – należy przez to rozumieć zstępnych, wstępnych, rodzeństwo, dzieci rodzeństwa, małżonków, partnerów, powinowatych, krewnych, osoby przysposabiające lub przysposobione.
-” ;
+członkach rodziny – należy przez to rozumieć zstępnych, wstępnych, rodzeństwo, dzieci rodzeństwa, małżonków, partnerów, powinowatych, krewnych, osoby przysposabiające lub przysposobione. ” ;
 2)
-w § 3 ust. 1 otrzymuje brzmienie:
-„
+w § 3 ust. 1 otrzymuje brzmienie: „
 1.
-Pomoc finansowa, o której mowa w § 1, jest udzielana w formie bezzwrotnego wsparcia finansowego, zwanego dalej „wsparciem”, lub w formie finansowania kosztów usług świadczonych przez wykonawców bezpłatnie lub za odpłatnością niższą od ceny rynkowej.
-” ;
+Pomoc finansowa, o której mowa w § 1, jest udzielana w formie bezzwrotnego wsparcia finansowego, zwanego dalej „wsparciem”, lub w formie finansowania kosztów usług świadczonych przez wykonawców bezpłatnie lub za odpłatnością niższą od ceny rynkowej. ” ;
 3)
-w § 4 ust. 1 otrzymuje brzmienie:
-„
+w § 4 ust. 1 otrzymuje brzmienie: „
 1.
 Pomoc finansowa uzyskana przez przedsiębiorców:
 1)
@@ -88,33 +76,25 @@ w ramach wsparcia, o którym mowa w § 12g ust. 1,
 8)
 w ramach finansowania kosztów usług, o którym mowa w § 12i ust. 1,
 9)
-w ramach finansowania kosztów usług, o którym mowa w § 12j ust. 1
-stanowi pomoc de minimis .
-” ;
+w ramach finansowania kosztów usług, o którym mowa w § 12j ust. 1 – stanowi pomoc de minimis . ” ;
 4)
 w § 5:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Pomoc finansowa, o której mowa w § 6 ust. 1 i 3, § 8 ust. 1, § 10 ust. 1, § 12a ust. 1, § 12c ust. 1, § 12e ust. 1, § 12g ust. 1 oraz § 12j ust. 1, przeznaczona na usługi świadczone dla przedsiębiorców, może stanowić pomoc publiczną na szkolenia lub na usługi doradcze dla tych przedsiębiorców, w przypadku gdy jej udzielenie spowodowałoby przekroczenie dopuszczalnej wielkości pomocy de minimis .
-” ,
+Pomoc finansowa, o której mowa w § 6 ust. 1 i 3, § 8 ust. 1, § 10 ust. 1, § 12a ust. 1, § 12c ust. 1, § 12e ust. 1, § 12g ust. 1 oraz § 12j ust. 1, przeznaczona na usługi świadczone dla przedsiębiorców, może stanowić pomoc publiczną na szkolenia lub na usługi doradcze dla tych przedsiębiorców, w przypadku gdy jej udzielenie spowodowałoby przekroczenie dopuszczalnej wielkości pomocy de minimis . ” ,
 b)
-dodaje się ust. 5 w brzmieniu:
-„
+dodaje się ust. 5 w brzmieniu: „
 5.
-Pomoc finansowa, o której mowa w § 6 ust. 1 i 3, § 12a ust. 1, § 12c ust. 1, § 12e ust. 1, § 12g ust. 1 oraz § 12j ust. 1, nie może być udzielona na szkolenia, których obowiązek przeprowadzenia wynika z przepisów prawa.
-” ;
+Pomoc finansowa, o której mowa w § 6 ust. 1 i 3, § 12a ust. 1, § 12c ust. 1, § 12e ust. 1, § 12g ust. 1 oraz § 12j ust. 1, nie może być udzielona na szkolenia, których obowiązek przeprowadzenia wynika z przepisów prawa. ” ;
 5)
 w § 6 uchyla się ust. 4;
 6)
 w § 7 w ust. 1:
 a)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-doradztwo w zakresie, o którym mowa w art. 18 ust. 3 i 4 rozporządzenia Komisji (UE) nr 651/2014;
-” ,
+doradztwo w zakresie, o którym mowa w art. 18 ust. 3 i 4 rozporządzenia Komisji (UE) nr 651/2014; ” ,
 b)
 uchyla się pkt 4;
 7)
@@ -124,20 +104,16 @@ w § 8 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Agencja moż
 9)
 w § 9:
 a)
-w ust. 1 pkt 3 otrzymuje brzmienie:
-„
+w ust. 1 pkt 3 otrzymuje brzmienie: „
 3)
-opracowanie analizy potrzeb rozwojowych mikroprzedsiębiorców, małych i średnich przedsiębiorców w zakresie, o którym mowa w art. 18 ust. 3 i 4 rozporządzenia Komisji (UE) nr 651/2014;
-” ,
+opracowanie analizy potrzeb rozwojowych mikroprzedsiębiorców, małych i średnich przedsiębiorców w zakresie, o którym mowa w art. 18 ust. 3 i 4 rozporządzenia Komisji (UE) nr 651/2014; ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Wartość wsparcia, o którym mowa w § 8 ust. 1, udzielonego w celu identyfikacji potrzeb rozwojowych mikroprzedsiębiorców, małych lub średnich przedsiębiorców stanowi wartość pomocy de minimis dla tych przedsiębiorców.
-” ;
+Wartość wsparcia, o którym mowa w § 8 ust. 1, udzielonego w celu identyfikacji potrzeb rozwojowych mikroprzedsiębiorców, małych lub średnich przedsiębiorców stanowi wartość pomocy de minimis dla tych przedsiębiorców. ” ;
 10)
-po rozdziale 4 dodaje się rozdziały 4a-4e w brzmieniu:
-„
+po rozdziale 4 dodaje się rozdziały 4a-4e w brzmieniu: „
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców w obszarze zarządzania przedsiębiorstwem, w tym zarządzania zasobami ludzkimi
 § 12a.
 1.
 Agencja udziela wsparcia na realizację projektów, skierowanych do mikroprzedsiębiorców, małych lub średnich przedsiębiorców, polegających na dofinansowaniu dla tych przedsiębiorców oraz ich pracowników uczestnictwa w usługach szkoleniowych lub doradczych mających na celu opracowanie analizy potrzeb rozwojowych przedsiębiorcy, o ile przedsiębiorca nie dysponuje taką analizą, oraz usługach szkoleniowych lub doradczych z zakresu zarządzania przedsiębiorstwem, w tym zarządzania zasobami ludzkimi:
@@ -188,6 +164,7 @@ W przypadku gdy udzielenie pomocy, o której mowa w ust. 4, spowodowałoby przek
 Podstawą wyliczenia wielkości pomocy de minimis lub pomocy publicznej dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy w przypadku uczestnictwa w usługach, o którym mowa w § 12a ust. 1, są wydatki, o których mowa w ust. 1 pkt 2 i 3.
 7.
 Podstawą wyliczenia wielkości pomocy de minimis dla podmiotu, o którym mowa w § 12a ust. 1, są wydatki, o których mowa w ust. 1 pkt 6 i 7.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców w zakresie sukcesji w firmach rodzinnych
 § 12c.
 1.
 Agencja może udzielić wsparcia:
@@ -204,8 +181,7 @@ organizacjom samorządu gospodarczego w rozumieniu ustawy z dnia 22 marca 1989 r
 6)
 organizacjom związkowym w rozumieniu ustawy z dnia 23 maja 1991 r. o związkach zawodowych,
 7)
-przedsiębiorcom
-na realizację projektów szkoleniowych lub doradczych dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców w zakresie przejęcia ogółu lub części praw i obowiązków w firmach rodzinnych.
+przedsiębiorcom na realizację projektów szkoleniowych lub doradczych dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców w zakresie przejęcia ogółu lub części praw i obowiązków w firmach rodzinnych.
 2.
 Wsparcie, o którym mowa w ust. 1, może być udzielone podmiotowi, o którym mowa w ust. 1, który posiada niezbędny potencjał kadrowy, ekonomiczny i techniczny oraz doświadczenie w prowadzeniu działań wspierających firmy rodzinne.
 3.
@@ -239,6 +215,7 @@ W przypadku gdy udzielenie pomocy, o której mowa w ust. 4, spowodowałoby przek
 Podstawą wyliczenia wielkości pomocy de minimis lub pomocy publicznej dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy w przypadku wsparcia, o którym mowa w § 12c ust. 1, są wydatki, o których mowa w ust. 1 pkt 2–4.
 7.
 Podstawą wyliczenia wielkości pomocy de minimis dla podmiotu, o którym mowa w § 12c ust. 1, są wydatki, o których mowa w ust. 1 pkt 6 i 7.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia w zakresie wynikającym z rekomendacji sektorowych rad do spraw kompetencji
 § 12e.
 1.
 Agencja może udzielić wsparcia na realizację projektów polegających na dofinansowaniu dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców lub dużych przedsiębiorców oraz ich pracowników uczestnictwa w usługach szkoleniowych lub doradczych w zakresie wynikającym z rekomendacji sektorowych rad do spraw kompetencji:
@@ -289,6 +266,7 @@ W przypadku gdy udzielenie pomocy, o której mowa w ust. 4, spowodowałoby przek
 Podstawą wyliczenia wielkości pomocy de minimis lub pomocy publicznej dla przedsiębiorcy w przypadku uczestnictwa w usługach, o którym mowa w § 12e ust. 1, są wydatki, o których mowa w ust. 1 pkt 2 i 3.
 7.
 Podstawą wyliczenia wielkości pomocy de minimis dla podmiotu, o którym mowa w § 12e ust. 1, są wydatki, o których mowa w ust. 1 pkt 6 i 7.
+Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców ponownie rozpoczynających działalność gospodarczą oraz na rozwój mikroprzedsiębiorców, małych lub średnich przedsiębiorców w trudnościach
 § 12g.
 1.
 Agencja może udzielić:
@@ -305,8 +283,7 @@ organizacjom samorządu gospodarczego w rozumieniu ustawy z dnia 22 marca 1989 r
 6)
 organizacjom związkowym w rozumieniu ustawy z dnia 23 maja 1991 r. o związkach zawodowych,
 7)
-przedsiębiorcom
-wsparcia na realizację projektów polegających na świadczeniu szkoleń lub doradztwa dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców ponownie rozpoczynających działalność gospodarczą, spełniających kryteria określone w ust. 3.
+przedsiębiorcom wsparcia na realizację projektów polegających na świadczeniu szkoleń lub doradztwa dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców ponownie rozpoczynających działalność gospodarczą, spełniających kryteria określone w ust. 3.
 2.
 Wsparcie, o którym mowa w ust. 1, może być udzielone podmiotowi, który posiada niezbędny potencjał kadrowy, ekonomiczny i techniczny.
 3.
@@ -355,6 +332,7 @@ pokrycie kosztów doradztwa lub innych usług o charakterze doradczym wspierają
 pokrycie pozostałych kosztów bezpośrednio związanych z realizacją usług, o których mowa w pkt 1 i 2.
 4.
 Pomoc finansowa dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców, o której mowa w ust. 1, stanowi wartość pomocy de minimis dla tych przedsiębiorców.
+Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej na podnoszenie zdolności adaptacyjnych przedsiębiorstw w zakresie wdrożenia procesów innowacyjnych
 § 12j.
 1.
 Agencja może udzielić przedsiębiorcy prowadzącemu działalność gospodarczą na terytorium Rzeczypospolitej Polskiej, potwierdzoną wpisem do odpowiedniego rejestru, pomocy finansowej w formie finansowania kosztów usług doradczych lub szkoleniowych świadczonych za cenę niższą niż cena rynkowa przez wykonawców wybranych przez Agencję w trybie określonym w przepisach o zamówieniach publicznych.
@@ -373,17 +351,14 @@ pokrycie pozostałych kosztów bezpośrednio związanych z realizacją usług, o
 5.
 Pomoc finansowa, o której mowa w ust. 1, jest dostępna za częściową odpłatnością ponoszoną przez przedsiębiorców. W przypadku mikroprzedsiębiorców, małych i średnich przedsiębiorców odpłatność wynosi co najmniej 20% wartości świadczonych usług, zaś w przypadku dużych przedsiębiorców odpłatność ta wynosi co najmniej 50% wartości tych usług. Różnica pomiędzy kosztem usług, o których mowa w ust. 1, a częściową odpłatnością poniesioną przez przedsiębiorców stanowi wartość pomocy de minimis dla tych przedsiębiorców.
 6.
-W przypadku gdy udzielenie pomocy, o której mowa w ust. 5, spowodowałoby przekroczenie dopuszczalnej wielkości pomocy de minimis , przedsiębiorca może skorzystać z pomocy publicznej, o której mowa w § 5, na zasadach określonych w art. 18 lub art. 31 rozporządzenia Komisji (UE) nr 651/2014.
-” ;
+W przypadku gdy udzielenie pomocy, o której mowa w ust. 5, spowodowałoby przekroczenie dopuszczalnej wielkości pomocy de minimis , przedsiębiorca może skorzystać z pomocy publicznej, o której mowa w § 5, na zasadach określonych w art. 18 lub art. 31 rozporządzenia Komisji (UE) nr 651/2014. ” ;
 11)
-§ 13 otrzymuje brzmienie:
-„
+§ 13 otrzymuje brzmienie: „
 § 13.
 1.
 Agencja, z zastrzeżeniem ust. 2, udziela pomocy finansowej w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014 2020 (Dz. U. z 2017 r. poz. 1460, 1475 i 2433).
 2.
-Agencja, udzielając pomocy finansowej, o której mowa w § 12i oraz § 12j, kieruje ofertę korzystania z pomocy w sposób zapewniający równe traktowanie przedsiębiorców w ubieganiu się o pomoc oferowaną przez Agencję, w szczególności przez zamieszczenie na stronie internetowej Agencji ogłoszenia o możliwości korzystania z pomocy.
-” .
+Agencja, udzielając pomocy finansowej, o której mowa w § 12i oraz § 12j, kieruje ofertę korzystania z pomocy w sposób zapewniający równe traktowanie przedsiębiorców w ubieganiu się o pomoc oferowaną przez Agencję, w szczególności przez zamieszczenie na stronie internetowej Agencji ogłoszenia o możliwości korzystania z pomocy. ” .
 § 2.
 1.
 Do umów o udzielenie pomocy finansowej zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 3.
@@ -392,16 +367,15 @@ Do wniosków składanych w ramach konkursów ogłoszonych przed dniem wejścia w
 3.
 Do pomocy de minimis oraz pomocy publicznej udzielanej mikroprzedsiębiorcom, małym i średnim przedsiębiorcom po dniu wejścia w życie niniejszego rozporządzenia w ramach wniosków składanych w konkursach ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia oraz umów o udzielenie wsparcia zawartych przed dniem wejścia w życie niniejszego rozporządzenia w zakresie wsparcia, o którym mowa w rozdziale 3 rozporządzenia, o którym mowa w § 1, stosuje się przepisy w brzmieniu określonym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460, 1475 i 2433) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Wiedza Edukacja Rozwój 2014–2020. 2) Tekst Programu Operacyjnego Wiedza Edukacja Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 17 grudnia 2014 r. przyjmującą niektóre elementy programu operacyjnego „Wiedza Edukacja Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Społecznego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Wiedza Edukacja Rozwój na lata 2014–2020. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10 oraz Dz. Urz. UE L 156 z 20.06.2017, str. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2017 r. poz. 1460, 1475 i 2433) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Wiedza Edukacja Rozwój 2014–2020. 2) Tekst Programu Operacyjnego Wiedza Edukacja Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 17 grudnia 2014 r. przyjmującą niektóre elementy programu operacyjnego „Wiedza Edukacja Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Społecznego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą nr 91/2014 Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Wiedza Edukacja Rozwój na lata 2014–2020. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10 oraz Dz. Urz. UE L 156 z 20.06.2017, str. 1.
 
-#### Rozdział 4a Szczegółowe przeznaczenie i warunki udzielania wsparcia na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców w obszarze zarządzania przedsiębiorstwem, w tym zarządzania zasobami ludzkimi
+#### Rozdział 4a
 
-#### Rozdział 4b Szczegółowe przeznaczenie i warunki udzielania wsparcia na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców w zakresie sukcesji w firmach rodzinnych
+#### Rozdział 4b
 
-#### Rozdział 4c Szczegółowe przeznaczenie i warunki udzielania wsparcia w zakresie wynikającym z rekomendacji sektorowych rad do spraw kompetencji
+#### Rozdział 4c
 
-#### Rozdział 4d Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej na rzecz mikroprzedsiębiorców, małych lub średnich przedsiębiorców ponownie rozpoczynających działalność gospodarczą oraz na rozwój mikroprzedsiębiorców, małych lub średnich przedsiębiorców w trudnościach
+#### Rozdział 4d
 
-#### Rozdział 4e Szczegółowe przeznaczenie i warunki udzielania pomocy finansowej na podnoszenie zdolności adaptacyjnych przedsiębiorstw w zakresie wdrożenia procesów innowacyjnych
+#### Rozdział 4e
 

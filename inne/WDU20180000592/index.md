@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-07 |
 | Data wydania | 2018-03-22 |
-| Wejście w życie | 2018-03-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/592/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 400q ust. 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 400q ust. 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290 oraz z 2018 r. poz. 9, 88 i 534.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 16 listopada 2010 r. w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 1479) w § 9 wyrazy „podmiot uprawniony do badania sprawozdania finansowego” zastępuje się wyrazami „firmę audytorską”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290 oraz z 2018 r. poz. 9, 88 i 534.
 

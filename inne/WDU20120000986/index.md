@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-28 |
 | Data wydania | 2012-08-31 |
-| Wejście w życie | 2012-09-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000986) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/986/text.pdf) |
 
 Odpowiedzialność za wykroczenia przeciwko przepisom ustawy
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 2 otrzymuje brzmienie: „
 - **2)** osobie niepełnosprawnej bezrobotnej lub niepełnosprawnej poszukującej pracy – oznacza to osobę niepełnosprawną bezrobotną lub niepełnosprawną poszukującą pracy w rozumieniu przepisów o promocji zatrudnienia i instytucjach rynku pracy; ” ;
@@ -135,7 +134,7 @@ Odpowiedzialność za wykroczenia przeciwko przepisom ustawy
 8. Przepisu ust. 7 nie stosuje się w przypadku, gdy pracodawca sfinansował wynagrodzenie pracownika:
 
 - **1)** ze środków publicznych z prowadzonej działalności, o których mowa w art. 5 ust. 1 pkt 5,
-- **2)** z dochodów publicznych, o których mowa w art. 5 ust. 2 pkt 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.). ” ;
+- **2)** z dochodów publicznych, o których mowa w art. 5 ust. 2 pkt 3 – ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183, Nr 234, poz. 1386, Nr 240, poz. 1429 i Nr 291, poz. 1707.). ” ;
 - **11)** w art. 26e uchyla się ust. 4;
 - **12)** w art. 29: w ust. 1 pkt 4 otrzymuje brzmienie: „
     - **a)**
@@ -179,7 +178,7 @@ Odpowiedzialność za wykroczenia przeciwko przepisom ustawy
 - **1)** wpłaty pracodawców, o których mowa w art. 21 ust. 1, art. 23 oraz art. 31 ust. 3 pkt 1; ” ;
 - **16)** w art. 49 ust. 1 otrzymuje brzmienie: „
 
-1. Do wpłat, o których mowa w art. 21 ust. 1, art. 23, art. 29 ust. 3a1, 3b, 3c i 3g, art. 31 ust. 3 pkt 1 lit. a, art. 33 ust. 4a, 4a1, 4c, 7 i 7a, oraz art. 38 ust. 2 pkt 1 lit. a tiret pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) stosuje się odpowiednio, z zastrzeżeniem ust. 5a-5d oraz art. 49a i art. 49b, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749), zwanej dalej „Ordynacją podatkową”, z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują Prezesowi Zarządu Funduszu. ” ;
+1. Do wpłat, o których mowa w art. 21 ust. 1, art. 23, art. 29 ust. 3a1, 3b, 3c i 3g, art. 31 ust. 3 pkt 1 lit. a, art. 33 ust. 4a, 4a1, 4c, 7 i 7a, oraz art. 38 ust. 2 pkt 1 lit. a tiret pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596 i 769.) stosuje się odpowiednio, z zastrzeżeniem ust. 5a-5d oraz art. 49a i art. 49b, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749), zwanej dalej „Ordynacją podatkową”, z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują Prezesowi Zarządu Funduszu. ” ;
 
 - **17)** po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „
 
@@ -188,13 +187,13 @@ Odpowiedzialność za wykroczenia przeciwko przepisom ustawy
 **Art. 56a.** Kto nie dopełnia obowiązków składania informacji, o których mowa w art. 21 ust. 2f, lub deklaracji, o których mowa w art. 49 ust. 2, podlega karze grzywny do 500 złotych. Kto:
 
 - **1)** udaremnia lub utrudnia przeprowadzenie kontroli,
-- **2)** zgłasza nieprawdziwe dane lub udziela nieprawdziwych wyjaśnień lub odmawia ich udzielenia podlega karze grzywny do 5000 złotych.
+- **2)** zgłasza nieprawdziwe dane lub udziela nieprawdziwych wyjaśnień lub odmawia ich udzielenia – podlega karze grzywny do 5000 złotych.
 
-1. Orzekanie w sprawach o czyny, o których mowa w art. 56a i art. 56b, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.).
+1. Orzekanie w sprawach o czyny, o których mowa w art. 56a i art. 56b, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466 oraz z 2011 r. Nr 217, poz. 1280, Nr 240, poz. 1431 i Nr 244, poz. 1454.).
 
 2. Orzeczone i wyegzekwowane kary grzywien, o których mowa w art. 56a i art. 56b, sądy przekazują bezpośrednio na rachunek Funduszu. ” .
 
-**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm.) w art. 33:
+**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 219, poz. 1706, z 2010 r. Nr 96, poz. 620, Nr 108, poz. 685, Nr 152, poz. 1020, Nr 161, poz. 1078, Nr 226, poz. 1475 i Nr 238, poz. 1578 oraz z 2011 r. Nr 171, poz. 1016, Nr 178, poz. 1061 i Nr 197, poz. 1170.) w art. 33:
 
 - **1)** po pkt 1 dodaje się pkt 1a w brzmieniu: „
 - **1a)** po art. 22 dodaje się art. 22a w brzmieniu: „ Pełnomocnik może przeprowadzać kontrolę u sprzedającego lub nabywcy w zakresie prawidłowości realizacji przepisu art. 22.”; ” ; ” ;
@@ -235,7 +234,7 @@ Odpowiedzialność za wykroczenia przeciwko przepisom ustawy
 
 - **6)** w pkt 19 w lit. a ust. 1 otrzymuje brzmienie: „
 
-1. Do wpłat, o których mowa w art. 21 ust. 1, art. 23, art. 29 ust. 3a1, 3b, 3c i 3g, art. 31 ust. 3 pkt 1 lit. a, art. 33 ust. 4a, 4a1, 4c, 7 i 7a, oraz art. 38 ust. 2 pkt 1 lit. a tiret pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) stosuje się odpowiednio, z zastrzeżeniem ust. 5a-5d oraz art. 49a i art. 49b, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749), zwanej dalej „Ordynacją podatkową”, z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują Pełnomocnikowi. ” .
+1. Do wpłat, o których mowa w art. 21 ust. 1, art. 23, art. 29 ust. 3a1, 3b, 3c i 3g, art. 31 ust. 3 pkt 1 lit. a, art. 33 ust. 4a, 4a1, 4c, 7 i 7a, oraz art. 38 ust. 2 pkt 1 lit. a tiret pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596 i 769.) stosuje się odpowiednio, z zastrzeżeniem ust. 5a-5d oraz art. 49a i art. 49b, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749), zwanej dalej „Ordynacją podatkową”, z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują Pełnomocnikowi. ” .
 
 **Art. 3.** W ustawie z dnia 29 października 2010 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz niektórych innych ustaw (Dz. U. Nr 226, poz. 1475) art. 10 otrzymuje brzmienie: „
 
@@ -257,6 +256,6 @@ Odpowiedzialność za wykroczenia przeciwko przepisom ustawy
 **Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 6 lit. b, pkt 9 lit. b i pkt 10, które wchodzą w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia;
-- **2)** art. 1 pkt 2–5, pkt 9 lit. a i c, pkt 12 lit. e i pkt 16, które wchodzą w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia.
+- **2)** art. 1 pkt 2–5, pkt 9 lit. a i c, pkt 12 lit. e i pkt 16, które wchodzą w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183, Nr 234, poz. 1386, Nr 240, poz. 1429 i Nr 291, poz. 1707. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596 i 769. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466 oraz z 2011 r. Nr 217, poz. 1280, Nr 240, poz. 1431 i Nr 244, poz. 1454. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 219, poz. 1706, z 2010 r. Nr 96, poz. 620, Nr 108, poz. 685, Nr 152, poz. 1020, Nr 161, poz. 1078, Nr 226, poz. 1475 i Nr 238, poz. 1578 oraz z 2011 r. Nr 171, poz. 1016, Nr 178, poz. 1061 i Nr 197, poz. 1170. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596 i 769.
 
 

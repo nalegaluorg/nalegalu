@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie warunków i trybu przyznawania pomocy finansowej na kształcenie weteranów poszkodowanych-funkcjonariuszy
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie warunków i trybu przyznawania pomocy finansowej na kształcenie weteranów poszkodowanych-funkcjonariuszy Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -31,17 +31,14 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 czerwca 2012 r. w sprawie warunków i trybu przyznawania pomocy finansowej na kształcenie weteranów poszkodowanych-funkcjonariuszy (Dz. U. poz. 685), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. zmieniającym rozporządzenie w sprawie warunków i trybu przyznawania pomocy na kształcenie weteranów poszkodowanych-funkcjonariuszy (Dz. U. poz. 1819).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. zmieniającego rozporządzenie w sprawie warunków i trybu przyznawania pomocy na kształcenie weteranów poszkodowanych-funkcjonariuszy (Dz. U. poz. 1819), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. zmieniającego rozporządzenie w sprawie warunków i trybu przyznawania pomocy na kształcenie weteranów poszkodowanych-funkcjonariuszy (Dz. U. poz. 1819), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 czerwca 2012 r. w sprawie warunków i trybu przyznawania pomocy finansowej na kształcenie weteranów poszkodowanych-funkcjonariuszy
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 czerwca 2012 r. w sprawie warunków i trybu przyznawania pomocy finansowej na kształcenie weteranów poszkodowanych-funkcjonariuszyObecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Na podstawie art. 27 ust. 7 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2020 r. poz. 2055 oraz z 2022 r. poz. 655) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. zmieniającego rozporządzenie w sprawie warunków i trybu przyznawania pomocy na kształcenie weteranów poszkodowanych-funkcjonariuszy (Dz. U. poz. 1819), które weszło w życie z dniem 10 października 2018 r.)
 warunki i tryb przyznawania pomocy finansowej, o której mowa w art. 27 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, zwanej dalej „pomocą”, weteranowi poszkodowanemu-funkcjonariuszowi Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa oraz Państwowej Straży Pożarnej, zwanemu dalej „weteranem poszkodowanym-funkcjonariuszem”;
 2)
 właściwość organów;
@@ -52,7 +49,7 @@ warunki zawieszania udzielania pomocy i zwrotu kosztów kształcenia.
 § 2.
 1.
 Pomoc przyznawana jest na wniosek złożony przez weterana poszkodowanego-funkcjonariusza.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek składa się do przełożonego właściwego w sprawach osobowych weterana poszkodowanego-funkcjonariusza według jego ostatniego miejsca pełnienia służby albo ostatniego jego pracodawcy odpowiednio w Policji, Straży Granicznej, Służbie Ochrony Państwa albo Państwowej Straży Pożarnej, a w przypadku weterana poszkodowanego-funkcjonariusza Biura Ochrony Rządu do Komendanta Służby Ochrony Państwa, zwanego dalej „organem”.
 § 3.
 1.
@@ -107,6 +104,5 @@ W przypadku nieukończenia studiów, określonym w art. 27 ust. 6 ustawy z dnia 
 2.
 Organ wydaje decyzję w sprawie zwrotu pomocy, w której wzywa weterana poszkodowanego-funkcjonariusza do zwrotu udzielonej pomocy, wskazując jednocześnie rachunek bankowy do dokonania zwrotu.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. zmieniającego rozporządzenie w sprawie warunków i trybu przyznawania pomocy na kształcenie weteranów poszkodowanych-funkcjonariuszy (Dz. U. poz. 1819), które weszło w życie z dniem 10 października 2018 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 20 czerwca 2012 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 czerwca 2012 r.. 1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. zmieniającego rozporządzenie w sprawie warunków i trybu przyznawania pomocy na kształcenie weteranów poszkodowanych-funkcjonariuszy (Dz. U. poz. 1819), które weszło w życie z dniem 10 października 2018 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 20 czerwca 2012 r.
 

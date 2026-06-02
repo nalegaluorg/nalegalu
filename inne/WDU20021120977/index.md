@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-06-20 |
 | Data wydania | 2002-07-20 |
-| Wejście w życie | 2002-08-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021120977) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/977/text.pdf) |
 
@@ -42,8 +41,11 @@ source: "eli-html"
 - **2)** dzieciach i młodzieży dotkniętych inwalidztwem lub niepełnosprawnych – należy przez to rozumieć dzieci i młodzież dotknięte inwalidztwem lub niepełnosprawne do ukończenia 24 roku życia oraz studentów dotkniętych inwalidztwem lub niepełnosprawnych do ukończenia 26 roku życia,
 - **3)** opiekunach lub przewodnikach – należy przez to rozumieć jedną osobę pełnoletnią, a w przypadku przewodnika osoby niewidomej – osobę, która ukończyła 13 lat, albo psa – przewodnika,
 - **4)** uldze 100% – należy przez to rozumieć uprawnienie do uzyskania w kasie biletowej przewoźnika biletu z ulgą 100% wydawanego nieodpłatnie. ” ;
-- **2)** w art. 1b: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) osób odbywających podróż na podstawie wykupionych od przewoźnika na rzecz tych osób legitymacji lub biletów uprawniających do ulgowych przejazdów, z zastrzeżeniem art. 5a, ” – w pkt 3 na końcu dodaje się wyrazy „w zakresie, w jakim firmy te przyznały uprawnienia do ulgowych przejazdów,” – pkt 5 otrzymuje brzmienie: „ 5) pasażerów odbywających podróż pociągami EuroCity i InterCity w komunikacji międzynarodowej, ” – w pkt 6 po wyrazie „autobusowej” skreśla się wyrazy „przyspieszonej, pospiesznej i”, w ust. 2 po wyrazie „wynosić” dodaje się wyrazy „95%,”;
+- **2)** w art. 1b: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** osób odbywających podróż na podstawie wykupionych od przewoźnika na rzecz tych osób legitymacji lub biletów uprawniających do ulgowych przejazdów, z zastrzeżeniem art. 5a, ” – w pkt 3 na końcu dodaje się wyrazy „w zakresie, w jakim firmy te przyznały uprawnienia do ulgowych przejazdów,” pkt 5 otrzymuje brzmienie: „
+- **5)** pasażerów odbywających podróż pociągami EuroCity i InterCity w komunikacji międzynarodowej, ” – w pkt 6 po wyrazie „autobusowej” skreśla się wyrazy „przyspieszonej, pospiesznej i”, w ust. 2 po wyrazie „wynosić” dodaje się wyrazy „95%,”;
     - **b)**
 
 - **3)** art. 2 otrzymuje brzmienie: „

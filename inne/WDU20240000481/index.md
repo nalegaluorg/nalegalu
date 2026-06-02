@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-29 |
 | Data wydania | 2024-03-29 |
-| Wejście w życie | 2024-04-01 |
 | Ostatnia zmiana | 2024-09-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000481) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/481/text.pdf) |
 
@@ -31,22 +30,17 @@ Na podstawie art. 14 ust. 3 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 26 sierpnia 2022 r. w sprawie Rady Legislacyjnej (Dz. U. poz. 1818) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+w § 2 w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
-wiceprzewodniczącego Rady – na wniosek przewodniczącego Rady.
-” ;
+wiceprzewodniczącego Rady – na wniosek przewodniczącego Rady. ” ;
 2)
-w § 5 ust. 2 otrzymuje brzmienie:
-„
+w § 5 ust. 2 otrzymuje brzmienie: „
 2.
-Przewodniczący Rady może zarządzić rozpatrzenie sprawy w drodze korespondencyjnego uzgodnienia stanowisk (tryb obiegowy).
-” ;
+Przewodniczący Rady może zarządzić rozpatrzenie sprawy w drodze korespondencyjnego uzgodnienia stanowisk (tryb obiegowy). ” ;
 3)
 w § 8:
 a)
-ust. 1 i 2 otrzymują brzmienie:
-„
+ust. 1 i 2 otrzymują brzmienie: „
 1.
 Wysokość wynagrodzenia ryczałtowego za udział w posiedzeniach Rady dla członków Rady wynosi:
 1)
@@ -68,20 +62,17 @@ opinii innych niż określone w pkt 1, ekspertyz oraz innych opracowań, stanowi
 a)
 1000 zł – w przypadku sporządzenia przez jednego członka Rady,
 b)
-500 zł – w przypadku sporządzenia przez dwóch lub więcej członków Rady.
-” ,
+500 zł – w przypadku sporządzenia przez dwóch lub więcej członków Rady. ” ,
 b)
 w ust. 5 wyrazy „o którym mowa w ust. 2 pkt 2” zastępuje się wyrazami „o którym mowa w ust. 2 pkt 1 lit. b i pkt 2 lit. b”;
 4)
-w § 10 ust. 1 otrzymuje brzmienie:
-„
+w § 10 ust. 1 otrzymuje brzmienie: „
 1.
 Wysokość wynagrodzenia dla osób zaproszonych do udziału w pracach Rady wynosi:
 1)
 300 zł – wynagrodzenie ryczałtowe za udział w posiedzeniach Rady, za każdy dzień posiedzenia;
 2)
-1000 zł – za sporządzenie opinii lub ekspertyzy.
-” .
+1000 zł – za sporządzenie opinii lub ekspertyzy. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2024 r.
 

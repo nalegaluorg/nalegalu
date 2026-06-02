@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o bezpieczeństwie morskim
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o bezpieczeństwie morskim Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2109 z dnia 15 listopada 2017 r. zmieniającą dyrektywę Rady 98/41/WE w sprawie rejestracji osób podróżujących na pokładzie statków pasażerskich płynących do portów państw członkowskich Wspólnoty lub z portów państw członkowskich Wspólnoty oraz dyrektywę Parlamentu Europejskiego i Rady 2010/65/UE w sprawie formalności sprawozdawczych dla statków wchodzących do lub wychodzących z portów państw członkowskich (Dz. Urz. UE L 315 z 30.11.2017, str. 52); 2) dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2110 z dnia 15 listopada 2017 r. w sprawie systemu inspekcji na potrzeby bezpiecznej eksploatacji statków pasażerskich typu ro-ro i szybkich jednostek pasażerskich uprawiających żeglugę na linii regularnej oraz zmieniającą dyrektywę 2009/16/WE i uchylającą dyrektywę Rady 1999/35/WE (Dz. Urz. UE L 315 z 30.11.2017, str. 61).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-04 |
 | Data wydania | 2019-09-05 |
-| Wejście w życie | 2019-12-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001702) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1702/text.pdf) |
 
@@ -209,7 +208,7 @@ source: "eli-html"
 **Art. 106.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia:
 
 - **1)** sposób liczenia osób odbywających podróż morską na statkach, o których mowa w art. 103 ust. 1,
-- **2)** warunki udzielania zwolnień od obowiązku liczenia lub rejestracji osób odbywających podróż morską na statkach, o których mowa w art. 103 ust. 1 kierując się koniecznością zwiększenia bezpieczeństwa oraz skuteczności ratowania pasażerów i członków załogi oraz prowadzenia akcji poszukiwawczych i ratowniczych, z uwzględnieniem przepisów Unii Europejskiej w zakresie rejestracji osób podróżujących na statkach pasażerskich. ” ;
+- **2)** warunki udzielania zwolnień od obowiązku liczenia lub rejestracji osób odbywających podróż morską na statkach, o których mowa w art. 103 ust. 1 – kierując się koniecznością zwiększenia bezpieczeństwa oraz skuteczności ratowania pasażerów i członków załogi oraz prowadzenia akcji poszukiwawczych i ratowniczych, z uwzględnieniem przepisów Unii Europejskiej w zakresie rejestracji osób podróżujących na statkach pasażerskich. ” ;
 - **23)** w art. 116 dodaje się ust. 4 w brzmieniu: „
 
 4. Do pracowników jednostek organizacyjnych, o których mowa w ust. 3 pkt 1 i 3, może być stosowany system równoważnego czasu pracy, w którym jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy do 24 godzin, w okresie rozliczeniowym nieprzekraczającym 3 miesięcy. ” ;
@@ -269,5 +268,5 @@ source: "eli-html"
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmów korygujących, o których mowa w ust. 2, jest minister właściwy do spraw gospodarki morskiej.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem 21 grudnia 2019 r., z wyjątkiem art. 1 pkt 23 i 24, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie z dniem 21 grudnia 2019 r., z wyjątkiem art. 1 pkt 23 i 24, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2109 z dnia 15 listopada 2017 r. zmieniającą dyrektywę Rady 98/41/WE w sprawie rejestracji osób podróżujących na pokładzie statków pasażerskich płynących do portów państw członkowskich Wspólnoty lub z portów państw członkowskich Wspólnoty oraz dyrektywę Parlamentu Europejskiego i Rady 2010/65/UE w sprawie formalności sprawozdawczych dla statków wchodzących do lub wychodzących z portów państw członkowskich (Dz. Urz. UE L 315 z 30.11.2017, str. 52); 2) dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2110 z dnia 15 listopada 2017 r. w sprawie systemu inspekcji na potrzeby bezpiecznej eksploatacji statków pasażerskich typu ro-ro i szybkich jednostek pasażerskich uprawiających żeglugę na linii regularnej oraz zmieniającą dyrektywę 2009/16/WE i uchylającą dyrektywę Rady 1999/35/WE (Dz. Urz. UE L 315 z 30.11.2017, str. 61).
 

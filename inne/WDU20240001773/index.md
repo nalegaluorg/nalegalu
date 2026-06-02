@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw (Dz. U. poz. 1667) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 listopada 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 i art. 12 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw (Dz. U. poz. 1667), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 i art. 12 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw (Dz. U. poz. 1667), które stanowią: „
 
 **Art. 11.**
 
@@ -47,9 +46,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 1.** Użyte w ustawie określenia oznaczają:
 
-- **1)** „Rada Dialogu Społecznego” – Rada Dialogu Społecznego, o której mowa w ustawie z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm.);
+- **1)** „Rada Dialogu Społecznego” – Rada Dialogu Społecznego, o której mowa w ustawie z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666 oraz z 2023 r. poz. 1586 i 1723.);
 - **1a)** „minimalna stawka godzinowa” – minimalna wysokość wynagrodzenia za każdą godzinę wykonania zlecenia lub świadczenia usług, przysługująca przyjmującemu zlecenie lub świadczącemu usługi;
-- **1b)** „przyjmujący zlecenie lub świadczący usługi”: osoba fizyczna wykonująca działalność gospodarczą zarejestrowaną w Rzeczypospolitej Polskiej albo w państwie niebędącym państwem członkowskim Unii Europejskiej lub państwem Europejskiego Obszaru Gospodarczego, niezatrudniająca pracowników lub niezawierająca umów ze zleceniobiorcami albo osoba fizyczna niewykonująca działalności gospodarczej która przyjmuje zlecenie lub świadczy usługi na podstawie umów, o których mowa w art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), zwanej dalej „Kodeksem cywilnym”, na rzecz przedsiębiorcy lub na rzecz innej jednostki organizacyjnej, w ramach prowadzonej przez te podmioty działalności;
+- **1b)** „przyjmujący zlecenie lub świadczący usługi”: osoba fizyczna wykonująca działalność gospodarczą zarejestrowaną w Rzeczypospolitej Polskiej albo w państwie niebędącym państwem członkowskim Unii Europejskiej lub państwem Europejskiego Obszaru Gospodarczego, niezatrudniająca pracowników lub niezawierająca umów ze zleceniobiorcami albo osoba fizyczna niewykonująca działalności gospodarczej – która przyjmuje zlecenie lub świadczy usługi na podstawie umów, o których mowa w art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), zwanej dalej „Kodeksem cywilnym”, na rzecz przedsiębiorcy lub na rzecz innej jednostki organizacyjnej, w ramach prowadzonej przez te podmioty działalności;
     - **a)**
     - **b)**
 
@@ -63,8 +62,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **7)** „przeciętna liczba osób na utrzymaniu osoby pracującej najemnie” – przeciętna w roku liczba osób na utrzymaniu osoby pracującej najemnie dla 20 % osób o najniższych dochodach w gospodarstwach domowych pracowników, uzyskana z prowadzonego przez Główny Urząd Statystyczny badania budżetów gospodarstw domowych;
 - **8)** „rok następny” – rok, na który ustala się wysokość minimalnego wynagrodzenia za pracę oraz wysokość minimalnej stawki godzinowej;
 - **9)** „rok poprzedni” – rok poprzedzający rok, w którym odbywają się negocjacje Rady Dialogu Społecznego;
-- **10)** „dodatek za staż pracy” – dodatek do wynagrodzenia przysługujący pracownikowi z tytułu osiągnięcia ustalonego okresu zatrudnienia, na zasadach określonych w odrębnych przepisach, układzie zbiorowym pracy, innym opartym na ustawie porozumieniu zbiorowym, regulaminie wynagradzania, statucie określającym prawa i obowiązki stron stosunku pracy, umowie o pracę lub spółdzielczej umowie o pracę;
-- **11)** „dodatek za szczególne warunki pracy” – dodatek do wynagrodzenia z tytułu wykonywania pracy w warunkach szczególnie uciążliwych lub szczególnie szkodliwych dla zdrowia, pracy związanej z dużym wysiłkiem fizycznym lub umysłowym lub pracy szczególnie niebezpiecznej, przysługujący pracownikowi na zasadach określonych w odrębnych przepisach, układzie zbiorowym pracy, innym opartym na ustawie porozumieniu zbiorowym, regulaminie wynagradzania, statucie określającym prawa i obowiązki stron stosunku pracy, umowie o pracę lub spółdzielczej umowie o pracę.
+- **10)** „dodatek za staż pracy” – dodatek do wynagrodzenia przysługujący pracownikowi z tytułu osiągnięcia ustalonego okresu zatrudnienia, na zasadach określonych w odrębnych przepisach, układzie zbiorowym pracy, innym opartym na ustawie porozumieniu zbiorowym, regulaminie wynagradzania, statucie określającym prawa i obowiązki stron stosunku pracy, umowie o pracę lub spółdzielczej umowie o pracę; 11Dodany przez art. 4 pkt 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw (Dz. U. poz. 1667), która weszła w życie z dniem 1 stycznia 2024 r.) „dodatek za szczególne warunki pracy” – dodatek do wynagrodzenia z tytułu wykonywania pracy w warunkach szczególnie uciążliwych lub szczególnie szkodliwych dla zdrowia, pracy związanej z dużym wysiłkiem fizycznym lub umysłowym lub pracy szczególnie niebezpiecznej, przysługujący pracownikowi na zasadach określonych w odrębnych przepisach, układzie zbiorowym pracy, innym opartym na ustawie porozumieniu zbiorowym, regulaminie wynagradzania, statucie określającym prawa i obowiązki stron stosunku pracy, umowie o pracę lub spółdzielczej umowie o pracę.
 
 **Art. 2.**
 
@@ -132,8 +130,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** odprawy pieniężnej przysługującej pracownikowi w związku z przejściem na emeryturę lub rentę z tytułu niezdolności do pracy;
 - **3)** wynagrodzenia za pracę w godzinach nadliczbowych;
 - **4)** dodatku do wynagrodzenia za pracę w porze nocnej;
-- **5)** dodatku za staż pracy;
-- **6)** dodatku za szczególne warunki pracy.
+- **5)** dodatku za staż pracy; 6Dodany przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2.) dodatku za szczególne warunki pracy.
 
 **Art. 7.**
 
@@ -177,7 +174,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** umów, o których mowa w art. 734 i art. 750 Kodeksu cywilnego, jeżeli o miejscu i czasie wykonania zlecenia lub świadczenia usług decyduje przyjmujący zlecenie lub świadczący usługi i przysługuje mu wyłącznie wynagrodzenie prowizyjne;
 - **2)** umów dotyczących usług opiekuńczych i bytowych realizowanych poprzez prowadzenie rodzinnego domu pomocy na podstawie art. 52 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572);
-- **3)** umów: o pełnienie funkcji rodziny zastępczej zawodowej, o utworzeniu rodziny zastępczej zawodowej lub rodzinnego domu dziecka, w przedmiocie prowadzenia rodzinnego domu dziecka, w przedmiocie pełnienia funkcji rodziny pomocowej, w przedmiocie pełnienia funkcji dyrektora placówki opiekuńczo-wychowawczej typu rodzinnego, w przedmiocie pełnienia funkcji wychowawcy wyznaczonego do pomocy w kierowaniu placówką opiekuńczo-wychowawczą typu rodzinnego, w przypadku gdy w tej placówce nie ma zatrudnionego dyrektora jeżeli ze względu na charakter sprawowanej opieki usługi są świadczone nieprzerwanie przez okres dłuższy niż 1 doba;
+- **3)** umów: o pełnienie funkcji rodziny zastępczej zawodowej, o utworzeniu rodziny zastępczej zawodowej lub rodzinnego domu dziecka, w przedmiocie prowadzenia rodzinnego domu dziecka, w przedmiocie pełnienia funkcji rodziny pomocowej, w przedmiocie pełnienia funkcji dyrektora placówki opiekuńczo-wychowawczej typu rodzinnego, w przedmiocie pełnienia funkcji wychowawcy wyznaczonego do pomocy w kierowaniu placówką opiekuńczo-wychowawczą typu rodzinnego, w przypadku gdy w tej placówce nie ma zatrudnionego dyrektora – jeżeli ze względu na charakter sprawowanej opieki usługi są świadczone nieprzerwanie przez okres dłuższy niż 1 doba;
     - **a)**
     - **b)**
     - **c)**
@@ -193,9 +190,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 3. Przez wynagrodzenie prowizyjne, o którym mowa w ust. 1 pkt 1, należy rozumieć wynagrodzenie uzależnione od wyników:
 
 - **1)** uzyskanych przez przyjmującego zlecenie lub świadczącego usługi w ramach wykonania zlecenia lub świadczenia usług lub
-- **2)** działalności przedsiębiorcy albo innej jednostki organizacyjnej, na rzecz których jest wykonywane zlecenie lub są świadczone usługi takich jak liczba zawartych umów, wartość zawartych umów, sprzedaż, obrót, pozyskane zlecenia, wykonane usługi lub uzyskane należności. Kto, będąc przedsiębiorcą albo działając w imieniu przedsiębiorcy albo innej jednostki organizacyjnej, wypłaca przyjmującemu zlecenie lub świadczącemu usługi wynagrodzenie za każdą godzinę wykonania zlecenia lub świadczenia usług w wysokości niższej niż obowiązująca wysokość minimalnej stawki godzinowej, podlega karze grzywny od 1000 zł do 30 000 zł. Orzekanie w sprawach o czyny, o których mowa w art. 8e, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544). Art. 9–24. (pominięte)
+- **2)** działalności przedsiębiorcy albo innej jednostki organizacyjnej, na rzecz których jest wykonywane zlecenie lub są świadczone usługi – takich jak liczba zawartych umów, wartość zawartych umów, sprzedaż, obrót, pozyskane zlecenia, wykonane usługi lub uzyskane należności. Kto, będąc przedsiębiorcą albo działając w imieniu przedsiębiorcy albo innej jednostki organizacyjnej, wypłaca przyjmującemu zlecenie lub świadczącemu usługi wynagrodzenie za każdą godzinę wykonania zlecenia lub świadczenia usług w wysokości niższej niż obowiązująca wysokość minimalnej stawki godzinowej, podlega karze grzywny od 1000 zł do 30 000 zł. Orzekanie w sprawach o czyny, o których mowa w art. 8e, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544). Art. 9–24. (pominięte)
 
 **Art. 25.** Ilekroć w przepisach prawa jest mowa o „najniższym wynagrodzeniu za pracę pracowników” przez odwołanie się do odrębnych przepisów lub do Kodeksu pracy albo przez wskazanie Ministra Pracy i Polityki Socjalnej, Ministra Pracy i Polityki Społecznej lub ministra właściwego do spraw pracy jako zobowiązanego do ustalania takiego wynagrodzenia na podstawie odrębnych przepisów lub Kodeksu pracy, oznacza to kwotę 760 zł.
 
-**Art. 26.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r.
+**Art. 26.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666 oraz z 2023 r. poz. 1586 i 1723. 2) Dodany przez art. 4 pkt 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw (Dz. U. poz. 1667), która weszła w życie z dniem 1 stycznia 2024 r. 3) Dodany przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-03-05 |
 | Data wydania | 2010-05-07 |
-| Wejście w życie | 2010-06-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100760493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/493/text.pdf) |
 
@@ -48,7 +47,7 @@ source: "eli-html"
 4. Premię kompensacyjną przeznacza się na refinansowanie całości lub części kosztów:
 
 - **1)** przedsięwzięcia remontowego,
-- **2)** remontu budynku mieszkalnego jednorodzinnego jeżeli dotyczą budynku spełniającego kryteria określone w ust. 1. ” ;
+- **2)** remontu budynku mieszkalnego jednorodzinnego – jeżeli dotyczą budynku spełniającego kryteria określone w ust. 1. ” ;
 - **3)** w art. 11 ust. 1 otrzymuje brzmienie: „
 
 1. W przypadku inwestora, o którym mowa w art. 10 ust. 1, wysokość premii kompensacyjnej przysługującej inwestorowi jest równa iloczynowi wskaźnika kosztu przedsięwzięcia oraz kwoty wynoszącej 2% wskaźnika przeliczeniowego za każdy 1 m2 powierzchni użytkowej lokalu kwaterunkowego za każdy rok, w którym obowiązywały w stosunku do tego lokalu ograniczenia określone w art. 2 pkt 13, w okresie od dnia 12 listopada 1994 r. do dnia 25 kwietnia 2005 r., a w przypadku nabycia budynku albo części budynku po dniu 12 listopada 1994 r. w sposób inny niż w drodze spadkobrania – od dnia nabycia do dnia 25 kwietnia 2005 r. ” ;

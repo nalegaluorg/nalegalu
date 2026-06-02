@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 11 sierpnia 2017 r. w sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w publicznym przedszkolu, publicznej szkole podstawowej, publicznej szkole ponadpodstawowej oraz publicznej placówce
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 11 sierpnia 2017 r. w sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w publicznym przedszkolu, publicznej szkole podstawowej, publicznej szkole ponadpodstawowej oraz publicznej placówce Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-11 |
 | Data wydania | 2017-08-25 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001597) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1597/text.pdf) |
 
@@ -43,14 +42,13 @@ co najmniej dobrą ocenę pracy w okresie ostatnich pięciu lat pracy lub
 b)
 pozytywną ocenę dorobku zawodowego w okresie ostatniego roku albo
 c)
-w przypadku nauczyciela akademickiego – pozytywną ocenę pracy w okresie ostatnich czterech lat pracy w szkole wyższej
-przed przystąpieniem do konkursu na stanowisko dyrektora, a w przypadku, o którym mowa w art. 63 ust. 11 i 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, jeżeli nie przeprowadzono konkursu – przed powierzeniem stanowiska dyrektora;
+w przypadku nauczyciela akademickiego – pozytywną ocenę pracy w okresie ostatnich czterech lat pracy w szkole wyższej – przed przystąpieniem do konkursu na stanowisko dyrektora, a w przypadku, o którym mowa w art. 63 ust. 11 i 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, jeżeli nie przeprowadzono konkursu – przed powierzeniem stanowiska dyrektora;
 5)
 spełnia warunki zdrowotne niezbędne do wykonywania pracy na stanowisku kierowniczym;
 6)
 ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych;
 7)
-nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2017 r. poz. 1189), a w przypadku nauczyciela akademickiego – karą dyscyplinarną, o której mowa w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.), oraz nie toczy się przeciwko niemu postępowanie dyscyplinarne;
+nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2017 r. poz. 1189), a w przypadku nauczyciela akademickiego – karą dyscyplinarną, o której mowa w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859, 1321, 1428 i 1530.), oraz nie toczy się przeciwko niemu postępowanie dyscyplinarne;
 8)
 nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 9)
@@ -142,8 +140,7 @@ co najmniej dobrą ocenę pracy w okresie ostatnich czterech lat pracy lub
 b)
 pozytywną ocenę dorobku zawodowego w okresie ostatniego roku albo
 c)
-w przypadku nauczyciela akademickiego – pozytywną ocenę pracy w okresie ostatnich czterech lat pracy w szkole wyższej
-przed powierzeniem stanowiska wicedyrektora;
+w przypadku nauczyciela akademickiego – pozytywną ocenę pracy w okresie ostatnich czterech lat pracy w szkole wyższej – przed powierzeniem stanowiska wicedyrektora;
 3)
 spełnia wymagania określone w § 1 pkt 1 i 5–11.
 2.
@@ -164,8 +161,7 @@ co najmniej dobrą ocenę pracy w okresie ostatnich czterech lat pracy lub
 b)
 pozytywną ocenę dorobku zawodowego w okresie ostatniego roku albo
 c)
-w przypadku nauczyciela akademickiego – pozytywną ocenę pracy w okresie ostatnich czterech lat pracy w szkole wyższej
-przed powierzeniem stanowiska wicedyrektora;
+w przypadku nauczyciela akademickiego – pozytywną ocenę pracy w okresie ostatnich czterech lat pracy w szkole wyższej – przed powierzeniem stanowiska wicedyrektora;
 3)
 ukończył kurs kwalifikacyjny z zakresu zarządzania szkołami i szkolnymi punktami konsultacyjnymi za granicą, organizowany na zlecenie ministra właściwego do spraw oświaty i wychowania, w wymiarze nie mniejszym niż 80 godzin;
 4)
@@ -197,8 +193,7 @@ co najmniej dobrą ocenę pracy w okresie ostatnich trzech lat pracy lub
 b)
 pozytywną ocenę dorobku zawodowego w okresie ostatniego roku albo
 c)
-w przypadku nauczyciela akademickiego – pozytywną ocenę pracy w okresie ostatnich trzech lat pracy w szkole wyższej
-przed powierzeniem stanowiska kierowniczego;
+w przypadku nauczyciela akademickiego – pozytywną ocenę pracy w okresie ostatnich trzech lat pracy w szkole wyższej – przed powierzeniem stanowiska kierowniczego;
 4)
 spełnia wymagania określone w § 1 pkt 5–11.
 § 12.
@@ -206,8 +201,7 @@ Stanowisko dyrektora, wicedyrektora albo inne stanowisko kierownicze w publiczny
 1)
 nauczyciel mianowany lub dyplomowany, zatrudniony na stanowisku wymagającym kwalifikacji pedagogicznych w urzędzie organu administracji rządowej, kuratorium oświaty, Centrum Edukacji Artystycznej, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych, lub
 2)
-nauczyciel mianowany lub dyplomowany urlopowany lub zwolniony z obowiązku świadczenia pracy na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881)
-spełniający wymagania określone w rozporządzeniu, z wyjątkiem wymogu posiadania co najmniej dobrej oceny pracy albo pozytywnej oceny dorobku zawodowego.
+nauczyciel mianowany lub dyplomowany urlopowany lub zwolniony z obowiązku świadczenia pracy na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881) – spełniający wymagania określone w rozporządzeniu, z wyjątkiem wymogu posiadania co najmniej dobrej oceny pracy albo pozytywnej oceny dorobku zawodowego.
 § 13.
 1.
 Do osób zajmujących w dniu wejścia w życie rozporządzenia stanowisko dyrektora publicznego przedszkola, publicznej szkoły i publicznej placówki lub zespołu publicznych przedszkoli, szkół lub placówek oraz stanowisko dyrektora publicznej szkoły lub zespołu publicznych szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej stosuje się wymagania określone w przepisach rozporządzenia Ministra Edukacji Narodowej z dnia 27 października 2009 r. w sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w poszczególnych typach publicznych szkół i rodzajach publicznych placówek (Dz. U. poz. 1436 oraz z 2011 r. poz. 1526) do końca okresu, na jaki odpowiednio powierzono to stanowisko lub powołano na to stanowisko.
@@ -220,6 +214,5 @@ W konkursach na stanowisko dyrektora zespołu publicznych szkół lub placówek 
 5.
 Przepis ust. 4 stosuje się odpowiednio do osób zajmujących w dniu wejścia w życie rozporządzenia inne stanowiska kierownicze niż wymienione w ust. 1 przy powierzaniu lub powołaniu na to stanowisko.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859, 1321, 1428 i 1530.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858, 859, 1321, 1428 i 1530.
 

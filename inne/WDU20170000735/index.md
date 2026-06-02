@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 29 marca 2017 r. w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii
+# Rozporządzenie Ministra Zdrowiaz dnia 29 marca 2017 r. w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-29 |
 | Data wydania | 2017-04-07 |
-| Wejście w życie | 2017-04-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000735) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/735/text.pdf) |
 
@@ -113,6 +112,5 @@ likwidacji przez unieszkodliwienie zgodnie z przepisami ustawy z dnia 14 grudnia
 2.
 Likwidację środków z rezerwy zleca minister właściwy do spraw zdrowia z inicjatywy własnej lub na wniosek podmiotu przechowującego.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 

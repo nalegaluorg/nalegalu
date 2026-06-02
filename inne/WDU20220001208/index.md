@@ -31,21 +31,19 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 7 maja 2019 r. w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 873), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 18 października 2021 r. zmieniającym rozporządzenie w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1897).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 18 października 2021 r. zmieniającego rozporządzenie w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1897), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 18 października 2021 r. zmieniającego rozporządzenie w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1897), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 października 2022 r.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 października 2022 r. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 7 maja 2019 r. w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej
-Na podstawie art. 444 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.) zarządza się, co następuje:
-§ 1.
+Na podstawie art. 444 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079 i 1117.) zarządza się, co następuje:
+§ 1Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 18 października 2021 r. zmieniającego rozporządzenie w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1897), które weszło w życie z dniem 22 października 2021 r..
 Rozporządzenie określa limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej oraz na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego.
-§ 2.
+§ 2W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 4..
 Ustala się limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej w liczbie 50 miejsc.
-§ 2.
+§ 2Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; wejdzie w życie z dniem 1 października 2022 r..
 Ustala się limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej w liczbie 60 miejsc.
-§ 2a.
+§ 2aDodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Ustala się limit przyjęć na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego w liczbie 60 miejsc.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 10 maja 2019 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079 i 1117. 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 18 października 2021 r. zmieniającego rozporządzenie w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1897), które weszło w życie z dniem 22 października 2021 r. 3) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 4. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; wejdzie w życie z dniem 1 października 2022 r. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 10 maja 2019 r.
 

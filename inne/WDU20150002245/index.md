@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-14 |
 | Data wydania | 2015-12-29 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2025-10-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002245) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2245/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 9 ust. 9 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2014 r. poz. 849, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 9 ust. 9 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2014 r. poz. 849, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 528, 699, 774, 1045, 1283, 1777 i 1890.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -47,5 +46,5 @@ bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikow
 2)
 podpisem potwierdzonym profilem zaufanym ePUAP w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114).
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 lutego 2013 r. w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej (Dz. U. poz. 221), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 55 ust. 1 ustawy z dnia 25 czerwca 2015 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 1045). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 528, 699, 774, 1045, 1283, 1777 i 1890. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 lutego 2013 r. w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej (Dz. U. poz. 221), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 55 ust. 1 ustawy z dnia 25 czerwca 2015 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 1045).
 

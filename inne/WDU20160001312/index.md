@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 9 sierpnia 2016 r. w sprawie zwolnienia jachtu morskiego z wymagań w zakresie wyposażenia i konstrukcji lub zastosowania środków równoważnych
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 9 sierpnia 2016 r. w sprawie zwolnienia jachtu morskiego z wymagań w zakresie wyposażenia i konstrukcji lub zastosowania środków równoważnych Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-09 |
 | Data wydania | 2016-08-23 |
-| Wejście w życie | 2016-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001312) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1312/text.pdf) |
 
@@ -36,8 +35,7 @@ Właściwy dyrektor urzędu morskiego może wyrazić zgodę na zastosowanie na j
 1)
 na wniosek armatora jachtu będącego w trakcie budowy lub przebudowy,
 2)
-w przypadku kiedy cechy konstrukcyjne jachtu istniejącego nie pozwalają na zastosowanie tych wymagań
-pod warunkiem że dostarczona dokumentacja potwierdza, że zastosowane środki równoważne będą skuteczne przynajmniej w takim samym stopniu jak określone w przepisach, oraz, w przypadku środków równoważnych dotyczących konstrukcji jachtu lub wyposażenia stałego instalowanego na jachcie, jeżeli opinia podmiotu sprawującego nadzór techniczny nad jachtem jest pozytywna.
+w przypadku kiedy cechy konstrukcyjne jachtu istniejącego nie pozwalają na zastosowanie tych wymagań – pod warunkiem że dostarczona dokumentacja potwierdza, że zastosowane środki równoważne będą skuteczne przynajmniej w takim samym stopniu jak określone w przepisach, oraz, w przypadku środków równoważnych dotyczących konstrukcji jachtu lub wyposażenia stałego instalowanego na jachcie, jeżeli opinia podmiotu sprawującego nadzór techniczny nad jachtem jest pozytywna.
 2.
 Właściwy dyrektor urzędu morskiego może zwolnić jacht z wymagań określonych przepisami wydanymi na podstawie art. 110 ust. 4 ustawy, jeżeli:
 1)
@@ -78,6 +76,5 @@ Jacht, który został zwolniony z wymagań lub który otrzymał zgodę na zastos
 § 6.
 Dyrektor urzędu morskiego przekazuje ministrowi właściwemu do spraw gospodarki morskiej kopię karty bezpieczeństwa jachtu, który został zwolniony z wymagań lub który otrzymał zgodę na zastosowanie środków równoważnych, lub informację o odmowie zwolnienia jachtu z wymagań lub wyrażenia zgody na zastosowanie środków równoważnych, w terminie 7 dni od dnia wydania karty bezpieczeństwa lub decyzji odmownej.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 

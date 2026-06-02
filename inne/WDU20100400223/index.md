@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-01-08 |
 | Data wydania | 2010-03-16 |
-| Wejście w życie | 2010-03-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100400223) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/223/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2008 r. Nr 14, poz. 92, z późn. zm.) w art. 4:
+**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2008 r. Nr 14, poz. 92, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 223, poz. 1463, Nr 227, poz. 1505 i Nr 237, poz. 1652, z 2009 r. Nr 6, poz. 33, Nr 97, poz. 802, Nr 98, poz. 817, Nr 157, poz. 1241 i Nr 219, poz. 1706 oraz z 2010 r. Nr 28, poz. 146.) w art. 4:
 
 - **1)** w ust. 5 pkt 1 otrzymuje brzmienie: „
 - **1)** przystosowania przez pracodawcę stanowiska pracy do potrzeb osoby niepełnosprawnej; ” ;
@@ -34,5 +33,5 @@ source: "eli-html"
 
 6. Kontrolę w zakresie spełniania warunku, o którym mowa w ust. 5 pkt 1, przeprowadza Państwowa Inspekcja Pracy. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 223, poz. 1463, Nr 227, poz. 1505 i Nr 237, poz. 1652, z 2009 r. Nr 6, poz. 33, Nr 97, poz. 802, Nr 98, poz. 817, Nr 157, poz. 1241 i Nr 219, poz. 1706 oraz z 2010 r. Nr 28, poz. 146.
 

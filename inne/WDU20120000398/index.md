@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-30 |
 | Data wydania | 2012-04-13 |
-| Wejście w życie | 2012-04-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000398) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/398/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 2a ust. 5 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. Nr 31, poz. 130, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 2a ust. 5 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. Nr 31, poz. 130, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 123, poz. 1353 oraz z 2009 r. Nr 92, poz. 753.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 27 lipca 1999 r. w sprawie Komisji Heraldycznej (Dz. U. Nr 70, poz. 779) w § 11 wyrazy „Ministerstwo Spraw Wewnętrznych i Administracji” zastępuje się wyrazami „ministerstwo zapewniające obsługę ministra właściwego do spraw administracji publicznej”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 123, poz. 1353 oraz z 2009 r. Nr 92, poz. 753.
 

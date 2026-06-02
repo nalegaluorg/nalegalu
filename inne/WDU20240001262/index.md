@@ -26,21 +26,55 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1262/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 15 listopada 1984 r. Prawo przewozowe Rozdział 1 – Przepisy ogólne Rozdział 2 – Przewóz osób i przesyłek bagażowych Rozdział 3 – Przewóz przesyłek towarowych Rozdział 4 – Zabezpieczenie roszczeń i likwidacja przesyłek Rozdział 5 Rozdział 6 – Odpowiedzialność przewoźnika z tytułu niewykonania lub nienależytego wykonania umowy przewozu osób Rozdział 7 – Odpowiedzialność przewoźnika z tytułu niewykonania lub nienależytego wykonania umowy przewozu przesyłek Rozdział 8 – Odpowiedzialność z innych tytułów Rozdział 9 – Ustalenie stanu przesyłki, dochodzenie roszczeń Rozdział 10 – Odszkodowania Rozdział 10a – Przepisy karne Rozdział 11 – Zmiany w przepisach obowiązujących oraz przepisy szczególne, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 15 listopada 1984 r. Prawo przewozowe
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2020 r. poz. 8), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 sierpnia 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720), który stanowi: „
+Przepisy ogólne
+Przewóz osób i przesyłek bagażowych
+Przewóz przesyłek towarowych
+Zabezpieczenie roszczeń i likwidacja przesyłek
 (uchylony)
+Odpowiedzialność przewoźnika z tytułu niewykonania lub nienależytego wykonania umowy przewozu osób
+Odpowiedzialność przewoźnika z tytułu niewykonania lub nienależytego wykonania umowy przewozu przesyłek
+Odpowiedzialność z innych tytułów
+Ustalenie stanu przesyłki, dochodzenie roszczeń
+Odszkodowania
+Przepisy karne
 Podróżny, który w czasie kontroli dokumentów przewozu osób lub bagażu, mimo braku odpowiedniego dokumentu przewozu, odmawia zapłacenia należności i okazania dokumentu, umożliwiającego stwierdzenie jego tożsamości, podlega karze grzywny.
 1.
 Osoba, o której mowa w art. 15 ust. 2, która nie opuszcza środka transportowego na żądanie osoby upoważnionej przez przewoźnika, o której mowa w art. 15 ust. 2a, podlega karze grzywny nie niższej niż 500 zł.
 2.
 Jeżeli czyn, o którym mowa w ust. 1, ma charakter chuligański, sprawca podlega karze grzywny nie niższej niż 2000 zł.
-(utracił moc)
+(utracił moc)Z dniem 6 sierpnia 2014 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 28 lipca 2014 r. sygn. akt K 16/12 (Dz. U. poz. 1051).
 Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kodeksu postępowania w sprawach o wykroczenia.
+Zmiany w przepisach obowiązujących oraz przepisy szczególne, przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Przewóz osób i przesyłek bagażowych
+
+#### Rozdział 3 – Przewóz przesyłek towarowych
+
+#### Rozdział 4 – Zabezpieczenie roszczeń i likwidacja przesyłek
+
+#### Rozdział 5
+
+#### Rozdział 6 – Odpowiedzialność przewoźnika z tytułu niewykonania lub nienależytego wykonania umowy przewozu osób
+
+#### Rozdział 7 – Odpowiedzialność przewoźnika z tytułu niewykonania lub nienależytego wykonania umowy przewozu przesyłek
+
+#### Rozdział 8 – Odpowiedzialność z innych tytułów
+
+#### Rozdział 9 – Ustalenie stanu przesyłki, dochodzenie roszczeń
+
+#### Rozdział 10 – Odszkodowania
+
+#### Rozdział 10a – Przepisy karne
+
+#### Rozdział 11 – Zmiany w przepisach obowiązujących oraz przepisy szczególne, przejściowe i końcowe
 
 **Art. 28.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -48,9 +82,9 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 - **2)** art. 1 pkt 2 lit. a tiret pierwsze, art. 7, art. 10, art. 11, art. 14 oraz art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **3)** art. 4 i art. 19, które wchodzą w życie z dniem 1 czerwca 2024 r.;
 - **4)** art. 5 pkt 1, 2, 4, 5 i 6 lit. b, art. 8 pkt 9 i 10 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-- **5)** art. 12 pkt 1–3, 4 lit. a i pkt 5–11, które wchodzą w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 15 listopada 1984 r. Prawo przewozowe
+- **5)** art. 12 pkt 1–3, 4 lit. a i pkt 5–11, które wchodzą w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 15 listopada 1984 r. Prawo przewozoweNiniejsza ustawa dokonuje w zakresie swojej regulacji transpozycji dyrektywy Rady 96/75/WE z dnia 19 listopada 1996 r. w sprawie systemów czarterowania i wyznaczania stawek przewozowych w krajowej i międzynarodowej żegludze śródlądowej we Wspólnocie (Dz. Urz. WE L 304 z 27.11.1996, str. 12, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 508, z późn. zm.).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -114,11 +148,11 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 1. W przypadku gdy jest to niezbędne ze względu na potrzeby obronności lub bezpieczeństwa państwa bądź w przypadku klęski żywiołowej:
 
 - **1)** minister właściwy do spraw transportu – w zakresie przewozu drogowego i przewozu koleją,
-- **2)** minister właściwy do spraw żeglugi śródlądowej – w zakresie przewozu w żegludze śródlądowej może nałożyć na przewoźnika obowiązek zawarcia umowy o wykonanie zadania przewozowego.
+- **2)** minister właściwy do spraw żeglugi śródlądowej – w zakresie przewozu w żegludze śródlądowej – może nałożyć na przewoźnika obowiązek zawarcia umowy o wykonanie zadania przewozowego.
 
 2. W przypadku klęsk żywiołowych obowiązek, o którym mowa w ust. 1, może nałożyć odpowiednio wójt (burmistrz, prezydent miasta), starosta lub wojewoda.
 
-3. W wypadkach określonych w ust. 1 i 2 organ nakładający obowiązek zapewnia przewoźnikowi środki finansowe niezbędne do wykonania nałożonego zadania lub wskazuje podmiot, który na podstawie umowy z przewoźnikiem zapewni środki finansowe na wykonanie tego zadania. W przypadku wystąpienia poważnych zakłóceń na rynku usług przewozowych w żegludze śródlądowej, w tym nadmiernej podaży usług przewozowych, minister właściwy do spraw żeglugi śródlądowej może, w drodze rozporządzenia, wprowadzić ograniczenia w przewozie rzeczy w żegludze śródlądowej, określając czas ich obowiązywania oraz zakres przedmiotowy lub terytorialny ich stosowania, biorąc pod uwagę środki podjęte przez Komisję Europejską na podstawie właściwych przepisów Unii Europejskiej.
+3. W wypadkach określonych w ust. 1 i 2 organ nakładający obowiązek zapewnia przewoźnikowi środki finansowe niezbędne do wykonania nałożonego zadania lub wskazuje podmiot, który na podstawie umowy z przewoźnikiem zapewni środki finansowe na wykonanie tego zadania. W przypadku wystąpienia poważnych zakłóceń na rynku usług przewozowych w żegludze śródlądowej, w tym nadmiernej podaży usług przewozowych, minister właściwy do spraw żeglugi śródlądowej może, w drodze rozporządzenia, wprowadzić ograniczenia w przewozie rzeczy w żegludze śródlądowej, określając czas ich obowiązywania oraz zakres przedmiotowy lub terytorialny ich stosowania, biorąc pod uwagę środki podjęte przez Komisję Europejską na podstawie właściwych przepisów Unii EuropejskiejDyrektywa Rady 96/75/WE, o której mowa w odnośniku 1..
 
 **Art. 10.** (uchylony)
 
@@ -136,7 +170,7 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 
 **Art. 12.** (uchylony)
 
-#### Rozdział 2 Przewóz osób i przesyłek bagażowych
+#### Rozdział 2
 
 **Art. 13.** (uchylony)
 
@@ -150,9 +184,7 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 
 1. Podróżny jest obowiązany do przestrzegania przepisów porządkowych obowiązujących w transporcie.
 
-2. Osoby zagrażające bezpieczeństwu lub porządkowi w transporcie mogą być niedopuszczone do przewozu lub usunięte ze środka transportowego.
-
-2a. W przypadku osób, o których mowa w ust. 2, osoba pisemnie upoważniona przez przewoźnika żąda opuszczenia środka transportowego, a w przypadku niepodporządkowania się żądaniu, w celu usunięcia takiej osoby ze środka transportowego, może wezwać do interwencji Policję, właściwą terytorialnie straż gminną (miejską), na obszarze kolejowym Straż Ochrony Kolei, a w stosunku do osób wymienionych w art. 3 ust. 2 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266 i 1860 oraz z 2024 r. poz. 1222) Żandarmerię Wojskową.
+2. Osoby zagrażające bezpieczeństwu lub porządkowi w transporcie mogą być niedopuszczone do przewozu lub usunięte ze środka transportowego. 2aDodany przez art. 2 pkt 1 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720), która weszła w życie z dniem 28 września 2023 r.. W przypadku osób, o których mowa w ust. 2, osoba pisemnie upoważniona przez przewoźnika żąda opuszczenia środka transportowego, a w przypadku niepodporządkowania się żądaniu, w celu usunięcia takiej osoby ze środka transportowego, może wezwać do interwencji Policję, właściwą terytorialnie straż gminną (miejską), na obszarze kolejowym Straż Ochrony Kolei, a w stosunku do osób wymienionych w art. 3 ust. 2 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266 i 1860 oraz z 2024 r. poz. 1222) Żandarmerię Wojskową.
 
 3. Osoby uciążliwe dla podróżnych lub odmawiające zapłacenia należności za przewóz mogą być usunięte ze środka transportowego, chyba że naruszałoby to zasady współżycia społecznego.
 
@@ -325,11 +357,11 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 - **1)** tryb zatwierdzania rozkładów jazdy,
 - **2)** treść rozkładów jazdy,
 - **3)** sposób i terminy ogłaszania oraz aktualizacji rozkładów jazdy,
-- **4)** warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości mając na uwadze zróżnicowanie wysokości kosztów przewoźników w zależności od ich udziału w przewozach, a także zróżnicowanie rodzajów środków transportowych wykorzystywanych w publicznym transporcie zbiorowym.
+- **4)** warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości – mając na uwadze zróżnicowanie wysokości kosztów przewoźników w zależności od ich udziału w przewozach, a także zróżnicowanie rodzajów środków transportowych wykorzystywanych w publicznym transporcie zbiorowym.
 
 1. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
-- **1)** sposób ustalania wysokości opłat dodatkowych pobieranych w razie: braku odpowiedniego dokumentu przewozu, braku ważnego dokumentu poświadczającego uprawnienie do bezpłatnego albo ulgowego przejazdu, niezapłacenia należności za zabrane ze sobą do środka przewozu rzeczy lub zwierzęta albo naruszenia przepisów o ich przewozie, spowodowania, bez uzasadnionej przyczyny, zatrzymania lub zmiany trasy środka transportu mając na uwadze zróżnicowanie wysokości opłat dodatkowych w zależności od strat poniesionych przez przewoźnika i powodu nałożenia opłaty dodatkowej;
+- **1)** sposób ustalania wysokości opłat dodatkowych pobieranych w razie: braku odpowiedniego dokumentu przewozu, braku ważnego dokumentu poświadczającego uprawnienie do bezpłatnego albo ulgowego przejazdu, niezapłacenia należności za zabrane ze sobą do środka przewozu rzeczy lub zwierzęta albo naruszenia przepisów o ich przewozie, spowodowania, bez uzasadnionej przyczyny, zatrzymania lub zmiany trasy środka transportu – mając na uwadze zróżnicowanie wysokości opłat dodatkowych w zależności od strat poniesionych przez przewoźnika i powodu nałożenia opłaty dodatkowej;
     - **a)**
     - **b)**
     - **c)**
@@ -339,7 +371,7 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 
 2. W odniesieniu do gminnego, powiatowego i wojewódzkiego regularnego przewozu osób, przepisy, o których mowa w ust. 1, określają odpowiednio rada gminy, rada powiatu albo sejmik województwa, a w mieście stołecznym Warszawie – Rada miasta stołecznego Warszawy.
 
-#### Rozdział 3 Przewóz przesyłek towarowych
+#### Rozdział 3
 
 **Art. 35.**
 
@@ -364,7 +396,7 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 
 - **1)** rzeczy łatwo psujących się,
 - **2)** zwłok i szczątków zwłok ludzkich,
-- **3)** żywych zwierząt mając na względzie zapewnienie bezpieczeństwa przewozu, wymaganych warunków przewozu oraz warunków sanitarnych dla zapewnienia ochrony zdrowia i środowiska.
+- **3)** żywych zwierząt – mając na względzie zapewnienie bezpieczeństwa przewozu, wymaganych warunków przewozu oraz warunków sanitarnych dla zapewnienia ochrony zdrowia i środowiska.
 
 **Art. 37.** (uchylony)
 
@@ -547,7 +579,7 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 
 **Art. 56.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, rodzaj oraz warunki przewozu rzeczy, które ze względu na kształt, rozmiar lub masę albo drogę przewozu mogą powodować trudności transportowe przy przewozie koleją, mając na uwadze zapewnienie bezpieczeństwa ruchu kolejowego oraz możliwości eksploatacyjne.
 
-#### Rozdział 4 Zabezpieczenie roszczeń i likwidacja przesyłek
+#### Rozdział 4
 
 **Art. 57.**
 
@@ -585,13 +617,11 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 
 #### Rozdział 5
 
-#### Rozdział 6 Odpowiedzialność przewoźnika z tytułu niewykonania lub nienależytego wykonania umowy przewozu osób
+#### Rozdział 6
 
 **Art. 62.**
 
-1. Przewoźnik odpowiada za szkodę, jaką podróżny poniósł wskutek przedwczesnego odjazdu środka transportowego.
-
-2. Przewoźnik odpowiada za szkodę, jaką poniósł podróżny wskutek opóźnionego przyjazdu lub odwołania regularnie kursującego środka transportowego, jeżeli szkoda wynikła z winy umyślnej lub rażącego niedbalstwa przewoźnika.
+1. Przewoźnik odpowiada za szkodę, jaką podróżny poniósł wskutek przedwczesnego odjazdu środka transportowego. 2Utracił moc z dniem 11 grudnia 2008 r. w części obejmującej zwrot „jeżeli szkoda wynikła z winy umyślnej lub rażącego niedbalstwa przewoźnika”, na podstawie wyroku Trybunału Konstytucyjnego z dnia 2 grudnia 2008 r. sygn. akt K 37/07 (Dz. U. poz. 1408).. Przewoźnik odpowiada za szkodę, jaką poniósł podróżny wskutek opóźnionego przyjazdu lub odwołania regularnie kursującego środka transportowego, jeżeli szkoda wynikła z winy umyślnej lub rażącego niedbalstwa przewoźnika.
 
 **Art. 63.**
 
@@ -607,7 +637,7 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 
 **Art. 64.** W grupowych przewozach osób przewoźnik ponosi odpowiedzialność wobec uczestników na zasadach określonych w art. 63, a wobec organizatora – na zasadach określonych w art. 62.
 
-#### Rozdział 7 Odpowiedzialność przewoźnika z tytułu niewykonania lub nienależytego wykonania umowy przewozu przesyłek
+#### Rozdział 7
 
 **Art. 65.**
 
@@ -651,7 +681,7 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 
 **Art. 70.** Przewoźnik ponosi odpowiedzialność za szkody wynikłe wskutek niewykonania lub nienależytego wykonania polecenia zmiany umowy przewozu, chyba że zachodzą okoliczności wymienione w art. 54 ust. 1 i 2.
 
-#### Rozdział 8 Odpowiedzialność z innych tytułów
+#### Rozdział 8
 
 **Art. 71.** Przewoźnik odpowiada za szkodę wynikłą z utraty, niewykorzystania lub nienależytego wykorzystania dokumentów wymienionych w liście przewozowym i do tego listu dołączonych albo złożonych u przewoźnika, chyba że nie ponosi winy.
 
@@ -668,7 +698,7 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 
 **Art. 73.** Za uszkodzenie mienia przewoźnika spowodowane czynnościami ładunkowymi ponosi odpowiedzialność odpowiednio nadawca lub odbiorca.
 
-#### Rozdział 9 Ustalenie stanu przesyłki, dochodzenie roszczeń
+#### Rozdział 9
 
 **Art. 74.**
 
@@ -735,9 +765,9 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 **Art. 79.** Minister właściwy do spraw transportu oraz minister właściwy do spraw żeglugi śródlądowej określą, w drodze rozporządzenia:
 
 - **1)** szczegółowy tryb i sposób ustalania stanu przesyłek,
-- **2)** warunki, jakim powinny odpowiadać reklamacje i wezwania do zapłaty z tytułu przewozu osób i przesyłek oraz tryb postępowania reklamacyjnego mając na uwadze zapewnienie sprawnego i terminowego dochodzenia roszczeń.
+- **2)** warunki, jakim powinny odpowiadać reklamacje i wezwania do zapłaty z tytułu przewozu osób i przesyłek oraz tryb postępowania reklamacyjnego – mając na uwadze zapewnienie sprawnego i terminowego dochodzenia roszczeń.
 
-#### Rozdział 10 Odszkodowania
+#### Rozdział 10
 
 **Art. 80.**
 
@@ -787,9 +817,9 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 - **1)** z tytułu niezapłaconych należności – od dnia, w którym należność powinna być zapłacona;
 - **2)** z innych tytułów – od dnia wniesienia reklamacji lub doręczenia wezwania do zapłaty.
 
-#### Rozdział 10a Przepisy karne
+#### Rozdział 10a
 
-#### Rozdział 11 Zmiany w przepisach obowiązujących oraz przepisy szczególne, przejściowe i końcowe
+#### Rozdział 11
 
 **Art. 88.** (pominięty)
 
@@ -805,5 +835,5 @@ Orzekanie w sprawach określonych w art. 87a i art. 87aa następuje w trybie Kod
 
 **Art. 94.** Traci moc dekret z dnia 24 grudnia 1952 r. o przewozie przesyłek i osób kolejami (Dz. U. z 1953 r. poz. 7).
 
-**Art. 95.** Ustawa wchodzi w życie z dniem 1 lipca 1985 r.
+**Art. 95.** Ustawa wchodzi w życie z dniem 1 lipca 1985 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji transpozycji dyrektywy Rady 96/75/WE z dnia 19 listopada 1996 r. w sprawie systemów czarterowania i wyznaczania stawek przewozowych w krajowej i międzynarodowej żegludze śródlądowej we Wspólnocie (Dz. Urz. WE L 304 z 27.11.1996, str. 12, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 508, z późn. zm.). 2) Dyrektywa Rady 96/75/WE, o której mowa w odnośniku 1. 3) Dodany przez art. 2 pkt 1 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720), która weszła w życie z dniem 28 września 2023 r. 4) Utracił moc z dniem 11 grudnia 2008 r. w części obejmującej zwrot „jeżeli szkoda wynikła z winy umyślnej lub rażącego niedbalstwa przewoźnika”, na podstawie wyroku Trybunału Konstytucyjnego z dnia 2 grudnia 2008 r. sygn. akt K 37/07 (Dz. U. poz. 1408). 5) Dodany przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 3. 6) Z dniem 6 sierpnia 2014 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 28 lipca 2014 r. sygn. akt K 16/12 (Dz. U. poz. 1051). 7) Ze zmianą wprowadzoną przez art. 2 pkt 3 ustawy, o której mowa w odnośniku 3.
 

@@ -22,28 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-14 |
 | Data wydania | 2015-10-15 |
-| Wejście w życie | 2015-10-16 |
 | Ostatnia zmiana | 2025-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001628) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1628/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365 i 1569.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1400) wprowadza się następujące zmiany:
 1)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
 1.
 Przepisy § 16 ust. 1a, 3–5 i § 30 ust. 1a załącznika do rozporządzenia stosuje się od dnia 1 września 2019 r.
 2.
-Przepisy § 24 ust. 3 załącznika do rozporządzenia stosuje się także do umów o udzielanie świadczeń opieki zdrowotnej w rodzaju leczenie szpitalne – świadczenia wysokospecjalistyczne obowiązujących w 2015 r.
-” ;
+Przepisy § 24 ust. 3 załącznika do rozporządzenia stosuje się także do umów o udzielanie świadczeń opieki zdrowotnej w rodzaju leczenie szpitalne – świadczenia wysokospecjalistyczne obowiązujących w 2015 r. ” ;
 2)
 w załączniku do rozporządzenia:
 a)
-w § 1 pkt 16 otrzymuje brzmienie:
-„
+w § 1 pkt 16 otrzymuje brzmienie: „
 16)
 współczynnikach korygujących – rozumie się przez to współczynniki ustalone przez Prezesa Funduszu, określające wysokość mnożników dla poszczególnych:
 a)
@@ -53,19 +49,23 @@ b)
 c)
 grup świadczeniodawców, albo
 d)
-grup osób wykonujących dany zawód medyczny
-za pomocą których jest wyliczana wysokość zobowiązania Funduszu wobec świadczeniodawcy;
-” ,
+grup osób wykonujących dany zawód medyczny – za pomocą których jest wyliczana wysokość zobowiązania Funduszu wobec świadczeniodawcy; ” ,
 b)
 w § 16:
-– po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Prezes Funduszu ustala kapitacyjną stawkę roczną w sposób gwarantujący środki na wypłatę kwot, o których mowa w § 4 ust. 6 pkt 3 rozporządzenia Ministra Zdrowia z dnia 14 października 2015 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1628). ” ,
-– ust. 3–5 otrzymują brzmienie: „ 3. Prezes Funduszu określi współczynniki korygujące, o których mowa w ust. 2, dotyczące świadczeń udzielanych przez pielęgniarki i położne w ramach umów, z wyłączeniem umów w rodzaju podstawowa opieka zdrowotna w zakresie świadczeń, dla których jednostką rozliczeniową jest kapitacyjna stawka roczna, z przeznaczeniem środków wynikających z ustalenia tych współczynników na średni wzrost miesięcznego wynagrodzenia pielęgniarek i położnych, w tym dodatek za pracę w porze nocnej i dodatek za pracę w niedzielę i święta niebędące dla pracownika dniami pracy wraz z składkami na ubezpieczenia społeczne i Fundusz Pracy. 4. Określając współczynniki korygujące na podstawie ust. 3, Prezes Funduszu uwzględnia wysokość dodatkowych środków przekazanych świadczeniodawcom zgodnie z § 4 ust. 4 pkt 1 rozporządzenia Ministra Zdrowia z dnia 14 października 2015 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej, w sposób gwarantujący środki na wypłatę kwot, o których mowa w § 4 ust. 5 pkt 3 tego rozporządzenia. 5. Dokumenty potwierdzające przeznaczenie środków wynikających z ustalenia współczynnika korygującego na wynagrodzenia pielęgniarek i położnych ustala Prezes Funduszu. ” ,
-c)
-w § 30 po ust. 1 dodaje się ust. 1a w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
 1a.
-W umowach, których dotyczą współczynniki korygujące, o których mowa w § 16 ust. 3, zastrzega się karę umowną w wysokości do 5% środków określonych zgodnie z § 16 ust. 3 oraz postanowienia o zwrocie tych środków, w przypadku ich nieprzeznaczenia w sposób określony w § 16 ust. 3 i 4.
-” .
+Prezes Funduszu ustala kapitacyjną stawkę roczną w sposób gwarantujący środki na wypłatę kwot, o których mowa w § 4 ust. 6 pkt 3 rozporządzenia Ministra Zdrowia z dnia 14 października 2015 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1628). ” ,
+ust. 3–5 otrzymują brzmienie: „
+3.
+Prezes Funduszu określi współczynniki korygujące, o których mowa w ust. 2, dotyczące świadczeń udzielanych przez pielęgniarki i położne w ramach umów, z wyłączeniem umów w rodzaju podstawowa opieka zdrowotna w zakresie świadczeń, dla których jednostką rozliczeniową jest kapitacyjna stawka roczna, z przeznaczeniem środków wynikających z ustalenia tych współczynników na średni wzrost miesięcznego wynagrodzenia pielęgniarek i położnych, w tym dodatek za pracę w porze nocnej i dodatek za pracę w niedzielę i święta niebędące dla pracownika dniami pracy wraz z składkami na ubezpieczenia społeczne i Fundusz Pracy.
+4.
+Określając współczynniki korygujące na podstawie ust. 3, Prezes Funduszu uwzględnia wysokość dodatkowych środków przekazanych świadczeniodawcom zgodnie z § 4 ust. 4 pkt 1 rozporządzenia Ministra Zdrowia z dnia 14 października 2015 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej, w sposób gwarantujący środki na wypłatę kwot, o których mowa w § 4 ust. 5 pkt 3 tego rozporządzenia.
+5.
+Dokumenty potwierdzające przeznaczenie środków wynikających z ustalenia współczynnika korygującego na wynagrodzenia pielęgniarek i położnych ustala Prezes Funduszu. ” ,
+c)
+w § 30 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+1a.
+W umowach, których dotyczą współczynniki korygujące, o których mowa w § 16 ust. 3, zastrzega się karę umowną w wysokości do 5% środków określonych zgodnie z § 16 ust. 3 oraz postanowienia o zwrocie tych środków, w przypadku ich nieprzeznaczenia w sposób określony w § 16 ust. 3 i 4. ” .
 § 2.
 1.
 Dyrektor właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia, zwanego dalej „Funduszem”, jest obowiązany w terminie 14 dni od dnia wejścia w życie niniejszego rozporządzenia, do przedstawienia świadczeniodawcom, którzy przekazali do dyrektora właściwego oddziału wojewódzkiego Funduszu, informację, o której mowa w § 2 ust. 1 rozporządzenia zmienianego w § 1, zmiany umowy o udzielanie świadczeń opieki zdrowotnej obejmującej:
@@ -78,8 +78,7 @@ postanowienia o zwrocie środków określonych w pkt 1, w przypadku ich nieprzez
 1)
 100 zł w okresie od dnia 1 września 2015 r. do dnia 30 czerwca 2016 r.,
 2)
-400 zł w okresie od dnia 1 lipca 2016 r. do dnia 31 sierpnia 2016 r.
-w przeliczeniu na etat albo równoważnik etatu pielęgniarki albo położnej.
+400 zł w okresie od dnia 1 lipca 2016 r. do dnia 31 sierpnia 2016 r. – w przeliczeniu na etat albo równoważnik etatu pielęgniarki albo położnej.
 3.
 Liczbę etatów i równoważników etatów pielęgniarki albo położnej ustala się w oparciu o informację przekazaną zgodnie z § 2 ust. 1 rozporządzenia zmienianego w § 1.
 4.
@@ -87,8 +86,7 @@ Liczbę etatów i równoważników etatów pielęgniarki albo położnej ustala 
 1)
 związkom zawodowym pielęgniarek i położnych zrzeszającym wyłącznie pielęgniarki i położne, działającym u świadczeniodawcy albo
 2)
-upoważnionemu przez okręgową radę pielęgniarek i położnych przedstawicielowi samorządu zawodowego pielęgniarek i położnych, jeżeli u danego świadczeniodawcy nie działają związki zawodowe określone w pkt 1
-w celu zawarcia z przedstawicielami tych związków porozumienia w sprawie podziału tych środków albo uzyskania pozytywnej opinii przedstawiciela tego samorządu w sprawie sposobu ich podziału, w terminie 21 dni od dnia przekazania tej propozycji.
+upoważnionemu przez okręgową radę pielęgniarek i położnych przedstawicielowi samorządu zawodowego pielęgniarek i położnych, jeżeli u danego świadczeniodawcy nie działają związki zawodowe określone w pkt 1 – w celu zawarcia z przedstawicielami tych związków porozumienia w sprawie podziału tych środków albo uzyskania pozytywnej opinii przedstawiciela tego samorządu w sprawie sposobu ich podziału, w terminie 21 dni od dnia przekazania tej propozycji.
 5.
 Świadczeniodawca niezwłocznie po zawarciu porozumienia albo uzyskaniu pozytywnej opinii, o których mowa w ust. 4, przekazuje podpisane zmienione umowy o udzielanie świadczeń opieki zdrowotnej wraz z kopią porozumienia albo kopią pozytywnie zaopiniowanego sposobu podziału środków, o których mowa w ust. 1 pkt 1, dyrektorowi właściwego oddziału wojewódzkiego Funduszu.
 6.
@@ -126,7 +124,7 @@ położnej podstawowej opieki zdrowotnej.
 Przepisy § 2 ust. 4–9 i ust. 10 zdanie pierwsze stosuje się odpowiednio.
 § 4.
 1.
-W latach 2016–2018 świadczeniodawca posiadający umowę o udzielanie świadczeń opieki zdrowotnej, z wyłączeniem umowy o udzielanie świadczeń opieki zdrowotnej w rodzaju podstawowa opieka zdrowotna w zakresie świadczeń, dla których jednostką rozliczeniową jest kapitacyjna stawka roczna, przekaże w terminie określonym w ust. 2 do dyrektora właściwego oddziału wojewódzkiego Funduszu, za pośrednictwem serwisów internetowych, o których mowa w § 10 załącznika do rozporządzenia zmienianego w § 1, informację o liczbie pielęgniarek i położnych wykonujących, u tego świadczeniodawcy, zawód w rozumieniu art. 19 ust. 1 pkt 1–3 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, z późn. zm.), i realizujących świadczenia opieki zdrowotnej oraz w formie indywidualnej praktyki pielęgniarki i położnej wyłącznie w przedsiębiorstwie podmiotu leczniczego albo indywidualnej specjalistycznej praktyki pielęgniarki i położnej wyłącznie w przedsiębiorstwie podmiotu leczniczego, w przeliczeniu na liczbę etatów albo równoważników etatów, realizujących te świadczenia.
+W latach 2016–2018 świadczeniodawca posiadający umowę o udzielanie świadczeń opieki zdrowotnej, z wyłączeniem umowy o udzielanie świadczeń opieki zdrowotnej w rodzaju podstawowa opieka zdrowotna w zakresie świadczeń, dla których jednostką rozliczeniową jest kapitacyjna stawka roczna, przekaże w terminie określonym w ust. 2 do dyrektora właściwego oddziału wojewódzkiego Funduszu, za pośrednictwem serwisów internetowych, o których mowa w § 10 załącznika do rozporządzenia zmienianego w § 1, informację o liczbie pielęgniarek i położnych wykonujących, u tego świadczeniodawcy, zawód w rozumieniu art. 19 ust. 1 pkt 1–3 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1491 i 1877 oraz z 2015 r. poz. 978.), i realizujących świadczenia opieki zdrowotnej oraz w formie indywidualnej praktyki pielęgniarki i położnej wyłącznie w przedsiębiorstwie podmiotu leczniczego albo indywidualnej specjalistycznej praktyki pielęgniarki i położnej wyłącznie w przedsiębiorstwie podmiotu leczniczego, w przeliczeniu na liczbę etatów albo równoważników etatów, realizujących te świadczenia.
 2.
 Informację, o której mowa w ust. 1, sporządza się według stanu na dzień:
 1)
@@ -164,5 +162,5 @@ W latach 2016–2019 do umowy o udzielanie świadczeń opieki zdrowotnej stosuje
 8.
 W latach 2016–2019 do umowy o udzielanie świadczeń opieki zdrowotnej w rodzaju podstawowa opieka zdrowotna w zakresie świadczeń, dla których jednostką rozliczeniową jest kapitacyjna stawka roczna, stosuje się odpowiednio przepisy § 2 ust. 4–9 i ust. 10 zdanie pierwsze.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365 i 1569. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1491 i 1877 oraz z 2015 r. poz. 978.
 

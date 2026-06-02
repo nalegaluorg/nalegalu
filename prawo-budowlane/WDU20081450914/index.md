@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-06-26 |
 | Data wydania | 2008-08-08 |
-| Wejście w życie | 2008-08-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081450914) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/914/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.) w art. 37 ust. 1 otrzymuje brzmienie: „ 1. Decyzja o pozwoleniu na budowę wygasa, jeżeli budowa nie została rozpoczęta przed upływem 3 lat od dnia, w którym decyzja ta stała się ostateczna lub budowa została przerwana na czas dłuższy niż 3 lata. ” .
+**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217 oraz z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844.) w art. 37 ust. 1 otrzymuje brzmienie: „ 1. Decyzja o pozwoleniu na budowę wygasa, jeżeli budowa nie została rozpoczęta przed upływem 3 lat od dnia, w którym decyzja ta stała się ostateczna lub budowa została przerwana na czas dłuższy niż 3 lata. ” .
 
 **Art. 2.** Do spraw wszczętych i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy stosuje się przepisy tej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217 oraz z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844.
 

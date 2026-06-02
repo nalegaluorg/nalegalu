@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 30 sierpnia 2022 r. w sprawie wykroczeń, za które inspektorzy Inspekcji Ochrony Środowiska są uprawnieni do nakładania grzywien w drodze mandatu karnego
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 30 sierpnia 2022 r. w sprawie wykroczeń, za które inspektorzy Inspekcji Ochrony Środowiska są uprawnieni do nakładania grzywien w drodze mandatu karnego Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-30 |
 | Data wydania | 2022-08-31 |
-| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001837) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1837/text.pdf) |
 
@@ -41,7 +40,7 @@ art. 154 § 2 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2021
 2)
 art. 31a ust. 1 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070 oraz z 2022 r. poz. 1726);
 3)
-art. 330–334, art. 335a-336, art. 337a-349, art. 350 ust. 1, art. 351–355, art. 358, art. 359 ust. 2 i art. 360 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.);
+art. 330–334, art. 335a-336, art. 337a-349, art. 350 ust. 1, art. 351–355, art. 358, art. 359 ust. 2 i art. 360 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504, 1576 i 1747.);
 4)
 art. 37a i art. 37b ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2020 r. poz. 1903);
 5)
@@ -67,7 +66,7 @@ art. 59–61 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpada
 15)
 art. 95–97 i art. 134 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2022 r. poz. 1622);
 16)
-art. 476 ust. 1 i 2, art. 477 pkt 4, 5 i 12 oraz art. 478 pkt 6, 7, 9, 10 i 16 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm.);
+art. 476 ust. 1 i 2, art. 477 pkt 4, 5 i 12 oraz art. 478 pkt 6, 7, 9, 10 i 16 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2368 oraz z 2022 r. poz. 88, 258, 855, 1079 i 1549.);
 17)
 art. 9 ust. 1 ustawy z dnia 19 lipca 2019 r. o przeciwdziałaniu marnowaniu żywności (Dz. U. z 2020 r. poz. 1645).
 § 3.
@@ -97,6 +96,5 @@ określenie obszaru, na którym upoważnienie jest ważne;
 9)
 podpis wraz z pieczęcią organu, który wydał upoważnienie.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504, 1576 i 1747. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2368 oraz z 2022 r. poz. 88, 258, 855, 1079 i 1549.
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504, 1576 i 1747. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2368 oraz z 2022 r. poz. 88, 258, 855, 1079 i 1549.
 

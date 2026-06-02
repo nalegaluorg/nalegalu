@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 4 marca 2022 r. w sprawie wysokości stawek opłat za przeprowadzenie certyfikacji wina lub moszczu
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 4 marca 2022 r. w sprawie wysokości stawek opłat za przeprowadzenie certyfikacji wina lub moszczu Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-04 |
 | Data wydania | 2022-03-08 |
-| Wejście w życie | 2022-03-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/548/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 30 ust. 13 ustawy z dnia 2 grudnia 2021 r. o wyrobach winiarskich (Dz. U. z 2022 r. poz. 24) zarządza się, co następuje:
 § 1.
-Stawki opłat za przeprowadzenie certyfikacji, zatwierdzania i kontroli, o których mowa w art. 120 ust. 2 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), dla produktów sektora wina, o których mowa w załączniku VII część II pkt 1‒11, 13, 15 i 16 do rozporządzenia nr 1308/2013, bez chronionej nazwy pochodzenia (ChNP) lub chronionego oznaczenia geograficznego (ChOG):
+Stawki opłat za przeprowadzenie certyfikacji, zatwierdzania i kontroli, o których mowa w art. 120 ust. 2 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262.), dla produktów sektora wina, o których mowa w załączniku VII część II pkt 1‒11, 13, 15 i 16 do rozporządzenia nr 1308/2013, bez chronionej nazwy pochodzenia (ChNP) lub chronionego oznaczenia geograficznego (ChOG):
 1)
 obejmują kontrolę spełnienia wymagań i kontrolę danych, o których mowa w art. 30 ust. 5 ustawy z dnia 2 grudnia 2021 r. o wyrobach winiarskich, i wynoszą 28,00 zł za każdą rozpoczętą godzinę kontroli;
 2)
@@ -47,6 +46,5 @@ e)
 f)
 167,00 zł, jeżeli odległość wynosi powyżej 200 kilometrów.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 grudnia 2011 r. w sprawie stawek opłat za przeprowadzenie certyfikacji wina z określonego rocznika lub wina z określonej odmiany winorośli (Dz. U. z 2012 r. poz. 3), które utraciło moc z dniem 7 marca 2022 r. w związku z wejściem w życie ustawy z dnia 2 grudnia 2021 r. o wyrobach winiarskich (Dz. U. z 2022 r. poz. 24).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 grudnia 2011 r. w sprawie stawek opłat za przeprowadzenie certyfikacji wina z określonego rocznika lub wina z określonej odmiany winorośli (Dz. U. z 2012 r. poz. 3), które utraciło moc z dniem 7 marca 2022 r. w związku z wejściem w życie ustawy z dnia 2 grudnia 2021 r. o wyrobach winiarskich (Dz. U. z 2022 r. poz. 24). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 262. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 grudnia 2011 r. w sprawie stawek opłat za przeprowadzenie certyfikacji wina z określonego rocznika lub wina z określonej odmiany winorośli (Dz. U. z 2012 r. poz. 3), które utraciło moc z dniem 7 marca 2022 r. w związku z wejściem w życie ustawy z dnia 2 grudnia 2021 r. o wyrobach winiarskich (Dz. U. z 2022 r. poz. 24).
 

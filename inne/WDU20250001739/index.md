@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# Warszawa, dnia 9 grudnia 2025
+# Warszawa, dnia 9 grudnia 2025 Poz.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-11-21 |
 | Data wydania | 2025-12-09 |
-| Wejście w życie | 2025-12-15 |
 | Ostatnia zmiana | 2025-12-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001739) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1739/text.pdf) |
 

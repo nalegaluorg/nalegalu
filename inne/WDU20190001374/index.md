@@ -26,20 +26,42 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001374) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1374/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja Państwowej Komisji Badania Wypadków Morskich Rozdział 3 – Badanie wypadków i incydentów morskich Rozdział 4 – Raporty i zalecenia Rozdział 5 – Obowiązki innych podmiotów związane z badaniem wypadków i incydentów morskich Rozdział 6 – Kary pieniężne Rozdział 7 – Zmiany w przepisach obowiązujących Rozdział 8 – Przepisy przejściowe i dostosowujące
+Załącznik – Tekst jednolity ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich (Dz. U. z 2018 r. poz. 925), z uwzględnieniem zmian wprowadzonych:
 1)
 ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669),
 2)
-ustawą z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 lipca 2019 r.
+ustawą z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 lipca 2019 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi:
-„
+art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „
+Przepisy ogólne
+Organizacja Państwowej Komisji Badania Wypadków Morskich
+Badanie wypadków i incydentów morskich
+Raporty i zalecenia
+Obowiązki innych podmiotów związane z badaniem wypadków i incydentów morskich
+Kary pieniężne
+Zmiany w przepisach obowiązujących
+Przepisy przejściowe i dostosowujące
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organizacja Państwowej Komisji Badania Wypadków Morskich
+
+#### Rozdział 3 – Badanie wypadków i incydentów morskich
+
+#### Rozdział 4 – Raporty i zalecenia
+
+#### Rozdział 5 – Obowiązki innych podmiotów związane z badaniem wypadków i incydentów morskich
+
+#### Rozdział 6 – Kary pieniężne
+
+#### Rozdział 7 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 8 – Przepisy przejściowe i dostosowujące
 
 **Art. 350.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
 
@@ -51,9 +73,9 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 
 - **1)** art. 87 pkt 1, który wchodzi w życie po upływie 90 dni od dnia ogłoszenia;
 - **2)** art. 107 pkt 7 i 8, które wchodzą w życie z dniem 1 maja 2019 r.;
-- **3)** art. 157 pkt 2, który wchodzi w życie z dniem 13 października 2019 r. ” . Załącznik – Tekst jednolity ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich
+- **3)** art. 157 pkt 2, który wchodzi w życie z dniem 13 października 2019 r. ” . Załącznik – Tekst jednolity ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków MorskichNiniejsza ustawa dokonuje w zakresie swojej regulacji transpozycji dyrektywy Parlamentu Europejskiego i Rady 2009/18/WE z dnia 23 kwietnia 2009 r. ustanawiającej podstawowe zasady regulujące dochodzenia w sprawach wypadków w sektorze transportu morskiego i zmieniającej dyrektywę Rady 1999/35/WE oraz dyrektywę 2002/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 131 z 28.05.2009, str. 114, z późn. zm.).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -65,7 +87,7 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** wypadku morskim – należy przez to rozumieć zdarzenie, lub kilka następujących po sobie zdarzeń, związane bezpośrednio z eksploatacją statku, w którego następstwie doszło do: śmierci albo ciężkiego uszczerbku na zdrowiu człowieka lub zaginięcia człowieka przebywającego na statku, lub zatonięcia, zaginięcia lub utraty statku w inny sposób, lub uszkodzenia statku, wpływającego w znacznym stopniu na jego konstrukcję, zdolności manewrowe lub eksploatacyjne, wymagającego poważnych napraw, lub wejścia statku na mieliznę, zetknięcia z dnem, uderzenia w podwodną przeszkodę, unieruchomienia statku lub zderzenia statków, pożaru, eksplozji, uderzenia w budowlę, urządzenie lub instalację, przesunięcia ładunku, uszkodzenia powstałego wskutek złej pogody, uszkodzenia przez lód, pęknięcia kadłuba lub podejrzenia uszkodzenia kadłuba, lub wyrządzenia przez statek istotnej szkody w infrastrukturze portowej, infrastrukturze zapewniającej dostęp do portów lub przystani morskich, instalacji lub budowli na morzu, powodującej poważne zagrożenie dla bezpieczeństwa statku, innych statków lub osób, lub wyrządzenia szkody w środowisku lub wywołania niebezpieczeństwa wyrządzenia takiej szkody z tym, że wypadkiem morskim nie jest świadome działanie lub zaniechanie podjęte z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku;
+- **1)** wypadku morskim – należy przez to rozumieć zdarzenie, lub kilka następujących po sobie zdarzeń, związane bezpośrednio z eksploatacją statku, w którego następstwie doszło do: śmierci albo ciężkiego uszczerbku na zdrowiu człowieka lub zaginięcia człowieka przebywającego na statku, lub zatonięcia, zaginięcia lub utraty statku w inny sposób, lub uszkodzenia statku, wpływającego w znacznym stopniu na jego konstrukcję, zdolności manewrowe lub eksploatacyjne, wymagającego poważnych napraw, lub wejścia statku na mieliznę, zetknięcia z dnem, uderzenia w podwodną przeszkodę, unieruchomienia statku lub zderzenia statków, pożaru, eksplozji, uderzenia w budowlę, urządzenie lub instalację, przesunięcia ładunku, uszkodzenia powstałego wskutek złej pogody, uszkodzenia przez lód, pęknięcia kadłuba lub podejrzenia uszkodzenia kadłuba, lub wyrządzenia przez statek istotnej szkody w infrastrukturze portowej, infrastrukturze zapewniającej dostęp do portów lub przystani morskich, instalacji lub budowli na morzu, powodującej poważne zagrożenie dla bezpieczeństwa statku, innych statków lub osób, lub wyrządzenia szkody w środowisku lub wywołania niebezpieczeństwa wyrządzenia takiej szkody – z tym, że wypadkiem morskim nie jest świadome działanie lub zaniechanie podjęte z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku;
     - **a)**
     - **b)**
     - **c)**
@@ -81,14 +103,14 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
     - **c)**
 
 - **4)** incydencie morskim – należy przez to rozumieć zdarzenie, lub kilka następujących po sobie zdarzeń, inne niż określone w pkt 1–3, związane bezpośrednio z eksploatacją statku, które miało lub mogło mieć niekorzystny wpływ na bezpieczeństwo statku, osób na nim przebywających lub środowisko, z tym że incydentem morskim nie jest świadome działanie lub zaniechanie podjęte z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku;
-- **5)** kodeksie badania wypadków – należy przez to rozumieć Kodeks międzynarodowych standardów i zalecanych praktyk postępowania w sprawach badania wypadków lub incydentów morskich, przyjęty przez Komitet Bezpieczeństwa Morskiego Międzynarodowej Organizacji Morskiej (IMO);
+- **5)** kodeksie badania wypadków – należy przez to rozumieć Kodeks międzynarodowych standardów i zalecanych praktyk postępowania w sprawach badania wypadków lub incydentów morskich, przyjęty przez Komitet Bezpieczeństwa Morskiego Międzynarodowej Organizacji Morskiej (IMO)Rezolucja MSC.255(84) przyjmująca Kodeks międzynarodowych standardów i zalecanych praktyk postępowania w sprawach badania wypadków lub incydentów morskich (Kodeks badania wypadków), przyjęta przez Międzynarodową Organizację Morską (IMO) w dniu 16 maja 2008 r. (Dz. Urz. MI z 2011 r. poz. 44).;
 - **6)** rejestratorze VDR lub S-VDR – należy przez to rozumieć zespół urządzeń służących do rejestracji danych z przebiegu podróży statku, w tym czasu, pozycji, prędkości, kursu oraz rejestrujących głos na mostku nawigacyjnym, spełniający wymagania ustanowione przez Międzynarodową Organizację Morską (IMO);
 - **7)** bazie danych EMCIP – należy przez to rozumieć elektroniczną bazę danych o nazwie Europejska Platforma Informacyjna w sprawie Wypadków Morskich (EMCIP), w której są gromadzone i przechowywane informacje dotyczące wypadków i incydentów morskich;
 - **8)** szybkim statku pasażerskim – należy przez to rozumieć statek, określony w Prawidle 1 Rozdziału X Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 1984 r. poz. 318 i 319, z 1986 r. poz. 177, z 2005 r. poz. 1016 oraz z 2017 r. poz. 142) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. poz. 320 i 321), oraz Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2008 r. poz. 1173 i 1174) (Konwencja SOLAS), przewożący więcej niż 12 pasażerów.
 
 2. Ilekroć w ustawie jest mowa o statku, statku rybackim, promie pasażerskim typu ro-ro, jachcie rekreacyjnym, uznanej organizacji, umowach międzynarodowych, państwie członkowskim Unii Europejskiej, państwie trzecim, należy przez to rozumieć statek, statek rybacki, prom pasażerski typu ro-ro, jacht rekreacyjny, uznaną organizację, umowy międzynarodowe, państwo członkowskie Unii Europejskiej, państwo trzecie, w rozumieniu ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r. poz. 181, 1137, 1669 i 2245).
 
-#### Rozdział 2 Organizacja Państwowej Komisji Badania Wypadków Morskich
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -116,8 +138,7 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 
 - **1)** jest obywatelem polskim i korzysta z pełni praw publicznych;
 - **2)** posiada pełną zdolność do czynności prawnych;
-- **3)** nie była skazana prawomocnym wyrokiem sądu za przestępstwa popełnione umyślnie;
-- **4)** posiada wykształcenie wyższe, o którym mowa w art. 77 ust. 1 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.), w zakresie nauk technicznych, matematycznych, fizycznych, chemicznych, ekonomicznych, humanistycznych lub prawnych;
+- **3)** nie była skazana prawomocnym wyrokiem sądu za przestępstwa popełnione umyślnie; 4W brzmieniu ustalonym przez art. 138 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.) posiada wykształcenie wyższe, o którym mowa w art. 77 ust. 1 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.), w zakresie nauk technicznych, matematycznych, fizycznych, chemicznych, ekonomicznych, humanistycznych lub prawnych;
 - **5)** posiada wiedzę z zakresu bezpieczeństwa żeglugi i ochrony środowiska morskiego;
 - **6)** posiada co najmniej pięcioletnią praktykę zawodową w zakresie: nawigacji morskiej lub eksploatacji handlowej statku, lub eksploatacji siłowni okrętowych, lub eksploatacji statków rybackich, lub budowy i konstrukcji statków morskich, lub statkowych instalacji elektrycznych i automatyki, lub ratownictwa chemicznego i walki z pożarami, lub prawa morskiego.
     - **a)**
@@ -207,7 +228,7 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 - **8)** wspierania współpracy w zakresie badania wypadków lub incydentów morskich z odpowiednimi organami państw trzecich i organizacjami międzynarodowymi badającymi takie wypadki lub incydenty morskie;
 - **9)** zapewnienia organom prowadzącym badanie niezbędnych informacji.
 
-#### Rozdział 3 Badanie wypadków i incydentów morskich
+#### Rozdział 3
 
 **Art. 15.**
 
@@ -226,7 +247,7 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
     - **a)**
     - **b)**
 
-- **2)** w których uczestniczyły wyłącznie: inne, niż określone w pkt 1 lit. a, statki pełniące wyłącznie specjalną służbę państwową lub eksploatowane przez państwo w celach niehandlowych, statki rybackie o długości całkowitej do 15 m, jachty rekreacyjne, statki i obiekty pływające wchodzące w skład zespołu holowniczego, inne niż statek holujący z wyjątkiem bardzo poważnych wypadków;
+- **2)** w których uczestniczyły wyłącznie: inne, niż określone w pkt 1 lit. a, statki pełniące wyłącznie specjalną służbę państwową lub eksploatowane przez państwo w celach niehandlowych, statki rybackie o długości całkowitej do 15 m, jachty rekreacyjne, statki i obiekty pływające wchodzące w skład zespołu holowniczego, inne niż statek holujący – z wyjątkiem bardzo poważnych wypadków;
     - **a)**
     - **b)**
     - **c)**
@@ -420,7 +441,7 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 
 - **1)** dowody z wysłuchania osób oraz inne dokumenty sporządzane lub otrzymane przez Komisję w trakcie badania wypadku lub incydentu morskiego,
 - **2)** zapisy ujawniające tożsamość osób wysłuchanych w trakcie badania wypadku lub incydentu morskiego,
-- **3)** informacje dotyczące osób, które uczestniczyły w wypadku lub incydencie morskim, mające charakter informacji szczególnie chronionych lub prywatnych, w tym informacji dotyczących ich stanu zdrowia nie mogą być udostępnione przez Komisję ani organom procesowym w postępowaniu karnym, ani żadnym innym organom prowadzącym postępowanie mające na celu ustalenie odpowiedzialności lub winy.
+- **3)** informacje dotyczące osób, które uczestniczyły w wypadku lub incydencie morskim, mające charakter informacji szczególnie chronionych lub prywatnych, w tym informacji dotyczących ich stanu zdrowia – nie mogą być udostępnione przez Komisję ani organom procesowym w postępowaniu karnym, ani żadnym innym organom prowadzącym postępowanie mające na celu ustalenie odpowiedzialności lub winy.
 
 2. Udostępnienie dowodów, dokumentów, zapisów i informacji, o których mowa w ust. 1, może być dokonane wyłącznie na potrzeby postępowania przygotowawczego, sądowego, sądowo-administracyjnego lub postępowania przed izbą morską za zgodą sądu, jeżeli sąd uzna, że nadrzędny interes publiczny uzasadnia ich ujawnienie. Właściwy do rozpoznania sprawy jest Sąd Okręgowy w Gdańsku.
 
@@ -430,9 +451,9 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 
 2. Udostępnione ekspertyzy nie mogą stanowić dowodu winy lub być przesłanką odpowiedzialności w postępowaniu przed organami, o których mowa w ust. 1.
 
-**Art. 34.** W przypadku gdy do badania wypadku lub incydentu morskiego konieczne jest podjęcie przez Komisję współpracy z innym działającym na terytorium Rzeczypospolitej Polskiej organem badającym wypadki lub incydenty morskie, w tym z Państwową Komisją Badania Wypadków Lotniczych, zakres i tryb współpracy uzgadniają przewodniczący tych organów. Komisja wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie.
+**Art. 34.** W przypadku gdy do badania wypadku lub incydentu morskiego konieczne jest podjęcie przez Komisję współpracy z innym działającym na terytorium Rzeczypospolitej Polskiej organem badającym wypadki lub incydenty morskie, w tym z Państwową Komisją Badania Wypadków Lotniczych, zakres i tryb współpracy uzgadniają przewodniczący tych organów. Komisja wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2., przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie.
 
-#### Rozdział 4 Raporty i zalecenia
+#### Rozdział 4
 
 **Art. 35.** Komisja sporządza i ogłasza raporty: końcowy lub tymczasowy, albo uproszczony.
 
@@ -491,7 +512,7 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 3. Przewodniczący Komisji przesyła Międzynarodowej Organizacji Morskiej (IMO) kopię raportu końcowego z badania:
 
 - **1)** bardzo poważnego wypadku morskiego,
-- **2)** wypadku morskiego innego niż określony w pkt 1, lub incydentu morskiego, w którym zawarte są informacje mogące zapobiec lub zmniejszyć skutki wypadków lub incydentów morskich w przyszłości za pośrednictwem Światowego Zintegrowanego Systemu Informacji Żeglugowej (GISIS), stanowiącego bazę informacji w zakresie bezpieczeństwa, ochrony żeglugi i środowiska morskiego, prowadzoną przez Międzynarodową Organizację Morską (IMO).
+- **2)** wypadku morskiego innego niż określony w pkt 1, lub incydentu morskiego, w którym zawarte są informacje mogące zapobiec lub zmniejszyć skutki wypadków lub incydentów morskich w przyszłości – za pośrednictwem Światowego Zintegrowanego Systemu Informacji Żeglugowej (GISIS), stanowiącego bazę informacji w zakresie bezpieczeństwa, ochrony żeglugi i środowiska morskiego, prowadzoną przez Międzynarodową Organizację Morską (IMO).
 
 4. Przewodniczący Komisji niezwłocznie przekazuje Prezesowi Wyższego Urzędu Górniczego kopię raportu, o którym mowa w ust. 1, jeżeli dotyczy on zdarzenia związanego z działalnością polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej.
 
@@ -515,11 +536,11 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 
 **Art. 44.** Podmioty, do których skierowane są zalecenia, mają obowiązek powiadomić przewodniczącego Komisji w terminie do 6 miesięcy od dnia doręczenia raportu końcowego, o uwzględnieniu lub o przyczynach nieuwzględnienia zaleceń wydanych przez Komisję.
 
-**Art. 45.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, szczegółowy zakres raportów sporządzanych przez Komisję, mając na uwadze przepisy Unii Europejskiej ustanawiające podstawowe zasady regulujące dochodzenia w sprawach wypadków w sektorze transportu morskiego oraz wymagania kodeksu badania wypadków.
+**Art. 45.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, szczegółowy zakres raportów sporządzanych przez Komisję, mając na uwadze przepisy Unii Europejskiej ustanawiające podstawowe zasady regulujące dochodzenia w sprawach wypadków w sektorze transportu morskiegoDyrektywa Parlamentu Europejskiego i Rady 2009/18/WE z dnia 23 kwietnia 2009 r. ustanawiająca podstawowe zasady regulujące dochodzenia w sprawach wypadków w sektorze transportu morskiego i zmieniająca dyrektywę Rady 1999/35/WE oraz dyrektywę 2002/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 131 z 28.05.2009, str. 114, z późn. zm.). oraz wymagania kodeksu badania wypadków.
 
 **Art. 46.** Komisja może przeprowadzić ponowne badanie wypadku lub incydentu morskiego, po ogłoszeniu raportu końcowego lub uproszczonego, w razie późniejszego ujawnienia faktów lub dowodów, dotyczących wypadku lub incydentu morskiego, nieznanych Komisji, które mogłyby mieć istotny wpływ na wynik badania.
 
-#### Rozdział 5 Obowiązki innych podmiotów związane z badaniem wypadków i incydentów morskich
+#### Rozdział 5
 
 **Art. 47.**
 
@@ -540,7 +561,7 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 4. Podmiot zarządzający portem i użytkownik infrastruktury portowej, których dotyczy wypadek morski, w którego wyniku:
 
 - **1)** doszło do śmierci lub ciężkiego uszczerbku na zdrowiu człowieka lub
-- **2)** obiekty infrastruktury portowej zostały uszkodzone lub spowodowały szkodę mają obowiązek powiadomić o wypadku morskim Komisję oraz zabezpieczyć ślady i dowody dotyczące tego wypadku.
+- **2)** obiekty infrastruktury portowej zostały uszkodzone lub spowodowały szkodę – mają obowiązek powiadomić o wypadku morskim Komisję oraz zabezpieczyć ślady i dowody dotyczące tego wypadku.
 
 5. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób wykonania obowiązków armatora i kapitana statku, podmiotu zarządzającego portem oraz użytkownika infrastruktury portowej, w zakresie sposobu zabezpieczenia śladów i dowodów dotyczących wypadku lub incydentu morskiego, biorąc pod uwagę konieczność prawidłowego postępowania w przypadku zaistnienia wypadku lub incydentu morskiego.
 
@@ -549,18 +570,18 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 **Art. 49.** Osoba dysponująca:
 
 - **1)** środkami łączności mogącymi pomóc w przekazaniu wiadomości dotyczącej wypadku lub incydentu morskiego,
-- **2)** środkami rejestracji obrazu lub dźwięku albo materiałami lub informacjami mogącymi pomóc w ustaleniu okoliczności i przyczyn wypadku lub incydentu morskiego jest obowiązana udostępnić je niezwłocznie na żądanie Komisji.
+- **2)** środkami rejestracji obrazu lub dźwięku albo materiałami lub informacjami mogącymi pomóc w ustaleniu okoliczności i przyczyn wypadku lub incydentu morskiego – jest obowiązana udostępnić je niezwłocznie na żądanie Komisji.
 
 **Art. 50.**
 
 1. Osoba dysponująca:
 
 - **1)** informacjami związanymi z wypadkiem lub incydentem morskim pochodzącymi z map, dzienników, zapisów elektronicznych i magnetycznych oraz taśm wideo, łącznie z informacjami pochodzącymi z rejestratorów VDR lub S-VDR i innych urządzeń elektronicznych, odnoszących się do okresu przed, w trakcie i po zajściu badanego wypadku lub incydentu morskiego jest obowiązana do ich zachowania, zapobieżenia ich nadpisaniu lub innym zmianom tych informacji,
-- **2)** innymi urządzeniami niż urządzenia, o których mowa w pkt 1, które mogłyby zostać zasadnie uznane za mające związek z badaniem wypadku lub incydentu morskiego jest obowiązana do zapobieżenia ingerencji w te urządzenia do czasu poinformowania przez Komisję, że nie są one niezbędne do prowadzenia badania, nie dłużej jednak niż przez 3 miesiące od dnia zaistnienia wypadku lub incydentu morskiego.
+- **2)** innymi urządzeniami niż urządzenia, o których mowa w pkt 1, które mogłyby zostać zasadnie uznane za mające związek z badaniem wypadku lub incydentu morskiego jest obowiązana do zapobieżenia ingerencji w te urządzenia – do czasu poinformowania przez Komisję, że nie są one niezbędne do prowadzenia badania, nie dłużej jednak niż przez 3 miesiące od dnia zaistnienia wypadku lub incydentu morskiego.
 
 2. Osoby, o których mowa w ust. 1, po zaistnieniu wypadku lub incydentu morskiego niezwłocznie informują Komisję o posiadanych informacjach i urządzeniach wymienionych w ust. 1.
 
-#### Rozdział 6 Kary pieniężne
+#### Rozdział 6
 
 **Art. 51.**
 
@@ -578,13 +599,13 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 - **2)** uniemożliwia członkom Komisji korzystanie z przysługujących im uprawnień, o których mowa w art. 29 ust. 1,
 - **3)** uniemożliwia ekspertom biorącym udział w pracach Komisji lub przedstawicielom istotnie zainteresowanych państw korzystanie z przyznanych im zgodnie z art. 31 uprawnień,
 - **4)** nie udostępnia Komisji, na jej żądanie, środków, materiałów lub informacji, o których mowa w art. 49 i art. 50,
-- **5)** będąc obowiązany do powiadomienia przewodniczącego Komisji o uwzględnieniu lub o przyczynach nieuwzględnienia zaleceń wydanych przez Komisję w terminie, o którym mowa w art. 44, nie powiadomił tego organu podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
+- **5)** będąc obowiązany do powiadomienia przewodniczącego Komisji o uwzględnieniu lub o przyczynach nieuwzględnienia zaleceń wydanych przez Komisję w terminie, o którym mowa w art. 44, nie powiadomił tego organu – podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
 
 **Art. 52.** Kary pieniężne wymierza, w drodze decyzji, minister właściwy do spraw gospodarki morskiej.
 
 **Art. 53.** Wpływy z tytułu kar pieniężnych stanowią dochód budżetu państwa.
 
-#### Rozdział 7 Zmiany w przepisach obowiązujących
+#### Rozdział 7
 
 **Art. 54.** (pominięty)
 
@@ -592,7 +613,7 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 
 **Art. 56.** (pominięty)
 
-#### Rozdział 8 Przepisy przejściowe i dostosowujące
+#### Rozdział 8
 
 **Art. 57.** W sprawach wypadków morskich, w rozumieniu art. 1 ust. 2 ustawy zmienianej w art. 54 w brzmieniu dotychczasowym, które zaistniały przed dniem wejścia w życie niniejszej ustawy, postępowanie prowadzą na podstawie dotychczasowych przepisów, właściwe izby morskie.
 
@@ -623,9 +644,9 @@ art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – P
 
 - **1)** wykorzystaniu innych rozwiązań technologicznych w zakresie prowadzenia przez Komisję badań wypadków lub incydentów morskich,
 - **2)** racjonalizacji wykonywania przez Komisję czynności,
-- **3)** obniżeniu kosztów zewnętrznej obsługi Komisji mając na względzie zapewnienie prawidłowego funkcjonowania Komisji i zapewnienie bezpieczeństwa żeglugi.
+- **3)** obniżeniu kosztów zewnętrznej obsługi Komisji – mając na względzie zapewnienie prawidłowego funkcjonowania Komisji i zapewnienie bezpieczeństwa żeglugi.
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmów korygujących, o których mowa w ust. 2, jest minister właściwy do spraw gospodarki morskiej.
 
-**Art. 63.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 56 pkt 12 i 13, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 63.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 26 września 2012 r., z wyjątkiem przepisów art. 56 pkt 12 i 13, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji transpozycji dyrektywy Parlamentu Europejskiego i Rady 2009/18/WE z dnia 23 kwietnia 2009 r. ustanawiającej podstawowe zasady regulujące dochodzenia w sprawach wypadków w sektorze transportu morskiego i zmieniającej dyrektywę Rady 1999/35/WE oraz dyrektywę 2002/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 131 z 28.05.2009, str. 114, z późn. zm.). 2) Rezolucja MSC.255(84) przyjmująca Kodeks międzynarodowych standardów i zalecanych praktyk postępowania w sprawach badania wypadków lub incydentów morskich (Kodeks badania wypadków), przyjęta przez Międzynarodową Organizację Morską (IMO) w dniu 16 maja 2008 r. (Dz. Urz. MI z 2011 r. poz. 44). 3) W brzmieniu ustalonym przez art. 138 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823. 5) Dodany przez art. 122 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), która weszła w życie z dniem 4 maja 2019 r. 6) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 7) Dyrektywa Parlamentu Europejskiego i Rady 2009/18/WE z dnia 23 kwietnia 2009 r. ustanawiająca podstawowe zasady regulujące dochodzenia w sprawach wypadków w sektorze transportu morskiego i zmieniająca dyrektywę Rady 1999/35/WE oraz dyrektywę 2002/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 131 z 28.05.2009, str. 114, z późn. zm.). 8) Ustawa została ogłoszona w dniu 26 września 2012 r.
 

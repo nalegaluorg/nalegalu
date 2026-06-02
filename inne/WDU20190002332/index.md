@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowychz dnia 27 listopada 2019 r. w sprawie szczegółowego wykazu paliw ciekłych, których wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, wymaga koncesji oraz których przywóz wymaga wpisu do rejestru podmiotów przywożących
+# Rozporządzenie Ministra Aktywów Państwowychz dnia 27 listopada 2019 r. w sprawie szczegółowego wykazu paliw ciekłych, których wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, wymaga koncesji oraz których przywóz wymaga wpisu do rejestru podmiotów przywożących Minister Aktywów Państwowych kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2256).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-27 |
 | Data wydania | 2019-11-28 |
-| Wejście w życie | 2019-12-01 |
 | Ostatnia zmiana | 2025-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002332) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2332/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 32 ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 32 ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556) zarządza się, co następuje:
 § 1.
 Uzyskania koncesji wymaga wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, paliwami ciekłymi oznaczonymi następującymi kodami CN:
 1)
@@ -53,8 +52,7 @@ biopaliwa ciekłe:
 a)
 3826 00 10 z wyłączeniem estrów metylowych stanowiących dodatki do paliw ciekłych,
 b)
-inne niż wymienione w lit. a biopaliwa ciekłe bez względu na kod CN z wyłączeniem biopaliw ciekłych stanowiących dodatki do paliw ciekłych.
-i 2166.
+inne niż wymienione w lit. a biopaliwa ciekłe bez względu na kod CN z wyłączeniem biopaliw ciekłych stanowiących dodatki do paliw ciekłych. i 2166.
 § 2.
 Wpisu do rejestru podmiotów przywożących wymaga przywóz paliw ciekłych oznaczonych następującymi kodami CN:
 1)
@@ -102,7 +100,5 @@ pkt 9 w zakresie kodów CN 2707 99 19, 2707 99 91 i 2707 99 99,
 a)
 pkt 1 w zakresie kodu CN 2707 50 00,
 b)
-pkt 13 w zakresie kodów CN 2710 20 90, 3403 19 10, 3403 19 20 i 3403 19 80
-które wchodzą w życie z dniem 1 stycznia 2020 r.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2256). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 15 grudnia 2016 r. w sprawie szczegółowego wykazu paliw ciekłych, których wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, wymaga koncesji oraz których przywóz wymaga wpisu do rejestru podmiotów przywożących (Dz. U. poz. 2039), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 25 ust. 2 ustawy z dnia 4 lipca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1520).
+pkt 13 w zakresie kodów CN 2710 20 90, 3403 19 10, 3403 19 20 i 3403 19 80 – które wchodzą w życie z dniem 1 stycznia 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 15 grudnia 2016 r. w sprawie szczegółowego wykazu paliw ciekłych, których wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, wymaga koncesji oraz których przywóz wymaga wpisu do rejestru podmiotów przywożących (Dz. U. poz. 2039), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 25 ust. 2 ustawy z dnia 4 lipca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1520). 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2256). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 15 grudnia 2016 r. w sprawie szczegółowego wykazu paliw ciekłych, których wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, wymaga koncesji oraz których przywóz wymaga wpisu do rejestru podmiotów przywożących (Dz. U. poz. 2039), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 25 ust. 2 ustawy z dnia 4 lipca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1520).
 

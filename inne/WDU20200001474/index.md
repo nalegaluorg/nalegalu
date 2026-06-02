@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-18 |
 | Data wydania | 2020-08-28 |
-| Wejście w życie | 2020-09-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1474/text.pdf) |
 
@@ -34,14 +33,16 @@ W rozporządzeniu Ministra Obrony Narodowej z dnia 12 marca 2012 r. w sprawie po
 w § 6:
 a)
 w ust. 1:
-– pkt 1 otrzymuje brzmienie: „ 1) psychologów w jednostkach wojskowych – do psychologów koordynujących działalność psychologiczną w Dowództwie Generalnym Rodzajów Sił Zbrojnych, w Dowództwie Operacyjnym Rodzajów Sił Zbrojnych, w Inspektoracie Wsparcia Sił Zbrojnych, w Komendzie Głównej Żandarmerii Wojskowej, w Dowództwie Garnizonu Warszawa oraz w Dowództwie Wojsk Obrony Terytorialnej; ” ,
-– pkt 3 otrzymuje brzmienie: „ 3) psychologów w podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej – do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia. ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+psychologów w jednostkach wojskowych – do psychologów koordynujących działalność psychologiczną w Dowództwie Generalnym Rodzajów Sił Zbrojnych, w Dowództwie Operacyjnym Rodzajów Sił Zbrojnych, w Inspektoracie Wsparcia Sił Zbrojnych, w Komendzie Głównej Żandarmerii Wojskowej, w Dowództwie Garnizonu Warszawa oraz w Dowództwie Wojsk Obrony Terytorialnej; ” ,
+pkt 3 otrzymuje brzmienie: „
+3)
+psychologów w podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej – do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia. ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Zbiorcze sprawozdania obejmujące sprawozdania, o których mowa w ust. 1 pkt 1 i 2, są przesyłane, drogą służbową, do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia w terminie do dnia 31 marca każdego roku za rok poprzedni.
-” ;
+Zbiorcze sprawozdania obejmujące sprawozdania, o których mowa w ust. 1 pkt 1 i 2, są przesyłane, drogą służbową, do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia w terminie do dnia 31 marca każdego roku za rok poprzedni. ” ;
 2)
 w § 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia: ” .
 § 2.

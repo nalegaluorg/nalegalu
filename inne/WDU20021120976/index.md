@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-06-07 |
 | Data wydania | 2002-07-20 |
-| Wejście w życie | 2002-08-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021120976) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/976/text.pdf) |
 
@@ -32,9 +31,11 @@ ust. 24 otrzymuje brzmienie: „
 
 - **a)**
 
-24. Za czynności związane z oznakowaniem, w tym wydawaniem paszportów oraz ksiąg rejestracji zwierząt, Agencja pobiera opłaty. ” , w ust. 27: – w pkt 1 lit. a) otrzymuje brzmienie: „ a) prowadzenia rejestru, o którym mowa w ust. 8, w tym tryb zgłaszania zwierząt do rejestru oraz wzór zgłoszenia, ” – pkt 4 otrzymuje brzmienie: „ 4) wysokość opłat za czynności związane z oznakowaniem, wydawaniem paszportów zwierząt i ksiąg rejestracji, uwzględniając koszty ponoszone przez Agencję, w porozumieniu z ministrem właściwym do spraw finansów publicznych, ” – skreśla się pkt 5.
+24. Za czynności związane z oznakowaniem, w tym wydawaniem paszportów oraz ksiąg rejestracji zwierząt, Agencja pobiera opłaty. ” , w ust. 27: w pkt 1 lit. a) otrzymuje brzmienie: „ prowadzenia rejestru, o którym mowa w ust. 8, w tym tryb zgłaszania zwierząt do rejestru oraz wzór zgłoszenia, ” pkt 4 otrzymuje brzmienie: „
 
 - **b)**
+- **a)**
+- **4)** wysokość opłat za czynności związane z oznakowaniem, wydawaniem paszportów zwierząt i ksiąg rejestracji, uwzględniając koszty ponoszone przez Agencję, w porozumieniu z ministrem właściwym do spraw finansów publicznych, ” – skreśla się pkt 5.
 
 **Art. 2.** W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 1994 r. Nr 1, poz. 2, Nr 80, poz. 369 i Nr 98, poz. 473, z 1997 r. Nr 41, poz. 255, Nr 79, poz. 484 i Nr 141, poz. 943, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 48, poz. 547 i 550 i Nr 88, poz. 983 oraz z 2001 r. Nr 3, poz. 19, Nr 29, poz. 320, Nr 38, poz. 452, Nr 125, poz. 1363 i Nr 129, poz. 1438) art. 3c otrzymuje brzmienie: „
 

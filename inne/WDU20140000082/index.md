@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-15 |
 | Data wydania | 2014-01-16 |
-| Wejście w życie | 2014-01-31 |
 | Ostatnia zmiana | 2025-10-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000082) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/82/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Ustanawianie dysponentów drugiego i trzeciego stopnia przez dysponentów części budżetowych Rozdział 3 – Tryb i terminy przekazywania dochodów oraz środków w celu dokonania wydatków Rozdział 4 – Tryb i terminy przekazywania na centralny rachunek bieżący budżetu państwa środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy o finansach publicznych, z wyjątkiem środków na realizację Wspólnej Polityki Rolnej Rozdział 5 – Przekazywanie środków na realizację projektów państwowych jednostek budżetowych z udziałem środków europejskich, z wyjątkiem środków na realizację Wspólnej Polityki Rolnej Rozdział 6 – Środki na realizację projektów z udziałem środków europejskich w zakresie WPR Rozdział 7 – Rozliczenia w okresie przejściowym po zakończeniu roku budżetowego Rozdział 8 – Wykonywanie budżetu państwa z wykorzystaniem Informatycznego Systemu Obsługi Budżetu Państwa Rozdział 9 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 198 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, 938 i 1646) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowy sposób wykonywania budżetu państwa, w tym:
 1)
@@ -71,6 +71,7 @@ rachunku bankowym do obsługi płatności – należy przez to rozumieć rachune
 WPR – należy przez to rozumieć Wspólną Politykę Rolną;
 10)
 rachunku bankowym do obsługi płatności WPR – należy przez to rozumieć rachunek bankowy Ministra Finansów prowadzony w Banku Gospodarstwa Krajowego w oparciu o umowę, o której mowa w art. 208 ust. 2 ustawy o finansach publicznych, służący do obsługi płatności na realizację Wspólnej Polityki Rolnej.
+Ustanawianie dysponentów drugiego i trzeciego stopnia przez dysponentów części budżetowych
 § 3.
 1.
 Dysponentami środków budżetu państwa są dysponenci części budżetowych i kierownicy podległych tym dysponentom państwowych jednostek budżetowych, którzy zgodnie z odrębnymi przepisami dokonują wydatków budżetu państwa ujętych w planie finansowym jednostki lub realizują dochody budżetu państwa, z zastrzeżeniem ust. 5.
@@ -84,6 +85,7 @@ Dysponent części budżetowej ustanawia dysponentów trzeciego stopnia bezpośr
 Dysponent części budżetowej może, w porozumieniu z Ministrem Finansów, ustanowić dysponentami środków budżetu państwa kierowników państwowych jednostek organizacyjnych niebędących państwowymi jednostkami budżetowymi.
 6.
 Dysponent części budżetowej oraz dysponent drugiego stopnia może być jednocześnie dysponentem trzeciego stopnia w zakresie pobierania dochodów i dokonywania wydatków ujętych w planie finansowym jednostki.
+Tryb i terminy przekazywania dochodów oraz środków w celu dokonania wydatków
 § 4.
 1.
 Dochody są gromadzone odpowiednio na rachunkach bieżących urzędów obsługujących organy podatkowe lub na rachunkach bieżących dochodów państwowych jednostek budżetowych i przekazywane na centralny rachunek bieżący budżetu państwa, którego dysponentem jest Minister Finansów, z zastrzeżeniem ust. 3.
@@ -100,8 +102,7 @@ Dochody pobierane przez urzędy obsługujące organy podatkowe i przez państwow
 5)
 25. dzień miesiąca – do ostatniego dnia danego miesiąca,
 6)
-ostatni dzień danego miesiąca – do 5. dnia następnego miesiąca
-na odpowiedni rachunek dochodów centralnego rachunku bieżącego budżetu państwa, z zachowaniem rodzaju wpływów, z zastrzeżeniem ust. 3, § 13 ust. 2 i 5 oraz § 22.
+ostatni dzień danego miesiąca – do 5. dnia następnego miesiąca – na odpowiedni rachunek dochodów centralnego rachunku bieżącego budżetu państwa, z zachowaniem rodzaju wpływów, z zastrzeżeniem ust. 3, § 13 ust. 2 i 5 oraz § 22.
 3.
 Państwowe jednostki budżetowe zrealizowany w dochodach jednostki podatek od towarów i usług odprowadzają na właściwe rachunki na zasadach i w terminach określonych w odrębnych przepisach.
 4.
@@ -117,8 +118,7 @@ przekazanych w formie zaliczki środków zgromadzonych przez beneficjenta na wyo
 2)
 zwrotów środków wykorzystanych niezgodnie z przeznaczeniem, wykorzystanych z naruszeniem procedur właściwych dla realizacji wydatków w ramach danego programu lub projektu, pobranych nienależnie lub w nadmiernej wysokości,
 3)
-środków pozostałych do rozliczenia przekazanych w ramach zaliczki
-w części odpowiadającej finansowaniu z budżetu środków europejskich, jak i z budżetu państwa, są przekazywane przez beneficjenta zgodnie z zasadami wdrażania danego programu operacyjnego lub odrębnymi przepisami, jak i w terminach w nich określonych, na rachunek instytucji, z którą beneficjent zawarł umowę o dofinansowanie projektu albo która wydała decyzję o jego dofinansowaniu lub która jest upoważniona, zgodnie z odrębnymi przepisami, do wystawiania zleceń płatności.
+środków pozostałych do rozliczenia przekazanych w ramach zaliczki – w części odpowiadającej finansowaniu z budżetu środków europejskich, jak i z budżetu państwa, są przekazywane przez beneficjenta zgodnie z zasadami wdrażania danego programu operacyjnego lub odrębnymi przepisami, jak i w terminach w nich określonych, na rachunek instytucji, z którą beneficjent zawarł umowę o dofinansowanie projektu albo która wydała decyzję o jego dofinansowaniu lub która jest upoważniona, zgodnie z odrębnymi przepisami, do wystawiania zleceń płatności.
 8.
 Otrzymane odsetki, po wyjaśnieniu i rozliczeniu, instytucja, o której mowa w ust. 7, przekazuje na rachunek bieżący dochodów właściwego dla tej instytucji dysponenta części budżetowej, w terminach określonych w ust. 2, z zastrzeżeniem ust. 9.
 9.
@@ -180,8 +180,7 @@ Bank prowadzący obsługę bankową rachunków budżetu państwa przekazuje, ka�
 1)
 bieżących wydatków dysponentów drugiego i trzeciego stopnia na rachunki bieżące wydatków dysponentów nadrzędnych,
 2)
-bieżących wydatków dysponentów części budżetowych na rachunek wydatków centralnego rachunku bieżącego budżetu państwa
-według stanu środków na tych rachunkach po zakończeniu dnia operacyjnego.
+bieżących wydatków dysponentów części budżetowych na rachunek wydatków centralnego rachunku bieżącego budżetu państwa – według stanu środków na tych rachunkach po zakończeniu dnia operacyjnego.
 2.
 Minister Finansów może określić kwotę środków pozostających na rachunkach bieżących wydatków, o których mowa w ust. 1, i niepodlegających codziennemu przekazaniu w trybie określonym w ust. 1.
 3.
@@ -233,9 +232,10 @@ Polecenia przelewów dotyczące przekazania środków na wyodrębniony rachunek 
 Obowiązek uzupełniania symboli, o których mowa w ust. 2, dotyczy wszystkich dysponentów środków budżetu państwa.
 8.
 Przepisów ust. 1–7 nie stosuje się do jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej oraz środków przekazywanych z centralnego rachunku bieżącego budżetu państwa.
+Tryb i terminy przekazywania na centralny rachunek bieżący budżetu państwa środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy o finansach publicznych, z wyjątkiem środków na realizację Wspólnej Polityki Rolnej
 § 13.
 1.
-Środki z tytułu programów realizowanych w ramach Narodowego Planu Rozwoju, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z późn. zm.), po rozliczeniu tych programów z Komisją Europejską są przekazywane przez Ministra Finansów na odpowiedni rachunek dochodów centralnego rachunku bieżącego budżetu państwa, w terminie 5 dni roboczych po otrzymaniu tych środków z Komisji Europejskiej na wyodrębnione rachunki bankowe, o których mowa w art. 202 ustawy o finansach publicznych.
+Środki z tytułu programów realizowanych w ramach Narodowego Planu Rozwoju, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251, z 2006 r. Nr 149, poz. 1074 i Nr 249, poz. 1832, z 2008 r. Nr 216, poz. 1370, z 2009 r. Nr 161, poz. 1277 oraz z 2011 r. Nr 84, poz. 455.), po rozliczeniu tych programów z Komisją Europejską są przekazywane przez Ministra Finansów na odpowiedni rachunek dochodów centralnego rachunku bieżącego budżetu państwa, w terminie 5 dni roboczych po otrzymaniu tych środków z Komisji Europejskiej na wyodrębnione rachunki bankowe, o których mowa w art. 202 ustawy o finansach publicznych.
 2.
 Środki z tytułu programów realizowanych w ramach Narodowego Planu Rozwoju, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju, są przekazywane przez państwowe jednostki budżetowe na odpowiedni rachunek dochodów centralnego rachunku bieżącego budżetu państwa, w terminie 5 dni roboczych po ich otrzymaniu.
 3.
@@ -256,6 +256,7 @@ W przypadku gdy na koniec roku budżetowego na rachunku bankowym do obsługi pł
 Po ostatecznej weryfikacji przez Ministra Finansów sprawozdań rocznych z wykonania planu wydatków budżetu środków europejskich, z wyłączeniem wydatków na realizację Wspólnej Polityki Rolnej, przekazanych przez dysponentów środków budżetu państwa, może zostać dokonana korekta wpłaty środków, o których mowa w ust. 9.
 11.
 Środki, o których mowa w ust. 9 i 10, zalicza się na rachunek bankowy roku budżetowego, w którym odpowiadające im wydatki zostały poniesione.
+Przekazywanie środków na realizację projektów państwowych jednostek budżetowych z udziałem środków europejskich, z wyjątkiem środków na realizację Wspólnej Polityki Rolnej
 § 14.
 1.
 Środki europejskie na realizację projektów państwowych jednostek budżetowych finansowanych z udziałem środków europejskich są przekazywane na podstawie zleceń płatności, o których mowa w art. 188 ust. 1 ustawy o finansach publicznych, składanych w Banku Gospodarstwa Krajowego prowadzącym rachunek bankowy do obsługi płatności, na rachunki bankowe podmiotu upoważnionego lub wykonawcy, z zastrzeżeniem ust. 2 i 3.
@@ -282,6 +283,7 @@ W przypadku gdy w Banku Gospodarstwa Krajowego, prowadzącym rachunek bankowy do
 Środki na współfinansowanie projektów państwowych jednostek budżetowych, w odniesieniu do wydatków, o których mowa w § 14 ust. 3, mogą być przekazywane na rachunki pomocnicze wydatków ze środków europejskich prowadzone w Banku Gospodarstwa Krajowego lub w Narodowym Banku Polskim, z rachunków bieżących wydatków państwowych jednostek budżetowych.
 2.
 Środki, o których mowa w ust. 1, niewykorzystane do godziny 1430 państwowa jednostka budżetowa zwraca na rachunek bieżący wydatków do końca dnia operacyjnego.
+Środki na realizację projektów z udziałem środków europejskich w zakresie WPR
 § 16.
 Przekazywanie środków europejskich w części dotyczącej WPR na rzecz agencji płatniczych, o których mowa w odrębnych przepisach, odbywa się w trybie określonym w tych przepisach.
 § 17.
@@ -306,6 +308,7 @@ Przekazywane przez właściwych dysponentów na rachunek bankowy do obsługi pł
 Okres przejściowy, w którym dokonywane są rozliczenia środków europejskich w zakresie WPR dotyczące danego roku budżetowego, kończy się z dniem 31 stycznia roku następującego po roku budżetowym.
 2.
 W przypadku gdy dzień, o którym mowa w ust. 1, jest dniem wolnym od pracy, za ostatni dzień terminu uważa się pierwszy dzień roboczy po tym dniu.
+Rozliczenia w okresie przejściowym po zakończeniu roku budżetowego
 § 22.
 1.
 W celu zaliczenia operacji dokonanych z końcem roku budżetowego na rachunkach właściwego roku budżetowego wprowadza się okres przejściowy dla operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych po zakończeniu roku budżetowego.
@@ -357,6 +360,7 @@ Do dnia 31 stycznia roku następującego po roku budżetowym na rachunek bieżą
 Przekazanie środków, o których mowa w ust. 10, na rachunek wydatków roku ubiegłego centralnego rachunku bieżącego budżetu państwa następuje w terminie do dnia 15 lutego roku następującego po roku budżetowym.
 12.
 W przypadku gdy dzień, o którym mowa w ust. 2 oraz ust. 4–8, jest dniem wolnym od pracy, za ostatni dzień terminu uważa się pierwszy dzień roboczy po tym dniu.
+Wykonywanie budżetu państwa z wykorzystaniem Informatycznego Systemu Obsługi Budżetu Państwa
 § 23.
 1.
 Roczny harmonogram realizacji wydatków, o którym mowa w § 8 ust. 1, zapotrzebowania, o których mowa w § 5 ust. 1 i § 8 ust. 2 i 6, informację, o której mowa w § 8 ust. 4, projekty planów finansowych i plany finansowe, sprawozdania budżetowe, w zakresie wynikającym z odrębnych przepisów, składane są w formie elektronicznej, z wykorzystaniem Informatycznego Systemu Obsługi Budżetu Państwa.
@@ -377,26 +381,45 @@ W przypadku wystąpienia braku możliwości terminowego przekazania dokumentów,
 Informacja, o której mowa w ust. 4, zostanie przekazana w formie komunikatu umieszczonego na stronie internetowej Ministerstwa Finansów.
 6.
 Jeżeli z powodu awarii Informatycznego Systemu Obsługi Budżetu Państwa nie jest możliwe złożenie rocznego harmonogramu realizacji wydatków oraz zapotrzebowań na środki, dokumenty te należy przekazać w formie papierowej. Po usunięciu awarii dysponenci środków budżetu państwa przekazują niezwłocznie dokumenty za pomocą Informatycznego Systemu Obsługi Budżetu Państwa.
+Przepisy przejściowe i końcowe
 § 25.
 Traci moc rozporządzenie Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie szczegółowego sposobu wykonywania budżetu państwa (Dz. U. Nr 245, poz. 1637, z 2011 r. Nr 161, poz. 970 i Nr 298, poz. 1768 oraz z 2012 r. poz. 1546).
 § 26.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 22 ust. 2 pkt 4, ust. 5 pkt 2 i ust. 7, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 22 ust. 2 pkt 4, ust. 5 pkt 2 i ust. 7, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251, z 2006 r. Nr 149, poz. 1074 i Nr 249, poz. 1832, z 2008 r. Nr 216, poz. 1370, z 2009 r. Nr 161, poz. 1277 oraz z 2011 r. Nr 84, poz. 455.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Ustanawianie dysponentów drugiego i trzeciego stopnia przez dysponentów części budżetowych
+#### Rozdział 2 – Ustanawianie dysponentów drugiego i trzeciego stopnia przez dysponentów części budżetowych
 
-#### Rozdział 3 Tryb i terminy przekazywania dochodów oraz środków w celu dokonania wydatków
+#### Rozdział 3 – Tryb i terminy przekazywania dochodów oraz środków w celu dokonania wydatków
 
-#### Rozdział 4 Tryb i terminy przekazywania na centralny rachunek bieżący budżetu państwa środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy o finansach publicznych, z wyjątkiem środków na realizację Wspólnej Polityki Rolnej
+#### Rozdział 4 – Tryb i terminy przekazywania na centralny rachunek bieżący budżetu państwa środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy o finansach publicznych, z wyjątkiem środków na realizację Wspólnej Polityki Rolnej
 
-#### Rozdział 5 Przekazywanie środków na realizację projektów państwowych jednostek budżetowych z udziałem środków europejskich, z wyjątkiem środków na realizację Wspólnej Polityki Rolnej
+#### Rozdział 5 – Przekazywanie środków na realizację projektów państwowych jednostek budżetowych z udziałem środków europejskich, z wyjątkiem środków na realizację Wspólnej Polityki Rolnej
 
-#### Rozdział 6 Środki na realizację projektów z udziałem środków europejskich w zakresie WPR
+#### Rozdział 6 – Środki na realizację projektów z udziałem środków europejskich w zakresie WPR
 
-#### Rozdział 7 Rozliczenia w okresie przejściowym po zakończeniu roku budżetowego
+#### Rozdział 7 – Rozliczenia w okresie przejściowym po zakończeniu roku budżetowego
 
-#### Rozdział 8 Wykonywanie budżetu państwa z wykorzystaniem Informatycznego Systemu Obsługi Budżetu Państwa
+#### Rozdział 8 – Wykonywanie budżetu państwa z wykorzystaniem Informatycznego Systemu Obsługi Budżetu Państwa
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+#### Rozdział 9 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
 

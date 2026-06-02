@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-27 |
 | Data wydania | 2024-03-29 |
-| Wejście w życie | 2024-04-13 |
 | Ostatnia zmiana | 2024-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000477) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/477/text.pdf) |
 
@@ -98,5 +97,5 @@ odmowie przyjęcia karty skierowania do służby w formacji uzbrojonej;
 3)
 niestawieniu się osoby do służby w formacji uzbrojonej bez uzasadnionej przyczyny.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 7 kwietnia 2011 r. w sprawie trybu postępowania w sprawie przeznaczania i kierowania osób do służby w formacjach uzbrojonych niewchodzących w skład Sił Zbrojnych oraz przebiegu tej służby (Dz. U. poz. 487), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 7 kwietnia 2011 r. w sprawie trybu postępowania w sprawie przeznaczania i kierowania osób do służby w formacjach uzbrojonych niewchodzących w skład Sił Zbrojnych oraz przebiegu tej służby (Dz. U. poz. 487), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248).
 

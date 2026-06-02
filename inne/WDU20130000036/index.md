@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-20 |
 | Data wydania | 2013-01-10 |
-| Wejście w życie | 2013-01-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000036) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/36/text.pdf) |
 
@@ -52,5 +51,5 @@ Kierownicy jednostek budżetowych, o których mowa w § 3, przekazują prezesom 
 § 7.
 Działalność inwestycyjna sądów wojskowych realizowana jest przez właściwe jednostki organizacyjne podległe Ministrowi Obrony Narodowej.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2003 r. w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych (Dz. U. Nr 104, poz. 974), które utraciło moc z dniem wejścia w życie ustawy z dnia 19 sierpnia 2011 r. o zmianie ustawy – Prawo o ustroju sądów wojskowych oraz ustawy o służbie wojskowej żołnierzy zawodowych (Dz. U. Nr 236, poz. 1396). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2003 r. w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych (Dz. U. Nr 104, poz. 974), które utraciło moc z dniem wejścia w życie ustawy z dnia 19 sierpnia 2011 r. o zmianie ustawy – Prawo o ustroju sądów wojskowych oraz ustawy o służbie wojskowej żołnierzy zawodowych (Dz. U. Nr 236, poz. 1396).
 

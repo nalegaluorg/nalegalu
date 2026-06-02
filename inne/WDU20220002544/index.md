@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-28 |
 | Data wydania | 2022-12-08 |
-| Wejście w życie | 2022-12-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2544/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sprawowanie nadzoru nad nieletnim Rozdział 3 – Kontrola wykonywania środka wychowawczego, o którym mowa w art. 7 pkt 2 ustawy, oraz środka, o którym mowa w art. 18 ust. 1 ustawy Rozdział 4 – Organizowanie i kontrolowanie wykonywania przez nieletniego zobowiązania do wykonania prac społecznych Rozdział 5 – Sprawowanie nadzoru nad nieletnim przez organizacje społeczne, pracodawców i osoby godne zaufania Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 161 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa:
@@ -46,6 +46,7 @@ szczegółowy sposób i warunki sprawowania nadzoru nad nieletnimi przez organiz
 tryb wyznaczania przedstawicieli przez sprawujące nadzór nad nieletnimi organizacje społeczne, w tym organizacje pozarządowe i pracodawców.
 2.
 Ilekroć w rozporządzeniu jest mowa o „ustawie”, rozumie się przez to ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich.
+Sprawowanie nadzoru nad nieletnim
 § 2.
 1.
 Przydziału spraw wpływających do zespołu kuratorskiej służby sądowej dokonuje się według podziału terytorialnego obszaru właściwości zespołu lub niezależnie od podziału terytorialnego, biorąc pod uwagę równomierne obciążenie pracą kuratorów w zespole, predyspozycje, wykształcenie, umiejętności i przeszkolenie poszczególnych kuratorów sądowych.
@@ -207,6 +208,7 @@ Sprawozdanie z zakończenia nadzoru kurator społeczny przedkłada kuratorowi za
 W sprawozdaniu z zakończenia nadzoru należy opisać jego przebieg, ze szczególnym uwzględnieniem realizacji planu pracy z nieletnim, oceny wykonywania zobowiązań i postawy nieletniego.
 4.
 Sprawozdania z zakończenia nadzoru można nie sporządzać w przypadku zakończenia nadzoru w inny sposób niż na skutek upływu okresu próby. W szczególności sprawozdania z zakończenia nadzoru nie sporządza się w sprawach, w których sąd, na wniosek kuratora sądowego, uchylił nadzór kuratorski lub umieścił nieletniego w młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym lub zakładzie poprawczym.
+Kontrola wykonywania środka wychowawczego, o którym mowa w art. 7 pkt 2 ustawy, oraz środka, o którym mowa w art. 18 ust. 1 ustawy
 § 14.
 1.
 Kurator sądowy, którego sąd rodzinny zobowiązał do kontrolowania wykonywania obowiązków określonego postępowania nałożonych na nieletniego, o których mowa w art. 7 pkt 2 ustawy, w terminach określonych przez sąd lub na żądanie sądu, nie rzadziej niż raz na 3 miesiące, zbiera informacje o sposobie realizacji nałożonego obowiązku. W tym celu kurator sądowy może:
@@ -233,6 +235,7 @@ wzywanie rodziców albo tego z rodziców, pod którego stałą pieczą nieletni 
 zwracanie się do odpowiednich podmiotów lub instytucji z prośbą o udzielenie żądanych informacji.
 2.
 Do kontrolowania przez kuratora sądowego wykonywania środka, o którym mowa w art. 18 ust. 1 ustawy, stosuje się odpowiednio przepisy § 2–6, § 7 ust. 1 pkt 10, § 9 i § 12.
+Organizowanie i kontrolowanie wykonywania przez nieletniego zobowiązania do wykonania prac społecznych
 § 16.
 Przy powierzaniu kuratorom zawodowym spraw kontrolowania wykonania przez nieletnich zobowiązania do wykonania prac społecznych stosuje się odpowiednio przepisy § 2.
 § 17.
@@ -286,6 +289,7 @@ We wniosku o zmianę środka wychowawczego kurator zawodowy zawiera również in
 W razie potrzeby na posiedzenie sądu o zmianę środka wychowawczego lub jego uchylenie kurator przedkłada sądowi aktualną informację o liczbie przepracowanych przez nieletniego godzin uzyskaną na koniec dnia poprzedniego.
 § 22.
 W celu pozyskania podmiotów, o których mowa w art. 155 ust. 3 pkt 19 ustawy, kierownik zespołu kuratorskiej służby sądowej, w porozumieniu z prezesem sądu rejonowego, nawiązuje stałą współpracę z organami samorządu terytorialnego i z przedstawicielami innych podmiotów, o których mowa w art. 151 ust. 1 ustawy.
+Sprawowanie nadzoru nad nieletnim przez organizacje społeczne, pracodawców i osoby godne zaufania
 § 23.
 1.
 Organizacje społeczne i pracodawcy, którym powierzono sprawowanie nadzoru nad nieletnim, nie później niż w terminie 14 dni od dnia powierzenia, wyznaczają swojego przedstawiciela, za jego zgodą, do sprawowania nadzoru nad nieletnim.
@@ -298,18 +302,31 @@ Podmioty, o których mowa w ust. 1, mogą w uzasadnionych przypadkach, z własne
 Organizacje społeczne, pracodawcy albo osoby godne zaufania co najmniej raz w miesiącu nawiązują kontakt z nieletnim, jego rodzicami albo tym z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekunem nieletniego w celu skontrolowania zachowania nieletniego. Sąd może określić inną częstotliwość wykonywania tych czynności.
 2.
 W pozostałym zakresie do przedstawicieli organizacji społecznych, pracodawców albo osób godnych zaufania, którym powierzono sprawowanie nadzoru, stosuje się odpowiednio przepisy § 4, § 5, § 6 ust. 1, § 7, § 10 ust. 1 i 3, § 11 oraz § 13 ust. 1, 3 i 4.
+Przepis końcowy
 § 25.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 24 czerwca 2014 r. w sprawie nadzoru nad nieletnimi (Dz. U. poz. 855), które utraciło moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 24 czerwca 2014 r. w sprawie nadzoru nad nieletnimi (Dz. U. poz. 855), które utraciło moc z dniem wejścia w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sprawowanie nadzoru nad nieletnim
+#### Rozdział 2 – Sprawowanie nadzoru nad nieletnim
 
-#### Rozdział 3 Kontrola wykonywania środka wychowawczego, o którym mowa w art. 7 pkt 2 ustawy, oraz środka, o którym mowa w art. 18 ust. 1 ustawy
+#### Rozdział 3 – Kontrola wykonywania środka wychowawczego, o którym mowa w art. 7 pkt 2 ustawy, oraz środka, o którym mowa w art. 18 ust. 1 ustawy
 
-#### Rozdział 4 Organizowanie i kontrolowanie wykonywania przez nieletniego zobowiązania do wykonania prac społecznych
+#### Rozdział 4 – Organizowanie i kontrolowanie wykonywania przez nieletniego zobowiązania do wykonania prac społecznych
 
-#### Rozdział 5 Sprawowanie nadzoru nad nieletnim przez organizacje społeczne, pracodawców i osoby godne zaufania
+#### Rozdział 5 – Sprawowanie nadzoru nad nieletnim przez organizacje społeczne, pracodawców i osoby godne zaufania
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

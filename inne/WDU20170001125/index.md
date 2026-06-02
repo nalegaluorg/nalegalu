@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 26 maja 2017 r. w sprawie typów szkół artystycznych publicznych i niepublicznych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 26 maja 2017 r. w sprawie typów szkół artystycznych publicznych i niepublicznych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-26 |
 | Data wydania | 2017-06-09 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1125/text.pdf) |
 
@@ -131,8 +130,7 @@ w roku szkolnym 2020/2021 nie otrzymał promocji do klasy III dotychczasowego li
 3)
 w roku szkolnym 2021/2022 nie otrzymał promocji do klasy IV dotychczasowego liceum plastycznego, albo
 4)
-w roku szkolnym 2022/2023 w klasie IV dotychczasowego liceum plastycznego nie ukończył szkoły
-staje się uczniem odpowiedniej klasy liceum sztuk plastycznych po przeprowadzeniu egzaminu kwalifikacyjnego, o którym mowa w art. 142 ust. 7 ustawy.
+w roku szkolnym 2022/2023 w klasie IV dotychczasowego liceum plastycznego nie ukończył szkoły – staje się uczniem odpowiedniej klasy liceum sztuk plastycznych po przeprowadzeniu egzaminu kwalifikacyjnego, o którym mowa w art. 142 ust. 7 ustawy.
 § 8.
 1.
 Podstawę programową kształcenia ogólnego dla szkoły podstawowej, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b ustawy, stosuje się, począwszy od roku szkolnego 2017/2018, w szkołach, o których mowa w § 1, w klasach odpowiadających klasom I, IV i VII szkoły podstawowej, a w latach następnych również w kolejnych klasach.
@@ -172,8 +170,7 @@ w roku szkolnym 2016/2017 nie otrzymał promocji do klasy II albo
 2)
 w roku szkolnym 2017/2018 nie otrzymał promocji do klasy III, albo
 3)
-w roku szkolnym 2018/2019 nie otrzymał promocji do klasy IV
-kontynuuje kształcenie ogólne w odpowiedniej klasie szkoły realizującej kształcenie ogólne.
+w roku szkolnym 2018/2019 nie otrzymał promocji do klasy IV – kontynuuje kształcenie ogólne w odpowiedniej klasie szkoły realizującej kształcenie ogólne.
 7.
 Uczeń dotychczasowej ogólnokształcącej szkoły sztuk pięknych, który w roku szkolnym 2018/2019 nie otrzymał promocji do klasy IV, ale w wyniku klasyfikacji rocznej, ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq ustawy o systemie oświaty, może ubiegać się o przyjęcie do klasy I dotychczasowego liceum plastycznego dla absolwentów gimnazjum, zgodnie z § 7 ust. 5 pkt 2.
 8.
@@ -183,8 +180,7 @@ w roku szkolnym 2019/2020 nie otrzymał promocji do klasy V albo
 2)
 w roku szkolnym 2020/2021 nie otrzymał promocji do klasy VI, albo
 3)
-w roku szkolnym 2021/2022 nie spełnił warunków, o których mowa w art. 44zm ust. 1 ustawy o systemie oświaty, i nie ukończył szkoły
-może ubiegać się o przyjęcie do odpowiedniej klasy liceum sztuk plastycznych po przeprowadzeniu egzaminu kwalifikacyjnego, o którym mowa w art. 142 ust. 7 ustawy.
+w roku szkolnym 2021/2022 nie spełnił warunków, o których mowa w art. 44zm ust. 1 ustawy o systemie oświaty, i nie ukończył szkoły – może ubiegać się o przyjęcie do odpowiedniej klasy liceum sztuk plastycznych po przeprowadzeniu egzaminu kwalifikacyjnego, o którym mowa w art. 142 ust. 7 ustawy.
 § 10.
 Organ prowadzący szkołę artystyczną jest obowiązany dostosować dokumenty organizacyjne szkoły do zmian wprowadzonych rozporządzeniem w terminie 6 miesięcy od dnia:
 1)
@@ -192,6 +188,5 @@ Organ prowadzący szkołę artystyczną jest obowiązany dostosować dokumenty o
 2)
 1 września 2019 r. – w przypadku, o którym mowa w § 7 ust. 2.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r., z tym że przepisy § 6 ust. 2 oraz § 9 ust. 2 i 6 pkt 1 wchodzą w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 28 grudnia 2016 r. w sprawie typów szkół artystycznych publicznych i niepublicznych (Dz. U. poz. 2306), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r., z tym że przepisy § 6 ust. 2 oraz § 9 ust. 2 i 6 pkt 1 wchodzą w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 28 grudnia 2016 r. w sprawie typów szkół artystycznych publicznych i niepublicznych (Dz. U. poz. 2306), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 28 grudnia 2016 r. w sprawie typów szkół artystycznych publicznych i niepublicznych (Dz. U. poz. 2306), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
 

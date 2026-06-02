@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 4 marca 2019 r. w sprawie standardów dotyczących przestrzennego kształtowania budynku i jego otoczenia, technologii wykonania i wyposażenia technicznego budynku oraz lokalizacji przedsięwzięć realizowanych z wykorzystaniem finansowego wsparcia z Funduszu Dopłat
+# Rozporządzenie Ministra Inwestycji i Rozwojuz dnia 4 marca 2019 r. w sprawie standardów dotyczących przestrzennego kształtowania budynku i jego otoczenia, technologii wykonania i wyposażenia technicznego budynku oraz lokalizacji przedsięwzięć realizowanych z wykorzystaniem finansowego wsparcia z Funduszu Dopłat Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-04 |
 | Data wydania | 2019-03-08 |
-| Wejście w życie | 2019-03-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000457) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/457/text.pdf) |
 
@@ -37,8 +36,7 @@ przestrzennego kształtowania budynku i jego otoczenia,
 2)
 technologii wykonania i wyposażenia technicznego budynku,
 3)
-lokalizacji przedsięwzięcia
-stanowiące załącznik do rozporządzenia.
+lokalizacji przedsięwzięcia – stanowiące załącznik do rozporządzenia.
 § 2.
 Standardów, o których mowa w § 1, nie stosuje się do przedsięwzięć realizowanych z wykorzystaniem finansowego wsparcia z Funduszu Dopłat, dla których przed dniem wejścia w życie rozporządzenia:
 1)
@@ -50,8 +48,7 @@ inwestor złożył wniosek o wydanie pozwolenia na budowę albo posiada pozwolen
 4)
 zostało dokonane zgłoszenie budowy lub innych robót budowlanych w przypadku, gdy nie jest wymagane uzyskanie pozwolenia na budowę.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem pkt 3 i 5–9 załącznika do rozporządzenia, które wchodzą w życie z dniem 1 stycznia 2020 r.
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem pkt 3 i 5–9 załącznika do rozporządzenia, które wchodzą w życie z dniem 1 stycznia 2020 r. 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 Załącznik – Standardy dotyczące przestrzennego kształtowania budynku i jego otoczenia, technologii wykonania i wyposażenia technicznego budynku oraz lokalizacji przedsięwzięć realizowanych z wykorzystaniem finansowego wsparcia z Funduszu Dopłat
 1.
 Przedsięwzięcie lokalizuje się na terenie, który ma bezpośredni dostęp do drogi publicznej, w tym przez zjazd albo dostęp pośredni przez drogę wewnętrzną, której parametry zapewniają wymagania określone w przepisach odrębnych dotyczących dróg pożarowych, przy czym minimalna szerokość drogi publicznej nie może być mniejsza niż 6 m.

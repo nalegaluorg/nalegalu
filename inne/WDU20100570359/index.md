@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-03-05 |
 | Data wydania | 2010-04-09 |
-| Wejście w życie | 2010-04-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100570359) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/359/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
 
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust. 5, art. 7 ust. 8 oraz art. 16 ust. 2 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7a oraz art. 16 ust. 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 23 kwietnia 2012 r.
 
-2. Zachowane w mocy przepisy wykonawcze, o których mowa w ust. 1, wydane na podstawie art. 16 ust. 2 ustawy wymienionej w art. 1, mogą być zmienione przez ministra właściwego do spraw zdrowia, w drodze rozporządzenia, w granicach określonych w art. 16 ust. 2 ustawy wymienionej w art. 1. ” . W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.) w art. 200 uchyla się ust. 4.
+2. Zachowane w mocy przepisy wykonawcze, o których mowa w ust. 1, wydane na podstawie art. 16 ust. 2 ustawy wymienionej w art. 1, mogą być zmienione przez ministra właściwego do spraw zdrowia, w drodze rozporządzenia, w granicach określonych w art. 16 ust. 2 ustawy wymienionej w art. 1. ” . W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658, z 2007 r. Nr 80, poz. 542, Nr 120, poz. 818, Nr 176, poz. 1238 i 1240 i Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416 oraz z 2009 r. Nr 68, poz. 584, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 202, poz. 1553.) w art. 200 uchyla się ust. 4.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 23 kwietnia 2010 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 23 kwietnia 2010 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658, z 2007 r. Nr 80, poz. 542, Nr 120, poz. 818, Nr 176, poz. 1238 i 1240 i Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416 oraz z 2009 r. Nr 68, poz. 584, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 202, poz. 1553.
 

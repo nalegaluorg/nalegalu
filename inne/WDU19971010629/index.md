@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1997-06-26 |
 | Data wydania | 1997-08-28 |
-| Wejście w życie | 1997-11-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971010629) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/629/text.pdf) |
 

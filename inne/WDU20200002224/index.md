@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-11 |
 | Data wydania | 2020-12-11 |
-| Wejście w życie | 2020-12-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002224) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2224/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058 i 2164.) wprowadza się następujące zmiany:
 1)
 w § 13zb:
 a)
@@ -41,8 +40,7 @@ w ust. 8 wyrazy „1 grudnia” zastępuje się wyrazami „21 grudnia 2020 r.�
 d)
 w ust. 15 liczbę „53 282” zastępuje się liczbą „118 928”;
 2)
-po § 13zd dodaje się § 13ze w brzmieniu:
-„
+po § 13zd dodaje się § 13ze w brzmieniu: „
 § 13ze.
 1.
 W 2020 i 2021 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, w zakresie dofinansowania kosztów zakupu w okresie od dnia 10 grudnia 2020 r. do dnia 31 marca 2021 r. komputera stacjonarnego lub przenośnego będącego laptopem wraz z niezbędnym oprogramowaniem oraz myszą, klawiaturą i ładowarką.
@@ -111,10 +109,9 @@ gdy koszty zakupu komputera stacjonarnego lub przenośnego będącego laptopem w
 2)
 braku dostarczenia do dnia 15 kwietnia 2021 r. kopii faktury potwierdzającej dokonanie zakupu od dnia 10 grudnia 2020 r. do dnia 31 marca 2021 r. komputera stacjonarnego lub przenośnego będącego laptopem wraz z niezbędnym oprogramowaniem oraz myszą, klawiaturą i ładowarką – w pełnej wysokości;
 3)
-zbycia przed upływem 2 lat od daty zakupu komputera stacjonarnego lub przenośnego będącego laptopem wraz z niezbędnym oprogramowaniem oraz myszą, klawiaturą i ładowarką, do zakupu których rodzic otrzymał pomoc, o której mowa w ust. 1 – w pełnej wysokości.
-” .
+zbycia przed upływem 2 lat od daty zakupu komputera stacjonarnego lub przenośnego będącego laptopem wraz z niezbędnym oprogramowaniem oraz myszą, klawiaturą i ładowarką, do zakupu których rodzic otrzymał pomoc, o której mowa w ust. 1 – w pełnej wysokości. ” .
 § 2.
 Do postępowań w sprawach o przyznanie pomocy, o której mowa w § 13zb rozporządzenia zmienianego w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia ostateczną decyzją, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 2 grudnia 2020 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 2 grudnia 2020 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058 i 2164.
 

@@ -22,15 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1994-05-28 |
 | Data wydania | 1994-08-11 |
-| Wejście w życie | 1994-08-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940870406) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/406/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 1993 r. Nr 106, poz. 482, Nr 134, poz. 646 oraz z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163 i Nr 80, poz. 368) wprowadza się następujące zmiany:
 
 - **1)** w art. 12 w ust. 1 w pkt 4 skreśla się wyrazy „zgodnie z art. 16 ust. 1 pkt 34”;
-- **2)** w art. 16: w ust. 1: – pkt 25 otrzymuje brzmienie: „ 25) wierzytelności odpisanych jako nieściągalne, z wyjątkiem: a) wierzytelności, które uprzednio na podstawie art. 12 ust. 3 zostały zarachowane jako przychody należne i których nieściągalność została udokumentowana w sposób określony w ust. 2, b) udzielonych przez jednostki organizacyjne uprawnione, na podstawie odrębnych ustaw regulujących zasady ich funkcjonowania do udzielania kredytów (pożyczek) – straconych kredytów (pożyczek), pomniejszonych o kwotę nie spłaconych odsetek i równowartość rezerw na te kredyty (pożyczki), zaliczonych uprzednio do kosztów uzyskania przychodów, a w bankach – pomniejszonych także o połowę tej części funduszu ryzyka, w jakiej pokryto nim stracone kredyty (pożyczki), ” – pkt 26 otrzymuje brzmienie: „ 26) rezerw tworzonych na pokrycie wierzytelności, których nieściągalność została uprawdopodobniona, z wyjątkiem tych rezerw utworzonych na pokrycie: a) wierzytelności, które uprzednio na podstawie art. 12 ust. 3 zostały zarachowane jako przychody należne, b) straconych kredytów (pożyczek) w jednostkach organizacyjnych, o których mowa w pkt 25 lit. b), z wyjątkiem rezerw tworzonych na pokrycie wierzytelności, których nieściągalność została uprawdopodobniona, jeśli stanowiące ich podstawę kredyty zostały udzielone z naruszeniem prawa, przy czym naruszenie to powinno być stwierdzone prawomocnym wyrokiem sądu, ” – skreśla się pkt 34, ust. 2 otrzymuje brzmienie: „
+- **2)** w art. 16: w ust. 1: pkt 25 otrzymuje brzmienie: „
     - **a)**
+
+- **25)** wierzytelności odpisanych jako nieściągalne, z wyjątkiem: wierzytelności, które uprzednio na podstawie art. 12 ust. 3 zostały zarachowane jako przychody należne i których nieściągalność została udokumentowana w sposób określony w ust. 2, udzielonych przez jednostki organizacyjne uprawnione, na podstawie odrębnych ustaw regulujących zasady ich funkcjonowania do udzielania kredytów (pożyczek) – straconych kredytów (pożyczek), pomniejszonych o kwotę nie spłaconych odsetek i równowartość rezerw na te kredyty (pożyczki), zaliczonych uprzednio do kosztów uzyskania przychodów, a w bankach – pomniejszonych także o połowę tej części funduszu ryzyka, w jakiej pokryto nim stracone kredyty (pożyczki), ” pkt 26 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **26)** rezerw tworzonych na pokrycie wierzytelności, których nieściągalność została uprawdopodobniona, z wyjątkiem tych rezerw utworzonych na pokrycie: wierzytelności, które uprzednio na podstawie art. 12 ust. 3 zostały zarachowane jako przychody należne, straconych kredytów (pożyczek) w jednostkach organizacyjnych, o których mowa w pkt 25 lit. b), z wyjątkiem rezerw tworzonych na pokrycie wierzytelności, których nieściągalność została uprawdopodobniona, jeśli stanowiące ich podstawę kredyty zostały udzielone z naruszeniem prawa, przy czym naruszenie to powinno być stwierdzone prawomocnym wyrokiem sądu, ” – skreśla się pkt 34, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
     - **b)**
 
 2. Za wierzytelności, o których mowa w ust. 1 pkt 25, uważa się te wierzytelności, których nieściągalność została udokumentowana:

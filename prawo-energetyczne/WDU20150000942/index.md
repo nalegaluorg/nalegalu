@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-27 |
 | Data wydania | 2015-07-03 |
-| Wejście w życie | 2015-08-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000942) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/942/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) w art. 18:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151 i 478.) w art. 18:
 
 - **1)** w ust. 1 pkt 2 i 3 otrzymują brzmienie: „
 - **2)** planowanie oświetlenia znajdujących się na terenie gminy: miejsc publicznych, dróg gminnych, dróg powiatowych i dróg wojewódzkich, dróg krajowych, innych niż autostrady i drogi ekspresowe w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460 i 774), przebiegających w granicach terenu zabudowy, części dróg krajowych, innych niż autostrady i drogi ekspresowe w rozumieniu ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2015 r. poz. 641 i 901), wymagających odrębnego oświetlenia: – przeznaczonych do ruchu pieszych lub rowerów, – stanowiących dodatkowe jezdnie obsługujące ruch z terenów przyległych do pasa drogowego drogi krajowej;
@@ -44,5 +43,5 @@ source: "eli-html"
 
 - **2)** uchyla się ust. 3.
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151 i 478.
 

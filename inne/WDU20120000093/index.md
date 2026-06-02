@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-01-17 |
 | Data wydania | 2012-01-25 |
-| Wejście w życie | 2012-02-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000093) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/93/text.pdf) |
 
@@ -35,5 +34,5 @@ Okręgowy Urząd Probierczy z siedzibą w Warszawie obejmujący województwa: ma
 2)
 Okręgowy Urząd Probierczy z siedzibą w Krakowie obejmujący województwa: małopolskie, dolnośląskie, lubuskie, opolskie, podkarpackie, śląskie, świętokrzyskie, wielkopolskie, zachodniopomorskie.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 2 września 2003 r. w sprawie określenia obszaru działania i siedzib okręgowych i obwodowych urzędów probierczych (Dz. U. Nr 177, poz. 1728), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 56 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. Nr 92, poz. 529). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 2 września 2003 r. w sprawie określenia obszaru działania i siedzib okręgowych i obwodowych urzędów probierczych (Dz. U. Nr 177, poz. 1728), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 56 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. Nr 92, poz. 529).
 

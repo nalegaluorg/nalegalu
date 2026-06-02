@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-20 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920882) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/882/text.pdf) |
+
+Badania kliniczne produktów leczniczych
 
 **Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, Nr 69, poz. 625 i Nr 91, poz. 877) wprowadza się następujące zmiany:
 
@@ -55,7 +56,7 @@ source: "eli-html"
     - **f)**
 
 - **7a)** importem produktów leczniczych – jest każde działanie polegające na sprowadzaniu gotowego produktu leczniczego spoza państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w tym w szczególności ich magazynowanie, kontrola jakości przy zwalnianiu serii i dystrybucja;
-- **7b)** importem równoległym – jest każde działanie polegające na sprowadzeniu produktu leczniczego z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym spełniającego łącznie następujące warunki: – sprowadzony produkt leczniczy posiada tę samą substancję czynną (substancje czynne), co najmniej te same wskazania, tę samą postać, moc i drogę podania jak produkt leczniczy dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej, – sprowadzony produkt leczniczy posiada pozwolenie na dopuszczenie do obrotu wydane na tych samych zasadach w kraju, z którego jest sprowadzony i na terytorium Rzeczypospolitej Polskiej, – pozwolenie na dopuszczenie do obrotu w Rzeczypospolitej Polskiej jest wydane na rzecz podmiotu odpowiedzialnego posiadającego pozwolenie na dopuszczenie do obrotu w państwie, z którego produkt jest sprowadzany lub podmiotu odpowiedzialnego będącego w stosunku do tego podmiotu – podmiotem zależnym lub dominującym w rozumieniu ustawy z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. Nr 49, poz. 447, z późn. zm.), lub jego licencjodawcą albo licencjobiorcą, ” , pkt 16 otrzymuje brzmienie: „
+- **7b)** importem równoległym – jest każde działanie polegające na sprowadzeniu produktu leczniczego z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym spełniającego łącznie następujące warunki: – sprowadzony produkt leczniczy posiada tę samą substancję czynną (substancje czynne), co najmniej te same wskazania, tę samą postać, moc i drogę podania jak produkt leczniczy dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej, – sprowadzony produkt leczniczy posiada pozwolenie na dopuszczenie do obrotu wydane na tych samych zasadach w kraju, z którego jest sprowadzony i na terytorium Rzeczypospolitej Polskiej, – pozwolenie na dopuszczenie do obrotu w Rzeczypospolitej Polskiej jest wydane na rzecz podmiotu odpowiedzialnego posiadającego pozwolenie na dopuszczenie do obrotu w państwie, z którego produkt jest sprowadzany lub podmiotu odpowiedzialnego będącego w stosunku do tego podmiotu – podmiotem zależnym lub dominującym w rozumieniu ustawy z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. Nr 49, poz. 447, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774, Nr 124, poz. 1151, Nr 170, poz. 1651 i Nr 223, poz. 2216 oraz z 2004 r. Nr 64, poz. 594.), lub jego licencjodawcą albo licencjobiorcą, ” , pkt 16 otrzymuje brzmienie: „
     - **g)**
 
 - **6)** niepożądanym zdarzeniem – jest każde zdarzenie natury medycznej wywołujące negatywne skutki u pacjenta lub uczestnika badania klinicznego, któremu podano produkt leczniczy lub badany produkt leczniczy albo badany produkt leczniczy weterynaryjny, chociażby nie miały one związku przyczynowego ze stosowaniem tego produktu; ” , pkt 17 otrzymuje brzmienie: „
@@ -70,7 +71,7 @@ source: "eli-html"
 - **22a)** państwem referencyjnym – jest państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, które w ramach procedury wzajemnego uznania wydało pozwolenie, będące podstawą do wszczęcia procedury wzajemnego uznania; ” , pkt 24 otrzymuje brzmienie: „
     - **k)**
 
-- **24)** podmiotem odpowiedzialnym – jest przedsiębiorca, w rozumieniu art. 2 ust. 2 i 3 oraz art. 4 pkt 6 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm.), lub podmiot prowadzący działalność gospodarczą w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, który wnioskuje lub uzyskał pozwolenie na dopuszczenie do obrotu produktu leczniczego; ” , po pkt 27 dodaje się pkt 27a w brzmieniu: „
+- **24)** podmiotem odpowiedzialnym – jest przedsiębiorca, w rozumieniu art. 2 ust. 2 i 3 oraz art. 4 pkt 6 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643, z 2002 r. Nr 1, poz. 2, Nr 115, poz. 995 i Nr 130, poz. 1112, z 2003 r. Nr 86, poz. 789, Nr 128, poz. 1176 i Nr 217, poz. 2125 oraz z 2004 r. Nr 54, poz. 535 i Nr 91, poz. 870.), lub podmiot prowadzący działalność gospodarczą w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, który wnioskuje lub uzyskał pozwolenie na dopuszczenie do obrotu produktu leczniczego; ” , po pkt 27 dodaje się pkt 27a w brzmieniu: „
     - **l)**
 
 - **27a)** produktem leczniczym przeznaczonym do specjalnych celów żywieniowych – jest produkt leczniczy przeznaczony do leczenia żywieniowego odpowiednio przetworzony i produkowany, o ściśle określonym składzie, stosowany u ludzi, na zlecenie i pod kontrolą lekarza; ” , pkt 29 otrzymuje brzmienie: „
@@ -103,7 +104,7 @@ source: "eli-html"
 
 - **1)** posiada pozwolenie, o którym mowa w art. 3 ust. 1,
 - **2)** jest dopuszczony do obrotu w państwie z którego jest sprowadzany,
-- **3)** jest niedostępny na terytorium Rzeczypospolitej Polskiej pod warunkiem, że na terytorium Rzeczypospolitej Polskiej nie jest dostępny produkt leczniczy zawierający tę samą lub te same substancje czynne, tę samą dawkę i postać co produkt leczniczy sprowadzany. ” ;
+- **3)** jest niedostępny na terytorium Rzeczypospolitej Polskiej – pod warunkiem, że na terytorium Rzeczypospolitej Polskiej nie jest dostępny produkt leczniczy zawierający tę samą lub te same substancje czynne, tę samą dawkę i postać co produkt leczniczy sprowadzany. ” ;
 - **5)** po art. 4 dodaje się art. 4a w brzmieniu: „
 
 **Art. 4a.** Do obrotu dopuszczone są również produkty lecznicze będące przedmiotem importu równoległego, które uzyskały pozwolenie na import równoległy. ” ;
@@ -132,9 +133,14 @@ source: "eli-html"
 
 4. Dane i dokumenty dołączone do wniosku, raporty oraz inne dokumenty gromadzone w postępowaniu o dopuszczenie do obrotu o przedłużenie pozwolenia lub o zmianie powinny być przechowywane w Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanym dalej: „Urzędem Rejestracji”, przez 10 lat po wygaśnięciu pozwolenia na dopuszczenie do obrotu. ” ;
 
-- **10)** w art. 10: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o dopuszczenie do obrotu produktu leczniczego, z zastrzeżeniem art. 15, 19, 20, 21 i 21a, powinien zawierać w szczególności: ” , – pkt 4 otrzymuje brzmienie: „ 4) postać farmaceutyczną, moc i drogę podania oraz okres ważności produktu leczniczego, a także dane dotyczące ochrony środowiska związane ze stosowaniem oraz ze zniszczeniem produktu leczniczego, jeżeli jest to niezbędne i wynika z charakteru produktu. ” , w ust. 2: – pkt 6 otrzymuje brzmienie: „ 6) kopię wszelkich pozwoleń oraz tłumaczeń na język angielski Charakterystyki Produktu Leczniczego i ulotek jeżeli ma to zastosowanie; ” , – pkt 8 otrzymuje brzmienie: „ 8) kopię zezwolenia na wytwarzanie produktu leczniczego w państwie wytwarzania. ” , ust. 4 otrzymuje brzmienie: „
+- **10)** w art. 10: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o dopuszczenie do obrotu produktu leczniczego, z zastrzeżeniem art. 15, 19, 20, 21 i 21a, powinien zawierać w szczególności: ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** postać farmaceutyczną, moc i drogę podania oraz okres ważności produktu leczniczego, a także dane dotyczące ochrony środowiska związane ze stosowaniem oraz ze zniszczeniem produktu leczniczego, jeżeli jest to niezbędne i wynika z charakteru produktu. ” , w ust. 2: pkt 6 otrzymuje brzmienie: „
     - **b)**
+
+- **6)** kopię wszelkich pozwoleń oraz tłumaczeń na język angielski Charakterystyki Produktu Leczniczego i ulotek jeżeli ma to zastosowanie; ” , pkt 8 otrzymuje brzmienie: „
+- **8)** kopię zezwolenia na wytwarzanie produktu leczniczego w państwie wytwarzania. ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Dane i dokumenty, o których mowa w ust. 2, mogą być przedstawione w języku angielskim, z wyjątkiem dokumentów wymienionych w pkt 4 i 5, które przedstawia się w języku polskim. ” , ust. 6 otrzymuje brzmienie: „
@@ -316,7 +322,7 @@ source: "eli-html"
 - **26)** po art. 36 dodaje się art. 36a w brzmieniu: „ Minister właściwy do spraw zdrowia, a w odniesieniu do produktów leczniczych weterynaryjnych w porozumieniu z ministrem właściwym do spraw rolnictwa, określi w drodze rozporządzenia szczegółowy sposób ustalania opłat, o których mowa w art. 19c, art. 21a ust. 9 oraz art. 36, oraz sposób ich uiszczania, uwzględniając wysokość opłaty w państwach członkowskich Unii Europejskiej o zbliżonym dochodzie narodowym brutto na jednego mieszkańca oraz nakład pracy związanej z wykonaniem danej czynności i poziom kosztów ponoszonych przez Urząd Rejestracji. ” ;
 - **27)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Badania kliniczne produktów leczniczych
+#### Rozdział 2a
 
 **Art. 37a.**
 
@@ -740,7 +746,7 @@ source: "eli-html"
 - **1)** „produkt homeopatyczny” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „produkt leczniczy homeopatyczny”;
 - **2)** „przyszły produkt leczniczy” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „badany produkt leczniczy”.
 
-**Art. 3.** W ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza (Dz. U. z 2002 r. Nr 21, poz. 204, z późn. zm.) w art. 29 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Komisje bioetyczne i Odwoławcza Komisja Bioetyczna wydają także opinie dotyczące badań klinicznych, jeżeli inne ustawy tak stanowią, w zakresie określonym w tych ustawach. ” . W ustawie z dnia 6 września 2001 r. – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 126, poz. 1382, z późn. zm.) w art. 19 ust. 3 otrzymuje brzmienie: „ 3. Do przedłużenia okresu ważności pozwoleń, o których mowa w ust. 1 i 2, przepisy art. 14 stosuje się odpowiednio. ” . Z dniem 1 maja 2004 r. podmiot odpowiedzialny, który wystąpił z wnioskiem o dopuszczenie do obrotu produktu leczniczego, na podstawie dotychczasowych przepisów, może wystąpić do ministra właściwego do spraw zdrowia, za pośrednictwem Prezesa Urzędu, z wnioskiem o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego w trybie, o którym mowa w art. 19 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+**Art. 3.** W ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza (Dz. U. z 2002 r. Nr 21, poz. 204, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 76, poz. 691, Nr 152, poz. 1266 i Nr 153, poz. 1271 oraz z 2003 r. Nr 90, poz. 845.) w art. 29 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Komisje bioetyczne i Odwoławcza Komisja Bioetyczna wydają także opinie dotyczące badań klinicznych, jeżeli inne ustawy tak stanowią, w zakresie określonym w tych ustawach. ” . W ustawie z dnia 6 września 2001 r. – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 126, poz. 1382, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1801, z 2002 r. Nr 32, poz. 300 i Nr 152, poz. 1266 oraz z 2004 r. Nr 10, poz. 77.) w art. 19 ust. 3 otrzymuje brzmienie: „ 3. Do przedłużenia okresu ważności pozwoleń, o których mowa w ust. 1 i 2, przepisy art. 14 stosuje się odpowiednio. ” . Z dniem 1 maja 2004 r. podmiot odpowiedzialny, który wystąpił z wnioskiem o dopuszczenie do obrotu produktu leczniczego, na podstawie dotychczasowych przepisów, może wystąpić do ministra właściwego do spraw zdrowia, za pośrednictwem Prezesa Urzędu, z wnioskiem o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego w trybie, o którym mowa w art. 19 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 6.** Świadectwa rejestracji i świadectwa dopuszczenia do obrotu wydane przed dniem 1 października 2002 r., które stały się pozwoleniami w rozumieniu przepisów ustawy – Prawo farmaceutyczne, dotyczące środków farmaceutycznych, które nie są produktami leczniczymi w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, wygasają z dniem wejścia w życie niniejszej ustawy.
 
@@ -758,5 +764,5 @@ source: "eli-html"
 
 **Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6, art. 17 ust. 3 oraz art. 36 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych, na podstawie art. 17 ust. 3, art. 36a, art. 37w, art. 37ae ust. 7, art. 37aj, ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej niż do dnia 1 maja 2005 r.
 
-**Art. 12.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 1 pkt 29 lit. a, c, d oraz art. 6, 8 i 9, które wchodzą w życie z dniem ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 1 pkt 29 lit. a, c, d oraz art. 6, 8 i 9, które wchodzą w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774, Nr 124, poz. 1151, Nr 170, poz. 1651 i Nr 223, poz. 2216 oraz z 2004 r. Nr 64, poz. 594. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643, z 2002 r. Nr 1, poz. 2, Nr 115, poz. 995 i Nr 130, poz. 1112, z 2003 r. Nr 86, poz. 789, Nr 128, poz. 1176 i Nr 217, poz. 2125 oraz z 2004 r. Nr 54, poz. 535 i Nr 91, poz. 870. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 76, poz. 691, Nr 152, poz. 1266 i Nr 153, poz. 1271 oraz z 2003 r. Nr 90, poz. 845. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1801, z 2002 r. Nr 32, poz. 300 i Nr 152, poz. 1266 oraz z 2004 r. Nr 10, poz. 77.
 

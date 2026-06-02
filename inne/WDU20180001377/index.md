@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 11 lipca 2018 r. zmieniające rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 11 lipca 2018 r. zmieniające rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-11 |
 | Data wydania | 2018-07-18 |
-| Wejście w życie | 2018-08-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001377) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1377/text.pdf) |
 
@@ -35,6 +34,5 @@ w § 1 wyrazy „Agencję Nieruchomości Rolnych, zwaną dalej „Agencją”,�
 2)
 użyty w § 4 ust. 1, § 6 ust. 1, § 7 ust. 1, 3 i 4, § 10 ust. 1 i 2, § 12 ust. 1, 2 i 3 oraz § 13 ust. 1, 2 i 4, w różnym przypadku, wyraz „Agencja” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

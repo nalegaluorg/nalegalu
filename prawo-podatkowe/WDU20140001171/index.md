@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 lipca 2014 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy – Ordynacja podatkowa
+# Ustawa z dnia 25 lipca 2014 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy – Ordynacja podatkowa Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2008/8/WE z dnia 12 lutego 2008 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do miejsca świadczenia usług (Dz. Urz. UE L 44 z 20.02.2008, str. 11) oraz dyrektywy Rady 2013/61/UE z dnia 17 grudnia 2013 r. zmieniającej dyrektywy 2006/112/WE i 2008/118/WE w odniesieniu do francuskich regionów najbardziej oddalonych, a w szczególności Majotty (Dz. Urz. UE L 353 z 28.12.2013, str. 5).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-25 |
 | Data wydania | 2014-09-03 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001171) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1171/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) wprowadza się następujące zmiany:
+Procedura szczególna dotycząca usług telekomunikacyjnych, usług nadawczych lub usług elektronicznych świadczonych przez podmioty mające siedzibę działalności gospodarczej na terytorium Unii Europejskiej, ale nieposiadające takiej siedziby w państwie członkowskim konsumpcji, na rzecz osób niebędących podatnikami, o których mowa w art. 28a
+
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: w pkt 3 w lit. b tiret czwarte otrzymuje brzmienie: „ – francuskie terytoria, o których mowa w art. 349 i art. 355 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej – z Republiki Francuskiej, ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
     - **a)**
@@ -40,8 +41,11 @@ source: "eli-html"
     - **d)**
 
 - **26)** usługach elektronicznych – rozumie się przez to usługi świadczone za pomocą środków komunikacji elektronicznej, o których mowa w art. 7 rozporządzenia 282/2011; ” ;
-- **2)** w art. 3: w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) nieposiadających siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju – właściwym organem podatkowym jest Naczelnik Drugiego Urzędu Skarbowego Warszawa-Śródmieście, zwany dalej „naczelnikiem drugiego urzędu skarbowego”; ” , – dodaje się pkt 3 w brzmieniu: „ 3) o których mowa w art. 130a pkt 2, i podmiotów zagranicznych, o których mowa w art. 131 pkt 2, zidentyfikowanych na potrzeby procedury szczególnej rozliczania VAT, o której mowa w dziale XII w rozdziałach 6a i 7, dla których państwem członkowskim konsumpcji jest Rzeczpospolita Polska – właściwym organem podatkowym jest Naczelnik Łódzkiego Urzędu Skarbowego. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** w art. 3: w ust. 3: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** nieposiadających siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju – właściwym organem podatkowym jest Naczelnik Drugiego Urzędu Skarbowego Warszawa-Śródmieście, zwany dalej „naczelnikiem drugiego urzędu skarbowego”; ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** o których mowa w art. 130a pkt 2, i podmiotów zagranicznych, o których mowa w art. 131 pkt 2, zidentyfikowanych na potrzeby procedury szczególnej rozliczania VAT, o której mowa w dziale XII w rozdziałach 6a i 7, dla których państwem członkowskim konsumpcji jest Rzeczpospolita Polska – właściwym organem podatkowym jest Naczelnik Łódzkiego Urzędu Skarbowego. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Jeżeli nie można ustalić właściwości miejscowej w sposób określony w ust. 1–3a, właściwym organem podatkowym jest naczelnik drugiego urzędu skarbowego. ” ;
@@ -63,9 +67,11 @@ source: "eli-html"
 - **4)** podatników i podmiotów zagranicznych, zidentyfikowanych na potrzeby procedury szczególnej rozliczania VAT, o której mowa w dziale XII w rozdziałach 6a i 7, nieposiadających na terytorium kraju siedziby działalności gospodarczej oraz stałego miejsca prowadzenia działalności gospodarczej ” , po ust. 1l dodaje się ust. 1m w brzmieniu: „
     - **b)**
 
-1m. Przepisy ust. 1a-1g stosuje się odpowiednio do podatników i podmiotów zagranicznych, o których mowa w ust. 1 pkt 4, z tym że mogą się oni również ubiegać o zwrot podatku w odniesieniu do nabytych przez nich na terytorium kraju towarów i usług lub w odniesieniu do towarów, które były przedmiotem importu na terytorium kraju, jeżeli te towary i usługi były przez nich wykorzystywane do świadczenia na terytorium kraju usług telekomunikacyjnych, usług nadawczych lub usług elektronicznych na rzecz osób niebędących podatnikami, o których mowa w art. 28a. ” , w ust. 5: – pkt 1 otrzymuje brzmienie: „ 1) warunki, terminy i tryb zwrotu podatku podatnikom i podmiotom, o których mowa w ust. 1 pkt 3 i 4, oraz sposób naliczania i wypłaty odsetek od kwot podatku niezwróconych w terminie, ” , – pkt 7 otrzymuje brzmienie: „ 7) przypadki, w których podatnikom i podmiotom, o których mowa w ust. 1 pkt 3 i 4, dokonującym sprzedaży przysługuje zwrot podatku, ” ;
+1m. Przepisy ust. 1a-1g stosuje się odpowiednio do podatników i podmiotów zagranicznych, o których mowa w ust. 1 pkt 4, z tym że mogą się oni również ubiegać o zwrot podatku w odniesieniu do nabytych przez nich na terytorium kraju towarów i usług lub w odniesieniu do towarów, które były przedmiotem importu na terytorium kraju, jeżeli te towary i usługi były przez nich wykorzystywane do świadczenia na terytorium kraju usług telekomunikacyjnych, usług nadawczych lub usług elektronicznych na rzecz osób niebędących podatnikami, o których mowa w art. 28a. ” , w ust. 5: pkt 1 otrzymuje brzmienie: „
 
 - **c)**
+- **1)** warunki, terminy i tryb zwrotu podatku podatnikom i podmiotom, o których mowa w ust. 1 pkt 3 i 4, oraz sposób naliczania i wypłaty odsetek od kwot podatku niezwróconych w terminie, ” , pkt 7 otrzymuje brzmienie: „
+- **7)** przypadki, w których podatnikom i podmiotom, o których mowa w ust. 1 pkt 3 i 4, dokonującym sprzedaży przysługuje zwrot podatku, ” ;
 - **10)** w art. 99 ust. 1 otrzymuje brzmienie: „
 
 1. Podatnicy, o których mowa w art. 15, są obowiązani składać w urzędzie skarbowym deklaracje podatkowe za okresy miesięczne w terminie do 25. dnia miesiąca następującego po każdym kolejnym miesiącu, z zastrzeżeniem ust. 2–10, art. 130c i art. 133. ” ;
@@ -80,7 +86,7 @@ source: "eli-html"
 
 - **13)** w dziale XII po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Procedura szczególna dotycząca usług telekomunikacyjnych, usług nadawczych lub usług elektronicznych świadczonych przez podmioty mające siedzibę działalności gospodarczej na terytorium Unii Europejskiej, ale nieposiadające takiej siedziby w państwie członkowskim konsumpcji, na rzecz osób niebędących podatnikami, o których mowa w art. 28a
+#### Rozdział 6a
 
 **Art. 130a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
@@ -108,14 +114,14 @@ source: "eli-html"
 
 - **1)** zmianach danych objętych zgłoszeniem, z wyjątkiem tych, których aktualizacji dokonał na podstawie art. 96 ust. 12 lub ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników,
 - **2)** zmianach działalności objętej procedurą szczególną rozliczania VAT, w wyniku których przestał spełniać warunki do jej stosowania,
-- **3)** zaprzestaniu świadczenia usług telekomunikacyjnych, usług nadawczych i usług elektronicznych nie później niż 10. dnia miesiąca następującego po miesiącu, w którym wystąpiła okoliczność wymagająca zawiadomienia.
+- **3)** zaprzestaniu świadczenia usług telekomunikacyjnych, usług nadawczych i usług elektronicznych – nie później niż 10. dnia miesiąca następującego po miesiącu, w którym wystąpiła okoliczność wymagająca zawiadomienia.
 
 8. W przypadku gdy podatnik zidentyfikowany na potrzeby procedury szczególnej rozliczania VAT:
 
 - **1)** zawiadomi naczelnika drugiego urzędu skarbowego o zaprzestaniu świadczenia usług telekomunikacyjnych, usług nadawczych i usług elektronicznych lub
 - **2)** nie istnieje lub mimo udokumentowanych prób nie ma możliwości skontaktowania się z nim albo jego pełnomocnikiem, albo przez okres ośmiu kolejnych kwartałów kalendarzowych nie świadczy usług objętych procedurą szczególną rozliczania VAT, lub
 - **3)** nie spełnia warunków do korzystania z procedury szczególnej rozliczania VAT, lub
-- **4)** systematycznie nie przestrzega zasad dotyczących procedury szczególnej rozliczania VAT naczelnik drugiego urzędu skarbowego wydaje postanowienie o wygaśnięciu identyfikacji tego podatnika na potrzeby procedury szczególnej rozliczania VAT, na które służy zażalenie. Podatnik jest powiadamiany o wydaniu postanowienia również za pomocą środków komunikacji elektronicznej.
+- **4)** systematycznie nie przestrzega zasad dotyczących procedury szczególnej rozliczania VAT – naczelnik drugiego urzędu skarbowego wydaje postanowienie o wygaśnięciu identyfikacji tego podatnika na potrzeby procedury szczególnej rozliczania VAT, na które służy zażalenie. Podatnik jest powiadamiany o wydaniu postanowienia również za pomocą środków komunikacji elektronicznej.
 
 1. Podatnicy zidentyfikowani na potrzeby procedury szczególnej rozliczania VAT są obowiązani składać za pomocą środków komunikacji elektronicznej deklaracje na potrzeby rozliczenia VAT, zwane dalej „deklaracjami VAT”, do Drugiego Urzędu Skarbowego Warszawa-Śródmieście, zwanego dalej „drugim urzędem skarbowym”.
 
@@ -184,14 +190,14 @@ source: "eli-html"
 
 - **1)** zmianach danych objętych zgłoszeniem,
 - **2)** zmianach działalności objętej procedurą szczególną rozliczania VAT, w wyniku których przestał spełniać warunki do jej stosowania,
-- **3)** zaprzestaniu świadczenia usług telekomunikacyjnych, usług nadawczych i usług elektronicznych nie później niż 10. dnia miesiąca następującego po miesiącu, w którym wystąpiła okoliczność wymagająca zawiadomienia.
+- **3)** zaprzestaniu świadczenia usług telekomunikacyjnych, usług nadawczych i usług elektronicznych – nie później niż 10. dnia miesiąca następującego po miesiącu, w którym wystąpiła okoliczność wymagająca zawiadomienia.
 
 7. W przypadku gdy:
 
 - **1)** podmiot zagraniczny zidentyfikowany na potrzeby procedury szczególnej rozliczania VAT zawiadomi naczelnika drugiego urzędu skarbowego o zaprzestaniu świadczenia usług telekomunikacyjnych, usług nadawczych i usług elektronicznych lub
 - **2)** mimo udokumentowanych prób nie ma możliwości skontaktowania się z podmiotem zagranicznym zidentyfikowanym na potrzeby procedury szczególnej rozliczania VAT albo jego pełnomocnikiem, albo przez okres ośmiu kolejnych kwartałów kalendarzowych podmiot ten nie świadczy usług objętych procedurą szczególną rozliczania VAT, lub
 - **3)** podmiot zagraniczny zidentyfikowany na potrzeby procedury szczególnej rozliczania VAT nie spełnia warunków do korzystania z procedury szczególnej rozliczania VAT, lub
-- **4)** podmiot zagraniczny zidentyfikowany na potrzeby procedury szczególnej rozliczania VAT systematycznie nie przestrzega zasad dotyczących procedury szczególnej rozliczania VAT naczelnik drugiego urzędu skarbowego wydaje postanowienie o wygaśnięciu identyfikacji tego podmiotu na potrzeby procedury szczególnej rozliczania VAT, na które służy zażalenie. Podmiot zagraniczny jest powiadamiany o wydaniu postanowienia również za pomocą środków komunikacji elektronicznej. ” ;
+- **4)** podmiot zagraniczny zidentyfikowany na potrzeby procedury szczególnej rozliczania VAT systematycznie nie przestrzega zasad dotyczących procedury szczególnej rozliczania VAT – naczelnik drugiego urzędu skarbowego wydaje postanowienie o wygaśnięciu identyfikacji tego podmiotu na potrzeby procedury szczególnej rozliczania VAT, na które służy zażalenie. Podmiot zagraniczny jest powiadamiany o wydaniu postanowienia również za pomocą środków komunikacji elektronicznej. ” ;
 - **17)** w art. 133: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
@@ -228,7 +234,7 @@ source: "eli-html"
 
 3. Ewidencję, o której mowa w ust. 1, należy przechowywać przez okres 10 lat od zakończenia roku, w którym dokonano świadczenia usług telekomunikacyjnych, usług nadawczych lub usług elektronicznych. ” .
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567 i 915.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12 § 5 otrzymuje brzmienie: „
 
@@ -241,7 +247,7 @@ source: "eli-html"
 
 - **b)**
 
-§ 3. Skorygowanie deklaracji, o których mowa w art. 130c i art. 133 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.), nie wymaga dołączenia pisemnego uzasadnienia przyczyn korekty. ” ;
+§ 3. Skorygowanie deklaracji, o których mowa w art. 130c i art. 133 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35,), nie wymaga dołączenia pisemnego uzasadnienia przyczyn korekty. ” ;
 
 - **3)** w art. 86 § 1 otrzymuje brzmienie: „
 
@@ -255,12 +261,12 @@ source: "eli-html"
 
 1. Osoba prawna, jednostka organizacyjna niemająca osobowości prawnej lub osoba fizyczna, która:
 
-- **1)** posiada: siedzibę działalności gospodarczej na terytorium Rzeczypospolitej Polskiej albo stałe miejsce prowadzenia działalności gospodarczej na terytorium Rzeczypospolitej Polskiej, jeżeli nie posiada siedziby działalności gospodarczej na terytorium Unii Europejskiej, albo stałe miejsce prowadzenia działalności gospodarczej na terytorium Rzeczypospolitej Polskiej i które wybiera w celu przedłożenia zgłoszenia, jeżeli nie posiada siedziby działalności gospodarczej na terytorium Unii Europejskiej, ale posiada więcej niż jedno stałe miejsce prowadzenia działalności gospodarczej na terytorium Unii Europejskiej oraz
+- **1)** posiada: siedzibę działalności gospodarczej na terytorium Rzeczypospolitej Polskiej albo stałe miejsce prowadzenia działalności gospodarczej na terytorium Rzeczypospolitej Polskiej, jeżeli nie posiada siedziby działalności gospodarczej na terytorium Unii Europejskiej, albo stałe miejsce prowadzenia działalności gospodarczej na terytorium Rzeczypospolitej Polskiej i które wybiera w celu przedłożenia zgłoszenia, jeżeli nie posiada siedziby działalności gospodarczej na terytorium Unii Europejskiej, ale posiada więcej niż jedno stałe miejsce prowadzenia działalności gospodarczej na terytorium Unii Europejskiej – oraz
     - **a)**
     - **b)**
     - **c)**
 
-- **2)** zamierza świadczyć od dnia 1 stycznia 2015 r. na rzecz osób niebędących podatnikami, o których mowa w art. 28a ustawy wymienionej w art. 1, mających siedzibę, stałe miejsce zamieszkania lub zwykłe miejsce pobytu w innym państwie członkowskim Unii Europejskiej usługi: telekomunikacyjne – dotyczące transmisji, emisji i odbioru sygnałów, tekstów, obrazów i dźwięków lub wszelkiego rodzaju informacji drogą kablową, radiową, optyczną lub za pośrednictwem innych systemów elektromagnetycznych, w tym związane z nimi przeniesienie lub cesję praw do użytkowania środków dla zapewniania takiej transmisji, emisji i odbioru, wraz z zapewnieniem dostępu do ogólnoświatowych sieci informacyjnych, nadawcze – zawierające treści audio i audiowizualne, takie jak programy radiowe lub telewizyjne dostarczane za pośrednictwem sieci komunikacyjnych, powszechnie udostępniane przez dostawcę usług medialnych i objęte jego odpowiedzialnością redakcyjną, przeznaczone do jednoczesnego słuchania lub oglądania zgodnie z zaplanowanym programem, elektroniczne może od dnia 1 października 2014 r. do dnia 31 grudnia 2014 r. złożyć, za pomocą środków komunikacji elektronicznej, do Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście zgłoszenie informujące o zamiarze skorzystania z procedury szczególnej rozliczania podatku od wartości dodanej należnego z tytułu świadczenia tych usług.
+- **2)** zamierza świadczyć od dnia 1 stycznia 2015 r. na rzecz osób niebędących podatnikami, o których mowa w art. 28a ustawy wymienionej w art. 1, mających siedzibę, stałe miejsce zamieszkania lub zwykłe miejsce pobytu w innym państwie członkowskim Unii Europejskiej usługi: telekomunikacyjne – dotyczące transmisji, emisji i odbioru sygnałów, tekstów, obrazów i dźwięków lub wszelkiego rodzaju informacji drogą kablową, radiową, optyczną lub za pośrednictwem innych systemów elektromagnetycznych, w tym związane z nimi przeniesienie lub cesję praw do użytkowania środków dla zapewniania takiej transmisji, emisji i odbioru, wraz z zapewnieniem dostępu do ogólnoświatowych sieci informacyjnych, nadawcze – zawierające treści audio i audiowizualne, takie jak programy radiowe lub telewizyjne dostarczane za pośrednictwem sieci komunikacyjnych, powszechnie udostępniane przez dostawcę usług medialnych i objęte jego odpowiedzialnością redakcyjną, przeznaczone do jednoczesnego słuchania lub oglądania zgodnie z zaplanowanym programem, elektroniczne – może od dnia 1 października 2014 r. do dnia 31 grudnia 2014 r. złożyć, za pomocą środków komunikacji elektronicznej, do Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście zgłoszenie informujące o zamiarze skorzystania z procedury szczególnej rozliczania podatku od wartości dodanej należnego z tytułu świadczenia tych usług.
     - **a)**
     - **b)**
     - **c)**
@@ -284,7 +290,7 @@ source: "eli-html"
 1. W przypadku gdy osoba prawna, jednostka organizacyjna niemająca osobowości prawnej lub osoba fizyczna nieposiadająca siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium Unii Europejskiej, wykonująca czynności podlegające opodatkowaniu podatkiem od towarów i usług lub podatkiem od wartości dodanej na terytorium Unii Europejskiej, która nie zarejestrowała swojej działalności gospodarczej na terytorium Unii Europejskiej i wobec której nie powstaje wymóg identyfikacji na potrzeby tych podatków na terytorium państwa członkowskiego Unii Europejskiej, zamierza świadczyć od dnia 1 stycznia 2015 r. na rzecz osób niebędących podatnikami, o których mowa w art. 28a ustawy wymienionej w art. 1, mających siedzibę, stałe miejsce zamieszkania lub zwykłe miejsce pobytu w innym państwie członkowskim Unii Europejskiej usługi:
 
 - **1)** telekomunikacyjne – dotyczące transmisji, emisji i odbioru sygnałów, tekstów, obrazów i dźwięków lub wszelkiego rodzaju informacji drogą kablową, radiową, optyczną lub za pośrednictwem innych systemów elektromagnetycznych, w tym związane z nimi przeniesienie lub cesję praw do użytkowania środków dla zapewniania takiej transmisji, emisji i odbioru, wraz z zapewnieniem dostępu do ogólnoświatowych sieci informacyjnych lub
-- **2)** nadawcze – zawierające treści audio i audiowizualne, takie jak programy radiowe lub telewizyjne dostarczane za pośrednictwem sieci komunikacyjnych, powszechnie udostępniane przez dostawcę usług medialnych i objęte jego odpowiedzialnością redakcyjną, przeznaczone do jednoczesnego słuchania lub oglądania zgodnie z zaplanowanym programem może od dnia 1 października 2014 r. do dnia 31 grudnia 2014 r. złożyć, za pomocą środków komunikacji elektronicznej, do Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście zgłoszenie informujące o zamiarze skorzystania z procedury szczególnej rozliczania podatku od towarów i usług lub podatku od wartości dodanej, należnego z tytułu świadczenia tych usług.
+- **2)** nadawcze – zawierające treści audio i audiowizualne, takie jak programy radiowe lub telewizyjne dostarczane za pośrednictwem sieci komunikacyjnych, powszechnie udostępniane przez dostawcę usług medialnych i objęte jego odpowiedzialnością redakcyjną, przeznaczone do jednoczesnego słuchania lub oglądania zgodnie z zaplanowanym programem – może od dnia 1 października 2014 r. do dnia 31 grudnia 2014 r. złożyć, za pomocą środków komunikacji elektronicznej, do Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście zgłoszenie informujące o zamiarze skorzystania z procedury szczególnej rozliczania podatku od towarów i usług lub podatku od wartości dodanej, należnego z tytułu świadczenia tych usług.
 
 2. Zgłoszenie powinno zawierać w szczególności: nazwę podmiotu zagranicznego, jego adres wraz z kodem pocztowym, adres poczty elektronicznej, adres strony internetowej należącej do tego podmiotu, numer podatkowy przyznany mu w państwie siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej, jeżeli jest tam nadawany, oraz oświadczenie podmiotu zagranicznego, że nie został on zidentyfikowany na potrzeby podatku od towarów i usług lub podatku od wartości dodanej na terytorium Unii Europejskiej.
 
@@ -305,6 +311,6 @@ source: "eli-html"
 **Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 1 lit. a, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2014 r.;
-- **2)** art. 3 i art. 4, które wchodzą w życie z dniem 1 października 2014 r.
+- **2)** art. 3 i art. 4, które wchodzą w życie z dniem 1 października 2014 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2008/8/WE z dnia 12 lutego 2008 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do miejsca świadczenia usług (Dz. Urz. UE L 44 z 20.02.2008, str. 11) oraz dyrektywy Rady 2013/61/UE z dnia 17 grudnia 2013 r. zmieniającej dyrektywy 2006/112/WE i 2008/118/WE w odniesieniu do francuskich regionów najbardziej oddalonych, a w szczególności Majotty (Dz. Urz. UE L 353 z 28.12.2013, str. 5). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567 i 915. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35,
 
 

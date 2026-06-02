@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-16 |
 | Data wydania | 2012-02-23 |
-| Wejście w życie | 2012-02-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/208/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31 ust. 6 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31 ust. 6 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 42, poz. 340, Nr 98, poz. 817 i Nr 157, poz. 1241, z 2010 r. Nr 48, poz. 287, Nr 96, poz. 620, Nr 143, poz. 963, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 233, poz. 1382.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -37,7 +36,7 @@ dokumenty, jakie nabywca nieruchomości składa w celu ustalenia, czy jego sytua
 3)
 wysokość oprocentowania należności, której spłata została rozłożona na raty.
 § 2.
-Agencja Nieruchomości Rolnych może nabywcy nieruchomości z Zasobu Własności Rolnej Skarbu Państwa rozłożyć spłatę należności na roczne lub półroczne raty, na warunkach określonych w art. 31 ust. 2 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, w szczególności w przypadku nabywania nieruchomości w celu utworzenia albo powiększenia gospodarstwa rodzinnego, o którym mowa w art. 5 ust. 1 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. Nr 64, poz. 592, z późn. zm.), jeżeli nabywca spełnia łącznie następujące warunki:
+Agencja Nieruchomości Rolnych może nabywcy nieruchomości z Zasobu Własności Rolnej Skarbu Państwa rozłożyć spłatę należności na roczne lub półroczne raty, na warunkach określonych w art. 31 ust. 2 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, w szczególności w przypadku nabywania nieruchomości w celu utworzenia albo powiększenia gospodarstwa rodzinnego, o którym mowa w art. 5 ust. 1 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. Nr 64, poz. 592, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 180, poz. 1112, z 2010 r. Nr 110, poz. 725 i Nr 217, poz. 1427 oraz z 2011 r. Nr 233, poz. 1382.), jeżeli nabywca spełnia łącznie następujące warunki:
 1)
 w przypadku nieruchomości rolnej w rozumieniu Kodeksu cywilnego oraz nieruchomości przeznaczonych w miejscowym planie zagospodarowania przestrzennego na cele związane z prowadzeniem gospodarki rolnej i leśnej wraz z częściami składowymi lub przynależnościami – zobowiąże się do utrzymywania nabywanej nieruchomości zgodnie z zasadami prawidłowej gospodarki w celu wykonywania na niej działalności rolniczej;
 2)
@@ -124,5 +123,5 @@ Od należności, o której mowa w ust. 2 i 4, niezapłaconej w ustalonych w umow
 § 6.
 Do umów dotyczących rozłożenia na raty należności z tytułu sprzedaży nieruchomości z Zasobu Własności Rolnej Skarbu Państwa, zawartych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 7.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 5 lutego 2010 r. w sprawie wysokości oprocentowania odroczonej lub rozłożonej na raty należności z tytułu sprzedaży mienia z Zasobu Własności Rolnej Skarbu Państwa oraz ustalenia innych niż pieniądz mierników wartości należności pieniężnej (Dz. U. Nr 23, poz. 118), które utraciło moc z dniem wejścia w życie ustawy z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw (Dz. U. Nr 233, poz. 1382). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 42, poz. 340, Nr 98, poz. 817 i Nr 157, poz. 1241, z 2010 r. Nr 48, poz. 287, Nr 96, poz. 620, Nr 143, poz. 963, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 233, poz. 1382. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 180, poz. 1112, z 2010 r. Nr 110, poz. 725 i Nr 217, poz. 1427 oraz z 2011 r. Nr 233, poz. 1382. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 5 lutego 2010 r. w sprawie wysokości oprocentowania odroczonej lub rozłożonej na raty należności z tytułu sprzedaży mienia z Zasobu Własności Rolnej Skarbu Państwa oraz ustalenia innych niż pieniądz mierników wartości należności pieniężnej (Dz. U. Nr 23, poz. 118), które utraciło moc z dniem wejścia w życie ustawy z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw (Dz. U. Nr 233, poz. 1382).
 

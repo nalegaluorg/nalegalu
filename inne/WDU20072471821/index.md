@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-12-06 |
 | Data wydania | 2007-12-29 |
-| Wejście w życie | 2008-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072471821) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1821/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600 oraz z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238 i Nr 191, poz. 1369.) wprowadza się następujące zmiany:
 
 - **1)** w art. 30: ust. 3 otrzymuje brzmienie: „
     - **a)**
@@ -43,5 +42,5 @@ source: "eli-html"
 
 **Art. 2.** W roku 2008 kwota bazowa dla nauczycieli, o której mowa w art. 30 ust. 3 i art. 53 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, wynosi 2 074,15 zł.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2008 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2008 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600 oraz z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238 i Nr 191, poz. 1369.
 

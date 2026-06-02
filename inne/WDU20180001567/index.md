@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o Instytucie Solidarności i Męstwa oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o Instytucie Solidarności i Męstwa oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 października 1992 r. o orderach i odznaczeniach, ustawę z dnia 15 grudnia 2016 r. o ustanowieniu Krzyża Wschodniego i ustawę z dnia 7 kwietnia 2017 r. o ustanowieniu Krzyża Zachodniego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-14 |
-| Wejście w życie | 2018-08-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1567/text.pdf) |
 
@@ -108,5 +107,5 @@ source: "eli-html"
 
 **Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 14 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5 ust. 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5 ust. 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 października 1992 r. o orderach i odznaczeniach, ustawę z dnia 15 grudnia 2016 r. o ustanowieniu Krzyża Wschodniego i ustawę z dnia 7 kwietnia 2017 r. o ustanowieniu Krzyża Zachodniego.
 

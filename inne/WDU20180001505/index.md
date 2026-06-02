@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 19 lipca 2018 r. w sprawie trybu postępowania w celu ochrony informacji stanowiących tajemnicę zawodową w towarowych domach maklerskich, a także nadzoru nad przepływem i wykorzystaniem tych informacji
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 19 lipca 2018 r. w sprawie trybu postępowania w celu ochrony informacji stanowiących tajemnicę zawodową w towarowych domach maklerskich, a także nadzoru nad przepływem i wykorzystaniem tych informacji Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-19 |
 | Data wydania | 2018-08-07 |
-| Wejście w życie | 2018-11-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001505) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1505/text.pdf) |
 
@@ -56,6 +55,5 @@ uniemożliwianie osobom nieuprawnionym dostępu do informacji stanowiących taje
 2)
 zapobieganie wykorzystywaniu informacji stanowiących tajemnicę zawodową, przez osoby mające do nich dostęp, w celach innych niż wykonywanie obowiązków wynikających ze sprawowanych funkcji lub zatrudnienia.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 

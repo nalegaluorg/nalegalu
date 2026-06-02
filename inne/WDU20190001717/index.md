@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 30 sierpnia 2019 r. w sprawie egzaminów eksternistycznych
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 30 sierpnia 2019 r. w sprawie egzaminów eksternistycznych Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-30 |
 | Data wydania | 2019-09-09 |
-| Wejście w życie | 2019-09-10 |
 | Ostatnia zmiana | 2026-04-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1717/text.pdf) |
 
@@ -386,8 +385,7 @@ potwierdzenie sprawdzenia tożsamości zdających;
 3)
 czas rozpoczęcia i zakończenia egzaminu;
 4)
-w przypadku obecności obserwatora egzaminu, o którym mowa w § 20 ust. 3, jego imię i nazwisko oraz stanowisko służbowe.
-Protokół podpisują przewodniczący i członkowie zespołu nadzorującego.
+w przypadku obecności obserwatora egzaminu, o którym mowa w § 20 ust. 3, jego imię i nazwisko oraz stanowisko służbowe. Protokół podpisują przewodniczący i członkowie zespołu nadzorującego.
 3.
 Do protokołu, o którym mowa w ust. 1, dołącza się listę zdających zawierającą:
 1)
@@ -443,8 +441,7 @@ liceum ogólnokształcącego dla dorosłych – wynosi 0,50% stawki,
 2)
 wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia – wynosi 0,40% stawki,
 3)
-wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia – wynosi 0,40% stawki
-za każdy sprawdzony i oceniony arkusz egzaminacyjny i wypełnioną kartę punktowania łącznie.
+wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia – wynosi 0,40% stawki – za każdy sprawdzony i oceniony arkusz egzaminacyjny i wypełnioną kartę punktowania łącznie.
 § 37.
 Ogłoszone przed dniem wejścia w życie niniejszego rozporządzenia informatory, o których mowa w art. 9a ust. 2 pkt 3 ustawy, dotyczące:
 1)
@@ -463,8 +460,7 @@ Komunikat w sprawie szczegółowych sposobów dostosowania warunków i form prze
 1)
 obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania trzyletniego liceum ogólnokształcącego dla dorosłych do potrzeb osób niewidomych, słabowidzących, niesłyszących, słabosłyszących, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, w zimowej i jesiennej sesji egzaminacyjnej w 2020 r.,
 2)
-wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej do potrzeb osób niewidomych, słabowidzących, niesłyszących, słabosłyszących, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, w zimowej sesji egzaminacyjnej w 2020 r.
-ogłasza się w terminie do dnia 20 września 2019 r.
+wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej do potrzeb osób niewidomych, słabowidzących, niesłyszących, słabosłyszących, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, w zimowej sesji egzaminacyjnej w 2020 r. – ogłasza się w terminie do dnia 20 września 2019 r.
 § 40.
 Informacja o sposobie organizacji i przeprowadzania egzaminów eksternistycznych, o której mowa w art. 9a ust. 2 pkt 10 lit. b ustawy, ogłoszona przed dniem wejścia w życie niniejszego rozporządzenia obowiązuje w jesiennej sesji egzaminacyjnej w 2019 r. i w zimowej sesji egzaminacyjnej w 2020 r.
 § 41.
@@ -595,8 +591,7 @@ Komunikaty w sprawie:
 1)
 szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminów eksternistycznych z zakresu obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania ośmioletniej szkoły podstawowej dla dorosłych do potrzeb osób niewidomych, słabowidzących, niesłyszących, słabosłyszących, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, w jesiennej sesji egzaminacyjnej w 2019 r. oraz w zimowej i jesiennej sesji egzaminacyjnej w 2020 r.,
 2)
-szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia do potrzeb osób niewidomych, słabowidzących, niesłyszących, słabosłyszących, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, w jesiennej sesji egzaminacyjnej w 2020 r.
-ogłasza się w terminie do dnia 20 września 2019 r.
+szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia do potrzeb osób niewidomych, słabowidzących, niesłyszących, słabosłyszących, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, w jesiennej sesji egzaminacyjnej w 2020 r. – ogłasza się w terminie do dnia 20 września 2019 r.
 § 52.
 1.
 Wniosek o dopuszczenie do egzaminów eksternistycznych z zakresu obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania ośmioletniej szkoły podstawowej dla dorosłych na jesienną sesję egzaminacyjną w 2019 r. składa się w terminie do dnia 15 września 2019 r. Osoba ubiegająca się o dopuszczenie do tych egzaminów składa wraz z wnioskiem pisemną informację, w której wskazuje zajęcia edukacyjne, z zakresu których zamierza zdawać egzaminy eksternistyczne w jesiennej sesji egzaminacyjnej w 2019 r.
@@ -619,8 +614,7 @@ osób będących absolwentami ośmioletniej szkoły podstawowej składa się po 
 6.
 Wnioski o dopuszczenie do egzaminu eksternistycznego zawodowego składa się od dnia 1 lutego 2021 r.
 § 53.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 stycznia 2012 r. w sprawie egzaminów eksternistycznych (Dz. U. poz. 188 oraz z 2015 r. poz. 1149), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 368 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 stycznia 2012 r. w sprawie egzaminów eksternistycznych (Dz. U. poz. 188 oraz z 2015 r. poz. 1149), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 368 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 11 stycznia 2012 r. w sprawie egzaminów eksternistycznych (Dz. U. poz. 188 oraz z 2015 r. poz. 1149), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 368 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287).
 
 ## Załącznik nr 1 — – Wykaz zawodów, w zakresie których nie przeprowadza się egzaminu eksternistycznego zawodowego
 

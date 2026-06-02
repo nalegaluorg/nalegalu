@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-18 |
 | Data wydania | 2004-01-29 |
-| Wejście w życie | 2004-01-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040120102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/102/text.pdf) |
 
@@ -110,7 +109,7 @@ source: "eli-html"
 2. Pracownikowi, który nie spełnia warunków określonych w ust. 1 oraz oświadczy, że rezygnuje z kontraktu szkoleniowego i po rozwiązaniu stosunku pracy:
 
 - **1)** podejmie zatrudnienie u pracodawcy spoza hutnictwa niekorzystającego z dofinansowania, o którym mowa w art. 17d ust. 1, albo
-- **2)** rozpocznie działalność gospodarczą przysługuje odprawa warunkowa wypłacana przez hutę albo spółkę zależną w kwocie stanowiącej równowartość sześciomiesięcznego wynagrodzenia, obliczanego jak wynagrodzenie za urlop wypoczynkowy, pomniejszonej o kwotę odpowiadającą wysokości składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne, finansowanych ze środków ubezpieczonego.
+- **2)** rozpocznie działalność gospodarczą – przysługuje odprawa warunkowa wypłacana przez hutę albo spółkę zależną w kwocie stanowiącej równowartość sześciomiesięcznego wynagrodzenia, obliczanego jak wynagrodzenie za urlop wypoczynkowy, pomniejszonej o kwotę odpowiadającą wysokości składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne, finansowanych ze środków ubezpieczonego.
 
 3. Źródłem finansowania odprawy warunkowej, o której mowa w ust. 1, są środki:
 
@@ -152,7 +151,7 @@ source: "eli-html"
 1. Pracodawca spoza hutnictwa, który w ramach utworzenia nowego miejsca pracy zatrudni pracownika, który nie korzystał z uprawnień wymienionych w art. 15 ust. 1, z którym huta albo spółka zależna rozwiązała stosunek pracy z powodu likwidacji stanowiska pracy, na wniosek pracownika, na czas nieokreślony w pełnym wymiarze czasu pracy przez okres co najmniej:
 
 - **1)** 24 miesięcy albo
-- **2)** 36 miesięcy, w przypadku pracownika, któremu brakuje nie więcej niż trzy lata do uzyskania uprawnień do emerytury otrzyma ze środków budżetu państwa dofinansowanie wynagrodzenia zatrudnionego pracownika, z zastrzeżeniem art. 14 ust. 2.
+- **2)** 36 miesięcy, w przypadku pracownika, któremu brakuje nie więcej niż trzy lata do uzyskania uprawnień do emerytury – otrzyma ze środków budżetu państwa dofinansowanie wynagrodzenia zatrudnionego pracownika, z zastrzeżeniem art. 14 ust. 2.
 
 2. Dofinansowanie dla pracodawcy spoza hutnictwa, zatrudniającego pracownika na okres, o którym mowa w ust. 1 pkt 1, przysługuje w kwocie stanowiącej 50% wynagrodzenia tego pracownika obliczanego jak wynagrodzenie za urlop wypoczynkowy, jednakże w wysokości nie wyższej niż 900 zł miesięcznie, przez okres 12 miesięcy od dnia jego zatrudnienia, pod warunkiem, że zatrudnienie nastąpi przed dniem 31 grudnia 2005 r.
 

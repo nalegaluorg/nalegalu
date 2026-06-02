@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-04-29 |
 | Data wydania | 2010-06-16 |
-| Wejście w życie | 2010-07-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101060671) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/671/text.pdf) |
 
@@ -55,11 +54,11 @@ source: "eli-html"
 
 1. W sprawach o wpis do Krajowego Rejestru Sądowego spółek kapitałowych zawiązanych przed dniem 1 września 1939 r., zakończonych przed dniem wejścia w życie niniejszej ustawy, prokurator może żądać wznowienia postępowania także, jeżeli zachodzą okoliczności uzasadniające stwierdzenie nieważności uchwały wspólników albo uchwały walnego zgromadzenia, stanowiącej podstawę wpisu spółki do Krajowego Rejestru Sądowego. Przepisu art. 55 Kodeksu postępowania cywilnego nie stosuje się.
 
-2. W przypadku wznowienia postępowania w sprawach o wpis do Krajowego Rejestru Sądowego podmiotów uprzednio wpisanych do dotychczasowych rejestrów, sąd rejestrowy, poza zakresem określonym w art. 23 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2007 r. Nr 168, poz. 1186, z późn. zm.) bada okoliczności, określone w art. 9b ust. 1 ustawy, o której mowa w art. 1.
+2. W przypadku wznowienia postępowania w sprawach o wpis do Krajowego Rejestru Sądowego podmiotów uprzednio wpisanych do dotychczasowych rejestrów, sąd rejestrowy, poza zakresem określonym w art. 23 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2007 r. Nr 168, poz. 1186, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 53, poz. 434 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 146 i Nr 96, poz. 620.) bada okoliczności, określone w art. 9b ust. 1 ustawy, o której mowa w art. 1.
 
 3. Nie wznawia się postępowania, o którym mowa w ust. 1, jeżeli od dnia wpisu do Krajowego Rejestru Sądowego upłynęło 5 lat, jednakże w każdym przypadku termin ten nie może się skończyć wcześniej niż przed upływem 3 lat od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 3.** Przepis art. 9b ustawy, o której mowa w art. 1, stosuje się do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 53, poz. 434 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 146 i Nr 96, poz. 620.
 

@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062071530) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1530/text.pdf) |
 
 Treść obwieszczenia
-Na podstawie art. 184 ust. 1 ustawy z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.) i art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361 i Nr 127, poz. 1087) Państwowa Komisja Wyborcza podaje do publicznej wiadomości zbiorcze wyniki wyborów do rad na obszarze kraju, przeprowadzonych w dniu 12 listopada 2006 r.
+Na podstawie art. 184 ust. 1 ustawy z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760, z 2005 r. Nr 175, poz. 1457 oraz z 2006 r. Nr 17, poz. 128, Nr 34, poz. 242, Nr 146, poz. 1055 i Nr 159, poz. 1127.) i art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361 i Nr 127, poz. 1087) Państwowa Komisja Wyborcza podaje do publicznej wiadomości zbiorcze wyniki wyborów do rad na obszarze kraju, przeprowadzonych w dniu 12 listopada 2006 r.
 I.
 Dane ogólne dotyczące wyborów do rad
 1.
@@ -252,5 +252,5 @@ Głosów nieważnych oddano 1 759 530, to jest 12,70% ogólnej liczby głosów o
 9.
 Głosowanie przeprowadzono w 26 178 obwodach głosowania.
 10.
-We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych.
+We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760, z 2005 r. Nr 175, poz. 1457 oraz z 2006 r. Nr 17, poz. 128, Nr 34, poz. 242, Nr 146, poz. 1055 i Nr 159, poz. 1127.
 

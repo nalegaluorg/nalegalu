@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 3 lipca 2019 r. w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego
+# Rozporządzenie Ministra Zdrowiaz dnia 3 lipca 2019 r. w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-03 |
 | Data wydania | 2019-07-15 |
-| Wejście w życie | 2019-07-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001310) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1310/text.pdf) |
 
@@ -115,8 +114,7 @@ SWD PRM działa w oparciu o:
 1)
 POK,
 2)
-ZOK
-w których są gromadzone dane oraz ich kopie bezpieczeństwa.
+ZOK – w których są gromadzone dane oraz ich kopie bezpieczeństwa.
 § 5.
 1.
 Utrzymanie SWD PRM jest realizowane na poziomie centralnym i wojewódzkim.
@@ -355,6 +353,5 @@ Przepisu § 10 ust. 3 nie stosuje się w odniesieniu do lotniczych zespołów ra
 § 12.
 Przepis § 10 ust. 1 pkt 1 w zakresie wyposażenia stanowiska pracy wojewódzkiego koordynatora ratownictwa medycznego stosuje się od dnia 1 stycznia 2021 r.
 § 13.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 31 grudnia 2014 r. w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego (Dz. U. poz. 1994), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 22 pkt 3 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, 1942 i 2130).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 31 grudnia 2014 r. w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego (Dz. U. poz. 1994), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 22 pkt 3 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, 1942 i 2130). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 31 grudnia 2014 r. w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego (Dz. U. poz. 1994), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 22 pkt 3 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, 1942 i 2130).
 

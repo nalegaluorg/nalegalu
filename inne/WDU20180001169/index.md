@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-01 |
 | Data wydania | 2018-06-18 |
-| Wejście w życie | 2018-07-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1169/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 13 ust. 2 ustawy z dnia 11 kwietnia 2001 r. o rzecznikach pate
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 28 kwietnia 2017 r. w sprawie opłat za czynności rzeczników patentowych (Dz. U. poz. 881) wprowadza się następujące zmiany:
 1)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 Stawka minimalna wynosi przy wartości przedmiotu sprawy:
 1)
@@ -52,11 +50,9 @@ powyżej 200 000 zł do 2 000 000 zł – 10 800 zł;
 8)
 powyżej 2 000 000 zł do 5 000 000 zł – 15 000 zł;
 9)
-powyżej 5 000 000 zł – 25 000 zł.
-” ;
+powyżej 5 000 000 zł – 25 000 zł. ” ;
 2)
-w § 5 ust. 1 otrzymuje brzmienie:
-„
+w § 5 ust. 1 otrzymuje brzmienie: „
 1.
 Stawka minimalna wynosi w sprawach o:
 1)
@@ -70,11 +66,9 @@ stwierdzenie prawa korzystania z wynalazku, wzoru użytkowego lub wzoru przemys�
 5)
 przeniesienie patentu, prawa ochronnego lub prawa z rejestracji – 1680 zł;
 6)
-stwierdzenie nieważności unijnego znaku towarowego lub wzoru wspólnotowego oraz stwierdzenie wygaśnięcia prawa do unijnego znaku towarowego – 1680 zł.
-” ;
+stwierdzenie nieważności unijnego znaku towarowego lub wzoru wspólnotowego oraz stwierdzenie wygaśnięcia prawa do unijnego znaku towarowego – 1680 zł. ” ;
 3)
-§ 11 otrzymuje brzmienie:
-„
+§ 11 otrzymuje brzmienie: „
 § 11.
 1.
 Stawka minimalna w postępowaniu w pierwszej instancji za sporządzenie skargi i udział w rozprawie w sprawie skargi na decyzję lub postanowienie Urzędu Patentowego wynosi 1200 zł.
@@ -87,17 +81,14 @@ za sporządzenie i wniesienie skargi kasacyjnej albo sporządzenie opinii o brak
 3)
 za udział w rozprawie przed Naczelnym Sądem Administracyjnym – 50% stawki minimalnej określonej w ust. 1, a jeżeli sprawy nie prowadził w drugiej instancji ten sam rzecznik patentowy, nie sporządził i nie wniósł skargi kasacyjnej – 75% tej stawki, w obu przypadkach nie mniej niż 240 zł;
 4)
-w postępowaniu zażaleniowym – 240 zł.
-” ;
+w postępowaniu zażaleniowym – 240 zł. ” ;
 4)
-po § 11 dodaje się § 11a w brzmieniu:
-„
+po § 11 dodaje się § 11a w brzmieniu: „
 § 11a.
-W przypadku, o którym mowa w art. 13a ustawy z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, stawka minimalna w postępowaniu w pierwszej instancji za sporządzenie skargi i udział w rozprawie w sprawie skargi na decyzję lub postanowienie Urzędu Patentowego wynosi 600 zł. Do ustalenia stawek minimalnych w postępowaniu w drugiej instancji stosuje się § 11 ust. 2 pkt 1–3, z uwzględnieniem stawki określonej w zdaniu pierwszym. Stawka w postępowaniu zażaleniowym wynosi 120 zł.
-” ;
+W przypadku, o którym mowa w art. 13a ustawy z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, stawka minimalna w postępowaniu w pierwszej instancji za sporządzenie skargi i udział w rozprawie w sprawie skargi na decyzję lub postanowienie Urzędu Patentowego wynosi 600 zł. Do ustalenia stawek minimalnych w postępowaniu w drugiej instancji stosuje się § 11 ust. 2 pkt 1–3, z uwzględnieniem stawki określonej w zdaniu pierwszym. Stawka w postępowaniu zażaleniowym wynosi 120 zł. ” ;
 5)
-po rozdziale 5 dodaje się rozdział 5a w brzmieniu:
-„
+po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
+Stawki minimalne w postępowaniu egzekucyjnym
 § 11b.
 1.
 Stawka minimalna za prowadzenie sprawy z zakresu postępowania egzekucyjnego przy egzekucji z nieruchomości wynosi 50% stawki obliczonej na podstawie § 4 albo § 5 w zależności od przedmiotu i charakteru sprawy, a przy egzekucji innego rodzaju – 25% tej stawki.
@@ -106,12 +97,11 @@ Stawka minimalna w sprawie zaopatrzenia tytułu wykonawczego w klauzulę wykonal
 3.
 Stawka minimalna w sprawie o uznanie orzeczenia sądu zagranicznego wynosi 480 zł.
 4.
-Stawka minimalna w sprawie skargi na czynności komornika wynosi 80 zł.
-” .
+Stawka minimalna w sprawie skargi na czynności komornika wynosi 80 zł. ” .
 § 2.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe do czasu zakończenia postępowania w danej instancji.
 § 3.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-#### Rozdział 5a Stawki minimalne w postępowaniu egzekucyjnym
+#### Rozdział 5a
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 10 marca 2021 r. zmieniające rozporządzenie w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 10 marca 2021 r. zmieniające rozporządzenie w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-10 |
 | Data wydania | 2021-03-15 |
-| Wejście w życie | 2021-03-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/466/text.pdf) |
 
@@ -45,6 +44,5 @@ w wierszu dziewiętnastym wyrazy „ŚREDNIA (lp. 12 i 13)” zastępuje się wy
 § 2.
 Do rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich w 2020 r. przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem stosuje się od dnia 5 września 2020 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

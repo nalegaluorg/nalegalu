@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 16 lipca 2019 r. w sprawie przyznawania świadczeń w związku z przeniesieniem funkcjonariusza Służby Celno-Skarbowej do innej miejscowości
+# Rozporządzenie Ministra Finansówz dnia 16 lipca 2019 r. w sprawie przyznawania świadczeń w związku z przeniesieniem funkcjonariusza Służby Celno-Skarbowej do innej miejscowości Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-16 |
 | Data wydania | 2019-07-31 |
-| Wejście w życie | 2019-08-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1425/text.pdf) |
 
@@ -47,8 +46,7 @@ małżonka,
 2)
 dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie, pozostające na utrzymaniu funkcjonariusza, jeżeli nie ukończyły 25. roku życia, a także bez względu na wiek, jeżeli są to dzieci, które zgodnie z odrębnymi przepisami otrzymują zasiłek (dodatek) pielęgnacyjny lub rentę socjalną,
 3)
-rodziców funkcjonariusza i rodziców małżonka funkcjonariusza będących na jego wyłącznym utrzymaniu lub jeżeli ze względu na wiek, niepełnosprawność lub inne okoliczności są niezdolni do samodzielnego utrzymania; za rodziców uważa się również ojczyma i macochę oraz osoby przysposabiające
-których uwzględnia się przy ustalaniu świadczeń związanych z tym przeniesieniem.
+rodziców funkcjonariusza i rodziców małżonka funkcjonariusza będących na jego wyłącznym utrzymaniu lub jeżeli ze względu na wiek, niepełnosprawność lub inne okoliczności są niezdolni do samodzielnego utrzymania; za rodziców uważa się również ojczyma i macochę oraz osoby przysposabiające – których uwzględnia się przy ustalaniu świadczeń związanych z tym przeniesieniem.
 § 3.
 1.
 Funkcjonariuszowi przeniesionemu na stałe do pełnienia służby w innej miejscowości przyznaje się lokal mieszkalny.
@@ -213,8 +211,7 @@ Oświadczenie mieszkaniowe złożone zgodnie z przepisami dotychczasowymi uznaje
 2.
 Umowę zawartą między funkcjonariuszem a kierownikiem jednostki określającą zasady korzystania odpowiednio z przyznanego lokalu mieszkalnego albo tymczasowej kwatery, zawartą zgodnie z przepisami dotychczasowymi, uznaje się za zawartą zgodnie z rozporządzeniem.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Zakres spraw regulowany niniejszym rozporządzeniem był poprzednio uregulowany rozporządzeniem Ministra Finansów z dnia 23 lutego 2018 r. w sprawie przyznawania świadczeń w związku z przeniesieniem funkcjonariusza Służby Celno-Skarbowej do innej miejscowości (Dz. U. poz. 440), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Zakres spraw regulowany niniejszym rozporządzeniem był poprzednio uregulowany rozporządzeniem Ministra Finansów z dnia 23 lutego 2018 r. w sprawie przyznawania świadczeń w związku z przeniesieniem funkcjonariusza Służby Celno-Skarbowej do innej miejscowości (Dz. U. poz. 440), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Zakres spraw regulowany niniejszym rozporządzeniem był poprzednio uregulowany rozporządzeniem Ministra Finansów z dnia 23 lutego 2018 r. w sprawie przyznawania świadczeń w związku z przeniesieniem funkcjonariusza Służby Celno-Skarbowej do innej miejscowości (Dz. U. poz. 440), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 Załącznik – Oświadczenie mieszkaniowe (wzór)
 Oświadczenie mieszkaniowe ... (imię i nazwisko) ... (stopień służbowy) ... (obecne miejsce pełnienia służby – komórka organizacyjna urzędu obsługującego ministra właściwego do spraw finansów publicznych / izba administracji skarbowej / urząd skarbowy / urząd celno-skarbowy / oddział celny) ... (data przeniesienia do obecnego miejsca pełnienia służby) ... (poprzednie miejsce pełnienia służby – komórka organizacyjna urzędu obsługującego ministra właściwego do spraw finansów publicznych / izba administracji skarbowej / urząd skarbowy / urząd celno-skarbowy / oddział celny) ... (numer telefonu służbowego) Oświadczam, że:
 1.
@@ -244,6 +241,5 @@ Nie zrzekłem(-łam) się / Zrzekłem(-łam) się1) i nie utraciłem(-łam) / ut
 10.
 Nie odmówiłem(-łam) / Odmówiłem(-łam)1) przyjęcia lokalu mieszkalnego, który odpowiadał przysługującym mi normom, albo kwatery tymczasowej, jeżeli lokal mieszkalny albo tymczasowa kwatera znajdowały się w należytym stanie technicznym i sanitarnym.
 11.
-Prawdziwość powyższych danych potwierdzam własnoręcznym podpisem. Jednocześnie zobowiązuję się poinformować kierownika jednostki organizacyjnej, do której zostałem przeniesiony, o każdej zmianie mającej wpływ na uprawnienie do równoważnika pieniężnego. ... (data i podpis funkcjonariusza)
-Objaśnienia: 1) Niepotrzebne skreślić. 2) Właściwe podkreślić. 3) Dzieci (własne lub małżonka, przysposobione lub przyjęte na wychowanie) pozostające na utrzymaniu funkcjonariusza, jeżeli nie ukończyły 25 lat życia, a także bez względu na wiek, jeżeli są to dzieci, które zgodnie z odrębnymi przepisami otrzymują zasiłek (dodatek) pielęgnacyjny lub rentę socjalną. 4) Rodzice funkcjonariusza i jego małżonka – rodziców funkcjonariusza i jego małżonka, będących na jego wyłącznym utrzymaniu lub jeżeli ze względu na wiek, niepełnosprawność lub inne okoliczności są niezdolni do samodzielnego utrzymania; za rodziców uważa się również ojczyma i macochę oraz osoby przysposabiające.
+Prawdziwość powyższych danych potwierdzam własnoręcznym podpisem. Jednocześnie zobowiązuję się poinformować kierownika jednostki organizacyjnej, do której zostałem przeniesiony, o każdej zmianie mającej wpływ na uprawnienie do równoważnika pieniężnego. ... (data i podpis funkcjonariusza) Objaśnienia: 1) Niepotrzebne skreślić. 2) Właściwe podkreślić. 3) Dzieci (własne lub małżonka, przysposobione lub przyjęte na wychowanie) pozostające na utrzymaniu funkcjonariusza, jeżeli nie ukończyły 25 lat życia, a także bez względu na wiek, jeżeli są to dzieci, które zgodnie z odrębnymi przepisami otrzymują zasiłek (dodatek) pielęgnacyjny lub rentę socjalną. 4) Rodzice funkcjonariusza i jego małżonka – rodziców funkcjonariusza i jego małżonka, będących na jego wyłącznym utrzymaniu lub jeżeli ze względu na wiek, niepełnosprawność lub inne okoliczności są niezdolni do samodzielnego utrzymania; za rodziców uważa się również ojczyma i macochę oraz osoby przysposabiające.
 

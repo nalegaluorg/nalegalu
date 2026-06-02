@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-30 |
 | Data wydania | 2014-05-20 |
-| Wejście w życie | 2014-05-21 |
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000641) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/641/text.pdf) |
 
@@ -57,51 +56,37 @@ k)
 l)
 „135. MAS 29YG”;
 2)
-po poz. 45 dodaje się poz. 45a w brzmieniu:
-„
+po poz. 45 dodaje się poz. 45a w brzmieniu: „
 45a.
-DKC4796YG
-” ;
+DKC4796YG ” ;
 3)
-po poz. 72 dodaje się poz. 72a i 72b w brzmieniu:
-„
+po poz. 72 dodaje się poz. 72a i 72b w brzmieniu: „
 72a.
 EG6104KDDZ
 72b.
-EL6515KDDZ
-” ;
+EL6515KDDZ ” ;
 4)
-po poz. 121 dodaje się poz. 121a i 121b w brzmieniu:
-„
+po poz. 121 dodaje się poz. 121a i 121b w brzmieniu: „
 121a.
 LG30395YG
 121b.
-LG30490YG
-” ;
+LG30490YG ” ;
 5)
-po poz. 141 dodaje się poz. 141a w brzmieniu:
-„
+po poz. 141 dodaje się poz. 141a w brzmieniu: „
 141a.
-MAS 62YG
-” ;
+MAS 62YG ” ;
 6)
-po poz. 148 dodaje się poz. 148a w brzmieniu:
-„
+po poz. 148 dodaje się poz. 148a w brzmieniu: „
 148a.
-P0837Y
-” ;
+P0837Y ” ;
 7)
-po poz. 171 dodaje się poz. 171a w brzmieniu:
-„
+po poz. 171 dodaje się poz. 171a w brzmieniu: „
 171a.
-PR34A27
-” ;
+PR34A27 ” ;
 8)
-dodaje się poz. 236 w brzmieniu:
-„
+dodaje się poz. 236 w brzmieniu: „
 236.
-54YG
-” .
+54YG ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

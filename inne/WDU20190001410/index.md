@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 28 czerwca 2019 r. w sprawie udzielania wyróżnień funkcjonariuszom Służby Celno-Skarbowej
+# Rozporządzenie Ministra Finansówz dnia 28 czerwca 2019 r. w sprawie udzielania wyróżnień funkcjonariuszom Służby Celno-Skarbowej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-28 |
 | Data wydania | 2019-07-30 |
-| Wejście w życie | 2019-08-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001410) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1410/text.pdf) |
 
@@ -46,8 +45,7 @@ Wyróżnienia w formie:
 1)
 przyznania odznaki honorowej „Zasłużony dla Krajowej Administracji Skarbowej”,
 2)
-mianowania na wyższy stopień służbowy
-udziela się w trybie określonym w przepisach wydanych odpowiednio na podstawie art. 6 ust. 7 oraz art. 197 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+mianowania na wyższy stopień służbowy – udziela się w trybie określonym w przepisach wydanych odpowiednio na podstawie art. 6 ust. 7 oraz art. 197 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 § 2.
 Wyróżnienia w formie dyplomu można udzielić funkcjonariuszowi pod warunkiem dokonania czynu świadczącego o wyjątkowym zaangażowaniu lub podjęcia działania kształtującego pozytywny wizerunek Krajowej Administracji Skarbowej.
 § 3.
@@ -90,8 +88,7 @@ osiągnięć w popularyzacji i wdrażaniu do praktyki nowych rozwiązań ekonomi
 3)
 działalności naukowej i dydaktycznej związanej z Krajową Administracją Skarbową,
 4)
-osiągnięć w dziedzinie rozwijania współpracy celno-skarbowej z właściwymi organami innych państw oraz organizacjami międzynarodowymi i instytucjami międzynarodowymi
-pod warunkiem że funkcjonariusz przyczynił się do osiągnięć Krajowej Administracji Skarbowej.
+osiągnięć w dziedzinie rozwijania współpracy celno-skarbowej z właściwymi organami innych państw oraz organizacjami międzynarodowymi i instytucjami międzynarodowymi – pod warunkiem że funkcjonariusz przyczynił się do osiągnięć Krajowej Administracji Skarbowej.
 § 8.
 1.
 Wyróżnień udziela kierownik jednostki organizacyjnej.
@@ -134,6 +131,5 @@ W przypadku funkcjonariusza wykonującego czynności operacyjno-rozpoznawcze prz
 § 15.
 W sprawach o udzielenie wyróżnienia wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 lutego 2018 r. w sprawie udzielania wyróżnień funkcjonariuszom Służby Celno-Skarbowej (Dz. U. poz. 429), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 lutego 2018 r. w sprawie udzielania wyróżnień funkcjonariuszom Służby Celno-Skarbowej (Dz. U. poz. 429), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 lutego 2018 r. w sprawie udzielania wyróżnień funkcjonariuszom Służby Celno-Skarbowej (Dz. U. poz. 429), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 

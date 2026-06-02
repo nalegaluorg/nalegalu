@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-14 |
 | Data wydania | 2024-05-21 |
-| Wejście w życie | 2024-06-05 |
 | Ostatnia zmiana | 2026-02-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000762) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/762/text.pdf) |
 
@@ -33,31 +32,23 @@ W rozporządzeniu Ministra Sprawiedliwości z dnia 22 października 2015 r. w sp
 1)
 w § 4 w ust. 1 w pkt 5 wyrazy „ustalenie bezskuteczności uznania dziecka” zastępuje się wyrazami „ustalenie bezskuteczności uznania ojcostwa”;
 2)
-w § 10 w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+w § 10 w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-przed sądem rejonowym lub przed sądem okręgowym – 25 % stawki minimalnej, a jeżeli w pierwszej instancji nie prowadził sprawy ten sam radca prawny – 50 % stawki minimalnej, w obu przypadkach nie mniej niż 120 zł;
-” ;
+przed sądem rejonowym lub przed sądem okręgowym – 25 % stawki minimalnej, a jeżeli w pierwszej instancji nie prowadził sprawy ten sam radca prawny – 50 % stawki minimalnej, w obu przypadkach nie mniej niż 120 zł; ” ;
 3)
 w § 11:
 a)
-w ust. 4 pkt 2 otrzymuje brzmienie:
-„
+w ust. 4 pkt 2 otrzymuje brzmienie: „
 2)
-za sporządzenie opinii o braku podstaw do złożenia wniosku o wznowienie postępowania oraz za sporządzenie opinii o braku podstaw do wniesienia kasacji – 720 zł;
-” ,
+za sporządzenie opinii o braku podstaw do złożenia wniosku o wznowienie postępowania oraz za sporządzenie opinii o braku podstaw do wniesienia kasacji – 720 zł; ” ,
 b)
-ust. 7 otrzymuje brzmienie:
-„
+ust. 7 otrzymuje brzmienie: „
 7.
-Przepisy ust. 1–5 stosuje się odpowiednio do opłat za czynności w postępowaniu karnym i odpowiednio w postępowaniu w sprawach o wykroczenia pełnomocnika pokrzywdzonego, pełnomocnika oskarżyciela posiłkowego lub oskarżyciela prywatnego.
-” ;
+Przepisy ust. 1–5 stosuje się odpowiednio do opłat za czynności w postępowaniu karnym i odpowiednio w postępowaniu w sprawach o wykroczenia pełnomocnika pokrzywdzonego, pełnomocnika oskarżyciela posiłkowego lub oskarżyciela prywatnego. ” ;
 4)
-w § 12 ust. 3 otrzymuje brzmienie:
-„
+w § 12 ust. 3 otrzymuje brzmienie: „
 3.
-Przepis ust. 1 stosuje się odpowiednio do opłat za dokonanie określonej czynności procesowej w toku postępowania sądowego przez pełnomocnika oskarżyciela posiłkowego lub oskarżyciela prywatnego.
-” ;
+Przepis ust. 1 stosuje się odpowiednio do opłat za dokonanie określonej czynności procesowej w toku postępowania sądowego przez pełnomocnika oskarżyciela posiłkowego lub oskarżyciela prywatnego. ” ;
 5)
 w § 15:
 a)

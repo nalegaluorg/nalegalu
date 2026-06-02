@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy o bezpieczeństwie morskim oraz ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
+# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy o bezpieczeństwie morskim oraz ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 23 lutego 2022 r. pod numerem 2022/106/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 2015/1535 z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-07 |
 | Data wydania | 2022-07-29 |
-| Wejście w życie | 2022-08-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001604) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1604/text.pdf) |
 
@@ -74,7 +73,7 @@ source: "eli-html"
 7. Minister właściwy do spraw gospodarki morskiej cofa, w drodze decyzji, upoważnienie, o którym mowa w ust. 3, oraz wykreśla uznaną organizację z wykazu, o którym mowa w ust. 5, w przypadku utraty przez nią uznania Komisji Europejskiej albo w przypadku, gdy:
 
 - **1)** działanie tej organizacji stwarza zagrożenie dla bezpieczeństwa życia, zdrowia ludzkiego, środowiska morskiego lub bezpieczeństwa żeglugi lub
-- **2)** organizacja ta działa z naruszeniem zasad niezależności, bezstronności, profesjonalizmu lub staranności zawodowej biorąc pod uwagę stwierdzone nieprawidłowości podczas budowy, eksploatacji lub likwidacji morskiej farmy wiatrowej lub zespołu urządzeń w zakresie objętym certyfikatem wydanym przez tę organizację.
+- **2)** organizacja ta działa z naruszeniem zasad niezależności, bezstronności, profesjonalizmu lub staranności zawodowej – biorąc pod uwagę stwierdzone nieprawidłowości podczas budowy, eksploatacji lub likwidacji morskiej farmy wiatrowej lub zespołu urządzeń w zakresie objętym certyfikatem wydanym przez tę organizację.
 
 8. Minister właściwy do spraw gospodarki morskiej aktualizuje, w drodze obwieszczenia, wykaz, o którym mowa w ust. 5, nie później niż w terminie 21 dni od dnia, w którym decyzja, o której mowa w ust. 3 lub 7, stała się ostateczna.
 
@@ -117,5 +116,5 @@ source: "eli-html"
 
 3. W przypadku nieuzupełnienia wniosku w terminie, o którym mowa w ust. 2, postępowania, o których mowa w ust. 1, umarza się.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 23 lutego 2022 r. pod numerem 2022/106/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 2015/1535 z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

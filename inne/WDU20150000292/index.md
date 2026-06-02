@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-23 |
 | Data wydania | 2015-03-03 |
-| Wejście w życie | 2015-03-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000292) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/292/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 47 § 9 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 47 § 9 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe wymagania oraz obowiązki konsula w zakresie ochrony lokalu wyborczego w czasie przerwy w głosowaniu oraz zasady udzielania pomocy przy ochronie tych lokali.
 § 2.
@@ -51,5 +50,5 @@ O każdej przerwie w głosowaniu przewodniczący obwodowej komisji wyborczej bą
 4.
 Konsul zawiadamia organ państwa przyjmującego właściwy w zakresie utrzymania bezpieczeństwa i porządku publicznego o przerwie w głosowaniu zarządzonej przez daną obwodową komisję wyborczą i zwraca się z prośbą o udzielenie pomocy przy ochronie lokalu wyborczego w czasie tej przerwy.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.
 

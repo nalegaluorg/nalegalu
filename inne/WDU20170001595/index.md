@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 czerwca 2017 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz niektórych innych ustaw
+# Ustawa z dnia 22 czerwca 2017 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-22 |
 | Data wydania | 2017-08-25 |
-| Wejście w życie | 2017-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001595) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1595/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.) wprowadza się następujące zmiany:
+Administracyjne kary pieniężne
+
+**Art. 1.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505, z 2016 r. poz. 1330, 1887 i 1948 oraz z 2017 r. poz. 60 i 1086.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „
 
@@ -110,7 +111,7 @@ source: "eli-html"
 4. Środki Narodowego Funduszu Ochrony Zabytków są przeznaczane na dofinansowanie:
 
 - **1)** nakładów koniecznych na wykonanie prac konserwatorskich lub restauratorskich przy zabytku wpisanym na Listę Skarbów Dziedzictwa,
-- **2)** nakładów koniecznych na wykonanie prac konserwatorskich, restauratorskich lub robót budowlanych przy zabytku wpisanym do rejestru na zasadach określonych w niniejszym rozdziale.
+- **2)** nakładów koniecznych na wykonanie prac konserwatorskich, restauratorskich lub robót budowlanych przy zabytku wpisanym do rejestru – na zasadach określonych w niniejszym rozdziale.
 
 5. Koszty obsługi Narodowego Funduszu Ochrony Zabytków są pokrywane ze środków tego Funduszu. ” ;
 
@@ -183,7 +184,7 @@ source: "eli-html"
 - **20)** w art. 101 uchyla się ust. 3;
 - **21)** po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „
 
-#### Rozdział 10a Administracyjne kary pieniężne
+#### Rozdział 10a
 
 **Art. 107a.**
 
@@ -238,9 +239,9 @@ source: "eli-html"
 - **24)** uchyla się art. 111, art. 113–114, art. 117 i art. 119;
 - **25)** w art. 120 wyrazy „art. 110–119” zastępuje się wyrazami „art. 110–118”.
 
-**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm.) w art. 13 dodaje się ust. 5 w brzmieniu: „ 5. Sprzedaż, zamiana, darowizna lub dzierżawa nieruchomości stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego, będących cmentarzami ujętymi w wojewódzkiej ewidencji zabytków, a także wnoszenie tych nieruchomości jako wkładów niepieniężnych (aportów) do spółek wymagają pozwolenia wojewódzkiego konserwatora zabytków. ” .
+**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529 i 1566.) w art. 13 dodaje się ust. 5 w brzmieniu: „ 5. Sprzedaż, zamiana, darowizna lub dzierżawa nieruchomości stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego, będących cmentarzami ujętymi w wojewódzkiej ewidencji zabytków, a także wnoszenie tych nieruchomości jako wkładów niepieniężnych (aportów) do spółek wymagają pozwolenia wojewódzkiego konserwatora zabytków. ” .
 
-**Art. 3.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074 i 1566.) wprowadza się następujące zmiany:
 
 - **1)** w art. 83: w ust. 1 we wprowadzeniu do wyliczenia po wyrazach „z terenu nieruchomości” dodaje się wyrazy „lub jej części niewpisanej do rejestru zabytków”, po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
@@ -299,6 +300,6 @@ source: "eli-html"
 3. Organem monitorującym wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz odpowiedzialnym za wdrożenie mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 4, 7, 11, 21, 23 i 24 w zakresie art. 111 oraz art. 7, które wchodzą w życie z dniem 1 stycznia 2018 r.;
-- **2)** art. 1 pkt 24 w zakresie art. 113–114, art. 117 i art. 119 oraz pkt 25, które wchodzą w życie z dniem 1 stycznia 2024 r.
+- **2)** art. 1 pkt 24 w zakresie art. 113–114, art. 117 i art. 119 oraz pkt 25, które wchodzą w życie z dniem 1 stycznia 2024 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 397, 774 i 1505, z 2016 r. poz. 1330, 1887 i 1948 oraz z 2017 r. poz. 60 i 1086. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529 i 1566. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2249 i 2260 oraz z 2017 r. poz. 60, 132, 1074 i 1566.
 
 

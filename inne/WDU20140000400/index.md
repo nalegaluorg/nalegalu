@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektó rych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniej szego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 17 stycznia 2008 r. w sprawie szczegółowego trybu i sposobu przeprowadzania konkursów na staż urzędniczy w sądzie i prokuraturze (Dz. U. Nr 21, poz. 129), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 19 grudnia 2012 r. zmieniającym rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania konkursów na staż urzędniczy w sądzie i prokuraturze (Dz. U. poz. 1490).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 19 grudnia 2012 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania konkursów na staż urzędniczy w sądzie i prokuraturze (Dz. U. poz. 1490), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 19 grudnia 2012 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania konkursów na staż urzędniczy w sądzie i prokuraturze (Dz. U. poz. 1490), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwości z dnia 17 stycznia 2008 r. w sprawie szczegółowego trybu i sposobu przeprowadzania konkursów na staż urzędniczy w sądzie i prokuraturze
-Na podstawie art. 3b ust. 6 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2011 r. Nr 109, poz. 639, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 3b ust. 6 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2011 r. Nr 109, poz. 639, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 113, poz. 659 i Nr 203, poz. 1192 oraz z 2013 r. poz. 829.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -69,7 +67,7 @@ Kandydat składa wymagane dokumenty bezpośrednio w siedzibie sądu lub prokurat
 Komisja składa się z 3 do 5 osób.
 2.
 W skład komisji mogą wchodzić:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 19 grudnia 2012 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania konkursów na staż urzędniczy w sądzie i prokuraturze (Dz. U. poz. 1490), które weszło w życie z dniem 1 stycznia 2013 r.)
 w sądzie – inspektor do spraw biurowości i inni pracownicy wyznaczeni przez właściwego dyrektora sądu;
 2)
 w prokuraturze – naczelnik wydziału, wyznaczony prokurator, inspektor do spraw biurowości i statystyki i inni pracownicy.
@@ -80,7 +78,7 @@ Członkowie komisji wybierają ze swojego grona przewodniczącego i sekretarza k
 Komisja obraduje na posiedzeniach.
 2.
 Komisja podejmuje uchwały w drodze głosowania, przy obecności co najmniej 3 członków komisji, zwykłą większością głosów, a w razie równej liczby głosów rozstrzyga głos przewodniczącego komisji.
-§ 6.
+§ 6W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Dyrektor sądu, zwany dalej „dyrektorem”, lub prokurator kierujący jednostką organizacyjną prokuratury, zwany dalej „prokuratorem”, określa wymagania dotyczące stanowiska pracy, na które jest przeprowadzany konkurs. Wymagania te powinny uwzględniać w szczególności:
 1)
 rodzaj kwalifikacji niezbędnych do wykonywania zadań;
@@ -138,12 +136,12 @@ listę kandydatów biorących udział w konkursie;
 listę kandydatów wybranych lub imię i nazwisko kandydata wybranego na stanowisko, na które przeprowadzany był konkurs;
 3)
 wyniki i oceny poszczególnych kandydatów.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Dyrektor lub prokurator upowszechnia informację, o której mowa w ust. 1 pkt 2, w sposób określony w § 8 ust. 3.
-§ 11.
+§ 11W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Dokumentację z przebiegu konkursu sekretarz komisji przekazuje dyrektorowi lub prokuratorowi w terminie 7 dni od dnia sporządzenia protokołu, o którym mowa w § 10 ust. 1.
 § 12.
 Kandydatowi udostępnia się do wglądu, w siedzibie sądu lub prokuratury, protokół, o którym mowa w § 10 ust. 1, w części dotyczącej jego wyników i oceny.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 8 lutego 2008 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 113, poz. 659 i Nr 203, poz. 1192 oraz z 2013 r. poz. 829. 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 19 grudnia 2012 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu i sposobu przeprowadzania konkursów na staż urzędniczy w sądzie i prokuraturze (Dz. U. poz. 1490), które weszło w życie z dniem 1 stycznia 2013 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 8 lutego 2008 r.
 

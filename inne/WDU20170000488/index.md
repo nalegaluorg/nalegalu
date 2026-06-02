@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 28 lutego 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu regulowanego rzeczoznawcy w zakresie jakości handlowej artykułów rolno-spożywczych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 28 lutego 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu regulowanego rzeczoznawcy w zakresie jakości handlowej artykułów rolno-spożywczych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,25 +22,25 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-28 |
 | Data wydania | 2017-03-07 |
-| Wejście w życie | 2017-03-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000488) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/488/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2005/36/WE z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad jego odbywaniem oraz oceny nabytych w jego trakcie umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za jego odbywanie,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie
-w toku postępowania w sprawie uznania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodu regulowanego rzeczoznawcy w zakresie jakości handlowej artykułów rolno-spożywczych, zwanego dalej „zawodem regulowanym”.
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie – w toku postępowania w sprawie uznania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodu regulowanego rzeczoznawcy w zakresie jakości handlowej artykułów rolno-spożywczych, zwanego dalej „zawodem regulowanym”.
 § 2.
 1.
-Wnioskodawca po otrzymaniu postanowienia, o którym mowa w art. 20 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, zwanej dalej „ustawą”, składa ministrowi właściwemu do spraw rynków rolnych lub podmiotowi upoważnionemu w trybie określonym w art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.) do wykonywania zadań w sprawach uznawania kwalifikacji w zawodzie regulowanym, zwanemu dalej „organem prowadzącym postępowanie”, oświadczenie o wyborze stażu adaptacyjnego albo testu umiejętności.
+Wnioskodawca po otrzymaniu postanowienia, o którym mowa w art. 20 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, zwanej dalej „ustawą”, składa ministrowi właściwemu do spraw rynków rolnych lub podmiotowi upoważnionemu w trybie określonym w art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260.) do wykonywania zadań w sprawach uznawania kwalifikacji w zawodzie regulowanym, zwanemu dalej „organem prowadzącym postępowanie”, oświadczenie o wyborze stażu adaptacyjnego albo testu umiejętności.
 2.
 Organ prowadzący postępowanie przekazuje postanowienie, o którym mowa w ust. 1, odpowiednio jednostce, w której ma być odbywany staż adaptacyjny, albo jednostce, w której ma być przeprowadzony test umiejętności, wraz z kopią dokumentacji zawierającej informacje dotyczące kwalifikacji zawodowych wnioskodawcy, w tym o wykształceniu i doświadczeniu zawodowym.
+Staż adaptacyjny
 § 3.
 1.
 Staż adaptacyjny dla zawodu regulowanego, zwany dalej „stażem adaptacyjnym”, odbywa się u przedsiębiorcy prowadzącego działalność gospodarczą w zakresie produkcji, składowania, konfekcjonowania i obrotu artykułami rolno-spożywczymi, zwanego dalej „jednostką”.
@@ -141,13 +141,13 @@ nie przystąpił do stażu adaptacyjnego z usprawiedliwionej przyczyny.
 Kierownik jednostki dokonuje oceny przyczyny nieprzystąpienia do odbywania stażu adaptacyjnego przez wnioskodawcę, kierując się zasadami określonymi w przepisach o usprawiedliwianiu nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy.
 § 10.
 Postanowienie i oświadczenie, o których mowa w § 2 ust. 1, oświadczenie, o którym mowa w § 16 ust. 2, dokumentacja, o której mowa w § 2 ust. 2, wnioski, o których mowa w § 4 ust. 3 pkt 2, § 6 ust. 1 i § 8 ust. 1 i 3, oraz dokumenty, o których mowa w § 3 ust. 3 i § 7 ust. 1, mogą być przekazywane w formie pisemnej w postaci papierowej lub elektronicznej.
+Test umiejętności
 § 11.
 Test umiejętności obejmuje:
 1)
 test pisemny, składający się nie więcej niż z 60 pytań,
 2)
-test praktyczny, polegający na wykonaniu czynności mających na celu sprawdzenie umiejętności
-z zakresu zawodu regulowanego.
+test praktyczny, polegający na wykonaniu czynności mających na celu sprawdzenie umiejętności – z zakresu zawodu regulowanego.
 § 12.
 1.
 Test umiejętności opracowuje i przeprowadza komisja egzaminacyjna, zwana dalej „komisją”, powoływana przez organ prowadzący postępowanie.
@@ -224,15 +224,23 @@ W przypadku gdy test umiejętności nie odbył się z przyczyn leżących po str
 Wnioskodawca, który nie zdał testu umiejętności, może ponownie przystąpić do tego testu, nie wcześniej niż po upływie 30 dni od dnia przeprowadzenia niezdanego testu umiejętności.
 2.
 Do ponownego przystąpienia do testu umiejętności stosuje się przepisy ust. 1 oraz § 11–16.
+Przepis końcowy
 § 18.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2005/36/WE z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 10 kwietnia 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu regulowanego rzeczoznawcy w zakresie jakości handlowej artykułów rolno-spożywczych (Dz. U. poz. 598), które utraciło moc z dniem 31 grudnia 2016 r. na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 10 kwietnia 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu regulowanego rzeczoznawcy w zakresie jakości handlowej artykułów rolno-spożywczych (Dz. U. poz. 598), które utraciło moc z dniem 31 grudnia 2016 r. na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2005/36/WE z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 10 kwietnia 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu regulowanego rzeczoznawcy w zakresie jakości handlowej artykułów rolno-spożywczych (Dz. U. poz. 598), które utraciło moc z dniem 31 grudnia 2016 r. na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
 
-#### Rozdział 4 Przepis końcowy
+#### Rozdział 4 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

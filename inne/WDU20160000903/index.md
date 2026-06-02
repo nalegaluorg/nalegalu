@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 czerwca 2016 r. o zmianie ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych oraz niektórych innych ustaw
+# Ustawa z dnia 9 czerwca 2016 r. o zmianie ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych oraz niektórych innych ustaw Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/61/UE z dnia 15 maja 2014 r. w sprawie środków mających na celu zmniejszenie kosztów realizacji szybkich sieci łączności elektronicznej (Dz. Urz. UE L 155 z 23.05.2014, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-09 |
 | Data wydania | 2016-06-24 |
-| Wejście w życie | 2016-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/903/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej oraz ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
+Punkt informacyjny do spraw telekomunikacji
 
 **Art. 1.** W ustawie z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2015 r. poz. 880, 1045, 1777 i 2281) wprowadza się następujące zmiany:
 
@@ -39,7 +41,7 @@ source: "eli-html"
 - **2)** w art. 2 w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
 
-- **3)** podmiot wykonujący zadania z zakresu użyteczności publicznej – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której przepisy szczególne przyznają zdolność prawną, zapewniającą infrastrukturę techniczną na potrzeby: wytwarzania, przesyłania lub dystrybucji gazu, energii elektrycznej lub ciepła, zapewnienia oświetlenia w miejscach, o których mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.), zaopatrzenia ludności w wodę, gromadzenia, przesyłania, oczyszczania lub odprowadzania ścieków, ogrzewania, systemów odwodnienia, w tym ciągów drenażowych, transportu, w tym linii kolejowych, dróg, portów i lotnisk; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–9 w brzmieniu: „
+- **3)** podmiot wykonujący zadania z zakresu użyteczności publicznej – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której przepisy szczególne przyznają zdolność prawną, zapewniającą infrastrukturę techniczną na potrzeby: wytwarzania, przesyłania lub dystrybucji gazu, energii elektrycznej lub ciepła, zapewnienia oświetlenia w miejscach, o których mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662, z 2015 r. poz. 151, 478, 942, 1618, 1893, 1960 i 2365 oraz z 2016 r. poz. 266 i 831.), zaopatrzenia ludności w wodę, gromadzenia, przesyłania, oczyszczania lub odprowadzania ścieków, ogrzewania, systemów odwodnienia, w tym ciągów drenażowych, transportu, w tym linii kolejowych, dróg, portów i lotnisk; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–9 w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -47,7 +49,7 @@ source: "eli-html"
     - **b)**
 
 - **5)** infrastruktura krytyczna – infrastrukturę krytyczną w rozumieniu przepisów ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2013 r. poz. 1166, z 2015 r. poz. 1485 oraz z 2016 r. poz. 266);
-- **6)** infrastruktura techniczna – każdy element infrastruktury lub sieci, który może służyć do umieszczenia w nim lub na nim elementów infrastruktury lub sieci telekomunikacyjnej, nie stając się jednocześnie aktywnym elementem tej sieci telekomunikacyjnej, taki jak rurociągi, kanalizacja, maszty, kanały, komory, studzienki, szafki, budynki i wejścia do budynków, instalacje antenowe, wieże i słupy, z wyłączeniem: kabli, w tym włókien światłowodowych, elementów sieci wykorzystywanych do zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi, kanałów technologicznych w rozumieniu art. 4 pkt 15a ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.);
+- **6)** infrastruktura techniczna – każdy element infrastruktury lub sieci, który może służyć do umieszczenia w nim lub na nim elementów infrastruktury lub sieci telekomunikacyjnej, nie stając się jednocześnie aktywnym elementem tej sieci telekomunikacyjnej, taki jak rurociągi, kanalizacja, maszty, kanały, komory, studzienki, szafki, budynki i wejścia do budynków, instalacje antenowe, wieże i słupy, z wyłączeniem: kabli, w tym włókien światłowodowych, elementów sieci wykorzystywanych do zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi, kanałów technologicznych w rozumieniu art. 4 pkt 15a ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830, 1890 i 2281 oraz z 2016 r. poz. 770 i 903.);
     - **a)**
     - **b)**
     - **c)**
@@ -222,7 +224,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** nabył prawa do infrastruktury lub sieci telekomunikacyjnej, o których mowa w pkt 1 lit. a zapewnia dostęp do takiej infrastruktury lub sieci przedsiębiorcom telekomunikacyjnym, jeżeli obowiązek ten wynika z przepisów prawa, decyzji, umów lub innych aktów, na podstawie których nastąpiło finansowanie ze środków publicznych tej budowy, przebudowy, tego remontu lub nabycia praw.
+- **2)** nabył prawa do infrastruktury lub sieci telekomunikacyjnej, o których mowa w pkt 1 lit. a – zapewnia dostęp do takiej infrastruktury lub sieci przedsiębiorcom telekomunikacyjnym, jeżeli obowiązek ten wynika z przepisów prawa, decyzji, umów lub innych aktów, na podstawie których nastąpiło finansowanie ze środków publicznych tej budowy, przebudowy, tego remontu lub nabycia praw.
 
 2. Warunki dostępu, o którym mowa w ust. 1, w tym techniczne, eksploatacyjne i finansowe warunki współpracy, strony ustalają w umowie o dostępie do infrastruktury lub sieci telekomunikacyjnej, zawartej na piśmie pod rygorem nieważności.
 
@@ -257,7 +259,7 @@ source: "eli-html"
 
 - **15)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Punkt informacyjny do spraw telekomunikacji
+#### Rozdział 2a
 
 **Art. 29a.**
 
@@ -304,7 +306,7 @@ source: "eli-html"
 
 1. Główny Geodeta Kraju przekazuje Prezesowi UKE z centralnego zasobu geodezyjnego i kartograficznego posiadane w postaci elektronicznej informacje:
 
-- **1)** o których mowa w art. 29b ust. 1 pkt 3, poprzez zapewnienie nieodpłatnego dostępu do danych przestrzennych i związanych z nimi usług, udostępnianych za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2015 r. poz. 520, z późn. zm.);
+- **1)** o których mowa w art. 29b ust. 1 pkt 3, poprzez zapewnienie nieodpłatnego dostępu do danych przestrzennych i związanych z nimi usług, udostępnianych za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2015 r. poz. 520, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 831, 1137 i 2281 oraz z 2016 r. poz. 65, 352, 585 i 903.);
 - **2)** inne, przydatne dla celów przygotowania i realizacji inwestycji telekomunikacyjnych, w zakresie uzgodnionym z Prezesem UKE, a następnie aktualizuje te informacje nie rzadziej niż raz na 6 miesięcy.
 
 2. Właściwy terytorialnie marszałek województwa oraz właściwy terytorialnie starosta i prezydent miasta na prawach powiatu przekazują Prezesowi UKE, na jego wniosek, odpowiednio z wojewódzkiego zasobu geodezyjnego i kartograficznego oraz z powiatowego zasobu geodezyjnego i kartograficznego, w szczególności z geodezyjnej ewidencji sieci uzbrojenia terenu, posiadane w postaci elektronicznej informacje, o których mowa w art. 29b ust. 1 pkt 3, które nie znajdują się w centralnym zasobie geodezyjnym i kartograficznym.
@@ -336,9 +338,9 @@ source: "eli-html"
 
 - **1)** szczegółowy zakres przekazywanych informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6,
 - **2)** elektroniczny format przekazywania informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6,
-- **3)** wzory formularzy służących do przekazywania Prezesowi UKE przez podmioty, o których mowa w art. 29c ust. 1 i art. 29d ust. 4 i 6, informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6, wraz z objaśnieniami co do sposobu ich wypełniania kierując się potrzebą zapewnienia rzetelnego i wiarygodnego zbioru informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6, a także mając na uwadze konieczność usprawnienia i ujednolicenia procesu przekazywania danych Prezesowi UKE. Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia:
+- **3)** wzory formularzy służących do przekazywania Prezesowi UKE przez podmioty, o których mowa w art. 29c ust. 1 i art. 29d ust. 4 i 6, informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6, wraz z objaśnieniami co do sposobu ich wypełniania – kierując się potrzebą zapewnienia rzetelnego i wiarygodnego zbioru informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6, a także mając na uwadze konieczność usprawnienia i ujednolicenia procesu przekazywania danych Prezesowi UKE. Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia:
 - **1)** sposób prezentowania informacji gromadzonych w bazie danych, o której mowa w art. 29b ust. 2, w tym rodzaj i skalę map,
-- **2)** wymagania techniczne i eksploatacyjne systemu teleinformatycznego, o którym mowa w art. 29b ust. 2 kierując się potrzebą usprawnienia i ujednolicenia procesu udostępniania informacji. ” ;
+- **2)** wymagania techniczne i eksploatacyjne systemu teleinformatycznego, o którym mowa w art. 29b ust. 2 – kierując się potrzebą usprawnienia i ujednolicenia procesu udostępniania informacji. ” ;
 - **16)** w art. 30: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -351,7 +353,7 @@ source: "eli-html"
     - **b)**
 
 - **4)** umożliwieniu korzystania z punktu styku,
-- **5)** umożliwieniu odtworzenia przyłącza telekomunikacyjnego lub wykonaniu instalacji telekomunikacyjnej budynku, które uległy likwidacji, zniszczeniu, uszkodzeniu lub wymagają modernizacji lub przebudowy w celu zapewnienia telekomunikacji w tym budynku. ” , po ust. 1 dodaje się ust. 1a-1g w brzmieniu: „
+- **5)** umożliwieniu odtworzenia przyłącza telekomunikacyjnego lub wykonaniu instalacji telekomunikacyjnej budynku, które uległy likwidacji, zniszczeniu, uszkodzeniu lub wymagają modernizacji lub przebudowy – w celu zapewnienia telekomunikacji w tym budynku. ” , po ust. 1 dodaje się ust. 1a-1g w brzmieniu: „
     - **b)**
 
 1a. Warunek, o którym mowa w ust. 1 pkt 3 lit. b, uważa się za spełniony w szczególności, gdy:
@@ -420,7 +422,7 @@ source: "eli-html"
 
 - **1)** nadleśniczego Lasów Państwowych,
 - **2)** podmiot, który zarządza terenem zamkniętym,
-- **3)** właściciela, użytkownika wieczystego lub zarządcę co najmniej 10 budynków mieszkalnych wielorodzinnych, zamieszkania zbiorowego lub użyteczności publicznej do przedstawienia informacji w sprawie warunków zapewnienia dostępu, o którym mowa w art. 30 ust. 1 i 3, lub umieszczania na nieruchomości obiektów i urządzeń, o którym mowa w art. 33 ust. 1.
+- **3)** właściciela, użytkownika wieczystego lub zarządcę co najmniej 10 budynków mieszkalnych wielorodzinnych, zamieszkania zbiorowego lub użyteczności publicznej – do przedstawienia informacji w sprawie warunków zapewnienia dostępu, o którym mowa w art. 30 ust. 1 i 3, lub umieszczania na nieruchomości obiektów i urządzeń, o którym mowa w art. 33 ust. 1.
 
 2. Podmioty, o których mowa w ust. 1, są obowiązane do przedstawienia informacji Prezesowi UKE w terminie 30 dni od dnia otrzymania wezwania.
 
@@ -538,7 +540,7 @@ source: "eli-html"
 
 - **19)** w art. 59 w ust. 3 uchyla się pkt 3.
 
-**Art. 2.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830, 1890 i 2281 oraz z 2016 r. poz. 770.) wprowadza się następujące zmiany:
 
 - **1)** w art. 16 ust. 3 otrzymuje brzmienie: „
 
@@ -547,7 +549,7 @@ source: "eli-html"
 - **2)** w art. 39: w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
 
-- **1a)** odmawia wydania zezwolenia na umieszczenie w pasie drogowym infrastruktury telekomunikacyjnej, jeżeli w kanale technologicznym istnieją wolne zasoby; ” , po ust. 3a dodaje się ust. 3aa w brzmieniu: „ 3aa. W przypadku gdy decyzja, o której mowa w ust. 3, dotyczy lokalizacji w pasie drogowym infrastruktury telekomunikacyjnej, w decyzji tej określa się dodatkowo, czy w okresie 4 lat od jej wydania planowana jest budowa, przebudowa lub remont odcinka drogi, którego dotyczy decyzja, o ile wynika to wprost z uchwały budżetowej jednostki samorządu terytorialnego, wieloletniej prognozy finansowej jednostki samorządu terytorialnego, programu wieloletniego wydanego na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) lub planów, o których mowa w art. 20 pkt 1 lub 2 niniejszej ustawy. ” , ust. 3b otrzymuje brzmienie: „
+- **1a)** odmawia wydania zezwolenia na umieszczenie w pasie drogowym infrastruktury telekomunikacyjnej, jeżeli w kanale technologicznym istnieją wolne zasoby; ” , po ust. 3a dodaje się ust. 3aa w brzmieniu: „ 3aa. W przypadku gdy decyzja, o której mowa w ust. 3, dotyczy lokalizacji w pasie drogowym infrastruktury telekomunikacyjnej, w decyzji tej określa się dodatkowo, czy w okresie 4 lat od jej wydania planowana jest budowa, przebudowa lub remont odcinka drogi, którego dotyczy decyzja, o ile wynika to wprost z uchwały budżetowej jednostki samorządu terytorialnego, wieloletniej prognozy finansowej jednostki samorządu terytorialnego, programu wieloletniego wydanego na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195.) lub planów, o których mowa w art. 20 pkt 1 lub 2 niniejszej ustawy. ” , ust. 3b otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -603,7 +605,7 @@ source: "eli-html"
 
 **Art. 40e.** Organ, który udzielił zezwolenia, o którym mowa w art. 40 ust. 1, na cele związane z infrastrukturą telekomunikacyjną, przenosi, w drodze decyzji, na rzecz podmiotu będącego nabywcą tej infrastruktury, na jego wniosek, prawa i obowiązki wynikające z tego zezwolenia. 1. W przypadku ustalenia przez organ jednostki samorządu terytorialnego stawek opłat niższych niż stawki opłat, na podstawie których ustalono opłatę za zajęcie pasa drogowego w celu umieszczenia infrastruktury telekomunikacyjnej w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, właściwy zarządca drogi ustala z urzędu, w drodze decyzji, nową wysokość opłaty. 2. Dla okresu, za który opłata stała się należna jeszcze przed dniem wejścia w życie uchwały jednostki samorządu terytorialnego ustalającej niższe stawki opłat, obowiązuje opłata ustalona w dotychczasowej wysokości. ” .
 
-**Art. 3.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2015 r. poz. 520, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2015 r. poz. 520, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 831, 1137 i 2281 oraz z 2016 r. poz. 65, 352 i 585.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 11 otrzymuje brzmienie: „
 - **11)** sieci uzbrojenia terenu – rozumie się przez to wszelkiego rodzaju nadziemne, naziemne i podziemne przewody i urządzenia: wodociągowe, kanalizacyjne, gazowe, cieplne, telekomunikacyjne, elektroenergetyczne i inne, z wyłączeniem urządzeń melioracji szczegółowych, a także podziemne budowle, które w rozumieniu przepisów o statystyce publicznej nie są budynkami; ” ;
@@ -724,8 +726,14 @@ source: "eli-html"
 
 - **1)** 1,0 – dla Ljr nie większej niż 100;
 - **2)** 0,8 – dla Ljr w przedziale 101–1000;
-- **3)** 0,4 – dla Ljr większej od 1000. ” , w tabeli nr 11: – oznaczenie kolumny 2 otrzymuje brzmienie: „Nazwa dokumentu”, – dodaje się wiersze o lp. 13–15 w brzmieniu: 13. Uproszczony wypis z rejestru gruntów (bez adnotacji dotyczących jakości danych ewidencyjnych oraz klauzuli upoważniającej do oznaczania nieruchomości w księdze wieczystej na podstawie tego dokumentu) Działka ewidencyjna 15,0 zł 1. LR przyjmuje wartość:1) 1,0 – dla Ljr nie większej niż 1;2) 0,8 – dla Ljr w przedziale 2–10;3) 0,4 – dla Ljr powyżej 10. 14. Wypis z wykazu działek Działka ewidencyjna 5,0 zł 15. Wypis z wykazu podmiotów Podmiot (osoba lub instytucja) 5,0 zł 2. PD i AJ przyjmują wartość 1,0. w tabeli nr 13 w wierszach o lp. 1 i 2 w kolumnie oznaczonej „Współczynniki korygujące LR, PD, AJ” ust. 1 otrzymuje brzmienie: „
+- **3)** 0,4 – dla Ljr większej od 1000. ” , w tabeli nr 11: – oznaczenie kolumny 2 otrzymuje brzmienie: „Nazwa dokumentu”, dodaje się wiersze o lp. 13–15 w brzmieniu:
     - **e)**
+
+13. Uproszczony wypis z rejestru gruntów (bez adnotacji dotyczących jakości danych ewidencyjnych oraz klauzuli upoważniającej do oznaczania nieruchomości w księdze wieczystej na podstawie tego dokumentu) Działka ewidencyjna 15,0 zł 1. LR przyjmuje wartość:
+
+- **1)** 1,0 – dla Ljr nie większej niż 1;
+- **2)** 0,8 – dla Ljr w przedziale 2–10;
+- **3)** 0,4 – dla Ljr powyżej 10. 14. Wypis z wykazu działek Działka ewidencyjna 5,0 zł 15. Wypis z wykazu podmiotów Podmiot (osoba lub instytucja) 5,0 zł 2. PD i AJ przyjmują wartość 1,0. w tabeli nr 13 w wierszach o lp. 1 i 2 w kolumnie oznaczonej „Współczynniki korygujące LR, PD, AJ” ust. 1 otrzymuje brzmienie: „
     - **f)**
 
 1. LR przyjmuje wartość:
@@ -735,7 +743,7 @@ source: "eli-html"
 - **3)** 0,6 – dla Ljr większej od 100. ” , w tabeli nr 16: – w wierszu o lp. 3 w kolumnie oznaczonej „Jednostka rozliczeniowa” wyrazy „Uwierzytelniany dokument” zastępuje się wyrazami „Pierwszy egzemplarz uwierzytelnianego dokumentu”, – w wierszu o lp. 4 w kolumnie oznaczonej „Jednostka rozliczeniowa” wyrazy „Kopia uwierzytelnianego dokumentu” zastępuje się wyrazami „Kolejne egzemplarze uwierzytelnianego dokumentu”.
     - **g)**
 
-**Art. 4.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686, z późn. zm.) w art. 17 po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Na uzasadniony wniosek organu samorządu terytorialnego wojewódzki inspektor ochrony środowiska jest obowiązany przeprowadzić kontrolę nieobjętą planem kontroli Inspekcji Ochrony Środowiska w zakresie poziomów pól elektromagnetycznych emitowanych z instalacji radiokomunikacyjnej, radionawigacyjnej lub radiolokacyjnej, których równoważna moc promieniowana izotropowo wynosi nie mniej niż 15 W, emitujących pola elektromagnetyczne o częstotliwościach od 30 kHz do 300 GHz. ” .
+**Art. 4.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888, z 2014 r. poz. 1101 oraz z 2015 r. poz. 277, 671, 881, 1223, 1434 i 1688.) w art. 17 po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Na uzasadniony wniosek organu samorządu terytorialnego wojewódzki inspektor ochrony środowiska jest obowiązany przeprowadzić kontrolę nieobjętą planem kontroli Inspekcji Ochrony Środowiska w zakresie poziomów pól elektromagnetycznych emitowanych z instalacji radiokomunikacyjnej, radionawigacyjnej lub radiolokacyjnej, których równoważna moc promieniowana izotropowo wynosi nie mniej niż 15 W, emitujących pola elektromagnetyczne o częstotliwościach od 30 kHz do 300 GHz. ” .
 
 **Art. 5.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2015 r. poz. 2100 oraz z 2016 r. poz. 422 i 586) po art. 39a dodaje się art. 39b w brzmieniu: „
 
@@ -751,11 +759,11 @@ source: "eli-html"
 
 **Art. 6.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2016 r. poz. 672 i 831) w art. 122a dodaje się ust. 3 w brzmieniu: „ 3. Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, wymagania dotyczące wyników pomiarów, o których mowa w ust. 1, kierując się potrzebą ujednolicenia wyników pomiarów oraz zapewnienia właściwego ich wykonywania. ” .
 
-**Art. 7.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) w art. 79 w ust. 2 po pkt 4b dodaje się pkt 4c w brzmieniu: „
+**Art. 7.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65, 352, 615, 780 i 868.) w art. 79 w ust. 2 po pkt 4b dodaje się pkt 4c w brzmieniu: „
 
-- **4c)** kontrola jest przeprowadzana na podstawie przepisów ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686, z późn. zm.) w zakresie poziomów pól elektromagnetycznych emitowanych z instalacji radiokomunikacyjnej, radionawigacyjnej lub radiolokacyjnej; ” .
+- **4c)** kontrola jest przeprowadzana na podstawie przepisów ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888, z 2014 r. poz. 1101, z 2015 r. poz. 277, 671, 881, 1223, 1434 i 1688 oraz z 2016 r. poz. 903.) w zakresie poziomów pól elektromagnetycznych emitowanych z instalacji radiokomunikacyjnej, radionawigacyjnej lub radiolokacyjnej; ” .
 
-**Art. 8.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147 i 542.) wprowadza się następujące zmiany:
 
 - **1)** w art. 139: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -770,7 +778,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **3)** możliwości korzystania z: instalacji telekomunikacyjnej budynku, jeżeli powielenie infrastruktury telekomunikacyjnej byłoby ekonomicznie nieopłacalne lub technicznie niemożliwe, punktu połączenia instalacji telekomunikacyjnej budynku z publiczną siecią telekomunikacyjną jeżeli wniosek o dostęp jest składany w celu realizacji szybkiej sieci telekomunikacyjnej w rozumieniu art. 2 ust. 1 pkt 7 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych; ” , ust. 4 otrzymuje brzmienie: „
+- **3)** możliwości korzystania z: instalacji telekomunikacyjnej budynku, jeżeli powielenie infrastruktury telekomunikacyjnej byłoby ekonomicznie nieopłacalne lub technicznie niemożliwe, punktu połączenia instalacji telekomunikacyjnej budynku z publiczną siecią telekomunikacyjną – jeżeli wniosek o dostęp jest składany w celu realizacji szybkiej sieci telekomunikacyjnej w rozumieniu art. 2 ust. 1 pkt 7 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych; ” , ust. 4 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **b)**
@@ -799,7 +807,7 @@ source: "eli-html"
 **Art. 9.** Wniosek w sprawie prowadzenia negocjacji złożony na podstawie:
 
 - **1)** art. 19 ust. 1 ustawy zmienianej w art. 1,
-- **2)** art. 30 ust. 5 w związku z art. 19 ust. 1 ustawy zmienianej w art. 1 i nierozpatrzony przed dniem wejścia w życie niniejszej ustawy jest rozpatrywany na podstawie przepisów ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+- **2)** art. 30 ust. 5 w związku z art. 19 ust. 1 ustawy zmienianej w art. 1 – i nierozpatrzony przed dniem wejścia w życie niniejszej ustawy jest rozpatrywany na podstawie przepisów ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 10.**
 
@@ -807,7 +815,7 @@ source: "eli-html"
 
 - **1)** art. 21 ust. 2 ustawy zmienianej w art. 1, a postępowanie w tej sprawie nie zostało zakończone przed dniem wejścia w życie niniejszej ustawy, postępowanie to jest prowadzone na podstawie przepisów ustawy zmienianej w art. 1,
 - **2)** art. 30 ust. 5 w związku z art. 21 ust. 2 ustawy zmienianej w art. 1, a postępowanie w tej sprawie nie zostało zakończone przed dniem wejścia w życie niniejszej ustawy, postępowanie to jest prowadzone na podstawie przepisów ustawy zmienianej w art. 1,
-- **3)** art. 139 ust. 4 w związku z art. 27 ust. 2 lub 2b ustawy zmienianej w art. 8, a postępowanie w tej sprawie nie zostało zakończone przed dniem wejścia w życie niniejszej ustawy, postępowanie to jest prowadzone na podstawie przepisów ustawy zmienianej w art. 8 w brzmieniu nadanym niniejszą ustawą.
+- **3)** art. 139 ust. 4 w związku z art. 27 ust. 2 lub 2b ustawy zmienianej w art. 8, a postępowanie w tej sprawie nie zostało zakończone przed dniem wejścia w życie niniejszej ustawy, postępowanie to jest prowadzone na podstawie przepisów ustawy zmienianej w art. 8 – w brzmieniu nadanym niniejszą ustawą.
 
 2. Prezes Urzędu Komunikacji Elektronicznej, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, wzywa uczestników postępowań, o których mowa w ust. 1, do uzupełnienia wniosku i dołączenia brakujących dokumentów w terminie 14 dni od dnia doręczenia wezwania i poucza ich, że nieusunięcie tych braków spowoduje pozostawienie wniosku bez rozpoznania.
 
@@ -845,5 +853,5 @@ source: "eli-html"
 
 3. Warunki, o których mowa w art. 39b ust. 1 ustawy zmienianej w art. 5, przekazuje się po raz pierwszy do dnia 1 października 2016 r.
 
-**Art. 21.** Ustawa wchodzi w życie z dniem 1 lipca 2016 r., z wyjątkiem art. 1 pkt 4, w zakresie art. 18 ust. 2–8, art. 1 pkt 11, art. 1 pkt 15, w zakresie art. 29a i art. 29b, oraz art. 1 pkt 16 lit. g, które wchodzą w życie z dniem 1 stycznia 2017 r.
+**Art. 21.** Ustawa wchodzi w życie z dniem 1 lipca 2016 r., z wyjątkiem art. 1 pkt 4, w zakresie art. 18 ust. 2–8, art. 1 pkt 11, art. 1 pkt 15, w zakresie art. 29a i art. 29b, oraz art. 1 pkt 16 lit. g, które wchodzą w życie z dniem 1 stycznia 2017 r. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/61/UE z dnia 15 maja 2014 r. w sprawie środków mających na celu zmniejszenie kosztów realizacji szybkich sieci łączności elektronicznej (Dz. Urz. UE L 155 z 23.05.2014, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej oraz ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662, z 2015 r. poz. 151, 478, 942, 1618, 1893, 1960 i 2365 oraz z 2016 r. poz. 266 i 831. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830, 1890 i 2281 oraz z 2016 r. poz. 770 i 903. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 831, 1137 i 2281 oraz z 2016 r. poz. 65, 352, 585 i 903. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830, 1890 i 2281 oraz z 2016 r. poz. 770. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 831, 1137 i 2281 oraz z 2016 r. poz. 65, 352 i 585. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888, z 2014 r. poz. 1101 oraz z 2015 r. poz. 277, 671, 881, 1223, 1434 i 1688. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65, 352, 615, 780 i 868. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888, z 2014 r. poz. 1101, z 2015 r. poz. 277, 671, 881, 1223, 1434 i 1688 oraz z 2016 r. poz. 903. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198, z 2015 r. poz. 1069, 1893 i 2281 oraz z 2016 r. poz. 147 i 542.
 

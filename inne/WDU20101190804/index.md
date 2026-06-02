@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 maja 2010 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw
+# Ustawa z dnia 21 maja 2010 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-05-21 |
 | Data wydania | 2010-07-05 |
-| Wejście w życie | 2010-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101190804) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/804/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 145 i Nr 106, poz. 675.) wprowadza się następujące zmiany:
 
 - **1)** w art. 16 w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
 - **10)** bezpieczeństwa publicznego. ” ;
@@ -102,14 +101,17 @@ source: "eli-html"
 
 1a. W przypadku gdy przedsięwzięcie jest realizowane na obszarze morskim, organem właściwym do wydania opinii, o której mowa w ust. 1, jest także dyrektor urzędu morskiego. ” ;
 
-- **10)** w art. 72: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) decyzji o pozwoleniu na budowę, decyzji o zatwierdzeniu projektu budowlanego, decyzji o pozwoleniu na wznowienie robót budowlanych oraz decyzji o pozwoleniu na zmianę sposobu użytkowania obiektu budowlanego lub jego części – wydawanych na podstawie ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.); ” , – w pkt 16 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „ 17) decyzji o zezwolenie na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych – wydawanej na podstawie ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865 oraz z 2010 r. Nr 28, poz. 145). ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **10)** w art. 72: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** decyzji o pozwoleniu na budowę, decyzji o zatwierdzeniu projektu budowlanego, decyzji o pozwoleniu na wznowienie robót budowlanych oraz decyzji o pozwoleniu na zmianę sposobu użytkowania obiektu budowlanego lub jego części – wydawanych na podstawie ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279 oraz z 2010 r. Nr 75, poz. 474 i Nr 106, poz. 675.); ” , w pkt 16 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „
+- **17)** decyzji o zezwolenie na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych – wydawanej na podstawie ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz. 865 oraz z 2010 r. Nr 28, poz. 145). ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Wydanie decyzji o środowiskowych uwarunkowaniach następuje także przed dokonaniem zgłoszenia budowy lub wykonania robót budowlanych oraz zgłoszenia zmiany sposobu użytkowania obiektu budowlanego lub jego części na podstawie ustawy z dnia 7 lipca 1994 r. – Prawo budowlane. ” , w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
 - **c)**
-- **1a)** decyzji, o których mowa w ust. 1 pkt 1, polegających na odstąpieniu od zatwierdzonego projektu budowlanego dotyczącym: charakterystycznych parametrów obiektu budowlanego: kubatury, powierzchni zabudowy, wysokości, długości, szerokości i liczby kondygnacji, zapewnienia warunków niezbędnych do korzystania z tego obiektu przez osoby niepełnosprawne które nie spowodują zmian uwarunkowań określonych w wydanej decyzji o środowiskowych uwarunkowaniach; ” , w ust. 3 zdanie drugie otrzymuje brzmienie: „ Złożenie wniosku powinno nastąpić w terminie 4 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna, z zastrzeżeniem ust. 4. ” , ust. 4 otrzymuje brzmienie: „
+- **1a)** decyzji, o których mowa w ust. 1 pkt 1, polegających na odstąpieniu od zatwierdzonego projektu budowlanego dotyczącym: charakterystycznych parametrów obiektu budowlanego: kubatury, powierzchni zabudowy, wysokości, długości, szerokości i liczby kondygnacji, zapewnienia warunków niezbędnych do korzystania z tego obiektu przez osoby niepełnosprawne – które nie spowodują zmian uwarunkowań określonych w wydanej decyzji o środowiskowych uwarunkowaniach; ” , w ust. 3 zdanie drugie otrzymuje brzmienie: „ Złożenie wniosku powinno nastąpić w terminie 4 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna, z zastrzeżeniem ust. 4. ” , ust. 4 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **d)**
@@ -130,8 +132,11 @@ source: "eli-html"
 
 2. Stronami w postępowaniu o przeniesienie decyzji o środowiskowych uwarunkowaniach są podmioty, między którymi ma być dokonane przeniesienie decyzji. ” ;
 
-- **12)** w art. 74: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 72 ust. 1 pkt 4 lub 5, prowadzonych w granicach przestrzeni niestanowiącej części składowej nieruchomości gruntowej oraz przedsięwzięć dotyczących urządzeń piętrzących I, II i III klasy budowli, zamiast kopii mapy, o której mowa w pkt 3 – mapę sytuacyjno-wysokościową sporządzoną w skali umożliwiającej szczegółowe przedstawienie przebiegu granic terenu, którego dotyczy wniosek, oraz obejmującą obszar, na który będzie oddziaływać przedsięwzięcie; ” , – pkt 6 otrzymuje brzmienie: „ 6) wypis z rejestru gruntów obejmujący przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz obejmujący obszar, na który będzie oddziaływać przedsięwzięcie, z zastrzeżeniem ust. 1a-1c. ” , po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
+- **12)** w art. 74: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 72 ust. 1 pkt 4 lub 5, prowadzonych w granicach przestrzeni niestanowiącej części składowej nieruchomości gruntowej oraz przedsięwzięć dotyczących urządzeń piętrzących I, II i III klasy budowli, zamiast kopii mapy, o której mowa w pkt 3 – mapę sytuacyjno-wysokościową sporządzoną w skali umożliwiającej szczegółowe przedstawienie przebiegu granic terenu, którego dotyczy wniosek, oraz obejmującą obszar, na który będzie oddziaływać przedsięwzięcie; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** wypis z rejestru gruntów obejmujący przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz obejmujący obszar, na który będzie oddziaływać przedsięwzięcie, z zastrzeżeniem ust. 1a-1c. ” , po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
     - **b)**
 
 1a. Jeżeli liczba stron w postępowaniu o wydanie decyzji o środowiskowych uwarunkowaniach przekracza 20, dla przedsięwzięć mogących zawsze znacząco oddziaływać na środowisko oraz dla przedsięwzięć mogących potencjalnie znacząco oddziaływać na środowisko, dla których stwierdzono obowiązek przeprowadzenia oceny oddziaływania na środowisko, wypis z rejestru, o którym mowa w ust. 1 pkt 6, przedkłada się wraz z raportem o oddziaływaniu przedsięwzięcia na środowisko.
@@ -185,9 +190,9 @@ source: "eli-html"
 - **1)** Generalnego Dyrektora Ochrony Środowiska – nie przysługuje wniosek o ponowne rozpatrzenie sprawy;
 - **2)** regionalnych dyrektorów ochrony środowiska – nie przysługuje zażalenie. ” .
 
-**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.) w art. 29 ust. 3 otrzymuje brzmienie: „ 3. Pozwolenia na budowę wymagają przedsięwzięcia, które wymagają przeprowadzenia oceny oddziaływania na środowisko, oraz przedsięwzięcia wymagające przeprowadzenia oceny oddziaływania na obszar Natura 2000, zgodnie z art. 59 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. ” .
+**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279 oraz z 2010 r. Nr 75, poz. 474 i Nr 106, poz. 675.) w art. 29 ust. 3 otrzymuje brzmienie: „ 3. Pozwolenia na budowę wymagają przedsięwzięcia, które wymagają przeprowadzenia oceny oddziaływania na środowisko, oraz przedsięwzięcia wymagające przeprowadzenia oceny oddziaływania na obszar Natura 2000, zgodnie z art. 59 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. ” .
 
-**Art. 3.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227 i Nr 76, poz. 489.) wprowadza się następujące zmiany:
 
 - **1)** w art. 152: ust. 3 i 4 otrzymują brzmienie: „
     - **a)**
@@ -204,7 +209,7 @@ source: "eli-html"
 - **2)** instalacja nie spełnia wymagań ochrony środowiska, o których mowa w art. 76 ust. 2 pkt 1 i 2. ” ;
 - **2)** uchyla się art. 381.
 
-**Art. 4.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124, Nr 75, poz. 474 i Nr 106, poz. 675.) wprowadza się następujące zmiany:
 
 - **1)** w art. 51 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** inwestycji celu publicznego na terenach zamkniętych – wojewoda; ” ;
@@ -217,8 +222,12 @@ source: "eli-html"
 
 **Art. 52a.** Gospodarka leśna nie narusza zakazów, o których mowa w art. 52 ust. 1 pkt 1, 3 – 5 i 11, jeżeli jest prowadzona na podstawie planów, które zostały poddane strategicznej ocenie oddziaływania na środowisko, obejmującej oddziaływanie na dziko występujące populacje gatunków będących przedmiotem zainteresowania Wspólnoty i chronionych gatunków ptaków, oraz ich siedliska, bądź jest prowadzona na podstawie kodeksu dobrych praktyk, których ustalenia zapewniają, że czynności wykonywane zgodnie z nimi nie są szkodliwe dla zachowania gatunku we właściwym stanie ochrony. ” ;
 
-- **2)** w art. 56: w ust. 4: – pkt 6 otrzymuje brzmienie: „ 6) umożliwiają, w ściśle kontrolowanych warunkach, selektywnie i w ograniczonym stopniu, zbiór lub przetrzymywanie roślin i grzybów oraz chwytanie lub przetrzymywanie zwierząt gatunków objętych ochroną ścisłą w liczbie określonej przez wydającego zezwolenie, lub ” , – dodaje się pkt 7 i 8 w brzmieniu: „ 7) w przypadku gatunków objętych ochroną ścisłą, gatunków ptaków oraz gatunków wymienionych w załączniku IV dyrektywy Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz. Urz. WE L 206 z 22.07.1992, str. 7, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 102) – wynikają z koniecznych wymogów nadrzędnego interesu publicznego, w tym wymogów o charakterze społecznym lub gospodarczym lub wymogów związanych z korzystnymi skutkami o podstawowym znaczeniu dla środowiska, lub 8) w przypadku innych gatunków niż wymienione w pkt 7 – wynikają ze słusznego interesu strony lub koniecznych wymogów nadrzędnego interesu publicznego, w tym wymogów o charakterze społecznym lub gospodarczym lub wymogów związanych z korzystnymi skutkami o podstawowym znaczeniu dla środowiska. ” , ust. 4a otrzymuje brzmienie: „
+- **2)** w art. 56: w ust. 4: pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** umożliwiają, w ściśle kontrolowanych warunkach, selektywnie i w ograniczonym stopniu, zbiór lub przetrzymywanie roślin i grzybów oraz chwytanie lub przetrzymywanie zwierząt gatunków objętych ochroną ścisłą w liczbie określonej przez wydającego zezwolenie, lub ” , dodaje się pkt 7 i 8 w brzmieniu: „
+- **7)** w przypadku gatunków objętych ochroną ścisłą, gatunków ptaków oraz gatunków wymienionych w załączniku IV dyrektywy Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz. Urz. WE L 206 z 22.07.1992, str. 7, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 102) – wynikają z koniecznych wymogów nadrzędnego interesu publicznego, w tym wymogów o charakterze społecznym lub gospodarczym lub wymogów związanych z korzystnymi skutkami o podstawowym znaczeniu dla środowiska, lub
+- **8)** w przypadku innych gatunków niż wymienione w pkt 7 – wynikają ze słusznego interesu strony lub koniecznych wymogów nadrzędnego interesu publicznego, w tym wymogów o charakterze społecznym lub gospodarczym lub wymogów związanych z korzystnymi skutkami o podstawowym znaczeniu dla środowiska. ” , ust. 4a otrzymuje brzmienie: „
     - **b)**
 
 4a. Warunek do wydania zezwolenia wymieniony w ust. 4 pkt 7 w przypadku gatunków ptaków dotyczy jedynie wydania zezwolenia na niszczenie ich siedlisk i ostoi. ” ;
@@ -258,7 +267,7 @@ source: "eli-html"
 
 **Art. 7.** Do spraw wszczętych na podstawie art. 123 ust. 1 ustawy zmienianej w art. 5 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 8.** Do zmian decyzji o środowiskowych uwarunkowaniach zgody na realizację przedsięwzięcia wydanych na podstawie przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.) stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+**Art. 8.** Do zmian decyzji o środowiskowych uwarunkowaniach zgody na realizację przedsięwzięcia wydanych na podstawie przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227 i Nr 76, poz. 489.) stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 145 i Nr 106, poz. 675. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279 oraz z 2010 r. Nr 75, poz. 474 i Nr 106, poz. 675. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279 oraz z 2010 r. Nr 75, poz. 474 i Nr 106, poz. 675. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227 i Nr 76, poz. 489. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124, Nr 75, poz. 474 i Nr 106, poz. 675. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227 i Nr 76, poz. 489.
 

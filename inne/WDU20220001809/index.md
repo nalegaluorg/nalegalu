@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Zagranicznychz dnia 18 sierpnia 2022 r. w sprawie wydawania wiz krajowych cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej
+# Rozporządzenie Ministra Spraw Zagranicznychz dnia 18 sierpnia 2022 r. w sprawie wydawania wiz krajowych cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-18 |
 | Data wydania | 2022-08-29 |
-| Wejście w życie | 2022-08-30 |
 | Ostatnia zmiana | 2025-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001809) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1809/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 79a ust. 6 i 7 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 79a ust. 6 i 7 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383 i 1561.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -62,7 +61,7 @@ Wniosek do ministra właściwego do spraw zagranicznych może złożyć także c
 1)
 Republiki Białorusi lub Ukrainy i będzie wykonywać pracę w charakterze kierowcy w międzynarodowym transporcie drogowym w rozumieniu art. 4 pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 180 i 209) lub w niezarobkowym międzynarodowym przewozie drogowym w rozumieniu art. 4 pkt 6 tej ustawy albo
 2)
-Ukrainy i będzie wykonywać pracę w charakterze pilota cywilnego statku powietrznego lub innego członka załogi, nieposiadającego certyfikatu członka załogi (CMC) określonego w załączniku nr 9 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm.).
+Ukrainy i będzie wykonywać pracę w charakterze pilota cywilnego statku powietrznego lub innego członka załogi, nieposiadającego certyfikatu członka załogi (CMC) określonego w załączniku nr 9 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm.Zmiany tekstu wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.).
 § 5.
 Przedsiębiorca, o którym mowa w art. 79a ust. 2 ustawy:
 1)
@@ -78,6 +77,5 @@ planuje terminy wizyt osób ubiegających się o wizę krajową;
 6)
 zwraca osobie ubiegającej się o wizę krajową dokumenty podróży oraz ewentualne dodatkowe dokumenty przekazane przez urząd obsługujący ministra właściwego do spraw zagranicznych.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383 i 1561. 3) Zmiany tekstu wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej – sprawy zagraniczne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz. 1469). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383 i 1561. 3) Zmiany tekstu wymienionej konwencji zostały ogłoszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.
 

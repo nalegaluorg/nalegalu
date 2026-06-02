@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-02 |
 | Data wydania | 2024-12-05 |
-| Wejście w życie | 2024-12-06 |
 | Ostatnia zmiana | 2024-12-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001788) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1788/text.pdf) |
 
@@ -31,21 +30,17 @@ Na podstawie art. 270 ust. 2 pkt 1–3 ustawy z dnia 11 marca 2022 r. o obronie 
 § 1.
 W rozporządzeniu Ministra Obrony Narodowej z dnia 20 maja 2022 r. w sprawie noszenia umundurowania przez żołnierzy (Dz. U. poz. 1237 oraz z 2024 r. poz. 64) w § 24:
 1)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
 w składzie ubioru polowego:
 a)
 kurtek ubrania ochronnego z rękawicami lub bez,
 b)
-w czasie realizacji zadań służbowych – butów typu taktycznego w kolorze brązowym, sięgających za kostkę, innych od określonego wzoru;
-” ;
+w czasie realizacji zadań służbowych – butów typu taktycznego w kolorze brązowym, sięgających za kostkę, innych od określonego wzoru; ” ;
 2)
-po pkt 5 dodaje się pkt 5a w brzmieniu:
-„
+po pkt 5 dodaje się pkt 5a w brzmieniu: „
 5a)
-w składzie ubioru ćwiczebnego w czasie realizacji zadań służbowych – butów typu taktycznego w kolorze brązowym sięgających za kostkę, innych od określonego wzoru;
-” .
+w składzie ubioru ćwiczebnego w czasie realizacji zadań służbowych – butów typu taktycznego w kolorze brązowym sięgających za kostkę, innych od określonego wzoru; ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 marca 2024 r. w sprawie przekazywania tytułu wykonawczego i innych dokumentów do organu egzekucyjnego
+# Rozporządzenie Ministra Finansówz dnia 21 marca 2024 r. w sprawie przekazywania tytułu wykonawczego i innych dokumentów do organu egzekucyjnego Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-21 |
 | Data wydania | 2024-03-22 |
-| Wejście w życie | 2024-03-25 |
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/432/text.pdf) |
 
@@ -87,6 +86,5 @@ Przepisy § 3, § 4 i § 6–8 stosuje się odpowiednio do zmienionego tytułu w
 § 10.
 Do przekazywania wniosku egzekucyjnego, tytułu wykonawczego oraz informacji pomiędzy wierzycielem i organem egzekucyjnym dokonywanego przed dniem, w którym ostatni z podmiotów, pomiędzy którymi dokonywane jest przekazanie, stał się obowiązany do stosowania przepisów ustawy o doręczeniach elektronicznych w zakresie doręczania korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego, stosuje się przepisy dotychczasowe.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 25 marca 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 lipca 2020 r. w sprawie przekazywania tytułu wykonawczego i innych dokumentów do organu egzekucyjnego (Dz. U. poz. 1310), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059).
+Rozporządzenie wchodzi w życie z dniem 25 marca 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 lipca 2020 r. w sprawie przekazywania tytułu wykonawczego i innych dokumentów do organu egzekucyjnego (Dz. U. poz. 1310), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 lipca 2020 r. w sprawie przekazywania tytułu wykonawczego i innych dokumentów do organu egzekucyjnego (Dz. U. poz. 1310), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 22 ust. 1 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059).
 

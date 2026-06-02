@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-06 |
 | Data wydania | 2012-11-20 |
-| Wejście w życie | 2012-11-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1274/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Szczegółowy opis granic i obszaru wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie
 Treść rozporządzenia
-Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673, z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529 oraz z 2012 r. poz. 908 i 1116.) zarządza się, co następuje:
 § 1.
 Określa się, w załączniku do rozporządzenia, granice i obszar wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie, ustanowionego rozporządzeniem Rady Ministrów z dnia 26 października 1992 r. w sprawie ustanowienia wolnego obszaru celnego na terenie Międzynarodowego Portu Lotniczego Warszawa-Okęcie (Dz. U. Nr 80, poz. 407, z 1993 r. Nr 95, poz. 432, z 2007 r. Nr 3, poz. 26, z 2010 r. Nr 2, poz. 5 oraz z 2011 r. Nr 94, poz. 554).
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2008 r. Nr 209, poz. 1320 i Nr 215, poz. 1355, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 106, poz. 673, z 2011 r. Nr 106, poz. 622 i Nr 254, poz. 1529 oraz z 2012 r. poz. 908 i 1116.
 Załącznik – Szczegółowy opis granic i obszaru wolnego obszaru celnego na terenie Portu Lotniczego im. Fryderyka Chopina w Warszawie
 Wolny obszar celny jest zlokalizowany w budynku Terminalu Pasażerskiego Portu Lotniczego im. Fryderyka Chopina w Warszawie i stanowi strefę zamkniętą odcinkami ścian określonymi w poniższym opisie granicy wolnego obszaru celnego. Z uwagi na usytuowanie wewnątrz budynku, odgraniczenie wolnego obszaru celnego stanowią trwałe elementy budowlane. Opis przebiegu granic wolnego obszaru celnego jest przedstawiony na mapie w skali 1:5000. Dokument zawierający opis przebiegu granic wolnego obszaru celnego wraz z mapą jest przechowywany u zarządzającego wolnym obszarem celnym oraz w postaci kopii we właściwej miejscowo izbie celnej nadzorującej wolny obszar celny oraz w Ministerstwie Finansów. Granicę wolnego obszaru celnego na poziomie -5,6 w Terminalu A stanowią następujące odcinki ścian:
 1)
@@ -113,8 +112,7 @@ przestrzeń o szerokości 3,3 m w pomieszczeniu 0–160;
 38)
 dwa odcinki ściany o długości: 2,5 m, 28,7 m z dwoma otworami drzwiowymi, w pomieszczeniu 0–160;
 39)
-ściana o długości 3,4 m oraz przegroda o długości 3,2 m z jednym otworem drzwiowym, w pomieszczeniu 0–159.
-Granicę wolnego obszaru celnego na poziomie +/-0 w pirsie północnym stanowią następujące odcinki ścian:
+ściana o długości 3,4 m oraz przegroda o długości 3,2 m z jednym otworem drzwiowym, w pomieszczeniu 0–159. Granicę wolnego obszaru celnego na poziomie +/-0 w pirsie północnym stanowią następujące odcinki ścian:
 1)
 pięć odcinków ściany o długości: 14,2 m z jednym otworem drzwiowym, 47,6 m, 0,9 m, 0,6 m, 8,5 m, w pomieszczeniach: 1–064, 1–065;
 2)
@@ -162,8 +160,7 @@ trzy odcinki ściany o długości: 8,2 m, 2,4 m, 3,3 m, w pomieszczeniu 1–068;
 23)
 ściana o długości 11,4 m w pomieszczeniach: 1–060, 1–611, 1–610, 1–056;
 24)
-ściana o długości 2,9 m w pomieszczeniu 1–056.
-Granicę wolnego obszaru celnego na poziomie +5,3 w Terminalu A stanowią następujące odcinki ścian:
+ściana o długości 2,9 m w pomieszczeniu 1–056. Granicę wolnego obszaru celnego na poziomie +5,3 w Terminalu A stanowią następujące odcinki ścian:
 1)
 trzy odcinki ściany o długości: 167,4 m z czterema otworami drzwiowymi, 5 m, 0,4 m, w pomieszczeniu 2–358;
 2)
@@ -233,8 +230,7 @@ przestrzeń o szerokości 5,1 m oddzielająca pomieszczenie 2–096 od strefy 2�
 34)
 ściana o długości 140,2 m w pomieszczeniach: 2–345, 2–363, 2–364, 2–379, 2–384;
 35)
-dwa odcinki ściany o długości: 8,1 m, 16,2 m, w pomieszczeniach: 2–345, 2–358.
-Granicę wolnego obszaru celnego na poziomie +9,7 w Terminalu A stanowią następujące odcinki ścian:
+dwa odcinki ściany o długości: 8,1 m, 16,2 m, w pomieszczeniach: 2–345, 2–358. Granicę wolnego obszaru celnego na poziomie +9,7 w Terminalu A stanowią następujące odcinki ścian:
 1)
 balustrada o długości 4,2 m na kładce 3–090;
 2)
@@ -292,6 +288,5 @@ trzy odcinki ściany stanowiące obudowę szybu windowego 3–280;
 28)
 balustrada o długości 4,2 m wzdłuż kładki 3–269;
 29)
-schody ruchome 3–242 i schody piesze 3–241, stanowiące łącznik do poziomu odlotów +5,3.
-Łączny obszar wolnego obszaru celnego wynosi 27 338 m˛.
+schody ruchome 3–242 i schody piesze 3–241, stanowiące łącznik do poziomu odlotów +5,3. Łączny obszar wolnego obszaru celnego wynosi 27 338 m˛.
 

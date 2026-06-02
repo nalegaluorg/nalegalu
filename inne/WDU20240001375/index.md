@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 13 września 2024 r. zmieniające rozporządzenie w sprawie sposobu dokumentowania chorób zawodowych i skutków tych chorób
+# Rozporządzenie Ministra Zdrowiaz dnia 13 września 2024 r. zmieniające rozporządzenie w sprawie sposobu dokumentowania chorób zawodowych i skutków tych chorób Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-13 |
 | Data wydania | 2024-09-17 |
-| Wejście w życie | 2024-09-25 |
 | Ostatnia zmiana | 2024-10-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001375) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1375/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 237 § 4 pkt 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pra
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 1 sierpnia 2002 r. w sprawie sposobu dokumentowania chorób zawodowych i skutków tych chorób (Dz. U. z 2013 r. poz. 1379, z 2019 r. poz. 2067 oraz z 2021 r. poz. 1288) w załącznikach nr 7 i 8 do rozporządzenia wyrazy „art. 5 pkt 4a” zastępuje się wyrazami „art. 5 ust. 1 pkt 4a”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

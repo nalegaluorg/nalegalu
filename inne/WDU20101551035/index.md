@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-06-25 |
 | Data wydania | 2010-08-25 |
-| Wejście w życie | 2010-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101551035) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1035/text.pdf) |
 
@@ -37,11 +36,9 @@ rozwoju systemu pieczy zastępczej nad dzieckiem;
 5)
 koordynowania i organizowania współpracy organów administracji publicznej, organizacji pozarządowych i instytucji w zakresie realizacji praw rodziny i dziecka;
 6)
-współpracy międzynarodowej dotyczącej realizacji i ochrony praw rodziny i dziecka.
-” ;
+współpracy międzynarodowej dotyczącej realizacji i ochrony praw rodziny i dziecka. ” ;
 3)
-w art. 31 ust. 1 otrzymuje brzmienie:
-„
+w art. 31 ust. 1 otrzymuje brzmienie: „
 1.
 1)
 ubezpieczeń społecznych i zaopatrzenia społecznego;
@@ -62,10 +59,9 @@ koordynacji systemów zabezpieczenia społecznego, z wyjątkiem rzeczowych świa
 9)
 działalności pożytku publicznego, w tym nadzoru nad prowadzeniem tej działalności przez organizacje pożytku publicznego;
 10)
-koordynowania i organizowania współpracy organów administracji publicznej, podmiotów działających w sferze pożytku publicznego, w tym organizacji pozarządowych.
-” .
+koordynowania i organizowania współpracy organów administracji publicznej, podmiotów działających w sferze pożytku publicznego, w tym organizacji pozarządowych. ” .
 
-**Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 107, poz. 732, Nr 120, poz. 818 i Nr 173, poz. 1218, z 2008 r. Nr 63, poz. 394, Nr 199, poz. 1227, Nr 201, poz. 1237, Nr 216, poz. 1370 i Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 337, Nr 68, poz. 574, Nr 77, poz. 649, Nr 157, poz. 1241, Nr 161, poz. 1277, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 143 i 146, Nr 107, poz. 679 i Nr 127, poz. 857.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 pkt 23a otrzymuje brzmienie: „
 - **23a)** rodzina; ” ;
@@ -77,5 +73,5 @@ koordynowania i organizowania współpracy organów administracji publicznej, po
 
 ### Dział zabezpieczenie społeczne obejmuje sprawy:
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 107, poz. 732, Nr 120, poz. 818 i Nr 173, poz. 1218, z 2008 r. Nr 63, poz. 394, Nr 199, poz. 1227, Nr 201, poz. 1237, Nr 216, poz. 1370 i Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 337, Nr 68, poz. 574, Nr 77, poz. 649, Nr 157, poz. 1241, Nr 161, poz. 1277, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 143 i 146, Nr 107, poz. 679 i Nr 127, poz. 857.
 

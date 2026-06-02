@@ -36,18 +36,14 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 20 lutego 2009 r. w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki (Dz. U. z 2015 r. poz. 1109), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 16 sierpnia 2018 r. zmieniającym rozporządzenie w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki (Dz. U. poz. 1626).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 rozporządzenia Ministra Zdrowia z dnia 16 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki (Dz. U. poz. 1626), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 rozporządzenia Ministra Zdrowia z dnia 16 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki (Dz. U. poz. 1626), które stanowią: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji:
 1)
 wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/62/UE z dnia 8 czerwca 2011 r. zmieniającą dyrektywę 2001/83/WE w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi – w zakresie zapobiegania wprowadzaniu sfałszowanych produktów leczniczych do legalnego łańcucha dystrybucji (Dz. Urz. UE L 174 z 01.07.2011, str. 74);
 2)
-służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2016/161 z dnia 2 października 2015 r. uzupełniającego dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady przez określenie szczegółowych zasad dotyczących zabezpieczeń umieszczanych na opakowaniach produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 32 z 09.02.2016, str. 1).
-”
-„
+służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2016/161 z dnia 2 października 2015 r. uzupełniającego dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady przez określenie szczegółowych zasad dotyczących zabezpieczeń umieszczanych na opakowaniach produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 32 z 09.02.2016, str. 1). ” „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 9 lutego 2019 r.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 20 lutego 2009 r. w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 9 lutego 2019 r. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 20 lutego 2009 r. w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotkiMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 Na podstawie art. 26 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944 i 1493) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wymagania dotyczące oznakowania opakowań produktu leczniczego i treści ulotki oraz zakres dostępności treści ulotki w formie właściwej dla osób niewidomych i słabowidzących.
@@ -102,15 +98,14 @@ numer serii,
 instrukcję użycia, jeżeli produkt leczniczy jest wydawany bez przepisu lekarza,
 15)
 kod kreskowy EAN UCC,
-15a)
+15aDodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 16 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki (Dz. U. poz. 1626), które weszło w życie z dniem 24 sierpnia 2018 r.; wszedł w życie z dniem 9 lutego 2019 r.)
 w przypadku produktu leczniczego, o którym mowa w art. 54a ust. 1 dyrektywy 2001/83/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi, zabezpieczenia, o których mowa w art. 54 lit. o tej dyrektywy lub art. 42a ust. 2 ustawy,
 16)
 w przypadku tradycyjnego produktu leczniczego roślinnego:
 a)
 informację, że jego wskazanie opiera się wyłącznie na długim okresie stosowania,
 b)
-zalecenie, że użytkownik powinien skonsultować się z lekarzem, jeżeli objawy nie ustępują w czasie stosowania produktu lub występują działania niepożądane, niewymienione w ulotce
-z zastrzeżeniem § 9, 10, 11.
+zalecenie, że użytkownik powinien skonsultować się z lekarzem, jeżeli objawy nie ustępują w czasie stosowania produktu lub występują działania niepożądane, niewymienione w ulotce – z zastrzeżeniem § 9, 10, 11.
 2.
 Oznakowanie produktu leczniczego umieszcza się w sposób trwały na etykiecie przymocowanej do opakowania lub bezpośrednio na opakowaniu.
 § 4.
@@ -136,8 +131,7 @@ termin ważności (miesiąc i rok),
 d)
 numer serii,
 e)
-zawartość opakowania bezpośredniego, z podaniem masy, objętości lub liczby jednostek dawki produktu leczniczego
-z zastrzeżeniem § 8, 12, 14.
+zawartość opakowania bezpośredniego, z podaniem masy, objętości lub liczby jednostek dawki produktu leczniczego – z zastrzeżeniem § 8, 12, 14.
 § 5.
 1.
 Do każdego opakowania produktu leczniczego dołącza się ulotkę, chyba że opakowanie zewnętrzne lub opakowanie bezpośrednie oznakowano zgodnie z wymaganiami określonymi w § 6.
@@ -168,7 +162,7 @@ ostrzeżenia specjalne dotyczące:
 – wpływu na zdolność prowadzenia pojazdów i obsługiwania maszyn,
 – substancji pomocniczych, o których mowa w § 3 ust. 1 pkt 3, mających istotne znaczenie dla właściwego stosowania produktu leczniczego,
 4)
-informacje niezbędne do prawidłowego stosowania produktu leczniczego, w szczególności:
+informacje niezbędne do prawidłowego stosowania produktu leczniczego, w szczególności:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3.
 a)
 dawkowanie,
 b)
@@ -188,7 +182,7 @@ zalecenie zasięgnięcia porady lekarza lub farmaceuty w celu uzyskania wyjaśni
 5)
 opis działań niepożądanych, które mogą wystąpić w wyniku zwykłego zastosowania produktu leczniczego, oraz jeżeli jest to konieczne – opis postępowania, które należy podjąć w razie ich wystąpienia,
 6)
-odniesienie do terminu ważności podanego na opakowaniu, wraz z następującymi informacjami:
+odniesienie do terminu ważności podanego na opakowaniu, wraz z następującymi informacjami:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3.
 a)
 ostrzeżenie o zakazie stosowania produktu leczniczego po upływie terminu ważności,
 b)
@@ -203,11 +197,10 @@ f)
 nazwę i adres podmiotu odpowiedzialnego i jeżeli dotyczy – nazwę przedstawiciela na terytorium Rzeczypospolitej Polskiej,
 g)
 nazwę i adres wytwórcy lub importera, u którego następuje zwolnienie serii,
-7)
+7W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3.)
 nazwy produktu leczniczego w innych państwach członkowskich Unii Europejskiej, w przypadku gdy produkt został dopuszczony do obrotu w procedurze europejskiej, o ile są różne,
 8)
-datę zatwierdzenia tekstu ulotki
-z zastrzeżeniem § 7, § 9, § 11, § 13 i § 14.
+datę zatwierdzenia tekstu ulotki – z zastrzeżeniem § 7, § 9, § 11, § 13 i § 14.
 2.
 W ulotce dołączanej do opakowania produktu leczniczego zamieszcza się informację skierowaną do pacjentów, ich przedstawicieli ustawowych lub opiekunów faktycznych, dotyczącą możliwości zgłaszania pojedynczych przypadków działań niepożądanych, o których mowa w ust. 1 pkt 5, osobie wykonującej zawód medyczny, podmiotowi odpowiedzialnemu lub Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, w formie dogodnej dla zgłaszającego, w tym za pomocą formularza elektronicznego dostępnego na stronie internetowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 3.
@@ -218,7 +211,7 @@ czarny symbol wybrany zgodnie z art. 23 rozporządzenia (WE) nr 726/2004 Parlame
 sformułowanie: „Ten produkt leczniczy podlega dodatkowemu monitorowaniu z uwagi na konieczność pozyskiwania szczegółowych danych dotyczących bezpieczeństwa jego stosowania.” następujące po symbolu, o którym mowa w pkt 1.
 § 7.
 1.
-Na opakowaniu zewnętrznym i w ulotce mogą być zamieszczone symbole lub piktogramy, mające na celu podanie w przystępniejszej formie niektórych informacji określonych w § 3 ust. 1 i w § 6, lub dodatkowe informacje dotyczące produktu leczniczego, zgodne z danymi zawartymi w Charakterystyce Produktu Leczniczego, jeżeli są użyteczne do celów promocji zdrowia i nie zawierają elementów reklamy. Umieszczone symbole lub piktogramy muszą być zatwierdzone w procesie dopuszczenia do obrotu produktu leczniczego.
+Na opakowaniu zewnętrznym i w ulotce mogą być zamieszczone symbole lub piktogramy, mające na celu podanie w przystępniejszej formie niektórych informacji określonych w § 3 ust. 1 i w § 6, lub dodatkowe informacje dotyczące produktu leczniczego, zgodne z danymi zawartymi w Charakterystyce Produktu Leczniczego, jeżeli są użyteczne do celów promocji zdrowia i nie zawierają elementów reklamy. Umieszczone symbole lub piktogramy muszą być zatwierdzone w procesie dopuszczenia do obrotu produktu leczniczego.Zdanie drugie w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.
 2.
 Wszystkie dane umieszczone na opakowaniu zewnętrznym i opakowaniu bezpośrednim muszą być czytelne, zrozumiałe i nieusuwalne.
 § 8.
@@ -294,7 +287,7 @@ numer serii.
 W ulotce dołączonej do opakowania produktu leczniczego homeopatycznego, o którym mowa w § 10, zamieszcza się informacje wymienione w § 6, a ponadto, w ramach informacji umożliwiających identyfikację produktu homeopatycznego – podaje się określenie „homeopatyczny produkt leczniczy ze wskazaniami leczniczymi”.
 § 14.
 1.
-Na opakowaniu zewnętrznym produktu leczniczego przeznaczonego do specjalnych celów żywieniowych, a jeżeli produkt ten nie ma opakowania zewnętrznego – na opakowaniu bezpośrednim zamieszcza się informacje określone w § 3, a ponadto wtedy, gdy to dotyczy produktu, zamieszcza się następujące informacje:
+Na opakowaniu zewnętrznym produktu leczniczego przeznaczonego do specjalnych celów żywieniowych, a jeżeli produkt ten nie ma opakowania zewnętrznego – na opakowaniu bezpośrednim zamieszcza się informacje określoneZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. w § 3, a ponadto wtedy, gdy to dotyczy produktu, zamieszcza się następujące informacje:
 1)
 wartość energetyczną wyrażoną w kJ i kcal oraz zawartość białka, węglowodanów i tłuszczów, wyrażoną liczbowo jako zawartość w 100 g lub 100 ml produktu występującego w obrocie i jeżeli to dotyczy – na 100 g lub 100 ml produktu gotowego do użytku, zgodnie z zaleceniami wytwórcy; informacje te mogą ponadto być podane w przeliczeniu na posiłek wielkości wyszczególnionej na opakowaniu lub w przeliczeniu na porcję, pod warunkiem że podano liczbę porcji w opakowaniu;
 2)
@@ -336,15 +329,14 @@ Wymagania dotyczące sposobu sporządzania oznakowania opakowań określa załą
 Wymagania dotyczące sposobu sporządzania ulotki określa załącznik nr 2 do rozporządzenia.
 § 17.
 Oznakowanie opakowań oraz ulotkę sporządza się w języku polskim. Dopuszcza się równoczesne podanie informacji w innych językach urzędowych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, pod warunkiem zachowania zgodności treści podanej w języku polskim.
-§ 18.
+§ 18W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3..
 Treść ulotki i oznakowanie opakowań nie może zawierać elementów promocyjnych ani podawać właściwości czy wskazań do stosowania, które nie są zawarte w Charakterystyce Produktu Leczniczego, oraz nie może zachęcać do nieuzasadnionego wskazaniami stosowania produktu leczniczego.
 § 19.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 3) Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 16 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki (Dz. U. poz. 1626), które weszło w życie z dniem 24 sierpnia 2018 r.; wszedł w życie z dniem 9 lutego 2019 r. 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3. 7) Zdanie drugie w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 8) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 9) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 10) Rozporządzenie zostało ogłoszone w dniu 13 marca 2009 r. 11) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 19 grudnia 2002 r. w sprawie wymagań dotyczących oznakowania opakowania produktu leczniczego oraz treści ulotek (Dz. U. poz. 1978), które utraciło moc z dniem 1 listopada 2008 r. na podstawie art. 15 ustawy z dnia 30 marca 2007 r. o zmianie ustawy – Prawo farmaceutyczne oraz o zmianie niektórych innych ustaw (Dz. U. poz. 492).
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 13 marca 2009 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 19 grudnia 2002 r. w sprawie wymagań dotyczących oznakowania opakowania produktu leczniczego oraz treści ulotek (Dz. U. poz. 1978), które utraciło moc z dniem 1 listopada 2008 r. na podstawie art. 15 ustawy z dnia 30 marca 2007 r. o zmianie ustawy – Prawo farmaceutyczne oraz o zmianie niektórych innych ustaw (Dz. U. poz. 492). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 3) Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 16 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki (Dz. U. poz. 1626), które weszło w życie z dniem 24 sierpnia 2018 r.; wszedł w życie z dniem 9 lutego 2019 r. 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3. 7) Zdanie drugie w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 8) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 9) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 10) Rozporządzenie zostało ogłoszone w dniu 13 marca 2009 r. 11) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 19 grudnia 2002 r. w sprawie wymagań dotyczących oznakowania opakowania produktu leczniczego oraz treści ulotek (Dz. U. poz. 1978), które utraciło moc z dniem 1 listopada 2008 r. na podstawie art. 15 ustawy z dnia 30 marca 2007 r. o zmianie ustawy – Prawo farmaceutyczne oraz o zmianie niektórych innych ustaw (Dz. U. poz. 492).
 
 ## Załącznik nr 1 — – Wymagania dotyczące sposobu sporządzania oznakowania opakowań
 
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Nazwa produktu leczniczego Informacje określone w § 3 ust. 1 pkt 1 lit. a-c rozporządzenia mogą być pisane różną czcionką i zamieszczane w różnych wierszach, ale tak, aby znajdowały się w jednym polu widzenia.
 2.
 Skład jakościowy i ilościowy substancji czynnej Nazwa substancji czynnej Nazwa substancji czynnej może być zamieszczona poniżej wiersza z informacją dotyczącą nazwy, mocy i postaci farmaceutycznej, lecz w jednym polu widzenia. Zawartość substancji czynnej
@@ -358,7 +350,7 @@ na jednostkę objętości (jeżeli jest to właściwe dla danej postaci farmaceu
 na jednostkę masy (jeżeli jest to właściwe dla danej postaci farmaceutycznej).
 B.
 Jeżeli substancja czynna występuje w postaci związku lub pochodnej (np.: soli lub estru), to jej zawartość najlepiej wyrazić w przeliczeniu na ilość aktywnej części cząsteczki, a nie jako ilość całego związku. Jeżeli substancja czynna tworzy sole in situ, to jej zawartość wyraża się w odniesieniu do aktywnej części cząsteczki, po czym podaje się, jaka sól powstaje („tworzy in situ sól...”).
-C.
+CW brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Różne dawki tej samej substancji określa się w ten sam sposób (niewłaściwe jest użycie w tekście np. 250 mg i 0,25 g), przy czym należy unikać ułamków dziesiętnych, gdyż przy pisaniu tych ułamków przecinek może być łatwo pominięty. Tak więc w zakresie od 1 do 999 mg dawkę należy podawać w miligramach, a nie w gramach. W celu uniknięcia pomyłki mikrogramy zapisuje się całym słowem, a nie skrótem jednostki, chyba że nie ma możliwości użycia czcionki wielkości nie mniejszej niż 7 punktów typograficznych, o których mowa w ust. 11. Dla produktów biologicznych, tam gdzie jest to możliwe, należy stosować jednostki międzynarodowe (j.m.).
 D.
 Produkty lecznicze do podawania pozajelitowego W informacjach zamieszczonych na opakowaniach jednodawkowych produktów leczniczych do stosowania pozajelitowego zawartość substancji czynnej podaje się w przeliczeniu na 1 ml oraz na całą objętość. W informacjach na opakowaniach wielodawkowych lub o dużych objętościach (np. płyny infuzyjne) zawartość substancji czynnej podaje się odpowiednio w przeliczeniu na 1 ml, na 100 ml lub na 1000 ml. W przypadku produktów leczniczych o dużych objętościach, zawierających sole nieorganiczne, zawartość tych soli podaje się również w milimolach.
@@ -403,8 +395,7 @@ zawartość substancji czynnych w jednym plastrze;
 2)
 średnią dawkę dostarczaną pacjentowi w jednostce czasu (np. dawkę wchłoniętą w ciągu godziny, doby);
 3)
-powierzchnię przylegania.
-Każdą z tych informacji podaje się w sposób przejrzysty i oddzielnie, tak aby można je było odróżnić od siebie i aby nie mogło nastąpić pomylenie tych informacji podczas wydawania produktu leczniczego.
+powierzchnię przylegania. Każdą z tych informacji podaje się w sposób przejrzysty i oddzielnie, tak aby można je było odróżnić od siebie i aby nie mogło nastąpić pomylenie tych informacji podczas wydawania produktu leczniczego.
 F.
 Preparaty wielodawkowe stałe i półpłynne (proszki niedzielone, granulaty, maści i kremy) Zawartość substancji czynnej określa się w odniesieniu do jednostki dawkowania albo na gram, albo jako procent.
 G.
@@ -416,28 +407,28 @@ zawartość substancji czynnych w jednym implancie lub wkładce;
 3)
 całkowity czas (np. godziny, dni), w którym ta średnia dawka będzie dostarczana.
 3.
-Postać farmaceutyczna i jej zawartość w opakowaniu Określając postać farmaceutyczną, należy korzystać z aktualnego ujednoliconego nazewnictwa Farmakopei Polskiej lub wykazu terminów standardowych Farmakopei Europejskiej. Lista ta zawiera również skrócone nazwy niektórych postaci farmaceutycznych, jednak można je stosować wyłącznie na małych etykietach, gdy nie ma miejsca na zamieszczenie pełnej nazwy drukowanej czcionką wielkości co najmniej 7 punktów typograficznych, o których mowa w ust. 11. Zawartość produktu leczniczego w opakowaniu określa się, podając odpowiednio masę, objętość, liczbę dawek (liczbę dawek roztworu, liczbę rozpyleń inhalatora itp.), liczbę jednostek dawkowania lub wielkość opakowania.
+Postać farmaceutyczna i jej zawartość w opakowaniu Określając postać farmaceutyczną, należy korzystać z aktualnego ujednoliconego nazewnictwa Farmakopei Polskiej lub wykazu terminów standardowych Farmakopei Europejskiej. Lista ta zawiera również skrócone nazwy niektórych postaci farmaceutycznych, jednak można je stosować wyłącznie na małych etykietach, gdy nie ma miejsca na zamieszczenie pełnej nazwy drukowanej czcionką wielkości co najmniej 7 punktów typograficznych, o których mowa w ust. 11.Akapit pierwszy w brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 3. Zawartość produktu leczniczego w opakowaniu określa się, podając odpowiednio masę, objętość, liczbę dawek (liczbę dawek roztworu, liczbę rozpyleń inhalatora itp.), liczbę jednostek dawkowania lub wielkość opakowania.
 4.
 Sposób podawania i droga podania Określając drogę podania, należy korzystać z aktualnego ujednoliconego nazewnictwa Farmakopei Polskiej oraz z wykazu terminów standardowych Farmakopei Europejskiej. Niektóre z tych informacji są szczególnie potrzebne w przypadku produktów leczniczych dostępnych bez recepty.
 5.
 Termin ważności
 A.
 Określenie terminu ważności Termin ważności należy wyrażać w sposób zrozumiały, niezaszyfrowany, z podaniem miesiąca i roku, przy czym miesiąc przedstawia się jako 2 cyfry lub co najmniej 3 litery, a rok – jako 4 cyfry. Termin ważności zamieszczony na produktach leczniczych, podający miesiąc i rok, należy rozumieć jako określenie ostatniego dnia danego miesiąca w tym roku.
-B.
+BW brzmieniu ustalonym przez § 1 pkt 6 lit. d rozporządzenia, o którym mowa w odnośniku 3..
 Określenie terminu ważności po otwarciu opakowania Jeżeli trwałość danego produktu leczniczego jest zmniejszona, np. w wyniku rozcieńczania, zmieszania z rozpuszczalnikiem lub otwarcia opakowania, podaje się maksymalny termin ważności produktu leczniczego. Ponadto, jeżeli maksymalny termin przydatności zależy od sposobu rozpuszczania lub rodzaju rozpuszczalnika, w informacji na opakowaniu zamieszcza się zalecenie zapoznania się z informacją znajdującą się w ulotce. W przypadku niektórych produktów, takich jak produkty radiofarmaceutyczne lub niektóre szczepionki, może być konieczne dokładniejsze określenie zarówno terminu ważności, jak i czasu przechowywania po otwarciu pojemnika lub pierwszym użyciu produktu (podanie godziny, dnia, miesiąca i roku). Na opakowaniach zamiast określenia „Terminu ważności” można użyć skrótu „EXP”, o ile dla określenia numeru serii użyto skrótu „Lot”, albo skrótu „Tw”, o ile dla określenia numeru serii użyto skrótu „S”, z koniecznością objaśnienia znaczenia skrótu na opakowaniu zewnętrznym lub bezpośrednim lub jeżeli to niemożliwe – w ulotce dla pacjenta w pkt 5: „Termin ważności (EXP)” albo „Termin ważności (Tw)”.
 6.
-Warunki przechowywania Warunki przechowywania w informacji na opakowaniu podaje się zgodnie z Charakterystyką Produktu Leczniczego. Jeżeli to konieczne, zamieszcza się dalsze krótkie wyjaśnienie dotyczące warunków przechowywania, w sposób zrozumiały dla pacjenta. Jeżeli jest to konieczne, zamieszcza się również ostrzeżenie o widocznych oznakach rozkładu produktu
+Warunki przechowywania Warunki przechowywania w informacji na opakowaniu podaje się zgodnie z Charakterystyką Produktu Leczniczego. Jeżeli to konieczne, zamieszcza się dalsze krótkie wyjaśnienie dotyczące warunków przechowywania, w sposób zrozumiały dla pacjenta.Zdanie drugie w brzmieniu ustalonym przez § 1 pkt 6 lit. e rozporządzenia, o którym mowa w odnośniku 3. Jeżeli jest to konieczne, zamieszcza się również ostrzeżenie o widocznych oznakach rozkładu produktu
 7.
 Nazwa i adres podmiotu odpowiedzialnego; dotyczy podmiotu posiadającego pozwolenie na dopuszczenie do obrotu produktu leczniczego.
 8.
 Numer (lub numery) pozwolenia; dotyczy numeru (numerów) pozwolenia na dopuszczenie do obrotu produktu leczniczego.
-9.
+9W brzmieniu ustalonym przez § 1 pkt 6 lit. f rozporządzenia, o którym mowa w odnośniku 3..
 Numer serii; dotyczy numeru zwalnianej serii u wytwórcy. Na opakowaniach zamiast określenia „Numer serii” można użyć skrótu „Lot”, o ile dla określenia terminu ważności użyto skrótu „EXP”, albo skrótu „S”, o ile dla określenia terminu ważności użyto skrótu „Tw”, z koniecznością objaśnienia znaczenia skrótu na opakowaniu zewnętrznym lub bezpośrednim lub jeżeli to niemożliwe – w ulotce dla pacjenta w pkt 5: „Numer serii (Lot)” albo „Numer serii (S)”.
 10.
 Przykłady symboli lub piktogramów, które mogą być zamieszczane na opakowaniach:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 6 lit. g rozporządzenia, o którym mowa w odnośniku 3.)
 piktogram znaku drogowego zakazującego – produkty lecznicze silnie zaburzające sprawność psychofizyczną; bezwzględny zakaz prowadzenia pojazdów i obsługiwania urządzeń mechanicznych w ruchu przez 24 godziny po zastosowaniu;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. g rozporządzenia, o którym mowa w odnośniku 3.)
 piktogram znaku drogowego ostrzegawczego – produkty lecznicze, które mogą zaburzać sprawność psychofizyczną; jeżeli przepisana dawka i droga podania wskazują, że w okresie stosowania może pojawić się wyraźne zaburzenie sprawności psychofizycznej, to należy udzielić pacjentowi wskazówek co do konieczności zachowania szczególnej ostrożności podczas prowadzenia pojazdów lub obsługiwania urządzeń mechanicznych w ruchu lub o konieczności czasowego zaniechania takich czynności;
 3)
 piktogram oka – produkty lecznicze podawane do oka;
@@ -449,15 +440,14 @@ piktogram nosa – produkty lecznicze podawane do nosa;
 piktogram profilu twarzy wraz z rozpylanym aerozolem – aerozole do wdychania;
 7)
 piktogram radioaktywności – produkty lecznicze zawierające radionuklidy.
-11.
+11W brzmieniu ustalonym przez § 1 pkt 6 lit. h rozporządzenia, o którym mowa w odnośniku 3..
 Do oznakowania opakowania produktu leczniczego stosuje się odpowiednio przepisy części II i III załącznika nr 2 do rozporządzenia. Informacje zamieszczane na oznakowaniu opakowań dla leków gotowych drukuje się czcionką wielkości co najmniej 7 punktów typograficznych (z zastrzeżeniem, że niezależnie od spełniania powyższego wymogu co do samej liczby punktów pozwala się drukować również czcionką wielkości takiej, aby wysokość „x” wynosiła co najmniej 1,4 mm), z odstępem między wierszami wynoszącym co najmniej 3 mm.
 12.
-Jeżeli w przypadku niektórych produktów leczniczych spełnienie wymagań określonych w ust. 11 jest utrudnione, należy podejmować wszelkie możliwe działania w celu zwiększenia powierzchni oznakowania bez zmiany rozmiaru opakowania, np. etykietę można wydłużyć i poszerzyć albo tekst obrócić o 90° bez zmiany wielkości opakowania. Gdy wielkość etykiety jest z konieczności bardzo ograniczona, pierwszeństwo mają informacje dotyczące bezpieczeństwa stosowania produktu.
-12) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3. 14) Akapit pierwszy w brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 3. 15) W brzmieniu ustalonym przez § 1 pkt 6 lit. d rozporządzenia, o którym mowa w odnośniku 3. 16) Zdanie drugie w brzmieniu ustalonym przez § 1 pkt 6 lit. e rozporządzenia, o którym mowa w odnośniku 3. 17) W brzmieniu ustalonym przez § 1 pkt 6 lit. f rozporządzenia, o którym mowa w odnośniku 3. 18) W brzmieniu ustalonym przez § 1 pkt 6 lit. g rozporządzenia, o którym mowa w odnośniku 3. 19) W brzmieniu ustalonym przez § 1 pkt 6 lit. h rozporządzenia, o którym mowa w odnośniku 3. 20) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 6 lit. i rozporządzenia, o którym mowa w odnośniku 3.
+Jeżeli w przypadku niektórych produktów leczniczych spełnienie wymagań określonych w ust. 11 jest utrudnione, należy podejmować wszelkie możliwe działania w celu zwiększenia powierzchni oznakowania bez zmiany rozmiaru opakowania, np. etykietę można wydłużyć i poszerzyć albo tekst obrócić o 90° bez zmiany wielkości opakowania.Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 6 lit. i rozporządzenia, o którym mowa w odnośniku 3. Gdy wielkość etykiety jest z konieczności bardzo ograniczona, pierwszeństwo mają informacje dotyczące bezpieczeństwa stosowania produktu. 12) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 3. 14) Akapit pierwszy w brzmieniu ustalonym przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 3. 15) W brzmieniu ustalonym przez § 1 pkt 6 lit. d rozporządzenia, o którym mowa w odnośniku 3. 16) Zdanie drugie w brzmieniu ustalonym przez § 1 pkt 6 lit. e rozporządzenia, o którym mowa w odnośniku 3. 17) W brzmieniu ustalonym przez § 1 pkt 6 lit. f rozporządzenia, o którym mowa w odnośniku 3. 18) W brzmieniu ustalonym przez § 1 pkt 6 lit. g rozporządzenia, o którym mowa w odnośniku 3. 19) W brzmieniu ustalonym przez § 1 pkt 6 lit. h rozporządzenia, o którym mowa w odnośniku 3. 20) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 6 lit. i rozporządzenia, o którym mowa w odnośniku 3.
 
 ## Załącznik nr 2 — – Wymagania dotyczące sposobu sporządzania ulotki dla pacjenta
 
-I.
+IW brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3..
 Rozmiar i rodzaj czcionki Informacje zamieszczane w ulotkach leków gotowych drukuje się czcionką wielkości co najmniej 8 punktów typograficznych, z odstępem między wierszami wynoszącym co najmniej 3 mm. Należy unikać pisania słów wielkimi literami (wersalikami). Rodzaj czcionki musi być łatwo czytelny.
 II.
 Kolor druku Litery należy drukować w takim kolorze, który wyraźnie odróżnia się od tła. Nagłówki można wyróżniać, drukując je w kolorze innym niż pozostały tekst. W kolorze czerwonym można drukować jedynie bardzo ważne ostrzeżenia.
@@ -486,12 +476,11 @@ dawkowanie;
 3)
 droga podania;
 4)
-przeciwwskazania, działania niepożądane, ostrzeżenia i środki ostrożności.
-Również w przypadku produktów leczniczych dostępnych bez recepty może być celowe odniesienie do innych postaci farmaceutycznych, np. w ulotce do tabletek, które nie są zalecane dla dzieci, można wskazać, że istnieje również roztwór do podawania doustnego.
+przeciwwskazania, działania niepożądane, ostrzeżenia i środki ostrożności. Również w przypadku produktów leczniczych dostępnych bez recepty może być celowe odniesienie do innych postaci farmaceutycznych, np. w ulotce do tabletek, które nie są zalecane dla dzieci, można wskazać, że istnieje również roztwór do podawania doustnego.
 VI.
 Produkty nieprzeznaczone do samodzielnego stosowania przez pacjentów
 1.
 Do produktów leczniczych podawanych w szpitalu można dołączyć osobne ulotki do rozprowadzania wśród pacjentów. Mogą mieć one na przykład formę bloczka ulotek z oddzielnymi kartkami do wyrywania, dołączonego do opakowania produktu leczniczego razem z Charakterystyką Produktu Leczniczego przeznaczoną dla personelu szpitalnego. Jeżeli ulotka dla pacjenta jest dostarczana osobno, wytwórca produktu leczniczego powinien przedsięwziąć odpowiednie kroki w celu umożliwienia personelowi szpitalnemu dostarczania pacjentom aktualnej wersji ulotki.
 2.
-W przypadku produktów leczniczych podawanych przez personel medyczny informacje pochodzące z Charakterystyki Produktu Leczniczego przeznaczone dla personelu szpitalnego (w tym instrukcja dotycząca podania) mogą być zamieszczone na końcu ulotki w formie fragmentu kartki nadającej się do oderwania przed wręczeniem właściwej ulotki pacjentowi.
+W przypadku produktów leczniczych podawanych przez personel medyczny informacje pochodzące z Charakterystyki Produktu Leczniczego przeznaczone dla personelu szpitalnego (w tym instrukcja dotycząca podania) mogą być zamieszczone na końcu ulotki w formie fragmentu kartki nadającej się do oderwania przed wręczeniem właściwej ulotki pacjentowi. 21) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3.
 

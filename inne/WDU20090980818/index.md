@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 maja 2009 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o dozorze technicznym
+# Ustawaz dnia 7 maja 2009 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o dozorze technicznym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień:
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-05-07 |
 | Data wydania | 2009-06-25 |
-| Wejście w życie | 2009-07-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090980818) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/818/text.pdf) |
 
+dyrektywy 2006/87/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej i uchylającej dyrektywę Rady 82/714/EWG(Dz. Urz. UE L 389 z 30.12.2006, str. 1);
 2)
 dyrektywy 2006/137/WE Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. zmieniającej dyrektywę 2006/87/WE ustanawiającą wymagania techniczne dla statków żeglugi śródlądowej (Dz. Urz. UE L 389 z 30.12.2006, str. 261);
 3)
@@ -73,7 +73,7 @@ dyrektywy Komisji 2008/87/WE z dnia 22 września 2008 r. zmieniającej dyrektyw�
 
 - **1)** braku dokumentu dopuszczającego statek do żeglugi,
 - **2)** zaniedbania zagrażającego bezpieczeństwu żeglugi, statku lub przebywających na nim osób albo zagrażającego zanieczyszczeniem środowiska, a także stwierdzenia uchybienia sanitarnego,
-- **3)** że statek stanowi zagrożenie bezpieczeństwa żeglugi inspektor, na podstawie udzielonego upoważnienia, może, w drodze decyzji administracyjnej, zatrzymać lub skierować statek do najbliższego postoju oraz zatrzymać dokument dopuszczający statek do żeglugi i dokument kwalifikacyjny kierownika statku do czasu usunięcia stwierdzonych naruszeń.
+- **3)** że statek stanowi zagrożenie bezpieczeństwa żeglugi – inspektor, na podstawie udzielonego upoważnienia, może, w drodze decyzji administracyjnej, zatrzymać lub skierować statek do najbliższego postoju oraz zatrzymać dokument dopuszczający statek do żeglugi i dokument kwalifikacyjny kierownika statku do czasu usunięcia stwierdzonych naruszeń.
 
 3. O każdym przypadku naruszeń, o których mowa w ust. 1 i 2, o zatrzymaniu statku oraz o wydanej decyzji powiadamia się na piśmie, wraz z uzasadnieniem, administrację państwa, w którym został wystawiony dokument dopuszczający statek do żeglugi, w terminie 7 dni od dnia stwierdzenia naruszenia. ” ;
 
@@ -162,7 +162,7 @@ dyrektywy Komisji 2008/87/WE z dnia 22 września 2008 r. zmieniającej dyrektyw�
 - **1)** wspólnotowego świadectwa zdolności żeglugowej,
 - **2)** wspólnotowego tymczasowego świadectwa zdolności żeglugowej,
 - **3)** świadectwa zdolności żeglugowej,
-- **4)** uproszczonego świadectwa zdolności żeglugowej stwierdzających, że statek odpowiada wymaganiom bezpieczeństwa określonym w art. 27 pkt 1–4.
+- **4)** uproszczonego świadectwa zdolności żeglugowej – stwierdzających, że statek odpowiada wymaganiom bezpieczeństwa określonym w art. 27 pkt 1–4.
 
 2. W dokumencie bezpieczeństwa statku określa się także skład załogi niezbędny do zapewnienia bezpiecznej żeglugi.
 
@@ -195,7 +195,7 @@ dyrektywy Komisji 2008/87/WE z dnia 22 września 2008 r. zmieniającej dyrektyw�
 - **2)** statków, których iloczyn długości, szerokości i zanurzenia jest nie mniejszy niż 100 m3,
 - **3)** holowników i pchaczy przeznaczonych odpowiednio do holowania lub pchania statków, o których mowa w pkt 1 i 2, lub przemieszczania takich statków w zestawach sprzężonych,
 - **4)** statków przeznaczonych do przewozu ponad 12 pasażerów,
-- **5)** statków, o których mowa w art. 5 ust. 1 pkt 1 lit. f uprawiających żeglugę po drogach wodnych, o których mowa w art. 29.
+- **5)** statków, o których mowa w art. 5 ust. 1 pkt 1 lit. f – uprawiających żeglugę po drogach wodnych, o których mowa w art. 29.
 
 **Art. 31.** Wymogu uzyskania wspólnotowego świadectwa zdolności żeglugowej nie stosuje się do:
 
@@ -241,7 +241,7 @@ dyrektywy Komisji 2008/87/WE z dnia 22 września 2008 r. zmieniającej dyrektyw�
 - **1)** tryb wydawania, przedłużania, cofania i dokonywania zmian wspólnotowego świadectwa zdolności żeglugowej,
 - **2)** wzór wniosku o wydanie, przedłużenie lub dokonanie zmian we wspólnotowym świadectwie zdolności żeglugowej,
 - **3)** wzór wspólnotowego świadectwa zdolności żeglugowej,
-- **4)** wzór rejestru wydanych wspólnotowych świadectw zdolności żeglugowej kierując się względami bezpieczeństwa żeglugi, wymaganiami międzynarodowymi oraz koniecznością ujednolicenia treści stosowanych dokumentów. ” ;
+- **4)** wzór rejestru wydanych wspólnotowych świadectw zdolności żeglugowej – kierując się względami bezpieczeństwa żeglugi, wymaganiami międzynarodowymi oraz koniecznością ujednolicenia treści stosowanych dokumentów. ” ;
 - **12)** po art. 34a dodaje się art. 34b-34o w brzmieniu: „
 
 1. W celu wydania wspólnotowego świadectwa zdolności żeglugowej statek, o którym mowa w art. 30, podlega inspekcji technicznej, przeprowadzanej na wniosek armatora.
@@ -409,7 +409,7 @@ dyrektywy Komisji 2008/87/WE z dnia 22 września 2008 r. zmieniającej dyrektyw�
 
 - **20)** w załączniku do ustawy część V tabeli otrzymuje brzmienie: „ „V Dokumenty bezpieczeństwa statku 1 Za świadectwo zdolności żeglugowej 25 zł 2 Za uproszczone świadectwo zdolności żeglugowej 20 zł 3 Za przedłużenie świadectwa zdolności żeglugowej 15 zł 4 Za przedłużenie uproszczonego świadectwa zdolności żeglugowej 15 zł 5 Za dokonanie zmian w świadectwie zdolności żeglugowej 15 zł 6 Za dokonanie zmian w uproszczonym świadectwie zdolności żeglugowej 15 zł 7 Za wydanie zezwolenia na jednorazową podróż (opłata obejmuje dokonanie inspekcji) 200 zł 8 Za duplikat świadectwa zdolności żeglugowej 20 zł 9 Za duplikat uproszczonego świadectwa zdolności żeglugowej 20 zł 10 Za wspólnotowe świadectwo zdolności żeglugowej 150 zł 11 Za wspólnotowe tymczasowe świadectwo zdolności żeglugowej 100 zł 12 Za przedłużenie wspólnotowego świadectwa zdolności żeglugowej 50 zł 13 Za dokonanie zmian we wspólnotowym świadectwie zdolności żeglugowej 25 zł 14 Za duplikat wspólnotowego świadectwa zdolności żeglugowej 50 zł”
 
-**Art. 2.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. Nr 122, poz. 1321, z późn. zm.) w art. 44 wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. Nr 122, poz. 1321, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708, Nr 170, poz. 1217 i Nr 249, poz. 1832, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 98, poz. 817.) w art. 44 wprowadza się następujące zmiany:
 
 w pkt 1 lit. d otrzymuje brzmienie: „ urządzeniami technicznymi: – znajdującymi się na statkach morskich i żeglugi śródlądowej, – znajdującymi się na pontonach, – znajdującymi się w dokach, – znajdującymi się na terenie portów i przystani morskich oraz żeglugi śródlądowej, – związanymi z żeglugą morską i śródlądową, w szczególności urządzeniami ciśnieniowymi, bezciśnieniowymi zbiornikami (cysternami) i dźwignicami, ” , dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -426,11 +426,10 @@ w pkt 1 lit. d otrzymuje brzmienie: „ urządzeniami technicznymi: – znajduj�
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 15 i 18, które wchodzą w życie z dniem 1 stycznia 2013 r.;
-- **2)** art. 1 pkt 17, który wchodzi w życie z dniem 1 stycznia 2010 r.
-- **1)** Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień:
+- **2)** art. 1 pkt 17, który wchodzi w życie z dniem 1 stycznia 2010 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień:
 - **1)** dyrektywy 2006/87/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej i uchylającej dyrektywę Rady 82/714/EWG (Dz. Urz. UE L 389 z 30.12.2006, str. 1);
 - **2)** dyrektywy 2006/137/WE Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. zmieniającej dyrektywę 2006/87/WE ustanawiającą wymagania techniczne dla statków żeglugi śródlądowej (Dz. Urz. UE L 389 z 30.12.2006, str. 261);
 - **3)** dyrektywy Rady 2008/59/WE z dnia 12 czerwca 2008 r. dostosowującej dyrektywę 2006/87/WE Parlamentu Europejskiego i Rady ustanawiającą wymagania techniczne dla statków żeglugi śródlądowej w związku z przystąpieniem Republiki Bułgarii i Rumunii do Unii Europejskiej (Dz. Urz. UE L 166 z 27.06.2008, str. 31);
-- **4)** dyrektywy Komisji 2008/87/WE z dnia 22 września 2008 r. zmieniającej dyrektywę 2006/87/WE Parlamentu Europejskiego i Rady ustanawiającą wymagania techniczne dla statków żeglugi śródlądowej (Dz. Urz. UE L 255 z 23.09.2008, str. 5).
+- **4)** dyrektywy Komisji 2008/87/WE z dnia 22 września 2008 r. zmieniającej dyrektywę 2006/87/WE Parlamentu Europejskiego i Rady ustanawiającą wymagania techniczne dla statków żeglugi śródlądowej (Dz. Urz. UE L 255 z 23.09.2008, str. 5). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708, Nr 170, poz. 1217 i Nr 249, poz. 1832, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 98, poz. 817.
 
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-29 |
 | Data wydania | 2022-07-07 |
-| Wejście w życie | 2022-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1432/text.pdf) |
 
@@ -80,5 +79,5 @@ Na wniosek osoby, która pokryła koszty pogrzebu żołnierza, dowódca jednostk
 5.
 Przepisy ust. 1–4 stosuje się odpowiednio do żołnierza zwolnionego ze służby wojskowej, jeżeli jego śmierć była następstwem wypadku lub choroby pozostających w związku ze służbą wojskową.
 § 9.
-Rozporządzenie wchodzi w życie z pierwszym dniem miesiąca następującego po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie z pierwszym dniem miesiąca następującego po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 17 lutego 2015 r. w sprawie płatności uposażenia i innych należności pieniężnych oraz pokrywania przez Siły Zbrojne Rzeczypospolitej Polskiej kosztów pogrzebu żołnierzy niezawodowych (Dz. U. z 2022 r. poz. 810), które w związku z wejściem w życie ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) utraciło moc z dniem 23 kwietnia 2022 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 17 lutego 2015 r. w sprawie płatności uposażenia i innych należności pieniężnych oraz pokrywania przez Siły Zbrojne Rzeczypospolitej Polskiej kosztów pogrzebu żołnierzy niezawodowych (Dz. U. z 2022 r. poz. 810), które w związku z wejściem w życie ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) utraciło moc z dniem 23 kwietnia 2022 r.
 

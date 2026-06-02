@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 29 sierpnia 2019 r. w sprawie wizyjnego systemu kontroli miejsca magazynowania lub składowania odpadów
+# Rozporządzenie Ministra Środowiskaz dnia 29 sierpnia 2019 r. w sprawie wizyjnego systemu kontroli miejsca magazynowania lub składowania odpadów Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-29 |
 | Data wydania | 2019-09-16 |
-| Wejście w życie | 2019-12-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1755/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 25 ust. 8a ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2019 r. poz. 701, 730, 1403 i 1579) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 6 marca 2019 r. pod numerem 2019/101/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 2015/1535 z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 25 ust. 8a ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2019 r. poz. 701, 730, 1403 i 1579) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -75,7 +74,7 @@ Obraz wysyłany z kamer jest utrwalany w urządzeniu rejestrującym w sposób ni
 4.
 Urządzenia techniczne systemu kontroli umożliwiają wykorzystanie zarejestrowanego obrazu do jego odtworzenia z zastosowaniem funkcji zatrzymania obrazu na ekranie podczas jego wyświetlania, a także wykonywanie kopii obrazu i pobieranie zapisu w formie elektronicznej oraz określenia miejsca, daty i czasu zarejestrowanych zdarzeń i czynności.
 5.
-Urządzenia techniczne systemu kontroli umożliwiają dostęp do obrazu w czasie rzeczywistym, o którym mowa w art. 25 ust. 6f ustawy, przez system teleinformatyczny, za pomocą odpowiedniego telekomunikacyjnego urządzenia końcowego w rozumieniu art. 2 pkt 43 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954, z późn. zm.).
+Urządzenia techniczne systemu kontroli umożliwiają dostęp do obrazu w czasie rzeczywistym, o którym mowa w art. 25 ust. 6f ustawy, przez system teleinformatyczny, za pomocą odpowiedniego telekomunikacyjnego urządzenia końcowego w rozumieniu art. 2 pkt 43 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2354 oraz z 2019 r. poz. 643, 730, 1030 i 1553.).
 6.
 Napięcie zasilające system kontroli zabezpiecza się przed nieoczekiwanym zanikiem, z podtrzymaniem przez okres co najmniej 2 godzin.
 7.
@@ -103,6 +102,5 @@ Udostępnienie zapisanego obrazu lub jego kopii podmiotowi, o którym mowa w art
 2.
 Udostępniany obraz i jego kopia nie mogą wpływać negatywnie na identyfikację, o której mowa w art. 25 ust. 6d ustawy.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów § 4 ust. 4–6, które wchodzą w życie z dniem 22 lutego 2021 r.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 6 marca 2019 r. pod numerem 2019/101/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 2015/1535 z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2354 oraz z 2019 r. poz. 643, 730, 1030 i 1553.
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów § 4 ust. 4–6, które wchodzą w życie z dniem 22 lutego 2021 r. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 6 marca 2019 r. pod numerem 2019/101/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę Parlamentu Europejskiego i Rady 2015/1535 z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2354 oraz z 2019 r. poz. 643, 730, 1030 i 1553.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19
+# Rozporządzenie Ministra Zdrowiaz dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19 Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-31 |
 | Data wydania | 2021-01-04 |
-| Wejście w życie | 2021-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000010) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/10/text.pdf) |
 
@@ -50,6 +49,5 @@ Dokumentowanie kwalifikacji i przeprowadzenia szczepienia odbywa się w Karcie S
 § 5.
 Przy wykonywaniu szczepień stosuje się przepisy dotyczące zgłaszania i leczenia niepożądanych odczynów poszczepiennych.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 27 grudnia 2020 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 27 grudnia 2020 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 

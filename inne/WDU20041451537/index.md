@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 maja 2004 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz niektórych innych ustaw
+# Ustawa z dnia 28 maja 2004 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne i ustawę z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-05-28 |
 | Data wydania | 2004-06-25 |
-| Wejście w życie | 2004-07-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041451537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1537/text.pdf) |
 
@@ -115,7 +114,7 @@ source: "eli-html"
 
 - **1)** udziela pożyczek, zwanego dalej „funduszem pożyczkowym”, lub
 - **2)** udziela poręczeń lub gwarancji spłaty kredytów lub pożyczek, zwanego dalej „funduszem poręczeniowym”, lub
-- **3)** obejmuje akcje lub udziały w małych lub średnich przedsiębiorcach znajdujących się we wczesnej fazie rozwoju, zwanego dalej „funduszem kapitału zalążkowego” uznaje się za wykorzystane w kwocie faktycznie wykorzystanej przez podmiot zgodnie z umową o udzieleniu wsparcia odpowiednio na udzielenie pożyczek, udzielenie poręczeń lub gwarancji bądź objęcie akcji lub udziałów.
+- **3)** obejmuje akcje lub udziały w małych lub średnich przedsiębiorcach znajdujących się we wczesnej fazie rozwoju, zwanego dalej „funduszem kapitału zalążkowego” – uznaje się za wykorzystane w kwocie faktycznie wykorzystanej przez podmiot zgodnie z umową o udzieleniu wsparcia odpowiednio na udzielenie pożyczek, udzielenie poręczeń lub gwarancji bądź objęcie akcji lub udziałów.
 
 6. Wykorzystanie wsparcia, o którym mowa w ust. 5, powinno nastąpić w ciągu okresu ustalonego w umowie o udzieleniu wsparcia, nie dłuższego niż 5 lat od dnia przekazania kwoty wsparcia podmiotowi, o którym mowa w ust. 1 pkt 1–3. Po upływie tego okresu podmiot zwraca Agencji niewykorzystaną kwotę wsparcia wraz z odsetkami wynikającymi z przechowywania tej kwoty na rachunku bankowym.
 
@@ -142,7 +141,7 @@ source: "eli-html"
 
 - **1)** udzielania pożyczek,
 - **2)** udzielania poręczeń lub gwarancji spłaty kredytów lub pożyczek,
-- **3)** obejmowania akcji lub udziałów ze środków wsparcia, o którym mowa w ust. 5, uwzględniając konieczność efektywnego i skutecznego wykorzystania wsparcia oraz zapewnienia przejrzystości jego udzielania.
+- **3)** obejmowania akcji lub udziałów – ze środków wsparcia, o którym mowa w ust. 5, uwzględniając konieczność efektywnego i skutecznego wykorzystania wsparcia oraz zapewnienia przejrzystości jego udzielania.
 
 1. Podmiot, który otrzymał od Agencji wsparcie przeznaczone na finansowanie części kosztów usług doradczych i nie jest zobowiązany do wyboru wykonawcy tych usług z zastosowaniem przepisów o zamówieniach publicznych, dokonuje wyboru najkorzystniejszej oferty realizacji tych usług spośród ofert złożonych przez wykonawców posiadających akredytację Agencji.
 
@@ -275,7 +274,7 @@ source: "eli-html"
 
 7. Zaciągnięcie kredytów lub pożyczek przez Agencję lub poręczenie przez nią kredytów lub pożyczek, których całkowita spłata przypada w roku obrotowym, w którym zostały zaciągnięte, do wysokości 20% sumy funduszy określonych w art. 16 ust. 1 pkt 1 i 2 nie wymaga zgody, o której mowa w ust. 6.
 
-8. Zasady prowadzenia przez Agencję rachunkowości określają przepisy ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.) oraz odrębne przepisy dotyczące podmiotów sektora finansów publicznych.
+8. Zasady prowadzenia przez Agencję rachunkowości określają przepisy ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276 oraz z 2004 r. Nr 96, poz. 959 i Nr 145, poz. 1535.) oraz odrębne przepisy dotyczące podmiotów sektora finansów publicznych.
 
 **Art. 16.**
 
@@ -293,12 +292,12 @@ source: "eli-html"
 
 5. Czynności, o których mowa w ust. 3 i 4, dokonuje się uchwałą Rady. ” .
 
-**Art. 2.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. Nr 174, poz. 1689 oraz z 2004 r. Nr 123, poz. 1291) w art. 35 ust. 3a otrzymuje brzmienie: „ 3a. Środki finansowe w wysokości 50% przychodów ze sprzedaży przekazanych akcji lub udziałów, o których mowa w ust. 3, Bank Gospodarstwa Krajowego przekazuje Polskiej Agencji Rozwoju Przedsiębiorczości, z przeznaczeniem na udzielanie wsparcia, o którym mowa w art. 15 ust. 5 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm.). ” .
+**Art. 2.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. Nr 174, poz. 1689 oraz z 2004 r. Nr 123, poz. 1291) w art. 35 ust. 3a otrzymuje brzmienie: „ 3a. Środki finansowe w wysokości 50% przychodów ze sprzedaży przekazanych akcji lub udziałów, o których mowa w ust. 3, Bank Gospodarstwa Krajowego przekazuje Polskiej Agencji Rozwoju Przedsiębiorczości, z przeznaczeniem na udzielanie wsparcia, o którym mowa w art. 15 ust. 5 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824 oraz z 2004 r. Nr 145, poz. 1537.). ” .
 
 **Art. 3.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. Nr 19, poz. 177, Nr 96, poz. 959 i Nr 116, poz. 1207) wprowadza się następujące zmiany:
 
 - **1)** w art. 45 w ust. 6 pkt 5 otrzymuje brzmienie: „
-- **5)** poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm.). ” ;
+- **5)** poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824 oraz z 2004 r. Nr 145, poz. 1537.). ” ;
 - **2)** w art. 148 w ust. 1 pkt 5 otrzymuje brzmienie: „
 - **5)** poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości. ” . W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, umowy, na podstawie których uprawnione podmioty otrzymały od Polskiej Agencji Rozwoju Przedsiębiorczości dotacje przeznaczone na powiększenie funduszu pożyczkowego lub poręczeniowego, zawarte przed dniem wejścia w życie ustawy, zostaną dostosowane do przepisów niniejszej ustawy.
 
@@ -311,5 +310,5 @@ source: "eli-html"
 
 **Art. 8.** Przepisów art. 6c ustawy wymienionej w art. 1 nie stosuje się w odniesieniu do wsparcia udzielanego przez Polską Agencję Rozwoju Przedsiębiorczości ze środków pomocy przedakcesyjnej Unii Europejskiej.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8 w zakresie dotyczącym art. 16, który wchodzi w życie z dniem 1 stycznia 2005 r.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8 w zakresie dotyczącym art. 16, który wchodzi w życie z dniem 1 stycznia 2005 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne i ustawę z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276 oraz z 2004 r. Nr 96, poz. 959 i Nr 145, poz. 1535. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824 oraz z 2004 r. Nr 145, poz. 1537. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824 oraz z 2004 r. Nr 145, poz. 1537.
 

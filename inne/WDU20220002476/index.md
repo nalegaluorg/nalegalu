@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 października 2022 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 27 października 2022 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-27 |
 | Data wydania | 2022-12-01 |
-| Wejście w życie | 2022-12-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2476/text.pdf) |
 
@@ -108,7 +107,7 @@ source: "eli-html"
 
 **Art. 12d.**
 
-1. Osoba uprawniona do renty z tytułu niezdolności do pracy na podstawie art. 63 ust. 1 ustawy z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. poz. 267, z późn. zm.) albo jej przedstawiciel ustawowy mogą złożyć do Zakładu wniosek o wydanie decyzji o zamianie tej renty na rentę socjalną.
+1. Osoba uprawniona do renty z tytułu niezdolności do pracy na podstawie art. 63 ust. 1 ustawy z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. poz. 267, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1984 r. poz. 268 i 270, z 1986 r. poz. 1, z 1989 r. poz. 190 i 192, z 1990 r. poz. 58, 61, 206, 390 i 506, z 1991 r. poz. 24, 350 i 422, z 1992 r. poz. 84 i 321, z 1994 r. poz. 339 i 516, z 1995 r. poz. 17, z 1996 r. poz. 461, 636 i 687, z 1997 r. poz. 153, 569 i 725 oraz z 1998 r. poz. 668.) albo jej przedstawiciel ustawowy mogą złożyć do Zakładu wniosek o wydanie decyzji o zamianie tej renty na rentę socjalną.
 
 2. Do wniosku, o którym mowa w ust. 1, dołącza się orzeczenie uprawniające do renty z tytułu niezdolności do pracy na podstawie art. 63 ust. 1 ustawy z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin.
 
@@ -127,5 +126,5 @@ source: "eli-html"
 
 **Art. 6.** Do ustalania prawa do świadczeń określonych w ustawie zmienianej w art. 3 oraz w ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2022 r. poz. 2189), do których prawo powstało w okresie od dnia 1 stycznia 2022 r. do dnia poprzedzającego dzień wejścia w życie niniejszej ustawy, stosuje się art. 29 ust. 5 ustawy zmienianej w art. 1.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1984 r. poz. 268 i 270, z 1986 r. poz. 1, z 1989 r. poz. 190 i 192, z 1990 r. poz. 58, 61, 206, 390 i 506, z 1991 r. poz. 24, 350 i 422, z 1992 r. poz. 84 i 321, z 1994 r. poz. 339 i 516, z 1995 r. poz. 17, z 1996 r. poz. 461, 636 i 687, z 1997 r. poz. 153, 569 i 725 oraz z 1998 r. poz. 668.
 

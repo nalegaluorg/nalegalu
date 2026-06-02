@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 26 października 2018 r. w sprawie szczegółowych warunków pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów
+# Rozporządzenie Ministra Zdrowiaz dnia 26 października 2018 r. w sprawie szczegółowych warunków pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-26 |
 | Data wydania | 2018-10-29 |
-| Wejście w życie | 2018-10-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2060/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 36 ust. 7 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2017 r. poz. 1000 oraz z 2018 r. poz. 1669) zarządza się, co następuje:
+Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia: 1) dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 7 z 13.01.2015, str. 5/2); 2) dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40 oraz Dz. Urz. UE L 327 z 27.11.2012, str. 24); 3) dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32 oraz Dz. Urz. UE L 93 z 09.04.2015, str. 43); 4) dyrektywy Parlamentu Europejskiego i Rady 2010/53/UE z dnia 7 lipca 2010 r. w sprawie norm jakości i bezpieczeństwa narządów ludzkich przeznaczonych do przeszczepienia (Dz. Urz. UE L 207 z 06.08.2010, str. 14 oraz Dz. Urz. UE L 243 z 16.09.2010, str. 68). Na podstawie art. 36 ust. 7 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2017 r. poz. 1000 oraz z 2018 r. poz. 1669) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -153,8 +152,7 @@ chirurgii naczyniowej, lub
 f)
 urologii, lub
 g)
-urologii dziecięcej
-w zakresie swoich kompetencji zawodowych wynikających z posiadanej, co najmniej jednej z powyższych, specjalizacji;
+urologii dziecięcej – w zakresie swoich kompetencji zawodowych wynikających z posiadanej, co najmniej jednej z powyższych, specjalizacji;
 2)
 lekarz specjalista lub lekarz odbywający specjalizację w następujących dziedzinach medycyny:
 a)
@@ -170,8 +168,7 @@ chirurgii naczyniowej, lub
 f)
 urologii, lub
 g)
-urologii dziecięcej
-upoważniony przez lekarza, o którym mowa w pkt 1, i dokonujący tych czynności pod jego bezpośrednim nadzorem, rozumianym jako fizyczna obecność na sali operacyjnej podczas czynności pobrania.
+urologii dziecięcej – upoważniony przez lekarza, o którym mowa w pkt 1, i dokonujący tych czynności pod jego bezpośrednim nadzorem, rozumianym jako fizyczna obecność na sali operacyjnej podczas czynności pobrania.
 § 6.
 Do przeszczepienia komórek krwiotwórczych szpiku, krwi obwodowej i krwi pępowinowej są uprawnieni:
 1)
@@ -209,8 +206,7 @@ chirurgii naczyniowej, lub
 f)
 urologii, lub
 g)
-urologii dziecięcej
-w zakresie swoich kompetencji zawodowych wynikających z posiadanej, co najmniej jednej z powyższych, specjalizacji;
+urologii dziecięcej – w zakresie swoich kompetencji zawodowych wynikających z posiadanej, co najmniej jednej z powyższych, specjalizacji;
 2)
 lekarz specjalista lub lekarz odbywający specjalizację w następujących dziedzinach medycyny:
 a)
@@ -226,8 +222,7 @@ chirurgii naczyniowej, lub
 f)
 urologii, lub
 g)
-urologii dziecięcej
-upoważniony przez lekarza, o którym mowa w pkt 1, i dokonujący tych czynności pod jego bezpośrednim nadzorem, rozumianym jako fizyczna obecność przy czynności przeszczepienia.
+urologii dziecięcej – upoważniony przez lekarza, o którym mowa w pkt 1, i dokonujący tych czynności pod jego bezpośrednim nadzorem, rozumianym jako fizyczna obecność przy czynności przeszczepienia.
 § 9.
 Koordynatorem pobierania i przeszczepiania komórek, tkanek i narządów może być osoba posiadająca:
 1)
@@ -409,6 +404,5 @@ Wnioski o uzyskanie pozwolenia, o którym mowa w art. 36 ust. 1a ustawy, złożo
 2.
 Do kontroli spełniania szczegółowych warunków pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów przez podmioty, które uzyskały pozwolenie, o którym mowa w art. 36 ust. 1a ustawy, przed dniem wejścia w życie niniejszego rozporządzenia, w okresie ważności tych pozwoleń, stosuje się przepisy dotychczasowe.
 § 26.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia: 1) dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 7 z 13.01.2015, str. 5/2); 2) dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40 oraz Dz. Urz. UE L 327 z 27.11.2012, str. 24); 3) dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32 oraz Dz. Urz. UE L 93 z 09.04.2015, str. 43); 4) dyrektywy Parlamentu Europejskiego i Rady 2010/53/UE z dnia 7 lipca 2010 r. w sprawie norm jakości i bezpieczeństwa narządów ludzkich przeznaczonych do przeszczepienia (Dz. Urz. UE L 207 z 06.08.2010, str. 14 oraz Dz. Urz. UE L 243 z 16.09.2010, str. 68). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 września 2016 r. w sprawie szczegółowych warunków pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów (Dz. U. poz. 1674), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 1 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 września 2016 r. w sprawie szczegółowych warunków pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów (Dz. U. poz. 1674), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 1 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia: 1) dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 7 z 13.01.2015, str. 5/2); 2) dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40 oraz Dz. Urz. UE L 327 z 27.11.2012, str. 24); 3) dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32 oraz Dz. Urz. UE L 93 z 09.04.2015, str. 43); 4) dyrektywy Parlamentu Europejskiego i Rady 2010/53/UE z dnia 7 lipca 2010 r. w sprawie norm jakości i bezpieczeństwa narządów ludzkich przeznaczonych do przeszczepienia (Dz. Urz. UE L 207 z 06.08.2010, str. 14 oraz Dz. Urz. UE L 243 z 16.09.2010, str. 68). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 września 2016 r. w sprawie szczegółowych warunków pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów (Dz. U. poz. 1674), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 1 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 9 lutego 2021 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej
+# Rozporządzenie Ministra Zdrowiaz dnia 9 lutego 2021 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-09 |
 | Data wydania | 2021-02-09 |
-| Wejście w życie | 2021-02-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000263) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/263/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 4 września 2020 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1548, 1837 i 2142) po § 2 dodaje się § 2a w brzmieniu:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 4 września 2020 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1548, 1837 i 2142) po § 2 dodaje się § 2a w brzmieniu: „
 § 2a.
 1.
 Należność dla danego zakresu świadczeń, o której mowa w § 18 ust. 1 załącznika do rozporządzenia zmienianego w § 1, za okresy sprawozdawcze w okresie od dnia 1 stycznia do dnia 31 marca 2021 r., może być ustalona jako kwota nie większa niż 70% iloczynu odwrotności liczby okresów sprawozdawczych w okresie rozliczeniowym i kwoty zobowiązania dla danego zakresu świadczeń.
@@ -89,9 +87,7 @@ Podstawą wypłaty należności, o której mowa w ust. 1 lub 2, jest rachunek sk
 6.
 Dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia jest obowiązany do rozliczenia, w terminie do dnia zakończenia okresu rozliczeniowego określonego w umowie o udzielanie świadczeń opieki zdrowotnej, środków wynikających z wypłaty świadczeniodawcy należności, o której mowa w ust. 1 lub 2. Przepisu § 18 ust. 4 załącznika do rozporządzenia zmienianego w § 1 nie stosuje się.
 7.
-Należność ustalona w sposób, o którym mowa w ust. 1 lub 2, nie obejmuje należności uwzględnianych przy wyliczaniu opłaty ryczałtowej za utrzymanie stanu gotowości do udzielania świadczeń opieki zdrowotnej, o którym mowa w art. 9 ust. 2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.).
-” .
+Należność ustalona w sposób, o którym mowa w ust. 1 lub 2, nie obejmuje należności uwzględnianych przy wyliczaniu opłaty ryczałtowej za utrzymanie stanu gotowości do udzielania świadczeń opieki zdrowotnej, o którym mowa w art. 9 ust. 2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159 i 180.). ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159 i 180.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159 i 180.
 

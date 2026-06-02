@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 19 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 19 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 sierpnia 2005 r. w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej (Dz. U. z 2018 r. poz. 1167), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2023 r. zmieniającym rozporządzenie w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej (Dz. U. poz. 1609).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2023 r. zmieniającego rozporządzenie w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej (Dz. U. poz. 1609), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2023 r. zmieniającego rozporządzenie w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej (Dz. U. poz. 1609), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 sierpnia 2005 r. w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej
+Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 sierpnia 2005 r. w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży GranicznejMinister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 Na podstawie art. 39a ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -47,7 +44,7 @@ przełożonych właściwych do przenoszenia funkcjonariuszy Straży Granicznej d
 warunki i tryb przenoszenia do dyspozycji;
 3)
 sposób pełnienia służby w okresie pozostawania w dyspozycji.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2023 r. zmieniającego rozporządzenie w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej (Dz. U. poz. 1609), które weszło w życie z dniem 1 października 2023 r..
 1.
 W sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej, zwanych dalej „funkcjonariuszami”, przełożonymi właściwymi są:
 1)
@@ -55,7 +52,7 @@ Komendant Główny Straży Granicznej:
 a)
 dla funkcjonariuszy, których odwołanie lub zwolnienie z dotychczasowego stanowiska służbowego ustawa z dnia 12 października 1990 r. o Straży Granicznej, zwana dalej „ustawą”, zastrzega dla Prezesa Rady Ministrów, dla ministra właściwego do spraw wewnętrznych lub dla Komendanta Głównego Straży Granicznej,
 b)
-dla funkcjonariuszy, których wyznaczenie lub odwołanie ustawa z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.) zastrzega dla ministra właściwego do spraw wewnętrznych;
+dla funkcjonariuszy, których wyznaczenie lub odwołanie ustawa z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227.) zastrzega dla ministra właściwego do spraw wewnętrznych;
 2)
 Rektor-Komendant Wyższej Szkoły Straży Granicznej, Komendant Biura Spraw Wewnętrznych Straży Granicznej, komendant oddziału, komendant ośrodka szkolenia i komendant ośrodka Straży Granicznej – dla funkcjonariuszy, których zwolnienie z dotychczasowych stanowisk służbowych ustawa zastrzega dla tych komendantów.
 2.
@@ -102,6 +99,5 @@ Przepisy § 6 stosuje się również do funkcjonariuszy przeniesionych do dyspoz
 § 8.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2002 r. w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej (Dz. U. poz. 321).
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2023 r. zmieniającego rozporządzenie w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej (Dz. U. poz. 1609), które weszło w życie z dniem 1 października 2023 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227. 4) Rozporządzenie zostało ogłoszone w dniu 21 września 2005 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 21 września 2005 r.. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2023 r. zmieniającego rozporządzenie w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej (Dz. U. poz. 1609), które weszło w życie z dniem 1 października 2023 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227. 4) Rozporządzenie zostało ogłoszone w dniu 21 września 2005 r.
 

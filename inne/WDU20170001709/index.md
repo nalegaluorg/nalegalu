@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 sierpnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 sierpnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-24 |
 | Data wydania | 2017-09-07 |
-| Wejście w życie | 2017-09-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001709) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1709/text.pdf) |
 
@@ -37,11 +36,9 @@ w § 5:
 a)
 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o udzielenie wsparcia składa się w biurze Krajowego Ośrodka, na formularzu opracowanym przez Krajowy Ośrodek i udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek, w terminie: ” ,
 b)
-w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
-numer identyfikacyjny, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
-” ;
+numer identyfikacyjny, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności; ” ;
 3)
 użyte w § 6 ust. 2 oraz § 8 ust. 1 pkt 2 w różnym przypadku wyrazy „Centrala Agencji” zastępuje się użytymi w odpowiednim przypadku wyrazami „biuro Krajowego Ośrodka”;
 4)
@@ -51,13 +48,11 @@ w § 10:
 a)
 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o płatność składa się w biurze Krajowego Ośrodka, na formularzu opracowanym przez Krajowy Ośrodek i udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek, w terminie: ” ,
 b)
-w ust. 3 w pkt 1 w lit. a tiret siódme otrzymuje brzmienie:
-„
+w ust. 3 w pkt 1 w lit. a tiret siódme otrzymuje brzmienie: „
 – zgodę na udostępnianie przez Dyrektora Generalnego Krajowego Ośrodka w Biuletynie Informacji Publicznej Krajowego Ośrodka informacji zawartych w sprawozdaniu, o których mowa w tiret pierwszym, drugim i szóstym,
 ” .
 § 2.
 Wokresie ważności numeru rejestracyjnego, o którym mowa w art. 57 ust. 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503), przedsiębiorca, któremu został on nadany, a który nie posiada numeru identyfikacyjnego, o którym mowa w art. 12 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2015 r. poz. 807 i 1419, z 2016 r. poz. 1605 oraz z 2017 r. poz. 5 i 624), może podać we wniosku o udzielenie wsparcia, o którym mowa w § 5 ust. 1 rozporządzenia zmienianego w § 1, zamiast numeru identyfikacyjnego, o którym mowa w § 5 ust. 2 pkt 2 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, numer rejestracyjny, o którym mowa w art. 57 ust. 2 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

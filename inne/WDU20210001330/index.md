@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 14 lipca 2021 r. w sprawie odbierania zgłoszeń dotyczących działań o charakterze represyjnym wobec pracowników oraz osób wykonujących czynności na rzecz instytucji obowiązanej
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 14 lipca 2021 r. w sprawie odbierania zgłoszeń dotyczących działań o charakterze represyjnym wobec pracowników oraz osób wykonujących czynności na rzecz instytucji obowiązanej Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-14 |
 | Data wydania | 2021-07-21 |
-| Wejście w życie | 2021-10-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001330) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1330/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 53a ust. 4 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2021 r. poz. 1132 i 1163) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/843 z dnia 30 maja 2018 r. zmieniającą dyrektywę (UE) 2015/849 w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu oraz zmieniającą dyrektywy 2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43). Na podstawie art. 53a ust. 4 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2021 r. poz. 1132 i 1163) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób odbierania przez Generalnego Inspektora zgłoszeń, sposób postępowania z tymi zgłoszeniami i ich przechowywania, a także sposób informowania o działaniach, jakie mogą być podejmowane po przyjęciu takiego zgłoszenia, zwanych dalej „działaniami następczymi”.
 § 2.
@@ -76,6 +75,5 @@ Generalny Inspektor przyjmuje procedury ochrony danych osobowych zgłaszającego
 § 10.
 W przypadku przekazania przez zgłaszającego adresu do kontaktu Generalny Inspektor przekazuje na ten adres informacje na temat działań następczych w terminie nie dłuższym niż 30 dni roboczych od dnia odebrania zgłoszenia.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 31 października 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/843 z dnia 30 maja 2018 r. zmieniającą dyrektywę (UE) 2015/849 w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu oraz zmieniającą dyrektywy 2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43).
+Rozporządzenie wchodzi w życie z dniem 31 października 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/843 z dnia 30 maja 2018 r. zmieniającą dyrektywę (UE) 2015/849 w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu oraz zmieniającą dyrektywy 2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43).
 

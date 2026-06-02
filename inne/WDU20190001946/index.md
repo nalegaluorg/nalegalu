@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 25 września 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie udzielania pomocy cudzoziemcom
+# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 25 września 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie udzielania pomocy cudzoziemcom Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1054).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 7 kwietnia 2015 r. w sprawie udzielania pomocy cudzoziemcom (Dz. U. z 2016 r. poz. 1837), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r. zmieniającym rozporządzenie w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 1854).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 1854), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 1854), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
-” .
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1054).
-Załącznik – Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 7 kwietnia 2015 r. w sprawie udzielania pomocy cudzoziemcom
+Rozporządzenie wchodzi w życie z dniem 1 października 2018 r. ” . 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1054).
+Załącznik – Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 7 kwietnia 2015 r. w sprawie udzielania pomocy cudzoziemcomObecnie działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1054).
 Na podstawie art. 95 ust. 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2019 r. poz. 1507, 1622, 1690 i 1818) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -61,7 +58,7 @@ Centrum pomocy ustala wykaz instytucji, których udział jest niezbędny w proce
 Łączna wysokość świadczeń pieniężnych na utrzymanie i pokrycie wydatków związanych z nauką języka polskiego przysługujących cudzoziemcowi wynosi:
 1)
 w okresie pierwszych 6 miesięcy:
-a)
+aW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 1854), które weszło w życie z dniem 1 października 2018 r.)
 dla osoby samotnie gospodarującej – do 1376 zł miesięcznie,
 b)
 w rodzinie 2-osobowej – do 70% kwoty, o której mowa w lit. a, na osobę,
@@ -108,6 +105,5 @@ Oceny postępów w procesie integracji są dokonywane w formie notatek służbow
 6.
 W przypadku stwierdzenia braków lub niewystarczających postępów w którymkolwiek z obszarów integracji, o których mowa w ust. 2, strony modyfikują program tak, aby dostosować go do specyficznych potrzeb cudzoziemca i usunąć problemy występujące w realizacji programu.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1054). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 1854), które weszło w życie z dniem 1 października 2018 r. 3) Rozporządzenie zostało ogłoszone w dniu 13 kwietnia 2015 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 9 marca 2009 r. w sprawie udzielania pomocy cudzoziemcom, którzy uzyskali w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą (Dz. U. poz. 366 oraz z 2013 r. poz. 1056), które na podstawie art. 16 ust. 1 ustawy z dnia 26 czerwca 2014 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1004) utraciło moc z dniem 1 marca 2015 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 13 kwietnia 2015 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 9 marca 2009 r. w sprawie udzielania pomocy cudzoziemcom, którzy uzyskali w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą (Dz. U. poz. 366 oraz z 2013 r. poz. 1056), które na podstawie art. 16 ust. 1 ustawy z dnia 26 czerwca 2014 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1004) utraciło moc z dniem 1 marca 2015 r. 1) Obecnie działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Rodziny, Pracy i Polityki Społecznej na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1054). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 1854), które weszło w życie z dniem 1 października 2018 r. 3) Rozporządzenie zostało ogłoszone w dniu 13 kwietnia 2015 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 9 marca 2009 r. w sprawie udzielania pomocy cudzoziemcom, którzy uzyskali w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą (Dz. U. poz. 366 oraz z 2013 r. poz. 1056), które na podstawie art. 16 ust. 1 ustawy z dnia 26 czerwca 2014 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1004) utraciło moc z dniem 1 marca 2015 r.
 

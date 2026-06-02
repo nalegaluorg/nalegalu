@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-06-09 |
 | Data wydania | 2000-07-07 |
-| Wejście w życie | 2000-07-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000530637) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/637/text.pdf) |
 
@@ -85,9 +84,10 @@ source: "eli-html"
 - **9)** w art. 74: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Ochrona przyznana programowi komputerowemu obejmuje wszystkie formy jego wyrażenia. Idee i zasady będące podstawą jakiegokolwiek elementu programu komputerowego, w tym podstawą łączy, nie podlegają ochronie. ” , w ust. 4: – w pkt 1 po wyrazach „czynności te” skreśla się wyraz „nie”, – pkt 3 otrzymuje brzmienie: „ 3) rozpowszechniania, w tym najmu, programu komputerowego lub jego kopii. ” ;
+2. Ochrona przyznana programowi komputerowemu obejmuje wszystkie formy jego wyrażenia. Idee i zasady będące podstawą jakiegokolwiek elementu programu komputerowego, w tym podstawą łączy, nie podlegają ochronie. ” , w ust. 4: – w pkt 1 po wyrazach „czynności te” skreśla się wyraz „nie”, pkt 3 otrzymuje brzmienie: „
 
 - **b)**
+- **3)** rozpowszechniania, w tym najmu, programu komputerowego lub jego kopii. ” ;
 - **10)** w art. 75: w ust. 2 pkt 2 otrzymuje brzmienie: „
     - **a)**
 

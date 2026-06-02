@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-07 |
 | Data wydania | 2024-06-12 |
-| Wejście w życie | 2024-07-01 |
 | Ostatnia zmiana | 2025-11-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000865) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/865/text.pdf) |
 
@@ -33,15 +32,13 @@ Na podstawie art. 52 pkt 4 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole S
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 22 grudnia 2017 r. w sprawie stypendium aplikantów Krajowej Szkoły Sądownictwa i Prokuratury (Dz. U. z 2022 r. poz. 2497) wprowadza się następujące zmiany:
 1)
-w § 2 ust. 1 otrzymuje brzmienie:
-„
+w § 2 ust. 1 otrzymuje brzmienie: „
 1.
 Wysokość stypendium aplikanta wynosi miesięcznie:
 1)
 w trakcie pierwszych dwunastu miesięcy szkolenia – 4500 zł;
 2)
-po ukończeniu dwunastu miesięcy szkolenia – 5100 zł.
-” ;
+po ukończeniu dwunastu miesięcy szkolenia – 5100 zł. ” ;
 2)
 w § 3 uchyla się ust. 2 i 3;
 3)

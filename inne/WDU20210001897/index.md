@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-18 |
 | Data wydania | 2021-10-21 |
-| Wejście w życie | 2021-10-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001897) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1897/text.pdf) |
 
@@ -35,11 +34,9 @@ w § 1 po wyrazach „w służbie kandydackiej” dodaje się wyrazy „oraz na 
 2)
 w § 2 wyrazy „50 miejsc” zastępuje się wyrazami „60 miejsc”;
 3)
-po § 2 dodaje się § 2a w brzmieniu:
-„
+po § 2 dodaje się § 2a w brzmieniu: „
 § 2a.
-Ustala się limit przyjęć na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego w liczbie 60 miejsc.
-” .
+Ustala się limit przyjęć na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego w liczbie 60 miejsc. ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 października 2022 r.
 

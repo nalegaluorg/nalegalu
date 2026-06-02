@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 16 listopada 2010 r. w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. z 2014 r. poz. 874), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 11 sierpnia 2020 r. zmieniającym rozporządzenie w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. poz. 1397).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 11 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. poz. 1397), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 11 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. poz. 1397), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwości z dnia 16 listopada 2010 r. w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych
 Na podstawie art. 17 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064) zarządza się, co następuje:
 § 1.
@@ -46,9 +44,9 @@ broń palną: karabiny, karabinki, pistolety maszynowe, pistolety i rewolwery, p
 amunicję do broni palnej, granaty łzawiące i pociski niepenetracyjne, miotane ręcznie lub z broni palnej;
 3)
 urządzenia przeznaczone do miotania środków obezwładniających i pocisków niepenetracyjnych;
-4)
+4Dodany przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 11 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. poz. 1397), które weszło w życie z dniem 29 sierpnia 2020 r.)
 przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej;
-5)
+5Dodany przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 11 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. poz. 1397), które weszło w życie z dniem 29 sierpnia 2020 r.)
 kartridże do przedmiotów, o których mowa w pkt 4.
 § 2.
 W czasie pełnienia obowiązków służbowych funkcjonariuszy Służby Więziennej, zwanych dalej „funkcjonariuszami”, można wyposażyć w środki ochrony, w postaci:
@@ -71,5 +69,5 @@ ręcznych miotaczy substancji obezwładniających.
 § 3.
 (uchylony).
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 9 grudnia 2010 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 13 listopada 2003 r. w sprawie uzbrojenia Służby Więziennej (Dz. U. poz. 1931), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 272 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. poz. 523 i 1228). 1) Dodany przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 11 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. poz. 1397), które weszło w życie z dniem 29 sierpnia 2020 r. 2) Rozporządzenie zostało ogłoszone w dniu 9 grudnia 2010 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 13 listopada 2003 r. w sprawie uzbrojenia Służby Więziennej (Dz. U. poz. 1931), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 272 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. poz. 523 i 1228).
 

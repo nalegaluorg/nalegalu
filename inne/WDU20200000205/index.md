@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-31 |
 | Data wydania | 2020-02-10 |
-| Wejście w życie | 2020-02-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/205/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wydawanie osobom poleceń określonego zachowania się Rozdział 3 – Legitymowanie osób Rozdział 4 – Zatrzymywanie osób Rozdział 5 – Przeszukanie osób i pomieszczeń Rozdział 6 – Obserwowanie i rejestrowanie obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom Rozdział 7 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 14 ust. 10 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r. poz. 1921 i 2020) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki przeprowadzania i dokumentowania przez funkcjonariusza Centralnego Biura Antykorupcyjnego, zwanego dalej „funkcjonariuszem”, czynności:
 1)
@@ -40,8 +40,7 @@ zatrzymywania osób w trybie i w przypadkach określonych w przepisach ustawy z 
 4)
 przeszukania osób i pomieszczeń w trybie i w przypadkach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego,
 5)
-obserwowania i rejestrowania, przy użyciu środków technicznych, obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom
-o których mowa w art. 14 ust. 1 pkt 1–4 i 6 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, zwanej dalej „ustawą”.
+obserwowania i rejestrowania, przy użyciu środków technicznych, obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom – o których mowa w art. 14 ust. 1 pkt 1–4 i 6 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, zwanej dalej „ustawą”.
 § 2.
 1.
 Funkcjonariusz, przystępując do przeprowadzenia czynności, o których mowa w § 1 pkt 1–4:
@@ -61,6 +60,7 @@ pkt 3 i 4 – funkcjonariusz informuje osobę, wobec której podjęto czynność
 W przypadku przeprowadzania czynności określonych w § 1 pkt 3 i 4 wobec osoby, która korzysta z immunitetu parlamentarnego, sędziowskiego lub prokuratorskiego, funkcjonariusz niezwłocznie powiadamia drogą służbową Szefa CBA o podjęciu działań wobec tej osoby.
 § 4.
 W uzasadnionych przypadkach funkcjonariusz może przybrać do udziału w czynnościach, o których mowa w § 1 pkt 3–5, osobę posiadającą wiedzę specjalistyczną, w celu zabezpieczenia prawidłowego przebiegu toku postępowania.
+Wydawanie osobom poleceń określonego zachowania się
 § 5.
 1.
 O wydaniu osobie polecenia określonego zachowania się w granicach niezbędnych do wykonania czynności określonych w art. 14 ust. 1 pkt 2–5a ustawy funkcjonariusz zamieszcza odpowiednio w notatce służbowej lub protokole, o których mowa w § 9, § 11 ust. 1 pkt 3 i § 19, wzmiankę, która zawiera:
@@ -82,6 +82,7 @@ cel i opis przeprowadzenia czynności;
 wzmiankę o pouczeniu osoby o przysługującym jej prawie, o którym mowa w art. 14 ust. 7 pkt 1 ustawy;
 5)
 podpis funkcjonariusza.
+Legitymowanie osób
 § 6.
 1.
 Funkcjonariusz ustala tożsamość osoby legitymowanej na podstawie:
@@ -125,6 +126,7 @@ przyczynę legitymowania;
 wzmiankę o pouczeniu osoby legitymowanej o przysługującym jej prawie, o którym mowa w art. 14 ust. 7 pkt 1 ustawy;
 7)
 podpis funkcjonariusza.
+Zatrzymywanie osób
 § 10.
 1.
 Funkcjonariusz przy zatrzymywaniu osoby:
@@ -186,8 +188,7 @@ jest ona pod wpływem alkoholu lub innego podobnie działającego środka,
 2)
 jest ona pod wpływem środka odurzającego, substancji psychotropowej lub innego podobnie działającego środka,
 3)
-z powodów innych niż wymienione w pkt 1 i 2 ma ona zakłóconą świadomość
-funkcjonariusz wykonuje czynności określone w ust. 1 pkt 1 i 4 po ustaniu przyczyn zakłócających świadomość osoby zatrzymanej.
+z powodów innych niż wymienione w pkt 1 i 2 ma ona zakłóconą świadomość – funkcjonariusz wykonuje czynności określone w ust. 1 pkt 1 i 4 po ustaniu przyczyn zakłócających świadomość osoby zatrzymanej.
 § 12.
 W przypadku wniesienia przez osobę zatrzymaną zażalenia na zatrzymanie, funkcjonariusz niezwłocznie przekazuje właściwemu sądowi kopię protokołu zatrzymania osoby wraz z materiałami uzasadniającymi zatrzymanie.
 § 13.
@@ -196,6 +197,7 @@ Osobę zatrzymaną umieszcza się w pomieszczeniu jednostki organizacyjnej CBA l
 Poza przypadkami określonymi w art. 248 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, funkcjonariusz zwalnia osobę zatrzymaną także, gdy otrzymał zaświadczenie lekarskie o istnieniu przeciwwskazań medycznych do zatrzymania.
 § 15.
 Zatrzymanie i zwolnienie osoby ewidencjonuje się w przeznaczonej do tego dokumentacji prowadzonej w jednostce organizacyjnej CBA lub w jednostce organizacyjnej Policji, do której osobę zatrzymaną doprowadzono.
+Przeszukanie osób i pomieszczeń
 § 16.
 Funkcjonariusz, przystępując do przeszukania, o którym mowa w § 1 pkt 4:
 1)
@@ -228,6 +230,7 @@ W przypadku braku możliwości swobodnego wejścia do pomieszczenia, w którym m
 W razie potrzeby funkcjonariusz informuje służby ratownicze o środkach technicznych i chemicznych użytych podczas wykonywania czynności, o której mowa w ust. 1.
 § 19.
 Z dokonanej czynności przeszukania funkcjonariusz sporządza protokół zgodnie z art. 229 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, z uwzględnieniem informacji o użyciu lub wykorzystaniu środków przymusu bezpośredniego.
+Obserwowanie i rejestrowanie obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom
 § 20.
 1.
 Funkcjonariusz podczas wykonywania czynności operacyjno-rozpoznawczych realizuje uprawnienie do obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom, o którym mowa w art. 14 ust. 1 pkt 6 ustawy, gdy jest to niezbędne do wykonywania zadań określonych w art. 2 ust. 1 ustawy.
@@ -247,20 +250,35 @@ cel i opis przeprowadzonej czynności;
 rodzaj użytych środków technicznych;
 5)
 podpis funkcjonariusza nadzorującego realizację czynności.
+Przepis końcowy
 § 22.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 25 lipca 2006 r. w sprawie wydawania osobom poleceń określonego zachowania się, legitymowania, zatrzymywania, przeszukania, kontroli osobistej, przeglądania bagaży i sprawdzania ładunku oraz obserwowania i rejestrowania zdarzeń przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 1014 oraz z 2017 r. poz. 2405), które utraciło moc na podstawie art. 15 pkt 6 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw (Dz. U. poz. 2399 oraz z 2019 r. poz. 1091). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 25 lipca 2006 r. w sprawie wydawania osobom poleceń określonego zachowania się, legitymowania, zatrzymywania, przeszukania, kontroli osobistej, przeglądania bagaży i sprawdzania ładunku oraz obserwowania i rejestrowania zdarzeń przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 1014 oraz z 2017 r. poz. 2405), które utraciło moc na podstawie art. 15 pkt 6 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw (Dz. U. poz. 2399 oraz z 2019 r. poz. 1091).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wydawanie osobom poleceń określonego zachowania się
+#### Rozdział 2 – Wydawanie osobom poleceń określonego zachowania się
 
-#### Rozdział 3 Legitymowanie osób
+#### Rozdział 3 – Legitymowanie osób
 
-#### Rozdział 4 Zatrzymywanie osób
+#### Rozdział 4 – Zatrzymywanie osób
 
-#### Rozdział 5 Przeszukanie osób i pomieszczeń
+#### Rozdział 5 – Przeszukanie osób i pomieszczeń
 
-#### Rozdział 6 Obserwowanie i rejestrowanie obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom
+#### Rozdział 6 – Obserwowanie i rejestrowanie obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom
 
-#### Rozdział 7 Przepis końcowy
+#### Rozdział 7 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 21 grudnia 2018 r. w sprawie trybu rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców
+# Rozporządzenie Ministra Cyfryzacjiz dnia 21 grudnia 2018 r. w sprawie trybu rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-21 |
 | Data wydania | 2018-12-29 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2484/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepis ogólny Rozdział 2 – Tryb rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców oraz tryb przekazywania danych pomiędzy rejestrami mieszkańców a rejestrem PESEL Rozdział 3 – Postępowanie wyjaśniające i usuwanie niezgodności danych zawartych w rejestrze PESEL oraz w rejestrach mieszkańców Rozdział 4 – Sposób zapisu i gromadzenia w rejestrze PESEL oraz w rejestrach mieszkańców danych o imionach i nazwiskach cudzoziemców Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 13 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2018 r. poz. 1382 i 1544) zarządza się, co następuje:
+Przepis ogólny
 § 1.
 Rozporządzenie określa:
 1)
@@ -39,6 +39,7 @@ tryb przekazywania danych pomiędzy rejestrami mieszkańców a rejestrem PESEL;
 tryb postępowania wyjaśniającego i usuwania niezgodności danych zawartych w rejestrze PESEL oraz w rejestrach mieszkańców z posiadanymi dokumentami lub stanem faktycznym;
 4)
 sposób zapisu i gromadzenia w rejestrze PESEL oraz w rejestrach mieszkańców danych o imionach i nazwiskach cudzoziemców.
+Tryb rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców oraz tryb przekazywania danych pomiędzy rejestrami mieszkańców a rejestrem PESEL
 § 2.
 Rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców dokonuje się wielkimi literami. Dopuszcza się rejestrację danych dotyczących numeru domu małą literą.
 § 3.
@@ -56,6 +57,7 @@ W przypadku gdy osoba nie była nigdy zameldowana na pobyt stały lub czasowy na
 W przypadku, o którym mowa w art. 34 ust. 3 ustawy, po zarejestrowaniu przez organ w rejestrze PESEL danych o wymeldowaniu, zarejestrowane dane z rejestru PESEL są przekazywane do rejestrów mieszkańców właściwych ze względu na poprzednie miejsce zameldowania na pobyt stały i czasowy osoby.
 § 6.
 Agencja Bezpieczeństwa Wewnętrznego stosuje tryb określony w § 3 do rejestracji danych niezbędnych do sporządzania i wydawania dokumentów, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399), zapewniając ochronę informacji niejawnych oraz realizację obowiązków administratora danych zawartych w rejestrze PESEL.
+Postępowanie wyjaśniające i usuwanie niezgodności danych zawartych w rejestrze PESEL oraz w rejestrach mieszkańców
 § 7.
 Wprzypadku braku możliwości usunięcia niezgodności danych w rejestrze PESEL przez organ zgodnie ze swoją właściwością, organ wszczyna postępowanie wyjaśniające.
 § 8.
@@ -73,6 +75,7 @@ Usuwanie niezgodności danych w rejestrach mieszkańców następuje przez przeka
 Zawiadomienie o sposobie załatwienia sprawy, o którym mowa w art. 11 ust. 4 ustawy, zawiera w szczególności informację o działaniach podjętych w związku z usunięciem niezgodności i o wyniku postępowania wyjaśniającego, a w przypadku postępowania wyjaśniającego wszczętego z urzędu, także datę jego wszczęcia.
 2.
 W przypadku postępowania wszczętego na wniosek, zawiadomienie jest przekazywane wnioskodawcy niezwłocznie po zakończeniu postępowania, zgodnie z formą, jaką wnioskodawca określił we wniosku. Jeżeli wnioskodawca nie określił formy otrzymania zawiadomienia, zawiadomienie jest przekazywane zgodnie z formą, w jakiej wniosek wpłynął do organu.
+Sposób zapisu i gromadzenia w rejestrze PESEL oraz w rejestrach mieszkańców danych o imionach i nazwiskach cudzoziemców
 § 11.
 1.
 Imię (imiona) i nazwisko cudzoziemca urodzonego na terytorium Rzeczypospolitej Polskiej są zapisywane w rejestrze PESEL oraz w rejestrach mieszkańców zgodnie z pisownią wynikającą z aktu urodzenia.
@@ -82,17 +85,27 @@ W przypadku innym niż opisany w ust. 1, imię (imiona) i nazwisko cudzoziemca s
 Jeżeli w zapisie imienia (imion) albo nazwiska cudzoziemca występują różnice między jego dokumentem podróży lub innym dokumentem potwierdzającym tożsamość i obywatelstwo a sporządzonymi dla niego polskimi aktami stanu cywilnego, dane te są zapisywane w rejestrze PESEL oraz w rejestrach mieszkańców równorzędnie na podstawie zarówno dokumentu podróży lub innego dokumentu potwierdzającego tożsamość i obywatelstwo, jak i aktów stanu cywilnego.
 § 13.
 Do rejestracji nazwiska cudzoziemca, który w wyniku zawarcia związku małżeńskiego przyjął nazwisko małżonka lub połączył dotychczasowe nazwisko z dotychczasowym nazwiskiem małżonka, stosuje się art. 10 ust. 6 ustawy.
+Przepis końcowy
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 16 lutego 2012 r. w sprawie trybu rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców i rejestrach zamieszkania cudzoziemców (Dz. U. z 2015 r. poz. 1290), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 4 ustawy z dnia 27 października 2017 r. o zmianie ustawy o ewidencji ludności (Dz. U. poz. 2286).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 16 lutego 2012 r. w sprawie trybu rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców i rejestrach zamieszkania cudzoziemców (Dz. U. z 2015 r. poz. 1290), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 4 ustawy z dnia 27 października 2017 r. o zmianie ustawy o ewidencji ludności (Dz. U. poz. 2286). 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 16 lutego 2012 r. w sprawie trybu rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców i rejestrach zamieszkania cudzoziemców (Dz. U. z 2015 r. poz. 1290), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 4 ustawy z dnia 27 października 2017 r. o zmianie ustawy o ewidencji ludności (Dz. U. poz. 2286).
 
-#### Rozdział 1 Przepis ogólny
+#### Rozdział 1 – Przepis ogólny
 
-#### Rozdział 2 Tryb rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców oraz tryb przekazywania danych pomiędzy rejestrami mieszkańców a rejestrem PESEL
+#### Rozdział 2 – Tryb rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców oraz tryb przekazywania danych pomiędzy rejestrami mieszkańców a rejestrem PESEL
 
-#### Rozdział 3 Postępowanie wyjaśniające i usuwanie niezgodności danych zawartych w rejestrze PESEL oraz w rejestrach mieszkańców
+#### Rozdział 3 – Postępowanie wyjaśniające i usuwanie niezgodności danych zawartych w rejestrze PESEL oraz w rejestrach mieszkańców
 
-#### Rozdział 4 Sposób zapisu i gromadzenia w rejestrze PESEL oraz w rejestrach mieszkańców danych o imionach i nazwiskach cudzoziemców
+#### Rozdział 4 – Sposób zapisu i gromadzenia w rejestrze PESEL oraz w rejestrach mieszkańców danych o imionach i nazwiskach cudzoziemców
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

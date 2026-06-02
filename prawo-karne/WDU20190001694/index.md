@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-09-04 |
-| Wejście w życie | 2019-10-04 |
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1694/text.pdf) |
 
@@ -177,7 +176,7 @@ source: "eli-html"
 § 2a. Pismo pozostawione w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, adresowane do:
 
 - **1)** obrońcy albo pełnomocnika będącego adwokatem lub radcą prawnym,
-- **2)** osoby, której stan zdrowia uniemożliwia lub w znacznym stopniu utrudnia osobiste odebranie pisma w placówce pocztowej może zostać odebrane także przez osobę upoważnioną na podstawie pełnomocnictwa pocztowego do odbioru przesyłek pocztowych w rozumieniu tej ustawy. ” , po § 2a dodaje się § 2b i 2c w brzmieniu: „
+- **2)** osoby, której stan zdrowia uniemożliwia lub w znacznym stopniu utrudnia osobiste odebranie pisma w placówce pocztowej – może zostać odebrane także przez osobę upoważnioną na podstawie pełnomocnictwa pocztowego do odbioru przesyłek pocztowych w rozumieniu tej ustawy. ” , po § 2a dodaje się § 2b i 2c w brzmieniu: „
     - **b)**
 
 § 2b. Stwierdzenie, że stan zdrowia osoby, która udzieliła pełnomocnictwa pocztowego do odbioru przesyłek pocztowych w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, uniemożliwia lub w znacznym stopniu utrudnia osobiste odebranie pisma w placówce pocztowej, następuje na podstawie zaświadczenia lekarza podstawowej opieki zdrowotnej wystawionego na wniosek tej osoby lub osoby upoważnionej na podstawie pełnomocnictwa pocztowego. Zaświadczenie wydaje się na czas określony albo bezterminowo. Czynności związane z wydaniem zaświadczenia oraz zaświadczenie są nieodpłatne.
@@ -624,7 +623,7 @@ source: "eli-html"
 
 § 4. Określenie „sąd” bez bliższego sprecyzowania oznacza sąd powszechny lub wojskowy określony w art. 3 § 1, z tym zastrzeżeniem, że przepisy art. 6 § 1, art. 7, art. 8 § 2, art. 9 § 3 i 4, art. 10, art. 11 § 1, art. 13, art. 15 oraz art. 18–24 stosuje się odpowiednio do sądu penitencjarnego lub innego sądu właściwego na podstawie niniejszego kodeksu. ” .
 
-**Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, z późn. zm.) w art. 122 w § 1 w pkt 1 po wyrazach „art. 192 § 2,” dodaje się wyrazy „art. 198 § 1,”.
+**Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694, 1520 i 1556.) w art. 122 w § 1 w pkt 1 po wyrazach „art. 192 § 2,” dodaje się wyrazy „art. 198 § 1,”.
 
 **Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2019 r. poz. 1120, 1123 i 1556) wprowadza się następujące zmiany:
 
@@ -686,6 +685,6 @@ source: "eli-html"
 **Art. 22.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 14 oraz art. 15, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-- **2)** art. 1 pkt 68, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+- **2)** art. 1 pkt 68, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694, 1520 i 1556.
 
 

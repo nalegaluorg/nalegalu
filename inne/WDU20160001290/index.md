@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 17 sierpnia 2016 r. w sprawie wniosku o udzielenie pozwolenia na korzystanie z procedury TIR, pozwolenia na uproszczenie przy obejmowaniu towarów procedurą TIR oraz korzystania z tego uproszczenia
+# Rozporządzenie Ministra Finansówz dnia 17 sierpnia 2016 r. w sprawie wniosku o udzielenie pozwolenia na korzystanie z procedury TIR, pozwolenia na uproszczenie przy obejmowaniu towarów procedurą TIR oraz korzystania z tego uproszczenia Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-17 |
 | Data wydania | 2016-08-19 |
-| Wejście w życie | 2016-08-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1290/text.pdf) |
 
@@ -60,7 +59,7 @@ informację banku prowadzącego rachunek rozliczeniowy wnioskodawcy o wysokości
 4)
 oświadczenie, że wnioskodawca nie dopuścił się poważnego naruszenia lub powtarzających się naruszeń przepisów prawa celnego lub podatkowego i nie jest wobec niego prowadzone postępowanie egzekucyjne lub upadłościowe oraz że nie zalega w podatkach, których pobór należy do naczelnika urzędu skarbowego.
 3.
-Przepisu ust. 2 pkt 3 i 4 nie stosuje się, jeżeli wnioskodawca posiada status upoważnionego przedsiębiorcy, o którym mowa w art. 39 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.), zwanego dalej „unijnym kodeksem celnym”.
+Przepisu ust. 2 pkt 3 i 4 nie stosuje się, jeżeli wnioskodawca posiada status upoważnionego przedsiębiorcy, o którym mowa w art. 39 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90.), zwanego dalej „unijnym kodeksem celnym”.
 § 3.
 1.
 Wniosek o udzielenie pozwolenia na uproszczenie przy obejmowaniu towarów procedurą TIR zawiera:
@@ -92,10 +91,9 @@ Do wniosku wnioskodawca może dołączyć dodatkowe informacje, które mogą mie
 1.
 Korzystanie z uproszczenia przy obejmowaniu towarów procedurą TIR odbywa się w miejscach i w godzinach określonych w pozwoleniu oraz przy zastosowaniu środków identyfikacji towaru, w szczególności zamknięć urzędowych oraz stempla „TIR – upoważniony nadawca”.
 2.
-Czynności związane z objęciem towarów procedurą TIR w zakresie obsługi papierowego karnetu TIR oraz komunikacji pomiędzy upoważnionym nadawcą a urzędem celnym wyjścia są wykonywane z wykorzystaniem systemu teleinformatycznego, o którym mowa w art. 273 rozporządzenia wykonawczego Komisji (UE) nr 2015/2447 z dnia 24 listopada 2015 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.), oraz w ramach procedury awaryjnej.
+Czynności związane z objęciem towarów procedurą TIR w zakresie obsługi papierowego karnetu TIR oraz komunikacji pomiędzy upoważnionym nadawcą a urzędem celnym wyjścia są wykonywane z wykorzystaniem systemu teleinformatycznego, o którym mowa w art. 273 rozporządzenia wykonawczego Komisji (UE) nr 2015/2447 z dnia 24 listopada 2015 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 87 z 02.04.2016, str. 35.), oraz w ramach procedury awaryjnej.
 3.
 Upoważniony nadawca prowadzi ewidencję operacji tranzytowych umożliwiającą organom celnym skuteczną kontrolę prawidłowości realizacji uproszczenia przy obejmowaniu towarów procedurą TIR.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 20 sierpnia 2016 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 87 z 02.04.2016, str. 35. 4) Zakres spraw regulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 22 lipca 2011 r. w sprawie wzorów formularzy stosowanych w sprawach celnych (Dz. U. z 2015 r. poz. 856), które traci moc z dniem 20 sierpnia 2016 r. w związku z wejściem w życie ustawy z dnia 22 czerwca 2016 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 1228).
+Rozporządzenie wchodzi w życie z dniem 20 sierpnia 2016 r.Zakres spraw regulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 22 lipca 2011 r. w sprawie wzorów formularzy stosowanych w sprawach celnych (Dz. U. z 2015 r. poz. 856), które traci moc z dniem 20 sierpnia 2016 r. w związku z wejściem w życie ustawy z dnia 22 czerwca 2016 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 1228). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 287 z 29.10.2013, str. 90. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 87 z 02.04.2016, str. 35. 4) Zakres spraw regulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 22 lipca 2011 r. w sprawie wzorów formularzy stosowanych w sprawach celnych (Dz. U. z 2015 r. poz. 856), które traci moc z dniem 20 sierpnia 2016 r. w związku z wejściem w życie ustawy z dnia 22 czerwca 2016 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 1228).
 

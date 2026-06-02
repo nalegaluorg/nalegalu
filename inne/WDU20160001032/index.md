@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 1 lipca 2016 r. w sprawie zakresu projektu miejscowego planu rewitalizacji w części tekstowej oraz zakresu i formy wizualizacji ustaleń miejscowego planu rewitalizacji
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 1 lipca 2016 r. w sprawie zakresu projektu miejscowego planu rewitalizacji w części tekstowej oraz zakresu i formy wizualizacji ustaleń miejscowego planu rewitalizacji Sprawy budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa należą do działu administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, którym kieruje Minister Infrastruktury i Budownictwa na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-01 |
 | Data wydania | 2016-07-15 |
-| Wejście w życie | 2016-07-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1032/text.pdf) |
 
@@ -90,7 +89,7 @@ powiązań funkcjonalnych terenów zieleni z:
 e)
 zapewnienia dostępu dla osób niepełnosprawnych zgodnie z zasadami uniwersalnego projektowania w rozumieniu art. 2 Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r. (Dz. U. z 2012 r. poz. 1169),
 f)
-koncepcji organizacji ruchu na drogach publicznych, z zachowaniem warunków określonych w przepisach wydanych na podstawie art. 10 ust. 12 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.),
+koncepcji organizacji ruchu na drogach publicznych, z zachowaniem warunków określonych w przepisach wydanych na podstawie art. 10 ust. 12 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1359, 1649, 1830, 1844, 1893, 2183 i 2281 oraz z 2016 r. poz. 266 i 352.),
 g)
 elementów pasa drogowego, z zachowaniem warunków technicznych, jakim powinny odpowiadać drogi publiczne i ich usytuowanie wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2016 r. poz. 290 i 961), w tym części pasa drogowego przeznaczonych pod lokalizację ogródków gastronomicznych, rozumianych jako wyznaczone miejsca do sezonowego użytkowania dla celów gastronomicznych;
 4)
@@ -141,6 +140,5 @@ Elementy wizualizacji ustaleń planu, o których mowa w ust. 1 i 2, sporządza s
 § 5.
 Wizualizacja ustaleń planu podlega aktualizacji po jej przedstawieniu w ramach wyłożenia, o którym mowa w art. 17 pkt 9 ustawy, a przed przedstawieniem jej wraz z projektem planu radzie gminy w trybie art. 17 pkt 14 ustawy, jak również w przypadku, o którym mowa w art. 19 ust. 1 ustawy.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Sprawy budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa należą do działu administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, którym kieruje Minister Infrastruktury i Budownictwa na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1359, 1649, 1830, 1844, 1893, 2183 i 2281 oraz z 2016 r. poz. 266 i 352.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Sprawy budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa należą do działu administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, którym kieruje Minister Infrastruktury i Budownictwa na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1359, 1649, 1830, 1844, 1893, 2183 i 2281 oraz z 2016 r. poz. 266 i 352.
 

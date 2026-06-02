@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 2 września 2022 r. w sprawie organizowania i prowadzenia zajęć z wykorzystaniem metod i technik kształcenia na odległość
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 2 września 2022 r. w sprawie organizowania i prowadzenia zajęć z wykorzystaniem metod i technik kształcenia na odległość Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-02 |
 | Data wydania | 2022-09-09 |
-| Wejście w życie | 2022-09-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1903/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 125a ust. 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 125a ust. 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700 i 1730.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki organizowania i prowadzenia zajęć z wykorzystaniem metod i technik kształcenia na odległość w przedszkolach, innych formach wychowania przedszkolnego, szkołach i placówkach, w przypadku zawieszenia zajęć, o którym mowa w art. 125a ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą”.
 § 2.
@@ -76,8 +75,7 @@ W przypadku prowadzenia zajęć z wykorzystaniem metod i technik kształcenia na
 1)
 szkół i placówek, w których nie tworzy się rad rodziców – radą pedagogiczną,
 2)
-szkół i placówek, o których mowa w art. 84 ust. 5 ustawy – innym organem, o którym mowa w art. 84 ust. 5 ustawy
-ustala potrzebę modyfikacji w trakcie roku szkolnego realizowanego programu wychowawczo-profilaktycznego i modyfikuje ten program.
+szkół i placówek, o których mowa w art. 84 ust. 5 ustawy – innym organem, o którym mowa w art. 84 ust. 5 ustawy – ustala potrzebę modyfikacji w trakcie roku szkolnego realizowanego programu wychowawczo-profilaktycznego i modyfikuje ten program.
 § 9.
 W okresie prowadzenia zajęć z wykorzystaniem metod i technik kształcenia na odległość dyrektor przekazuje uczniom, rodzicom i nauczycielom informację o sposobie i trybie realizacji zadań w zakresie organizacji kształcenia specjalnego, pomocy psychologiczno-pedagogicznej, indywidualnego obowiązkowego rocznego przygotowania przedszkolnego, indywidualnego nauczania, zajęć rewalidacyjno-wychowawczych, zajęć wczesnego wspomagania rozwoju dziecka i zajęć, o których mowa w art. 165 ust. 7 i 10 ustawy.
 § 10.
@@ -86,8 +84,7 @@ W przypadku ucznia, który z uwagi na rodzaj niepełnosprawności nie może real
 1)
 w bezpośrednim kontakcie z nauczycielem lub inną osobą prowadzącą zajęcia lub
 2)
-z wykorzystaniem metod i technik kształcenia na odległość
-jeżeli jest możliwe zapewnienie bezpiecznych i higienicznych warunków nauki na terenie tego przedszkola, szkoły, innej formy wychowania przedszkolnego lub placówki oraz jeżeli na danym terenie nie występują zdarzenia, które mogą zagrozić bezpieczeństwu lub zdrowiu ucznia.
+z wykorzystaniem metod i technik kształcenia na odległość – jeżeli jest możliwe zapewnienie bezpiecznych i higienicznych warunków nauki na terenie tego przedszkola, szkoły, innej formy wychowania przedszkolnego lub placówki oraz jeżeli na danym terenie nie występują zdarzenia, które mogą zagrozić bezpieczeństwu lub zdrowiu ucznia.
 2.
 W przypadku ucznia, który z uwagi na trudną sytuację rodzinną nie może realizować zajęć z wykorzystaniem metod i technik kształcenia na odległość w miejscu zamieszkania, dyrektor, na wniosek rodziców ucznia, może zorganizować dla tego ucznia zajęcia na terenie danego przedszkola, szkoły, innej formy wychowania przedszkolnego lub placówki z wykorzystaniem metod i technik kształcenia na odległość, jeżeli jest możliwe zapewnienie bezpiecznych i higienicznych warunków nauki na terenie tego przedszkola, szkoły, innej formy wychowania przedszkolnego lub placówki oraz na danym terenie nie występują zdarzenia, które mogą zagrozić bezpieczeństwu lub zdrowiu ucznia.
 3.
@@ -118,6 +115,5 @@ W okresie prowadzenia zajęć z wykorzystaniem metod i technik kształcenia na o
 § 14.
 Przepisy § 3–5, § 9, § 10, § 12 i § 13 stosuje się odpowiednio do oddziału przedszkolnego w szkole podstawowej.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700 i 1730.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700 i 1730.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 marca 2016 r. w sprawie szczegółowych warunków uznania działalności marginalnej, lokalnej i ograniczonej
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 marca 2016 r. w sprawie szczegółowych warunków uznania działalności marginalnej, lokalnej i ograniczonej Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 4 sierpnia 2015 r. pod numerem 2015/0433/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) nr 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-21 |
 | Data wydania | 2016-04-05 |
-| Wejście w życie | 2016-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/451/text.pdf) |
 
@@ -142,5 +141,5 @@ W przypadku podmiotów prowadzących zarówno działalność marginalną, lokaln
 § 5.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2010 r. w sprawie szczegółowych warunków uznania działalności marginalnej, lokalnej i ograniczonej (Dz. U. poz. 753).
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 czerwca 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2016 r. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 4 sierpnia 2015 r. pod numerem 2015/0433/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) nr 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

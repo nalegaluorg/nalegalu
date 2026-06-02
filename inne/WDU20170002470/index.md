@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 grudnia 2017 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Służby Celno-Skarbowej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 22 grudnia 2017 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Służby Celno-Skarbowej Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-22 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2470/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 250a ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 250a ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321 i 2409.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa tryb, terminy oraz jednostki właściwe do przekazywania do Zakładu Ubezpieczeń Społecznych, zwanego dalej „ZUS”, składek na ubezpieczenia emerytalne i rentowe, zwanych dalej „składkami”, od uposażenia wypłaconego funkcjonariuszowi Służby Celno-Skarbowej, zwanego dalej „funkcjonariuszem”, po dniu 31 grudnia 2017 r. do dnia zwolnienia ze służby, od którego nie odprowadzono tych składek.
 § 2.
@@ -52,9 +51,7 @@ Jednostkami właściwymi do przekazywania do ZUS składek są:
 1)
 komórka organizacyjna urzędu obsługującego ministra właściwego do spraw finansów publicznych,
 2)
-izba administracji skarbowej
-właściwe w sprawie wypłaty uposażenia funkcjonariuszowi w dniu jego zwolnienia ze służby.
+izba administracji skarbowej – właściwe w sprawie wypłaty uposażenia funkcjonariuszowi w dniu jego zwolnienia ze służby.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321 i 2409.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321 i 2409.
 

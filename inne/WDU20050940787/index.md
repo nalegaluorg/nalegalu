@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-04-21 |
 | Data wydania | 2005-05-30 |
-| Wejście w życie | 2005-06-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050940787) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/787/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 91, poz. 877, Nr 92, poz. 882, Nr 93, poz. 896, Nr 173, poz. 1808, Nr 210, poz. 2135 i Nr 273, poz. 2703.) wprowadza się następujące zmiany:
 
 - **1)** w art. 38: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -106,5 +105,5 @@ source: "eli-html"
 
 **Art. 3.** Do postępowań administracyjnych w sprawach objętych przepisami niniejszej ustawy, wszczętych a niezakończonych przed dniem jej wejścia w życie, stosuje się przepisy dotychczasowe.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 91, poz. 877, Nr 92, poz. 882, Nr 93, poz. 896, Nr 173, poz. 1808, Nr 210, poz. 2135 i Nr 273, poz. 2703.
 

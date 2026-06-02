@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 2 marca 2022 r. zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu powoływania oraz odwoływania członków Rady Nadzorczej Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, a także szczegółowych zasad działania Rady Nadzorczej i szkolenia jej członków oraz wysokości ich wynagrodzenia za udział w posiedzeniach Rady
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 2 marca 2022 r. zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu powoływania oraz odwoływania członków Rady Nadzorczej Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, a także szczegółowych zasad działania Rady Nadzorczej i szkolenia jej członków oraz wysokości ich wynagrodzenia za udział w posiedzeniach Rady Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-02 |
 | Data wydania | 2022-03-03 |
-| Wejście w życie | 2022-03-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000512) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/512/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 26 marca 1998 r. w 
 1)
 w § 1 uchyla się ust. 4;
 2)
-w § 8 ust. 1 otrzymuje brzmienie:
-„
+w § 8 ust. 1 otrzymuje brzmienie: „
 1.
-Członkowie Rady Nadzorczej otrzymują za udział w posiedzeniach Rady Nadzorczej wynagrodzenie ze środków Funduszu w kwocie 500 złotych za jedno posiedzenie, niezależnie od czasu jego trwania.
-” .
+Członkowie Rady Nadzorczej otrzymują za udział w posiedzeniach Rady Nadzorczej wynagrodzenie ze środków Funduszu w kwocie 500 złotych za jedno posiedzenie, niezależnie od czasu jego trwania. ” .
 § 2.
 Do postępowań dotyczących powoływania członków Rady Nadzorczej Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o podatku rolnym oraz niektórych innych ustaw
+# Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o podatku rolnym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. – Prawo spółdzielcze, ustawę z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników, ustawę z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych oraz ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-13 |
 | Data wydania | 2023-07-28 |
-| Wejście w życie | 2024-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001450) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1450/text.pdf) |
 
@@ -37,7 +36,7 @@ source: "eli-html"
 
 - **1)** związku zawodowego rolników indywidualnych uprawnionego do otrzymania tej kwoty na podstawie art. 8b ust. 1 ustawy z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych (Dz. U. z 2022 r. poz. 99 oraz z 2023 r. poz. 1450) albo
 - **2)** związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne, uprawnionego do otrzymania tej kwoty na podstawie art. 257a ust. 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2021 r. poz. 648 oraz z 2023 r. poz. 1450), albo
-- **3)** Krajowego Związku Rolników, Kółek i Organizacji Rolniczych uprawnionego do otrzymania tej kwoty na podstawie art. 35a ust. 1 ustawy z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2022 r. poz. 281 oraz z 2023 r. poz. 1450) zwanych dalej „podmiotami uprawnionymi”.
+- **3)** Krajowego Związku Rolników, Kółek i Organizacji Rolniczych uprawnionego do otrzymania tej kwoty na podstawie art. 35a ust. 1 ustawy z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2022 r. poz. 281 oraz z 2023 r. poz. 1450) – zwanych dalej „podmiotami uprawnionymi”.
 
 2. W przypadku gdy obowiązek podatkowy ciąży solidarnie na kilku współwłaścicielach (posiadaczach), organ podatkowy przekazuje kwotę w wysokości 1,5% należnego podatku rolnego za dany rok podatkowy od kwoty zapłaconej z tytułu tego podatku przez współwłaściciela (posiadacza), na rzecz podmiotu uprawnionego wybranego przez tego współwłaściciela (posiadacza).
 
@@ -57,7 +56,7 @@ source: "eli-html"
 8. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
 
 - **1)** sposób przekazywania wniosku, o którym mowa w ust. 1, za pomocą środków komunikacji elektronicznej,
-- **2)** rodzaje podpisu elektronicznego, którym powinien zostać opatrzony wniosek, o którym mowa w ust. 1 uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tym wniosku oraz potrzebę ochrony tych danych przed nieuprawnionym dostępem.
+- **2)** rodzaje podpisu elektronicznego, którym powinien zostać opatrzony wniosek, o którym mowa w ust. 1 – uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tym wniosku oraz potrzebę ochrony tych danych przed nieuprawnionym dostępem.
 
 1. Kwotę, o której mowa w art. 6d ust. 1, zaokrągloną do pełnych dziesiątek groszy w dół, organ podatkowy przekazuje na rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wybranego przez podatnika podmiotu uprawnionego, jednorazowo w terminie do dnia 31 grudnia roku podatkowego, z tym że tę kwotę pomniejsza się o koszty przelewu bankowego.
 
@@ -191,7 +190,7 @@ source: "eli-html"
 - **2)** numer wpisu związku zawodowego rolników indywidualnych w rejestrze;
 - **3)** numer rachunku bankowego związku zawodowego rolników indywidualnych albo rachunku tego związku w spółdzielczej kasie oszczędnościowo-kredytowej. ” .
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.) w art. 77c § 2 otrzymuje brzmienie: „
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193 i 1234.) w art. 77c § 2 otrzymuje brzmienie: „
 
 § 2. Przepis § 1 stosuje się odpowiednio do nadpłat wynikających:
 
@@ -199,7 +198,7 @@ source: "eli-html"
 - **2)** z korekt deklaracji na podatek rolny zwracanych podatnikom, którzy złożyli wniosek, o którym mowa w art. 6d ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym. ” . W 2024 r. wniosek o wpis na listę, o której mowa w:
 - **1)** art. 257b ust. 1 ustawy zmienianej w art. 2,
 - **2)** art. 35b ust. 1 ustawy zmienianej w art. 3,
-- **3)** art. 8c ust. 1 ustawy zmienianej w art. 4 składa się w terminie do dnia 20 stycznia 2024 r.
+- **3)** art. 8c ust. 1 ustawy zmienianej w art. 4 – składa się w terminie do dnia 20 stycznia 2024 r.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r.
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. – Prawo spółdzielcze, ustawę z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników, ustawę z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych oraz ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193 i 1234.
 

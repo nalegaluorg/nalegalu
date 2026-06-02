@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-23 |
 | Data wydania | 2022-07-05 |
-| Wejście w życie | 2022-07-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001415) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1415/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2022 r. poz. 1394) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – w pkt 3 lit. b otrzymuje brzmienie: „ b) który określa w przepisach prawa powszechnie obowiązującego wymogi dla blankietu dokumentu publicznego, o którym mowa w pkt 2 lit. b, z tym że obowiązki określone w art. 14 i art. 34–39 wykonuje upoważniony na podstawie przepisów prawa powszechnie obowiązującego podmiot realizujący zadania publiczne, który zatwierdza wzór graficzny i formę tego dokumentu; ” , – w pkt 8 po wyrazie „SPECIMEN” skreśla się przecinek i wyrazy „a w przypadku dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 10–14, blankiet dokumentu publicznego niespersonalizowany i niezindywidualizowany fikcyjnymi danymi”, uchyla się ust. 3;
+- **1)** w art. 2: w ust. 1: w pkt 3 lit. b otrzymuje brzmienie: „ który określa w przepisach prawa powszechnie obowiązującego wymogi dla blankietu dokumentu publicznego, o którym mowa w pkt 2 lit. b, z tym że obowiązki określone w art. 14 i art. 34–39 wykonuje upoważniony na podstawie przepisów prawa powszechnie obowiązującego podmiot realizujący zadania publiczne, który zatwierdza wzór graficzny i formę tego dokumentu; ” , – w pkt 8 po wyrazie „SPECIMEN” skreśla się przecinek i wyrazy „a w przypadku dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 10–14, blankiet dokumentu publicznego niespersonalizowany i niezindywidualizowany fikcyjnymi danymi”, uchyla się ust. 3;
     - **a)**
+    - **b)**
     - **b)**
 
 - **2)** w art. 5 w ust. 2 uchyla się pkt 10–14;

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 22 maja 2013 r. w sprawie sposobu postępowania przy stosowaniu i przechowywaniu środków ochrony roślin
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 22 maja 2013 r. w sprawie sposobu postępowania przy stosowaniu i przechowywaniu środków ochrony roślin Rozporządzenie wdraża częściowo postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-22 |
 | Data wydania | 2013-05-31 |
-| Wejście w życie | 2013-06-15 |
 | Ostatnia zmiana | 2026-05-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000625) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/625/text.pdf) |
 
@@ -110,6 +109,5 @@ udostępnienie informacji o planowanym zabiegu oraz o niezbędnych środkach ost
 2.
 Informacje, o których mowa w ust. 1, zawierają co najmniej dane o powierzchni obszaru objętego planowanym zabiegiem oraz jego lokalizacji, o planowanym terminie przeprowadzenia zabiegu lub jego zmianie, o czasie trwania zabiegu oraz o środkach ochrony roślin, jakie będą stosowane.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 6 pkt 1, który wchodzi w życie z dniem 1 stycznia 2014 r.
-2) Rozporządzenie wdraża częściowo postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 6 pkt 1, który wchodzi w życie z dniem 1 stycznia 2014 r. 2) Rozporządzenie wdraża częściowo postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 21 października 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz. Urz. UE L 309 z 24.11.2009, str. 71).
 

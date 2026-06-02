@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-08-28 |
 | Data wydania | 2003-10-08 |
-| Wejście w życie | 2004-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031751691) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1691/text.pdf) |
+
+Aktywizacja zawodowa repatriantów
 
 **Art. 1.** W ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. Nr 106, poz. 1118, z 2001 r. Nr 42, poz. 475 i Nr 128, poz. 1403 oraz z 2002 r. Nr 113, poz. 984 i Nr 127, poz. 1090) wprowadza się następujące zmiany:
 
@@ -156,7 +157,7 @@ source: "eli-html"
 
 - **19)** rozdział 6 otrzymuje brzmienie: „
 
-#### Rozdział 6 Aktywizacja zawodowa repatriantów
+#### Rozdział 6
 
 **Art. 23.**
 
@@ -192,7 +193,7 @@ source: "eli-html"
 2. Przeszkolenie, o którym mowa w ust. 1, polega na:
 
 - **1)** przyuczeniu do zawodu lub przekwalifikowaniu repatrianta,
-- **2)** podniesieniu kwalifikacji zawodowych w ramach stosunku pracy,
+- **2)** podniesieniu kwalifikacji zawodowych – w ramach stosunku pracy,
 - **3)** wykonywaniu przez repatrianta zadań lub czynności w siedzibie przyszłego pracodawcy bez nawiązywania stosunku pracy, które umożliwią repatriantowi nabycie umiejętności praktycznych do samodzielnego wykonywania pracy po zakończeniu przeszkolenia.
 
 3. Przeszkolenie, o którym mowa w ust. 1, przeprowadza pracodawca, z tym że przeszkolenie polegające na przyuczeniu do zawodu, przekwalifikowaniu lub podniesieniu kwalifikacji zawodowych repatrianta, może przeprowadzić, na zlecenie pracodawcy, instytucja szkoleniowa.

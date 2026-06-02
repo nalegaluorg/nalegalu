@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-10-10 |
 | Data wydania | 2002-11-30 |
-| Wejście w życie | 2003-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001680) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1680/text.pdf) |
 
@@ -74,7 +73,7 @@ source: "eli-html"
 1. Podatek rolny za rok podatkowy wynosi:
 
 - **1)** od 1 ha przeliczeniowego gruntów, o których mowa w art. 4 ust. 1 pkt 1 – równowartość pieniężną 2,5 q żyta,
-- **2)** od 1 ha gruntów, o których mowa w art. 4 ust. 1 pkt 2 – równowartość pieniężną 5 q żyta obliczone według średniej ceny skupu żyta za pierwsze trzy kwartały roku poprzedzającego rok podatkowy. ” ;
+- **2)** od 1 ha gruntów, o których mowa w art. 4 ust. 1 pkt 2 – równowartość pieniężną 5 q żyta – obliczone według średniej ceny skupu żyta za pierwsze trzy kwartały roku poprzedzającego rok podatkowy. ” ;
 - **4)** w art. 6a: po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **a)**
 

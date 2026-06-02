@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 maja 2007 r. o zmianie ustawy o państwowym zasobie kadrowym i wysokich stanowiskach państwowych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 11 maja 2007 r. o zmianie ustawy o państwowym zasobie kadrowym i wysokich stanowiskach państwowych oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego oraz ustawę z dnia 24 sierpnia 2006 r. o służbie cywilnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-05-11 |
 | Data wydania | 2007-07-09 |
-| Wejście w życie | 2007-07-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071230847) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/847/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U. Nr 170, poz. 1217, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U. Nr 170, poz. 1217, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 249, poz. 1832 oraz z 2007 r. Nr 17, poz. 96, Nr 50, poz. 331 i Nr 99, poz. 660.) wprowadza się następujące zmiany:
 
-- **1)** w art. 6: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) urzędnicy służby cywilnej; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5 w brzmieniu: „ 5) osoby posiadające stopień naukowy doktora. ” , ust. 2 otrzymuje brzmienie: „
+- **1)** w art. 6: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** urzędnicy służby cywilnej; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5 w brzmieniu: „
+- **5)** osoby posiadające stopień naukowy doktora. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Przynależność do państwowego zasobu kadrowego osób, o których mowa w ust. 1, trwa przez okres dziesięciu lat od dnia wejścia do państwowego zasobu kadrowego. ” ;
@@ -60,5 +62,5 @@ w ust. 1 pkt 1 otrzymuje brzmienie: „
 
 4. Osoby, o których mowa w ust. 1 i 2, podlegają wpisowi do ewidencji osób należących do państwowego zasobu kadrowego prowadzonej przez Szefa Kancelarii Prezesa Rady Ministrów.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego oraz ustawę z dnia 24 sierpnia 2006 r. o służbie cywilnej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 249, poz. 1832 oraz z 2007 r. Nr 17, poz. 96, Nr 50, poz. 331 i Nr 99, poz. 660.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-09 |
 | Data wydania | 2022-12-14 |
-| Wejście w życie | 2022-12-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002615) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2615/text.pdf) |
 
@@ -45,5 +44,5 @@ O przyznaniu żołnierzowi zawodowemu dodatkowego uposażenia rocznego organ, o 
 § 5.
 W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 28 lutego 2014 r. w sprawie przyznawania żołnierzom zawodowym dodatkowego uposażenia rocznego (Dz. U. poz. 355), które zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 28 lutego 2014 r. w sprawie przyznawania żołnierzom zawodowym dodatkowego uposażenia rocznego (Dz. U. poz. 355), które zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-07-27 |
 | Data wydania | 2001-09-18 |
-| Wejście w życie | 2001-10-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011001084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1084/text.pdf) |
 
@@ -353,8 +352,11 @@ Kontyngenty policyjne wydzielone do realizacji zadań poza granicami państwa
 
 - **1)** wymagania w zakresie wykształcenia, kwalifikacji zawodowych i stażu służby, jakim powinni odpowiadać policjanci na stanowiskach komendantów Policji i innych stanowiskach służbowych, uwzględniając jako równoznaczne ze spełnieniem warunku uzyskania kwalifikacji zawodowych ukończenie przeszkolenia na stopień policyjny lub zdanie egzaminu na stopień policyjny,
 - **2)** szczegółowe warunki odbywania szkoleń zawodowych w Policji, uwzględniając rodzaje szkoleń zawodowych, formy, warunki i tryb ich odbywania, a także organizację i sposób prowadzenia szkoleń oraz nadzór nad ich realizacją. ” ;
-- **19)** w art. 41: w ust. 1: – w pkt 5 wyraz „utraty” zastępuje się wyrazami „zrzeczenia się”, – w pkt 5 na końcu kropkę zastępuje się przecinkiem i dodaje się pkt 6 i 7 w brzmieniu: „ 6) upływu okresu służby określonego w kontrakcie, jeżeli nie nastąpi zawarcie kolejnego kontraktu lub mianowanie na stałe, 7) upływu okresu próbnego służby kontraktowej, jeżeli policjant lub przełożony skorzystał z uprawnienia określonego w art. 28a ust. 4. ” , w ust. 2 w pkt 1 po wyrazach „służby stałej” dodaje się wyrazy „lub służby kontraktowej”, po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+- **19)** w art. 41: w ust. 1: – w pkt 5 wyraz „utraty” zastępuje się wyrazami „zrzeczenia się”, w pkt 5 na końcu kropkę zastępuje się przecinkiem i dodaje się pkt 6 i 7 w brzmieniu: „
     - **a)**
+
+- **6)** upływu okresu służby określonego w kontrakcie, jeżeli nie nastąpi zawarcie kolejnego kontraktu lub mianowanie na stałe,
+- **7)** upływu okresu próbnego służby kontraktowej, jeżeli policjant lub przełożony skorzystał z uprawnienia określonego w art. 28a ust. 4. ” , w ust. 2 w pkt 1 po wyrazach „służby stałej” dodaje się wyrazy „lub służby kontraktowej”, po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
     - **b)**
     - **c)**
 

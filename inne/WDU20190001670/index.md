@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 21 sierpnia 2019 r. w sprawie maksymalnych wartości kosztów inwestycyjnych oraz kosztów operacyjnych wybudowania i funkcjonowania nowej porównywalnej jednostki kogeneracji
+# Rozporządzenie Ministra Energiiz dnia 21 sierpnia 2019 r. w sprawie maksymalnych wartości kosztów inwestycyjnych oraz kosztów operacyjnych wybudowania i funkcjonowania nowej porównywalnej jednostki kogeneracji Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-21 |
 | Data wydania | 2019-09-02 |
-| Wejście w życie | 2019-09-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001670) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1670/text.pdf) |
 
@@ -109,6 +108,5 @@ nie większej niż 1 MW – 300 000 zł/MW/rok,
 b)
 większej niż 1 MW i nie większej niż 50 MW – 250 000 zł/MW/rok.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-28 |
 | Data wydania | 2019-07-03 |
-| Wejście w życie | 2019-07-07 |
 | Ostatnia zmiana | 2024-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1234/text.pdf) |
 
@@ -159,24 +158,33 @@ Tworzy się fundusz premiowy dla pracowników zatrudnionych na stanowiskach obs�
 2.
 Wysokość funduszu premiowego, o którym mowa w ust. 1, oraz zasady i warunki przyznawania premii określa Przewodniczący.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.
+Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 23 grudnia 2002 r. w sprawie zasad wynagradzania oraz wymogów kwalifikacyjnych pracowników Biura Krajowej Rady Radiofonii i Telewizji (Dz. U. poz. 2075), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ustawy z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1043). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 23 grudnia 2002 r. w sprawie zasad wynagradzania oraz wymogów kwalifikacyjnych pracowników Biura Krajowej Rady Radiofonii i Telewizji (Dz. U. poz. 2075), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ustawy z dnia 16 maja 2019 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1043).
 
 ## Załącznik nr 1 — – Wykaz stanowisk, wymagań kwalifikacyjnych, kategorii zaszeregowania oraz dodatku funkcyjnego pracowników biura zatrudnionych na stanowiskach urzędników państwowych
 
-Lp. Stanowisko Wymagania kwalifikacyjne Kategoria zaszeregowania Stawka dodatku funkcyjnego do wykształcenie liczba lat pracy (w tym na stanowisku kierowniczym) 1 Dyrektor Biura wyższe magisterskie 8 (5) XX-XXI 10 2 wicedyrektor Biura, dyrektor departamentu wyższe magisterskie 7 (4) XIX-XX 9 3 wicedyrektor departamentu wyższe magisterskie 7 (3) XVIII-XIX 8 główny księgowy według odrębnych przepisów 4 główny specjalista do spraw legislacji wyższe prawnicze oraz ukończona aplikacja legislacyjna lub ukończone studia podyplomowe z zakresu legislacji 7 XVII-XVIII 6 ekspert wyższe magisterskie inspektor ochrony danych pełnomocnik do spraw ochrony informacji niejawnych audytor wewnętrzny według odrębnych przepisów radca prawny według odrębnych przepisów – 5 doradca Przewodniczącego Krajowej Rady Radiofonii i Telewizji, doradca członka Krajowej Rady Radiofonii i Telewizji wyższe magisterskie 7 XVII-XVIII 6 6 naczelnik wydziału wyższe magisterskie 7 (3) XV-XVII 7 7 główny specjalista wyższe magisterskie 7 XIII-XVI – główny specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 8 asystent członka Krajowej Rady Radiofonii i Telewizji wyższe 5 XII-XV – średnie 7 9 aspirant wyższe 5 X-XIV – średnie 7 10 starszy specjalista wyższe 4 IX-XIII – starszy specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 11 specjalista wyższe 3 VII-XII – specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 12 starszy inspektor, starszy archiwista wyższe 2 VI-XI – średnie 4 13 inspektor, sekretarz członka Krajowej Rady Radiofonii i Telewizji, sekretarz dyrektora, archiwista wyższe 1 IV-X – średnie 2 14 referent prawny wyższe prawnicze – III-IX – 15 starszy referent wyższe – II-VIII – średnie 1 16 referent średnie – I-V –
+Lp. Stanowisko Wymagania kwalifikacyjne Kategoria zaszeregowania Stawka dodatku funkcyjnego do wykształcenie liczba lat pracy (w tym na stanowisku kierowniczym) 1 Dyrektor Biura wyższe magisterskie 8 (5) XX-XXI 10 2 wicedyrektor Biura,
+dyrektor departamentu wyższe magisterskie 7 (4) XIX-XX 9 3 wicedyrektor departamentu wyższe magisterskie 7 (3) XVIII-XIX 8 główny księgowy według odrębnych przepisów 4 główny specjalista do spraw legislacji wyższe prawnicze oraz ukończona aplikacja legislacyjna lub ukończone studia podyplomowe z zakresu legislacji 7 XVII-XVIII 6 ekspert wyższe magisterskie inspektor ochrony danych pełnomocnik do spraw ochrony informacji niejawnych audytor wewnętrzny według odrębnych przepisów radca prawny według odrębnych przepisów – 5 doradca Przewodniczącego Krajowej Rady Radiofonii i Telewizji,
+doradca członka Krajowej Rady Radiofonii i Telewizji wyższe magisterskie 7 XVII-XVIII 6 6 naczelnik wydziału wyższe magisterskie 7 (3) XV-XVII 7 7 główny specjalista wyższe magisterskie 7 XIII-XVI – główny specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 8 asystent członka Krajowej Rady Radiofonii i Telewizji wyższe 5 XII-XV – średnie 7 9 aspirant wyższe 5 X-XIV – średnie 7 10 starszy specjalista wyższe 4 IX-XIII – starszy specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 11 specjalista wyższe 3 VII-XII – specjalista do spraw bezpieczeństwa i higieny pracy według odrębnych przepisów 12 starszy inspektor, starszy archiwista wyższe 2 VI-XI – średnie 4 13 inspektor,
+sekretarz członka Krajowej Rady Radiofonii i Telewizji,
+sekretarz dyrektora,
+archiwista wyższe 1 IV-X – średnie 2 14 referent prawny wyższe prawnicze – III-IX – 15 starszy referent wyższe – II-VIII – średnie 1 16 referent średnie – I-V –
 
 ## Załącznik nr 2 — – Tabela stanowisk, wymagań kwalifikacyjnych oraz kategorii zaszeregowania pracowników biura zatrudnionych na stanowiskach obsługi
 
-Lp. Stanowisko Wymagania kwalifikacyjne Kategoria zaszeregowania wykształcenie liczba lat pracy 1 kierowca, kierowca zaopatrzeniowiec zawodowe i prawo jazdy kategorii B 2 XI-XIII 2 pracownik gospodarczy podstawowe – VII-X 3 sprzątaczka podstawowe – I-VIII
+Lp. Stanowisko Wymagania kwalifikacyjne Kategoria zaszeregowania wykształcenie liczba lat pracy 1 kierowca,
+kierowca zaopatrzeniowiec zawodowe i prawo jazdy kategorii B 2 XI-XIII 2 pracownik gospodarczy podstawowe – VII-X 3 sprzątaczka podstawowe – I-VIII
 
 ## Załącznik nr 3 — – Tabela miesięcznych stawek wynagrodzenia zasadniczego
 
 A.
-dla pracowników Biura zatrudnionych na stanowiskach urzędników państwowych Kategoria zaszeregowania Kwota w złotych I 2 400–2 600 II 2 450–2 650 III 2 500–3 200 IV 2 550–3 600 V 2 600–3 800 VI 2 650–4 000 VII 2 700–4 200 VIII 2 750–4 350 IX 2 800–4 700 X 2 850–4 850 XI 2 900–5 000 XII 3 000–5 500 XIII 3 150–6 000 XIV 3 300–6 500 XV 3 450–7 000 XVI 3 600–7 500 XVII 3 800–8 000 XVIII 4 000–8 500 XIX 4 500–9 000 XX 5 000–10 000 XXI 5 500–11 000
+dla pracowników Biura zatrudnionych na stanowiskach urzędników państwowych
+Kategoria zaszeregowania Kwota w złotych I 2 400–2 600 II 2 450–2 650 III 2 500–3 200 IV 2 550–3 600 V 2 600–3 800 VI 2 650–4 000 VII 2 700–4 200 VIII 2 750–4 350 IX 2 800–4 700 X 2 850–4 850 XI 2 900–5 000 XII 3 000–5 500 XIII 3 150–6 000 XIV 3 300–6 500 XV 3 450–7 000 XVI 3 600–7 500 XVII 3 800–8 000 XVIII 4 000–8 500 XIX 4 500–9 000 XX 5 000–10 000 XXI 5 500–11 000
 B.
-dla pracowników Biura zatrudnionych na stanowiskach obsługi Kategoria zaszeregowania Kwota w złotych I 2 350–2 500 II 2 400–2 600 III 2 450–2 700 IV 2 500–2 800 V 2 550–2 900 VI 2 600–3 000 VII 2 650–3 100 VIII 2 700–3 200 IX 2 750–3 300 X 2 800–3 600 XI 2 850–4 000 XII 2 900–5 000 XIII 2 950–5 500
+dla pracowników Biura zatrudnionych na stanowiskach obsługi
+Kategoria zaszeregowania Kwota w złotych I 2 350–2 500 II 2 400–2 600 III 2 450–2 700 IV 2 500–2 800 V 2 550–2 900 VI 2 600–3 000 VII 2 650–3 100 VIII 2 700–3 200 IX 2 750–3 300 X 2 800–3 600 XI 2 850–4 000 XII 2 900–5 000 XIII 2 950–5 500
 
 ## Załącznik nr 4 — – Tabela stawek dodatku funkcyjnego
 
-Stawka Procent najniższego wynagrodzenia* 1 do 20% 2 do 30% 3 do 40% 4 do 50% 5 do 60% 6 do 70% 7 do 85% 8 do 100% 9 do 125% 10 do 150% * Najniższe wynagrodzenie oznacza najniższe wynagrodzenie zasadnicze w pierwszej kategorii zaszeregowania, określone w załączniku nr 3 do rozporządzenia w Tabeli miesięcznych stawek wynagrodzenia zasadniczego w lit. A.
+Stawka Procent najniższego wynagrodzenia* 1 do 20% 2 do 30% 3 do 40% 4 do 50% 5 do 60% 6 do 70% 7 do 85% 8 do 100% 9 do 125% 10 do 150%
+* Najniższe wynagrodzenie oznacza najniższe wynagrodzenie zasadnicze w pierwszej kategorii zaszeregowania, określone w załączniku nr 3 do rozporządzenia w Tabeli miesięcznych stawek wynagrodzenia zasadniczego w lit. A.
 

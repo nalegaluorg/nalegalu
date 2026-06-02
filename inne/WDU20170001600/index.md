@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-28 |
-| Wejście w życie | 2017-09-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001600) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1600/text.pdf) |
 
@@ -32,8 +31,21 @@ source: "eli-html"
 
 1a. Za sport uważa się również współzawodnictwo oparte na aktywności intelektualnej, którego celem jest osiągnięcie wyniku sportowego. ” ;
 
-- **2)** w art. 9: w ust. 3: – pkt 2a otrzymuje brzmienie: „ 2a) posiadać w spółkach prawa handlowego prowadzących działalność gospodarczą związaną z realizacją przez ten związek jego zadań statutowych akcji lub udziałów; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–10 w brzmieniu: „ 4) łączyć tej funkcji z pracą na rzecz ministerstwa zapewniającego obsługę ministra właściwego do spraw kultury fizycznej w ramach stosunku pracy albo na podstawie umowy cywilnoprawnej; 5) łączyć tej funkcji z funkcją trenera kadry narodowej lub funkcją pełnioną w sztabie szkoleniowym kadry narodowej w tym samym sporcie; 6) być członkiem organu, prokurentem lub pełnomocnikiem podmiotu świadczącego na rzecz polskiego związku sportowego usługi, dostawy lub roboty budowlane, w tym usługi sponsoringu finansowego lub rzeczowego; 7) być osobą najbliższą, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2016 r. poz. 1137, z późn. zm.), dla osoby prowadzącej działalność gospodarczą polegającą na świadczeniu na rzecz polskiego związku sportowego usług, dostaw lub robót budowlanych, w tym usług sponsoringu finansowego lub rzeczowego; 8) być osobą najbliższą, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, dla osoby: a) posiadającej w spółkach prawa handlowego akcje lub udziały, b) będącej wspólnikiem spółki osobowej prawa handlowego, c) będącej członkiem organu, prokurentem lub pełnomocnikiem w innym podmiocie prowadzącym działalność gospodarczą – jeżeli działalność gospodarcza prowadzona przez te podmioty polega na świadczeniu na rzecz polskiego związku sportowego usług, dostaw lub robót budowlanych, w tym usług sponsoringu finansowego lub rzeczowego; 9) być osobą, która była pracownikiem, funkcjonariuszem lub żołnierzem organów bezpieczeństwa państwa, o których mowa w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575), w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r.; 10) być osobą, która była karana dyscyplinarnie za doping w sporcie w wymiarze jednostkowym większym niż 24 miesiące dyskwalifikacji. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+- **2)** w art. 9: w ust. 3: pkt 2a otrzymuje brzmienie: „
     - **a)**
+
+- **2a)** posiadać w spółkach prawa handlowego prowadzących działalność gospodarczą związaną z realizacją przez ten związek jego zadań statutowych akcji lub udziałów; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–10 w brzmieniu: „
+- **4)** łączyć tej funkcji z pracą na rzecz ministerstwa zapewniającego obsługę ministra właściwego do spraw kultury fizycznej w ramach stosunku pracy albo na podstawie umowy cywilnoprawnej;
+- **5)** łączyć tej funkcji z funkcją trenera kadry narodowej lub funkcją pełnioną w sztabie szkoleniowym kadry narodowej w tym samym sporcie;
+- **6)** być członkiem organu, prokurentem lub pełnomocnikiem podmiotu świadczącego na rzecz polskiego związku sportowego usługi, dostawy lub roboty budowlane, w tym usługi sponsoringu finansowego lub rzeczowego;
+- **7)** być osobą najbliższą, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2016 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2138 oraz z 2017 r. poz. 244, 768, 773, 952, 966 i 1214.), dla osoby prowadzącej działalność gospodarczą polegającą na świadczeniu na rzecz polskiego związku sportowego usług, dostaw lub robót budowlanych, w tym usług sponsoringu finansowego lub rzeczowego;
+- **8)** być osobą najbliższą, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, dla osoby: posiadającej w spółkach prawa handlowego akcje lub udziały, będącej wspólnikiem spółki osobowej prawa handlowego, będącej członkiem organu, prokurentem lub pełnomocnikiem w innym podmiocie prowadzącym działalność gospodarczą – jeżeli działalność gospodarcza prowadzona przez te podmioty polega na świadczeniu na rzecz polskiego związku sportowego usług, dostaw lub robót budowlanych, w tym usług sponsoringu finansowego lub rzeczowego;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **9)** być osobą, która była pracownikiem, funkcjonariuszem lub żołnierzem organów bezpieczeństwa państwa, o których mowa w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575), w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r.;
+- **10)** być osobą, która była karana dyscyplinarnie za doping w sporcie w wymiarze jednostkowym większym niż 24 miesiące dyskwalifikacji. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
     - **b)**
 
 3a. Członek organu kontroli wewnętrznej polskiego związku sportowego nie może być osobą, która była pracownikiem, funkcjonariuszem lub żołnierzem organów bezpieczeństwa państwa, o których mowa w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. ” , ust. 4 otrzymuje brzmienie: „
@@ -47,7 +59,7 @@ source: "eli-html"
 - **3)** jest wspólnikiem spółki osobowej prawa handlowego, o której mowa w ust. 3 pkt 2b,
 - **4)** wykonuje pracę na rzecz ministerstwa zapewniającego obsługę ministra właściwego do spraw kultury fizycznej,
 - **5)** pełni funkcję trenera kadry narodowej lub funkcję w sztabie szkoleniowym kadry narodowej w tym samym sporcie,
-- **6)** jest członkiem organu, prokurentem lub pełnomocnikiem podmiotu świadczącego na rzecz polskiego związku sportowego usługi, dostawy lub roboty budowlane, w tym usługi sponsoringu finansowego lub rzeczowego jest obowiązana w terminie 30 dni od dnia objęcia funkcji zaprzestać prowadzenia działalności gospodarczej, zbyć akcje lub udziały, wystąpić ze spółki, rozwiązać umowę lub zrezygnować z pełnionych funkcji. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **6)** jest członkiem organu, prokurentem lub pełnomocnikiem podmiotu świadczącego na rzecz polskiego związku sportowego usługi, dostawy lub roboty budowlane, w tym usługi sponsoringu finansowego lub rzeczowego – jest obowiązana w terminie 30 dni od dnia objęcia funkcji zaprzestać prowadzenia działalności gospodarczej, zbyć akcje lub udziały, wystąpić ze spółki, rozwiązać umowę lub zrezygnować z pełnionych funkcji. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **d)**
 
 4a. Jeżeli osoba obejmująca funkcję członka zarządu polskiego związku sportowego w dniu wyboru jest osobą najbliższą, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, dla osoby, o której mowa w ust. 3 pkt 7 i 8, jest obowiązana w terminie 30 dni od dnia objęcia funkcji zrezygnować z tej funkcji, chyba że jej osoba najbliższa odpowiednio zaprzestanie prowadzenia działalności gospodarczej, zbędzie akcje lub udziały, wystąpi ze spółki lub rozwiąże umowę albo przestanie być członkiem organu, prokurentem lub pełnomocnikiem. ” , ust. 5 otrzymuje brzmienie: „
@@ -141,7 +153,7 @@ source: "eli-html"
 - **1)** szczegółowy tryb przyznawania członkowi kadry narodowej stypendium sportowego, a także wstrzymywania i pozbawiania tego stypendium,
 - **2)** przedział wysokości stypendium sportowego, stanowiący krotność kwoty bazowej,
 - **3)** czas, na jaki stypendium sportowe może zostać przyznane,
-- **4)** sposób i terminy wypłacania stypendium sportowego uwzględniając zajęte przez członka kadry narodowej miejsce we współzawodnictwie międzynarodowym i sprawną realizację wypłaty stypendiów sportowych. ” ;
+- **4)** sposób i terminy wypłacania stypendium sportowego – uwzględniając zajęte przez członka kadry narodowej miejsce we współzawodnictwie międzynarodowym i sprawną realizację wypłaty stypendiów sportowych. ” ;
 - **7)** po art. 32 dodaje się art. 32a w brzmieniu: „
 
 **Art. 32a.**
@@ -154,7 +166,7 @@ source: "eli-html"
 
 - **8)** w art. 33 ust. 1 otrzymuje brzmienie: „
 
-1. Osoby pobierające stypendia sportowe, o których mowa w art. 5, art. 31 ust. 1 i 2, art. 32 ust. 1 oraz art. 32a ust. 1, są stypendystami sportowymi w rozumieniu przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.), a okres ich pobierania zalicza się do okresu zatrudnienia w rozumieniu przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, 1292, 1321, 1428 i 1543) oraz do okresu zatrudnienia, od którego zależą uprawnienia pracownicze. Podstawę zaliczenia okresu pobierania stypendium sportowego stanowi zaświadczenie wydane przez podmiot wypłacający stypendium. ” ;
+1. Osoby pobierające stypendia sportowe, o których mowa w art. 5, art. 31 ust. 1 i 2, art. 32 ust. 1 oraz art. 32a ust. 1, są stypendystami sportowymi w rozumieniu przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027, 1321, 1428, 1475 i 1543.), a okres ich pobierania zalicza się do okresu zatrudnienia w rozumieniu przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, 1292, 1321, 1428 i 1543) oraz do okresu zatrudnienia, od którego zależą uprawnienia pracownicze. Podstawę zaliczenia okresu pobierania stypendium sportowego stanowi zaświadczenie wydane przez podmiot wypłacający stypendium. ” ;
 
 - **9)** w art. 34: po ust. 3 dodaje się ust. 3a-3m w brzmieniu: „
     - **a)**
@@ -177,7 +189,7 @@ source: "eli-html"
 
 - **1)** igrzysk olimpijskich,
 - **2)** igrzysk paraolimpijskich,
-- **3)** igrzysk głuchych mogą być przyznane, jeżeli wyniki te zostały zatwierdzone przez międzynarodowe federacje sportowe właściwe dla danego sportu.
+- **3)** igrzysk głuchych – mogą być przyznane, jeżeli wyniki te zostały zatwierdzone przez międzynarodowe federacje sportowe właściwe dla danego sportu.
 
 3d. Nagrody pieniężne za wybitne osiągnięcia sportowe, zwane dalej „nagrodami”, mogą być przyznane za wybitne osiągnięcia sportowe w międzynarodowym współzawodnictwie sportowym.
 
@@ -194,7 +206,7 @@ source: "eli-html"
 - **1)** mistrzostwach świata,
 - **2)** mistrzostwach Europy,
 - **3)** uniwersjadzie letniej lub zimowej,
-- **4)** akademickich mistrzostwach świata jeżeli w zawodach brało udział co najmniej 8 państw w danej konkurencji, przy czym w konkurencjach indywidualnych brało udział co najmniej 12 osób, a w konkurencjach zespołowych co najmniej 8 drużyn, osad lub załóg.
+- **4)** akademickich mistrzostwach świata – jeżeli w zawodach brało udział co najmniej 8 państw w danej konkurencji, przy czym w konkurencjach indywidualnych brało udział co najmniej 12 osób, a w konkurencjach zespołowych co najmniej 8 drużyn, osad lub załóg.
 
 3h. Nagrody mogą być przyznane także, jeżeli z regulaminu zawodów wynika udział mniejszej liczby osób, drużyn, osad lub załóg w danej konkurencji, jeżeli w konkurencjach indywidualnych brało udział co najmniej 8 osób, a w konkurencjach zespołowych co najmniej 6 drużyn, osad lub załóg.
 
@@ -202,7 +214,7 @@ source: "eli-html"
 
 - **1)** igrzysk olimpijskich,
 - **2)** igrzysk paraolimpijskich,
-- **3)** igrzysk głuchych mogą być przyznane, jeżeli wyniki te zostały zatwierdzone przez międzynarodowe federacje sportowe właściwe dla danego sportu.
+- **3)** igrzysk głuchych – mogą być przyznane, jeżeli wyniki te zostały zatwierdzone przez międzynarodowe federacje sportowe właściwe dla danego sportu.
 
 3j. Nagroda może być przyznana nie częściej niż raz w roku także osobie, która uzyskała inne niż określone w ust. 3f i 3g wybitne osiągnięcie sportowe o szczególnym charakterze.
 
@@ -233,8 +245,10 @@ source: "eli-html"
 
 4. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, rodzaje i wzory odznak, wzory legitymacji potwierdzających przyznanie tych odznak, rodzaje wyróżnień oraz przedział wysokości nagród pieniężnych, w zależności od osiągnięć w działalności w zakresie sportu, a także szczegółowe warunki i tryb przyznawania odznak, wyróżnień i nagród pieniężnych, uwzględniając znaczenie osiągnięć oraz podjętej aktywności dla rozwoju danego sportu, a także sposób ich dokumentowania. ” ;
 
-- **11)** w art. 36: w ust. 2: – uchyla się pkt 5, – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) nie była karana dyscyplinarnie za doping w sporcie dyskwalifikacją w wymiarze jednostkowym większym niż 24 miesiące lub więcej niż raz bez względu na jej jednostkowy wymiar. ” , ust. 8 i 9 otrzymują brzmienie: „
+- **11)** w art. 36: w ust. 2: – uchyla się pkt 5, w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
     - **a)**
+
+- **7)** nie była karana dyscyplinarnie za doping w sporcie dyskwalifikacją w wymiarze jednostkowym większym niż 24 miesiące lub więcej niż raz bez względu na jej jednostkowy wymiar. ” , ust. 8 i 9 otrzymują brzmienie: „
     - **b)**
 
 8. Osoba, która otrzymuje świadczenie, niezwłocznie powiadamia ministra właściwego do spraw kultury fizycznej o ustaniu co najmniej jednego z warunków, o których mowa w ust. 2 pkt 3 i 4 oraz 6 i 7.
@@ -308,5 +322,5 @@ source: "eli-html"
 
 3. W przypadku gdy wysokość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, minister właściwy do spraw kultury fizycznej zmniejszy liczbę stypendiów sportowych przyznawanych na podstawie art. 32a ustawy zmienianej w art. 1 lub wysokość stypendiów sportowych przyznawanych na podstawie art. 32 ustawy zmienianej w art. 1 w sposób pozwalający na zachowanie limitów określonych w ust. 1.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6–10, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6–10, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2138 oraz z 2017 r. poz. 244, 768, 773, 952, 966 i 1214. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38, 60, 777, 962, 1027, 1321, 1428, 1475 i 1543.
 

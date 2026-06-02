@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-24 |
 | Data wydania | 2014-12-31 |
-| Wejście w życie | 2014-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1984/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 77 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. Nr 167, poz. 1131, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 77 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. Nr 167, poz. 1131, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 133, poz. 768, z 2012 r. poz. 1407 oraz z 2014 r. poz. 1741 i 1888.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 21 listopada 2011 r. w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. z 2012 r. poz. 75 i 1463) § 7 otrzymuje brzmienie:
-„
+W rozporządzeniu Rady Ministrów z dnia 21 listopada 2011 r. w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. z 2012 r. poz. 75 i 1463) § 7 otrzymuje brzmienie: „
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 133, poz. 768, z 2012 r. poz. 1407 oraz z 2014 r. poz. 1741 i 1888.
 

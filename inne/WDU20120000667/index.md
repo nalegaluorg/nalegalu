@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-05 |
 | Data wydania | 2012-06-14 |
-| Wejście w życie | 2012-06-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000667) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/667/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie katowickiej specjalnej strefy ekonomicznej (Dz. U. Nr 232, poz. 1550, z 2009 r. Nr 217, poz. 1684 oraz z 2011 r. Nr 110, poz. 642) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 2004,8292 ha, położone na terenach miast: Bielsko-Biała, Bieruń, Bytom, Częstochowa, Dąbrowa Górnicza, Gliwice, Jastrzębie-Zdrój, Katowice, Kędzierzyn-Koźle, Knurów, Lubliniec, Orzesze, Racibórz, Rybnik, Siemianowice Śląskie, Sławków, Sosnowiec, Tychy, Zabrze, Zawiercie i Żory oraz gmin: Czechowice-Dziedzice, Czerwionka-Leszczyny, Głuchołazy, Godów, Gogolin, Kietrz, Koniecpol, Krapkowice, Miedźna, Myślenice, Olesno, Pawłowice, Radziechowy-Wieprz, Rajcza, Rudziniec, Siewierz, Strzelce Opolskie i Ujazd.
-” ;
+Strefa obejmuje grunty o powierzchni 2004,8292 ha, położone na terenach miast: Bielsko-Biała, Bieruń, Bytom, Częstochowa, Dąbrowa Górnicza, Gliwice, Jastrzębie-Zdrój, Katowice, Kędzierzyn-Koźle, Knurów, Lubliniec, Orzesze, Racibórz, Rybnik, Siemianowice Śląskie, Sławków, Sosnowiec, Tychy, Zabrze, Zawiercie i Żory oraz gmin: Czechowice-Dziedzice, Czerwionka-Leszczyny, Głuchołazy, Godów, Gogolin, Kietrz, Koniecpol, Krapkowice, Miedźna, Myślenice, Olesno, Pawłowice, Radziechowy-Wieprz, Rajcza, Rudziniec, Siewierz, Strzelce Opolskie i Ujazd. ” ;
 2)
 w załączniku do rozporządzenia Szczegółowy opis granic i terenu Katowickiej Specjalnej Strefy Ekonomicznej wprowadza się następujące zmiany:
 a)

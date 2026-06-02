@@ -35,13 +35,11 @@ ustawą z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach
 2)
 ustawą z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624),
 3)
-ustawą z dnia 20 lipca 2017 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw (Dz. U. poz. 1509)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 października 2017 r.
+ustawą z dnia 20 lipca 2017 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw (Dz. U. poz. 1509) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 października 2017 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), które stanowią:
-„
+art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), które stanowią: „
 
 **Art. 120.**
 
@@ -90,7 +88,7 @@ art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające
 
 **Art. 2.** Prawo do rekompensaty przysługuje właścicielowi nieruchomości pozostawionych poza obecnymi granicami Rzeczypospolitej Polskiej, jeżeli spełnia on łącznie następujące wymogi:
 
-- **1)** był w dniu 1 września 1939 r. obywatelem polskim i miał miejsce zamieszkania na byłym terytorium Rzeczypospolitej Polskiej w rozumieniu przepisów: art. 3 ustawy z dnia 2 sierpnia 1926 r. o prawie właściwym dla stosunków prywatnych wewnętrznych (Dz. U. poz. 580) lub art. 24 Kodeksu Postępowania Cywilnego (Dz. U. z 1932 r. poz. 934), lub § 3–10 rozporządzenia Ministra Spraw Wewnętrznych z dnia 23 maja 1934 r. wydanego w porozumieniu z Ministrem Skarbu co do § 2 ust. 3–5, z Ministrem Spraw Wojskowych co do §§ 20, 21, 22, 24 ust. 3, § 49 ust. 1 i 2, § 55 i § 56 oraz z Ministrem Spraw Zagranicznych co do § 18 ust. 1 i 2, § 51 i § 55, o meldunkach i księgach ludności (Dz. U. poz. 489) oraz opuścił byłe terytorium Rzeczypospolitej Polskiej z przyczyn, o których mowa w art. 1, lub z tych przyczyn nie mógł na nie powrócić;
+- **1)** był w dniu 1 września 1939 r. obywatelem polskim i miał miejsce zamieszkania na byłym terytorium Rzeczypospolitej Polskiej w rozumieniu przepisów: art. 3 ustawy z dnia 2 sierpnia 1926 r. o prawie właściwym dla stosunków prywatnych wewnętrznych (Dz. U. poz. 580) lub art. 24 Kodeksu Postępowania Cywilnego (Dz. U. z 1932 r. poz. 934), lub § 3–10 rozporządzenia Ministra Spraw Wewnętrznych z dnia 23 maja 1934 r. wydanego w porozumieniu z Ministrem Skarbu co do § 2 ust. 3–5, z Ministrem Spraw Wojskowych co do §§ 20, 21, 22, 24 ust. 3, § 49 ust. 1 i 2, § 55 i § 56 oraz z Ministrem Spraw Zagranicznych co do § 18 ust. 1 i 2, § 51 i § 55, o meldunkach i księgach ludności (Dz. U. poz. 489) – oraz opuścił byłe terytorium Rzeczypospolitej Polskiej z przyczyn, o których mowa w art. 1, lub z tych przyczyn nie mógł na nie powrócić;
     - **a)**
     - **b)**
     - **c)**
@@ -147,7 +145,7 @@ art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające
 5. W przypadku braku dokumentów, o których mowa w ust. 4 pkt 1 i 2, dowodami, o których mowa w ust. 1 pkt 1, mogą być oświadczenia dwóch świadków złożone, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, przed notariuszem, organem prowadzącym postępowanie lub w polskiej placówce konsularnej w kraju zamieszkania świadka, którzy:
 
 - **1)** zamieszkiwali w miejscowości, w której znajduje się nieruchomość pozostawiona poza obecnymi granicami Rzeczypospolitej Polskiej, lub w miejscowości sąsiedniej;
-- **2)** nie są osobami bliskimi – w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm.) – właścicieli lub spadkobierców ubiegających się o potwierdzenie prawa do rekompensaty.
+- **2)** nie są osobami bliskimi – w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529, 1566 i 1595.) – właścicieli lub spadkobierców ubiegających się o potwierdzenie prawa do rekompensaty.
 
 6. Jeżeli wniosek nie spełnia wymogów określonych w ust. 1–3, wojewoda wzywa wnioskodawcę do usunięcia braków w terminie 6 miesięcy od dnia doręczenia wezwania.
 
@@ -177,9 +175,9 @@ art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające
 - **3)** wysokości rekompensaty określonej zgodnie z art. 13;
 - **4)** wybranej formy realizacji prawa do rekompensaty zgodnie z art. 13 ust. 1.
 
-2. Waloryzacji, o której mowa w ust. 1 pkt 2, dokonuje się zgodnie z art. 5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+2. Waloryzacji, o której mowa w ust. 1 pkt 2, dokonuje się zgodnie z art. 5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. Art. 9W brzmieniu ustalonym przez art. 53 pkt 1 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), która weszła w życie z dniem 1 stycznia 2017 r.. Organem wyższego stopnia w sprawach, o których mowa w art. 5 ust. 3 i art. 7 ust. 2, jest minister właściwy do spraw administracji publicznej.
 
-**Art. 9.** Organem wyższego stopnia w sprawach, o których mowa w art. 5 ust. 3 i art. 7 ust. 2, jest minister właściwy do spraw administracji publicznej. 1. Operaty szacunkowe, o których mowa w art. 7 ust. 1 pkt 3, są sporządzane z uwzględnieniem dowodów wymienionych w art. 6 ust. 1 pkt 1 i ust. 3. 2. W przypadku operatów szacunkowych, o których mowa w ust. 1, nie stosuje się przepisów art. 156 ust. 3 i 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+1. Operaty szacunkowe, o których mowa w art. 7 ust. 1 pkt 3, są sporządzane z uwzględnieniem dowodów wymienionych w art. 6 ust. 1 pkt 1 i ust. 3. 2W brzmieniu ustalonym przez art. 3 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw (Dz. U. poz. 1509), która weszła w życie z dniem 1 września 2017 r.. W przypadku operatów szacunkowych, o których mowa w ust. 1, nie stosuje się przepisów art. 156 ust. 3 i 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 **Art. 11.**
 
@@ -188,12 +186,12 @@ art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające
 2. Za porównywalne województwa i miasta wydzielone, z uwzględnieniem współczynników, o których mowa w ust. 1, uznaje się:
 
 - **1)** woj. lwowskie – województwo podkarpackie, współczynnik 1,00;
-- **2)** woj. tarnopolskie – województwo małopolskie, współczynnik 0,67, województwo podkarpackie, współczynnik 0,76;
-- **3)** woj. stanisławowskie – województwo małopolskie, współczynnik 0,74, województwo podkarpackie, współczynnik 0,84;
-- **4)** woj. wołyńskie – województwo lubelskie, współczynnik 0,84, województwo świętokrzyskie, współczynnik 1,02;
+- **2)** woj. tarnopolskie – województwo małopolskie, współczynnik 0,67, – województwo podkarpackie, współczynnik 0,76;
+- **3)** woj. stanisławowskie – województwo małopolskie, współczynnik 0,74, – województwo podkarpackie, współczynnik 0,84;
+- **4)** woj. wołyńskie – województwo lubelskie, współczynnik 0,84, – województwo świętokrzyskie, współczynnik 1,02;
 - **5)** woj. poleskie – województwo podlaskie, współczynnik 0,71;
-- **6)** woj. wileńskie – województwo podlaskie, współczynnik 0,64, województwo mazowieckie, współczynnik 0,41;
-- **7)** woj. nowogródzkie – województwo podlaskie, współczynnik 0,80, województwo mazowieckie, współczynnik 0,52;
+- **6)** woj. wileńskie – województwo podlaskie, współczynnik 0,64, – województwo mazowieckie, współczynnik 0,41;
+- **7)** woj. nowogródzkie – województwo podlaskie, współczynnik 0,80, – województwo mazowieckie, współczynnik 0,52;
 - **8)** woj. białostockie – województwo podlaskie, współczynnik 1,00;
 - **9)** miasto Lwów – miasto Kraków, współczynnik 1,00;
 - **10)** miasto Wilno – miasto Lublin, współczynnik 1,00.
@@ -242,7 +240,7 @@ art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające
 
 **Art. 16.**
 
-1. Tworzy się państwowy fundusz celowy pod nazwą „Fundusz Rekompensacyjny”, z którego są finansowane wypłaty świadczenia pieniężnego, o którym mowa w art. 13 ust. 1 pkt 2, oraz obsługa wypłat tych świadczeń. Dysponentem Funduszu Rekompensacyjnego jest minister właściwy do spraw administracji publicznej.
+1. Tworzy się państwowy fundusz celowy pod nazwą „Fundusz Rekompensacyjny”, z którego są finansowane wypłaty świadczenia pieniężnego, o którym mowa w art. 13 ust. 1 pkt 2, oraz obsługa wypłat tych świadczeń. Dysponentem Funduszu Rekompensacyjnego jest minister właściwy do spraw administracji publicznej.Zdanie drugie w brzmieniu ustalonym przez art. 53 pkt 2 lit. a ustawy, o której mowa w odnośniku 2.
 
 2. Przychodami Funduszu Rekompensacyjnego są:
 
@@ -250,25 +248,11 @@ art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające
 - **1a)** wpływy z tytułu odpłatnego korzystania z mienia Zasobu Własności Rolnej Skarbu Państwa w wysokości ustalonej w rocznym planie finansowym Zasobu Własności Rolnej Skarbu Państwa;
 - **2)** odsetki od wolnych środków przekazanych w zarządzanie zgodnie z przepisami o finansach publicznych;
 - **3)** pożyczki z budżetu państwa udzielane w przypadku niedoboru środków wymienionych w pkt 1 i 2, w kwocie określonej w ustawie budżetowej;
-- **4)** inne przychody.
-
-3. Rada Ministrów na wniosek ministra właściwego do spraw administracji publicznej i ministra właściwego do spraw budżetu, uwzględniając aktualną sytuację budżetu państwa, stan finansów publicznych oraz szczególny cel, na jaki udzielono pożyczki, może umorzyć pożyczki, o których mowa w ust. 2 pkt 3, w przypadku wyczerpania źródeł finansowania Funduszu Rekompensacyjnego, o którym mowa w ust. 2 pkt 1–2.
-
-4. Środki ze źródeł, o których mowa w ust. 2 pkt 1 i 1a, Krajowy Ośrodek Wsparcia Rolnictwa przekazuje w formie zaliczek kwartalnych, w wysokości ustalonej w rocznym planie finansowym Zasobu Własności Rolnej Skarbu Państwa, w terminie 30 dni po zakończeniu kwartału. Rozliczenie roczne zobowiązania następuje w terminie 14 dni po zatwierdzeniu przez ministra właściwego do spraw rozwoju wsi sprawozdania finansowego Zasobu Własności Rolnej Skarbu Państwa.
+- **4)** inne przychody. 3W brzmieniu ustalonym przez art. 53 pkt 2 lit. b ustawy, o której mowa w odnośniku 2.. Rada Ministrów na wniosek ministra właściwego do spraw administracji publicznej i ministra właściwego do spraw budżetu, uwzględniając aktualną sytuację budżetu państwa, stan finansów publicznych oraz szczególny cel, na jaki udzielono pożyczki, może umorzyć pożyczki, o których mowa w ust. 2 pkt 3, w przypadku wyczerpania źródeł finansowania Funduszu Rekompensacyjnego, o którym mowa w ust. 2 pkt 1–2. 4Ze zmianą wprowadzoną przez art. 27 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r.. Środki ze źródeł, o których mowa w ust. 2 pkt 1 i 1a, Krajowy Ośrodek Wsparcia Rolnictwa przekazuje w formie zaliczek kwartalnych, w wysokości ustalonej w rocznym planie finansowym Zasobu Własności Rolnej Skarbu Państwa, w terminie 30 dni po zakończeniu kwartału. Rozliczenie roczne zobowiązania następuje w terminie 14 dni po zatwierdzeniu przez ministra właściwego do spraw rozwoju wsi sprawozdania finansowego Zasobu Własności Rolnej Skarbu Państwa.
 
 5. Do należności Funduszu Rekompensacyjnego w zakresie, o którym mowa w ust. 2, stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768, 935, 1428 i 1537).
 
-**Art. 17.**
-
-1. Wypłaty świadczenia pieniężnego, o którym mowa w art. 13 ust. 1 pkt 2, dokonuje Bank Gospodarstwa Krajowego, zwany dalej „Bankiem”, ze środków Funduszu Rekompensacyjnego, na podstawie umowy zawartej ze Skarbem Państwa reprezentowanym przez ministra właściwego do spraw administracji publicznej.
-
-2. Minister właściwy do spraw administracji publicznej przekazuje Bankowi dane osób uprawnionych do otrzymania świadczenia pieniężnego zawarte w rejestrach, o których mowa w art. 19 ust. 1 i 2.
-
-3. Wypłata świadczenia pieniężnego następuje, na wniosek osoby uprawnionej i po dokonaniu adnotacji, o której mowa w art. 18, w formie wypłaty gotówkowej w placówce Banku lub przelewu na wskazany przez osobę uprawnioną rachunek bankowy.
-
-4. Bank po otrzymaniu danych, o których mowa w ust. 2, zawiadamia o wypłacie osoby uprawnione do otrzymania świadczenia pieniężnego. W zawiadomieniu Bank informuje o adresach swoich placówek, a także o dokumentach potrzebnych do wypłaty świadczenia pieniężnego.
-
-5. Bank, wypłacając świadczenie pieniężne dokonuje waloryzacji zgodnie z art. 5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, na dzień realizacji prawa do rekompensaty.
+**Art. 17.** 1W brzmieniu ustalonym przez art. 53 pkt 3 ustawy, o której mowa w odnośniku 2.. Wypłaty świadczenia pieniężnego, o którym mowa w art. 13 ust. 1 pkt 2, dokonuje Bank Gospodarstwa Krajowego, zwany dalej „Bankiem”, ze środków Funduszu Rekompensacyjnego, na podstawie umowy zawartej ze Skarbem Państwa reprezentowanym przez ministra właściwego do spraw administracji publicznej. 2W brzmieniu ustalonym przez art. 53 pkt 3 ustawy, o której mowa w odnośniku 2.. Minister właściwy do spraw administracji publicznej przekazuje Bankowi dane osób uprawnionych do otrzymania świadczenia pieniężnego zawarte w rejestrach, o których mowa w art. 19 ust. 1 i 2. 3. Wypłata świadczenia pieniężnego następuje, na wniosek osoby uprawnionej i po dokonaniu adnotacji, o której mowa w art. 18, w formie wypłaty gotówkowej w placówce Banku lub przelewu na wskazany przez osobę uprawnioną rachunek bankowy. 4. Bank po otrzymaniu danych, o których mowa w ust. 2, zawiadamia o wypłacie osoby uprawnione do otrzymania świadczenia pieniężnego. W zawiadomieniu Bank informuje o adresach swoich placówek, a także o dokumentach potrzebnych do wypłaty świadczenia pieniężnego. 5. Bank, wypłacając świadczenie pieniężne dokonuje waloryzacji zgodnie z art. 5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, na dzień realizacji prawa do rekompensaty.
 
 **Art. 18.**
 
@@ -295,9 +279,7 @@ art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające
 
 - **1)** decyzji lub zaświadczeń, wydanych na podstawie niniejszej ustawy lub odrębnych przepisów, potwierdzających prawo do rekompensaty;
 - **2)** osób, którym te prawa przysługują;
-- **3)** stanu i formy realizacji tych praw.
-
-2. Wojewodowie przekazują raz na kwartał, w terminie do końca miesiąca następującego po zakończeniu kwartału, dane zawarte w rejestrach wojewódzkich ministrowi właściwemu do spraw administracji publicznej, który prowadzi rejestr centralny.
+- **3)** stanu i formy realizacji tych praw. 2W brzmieniu ustalonym przez art. 53 pkt 4 lit. a ustawy, o której mowa w odnośniku 2.. Wojewodowie przekazują raz na kwartał, w terminie do końca miesiąca następującego po zakończeniu kwartału, dane zawarte w rejestrach wojewódzkich ministrowi właściwemu do spraw administracji publicznej, który prowadzi rejestr centralny.
 
 3. Rejestry, o których mowa w ust. 1 i 2, są prowadzone w formie elektronicznej.
 
@@ -310,9 +292,7 @@ art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające
 
 5. Organy, jednostki organizacyjne i agencje, o których mowa w art. 14 ust. 1, są obowiązane do przekazywania wojewodom, w terminie 14 dni od dnia realizacji prawa do rekompensaty, wypisów z aktów notarialnych, a w przypadkach wymienionych w art. 13 ust. 1 pkt 1 lit. d, kopii decyzji, z których wynika zrealizowanie w całości albo w części prawa do rekompensaty, potwierdzonego zaświadczeniami albo decyzjami. Wypisy lub kopie decyzji przekazuje się wojewodom właściwym ze względu na miejsca położenia nieruchomości oraz wojewodom prowadzącym rejestry, o których mowa w ust. 1.
 
-6. Bank jest obowiązany do przekazywania właściwemu wojewodzie potwierdzenia wypłaty środków pieniężnych w terminie 14 dni od dnia wypłaty świadczenia pieniężnego.
-
-7. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, wzory rejestrów, o których mowa w ust. 1 i 2, uwzględniając potrzebę sprawnego przepływu danych i kontroli realizacji praw do rekompensaty.
+6. Bank jest obowiązany do przekazywania właściwemu wojewodzie potwierdzenia wypłaty środków pieniężnych w terminie 14 dni od dnia wypłaty świadczenia pieniężnego. 7W brzmieniu ustalonym przez art. 53 pkt 4 lit. b ustawy, o której mowa w odnośniku 2.. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, wzory rejestrów, o których mowa w ust. 1 i 2, uwzględniając potrzebę sprawnego przepływu danych i kontroli realizacji praw do rekompensaty.
 
 **Art. 20.** Do postępowań zakończonych wydaniem decyzji lub zaświadczeń potwierdzających prawo do rekompensaty stosuje się art. 145, art. 145a, art. 146 § 2, art. 147–152, art. 154 § 2, art. 155–159 oraz art. 161–163 Kodeksu postępowania administracyjnego, z tym że w przypadku zaświadczeń przepisy te stosuje się odpowiednio. Art. 21–25. (pominięte)
 
@@ -322,5 +302,5 @@ art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające
 
 **Art. 28.** Traci moc ustawa z dnia 12 grudnia 2003 r. o zaliczaniu na poczet ceny sprzedaży albo opłat z tytułu użytkowania wieczystego nieruchomości Skarbu Państwa wartości nieruchomości pozostawionych poza obecnymi granicami państwa polskiego (Dz. U. z 2004 r. poz. 39 i poz. 2722).
 
-**Art. 29.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 29.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 6 września 2005 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529, 1566 i 1595. 2) W brzmieniu ustalonym przez art. 53 pkt 1 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), która weszła w życie z dniem 1 stycznia 2017 r. 3) W brzmieniu ustalonym przez art. 3 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw (Dz. U. poz. 1509), która weszła w życie z dniem 1 września 2017 r. 4) Zdanie drugie w brzmieniu ustalonym przez art. 53 pkt 2 lit. a ustawy, o której mowa w odnośniku 2. 5) W brzmieniu ustalonym przez art. 53 pkt 2 lit. b ustawy, o której mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez art. 27 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), która weszła w życie z dniem 1 września 2017 r. 7) W brzmieniu ustalonym przez art. 53 pkt 3 ustawy, o której mowa w odnośniku 2. 8) W brzmieniu ustalonym przez art. 53 pkt 4 lit. a ustawy, o której mowa w odnośniku 2. 9) W brzmieniu ustalonym przez art. 53 pkt 4 lit. b ustawy, o której mowa w odnośniku 2. 10) Ustawa została ogłoszona w dniu 6 września 2005 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 19 grudnia 2022 r. w sprawie przekazywania Narodowemu Bankowi Polskiemu danych do oceny funkcjonowania rozliczeń pieniężnych i rozrachunków międzybankowych
+# Rozporządzenie Ministra Finansówz dnia 19 grudnia 2022 r. w sprawie przekazywania Narodowemu Bankowi Polskiemu danych do oceny funkcjonowania rozliczeń pieniężnych i rozrachunków międzybankowych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-19 |
 | Data wydania | 2022-12-27 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2766/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 23 ust. 2b ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025) zarządza się, co następuje:
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia Europejskiego Banku Centralnego (EU) nr 1409/2013 z dnia 28 listopada 2013 r. w sprawie statystyki płatności (Dz. Urz. UE L 352 z 24.12.2013, str. 18 oraz Dz. Urz. UE L 418 z 11.12.2020, str. 1). Na podstawie art. 23 ust. 2b ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób, zakres i terminy realizacji obowiązku, o którym mowa w art. 23 ust. 2a ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, zwanej dalej „ustawą”.
 § 2.
@@ -91,6 +90,5 @@ Informacje obejmujące okres czwartego kwartału 2022 r. i drugiego półrocza 2
 § 6.
 Traci moc rozporządzenie Ministra Finansów z dnia 23 kwietnia 2004 r. w sprawie sposobu, zakresu i terminów przekazywania przez podmioty uczestniczące w rozliczeniach pieniężnych i rozrachunkach międzybankowych danych niezbędnych do dokonywania przez Narodowy Bank Polski oceny funkcjonowania rozliczeń pieniężnych i rozrachunków międzybankowych (Dz. U. z 2019 r. poz. 95).
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Europejskiego Banku Centralnego (EU) nr 1409/2013 z dnia 28 listopada 2013 r. w sprawie statystyki płatności (Dz. Urz. UE L 352 z 24.12.2013, str. 18 oraz Dz. Urz. UE L 418 z 11.12.2020, str. 1).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Europejskiego Banku Centralnego (EU) nr 1409/2013 z dnia 28 listopada 2013 r. w sprawie statystyki płatności (Dz. Urz. UE L 352 z 24.12.2013, str. 18 oraz Dz. Urz. UE L 418 z 11.12.2020, str. 1).
 

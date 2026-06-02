@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 15 grudnia 2017 r. w sprawie poziomów ograniczenia składowania masy odpadów komunalnych ulegających biodegradacji
+# Rozporządzenie Ministra Środowiskaz dnia 15 grudnia 2017 r. w sprawie poziomów ograniczenia składowania masy odpadów komunalnych ulegających biodegradacji Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-15 |
 | Data wydania | 2017-12-22 |
-| Wejście w życie | 2017-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2412/text.pdf) |
 
@@ -47,12 +46,13 @@ Sposób obliczania poziomu ograniczenia masy odpadów komunalnych ulegających b
 § 4.
 Traci moc rozporządzenie Ministra Środowiska z dnia 25 maja 2012 r. w sprawie poziomów ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania oraz sposobu obliczania poziomu ograniczania masy tych odpadów (Dz. U. poz. 676).
 § 5.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2017 r.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323).
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2017 r. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323).
 
 ## Załącznik nr 1 — – Poziomy ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania, które gmina jest obowiązana osiągnąć w poszczególnych latach
 
-1) Rok 2017 2018 2019 2020 – do dnia 16 lipca Pr [%] 45 40 40 35 1) Wartość wskaźnika PR%.
+1)
+Rok 2017 2018 2019 2020 – do dnia 16 lipca Pr [%] 45 40 40 35
+1) Wartość wskaźnika PR%.
 
 ## Załącznik nr 2 — – Sposób obliczania poziomu ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania
 

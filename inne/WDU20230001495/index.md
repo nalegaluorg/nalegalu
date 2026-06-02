@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001495) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1495/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 28 lipca 2023 r.
+11449955 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 28 lipca 2023 r.
 w sprawie wzorów wniosków o ujęcie w obwodzie głosowania, skreślenie wyborcy z Centralnego Rejestru Wyborców, zmianę miejsca głosowania oraz wzoru i sposobu ewidencjonowania zaświadczeń o prawie do głosowania Na podstawie art. 32b ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277 i 2418 oraz z 2023 r. poz. 497) zarządza się, co następuje: § 1. Rozporządzenie określa:
 1) wzór wniosku o ujęcie w obwodzie głosowania, o którym mowa w art. 19 § 3 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy, zwanej dalej „Kodeksem wyborczym”;
 2) wzór wniosku o ujęcie w obwodzie głosowania, o którym mowa w art. 19a § 1 Kodeksu wyborczego;
@@ -43,7 +43,7 @@ w sprawie wzorów wniosków o ujęcie w obwodzie głosowania, skreślenie wyborc
 2) SNT w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej, oraz oznaczenie roku, w którym są przeprowadzane dane wybory.
 § 7. Ewidencję wydanych zaświadczeń o prawie do głosowania prowadzi się w Centralnym Rejestrze Wyborców.
 § 8. Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 15 ust. 1 pkt 7 ustawy z dnia 26 stycznia 2023 r. o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw (Dz. U. poz. 497).
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński Wniosek o ujęcie w stałym obwodzie głosowania Na podstawie art. 19 § 3 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277, z późn. zm.) wnoszę o ujęcie w stałym obwodzie głosowania Nazwisko Imię (imiona) Numer PESEL Oświadczam, że stale zamieszkuję** w: Gmina (miasto, dzielnica) Miejscowość Ulica Numer domu Numer lokalu ………………………………….
+Minister Spraw Wewnętrznych i Administracji: M. Kamiński 1 Wniosek o ujęcie w stałym obwodzie głosowania Na podstawie art. 19 § 3 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277, z późn. zm.) wnoszę o ujęcie w stałym obwodzie głosowania Nazwisko Imię (imiona) Numer PESEL Oświadczam, że stale zamieszkuję** w: Gmina (miasto, dzielnica) Miejscowość Ulica Numer domu Numer lokalu ………………………………….
 Podpis Wyrażam zgodę na przekazanie do rejestru danych kontaktowych moich danych, tj. imienia, nazwiska, numeru PESEL oraz: numeru telefonu komórkowego adresu poczty elektronicznej ………………………………….
 Data i podpis strona 1/3 Wniosek o ujęcie w stałym obwodzie głosowania Na podstawie art. 19a § 1 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277, z późn. zm.) wnoszę o ujęcie w stałym obwodzie głosowania
 1. Dane do wniosku o ujęcie w stałym obwodzie głosowania Nazwisko Imię (imiona) Obywatelstwo Numer paszportu lub innego dokumentu stwierdzającego tożsamość Numer PESEL (jeśli nie masz numeru PESEL, wypełnij drugą część wniosku) Oświadczam, że stale zamieszkuję** w: Gmina (miasto, dzielnica) Miejscowość Ulica Numer domu Numer lokalu
@@ -53,7 +53,7 @@ strona 2/3 Imię matki (pierwsze) Nazwisko rodowe matki Numer PESEL matki (jeśl
 Podpis Wyrażam zgodę na przekazanie do rejestru danych kontaktowych moich danych, tj. imienia, nazwiska, numeru PESEL oraz: numeru telefonu komórkowego adresu poczty elektronicznej ………………………………….
 Data i podpis Wniosek o skreślenie wyborcy z Centralnego Rejestru Wyborców Na podstawie art. 19a § 6 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277, z późn. zm.) wnoszę o skreślenie mnie z Centralnego Rejestru Wyborców Nazwisko Imię (imiona) Numer PESEL ………………………………….
 Podpis Wniosek o zmianę miejsca głosowania Na podstawie art. 28 § 1 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277, z późn.
-zm.) wnoszę o zmianę miejsca głosowania w wyborach: ................................................................................................
+zm.) wnoszę o zmianę miejsca głosowania w wyborach : ................................................................................................
 ..............................................................................................................................................................................................
 ogłoszonych na dzień: ........................................................................................................................................................
 Moje dane: Nazwisko .............................................................................................................................

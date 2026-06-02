@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 maja 2016 r. o zmianie ustawy o drogach publicznych oraz ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym
+# Ustawa z dnia 13 maja 2016 r. o zmianie ustawy o drogach publicznych oraz ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia decyzji Komisji 2009/750/WE z dnia 6 października 2009 r. w sprawie definicji europejskiej usługi opłaty elektronicznej oraz jej elementów technicznych (Dz. Urz. UE L 268 z 13.10.2009, str. 11), wydanej na podstawie art. 4 dyrektywy Parlamentu Europejskiego i Rady 2004/52/WE z dnia 29 kwietnia 2004 r. w sprawie interoperacyjności systemów elektronicznych opłat drogowych we Wspólnocie (Dz. Urz. UE L 166 z 30.04.2004, str. 124, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-13 |
 | Data wydania | 2016-06-03 |
-| Wejście w życie | 2016-06-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/770/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.) wprowadza się następujące zmiany:
+Usługa EETS
+
+**Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830, 1890 i 2281.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w pkt 40 kropkę zastępuje się średnikiem i dodaje się pkt 41–44 w brzmieniu: „
 - **41)** usługa EETS – usługę umożliwiającą korzystającym z dróg w państwach członkowskich Unii Europejskiej, za użytkowanie których są pobierane opłaty z wykorzystaniem systemu elektronicznego poboru opłat, wypełnienie obowiązku uiszczenia tych opłat na obszarach EETS na podstawie umowy zawartej z dostawcą EETS;
@@ -57,7 +58,7 @@ source: "eli-html"
 
 - **4)** po rozdziale 1a dodaje się rozdział 1b w brzmieniu: „
 
-#### Rozdział 1b Usługa EETS
+#### Rozdział 1b
 
 **Art. 16e.**
 
@@ -321,7 +322,7 @@ source: "eli-html"
 1. Spór pomiędzy podmiotem pobierającym opłaty, o którym mowa w art. 13i ust. 2, a dostawcą EETS dotyczący:
 
 - **1)** negocjacji związanych z usługą EETS,
-- **2)** umowy, o której mowa w art. 16e ust. 1 pkt 1 albo art. 16h pkt 1 może być przedmiotem postępowania pojednawczego prowadzonego na wniosek złożony przez podmiot pobierający opłaty, lub dostawcę EETS, przez niezależną Komisję powoływaną do wydawania opinii w sprawie sporów związanych z usługą EETS, zwaną dalej „Komisją”. Złożenie wniosku nie narusza prawa stron do rozstrzygania sporów na podstawie odrębnych przepisów.
+- **2)** umowy, o której mowa w art. 16e ust. 1 pkt 1 albo art. 16h pkt 1 – może być przedmiotem postępowania pojednawczego prowadzonego na wniosek złożony przez podmiot pobierający opłaty, lub dostawcę EETS, przez niezależną Komisję powoływaną do wydawania opinii w sprawie sporów związanych z usługą EETS, zwaną dalej „Komisją”. Złożenie wniosku nie narusza prawa stron do rozstrzygania sporów na podstawie odrębnych przepisów.
 
 2. Komisja jest powoływana na wniosek, o którym mowa w ust. 1, oddzielnie do rozstrzygnięcia każdego sporu. Wniosek składa się do ministra właściwego do spraw transportu.
 
@@ -341,7 +342,7 @@ source: "eli-html"
 
 3. Bezstronność i niezależność, o których mowa w ust. 2 pkt 3, nie jest zachowana, jeżeli kandydat na członka Komisji, zastępczego członka Komisji lub członek Komisji:
 
-- **1)** posiada udziały, akcje lub inne tytuły własności w podmiotach będących dostawcami EETS lub pobierającymi opłaty na obszarach EETS lub jednostkach z nimi powiązanych w rozumieniu art. 3 ust. 1 pkt 43 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.);
+- **1)** posiada udziały, akcje lub inne tytuły własności w podmiotach będących dostawcami EETS lub pobierającymi opłaty na obszarach EETS lub jednostkach z nimi powiązanych w rozumieniu art. 3 ust. 1 pkt 43 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100, z 2015 r. poz. 4, 978, 1045, 1166, 1333, 1844 i 1893 oraz z 2016 r. poz. 615.);
 - **2)** jest lub był w ostatnich 5 latach przedstawicielem prawnym (pełnomocnikiem), członkiem organów nadzorujących, zarządzających, administrujących lub pracownikiem podmiotów, o których mowa w pkt 1;
 - **3)** osiągnął w ciągu ostatnich 5 lat lub w czasie pełnienia funkcji członka Komisji, przychód z tytułu świadczenia usług na rzecz podmiotów, o których mowa w pkt 1;
 - **4)** jest małżonkiem, krewnym lub powinowatym w linii prostej do drugiego stopnia lub jest związany z tytułu opieki, przysposobienia lub kurateli z osobą będącą członkiem organów nadzorujących, zarządzających lub administrujących podmiotów, o których mowa w pkt 1.
@@ -387,7 +388,7 @@ source: "eli-html"
 
 6. Na zgodny wniosek stron o zakończenie postępowania, złożony przed wydaniem opinii, o której mowa w ust. 1, Komisja niezwłocznie wydaje uchwałę kończącą postępowanie, nie rozstrzygając istoty sporu. Przepis ust. 5 stosuje się odpowiednio.
 
-7. Do postępowania przed Komisją stosuje się przepisy art. 1833i art. 1834ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.).
+7. Do postępowania przed Komisją stosuje się przepisy art. 1833i art. 1834ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195 i 437.).
 
 1. Postępowanie przed Komisją jest prowadzone na koszt stron postępowania.
 
@@ -433,5 +434,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13l ust. 2 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 13l ust. 2 ustawy, o której mowa w art. 1, nie dłużej jednak niż przez 9 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia decyzji Komisji 2009/750/WE z dnia 6 października 2009 r. w sprawie definicji europejskiej usługi opłaty elektronicznej oraz jej elementów technicznych (Dz. Urz. UE L 268 z 13.10.2009, str. 11), wydanej na podstawie art. 4 dyrektywy Parlamentu Europejskiego i Rady 2004/52/WE z dnia 29 kwietnia 2004 r. w sprawie interoperacyjności systemów elektronicznych opłat drogowych we Wspólnocie (Dz. Urz. UE L 166 z 30.04.2004, str. 124, z późn. zm.). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830, 1890 i 2281. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100, z 2015 r. poz. 4, 978, 1045, 1166, 1333, 1844 i 1893 oraz z 2016 r. poz. 615. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195 i 437.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 23 października 2020 r. zmieniające rozporządzenie w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 23 października 2020 r. zmieniające rozporządzenie w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-23 |
 | Data wydania | 2020-10-26 |
-| Wejście w życie | 2020-11-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001874) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1874/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 39c ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2020 r. poz. 305 i 1610) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 2011 r. w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej (Dz. U. z 2018 r. poz. 1572 oraz z 2020 r. poz. 314) w § 4 po ust. 3 dodaje się ust. 4 w brzmieniu:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 2011 r. w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej (Dz. U. z 2018 r. poz. 1572 oraz z 2020 r. poz. 314) w § 4 po ust. 3 dodaje się ust. 4 w brzmieniu: „
 4.
-Komendant Główny Straży Granicznej może podjąć decyzję o odstąpieniu od realizacji testu za dany rok lub od realizacji testu w terminach, o których mowa w ust. 1–3. Decyzja podejmowana jest w przypadkach wystąpienia zagrożenia epidemicznego, epidemii lub klęski żywiołowej.
-” .
+Komendant Główny Straży Granicznej może podjąć decyzję o odstąpieniu od realizacji testu za dany rok lub od realizacji testu w terminach, o których mowa w ust. 1–3. Decyzja podejmowana jest w przypadkach wystąpienia zagrożenia epidemicznego, epidemii lub klęski żywiołowej. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

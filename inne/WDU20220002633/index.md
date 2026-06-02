@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 28 listopada 2022 r. w sprawie znakowania i barwienia wyrobów energetycznych
+# Rozporządzenie Ministra Finansówz dnia 28 listopada 2022 r. w sprawie znakowania i barwienia wyrobów energetycznych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-28 |
 | Data wydania | 2022-12-15 |
-| Wejście w życie | 2022-12-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002633) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2633/text.pdf) |
 
@@ -73,6 +72,5 @@ Za prawidłowo oznaczony wyrób znacznikiem, o którym mowa w ust. 1, uważa si�
 § 4.
 Traci moc rozporządzenie Ministra Finansów z dnia 11 września 2019 r. w sprawie znakowania i barwienia wyrobów energetycznych (Dz. U. poz. 1822).
 § 5.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 

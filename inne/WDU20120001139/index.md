@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-10 |
 | Data wydania | 2012-10-18 |
-| Wejście w życie | 2012-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1139/text.pdf) |
 
@@ -54,5 +53,5 @@ zespół pojazdów nie przekracza prędkości 20 km/h.
 § 5.
 Zabrania się przewożenia osób łącznie z towarami niebezpiecznymi lub innym ładunkiem, który z uwagi na swoje właściwości lub budowę może zagrozić bezpieczeństwu tych osób.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 19 października 2012 r.
+Rozporządzenie wchodzi w życie z dniem 19 października 2012 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej, Ministra Spraw Wewnętrznych i Administracji oraz Ministra Sprawiedliwości z dnia 11 października 2007 r. w sprawie warunków poruszania się po drogach pojazdów specjalnych, pojazdów używanych do celów specjalnych oraz pojazdów używanych w związku z przewozem pojazdów specjalnych Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej oraz pojazdów straży pożarnej biorących udział w akcjach ratowniczych, a także warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej, Służby Więziennej oraz straży pożarnej (Dz. U. Nr 201, poz. 1454 oraz z 2011 r. Nr 243, poz. 1448), które traci moc z dniem wejścia w życie ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. Nr 222, poz. 1321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej, Ministra Spraw Wewnętrznych i Administracji oraz Ministra Sprawiedliwości z dnia 11 października 2007 r. w sprawie warunków poruszania się po drogach pojazdów specjalnych, pojazdów używanych do celów specjalnych oraz pojazdów używanych w związku z przewozem pojazdów specjalnych Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej oraz pojazdów straży pożarnej biorących udział w akcjach ratowniczych, a także warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej, Służby Więziennej oraz straży pożarnej (Dz. U. Nr 201, poz. 1454 oraz z 2011 r. Nr 243, poz. 1448), które traci moc z dniem wejścia w życie ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. Nr 222, poz. 1321).
 

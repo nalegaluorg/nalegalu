@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-07 |
 | Data wydania | 2015-04-13 |
-| Wejście w życie | 2015-04-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000515) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/515/text.pdf) |
 
@@ -97,5 +96,5 @@ Oceny postępów w procesie integracji są dokonywane w formie notatek służbow
 6.
 W przypadku stwierdzenia braków lub niewystarczających postępów w którymkolwiek z obszarów integracji, o których mowa w ust. 2, strony modyfikują program tak, aby dostosować go do specyficznych potrzeb cudzoziemca i usunąć problemy występujące w realizacji programu.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 9 marca 2009 r. w sprawie udzielania pomocy cudzoziemcom, którzy uzyskali w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą (Dz. U. Nr 45, poz. 366 oraz z 2013 r. poz. 1056), które na podstawie art. 16 ust. 1 ustawy z dnia 26 czerwca 2014 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1004) utraciło moc z dniem 1 marca 2015 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 9 marca 2009 r. w sprawie udzielania pomocy cudzoziemcom, którzy uzyskali w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą (Dz. U. Nr 45, poz. 366 oraz z 2013 r. poz. 1056), które na podstawie art. 16 ust. 1 ustawy z dnia 26 czerwca 2014 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1004) utraciło moc z dniem 1 marca 2015 r.
 

@@ -31,13 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2014 r. poz. 1801), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) oraz zmian wynikających z przepisów ogłoszonych przed dniem 22 lipca 2016 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 75 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 75 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), który stanowi: „
 
 **Art. 75.** Ustawa wchodzi w życie z dniem 4 marca 2016 r., z wyjątkiem:
 
 - **1)** art. 2, art. 6 pkt 1, art. 7 pkt 3, art. 19 pkt 1 w zakresie prokuratora do spraw wojskowych,
-- **2)** art. 3, art. 4 pkt 5–9, art. 6 pkt 2 lit. b i d, pkt 4, art. 9, art. 10, art. 13–16, art. 19 pkt 3, art. 20 pkt 10 lit. b i c, art. 21, art. 31–33, art. 45 § 3, art. 46, art. 50, art. 62 § 4, 6 i 7, art. 64 § 3, 5 i 6 oraz art. 66 które wchodzą w życie z dniem 4 kwietnia 2016 r. ” . Załącznik – Tekst jednolity ustawy z dnia 25 czerwca 1997 r. o świadku koronnym
+- **2)** art. 3, art. 4 pkt 5–9, art. 6 pkt 2 lit. b i d, pkt 4, art. 9, art. 10, art. 13–16, art. 19 pkt 3, art. 20 pkt 10 lit. b i c, art. 21, art. 31–33, art. 45 § 3, art. 46, art. 50, art. 62 § 4, 6 i 7, art. 64 § 3, 5 i 6 oraz art. 66 – które wchodzą w życie z dniem 4 kwietnia 2016 r. ” . Załącznik – Tekst jednolity ustawy z dnia 25 czerwca 1997 r. o świadku koronnym
 
 **Art. 1.**
 
@@ -70,19 +69,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** nakłaniał inną osobę do popełnienia czynu zabronionego, określonego w art. 1, w celu skierowania przeciwko niej postępowania karnego;
 - **3)** kierował zorganizowaną grupą albo związkiem mającymi na celu popełnienie przestępstwa lub przestępstwa skarbowego.
 
-**Art. 5.**
-
-1. Postanowienie w przedmiocie dopuszczenia dowodu z zeznań świadka koronnego wydaje sąd okręgowy właściwy dla miejsca prowadzenia postępowania przygotowawczego na wniosek prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, złożony po uzyskaniu zgody Prokuratora Generalnego lub upoważnionego przez niego zastępcy Prokuratora Generalnego.
-
-2. Sąd bada, na podstawie danych zawartych we wniosku i materiałach zgromadzonych w sprawie, czy zachodzą warunki określone w art. 1, 3 i 4.
-
-3. Przed wydaniem postanowienia sąd przesłuchuje podejrzanego co do okoliczności, o których mowa w art. 3 ust. 1 i 2. Jeżeli stawił się obrońca, dopuszcza się go, na żądanie podejrzanego, do udziału w przesłuchaniu; zawiadomienie obrońcy o terminie przesłuchania jest obowiązkowe, gdy żąda tego podejrzany.
-
-4. Sąd określa termin i sposób wykonania zobowiązania, o którym mowa w art. 3 ust. 2.
-
-5. Sąd wydaje postanowienie w terminie 14 dni od dnia wpływu wniosku.
-
-6. Na postanowienie sądu prokuratorowi przysługuje zażalenie. Jeżeli prokurator prowadzący lub nadzorujący postępowanie przygotowawcze nie występuje z wnioskiem, o którym mowa w art. 5 ust. 1, wydaje w tym przedmiocie postanowienie i zapoznaje z jego treścią podejrzanego.
+**Art. 5.** 1W brzmieniu ustalonym przez art. 5 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), która weszła w życie z dniem 4 marca 2016 r.. Postanowienie w przedmiocie dopuszczenia dowodu z zeznań świadka koronnego wydaje sąd okręgowy właściwy dla miejsca prowadzenia postępowania przygotowawczego na wniosek prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, złożony po uzyskaniu zgody Prokuratora Generalnego lub upoważnionego przez niego zastępcy Prokuratora Generalnego. 2. Sąd bada, na podstawie danych zawartych we wniosku i materiałach zgromadzonych w sprawie, czy zachodzą warunki określone w art. 1, 3 i 4. 3. Przed wydaniem postanowienia sąd przesłuchuje podejrzanego co do okoliczności, o których mowa w art. 3 ust. 1 i 2. Jeżeli stawił się obrońca, dopuszcza się go, na żądanie podejrzanego, do udziału w przesłuchaniu; zawiadomienie obrońcy o terminie przesłuchania jest obowiązkowe, gdy żąda tego podejrzany. 4. Sąd określa termin i sposób wykonania zobowiązania, o którym mowa w art. 3 ust. 2. 5. Sąd wydaje postanowienie w terminie 14 dni od dnia wpływu wniosku. 6. Na postanowienie sądu prokuratorowi przysługuje zażalenie. Jeżeli prokurator prowadzący lub nadzorujący postępowanie przygotowawcze nie występuje z wnioskiem, o którym mowa w art. 5 ust. 1, wydaje w tym przedmiocie postanowienie i zapoznaje z jego treścią podejrzanego.
 
 **Art. 6.** Jeżeli prokurator wydał postanowienie, o którym mowa w art. 5a, albo sąd wydał postanowienie o odmowie dopuszczenia dowodu z zeznań świadka koronnego, wyjaśnienia podejrzanego, o których mowa w art. 3 ust. 1 pkt 1 oraz art. 5 ust. 3, nie mogą stanowić dowodu; w takim wypadku czynności przeprowadzone na zasadach i w trybie określonych niniejszą ustawą uznaje się za niebyłe, a zniszczeniu podlegają następujące dokumenty:
 
@@ -146,7 +133,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1a. W razie stwierdzenia takiej potrzeby i za zgodą osoby objętej ochroną Dyrektor Generalny Służby Więziennej może wprowadzić ograniczenia przysługujących jej uprawnień, określonych w art. 91, art. 91a, art. 92, art. 100, art. 102 pkt 2, 5, 6 i 8, art. 105 § 1, art. 105b § 1, art. 106 § 1 i 2, art. 110a § 1, art. 113a § 3, art. 116 § 1 pkt 4, art. 130 § 1, art. 141 § 1, art. 211 § 2 i art. 218 § 1 Kodeksu karnego wykonawczego.
 
-1b. W wypadku braku możliwości zapewnienia świadkowi koronnemu lub osobie dla niego najbliższej świadczeń opieki zdrowotnej w ramach powszechnego ubezpieczenia zdrowotnego, osobom tym może być przyznana pomoc finansowa na pokrycie kosztów uzyskania świadczeń opieki zdrowotnej określonych w art. 15 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.).
+1b. W wypadku braku możliwości zapewnienia świadkowi koronnemu lub osobie dla niego najbliższej świadczeń opieki zdrowotnej w ramach powszechnego ubezpieczenia zdrowotnego, osobom tym może być przyznana pomoc finansowa na pokrycie kosztów uzyskania świadczeń opieki zdrowotnej określonych w art. 15 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 1830, 1844, 1893, 1916, 1991 i 1994 oraz z 2016 r. poz. 65, 652 i 960.).
 
 2. W razie niemożności zatrudnienia świadka koronnego lub osoby dla niego najbliższej, może być im przyznana pomoc finansowa, w szczególności przeznaczona na pokrycie kosztów utrzymania.
 
@@ -237,11 +224,11 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Przepisy ustawy stosuje się odpowiednio w sprawach podlegających orzecznictwu sądów wojskowych, z tym że postanowienie w przedmiocie dopuszczenia dowodu z zeznań świadka koronnego wydaje wojskowy sąd okręgowy właściwy dla miejsca prowadzenia postępowania przygotowawczego.
 
-2. (uchylony)
+2. (uchylony)Przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 1.
 
 **Art. 25.** W zakresie nieuregulowanym w ustawie stosuje się przepisy Kodeksu postępowania karnego.
 
 **Art. 26.** (uchylony)
 
-**Art. 27.** Ustawa wchodzi w życie z dniem 1 września 1998 r.
+**Art. 27.** Ustawa wchodzi w życie z dniem 1 września 1998 r. 1) W brzmieniu ustalonym przez art. 5 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), która weszła w życie z dniem 4 marca 2016 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 1830, 1844, 1893, 1916, 1991 i 1994 oraz z 2016 r. poz. 65, 652 i 960. 3) Przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 1.
 

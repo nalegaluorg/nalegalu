@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-29 |
 | Data wydania | 2007-08-03 |
-| Wejście w życie | 2007-08-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071400983) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/983/text.pdf) |
 
@@ -38,7 +37,7 @@ source: "eli-html"
 
 - **1)** wykonywania zadań ustawowych;
 - **2)** prowadzenia badań naukowych;
-- **3)** publikacji materiału prasowego, w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.), z upoważnienia redakcji albo wydawcy.
+- **3)** publikacji materiału prasowego, w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. Nr 5, poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 111, poz. 1181, z 2005 r. Nr 39, poz. 377 oraz z 2007 r. Nr 89, poz. 590.), z upoważnienia redakcji albo wydawcy.
 
 2. Dokumenty, o których mowa w ust. 1, udostępnia się na pisemny wniosek, skierowany do dyrektora oddziału Instytutu Pamięci, właściwego ze względu na miejsce zamieszkania lub siedzibę wnioskodawcy.
 
@@ -75,7 +74,7 @@ source: "eli-html"
 
 10. Do decyzji Prezesa Instytutu Pamięci, o której mowa w ust. 9, stosuje się przepis ust. 7.
 
-11. Wnioskodawcy przysługuje skarga do sądu administracyjnego na decyzję, o której mowa w ust. 9 pkt 1, w terminie określonym w art. 53 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.).
+11. Wnioskodawcy przysługuje skarga do sądu administracyjnego na decyzję, o której mowa w ust. 9 pkt 1, w terminie określonym w art. 53 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590 oraz z 2007 r. Nr 120, poz. 818 i Nr 121, poz. 831.).
 
 12. Sąd administracyjny rozpoznaje skargę na posiedzeniu niejawnym.
 
@@ -85,5 +84,5 @@ source: "eli-html"
 
 - **3)** w art. 37 w ust. 7 wyrazy „w art. 36 ust. 3” zastępuje się wyrazami „w art. 30 ust. 2 pkt 1”.
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 111, poz. 1181, z 2005 r. Nr 39, poz. 377 oraz z 2007 r. Nr 89, poz. 590. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590 oraz z 2007 r. Nr 120, poz. 818 i Nr 121, poz. 831.
 

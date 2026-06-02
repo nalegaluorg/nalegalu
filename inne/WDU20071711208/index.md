@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 sierpnia 2007 r. o zmianie ustawy o sporcie kwalifikowanym oraz niektórych innych ustaw
+# Ustawa z dnia 23 sierpnia 2007 r. o zmianie ustawy o sporcie kwalifikowanym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 18 stycznia 1996 r. o kulturze fizycznej i ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-08-23 |
 | Data wydania | 2007-09-20 |
-| Wejście w życie | 2007-10-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071711208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1208/text.pdf) |
 
@@ -136,11 +135,11 @@ source: "eli-html"
 
 1a. Komisja liczy od 10 do 15 osób. ” .
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.) w art. 17 w ust. 1 pkt 5a otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533, z 2005 r. Nr 25, poz. 202, Nr 57, poz. 491, Nr 78, poz. 684, Nr 143, poz. 1199, Nr 155, poz. 1298, Nr 169, poz. 1419 i 1420, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538, z 2006 r. Nr 94, poz. 651, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353, Nr 217, poz. 1589 i Nr 251, poz. 1847 oraz z 2007 r. Nr 165, poz. 1169.) w art. 17 w ust. 1 pkt 5a otrzymuje brzmienie: „
 
-- **5a)** dochody klubów sportowych, o których mowa w ustawie z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. Nr 81, poz. 889, z późn. zm.), przeznaczone i wydatkowane w roku podatkowym lub w roku po nim następującym na szkolenie i współzawodnictwo sportowe dzieci i młodzieży w kategoriach wiekowych młodzików, juniorów młodszych, juniorów i młodzieżowców do 23 roku życia, w części niezaliczonej do kosztów uzyskania przychodów, ” .
+- **5a)** dochody klubów sportowych, o których mowa w ustawie z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. Nr 81, poz. 889, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2005 r. Nr 85, poz. 726 i Nr 155, poz. 1298, z 2006 r. Nr 208, poz. 1531 oraz z 2007 r. Nr 34, poz. 206.), przeznaczone i wydatkowane w roku podatkowym lub w roku po nim następującym na szkolenie i współzawodnictwo sportowe dzieci i młodzieży w kategoriach wiekowych młodzików, juniorów młodszych, juniorów i młodzieżowców do 23 roku życia, w części niezaliczonej do kosztów uzyskania przychodów, ” .
 
-**Art. 3.** W ustawie z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. Nr 81, poz. 889, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. Nr 81, poz. 889, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2005 r. Nr 85, poz. 726 i Nr 155, poz. 1298, z 2006 r. Nr 208, poz. 1531 oraz z 2007 r. Nr 34, poz. 206.) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 10a;
 - **2)** art. 18b otrzymuje brzmienie: „
@@ -165,7 +164,7 @@ source: "eli-html"
 3. Uprawianie żeglarstwa na jachtach:
 
 - **1)** żaglowych o długości kadłuba powyżej 7,5 m lub
-- **2)** motorowych o mocy silnika powyżej 10 kW wymaga posiadania stosownego dokumentu wydanego przez właściwy polski związek sportowy.
+- **2)** motorowych o mocy silnika powyżej 10 kW – wymaga posiadania stosownego dokumentu wydanego przez właściwy polski związek sportowy.
 
 4. Osoba, która uzyskała uprawnienia do uprawiania żeglarstwa w innym państwie, może uprawiać żeglarstwo na terytorium Rzeczypospolitej Polskiej w zakresie posiadanych uprawnień potwierdzonych stosownym dokumentem.
 
@@ -178,7 +177,7 @@ source: "eli-html"
 8. Wysokość opłat, o których mowa w ust. 7, nie może być wyższa niż:
 
 - **1)** 500 zł – za przeprowadzenie egzaminu, o którym mowa w ust. 6,
-- **2)** 50 zł – za wydanie dokumentu, o którym mowa w ust. 3 przy czym opłaty dla uczniów i studentów w wieku do 26 lat podlegają obniżeniu o 50%.
+- **2)** 50 zł – za wydanie dokumentu, o którym mowa w ust. 3 – przy czym opłaty dla uczniów i studentów w wieku do 26 lat podlegają obniżeniu o 50%.
 
 9. Właściwe polskie związki sportowe prowadzą ewidencję wydanych dokumentów, o których mowa w ust. 3, oraz gromadzą dokumentację będącą podstawą do wydania tych dokumentów.
 
@@ -189,10 +188,10 @@ source: "eli-html"
 - **1)** zasady bezpieczeństwa przy uprawianiu żeglarstwa,
 - **2)** wymagania niezbędne do uzyskania dokumentów potwierdzających posiadanie uprawnień, w szczególności dotyczące wiedzy i umiejętności z zakresu żeglarstwa, oraz odpowiadający im zakres uprawnień do prowadzenia jachtów żaglowych albo motorowych,
 - **3)** sposób i tryb przeprowadzenia egzaminu, o którym mowa w ust. 6,
-- **4)** wzory dokumentów potwierdzających posiadanie uprawnień biorąc pod uwagę bezpieczeństwo żeglugi;
+- **4)** wzory dokumentów potwierdzających posiadanie uprawnień – biorąc pod uwagę bezpieczeństwo żeglugi;
 - **5)** wysokość opłat za przeprowadzenie egzaminu, o którym mowa w ust. 6, oraz za czynności związane z wydaniem dokumentu, o którym mowa w ust. 3, biorąc pod uwagę zakres uprawnień uzyskiwanych po zdaniu egzaminu, koszty poniesione przez właściwy polski związek sportowy oraz przepisy ust. 8. ” .
 
-**Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.) w art. 27 wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 138, poz. 1154, Nr 157, poz. 1314, Nr 164, poz. 1366, Nr 169, poz. 1411 i Nr 179, poz. 1485, z 2006 r. Nr 75, poz. 519, Nr 104, poz. 708 i 711, Nr 143, poz. 1030, Nr 170, poz. 1217, Nr 191, poz. 1410, Nr 227, poz. 1658 i Nr 249, poz. 1824 oraz z 2007 r. Nr 64, poz. 427 i 433, Nr 82, poz. 559, Nr 115, poz. 793, Nr 133, poz. 922 i Nr 166, poz. 1172.) w art. 27 wprowadza się następujące zmiany:
 
 - **1)** w ust. 1 pkt 8 otrzymuje brzmienie: „
 - **8)** wykonywanie badań z zakresu medycyny sportowej obejmujących dzieci i młodzież do ukończenia 21. roku życia uprawiających sport amatorski oraz zawodników pomiędzy 21. a 23. rokiem życia. ” ;
@@ -212,5 +211,5 @@ source: "eli-html"
 
 **Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 53a ust. 6 ustawy wymienionej w art. 3 oraz art. 27 ust. 4 ustawy wymienionej w art. 4 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 53a ust. 11 ustawy wymienionej w art. 3 oraz art. 27 ust. 4 ustawy wymienionej w art. 4 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, art. 3 pkt 3 i art. 4, które wchodzą w życie z dniem 1 stycznia 2008 r.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, art. 3 pkt 3 i art. 4, które wchodzą w życie z dniem 1 stycznia 2008 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 18 stycznia 1996 r. o kulturze fizycznej i ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533, z 2005 r. Nr 25, poz. 202, Nr 57, poz. 491, Nr 78, poz. 684, Nr 143, poz. 1199, Nr 155, poz. 1298, Nr 169, poz. 1419 i 1420, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538, z 2006 r. Nr 94, poz. 651, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353, Nr 217, poz. 1589 i Nr 251, poz. 1847 oraz z 2007 r. Nr 165, poz. 1169. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2005 r. Nr 85, poz. 726 i Nr 155, poz. 1298, z 2006 r. Nr 208, poz. 1531 oraz z 2007 r. Nr 34, poz. 206. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808, z 2005 r. Nr 85, poz. 726 i Nr 155, poz. 1298, z 2006 r. Nr 208, poz. 1531 oraz z 2007 r. Nr 34, poz. 206. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 138, poz. 1154, Nr 157, poz. 1314, Nr 164, poz. 1366, Nr 169, poz. 1411 i Nr 179, poz. 1485, z 2006 r. Nr 75, poz. 519, Nr 104, poz. 708 i 711, Nr 143, poz. 1030, Nr 170, poz. 1217, Nr 191, poz. 1410, Nr 227, poz. 1658 i Nr 249, poz. 1824 oraz z 2007 r. Nr 64, poz. 427 i 433, Nr 82, poz. 559, Nr 115, poz. 793, Nr 133, poz. 922 i Nr 166, poz. 1172.
 

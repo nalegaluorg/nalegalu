@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 30 kwietnia 2021 r. w sprawie organizacji i sposobu funkcjonowania centrum powiadamiania ratunkowego oraz procedur obsługi zgłoszeń alarmowych
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 30 kwietnia 2021 r. w sprawie organizacji i sposobu funkcjonowania centrum powiadamiania ratunkowego oraz procedur obsługi zgłoszeń alarmowych Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-30 |
 | Data wydania | 2021-05-04 |
-| Wejście w życie | 2021-05-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000832) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/832/text.pdf) |
 
@@ -313,8 +312,7 @@ W przypadku nieobsadzenia wszystkich stanowisk koordynatorów-trenerów liczba k
 7.
 Maksymalne limity liczby operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów, koordynatorów-trenerów w poszczególnych centrach minister właściwy do spraw administracji publicznej ogłasza na stronie podmiotowej Biuletynu Informacji Publicznej.
 § 16.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 28 kwietnia 2014 r. w sprawie organizacji i funkcjonowania centrów powiadamiania ratunkowego (Dz. U. poz. 574), które zgodnie z art. 8 pkt 1 ustawy z dnia 17 września 2020 r. o zmianie ustawy o systemie powiadamiania ratunkowego (Dz. U. poz. 1899) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 28 kwietnia 2014 r. w sprawie organizacji i funkcjonowania centrów powiadamiania ratunkowego (Dz. U. poz. 574), które zgodnie z art. 8 pkt 1 ustawy z dnia 17 września 2020 r. o zmianie ustawy o systemie powiadamiania ratunkowego (Dz. U. poz. 1899) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 28 kwietnia 2014 r. w sprawie organizacji i funkcjonowania centrów powiadamiania ratunkowego (Dz. U. poz. 574), które zgodnie z art. 8 pkt 1 ustawy z dnia 17 września 2020 r. o zmianie ustawy o systemie powiadamiania ratunkowego (Dz. U. poz. 1899) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ##### Oddział centrum nie ma oddzielnej struktury i jest powiązany funkcjonalnie oraz organizacyjnie z centrum.
 

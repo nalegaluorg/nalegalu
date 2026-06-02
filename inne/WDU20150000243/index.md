@@ -31,16 +31,14 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 22 listopada 2004 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe od uposażeń żołnierzy zwolnionych z czynnej służby wojskowej (Dz. U. Nr 255, poz. 2562), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Obrony Narodowej z dnia 2 stycznia 2014 r. zmieniającym rozporządzenie w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe od uposażeń żołnierzy zwolnionych z czynnej służby wojskowej (Dz. U. poz. 65).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 2 stycznia 2014 r. zmieniającego rozporządzenie w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe od uposażeń żołnierzy zwolnionych z czynnej służby wojskowej (Dz. U. poz. 65), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 2 stycznia 2014 r. zmieniającego rozporządzenie w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe od uposażeń żołnierzy zwolnionych z czynnej służby wojskowej (Dz. U. poz. 65), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Obrony Narodowej z dnia 22 listopada 2004 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe od uposażeń żołnierzy zwolnionych z czynnej służby wojskowej
-Na podstawie art. 6a ust. 9 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2013 r. poz. 666, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 6a ust. 9 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2013 r. poz. 666, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1355, 1623 i 1717 oraz z 2014 r. poz. 502, 542 i 696.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa tryb, terminy oraz jednostki właściwe do przekazywania do Zakładu Ubezpieczeń Społecznych zwaloryzowanych składek na ubezpieczenia emerytalne i rentowe, o których mowa w art. 6a ust. 1, 3, 4 i 7 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, zwanych dalej „składkami”, od uposażenia wypłaconego żołnierzowi po dniu 31 grudnia 1998 r. do dnia zwolnienia z czynnej służby wojskowej, zwanej dalej „służbą”, od którego nie odprowadzono składek.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 2 stycznia 2014 r. zmieniającego rozporządzenie w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe od uposażeń żołnierzy zwolnionych z czynnej służby wojskowej (Dz. U. poz. 65), które weszło w życie z dniem 29 stycznia 2014 r..
 Składki od uposażenia żołnierza przekazują do Zakładu Ubezpieczeń Społecznych:
 1)
 wojskowa jednostka budżetowa lub instytucja cywilna, o której mowa w art. 22 ust. 1 pkt 1 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2014 r. poz. 1414 i 1822), na której zaopatrzeniu finansowym żołnierz pozostawał w ostatnim miesiącu pełnienia służby;
@@ -58,7 +56,7 @@ Składki przekazuje się w terminie:
 2)
 60 dni od dnia złożenia wniosku, w przypadku żołnierza, który po zwolnieniu ze służby spełnia jedynie warunki do nabycia prawa do wojskowej renty inwalidzkiej;
 3)
-niezwłocznie, nie później niż do 15. dnia miesiąca następującego po miesiącu, w którym otrzymano zawiadomienie z Zakładu Ubezpieczeń Społecznych o ustaleniu żołnierzowi prawa do emerytury lub renty przewidzianej w przepisach ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.), w odniesieniu do żołnierza, który po zwolnieniu ze służby, pomimo spełnienia warunków do nabycia prawa do emerytury wojskowej, zgłosił wniosek o przyznanie emerytury z tytułu podlegania ubezpieczeniom społecznym, a pozostawał w służbie przed dniem 2 stycznia 1999 r.
+niezwłocznie, nie później niż do 15. dnia miesiąca następującego po miesiącu, w którym otrzymano zawiadomienie z Zakładu Ubezpieczeń Społecznych o ustaleniu żołnierzowi prawa do emerytury lub renty przewidzianej w przepisach ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683, 684 i 1682.), w odniesieniu do żołnierza, który po zwolnieniu ze służby, pomimo spełnienia warunków do nabycia prawa do emerytury wojskowej, zgłosił wniosek o przyznanie emerytury z tytułu podlegania ubezpieczeniom społecznym, a pozostawał w służbie przed dniem 2 stycznia 1999 r.
 2.
 Składki rozliczone w deklaracjach rozliczeniowych i imiennych raportach miesięcznych określonych w ustawie, o której mowa w § 3, uwzględniające cały okres służby żołnierza, przekazuje się do Zakładu Ubezpieczeń Społecznych:
 1)
@@ -70,5 +68,5 @@ Deklaracje rozliczeniowe i imienne raporty miesięczne, o których mowa w ust. 2
 § 5.
 Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 9 lutego 2004 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe od uposażeń żołnierzy zwolnionych z czynnej służby wojskowej (Dz. U. Nr 27, poz. 240).
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 1 grudnia 2004 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1355, 1623 i 1717 oraz z 2014 r. poz. 502, 542 i 696. 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 2 stycznia 2014 r. zmieniającego rozporządzenie w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe od uposażeń żołnierzy zwolnionych z czynnej służby wojskowej (Dz. U. poz. 65), które weszło w życie z dniem 29 stycznia 2014 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683, 684 i 1682. 4) Rozporządzenie zostało ogłoszone w dniu 1 grudnia 2004 r.
 

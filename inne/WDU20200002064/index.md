@@ -26,21 +26,41 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2064/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 5 września 2008 r. o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska” Rozdział 1 – Przepisy ogólne Rozdział 2 – Komercjalizacja Poczty Polskiej Rozdział 3 – Działalność Spółki Rozdział 4 – Gospodarowanie mieniem Spółki Rozdział 5 – Szczególne uprawnienia pracownicze Rozdział 6 – Zmiany w przepisach obowiązujących Rozdział 7 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 5 września 2008 r. o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska”
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 września 2008 r. o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska” (Dz. U. z 2019 r. poz. 261), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 listopada 2020 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), który stanowi: „
+Przepisy ogólne
+Komercjalizacja Poczty Polskiej
+Działalność Spółki
+Gospodarowanie mieniem Spółki
+Szczególne uprawnienia pracownicze
+Zmiany w przepisach obowiązujących
 Art. 21–28.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Komercjalizacja Poczty Polskiej
+
+#### Rozdział 3 – Działalność Spółki
+
+#### Rozdział 4 – Gospodarowanie mieniem Spółki
+
+#### Rozdział 5 – Szczególne uprawnienia pracownicze
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 7 – Przepisy przejściowe i końcowe
 
 **Art. 114.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 5 września 2008 r. o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska”
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
-**Art. 1.** Ustawa reguluje zasady i tryb komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska” działającego na podstawie ustawy z dnia 30 lipca 1997 r. o państwowym przedsiębiorstwie użyteczności publicznej „Poczta Polska” (Dz. U. poz. 675, z późn. zm.), zwanego dalej „Pocztą Polską”.
+**Art. 1.** Ustawa reguluje zasady i tryb komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska” działającego na podstawie ustawy z dnia 30 lipca 1997 r. o państwowym przedsiębiorstwie użyteczności publicznej „Poczta Polska” (Dz. U. poz. 675, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1268, z 2002 r. poz. 253, z 2003 r. poz. 1188, z 2004 r. poz. 894, z 2005 r. poz. 1442 i 2258, z 2006 r. poz. 1119, z 2007 r. poz. 1238 oraz z 2008 r. poz. 606.), zwanego dalej „Pocztą Polską”.
 
 **Art. 2.**
 
@@ -54,9 +74,9 @@ Art. 21–28.
 
 **Art. 4.** Spółka ma prawo używania w działalności związanej z wykonywaniem obowiązku świadczenia powszechnych usług pocztowych oznak z godłem Rzeczypospolitej Polskiej oraz pieczęci urzędowych z wizerunkiem orła, ustalonym dla godła, i napisem w otoku.
 
-**Art. 5.** Do Spółki nie ma zastosowania art. 6 pkt 4 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2020 r. poz. 1228).
+**Art. 5.** Do Spółki nie ma zastosowania art. 6 pkt 4 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawczeObecnie tytuł ustawy brzmi – Prawo upadłościowe na podstawie art. 428 pkt 1 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978), która weszła w życie z dniem 1 stycznia 2016 r. (Dz. U. z 2020 r. poz. 1228).
 
-#### Rozdział 2 Komercjalizacja Poczty Polskiej
+#### Rozdział 2
 
 **Art. 6.** Do komercjalizacji Poczty Polskiej stosuje się przepisy art. 5–8 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników.
 
@@ -91,9 +111,7 @@ Art. 21–28.
 
 **Art. 10.**
 
-1. W czasie, w którym Skarb Państwa pozostaje jedynym akcjonariuszem Spółki, członków rady nadzorczej, o których mowa w ust. 2, powołuje i odwołuje walne zgromadzenie.
-
-2. W Spółce działa rada nadzorcza, która liczy 5–9 osób. W skład rady nadzorczej wchodzą:
+1. W czasie, w którym Skarb Państwa pozostaje jedynym akcjonariuszem Spółki, członków rady nadzorczej, o których mowa w ust. 2, powołuje i odwołuje walne zgromadzenie. 2W brzmieniu ustalonym przez art. 56 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.. W Spółce działa rada nadzorcza, która liczy 5–9 osób. W skład rady nadzorczej wchodzą:
 
 - **1)** do trzech przedstawicieli ministra właściwego do spraw łączności;
 - **2)** do dwóch przedstawicieli ministra właściwego do spraw finansów publicznych;
@@ -127,7 +145,7 @@ Art. 21–28.
 
 4. Statut może określić warunki, w jakich dokonywanie czynności, o których mowa w ust. 2, nie wymaga zgody walnego zgromadzenia.
 
-#### Rozdział 3 Działalność Spółki
+#### Rozdział 3
 
 **Art. 12.**
 
@@ -207,7 +225,7 @@ Art. 21–28.
 
 **Art. 16.** Potwierdzone przez Spółkę dowody przyjęcia wpłaty i dowody wypłaty, a w zakresie czynności określonych w art. 13 ust. 1 oraz w art. 14 ust. 1 i 2 również wystawiane przez Spółkę oświadczenia zawierające zobowiązania, zwolnienie z zobowiązań, zrzeczenie się praw lub pokwitowanie odbioru należności oraz stwierdzające udzielenie kredytu, pożyczki pieniężnej, wraz z informacją o ich wysokości, zasadach oprocentowania, warunkach spłaty – mają moc prawną dokumentów urzędowych.
 
-#### Rozdział 4 Gospodarowanie mieniem Spółki
+#### Rozdział 4
 
 **Art. 17.**
 
@@ -219,7 +237,7 @@ Art. 21–28.
 
 2. Spółka może pomniejszyć kapitał zapasowy o wartość księgową netto mienia w postaci środków trwałych, przekazywanego zgodnie z ust. 1.
 
-#### Rozdział 5 Szczególne uprawnienia pracownicze
+#### Rozdział 5
 
 **Art. 18.** Do pracowników spółki mają zastosowanie przepisy art. 2 pkt 5 oraz działu IV ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników.
 
@@ -227,15 +245,15 @@ Art. 21–28.
 
 **Art. 20.** Pracownikom Spółki w związku z wykonywaniem obowiązku świadczenia powszechnych usług pocztowych przysługuje ochrona prawna przewidziana w przepisach prawa karnego dla funkcjonariuszy publicznych.
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących
+#### Rozdział 6
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7
 
 **Art. 29.**
 
-1. Traci moc ustawa z dnia 30 lipca 1997 r. o państwowym przedsiębiorstwie użyteczności publicznej „Poczta Polska” (Dz. U. poz. 675, z późn. zm.), z wyjątkiem przepisów art. 15a-15c i art. 41, które zachowują moc w okresie 36 miesięcy od dnia wejścia w życie niniejszej ustawy.
+1. Traci moc ustawa z dnia 30 lipca 1997 r. o państwowym przedsiębiorstwie użyteczności publicznej „Poczta Polska” (Dz. U. poz. 675, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1268, z 2002 r. poz. 253, z 2003 r. poz. 1188, z 2004 r. poz. 894, z 2005 r. poz. 1442 i 2258, z 2006 r. poz. 1119, z 2007 r. poz. 1238 oraz z 2008 r. poz. 606.), z wyjątkiem przepisów art. 15a-15c i art. 41, które zachowują moc w okresie 36 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. Do dnia wykreślenia Poczty Polskiej z rejestru przedsiębiorców Poczta Polska działa na podstawie ustawy, o której mowa w ust. 1.
 
-**Art. 30.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 21, 23 i 25–28, które wchodzą w życie w terminie, o którym mowa w art. 9 ust. 3.
+**Art. 30.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 10 października 2008 r., z wyjątkiem przepisów art. 21, 23 i 25–28, które wchodzą w życie w terminie, o którym mowa w art. 9 ust. 3. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1268, z 2002 r. poz. 253, z 2003 r. poz. 1188, z 2004 r. poz. 894, z 2005 r. poz. 1442 i 2258, z 2006 r. poz. 1119, z 2007 r. poz. 1238 oraz z 2008 r. poz. 606. 2) Obecnie tytuł ustawy brzmi – Prawo upadłościowe na podstawie art. 428 pkt 1 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978), która weszła w życie z dniem 1 stycznia 2016 r. 3) W brzmieniu ustalonym przez art. 56 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. 4) Ustawa została ogłoszona w dniu 10 października 2008 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
+# Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, ustawę z dnia 27 lipca 2002 r. – Prawo dewizowe, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej oraz ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-09 |
 | Data wydania | 2015-06-22 |
-| Wejście w życie | 2015-07-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/855/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.) wprowadza się następujące zmiany:
+Współdziałanie Prezesa Głównego Urzędu Statystycznego z Prezesem Narodowego Banku Polskiego
+Przetwarzanie danych osobowych dla celów statystycznych
+
+**Art. 1.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2 oraz z 2014 r. poz. 1161 i 1662.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
@@ -133,7 +135,7 @@ source: "eli-html"
     - **e)**
     - **f)**
 
-- **9)** rodzaje wynikowych informacji statystycznych oraz formy i terminy ich udostępnienia mając na celu zapewnienie przeprowadzenia badań o istotnym znaczeniu dla obserwacji procesów demograficznych, społecznych, gospodarczych i środowiska naturalnego, a w szczególności badań stałych pozwalających na obserwację ciągłą podstawowych dziedzin życia i występujących w nim zjawisk, badań cyklicznych, w tym spisów powszechnych, badań gwarantujących porównywalność wyników, w przypadku gdy dotyczą one zmiennych w czasie obiektów obserwacji statystycznej lub gdy zmianie ulega metodologia badania oraz badań koniecznych dla wykonania przyjętych przez Rzeczpospolitą Polską zobowiązań międzynarodowych.
+- **9)** rodzaje wynikowych informacji statystycznych oraz formy i terminy ich udostępnienia – mając na celu zapewnienie przeprowadzenia badań o istotnym znaczeniu dla obserwacji procesów demograficznych, społecznych, gospodarczych i środowiska naturalnego, a w szczególności badań stałych pozwalających na obserwację ciągłą podstawowych dziedzin życia i występujących w nim zjawisk, badań cyklicznych, w tym spisów powszechnych, badań gwarantujących porównywalność wyników, w przypadku gdy dotyczą one zmiennych w czasie obiektów obserwacji statystycznej lub gdy zmianie ulega metodologia badania oraz badań koniecznych dla wykonania przyjętych przez Rzeczpospolitą Polską zobowiązań międzynarodowych.
 
 2. Ustalając w programie badań statystycznych statystyki publicznej szczegółowy zakres przekazywanych w określonym badaniu statystycznym danych osobowych, uwzględnia się ograniczenia określone w przepisach rozdziału 4a.
 
@@ -160,7 +162,7 @@ source: "eli-html"
 
 - **14)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Współdziałanie Prezesa Głównego Urzędu Statystycznego z Prezesem Narodowego Banku Polskiego
+#### Rozdział 2a
 
 **Art. 21a.**
 
@@ -179,7 +181,7 @@ source: "eli-html"
 
 - **15)** art. 22 otrzymuje brzmienie: „
 
-**Art. 22.** Służby statystyki publicznej stanowią Prezes Głównego Urzędu Statystycznego, podlegli mu dyrektorzy urzędów statystycznych, jednostki przez niego nadzorowane utworzone na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) oraz jednostki, o których mowa w art. 27. ” ;
+**Art. 22.** Służby statystyki publicznej stanowią Prezes Głównego Urzędu Statystycznego, podlegli mu dyrektorzy urzędów statystycznych, jednostki przez niego nadzorowane utworzone na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238 i 532.) oraz jednostki, o których mowa w art. 27. ” ;
 
 - **16)** w art. 25 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** rozpoznawanie zapotrzebowania na informacje i analizy statystyczne, koordynowanie prac i przygotowywanie projektu programu badań statystycznych statystyki publicznej oraz przedstawianie go Radzie; ” ;
@@ -249,7 +251,7 @@ source: "eli-html"
 - **24)** uchyla się art. 35;
 - **25)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Przetwarzanie danych osobowych dla celów statystycznych
+#### Rozdział 4a
 
 **Art. 35a.**
 
@@ -345,7 +347,7 @@ source: "eli-html"
 - **4)** organy administracji rządowej w województwie – z systemów i rejestrów związanych z ich działalnością ustawową lub statutową,
 - **5)** organy jednostek samorządu terytorialnego – z ewidencji gruntów i budynków, rejestrów wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę, rejestrów mieszkańców, rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego, ewidencji podatkowej nieruchomości, rejestrów bezrobotnych i poszukujących pracy, systemów pomocy społecznej, świadczeń rodzinnych i świadczeń z funduszu alimentacyjnego, elektronicznego krajowego systemu monitoringu orzekania o niepełnosprawności,
 - **6)** sądy okręgowe – z ewidencji i systemów dotyczących orzeczonych rozwodów i separacji oraz w zakresie informacji dotyczących przysposobienia,
-- **7)** samorządy zawodowe – z rejestrów i ewidencji dotyczących osób wykonujących określone zawody w szczegółowym zakresie określonym w programie badań statystycznych statystyki publicznej. Służby statystyki publicznej po opracowaniu zebranych danych osobowych, nie dłużej jednak niż po upływie 10 lat od zebrania tych danych, są obowiązane do przechowywania danych dotyczących osób fizycznych wyłącznie w postaci uniemożliwiającej identyfikację osoby, której dotyczą (anonimizacja), z wyjątkiem danych osobowych gromadzonych i przechowywanych w formie operatów do badań statystycznych, o których mowa w art. 35f. Gromadzenie w jednym zbiorze danych wszystkich zebranych przez służby statystyki publicznej danych dotyczących konkretnej osoby fizycznej, pochodzących z różnych badań statystycznych i różnych źródeł, które w połączeniu mogłyby służyć do charakterystyki lub oceny tej osoby – jest zabronione.
+- **7)** samorządy zawodowe – z rejestrów i ewidencji dotyczących osób wykonujących określone zawody – w szczegółowym zakresie określonym w programie badań statystycznych statystyki publicznej. Służby statystyki publicznej po opracowaniu zebranych danych osobowych, nie dłużej jednak niż po upływie 10 lat od zebrania tych danych, są obowiązane do przechowywania danych dotyczących osób fizycznych wyłącznie w postaci uniemożliwiającej identyfikację osoby, której dotyczą (anonimizacja), z wyjątkiem danych osobowych gromadzonych i przechowywanych w formie operatów do badań statystycznych, o których mowa w art. 35f. Gromadzenie w jednym zbiorze danych wszystkich zebranych przez służby statystyki publicznej danych dotyczących konkretnej osoby fizycznej, pochodzących z różnych badań statystycznych i różnych źródeł, które w połączeniu mogłyby służyć do charakterystyki lub oceny tej osoby – jest zabronione.
 
 1. Zebrane w badaniach statystycznych dane osobowe w zakresie wymienionym w art. 35b ust. 1 pkt 1–5, 10–16 oraz 19–23 służby statystyki publicznej mogą gromadzić i przechowywać w formie operatów do badań statystycznych.
 
@@ -412,7 +414,7 @@ source: "eli-html"
 
 **Art. 63.** Główny Urząd Statystyczny pozyskuje dane z bazy danych SIO zgodnie ze szczegółowym zakresem, w formie, postaci i terminach określonych w programie badań statystycznych statystyki publicznej, ustalonym na podstawie art. 18 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej. ” . W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636 i 788) w art. 23 w ust. 2 pkt 1 otrzymuje brzmienie: „
 
-- **1)** dane statystyczne, o których mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.); ” .
+- **1)** dane statystyczne, o których mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2, z 2014 r. poz. 1161 i 1662 oraz z 2015 r. poz. 855.); ” .
 
 **Art. 6.**
 
@@ -427,7 +429,7 @@ source: "eli-html"
 - **3)** zakres podmiotowy i przedmiotowy oraz źródła zbieranych danych statystycznych,
 - **4)** podmioty gospodarki narodowej i osoby fizyczne nieprowadzące działalności gospodarczej zobowiązane do udzielania informacji i przekazywania danych statystycznych lub uczestniczące w badaniu na zasadzie dobrowolności,
 - **5)** formy, częstotliwość, terminy i miejsce przekazywania danych statystycznych,
-- **6)** rodzaje wynikowych informacji statystycznych oraz formy i terminy ich udostępnienia mając na celu zapewnienie przeprowadzenia badań o istotnym znaczeniu dla obserwacji procesów demograficznych, społecznych, gospodarczych i środowiska naturalnego, a w szczególności badań stałych pozwalających na obserwację ciągłą podstawowych dziedzin życia i występujących w nim zjawisk, badań cyklicznych, w tym spisów powszechnych, oraz badań gwarantujących porównywalność wyników, w przypadku gdy dotyczą one zmiennych w czasie obiektów obserwacji statystycznej lub gdy zmianie ulega metodologia badania, oraz badań koniecznych dla wykonania przyjętych przez Rzeczpospolitą Polską zobowiązań międzynarodowych, a także uwzględnienie zasad dotyczących przetwarzania danych osobowych określonych w przepisach rozdziału 4a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą oraz ustalania kosztów badań statystycznych określonych w art. 50 tej ustawy. Programy badań statystycznych statystyki publicznej ustalone przed dniem wejścia w życie niniejszej ustawy do czasu zakończenia realizacji określonych w nich badań statystycznych zachowują moc i mogą być zmieniane w granicach określonych w art. 18 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, z uwzględnieniem przepisów rozdziału 4a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+- **6)** rodzaje wynikowych informacji statystycznych oraz formy i terminy ich udostępnienia – mając na celu zapewnienie przeprowadzenia badań o istotnym znaczeniu dla obserwacji procesów demograficznych, społecznych, gospodarczych i środowiska naturalnego, a w szczególności badań stałych pozwalających na obserwację ciągłą podstawowych dziedzin życia i występujących w nim zjawisk, badań cyklicznych, w tym spisów powszechnych, oraz badań gwarantujących porównywalność wyników, w przypadku gdy dotyczą one zmiennych w czasie obiektów obserwacji statystycznej lub gdy zmianie ulega metodologia badania, oraz badań koniecznych dla wykonania przyjętych przez Rzeczpospolitą Polską zobowiązań międzynarodowych, a także uwzględnienie zasad dotyczących przetwarzania danych osobowych określonych w przepisach rozdziału 4a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą oraz ustalania kosztów badań statystycznych określonych w art. 50 tej ustawy. Programy badań statystycznych statystyki publicznej ustalone przed dniem wejścia w życie niniejszej ustawy do czasu zakończenia realizacji określonych w nich badań statystycznych zachowują moc i mogą być zmieniane w granicach określonych w art. 18 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, z uwzględnieniem przepisów rozdziału 4a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Przepisy wykonawcze wydane na podstawie art. 31 ustawy zmienianej w art. 1, do czasu zakończenia realizacji badań statystycznych, w których są stosowane, zachowują moc i mogą być zmieniane w granicach określonych w tym przepisie. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 23 i art. 9, które wchodzą w życie z dniem 1 stycznia 2018 r.
+**Art. 9.** Przepisy wykonawcze wydane na podstawie art. 31 ustawy zmienianej w art. 1, do czasu zakończenia realizacji badań statystycznych, w których są stosowane, zachowują moc i mogą być zmieniane w granicach określonych w tym przepisie. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 23 i art. 9, które wchodzą w życie z dniem 1 stycznia 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, ustawę z dnia 27 lipca 2002 r. – Prawo dewizowe, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej oraz ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2 oraz z 2014 r. poz. 1161 i 1662. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238 i 532. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2, z 2014 r. poz. 1161 i 1662 oraz z 2015 r. poz. 855.
 

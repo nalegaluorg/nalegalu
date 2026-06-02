@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 lipca 2022 r. zmieniające rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 lipca 2022 r. zmieniające rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-20 |
 | Data wydania | 2022-08-02 |
-| Wejście w życie | 2022-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001620) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1620/text.pdf) |
 
@@ -31,16 +30,13 @@ Na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie prz
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. poz. 719 oraz z 2019 r. poz. 67) wprowadza się następujące zmiany:
 1)
-w § 19 dodaje się ust. 6 w brzmieniu:
-„
+w § 19 dodaje się ust. 6 w brzmieniu: „
 6.
-Zawory 52 muszą być stosowane w budynkach wysokich i wysokościowych o więcej niż jednej kondygnacji nadziemnej.
-” ;
+Zawory 52 muszą być stosowane w budynkach wysokich i wysokościowych o więcej niż jednej kondygnacji nadziemnej. ” ;
 2)
 w § 39:
 a)
-ust. 3–6 otrzymują brzmienie:
-„
+ust. 3–6 otrzymują brzmienie: „
 3.
 W odniesieniu do lasów niestanowiących własności Skarbu Państwa, należących do osób fizycznych lub wspólnot gruntowych, uzgodnienia projektu uproszczonego planu urządzenia lasu, o którym mowa w ust. 2 pkt 6, z właściwym miejscowo komendantem wojewódzkim Państwowej Straży Pożarnej dokonuje starosta.
 4.
@@ -58,16 +54,13 @@ studnia z pompą oraz z:
 a)
 hydrantem zewnętrznym lub
 b)
-innym punktem poboru wody z nasadą tłoczną typu 75 lub 110
-o wydajności nie mniejszej niż 10 dm3/s.
+innym punktem poboru wody z nasadą tłoczną typu 75 lub 110 – o wydajności nie mniejszej niż 10 dm3/s.
 5.
 Zbiornikiem sztucznym jest pojemnik albo grupa pojemników połączonych przewodami o średnicy co najmniej 300 mm w sposób umożliwiający dostęp do wymaganego zapasu wody z każdego stanowiska czerpania wody, w które jest wyposażony zbiornik.
 6.
-Źródła wody do celów przeciwpożarowych, o których mowa w ust. 4 pkt 1–3 i 5, powinny być wyposażone w stanowiska czerpania wody z utwardzoną nawierzchnią o nośności nie mniejszej niż wymagana dla dojazdów pożarowych.
-” ,
+Źródła wody do celów przeciwpożarowych, o których mowa w ust. 4 pkt 1–3 i 5, powinny być wyposażone w stanowiska czerpania wody z utwardzoną nawierzchnią o nośności nie mniejszej niż wymagana dla dojazdów pożarowych. ” ,
 b)
-dodaje się ust. 7–20 w brzmieniu:
-„
+dodaje się ust. 7–20 w brzmieniu: „
 7.
 Stanowiska czerpania wody przy źródłach wody do celów przeciwpożarowych, o których mowa w ust. 4 pkt 1–3, powinny umożliwiać pobieranie wody z głębokości nie większej niż 4 m, mierząc od lustra wody do poziomu stanowiska czerpania wody, z wykorzystaniem autopomp lub motopomp pożarniczych.
 8.
@@ -117,11 +110,9 @@ parkingach leśnych oraz innych miejscach wyznaczonych do postoju pojazdów w le
 2)
 ogólnodostępnych miejscach w lesie wyznaczonych do rozpalania ognia;
 3)
-znajdujących się w lesie polach biwakowych oraz kempingach.
-” .
+znajdujących się w lesie polach biwakowych oraz kempingach. ” .
 § 2.
 W zakresie wymagań określonych w § 39 ust. 4–16 i 20 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, dopuszcza się spełnianie wymagań dotyczących źródeł wody do celów przeciwpożarowych oraz umieszczania tablic informacyjnych i ostrzegawczych w lasach na podstawie przepisów dotychczasowych, jednak nie dłużej niż przez okres 3 lat od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

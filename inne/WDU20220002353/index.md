@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-08 |
 | Data wydania | 2022-11-18 |
-| Wejście w życie | 2022-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002353) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2353/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 46 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjon
 § 1.
 W rozporządzeniu Ministra Obrony Narodowej z dnia 10 sierpnia 2018 r. w sprawie umundurowania funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1690) wprowadza się następujące zmiany:
 1)
-w § 2 ust. 2 otrzymuje brzmienie:
-„
+w § 2 ust. 2 otrzymuje brzmienie: „
 2.
-Funkcjonariusze otrzymują umundurowanie zgodne z wzorami ubiorów, o których mowa w ust. 1, określonymi w przepisach wydanych na podstawie art. 270 ust. 2 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) dla żołnierzy zawodowych Wojsk Lądowych.
-” ;
+Funkcjonariusze otrzymują umundurowanie zgodne z wzorami ubiorów, o których mowa w ust. 1, określonymi w przepisach wydanych na podstawie art. 270 ust. 2 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) dla żołnierzy zawodowych Wojsk Lądowych. ” ;
 2)
-§ 5 otrzymuje brzmienie:
-„
+§ 5 otrzymuje brzmienie: „
 § 5.
-Funkcjonariusze otrzymują umundurowanie zgodnie z normami umundurowania określonymi w przepisach wydanych na podstawie art. 334 ust. 4 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny dla żołnierzy zawodowych Wojsk Lądowych w komórkach organizacyjnych Ministerstwa Obrony Narodowej.
-” .
+Funkcjonariusze otrzymują umundurowanie zgodnie z normami umundurowania określonymi w przepisach wydanych na podstawie art. 334 ust. 4 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny dla żołnierzy zawodowych Wojsk Lądowych w komórkach organizacyjnych Ministerstwa Obrony Narodowej. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-06-13 |
 | Data wydania | 2003-07-14 |
-| Wejście w życie | 2003-07-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031221144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1144/text.pdf) |
 
@@ -32,14 +31,14 @@ source: "eli-html"
     - **a)**
 
 - **3)** materiały paszowe – produkty pochodzenia roślinnego lub zwierzęcego w stanie naturalnym, świeże lub konserwowane albo przetworzone oraz inne substancje organiczne, a także substancje nieorganiczne, zawierające dodatki paszowe lub ich niezawierające, przeznaczone do bezpośredniego żywienia zwierząt lub do sporządzania mieszanek paszowych albo premiksów,
-- **4)** dodatki paszowe – substancje przetworzone lub nieprzetworzone, a także mikroorganizmy tworzące kolonie, dodawane do pasz lub premiksów w celu: poprawy cech materiałów paszowych, mieszanek paszowych lub środków spożywczych pochodzenia zwierzęcego lub zaspokojenia potrzeb żywieniowych zwierząt lub doskonalenia produkcji zwierzęcej, w szczególności w wyniku wpływu na florę żołądkowo-jelitową lub na strawność paszy, lub uzupełniania pasz lub premiksów składnikami pokarmowymi umożliwiającymi osiągnięcie szczególnych celów w żywieniu zwierząt lub zaspokojenie szczególnych potrzeb żywieniowych u zwierząt w danym okresie, lub zapobiegania szkodliwemu wpływowi odchodów zwierzęcych na środowisko lub zmniejszenia tego wpływu albo poprawy warunków środowiska, w którym są utrzymywane zwierzęta z wyłączeniem substancji wspomagających procesy w produkcji pasz do osiągnięcia celu technologicznego podczas ich obróbki lub w procesie przetwarzania, w wyniku których może powstać niezamierzona, ale technicznie niemożliwa do uniknięcia pozostałość tych dodatków lub ich pochodnych w paszy, jeżeli nie stanowi ona zagrożenia dla zdrowia i nie ma technologicznego wpływu na produkt końcowy, ” , pkt 6 otrzymuje brzmienie: „
+- **4)** dodatki paszowe – substancje przetworzone lub nieprzetworzone, a także mikroorganizmy tworzące kolonie, dodawane do pasz lub premiksów w celu: poprawy cech materiałów paszowych, mieszanek paszowych lub środków spożywczych pochodzenia zwierzęcego lub zaspokojenia potrzeb żywieniowych zwierząt lub doskonalenia produkcji zwierzęcej, w szczególności w wyniku wpływu na florę żołądkowo-jelitową lub na strawność paszy, lub uzupełniania pasz lub premiksów składnikami pokarmowymi umożliwiającymi osiągnięcie szczególnych celów w żywieniu zwierząt lub zaspokojenie szczególnych potrzeb żywieniowych u zwierząt w danym okresie, lub zapobiegania szkodliwemu wpływowi odchodów zwierzęcych na środowisko lub zmniejszenia tego wpływu albo poprawy warunków środowiska, w którym są utrzymywane zwierzęta – z wyłączeniem substancji wspomagających procesy w produkcji pasz do osiągnięcia celu technologicznego podczas ich obróbki lub w procesie przetwarzania, w wyniku których może powstać niezamierzona, ale technicznie niemożliwa do uniknięcia pozostałość tych dodatków lub ich pochodnych w paszy, jeżeli nie stanowi ona zagrożenia dla zdrowia i nie ma technologicznego wpływu na produkt końcowy, ” , pkt 6 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
     - **d)**
     - **b)**
 
-- **6)** mieszanki paszowe – mieszaniny: materiałów paszowych bez zawartości albo z zawartością dodatku paszowego lub premiksu, materiału paszowego z dodatkiem paszowym lub premiksem przeznaczone do stosowania w żywieniu zwierząt w formie mieszanki paszowej pełnoporcjowej albo mieszanki paszowej uzupełniającej, ” , pkt 8 i 9 otrzymują brzmienie: „
+- **6)** mieszanki paszowe – mieszaniny: materiałów paszowych bez zawartości albo z zawartością dodatku paszowego lub premiksu, materiału paszowego z dodatkiem paszowym lub premiksem – przeznaczone do stosowania w żywieniu zwierząt w formie mieszanki paszowej pełnoporcjowej albo mieszanki paszowej uzupełniającej, ” , pkt 8 i 9 otrzymują brzmienie: „
     - **a)**
     - **b)**
     - **c)**
@@ -57,13 +56,18 @@ source: "eli-html"
     - **f)**
 
 - **19)** osoba odpowiedzialna za wprowadzenie dodatku do obrotu – osobę fizyczną albo osobę prawną, która ponosi odpowiedzialność z tytułu skutków wprowadzenia do obrotu danego dodatku paszowego z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych oraz stymulatorów wzrostu, a także odpowiedzialność za zgodność tego dodatku z wymaganiami określonymi dla niego w rejestrze prowadzonym przez Komisję Europejską. ” ;
-- **2)** w art. 4: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) substancji i produktów szkodliwie wpływających na zdrowie zwierząt, jakość środków spożywczych pochodzenia zwierzęcego lub środowisko, zwanych dalej „substancjami zabronionymi”, ” , – w pkt 5 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „ 6) materiałów paszowych zawierających pozostałości środków ochrony roślin w ilości przekraczającej ich dopuszczalną zawartość. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **2)** w art. 4: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** substancji i produktów szkodliwie wpływających na zdrowie zwierząt, jakość środków spożywczych pochodzenia zwierzęcego lub środowisko, zwanych dalej „substancjami zabronionymi”, ” , w pkt 5 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** materiałów paszowych zawierających pozostałości środków ochrony roślin w ilości przekraczającej ich dopuszczalną zawartość. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
-1a. Zabrania się wytwarzania mieszanek paszowych z materiałów paszowych, które zawierają substancje niepożądane w ilości przekraczającej ich dopuszczalną zawartość. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) wykaz substancji zabronionych, ” , – w pkt 3 na końcu stawia się przecinek i dodaje się pkt 4 w brzmieniu: „ 4) dopuszczalne zawartości pozostałości środków ochrony roślin w paszach ” ;
+1a. Zabrania się wytwarzania mieszanek paszowych z materiałów paszowych, które zawierają substancje niepożądane w ilości przekraczającej ich dopuszczalną zawartość. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **c)**
+- **1)** wykaz substancji zabronionych, ” , w pkt 3 na końcu stawia się przecinek i dodaje się pkt 4 w brzmieniu: „
+- **4)** dopuszczalne zawartości pozostałości środków ochrony roślin w paszach ” ;
 - **3)** w art. 6 w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „ kokcydiostatyków i innych produktów leczniczych, ” ;
     - **b)**
 
@@ -90,7 +94,7 @@ source: "eli-html"
 2. Wytwarzanie mieszanek paszowych nieprzeznaczonych do obrotu:
 
 - **1)** zawierających premiksy z udziałem dodatków paszowych, o których mowa w art. 6 ust. 1 pkt 1 lit. a)-c), lub
-- **2)** składających się z materiałów paszowych, które zawierają substancje niepożądane w ilości przekraczającej ich dopuszczalną zawartość wymaga zezwolenia wydanego, w drodze decyzji administracyjnej, przez właściwego powiatowego lekarza weterynarii. ” ;
+- **2)** składających się z materiałów paszowych, które zawierają substancje niepożądane w ilości przekraczającej ich dopuszczalną zawartość – wymaga zezwolenia wydanego, w drodze decyzji administracyjnej, przez właściwego powiatowego lekarza weterynarii. ” ;
 - **8)** w art. 19: w ust. 1 w pkt 3 w lit. f skreśla się przecinek na końcu i uchyla się lit. g, dodaje się ust. 6–8 w brzmieniu: „
     - **a)**
     - **b)**
@@ -113,7 +117,7 @@ source: "eli-html"
 - **1)** białka uzyskiwanego z mikroorganizmów należących do grup: bakterii, drożdży, glonów i grzybów,
 - **2)** niebiałkowych związków azotowych,
 - **3)** aminokwasów i ich soli,
-- **4)** analogów aminokwasów zwane dalej „produktami”, mogą być wprowadzone do obrotu i stosowane w żywieniu zwierząt po ich wpisaniu do odpowiednich rejestrów produktów, z zastrzeżeniem ust. 1a. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **4)** analogów aminokwasów – zwane dalej „produktami”, mogą być wprowadzone do obrotu i stosowane w żywieniu zwierząt po ich wpisaniu do odpowiednich rejestrów produktów, z zastrzeżeniem ust. 1a. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Wprowadzane do obrotu i stosowane w żywieniu zwierząt mogą być także:
@@ -317,7 +321,7 @@ source: "eli-html"
 2. Wyniki badań oraz inne informacje zawarte w dokumentacji dołączanej do wniosku o:
 
 - **1)** udzielenie zgody, o której mowa w ust. 1, jeżeli zgoda ta dotyczy innego zastosowania dodatku paszowego wpisanego uprzednio do Rejestru Wspólnotowego,
-- **2)** przedłużenie zgody, o której mowa w ust. 1 nie mogą być wykorzystywane przez wnioskodawców innych niż osoba odpowiedzialna za wprowadzenie danego dodatku do obrotu, która uzyskała tę zgodę lub jej przedłużenie, przez okres 5 lat od dnia ich uzyskania, z zastrzeżeniem ust. 3.
+- **2)** przedłużenie zgody, o której mowa w ust. 1 – nie mogą być wykorzystywane przez wnioskodawców innych niż osoba odpowiedzialna za wprowadzenie danego dodatku do obrotu, która uzyskała tę zgodę lub jej przedłużenie, przez okres 5 lat od dnia ich uzyskania, z zastrzeżeniem ust. 3.
 
 3. Jeżeli pięcioletni okres, o którym mowa w ust. 2, dotyczący wyników badań oraz innych informacji zawartych w dokumentacji dołączanej do wniosku o udzielenie zgody na inne zastosowanie danego dodatku paszowego z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych oraz stymulatorów wzrostu, wpisanego uprzednio do Rejestru Wspólnotowego, kończyłby się przed upływem dziesięcioletniego okresu, o którym mowa w ust. 1, wyniki badań oraz inne informacje zawarte w dokumentacji dołączonej do wniosku nie mogą być wykorzystane przed upływem okresu dziesięcioletniego.
 
@@ -351,7 +355,7 @@ source: "eli-html"
 - **1)** białka uzyskiwanego z mikroorganizmów należących do grup: bakterii, drożdży, glonów i grzybów,
 - **2)** niebiałkowych związków azotowych,
 - **3)** aminokwasów i ich soli,
-- **4)** analogów aminokwasów mogą być wprowadzane do obrotu i stosowane w żywieniu zwierząt, w tym także jako składnik premiksów i mieszanek paszowych, jeżeli zostały dopuszczone do obrotu w Unii Europejskiej na podstawie przepisów Unii Europejskiej dotyczących niektórych produktów stosowanych w żywieniu zwierząt i spełniają wymagania określone dla nich w tych przepisach.
+- **4)** analogów aminokwasów – mogą być wprowadzane do obrotu i stosowane w żywieniu zwierząt, w tym także jako składnik premiksów i mieszanek paszowych, jeżeli zostały dopuszczone do obrotu w Unii Europejskiej na podstawie przepisów Unii Europejskiej dotyczących niektórych produktów stosowanych w żywieniu zwierząt i spełniają wymagania określone dla nich w tych przepisach.
 
 2. Zabrania się sprowadzania spoza obszaru celnego Unii Europejskiej materiałów paszowych z grup, o których mowa w ust. 1, niedopuszczonych do obrotu w Unii Europejskiej oraz premiksów i mieszanek paszowych zawierających takie materiały.
 
@@ -399,7 +403,7 @@ source: "eli-html"
 - **2)** kokcydiostatyków i innych produktów leczniczych,
 - **3)** stymulatorów wzrostu,
 - **4)** witamin A lub D i innych chemicznie zdefiniowanych substancji o podobnym działaniu,
-- **5)** pierwiastków śladowych – miedzi lub selenu zbywa je wyłącznie na rzecz przedsiębiorcy posiadającego zezwolenie na prowadzenie działalności gospodarczej w zakresie wytwarzania premiksów zawierających te dodatki lub na rzecz przedsiębiorcy posiadającego zezwolenie na prowadzenie działalności gospodarczej w zakresie obrotu takimi dodatkami.
+- **5)** pierwiastków śladowych – miedzi lub selenu – zbywa je wyłącznie na rzecz przedsiębiorcy posiadającego zezwolenie na prowadzenie działalności gospodarczej w zakresie wytwarzania premiksów zawierających te dodatki lub na rzecz przedsiębiorcy posiadającego zezwolenie na prowadzenie działalności gospodarczej w zakresie obrotu takimi dodatkami.
 
 2. Przedsiębiorca wytwarzający lub prowadzący obrót premiksami zawierającymi dodatki, o których mowa w ust. 1 pkt 1–3, zbywa je wyłącznie na rzecz podmiotu posiadającego zezwolenie na wytwarzanie mieszanek paszowych zawierających te premiksy lub na rzecz przedsiębiorcy posiadającego zezwolenie na prowadzenie działalności gospodarczej w zakresie obrotu takimi premiksami.
 
@@ -428,10 +432,12 @@ source: "eli-html"
 - **19)** w art. 36: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Główny Lekarz Weterynarii prowadzi ewidencję przedsiębiorców prowadzących działalność gospodarczą w zakresie wytwarzania środków żywienia zwierząt oraz obrotu nimi, a także podmiotów wytwarzających mieszanki paszowe, o których mowa w art. 12 ust. 2 i art. 19 ust. 6; ewidencja jest jawna. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) oznaczenie przedsiębiorcy i adres siedziby, a w przypadku podmiotu wytwarzającego mieszanki paszowe, o których mowa w art. 12 ust. 2 i art. 19 ust. 6, jego imię, nazwisko i adres albo nazwę i adres siedziby, ” , – w pkt 3 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „ 4) w przypadku producentów, o których mowa w art. 35a ust. 3, numer zgody na dodawanie dodatków paszowych z określeniem grup tych dodatków. ” , ust. 3 otrzymuje brzmienie: „
+1. Główny Lekarz Weterynarii prowadzi ewidencję przedsiębiorców prowadzących działalność gospodarczą w zakresie wytwarzania środków żywienia zwierząt oraz obrotu nimi, a także podmiotów wytwarzających mieszanki paszowe, o których mowa w art. 12 ust. 2 i art. 19 ust. 6; ewidencja jest jawna. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** oznaczenie przedsiębiorcy i adres siedziby, a w przypadku podmiotu wytwarzającego mieszanki paszowe, o których mowa w art. 12 ust. 2 i art. 19 ust. 6, jego imię, nazwisko i adres albo nazwę i adres siedziby, ” , w pkt 3 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** w przypadku producentów, o których mowa w art. 35a ust. 3, numer zgody na dodawanie dodatków paszowych z określeniem grup tych dodatków. ” , ust. 3 otrzymuje brzmienie: „
+    - **c)**
 
 3. Organ, o którym mowa w ust. 1, jest obowiązany corocznie, w terminie do dnia 30 września, przekazywać ministrowi właściwemu do spraw rolnictwa dane objęte ewidencją. ” , w ust. 4 w pkt 2 lit. c otrzymuje brzmienie: „ premiksami zawierającymi dodatki paszowe z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych, stymulatorów wzrostu oraz witaminy A lub D, miedzi lub selenu, ” , dodaje się ust. 5–7 w brzmieniu: „
 
@@ -455,8 +461,13 @@ source: "eli-html"
 
 7. Minister właściwy do spraw rolnictwa, na wniosek właściwych organów państw członkowskich Unii Europejskiej, przekazuje, w określonym we wniosku zakresie, wykaz innych niż wymienione w ust. 6 podmiotów objętych ewidencją, o której mowa w ust. 1, wraz z danymi dotyczącymi tych podmiotów zawartymi w tej ewidencji. ” ;
 
-- **20)** w art. 38: w ust. 2: – zdanie wstępne otrzymuje brzmienie: „ Oznakowanie, o którym mowa w ust. 1, polega na umieszczeniu, w sposób widoczny, czytelny i nieusuwalny na każdym opakowaniu środka żywienia zwierząt lub dołączonej do opakowania etykiecie, informacji w języku polskim określającej, w zależności od rodzaju środka żywienia zwierząt, w szczególności: ” , – pkt 1 otrzymuje brzmienie: „ 1) rodzaj, nazwę, a w przypadku produktu także numer wpisu do odpowiedniego rejestru produktów, a w przypadku produktów, o których mowa w art. 21 ust. 1a, numer wpisu do Rejestru Wspólnotowego, ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) rodzaj i nazwę, a w przypadku: a) dodatku paszowego także numer wpisu do Rejestru Wspólnotowego, b) dodatków paszowych z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych oraz stymulatorów wzrostu także nazwę handlową dodatku paszowego, ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+- **20)** w art. 38: w ust. 2: – zdanie wstępne otrzymuje brzmienie: „ Oznakowanie, o którym mowa w ust. 1, polega na umieszczeniu, w sposób widoczny, czytelny i nieusuwalny na każdym opakowaniu środka żywienia zwierząt lub dołączonej do opakowania etykiecie, informacji w języku polskim określającej, w zależności od rodzaju środka żywienia zwierząt, w szczególności: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** rodzaj, nazwę, a w przypadku produktu także numer wpisu do odpowiedniego rejestru produktów, a w przypadku produktów, o których mowa w art. 21 ust. 1a, numer wpisu do Rejestru Wspólnotowego, ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** rodzaj i nazwę, a w przypadku: dodatku paszowego także numer wpisu do Rejestru Wspólnotowego, dodatków paszowych z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych oraz stymulatorów wzrostu także nazwę handlową dodatku paszowego, ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+    - **a)**
+    - **b)**
     - **b)**
 
 2a. W przypadku środków żywienia zwierząt przeznaczonych do wywozu poza polski obszar celny oznakowanie, o którym mowa w ust. 1, może być dokonywane w języku urzędowym kraju przeznaczenia.
@@ -570,7 +581,7 @@ source: "eli-html"
 3. Prowadzenie działalności, o której mowa w ust. 1 i 1a, a także działalności w zakresie wytwarzania:
 
 - **1)** środków żywienia zwierząt oraz obrotu tymi środkami,
-- **2)** nieprzeznaczonych do obrotu mieszanek paszowych: zawierających premiksy z udziałem dodatków paszowych z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych oraz stymulatorów wzrostu, składających się z materiałów paszowych zawierających substancje niepożądane w ilości przekraczającej ich dopuszczalną zawartość wymaga spełnienia warunków lokalizacyjnych, technicznych, sanitarnych, technologicznych i organizacyjnych zabezpieczających przed zagrożeniem epizootycznym lub epidemicznym i zapewniających właściwą jakość zdrowotną towarów, zwanych dalej „warunkami weterynaryjnymi”. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** nieprzeznaczonych do obrotu mieszanek paszowych: zawierających premiksy z udziałem dodatków paszowych z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych oraz stymulatorów wzrostu, składających się z materiałów paszowych zawierających substancje niepożądane w ilości przekraczającej ich dopuszczalną zawartość – wymaga spełnienia warunków lokalizacyjnych, technicznych, sanitarnych, technologicznych i organizacyjnych zabezpieczających przed zagrożeniem epizootycznym lub epidemicznym i zapewniających właściwą jakość zdrowotną towarów, zwanych dalej „warunkami weterynaryjnymi”. ” , ust. 4 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**

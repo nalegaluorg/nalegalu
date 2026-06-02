@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 1 sierpnia 2022 r. zmieniające rozporządzenie w sprawie podstawy programowej wychowania przedszkolnego oraz podstawy programowej kształcenia ogólnego dla szkoły podstawowej, w tym dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, kształcenia ogólnego dla branżowej szkoły I stopnia, kształcenia ogólnego dla szkoły specjalnej przysposabiającej do pracy oraz kształcenia ogólnego dla szkoły policealnej
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 1 sierpnia 2022 r. zmieniające rozporządzenie w sprawie podstawy programowej wychowania przedszkolnego oraz podstawy programowej kształcenia ogólnego dla szkoły podstawowej, w tym dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, kształcenia ogólnego dla branżowej szkoły I stopnia, kształcenia ogólnego dla szkoły specjalnej przysposabiającej do pracy oraz kształcenia ogólnego dla szkoły policealnej Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-01 |
 | Data wydania | 2022-08-17 |
-| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1717/text.pdf) |
 
@@ -33,18 +32,15 @@ W rozporządzeniu Ministra Edukacji Narodowej z dnia 14 lutego 2017 r. w sprawie
 1)
 w załączniku nr 2:
 a)
-w części zatytułowanej „W szkole podstawowej na I etapie edukacyjnym, obejmującym klasy I-III – edukacja wczesnoszkolna, edukacja realizowana jest w formie kształcenia zintegrowanego. Na II etapie edukacyjnym, obejmującym klasy IV-VIII, realizowane są następujące przedmioty:” po pkt 20 dodaje się pkt 20a w brzmieniu:
-„
+w części zatytułowanej „W szkole podstawowej na I etapie edukacyjnym, obejmującym klasy I-III – edukacja wczesnoszkolna, edukacja realizowana jest w formie kształcenia zintegrowanego. Na II etapie edukacyjnym, obejmującym klasy IV-VIII, realizowane są następujące przedmioty:” po pkt 20 dodaje się pkt 20a w brzmieniu: „
 20a)
-język mniejszości narodowej – język niemiecki3);
-” ,
+język mniejszości narodowej – język niemiecki3); ” ,
 b)
 część zatytułowana „ Edukacja dla bezpieczeństwa ” otrzymuje brzmienie: „ Edukacja dla bezpieczeństwa Edukacja dla bezpieczeństwa służy przygotowaniu uczniów do właściwego zachowania i odpowiednich reakcji w sytuacjach stwarzających zagrożenie dla zdrowia i życia oraz w stanach nadzwyczajnych. Przedmiot obejmuje treści kształcenia z zakresu bezpieczeństwa państwa, treści dotyczące organizacji działań ratowniczych, pierwszej pomocy oraz edukacji obronnej. Bezpieczeństwo państwa jest pojmowane jako obszar wiedzy, który objaśnia działanie mechanizmów rządzących zapewnieniem ładu, porządku i stabilności społeczności ludzkich, towarzyszących temu koncepcji, metod i form postępowania. Kształcenie w ramach przygotowania do działania w stanach nadzwyczajnych ma charakter interdyscyplinarny, nastawiony na skuteczne działanie i radzenie sobie poszczególnych jednostek w sytuacjach określonych zagrożeń. Celem zajęć z edukacji dla bezpieczeństwa jest przekazanie uczniom wiedzy o zagrożeniach dnia codziennego i w stanach nadzwyczajnych oraz wykształcenie w nich praktycznych umiejętności w tym obszarze. Jedną z najważniejszych umiejętności zdobywanych w szkole jest umiejętność udzielania pierwszej pomocy. Już na wczesnym etapie edukacji należy wprowadzić zagadnienia związane z ochroną zdrowia i życia: ocenę bezpieczeństwa miejsca zdarzenia, rozpoznanie potencjalnego zagrożenia życia na podstawie prostych objawów, skuteczne wezwanie pomocy, podejmowanie wstępnych czynności ratujących życie. ” ,
 c)
 po części zatytułowanej „ Język mniejszości narodowej lub etnicznej ” dodaje się część zatytułowaną „ Język mniejszości narodowej – język niemiecki ” w brzmieniu: „ Język mniejszości narodowej – język niemiecki Zadaniem szkoły w zakresie nauczania języka niemieckiego jako języka mniejszości narodowej jest wspomaganie wszechstronnego i harmonijnego rozwoju ucznia przez wzmacnianie poczucia jego tożsamości narodowej, pogłębianie wiedzy z zakresu literatury i kultury niemieckiej. Nauczanie języka niemieckiego jako języka mniejszości narodowej powinno być wspierane przez uczenie zwyczajów, obyczajów oraz właściwych zachowań w środowisku rodzinnym, lokalnym i szkolnym. Rolą nauczyciela jest uświadamianie uczniom, że wspólnoty takie jak rodzina, środowisko lokalne i ojczyzna stanowią wielką wartość w życiu każdego człowieka i że każdy ma wobec tych wspólnot obowiązki. Ponadto nieodłącznym elementem pracy szkoły jest kształtowanie szacunku uczniów do swego języka ojczystego. ” ,
 d)
-w części zatytułowanej „I ETAP EDUKACYJNY: KLASY I-III – EDUKACJA WCZESNOSZKOLNA” w części zatytułowanej „ Treści nauczania – wymagania szczegółowe ” po dziale XI dodaje się dział XIa w brzmieniu:
-„
+w części zatytułowanej „I ETAP EDUKACYJNY: KLASY I-III – EDUKACJA WCZESNOSZKOLNA” w części zatytułowanej „ Treści nauczania – wymagania szczegółowe ” po dziale XI dodaje się dział XIa w brzmieniu: „
 XIa.
 Edukacja językowa. Język mniejszości narodowej – język niemiecki.
 1.
@@ -88,28 +84,411 @@ czyta i recytuje, z uwzględnieniem interpunkcji, intonacji, akcentów, poprawne
 2)
 wykorzystuje teksty literackie do tworzenia własnych wypowiedzi;
 3)
-czyta wskazane teksty literackie i wypowiada się na ich temat.
-” ,
+czyta wskazane teksty literackie i wypowiada się na ich temat. ” ,
 e)
 w części zatytułowanej „II ETAP EDUKACYJNY: KLASY IV-VIII”:
-– część zatytułowana „ EDUKACJA DLA BEZPIECZEŃSTWA ” otrzymuje brzmienie: „ EDUKACJA DLA BEZPIECZEŃSTWA Cele kształcenia – wymagania ogólne I. Rozumienie istoty bezpieczeństwa państwa. II. Przygotowanie uczniów do działań w sytuacjach nadzwyczajnych zagrożeń (katastrof i wypadków masowych). III. Kształtowanie umiejętności z zakresu podstaw pierwszej pomocy. IV. Kształtowanie postaw obronnych. Treści nauczania – wymagania szczegółowe I. Bezpieczeństwo państwa. Uczeń: 1) zna i charakteryzuje podstawowe pojęcia związane z bezpieczeństwem państwa, rozumie istotę problemu bezpieczeństwa; wymienia składniki bezpieczeństwa państwa; 2) jest zorientowany w geopolitycznych uwarunkowaniach bezpieczeństwa wynikających z położenia Polski; 3) zna i przedstawia rolę organizacji międzynarodowych w zapewnieniu bezpieczeństwa Polski; 4) zna misję Sił Zbrojnych Rzeczypospolitej Polskiej, ich rolę, podstawowe zadania w systemie obronności państwa oraz strukturę organizacyjną i uzbrojenie. II. Działania w sytuacjach nadzwyczajnych zagrożeń (katastrof i wypadków masowych). Uczeń: 1) wymienia przykłady nadzwyczajnych zagrożeń (pochodzenia naturalnego i wywołanych przez człowieka); 2) wymienia zasady ostrzegania ludności o zagrożeniach; rozróżnia poszczególne sygnały alarmowe i środki alarmowe; omawia zasady właściwego zachowania się w razie uruchomienia sygnałów alarmowych; 3) przedstawia obowiązki ludności w sytuacjach wymagających ewakuacji; 4) omawia rolę różnych służb i innych podmiotów, uzasadnia znaczenie bezwzględnego stosowania się do ich zaleceń; 5) wymienia przykłady zagrożeń środowiskowych, w tym zna zasady postępowania w razie pożaru, wypadku komunikacyjnego, zagrożenia powodzią, intensywnej śnieżycy, uwolnienia niebezpiecznych środków chemicznych, zdarzenia terrorystycznego. III. Podstawy pierwszej pomocy. Uczeń: 1) rozumie znaczenie podejmowania działań z zakresu udzielania pierwszej pomocy przez świadka zdarzenia oraz przedstawia jego rolę; 2) zna zasady bezpiecznego postępowania w miejscu zdarzenia, w tym: a) unikania narażania własnego zdrowia, b) oceniania własnych możliwości, c) rozpoznawania potencjalnych źródeł zagrożenia w kontakcie z poszkodowanym, d) wskazywania sposobu zabezpieczenia się przed zakażeniem w kontakcie z krwią i płynami ustrojowymi, stosowania uniwersalnych środków ochrony osobistej; 3) podaje przykłady zagrożeń w środowisku domowym, ulicznym, wodnym, w przestrzeniach podziemnych, w lasach; 4) przedstawia metody zapewnienia bezpieczeństwa własnego, osoby poszkodowanej i otoczenia w sytuacjach symulowanych podczas zajęć; 5) potrafi rozpoznać osobę w stanie zagrożenia życia: a) wyjaśnia pojęcie stanu zagrożenia życia, b) wskazuje przyczyny i okoliczności prowadzące do szybkiego pogorszenia stanu zdrowia lub zagrożenia życia, c) wyjaśnia rolę układu nerwowego, układu krążenia i układu oddechowego w utrzymywaniu podstawowych funkcji życiowych; 6) wie, jak prawidłowo wezwać pomoc: a) wymienia nazwy służb ratunkowych i podaje ich numery alarmowe, b) wskazuje, kiedy wezwać pomoc i w jaki sposób przekazać informacje o zdarzeniu; 7) podaje przykład aplikacji na telefon komórkowy wspierającej udzielanie pierwszej pomocy; 8) zna zasady postępowania z osobą nieprzytomną: a) wymienia objawy utraty przytomności, b) ocenia przytomność poszkodowanego, c) ocenia czynność oddychania u osoby nieprzytomnej (trzema zmysłami przez okres do 10 sekund), d) wyjaśnia mechanizm niedrożności dróg oddechowych u osoby nieprzytomnej, e) udrażnia drogi oddechowe rękoczynem czoło – żuchwa, f) układa osobę nieprzytomną w pozycji bocznej bezpiecznej, g) zapewnia osobie nieprzytomnej komfort termiczny; 9) systematycznie ponawia ocenę oddychania u osoby nieprzytomnej; 10) zna i wykonuje podstawowe czynności resuscytacji krążeniowo-oddechowej: a) wyjaśnia pojęcie nagłego zatrzymania krążenia i wymienia jego oznaki, b) wymienia warunki i czynniki zapewniające resuscytację wysokiej jakości, c) omawia uniwersalny algorytm w nagłym zatrzymaniu krążenia, d) wykonuje na manekinie uciski klatki piersiowej i sztuczne oddychanie samodzielnie i we współpracy z drugą osobą, e) opisuje zastosowanie automatycznego defibrylatora zewnętrznego (AED) oraz wskazuje na jego znaczenie dla zwiększenia skuteczności akcji resuscytacyjnej; 11) wykonuje podstawowe czynności pierwszej pomocy w zadławieniu: a) wyjaśnia pojęcie i mechanizm zadławienia, b) omawia schemat postępowania w przypadku zadławienia, c) wykonuje na manekinie rękoczyny ratunkowe w przypadku zadławienia, d) wymienia przykłady działań zapobiegających zadławieniu u małych dzieci; 12) zna wyposażenie apteczki pierwszej pomocy: wymienia przedmioty, które powinny znaleźć się w apteczce domowej, samochodowej, przygotowanej na wyprawę turystyczną; 13) zna zasady pierwszej pomocy w urazach kończyn: a) wyjaśnia pojęcia rany, krwotoku, b) wykonuje opatrunek osłaniający na ranę w obrębie kończyny, c) wyjaśnia, jak rozpoznać krwotok zewnętrzny, d) wykonuje opatrunek uciskowy, e) bezpiecznie zdejmuje rękawiczki ochronne, f) wyjaśnia pojęcia złamania, skręcenia, zwichnięcia, g) stosuje zasady unieruchamiania doraźnego kości i stawów, h) wymienia przykłady zapobiegania urazom w sporcie, w domu, w pracy; 14) rozumie, na czym polega udzielanie pierwszej pomocy w oparzeniach: a) wyjaśnia pojęcie oparzenia, b) omawia zasady postępowania w przypadku oparzenia termicznego, c) demonstruje metodę chłodzenia w przypadku oparzenia kończyny, d) wymienia przykłady zapobiegania oparzeniom, ze szczególnym uwzględnieniem małych dzieci i środowiska domowego; 15) zna zasady pierwszej pomocy w sytuacji wystąpienia zagrożenia z użyciem broni konwencjonalnej: a) potrafi rozróżnić rodzaje krwotoków, b) potrafi zatamować krwotok przy użyciu dłoni oraz opatrunku uciskowego, c) zna zasady zachowania się w sytuacji zagrożenia (zasada „uciekaj, schowaj się, walcz”). IV. Kształtowanie postaw obronnych. 1. Terenoznawstwo. Uczeń: 1) zna podstawy orientowania się w terenie, w tym potrafi wskazywać kierunki stron świata za pomocą np. kompasu, busoli, GPS oraz orientować się w terenie za pomocą charakterystycznych przedmiotów terenowych; 2) potrafi używać różnych rodzajów map do orientacji w terenie. 2. Cyberbezpieczeństwo w wymiarze wojskowym. Uczeń: 1) zna istotę cyberbezpieczeństwa; 2) potrafi odbierać ze zrozumieniem, tworzyć i przedstawiać umiarkowanie złożone wypowiedzi dotyczące roli i miejsca cyberbezpieczeństwa militarnego w systemie cyberbezpieczeństwa państwa. 3. Przygotowanie do szkolenia strzeleckiego. Uczeń: 1) zna zasady bezpiecznego i efektywnego posługiwania się bronią strzelecką; 2) zna podstawowe części składowe broni strzeleckiej; 3) potrafi przyjmować postawy strzeleckie; 4) potrafi prawidłowo zgrywać przyrządy celownicze, regulować oddech w czasie składania się do strzału oraz ściągać język spustowy. Warunki i sposób realizacji Niezwykle istotne jest, aby w trakcie nauczania przedmiotu koncentrować się na kluczowych problemach, szczególnie w aspekcie praktycznym, i poświęcać im najwięcej czasu. W ramach realizacji celu „Rozumienie istoty bezpieczeństwa państwa” ważne jest, aby korzystać z pomocy multimedialnych, które przybliżą uczniom istotę bezpieczeństwa i charakterystykę jego zagrożeń. Zajęcia w tym przypadku powinny też być wspomagane wizytami w instytucjach państwowych stojących na straży bezpieczeństwa. Istotne znaczenie w rozwoju młodzieży ma wychowanie mające na celu kształtowanie postawy patriotycznej oraz poczucia odpowiedzialności za dorobek minionych pokoleń. Zajęcia związane z celem „Przygotowanie uczniów do działań w sytuacjach nadzwyczajnych zagrożeń (katastrof i wypadków masowych)” powinny obejmować udział uczniów w symulacji ewakuacji szkoły. Uczniów należy wdrażać do dbałości o bezpieczeństwo własne oraz innych, wskazując, w jaki sposób uzyskać pomoc od osób godnych zaufania i służb ratunkowych. Na zajęciach związanych z celem „Kształtowanie umiejętności z zakresu podstaw pierwszej pomocy” należy zwrócić szczególną uwagę na wykształcenie umiejętności praktycznych, szczególnie rozpoznawania niebezpieczeństw i właściwego reagowania na nie. Istotne jest też kształtowanie poczucia odpowiedzialności za jakość udzielonej pierwszej pomocy. Uczeń, który zaczyna realizację zajęć z zakresu pierwszej pomocy, powinien być należycie przygotowany już w klasach młodszych do reagowania na nagły wypadek. Niezbędne są pomoce dydaktyczne do skutecznego nauczania podstaw pierwszej pomocy. Do sprzętu pożądanego zaliczyć należy fantom do nauki resuscytacji krążeniowo-oddechowej z obniżoną siłą ucisku klatki piersiowej, apteczkę, tablice i plansze dydaktyczne. Do materiałów szkoleniowych zaliczyć należy maseczki do wentylacji, płyny dezynfekcyjne, gazy opatrunkowe, bandaże, chusty trójkątne itp. Na zajęciach związanych z celem „Kształtowanie postaw obronnych” należy zwrócić szczególną uwagę na umiejętne określanie kierunków za pomocą dostępnych narzędzi takich jak kompas, busola czy GPS. Zajęcia te powinny odbywać się w terenie. Podczas używania plansz oraz różnego rodzaju replik broni lub broni ćwiczebnej uczeń powinien poznać postawy strzeleckie, a także sposób umiejętnego i bezpiecznego obchodzenia się z bronią. Należy uwrażliwić uczniów na cyberprzestępstwo, w tym cyberprzestępstwo militarne. Nauczyciel powinien też zachęcać uczniów do poszerzania wiedzy w zakresie cyberbezpieczeństwa. Zajęcia mogą być uzupełniane innymi formami, wśród których wymienić można: 1) wizyty w instytucjach ratowniczych, jednostkach wojskowych, jednostkach służb mundurowych lub organizacjach proobronnych, które zostały zdefiniowane w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974); 2) spotkania, prelekcje, wykłady z policjantami, strażnikami miejskimi, ratownikami medycznymi, kombatantami itp.; 3) udział w konkursach, których zakres jest zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa. ” ,
-– po części zatytułowanej „ JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ” dodaje się część zatytułowaną „ JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ” w brzmieniu: „ JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI Cele kształcenia – wymagania ogólne I. Świadomość własnego dziedzictwa narodowego. 1. Znajomość podstawowych utworów literackich i innych tekstów kultury ważnych dla poczucia tożsamości narodowej. 2. Znajomość podstawowych faktów z historii narodowej oraz z życia społeczności lokalnej. 3. Znajomość podstawowych elementów kultury narodowej (np. symboli, legend, baśni). II. Kształcenie językowe. 1. Rozumienie wartości języka ojczystego oraz jego funkcji w budowaniu wspólnoty narodowej. 2. Kształtowanie odpowiedzialności za własne użytkowanie języka. 3. Kształcenie umiejętności porozumiewania się (słuchania, mówienia, czytania i pisania) w sytuacjach prywatnych i publicznych. 4. Kształcenie umiejętności mówienia i pisania zgodnego z zasadami poprawności językowej. III. Kształcenie literackie i kulturowe. Rozwijanie umiejętności interpretacji utworów literackich i innych tekstów kultury. IV. Tworzenie wypowiedzi. 1. Rozwijanie umiejętności wypowiadania się w różnych formach. 2. Kształcenie umiejętności wygłaszania, recytacji i interpretacji głosowej tekstów. 3. Rozwijanie umiejętności tworzenia wypowiedzi pisemnych. 4. Wyrażanie własnych poglądów i opinii. 5. Tworzenie wypowiedzi pisemnych z uwzględnieniem estetyki tekstu i zasad jego organizacji. Treści nauczania – wymagania szczegółowe KLASY IV-VI I. Świadomość własnego dziedzictwa narodowego. Uczeń zna i rozumie utwory literackie i inne teksty kultury ważne dla poczucia tożsamości narodowej. II. Kształcenie językowe. 1. Gramatyka. Uczeń: 1) odmienia części mowy (rzeczownik, czasownik, przymiotnik); 2) rozpoznaje spójnik; 3) rozpoznaje w tekście zdania pojedyncze nierozwinięte i rozwinięte oraz zdania złożone. 2. Zróżnicowanie języka. Uczeń: 1) rozróżnia język mówiony i język pisany; 2) dostosowuje sposób wyrażania się do zamierzonego celu wypowiedzi; 3) rozróżnia synonimy, antonimy. 3. Komunikacja językowa i kultura języka. Uczeń: 1) identyfikuje nadawcę i odbiorcę wypowiedzi; 2) rozpoznaje znaczenie niewerbalnych środków komunikacji (takich jak gest, mimika, postawa ciała); 3) zna i stosuje zasady akcentowania wyrazów; 4) używa stylu stosownego do sytuacji komunikacyjnej; 5) stosuje zasady etykiety językowej. 4. Odbiór przekazu językowego. Uczeń: 1) nazywa swoje reakcje czytelnicze (np. dokonuje oceny bohaterów, opisuje swoje emocje); 2) określa temat i główną myśl tekstu; 3) rozpoznaje w wypowiedzi prawdę lub fałsz. 5. Ortografia i interpunkcja. Uczeń: 1) pisze poprawnie pod względem ortograficznym; 2) poprawnie używa znaków interpunkcyjnych: kropki, przecinka, znaku zapytania, znaku wykrzyknika, cudzysłowu, dwukropka, średnika. III. Kształcenie literackie i kulturowe. 1. Analiza i interpretacja utworów literackich. Uczeń: 1) określa problematykę utworu; 2) rozpoznaje rodzaje literackie; 3) przypisuje utwór literacki do właściwego rodzaju literackiego; 4) rozpoznaje w tekście literackim epitet, porównanie, metaforę i określa ich funkcje; 5) korzysta z informacji zawartych w encyklopediach i słownikach, również w sieci internetowej. 2. Odbiór tekstów kultury. Uczeń rozumie specyfikę różnych tekstów kultury (teatr, film, muzyka, sztuki plastyczne). IV. Tworzenie wypowiedzi. 1. Mówienie. Uczeń: 1) przedstawia propozycję interpretacji wybranego tekstu kultury; 2) tworzy plan wypowiedzi własnej; 3) streszcza linearnie wypowiedź narracyjną; 4) operuje słownictwem z kręgów tematycznych: życie codzienne, szkoła, dom; 5) poprawnie akcentuje wyrazy i stosuje poprawną intonację w zdaniu; 6) świadomie wykorzystuje wykrzyknik jako część mowy, w tym w celu wyrażenia emocji; 7) interpretuje na głos wybrane utwory literackie (w całości lub w części). 2. Pisanie. Uczeń: 1) tworzy wypowiedzi, stosując narrację pierwszo- i trzecioosobową; 2) tworzy spójną pod względem logicznym i składniowym wypowiedź na zadany temat; 3) tworzy wypowiedzi pisemne w następujących formach gatunkowych: opowiadanie, opis, charakterystyka postaci literackiej lub rzeczywistej; 4) opisuje własne odczucia, które budzi utwór. KLASY VII i VIII Uczeń spełnia wymagania określone dla klas IV-VI. Treści nauczania – wymagania szczegółowe I. Świadomość własnego dziedzictwa narodowego. Uczeń rozpoznaje tematy, motywy, toposy charakterystyczne dla literatury narodowej. II. Kształcenie językowe. 1. Gramatyka. Uczeń: 1) poprawnie odmienia części mowy (liczebnik, zaimek); 2) rozpoznaje przysłówek, przyimek i wskazuje różnice między nimi; 3) rozpoznaje funkcje składniowe wyrazów użytych w zdaniu; 4) rozpoznaje w tekście zdania złożone współrzędnie i podrzędnie, równoważniki zdań. 2. Zróżnicowanie języka. Uczeń: 1) rozumie znaczenie homonimów; 2) zna typy skrótów i skrótowców; 3) rozumie dosłowne i przenośne znaczenie wyrazów w wypowiedzi. 3. Komunikacja językowa i kultura języka. Uczeń: 1) posługuje się oficjalną i nieoficjalną odmianą języka narodowego; 2) czyta teksty ze zrozumieniem, rozpoznaje intencję nadawcy; 3) selektywnie korzysta (jako odbiorca i nadawca) z elektronicznych środków przekazywania informacji; 4) identyfikuje wypowiedź jako tekst reklamowy, informacyjny; 5) zna konsekwencje stosowania form charakterystycznych dla środków komunikacji elektronicznej (takich jak SMS, e-mail, czat); 6) stosuje zasady etyki i etykiety językowej, wie, w jaki sposób zwracać się do rozmówcy w zależności od sytuacji i relacji z rozmówcą (dorosłym, obcym, bliskim, rówieśnikiem, lekarzem, profesorem, nauczycielem). 4. Odbiór przekazu językowego. Uczeń: 1) nazywa swoje reakcje czytelnicze (np. wrażenia); 2) formułuje wnioski wynikające z przesłanek zawartych w tekście; 3) odróżnia opinię od faktu; 4) wyszukuje w tekście informacje wyrażone wprost i pośrednio. 5. Ortografia i interpunkcja. Uczeń: 1) pisze poprawnie pod względem ortograficznym i interpunkcyjnym; 2) wykorzystuje wiedzę o składni w stosowaniu reguł interpunkcyjnych. III. Kształcenie literackie i kulturowe. 1. Analiza i interpretacja utworów literackich. Uczeń: 1) rozpoznaje podstawowe gatunki literackie; 2) korzysta z informacji zawartych w encyklopediach, słownikach i źródłach elektronicznych. 2. Odbiór tekstów kultury. Uczeń interpretuje dzieła sztuki (takie jak obraz, grafika, rzeźba, fotografia). IV. Tworzenie wypowiedzi. 1. Mówienie. Uczeń: 1) przedstawia propozycję odczytania konkretnego tekstu kultury i przekonująco ją uzasadnia; 2) tworzy plan wypowiedzi własnej; 3) hierarchizuje informacje w zależności od ich funkcji w przekazie; 4) operuje słownictwem z kręgów tematycznych: społeczeństwo, kultura, rozwój psychiczny i moralny człowieka. 2. Pisanie. Uczeń: 1) stosuje poprawnie różne rodzaje wypowiedzeń we własnych tekstach, dostosowuje szyk wyrazów i wypowiedzeń składowych do wagi, jaką nadaje przekazywanym informacjom; 2) stosuje zasady organizacji tekstu zgodne z wymogami gatunków, tworzy spójną pod względem logicznym i składniowym wypowiedź na zadany temat; 3) tworzy wypowiedzi pisemne w następujących formach gatunkowych: opowiadanie, opis sytuacji i przeżyć, opis przedmiotów lub dzieł sztuki, charakterystyka postaci literackiej, filmowej lub rzeczywistej, sprawozdanie z lektury, filmu, spektaklu i ze zdarzenia z życia, rozprawka, podanie, CV, list motywacyjny, dedykacja; dostosowuje odmianę i styl wypowiedzi do gatunku, w którym się wypowiada. Warunki i sposób realizacji Klasy IV-VIII szkoły podstawowej to czas kształtowania poczucia własnej świadomości narodowej, poznawania kultury, rozwijania umiejętności komunikacyjnych, doskonalenia myślenia konkretnego i abstrakcyjnego. To również okres formowania się charakteru młodego człowieka, w tym dostrzegania i rozumienia wartości uniwersalnych, m.in. prawdy, dobra, piękna. Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej na II etapie edukacyjnym jest przede wszystkim: 1) rozwijanie poczucia tożsamości narodowej, szacunku do własnej kultury i tradycji; 2) rozwijanie motywacji do poznawania języka, kultury, tradycji; 3) kształtowanie postawy otwartości wobec innych kultur i szacunku dla ich dorobku; 4) rozwijanie umiejętności posługiwania się językiem niemieckim w różnych sytuacjach komunikacyjnych z zachowaniem norm kultury, etyki i etykiety językowej; 5) kształcenie umiejętności posługiwania się różnymi gatunkami wypowiedzi ustnych i pisemnych, które są niezbędne w edukacji szkolnej oraz w różnych sytuacjach życiowych; 6) rozwijanie umiejętności samodzielnego docierania do informacji, ich selekcjonowania, krytycznej oceny oraz wykorzystania we własnym rozwoju. Praca nauczyciela języka niemieckiego jako języka mniejszości narodowej w klasach IV-VIII polega na tworzeniu sytuacji sprzyjających rozwojowi zainteresowań uczniów. Nauczyciel w organizowaniu procesu dydaktycznego jest zobowiązany do stosowania rozwiązań metodycznych, które zapewnią integrację kształcenia literackiego, językowego i kulturowego uczniom będącym na różnych poziomach rozwoju intelektualnego. W swojej pracy powinien wykorzystywać metody aktywizujące, m.in. dyskusję, debatę, dramę, projekt edukacyjny, które wspomagają rozwój samodzielnego docierania do informacji i krytyczną ocenę własnej wiedzy i zdobywanych umiejętności. ” ;
+część zatytułowana „ EDUKACJA DLA BEZPIECZEŃSTWA ” otrzymuje brzmienie: „ EDUKACJA DLA BEZPIECZEŃSTWA Cele kształcenia – wymagania ogólne
+I.
+Rozumienie istoty bezpieczeństwa państwa.
+II.
+Przygotowanie uczniów do działań w sytuacjach nadzwyczajnych zagrożeń (katastrof i wypadków masowych).
+III.
+Kształtowanie umiejętności z zakresu podstaw pierwszej pomocy.
+IV.
+Kształtowanie postaw obronnych. Treści nauczania – wymagania szczegółowe
+I.
+Bezpieczeństwo państwa. Uczeń:
+1)
+zna i charakteryzuje podstawowe pojęcia związane z bezpieczeństwem państwa, rozumie istotę problemu bezpieczeństwa; wymienia składniki bezpieczeństwa państwa;
+2)
+jest zorientowany w geopolitycznych uwarunkowaniach bezpieczeństwa wynikających z położenia Polski;
+3)
+zna i przedstawia rolę organizacji międzynarodowych w zapewnieniu bezpieczeństwa Polski;
+4)
+zna misję Sił Zbrojnych Rzeczypospolitej Polskiej, ich rolę, podstawowe zadania w systemie obronności państwa oraz strukturę organizacyjną i uzbrojenie.
+II.
+Działania w sytuacjach nadzwyczajnych zagrożeń (katastrof i wypadków masowych). Uczeń:
+1)
+wymienia przykłady nadzwyczajnych zagrożeń (pochodzenia naturalnego i wywołanych przez człowieka);
+2)
+wymienia zasady ostrzegania ludności o zagrożeniach; rozróżnia poszczególne sygnały alarmowe i środki alarmowe; omawia zasady właściwego zachowania się w razie uruchomienia sygnałów alarmowych;
+3)
+przedstawia obowiązki ludności w sytuacjach wymagających ewakuacji;
+4)
+omawia rolę różnych służb i innych podmiotów, uzasadnia znaczenie bezwzględnego stosowania się do ich zaleceń;
+5)
+wymienia przykłady zagrożeń środowiskowych, w tym zna zasady postępowania w razie pożaru, wypadku komunikacyjnego, zagrożenia powodzią, intensywnej śnieżycy, uwolnienia niebezpiecznych środków chemicznych, zdarzenia terrorystycznego.
+III.
+Podstawy pierwszej pomocy. Uczeń:
+1)
+rozumie znaczenie podejmowania działań z zakresu udzielania pierwszej pomocy przez świadka zdarzenia oraz przedstawia jego rolę;
+2)
+zna zasady bezpiecznego postępowania w miejscu zdarzenia, w tym:
+a)
+unikania narażania własnego zdrowia,
+b)
+oceniania własnych możliwości,
+c)
+rozpoznawania potencjalnych źródeł zagrożenia w kontakcie z poszkodowanym,
+d)
+wskazywania sposobu zabezpieczenia się przed zakażeniem w kontakcie z krwią i płynami ustrojowymi, stosowania uniwersalnych środków ochrony osobistej;
+3)
+podaje przykłady zagrożeń w środowisku domowym, ulicznym, wodnym, w przestrzeniach podziemnych, w lasach;
+4)
+przedstawia metody zapewnienia bezpieczeństwa własnego, osoby poszkodowanej i otoczenia w sytuacjach symulowanych podczas zajęć;
+5)
+potrafi rozpoznać osobę w stanie zagrożenia życia:
+a)
+wyjaśnia pojęcie stanu zagrożenia życia,
+b)
+wskazuje przyczyny i okoliczności prowadzące do szybkiego pogorszenia stanu zdrowia lub zagrożenia życia,
+c)
+wyjaśnia rolę układu nerwowego, układu krążenia i układu oddechowego w utrzymywaniu podstawowych funkcji życiowych;
+6)
+wie, jak prawidłowo wezwać pomoc:
+a)
+wymienia nazwy służb ratunkowych i podaje ich numery alarmowe,
+b)
+wskazuje, kiedy wezwać pomoc i w jaki sposób przekazać informacje o zdarzeniu;
+7)
+podaje przykład aplikacji na telefon komórkowy wspierającej udzielanie pierwszej pomocy;
+8)
+zna zasady postępowania z osobą nieprzytomną:
+a)
+wymienia objawy utraty przytomności,
+b)
+ocenia przytomność poszkodowanego,
+c)
+ocenia czynność oddychania u osoby nieprzytomnej (trzema zmysłami przez okres do 10 sekund),
+d)
+wyjaśnia mechanizm niedrożności dróg oddechowych u osoby nieprzytomnej,
+e)
+udrażnia drogi oddechowe rękoczynem czoło – żuchwa,
+f)
+układa osobę nieprzytomną w pozycji bocznej bezpiecznej,
+g)
+zapewnia osobie nieprzytomnej komfort termiczny;
+9)
+systematycznie ponawia ocenę oddychania u osoby nieprzytomnej;
+10)
+zna i wykonuje podstawowe czynności resuscytacji krążeniowo-oddechowej:
+a)
+wyjaśnia pojęcie nagłego zatrzymania krążenia i wymienia jego oznaki,
+b)
+wymienia warunki i czynniki zapewniające resuscytację wysokiej jakości,
+c)
+omawia uniwersalny algorytm w nagłym zatrzymaniu krążenia,
+d)
+wykonuje na manekinie uciski klatki piersiowej i sztuczne oddychanie samodzielnie i we współpracy z drugą osobą,
+e)
+opisuje zastosowanie automatycznego defibrylatora zewnętrznego (AED) oraz wskazuje na jego znaczenie dla zwiększenia skuteczności akcji resuscytacyjnej;
+11)
+wykonuje podstawowe czynności pierwszej pomocy w zadławieniu:
+a)
+wyjaśnia pojęcie i mechanizm zadławienia,
+b)
+omawia schemat postępowania w przypadku zadławienia,
+c)
+wykonuje na manekinie rękoczyny ratunkowe w przypadku zadławienia,
+d)
+wymienia przykłady działań zapobiegających zadławieniu u małych dzieci;
+12)
+zna wyposażenie apteczki pierwszej pomocy: wymienia przedmioty, które powinny znaleźć się w apteczce domowej, samochodowej, przygotowanej na wyprawę turystyczną;
+13)
+zna zasady pierwszej pomocy w urazach kończyn:
+a)
+wyjaśnia pojęcia rany, krwotoku,
+b)
+wykonuje opatrunek osłaniający na ranę w obrębie kończyny,
+c)
+wyjaśnia, jak rozpoznać krwotok zewnętrzny,
+d)
+wykonuje opatrunek uciskowy,
+e)
+bezpiecznie zdejmuje rękawiczki ochronne,
+f)
+wyjaśnia pojęcia złamania, skręcenia, zwichnięcia,
+g)
+stosuje zasady unieruchamiania doraźnego kości i stawów,
+h)
+wymienia przykłady zapobiegania urazom w sporcie, w domu, w pracy;
+14)
+rozumie, na czym polega udzielanie pierwszej pomocy w oparzeniach:
+a)
+wyjaśnia pojęcie oparzenia,
+b)
+omawia zasady postępowania w przypadku oparzenia termicznego,
+c)
+demonstruje metodę chłodzenia w przypadku oparzenia kończyny,
+d)
+wymienia przykłady zapobiegania oparzeniom, ze szczególnym uwzględnieniem małych dzieci i środowiska domowego;
+15)
+zna zasady pierwszej pomocy w sytuacji wystąpienia zagrożenia z użyciem broni konwencjonalnej:
+a)
+potrafi rozróżnić rodzaje krwotoków,
+b)
+potrafi zatamować krwotok przy użyciu dłoni oraz opatrunku uciskowego,
+c)
+zna zasady zachowania się w sytuacji zagrożenia (zasada „uciekaj, schowaj się, walcz”).
+IV.
+Kształtowanie postaw obronnych.
+1.
+Terenoznawstwo. Uczeń:
+1)
+zna podstawy orientowania się w terenie, w tym potrafi wskazywać kierunki stron świata za pomocą np. kompasu, busoli, GPS oraz orientować się w terenie za pomocą charakterystycznych przedmiotów terenowych;
+2)
+potrafi używać różnych rodzajów map do orientacji w terenie.
+2.
+Cyberbezpieczeństwo w wymiarze wojskowym. Uczeń:
+1)
+zna istotę cyberbezpieczeństwa;
+2)
+potrafi odbierać ze zrozumieniem, tworzyć i przedstawiać umiarkowanie złożone wypowiedzi dotyczące roli i miejsca cyberbezpieczeństwa militarnego w systemie cyberbezpieczeństwa państwa.
+3.
+Przygotowanie do szkolenia strzeleckiego. Uczeń:
+1)
+zna zasady bezpiecznego i efektywnego posługiwania się bronią strzelecką;
+2)
+zna podstawowe części składowe broni strzeleckiej;
+3)
+potrafi przyjmować postawy strzeleckie;
+4)
+potrafi prawidłowo zgrywać przyrządy celownicze, regulować oddech w czasie składania się do strzału oraz ściągać język spustowy. Warunki i sposób realizacji Niezwykle istotne jest, aby w trakcie nauczania przedmiotu koncentrować się na kluczowych problemach, szczególnie w aspekcie praktycznym, i poświęcać im najwięcej czasu. W ramach realizacji celu „Rozumienie istoty bezpieczeństwa państwa” ważne jest, aby korzystać z pomocy multimedialnych, które przybliżą uczniom istotę bezpieczeństwa i charakterystykę jego zagrożeń. Zajęcia w tym przypadku powinny też być wspomagane wizytami w instytucjach państwowych stojących na straży bezpieczeństwa. Istotne znaczenie w rozwoju młodzieży ma wychowanie mające na celu kształtowanie postawy patriotycznej oraz poczucia odpowiedzialności za dorobek minionych pokoleń. Zajęcia związane z celem „Przygotowanie uczniów do działań w sytuacjach nadzwyczajnych zagrożeń (katastrof i wypadków masowych)” powinny obejmować udział uczniów w symulacji ewakuacji szkoły. Uczniów należy wdrażać do dbałości o bezpieczeństwo własne oraz innych, wskazując, w jaki sposób uzyskać pomoc od osób godnych zaufania i służb ratunkowych. Na zajęciach związanych z celem „Kształtowanie umiejętności z zakresu podstaw pierwszej pomocy” należy zwrócić szczególną uwagę na wykształcenie umiejętności praktycznych, szczególnie rozpoznawania niebezpieczeństw i właściwego reagowania na nie. Istotne jest też kształtowanie poczucia odpowiedzialności za jakość udzielonej pierwszej pomocy. Uczeń, który zaczyna realizację zajęć z zakresu pierwszej pomocy, powinien być należycie przygotowany już w klasach młodszych do reagowania na nagły wypadek. Niezbędne są pomoce dydaktyczne do skutecznego nauczania podstaw pierwszej pomocy. Do sprzętu pożądanego zaliczyć należy fantom do nauki resuscytacji krążeniowo-oddechowej z obniżoną siłą ucisku klatki piersiowej, apteczkę, tablice i plansze dydaktyczne. Do materiałów szkoleniowych zaliczyć należy maseczki do wentylacji, płyny dezynfekcyjne, gazy opatrunkowe, bandaże, chusty trójkątne itp. Na zajęciach związanych z celem „Kształtowanie postaw obronnych” należy zwrócić szczególną uwagę na umiejętne określanie kierunków za pomocą dostępnych narzędzi takich jak kompas, busola czy GPS. Zajęcia te powinny odbywać się w terenie. Podczas używania plansz oraz różnego rodzaju replik broni lub broni ćwiczebnej uczeń powinien poznać postawy strzeleckie, a także sposób umiejętnego i bezpiecznego obchodzenia się z bronią. Należy uwrażliwić uczniów na cyberprzestępstwo, w tym cyberprzestępstwo militarne. Nauczyciel powinien też zachęcać uczniów do poszerzania wiedzy w zakresie cyberbezpieczeństwa. Zajęcia mogą być uzupełniane innymi formami, wśród których wymienić można:
+1)
+wizyty w instytucjach ratowniczych, jednostkach wojskowych, jednostkach służb mundurowych lub organizacjach proobronnych, które zostały zdefiniowane w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974);
+2)
+spotkania, prelekcje, wykłady z policjantami, strażnikami miejskimi, ratownikami medycznymi, kombatantami itp.;
+3)
+udział w konkursach, których zakres jest zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa. ” ,
+po części zatytułowanej „ JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ” dodaje się część zatytułowaną „ JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ” w brzmieniu: „ JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI Cele kształcenia – wymagania ogólne
+I.
+Świadomość własnego dziedzictwa narodowego.
+1.
+Znajomość podstawowych utworów literackich i innych tekstów kultury ważnych dla poczucia tożsamości narodowej.
+2.
+Znajomość podstawowych faktów z historii narodowej oraz z życia społeczności lokalnej.
+3.
+Znajomość podstawowych elementów kultury narodowej (np. symboli, legend, baśni).
+II.
+Kształcenie językowe.
+1.
+Rozumienie wartości języka ojczystego oraz jego funkcji w budowaniu wspólnoty narodowej.
+2.
+Kształtowanie odpowiedzialności za własne użytkowanie języka.
+3.
+Kształcenie umiejętności porozumiewania się (słuchania, mówienia, czytania i pisania) w sytuacjach prywatnych i publicznych.
+4.
+Kształcenie umiejętności mówienia i pisania zgodnego z zasadami poprawności językowej.
+III.
+Kształcenie literackie i kulturowe. Rozwijanie umiejętności interpretacji utworów literackich i innych tekstów kultury.
+IV.
+Tworzenie wypowiedzi.
+1.
+Rozwijanie umiejętności wypowiadania się w różnych formach.
+2.
+Kształcenie umiejętności wygłaszania, recytacji i interpretacji głosowej tekstów.
+3.
+Rozwijanie umiejętności tworzenia wypowiedzi pisemnych.
+4.
+Wyrażanie własnych poglądów i opinii.
+5.
+Tworzenie wypowiedzi pisemnych z uwzględnieniem estetyki tekstu i zasad jego organizacji. Treści nauczania – wymagania szczegółowe KLASY IV-VI
+I.
+Świadomość własnego dziedzictwa narodowego. Uczeń zna i rozumie utwory literackie i inne teksty kultury ważne dla poczucia tożsamości narodowej.
+II.
+Kształcenie językowe.
+1.
+Gramatyka. Uczeń:
+1)
+odmienia części mowy (rzeczownik, czasownik, przymiotnik);
+2)
+rozpoznaje spójnik;
+3)
+rozpoznaje w tekście zdania pojedyncze nierozwinięte i rozwinięte oraz zdania złożone.
+2.
+Zróżnicowanie języka. Uczeń:
+1)
+rozróżnia język mówiony i język pisany;
+2)
+dostosowuje sposób wyrażania się do zamierzonego celu wypowiedzi;
+3)
+rozróżnia synonimy, antonimy.
+3.
+Komunikacja językowa i kultura języka. Uczeń:
+1)
+identyfikuje nadawcę i odbiorcę wypowiedzi;
+2)
+rozpoznaje znaczenie niewerbalnych środków komunikacji (takich jak gest, mimika, postawa ciała);
+3)
+zna i stosuje zasady akcentowania wyrazów;
+4)
+używa stylu stosownego do sytuacji komunikacyjnej;
+5)
+stosuje zasady etykiety językowej.
+4.
+Odbiór przekazu językowego. Uczeń:
+1)
+nazywa swoje reakcje czytelnicze (np. dokonuje oceny bohaterów, opisuje swoje emocje);
+2)
+określa temat i główną myśl tekstu;
+3)
+rozpoznaje w wypowiedzi prawdę lub fałsz.
+5.
+Ortografia i interpunkcja. Uczeń:
+1)
+pisze poprawnie pod względem ortograficznym;
+2)
+poprawnie używa znaków interpunkcyjnych: kropki, przecinka, znaku zapytania, znaku wykrzyknika, cudzysłowu, dwukropka, średnika.
+III.
+Kształcenie literackie i kulturowe.
+1.
+Analiza i interpretacja utworów literackich. Uczeń:
+1)
+określa problematykę utworu;
+2)
+rozpoznaje rodzaje literackie;
+3)
+przypisuje utwór literacki do właściwego rodzaju literackiego;
+4)
+rozpoznaje w tekście literackim epitet, porównanie, metaforę i określa ich funkcje;
+5)
+korzysta z informacji zawartych w encyklopediach i słownikach, również w sieci internetowej.
+2.
+Odbiór tekstów kultury. Uczeń rozumie specyfikę różnych tekstów kultury (teatr, film, muzyka, sztuki plastyczne).
+IV.
+Tworzenie wypowiedzi.
+1.
+Mówienie. Uczeń:
+1)
+przedstawia propozycję interpretacji wybranego tekstu kultury;
+2)
+tworzy plan wypowiedzi własnej;
+3)
+streszcza linearnie wypowiedź narracyjną;
+4)
+operuje słownictwem z kręgów tematycznych: życie codzienne, szkoła, dom;
+5)
+poprawnie akcentuje wyrazy i stosuje poprawną intonację w zdaniu;
+6)
+świadomie wykorzystuje wykrzyknik jako część mowy, w tym w celu wyrażenia emocji;
+7)
+interpretuje na głos wybrane utwory literackie (w całości lub w części).
+2.
+Pisanie. Uczeń:
+1)
+tworzy wypowiedzi, stosując narrację pierwszo- i trzecioosobową;
+2)
+tworzy spójną pod względem logicznym i składniowym wypowiedź na zadany temat;
+3)
+tworzy wypowiedzi pisemne w następujących formach gatunkowych: opowiadanie, opis, charakterystyka postaci literackiej lub rzeczywistej;
+4)
+opisuje własne odczucia, które budzi utwór. KLASY VII i VIII Uczeń spełnia wymagania określone dla klas IV-VI. Treści nauczania – wymagania szczegółowe
+I.
+Świadomość własnego dziedzictwa narodowego. Uczeń rozpoznaje tematy, motywy, toposy charakterystyczne dla literatury narodowej.
+II.
+Kształcenie językowe.
+1.
+Gramatyka. Uczeń:
+1)
+poprawnie odmienia części mowy (liczebnik, zaimek);
+2)
+rozpoznaje przysłówek, przyimek i wskazuje różnice między nimi;
+3)
+rozpoznaje funkcje składniowe wyrazów użytych w zdaniu;
+4)
+rozpoznaje w tekście zdania złożone współrzędnie i podrzędnie, równoważniki zdań.
+2.
+Zróżnicowanie języka. Uczeń:
+1)
+rozumie znaczenie homonimów;
+2)
+zna typy skrótów i skrótowców;
+3)
+rozumie dosłowne i przenośne znaczenie wyrazów w wypowiedzi.
+3.
+Komunikacja językowa i kultura języka. Uczeń:
+1)
+posługuje się oficjalną i nieoficjalną odmianą języka narodowego;
+2)
+czyta teksty ze zrozumieniem, rozpoznaje intencję nadawcy;
+3)
+selektywnie korzysta (jako odbiorca i nadawca) z elektronicznych środków przekazywania informacji;
+4)
+identyfikuje wypowiedź jako tekst reklamowy, informacyjny;
+5)
+zna konsekwencje stosowania form charakterystycznych dla środków komunikacji elektronicznej (takich jak SMS, e-mail, czat);
+6)
+stosuje zasady etyki i etykiety językowej, wie, w jaki sposób zwracać się do rozmówcy w zależności od sytuacji i relacji z rozmówcą (dorosłym, obcym, bliskim, rówieśnikiem, lekarzem, profesorem, nauczycielem).
+4.
+Odbiór przekazu językowego. Uczeń:
+1)
+nazywa swoje reakcje czytelnicze (np. wrażenia);
+2)
+formułuje wnioski wynikające z przesłanek zawartych w tekście;
+3)
+odróżnia opinię od faktu;
+4)
+wyszukuje w tekście informacje wyrażone wprost i pośrednio.
+5.
+Ortografia i interpunkcja. Uczeń:
+1)
+pisze poprawnie pod względem ortograficznym i interpunkcyjnym;
+2)
+wykorzystuje wiedzę o składni w stosowaniu reguł interpunkcyjnych.
+III.
+Kształcenie literackie i kulturowe.
+1.
+Analiza i interpretacja utworów literackich. Uczeń:
+1)
+rozpoznaje podstawowe gatunki literackie;
+2)
+korzysta z informacji zawartych w encyklopediach, słownikach i źródłach elektronicznych.
+2.
+Odbiór tekstów kultury. Uczeń interpretuje dzieła sztuki (takie jak obraz, grafika, rzeźba, fotografia).
+IV.
+Tworzenie wypowiedzi.
+1.
+Mówienie. Uczeń:
+1)
+przedstawia propozycję odczytania konkretnego tekstu kultury i przekonująco ją uzasadnia;
+2)
+tworzy plan wypowiedzi własnej;
+3)
+hierarchizuje informacje w zależności od ich funkcji w przekazie;
+4)
+operuje słownictwem z kręgów tematycznych: społeczeństwo, kultura, rozwój psychiczny i moralny człowieka.
+2.
+Pisanie. Uczeń:
+1)
+stosuje poprawnie różne rodzaje wypowiedzeń we własnych tekstach, dostosowuje szyk wyrazów i wypowiedzeń składowych do wagi, jaką nadaje przekazywanym informacjom;
+2)
+stosuje zasady organizacji tekstu zgodne z wymogami gatunków, tworzy spójną pod względem logicznym i składniowym wypowiedź na zadany temat;
+3)
+tworzy wypowiedzi pisemne w następujących formach gatunkowych: opowiadanie, opis sytuacji i przeżyć, opis przedmiotów lub dzieł sztuki, charakterystyka postaci literackiej, filmowej lub rzeczywistej, sprawozdanie z lektury, filmu, spektaklu i ze zdarzenia z życia, rozprawka, podanie, CV, list motywacyjny, dedykacja; dostosowuje odmianę i styl wypowiedzi do gatunku, w którym się wypowiada. Warunki i sposób realizacji Klasy IV-VIII szkoły podstawowej to czas kształtowania poczucia własnej świadomości narodowej, poznawania kultury, rozwijania umiejętności komunikacyjnych, doskonalenia myślenia konkretnego i abstrakcyjnego. To również okres formowania się charakteru młodego człowieka, w tym dostrzegania i rozumienia wartości uniwersalnych, m.in. prawdy, dobra, piękna. Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej na II etapie edukacyjnym jest przede wszystkim:
+1)
+rozwijanie poczucia tożsamości narodowej, szacunku do własnej kultury i tradycji;
+2)
+rozwijanie motywacji do poznawania języka, kultury, tradycji;
+3)
+kształtowanie postawy otwartości wobec innych kultur i szacunku dla ich dorobku;
+4)
+rozwijanie umiejętności posługiwania się językiem niemieckim w różnych sytuacjach komunikacyjnych z zachowaniem norm kultury, etyki i etykiety językowej;
+5)
+kształcenie umiejętności posługiwania się różnymi gatunkami wypowiedzi ustnych i pisemnych, które są niezbędne w edukacji szkolnej oraz w różnych sytuacjach życiowych;
+6)
+rozwijanie umiejętności samodzielnego docierania do informacji, ich selekcjonowania, krytycznej oceny oraz wykorzystania we własnym rozwoju. Praca nauczyciela języka niemieckiego jako języka mniejszości narodowej w klasach IV-VIII polega na tworzeniu sytuacji sprzyjających rozwojowi zainteresowań uczniów. Nauczyciel w organizowaniu procesu dydaktycznego jest zobowiązany do stosowania rozwiązań metodycznych, które zapewnią integrację kształcenia literackiego, językowego i kulturowego uczniom będącym na różnych poziomach rozwoju intelektualnego. W swojej pracy powinien wykorzystywać metody aktywizujące, m.in. dyskusję, debatę, dramę, projekt edukacyjny, które wspomagają rozwój samodzielnego docierania do informacji i krytyczną ocenę własnej wiedzy i zdobywanych umiejętności. ” ;
 2)
 w załączniku nr 4a:
 a)
-w części zatytułowanej „Przedmioty nauczania z zakresu kształcenia ogólnego w branżowej szkole I stopnia:” po pkt 16 dodaje się pkt 16a w brzmieniu:
-„
+w części zatytułowanej „Przedmioty nauczania z zakresu kształcenia ogólnego w branżowej szkole I stopnia:” po pkt 16 dodaje się pkt 16a w brzmieniu: „
 16a)
-język mniejszości narodowej – język niemiecki3);
-” ,
+język mniejszości narodowej – język niemiecki3); ” ,
 b)
 część zatytułowana „Edukacja dla bezpieczeństwa” otrzymuje brzmienie: „ Edukacja dla bezpieczeństwa Przedmiot przygotowuje uczniów teoretycznie i praktycznie do właściwego zachowania się oraz odpowiednich reakcji w sytuacjach trudnych i kryzysowych, stwarzających zagrożenie dla zdrowia i życia. Przedmiot obejmuje treści kształcenia z zakresu bezpieczeństwa państwa oraz treści dotyczące organizacji działań ratowniczych, pierwszej pomocy i edukacji obronnej. Niezwykle ważne jest, aby kłaść szczególny nacisk na kształcenie umiejętności praktycznych, powtarzanych możliwie często, szczególnie przy nauce pierwszej pomocy, terenoznawstwa oraz strzelectwa. Wyrabianie w ten sposób u uczniów odpowiednich nawyków ma istotne znaczenie w wykorzystywaniu przez nich zdobytych umiejętności w warunkach realnego zagrożenia, kiedy to naturalnie występujący wysoki poziom stresu wpływa na proces decyzyjny. Bezpieczeństwo państwa jest pojmowane jako obszar wiedzy, który objaśnia działanie mechanizmów rządzących zapewnieniem ładu, porządku i stabilności społeczności ludzkich, towarzyszących temu koncepcji, metod i form postępowania. Trzeba ten obszar rozpatrywać w kontekście sztuki umiejętności skutecznego działania i radzenia sobie poszczególnych jednostek w sytuacjach określonych zagrożeń. Rozumienie problematyki bezpieczeństwa państwa ma przy tym wieloaspektową wykładnię: pozwala zrozumieć przeszłość, tworzy obraz teraźniejszości i stanowi przesłanki do myślenia o przyszłości. Ujęta w treściach kształcenia problematyka koncentruje się na zarządzaniu, polityce i strategii bezpieczeństwa, z uwzględnieniem także kontekstu międzynarodowego. Umiejętność udzielania pierwszej pomocy, z uwagi na największe prawdopodobieństwo wykorzystania jej w praktyce w życiu codziennym, należy do najważniejszych tematów w przedmiocie edukacja dla bezpieczeństwa. Za szczególnie ważne w tym zakresie należy uznać właściwe postępowanie z osobami, u których wystąpiło nagłe zatrzymanie krążenia. Podjęcie akcji ratunkowej przez świadka zdarzenia, prowadzenie jej do czasu przyjazdu karetki pogotowia może uratować życie, natomiast zaniechanie działania w nieuchronny sposób zwiększa ryzyko śmierci chorego. Uczniów należy wdrażać do dbałości o bezpieczeństwo własne oraz innych, wskazując, w jaki sposób mogą uzyskać pomoc osób godnych zaufania i służb ratunkowych. ” ,
 c)
 po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej – język niemiecki” w brzmieniu: „ Język mniejszości narodowej – język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej, tym samym służy kształtowaniu postaw świadomego i aktywnego uczestnictwa w życiu mieszkańców danego regionu. Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest motywowanie ucznia do poznawania języka ojczystego oraz kultury narodowej, w tym literatury. Jednym z najważniejszych zadań nauczyciela jest również rozwijanie w uczniach postaw ciekawości, otwartości na otaczający świat oraz poszanowania kultury własnego narodu oraz kultury polskiej i europejskiej. Podstawa programowa dzieli wymagania na ogólne i szczegółowe. Do wymagań ogólnych należą: świadomość własnego dziedzictwa narodowego, kształcenie językowe, kształcenie literackie i kulturowe, tworzenie wypowiedzi. Jest to kompleksowe ujęcie nadrzędnych celów kształcenia, które informują, jak rozumieć podporządkowane im wymagania szczegółowe, które odwołują się do konkretnych umiejętności oraz ściśle określonych wiadomości. Spełnianie wymagań szczegółowych służy osiąganiu wymagań ogólnych. ” ,
 d)
-część zatytułowana „ EDUKACJA DLA BEZPIECZEŃSTWA ” otrzymuje brzmienie:
-„
-EDUKACJA DLA BEZPIECZEŃSTWA Cele kształcenia – wymagania ogólne
+część zatytułowana „ EDUKACJA DLA BEZPIECZEŃSTWA ” otrzymuje brzmienie: „ EDUKACJA DLA BEZPIECZEŃSTWA Cele kształcenia – wymagania ogólne
 I.
 Bezpieczeństwo państwa.
 II.
@@ -391,8 +770,7 @@ Szkolenie strzeleckie. Uczeń:
 1)
 zna zasady składania i rozkładania broni;
 2)
-potrafi wykonać strzelanie z wykorzystaniem broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych.
-Warunki i sposób realizacji W ramach przedmiotu edukacja dla bezpieczeństwa uczniowie zdobywają wiedzę oraz umiejętności umożliwiające zrozumienie zróżnicowanej natury mechanizmów oraz zmiennych wpływających na szeroko pojmowane bezpieczeństwo państwa, ich dynamikę oraz wzajemne zależności wynikające m.in. ze struktury i funkcjonowania państwa oraz jego zagrożeń. Zadaniem nauczyciela jest też wyrabianie u uczniów nawyków i wpojenie im zasad działania ratowniczego w przypadku zagrożeń nadzwyczajnych (wypadków masowych, katastrof) oraz podstawowych zasad pierwszej pomocy. Tempo zachodzących przeobrażeń powinno stanowić dla nauczyciela bodziec do stałego uzupełniania wiedzy, monitorowania zmian, w tym organizacyjno-prawnych, samodoskonalenia, tak aby przekazywane uczniom informacje były aktualne i rzetelne (ważna jest tu kontrola materiałów źródłowych innych niż podręcznik oraz materiały opracowane dla nauczyciela, a także dbałość o wiarygodność informacji). Wskazane jest zaplecze umożliwiające przechowywanie pomocy dydaktycznych, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Niezbędny jest sprzęt audiowizualny i prezentacyjny (komputer, rzutnik zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której są realizowane zajęcia, powinny być zagwarantowane wymienione elementy bazowe. Osiągnięcie przez uczniów umiejętności praktycznego udzielania pierwszej pomocy wymaga realizacji zajęć w blokach po dwie godziny lekcyjne. W celu zapewnienia efektywnej nauki przedmiotu klasę należy podzielić na grupy o liczebności nie większej niż 15 uczniów, w szczególności podczas ćwiczeń z resuscytacji krążeniowo-oddechowej, postępowania z osobą nieprzytomną oraz opatrywania ran, złamań i krwotoków. Ćwiczenia na manekinach szkoleniowych wymagają zapewnienia uniwersalnych warunków i środków higieny i dezynfekcji (mycie rąk, wymiana worków oddechowych w manekinach, używanie środka odkażającego i maseczek). Ze względów bezpieczeństwa uczniowie nie mogą wykonywać ćwiczeń, które mogłyby spowodować przeciążenie kręgosłupa. Dlatego niedozwolone jest podczas zajęć ćwiczenie dźwigania poszkodowanych w ramach doraźnej ewakuacji z miejsca zdarzenia. Osiągnięcie przez uczniów umiejętności składania i rozkładania broni, jak również prowadzenie zajęć ze strzelectwa powinno być realizowane przy użyciu różnego rodzaju broni. Wymaga to współpracy z jednostkami wojskowymi lub organizacjami proobronnymi. Zajęcia mogą być realizowane przy użyciu środków własnych szkoły, jak również przez wykorzystanie strzelnic, strzelnic wirtualnych i laserowych znajdujących się w posiadaniu jednostek samorządu terytorialnego oraz innych podmiotów. Należy uwrażliwić uczniów na cyberprzestępstwo, w tym militarne, przez odwołanie do wybranych aktów prawnych. Nauczyciel powinien też zachęcać uczniów do poszerzania wiedzy w zakresie cyberbezpieczeństwa. Lekcje w szkole powinny być uzupełniane innymi formami zajęć, wśród których wymienić można:
+potrafi wykonać strzelanie z wykorzystaniem broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych. Warunki i sposób realizacji W ramach przedmiotu edukacja dla bezpieczeństwa uczniowie zdobywają wiedzę oraz umiejętności umożliwiające zrozumienie zróżnicowanej natury mechanizmów oraz zmiennych wpływających na szeroko pojmowane bezpieczeństwo państwa, ich dynamikę oraz wzajemne zależności wynikające m.in. ze struktury i funkcjonowania państwa oraz jego zagrożeń. Zadaniem nauczyciela jest też wyrabianie u uczniów nawyków i wpojenie im zasad działania ratowniczego w przypadku zagrożeń nadzwyczajnych (wypadków masowych, katastrof) oraz podstawowych zasad pierwszej pomocy. Tempo zachodzących przeobrażeń powinno stanowić dla nauczyciela bodziec do stałego uzupełniania wiedzy, monitorowania zmian, w tym organizacyjno-prawnych, samodoskonalenia, tak aby przekazywane uczniom informacje były aktualne i rzetelne (ważna jest tu kontrola materiałów źródłowych innych niż podręcznik oraz materiały opracowane dla nauczyciela, a także dbałość o wiarygodność informacji). Wskazane jest zaplecze umożliwiające przechowywanie pomocy dydaktycznych, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Niezbędny jest sprzęt audiowizualny i prezentacyjny (komputer, rzutnik zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której są realizowane zajęcia, powinny być zagwarantowane wymienione elementy bazowe. Osiągnięcie przez uczniów umiejętności praktycznego udzielania pierwszej pomocy wymaga realizacji zajęć w blokach po dwie godziny lekcyjne. W celu zapewnienia efektywnej nauki przedmiotu klasę należy podzielić na grupy o liczebności nie większej niż 15 uczniów, w szczególności podczas ćwiczeń z resuscytacji krążeniowo-oddechowej, postępowania z osobą nieprzytomną oraz opatrywania ran, złamań i krwotoków. Ćwiczenia na manekinach szkoleniowych wymagają zapewnienia uniwersalnych warunków i środków higieny i dezynfekcji (mycie rąk, wymiana worków oddechowych w manekinach, używanie środka odkażającego i maseczek). Ze względów bezpieczeństwa uczniowie nie mogą wykonywać ćwiczeń, które mogłyby spowodować przeciążenie kręgosłupa. Dlatego niedozwolone jest podczas zajęć ćwiczenie dźwigania poszkodowanych w ramach doraźnej ewakuacji z miejsca zdarzenia. Osiągnięcie przez uczniów umiejętności składania i rozkładania broni, jak również prowadzenie zajęć ze strzelectwa powinno być realizowane przy użyciu różnego rodzaju broni. Wymaga to współpracy z jednostkami wojskowymi lub organizacjami proobronnymi. Zajęcia mogą być realizowane przy użyciu środków własnych szkoły, jak również przez wykorzystanie strzelnic, strzelnic wirtualnych i laserowych znajdujących się w posiadaniu jednostek samorządu terytorialnego oraz innych podmiotów. Należy uwrażliwić uczniów na cyberprzestępstwo, w tym militarne, przez odwołanie do wybranych aktów prawnych. Nauczyciel powinien też zachęcać uczniów do poszerzania wiedzy w zakresie cyberbezpieczeństwa. Lekcje w szkole powinny być uzupełniane innymi formami zajęć, wśród których wymienić można:
 1)
 wizyty w instytucjach państwa, centrum zarządzania kryzysowego, straży pożarnej, Policji, stacjach pogotowia ratunkowego, jednostkach wojskowych czy organizacjach proobronnych;
 2)
@@ -408,13 +786,9 @@ zwiedzanie wystaw powiązanych z treściami przedmiotu;
 7)
 spotkania (np. udział w zajęciach), prelekcje, wykłady z pracownikami kluczowych instytucji bezpieczeństwa – Policji, Państwowej Straży Pożarnej i Sił Zbrojnych Rzeczypospolitej Polskiej oraz pracownikami straży miejskiej, pogotowia, kombatantami;
 8)
-udział w konkursach, których zakres jest zgodny bądź zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa.
-Wskazane jest nawiązywanie współpracy między szkołami a lokalnymi jednostkami Policji, Państwową Strażą Pożarną, ośrodkami szkolenia, jednostkami wojskowymi i organizacjami proobronnymi, zarówno we wspomnianym zakresie prowadzenia zajęć, jak i udostępnianiu specjalistycznego sprzętu czy pomocy dydaktycznych. Ważne znaczenie w rozwoju ma też wychowanie mające na celu kształtowanie postawy patriotycznej oraz poczucia odpowiedzialności za dorobek minionych pokoleń. Trwający proces globalizacyjny we wszystkich obszarach życia generuje nowe problemy, zagrożenia, nakłania do stawiania pytań. Nauczyciel powinien stwarzać warunki sprzyjające swobodnej wymianie myśli i poglądów, dbając przy tym o zachowanie niezbędnej dyscypliny i porządek zajęć. Warunki bazowe do realizacji programu: pracownia lub klasa do prowadzenia zajęć z przedmiotu edukacja dla bezpieczeństwa o wielkości umożliwiającej aranżację do ćwiczeń praktycznych. Wskazane jest zaplecze lub zabezpieczone miejsce umożliwiające przechowywanie pomocy dydaktycznych, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Szkoła powinna posiadać sprzęt audiowizualny i prezentacyjny (komputer, rzutnik zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której realizowane są zajęcia, powinny być zagwarantowane wymienione elementy bazowe.
-” ,
+udział w konkursach, których zakres jest zgodny bądź zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa. Wskazane jest nawiązywanie współpracy między szkołami a lokalnymi jednostkami Policji, Państwową Strażą Pożarną, ośrodkami szkolenia, jednostkami wojskowymi i organizacjami proobronnymi, zarówno we wspomnianym zakresie prowadzenia zajęć, jak i udostępnianiu specjalistycznego sprzętu czy pomocy dydaktycznych. Ważne znaczenie w rozwoju ma też wychowanie mające na celu kształtowanie postawy patriotycznej oraz poczucia odpowiedzialności za dorobek minionych pokoleń. Trwający proces globalizacyjny we wszystkich obszarach życia generuje nowe problemy, zagrożenia, nakłania do stawiania pytań. Nauczyciel powinien stwarzać warunki sprzyjające swobodnej wymianie myśli i poglądów, dbając przy tym o zachowanie niezbędnej dyscypliny i porządek zajęć. Warunki bazowe do realizacji programu: pracownia lub klasa do prowadzenia zajęć z przedmiotu edukacja dla bezpieczeństwa o wielkości umożliwiającej aranżację do ćwiczeń praktycznych. Wskazane jest zaplecze lub zabezpieczone miejsce umożliwiające przechowywanie pomocy dydaktycznych, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Szkoła powinna posiadać sprzęt audiowizualny i prezentacyjny (komputer, rzutnik zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której realizowane są zajęcia, powinny być zagwarantowane wymienione elementy bazowe. ” ,
 e)
-po części zatytułowanej „ JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ” dodaje się część zatytułowaną „ JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ” w brzmieniu:
-„
-JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI Cele kształcenia – wymagania ogólne
+po części zatytułowanej „ JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ” dodaje się część zatytułowaną „ JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ” w brzmieniu: „ JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI Cele kształcenia – wymagania ogólne
 I.
 Świadomość własnego dziedzictwa narodowego.
 1.
@@ -490,8 +864,7 @@ Pisanie. Uczeń:
 1)
 tworzy dłuższy tekst pisany (podanie, rozprawka, interpretacja utworu literackiego lub jego fragmentu) zgodnie z podstawowymi regułami jego organizacji, przestrzegając zasad spójności znaczeniowej i logicznej;
 2)
-przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi).
-Warunki i sposób realizacji Szkoła ponadpodstawowa to czas budowania poczucia własnej świadomości narodowej, poznawania kultury, doskonalenia umiejętności komunikacyjnych. To również okres intensywnego rozwoju osobowości ucznia, zarówno pod względem intelektualnym, jak i emocjonalnym, jego zainteresowań, wyznaczania celów, do których dąży. Uczeń tworzy fundamenty swojego światopoglądu, kształtuje hierarchię wartości, samodzielnie analizuje i porządkuje rzeczywistość. Staje się świadomym odbiorcą kultury. Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest przede wszystkim:
+przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi). Warunki i sposób realizacji Szkoła ponadpodstawowa to czas budowania poczucia własnej świadomości narodowej, poznawania kultury, doskonalenia umiejętności komunikacyjnych. To również okres intensywnego rozwoju osobowości ucznia, zarówno pod względem intelektualnym, jak i emocjonalnym, jego zainteresowań, wyznaczania celów, do których dąży. Uczeń tworzy fundamenty swojego światopoglądu, kształtuje hierarchię wartości, samodzielnie analizuje i porządkuje rzeczywistość. Staje się świadomym odbiorcą kultury. Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest przede wszystkim:
 1)
 pogłębianie poczucia tożsamości narodowej, szacunku do kultury i tradycji;
 2)
@@ -503,9 +876,7 @@ rozwijanie umiejętności posługiwania się językiem niemieckim z zachowaniem 
 5)
 rozwijanie umiejętności posługiwania się różnymi gatunkami wypowiedzi ustnych i pisemnych, które są niezbędne w edukacji szkolnej oraz w różnych sytuacjach życiowych;
 6)
-inspirowanie ucznia do samodzielnego poszukiwania źródeł wiedzy, również z wykorzystaniem środowiska wirtualnego, z zachowaniem zasad bezpieczeństwa w sieci.
-Nauczyciel odwołuje się do wiedzy i umiejętności nabytych przez ucznia na wcześniejszych etapach edukacyjnych. Uczy świadomego, krytycznego odbioru tekstów kultury. Zwraca uwagę na specyfikę życia mniejszości narodowej. Stwarza warunki do samodzielnego rozwoju intelektualnego oraz inspiruje do pogłębiania wiedzy. W tym celu stosuje wybrane metody wspierające rozwój ucznia, np. metodę projektu polegającą na szerokiej współpracy między uczniami.
-” .
+inspirowanie ucznia do samodzielnego poszukiwania źródeł wiedzy, również z wykorzystaniem środowiska wirtualnego, z zachowaniem zasad bezpieczeństwa w sieci. Nauczyciel odwołuje się do wiedzy i umiejętności nabytych przez ucznia na wcześniejszych etapach edukacyjnych. Uczy świadomego, krytycznego odbioru tekstów kultury. Zwraca uwagę na specyfikę życia mniejszości narodowej. Stwarza warunki do samodzielnego rozwoju intelektualnego oraz inspiruje do pogłębiania wiedzy. W tym celu stosuje wybrane metody wspierające rozwój ucznia, np. metodę projektu polegającą na szerokiej współpracy między uczniami. ” .
 § 2.
 Podstawę programową kształcenia ogólnego dla branżowej szkoły I stopnia dla uczniów będących absolwentami ośmioletniej szkoły podstawowej, stanowiącą załącznik nr 4a do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w zakresie wymagania dotyczącego wykonywania przez ucznia strzelania z wykorzystaniem broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych realizuje się, począwszy od roku szkolnego 2024/2025, z tym że w przypadku branżowych szkół I stopnia, które na terenie danego powiatu:
 1)
@@ -513,6 +884,5 @@ mają dostęp do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), 
 2)
 nie mają dostępu do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych – wymóg ten jest realizowany w roku szkolnym 2022/2023 i 2023/2024 w miarę istniejących możliwości.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 

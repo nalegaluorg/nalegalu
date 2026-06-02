@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001409) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1409/text.pdf) |
 
-po JĘTY H CHRO Ą Ś ISŁĄ, Z WYS Lp. Nazwa polska Nazwa naukowa BRUNATNICE PHAEOPHYTA morszczynowate Fucaceae
+z dnia 2014 r. ( poz ) Załącznik nr 1 GATUNKI ROŚLIN OBJĘTYCH OCHRONĄ ŚCISŁĄ, Z WYSZCZEGÓLNIENIEM GATUNKÓW WYMAGAJĄCYCH OCHRONY CZYNNEJ Lp. Nazwa polska Nazwa naukowa BRUNATNICE PHAEOPHYTA morszczynowate Fucaceae
 1. morszczyn pęcherzykowaty (3) Fucus vesiculosus KRASNOROSTY RHODOPHYTA hildenbrandiowate Hildenbrandiaceae
 2. hildenbrandia rzeczna Hildenbrandtia rivularis rozróżkowate Ceramiaceae
 3. rozróżka * (3) Ceramium diaphanum
@@ -440,7 +440,7 @@ po JĘTY H CHRO Ą Ś ISŁĄ, Z WYS Lp. Nazwa polska Nazwa naukowa BRUNATNICE PH
 412. zostera morska Zostera marina żabieńcowate Alismataceae
 413. elisma wodna (2) (3) Luronium natans
 414. kaldezja dziewięciornikowata (1) (2) (3) Caldesia parnassifolia żabiściekowate Hydrocharitaceae
-415. przesiąkra okółkowa (3) Hydrilla verticillata Lp. Nazwa polska Nazwa naukowa KRASNOROSTY RHODOPHYTA rozróżkowate Ceramiaceae
+415. przesiąkra okółkowa (3) Hydrilla verticillata Załącznik nr 2 GATUNKI ROŚLIN OBJĘTYCH OCHRONĄ CZĘŚCIOWĄ Lp. Nazwa polska Nazwa naukowa KRASNOROSTY RHODOPHYTA rozróżkowate Ceramiaceae
 1. rozróżka * (3) Ceramium circinatum RAMIENICE CHAROPHYTA ramienicowate Characeae
 2. krynicznik kolczasty (3) Nitella mucronata
 3. krynicznik giętki Nitella flexilis
@@ -741,7 +741,7 @@ po JĘTY H CHRO Ą Ś ISŁĄ, Z WYS Lp. Nazwa polska Nazwa naukowa BRUNATNICE PH
 298. kocanki piaskowe Helichrysum arenarium
 299. ostrożeń pannoński Cirsium pannonicum
 300. ostrożeń siedmiogrodzki Cirsium decussatum INNE GATUNKI
-301. gatunki wymienione w załączniku IV dyrektywy Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz. Urz. WE L 206 z 22.07.1992, str. 7, z późn. zm.) inne niż gatunki objęte ochroną ścisłą na podstawie załącznika nr 1 do rozporządzenia Lp. Nazwa polska Nazwa naukowa Sposób pozyskiwania MCHY BRYOPHYTA gajnikowate Hylocomiaceae
+301. gatunki wymienione w załączniku IV dyrektywy Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz. Urz. WE L 206 z 22.07.1992, str. 7, z późn. zm.) inne niż gatunki objęte ochroną ścisłą na podstawie załącznika nr 1 do rozporządzenia Zalącznik nr 3 GATUNKI ROŚLIN OBJĘTYCH OCHRONĄ CZĘŚCIOWĄ, KTÓRE MOGĄ BYĆ POZYSKIWANE, ORAZ SPOSOBY ICH POZYSKIWANIA Lp. Nazwa polska Nazwa naukowa Sposób pozyskiwania MCHY BRYOPHYTA gajnikowate Hylocomiaceae
 1. fałdownik nastroszony Rhytidiadelphus squarrosus Zbiór ręczny. Zostawić nie mniej niż 75% każdego płata i zbierać nie częściej niż raz na 5 lat w tym samym miejscu.
 2. rokietnik pospolity Pleurozium schreberi Zbiór ręczny. Zostawić nie mniej niż 75% każdego płata i zbierać nie częściej niż raz na 5 lat w tym samym miejscu.
 krótkoszowate Brachytheciaceae
@@ -762,7 +762,7 @@ trawy Poaceae
 11. turówka wonna Hierochloë odorata Ścinanie ziela narzędziami ręcznymi bez uszkadzania części podziemnych.
 złożone Asteraceae
 12. kocanki piaskowe Helichrysum arenarium Zbiór ręczny koszyczków. Zostawić nie mniej niż 75% populacji.
-Lp. Nazwa polska Nazwa naukowa Wielkość strefy ochrony PAPROTNIKI PTERIDOPHYTA poryblinowate Isoëtaceae
+GATUNKI ROŚLIN WYMAGAJĄCYCH USTALENIA STREF OCHRONY ICH OSTOI I STANOWISK ORAZ WIELKOŚĆ TYCH STREF OCHRONY Lp. Nazwa polska Nazwa naukowa Wielkość strefy ochrony PAPROTNIKI PTERIDOPHYTA poryblinowate Isoëtaceae
 1. poryblin kolczasty Isoëtes echinospora Cały zbiornik wodny, w którym występuje.
 rozpłochowate Hymenophyllaceae
 2. włosocień delikatny Trichomanes speciosum Stanowisko wraz z ostoją o promieniu do 100 m od granic stanowiska.

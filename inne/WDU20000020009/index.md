@@ -22,7 +22,6 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1998-01-27 |
 | Data wydania | 2000-01-17 |
-| Wejście w życie | 1999-11-19 |
 | Ostatnia zmiana | 2015-10-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000020009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/9/text.pdf) |
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 lipca 2024 r. o zmianie ustawy o dochodzeniu roszczeń w postępowaniu grupowym oraz niektórych innych ustaw
+# Ustawa z dnia 24 lipca 2024 r. o zmianie ustawy o dochodzeniu roszczeń w postępowaniu grupowym oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-24 |
 | Data wydania | 2024-08-14 |
-| Wejście w życie | 2024-08-29 |
 | Ostatnia zmiana | 2024-08-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001237) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1237/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów.
+Podmiot upoważniony
 
 **Art. 1.** W ustawie z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym (Dz. U. z 2023 r. poz. 1212) wprowadza się następujące zmiany:
 
@@ -40,7 +42,7 @@ source: "eli-html"
 
 2d. Wymogu utworzenia grupy i złożenia oświadczeń o przystąpieniu do grupy nie stosuje się do powództw wytaczanych w sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów.
 
-2e. Przez ogólne interesy konsumentów rozumie się interes ogółu konsumentów, a w przypadku postępowań w sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów – także interesy grupy konsumentów. Przez praktyki naruszające ogólne interesy konsumentów rozumie się działanie lub zaniechanie przedsiębiorcy niezgodne z przepisami prawa Unii Europejskiej, o których mowa w załączniku I do dyrektywy Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającej dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, z późn. zm.), zwanej dalej „dyrektywą 2020/1828”, oraz przepisami je wdrażającymi lub służącymi ich stosowaniu, które to działanie lub zaniechanie narusza lub może naruszać ogólne interesy konsumentów. ” ;
+2e. Przez ogólne interesy konsumentów rozumie się interes ogółu konsumentów, a w przypadku postępowań w sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów – także interesy grupy konsumentów. Przez praktyki naruszające ogólne interesy konsumentów rozumie się działanie lub zaniechanie przedsiębiorcy niezgodne z przepisami prawa Unii Europejskiej, o których mowa w załączniku I do dyrektywy Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającej dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023.), zwanej dalej „dyrektywą 2020/1828”, oraz przepisami je wdrażającymi lub służącymi ich stosowaniu, które to działanie lub zaniechanie narusza lub może naruszać ogólne interesy konsumentów. ” ;
 
 - **3)** po art. 1 dodaje się art. 1a w brzmieniu: „
 
@@ -243,7 +245,7 @@ source: "eli-html"
 
 - **1)** w złej wierze złożyła wniosek o wyjawienie lub wydanie środka dowodowego lub
 - **2)** naruszyła ograniczenia dotyczące prawa wglądu do dowodu, zapoznawania się z nim lub korzystania z niego, ustanowione przez sąd zgodnie z art. 16e ust. 1, lub
-- **3)** wykorzystała dowód w innym celu niż na potrzeby toczącego się postępowania sąd pomija dowód uzyskany na podstawie postanowienia nakazującego wyjawienie lub wydanie tego środka dowodowego wydanego na wniosek tej strony.
+- **3)** wykorzystała dowód w innym celu niż na potrzeby toczącego się postępowania – sąd pomija dowód uzyskany na podstawie postanowienia nakazującego wyjawienie lub wydanie tego środka dowodowego wydanego na wniosek tej strony.
 
 2. Sąd może w postanowieniu nałożyć na stronę, która dopuściła się zachowania, o którym mowa w ust. 1, grzywnę w wysokości do 50 000 złotych.
 
@@ -294,22 +296,22 @@ source: "eli-html"
 
 2. Na postanowienie o nałożeniu grzywny, o którym mowa w ust. 1, przysługuje zażalenie do sądu drugiej instancji. ” .
 
-**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061) odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061) odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 
 - **1)** dyrektywę 2000/31/WE Parlamentu Europejskiego i Rady z dnia 8 czerwca 2000 r. w sprawie niektórych aspektów prawnych usług społeczeństwa informacyjnego, w szczególności handlu elektronicznego w ramach rynku wewnętrznego (dyrektywa o handlu elektronicznym) (Dz. Urz. WE L 178 z 17.07.2000, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 25, str. 399 oraz Dz. Urz. UE L 277 z 27.10.2022, str. 1);
 - **2)** dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023). ” .
 
-**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.) do tytułu ustawy dodaje się odnośnik nr 1 w brzmieniu: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023). ” . W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2024 r. poz. 959) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859, 863 i 1222.) do tytułu ustawy dodaje się odnośnik nr 1 w brzmieniu: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023). ” . W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2024 r. poz. 959) wprowadza się następujące zmiany:
 
 - **1)** do tytułu ustawy dodaje się odnośnik nr 1 w brzmieniu: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023). ” ;
 - **2)** w art. 96 w ust. 1 po pkt 7 dodaje się pkt 7a w brzmieniu: „
 - **7a)** podmiot upoważniony, o którym mowa w art. 46a ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 594 i 1237), w sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów oraz w sprawach o roszczenia związane z ich stosowaniem; ” . W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 594) wprowadza się następujące zmiany:
-- **1)** odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „
+- **1)** odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 - **1)** dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1 z dnia 11 grudnia 2018 r. mającą na celu nadanie organom ochrony konkurencji państw członkowskich uprawnień w celu skuteczniejszego egzekwowania prawa i zapewnienia należytego funkcjonowania rynku wewnętrznego (Dz. Urz. UE L 11 z 14.01.2019, str. 3);
 - **2)** dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023). ” ;
 - **2)** w art. 4 po pkt 13 dodaje się pkt 13a i 13b w brzmieniu: „
 - **13a)** grupowym postępowaniu krajowym – rozumie się przez to sądowe postępowanie cywilne w sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów lub w sprawach o roszczenia związane z ich stosowaniem prowadzone przed sądem Rzeczypospolitej Polskiej na podstawie ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym (Dz. U. z 2023 r. poz. 1212 oraz z 2024 r. poz. 1237) z powództwa podmiotu upoważnionego wpisanego do rejestru podmiotów upoważnionych, zwanego dalej „rejestrem”, prowadzonego przez Prezesa Urzędu;
-- **13b)** grupowym postępowaniu transgranicznym – rozumie się przez to postępowanie w sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów lub w sprawach o roszczenia związane z ich stosowaniem z powództwa podmiotu upoważnionego wpisanego do wykazu podmiotów upoważnionych prowadzonego przez Komisję Europejską na podstawie art. 5 ust. 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającej dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, z późn. zm.), zwanej dalej „dyrektywą 2020/1828”, prowadzone przed sądem albo organem administracyjnym państwa Unii Europejskiej innego niż państwo, w którym podmiot upoważniony został wyznaczony; ” ;
+- **13b)** grupowym postępowaniu transgranicznym – rozumie się przez to postępowanie w sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów lub w sprawach o roszczenia związane z ich stosowaniem z powództwa podmiotu upoważnionego wpisanego do wykazu podmiotów upoważnionych prowadzonego przez Komisję Europejską na podstawie art. 5 ust. 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającej dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023.), zwanej dalej „dyrektywą 2020/1828”, prowadzone przed sądem albo organem administracyjnym państwa Unii Europejskiej innego niż państwo, w którym podmiot upoważniony został wyznaczony; ” ;
 - **3)** w art. 31 po pkt 5 dodaje się pkt 5a w brzmieniu: „
 - **5a)** wykonywanie zadań w zakresie wyznaczania podmiotów upoważnionych uprawnionych do wytaczania powództw w ramach grupowych postępowań krajowych oraz grupowych postępowań transgranicznych, prowadzenie rejestru oraz przekazywanie Komisji Europejskiej danych objętych rejestrem; ” ;
 - **4)** w art. 32a po ust. 2a dodaje się ust. 2b w brzmieniu: „
@@ -328,12 +330,12 @@ source: "eli-html"
 - **9)** wytaczania powództw w postępowaniach grupowych w sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów oraz w sprawach o roszczenia związane z ich stosowaniem, o których mowa w art. 1a ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym, po uprzednim uzyskaniu wpisu do rejestru. ” ;
 - **6)** w dziale V dodaje się rozdział 3 w brzmieniu: „
 
-#### Rozdział 3 Podmiot upoważniony
+#### Rozdział 3
 
 **Art. 46a.** Podmiotem upoważnionym jest podmiot upoważniony wpisany do rejestru oraz podmiot upoważniony wpisany do wykazu podmiotów upoważnionych prowadzonego przez Komisję Europejską na podstawie art. 5 ust. 1 dyrektywy 2020/1828. 1. Podmiot upoważniony wpisany do rejestru jest uprawniony do wytaczania powództw w ramach grupowych postępowań krajowych oraz grupowych postępowań transgranicznych. 2. Podmiotem upoważnionym wpisanym do rejestru, który jest uprawniony do wytaczania powództw w ramach grupowych postępowań krajowych oraz grupowych postępowań transgranicznych:
 
 - **1)** na rzecz klientów podmiotu rynku finansowego w rozumieniu art. 2 pkt 1 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109),
-- **2)** w sprawach wynikających z umowy o świadczenie usług lub wykonywania czynności na rzecz osoby fizycznej przez instytucję finansową w rozumieniu art. 4 pkt 4 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2024 r. poz. 559) jest Rzecznik Finansowy.
+- **2)** w sprawach wynikających z umowy o świadczenie usług lub wykonywania czynności na rzecz osoby fizycznej przez instytucję finansową w rozumieniu art. 4 pkt 4 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2024 r. poz. 559) – jest Rzecznik Finansowy.
 
 3. Do Rzecznika Finansowego nie stosuje się przepisów art. 46c pkt 2 lit. h oraz pkt 3, art. 46e ust. 4 zdanie drugie, art. 46f oraz art. 46h-46r. Podmiot upoważniony wpisany do rejestru:
 
@@ -470,7 +472,7 @@ source: "eli-html"
 2. W uzasadnionych przypadkach, w szczególności w razie:
 
 - **1)** zgłoszenia przez państwo członkowskie Unii Europejskiej lub Komisję Europejską, że podmiot upoważniony wpisany do rejestru uprawniony do prowadzenia grupowego postępowania transgranicznego nie spełnia warunków określonych w art. 46h,
-- **2)** przekazania przez sąd odpisu zarządzenia lub postanowienia na podstawie art. 10aa ust. 7 ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym Prezes Urzędu dokonuje weryfikacji, o której mowa w ust. 1, bez zbędnej zwłoki.
+- **2)** przekazania przez sąd odpisu zarządzenia lub postanowienia na podstawie art. 10aa ust. 7 ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym – Prezes Urzędu dokonuje weryfikacji, o której mowa w ust. 1, bez zbędnej zwłoki.
 
 1. Prezes Urzędu przekazuje Komisji Europejskiej wykaz podmiotów upoważnionych wpisanych do rejestru, uprawnionych do prowadzenia grupowych postępowań transgranicznych, zawierający dane objęte rejestrem, o których mowa w art. 46g ust. 2, oraz informacje o każdej zmianie tych danych, w celu umieszczenia ich w wykazie podmiotów upoważnionych prowadzonym przez Komisję Europejską na podstawie art. 5 ust. 1 dyrektywy 2020/1828.
 
@@ -498,5 +500,5 @@ source: "eli-html"
 
 **Art. 7.** Prezes Urzędu Ochrony Konkurencji i Konsumentów z urzędu wpisuje Rzecznika Finansowego do rejestru, o którym mowa w art. 4 pkt 13a ustawy zmienianej w art. 5. Informację o wpisie Prezes Urzędu Ochrony Konkurencji i Konsumentów przesyła niezwłocznie Rzecznikowi Finansowemu.
 
-**Art. 8.** Prezes Urzędu Ochrony Konkurencji i Konsumentów przekazuje Komisji Europejskiej po raz pierwszy informacje, o których mowa w art. 46s ust. 2 ustawy zmienianej w art. 5, do dnia 26 czerwca 2027 r. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Prezes Urzędu Ochrony Konkurencji i Konsumentów przekazuje Komisji Europejskiej po raz pierwszy informacje, o których mowa w art. 46s ust. 2 ustawy zmienianej w art. 5, do dnia 26 czerwca 2027 r. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych oraz ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów. 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859, 863 i 1222. 5) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023.
 

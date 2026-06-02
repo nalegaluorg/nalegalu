@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 11 września 2020 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych
+# Rozporządzenie Ministra Zdrowiaz dnia 11 września 2020 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-11 |
 | Data wydania | 2020-09-15 |
-| Wejście w życie | 2020-09-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1586/text.pdf) |
 
@@ -41,19 +40,15 @@ W rozporządzeniu Ministra Zdrowia z dnia 26 czerwca 2019 r. w sprawie zakresu n
 1)
 użyte w rozporządzeniu w różnej liczbie i przypadku wyrazy „oddział wojewódzki Funduszu” zastępuje się użytym w odpowiedniej liczbie i przypadku wyrazem „Fundusz”;
 2)
-w § 3 w ust. 1 w pkt 16 lit. a otrzymuje brzmienie:
-„
+w § 3 w ust. 1 w pkt 16 lit. a otrzymuje brzmienie: „
 a)
-podstawowej opieki zdrowotnej – dla każdego badania znajdującego się w wykazie badań diagnostyki laboratoryjnej i diagnostyki obrazowej i nieobrazowej związanych z realizacją świadczeń lekarza podstawowej opieki zdrowotnej, określonym w przepisach wydanych na podstawie art. 31d ustawy, oraz w wykazie badań diagnostycznych, na które pielęgniarki i położne mają prawo wystawiać skierowania zgodnie z przepisami wydanymi na podstawie art. 15a ust. 8 pkt 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2020 r. poz. 562, 567, 945 i 1493),
-” ;
+podstawowej opieki zdrowotnej – dla każdego badania znajdującego się w wykazie badań diagnostyki laboratoryjnej i diagnostyki obrazowej i nieobrazowej związanych z realizacją świadczeń lekarza podstawowej opieki zdrowotnej, określonym w przepisach wydanych na podstawie art. 31d ustawy, oraz w wykazie badań diagnostycznych, na które pielęgniarki i położne mają prawo wystawiać skierowania zgodnie z przepisami wydanymi na podstawie art. 15a ust. 8 pkt 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2020 r. poz. 562, 567, 945 i 1493), ” ;
 3)
-w § 4 w pkt 8 w lit. b tiret drugie otrzymuje brzmienie:
-„
+w § 4 w pkt 8 w lit. b tiret drugie otrzymuje brzmienie: „
 – oświadczenia, o którym mowa w art. 50 ust. 2a albo ust. 6 ustawy – dane określone w tabeli nr 11 załącznika nr 3 do rozporządzenia,
 ” ;
 4)
-w § 6 ust. 4 i 5 otrzymują brzmienie:
-„
+w § 6 ust. 4 i 5 otrzymują brzmienie: „
 4.
 W przypadku gdy jednostką statystyczną, o której mowa w § 3 ust. 1 pkt 2, jest badanie, świadczeniodawca przekazuje zbiorcze dane o liczbie wykonanych badań według kodów, o których mowa w § 3 ust. 1 pkt 16 lit. a, w odniesieniu do wykonanych badań znajdujących się w wykazie:
 1)
@@ -61,8 +56,7 @@ W przypadku gdy jednostką statystyczną, o której mowa w § 3 ust. 1 pkt 2, je
 2)
 badań diagnostycznych, na które pielęgniarki i położne mają prawo wystawiać skierowania zgodnie z przepisami wydanymi na podstawie art. 15a ust. 8 pkt 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
 5.
-W przypadku świadczeń pielęgniarki podstawowej opieki zdrowotnej oraz położnej podstawowej opieki zdrowotnej świadczeniodawcy przekazują dane zbiorcze o udzielonych świadczeniach, z wyłączeniem przypadków, gdy jednostką statystyczną, o której mowa w § 3 ust. 1 pkt 2, jest wizyta patronażowa oraz porada. Zakres danych o wizytach patronażowych i poradach obejmuje dane wskazane w ust. 3 pkt 1–3 oraz w przypadku porady dodatkowo informację dotyczącą zakresu porady, zgodnie z kodem określonym w tabeli nr 19 załącznika nr 3 do rozporządzenia – dla porad pielęgniarki podstawowej opieki zdrowotnej albo w tabeli nr 20 załącznika nr 3 do rozporządzenia – dla porad położnej podstawowej opieki zdrowotnej.
-” ;
+W przypadku świadczeń pielęgniarki podstawowej opieki zdrowotnej oraz położnej podstawowej opieki zdrowotnej świadczeniodawcy przekazują dane zbiorcze o udzielonych świadczeniach, z wyłączeniem przypadków, gdy jednostką statystyczną, o której mowa w § 3 ust. 1 pkt 2, jest wizyta patronażowa oraz porada. Zakres danych o wizytach patronażowych i poradach obejmuje dane wskazane w ust. 3 pkt 1–3 oraz w przypadku porady dodatkowo informację dotyczącą zakresu porady, zgodnie z kodem określonym w tabeli nr 19 załącznika nr 3 do rozporządzenia – dla porad pielęgniarki podstawowej opieki zdrowotnej albo w tabeli nr 20 załącznika nr 3 do rozporządzenia – dla porad położnej podstawowej opieki zdrowotnej. ” ;
 5)
 w § 8:
 a)
@@ -84,9 +78,11 @@ w tabeli nr 11 „Kod tytułu uprawnienia do świadczeń opieki zdrowotnej finan
 – w kolumnie nr 4 w lp. 1–6 wyrazy „OS – w przypadku złożenia oświadczenia, o którym mowa w art. 50 ust. 6 ustawy” zastępuje się wyrazami „OSE – w przypadku złożenia oświadczenia, o którym mowa w art. 50 ust. 2a ustawy albo OSP – w przypadku złożenia oświadczenia, o którym mowa w art. 50 ust. 6 ustawy”,
 – w kolumnie nr 5 w lp. 1–6 część odnosząca się do oświadczenia otrzymuje brzmienie: „data złożenia oświadczenia, identyfikator oświadczenia nadany przez świadczeniodawcę, kod oświadczenia o przysługującym prawie do świadczeń określony w tabeli nr 12 załącznika nr 3 do rozporządzenia, a w przypadku gdy oświadczenie, zgodnie z art. 50 ust. 11 i 12 ustawy, nie jest składane w dniu udzielania świadczenia – także wskazana w oświadczeniu data rozpoczęcia i zakończenia udzielania świadczenia; w przypadku złożenia oświadczenia, o którym mowa w art. 50 ust. 2a ustawy – dodatkowo informacje dotyczące sposobu, w jaki świadczeniobiorca potwierdził tożsamość, oraz sposobu, w jaki złożył oświadczenie, zgodnie z kodami określonymi w tabeli nr 21 załącznika nr 3 do rozporządzenia, a w przypadku, o którym mowa w art. 50 ust. 9 ustawy, także dane osoby, która złożyła oświadczenie: imię i nazwisko, numer PESEL, a w przypadku osób nieposiadających numeru PESEL – seria i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość, adres zamieszkania oraz informacja o sposobie, w jaki osoba składająca oświadczenie potwierdziła tożsamość, oraz o sposobie, w jaki złożyła oświadczenie, zgodnie z kodami określonymi w tabeli nr 21 załącznika nr 3 do rozporządzenia.”,
 b)
-w tabeli nr 13 „Kod tytułu uprawnienia dodatkowego” w części „III. Prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej” dodaje się wiersz w brzmieniu: art. 47ca prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej w zakresie ustawy leczenia stomatologicznego w gabinecie dentystycznym w szkole oraz w gabinecie dentystycznym prowadzonym przez podmiot wykonujący działalność leczniczą, z którym organ prowadzący szkołę zawarł porozumienie – przez uczniów tej szkoły uczeń 47CA
+w tabeli nr 13 „Kod tytułu uprawnienia dodatkowego” w części „III. Prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej” dodaje się wiersz w brzmieniu:
+art. 47ca prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej w zakresie ustawy leczenia stomatologicznego w gabinecie dentystycznym w szkole oraz w gabinecie dentystycznym prowadzonym przez podmiot wykonujący działalność leczniczą, z którym organ prowadzący szkołę zawarł porozumienie – przez uczniów tej szkoły uczeń 47CA
 c)
-w tabeli nr 18 „Kod informacji dotyczącej używania przez świadczeniobiorcę wyrobów tytoniowych” wiersz lp. 1 otrzymuje brzmienie: 1 Osoba niepaląca nigdy niepaląca 1 paląca w przeszłości (osoba, która wypaliła w swoim życiu co najmniej 100 papierosów) 2
+w tabeli nr 18 „Kod informacji dotyczącej używania przez świadczeniobiorcę wyrobów tytoniowych” wiersz lp. 1 otrzymuje brzmienie:
+1 Osoba niepaląca nigdy niepaląca 1 paląca w przeszłości (osoba, która wypaliła w swoim życiu co najmniej 100 papierosów) 2
 d)
 dodaje się tabelę nr 19 w brzmieniu określonym w załączniku nr 1 do niniejszego rozporządzenia,
 e)
@@ -94,16 +90,17 @@ dodaje się tabelę nr 20 w brzmieniu określonym w załączniku nr 2 do niniejs
 f)
 dodaje się tabelę nr 21 w brzmieniu określonym w załączniku nr 3 do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 2–4, 6 i pkt 7 lit. a, b i d-f, które wchodzą w życie z dniem 1 stycznia 2021 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 2–4, 6 i pkt 7 lit. a, b i d-f, które wchodzą w życie z dniem 1 stycznia 2021 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 ## Załącznik nr 1 — –
 
-Tabela nr 19. Kod informacji dotyczącej zakresu porady pielęgniarki podstawowej opieki zdrowotnej Lp. Wyszczególnienie Kod 1 profilaktyka chorób i promocja zdrowia 1 2 dobór sposobów leczenia ran w ramach świadczeń leczniczych udzielanych przez pielęgniarkę samodzielnie bez zlecenia lekarskiego 2 3 ordynowanie leków zawierających substancje czynne, o których mowa w art. 15a ust. 8 pkt 1 lit. a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie recepty, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środków spożywczych specjalnego przeznaczenia żywieniowego 3 4 wystawianie recept na leki zlecone przez lekarza, w ramach kontynuacji leczenia, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego 4 5 ordynowanie wyrobów medycznych, o których mowa w art. 15a ust. 8 pkt 1 lit. c ustawy z dnia15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie zlecenia albo recepty 5 6 wystawianie skierowania na wykonanie badań diagnostycznych, o których mowa w art. 15a ust. 8 pkt 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym medycznej diagnostyki laboratoryjnej, z wyjątkiem badań wymagających metod diagnostycznych i leczniczych stwarzających podwyższone ryzyko dla świadczeniobiorcy 6
+Tabela nr 19. Kod informacji dotyczącej zakresu porady pielęgniarki podstawowej opieki zdrowotnej Lp. Wyszczególnienie Kod 1 profilaktyka chorób i promocja zdrowia 1 2 dobór sposobów leczenia ran w ramach świadczeń leczniczych udzielanych przez pielęgniarkę samodzielnie bez zlecenia lekarskiego 2 3 ordynowanie leków zawierających substancje czynne, o których mowa w art. 15a ust. 8 pkt 1 lit. a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie recepty, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środków spożywczych specjalnego przeznaczenia żywieniowego 3 4 wystawianie recept na leki zlecone przez lekarza, w ramach kontynuacji leczenia, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego 4 5 ordynowanie wyrobów medycznych, o których mowa w art. 15a ust. 8 pkt 1 lit. c ustawy z dnia
+15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie zlecenia albo recepty 5 6 wystawianie skierowania na wykonanie badań diagnostycznych, o których mowa w art. 15a ust. 8 pkt 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym medycznej diagnostyki laboratoryjnej, z wyjątkiem badań wymagających metod diagnostycznych i leczniczych stwarzających podwyższone ryzyko dla świadczeniobiorcy 6
 
 ## Załącznik nr 2 — –
 
-Tabela nr 20. Kod informacji dotyczącej zakresu porady położnej podstawowej opieki zdrowotnej Lp. Wyszczególnienie Kod 1 porada dla kobiet z chorobami ginekologicznymi i onkologii ginekologicznej 1 2 dobór sposobów leczenia ran w ramach świadczeń leczniczych udzielanych przez położną samodzielnie bez zlecenia lekarskiego 2 3 ordynowanie leków zawierających substancje czynne, o których mowa w art. 15a ust. 8 pkt 1 lit. a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie recepty, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środków spożywczych specjalnego przeznaczenia żywieniowego 3 4 wystawianie recepty na leki zlecone przez lekarza, w ramach kontynuacji leczenia, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego 4 5 ordynowanie wyrobów medycznych, o których mowa w art. 15a ust. 8 pkt 1 lit. c ustawy z dnia15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie zlecenia albo recepty 5 6 wystawianie skierowania na wykonanie badań diagnostycznych, o których mowa w art. 15a ust. 8 pkt 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym medycznej diagnostyki laboratoryjnej, z wyjątkiem badań wymagających metod diagnostycznych i leczniczych stwarzających podwyższone ryzyko dla świadczeniobiorcy 6 7 wykonywanie oraz interpretacja badania KTG u kobiety ciężarnej 7
+Tabela nr 20. Kod informacji dotyczącej zakresu porady położnej podstawowej opieki zdrowotnej Lp. Wyszczególnienie Kod 1 porada dla kobiet z chorobami ginekologicznymi i onkologii ginekologicznej 1 2 dobór sposobów leczenia ran w ramach świadczeń leczniczych udzielanych przez położną samodzielnie bez zlecenia lekarskiego 2 3 ordynowanie leków zawierających substancje czynne, o których mowa w art. 15a ust. 8 pkt 1 lit. a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie recepty, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środków spożywczych specjalnego przeznaczenia żywieniowego 3 4 wystawianie recepty na leki zlecone przez lekarza, w ramach kontynuacji leczenia, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego 4 5 ordynowanie wyrobów medycznych, o których mowa w art. 15a ust. 8 pkt 1 lit. c ustawy z dnia
+15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie zlecenia albo recepty 5 6 wystawianie skierowania na wykonanie badań diagnostycznych, o których mowa w art. 15a ust. 8 pkt 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym medycznej diagnostyki laboratoryjnej, z wyjątkiem badań wymagających metod diagnostycznych i leczniczych stwarzających podwyższone ryzyko dla świadczeniobiorcy 6 7 wykonywanie oraz interpretacja badania KTG u kobiety ciężarnej 7
 
 ## Załącznik nr 3 — –
 

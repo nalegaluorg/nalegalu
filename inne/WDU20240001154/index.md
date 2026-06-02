@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 lipca 2024 r. w sprawie parametrów aukcji głównej dla roku dostaw 2029 oraz parametrów aukcji dodatkowych dla roku dostaw 2026, a także parametrów aukcji wstępnych do tych aukcji
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 lipca 2024 r. w sprawie parametrów aukcji głównej dla roku dostaw 2029 oraz parametrów aukcji dodatkowych dla roku dostaw 2026, a także parametrów aukcji wstępnych do tych aukcji Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-26 |
 | Data wydania | 2024-08-01 |
-| Wejście w życie | 2024-08-02 |
 | Ostatnia zmiana | 2024-08-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001154) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1154/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Parametry aukcji głównej na rok dostaw 2029 i aukcji wstępnej do tej aukcji Rozdział 2 – Parametry aukcji dodatkowych na rok dostaw 2026 i aukcji wstępnych do tych aukcji Rozdział 3 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 34 ust. 1 ustawy z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2023 r. poz. 2131) zarządza się, co następuje:
+Parametry aukcji głównej na rok dostaw 2029 i aukcji wstępnej do tej aukcji
 § 1.
 Zapotrzebowanie na moc w aukcji głównej dla okresu dostaw przypadającego na rok 2029 wynosi 5424 MW.
 § 2.
@@ -93,6 +93,7 @@ Maksymalne wolumeny obowiązków mocowych dla stref, o których mowa w art. 6 us
 0 MW – dla Litwy;
 3)
 577 MW – dla Szwecji.
+Parametry aukcji dodatkowych na rok dostaw 2026 i aukcji wstępnych do tych aukcji
 § 12.
 Zapotrzebowanie na moc w aukcjach dodatkowych dla okresu dostaw przypadającego na rok 2026 wynosi:
 1)
@@ -191,13 +192,19 @@ b)
 484 MW – dla Litwy,
 c)
 597 MW – dla Szwecji.
+Przepis końcowy
 § 21.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
-#### Rozdział 1 Parametry aukcji głównej na rok dostaw 2029 i aukcji wstępnej do tej aukcji
+#### Rozdział 1 – Parametry aukcji głównej na rok dostaw 2029 i aukcji wstępnej do tej aukcji
 
-#### Rozdział 2 Parametry aukcji dodatkowych na rok dostaw 2026 i aukcji wstępnych do tych aukcji
+#### Rozdział 2 – Parametry aukcji dodatkowych na rok dostaw 2026 i aukcji wstępnych do tych aukcji
 
-#### Rozdział 3 Przepis końcowy
+#### Rozdział 3 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

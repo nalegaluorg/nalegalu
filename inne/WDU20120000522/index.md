@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-27 |
 | Data wydania | 2012-05-16 |
-| Wejście w życie | 2012-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000522) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/522/text.pdf) |
 
@@ -33,50 +32,59 @@ W rozporządzeniu Ministra Finansów z dnia 27 sierpnia 2010 r. w sprawie szczeg
 1)
 w § 1:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Zawiadomienie o przetargu dla podmiotów ubiegających się o udzielenie koncesji na prowadzenie kasyna gry, zwanej dalej „koncesją”, lub zezwolenia na prowadzenie salonu gry bingo pieniężne, zwanego dalej „zezwoleniem”, ogłasza się na tablicy ogłoszeń urzędu obsługującego ministra właściwego do spraw finansów publicznych i w Biuletynie Informacji Publicznej na stronie podmiotowej tego ministra.
-” ,
+Zawiadomienie o przetargu dla podmiotów ubiegających się o udzielenie koncesji na prowadzenie kasyna gry, zwanej dalej „koncesją”, lub zezwolenia na prowadzenie salonu gry bingo pieniężne, zwanego dalej „zezwoleniem”, ogłasza się na tablicy ogłoszeń urzędu obsługującego ministra właściwego do spraw finansów publicznych i w Biuletynie Informacji Publicznej na stronie podmiotowej tego ministra. ” ,
 b)
 w ust. 2:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zawiadomienie o przetargu dla podmiotów ubiegających się o udzielenie koncesji lub zezwolenia, zwanym dalej „przetargiem”, powinno określać: ” ,
-– pkt 2 otrzymuje brzmienie: „ 2) przedmiot przetargu; ” ;
+pkt 2 otrzymuje brzmienie: „
+2)
+przedmiot przetargu; ” ;
 2)
 w § 2:
 a)
 w ust. 1:
-– po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „ 3a) deklarowana podstawa opodatkowania podatkiem od gier, jaką podmiot ubiegający się o udzielenie koncesji lub zezwolenia planuje osiągnąć w działalności prowadzonej na podstawie koncesji lub zezwolenia w kasynie gry lub salonie gry bingo pieniężne, którego dotyczy złożona oferta; 3b) wielkość powierzchni kasyna gry przeznaczonej bezpośrednio na prowadzenie gier hazardowych; ” ,
-– w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „ 10) stwierdzone przez organ udzielający koncesji lub zezwolenia lub organ właściwy w sprawach kontroli niedotrzymanie warunków deklarowanych w ofercie przez podmiot, który uzyskał koncesję lub zezwolenie w wyniku przetargu, w okresie trzech lat od uzyskania koncesji lub zezwolenia, przy czym stwierdzone niedotrzymanie warunków deklarowanych w ofercie bierze się pod uwagę w przetargach ogłoszonych w okresie sześciu lat od uzyskania koncesji lub zezwolenia. ” ,
+po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „
+3a)
+deklarowana podstawa opodatkowania podatkiem od gier, jaką podmiot ubiegający się o udzielenie koncesji lub zezwolenia planuje osiągnąć w działalności prowadzonej na podstawie koncesji lub zezwolenia w kasynie gry lub salonie gry bingo pieniężne, którego dotyczy złożona oferta;
+3b)
+wielkość powierzchni kasyna gry przeznaczonej bezpośrednio na prowadzenie gier hazardowych; ” ,
+w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+10)
+stwierdzone przez organ udzielający koncesji lub zezwolenia lub organ właściwy w sprawach kontroli niedotrzymanie warunków deklarowanych w ofercie przez podmiot, który uzyskał koncesję lub zezwolenie w wyniku przetargu, w okresie trzech lat od uzyskania koncesji lub zezwolenia, przy czym stwierdzone niedotrzymanie warunków deklarowanych w ofercie bierze się pod uwagę w przetargach ogłoszonych w okresie sześciu lat od uzyskania koncesji lub zezwolenia. ” ,
 b)
 w ust. 2:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przez użyte w ust. 1 pkt 1, 3b i 10 określenia: ” ,
-– w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „ 5) powierzchnia kasyna gry przeznaczona bezpośrednio na prowadzenie gier hazardowych – należy rozumieć powierzchnię pomieszczeń, w których znajdują się automaty lub urządzenia do gier lub stoły do gier i w których prowadzone są gry; 6) niedotrzymanie warunków deklarowanych w ofercie – należy rozumieć zmianę warunków wykonywania działalności w stosunku do deklarowanych w ofercie w zakresie kryteriów oceny ofert, o których mowa w ust. 1 pkt 1, 3 i 3b, oznaczającą odpowiednio: a) obniżenie atrakcyjności lokalizacji kasyna gry lub salonu gry bingo pieniężne w związku ze zmianą lokalizacji na inną, która w ramach kryteriów oceny ofert otrzymałaby mniejszą liczbę punktów w dniu dokonywania tej oceny, b) skrócenie godzin otwarcia kasyna gry lub salonu gry bingo pieniężne, które w ramach kryteriów oceny ofert wpłynęłoby na otrzymanie mniejszej liczby punktów w dniu dokonywania tej oceny, albo c) zmniejszenie powierzchni kasyna gry przeznaczonej bezpośrednio na prowadzenie gier hazardowych, które w ramach kryteriów oceny ofert wpłynęłoby na otrzymanie mniejszej liczby punktów w dniu dokonywania tej oceny. ” ,
+w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
+5)
+powierzchnia kasyna gry przeznaczona bezpośrednio na prowadzenie gier hazardowych – należy rozumieć powierzchnię pomieszczeń, w których znajdują się automaty lub urządzenia do gier lub stoły do gier i w których prowadzone są gry;
+6)
+niedotrzymanie warunków deklarowanych w ofercie – należy rozumieć zmianę warunków wykonywania działalności w stosunku do deklarowanych w ofercie w zakresie kryteriów oceny ofert, o których mowa w ust. 1 pkt 1, 3 i 3b, oznaczającą odpowiednio:
+a)
+obniżenie atrakcyjności lokalizacji kasyna gry lub salonu gry bingo pieniężne w związku ze zmianą lokalizacji na inną, która w ramach kryteriów oceny ofert otrzymałaby mniejszą liczbę punktów w dniu dokonywania tej oceny,
+b)
+skrócenie godzin otwarcia kasyna gry lub salonu gry bingo pieniężne, które w ramach kryteriów oceny ofert wpłynęłoby na otrzymanie mniejszej liczby punktów w dniu dokonywania tej oceny, albo
 c)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+zmniejszenie powierzchni kasyna gry przeznaczonej bezpośrednio na prowadzenie gier hazardowych, które w ramach kryteriów oceny ofert wpłynęłoby na otrzymanie mniejszej liczby punktów w dniu dokonywania tej oceny. ” ,
+c)
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Podstawę opodatkowania podatkiem od gier, o której mowa w ust. 1 pkt 3a i 5, wskazuje się dla każdego roku prowadzenia działalności na podstawie koncesji lub zezwolenia, począwszy od dnia rozpoczęcia tej działalności.
-” ,
+Podstawę opodatkowania podatkiem od gier, o której mowa w ust. 1 pkt 3a i 5, wskazuje się dla każdego roku prowadzenia działalności na podstawie koncesji lub zezwolenia, począwszy od dnia rozpoczęcia tej działalności. ” ,
 d)
 uchyla się ust. 5;
 3)
-w § 6 w ust. 3 pkt 2 otrzymuje brzmienie:
-„
+w § 6 w ust. 3 pkt 2 otrzymuje brzmienie: „
 2)
-dokonuje oceny ofert i ich uszeregowania, umieszczając na pierwszym miejscu ofertę, która uzyskała największą liczbę punktów.
-” ;
+dokonuje oceny ofert i ich uszeregowania, umieszczając na pierwszym miejscu ofertę, która uzyskała największą liczbę punktów. ” ;
 4)
-w § 7 w ust. 1 pkt 5 otrzymuje brzmienie:
-„
+w § 7 w ust. 1 pkt 5 otrzymuje brzmienie: „
 5)
-ustalenia komisji przetargowej zgodnie z § 6 ust. 3 pkt 2;
-” ;
+ustalenia komisji przetargowej zgodnie z § 6 ust. 3 pkt 2; ” ;
 5)
 w załączniku do rozporządzenia:
 a)
-po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 3a.
 Deklarowana podstawa opodatkowania podatkiem od gier, jaką podmiot ubiegający się o udzielenie koncesji lub zezwolenia planuje osiągnąć w działalności prowadzonej na podstawie koncesji lub zezwolenia w kasynie gry lub salonie gry bingo pieniężne, którego dotyczy złożona oferta:
 1)
@@ -92,11 +100,9 @@ Wielkość powierzchni kasyna gry przeznaczonej bezpośrednio na prowadzenie gie
 2)
 2 pkt – w przypadku zadeklarowania drugiej pod względem wielkości powierzchni przeznaczonej bezpośrednio na prowadzenie gier hazardowych przez podmiot bądź podmioty ubiegające się o udzielenie koncesji;
 3)
-1 pkt – w przypadku zadeklarowania trzeciej i kolejnej pod względem wielkości powierzchni przeznaczonej bezpośrednio na prowadzenie gier hazardowych przez podmiot bądź podmioty ubiegające się o udzielenie koncesji.
-” ,
+1 pkt – w przypadku zadeklarowania trzeciej i kolejnej pod względem wielkości powierzchni przeznaczonej bezpośrednio na prowadzenie gier hazardowych przez podmiot bądź podmioty ubiegające się o udzielenie koncesji. ” ,
 b)
-dodaje się ust. 10 w brzmieniu:
-„
+dodaje się ust. 10 w brzmieniu: „
 10.
 Stwierdzone przez organ udzielający koncesji lub zezwolenia lub organ właściwy w sprawach kontroli niedotrzymanie warunków deklarowanych w ofercie przez podmiot, który uzyskał koncesję lub zezwolenie w wyniku przetargu, w okresie trzech lat od uzyskania koncesji lub zezwolenia, przy czym stwierdzone niedotrzymanie warunków deklarowanych w ofercie bierze się pod uwagę w przetargach ogłoszonych w okresie sześciu lat od uzyskania koncesji lub zezwolenia:
 1)
@@ -104,8 +110,7 @@ Stwierdzone przez organ udzielający koncesji lub zezwolenia lub organ właściw
 2)
 1 pkt – w przypadku podmiotów, które dotychczas nie uzyskały koncesji lub zezwolenia w wyniku przetargu, w tym dotychczas nie przystępowały do przetargu, lub uzyskały koncesję lub zezwolenie w wyniku przetargu w innym okresie;
 3)
-0 pkt – w przypadku gdy stwierdzono co najmniej jeden przypadek niedotrzymania warunków deklarowanych w ofercie przez podmiot bądź podmioty ubiegające się o udzielenie koncesji lub zezwolenia.
-” .
+0 pkt – w przypadku gdy stwierdzono co najmniej jeden przypadek niedotrzymania warunków deklarowanych w ofercie przez podmiot bądź podmioty ubiegające się o udzielenie koncesji lub zezwolenia. ” .
 § 2.
 Do przetargów, w których zawiadomienie o przetargu ogłoszono przed dniem wejścia w życie niniejszego rozporządzenia, i niezakończonych przed tym dniem stosuje się przepisy dotychczasowe.
 § 3.

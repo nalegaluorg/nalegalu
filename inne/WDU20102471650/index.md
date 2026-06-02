@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-22 |
 | Data wydania | 2010-12-27 |
-| Wejście w życie | 2011-01-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102471650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1650/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 95, poz. 792 i Nr 97, poz. 799 oraz z 2010 r. Nr 228, poz. 1486.) wprowadza się następujące zmiany:
 
 - **1)** w art. 40c ust. 5 otrzymuje brzmienie: „
 
@@ -50,5 +49,5 @@ source: "eli-html"
 
 7. Dopłatę pomniejsza się o 50%, jeżeli przed powstaniem szkód nie została zawarta na okres 12 miesięcy umowa ubezpieczenia obejmująca ochronę ubezpieczeniową co najmniej 50% powierzchni upraw rolnych, z wyłączeniem łąk i pastwisk, od co najmniej jednego z ryzyk: suszy, gradu, deszczu nawalnego, ujemnych skutków przezimowania, przymrozków wiosennych, powodzi, huraganu, pioruna, obsunięcia się ziemi lub lawiny. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 95, poz. 792 i Nr 97, poz. 799 oraz z 2010 r. Nr 228, poz. 1486.
 

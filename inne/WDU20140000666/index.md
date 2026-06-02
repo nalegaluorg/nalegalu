@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-19 |
 | Data wydania | 2014-05-22 |
-| Wejście w życie | 2014-05-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000666) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/666/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 4 ust. 5 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. Nr 85, poz. 728, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 4 ust. 5 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. Nr 85, poz. 728, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1314, z 2010 r. Nr 13, poz. 70 i Nr 152, poz. 1023, z 2011 r. Nr 112, poz. 654, z 2012 r. poz. 1529 i 1548 oraz z 2014 r. poz. 567.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 16 lutego 2010 r. w sprawie rodzajów dokumentów oraz wzoru oświadczenia potwierdzających uprawnienia do zwolnień od opłat abonamentowych (Dz. U. Nr 29, poz. 152, z późn. zm.) w § 1 po pkt 17 dodaje się pkt 18 w brzmieniu:
-„
+W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 16 lutego 2010 r. w sprawie rodzajów dokumentów oraz wzoru oświadczenia potwierdzających uprawnienia do zwolnień od opłat abonamentowych (Dz. U. Nr 29, poz. 152, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. Nr 146, poz. 877, z 2013 r. poz. 379 oraz z 2014 r. poz. 80.) w § 1 po pkt 17 dodaje się pkt 18 w brzmieniu: „
 18)
-decyzja właściwego organu realizującego zadania w zakresie świadczeń rodzinnych, jako zadanie zlecone w zakresie administracji rządowej, w przypadku osób, o których mowa w art. 4 ust. 1 pkt 8 ustawy
-” .
+decyzja właściwego organu realizującego zadania w zakresie świadczeń rodzinnych, jako zadanie zlecone w zakresie administracji rządowej, w przypadku osób, o których mowa w art. 4 ust. 1 pkt 8 ustawy ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1314, z 2010 r. Nr 13, poz. 70 i Nr 152, poz. 1023, z 2011 r. Nr 112, poz. 654, z 2012 r. poz. 1529 i 1548 oraz z 2014 r. poz. 567. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. Nr 146, poz. 877, z 2013 r. poz. 379 oraz z 2014 r. poz. 80.
 

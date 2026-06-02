@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 lipca 2021 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz niektórych innych ustaw
+# Ustawa z dnia 23 lipca 2021 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz niektórych innych ustaw Niniejsza ustawa: 1) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1160 z dnia 20 czerwca 2019 r. zmieniającą dyrektywy 2009/65/WE i 2011/61/UE w odniesieniu do transgranicznej dystrybucji prowadzonej przez przedsiębiorstwa zbiorowego inwestowania (Dz. Urz. UE L 188 z 12.07.2019, str. 106); 2) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1504 z dnia 7 października 2020 r. zmieniającą dyrektywę 2014/65/UE w sprawie rynków instrumentów finansowych (Dz. Urz. UE L 347 z 20.10.2020, str. 50); 3) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1156 z dnia 20 czerwca 2019 r. w sprawie ułatwienia transgranicznej dystrybucji przedsiębiorstw zbiorowego inwestowania oraz zmiany rozporządzeń (UE) nr 345/2013, (UE) nr 346/2013 i (UE) nr 1286/2014 (Dz. Urz. UE L 188 z 12.07.2019, str. 55).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-23 |
 | Data wydania | 2021-08-30 |
-| Wejście w życie | 2021-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001595) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1595/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
 **Art. 1.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2021 r. poz. 605) wprowadza się następujące zmiany:
 
@@ -66,7 +67,7 @@ source: "eli-html"
 2. Jeżeli Komisja stwierdzi, że publikowane przez zarządzającego ASI, w tym wpisanego do rejestru zarządzających EuVECA lub do rejestru zarządzających EuSEF, informacje:
 
 - **1)** dotyczące alternatywnej spółki inwestycyjnej, w tym uprawnionej do posługiwania się nazwą „EuVECA” lub „EuSEF”, o których mowa w ust. 1, wprowadzają lub mogą wprowadzić w błąd lub
-- **2)** reklamowe dotyczące alternatywnej spółki inwestycyjnej, w tym uprawnionej do posługiwania się nazwą „EuVECA” lub „EuSEF”, nie zawierają informacji wymaganych na podstawie art. 4 ust. 1–5 rozporządzenia 2019/1156 lub nie spełniają innych wymogów określonych w tych przepisach może zakazać ich ogłaszania lub nakazać ogłoszenie odpowiednich sprostowań w wyznaczonym terminie. ” ;
+- **2)** reklamowe dotyczące alternatywnej spółki inwestycyjnej, w tym uprawnionej do posługiwania się nazwą „EuVECA” lub „EuSEF”, nie zawierają informacji wymaganych na podstawie art. 4 ust. 1–5 rozporządzenia 2019/1156 lub nie spełniają innych wymogów określonych w tych przepisach – może zakazać ich ogłaszania lub nakazać ogłoszenie odpowiednich sprostowań w wyznaczonym terminie. ” ;
 - **5)** w art. 236: w ust. 2 dodaje się zdanie drugie w brzmieniu: „ W przypadku funduszu z wydzielonymi subfunduszami takiej opłacie podlega również wpis do rejestru drugiego i każdego następnego subfunduszu. ” , po ust. 2g dodaje się ust. 2h-2j w brzmieniu: „
     - **a)**
     - **b)**
@@ -565,6 +566,6 @@ source: "eli-html"
 **Art. 9.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
 - **1)** art. 5, który wchodzi w życie z dniem 10 listopada 2021 r.;
-- **2)** art. 1 pkt 5 lit. b w zakresie art. 236 ust. 2i i 2j, który wchodzi w życie z dniem 1 stycznia 2022 r.
+- **2)** art. 1 pkt 5 lit. b w zakresie art. 236 ust. 2i i 2j, który wchodzi w życie z dniem 1 stycznia 2022 r. 1) Niniejsza ustawa: 1) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1160 z dnia 20 czerwca 2019 r. zmieniającą dyrektywy 2009/65/WE i 2011/61/UE w odniesieniu do transgranicznej dystrybucji prowadzonej przez przedsiębiorstwa zbiorowego inwestowania (Dz. Urz. UE L 188 z 12.07.2019, str. 106); 2) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1504 z dnia 7 października 2020 r. zmieniającą dyrektywę 2014/65/UE w sprawie rynków instrumentów finansowych (Dz. Urz. UE L 347 z 20.10.2020, str. 50); 3) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1156 z dnia 20 czerwca 2019 r. w sprawie ułatwienia transgranicznej dystrybucji przedsiębiorstw zbiorowego inwestowania oraz zmiany rozporządzeń (UE) nr 345/2013, (UE) nr 346/2013 i (UE) nr 1286/2014 (Dz. Urz. UE L 188 z 12.07.2019, str. 55). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
 

@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1990-07-13 |
 | Data wydania | 1990-08-18 |
-| Wejście w życie | 1990-09-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900550318) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/318/text.pdf) |
+
+Przepisy szczególne o egzekucji z udziałem Skarbu Państwa oraz podmiotów gospodarczych.
 
 **Art. 1.** W Kodeksie postępowania cywilnego wprowadza się następujące zmiany:
 
@@ -231,7 +232,7 @@ source: "eli-html"
 - **88)** w art. 1053 w § 1 wyrazy „sześćset złotych” zastępuje się wyrazami „pięć tysięcy złotych”;
 - **89)** dział II tytułu III księgi drugiej części drugiej (art. 1060–1064) otrzymują brzmienie: „
 
-### Dział II Przepisy szczególne o egzekucji z udziałem Skarbu Państwa oraz podmiotów gospodarczych.
+### Dział II
 
 **Art. 1060.**
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-19 |
 | Data wydania | 2013-10-04 |
-| Wejście w życie | 2013-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001175) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1175/text.pdf) |
 
@@ -47,5 +46,5 @@ wykształcenie uzyskane w innym państwie na poziomie uznanym w Rzeczypospolitej
 2)
 w zakresie doświadczenia zawodowego – co najmniej pięcioletni staż pracy na stanowisku związanym z badaniami lub oceną substancji i mieszanin chemicznych, w szczególności środków ochrony roślin, w zakresie właściwości fizycznych i chemicznych, skuteczności działania lub oddziaływania na zdrowie człowieka, zwierząt lub środowisko.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 14 czerwca 2011 r. w sprawie kwalifikacji osób opracowujących oceny i raporty dotyczące środków ochrony roślin oraz wymagań dotyczących treści ocen i raportów (Dz. U. Nr 143, poz. 841), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 108 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 14 czerwca 2011 r. w sprawie kwalifikacji osób opracowujących oceny i raporty dotyczące środków ochrony roślin oraz wymagań dotyczących treści ocen i raportów (Dz. U. Nr 143, poz. 841), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 108 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455).
 

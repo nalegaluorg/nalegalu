@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-04 |
 | Data wydania | 2024-12-09 |
-| Wejście w życie | 2024-12-24 |
 | Ostatnia zmiana | 2024-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001813) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1813/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasięg terytorialny wojskowych komisji lekarskich Rozdział 3 – Właściwość wojskowych komisji lekarskich Rozdział 4 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 86 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie:
 1)
@@ -69,6 +69,7 @@ Rejonową Wojskową Komisję Lekarską z siedzibą w Warszawie z filią w Siedlc
 Rejonową Wojskową Komisję Lekarską z siedzibą we Wrocławiu.
 § 3.
 Centralna Wojskowa Komisja Lekarska w Warszawie jest komisją wyższego stopnia w stosunku do wojskowych komisji lekarskich, o których mowa w § 2 pkt 2–15.
+Zasięg terytorialny wojskowych komisji lekarskich
 § 4.
 1.
 Terytorialny zasięg działania Centralnej Wojskowej Komisji Lekarskiej w Warszawie obejmuje terytorium Rzeczypospolitej Polskiej.
@@ -106,6 +107,7 @@ Rejonowej Wojskowej Komisji Lekarskiej w Warszawie z filią w Siedlcach obejmuje
 Rejonowej Wojskowej Komisji Lekarskiej we Wrocławiu obejmuje w województwie dolnośląskim obszar powiatów: dzierżoniowskiego, górowskiego, jaworskiego, jeleniogórskiego, kamiennogórskiego, kłodzkiego, legnickiego, lubańskiego, lubińskiego, lwóweckiego, milickiego, oleśnickiego, oławskiego, strzelińskiego, średzkiego, świdnickiego, trzebnickiego, wałbrzyskiego, wołowskiego, wrocławskiego, ząbkowickiego i złotoryjskiego oraz miast na prawach powiatu: Jeleniej Góry, Legnicy i Wrocławia, a także obszar województwa opolskiego;
 14)
 Rejonowej Wojskowej Komisji Lekarskiej w Żaganiu obejmuje w województwie dolnośląskim obszar powiatów: bolesławieckiego, głogowskiego, polkowickiego i zgorzeleckiego oraz obszar województwa lubuskiego.
+Właściwość wojskowych komisji lekarskich
 § 5.
 Właściwość miejscową wojskowych komisji lekarskich ustala się w stosunku do:
 1)
@@ -262,16 +264,25 @@ współdziałanie z podmiotami leczniczymi, w tym utworzonymi przez Ministra Obr
 współdziałanie z dowódcami i organami wojskowymi oraz Wojskową Izbą Lekarską;
 8)
 inicjowanie i opiniowanie projektów aktów prawnych dotyczących działalności orzeczniczo-lekarskiej wojskowych komisji lekarskich.
+Przepisy końcowe
 § 12.
 Sprawy wszczęte i niezakończone przez właściwe wojskowe komisje lekarskie przed dniem wejścia w życie niniejszego rozporządzenia rozpatrują wojskowe komisje lekarskie według dotychczasowej właściwości.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 24 sierpnia 2012 r. w sprawie wojskowych komisji lekarskich oraz określenia ich siedzib, zasięgu działania i właściwości (Dz. U. poz. 1013, z 2017 r. poz. 843 i 2370, z 2020 r. poz. 352 i 1818 oraz z 2022 r. poz. 94), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 4 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 24 sierpnia 2012 r. w sprawie wojskowych komisji lekarskich oraz określenia ich siedzib, zasięgu działania i właściwości (Dz. U. poz. 1013, z 2017 r. poz. 843 i 2370, z 2020 r. poz. 352 i 1818 oraz z 2022 r. poz. 94), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 4 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zasięg terytorialny wojskowych komisji lekarskich
+#### Rozdział 2 – Zasięg terytorialny wojskowych komisji lekarskich
 
-#### Rozdział 3 Właściwość wojskowych komisji lekarskich
+#### Rozdział 3 – Właściwość wojskowych komisji lekarskich
 
-#### Rozdział 4 Przepisy końcowe
+#### Rozdział 4 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

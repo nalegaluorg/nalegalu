@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 15 czerwca 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 15 czerwca 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-15 |
 | Data wydania | 2022-06-23 |
-| Wejście w życie | 2022-06-24 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1316/text.pdf) |
 
@@ -41,24 +40,19 @@ w § 4 w ust. 1:
 a)
 w pkt 1, 3 i 6 po wyrazach „§ 6” dodaje się wyrazy „pkt 1”,
 b)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-która nie jest finansowana z udziałem innych środków publicznych, w przypadku operacji, o których mowa w § 5 ust. 1 pkt 1 oraz § 6 pkt 2;
-” ;
+która nie jest finansowana z udziałem innych środków publicznych, w przypadku operacji, o których mowa w § 5 ust. 1 pkt 1 oraz § 6 pkt 2; ” ;
 3)
 w § 5 w ust. 1:
 a)
-pkt 3a otrzymuje brzmienie:
-„
+pkt 3a otrzymuje brzmienie: „
 3a)
-przebudowie, rozbudowie lub remoncie na nieruchomości, o której mowa w § 2 ust. 1 pkt 1, chlewni lub budynku gospodarskiego funkcjonalnie powiązanego z chlewnią, tak aby w ich wyniku w chlewni lub budynku gospodarskim funkcjonalnie powiązanym z chlewnią było możliwe zdezynfekowanie się osób, które zajmują się obsługą świń, lub
-” ,
+przebudowie, rozbudowie lub remoncie na nieruchomości, o której mowa w § 2 ust. 1 pkt 1, chlewni lub budynku gospodarskiego funkcjonalnie powiązanego z chlewnią, tak aby w ich wyniku w chlewni lub budynku gospodarskim funkcjonalnie powiązanym z chlewnią było możliwe zdezynfekowanie się osób, które zajmują się obsługą świń, lub ” ,
 b)
 w pkt 3c wyrazy „w gospodarstwie” zastępuje się wyrazami „, których chów lub hodowla jest prowadzona na tej nieruchomości,”;
 4)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
 W przypadku podmiotu ubiegającego się o przyznanie pomocy, o którym mowa w § 3, pomoc przyznaje się na operację polegającą na:
 1)
@@ -70,8 +64,7 @@ przebudowie lub remoncie rowu melioracyjnego, w tym darniowania skarpy i dna row
 b)
 budowie, przebudowie lub remoncie przepustu, progu piętrzącego, zastawki lub przepustu z piętrzeniem, lub
 c)
-oczyszczeniu rurociągu drenarskiego, przebudowie sieci drenarskiej, przełożeniu rurociągu drenarskiego, przebudowie lub remoncie studzienki drenarskiej, przebudowie lub remoncie wylotu drenarskiego, przystosowaniu studzienki drenarskiej lub wylotu drenarskiego do funkcji retencyjnej.
-” ;
+oczyszczeniu rurociągu drenarskiego, przebudowie sieci drenarskiej, przełożeniu rurociągu drenarskiego, przebudowie lub remoncie studzienki drenarskiej, przebudowie lub remoncie wylotu drenarskiego, przystosowaniu studzienki drenarskiej lub wylotu drenarskiego do funkcji retencyjnej. ” ;
 5)
 w § 6a:
 a)
@@ -84,27 +77,23 @@ a)
 w ust. 1:
 – w pkt 1c wyrazy „lub remontu pomieszczenia w chlewni lub w budynku gospodarskim funkcjonalnie powiązanym z chlewnią, tak aby w ich wyniku w tym pomieszczeniu” zastępuje się wyrazami „, rozbudowy lub remontu chlewni lub budynku gospodarskiego funkcjonalnie powiązanego z chlewnią, tak aby w ich wyniku”,
 – w pkt 2–4 po wyrazach „§ 6” dodaje się wyrazy „pkt 1”,
-– pkt 5 otrzymuje brzmienie: „ 5) ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi”. ” ,
+pkt 5 otrzymuje brzmienie: „
+5)
+ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi”. ” ,
 b)
-w ust. 2 w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e-g w brzmieniu:
-„
+w ust. 2 w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e-g w brzmieniu: „
 e)
 operatów wodnoprawnych lub ocen wodnoprawnych,
 f)
 projektów instrukcji gospodarowania wodą,
 g)
-dokumentacji hydrogeologicznej;
-” ,
+dokumentacji hydrogeologicznej; ” ,
 c)
-w ust. 4 pkt 2 otrzymuje brzmienie:
-„
+w ust. 4 pkt 2 otrzymuje brzmienie: „
 2)
-podatku od towarów i usług (VAT), z wyjątkiem VAT ponoszonego przez spółki wodne albo związki spółek wodnych na operacje, o których mowa w § 6 pkt 1, który jest kwalifikowalny zgodnie z art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepi
-sy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem nr 1303/2013”;
-” ;
+podatku od towarów i usług (VAT), z wyjątkiem VAT ponoszonego przez spółki wodne albo związki spółek wodnych na operacje, o których mowa w § 6 pkt 1, który jest kwalifikowalny zgodnie z art. 69 ust. 3 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepi sy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38.), zwanego dalej „rozporządzeniem nr 1303/2013”; ” ;
 7)
-po § 7a dodaje się § 7b w brzmieniu:
-„
+po § 7a dodaje się § 7b w brzmieniu: „
 § 7b.
 1.
 Pomoc na operację, o której mowa w § 6 pkt 2, przyznaje się w wysokości 80% kwoty stanowiącej:
@@ -221,23 +210,19 @@ powyżej 150 do 200 mm – wynosi 500 zł;
 17)
 przystosowanie studzienki drenarskiej do funkcji retencyjnej – wynosi 1250 zł;
 18)
-przystosowanie wylotu drenarskiego do funkcji retencyjnej – wynosi 1250 zł.
-” ;
+przystosowanie wylotu drenarskiego do funkcji retencyjnej – wynosi 1250 zł. ” ;
 8)
 w § 12 w ust. 2:
 a)
-po pkt 2 dodaje się pkt 2a i 2b w brzmieniu:
-„
+po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „
 2a)
 kopię mapy, o której mowa w art. 4 ust. 1e ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990), z naniesionym schematem urządzeń melioracji wodnych i zasięgiem ich odziaływania – jeżeli operacja, o której mowa w § 6 pkt 2, obejmuje inwestycję, na realizację której nie jest wymagana zgoda wodnoprawna, o której mowa w ustawie Prawo wodne;
 2b)
-opis zakresu planowanych do wykonania robót oraz rysunki urządzeń melioracji wodnych – jeżeli operacja, o której mowa w § 6 pkt 2, obejmuje inwestycję, na realizację której nie jest wymagana zgoda wodnoprawna, o której mowa w ustawie Prawo wodne;
-” ,
+opis zakresu planowanych do wykonania robót oraz rysunki urządzeń melioracji wodnych – jeżeli operacja, o której mowa w § 6 pkt 2, obejmuje inwestycję, na realizację której nie jest wymagana zgoda wodnoprawna, o której mowa w ustawie Prawo wodne; ” ,
 b)
 w pkt 6 po wyrazach „§ 5 ust. 1 pkt 1” dodaje się wyrazy „i § 6 pkt 2”,
 c)
-po pkt 13a dodaje się pkt 13b-13e w brzmieniu:
-„
+po pkt 13a dodaje się pkt 13b-13e w brzmieniu: „
 13b)
 kopię operatu wodnoprawnego – w przypadku operacji, o której mowa w § 6 pkt 2, jeżeli operacja obejmuje inwestycję, na realizację której jest wymagane pozwolenie wodnoprawne;
 13c)
@@ -245,28 +230,23 @@ kopię oceny wodnoprawnej – w przypadku operacji, o której mowa w § 6 pkt 2,
 13d)
 kopię projektu instrukcji gospodarowania wodą – w przypadku operacji, o której mowa w § 6 pkt 2, jeżeli operacja obejmuje inwestycję, na realizację której jest wymagana instrukcja gospodarowania wodami;
 13e)
-kopię dokumentacji hydrogeologicznej – w przypadku operacji, o której mowa w § 6 pkt 2, jeżeli operacja obejmuje inwestycję, na realizację której jest wymagana dokumentacja hydrogeologiczna;
-” ,
+kopię dokumentacji hydrogeologicznej – w przypadku operacji, o której mowa w § 6 pkt 2, jeżeli operacja obejmuje inwestycję, na realizację której jest wymagana dokumentacja hydrogeologiczna; ” ,
 d)
-po pkt 16 dodaje się pkt 16a w brzmieniu:
-„
+po pkt 16 dodaje się pkt 16a w brzmieniu: „
 16a)
 oświadczenie zarządu spółki wodnej:
 a)
 że grunty rolne, na których będzie realizowana operacja, są objęte jej działalnością i właściciele lub współwłaściciele tych gruntów rolnych wyrazili pisemną zgodę na realizację operacji – w przypadku operacji, o której mowa w § 6 pkt 2,
 b)
-o kwalifikowalności VAT zawierające informację o braku możliwości odzyskania poniesionego VAT zgodnie z przepisami krajowymi dotyczącymi VAT oraz zobowiązanie do zwrotu zrefundowanej w ramach realizacji operacji kwoty poniesionego VAT, jeżeli zaistnieją przesłanki umożliwiające zwrot tego podatku – w przypadku operacji, o której mowa w § 6 pkt 1, jeżeli zarząd spółki wodnej ubiega się o włączenie VAT do kosztów kwalifikowalnych;
-” ,
+o kwalifikowalności VAT zawierające informację o braku możliwości odzyskania poniesionego VAT zgodnie z przepisami krajowymi dotyczącymi VAT oraz zobowiązanie do zwrotu zrefundowanej w ramach realizacji operacji kwoty poniesionego VAT, jeżeli zaistnieją przesłanki umożliwiające zwrot tego podatku – w przypadku operacji, o której mowa w § 6 pkt 1, jeżeli zarząd spółki wodnej ubiega się o włączenie VAT do kosztów kwalifikowalnych; ” ,
 e)
-po pkt 17 dodaje się pkt 17a w brzmieniu:
-„
+po pkt 17 dodaje się pkt 17a w brzmieniu: „
 17a)
 oświadczenie zarządu związku spółek wodnych:
 a)
 że grunty rolne, na których będzie realizowana operacja, są objęte działalnością związku spółek wodnych i właściciele lub współwłaściciele tych gruntów rolnych wyrazili pisemną zgodę na realizację operacji – w przypadku operacji, o której mowa w § 6 pkt 2,
 b)
-o kwalifikowalności VAT zawierające informację o braku możliwości odzyskania poniesionego VAT zgodnie z przepisami krajowymi dotyczącymi VAT oraz zobowiązanie do zwrotu zrefundowanej w ramach realizacji operacji kwoty poniesionego VAT, jeżeli zaistnieją przesłanki umożliwiające zwrot tego podatku – w przypadku operacji, o której mowa w § 6 pkt 1, jeżeli zarząd związku spółek wodnych ubiega się o włączenie VAT do kosztów kwalifikowalnych;
-” ;
+o kwalifikowalności VAT zawierające informację o braku możliwości odzyskania poniesionego VAT zgodnie z przepisami krajowymi dotyczącymi VAT oraz zobowiązanie do zwrotu zrefundowanej w ramach realizacji operacji kwoty poniesionego VAT, jeżeli zaistnieją przesłanki umożliwiające zwrot tego podatku – w przypadku operacji, o której mowa w § 6 pkt 1, jeżeli zarząd związku spółek wodnych ubiega się o włączenie VAT do kosztów kwalifikowalnych; ” ;
 9)
 w § 16 w ust. 3 w pkt 1 i 2 oraz w § 17 w ust. 5 w pkt 1 w lit. b wyraz „której” zastępuje się wyrazem „których”;
 10)
@@ -276,18 +256,22 @@ w § 22 w ust. 1:
 a)
 w pkt 1 wyrazy „Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)” zastępuje się wyrazami „nr 1303/2013”,
 b)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-niefinansowania operacji z udziałem innych środków publicznych, w przypadku operacji, o których mowa w § 5 ust. 1 pkt 1 oraz § 6 pkt 2, albo niefinansowania kosztów kwalifikowalnych operacji z udziałem innych środków publicznych, w przypadku operacji, o których mowa w § 5 ust. 1 pkt 2–4 oraz § 6 pkt 1;
-” ;
+niefinansowania operacji z udziałem innych środków publicznych, w przypadku operacji, o których mowa w § 5 ust. 1 pkt 1 oraz § 6 pkt 2, albo niefinansowania kosztów kwalifikowalnych operacji z udziałem innych środków publicznych, w przypadku operacji, o których mowa w § 5 ust. 1 pkt 2–4 oraz § 6 pkt 1; ” ;
 12)
 w § 24:
 a)
 w ust. 1 w pkt 3 po wyrazie „§ 6” dodaje się wyrazy „pkt 1”,
 b)
 w ust. 3:
-– pkt 1 otrzymuje brzmienie: „ 1) z uwzględnieniem: a) długości wykonanego ogrodzenia, liczby bram i furtek lub b) długości rowów melioracyjnych, na których wykonano roboty budowlane, lub liczby wykonanych progów lub zastawek, lub przepustów z piętrzeniem, lub liczby przebudowanych lub wyremontowanych studzienek drenarskich, lub liczby wylotów drenarskich, lub liczby przystosowanych do funkcji retencyjnej studzienek drenarskich, lub liczby wylotów drenarskich lub długości rurociągów drenarskich, które zostały oczyszczone lub na których wykonano roboty budowlane; ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+z uwzględnieniem:
+a)
+długości wykonanego ogrodzenia, liczby bram i furtek lub
+b)
+długości rowów melioracyjnych, na których wykonano roboty budowlane, lub liczby wykonanych progów lub zastawek, lub przepustów z piętrzeniem, lub liczby przebudowanych lub wyremontowanych studzienek drenarskich, lub liczby wylotów drenarskich, lub liczby przystosowanych do funkcji retencyjnej studzienek drenarskich, lub liczby wylotów drenarskich lub długości rurociągów drenarskich, które zostały oczyszczone lub na których wykonano roboty budowlane; ” ,
 – w pkt 2 po wyrazie „ogrodzenia” dodaje się wyrazy „lub wykonania robót na urządzeniach melioracji wodnych”,
 – w pkt 3 po wyrazie „ogrodzenia” dodaje się wyrazy „lub wykonanie robót na urządzeniach melioracji wodnych”;
 13)
@@ -304,6 +288,5 @@ Jeżeli przed dniem wejścia w życie niniejszego rozporządzenia beneficjent ni
 2.
 W przypadku zmiany umowy o przyznaniu pomocy na podstawie ust. 1 koszt podatku od towarów i usług będzie podlegał refundacji zgodnie z § 7 ust. 4 pkt 2 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 września 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 29 września 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych oraz ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-29 |
 | Data wydania | 2017-11-15 |
-| Wejście w życie | 2017-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002110) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2110/text.pdf) |
 
@@ -232,8 +231,11 @@ source: "eli-html"
 - **10)** zawieranie i rozliczanie umów o udzielanie świadczeń opieki zdrowotnej, w tym świadczeń wysokospecjalistycznych i programów lekowych określonych w przepisach ustawy o refundacji, oraz zawieranie i rozliczanie umów o realizację programów zdrowotnych i programów pilotażowych; ” ;
 - **16)** w art. 117 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** koszty świadczeń opieki zdrowotnej dla ubezpieczonych; ” ;
-- **17)** w art. 188: w ust. 1: – pkt 8 otrzymuje brzmienie: „ 8) monitorowania stanu zdrowia i zapotrzebowania ubezpieczonych na świadczenia zdrowotne oraz leki i wyroby medyczne, w tym prowadzenia prac analitycznych i prognostycznych związanych z realizacją zadań, o których mowa w art. 97; ” , – w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „ 11) prowadzenia i utrzymywania elektronicznego systemu monitorowania programów zdrowotnych, o którym mowa w art. 188e. ” , ust. 3 otrzymuje brzmienie: „
+- **17)** w art. 188: w ust. 1: pkt 8 otrzymuje brzmienie: „
     - **a)**
+
+- **8)** monitorowania stanu zdrowia i zapotrzebowania ubezpieczonych na świadczenia zdrowotne oraz leki i wyroby medyczne, w tym prowadzenia prac analitycznych i prognostycznych związanych z realizacją zadań, o których mowa w art. 97; ” , w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
+- **11)** prowadzenia i utrzymywania elektronicznego systemu monitorowania programów zdrowotnych, o którym mowa w art. 188e. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Minister właściwy do spraw zdrowia jest uprawniony do przetwarzania danych osobowych:
@@ -289,5 +291,5 @@ source: "eli-html"
 
 **Art. 6.** Pierwszej okresowej weryfikacji założeń zgromadzonych projektów programów polityki zdrowotnej, o której mowa w art. 48aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, Agencja Oceny Technologii Medycznych i Taryfikacji dokona w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 11 lit. a i pkt 16, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 11 lit. a i pkt 16, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych oraz ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 

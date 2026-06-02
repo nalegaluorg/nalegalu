@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 29 lipca 2016 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia w zawodach
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 29 lipca 2016 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia w zawodach Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-29 |
 | Data wydania | 2016-08-11 |
-| Wejście w życie | 2016-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001212) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1212/text.pdf) |
 
@@ -33,9 +32,22 @@ W rozporządzeniu Ministra Edukacji Narodowej z dnia 7 lutego 2012 r. w sprawie 
 1)
 w części I „Ogólne cele i zadania kształcenia zawodowego” w tabeli 1 zatytułowanej „Wykaz kwalifikacji oraz ich powiązania z zawodami i efektami kształcenia uporządkowane narastająco według oznaczeń kwalifikacji w ramach danego obszaru kształcenia”:
 a)
-po pozycji dotyczącej kwalifikacji E.31. dodaje się pozycje dotyczące kwalifikacji E.32., E.33., E.34. oraz E.35. w brzmieniu: E.32. Montaż i uruchamianie urządzeń automatyki przemysłowej 311909 Technik automatyk OMZPKZ(E.a) E.33. Przeglądy, konserwacja, diagnostyka i naprawa instalacji automatyki przemysłowej 311909 Technik automatyk OMZPKZ(E.a)PKZ(E.c) E.34. Montaż i eksploatacja instalacji odbiorczych telewizji satelitarnej, kablowej i naziemnej 311412 Technik szerokopasmowej komunikacji elektronicznej OMZPKZ(E.a)PKZ(E.c) E.35. Montaż i eksploatacja szerokopasmowych sieci rozległych 311412 Technik szerokopasmowej komunikacji elektronicznej OMZPKZ(E.a)PKZ(E.c)
+po pozycji dotyczącej kwalifikacji E.31. dodaje się pozycje dotyczące kwalifikacji E.32., E.33., E.34. oraz E.35. w brzmieniu:
+E.32. Montaż i uruchamianie urządzeń automatyki przemysłowej 311909 Technik automatyk OMZ
+PKZ(E.a) E.33. Przeglądy, konserwacja, diagnostyka i naprawa instalacji automatyki przemysłowej 311909 Technik automatyk OMZ
+PKZ(E.a)
+PKZ(E.c) E.34. Montaż i eksploatacja instalacji odbiorczych telewizji satelitarnej, kablowej i naziemnej 311412 Technik szerokopasmowej komunikacji elektronicznej OMZ
+PKZ(E.a)
+PKZ(E.c) E.35. Montaż i eksploatacja szerokopasmowych sieci rozległych 311412 Technik szerokopasmowej komunikacji elektronicznej OMZ
+PKZ(E.a)
+PKZ(E.c)
 b)
-po pozycji dotyczącej kwalifikacji M.46. dodaje się pozycje dotyczące kwalifikacji M.47. oraz M.48. w brzmieniu: M.47. Montaż i obsługa maszyn i urządzeń przemysłu drzewnego 817212 Mechanik-operator maszyn do produkcji drzewnej PKZ(A.g)PKZ(M.a)PKZ(M.b) M.48. Wykonywanie robót szkutniczych 711504 Szkutnik PKZ(M.a)PKZ(M.p) 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+po pozycji dotyczącej kwalifikacji M.46. dodaje się pozycje dotyczące kwalifikacji M.47. oraz M.48. w brzmieniu:
+M.47. Montaż i obsługa maszyn i urządzeń przemysłu drzewnego 817212 Mechanik-operator maszyn do produkcji drzewnej PKZ(A.g)
+PKZ(M.a)
+PKZ(M.b) M.48. Wykonywanie robót szkutniczych 711504 Szkutnik PKZ(M.a)
+PKZ(M.p)
+1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 2)
 w części II „Efekty kształcenia”:
 a)
@@ -45,19 +57,405 @@ w ust. 2 „Efekty kształcenia wspólne dla zawodów w ramach obszaru kształce
 – w obszarze elektryczno-elektronicznym (E) wprowadzenie do„ PKZ(E.c)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: technik elektronik, technik elektryk, technik mechatronik, technik telekomunikacji, technik teleinformatyk, technik urządzeń dźwigowych, technik automatyk, technik szerokopasmowej komunikacji elektronicznej ” ,
 – w obszarze mechanicznym i górniczo-hutniczym (M) wprowadzenie do „PKZ(M.a)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: mechanik-operator pojazdów i maszyn rolniczych, zegarmistrz, optyk-mechanik, mechanik precyzyjny, mechanik automatyki przemysłowej i urządzeń precyzyjnych, mechanik-monter maszyn i urządzeń, mechanik pojazdów samochodowych, operator obrabiarek skrawających, ślusarz, kowal, monter kadłubów okrętowych, blacharz samochodowy, blacharz, lakiernik, technik optyk, technik mechanik lotniczy, technik mechanik okrętowy, technik budownictwa okrętowego, technik pojazdów samochodowych, technik mechanik, monter mechatronik, elektromechanik pojazdów samochodowych, technik mechatronik, technik transportu drogowego, technik energetyk, modelarz odlewniczy, technik wiertnik, technik górnictwa podziemnego, technik górnictwa otworowego, technik górnictwa odkrywkowego, technik przeróbki kopalin stałych, technik odlewnik, technik hutnik, operator maszyn i urządzeń odlewniczych, operator maszyn i urządzeń metalurgicznych, operator maszyn i urządzeń do obróbki plastycznej, operator maszyn i urządzeń do przetwórstwa tworzyw sztucznych, złotnik-jubiler, mechanik motocyklowy, technik chłodnictwa i klimatyzacji, technik urządzeń dźwigowych, technik mechanizacji rolnictwa i agrotroniki, kierowca mechanik, mechanik-operator maszyn do produkcji drzewnej, szkutnik ” ,
 – w obszarze mechanicznym i górniczo-hutniczym (M) wprowadzenie do „PKZ(M.b)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: mechanik-operator pojazdów i maszyn rolniczych, mechanik-monter maszyn i urządzeń, operator obrabiarek skrawających, technik pojazdów samochodowych, technik mechanik, monter mechatronik, technik mechatronik, technik mechanizacji rolnictwa i agrotroniki, mechanik-operator maszyn do produkcji drzewnej ” ,
-– w obszarze mechanicznym i górniczo-hutniczym (M) po pozycji dotyczącej „PKZ(M.o)” dodaje się pozycję dotyczącą „PKZ(M.p)” w brzmieniu: „ PKZ(M.p) Umiejętności stanowiące podbudowę do kształcenia w zawodzie szkutnik Uczeń: 1) rozróżnia rodzaje łodzi i jachtów; 2) rozpoznaje elementy łodzi i jachtów; 3) identyfikuje materiały do wytwarzania łodzi i jachtów; 4) określa właściwości materiałów używanych w szkutnictwie; 5) rozpoznaje wady drewna i tworzyw sztucznych w szkutnictwie; 6) rozpoznaje narzędzia, urządzenia i maszyny do obróbki drewna i tworzyw sztucznych; 7) posługuje się instrukcjami obsługi maszyn i urządzeń używanych w szkutnictwie; 8) dobiera metody kształtowania powierzchni zgodnie z dokumentacją; 9) przygotowuje elementy do malowania; 10) wykonuje pomiary elementów i konstrukcji łodzi i jachtów; 11) określa materiały pomocnicze stosowane w produkcji łodzi i jachtów; 12) sporządza szkice i rysunki techniczne; 13) stosuje programy komputerowe wspomagające wykonywanie zadań. ” ,
-– w obszarze medyczno-społecznym (Z) „PKZ(Z.e)” otrzymuje brzmienie: „ PKZ(Z.e) Umiejętności stanowiące podbudowę do kształcenia w zawodzie technik pożarnictwa Uczeń: 1) postępuje zgodnie z wymaganiami określonymi w regulaminach służbowych oraz zasadami etyki zawodowej; 2) wykonuje komendy i postępuje zgodnie z regulaminem musztry i ceremoniałem pożarniczym; 3) opisuje zadania i organizację ochrony przeciwpożarowej i administracji publicznej; 4) rozpoznaje sytuacje stresogenne i wyjaśnia ich wpływ na funkcjonowanie jednostki i zbiorowości; 5) stosuje techniki radzenia sobie ze stresem; 6) buduje pozytywne relacje w grupie; 7) udziela wsparcia psychologicznego osobom potrzebującym pomocy; 8) uczestniczy w zespołowych grach sportowych; 9) uprawia lekkoatletykę, atletykę terenową i pływanie; 10) bierze udział w zawodach sportowo-pożarniczych; 11) stosuje programy komputerowe wspomagające wykonywanie zadań. ” ,
+w obszarze mechanicznym i górniczo-hutniczym (M) po pozycji dotyczącej „PKZ(M.o)” dodaje się pozycję dotyczącą „PKZ(M.p)” w brzmieniu: „ PKZ(M.p) Umiejętności stanowiące podbudowę do kształcenia w zawodzie szkutnik Uczeń:
+1)
+rozróżnia rodzaje łodzi i jachtów;
+2)
+rozpoznaje elementy łodzi i jachtów;
+3)
+identyfikuje materiały do wytwarzania łodzi i jachtów;
+4)
+określa właściwości materiałów używanych w szkutnictwie;
+5)
+rozpoznaje wady drewna i tworzyw sztucznych w szkutnictwie;
+6)
+rozpoznaje narzędzia, urządzenia i maszyny do obróbki drewna i tworzyw sztucznych;
+7)
+posługuje się instrukcjami obsługi maszyn i urządzeń używanych w szkutnictwie;
+8)
+dobiera metody kształtowania powierzchni zgodnie z dokumentacją;
+9)
+przygotowuje elementy do malowania;
+10)
+wykonuje pomiary elementów i konstrukcji łodzi i jachtów;
+11)
+określa materiały pomocnicze stosowane w produkcji łodzi i jachtów;
+12)
+sporządza szkice i rysunki techniczne;
+13)
+stosuje programy komputerowe wspomagające wykonywanie zadań. ” ,
+w obszarze medyczno-społecznym (Z) „PKZ(Z.e)” otrzymuje brzmienie: „ PKZ(Z.e) Umiejętności stanowiące podbudowę do kształcenia w zawodzie technik pożarnictwa Uczeń:
+1)
+postępuje zgodnie z wymaganiami określonymi w regulaminach służbowych oraz zasadami etyki zawodowej;
+2)
+wykonuje komendy i postępuje zgodnie z regulaminem musztry i ceremoniałem pożarniczym;
+3)
+opisuje zadania i organizację ochrony przeciwpożarowej i administracji publicznej;
+4)
+rozpoznaje sytuacje stresogenne i wyjaśnia ich wpływ na funkcjonowanie jednostki i zbiorowości;
+5)
+stosuje techniki radzenia sobie ze stresem;
+6)
+buduje pozytywne relacje w grupie;
+7)
+udziela wsparcia psychologicznego osobom potrzebującym pomocy;
+8)
+uczestniczy w zespołowych grach sportowych;
+9)
+uprawia lekkoatletykę, atletykę terenową i pływanie;
+10)
+bierze udział w zawodach sportowo-pożarniczych;
+11)
+stosuje programy komputerowe wspomagające wykonywanie zadań. ” ,
 b)
 w ust. 3 „Efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodach”:
-– w obszarze elektryczno-elektronicznym (E) po pozycji dotyczącej kwalifikacji E.31. dodaje się pozycje dotyczące kwalifikacji E.32., E.33., E.34. oraz E.35. w brzmieniu: „ E.32. Montaż i uruchamianie urządzeń automatyki przemysłowej 1. Montaż urządzeń i instalacji automatyki Uczeń: 1) rozpoznaje urządzenia na podstawie wyglądu, oznaczeń oraz określa ich funkcje i zastosowanie; 2) identyfikuje urządzenia na podstawie schematu i określa ich funkcje; 3) dobiera narzędzia do montażu urządzeń; 4) montuje urządzenia, uwzględniając warunki ich pracy; 5) wyznacza trasy kabli i przewodów elektrycznych na podstawie dokumentacji; 6) dobiera kable i przewody elektryczne do wykonania instalacji; 7) wykonuje połączenia elektryczne zamontowanych urządzeń; 8) rozpoznaje przyłącza procesowe i montuje urządzenia zgodnie z dokumentacją; 9) wykonuje pomiary parametrów elektrycznych kabli i przewodów instalacji; 10) diagnozuje stan techniczny kabli i przewodów instalacji; 11) wykonuje dokumentację powykonawczą. 2. Uruchamianie i obsługa urządzeń automatyki Uczeń: 1) określa wpływ mediów procesowych na pracę urządzeń; 2) programuje sterowniki PLC (Programmable Logic Controller); 3) konfiguruje parametry urządzeń na podstawie dokumentacji technicznej; 4) uruchamia instalację automatyki przemysłowej; 5) dobiera przyrządy do wykonania pomiarów sprawdzających w układach automatyki; 6) wykonuje pomiary parametrów instalacji zgodnie z dokumentacją techniczną; 7) ocenia zgodność uzyskanych pomiarów z dokumentacją techniczną; 8) ocenia poprawność pracy instalacji automatyki oraz wprowadza korekty; 9) prowadzi bieżącą dokumentację. E.33. Przeglądy, konserwacja, diagnostyka i naprawa instalacji automatyki przemysłowej 1. Przeglądy i konserwacja instalacji automatyki Uczeń: 1) określa zakres czynności obejmujących okresowe przeglądy oraz konserwację instalacji; 2) wykonuje okresowe przeglądy oraz konserwację instalacji na podstawie dokumentacji technicznej; 3) wykonuje pomiary parametrów instalacji zgodnie z dokumentacją techniczną oraz obowiązującymi przepisami; 4) przeprowadza testy urządzeń i instalacji zgodnie z wytycznymi zawartymi w dokumentacji technicznej; 5) odczytuje i analizuje informacje diagnostyczne; 6) ocenia stan techniczny urządzeń i instalacji automatyki; 7) wprowadza korekty w ustawieniach urządzeń na podstawie dokumentacji technicznej, wykonanych pomiarów i obserwacji; 8) przeprowadza konserwację instalacji zgodnie z dokumentacją techniczną; 9) prowadzi bieżącą dokumentację przeglądów i konserwacji. 2. Diagnostyka i naprawa instalacji automatyki Uczeń: 1) korzysta z dokumentacji technicznej urządzeń i instalacji; 2) dobiera metody i przyrządy do pomiaru standardowych sygnałów sterujących w instalacjach; 3) wykonuje pomiary sygnałów sterujących w instalacjach; 4) ocenia stan techniczny urządzeń i instalacji na podstawie wykonanych pomiarów i wytycznych zawartych w dokumentacji technicznej; 5) lokalizuje uszkodzenia instalacji; 6) określa rodzaj i zakres napraw instalacji; 7) dobiera narzędzia do wykonania napraw instalacji; 8) dobiera podzespoły do napraw instalacji; 9) wymienia uszkodzone urządzenia w obwodach automatyki; 10) sprawdza poprawność działania instalacji; 11) prowadzi bieżącą dokumentację napraw. E.34. Montaż i eksploatacja instalacji odbiorczych telewizji satelitarnej, kablowej i naziemnej 1. Montaż i uruchomienie instalacji telewizji satelitarnej, kablowej i naziemnej Uczeń: 1) określa funkcje i podstawowe parametry oraz zastosowanie urządzeń i elementów, posługując się właściwą terminologią; 2) rozpoznaje urządzenia i elementy na podstawie wyglądu, oznaczeń oraz symboli graficznych; 3) dobiera narzędzia do wykonania instalacji; 4) wyznacza trasy kabli zgodnie z dokumentacją lub samodzielnie z dostosowaniem do lokalnych warunków; 5) wykonuje montaż kabli i urządzeń; 6) wykonuje podłączenia urządzeń transmisyjnych; 7) sprawdza poprawność połączeń i uruchamia instalację; 8) montuje urządzenia odbiorcze telewizji naziemnej oraz satelitarnej; 9) uruchamia urządzenia odbiorcze telewizji naziemnej oraz satelitarnej; 10) montuje i uruchamia urządzenia abonenckie; 11) konfiguruje urządzenia abonenckie. 2. Administrowanie instalacjami telewizji satelitarnej, kablowej i naziemnej oraz ich konserwacja Uczeń: 1) określa wpływ różnych czynników na pracę instalacji; 2) charakteryzuje parametry pracy instalacji; 3) charakteryzuje zakres czynności dokonywanych podczas konserwacji; 4) wykonuje okresowe przeglądy instalacji; 5) dobiera przyrządy pomiarowe; 6) wykonuje pomiary parametrów instalacji; 7) wykonuje regulacje parametrów instalacji; 8) rozpoznaje i lokalizuje uszkodzenia instalacji; 9) prowadzi dokumentację prowadzonych czynności. 3. Naprawa instalacji telewizji satelitarnej, kablowej i naziemnej Uczeń: 1) posługuje się instrukcją serwisową urządzeń; 2) dobiera przyrządy do pomiaru parametrów instalacji; 3) diagnozuje pracę instalacji i urządzeń na podstawie obserwacji oraz analizy wyników pomiarów; 4) lokalizuje uszkodzenia instalacji; 5) określa rodzaj i zakres napraw instalacji i urządzeń; 6) dobiera narzędzia do wykonania napraw instalacji; 7) dokonuje napraw instalacji; 8) wymienia uszkodzone urządzenia i elementy instalacji; 9) kontroluje poprawność działania instalacji; 10) prowadzi dokumentację wykonanych napraw. E.35. Montaż i eksploatacja szerokopasmowych sieci rozległych 1. Montaż i uruchamianie zewnętrznych sieci szerokopasmowych Uczeń: 1) klasyfikuje media transmisyjne; 2) rozpoznaje konfiguracje i topologie sieci; 3) rozróżnia rodzaje transmisji z podziałem czasowym i częstotliwościowym; 4) charakteryzuje budowę oraz parametry sieci szerokopasmowych dla mediów transmisyjnych; 5) rozróżnia urządzenia, złącza i elementy oraz charakteryzuje ich parametry dla mediów transmisyjnych; 6) montuje urządzenia i elementy dla mediów transmisyjnych; 7) instaluje urządzenia zasilające i zabezpieczające; 8) uruchamia zewnętrzne sieci transmisyjne; 9) dobiera przyrządy i metody pomiaru parametrów pracy dla mediów transmisyjnych; 10) ocenia jakość montażu na podstawie uzyskanych wyników pomiarów i obowiązujących wymagań. 2. Administrowanie sieciami wchodzącymi w skład systemów sieci kablowych oraz ich konserwacja Uczeń: 1) rozróżnia rodzaje transmisji w kanale zwrotnym i dosyłowym; 2) dokonuje analizy parametrów łącza transmisji danych; 3) wykonuje pomiary parametrów sieci określających jakość transmisji; 4) wykonuje pomiary parametrów dla różnych transmisji; 5) konfiguruje usługi zgodnie z dokumentacją techniczną; 6) reguluje parametry urządzeń sieciowych; 7) monitoruje działanie sieci za pomocą standardowych testów; 8) rozpoznaje i lokalizuje uszkodzenia sieci; 9) organizuje prace konserwacyjne i naprawę sieci; 10) przestrzega zasad udostępniania i ochrony zasobów sieciowych. ” ,
-– w obszarze mechanicznym i górniczo-hutniczym (M) po pozycji dotyczącej kwalifikacji M.46. dodaje się pozycje dotyczące kwalifikacji M.47. oraz M.48. w brzmieniu: M.47. Montaż i obsługa maszyn i urządzeń przemysłu drzewnego 1. Montaż maszyn i urządzeń przemysłu drzewnego Uczeń: 1) określa funkcje, podstawowe parametry oraz rozwiązania konstrukcyjne maszyn i urządzeń do produkcji drzewnej; 2) posługuje się dokumentacją techniczną; 3) dobiera narzędzia i przyrządy do wykonywanych prac montażowych; 4) przygotowuje do montażu elementy maszyn i urządzeń do produkcji drzewnej; 5) posługuje się narzędziami, przyrządami i urządzeniami do montażu maszyn i urządzeń; 6) wykonuje czynności zgodnie z planem montażu; 7) wykonuje montaż linii produkcyjnych, maszyn i urządzeń do produkcji drzewnej; 8) ustawia podstawowe parametry maszyn, zespołów i mechanizmów; 9) ocenia jakość wykonanego montażu linii produkcyjnych, maszyn i urządzeń na podstawie uzyskanych wyników pomiarów i obowiązujących wymagań; 10) prowadzi dokumentację wykonanego montażu maszyn i urządzeń. 2. Obsługa maszyn i urządzeń przemysłu drzewnego Uczeń: 1) charakteryzuje procesy produkcyjne i eksploatacyjne w przetwórstwie drewna; 2) posługuje się dokumentacją techniczno-ruchową maszyn i urządzeń przemysłu drzewnego; 3) przestrzega zasad obsługi maszyn i urządzeń do produkcji wyrobów drzewnych; 4) stosuje surowce i materiały zgodnie z dokumentacją technologiczną; 5) posługuje się specjalistycznym sprzętem kontrolno-pomiarowym; 6) nadzoruje pracę maszyn i urządzeń do produkcji wyrobów drzewnych; 7) ocenia jakość otrzymanych wyrobów; 8) ocenia funkcjonowanie maszyn i urządzeń na podstawie jakości wytworzonych wyrobów; 9) prowadzi bieżącą dokumentację procesów produkcji wyrobów drzewnych. 3. Konserwacja, naprawa maszyn i urządzeń Uczeń: 1) rozróżnia maszyny i urządzenia do produkcji drzewnej; 2) charakteryzuje zakres czynności konserwacyjnych; 3) diagnozuje stan maszyn i urządzeń; 4) wykonuje konserwację maszyn i urządzeń; 5) określa przyczyny uszkodzeń maszyn i urządzeń; 6) wskazuje rodzaj i zakres napraw; 7) dobiera i stosuje narzędzia i materiały do prac konserwacyjnych, remontowych oraz napraw; 8) wykonuje naprawy elementów i zespołów maszyn i urządzeń; 9) dokonuje regulacji i próbnego uruchomienia maszyn i urządzeń; 10) ocenia jakość wykonanych prac; 11) prowadzi dokumentację wykonanych przeglądów, konserwacji, remontów i napraw. M.48. Wykonywanie robót szkutniczych 1. Wykonywanie elementów łodzi i jachtów Uczeń: 1) wykonuje pomiary między operacyjne i końcowe wykonanych elementów; 2) analizuje dokumentację wykonawczą; 3) dobiera materiały stosowane do produkcji elementów łodzi i jachtów; 4) dobiera maszyny, urządzenia i narzędzia do wykonywania elementów łodzi i jachtów; 5) stosuje szczególne zasady bezpieczeństwa podczas wykonywania prac z zastosowaniem materiałów do produkcji laminatów; 6) wykonuje i przygotowuje modele oraz formy do produkcji elementów łodzi i jachtów; 7) przygotowuje materiały do produkcji kadłubów i elementów wyposażenia; 8) obsługuje maszyny, urządzenia i posługuje się narzędziami do wykonywania elementów łodzi i jachtów; 9) wykonuje klejenie elementów z drewna litego, tworzyw drzewnych i tworzyw sztucznych oraz ich laminowanie; 10) ocenia stan techniczny elementów łodzi i jachtów; 11) wykonuje operacje korygujące wytworzonych elementów; 12) montuje elementy konstrukcyjne zgodnie z dokumentacją wykonawczą; 13) wykonuje wstępną konserwację łodzi i jachtów. 2. Montowanie wyposażenia łodzi i jachtów Uczeń: 1) posługuje się dokumentacją techniczną podczas montażu wyposażenia łodzi i jachtów; 2) identyfikuje elementy instalacji łodzi i jachtów; 3) określa funkcje poszczególnych instalacji na łodziach i jachtach; 4) mocuje elementy instalacji w łodziach i jachtach; 5) montuje elementy napędowe, sterujące i stabilizujące; 6) kompletuje na podstawie dokumentacji osprzęt pokładowy i żaglowy; 7) montuje osprzęt pokładowy, żaglowy i elementy wyposażenia łodzi i jachtu; 8) prowadzi dokumentację przebiegu montażu wyposażenia; 9) przeprowadza weryfikację wyposażenia jachtów i łodzi; 10) współpracuje ze specjalistami przy montażu wyposażenia. 3. Wykonywanie prac remontowych łodzi i jachtów Uczeń: 1) ocenia stan techniczny elementów łodzi i jachtów; 2) określa zakres koniecznych prac konserwacyjno-naprawczych; 3) wskazuje sposoby naprawy elementów; 4) dobiera materiały, urządzenia i narzędzia w celu dokonania prac konserwacyjno-naprawczych; 5) konserwuje elementy łodzi i jachtów; 6) wykonuje naprawy uszkodzonych elementów łodzi i jachtów; 7) wykonuje warstwy przeciwporostowe i antyosmozowe na kadłubie; 8) maluje kadłuby i elementy wyposażenia łodzi i jachtów; 9) diagnozuje stan osprzętu pokładowego, żaglowego i wyposażenia; 10) wymienia niesprawny osprzęt pokładowy, żaglowy i wyposażenie; 11) identyfikuje zagrożenia w czasie prac remontowych i przeciwdziała im. ” ,
+w obszarze elektryczno-elektronicznym (E) po pozycji dotyczącej kwalifikacji E.31. dodaje się pozycje dotyczące kwalifikacji E.32., E.33., E.34. oraz E.35. w brzmieniu: „ E.32. Montaż i uruchamianie urządzeń automatyki przemysłowej
+1.
+Montaż urządzeń i instalacji automatyki Uczeń:
+1)
+rozpoznaje urządzenia na podstawie wyglądu, oznaczeń oraz określa ich funkcje i zastosowanie;
+2)
+identyfikuje urządzenia na podstawie schematu i określa ich funkcje;
+3)
+dobiera narzędzia do montażu urządzeń;
+4)
+montuje urządzenia, uwzględniając warunki ich pracy;
+5)
+wyznacza trasy kabli i przewodów elektrycznych na podstawie dokumentacji;
+6)
+dobiera kable i przewody elektryczne do wykonania instalacji;
+7)
+wykonuje połączenia elektryczne zamontowanych urządzeń;
+8)
+rozpoznaje przyłącza procesowe i montuje urządzenia zgodnie z dokumentacją;
+9)
+wykonuje pomiary parametrów elektrycznych kabli i przewodów instalacji;
+10)
+diagnozuje stan techniczny kabli i przewodów instalacji;
+11)
+wykonuje dokumentację powykonawczą.
+2.
+Uruchamianie i obsługa urządzeń automatyki Uczeń:
+1)
+określa wpływ mediów procesowych na pracę urządzeń;
+2)
+programuje sterowniki PLC (Programmable Logic Controller);
+3)
+konfiguruje parametry urządzeń na podstawie dokumentacji technicznej;
+4)
+uruchamia instalację automatyki przemysłowej;
+5)
+dobiera przyrządy do wykonania pomiarów sprawdzających w układach automatyki;
+6)
+wykonuje pomiary parametrów instalacji zgodnie z dokumentacją techniczną;
+7)
+ocenia zgodność uzyskanych pomiarów z dokumentacją techniczną;
+8)
+ocenia poprawność pracy instalacji automatyki oraz wprowadza korekty;
+9)
+prowadzi bieżącą dokumentację. E.33. Przeglądy, konserwacja, diagnostyka i naprawa instalacji automatyki przemysłowej
+1.
+Przeglądy i konserwacja instalacji automatyki Uczeń:
+1)
+określa zakres czynności obejmujących okresowe przeglądy oraz konserwację instalacji;
+2)
+wykonuje okresowe przeglądy oraz konserwację instalacji na podstawie dokumentacji technicznej;
+3)
+wykonuje pomiary parametrów instalacji zgodnie z dokumentacją techniczną oraz obowiązującymi przepisami;
+4)
+przeprowadza testy urządzeń i instalacji zgodnie z wytycznymi zawartymi w dokumentacji technicznej;
+5)
+odczytuje i analizuje informacje diagnostyczne;
+6)
+ocenia stan techniczny urządzeń i instalacji automatyki;
+7)
+wprowadza korekty w ustawieniach urządzeń na podstawie dokumentacji technicznej, wykonanych pomiarów i obserwacji;
+8)
+przeprowadza konserwację instalacji zgodnie z dokumentacją techniczną;
+9)
+prowadzi bieżącą dokumentację przeglądów i konserwacji.
+2.
+Diagnostyka i naprawa instalacji automatyki Uczeń:
+1)
+korzysta z dokumentacji technicznej urządzeń i instalacji;
+2)
+dobiera metody i przyrządy do pomiaru standardowych sygnałów sterujących w instalacjach;
+3)
+wykonuje pomiary sygnałów sterujących w instalacjach;
+4)
+ocenia stan techniczny urządzeń i instalacji na podstawie wykonanych pomiarów i wytycznych zawartych w dokumentacji technicznej;
+5)
+lokalizuje uszkodzenia instalacji;
+6)
+określa rodzaj i zakres napraw instalacji;
+7)
+dobiera narzędzia do wykonania napraw instalacji;
+8)
+dobiera podzespoły do napraw instalacji;
+9)
+wymienia uszkodzone urządzenia w obwodach automatyki;
+10)
+sprawdza poprawność działania instalacji;
+11)
+prowadzi bieżącą dokumentację napraw. E.34. Montaż i eksploatacja instalacji odbiorczych telewizji satelitarnej, kablowej i naziemnej
+1.
+Montaż i uruchomienie instalacji telewizji satelitarnej, kablowej i naziemnej Uczeń:
+1)
+określa funkcje i podstawowe parametry oraz zastosowanie urządzeń i elementów, posługując się właściwą terminologią;
+2)
+rozpoznaje urządzenia i elementy na podstawie wyglądu, oznaczeń oraz symboli graficznych;
+3)
+dobiera narzędzia do wykonania instalacji;
+4)
+wyznacza trasy kabli zgodnie z dokumentacją lub samodzielnie z dostosowaniem do lokalnych warunków;
+5)
+wykonuje montaż kabli i urządzeń;
+6)
+wykonuje podłączenia urządzeń transmisyjnych;
+7)
+sprawdza poprawność połączeń i uruchamia instalację;
+8)
+montuje urządzenia odbiorcze telewizji naziemnej oraz satelitarnej;
+9)
+uruchamia urządzenia odbiorcze telewizji naziemnej oraz satelitarnej;
+10)
+montuje i uruchamia urządzenia abonenckie;
+11)
+konfiguruje urządzenia abonenckie.
+2.
+Administrowanie instalacjami telewizji satelitarnej, kablowej i naziemnej oraz ich konserwacja Uczeń:
+1)
+określa wpływ różnych czynników na pracę instalacji;
+2)
+charakteryzuje parametry pracy instalacji;
+3)
+charakteryzuje zakres czynności dokonywanych podczas konserwacji;
+4)
+wykonuje okresowe przeglądy instalacji;
+5)
+dobiera przyrządy pomiarowe;
+6)
+wykonuje pomiary parametrów instalacji;
+7)
+wykonuje regulacje parametrów instalacji;
+8)
+rozpoznaje i lokalizuje uszkodzenia instalacji;
+9)
+prowadzi dokumentację prowadzonych czynności.
+3.
+Naprawa instalacji telewizji satelitarnej, kablowej i naziemnej Uczeń:
+1)
+posługuje się instrukcją serwisową urządzeń;
+2)
+dobiera przyrządy do pomiaru parametrów instalacji;
+3)
+diagnozuje pracę instalacji i urządzeń na podstawie obserwacji oraz analizy wyników pomiarów;
+4)
+lokalizuje uszkodzenia instalacji;
+5)
+określa rodzaj i zakres napraw instalacji i urządzeń;
+6)
+dobiera narzędzia do wykonania napraw instalacji;
+7)
+dokonuje napraw instalacji;
+8)
+wymienia uszkodzone urządzenia i elementy instalacji;
+9)
+kontroluje poprawność działania instalacji;
+10)
+prowadzi dokumentację wykonanych napraw. E.35. Montaż i eksploatacja szerokopasmowych sieci rozległych
+1.
+Montaż i uruchamianie zewnętrznych sieci szerokopasmowych Uczeń:
+1)
+klasyfikuje media transmisyjne;
+2)
+rozpoznaje konfiguracje i topologie sieci;
+3)
+rozróżnia rodzaje transmisji z podziałem czasowym i częstotliwościowym;
+4)
+charakteryzuje budowę oraz parametry sieci szerokopasmowych dla mediów transmisyjnych;
+5)
+rozróżnia urządzenia, złącza i elementy oraz charakteryzuje ich parametry dla mediów transmisyjnych;
+6)
+montuje urządzenia i elementy dla mediów transmisyjnych;
+7)
+instaluje urządzenia zasilające i zabezpieczające;
+8)
+uruchamia zewnętrzne sieci transmisyjne;
+9)
+dobiera przyrządy i metody pomiaru parametrów pracy dla mediów transmisyjnych;
+10)
+ocenia jakość montażu na podstawie uzyskanych wyników pomiarów i obowiązujących wymagań.
+2.
+Administrowanie sieciami wchodzącymi w skład systemów sieci kablowych oraz ich konserwacja Uczeń:
+1)
+rozróżnia rodzaje transmisji w kanale zwrotnym i dosyłowym;
+2)
+dokonuje analizy parametrów łącza transmisji danych;
+3)
+wykonuje pomiary parametrów sieci określających jakość transmisji;
+4)
+wykonuje pomiary parametrów dla różnych transmisji;
+5)
+konfiguruje usługi zgodnie z dokumentacją techniczną;
+6)
+reguluje parametry urządzeń sieciowych;
+7)
+monitoruje działanie sieci za pomocą standardowych testów;
+8)
+rozpoznaje i lokalizuje uszkodzenia sieci;
+9)
+organizuje prace konserwacyjne i naprawę sieci;
+10)
+przestrzega zasad udostępniania i ochrony zasobów sieciowych. ” ,
+w obszarze mechanicznym i górniczo-hutniczym (M) po pozycji dotyczącej kwalifikacji M.46. dodaje się pozycje dotyczące kwalifikacji M.47. oraz M.48. w brzmieniu:
+M.47.
+Montaż i obsługa maszyn i urządzeń przemysłu drzewnego
+1.
+Montaż maszyn i urządzeń przemysłu drzewnego Uczeń:
+1)
+określa funkcje, podstawowe parametry oraz rozwiązania konstrukcyjne maszyn i urządzeń do produkcji drzewnej;
+2)
+posługuje się dokumentacją techniczną;
+3)
+dobiera narzędzia i przyrządy do wykonywanych prac montażowych;
+4)
+przygotowuje do montażu elementy maszyn i urządzeń do produkcji drzewnej;
+5)
+posługuje się narzędziami, przyrządami i urządzeniami do montażu maszyn i urządzeń;
+6)
+wykonuje czynności zgodnie z planem montażu;
+7)
+wykonuje montaż linii produkcyjnych, maszyn i urządzeń do produkcji drzewnej;
+8)
+ustawia podstawowe parametry maszyn, zespołów i mechanizmów;
+9)
+ocenia jakość wykonanego montażu linii produkcyjnych, maszyn i urządzeń na podstawie uzyskanych wyników pomiarów i obowiązujących wymagań;
+10)
+prowadzi dokumentację wykonanego montażu maszyn i urządzeń.
+2.
+Obsługa maszyn i urządzeń przemysłu drzewnego Uczeń:
+1)
+charakteryzuje procesy produkcyjne i eksploatacyjne w przetwórstwie drewna;
+2)
+posługuje się dokumentacją techniczno-ruchową maszyn i urządzeń przemysłu drzewnego;
+3)
+przestrzega zasad obsługi maszyn i urządzeń do produkcji wyrobów drzewnych;
+4)
+stosuje surowce i materiały zgodnie z dokumentacją technologiczną;
+5)
+posługuje się specjalistycznym sprzętem kontrolno-pomiarowym;
+6)
+nadzoruje pracę maszyn i urządzeń do produkcji wyrobów drzewnych;
+7)
+ocenia jakość otrzymanych wyrobów;
+8)
+ocenia funkcjonowanie maszyn i urządzeń na podstawie jakości wytworzonych wyrobów;
+9)
+prowadzi bieżącą dokumentację procesów produkcji wyrobów drzewnych.
+3.
+Konserwacja, naprawa maszyn i urządzeń Uczeń:
+1)
+rozróżnia maszyny i urządzenia do produkcji drzewnej;
+2)
+charakteryzuje zakres czynności konserwacyjnych;
+3)
+diagnozuje stan maszyn i urządzeń;
+4)
+wykonuje konserwację maszyn i urządzeń;
+5)
+określa przyczyny uszkodzeń maszyn i urządzeń;
+6)
+wskazuje rodzaj i zakres napraw;
+7)
+dobiera i stosuje narzędzia i materiały do prac konserwacyjnych, remontowych oraz napraw;
+8)
+wykonuje naprawy elementów i zespołów maszyn i urządzeń;
+9)
+dokonuje regulacji i próbnego uruchomienia maszyn i urządzeń;
+10)
+ocenia jakość wykonanych prac;
+11)
+prowadzi dokumentację wykonanych przeglądów, konserwacji, remontów i napraw. M.48. Wykonywanie robót szkutniczych
+1.
+Wykonywanie elementów łodzi i jachtów Uczeń:
+1)
+wykonuje pomiary między operacyjne i końcowe wykonanych elementów;
+2)
+analizuje dokumentację wykonawczą;
+3)
+dobiera materiały stosowane do produkcji elementów łodzi i jachtów;
+4)
+dobiera maszyny, urządzenia i narzędzia do wykonywania elementów łodzi i jachtów;
+5)
+stosuje szczególne zasady bezpieczeństwa podczas wykonywania prac z zastosowaniem materiałów do produkcji laminatów;
+6)
+wykonuje i przygotowuje modele oraz formy do produkcji elementów łodzi i jachtów;
+7)
+przygotowuje materiały do produkcji kadłubów i elementów wyposażenia;
+8)
+obsługuje maszyny, urządzenia i posługuje się narzędziami do wykonywania elementów łodzi i jachtów;
+9)
+wykonuje klejenie elementów z drewna litego, tworzyw drzewnych i tworzyw sztucznych oraz ich laminowanie;
+10)
+ocenia stan techniczny elementów łodzi i jachtów;
+11)
+wykonuje operacje korygujące wytworzonych elementów;
+12)
+montuje elementy konstrukcyjne zgodnie z dokumentacją wykonawczą;
+13)
+wykonuje wstępną konserwację łodzi i jachtów.
+2.
+Montowanie wyposażenia łodzi i jachtów Uczeń:
+1)
+posługuje się dokumentacją techniczną podczas montażu wyposażenia łodzi i jachtów;
+2)
+identyfikuje elementy instalacji łodzi i jachtów;
+3)
+określa funkcje poszczególnych instalacji na łodziach i jachtach;
+4)
+mocuje elementy instalacji w łodziach i jachtach;
+5)
+montuje elementy napędowe, sterujące i stabilizujące;
+6)
+kompletuje na podstawie dokumentacji osprzęt pokładowy i żaglowy;
+7)
+montuje osprzęt pokładowy, żaglowy i elementy wyposażenia łodzi i jachtu;
+8)
+prowadzi dokumentację przebiegu montażu wyposażenia;
+9)
+przeprowadza weryfikację wyposażenia jachtów i łodzi;
+10)
+współpracuje ze specjalistami przy montażu wyposażenia.
+3.
+Wykonywanie prac remontowych łodzi i jachtów Uczeń:
+1)
+ocenia stan techniczny elementów łodzi i jachtów;
+2)
+określa zakres koniecznych prac konserwacyjno-naprawczych;
+3)
+wskazuje sposoby naprawy elementów;
+4)
+dobiera materiały, urządzenia i narzędzia w celu dokonania prac konserwacyjno-naprawczych;
+5)
+konserwuje elementy łodzi i jachtów;
+6)
+wykonuje naprawy uszkodzonych elementów łodzi i jachtów;
+7)
+wykonuje warstwy przeciwporostowe i antyosmozowe na kadłubie;
+8)
+maluje kadłuby i elementy wyposażenia łodzi i jachtów;
+9)
+diagnozuje stan osprzętu pokładowego, żaglowego i wyposażenia;
+10)
+wymienia niesprawny osprzęt pokładowy, żaglowy i wyposażenie;
+11)
+identyfikuje zagrożenia w czasie prac remontowych i przeciwdziała im. ” ,
 – w obszarze medyczno-społecznym (Z) w pozycji dotyczącej kwalifikacji Z.22. wprowadzenie do części 2 otrzymuje brzmienie: „ Wykonywanie czynności ratowniczych podczas pożarów, klęsk żywiołowych i innych miejscowych zagrożeń ” ;
 3)
 w części III „Opis kształcenia w poszczególnych zawodach”:
 a)
-w obszarze elektryczno-elektronicznym (E) dla technikum po opisie kształcenia w zawodzie „Technik chłodnictwa i klimatyzacji 311929” dodaje się opisy kształcenia w zawodach „Technik automatyk 311909” oraz „Technik szerokopasmowej komunikacji elektronicznej 311412” w brzmieniu:
-„
-TECHNIK AUTOMATYK311909
+w obszarze elektryczno-elektronicznym (E) dla technikum po opisie kształcenia w zawodzie „Technik chłodnictwa i klimatyzacji 311929” dodaje się opisy kształcenia w zawodach „Technik automatyk 311909” oraz „Technik szerokopasmowej komunikacji elektronicznej 311412” w brzmieniu: „ TECHNIK AUTOMATYK311909
 1.
 CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie technik automatyk powinien być przygotowany do wykonywania następujących zadań zawodowych:
 1)
@@ -81,8 +479,7 @@ efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodzie techn
 3.
 WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie technik automatyk powinna posiadać następujące pomieszczenia dydaktyczne:
 1)
-pracownię elektrotechniki i elektroniki, wyposażoną w: stanowiska pomiarowe (jedno stanowisko dla dwóch uczniów); zasilacze stabilizowane napięcia stałego, zadajniki stanów logicznych, generatory funkcyjne; przyrządy pomiarowe analogowe i cyfrowe; oscyloskopy; zestawy elementów elektrycznych i elektronicznych; przewody i kable elektryczne; trenażery z układami elektrycznymi i elektronicznymi przysto
-sowane do pomiarów parametrów elektrycznych; autotransformatory, transformatory jednofazowe; przekaźniki i styczniki, łączniki i przełączniki, wskaźniki, sygnalizatory; silniki elektryczne małej mocy; stanowiska komputerowe (jedno stanowisko dla dwóch uczniów) z oprogramowaniem umożliwiającym symulację i rejestrację pracy układów elektrycznych i elektronicznych;
+pracownię elektrotechniki i elektroniki, wyposażoną w: stanowiska pomiarowe (jedno stanowisko dla dwóch uczniów); zasilacze stabilizowane napięcia stałego, zadajniki stanów logicznych, generatory funkcyjne; przyrządy pomiarowe analogowe i cyfrowe; oscyloskopy; zestawy elementów elektrycznych i elektronicznych; przewody i kable elektryczne; trenażery z układami elektrycznymi i elektronicznymi przysto sowane do pomiarów parametrów elektrycznych; autotransformatory, transformatory jednofazowe; przekaźniki i styczniki, łączniki i przełączniki, wskaźniki, sygnalizatory; silniki elektryczne małej mocy; stanowiska komputerowe (jedno stanowisko dla dwóch uczniów) z oprogramowaniem umożliwiającym symulację i rejestrację pracy układów elektrycznych i elektronicznych;
 2)
 pracownię pomiarów przemysłowych, wyposażoną w: stanowiska pomiarowe (jedno stanowisko dla dwóch uczniów); przyrządy pomiarowe umożliwiające pomiary: wielkości elektrycznych- stanu izolacji, ciągłości obwodów elektrycznych, rezystancji, natężenia prądu, napięcia, zawartości harmonicznych; wielkości nieelektrycznych – temperatury, ciśnienia, naprężeń, siły, masy, drgań, poziomu, przepływu, przemieszczenia liniowego i kątowego; oprogramowanie do obróbki i archiwizacji wyników pomiarów;
 3)
@@ -90,10 +487,11 @@ pracownię urządzeń i układów automatyki, wyposażoną w: stanowiska pomiaro
 4)
 pracownię sterowników programowalnych, wyposażoną w: stanowiska z instalacjami zawierającymi sterowniki Programmable Logic Controller (jedno stanowisko dla dwóch uczniów) umożliwiające programowanie sterowników Programmable Logic Controller i diagnostykę instalacji wyposażonych w sterowniki Programmable Logic Controller; stanowiska komputerowe (jedno stanowisko dla dwóch uczniów) z oprogramowaniem zgodnym z normą do programowania sterowników Programmable Logic Controller; zestawy z treningowymi instalacjami zawierającymi sterowniki Programmable Logic Controller;
 5)
-pracownię symulacji procesów automatyki, wyposażoną w: stanowiska komputerowe umożliwiające obserwację i analizę zależności między właściwościami mediów wykorzystywanych w procesie technologicznym – temperatura, ciśnienie, przepływ, poziom medium.
-Ponadto pracownia powinna być wyposażona w: komputer, komunikator lub modem obsługujący protokół HART, przetworniki temperatury, ciśnienia, przepływu, poziomu, urządzenia wykonawcze, zawory dwustanowe, zawory regulacyjne, pompki, sygnalizatory; stanowiska do symulacji procesów technologicznych, takich jak utrzymanie poziomu medium w zbiorniku, pomiar ciśnienia, regulacja temperatury. Każda pracownia powinna być zasilana napięciem 230/400 V prądu przemiennego, zabezpieczona ochroną przeciwporażeniową oraz wyposażona w wyłączniki bezpieczeństwa i centralny wyłącznik bezpieczeństwa, a także w stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką i ze skanerem oraz z projektorem multimedialnym. Kształcenie praktyczne może odbywać się w: pracowniach szkolnych, placówkach kształcenia praktycznego, placówkach kształcenia ustawicznego oraz podmiotach stanowiących potencjalne miejsca zatrudnienia absolwentów szkół kształcących w zawodzie. Szkoła organizuje praktyki zawodowe w podmiocie lub pracowniach symulacyjnych, zapewniających rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 4 tygodni (160 godzin).
+pracownię symulacji procesów automatyki, wyposażoną w: stanowiska komputerowe umożliwiające obserwację i analizę zależności między właściwościami mediów wykorzystywanych w procesie technologicznym – temperatura, ciśnienie, przepływ, poziom medium. Ponadto pracownia powinna być wyposażona w: komputer, komunikator lub modem obsługujący protokół HART, przetworniki temperatury, ciśnienia, przepływu, poziomu, urządzenia wykonawcze, zawory dwustanowe, zawory regulacyjne, pompki, sygnalizatory; stanowiska do symulacji procesów technologicznych, takich jak utrzymanie poziomu medium w zbiorniku, pomiar ciśnienia, regulacja temperatury. Każda pracownia powinna być zasilana napięciem 230/400 V prądu przemiennego, zabezpieczona ochroną przeciwporażeniową oraz wyposażona w wyłączniki bezpieczeństwa i centralny wyłącznik bezpieczeństwa, a także w stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką i ze skanerem oraz z projektorem multimedialnym. Kształcenie praktyczne może odbywać się w: pracowniach szkolnych, placówkach kształcenia praktycznego, placówkach kształcenia ustawicznego oraz podmiotach stanowiących potencjalne miejsca zatrudnienia absolwentów szkół kształcących w zawodzie. Szkoła organizuje praktyki zawodowe w podmiocie lub pracowniach symulacyjnych, zapewniających rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 4 tygodni (160 godzin).
 4.
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. E.32. Montaż i uruchamianie urządzeń automatyki przemysłowej 560 godz. E.33. Przeglądy, konserwacja, diagnostyka i naprawa instalacji automatyki przemysłowej 390 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. TECHNIK SZEROKOPASMOWEJ KOMUNIKACJI ELEKTRONICZNEJ311412
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. E.32. Montaż i uruchamianie urządzeń automatyki przemysłowej 560 godz. E.33. Przeglądy, konserwacja, diagnostyka i naprawa instalacji automatyki przemysłowej 390 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. TECHNIK SZEROKOPASMOWEJ KOMUNIKACJI ELEKTRONICZNEJ311412
 1.
 CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie technik szerokopasmowej komunikacji elektronicznej powinien być przygotowany do wykonywania następujących zadań zawodowych:
 1)
@@ -121,21 +519,87 @@ WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w z
 1)
 pracownię elektrotechniki i elektroniki, wyposażoną w: stanowiska pomiarowe (jedno stanowisko dla dwóch uczniów), zasilane napięciem 230/400 V prądu przemiennego, zabezpieczone ochroną przeciwporażeniową, wyposażone w wyłączniki awaryjne i wyłącznik awaryjny centralny; zasilacze stabilizowane napięcia stałego, zadajniki stanów logicznych, generatory funkcyjne; przyrządy pomiarowe analogowe i cyfrowe; oscyloskopy; zestawy elementów elektrycznych i elektronicznych; przewody i kable elektryczne; trenażery z układami elektrycznymi i elektronicznymi przystosowane do pomiarów parametrów; autotransformatory, transformatory jednofazowe; przekaźniki i styczniki, łączniki, wskaźniki, sygnalizatory; silniki elektryczne małej mocy; stanowiska komputerowe (jedno stanowisko dla dwóch uczniów) z oprogramowaniem umożliwiającym symulację pracy układów elektrycznych i elektronicznych;
 2)
-pracownię instalacji systemów odbiorczych telewizji satelitarnej i naziemnej oraz sieci kablowej, wyposażoną w: stanowiska laboratoryjne (jedno stanowisko dla dwóch uczniów) zasilane napięciem 230/400 V prądu przemiennego, zabezpieczone ochroną przeciwporażeniową, wyposażone w wyłączniki awaryjne i wyłącznik awaryjny centralny, umożliwiające instalowanie, uruchamianie i eksploatację instalacji antenowych.
-Ponadto każde stanowisko powinno być wyposażone w: urządzenia pracujące w zakresie częstotliwości radiowych telewizyjnych i satelitarnych oraz kanału zwrotnego w sieciach kablowych: antenę pasywną, antenę aktywną, nadajniki i odbiorniki optyczne; wzmacniacze, zasilacze; filtry pasmowe, multiswitche, modulatory analogowe i cyfrowe, tłumiki, rozgałęźniki aktywne i pasywne, gniazda abonenckie, mierniki sygnału TV naziemnej, satelitarnej i kablowej; urządzenia odbiorcze abonenckie, odbiornik telewizyjny i komputer; rutery, przełączniki; kable i złącza;
+pracownię instalacji systemów odbiorczych telewizji satelitarnej i naziemnej oraz sieci kablowej, wyposażoną w: stanowiska laboratoryjne (jedno stanowisko dla dwóch uczniów) zasilane napięciem 230/400 V prądu przemiennego, zabezpieczone ochroną przeciwporażeniową, wyposażone w wyłączniki awaryjne i wyłącznik awaryjny centralny, umożliwiające instalowanie, uruchamianie i eksploatację instalacji antenowych. Ponadto każde stanowisko powinno być wyposażone w: urządzenia pracujące w zakresie częstotliwości radiowych telewizyjnych i satelitarnych oraz kanału zwrotnego w sieciach kablowych: antenę pasywną, antenę aktywną, nadajniki i odbiorniki optyczne; wzmacniacze, zasilacze; filtry pasmowe, multiswitche, modulatory analogowe i cyfrowe, tłumiki, rozgałęźniki aktywne i pasywne, gniazda abonenckie, mierniki sygnału TV naziemnej, satelitarnej i kablowej; urządzenia odbiorcze abonenckie, odbiornik telewizyjny i komputer; rutery, przełączniki; kable i złącza;
 3)
-pracownię systemów światłowodowych, wyposażoną w: stanowiska laboratoryjne (jedno stanowisko dla dwóch uczniów) zasilane napięciem 230/400 V prądu przemiennego, zabezpieczone ochroną przeciwporażeniową, wyposażone w wyłączniki awaryjne i wyłącznik awaryjny centralny, do obróbki światłowodów wraz z zestawem niezbędnych narzędzi, jedno stanowisko do łączenia światłowodów wyposażone w spawarkę światłowodową wraz z osprzętem, jedno stanowisko pomiarowe składające się z: reflektometru optycznego, nadajnik optyczny, odbiornik optyczny; patchcordy, pigtaile, adaptery światłowodowe dla sieci jednomodowych i wielomodowych; przełącznice stacyjne; szafa serwerowa z osprzętem; mufy światłowodowe z osprzętem, kable światłowodowe z elementami do wykonania połączeń.
-Każda pracownia powinna być wyposażona w stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką i ze skanerem oraz z projektorem multimedialnym. Kształcenie praktyczne może odbywać się w: pracowniach szkolnych, placówkach kształcenia praktycznego, placówkach kształcenia ustawicznego oraz podmiotach stanowiących potencjalne miejsca zatrudnienia absolwentów szkół kształcących w zawodzie. Szkoła organizuje praktyki zawodowe w podmiocie lub pracowniach symulacyjnych, zapewniających rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 4 tygodni (160 godzin).
+pracownię systemów światłowodowych, wyposażoną w: stanowiska laboratoryjne (jedno stanowisko dla dwóch uczniów) zasilane napięciem 230/400 V prądu przemiennego, zabezpieczone ochroną przeciwporażeniową, wyposażone w wyłączniki awaryjne i wyłącznik awaryjny centralny, do obróbki światłowodów wraz z zestawem niezbędnych narzędzi, jedno stanowisko do łączenia światłowodów wyposażone w spawarkę światłowodową wraz z osprzętem, jedno stanowisko pomiarowe składające się z: reflektometru optycznego, nadajnik optyczny, odbiornik optyczny; patchcordy, pigtaile, adaptery światłowodowe dla sieci jednomodowych i wielomodowych; przełącznice stacyjne; szafa serwerowa z osprzętem; mufy światłowodowe z osprzętem, kable światłowodowe z elementami do wykonania połączeń. Każda pracownia powinna być wyposażona w stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką i ze skanerem oraz z projektorem multimedialnym. Kształcenie praktyczne może odbywać się w: pracowniach szkolnych, placówkach kształcenia praktycznego, placówkach kształcenia ustawicznego oraz podmiotach stanowiących potencjalne miejsca zatrudnienia absolwentów szkół kształcących w zawodzie. Szkoła organizuje praktyki zawodowe w podmiocie lub pracowniach symulacyjnych, zapewniających rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 4 tygodni (160 godzin).
 4.
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. E.34. Montaż i eksploatacja instalacji odbiorczych telewizji satelitarnej, kablowej i naziemnej 560 godz. E.35. Montaż i eksploatacja szerokopasmowych sieci rozległych 390 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie.
-” ,
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. E.34. Montaż i eksploatacja instalacji odbiorczych telewizji satelitarnej, kablowej i naziemnej 560 godz. E.35. Montaż i eksploatacja szerokopasmowych sieci rozległych 390 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
 b)
 w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej:
-– po opisie kształcenia w zawodzie „Mechanik-operator pojazdów i maszyn rolniczych 834103” dodaje się opis kształcenia w zawodzie „Mechanik-operator maszyn do produkcji drzewnej 817212” w brzmieniu: „ MECHANIK-OPERATOR MASZYN DO PRODUKCJI DRZEWNEJ817212 1. CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie mechanik-operator maszyn do produkcji drzewnej powinien być przygotowany do wykonywania następujących zadań zawodowych: 1) montowania maszyn i urządzeń do produkcji drzewnej; 2) kontrolowania i nadzorowania pracy maszyn i urządzeń do produkcji drzewnej; 3) obsługiwania maszyn i urządzeń, stosowanych w procesie produkcji materiałów drzewnych; 4) prowadzenia bieżącej kontroli jakości surowców i produktów; 5) wykonywania przeglądów i konserwacji maszyn i urządzeń. 2. EFEKTY KSZTAŁCENIA Do wykonywania wyżej wymienionych zadań zawodowych niezbędne jest osiągnięcie zakładanych efektów kształcenia, na które składają się: 1) efekty kształcenia wspólne dla wszystkich zawodów; 2) efekty kształcenia wspólne dla zawodów w ramach obszaru administracyjno-usługowego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(A.g) oraz efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(M.a) i PKZ(M.b); 3) efekty kształcenia właściwe dla kwalifikacji wyodrębnionej w zawodzie mechanik-operator maszyn do produkcji drzewnej opisane w części II: M.47. Montaż i obsługa maszyn i urządzeń przemysłu drzewnego. 3. WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie mechanik-operator maszyn do produkcji drzewnej powinna posiadać następujące pomieszczenia dydaktyczne: 1) pracownię rysunku technicznego, wyposażoną w: stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia), drukarki ze skanerem (po jednym urządzeniu na cztery stanowiska komputerowe), pakiet programów biurowych, programy komputerowego wspomagania projektowania (Computer Aided Design), projektor multimedialny; program do wykonywania rysunku technicznego, pomoce dydaktyczne do kształtowania wyobraźni przestrzennej, normy dotyczące zasad wykonywania rysunku technicznego maszynowego; modele figur i brył geometrycznych, dokumentacje konstrukcyjne, części maszyn i mechanizmów; połączenia stolarskie, łączniki, okucia i akcesoria, modele podzespołów oraz wyrobów z drewna i tworzyw drzewnych, modele podstawowych typów konstrukcji, modele opakowań, rysunki złożeniowe i wykonawcze wyrobów stolarskich, dokumentacje techniczne maszyn i podzespołów, katalogi i prospekty wyrobów stolarskich, okuć i akcesoriów, stanowiska kreślarskie (jedno stanowisko dla dwóch uczniów); 2) pracownię materiałoznawstwa i technologii przetwarzania drewna, wyposażoną w: zestawy próbek różnych gatunków drewna, materiałów drzewnych, tworzyw drzewnych, klejów i substancji dodatkowych, materiałów do zabezpieczania i uszlachetniania powierzchni; modele połączeń elementów z drewna i tworzyw drzewnych, suszarek, wyrobów z drewna i tworzyw drzewnych, opakowań, połączeń stolarskich, konstrukcji i podzespołów; detale, okucia i łączniki, przyrządy, aparaturę i urządzenia do badania drewna i tworzyw drzewnych, aparaturę do badania powłok wykończeniowych, przyrządy do pomiaru: wilgotności, pH, lepkości, gęstości, katalogi wyrobów z drewna i tworzyw drzewnych, tablice i diagramy dotyczące suszarnictwa, hydrotermicznej i plastycznej obróbki drewna, schematy maszyn i urządzeń do przetwarzania drewna, schematy procesów technologicznych, dokumentacje technologiczne, normy dotyczące przetwarzania drewna oraz wykonywania wyrobów z drewna i tworzyw drzewnych, oprogramowanie do komputerowego wspomagania procesów technologicznych; modele, przekroje, atrapy maszyn i urządzeń, elementy układów hydraulicznych i pneumatycznych, próbki materiałów konstrukcyjnych i eksploatacyjnych, narzędzia i przyrządy pomiarowe, elementy maszyn i urządzeń; narzędzia do montażu; dokumentację techniczną oraz katalogi maszyn i narzędzi, instrukcje obsługi maszyn i urządzeń; 3) stanowiska warsztatowe, wyposażone w: maszyny i urządzenia, stoły ślusarskie (jeden stół dla jednego ucznia), urządzenia i przyrządy do prac montażowych, urządzenia dźwigowe i transportu wewnętrznego, narzędzia i urządzenia do mycia i konserwacji, prasy montażowe z oprzyrządowaniem (jedna prasa dla czterech uczniów), wiertarkę stołową, szlifierkę, ostrzałkę, przyrządy traserskie, przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia monterskie, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczne i ruchowe maszyn i urządzeń, środki ochrony indywidualnej; elementy i modele wyrobów stolarskich, narzędzia, maszyny i urządzenia do ręcznej i maszynowej obróbki drewna i tworzyw drzewnych, obróbki hydrotermicznej i plastycznej, prac wykończeniowych i montażowych, przyrządy i uchwyty obróbkowe, aparaturę i narzędzia kontrolno-pomiarowe, schematy części maszyn i urządzeń, rysunki ostrzy narzędzi, parametry kątowe narzędzi, instalację sprężonego powietrza, instalację odwirowywania, oprzyrządowanie obróbkowe, narzędzia i urządzenia montażowe, instrukcje technologiczne i stanowiskowe, instrukcje obsługi maszyn i urządzeń, katalogi i materiały informacyjne przedsiębiorstw produkujących narzędzia, oprzyrządowanie, obrabiarki i urządzenia, schematy procesów technologicznych i specjalistyczny sprzęt kontrolno-pomiarowy stosowany w produkcji drzewnej. Każda pracownia powinna być zasilana napięciem 230/400 V prądu przemiennego, zabezpieczona ochroną przeciwporażeniową, wyposażona w wyłączniki awaryjne i wyłącznik awaryjny centralny oraz w stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką i ze skanerem oraz z projektorem multimedialnym, a także w pojemniki do selektywnej zbiórki odpadów. Kształcenie praktyczne może odbywać się w: pracowniach, warsztatach szkolnych, placówkach kształcenia praktycznego, placówkach kształcenia ustawicznego oraz podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie. 4. MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów oraz efekty kształcenia wspólne dla zawodów w ramach obszaru administracyjno-usługowego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. M.47. Montaż i obsługa maszyn i urządzeń przemysłu drzewnego 600 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
-– po opisie kształcenia w zawodzie „Monter systemów rurociągowych 712613” dodaje się opis kształcenia w zawodzie „Szkutnik 711504” w brzmieniu: „ SZKUTNIK 711504 1. CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie szkutnik powinien być przygotowany do wykonywania następujących zadań zawodowych: 1) wykonanie modeli, form poszczególnych elementów łodzi i jachtu zgodnych z wymiarami projektowymi; 2) wykonanie elementów łodzi i jachtu; 3) montowanie elementów konstrukcyjnych, osprzętu pokładowego, żaglowego oraz wyposażenia; 4) wykonywania prac remontowych i konserwacyjnych łodzi i jachtów; 5) mocowanie elementów instalacji łodzi i jachtów. 2. EFEKTY KSZTAŁCENIA Do wykonywania wyżej wymienionych zadań zawodowych niezbędne jest osiągnięcie zakładanych efektów kształcenia, na które składają się: 1) efekty kształcenia wspólne dla wszystkich zawodów; 2) efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(M.a) i PKZ(M.p); 3) efekty kształcenia właściwe dla kwalifikacji wyodrębnionej w zawodzie szkutnik opisane w części II: M.48. Wykonywanie robót szkutniczych. 3. WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie szkutnik powinna posiadać następujące pomieszczenia dydaktyczne: 1) pracownię rysunku technicznego, wyposażoną w: stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia), drukarki, skanery i plotery (po jednym urządzeniu na cztery stanowiska komputerowe), pakiet programów biurowych, programy komputerowego wspomagania projektowania (Computer Aided Design); program do wykonywania rysunku technicznego, pomoce dydaktyczne do kształtowania wyobraźni przestrzennej, normy dotyczące zasad wykonywania rysunku technicznego; modele figur i brył geometrycznych, dokumentacje konstrukcyjne, części maszyn i mechanizmów; połączenia stolarskie, łączniki, okucia i akcesoria, modele podzespołów oraz wyrobów z drewna i tworzyw drzewnych, modele podstawowych typów konstrukcji, opakowań, rysunki złożeniowe i wykonawcze wyrobów stolarskich, dokumentacje techniczne maszyn i podzespołów, katalogi i prospekty wyrobów stolarskich, okuć i akcesoriów, stanowiska kreślarskie (jedno stanowisko dla dwóch uczniów); 2) pracownię technologii, wyposażoną w: zestawy próbek różnych gatunków drewna, materiałów drzewnych, tworzyw drzewnych, tworzyw sztucznych oraz materiałów służących do wytwarzania laminatów, klejów, substancji dodatkowych, materiałów do zabezpieczania i uszlachetniania powierzchni; modele, przekroje: połączeń elementów, konstrukcji i podzespołów; detale, okucia i łączniki; przyrządy, aparaturę do badania powłok wykończeniowych, przyrządy do pomiarów: geometrycznych, wilgotności, pH, lepkości, gęstości; elementy układów hydraulicznych, pneumatycznych, elektrycznych i gazowych; próbki materiałów konstrukcyjnych i eksploatacyjnych; elementy maszyn i urządzeń; katalogi wyrobów z drewna, tworzyw drzewnych oraz tworzyw sztucznych; schematy procesów technologicznych, dokumentacje techniczną; instrukcje obsługi maszyn i urządzeń; 3) pracownię wytwarzania laminatów, wyposażoną w: instalację oświetleniową w wykonaniu przeciwwybuchowym; pompę próżniową wraz z instalacją do infuzji próżniowej; instalację wentylacyjną, instalację sprężonego powietrza; oraz w stanowiska do ćwiczeń praktycznych (jedno stanowisko dla dwóch uczniów) wyposażone w: modele i formy; zestawy narzędzi do laminowania ręcznego; nożyce; wagi: przemysłową i laboratoryjną; ręczne narzędzia do obróbki drewna; narzędzia pneumatyczne: szlifierka, polerka, wiertarka, frezarka; zestawy pojemników; pistolety natryskowe, wałki, pędzle; materiały do wykonywania modeli i form; materiały do laminacji; sprzęt do mycia i czyszczenia; środki ochrony indywidualnej; wydzielone pomieszczenie na niebezpieczne materiały wykorzystywane przy produkcji; dokumentację produkcyjną jachtów i łodzi; 4) pracownię obróbki laminatów, wyposażoną w: instalację elektryczną zasilaną napięciem 230/400 V prądu przemiennego, zabezpieczoną ochroną przeciwporażeniową, wyposażoną w wyłączniki awaryjne i wyłącznik awaryjny centralny; instalację sprężonego powietrza; instalację wentylacyjną; oraz stanowiska do ćwiczeń praktycznych (jedno stanowisko dla dwóch uczniów), wyposażone w: elektronarzędzia ręczne: wiertarki, frezarki, szlifierki, polerki, opalarki wraz z osprzętem; narzędzia pomiarowe; narzędzia ręczne; sprzęt do mycia, czyszczenia i odpylania; zestawy do nakładania warstw ochronnych; zestawy pojemników; pistolety natryskowe, wałki, pędzle; wagę przemysłową i laboratoryjną; materiały do: czyszczenia, szlifowania, polerowania, malowania i konserwowania; środki ochrony indywidualnej; dokumentację produkcyjną jachtów i łodzi; 5) pracownię montażu osprzętu i wyposażenia, wyposażoną w: instalację elektryczną zasilaną napięciem 230/400 V prądu przemiennego, zabezpieczoną ochroną przeciwporażeniową, wyposażoną w wyłączniki awaryjne i wyłącznik awaryjny centralny; instalację wentylacyjną; stanowiska montażu (jedno stanowisko dla dwóch uczniów), wyposażone w: elektronarzędzia ręczne: wiertarki, frezarki, wyrzynarki wraz z osprzętem; narzędzia pomiarowe; narzędzia ręczne; zestawy kluczy, wkrętaków, narzynki i gwintowniki; materiały ścierne, materiały uszczelniające; elementy złączne; przykładowe elementy osprzętu pokładowego i żaglowego; przykładowe elementy instalacji: wodnych, elektrycznych, hydraulicznych, gazowych i paliwowych; przykładowe wyposażenie wnętrza jachtu; środki ochrony indywidualnej; wózek ręczny do transportu obrabianych elementów; oraz stanowiska warsztatowe (jedno stanowisko dla sześciu osób), wyposażone w stół ślusarski, imadło, wiertarkę stołową, szlifierkę ostrzałkę, narzędzia do obróbki ręcznej skrawaniem, urządzenia i przyrządy do prac montażowych, przyrządy traserskie, sprzęt do mycia i czyszczenia; środki ochrony indywidualnej; dokumentację produkcyjną jachtów i łodzi. Każda pracownia powinna być wyposażona w stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką i ze skanerem oraz z projektorem multimedialnym oraz w pojemniki do selektywnej zbiórki odpadów. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia praktycznego, placówkach kształcenia ustawicznego oraz podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie. 4. MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów oraz efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 550 godz. M.48. Wykonywanie robót szkutniczych 600 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
+po opisie kształcenia w zawodzie „Mechanik-operator pojazdów i maszyn rolniczych 834103” dodaje się opis kształcenia w zawodzie „Mechanik-operator maszyn do produkcji drzewnej 817212” w brzmieniu: „ MECHANIK-OPERATOR MASZYN DO PRODUKCJI DRZEWNEJ817212
+1.
+CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie mechanik-operator maszyn do produkcji drzewnej powinien być przygotowany do wykonywania następujących zadań zawodowych:
+1)
+montowania maszyn i urządzeń do produkcji drzewnej;
+2)
+kontrolowania i nadzorowania pracy maszyn i urządzeń do produkcji drzewnej;
+3)
+obsługiwania maszyn i urządzeń, stosowanych w procesie produkcji materiałów drzewnych;
+4)
+prowadzenia bieżącej kontroli jakości surowców i produktów;
+5)
+wykonywania przeglądów i konserwacji maszyn i urządzeń.
+2.
+EFEKTY KSZTAŁCENIA Do wykonywania wyżej wymienionych zadań zawodowych niezbędne jest osiągnięcie zakładanych efektów kształcenia, na które składają się:
+1)
+efekty kształcenia wspólne dla wszystkich zawodów;
+2)
+efekty kształcenia wspólne dla zawodów w ramach obszaru administracyjno-usługowego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(A.g) oraz efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(M.a) i PKZ(M.b);
+3)
+efekty kształcenia właściwe dla kwalifikacji wyodrębnionej w zawodzie mechanik-operator maszyn do produkcji drzewnej opisane w części II: M.47. Montaż i obsługa maszyn i urządzeń przemysłu drzewnego.
+3.
+WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie mechanik-operator maszyn do produkcji drzewnej powinna posiadać następujące pomieszczenia dydaktyczne:
+1)
+pracownię rysunku technicznego, wyposażoną w: stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia), drukarki ze skanerem (po jednym urządzeniu na cztery stanowiska komputerowe), pakiet programów biurowych, programy komputerowego wspomagania projektowania (Computer Aided Design), projektor multimedialny; program do wykonywania rysunku technicznego, pomoce dydaktyczne do kształtowania wyobraźni przestrzennej, normy dotyczące zasad wykonywania rysunku technicznego maszynowego; modele figur i brył geometrycznych, dokumentacje konstrukcyjne, części maszyn i mechanizmów; połączenia stolarskie, łączniki, okucia i akcesoria, modele podzespołów oraz wyrobów z drewna i tworzyw drzewnych, modele podstawowych typów konstrukcji, modele opakowań, rysunki złożeniowe i wykonawcze wyrobów stolarskich, dokumentacje techniczne maszyn i podzespołów, katalogi i prospekty wyrobów stolarskich, okuć i akcesoriów, stanowiska kreślarskie (jedno stanowisko dla dwóch uczniów);
+2)
+pracownię materiałoznawstwa i technologii przetwarzania drewna, wyposażoną w: zestawy próbek różnych gatunków drewna, materiałów drzewnych, tworzyw drzewnych, klejów i substancji dodatkowych, materiałów do zabezpieczania i uszlachetniania powierzchni; modele połączeń elementów z drewna i tworzyw drzewnych, suszarek, wyrobów z drewna i tworzyw drzewnych, opakowań, połączeń stolarskich, konstrukcji i podzespołów; detale, okucia i łączniki, przyrządy, aparaturę i urządzenia do badania drewna i tworzyw drzewnych, aparaturę do badania powłok wykończeniowych, przyrządy do pomiaru: wilgotności, pH, lepkości, gęstości, katalogi wyrobów z drewna i tworzyw drzewnych, tablice i diagramy dotyczące suszarnictwa, hydrotermicznej i plastycznej obróbki drewna, schematy maszyn i urządzeń do przetwarzania drewna, schematy procesów technologicznych, dokumentacje technologiczne, normy dotyczące przetwarzania drewna oraz wykonywania wyrobów z drewna i tworzyw drzewnych, oprogramowanie do komputerowego wspomagania procesów technologicznych; modele, przekroje, atrapy maszyn i urządzeń, elementy układów hydraulicznych i pneumatycznych, próbki materiałów konstrukcyjnych i eksploatacyjnych, narzędzia i przyrządy pomiarowe, elementy maszyn i urządzeń; narzędzia do montażu; dokumentację techniczną oraz katalogi maszyn i narzędzi, instrukcje obsługi maszyn i urządzeń;
+3)
+stanowiska warsztatowe, wyposażone w: maszyny i urządzenia, stoły ślusarskie (jeden stół dla jednego ucznia), urządzenia i przyrządy do prac montażowych, urządzenia dźwigowe i transportu wewnętrznego, narzędzia i urządzenia do mycia i konserwacji, prasy montażowe z oprzyrządowaniem (jedna prasa dla czterech uczniów), wiertarkę stołową, szlifierkę, ostrzałkę, przyrządy traserskie, przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia monterskie, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczne i ruchowe maszyn i urządzeń, środki ochrony indywidualnej; elementy i modele wyrobów stolarskich, narzędzia, maszyny i urządzenia do ręcznej i maszynowej obróbki drewna i tworzyw drzewnych, obróbki hydrotermicznej i plastycznej, prac wykończeniowych i montażowych, przyrządy i uchwyty obróbkowe, aparaturę i narzędzia kontrolno-pomiarowe, schematy części maszyn i urządzeń, rysunki ostrzy narzędzi, parametry kątowe narzędzi, instalację sprężonego powietrza, instalację odwirowywania, oprzyrządowanie obróbkowe, narzędzia i urządzenia montażowe, instrukcje technologiczne i stanowiskowe, instrukcje obsługi maszyn i urządzeń, katalogi i materiały informacyjne przedsiębiorstw produkujących narzędzia, oprzyrządowanie, obrabiarki i urządzenia, schematy procesów technologicznych i specjalistyczny sprzęt kontrolno-pomiarowy stosowany w produkcji drzewnej. Każda pracownia powinna być zasilana napięciem 230/400 V prądu przemiennego, zabezpieczona ochroną przeciwporażeniową, wyposażona w wyłączniki awaryjne i wyłącznik awaryjny centralny oraz w stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką i ze skanerem oraz z projektorem multimedialnym, a także w pojemniki do selektywnej zbiórki odpadów. Kształcenie praktyczne może odbywać się w: pracowniach, warsztatach szkolnych, placówkach kształcenia praktycznego, placówkach kształcenia ustawicznego oraz podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie.
+4.
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów oraz efekty kształcenia wspólne dla zawodów w ramach obszaru administracyjno-usługowego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. M.47. Montaż i obsługa maszyn i urządzeń przemysłu drzewnego 600 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
+po opisie kształcenia w zawodzie „Monter systemów rurociągowych 712613” dodaje się opis kształcenia w zawodzie „Szkutnik 711504” w brzmieniu: „ SZKUTNIK 711504
+1.
+CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie szkutnik powinien być przygotowany do wykonywania następujących zadań zawodowych:
+1)
+wykonanie modeli, form poszczególnych elementów łodzi i jachtu zgodnych z wymiarami projektowymi;
+2)
+wykonanie elementów łodzi i jachtu;
+3)
+montowanie elementów konstrukcyjnych, osprzętu pokładowego, żaglowego oraz wyposażenia;
+4)
+wykonywania prac remontowych i konserwacyjnych łodzi i jachtów;
+5)
+mocowanie elementów instalacji łodzi i jachtów.
+2.
+EFEKTY KSZTAŁCENIA Do wykonywania wyżej wymienionych zadań zawodowych niezbędne jest osiągnięcie zakładanych efektów kształcenia, na które składają się:
+1)
+efekty kształcenia wspólne dla wszystkich zawodów;
+2)
+efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów PKZ(M.a) i PKZ(M.p);
+3)
+efekty kształcenia właściwe dla kwalifikacji wyodrębnionej w zawodzie szkutnik opisane w części II: M.48. Wykonywanie robót szkutniczych.
+3.
+WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie szkutnik powinna posiadać następujące pomieszczenia dydaktyczne:
+1)
+pracownię rysunku technicznego, wyposażoną w: stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia), drukarki, skanery i plotery (po jednym urządzeniu na cztery stanowiska komputerowe), pakiet programów biurowych, programy komputerowego wspomagania projektowania (Computer Aided Design); program do wykonywania rysunku technicznego, pomoce dydaktyczne do kształtowania wyobraźni przestrzennej, normy dotyczące zasad wykonywania rysunku technicznego; modele figur i brył geometrycznych, dokumentacje konstrukcyjne, części maszyn i mechanizmów; połączenia stolarskie, łączniki, okucia i akcesoria, modele podzespołów oraz wyrobów z drewna i tworzyw drzewnych, modele podstawowych typów konstrukcji, opakowań, rysunki złożeniowe i wykonawcze wyrobów stolarskich, dokumentacje techniczne maszyn i podzespołów, katalogi i prospekty wyrobów stolarskich, okuć i akcesoriów, stanowiska kreślarskie (jedno stanowisko dla dwóch uczniów);
+2)
+pracownię technologii, wyposażoną w: zestawy próbek różnych gatunków drewna, materiałów drzewnych, tworzyw drzewnych, tworzyw sztucznych oraz materiałów służących do wytwarzania laminatów, klejów, substancji dodatkowych, materiałów do zabezpieczania i uszlachetniania powierzchni; modele, przekroje: połączeń elementów, konstrukcji i podzespołów; detale, okucia i łączniki; przyrządy, aparaturę do badania powłok wykończeniowych, przyrządy do pomiarów: geometrycznych, wilgotności, pH, lepkości, gęstości; elementy układów hydraulicznych, pneumatycznych, elektrycznych i gazowych; próbki materiałów konstrukcyjnych i eksploatacyjnych; elementy maszyn i urządzeń; katalogi wyrobów z drewna, tworzyw drzewnych oraz tworzyw sztucznych; schematy procesów technologicznych, dokumentacje techniczną; instrukcje obsługi maszyn i urządzeń;
+3)
+pracownię wytwarzania laminatów, wyposażoną w: instalację oświetleniową w wykonaniu przeciwwybuchowym; pompę próżniową wraz z instalacją do infuzji próżniowej; instalację wentylacyjną, instalację sprężonego powietrza; oraz w stanowiska do ćwiczeń praktycznych (jedno stanowisko dla dwóch uczniów) wyposażone w: modele i formy; zestawy narzędzi do laminowania ręcznego; nożyce; wagi: przemysłową i laboratoryjną; ręczne narzędzia do obróbki drewna; narzędzia pneumatyczne: szlifierka, polerka, wiertarka, frezarka; zestawy pojemników; pistolety natryskowe, wałki, pędzle; materiały do wykonywania modeli i form; materiały do laminacji; sprzęt do mycia i czyszczenia; środki ochrony indywidualnej; wydzielone pomieszczenie na niebezpieczne materiały wykorzystywane przy produkcji; dokumentację produkcyjną jachtów i łodzi;
+4)
+pracownię obróbki laminatów, wyposażoną w: instalację elektryczną zasilaną napięciem 230/400 V prądu przemiennego, zabezpieczoną ochroną przeciwporażeniową, wyposażoną w wyłączniki awaryjne i wyłącznik awaryjny centralny; instalację sprężonego powietrza; instalację wentylacyjną; oraz stanowiska do ćwiczeń praktycznych (jedno stanowisko dla dwóch uczniów), wyposażone w: elektronarzędzia ręczne: wiertarki, frezarki, szlifierki, polerki, opalarki wraz z osprzętem; narzędzia pomiarowe; narzędzia ręczne; sprzęt do mycia, czyszczenia i odpylania; zestawy do nakładania warstw ochronnych; zestawy pojemników; pistolety natryskowe, wałki, pędzle; wagę przemysłową i laboratoryjną; materiały do: czyszczenia, szlifowania, polerowania, malowania i konserwowania; środki ochrony indywidualnej; dokumentację produkcyjną jachtów i łodzi;
+5)
+pracownię montażu osprzętu i wyposażenia, wyposażoną w: instalację elektryczną zasilaną napięciem 230/400 V prądu przemiennego, zabezpieczoną ochroną przeciwporażeniową, wyposażoną w wyłączniki awaryjne i wyłącznik awaryjny centralny; instalację wentylacyjną; stanowiska montażu (jedno stanowisko dla dwóch uczniów), wyposażone w: elektronarzędzia ręczne: wiertarki, frezarki, wyrzynarki wraz z osprzętem; narzędzia pomiarowe; narzędzia ręczne; zestawy kluczy, wkrętaków, narzynki i gwintowniki; materiały ścierne, materiały uszczelniające; elementy złączne; przykładowe elementy osprzętu pokładowego i żaglowego; przykładowe elementy instalacji: wodnych, elektrycznych, hydraulicznych, gazowych i paliwowych; przykładowe wyposażenie wnętrza jachtu; środki ochrony indywidualnej; wózek ręczny do transportu obrabianych elementów; oraz stanowiska warsztatowe (jedno stanowisko dla sześciu osób), wyposażone w stół ślusarski, imadło, wiertarkę stołową, szlifierkę ostrzałkę, narzędzia do obróbki ręcznej skrawaniem, urządzenia i przyrządy do prac montażowych, przyrządy traserskie, sprzęt do mycia i czyszczenia; środki ochrony indywidualnej; dokumentację produkcyjną jachtów i łodzi. Każda pracownia powinna być wyposażona w stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do Internetu, z drukarką i ze skanerem oraz z projektorem multimedialnym oraz w pojemniki do selektywnej zbiórki odpadów. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia praktycznego, placówkach kształcenia ustawicznego oraz podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie.
+4.
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów oraz efekty kształcenia wspólne dla zawodów w ramach obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 550 godz. M.48. Wykonywanie robót szkutniczych 600 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
 c)
-w obszarze medyczno-społecznym (Z) dla szkoły policealnej w opisie kształcenia w zawodzie „Technik pożarnictwa 311919” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie:
-„
+w obszarze medyczno-społecznym (Z) dla szkoły policealnej w opisie kształcenia w zawodzie „Technik pożarnictwa 311919” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie: „
 3.
 WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie technik pożarnictwa powinna posiadać następujące pomieszczenia dydaktyczne:
 1)
@@ -149,7 +613,7 @@ pracownię mechaniki i budownictwa, wyposażoną w: zestaw do badań i demonstra
 5)
 pracownię wyposażenia technicznego, wyposażoną w: przyrządy do serwisowania sprzętu ochrony dróg oddechowych, urządzenia i przyrządy do serwisowania chemoodpornych ubrań gazoszczelnych, urządzenia do symulacji podawania środków gaśniczych, przyrządy do przeprowadzania prób ciśnieniowych węży, urządzenia do taśmowania węży oraz naprawy i konserwacji pozostałego sprzętu i armatury wodnej i pianowej, sprzęt do konserwacji pilarek do drewna oraz stali i betonu, modele prostych maszyn, mechanizmów i rozwiązań konstrukcyjnych przenoszenia napędu, przekroje urządzeń i jednostek wyposażenia technicznego, instrukcje obsługi i konserwacji, zestaw norm i dokumentacji techniczno-ruchowych dotyczących urządzeń i jednostek wyposażenia technicznego;
 6)
-pracownię ratownictwa medycznego, wyposażoną zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 13 ust. 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.);
+pracownię ratownictwa medycznego, wyposażoną zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 13 ust. 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635, z 2014 r. poz. 1802, z 2015 r. poz. 1887 i 1991 oraz z 2016 r. poz. 65, 904 i 960.);
 7)
 pracownię taktyki działań gaśniczych, w której powinny być zorganizowane następujące stanowiska:
 a)
@@ -159,8 +623,7 @@ stanowiska dyspozytorskie (jedno dla dwóch uczniów), wyposażone w: stół dys
 c)
 stanowisko współpracy z mediami (jedno dla dziesięciu uczniów),
 d)
-stanowisko do wykonywania szkiców sytuacyjnych (jedno dla dziesięciu uczniów);
-ponadto pracownia powinna być wyposażona w: wewnętrzną sieć telefoniczną i sieć komputerową z dostępem do Internetu oraz sprzęt audiowizualny, taki jak telewizor, odtwarzacz DVD, odtwarzacz video, rzutnik pisma;
+stanowisko do wykonywania szkiców sytuacyjnych (jedno dla dziesięciu uczniów); ponadto pracownia powinna być wyposażona w: wewnętrzną sieć telefoniczną i sieć komputerową z dostępem do Internetu oraz sprzęt audiowizualny, taki jak telewizor, odtwarzacz DVD, odtwarzacz video, rzutnik pisma;
 8)
 pracownię działań ratowniczych, wyposażoną w: schematy budowy pojazdów, schematy postępowania ratowniczego z wykorzystaniem grup sprzętowych, stanowiska komputerowe (jedno stanowisko dla dwóch uczniów) z oprogramowaniem do symulacji zdarzeń, wewnętrzną sieć telefoniczną i sieć komputerową z dostępem do Internetu, stanowisko do wykonywania szkiców sytuacyjnych (jedno dla dziesięciu uczniów), środki audiowizualne, zestaw do badań i demonstracji działania sprzętu ratownictwa chemicznego w środowisku, zestaw do badań i prezentacji środków do zabezpieczania, zestaw do likwidacji wycieków substancji aktywnych do gleby i wód, zestaw makiet np. zakładów chemicznych, portów, terenów z przepływającą rzeką, oprogramowanie do symulacji zagrożeń środowiska;
 9)
@@ -170,19 +633,16 @@ salę gimnastyczną, wyposażoną w: sprzęt do siatkówki, piłki nożnej i kos
 11)
 poligon, wyposażony w: symulator rozgorzenia (komorę ogniową), wielokondygnacyjny budynek symulacji pożarów, stanowiska spalania i gaszenia gazów, cieczy i ciał stałych, tor przygotowania prądownika (operowania prądami gaśniczymi), stanowisko do ćwiczeń gaszenia pojazdów, stanowiska do symulacji katastrof budowlanych, stanowiska do ewakuacji ludzi ze studni, kanałów, osuwisk, stanowiska do symulacji katastrof w transporcie drogowym, szynowym i powietrznym, stanowiska do uszczelniania wycieków substancji niebezpiecznych, stanowiska do ratownictwa i samoratowania z wysokości, wielokondygnacyjny obiekt do ćwiczeń z drabinami pożarniczymi i sprzętem ratowniczym i ewakuacyjnym wewnątrz i na zewnątrz, zbiornik wodny, poligonowe stanowisko kierowania (punkt alarmowy), salę odpraw, stanowiska do ćwiczeń w różnych warunkach eksploatacji sprzętu ratownictwa technicznego i chemicznego, stanowisko do ćwiczeń samochodami z drabiną mechaniczną i podestem ratowniczym;
 12)
-komorę dymową, wyposażoną w: pomieszczenie do przeprowadzania badań lekarskich uczestników ćwiczenia, pomieszczenie do ćwiczeń fizycznych, ścieżkę treningową z możliwością różnej konfiguracji przejść, z systemem nagłośnienia, systemem komunikacji z uczestnikami ćwiczeń, systemem kamer optycznych i termowizyjnych oraz wytwornicami dymu; centralę do obserwacji i rejestracji przebiegu testu z podświetlanym pulpitem pokazującym przemieszczanie się ćwiczących, systemem rejestracji dźwięku i obrazu, systemem sterowania wytwornicami dymu, systemem sterowania nagłośnieniem i oświetleniem oraz komputerem z oprogramowaniem do rejestracji wyników przeprowadzanego testu; urządzenia do bieżącej konserwacji sprzętu ochrony dróg oddechowych oraz napełniania butli.
-Szkoła kształcąca w zawodzie technik pożarnictwa powinna posiadać jednostkę ratowniczo-gaśniczą z wyposażeniem, o którym mowa w przepisach wydanych na podstawie art. 8 ust. 4 pkt 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2016 r. poz. 603 i 960), oraz stanowić centralny odwód operacyjny Komendanta Głównego Państwowej Straży Pożarnej. Kształcenie w zakresie kwalifikacji Z.22. Wykonywanie działań ratowniczych należy rozpocząć od szkolenia z zakresu ochrony przeciwpożarowej (trwającego co najmniej 6 tygodni – 240 godzin), którego celem jest przygotowanie do pełnienia służby w jednostkach ochrony przeciwpożarowej i w szkolnej jednostce ratowniczo-gaśniczej. Kształcenie praktyczne może odbywać się w: pracowniach szkolnych, jednostkach ochrony przeciwpożarowej, jednostkach ratowniczo-gaśniczych i obiektach dydaktycznych. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze co najmniej 4 tygodni (160 godzin). Praktyka zawodowa obejmuje:
+komorę dymową, wyposażoną w: pomieszczenie do przeprowadzania badań lekarskich uczestników ćwiczenia, pomieszczenie do ćwiczeń fizycznych, ścieżkę treningową z możliwością różnej konfiguracji przejść, z systemem nagłośnienia, systemem komunikacji z uczestnikami ćwiczeń, systemem kamer optycznych i termowizyjnych oraz wytwornicami dymu; centralę do obserwacji i rejestracji przebiegu testu z podświetlanym pulpitem pokazującym przemieszczanie się ćwiczących, systemem rejestracji dźwięku i obrazu, systemem sterowania wytwornicami dymu, systemem sterowania nagłośnieniem i oświetleniem oraz komputerem z oprogramowaniem do rejestracji wyników przeprowadzanego testu; urządzenia do bieżącej konserwacji sprzętu ochrony dróg oddechowych oraz napełniania butli. Szkoła kształcąca w zawodzie technik pożarnictwa powinna posiadać jednostkę ratowniczo-gaśniczą z wyposażeniem, o którym mowa w przepisach wydanych na podstawie art. 8 ust. 4 pkt 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2016 r. poz. 603 i 960), oraz stanowić centralny odwód operacyjny Komendanta Głównego Państwowej Straży Pożarnej. Kształcenie w zakresie kwalifikacji Z.22. Wykonywanie działań ratowniczych należy rozpocząć od szkolenia z zakresu ochrony przeciwpożarowej (trwającego co najmniej 6 tygodni – 240 godzin), którego celem jest przygotowanie do pełnienia służby w jednostkach ochrony przeciwpożarowej i w szkolnej jednostce ratowniczo-gaśniczej. Kształcenie praktyczne może odbywać się w: pracowniach szkolnych, jednostkach ochrony przeciwpożarowej, jednostkach ratowniczo-gaśniczych i obiektach dydaktycznych. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze co najmniej 4 tygodni (160 godzin). Praktyka zawodowa obejmuje:
 1)
 praktykę na stanowiskach w jednostce ratowniczo-gaśniczej w systemie zmianowym (co najmniej 25 służb);
 2)
-praktykę na stanowiskach w komendzie wojewódzkiej, powiatowej lub miejskiej w systemie codziennym (co najmniej 2 tygodnie – 80 godzin).
-” .
+praktykę na stanowiskach w komendzie wojewódzkiej, powiatowej lub miejskiej w systemie codziennym (co najmniej 2 tygodnie – 80 godzin). ” .
 § 2.
 1.
 Szkoły, które rozpoczęły kształcenie w zawodzie Technik pożarnictwa w roku szkolnym 2014/2015 lub 2015/2016, kontynuują kształcenie w tym zawodzie zgodnie z podstawą programową kształcenia w zawodach określoną w przepisach rozporządzenia zmienianego w § 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszego rozporządzenia, do zakończenia cyklu kształcenia.
 2.
 Słuchacze, którzy przed dniem wejścia w życie niniejszego rozporządzenia rozpoczęli kształcenie na kwalifikacyjnych kursach zawodowych w zakresie kwalifikacji wyodrębnionych w zawodzie Technik pożarnictwa, kontynuują to kształcenie zgodnie z podstawą programową kształcenia w zawodach określoną w przepisach rozporządzenia zmienianego w § 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszego rozporządzenia, do zakończenia cyklu kształcenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2016 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635, z 2014 r. poz. 1802, z 2015 r. poz. 1887 i 1991 oraz z 2016 r. poz. 65, 904 i 960.
+Rozporządzenie wchodzi w życie z dniem 1 września 2016 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635, z 2014 r. poz. 1802, z 2015 r. poz. 1887 i 1991 oraz z 2016 r. poz. 65, 904 i 960.
 

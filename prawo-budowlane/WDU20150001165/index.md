@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o wyrobach budowlanych, ustawy – Prawo budowlane oraz ustawy o zmianie ustawy o wyrobach budowlanych oraz ustawy o systemie oceny zgodności
+# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o wyrobach budowlanych, ustawy – Prawo budowlane oraz ustawy o zmianie ustawy o wyrobach budowlanych oraz ustawy o systemie oceny zgodności Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) Nr 305/2011 z dnia 9 marca 2011 r. ustanawiającego zharmonizowane warunki wprowadzania do obrotu wyrobów budowlanych i uchylającego dyrektywę Rady 89/106/EWG (Dz. Urz. UE L 88 z 04.04.2011, str. 5, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-25 |
 | Data wydania | 2015-08-13 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1165/text.pdf) |
+
+Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 21 maja 2014 r. pod numerem 2014/0234/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
+Obowiązki producentów, upoważnionych przedstawicieli producentów, importerów i sprzedawców w zakresie wyrobów budowlanych znakowanych znakiem budowlanym
 
 **Art. 1.** W ustawie z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. z 2014 r. poz. 883) wprowadza się następujące zmiany:
 
@@ -42,7 +44,7 @@ source: "eli-html"
 - **12)** udostępnianiu na rynku krajowym – należy przez to rozumieć każde dostarczanie wyrobu budowlanego w celu dystrybucji lub zastosowania na rynku krajowym w ramach działalności handlowej, odpłatnie lub nieodpłatnie;
 - **13)** zasadniczych charakterystykach – należy przez to rozumieć zasadnicze charakterystyki, o których mowa w art. 2 pkt 4 rozporządzenia Nr 305/2011;
 - **14)** właściwościach użytkowych wyrobu budowlanego – należy przez to rozumieć właściwości użytkowe wyrobu budowlanego, o których mowa w art. 2 pkt 5 rozporządzenia Nr 305/2011;
-- **15)** krajowej ocenie technicznej – należy przez to rozumieć udokumentowaną, pozytywną ocenę właściwości użytkowych tych zasadniczych charakterystyk wyrobu budowlanego, które zgodnie z zamierzonym zastosowaniem mają wpływ na spełnienie podstawowych wymagań, o których mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.), przez obiekty budowlane, w których wyrób będzie zastosowany;
+- **15)** krajowej ocenie technicznej – należy przez to rozumieć udokumentowaną, pozytywną ocenę właściwości użytkowych tych zasadniczych charakterystyk wyrobu budowlanego, które zgodnie z zamierzonym zastosowaniem mają wpływ na spełnienie podstawowych wymagań, o których mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443, 528, 774 i 1165.), przez obiekty budowlane, w których wyrób będzie zastosowany;
 - **16)** zamierzonym zastosowaniu – należy przez to rozumieć zamierzone zastosowanie, o którym mowa w art. 2 pkt 14 rozporządzenia Nr 305/2011, albo zamierzone zastosowanie wyrobu budowlanego określone w Polskiej Normie wyrobu lub krajowej ocenie technicznej. ” ;
 - **2)** art. 3 otrzymuje brzmienie: „
 
@@ -181,7 +183,7 @@ source: "eli-html"
 
 - **8)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Obowiązki producentów, upoważnionych przedstawicieli producentów, importerów i sprzedawców w zakresie wyrobów budowlanych znakowanych znakiem budowlanym
+#### Rozdział 2a
 
 **Art. 10a.**
 
@@ -269,7 +271,7 @@ source: "eli-html"
 4. Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia:
 
 - **1)** zakres informacji o wynikach zleconych badań próbek, przeprowadzonych kontrolach wyrobów budowlanych wprowadzonych do obrotu lub udostępnianych na rynku krajowym, wydanych postanowieniach, decyzjach i opiniach, przekazywanych przez wojewódzkich inspektorów nadzoru budowlanego Głównemu Inspektorowi Nadzoru Budowlanego,
-- **2)** sposób i termin przekazywania tych informacji mając na uwadze potrzebę monitorowania systemu kontroli wyrobów budowlanych wprowadzonych do obrotu lub udostępnianych na rynku krajowym. ” ;
+- **2)** sposób i termin przekazywania tych informacji – mając na uwadze potrzebę monitorowania systemu kontroli wyrobów budowlanych wprowadzonych do obrotu lub udostępnianych na rynku krajowym. ” ;
 - **13)** w art. 15 w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 - **3)** może usunąć wpis w Wykazie po upływie 5 lat od dnia dokonania wpisu. ” ;
 - **14)** tytuł rozdziału 4 otrzymuje brzmienie: „Kontrola i postępowanie administracyjne w sprawie wprowadzonych do obrotu lub udostępnianych na rynku krajowym wyrobów budowlanych”;
@@ -295,15 +297,19 @@ source: "eli-html"
 - **3)** karty charakterystyki lub informacji o substancjach zawartych w wyrobie budowlanym, o których mowa odpowiednio w art. 31 lub art. 33 rozporządzenia REACH;
 - **4)** ogólnego opisu wyrobu budowlanego, schematów, instrukcji stosowania, instrukcji obsługi oraz informacji dotyczących zagrożenia dla zdrowia i bezpieczeństwa, jakie wyrób budowlany stwarza podczas stosowania i użytkowania.
 
-2. Kontrolujący może dodatkowo żądać od producenta dokumentacji technicznej, o której mowa w art. 11 ust. 1 rozporządzenia Nr 305/2011 oraz w art. 10a ust. 1, a w przypadku importera wyznaczyć termin udostępnienia tej dokumentacji. ” , w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) dokumentów, instrukcji, informacji i opisów, o których mowa w ust. 1 pkt 1, 3 i 4. ” , – uchyla się pkt 3, ust. 4 otrzymuje brzmienie: „
+2. Kontrolujący może dodatkowo żądać od producenta dokumentacji technicznej, o której mowa w art. 11 ust. 1 rozporządzenia Nr 305/2011 oraz w art. 10a ust. 1, a w przypadku importera wyznaczyć termin udostępnienia tej dokumentacji. ” , w ust. 3: pkt 2 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **2)** dokumentów, instrukcji, informacji i opisów, o których mowa w ust. 1 pkt 1, 3 i 4. ” , – uchyla się pkt 3, ust. 4 otrzymuje brzmienie: „
+    - **c)**
 
 4. W przypadku gdy kontrolowany wyrób budowlany może stwarzać zagrożenie dla życia, zdrowia, mienia lub środowiska, kontrolujący może żądać od kontrolowanego sprzedawcy, jeżeli producent lub importer ma siedzibę poza terytorium Rzeczypospolitej Polskiej, przedstawienia, w wyznaczonym terminie, dokumentacji technicznej, o której mowa w art. 11 ust. 1 rozporządzenia Nr 305/2011 oraz w art. 10a ust. 1. ” ;
 
-- **18)** w art. 22c: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Właściwy organ może, w drodze postanowienia, dokonać zabezpieczenia wyrobu budowlanego przed dalszym przekazywaniem, jeżeli: ” , – pkt 1 i 2 otrzymują brzmienie: „ 1) kontrolowany nie przedstawi deklaracji, informacji oraz dokumentacji technicznej, związanych z kontrolowanym wyrobem budowlanym, o których mowa w art. 18 ust. 1–4, albo 2) dokumenty wskazują, że wyrób budowlany może nie spełniać wymagań określonych niniejszą ustawą, albo ” , ust. 4 i 5 otrzymują brzmienie: „
+- **18)** w art. 22c: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Właściwy organ może, w drodze postanowienia, dokonać zabezpieczenia wyrobu budowlanego przed dalszym przekazywaniem, jeżeli: ” , pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** kontrolowany nie przedstawi deklaracji, informacji oraz dokumentacji technicznej, związanych z kontrolowanym wyrobem budowlanym, o których mowa w art. 18 ust. 1–4, albo
+- **2)** dokumenty wskazują, że wyrób budowlany może nie spełniać wymagań określonych niniejszą ustawą, albo ” , ust. 4 i 5 otrzymują brzmienie: „
     - **b)**
 
 4. Organ, który wydał w pierwszej instancji postanowienie, o którym mowa w ust. 1, stwierdza, w drodze postanowienia, jego wygaśnięcie przed upływem 2 miesięcy od dnia doręczenia, jeżeli ustały przyczyny uzasadniające zabezpieczenie wyrobu budowlanego.
@@ -385,12 +391,12 @@ source: "eli-html"
 - **1)** udostępnia na rynku wyrób budowlany bez oznakowania CE lub bez znaku budowlanego, lub bez informacji towarzyszącej tym znakom,
 - **2)** nie sporządza lub sporządza w sposób nieprawidłowy deklarację właściwości użytkowych lub krajową deklarację,
 - **3)** umieszcza w sposób nieprawidłowy oznakowanie CE lub znak budowlany na wyrobie budowlanym,
-- **4)** nie sporządza dokumentacji technicznej podlega karze grzywny. ” ;
+- **4)** nie sporządza dokumentacji technicznej – podlega karze grzywny. ” ;
 - **29)** art. 36 otrzymuje brzmienie: „
 
 **Art. 36.** Orzekanie w sprawach określonych w art. 35 i art. 35a następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” .
 
-**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443, 528 i 774.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Obiekt budowlany jako całość oraz jego poszczególne części, wraz ze związanymi z nim urządzeniami budowlanymi należy, biorąc pod uwagę przewidywany okres użytkowania, projektować i budować w sposób określony w przepisach, w tym techniczno-budowlanych, oraz zgodnie z zasadami wiedzy technicznej, zapewniając: ” , pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -445,6 +451,6 @@ source: "eli-html"
 - **1)** został złożony wniosek o pozwolenie na budowę lub odrębny wniosek o zatwierdzenie projektu budowlanego;
 - **2)** zostało dokonane zgłoszenie budowy lub wykonania robót budowlanych, w przypadku gdy nie jest wymagane uzyskanie decyzji o pozwoleniu na budowę. Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem:
 - **1)** art. 3, który wchodzi w życie z dniem ogłoszenia;
-- **2)** art. 1 pkt 5, pkt 6 lit. a-e, pkt 7 w części dotyczącej art. 9 ust. 1–8 ustawy wymienionej w art. 1 oraz pkt 8, które wchodzą w życie z dniem 1 stycznia 2017 r.
+- **2)** art. 1 pkt 5, pkt 6 lit. a-e, pkt 7 w części dotyczącej art. 9 ust. 1–8 ustawy wymienionej w art. 1 oraz pkt 8, które wchodzą w życie z dniem 1 stycznia 2017 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) Nr 305/2011 z dnia 9 marca 2011 r. ustanawiającego zharmonizowane warunki wprowadzania do obrotu wyrobów budowlanych i uchylającego dyrektywę Rady 89/106/EWG (Dz. Urz. UE L 88 z 04.04.2011, str. 5, z późn. zm.). 2) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 21 maja 2014 r. pod numerem 2014/0234/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443, 528, 774 i 1165. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151, 200, 443, 528 i 774.
 
 

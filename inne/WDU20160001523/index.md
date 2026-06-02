@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-05 |
 | Data wydania | 2016-09-22 |
-| Wejście w życie | 2016-09-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001523) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1523/text.pdf) |
 
@@ -44,7 +43,7 @@ Prezes Agencji przekazuje Komisji Europejskiej powiadomienia i informacje, o kt�
 1.
 Wsparcie przysługuje:
 1)
-organizacji producentów owoców i warzyw, uznanej na podstawie odrębnych przepisów i realizującej program operacyjny, o którym mowa w art. 33 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.) , zwanego dalej „rozporządzeniem nr 1308/2013”;
+organizacji producentów owoców i warzyw, uznanej na podstawie odrębnych przepisów i realizującej program operacyjny, o którym mowa w art. 33 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1.) , zwanego dalej „rozporządzeniem nr 1308/2013”;
 2)
 producentowi owoców i warzyw niebędącemu członkiem organizacji producentów, o której mowa w pkt 1, będącemu producentem rolnym w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2015 r. poz. 807 i 1419), który:
 a)
@@ -82,8 +81,7 @@ Jeżeli łączna ilość produktów wynikająca z powiadomienia przekracza limit
 1)
 20 000 ton – w przypadku podmiotu, o którym mowa w ust. 1 pkt 1, albo
 2)
-200 ton – w przypadku podmiotu, o którym mowa w ust. 1 pkt 2
-uznaje się, że łączna ilość produktów wynikająca z tego powiadomienia jest równa odpowiedniemu limitowi, a ilość danego rodzaju produktu wynikająca z tego powiadomienia jest równa iloczynowi ilości tego produktu oraz stosunku odpowiedniego limitu do łącznej ilości produktów wynikającej z tego powiadomienia.
+200 ton – w przypadku podmiotu, o którym mowa w ust. 1 pkt 2 – uznaje się, że łączna ilość produktów wynikająca z tego powiadomienia jest równa odpowiedniemu limitowi, a ilość danego rodzaju produktu wynikająca z tego powiadomienia jest równa iloczynowi ilości tego produktu oraz stosunku odpowiedniego limitu do łącznej ilości produktów wynikającej z tego powiadomienia.
 7.
 Jeżeli ten sam podmiot złożył więcej niż jedno powiadomienie, przepis ust. 6 stosuje się odpowiednio do powiadomienia, którego złożenie spowodowało przekroczenie odpowiedniego limitu określonego w ust. 6, z tym że, obliczając łączną ilość produktów oraz ilość danego rodzaju produktu, które uznaje się za wynikające z tego powiadomienia, zamiast odpowiedniego limitu określonego w ust. 6 uwzględnia się różnicę między tym limitem a łączną ilością produktów wynikającą z poprzednio złożonych przez ten podmiot powiadomień.
 8.
@@ -167,7 +165,7 @@ numer identyfikacyjny REGON oraz numer identyfikacji podatkowej (NIP), jeżeli z
 1.
 Wsparcie jest udzielane na wniosek podmiotu, o którym mowa w § 4 ust. 1, w drodze decyzji administracyjnej, przez dyrektora oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania lub siedzibę tego podmiotu.
 2.
-W decyzji, o której mowa w ust. 1, na wniosek podmiotu, o którym mowa w § 4 ust. 1, udziela się również wsparcia, o którym mowa w art. 81 i art. 82 rozporządzenia wykonawczego Komisji (UE) nr 543/2011 z dnia 7 czerwca 2011 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. Urz. UE L 157 z 15.06.2011, str. 1, z późn. zm.) .
+W decyzji, o której mowa w ust. 1, na wniosek podmiotu, o którym mowa w § 4 ust. 1, udziela się również wsparcia, o którym mowa w art. 81 i art. 82 rozporządzenia wykonawczego Komisji (UE) nr 543/2011 z dnia 7 czerwca 2011 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. Urz. UE L 157 z 15.06.2011, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 199 z 02.08.2011, str. 76, Dz. Urz. UE L 194 z 26.07.2011, str. 25, Dz. Urz. UE L 231 z 08.09.2011, str. 11, Dz. Urz. UE L 264 z 08.10.2011, str. 25, Dz. Urz. UE L 270 z 15.10.2011, str. 14, Dz. Urz. UE L 283 z 29.10.2011, str. 32, Dz. Urz. UE L 335 z 17.12.2011, str. 66, Dz. Urz. UE L 26 z 28.01.2012, str. 26, Dz. Urz. UE L 99 z 05.04.2012, str. 21, Dz. Urz. UE L 116 z 28.04.2012, str. 10, Dz. Urz. UE L 140 z 30.05.2012, str. 53, Dz. Urz. UE L 203 z 31.07.2012, str. 60, Dz. Urz. UE L 223 z 21.08.2012, str. 6, Dz. Urz. UE L 232 z 29.08.2012, str. 5, Dz. Urz. UE L 297 z 26.10.2012, str. 9, Dz. Urz. UE L 109 z 19.04.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 74, Dz. Urz. UE L 167 z 19.06.2013, str. 26, Dz. Urz. UE L 170 z 22.06.2013, str. 43, Dz. Urz. UE L 263 z 05.10.2013, str. 9, Dz. Urz. UE L 272 z 12.10.2013, str. 35, Dz. Urz. UE L 130 z 01.05.2014, str. 41, Dz. Urz. UE L 145 z 16.05.2014, str. 5, Dz. Urz. UE L 307 z 28.10.2014, str. 34, Dz. Urz. UE L 111 z 30.04.2015, str. 24, Dz. Urz. UE L 292 z 10.11.2015, str. 4, Dz. Urz. UE L 318 z 04.12.2015, str. 23 oraz Dz. Urz. UE L 116 z 30.04.2016, str. 23.) .
 3.
 Wnioski o udzielenie wsparcia składa się w terminach, o których mowa w art. 10 ust. 1 i 2 rozporządzenia 2016/921.
 4.
@@ -214,11 +212,11 @@ Przy obliczaniu wysokości wsparcia uwzględnia się ilość produktów danego r
 3.
 W przypadku operacji wycofania z rynku produktów przeprowadzonej przez podmioty, o których mowa w § 4 ust. 1 pkt 2, jeżeli wysokość wsparcia w przeliczeniu na 1 ha upraw, z których pochodzą produkty objęte tą operacją, przekracza maksymalny poziom wsparcia określony w załączniku nr 2 do rozporządzenia, wsparcie przysługuje w wysokości stanowiącej iloczyn maksymalnego poziomu wsparcia określonego w załączniku nr 2 do rozporządzenia i powierzchni tych upraw.
 § 11.
-Obliczenie równowartości kwoty wsparcia w złotych następuje zgodnie z zasadami określonymi w art. 36 lit. c rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.) .
+Obliczenie równowartości kwoty wsparcia w złotych następuje zgodnie z zasadami określonymi w art. 36 lit. c rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 27 z 03.02.2015, str. 7.) .
 § 12.
 Środki z tytułu wsparcia Agencja wypłaca w terminie określonym w art. 12 rozporządzenia 2016/921.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 199 z 02.08.2011, str. 76, Dz. Urz. UE L 194 z 26.07.2011, str. 25, Dz. Urz. UE L 231 z 08.09.2011, str. 11, Dz. Urz. UE L 264 z 08.10.2011, str. 25, Dz. Urz. UE L 270 z 15.10.2011, str. 14, Dz. Urz. UE L 283 z 29.10.2011, str. 32, Dz. Urz. UE L 335 z 17.12.2011, str. 66, Dz. Urz. UE L 26 z 28.01.2012, str. 26, Dz. Urz. UE L 99 z 05.04.2012, str. 21, Dz. Urz. UE L 116 z 28.04.2012, str. 10, Dz. Urz. UE L 140 z 30.05.2012, str. 53, Dz. Urz. UE L 203 z 31.07.2012, str. 60, Dz. Urz. UE L 223 z 21.08.2012, str. 6, Dz. Urz. UE L 232 z 29.08.2012, str. 5, Dz. Urz. UE L 297 z 26.10.2012, str. 9, Dz. Urz. UE L 109 z 19.04.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 74, Dz. Urz. UE L 167 z 19.06.2013, str. 26, Dz. Urz. UE L 170 z 22.06.2013, str. 43, Dz. Urz. UE L 263 z 05.10.2013, str. 9, Dz. Urz. UE L 272 z 12.10.2013, str. 35, Dz. Urz. UE L 130 z 01.05.2014, str. 41, Dz. Urz. UE L 145 z 16.05.2014, str. 5, Dz. Urz. UE L 307 z 28.10.2014, str. 34, Dz. Urz. UE L 111 z 30.04.2015, str. 24, Dz. Urz. UE L 292 z 10.11.2015, str. 4, Dz. Urz. UE L 318 z 04.12.2015, str. 23 oraz Dz. Urz. UE L 116 z 30.04.2016, str. 23. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 27 z 03.02.2015, str. 7.
 
 ## Załącznik nr 1 — – Maksymalne plony uzyskiwane z upraw owoców i warzyw objętych wsparciem
 

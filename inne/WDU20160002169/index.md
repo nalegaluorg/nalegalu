@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 2 grudnia 2016 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw
+# Ustawa z dnia 2 grudnia 2016 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 7 września 1991 r. o systemie oświaty oraz ustawę z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich.
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-02 |
 | Data wydania | 2016-12-28 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2169/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842 i 1933) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 84a i art. 84b;
-- **2)** w art. 94b: w ust. 1: – uchyla się pkt 1, – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) dofinansowanie uczelni publicznych, w których w danym roku akademickim rozpoczęli studia pierwszego stopnia lub jednolite studia magisterskie studenci, którzy w roku rozpoczęcia studiów uzyskali najlepsze wyniki egzaminów maturalnych. ” , uchyla się ust. 1a i 2, ust. 3 i 4 otrzymują brzmienie: „
+- **2)** w art. 94b: w ust. 1: – uchyla się pkt 1, w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
     - **a)**
+
+- **6)** dofinansowanie uczelni publicznych, w których w danym roku akademickim rozpoczęli studia pierwszego stopnia lub jednolite studia magisterskie studenci, którzy w roku rozpoczęcia studiów uzyskali najlepsze wyniki egzaminów maturalnych. ” , uchyla się ust. 1a i 2, ust. 3 i 4 otrzymują brzmienie: „
     - **b)**
     - **c)**
 
@@ -57,7 +58,7 @@ source: "eli-html"
 1. Minister właściwy do spraw szkolnictwa wyższego, w celu przyznania dotacji, o której mowa w art. 94b ust. 1 pkt 6, pozyskuje od:
 
 - **1)** Centralnej Komisji Egzaminacyjnej, o której mowa w art. 9a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, 1954 i 1985) – dane obejmujące wyniki egzaminu maturalnego w danym roku z poszczególnych przedmiotów na poziomie rozszerzonym i dwujęzycznym, przedstawione w procentach na skali centylowej;
-- **2)** okręgowych komisji egzaminacyjnych, o których mowa w art. 9c ustawy z dnia 7 września 1991 r. o systemie oświaty: numery PESEL albo imiona, nazwiska, płeć i daty urodzenia – w przypadku braku numeru PESEL osób, które w danym roku uzyskały najlepsze wyniki egzaminu maturalnego z poszczególnych przedmiotów na poziomie rozszerzonym lub dwujęzycznym, mieszczące się w przedziałach ustalonych przez ministra właściwego do spraw szkolnictwa wyższego, wraz z tymi wynikami.
+- **2)** okręgowych komisji egzaminacyjnych, o których mowa w art. 9c ustawy z dnia 7 września 1991 r. o systemie oświaty: numery PESEL albo imiona, nazwiska, płeć i daty urodzenia – w przypadku braku numeru PESEL – osób, które w danym roku uzyskały najlepsze wyniki egzaminu maturalnego z poszczególnych przedmiotów na poziomie rozszerzonym lub dwujęzycznym, mieszczące się w przedziałach ustalonych przez ministra właściwego do spraw szkolnictwa wyższego, wraz z tymi wynikami.
     - **a)**
     - **b)**
 
@@ -103,5 +104,5 @@ source: "eli-html"
 
 **Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 96a ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 96a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 30 czerwca 2017 r.
 
-**Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r.
+**Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 7 września 1991 r. o systemie oświaty oraz ustawę z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich.
 

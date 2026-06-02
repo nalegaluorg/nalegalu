@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 4 października 2018 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 4 października 2018 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-04 |
 | Data wydania | 2018-10-23 |
-| Wejście w życie | 2018-11-07 |
 | Ostatnia zmiana | 2024-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002031) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2031/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 174 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 174 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -265,7 +264,7 @@ bibliotek, których zbiory tworzą narodowy zasób biblioteczny, o którym mowa 
 12)
 archiwów, których zbiory tworzą narodowy zasób archiwalny, o którym mowa w art. 2 ust. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2018 r. poz. 217, 357, 398 i 650);
 13)
-instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm.), w następujących kategoriach działalności przemysłowej:
+instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648 i 1722.), w następujących kategoriach działalności przemysłowej:
 a)
 przemysł energetyczny,
 b)
@@ -397,6 +396,5 @@ W przypadku braku danych, o których mowa w ust. 1 pkt 4, 8 i 9, lub stwierdzeni
 3.
 Dane z rejestrów i ewidencji, o których mowa w ust. 1 pkt 19 i 20, zaznacza się na mapach ryzyka powodziowego w przypadku dostępności danych w postaci warstwy wektorowej.
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648 i 1722. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska, Ministra Transportu, Budownictwa i Gospodarki Morskiej, Ministra Administracji i Cyfryzacji oraz Ministra Spraw Wewnętrznych z dnia 21 grudnia 2012 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. z 2013 r. poz. 104), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska, Ministra Transportu, Budownictwa i Gospodarki Morskiej, Ministra Administracji i Cyfryzacji oraz Ministra Spraw Wewnętrznych z dnia 21 grudnia 2012 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. z 2013 r. poz. 104), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722). 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648 i 1722. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska, Ministra Transportu, Budownictwa i Gospodarki Morskiej, Ministra Administracji i Cyfryzacji oraz Ministra Spraw Wewnętrznych z dnia 21 grudnia 2012 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. z 2013 r. poz. 104), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722).
 

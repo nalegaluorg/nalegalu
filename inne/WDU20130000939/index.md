@@ -22,23 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-07-12 |
 | Data wydania | 2013-08-20 |
-| Wejście w życie | 2013-09-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000939) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/939/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 120, poz. 690, Nr 171, poz. 1016, Nr 205, poz. 1208, Nr 232, poz. 1378 i Nr 291, poz. 1707 oraz z 2012 r. poz. 1342 i 1456.) wprowadza się następujące zmiany:
 
-- **1)** w art. 2 w ust. 1: w pkt 20: – w lit. b tiret drugie otrzymuje brzmienie: „ – wyrobów energetycznych, z wyjątkiem wyrobów węglowych, przemieszczanych, a w przypadku podmiotu pośredniczącego, również magazynowanych, ” , – lit. c otrzymuje brzmienie: „ c) wyrobów węglowych powstałe w trakcie ich przemieszczania na terytorium kraju w związku z wykonaniem czynności stanowiącej przedmiot opodatkowania akcyzą; ” , pkt 23a otrzymuje brzmienie: „
+- **1)** w art. 2 w ust. 1: w pkt 20: w lit. b tiret drugie otrzymuje brzmienie: „ – wyrobów energetycznych, z wyjątkiem wyrobów węglowych, przemieszczanych, a w przypadku podmiotu pośredniczącego, również magazynowanych, ” , lit. c otrzymuje brzmienie: „ wyrobów węglowych powstałe w trakcie ich przemieszczania na terytorium kraju w związku z wykonaniem czynności stanowiącej przedmiot opodatkowania akcyzą; ” , pkt 23a otrzymuje brzmienie: „
     - **a)**
+    - **c)**
     - **b)**
 
-- **23a)** pośredniczący podmiot węglowy – podmiot mający siedzibę lub miejsce zamieszkania na terytorium kraju: dokonujący sprzedaży, dostawy wewnątrzwspólnotowej, nabycia wewnątrzwspólnotowego, importu lub eksportu wyrobów węglowych, lub używający wyrobów węglowych do celów objętych zwolnieniem od akcyzy i do celów nieobjętych zwolnieniem od akcyzy, lub używający wyrobów węglowych do celów objętych zwolnieniem od akcyzy i do celów niepodlegających opodatkowaniu akcyzą który pisemnie powiadomił właściwego naczelnika urzędu celnego o tej działalności; ” , po pkt 23b dodaje się pkt 23c w brzmieniu: „
+- **23a)** pośredniczący podmiot węglowy – podmiot mający siedzibę lub miejsce zamieszkania na terytorium kraju: dokonujący sprzedaży, dostawy wewnątrzwspólnotowej, nabycia wewnątrzwspólnotowego, importu lub eksportu wyrobów węglowych, lub używający wyrobów węglowych do celów objętych zwolnieniem od akcyzy i do celów nieobjętych zwolnieniem od akcyzy, lub używający wyrobów węglowych do celów objętych zwolnieniem od akcyzy i do celów niepodlegających opodatkowaniu akcyzą – który pisemnie powiadomił właściwego naczelnika urzędu celnego o tej działalności; ” , po pkt 23b dodaje się pkt 23c w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
     - **c)**
 
-- **23c)** finalny nabywca węglowy – podmiot, który: nabywa na terytorium kraju, importuje lub nabywa wewnątrzwspólnotowo wyroby węglowe, lub posiada uzyskane w sposób inny niż w drodze nabycia wyroby węglowe niebędący pośredniczącym podmiotem węglowym; ” ;
+- **23c)** finalny nabywca węglowy – podmiot, który: nabywa na terytorium kraju, importuje lub nabywa wewnątrzwspólnotowo wyroby węglowe, lub posiada uzyskane w sposób inny niż w drodze nabycia wyroby węglowe – niebędący pośredniczącym podmiotem węglowym; ” ;
     - **a)**
     - **b)**
 
@@ -85,7 +85,7 @@ source: "eli-html"
 
 - **1)** w procesie produkcji energii elektrycznej;
 - **2)** w procesie produkcji wyrobów energetycznych;
-- **3)** przez gospodarstwo domowe, organ administracji publicznej, jednostkę Sił Zbrojnych Rzeczypospolitej Polskiej, podmiot systemu oświaty, o którym mowa w art. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.), żłobek i klub dziecięcy, o których mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. Nr 45, poz. 235, z późn. zm.), podmiot leczniczy, o którym mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217), jednostkę organizacyjną pomocy społecznej, o której mowa w art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.), organizacje, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.);
+- **3)** przez gospodarstwo domowe, organ administracji publicznej, jednostkę Sił Zbrojnych Rzeczypospolitej Polskiej, podmiot systemu oświaty, o którym mowa w art. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979 oraz z 2013 r. poz. 87 i 827.), żłobek i klub dziecięcy, o których mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. Nr 45, poz. 235, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 131, poz. 764 i Nr 171, poz. 1016 oraz z 2013 r. poz. 747.), podmiot leczniczy, o którym mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217), jednostkę organizacyjną pomocy społecznej, o której mowa w art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1544 i 1548 oraz z 2013 r. poz. 509.), organizacje, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.);
 - **4)** do przewozu towarów i pasażerów koleją;
 - **5)** do łącznego wytwarzania ciepła i energii elektrycznej;
 - **6)** w pracach rolniczych, ogrodniczych, w hodowli ryb, oraz w leśnictwie;
@@ -112,10 +112,18 @@ source: "eli-html"
 
 7. Przez zakład energochłonny wykorzystujący wyroby węglowe rozumie się podmiot, u którego udział zakupu wyrobów węglowych w wartości produkcji sprzedanej wynosi nie mniej niż 10% w roku poprzedzającym rok, w odniesieniu do którego jest ustalany procentowy udział. Zakład energochłonny wykorzystujący wyroby węglowe nie może być mniejszy niż zorganizowana część przedsiębiorstwa rozumiana jako organizacyjnie i finansowo wyodrębniony w istniejącym przedsiębiorstwie zespół składników materialnych i niematerialnych, w tym zobowiązania, przeznaczonych do realizacji określonych zadań gospodarczych, który zarazem mógłby stanowić niezależne przedsiębiorstwo samodzielnie realizujące te zadania. ” ;
 
-- **7)** w art. 38: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) wzór oraz sposób ewidencjonowania i stosowania dokumentu dostawy, w tym w przypadkach, o których mowa w art. 31a ust. 5 oraz w art. 42 ust. 1a, oraz podmioty, które wystawiają dokument dostawy, 2) szczegółowy zakres danych, jakie powinna zawierać ewidencja wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie i sposób jej prowadzenia, w tym termin dokonania wpisów do tej ewidencji, ” , – pkt 4 otrzymuje brzmienie: „ 4) warunki i sposób zwrotu wyrobów akcyzowych zwolnionych od akcyzy ze względu na przeznaczenie ” , w ust. 2: – pkt 1–3 otrzymują brzmienie: „ 1) dodatkowe warunki i tryb stosowania zwolnień, o których mowa w art. 30, art. 31a i art. 32, w szczególności w zakresie ewidencjonowania i dokumentowania uprawnienia do stosowania zwolnień, 2) sytuacje, w których do zastosowania zwolnienia od akcyzy nie muszą być spełnione niektóre albo wszystkie warunki, o których mowa w art. 31a ust. 3 oraz w art. 32 ust. 3 lub 5–13, 3) przypadki, o których mowa w art. 31a ust. 3 oraz w art. 32 ust. 3 pkt 1–3 i 5–7, w których nie stosuje się dokumentu dostawy, ” , – dodaje się pkt 4 w brzmieniu: „ 4) sposób stosowania do celów zwolnienia od akcyzy wyrobów węglowych ze względu na ich przeznaczenie innych dokumentów niż dokument dostawy, o których mowa w art. 31a ust. 3 ” ;
+- **7)** w art. 38: w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** wzór oraz sposób ewidencjonowania i stosowania dokumentu dostawy, w tym w przypadkach, o których mowa w art. 31a ust. 5 oraz w art. 42 ust. 1a, oraz podmioty, które wystawiają dokument dostawy,
+- **2)** szczegółowy zakres danych, jakie powinna zawierać ewidencja wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie i sposób jej prowadzenia, w tym termin dokonania wpisów do tej ewidencji, ” , pkt 4 otrzymuje brzmienie: „
+- **4)** warunki i sposób zwrotu wyrobów akcyzowych zwolnionych od akcyzy ze względu na przeznaczenie ” , w ust. 2: pkt 1–3 otrzymują brzmienie: „
     - **b)**
 
+- **1)** dodatkowe warunki i tryb stosowania zwolnień, o których mowa w art. 30, art. 31a i art. 32, w szczególności w zakresie ewidencjonowania i dokumentowania uprawnienia do stosowania zwolnień,
+- **2)** sytuacje, w których do zastosowania zwolnienia od akcyzy nie muszą być spełnione niektóre albo wszystkie warunki, o których mowa w art. 31a ust. 3 oraz w art. 32 ust. 3 lub 5–13,
+- **3)** przypadki, o których mowa w art. 31a ust. 3 oraz w art. 32 ust. 3 pkt 1–3 i 5–7, w których nie stosuje się dokumentu dostawy, ” , dodaje się pkt 4 w brzmieniu: „
+- **4)** sposób stosowania do celów zwolnienia od akcyzy wyrobów węglowych ze względu na ich przeznaczenie innych dokumentów niż dokument dostawy, o których mowa w art. 31a ust. 3 ” ;
 - **8)** w art. 85: w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Właściwy naczelnik urzędu celnego, z zastrzeżeniem ust. 7, ustala, w drodze decyzji, dla poszczególnych podmiotów, na ich wniosek: ” , w ust. 2 zdanie wstępne otrzymuje brzmienie: „ Właściwy naczelnik urzędu celnego, z zastrzeżeniem ust. 7, w drodze decyzji wydanej z urzędu dla poszczególnych podmiotów: ” , dodaje się ust. 7–9 w brzmieniu: „
     - **a)**
     - **b)**
@@ -143,7 +151,7 @@ source: "eli-html"
 2. Pośredniczący podmiot węglowy używający wyrobów węglowych jest obowiązany prowadzić ewidencję wyrobów węglowych zawierającą ilość wyrobów węglowych:
 
 - **1)** użytych w ramach zwolnień, o których mowa w art. 31a ust. 1, lub
-- **2)** użytych do celów nieobjętych zwolnieniem w podziale na miesiące, w kilogramach, według nazwy oraz pozycji CN.
+- **2)** użytych do celów nieobjętych zwolnieniem – w podziale na miesiące, w kilogramach, według nazwy oraz pozycji CN.
 
 3. Ewidencja, o której mowa w ust. 1 i 2, może być prowadzona w formie papierowej lub elektronicznej.
 
@@ -151,5 +159,5 @@ source: "eli-html"
 
 5. Ewidencja, o której mowa w ust. 1 i 2, może być zastąpiona przez ewidencję prowadzoną na potrzeby podatkowe lub księgowe inne niż akcyza, jeżeli zawiera ona wszystkie dane wymienione w ust. 1 lub 2. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 120, poz. 690, Nr 171, poz. 1016, Nr 205, poz. 1208, Nr 232, poz. 1378 i Nr 291, poz. 1707 oraz z 2012 r. poz. 1342 i 1456. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979 oraz z 2013 r. poz. 87 i 827. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 131, poz. 764 i Nr 171, poz. 1016 oraz z 2013 r. poz. 747. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1544 i 1548 oraz z 2013 r. poz. 509. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.
 

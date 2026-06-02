@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 25 stycznia 2017 r. w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji w odniesieniu do oddziałów banków zagranicznych w oparciu o ryzyko
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 25 stycznia 2017 r. w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji w odniesieniu do oddziałów banków zagranicznych w oparciu o ryzyko Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-25 |
 | Data wydania | 2017-01-30 |
-| Wejście w życie | 2017-01-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000184) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/184/text.pdf) |
 
@@ -49,9 +48,9 @@ Funduszu – rozumie się przez to Bankowy Fundusz Gwarancyjny;
 3)
 oddziale banku zagranicznego – rozumie się przez to oddział banku zagranicznego w rozumieniu art. 2 pkt 35 ustawy;
 4)
-rozporządzeniu (UE) nr 575/2013 – należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.);
+rozporządzeniu (UE) nr 575/2013 – należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153 oraz Dz. Urz. UE L 336 z 10.12.2016, str. 36.);
 5)
-rozporządzeniu Komisji (UE) 2015/63 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2015/63 z dnia 21 października 2014 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE w odniesieniu do składek ex ante wnoszonych na rzecz mechanizmów finansowania restrukturyzacji i uporządkowanej likwidacji (Dz. Urz. UE L 11 z 17.01.2015, str. 44, z późn. zm.) ;
+rozporządzeniu Komisji (UE) 2015/63 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2015/63 z dnia 21 października 2014 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE w odniesieniu do składek ex ante wnoszonych na rzecz mechanizmów finansowania restrukturyzacji i uporządkowanej likwidacji (Dz. Urz. UE L 11 z 17.01.2015, str. 44, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 233 z 30.08.2016, str. 1.) ;
 6)
 składce – rozumie się przez to środki wnoszone przez oddziały banków zagranicznych zgodnie z art. 295 ust. 1 ustawy.
 § 3.
@@ -143,6 +142,5 @@ Jeżeli kwota należnej w formie ryczałtu składki, o której mowa w ust. 1, je
 § 7.
 Kwoty składek należnych od oddziałów banków zagranicznych są korygowane zgodnie z art. 17 ust. 3 i 4 rozporządzenia Komisji (UE) 2015/63.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153 oraz Dz. Urz. UE L 336 z 10.12.2016, str. 36. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 233 z 30.08.2016, str. 1.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153 oraz Dz. Urz. UE L 336 z 10.12.2016, str. 36. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 233 z 30.08.2016, str. 1.
 

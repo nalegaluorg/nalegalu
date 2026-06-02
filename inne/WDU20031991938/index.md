@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-10-17 |
 | Data wydania | 2003-11-24 |
-| Wejście w życie | 2003-12-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031991938) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1938/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. Nr 96, poz. 593, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. Nr 96, poz. 593, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 84, poz. 948, z 2001 r. Nr 63, poz. 634 i Nr 111, poz. 1194 oraz z 2002 r. Nr 135, poz. 1145.) wprowadza się następujące zmiany:
 
 - **1)** art. 2 otrzymuje brzmienie: „
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 2. Jednostkami organizacyjnymi służby medycyny pracy są:
 
-- **1)** jednostki podstawowe: zakłady opieki zdrowotnej tworzone i utrzymywane w celu sprawowania profilaktycznej opieki zdrowotnej nad pracującymi, jednostki organizacyjne zakładów opieki zdrowotnej wydzielone w celu realizacji profilaktycznej opieki zdrowotnej nad pracującymi, lekarze wykonujący indywidualną praktykę lekarską, indywidualną specjalistyczną praktykę lekarską lub wykonujący zawód w formie grupowej praktyki lekarskiej zwane dalej „podstawowymi jednostkami służby medycyny pracy”,
+- **1)** jednostki podstawowe: zakłady opieki zdrowotnej tworzone i utrzymywane w celu sprawowania profilaktycznej opieki zdrowotnej nad pracującymi, jednostki organizacyjne zakładów opieki zdrowotnej wydzielone w celu realizacji profilaktycznej opieki zdrowotnej nad pracującymi, lekarze wykonujący indywidualną praktykę lekarską, indywidualną specjalistyczną praktykę lekarską lub wykonujący zawód w formie grupowej praktyki lekarskiej – zwane dalej „podstawowymi jednostkami służby medycyny pracy”,
     - **a)**
     - **b)**
     - **c)**
@@ -55,8 +54,9 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **4)** w art. 6: w ust. 1 w pkt 2: – w lit. d wyraz „leczniczej” zastępuje się wyrazem „orzeczniczej”, – lit. f otrzymuje brzmienie: „ f) wykonywanie szczepień ochronnych, o których mowa w art. 17 ustawy z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. Nr 126, poz. 1384 oraz z 2003 r. Nr 45, poz. 391), ” , w ust. 1 w pkt 8 przecinek zastępuje się kropką oraz uchyla pkt 9, ust. 2 otrzymuje brzmienie: „
+- **4)** w art. 6: w ust. 1 w pkt 2: – w lit. d wyraz „leczniczej” zastępuje się wyrazem „orzeczniczej”, lit. f otrzymuje brzmienie: „ wykonywanie szczepień ochronnych, o których mowa w art. 17 ustawy z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. Nr 126, poz. 1384 oraz z 2003 r. Nr 45, poz. 391), ” , w ust. 1 w pkt 8 przecinek zastępuje się kropką oraz uchyla pkt 9, ust. 2 otrzymuje brzmienie: „
     - **a)**
+    - **f)**
     - **b)**
     - **c)**
 
@@ -161,7 +161,7 @@ source: "eli-html"
 
 3. Z części budżetu państwa, której dysponentem jest minister właściwy do spraw zdrowia, mogą być finansowane w całości lub w części programy prewencji zagrożeń zdrowia, o których mowa w art. 20a pkt 3. ” ;
 
-- **15)** uchyla się art. 22a. W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. Nr 63, poz. 634, z późn. zm.) w art. 35 ust. 2 otrzymuje brzmienie: „
+- **15)** uchyla się art. 22a. W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. Nr 63, poz. 634, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1408, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1362 oraz z 2003 r. Nr 52, poz. 450, Nr 122, poz. 1144 i Nr 130, poz. 1187.) w art. 35 ust. 2 otrzymuje brzmienie: „
 
 2. Zasady i tryb wykonywania badań lekarskich osób, o których mowa w ust. 1, do celów sanitarno-epidemiologicznych określają przepisy o chorobach zakaźnych i zakażeniach. ” .
 
@@ -169,8 +169,11 @@ source: "eli-html"
 
 - **1)** w art. 2 pkt 1 otrzymuje brzmienie: „
 - **1)** badania do celów sanitarno-epidemiologicznych – lekarskie i laboratoryjne badania wykonywane w celu identyfikacji zakażenia lub ustalenia rozpoznania choroby, ” ;
-- **2)** w art. 6: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Badaniom do celów sanitarno-epidemiologicznych podlegają: ” , – pkt 4 i 5 otrzymują brzmienie: „ 4) osoby podejmujące lub wykonujące prace, przy wykonywaniu których istnieje możliwość przeniesienia zakażenia na inne osoby – badaniom w celu identyfikacji zakażenia prątkami gruźlicy, pałeczkami duru brzusznego, durów rzekomych A, B i C, innymi pałeczkami z rodzaju Salmonella i Shigella, a także badaniom w celu identyfikacji zakażenia innymi czynnikami chorobotwórczymi określonymi w wykazie, o którym mowa w ust. 3a, 5) uczniowie szkół oraz studenci szkół wyższych kształcących się do wykonywania prac, o których mowa w pkt 4 – badaniom w celu identyfikacji zakażenia prątkami gruźlicy, pałeczkami duru brzusznego, durów rzekomych A, B i C, innymi pałeczkami z rodzaju Salmonella i Shigella, a także badaniom w celu identyfikacji zakażenia innymi czynnikami chorobotwórczymi określonymi w wykazie, o którym mowa w ust. 3a. ” , ust. 3 otrzymuje brzmienie: „
+- **2)** w art. 6: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Badaniom do celów sanitarno-epidemiologicznych podlegają: ” , pkt 4 i 5 otrzymują brzmienie: „
     - **a)**
+
+- **4)** osoby podejmujące lub wykonujące prace, przy wykonywaniu których istnieje możliwość przeniesienia zakażenia na inne osoby – badaniom w celu identyfikacji zakażenia prątkami gruźlicy, pałeczkami duru brzusznego, durów rzekomych A, B i C, innymi pałeczkami z rodzaju Salmonella i Shigella, a także badaniom w celu identyfikacji zakażenia innymi czynnikami chorobotwórczymi określonymi w wykazie, o którym mowa w ust. 3a,
+- **5)** uczniowie szkół oraz studenci szkół wyższych kształcących się do wykonywania prac, o których mowa w pkt 4 – badaniom w celu identyfikacji zakażenia prątkami gruźlicy, pałeczkami duru brzusznego, durów rzekomych A, B i C, innymi pałeczkami z rodzaju Salmonella i Shigella, a także badaniom w celu identyfikacji zakażenia innymi czynnikami chorobotwórczymi określonymi w wykazie, o którym mowa w ust. 3a. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, rodzaje badań do celów sanitarno-epidemiologicznych, którym podlegają osoby, o których mowa w ust. 1 pkt 4 i 5, oraz tryb ich przeprowadzania, uwzględniając w szczególności:
@@ -182,7 +185,7 @@ source: "eli-html"
 3a. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wykaz czynników chorobotwórczych innych niż wymienione w ust. 1 pkt 4 i 5, którymi zakażenie wyklucza wykonywanie prac, o których mowa w ust. 4,
-- **2)** wykaz stanów chorobowych spowodowanych tymi czynnikami chorobotwórczymi uwzględniając czynniki i stany chorobowe o istotnym stopniu ryzyka przeniesienia zakażenia. ” , ust. 5 otrzymuje brzmienie: „
+- **2)** wykaz stanów chorobowych spowodowanych tymi czynnikami chorobotwórczymi – uwzględniając czynniki i stany chorobowe o istotnym stopniu ryzyka przeniesienia zakażenia. ” , ust. 5 otrzymuje brzmienie: „
     - **d)**
 
 5. Osoby chore na gruźlicę płuc w okresie prątkowania, osoby zakażone pałeczkami duru brzusznego, durów rzekomych A, B i C, innymi pałeczkami z rodzaju Salmonella i Shigella oraz osoby ze stanami chorobowymi, o których mowa w ust. 3a, nie mogą wykonywać prac określonych w wykazie, o którym mowa w ust. 4. ” , ust. 10 i 11 otrzymują brzmienie: „
@@ -205,5 +208,5 @@ source: "eli-html"
 
 - **5)** uchyla się załącznik nr 3.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 84, poz. 948, z 2001 r. Nr 63, poz. 634 i Nr 111, poz. 1194 oraz z 2002 r. Nr 135, poz. 1145. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1408, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1362 oraz z 2003 r. Nr 52, poz. 450, Nr 122, poz. 1144 i Nr 130, poz. 1187.
 

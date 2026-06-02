@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 13 grudnia 2021 r. w sprawie szczegółowego zakresu niektórych informacji gromadzonych w centralnym rejestrze oszczędności energii finalnej oraz sposobu uwierzytelniania osób upoważnionych wpisanych do wykazu
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 13 grudnia 2021 r. w sprawie szczegółowego zakresu niektórych informacji gromadzonych w centralnym rejestrze oszczędności energii finalnej oraz sposobu uwierzytelniania osób upoważnionych wpisanych do wykazu Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-13 |
 | Data wydania | 2021-12-21 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002362) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2362/text.pdf) |
 
@@ -62,8 +61,7 @@ inne potwierdzenie wynikające z zasad realizacji danego programu lub instrument
 § 3.
 Uwierzytelnianie osoby upoważnionej wpisanej do wykazu w systemie teleinformatycznym obsługującym rejestr wymaga użycia profilu zaufanego lub innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 Załącznik – Rodzaje przedsięwzięć służących poprawie efektywności energetycznej u odbiorcy końcowego
 1.
 Przedsięwzięcie termomodernizacyjne w rozumieniu art. 2 pkt 2 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2021 r. poz. 554, z późn. zm.), zwanej dalej „ustawą”.

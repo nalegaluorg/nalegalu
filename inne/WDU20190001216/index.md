@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 19 czerwca 2019 r. w sprawie dofinansowania ze środków Funduszu Rozwoju Kultury Fizycznej zadań związanych z przygotowaniem w 2019 r. kadry narodowej do igrzysk olimpijskich oraz przygotowaniem do mistrzostw świata lub mistrzostw Europy i udziałem w nich
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 19 czerwca 2019 r. w sprawie dofinansowania ze środków Funduszu Rozwoju Kultury Fizycznej zadań związanych z przygotowaniem w 2019 r. kadry narodowej do igrzysk olimpijskich oraz przygotowaniem do mistrzostw świata lub mistrzostw Europy i udziałem w nich Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2318).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-19 |
 | Data wydania | 2019-07-01 |
-| Wejście w życie | 2019-07-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1216/text.pdf) |
 
@@ -146,6 +145,5 @@ Wnioskodawca realizujący zadanie może przeznaczyć na koszty pośrednie nie wi
 § 12.
 W przypadku stwierdzenia wykorzystania dofinansowania niezgodnie z przeznaczeniem, pobrania dofinansowania nienależnie lub w nadmiernej wysokości oraz w odniesieniu do zwrotu dofinansowania niewykorzystanego stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869) w zakresie dotyczącym dotacji udzielanych z budżetu państwa.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-1) Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2318).
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. 1) Minister Sportu i Turystyki kieruje działem administracji rządowej – kultura fizyczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 2318).
 

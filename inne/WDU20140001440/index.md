@@ -22,17 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-20 |
 | Data wydania | 2014-10-23 |
-| Wejście w życie | 2014-11-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001440) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1440/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24, 295, 496, 567, 619, 773, 1004, 1136, 1138, 1146, 1175 i 1188.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. poz. 1248) w załączniku nr 1:
 1)
-część IV otrzymuje brzmienie:
-„
+część IV otrzymuje brzmienie: „
+Świadczenia medycznej diagnostyki laboratoryjnej lub diagnostyki obrazowej i nieobrazowej związane z realizacją świadczeń lekarza podstawowej opieki zdrowotnej
 1.
 Badania hematologiczne:
 1)
@@ -190,8 +189,7 @@ Lekarz podstawowej opieki zdrowotnej może wystawiać skierowanie na badania end
 1)
 gastroskopia;
 2)
-kolonoskopia.
-” ;
+kolonoskopia. ” ;
 2)
 w części V w ust. 1 pkt 1.1 otrzymuje brzmienie:
 1.1.
@@ -202,15 +200,14 @@ lekarz, o którym mowa w art. 55 ust. 2a ustawy z dnia 27 sierpnia 2004 r. o św
 – posiadający specjalizację I lub II stopnia, lub tytuł specjalisty w dziedzinie chorób wewnętrznych – przyjmujący deklaracje wyboru świadczeniobiorców dorosłych,
 – posiadający specjalizację I lub II stopnia, lub tytuł specjalisty w dziedzinie pediatrii – przyjmujący deklaracje wyboru świadczeniobiorców do ukończenia 18 roku życia,
 b)
-lekarz, o którym mowa w art. 14 ust. 1 i 3 ustawy z dnia 24 sierpnia 2007 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. Nr 166, poz. 1172).
-” .
+lekarz, o którym mowa w art. 14 ust. 1 i 3 ustawy z dnia 24 sierpnia 2007 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. Nr 166, poz. 1172). ” .
 § 2.
 1.
 Przepisy rozporządzenia stosuje się do świadczeń gwarantowanych udzielanych od dnia 1 stycznia 2015 r.
 2.
 Do świadczeń gwarantowanych udzielanych przed dniem 1 stycznia 2015 r. stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24, 295, 496, 567, 619, 773, 1004, 1136, 1138, 1146, 1175 i 1188.
 
-## Część IV. Świadczenia medycznej diagnostyki laboratoryjnej lub diagnostyki obrazowej i nieobrazowej związane z realizacją świadczeń lekarza podstawowej opieki zdrowotnej
+## Część IV.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-29 |
 | Data wydania | 2007-08-03 |
-| Wejście w życie | 2007-08-18 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071400984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/984/text.pdf) |
 
@@ -41,7 +40,7 @@ source: "eli-html"
 
 - **9)** projekt – przedsięwzięcie realizowane w ramach programu operacyjnego na podstawie decyzji lub umowy o dofinansowanie, zawieranej między beneficjentem a instytucją zarządzającą, instytucją pośredniczącą lub instytucją wdrażającą; ” ;
 - **2)** w art. 9 pkt 3 otrzymuje brzmienie: „
-- **3)** strategie rozwoju województw, o których mowa w art. 11 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2001 r. Nr 142, poz. 1590, z późn. zm.) oraz strategie ponadregionalne obejmujące obszar więcej niż jednego województwa; ” ;
+- **3)** strategie rozwoju województw, o których mowa w art. 11 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2001 r. Nr 142, poz. 1590, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759 oraz z 2006 r. Nr 126, poz. 875 i Nr 227, poz. 1658.) oraz strategie ponadregionalne obejmujące obszar więcej niż jednego województwa; ” ;
 - **3)** w art. 13 dodaje się ust. 5 i 6 w brzmieniu: „
 
 5. Do strategii ponadregionalnej stosuje się przepisy dotyczące strategii sektorowej, z zastrzeżeniem ust. 6. 6. Strategia ponadregionalna może wykraczać poza okres objęty obowiązującą strategią rozwoju kraju, jeżeli warunkuje to jej realizację. ” ;
@@ -54,8 +53,11 @@ source: "eli-html"
 
 - **6)** w art. 26 w ust. 1 pkt 5 otrzymuje brzmienie: „
 - **5)** zawieranie z beneficjentami umów o dofinansowanie projektu lub wydawanie decyzji, o której mowa w art. 28 ust. 2 pkt 1; ” ;
-- **7)** w art. 28: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) indywidualne – o strategicznym znaczeniu dla realizacji programu, wskazywane przez instytucję zarządzającą zgodnie z kryteriami zatwierdzonymi przez Komitet Monitorujący; 2) systemowe – polegające na dofinansowaniu realizacji zadań publicznych określonych w odrębnych przepisach; ” , – uchyla się pkt 4, po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **7)** w art. 28: w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** indywidualne – o strategicznym znaczeniu dla realizacji programu, wskazywane przez instytucję zarządzającą zgodnie z kryteriami zatwierdzonymi przez Komitet Monitorujący;
+- **2)** systemowe – polegające na dofinansowaniu realizacji zadań publicznych określonych w odrębnych przepisach; ” , – uchyla się pkt 4, po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **b)**
 
 1a. Lista projektów, o których mowa w ust. 1 pkt 1, realizowanych w ramach krajowych programów operacyjnych, jest ogłaszana przez ministra właściwego do spraw rozwoju regionalnego, w formie obwieszczenia ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
@@ -85,9 +87,9 @@ source: "eli-html"
 
 1. Instytucja zarządzająca lub instytucja pośrednicząca może zawrzeć z instytucją wdrażającą porozumienie lub umowę o realizację powierzonych jej zadań.
 
-2. Do porozumień, o których mowa w ust. 1, stosuje się przepisy działu V ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.).
+2. Do porozumień, o których mowa w ust. 1, stosuje się przepisy działu V ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587 i Nr 115, poz. 791.).
 
-3. Do zawarcia umowy, o której mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2006 r. Nr 164, poz. 1163, z późn. zm.), jeżeli wymaga tego istotny interes bezpieczeństwa państwa, w tym w zakresie energetyki lub informatyzacji.
+3. Do zawarcia umowy, o której mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2006 r. Nr 164, poz. 1163, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 64, poz. 427 i Nr 82, poz. 560.), jeżeli wymaga tego istotny interes bezpieczeństwa państwa, w tym w zakresie energetyki lub informatyzacji.
 
 4. Porozumienie lub umowa, o których mowa w ust. 1, zawierają elementy wymienione w art. 209 ust. 2 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych oraz określają w szczególności:
 
@@ -119,9 +121,9 @@ source: "eli-html"
 - **2)** w przypadku pozostałych programów operacyjnych – określając jego skład, zadania oraz tryb działania. ” ;
 - **14)** użyte w art. 54 wyrazy „o których mowa w art. 12 ust. 3” zastępuje się wyrazami „o których mowa w art. 11 ust. 3”.
 
-**Art. 2.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.) w art. 202 w ust. 2 pkt 2 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587 i Nr 115, poz. 791.) w art. 202 w ust. 2 pkt 2 otrzymuje brzmienie: „
 
 - **2)** dotacje rozwojowe dla jednostek sektora finansów publicznych oraz innych podmiotów będących beneficjentami tych środków, a także dla podmiotów, którym w ramach programu operacyjnego została powierzona na podstawie porozumienia lub umowy realizacja zadań odnoszących się bezpośrednio do beneficjentów; ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759 oraz z 2006 r. Nr 126, poz. 875 i Nr 227, poz. 1658. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587 i Nr 115, poz. 791. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 64, poz. 427 i Nr 82, poz. 560. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587 i Nr 115, poz. 791.
 

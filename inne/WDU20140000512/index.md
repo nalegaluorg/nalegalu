@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, ustawę z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych oraz ustawę z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-14 |
 | Data wydania | 2014-04-23 |
-| Wejście w życie | 2014-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000512) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/512/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481 i 504.) wprowadza się następujące zmiany:
 
 - **1)** w art. 34 pkt 1 otrzymuje brzmienie: „
 - **1)** opiniuje kandydatów na stanowiska sędziów sądu apelacyjnego oraz sędziów sądów okręgowych, działających na obszarze apelacji; ” ;
@@ -61,7 +60,7 @@ source: "eli-html"
 
 § 7. Zgłaszający swoją kandydaturę dołącza do karty zgłoszenia informację z Krajowego Rejestru Karnego dotyczącą jego osoby i zaświadczenie stwierdzające, że jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków sędziego, z zastrzeżeniem art. 58 § 4a. Zgłaszający urodzony przed dniem 1 sierpnia 1972 r. składa w postaci papierowej oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2013 r. poz. 1388), albo informację, o której mowa w art. 7 ust. 3a tej ustawy. Do karty zgłoszenia dołącza się również oświadczenie w przedmiocie zgody albo niewyrażenia zgody na wykorzystanie dokumentów dotyczących zgłaszającego w innych postępowaniach w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim.
 
-§ 8. Zawarte w karcie zgłoszenia oświadczenia: o korzystaniu z pełni praw cywilnych i obywatelskich, o toczącym się postępowaniu o przestępstwo lub przestępstwo skarbowe, o ukaraniu w postępowaniu dyscyplinarnym, o toczącym się postępowaniu dyscyplinarnym oraz o uprawomocnieniu się orzeczenia, o którym mowa w art. 30 ust. 1 ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. Nr 42, poz. 428, z późn. zm.), jak również oświadczenie, że nie toczy się wobec kandydata inne postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, kandydat składa pod rygorem odpowiedzialności karnej za fałszywe zeznania.
+§ 8. Zawarte w karcie zgłoszenia oświadczenia: o korzystaniu z pełni praw cywilnych i obywatelskich, o toczącym się postępowaniu o przestępstwo lub przestępstwo skarbowe, o ukaraniu w postępowaniu dyscyplinarnym, o toczącym się postępowaniu dyscyplinarnym oraz o uprawomocnieniu się orzeczenia, o którym mowa w art. 30 ust. 1 ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. Nr 42, poz. 428, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 57, poz. 618, Nr 62, poz. 681 i Nr 63, poz. 701, z 2000 r. Nr 43, poz. 488 i Nr 50, poz. 600, z 2002 r. Nr 14, poz. 128, Nr 74, poz. 676, Nr 84, poz. 765, Nr 153, poz. 1271 i Nr 175, poz. 1434, z 2003 r. Nr 44, poz. 390 i Nr 99, poz. 921, z 2004 r. Nr 25, poz. 219, z 2005 r. Nr 164, poz. 1365 oraz z 2006 r. Nr 104, poz. 708 i Nr 170, poz. 1218.), jak również oświadczenie, że nie toczy się wobec kandydata inne postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, kandydat składa pod rygorem odpowiedzialności karnej za fałszywe zeznania.
 
 § 9. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, zakres danych zawartych w karcie zgłoszenia na wolne stanowisko sędziowskie, mając na względzie, aby dane te umożliwiały weryfikację w niezbędnym zakresie spełnienia warunków wymaganych przez ustawę od kandydatów na stanowisko sędziowskie.
 
@@ -188,12 +187,12 @@ source: "eli-html"
 
 § 6. O treści informacji uzyskanej od komendanta wojewódzkiego Policji albo Komendanta Stołecznego Policji prezes sądu zawiadamia kandydata za pośrednictwem systemu teleinformatycznego nie później niż w terminie przedstawienia kandydatury Krajowej Radzie Sądownictwa. Przepis art. 57ad § 2 stosuje się odpowiednio. ” .
 
-**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r. poz. 952, z późn. zm.) w art. 70 § 1 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r. poz. 952, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 448 i 1247 oraz z 2014 r. poz. 188.) w art. 70 § 1 otrzymuje brzmienie: „
 
 § 1. Do sądów wojskowych, asystentów sędziów oraz ławników stosuje się odpowiednio przepisy art. 4, art. 5, art. 8, art. 22b § 2, art. 37 § 8, art. 37e § 1 i 3, art. 40, art. 41a-41d, art. 42, art. 44–52, art. 53 § 1–3, art. 54, art. 56, art. 57 § 1 i 7 zdanie pierwsze i drugie, art. 58 § 1, 3–4a i 5–6, art. 60, art. 65, art. 66, art. 69 § 1–2a, art. 70, art. 71, art. 73–75, art. 77 § 2–2b, 3a, 4 i 6–7, art. 78 § 1–4, art. 78a § 1–3 i 6, art. 79, art. 80 § 2d-2h i 4, art. 82a, art. 83, art. 84 § 3, art. 85, art. 86, art. 89, art. 90, art. 91 § 1, 1c-2, 6, 7 i 9–12, art. 91a, art. 92, art. 93, art. 94 § 1, 3 i 4, art. 95, art. 98 § 1 i 2, art. 99, art. 100 § 1–4, art. 101 § 2–4, art. 102, art. 104–106d, art. 106f, art. 106g, art. 108, art. 111, art. 114 § 5–7, art. 115–118, art. 120–122, art. 125–128, art. 130, art. 131, art. 133, art. 147 § 3, art. 156, art. 159 § 1 pkt 5 i 6, art. 167, art. 169, art. 170 § 3 i art. 171–174 ustawy, o której mowa w art. 32a § 1, oraz przepisy wydane na podstawie art. 41 § 2, art. 41e, art. 57 § 9, art. 58 § 7, art. 78 § 5, art. 78a § 7, art. 91 § 8, art. 106e i art. 148 § 3 tej ustawy, z tym że:
 
 - **1)** określone w przepisach czynności i uprawnienia Ministra Sprawiedliwości, zgromadzenia ogólnego sędziów, kolegium sądu, prezesów sądów rejonowych, okręgowych i apelacyjnych oraz prezesa sądu dyscyplinarnego wykonują odpowiednio: Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej, Zgromadzenie Sędziów Sądów Wojskowych, kolegium wojskowego sądu okręgowego, prezesi sądów wojskowych i prezes sądu dyscyplinarnego, a czynności i uprawnienia prezesa sądu apelacyjnego w zakresie nadzoru administracyjnego – Minister Sprawiedliwości;
-- **2)** uprawnienia określone w art. 92 § 1 powołanej ustawy przysługują, jeżeli sędzia wojskowy nie nabył wcześniej prawa do urlopu dodatkowego określonego w przepisach ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.);
+- **2)** uprawnienia określone w art. 92 § 1 powołanej ustawy przysługują, jeżeli sędzia wojskowy nie nabył wcześniej prawa do urlopu dodatkowego określonego w przepisach ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696, Nr 171, poz. 1016 i Nr 236, poz. 1396, z 2013 r. poz. 675, 829, 852 i 1355 oraz z 2014 r. poz. 502.);
 - **3)** oceny pracy sędziów sądów wojskowych dokonują sędziowie wizytatorzy, powoływani przez Ministra Sprawiedliwości spośród sędziów wojskowego sądu okręgowego, po zasięgnięciu opinii kolegium wojskowego sądu okręgowego; negatywna opinia kolegium jest dla Ministra Sprawiedliwości wiążąca; kandydatów do sprawowania funkcji wizytatora zgłasza prezes wojskowego sądu okręgowego;
 - **4)** przepisów art. 131 powołanej ustawy nie stosuje się w przypadkach określonych w art. 15 niniejszej ustawy;
 - **5)** uprawnienia określone w art. 172–174 powołanej ustawy przysługują w przypadku określonym w art. 61 niniejszej ustawy;
@@ -201,7 +200,7 @@ source: "eli-html"
 - **7)** obsada wolnych stanowisk sędziowskich, o których mowa w art. 56 § 1–2a powołanej ustawy, następuje z uwzględnieniem potrzeb kadrowych sądownictwa wojskowego;
 - **8)** zgłoszenia kandydatury na wolne stanowisko sędziowskie dokonuje się poprzez złożenie karty zgłoszenia w dwóch egzemplarzach; nie ma zastosowania system teleinformatyczny obsługujący postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego. ” .
 
-**Art. 3.** W ustawie z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. Nr 153, poz. 1269, z późn. zm.) art. 29 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. Nr 153, poz. 1269, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1417, z 2009 r. Nr 219, poz. 1706, z 2010 r. Nr 36, poz. 196 oraz z 2011 r. Nr 126, poz. 714 i Nr 203, poz. 1192.) art. 29 otrzymuje brzmienie: „
 
 **Art. 29.** W sprawach nieuregulowanych w ustawie do wojewódzkich sądów administracyjnych oraz sędziów, asesorów sądowych, starszych referendarzy sądowych, referendarzy sądowych, starszych asystentów sędziów, asystentów sędziów, urzędników i innych pracowników tych sądów stosuje się odpowiednio przepisy o ustroju sądów powszechnych, z tym że system teleinformatyczny obsługujący postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego nie ma zastosowania, a do starszych asystentów sędziów stosuje się odpowiednio przepisy dotyczące asystentów sędziów, do wynagrodzeń sędziów stosuje się przepisy dotyczące sędziów sądu apelacyjnego, a do wynagrodzeń asesorów sądowych – przepisy dotyczące sędziów sądu okręgowego. Określone w tych przepisach uprawnienia Ministra Sprawiedliwości przysługują Prezesowi Naczelnego Sądu Administracyjnego. ” .
 
@@ -209,7 +208,7 @@ source: "eli-html"
 
 - **1)** w art. 22 ust. 1 otrzymuje brzmienie: „
 
-1. Rada określa w regulaminie szczegółowy tryb swojego działania, z uwzględnieniem zastosowania systemu teleinformatycznego obsługującego postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, o którym mowa w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.), zwanego dalej „systemem teleinformatycznym”. ” ;
+1. Rada określa w regulaminie szczegółowy tryb swojego działania, z uwzględnieniem zastosowania systemu teleinformatycznego obsługującego postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, o którym mowa w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481, 504 i 512.), zwanego dalej „systemem teleinformatycznym”. ” ;
 
 - **2)** w art. 30: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -242,5 +241,5 @@ source: "eli-html"
 
 **Art. 9.** Dotychczasowy regulamin Krajowej Rady Sądownictwa uchwalony na podstawie art. 22 ust. 1 ustawy, o której mowa w art. 4, zachowuje moc do dnia wejścia w życie nowego regulaminu uchwalonego na podstawie art. 22 ust. 1 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 10.** Ustawa wchodzi w życie z dniem 1 października 2014 r.
+**Art. 10.** Ustawa wchodzi w życie z dniem 1 października 2014 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, ustawę z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych oraz ustawę z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481 i 504. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 57, poz. 618, Nr 62, poz. 681 i Nr 63, poz. 701, z 2000 r. Nr 43, poz. 488 i Nr 50, poz. 600, z 2002 r. Nr 14, poz. 128, Nr 74, poz. 676, Nr 84, poz. 765, Nr 153, poz. 1271 i Nr 175, poz. 1434, z 2003 r. Nr 44, poz. 390 i Nr 99, poz. 921, z 2004 r. Nr 25, poz. 219, z 2005 r. Nr 164, poz. 1365 oraz z 2006 r. Nr 104, poz. 708 i Nr 170, poz. 1218. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 448 i 1247 oraz z 2014 r. poz. 188. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696, Nr 171, poz. 1016 i Nr 236, poz. 1396, z 2013 r. poz. 675, 829, 852 i 1355 oraz z 2014 r. poz. 502. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1417, z 2009 r. Nr 219, poz. 1706, z 2010 r. Nr 36, poz. 196 oraz z 2011 r. Nr 126, poz. 714 i Nr 203, poz. 1192. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 662, 1165, 1247, 1433 i 1623 oraz z 2014 r. poz. 31, 481, 504 i 512.
 

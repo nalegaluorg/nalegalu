@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 21 marca 2019 r. zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych państwowych jednostkach budżetowych
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 21 marca 2019 r. zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych państwowych jednostkach budżetowych Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
 
 | Pole | Wartość |
 |---|---|
@@ -22,32 +22,36 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-21 |
 | Data wydania | 2019-03-29 |
-| Wejście w życie | 2019-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/593/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Tabele miesięcznych stawek wynagrodzenia zasadniczego
 Treść rozporządzenia
-Na podstawie art. 773 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 773 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 30 kwietnia 2008 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych państwowych jednostkach budżetowych (Dz. U. z 2018 r. poz. 714 i 1768) wprowadza się następujące zmiany:
 1)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
 2)
-w załączniku nr 3 do rozporządzenia tabela Va otrzymuje brzmienie:
-„
+w załączniku nr 3 do rozporządzenia tabela Va otrzymuje brzmienie: „
 Va.
-Pracowników zatrudnionych w Centrum Projektów Europejskich Lp. Stanowisko Kategoria zaszeregowania Stawkadodatkufunkcyjnegodo Wymagane kwalifikacje wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Kierownik Wspólnego Sekretariatu Technicznego XIV-XV 10 wyższe 4 2 Naczelnik wydziału, doradca XI-XV 10 wyższe 3 audytor wewnętrzny, radca prawny według odrębnych przepisów 3 Zastępca kierownika Wspólnego Sekretariatu Technicznego, zastępca naczelnika wydziału, ekspert XIII-XIV 9 wyższe 3 4 Koordynator: sekcji, zespołu, główny specjalista X-XII 7 wyższe 3 5 Starszy specjalista VIII-XI 4 wyższe 2 średnie 8 informatyk wyższe – 6 Specjalista VII-X wyższe 2 średnie 6 7 Starszy: księgowy, inspektor VI-VIII wyższe 1 średnie 4 8 Księgowy, inspektor III-VII – średnie – 9 Kierownik: kancelarii, archiwum V-VI – średnie 2 10 Sekretarka, recepcjonistka, asystent II-VI – średnie – 11 Kierowca samochodu osobowego I-IV – według odrębnych przepisów”
+Pracowników zatrudnionych w Centrum Projektów Europejskich
+Lp. Stanowisko Kategoria zaszeregowania Stawka
+dodatku
+funkcyjnego
+do Wymagane kwalifikacje wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Kierownik Wspólnego Sekretariatu Technicznego XIV-XV 10 wyższe 4 2 Naczelnik wydziału, doradca XI-XV 10 wyższe 3 audytor wewnętrzny, radca prawny według odrębnych przepisów 3 Zastępca kierownika Wspólnego Sekretariatu Technicznego, zastępca naczelnika wydziału, ekspert XIII-XIV 9 wyższe 3 4 Koordynator: sekcji, zespołu, główny specjalista X-XII 7 wyższe 3 5 Starszy specjalista VIII-XI 4 wyższe 2 średnie 8 informatyk wyższe – 6 Specjalista VII-X wyższe 2 średnie 6 7 Starszy: księgowy, inspektor VI-VIII wyższe 1 średnie 4 8 Księgowy, inspektor III-VII – średnie – 9 Kierownik: kancelarii, archiwum V-VI – średnie 2 10 Sekretarka,
+recepcjonistka,
+asystent II-VI – średnie – 11 Kierowca samochodu osobowego I-IV – według odrębnych przepisów”
 § 2.
-W okresie od dnia 1 stycznia 2019 r. do dnia 31 marca 2019 r. stosuje się następujące miesięczne stawki wynagrodzenia zasadniczego dla pracowników Centrum Projektów Europejskich: Kategoria zaszeregowania Kwota w złotych 1 2 I 2 500–3 300 II 2 700–3 500 III 2 900–3 700 IV 3 100–3 900 V 3 300–4 100 VI 3 500–4 300 VII 3 700–4 500 VIII 3 900–4 700 IX 4 100–4 900 X 4 300–5 100 XI 4 500–5 300 XII 4 700–5 500 XIII 5 000–6 000 XIV 5 500–6 600 XV 6 000–7 600 XVI 6 500–8 600 XVII 7 000–10 100 XVIII 7 600–12 200
+W okresie od dnia 1 stycznia 2019 r. do dnia 31 marca 2019 r. stosuje się następujące miesięczne stawki wynagrodzenia zasadniczego dla pracowników Centrum Projektów Europejskich:
+Kategoria zaszeregowania Kwota w złotych 1 2 I 2 500–3 300 II 2 700–3 500 III 2 900–3 700 IV 3 100–3 900 V 3 300–4 100 VI 3 500–4 300 VII 3 700–4 500 VIII 3 900–4 700 IX 4 100–4 900 X 4 300–5 100 XI 4 500–5 300 XII 4 700–5 500 XIII 5 000–6 000 XIV 5 500–6 600 XV 6 000–7 600 XVI 6 500–8 600 XVII 7 000–10 100 XVIII 7 600–12 200
 § 3.
 Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku do rozporządzenia, z wyjątkiem miesięcznych stawek wynagrodzenia zasadniczego określonych w tabeli „V. Dla pracowników Centrum Projektów Europejskich”, mają zastosowanie do wynagrodzeń należnych od dnia 1 stycznia 2019 r.
 § 4.
 Z dniem wejścia w życie rozporządzenia zatrudniony w Centrum Projektów Europejskich ekspert do spraw programu staje się ekspertem.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r., z wyjątkiem § 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2019 r.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r., z wyjątkiem § 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2019 r. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.
 Załącznik – Tabele miesięcznych stawek wynagrodzenia zasadniczego
 I. Dla pracowników OHP
 Kategoria zaszeregowania Kwota w złotych 1 2 I 1 600–2 400 II 1 640–2 450 III 1 690–2 500 IV 1 740–2 550 V 1 790–2 600 VI 1 840–2 650 VII 1 890–2 700 VIII 1 940–2 800 IX 1 990–2 900 X 2 050–3 100 XI 2 150–3 300 XII 2 250–3 500 XIII 2 350–3 700 XIV 2 450–3 900 XV 2 550–4 100 XVI 2 650–4 300 XVII 2 800–4 600 XVIII 2 950–4 900 XIX 3 150–5 200 XX 3 350–5 600 XXI 3 650–6 000

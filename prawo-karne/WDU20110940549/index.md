@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 marca 2011 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 25 marca 2011 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw Niniejsza ustawa zmienia ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody oraz ustawę z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-03-25 |
 | Data wydania | 2011-05-10 |
-| Wejście w życie | 2011-06-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110940549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/549/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) wprowadza się następujące zmiany:
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2008/99/WE z dnia 19 listopada 2008 r. w sprawie ochrony środowiska poprzez prawo karne (Dz. Urz. UE L 328 z 06.12.2008, str. 28).
+
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602 oraz z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245 i Nr 72, poz. 381.) wprowadza się następujące zmiany:
 
 - **1)** art. 182 otrzymuje brzmienie: „
 
@@ -62,14 +63,14 @@ source: "eli-html"
 
 § 1. Kto wbrew obowiązkowi nie utrzymuje w należytym stanie lub nie używa urządzeń zabezpieczających wodę, powietrze lub powierzchnię ziemi przed zanieczyszczeniem lub urządzeń zabezpieczających przed skażeniem promieniotwórczym lub promieniowaniem jonizującym, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. ” .
 
-**Art. 2.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.) w art. 16 w ust. 1 w pkt 8:
+**Art. 2.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442, z 2005 r. Nr 157, poz. 1316, Nr 178, poz. 1479, Nr 180, poz. 1492 i Nr 183, poz. 1538, z 2006 r. Nr 120, poz. 826, z 2007 r. Nr 75, poz. 492 i Nr 166, poz. 1172, z 2008 r. Nr 214, poz. 1344, z 2009 r. Nr 20, poz. 106, Nr 62, poz. 504, Nr 166, poz. 1317 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530 i Nr 127, poz. 857 oraz z 2011 r. Nr 63, poz. 322.) w art. 16 w ust. 1 w pkt 8:
 
 - **1)** uchyla się lit. c;
-- **2)** w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f i g w brzmieniu: „ art. 127a i art. 128a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.), art. 47a ustawy z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową (Dz. U. Nr 121, poz. 1263, z późn. zm.); ” .
+- **2)** w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f i g w brzmieniu: „ art. 127a i art. 128a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170 i Nr 94, poz. 549.), art. 47a ustawy z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową (Dz. U. Nr 121, poz. 1263, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1458 i Nr 203, poz. 1683, z 2009 r. Nr 215, poz. 1664 oraz z 2011 r. Nr 63, poz. 322 i Nr 94, poz. 549.); ” .
     - **f)**
     - **g)**
 
-**Art. 3.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170.) wprowadza się następujące zmiany:
 
 - **1)** po art. 127 dodaje się art. 127a w brzmieniu: „
 
@@ -89,7 +90,7 @@ source: "eli-html"
 
 - **3)** w art. 129 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W razie ukarania za wykroczenie określone w art. 127 albo w art. 131 lub skazania za przestępstwo określone w art. 127a, art. 128 albo w art. 128a sąd może orzec: ” .
 
-**Art. 4.** W ustawie z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową (Dz. U. Nr 121, poz. 1263, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową (Dz. U. Nr 121, poz. 1263, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1458 i Nr 203, poz. 1683, z 2009 r. Nr 215, poz. 1664 oraz z 2011 r. Nr 63, poz. 322.) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 46 i art. 47;
 - **2)** dodaje się art. 47a w brzmieniu: „
@@ -102,7 +103,7 @@ source: "eli-html"
 
 - **3)** art. 48 otrzymuje brzmienie: „
 
-**Art. 48.** Orzekanie w sprawach, o których mowa w art. 38–45, następuje na zasadach i w trybie określonych w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.)
+**Art. 48.** Orzekanie w sprawach, o których mowa w art. 38–45, następuje na zasadach i w trybie określonych w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589 oraz z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466.)
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa zmienia ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody oraz ustawę z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową. 2) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2008/99/WE z dnia 19 listopada 2008 r. w sprawie ochrony środowiska poprzez prawo karne (Dz. Urz. UE L 328 z 06.12.2008, str. 28). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602 oraz z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245 i Nr 72, poz. 381. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442, z 2005 r. Nr 157, poz. 1316, Nr 178, poz. 1479, Nr 180, poz. 1492 i Nr 183, poz. 1538, z 2006 r. Nr 120, poz. 826, z 2007 r. Nr 75, poz. 492 i Nr 166, poz. 1172, z 2008 r. Nr 214, poz. 1344, z 2009 r. Nr 20, poz. 106, Nr 62, poz. 504, Nr 166, poz. 1317 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530 i Nr 127, poz. 857 oraz z 2011 r. Nr 63, poz. 322. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170 i Nr 94, poz. 549. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1458 i Nr 203, poz. 1683, z 2009 r. Nr 215, poz. 1664 oraz z 2011 r. Nr 63, poz. 322 i Nr 94, poz. 549. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1458 i Nr 203, poz. 1683, z 2009 r. Nr 215, poz. 1664 oraz z 2011 r. Nr 63, poz. 322. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589 oraz z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466.
 

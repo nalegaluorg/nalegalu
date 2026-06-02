@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-18 |
 | Data wydania | 2014-11-24 |
-| Wejście w życie | 2014-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1636/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 125 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 125 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908, z 2013 r. poz. 628, 675, 1247 i 1351 oraz z 2014 r. poz. 502, 616 i 1055.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki przyznawania funkcjonariuszowi Agencji Wywiadu, zwanemu dalej „funkcjonariuszem”, nagród uznaniowych i zapomóg, okoliczności uzasadniające przyznanie funkcjonariuszowi nagrody uznaniowej i zapomogi, właściwość przełożonych oraz tryb postępowania w tych sprawach.
 § 2.
@@ -71,5 +70,5 @@ Osoby, o których mowa w § 4, przyznają nagrody uznaniowe z własnej inicjatyw
 § 6.
 Osoby, o których mowa w § 4, przyznają zapomogę pieniężną na pisemny, uzasadniony wniosek funkcjonariusza lub, w uzasadnionych przypadkach, z własnej inicjatywy albo na pisemny, uzasadniony wniosek bezpośredniego przełożonego funkcjonariusza.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie warunków przyznawania funkcjonariuszom Agencji Wywiadu nagród rocznych, nagród uznaniowych i zapomóg (Dz. U. Nr 215, poz. 1822, z 2003 r. Nr 70, poz. 644, z 2006 r. Nr 47, poz. 341 i Nr 240, poz. 1740 oraz z 2009 r. Nr 39, poz. 312), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 17 pkt 5 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908, z 2013 r. poz. 628, 675, 1247 i 1351 oraz z 2014 r. poz. 502, 616 i 1055. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie warunków przyznawania funkcjonariuszom Agencji Wywiadu nagród rocznych, nagród uznaniowych i zapomóg (Dz. U. Nr 215, poz. 1822, z 2003 r. Nr 70, poz. 644, z 2006 r. Nr 47, poz. 341 i Nr 240, poz. 1740 oraz z 2009 r. Nr 39, poz. 312), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 17 pkt 5 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502).
 

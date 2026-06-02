@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-18 |
 | Data wydania | 2016-04-28 |
-| Wejście w życie | 2016-04-29 |
 | Ostatnia zmiana | 2025-09-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/598/text.pdf) |
 
@@ -40,7 +39,7 @@ kryteria wyboru operacji;
 przypadki, w których następcy prawnemu beneficjenta jest przyznawana pomoc, oraz warunki i tryb przyznania tej pomocy.
 § 2.
 1.
-Pomoc finansowa w ramach poddziałania „Płatności na rzecz rolników kwalifikujących się do systemu dla małych gospodarstw, którzy trwale przekazali swoje gospodarstwo innemu rolnikowi”, zwana dalej „pomocą”, jest przyznawana rolnikowi w rozumieniu art. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 (Dz. Urz. UE L 347 z 20.12.2013, str. 608, z późn. zm.), zwanego dalej „rozporządzeniem nr 1307/2013”, będącemu osobą fizyczną prowadzącą na własny rachunek działalność rolniczą na terytorium Rzeczypospolitej Polskiej, zwanemu dalej „rolnikiem”, jeżeli spełnia on łącznie następujące warunki:
+Pomoc finansowa w ramach poddziałania „Płatności na rzecz rolników kwalifikujących się do systemu dla małych gospodarstw, którzy trwale przekazali swoje gospodarstwo innemu rolnikowi”, zwana dalej „pomocą”, jest przyznawana rolnikowi w rozumieniu art. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 (Dz. Urz. UE L 347 z 20.12.2013, str. 608, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865; Dz. Urz. UE L 181 z 20.06.2014, str. 1; Dz. Urz. UE L 280 z 24.09.2014, str. 1; Dz. Urz. UE L 281 z 25.09.2014, str. 1; Dz. Urz. UE L 367 z 23.12.2014, str. 16; Dz. Urz. UE L 135 z 02.06.2015, str. 8; Dz. Urz. UE L 28 z 04.02.2016, str. 2 i 8.), zwanego dalej „rozporządzeniem nr 1307/2013”, będącemu osobą fizyczną prowadzącą na własny rachunek działalność rolniczą na terytorium Rzeczypospolitej Polskiej, zwanemu dalej „rolnikiem”, jeżeli spełnia on łącznie następujące warunki:
 1)
 uczestniczy w systemie dla małych gospodarstw, o którym mowa w art. 61 rozporządzenia nr 1307/2013 i ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. poz. 1551 oraz z 2016 r. poz. 337);
 2)
@@ -50,8 +49,7 @@ nie ma ustalonego prawa do emerytury lub renty z tytułu niezdolności do pracy,
 b)
 jest wpisany do ewidencji producentów, stanowiącej część krajowego systemu ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności,
 c)
-zobowiąże się do prowadzenia działalności rolniczej na przejętych gruntach rolnych, a w przypadku osoby fizycznej – do prowadzenia tej działalności osobiście, i zachowania całkowitej powierzchni gospodarstwa rolnego powiększonego w wyniku przejęcia gruntów rolnych, przez 5 lat od dnia przejęcia gospodarstwa rolnego
-zwanemu dalej „przejmującym gospodarstwo rolne”;
+zobowiąże się do prowadzenia działalności rolniczej na przejętych gruntach rolnych, a w przypadku osoby fizycznej – do prowadzenia tej działalności osobiście, i zachowania całkowitej powierzchni gospodarstwa rolnego powiększonego w wyniku przejęcia gruntów rolnych, przez 5 lat od dnia przejęcia gospodarstwa rolnego – zwanemu dalej „przejmującym gospodarstwo rolne”;
 3)
 jest wpisany do ewidencji producentów, stanowiącej część krajowego systemu ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
 4)
@@ -157,7 +155,7 @@ numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (
 e)
 miejsce zamieszkania i adres albo siedzibę i adres;
 6)
-oświadczenie rolnika oraz jego małżonka o niepodleganiu zakazowi dostępu do środków, o których mowa w art. 5 ust. 3 pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.).
+oświadczenie rolnika oraz jego małżonka o niepodleganiu zakazowi dostępu do środków, o których mowa w art. 5 ust. 3 pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195.).
 § 9.
 1.
 Do wniosku o przyznanie pomocy dołącza się:
@@ -369,5 +367,5 @@ Wniosek następcy rozpatruje się w terminie 3 miesięcy od dnia jego złożenia
 9.
 Do wniosku następcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 8 i 9.
 § 20.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865; Dz. Urz. UE L 181 z 20.06.2014, str. 1; Dz. Urz. UE L 280 z 24.09.2014, str. 1; Dz. Urz. UE L 281 z 25.09.2014, str. 1; Dz. Urz. UE L 367 z 23.12.2014, str. 16; Dz. Urz. UE L 135 z 02.06.2015, str. 8; Dz. Urz. UE L 28 z 04.02.2016, str. 2 i 8. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195.
 

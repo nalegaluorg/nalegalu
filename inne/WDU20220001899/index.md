@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 6 sierpnia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków funkcjonowania systemu gazowego
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 6 sierpnia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków funkcjonowania systemu gazowego Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,93 +22,71 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-06 |
 | Data wydania | 2022-09-08 |
-| Wejście w życie | 2022-09-23 |
 | Ostatnia zmiana | 2025-10-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001899) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1899/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 9 ust. 1 i 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385 i 1723) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 14 kwietnia 2022 r. pod numerem 2022/291/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 9 ust. 1 i 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385 i 1723) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Gospodarki z dnia 2 lipca 2010 r. w sprawie szczegółowych warunków funkcjonowania systemu gazowego (Dz. U. z 2018 r. poz. 1158 i 1814) wprowadza się następujące zmiany:
 1)
 w § 2:
 a)
-pkt 4 otrzymuje brzmienie:
-„
+pkt 4 otrzymuje brzmienie: „
 4)
-przepustowość zarezerwowana systemu gazowego – przepustowość systemu przesyłowego gazowego lub systemu dystrybucyjnego gazowego zarezerwowaną w związku z zawartymi przez operatora systemu gazowego umowami o świadczenie usług przesyłania paliw gazowych lub ich dystrybucji oraz umowami o przyłączenie do sieci gazowej, o ile nie upłynął przewidywany w nich termin zawarcia umowy, na podstawie której miało nastąpić dostarczanie paliw gazowych, lub innymi wynikającymi z instrukcji zobowiązaniami operatorów, które są związane z rezerwowaniem przepustowości;
-” ,
+przepustowość zarezerwowana systemu gazowego – przepustowość systemu przesyłowego gazowego lub systemu dystrybucyjnego gazowego zarezerwowaną w związku z zawartymi przez operatora systemu gazowego umowami o świadczenie usług przesyłania paliw gazowych lub ich dystrybucji oraz umowami o przyłączenie do sieci gazowej, o ile nie upłynął przewidywany w nich termin zawarcia umowy, na podstawie której miało nastąpić dostarczanie paliw gazowych, lub innymi wynikającymi z instrukcji zobowiązaniami operatorów, które są związane z rezerwowaniem przepustowości; ” ,
 b)
 uchyla się pkt 8,
 c)
-pkt 9 otrzymuje brzmienie:
-„
+pkt 9 otrzymuje brzmienie: „
 9)
-nominacja – wcześniejsze powiadomienie przedsiębiorstwa energetycznego, które zajmuje się przesyłaniem lub dystrybucją paliw gazowych, przez użytkownika systemu gazowego o faktycznej ilości paliwa gazowego, którą użytkownik systemu gazowego zamierza wprowadzić do systemu gazowego lub z niego odebrać;
-” ,
+nominacja – wcześniejsze powiadomienie przedsiębiorstwa energetycznego, które zajmuje się przesyłaniem lub dystrybucją paliw gazowych, przez użytkownika systemu gazowego o faktycznej ilości paliwa gazowego, którą użytkownik systemu gazowego zamierza wprowadzić do systemu gazowego lub z niego odebrać; ” ,
 d)
-w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu:
-„
+w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu: „
 11)
 wirtualny punkt wejścia do systemu przesyłowego – miejsce umownego wprowadzania paliw gazowych do systemu przesyłowego gazowego;
 12)
-wirtualny punkt wyjścia z systemu przesyłowego gazowego – miejsce umownego odbioru paliw gazowych z systemu przesyłowego gazowego.
-” ;
+wirtualny punkt wyjścia z systemu przesyłowego gazowego – miejsce umownego odbioru paliw gazowych z systemu przesyłowego gazowego. ” ;
 2)
-w § 7 dodaje się ust. 6 i 7 w brzmieniu:
-„
+w § 7 dodaje się ust. 6 i 7 w brzmieniu: „
 6.
 W przypadku gdy wniosek o określenie warunków przyłączenia do sieci przesyłowej dotyczy istniejącego punktu wyjścia z systemu gazowego w sieci gazowej przesyłowej, za zgodą operatora systemu przesyłowego gazowego nie dołącza się dokumentów, o których mowa w ust. 4 pkt 2 i ust. 5.
 7.
-Jeżeli wniosek, o którym mowa w ust. 2, dotyczy przyłączenia do sieci dystrybucyjnej o maksymalnym ciśnieniu roboczym (MOP) wyższym niż 0,5 MPa, należy do niego dołączyć uzasadnienie w zakresie wymaganego przez wnioskodawcę ciśnienia roboczego oraz specyfikację techniczną przyłączanych instalacji lub urządzeń.
-” ;
+Jeżeli wniosek, o którym mowa w ust. 2, dotyczy przyłączenia do sieci dystrybucyjnej o maksymalnym ciśnieniu roboczym (MOP) wyższym niż 0,5 MPa, należy do niego dołączyć uzasadnienie w zakresie wymaganego przez wnioskodawcę ciśnienia roboczego oraz specyfikację techniczną przyłączanych instalacji lub urządzeń. ” ;
 3)
 użyte w § 8 w ust. 1 w pkt 5 i 9, w § 14 w ust. 1 w pkt 4, w § 42 w ust. 1, w ust. 3 trzykrotnie i w ust. 4 w pkt 1 i 2, w § 43 w ust. 1, w ust. 2 w zdaniu pierwszym i w zdaniu drugim, w ust. 4 dwukrotnie, w ust. 5 w zdaniu pierwszym i w ust. 6 dwukrotnie, w § 44 w ust. 1 i 2 oraz w załączniku do rozporządzenia w części 5, w różnej liczbie i różnych przypadkach, wyrazy „układ pomiarowy” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „układ pomiarowo-rozliczeniowy”;
 4)
-w § 8 w ust. 1 pkt 7 otrzymuje brzmienie:
-„
+w § 8 w ust. 1 pkt 7 otrzymuje brzmienie: „
 7)
-charakterystykę dostarczania i odbioru paliwa gazowego, w tym przewidywane minimalne i maksymalne godzinowe, dobowe oraz roczne ilości jego dostarczania i odbioru, o ile ich określenie było wymagane we wniosku o określenie warunków przyłączenia, z zastrzeżeniem że dla wnioskodawcy zaliczanego do grupy przyłączeniowej C wytwarzającego biometan charakterystykę tę określa się na podstawie danych historycznych i bieżących;
-” ;
+charakterystykę dostarczania i odbioru paliwa gazowego, w tym przewidywane minimalne i maksymalne godzinowe, dobowe oraz roczne ilości jego dostarczania i odbioru, o ile ich określenie było wymagane we wniosku o określenie warunków przyłączenia, z zastrzeżeniem że dla wnioskodawcy zaliczanego do grupy przyłączeniowej C wytwarzającego biometan charakterystykę tę określa się na podstawie danych historycznych i bieżących; ” ;
 5)
-w § 9 dodaje się ust. 5 w brzmieniu:
-„
+w § 9 dodaje się ust. 5 w brzmieniu: „
 5.
-W przypadku wniosków o określenie warunków przyłączenia do sieci gazowej dla obszarów lub miejscowości niezgazyfikowanych, dla których przedsiębiorstwo energetyczne przygotowuje szczegółową koncepcję gazyfikacji, nie stosuje się przepisu ust. 1, pod warunkiem poinformowania wnioskodawcy przez to przedsiębiorstwo, w terminie 14 dni od dnia złożenia wniosku, o innym terminie wydania warunków przyłączenia wraz z uzasadnieniem wskazania tego terminu.
-” ;
+W przypadku wniosków o określenie warunków przyłączenia do sieci gazowej dla obszarów lub miejscowości niezgazyfikowanych, dla których przedsiębiorstwo energetyczne przygotowuje szczegółową koncepcję gazyfikacji, nie stosuje się przepisu ust. 1, pod warunkiem poinformowania wnioskodawcy przez to przedsiębiorstwo, w terminie 14 dni od dnia złożenia wniosku, o innym terminie wydania warunków przyłączenia wraz z uzasadnieniem wskazania tego terminu. ” ;
 6)
-w § 13 ust. 1 otrzymuje brzmienie:
-„
+w § 13 ust. 1 otrzymuje brzmienie: „
 1.
-W celu realizacji umów sprzedaży paliwa gazowego oraz umów kompleksowych odbiorcy składają nominacje do przedsiębiorstwa energetycznego zajmującego się obrotem paliwami gazowymi.
-” ;
+W celu realizacji umów sprzedaży paliwa gazowego oraz umów kompleksowych odbiorcy składają nominacje do przedsiębiorstwa energetycznego zajmującego się obrotem paliwami gazowymi. ” ;
 7)
 uchyla się § 14a i § 14b;
 8)
-w § 16 pkt 1 otrzymuje brzmienie:
-„
+w § 16 pkt 1 otrzymuje brzmienie: „
 1)
-w sposób ciągły, w tym ciągły warunkowy, o ile w umowie o świadczenie usług przesyłania lub dystrybucji paliw gazowych strony nie postanowiły, że usługa ta może być świadczona w sposób przerywany, w tym przerywany warunkowy;
-” ;
+w sposób ciągły, w tym ciągły warunkowy, o ile w umowie o świadczenie usług przesyłania lub dystrybucji paliw gazowych strony nie postanowiły, że usługa ta może być świadczona w sposób przerywany, w tym przerywany warunkowy; ” ;
 9)
-§ 16a otrzymuje brzmienie:
-„
+§ 16a otrzymuje brzmienie: „
 § 16a.
 W przypadku gdy obrót paliwami gazowymi będzie prowadzony w punkcie wirtualnym, przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw gazowych świadczy usługę przesyłania na rzecz:
 1)
 sprzedawcy – między punktem wejścia do systemu przesyłowego gazowego lub wirtualnym punktem wejścia do systemu przesyłowego gazowego a punktem wirtualnym;
 2)
-odbiorcy – między punktem wirtualnym a punktem wyjścia z systemu przesyłowego gazowego lub wirtualnym punktem wyjścia z systemu przesyłowego gazowego.
-” ;
+odbiorcy – między punktem wirtualnym a punktem wyjścia z systemu przesyłowego gazowego lub wirtualnym punktem wyjścia z systemu przesyłowego gazowego. ” ;
 10)
-w § 17 pkt 1 otrzymuje brzmienie:
-„
+w § 17 pkt 1 otrzymuje brzmienie: „
 1)
-instaluje na własny koszt układ pomiarowo-rozliczeniowy w miejscu określonym w umowie o przyłączenie do sieci – w przypadku odbiorców zaliczanych do grupy przyłączeniowej B podgrupy I;
-” ;
+instaluje na własny koszt układ pomiarowo-rozliczeniowy w miejscu określonym w umowie o przyłączenie do sieci – w przypadku odbiorców zaliczanych do grupy przyłączeniowej B podgrupy I; ” ;
 11)
-§ 18–23 otrzymują brzmienie:
-„
+§ 18–23 otrzymują brzmienie: „
 § 18.
 Użytkownicy systemu przesyłowego lub dystrybucyjnego składają nominacje przedsiębiorstwu energetycznemu zajmującemu się przesyłaniem lub dystrybucją paliw gazowych, z którym zawarli umowę o świadczenie usług przesyłania lub dystrybucji paliw gazowych, na warunkach określonych w instrukcji. Nominacje te podlegają zatwierdzeniu przez przedsiębiorstwo energetyczne.
 § 19.
@@ -128,53 +106,43 @@ odpłatnie podejmuje stosowne czynności w instalacji magazynowej lub w instalac
 § 22.
 Realizacja umów przesyłowych lub dystrybucyjnych, o ile strony nie uzgodniły inaczej, ruch sieciowy i eksploatacja sieci gazowej odbywają się zgodnie z instrukcją, opracowaną i udostępnioną przez właściwego operatora.
 § 23.
-Operator systemu gazowego zapewnia dostęp do połączeń międzysystemowych, w zakresie posiadanych zdolności przesyłowych lub dystrybucyjnych, na warunkach uzgodnionych z operatorami systemów gazowych krajów sąsiadujących z terytorium Rzeczypospolitej Polskiej, z wykorzystaniem mechanizmu udostępniania zdolności przesyłowych spełniającego wymagania niedyskryminacji i przejrzystości, przy uwzględnieniu przepisów rozporządzenia Komisji (UE) 2017/459 z dnia 16 marca 2017 r. ustanawiającego kodeks sieci dotyczący mechanizmów alokacji zdolności w systemach przesyłowych gazu i uchylającego rozporządzenie (UE) nr 984/2013 (Dz. Urz. UE L 72 z 17.03.2017, str. 1).
-” ;
+Operator systemu gazowego zapewnia dostęp do połączeń międzysystemowych, w zakresie posiadanych zdolności przesyłowych lub dystrybucyjnych, na warunkach uzgodnionych z operatorami systemów gazowych krajów sąsiadujących z terytorium Rzeczypospolitej Polskiej, z wykorzystaniem mechanizmu udostępniania zdolności przesyłowych spełniającego wymagania niedyskryminacji i przejrzystości, przy uwzględnieniu przepisów rozporządzenia Komisji (UE) 2017/459 z dnia 16 marca 2017 r. ustanawiającego kodeks sieci dotyczący mechanizmów alokacji zdolności w systemach przesyłowych gazu i uchylającego rozporządzenie (UE) nr 984/2013 (Dz. Urz. UE L 72 z 17.03.2017, str. 1). ” ;
 12)
 uchyla się § 23a;
 13)
 uchyla się § 24–27;
 14)
-§ 32 otrzymuje brzmienie:
-„
+§ 32 otrzymuje brzmienie: „
 § 32.
 1.
 Jeżeli użytkownik systemu dystrybucyjnego gazowego wykorzystuje miesięcznie mniej niż 80% przepustowości zarezerwowanej systemu gazowego przez 6 kolejnych miesięcy, w tym w okresie od grudnia do marca roku następnego, operator systemu dystrybucyjnego gazowego może odebrać prawo do niewykorzystywanej przez niego przepustowości pod warunkiem poinformowania użytkownika systemu dystrybucyjnego gazowego o takim zamiarze przynajmniej na 2 tygodnie przed odebraniem prawa do niewykorzystanej przez niego przepustowości.
 2.
-Operator systemu dystrybucyjnego gazowego oferuje uzyskaną przepustowość, o której mowa w ust. 1, w pierwszej kolejności tym użytkownikom systemu gazowego, których zapotrzebowanie nie zostało zrealizowane z powodu ograniczonej przepustowości technicznej systemu gazowego.
-” ;
+Operator systemu dystrybucyjnego gazowego oferuje uzyskaną przepustowość, o której mowa w ust. 1, w pierwszej kolejności tym użytkownikom systemu gazowego, których zapotrzebowanie nie zostało zrealizowane z powodu ograniczonej przepustowości technicznej systemu gazowego. ” ;
 15)
-po § 33 dodaje się § 33a w brzmieniu:
-„
+po § 33 dodaje się § 33a w brzmieniu: „
 § 33a.
-W celu zapewnienia stabilnego i ciągłego funkcjonowania systemu gazowego w ramach współpracy, o której mowa w § 33, przedsiębiorstwa energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych mogą, po wzajemnym uzgodnieniu, łączyć w grupy punktów międzysystemowe fizyczne punkty łączące systemy gazowe, pod warunkiem że fizyczne punkty należące do danej grupy są połączone hydraulicznie po stronie operatora systemu dystrybucyjnego gazowego w sposób zapewniający wzajemną całkowitą lub częściową zastępowalność międzysystemowych fizycznych punktów wyjścia wchodzących w skład danej grupy punktów.
-” ;
+W celu zapewnienia stabilnego i ciągłego funkcjonowania systemu gazowego w ramach współpracy, o której mowa w § 33, przedsiębiorstwa energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych mogą, po wzajemnym uzgodnieniu, łączyć w grupy punktów międzysystemowe fizyczne punkty łączące systemy gazowe, pod warunkiem że fizyczne punkty należące do danej grupy są połączone hydraulicznie po stronie operatora systemu dystrybucyjnego gazowego w sposób zapewniający wzajemną całkowitą lub częściową zastępowalność międzysystemowych fizycznych punktów wyjścia wchodzących w skład danej grupy punktów. ” ;
 16)
 w § 34 w ust. 1:
 a)
 uchyla się pkt 7,
 b)
-w pkt 8 lit. a otrzymuje brzmienie:
-„
+w pkt 8 lit. a otrzymuje brzmienie: „
 a)
-informacji dotyczących ilości paliwa gazowego, które są przekazywane pomiędzy systemem przesyłowym a dystrybucyjnym na rzecz poszczególnych użytkowników systemu,
-” ;
+informacji dotyczących ilości paliwa gazowego, które są przekazywane pomiędzy systemem przesyłowym a dystrybucyjnym na rzecz poszczególnych użytkowników systemu, ” ;
 17)
-po § 37 dodaje się § 37a w brzmieniu:
-„
+po § 37 dodaje się § 37a w brzmieniu: „
 § 37a.
 1.
 Operator systemu przesyłowego gazowego w celu zapewnienia bezpieczeństwa, stabilności i integralności systemu przesyłowego gazowego oraz w celu bezpiecznej eksploatacji sieci przesyłowej korzysta z pojemności instalacji magazynowych.
 2.
 Przedsiębiorstwo energetyczne zajmujące się magazynowaniem paliw gazowych udostępnia operatorowi systemu przesyłowego gazowego część pojemności czynnej instalacji magazynowej oraz moc zatłaczania i odbioru, która jest niezbędna do realizacji zadań operatora systemu przesyłowego gazowego, na warunkach określonych w umowie.
 3.
-Operator systemu przesyłowego gazowego do dnia 15 października każdego roku informuje przedsiębiorstwo energetyczne zajmujące się magazynowaniem paliw gazowych o niezbędnej do realizacji jego zadań pojemności czynnej instalacji magazynowych, mocy odbioru i mocy ich napełniania na rok następny.
-” ;
+Operator systemu przesyłowego gazowego do dnia 15 października każdego roku informuje przedsiębiorstwo energetyczne zajmujące się magazynowaniem paliw gazowych o niezbędnej do realizacji jego zadań pojemności czynnej instalacji magazynowych, mocy odbioru i mocy ich napełniania na rok następny. ” ;
 18)
 w § 38:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 Ustala się następujące parametry jakościowe paliw gazowych przesyłanych sieciami przesyłowymi i dystrybucyjnymi gazowymi:
 1)
@@ -208,8 +176,7 @@ zawartość tlenu nie powinna przekraczać 0,5% [mol/mol], z wyjątkiem paliw ga
 a)
 temperatura punktu rosy wody w obszarze sieci gazowej, do której następuje wprowadzenie paliwa gazowego, wynosi więcej niż -8°C,
 b)
-paliwo to będzie stanowiło źródło zasilania instalacji magazynowej
-dla których zawartość tlenu w paliwach gazowych nie powinna przekraczać 0,2% [mol/mol];
+paliwo to będzie stanowiło źródło zasilania instalacji magazynowej – dla których zawartość tlenu w paliwach gazowych nie powinna przekraczać 0,2% [mol/mol];
 8)
 zawartość ditlenku węgla nie powinna przekraczać 3,0% [mol/mol];
 9)
@@ -227,21 +194,17 @@ zawartość związków chloru (jako chlor całkowity) nie powinna przekraczać 1
 15)
 zawartość związków fluoru (jako fluor całkowity) nie powinna przekraczać 10,0 mg/m3;
 16)
-zawartość amoniaku nie powinna przekraczać 2,0 mg/m3.
-” ,
+zawartość amoniaku nie powinna przekraczać 2,0 mg/m3. ” ,
 b)
-po ust. 1 dodaje się ust. 1a-1c w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
 1a.
 Dopuszcza się zawartość wodoru w paliwach gazowych inną niż określona w ust. 1 pkt 12, ale nie wyższą niż 10% [mol/mol], w przypadku gdy urządzenia układu pomiarowo-rozliczeniowego, instalacje i sieci są dostosowane do przesyłania paliw gazowych o wyższej zawartości wodoru w sposób zapewniający bezpieczeństwo urządzeń odbiorców końcowych.
 1b.
 Parametry jakościowe, o których mowa w ust. 1 pkt 1–3, paliw gazowych przesyłanych sieciami przesyłowymi i dystrybucyjnymi gazowymi określa się przed procesem nawonienia.
 1c.
-Dopuszcza się możliwość przekroczenia parametrów jakościowych określonych w ust. 1 w zakresie wynikającym z dopuszczalnego błędu pomiaru urządzenia układu pomiarowo-rozliczeniowego.
-” ,
+Dopuszcza się możliwość przekroczenia parametrów jakościowych określonych w ust. 1 w zakresie wynikającym z dopuszczalnego błędu pomiaru urządzenia układu pomiarowo-rozliczeniowego. ” ,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
 Przedsiębiorstwa energetyczne zajmujące się dystrybucją paliw gazowych dostarczają do odbiorców przyłączonych do sieci dystrybucyjnej o ciśnieniu roboczym (MOP) nie wyższym niż 0,5 MPa paliwa gazowe spełniające parametry jakościowe w zakresie intensywności zapachu, który powinien być wyraźnie wyczuwalny, gdy stężenie paliw gazowych w powietrzu osiągnie wartość:
 1)
@@ -251,17 +214,13 @@ Przedsiębiorstwa energetyczne zajmujące się dystrybucją paliw gazowych dosta
 3)
 1,3% (V/V) – dla paliw gazowych przesyłanych sieciami gazu ziemnego zaazotowanego podgrupy Ls;
 4)
-1,5% (V/V) – dla paliw gazowych przesyłanych sieciami gazu ziemnego zaazotowanego podgrupy Ln i Lm.
-” ,
+1,5% (V/V) – dla paliw gazowych przesyłanych sieciami gazu ziemnego zaazotowanego podgrupy Ln i Lm. ” ,
 d)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych, w przypadku wprowadzania paliw gazowych do sieci gazowych o ciśnieniu roboczym (MOP) nie wyższym niż 0,5 MPa może przyjąć metodologię określania ciepła spalania paliw gazowych dla wyznaczonych obszarów jako średnią ważoną wartości ciepła spalania paliw gazowych dla wszystkich źródeł zasilających dany obszar.
-” ,
+Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych, w przypadku wprowadzania paliw gazowych do sieci gazowych o ciśnieniu roboczym (MOP) nie wyższym niż 0,5 MPa może przyjąć metodologię określania ciepła spalania paliw gazowych dla wyznaczonych obszarów jako średnią ważoną wartości ciepła spalania paliw gazowych dla wszystkich źródeł zasilających dany obszar. ” ,
 e)
-ust. 5–7 otrzymują brzmienie:
-„
+ust. 5–7 otrzymują brzmienie: „
 5.
 Na żądanie odbiorcy przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych może dostarczać paliwa gazowe o innych parametrach jakościowych niż określone w ust. 1 i 3, pod warunkiem że nie spowoduje to zakłóceń pracy w systemie gazowym oraz pogorszenia warunków dostawy paliwa gazowego do pozostałych odbiorców oraz parametrów jakościowych tego paliwa.
 6.
@@ -305,11 +264,9 @@ gęstości względnej – co najmniej raz na 30 minut;
 8)
 zawartości siloksanów całkowitych, wodoru, tlenku węgla, związków chloru, związków fluoru oraz amoniaku – niezwłocznie w przypadku powzięcia informacji o możliwości jej wystąpienia, nie rzadziej niż raz na 6 miesięcy;
 9)
-intensywności zapachu paliw gazowych – co najmniej raz na 2 tygodnie.
-” ,
+intensywności zapachu paliw gazowych – co najmniej raz na 2 tygodnie. ” ,
 f)
-po ust. 7 dodaje się ust. 7a i 7b w brzmieniu:
-„
+po ust. 7 dodaje się ust. 7a i 7b w brzmieniu: „
 7a.
 Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem biometanu wykonuje badania poszczególnych parametrów jakościowych, o których mowa w ust. 1, w punktach wejścia do systemu przesyłowego i dystrybucyjnego, w zakresie:
 1)
@@ -329,17 +286,13 @@ gęstości względnej – co najmniej raz na 30 minut;
 8)
 zawartości siloksanów całkowitych, wodoru, tlenku węgla, związków chloru, związków fluoru oraz amoniaku – co najmniej raz na 6 miesięcy.
 7b.
-Wyniki pomiarów są przekazywane odpowiednio operatorowi systemu przesyłowego gazowego lub dystrybucyjnego gazowego. W przypadku gdy wynik pomiaru, o którym mowa w ust. 7a, wykaże niespełnienie któregokolwiek z badanych parametrów jakościowych (negatywny wynik), przedsiębiorstwo energetyczne zajmujące się wytwarzaniem biometanu jest obowiązane do niezwłocznego dokonania drugiego pomiaru w celu weryfikacji pierwszego pomiaru. Negatywny wynik drugiego pomiaru powoduje wstrzymanie odbioru paliwa gazowego przez operatora.
-” ,
+Wyniki pomiarów są przekazywane odpowiednio operatorowi systemu przesyłowego gazowego lub dystrybucyjnego gazowego. W przypadku gdy wynik pomiaru, o którym mowa w ust. 7a, wykaże niespełnienie któregokolwiek z badanych parametrów jakościowych (negatywny wynik), przedsiębiorstwo energetyczne zajmujące się wytwarzaniem biometanu jest obowiązane do niezwłocznego dokonania drugiego pomiaru w celu weryfikacji pierwszego pomiaru. Negatywny wynik drugiego pomiaru powoduje wstrzymanie odbioru paliwa gazowego przez operatora. ” ,
 g)
-w ust. 8 pkt 3 otrzymuje brzmienie:
-„
+w ust. 8 pkt 3 otrzymuje brzmienie: „
 3)
-temperatury punktu rosy wody – co najmniej raz na dobę;
-” ,
+temperatury punktu rosy wody – co najmniej raz na dobę; ” ,
 h)
-ust. 9 otrzymuje brzmienie:
-„
+ust. 9 otrzymuje brzmienie: „
 9.
 Przedsiębiorstwo energetyczne zajmujące się magazynowaniem paliw gazowych wykonuje badania poszczególnych parametrów jakościowych, o których mowa w ust. 1, w punktach wejścia do systemu przesyłowego gazowego w miejscu odbioru paliw gazowych z podziemnych magazynów gazu, w zakresie:
 1)
@@ -347,59 +300,43 @@ zawartości siarkowodoru, siarki merkaptanowej i siarki całkowitej – co najmn
 2)
 temperatury punktu rosy wody – co najmniej raz na tydzień w okresie odbioru paliw gazowych z magazynu;
 3)
-ciepła spalania i górnej liczby Wobbego – co najmniej raz na dobę.
-” ;
+ciepła spalania i górnej liczby Wobbego – co najmniej raz na dobę. ” ;
 19)
 w § 39:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-W przypadku gdy dla paliw gazowych nie zostały zachowane parametry jakościowe, o których mowa w § 38, przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych może odmówić przyjęcia takich paliw w celu ich przesyłania lub dystrybucji, chyba że świadcząc usługę dodatkową, uzyska dla tych paliw parametry jakościowe, o których mowa w § 38.
-” ,
+W przypadku gdy dla paliw gazowych nie zostały zachowane parametry jakościowe, o których mowa w § 38, przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych może odmówić przyjęcia takich paliw w celu ich przesyłania lub dystrybucji, chyba że świadcząc usługę dodatkową, uzyska dla tych paliw parametry jakościowe, o których mowa w § 38. ” ,
 b)
-dodaje się ust. 3 w brzmieniu:
-„
+dodaje się ust. 3 w brzmieniu: „
 3.
-Podmiot wprowadzający biometan do sieci jest odpowiedzialny za zapewnienie parametrów jakościowych wymaganych przez operatora w punkcie wejścia do systemu gazowego.
-” ;
+Podmiot wprowadzający biometan do sieci jest odpowiedzialny za zapewnienie parametrów jakościowych wymaganych przez operatora w punkcie wejścia do systemu gazowego. ” ;
 20)
 w § 40:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych w celu dokonywania rozliczeń paliw gazowych może wyznaczyć obszary rozliczeniowe, w ramach których określi średnią ważoną wartość ciepła spalania paliw gazowych lub w ramach których może wykorzystywać metody obliczeniowe w celu określenia ciepła spalania w poszczególnych punktach systemu gazowego określonych przez operatora tego systemu.
-” ,
+Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych w celu dokonywania rozliczeń paliw gazowych może wyznaczyć obszary rozliczeniowe, w ramach których określi średnią ważoną wartość ciepła spalania paliw gazowych lub w ramach których może wykorzystywać metody obliczeniowe w celu określenia ciepła spalania w poszczególnych punktach systemu gazowego określonych przez operatora tego systemu. ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych może przyjąć taką metodologię określania ciepła spalania paliw gazowych dla wyznaczonych obszarów, aby wyznaczona średnia wartość ciepła spalania paliw gazowych dla danej doby nie różniła się więcej niż o ±3% od wartości ciepła spalania paliw gazowych określonej w którymkolwiek punkcie danego obszaru.
-” ,
+Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych może przyjąć taką metodologię określania ciepła spalania paliw gazowych dla wyznaczonych obszarów, aby wyznaczona średnia wartość ciepła spalania paliw gazowych dla danej doby nie różniła się więcej niż o ±3% od wartości ciepła spalania paliw gazowych określonej w którymkolwiek punkcie danego obszaru. ” ,
 c)
-dodaje się ust. 5 w brzmieniu:
-„
+dodaje się ust. 5 w brzmieniu: „
 5.
-Przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw gazowych może przyjąć taką metodologię określania ciepła spalania paliw gazowych dla punktów wyjścia, aby wyznaczona średnia wartość ciepła spalania paliw gazowych dla danej doby nie różniła się więcej niż o ±3% od tej średniej wartości ciepła spalania paliw gazowych zmierzonej w danym punkcie.
-” ;
+Przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw gazowych może przyjąć taką metodologię określania ciepła spalania paliw gazowych dla punktów wyjścia, aby wyznaczona średnia wartość ciepła spalania paliw gazowych dla danej doby nie różniła się więcej niż o ±3% od tej średniej wartości ciepła spalania paliw gazowych zmierzonej w danym punkcie. ” ;
 21)
-w § 41 pkt 5 otrzymuje brzmienie:
-„
+w § 41 pkt 5 otrzymuje brzmienie: „
 5)
-udziela odbiorcy, z którym ma zawartą umowę, bonifikaty za niedotrzymanie parametrów jakościowych, o których mowa w § 38, w wysokości określonej w taryfie, w terminie 30 dni od dnia ustania zdarzenia.
-” ;
+udziela odbiorcy, z którym ma zawartą umowę, bonifikaty za niedotrzymanie parametrów jakościowych, o których mowa w § 38, w wysokości określonej w taryfie, w terminie 30 dni od dnia ustania zdarzenia. ” ;
 22)
-w § 42 ust. 2 otrzymuje brzmienie:
-„
+w § 42 ust. 2 otrzymuje brzmienie: „
 2.
-Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, umożliwia podmiotowi, z którym ma zawartą umowę o świadczenie usług przesyłania lub dystrybucji, wgląd do wskazań układu pomiarowo-rozliczeniowego oraz dokumentów stanowiących podstawę rozliczeń za dostarczone paliwa gazowe, a także do wyników kontroli prawidłowości wskazań tego układu za okres nie dłuższy niż ostatnie 12 miesięcy.
-” ;
+Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, umożliwia podmiotowi, z którym ma zawartą umowę o świadczenie usług przesyłania lub dystrybucji, wgląd do wskazań układu pomiarowo-rozliczeniowego oraz dokumentów stanowiących podstawę rozliczeń za dostarczone paliwa gazowe, a także do wyników kontroli prawidłowości wskazań tego układu za okres nie dłuższy niż ostatnie 12 miesięcy. ” ;
 23)
 w załączniku do rozporządzenia:
 a)
-część 2 „Wymagania techniczne w zakresie przyłączania do sieci przesyłowej gazowej urządzeń i instalacji podmiotów zaliczanych do grupy przyłączeniowej A” otrzymuje brzmienie:
-„
+część 2 „Wymagania techniczne w zakresie przyłączania do sieci przesyłowej gazowej urządzeń i instalacji podmiotów zaliczanych do grupy przyłączeniowej A” otrzymuje brzmienie: „
 2.
 Wymagania techniczne w zakresie przyłączania do sieci przesyłowej gazowej urządzeń i instalacji podmiotów zaliczanych do grupy przyłączeniowej A
 2.1.
@@ -421,12 +358,15 @@ Urządzenia i instalacje podmiotów przyłączanych inne niż określone w pkt 2
 2.7.
 Urządzenia i instalacje o mocy przyłączeniowej 45 000 m3/h lub większej nieprzyłączone do sieci gazowej dystrybucyjnej mogą być przyłączone do sieci przesyłowej o średnicy mniejszej niż DN 1300.
 2.8.
-Urządzenia i instalacje służące wyłącznie do zasilania pojazdów gazem ziemnym, niezależnie od ich mocy, mogą być przyłączane do sieci gazowej przesyłowej o średnicy mniejszej niż DN 1300.
-” ,
+Urządzenia i instalacje służące wyłącznie do zasilania pojazdów gazem ziemnym, niezależnie od ich mocy, mogą być przyłączane do sieci gazowej przesyłowej o średnicy mniejszej niż DN 1300. ” ,
 b)
 w części 3 „Wymagania techniczne w zakresie przyłączania do sieci dystrybucyjnej gazowej urządzeń i instalacji podmiotów zaliczanych do grupy przyłączeniowej A i B podgrupy II”:
 – w pkt 3.3. wyrazy „w pkt 5” zastępuje się wyrazami „w części 5”,
-– dodaje się pkt 3.6 i 3.7 w brzmieniu: 3.6. Urządzenia oraz instalacje mogą zostać przyłączone do sieci dystrybucyjnej o ciśnieniu roboczym (MOP) wyższym niż 0,5 MPa w przypadku, gdy moc przyłączeniowa przekracza 10 000 m3/h i jednocześnie jest to uzasadnione specyfikacją techniczną przyłączanych urządzeń oraz instalacji lub charakterystyką pracy systemu dystrybucyjnego. 3.7. Urządzenia oraz instalacje przyłączone do sieci o ciśnieniu roboczym (MOP) nie wyższym niż 0,5 MPa nie mogą być przełączone do sieci dystrybucyjnej o ciśnieniu roboczym (MOP) wyższym niż 0,5 MPa. ” ,
+dodaje się pkt 3.6 i 3.7 w brzmieniu:
+3.6.
+Urządzenia oraz instalacje mogą zostać przyłączone do sieci dystrybucyjnej o ciśnieniu roboczym (MOP) wyższym niż 0,5 MPa w przypadku, gdy moc przyłączeniowa przekracza 10 000 m3/h i jednocześnie jest to uzasadnione specyfikacją techniczną przyłączanych urządzeń oraz instalacji lub charakterystyką pracy systemu dystrybucyjnego.
+3.7.
+Urządzenia oraz instalacje przyłączone do sieci o ciśnieniu roboczym (MOP) nie wyższym niż 0,5 MPa nie mogą być przełączone do sieci dystrybucyjnej o ciśnieniu roboczym (MOP) wyższym niż 0,5 MPa. ” ,
 c)
 w części 4 „Wymagania techniczne w zakresie przyłączania do sieci przesyłowej lub dystrybucyjnej gazowej urządzeń, instalacji i sieci podmiotów zaliczanych do grupy przyłączeniowej C” dodaje się pkt 4.3 w brzmieniu:
 4.3.
@@ -436,8 +376,7 @@ Przed punktem wejścia biometanu do systemu gazowego lub na sieci przesyłowej l
 4.3.2.
 Na sieci dystrybucyjnej gazowej w miejscu przyłączenia instaluje się instalacje sprężania umożliwiające zatłoczenie biometanu do sieci o wyższym ciśnieniu, chyba że operator systemu dystrybucyjnego wskaże w warunkach przyłączenia, że budowa takiej instalacji nie jest wymagana.
 4.3.3.
-Przed punktem wejścia biometanu do systemu gazowego przedsiębiorstwo energetyczne zajmujące się produkcją biometanu instaluje urządzenia do badania jakości paliwa gazowego oraz instalację rewersyjną umożliwiającą zawrócenie biometanu o niewłaściwych parametrach do jego wytwórcy.
-” .
+Przed punktem wejścia biometanu do systemu gazowego przedsiębiorstwo energetyczne zajmujące się produkcją biometanu instaluje urządzenia do badania jakości paliwa gazowego oraz instalację rewersyjną umożliwiającą zawrócenie biometanu o niewłaściwych parametrach do jego wytwórcy. ” .
 § 2.
 Do:
 1)
@@ -457,6 +396,5 @@ W przypadku gdy ustanie zdarzenia niedotrzymania parametrów jakościowych zaist
 § 5.
 Przepis § 42 ust. 2 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się także do kontroli prawidłowości wskazań układu pomiarowo-rozliczeniowego przeprowadzonych przed dniem wejścia w życie niniejszego rozporządzenia.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 14 kwietnia 2022 r. pod numerem 2022/291/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 14 kwietnia 2022 r. pod numerem 2022/291/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

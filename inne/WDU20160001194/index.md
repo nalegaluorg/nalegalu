@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 4 sierpnia 2016 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 4 sierpnia 2016 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-04 |
 | Data wydania | 2016-08-08 |
-| Wejście w życie | 2016-08-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1194/text.pdf) |
 
@@ -31,40 +30,31 @@ Na podstawie art. 19 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważon
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 września 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. z 2013 r. poz. 1221) wprowadza się następujące zmiany:
 1)
-w § 46 dodaje się ust. 4 w brzmieniu:
-„
+w § 46 dodaje się ust. 4 w brzmieniu: „
 4.
-W przypadku przyznania pomocy na realizację operacji, o których mowa w § 20, do kosztów kwalifikowalnych zalicza się również koszty kwalifikowalne poniesione przez wnioskodawcę przed dniem złożenia wniosku o dofinansowanie, lecz nie wcześniej niż w dniu 30 września 2009 r. i nie później niż w dniu 31 grudnia 2015 r.
-” ;
+W przypadku przyznania pomocy na realizację operacji, o których mowa w § 20, do kosztów kwalifikowalnych zalicza się również koszty kwalifikowalne poniesione przez wnioskodawcę przed dniem złożenia wniosku o dofinansowanie, lecz nie wcześniej niż w dniu 30 września 2009 r. i nie później niż w dniu 31 grudnia 2015 r. ” ;
 2)
 w § 52:
 a)
-ust. 2 i 3 otrzymują brzmienie:
-„
+ust. 2 i 3 otrzymują brzmienie: „
 2.
 Jeżeli wniosek o dofinansowanie nie został wypełniony we wszystkich wymaganych pozycjach lub nie dołączono do niego co najmniej jednego z dokumentów, o których mowa w § 50 ust. 3, wnioskodawca jest wzywany do usunięcia braków lub złożenia wyjaśnień, w terminie 7 dni od dnia doręczenia wezwania.
 3.
-Jeżeli wnioskodawca pomimo wezwania, o którym mowa w ust. 2, nie usunął braków lub nie złożył wyjaśnień w wyznaczonym terminie, Agencja ponownie wzywa wnioskodawcę do usunięcia braków lub złożenia wyjaśnień, w terminie 7 dni od dnia doręczenia wezwania.
-” ;
+Jeżeli wnioskodawca pomimo wezwania, o którym mowa w ust. 2, nie usunął braków lub nie złożył wyjaśnień w wyznaczonym terminie, Agencja ponownie wzywa wnioskodawcę do usunięcia braków lub złożenia wyjaśnień, w terminie 7 dni od dnia doręczenia wezwania. ” ;
 3)
 w § 58:
 a)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Jeżeli wniosek o płatność nie został złożony w terminie określonym w umowie o dofinansowanie, Agencja wzywa beneficjenta, w formie pisemnej, do złożenia wniosku o płatność, w terminie nie krótszym niż 7 dni od dnia doręczenia wezwania.
-” ,
+Jeżeli wniosek o płatność nie został złożony w terminie określonym w umowie o dofinansowanie, Agencja wzywa beneficjenta, w formie pisemnej, do złożenia wniosku o płatność, w terminie nie krótszym niż 7 dni od dnia doręczenia wezwania. ” ,
 b)
-ust. 7 i 8 otrzymują brzmienie:
-„
+ust. 7 i 8 otrzymują brzmienie: „
 7.
 Jeżeli wniosek o płatność nie został prawidłowo wypełniony lub nie dołączono do niego co najmniej jednego z dokumentów, o których mowa w ust. 4, Agencja wzywa beneficjenta do usunięcia braków lub złożenia wyjaśnień, w terminie 7 dni od dnia doręczenia wezwania.
 8.
-Jeżeli beneficjent, pomimo wezwania, o którym mowa w ust. 7, nie usunął braków lub nie złożył wyjaśnień w wyznaczonym terminie, Agencja ponownie wzywa beneficjenta do usunięcia braków lub złożenia wyjaśnień, w terminie 7 dni od dnia doręczenia wezwania.
-” .
+Jeżeli beneficjent, pomimo wezwania, o którym mowa w ust. 7, nie usunął braków lub nie złożył wyjaśnień w wyznaczonym terminie, Agencja ponownie wzywa beneficjenta do usunięcia braków lub złożenia wyjaśnień, w terminie 7 dni od dnia doręczenia wezwania. ” .
 § 2.
 Do postępowań w sprawie przyznania pomocy finansowej na realizację środków objętych osią priorytetową 3 – Środki służące wspólnemu interesowi, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”, wszczętych na podstawie przepisów rozporządzenia zmienianego w § 1 przed dniem wejścia w życie rozporządzenia i niezakończonych zawarciem umowy, na podstawie której jest przyznawana pomoc, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 

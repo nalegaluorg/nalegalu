@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-13 |
 | Data wydania | 2022-05-10 |
-| Wejście w życie | 2022-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000982) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/982/text.pdf) |
 
@@ -134,5 +133,5 @@ napisy dla niesłyszących – N;
 3)
 tłumaczenie na język migowy – JM.
 § 13.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 15 listopada 2018 r. w sprawie udogodnień dla osób niepełnosprawnych z powodu dysfunkcji narządu wzroku i osób niepełnosprawnych z powodu dysfunkcji narządu słuchu w programach telewizyjnych (Dz. U. poz. 2261), które traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 15 listopada 2018 r. w sprawie udogodnień dla osób niepełnosprawnych z powodu dysfunkcji narządu wzroku i osób niepełnosprawnych z powodu dysfunkcji narządu słuchu w programach telewizyjnych (Dz. U. poz. 2261), które traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

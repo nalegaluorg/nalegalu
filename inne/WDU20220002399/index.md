@@ -22,22 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-21 |
 | Data wydania | 2022-11-22 |
-| Wejście w życie | 2022-11-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002399) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2399/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2022 r. poz. 2157) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) w § 13zs:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087 oraz z 2022 r. poz. 45, 642, 1000, 1172, 1536, 2117 i 2315.) w § 13zs:
 1)
 w ust. 4 i 5 liczbę „23” zastępuje się liczbą „30”;
 2)
-w ust. 7 pkt 4 otrzymuje brzmienie:
-„
+w ust. 7 pkt 4 otrzymuje brzmienie: „
 4)
-kopie faktur lub inne dokumenty potwierdzające sprzedaż, o której mowa w ust. 2 pkt 4.
-” ;
+kopie faktur lub inne dokumenty potwierdzające sprzedaż, o której mowa w ust. 2 pkt 4. ” ;
 3)
 w ust. 12 liczbę „450” zastępuje się liczbą „600”.
 § 2.
@@ -48,5 +45,5 @@ Członek rodziny, który złożył wniosek o przyznanie pomocy, o której mowa w
 2.
 W przypadku niezłożenia w terminie, o którym mowa w ust. 1, kopii faktur lub innych dokumentów, o których mowa w § 13zs ust. 7 pkt 4 rozporządzenia zmienianego w § 1, pomocy, o której mowa w § 13zs ust. 1 rozporządzenia zmienianego w § 1, nie przyznaje się.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087 oraz z 2022 r. poz. 45, 642, 1000, 1172, 1536, 2117 i 2315.
 

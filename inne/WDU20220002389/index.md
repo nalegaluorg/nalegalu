@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 31 października 2022 r. w sprawie komisji do spraw środka leczniczego dla nieletnich, trybu wykonywania środka leczniczego oraz warunków zabezpieczenia zakładów leczniczych
+# Rozporządzenie Ministra Zdrowiaz dnia 31 października 2022 r. w sprawie komisji do spraw środka leczniczego dla nieletnich, trybu wykonywania środka leczniczego oraz warunków zabezpieczenia zakładów leczniczych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-31 |
 | Data wydania | 2022-11-22 |
-| Wejście w życie | 2022-11-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002389) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2389/text.pdf) |
 
@@ -90,8 +89,7 @@ Komisja wydaje opinię w formie pisemnej:
 1)
 w terminie 21 dni od dnia wpłynięcia wniosku – w przypadku opinii, o której mowa w ust. 1,
 2)
-niezwłocznie, nie później niż w terminie 14 dni od dnia wpłynięcia wniosku – w przypadku opinii, o której mowa w ust. 2
-i bez zbędnej zwłoki przesyła ją do sądu.
+niezwłocznie, nie później niż w terminie 14 dni od dnia wpłynięcia wniosku – w przypadku opinii, o której mowa w ust. 2 – i bez zbędnej zwłoki przesyła ją do sądu.
 § 5.
 Dokumentacja przekazana komisji jest przechowywana w jednostce, o której mowa w § 3 ust. 6, w sposób zapewniający ochronę danych zawartych w tych dokumentach oraz zabezpieczający przed ich zniszczeniem, uszkodzeniem lub utratą i dostępem osób nieupoważnionych.
 § 6.
@@ -143,6 +141,5 @@ jest otoczony oświetlonym, nadzorowanym za pośrednictwem wewnętrznego systemu
 3)
 zatrudnia personel pracujący z nieletnimi w liczbie co najmniej trzykrotnie większej niż liczba łóżek przeznaczonych do wykonywania środka leczniczego w tym zakładzie, w tym personel sprawujący ochronę nad nieletnimi w liczbie nie mniejszej niż dwie trzecie liczby tych łóżek.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 20 kwietnia 2005 r. w sprawie szczegółowych zasad kierowania, przyjmowania, przenoszenia, zwalniania i pobytu nieletnich w podmiotach leczniczych niebędących przedsiębiorcami (Dz. U. z 2018 r. poz. 1928), które utraciło moc z dniem 1 września 2022 r. w związku z wejściem w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 20 kwietnia 2005 r. w sprawie szczegółowych zasad kierowania, przyjmowania, przenoszenia, zwalniania i pobytu nieletnich w podmiotach leczniczych niebędących przedsiębiorcami (Dz. U. z 2018 r. poz. 1928), które utraciło moc z dniem 1 września 2022 r. w związku z wejściem w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 20 kwietnia 2005 r. w sprawie szczegółowych zasad kierowania, przyjmowania, przenoszenia, zwalniania i pobytu nieletnich w podmiotach leczniczych niebędących przedsiębiorcami (Dz. U. z 2018 r. poz. 1928), które utraciło moc z dniem 1 września 2022 r. w związku z wejściem w życie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700).
 

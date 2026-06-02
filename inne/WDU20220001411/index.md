@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 1 lipca 2022 r. w sprawie określenia metod analizy ekonomicznej kosztów i korzyści oraz danych lub źródeł danych do celów tej analizy
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 1 lipca 2022 r. w sprawie określenia metod analizy ekonomicznej kosztów i korzyści oraz danych lub źródeł danych do celów tej analizy Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-01 |
 | Data wydania | 2022-07-05 |
-| Wejście w życie | 2022-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001411) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1411/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 10a ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24, Dz. Urz. UE L 141 z 28.05.2013, str. 28, Dz. Urz. UE L 156 z 19.06.2018, str. 75, Dz. Urz. UE L 328 z 21.12.2018, str. 1 i 210, Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 137 z 23.05.2019, str. 3 oraz Dz. Urz. UE L 158 z 14.06.2019, str. 125). Na podstawie art. 10a ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -117,7 +116,7 @@ Do sporządzenia analizy ekonomicznej kosztów i korzyści przedsięwzięcia wyk
 1)
 informacje o dostępnych mechanizmach wsparcia przedsięwzięć ze środków publicznych w formie dotacji, pożyczek na zasadach preferencyjnych i premii oraz o poziomach tego wsparcia zawarte w dokumentach określających zasady udzielania wsparcia publikowanych na stronach podmiotowych urzędów obsługujących organy administracji rządowej;
 2)
-wytyczne zapewniające stosowanie jednolitych wskaźników makroekonomicznych publikowane na podstawie art. 50a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.);
+wytyczne zapewniające stosowanie jednolitych wskaźników makroekonomicznych publikowane na podstawie art. 50a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283.);
 3)
 informacje ogłaszane przez Prezesa Urzędu Regulacji Energetyki na podstawie art. 31 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
 4)
@@ -131,6 +130,5 @@ na etapie uzyskiwania decyzji administracyjnych niezbędnych do jego realizacji;
 3)
 planowane i w stosunku do którego przed dniem wejścia w życie rozporządzenia organ uprawniony do reprezentowania przedsiębiorstwa energetycznego oraz innego przedsiębiorcy, o których mowa w art. 10a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, planujących to przedsięwzięcie, podjął decyzję w formie uchwały lub w formie pisemnej o realizacji tego przedsięwzięcia.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24, Dz. Urz. UE L 141 z 28.05.2013, str. 28, Dz. Urz. UE L 156 z 19.06.2018, str. 75, Dz. Urz. UE L 328 z 21.12.2018, str. 1 i 210, Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 137 z 23.05.2019, str. 3 oraz Dz. Urz. UE L 158 z 14.06.2019, str. 125). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, Dz. Urz. UE L 113 z 25.04.2013, str. 24, Dz. Urz. UE L 141 z 28.05.2013, str. 28, Dz. Urz. UE L 156 z 19.06.2018, str. 75, Dz. Urz. UE L 328 z 21.12.2018, str. 1 i 210, Dz. Urz. UE L 85I z 27.03.2019, str. 66, Dz. Urz. UE L 137 z 23.05.2019, str. 3 oraz Dz. Urz. UE L 158 z 14.06.2019, str. 125). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283.
 

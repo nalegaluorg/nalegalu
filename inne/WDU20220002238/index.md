@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Aktywów Państwowychz dnia 2 listopada 2022 r. w sprawie ilości paliwa stałego dostępnej dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego
+# Rozporządzenie Ministra Aktywów Państwowychz dnia 2 listopada 2022 r. w sprawie ilości paliwa stałego dostępnej dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1a rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-02 |
 | Data wydania | 2022-11-02 |
-| Wejście w życie | 2022-11-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002238) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2238/text.pdf) |
 
@@ -35,6 +34,5 @@ Ustala się, że ilość paliwa stałego dostępna dla jednego gospodarstwa domo
 2)
 1500 kg – od dnia 1 stycznia 2023 r.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1a rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Aktywów Państwowych kieruje działem administracji rządowej – aktywa państwowe, na podstawie § 1 ust. 2 pkt 1a rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. z 2021 r. poz. 943).
 

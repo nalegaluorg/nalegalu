@@ -72,36 +72,30 @@ rozporządzeniem Rady Ministrów z dnia 12 grudnia 2017 r. zmieniającym rozporz
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 3 sierpnia 2007 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych Prezesowi Urzędu Ochrony Konkurencji i Konsumentów w celu wydania opinii o planowanej pomocy publicznej (Dz. U. poz. 1034), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 3 sierpnia 2007 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych Prezesowi Urzędu Ochrony Konkurencji i Konsumentów w celu wydania opinii o planowanej pomocy publicznej (Dz. U. poz. 1034), które stanowią: „
 § 2.
 Do spraw wszczętych i niezakończonych do dnia wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 6 sierpnia 2010 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej (Dz. U. poz. 1088), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 6 sierpnia 2010 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej (Dz. U. poz. 1088), które stanowią: „
 § 2.
 Do wniosków złożonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej (Dz. U. z 2018 r. poz. 19), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej (Dz. U. z 2018 r. poz. 19), które stanowią: „
 § 2.
 Do wniosków o wydanie opinii o planowanej pomocy publicznej złożonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Rady Ministrów z dnia 26 października 2004 r. w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Rady Ministrów z dnia 26 października 2004 r. w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznejTytuł ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 3 sierpnia 2007 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych Prezesowi Urzędu Ochrony Konkurencji i Konsumentów w celu wydania opinii o planowanej pomocy publicznej (Dz. U. poz. 1034), które weszło w życie z dniem 29 sierpnia 2007 r.
 Na podstawie art. 13 ust. 4 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy zakres informacji niezbędnych do wydania opinii, o której mowa w art. 12 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, zwanej dalej „ustawą”, oraz elementy, jakie powinien zawierać plan restrukturyzacyjny.
 § 2.
 1.
-W przypadku wniosku o wydanie opinii dotyczącej projektu programu pomocowego, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, zwanemu dalej „Prezesem Urzędu”, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi właściwemu do spraw rolnictwa, zwanemu dalej „ministrem”, przekazuje się następujące informacje:
+W przypadku wniosku o wydanie opinii dotyczącej projektu programu pomocowego, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, zwanemu dalej „Prezesem Urzędu”, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi właściwemu do spraw rolnictwa, zwanemu dalej „ministrem”, przekazuje się następujące informacje:Zdanie wstępne w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1.
 1)
 nazwę oraz adres podmiotu opracowującego projekt programu pomocowego;
 2)
@@ -110,7 +104,7 @@ nazwę projektowanego programu pomocowego;
 podstawę prawną udzielania pomocy;
 4)
 przeznaczenie pomocy;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Rady Ministrów z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej (Dz. U. z 2018 r. poz. 19), które weszło w życie z dniem 19 stycznia 2018 r.)
 wskazanie, czy projekt programu pomocowego dotyczy pomocy udzielanej w ramach wyłączeń grupowych – w takim przypadku należy przywołać właściwe rozporządzenie Komisji Europejskiej, zwanej dalej „Komisją”, wydane na podstawie rozporządzenia Rady (UE) nr 2015/1588 z dnia 13 lipca 2015 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do niektórych kategorii horyzontalnej pomocy państwa (Dz. Urz. UE L 248 z 24.09.2015, str. 1);
 6)
 formę udzielania pomocy oraz, gdy pomoc ma być udzielana w formie:
@@ -132,28 +126,28 @@ w odniesieniu do całego okresu obowiązywania projektowanego programu pomocoweg
 okres obowiązywania projektowanego programu pomocowego lub okres, na jaki projektowany program pomocowy ma być zatwierdzony przez Komisję, z podaniem dokładnej daty, od której i do której pomoc może być udzielana; w przypadku gdy okres ten ma być dłuższy niż sześć lat, należy wykazać, że jest to niezbędne do osiągnięcia celów programu pomocowego;
 11)
 źródło pochodzenia pomocy – należy wskazać, czy są to środki budżetu państwa, budżetu jednostki samorządu terytorialnego czy inne środki wraz z opisem źródła ich pochodzenia;
-12)
-wskazanie, czy adresaci zamierzonej pomocy to mikroprzedsiębiorcy, mali czy średni przedsiębiorcy w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji nr 651/2014”;
+12W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
+wskazanie, czy adresaci zamierzonej pomocy to mikroprzedsiębiorcy, mali czy średni przedsiębiorcy w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28., zwanego dalej „rozporządzeniem Komisji nr 651/2014”;
 13)
 szacunkową liczbę adresatów zamierzonej pomocy;
 14)
 określenie podmiotu lub podmiotów udzielających pomocy;
-15)
-podregion, w rozumieniu rozporządzenia Rady Ministrów z dnia 14 listopada 2007 r. w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. poz. 1573, z późn. zm.), w jakim pomoc ma być udzielana;
-16)
+15W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia Rady Ministrów z dnia 6 sierpnia 2010 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej (Dz. U. poz. 1088), które weszło w życie z dniem 18 września 2010 r.)
+podregion, w rozumieniu rozporządzenia Rady Ministrów z dnia 14 listopada 2007 r. w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. poz. 1573, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. poz. 1359, z 2009 r. poz. 1558, z 2010 r. poz. 1658, z 2012 r. poz. 1390, z 2013 r. poz. 1587, z 2014 r. poz. 1992, z 2015 r. poz. 2313 oraz z 2016 r. poz. 1909.)Rozporządzenie utraciło moc na podstawie § 1 rozporządzenia Rady Ministrów z dnia 7 kwietnia 2017 r. uchylającego rozporządzenie w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. poz. 825), które weszło w życie z dniem 1 stycznia 2018 r., w jakim pomoc ma być udzielana;
+16W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 3.)
 wskazanie, czy pomoc może być udzielana łącznie z pomocą udzielaną w ramach innych programów pomocowych, pomocą indywidualną lub pomocą indywidualną na restrukturyzację, w tym pomocą na ratowanie lub pomocą de minimis , w odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą – w takim przypadku należy wskazać zasady kumulacji pomocy;
 17)
 wskazanie, czy w projekcie programu pomocowego przewidziano, że do czasu zatwierdzenia przez Komisję pomoc nie może być udzielona;
 18)
 jeżeli do projektu programu pomocowego dołączono informacje, które nie powinny być udostępniane osobom trzecim oraz publikowane w Dzienniku Urzędowym Unii Europejskiej – wskazanie tych informacji oraz określenie przyczyny ich niejawności;
-19)
-w przypadku programu pomocowego wymagającego notyfikacji Komisji, informacje określone w części I pkt 6.2–6.6 załącznika I do rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zwanego dalej „rozporządzeniem Komisji”;
-20)
+19Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 6; w brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 3.)
+w przypadku programu pomocowego wymagającego notyfikacji Komisji, informacje określone w części I pkt 6.2–6.6 załącznika I do rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zwanego dalej „rozporządzeniem Komisji”;
+20Dodany przez § 1 pkt 1 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 3.)
 sektory, w których udzielana będzie pomoc;
-21)
+21Dodany przez § 1 pkt 1 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 3.)
 informację, czy projekt programu pomocowego zakazuje udzielania lub wypłaty pomocy przedsiębiorcy, na którym ciąży obowiązek zwrotu uzyskanej przez niego pomocy publicznej wynikający z decyzji Komisji uznającej tę pomoc za niezgodną z rynkiem wewnętrznym.
 2.
-W przypadku zmiany, o której mowa w art. 4 ust. 1 rozporządzenia Komisji, zatwierdzonego przez Komisję programu pomocowego, Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi, dodatkowo przekazuje się następujące informacje:
+W przypadku zmiany, o której mowa w art. 4 ust. 1 rozporządzenia Komisji, zatwierdzonego przez Komisję programu pomocowego, Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi, dodatkowo przekazuje się następujące informacje:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.
 1)
 numer programu pomocowego nadany przez Komisję;
 2)
@@ -164,7 +158,7 @@ czas trwania zmienianego programu pomocowego;
 opis planowanych zmian i uzasadnienie ich wprowadzenia.
 § 3.
 1.
-W przypadku wniosku o wydanie opinii dotyczącej projektu pomocy indywidualnej oraz projektu pomocy indywidualnej na restrukturyzację, Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi, przekazuje się następujące informacje:
+W przypadku wniosku o wydanie opinii dotyczącej projektu pomocy indywidualnej oraz projektu pomocy indywidualnej na restrukturyzację, Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi, przekazuje się następujące informacje:Zdanie wstępne w brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 1.
 1)
 nazwę, siedzibę oraz adres podmiotu udzielającego pomocy;
 2)
@@ -173,9 +167,9 @@ podstawę prawną udzielania pomocy;
 przeznaczenie pomocy;
 4)
 formę udzielania pomocy oraz, gdy pomoc ma być udzielana w formie:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 pożyczki lub kredytu – wskazanie kwoty pożyczki lub kredytu i okresu obowiązywania umowy pożyczki lub kredytu oraz wskazanie wymaganego sposobu zabezpieczenia ich spłaty,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 gwarancji lub poręczenia – wskazanie kwoty gwarancji lub poręczenia i okresu obowiązywania umowy gwarancji lub poręczenia oraz informacje dotyczące pożyczki lub innej operacji finansowej objętej gwarancją lub poręczeniem, wymaganego zabezpieczenia, opłaty prowizyjnej;
 5)
 szczegółowy opis zasad udzielania pomocy, w szczególności jej opodatkowania;
@@ -189,8 +183,8 @@ c)
 datę zatwierdzenia programu pomocowego przez Komisję;
 7)
 opis przedsięwzięcia, na realizację którego ma być udzielona pomoc;
-8)
-podregion, w rozumieniu rozporządzenia Rady Ministrów z dnia 14 listopada 2007 r. w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS), w jakim pomoc ma być udzielona;
+8W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6.)
+podregion, w rozumieniu rozporządzenia Rady Ministrów z dnia 14 listopada 2007 r. w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS)Rozporządzenie utraciło moc na podstawie § 1 rozporządzenia Rady Ministrów z dnia 7 kwietnia 2017 r. uchylającego rozporządzenie w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. poz. 825), które weszło w życie z dniem 1 stycznia 2018 r., w jakim pomoc ma być udzielona;
 9)
 źródło pochodzenia pomocy – należy wskazać, czy są to środki budżetu państwa, budżetu jednostki samorządu terytorialnego czy inne środki wraz z opisem źródła ich pochodzenia;
 10)
@@ -205,17 +199,17 @@ nazwę (firmę) lub imię i nazwisko podmiotu ubiegającego się o pomoc;
 adres siedziby lub miejsca zamieszkania podmiotu ubiegającego się o pomoc;
 15)
 formę prawną podmiotu ubiegającego się o pomoc;
-16)
+16W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 wskazanie, czy podmiot ubiegający się o pomoc znajduje się w trudnej sytuacji ekonomicznej, oraz kopie sprawozdań finansowych za ostatnie 3 lata obrotowe;
-17)
+17W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 1.)
 dane o pomocy publicznej otrzymanej przez podmiot ubiegający się o pomoc, wynikające z informacji składanej na podstawie art. 37 ust. 5 ustawy;
 18)
 wskazanie, czy podmiot ubiegający się o pomoc uzyskał w przeszłości pomoc, w stosunku do której Komisja wydała decyzję o obowiązku zwrotu pomocy;
-19)
+19W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 1.)
 wskazanie, czy podmiot ubiegający się o pomoc jest przedsiębiorcą publicznym w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. poz. 1411 i 1775 oraz z 2014 r. poz. 1662), oraz dane potwierdzające spełnienie przesłanek, o których mowa w tym przepisie;
-20)
+20W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6.)
 klasę rodzaju działalności podmiotu ubiegającego się o pomoc określoną zgodnie z rozporządzeniem Rady Ministrów z dnia 24 grudnia 2007 r. w sprawie Polskiej Klasyfikacji Działalności (PKD) (Dz. U. poz. 1885, z 2009 r. poz. 489 oraz z 2017 r. poz. 2440);
-21)
+21W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 3.)
 wskazanie, czy podmiot ubiegający się o pomoc to mikroprzedsiębiorca, mały czy średni przedsiębiorca w rozumieniu załącznika I do rozporządzenia Komisji nr 651/2014, oraz dane potwierdzające spełnienie przesłanek określonych w tym załączniku;
 22)
 dane dotyczące działalności gospodarczej prowadzonej przez podmiot ubiegający się o pomoc, obejmujące:
@@ -223,7 +217,7 @@ a)
 przychody netto ze sprzedaży produktów, towarów i materiałów za ostatni rok obrotowy,
 b)
 wielkość produkcji w ostatnim roku obrotowym w ujęciu ilościowym i wartościowym, z uwzględnieniem podstawowych grup produktów lub usług,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 6.)
 strukturę sprzedaży na rynek krajowy, rynek Unii Europejskiej oraz do Europejskiego Obszaru Gospodarczego,
 d)
 szacunkową wielkość, wyrażoną procentowo, udziału w rynku, na którym prowadzi działalność, według poszczególnych grup produktów lub usług – jeżeli jego udział w rynku przekracza 10%;
@@ -232,13 +226,13 @@ wykaz głównych konkurentów podmiotu ubiegającego się o pomoc, z podaniem ic
 24)
 informacje o wpisie do ewidencji działalności gospodarczej lub Krajowego Rejestru Sądowego wraz z kopią aktualnego zaświadczenia lub odpisu;
 25)
-(uchylony);
-26)
+(uchylony);Przez § 1 pkt 2 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 3.
+26W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 3.)
 jeżeli do projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację, w tym projektu pomocy na ratowanie, dołączono informacje, które nie powinny być udostępniane osobom trzecim oraz publikowane w Dzienniku Urzędowym Unii Europejskiej – wskazanie tych informacji oraz określenie przyczyny ich niejawności;
-27)
+27Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 6; w brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 3.)
 w przypadku pomocy indywidualnej wymagającej notyfikacji – informacje określone w części I pkt 6.2–6.6 załącznika I do rozporządzenia Komisji.
 2.
-W przypadku zmiany, o której mowa w art. 4 ust. 1 rozporządzenia Komisji, zatwierdzonej przez Komisję pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację, w tym pomocy na ratowanie, Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi, dodatkowo przekazuje się następujące informacje:
+W przypadku zmiany, o której mowa w art. 4 ust. 1 rozporządzenia Komisji, zatwierdzonej przez Komisję pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację, w tym pomocy na ratowanie, Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi, dodatkowo przekazuje się następujące informacje:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3.
 1)
 numer pomocy nadany przez Komisję;
 2)
@@ -246,7 +240,7 @@ datę zatwierdzenia pomocy przez Komisję, z podaniem symbolu pisma przekazanego
 3)
 opis planowanych zmian i uzasadnienie ich wprowadzenia.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 Oprócz informacji, o których mowa w § 2 i § 3, Prezesowi Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie, ministrowi, przekazuje się informacje określone w:
 1)
 załączniku nr 1 do rozporządzenia – w przypadku regionalnej pomocy inwestycyjnej;
@@ -272,26 +266,25 @@ załączniku nr 10 do rozporządzenia – w przypadku pomocy stanowiącej rekomp
 załączniku nr 11 do rozporządzenia – w przypadku pomocy w rolnictwie;
 12)
 załączniku nr 12 do rozporządzenia – w przypadku pomocy w rybołówstwie.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1..
 Przepisu ust. 1 nie stosuje się w przypadku zmiany, o której mowa w art. 4 ust. 2 rozporządzenia Komisji, zatwierdzonego przez Komisję programu pomocowego.
-§ 5.
-Plan restrukturyzacyjny dołączany do wniosku o wydanie opinii dotyczącej pomocy indywidualnej na restrukturyzację powinien zawierać elementy wymagane przez Komisję przy ocenie pomocy udzielanej przedsiębiorcom znajdującym się w trudnej sytuacji.
-§ 6.
+§ 5W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
+Plan restrukturyzacyjny dołączany do wniosku o wydanie opinii dotyczącej pomocy indywidualnej na restrukturyzację powinien zawierać elementy wymagane przez Komisję przy ocenie pomocy udzielanej przedsiębiorcom znajdującym się w trudnej sytuacjiElementy te są określone w komunikacie Komisji w załączniku nr 2 do Wytycznych dotyczących pomocy państwa na ratowanie i restrukturyzację przedsiębiorców niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1)..
+§ 6W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1..
 Do wniosku o wydanie opinii należy dołączyć informacje o osobie wyznaczonej do kontaktów z Urzędem Ochrony Konkurencji i Konsumentów albo urzędem obsługującym ministra właściwego do spraw rolnictwa, obejmujące jej imię i nazwisko, stanowisko służbowe, numer telefonu i faksu oraz adres poczty elektronicznej.
 § 7.
 Traci moc rozporządzenie Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie szczegółowego zakresu informacji przedkładanych organowi nadzorującemu w celu wydania opinii o planowanej pomocy publicznej (Dz. U. z 2003 r. poz. 1).
 § 8.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Tytuł ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 3 sierpnia 2007 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych Prezesowi Urzędu Ochrony Konkurencji i Konsumentów w celu wydania opinii o planowanej pomocy publicznej (Dz. U. poz. 1034), które weszło w życie z dniem 29 sierpnia 2007 r. 2) Zdanie wstępne w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Rady Ministrów z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej (Dz. U. z 2018 r. poz. 19), które weszło w życie z dniem 19 stycznia 2018 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia Rady Ministrów z dnia 6 sierpnia 2010 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej (Dz. U. poz. 1088), które weszło w życie z dniem 18 września 2010 r. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. poz. 1359, z 2009 r. poz. 1558, z 2010 r. poz. 1658, z 2012 r. poz. 1390, z 2013 r. poz. 1587, z 2014 r. poz. 1992, z 2015 r. poz. 2313 oraz z 2016 r. poz. 1909. 8) Rozporządzenie utraciło moc na podstawie § 1 rozporządzenia Rady Ministrów z dnia 7 kwietnia 2017 r. uchylającego rozporządzenie w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. poz. 825), które weszło w życie z dniem 1 stycznia 2018 r. 9) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 3. 10) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 6; w brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 3. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19. 12) Dodany przez § 1 pkt 1 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 3. 13) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 14) Zdanie wstępne w brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 1. 15) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 16) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6. 17) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 18) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 1. 19) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 1. 20) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6. 21) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 3. 22) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 6. 23) Przez § 1 pkt 2 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 3. 24) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 3. 25) Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 6; w brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 3. 26) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 27) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 28) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 29) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 30) Elementy te są określone w komunikacie Komisji w załączniku nr 2 do Wytycznych dotyczących pomocy państwa na ratowanie i restrukturyzację przedsiębiorców niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1). 31) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1. 32) Rozporządzenie zostało ogłoszone w dniu 18 listopada 2004 r.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 listopada 2004 r.. 1) Tytuł ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 3 sierpnia 2007 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych Prezesowi Urzędu Ochrony Konkurencji i Konsumentów w celu wydania opinii o planowanej pomocy publicznej (Dz. U. poz. 1034), które weszło w życie z dniem 29 sierpnia 2007 r. 2) Zdanie wstępne w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Rady Ministrów z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej (Dz. U. z 2018 r. poz. 19), które weszło w życie z dniem 19 stycznia 2018 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia Rady Ministrów z dnia 6 sierpnia 2010 r. zmieniającego rozporządzenie w sprawie informacji przekazywanych w celu wydania opinii o planowanej pomocy publicznej (Dz. U. poz. 1088), które weszło w życie z dniem 18 września 2010 r. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. poz. 1359, z 2009 r. poz. 1558, z 2010 r. poz. 1658, z 2012 r. poz. 1390, z 2013 r. poz. 1587, z 2014 r. poz. 1992, z 2015 r. poz. 2313 oraz z 2016 r. poz. 1909. 8) Rozporządzenie utraciło moc na podstawie § 1 rozporządzenia Rady Ministrów z dnia 7 kwietnia 2017 r. uchylającego rozporządzenie w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS) (Dz. U. poz. 825), które weszło w życie z dniem 1 stycznia 2018 r. 9) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 3. 10) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 6; w brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 3. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19. 12) Dodany przez § 1 pkt 1 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 3. 13) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 14) Zdanie wstępne w brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 1. 15) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 16) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6. 17) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 18) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 1. 19) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 1. 20) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6. 21) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 3. 22) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 6. 23) Przez § 1 pkt 2 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 3. 24) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 3. 25) Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 6; w brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret piąte rozporządzenia, o którym mowa w odnośniku 3. 26) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 27) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 28) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 29) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 30) Elementy te są określone w komunikacie Komisji w załączniku nr 2 do Wytycznych dotyczących pomocy państwa na ratowanie i restrukturyzację przedsiębiorców niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1). 31) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1. 32) Rozporządzenie zostało ogłoszone w dniu 18 listopada 2004 r.
 
-## Załącznik nr 1 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku regionalnej pomocy inwestycyjnej
+## Załącznik nr 1 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku regionalnej pomocy inwestycyjnejW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
 1.
 W przypadku indywidualnej regionalnej pomocy inwestycyjnej należy podać informacje określone w części III.1.A załącznika I do rozporządzenia Komisji.
 2.
-W przypadku programów regionalnej pomocy inwestycyjnej należy podać informacje określone w części III.1.B załącznika I do rozporządzenia Komisji. Informacji, o których mowa w części III.1.B pkt 3.3.2–3.4.2, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014.
+W przypadku programów regionalnej pomocy inwestycyjnej należy podać informacje określone w części III.1.B załącznika I do rozporządzenia Komisji. Informacji, o których mowa w części III.1.B pkt 3.3.2–3.4.2, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 2 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na działalność badawczą, rozwojową i innowacyjną
+## Załącznik nr 2 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na działalność badawczą, rozwojową i innowacyjnąW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
 1.
 W przypadku pomocy na działalność badawczą, rozwojową i innowacyjną należy podać informacje określone w części III.2 załącznika I do rozporządzenia Komisji, w szczególności informacje określone w:
@@ -308,9 +301,9 @@ pkt 5.5 – w przypadku pomocy na innowacje procesowe i organizacyjne;
 6)
 pkt 5.6 – w przypadku pomocy dla klastrów innowacyjnych.
 2.
-Informacji, o których mowa w części III.2 pkt 1.1 lit. A, pkt 6.1–6.3, pkt 6.4.1, pkt 6.5.1–7 załącznika I do rozporządzenia Komisji, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014.
+Informacji, o których mowa w części III.2 pkt 1.1 lit. A, pkt 6.1–6.3, pkt 6.4.1, pkt 6.5.1–7 załącznika I do rozporządzenia Komisji, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 3 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na ratowanie, restrukturyzację lub tymczasowej pomocy na restrukturyzację
+## Załącznik nr 3 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na ratowanie, restrukturyzację lub tymczasowej pomocy na restrukturyzacjęW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
 1.
 W przypadku indywidualnej pomocy na ratowanie należy podać informacje określone w części III.3.A załącznika I do rozporządzenia Komisji.
@@ -323,17 +316,17 @@ pomocy na ratowanie należy podać informacje określone w części III.3.C zał
 2)
 pomocy na restrukturyzację należy podać informacje określone w części III.3.C załącznika I do rozporządzenia Komisji, z wyjątkiem informacji określonych w części III.3.C pkt 6.1–6.5, 6.7–6.12, 7.1 tego załącznika;
 3)
-tymczasowej pomocy na restrukturyzację należy podać informacje określone w części III.3.C załącznika I do rozporządzenia Komisji, z wyjątkiem informacji określonych w części III.3.C pkt 4.2, 5, 6.1–6.6, 7.2–7.3, 8.2, 9 tego załącznika.
+tymczasowej pomocy na restrukturyzację należy podać informacje określone w części III.3.C załącznika I do rozporządzenia Komisji, z wyjątkiem informacji określonych w części III.3.C pkt 4.2, 5, 6.1–6.6, 7.2–7.3, 8.2, 9 tego załącznika. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 4 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na filmy i inne utwory audiowizualne
+## Załącznik nr 4 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na filmy i inne utwory audiowizualneW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-W przypadku pomocy na filmy i inne utwory audiowizualne należy podać informacje określone w części III.4 załącznika I do rozporządzenia Komisji.
+W przypadku pomocy na filmy i inne utwory audiowizualne należy podać informacje określone w części III.4 załącznika I do rozporządzenia Komisji. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 5 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na rozwój sieci szerokopasmowych
+## Załącznik nr 5 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na rozwój sieci szerokopasmowychW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-W przypadku pomocy na rozwój sieci szerokopasmowych należy podać informacje określone w części III.5 załącznika I do rozporządzenia Komisji.
+W przypadku pomocy na rozwój sieci szerokopasmowych należy podać informacje określone w części III.5 załącznika I do rozporządzenia Komisji. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 6 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na ochronę środowiska i cele związane z energią
+## Załącznik nr 6 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na ochronę środowiska i cele związane z energiąW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
 1.
 W przypadku pomocy na ochronę środowiska i cele związane z energią należy podać informacje określone w części III.6 załącznika I do rozporządzenia Komisji, w szczególności informacje określone w:
@@ -350,13 +343,13 @@ sekcji C2 – w przypadku pomocy w postaci ulg w finansowaniu wsparcia na rzecz 
 6)
 sekcji C3 – w przypadku przepisów przejściowych dotyczących ulg w finansowaniu wsparcia na rzecz energii ze źródeł odnawialnych.
 2.
-Informacji, o których mowa w części III.6 sekcji B pkt 1–4 ppkt 1, pkt 4 ppkt 4–14 i pkt 5 ppkt 1.2.1.3 – pkt 6 ppkt 2, sekcji C1 pkt 1 i 3–9, sekcji C2 oraz sekcji C3 załącznika I do rozporządzenia Komisji, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014.
+Informacji, o których mowa w części III.6 sekcji B pkt 1–4 ppkt 1, pkt 4 ppkt 4–14 i pkt 5 ppkt 1.2.1.3 – pkt 6 ppkt 2, sekcji C1 pkt 1 i 3–9, sekcji C2 oraz sekcji C3 załącznika I do rozporządzenia Komisji, nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 7 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na finansowanie ryzyka
+## Załącznik nr 7 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na finansowanie ryzykaW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-W przypadku pomocy na finansowanie ryzyka należy podać informacje określone w części III.7 załącznika I do rozporządzenia Komisji. Informacji tych nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014.
+W przypadku pomocy na finansowanie ryzyka należy podać informacje określone w części III.7 załącznika I do rozporządzenia Komisji. Informacji tych nie podaje się w przypadku programów przewidujących udzielanie pomocy na warunkach określonych w rozporządzeniu Komisji nr 651/2014. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 8 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na rzecz portów lotniczych i przedsiębiorstw lotniczych
+## Załącznik nr 8 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na rzecz portów lotniczych i przedsiębiorstw lotniczychW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
 1.
 W przypadku projektu programu pomocowego lub indywidualnej pomocy inwestycyjnej dla portów lotniczych należy podać informacje określone w części III.13.A załącznika I do rozporządzenia Komisji.
@@ -365,13 +358,13 @@ W przypadku projektu programu pomocowego lub indywidualnej pomocy operacyjnej dl
 3.
 W przypadku projektu programu pomocowego lub pomocy indywidualnej na rozpoczęcie działalności dla przedsiębiorstw lotniczych należy podać informacje określone w części III.13.C załącznika I do rozporządzenia Komisji.
 4.
-W przypadku projektu programu pomocowego lub pomocy indywidualnej będącej pomocą o charakterze socjalnym, o której mowa w art. 107 ust. 2 lit. a Traktatu o funkcjonowaniu Unii Europejskiej, należy podać informacje określone w części III.13.D załącznika I do rozporządzenia Komisji.
+W przypadku projektu programu pomocowego lub pomocy indywidualnej będącej pomocą o charakterze socjalnym, o której mowa w art. 107 ust. 2 lit. a Traktatu o funkcjonowaniu Unii Europejskiej, należy podać informacje określone w części III.13.D załącznika I do rozporządzenia Komisji. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 9 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na transport morski
+## Załącznik nr 9 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy na transport morskiW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-W przypadku pomocy udzielanej w sektorze żeglugi morskiej należy podać informacje określone w części III.13.E pkt 1 i 2 załącznika I do rozporządzenia Komisji.
+W przypadku pomocy udzielanej w sektorze żeglugi morskiej należy podać informacje określone w części III.13.E pkt 1 i 2 załącznika I do rozporządzenia Komisji. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 10 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy stanowiącej rekompensatę za realizację usług świadczonych w ogólnym interesie gospodarczym
+## Załącznik nr 10 — – Dodatkowe informacje przekazywane Prezesowi Urzędu w przypadku pomocy stanowiącej rekompensatę za realizację usług świadczonych w ogólnym interesie gospodarczymW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
 W przypadku pomocy stanowiącej rekompensatę za realizację usług świadczonych w ogólnym interesie gospodarczym należy podać:
 1)
@@ -399,9 +392,9 @@ jeżeli podmiot ubiegający się o pomoc prowadzi dodatkową działalność, o k
 12)
 informacje dotyczące przewidzianych elementów motywacyjnych w zakresie wydajności;
 13)
-informacje dotyczące obowiązku publikacji informacji odnoszących się do powierzanej usługi świadczonej w ogólnym interesie gospodarczym i wypłaconej rekompensaty.
+informacje dotyczące obowiązku publikacji informacji odnoszących się do powierzanej usługi świadczonej w ogólnym interesie gospodarczym i wypłaconej rekompensaty. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 11 — – Dodatkowe informacje przekazywane ministrowi w przypadku pomocy w rolnictwie
+## Załącznik nr 11 — – Dodatkowe informacje przekazywane ministrowi w przypadku pomocy w rolnictwieW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
 W przypadku pomocy w sektorze rolnictwa należy podać informacje określone w części III.12 załącznika I do rozporządzenia Komisji, w szczególności informacje o:
 1)
@@ -437,17 +430,17 @@ pomocy na promocję i reklamę produktów rolnych oraz niektórych produktów ni
 16)
 pomocy na ratowanie i restrukturyzację przedsiębiorstw w trudnej sytuacji ekonomicznej;
 17)
-pomocy w zakresie testów TSE, zwłok zwierząt i ubocznych produktów zwierzęcych pozyskanych w rzeźni oraz podczas rozbioru i dalszej obróbki mięsa.
+pomocy w zakresie testów TSE, zwłok zwierząt i ubocznych produktów zwierzęcych pozyskanych w rzeźni oraz podczas rozbioru i dalszej obróbki mięsa. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 12 — – Dodatkowe informacje przekazywane ministrowi w przypadku pomocy w rybołówstwie
+## Załącznik nr 12 — – Dodatkowe informacje przekazywane ministrowi w przypadku pomocy w rybołówstwieW brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-W przypadku pomocy w sektorze rybołówstwa należy podać informacje określone w części III.14 załącznika I do rozporządzenia Komisji.
+W przypadku pomocy w sektorze rybołówstwa należy podać informacje określone w części III.14 załącznika I do rozporządzenia Komisji. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 13 — – Tekst załącznika
+## Załącznik nr 13 — – Tekst załącznikaPrzez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3.
 
-## Załącznik nr 14 — – Tekst załącznika
+## Załącznik nr 14 — – Tekst załącznikaPrzez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 6.
 
-## Załącznik nr 15 — – Tekst załącznika
+## Załącznik nr 15 — – Tekst załącznikaPrzez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 6.
 
-## Załącznik nr 16 — – Tekst załącznika
+## Załącznik nr 16 — – Tekst załącznikaPrzez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3.
 

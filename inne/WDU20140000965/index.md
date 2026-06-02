@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-30 |
 | Data wydania | 2014-07-23 |
-| Wejście w życie | 2014-08-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000965) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/965/text.pdf) |
 
@@ -35,8 +34,7 @@ Ustala się wykaz badań laboratoryjnych przeprowadzanych w celu zapewnienia bez
 1)
 ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt,
 2)
-produktach pochodzenia zwierzęcego
-w przypadku gdy wyniki tych badań są wykorzystywane dla celów kontroli urzędowej, stanowiący załącznik do rozporządzenia.
+produktach pochodzenia zwierzęcego – w przypadku gdy wyniki tych badań są wykorzystywane dla celów kontroli urzędowej, stanowiący załącznik do rozporządzenia.
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Załącznik – Wykaz badań laboratoryjnych przeprowadzanych w celu zapewnienia bezpieczeństwa produktów pochodzenia zwierzęcego oraz produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych

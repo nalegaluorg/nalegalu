@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 3 sierpnia 2017 r. w sprawie oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 3 sierpnia 2017 r. w sprawie oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-03 |
 | Data wydania | 2017-08-16 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001534) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1534/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży Rozdział 3 – Ocenianie, klasyfikowanie i promowanie słuchaczy w szkołach publicznych dla dorosłych Rozdział 4 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 44zb ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 44zb ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki i sposób oceniania, klasyfikowania i promowania uczniów w szkołach publicznych dla dzieci i młodzieży oraz słuchaczy w szkołach publicznych dla dorosłych, o których mowa w art. 18 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949), zwanej dalej „ustawą – Prawo oświatowe”.
+Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży
 § 2.
 Wymagania edukacyjne, o których mowa w art. 44b ust. 8 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą o systemie oświaty”, dostosowuje się do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia:
 1)
@@ -303,6 +304,7 @@ Uczeń kończy szkołę podstawową lub szkołę ponadpodstawową: branżową sz
 Uczniowi, który uczęszczał na dodatkowe zajęcia edukacyjne, religię lub etykę, do średniej ocen, o której mowa w ust. 1, wlicza się także końcowe oceny klasyfikacyjne uzyskane z tych zajęć.
 3.
 Uczeń, o którym mowa w art. 37 ust. 4 ustawy – Prawo oświatowe, kończy szkołę podstawową lub szkołę ponadpodstawową: branżową szkołę I stopnia, branżową szkołę II stopnia, liceum ogólnokształcące i technikum z wyróżnieniem, jeżeli w wyniku klasyfikacji końcowej uzyskał z obowiązkowych zajęć edukacyjnych średnią końcowych ocen klasyfikacyjnych co najmniej 4,75.
+Ocenianie, klasyfikowanie i promowanie słuchaczy w szkołach publicznych dla dorosłych
 § 20.
 1.
 Do słuchaczy szkół dla dorosłych stosuje się odpowiednio przepisy § 2, § 3, § 4 ust. 2 i 3, § 5, § 7, § 12–14 oraz § 17 ust. 1–6, 9, 10 i 12.
@@ -338,8 +340,7 @@ W przypadku zwolnienia słuchacza w całości lub w części z obowiązku odbyci
 1)
 „zwolniony w całości z praktycznej nauki zawodu” albo „zwolniona w całości z praktycznej nauki zawodu”,
 2)
-„zwolniony w części z praktycznej nauki zawodu” albo „zwolniona w części z praktycznej nauki zawodu”
-oraz podstawę prawną zwolnienia.
+„zwolniony w części z praktycznej nauki zawodu” albo „zwolniona w części z praktycznej nauki zawodu” – oraz podstawę prawną zwolnienia.
 6.
 W przypadku zwolnienia słuchacza z obowiązku realizacji zajęć edukacyjnych podstawy przedsiębiorczości w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się „zwolniony” albo „zwolniona” oraz rodzaj świadectwa będącego podstawą zwolnienia i datę jego wydania.
 § 22.
@@ -406,13 +407,13 @@ nie uczęszczał na poszczególne obowiązkowe zajęcia edukacyjne przewidziane 
 2)
 nie otrzymał z obowiązkowych zajęć edukacyjnych, o których mowa w pkt 1, ocen uznanych za pozytywne w ramach wewnątrzszkolnego oceniania, albo
 3)
-nie przystąpił do egzaminu semestralnego
-w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się „nieklasyfikowany” albo „nieklasyfikowana”.
+nie przystąpił do egzaminu semestralnego – w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się „nieklasyfikowany” albo „nieklasyfikowana”.
 § 29.
 1.
 Dyrektor szkoły dla dorosłych może zwolnić słuchacza powtarzającego semestr na podstawie art. 44z ust. 3–5 ustawy o systemie oświaty z realizacji obowiązkowych zajęć edukacyjnych, z których uzyskał poprzednio pozytywną semestralną ocenę klasyfikacyjną.
 2.
 W przypadku zwolnienia, o którym mowa w ust. 1, w dokumentacji przebiegu nauczania zamiast oceny klasyfikacyjnej wpisuje się odpowiednio „zwolniony” albo „zwolniona” oraz podstawę prawną zwolnienia.
+Przepisy przejściowe i końcowe
 § 30.
 W szkole podstawowej:
 1)
@@ -436,14 +437,21 @@ w klasie VI:
 – do zajęć komputerowych stosuje się odpowiednio przepisy § 4 ust. 2, § 15 ust. 2, § 16 ust. 2 i § 17 ust. 2,
 – do zajęć technicznych stosuje się odpowiednio przepisy § 9, § 15 ust. 2 i ust. 4 pkt 1, § 16 ust. 2 i § 17 ust. 2.
 § 31.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży
+#### Rozdział 2 – Ocenianie, klasyfikowanie i promowanie uczniów w szkołach publicznych dla dzieci i młodzieży
 
-#### Rozdział 3 Ocenianie, klasyfikowanie i promowanie słuchaczy w szkołach publicznych dla dorosłych
+#### Rozdział 3 – Ocenianie, klasyfikowanie i promowanie słuchaczy w szkołach publicznych dla dorosłych
 
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

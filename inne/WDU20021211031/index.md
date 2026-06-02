@@ -22,15 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-06-07 |
 | Data wydania | 2002-07-31 |
-| Wejście w życie | 2003-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021211031) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1031/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. Nr 86, poz. 959 i Nr 103, poz. 1099 oraz z 2001 r. Nr 100, poz. 1085) wprowadza się następujące zmiany:
 
-- **1)** w art. 1: w ust. 1 w pkt 1 skreśla się lit. c), w ust. 3: – w pkt 1 wyrazy „spółce cywilnej lub jawnej” zastępuje się wyrazami „spółce cywilnej, jawnej lub partnerskiej”, – pkt 2 otrzymuje brzmienie: „ 2) przy spółce komandytowej lub komandytowo-akcyjnej – wniesienie lub podwyższenie wniesionego do spółki wkładu, którego wartość powoduje zwiększenie majątku spółki lub kapitału zakładowego, ” – w pkt 3 oraz w art. 4 pkt 2, w art. 6 ust. 1 pkt 8 lit. a) i b), w art. 7 ust. 1 pkt 9 lit. a) i b) i w ust. 2 skreśla się wyraz „(akcyjnego)”, ust. 6 otrzymuje brzmienie: „
+- **1)** w art. 1: w ust. 1 w pkt 1 skreśla się lit. c), w ust. 3: – w pkt 1 wyrazy „spółce cywilnej lub jawnej” zastępuje się wyrazami „spółce cywilnej, jawnej lub partnerskiej”, pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+
+- **2)** przy spółce komandytowej lub komandytowo-akcyjnej – wniesienie lub podwyższenie wniesionego do spółki wkładu, którego wartość powoduje zwiększenie majątku spółki lub kapitału zakładowego, ” – w pkt 3 oraz w art. 4 pkt 2, w art. 6 ust. 1 pkt 8 lit. a) i b), w art. 7 ust. 1 pkt 9 lit. a) i b) i w ust. 2 skreśla się wyraz „(akcyjnego)”, ust. 6 otrzymuje brzmienie: „
     - **c)**
 
 6. Umowy majątkowe małżeńskie podlegają podatkowi, jeżeli przynajmniej jedna ze stron umowy ma miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej. ” ;
@@ -42,8 +43,11 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **4)** w art. 9: w pkt 10: – lit. c) i d) otrzymują brzmienie: „ c) na podstawie umowy zawartej między osobami zaliczonymi do I grupy podatkowej do wysokości kwoty niepodlegającej opodatkowaniu – na zasadach określonych w przepisach o podatku od spadków i darowizn, d) na podstawie umowy zwartej między innymi podmiotami niż osoby, o których mowa w lit. c), jeżeli łączna kwota lub wartość pożyczek otrzymanych od tego samego podmiotu nie przekracza w ciągu kolejnych 12 miesięcy 1000 zł, ” – dodaje się lit. g) w brzmieniu: „ g) na rozpoczęcie lub prowadzenie działalności gospodarczej, pod warunkiem udokumentowania, że pieniądze będące przedmiotem pożyczki zostaną przeznaczone na pokrycie wydatków poniesionych na rozpoczęcie lub prowadzenie działalności gospodarczej w ciągu 12 miesięcy od dnia zawarcia umowy albo wykorzystania w tym okresie rzeczy oznaczonych co do gatunku, stanowiących przedmiot pożyczki, ” skreśla się pkt 12, w pkt 13 w lit. e) po wyrazie „celowych” dodaje się wyrazy „utworzonych w drodze ustawy”;
+- **4)** w art. 9: w pkt 10: lit. c) i d) otrzymują brzmienie: „ na podstawie umowy zawartej między osobami zaliczonymi do I grupy podatkowej do wysokości kwoty niepodlegającej opodatkowaniu – na zasadach określonych w przepisach o podatku od spadków i darowizn, na podstawie umowy zwartej między innymi podmiotami niż osoby, o których mowa w lit. c), jeżeli łączna kwota lub wartość pożyczek otrzymanych od tego samego podmiotu nie przekracza w ciągu kolejnych 12 miesięcy 1000 zł, ” dodaje się lit. g) w brzmieniu: „ na rozpoczęcie lub prowadzenie działalności gospodarczej, pod warunkiem udokumentowania, że pieniądze będące przedmiotem pożyczki zostaną przeznaczone na pokrycie wydatków poniesionych na rozpoczęcie lub prowadzenie działalności gospodarczej w ciągu 12 miesięcy od dnia zawarcia umowy albo wykorzystania w tym okresie rzeczy oznaczonych co do gatunku, stanowiących przedmiot pożyczki, ” skreśla się pkt 12, w pkt 13 w lit. e) po wyrazie „celowych” dodaje się wyrazy „utworzonych w drodze ustawy”;
     - **a)**
+    - **c)**
+    - **d)**
+    - **g)**
     - **b)**
     - **c)**
 

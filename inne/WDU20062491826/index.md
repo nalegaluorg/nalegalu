@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-11-16 |
 | Data wydania | 2006-12-29 |
-| Wejście w życie | 2007-01-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491826) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1826/text.pdf) |
 

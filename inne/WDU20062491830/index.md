@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 grudnia 2006 r. o zmianie ustawy o ochronie zwierząt i ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt
+# Ustawa z dnia 8 grudnia 2006 r. o zmianie ustawy o ochronie zwierząt i ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 3 z 5.01.2005, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-08 |
 | Data wydania | 2006-12-29 |
-| Wejście w życie | 2007-01-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491830) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1830/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm.) wprowadza się następujące zmiany:
+Wymagania weterynaryjne dla tranzytu zwierząt
+
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 92, poz. 880 i Nr 96, poz. 959 oraz z 2005 r. Nr 33, poz. 289 i Nr 175, poz. 1462.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 - **1a)** znakowanie zwierząt stałocieplnych przez wypalanie lub wymrażanie; ” ;
@@ -54,25 +55,25 @@ source: "eli-html"
 2. Powiatowy lekarz weterynarii, po otrzymaniu protokołu, o którym mowa w ust. 1, wydaje:
 
 - **1)** zaświadczenia albo
-- **2)** licencje – w przypadku osób, o których mowa w art. 6 ust. 5 rozporządzenia nr 1/2005 potwierdzające kwalifikacje w zakresie transportu lub obsługi zwierząt. Minister właściwy do spraw rolnictwa, w drodze rozporządzenia, określi:
+- **2)** licencje – w przypadku osób, o których mowa w art. 6 ust. 5 rozporządzenia nr 1/2005 – potwierdzające kwalifikacje w zakresie transportu lub obsługi zwierząt. Minister właściwy do spraw rolnictwa, w drodze rozporządzenia, określi:
 - **1)** tryb powoływania komisji egzaminacyjnej, o której mowa w art. 24d, oraz kwalifikacje osób wchodzących w jej skład,
 - **2)** sposób przeprowadzania egzaminu kończącego szkolenie osób, o których mowa w art. 6 ust. 5 rozporządzenia nr 1/2005,
 - **3)** zakres informacji zawartych w protokole, o którym mowa w art. 24e ust. 1,
-- **4)** wzory zaświadczeń, o których mowa w art. 24e ust. 2 pkt 1 mając na względzie zapewnienie uzyskania odpowiednich kwalifikacji w zakresie ochrony zwierząt w czasie transportu, w tym uzyskanie przez osoby przeszkolone wiedzy i umiejętności w zakresie, o którym mowa w załącznikach I, II lub IV do rozporządzenia nr 1/2005. Koszty szkolenia ponoszą odpowiednio przewoźnicy, o których mowa w art. 6 ust. 4 rozporządzenia nr 1/2005, albo operatorzy punktów gromadzenia, o których mowa w art. 9 ust. 2 rozporządzenia nr 1/2005. ” ;
+- **4)** wzory zaświadczeń, o których mowa w art. 24e ust. 2 pkt 1 – mając na względzie zapewnienie uzyskania odpowiednich kwalifikacji w zakresie ochrony zwierząt w czasie transportu, w tym uzyskanie przez osoby przeszkolone wiedzy i umiejętności w zakresie, o którym mowa w załącznikach I, II lub IV do rozporządzenia nr 1/2005. Koszty szkolenia ponoszą odpowiednio przewoźnicy, o których mowa w art. 6 ust. 4 rozporządzenia nr 1/2005, albo operatorzy punktów gromadzenia, o których mowa w art. 9 ust. 2 rozporządzenia nr 1/2005. ” ;
 - **4)** w art. 34: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
 2. W ubojni wyodrębnia się pomieszczenie do przetrzymywania zwierząt oraz pomieszczenie do ogłuszania i wykrwawiania zwierząt. ” , w ust. 4 pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **1)** uśmiercania zwierząt w okresie stanowiącym 10% czasu trwania ciąży dla danego gatunku, bezpośrednio poprzedzającym planowany termin porodu, oraz 48 godzin po porodzie, z wyjątkiem: uśmiercenia zwierząt w przypadkach określonych w ustawie z dnia 21 stycznia 2005 r. o doświadczeniach na zwierzętach (Dz. U. Nr 33, poz. 289 oraz z 2006 r. Nr 171, poz. 1225 i Nr 220, poz. 1600), konieczności bezzwłocznego uśmiercenia, wydania przez powiatowego lekarza weterynarii decyzji nakazującej zabicie lub ubój zwierząt na podstawie art. 44 ust. 1 pkt 4 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625, z późn. zm.); ” ;
+- **1)** uśmiercania zwierząt w okresie stanowiącym 10% czasu trwania ciąży dla danego gatunku, bezpośrednio poprzedzającym planowany termin porodu, oraz 48 godzin po porodzie, z wyjątkiem: uśmiercenia zwierząt w przypadkach określonych w ustawie z dnia 21 stycznia 2005 r. o doświadczeniach na zwierzętach (Dz. U. Nr 33, poz. 289 oraz z 2006 r. Nr 171, poz. 1225 i Nr 220, poz. 1600), konieczności bezzwłocznego uśmiercenia, wydania przez powiatowego lekarza weterynarii decyzji nakazującej zabicie lub ubój zwierząt na podstawie art. 44 ust. 1 pkt 4 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 23, poz. 188 i Nr 33, poz. 289 oraz z 2006 r. Nr 17, poz. 127 i Nr 144, poz. 1045.); ” ;
     - **a)**
     - **b)**
     - **c)**
 
 - **5)** w art. 34a ust. 2 otrzymuje brzmienie: „
 
-2. W zakresie wykonywania nadzoru, o którym mowa w ust. 1, pracownicy Inspekcji Weterynaryjnej oraz osoby wyznaczone przez organy tej Inspekcji posiadają uprawnienia określone w ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. Nr 33, poz. 287, z późn. zm.). ” ;
+2. W zakresie wykonywania nadzoru, o którym mowa w ust. 1, pracownicy Inspekcji Weterynaryjnej oraz osoby wyznaczone przez organy tej Inspekcji posiadają uprawnienia określone w ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. Nr 33, poz. 287, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 877 i Nr 273, poz. 2703, z 2005 r. Nr 23, poz. 188, Nr 33, poz. 289, Nr 163, poz. 1362 i Nr 178, poz. 1480 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1045, Nr 170, poz. 1217 i Nr 171, poz. 1225.). ” ;
 
 - **6)** w art. 37 ust. 1 otrzymuje brzmienie: „
 
@@ -95,12 +96,12 @@ source: "eli-html"
 - **1)** opiekunem w rozumieniu art. 2 lit. k rozporządzenia nr 1/2005, nie wypełnia obowiązków określonych w art. 8 tego rozporządzenia,
 - **2)** operatorem punktu gromadzenia zwierząt, nie wypełnia obowiązków określonych w art. 9 rozporządzenia nr 1/2005, podlega karze aresztu lub grzywny. ” .
 
-**Art. 2.** W ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 23, poz. 188 i Nr 33, poz. 289 oraz z 2006 r. Nr 17, poz. 127 i Nr 144, poz. 1045.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 uchyla się pkt 11a;
 - **2)** rozdział 3a otrzymuje brzmienie: „
 
-#### Rozdział 3a Wymagania weterynaryjne dla tranzytu zwierząt
+#### Rozdział 3a
 
 **Art. 18a.** Dopuszcza się tranzyt, o którym mowa w przepisach prawa celnego, zwierząt przez terytorium Rzeczypospolitej Polskiej wyłącznie z państw trzecich lub ich części, które znajdują się na listach ogłaszanych przez Komisję Europejską, jeżeli:
 
@@ -112,7 +113,7 @@ source: "eli-html"
 2. Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia:
 
 - **1)** wymagania, jakim powinny odpowiadać świadectwa zdrowia przy tranzycie zwierząt i sposób ich wystawiania, lub
-- **2)** wzory świadectw zdrowia przy tranzycie zwierząt uwzględniając gatunek i przeznaczenie zwierząt oraz biorąc pod uwagę przepisy Unii Europejskiej dotyczące warunków zdrowia zwierząt oraz przywozu i tranzytu przez terytorium Wspólnoty niektórych żywych zwierząt kopytnych w zakresie obowiązków wynikających z ochrony zdrowia zwierząt. ” .
+- **2)** wzory świadectw zdrowia przy tranzycie zwierząt – uwzględniając gatunek i przeznaczenie zwierząt oraz biorąc pod uwagę przepisy Unii Europejskiej dotyczące warunków zdrowia zwierząt oraz przywozu i tranzytu przez terytorium Wspólnoty niektórych żywych zwierząt kopytnych w zakresie obowiązków wynikających z ochrony zdrowia zwierząt. ” .
 
 **Art. 3.**
 
@@ -122,8 +123,5 @@ source: "eli-html"
 
 **Art. 4.** Przepisy wykonawcze wydane na podstawie art. 24 ust. 6 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24f ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 5 stycznia 2007 r., z wyjątkiem art. 24a pkt 2 lit. b, art. 24e ust. 2 pkt 2 i art. 37b ust. 1 pkt 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 5 stycznia 2008 r.
-
-- **1)** Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 3 z 5.01.2005, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 92, poz. 880 i Nr 96, poz. 959 oraz z 2005 r. Nr 33, poz. 289 i Nr 175, poz. 1462. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 23, poz. 188 i Nr 33, poz. 289 oraz z 2006 r. Nr 17, poz. 127 i Nr 144, poz. 1045. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 877 i Nr 273, poz. 2703, z 2005 r. Nr 23, poz. 188, Nr 33, poz. 289, Nr 163, poz. 1362 i Nr 178, poz. 1480 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1045, Nr 170, poz. 1217 i Nr 171, poz. 1225. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 23, poz. 188 i Nr 33, poz. 289 oraz z 2006 r. Nr 17, poz. 127 i Nr 144, poz. 1045.
-
+**Art. 5.** Ustawa wchodzi w życie z dniem 5 stycznia 2007 r., z wyjątkiem art. 24a pkt 2 lit. b, art. 24e ust. 2 pkt 2 i art. 37b ust. 1 pkt 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 5 stycznia 2008 r. 1) Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 3 z 5.01.2005, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 92, poz. 880 i Nr 96, poz. 959 oraz z 2005 r. Nr 33, poz. 289 i Nr 175, poz. 1462. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 23, poz. 188 i Nr 33, poz. 289 oraz z 2006 r. Nr 17, poz. 127 i Nr 144, poz. 1045. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 877 i Nr 273, poz. 2703, z 2005 r. Nr 23, poz. 188, Nr 33, poz. 289, Nr 163, poz. 1362 i Nr 178, poz. 1480 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1045, Nr 170, poz. 1217 i Nr 171, poz. 1225. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 23, poz. 188 i Nr 33, poz. 289 oraz z 2006 r. Nr 17, poz. 127 i Nr 144, poz. 1045.
 

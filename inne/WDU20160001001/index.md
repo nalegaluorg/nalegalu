@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 czerwca 2016 r. o zmianie ustawy o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych oraz niektórych innych ustaw
+# Ustawa z dnia 10 czerwca 2016 r. o zmianie ustawy o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-10 |
 | Data wydania | 2016-07-11 |
-| Wejście w życie | 2016-07-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1001/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych oraz ustawę z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym.
+Kary pieniężne
 
 **Art. 1.** W ustawie z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2005 r. poz. 68 oraz z 2008 r. poz. 1056 i 1368) wprowadza się następujące zmiany:
 
@@ -97,7 +99,7 @@ source: "eli-html"
 **Art. 28.** Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, mająca uzasadniony interes, w postępowaniu w sprawie rejestracji nazwy pochodzenia, oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności produktów rolnych lub środków spożywczych, może złożyć do ministra właściwego do spraw rynków rolnych zawiadomienie o sprzeciwie, o którym mowa w art. 51 ust. 1 rozporządzenia nr 1151/2012, wobec wniosku o rejestrację, w terminie 2 miesięcy od dnia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej:
 
 - **1)** wniosku o rejestrację lub wniosku o zatwierdzenie zmiany w specyfikacji produktu rolnego lub środka spożywczego będącego gwarantowaną tradycyjną specjalnością,
-- **2)** jednolitego dokumentu – w przypadku wniosku o rejestrację lub wniosku o zatwierdzenie zmiany w specyfikacji produktu rolnego lub środka spożywczego posiadającego chronioną nazwę pochodzenia lub chronione oznaczenie geograficzne złożonego przez wnioskodawcę, którego siedziba lub miejsce zamieszkania znajduje się poza terytorium Rzeczypospolitej Polskiej. ” ;
+- **2)** jednolitego dokumentu – w przypadku wniosku o rejestrację lub wniosku o zatwierdzenie zmiany w specyfikacji produktu rolnego lub środka spożywczego posiadającego chronioną nazwę pochodzenia lub chronione oznaczenie geograficzne – złożonego przez wnioskodawcę, którego siedziba lub miejsce zamieszkania znajduje się poza terytorium Rzeczypospolitej Polskiej. ” ;
 - **18)** po art. 28 dodaje się art. 28a w brzmieniu: „
 
 1. Minister właściwy do spraw rynków rolnych niezwłocznie przekazuje Komisji Europejskiej zawiadomienie o sprzeciwie wobec wniosku o rejestrację.
@@ -122,7 +124,7 @@ source: "eli-html"
 1. Minister właściwy do spraw rynków rolnych niezwłocznie powiadamia wnioskodawcę o otrzymaniu:
 
 - **1)** zawiadomienia o sprzeciwie,
-- **2)** uzasadnionego oświadczenia o sprzeciwie wobec wniosku o rejestrację, ze strony innego państwa.
+- **2)** uzasadnionego oświadczenia o sprzeciwie – wobec wniosku o rejestrację, ze strony innego państwa.
 
 2. Wnioskodawca, w terminie 30 dni od dnia otrzymania powiadomienia, o którym mowa w ust. 1, może przedstawić na piśmie ministrowi właściwemu do spraw rynków rolnych stanowisko do złożonego zawiadomienia o sprzeciwie lub uzasadnionego oświadczenia o sprzeciwie wobec wniosku o rejestrację.
 
@@ -139,14 +141,21 @@ source: "eli-html"
 3. Po osiągnięciu porozumienia minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informację o osiągniętym porozumieniu. ” ;
 
 - **21)** tytuł rozdziału 6 otrzymuje brzmienie: „Kontrola produktów rolnych i środków spożywczych”;
-- **22)** w art. 39: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) minister właściwy do spraw rynków rolnych − upoważniający jednostki certyfikujące, spełniające wymagania określone w art. 37 ust. 1 lit. b rozporządzenia nr 1151/2012 i akredytowane zgodnie z art. 39 rozporządzenia nr 1151/2012, do przeprowadzania kontroli, wydawania i cofania certyfikatów potwierdzających zgodność procesu produkcji produktów rolnych i środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami ze specyfikacją, zwanych dalej „certyfikatami zgodności”; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych, zwana dalej „Inspekcją”, sprawująca nadzór nad produkcją produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami. ” , dodaje się ust. 3 w brzmieniu: „
+- **22)** w art. 39: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** minister właściwy do spraw rynków rolnych − upoważniający jednostki certyfikujące, spełniające wymagania określone w art. 37 ust. 1 lit. b rozporządzenia nr 1151/2012 i akredytowane zgodnie z art. 39 rozporządzenia nr 1151/2012, do przeprowadzania kontroli, wydawania i cofania certyfikatów potwierdzających zgodność procesu produkcji produktów rolnych i środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami ze specyfikacją, zwanych dalej „certyfikatami zgodności”; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych, zwana dalej „Inspekcją”, sprawująca nadzór nad produkcją produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami. ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. Nadzór, o którym mowa w ust. 1 pkt 5, jest sprawowany na podstawie przepisów o jakości handlowej artykułów rolno-spożywczych dotyczących postępowania kontrolnego. ” ;
 
-- **23)** w art. 40: w ust. 1: – w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ przeprowadza audyty i inspekcje upoważnionych jednostek certyfikujących w zakresie: ” , – pkt 4 otrzymuje brzmienie: „ 4) przekazuje upoważnionym jednostkom certyfikującym wnioski wynikające z ustaleń audytu lub inspekcji; ” , – dodaje się pkt 5 i 6 w brzmieniu: „ 5) nakłada na upoważnione jednostki certyfikujące obowiązek wykonania w wyznaczonym terminie odpowiednich działań naprawczych związanych z funkcjonowaniem tych jednostek; 6) zatwierdza plan kontroli zgodności procesu produkcji produktów rolnych lub środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami ze specyfikacją. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **23)** w art. 40: w ust. 1: – w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ przeprowadza audyty i inspekcje upoważnionych jednostek certyfikujących w zakresie: ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** przekazuje upoważnionym jednostkom certyfikującym wnioski wynikające z ustaleń audytu lub inspekcji; ” , dodaje się pkt 5 i 6 w brzmieniu: „
+- **5)** nakłada na upoważnione jednostki certyfikujące obowiązek wykonania w wyznaczonym terminie odpowiednich działań naprawczych związanych z funkcjonowaniem tych jednostek;
+- **6)** zatwierdza plan kontroli zgodności procesu produkcji produktów rolnych lub środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami ze specyfikacją. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Jeżeli na podstawie wniosków wynikających z ustaleń audytu lub inspekcji, o których mowa w ust. 1 pkt 4, Główny Inspektor stwierdzi, że jednostka certyfikująca nie realizuje odpowiednio zadań, powierzonych jej na podstawie art. 41 ust. 3, lub jeżeli jednostka certyfikująca nie wykona działań naprawczych, o których mowa w ust. 1 pkt 5, kierując się stopniem zagrożenia interesów producentów kontrolowanych przez tę jednostkę, może, w drodze decyzji, zakazać jednostce certyfikującej przyjmowania nowych wniosków o przeprowadzenie kontroli zgodności, o której mowa w art. 42 ust. 1, oraz nałożyć obowiązek wykonania w wyznaczonym terminie przez tę jednostkę odpowiednich działań naprawczych. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Organy Inspekcji mogą: ” , ust. 3 otrzymuje brzmienie: „
@@ -231,7 +240,7 @@ source: "eli-html"
 - **33)** uchyla się rozdział 9;
 - **34)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „
 
-#### Rozdział 9a Kary pieniężne
+#### Rozdział 9a
 
 **Art. 58a.**
 
@@ -239,7 +248,7 @@ source: "eli-html"
 
 - **1)** nie przekazuje Głównemu Inspektorowi w terminie do 10. dnia każdego miesiąca wykazu, o którym mowa w art. 42a ust. 1, lub przekazuje wykaz niezgodnie z art. 42a ust. 3, lub przekazuje wykaz zawierający niekompletne lub nieprawdziwe informacje,
 - **2)** nie przekazuje Głównemu Inspektorowi sprawozdania, wykazu oraz informacji, o których mowa w art. 43 ust. 1, w terminie do dnia 31 stycznia każdego roku lub przekazuje sprawozdanie, wykaz oraz informacje zawierające niekompletne lub nieprawdziwe dane,
-- **3)** nie informuje Głównego Inspektora, ministra właściwego do spraw rynków rolnych lub innych upoważnionych jednostek certyfikujących o odmowie wydania producentowi certyfikatu zgodności lub cofnięciu certyfikatu zgodności podlega karze pieniężnej w wysokości do dziesięciokrotności przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający rok nałożenia tej kary, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanego dalej „przeciętnym wynagrodzeniem”.
+- **3)** nie informuje Głównego Inspektora, ministra właściwego do spraw rynków rolnych lub innych upoważnionych jednostek certyfikujących o odmowie wydania producentowi certyfikatu zgodności lub cofnięciu certyfikatu zgodności – podlega karze pieniężnej w wysokości do dziesięciokrotności przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający rok nałożenia tej kary, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanego dalej „przeciętnym wynagrodzeniem”.
 
 2. Jednostka certyfikująca, która:
 
@@ -247,7 +256,7 @@ source: "eli-html"
 - **2)** nie wykonuje działań naprawczych, o których mowa w art. 40 ust. 1 pkt 5,
 - **3)** nie udzieli informacji, o których mowa w art. 40 ust. 2 pkt 1,
 - **4)** działa niezgodnie z zakresem udzielonego upoważnienia, o którym mowa w art. 41 ust. 3,
-- **5)** prowadzi kontrolę, o której mowa w art. 42 ust. 1, niezgodnie z zasadami określonymi na podstawie art. 37 lub art. 39 rozporządzenia nr 1151/2012 podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.
+- **5)** prowadzi kontrolę, o której mowa w art. 42 ust. 1, niezgodnie z zasadami określonymi na podstawie art. 37 lub art. 39 rozporządzenia nr 1151/2012 – podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.
 
 3. Kto działa jako upoważniona jednostka certyfikująca bez upoważnienia, o którym mowa w art. 41 ust. 3, podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.
 
@@ -271,7 +280,7 @@ source: "eli-html"
 
 5. Środki finansowe pochodzące z kar pieniężnych, o których mowa w art. 58a i art. 58b, stanowią dochód budżetu państwa i są wnoszone na rachunek bieżący dochodów państwowej jednostki budżetowej obsługującej odpowiednio Głównego Inspektora, wojewódzkiego inspektora albo wojewódzkiego inspektora Inspekcji Handlowej, który wydał decyzję o nałożeniu kary.
 
-6. W zakresie nieuregulowanym w niniejszym rozdziale do kar pieniężnych, o których mowa w art. 58a i art. 58b, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.).
+6. W zakresie nieuregulowanym w niniejszym rozdziale do kar pieniężnych, o których mowa w art. 58a i art. 58b, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615 846.).
 
 1. Kary pieniężnej nie nakłada się, jeżeli od dnia popełnienia czynu upłynęło 5 lat.
 
@@ -302,5 +311,5 @@ source: "eli-html"
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 tej ustawy, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych oraz ustawę z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615 846.
 

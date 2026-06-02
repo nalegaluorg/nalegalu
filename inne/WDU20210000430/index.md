@@ -32,12 +32,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 6 lutego 2012 r. w sprawie sposobu przeprowadzania konkursu na niektóre stanowiska kierownicze w podmiocie leczniczym niebędącym przedsiębiorcą (Dz. U. z 2018 r. poz. 393), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 11 października 2019 r. zmieniającym rozporządzenie w sprawie sposobu przeprowadzania konkursu na niektóre stanowiska kierownicze w podmiocie leczniczym niebędącym przedsiębiorcą (Dz. U. poz. 2024).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzania konkursu na niektóre stanowiska kierownicze w podmiocie leczniczym niebędącym przedsiębiorcą (Dz. U. poz. 2024), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzania konkursu na niektóre stanowiska kierownicze w podmiocie leczniczym niebędącym przedsiębiorcą (Dz. U. poz. 2024), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 6 lutego 2012 r. w sprawie sposobu przeprowadzania konkursu na niektóre stanowiska kierownicze w podmiocie leczniczym niebędącym przedsiębiorcą
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 6 lutego 2012 r. w sprawie sposobu przeprowadzania konkursu na niektóre stanowiska kierownicze w podmiocie leczniczym niebędącym przedsiębiorcąMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 Na podstawie art. 49 ust. 8 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2020 r. poz. 295, 567, 1493, 2112, 2345 i 2401) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -267,8 +265,7 @@ Komisja konkursowa ulega rozwiązaniu z dniem nawiązania stosunku pracy albo za
 § 17.
 Do postępowań konkursowych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 18.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Rozporządzenie zostało ogłoszone w dniu 17 lutego 2012 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 19 sierpnia 1998 r. w sprawie szczegółowych zasad przeprowadzania konkursu na niektóre stanowiska kierownicze w publicznych zakładach opieki zdrowotnej, składu komisji konkursowej oraz ramowego regulaminu przeprowadzania konkursu (Dz. U. poz. 749 oraz z 2000 r. poz. 530), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654, 887, 1039 i 1092).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 17 lutego 2012 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 19 sierpnia 1998 r. w sprawie szczegółowych zasad przeprowadzania konkursu na niektóre stanowiska kierownicze w publicznych zakładach opieki zdrowotnej, składu komisji konkursowej oraz ramowego regulaminu przeprowadzania konkursu (Dz. U. poz. 749 oraz z 2000 r. poz. 530), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654, 887, 1039 i 1092). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Rozporządzenie zostało ogłoszone w dniu 17 lutego 2012 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 19 sierpnia 1998 r. w sprawie szczegółowych zasad przeprowadzania konkursu na niektóre stanowiska kierownicze w publicznych zakładach opieki zdrowotnej, składu komisji konkursowej oraz ramowego regulaminu przeprowadzania konkursu (Dz. U. poz. 749 oraz z 2000 r. poz. 530), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654, 887, 1039 i 1092).
 Załącznik – Ramowy regulamin przeprowadzania konkursu (wzór)
 § 1.
 1.
@@ -297,7 +294,7 @@ W posiedzeniach komisji konkursowej poza protokolantem nie mogą uczestniczyć o
 § 3.
 1.
 Każdej osobie wchodzącej w skład komisji konkursowej przysługuje jeden głos.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzania konkursu na niektóre stanowiska kierownicze w podmiocie leczniczym niebędącym przedsiębiorcą (Dz. U. poz. 2024), które weszło w życie z dniem 8 listopada 2020 r..
 Głosowanie w sprawie wyboru kandydata jest dokonywane na jednakowych kartach do głosowania zawierających nazwiska kandydatów w kolejności alfabetycznej, oznaczonych pieczęcią właściwego podmiotu, nadrukiem lub naklejką, zawierającymi nazwę, adres, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON właściwego podmiotu.
 3.
 Głosowanie jest dokonywane poprzez pozostawienie nazwiska wybranego kandydata i skreślenie nazwisk pozostałych kandydatów.
@@ -312,5 +309,5 @@ Głosów nieważnych nie bierze się pod uwagę.
 6.
 Karta, na której wszystkie nazwiska zostały skreślone, jest ważna i jest traktowana jako odrzucenie kandydatur wszystkich kandydatów przystępujących do konkursu.
 § 4.
-W przypadku odrzucenia przez komisję konkursową wszystkich kandydatur zgłoszonych do konkursu albo w przypadku niewyłonienia kandydata, komisja uznaje, że w wyniku przeprowadzonego konkursu nie wybrano kandydata.
+W przypadku odrzucenia przez komisję konkursową wszystkich kandydatur zgłoszonych do konkursu albo w przypadku niewyłonienia kandydata, komisja uznaje, że w wyniku przeprowadzonego konkursu nie wybrano kandydata. 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzania konkursu na niektóre stanowiska kierownicze w podmiocie leczniczym niebędącym przedsiębiorcą (Dz. U. poz. 2024), które weszło w życie z dniem 8 listopada 2020 r.
 

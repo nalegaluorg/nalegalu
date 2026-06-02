@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-22 |
 | Data wydania | 2016-07-22 |
-| Wejście w życie | 2016-08-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001079) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1079/text.pdf) |
 
@@ -88,8 +87,11 @@ source: "eli-html"
 
 5a. W przypadku państwowego instytutu badawczego umowę, o której mowa w ust. 3, z dyrektorem oraz zastępcami dyrektora zawiera minister nadzorujący. ” ;
 
-- **8)** w art. 29: w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) występowanie z wnioskami do ministra nadzorującego o powołanie lub odwołanie dyrektora, a w przypadku państwowego instytutu badawczego – o odwołanie dyrektora; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) opiniowanie kandydatów na stanowiska: zastępcy dyrektora do spraw naukowych, sekretarza naukowego oraz kierowników komórek organizacyjnych wskazanych w regulaminie organizacyjnym, odpowiedzialnych za prowadzenie badań naukowych – w przypadku państwowego instytutu badawczego; ” , ust. 6 otrzymuje brzmienie: „
+- **8)** w art. 29: w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** występowanie z wnioskami do ministra nadzorującego o powołanie lub odwołanie dyrektora, a w przypadku państwowego instytutu badawczego – o odwołanie dyrektora; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** opiniowanie kandydatów na stanowiska: zastępcy dyrektora do spraw naukowych, sekretarza naukowego oraz kierowników komórek organizacyjnych wskazanych w regulaminie organizacyjnym, odpowiedzialnych za prowadzenie badań naukowych – w przypadku państwowego instytutu badawczego; ” , ust. 6 otrzymuje brzmienie: „
     - **b)**
 
 6. Rada naukowa sporządza opinie, o których mowa w ust. 2 pkt 4, 4a, 5, 7, 9–13, w terminie nie dłuższym niż 30 dni. ” ;

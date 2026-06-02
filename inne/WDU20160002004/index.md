@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-28 |
 | Data wydania | 2016-12-12 |
-| Wejście w życie | 2016-12-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2004/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób i tryb prowadzenia nauczania w zakładach Rozdział 3 – Warunki i tryb realizacji obowiązku nauczania i zwalniania osadzonych z tego obowiązku Rozdział 4 – Warunki i tryb ponoszenia opłat za kształcenie poza obrębem zakładu karnego Rozdział 5 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 134 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 134 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428, 437 i 1948.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -64,6 +64,7 @@ Kierując osadzonego do nauczania, należy uwzględnić jego uzdolnienia, predys
 Tymczasowo aresztowany może uczestniczyć w nauczaniu, o którym mowa w § 2, jeżeli jest ono prowadzone w wyodrębnionym oddziale zakładu, a nie sprzeciwiają się temu względy porządku i bezpieczeństwa.
 2.
 Jeżeli tymczasowo aresztowany, wobec którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, po ukończeniu 18. roku życia nadal uczestniczy w nauczaniu lub zamierza w nim uczestniczyć, dyrektor zakładu niezwłocznie informuje organ, do którego dyspozycji pozostaje tymczasowo aresztowany.
+Sposób i tryb prowadzenia nauczania w zakładach
 § 8.
 Realizacja zadań edukacyjnych wobec osadzonych odbywa się z uwzględnieniem indywidualnych programów oddziaływania lub indywidualnych programów terapeutycznych, jeżeli osadzeni są objęci takimi programami.
 § 9.
@@ -227,6 +228,7 @@ W przypadku realizacji szkoleń kursowych przez centrum kształcenia ustawiczneg
 Obowiązki sekretarza szkolenia kursowego zleca się sekretarzowi centrum kształcenia ustawicznego lub innemu pracownikowi zakładu.
 § 34.
 Osadzony, który ukończył szkolenie kursowe, otrzymuje zaświadczenie o jego ukończeniu. Przepis § 21 ust. 2 stosuje się odpowiednio.
+Warunki i tryb realizacji obowiązku nauczania i zwalniania osadzonych z tego obowiązku
 § 35.
 1.
 Obowiązkowi nauczania podlega osadzony, który nie ukończył 18. roku życia.
@@ -259,6 +261,7 @@ osadzonego wymagającego długotrwałej hospitalizacji lub rehabilitacji uniemo�
 Osadzonego można czasowo zwolnić z realizacji obowiązku nauczania, jeżeli jego uczestnictwo w nauczaniu stanowi poważne zagrożenie dla niego lub innych osób. Decyzję w tej sprawie podejmuje dyrektor zakładu, określając czas zwolnienia niezbędny dla wyeliminowania tego zagrożenia, i informuje o tym komisję penitencjarną.
 3.
 Decyzję o czasowym zwolnieniu z realizacji obowiązku nauczania w przypadkach, o których mowa w ust. 1, podejmuje komisja penitencjarna zakładu, w którym przebywa ten osadzony.
+Warunki i tryb ponoszenia opłat za kształcenie poza obrębem zakładu karnego
 § 39.
 1.
 Koszty kształcenia w szkołach poza obrębem zakładu karnego ponosi osadzony.
@@ -276,16 +279,27 @@ Wysokość kosztów, o których mowa w ust. 3, ponoszonych przez zakład karny, 
 Osadzony, który uzyskał zgodę dyrektora zakładu karnego na udział w konsultacjach i zdawanie egzaminów w szkołach wyższych, ponosi koszty związane z udziałem w tych konsultacjach i egzaminach.
 § 41.
 Ponoszenie opłat za kształcenie poza obrębem zakładu karnego przez osadzonego następuje w trybie określonym przez szkołę, o której mowa w art. 130 § 5 kkw.
+Przepis końcowy
 § 42.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 13 lutego 2004 r. w sprawie szczegółowych zasad i trybu prowadzenia nauczania w zakładach karnych (Dz. U. z 2013 r. poz. 1601), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396). 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707, z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573 oraz z 2016 r. poz. 428, 437 i 1948. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 13 lutego 2004 r. w sprawie szczegółowych zasad i trybu prowadzenia nauczania w zakładach karnych (Dz. U. z 2013 r. poz. 1601), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Sposób i tryb prowadzenia nauczania w zakładach
+#### Rozdział 2 – Sposób i tryb prowadzenia nauczania w zakładach
 
-#### Rozdział 3 Warunki i tryb realizacji obowiązku nauczania i zwalniania osadzonych z tego obowiązku
+#### Rozdział 3 – Warunki i tryb realizacji obowiązku nauczania i zwalniania osadzonych z tego obowiązku
 
-#### Rozdział 4 Warunki i tryb ponoszenia opłat za kształcenie poza obrębem zakładu karnego
+#### Rozdział 4 – Warunki i tryb ponoszenia opłat za kształcenie poza obrębem zakładu karnego
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

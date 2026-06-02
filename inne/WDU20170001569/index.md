@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 sierpnia 2017 r. w sprawie warunków i trybu udzielania zezwoleń na indywidualny program lub tok nauki oraz organizacji indywidualnego programu lub toku nauki
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 sierpnia 2017 r. w sprawie warunków i trybu udzielania zezwoleń na indywidualny program lub tok nauki oraz organizacji indywidualnego programu lub toku nauki Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-09 |
 | Data wydania | 2017-08-23 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001569) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1569/text.pdf) |
 
@@ -81,10 +80,9 @@ Uczeń realizujący indywidualny program lub tok nauki może uczęszczać na wyb
 § 10.
 Jeżeli uczeń o wybitnych uzdolnieniach jednokierunkowych nie może sprostać wymaganiom z zajęć edukacyjnych nieobjętych indywidualnym programem lub tokiem nauki, nauczyciel prowadzący zajęcia może, na wniosek wychowawcy lub innego nauczyciela uczącego ucznia, dostosować wymagania edukacyjne z tych zajęć do indywidualnych potrzeb i możliwości ucznia, z zachowaniem wymagań edukacyjnych wynikających z podstawy programowej.
 § 11.
-Ocenianie, klasyfikowanie i promowanie ucznia realizującego indywidualny program lub tok nauki odbywa się na warunkach i w sposób określony w rozdziale 3a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.).
+Ocenianie, klasyfikowanie i promowanie ucznia realizującego indywidualny program lub tok nauki odbywa się na warunkach i w sposób określony w rozdziale 3a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.).
 § 12.
 Do wniosków o udzielenie zezwolenia na indywidualny program lub tok nauki złożonych w szkołach podstawowych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia, z tym że zezwolenia, o którym mowa w § 7 ust. 1, udziela się na czas określony, nie krótszy niż jeden rok szkolny.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustawy o pracowniczych programach emerytalnych
+# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustawy o pracowniczych programach emerytalnych Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/2341 z dnia 14 grudnia 2016 r. w sprawie działalności instytucji pracowniczych programów emerytalnych oraz nadzoru nad takimi instytucjami (IORP) (Dz. Urz. UE L 354 z 23.12.2016, str. 37).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-08-06 |
-| Wejście w życie | 2019-08-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1474/text.pdf) |
 
+System zarządzania w pracowniczym towarzystwie
+Działalność transgraniczna
 1.
 Pracowniczy fundusz mający zamiar wykonywać działalność transgraniczną jest obowiązany zawiadomić o tym organ nadzoru.
 2.
@@ -69,11 +70,10 @@ Pracowniczemu funduszowi przysługuje, w każdym czasie po wniesieniu ponaglenia
 1.
 Pracowniczy fundusz, wobec którego wydano decyzję, o której mowa w art. 26g ust. 7, może zwrócić się do organu nadzoru z wnioskiem o ponowne rozpatrzenie sprawy w terminie 14 dni od dnia doręczenia decyzji.
 2.
-Pracowniczy fundusz może wnieść skargę do sądu administracyjnego właściwego ze względu na umiejscowienie siedziby pracowniczego funduszu na decyzję, o której mowa w art. 26g ust. 7, bez uprzedniego skorzystania z prawa do zwrócenia się do organu nadzoru z wnioskiem o ponowne rozpatrzenie sprawy. Skargę wnosi się za pośrednictwem organu nadzoru w terminie 30 dni od dnia doręczenia decyzji, o której mowa w art. 26g ust. 7.
-” ;
+Pracowniczy fundusz może wnieść skargę do sądu administracyjnego właściwego ze względu na umiejscowienie siedziby pracowniczego funduszu na decyzję, o której mowa w art. 26g ust. 7, bez uprzedniego skorzystania z prawa do zwrócenia się do organu nadzoru z wnioskiem o ponowne rozpatrzenie sprawy. Skargę wnosi się za pośrednictwem organu nadzoru w terminie 30 dni od dnia doręczenia decyzji, o której mowa w art. 26g ust. 7. ” ;
 4)
-po art. 42 dodaje się art. 42a-42d w brzmieniu:
-„
+po art. 42 dodaje się art. 42a-42d w brzmieniu: „
+Przeniesienie transgraniczne
 
 **Art. 1.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2018 r. poz. 1906 i 2215 oraz z 2019 r. poz. 1074) wprowadza się następujące zmiany:
 
@@ -101,7 +101,7 @@ po art. 42 dodaje się art. 42a-42d w brzmieniu:
 
 - **3)** po rozdziale 2 dodaje się rozdziały 2a i 2b w brzmieniu: „
 
-#### Rozdział 2a System zarządzania w pracowniczym towarzystwie
+#### Rozdział 2a
 
 **Art. 26a.**
 
@@ -166,7 +166,7 @@ po art. 42 dodaje się art. 42a-42d w brzmieniu:
 
 5. O zawarciu umowy, o której mowa w ust. 3, a także o jej zmianie pracownicze towarzystwo niezwłocznie informuje organ nadzoru.
 
-#### Rozdział 2b Działalność transgraniczna
+#### Rozdział 2b
 
 **Art. 42a.**
 
@@ -224,7 +224,7 @@ po art. 42 dodaje się art. 42a-42d w brzmieniu:
 - **2)** członków rady nadzorczej towarzystwa;
 - **3)** osób i jednostek organizacyjnych pełniących kluczowe funkcje określone w art. 42a ust. 1.
 
-2. Pracownicze towarzystwo regularnie, nie rzadziej niż co 12 miesięcy, podaje do publicznej wiadomości informacje dotyczące zakresu stosowania oraz zasad polityki wynagrodzeń, o której mowa w ust. 1, o ile nie stoi to w sprzeczności z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
+2. Pracownicze towarzystwo regularnie, nie rzadziej niż co 12 miesięcy, podaje do publicznej wiadomości informacje dotyczące zakresu stosowania oraz zasad polityki wynagrodzeń, o której mowa w ust. 1, o ile nie stoi to w sprzeczności z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.).
 
 3. Ustanawiając i stosując politykę wynagrodzeń, o której mowa w ust. 1, pracownicze towarzystwo przestrzega następujących zasad:
 
@@ -268,7 +268,7 @@ po art. 42 dodaje się art. 42a-42d w brzmieniu:
 
 - **9)** po rozdziale 10a dodaje się rozdział 10b w brzmieniu: „
 
-#### Rozdział 10b Przeniesienie transgraniczne
+#### Rozdział 10b
 
 **Art. 106l.**
 
@@ -355,9 +355,9 @@ po art. 42 dodaje się art. 42a-42d w brzmieniu:
 4. Aktywa pracowniczego funduszu mogą być lokowane, o ile zezwala na to statut funduszu, w instrumenty emitowane lub gwarantowane przez Europejski Bank Inwestycyjny w ramach:
 
 - **1)** Europejskich Długoterminowych Funduszy Inwestycyjnych (ELTIF) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/760 z dnia 29 kwietnia 2015 r. w sprawie europejskich długoterminowych funduszy inwestycyjnych (Dz. Urz. UE L 123 z 19.05.2015, str. 98);
-- **2)** Europejskich Funduszy na Rzecz Przedsiębiorczości Społecznej (EuSEF) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 346/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy na rzecz przedsiębiorczości społecznej (Dz. Urz. UE L 115 z 25.04.2013, str. 18, z późn. zm.);
-- **3)** Europejskich Funduszy Venture Capital (EuVECA) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 345/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy venture capital (Dz. Urz. UE L 115 z 25.04.2013, str. 1, z późn. zm.);
-- **4)** Europejskiego Funduszu na rzecz Inwestycji Strategicznych (EFSI) działającego na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/1017 z dnia 25 czerwca 2015 r. w sprawie Europejskiego Funduszu na rzecz Inwestycji Strategicznych, Europejskiego Centrum Doradztwa Inwestycyjnego i Europejskiego Portalu Projektów Inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1291/2013 i (UE) nr 1316/2013 – Europejski Fundusz na rzecz Inwestycji Strategicznych (Dz. Urz. UE L 169 z 01.07.2015, str. 1, z późn. zm.). ” ;
+- **2)** Europejskich Funduszy na Rzecz Przedsiębiorczości Społecznej (EuSEF) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 346/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy na rzecz przedsiębiorczości społecznej (Dz. Urz. UE L 115 z 25.04.2013, str. 18, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 293 z 10.11.2017, str. 1.);
+- **3)** Europejskich Funduszy Venture Capital (EuVECA) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 345/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy venture capital (Dz. Urz. UE L 115 z 25.04.2013, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 293 z 10.11.2017, str. 1.);
+- **4)** Europejskiego Funduszu na rzecz Inwestycji Strategicznych (EFSI) działającego na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/1017 z dnia 25 czerwca 2015 r. w sprawie Europejskiego Funduszu na rzecz Inwestycji Strategicznych, Europejskiego Centrum Doradztwa Inwestycyjnego i Europejskiego Portalu Projektów Inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1291/2013 i (UE) nr 1316/2013 – Europejski Fundusz na rzecz Inwestycji Strategicznych (Dz. Urz. UE L 169 z 01.07.2015, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 345 z 27.12.2017, str. 34.). ” ;
 - **11)** w art. 147 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
 2. Statut pracowniczego funduszu może określać, że pracowniczy fundusz w swojej działalności uwzględnia potencjalne długoterminowe skutki decyzji inwestycyjnych dotyczących czynników środowiskowych, społecznych i czynników związanych z ładem korporacyjnym. ” ;
@@ -407,7 +407,7 @@ po art. 42 dodaje się art. 42a-42d w brzmieniu:
 
 - **1)** kary pieniężnej, o której mowa w art. 62 ust. 2 i 5, art. 156, art. 197 ust. 6, art. 198, art. 204 ust. 8 i 9 i art. 204c,
 - **2)** powiadomienia o stwierdzonych nieprawidłowościach, o którym mowa w art. 62 ust. 2, art. 204 ust. 3 i art. 204j ust. 1,
-- **3)** decyzji o cofnięciu zezwolenia na utworzenie towarzystwa, o której mowa w art. 61 i art. 62 ust. 1 wobec których nie złożono w terminie wniosku o ponowne rozpatrzenie sprawy.
+- **3)** decyzji o cofnięciu zezwolenia na utworzenie towarzystwa, o której mowa w art. 61 i art. 62 ust. 1 – wobec których nie złożono w terminie wniosku o ponowne rozpatrzenie sprawy.
 
 2. Informacja, o której mowa w ust. 1, obejmuje:
 
@@ -551,6 +551,6 @@ po art. 42 dodaje się art. 42a-42d w brzmieniu:
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 3 w zakresie art. 26a-26f, pkt 4, 5, 12, 18 i 19,
-- **2)** art. 2 pkt 6 które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+- **2)** art. 2 pkt 6 – które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/2341 z dnia 14 grudnia 2016 r. w sprawie działalności instytucji pracowniczych programów emerytalnych oraz nadzoru nad takimi instytucjami (IORP) (Dz. Urz. UE L 354 z 23.12.2016, str. 37). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 293 z 10.11.2017, str. 1. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 293 z 10.11.2017, str. 1. 5) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 345 z 27.12.2017, str. 34.
 
 

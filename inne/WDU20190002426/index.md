@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 13 grudnia 2019 r. w sprawie wzorów zamknięć urzędowych, w tym pieczęci, stempli i innych znaków
+# Rozporządzenie Ministra Finansówz dnia 13 grudnia 2019 r. w sprawie wzorów zamknięć urzędowych, w tym pieczęci, stempli i innych znaków Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-13 |
 | Data wydania | 2019-12-17 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002426) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2426/text.pdf) |
 
@@ -56,8 +55,7 @@ zamieszczonych na odwrocie liter:
 a)
 „UCS” i czteroznakowego (cztery cyfry albo trzy cyfry poprzedzone wielką literą alfabetu) albo trzyznakowego (trzy cyfry albo dwie cyfry poprzedzone wielką literą alfabetu) identyfikatora plombownicy, w przypadku gdy plombę nakłada organ Krajowej Administracji Skarbowej,
 b)
-„UCS-PU” i czteroznakowego (cztery cyfry albo trzy cyfry poprzedzone wielką literą alfabetu) albo trzyznakowego (trzy cyfry albo dwie cyfry poprzedzone wielką literą alfabetu) identyfikatora plombownicy, w przypadku gdy plombę nakłada podmiot upoważniony przez organ Krajowej Administracji Skarbowej do nakładania i zdejmowania zamknięć urzędowych
-oraz umieszczonego nad nimi oznaczenia „CŁO PL”.
+„UCS-PU” i czteroznakowego (cztery cyfry albo trzy cyfry poprzedzone wielką literą alfabetu) albo trzyznakowego (trzy cyfry albo dwie cyfry poprzedzone wielką literą alfabetu) identyfikatora plombownicy, w przypadku gdy plombę nakłada podmiot upoważniony przez organ Krajowej Administracji Skarbowej do nakładania i zdejmowania zamknięć urzędowych – oraz umieszczonego nad nimi oznaczenia „CŁO PL”.
 § 10.
 1.
 Inne znaki stosowane w celu zabezpieczenia tożsamości wyrobów, urządzeń, pomieszczeń i innych obiektów, niewymagające użycia plombownicy, posiadają odcisk godła Rzeczypospolitej Polskiej oraz mogą zawierać informację o dacie ich nałożenia, jeżeli jest to niezbędne dla zapewnienia właściwego udokumentowania kontroli.
@@ -66,6 +64,5 @@ Inne znaki stosowane w celu zabezpieczenia tożsamości wyrobów, urządzeń, po
 3.
 Przepisu ust. 1 nie stosuje się do zamknięć urzędowych w postaci plomb elektronicznych. W przypadku zamknięć urzędowych w postaci plomb elektronicznych godło Rzeczypospolitej Polskiej jest umieszczane na plombie w sposób umożliwiający jego identyfikację.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 25 kwietnia 2017 r. w sprawie wzorów pieczęci, zamknięć urzędowych, stempli i innych znaków stosowanych przy wykonywaniu kontroli (Dz. U. poz. 916), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 25 kwietnia 2017 r. w sprawie wzorów pieczęci, zamknięć urzędowych, stempli i innych znaków stosowanych przy wykonywaniu kontroli (Dz. U. poz. 916), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 25 kwietnia 2017 r. w sprawie wzorów pieczęci, zamknięć urzędowych, stempli i innych znaków stosowanych przy wykonywaniu kontroli (Dz. U. poz. 916), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 pkt 3 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 

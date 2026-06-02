@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 6 lipca 2012 r. w sprawie wymagań Dobrej Praktyki Klinicznej Weterynaryjnej
+# Rozporządzenie Ministra Zdrowiaz dnia 6 lipca 2012 r. w sprawie wymagań Dobrej Praktyki Klinicznej Weterynaryjnej Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2001/82/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do weterynaryjnych produktów leczniczych (Dz. Urz. WE L 311 z 28.11.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 3).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-06 |
 | Data wydania | 2012-07-19 |
-| Wejście w życie | 2012-07-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/829/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Wymagania, jakie musi spełnić badacz uczestniczący w badaniu klinicznym weterynaryjnym Rozdział 3 – Wymagania, jakie musi spełnić sponsor w prowadzonym badaniu klinicznym weterynaryjnym Rozdział 4 – Wymagania, jakie musi spełnić monitor uczestniczący w badaniu klinicznym weterynaryjnym Rozdział 5 – Dokumentacja badania klinicznego weterynaryjnego Rozdział 6 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 37aj pkt 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 37aj pkt 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679 oraz z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, w tym:
 1)
@@ -64,6 +64,7 @@ naukową i technologiczną jakość badań klinicznych weterynaryjnych;
 właściwe zabezpieczenie danych uzyskanych w trakcie trwania badania klinicznego weterynaryjnego.
 § 4.
 Zawarcie przez sponsora umowy przekazującej na rzecz innej osoby lub jednostki organizacyjnej prowadzącej badania kliniczne weterynaryjne na zlecenie wszystkich lub części zadań określonych w wymaganiach Dobrej Praktyki Klinicznej Weterynaryjnej nie zwalnia sponsora z odpowiedzialności związanej z prowadzeniem tego badania.
+Wymagania, jakie musi spełnić badacz uczestniczący w badaniu klinicznym weterynaryjnym
 § 5.
 1.
 Przed przystąpieniem do badania klinicznego weterynaryjnego badacz musi spełnić następujące wymagania:
@@ -141,6 +142,7 @@ dostarcza, na żądanie sponsora, podpisaną dokumentację badania klinicznego w
 uczestniczy, w razie potrzeby, w przygotowywaniu raportu końcowego z badania klinicznego weterynaryjnego;
 23)
 umożliwia monitorowanie i kontrolę jakości badania klinicznego weterynaryjnego.
+Wymagania, jakie musi spełnić sponsor w prowadzonym badaniu klinicznym weterynaryjnym
 § 6.
 Sponsor w prowadzonym badaniu klinicznym weterynaryjnym musi spełnić następujące wymagania:
 1)
@@ -195,11 +197,12 @@ składać do Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycz
 10)
 przygotowywać i zachowywać dane dotyczące transportu badanych produktów leczniczych weterynaryjnych i produktów kontrolnych;
 11)
-unieszkodliwiać badane produkty lecznicze weterynaryjne i produkty kontrolne po zakończeniu bądź przerwaniu badania klinicznego weterynaryjnego, zgodnie z ustawą z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243, z późn. zm.);
+unieszkodliwiać badane produkty lecznicze weterynaryjne i produkty kontrolne po zakończeniu bądź przerwaniu badania klinicznego weterynaryjnego, zgodnie z ustawą z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 203, poz. 1351 oraz z 2011 r. Nr 106, poz. 622, Nr 117, poz. 678, Nr 138, poz. 809, Nr 152, poz. 897 i Nr 171, poz. 1016.);
 12)
 przechowywać dokumentację dotyczącą badania klinicznego weterynaryjnego, zgodnie z § 8 ust. 2;
 13)
 sporządzić raport końcowy po zakończeniu lub w przypadku przerwania badania klinicznego weterynaryjnego.
+Wymagania, jakie musi spełnić monitor uczestniczący w badaniu klinicznym weterynaryjnym
 § 7.
 Monitor uczestniczący w badaniu klinicznym weterynaryjnym musi spełnić następujące wymagania:
 1)
@@ -236,6 +239,7 @@ weryfikować dane źródłowe i pozostałą dokumentację badania klinicznego we
 przygotowywać i zachowywać pełny zapis wszystkich kontaktów – w tym telefonów, wizyt, listów – z badaczem, sponsorem, przedstawicielami sponsora oraz innymi osobami, w tym osobami uczestniczącymi w badaniu klinicznym weterynaryjnym i przedstawicielami właściwych organów uprawnionych do inspekcji badań klinicznych weterynaryjnych przeprowadzanej przez Inspekcję Badań Klinicznych, a także właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, dotyczących planowania, przeprowadzania, monitorowania, dokumentowania i raportowania wyników badania klinicznego weterynaryjnego; zapis kontaktu powinien zawierać: datę i czas kontaktu, jego rodzaj, imię i nazwisko osoby, z którą się kontaktowano, jej funkcję lub stanowisko, podsumowanie celu kontaktu i dyskutowanych spraw oraz działania podjęte przez badacza lub sponsora w wyniku tego kontaktu;
 12)
 sprawdzać zgodność działań podejmowanych przez badacza z wymogami Dobrej Praktyki Klinicznej Weterynaryjnej, sporządzić i dostarczyć sponsorowi, pod koniec badania klinicznego weterynaryjnego, podpisany i opatrzony datą raport podsumowujący spotkania i inne formy kontaktu z badaczem.
+Dokumentacja badania klinicznego weterynaryjnego
 § 8.
 1.
 Dokumentacja badania klinicznego weterynaryjnego składa się z zapisów, które umożliwiają ocenę przebiegu badania oraz ocenę wiarygodności otrzymanych w tym badaniu danych.
@@ -550,18 +554,31 @@ Zmiany, o których mowa w ust. 1, wprowadza się w taki sposób, aby było widoc
 Zmianę podpisuje autor i oznacza ją datą.
 4.
 Oczywiste omyłki literowe lub redakcyjne zauważone po opracowaniu raportu poprawia się bezpośrednio w tekście raportu oraz opatruje się podpisem lub inicjałami autorów, datą zmiany i powodem zmiany.
+Przepis końcowy
 § 24.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 6 sierpnia 2004 r. w sprawie wymagań Dobrej Praktyki Klinicznej Weterynaryjnej w zakresie produktów leczniczych weterynaryjnych (Dz. U. Nr 185, poz. 1919), które utraciło moc z dniem 2 maja 2012 r. na podstawie art. 23 ustawy z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 82, poz. 451 oraz z 2012 r. poz. 95). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2001/82/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do weterynaryjnych produktów leczniczych (Dz. Urz. WE L 311 z 28.11.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 3). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679 oraz z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 203, poz. 1351 oraz z 2011 r. Nr 106, poz. 622, Nr 117, poz. 678, Nr 138, poz. 809, Nr 152, poz. 897 i Nr 171, poz. 1016. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 6 sierpnia 2004 r. w sprawie wymagań Dobrej Praktyki Klinicznej Weterynaryjnej w zakresie produktów leczniczych weterynaryjnych (Dz. U. Nr 185, poz. 1919), które utraciło moc z dniem 2 maja 2012 r. na podstawie art. 23 ustawy z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 82, poz. 451 oraz z 2012 r. poz. 95).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Wymagania, jakie musi spełnić badacz uczestniczący w badaniu klinicznym weterynaryjnym
+#### Rozdział 2 – Wymagania, jakie musi spełnić badacz uczestniczący w badaniu klinicznym weterynaryjnym
 
-#### Rozdział 3 Wymagania, jakie musi spełnić sponsor w prowadzonym badaniu klinicznym weterynaryjnym
+#### Rozdział 3 – Wymagania, jakie musi spełnić sponsor w prowadzonym badaniu klinicznym weterynaryjnym
 
-#### Rozdział 4 Wymagania, jakie musi spełnić monitor uczestniczący w badaniu klinicznym weterynaryjnym
+#### Rozdział 4 – Wymagania, jakie musi spełnić monitor uczestniczący w badaniu klinicznym weterynaryjnym
 
-#### Rozdział 5 Dokumentacja badania klinicznego weterynaryjnego
+#### Rozdział 5 – Dokumentacja badania klinicznego weterynaryjnego
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

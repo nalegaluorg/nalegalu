@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-02-03 |
 | Data wydania | 2001-03-09 |
-| Wejście w życie | 2001-03-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010160167) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/167/text.pdf) |
 
@@ -31,9 +30,10 @@ source: "eli-html"
 - **1)** w art. 17: w ust. 1 dodaje się pkt 3a w brzmieniu: „
     - **a)**
 
-- **3a)** wpływy ze sprzedaży bankom hipotecznym wierzytelności z tytułu kredytów udzielonych ze środków Funduszu, ” w ust. 3: – w pkt 1 po wyrazie „obligacji” dodaje się wyrazy „na zasilenie Funduszu”, – dodaje się pkt 3 w brzmieniu: „ 3) środki z pożyczek oraz kredytów krajowych i zagranicznych zaciąganych na zasilenie Funduszu przez Bank Gospodarstwa Krajowego. ” ;
+- **3a)** wpływy ze sprzedaży bankom hipotecznym wierzytelności z tytułu kredytów udzielonych ze środków Funduszu, ” w ust. 3: – w pkt 1 po wyrazie „obligacji” dodaje się wyrazy „na zasilenie Funduszu”, dodaje się pkt 3 w brzmieniu: „
     - **b)**
 
+- **3)** środki z pożyczek oraz kredytów krajowych i zagranicznych zaciąganych na zasilenie Funduszu przez Bank Gospodarstwa Krajowego. ” ;
 - **2)** w art. 18: w pkt 5 po wyrazach „wykupu obligacji” dodaje się wyrazy „a także realizację zobowiązań powstałych z tytułu spłaconych przez Skarb Państwa poręczonych obligacji”, w pkt 10 kropkę zastępuje się przecinkiem i dodaje się pkt 11–14 w brzmieniu: „
     - **a)**
     - **b)**

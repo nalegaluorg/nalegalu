@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 6 lipca 2022 r. w sprawie krajowego zezwolenia generalnego
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 6 lipca 2022 r. w sprawie krajowego zezwolenia generalnego Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-06 |
 | Data wydania | 2022-07-27 |
-| Wejście w życie | 2022-08-11 |
 | Ostatnia zmiana | 2024-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1567/text.pdf) |
 
@@ -43,7 +42,7 @@ Treść rozporządzenia
 ## Załącznik nr 7 — – Kraje, w odniesieniu do których udziela się zezwolenia ZG-PL-U-8, zezwolenia ZG-PL-U-10 i zezwolenia ZG-PL-U-11
 
 Treść rozporządzenia
-Na podstawie art. 8 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509 oraz z 2022 r. poz. 613 i 1137) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1, Dz. Urz. UE L 308 z 24.11.2010, str. 11, Dz. Urz. UE L 85 z 24.03.2012, str. 3, Dz. Urz. UE L 31 z 31.01.2013, str. 43, Dz. Urz. UE L 40 z 11.02.2014, str. 20, Dz. Urz. UE L 359 z 16.12.2014, str. 117, Dz. Urz. UE L 163 z 21.06.2016, str. 1, Dz. Urz. UE L 70 z 15.03.2017, str. 1, Dz. Urz. UE L 311 z 25.11.2017, str. 1, Dz. Urz. UE L 89 z 29.03.2019, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 225 z 25.06.2021, str. 69). Na podstawie art. 8 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509 oraz z 2022 r. poz. 613 i 1137) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa kraje, podmioty i towary o znaczeniu strategicznym, w odniesieniu do których udziela się krajowego zezwolenia generalnego, oraz szczegółowe warunki, na jakich może być dokonywany obrót objęty krajowym zezwoleniem generalnym.
 § 2.
@@ -58,7 +57,7 @@ Zezwolenia ZG-PL-U-1 udziela się, w przypadku gdy:
 1)
 odbiorca wchodzi w skład sił zbrojnych państwa członkowskiego Unii Europejskiej lub instytucji dokonującej zakupów na wyłączny użytek sił zbrojnych państwa członkowskiego Unii Europejskiej albo
 2)
-odbiorca jest certyfikowanym odbiorcą towarów o znaczeniu strategicznym, o których mowa w § 2, wymienionym w wykazie certyfikowanych odbiorców, o którym mowa w art. 9 ust. 8 dyrektywy Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1, z późn. zm.), pod warunkiem, że towary o znaczeniu strategicznym, o których mowa w § 2, są zgodne z zakresem udzielonego certyfikatu, albo
+odbiorca jest certyfikowanym odbiorcą towarów o znaczeniu strategicznym, o których mowa w § 2, wymienionym w wykazie certyfikowanych odbiorców, o którym mowa w art. 9 ust. 8 dyrektywy Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 308 z 24.11.2010, str. 11, Dz. Urz. UE L 85 z 24.03.2012, str. 3, Dz. Urz. UE L 31 z 31.01.2013, str. 43, Dz. Urz. UE L 40 z 11.02.2014, str. 20, Dz. Urz. UE L 359 z 16.12.2014, str. 117, Dz. Urz. UE L 163 z 21.06.2016, str. 1, Dz. Urz. UE L 70 z 15.03.2017, str. 1, Dz. Urz. UE L 311 z 25.11.2017, str. 1, Dz. Urz. UE L 89 z 29.03.2019, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 225 z 25.06.2021, str. 69., pod warunkiem, że towary o znaczeniu strategicznym, o których mowa w § 2, są zgodne z zakresem udzielonego certyfikatu, albo
 3)
 transfer wewnątrzunijny odbywa się w celu pokazów, testów, wystaw, konserwacji, naprawy lub wymiany, pod warunkiem, że czas realizacji celu transferu nie przekracza 3 lat od dnia opuszczenia terytorium Rzeczypospolitej Polskiej na podstawie niniejszego zezwolenia.
 § 4.
@@ -142,8 +141,7 @@ udział w misjach pokojowych, szkoleniach, ćwiczeniach wojskowych lub testach u
 c)
 udział w akcjach ratowniczych, poszukiwawczych lub humanitarnych lub
 d)
-udział w przedsięwzięciach reprezentacyjnych
-realizowanych na podstawie ustawy, o której mowa w ust. 2;
+udział w przedsięwzięciach reprezentacyjnych – realizowanych na podstawie ustawy, o której mowa w ust. 2;
 2)
 przywóz albo transfer wewnątrzunijny na terytorium Rzeczypospolitej Polskiej towarów o znaczeniu strategicznym, o których mowa w § 2, po realizacji celu, o którym mowa w pkt 1, nastąpi w terminie nieprzekraczającym 8 lat od dnia opuszczenia terytorium Rzeczypospolitej Polskiej na podstawie niniejszego zezwolenia;
 3)
@@ -220,15 +218,13 @@ W przypadku gdy towary o znaczeniu strategicznym, o których mowa w § 2, zosta�
 1)
 wywiezione z terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia ZG-PL-U-2,
 2)
-wywiezione albo nastąpił ich transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia ZG-PL-U-7
-przed dniem wejścia w życie rozporządzenia, czas realizacji wywozu albo transferu wewnątrzunijnego wynosi 8 lat od dnia wejścia w życie rozporządzenia.
+wywiezione albo nastąpił ich transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia ZG-PL-U-7 – przed dniem wejścia w życie rozporządzenia, czas realizacji wywozu albo transferu wewnątrzunijnego wynosi 8 lat od dnia wejścia w życie rozporządzenia.
 § 17.
 Zezwolenie ZG-PL-U-1, zezwolenie ZG-PL-U-3, zezwolenie ZG-PL-U-4, zezwolenie ZG-PL-U-5 i zezwolenie ZG-PL-U-6, których realizacja rozpoczęła się przed dniem wejścia w życie rozporządzenia, zachowują ważność.
 § 18.
 Traci moc rozporządzenie Ministra Rozwoju i Finansów z dnia 25 maja 2017 r. w sprawie krajowego zezwolenia generalnego (Dz. U. poz. 1045).
 § 19.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1, Dz. Urz. UE L 308 z 24.11.2010, str. 11, Dz. Urz. UE L 85 z 24.03.2012, str. 3, Dz. Urz. UE L 31 z 31.01.2013, str. 43, Dz. Urz. UE L 40 z 11.02.2014, str. 20, Dz. Urz. UE L 359 z 16.12.2014, str. 117, Dz. Urz. UE L 163 z 21.06.2016, str. 1, Dz. Urz. UE L 70 z 15.03.2017, str. 1, Dz. Urz. UE L 311 z 25.11.2017, str. 1, Dz. Urz. UE L 89 z 29.03.2019, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 225 z 25.06.2021, str. 69). 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 308 z 24.11.2010, str. 11, Dz. Urz. UE L 85 z 24.03.2012, str. 3, Dz. Urz. UE L 31 z 31.01.2013, str. 43, Dz. Urz. UE L 40 z 11.02.2014, str. 20, Dz. Urz. UE L 359 z 16.12.2014, str. 117, Dz. Urz. UE L 163 z 21.06.2016, str. 1, Dz. Urz. UE L 70 z 15.03.2017, str. 1, Dz. Urz. UE L 311 z 25.11.2017, str. 1, Dz. Urz. UE L 89 z 29.03.2019, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 225 z 25.06.2021, str. 69.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1, Dz. Urz. UE L 308 z 24.11.2010, str. 11, Dz. Urz. UE L 85 z 24.03.2012, str. 3, Dz. Urz. UE L 31 z 31.01.2013, str. 43, Dz. Urz. UE L 40 z 11.02.2014, str. 20, Dz. Urz. UE L 359 z 16.12.2014, str. 117, Dz. Urz. UE L 163 z 21.06.2016, str. 1, Dz. Urz. UE L 70 z 15.03.2017, str. 1, Dz. Urz. UE L 311 z 25.11.2017, str. 1, Dz. Urz. UE L 89 z 29.03.2019, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 225 z 25.06.2021, str. 69). 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 308 z 24.11.2010, str. 11, Dz. Urz. UE L 85 z 24.03.2012, str. 3, Dz. Urz. UE L 31 z 31.01.2013, str. 43, Dz. Urz. UE L 40 z 11.02.2014, str. 20, Dz. Urz. UE L 359 z 16.12.2014, str. 117, Dz. Urz. UE L 163 z 21.06.2016, str. 1, Dz. Urz. UE L 70 z 15.03.2017, str. 1, Dz. Urz. UE L 311 z 25.11.2017, str. 1, Dz. Urz. UE L 89 z 29.03.2019, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 225 z 25.06.2021, str. 69.
 
 ## Załącznik nr 1 — – Podmioty, którym udziela się zezwolenia ZG-PL-U-1
 

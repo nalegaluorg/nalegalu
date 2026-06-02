@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 1 października 2021 r. o zmianie ustawy – Prawo ochrony środowiska oraz ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
+# Ustawa z dnia 1 października 2021 r. o zmianie ustawy – Prawo ochrony środowiska oraz ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji Niniejsza ustawa w zakresie swojej regulacji zapewnia wykonanie następujących decyzji: 1) decyzji wykonawczej Komisji (UE) 2018/1135 z dnia 10 sierpnia 2018 r. ustanawiającej rodzaj, format i częstotliwość przekazywania informacji, które mają być udostępniane przez państwa członkowskie na potrzeby sprawozdań z wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE w sprawie emisji przemysłowych (Dz. Urz. UE L 205 z 14.08.2018, str. 40); 2) decyzji wykonawczej Komisji (UE) 2019/1741 z dnia 23 września 2019 r. określającej format i częstotliwość przekazywania danych, które mają być udostępniane przez państwa członkowskie na potrzeby sprawozdawczości na mocy rozporządzenia (WE) nr 166/2006 Parlamentu Europejskiego i Rady w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającego dyrektywę Rady 91/689/EWG i 96/61/WE (Dz. Urz. UE L 267 z 21.10.2019, str. 3).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-01 |
 | Data wydania | 2021-11-24 |
-| Wejście w życie | 2022-02-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002127) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2127/text.pdf) |
 
@@ -41,7 +40,7 @@ source: "eli-html"
 1. Prowadzący instalację obejmującą co najmniej jeden z rodzajów działalności określonych w załączniku I do rozporządzenia 166/2006, który prowadzi tę instalację z przekroczeniem progów wydajności określonych w tym załączniku, przekazuje wojewódzkiemu inspektorowi ochrony środowiska:
 
 - **1)** sprawozdanie zawierające dane o przekroczeniu wartości progowych dla uwolnień i transferów zanieczyszczeń, o których mowa w załączniku II do rozporządzenia 166/2006, oraz transferów odpadów określonych w art. 5 ust. 1 lit. b tego rozporządzenia, z uwzględnieniem wielkości produkcji – w terminie do dnia 31 marca roku następującego po danym roku sprawozdawczym;
-- **2)** dane niezbędne do identyfikacji zakładu, na terenie którego jest prowadzona instalacja, obejmujące: dane teleadresowe prowadzącego instalację, dane teleadresowe zakładu, położenie geograficzne zakładu, numer identyfikacyjny działalności gospodarczej, dane dotyczące rodzajów działalności prowadzonych w zakładzie w terminie do dnia 31 marca roku następującego po roku, w którym rozpoczął eksploatację instalacji, chyba że dane te zostały już wojewódzkiemu inspektorowi ochrony środowiska przekazane.
+- **2)** dane niezbędne do identyfikacji zakładu, na terenie którego jest prowadzona instalacja, obejmujące: dane teleadresowe prowadzącego instalację, dane teleadresowe zakładu, położenie geograficzne zakładu, numer identyfikacyjny działalności gospodarczej, dane dotyczące rodzajów działalności prowadzonych w zakładzie – w terminie do dnia 31 marca roku następującego po roku, w którym rozpoczął eksploatację instalacji, chyba że dane te zostały już wojewódzkiemu inspektorowi ochrony środowiska przekazane.
     - **a)**
     - **b)**
     - **c)**
@@ -70,7 +69,7 @@ source: "eli-html"
 **Art. 236c.** Główny Inspektor Ochrony Środowiska przekazuje Komisji Europejskiej sprawozdanie zawierające:
 
 - **1)** dane objęte Krajowym Rejestrem, o których mowa w art. 236b ust. 1 pkt 1;
-- **2)** informacje i dane, o których mowa w art. 11 ust. 2 pkt 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, w zakresie realizacji obowiązków sprawozdawczych wynikających z art. 72 dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane zapobieganie zanieczyszczeniom i ich kontrola) (Dz. Urz. UE L 334 z 17.12.2010, str. 17, z późn. zm.). ” ;
+- **2)** informacje i dane, o których mowa w art. 11 ust. 2 pkt 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, w zakresie realizacji obowiązków sprawozdawczych wynikających z art. 72 dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane zapobieganie zanieczyszczeniom i ich kontrola) (Dz. Urz. UE L 334 z 17.12.2010, str. 17, z późn. zm.Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 158 z 19.06.2012, str. 25.). ” ;
 - **5)** w art. 236d: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
@@ -97,8 +96,10 @@ source: "eli-html"
 
 - **1)** w odnośniku nr 1 w akapicie drugim w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 - **5)** decyzji wykonawczej Komisji (UE) 2018/1135 z dnia 10 sierpnia 2018 r. ustanawiającej rodzaj, format i częstotliwość przekazywania informacji, które mają być udostępniane przez państwa członkowskie na potrzeby sprawozdań z wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE w sprawie emisji przemysłowych (Dz. Urz. UE L 205 z 14.08.2018, str. 40). ” ;
-- **2)** w art. 11: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) źródeł spalania paliw; ” , – uchyla się pkt 3, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **2)** w art. 11: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** źródeł spalania paliw; ” , – uchyla się pkt 3, po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Informacje i dane, o których mowa w ust. 2 pkt 1, w zakresie realizacji obowiązków sprawozdawczych wynikających z art. 72 dyrektywy 2010/75/UE Krajowy ośrodek przekazuje również Głównemu Inspektorowi Ochrony Środowiska. ” , dodaje się ust. 4–6 w brzmieniu: „
@@ -115,5 +116,5 @@ source: "eli-html"
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 236b ust. 5 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 236b ust. 5 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji zapewnia wykonanie następujących decyzji: 1) decyzji wykonawczej Komisji (UE) 2018/1135 z dnia 10 sierpnia 2018 r. ustanawiającej rodzaj, format i częstotliwość przekazywania informacji, które mają być udostępniane przez państwa członkowskie na potrzeby sprawozdań z wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE w sprawie emisji przemysłowych (Dz. Urz. UE L 205 z 14.08.2018, str. 40); 2) decyzji wykonawczej Komisji (UE) 2019/1741 z dnia 23 września 2019 r. określającej format i częstotliwość przekazywania danych, które mają być udostępniane przez państwa członkowskie na potrzeby sprawozdawczości na mocy rozporządzenia (WE) nr 166/2006 Parlamentu Europejskiego i Rady w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającego dyrektywę Rady 91/689/EWG i 96/61/WE (Dz. Urz. UE L 267 z 21.10.2019, str. 3). 2) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 158 z 19.06.2012, str. 25.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy – Prawo bankowe
+# Ustawaz dnia 26 stycznia 2007 r. o zmianie ustawy – Prawo bankowe Niniejsza ustawa:
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-01-26 |
 | Data wydania | 2007-03-09 |
-| Wejście w życie | 2007-04-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070420272) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/272/text.pdf) |
 
+-wdraża postanowieniadyrektywy 2006/48/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie podejmowania i prowadzenia działalności przez instytucje kredytowe(Dz. Urz. UE L 177 z 30.06.2006, str. 1) oraz dyrektywy 2006/49/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie adekwatności kapitałowej firm inwestycyjnych i instytucji kredytowych (Dz. Urz. UE L 177 z 30.06.2006, str. 201),
 – zmienia ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538 oraz z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1 dodaje się pkt 28–31 w brzmieniu: „
 - **28)** instytucja dominująca w państwie członkowskim – instytucję kredytową lub bank krajowy, w stosunku do których podmiotem zależnym lub blisko powiązanym w rozumieniu pkt 15 lit. a jest instytucja kredytowa, instytucja finansowa lub bank krajowy, oraz które nie są podmiotami zależnymi w stosunku do instytucji kredytowej działającej na podstawie zezwolenia udzielonego w tym samym państwie lub instytucji finansowej z siedzibą na terytorium tego samego państwa, lub banku krajowego,
@@ -138,8 +138,16 @@ source: "eli-html"
     - **c)**
     - **d)**
 
-- **12)** w art. 105: w ust. 1: – pkt 1b otrzymuje brzmienie: „ 1b) innym bankom, instytucjom kredytowym lub instytucjom finansowym, w zakresie niezbędnym dla: a) wykonywania obowiązujących je przepisów dotyczących nadzoru skonsolidowanego, w tym w szczególności dla sporządzania skonsolidowanych sprawozdań finansowych, obejmujących także bank, b) zarządzania ryzykiem dużych zaangażowań, c) stosowania metod statystycznych, o którym mowa w art. 128d ust. 1 i 6, ” , – po pkt 1b dodaje się pkt 1c w brzmieniu: „ 1c) instytucjom, o których mowa w ust. 4, w zakresie niezbędnym dla stosowania metod statystycznych, o którym mowa w art. 128d ust. 1 i 6, ” , – w pkt 2 dodaje się lit. q w brzmieniu: „ q) właściwej władzy nadzorczej, z którą Komisja Nadzoru Bankowego zawarła porozumienie, o którym mowa w art. 131 ust. 2 lub w art. 141f ust. 3, w związku z wykonywaniem przez tę władzę nadzoru skonsolidowanego, ” , ust. 4 otrzymuje brzmienie: „
+- **12)** w art. 105: w ust. 1: pkt 1b otrzymuje brzmienie: „
     - **a)**
+
+- **1b)** innym bankom, instytucjom kredytowym lub instytucjom finansowym, w zakresie niezbędnym dla: wykonywania obowiązujących je przepisów dotyczących nadzoru skonsolidowanego, w tym w szczególności dla sporządzania skonsolidowanych sprawozdań finansowych, obejmujących także bank, zarządzania ryzykiem dużych zaangażowań, stosowania metod statystycznych, o którym mowa w art. 128d ust. 1 i 6, ” , po pkt 1b dodaje się pkt 1c w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **1c)** instytucjom, o których mowa w ust. 4, w zakresie niezbędnym dla stosowania metod statystycznych, o którym mowa w art. 128d ust. 1 i 6, ” , w pkt 2 dodaje się lit. q w brzmieniu: „ właściwej władzy nadzorczej, z którą Komisja Nadzoru Bankowego zawarła porozumienie, o którym mowa w art. 131 ust. 2 lub w art. 141f ust. 3, w związku z wykonywaniem przez tę władzę nadzoru skonsolidowanego, ” , ust. 4 otrzymuje brzmienie: „
+    - **q)**
     - **b)**
 
 4. Banki mogą, wspólnie z bankowymi izbami gospodarczymi, utworzyć instytucje upoważnione do gromadzenia, przetwarzania i udostępniania:
@@ -181,10 +189,15 @@ source: "eli-html"
 4. Komisja Nadzoru Bankowego określi, w drodze uchwały, szczegółowe zasady i sposób ogłaszania informacji, o których mowa w ust. 1 i 3, oraz zakres informacji podlegających ogłaszaniu. ” ;
 
 - **15)** tytuł rozdziału 10 otrzymuje brzmienie: „ Fundusze własne, kapitał wewnętrzny i gospodarka finansowa banków ” ;
-- **16)** w art. 127: w ust. 1 uchyla się pkt 3, w ust. 2: – w pkt 2 dodaje się lit. d w brzmieniu: „ d) inne pozycje bilansu banku, określone przez Komisję Nadzoru Bankowego, ” , – w pkt 3 dodaje się lit. f w brzmieniu: „ f) inne pomniejszenia funduszy podstawowych banku, określone przez Komisję Nadzoru Bankowego ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) kapitał (fundusz) z aktualizacji wyceny rzeczowych aktywów trwałych – utworzony na podstawie odrębnych przepisów, ” , – dodaje się pkt 4 w brzmieniu: „ 4) pomniejszenia funduszy uzupełniających, określone przez Komisję Nadzoru Bankowego ” , w ust. 5 pkt 2 otrzymuje brzmienie: „
+- **16)** w art. 127: w ust. 1 uchyla się pkt 3, w ust. 2: w pkt 2 dodaje się lit. d w brzmieniu: „ inne pozycje bilansu banku, określone przez Komisję Nadzoru Bankowego, ” , w pkt 3 dodaje się lit. f w brzmieniu: „ inne pomniejszenia funduszy podstawowych banku, określone przez Komisję Nadzoru Bankowego ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
+    - **d)**
+    - **f)**
     - **c)**
+
+- **1)** kapitał (fundusz) z aktualizacji wyceny rzeczowych aktywów trwałych – utworzony na podstawie odrębnych przepisów, ” , dodaje się pkt 4 w brzmieniu: „
+- **4)** pomniejszenia funduszy uzupełniających, określone przez Komisję Nadzoru Bankowego ” , w ust. 5 pkt 2 otrzymuje brzmienie: „
     - **d)**
 
 - **2)** może określić, w drodze uchwały: inne pozycje bilansu banku, o których mowa w ust. 2 pkt 2 lit. d, ich wysokość, zakres i warunki ich zaliczania do funduszy podstawowych banku, wysokość, zakres i warunki pomniejszania funduszy podstawowych banku o pozycje, o których mowa w ust. 2 pkt 3 lit. a-e, inne pomniejszenia funduszy podstawowych, o których mowa w ust. 2 pkt 3 lit. f, ich wysokość, zakres i warunki pomniejszania o nie funduszy podstawowych banku, inne pozycje bilansu banku, o których mowa w ust. 3 pkt 3, ich wysokość, zakres i warunki ich zaliczania do funduszy uzupełniających banku, pomniejszenia funduszy uzupełniających, o których mowa w ust. 3 pkt 4, ich wysokość, zakres i warunki pomniejszania o nie funduszy uzupełniających banku. ” , ust. 6 i 7 otrzymują brzmienie: „
@@ -363,15 +376,12 @@ source: "eli-html"
 - **24)** przejęcia banku przez inny bank za zgodą banku przejmującego,
 - **25)** wystąpienia do Rady Ministrów o likwidację banku państwowego,
 - **26)** odwołania likwidatora banku wyznaczonego przez bank,
-- **27)** zawieszenia działalności banku mają moc ostatecznych decyzji administracyjnych i podlegają natychmiastowemu wykonaniu.
+- **27)** zawieszenia działalności banku – mają moc ostatecznych decyzji administracyjnych i podlegają natychmiastowemu wykonaniu.
 
 3. O ile ustawa nie stanowi inaczej, termin wydania określonych w niej opinii wynosi 30 dni.”; ” ; ” ;
 
 - **2)** pkt 10 otrzymuje brzmienie: „
 - **10)** użyte w art. 4 w ust. 1 w pkt 8 w lit. b i w pkt 15 w lit. b, w art. 4a, w art. 6a w ust. 1 w pkt 1 w lit. k i w ust. 3, w art. 6c w ust. 1 w pkt 1 i 2 oraz w ust. 2–6, w art. 6d w ust. 1, w ust. 4 we wprowadzeniu do wyliczenia i w pkt 2, w art. 9f, w art. 14 w ust. 1, w art. 17 w ust. 3, w art. 19, w art. 22 w ust. 3, w art. 22a w ust. 2, w art. 22b w ust. 1–5, w art. 22c w ust. 2, w art. 25 w ust. 1, 2, 4 i 6–9, w art. 26a w ust. 1 i 4–6, w art. 28 w ust. 1, w art. 30 w ust. la i w ust. 4, w art. 30a, w art. 31 w ust. 1 we wprowadzeniu do wyliczenia, w ust. 2 w pkt 3 i w ust. 4, w art. 32 w ust. 5, w art. 33 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 34 w ust. 1 i 2, w art. 35, w art. 36 w ust. 1, w art. 37, w art. 39 w ust. 1, w art. 40 w ust. 1, 4 i 8, w art. 40a w ust. 2, w art. 42 w ust. 1, w art. 44 we wprowadzeniu do wyliczenia, w art. 48c w ust. 1, 3 i 4, w art. 48d w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 48e-48g, w art. 48h w ust. 1 w pkt 6, w ust. 2, 2a i 3–5, w art. 48l, w art. 48ł, w art. 53 w ust. 4, w art. 71 w ust. 3–6 i 8, w art. 79b w ust. 1, w art. 92b w ust. 3, w art. 105 w ust. 1 w pkt 2 w lit. r. w art. 110 w pkt 3, w art. 111a w ust. 4, w art. 122 w ust. 3, w art. 124 w ust. 1 i 2, w art. 124a, w art. 127 w ust. 2 w pkt 2 w lit. d oraz w pkt 3 w lit. f, w ust. 3 w pkt 2 we wprowadzeniu do wyliczenia i w pkt 2 w lit. a, b i d, w pkt 3 i 4 oraz w ust. 4–7, w art. 128 w ust. 1 w pkt 2 i w ust. 3–10, w art. 128a-128c, w art. 128d w ust. 1–4 oraz w ust. 6–10, w art. 129 w ust. 3, w art. 131 w ust. 1, w art. 132, w art. 133 w ust. 2 w pkt 6, w art. 134 w ust. 2, w art. 135 w ust. 1 i 3, w art. 136 w ust. 1 we wprowadzeniu do wyliczenia, w art. 137 we wprowadzeniu do wyliczenia, w art. 138 w ust. 1 we wprowadzeniu do wyliczenia oraz w ust. 2–5, w ust. 6 w pkt 4 i w ust. 6a-6d, w art. 138a w ust. 1 we wprowadzeniu do wyliczenia oraz w pkt 2 i w ust. 2, w art. 139 w ust. 1 w pkt 1 i 3, w art. 140, w art. 140a w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 140b i 140c, w art. 141 w ust. 1 i 4, w art. 141a w ust. 1 we wprowadzeniu do wyliczenia oraz w ust. 2–5, w art. 141b, w art. 141c w ust. 2 i 3, w art. 141d w ust. 2, w art. 141e, w art. 141f w ust. 3 i 4, w ust. 6 w pkt 2 i 5 oraz w ust. 10 i 11, w art. 141g w ust. 1 we wprowadzeniu do wyliczenia oraz w ust. 2 i 5, w art. 141 h w ust. 1 i 3 we wprowadzeniu do wyliczenia, w art. 141i w ust. 1 i 4, w art. 141j, w art. 141k w ust. 3 i 4, w art. 141l, w art. 142 w ust. 1–3, w art. 143 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 144 w ust. 1 i w ust. 7–10, w art. 145 w ust. 1, 2a i 5, w art. 146 w ust. 3, w art. 147 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 148 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 3, w art. 153 w ust. 1, w art. 154 w pkt 2 i 3, w art. 155 w ust. 2, w art. 156a, w art. 157, w art. 157a-157d, w art. 158 w ust. 1, 3 i 5 i w art. 171 w ust. 6 i 7 w różnych przypadkach wyrazy „Komisja Nadzoru Bankowego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Komisja Nadzoru Finansowego”. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 kwietnia 2007 r., z wyjątkiem art. 2, który wchodzi w życie z dniem 1 stycznia 2008 r.
-
-- **1)** Niniejsza ustawa: – wdraża postanowienia dyrektywy 2006/48/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie podejmowania i prowadzenia działalności przez instytucje kredytowe (Dz. Urz. UE L 177 z 30.06.2006, str. 1) oraz dyrektywy 2006/49/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie adekwatności kapitałowej firm inwestycyjnych i instytucji kredytowych (Dz. Urz. UE L 177 z 30.06.2006, str. 201), – zmienia ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
-
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 kwietnia 2007 r., z wyjątkiem art. 2, który wchodzi w życie z dniem 1 stycznia 2008 r. 1) Niniejsza ustawa: – wdraża postanowienia dyrektywy 2006/48/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie podejmowania i prowadzenia działalności przez instytucje kredytowe (Dz. Urz. UE L 177 z 30.06.2006, str. 1) oraz dyrektywy 2006/49/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie adekwatności kapitałowej firm inwestycyjnych i instytucji kredytowych (Dz. Urz. UE L 177 z 30.06.2006, str. 201), – zmienia ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
 

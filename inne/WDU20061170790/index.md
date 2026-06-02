@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-06-23 |
 | Data wydania | 2006-06-30 |
-| Wejście w życie | 2006-06-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061170790) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/790/text.pdf) |
 
@@ -55,14 +54,14 @@ source: "eli-html"
 1. Diagnostą laboratoryjnym jest osoba, która:
 
 - **1)** ukończyła studia wyższe na kierunku analityka medyczna i uzyskała tytuł zawodowy magistra lub
-- **2)** ukończyła studia wyższe na kierunkach: biologia lub farmacja i uzyskała tytuł zawodowy magistra, chemia lub biotechnologia i uzyskała tytuł zawodowy magistra lub magistra inżyniera, weterynaria i uzyskała tytuł zawodowy lekarza weterynarii oraz odbyła kształcenie podyplomowe, o którym mowa w art. 7a, potwierdzone egzaminem, albo uzyskała specjalizację I lub II stopnia lub tytuł specjalisty w dziedzinie analityki klinicznej, diagnostyki laboratoryjnej, mikrobiologii lub toksykologii, lub
+- **2)** ukończyła studia wyższe na kierunkach: biologia lub farmacja i uzyskała tytuł zawodowy magistra, chemia lub biotechnologia i uzyskała tytuł zawodowy magistra lub magistra inżyniera, weterynaria i uzyskała tytuł zawodowy lekarza weterynarii – oraz odbyła kształcenie podyplomowe, o którym mowa w art. 7a, potwierdzone egzaminem, albo uzyskała specjalizację I lub II stopnia lub tytuł specjalisty w dziedzinie analityki klinicznej, diagnostyki laboratoryjnej, mikrobiologii lub toksykologii, lub
     - **a)**
     - **b)**
     - **c)**
 
 - **3)** ukończyła studia wyższe na kierunku lekarskim i uzyskała tytuł zawodowy lekarza oraz odbyła kształcenie podyplomowe, o którym mowa w art. 7a, lub
 - **4)** posiada dyplom wydany w państwie innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym lub Konfederacja Szwajcarska uznany w Rzeczypospolitej Polskiej za równoważny z dyplomem uzyskiwanym w Rzeczypospolitej Polskiej, potwierdzającym tytuł zawodowy magistra na kierunku analityka medyczna, lub
-- **5)** posiada kwalifikacje do wykonywania zawodu diagnosty laboratoryjnego nabyte w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym innym niż Rzeczpospolita Polska lub w Konfederacji Szwajcarskiej, uznane w Rzeczypospolitej Polskiej zgodnie z ustawą z dnia 26 kwietnia 2001 r. o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych (Dz. U. Nr 87, poz. 954, z późn. zm.);
+- **5)** posiada kwalifikacje do wykonywania zawodu diagnosty laboratoryjnego nabyte w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym innym niż Rzeczpospolita Polska lub w Konfederacji Szwajcarskiej, uznane w Rzeczypospolitej Polskiej zgodnie z ustawą z dnia 26 kwietnia 2001 r. o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych (Dz. U. Nr 87, poz. 954, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 71, poz. 655, z 2003 r. Nr 190, poz. 1864, z 2004 r. Nr 96, poz. 959 oraz z 2006 r. Nr 12, poz. 62.);
 - **6)** posiada pełną zdolność do czynności prawnych;
 - **7)** posiada stan zdrowia pozwalający na wykonywanie zawodu diagnosty laboratoryjnego;
 - **8)** została wpisana na listę diagnostów laboratoryjnych.
@@ -115,5 +114,5 @@ source: "eli-html"
 
 **Art. 4.** Osoby, które rozpoczęły przed dniem wejścia w życie ustawy kształcenie podyplomowe, o którym mowa w art. 7a ustawy zmienianej w art. 1, kończą to kształcenie na dotychczasowych zasadach.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 71, poz. 655, z 2003 r. Nr 190, poz. 1864, z 2004 r. Nr 96, poz. 959 oraz z 2006 r. Nr 12, poz. 62.
 

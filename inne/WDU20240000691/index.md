@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansówz dnia 29 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej
+# Obwieszczenie Ministra Finansówz dnia 29 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -31,16 +31,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2022 r. poz. 2385), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 20 stycznia 2023 r. zmieniającym rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 174).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 stycznia 2023 r. zmieniającego rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 174), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 stycznia 2023 r. zmieniającego rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 174), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 29 grudnia 2022 r.
-” .
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 29 grudnia 2022 r. ” . 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczejNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. z 2022 r. poz. 2068) zarządza się, co następuje:
 § 1.
-Przyznaje się Agencji Restrukturyzacji i Modernizacji Rolnictwa, z siedzibą w Warszawie, działającej na podstawie ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2023 r. poz. 1199), akredytację jako agencji płatniczej w rozumieniu art. 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549 i 865, z późn. zm.).
+Przyznaje się Agencji Restrukturyzacji i Modernizacji Rolnictwa, z siedzibą w Warszawie, działającej na podstawie ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2023 r. poz. 1199), akredytację jako agencji płatniczej w rozumieniu art. 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549 i 865, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 83, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 27 z 31.01.2020, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1..
 § 2.
 Akredytacja obejmuje obsługę pomocy w ramach wspólnej polityki rolnej w odniesieniu do:
 1)
@@ -129,11 +126,11 @@ m)
 pomocy technicznej;
 20)
 Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Zarządzanie ryzykiem”;
-21)
+21Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 20 stycznia 2023 r. zmieniającego rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 174), które weszło w życie z mocą od dnia 29 grudnia 2022 r.)
 Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Nadzwyczajne tymczasowe wsparcie dla rolników, mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw szczególnie dotkniętych wpływem rosyjskiej inwazji na Ukrainę”, typ operacji: „Pomoc dla rolników szczególnie dotkniętych wpływem rosyjskiej inwazji na Ukrainę”.
 § 3.
 1.
-Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 1  i 2 lit. a i b, udziela się z dniem wejścia w życie rozporządzenia.
+Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 1 Uchylony przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 29 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 1676), które weszło w życie z dniem 1 września 2018 r. i 2 lit. a i b, udziela się z dniem wejścia w życie rozporządzenia.
 2.
 Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 2 lit. c, udziela się od dnia 24 stycznia 2017 r.
 3.
@@ -158,11 +155,10 @@ Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 15 lit. 
 Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 17–19, udziela się od dnia 1 grudnia 2021 r.
 13.
 Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 20, udziela się od dnia 29 sierpnia 2022 r.
-14.
+14Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 21, udziela się od dnia 29 grudnia 2022 r.
 § 4.
 Traci moc rozporządzenie Ministra Finansów z dnia 1 lutego 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej, w zakresie uruchamiania środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji (Dz. U. poz. 144).
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 83, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 27 z 31.01.2020, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1. 3) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 20 stycznia 2023 r. zmieniającego rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 174), które weszło w życie z mocą od dnia 29 grudnia 2022 r. 4) Uchylony przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 29 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 1676), które weszło w życie z dniem 1 września 2018 r. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Rozporządzenie zostało ogłoszone w dniu 9 września 2016 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 9 września 2016 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 130 z 19.05.2016, str. 11, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 83, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 27 z 31.01.2020, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1. 3) Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 20 stycznia 2023 r. zmieniającego rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 174), które weszło w życie z mocą od dnia 29 grudnia 2022 r. 4) Uchylony przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 29 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 1676), które weszło w życie z dniem 1 września 2018 r. 5) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Rozporządzenie zostało ogłoszone w dniu 9 września 2016 r.
 

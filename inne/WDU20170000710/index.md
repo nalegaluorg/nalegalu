@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 28 marca 2017 r. w sprawie udzielania pomocy na kulturę i ochronę dziedzictwa kulturowego w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014–2020
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 28 marca 2017 r. w sprawie udzielania pomocy na kulturę i ochronę dziedzictwa kulturowego w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014–2020 Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-28 |
 | Data wydania | 2017-04-03 |
-| Wejście w życie | 2017-04-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000710) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/710/text.pdf) |
 
@@ -31,7 +30,7 @@ Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „ministrem”, pomocy na kulturę i ochronę dziedzictwa kulturowego w ramach Programu Operacyjnego „Infrastruktura i Środowisko na lata 2014–2020”, oś priorytetowa VIII. Ochrona dziedzictwa kulturowego i rozwój zasobów kultury, zwanej dalej „pomocą publiczną”.
 § 2.
-Pomoc publiczna jest udzielana zgodnie z art. 53 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
+Pomoc publiczna jest udzielana zgodnie z art. 53 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 i Dz. Urz. UE L 149 z 07.06.2016, str. 10.) , zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
 § 3.
 Przepisy rozporządzenia mają zastosowanie do pomocy publicznej nieprzekraczającej progów wskazanych w art. 4 ust. 1 lit. z rozporządzenia Komisji (UE) nr 651/2014.
 § 4.
@@ -40,7 +39,7 @@ Beneficjent może otrzymać pomoc publiczną pod warunkiem, że zagwarantuje zgo
 Pomoc publiczna udzielana na podstawie rozporządzenia podlega kumulacji z inną pomocą na zasadach określonych w art. 8 rozporządzenia Komisji (UE) nr 651/2014.
 § 6.
 1.
-Pomoc publiczna może być udzielana wyłącznie podmiotom określonym w Szczegółowym Opisie Osi Priorytetowych Programu Operacyjnego „Infrastruktura i Środowisko na lata 2014–2020” w części dotyczącej osi priorytetowej VIII. Ochrona dziedzictwa kulturowego i rozwój zasobów kultury, przyjętym przez instytucję zarządzającą programem operacyjnym oraz zatwierdzonym w zakresie kryteriów wyboru projektów przez komitet monitorujący, o którym mowa w art. 47 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), określającym w szczególności zakres działań lub poddziałań realizowanych w ramach poszczególnych osi priorytetowych programu operacyjnego, o ile te podmioty stanowią przedsiębiorstwa w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014.
+Pomoc publiczna może być udzielana wyłącznie podmiotom określonym w Szczegółowym Opisie Osi Priorytetowych Programu Operacyjnego „Infrastruktura i Środowisko na lata 2014–2020” w części dotyczącej osi priorytetowej VIII. Ochrona dziedzictwa kulturowego i rozwój zasobów kultury, przyjętym przez instytucję zarządzającą programem operacyjnym oraz zatwierdzonym w zakresie kryteriów wyboru projektów przez komitet monitorujący, o którym mowa w art. 47 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34.), określającym w szczególności zakres działań lub poddziałań realizowanych w ramach poszczególnych osi priorytetowych programu operacyjnego, o ile te podmioty stanowią przedsiębiorstwa w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014.
 2.
 Pomoc publiczna może być udzielana również na projekty partnerskie tworzone przez podmioty, o których mowa w ust. 1.
 § 7.
@@ -88,6 +87,5 @@ Wsprawach pomocy publicznej udzielanej na projekty rozpoczęte i niezakończone 
 § 18.
 Traci moc rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 12 sierpnia 2015 r. w sprawie udzielania pomocy na kulturę i ochronę dziedzictwa kulturowego w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014–2020 (Dz. U. poz. 1213).
 § 19.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 i Dz. Urz. UE L 149 z 07.06.2016, str. 10. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28 i Dz. Urz. UE L 149 z 07.06.2016, str. 10. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79 i Dz. Urz. UE L 338 z 13.12.2016, str. 34.
 

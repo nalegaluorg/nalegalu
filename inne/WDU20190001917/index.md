@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-25 |
 | Data wydania | 2019-10-09 |
-| Wejście w życie | 2019-10-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001917) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1917/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 174 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2019 r. poz. 1438, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 174 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2019 r. poz. 1438, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798 i 1901.) zarządza się, co następuje:
 § 1.
-Wrozporządzeniu Rady Ministrów z dnia 28 lutego 2011 r. w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. z 2018 r. poz. 1016) w § 4 w ust. 1 w pkt 1 dodaje się lit. d w brzmieniu:
-„
+Wrozporządzeniu Rady Ministrów z dnia 28 lutego 2011 r. w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. z 2018 r. poz. 1016) w § 4 w ust. 1 w pkt 1 dodaje się lit. d w brzmieniu: „
 d)
-przedmiotów – które stały się własnością Skarbu Państwa na podstawie prawomocnego orzeczenia ich przepadku – innych niż określone w art. 179 § 5 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, z późn. zm.) w prowadzonych przez naczelnika urzędu celno-skarbowego sprawach o przestępstwa skarbowe i wykroczenia skarbowe,
-” .
+przedmiotów – które stały się własnością Skarbu Państwa na podstawie prawomocnego orzeczenia ich przepadku – innych niż określone w art. 179 § 5 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694, 1520, 1556, 1694 i 1751.) w prowadzonych przez naczelnika urzędu celno-skarbowego sprawach o przestępstwa skarbowe i wykroczenia skarbowe, ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798 i 1901. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694, 1520, 1556, 1694 i 1751.
 

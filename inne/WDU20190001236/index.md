@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 czerwca 2019 r. zmieniające rozporządzenie w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych
+# Rozporządzenie Ministra Zdrowiaz dnia 27 czerwca 2019 r. zmieniające rozporządzenie w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-27 |
 | Data wydania | 2019-07-03 |
-| Wejście w życie | 2019-07-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1236/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz realizatorów programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych
 Treść rozporządzenia
-Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730, 752 i 1078.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 11 października 2018 r. w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych (Dz. U. poz. 1985) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730, 752 i 1078.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730, 752 i 1078.
 Załącznik – Wykaz realizatorów programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych
 1)
 Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach;

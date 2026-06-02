@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-17 |
 | Data wydania | 2024-04-24 |
-| Wejście w życie | 2024-04-25 |
 | Ostatnia zmiana | 2025-10-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000627) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/627/text.pdf) |
 
@@ -77,7 +76,8 @@ Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
 ## Załącznik nr 1 — – Taryfa zryczałtowana wynagrodzenia biegłych z dziedziny medycyny
 
-Lp. Określenie czynności Procent kwoty bazowej 1 2 3 1 Określenie inwalidztwa, niepełnosprawności lub niezdolności do pracy oraz ich stopnia 2,78–11,081) 2 Stwierdzenie uszkodzeń ciała i ich kwalifikacja, ustalenie obcowania płciowego, stwierdzenie dziewictwa, ciąży, przebytego porodu, zakażenia wenerycznego 2,49–5,681) 3 Badanie zdolności płodzenia, łącznie z badaniem nasienia (w razie konieczności powtórzenia badania stawkę podwyższa się o 100 %) 4,71–6,931) 4 Badanie stanu zdrowia psychicznego: 1) w warunkach ambulatoryjnych bez pisemnej opinii 2,49–6,091) 2) w warunkach ambulatoryjnych z pisemną opinią 6,65–13,991) 3) w warunkach szpitalnych z pisemną opinią 15,92–33,781) 5 Badanie psychologiczne: 1) w warunkach ambulatoryjnych bez pisemnej opinii 2,49–6,091) 2) w warunkach ambulatoryjnych z pisemną opinią 6,65–13,991) 3) w warunkach szpitalnych z pisemną opinią 15,92–33,781) 6 Badanie w przedmiocie uzależnienia od alkoholu: 1) w warunkach ambulatoryjnych bez pisemnej opinii 2,49–6,091) 2) w warunkach ambulatoryjnych z pisemną opinią 6,65–13,991) 3) w warunkach szpitalnych z pisemną opinią 15,92–33,781) 7 Wydanie opinii wyłącznie na podstawie akt sprawy 6,65–28,251) 1) W zależności od stopnia złożoności problemu będącego przedmiotem opinii, a także w zależności od nakładu pracy oraz warunków, w jakich opracowano opinię.
+Lp. Określenie czynności Procent kwoty bazowej 1 2 3 1 Określenie inwalidztwa, niepełnosprawności lub niezdolności do pracy oraz ich stopnia 2,78–11,081) 2 Stwierdzenie uszkodzeń ciała i ich kwalifikacja, ustalenie obcowania płciowego, stwierdzenie dziewictwa, ciąży, przebytego porodu, zakażenia wenerycznego 2,49–5,681) 3 Badanie zdolności płodzenia, łącznie z badaniem nasienia (w razie konieczności powtórzenia badania stawkę podwyższa się o 100 %) 4,71–6,931) 4 Badanie stanu zdrowia psychicznego: 1) w warunkach ambulatoryjnych bez pisemnej opinii 2,49–6,091) 2) w warunkach ambulatoryjnych z pisemną opinią 6,65–13,991) 3) w warunkach szpitalnych z pisemną opinią 15,92–33,781) 5 Badanie psychologiczne: 1) w warunkach ambulatoryjnych bez pisemnej opinii 2,49–6,091) 2) w warunkach ambulatoryjnych z pisemną opinią 6,65–13,991) 3) w warunkach szpitalnych z pisemną opinią 15,92–33,781) 6 Badanie w przedmiocie uzależnienia od alkoholu: 1) w warunkach ambulatoryjnych bez pisemnej opinii 2,49–6,091) 2) w warunkach ambulatoryjnych z pisemną opinią 6,65–13,991) 3) w warunkach szpitalnych z pisemną opinią 15,92–33,781) 7 Wydanie opinii wyłącznie na podstawie akt sprawy 6,65–28,251)
+1) W zależności od stopnia złożoności problemu będącego przedmiotem opinii, a także w zależności od nakładu pracy oraz warunków, w jakich opracowano opinię.
 
 ## Załącznik nr 2 — – Taryfa zryczałtowana za typowe czynności techniczne biegłych z zakresu geodezji i kartografii
 

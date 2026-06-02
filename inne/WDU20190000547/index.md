@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 12 marca 2019 r. w sprawie warunków produkcji i sposobu dystrybucji profesjonalnych tablic rejestracyjnych i znaków legalizacyjnych oraz trybu legalizacji profesjonalnych tablic rejestracyjnych
+# Rozporządzenie Ministra Infrastrukturyz dnia 12 marca 2019 r. w sprawie warunków produkcji i sposobu dystrybucji profesjonalnych tablic rejestracyjnych i znaków legalizacyjnych oraz trybu legalizacji profesjonalnych tablic rejestracyjnych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-12 |
 | Data wydania | 2019-03-22 |
-| Wejście w życie | 2019-07-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000547) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/547/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Produkcja i dystrybucja profesjonalnych tablic rejestracyjnych oraz warunki prowadzenia ewidencji Rozdział 3 – Produkcja i dystrybucja znaków legalizacyjnych oraz tryb legalizacji profesjonalnych tablic rejestracyjnych
+Treść rozporządzenia
 Załącznik – Kody oznaczeń profesjonalnych tablic rejestracyjnych
 Treść rozporządzenia
 Na podstawie art. 75ca ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, 2244 i 2322 oraz z 2019 r. poz. 53 i 60) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -46,6 +46,7 @@ ustawie – rozumie się przez to ustawę z dnia 20 czerwca 1997 r. – Prawo o 
 przepisach w sprawie profesjonalnej rejestracji – rozumie się przez to rozporządzenie Ministra Infrastruktury z dnia 12 marca 2019 r. w sprawie profesjonalnej rejestracji pojazdów, stosowanych oznaczeń oraz opłat związanych z profesjonalną rejestracją pojazdów (Dz. U. poz. 546);
 3)
 producencie profesjonalnych tablic – rozumie się przez to przedsiębiorcę, o którym mowa w art. 75a ust. 3 ustawy.
+Produkcja i dystrybucja profesjonalnych tablic rejestracyjnych oraz warunki prowadzenia ewidencji
 § 3.
 1.
 Profesjonalne tablice rejestracyjne produkuje się w zakładzie, w którym mogą być produkowane także inne tablice i oznaczenia pojazdów.
@@ -66,8 +67,7 @@ Producent profesjonalnych tablic prowadzi, odpowiednio do zakresu wykonywanej pr
 1)
 w ramach ewidencji, o której mowa w przepisach rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 2 maja 2012 r. w sprawie warunków produkcji i sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych (Dz. U. z 2018 r. poz. 1751),
 2)
-zgodnie z warunkami określonymi w przepisach, o których mowa w pkt 1
-z tym że do prowadzenia tej ewidencji oraz składania i realizacji zamówień, o których mowa w art. 75a ust. 4 i 5 ustawy, wykorzystuje się kody oznaczeń profesjonalnych tablic rejestracyjnych określone w załączniku do rozporządzenia.
+zgodnie z warunkami określonymi w przepisach, o których mowa w pkt 1 – z tym że do prowadzenia tej ewidencji oraz składania i realizacji zamówień, o których mowa w art. 75a ust. 4 i 5 ustawy, wykorzystuje się kody oznaczeń profesjonalnych tablic rejestracyjnych określone w załączniku do rozporządzenia.
 § 6.
 1.
 Profesjonalne tablice rejestracyjne samochodowe wykonuje się w kompletach, natomiast profesjonalne tablice rejestracyjne motocyklowe i motorowerowe oraz do oznaczania przyczep – jako tablice pojedyncze. Profesjonalne tablice rejestracyjne samochodowe dla ciągników rolniczych mogą być wykonane jako tablice pojedyncze. Profesjonalne tablice rejestracyjne motocyklowe i motorowerowe mogą być wykonane w kompletach do oznaczania odpowiednio:
@@ -83,8 +83,7 @@ Producent profesjonalnych tablic niszczy:
 1)
 wyprodukowane profesjonalne tablice rejestracyjne nieodpowiadające wzorom lub wymaganym warunkom technicznym oraz profesjonalne tablice rejestracyjne wyprodukowane niezgodnie z zamówieniem, o którym mowa w art. 75a ust. 4 ustawy,
 2)
-przetworzone materiały będące folią odblaskową naklejoną na taśmę aluminiową lub folią odblaskową naklejoną na taśmę aluminiową przyciętą zgodnie z wymiarem profesjonalnych tablic rejestracyjnych, nieodpowiadające wymaganym warunkom technicznym lub przetworzone niezgodnie z zamówieniem, o którym mowa w art. 75a ust. 5 ustawy
-w sposób uniemożliwiający ich użycie.
+przetworzone materiały będące folią odblaskową naklejoną na taśmę aluminiową lub folią odblaskową naklejoną na taśmę aluminiową przyciętą zgodnie z wymiarem profesjonalnych tablic rejestracyjnych, nieodpowiadające wymaganym warunkom technicznym lub przetworzone niezgodnie z zamówieniem, o którym mowa w art. 75a ust. 5 ustawy – w sposób uniemożliwiający ich użycie.
 2.
 Producent profesjonalnych tablic sporządza protokół zniszczenia profesjonalnych tablic rejestracyjnych i przetworzonych materiałów, o których mowa w ust. 1.
 § 8.
@@ -112,6 +111,7 @@ przetworzone materiały mające szczególne znaczenie dla produkcji profesjonaln
 sporządza protokół zniszczenia profesjonalnych tablic rejestracyjnych, materiałów i przetworzonych materiałów, o których mowa w pkt 1;
 3)
 przekazuje właściwemu organowi, o którym mowa w art. 75aa ust. 1 ustawy, ewidencję, o której mowa w § 5.
+Produkcja i dystrybucja znaków legalizacyjnych oraz tryb legalizacji profesjonalnych tablic rejestracyjnych
 § 10.
 Do produkcji i dystrybucji znaków legalizacyjnych służących do legalizacji profesjonalnych tablic rejestracyjnych stosuje się przepisy rozdziału 3 rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 2 maja 2012 r. w sprawie warunków produkcji i sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych.
 § 11.
@@ -133,14 +133,27 @@ złożeniu przez podmiot uprawniony stosownego oświadczenia, że nalepka legali
 2.
 Przepis § 13 stosuje się.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 11 lipca 2019 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
+Rozporządzenie wchodzi w życie z dniem 11 lipca 2019 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176).
 Załącznik – Kody oznaczeń profesjonalnych tablic rejestracyjnych
-Lp. Rodzaj profesjonalnych tablic rejestracyjnych Kod rodzaju Odmiana tablic rejestracyjnych Kod rodzaju i odmiany 1 Samochodowa jednorzędowa 71 1 litera, 2 cyfry, 2 cyfry, litera P, 2 cyfry1 litera, 2 cyfry, 2 cyfry, litera P, 1 cyfra, 1 litera 71a71b 2 Samochodowa dwurzędowa 72 1 litera, 2 cyfry, 2 cyfry, litera P, 2 cyfry1 litera, 2 cyfry, 2 cyfry, litera P, 1 cyfra, 1 litera 72a72b 3 Motocyklowa 73 1 litera, 2 cyfry, 2 cyfry, litera P, 2 cyfry1 litera, 2 cyfry, 2 cyfry, litera P, 1 cyfra, 1 litera 73a73b 4 Motorowerowa 74 1 litera, 2 cyfry, 2 cyfry, litera P, 2 cyfry1 litera, 2 cyfry, 2 cyfry, litera P, 1 cyfra, 1 litera 74a74b
+Lp. Rodzaj profesjonalnych tablic rejestracyjnych Kod rodzaju Odmiana tablic rejestracyjnych Kod rodzaju i odmiany 1 Samochodowa jednorzędowa 71 1 litera, 2 cyfry, 2 cyfry, litera P, 2 cyfry
+1 litera, 2 cyfry, 2 cyfry, litera P, 1 cyfra, 1 litera 71a
+71b 2 Samochodowa dwurzędowa 72 1 litera, 2 cyfry, 2 cyfry, litera P, 2 cyfry
+1 litera, 2 cyfry, 2 cyfry, litera P, 1 cyfra, 1 litera 72a
+72b 3 Motocyklowa 73 1 litera, 2 cyfry, 2 cyfry, litera P, 2 cyfry
+1 litera, 2 cyfry, 2 cyfry, litera P, 1 cyfra, 1 litera 73a
+73b 4 Motorowerowa 74 1 litera, 2 cyfry, 2 cyfry, litera P, 2 cyfry
+1 litera, 2 cyfry, 2 cyfry, litera P, 1 cyfra, 1 litera 74a
+74b
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Produkcja i dystrybucja profesjonalnych tablic rejestracyjnych oraz warunki prowadzenia ewidencji
+#### Rozdział 2 – Produkcja i dystrybucja profesjonalnych tablic rejestracyjnych oraz warunki prowadzenia ewidencji
 
-#### Rozdział 3 Produkcja i dystrybucja znaków legalizacyjnych oraz tryb legalizacji profesjonalnych tablic rejestracyjnych
+#### Rozdział 3 – Produkcja i dystrybucja znaków legalizacyjnych oraz tryb legalizacji profesjonalnych tablic rejestracyjnych
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

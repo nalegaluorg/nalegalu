@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 kwietnia 2012 r. o zmianie ustawy o cudzoziemcach oraz ustawy o promocji zatrudnienia i instytucjach rynku pracy
+# Ustawa z dnia 27 kwietnia 2012 r. o zmianie ustawy o cudzoziemcach oraz ustawy o promocji zatrudnienia i instytucjach rynku pracy Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia: 1) dyrektywy Parlamentu Europejskiego i Rady 2008/115/WE z dnia 16 grudnia 2008 r. w sprawie wspólnych norm i procedur stosowanych przez państwa członkowskie w odniesieniu do powrotów nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 348 z 24.12.2008, str. 98) oraz 2) dyrektywy Rady 2009/50/WE z dnia 25 maja 2009 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w celu podjęcia pracy w zawodzie wymagającym wysokich kwalifikacji (Dz. Urz. UE L 155 z 18.06.2009, str. 17).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-27 |
 | Data wydania | 2012-05-28 |
-| Wejście w życie | 2012-06-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/589/text.pdf) |
+
+Zezwolenie na zamieszkanie na czas oznaczony w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji
 
 **Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2011 r. Nr 264, poz. 1573) wprowadza się następujące zmiany:
 
@@ -44,7 +45,7 @@ source: "eli-html"
 - **6)** na podstawie zezwolenia na zamieszkanie na czas oznaczony w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji. ” ;
 - **6)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Zezwolenie na zamieszkanie na czas oznaczony w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji
+#### Rozdział 4a
 
 **Art. 63a.** Zezwolenia na zamieszkanie na czas oznaczony w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji, udziela się cudzoziemcowi, który zamierza na terytorium Rzeczypospolitej Polskiej wykonywać pracę w zawodzie wymagającym wysokich kwalifikacji przez okres dłuższy niż 3 miesiące, jeżeli:
 
@@ -126,7 +127,7 @@ source: "eli-html"
 - **3)** wynagrodzenie;
 - **4)** inne warunki zatrudnienia cudzoziemca. Wojewoda przekazuje Szefowi Urzędu do Spraw Cudzoziemców odpis decyzji o:
 - **1)** wydaniu, odmowie udzielenia i cofnięciu zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 63a, cudzoziemcowi, który zamieszkiwał przez okres co najmniej 18 miesięcy w innym państwie członkowskim Unii Europejskiej na podstawie wydanego przez to państwo dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia (WE) nr 1030/2002, z adnotacją „Niebieska Karta UE”;
-- **2)** udzieleniu zezwolenia na pobyt rezydenta długoterminowego UE posiadaczowi zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 63a. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia wysokość minimalnego wynagrodzenia dla cudzoziemca wymaganego do udzielenia zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 63a, w taki sposób, aby wysokość minimalnego wynagrodzenia nie była niższa niż równowartość 150% średniego rocznego wynagrodzenia brutto w Rzeczypospolitej Polskiej obliczanego na podstawie komunikatów Prezesa Głównego Urzędu Statystycznego ogłaszanych w danym roku na podstawie art. 20 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.). Do zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 63a, stosuje się przepisy art. 59, art. 60 ust. 1, 4, 4a, 5 i 6, art. 61 ust. 1, 2a-4, art. 62 ust. 1–7, 8, 8a i ust. 9 pkt 2 i 3 oraz art. 63 ust. 1. ” ;
+- **2)** udzieleniu zezwolenia na pobyt rezydenta długoterminowego UE posiadaczowi zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 63a. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia wysokość minimalnego wynagrodzenia dla cudzoziemca wymaganego do udzielenia zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 63a, w taki sposób, aby wysokość minimalnego wynagrodzenia nie była niższa niż równowartość 150% średniego rocznego wynagrodzenia brutto w Rzeczypospolitej Polskiej obliczanego na podstawie komunikatów Prezesa Głównego Urzędu Statystycznego ogłaszanych w danym roku na podstawie art. 20 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001, Nr 187, poz. 1112 i Nr 205, poz. 1203 oraz z 2012 r. poz. 118 i 251.). Do zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 63a, stosuje się przepisy art. 59, art. 60 ust. 1, 4, 4a, 5 i 6, art. 61 ust. 1, 2a-4, art. 62 ust. 1–7, 8, 8a i ust. 9 pkt 2 i 3 oraz art. 63 ust. 1. ” ;
 - **7)** w art. 65 po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „
 
 6a. Do pięcioletniego okresu pobytu na terytorium Rzeczypospolitej Polskiej, o którym mowa w ust. 1, zalicza się łączny okres legalnego pobytu na terytorium Unii Europejskiej, jeżeli cudzoziemiec przebywał na tym terytorium na podstawie dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia (WE) nr 1030/2002, z adnotacją „Niebieska Karta UE” nieprzerwanie przez co najmniej 5 lat, w tym na terytorium Rzeczypospolitej Polskiej – przez co najmniej 2 lata bezpośrednio przed złożeniem wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego UE na podstawie zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 63a.
@@ -138,8 +139,11 @@ source: "eli-html"
 - **10)** adnotację „uprzednio posiadacz Niebieskiej Karty UE” w przypadku zezwolenia rezydenta długoterminowego UE udzielonego cudzoziemcowi, który posiadał zezwolenie na zamieszkanie na czas oznaczony udzielone na podstawie art. 63a. ” ;
 - **9)** w art. 89 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 - **4)** cudzoziemiec posiada ważne zezwolenie pobytowe lub inne zezwolenie uprawniające do pobytu, wydane przez inne państwo obszaru Schengen i jego dalszy pobyt nie stanowi zagrożenia dla obronności lub bezpieczeństwa państwa lub bezpieczeństwa i porządku publicznego, chyba że nie udał się niezwłocznie na terytorium tego państwa obszaru Schengen po pouczeniu go o tym obowiązku przez organ właściwy do wydania decyzji o wydaleniu. ” ;
-- **10)** w art. 90: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) określa się termin dobrowolnego opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej, który wynosi od 7 do 30 dni, z wyłączeniem przypadków, w których decyzja podlega przymusowemu wykonaniu na podstawie art. 95; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) orzeka się o zakazie ponownego wjazdu na terytorium Rzeczypospolitej Polskiej lub na terytorium Rzeczypospolitej Polskiej i państw obszaru Schengen, i określa okres tego zakazu. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **10)** w art. 90: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** określa się termin dobrowolnego opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej, który wynosi od 7 do 30 dni, z wyłączeniem przypadków, w których decyzja podlega przymusowemu wykonaniu na podstawie art. 95; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** orzeka się o zakazie ponownego wjazdu na terytorium Rzeczypospolitej Polskiej lub na terytorium Rzeczypospolitej Polskiej i państw obszaru Schengen, i określa okres tego zakazu. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **b)**
 
 1a. Termin, o którym mowa w ust. 1 pkt 1, może być przedłużony jednorazowo do 1 roku, jeżeli przepisy polskiego prawa wymagają od cudzoziemca osobistego stawiennictwa przed polskim organem władzy publicznej lub obecności cudzoziemca na terytorium Rzeczypospolitej Polskiej wymaga jego wyjątkowa sytuacja osobista lub interes Rzeczypospolitej Polskiej.
@@ -210,18 +214,21 @@ source: "eli-html"
 
 3a. Małoletni przebywający w strzeżonym ośrodku może uczestniczyć, w czasie i miejscu określonych przez kierownika ośrodka lub funkcjonariusza odpowiadającego za jego funkcjonowanie, w zajęciach dydaktyczno-wychowawczych i rekreacyjno-sportowych. Program zajęć powinien być dostosowany do wieku małoletniego i długości jego pobytu na terytorium Rzeczypospolitej Polskiej. ” ;
 
-- **18)** w art. 128: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) została wydana decyzja zawierająca orzeczenie o zakazie ponownego wjazdu na terytorium Rzeczypospolitej Polskiej lub na terytorium Rzeczypospolitej Polskiej i państw obszaru Schengen; ” , – uchyla się pkt 2, w ust. 1a w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **18)** w art. 128: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** została wydana decyzja zawierająca orzeczenie o zakazie ponownego wjazdu na terytorium Rzeczypospolitej Polskiej lub na terytorium Rzeczypospolitej Polskiej i państw obszaru Schengen; ” , – uchyla się pkt 2, w ust. 1a w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
     - **b)**
 
 - **3)** przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na zamieszkanie na czas oznaczony udzielonego na podstawie art. 53 ust. 1 pkt 15 lub art. 53a ust. 2 pkt 4, chyba że jego pobyt na terytorium Rzeczypospolitej Polskiej stanowi zagrożenie dla obronności lub bezpieczeństwa państwa albo bezpieczeństwa i porządku publicznego. ” , ust. 1b otrzymuje brzmienie: „
     - **c)**
 
-1b. Jeżeli decyzji, o której mowa w ust. 1 pkt 1, nadano rygor natychmiastowej wykonalności, dane cudzoziemca można umieścić w wykazie na podstawie tej decyzji, nawet jeżeli nie jest ona ostateczna. ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) określony w decyzji zawierającej orzeczenie o zakazie ponownego wjazdu na terytorium Rzeczypospolitej Polskiej lub na terytorium Rzeczypospolitej Polskiej i państw obszaru Schengen; ” , – uchyla się pkt 2–4, uchyla się ust. 3a, ust. 4 otrzymuje brzmienie: „
+1b. Jeżeli decyzji, o której mowa w ust. 1 pkt 1, nadano rygor natychmiastowej wykonalności, dane cudzoziemca można umieścić w wykazie na podstawie tej decyzji, nawet jeżeli nie jest ona ostateczna. ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
 
 - **d)**
-- **e)**
-- **f)**
+- **1)** określony w decyzji zawierającej orzeczenie o zakazie ponownego wjazdu na terytorium Rzeczypospolitej Polskiej lub na terytorium Rzeczypospolitej Polskiej i państw obszaru Schengen; ” , – uchyla się pkt 2–4, uchyla się ust. 3a, ust. 4 otrzymuje brzmienie: „
+    - **e)**
+    - **f)**
 
 4. Dane cudzoziemca wykreśla się z wykazu po upływie okresów, o których mowa w ust. 3, oraz gdy decyzja orzekająca o cofnięciu zakazu ponownego wjazdu na terytorium Rzeczypospolitej Polskiej lub na terytorium Rzeczypospolitej Polskiej i państw obszaru Schengen stała się ostateczna. ” ;
 
@@ -240,7 +247,7 @@ source: "eli-html"
 - **22)** w art. 134a pkt 1 otrzymuje brzmienie: „
 - **1)** art. 128 ust. 1 pkt 1 z wyłączeniem danych cudzoziemca, który otrzymał decyzję zawierającą orzeczenie o zakazie ponownego wjazdu jedynie na terytorium Rzeczypospolitej Polskiej, ” .
 
-**Art. 2.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.) w art. 87 w ust. 1 po pkt 11 dodaje się pkt 11a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 205, poz. 1206 i 1211 i Nr 291, poz. 1707.) w art. 87 w ust. 1 po pkt 11 dodaje się pkt 11a w brzmieniu: „
 
 - **11a)** posiada w Rzeczypospolitej Polskiej zezwolenie na zamieszkanie na czas oznaczony udzielone w związku z okolicznością, o której mowa w art. 63a ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach; ” .
 
@@ -258,5 +265,5 @@ source: "eli-html"
 - **1)** wjazd lub pobyt cudzoziemca stanowiłby zagrożenie dla obronności lub bezpieczeństwa państwa albo bezpieczeństwa i porządku publicznego albo naruszałby interes Rzeczypospolitej Polskiej lub
 - **2)** cudzoziemiec nie uiścił kosztów wydalenia, które był obowiązany ponieść.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia: 1) dyrektywy Parlamentu Europejskiego i Rady 2008/115/WE z dnia 16 grudnia 2008 r. w sprawie wspólnych norm i procedur stosowanych przez państwa członkowskie w odniesieniu do powrotów nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 348 z 24.12.2008, str. 98) oraz 2) dyrektywy Rady 2009/50/WE z dnia 25 maja 2009 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w celu podjęcia pracy w zawodzie wymagającym wysokich kwalifikacji (Dz. Urz. UE L 155 z 18.06.2009, str. 17). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001, Nr 187, poz. 1112 i Nr 205, poz. 1203 oraz z 2012 r. poz. 118 i 251. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 205, poz. 1206 i 1211 i Nr 291, poz. 1707.
 

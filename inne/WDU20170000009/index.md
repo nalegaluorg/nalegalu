@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 28 grudnia 2016 r. w sprawie trybu składania i rozpatrywania wniosków o dofinansowanie programów polityki zdrowotnej realizowanych przez jednostkę samorządu terytorialnego oraz trybu rozliczania przekazanych środków i zwrotu środków niewykorzystanych lub wykorzystanych niezgodnie z przeznaczeniem
+# Rozporządzenie Ministra Zdrowiaz dnia 28 grudnia 2016 r. w sprawie trybu składania i rozpatrywania wniosków o dofinansowanie programów polityki zdrowotnej realizowanych przez jednostkę samorządu terytorialnego oraz trybu rozliczania przekazanych środków i zwrotu środków niewykorzystanych lub wykorzystanych niezgodnie z przeznaczeniem Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-28 |
 | Data wydania | 2017-01-03 |
-| Wejście w życie | 2017-01-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/9/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 48d ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48d ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa tryb:
 1)
@@ -99,6 +98,5 @@ Zwrot niewykorzystanych środków następuje w terminach określonych w ust. 2.
 § 9.
 Termin składania wniosków na 2017 r. upływa z dniem 15 marca 2017 r.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250.
 

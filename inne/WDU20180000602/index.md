@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-12 |
 | Data wydania | 2018-03-23 |
-| Wejście w życie | 2018-04-07 |
 | Ostatnia zmiana | 2025-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/602/text.pdf) |
 
@@ -234,5 +233,5 @@ Z przeprowadzenia poszczególnych etapów konkursu sporządza się protokół, k
 2.
 Niezwłocznie po ogłoszeniu wyników konkursu przewodniczący komisji przekazuje Dyrektorowi Krajowej Szkoły protokoły przebiegu konkursu wraz z pełną dokumentacją.
 § 27.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 grudnia 2015 r. w sprawie szczegółowych warunków i trybu przeprowadzania naboru dla kandydatów na aplikację sędziowską i aplikację prokuratorską oraz trybu powoływania i działania zespołu konkursowego i komisji konkursowej (Dz. U. z 2016 r. poz. 20), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 24 ust. 1 ustawy z dnia 11 maja 2017 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury, ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1139). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 grudnia 2015 r. w sprawie szczegółowych warunków i trybu przeprowadzania naboru dla kandydatów na aplikację sędziowską i aplikację prokuratorską oraz trybu powoływania i działania zespołu konkursowego i komisji konkursowej (Dz. U. z 2016 r. poz. 20), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 24 ust. 1 ustawy z dnia 11 maja 2017 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury, ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1139).
 

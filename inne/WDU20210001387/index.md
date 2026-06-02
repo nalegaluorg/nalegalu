@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-27 |
 | Data wydania | 2021-07-30 |
-| Wejście w życie | 2021-08-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001387) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1387/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) po § 13zi dodaje § 13zj i § 13zk w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354 oraz z 2021 r. poz. 926 i 1311.) po § 13zi dodaje § 13zj i § 13zk w brzmieniu: „
 § 13zj.
 1.
 W 2021 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
@@ -108,8 +106,7 @@ Agencja udziela w 2021 r. pomocy finansowej na realizację innych zadań wynikaj
 1)
 któremu został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności,
 2)
-będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia nr 702/2014
-na sfinansowanie wpłaty niewpłaconej części udziałów w spółdzielniach prowadzących działalność w zakresie przetwórstwa produktów rolnych.
+będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia nr 702/2014 – na sfinansowanie wpłaty niewpłaconej części udziałów w spółdzielniach prowadzących działalność w zakresie przetwórstwa produktów rolnych.
 2.
 Pomoc, o której mowa w ust. 1 pkt 1, ma charakter pomocy de minimis i jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
 3.
@@ -143,8 +140,7 @@ Pomoc, o której mowa w ust. 1, podlega zwrotowi na rachunek Agencji w przypadku
 1)
 gdy wysokość wpłaty niewpłaconej części udziałów w spółdzielni prowadzącej działalność w zakresie przetwórstwa produktów rolnych jest niższa niż kwota otrzymanej pomocy – w wysokości stanowiącej różnicę między kwotą otrzymanej pomocy a wysokością tej wpłaty wynikającą z dokumentów, o których mowa w ust. 9;
 2)
-braku dostarczenia do dnia 15 października 2021 r. dokumentów, o których mowa w ust. 9 – w pełnej wysokości.
-” .
+braku dostarczenia do dnia 15 października 2021 r. dokumentów, o których mowa w ust. 9 – w pełnej wysokości. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354 oraz z 2021 r. poz. 926 i 1311.
 

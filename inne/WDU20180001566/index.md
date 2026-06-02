@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 27 lipca 2018 r. w sprawie szczegółowego zakresu działania Naczelnego Dyrektora Archiwów Państwowych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 27 lipca 2018 r. w sprawie szczegółowego zakresu działania Naczelnego Dyrektora Archiwów Państwowych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-27 |
 | Data wydania | 2018-08-14 |
-| Wejście w życie | 2018-08-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001566) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1566/text.pdf) |
 
@@ -120,6 +119,5 @@ opracowuje projekt statutu Naczelnej Dyrekcji Archiwów Państwowych.
 § 3.
 W sprawach, o których mowa w § 1 i 2, Naczelny Dyrektor Archiwów Państwowych współdziała z właściwymi organami administracji publicznej, organizacjami społecznymi i innymi oraz ze związkami zawodowymi.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki, Szkolnictwa Wyższego i Techniki z dnia 25 lipca 1984 r. w sprawie szczegółowego zakresu działania Naczelnego Dyrektora Archiwów Państwowych (Dz. U. poz. 218), które utraciło moc z dniem 20 grudnia 2017 r. na podstawie art. 65 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. poz. 1086 oraz z 2018 r. poz. 770).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki, Szkolnictwa Wyższego i Techniki z dnia 25 lipca 1984 r. w sprawie szczegółowego zakresu działania Naczelnego Dyrektora Archiwów Państwowych (Dz. U. poz. 218), które utraciło moc z dniem 20 grudnia 2017 r. na podstawie art. 65 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. poz. 1086 oraz z 2018 r. poz. 770). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki, Szkolnictwa Wyższego i Techniki z dnia 25 lipca 1984 r. w sprawie szczegółowego zakresu działania Naczelnego Dyrektora Archiwów Państwowych (Dz. U. poz. 218), które utraciło moc z dniem 20 grudnia 2017 r. na podstawie art. 65 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. poz. 1086 oraz z 2018 r. poz. 770).
 

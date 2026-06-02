@@ -42,8 +42,7 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 21 maja 2013 r. zmienia
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2–5 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 listopada 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 261, poz. 1563), które stanowią:
-„
+§ 2–5 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 listopada 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 261, poz. 1563), które stanowią: „
 § 2.
 Do postępowań w sprawie przyznania pomocy finansowej na realizację operacji wymienionych w § 1 pkt 1 lit. a-d rozporządzenia, o którym mowa w § 1, stosuje się przepisy dotychczasowe, jeżeli postępowanie zostało wszczęte w terminie określonym w informacji o możliwości składania wniosków o dofinansowanie tych operacji, a informacja o możliwości składania wniosków o dofinansowanie tych operacji została podana do publicznej wiadomości najpóźniej w dniu wejścia w życie niniejszego rozporządzenia.
 § 3.
@@ -51,17 +50,14 @@ Do postępowań w sprawie przyznania pomocy finansowej na 2011 r. na realizację
 § 4.
 Do postępowań w sprawie przyznania pomocy finansowej na realizację operacji, o których mowa w § 1 pkt 2 rozporządzenia, o którym mowa w § 1, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy, na podstawie której jest przyznawana pomoc, stosuje się przepisy dotychczasowe.
 § 5.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 maja 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 601), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 maja 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 601), które stanowią: „
 § 2.
 Do postępowań w sprawach przyznania pomocy finansowej na realizację operacji, o których mowa w § 1 pkt 1 lit. a-d rozporządzenia, o którym mowa w § 1, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy, na podstawie której jest przyznawana pomoc, stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 października 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 października 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”Minister Rolnictwa i Rozwoju Wsi kierował działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486).
 Na podstawie art. 19 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. Nr 72, poz. 619 i Nr 157, poz. 1241) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty oraz zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013”, zwanym dalej „programem”, obejmującą następujące środki:
@@ -69,11 +65,11 @@ Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty ora
 rozwój obszarów zależnych od rybactwa, w ramach którego mogą być realizowane operacje polegające na:
 a)
 wzmocnieniu konkurencyjności i utrzymaniu atrakcyjności obszarów zależnych od rybactwa,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 listopada 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013"(Dz. U. Nr 261, poz. 1563), które weszło w życie z dniem 2 grudnia 2011 r.)
 restrukturyzacji lub reorientacji działalności gospodarczej, lub dywersyfikacji zatrudnienia osób mających pracę związaną z sektorem rybactwa, w drodze tworzenia dodatkowych miejsc pracy poza tym sektorem,
 c)
 podnoszeniu wartości produktów rybactwa, rozwoju usług na rzecz społeczności zamieszkującej obszary zależne od rybactwa,
-d)
+dW brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 ochronie środowiska lub dziedzictwa przyrodniczego na obszarach zależnych od rybactwa w celu utrzymania jego atrakcyjności lub przywrócenia potencjału produkcyjnego sektora rybactwa, w przypadku jego zniszczenia w wyniku klęski żywiołowej,
 e)
 funkcjonowaniu lokalnej grupy rybackiej, zwanej dalej „LGR”, oraz nabywaniu umiejętności i aktywizacji lokalnych społeczności;
@@ -85,7 +81,7 @@ Pomoc finansowa, o której mowa w § 1, zwana dalej „pomocą”, jest przyznaw
 na realizację operacji, która:
 a)
 jest zgodna z lokalną strategią rozwoju obszarów rybackich, zwaną dalej „LSROR”,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 będzie realizowana na obszarze gmin objętych LSROR – w przypadku operacji wymienionych w § 1 pkt 1 lit. a-d, z wyłączeniem operacji, o których mowa w § 3 ust. 1 pkt 9 i § 4 ust. 1 pkt 5,
 c)
 została wybrana przez LGR – w przypadku operacji wymienionych w § 1 pkt 1 lit. a-d,
@@ -93,7 +89,7 @@ d)
 spełnia inne warunki określone w rozporządzeniu;
 2)
 wnioskodawcy, o którym mowa w art. 9 pkt 1 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, zwanej dalej „ustawą”, jeżeli spełnia on warunki określone w rozporządzeniu;
-3)
+3Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 do wysokości limitu dostępnych środków finansowych wskazanego w informacji o możliwości składania, za pośrednictwem danej LGR, wniosków o dofinansowanie operacji wymienionych w § 1 pkt 1 lit. a-d.
 § 3.
 1.
@@ -102,49 +98,49 @@ Pomoc na realizację operacji polegającej na wzmocnieniu konkurencyjności i ut
 adaptację i wyposażenie miejsc, w których będą świadczone usługi dostępu do sieci Internet, lub
 2)
 poprawę funkcjonowania transportu publicznego przez budowę, przebudowę, remont lub odbudowę obiektów małej architektury służących wykonywaniu działalności związanej z tym transportem, lub
-3)
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 rewitalizację miejscowości w wyniku realizacji operacji polegającej w szczególności na remoncie chodników, parkingów, placów, ścieżek rowerowych, terenów zielonych, parków, budynków i obiektów publicznych pełniących funkcje społeczno-kulturalne, sportowe i rekreacyjne lub ich wyposażeniu, lub
-4)
+4W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 remont, odbudowę, przebudowę lub wyposażenie obiektów wpisanych do rejestru zabytków lub objętych wojewódzką ewidencją zabytków, lub
 5)
 organizowanie kół zainteresowań dla dzieci i młodzieży, lub
-6)
+6W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 budowę, remont lub przebudowę małej infrastruktury turystycznej, w szczególności przystani, kąpielisk, punktów widokowych, miejsc wypoczynkowych, tras turystycznych, łowisk dla wędkarzy i punktów informacji turystycznej, wraz ze ścieżkami i drogami dojazdowymi do miejsc objętych inwestycją, lub
-7)
+7W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 dostosowanie do potrzeb osób niepełnosprawnych obiektów turystycznych, rekreacyjno-sportowych lub obiektów, w których jako podstawowa jest prowadzona działalność kulturalna w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2012 r. poz. 406 oraz z 2014 r. poz. 423), lub
-8)
+8W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 tworzenie lub rozwój muzeów, izb regionalnych, izb pamięci lub skansenów mających na celu zachowanie lub prezentowanie lokalnego rzemiosła, historii, sztuki i obyczajów, w szczególności związanych z tradycjami rybackimi, lub
 9)
 promocję obszaru objętego LSROR;
-10)
+10Dodany przez § 1 pkt 3 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 popularyzację rybactwa związaną z obszarem objętym LSROR.
-1a.
+1aDodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na realizację operacji polegających na wzmocnieniu konkurencyjności i utrzymaniu atrakcyjności obszarów zależnych od rybactwa jest przyznawana na operacje o charakterze niezarobkowym.
 2.
 Pomoc na realizację operacji polegającej na wzmocnieniu konkurencyjności i utrzymaniu atrakcyjności obszarów zależnych od rybactwa przyznaje się w formie zwrotu kosztów kwalifikowalnych w wysokości do 85% tych kosztów.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na realizację operacji polegających na wzmocnieniu konkurencyjności i utrzymaniu atrakcyjności obszarów zależnych od rybactwa przyznaje się do wysokości limitu, który w okresie realizacji programu wynosi 3 000 000 zł na jednego beneficjenta, z tym że pomoc na jedną operację nie może przekroczyć 1 500 000 zł.
 § 4.
 1.
-Pomoc na realizację operacji polegającej na restrukturyzacji lub reorientacji działalności gospodarczej, lub dywersyfikacji zatrudnienia osób mających pracę związaną z sektorem rybactwa, w drodze tworzenia dodatkowych miejsc pracy poza tym sektorem, obejmuje:
+Pomoc na realizację operacji polegającej na restrukturyzacji lub reorientacji działalności gospodarczej, lub dywersyfikacji zatrudnienia osób mających pracę związaną z sektorem rybactwa, w drodze tworzenia dodatkowych miejsc pracy poza tym sektorem, obejmuje:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
 1)
 budowę, przebudowę lub rozbiórkę obiektów, w których ma być lub jest prowadzona działalność gospodarcza, lub unieszkodliwianie odpadów pochodzących z rozbiórki lub
-2)
+2W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 zagospodarowanie terenu, na którym ma być lub jest prowadzona działalność gospodarcza, lub
 3)
 wyposażenie obiektów, w których ma być lub jest prowadzona działalność gospodarcza, w zakresie niezbędnym do jej prowadzenia, lub
-4)
+4W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 remont lub adaptację statku rybackiego, na którym jest prowadzona działalność gospodarcza, lub zakup lub budowę nowej jednostki pływającej, na której ma być prowadzona działalność gospodarcza, lub
-5)
+5W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 udział w kursach, szkoleniach, stażach i innych formach kształcenia, mających na celu zmianę kwalifikacji zawodowych, lub
-6)
+6Dodany przez § 1 pkt 4 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2.)
 zakup maszyn, urządzeń lub środków transportu, przeznaczonych do prowadzenia działalności gospodarczej, z wyłączeniem zakupu samochodów osobowych.
 2.
-Pomoc na realizację operacji polegającej na restrukturyzacji lub reorientacji działalności gospodarczej, lub dywersyfikacji zatrudnienia osób mających pracę związaną z sektorem rybactwa, w drodze tworzenia dodatkowych miejsc pracy poza tym sektorem, jest przyznawana wnioskodawcy, jeżeli:
+Pomoc na realizację operacji polegającej na restrukturyzacji lub reorientacji działalności gospodarczej, lub dywersyfikacji zatrudnienia osób mających pracę związaną z sektorem rybactwa, w drodze tworzenia dodatkowych miejsc pracy poza tym sektorem, jest przyznawana wnioskodawcy, jeżeli:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
 1)
 prowadzi działalność na obszarze gmin objętych LSROR:
-a)
-w zakresie chowu, hodowli lub połowu ryb jako uprawniony do rybactwa, o którym mowa w art. 4 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.), z wyłączeniem organu administracji publicznej wykonującego uprawnienia właściciela wody w zakresie rybactwa śródlądowego, lub
+aW brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
+w zakresie chowu, hodowli lub połowu ryb jako uprawniony do rybactwa, o którym mowa w art. 4 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158.), z wyłączeniem organu administracji publicznej wykonującego uprawnienia właściciela wody w zakresie rybactwa śródlądowego, lub
 b)
 jako podmiot, któremu wydano zezwolenie na prowadzenie chowu lub hodowli ryb w polskich obszarach morskich na podstawie przepisów o rybołówstwie, lub
 c)
@@ -159,20 +155,20 @@ b)
 na który została wydana licencja połowowa i licencja ta nie została zawieszona albo cofnięta,
 c)
 którego port macierzysty znajduje się na obszarze gmin objętych LSROR, lub
-3)
+3W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 uzyskał pomoc z tytułu trwałego wycofania statku rybackiego w ramach działania 1.1 lub działania 1.2 Sektorowego Programu Operacyjnego „Rybołówstwo i przetwórstwo ryb 2004–2006” lub w ramach środka pomoc publiczna z tytułu trwałego zaprzestania działalności połowowej objętego osią priorytetową 1 – Środki na rzecz dostosowania floty rybackiej, zawartą w programie, i mieszka albo ma siedzibę na obszarze gmin objętych LSROR, lub
 4)
 będąc osobą fizyczną zamieszkałą na obszarze gmin objętych LSROR, utracił miejsce pracy w wyniku trwałego zaprzestania działalności połowowej przy użyciu statku rybackiego lub w wyniku zaprzestania prowadzenia działalności przez podmioty wymienione w pkt 1.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na realizację operacji polegającej na restrukturyzacji lub reorientacji działalności gospodarczej, lub dywersyfikacji zatrudnienia osób mających pracę związaną z sektorem rybactwa, w drodze tworzenia dodatkowych miejsc pracy poza tym sektorem, przyznaje się w formie zwrotu kosztów kwalifikowalnych w wysokości do 60% tych kosztów.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na realizację operacji polegającej na restrukturyzacji lub reorientacji działalności gospodarczej, lub dywersyfikacji zatrudnienia osób mających pracę związaną z sektorem rybactwa, w drodze tworzenia dodatkowych miejsc pracy poza tym sektorem, przyznaje się do wysokości limitu, który w okresie realizacji programu wynosi 900 000 zł na jednego beneficjenta, z tym że pomoc na jedną operację nie może przekroczyć 450 000 zł.
 § 5.
 1.
 Pomoc na realizację operacji polegającej na podnoszeniu wartości produktów rybactwa, rozwoju usług na rzecz społeczności zamieszkującej obszary zależne od rybactwa obejmuje:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 tworzenie lub rozwój systemów sprzedaży produktów rybactwa, prowadzonej zgodnie z rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2006 r. w sprawie wymagań weterynaryjnych przy produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej (Dz. U. z 2007 r. Nr 5, poz. 38) lub rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2010 r. w sprawie szczegółowych warunków uznania działalności marginalnej, lokalnej i ograniczonej (Dz. U. Nr 113, poz. 753), lub
-2)
+2Ze zmianami wprowadzonymi przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 podejmowanie lub rozwój działalności gospodarczej polegającej na produkcji lub świadczeniu usług na rzecz lokalnej społeczności, w szczególności w zakresie:
 a)
 konserwacji i naprawy pojazdów samochodowych lub
@@ -198,16 +194,16 @@ k)
 wykonywania robót budowlanych wykończeniowych,
 l)
 działalności związanej z zakwaterowaniem lub usługami gastronomicznymi.
-1a.
-Pomoc na realizację operacji polegającej na rozwoju usług na rzecz społeczności zamieszkującej obszary zależne od rybactwa przyznaje się podmiotowi prowadzącemu przedsiębiorstwo określone w art. 3 lit. f rozporządzenia Rady (WE) nr 1198/2006 z dnia 27 lipca 2006 r. w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 223 z 15.08.2006, str. 1), zwanego dalej „rozporządzeniem nr 1198/2006”.
+1aDodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2..
+Pomoc na realizację operacji polegającej na rozwoju usług na rzecz społeczności zamieszkującej obszary zależne od rybactwa przyznaje się podmiotowi prowadzącemu przedsiębiorstwo określone w art. 3 lit. f rozporządzenia Rady (WE) nr 1198/2006 z dnia 27 lipca 2006 r. w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 223 z 15.08.2006, str. 1)Uchylone z dniem 1 stycznia 2014 r. na podstawie art. 128 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzanie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1); odesłania do uchylonego rozporządzenia traktuje się jako odniesienia do uchylającego rozporządzenia., zwanego dalej „rozporządzeniem nr 1198/2006”.
 2.
 Pomoc na realizację operacji polegającej na podnoszeniu wartości produktów rybactwa, rozwoju usług na rzecz społeczności zamieszkującej obszary zależne od rybactwa przyznaje się w formie zwrotu kosztów kwalifikowalnych w wysokości do 60% tych kosztów.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na realizację operacji polegających na podnoszeniu wartości produktów rybactwa, rozwoju usług na rzecz społeczności zamieszkującej obszary zależne od rybactwa przyznaje się do wysokości limitu, który w okresie realizacji programu wynosi 600 000 zł na jednego beneficjenta, z tym że pomoc na jedną operację nie może przekroczyć 300 000 zł.
 § 6.
 1.
-Pomoc na realizację operacji polegającej na ochronie środowiska lub dziedzictwa przyrodniczego na obszarach zależnych od rybactwa w celu utrzymania jego atrakcyjności lub przywrócenia potencjału produkcyjnego sektora rybactwa, w przypadku jego zniszczenia w wyniku klęski żywiołowej, obejmuje:
-1)
+Pomoc na realizację operacji polegającej na ochronie środowiska lub dziedzictwa przyrodniczego na obszarach zależnych od rybactwa w celu utrzymania jego atrakcyjności lub przywrócenia potencjału produkcyjnego sektora rybactwa, w przypadku jego zniszczenia w wyniku klęski żywiołowej, obejmuje:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
+1Ze zmianami wprowadzonymi przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 inwestycje melioracyjne związane z:
 a)
 rekultywacją, w tym renaturyzacją i utrzymaniem, zbiorników wodnych lub
@@ -218,9 +214,8 @@ regulacją możliwości retencyjnych wód przez realizację programu małej rete
 d)
 (uchylona),
 e)
-ukształtowaniem trasy regulacyjnej linii brzegowej
-z wyłączeniem inwestycji melioracyjnych na terenach, na których jest prowadzona działalność polegająca na chowie i hodowli ryb lub innych organizmów wodnych, lub
-2)
+ukształtowaniem trasy regulacyjnej linii brzegowej – z wyłączeniem inwestycji melioracyjnych na terenach, na których jest prowadzona działalność polegająca na chowie i hodowli ryb lub innych organizmów wodnych, lub
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 budowę, odbudowę, rozbudowę lub zabezpieczenie szlaków wodnych, lub
 3)
 zachowanie różnorodności biologicznej i chronionych gatunków ryb lub innych organizmów wodnych, lub
@@ -230,13 +225,13 @@ zachowanie i zabezpieczenie obszarów objętych szczególnymi formami ochrony pr
 renowację, zabezpieczenie i oznakowanie kąpielisk, lub
 6)
 zabezpieczenie i oznakowanie pomników przyrody, lub
-7)
+7W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2.)
 remont lub odbudowę budynków lub budowli lub remont lub wymianę instalacji i urządzeń technicznych znajdujących się w tych budynkach lub budowlach związanych z prowadzeniem działalności rybackiej, uszkodzonych albo zniszczonych w wyniku klęski żywiołowej, lub ich wyposażenie w zakresie niezbędnym do prowadzenia działalności rybackiej, lub
 8)
 zabiegi związane z usuwaniem szkód powstałych w wyniku klęsk żywiołowych w wodach śródlądowych i morskich oraz odtworzenie pierwotnego stanu środowiska tych obszarów.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na realizację operacji polegającej na ochronie środowiska lub dziedzictwa przyrodniczego na obszarach zależnych od rybactwa w celu utrzymania jego atrakcyjności lub przywrócenia potencjału produkcyjnego sektora rybactwa, w przypadku jego zniszczenia w wyniku klęski żywiołowej, przyznaje się w formie zwrotu kosztów kwalifikowalnych w wysokości do 85% tych kosztów.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na realizację operacji polegających na ochronie środowiska lub dziedzictwa przyrodniczego na obszarach zależnych od rybactwa w celu utrzymania jego atrakcyjności lub przywrócenia potencjału produkcyjnego sektora rybactwa, w przypadku jego zniszczenia w wyniku klęski żywiołowej, przyznaje się do wysokości limitu, który w okresie realizacji programu wynosi 2 000 000 zł na jednego beneficjenta, z tym że pomoc na jedną operację nie może przekroczyć 1 000 000 zł.
 § 7.
 Pomoc na realizację operacji polegającej na funkcjonowaniu LGR oraz nabywaniu umiejętności i aktywizacji lokalnych społeczności obejmuje:
@@ -254,11 +249,11 @@ realizację wydarzeń promocyjnych lub kulturalnych związanych z obszarem obję
 działania aktywizujące lokalne społeczności.
 § 8.
 Pomoc na realizację operacji polegającej na promowaniu współpracy międzyregionalnej lub międzynarodowej między LGR obejmuje:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 organizację spotkań, szkoleń, konferencji i wyjazdów studyjnych, mających na celu nawiązanie współpracy, zdobycie wiedzy, wymianę informacji i doświadczeń lub realizację wspólnego przedsięwzięcia, lub udział w takich spotkaniach, szkoleniach, konferencjach i wyjazdach studyjnych lub
 2)
 prowadzenie działań mających na celu promocję i rozwój obszarów zależnych od rybactwa;
-3)
+3Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 organizację staży i praktyk:
 a)
 dla członków lub pracowników LGR w celu nabywania doświadczeń i umiejętności związanych z realizacją operacji, o których mowa w § 1 pkt 1 lit. e,
@@ -272,7 +267,7 @@ Pomoc na realizację operacji polegającej na funkcjonowaniu LGR oraz nabywaniu 
 3.
 Pomoc na realizację operacji polegających na funkcjonowaniu LGR oraz nabywaniu umiejętności i aktywizacji lokalnych społeczności lub promowaniu współpracy międzyregionalnej lub międzynarodowej między LGR przyznaje się do wysokości limitu dostępnych środków, określonego w umowie o warunkach i sposobie realizacji LSROR zawartej między LGR a instytucją zarządzającą, z tym że koszty kwalifikowalne poniesione w celu przygotowania LSROR podlegają zwrotowi do wysokości 50 000 zł.
 § 10.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Pomoc na realizację operacji wymienionych w § 1 pkt 1 lit. a-d jest przyznawana, jeżeli operacja polegająca na realizacji inwestycji:
 1)
 przyczyni się do powstania trwałych korzyści gospodarczych;
@@ -282,14 +277,14 @@ będzie zrealizowana z zapewnieniem należytych gwarancji technicznych;
 ma zapewnioną gospodarczą trwałość;
 4)
 nie wpłynie negatywnie na środowisko oraz ochronę żywych zasobów wód.
-2.
+2Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2..
 Nie polegają na realizowaniu inwestycji operacje wymienione w § 3 ust. 1 pkt 5 i 9, § 4 ust. 1 pkt 5 oraz § 7 pkt 2–6.
 § 11.
 1.
 Powstanie trwałych korzyści gospodarczych stwierdza się na podstawie informacji zawartych w uproszczonym planie biznesowym operacji.
 2.
 Plan biznesowy, o którym mowa w ust. 1, wnioskodawca sporządza na podstawie wzoru opracowanego i udostępnionego przez instytucję zarządzającą.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2..
 Trwałe korzyści gospodarcze powstaną, gdy proponowany przez wnioskodawcę sposób finansowania i realizacji operacji nie spowoduje utraty płynności finansowej tego wnioskodawcy w okresie 3 lat, licząc od roku, w którym wniosek o dofinansowanie został zaakceptowany.
 § 12.
 Zapewnienie należytych gwarancji technicznych operacji stwierdza się na podstawie:
@@ -302,19 +297,19 @@ Realizacja operacji ma zapewnioną gospodarczą trwałość, jeżeli założono 
 § 14.
 Wpływ operacji na środowisko ustala się w postępowaniu w sprawie oceny oddziaływania na środowisko planowanych przedsięwzięć, jeżeli obowiązek taki wynika z przepisów o ochronie środowiska.
 § 15.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 maja 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 601), które weszło w życie z dniem 24 maja 2013 r.
 § 16.
-1.
-Do kosztów kwalifikowalnych operacji zalicza się koszty faktycznie poniesione przez beneficjenta od dnia przyznania pomocy z tytułu realizacji tej operacji, w tym także podatek od towarów i usług (VAT) na zasadach określonych w art. 55 ust. 5 rozporządzenia nr 1198/2006 .
+1W brzmieniu ustalonym przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 2..
+Do kosztów kwalifikowalnych operacji zalicza się koszty faktycznie poniesione przez beneficjenta od dnia przyznania pomocy z tytułu realizacji tej operacji, w tym także podatek od towarów i usług (VAT) na zasadach określonych w art. 55 ust. 5 rozporządzenia nr 1198/2006 Uchylone z dniem 1 stycznia 2014 r. na podstawie art. 128 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzanie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1); odesłania do uchylonego rozporządzenia traktuje się jako odniesienia do uchylającego rozporządzenia..
 2.
 W przypadku przyznania pomocy, do kosztów kwalifikowalnych zalicza się również koszty kwalifikowalne poniesione przed dniem przyznania pomocy, lecz nie wcześniej niż w dniu:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 10 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 zawarcia przez LGR umowy, o której mowa w art. 17 ust. 1 ustawy – w przypadku operacji, o których mowa w § 1 pkt 1 lit. a-d;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 10 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 1 stycznia roku, na który pomoc jest przyznawana – w przypadku operacji, o której mowa w § 1 pkt 1 lit. e;
-3)
+3Dodany przez § 1 pkt 10 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 złożenia wniosku o dofinansowanie – w przypadku operacji, o której mowa w § 1 pkt 2;
-4)
+4Dodany przez § 1 pkt 10 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 29 maja 2009 r. – w przypadku kosztów kwalifikowalnych poniesionych w celu przygotowania LSROR.
 § 17.
 Do kosztów kwalifikowalnych operacji nie zalicza się kosztów:
@@ -343,40 +338,39 @@ amortyzacji środków trwałych, jeżeli beneficjent nie przedstawił pisemnego 
 5)
 pracy własnej wykonywanej przez beneficjenta będącego osobą fizyczną i pracy wolontariuszy;
 6)
-ogólnych realizacji operacji, w tym kosztów połączeń telefonicznych, opłat za zużytą wodę, energię elektryczną i nośniki energii:
+ogólnych realizacji operacji, w tym kosztów połączeń telefonicznych, opłat za zużytą wodę, energię elektryczną i nośniki energii:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 11 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 a)
 powyżej 10% wartości netto operacji,
 b)
 które nie miały bezpośredniego związku z realizacją operacji,
 c)
 które zostały naliczone i wykazane niezgodnie ze sposobem określonym w umowie o dofinansowanie;
-7)
+7Dodany przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 związanych z umową leasingu, w której brak jest postanowień przenoszących na beneficjenta własność rzeczy będących przedmiotem leasingu;
-8)
+8Dodany przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 odsetek, opłat ubezpieczeniowych, marży finansującego, kosztów ogólnych związanych z umową leasingu, w tym również podatku od towarów i usług (VAT);
-9)
+9Dodany przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 nakładu rzeczowego wniesionego w formie:
 a)
 gruntu, budynku lub budowli lub
 b)
-prawa do dysponowania rzeczami, o których mowa w lit. a
-powyżej 10% wartości kosztów kwalifikowalnych danej operacji;
-10)
+prawa do dysponowania rzeczami, o których mowa w lit. a – powyżej 10% wartości kosztów kwalifikowalnych danej operacji;
+10Dodany przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 wynagrodzenia pracowników biura w wysokości przekraczającej kwotę 2,5-krotności średniego wynagrodzenia brutto w gospodarce narodowej, ogłaszanego na podstawie odrębnych przepisów;
-11)
+11Dodany przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 diety członków komitetu w wysokości przekraczającej 200 zł brutto za każdy dzień, w trakcie którego odbywa się posiedzenie komitetu, albo świadczenia za ocenę każdego wniosku o dofinansowanie w wysokości przekraczającej 100 zł brutto i nie więcej niż 1000 zł brutto za ocenę wszystkich wniosków o dofinansowanie złożonych w terminie określonym w informacji o możliwości składania, za pośrednictwem danej LGR, wniosków o dofinansowanie;
-12)
+12Dodany przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 diety członków zarządu w wysokości przekraczającej miesięcznie kwotę średniego wynagrodzenia brutto w gospodarce narodowej, ogłaszanego na podstawie odrębnych przepisów;
-13)
+13Dodany przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 diety członków organu kontroli wewnętrznej w wysokości przekraczającej 150 zł brutto za każdy dzień, w trakcie którego odbywa się posiedzenie tego organu;
-14)
+14Dodany przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 diety z tytułu podróży służbowej pracowników biura, organu kontroli wewnętrznej, innych organów LGR, członków komitetu oraz członków zarządu w wysokości przekraczającej:
 a)
 50 zł brutto na dobę – w przypadku diety z tytułu podróży służbowej na obszarze kraju,
 b)
 200 zł brutto na dobę – w przypadku diety z tytułu podróży służbowej poza granicami kraju.
 § 18.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2..
 Do kosztów kwalifikowalnych zalicza się tylko te nakłady rzeczowe faktycznie wniesione przez beneficjenta, które miały bezpośredni związek z realizacją operacji w ramach środków, o których mowa w § 1, a w przypadku budynku lub budowli wniesionych przez beneficjenta – jeżeli budynek ten lub budowla ta zmieniły swoje przeznaczenie w związku z realizacją operacji.
 2.
 Wartość nakładów rzeczowych zaliczanych do kosztów kwalifikowalnych ustala się:
@@ -398,7 +392,7 @@ dokonania zapłaty przez beneficjenta.
 § 20.
 1.
 Do kosztów kwalifikowalnych operacji nie zalicza się kosztów poniesionych w związku z jej realizacją poza obszarem LSROR.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2..
 Przepisu ust. 1 nie stosuje się do kosztów kwalifikowalnych operacji polegających na:
 1)
 funkcjonowaniu LGR oraz nabywaniu umiejętności i aktywizacji lokalnych społeczności;
@@ -414,13 +408,13 @@ Postępowanie w sprawie przyznania pomocy prowadzi właściwy organ samorządu w
 2.
 Załatwianie spraw związanych z przyznawaniem pomocy, w tym dokonywanie czynności w ramach postępowania w sprawie przyznania pomocy, może być dokonywane przez upoważnionych przez właściwy organ samorządu województwa pracowników urzędu marszałkowskiego albo wojewódzką samorządową jednostkę organizacyjną, zwaną dalej „samorządową jednostką”.
 § 22.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 14 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Organ samorządu województwa, który jest właściwy ze względu na siedzibę LGR, na jej wniosek, podaje do publicznej wiadomości na stronie internetowej administrowanej przez urząd marszałkowski albo samorządową jednostkę i na tablicy znajdującej się w siedzibie tego urzędu albo tej jednostki informację o możliwości składania, za pośrednictwem danej LGR, wniosków o dofinansowanie operacji wymienionych w § 1 pkt 1 lit. a-d.
-1a.
+1aDodany przez § 1 pkt 14 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 We wniosku, o którym mowa w ust. 1, LGR określa planowany termin składania wniosków o dofinansowanie.
-1b.
+1bDodany przez § 1 pkt 14 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 LGR składa wniosek, o którym mowa w ust. 1, w terminie od 60 do 44 dni przed planowanym dniem rozpoczęcia biegu terminu składania wniosków o dofinansowanie.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 14 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 Informacja, o której mowa w ust. 1, jest zamieszczana także przez LGR na jej stronie internetowej oraz na tablicy znajdującej się w jej siedzibie, jak również w prasie o zasięgu obejmującym obszar realizacji LSROR.
 3.
 Informacja, o której mowa w ust. 1, zawiera w szczególności:
@@ -429,14 +423,14 @@ wskazanie terminu składania wniosków o dofinansowanie nie krótszego niż 30 d
 2)
 wskazanie miejsca składania wniosków o dofinansowanie;
 3)
-(uchylony);
+(uchylony);Przez § 1 pkt 14 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
 4)
-(uchylony);
-5)
+(uchylony);Przez § 1 pkt 14 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
+5W brzmieniu ustalonym przez § 1 pkt 14 lit. d tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 wskazanie miejsca, w którym są udostępnione oraz opublikowane wzór wniosku o dofinansowanie, kryteria wyboru operacji przez LGR określone w LSROR i wykaz dokumentów, które dołącza się do wniosku o dofinansowanie, umożliwiających dokonanie oceny i wyboru operacji przez LGR;
 6)
 limit dostępnych środków finansowych.
-3a.
+3aDodany przez § 1 pkt 14 lit. e rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku gdy wniosek, o którym mowa w ust. 1, nie został złożony w terminie, dzień rozpoczęcia biegu terminu, o którym mowa w ust. 3 pkt 1, ustala się na dzień następujący po dniu, w którym upływa 44 dni od dnia złożenia wniosku, o którym mowa w ust. 1.
 4.
 Informację, o której mowa w ust. 1, podaje się do publicznej wiadomości co najmniej 30 dni przed dniem rozpoczęcia terminu składania wniosków o dofinansowanie.
@@ -468,17 +462,17 @@ oświadczenia lub zobowiązania wnioskodawcy związane z pomocą;
 informację o załącznikach dołączonych do wniosku.
 2.
 Do wniosku o dofinansowanie dołącza się dokumenty potwierdzające dane zawarte we wniosku o dofinansowanie, które są określone w załączniku nr 1 do rozporządzenia.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2..
 Wnioskodawca przekazuje LGR informacje o zmianach w zakresie danych objętych wnioskiem o dofinansowanie w terminie 14 dni od dnia zaistnienia tych zmian.
 § 25.
 1.
-LGR dokonuje wyboru operacji wymienionych w § 1 pkt 1 lit. a-d zgodnie z art.45 ust. 4 rozporządzenia nr 1198/2006 :
+LGR dokonuje wyboru operacji wymienionych w § 1 pkt 1 lit. a-d zgodnie z art.45 ust. 4 rozporządzenia nr 1198/2006 Uchylone z dniem 1 stycznia 2014 r. na podstawie art. 128 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzanie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1); odesłania do uchylonego rozporządzenia traktuje się jako odniesienia do uchylającego rozporządzenia.:
 1)
 spośród operacji, które są zgodne z LSROR;
 2)
 na podstawie kryteriów wyboru operacji określonych w LSROR;
 3)
-(uchylony).
+(uchylony).Przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2.
 2.
 W roku, w którym po raz ostatni zostanie podana do publicznej wiadomości informacja o możliwości składania wniosków na realizację operacji, LGR wybiera operacje do wysokości 120% limitu, o którym mowa w § 22 ust. 3 pkt 6.
 § 26.
@@ -495,9 +489,8 @@ W terminie 45 dni od dnia, w którym upłynął termin składania wniosków o do
 1)
 wybranych operacji, ustalając ich kolejność według liczby uzyskanych punktów w ramach oceny spełniania kryteriów wyboru operacji,
 2)
-niewybranych operacji
-uwzględniając także wyniki oceny operacji dokonanej na skutek złożonych odwołań, o których mowa w ust. 1 pkt 3.
-3.
+niewybranych operacji – uwzględniając także wyniki oceny operacji dokonanej na skutek złożonych odwołań, o których mowa w ust. 1 pkt 3.
+3W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2..
 Listy, o których mowa w ust. 1 i 2, zawierają dane umożliwiające identyfikację umieszczonych na nich operacji i wnioskowaną kwotę pomocy, a lista, o której mowa w ust. 2:
 1)
 pkt 1 – zawiera ponadto wskazanie operacji, które mieszczą się w ramach limitu dostępnych środków finansowych wskazanego w informacji, o której mowa w § 22 ust. 1;
@@ -510,29 +503,28 @@ w wyniku oceny pod względem zgodności z LSROR zostały uznane za:
 b)
 są objęte wnioskami o dofinansowanie, złożonymi w innym miejscu lub terminie niż wskazane w informacji, o której mowa w § 22 ust. 1.
 § 27.
-1.
+1Oznaczenie ust. 1 nadane przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 2..
 LGR przekazuje właściwemu organowi samorządu województwa listy, o których mowa w § 26 ust. 2, oraz uchwały komitetu LGR w sprawie wyboru operacji wraz ze złożonymi wnioskami o dofinansowanie, w terminie określonym w § 26 ust. 2.
-2.
+2Dodany przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 2..
 Właściwy organ samorządu województwa wzywa na piśmie LGR do złożenia wyjaśnień, uzupełnienia list, o których mowa w § 26 ust. 2, lub przekazania brakujących uchwał, o których mowa w ust. 1, lub złożonych wniosków o dofinansowanie operacji, w terminie 14 dni od dnia doręczenia wezwania, jeżeli jest to niezbędne dla rozstrzygnięcia sprawy dotyczącej przyznania pomocy na operację.
-3.
+3Dodany przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli LGR, pomimo wezwania, o którym mowa w ust. 2, nie dopełniła wszystkich czynności, do których wzywał właściwy organ samorządu województwa, organ ten ponownie wzywa na piśmie LGR do złożenia wyjaśnień, uzupełnienia list, o których mowa w § 26 ust. 2, lub przekazania brakujących uchwał, o których mowa w ust. 1, lub złożonych wniosków o dofinansowanie operacji, w terminie 14 dni od dnia doręczenia wezwania.
-4.
+4Dodany przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 2..
 Wezwanie, o którym mowa w ust. 2 i 3, wstrzymuje bieg terminu rozpatrywania wniosku o dofinansowanie operacji, o czym właściwy organ samorządu województwa zawiadamia wnioskodawcę na piśmie.
 § 28.
 LGR informuje na piśmie wnioskodawcę o:
 1)
 wybraniu operacji albo jej niewybraniu, wskazując przyczyny niewybrania,
 2)
-liczbie uzyskanych punktów w ramach oceny operacji pod względem spełniania kryteriów wyboru operacji, miejscu na liście wybranych operacji oraz czy operacja mieści się w ramach limitu, o którym mowa w § 22 ust. 3 pkt 6
-w terminie określonym w § 26 ust. 2.
+liczbie uzyskanych punktów w ramach oceny operacji pod względem spełniania kryteriów wyboru operacji, miejscu na liście wybranych operacji oraz czy operacja mieści się w ramach limitu, o którym mowa w § 22 ust. 3 pkt 6 – w terminie określonym w § 26 ust. 2.
 § 29.
 1.
-Wniosek o dofinansowanie operacji wymienionych w § 1 pkt 1 lit. e składa się:
+Wniosek o dofinansowanie operacji wymienionych w § 1 pkt 1 lit. e składa się:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 19 lit. a rozporządzenia, o którym mowa w odnośniku 2.
 1)
 raz w roku, w terminie od dnia 15 września do dnia 15 października roku poprzedzającego rok, na który ma być przyznana pomoc, przy czym wniosek o dofinansowanie tych operacji na pierwszy rok realizacji LSROR składa się w terminie 30 dni od dnia dokonania wyboru LGR do realizacji opracowanej przez nią LSROR;
 2)
 do właściwego organu samorządu województwa bezpośrednio w urzędzie marszałkowskim albo samorządowej jednostce.
-1a.
+1aDodany przez § 1 pkt 19 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek o dofinansowanie operacji wymienionych w § 1 pkt 2 składa się do właściwego organu samorządu województwa bezpośrednio w urzędzie marszałkowskim albo samorządowej jednostce.
 2.
 Złożenie wniosku o dofinansowanie potwierdza się na jego kopii. Potwierdzenie zawiera datę złożenia wniosku oraz jest opatrzone pieczęcią właściwego organu samorządu województwa i podpisane przez osobę przyjmującą wniosek.
@@ -616,7 +608,7 @@ uzgodnionym z właściwym organem samorządu województwa przed upływem wyznacz
 wyznaczonym przez właściwy organ samorządu województwa, nie dłuższym niż 21 dni od dnia, na który został wyznaczony poprzedni termin zawarcia umowy.
 3.
 W przypadku nieprzyznania pomocy na podstawie ust. 2 przepisy art. 14 ust. 4 i 5 ustawy stosuje się odpowiednio.
-§ 39.
+§ 39W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Umowa o dofinansowanie, poza postanowieniami określonymi w art. 15 ustawy:
 1)
@@ -653,7 +645,7 @@ Zabezpieczeniem należytego wykonania przez beneficjenta zobowiązań określony
 1)
 weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez właściwy organ samorządu województwa;
 2)
-(uchylony).
+(uchylony).Przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 2.
 2.
 Weksel wraz z deklaracją wekslową, o których mowa w ust. 1 pkt 1, są:
 1)
@@ -699,10 +691,10 @@ Jeżeli beneficjent, pomimo ponownego wezwania, o którym mowa w ust. 7, nie usu
 1)
 właściwy organ samorządu województwa rozpatruje wniosek o płatność w zakresie, w jakim został prawidłowo wypełniony i udokumentowany, albo
 2)
-pomocy nie wypłaca się, jeżeli wniosek o płatność nie może zostać rozpatrzony w zakresie poniesionych kosztów. 8a. Właściwy organ samorządu województwa rozpatruje wniosek o płatność w terminie 60 dni od dnia złożenia wniosku przez beneficjenta.
-8b.
+pomocy nie wypłaca się, jeżeli wniosek o płatność nie może zostać rozpatrzony w zakresie poniesionych kosztów. 8a.Dodany przez § 1 pkt 22 lit. a rozporządzenia, o którym mowa w odnośniku 2. Właściwy organ samorządu województwa rozpatruje wniosek o płatność w terminie 60 dni od dnia złożenia wniosku przez beneficjenta.
+8bDodany przez § 1 pkt 22 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku nierozpatrzenia wniosku w terminie, o którym mowa w ust. 8a, właściwy organ samorządu województwa zawiadamia wnioskodawcę o przyczynach zwłoki, określając nowy termin rozpatrzenia wniosku, nie dłuższy jednak niż 14 dni.
-9.
+9W brzmieniu ustalonym przez § 1 pkt 22 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Do rozpatrywania wniosku o płatność przepisy § 30 ust. 3, § 34 i 35 stosuje się odpowiednio.
 § 43.
 1.
@@ -711,7 +703,7 @@ Właściwy organ samorządu województwa po pozytywnej ocenie wniosku o płatno�
 Zlecenie płatności właściwy organ samorządu województwa sporządza na podstawie zestawień poniesionych wydatków, określonych we wniosku o płatność.
 3.
 Zestawienia, o których mowa w ust. 2, właściwy organ samorządu województwa potwierdza za zgodność ze zrealizowaną umową o dofinansowanie.
-§ 44.
+§ 44W brzmieniu ustalonym przez § 1 pkt 23 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Pomoc podlega zwrotowi w całości, jeżeli beneficjent:
 1)
@@ -777,15 +769,14 @@ Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku p
 2.
 Termin uważa się za zachowany, jeżeli przed jego upływem pismo nadano w polskiej placówce pocztowej operatora publicznego albo złożono w polskim urzędzie konsularnym.
 § 49.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kierował działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 listopada 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013"(Dz. U. Nr 261, poz. 1563), które weszło w życie z dniem 2 grudnia 2011 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 8) Dodany przez § 1 pkt 3 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 9) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 14) Dodany przez § 1 pkt 4 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 15) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158. 18) W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2. 20) W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 21) Ze zmianami wprowadzonymi przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 22) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 23) Uchylone z dniem 1 stycznia 2014 r. na podstawie art. 128 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzanie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1); odesłania do uchylonego rozporządzenia traktuje się jako odniesienia do uchylającego rozporządzenia. 24) W brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 2. 25) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 26) Ze zmianami wprowadzonymi przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 27) W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 28) W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 29) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 30) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 31) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 32) Oznaczenie ust. 1 nadane przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 33) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 34) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 35) Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 maja 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 601), które weszło w życie z dniem 24 maja 2013 r. 36) W brzmieniu ustalonym przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 2. 37) W brzmieniu ustalonym przez § 1 pkt 10 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 38) Dodany przez § 1 pkt 10 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 39) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 11 lit. a rozporządzenia, o którym mowa w odnośniku 2. 40) Dodany przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2. 41) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 42) W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2. 43) W brzmieniu ustalonym przez § 1 pkt 14 lit. a rozporządzenia, o którym mowa w odnośniku 2. 44) Dodany przez § 1 pkt 14 lit. b rozporządzenia, o którym mowa w odnośniku 2. 45) W brzmieniu ustalonym przez § 1 pkt 14 lit. c rozporządzenia, o którym mowa w odnośniku 2. 46) Przez § 1 pkt 14 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 47) W brzmieniu ustalonym przez § 1 pkt 14 lit. d tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 48) Dodany przez § 1 pkt 14 lit. e rozporządzenia, o którym mowa w odnośniku 2. 49) W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2. 50) Przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2. 51) W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2. 52) Oznaczenie ust. 1 nadane przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 2. 53) Dodany przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 2. 54) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 19 lit. a rozporządzenia, o którym mowa w odnośniku 2. 55) Dodany przez § 1 pkt 19 lit. b rozporządzenia, o którym mowa w odnośniku 2. 56) W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 2. 57) Przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 2. 58) Dodany przez § 1 pkt 22 lit. a rozporządzenia, o którym mowa w odnośniku 2. 59) W brzmieniu ustalonym przez § 1 pkt 22 lit. b rozporządzenia, o którym mowa w odnośniku 2. 60) W brzmieniu ustalonym przez § 1 pkt 23 rozporządzenia, o którym mowa w odnośniku 2. 61) Rozporządzenie zostało ogłoszone w dniu 23 października 2009 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 23 października 2009 r.. 1) Minister Rolnictwa i Rozwoju Wsi kierował działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. Nr 248, poz. 1486). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 23 listopada 2011 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013"(Dz. U. Nr 261, poz. 1563), które weszło w życie z dniem 2 grudnia 2011 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 8) Dodany przez § 1 pkt 3 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 9) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 14) Dodany przez § 1 pkt 4 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 15) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158. 18) W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2. 20) W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 21) Ze zmianami wprowadzonymi przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 22) Dodany przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 23) Uchylone z dniem 1 stycznia 2014 r. na podstawie art. 128 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzanie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1); odesłania do uchylonego rozporządzenia traktuje się jako odniesienia do uchylającego rozporządzenia. 24) W brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 2. 25) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 26) Ze zmianami wprowadzonymi przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 27) W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 28) W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 29) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 30) W brzmieniu ustalonym przez § 1 pkt 7 lit. a rozporządzenia, o którym mowa w odnośniku 2. 31) Dodany przez § 1 pkt 7 lit. b rozporządzenia, o którym mowa w odnośniku 2. 32) Oznaczenie ust. 1 nadane przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 33) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 34) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 35) Przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 maja 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. poz. 601), które weszło w życie z dniem 24 maja 2013 r. 36) W brzmieniu ustalonym przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 2. 37) W brzmieniu ustalonym przez § 1 pkt 10 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 38) Dodany przez § 1 pkt 10 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 39) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 11 lit. a rozporządzenia, o którym mowa w odnośniku 2. 40) Dodany przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2. 41) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2. 42) W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 2. 43) W brzmieniu ustalonym przez § 1 pkt 14 lit. a rozporządzenia, o którym mowa w odnośniku 2. 44) Dodany przez § 1 pkt 14 lit. b rozporządzenia, o którym mowa w odnośniku 2. 45) W brzmieniu ustalonym przez § 1 pkt 14 lit. c rozporządzenia, o którym mowa w odnośniku 2. 46) Przez § 1 pkt 14 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 47) W brzmieniu ustalonym przez § 1 pkt 14 lit. d tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 48) Dodany przez § 1 pkt 14 lit. e rozporządzenia, o którym mowa w odnośniku 2. 49) W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2. 50) Przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 2. 51) W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 2. 52) Oznaczenie ust. 1 nadane przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 2. 53) Dodany przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 2. 54) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 19 lit. a rozporządzenia, o którym mowa w odnośniku 2. 55) Dodany przez § 1 pkt 19 lit. b rozporządzenia, o którym mowa w odnośniku 2. 56) W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 2. 57) Przez § 1 pkt 21 rozporządzenia, o którym mowa w odnośniku 2. 58) Dodany przez § 1 pkt 22 lit. a rozporządzenia, o którym mowa w odnośniku 2. 59) W brzmieniu ustalonym przez § 1 pkt 22 lit. b rozporządzenia, o którym mowa w odnośniku 2. 60) W brzmieniu ustalonym przez § 1 pkt 23 rozporządzenia, o którym mowa w odnośniku 2. 61) Rozporządzenie zostało ogłoszone w dniu 23 października 2009 r.
 
 ## Załącznik nr 1 — – Załączniki, które dołącza się do wniosku o dofinansowanie
 
 1.
 W przypadku operacji wymienionych w § 1 pkt 1 lit. a-d rozporządzenia:
 1)
-aktualny odpis z Krajowego Rejestru Sądowego albo zaświadczenie o dokonaniu wpisu do ewidencji działalności gospodarczej , jeżeli ubiegający się o dofinansowanie ma obowiązek takiego wpisu;
+aktualny odpis z Krajowego Rejestru Sądowego albo zaświadczenie o dokonaniu wpisu do ewidencji działalności gospodarczej Obecnie: Centralna Ewidencja i Informacja o Działalności Gospodarczej, zgodnie z art. 68 ustawy z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw (Dz. U. z 2009 r. Nr 18, poz. 97), który wszedł w życie z dniem 1 lipca 2011 r., jeżeli ubiegający się o dofinansowanie ma obowiązek takiego wpisu;
 2)
 pełnomocnictwo – w przypadku gdy zostało udzielone;
 3)
@@ -794,7 +785,7 @@ kopia dokumentu tożsamości – w przypadku gdy ubiegający się o dofinansowan
 kopia dokumentu stwierdzającego prawo do dysponowania nieruchomością na cel związany z realizacją operacji – w przypadku gdy wymaga tego specyfika operacji;
 5)
 dokumenty potwierdzające planowane koszty operacji, w tym kosztorys inwestorski, albo otrzymane przez ubiegającego się o dofinansowanie oferty związane z realizacją operacji – w przypadku gdy wymaga tego specyfika operacji;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 24 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 uproszczony plan biznesowy operacji – w przypadku gdy wymaga tego specyfika operacji;
 7)
 pozwolenie budowlane albo zgłoszenie, o których mowa w przepisach prawa budowlanego – w przypadku gdy wymaga tego specyfika operacji;
@@ -803,9 +794,9 @@ pozwolenie wodnoprawne na szczególne korzystanie z wód, o którym mowa w przep
 9)
 zezwolenie na prowadzenie chowu lub hodowli ryb w polskich obszarach morskich wydane na podstawie przepisów o rybołówstwie, jeżeli takie zezwolenie jest wymagane w związku z realizacją operacji;
 10)
-(uchylony);
+(uchylony);Przez § 1 pkt 24 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 11)
-(uchylony);
+(uchylony);Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 35.
 12)
 operat szacunkowy sporządzony zgodnie z przepisami o gospodarce nieruchomościami – w przypadku gdy ubiegający się o dofinansowanie zalicza do kosztów kwalifikowalnych wniesione nakłady rzeczowe w formie nieruchomości;
 13)
@@ -814,14 +805,14 @@ decyzja powiatowego lekarza weterynarii, o której mowa w art. 5 ust. 1 pkt 1 us
 szczegółowy opis operacji, z podaniem specyfikacji kosztów jej realizacji oraz wskazaniem źródeł jej finansowania – w przypadku gdy wymaga tego specyfika operacji;
 15)
 opis projektu kampanii promocyjnej, targów, wystawy, badania, wdrażanego systemu lub szkolenia, na które wnioskodawca ubiega się o pomoc, z podaniem specyfikacji kosztów ich realizacji oraz źródeł ich finansowania – w przypadku gdy wymaga tego specyfika operacji;
-16)
+16Dodany przez § 1 pkt 24 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 dokumenty niezbędne do oceny operacji pod kątem zgodności z kryteriami wyboru określonymi w LSROR;
-17)
+17Dodany przez § 1 pkt 24 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 dokument potwierdzający prowadzenie działalności, o której mowa w § 4 ust. 2 pkt 1 lit. a.
 2.
 W przypadku operacji wymienionych w § 1 pkt 1 lit. e i pkt 2 rozporządzenia:
 1)
-aktualny odpis z Krajowego Rejestru Sądowego albo zaświadczenie o dokonaniu wpisu do ewidencji działalności gospodarczej , jeżeli ubiegający się o dofinansowanie ma obowiązek takiego wpisu;
+aktualny odpis z Krajowego Rejestru Sądowego albo zaświadczenie o dokonaniu wpisu do ewidencji działalności gospodarczej Obecnie: Centralna Ewidencja i Informacja o Działalności Gospodarczej, zgodnie z art. 68 ustawy z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw (Dz. U. z 2009 r. Nr 18, poz. 97), który wszedł w życie z dniem 1 lipca 2011 r., jeżeli ubiegający się o dofinansowanie ma obowiązek takiego wpisu;
 2)
 pełnomocnictwo – w przypadku gdy zostało udzielone;
 3)
@@ -830,9 +821,8 @@ szczegółowy opis operacji, z podaniem specyfikacji kosztów jej realizacji ora
 umowa spółki lub inny akt założycielski i statut – w przypadku gdy wymaga tego specyfika operacji;
 5)
 opis projektu kampanii promocyjnej, targów, wystawy, badania, wdrażanego systemu lub szkolenia, na które wnioskodawca ubiega się o pomoc, z podaniem specyfikacji kosztów ich realizacji oraz źródeł ich finansowania – w przypadku gdy wymaga tego specyfika operacji;
-6)
-dokumenty potwierdzające planowane koszty operacji, w tym kosztorys inwestorski albo otrzymane przez ubiegającego się o dofinansowanie oferty związane z realizacją operacji – w przypadku gdy wymaga tego specyfika operacji.
-62) Obecnie: Centralna Ewidencja i Informacja o Działalności Gospodarczej, zgodnie z art. 68 ustawy z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw (Dz. U. z 2009 r. Nr 18, poz. 97), który wszedł w życie z dniem 1 lipca 2011 r. 63) W brzmieniu ustalonym przez § 1 pkt 24 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 64) Przez § 1 pkt 24 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 65) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 35. 66) Dodany przez § 1 pkt 24 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 67) Dodany przez § 1 pkt 24 lit. b rozporządzenia, o którym mowa w odnośniku 2.
+6Dodany przez § 1 pkt 24 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
+dokumenty potwierdzające planowane koszty operacji, w tym kosztorys inwestorski albo otrzymane przez ubiegającego się o dofinansowanie oferty związane z realizacją operacji – w przypadku gdy wymaga tego specyfika operacji. 62) Obecnie: Centralna Ewidencja i Informacja o Działalności Gospodarczej, zgodnie z art. 68 ustawy z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw (Dz. U. z 2009 r. Nr 18, poz. 97), który wszedł w życie z dniem 1 lipca 2011 r. 63) W brzmieniu ustalonym przez § 1 pkt 24 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 64) Przez § 1 pkt 24 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 65) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 35. 66) Dodany przez § 1 pkt 24 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 67) Dodany przez § 1 pkt 24 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 
 ## Załącznik nr 2 — – Załączniki, które dołącza się do wniosku o płatność
 
@@ -847,7 +837,7 @@ kopia aktu notarialnego stwierdzającego przeniesienie własności nieruchomośc
 4)
 poświadczone za zgodność z oryginałem przez upoważnionego pracownika urzędu marszałkowskiego lub samorządowej jednostki kopie dokumentów potwierdzających odbiór lub wykonanie prac;
 5)
-(uchylony);
+(uchylony);Przez § 1 pkt 25 lit. a tiret pierwsze rozporządzania, o którym mowa w odnośniku 2.
 6)
 dokument potwierdzający podniesienie kwalifikacji zawodowych, w tym zaświadczenie o ukończeniu kursu, szkoły, szkolenia lub otrzymanych certyfikatach – w przypadku gdy wymaga tego specyfika operacji;
 7)
@@ -861,18 +851,18 @@ dokumentacja fotograficzna zrealizowanej operacji – w przypadku gdy wymaga teg
 11)
 wzory materiałów promocyjnych – w przypadku gdy wymaga tego specyfika operacji;
 12)
-(uchylony);
+(uchylony);Przez § 1 pkt 25 lit. a tiret pierwsze rozporządzania, o którym mowa w odnośniku 2.
 13)
 pisemne oświadczenie beneficjenta, że dokonał odpisów amortyzacyjnych środków trwałych – w przypadku gdy wymaga tego specyfika operacji;
-14)
+14Dodany przez § 1 pkt 25 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 aktualny wyciąg z rachunku bankowego przeznaczonego do obsługi zaliczki, zawierający informację o wysokości uzyskanych odsetek bankowych – w przypadku gdy wymaga tego specyfika operacji;
-15)
+15Dodany przez § 1 pkt 25 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 kopia umowy leasingu lub innych dokumentów potwierdzających nabycie rzeczy przez finansującego od zbywcy za określoną kwotę (wraz z wnioskiem o płatność, w ramach którego po raz pierwszy zostaną ujęte raty zapłacone z tytułu wykonania umowy leasingu) – w przypadku gdy wymaga tego specyfika operacji;
-16)
+16Dodany przez § 1 pkt 25 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 kopia umowy leasingu wraz z harmonogramem spłat, w której przewidziane będzie przeniesienie prawa własności przedmiotu leasingu na beneficjenta (wraz z wnioskiem o płatność, w ramach którego po raz pierwszy zostaną ujęte raty zapłacone z tytułu wykonania umowy leasingu) – w przypadku gdy wymaga tego specyfika operacji;
-17)
+17Dodany przez § 1 pkt 25 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 dokumenty potwierdzające przeniesienie praw własności rzeczy będących przedmiotem umowy leasingu na beneficjenta (wraz z wnioskiem o płatność, w ramach którego będzie rozliczana ostatnia rata zapłacona z tytułu wykonania umowy leasingu) – w przypadku gdy wymaga tego specyfika operacji;
-18)
+18Dodany przez § 1 pkt 25 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 pełnomocnictwo – w przypadku gdy zostało udzielone.
 2.
 W przypadku operacji wymienionych w § 1 pkt 1 lit. e i pkt 2 rozporządzenia:
@@ -890,14 +880,14 @@ wzory materiałów promocyjnych – w przypadku gdy wymaga tego specyfika operac
 kosztorys powykonawczy – w przypadku gdy beneficjent zaliczył do kosztów kwalifikowalnych wniesione nakłady rzeczowe;
 7)
 pisemne oświadczenie beneficjenta, że dokonał odpisów amortyzacyjnych środków trwałych – w przypadku gdy wymaga tego specyfika operacji;
-8)
+8Dodany przez § 1 pkt 25 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 aktualny wyciąg z rachunku bankowego przeznaczonego do obsługi zaliczki, zawierający informację o wysokości uzyskanych odsetek bankowych – w przypadku gdy wymaga tego specyfika operacji;
-9)
+9Dodany przez § 1 pkt 25 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 kopia umowy leasingu lub innych dokumentów potwierdzających nabycie rzeczy przez finansującego od zbywcy za określoną kwotę (wraz z wnioskiem o płatność, w ramach którego po raz pierwszy zostaną ujęte raty zapłacone z tytułu wykonania umowy leasingu) – w przypadku gdy wymaga tego specyfika operacji;
-10)
+10Dodany przez § 1 pkt 25 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 kopia umowy leasingu wraz z harmonogramem spłat, w której przewidziane będzie przeniesienie prawa własności przedmiotu leasingu na beneficjenta (wraz z wnioskiem o płatność, w ramach którego po raz pierwszy zostaną ujęte raty zapłacone z tytułu wykonania umowy leasingu) – w przypadku gdy wymaga tego specyfika operacji;
-11)
+11Dodany przez § 1 pkt 25 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 dokumenty potwierdzające przeniesienie praw własności rzeczy będących przedmiotem umowy leasingu na beneficjenta (wraz z wnioskiem o płatność, w ramach którego będzie rozliczana ostatnia rata zapłacona z tytułu wykonania umowy leasingu) – w przypadku gdy wymaga tego specyfika operacji;
-12)
-pełnomocnictwo – w przypadku gdy zostało udzielone.
+12Dodany przez § 1 pkt 25 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
+pełnomocnictwo – w przypadku gdy zostało udzielone. 68) Przez § 1 pkt 25 lit. a tiret pierwsze rozporządzania, o którym mowa w odnośniku 2. 69) Dodany przez § 1 pkt 25 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 70) Dodany przez § 1 pkt 25 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 

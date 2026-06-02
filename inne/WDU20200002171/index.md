@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 28 września 2020 r. w sprawie procedury konkursowej podziału ograniczonych praw przewozowych
+# Rozporządzenie Ministra Infrastrukturyz dnia 28 września 2020 r. w sprawie procedury konkursowej podziału ograniczonych praw przewozowych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-28 |
 | Data wydania | 2020-12-07 |
-| Wejście w życie | 2020-12-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002171) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2171/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 191 ust. 23 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970) zarządza się, co następuje:
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia (WE) nr 847/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie negocjacji i wykonania umów dotyczących usług lotniczych między Państwami Członkowskimi a państwami trzecimi (Dz. Urz. UE L 157 z 30.04.2004, str. 7; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 193). Na podstawie art. 191 ust. 23 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa procedurę konkursową podziału ograniczonych praw przewozowych, zwaną dalej „procedurą konkursową”, zawierającą:
 1)
@@ -172,6 +171,5 @@ Do procedur konkursowych wszczętych i niezakończonych przed dniem wejścia w �
 2.
 Dokumenty oraz informacje złożone w procedurach konkursowych, o których mowa w ust. 1, podlegają uzupełnieniu o informacje i dokumenty, o których mowa w § 3 rozporządzenia, w terminie 30 dni od dnia wejścia w życie rozporządzenia, pod rygorem nieuwzględnienia wniosku w procedurze konkursowej.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia (WE) nr 847/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie negocjacji i wykonania umów dotyczących usług lotniczych między Państwami Członkowskimi a państwami trzecimi (Dz. Urz. UE L 157 z 30.04.2004, str. 7; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 193). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 27 grudnia 2012 r. w sprawie procedury konkursowej określającej szczegółowe warunki dystrybucji ograniczonych praw przewozowych (Dz. U. z 2018 r. poz. 2343), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) utraciło moc z dniem 2 października 2020 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 27 grudnia 2012 r. w sprawie procedury konkursowej określającej szczegółowe warunki dystrybucji ograniczonych praw przewozowych (Dz. U. z 2018 r. poz. 2343), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) utraciło moc z dniem 2 października 2020 r. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006). 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia (WE) nr 847/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie negocjacji i wykonania umów dotyczących usług lotniczych między Państwami Członkowskimi a państwami trzecimi (Dz. Urz. UE L 157 z 30.04.2004, str. 7; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 193). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 27 grudnia 2012 r. w sprawie procedury konkursowej określającej szczegółowe warunki dystrybucji ograniczonych praw przewozowych (Dz. U. z 2018 r. poz. 2343), które zgodnie z art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) utraciło moc z dniem 2 października 2020 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 czerwca 2019 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji domu maklerskiego lub o zamiarze stania się podmiotem dominującym domu maklerskiego
+# Rozporządzenie Ministra Finansówz dnia 18 czerwca 2019 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji domu maklerskiego lub o zamiarze stania się podmiotem dominującym domu maklerskiego Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-18 |
 | Data wydania | 2019-07-01 |
-| Wejście w życie | 2019-07-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001219) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1219/text.pdf) |
 
@@ -129,6 +128,5 @@ w zakresie informacji, o których mowa w art. 9 rozporządzenia 2017/1946 – o�
 27)
 w zakresie informacji, o których mowa w art. 10 lit. c rozporządzenia 2017/1946 – oświadczenie podmiotu składającego zawiadomienie o wysokości i rodzaju dofinansowania, jakie jest gotowy zapewnić domowi maklerskiemu, wraz ze wskazaniem źródeł jego finansowania oraz aktywów, z których wsparcie finansowe zostanie udzielone, jak również wskazaniem przesłanek jego udzielenia oraz terminu udzielenia tego wsparcia, o ile został określony.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 sierpnia 2010 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji domu maklerskiego lub o zamiarze stania się podmiotem dominującym domu maklerskiego (Dz. U. poz. 1084), które utraciło moc z dniem 22 kwietnia 2019 r. zgodnie z art. 34 pkt 1 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 sierpnia 2010 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji domu maklerskiego lub o zamiarze stania się podmiotem dominującym domu maklerskiego (Dz. U. poz. 1084), które utraciło moc z dniem 22 kwietnia 2019 r. zgodnie z art. 34 pkt 1 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 20 sierpnia 2010 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji domu maklerskiego lub o zamiarze stania się podmiotem dominującym domu maklerskiego (Dz. U. poz. 1084), które utraciło moc z dniem 22 kwietnia 2019 r. zgodnie z art. 34 pkt 1 ustawy z dnia 1 marca 2018 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 685).
 

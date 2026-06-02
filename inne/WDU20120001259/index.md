@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-06 |
 | Data wydania | 2012-11-16 |
-| Wejście w życie | 2012-12-01 |
 | Ostatnia zmiana | 2025-03-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001259) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1259/text.pdf) |
 
@@ -95,7 +94,7 @@ Koszt wykonania leku recepturowego jest ustalany w zależności od postaci leku 
 2)
 24,66 zł – dla postaci leków wymienionych w § 3 ust. 1 pkt 11 i ust. 2.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 stycznia 2011 r. w sprawie wykazu leków, które mogą być traktowane jako surowce farmaceutyczne, wysokości opłaty ryczałtowej za leki podstawowe i recepturowe, ilości leku recepturowego, którego dotyczy opłata ryczałtowa, oraz sposobu obliczania kosztu sporządzania leku recepturowego (Dz. U. Nr 23, poz. 126). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 stycznia 2011 r. w sprawie wykazu leków, które mogą być traktowane jako surowce farmaceutyczne, wysokości opłaty ryczałtowej za leki podstawowe i recepturowe, ilości leku recepturowego, którego dotyczy opłata ryczałtowa, oraz sposobu obliczania kosztu sporządzania leku recepturowego (Dz. U. Nr 23, poz. 126).
 Załącznik – Wykaz leków, które mogą być traktowane jako surowce farmaceutyczne przy sporządzaniu leków recepturowych
 1.
 Aqua pro iniectione (Aqua pro iniectione), rozpuszczalnik do sporządzania leków parenteralnych.

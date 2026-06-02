@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 30 stycznia 2017 r. w sprawie upoważnienia organów do uznawania kwalifikacji do wykonywania zawodów regulowanych należących do działów gospodarka morska i żegluga śródlądowa
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 30 stycznia 2017 r. w sprawie upoważnienia organów do uznawania kwalifikacji do wykonywania zawodów regulowanych należących do działów gospodarka morska i żegluga śródlądowa Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działami administracji rządowej – gospodarka morska oraz żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 1 i 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-30 |
 | Data wydania | 2017-02-08 |
-| Wejście w życie | 2017-02-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/234/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260.) zarządza się, co następuje:
 § 1.
 Upoważnia się:
 1)
@@ -93,6 +92,5 @@ sternika żeglugi śródlądowej,
 j)
 szypra żeglugi śródlądowej.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działami administracji rządowej – gospodarka morska oraz żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 1 i 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 30 stycznia 2015 r. w sprawie upoważnienia organów do uznawania kwalifikacji do wykonywania zawodów regulowanych należących do działów gospodarka morska i transport (Dz. U. poz. 272), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 2 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaNiniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 30 stycznia 2015 r. w sprawie upoważnienia organów do uznawania kwalifikacji do wykonywania zawodów regulowanych należących do działów gospodarka morska i transport (Dz. U. poz. 272), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 2 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działami administracji rządowej – gospodarka morska oraz żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 1 i 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 30 stycznia 2015 r. w sprawie upoważnienia organów do uznawania kwalifikacji do wykonywania zawodów regulowanych należących do działów gospodarka morska i transport (Dz. U. poz. 272), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 2 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 

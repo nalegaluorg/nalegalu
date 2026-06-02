@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 23 grudnia 2019 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych
+# Rozporządzenie Ministra Zdrowiaz dnia 23 grudnia 2019 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-23 |
 | Data wydania | 2019-12-30 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2532/text.pdf) |
 
@@ -37,61 +36,57 @@ Treść rozporządzenia
 ## Załącznik nr 4 — – Tekst załącznika
 
 Treść rozporządzenia
-Na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 26 czerwca 2019 r. w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych (Dz. U. poz. 1207) wprowadza się następujące zmiany:
 1)
-w § 1 w ust. 2 pkt 4 otrzymuje brzmienie:
-„
+w § 1 w ust. 2 pkt 4 otrzymuje brzmienie: „
 4)
-przepustka – okresowe przebywanie świadczeniobiorcy poza zakładem leczniczym podmiotu leczniczego w trakcie stacjonarnego leczenia: psychiatrycznego i uzależnień, długoterminowego, paliatywnego i hospicyjnego, uzdrowiskowego lub rehabilitacji leczniczej bez dokonywania z niego wypisu, po wyrażeniu zgody przez tego świadczeniobiorcę albo przez jego rodzica, albo opiekuna prawnego oraz przez zakład leczniczy podmiotu leczniczego, w którym przebywa świadczeniobiorca.
-” ;
+przepustka – okresowe przebywanie świadczeniobiorcy poza zakładem leczniczym podmiotu leczniczego w trakcie stacjonarnego leczenia: psychiatrycznego i uzależnień, długoterminowego, paliatywnego i hospicyjnego, uzdrowiskowego lub rehabilitacji leczniczej bez dokonywania z niego wypisu, po wyrażeniu zgody przez tego świadczeniobiorcę albo przez jego rodzica, albo opiekuna prawnego oraz przez zakład leczniczy podmiotu leczniczego, w którym przebywa świadczeniobiorca. ” ;
 2)
 w § 3:
 a)
 w ust. 1:
-– pkt 2 otrzymuje brzmienie: „ 2) kod świadczenia, który stanowi kod jednostki statystycznej określonej zgodnie z załącznikiem nr 1 do rozporządzenia, zwany dalej „kodem świadczenia; ”” ,
-– pkt 22 otrzymuje brzmienie: „ 22) identyfikator zdarzenia medycznego przetwarzanego w systemie informacji w rozumieniu art. 2 pkt 18 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408, 730, 1590 i 1905), o którym mowa w przepisach wykonawczych wydanych na podstawie art. 11 ust. 4a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. ” ,
+pkt 2 otrzymuje brzmienie: „
+2)
+kod świadczenia, który stanowi kod jednostki statystycznej określonej zgodnie z załącznikiem nr 1 do rozporządzenia, zwany dalej „kodem świadczenia; ”” ,
+pkt 22 otrzymuje brzmienie: „
+22)
+identyfikator zdarzenia medycznego przetwarzanego w systemie informacji w rozumieniu art. 2 pkt 18 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408, 730, 1590 i 1905), o którym mowa w przepisach wykonawczych wydanych na podstawie art. 11 ust. 4a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. ” ,
 b)
-w ust. 2 pkt 6 otrzymuje brzmienie:
-„
+w ust. 2 pkt 6 otrzymuje brzmienie: „
 6)
-informację, czy w okresie trwania hospitalizacji doszło do zakażenia szpitalnego w rozumieniu art. 2 pkt 33 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239 i 1495) wraz ze wskazaniem – jeżeli jest możliwa do ustalenia – przyczyny choroby według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych Rewizja Dziesiąta.
-” ;
+informację, czy w okresie trwania hospitalizacji doszło do zakażenia szpitalnego w rozumieniu art. 2 pkt 33 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239 i 1495) wraz ze wskazaniem – jeżeli jest możliwa do ustalenia – przyczyny choroby według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych Rewizja Dziesiąta. ” ;
 3)
-w § 6 w ust. 3 pkt 3–5 otrzymują brzmienie:
-„
+w § 6 w ust. 3 pkt 3–5 otrzymują brzmienie: „
 3)
 dane, o których mowa w § 3 ust. 1 pkt 6 i 22, a w przypadku gdy jednostką statystyczną, o której mowa w § 3 ust. 1 pkt 2, jest porada – dodatkowo także dane, o których mowa w § 3 ust. 1 pkt 3;
 4)
 informację o masie ciała i wzroście świadczeniobiorcy – co najmniej raz w danym roku kalendarzowym;
 5)
-informację dotyczącą używania przez świadczeniobiorcę, który ukończył 15 rok życia, wyrobów tytoniowych, zgodnie z kodem określonym w tabeli nr 18 załącznika nr 3 do rozporządzenia – co najmniej raz w danym roku kalendarzowym.
-” ;
+informację dotyczącą używania przez świadczeniobiorcę, który ukończył 15 rok życia, wyrobów tytoniowych, zgodnie z kodem określonym w tabeli nr 18 załącznika nr 3 do rozporządzenia – co najmniej raz w danym roku kalendarzowym. ” ;
 4)
 w § 8:
 a)
 w ust. 1:
-– pkt 5 otrzymuje brzmienie: „ 5) rozpoznanie lub powód przyjęcia; wpisanie rozpoznania jest obowiązkowe, jeżeli można je ustalić na podstawie skierowania, które jest podstawą dokonania wpisu; dodatkowo w przypadku skierowania na cykl zabiegów z zakresu fizjoterapii ambulatoryjnej – rozpoznanie obejmuje kod jednostki chorobowej według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych Rewizja Dziesiąta; ” ,
-– w pkt 6 lit. b otrzymuje brzmienie: „ b) informacja o rezerwacji terminu – w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w art. 20 ust. 9b ustawy, ” ,
-b)
-w ust. 2 w pkt 5 lit. b otrzymuje brzmienie:
-„
-b)
-informacja o rezerwacji terminu – w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w art. 20 ust. 9b ustawy,
-” ,
-c)
-w ust. 4 po pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
-informację o udzielaniu świadczeń dzieciom, jeżeli część VIII systemu resortowych kodów identyfikacyjnych komórki organizacyjnej, w której prowadzony jest harmonogram przyjęć, wskazuje na udzielanie świadczeń osobom dorosłym, a komórka udziela świadczeń także dzieciom.
-” ,
+rozpoznanie lub powód przyjęcia; wpisanie rozpoznania jest obowiązkowe, jeżeli można je ustalić na podstawie skierowania, które jest podstawą dokonania wpisu; dodatkowo w przypadku skierowania na cykl zabiegów z zakresu fizjoterapii ambulatoryjnej – rozpoznanie obejmuje kod jednostki chorobowej według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych Rewizja Dziesiąta; ” ,
+w pkt 6 lit. b otrzymuje brzmienie: „
+b)
+informacja o rezerwacji terminu – w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w art. 20 ust. 9b ustawy, ” ,
+b)
+w ust. 2 w pkt 5 lit. b otrzymuje brzmienie: „
+b)
+informacja o rezerwacji terminu – w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w art. 20 ust. 9b ustawy, ” ,
+c)
+w ust. 4 po pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+5)
+informację o udzielaniu świadczeń dzieciom, jeżeli część VIII systemu resortowych kodów identyfikacyjnych komórki organizacyjnej, w której prowadzony jest harmonogram przyjęć, wskazuje na udzielanie świadczeń osobom dorosłym, a komórka udziela świadczeń także dzieciom. ” ,
 d)
-w ust. 5 pkt 1 otrzymuje brzmienie:
-„
+w ust. 5 pkt 1 otrzymuje brzmienie: „
 1)
-pkt 1–3 i 5 – co miesiąc, nie później niż w terminie dziesięciu dni od zakończenia miesiąca;
-” ;
+pkt 1–3 i 5 – co miesiąc, nie później niż w terminie dziesięciu dni od zakończenia miesiąca; ” ;
 5)
 załącznik nr 1 otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 6)
@@ -103,8 +98,7 @@ tabela nr 14 otrzymuje brzmienie określone w załączniku nr 3 do niniejszego r
 c)
 tabela nr 16 otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia;
 7)
-w załączniku nr 9 część VI otrzymuje brzmienie:
-„
+w załączniku nr 9 część VI otrzymuje brzmienie: „
 VI.
 Świadczenia gwarantowane z zakresu leczenia szpitalnego oraz świadczeń wysokospecjalistycznych:
 1)
@@ -120,13 +114,11 @@ kardiologiczne zabiegi interwencyjne u dzieci do lat 18, w tym przezskórne zamy
 6)
 mechaniczne wspomaganie serca sztucznymi komorami;
 7)
-przezcewnikowa nieoperacyjna naprawa zastawki mitralnej u chorych wysokiego ryzyka.
-” .
+przezcewnikowa nieoperacyjna naprawa zastawki mitralnej u chorych wysokiego ryzyka. ” .
 § 2.
 Dane, o których mowa w § 8 ust. 4 pkt 5 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, są przekazywane po raz pierwszy za marzec 2020 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
 
 ## Załącznik nr 1 — – Tekst załącznika
 

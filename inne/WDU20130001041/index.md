@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-05 |
 | Data wydania | 2013-09-09 |
-| Wejście w życie | 2013-09-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001041) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1041/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2012
 Treść rozporządzenia
-Na podstawie art. 10 ust. 7 ustawy z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. Nr 188, poz. 1840, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 10 ust. 7 ustawy z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. Nr 188, poz. 1840, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 184, poz. 1539 oraz z 2006 r. Nr 141, poz. 997.) zarządza się, co następuje:
 § 1.
 Ustala się wykaz gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2012, które w roku podatkowym 2012 nie uzyskały dochodów na skutek zwolnienia przedsiębiorców, o których mowa w art. 10 ust. 1 ustawy z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw, z podatku od nieruchomości, stanowiący załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 184, poz. 1539 oraz z 2006 r. Nr 141, poz. 997.
 Załącznik – Wykaz gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2012
 1.
 Województwo dolnośląskie Kłodzko m. Legnica m. Polkowice Wałbrzych m.

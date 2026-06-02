@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-29 |
 | Data wydania | 2024-08-01 |
-| Wejście w życie | 2024-08-02 |
 | Ostatnia zmiana | 2024-08-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001153) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1153/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 600 § 7 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 600 § 7 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859 i 863.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -81,5 +80,5 @@ w sądzie zapewnia się wodę oraz chusteczki higieniczne;
 2)
 przygotowuje się dostosowane do potrzeb osoby niepełnosprawnej pomoce ułatwiające rozmowę lub komunikowanie się z tą osobą, w szczególności papier, pisak, rysunki, zdjęcia, pomoce wizualne, urządzenia z nagranym lub syntezowanym głosem.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859 i 863.
 

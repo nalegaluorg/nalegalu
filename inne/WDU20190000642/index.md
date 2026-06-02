@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o żegludze śródlądowej, ustawy o organizacji rynku rybnego oraz ustawy o rybołówstwie morskim
+# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o żegludze śródlądowej, ustawy o organizacji rynku rybnego oraz ustawy o rybołówstwie morskim Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/1629 z dnia 14 września 2016 r. ustanawiającą wymagania techniczne dla statków żeglugi śródlądowej, zmieniającą dyrektywę 2009/100/WE i uchylającą dyrektywę 2006/87/WE (Dz. Urz. UE L 252 z 16.09.2016, str. 118 oraz Dz. Urz. UE L 174 z 10.07.2018, str. 15).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-15 |
 | Data wydania | 2019-04-05 |
-| Wejście w życie | 2019-04-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000642) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/642/text.pdf) |
 
@@ -42,7 +41,7 @@ source: "eli-html"
 2. Przepisy ustawy dotyczące unijnego świadectwa zdolności żeglugowej stosuje się także do statków morskich spełniających warunki, o których mowa w art. 30 ust. 1 pkt 1–5, przebywających na śródlądowych drogach wodnych, z wyjątkiem statków:
 
 - **1)** posiadających świadectwo zgodności z przepisami Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 1984 r. poz. 318 i 319, z 1986 r. poz. 177, z 2005 r. poz. 1016, z 2008 r. poz. 1173 oraz z 2017 r. poz. 142) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. poz. 320 i 321) i z Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2008 r. poz. 1173), zwanej dalej „konwencją SOLAS”, lub równoważne świadectwo, świadectwo zgodności z przepisami Międzynarodowej konwencji o liniach ładunkowych, sporządzonej w Londynie dnia 5 kwietnia 1966 r. (Dz. U. z 1969 r. poz. 282) wraz z Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o liniach ładunkowych, 1966, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2009 r. poz. 372), zwanej dalej „konwencją o liniach ładunkowych”, lub równoważne świadectwo oraz międzynarodowy certyfikat o zapobieganiu zanieczyszczaniu olejami (IOPP) potwierdzający zgodność z przepisami Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, sporządzonej w Londynie dnia 2 listopada 1973 r., wraz z Protokołem z 1978 r. dotyczącym tej konwencji, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1987 r. poz. 101, z 2016 r. poz. 1979 oraz z 2017 r. poz. 1449) oraz Protokołem z 1997 r. uzupełniającym Międzynarodową konwencję o zapobieganiu zanieczyszczaniu morza przez statki, 1973, zmodyfikowanym przynależnym do niej Protokołem z 1978 r., sporządzonym w Londynie dnia 26 września 1997 r. (Dz. U. z 2005 r. poz. 1679), zwanej dalej „konwencją MARPOL”;
-- **2)** nieobjętych konwencją SOLAS, konwencją o liniach ładunkowych lub konwencją MARPOL: w przypadku statków morskich – posiadających świadectwa i znaki wolnej burty wymagane przez przepisy ich państw bandery, w przypadku statków pasażerskich – posiadających certyfikat bezpieczeństwa statku pasażerskiego wydany zgodnie z dyrektywą Parlamentu Europejskiego i Rady 2009/45/WE z dnia 6 maja 2009 r. w sprawie reguł i norm bezpieczeństwa statków pasażerskich (Dz. Urz. UE L 163 z 25.06.2009, str. 1, z późn. zm.), lub w przypadku statków używanych do uprawiania sportu lub rekreacji – posiadających świadectwo kraju, pod którego banderą pływa dana jednostka, potwierdzające odpowiedni poziom bezpieczeństwa. ” ;
+- **2)** nieobjętych konwencją SOLAS, konwencją o liniach ładunkowych lub konwencją MARPOL: w przypadku statków morskich – posiadających świadectwa i znaki wolnej burty wymagane przez przepisy ich państw bandery, w przypadku statków pasażerskich – posiadających certyfikat bezpieczeństwa statku pasażerskiego wydany zgodnie z dyrektywą Parlamentu Europejskiego i Rady 2009/45/WE z dnia 6 maja 2009 r. w sprawie reguł i norm bezpieczeństwa statków pasażerskich (Dz. Urz. UE L 163 z 25.06.2009, str. 1, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 162 z 29.06.2010, str. 1, Dz. Urz. UE L 141 z 28.05.2016, str. 51 oraz Dz. Urz. UE L 315 z 30.11.2017, str. 40., lub w przypadku statków używanych do uprawiania sportu lub rekreacji – posiadających świadectwo kraju, pod którego banderą pływa dana jednostka, potwierdzające odpowiedni poziom bezpieczeństwa. ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -62,7 +61,7 @@ source: "eli-html"
 - **5)** w art. 8 w ust. 7 pkt 1 otrzymuje brzmienie: „
 - **1)** art. 9 ust. 2 pkt 2a, art. 10a ust. 1 i 2, art. 14, art. 26a ust. 1 i 2, art. 34d ust. 1 i 2, art. 34j ust. 1 i 5 oraz art. 43 ust. 4a, 4b pkt 1 i ust. 6; ” ;
 - **6)** w art. 9 w ust. 2 pkt 12 otrzymuje brzmienie: „
-- **12)** przekazywanie do Europejskiej bazy danych statków, zwanej dalej „Bazą EHDB”, prowadzonej przez Komisję Europejską, zgodnie z art. 19 dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/1629 z dnia 14 września 2016 r. ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, zmieniającej dyrektywę 2009/100/WE i uchylającej dyrektywę 2006/87/WE (Dz. Urz. UE L 252 z 16.09.2016, str. 118, z późn. zm.), zwanej dalej „dyrektywą 2016/1629”, określonych danych o statkach podlegających obowiązkowi posiadania unijnego świadectwa zdolności żeglugowej oraz o dokumentach dotyczących tych statków, oraz przekazywania danych z tej bazy. ” ;
+- **12)** przekazywanie do Europejskiej bazy danych statków, zwanej dalej „Bazą EHDB”, prowadzonej przez Komisję Europejską, zgodnie z art. 19 dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/1629 z dnia 14 września 2016 r. ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, zmieniającej dyrektywę 2009/100/WE i uchylającej dyrektywę 2006/87/WE (Dz. Urz. UE L 252 z 16.09.2016, str. 118, z późn. zm.)Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 174 z 10.07.2018, str. 15., zwanej dalej „dyrektywą 2016/1629”, określonych danych o statkach podlegających obowiązkowi posiadania unijnego świadectwa zdolności żeglugowej oraz o dokumentach dotyczących tych statków, oraz przekazywania danych z tej bazy. ” ;
 - **7)** w art. 10a: w ust. 2 zdanie drugie otrzymuje brzmienie: „ Jako ekspertów należy powołać w szczególności: pracownika urzędu żeglugi śródlądowej, specjalistę do spraw budowy statków oraz ich siłowni w zakresie żeglugi śródlądowej, specjalistę do spraw nautyki posiadającego patent żeglarski kapitana żeglugi śródlądowej uprawniający do kierowania statkiem, który podlega inspekcji, oraz – na potrzeby przeprowadzania inspekcji tradycyjnych jednostek pływających – eksperta do spraw żeglugi tradycyjnej. ” , dodaje się ust. 3–6 w brzmieniu: „
     - **a)**
     - **b)**
@@ -100,7 +99,7 @@ source: "eli-html"
 2. W przypadku zezłomowania statku armator tego statku, w terminie 14 dni od dnia zezłomowania statku, jest obowiązany zawiadomić o tym:
 
 - **1)** właściwy organ rejestrowy oraz
-- **2)** dyrektora urzędu żeglugi śródlądowej, w przypadku gdy nie jest on organem rejestrowym dla danego statku, a statek uzyskał jeden z dokumentów, o których mowa w art. 28 ust. 1 pkt 1 lub 2 przedstawiając dokument potwierdzający zezłomowanie statku. ” ;
+- **2)** dyrektora urzędu żeglugi śródlądowej, w przypadku gdy nie jest on organem rejestrowym dla danego statku, a statek uzyskał jeden z dokumentów, o których mowa w art. 28 ust. 1 pkt 1 lub 2 – przedstawiając dokument potwierdzający zezłomowanie statku. ” ;
 - **10)** użyty w art. 28 w ust. 1 w pkt 1, w art. 29 w ust. 1 i 3, w art. 32 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 5, w art. 33 w ust. 1 i 2, w art. 34b w ust. 1 oraz w art. 34g w ust. 2, w różnym przypadku, wyraz „wspólnotowe” zastępuje się użytym w odpowiednim przypadku wyrazem „unijne”;
 - **11)** w art. 28: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -123,7 +122,7 @@ source: "eli-html"
 6. Na statku w trakcie jego eksploatacji przechowuje się:
 
 - **1)** dokument bezpieczeństwa albo dokument, o którym mowa w ust. 4,
-- **2)** uzupełniające unijne świadectwo zdolności żeglugowej jeżeli zostały wydane dla danego statku.
+- **2)** uzupełniające unijne świadectwo zdolności żeglugowej – jeżeli zostały wydane dla danego statku.
 
 7. Do odnawiania dokumentu bezpieczeństwa w zakresie nieuregulowanym w niniejszym artykule stosuje się przepisy dotyczące wydawania dokumentu bezpieczeństwa.
 
@@ -155,14 +154,17 @@ source: "eli-html"
 - **2)** statków, których iloczyn długości, szerokości i zanurzenia jest nie mniejszy niż 100 m3,
 - **3)** holowników i pchaczy przeznaczonych odpowiednio do holowania lub pchania statków, o których mowa w pkt 1 i 2 lub w art. 5 ust. 1 pkt 1 lit. f, lub przemieszczania takich statków w zestawach sprzężonych,
 - **4)** statków przeznaczonych do przewozu ponad 12 pasażerów,
-- **5)** statków, o których mowa w art. 5 ust. 1 pkt 1 lit. f uprawiających żeglugę po drogach wodnych, o których mowa w art. 29.
+- **5)** statków, o których mowa w art. 5 ust. 1 pkt 1 lit. f – uprawiających żeglugę po drogach wodnych, o których mowa w art. 29.
 
 2. Unijne świadectwo zdolności żeglugowej może być wydane na wniosek armatora także dla innego statku niż określony w ust. 1, jeżeli statek ten spełnia wymagania do uzyskania unijnego świadectwa zdolności żeglugowej określone w ustawie.
 
 **Art. 31.** Wymogu uzyskania unijnego świadectwa zdolności żeglugowej nie stosuje się do promów. ” ;
 
-- **14)** w art. 32: w ust. 1 w pkt 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ w przypadku statku nowo zbudowanego, przebudowanego lub wpisanego do rejestru po raz pierwszy, z wyłączeniem statku używanego do uprawiania sportu lub rekreacji, dodatkowo: ” , – w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „ 5) wyciąg z dokumentu rejestracyjnego – w przypadku statku używanego wyłącznie do uprawiania sportu lub rekreacji; 6) decyzję, o której mowa w art. 34b ust. 4 lub 4b, w przypadku gdy została wydana. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **14)** w art. 32: w ust. 1 w pkt 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ w przypadku statku nowo zbudowanego, przebudowanego lub wpisanego do rejestru po raz pierwszy, z wyłączeniem statku używanego do uprawiania sportu lub rekreacji, dodatkowo: ” , w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
     - **a)**
+
+- **5)** wyciąg z dokumentu rejestracyjnego – w przypadku statku używanego wyłącznie do uprawiania sportu lub rekreacji;
+- **6)** decyzję, o której mowa w art. 34b ust. 4 lub 4b, w przypadku gdy została wydana. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Do wniosku o odnowienie unijnego świadectwa zdolności żeglugowej należy załączyć dokumenty, o których mowa w ust. 1, oraz unijne świadectwo zdolności żeglugowej. ” , ust. 2 i 3 otrzymują brzmienie: „
@@ -221,7 +223,7 @@ source: "eli-html"
 - **1)** szczegółowy sposób postępowania w przypadku wydawania, odnawiania, przedłużania i dokonywania zmian unijnego świadectwa zdolności żeglugowej,
 - **2)** wzory wniosków o wydanie unijnego świadectwa zdolności żeglugowej, jego odnowienie, przedłużenie lub dokonanie w nim zmian,
 - **3)** wzór unijnego świadectwa zdolności żeglugowej,
-- **4)** sposób nadawania jednolitego europejskiego numeru identyfikacyjnego statku (ENI) kierując się koniecznością ujednolicenia treści stosowanych dokumentów oraz zapewnienia sprawnego postępowania. ” ;
+- **4)** sposób nadawania jednolitego europejskiego numeru identyfikacyjnego statku (ENI) – kierując się koniecznością ujednolicenia treści stosowanych dokumentów oraz zapewnienia sprawnego postępowania. ” ;
 - **17)** po art. 33 dodaje się art. 33a-33c w brzmieniu: „
 
 **Art. 33a.**
@@ -257,7 +259,7 @@ source: "eli-html"
 
 - **1)** szczegółowy sposób postępowania w przypadku wydawania, odnawiania i przedłużania uzupełniającego unijnego świadectwa zdolności żeglugowej,
 - **2)** wzory wniosku o wydanie, odnowienie lub przedłużenie uzupełniającego unijnego świadectwa zdolności żeglugowej,
-- **3)** wzór uzupełniającego unijnego świadectwa zdolności żeglugowej kierując się koniecznością ujednolicenia treści stosowanych dokumentów oraz zapewnienia sprawnego postępowania. ” ;
+- **3)** wzór uzupełniającego unijnego świadectwa zdolności żeglugowej – kierując się koniecznością ujednolicenia treści stosowanych dokumentów oraz zapewnienia sprawnego postępowania. ” ;
 - **18)** art. 34 otrzymuje brzmienie: „
 
 **Art. 34.**
@@ -295,12 +297,12 @@ source: "eli-html"
 3. Dyrektor urzędu żeglugi śródlądowej jest uprawniony do przekazania danych, o których mowa w ust. 1, stanowiących dane osobowe, organom państwa trzeciego lub organizacji międzynarodowej w indywidualnie rozpatrywanych przypadkach w celu:
 
 - **1)** stosowania dyrektywy 2016/1629;
-- **2)** stosowania dyrektywy 2005/44/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie zharmonizowanych usług informacji rzecznej (RIS) na śródlądowych drogach wodnych we Wspólnocie (Dz. Urz. UE L 255 z 30.09.2005, str. 152, z późn. zm.);
+- **2)** stosowania dyrektywy 2005/44/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie zharmonizowanych usług informacji rzecznej (RIS) na śródlądowych drogach wodnych we Wspólnocie (Dz. Urz. UE L 255 z 30.09.2005, str. 152, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 344 z 27.12.2005, str. 52 oraz Dz. Urz. UE L 87 z 31.03.2009, str. 109.;
 - **3)** zapewnienia zarządzania ruchem na drogach wodnych oraz związaną z nim infrastrukturą;
 - **4)** utrzymania lub wzmacniania bezpieczeństwa żeglugi;
 - **5)** gromadzenia danych statystycznych.
 
-4. Przekazywanie danych osobowych następuje na zasadach i warunkach przewidzianych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
+4. Przekazywanie danych osobowych następuje na zasadach i warunkach przewidzianych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2..
 
 5. Przekazywanie danych, o których mowa w ust. 1, następuje z zachowaniem przepisów o tajemnicy prawnie chronionej.
 
@@ -352,7 +354,7 @@ source: "eli-html"
 1. Instytucja klasyfikacyjna uznana przez Komisję Europejską jest obowiązana do niezwłocznego, jednak nie później niż w terminie 30 dni od dnia wystąpienia zmiany, zawiadomienia ministra właściwego do spraw żeglugi śródlądowej o każdej zmianie:
 
 - **1)** jej nazwy lub adresu,
-- **2)** dotyczącej spełnienia wymagań, o których mowa w art. 34ac ust. 2 lub 3 załączając dokumenty i informacje potwierdzające zmianę.
+- **2)** dotyczącej spełnienia wymagań, o których mowa w art. 34ac ust. 2 lub 3 – załączając dokumenty i informacje potwierdzające zmianę.
 
 2. Minister właściwy do spraw żeglugi śródlądowej niezwłocznie informuje Komisję Europejską o zmianach, o których mowa w ust. 1 pkt 1.
 
@@ -397,7 +399,7 @@ source: "eli-html"
 - **1)** radarowego sprzętu nawigacyjnego,
 - **2)** sprzętu Automatycznego Systemu Identyfikacji Statków (AIS) śródlądowego,
 - **3)** tachografów,
-- **4)** wskaźników skrętu który spełnia wymogi załącznika nr 5 normy europejskiej ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, o której mowa w załączniku nr 2 do dyrektywy 2016/1629, w zakresie badania instalacji i działania radarowych instalacji nawigacyjnych, wskaźników skrętu i sprzętu AIS śródlądowego, tachografów, dla żeglugi śródlądowej.
+- **4)** wskaźników skrętu – który spełnia wymogi załącznika nr 5 normy europejskiej ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, o której mowa w załączniku nr 2 do dyrektywy 2016/1629, w zakresie badania instalacji i działania radarowych instalacji nawigacyjnych, wskaźników skrętu i sprzętu AIS śródlądowego, tachografów, dla żeglugi śródlądowej.
 
 2. Świadectwo sprzętu nawigacyjnego wydaje, na wniosek armatora, dyrektor urzędu żeglugi śródlądowej, na podstawie zaświadczenia potwierdzającego pozytywny wynik z inspekcji sprzętu nawigacyjnego przeprowadzonej przez komisję inspekcyjną, albo upoważniony przedsiębiorca, o którym mowa w art. 34db.
 
@@ -603,11 +605,11 @@ source: "eli-html"
 
 **Art. 10.** Rejestr wydanych wspólnotowych świadectw zdolności żeglugowej, o którym mowa w art. 34 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, staje się rejestrem unijnych świadectw zdolności żeglugowej, o którym mowa w art. 34 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 11.** Instytucje klasyfikacyjne uznane przez Komisję Europejską zgodnie z dyrektywą Parlamentu Europejskiego i Rady 2006/87/WE z dnia 12 grudnia 2006 r. ustanawiającą wymagania techniczne dla statków żeglugi śródlądowej i uchylającą dyrektywę Rady 82/714/EWG (Dz. Urz. UE L 389 z 30.12.2006, str. 1, z późn. zm.) są instytucjami klasyfikacyjnymi uznanymi przez Komisję Europejską zgodnie z art. 34ac ust. 1 ustawy zmienianej w art. 1.
+**Art. 11.** Instytucje klasyfikacyjne uznane przez Komisję Europejską zgodnie z dyrektywą Parlamentu Europejskiego i Rady 2006/87/WE z dnia 12 grudnia 2006 r. ustanawiającą wymagania techniczne dla statków żeglugi śródlądowej i uchylającą dyrektywę Rady 82/714/EWG (Dz. Urz. UE L 389 z 30.12.2006, str. 1, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 389 z 30.12.2006, str. 261, Dz. Urz. UE L 166 z 27.06.2008, str. 31, Dz. Urz. UE L 255 z 23.09.2008, str. 5, Dz. Urz. UE L 260 z 30.09.2008, str. 13, Dz. Urz. UE L 32 z 31.01.2009, str. 1, Dz. Urz. UE L 109 z 30.04.2009, str. 14, Dz. Urz. UE L 6 z 10.01.2013, str. 1 i 49, Dz. Urz. UE L 158 z 10.06.2013, str. 356 oraz Dz. Urz. UE L 272 z 12.10.2013, str. 41. są instytucjami klasyfikacyjnymi uznanymi przez Komisję Europejską zgodnie z art. 34ac ust. 1 ustawy zmienianej w art. 1.
 
 **Art. 12.**
 
-1. Dla statku, o którym mowa w art. 30 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, który nie był dotychczas objęty zakresem stosowania dyrektywy 82/714/EWG z dnia 4 października 1982 r. ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej (Dz. Urz. WE L 301 z 28.10.1982, str. 1, z późn. zm., Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 143), może zostać wydane unijne świadectwo zdolności żeglugowej pomimo niezgodności z wymaganiami technicznymi, o których mowa w art. 34b ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, o ile:
+1. Dla statku, o którym mowa w art. 30 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, który nie był dotychczas objęty zakresem stosowania dyrektywy 82/714/EWG z dnia 4 października 1982 r. ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej (Dz. Urz. WE L 301 z 28.10.1982, str. 1, z późn. zm.Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 236 z 23.09.2003, str. 33 oraz Dz. Urz. UE L 363 z 20.12.2006, str. 344., Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 143), może zostać wydane unijne świadectwo zdolności żeglugowej pomimo niezgodności z wymaganiami technicznymi, o których mowa w art. 34b ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, o ile:
 
 - **1)** te niezgodności nie stanowią oczywistego zagrożenia dla bezpieczeństwa żeglugi oraz
 - **2)** statek ten był poddany inspekcji technicznej od dnia 30 grudnia 2006 r. do dnia 30 grudnia 2018 r.
@@ -618,9 +620,9 @@ source: "eli-html"
 
 4. Wymiana części na identyczne lub o równoważnej technologii i wzorze dokonywana w ramach napraw i konserwacji nie stanowi usunięcia niezgodności, o którym mowa w ust. 3.
 
-5. Za oczywiste zagrożenie, o którym mowa w ust. 1 pkt 1, uznaje się w szczególności naruszenie wymagań dotyczących stabilności konstrukcji statku, zdolności żeglugowej, właściwości manewrowych lub szczególnych cech danego statku, zgodnie z minimalnymi wymaganiami technicznymi mającymi zastosowanie do statków pływających po śródlądowych drogach wodnych rejonów 1, 2, 3 i 4, określonymi w załączniku II dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/1629 z dnia 14 września 2016 r. ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, zmieniającej dyrektywę 2009/100/WE i uchylającej dyrektywę 2006/87/WE (Dz. Urz. UE L 252 z 16.09.2016, str. 118, z późn. zm.), chyba że jest dopuszczone w ramach odstępstw określonych w tych wymaganiach.
+5. Za oczywiste zagrożenie, o którym mowa w ust. 1 pkt 1, uznaje się w szczególności naruszenie wymagań dotyczących stabilności konstrukcji statku, zdolności żeglugowej, właściwości manewrowych lub szczególnych cech danego statku, zgodnie z minimalnymi wymaganiami technicznymi mającymi zastosowanie do statków pływających po śródlądowych drogach wodnych rejonów 1, 2, 3 i 4, określonymi w załączniku II dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/1629 z dnia 14 września 2016 r. ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, zmieniającej dyrektywę 2009/100/WE i uchylającej dyrektywę 2006/87/WE (Dz. Urz. UE L 252 z 16.09.2016, str. 118, z późn. zm.)Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 174 z 10.07.2018, str. 15., chyba że jest dopuszczone w ramach odstępstw określonych w tych wymaganiach.
 
 **Art. 13.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, prowadzonych na podstawie art. 34b ust. 4 ustawy zmienianej w art. 1, stosuje się przepisy dotychczasowe.
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/1629 z dnia 14 września 2016 r. ustanawiającą wymagania techniczne dla statków żeglugi śródlądowej, zmieniającą dyrektywę 2009/100/WE i uchylającą dyrektywę 2006/87/WE (Dz. Urz. UE L 252 z 16.09.2016, str. 118 oraz Dz. Urz. UE L 174 z 10.07.2018, str. 15). 2) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 162 z 29.06.2010, str. 1, Dz. Urz. UE L 141 z 28.05.2016, str. 51 oraz Dz. Urz. UE L 315 z 30.11.2017, str. 40. 3) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 174 z 10.07.2018, str. 15. 4) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 344 z 27.12.2005, str. 52 oraz Dz. Urz. UE L 87 z 31.03.2009, str. 109. 5) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 6) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 389 z 30.12.2006, str. 261, Dz. Urz. UE L 166 z 27.06.2008, str. 31, Dz. Urz. UE L 255 z 23.09.2008, str. 5, Dz. Urz. UE L 260 z 30.09.2008, str. 13, Dz. Urz. UE L 32 z 31.01.2009, str. 1, Dz. Urz. UE L 109 z 30.04.2009, str. 14, Dz. Urz. UE L 6 z 10.01.2013, str. 1 i 49, Dz. Urz. UE L 158 z 10.06.2013, str. 356 oraz Dz. Urz. UE L 272 z 12.10.2013, str. 41. 7) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 236 z 23.09.2003, str. 33 oraz Dz. Urz. UE L 363 z 20.12.2006, str. 344. 8) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 174 z 10.07.2018, str. 15.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-10-09 |
 | Data wydania | 2009-11-12 |
-| Wejście w życie | 2009-12-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091901475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1475/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676, i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344 oraz z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911 i Nr 115, poz. 963.) wprowadza się następujące zmiany:
 
 - **1)** w art. 110: po § 2 dodaje się § 2a-2i w brzmieniu: „
     - **a)**
@@ -34,7 +33,7 @@ source: "eli-html"
 § 2a. Dyrektor zakładu karnego lub aresztu śledczego może umieścić skazanego na czas określony, nie dłuższy niż 90 dni, w warunkach, o których mowa w § 2 zdanie drugie, w celi mieszkalnej, w której powierzchnia przypadająca na skazanego wynosi poniżej 3 m2, nie mniej jednak niż 2 m2, w razie:
 
 - **1)** wprowadzenia stanu wojennego, wyjątkowego lub klęski żywiołowej, lub w czasie ich obowiązywania,
-- **2)** ogłoszenia na terenie położenia zakładu karnego lub aresztu śledczego stanu zagrożenia epidemiologicznego lub stanu epidemii albo wystąpienia w zakładzie karnym lub areszcie śledczym stanu zagrożenia epidemiologicznego lub stanu epidemii uwzględniając stopień zagrożenia dla życia i zdrowia;
+- **2)** ogłoszenia na terenie położenia zakładu karnego lub aresztu śledczego stanu zagrożenia epidemiologicznego lub stanu epidemii albo wystąpienia w zakładzie karnym lub areszcie śledczym stanu zagrożenia epidemiologicznego lub stanu epidemii – uwzględniając stopień zagrożenia dla życia i zdrowia;
 - **3)** konieczności zapobieżenia wystąpieniu innego zdarzenia stanowiącego bezpośrednie zagrożenie dla bezpieczeństwa skazanego albo bezpieczeństwa zakładu karnego lub aresztu śledczego albo zapobieżenia skutkom takiego zdarzenia.
 
 § 2b. Dyrektor zakładu karnego lub aresztu śledczego może umieścić skazanego na czas określony, nie dłuższy niż 14 dni, w warunkach, o których mowa w § 2 zdanie drugie, w celi mieszkalnej, w której powierzchnia przypadająca na skazanego wynosi poniżej 3 m2, nie mniej jednak niż 2 m2, jeżeli zachodzi konieczność natychmiastowego umieszczenia w zakładzie karnym lub areszcie śledczym nieposiadającym wolnych miejsc w celach mieszkalnych:
@@ -76,5 +75,5 @@ source: "eli-html"
 
 - **3)** uchyla się art. 248.
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 6 grudnia 2009 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 6 grudnia 2009 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676, i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344 oraz z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911 i Nr 115, poz. 963.
 

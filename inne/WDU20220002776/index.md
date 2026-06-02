@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 19 grudnia 2022 r. w sprawie uwidaczniania cen towarów i usług
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 19 grudnia 2022 r. w sprawie uwidaczniania cen towarów i usług Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-19 |
 | Data wydania | 2022-12-27 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002776) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2776/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług (Dz. U. z 2019 r. poz. 178 oraz z 2022 r. poz. 2581) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 98/6/WE Parlamentu Europejskiego i Rady z dnia 16 lutego 1998 r. w sprawie ochrony konsumenta przez podawanie cen produktów oferowanych konsumentom (Dz. Urz. WE L 80 z 18.03.1998, str. 27, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 32 oraz Dz. Urz. UE L 328 z 18.12.2019, str. 7). Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług (Dz. U. z 2019 r. poz. 178 oraz z 2022 r. poz. 2581) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -45,7 +44,7 @@ towarze sprzedawanym na sztuki – należy przez to rozumieć towar, który jest
 4)
 wywieszce – należy przez to rozumieć etykietę, metkę, tabliczkę lub plakat;
 5)
-środku płynnym – należy przez to rozumieć środek płynny, o którym mowa w pkt 5 załącznika IX do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.);
+środku płynnym – należy przez to rozumieć środek płynny, o którym mowa w pkt 5 załącznika IX do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 306 z 16.11.2013, str. 7, Dz. Urz. UE L 27 z 30.01.2014, str. 7, Dz. Urz. UE L 331 z 18.11.2014, str. 40, Dz. Urz. UE L 327 z 11.12.2015, str. 1, Dz. Urz. UE L 266 z 30.09.2016, str. 7, Dz. Urz. UE L 39 z 11.02.2019, str. 28 oraz Dz. Urz. UE L 355 z 07.10.2021, str. 143.);
 6)
 masie netto po odsączeniu – należy przez to rozumieć masę środka spożywczego w stanie stałym umieszczonego w środku płynnym.
 § 3.
@@ -138,6 +137,5 @@ Na stacjach benzynowych ceny paliw uwidacznia się w taki sposób, aby były one
 2.
 Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy wynajmującego lub ochraniającego garaże, zadaszone wiaty oraz miejsca parkingowe albo przyjmującego na przechowanie pojazdy samochodowe.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 98/6/WE Parlamentu Europejskiego i Rady z dnia 16 lutego 1998 r. w sprawie ochrony konsumenta przez podawanie cen produktów oferowanych konsumentom (Dz. Urz. WE L 80 z 18.03.1998, str. 27, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 32 oraz Dz. Urz. UE L 328 z 18.12.2019, str. 7). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 306 z 16.11.2013, str. 7, Dz. Urz. UE L 27 z 30.01.2014, str. 7, Dz. Urz. UE L 331 z 18.11.2014, str. 40, Dz. Urz. UE L 327 z 11.12.2015, str. 1, Dz. Urz. UE L 266 z 30.09.2016, str. 7, Dz. Urz. UE L 39 z 11.02.2019, str. 28 oraz Dz. Urz. UE L 355 z 07.10.2021, str. 143. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju z dnia 9 grudnia 2015 r. w sprawie uwidaczniania cen towarów i usług (Dz. U. poz. 2121), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju z dnia 9 grudnia 2015 r. w sprawie uwidaczniania cen towarów i usług (Dz. U. poz. 2121), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581). 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 98/6/WE Parlamentu Europejskiego i Rady z dnia 16 lutego 1998 r. w sprawie ochrony konsumenta przez podawanie cen produktów oferowanych konsumentom (Dz. Urz. WE L 80 z 18.03.1998, str. 27, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 32 oraz Dz. Urz. UE L 328 z 18.12.2019, str. 7). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 306 z 16.11.2013, str. 7, Dz. Urz. UE L 27 z 30.01.2014, str. 7, Dz. Urz. UE L 331 z 18.11.2014, str. 40, Dz. Urz. UE L 327 z 11.12.2015, str. 1, Dz. Urz. UE L 266 z 30.09.2016, str. 7, Dz. Urz. UE L 39 z 11.02.2019, str. 28 oraz Dz. Urz. UE L 355 z 07.10.2021, str. 143. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju z dnia 9 grudnia 2015 r. w sprawie uwidaczniania cen towarów i usług (Dz. U. poz. 2121), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581).
 

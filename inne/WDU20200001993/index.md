@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-06 |
 | Data wydania | 2020-11-12 |
-| Wejście w życie | 2020-11-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001993) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1993/text.pdf) |
 
@@ -121,5 +120,5 @@ W przypadku konieczności dokonania zwrotu przekazanych wcześniej środków fin
 § 6.
 Przepis § 5 stosuje się odpowiednio do Szefa ABW kierującego weterana poszkodowanego-funkcjonariusza ABW do świadczeniodawcy, który udzieli świadczeń opieki zdrowotnej, w przypadku gdy podmiot leczniczy, dla którego podmiotem tworzącym jest Szef ABW, nie ma możliwości zrealizowania świadczenia opieki zdrowotnej, które jest wymagane z uwagi na stan zdrowia weterana poszkodowanego-funkcjonariusza ABW.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 5 lutego 2013 r. w sprawie świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym-funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu (Dz. U. poz. 207), które na podstawie art. 19 ust. 1 pkt 5 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 5 lutego 2013 r. w sprawie świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym-funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu (Dz. U. poz. 207), które na podstawie art. 19 ust. 1 pkt 5 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o weteranach działań poza granicami państwa oraz niektórych innych ustaw (Dz. U. poz. 1726) utraciło moc z dniem 11 października 2020 r.
 

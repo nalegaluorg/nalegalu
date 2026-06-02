@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 27 sierpnia 2019 r. zmieniające rozporządzenie w sprawie ramowego programu szkolenia kandydatów na egzaminatorów, sposobu prowadzenia ewidencji egzaminatorów oraz trybu wpisywania i skreślania egzaminatorów z ewidencji
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 27 sierpnia 2019 r. zmieniające rozporządzenie w sprawie ramowego programu szkolenia kandydatów na egzaminatorów, sposobu prowadzenia ewidencji egzaminatorów oraz trybu wpisywania i skreślania egzaminatorów z ewidencji Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-27 |
 | Data wydania | 2019-08-30 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001660) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1660/text.pdf) |
 
@@ -39,28 +38,21 @@ uchyla się pkt 2,
 b)
 uchyla się pkt 7,
 c)
-w pkt 9 w lit. d kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu:
-„
+w pkt 9 w lit. d kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
 10)
-egzaminu zawodowego, stanowiący załącznik nr 15 do rozporządzenia.
-” ;
+egzaminu zawodowego, stanowiący załącznik nr 15 do rozporządzenia. ” ;
 2)
 w § 2:
 a)
-w ust. 1 pkt 10 otrzymuje brzmienie:
-„
+w ust. 1 pkt 10 otrzymuje brzmienie: „
 10)
-zakres, w którym ubiega się o wpis do ewidencji egzaminatorów, zgodny z zakresem, o którym mowa w § 5 ust. 1 pkt 9, z tym że osoba ubiegająca się o wpis do ewidencji egzaminatorów w zakresie, o którym mowa w § 5 ust. 1 pkt 9 lit. e, wskazuje także nazwę zawodu oraz symbole i nazwy wszystkich kwalifikacji wyodrębnionych w zawodzie, zgodnie z klasyfikacją zawodów szkolnictwa branżowego określoną w rozporządzeniu Ministra Edukacji Narodowej z dnia 15 lutego 2019 r. w sprawie ogólnych celów i zadań kształcenia w zawodach szkolnictwa branżowego oraz klasyfikacji zawodów szkolnictwa branżowego (Dz. U. poz. 316).
-” ,
+zakres, w którym ubiega się o wpis do ewidencji egzaminatorów, zgodny z zakresem, o którym mowa w § 5 ust. 1 pkt 9, z tym że osoba ubiegająca się o wpis do ewidencji egzaminatorów w zakresie, o którym mowa w § 5 ust. 1 pkt 9 lit. e, wskazuje także nazwę zawodu oraz symbole i nazwy wszystkich kwalifikacji wyodrębnionych w zawodzie, zgodnie z klasyfikacją zawodów szkolnictwa branżowego określoną w rozporządzeniu Ministra Edukacji Narodowej z dnia 15 lutego 2019 r. w sprawie ogólnych celów i zadań kształcenia w zawodach szkolnictwa branżowego oraz klasyfikacji zawodów szkolnictwa branżowego (Dz. U. poz. 316). ” ,
 b)
-w ust. 2 pkt 3 otrzymuje brzmienie:
-„
+w ust. 2 pkt 3 otrzymuje brzmienie: „
 3)
-oświadczenie o spełnieniu warunków, o których mowa w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730 i 1287).
-” ,
+oświadczenie o spełnieniu warunków, o których mowa w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730 i 1287). ” ,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
 Osoba będąca przedstawicielem pracodawcy lub organizacji pracodawców, samorządu gospodarczego lub innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego albo sektorowej rady do spraw kompetencji ubiegająca się o wpis do ewidencji egzaminatorów w zakresie, o którym mowa w § 5 ust. 1 pkt 9 lit. e, do wniosku dołącza:
 1)
@@ -70,37 +62,55 @@ poświadczone za zgodność z oryginałem kopie dokumentów potwierdzających po
 3)
 poświadczone za zgodność z oryginałem kopie dokumentów potwierdzających posiadanie doświadczenia, o którym mowa w art. 9c ust. 4 pkt 1 lit. c ustawy;
 4)
-oświadczenie o spełnieniu warunków, o których mowa w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
-” ,
+oświadczenie o spełnieniu warunków, o których mowa w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela. ” ,
 d)
-po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
 Osoba, która jest egzaminatorem wpisanym na listę egzaminatorów prowadzoną przez ministra właściwego do spraw gospodarki morskiej, o której mowa w art. 77 ust. 3 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452), do wniosku dołącza:
 1)
 oświadczenie o wpisie na listę egzaminatorów prowadzoną przez ministra właściwego do spraw gospodarki morskiej, o której mowa w art. 77 ust. 3 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim;
 2)
-oświadczenie o spełnieniu warunków, o których mowa w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
-” ;
+oświadczenie o spełnieniu warunków, o których mowa w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela. ” ;
 3)
 w § 5:
 a)
 w ust. 1:
-– w pkt 9: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ zakres, w którym jest egzaminatorem, wskazany spośród następujących zakresów: ” , – – lit. a otrzymuje brzmienie: „ a) egzamin ósmoklasisty i egzaminy eksternistyczne z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania ośmioletniej szkoły podstawowej dla dorosłych, ” , – – uchyla się lit. b, – – lit. c otrzymuje brzmienie: „ c) egzamin maturalny, egzaminy eksternistyczne z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania ośmioletniej szkoły podstawowej dla dorosłych, liceum ogólnokształcącego dla dorosłych i egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia i branżowej szkoły II stopnia, ” , – – uchyla się lit. d, – – dodaje się lit. e w brzmieniu: „ e) egzamin zawodowy, z uwzględnieniem ust. 1a, z tym że w przypadku egzaminu zawodowego w zawodzie technik ekonomista – także egzamin eksternistyczny z obowiązkowych zajęć edukacyjnych „podstawy przedsiębiorczości”; ” , – pkt 11 otrzymuje brzmienie: „ 11) nadany przez komisję okręgową: a) w przypadku egzaminatorów w zakresie, o którym mowa w pkt 9 lit. a i c – indywidualny dziewięciocyfrowy numer ewidencyjny egzaminatora, zawierający kolejno: – jednocyfrowy kod komisji okręgowej, – trzycyfrowy kod odpowiednio egzaminu ósmoklasisty albo egzaminu maturalnego, z uwzględnieniem uprawnienia do sprawdzania i oceniania prac odpowiednio uczniów (słuchaczy) niesłyszących i słabosłyszących, niewidomych i słabowidzących lub uczniów z niepełnosprawnością intelektualną w stopniu lekkim – jeżeli egzaminator takie uprawnienie posiada, – pięć cyfr wynikających z kolejności wpisu do ewidencji egzaminatorów, b) w przypadku egzaminatorów w zakresie, o którym mowa w pkt 9 lit. e: – indywidualny siedmioznakowy numer ewidencyjny egzaminatora, zawierający kolejno jednocyfrowy kod komisji okręgowej, znak „ -” i pięć cyfr wynikających z kolejności wpisu do ewidencji egzaminatorów, – kod uprawnienia, zawierający kolejno sześć cyfr symbolu cyfrowego zawodu, zgodnie z klasyfikacją zawodów szkolnictwa branżowego określoną w rozporządzeniu, o którym mowa w § 2 ust. 1 pkt 10, znak „/”, oddzielone znakiem „/” symbole i nazwy wszystkich kwalifikacji wyodrębnionych w tym zawodzie, zgodnie z klasyfikacją zawodów szkolnictwa branżowego określoną w rozporządzeniu, o którym mowa w § 2 ust. 1 pkt 10, a także znak „/” oraz cztery cyfry roku uzyskania uprawnienia wraz z informacją o posiadaniu uprawnienia do sprawdzania i oceniania prac odpowiednio zdających niesłyszących i słabosłyszących, niewidomych i słabowidzących lub zdających z niepełnosprawnością intelektualną w stopniu lekkim – jeżeli egzaminator takie uprawnienie posiada. ” ,
+w pkt 9:
+– – wprowadzenie do wyliczenia otrzymuje brzmienie: „ zakres, w którym jest egzaminatorem, wskazany spośród następujących zakresów: ” ,
+– lit. a otrzymuje brzmienie: „
+a)
+egzamin ósmoklasisty i egzaminy eksternistyczne z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania ośmioletniej szkoły podstawowej dla dorosłych, ” ,
+– – uchyla się lit. b,
+– lit. c otrzymuje brzmienie: „
+c)
+egzamin maturalny, egzaminy eksternistyczne z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania ośmioletniej szkoły podstawowej dla dorosłych, liceum ogólnokształcącego dla dorosłych i egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia i branżowej szkoły II stopnia, ” ,
+– – uchyla się lit. d,
+– dodaje się lit. e w brzmieniu: „
+e)
+egzamin zawodowy, z uwzględnieniem ust. 1a, z tym że w przypadku egzaminu zawodowego w zawodzie technik ekonomista – także egzamin eksternistyczny z obowiązkowych zajęć edukacyjnych „podstawy przedsiębiorczości”; ” ,
+pkt 11 otrzymuje brzmienie: „
+11)
+nadany przez komisję okręgową:
+a)
+w przypadku egzaminatorów w zakresie, o którym mowa w pkt 9 lit. a i c – indywidualny dziewięciocyfrowy numer ewidencyjny egzaminatora, zawierający kolejno:
+– jednocyfrowy kod komisji okręgowej,
+– trzycyfrowy kod odpowiednio egzaminu ósmoklasisty albo egzaminu maturalnego, z uwzględnieniem uprawnienia do sprawdzania i oceniania prac odpowiednio uczniów (słuchaczy) niesłyszących i słabosłyszących, niewidomych i słabowidzących lub uczniów z niepełnosprawnością intelektualną w stopniu lekkim – jeżeli egzaminator takie uprawnienie posiada,
+– pięć cyfr wynikających z kolejności wpisu do ewidencji egzaminatorów,
 b)
-ust. 1a otrzymuje brzmienie:
-„
+w przypadku egzaminatorów w zakresie, o którym mowa w pkt 9 lit. e:
+– indywidualny siedmioznakowy numer ewidencyjny egzaminatora, zawierający kolejno jednocyfrowy kod komisji okręgowej, znak „ -” i pięć cyfr wynikających z kolejności wpisu do ewidencji egzaminatorów,
+– kod uprawnienia, zawierający kolejno sześć cyfr symbolu cyfrowego zawodu, zgodnie z klasyfikacją zawodów szkolnictwa branżowego określoną w rozporządzeniu, o którym mowa w § 2
+ust. 1 pkt 10, znak „/”, oddzielone znakiem „/” symbole i nazwy wszystkich kwalifikacji wyodrębnionych w tym zawodzie, zgodnie z klasyfikacją zawodów szkolnictwa branżowego określoną w rozporządzeniu, o którym mowa w § 2 ust. 1 pkt 10, a także znak „/” oraz cztery cyfry roku uzyskania uprawnienia wraz z informacją o posiadaniu uprawnienia do sprawdzania i oceniania prac odpowiednio zdających niesłyszących i słabosłyszących, niewidomych i słabowidzących lub zdających z niepełnosprawnością intelektualną w stopniu lekkim – jeżeli egzaminator takie uprawnienie posiada. ” ,
+b)
+ust. 1a otrzymuje brzmienie: „
 1a.
-Wpis do ewidencji egzaminatorów w zakresie, o którym mowa w ust. 1 pkt 9 lit. e, obejmuje także nazwę zawodu oraz symbole i nazwy wszystkich kwalifikacji wyodrębnionych w tym zawodzie, zgodnie z klasyfikacją zawodów szkolnictwa branżowego określoną w rozporządzeniu, o którym mowa w § 2 ust. 1 pkt 10. Jeżeli co najmniej jedna z kwalifikacji wyodrębnionych w danym zawodzie została wyodrębniona jako kwalifikacja wspólna z innym zawodem lub zawodami, wpis obejmuje dodatkowo nazwę tego zawodu lub zawodów oraz symbol i nazwę tej kwalifikacji.
-” ;
+Wpis do ewidencji egzaminatorów w zakresie, o którym mowa w ust. 1 pkt 9 lit. e, obejmuje także nazwę zawodu oraz symbole i nazwy wszystkich kwalifikacji wyodrębnionych w tym zawodzie, zgodnie z klasyfikacją zawodów szkolnictwa branżowego określoną w rozporządzeniu, o którym mowa w § 2 ust. 1 pkt 10. Jeżeli co najmniej jedna z kwalifikacji wyodrębnionych w danym zawodzie została wyodrębniona jako kwalifikacja wspólna z innym zawodem lub zawodami, wpis obejmuje dodatkowo nazwę tego zawodu lub zawodów oraz symbol i nazwę tej kwalifikacji. ” ;
 4)
-w § 9 ust. 2 i 3 otrzymują brzmienie:
-„
+w § 9 ust. 2 i 3 otrzymują brzmienie: „
 2.
 Wniosek, o którym mowa w ust. 1 pkt 2, zawiera dane, o których mowa w § 2 ust. 1. Do wniosku dołącza się oświadczenie o spełnieniu warunków, o których mowa w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, a w przypadku osoby, która jest egzaminatorem wpisanym na listę egzaminatorów prowadzoną przez ministra właściwego do spraw gospodarki morskiej – także oświadczenie, o którym mowa w § 2 ust. 3a pkt 1.
 3.
-Komisja okręgowa właściwa ze względu na obecne miejsce zamieszkania egzaminatora zwraca się do komisji okręgowej właściwej ze względu na dotychczasowe miejsce zamieszkania egzaminatora z wnioskiem o przekazanie dokumentów dotyczących egzaminatora, o których mowa w § 2 ust. 2 pkt 1 i 2 albo w ust. 3 pkt 1–3, oraz informacji potwierdzającej ukończenie z wynikiem pozytywnym szkolenia dla kandydatów na egzaminatorów. Komisja okręgowa właściwa ze względu na dotychczasowe miejsce zamieszkania egzaminatora przekazuje dokumentację, której dotyczy wniosek, w terminie 14 dni od dnia otrzymania wniosku.
-” ;
+Komisja okręgowa właściwa ze względu na obecne miejsce zamieszkania egzaminatora zwraca się do komisji okręgowej właściwej ze względu na dotychczasowe miejsce zamieszkania egzaminatora z wnioskiem o przekazanie dokumentów dotyczących egzaminatora, o których mowa w § 2 ust. 2 pkt 1 i 2 albo w ust. 3 pkt 1–3, oraz informacji potwierdzającej ukończenie z wynikiem pozytywnym szkolenia dla kandydatów na egzaminatorów. Komisja okręgowa właściwa ze względu na dotychczasowe miejsce zamieszkania egzaminatora przekazuje dokumentację, której dotyczy wniosek, w terminie 14 dni od dnia otrzymania wniosku. ” ;
 5)
 uchyla się załączniki nr 2–4 do rozporządzenia;
 6)
@@ -115,8 +125,33 @@ Do prowadzenia szkoleń kandydatów na egzaminatorów w zakresie egzaminu potwie
 § 3.
 W roku szkolnym 2019/2020 wpis do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu maturalnego obejmuje następujący zakres: egzamin maturalny, egzaminy eksternistyczne z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania ośmioletniej szkoły podstawowej dla dorosłych, gimnazjum dla dorosłych, liceum ogólnokształcącego dla dorosłych i egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem § 1 pkt 1 lit. a, pkt 3 lit. a tiret pierwsze podwójne tiret pierwsze, trzecie i czwarte, pkt 3 lit. a tiret drugie w zakresie § 5 ust. 1 pkt 11 lit. a, a także pkt 5, które wchodzą w życie z dniem 1 września 2020 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem § 1 pkt 1 lit. a, pkt 3 lit. a tiret pierwsze podwójne tiret pierwsze, trzecie i czwarte, pkt 3 lit. a tiret drugie w zakresie § 5 ust. 1 pkt 11 lit. a, a także pkt 5, które wchodzą w życie z dniem 1 września 2020 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 Załącznik – Ramowy program szkolenia kandydatów na egzaminatorów w zakresie egzaminu zawodowego
-Lp. Blok tematyczny Cele szkolenia Liczba godzin szkolenia wykłady2) ćwiczenia Część I3) 1 Egzamin w systemie oceniania i egzaminowania W wyniku realizacji bloku tematycznego uczestnik szkolenia powinien umieć:1) scharakteryzować system oceniania i egzaminowania;2) stosować przepisy prawa dotyczące oceniania i egzaminowania;3) opisywać i rozróżniać zadania Centralnej Komisji Egzaminacyjnej i okręgowych komisji egzaminacyjnych;4) określić miejsce i funkcje egzaminu zawodowego w systemie egzaminowania;5) opisać strukturę i formę egzaminu;6) określić rolę i zadania szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy z dnia14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, 1078 i 1287), pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, związane z przeprowadzaniem egzaminu;7) określić rolę i zadania szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy z dnia14 grudnia 2016 r. – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, związane z: a) przekazywaniem informacji o egzaminie, b) przygotowaniem do egzaminu, c) przekazywaniem wyników egzaminu. 1 2 Zadania praktyczne na egzaminie W wyniku realizacji bloku tematycznego uczestnik szkolenia powinien umieć:1) określić przepisy prawa będące podstawą przygotowywania zadania praktycznego;2) opisać podstawę programową kształcenia w zawodzie szkolnictwa branżowego będącą podstawą przeprowadzania egzaminu i rozróżniać poszczególne elementy jej struktury;3) określić zakres umiejętności, które sprawdzają poszczególne rodzaje zadań egzaminacyjnych;4) przedstawić proces tworzenia i doskonalenia arkusza egzaminacyjnego do przeprowadzania egzaminu. 1 2 3 Zadania i obowiązki egzaminatora. Etyczne i moralne aspekty egzaminowania W wyniku realizacji bloku tematycznego uczestnik szkolenia powinien umieć:1) wymienić zadania i obowiązki egzaminatora;2) określić rolę i kompetencje egzaminatora w zakresie egzaminu;3) wymienić i omówić zasady etyki w postępowaniu egzaminatora;4) rozróżniać czynniki wpływające na wyniki porównywalność sprawdzania i oceniania przez egzaminatorów rezultatów wykonania zadania egzaminacyjnego w części praktycznej egzaminu. 2 2 Część II4) 4 Ocena rezultatów wykonania zadania egzaminacyjnego w części praktycznej egzaminu W wyniku realizacji bloku tematycznego uczestnik szkolenia powinien umieć:1) określić umiejętności sprawdzane w części praktycznej egzaminu w danej kwalifikacji, ujęte w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego będącej podstawą przeprowadzania egzaminu;2) opisać zasady oceniania rezultatów wykonania zadania egzaminacyjnego w części praktycznej egzaminu;3) oceniać jakość rezultatu końcowego i przebieg wykonania zadania egzaminacyjnego przez zdających;4) stosować procedury związane z przeprowadzaniem egzaminu. 2 16 Egzamin ze znajomości zasad przeprowadzania i oceniania egzaminu zawodowego, w szczególności zasad oceniania rezultatów wykonania zadania egzaminacyjnego w części praktycznej tego egzaminu. 4 Razem godzin 30 1) W przypadku szkolenia kandydatów na egzaminatorów w zakresie egzaminu przeprowadzanego dla zdających niesłyszących i słabo słyszących, niewidomych i słabowidzących należy uwzględnić specyfikę danej niepełnosprawności. 2) Wykłady mogą być prowadzone w trybie kształcenia na odległość. 3) Zajęcia w ramach części I są prowadzone w grupach liczących nie więcej niż 24 osoby; w zajęciach mogą uczestniczyć kandydaci na egzaminatorów w zakresie egzaminu zawodowego, przeprowadzanego z kwalifikacji wyodrębnionych w zawodach, które są przyporządkowane do różnych branż, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, określoną w przepisach, o których mowa w § 2 ust. 1 pkt 10 rozporządzenia. 4) Zajęcia w ramach części II są prowadzone w grupach liczących nie więcej niż 24 osoby; w zajęciach mogą uczestniczyć wyłącznie kandydaci na egzaminatorów w zakresie egzaminu zawodowego dla kwalifikacji wyodrębnionych w zawodach, które są przyporządkowane do tych samych branż, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, określoną w przepisach, o których mowa w § 2 ust. 1 pkt 10 rozporządzenia.
+Lp. Blok tematyczny Cele szkolenia Liczba godzin szkolenia wykłady2) ćwiczenia Część I3) 1 Egzamin w systemie oceniania i egzaminowania W wyniku realizacji bloku tematycznego uczestnik szkolenia powinien umieć:
+1) scharakteryzować system oceniania i egzaminowania;
+2) stosować przepisy prawa dotyczące oceniania i egzaminowania;
+3) opisywać i rozróżniać zadania Centralnej Komisji Egzaminacyjnej i okręgowych komisji egzaminacyjnych;
+4) określić miejsce i funkcje egzaminu zawodowego w systemie egzaminowania;
+5) opisać strukturę i formę egzaminu;
+6) określić rolę i zadania szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy z dnia
+14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, 1078 i 1287), pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, związane z przeprowadzaniem egzaminu;
+7) określić rolę i zadania szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy z dnia
+14 grudnia 2016 r. – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, związane z:
+a) przekazywaniem informacji o egzaminie,
+b) przygotowaniem do egzaminu,
+c) przekazywaniem wyników egzaminu. 1 2 Zadania praktyczne na egzaminie W wyniku realizacji bloku tematycznego uczestnik szkolenia powinien umieć:
+1) określić przepisy prawa będące podstawą przygotowywania zadania praktycznego;
+2) opisać podstawę programową kształcenia w zawodzie szkolnictwa branżowego będącą podstawą przeprowadzania egzaminu i rozróżniać poszczególne elementy jej struktury;
+3) określić zakres umiejętności, które sprawdzają poszczególne rodzaje zadań egzaminacyjnych;
+4) przedstawić proces tworzenia i doskonalenia arkusza egzaminacyjnego do przeprowadzania egzaminu. 1 2 3 Zadania i obowiązki egzaminatora. Etyczne i moralne aspekty egzaminowania W wyniku realizacji bloku tematycznego uczestnik szkolenia powinien umieć:
+1) wymienić zadania i obowiązki egzaminatora;
+2) określić rolę i kompetencje egzaminatora w zakresie egzaminu;
+3) wymienić i omówić zasady etyki w postępowaniu egzaminatora;
+4) rozróżniać czynniki wpływające na wynik
+i porównywalność sprawdzania i oceniania przez egzaminatorów rezultatów wykonania zadania egzaminacyjnego w części praktycznej egzaminu. 2 2 Część II4) 4 Ocena rezultatów wykonania zadania egzaminacyjnego w części praktycznej egzaminu W wyniku realizacji bloku tematycznego uczestnik szkolenia powinien umieć:
+1) określić umiejętności sprawdzane w części praktycznej egzaminu w danej kwalifikacji, ujęte w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego będącej podstawą przeprowadzania egzaminu;
+2) opisać zasady oceniania rezultatów wykonania zadania egzaminacyjnego w części praktycznej egzaminu;
+3) oceniać jakość rezultatu końcowego i przebieg wykonania zadania egzaminacyjnego przez zdających;
+4) stosować procedury związane z przeprowadzaniem egzaminu. 2 16 Egzamin ze znajomości zasad przeprowadzania i oceniania egzaminu zawodowego, w szczególności zasad oceniania rezultatów wykonania zadania egzaminacyjnego w części praktycznej tego egzaminu. 4 Razem godzin 30
+1) W przypadku szkolenia kandydatów na egzaminatorów w zakresie egzaminu przeprowadzanego dla zdających niesłyszących i słabo słyszących, niewidomych i słabowidzących należy uwzględnić specyfikę danej niepełnosprawności. 2) Wykłady mogą być prowadzone w trybie kształcenia na odległość. 3) Zajęcia w ramach części I są prowadzone w grupach liczących nie więcej niż 24 osoby; w zajęciach mogą uczestniczyć kandydaci na egzaminatorów w zakresie egzaminu zawodowego, przeprowadzanego z kwalifikacji wyodrębnionych w zawodach, które są przyporządkowane do różnych branż, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, określoną w przepisach, o których mowa w § 2 ust. 1 pkt 10 rozporządzenia. 4) Zajęcia w ramach części II są prowadzone w grupach liczących nie więcej niż 24 osoby; w zajęciach mogą uczestniczyć wyłącznie kandydaci na egzaminatorów w zakresie egzaminu zawodowego dla kwalifikacji wyodrębnionych w zawodach, które są przyporządkowane do tych samych branż, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, określoną w przepisach, o których mowa w § 2 ust. 1 pkt 10 rozporządzenia.
 

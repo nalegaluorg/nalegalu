@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-09 |
 | Data wydania | 2024-09-13 |
-| Wejście w życie | 2024-09-14 |
 | Ostatnia zmiana | 2026-02-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001360) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1360/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 4 ust. 2 i art. 6 ust. 1 ustawy z dnia 21 grudnia 1978 r. o od
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 26 kwietnia 2023 r. w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Polonii i Polaków za Granicą, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia (Dz. U. poz. 814) wprowadza się następujące zmiany:
 1)
-§ 2 otrzymuje brzmienie:
-„
+§ 2 otrzymuje brzmienie: „
 § 2.
 1.
 Odznakę nadaje Prezes Rady Ministrów na wniosek przedstawiony przez ministra właściwego do spraw zagranicznych albo z własnej inicjatywy.
@@ -45,20 +43,16 @@ posła lub senatora;
 2)
 ministra lub kierownika urzędu centralnego;
 3)
-kierownika placówki zagranicznej Rzeczypospolitej Polskiej.
-” ;
+kierownika placówki zagranicznej Rzeczypospolitej Polskiej. ” ;
 2)
 w § 3:
 a)
 w ust. 1 uchyla się pkt 7,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Wniosek, o którym mowa w § 2 ust. 2, przedstawia się ministrowi właściwemu do spraw zagranicznych co najmniej na trzy miesiące przed planowanym terminem wręczenia odznaki.
-” ,
+Wniosek, o którym mowa w § 2 ust. 2, przedstawia się ministrowi właściwemu do spraw zagranicznych co najmniej na trzy miesiące przed planowanym terminem wręczenia odznaki. ” ,
 c)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
 

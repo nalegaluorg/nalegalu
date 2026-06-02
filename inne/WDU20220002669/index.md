@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 12 grudnia 2022 r. w sprawie trybu przyznawania liczby dofinansowanych ze środków budżetu państwa miejsc szkoleniowych dla poszczególnych jednostek szkolących w dziedzinach medycyny laboratoryjnej
+# Rozporządzenie Ministra Zdrowiaz dnia 12 grudnia 2022 r. w sprawie trybu przyznawania liczby dofinansowanych ze środków budżetu państwa miejsc szkoleniowych dla poszczególnych jednostek szkolących w dziedzinach medycyny laboratoryjnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-12 |
 | Data wydania | 2022-12-19 |
-| Wejście w życie | 2022-12-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002669) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2669/text.pdf) |
 
@@ -42,6 +41,5 @@ W przypadku gdy liczba wolnych miejsc szkoleniowych zgłoszona przez jednostki s
 § 5.
 Minister właściwy do spraw zdrowia ogłasza w Biuletynie Informacji Publicznej, na swojej stronie podmiotowej, liczbę dofinansowanych ze środków budżetu państwa miejsc szkoleniowych w określonych dziedzinach medycyny laboratoryjnej, w poszczególnych jednostkach szkolących.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

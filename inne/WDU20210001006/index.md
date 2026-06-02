@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-15 |
 | Data wydania | 2021-06-02 |
-| Wejście w życie | 2021-06-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001006) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1006/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 2a. Rada Ministrów może określić, w przepisach wydanych na podstawie ust. 2, że:
 
-- **1)** realizacja i obsługa świadczeń przyznanych na podstawie programu, o którym mowa w ust. 1, w tym w szczególności: składanie wniosku i załączników do wniosku o przyznanie świadczeń, a także wnoszenie innych pism w sprawie świadczeń, doręczanie decyzji, informacji, postanowień, zawiadomień, wezwań, zaświadczeń i innych pism w sprawie świadczeń odbywają się wyłącznie w drodze elektronicznej, za pomocą systemów teleinformatycznych określonych w przepisach wydanych na podstawie ust. 2;
+- **1)** realizacja i obsługa świadczeń przyznanych na podstawie programu, o którym mowa w ust. 1, w tym w szczególności: składanie wniosku i załączników do wniosku o przyznanie świadczeń, a także wnoszenie innych pism w sprawie świadczeń, doręczanie decyzji, informacji, postanowień, zawiadomień, wezwań, zaświadczeń i innych pism w sprawie świadczeń – odbywają się wyłącznie w drodze elektronicznej, za pomocą systemów teleinformatycznych określonych w przepisach wydanych na podstawie ust. 2;
     - **a)**
     - **b)**
 

@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-05-11 |
 | Data wydania | 2001-06-22 |
-| Wejście w życie | 2001-09-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010630635) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/635/text.pdf) |
+
+Postępowanie wieczystoksięgowe
 
 **Art. 1.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. Nr 19, poz. 147, z 1991 r. Nr 22, poz. 92i Nr 115, poz. 496, z 1994 r. Nr 85, poz. 388, z 1996 r. Nr 107, poz. 499, z 1997 r. Nr 117, poz. 752, Nr 137, poz. 926i Nr 140, poz. 940, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 74, poz. 855oraz z 2001 r. Nr 39, poz. 459) wprowadza się następujące zmiany:
 
@@ -175,7 +176,7 @@ source: "eli-html"
 
 - **6)** po art. 626 dodaje się rozdział 6 w brzmieniu: „
 
-#### Rozdział 6 Postępowanie wieczystoksięgowe
+#### Rozdział 6
 
 **Art. 6261.**
 

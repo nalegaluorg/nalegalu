@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 czerwca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze”
+# Obwieszczenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 czerwca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -38,24 +38,19 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lutego 2022 r. zmien
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lutego 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 292), który stanowi:
-„
+§ 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lutego 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 292), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lutego 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 380), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lutego 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 380), które stanowią: „
 § 2.
 1.
 Do przyznawania pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” w sprawach objętych postępowaniami wszczętymi i niezakończonymi zawarciem umowy o dofinansowanie przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 2.
 Do wypłaty środków finansowych z tytułu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia wypłatą pomocy stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
-Załącznik – Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 19 października 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze”
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+Załącznik – Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 19 października 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze”Obecnie działem administracji rządowej – rybołówstwo kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 Na podstawie art. 24 ust. 4 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2020 r. poz. 2140) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty i zwrotu pomocy technicznej, zawartej w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem operacyjnym”, w tym:
@@ -79,9 +74,9 @@ przeprowadzanie kontroli, o których mowa w art. 27 ust. 1 pkt 1 lub art. 28 ust
 właściwe monitorowanie i ewaluację programu operacyjnego.
 § 3.
 Pomoc techniczną przyznaje się następującym podmiotom:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lutego 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 292), które weszło w życie z dniem 16 lutego 2021 r.)
 urzędowi obsługującemu ministra właściwego do spraw rybołówstwa;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lutego 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 292), które weszło w życie z dniem 16 lutego 2021 r.)
 urzędowi obsługującemu ministra właściwego do spraw finansów publicznych;
 3)
 Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „instytucją pośredniczącą”;
@@ -103,13 +98,13 @@ Okres realizacji operacji nie może być dłuższy niż 24 miesiące od dnia zaw
 § 6.
 1.
 Pomoc techniczna przysługuje według kolejności złożenia wniosków o dofinansowanie.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lutego 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 380), które weszło w życie z dniem 1 marca 2022 r..
 Wniosek o dofinansowanie składa się do dnia 30 września 2022 r.
 3.
 Wniosek o dofinansowanie składa się, począwszy od następnego dnia roboczego następującego po dniu, w którym wzór tego wniosku został udostępniony zgodnie z art. 13 ust. 6 pkt 3 lit. a ustawy.
 4.
 Wniosek o dofinansowanie składa się, w formie pisemnej, w postaci papierowej, w siedzibie instytucji pośredniczącej, albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu przepisów prawa pocztowego, zwanego dalej „operatorem wyznaczonym”.
-5.
+5Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Złożenie wniosku o dofinansowanie w siedzibie instytucji pośredniczącej potwierdza się na piśmie, wskazując datę wpływu wniosku oraz opatrując pieczęcią instytucji pośredniczącej i podpisem osoby przyjmującej wniosek.
 6.
 W przypadku wniosku o dofinansowanie, który został złożony przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego, dniem złożenia wniosku jest data stempla pocztowego.
@@ -126,12 +121,12 @@ zestawienie rzeczowo-finansowe;
 oświadczenia lub zobowiązania wnioskodawcy związane z pomocą techniczną;
 5)
 informację o załącznikach dołączanych do wniosku.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Do wniosku o dofinansowanie dołącza się dokument elektroniczny zawierający treść wniosku, zapisany, w sposób umożliwiający edycję danych.
 § 8.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku gdy wniosek o dofinansowanie nie został wypełniony we wszystkich pozycjach lub nie dołączono do niego wymaganych dokumentów, instytucja pośrednicząca wzywa wnioskodawcę do usunięcia braków lub złożenia wyjaśnień, w terminie 21 dni od dnia doręczenia wezwania.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku gdy wnioskodawca pomimo wezwania, o którym mowa w ust. 1, nie usunął braków lub nie złożył wyjaśnień w wyznaczonym terminie, instytucja pośrednicząca ponownie wzywa wnioskodawcę do usunięcia braków lub złożenia wyjaśnień, w terminie 21 dni od dnia doręczenia wezwania.
 3.
 W przypadku gdy wnioskodawca pomimo ponownego wezwania do usunięcia braków lub złożenia wyjaśnień, o którym mowa w ust. 2, nie dokonał ich w terminie, instytucja pośrednicząca nie przyznaje pomocy technicznej; przepisy art. 19 ust. 2 i 3 ustawy stosuje się odpowiednio.
@@ -221,9 +216,9 @@ zrealizował operację albo jej część;
 udokumentował zrealizowanie operacji albo jej części, w tym poniesienie kosztów kwalifikowalnych z tym związanych.
 4.
 Płatność obejmuje koszty kwalifikowalne poniesione na realizację operacji w wysokości określonej w umowie o dofinansowanie.
-5.
+5Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3..
 Wykonanie zakresu rzeczowego operacji zgodnie z umową o dofinansowanie, w tym poniesienie przez beneficjenta kosztów kwalifikowalnych na realizację operacji, oraz złożenie wniosku o płatność końcową nastąpi nie później niż do dnia 15 lipca 2023 r.
-§ 16.
+§ 16W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3..
 Do wniosku o płatność dołącza się:
 1)
 zestawienie faktur lub innych dokumentów księgowych o równoważnej wartości dowodowej potwierdzających poniesione koszty dotyczące realizacji operacji;
@@ -235,7 +230,7 @@ zestawienie rzeczowo-finansowe operacji;
 oświadczenie beneficjenta lub inny dokument zawierający informację o numerze rachunku bankowego, na który mają być przekazane środki finansowe – w przypadku pierwszego wniosku o płatność lub w przypadku zmiany tego rachunku;
 5)
 dokument elektroniczny zawierający treść wniosku zapisany w sposób umożliwiający edycję danych.
-§ 16a.
+§ 16aDodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 Na wezwanie instytucji pośredniczącej do wniosku o płatność dołącza się wskazane w tym wezwaniu dokumenty inne niż wymienione w § 16, które są niezbędne do wypłaty środków finansowych z tytułu pomocy technicznej i potwierdzają spełnienie warunków wypłaty tej pomocy, w szczególności kopie faktur lub innych dokumentów księgowych wymienionych w zestawieniu, o którym mowa w § 16 pkt 1, wraz z dowodami zapłaty, poświadczone za zgodność z oryginałem przez pracownika beneficjenta.
 2.
@@ -247,9 +242,9 @@ W przypadku niezłożenia kopii dokumentów, o których mowa w ust. 1, stosuje s
 W przypadku gdy wniosek o płatność nie został złożony w terminie określonym w umowie o dofinansowanie, instytucja pośrednicząca wzywa beneficjenta, w formie pisemnej, w postaci papierowej, do złożenia wniosku o płatność, w terminie 14 dni od dnia doręczenia wezwania.
 2.
 W przypadku gdy wniosek o płatność nie został złożony w terminie, o którym mowa w ust. 1, instytucja pośrednicząca nie wypłaca pomocy technicznej.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku gdy wniosek o płatność nie został prawidłowo wypełniony lub nie dołączono do niego wymaganych dokumentów, instytucja pośrednicząca wzywa beneficjenta do usunięcia braków lub złożenia wyjaśnień, w terminie 21 dni od dnia doręczenia wezwania.
-4.
+4Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku gdy beneficjent, pomimo wezwania, o którym mowa w ust. 3, nie usunął braków lub nie złożył wyjaśnień w wyznaczonym terminie, instytucja pośrednicząca ponownie wzywa beneficjenta do usunięcia braków lub złożenia wyjaśnień, w terminie 21 dni od dnia doręczenia wezwania.
 5.
 W przypadku gdy beneficjent, pomimo ponownego wezwania, o którym mowa w ust. 4, nie usunął braków lub nie złożył wyjaśnień w wyznaczonym terminie, instytucja pośrednicząca:
@@ -276,7 +271,7 @@ pomoc techniczną przyznaje instytucja zarządzająca, o której mowa w art. 5 u
 umowę o dofinansowanie zawiera się w siedzibie instytucji zarządzającej;
 3)
 wniosek o płatność składa się do instytucji zarządzającej.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3..
 Do przyznawania i wypłaty pomocy technicznej przez instytucję zarządzającą przepisy § 5–18 i § 21a stosuje się odpowiednio.
 § 20.
 1.
@@ -296,7 +291,7 @@ Dochodzenie zwrotu pomocy technicznej wraz z odsetkami w wysokości określonej 
 Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie przyznania pomocy technicznej i wypłaty środków finansowych z tytułu tej pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
 2.
 Termin uważa się za zachowany, jeżeli przed jego upływem złożono pismo w siedzibie instytucji właściwej do przyznania pomocy technicznej lub nadano pismo w polskiej placówce pocztowej operatora wyznaczonego.
-§ 21a.
+§ 21aDodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3..
 1.
 Dokumenty dotyczące postępowania w sprawie przyznawania, wypłaty lub zwrotu pomocy technicznej mogą być składane również:
 1)
@@ -324,9 +319,9 @@ W przypadku przyznania pomocy technicznej, środki finansowe wydatkowane na real
 Do kosztów kwalifikowalnych zalicza się również koszty związane z realizacją operacji poniesione przed dniem zawarcia umowy o dofinansowanie, lecz nie wcześniej niż od dnia:
 1)
 1 stycznia 2015 r. – w przypadku:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 urzędu obsługującego ministra właściwego do spraw rybołówstwa,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 urzędu obsługującego ministra właściwego do spraw finansów publicznych;
 2)
 1 stycznia 2016 r. – w przypadku:
@@ -335,12 +330,11 @@ instytucji pośredniczącej,
 b)
 samorządów województw.
 § 23.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – rybołówstwo kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lutego 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 292), które weszło w życie z dniem 16 lutego 2021 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lutego 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 380), które weszło w życie z dniem 1 marca 2022 r. 4) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 9) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 10) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 11) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 12) Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 14) Rozporządzenie zostało ogłoszone w dniu 27 października 2016 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 27 października 2016 r.. 1) Obecnie działem administracji rządowej – rybołówstwo kieruje Minister Rolnictwa i Rozwoju Wsi, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lutego 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 292), które weszło w życie z dniem 16 lutego 2021 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lutego 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 380), które weszło w życie z dniem 1 marca 2022 r. 4) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 7) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 9) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 10) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 11) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 12) Dodany przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 13) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 14) Rozporządzenie zostało ogłoszone w dniu 27 października 2016 r.
 Załącznik – Koszty kwalifikowalne poniesione na realizację operacji w ramach pomocy technicznej
 1.
-Koszty osobowe pracowników odpowiedzialnych za realizację zadań określonych w art. 59 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) oraz zadań określonych w art. 78 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.), obejmujące koszty:
-1)
+Koszty osobowe pracowników odpowiedzialnych za realizację zadań określonych w art. 59 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5. Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38. oraz zadań określonych w art. 78 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22, Dz. Urz. UE L 256 z 04.10.2017, str. 1, Dz. Urz. UE L 172 z 26.06.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 11 oraz Dz. Urz. UE L 400 z 30.11.2020, str. 1., obejmujące koszty:
+1W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 wynagrodzeń brutto i dodatkowych wynagrodzeń rocznych brutto wraz ze składkami na ubezpieczenia społeczne płaconymi przez pracodawcę, składkami na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych oraz wpłatami dokonywanymi do pracowniczych planów kapitałowych, o których mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2020 r. poz. 1342 oraz z 2022 r. poz. 1079), a także wypłat z funduszu nagród, premii, nagród, dodatków zadaniowych i dodatków motywacyjnych, jeżeli wynikają z regulaminu wynagradzania instytucji;
 2)
 podnoszenia kwalifikacji pracowników, w tym udziału w studiach co najmniej drugiego stopnia, studiach podyplomowych, kursach, szkoleniach, stażach i innych formach kształcenia;
@@ -427,5 +421,5 @@ konserwacji i serwisu sprzętu oraz wyposażenia zakupionego w ramach pomocy tec
 18)
 ubezpieczenia sprzętu zakupionego w ramach pomocy technicznej;
 19)
-umów zlecenia lub umów o dzieło zawieranych w celu przygotowania i realizacji programu operacyjnego.
+umów zlecenia lub umów o dzieło zawieranych w celu przygotowania i realizacji programu operacyjnego. 15) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5. Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 30, Dz. Urz. UE L 109 z 08.04.2022, str. 1 oraz Dz. Urz. UE L 115 z 13.04.2022, str. 38. 16) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22, Dz. Urz. UE L 256 z 04.10.2017, str. 1, Dz. Urz. UE L 172 z 26.06.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 11 oraz Dz. Urz. UE L 400 z 30.11.2020, str. 1. 17) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.
 

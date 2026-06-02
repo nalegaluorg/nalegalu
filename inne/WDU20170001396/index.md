@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 13 lipca 2017 r. w sprawie służby przygotowawczej w Służbie Celno-Skarbowej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 13 lipca 2017 r. w sprawie służby przygotowawczej w Służbie Celno-Skarbowej Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-13 |
 | Data wydania | 2017-07-20 |
-| Wejście w życie | 2017-07-21 |
 | Ostatnia zmiana | 2025-11-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1396/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Rodzaje dokumentów potwierdzających znajomość języka obcego
 Treść rozporządzenia
-Na podstawie art. 155 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 155 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -194,8 +193,7 @@ płynność wypowiedzi,
 2)
 poprawność gramatyczna wypowiedzi,
 3)
-zasób słownictwa fachowego
-przyznając za każde kryterium od 0 do 10 punktów.
+zasób słownictwa fachowego – przyznając za każde kryterium od 0 do 10 punktów.
 3.
 Warunkiem zdania części ustnej egzaminu potwierdzającego znajomość języka obcego jest uzyskanie przez funkcjonariusza co najmniej 15 punktów.
 § 19.
@@ -245,8 +243,7 @@ Kierownik jednostki organizacyjnej jest obowiązany rozpatrzyć odwołanie w ter
 7.
 W przypadku złożenia wniosku o ponowne rozpatrzenie sprawy przepisy ust. 1–6 stosuje się odpowiednio.
 § 26.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 kwietnia 2010 r. w sprawie służby przygotowawczej w Służbie Celnej (Dz. U. poz. 516), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 kwietnia 2010 r. w sprawie służby przygotowawczej w Służbie Celnej (Dz. U. poz. 516), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086 i 1321. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 kwietnia 2010 r. w sprawie służby przygotowawczej w Służbie Celnej (Dz. U. poz. 516), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
 Załącznik – Rodzaje dokumentów potwierdzających znajomość języka obcego
 Dokumenty potwierdzające znajomość języka obcego:
 1)
@@ -278,8 +275,7 @@ w Ministerstwie Obrony Narodowej – poziom 3333, poziom 4444 według STANAG 600
 8)
 certyfikat potwierdzający znajomość języka obcego, wydany przez Krajową Szkołę Administracji Publicznej w wyniku lingwistycznego postępowania sprawdzającego;
 9)
-dokument potwierdzający wpis na listę tłumaczy przysięgłych.
-Język angielski:
+dokument potwierdzający wpis na listę tłumaczy przysięgłych. Język angielski:
 1)
 First Certificate in English (FCE), Certificate in Advanced English (CAE), Certificate of Proficiency in English (CPE), Business English Certificate (BEC) Vantage – co najmniej Pass, Business English Certificate (BEC) Higher, Certificate in English for International Business and Trade (CEIBT) – certyfikaty wydawane przez University of Cambridge Local Examinations Syndicate oraz przez University of Cambridge ESOL Examinations;
 2)
@@ -309,8 +305,7 @@ London Chamber of Commerce and Industry (LCCI) – Foundation Certificate for Te
 14)
 B2 Certificate in English – advantage, B2 Certificate in English for Business Purposes – advantage, Certificate in English for Technical Purposes (B2) – egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc English B2, telc English B2 Business, telc English B2 Technical, telc English C1 – wydawane przez telc GmbH;
 15)
-London Tests of English, Level 3 (Edexcel Level 1 Certificate in ESOL International); London Tests of English, Level 4 (Edexcel Level 2 Certificate in ESOL International); London Tests of English, Level 5 (Edexcel Level 3 Certificate in ESOL International) – wydawane przez Edexcel; administrowane przez Pearson Language Assessments lub Pearson Language Tests.
-Język francuski:
+London Tests of English, Level 3 (Edexcel Level 1 Certificate in ESOL International); London Tests of English, Level 4 (Edexcel Level 2 Certificate in ESOL International); London Tests of English, Level 5 (Edexcel Level 3 Certificate in ESOL International) – wydawane przez Edexcel; administrowane przez Pearson Language Assessments lub Pearson Language Tests. Język francuski:
 1)
 Diplôme d’Étude en Langue Française (DELF) B2, Diplôme Approfondi de Langue Française (DALF) C1, C2 – wydawane przez Ministerstwo Edukacji Narodowej Francji (Narodową Komisję ds. Egzaminów DELF i DALF);
 2)
@@ -324,8 +319,7 @@ Certificat Supérieur de Français (B2) – egzaminy TELC (The European Language
 6)
 Test de Connaissance du Français (TCF – poziomy 4, 5, 6);
 7)
-Test de Français International (TFI) – wynik od 605 pkt.
-Język niemiecki:
+Test de Français International (TFI) – wynik od 605 pkt. Język niemiecki:
 1)
 Zertifikat Deutsch für den Beruf (ZDfB) (B2), Goethe-Zertifikat B2, Zentrale Mittelstufenprüfung (ZMP) (C1), Goethe-Zertifikat C1 (Zentrale Mittelstufenprüfung) (ZMP), Zentrale Oberstufenprüfung (ZOP) (C2), Goethe-Zertifikat C2 (Zentrale Oberstufenprüfung) (ZOP), Kleines Deutsches Sprachdiplom (KDS) (C2), Grosses Deutsches Sprachdiplom (GDS) (C2) – egzaminy organizowane przez Goethe-Institut;
 2)
@@ -345,20 +339,17 @@ Diploma Intermedio de Español, Diploma Superior de Español – wydawany przez 
 2)
 Certificado de Español para Relaciones Profesionales (B2) – egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Español B2 – wydawany przez telc GmbH;
 3)
-Los Diplomas de Español como Lengua Extranjera (DELE) – Nivel Intermedio i Nivel Superior – wydawane przez Instytut Cervantesa i Uniwersytet Salamanca.
-Język włoski:
+Los Diplomas de Español como Lengua Extranjera (DELE) – Nivel Intermedio i Nivel Superior – wydawane przez Instytut Cervantesa i Uniwersytet Salamanca. Język włoski:
 1)
 Certificazione d’Italiano come Lingua Straniera (CILS 2 Due), Certificazione d’Italiano come Lingua Straniera (CILS 3 Tre), Certificazione d’Italiano come Lingua Straniera (CILS 4 Quattro), Certificazione di Conoscenza della Lingua Italiana (CELI 3), Certificazione di Conoscenza della Lingua Italiana (CELI 4), Certificazione di Conoscenza della Lingua Italiana (CELI 5) – wydawane przez uniwersytety dla cudzoziemców w Sienie, Perugii i Rzymie;
 2)
-Certificato Superiore d’Italiano (B2) – egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Italiano B2 – wydawany przez telc GmbH.
-Język węgierski: European Consortium for the Certificate of Attainment in Modem Languages (ECL) – egzamin z języka węgierskiego organizowany przez Węgierski Instytut Kultury. Język portugalski: Diploma Intermédio de Português Língua Estrangeira (DIPLE) (B2), Diploma Avançado de Português Língua Estrangeira (DAPLE) (C1), Diploma Universitário de Português Língua Estrangeira (DUPLE) (C2). Język szwedzki: Test in Swedish for University Studies (TISUS) – poziom Pass. Język fiński: Suomen kieli, keskitaso 4–5, Ylin taso 5 (B2), Suomen kieli, Ylin taso 6 (C1), Suomen kieli, Ylin taso 7–8 (C2) – wydawane przez Fińskie Ministerstwo Edukacji i Uniwersytet w Jyväskylä. Język niderlandzki:
+Certificato Superiore d’Italiano (B2) – egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Italiano B2 – wydawany przez telc GmbH. Język węgierski: European Consortium for the Certificate of Attainment in Modem Languages (ECL) – egzamin z języka węgierskiego organizowany przez Węgierski Instytut Kultury. Język portugalski: Diploma Intermédio de Português Língua Estrangeira (DIPLE) (B2), Diploma Avançado de Português Língua Estrangeira (DAPLE) (C1), Diploma Universitário de Português Língua Estrangeira (DUPLE) (C2). Język szwedzki: Test in Swedish for University Studies (TISUS) – poziom Pass. Język fiński: Suomen kieli, keskitaso 4–5, Ylin taso 5 (B2), Suomen kieli, Ylin taso 6 (C1), Suomen kieli, Ylin taso 7–8 (C2) – wydawane przez Fińskie Ministerstwo Edukacji i Uniwersytet w Jyväskylä. Język niderlandzki:
 1)
 Staatsexamen Nederlands als Tweede Taal, Examen I (NT2-I); (CITO) (B2), Staatsexamen Nederlands als Tweede Taal, Examen II (NT2-II); (CITO) (C1);
 2)
 Profiel Professionele Taalvaardigheid (PPT); (CNaVT) (B2), Profiel Academische Taalvaardigheid (PAT); (CNaVT) (C1);
 3)
-Certificat Nederlands als Vreemde Tall (CNaVT) (B2).
-Język grecki: Elinomathias Epipedo Eparkias (B2) – wydawany przez Uniwersytet w Atenach. Język duński: Prøve i Dansk 3 (B2), Studienprøven (C1) – wydane przez Danish Language Testing Consortium. Język estoński: Eesti keele kesktaseme test (B2), Eesti keele kõrgtaseme test (C1) – wydawane przez Riiklik Eksami ja Kvalifikatsioonikeskus. Język słoweński: Intermediate Slovene Language Exam (B2), Advanced Slovene Language Exam (C1) – wydawane przez Examination Centre of the Centre for Slovene as a Second/Foreign Language, University of Ljubljana. Język litewski: Test of Lithuanian as a state language Category III (B2) – wydawany przez Department of Lithuanian Studies, Vilnius University. Język rosyjski:
+Certificat Nederlands als Vreemde Tall (CNaVT) (B2). Język grecki: Elinomathias Epipedo Eparkias (B2) – wydawany przez Uniwersytet w Atenach. Język duński: Prøve i Dansk 3 (B2), Studienprøven (C1) – wydane przez Danish Language Testing Consortium. Język estoński: Eesti keele kesktaseme test (B2), Eesti keele kõrgtaseme test (C1) – wydawane przez Riiklik Eksami ja Kvalifikatsioonikeskus. Język słoweński: Intermediate Slovene Language Exam (B2), Advanced Slovene Language Exam (C1) – wydawane przez Examination Centre of the Centre for Slovene as a Second/Foreign Language, University of Ljubljana. Język litewski: Test of Lithuanian as a state language Category III (B2) – wydawany przez Department of Lithuanian Studies, Vilnius University. Język rosyjski:
 1)
 Рүсский Язык. Деловое Общение (Бизнес и Коммерция) – od poziomu Средний Уровень – wydawany przez Państwowy Instytut Języka Rosyjskiego im. A. Puszkina;
 2)

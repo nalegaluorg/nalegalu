@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 maja 1982 r. – Prawo o adwokaturze, ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego, ustawę z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, ustawę z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, ustawę z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 28 lutego 2018 r. o kosztach komorniczych, ustawę z dnia 22 marca 2018 r. o komornikach sądowych, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich oraz ustawę z dnia 7 lipca 2022 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-09-13 |
-| Wejście w życie | 2023-09-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001860) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1860/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-§ 11. Przeglądanie akt sprawy oraz udostępnianie stronom i uczestnikom postępowania odpisów, kopii lub wyciągów z akt sprawy może się odbywać za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, zwanego dalej „systemem teleinformatycznym”, albo systemu teleinformatycznego, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.), zwanego dalej „portalem informacyjnym”. ” ;
+§ 11. Przeglądanie akt sprawy oraz udostępnianie stronom i uczestnikom postępowania odpisów, kopii lub wyciągów z akt sprawy może się odbywać za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, zwanego dalej „systemem teleinformatycznym”, albo systemu teleinformatycznego, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860.), zwanego dalej „portalem informacyjnym”. ” ;
 
 - **2)** po art. 1311 dodaje się art. 1311a w brzmieniu: „
 
@@ -111,7 +110,7 @@ source: "eli-html"
 
 - **1)** o prawa majątkowe, w których wartość przedmiotu zaskarżenia choćby w jednej z wniesionych apelacji przekracza milion złotych,
 - **2)** rozpoznawanych w pierwszej instancji przez sąd okręgowy jako właściwy rzeczowo, z uwzględnieniem pkt 1,
-- **3)** rozpoznawanych w pierwszej instancji w składzie trzech sędziów na podstawie art. 47 § 4 które podlegają rozpoznaniu w składzie trzech sędziów.
+- **3)** rozpoznawanych w pierwszej instancji w składzie trzech sędziów na podstawie art. 47 § 4 – które podlegają rozpoznaniu w składzie trzech sędziów.
 
 § 2. W sprawach podlegających rozpoznaniu w składzie trzech sędziów sąd orzeka na posiedzeniu niejawnym w składzie jednego sędziego, z wyjątkiem wydania postanowienia, o którym mowa w art. 224 § 3, lub wyroku.
 
@@ -128,15 +127,18 @@ source: "eli-html"
 
 - **1)** apelację oddalono,
 - **2)** zmieniono zaskarżony wyrok lub
-- **3)** skarga kasacyjna ani zażalenie do Sądu Najwyższego nie przysługują pisemne uzasadnienie sporządza się tylko wówczas, gdy strona zgłosiła wniosek o doręczenie orzeczenia z uzasadnieniem. ” , w § 2 zdanie trzecie otrzymuje brzmienie: „ W sprawach, o których mowa w § 11, pisemne uzasadnienie albo transkrypcję wygłoszonego uzasadnienia sporządza się w terminie dwóch tygodni od dnia zgłoszenia wniosku o doręczenie wyroku z uzasadnieniem. ” ;
+- **3)** skarga kasacyjna ani zażalenie do Sądu Najwyższego nie przysługują – pisemne uzasadnienie sporządza się tylko wówczas, gdy strona zgłosiła wniosek o doręczenie orzeczenia z uzasadnieniem. ” , w § 2 zdanie trzecie otrzymuje brzmienie: „ W sprawach, o których mowa w § 11, pisemne uzasadnienie albo transkrypcję wygłoszonego uzasadnienia sporządza się w terminie dwóch tygodni od dnia zgłoszenia wniosku o doręczenie wyroku z uzasadnieniem. ” ;
     - **c)**
 
 - **18)** w art. 3941a po § 11 dodaje się § 12 w brzmieniu: „
 
 § 12. Sąd rozpoznaje zażalenie, o którym mowa w § 1, w składzie trzech sędziów. ” ;
 
-- **19)** w art. 3942: w § 11: – pkt 41 otrzymuje brzmienie: „ 41) wynagrodzenie biegłego, mediatora i należności świadka, ” , – po pkt 5 dodaje się pkt 51 w brzmieniu: „ 51) odmowa uzasadnienia orzeczenia oraz jego doręczenia, ” , po § 12 dodaje się § 13 w brzmieniu: „
+- **19)** w art. 3942: w § 11: pkt 41 otrzymuje brzmienie: „
     - **a)**
+
+- **41)** wynagrodzenie biegłego, mediatora i należności świadka, ” , po pkt 5 dodaje się pkt 51 w brzmieniu: „
+- **51)** odmowa uzasadnienia orzeczenia oraz jego doręczenia, ” , po § 12 dodaje się § 13 w brzmieniu: „
     - **b)**
 
 § 13. Sąd rozpoznaje zażalenie, o którym mowa w § 1 i 11, w składzie trzech sędziów. ” ;
@@ -199,10 +201,13 @@ source: "eli-html"
 
 § 3. Sąd drugiej instancji rozpoznaje sprawę w składzie jednego sędziego. ” .
 
-**Art. 2.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606 i 1615.) wprowadza się następujące zmiany:
 
-- **1)** w art. 31a: w § 1: – pkt 1 otrzymuje brzmienie: „ 1) kieruje działalnością administracyjną sądu, w zakresie wskazanym w art. 8 pkt 1, z wyjątkiem § 1a i 1b; ” , – pkt 3 otrzymuje brzmienie: „ 3) jest zwierzchnikiem służbowym i dokonuje czynności z zakresu prawa pracy oraz reprezentuje sąd w tym zakresie wobec pracowników sądu, z wyłączeniem sędziów, asesorów sądowych, referendarzy sądowych, kuratorów zawodowych, asystentów sędziów oraz kierowników i specjalistów opiniodawczych zespołów sądowych specjalistów, z wyjątkiem § 1b; ” , po § 1 dodaje się § 1a i 1b w brzmieniu: „
+- **1)** w art. 31a: w § 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** kieruje działalnością administracyjną sądu, w zakresie wskazanym w art. 8 pkt 1, z wyjątkiem § 1a i 1b; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** jest zwierzchnikiem służbowym i dokonuje czynności z zakresu prawa pracy oraz reprezentuje sąd w tym zakresie wobec pracowników sądu, z wyłączeniem sędziów, asesorów sądowych, referendarzy sądowych, kuratorów zawodowych, asystentów sędziów oraz kierowników i specjalistów opiniodawczych zespołów sądowych specjalistów, z wyjątkiem § 1b; ” , po § 1 dodaje się § 1a i 1b w brzmieniu: „
     - **b)**
 
 § 1a. Dyrektor sądu apelacyjnego kieruje działalnością administracyjną sądów działających na obszarze danej apelacji, dotyczącą realizacji zadań z zakresu informatyzacji sądownictwa oraz obsługi informatycznej sądów.
@@ -334,7 +339,7 @@ source: "eli-html"
 - **10)** adwokatów, radców prawnych, notariuszy, komorników sądowych, Prezesa, wiceprezesów, radców i referendarzy Prokuratorii Generalnej Rzeczypospolitej Polskiej,
 - **11)** kuratorów sądowych, rzeczników patentowych, biegłych sądowych, doradców restrukturyzacyjnych – w trakcie pełnienia czynności służbowych,
 - **12)** funkcjonariuszy Policji, Straży Granicznej, Służby Ochrony Państwa, w tym inspektorów Biura Nadzoru Wewnętrznego oraz funkcjonariuszy Służby Więziennej, Centralnego Biura Antykorupcyjnego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Służby Celno-Skarbowej, Straży Ochrony Kolei, żołnierzy Żandarmerii Wojskowej i pracowników Krajowej Administracji Skarbowej – w trakcie pełnienia czynności służbowych,
-- **13)** innych osób, w stosunku do których dyrektor sądu albo prezes sądu wyraził zgodę na ich wejście po uprzednim okazaniu legitymacji służbowej lub dokumentu umożliwiającego ustalenie tożsamości i zajmowanego stanowiska lub pełnionej funkcji.
+- **13)** innych osób, w stosunku do których dyrektor sądu albo prezes sądu wyraził zgodę na ich wejście – po uprzednim okazaniu legitymacji służbowej lub dokumentu umożliwiającego ustalenie tożsamości i zajmowanego stanowiska lub pełnionej funkcji.
 
 § 17. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór protokołu oraz sposób, miejsce i okresy przechowywania protokołu, o którym mowa w § 11, i notatki służbowej, o której mowa w § 13, biorąc pod uwagę konieczność zapewnienia przejrzystości, skrótowości i kompletności protokołu, z uwzględnieniem informacji niezbędnych do udokumentowania zakresu, przebiegu oraz wyniku czynności przeglądania zawartości bagażu lub odzieży osoby wchodzącej do budynku sądu, o których mowa w § 5 i 8, a także uwzględniając potrzebę zapewnienia bezpiecznego przechowywania protokołu i notatki służbowej oraz niezbędność zapewnienia dostępu do nich w związku z prowadzonymi postępowaniami. ” ;
 
@@ -362,7 +367,7 @@ source: "eli-html"
 - **1)** sędziów i sędziów w stanie spoczynku oraz asesorów sądowych,
 - **2)** referendarzy sądowych, asystentów sędziów, dyrektorów sądów oraz ich zastępców, kuratorów sądowych, aplikantów aplikacji sądowej, aplikantów kuratorskich, urzędników oraz innych pracowników sądów,
 - **3)** biegłych sądowych, lekarzy sądowych, mediatorów oraz ławników,
-- **4)** kandydatów na stanowiska wymienione w pkt 1 i 2 są prezesi i dyrektorzy właściwych sądów oraz Minister Sprawiedliwości, w ramach realizowanych zadań.
+- **4)** kandydatów na stanowiska wymienione w pkt 1 i 2 – są prezesi i dyrektorzy właściwych sądów oraz Minister Sprawiedliwości, w ramach realizowanych zadań.
 
 § 2. Minister Sprawiedliwości wymienia dane dotyczące sędziów w stanie spoczynku, w zakresie określonym w art. 68a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w ramach Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącym wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm.), za pośrednictwem punktu kontaktowego prowadzonego przez Zakład Ubezpieczeń Społecznych.
 
@@ -392,7 +397,7 @@ source: "eli-html"
 
 - **1)** opis sądowych systemów teleinformatycznych stosowanych w sądach powszechnych, zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu,
 - **2)** wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu,
-- **3)** sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu mając na uwadze zapewnienie spójności sądowych systemów teleinformatycznych stosowanych w sądach powszechnych, w szczególności w zakresie jednorodności zakresu i rodzaju danych, a także zachowanie zgodności z minimalnymi wymogami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. ” ;
+- **3)** sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu – mając na uwadze zapewnienie spójności sądowych systemów teleinformatycznych stosowanych w sądach powszechnych, w szczególności w zakresie jednorodności zakresu i rodzaju danych, a także zachowanie zgodności z minimalnymi wymogami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. ” ;
 - **16)** w art. 179a w § 1 w pkt 1 wyrazy „informatyzacji sądów” zastępuje się wyrazami „informatyzacji sądownictwa”;
 - **17)** po art. 179a dodaje się art. 179b w brzmieniu: „
 
@@ -402,7 +407,7 @@ source: "eli-html"
 
 § 2. Minister Sprawiedliwości może wyznaczyć, w drodze rozporządzenia, sąd apelacyjny właściwy do dysponowania środkami pieniężnymi zgromadzonymi na rachunku, o którym mowa w § 1, oraz określić rodzaj należności pieniężnych, które będą obsługiwane przy użyciu tego rachunku, mając na względzie przygotowanie techniczne i organizacyjne sądu apelacyjnego. ” .
 
-**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535, 818 i 1606.) wprowadza się następujące zmiany:
 
 - **1)** w art. 34: § 3 otrzymuje brzmienie: „
     - **a)**
@@ -441,7 +446,7 @@ source: "eli-html"
 
 **Art. 133a.**
 
-§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.), w sposób umożliwiający uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.
+§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860.), w sposób umożliwiający uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.
 
 § 2. Sąd może doręczyć pismo procesowe lub inne pismo w sposób określony w § 1, jeżeli dysponuje nim w postaci elektronicznej. Nie dotyczy to pism, które podlegają doręczeniu wraz z odpisami pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu.
 
@@ -551,7 +556,7 @@ source: "eli-html"
 
 **Art. 37d.**
 
-1. Adwokat wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.).
+1. Adwokat wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860.).
 
 2. Dziekan okręgowej rady adwokackiej występuje do Ministra Sprawiedliwości o usunięcie konta w portalu informacyjnym w przypadkach, o których mowa w art. 4b, albo w przypadku skreślenia adwokata z listy adwokatów, z wyjątkiem przypadku, o którym mowa w art. 72 ust. 1 pkt 3. ” .
 
@@ -559,11 +564,11 @@ source: "eli-html"
 
 **Art. 2211.**
 
-1. Radca prawny wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.).
+1. Radca prawny wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860.).
 
 2. Dziekan okręgowej izby radców prawnych występuje do Ministra Sprawiedliwości o usunięcie konta w portalu informacyjnym w przypadkach, o których mowa w art. 222, art. 28 ust. 1 pkt 2 i 3 i ust. 2, art. 29 oraz art. 652. ” .
 
-**Art. 6.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm.) użyte w art. 19 w ust. 1 w części wspólnej, w ust. 9 i 16a oraz w art. 20 w ust. 11, w różnym przypadku, wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”.
+**Art. 6.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347, 535, 641 i 1088.) użyte w art. 19 w ust. 1 w części wspólnej, w ust. 9 i 16a oraz w art. 20 w ust. 11, w różnym przypadku, wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”.
 
 **Art. 7.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489 i 1723) użyte w art. 9e w ust. 1 w części wspólnej, w ust. 4 w pkt 1 i w ust. 17a oraz w art. 10c w ust. 10, w różnym przypadku, wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”.
 
@@ -638,14 +643,14 @@ source: "eli-html"
 § 3. Przepisy § 1–2 mają odpowiednie zastosowanie do wykonania orzeczenia o:
 
 - **1)** nawiązce na rzecz Skarbu Państwa oraz o przepadku, jeżeli jego przedmiotem jest kwota pieniężna,
-- **2)** nawiązce lub świadczeniu pieniężnym na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej z tym że okres rozłożenia na raty tych należności nie może przekroczyć 1 roku. ” , po § 3 dodaje się § 3a w brzmieniu: „
+- **2)** nawiązce lub świadczeniu pieniężnym na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej – z tym że okres rozłożenia na raty tych należności nie może przekroczyć 1 roku. ” , po § 3 dodaje się § 3a w brzmieniu: „
     - **c)**
 
 § 3a. Nie rozkłada się na raty kosztów sądowych, nawiązki na rzecz Skarbu Państwa, nawiązki lub świadczenia pieniężnego na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej i przepadku, którego przedmiotem jest kwota pieniężna, jeżeli podlegają wykonaniu w sposób, o którym mowa w art. 11a lub art. 11b § 1. ” . W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2023 r. poz. 303) po art. 16a dodaje się art. 16b w brzmieniu: „
 
 **Art. 16b.**
 
-1. Rzecznik patentowy wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.).
+1. Rzecznik patentowy wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860.).
 
 2. Prezes Urzędu Patentowego występuje do Ministra Sprawiedliwości o usunięcie konta w portalu informacyjnym w przypadku prawomocnego orzeczenia dyscyplinarnego o zawieszeniu prawa wykonywania zawodu rzecznika patentowego albo w przypadku prawomocnej decyzji o skreśleniu rzecznika patentowego z prowadzonej przez Urząd Patentowy listy rzeczników patentowych. ” .
 
@@ -670,7 +675,7 @@ source: "eli-html"
 - **1)** zatwierdzenie warunków sprzedaży,
 - **2)** zabezpieczenie majątku dłużnika,
 - **3)** wynagrodzenie i zwrot wydatków tymczasowego nadzorcy sądowego,
-- **4)** wynagrodzenie i zwrot wydatków zarządcy przymusowego które rozpoznaje sąd drugiej instancji w składzie trzech sędziów zawodowych. ” ;
+- **4)** wynagrodzenie i zwrot wydatków zarządcy przymusowego – które rozpoznaje sąd drugiej instancji w składzie trzech sędziów zawodowych. ” ;
 - **2)** w art. 222 ust. 1a otrzymuje brzmienie: „
 
 1a. Zażalenia na postanowienia sądu upadłościowego rozpoznaje sąd upadłościowy w innym składzie z wyjątkiem zażaleń na postanowienia, o których mowa w art. 163 ust. 4, art. 166 ust. 6, art. 172 ust. 1, art. 362 ust. 1, art. 365 ust. 3, art. 366 ust. 3, art. 368, art. 370a ust. 10, art. 370d ust. 1–2, art. 370e ust. 1, art. 370f ust. 3, art. 371 ust. 3, art. 4911 ust. 2, art. 4915 ust. 2, art. 49112a ust. 8, art. 49114 ust. 7, art. 49119 ust. 1–3, art. 49120 ust. 1, art. 49121 ust. 1 i art. 49122 ust. 1 i 2, które rozpoznaje sąd drugiej instancji w składzie trzech sędziów zawodowych. ” ;
@@ -745,7 +750,7 @@ source: "eli-html"
 
 § 3a. Do kompetencji i zadań Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego należy w szczególności:
 
-- **1)** wykonywanie czynności i uprawnień przewidzianych w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm.), ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723 i 1860), ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2022 r. poz. 2487 i 2600 oraz z 2023 r. poz. 1860), ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266 i 1860), ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860), ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. poz. 240, 347, 1723, 1834 i 1860), ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 81, 1834 i 1860), ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860), ustawie z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2022 r. poz. 2632 oraz z 2023 r. poz. 1489, 1834 i 1860), ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) oraz ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z późn. zm.);
+- **1)** wykonywanie czynności i uprawnień przewidzianych w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347, 535, 641, 1088 i 1860.), ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723 i 1860), ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2022 r. poz. 2487 i 2600 oraz z 2023 r. poz. 1860), ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266 i 1860), ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860), ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. poz. 240, 347, 1723, 1834 i 1860), ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 81, 1834 i 1860), ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860), ustawie z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2022 r. poz. 2632 oraz z 2023 r. poz. 1489, 1834 i 1860), ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860.) oraz ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 240, 347, 641, 1586 i 1860.);
 - **2)** podejmowanie decyzji w sprawach osobowych prokuratorów oraz asesorów prokuratury, z wyłączeniem decyzji należących do kompetencji kierowników podległych jednostek organizacyjnych.
 
 § 3b. Kompetencje i zadania Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego określone w § 3a może również realizować upoważniony przez niego inny zastępca Prokuratora Generalnego. Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy wydaje w tym zakresie stosowne zarządzenie. ” ;
@@ -837,7 +842,7 @@ source: "eli-html"
 
 - **1)** Prokuratury Krajowej – niezwłocznie zawiadamia się Prokuratora Krajowego,
 - **2)** prokuratora prokuratury regionalnej, prokuratora prokuratury okręgowej i prokuratora prokuratury rejonowej – niezwłocznie zawiadamia się prokuratora regionalnego właściwego ze względu na miejsce zatrzymania,
-- **3)** prokuratora Instytutu Pamięci Narodowej – niezwłocznie zawiadamia się Dyrektora Głównej Komisji którzy mogą nakazać natychmiastowe zwolnienie zatrzymanego prokuratora. ” ;
+- **3)** prokuratora Instytutu Pamięci Narodowej – niezwłocznie zawiadamia się Dyrektora Głównej Komisji – którzy mogą nakazać natychmiastowe zwolnienie zatrzymanego prokuratora. ” ;
 - **16)** w art. 139 § 7 i 8 otrzymują brzmienie: „
 
 § 7. Prokurator Krajowy może zwrócić prokuratorowi regionalnemu, okręgowemu i rejonowemu uwagę na piśmie, jeżeli stwierdzi istotne uchybienia w zakresie kierowania prokuraturą albo sprawowania nadzoru. Przepisy § 2–6 stosuje się odpowiednio.
@@ -864,19 +869,22 @@ source: "eli-html"
 - **20)** w art. 191a: po § 1 dodaje się § 1a w brzmieniu: „
     - **a)**
 
-§ 1a. W zakresie danych osobowych przetwarzanych przez powszechne jednostki organizacyjne prokuratury w ramach realizacji zadań określonych w art. 2, obowiązki, uprawnienia i zadania organu nadzorczego przewidziane w art. 5 ust. 1 pkt 1 i 5–8, art. 6, art. 7, art. 8 ust. 1 i 2, art. 10, art. 11, art. 35 ust. 6, art. 36 ust. 6 i art. 50 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206) są wykonywane przez organy nadzoru, o których mowa w § 1, zaś obowiązki, uprawnienia i zadania, przewidziane w art. 38 ust. 1 i 3–5, art. 44 ust. 1 i 8, art. 45 ust. 5 oraz art. 47 ust. 1 pkt 6 tej ustawy – przez organ nadzoru, o którym mowa w § 1 pkt 3. Zamiast decyzji administracyjnej, o której mowa w art. 8 ust. 2 ustawy powołanej w zdaniu pierwszym, organ nadzoru, o którym mowa w § 1, wydaje polecenie służbowe. ” , w § 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W ramach nadzoru, o którym mowa w § 1 i 1a, właściwe organy w szczególności: ” , – pkt 1 otrzymuje brzmienie: „ 1) rozpatrują skargi osób, których dane osobowe są przetwarzane niezgodnie z prawem, i prowadzą postępowania w tym zakresie; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) zapewniają skuteczną ochronę danych osobowych w nadzorowanych jednostkach, monitorują i egzekwują stosowanie przepisów o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości oraz przeprowadzają kontrole przetwarzania danych osobowych w celu ustalenia zgodności ich przetwarzania z prawem, a w razie stwierdzenia niezgodności nakazują administratorowi lub podmiotowi przetwarzającemu dane osobowe przywrócenie stanu zgodnego z prawem i podejmują działania mające na celu wyeliminowanie stwierdzonych nieprawidłowości. ” , w § 3 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+§ 1a. W zakresie danych osobowych przetwarzanych przez powszechne jednostki organizacyjne prokuratury w ramach realizacji zadań określonych w art. 2, obowiązki, uprawnienia i zadania organu nadzorczego przewidziane w art. 5 ust. 1 pkt 1 i 5–8, art. 6, art. 7, art. 8 ust. 1 i 2, art. 10, art. 11, art. 35 ust. 6, art. 36 ust. 6 i art. 50 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206) są wykonywane przez organy nadzoru, o których mowa w § 1, zaś obowiązki, uprawnienia i zadania, przewidziane w art. 38 ust. 1 i 3–5, art. 44 ust. 1 i 8, art. 45 ust. 5 oraz art. 47 ust. 1 pkt 6 tej ustawy – przez organ nadzoru, o którym mowa w § 1 pkt 3. Zamiast decyzji administracyjnej, o której mowa w art. 8 ust. 2 ustawy powołanej w zdaniu pierwszym, organ nadzoru, o którym mowa w § 1, wydaje polecenie służbowe. ” , w § 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W ramach nadzoru, o którym mowa w § 1 i 1a, właściwe organy w szczególności: ” , pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** rozpatrują skargi osób, których dane osobowe są przetwarzane niezgodnie z prawem, i prowadzą postępowania w tym zakresie; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** zapewniają skuteczną ochronę danych osobowych w nadzorowanych jednostkach, monitorują i egzekwują stosowanie przepisów o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości oraz przeprowadzają kontrole przetwarzania danych osobowych w celu ustalenia zgodności ich przetwarzania z prawem, a w razie stwierdzenia niezgodności nakazują administratorowi lub podmiotowi przetwarzającemu dane osobowe przywrócenie stanu zgodnego z prawem i podejmują działania mające na celu wyeliminowanie stwierdzonych nieprawidłowości. ” , w § 3 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+    - **c)**
+
 - **8)** zwrócenia się bezpośrednio do inspektora ochrony danych o sprawdzenie stosowania przepisów ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości przez administratora, który go wyznaczył, ze wskazaniem zakresu i terminu tego sprawdzenia. ” .
 
-**Art. 22.** W ustawie z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2022 r. poz. 2632 oraz z 2023 r. poz. 1489 i 1834) w art. 9 w ust. 4 i 6–9 użyte w różnym przypadku wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”. W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) w art. 118 w ust. 1 w części wspólnej, w ust. 3, 6, 7, 9, 13, 15 i 16 w pkt 2, w art. 119 w ust. 3–6 i 9, w art. 120 w ust. 2, w art. 122 w ust. 1 w pkt 2, w ust. 2 w pkt 2, w ust. 3 we wprowadzeniu do wyliczenia, w ust. 4 i 5, w art. 123 w ust. 3 i w art. 127a w ust. 9 użyte w różnym przypadku wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”.
+**Art. 22.** W ustawie z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2022 r. poz. 2632 oraz z 2023 r. poz. 1489 i 1834) w art. 9 w ust. 4 i 6–9 użyte w różnym przypadku wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”. W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598 i 1723.) w art. 118 w ust. 1 w części wspólnej, w ust. 3, 6, 7, 9, 13, 15 i 16 w pkt 2, w art. 119 w ust. 3–6 i 9, w art. 120 w ust. 2, w art. 122 w ust. 1 w pkt 2, w ust. 2 w pkt 2, w ust. 3 we wprowadzeniu do wyliczenia, w ust. 4 i 5, w art. 123 w ust. 3 i w art. 127a w ust. 9 użyte w różnym przypadku wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”.
 
 **Art. 24.** W ustawie z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1109) wprowadza się następujące zmiany:
 
 - **1)** po art. 36 dodaje się art. 36a w brzmieniu: „
 
-**Art. 36a.** Prokuratoria Generalna jest obowiązana posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.). ” ;
+**Art. 36a.** Prokuratoria Generalna jest obowiązana posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860.). ” ;
 
 - **2)** w art. 50 uchyla się ust. 4;
 - **3)** w art. 51 uchyla się ust. 4. W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240, 347, 641 i 1586) w art. 42 w ust. 1 w części wspólnej, w ust. 4, w art. 44 w ust. 1 i 2, w art. 46 w ust. 2, w art. 48 w ust. 1 i 2 w pkt 2 i w ust. 3 we wprowadzeniu do wyliczenia, w ust. 4 i 5, w art. 49 w ust. 2 i 3, w art. 50, w art. 52 w ust. 1, w art. 53 w ust. 2 i w art. 54 w ust. 1 w pkt 2 użyte w różnym przypadku wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”.
@@ -1005,7 +1013,7 @@ source: "eli-html"
 
 - **1)** przeciwko życiu i zdrowiu, popełnionych na szkodę małoletniego, zagrożonych karą, której górna granica przekracza 5 lat pozbawienia wolności,
 - **2)** określonych w rozdziale XXV, popełnionych na szkodę małoletniego, albo gdy treści pornograficzne obejmują udział małoletniego,
-- **3)** określonych w art. 156a i art. 191b, popełnionych na szkodę małoletniego przedawnienie karalności przestępstwa nie może nastąpić przed ukończeniem przez niego 40. roku życia.”, ” , ” , w pkt 67 lit. b i c otrzymują brzmienie: „ po § 1 dodaje się § 1a w brzmieniu: „
+- **3)** określonych w art. 156a i art. 191b, popełnionych na szkodę małoletniego – przedawnienie karalności przestępstwa nie może nastąpić przed ukończeniem przez niego 40. roku życia.”, ” , ” , w pkt 67 lit. b i c otrzymują brzmienie: „ po § 1 dodaje się § 1a w brzmieniu: „
     - **f)**
     - **b)**
 
@@ -1092,7 +1100,7 @@ source: "eli-html"
 - **8)** art. 23p ust. 28, art. 23q ust. 13 i art. 23r ust. 7 ustawy zmienianej w art. 19,
 - **9)** art. 9 ust. 10 ustawy zmienianej w art. 22,
 - **10)** art. 118 ust. 18, art. 119 ust. 11 i art. 120 ust. 7 ustawy zmienianej w art. 23,
-- **11)** art. 54 ust. 2 ustawy zmienianej w art. 25 dotyczą uprawnień, obowiązków lub czynności Prokuratora Generalnego lub określają dokumenty do niego kierowane, od niego pochodzące lub wzory dokumentów, od dnia wejścia w życie niniejszej ustawy w zakresie odnoszącym się do zmian ustaw określonych w art. 6, art. 7, art. 9, art. 12, art. 13, art. 17–19, art. 22, art. 23 i art. 25, przepisy te zamiast do Prokuratora Generalnego stosuje się do Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego.
+- **11)** art. 54 ust. 2 ustawy zmienianej w art. 25 – dotyczą uprawnień, obowiązków lub czynności Prokuratora Generalnego lub określają dokumenty do niego kierowane, od niego pochodzące lub wzory dokumentów, od dnia wejścia w życie niniejszej ustawy w zakresie odnoszącym się do zmian ustaw określonych w art. 6, art. 7, art. 9, art. 12, art. 13, art. 17–19, art. 22, art. 23 i art. 25, przepisy te zamiast do Prokuratora Generalnego stosuje się do Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego.
 
 2. Czynności dokonane przed dniem wejścia w życie niniejszej ustawy w zakresie odnoszącym się do zmian ustaw określonych w art. 6, art. 7, art. 9, art. 12, art. 13, art. 17–19, art. 22, art. 23 i art. 25 na podstawie:
 
@@ -1106,7 +1114,7 @@ source: "eli-html"
 - **8)** art. 23p ust. 1, 3, 7, 8, 15, 16, 17 pkt 2, ust. 18–21, 23, 26 i ust. 27 pkt 2, art. 23q ust. 4–7, 9, 10 i 12, art. 23r ust. 2, 3, 5 i 6, art. 23s ust. 11 i art. 25c ust. 2 pkt 2 ustawy zmienianej w art. 19,
 - **9)** art. 9 ust. 4 i 6–9 ustawy zmienianej w art. 22,
 - **10)** art. 118 ust. 1, 3, 6, 7, 9, 13, 15 i 16 pkt 2, art. 119 ust. 3–6 i 9, art. 120 ust. 2, art. 122 ust. 1 pkt 2, ust. 2 pkt 2 i ust. 3–5, art. 123 ust. 3 i art. 127a ust. 9 ustawy zmienianej w art. 23,
-- **11)** art. 42 ust. 1 i 4, art. 44 ust. 1 i 2, art. 46 ust. 2, art. 48 ust. 1 i 2 pkt 2 i ust. 3–5, art. 49 ust. 2 i 3, art. 50, art. 52 ust. 1, art. 53 ust. 2 i art. 54 ust. 1 pkt 2 ustawy zmienianej w art. 25 są skuteczne, jeżeli dokonano ich z zachowaniem wymogów określonych w tych przepisach w brzmieniu dotychczasowym.
+- **11)** art. 42 ust. 1 i 4, art. 44 ust. 1 i 2, art. 46 ust. 2, art. 48 ust. 1 i 2 pkt 2 i ust. 3–5, art. 49 ust. 2 i 3, art. 50, art. 52 ust. 1, art. 53 ust. 2 i art. 54 ust. 1 pkt 2 ustawy zmienianej w art. 25 – są skuteczne, jeżeli dokonano ich z zachowaniem wymogów określonych w tych przepisach w brzmieniu dotychczasowym.
 
 **Art. 39.**
 
@@ -1123,6 +1131,6 @@ source: "eli-html"
 - **3)** art. 6, art. 7, art. 9, art. 12, art. 13, art. 17–19 i art. 21 pkt 2 w zakresie art. 13 § 3a pkt 1 oraz art. 22, art. 23, art. 25 i art. 38, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
 - **4)** art. 1 pkt 1–14, 21 i 33, art. 2 pkt 6 lit. a, pkt 8, 12 i 15, art. 3 pkt 1, 6, 10 i 16–20, art. 4, art. 5, art. 10, art. 11, art. 24 pkt 1, art. 28 pkt 2 – w zakresie uchylenia art. 15zzs1 ust. 1 pkt 1 i 2, ust. 2 i 3, art. 28 pkt 3 oraz art. 39 ust. 3, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
 - **5)** art. 30 pkt 1, art. 31 pkt 1 lit. b oraz f w zakresie pkt 67 lit. c, które wchodzą w życie z dniem 14 marca 2024 r.;
-- **6)** art. 14, który wchodzi w życie z dniem 1 października 2029 r.
+- **6)** art. 14, który wchodzi w życie z dniem 1 października 2029 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 maja 1982 r. – Prawo o adwokaturze, ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego, ustawę z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, ustawę z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, ustawę z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 28 lutego 2018 r. o kosztach komorniczych, ustawę z dnia 22 marca 2018 r. o komornikach sądowych, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich oraz ustawę z dnia 7 lipca 2022 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606 i 1615. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535, 818 i 1606. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347, 535, 641 i 1088. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347, 535, 641, 1088 i 1860. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 240, 347, 641, 1586 i 1860. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598 i 1723. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030, 1429, 1606, 1615 i 1860.
 
 

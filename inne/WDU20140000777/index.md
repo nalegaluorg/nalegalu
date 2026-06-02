@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-11 |
 | Data wydania | 2014-06-12 |
-| Wejście w życie | 2014-06-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/777/text.pdf) |
 
@@ -37,8 +36,7 @@ Psy służbowe utrzymuje się w:
 1)
 obiektach należących do straży lub w innych obiektach przekazanych lub użyczonych straży przez właściwą jednostkę samorządu terytorialnego,
 2)
-miejscu zamieszkania strażnika, jeżeli posiada on niezbędne do tego warunki
-w sposób określony w przepisach wydanych na podstawie art. 17 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2013 r. poz. 856).
+miejscu zamieszkania strażnika, jeżeli posiada on niezbędne do tego warunki – w sposób określony w przepisach wydanych na podstawie art. 17 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2013 r. poz. 856).
 § 4.
 Przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej o średniej wartości prądu w obwodzie przekraczającej 10 mA przechowuje się w sposób przewidziany dla broni palnej i amunicji, określony w przepisach wydanych na podstawie art. 18 ust. 4 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych.
 § 5.
@@ -76,5 +74,5 @@ Książki ewidencji, o których mowa w § 5 ust. 1 i 2 oraz § 6 ust. 1, prowadz
 § 9.
 Środek przymusu bezpośredniego, o którym mowa w § 4, ewidencjonuje się w sposób przewidziany dla broni palnej i amunicji, określony w przepisach wydanych na podstawie art. 18 ust. 4 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 15 grudnia 2009 r. w sprawie sposobu dokumentowania faktu użycia środków przymusu bezpośredniego przez strażników gminnych (miejskich) (Dz. U. Nr 220, poz. 1719). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 15 grudnia 2009 r. w sprawie sposobu dokumentowania faktu użycia środków przymusu bezpośredniego przez strażników gminnych (miejskich) (Dz. U. Nr 220, poz. 1719).
 

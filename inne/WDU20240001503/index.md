@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 8 października 2024 r. zmieniające rozporządzenie w sprawie programu pilotażowego w centrach zdrowia psychicznego
+# Rozporządzenie Ministra Zdrowiaz dnia 8 października 2024 r. zmieniające rozporządzenie w sprawie programu pilotażowego w centrach zdrowia psychicznego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-08 |
 | Data wydania | 2024-10-10 |
-| Wejście w życie | 2024-10-11 |
 | Ostatnia zmiana | 2026-01-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001503) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1503/text.pdf) |
 
@@ -33,14 +32,11 @@ W rozporządzeniu Ministra Zdrowia z dnia 27 kwietnia 2018 r. w sprawie programu
 1)
 w § 4 wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „30 czerwca 2025 r.”;
 2)
-w § 20 w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+w § 20 w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-wynosi 75,74 zł;
-” .
+wynosi 75,74 zł; ” .
 § 2.
 Kwotę ryczałtu, o której mowa w § 20 ust. 2 pkt 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do rozliczania świadczeń opieki zdrowotnej udzielanych od dnia 1 lipca 2024 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

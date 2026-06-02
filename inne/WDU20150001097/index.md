@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 24 lipca 2015 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych
+# Rozporządzenie Ministra Zdrowiaz dnia 24 lipca 2015 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych Przepisy niniejszego rozporządzenia w zakresie swojej regulacji wdrażają przepisy dyrektywy Parlamentu Europejskiego i Rady 2014/27/UE z dnia 26 lutego 2014 r. zmieniającej dyrektywy Rady 92/58/EWG, 92/85/EWG, 94/33/WE, 98/24/WE oraz dyrektywę 2004/37/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 65 z 05.03.2014, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-24 |
 | Data wydania | 2015-08-04 |
-| Wejście w życie | 2015-08-12 |
 | Ostatnia zmiana | 2025-06-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1097/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 23715 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502 i 1662 oraz z 2015 r. poz. 1066) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 30 grudnia 2004 r. w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. z 2005 r. Nr 11, poz. 86 oraz z 2008 r. Nr 203, poz. 1275) w § 1 pkt 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 30 grudnia 2004 r. w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. z 2005 r. Nr 11, poz. 86 oraz z 2008 r. Nr 203, poz. 1275) w § 1 pkt 2 otrzymuje brzmienie: „
 2)
 czynnik chemiczny stwarzający zagrożenie:
 a)
 czynnik chemiczny, który spełnia kryteria klasyfikacji zawarte w którejkolwiek z klas zagrożeń fizycznych lub zagrożeń dla zdrowia człowieka określonych w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającym i uchylającym dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającym rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, s. 1, z późn. zm.), bez względu na to, czy został zaklasyfikowany,
 b)
-czynnik chemiczny, który nie spełnia kryteriów klasyfikacji, o których mowa w lit. a, który z uwagi na swoje właściwości fizykochemiczne lub oddziaływanie na człowieka oraz sposób, w jaki jest stosowany lub obecny w miejscu pracy, może stwarzać ryzyko dla bezpieczeństwa lub zdrowia pracowników; przez pojęcie to należy rozumieć także każdy czynnik chemiczny oraz pył, dla którego ustalono wartości najwyższych dopuszczalnych stężeń, o których mowa w przepisach wydanych na podstawie art. 228 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
-” .
+czynnik chemiczny, który nie spełnia kryteriów klasyfikacji, o których mowa w lit. a, który z uwagi na swoje właściwości fizykochemiczne lub oddziaływanie na człowieka oraz sposób, w jaki jest stosowany lub obecny w miejscu pracy, może stwarzać ryzyko dla bezpieczeństwa lub zdrowia pracowników; przez pojęcie to należy rozumieć także każdy czynnik chemiczny oraz pył, dla którego ustalono wartości najwyższych dopuszczalnych stężeń, o których mowa w przepisach wydanych na podstawie art. 228 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy; ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-2) Przepisy niniejszego rozporządzenia w zakresie swojej regulacji wdrażają przepisy dyrektywy Parlamentu Europejskiego i Rady 2014/27/UE z dnia 26 lutego 2014 r. zmieniającej dyrektywy Rady 92/58/EWG, 92/85/EWG, 94/33/WE, 98/24/WE oraz dyrektywę 2004/37/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 65 z 05.03.2014, str. 1).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 2) Przepisy niniejszego rozporządzenia w zakresie swojej regulacji wdrażają przepisy dyrektywy Parlamentu Europejskiego i Rady 2014/27/UE z dnia 26 lutego 2014 r. zmieniającej dyrektywy Rady 92/58/EWG, 92/85/EWG, 94/33/WE, 98/24/WE oraz dyrektywę 2004/37/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 65 z 05.03.2014, str. 1).
 

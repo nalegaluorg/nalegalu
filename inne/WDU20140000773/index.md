@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-24 |
 | Data wydania | 2014-06-11 |
-| Wejście w życie | 2014-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000773) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/773/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1407 i 1445, z 2013 r. poz. 852 i 1355 oraz z 2014 r. poz. 619.) wprowadza się następujące zmiany:
 
 - **1)** w art. 13c ust. 2 otrzymuje brzmienie: „
 
@@ -83,7 +82,7 @@ source: "eli-html"
 - **1)** tryb odwoływania się od orzeczeń psychologicznych,
 - **2)** tryb kontroli wykonywania i dokumentowania badań psychologicznych oraz wydawania orzeczeń psychologicznych,
 - **3)** sposób postępowania z dokumentacją związaną z badaniami psychologicznymi,
-- **4)** wzór orzeczenia psychologicznego, z wyjątkiem wzoru orzeczenia dotyczącego badań kierowców i osób ubiegających się o uprawnienia do kierowania pojazdami oraz wykonujących pracę na stanowisku kierowcy uwzględniając właściwość wojskowych pracowni psychologicznych, potrzebę zapewnienia jednolitej procedury kontroli i jednolitości wydawanych orzeczeń oraz konieczność zapewnienia należytej ochrony dokumentacji związanej z prowadzeniem badań psychologicznych. ” ;
+- **4)** wzór orzeczenia psychologicznego, z wyjątkiem wzoru orzeczenia dotyczącego badań kierowców i osób ubiegających się o uprawnienia do kierowania pojazdami oraz wykonujących pracę na stanowisku kierowcy – uwzględniając właściwość wojskowych pracowni psychologicznych, potrzebę zapewnienia jednolitej procedury kontroli i jednolitości wydawanych orzeczeń oraz konieczność zapewnienia należytej ochrony dokumentacji związanej z prowadzeniem badań psychologicznych. ” ;
 - **5)** w art. 45 ust. 1 otrzymuje brzmienie: „
 
 1. Osoby uznane za zdolne do czynnej służby wojskowej i podlegające obowiązkowi odbycia zasadniczej służby wojskowej wojskowy komendant uzupełnień przeznacza do służby, uwzględniając potrzeby Sił Zbrojnych, orzeczenie właściwej komisji lekarskiej oraz stosownie do potrzeb orzeczenie psychologiczne, kwalifikacje zawodowe, a także, w miarę możliwości, życzenia tych osób. ” ;
@@ -104,7 +103,7 @@ source: "eli-html"
 2. Osoby podlegające obowiązkowi czynnej służby wojskowej, które:
 
 - **1)** nie stawiły się do kwalifikacji wojskowej – od dnia 1 stycznia roku kalendarzowego, w którym kończą dziewiętnaście lat życia, albo
-- **2)** zostały powołane do odbycia czynnej służby wojskowej lub szkolenia w obronie cywilnej albo służby zastępczej – od dnia doręczenia karty powołania (karty skierowania) do tej służby są obowiązane uzyskać zezwolenie wojskowego komendanta uzupełnień właściwego ze względu na miejsce pobytu stałego lub pobytu czasowego trwającego ponad trzy miesiące na wyjazd i pobyt za granicą. We wniosku o zezwolenie na wyjazd i pobyt za granicą należy wskazać planowany termin wyjazdu i powrotu oraz kraj wyjazdu. Do postępowań w sprawach wydawania zezwoleń na wyjazd i pobyt za granicą stosuje się ustawę z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267 oraz z 2014 r. poz. 183).
+- **2)** zostały powołane do odbycia czynnej służby wojskowej lub szkolenia w obronie cywilnej albo służby zastępczej – od dnia doręczenia karty powołania (karty skierowania) do tej służby – są obowiązane uzyskać zezwolenie wojskowego komendanta uzupełnień właściwego ze względu na miejsce pobytu stałego lub pobytu czasowego trwającego ponad trzy miesiące na wyjazd i pobyt za granicą. We wniosku o zezwolenie na wyjazd i pobyt za granicą należy wskazać planowany termin wyjazdu i powrotu oraz kraj wyjazdu. Do postępowań w sprawach wydawania zezwoleń na wyjazd i pobyt za granicą stosuje się ustawę z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267 oraz z 2014 r. poz. 183).
 
 3. Obowiązek zgłaszania zmian, o których mowa w ust. 1, spełnia się niezwłocznie po ich zaistnieniu osobiście, przesyłką poleconą lub za pomocą środków komunikacji elektronicznej. W przypadku osób, którym nadano przydział kryzysowy, przydział mobilizacyjny lub pracowniczy przydział mobilizacyjny, obowiązek ten może zostać spełniony przez zgłoszenie zmian dowódcy jednostki wojskowej, do której nadano ten przydział.
 
@@ -272,7 +271,7 @@ source: "eli-html"
 
 - **1)** sposób i tryb opiniowania służbowego, w tym metodologię dokonywania oceny w opiniowaniu służbowym i skalę ocen,
 - **2)** tryb postępowania odwoławczego od opinii służbowej,
-- **3)** wzór arkusza opinii służbowej uwzględniając konieczność uzyskania informacji w zakresie przydatności żołnierza do dalszej służby wojskowej, cele i charakter tej służby oraz prawo żołnierza do wniesienia odwołania od opinii służbowej. ” ;
+- **3)** wzór arkusza opinii służbowej – uwzględniając konieczność uzyskania informacji w zakresie przydatności żołnierza do dalszej służby wojskowej, cele i charakter tej służby oraz prawo żołnierza do wniesienia odwołania od opinii służbowej. ” ;
 - **21)** art. 99a otrzymuje brzmienie: „
 
 **Art. 99a.**
@@ -347,8 +346,11 @@ source: "eli-html"
 - **1)** prowadzą własną kampanię wyborczą w przypadku kandydowania do organów, o których mowa w art. 65 ust. 4 – w czasie jej trwania;
 - **2)** zostały wybrane na senatora albo posła, w tym do Parlamentu Europejskiego – w czasie trwania kadencji;
 - **3)** zostały przeznaczone do odbycia służby zastępczej lub odbyły tę służbę. ” ;
-- **24)** w art. 101: w ust. 2: – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) mogą zostać zobowiązani do odbycia jeden raz przez cały okres pozostawania na przydziałach kryzysowych ćwiczeń wojskowych długotrwałych; ” , – po pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5 w brzmieniu: „ 5) na ich wniosek lub za ich zgodą mogą odbywać, w dniach wolnych od pracy, ćwiczenia wojskowe jednodniowe, jeżeli w danym roku kalendarzowym został wyczerpany limit dni przeznaczonych na ćwiczenia wojskowe rotacyjne. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **24)** w art. 101: w ust. 2: po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
+
+- **3a)** mogą zostać zobowiązani do odbycia jeden raz przez cały okres pozostawania na przydziałach kryzysowych ćwiczeń wojskowych długotrwałych; ” , po pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5 w brzmieniu: „
+- **5)** na ich wniosek lub za ich zgodą mogą odbywać, w dniach wolnych od pracy, ćwiczenia wojskowe jednodniowe, jeżeli w danym roku kalendarzowym został wyczerpany limit dni przeznaczonych na ćwiczenia wojskowe rotacyjne. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. O możliwości powołania do odbycia ćwiczeń wojskowych, o których mowa w ust. 2 pkt 3a, wojskowy komendant uzupełnień lub dowódca jednostki wojskowej informuje żołnierza rezerwy posiadającego nadany przydział kryzysowy co najmniej przed rozpoczęciem kolejnego okresu szkoleniowego, jednak nie później niż na sześć miesięcy przed przewidywanym terminem powołania na te ćwiczenia. ” , ust. 8–10 otrzymują brzmienie: „
@@ -377,7 +379,7 @@ source: "eli-html"
 
 - **1)** tryb powoływania na ćwiczenia wojskowe i zwalniania z tych ćwiczeń,
 - **2)** sposób odbywania ćwiczeń wojskowych, a także ich liczbę i czas trwania dla poszczególnych grup żołnierzy rezerwy, stosownie do stopnia i rodzaju wyszkolenia wojskowego oraz wykształcenia,
-- **3)** sposób i tryb postępowania organów wojskowych podczas odbywania ćwiczeń wojskowych w zakresie przyjmowania żołnierzy rezerwy i innych osób do służby wojskowej, wyznaczania na stanowiska służbowe, zmiany stanowisk służbowych i zwalniania żołnierzy ze stanowisk służbowych, przenoszenia do innych jednostek wojskowych, delegowania i podróży służbowych uwzględniając potrzeby uzupełnieniowe Sił Zbrojnych, w tym Narodowych Sił Rezerwowych, zróżnicowane okresy szkolenia w jednostkach wojskowych, konieczność zapewnienia sprawnego przyjęcia osób powołanych do odbycia tych ćwiczeń oraz cel dokonywania tych czynności. ” ;
+- **3)** sposób i tryb postępowania organów wojskowych podczas odbywania ćwiczeń wojskowych w zakresie przyjmowania żołnierzy rezerwy i innych osób do służby wojskowej, wyznaczania na stanowiska służbowe, zmiany stanowisk służbowych i zwalniania żołnierzy ze stanowisk służbowych, przenoszenia do innych jednostek wojskowych, delegowania i podróży służbowych – uwzględniając potrzeby uzupełnieniowe Sił Zbrojnych, w tym Narodowych Sił Rezerwowych, zróżnicowane okresy szkolenia w jednostkach wojskowych, konieczność zapewnienia sprawnego przyjęcia osób powołanych do odbycia tych ćwiczeń oraz cel dokonywania tych czynności. ” ;
 - **28)** w art. 108: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -385,7 +387,7 @@ source: "eli-html"
 
 - **b)**
 
-5. W ramach okresowej służby wojskowej żołnierz rezerwy może być wyznaczony lub skierowany do pełnienia tej służby poza granicami państwa. Zobowiązanie żołnierza rezerwy do pełnienia służby poza granicami państwa, o którym mowa w art. 59b ust. 5 pkt 9, stanowi jednocześnie pisemną zgodę, o której mowa w art. 8 ust. 1 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. Nr 162, poz. 1117, z późn. zm.). ” , po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
+5. W ramach okresowej służby wojskowej żołnierz rezerwy może być wyznaczony lub skierowany do pełnienia tej służby poza granicami państwa. Zobowiązanie żołnierza rezerwy do pełnienia służby poza granicami państwa, o którym mowa w art. 59b ust. 5 pkt 9, stanowi jednocześnie pisemną zgodę, o której mowa w art. 8 ust. 1 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. Nr 162, poz. 1117, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 79, poz. 669 i Nr 161, poz. 1278, z 2010 r. Nr 240, poz. 1601, z 2011 r. Nr 205, poz. 1203 oraz z 2012 r. poz. 908.). ” , po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
 
 - **c)**
 
@@ -431,7 +433,7 @@ source: "eli-html"
 
 - **1)** sposób i tryb opiniowania służbowego, w tym metodologię dokonywania oceny w opiniowaniu służbowym i skalę ocen,
 - **2)** tryb postępowania odwoławczego od opinii służbowej,
-- **3)** wzór arkusza opinii służbowej uwzględniając konieczność uzyskania informacji w zakresie przydatności żołnierza do dalszej służby wojskowej oraz prawo żołnierza do wniesienia odwołania od opinii służbowej. ” ;
+- **3)** wzór arkusza opinii służbowej – uwzględniając konieczność uzyskania informacji w zakresie przydatności żołnierza do dalszej służby wojskowej oraz prawo żołnierza do wniesienia odwołania od opinii służbowej. ” ;
 - **30)** w art. 119a: ust. 1–3 otrzymują brzmienie: „
     - **a)**
 
@@ -506,7 +508,7 @@ source: "eli-html"
 
 - **1)** kwalifikacje przydatne w Siłach Zbrojnych, o których mowa w art. 132a ust. 1 i art. 132b ust. 1,
 - **2)** wzór umowy, o której mowa w art. 132a ust. 3 i art. 132b ust. 3,
-- **3)** sposób i tryb naliczania i wypłacania ekwiwalentu pieniężnego, o którym mowa w art. 132a ust. 1 uwzględniając klasyfikację zawodów i specjalności określoną na podstawie art. 36 ust. 8 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm.), prawa i obowiązki stron umowy oraz okres, po którego upływie wypłacany jest ekwiwalent. ” ;
+- **3)** sposób i tryb naliczania i wypłacania ekwiwalentu pieniężnego, o którym mowa w art. 132a ust. 1 – uwzględniając klasyfikację zawodów i specjalności określoną na podstawie art. 36 ust. 8 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 829, 1291, 1623, 1645 i 1650 oraz z 2014 r. poz. 567 i 598.), prawa i obowiązki stron umowy oraz okres, po którego upływie wypłacany jest ekwiwalent. ” ;
 - **41)** w art. 132d w ust. 1: uchyla się pkt 2 i 6, w pkt 8 w lit. d przecinek zastępuje się kropką i uchyla się lit. e;
     - **a)**
     - **b)**
@@ -537,7 +539,7 @@ source: "eli-html"
 
 3. Żołnierzom skierowanym do pełnienia okresowej służby wojskowej poza granicami państwa, po zakończeniu służby w ramach tego skierowania, udziela się urlopu aklimatyzacyjnego w wymiarze jednego dnia roboczego za każde rozpoczęte dziesięć dni pełnienia służby poza granicami państwa. Urlopu udziela dowódca jednostki wojskowej, w której żołnierz zajmuje stanowisko służbowe albo do której został skierowany lub wyznaczony w ramach pełnienia okresowej służby wojskowej. Wymiar urlopu aklimatyzacyjnego nie może przekroczyć dwudziestu dwóch dni roboczych.
 
-4. Żołnierzom skierowanym do pełnienia okresowej służby wojskowej poza granicami państwa przysługują coroczne bezpłatne badania profilaktyczne na zasadach określonych w przepisach ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2004 r. Nr 125, poz. 1317, z późn. zm.).
+4. Żołnierzom skierowanym do pełnienia okresowej służby wojskowej poza granicami państwa przysługują coroczne bezpłatne badania profilaktyczne na zasadach określonych w przepisach ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2004 r. Nr 125, poz. 1317, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 141, poz. 1011, z 2008 r. Nr 220, poz. 1416 i Nr 234, poz. 1570, z 2011 r. Nr 112, poz. 654 oraz z 2014 r. poz. 7.).
 
 5. Żołnierze skierowani do okresowej służby wojskowej poza granicami państwa podlegają bezpłatnym badaniom lekarskim i psychologicznym oraz szczepieniom ochronnym.
 
@@ -574,7 +576,7 @@ source: "eli-html"
 - **1)** kwalifikacje przydatne w Siłach Zbrojnych, o których mowa w art. 132f ust. 1 i art. 132g ust. 1,
 - **2)** wzory umowy, o której mowa w art. 132f ust. 2, oraz skierowania, o którym mowa w art. 132g ust. 1,
 - **3)** sposób i tryb naliczania i wypłacania ekwiwalentu pieniężnego, o którym mowa w art. 132f ust. 1,
-- **4)** sposób i tryb naliczania oraz dokonywania zwrotu kosztów, o których mowa w art. 132g ust. 4 i 5 uwzględniając klasyfikację zawodów i specjalności określoną na podstawie art. 36 ust. 8 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prawa i obowiązki stron umowy oraz okres, po którego upływie wypłacany jest ekwiwalent.
+- **4)** sposób i tryb naliczania oraz dokonywania zwrotu kosztów, o których mowa w art. 132g ust. 4 i 5 – uwzględniając klasyfikację zawodów i specjalności określoną na podstawie art. 36 ust. 8 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prawa i obowiązki stron umowy oraz okres, po którego upływie wypłacany jest ekwiwalent.
 
 1. Żołnierzowi rezerwy posiadającemu przydział kryzysowy, można przyznać dofinansowanie kosztów studiów lub nauki albo stażu, kursu lub specjalizacji, zwłaszcza w specjalnościach wojskowych wymagających podwyższonych kwalifikacji, w wymiarze proporcjonalnym do deklarowanego okresu pozostawania na przydziale kryzysowym.
 
@@ -587,7 +589,7 @@ source: "eli-html"
 - **1)** tryb udzielania żołnierzom rezerwy posiadającym nadane przydziały kryzysowe dofinansowania kosztów studiów lub nauki albo stażu, kursu lub specjalizacji,
 - **2)** rodzaj, zakres i wysokość dofinansowania oraz tryb jego zwrotu,
 - **3)** sposób dokumentowania poniesionych przez żołnierza rezerwy wydatków objętych dofinansowaniem,
-- **4)** wzór umowy, o której mowa w ust. 2 uwzględniając sprawność postępowania w sprawie dofinansowania, wysokość rzeczywistych kosztów studiów lub nauki albo stażu, kursu lub specjalizacji, możliwość weryfikacji tych kosztów oraz prawa i obowiązki stron umowy. ” ;
+- **4)** wzór umowy, o której mowa w ust. 2 – uwzględniając sprawność postępowania w sprawie dofinansowania, wysokość rzeczywistych kosztów studiów lub nauki albo stażu, kursu lub specjalizacji, możliwość weryfikacji tych kosztów oraz prawa i obowiązki stron umowy. ” ;
 - **43)** w art. 134a: uchyla się ust. 3 i 4, ust. 5 i 6 otrzymują brzmienie: „
     - **a)**
     - **b)**
@@ -607,7 +609,7 @@ source: "eli-html"
 - **1)** sposób obliczania poniesionych kosztów, o których mowa w ust. 2,
 - **2)** wzór wniosku o wypłatę świadczenia, o którym mowa w ust. 5,
 - **3)** sposób dokumentowania przez pracodawcę poniesionych kosztów,
-- **4)** tryb wypłacania świadczenia uwzględniając możliwość weryfikacji przez właściwego szefa wojewódzkiego sztabu wojskowego przedłożonych dokumentów przed dokonaniem wypłaty świadczenia, konieczny zakres informacji do dokonania rozliczenia oraz kierując się potrzebą zapewnienia sprawności i szybkości postępowania oraz szybkości zwrotu świadczenia. ” ;
+- **4)** tryb wypłacania świadczenia – uwzględniając możliwość weryfikacji przez właściwego szefa wojewódzkiego sztabu wojskowego przedłożonych dokumentów przed dokonaniem wypłaty świadczenia, konieczny zakres informacji do dokonania rozliczenia oraz kierując się potrzebą zapewnienia sprawności i szybkości postępowania oraz szybkości zwrotu świadczenia. ” ;
 - **44)** art. 161 otrzymuje brzmienie: „
 
 **Art. 161.**
@@ -650,7 +652,7 @@ source: "eli-html"
 
 - **2)** w art. 8 ust. 3 otrzymuje brzmienie: „
 
-3. Żołnierze służby przygotowawczej zwalniani z tej służby przed upływem czasu jej trwania, w przypadkach określonych w art. 98e ust. 2 pkt 1 i 4–7 oraz ust. 5 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm.), oraz żołnierze powołani do odbycia innych rodzajów czynnej służby wojskowej na okres nieprzekraczający trzech miesięcy tracą prawo do uposażenia z dniem zwolnienia z czynnej służby wojskowej. ” ;
+3. Żołnierze służby przygotowawczej zwalniani z tej służby przed upływem czasu jej trwania, w przypadkach określonych w art. 98e ust. 2 pkt 1 i 4–7 oraz ust. 5 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1407 i 1445, z 2013 r. poz. 852 i 1355 oraz z 2014 r. poz. 619 i 773.), oraz żołnierze powołani do odbycia innych rodzajów czynnej służby wojskowej na okres nieprzekraczający trzech miesięcy tracą prawo do uposażenia z dniem zwolnienia z czynnej służby wojskowej. ” ;
 
 - **3)** w art. 31 ust. 1 i 2 otrzymują brzmienie: „
 
@@ -685,7 +687,7 @@ source: "eli-html"
 **Art. 45.** Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia:
 
 - **1)** stawki uposażenia zasadniczego żołnierzy wymienionych w art. 30 i art. 31,
-- **2)** rodzaje i wysokość dodatków do uposażenia uzasadnionych szczególnymi właściwościami lub warunkami służby wojskowej uwzględniając przy określaniu stawek uposażenia zasadniczego żołnierzy różne rodzaje czynnej służby wojskowej, korpusy lub stopnie wojskowe albo stopnie etatowe zajmowanych stanowisk służbowych, a w zakresie dodatków wymienionych w pkt 2 – wprowadzając dla żołnierzy, z wyjątkiem przypadków określonych w niniejszej ustawie, takie same rozwiązania niezależnie od rodzaju odbywanej lub pełnionej przez nich czynnej służby wojskowej, oraz uwzględniając czynniki szkodliwe dla zdrowia lub uciążliwe warunki pełnienia służby. ” ;
+- **2)** rodzaje i wysokość dodatków do uposażenia uzasadnionych szczególnymi właściwościami lub warunkami służby wojskowej – uwzględniając przy określaniu stawek uposażenia zasadniczego żołnierzy różne rodzaje czynnej służby wojskowej, korpusy lub stopnie wojskowe albo stopnie etatowe zajmowanych stanowisk służbowych, a w zakresie dodatków wymienionych w pkt 2 – wprowadzając dla żołnierzy, z wyjątkiem przypadków określonych w niniejszej ustawie, takie same rozwiązania niezależnie od rodzaju odbywanej lub pełnionej przez nich czynnej służby wojskowej, oraz uwzględniając czynniki szkodliwe dla zdrowia lub uciążliwe warunki pełnienia służby. ” ;
 - **9)** w art. 45a ust. 2 otrzymuje brzmienie: „
 
 2. Minister Obrony Narodowej określi, w drodze rozporządzenia:
@@ -694,23 +696,23 @@ source: "eli-html"
 - **2)** tryb pokrywania przez Siły Zbrojne Rzeczypospolitej Polskiej kosztów pogrzebu żołnierzy w czynnej służbie wojskowej, z wyłączeniem służby okresowej, organy wojskowe właściwe w tych sprawach oraz maksymalną wysokość kosztów pogrzebu żołnierza pokrywanych z budżetu państwa z części, której dysponentem jest Minister Obrony Narodowej, uwzględniając miejsce pełnienia służby przez żołnierza, rzeczywiste koszty pogrzebu i koszty związane z przewozem zwłok do miejscowości, w której zmarły żołnierz ma być pochowany. ” ;
 - **10)** art. 47 otrzymuje brzmienie: „
 
-**Art. 47.** W razie ogłoszenia mobilizacji, w czasie stanu wojennego lub w czasie wojny żołnierze pełniący czynną służbę wojskową otrzymują uposażenie i inne należności pieniężne w wysokości i na zasadach określonych jak dla żołnierzy zawodowych w przepisach ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.). ” .
+**Art. 47.** W razie ogłoszenia mobilizacji, w czasie stanu wojennego lub w czasie wojny żołnierze pełniący czynną służbę wojskową otrzymują uposażenie i inne należności pieniężne w wysokości i na zasadach określonych jak dla żołnierzy zawodowych w przepisach ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696, Nr 171, poz. 1016 i Nr 236, poz. 1396, z 2013 r. poz. 675, 829, 852 i 1355 oraz z 2014 r. poz. 502.). ” .
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) w art. 21 w ust. 1 w pkt 15 lit. a otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567 i 598.) w art. 21 w ust. 1 w pkt 15 lit. a otrzymuje brzmienie: „
 
 niezawodowej służby wojskowej lub jej form równorzędnych, z wyjątkiem okresowej służby wojskowej oraz służby przygotowawczej, ” .
 
 - **a)**
 
-**Art. 4.** W ustawie z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. Nr 162, poz. 1117, z późn. zm.) w art. 9 w ust. 1:
+**Art. 4.** W ustawie z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. Nr 162, poz. 1117, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 79, poz. 669 i Nr 161, poz. 1278, z 2010 r. Nr 240, poz. 1601, z 2011 r. Nr 205, poz. 1203 oraz z 2012 r. poz. 908.) w art. 9 w ust. 1:
 
 - **1)** uchyla się pkt 2;
 - **2)** pkt 4 otrzymuje brzmienie: „
 - **4)** uposażenie oraz inne należności pieniężne otrzymywane przez żołnierzy wyznaczonych do pełnienia służby poza granicami państwa, wynagrodzenie i inne należności pieniężne oraz świadczenia otrzymywane przez pracowników wojska zatrudnionych w jednostkach wojskowych, z uwzględnieniem w szczególności prawa do świadczeń odszkodowawczych, wynikających z odrębnych ustaw, dodatków zagranicznego i wojennego w zależności od celu użycia tych jednostek poza granicami państwa, oraz do bezpłatnych świadczeń zdrowotnych, zaopatrzenia w leki i artykuły sanitarne, a także bezpłatnego przewozu z kraju i z powrotem w związku z rozpoczęciem i zakończeniem misji oraz w przypadkach losowych, ” .
 
-**Art. 5.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) w art. 12 dodaje się pkt 1a w brzmieniu: „
+**Art. 5.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24, 295, 496, 567 i 619.) w art. 12 dodaje się pkt 1a w brzmieniu: „
 
-- **1a)** art. 161 i art. 170 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm.); ” .
+- **1a)** art. 161 i art. 170 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1407 i 1445, z 2013 r. poz. 852 i 1355 oraz z 2014 r. poz. 619 i 773.); ” .
 
 **Art. 6.** Żołnierze pełniący służbę przygotowawczą w dniu wejścia w życie niniejszej ustawy otrzymują uposażenia i należności pieniężne w ramach tej służby w terminach określonych w przepisach dotychczasowych.
 
@@ -732,7 +734,7 @@ niezawodowej służby wojskowej lub jej form równorzędnych, z wyjątkiem okres
 
 - **1)** art. 44a ust. 12, art. 59a ust. 7, art. 59b ust. 12, art. 98g, art. 99b, art. 101 ust. 10, art. 106, art. 108 ust. 13, art. 119a ust. 8, art. 131 ust. 8, art. 132 ust. 2, art. 132c i art. 134a ust. 12 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 44a ust. 12, art. 59a ust. 7, art. 59b ust. 12, art. 98g, art. 99a ust. 13, art. 101 ust. 10, art. 106, art. 108 ust. 13, art. 119a ust. 8, art. 132 ust. 2, art. 132c i art. 134a ust. 12 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
 - **2)** art. 45 i art. 45a ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 45 i art. 45a ust. 2, w brzmieniu nadanym niniejszą ustawą,
-- **3)** art. 9 ust. 1 pkt 2 i 4 ustawy zmienianej w art. 4 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 132e ust. 7 i 8 ustawy zmienianej w art. 1 i art. 9 ust. 1 pkt 4 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez okres 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **3)** art. 9 ust. 1 pkt 2 i 4 ustawy zmienianej w art. 4 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 132e ust. 7 i 8 ustawy zmienianej w art. 1 i art. 9 ust. 1 pkt 4 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez okres 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 13.** Ustawa wchodzi w życie pierwszego dnia drugiego miesiąca następującego po miesiącu ogłoszenia.
+**Art. 13.** Ustawa wchodzi w życie pierwszego dnia drugiego miesiąca następującego po miesiącu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1407 i 1445, z 2013 r. poz. 852 i 1355 oraz z 2014 r. poz. 619. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 79, poz. 669 i Nr 161, poz. 1278, z 2010 r. Nr 240, poz. 1601, z 2011 r. Nr 205, poz. 1203 oraz z 2012 r. poz. 908. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 829, 1291, 1623, 1645 i 1650 oraz z 2014 r. poz. 567 i 598. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 141, poz. 1011, z 2008 r. Nr 220, poz. 1416 i Nr 234, poz. 1570, z 2011 r. Nr 112, poz. 654 oraz z 2014 r. poz. 7. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1407 i 1445, z 2013 r. poz. 852 i 1355 oraz z 2014 r. poz. 619 i 773. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696, Nr 171, poz. 1016 i Nr 236, poz. 1396, z 2013 r. poz. 675, 829, 852 i 1355 oraz z 2014 r. poz. 502. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223, 312, 567 i 598. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 79, poz. 669 i Nr 161, poz. 1278, z 2010 r. Nr 240, poz. 1601, z 2011 r. Nr 205, poz. 1203 oraz z 2012 r. poz. 908. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24, 295, 496, 567 i 619. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1407 i 1445, z 2013 r. poz. 852 i 1355 oraz z 2014 r. poz. 619 i 773.
 

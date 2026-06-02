@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Inwestycji i Rozwojuz dnia 2 sierpnia 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020
+# Obwieszczenie Ministra Inwestycji i Rozwojuz dnia 2 sierpnia 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020 Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 | Pole | Wartość |
 |---|---|
@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 20 października 2015 r. w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 1756), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 4 stycznia 2018 r. zmieniającym rozporządzenie w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 59).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 4 stycznia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 59), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 4 stycznia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 59), które stanowią: „
 § 2.
 1.
 Do umów zawartych i decyzji o dofinansowaniu projektu podjętych przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie których udzielono pomocy, stosuje się przepisy dotychczasowe.
@@ -41,10 +40,8 @@ Do wniosków złożonych przed dniem wejścia w życie niniejszego rozporządzen
 3.
 Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, uzupełnia się na wezwanie podmiotu udzielającego pomocy w terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od dnia otrzymania wezwania.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
-Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 20 października 2015 r. w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 20 października 2015 r. w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Inwestycji i Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach regionalnych programów operacyjnych na lata 2014–2020, pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną, zwanej dalej „pomocą”, do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1), zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
@@ -80,7 +77,7 @@ na pokrycie kosztów kwalifikowalnych, o których mowa w art. 55 ust. 8 rozporz�
 § 8.
 1.
 Wartość dopuszczalnej pomocy ustala się zgodnie z art. 55 ust. 10 rozporządzenia nr 651/2014.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 4 stycznia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 59), które weszło w życie z dniem 11 stycznia 2018 r..
 W przypadku pomocy nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 55 ust. 12 rozporządzenia nr 651/2014.
 3.
 Do obliczania wartości pomocy i kosztów kwalifikowalnych stosuje się art. 7 ust. 1–3 rozporządzenia nr 651/2014.
@@ -106,6 +103,5 @@ Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na p
 § 13.
 Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Inwestycji i Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 4 stycznia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 59), które weszło w życie z dniem 11 stycznia 2018 r. 3) Rozporządzenie zostało ogłoszone w dniu 30 października 2015 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 30 października 2015 r.. 1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Inwestycji i Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 4 stycznia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 59), które weszło w życie z dniem 11 stycznia 2018 r. 3) Rozporządzenie zostało ogłoszone w dniu 30 października 2015 r.
 

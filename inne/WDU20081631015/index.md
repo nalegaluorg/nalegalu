@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy o ochronie przeciwpożarowej oraz niektórych innych ustaw
+# Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy o ochronie przeciwpożarowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej i ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-25 |
 | Data wydania | 2008-09-10 |
-| Wejście w życie | 2008-09-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081631015) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1015/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2002 r. Nr 147, poz. 1229, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2002 r. Nr 147, poz. 1229, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410 oraz z 2007 r. Nr 89, poz. 590.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 ust. 5 otrzymuje brzmienie: „
 
@@ -37,7 +36,7 @@ source: "eli-html"
 
 1. Członek ochotniczej straży pożarnej, który uczestniczył w działaniu ratowniczym lub szkoleniu pożarniczym organizowanym przez Państwową Straż Pożarną lub gminę, otrzymuje ekwiwalent pieniężny. Wysokość ekwiwalentu ustala rada gminy w drodze uchwały.
 
-2. Wysokość ekwiwalentu, o którym mowa w ust. 1, nie może przekraczać 1/175 przeciętnego wynagrodzenia, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.) przed dniem ustalenia ekwiwalentu, za każdą godzinę udziału w działaniu ratowniczym lub szkoleniu pożarniczym. Ekwiwalent jest wypłacany z budżetu gminy. ” , ust. 7 otrzymuje brzmienie: „
+2. Wysokość ekwiwalentu, o którym mowa w ust. 1, nie może przekraczać 1/175 przeciętnego wynagrodzenia, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534, z 2007 r. Nr 17, poz. 95, Nr 82, poz. 558, Nr 191, poz. 1368 i 1369 i Nr 200, poz. 1445 oraz z 2008 r. Nr 67, poz. 411.) przed dniem ustalenia ekwiwalentu, za każdą godzinę udziału w działaniu ratowniczym lub szkoleniu pożarniczym. Ekwiwalent jest wypłacany z budżetu gminy. ” , ust. 7 otrzymuje brzmienie: „
 
 - **b)**
 
@@ -55,7 +54,7 @@ source: "eli-html"
 
 3b. Jednostki samorządu terytorialnego mogą przekazywać ochotniczym strażom pożarnym środki pieniężne w formie dotacji. ” .
 
-**Art. 2.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2006 r. Nr 96, poz. 667, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2006 r. Nr 96, poz. 667, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 181, poz. 1291 oraz z 2008 r. Nr 86, poz. 521.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12 w ust. 5a pkt 1 otrzymuje brzmienie: „
 - **1)** współdziałanie z zarządem oddziału wojewódzkiego związku ochotniczych straży pożarnych; ” ;
@@ -67,7 +66,7 @@ source: "eli-html"
 
 - **1)** współdziałanie z zarządem oddziału powiatowego związku ochotniczych straży pożarnych; ” .
 
-**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238 oraz z 2008 r. Nr 37, poz. 214 i Nr 100, poz. 649.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 i 10 w brzmieniu: „
 - **9)** strażak Państwowej Straży Pożarnej podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;
@@ -83,5 +82,5 @@ source: "eli-html"
 
 4. Kierującym pojazdem uprzywilejowanym ochotniczej straży pożarnej może być osoba, która posiada zaświadczenie wydane przez właściwego wójta (burmistrza, prezydenta miasta), potwierdzające spełnienie wymagań w zakresie badań lekarskich, o których mowa w art. 122 ust. 2, oraz psychologicznych, o których mowa w art. 124 ust. 2. ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej i ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410 oraz z 2007 r. Nr 89, poz. 590. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534, z 2007 r. Nr 17, poz. 95, Nr 82, poz. 558, Nr 191, poz. 1368 i 1369 i Nr 200, poz. 1445 oraz z 2008 r. Nr 67, poz. 411. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 181, poz. 1291 oraz z 2008 r. Nr 86, poz. 521. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238 oraz z 2008 r. Nr 37, poz. 214 i Nr 100, poz. 649.
 

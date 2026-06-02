@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 20 października 2015 r. w sprawie przeglądów i inspekcji oraz międzynarodowych świadectw w zakresie ochrony morza przed zanieczyszczaniem przez statki
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 20 października 2015 r. w sprawie przeglądów i inspekcji oraz międzynarodowych świadectw w zakresie ochrony morza przed zanieczyszczaniem przez statki Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Unii Europejskiej: 1) dyrektywy 2000/59/WE Parlamentu Europejskiego i Rady z dnia 27 listopada 2000 r. w sprawie portowych urządzeń do odbioru odpadów wytwarzanych przez statki i pozostałości ładunku (Dz. Urz. WE L 332 z 28.12.2000, str. 81, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 5, str. 358); 2) dyrektywy Parlamentu Europejskiego i Rady 2009/15/WE z dnia 23 kwietnia 2009 r. w sprawie wspólnych reguł i norm dotyczących organizacji dokonujących inspekcji i przeglądów na statkach oraz odpowiednich działań administracji morskich (Dz. Urz. UE L 131 z 28.05.2009, str. 47, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-20 |
 | Data wydania | 2015-11-05 |
-| Wejście w życie | 2015-11-20 |
 | Ostatnia zmiana | 2024-11-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1806/text.pdf) |
 
@@ -33,8 +32,7 @@ Rozporządzenie określa:
 1)
 rodzaje przeglądów i inspekcji oraz sposób, zakres i terminy ich przeprowadzania,
 2)
-sposób wydawania i potwierdzania oraz wzory międzynarodowych świadectw, o których mowa w art. 8 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, zwanej dalej „ustawą”
-w zakresie ochrony morza przed zanieczyszczaniem przez statki.
+sposób wydawania i potwierdzania oraz wzory międzynarodowych świadectw, o których mowa w art. 8 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, zwanej dalej „ustawą” w zakresie ochrony morza przed zanieczyszczaniem przez statki.
 § 2.
 1.
 Statek uprawiający żeglugę międzynarodową, określony w Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, 1973 r., sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem uzupełniającym sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1987 r. Nr 17, poz. 101) oraz Protokołem uzupełniającym sporządzonym w Londynie dnia 26 września 1997 r. (Dz. U. z 2005 r. Nr 202, poz. 1679), zwanej dalej „Konwencją MARPOL”, podlega odpowiednio:
@@ -116,15 +114,15 @@ plan postępowania z odpadami.
 2.
 Inspekcja doraźna w zakresie zawartości siarki w dostarczanych na statki lub używanych na statkach paliwach żeglugowych powinna być przeprowadzana przez organ inspekcyjny zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 13f ust. 3 ustawy.
 3.
-W zakresie systemu przeciwporostowego, w oparciu o wytyczne Międzynarodowej Organizacji Morskiej (IMO) zawarte w Rezolucji MEPC.208(62), dotyczące przeprowadzania inspekcji systemów przeciwporostowych na statkach, organ inspekcyjny przeprowadza:
+W zakresie systemu przeciwporostowego, w oparciu o wytyczne Międzynarodowej Organizacji Morskiej (IMO) zawarte w Rezolucji MEPC.208(62), dotyczące przeprowadzania inspekcji systemów przeciwporostowych na statkachWytyczne IMO, o których mowa w § 4 ust. 3 i 4, zostały podane do publicznej wiadomości w obwieszczeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 28 sierpnia 2013 r. w sprawie podania do publicznej wiadomości niektórych przepisów Międzynarodowej Organizacji Morskiej (IMO) dotyczących systemów przeciwporostowych na statkach (Dz. Urz. MTBiGM poz. 52)., organ inspekcyjny przeprowadza:
 1)
 inspekcję doraźną, obejmującą sprawdzenie, czy na pokładzie statku znajduje się ważne Międzynarodowe świadectwo systemu przeciwporostowego lub Deklaracja systemu przeciwporostowego, jak również sprawdzenie dodatkowych dokumentów związanych ze świadectwem lub deklaracją;
 2)
 inspekcję rozszerzoną, w przypadku gdy istnieją podstawy do stwierdzenia, że statek narusza postanowienia Konwencji AFS lub system przeciwporostowy nie jest zgodny z danymi zawartymi w Międzynarodowym świadectwie systemu przeciwporostowego lub Deklaracji systemu przeciwporostowego.
 4.
-Inspekcja rozszerzona może obejmować pobranie i analizę próbek systemu przeciwporostowego zgodnie z wytycznymi Międzynarodowej Organizacji Morskiej (IMO), zawartymi w Rezolucji MEPC.104(49), dotyczącymi pobierania próbek systemów przeciwporostowych stosowanych na statkach w celu stwierdzenia, czy system przeciwporostowy nie zawiera związków cynoorganicznych.
+Inspekcja rozszerzona może obejmować pobranie i analizę próbek systemu przeciwporostowego zgodnie z wytycznymi Międzynarodowej Organizacji Morskiej (IMO), zawartymi w Rezolucji MEPC.104(49), dotyczącymi pobierania próbek systemów przeciwporostowych stosowanych na statkachWytyczne IMO, o których mowa w § 4 ust. 3 i 4, zostały podane do publicznej wiadomości w obwieszczeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 28 sierpnia 2013 r. w sprawie podania do publicznej wiadomości niektórych przepisów Międzynarodowej Organizacji Morskiej (IMO) dotyczących systemów przeciwporostowych na statkach (Dz. Urz. MTBiGM poz. 52). w celu stwierdzenia, czy system przeciwporostowy nie zawiera związków cynoorganicznych.
 5.
-Analizę próbek systemu przeciwporostowego przeprowadza się w laboratorium akredytowanym zgodnie z wymaganiami Polskich Norm.
+Analizę próbek systemu przeciwporostowego przeprowadza się w laboratorium akredytowanym zgodnie z wymaganiami Polskich NormNorma PN-EN ISO/IEC 17025 „Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących”..
 6.
 Czynność pobrania próbek systemu przeciwporostowego na statku może być zlecona przez organ inspekcyjny wyspecjalizowanej organizacji lub osobie.
 7.
@@ -169,12 +167,11 @@ W przypadku:
 1)
 przeglądu – uznana przez Komisję Europejską instytucja klasyfikacyjna sprawująca nadzór techniczny nad statkiem,
 2)
-inspekcji – organ inspekcyjny lub upoważniona instytucja klasyfikacyjna
-powiadamiają armatora statku, a w odniesieniu do statku o obcej przynależności również konsula państwa, którego banderę podnosi statek, oraz organ, który wydał międzynarodowe świadectwa, o niezgodnościach z obowiązującymi przepisami i wymaganiami technicznymi wynikających z protokołu, o którym mowa w ust. 1, jeżeli wynik przeglądu lub inspekcji jest negatywny.
+inspekcji – organ inspekcyjny lub upoważniona instytucja klasyfikacyjna – powiadamiają armatora statku, a w odniesieniu do statku o obcej przynależności również konsula państwa, którego banderę podnosi statek, oraz organ, który wydał międzynarodowe świadectwa, o niezgodnościach z obowiązującymi przepisami i wymaganiami technicznymi wynikających z protokołu, o którym mowa w ust. 1, jeżeli wynik przeglądu lub inspekcji jest negatywny.
 4.
 W przypadku gdy organem inspekcyjnym jest konsul, kopię protokołu z inspekcji organ ten przekazuje dyrektorowi urzędu morskiego właściwego dla portu macierzystego statku.
 5.
 W przypadku zatrzymania statku z powodu niewykonania obowiązku zdania odpadów i pozostałości ładunkowych do portowych urządzeń odbiorczych, w protokole, o którym mowa w ust. 1, potwierdza się wypełnienie obowiązku zdania odpadów i pozostałości ładunkowych do portowych urządzeń odbiorczych jako warunek wydania zgody na opuszczenie portu.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Infrastruktury z dnia 5 grudnia 2008 r. w sprawie sposobu, zakresu i terminów przeprowadzania przeglądów i inspekcji, sposobu wydawania, potwierdzania oraz wzorów międzynarodowych świadectw w zakresie ochrony morza przed zanieczyszczaniem przez statki (Dz. U. Nr 225, poz. 1493), które na podstawie art. 5 ustawy z dnia 7 listopada 2014 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz niektórych innych ustaw (Dz. U. poz. 1554) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Unii Europejskiej: 1) dyrektywy 2000/59/WE Parlamentu Europejskiego i Rady z dnia 27 listopada 2000 r. w sprawie portowych urządzeń do odbioru odpadów wytwarzanych przez statki i pozostałości ładunku (Dz. Urz. WE L 332 z 28.12.2000, str. 81, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 5, str. 358); 2) dyrektywy Parlamentu Europejskiego i Rady 2009/15/WE z dnia 23 kwietnia 2009 r. w sprawie wspólnych reguł i norm dotyczących organizacji dokonujących inspekcji i przeglądów na statkach oraz odpowiednich działań administracji morskich (Dz. Urz. UE L 131 z 28.05.2009, str. 47, z późn. zm.). 3) Wytyczne IMO, o których mowa w § 4 ust. 3 i 4, zostały podane do publicznej wiadomości w obwieszczeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 28 sierpnia 2013 r. w sprawie podania do publicznej wiadomości niektórych przepisów Międzynarodowej Organizacji Morskiej (IMO) dotyczących systemów przeciwporostowych na statkach (Dz. Urz. MTBiGM poz. 52). 4) Norma PN-EN ISO/IEC 17025 „Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących”. 5) Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Infrastruktury z dnia 5 grudnia 2008 r. w sprawie sposobu, zakresu i terminów przeprowadzania przeglądów i inspekcji, sposobu wydawania, potwierdzania oraz wzorów międzynarodowych świadectw w zakresie ochrony morza przed zanieczyszczaniem przez statki (Dz. U. Nr 225, poz. 1493), które na podstawie art. 5 ustawy z dnia 7 listopada 2014 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz niektórych innych ustaw (Dz. U. poz. 1554) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

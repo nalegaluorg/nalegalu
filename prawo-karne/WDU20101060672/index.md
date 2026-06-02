@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o usługach turystycznych oraz o zmianie ustawy – Kodeks wykroczeń
+# Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o usługach turystycznych oraz o zmianie ustawy – Kodeks wykroczeń Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 90/314/EWG z dnia 13 czerwca 1990 r. w sprawie zorganizowanych podróży, wakacji i wycieczek (Dz. Urz. WE L 158 z 23.06.1990, str. 59; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 10, str. 132) oraz dyrektywy 2006/123/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. dotyczącej usług na rynku wewnętrznym (Dz. Urz. UE L 376 z 27.12.2006, str. 36).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-04-29 |
 | Data wydania | 2010-06-16 |
-| Wejście w życie | 2010-09-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101060672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/672/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2004 r. Nr 223, poz. 2268, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2004 r. Nr 223, poz. 2268, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 220, poz. 1600 oraz z 2008 r. Nr 180, poz. 1112.) wprowadza się następujące zmiany:
 
 - **1)** art. 2 otrzymuje brzmienie: „
 
-**Art. 2.** Zawieranie na terytorium Rzeczypospolitej Polskiej w imieniu przedsiębiorcy zagranicznego nieposiadającego siedziby na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej umów z klientami o organizowanie imprez turystycznych jest dopuszczalne, jeżeli przedsiębiorca ten prowadzi w tym zakresie na terytorium Rzeczypospolitej Polskiej działalność gospodarczą w formie oddziału, na warunkach określonych w ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.). ” ;
+**Art. 2.** Zawieranie na terytorium Rzeczypospolitej Polskiej w imieniu przedsiębiorcy zagranicznego nieposiadającego siedziby na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej umów z klientami o organizowanie imprez turystycznych jest dopuszczalne, jeżeli przedsiębiorca ten prowadzi w tym zakresie na terytorium Rzeczypospolitej Polskiej działalność gospodarczą w formie oddziału, na warunkach określonych w ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 216, poz. 1367, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 47, poz. 278.). ” ;
 
 - **2)** w art. 3: pkt 7a i 7b otrzymują brzmienie: „
     - **a)**
@@ -40,8 +39,15 @@ source: "eli-html"
     - **b)**
 
 - **15)** UIAGM – Międzynarodową Federację Stowarzyszeń Przewodników Górskich UIAGM/IVBV/IFMGA, skupiającą i weryfikującą narodowe stowarzyszenia przewodników wysokogórskich całego świata. ” ;
-- **3)** w art. 5: w ust. 1: – uchyla się pkt 1, – pkt 2 i 3 otrzymują brzmienie: „ 2) zapewnić klientom, na wypadek swojej niewypłacalności: pokrycie kosztów powrotu klientów z imprezy turystycznej do miejsca wyjazdu lub planowanego powrotu z imprezy turystycznej w wypadku gdy organizator turystyki lub pośrednik turystyczny wbrew obowiązkowi nie zapewnia tego powrotu, a także zapewnić klientom zwrot wpłat wniesionych tytułem zapłaty za imprezę turystyczną w wypadku gdy z przyczyn dotyczących organizatora turystyki lub pośrednika turystycznego oraz osób, które działają w ich imieniu impreza turystyczna nie zostanie zrealizowana, a także zapewnić klientom zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną, odpowiadającą części imprezy turystycznej, która nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub pośrednika turystycznego oraz osób, które działają w ich imieniu, przez: a) zawarcie umowy gwarancji bankowej lub ubezpieczeniowej, lub b) zawarcie umowy ubezpieczenia na rzecz klientów, lub c) przyjmowanie wpłat klientów wyłącznie na rachunek powierniczy, jeżeli wykonuje usługi turystyczne wyłącznie na terenie kraju i złoży marszałkowi województwa oświadczenie o przyjmowaniu wpłat na rachunek powierniczy; 3) składać marszałkowi województwa oryginały lub potwierdzone przez podmioty, które je podpisały, odpisy kolejnych umów, o których mowa w pkt 2, nie później niż 14 dni przed upływem terminu obowiązywania umowy poprzedniej; przedsiębiorcy zaprzestający działalności gospodarczej są zwolnieni z tego obowiązku, jeżeli zawiadomią marszałka województwa o zaprzestaniu działalności organizatora turystyki lub pośrednika turystycznego. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+- **3)** w art. 5: w ust. 1: – uchyla się pkt 1, pkt 2 i 3 otrzymują brzmienie: „
     - **a)**
+
+- **2)** zapewnić klientom, na wypadek swojej niewypłacalności: pokrycie kosztów powrotu klientów z imprezy turystycznej do miejsca wyjazdu lub planowanego powrotu z imprezy turystycznej w wypadku gdy organizator turystyki lub pośrednik turystyczny wbrew obowiązkowi nie zapewnia tego powrotu, a także zapewnić klientom zwrot wpłat wniesionych tytułem zapłaty za imprezę turystyczną w wypadku gdy z przyczyn dotyczących organizatora turystyki lub pośrednika turystycznego oraz osób, które działają w ich imieniu impreza turystyczna nie zostanie zrealizowana, a także zapewnić klientom zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną, odpowiadającą części imprezy turystycznej, która nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub pośrednika turystycznego oraz osób, które działają w ich imieniu, przez: zawarcie umowy gwarancji bankowej lub ubezpieczeniowej, lub zawarcie umowy ubezpieczenia na rzecz klientów, lub przyjmowanie wpłat klientów wyłącznie na rachunek powierniczy, jeżeli wykonuje usługi turystyczne wyłącznie na terenie kraju i złoży marszałkowi województwa oświadczenie o przyjmowaniu wpłat na rachunek powierniczy;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** składać marszałkowi województwa oryginały lub potwierdzone przez podmioty, które je podpisały, odpisy kolejnych umów, o których mowa w pkt 2, nie później niż 14 dni przed upływem terminu obowiązywania umowy poprzedniej; przedsiębiorcy zaprzestający działalności gospodarczej są zwolnieni z tego obowiązku, jeżeli zawiadomią marszałka województwa o zaprzestaniu działalności organizatora turystyki lub pośrednika turystycznego. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
     - **b)**
 
 1a. W wypadku przedsiębiorcy zagranicznego posiadającego siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej za spełnienie warunku prowadzenia działalności, o którym mowa w ust. 1 pkt 2, uznaje się posiadanie zabezpieczenia finansowego w formie, która jest uznawana w państwie, w którym przedsiębiorca posiada siedzibę.
@@ -154,7 +160,7 @@ source: "eli-html"
 
 - **1)** w umowach zawieranych z klientami nie wskazuje jednoznacznie właściwego organizatora turystyki, którego reprezentuje, lub
 - **2)** zawiera umowy o organizowanie imprez turystycznych na rzecz przedsiębiorcy, który nie uzyskał wpisu do rejestru, lub
-- **3)** działa bez ważnej umowy agencyjnej lub przekracza jej zakres marszałek województwa wykreśla w drodze decyzji z rejestru.
+- **3)** działa bez ważnej umowy agencyjnej lub przekracza jej zakres – marszałek województwa wykreśla w drodze decyzji z rejestru.
 
 2. Przedsiębiorca, o którym mowa w ust. 1, nie może uzyskać ponownego wpisu do rejestru przed upływem 3 lat od dnia, w którym decyzja o wykreśleniu z rejestru i o zakazie wykonywania działalności objętej wpisem do rejestru stała się ostateczna.
 
@@ -174,7 +180,7 @@ source: "eli-html"
 
 - **1)** w umowach zawieranych z klientami nie wskazuje jednoznacznie właściwego organizatora turystyki, którego reprezentuje, lub
 - **2)** zawiera umowy o organizowanie imprez turystycznych na rzecz przedsiębiorcy zagranicznego nieposiadającego siedziby na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, który nie prowadzi w tym zakresie na terytorium Rzeczypospolitej Polskiej działalności gospodarczej w formie oddziału, lub
-- **3)** działa bez ważnej umowy agencyjnej lub przekracza jej zakres odpowiada wobec klienta za niewykonanie lub nienależyte wykonanie umowy o świadczenie usług turystycznych tak jak organizator turystyki. ” ;
+- **3)** działa bez ważnej umowy agencyjnej lub przekracza jej zakres – odpowiada wobec klienta za niewykonanie lub nienależyte wykonanie umowy o świadczenie usług turystycznych tak jak organizator turystyki. ” ;
 - **14)** w art. 20: ust. 2 i 3 otrzymują brzmienie: „
     - **a)**
 
@@ -366,5 +372,5 @@ source: "eli-html"
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10 ust. 1 oraz art. 34 ust. 1 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 1 oraz art. 34 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak, niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 90/314/EWG z dnia 13 czerwca 1990 r. w sprawie zorganizowanych podróży, wakacji i wycieczek (Dz. Urz. WE L 158 z 23.06.1990, str. 59; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 10, str. 132) oraz dyrektywy 2006/123/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. dotyczącej usług na rynku wewnętrznym (Dz. Urz. UE L 376 z 27.12.2006, str. 36). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 220, poz. 1600 oraz z 2008 r. Nr 180, poz. 1112. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 216, poz. 1367, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 47, poz. 278.
 

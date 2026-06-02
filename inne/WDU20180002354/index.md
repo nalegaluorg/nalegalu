@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw
+# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 19 listopada 2009 r. o grach hazardowych, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, ustawę z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej, ustawę z dnia 24 listopada 2017 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz ustawy – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej oraz ustawę z dnia 10 maja 2018 r. o zmianie ustawy o systemie monitorowania drogowego przewozu towarów oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-09 |
 | Data wydania | 2018-12-18 |
-| Wejście w życie | 2019-01-02 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002354) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2354/text.pdf) |
 
+Kontrola wyrobów akcyzowych przeznaczonych na cele specjalne
+Ocena wykorzystania środków budżetowych i mienia państwowego przeznaczonych na cele specjalne
 Ilekroć w niniejszym rozdziale jest mowa o:
 1)
 jednostkach organizacyjnych – rozumie się przez to:
@@ -188,16 +189,16 @@ Na podstawie ustaleń zawartych w protokole oceny oceniający, w terminie 30 dni
 2.
 Informacja o wynikach oceny zawiera ocenę działalności ocenianej jednostki organizacyjnej wynikającą z ustaleń zawartych w protokole oceny, opis przyczyn powstania, zakres i skutki stwierdzonych nieprawidłowości, wskazanie osób odpowiedzialnych za ich powstanie oraz uwagi, wnioski i zalecenia w sprawie ich usunięcia oraz termin ich usunięcia.
 3.
-Kierownik ocenianej jednostki organizacyjnej, który otrzymał informację o wynikach oceny, w terminie w niej określonym, informuje pisemnie organ przeprowadzający ocenę o sposobie wykonania zaleceń oraz usunięciu wskazanych w niej nieprawidłowości, wykorzystaniu uwag i wniosków w prowadzonej działalności, a także o podjętych działaniach lub o przyczynach ich niepodjęcia.
-” ;
+Kierownik ocenianej jednostki organizacyjnej, który otrzymał informację o wynikach oceny, w terminie w niej określonym, informuje pisemnie organ przeprowadzający ocenę o sposobie wykonania zaleceń oraz usunięciu wskazanych w niej nieprawidłowości, wykorzystaniu uwag i wniosków w prowadzonej działalności, a także o podjętych działaniach lub o przyczynach ich niepodjęcia. ” ;
 42)
-po art. 99 dodaje się art. 99a w brzmieniu:
-„
+po art. 99 dodaje się art. 99a w brzmieniu: „
 
-**Art. 1.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193 i 2245.) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – w pkt 16: – – w lit. b wyrazy „art. 229” zastępuje się wyrazami „art. 229–230a”, – – lit. c otrzymuje brzmienie: „ c) art. 190, art. 222, art. 223, art. 226, art. 235, art. 236 i art. 238 Kodeksu karnego, skierowanych przeciwko osobom zatrudnionym w jednostkach organizacyjnych KAS albo funkcjonariuszom podczas pełnienia obowiązków służbowych lub w związku z ich pełnieniem, ” , – – dodaje się lit. d w brzmieniu: „ d) art. 239 Kodeksu karnego – w przypadku osób pomagających sprawcom przestępstw określonych w lit. a-c ” , – w pkt 18 po wyrazach „dziedzictwa narodowego” dodaje się wyrazy „, praw własności intelektualnej”, w ust. 2 we wprowadzeniu do wyliczenia wyrazy „art. 133” zastępuje się wyrazami „art. 133 ust. 1 pkt 1–5”, w ust. 3 po wyrazie „albo” dodaje się wyrazy „czynności wyjaśniające zgodnie z przepisami”;
+- **1)** w art. 2: w ust. 1: w pkt 16: – – w lit. b wyrazy „art. 229” zastępuje się wyrazami „art. 229–230a”, – lit. c otrzymuje brzmienie: „ art. 190, art. 222, art. 223, art. 226, art. 235, art. 236 i art. 238 Kodeksu karnego, skierowanych przeciwko osobom zatrudnionym w jednostkach organizacyjnych KAS albo funkcjonariuszom podczas pełnienia obowiązków służbowych lub w związku z ich pełnieniem, ” , – dodaje się lit. d w brzmieniu: „ art. 239 Kodeksu karnego – w przypadku osób pomagających sprawcom przestępstw określonych w lit. a-c ” , – w pkt 18 po wyrazach „dziedzictwa narodowego” dodaje się wyrazy „, praw własności intelektualnej”, w ust. 2 we wprowadzeniu do wyliczenia wyrazy „art. 133” zastępuje się wyrazami „art. 133 ust. 1 pkt 1–5”, w ust. 3 po wyrazie „albo” dodaje się wyrazy „czynności wyjaśniające zgodnie z przepisami”;
     - **a)**
+    - **c)**
+    - **d)**
     - **b)**
     - **c)**
 
@@ -240,7 +241,7 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 - **6)** po art. 12 dodaje się art. 12a-12f w brzmieniu: „
 
-**Art. 12a.** Minister właściwy do spraw finansów publicznych prowadzi działalność analityczną, prognostyczną i badawczą dotyczącą zjawisk występujących w obszarze podatków stanowiących dochód budżetu państwa i ceł. Szef Krajowej Administracji Skarbowej udostępnia ministrowi właściwemu do spraw finansów publicznych w celu realizacji jego ustawowych zadań dane zgromadzone przez organy KAS w rejestrach, bazach, ewidencjach, zbiorach i systemach inne niż określone w art. 4 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem RODO”, jeżeli minister właściwy do spraw finansów publicznych nie jest współadministratorem tych danych. 1. W celu zapewnienia sprawnego i efektywnego wykonywania zadań KAS minister właściwy do spraw finansów publicznych koordynuje ich realizację oraz sprawuje nadzór nad jednostkami organizacyjnymi KAS, w szczególności może:
+**Art. 12a.** Minister właściwy do spraw finansów publicznych prowadzi działalność analityczną, prognostyczną i badawczą dotyczącą zjawisk występujących w obszarze podatków stanowiących dochód budżetu państwa i ceł. Szef Krajowej Administracji Skarbowej udostępnia ministrowi właściwemu do spraw finansów publicznych w celu realizacji jego ustawowych zadań dane zgromadzone przez organy KAS w rejestrach, bazach, ewidencjach, zbiorach i systemach inne niż określone w art. 4 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2., zwanego dalej „rozporządzeniem RODO”, jeżeli minister właściwy do spraw finansów publicznych nie jest współadministratorem tych danych. 1. W celu zapewnienia sprawnego i efektywnego wykonywania zadań KAS minister właściwy do spraw finansów publicznych koordynuje ich realizację oraz sprawuje nadzór nad jednostkami organizacyjnymi KAS, w szczególności może:
 
 - **1)** żądać informacji i materiałów, wyjaśnień i dokumentów z realizacji zadań przez jednostki organizacyjne KAS;
 - **2)** zlecić przeprowadzenie analiz w określonym zakresie.
@@ -306,7 +307,7 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 - **1)** przestępstwa skarbowe i wykroczenia skarbowe,
 - **2)** przestępstwa wskazane w art. 2 ust. 1 pkt 15,
-- **3)** przestępstwa i wykroczenia wskazane w art. 33 ust. 1 pkt 10 ujawnione w związku z kontrolą celno-skarbową, postępowanie przygotowawcze, postępowanie mandatowe albo czynności wyjaśniające w sprawach o wykroczenia prowadzi naczelnik urzędu celno-skarbowego wykonujący tę kontrolę.
+- **3)** przestępstwa i wykroczenia wskazane w art. 33 ust. 1 pkt 10 – ujawnione w związku z kontrolą celno-skarbową, postępowanie przygotowawcze, postępowanie mandatowe albo czynności wyjaśniające w sprawach o wykroczenia prowadzi naczelnik urzędu celno-skarbowego wykonujący tę kontrolę.
 
 2. W sprawach o przestępstwa skarbowe i wykroczenia skarbowe, o których mowa w ust. 1, organem nadrzędnym nad finansowym organem postępowania przygotowawczego, o którym mowa w art. 53 § 39 pkt 1 Kodeksu karnego skarbowego, jest dyrektor izby administracji skarbowej właściwy miejscowo według siedziby naczelnika urzędu celno-skarbowego prowadzącego postępowanie przygotowawcze.
 
@@ -323,8 +324,11 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 1. Organy KAS, w celu realizacji ustawowych zadań w zakresie, o którym mowa w art. 2 ust. 1 pkt 1, 2, 6, 8, 10 i 13–15, mogą przetwarzać informacje, w tym dane osobowe, od osób prawnych, jednostek organizacyjnych niemających osobowości prawnej oraz osób fizycznych prowadzących działalność gospodarczą, o zdarzeniach mających bezpośredni wpływ na powstanie lub wysokość niepodatkowych należności budżetowych, zobowiązania podatkowego lub należności celnych, o zdarzeniach wynikających ze stosunków cywilnoprawnych lub faktycznych czynności mogących mieć wpływ na powstanie obowiązku podatkowego lub wysokość zobowiązania podatkowego, a także występować do tych podmiotów o udostępnienie dokumentów zawierających informacje, w tym dane osobowe. ” ;
 
-- **14)** w art. 47: w ust. 1: – w pkt 2: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ prowadzonymi postępowaniami przygotowawczymi w sprawach o przestępstwa lub czynnościami wyjaśniającymi w sprawach o wykroczenia, o których mowa w: ” , – – po lit. c dodaje się lit. ca w brzmieniu: „ ca) ustawie z dnia 21 listopada 1996 r. o muzeach, ” , – – po lit. d dodaje się lit. da w brzmieniu: „ da) ustawie z dnia 27 czerwca 1997 r. o bibliotekach, ” , – – dodaje się lit. m w brzmieniu: „ m) ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów, ” , – w pkt 3 na końcu dodaje się przecinek i dodaje się pkt 4 w brzmieniu: „ 4) ujawnianiem i odzyskiwaniem mienia zagrożonego przepadkiem w związku z przestępstwami, o których mowa w art. 2 ust. 1 pkt 13–16, albo o których mowa w art. 33 § 2 Kodeksu karnego skarbowego ” , ust. 4 otrzymuje brzmienie: „
+- **14)** w art. 47: w ust. 1: w pkt 2: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ prowadzonymi postępowaniami przygotowawczymi w sprawach o przestępstwa lub czynnościami wyjaśniającymi w sprawach o wykroczenia, o których mowa w: ” , – – po lit. c dodaje się lit. ca w brzmieniu: „ ca) ustawie z dnia 21 listopada 1996 r. o muzeach, ” , – – po lit. d dodaje się lit. da w brzmieniu: „ da) ustawie z dnia 27 czerwca 1997 r. o bibliotekach, ” , – dodaje się lit. m w brzmieniu: „ ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów, ” , w pkt 3 na końcu dodaje się przecinek i dodaje się pkt 4 w brzmieniu: „
     - **a)**
+    - **m)**
+
+- **4)** ujawnianiem i odzyskiwaniem mienia zagrożonego przepadkiem w związku z przestępstwami, o których mowa w art. 2 ust. 1 pkt 13–16, albo o których mowa w art. 33 § 2 Kodeksu karnego skarbowego ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Organy KAS mogą również przetwarzać:
@@ -338,7 +342,7 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 - **1)** naczelnika urzędu celno-skarbowego, w związku z wszczętą kontrolą celno-skarbową w zakresie, o którym mowa w art. 54 ust. 1 pkt 1–3, lub prowadzonym postępowaniem podatkowym,
 - **2)** naczelnika urzędu skarbowego, w związku z wszczętą kontrolą podatkową lub prowadzonym postępowaniem podatkowym,
-- **3)** Szefa Krajowej Administracji Skarbowej w toku postępowania podatkowego do sporządzenia i przekazania posiadanych informacji dotyczących kontrolowanego lub strony postępowania, o których mowa w art. 48 ust. 1–6, przy czym przepisy art. 48 ust. 7–10 stosuje się odpowiednio. ” ;
+- **3)** Szefa Krajowej Administracji Skarbowej w toku postępowania podatkowego – do sporządzenia i przekazania posiadanych informacji dotyczących kontrolowanego lub strony postępowania, o których mowa w art. 48 ust. 1–6, przy czym przepisy art. 48 ust. 7–10 stosuje się odpowiednio. ” ;
 - **17)** po art. 49 dodaje się art. 49a i art. 49b w brzmieniu: „
 
 1. Jeżeli Szef Krajowej Administracji Skarbowej lub naczelnik urzędu celno-skarbowego w związku z prowadzonymi czynnościami analitycznymi posiada uprawdopodobnione informacje o możliwości posługiwania się rachunkiem bankowym wykorzystywanym do prowadzenia niezgłoszonej do opodatkowania działalności gospodarczej, uzyskiwania przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych, uzyskiwania przychodów niezadeklarowanych albo przychodów nieujawnionych w złożonych deklaracjach, instytucje finansowe, o których mowa w art. 48 ust. 1–6, są obowiązane na uzasadnione żądanie tego organu sporządzić i przekazać:
@@ -398,10 +402,16 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 4b. W przypadku gdy naczelnik urzędu celno-skarbowego uwzględnił złożoną przez kontrolowanego korektę deklaracji, kontrolowanemu doręcza się zawiadomienie o uwzględnieniu korekty deklaracji. Zawiadomienie o uwzględnieniu korekty deklaracji przesyła się do właściwego dla kontrolowanego naczelnika urzędu skarbowego.
 
-4c. Doręczenie kontrolowanemu zawiadomienia o uwzględnieniu korekty deklaracji kończy kontrolę celno-skarbową. W tym przypadku przepisów art. 82 ust. 1–5 nie stosuje się. ” , w ust. 5: – w pkt 1: – – lit. b otrzymuje brzmienie: „ b) przestrzegania przepisów prawa podatkowego, ” , – – uchyla się lit. d, – w pkt 5 na końcu dodaje się przecinek i dodaje się pkt 6–10 w brzmieniu: „ 6) stosowania znaków akcyzy i oznaczania nimi wyrobów akcyzowych, 7) w zakresie realizacji obowiązku znakowania i barwienia wyrobów energetycznych, o którym mowa w art. 90 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.), 8) w zakresie posiadania automatów do gier hazardowych, 9) produkcji automatów do gier hazardowych i obrotu tymi automatami, 10) parametrów jakościowych, fizyko-chemicznych oraz tożsamości i jakości paliw silnikowych w celu ustalenia właściwej stawki podatku akcyzowego ” , ust. 13 otrzymuje brzmienie: „
+4c. Doręczenie kontrolowanemu zawiadomienia o uwzględnieniu korekty deklaracji kończy kontrolę celno-skarbową. W tym przypadku przepisów art. 82 ust. 1–5 nie stosuje się. ” , w ust. 5: w pkt 1: – lit. b otrzymuje brzmienie: „ przestrzegania przepisów prawa podatkowego, ” , – – uchyla się lit. d, w pkt 5 na końcu dodaje się przecinek i dodaje się pkt 6–10 w brzmieniu: „
 
 - **e)**
-- **f)**
+- **b)**
+- **6)** stosowania znaków akcyzy i oznaczania nimi wyrobów akcyzowych,
+- **7)** w zakresie realizacji obowiązku znakowania i barwienia wyrobów energetycznych, o którym mowa w art. 90 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227 i 2244.),
+- **8)** w zakresie posiadania automatów do gier hazardowych,
+- **9)** produkcji automatów do gier hazardowych i obrotu tymi automatami,
+- **10)** parametrów jakościowych, fizyko-chemicznych oraz tożsamości i jakości paliw silnikowych w celu ustalenia właściwej stawki podatku akcyzowego ” , ust. 13 otrzymuje brzmienie: „
+    - **f)**
 
 13. Czynności kontrolne wykonywane na przejściach granicznych, w oddziałach celnych urzędów celno-skarbowych lub w innych miejscach wyznaczonych lub uznanych przez właściwy organ KAS wykonuje umundurowany funkcjonariusz wyposażony w znaki identyfikacji osobistej bez okazywania legitymacji służbowej oraz upoważnienia do wykonywania kontroli. ” ;
 
@@ -449,14 +459,16 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 - **8)** zgłaszać niezwłocznie właściwemu naczelnikowi urzędu celno-skarbowego przypadki zdarzeń związanych ze stanem pomieszczeń służących do działalności w zakresie produkcji automatów do gier hazardowych lub obrotu tymi automatami, w przypadku gdy zdarzenia te mają bezpośredni związek z produkcją automatów do gier hazardowych, ich dystrybucją lub ich stanem;
 - **9)** informować niezwłocznie właściwego naczelnika urzędu celno-skarbowego o wprowadzeniu lub wyprowadzeniu automatów do gier hazardowych z miejsca ich produkcji lub magazynowania;
 - **10)** zgłaszać niezwłocznie właściwemu naczelnikowi urzędu celno-skarbowego przypadki zniszczenia lub kradzieży automatów do gier hazardowych. ” ;
-- **28)** w art. 79: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Kontrolujący może wystąpić do kontrahentów kontrolowanego o: ” , – pkt 2 otrzymuje brzmienie: „ 2) przekazanie za pomocą środków komunikacji elektronicznej lub na informatycznym nośniku danych wyciągu z ksiąg podatkowych i dowodów księgowych w zakresie objętym kontrolą celno-skarbową, zapisanego w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 Ordynacji podatkowej, jeżeli kontrahent podatnika prowadzi księgi podatkowe przy użyciu programów komputerowych; ” , ust. 2 otrzymuje brzmienie: „
+- **28)** w art. 79: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Kontrolujący może wystąpić do kontrahentów kontrolowanego o: ” , pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** przekazanie za pomocą środków komunikacji elektronicznej lub na informatycznym nośniku danych wyciągu z ksiąg podatkowych i dowodów księgowych w zakresie objętym kontrolą celno-skarbową, zapisanego w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 Ordynacji podatkowej, jeżeli kontrahent podatnika prowadzi księgi podatkowe przy użyciu programów komputerowych; ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Za kontrahentów kontrolowanego uważa się także:
 
 - **1)** podmioty prowadzące działalność gospodarczą w okresie objętym kontrolą celno-skarbową, uczestniczące w dostawie tego samego towaru lub tej samej usługi, będące zarówno dostawcami, jak i nabywcami biorącymi udział pośrednio lub bezpośrednio w dostawie towaru lub usługi;
-- **2)** przewoźników drogowych w rozumieniu art. 4 pkt 15 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm.) realizujących przewóz towarów na rzecz kontrolowanego lub dostawców i nabywców biorących udział pośrednio lub bezpośrednio w dostawie tego samego towaru;
+- **2)** przewoźników drogowych w rozumieniu art. 4 pkt 15 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592, 1629 i 2245.) realizujących przewóz towarów na rzecz kontrolowanego lub dostawców i nabywców biorących udział pośrednio lub bezpośrednio w dostawie tego samego towaru;
 - **3)** podmioty prowadzące działalność gospodarczą w okresie objętym kontrolą celno-skarbową, uczestniczące w magazynowaniu, przepakowywaniu, przeładunku lub przesyłaniu tego samego towaru, działające zarówno w imieniu dostawców, jak i nabywców biorących udział pośrednio lub bezpośrednio w dostawie towaru. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **c)**
 
@@ -466,8 +478,12 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 **Art. 79a.** W toku kontroli celno-skarbowej naczelnik urzędu celno-skarbowego może oszacować podstawę opodatkowania na podstawie odrębnych przepisów. Jeżeli w toku kontroli celno-skarbowej ujawniono nieprawidłowości, kontrolowany ma obowiązek zawiadomienia naczelnika urzędu celno-skarbowego o każdej zmianie swojego adresu dokonanej w ciągu 6 miesięcy od dnia zakończenia kontroli celno-skarbowej. W razie niedopełnienia tego obowiązku postanowienie, o którym mowa w art. 83 ust. 3, uznaje się za doręczone pod dotychczasowym adresem. ” ;
 
-- **30)** w art. 82: w ust. 2: – pkt 6 otrzymuje brzmienie: „ 6) pouczenie o prawie złożenia korekty deklaracji w przypadku, gdy przepisy ustaw podatkowych przewidują obowiązek złożenia deklaracji; ” , – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) pouczenie o obowiązku zawiadomienia naczelnika urzędu celno-skarbowego przez kontrolowanego o zmianie swojego adresu dokonanej w ciągu 6 miesięcy od dnia zakończenia kontroli celno-skarbowej, jeżeli w toku kontroli celno-skarbowej ujawniono nieprawidłowości, oraz o skutkach niedopełnienia tego obowiązku; ” , – pkt 7 otrzymuje brzmienie: „ 7) podpis naczelnika urzędu celno-skarbowego albo osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **30)** w art. 82: w ust. 2: pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** pouczenie o prawie złożenia korekty deklaracji w przypadku, gdy przepisy ustaw podatkowych przewidują obowiązek złożenia deklaracji; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **6a)** pouczenie o obowiązku zawiadomienia naczelnika urzędu celno-skarbowego przez kontrolowanego o zmianie swojego adresu dokonanej w ciągu 6 miesięcy od dnia zakończenia kontroli celno-skarbowej, jeżeli w toku kontroli celno-skarbowej ujawniono nieprawidłowości, oraz o skutkach niedopełnienia tego obowiązku; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** podpis naczelnika urzędu celno-skarbowego albo osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Jeden egzemplarz wyniku kontroli przekazywany jest do właściwego dla kontrolowanego naczelnika urzędu skarbowego. ” , ust. 5 otrzymuje brzmienie: „
@@ -523,7 +539,7 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 - **1)** w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania znaków akcyzy i oznaczania nimi wyrobów akcyzowych,
 - **2)** w zakresie wydobycia urobku rudy miedzi, produkcji koncentratu, wydobycia gazu ziemnego lub ropy naftowej, o których mowa w ustawie z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin,
 - **3)** w zakresie, o którym mowa w art. 54 ust. 1 pkt 2–5 i ust. 2 pkt 1a-5 i 9,
-- **4)** o której mowa w art. 62 ust. 5 pkt 1–3, 5–7 i 10 kończy się protokołem. ” , ust. 3 otrzymuje brzmienie: „
+- **4)** o której mowa w art. 62 ust. 5 pkt 1–3, 5–7 i 10 – kończy się protokołem. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Jeżeli w toku kontroli celno-skarbowej, o której mowa w ust. 1 pkt 1–3 oraz art. 62 ust. 5 i 13, nie stwierdzono nieprawidłowości, protokołu się nie sporządza. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
@@ -538,23 +554,23 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 - **1)** rodzaje dokumentów mających znaczenie dla kontroli celno-skarbowej w zakresie produkcji automatów do gier hazardowych i obrotu tymi automatami,
 - **2)** szczegółowy sposób i tryb kontroli celno-skarbowej w zakresie produkcji automatów do gier hazardowych i obrotu tymi automatami,
-- **3)** tryb przekazywania i zakres zgłoszeń i informacji uwzględniając potrzebę zapewnienia skuteczności i sprawności wykonywania kontroli celno-skarbowej w zakresie produkcji automatów do gier hazardowych i obrotu tymi automatami. ” ;
+- **3)** tryb przekazywania i zakres zgłoszeń i informacji – uwzględniając potrzebę zapewnienia skuteczności i sprawności wykonywania kontroli celno-skarbowej w zakresie produkcji automatów do gier hazardowych i obrotu tymi automatami. ” ;
 - **34)** art. 92 otrzymuje brzmienie: „
 
 **Art. 92.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** formę i sposób wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa podatkowego w zakresie wydobycia urobku rudy miedzi, produkcji koncentratu, wydobycia gazu ziemnego lub ropy naftowej,
-- **2)** rodzaje prowadzonej dokumentacji, jej wzory, a także sposób jej prowadzenia uwzględniając potrzebę zapewnienia skuteczności i sprawności wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa podatkowego w zakresie wydobycia urobku rudy miedzi, produkcji koncentratu, wydobycia gazu ziemnego lub ropy naftowej. ” ;
+- **2)** rodzaje prowadzonej dokumentacji, jej wzory, a także sposób jej prowadzenia – uwzględniając potrzebę zapewnienia skuteczności i sprawności wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa podatkowego w zakresie wydobycia urobku rudy miedzi, produkcji koncentratu, wydobycia gazu ziemnego lub ropy naftowej. ” ;
 - **35)** w art. 94 ust. 1 otrzymuje brzmienie: „
 
 1. W zakresie nieuregulowanym do kontroli celno-skarbowej przepisy:
 
 - **1)** art. 3e, art. 12, art. 102 § 3, art. 135, art. 138, art. 139 § 4, art. 140 § 2, art. 141–143, art. 165b, art. 165c, art. 175–177,
 - **2)** działu IV rozdziałów 1, 2, 3a, 5, 6, 10, 11, z wyjątkiem art. 182–185, art. 189 § 3, art. 190 § 1, art. 193 § 6–8, art. 198 i art. 200, oraz rozdziałów 12, 14, 16, 22 i 23,
-- **3)** art. 281, art. 282a, art. 283 § 4 i 5, art. 284a § 5–6, art. 284ab § 1–3, art. 286 § 3, art. 286a § 1 i 2, art. 289, art. 290 § 4–6, art. 291a, art. 291d oraz działu VII Ordynacji podatkowej stosuje się odpowiednio. ” ;
+- **3)** art. 281, art. 282a, art. 283 § 4 i 5, art. 284a § 5–6, art. 284ab § 1–3, art. 286 § 3, art. 286a § 1 i 2, art. 289, art. 290 § 4–6, art. 291a, art. 291d oraz działu VII – Ordynacji podatkowej stosuje się odpowiednio. ” ;
 - **36)** w dziale V po rozdziale 1 dodaje się rozdział 1a w brzmieniu: „
 
-#### Rozdział 1a Kontrola wyrobów akcyzowych przeznaczonych na cele specjalne
+#### Rozdział 1a
 
 **Art. 94a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
@@ -673,15 +689,19 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 4. Kierownik kontrolowanej jednostki organizacyjnej, który otrzymał informację o wynikach kontroli, w terminie w niej określonym informuje organ kontroli o sposobie wykonania zaleceń oraz usunięciu wskazanych w niej nieprawidłowości, wykorzystaniu uwag i wniosków w prowadzonej działalności, a także o podjętych działaniach lub o przyczynach ich niepodjęcia. ” ;
 
-- **37)** w art. 95: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) gospodarowania środkami publicznymi innymi niż określone w pkt 1, przeznaczonymi na współfinansowanie krajowe funduszy, programów i projektów realizowanych ze środków określonych w pkt 1; ” , – w pkt 2 po wyrazach „w pkt 1” dodaje się wyrazy „i 1a”, – w pkt 3 wyrazy „pkt 1 i 2” zastępuje się wyrazami „pkt 1–2”, – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) prawidłowości deklarowania, obliczania i wpłacania należności budżetu państwa, państwowych funduszy celowych i innych jednostek sektora finansów publicznych, których pobór należy do innych organów. ” , w ust. 2 we wprowadzeniu do wyliczenia po wyrazach „pkt 1” dodaje się wyrazy „i 1a”, ust. 3 otrzymuje brzmienie: „
+- **37)** w art. 95: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** gospodarowania środkami publicznymi innymi niż określone w pkt 1, przeznaczonymi na współfinansowanie krajowe funduszy, programów i projektów realizowanych ze środków określonych w pkt 1; ” , – w pkt 2 po wyrazach „w pkt 1” dodaje się wyrazy „i 1a”, – w pkt 3 wyrazy „pkt 1 i 2” zastępuje się wyrazami „pkt 1–2”, w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** prawidłowości deklarowania, obliczania i wpłacania należności budżetu państwa, państwowych funduszy celowych i innych jednostek sektora finansów publicznych, których pobór należy do innych organów. ” , w ust. 2 we wprowadzeniu do wyliczenia po wyrazach „pkt 1” dodaje się wyrazy „i 1a”, ust. 3 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
-3. Audyt, o którym mowa w ust. 1 pkt 2–7, obejmuje ocenę w szczególności oszczędności, skuteczności, efektywności, celowości i zgodności z prawem. ” , w ust. 4: – w pkt 2 wyrazy „pkt 1 i 2” zastępuje się wyrazami „pkt 1–2”, – w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7 w brzmieniu: „ 7) podmioty zobowiązane do świadczeń pieniężnych na rzecz budżetu państwa, państwowych funduszy celowych oraz innych jednostek sektora finansów publicznych ” , ust. 5 otrzymuje brzmienie: „
+3. Audyt, o którym mowa w ust. 1 pkt 2–7, obejmuje ocenę w szczególności oszczędności, skuteczności, efektywności, celowości i zgodności z prawem. ” , w ust. 4: – w pkt 2 wyrazy „pkt 1 i 2” zastępuje się wyrazami „pkt 1–2”, w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7 w brzmieniu: „
 
 - **d)**
-- **e)**
+- **7)** podmioty zobowiązane do świadczeń pieniężnych na rzecz budżetu państwa, państwowych funduszy celowych oraz innych jednostek sektora finansów publicznych ” , ust. 5 otrzymuje brzmienie: „
+    - **e)**
 
 5. Audyt nie obejmuje oceny celowości i sposobu wykorzystania środków budżetowych oraz mienia państwowego, które zostały przeznaczone na cele specjalne, o których mowa w rozdziale 2a, w jednostkach podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, Biurze Nadzoru Wewnętrznego, Policji, Państwowej Straży Pożarnej, Straży Granicznej, Służbie Ochrony Państwa oraz w jednostkach organizacyjnych Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz Centralnego Biura Antykorupcyjnego. ” , uchyla się ust. 6;
 
@@ -701,11 +721,13 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 1a. Audytowany może w terminie 14 dni od dnia doręczenia sprawozdania sporządzonego po zakończeniu audytu, o którym mowa w art. 95 ust. 1 pkt 2–7, przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie wnioski dowodowe.
 
-1b. Zastrzeżenia lub wyjaśnienia, o których mowa w ust. 1a, rozpatruje się i zawiadamia audytowanego o sposobie ich załatwienia w terminie 14 dni od dnia otrzymania tych zastrzeżeń lub wyjaśnień. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sprawozdanie lub opinia wraz z dokumentacją z audytu mogą być przekazywane: ” , – pkt 1 otrzymuje brzmienie: „ 1) właściwym organom lub dysponentom części budżetowych oraz podmiotom sprawującym nadzór lub kontrolę nad działalnością audytowanego; ” , w ust. 3 wyrazy „, opinii lub zalecenia” zastępuje się wyrazami „lub opinii”, w ust. 4 wyrazy „, opinią lub zaleceniem” zastępuje się wyrazami „lub opinią”;
+1b. Zastrzeżenia lub wyjaśnienia, o których mowa w ust. 1a, rozpatruje się i zawiadamia audytowanego o sposobie ich załatwienia w terminie 14 dni od dnia otrzymania tych zastrzeżeń lub wyjaśnień. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sprawozdanie lub opinia wraz z dokumentacją z audytu mogą być przekazywane: ” , pkt 1 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
-- **e)**
+- **1)** właściwym organom lub dysponentom części budżetowych oraz podmiotom sprawującym nadzór lub kontrolę nad działalnością audytowanego; ” , w ust. 3 wyrazy „, opinii lub zalecenia” zastępuje się wyrazami „lub opinii”, w ust. 4 wyrazy „, opinią lub zaleceniem” zastępuje się wyrazami „lub opinią”;
+    - **d)**
+    - **e)**
+
 - **40)** art. 98 otrzymuje brzmienie: „
 
 **Art. 98.** W zakresie nieregulowanym w niniejszym rozdziale do audytu stosuje się odpowiednio:
@@ -714,7 +736,7 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 - **2)** przepisy art. 12, art. 143, art. 180–181a, art. 193a-197, art. 199 oraz działu IV rozdziałów 2, 3a, 5, 6, 9, z wyjątkiem art. 171a, oraz rozdziałów 22 i 23 Ordynacji podatkowej, a w zakresie audytu, o którym mowa w art. 95 ust. 1 pkt 2–7 – również przepisy działu IV rozdziałów 14 i 16 Ordynacji podatkowej. ” ;
 - **41)** w dziale V po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Ocena wykorzystania środków budżetowych i mienia państwowego przeznaczonych na cele specjalne
+#### Rozdział 2a
 
 **Art. 99a.** Czynności audytowe przeprowadza się również w celu ustalenia, czy:
 
@@ -838,8 +860,13 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 2. Informacje o wynikach postępowania kwalifikacyjnego do służby w Służbie Celno-Skarbowej oraz o kandydatach, a także o nawiązaniu stosunku służbowego, nie podlegają upowszechnianiu i udostępnianiu. ” ;
 
-- **57)** w art. 153: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) złożenie kwestionariusza osobowego, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu lub pełnieniu służby; ” , – pkt 3–5 otrzymują brzmienie: „ 3) test sprawności fizycznej; 4) test psychologiczny i kompetencyjny; 5) rozmowa kwalifikacyjna; ” , uchyla się ust. 5, ust. 7 otrzymuje brzmienie: „
+- **57)** w art. 153: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** złożenie kwestionariusza osobowego, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu lub pełnieniu służby; ” , pkt 3–5 otrzymują brzmienie: „
+- **3)** test sprawności fizycznej;
+- **4)** test psychologiczny i kompetencyjny;
+- **5)** rozmowa kwalifikacyjna; ” , uchyla się ust. 5, ust. 7 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 
@@ -1010,7 +1037,7 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 **Art. 2.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2018 r. poz. 1916) w art. 364 w ust. 8 w pkt 22 kropkę zastępuje się średnikiem i dodaje się pkt 23 w brzmieniu: „
 
-- **23)** organy Krajowej Administracji Skarbowej. ” . W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2017 r. poz. 869, z późn. zm.) wprowadza się następujące zmiany:
+- **23)** organy Krajowej Administracji Skarbowej. ” . W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2017 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491 oraz z 2018 r. poz. 106, 650, 771, 1629, 2126 i 2244.) wprowadza się następujące zmiany:
 - **1)** w art. 10a: w ust. 1 skreśla się wyrazy „określone w rozporządzeniu wydanym na podstawie ust. 3”, ust. 1a otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -1022,9 +1049,9 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 6. Dane z CRP KEP, o których mowa w art. 14 ust. 2 pkt 1 i 2, są udostępniane ministrowi właściwemu do spraw gospodarki prowadzącemu Centralną Ewidencję i Informację o Działalności Gospodarczej. ” .
 
-**Art. 4.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2018 r. poz. 511, 1000, 1076, 1925 i 2192) w art. 33 ust. 6 otrzymuje brzmienie: „ 6. Ocena prawidłowości realizacji przepisów ust. 1–4a jest wykonywana przez właściwego miejscowo dyrektora izby administracji skarbowej na zasadach określonych w dziale V w rozdziale 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.). ” .
+**Art. 4.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2018 r. poz. 511, 1000, 1076, 1925 i 2192) w art. 33 ust. 6 otrzymuje brzmienie: „ 6. Ocena prawidłowości realizacji przepisów ust. 1–4a jest wykonywana przez właściwego miejscowo dyrektora izby administracji skarbowej na zasadach określonych w dziale V w rozdziale 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354.). ” .
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193 i 2244.) wprowadza się następujące zmiany:
 
 - **1)** w art. 19 w § 3 wyrazy „pkt 2 i 4” zastępuje się wyrazami „pkt 2, 4 i 4a”;
 - **2)** w art. 119l po wyrazach „art. 49” dodaje się wyrazy „, art. 49b”;
@@ -1081,9 +1108,9 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 **Art. 14.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2018 r. poz. 554, 650, 1000, 1544 i 1669) w art. 15 po ust. 8f dodaje się ust. 8g w brzmieniu: „ 8g. Minister właściwy do spraw rodziny udostępnia ministrowi właściwemu do spraw finansów publicznych, na jego żądanie, dane, o których mowa w ust. 8a, w celu niezbędnym do wykonywania zadań analitycznych. Minister właściwy do spraw finansów publicznych dokonuje pseudonimizacji udostępnionych danych. ” .
 
-**Art. 15.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.) w art. 14 ust. 1b otrzymuje brzmienie: „ 1b. Naczelnik urzędu celno-skarbowego jest organem podatkowym właściwym w zakresie akcyzy z tytułu importu i eksportu, z wyłączeniem poboru, oraz w zakresie wydania decyzji w przypadku stwierdzenia nieprawidłowości przez ten organ w wyniku przeprowadzonej kontroli celno-skarbowej. ” .
+**Art. 15.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227 i 2244.) w art. 14 ust. 1b otrzymuje brzmienie: „ 1b. Naczelnik urzędu celno-skarbowego jest organem podatkowym właściwym w zakresie akcyzy z tytułu importu i eksportu, z wyłączeniem poboru, oraz w zakresie wydania decyzji w przypadku stwierdzenia nieprawidłowości przez ten organ w wyniku przeprowadzonej kontroli celno-skarbowej. ” .
 
-**Art. 16.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.) w art. 61 w ust. 1 pkt 3 otrzymuje brzmienie: „
+**Art. 16.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693 i 2245.) w art. 61 w ust. 1 pkt 3 otrzymuje brzmienie: „
 
 - **3)** w stosunku do należności, o których mowa w art. 60 pkt 6a, których pobór należy do właściwości tego organu – naczelnik urzędu skarbowego, a w przypadku grzywien nałożonych w drodze mandatu karnego w postępowaniu w sprawach o wykroczenia skarbowe przez naczelnika urzędu celno-skarbowego – naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania ukaranego; ” .
 
@@ -1145,10 +1172,10 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 - **1)** w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania znaków akcyzy i oznaczania nimi wyrobów akcyzowych,
 - **2)** w zakresie wydobycia urobku rudy miedzi, produkcji koncentratu, wydobycia gazu ziemnego lub ropy naftowej, o których mowa w ustawie z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin (Dz. U. z 2018 r. poz. 228),
-- **3)** w zakresie realizacji obowiązku znakowania i barwienia wyrobów energetycznych, o którym mowa w art. 90 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.),
+- **3)** w zakresie realizacji obowiązku znakowania i barwienia wyrobów energetycznych, o którym mowa w art. 90 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227 i 2244.),
 - **4)** w zakresie prawidłowości realizacji obowiązku ewidencjonowania w podmiotach obowiązanych do ewidencjonowania obrotu za pomocą kas rejestrujących,
 - **5)** parametrów jakościowych, fizyko-chemicznych oraz tożsamości i jakości paliw silnikowych,
-- **6)** o której mowa w art. 62 ust. 5 pkt 1, 2 i 5 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym wszczęta i niezakończona przed dniem wejścia w życie niniejszej ustawy kończy się protokołem.
+- **6)** o której mowa w art. 62 ust. 5 pkt 1, 2 i 5 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym – wszczęta i niezakończona przed dniem wejścia w życie niniejszej ustawy kończy się protokołem.
 
 **Art. 32.**
 
@@ -1177,6 +1204,6 @@ po art. 99 dodaje się art. 99a w brzmieniu:
 
 - **1)** art. 19 pkt 1, 3 i 4, art. 20 oraz art. 21, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 1 pkt 7 w zakresie art. 14 ust. 1 pkt 10–10b, pkt 9 i pkt 38, art. 23 oraz art. 34 ust. 2, które wchodzą w życie z dniem 1 stycznia 2019 r.;
-- **3)** art. 1 pkt 55 i art. 26, które wchodzą w życie z dniem 1 stycznia 2020 r.
+- **3)** art. 1 pkt 55 i art. 26, które wchodzą w życie z dniem 1 stycznia 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 19 listopada 2009 r. o grach hazardowych, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, ustawę z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej, ustawę z dnia 24 listopada 2017 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz ustawy – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej oraz ustawę z dnia 10 maja 2018 r. o zmianie ustawy o systemie monitorowania drogowego przewozu towarów oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193 i 2245. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227 i 2244. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592, 1629 i 2245. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491 oraz z 2018 r. poz. 106, 650, 771, 1629, 2126 i 2244. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193 i 2244. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227 i 2244. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693 i 2245. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227 i 2244.
 
 

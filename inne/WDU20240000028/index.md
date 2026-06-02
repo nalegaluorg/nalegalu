@@ -36,39 +36,35 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 1723), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającym rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532), które stanowią: „ 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 2007/61/WE z dnia 26 września 2007 r. zmieniającej dyrektywę 2001/114/WE odnoszącą się do niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. UE L 258 z 04.10. 2007, str. 27). ”
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532), które stanowią: „ 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 2007/61/WE z dnia 26 września 2007 r. zmieniającej dyrektywę 2001/114/WE odnoszącą się do niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. UE L 258 z 04.10. 2007, str. 27). ” „
 § 2.
-Rozporządzenie wchodzi w życie po upływie14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi
-[2) Przepisy niniejszego rozporządzenia wdrażają postanowienia: – dyrektywy Rady 2001/11/WE z dnia 20 grudnia 2001 r. odnoszącej się do niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. WE L 15 z 17.01.2002, str. 19, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 35, str. 30), – pierwszej dyrektywy Komisji 79/1067/EWG z dnia 13 listopada 1979 r. ustanawiającej wspólnotowe metody analiz do badania niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. WE L 327 z 24.12.1979, str. 29 – Dz. Urz. WE Polskie wydanie specjalne, rozdz. 3, t. 4, str. 112). [I)] Odnośnik nr 2 w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532), które weszło w życie z dniem 4 czerwca 2008 r.](#gloss-0:2:) Na podstawie art. 15 pkt 2 i art. 34 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludziMinister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 28 listopada 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2585).
+[Przepisy niniejszego rozporządzenia wdrażają postanowienia: – dyrektywy Rady 2001/11/WE z dnia 20 grudnia 2001 r. odnoszącej się do niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. WE L 15 z 17.01.2002, str. 19, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 35, str. 30), – pierwszej dyrektywy Komisji 79/1067/EWG z dnia 13 listopada 1979 r. ustanawiającej wspólnotowe metody analiz do badania niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. WE L 327 z 24.12.1979, str. 29 – Dz. Urz. WE Polskie wydanie specjalne, rozdz. 3, t. 4, str. 112). [I)] Odnośnik nr 2 w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532), które weszło w życie z dniem 4 czerwca 2008 r.](#gloss-0:2:) Na podstawie art. 15 pkt 2 i art. 34 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980) zarządza się, co następuje:
 § 1.
 1.
 Szczegółowe wymagania w zakresie jakości handlowej niektórych rodzajów mleka zagęszczonego i mleka w proszku są określone w załączniku nr 1 do rozporządzenia.
 2.
 Metody analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku są określone w załączniku nr 2 do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 28 listopada 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2585). 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia: – dyrektywy Rady 2001/11/WE z dnia 20 grudnia 2001 r. odnoszącej się do niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. WE L 15 z 17.01.2002, str. 19, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 35, str. 30), – pierwszej dyrektywy Komisji 79/1067/EWG z dnia 13 listopada 1979 r. ustanawiającej wspólnotowe metody analiz do badania niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. WE L 327 z 24.12.1979, str. 29 – Dz. Urz. WE Polskie wydanie specjalne, rozdz. 3, t. 4, str. 112). [I)] Odnośnik nr 2 w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532), które weszło w życie z dniem 4 czerwca 2008 r. 3) Rozporządzenie zostało ogłoszone w dniu 22 lipca 2004 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 22 lipca 2004 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 28 listopada 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2585). 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia: – dyrektywy Rady 2001/11/WE z dnia 20 grudnia 2001 r. odnoszącej się do niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. WE L 15 z 17.01.2002, str. 19, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 35, str. 30), – pierwszej dyrektywy Komisji 79/1067/EWG z dnia 13 listopada 1979 r. ustanawiającej wspólnotowe metody analiz do badania niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. WE L 327 z 24.12.1979, str. 29 – Dz. Urz. WE Polskie wydanie specjalne, rozdz. 3, t. 4, str. 112). [I)] Odnośnik nr 2 w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532), które weszło w życie z dniem 4 czerwca 2008 r. 3) Rozporządzenie zostało ogłoszone w dniu 22 lipca 2004 r.
 
 ## Załącznik nr 1 — – Szczegółowe wymagania w zakresie jakości handlowej niektórych rodzajów mleka zagęszczonego i mleka w proszku
 
 1.
 Mleko zagęszczone jest produktem płynnym, słodzonym albo niesłodzonym:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532), które weszło w życie z dniem 4 czerwca 2008 r.)
 otrzymywanym przez częściowe usunięcie wody z mleka, z mleka całkowicie albo częściowo odtłuszczonego albo mieszaniny tych produktów;
 2)
 z ewentualnym dodatkiem śmietanki lub mleka w proszku, z tym że dodatek mleka w proszku nie może przekroczyć w produktach gotowych 25 % całkowitej suchej masy;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 z ewentualnym dodatkiem witamin i składników mineralnych, przy zachowaniu wymagań określonych w rozporządzeniu (WE) nr 1925/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie dodawania do żywności witamin i składników mineralnych oraz niektórych innych substancji (Dz. Urz. UE L 404 z 30.12.2006, str. 26, z późn. zm.);
-4)
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 utrwalonym przez:
 a)
 obróbkę cieplną, w tym sterylizację i UHT, w przypadku mleka zagęszczonego niesłodzonego,
 b)
-dodanie sacharozy, w przypadku mleka zagęszczonego słodzonego
-przy zachowaniu wymagań określonych w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14).
+dodanie sacharozy, w przypadku mleka zagęszczonego słodzonego – przy zachowaniu wymagań określonych w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14).
 2.
 Mleko zagęszczone niesłodzone powinno spełniać następujące wymagania w zakresie jakości handlowej:
 1)
@@ -113,11 +109,11 @@ nie mniej niż 24 % – w przypadku mleka zagęszczonego odtłuszczonego słodzo
 W procesie technologicznym mleka zagęszczonego słodzonego dopuszcza się dodawanie laktozy w ilości nieprzekraczającej 0,03 % masy w stosunku do produktu gotowego.
 5.
 Mleko w proszku jest produktem stałym:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.)
 otrzymywanym przez usunięcie wody z mleka, z mleka całkowicie albo częściowo odtłuszczonego, ze śmietanki albo mieszaniny tych produktów;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 z ewentualnym dodatkiem witamin i składników mineralnych przy zachowaniu wymagań określonych w rozporządzeniu (WE) nr 1925/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie dodawania do żywności witamin i składników mineralnych oraz niektórych innych substancji;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.)
 utrwalonym przez odwadnianie, przy zachowaniu wymagań określonych w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego.
 6.
 Mleko w proszku powinno spełniać następujące wymagania w zakresie jakości handlowej:
@@ -133,16 +129,16 @@ c)
 więcej niż 1,5 % i mniej niż 26 % – w przypadku mleka w proszku częściowo odtłuszczonego,
 d)
 nie więcej niż 1,5 % tłuszczu – w przypadku mleka w proszku odtłuszczonego.
-7.
+7Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 4..
 Zawartość białka w mleku może być dostosowywana do minimalnego poziomu 34 % masy (liczonego w stosunku do odtłuszczonej suchej masy) przez dodanie lub usunięcie składników mleka w taki sposób, aby stosunek białek serwatkowych do kazeiny w dostosowywanym mleku pozostał niezmieniony, jeżeli zostały zachowane wymagania określone w ust. 1–6.
-8.
+8Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 4..
 W celu dostosowania zawartości białka w mleku, o którym mowa w ust. 7, dopuszcza się użycie:
 1)
 retentatu mleka, stanowiącego produkt uzyskiwany przez skoncentrowanie białka mleka w procesie ultrafiltracji mleka lub mleka częściowo lub całkowicie odtłuszczonego;
 2)
 permeatu mleka, stanowiącego produkt uzyskiwany przez usunięcie w procesie ultrafiltracji białka i tłuszczu z mleka lub mleka częściowo lub całkowicie odtłuszczonego;
 3)
-laktozy, stanowiącej naturalny składnik mleka otrzymywany zwykle z serwatki i zawierający co najmniej 99,0 % m/m laktozy bezwodnej w suchej masie; użyta laktoza może być bezwodna lub zawierać jedną cząsteczkę wody krystalizacyjnej, lub stanowić kombinację obu form.
+laktozy, stanowiącej naturalny składnik mleka otrzymywany zwykle z serwatki i zawierający co najmniej 99,0 % m/m laktozy bezwodnej w suchej masie; użyta laktoza może być bezwodna lub zawierać jedną cząsteczkę wody krystalizacyjnej, lub stanowić kombinację obu form. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532), które weszło w życie z dniem 4 czerwca 2008 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 7) W brzmieniu ustalonym przez § 1 pkt 2 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 8) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 4.
 
 ## Załącznik nr 2 — – Metody analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku
 
@@ -519,7 +515,8 @@ W celu oznaczenia zawartości kwasu mlekowego i mleczanów w mleku w proszku dok
 1)
 oznacza się zawartość suchej masy beztłuszczowej próbki w gramach przez odjęcie od 100 zawartości tłuszczu oznaczonej przy zastosowaniu metody, o której mowa w części IX, i zawartości wody oznaczonej przy zastosowaniu metody, o której mowa w części III;
 2)
-odważa się 1 000/(a-10)g próbki z dokładnością do 0,1 g, gdzie „a” jest równe zawartości suchej masy beztłuszczowej próbki oznaczonej zgodnie z pkt 1;
+odważa się 1 000/(a-10)g próbki z dokładnością do 0,1 g,
+gdzie „a” jest równe zawartości suchej masy beztłuszczowej próbki oznaczonej zgodnie z pkt 1;
 3)
 próbkę dodaje się do 100 ml wody i dokładnie miesza;
 4)

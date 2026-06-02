@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 31 lipca 2019 r. w sprawie minimalnej sumy gwarancyjnej ubezpieczenia, sumy gwarancji bankowej, sumy gwarancji ubezpieczeniowej lub wartości innego zabezpieczenia roszczeń użytkownika, o których mowa w art. 61b ust. 1 ustawy o usługach płatniczych
+# Rozporządzenie Ministra Finansówz dnia 31 lipca 2019 r. w sprawie minimalnej sumy gwarancyjnej ubezpieczenia, sumy gwarancji bankowej, sumy gwarancji ubezpieczeniowej lub wartości innego zabezpieczenia roszczeń użytkownika, o których mowa w art. 61b ust. 1 ustawy o usługach płatniczych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-31 |
 | Data wydania | 2019-08-05 |
-| Wejście w życie | 2019-08-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1459/text.pdf) |
 
@@ -58,8 +57,7 @@ Wartość wskaźnika, o którym mowa w § 2 pkt 2, oblicza się jako wyrażoną 
 4)
 5% części L powyżej 1 000 000 do 10 000 000 transakcji włącznie,
 5)
-0,025% części L powyżej 10 000 000 transakcji
-gdzie „L” oznacza liczbę transakcji płatniczych inicjowanych przez dostawcę w okresie ostatnich 12 miesięcy, z wyłączeniem transakcji płatniczych, o których mowa w art. 76 ust. 2a ustawy.
+0,025% części L powyżej 10 000 000 transakcji – gdzie „L” oznacza liczbę transakcji płatniczych inicjowanych przez dostawcę w okresie ostatnich 12 miesięcy, z wyłączeniem transakcji płatniczych, o których mowa w art. 76 ust. 2a ustawy.
 2.
 W przypadku wnioskodawcy lub dostawcy, którzy nie świadczyli usługi inicjowania transakcji płatniczej w okresie ostatnich 12 miesięcy, sumę, o której mowa w ust. 1, oblicza się w oparciu o liczbę inicjowanych transakcji płatniczych przewidywaną przez wnioskodawcę lub przez dostawcę na potrzeby złożenia wniosku o udzielenie zezwolenia, o którym mowa w art. 60 ustawy; w przypadku nieokreślenia przewidywanej liczby inicjowanych transakcji płatniczych lub gdy wartość wskaźnika liczby inicjowanych transakcji płatniczych, obliczona w oparciu o przewidywaną liczbę inicjowanych transakcji płatniczych, jest niższa niż 50 000 euro, przyjmuje się, że wartość wskaźnika liczby inicjowanych transakcji płatniczych wynosi 50 000 euro.
 § 5.
@@ -82,8 +80,7 @@ Wartość wskaźnika, o którym mowa w § 2 pkt 4, oblicza się jako wyrażoną 
 4)
 5% części W powyżej 5 000 000 euro do 10 000 000 euro włącznie,
 5)
-0,025% części W powyżej 10 000 000 euro
-gdzie „W” oznacza całkowitą wartość wszystkich transakcji płatniczych inicjowanych przez dostawcę w okresie ostatnich 12 miesięcy, z wyłączeniem transakcji płatniczych, o których mowa w art. 76 ust. 2a ustawy.
+0,025% części W powyżej 10 000 000 euro – gdzie „W” oznacza całkowitą wartość wszystkich transakcji płatniczych inicjowanych przez dostawcę w okresie ostatnich 12 miesięcy, z wyłączeniem transakcji płatniczych, o których mowa w art. 76 ust. 2a ustawy.
 2.
 W przypadku wnioskodawcy lub dostawcy, którzy nie świadczyli usługi inicjowania transakcji płatniczej w okresie ostatnich 12 miesięcy, sumę, o której mowa w ust. 1, oblicza się w oparciu o wartość inicjowanych transakcji płatniczych przewidywaną przez wnioskodawcę lub przez dostawcę na potrzeby złożenia wniosku o udzielenie zezwolenia, o którym mowa w art. 60 ustawy; w przypadku nieokreślenia przewidywanej wartości inicjowanych transakcji płatniczych lub gdy wartość wskaźnika wartości inicjowanych transakcji płatniczych, obliczona w oparciu o przewidywaną wartość inicjowanych transakcji płatniczych, jest niższa niż 50 000 euro, przyjmuje się, że wartość wskaźnika wartości inicjowanych transakcji płatniczych wynosi 50 000 euro.
 § 7.
@@ -92,6 +89,5 @@ Na potrzeby obliczenia wartości wskaźników, o których mowa w § 2 pkt 1 i 4,
 2.
 Minimalną sumę przelicza się na złote z zastosowaniem średniego kursu euro ogłaszanego przez Narodowy Bank Polski po raz pierwszy w roku, w którym zawierana jest umowa w zakresie ubezpieczenia odpowiedzialności cywilnej, gwarancji bankowej, gwarancji ubezpieczeniowej lub innego zabezpieczenia, o których mowa w art. 61b ust. 1 ustawy.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 

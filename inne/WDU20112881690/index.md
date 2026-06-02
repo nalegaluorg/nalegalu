@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-12-15 |
 | Data wydania | 2011-12-29 |
-| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112881690) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1690/text.pdf) |
 
@@ -51,7 +50,7 @@ source: "eli-html"
 
 - **3)** w art. 240 ust. 1 otrzymuje brzmienie: „
 
-1. Do pomocy dla osób usamodzielnianych, które przed dniem wejścia w życie niniejszej ustawy opuściły rodzinę zastępczą albo placówkę opiekuńczo-wychowawczą, albo pobierają pomoc przyznaną im na podstawie art. 88 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.), stosuje się przepisy dotychczasowe. ” .
+1. Do pomocy dla osób usamodzielnianych, które przed dniem wejścia w życie niniejszej ustawy opuściły rodzinę zastępczą albo placówkę opiekuńczo-wychowawczą, albo pobierają pomoc przyznaną im na podstawie art. 88 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427 oraz z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887.), stosuje się przepisy dotychczasowe. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738, z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427 oraz z 2011 r. Nr 81, poz. 440, Nr 106, poz. 622 i Nr 149, poz. 887.
 

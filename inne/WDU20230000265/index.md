@@ -26,13 +26,18 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000265) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/265/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania Dział I – Wolność sumienia i wyznania Dział II – Stosunek państwa do kościołów i innych związków wyznaniowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Działalność kościołów i innych związków wyznaniowych Dział III – Rejestrowanie kościołów i innych związków wyznaniowych Dział IIIa – Regulacja spraw majątkowych niektórych kościołów Dział IV – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2022 r. poz. 1435), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 stycznia 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „
+Wolność sumienia i wyznania
+Stosunek państwa do kościołów i innych związków wyznaniowych
+Przepisy ogólne
+Działalność kościołów i innych związków wyznaniowych
+Rejestrowanie kościołów i innych związków wyznaniowych
+Regulacja spraw majątkowych niektórych kościołów
 1.
 Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami i ich osobami prawnymi, które zgłosiły roszczenia w trybie i na zasadach określonych w:
 1)
@@ -48,18 +53,18 @@ Roszczenia majątkowe wobec Państwa mogą również zgłaszać do Komisji w ter
 3.
 Do oceny dopuszczalności postępowania regulacyjnego w sprawach, o których mowa w ust. 2, mają odpowiednie zastosowanie przepisy ustaw wskazanych w ust. 1 pkt 1–4.
 4.
-Jeżeli przywrócenie kościelnej osobie prawnej własności nieruchomości nie jest możliwe z uwagi na trudne do przezwyciężenia przeszkody, przyznaje się jej nieruchomość zamienną, a jeżeli nie jest to możliwe, osobie tej przyznaje się odszkodowanie ustalone według przepisów o wywłaszczeniu nieruchomości .
+Jeżeli przywrócenie kościelnej osobie prawnej własności nieruchomości nie jest możliwe z uwagi na trudne do przezwyciężenia przeszkody, przyznaje się jej nieruchomość zamienną, a jeżeli nie jest to możliwe, osobie tej przyznaje się odszkodowanie ustalone według przepisów o wywłaszczeniu nieruchomości Obecnie przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899 oraz z 2022 r. poz. 1846 i 2185), która weszła w życie z dniem 1 stycznia 1998 r..
 5.
 Rada Ministrów określi, w drodze rozporządzenia, z mienia których państwowych jednostek organizacyjnych lub gmin może być wyłączona nieruchomość zamienna lub na którą państwową jednostkę organizacyjną może być nałożony obowiązek zapłaty odszkodowania.
 1.
 Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie na własność nieruchomości lub ich części, które były własnością kościelnych osób prawnych działających do 1945 r. na Ziemiach Zachodnich i Północnych, w celu przywrócenia w nich sprawowania kultu religijnego, działalności oświatowo-wychowawczej, charytatywno-opiekuńczej i opiekuńczo-wychowawczej.
 2.
 W razie niemożności dokonania regulacji, o której mowa w ust. 1, postępowanie ulega umorzeniu.
-Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.), podlega postępowaniu, o którym mowa w art. 38a i 38b.
+Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462.), podlega postępowaniu, o którym mowa w art. 38a i 38b.
 1.
-Minister właściwy do spraw wyznań religijnych  po zasięgnięciu opinii władz kościołów, o których mowa w art. 38a ust. 1 pkt 1–4, określi, w drodze rozporządzenia, liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego, uwzględniając w szczególności organizację pracy Komisji, zadania współprzewodniczących zespołów orzekających, oraz sposób prowadzenia i protokołowania rozpraw, orzekania i nadawania klauzul wykonalności orzeczeniom i ugodom.
+Minister właściwy do spraw wyznań religijnych Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. po zasięgnięciu opinii władz kościołów, o których mowa w art. 38a ust. 1 pkt 1–4, określi, w drodze rozporządzenia, liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego, uwzględniając w szczególności organizację pracy Komisji, zadania współprzewodniczących zespołów orzekających, oraz sposób prowadzenia i protokołowania rozpraw, orzekania i nadawania klauzul wykonalności orzeczeniom i ugodom.
 2.
-Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez ministra właściwego do spraw wyznań religijnych  i władze kościoła lub związku wyznaniowego, którego wniosek dotyczy.
+Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez ministra właściwego do spraw wyznań religijnych Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. i władze kościoła lub związku wyznaniowego, którego wniosek dotyczy.
 3.
 Postępowanie regulacyjne wszczyna się z chwilą złożenia wniosku w Komisji. Zespół orzekający po otrzymaniu wniosku o wszczęcie postępowania regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca.
 4.
@@ -92,10 +97,25 @@ Nabycie własności nieruchomości lub ich części na podstawie ugody lub orzec
 Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
 2.
 Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte – wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a i 38b.
+Przepisy przejściowe i końcowe
+
+### Dział I – Wolność sumienia i wyznania
+
+### Dział II – Stosunek państwa do kościołów i innych związków wyznaniowych
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Działalność kościołów i innych związków wyznaniowych
+
+### Dział III – Rejestrowanie kościołów i innych związków wyznaniowych
+
+### Dział IIIa – Regulacja spraw majątkowych niektórych kościołów
+
+### Dział IV – Przepisy przejściowe i końcowe
 
 **Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: – wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia i wyznania, – nawiązując do godnej trwałego szacunku i kontynuacji tradycji tolerancji i wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań i światopoglądów w rozwoju i pomyślności Ojczyzny, – uznając historyczny wkład kościołów i innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie i umacnianie podstawowych wartości moralnych, – kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, – umacniając warunki do czynnego i równoprawnego uczestnictwa obywateli w życiu publicznym i społecznym, bez względu na ich stosunek do religii, stanowi, co następuje:
 
-### Dział I Wolność sumienia i wyznania
+### Dział I
 
 **Art. 1.**
 
@@ -134,8 +154,7 @@ Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od o
 1. Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom:
 
 - **1)** pełniącym służbę wojskową lub zasadniczą służbę w obronie cywilnej;
-- **2)** przebywającym w zakładach służby zdrowia  i opieki społecznej  oraz dzieciom i młodzieży na krajowych koloniach i obozach organizowanych przez instytucje państwowe;
-- **3)** przebywającym w zakładach karnych, zakładach poprawczych, okręgowych ośrodkach wychowawczych, młodzieżowych ośrodkach wychowawczych, aresztach śledczych oraz schroniskach dla nieletnich.
+- **2)** przebywającym w zakładach służby zdrowia Obecnie zakładach leczniczych podmiotów leczniczych, na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. i opieki społecznej Obecnie odpowiednich jednostkach organizacyjnych pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754), która weszła w życie z dniem 1 maja 2004 r. oraz dzieciom i młodzieży na krajowych koloniach i obozach organizowanych przez instytucje państwowe; 3W brzmieniu ustalonym przez art. 365 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700); wszedł w życie z dniem 1 września 2022 r.) przebywającym w zakładach karnych, zakładach poprawczych, okręgowych ośrodkach wychowawczych, młodzieżowych ośrodkach wychowawczych, aresztach śledczych oraz schroniskach dla nieletnich.
 
 2. Sposób realizacji uprawnień określonych w ust. 1 regulują odrębne ustawy oraz przepisy wydane na ich podstawie.
 
@@ -153,9 +172,9 @@ Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od o
 
 2. Przepis ust. 1 stosuje się odpowiednio do bezpaństwowców.
 
-### Dział II Stosunek państwa do kościołów i innych związków wyznaniowych
+### Dział II
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 8.** Kościoły i inne związki wyznaniowe w Polsce działają w konstytucyjnych ramach ustrojowych Rzeczypospolitej Polskiej; ich sytuację prawną i majątkową regulują przepisy rangi ustawowej.
 
@@ -203,19 +222,19 @@ Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od o
 
 5. Dochody z działalności gospodarczej osób prawnych kościołów i innych związków wyznaniowych oraz spółek, których udziałowcami są wyłącznie te osoby, są zwolnione od opodatkowania w części, w jakiej zostały przeznaczone w roku podatkowym lub w roku po nim następującym na cele kultowe, oświatowo-wychowawcze, naukowe, kulturalne, działalność charytatywno-opiekuńczą, punkty katechetyczne, konserwację zabytków oraz na inwestycje sakralne i inwestycje kościelne, których przedmiotem są punkty katechetyczne i zakłady charytatywno-opiekuńcze, jak również remonty tych obiektów.
 
-6. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania i od świadczeń na fundusz gminny i fundusz miejski , od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
+6. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania i od świadczeń na fundusz gminny i fundusz miejski Zniesiony z dniem 1 stycznia 1991 r. na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517, z 1995 r. poz. 654 oraz z 1999 r. poz. 1226), która weszła w życie z dniem 1 stycznia 1991 r., od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
 
 7. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla osób prawnych kościołów i innych związków wyznaniowych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 342 z 10.12.2009, str. 23).
 
 **Art. 14.**
 
-1. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia ministra właściwego do spraw wyznań religijnych  i wojewodę właściwego ze względu na siedzibę jednostki organizacyjnej kościoła lub innego związku wyznaniowego o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale i zniesieniu diecezji (okręgów i porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin i porównywalnych jednostek organizacyjnych).
+1. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia ministra właściwego do spraw wyznań religijnych Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. i wojewodę właściwego ze względu na siedzibę jednostki organizacyjnej kościoła lub innego związku wyznaniowego o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale i zniesieniu diecezji (okręgów i porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin i porównywalnych jednostek organizacyjnych).
 
-2. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia w terminie 30 dni ministra właściwego do spraw wyznań religijnych  i wojewodę właściwego ze względu na siedzibę kościoła lub innego związku wyznaniowego o zmianie siedziby oraz o zmianie osób wchodzących do kierowniczych organów wykonawczych, podając ich imiona i nazwiska, obywatelstwo i miejsce zamieszkania.
+2. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia w terminie 30 dni ministra właściwego do spraw wyznań religijnych Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. i wojewodę właściwego ze względu na siedzibę kościoła lub innego związku wyznaniowego o zmianie siedziby oraz o zmianie osób wchodzących do kierowniczych organów wykonawczych, podając ich imiona i nazwiska, obywatelstwo i miejsce zamieszkania.
 
 3. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, o których mowa w ust. 1.
 
-4. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed objęciem stanowisk, o których mowa w ust. 2 i 3, przez cudzoziemca, władze kościoła lub innego związku wyznaniowego powinny się upewnić, czy minister właściwy do spraw wyznań religijnych  nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody.
+4. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed objęciem stanowisk, o których mowa w ust. 2 i 3, przez cudzoziemca, władze kościoła lub innego związku wyznaniowego powinny się upewnić, czy minister właściwy do spraw wyznań religijnych Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody.
 
 **Art. 15.** (uchylony)
 
@@ -239,7 +258,7 @@ Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od o
 
 2. Przepisy rozdziału 2 określające uprawnienia kościołów i innych związków wyznaniowych mają jednakże zastosowanie do kościołów i innych związków wyznaniowych o ustawowo uregulowanej sytuacji wówczas, gdy odrębne ustawy określone w ust. 1 nie przewidują takich uprawnień.
 
-#### Rozdział 2 Działalność kościołów i innych związków wyznaniowych
+#### Rozdział 2
 
 **Art. 19.**
 
@@ -296,7 +315,7 @@ Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od o
 
 4. Kościoły i inne związki wyznaniowe mają prawo zakładać religijne instytuty naukowe i naukowo-dydaktyczne.
 
-5. Status prawny wydziałów teologicznych na uniwersytetach państwowych regulują odrębne umowy pomiędzy ministrem właściwym do spraw szkolnictwa wyższego  a władzami kościołów lub innych związków wyznaniowych.
+5. Status prawny wydziałów teologicznych na uniwersytetach państwowych regulują odrębne umowy pomiędzy ministrem właściwym do spraw szkolnictwa wyższego Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 5. a władzami kościołów lub innych związków wyznaniowych.
 
 **Art. 23.** (uchylony)
 
@@ -353,9 +372,9 @@ Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od o
 
 3. Władze kościołów i innych związków wyznaniowych czuwają nad zgodnością działania tych organizacji z ich celami religijnymi i moralnymi.
 
-### Dział III Rejestrowanie kościołów i innych związków wyznaniowych
+### Dział III
 
-**Art. 30.** Prawo wpisu do rejestru kościołów i innych związków wyznaniowych, zwanego dalej „rejestrem”, prowadzonego przez ministra właściwego do spraw wyznań religijnych , jest realizowane przez złożenie temu ministrowi, zwanemu dalej „organem rejestrowym”, deklaracji o utworzeniu kościoła lub innego związku wyznaniowego i wniosku o wpis do rejestru.
+**Art. 30.** Prawo wpisu do rejestru kościołów i innych związków wyznaniowych, zwanego dalej „rejestrem”, prowadzonego przez ministra właściwego do spraw wyznań religijnych Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r., jest realizowane przez złożenie temu ministrowi, zwanemu dalej „organem rejestrowym”, deklaracji o utworzeniu kościoła lub innego związku wyznaniowego i wniosku o wpis do rejestru.
 
 **Art. 31.**
 
@@ -463,13 +482,13 @@ Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od o
 
 2. W razie stwierdzenia prawomocnym wyrokiem sądu, że działalność kościoła lub innego związku wyznaniowego rażąco narusza prawo lub postanowienia statutu, organ rejestrowy wykreśli z rejestru ten kościół lub inny związek wyznaniowy.
 
-**Art. 37.** Minister właściwy do spraw wyznań religijnych  określa, w drodze rozporządzenia, zasady i sposób prowadzenia rejestru, dane i informacje podlegające wpisowi, sposób, formę i termin aktualizacji wpisów do rejestru, warunki udostępniania rejestru, wydawania wyciągów z rejestru oraz sposób wykreślania kościoła lub innego związku wyznaniowego z rejestru.
+**Art. 37.** Minister właściwy do spraw wyznań religijnych Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. określa, w drodze rozporządzenia, zasady i sposób prowadzenia rejestru, dane i informacje podlegające wpisowi, sposób, formę i termin aktualizacji wpisów do rejestru, warunki udostępniania rejestru, wydawania wyciągów z rejestru oraz sposób wykreślania kościoła lub innego związku wyznaniowego z rejestru.
 
 **Art. 38.** Przepisy niniejszego działu stosuje się odpowiednio do krajowych organizacji międzykościelnych, jeżeli mają one mieć osobowość prawną. Do utworzenia takiej organizacji jest wymagana deklaracja podpisana przez władze co najmniej dwóch działających w Rzeczypospolitej Polskiej kościołów i innych związków wyznaniowych.
 
-### Dział IIIa Regulacja spraw majątkowych niektórych kościołów
+### Dział IIIa
 
-### Dział IV Przepisy przejściowe i końcowe
+### Dział IV
 
 **Art. 39.** (pominięty)
 
@@ -485,14 +504,11 @@ Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od o
 
 3. Zwolnienie od pracy, o którym mowa w ust. 1 i 2, może być udzielone pod warunkiem odpracowania czasu zwolnienia, bez prawa do dodatkowego wynagrodzenia za pracę w dni ustawowo wolne od pracy lub pracę w godzinach nadliczbowych.
 
-4. Minister właściwy do spraw pracy oraz minister właściwy do spraw oświaty i wychowania, minister właściwy do spraw szkolnictwa wyższego , w porozumieniu z ministrem właściwym do spraw wyznań religijnych , w drodze rozporządzenia, określają szczegółowe zasady udzielania zwolnień, o których mowa w ust. 1 i 2.
+4. Minister właściwy do spraw pracy oraz minister właściwy do spraw oświaty i wychowania, minister właściwy do spraw szkolnictwa wyższego Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 5., w porozumieniu z ministrem właściwym do spraw wyznań religijnych Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r., w drodze rozporządzenia, określają szczegółowe zasady udzielania zwolnień, o których mowa w ust. 1 i 2.
 
 **Art. 43.** (pominięty)
 
 **Art. 44.** (pominięty)
 
-**Art. 45.** Ustawa wchodzi w życie z dniem ogłoszenia.
-
-- **1)** Obecnie zakładach leczniczych podmiotów leczniczych, na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. 2) Obecnie odpowiednich jednostkach organizacyjnych pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754), która weszła w życie z dniem 1 maja 2004 r. 3) W brzmieniu ustalonym przez art. 365 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700); wszedł w życie z dniem 1 września 2022 r. 4) Zniesiony z dniem 1 stycznia 1991 r. na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517, z 1995 r. poz. 654 oraz z 1999 r. poz. 1226), która weszła w życie z dniem 1 stycznia 1991 r. 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 6) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 5. 7) Obecnie przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899 oraz z 2022 r. poz. 1846 i 2185), która weszła w życie z dniem 1 stycznia 1998 r. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462. 9) Ustawa została ogłoszona w dniu 23 maja 1989 r.
-
+**Art. 45.** Ustawa wchodzi w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 23 maja 1989 r.. 1) Obecnie zakładach leczniczych podmiotów leczniczych, na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. 2) Obecnie odpowiednich jednostkach organizacyjnych pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754), która weszła w życie z dniem 1 maja 2004 r. 3) W brzmieniu ustalonym przez art. 365 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700); wszedł w życie z dniem 1 września 2022 r. 4) Zniesiony z dniem 1 stycznia 1991 r. na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517, z 1995 r. poz. 654 oraz z 1999 r. poz. 1226), która weszła w życie z dniem 1 stycznia 1991 r. 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. 6) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 5. 7) Obecnie przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899 oraz z 2022 r. poz. 1846 i 2185), która weszła w życie z dniem 1 stycznia 1998 r. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492, z 2017 r. poz. 653 oraz z 2020 r. poz. 462. 9) Ustawa została ogłoszona w dniu 23 maja 1989 r.
 

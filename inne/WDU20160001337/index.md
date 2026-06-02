@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 24 sierpnia 2016 r. w sprawie przedłużenia terminu przekazywania informacji, o której mowa w art. 82 § 1b Ordynacji podatkowej
+# Rozporządzenie Ministra Finansówz dnia 24 sierpnia 2016 r. w sprawie przedłużenia terminu przekazywania informacji, o której mowa w art. 82 § 1b Ordynacji podatkowej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-24 |
 | Data wydania | 2016-08-25 |
-| Wejście w życie | 2016-08-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1337/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 50 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 50 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615, 846 i 1228.) zarządza się, co następuje:
 § 1.
 Przedłuża się do dnia 31 stycznia 2017 r. termin przekazywania informacji, o której mowa w art. 82 § 1b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa:
 1)
@@ -49,7 +48,7 @@ Zakładowi Ubezpieczeń Społecznych oraz Kasie Rolniczego Ubezpieczenia Społec
 9)
 Narodowemu Funduszowi Zdrowia;
 10)
-podmiotom leczniczym w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm.);
+podmiotom leczniczym w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 788, 905, 1640, 1697, 1844, 1887, 1918 i 1991 oraz z 2016 r. poz. 904 i 960.);
 11)
 szkołom i placówkom niepublicznym, utworzonym na podstawie ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2015 r. poz. 2156 oraz z 2016 r. poz. 35, 64, 195, 668 i 1010);
 12)
@@ -71,6 +70,5 @@ Państwowemu Funduszowi Rehabilitacji Osób Niepełnosprawnych.
 § 2.
 Przepis § 1 ma zastosowanie do informacji, o której mowa w art. 82 § 1b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, składanej za miesiące, które przypadają od dnia 1 lipca 2016 r. do dnia 31 grudnia 2016 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615, 846 i 1228. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 788, 905, 1640, 1697, 1844, 1887, 1918 i 1991 oraz z 2016 r. poz. 904 i 960.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615, 846 i 1228. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 788, 905, 1640, 1697, 1844, 1887, 1918 i 1991 oraz z 2016 r. poz. 904 i 960.
 

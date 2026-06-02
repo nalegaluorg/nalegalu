@@ -22,19 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-15 |
 | Data wydania | 2021-11-24 |
-| Wejście w życie | 2021-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2118/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Akta sprawy Rozdział 3 – Zbiór dokumentów Rozdział 4 – Repertorium „GRz-nu” Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 211a ust. 7 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2021 r. poz. 1588) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób i tryb prowadzenia przez nadzorcę układu akt, o których mowa w art. 211a ust. 1 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, zwanej dalej „ustawąˮ, oraz zbioru dokumentów, o których mowa w art. 211a ust. 2 ustawy, w tym stosowane urządzenia ewidencyjne, a także udostępniania tych akt oraz zbioru dokumentów.
 § 2.
 Nadzorca układu prowadzi urządzenie ewidencyjne w systemie teleinformatycznym obsługującym postępowanie sądowe, o którym mowa w art. 53 § 1a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r. poz. 1080 i 1236), zwanym dalej „systemem teleinformatycznym”, w postaci repertorium „GRz-nu” dla spraw o zatwierdzenie układu.
 § 3.
 Nadzorca układu prowadzi akta, o których mowa w art. 211a ust. 1 ustawy, zwane dalej „aktami sprawy”, oraz zbiór dokumentów odrębnie dla każdego dłużnika.
+Akta sprawy
 § 4.
 Nadzorca układu zakłada akta sprawy w systemie teleinformatycznym niezwłocznie po ustaleniu dnia układowego.
 § 5.
@@ -71,6 +72,7 @@ Akta sprawy udostępnia się uczestnikom postępowania za pośrednictwem ogólno
 Nadzorca układu udostępnia akta sprawy w biurze za pośrednictwem systemu teleinformatycznego osobom, o których mowa w ust. 1, po potwierdzeniu przez nie swojej tożsamości, a innym osobom również po dostatecznym usprawiedliwieniu potrzeby zapoznania się z tymi aktami, chyba że przepisy ustawy stanowią inaczej.
 3.
 Udostępnienie akt sprawy prowadzonych w systemie teleinformatycznym służbie nadzoru Ministra Sprawiedliwości następuje przez zgłoszenie przez tę służbę żądania wglądu do akt w systemie teleinformatycznym.
+Zbiór dokumentów
 § 8.
 1.
 Nadzorca układu niezwłocznie po ustaleniu dnia układowego zakłada zbiór dokumentów dla pism i dokumentów papierowych.
@@ -145,6 +147,7 @@ datę sporządzenia odpisu;
 numer licencji doradcy restrukturyzacyjnego pełniącego funkcję nadzorcy układu oraz
 4)
 czytelne imię i nazwisko osoby podpisującej odpis.
+Repertorium „GRz-nu”
 § 13.
 W repertorium „GRz-nu” odnotowuje się:
 1)
@@ -207,16 +210,27 @@ wygaśnięcia skutków obwieszczenia, o którym mowa w art. 226g ustawy;
 wydania przez sąd postanowienia kończącego postępowanie w sprawie przed upływem terminu 4 miesięcy od dnia dokonania obwieszczenia o ustaleniu dnia układowego;
 6)
 odmowy dokonania przez nadzorcę układu obwieszczenia o dniu układowym na podstawie art. 226a ust. 3 ustawy po upływie terminu do wniesienia skargi tylko wtedy, gdy dłużnik nie złożył środka zaskarżenia albo po uprawomocnieniu się postanowienia sądu o oddaleniu lub odrzuceniu skargi dłużnika, gdy dłużnik złożył środek zaskarżenia.
+Przepis końcowy
 § 15.
 Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Akta sprawy
+#### Rozdział 2 – Akta sprawy
 
-#### Rozdział 3 Zbiór dokumentów
+#### Rozdział 3 – Zbiór dokumentów
 
-#### Rozdział 4 Repertorium „GRz-nu”
+#### Rozdział 4 – Repertorium „GRz-nu”
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

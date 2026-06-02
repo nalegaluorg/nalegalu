@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 19 czerwca 2018 r. w sprawie regulaminu organizacyjno-porządkowego ośrodka adaptacyjnego dla repatriantów
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 19 czerwca 2018 r. w sprawie regulaminu organizacyjno-porządkowego ośrodka adaptacyjnego dla repatriantów Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-19 |
 | Data wydania | 2018-06-22 |
-| Wejście w życie | 2018-06-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001200) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1200/text.pdf) |
 
@@ -39,8 +38,7 @@ sposób organizacji posiłków.
 § 2.
 Regulamin organizacyjno-porządkowy ośrodka adaptacyjnego dla repatriantów jest określony w załączniku do rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 23 czerwca 2018 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 maja 2017 r. w sprawie regulaminu organizacyjno-porządkowego ośrodka adaptacyjnego dla repatriantów (Dz. U. poz. 940), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 4 ust. 1 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o repatriacji, ustawy o Karcie Polaka oraz ustawy o cudzoziemcach (Dz. U. poz. 2282), tj. z dniem 22 czerwca 2018 r.
+Rozporządzenie wchodzi w życie z dniem 23 czerwca 2018 r.Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 maja 2017 r. w sprawie regulaminu organizacyjno-porządkowego ośrodka adaptacyjnego dla repatriantów (Dz. U. poz. 940), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 4 ust. 1 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o repatriacji, ustawy o Karcie Polaka oraz ustawy o cudzoziemcach (Dz. U. poz. 2282), tj. z dniem 22 czerwca 2018 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 maja 2017 r. w sprawie regulaminu organizacyjno-porządkowego ośrodka adaptacyjnego dla repatriantów (Dz. U. poz. 940), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 4 ust. 1 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o repatriacji, ustawy o Karcie Polaka oraz ustawy o cudzoziemcach (Dz. U. poz. 2282), tj. z dniem 22 czerwca 2018 r.
 Załącznik – Regulamin organizacyjno-porządkowy ośrodka adaptacyjnego dla repatriantów
 § 1.
 Przyjmowanie repatriantów i członków najbliższej rodziny repatrianta, zwanych dalej „uczestnikami pobytu”, do ośrodka adaptacyjnego dla repatriantów, zwanego dalej „ośrodkiem”, odbywa się przez całą dobę.

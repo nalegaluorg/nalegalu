@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 5 marca 2024 r. zmieniające rozporządzenie w sprawie wykazu nieruchomości przekazywanego Krajowemu Zasobowi Nieruchomości
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 5 marca 2024 r. zmieniające rozporządzenie w sprawie wykazu nieruchomości przekazywanego Krajowemu Zasobowi Nieruchomości Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-05 |
 | Data wydania | 2024-03-13 |
-| Wejście w życie | 2024-03-21 |
 | Ostatnia zmiana | 2025-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000370) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/370/text.pdf) |
 
@@ -33,11 +32,10 @@ W rozporządzeniu Ministra Finansów, Inwestycji i Rozwoju z dnia 8 listopada 20
 1)
 w załączniku nr 1 do rozporządzenia:
 a)
-w tabeli w kolumnie 5 kolumny 5.1 i 5.2 otrzymują brzmienie: 5.1 5.2 Przeznaczenie terenu MPZP Profil funkcjonalny strefy planistycznej Plan ogólny gminy4a
+w tabeli w kolumnie 5 kolumny 5.1 i 5.2 otrzymują brzmienie:
+5.1 5.2 Przeznaczenie terenu MPZP Profil funkcjonalny strefy planistycznej Plan ogólny gminy4a
 b)
-przypis nr 4 pod tabelą otrzymuje brzmienie:
-„
-4 Należy uzupełnić według następujących zasad, przy czym skrót MPZP oznacza miejscowy plan zagospodarowania przestrzennego:
+przypis nr 4 pod tabelą otrzymuje brzmienie: „ 4 Należy uzupełnić według następujących zasad, przy czym skrót MPZP oznacza miejscowy plan zagospodarowania przestrzennego:
 – jeżeli nieruchomość jest położona w granicach obowiązującego MPZP, to wypełnieniu podlega kolumna 5.1,
 – jeżeli nieruchomość nie jest objęta ustaleniami MPZP, to wypełnieniu podlega kolumna 5.2,
 – jeżeli nieruchomość jest położona w części w granicach obowiązującego MPZP, to wypełnieniu podlegają kolumny 5.1 i 5.2.
@@ -49,6 +47,5 @@ w przypisie nr 10 pod tabelą w zdaniu pierwszym po lit. M dodaje się lit. Ma-M
 2)
 w załączniku nr 2 do rozporządzenia opis pod tabelami otrzymuje brzmienie: „ Przez użyte w załączniku określenia „działka ewidencyjna” i „budynek” należy rozumieć odpowiednio „działkę ewidencyjną” i „budynek” w rozumieniu przepisów rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków (Dz. U. z 2024 r. poz. 219). Przez użyte w załączniku określenie „lokal” należy rozumieć „samodzielny lokal mieszkalny, a także lokal o innym przeznaczeniu” w rozumieniu przepisów ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048, z późn. zm.). ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2711).
 

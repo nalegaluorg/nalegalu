@@ -22,16 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-04-11 |
 | Data wydania | 2003-04-30 |
-| Wejście w życie | 2003-05-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030730661) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/661/text.pdf) |
+
+Urzędowe poświadczanie znajomości języka polskiego
 
 **Art. 1.** W ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. Nr 90, poz. 999, z 2000 r. Nr 29, poz. 358 oraz z 2002 r. Nr 144, poz. 1204) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 uchyla się ust. 3;
 - **2)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Urzędowe poświadczanie znajomości języka polskiego
+#### Rozdział 2a
 
 **Art. 11a.** Cudzoziemiec lub obywatel polski na stałe zamieszkały za granicą otrzymuje urzędowe poświadczenie znajomości języka polskiego po zdaniu egzaminu przed państwową komisją egzaminacyjną. 1. Państwową Komisję Poświadczania Znajomości Języka Polskiego jako Obcego, zwaną dalej „Komisją”, jej przewodniczącego i członków, powołuje i odwołuje minister właściwy do spraw szkolnictwa wyższego i minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, spośród specjalistów w zakresie nauczania języka polskiego, w tym jako języka obcego. 2. Komisja liczy dziesięciu członków. 3. Do zadań Komisji należy w szczególności:
 

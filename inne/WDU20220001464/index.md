@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-06 |
 | Data wydania | 2022-07-12 |
-| Wejście w życie | 2022-07-13 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001464) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1464/text.pdf) |
 
@@ -117,8 +116,7 @@ w celu uczestniczenia w ćwiczeniach i szkoleniach poligonowych – 100%,
 2)
 w związku z czasową zmianą miejsca postoju jednostki wojskowej lub wydzielonego pododdziału – 25%,
 3)
-w związku z czasową zmianą miejsca postoju jednostki wojskowej lub wydzielonego pododdziału w celu wykonywania zadań związanych z ochroną granicy Rzeczypospolitej Polskiej, w zakresie ochrony niepodległości państwa, niepodzielności jego terytorium lub zapewnienia bezpieczeństwa i nienaruszalności jego granic, w szczególności w ramach użycia oddziałów i pododdziałów Sił Zbrojnych na zasadach i w trybie przewidzianych w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448 oraz z 2022 r. poz. 655 i 1115) lub w ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061 i 1115) – 150%
-stawki diety za każdą pełną dobę wykonywania zadań poza stałym miejscem pełnienia służby lub miejscem zamieszkania.
+w związku z czasową zmianą miejsca postoju jednostki wojskowej lub wydzielonego pododdziału w celu wykonywania zadań związanych z ochroną granicy Rzeczypospolitej Polskiej, w zakresie ochrony niepodległości państwa, niepodzielności jego terytorium lub zapewnienia bezpieczeństwa i nienaruszalności jego granic, w szczególności w ramach użycia oddziałów i pododdziałów Sił Zbrojnych na zasadach i w trybie przewidzianych w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448 oraz z 2022 r. poz. 655 i 1115) lub w ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061 i 1115) – 150% – stawki diety za każdą pełną dobę wykonywania zadań poza stałym miejscem pełnienia służby lub miejscem zamieszkania.
 § 11.
 1.
 Przy obliczaniu zwrotu kosztów przejazdu na trasie, o której mowa w art. 445 ust. 7 pkt 2 lit. a ustawy, uwzględnia się udokumentowany koszt biletów lub faktur na przejazd publicznymi środkami transportu, obejmujących cenę biletu na przejazd środkiem transportu wraz z opłatami dodatkowymi, w tym miejscówką, zgodnie z publicznym środkiem transportu, jego rodzajem i klasą określonymi w poleceniu wyjazdu służbowego, z uwzględnieniem posiadanej przez żołnierza ulgi na dany środek transportu, bez względu na to, z jakiego tytułu ulga mu przysługuje.
@@ -231,5 +229,5 @@ Należności z tytułu podróży służbowej odbywanej w związku ze zmianą mie
 6.
 Należności z tytułu podróży służbowej wypłaca się w terminie 14 dni od dnia przedłożenia przez żołnierza dokumentów, o których mowa w ust. 1.
 § 25.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 16 lipca 2014 r. w sprawie należności pieniężnych żołnierzy zawodowych za przeniesienia, przesiedlenia i podróże służbowe (Dz. U. poz. 1003), które zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 16 lipca 2014 r. w sprawie należności pieniężnych żołnierzy zawodowych za przeniesienia, przesiedlenia i podróże służbowe (Dz. U. poz. 1003), które zgodnie z art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

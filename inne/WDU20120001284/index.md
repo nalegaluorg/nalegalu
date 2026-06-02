@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-15 |
 | Data wydania | 2012-11-22 |
-| Wejście w życie | 2012-12-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1284/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 40 ust. 7 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 40 ust. 7 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209.) zarządza się, co następuje:
 § 1.
 1.
 Dla rozpowszechniania programów radiowych lub telewizyjnych w sposób analogowy rozsiewczy naziemny liczbę mieszkańców na obszarze objętym rozpowszechnianiem oblicza się z wykorzystaniem systemu informacji przestrzennej GIS opartego na oprogramowaniu komputerowym zawierającym mapę kraju z podziałem administracyjnym wraz z liczbą mieszkańców przypisaną do poszczególnych gmin. W przypadku części gminy system przypisuje proporcjonalnie liczbę mieszkańców do zajmowanej powierzchni.
@@ -42,5 +41,5 @@ dla telewizji – metodą zgodną z Regionalnym Porozumieniem dla Europejskiego 
 § 2.
 Dla rozpowszechniania programów radiowych lub telewizyjnych w sposób cyfrowy rozsiewczy naziemny liczbę mieszkańców na obszarze objętym rozpowszechnianiem oblicza się z wykorzystaniem systemu informacji przestrzennej GIS opartego na opracowaniu komputerowym zawierającym mapę kraju z podziałem administracyjnym wraz z liczbą mieszkańców przypisaną do poszczególnych gmin. Za obszar objęty rozpowszechnianiem przyjmuje się obszary wykorzystania częstotliwości.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209.
 

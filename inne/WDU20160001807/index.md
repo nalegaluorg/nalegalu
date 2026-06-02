@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 września 2016 r. o zmianie ustawy o Krajowej Szkole Administracji Publicznej oraz niektórych innych ustaw
+# Ustawa z dnia 14 września 2016 r. o zmianie ustawy o Krajowej Szkole Administracji Publicznej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 27 lipca 2001 r. o służbie zagranicznej, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 21 listopada 2008 r. o służbie cywilnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-14 |
 | Data wydania | 2016-11-04 |
-| Wejście w życie | 2016-11-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001807) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1807/text.pdf) |
 
@@ -52,7 +51,7 @@ source: "eli-html"
 - **5)** w art. 18 w ust. 4 pkt 2a otrzymuje brzmienie: „
 - **2a)** słuchaczy Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego – stanowi kwota stypendium, ” .
 
-**Art. 3.** W ustawie z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. poz. 1403, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. poz. 1403, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 2703, z 2006 r. poz. 1217, 1218 i 1600, z 2008 r. poz. 1505, z 2009 r. poz. 1277, z 2015 r. poz. 1220 i 1274 oraz z 2016 r. poz. 34.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** odbył, z zastrzeżeniem art. 40 ust. 2, aplikację dyplomatyczno-konsularną, o której mowa w art. 38, albo jest urzędnikiem służby cywilnej lub ukończył Krajową Szkołę Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, ” ;

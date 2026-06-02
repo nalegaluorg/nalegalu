@@ -26,14 +26,19 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1199/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Przygotowanie strategicznej inwestycji w zakresie sieci przesyłowej Rozdział 3 – Nabywanie tytułu prawnego do nieruchomości dla strategicznej inwestycji w zakresie sieci przesyłowej Rozdział 4 – Postępowania administracyjne dla realizacji strategicznych inwestycji w zakresie sieci przesyłowych Rozdział 5 – Finansowanie strategicznych inwestycji w zakresie sieci przesyłowych Rozdział 5a – Zasady przygotowania i realizacji strategicznych inwestycji w zakresie sieci dystrybucyjnych Rozdział 6 – Zmiany w przepisach obowiązujących Rozdział 7 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych
 Załącznik – Wykaz strategicznych inwestycji w zakresie sieci przesyłowych oraz inwestycji towarzyszących, z wyłączeniem inwestycji towarzyszących polegających na przebudowie lub remoncie istniejących linii elektroenergetycznych stanowiących elementy sieci dystrybucyjnej o napięciu równym lub wyższym niż 110 kV
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 555), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 lipca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 61–63 i art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 61–63 i art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), które stanowią: „
+Przepisy ogólne
+Przygotowanie strategicznej inwestycji w zakresie sieci przesyłowej
+Nabywanie tytułu prawnego do nieruchomości dla strategicznej inwestycji w zakresie sieci przesyłowej
+Postępowania administracyjne dla realizacji strategicznych inwestycji w zakresie sieci przesyłowych
+Finansowanie strategicznych inwestycji w zakresie sieci przesyłowych
+Zasady przygotowania i realizacji strategicznych inwestycji w zakresie sieci dystrybucyjnych
 Przepisy niniejszego rozdziału mają zastosowanie do przygotowania i realizacji strategicznych inwestycji w zakresie sieci dystrybucyjnych, o których mowa w art. 1 ust. 2 pkt 4a, z tym że w przypadku tych inwestycji przez inwestora rozumie się operatora systemu dystrybucyjnego, w rozumieniu art. 3 pkt 25 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, realizującego te inwestycje.
 1.
 Przepisy ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami dotyczące postępowań w sprawach nieruchomości o nieuregulowanym stanie prawnym stosuje się także w przypadku braku danych w katastrze nieruchomości pozwalających na ustalenie danych osobowych, w szczególności adresu zamieszkania, właściciela lub użytkownika wieczystego nieruchomości.
@@ -88,15 +93,33 @@ Jeżeli budowa drogi wymaga przełożenia nadziemnych liniowych urządzeń obcyc
 1.
 Usytuowanie podziemnych liniowych obiektów budowlanych objętych strategiczną inwestycją w zakresie sieci dystrybucyjnych o napięciu nie wyższym niż 30 kV przy drodze publicznej poza obszarem zabudowanym w odległości mniejszej niż określona w art. 43 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych może nastąpić wyłącznie za zgodą zarządcy drogi wydaną przed uzyskaniem przez inwestora tego obiektu pozwolenia na budowę lub zgłoszeniem budowy albo wykonywania robót budowlanych.
 2.
-Zgodę, o której mowa w ust. 1, zarządca drogi wydaje o ile w ciągu 5 lat od dnia doręczenia zarządcy drogi wniosku o wyrażenie zgody na usytuowanie podziemnych liniowych obiektów budowlanych, zgodnie z ust. 1, nie jest planowana budowa drogi publicznej zgodnie z uchwałą budżetową jednostki samorządu terytorialnego, wieloletnią prognozą finansową jednostki samorządu terytorialnego, programem wieloletnim wydanym na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.) lub planami, o których mowa w art. 20 pkt 1 lub 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+Zgodę, o której mowa w ust. 1, zarządca drogi wydaje o ile w ciągu 5 lat od dnia doręczenia zarządcy drogi wniosku o wyrażenie zgody na usytuowanie podziemnych liniowych obiektów budowlanych, zgodnie z ust. 1, nie jest planowana budowa drogi publicznej zgodnie z uchwałą budżetową jednostki samorządu terytorialnego, wieloletnią prognozą finansową jednostki samorządu terytorialnego, programem wieloletnim wydanym na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.) lub planami, o których mowa w art. 20 pkt 1 lub 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
 3.
 Zgodę, o której mowa w ust. 1, dołącza się do wniosku o pozwolenie na budowę oraz zgłoszenia budowy lub wykonania robót budowlanych, o których mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane. Wyrażenie zgody następuje w drodze decyzji administracyjnej.
 4.
 Wyrażenie zgody, o której mowa w ust. 2, powinno nastąpić w terminie 21 dni od dnia wystąpienia z wnioskiem o taką zgodę. Niezajęcie stanowiska w tym terminie uznaje się za wyrażenie zgody. Odmowa wyrażenia zgody następuje w drodze decyzji administracyjnej.
 5.
 Jeżeli budowa drogi wymaga przełożenia podziemnych liniowych obiektów budowlanych, o których mowa w ust. 1, koszt ich przełożenia ponosi ich właściciel, w przypadku gdy nie upłynęło 10 lat od daty wydania zgody, o której mowa w ust. 1.
+Zmiany w przepisach obowiązujących
 Art. 29–32.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Przygotowanie strategicznej inwestycji w zakresie sieci przesyłowej
+
+#### Rozdział 3 – Nabywanie tytułu prawnego do nieruchomości dla strategicznej inwestycji w zakresie sieci przesyłowej
+
+#### Rozdział 4 – Postępowania administracyjne dla realizacji strategicznych inwestycji w zakresie sieci przesyłowych
+
+#### Rozdział 5 – Finansowanie strategicznych inwestycji w zakresie sieci przesyłowych
+
+#### Rozdział 5a – Zasady przygotowania i realizacji strategicznych inwestycji w zakresie sieci dystrybucyjnych
+
+#### Rozdział 6 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 7 – Przepisy przejściowe i końcowe
 
 **Art. 61.**
 
@@ -119,7 +142,7 @@ Art. 29–32.
 - **1)** art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
 - **2)** art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -137,13 +160,13 @@ Art. 29–32.
 - **3)** sieć przesyłowa – sieć przesyłową w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
 - **4)** strategiczna inwestycja w zakresie sieci przesyłowej – zadanie inwestycyjne wraz z wykonywaniem niezbędnych robót budowlanych w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, w szczególności budowy lub przebudowy obiektów, urządzeń, sieci i instalacji niezbędnych do budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki linii stanowiących elementy sieci przesyłowej, w tym stacji elektroenergetycznych, tymczasowych obiektów budowlanych, obiektów sieci gazowej, sieci i przyłączy elektroenergetycznych, wodociągowych, kanalizacyjnych, cieplnych, telekomunikacyjnych oraz infrastruktury drogowej lub kolejowej;
 - **4a)** strategiczna inwestycja w zakresie sieci dystrybucyjnej – zadanie inwestycyjne wraz z wykonywaniem niezbędnych robót budowlanych w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, w szczególności budowy lub przebudowy obiektów, urządzeń, sieci i instalacji niezbędnych do budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki infrastruktury składającej się na sieć dystrybucyjną o napięciu wyższym niż 400 V, w tym stacji elektroenergetycznych, tymczasowych obiektów budowlanych, obiektów sieci gazowej, sieci i przyłączy elektroenergetycznych, wodociągowych, kanalizacyjnych, cieplnych i telekomunikacyjnych oraz infrastruktury drogowej lub kolejowej, niebędące strategiczną inwestycją w zakresie sieci przesyłowej i niebędące inwestycją towarzyszącą określoną w wykazie, o którym mowa w art. 2, lub określoną w przepisach wykonawczych wydanych na podstawie art. 2a;
-- **5)** uzbrojenie terenu – urządzenia infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.), oraz ropociągi.
+- **5)** uzbrojenie terenu – urządzenia infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029.), oraz ropociągi.
 
 **Art. 2.** Wykaz strategicznych inwestycji w zakresie sieci przesyłowych oraz inwestycji towarzyszących, z wyłączeniem inwestycji towarzyszących polegających na przebudowie lub remoncie istniejących linii elektroenergetycznych stanowiących elementy sieci dystrybucyjnej o napięciu równym lub wyższym niż 110 kV, jest określony w załączniku do ustawy. Rada Ministrów określi, w drodze rozporządzenia, wykaz inwestycji towarzyszących polegających na przebudowie lub remoncie istniejących linii elektroenergetycznych stanowiących elementy sieci dystrybucyjnej o napięciu równym lub wyższym niż 110 kV, biorąc pod uwagę:
 
 - **1)** zachowanie niezawodności i bezpieczeństwa krajowego systemu elektroenergetycznego lub
 - **2)** konieczność realizacji obowiązków określonych w art. 15g ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, lub
-- **3)** konieczność budowy ogólnodostępnych stacji ładowania w rozumieniu art. 2 pkt 6 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, których łączna moc będzie równa lub większa niż 1 MW, w miejscach obsługi podróżnych zlokalizowanych wzdłuż transeuropejskiej sieci transportowej, o której mowa w art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającego decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.), lub
+- **3)** konieczność budowy ogólnodostępnych stacji ładowania w rozumieniu art. 2 pkt 6 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, których łączna moc będzie równa lub większa niż 1 MW, w miejscach obsługi podróżnych zlokalizowanych wzdłuż transeuropejskiej sieci transportowej, o której mowa w art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającego decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 09.05.2014, str. 10, Dz. Urz. UE L 126 z 14.05.2016, str. 3, Dz. Urz. UE L 128I z 19.05.2017, str. 1 oraz Dz. Urz. UE L 43 z 14.02.2019, str. 1., lub
 - **4)** znaczenie tych inwestycji dla wyprowadzenia mocy z systemu przesyłowego elektroenergetycznego.
 
 **Art. 3.** Strategiczne inwestycje w zakresie sieci przesyłowych są celami publicznymi w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. Przepisy ustawy stosuje się również do inwestycji w zakresie zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2024 r. poz. 182), z tym że inwestorem w odniesieniu do tych inwestycji jest wytwórca. Przepisy ustawy stosuje się również do inwestycji towarzyszących, z wyłączeniem art. 3a, art. 4 ust. 1 pkt 14 i ust. 2 pkt 2–2b, art. 8 ust. 1 pkt 10, art. 27c oraz art. 27d, z tym że w przypadku inwestycji towarzyszących przez:
@@ -156,7 +179,7 @@ Art. 29–32.
 - **6)** zgłoszenie dotyczące robót budowlanych w zakresie strategicznej inwestycji w zakresie sieci przesyłowej rozumie się zgłoszenie dotyczące robót budowlanych, o których mowa w art. 29 ust. 1 i 3 oraz art. 31 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, w zakresie inwestycji towarzyszącej;
 - **7)** Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej rozumie się ministra właściwego do spraw aktywów państwowych. Przepisy ustawy stosuje się również do inwestycji w zakresie zespołu urządzeń służących do wyprowadzenia mocy z jednostki wytwórczej będącej jednostką rynku mocy wytwórczą, o której mowa w art. 2 ust. 1 pkt 13 ustawy z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2023 r. poz. 2131), objętą umową mocową, o której mowa w art. 42 ust. 1 tej ustawy, z okresem trwania obowiązku mocowego wynoszącym co najmniej 5 lat, wymienionej w załączniku do ustawy, z tym że inwestorem w odniesieniu do tej inwestycji jest spółka handlowa w rozumieniu art. 1 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) realizująca te inwestycje.
 
-#### Rozdział 2 Przygotowanie strategicznej inwestycji w zakresie sieci przesyłowej
+#### Rozdział 2
 
 **Art. 4.**
 
@@ -195,11 +218,8 @@ Art. 29–32.
 
 2. Przed złożeniem wniosku o wydanie decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej inwestor występuje o opinie:
 
-- **1)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2023 r. poz. 151, 1688 i 1692);
-- **2)** ministrów właściwych do spraw: aktywów państwowych, gospodarki morskiej, energii, gospodarki, klimatu, gospodarki surowcami energetycznymi, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, wewnętrznych i Ministra Obrony Narodowej oraz właściwego dyrektora urzędu morskiego – w odniesieniu do wznoszenia lub wykorzystywania sztucznych wysp, konstrukcji i urządzeń w obszarach morskich Rzeczypospolitej Polskiej, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, a w przypadku zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – również Szefa Agencji Bezpieczeństwa Wewnętrznego;
-- **2a)** właściwego dyrektora urzędu morskiego oraz ministrów właściwych do spraw: energii, gospodarki, klimatu, gospodarki surowcami energetycznymi, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do układania i utrzymywania kabli lub rurociągów na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej; w przypadku gdy kable lub rurociągi będą przebiegały również na odcinku lądowym, inwestor występuje także o opinię właściwego wójta, burmistrza albo prezydenta miasta, a w przypadku zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – również Szefa Agencji Bezpieczeństwa Wewnętrznego;
-- **2b)** ministrów właściwych do spraw: gospodarki morskiej, energii, gospodarki, klimatu, gospodarki surowcami energetycznymi, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do lokalizacji oraz sposobów utrzymywania kabli lub rurociągów w wyłącznej strefie ekonomicznej, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, a w przypadku zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – również Szefa Agencji Bezpieczeństwa Wewnętrznego;
-- **3)** Ministra Obrony Narodowej – w odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności państwa, ustalone na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.);
+- **1)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2023 r. poz. 151, 1688 i 1692); 2Ze zmianą wprowadzoną przez art. 39 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.) ministrów właściwych do spraw: aktywów państwowych, gospodarki morskiej, energii, gospodarki, klimatu, gospodarki surowcami energetycznymi, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, wewnętrznych i Ministra Obrony Narodowej oraz właściwego dyrektora urzędu morskiego – w odniesieniu do wznoszenia lub wykorzystywania sztucznych wysp, konstrukcji i urządzeń w obszarach morskich Rzeczypospolitej Polskiej, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, a w przypadku zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – również Szefa Agencji Bezpieczeństwa Wewnętrznego; 2aZe zmianą wprowadzoną przez art. 39 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.) właściwego dyrektora urzędu morskiego oraz ministrów właściwych do spraw: energii, gospodarki, klimatu, gospodarki surowcami energetycznymi, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do układania i utrzymywania kabli lub rurociągów na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej; w przypadku gdy kable lub rurociągi będą przebiegały również na odcinku lądowym, inwestor występuje także o opinię właściwego wójta, burmistrza albo prezydenta miasta, a w przypadku zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – również Szefa Agencji Bezpieczeństwa Wewnętrznego; 2bZe zmianą wprowadzoną przez art. 39 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.) ministrów właściwych do spraw: gospodarki morskiej, energii, gospodarki, klimatu, gospodarki surowcami energetycznymi, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do lokalizacji oraz sposobów utrzymywania kabli lub rurociągów w wyłącznej strefie ekonomicznej, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, a w przypadku zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – również Szefa Agencji Bezpieczeństwa Wewnętrznego;
+- **3)** Ministra Obrony Narodowej – w odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności państwa, ustalone na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739.);
 - **4)** właściwego dyrektora urzędu morskiego – w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
 - **5)** organu właściwego w sprawach terenów zagrożonych osuwaniem się mas ziemnych – w odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych;
 - **6)** dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, zgodnie z przepisami ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2024 r. poz. 530);
@@ -290,7 +310,7 @@ Art. 29–32.
 4. W przypadku gdy po doręczeniu zawiadomienia, o którym mowa w ust. 1, nastąpi:
 
 - **1)** zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej,
-- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego. Niedokonanie zgłoszenia i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
+- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej – nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego. Niedokonanie zgłoszenia i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
 
 5. Czynność prawna dokonana z naruszeniem ust. 2 pkt 1 jest nieważna.
 
@@ -396,9 +416,7 @@ Art. 29–32.
 
 5. Organem wyższego stopnia w stosunku do wojewody w sprawach pozwolenia na budowę strategicznej inwestycji w zakresie sieci przesyłowej lub pozwolenia na rozbiórkę tej inwestycji jest Główny Inspektor Nadzoru Budowlanego.
 
-6. Ilekroć w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej.
-
-7. Do strategicznych inwestycji w zakresie sieci przesyłowych nie stosuje się przepisów art. 32 ust. 1 pkt 3 i 4 oraz art. 35 ust. 5 pkt 3 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+6. Ilekroć w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej. 7Ze zmianą wprowadzoną przez art. 39 pkt 2 ustawy, o której mowa w odnośniku 3.. Do strategicznych inwestycji w zakresie sieci przesyłowych nie stosuje się przepisów art. 32 ust. 1 pkt 3 i 4 oraz art. 35 ust. 5 pkt 3 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
 8. Zmiana oznaczenia w katastrze nieruchomości, dotycząca nieruchomości objętej decyzją o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej, dokonana po wydaniu tej decyzji, wynikająca w szczególności z podziału nieruchomości, scalenia i podziału nieruchomości, scalenia i wymiany gruntów lub aktualizacji operatu ewidencyjnego, nie stanowi przeszkody do wydania decyzji o pozwoleniu na budowę.
 
@@ -528,7 +546,7 @@ Art. 29–32.
 
 4. Drewno pozyskane z wycinki drzew i krzewów znajdujących się na gruntach będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe staje się nieodpłatnie własnością Państwowego Gospodarstwa Leśnego Lasy Państwowe.
 
-#### Rozdział 3 Nabywanie tytułu prawnego do nieruchomości dla strategicznej inwestycji w zakresie sieci przesyłowej
+#### Rozdział 3
 
 **Art. 19.**
 
@@ -664,7 +682,7 @@ Art. 29–32.
 
 **Art. 24.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, przy czym ilekroć w przepisach tej ustawy jest mowa o decyzji o ustaleniu lokalizacji inwestycji celu publicznego, rozumie się przez to także decyzję o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej. Przepisu art. 9 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się.
 
-#### Rozdział 4 Postępowania administracyjne dla realizacji strategicznych inwestycji w zakresie sieci przesyłowych
+#### Rozdział 4
 
 **Art. 25.**
 
@@ -759,7 +777,7 @@ Art. 29–32.
 
 4. Przez inwestora, o którym mowa w art. 1 ust. 2 pkt 1, rozumie się również podmiot, na który została przeniesiona decyzja.
 
-#### Rozdział 5 Finansowanie strategicznych inwestycji w zakresie sieci przesyłowych
+#### Rozdział 5
 
 **Art. 28.**
 
@@ -772,11 +790,11 @@ Art. 29–32.
 
 2. Koszty realizacji strategicznych inwestycji w zakresie sieci przesyłowych stanowią koszty uzasadnione w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, dotyczących kalkulacji taryfy.
 
-#### Rozdział 5a Zasady przygotowania i realizacji strategicznych inwestycji w zakresie sieci dystrybucyjnych
+#### Rozdział 5a
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących
+#### Rozdział 6
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7
 
 **Art. 33.** Do postępowań w sprawach dotyczących strategicznych inwestycji w zakresie sieci przesyłowych, wszczętych i niezakończonych do dnia wejścia w życie ustawy, stosuje się przepisy dotychczasowe lub na wniosek inwestora przepisy ustawy.
 
@@ -798,9 +816,9 @@ Art. 29–32.
 
 **Art. 35.**
 
-1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 31 sierpnia 2015 r..
 
-2. (uchylony) Załącznik – Wykaz strategicznych inwestycji w zakresie sieci przesyłowych oraz inwestycji towarzyszących, z wyłączeniem inwestycji towarzyszących polegających na przebudowie lub remoncie istniejących linii elektroenergetycznych stanowiących elementy sieci dystrybucyjnej o napięciu równym lub wyższym niż 110 kV I. Wykaz strategicznych inwestycji w zakresie sieci przesyłowych:
+2. (uchylony) 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 09.05.2014, str. 10, Dz. Urz. UE L 126 z 14.05.2016, str. 3, Dz. Urz. UE L 128I z 19.05.2017, str. 1 oraz Dz. Urz. UE L 43 z 14.02.2019, str. 1. 3) Ze zmianą wprowadzoną przez art. 39 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1506, 1597, 1688, 1890, 2029 i 2739. 5) Ze zmianą wprowadzoną przez art. 39 pkt 2 ustawy, o której mowa w odnośniku 3. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089. 7) Ustawa została ogłoszona w dniu 31 sierpnia 2015 r. Załącznik – Wykaz strategicznych inwestycji w zakresie sieci przesyłowych oraz inwestycji towarzyszących, z wyłączeniem inwestycji towarzyszących polegających na przebudowie lub remoncie istniejących linii elektroenergetycznych stanowiących elementy sieci dystrybucyjnej o napięciu równym lub wyższym niż 110 kV I. Wykaz strategicznych inwestycji w zakresie sieci przesyłowych:
 
 1. Budowa linii 400 kV Ełk Bis – Granica RP.
 

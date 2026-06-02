@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 maja 1996 r. o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 1972), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 stycznia 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17–19 ustawy z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17–19 ustawy z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834), które stanowią: „
 
 **Art. 17.**
 
@@ -60,13 +59,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. Przez członków rodziny rozumie się małżonka oraz dzieci spełniające warunki określone w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin do uzyskania renty rodzinnej.
 
-**Art. 2.**
-
-1. Byłemu Prezydentowi przysługuje dożywotnio miesięczne uposażenie w wysokości odpowiadającej 75% kwot wynagrodzenia zasadniczego i dodatku funkcyjnego ustalonych w przepisach o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe dla Prezydenta Rzeczypospolitej Polskiej, zwane dalej „uposażeniem”; przy ustaleniu uposażenia uwzględnia się dodatek za wieloletnią pracę w urzędach państwowych ustalany odpowiednio na podstawie art. 22 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2020 r. poz. 537 oraz z 2021 r. poz. 2447 i 2448).
-
-2. Uposażenie wypłaca się po zakończeniu okresu, za który przysługuje wynagrodzenie ustalone dla Prezydenta Rzeczypospolitej Polskiej.
-
-3. Uposażenie traktuje się w zakresie ubezpieczeń społecznych oraz przepisów podatkowych tak jak wynagrodzenie za pracę.
+**Art. 2.** 1W brzmieniu ustalonym przez art. 4 ustawy z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834), która weszła w życie z dniem 1 listopada 2021 r.. Byłemu Prezydentowi przysługuje dożywotnio miesięczne uposażenie w wysokości odpowiadającej 75% kwot wynagrodzenia zasadniczego i dodatku funkcyjnego ustalonych w przepisach o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe dla Prezydenta Rzeczypospolitej Polskiej, zwane dalej „uposażeniem”; przy ustaleniu uposażenia uwzględnia się dodatek za wieloletnią pracę w urzędach państwowych ustalany odpowiednio na podstawie art. 22 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2020 r. poz. 537 oraz z 2021 r. poz. 2447 i 2448). 2. Uposażenie wypłaca się po zakończeniu okresu, za który przysługuje wynagrodzenie ustalone dla Prezydenta Rzeczypospolitej Polskiej. 3. Uposażenie traktuje się w zakresie ubezpieczeń społecznych oraz przepisów podatkowych tak jak wynagrodzenie za pracę.
 
 **Art. 3.**
 
@@ -75,7 +68,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** wykonywania mandatu posła lub senatora,
 - **2)** zajmowania kierowniczego stanowiska państwowego w rozumieniu art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2020 r. poz. 1637 oraz z 2021 r. poz. 1834),
 - **3)** pozostawania w stosunku pracy lub w stałym stosunku zlecenia,
-- **4)** prowadzenia działalności gospodarczej wypłaca się tylko jedno z nich wybrane przez byłego Prezydenta.
+- **4)** prowadzenia działalności gospodarczej – wypłaca się tylko jedno z nich wybrane przez byłego Prezydenta.
 
 2. W razie zbiegu prawa do emerytury lub renty inwalidzkiej określonych w przepisach o zaopatrzeniu emerytalnym lub ubezpieczeniu społecznym z prawem do uposażenia, wypłaca się tylko jedno z tych świadczeń wybrane przez byłego Prezydenta.
 
@@ -95,5 +88,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 9.** Wydatki wynikające z uprawnień określonych w art. 2 i art. 4 ustawy są pokrywane z budżetu państwa w części dotyczącej Kancelarii Prezydenta.
 
-**Art. 10.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 4 lipca 1996 r.. 1) W brzmieniu ustalonym przez art. 4 ustawy z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834), która weszła w życie z dniem 1 listopada 2021 r. 2) Ustawa została ogłoszona w dniu 4 lipca 1996 r.
 

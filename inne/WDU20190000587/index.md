@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 26 marca 2019 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie na inwestycje zwiększające odporność ekosystemów leśnych i ich wartość dla środowiska” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 26 marca 2019 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie na inwestycje zwiększające odporność ekosystemów leśnych i ich wartość dla środowiska” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-26 |
 | Data wydania | 2019-03-28 |
-| Wejście w życie | 2019-03-29 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/587/text.pdf) |
 
@@ -51,7 +50,7 @@ przypadki, w których następca prawny podmiotu ubiegającego się o przyznanie 
 5)
 przypadki, w których następcy prawnemu beneficjenta jest przyznawana pomoc, oraz warunki i tryb przyznania tej pomocy;
 6)
-wysokość zmniejszeń kwot pomocy, o których mowa w art. 64 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.), zwanego dalej „rozporządzeniem nr 1306/2013”.
+wysokość zmniejszeń kwot pomocy, o których mowa w art. 64 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 256 z 01.10.2015, str. 9, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 242 z 09.09.2016, str. 22 i Dz. Urz. UE L 350 z 29.12.2017, str. 15., zwanego dalej „rozporządzeniem nr 1306/2013”.
 § 2.
 1.
 Pomoc jest przyznawana osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, z wyłączeniem jednostek organizacyjnych nieposiadających osobowości prawnej reprezentujących Skarb Państwa w zakresie zarządzania mieniem stanowiącym własność Skarbu Państwa, jeżeli:
@@ -60,7 +59,7 @@ został jej nadany numer identyfikacyjny w trybie przepisów o krajowym systemie
 2)
 zobowiązała się do wykonania inwestycji, o których mowa w ust. 2, zgodnie z wymogami planu inwestycji zwiększających odporność ekosystemów leśnych i ich wartość dla środowiska, o którym mowa w art. 35 ust. 5 pkt 2 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2018 r. poz. 2129 i 2161 oraz z 2019 r. poz. 83 i 125), zwanego dalej „planem inwestycji”, sporządzonym przez nadleśniczego Państwowego Gospodarstwa Leśnego Lasy Państwowe, zwanego dalej „nadleśniczym”.
 2.
-Pomoc jest przyznawana w formie ryczałtu, na operację, która obejmuje inwestycje, o których mowa w art. 25 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), polegające na:
+Pomoc jest przyznawana w formie ryczałtu, na operację, która obejmuje inwestycje, o których mowa w art. 25 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.05.2016, str. 8, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 30 z 02.02.2018, str. 6, Dz. Urz. UE L 16 z 18.01.2019, str. 1 i Dz. Urz. UE L 53 z 22.02.2019, str. 14., polegające na:
 1)
 przebudowie składu gatunkowego drzewostanu przez:
 a)
@@ -121,7 +120,7 @@ operacje obejmujące inwestycje, o których mowa w § 2 ust. 2 pkt 4, za które 
 h)
 operacje obejmujące inwestycje planowane na gruntach położonych przynajmniej w części na obszarach zagrożonych erozją wodną określonych w załączniku do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 marca 2015 r. w sprawie norm w zakresie dobrej kultury rolnej zgodnej z ochroną środowiska (Dz. U. poz. 344, z 2016 r. poz. 330 oraz z 2018 r. poz. 532 i 1444), za które przyznaje się 8 pkt,
 i)
-operacje obejmujące inwestycje planowane na gruntach położonych przynajmniej w części na obszarach ONW określonych w załączniku do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 329, z późn. zm.), za które przyznaje się 6 pkt;
+operacje obejmujące inwestycje planowane na gruntach położonych przynajmniej w części na obszarach ONW określonych w załączniku do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 329, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. poz. 1127, z 2010 r. poz. 219 i 1185, z 2011 r. poz. 286, z 2012 r. poz. 272, z 2014 r. poz. 323 oraz z 2015 r. poz. 347.), za które przyznaje się 6 pkt;
 2)
 jeżeli operacja uzyskała co najmniej 8 punktów.
 2.
@@ -236,7 +235,7 @@ Podmiot ubiegający się o przyznanie pomocy może dokonać zmiany złożonego w
 1)
 w wyniku której nastąpi zwiększenie pomocy lub która wpłynie na spełnienie kryteriów, o których mowa w § 3 ust. 1 pkt 1, najpóźniej 21 dni przed terminem podania do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję, informacji, o której mowa w § 8 ust. 4, lub
 2)
-do dnia poprzedzającego dzień, w którym został on powiadomiony przez Agencję o zamiarze przeprowadzenia kontroli na miejscu, o której mowa w art. 59 ust. 1 rozporządzenia nr 1306/2013, lub wizyty, o której mowa w art. 48 ust. 5 rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.).
+do dnia poprzedzającego dzień, w którym został on powiadomiony przez Agencję o zamiarze przeprowadzenia kontroli na miejscu, o której mowa w art. 59 ust. 1 rozporządzenia nr 1306/2013, lub wizyty, o której mowa w art. 48 ust. 5 rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87, Dz. Urz. UE L 178 z 11.07.2017, str. 4, Dz. Urz. UE L 119 z 15.05.2018, str. 29 i Dz. Urz. UE. L 125 z 22.05.2018, str. 1..
 § 8.
 1.
 Kierownik biura powiatowego Agencji, w drodze decyzji, odmawia przyznania pomocy, jeżeli:
@@ -255,10 +254,9 @@ W przypadku gdy:
 1)
 są spełnione warunki określone w § 2,
 2)
-suma punktów uzyskanych przez operację nie jest niższa niż liczba punktów określona w § 3 ust. 1 pkt 2
-kierownik biura powiatowego Agencji, w terminie 7 dni od dnia podania do publicznej wiadomości informacji, o której mowa w ust. 4, wydaje postanowienie o spełnieniu warunków przyznania pomocy i uzyskaniu przez operację co najmniej takiej sumy punktów.
+suma punktów uzyskanych przez operację nie jest niższa niż liczba punktów określona w § 3 ust. 1 pkt 2 – kierownik biura powiatowego Agencji, w terminie 7 dni od dnia podania do publicznej wiadomości informacji, o której mowa w ust. 4, wydaje postanowienie o spełnieniu warunków przyznania pomocy i uzyskaniu przez operację co najmniej takiej sumy punktów.
 6.
-Postanowienie, o którym mowa w ust. 5, zawiera pouczenie o warunkach dotyczących formy, sposobu i terminu poinformowania Agencji o wykonanej inwestycji oraz informację o obowiązku, o którym mowa w części 1 pkt 2.2 lit. b załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.), zwanego dalej „rozporządzeniem nr 808/2014”.
+Postanowienie, o którym mowa w ust. 5, zawiera pouczenie o warunkach dotyczących formy, sposobu i terminu poinformowania Agencji o wykonanej inwestycji oraz informację o obowiązku, o którym mowa w części 1 pkt 2.2 lit. b załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33, Dz. Urz. UE L 308 z 16.11.2016, str. 5 i Dz. Urz. UE L 194 z 31.07.2018, str. 44., zwanego dalej „rozporządzeniem nr 808/2014”.
 § 9.
 1.
 Inwestycje, o których mowa w § 2 ust. 2, wykonuje się po otrzymaniu postanowienia, o którym mowa w § 8 ust. 5, w terminie 10 miesięcy od dnia otrzymania tego postanowienia.
@@ -273,16 +271,14 @@ Beneficjent przechowuje dowody zakupu:
 1)
 sadzonek przeznaczonych do wykonania inwestycji, o których mowa w § 2 ust. 2 pkt 1–3, wraz z etykietą dostawcy zarejestrowanego w rejestrze dostawców, o którym mowa w ustawie z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym (Dz. U. z 2017 r. poz. 116 oraz z 2018 r. poz. 1669),
 2)
-materiałów użytych do zabezpieczenia drzewek – w przypadku wykonania inwestycji, o której mowa w § 2 ust. 2 pkt 5
-przez 5 lat od dnia wypłaty pomocy.
+materiałów użytych do zabezpieczenia drzewek – w przypadku wykonania inwestycji, o której mowa w § 2 ust. 2 pkt 5 – przez 5 lat od dnia wypłaty pomocy.
 § 10.
 1.
 Podmiot ubiegający się o przyznanie pomocy:
 1)
 informuje nadleśniczego o wykonaniu inwestycji, o których mowa w § 2 ust. 2, na piśmie, w terminie 7 dni od dnia wykonania inwestycji,
 2)
-składa kierownikowi biura powiatowego Agencji, do którego został złożony wniosek o przyznanie pomocy, oświadczenie o wykonaniu inwestycji zgodnie z wymogami planu inwestycji wraz z zaświadczeniem nadleśniczego potwierdzającym ten fakt, w terminie 7 dni od dnia uzyskania tego zaświadczenia
-nie później jednak niż w terminie 10 miesięcy od dnia otrzymania postanowienia, o którym mowa w § 8 ust. 5.
+składa kierownikowi biura powiatowego Agencji, do którego został złożony wniosek o przyznanie pomocy, oświadczenie o wykonaniu inwestycji zgodnie z wymogami planu inwestycji wraz z zaświadczeniem nadleśniczego potwierdzającym ten fakt, w terminie 7 dni od dnia uzyskania tego zaświadczenia – nie później jednak niż w terminie 10 miesięcy od dnia otrzymania postanowienia, o którym mowa w § 8 ust. 5.
 2.
 W przypadku gdy podmiot ubiegający się o przyznanie pomocy nie złożył oświadczenia o wykonaniu inwestycji zgodnie z wymogami planu inwestycji wraz z zaświadczeniem nadleśniczego potwierdzającym ten fakt, w terminie 10 miesięcy od dnia otrzymania postanowienia, o którym mowa w § 8 ust. 5, kierownik biura powiatowego Agencji wzywa ten podmiot, na piśmie, do złożenia tego oświadczenia wraz z tym zaświadczeniem, w terminie 7 dni od dnia doręczenia wezwania.
 § 11.
@@ -296,8 +292,7 @@ pkt 1–3, przy użyciu liczby sadzonek drzew na hektar określonej w załączni
 2)
 nie założył remizy o powierzchni 10 arów, z tolerancją do 10% – w przypadku realizacji inwestycji, o której mowa w § 2 ust. 2 pkt 3, lub
 3)
-nie posiada dokumentów, o których mowa w § 9 ust. 3
-kierownik biura powiatowego Agencji wzywa ten podmiot, na piśmie, odpowiednio do wykonania inwestycji zgodnie z wymogami planu inwestycji lub zgodnie z § 9 ust. 2 pkt 2, lub do założenia remizy o powierzchni 10 arów oraz do złożenia oświadczenia o wykonaniu tych czynności lub dostarczenia dokumentów, o których mowa w § 9 ust. 3, w terminie 30 dni od dnia doręczenia wezwania.
+nie posiada dokumentów, o których mowa w § 9 ust. 3 – kierownik biura powiatowego Agencji wzywa ten podmiot, na piśmie, odpowiednio do wykonania inwestycji zgodnie z wymogami planu inwestycji lub zgodnie z § 9 ust. 2 pkt 2, lub do założenia remizy o powierzchni 10 arów oraz do złożenia oświadczenia o wykonaniu tych czynności lub dostarczenia dokumentów, o których mowa w § 9 ust. 3, w terminie 30 dni od dnia doręczenia wezwania.
 § 12.
 1.
 Kierownik biura powiatowego Agencji, w drodze decyzji, odmawia przyznania pomocy, jeżeli podmiot ubiegający się o przyznanie pomocy:
@@ -322,8 +317,7 @@ zgodnie z wymogami planu inwestycji,
 b)
 pkt 1–3, przy użyciu liczby sadzonek drzew na hektar określonej w załączniku nr 4 do rozporządzenia, z tolerancją do 10% – w przypadku realizacji tych inwestycji, oraz
 3)
-założył remizę o powierzchni 10 arów, z tolerancją do 10% – w przypadku realizacji inwestycji, o której mowa w § 2 ust. 2 pkt 3
-kierownik biura powiatowego Agencji, w drodze decyzji, przyznaje pomoc, w terminie 60 dni od dnia złożenia tego oświadczenia.
+założył remizę o powierzchni 10 arów, z tolerancją do 10% – w przypadku realizacji inwestycji, o której mowa w § 2 ust. 2 pkt 3 – kierownik biura powiatowego Agencji, w drodze decyzji, przyznaje pomoc, w terminie 60 dni od dnia złożenia tego oświadczenia.
 3.
 Pomoc wypłaca się w terminie 30 dni od dnia, w którym decyzja o przyznaniu pomocy stała się ostateczna.
 § 13.
@@ -350,8 +344,7 @@ Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowan
 1)
 dołącza do wniosku, o którym mowa w ust. 2, albo
 2)
-składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 6
-oświadczenia pozostałych spadkobierców podmiotu ubiegającego się o przyznanie pomocy o wyrażeniu zgody na wstąpienie tego spadkobiercy na miejsce zmarłego podmiotu ubiegającego się o przyznanie pomocy i przyznanie temu spadkobiercy pomocy.
+składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 6 – oświadczenia pozostałych spadkobierców podmiotu ubiegającego się o przyznanie pomocy o wyrażeniu zgody na wstąpienie tego spadkobiercy na miejsce zmarłego podmiotu ubiegającego się o przyznanie pomocy i przyznanie temu spadkobiercy pomocy.
 8.
 Zgoda, o której mowa w ust. 7, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 2, został złożony przez spadkobiercę podmiotu ubiegającego się o przyznanie pomocy będącego przedstawicielem ustawowym tego małoletniego.
 9.
@@ -412,8 +405,7 @@ odpisem prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku – w ter
 2)
 zarejestrowanym aktem poświadczenia dziedziczenia sporządzonym przez notariusza – w terminie 14 dni od dnia wpisu aktu poświadczenia dziedziczenia do rejestru aktów poświadczenia dziedziczenia, albo
 3)
-oświadczeniem tego spadkobiercy o złożeniu wniosku o stwierdzenie nabycia spadku, zawierającym wskazanie imienia, nazwiska i numeru identyfikacyjnego podmiotu ubiegającego się o przyznanie pomocy, którego jest spadkobiercą, w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku
-jednak nie później niż przed upływem 6 miesięcy od dnia doręczenia temu beneficjentowi decyzji, o której mowa w ust. 1.
+oświadczeniem tego spadkobiercy o złożeniu wniosku o stwierdzenie nabycia spadku, zawierającym wskazanie imienia, nazwiska i numeru identyfikacyjnego podmiotu ubiegającego się o przyznanie pomocy, którego jest spadkobiercą, w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku – jednak nie później niż przed upływem 6 miesięcy od dnia doręczenia temu beneficjentowi decyzji, o której mowa w ust. 1.
 7.
 W przypadku, o którym mowa w ust. 6 pkt 3, spadkobierca beneficjenta składa odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia.
 8.
@@ -425,8 +417,7 @@ Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowan
 1)
 dołącza do tego wniosku albo
 2)
-składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 7
-oświadczenia pozostałych spadkobierców o wyrażeniu zgody na wypłatę temu spadkobiercy pomocy.
+składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 7 – oświadczenia pozostałych spadkobierców o wyrażeniu zgody na wypłatę temu spadkobiercy pomocy.
 11.
 Zgoda, o której mowa w ust. 10, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 6, został złożony przez spadkobiercę będącego przedstawicielem ustawowym tego małoletniego.
 12.
@@ -439,7 +430,7 @@ Do zapisobiercy windykacyjnego, który w wyniku śmierci beneficjenta nabył, ja
 Jeżeli zostanie stwierdzone, że obowiązek, o którym mowa w części 1 pkt 2.2 lit. b załącznika III do rozporządzenia nr 808/2014, nie został spełniony, pomoc przysługuje w wysokości zmniejszonej o 1%.
 § 18.
 1.
-Beneficjent zwraca pomoc, jeżeli nie zachował trwałości operacji zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), w szczególności jeżeli przed upływem 5 lat od dnia wypłaty tej pomocy:
+Beneficjent zwraca pomoc, jeżeli nie zachował trwałości operacji zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1 i Dz. Urz. UE L 193 z 30.07.2018, str. 1., w szczególności jeżeli przed upływem 5 lat od dnia wypłaty tej pomocy:
 1)
 wykonane inwestycje, o których mowa w § 2 ust. 2 pkt 1–3, zostały zlikwidowane;
 2)
@@ -451,8 +442,7 @@ W przypadku, o którym mowa w ust. 1 pkt 2, beneficjent zwraca jedynie część 
 4.
 Beneficjent zwraca pomoc na inwestycję, o której mowa w § 2 ust. 2 pkt 3, w części przeznaczonej na ogrodzenie remizy, jeżeli nie utrzymał tego ogrodzenia do dnia, w którym upływa 5 lat od dnia wypłaty pomocy, lub siatka użyta do ogrodzenia nie spełniała wymagań określonych w załączniku nr 1 do rozporządzenia w okresie 5 lat od dnia wypłaty pomocy.
 § 19.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 256 z 01.10.2015, str. 9, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 242 z 09.09.2016, str. 22 i Dz. Urz. UE L 350 z 29.12.2017, str. 15. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.05.2016, str. 8, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 30 z 02.02.2018, str. 6, Dz. Urz. UE L 16 z 18.01.2019, str. 1 i Dz. Urz. UE L 53 z 22.02.2019, str. 14. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. poz. 1127, z 2010 r. poz. 219 i 1185, z 2011 r. poz. 286, z 2012 r. poz. 272, z 2014 r. poz. 323 oraz z 2015 r. poz. 347. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87, Dz. Urz. UE L 178 z 11.07.2017, str. 4, Dz. Urz. UE L 119 z 15.05.2018, str. 29 i Dz. Urz. UE. L 125 z 22.05.2018, str. 1. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33, Dz. Urz. UE L 308 z 16.11.2016, str. 5 i Dz. Urz. UE L 194 z 31.07.2018, str. 44. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1 i Dz. Urz. UE L 193 z 30.07.2018, str. 1.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 256 z 01.10.2015, str. 9, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 242 z 09.09.2016, str. 22 i Dz. Urz. UE L 350 z 29.12.2017, str. 15. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.05.2016, str. 8, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 30 z 02.02.2018, str. 6, Dz. Urz. UE L 16 z 18.01.2019, str. 1 i Dz. Urz. UE L 53 z 22.02.2019, str. 14. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. poz. 1127, z 2010 r. poz. 219 i 1185, z 2011 r. poz. 286, z 2012 r. poz. 272, z 2014 r. poz. 323 oraz z 2015 r. poz. 347. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87, Dz. Urz. UE L 178 z 11.07.2017, str. 4, Dz. Urz. UE L 119 z 15.05.2018, str. 29 i Dz. Urz. UE. L 125 z 22.05.2018, str. 1. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33, Dz. Urz. UE L 308 z 16.11.2016, str. 5 i Dz. Urz. UE L 194 z 31.07.2018, str. 44. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1 i Dz. Urz. UE L 193 z 30.07.2018, str. 1.
 
 ## Załącznik nr 1 — – Elementy planu inwestycji
 
@@ -464,19 +454,24 @@ Dane dotyczące gruntu, z wyszczególnieniem:
 nazwy województwa, gminy oraz obrębu geodezyjnego;
 2)
 danych dotyczących gruntu, na którym są realizowane poszczególne rodzaje inwestycji, zgodnie z tabelą nr 1.
-Tabela 1. DANE DOTYCZĄCE GRUNTU, NA KTÓRYM SĄ REALIZOWANE POSZCZEGÓLNE RODZAJE INWESTYCJI
-Numer działki ewidencyjnej, na której jest realizowana inwestycja Powierzchnia, na której jest realizowana inwestycja (ha) lub długość ogrodzenia remizy (mb)1) Rodzaj inwestycji Średni wiek drzewostanu2) Termin wykonania inwestycji3) Uwagi Przebudowa składu gatunkowego drzewostanu przez wprowadzenie drugiego piętra w drzewostanie Przebudowa składu gatunkowego drzewostanu przez dolesianie luk powstałych w wyniku procesu chorobowego wraz z zabezpieczeniem pniaków po wyciętych drzewach Zróżnicowanie struktury drzewostanu przez wprowadzenie podszytu Założenie remizy Czyszczenia późne Zabezpieczenie drzewek repelentami Zabezpieczenie drzewek osłonkami \ Ogrodzenie remiz – ogrodzenie siatką metalową o wysokości minimum 2 m 1) Podać z dokładnością do dwóch miejsc po przecinku. 2) Średni wiek drzewostanu – średni wiek gatunku panującego w drzewostanie. 3) Podać rok oraz miesiąc, do końca którego powinna zostać wykonana inwestycja, biorąc pod uwagę, że ostateczny termin na złożenie oświadczenia o wykonaniu inwestycji, zgodnie z wymogami planu inwestycji, wraz z zaświadczeniem nadleśniczego potwierdzającym ten fakt, upływa w terminie określonym w § 9 ust. 1 rozporządzenia.
+Tabela 1.
+DANE DOTYCZĄCE GRUNTU, NA KTÓRYM SĄ REALIZOWANE POSZCZEGÓLNE RODZAJE INWESTYCJI
+Numer działki ewidencyjnej, na której jest realizowana inwestycja Powierzchnia, na której jest realizowana inwestycja (ha) lub długość ogrodzenia remizy (mb)1) Rodzaj inwestycji Średni wiek drzewostanu2) Termin wykonania inwestycji3) Uwagi Przebudowa składu gatunkowego drzewostanu przez wprowadzenie drugiego piętra w drzewostanie Przebudowa składu gatunkowego drzewostanu przez dolesianie luk powstałych w wyniku procesu chorobowego wraz z zabezpieczeniem pniaków po wyciętych drzewach Zróżnicowanie struktury drzewostanu przez wprowadzenie podszytu Założenie remizy Czyszczenia późne Zabezpieczenie drzewek repelentami Zabezpieczenie drzewek osłonkami \ Ogrodzenie remiz – ogrodzenie siatką metalową o wysokości minimum 2 m
+1) Podać z dokładnością do dwóch miejsc po przecinku. 2) Średni wiek drzewostanu – średni wiek gatunku panującego w drzewostanie. 3) Podać rok oraz miesiąc, do końca którego powinna zostać wykonana inwestycja, biorąc pod uwagę, że ostateczny termin na złożenie oświadczenia o wykonaniu inwestycji, zgodnie z wymogami planu inwestycji, wraz z zaświadczeniem nadleśniczego potwierdzającym ten fakt, upływa w terminie określonym w § 9 ust. 1 rozporządzenia.
 2.
 Określenie składu gatunkowego dla poszczególnych inwestycji, zgodnie z tabelą nr 2.
-Tabela 2. SKŁAD GATUNKOWY DLA POSZCZEGÓLNYCH RODZAJÓW INWESTYCJI
+Tabela 2.
+SKŁAD GATUNKOWY DLA POSZCZEGÓLNYCH RODZAJÓW INWESTYCJI
 Rodzaj inwestycji Powierzchnia, na której są wprowadzane gatunki i rodzaje drzew i krzewów Powierzchnia, na której jest realizowana inwestycja Numer działki ewidencyjnej, na której jest realizowana inwestycja ha ha Przebudowa składu gatunkowego drzewostanu przez wprowadzenie drugiego piętra w drzewostanie gatunek powierzchnia Przebudowa składu gatunkowego drzewostanu przez dolesianie luk powstałych w wyniku procesu chorobowego wraz z zabezpieczeniem pniaków po wyciętych drzewach gatunek powierzchnia Zróżnicowanie struktury drzewostanu przez wprowadzenie podszytu gatunek powierzchnia Założenie remizy gatunek powierzchnia
 3.
 Określenie powierzchni luk podlegających dolesieniu, zgodnie z tabelą nr 3.
-Tabela 3. POWIERZCHNIA LUK PODLEGAJĄCYCH DOLESIENIU
+Tabela 3.
+POWIERZCHNIA LUK PODLEGAJĄCYCH DOLESIENIU
 Numer działki ewidencyjnej, na której jest realizowana inwestycja Powierzchnia luk w drzewostanie Rodzaj procesu chorobowego ha
 4.
 Określenie odległości między sadzonkami drzew i krzewów (więźby), warunków techniczno-produkcyjnych sadzonek oraz liczby sadzonek na hektar potrzebnych do wprowadzenia drugiego piętra w drzewostanie, podszytu, dolesienia luk lub założenia remizy, zgodnie z tabelą nr 4.
-Tabela 4. LICZBA SADZONEK, W PRZYPADKU WPROWADZENIA DRUGIEGO PIĘTRA W DRZEWOSTANIE, PODSZYTU, DOLESIENIA LUK LUB ZAŁOŻENIA REMIZY
+Tabela 4.
+LICZBA SADZONEK, W PRZYPADKU WPROWADZENIA DRUGIEGO PIĘTRA W DRZEWOSTANIE, PODSZYTU, DOLESIENIA LUK LUB ZAŁOŻENIA REMIZY
 Numer działki ewidencyjnej, na której jest realizowana inwestycja Rodzaj inwestycji Gatunek Wiek sadzonek Przyjęta więźba sadzenia dla sadzonek Powierzchnia inwestycji Liczba sadzonek dla poszczególnych inwestycji Liczba sadzonek na 1 ha ha tys. szt. tys. szt /ha Przebudowa składu gatunkowego drzewostanu przez wprowadzenie drugiego piętra w drzewostanie Przebudowa składu gatunkowego drzewostanu przez dolesianie luk powstałych w wyniku procesu chorobowego wraz z zabezpieczeniem pniaków po wyciętych drzewach Zróżnicowanie struktury drzewostanu przez wprowadzenie podszytu Założenie remizy
 5.
 Informacje dotyczące wykonania poszczególnych rodzajów inwestycji, obejmujące w szczególności:
@@ -512,12 +507,16 @@ B.
 WYMOGI PLANU INWESTYCJI
 1.
 Określenie powierzchni gruntu, długości ogrodzenia oraz remiz, stanowiących podstawę do obliczenia pomocy, zgodnie z tabelą nr 5.
-Tabela 5. RODZAJ INWESTYCJI
-Lp. Rodzaj inwestycji Jednostka miary Powierzchnia/Długość/Liczba 1. Przebudowa składu gatunkowego drzewostanu przez wprowadzenie drugiego piętra w drzewostanie A. Na gruntach w warunkach korzystnych ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 2. Przebudowa składu gatunkowego drzewostanu przez dolesianie luk powstałych w wyniku procesu chorobowego wraz z zabezpieczeniem pniaków po wyciętych drzewach A. Na gruntach w warunkach korzystnych ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 3. Zróżnicowanie struktury drzewostanu przez wprowadzenie podszytu A. Na gruntach w warunkach korzystnych ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 4. Założenie remizy sztuk 5. Czyszczenia późne A. Na gruntach w warunkach korzystnych ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 6. Zabiegi ochronne przed zwierzyną, w przypadku wprowadzania drugiego piętra w drzewostanie lub podszytu, lub dolesiania luk, lub założenia remizy A. Zabezpieczenie drzewek repelentami ha B. Zabezpieczenie drzewek osłonkami C. Ogrodzenie remiz -siatką metalową o wysokości minimum 2 m mb 1) Zgodnie z § 4 ust. 5 pkt 2 lit. b tiret drugie rozporządzenia za grunt o tym nachyleniu uznaje się grunt, gdy przynajmniej część terenu na tym gruncie ma nachylenie powyżej 12°.
+Tabela 5.
+RODZAJ INWESTYCJI
+Lp. Rodzaj inwestycji Jednostka miary Powierzchnia/Długość/Liczba 1. Przebudowa składu gatunkowego drzewostanu przez wprowadzenie drugiego piętra w drzewostanie A. Na gruntach w warunkach korzystnych ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 2. Przebudowa składu gatunkowego drzewostanu przez dolesianie luk powstałych w wyniku procesu chorobowego wraz z zabezpieczeniem pniaków po wyciętych drzewach A. Na gruntach w warunkach korzystnych ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 3. Zróżnicowanie struktury drzewostanu przez wprowadzenie podszytu A. Na gruntach w warunkach korzystnych ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 4. Założenie remizy sztuk 5. Czyszczenia późne A. Na gruntach w warunkach korzystnych ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 6. Zabiegi ochronne przed zwierzyną, w przypadku wprowadzania drugiego piętra w drzewostanie lub podszytu, lub dolesiania luk, lub założenia remizy A. Zabezpieczenie drzewek repelentami ha B. Zabezpieczenie drzewek osłonkami C. Ogrodzenie remiz -siatką metalową o wysokości minimum 2 m mb
+1) Zgodnie z § 4 ust. 5 pkt 2 lit. b tiret drugie rozporządzenia za grunt o tym nachyleniu uznaje się grunt, gdy przynajmniej część terenu na tym gruncie ma nachylenie powyżej 12°.
 2.
 Określenie regionalizacji nasiennej sadzonek potrzebnych do wprowadzenia drugiego piętra w drzewostanie, podszytu, dolesienia luk lub założenia remizy, zgodnie z tabelą nr 6.
-Tabela 6. WYMOGI WYNIKAJĄCE Z REGIONALIZACJI NASIENNEJ
-Gatunek Wymogi wynikające z regionalizacji nasiennej Region pochodzenia leśnego materiału podstawowego1) Region pochodzenia zastępczy2) Razem 1) Zgodnie z rozporządzeniem Ministra Środowiska z dnia 29 lipca 2015 r. w sprawie wykazu, obszarów i map regionów pochodzenia leśnego materiału rozmnożeniowego (Dz. U. poz. 1425). 2) Zgodnie z rozporządzeniem Ministra Środowiska z dnia 29 lipca 2015 r. w sprawie wykorzystywania leśnego materiału rozmnożeniowego poza regionem pochodzenia (Dz. U. poz. 1328).
+Tabela 6.
+WYMOGI WYNIKAJĄCE Z REGIONALIZACJI NASIENNEJ
+Gatunek Wymogi wynikające z regionalizacji nasiennej Region pochodzenia leśnego materiału podstawowego1) Region pochodzenia zastępczy2) Razem
+1) Zgodnie z rozporządzeniem Ministra Środowiska z dnia 29 lipca 2015 r. w sprawie wykazu, obszarów i map regionów pochodzenia leśnego materiału rozmnożeniowego (Dz. U. poz. 1425). 2) Zgodnie z rozporządzeniem Ministra Środowiska z dnia 29 lipca 2015 r. w sprawie wykorzystywania leśnego materiału rozmnożeniowego poza regionem pochodzenia (Dz. U. poz. 1328).
 3.
 Informacje dotyczące wykonania zabiegów ochronnych, w tym o:
 1)
@@ -529,7 +528,8 @@ powierzchni, na której przewidziano zastosowanie indywidualnych osłonek – w 
 
 ## Załącznik nr 2 — – Wysokość stawek pomocy
 
-Lp. Rodzaj inwestycji Stawki pomocy 1. Przebudowa składu gatunkowego drzewostanu przez wprowadzenie drugiego piętra w drzewostanie A. Na gruntach w warunkach korzystnych 8 137 zł/ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 9 249 zł/ha 2. Przebudowa składu gatunkowego drzewostanu przez dolesianie luk powstałych w wyniku procesu chorobowego wraz z zabezpieczeniem pniaków po wyciętych drzewach A. Na gruntach w warunkach korzystnych 12 538 zł/ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 14 213 zł/ha 3. Zróżnicowanie struktury drzewostanu przez wprowadzenie podszytu A. Na gruntach w warunkach korzystnych 4 610 zł/ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 5 210 zł/ha 4. Założenie remizy 848 zł/inwestycję 5. Czyszczenia późne A. Na gruntach w warunkach korzystnych 764 zł/ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 917 zł/ha 6. Zabiegi ochronne przed zwierzyną, w przypadku wprowadzania drugiego piętra w drzewostanie lub podszytu, lub dolesiania luk, lub założenia remizy A. Zabezpieczenie drzewek repelentami 424 zł/ha B. Zabezpieczenie drzewek osłonkami 1 488 zł/ha C. Ogrodzenie remizy – siatką metalową o wysokości minimum 2m 8,82 zł/mb 1) Zgodnie z § 4 ust. 5 pkt 2 lit. b tiret drugie rozporządzenia za grunt o tym nachyleniu uznaje się grunt, gdy przynajmniej część terenu na tym gruncie ma nachylenie powyżej 12°.
+Lp. Rodzaj inwestycji Stawki pomocy 1. Przebudowa składu gatunkowego drzewostanu przez wprowadzenie drugiego piętra w drzewostanie A. Na gruntach w warunkach korzystnych 8 137 zł/ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 9 249 zł/ha 2. Przebudowa składu gatunkowego drzewostanu przez dolesianie luk powstałych w wyniku procesu chorobowego wraz z zabezpieczeniem pniaków po wyciętych drzewach A. Na gruntach w warunkach korzystnych 12 538 zł/ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 14 213 zł/ha 3. Zróżnicowanie struktury drzewostanu przez wprowadzenie podszytu A. Na gruntach w warunkach korzystnych 4 610 zł/ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 5 210 zł/ha 4. Założenie remizy 848 zł/inwestycję 5. Czyszczenia późne A. Na gruntach w warunkach korzystnych 764 zł/ha B. Na gruntach o nachyleniu terenu powyżej 12o1) 917 zł/ha 6. Zabiegi ochronne przed zwierzyną, w przypadku wprowadzania drugiego piętra w drzewostanie lub podszytu, lub dolesiania luk, lub założenia remizy A. Zabezpieczenie drzewek repelentami 424 zł/ha B. Zabezpieczenie drzewek osłonkami 1 488 zł/ha C. Ogrodzenie remizy – siatką metalową o wysokości minimum 2m 8,82 zł/mb
+1) Zgodnie z § 4 ust. 5 pkt 2 lit. b tiret drugie rozporządzenia za grunt o tym nachyleniu uznaje się grunt, gdy przynajmniej część terenu na tym gruncie ma nachylenie powyżej 12°.
 
 ## Załącznik nr 3 — – Gatunki i rodzaje rodzimych drzew i krzewów wykorzystywanych do realizacji inwestycji, o których mowa w § 2 ust. 2 pkt 1–3 rozporządzenia
 

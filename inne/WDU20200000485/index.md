@@ -22,26 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-19 |
 | Data wydania | 2020-03-20 |
-| Wejście w życie | 2020-03-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000485) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/485/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 114 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 114 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284 i 374.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. z 2020 r. poz. 361) w § 1:
 1)
-po części „50. Urząd Regulacji Energetyki” dodaje się część 51 w brzmieniu:
-„
+po części „50. Urząd Regulacji Energetyki” dodaje się część 51 w brzmieniu: „
 51.
-Klimat
-” ;
+Klimat ” ;
 2)
-po części „54. Urząd do Spraw Kombatantów i Osób Represjonowanych” dodaje się część 55 w brzmieniu:
-„
+po części „54. Urząd do Spraw Kombatantów i Osób Represjonowanych” dodaje się część 55 w brzmieniu: „
 55.
-Aktywa państwowe
-” .
+Aktywa państwowe ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 29 lutego 2020 r.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 29 lutego 2020 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284 i 374.
 

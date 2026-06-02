@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-04 |
 | Data wydania | 2012-07-11 |
-| Wejście w życie | 2012-07-12 |
 | Ostatnia zmiana | 2024-07-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000797) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/797/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz bibliotek, które posiadają zbiory zaliczane do narodowego zasobu bibliotecznego
 Treść rozporządzenia
-Na podstawie art. 6 ust. 3 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. Nr 85, poz. 539, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 6 ust. 3 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. Nr 85, poz. 539, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2001 r. Nr 129, poz. 1440, z 2002 r. Nr 113, poz. 984, z 2004 r. Nr 238, poz. 2390, z 2006 r. Nr 220, poz. 1600 oraz z 2011 r. Nr 112, poz. 654 i Nr 207, poz. 1230.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -145,8 +144,7 @@ przechowywania,
 2)
 kopiowania i utrwalania na informatycznych nośnikach danych,
 3)
-udostępniania w celach naukowych albo ekspozycyjnych
-które nie spowodują pogorszenia stanu ich zachowania lub uniemożliwią ich zniszczenie lub kradzież.
+udostępniania w celach naukowych albo ekspozycyjnych – które nie spowodują pogorszenia stanu ich zachowania lub uniemożliwią ich zniszczenie lub kradzież.
 § 9.
 Środki na wprowadzenie oraz utrzymanie szczególnej ochrony, określonej w § 7 ust. 1 i § 8, zapewnia organizator biblioteki, o którym mowa w art. 8 ust. 2 i 3 ustawy z dnia 27 czerwca 1997 r. o bibliotekach.
 § 10.
@@ -156,7 +154,7 @@ Biblioteka, której zbiory są zaliczane do narodowego zasobu w dniu wejścia w 
 2)
 § 7 ust. 1 i § 8, w terminie roku od dnia wejścia w życie niniejszego rozporządzenia.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i sztuki z dnia 24 listopada 1998 r. w sprawie ustalenia wykazu bibliotek, których zbiory tworzą narodowy zasób biblioteczny, określenia organizacji tego zasobu oraz zasad i zakresu jego szczególnej ochrony (Dz. U. Nr 146, poz. 955 oraz z 2009 r. Nr 44, poz. 356), które utraciło moc z dniem 2 lipca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2001 r. Nr 129, poz. 1440, z 2002 r. Nr 113, poz. 984, z 2004 r. Nr 238, poz. 2390, z 2006 r. Nr 220, poz. 1600 oraz z 2011 r. Nr 112, poz. 654 i Nr 207, poz. 1230. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i sztuki z dnia 24 listopada 1998 r. w sprawie ustalenia wykazu bibliotek, których zbiory tworzą narodowy zasób biblioteczny, określenia organizacji tego zasobu oraz zasad i zakresu jego szczególnej ochrony (Dz. U. Nr 146, poz. 955 oraz z 2009 r. Nr 44, poz. 356), które utraciło moc z dniem 2 lipca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230).
 Załącznik – Wykaz bibliotek, które posiadają zbiory zaliczane do narodowego zasobu bibliotecznego
 1)
 Biblioteka Jagiellońska w Krakowie

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 3 kwietnia 2020 r. zmieniające rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi
+# Rozporządzenie Ministra Zdrowiaz dnia 3 kwietnia 2020 r. zmieniające rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-03 |
 | Data wydania | 2020-04-03 |
-| Wejście w życie | 2020-04-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000585) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/585/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 20 ust. 3 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2019 r. poz. 1473 oraz z 2020 r. poz. 284) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 7 grudnia 2001 r. w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 1783 oraz z 2007 r. poz. 10) po § 5 dodaje się § 5a-5c w brzmieniu:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 7 grudnia 2001 r. w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 1783 oraz z 2007 r. poz. 10) po § 5 dodaje się § 5a-5c w brzmieniu: „
 § 5a.
 1.
 W przypadku zwłok osób zmarłych na chorobę wywołaną wirusem SARS-CoV-2 (COVID-19) należy:
@@ -75,9 +73,7 @@ gogle lub przyłbicę ochronną – jednorazową lub poddaną uprzednio procedur
 4)
 jednorazowe rękawice nitrylowe (optymalnie długie).
 2.
-Środki ochrony indywidualnej wielorazowego użytku myje się i dezynfekuje po zakończeniu czynności, o których mowa w ust. 1.
-” .
+Środki ochrony indywidualnej wielorazowego użytku myje się i dezynfekuje po zakończeniu czynności, o których mowa w ust. 1. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 

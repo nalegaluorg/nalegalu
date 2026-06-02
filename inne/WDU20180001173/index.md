@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 26 lipca 2001 r. w sprawie zasad organizacji wojewódzkich inspektoratów Inspekcji Handlowej (Dz. U. poz. 879), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 17 maja 2017 r. zmieniającym rozporządzenie w sprawie zasad organizacji wojewódzkich inspektoratów Inspekcji Handlowej (Dz. U. poz. 1002).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 maja 2017 r. zmieniającego rozporządzenie w sprawie zasad organizacji wojewódzkich inspektoratów Inspekcji Handlowej (Dz. U. poz. 1002), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 maja 2017 r. zmieniającego rozporządzenie w sprawie zasad organizacji wojewódzkich inspektoratów Inspekcji Handlowej (Dz. U. poz. 1002), które stanowią: „
 § 2.
 Wojewódzki inspektor Inspekcji Handlowej, w terminie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia, dostosuje:
 1)
@@ -40,13 +39,12 @@ organizację wojewódzkiego inspektoratu Inspekcji Handlowej, którym kieruje, d
 2)
 regulamin organizacyjny wojewódzkiego inspektoratu Inspekcji Handlowej, którym kieruje, do § 4 ust. 2 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 26 lipca 2001 r. w sprawie zasad organizacji wojewódzkich inspektoratów Inspekcji Handlowej
 Na podstawie art. 8 ust. 5 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2017 r. poz. 1063 i 2056 oraz z 2018 r. poz. 650) zarządza się, co następuje:
 § 1.
 Wojewódzkim inspektoratem Inspekcji Handlowej, zwanym dalej „wojewódzkim inspektoratemˮ, kieruje wojewódzki inspektor Inspekcji Handlowej, zwany dalej „wojewódzkim inspektoremˮ, przy pomocy zastępców wojewódzkiego inspektora Inspekcji Handlowej, dyrektorów delegatur wojewódzkiego inspektoratu oraz kierowników komórek organizacyjnych wojewódzkiego inspektoratu.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 maja 2017 r. zmieniającego rozporządzenie w sprawie zasad organizacji wojewódzkich inspektoratów Inspekcji Handlowej (Dz. U. poz. 1002), które weszło w życie z dniem 24 maja 2017 r..
 1.
 W skład wojewódzkiego inspektoratu wchodzą:
 1)
@@ -67,7 +65,7 @@ wieloosobowe stanowisko pracy do spraw ochrony konsumentów albo jednoosobowe st
 sekretariat do spraw pozasądowego rozwiązywania sporów konsumenckich.
 3.
 Dopuszcza się połączenie komórek organizacyjnych wymienionych w ust. 1 pkt 2 oraz 3.
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 maja 2017 r. zmieniającego rozporządzenie w sprawie zasad organizacji wojewódzkich inspektoratów Inspekcji Handlowej (Dz. U. poz. 1002), które weszło w życie z dniem 24 maja 2017 r..
 1.
 W skład wojewódzkiego inspektoratu mogą wchodzić delegatury.
 2.
@@ -89,12 +87,12 @@ Regulamin organizacyjny powinien określać:
 nazwy i symbole komórek organizacyjnych wojewódzkiego inspektoratu;
 2)
 zakresy działania komórek organizacyjnych wojewódzkiego inspektoratu;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 zakresy działania wieloosobowych oraz jednoosobowych stanowisk pracy wojewódzkiego inspektoratu;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
 nazwy, siedziby, zakresy i obszary działania delegatur wojewódzkiego inspektoratu oraz zakresy działania wchodzących w ich skład komórek organizacyjnych, wieloosobowych oraz jednoosobowych stanowisk pracy;
 5)
 inne sprawy istotne dla organizacji i funkcjonowania wojewódzkiego inspektoratu.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 7 sierpnia 2001 r.. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 maja 2017 r. zmieniającego rozporządzenie w sprawie zasad organizacji wojewódzkich inspektoratów Inspekcji Handlowej (Dz. U. poz. 1002), które weszło w życie z dniem 24 maja 2017 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 7 sierpnia 2001 r.
 

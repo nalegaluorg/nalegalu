@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-01-04 |
 | Data wydania | 2016-01-14 |
-| Wejście w życie | 2016-01-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000063) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/63/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 25g ust. 4 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2015 r. poz. 1297, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 25g ust. 4 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2015 r. poz. 1297, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1741, 1753, 1777 i 1893.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa:
@@ -67,7 +66,7 @@ Wprowadzanie, zmiana lub usuwanie danych rejestrowych w rejestrze RINF następuj
 1)
 bezpośrednio w interfejsie aplikacji RINF-PL albo
 2)
-przez dostarczenie Prezesowi UTK za pomocą Elektronicznej Platformy Usług Administracji Publicznej pliku XML przygotowanego zgodnie ze specyfikacją struktury pliku do przesyłania danych „RINF xsd Schema”.
+przez dostarczenie Prezesowi UTK za pomocą Elektronicznej Platformy Usług Administracji Publicznej pliku XML przygotowanego zgodnie ze specyfikacją struktury pliku do przesyłania danych „RINF xsd Schema”Specyfikacja jest dostępna na stronie internetowej Europejskiej Agencji Kolejowej pod adresem: http://www.era.europa.eu/Core-Activities/Interoperability/Pages/RINF.aspx..
 § 7.
 Niezależnie od wykonywania czynności, o których mowa w § 5 i 6, zarządcy infrastruktury i użytkownicy bocznic kolejowych, co najmniej raz na trzy miesiące, przekazują Prezesowi UTK przez aplikację RINF-PL wygenerowany raport o zmianach wprowadzonych do rejestru RINF za dany okres.
 § 8.
@@ -82,5 +81,5 @@ Zarządcy infrastruktury i użytkownicy bocznic kolejowych do dnia nadania upraw
 § 11.
 Traci moc rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 28 lutego 2014 r. w sprawie krajowego rejestru infrastruktury kolejowej (Dz. U. poz. 286).
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1741, 1753, 1777 i 1893. 3) Specyfikacja jest dostępna na stronie internetowej Europejskiej Agencji Kolejowej pod adresem: http://www.era.europa.eu/Core-Activities/Interoperability/Pages/RINF.aspx.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-15 |
 | Data wydania | 2017-10-19 |
-| Wejście w życie | 2017-11-03 |
 | Ostatnia zmiana | 2024-04-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001947) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1947/text.pdf) |
 
@@ -34,7 +33,7 @@ source: "eli-html"
 
 - **2)** po art. 18 dodaje się art. 18a w brzmieniu: „
 
-**Art. 18a.** W razie śmierci sędziego Trybunału stosuje się odpowiednio przepisy dotyczące świadczeń, o których mowa w art. 101 i art. 102 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2016 r. poz. 2062, z późn. zm.), oraz przepisy wydane na podstawie art. 103 tej ustawy. ” ;
+**Art. 18a.** W razie śmierci sędziego Trybunału stosuje się odpowiednio przepisy dotyczące świadczeń, o których mowa w art. 101 i art. 102 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2016 r. poz. 2062, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2103 i 2261 oraz z 2017 r. poz. 38, 60, 803, 1139 i 1452.), oraz przepisy wydane na podstawie art. 103 tej ustawy. ” ;
 
 - **3)** art. 19 otrzymuje brzmienie: „
 
@@ -44,5 +43,5 @@ source: "eli-html"
 
 **Art. 2.** Przepisy art. 18a i art. 37 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do zdarzeń powstałych od dnia wejścia w życie ustawy zmienianej w art. 1. Do sędziów Trybunału Konstytucyjnego, którzy przeszli w stan spoczynku od dnia wejścia w życie ustawy zmienianej w art. 1, stosuje się odpowiednio przepis art. 48 ustawy z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. z 2016 r. poz. 1254, 2103 i 2261 oraz z 2017 r. poz. 38 i 1452).
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2103 i 2261 oraz z 2017 r. poz. 38, 60, 803, 1139 i 1452.
 

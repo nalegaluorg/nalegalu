@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 grudnia 2024 r. o zmianie niektórych ustaw w celu dostosowania do nomenklatury scalonej
+# Ustawa z dnia 18 grudnia 2024 r. o zmianie niektórych ustaw w celu dostosowania do nomenklatury scalonej Niniejsza ustawa służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2024/2522 z dnia 23 września 2024 r. zmieniającego załącznik I do rozporządzenia Rady (EWG) nr 2658/87 w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej (Dz. Urz. UE L 2024/2522 z 31.10.2024).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-18 |
 | Data wydania | 2024-12-30 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-01-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001946) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1946/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, ustawę z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw oraz ustawę z dnia 20 maja 2016 r. o efektywności energetycznej.
 
 **Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2024 r. poz. 321) w art. 37h w ust. 4 pkt 2 otrzymuje brzmienie: „
 
 - **2)** oleje napędowe o kodzie CN 2710 19 42, CN 2710 19 44 lub CN 2710 20 11 oraz wyroby powstałe ze zmieszania tych olejów z biokomponentami, spełniające wymagania jakościowe określone w odrębnych przepisach; ” .
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.) w art. 321a w ust. 3 pkt 2 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940.) w art. 321a w ust. 3 pkt 2 otrzymuje brzmienie: „
 
 - **2)** oleje napędowe o kodach CN: 2710 19 42, 2710 19 44, 2710 20 11. ” .
 
@@ -46,5 +47,5 @@ oleje napędowe o kodach CN: 2710 19 42, 2710 19 44 i 2710 20 11 ” .
 
 - **c)**
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2024/2522 z dnia 23 września 2024 r. zmieniającego załącznik I do rozporządzenia Rady (EWG) nr 2658/87 w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej (Dz. Urz. UE L 2024/2522 z 31.10.2024). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, ustawę z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw oraz ustawę z dnia 20 maja 2016 r. o efektywności energetycznej. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940.
 

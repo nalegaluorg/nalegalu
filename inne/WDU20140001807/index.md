@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-08 |
 | Data wydania | 2014-12-16 |
-| Wejście w życie | 2014-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001807) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1807/text.pdf) |
 
@@ -58,8 +57,7 @@ INF-I – o paliwach opałowych w składzie podatkowym,
 c)
 INF-J – informacja o gazie do napędu silników spalinowych w składzie podatkowym,
 d)
-INF-K – informacja o olejach smarowych i pozostałych olejach w składzie podatkowym;
-Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. poz. 1252).
+INF-K – informacja o olejach smarowych i pozostałych olejach w składzie podatkowym; Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. poz. 1252).
 6)
 AKC-U – deklaracja uproszczona nabycia wewnątrzwspólnotowego;
 7)

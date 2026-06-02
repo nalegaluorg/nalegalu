@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 6 września 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 6 września 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 
 | Pole | Wartość |
 |---|---|
@@ -32,13 +32,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 kwietnia 2011 r. w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe (Dz. U. poz. 513), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 22 maja 2023 r. zmieniającym rozporządzenie w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe (Dz. U. poz. 989).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 22 maja 2023 r. zmieniającego rozporządzenie w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe (Dz. U. poz. 989), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 22 maja 2023 r. zmieniającego rozporządzenie w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe (Dz. U. poz. 989), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” .
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 kwietnia 2011 r. w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” . 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 kwietnia 2011 r. w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądroweNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 Na podstawie art. 62a ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277) zarządza się, co następuje:
 § 1.
 1.
@@ -48,8 +45,7 @@ Wykaz, o którym mowa w ust. 1, stanowi załącznik do rozporządzenia.
 § 2.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2006 r. w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe (Dz. U. poz. 1158).
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). 2) Rozporządzenie zostało ogłoszone w dniu 29 kwietnia 2011 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 29 kwietnia 2011 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). 2) Rozporządzenie zostało ogłoszone w dniu 29 kwietnia 2011 r.
 Załącznik – Wykaz przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe
 1.
 Na granicy państwowej z Federacją Rosyjską:
@@ -109,6 +105,6 @@ Poznań-Ławica;
 Warszawa-Okęcie;
 7)
 Wrocław-Strachowice;
-8)
-Rzeszów-Jasionka.
+8Dodany przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 22 maja 2023 r. zmieniającego rozporządzenie w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe (Dz. U. poz. 989), które weszło w życie z dniem 24 maja 2023 r.)
+Rzeszów-Jasionka. 3) Dodany przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 22 maja 2023 r. zmieniającego rozporządzenie w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe (Dz. U. poz. 989), które weszło w życie z dniem 24 maja 2023 r.
 

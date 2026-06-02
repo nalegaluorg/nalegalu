@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 28 sierpnia 2015 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji CCP albo o zamiarze stania się podmiotem dominującym CCP
+# Rozporządzenie Ministra Finansówz dnia 28 sierpnia 2015 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji CCP albo o zamiarze stania się podmiotem dominującym CCP Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-28 |
 | Data wydania | 2015-09-23 |
-| Wejście w życie | 2015-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001447) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1447/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 47a ust. 4 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 47a ust. 4 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586 oraz z 2015 r. poz. 73, 978, 1045, 1223, 1260 i 1348.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa dokumenty, które należy załączyć do zawiadomienia o zamiarze nabycia albo objęcia akcji lub praw z akcji CCP, składanego na podstawie art. 31 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 648/2012”.
 § 2.
@@ -139,5 +138,5 @@ pełnomocnictwo lub inny dokument potwierdzający umocowanie osób podpisującyc
 26)
 pełnomocnictwo do doręczeń w toku postępowania w przedmiocie zawiadomienia ustanowione na terytorium Rzeczypospolitej Polskiej – w przypadku gdy podmiot składający zawiadomienie ma miejsce zamieszkania lub siedzibę poza granicami Rzeczypospolitej Polskiej.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586 oraz z 2015 r. poz. 73, 978, 1045, 1223, 1260 i 1348.
 

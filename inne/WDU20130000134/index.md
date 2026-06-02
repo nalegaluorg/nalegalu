@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-07 |
 | Data wydania | 2013-01-28 |
-| Wejście w życie | 2013-02-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000134) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/134/text.pdf) |
 
@@ -87,14 +86,14 @@ source: "eli-html"
 
 5. Prezes Urzędu może zażądać od zarządzającego lotniskiem użytku publicznego przedstawienia dokumentacji potwierdzającej właściwe przeprowadzenie konsultacji, o których mowa w ust. 1, w tym opinii podmiotów, o których mowa w ust. 1, oraz uzasadnienia ich nieuwzględnienia.
 
-6. Informacje przekazywane podczas konsultacji, o których mowa w ust. 1 i art. 77c ust. 1 i 3, stanowią tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.). ” ;
+6. Informacje przekazywane podczas konsultacji, o których mowa w ust. 1 i art. 77c ust. 1 i 3, stanowią tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804, z 2005 r. Nr 10, poz. 68, z 2007 r. Nr 171, poz. 1206 oraz z 2009 r. Nr 201, poz. 1540.). ” ;
 
 - **7)** po art. 77 dodaje się art. 77a-77k w brzmieniu: „
 
 1. Na wniosek zarządzającego lotniskiem użytku publicznego minister właściwy do spraw transportu, po zasięgnięciu opinii Prezesa Urzędu, może w drodze decyzji administracyjnej:
 
 - **1)** ustanowić sieć portów lotniczych stanowiącą grupę lotnisk użytku publicznego zarządzanych przez tego samego zarządzającego, w ramach której wprowadza się wspólny system opłat lotniskowych, albo
-- **2)** wyrazić zgodę na zastosowanie przez zarządzającego lotniskiem użytku publicznego wspólnego systemu opłat lotniskowych na lotniskach użytku publicznego obsługujących to samo miasto lub konurbację mając na uwadze konieczność realizacji zasad niedyskryminacji oraz uwzględniając istniejące programy, strategie i decyzje w zakresie polityki transportowej dotyczącej lotnictwa cywilnego.
+- **2)** wyrazić zgodę na zastosowanie przez zarządzającego lotniskiem użytku publicznego wspólnego systemu opłat lotniskowych na lotniskach użytku publicznego obsługujących to samo miasto lub konurbację – mając na uwadze konieczność realizacji zasad niedyskryminacji oraz uwzględniając istniejące programy, strategie i decyzje w zakresie polityki transportowej dotyczącej lotnictwa cywilnego.
 
 2. Przed złożeniem wniosku, o którym mowa w ust. 1, zarządzający lotniskiem użytku publicznego przeprowadza konsultacje z przewoźnikami lotniczymi stale korzystającymi z tych lotnisk, planowanych do objęcia siecią portów lotniczych albo wspólnym systemem opłat lotniskowych lub podmiotami ich reprezentującymi, w szczególności działającymi na tych lotniskach komitetami przewoźników lotniczych lub stowarzyszeniami przewoźników lotniczych, dotyczące propozycji ustanowienia odpowiednio sieci portów lotniczych albo wspólnego systemu opłat lotniskowych.
 
@@ -103,7 +102,7 @@ source: "eli-html"
 4. W przypadku gdy co najmniej jedno z lotnisk planowanych do objęcia wspólnym systemem opłat lotniskowych dla lotnisk obsługujących to samo miasto lub konurbację:
 
 - **1)** obsługuje w ciągu roku więcej niż 5 000 000 pasażerów, albo
-- **2)** obsłużyło największą liczbę pasażerów spośród lotnisk użytku publicznego na terytorium Rzeczypospolitej Polskiej w roku kalendarzowym poprzedzającym złożenie wniosku o wyrażenie zgody na zastosowanie przez zarządzającego lotniskiem użytku publicznego wspólnego systemu opłat lotniskowych, jeżeli żadne lotnisko w Rzeczypospolitej Polskiej nie spełnia kryterium określonego w pkt 1 minister właściwy do spraw transportu, nie później niż na miesiąc przed dniem wyrażenia zgody na zastosowanie wspólnego systemu opłat lotniskowych, przesyła do Komisji Europejskiej informację o planowanym wyrażeniu tej zgody.
+- **2)** obsłużyło największą liczbę pasażerów spośród lotnisk użytku publicznego na terytorium Rzeczypospolitej Polskiej w roku kalendarzowym poprzedzającym złożenie wniosku o wyrażenie zgody na zastosowanie przez zarządzającego lotniskiem użytku publicznego wspólnego systemu opłat lotniskowych, jeżeli żadne lotnisko w Rzeczypospolitej Polskiej nie spełnia kryterium określonego w pkt 1 – minister właściwy do spraw transportu, nie później niż na miesiąc przed dniem wyrażenia zgody na zastosowanie wspólnego systemu opłat lotniskowych, przesyła do Komisji Europejskiej informację o planowanym wyrażeniu tej zgody.
 
 5. W przypadku, o którym mowa w ust. 4, zarządzający lotniskiem przeprowadza w stosunku do każdego z lotnisk planowanych do objęcia wspólnym systemem opłat konsultacje zgodnie z art. 77c.
 
@@ -180,7 +179,7 @@ source: "eli-html"
 1. Zarządzający lotniskiem użytku publicznego może zróżnicować wysokość opłat lotniskowych ze względu na:
 
 - **1)** jakość, zakres lub koszty dotyczące korzystania z obiektów, urządzeń lub poszczególnych usług świadczonych przez zarządzającego lotniskiem użytku publicznego na lotnisku, w tym w terminalach lub ich częściach, w celu zapewnienia podmiotom, o których mowa w art. 75 ust. 1, usług dostosowanych do ich indywidualnych potrzeb lub udostępnienia tym podmiotom przeznaczonego do danego celu terminalu lub jego części, lub
-- **2)** jakiekolwiek inne obiektywne i przejrzyste przesłanki pod warunkiem zachowania zasad niedyskryminacji i równego traktowania.
+- **2)** jakiekolwiek inne obiektywne i przejrzyste przesłanki – pod warunkiem zachowania zasad niedyskryminacji i równego traktowania.
 
 2. Dostęp do obiektów, urządzeń lub poszczególnych usług dostosowanych do indywidualnych potrzeb, o których mowa w ust. 1, jest otwarty dla podmiotów, o których mowa w art. 75 ust. 1, z zastrzeżeniem ust. 3.
 
@@ -194,7 +193,7 @@ source: "eli-html"
 
 - **1)** szczegółowe warunki, sposób i tryb prowadzenia konsultacji, o których mowa w art. 77 ust. 1 i art. 77c, w tym zakres przedstawianych informacji,
 - **2)** szczegółowe wymagania dotyczące ustalania taryfy opłat lotniskowych,
-- **3)** tryb zatwierdzania taryfy opłat lotniskowych i tryb jej publikacji kierując się zasadami niedyskryminacji, przejrzystości, powiązania opłat z kosztami udostępniania obiektów i urządzeń oraz usług, a także mając na uwadze konieczność zapewnienia efektywnego nadzoru nad opłatami lotniskowymi.
+- **3)** tryb zatwierdzania taryfy opłat lotniskowych i tryb jej publikacji – kierując się zasadami niedyskryminacji, przejrzystości, powiązania opłat z kosztami udostępniania obiektów i urządzeń oraz usług, a także mając na uwadze konieczność zapewnienia efektywnego nadzoru nad opłatami lotniskowymi.
 
 1. Prezes Urzędu sporządza roczne sprawozdanie z realizacji zadań z zakresu nadzoru nad opłatami lotniskowymi.
 
@@ -228,5 +227,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 77 ust. 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 77j ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804, z 2005 r. Nr 10, poz. 68, z 2007 r. Nr 171, poz. 1206 oraz z 2009 r. Nr 201, poz. 1540.
 

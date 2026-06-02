@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-10 |
 | Data wydania | 2018-08-28 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1653/text.pdf) |
 
@@ -37,11 +36,9 @@ Na podstawie art. 45 ust. 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjon
 § 1.
 W rozporządzeniu Ministra Obrony Narodowej z dnia 18 stycznia 2007 r. w sprawie przyznawania funkcjonariuszom Służby Wywiadu Wojskowego równoważnika pieniężnego oraz kwoty na zakup ubrania typu cywilnego w zamian za umundurowanie (Dz. U. poz. 256) wprowadza się następujące zmiany:
 1)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
-Równoważnik pieniężny albo kwotę na zakup ubrania typu cywilnego w zamian za umundurowanie wypłaca się funkcjonariuszowi w całości, za okres od dnia 1 stycznia danego roku kalendarzowego do dnia 31 grudnia tego roku, zwany dalej „rokiem zaopatrzeniowym”.
-” ;
+Równoważnik pieniężny albo kwotę na zakup ubrania typu cywilnego w zamian za umundurowanie wypłaca się funkcjonariuszowi w całości, za okres od dnia 1 stycznia danego roku kalendarzowego do dnia 31 grudnia tego roku, zwany dalej „rokiem zaopatrzeniowym”. ” ;
 2)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 3)
@@ -53,7 +50,9 @@ Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
 
 ## Załącznik nr 1 — – Wysokość równoważnika pieniężnego w zamian za umundurowanie
 
-Lp. Wyszczególnienie Wysokość równoważnika(w zł) dla mężczyzn dla kobiet 1 generał brygady 4 363,00 4 460,00 2 pułkownik, podpułkownik, major 2 618,00 2 887,00 3 kapitan, porucznik, podporucznik 2 567,00 2 837,00 4 chorąży 2 576,00 2 845,00 5 podoficer 2 521,00 2 789,00 6 starszy szeregowy, szeregowy 2 431,00 2 703,00
+Lp.
+Wyszczególnienie Wysokość równoważnika
+(w zł) dla mężczyzn dla kobiet 1 generał brygady 4 363,00 4 460,00 2 pułkownik, podpułkownik, major 2 618,00 2 887,00 3 kapitan, porucznik, podporucznik 2 567,00 2 837,00 4 chorąży 2 576,00 2 845,00 5 podoficer 2 521,00 2 789,00 6 starszy szeregowy, szeregowy 2 431,00 2 703,00
 
 ## Załącznik nr 2 — – Wysokość kwoty na zakup ubrania typu cywilnego w zamian za umundurowanie
 

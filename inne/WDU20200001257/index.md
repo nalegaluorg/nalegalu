@@ -41,17 +41,13 @@ rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 wrześni
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 1 oraz § 3–7 rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 marca 2013 r. w sprawie zniesienia niektórych oddziałów Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 342), które stanowią:
-„
+§ 1 oraz § 3–7 rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 marca 2013 r. w sprawie zniesienia niektórych oddziałów Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 342), które stanowią: „
 § 1.
 Znosi się następujące oddziały Straży Granicznej:
 1)
 Karpacki Oddział Straży Granicznej imienia 1 Pułku Strzelców Podhalańskich z siedzibą w Nowym Sączu,
 2)
-Sudecki Oddział Straży Granicznej imienia Ziemi Kłodzkiej z siedzibą w Kłodzku
-utworzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2011 r. w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. Nr 69, poz. 370).
-”
-„
+Sudecki Oddział Straży Granicznej imienia Ziemi Kłodzkiej z siedzibą w Kłodzku – utworzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2011 r. w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. Nr 69, poz. 370). ” „
 § 3.
 Śląski Oddział Straży Granicznej imienia Powstańców Śląskich z siedzibą w Raciborzu otrzymuje nazwę „Śląsko-Małopolski Oddział Straży Granicznej z siedzibą w Raciborzu”.
 § 4.
@@ -79,69 +75,59 @@ Rozporządzenie wchodzi w życie z dniem 1 lipca 2013 r. z wyjątkiem:
 2)
 § 1 pkt 2, § 2 pkt 4 i 5, § 4 pkt 2 i § 5 pkt 2, które wchodzą w życie z dniem 16 listopada 2013 r.;
 3)
-§ 1 pkt 1, § 2 pkt 2 i 6, § 4 pkt 1 i § 5 pkt 1, które wchodzą w życie z dniem 1 stycznia 2014 r.
-” ;
+§ 1 pkt 1, § 2 pkt 2 i 6, § 4 pkt 1 i § 5 pkt 1, które wchodzą w życie z dniem 1 stycznia 2014 r. ” ;
 2)
-§ 1 i § 2 oraz § 4–6 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2016 r. w sprawie utworzenia Karpackiego Oddziału Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 613 i 662), które stanowią:
-„
+§ 1 i § 2 oraz § 4–6 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2016 r. w sprawie utworzenia Karpackiego Oddziału Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 613 i 662), które stanowią: „
 § 1.
 Tworzy się Karpacki Oddział Straży Granicznej z siedzibą w Nowym Sączu.
 § 2.
-Śląsko-Małopolski Oddział Straży Granicznej z siedzibą w Raciborzu otrzymuje nazwę „Śląski Oddział Straży Granicznej z siedzibą w Raciborzu”.
-”
-„
+Śląsko-Małopolski Oddział Straży Granicznej z siedzibą w Raciborzu otrzymuje nazwę „Śląski Oddział Straży Granicznej z siedzibą w Raciborzu”. ” „
 § 4.
 Prawa i obowiązki wynikające z umów i porozumień, których podmiotem był Komendant Śląsko-Małopolskiego Oddziału Straży Granicznej przejmuje Komendant Karpackiego Oddziału Straży Granicznej, w zakresie terytorialnego zasięgu działania Karpackiego Oddziału Straży Granicznej.
 § 5.
 Sprawy wszczęte i niezakończone przez Komendanta Śląsko-Małopolskiego Oddziału Straży Granicznej prowadzone na obszarze województwa małopolskiego przed dniem 16 maja 2016 r. są prowadzone przez Komendanta Karpackiego Oddziału Straży Granicznej.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 16 maja 2016 r., z wyjątkiem § 2 i § 3 pkt 1, które wchodzą w życie z dniem 1 września 2016 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 16 maja 2016 r., z wyjątkiem § 2 i § 3 pkt 1, które wchodzą w życie z dniem 1 września 2016 r. ” ;
 3)
-§ 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 maja 2016 r. zmieniającego rozporządzenie w sprawie utworzenia Karpackiego Oddziału Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej, oraz zmieniającego rozporządzenie w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 662), który stanowi:
-„
+§ 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 maja 2016 r. zmieniającego rozporządzenie w sprawie utworzenia Karpackiego Oddziału Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej, oraz zmieniającego rozporządzenie w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 662), który stanowi: „
 § 3.
-Rozporządzenie wchodzi w życie z dniem 16 maja 2016 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 16 maja 2016 r. ” ;
 4)
-§ 2–4 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2017 r. zmieniającego rozporządzenie w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 1814), które stanowią:
-„
+§ 2–4 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2017 r. zmieniającego rozporządzenie w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 1814), które stanowią: „
 § 2.
 Prawa i obowiązki wynikające z umów i porozumień, których podmiotem był Komendant Nadwiślańskiego Oddziału Straży Granicznej, przejmuje Komendant Karpackiego Oddziału Straży Granicznej, w zakresie terytorialnego zasięgu działania Karpackiego Oddziału Straży Granicznej.
 § 3.
 Sprawy wszczęte i niezakończone przez Komendanta Nadwiślańskiego Oddziału Straży Granicznej prowadzone na obszarze województwa świętokrzyskiego przed dniem 1 listopada 2017 r. są prowadzone przez Komendanta Karpackiego Oddziału Straży Granicznej.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2017 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2017 r. ” .
 Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2011 r. w sprawie utworzenia oddziałów Straży Granicznej
-Na podstawie art. 6 ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2020 r. poz. 305) zarządza się, co następuje:
+Na podstawie art. 6 ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2020 r. poz. 305) zarządza się, co następuje: Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 § 1.
 Tworzy się następujące oddziały Straży Granicznej:
-1)
+1W brzmieniu ustalonym przez § 2 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 marca 2013 r. w sprawie zniesienia niektórych oddziałów Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 342), które weszło w życie z dniem 1 lipca 2013 r.)
 Bieszczadzki Oddział Straży Granicznej imienia gen. bryg. Jana Tomasza Gorzechowskiego z siedzibą w Przemyślu, obejmujący województwo podkarpackie;
 2)
-(uchylony);
-3)
+(uchylony);Przez § 2 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2014 r.
+3W brzmieniu ustalonym przez § 2 pkt 3 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 16 października 2013 r.)
 Morski Oddział Straży Granicznej imienia płk. Karola Bacza z siedzibą w Gdańsku, obejmujący województwa: pomorskie, zachodniopomorskie oraz wchodzące w skład województwa warmińsko-mazurskiego: powiat elbląski, miasto na prawach powiatu Elbląg i z powiatu braniewskiego gminę Frombork, a także polskie obszary morskie określone w odrębnych przepisach;
 4)
 Nadbużański Oddział Straży Granicznej imienia 27 Wołyńskiej Dywizji Armii Krajowej z siedzibą w Chełmie, obejmujący województwo lubelskie i powiat łosicki wchodzący w skład województwa mazowieckiego;
-5)
+5W brzmieniu ustalonym przez § 2 pkt 4 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 16 listopada 2013 r.)
 Nadodrzański Oddział Straży Granicznej z siedzibą w Krośnie Odrzańskim, obejmujący województwa: dolnośląskie, lubuskie i wielkopolskie;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2017 r. zmieniającego rozporządzenie w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 1814), które weszło w życie z dniem 1 listopada 2017 r.)
 Nadwiślański Oddział Straży Granicznej imienia Powstania Warszawskiego z siedzibą w Warszawie, obejmujący województwa: kujawsko-pomorskie, łódzkie i mazowieckie z wyłączeniem powiatu łosickiego;
 7)
 Podlaski Oddział Straży Granicznej imienia gen. dyw. Henryka Minkiewicza z siedzibą w Białymstoku, obejmujący województwo podlaskie;
 8)
-(uchylony);
-9)
+(uchylony);Przez § 2 pkt 5 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 16 listopada 2013 r.
+9W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 6.)
 Śląski Oddział Straży Granicznej imienia nadkomisarza Józefa Bocheńskiego z siedzibą w Raciborzu, obejmujący województwa opolskie i śląskie;
 10)
 Warmińsko-Mazurski Oddział Straży Granicznej imienia gen. bryg. Stefana Pasławskiego z siedzibą w Kętrzynie, obejmujący województwo warmińsko-mazurskie z wyłączeniem: powiatu elbląskiego, miasta na prawach powiatu Elbląg oraz z powiatu braniewskiego gminy Frombork, a także morskich wód wewnętrznych Zalewu Wiślanego.
-§ 1a.
+§ 1aDodany przez § 3 pkt 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2016 r. w sprawie utworzenia Karpackiego Oddziału Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 613 i 662), które weszło w życie z dniem 16 maja 2016 r.; w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6..
 Karpacki Oddział Straży Granicznej imienia 1 Pułku Strzelców Podhalańskich z siedzibą w Nowym Sączu obejmuje województwa małopolskie i świętokrzyskie.
 § 2.
-Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 grudnia 2001 r. w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 1733, z późn. zm.).
+Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 grudnia 2001 r. w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 1733, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. poz. 1822, z 2004 r. poz. 1590 i 2228, z 2005 r. poz. 1283, z 2007 r. poz. 1079 oraz z 2009 r. poz. 615 i 1273.).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2011 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 2 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 marca 2013 r. w sprawie zniesienia niektórych oddziałów Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 342), które weszło w życie z dniem 1 lipca 2013 r. 3) Przez § 2 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2014 r. 4) W brzmieniu ustalonym przez § 2 pkt 3 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 16 października 2013 r. 5) W brzmieniu ustalonym przez § 2 pkt 4 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 16 listopada 2013 r. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2017 r. zmieniającego rozporządzenie w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 1814), które weszło w życie z dniem 1 listopada 2017 r. 7) Przez § 2 pkt 5 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 16 listopada 2013 r. 8) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 6. 9) Dodany przez § 3 pkt 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2016 r. w sprawie utworzenia Karpackiego Oddziału Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 613 i 662), które weszło w życie z dniem 16 maja 2016 r.; w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. poz. 1822, z 2004 r. poz. 1590 i 2228, z 2005 r. poz. 1283, z 2007 r. poz. 1079 oraz z 2009 r. poz. 615 i 1273.
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2011 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 2 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 6 marca 2013 r. w sprawie zniesienia niektórych oddziałów Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 342), które weszło w życie z dniem 1 lipca 2013 r. 3) Przez § 2 pkt 2 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2014 r. 4) W brzmieniu ustalonym przez § 2 pkt 3 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 16 października 2013 r. 5) W brzmieniu ustalonym przez § 2 pkt 4 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 16 listopada 2013 r. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2017 r. zmieniającego rozporządzenie w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 1814), które weszło w życie z dniem 1 listopada 2017 r. 7) Przez § 2 pkt 5 rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 16 listopada 2013 r. 8) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 6. 9) Dodany przez § 3 pkt 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 kwietnia 2016 r. w sprawie utworzenia Karpackiego Oddziału Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. poz. 613 i 662), które weszło w życie z dniem 16 maja 2016 r.; w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. poz. 1822, z 2004 r. poz. 1590 i 2228, z 2005 r. poz. 1283, z 2007 r. poz. 1079 oraz z 2009 r. poz. 615 i 1273.
 

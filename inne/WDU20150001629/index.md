@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-10-15 |
-| Wejście w życie | 2016-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001629) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1629/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) wprowadza się następujące zmiany:
+Przepisy karne
+
+**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045, 1240, 1418 i 1607.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2a dodaje się ust. 3 i 4 w brzmieniu: „
 
@@ -64,7 +65,7 @@ source: "eli-html"
 1. Organizatorami wypoczynku mogą być:
 
 - **1)** szkoły i placówki;
-- **2)** przedsiębiorcy wpisani do rejestru organizatorów turystyki i pośredników turystycznych, o którym mowa w art. 4 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2014 r. poz. 196, z późn. zm.);
+- **2)** przedsiębiorcy wpisani do rejestru organizatorów turystyki i pośredników turystycznych, o którym mowa w art. 4 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2014 r. poz. 196, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 822 oraz z 2015 r. poz. 390 i 1164.);
 - **3)** osoby fizyczne, osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej, inne niż wymienione w pkt 1 i 2, organizujące wypoczynek w celu: niezarobkowym albo zarobkowym, jeżeli organizowany wypoczynek nie stanowi imprezy turystycznej, o której mowa w art. 3 pkt 2 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych.
     - **a)**
     - **b)**
@@ -76,7 +77,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **3)** dostęp do opieki medycznej: w ramach świadczeń opieki zdrowotnej udzielanych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.) lub na podstawie umowy zawartej z lekarzem, pielęgniarką lub ratownikiem medycznym;
+- **3)** dostęp do opieki medycznej: w ramach świadczeń opieki zdrowotnej udzielanych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269 1365 i 1569.) lub na podstawie umowy zawartej z lekarzem, pielęgniarką lub ratownikiem medycznym;
     - **a)**
     - **b)**
 
@@ -291,7 +292,7 @@ source: "eli-html"
 2. W przypadku:
 
 - **1)** niemożności usunięcia stwierdzonych nieprawidłowości, o których mowa w ust. 1 pkt 1,
-- **2)** niewykonania nakazu, o którym mowa w ust. 1 pkt 1 lub 2 kurator oświaty właściwy ze względu na miejsce lokalizacji wypoczynku zarządza, w drodze decyzji administracyjnej, zakończenie prowadzenia wypoczynku przez organizatora wypoczynku oraz nakazuje organizatorowi wypoczynku niezwłoczne zorganizowanie powrotu uczestników wypoczynku do miejsca zamieszkania.
+- **2)** niewykonania nakazu, o którym mowa w ust. 1 pkt 1 lub 2 – kurator oświaty właściwy ze względu na miejsce lokalizacji wypoczynku zarządza, w drodze decyzji administracyjnej, zakończenie prowadzenia wypoczynku przez organizatora wypoczynku oraz nakazuje organizatorowi wypoczynku niezwłoczne zorganizowanie powrotu uczestników wypoczynku do miejsca zamieszkania.
 
 3. Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności.
 
@@ -307,7 +308,7 @@ source: "eli-html"
 
 1. Kierownikiem wypoczynku może być osoba, która:
 
-- **1)** nie była karana za umyślne przestępstwo przeciwko życiu i zdrowiu, przestępstwo przeciwko wolności seksualnej i obyczajności, przestępstwo przeciwko rodzinie i opiece, z wyjątkiem przestępstwa określonego w art. 209 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.), przestępstwo określone w rozdziale 7 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124 oraz z 2015 r. poz. 28 i 875) albo wobec której nie orzeczono zakazu prowadzenia działalności związanej z wychowywaniem, leczeniem, edukacją małoletnich lub opieką nad nimi lub zakazu przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu;
+- **1)** nie była karana za umyślne przestępstwo przeciwko życiu i zdrowiu, przestępstwo przeciwko wolności seksualnej i obyczajności, przestępstwo przeciwko rodzinie i opiece, z wyjątkiem przestępstwa określonego w art. 209 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538 oraz z 2015 r. poz. 396, 541 i 1549.), przestępstwo określone w rozdziale 7 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124 oraz z 2015 r. poz. 28 i 875) albo wobec której nie orzeczono zakazu prowadzenia działalności związanej z wychowywaniem, leczeniem, edukacją małoletnich lub opieką nad nimi lub zakazu przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu;
 - **2)** ukończyła 18 lat;
 - **3)** posiada co najmniej wykształcenie średnie;
 - **4)** ukończyła kurs na kierownika wypoczynku;
@@ -442,7 +443,7 @@ source: "eli-html"
 - **9)** dokumenty potwierdzające posiadane przez kadrę przygotowanie, mając na uwadze zapewnienie realizacji programu kursu. ” ;
 - **5)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „
 
-#### Rozdział 9a Przepisy karne
+#### Rozdział 9a
 
 **Art. 96a.**
 
@@ -450,9 +451,9 @@ source: "eli-html"
 
 2. Tej samej karze podlega, kto nie dopełnia obowiązku informowania kuratora oświaty o zmianach okoliczności objętych zgłoszeniem wypoczynku, o których mowa w art. 92d ust. 3 pkt 2 lit. b i c oraz pkt 5.
 
-3. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.). ” .
+3. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21, 396, 841, 1186, 1269 i 1549.). ” .
 
-**Art. 2.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2015 r. poz. 1036) w art. 24 ust. 1a otrzymuje brzmienie: „ 1a. Od uiszczenia opłaty za wydanie z Rejestru informacji o osobie zwolnieni są także będący wolontariuszami kandydaci na kierowników wypoczynku lub wychowawców wypoczynku, obowiązani do przedstawienia informacji organizatorowi wypoczynku na podstawie art. 92p ust. 8 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.). ” .
+**Art. 2.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2015 r. poz. 1036) w art. 24 ust. 1a otrzymuje brzmienie: „ 1a. Od uiszczenia opłaty za wydanie z Rejestru informacji o osobie zwolnieni są także będący wolontariuszami kandydaci na kierowników wypoczynku lub wychowawców wypoczynku, obowiązani do przedstawienia informacji organizatorowi wypoczynku na podstawie art. 92p ust. 8 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045, 1240, 1418, 1607 i 1629.). ” .
 
 **Art. 3.** Do dnia 31 sierpnia 2017 r. warunek, o którym mowa w art. 92p ust. 2 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dotyczy przodowników turystyki kwalifikowanej oraz instruktorów Polskiego Towarzystwa Turystyczno-Krajoznawczego.
 
@@ -467,7 +468,7 @@ source: "eli-html"
 **Art. 6.** Osoby, które:
 
 - **1)** przed dniem wejścia w życie niniejszej ustawy ukończyły odpowiednio kurs na kierownika wypoczynku lub kurs na wychowawcę wypoczynku lub
-- **2)** po dniu wejścia w życie niniejszej ustawy ukończą kurs prowadzony na podstawie zgody, o której mowa w art. 5 ust. 1 spełniają warunek ukończenia odpowiednio kursu na kierownika wypoczynku lub kursu na wychowawcę wypoczynku, o których mowa w art. 92p ust. 1 pkt 4 i ust. 2 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- **2)** po dniu wejścia w życie niniejszej ustawy ukończą kurs prowadzony na podstawie zgody, o której mowa w art. 5 ust. 1 – spełniają warunek ukończenia odpowiednio kursu na kierownika wypoczynku lub kursu na wychowawcę wypoczynku, o których mowa w art. 92p ust. 1 pkt 4 i ust. 2 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 7.** Baza wypoczynku prowadzona przez ministra właściwego do spraw oświaty i wychowania przed dniem wejścia w życie niniejszej ustawy staje się bazą wypoczynku, o której mowa w art. 92h ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
@@ -476,6 +477,6 @@ source: "eli-html"
 **Art. 9.** Ustawa wchodzi w życie z dniem 1 kwietnia 2016 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 1, który wchodzi w życie z dniem ogłoszenia;
-- **2)** art. 8, który wchodzi w życie z dniem 1 marca 2016 r.
+- **2)** art. 8, który wchodzi w życie z dniem 1 marca 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045, 1240, 1418 i 1607. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 822 oraz z 2015 r. poz. 390 i 1164. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269 1365 i 1569. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538 oraz z 2015 r. poz. 396, 541 i 1549. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247, z 2014 r. poz. 486, 579, 786 i 969 oraz z 2015 r. poz. 21, 396, 841, 1186, 1269 i 1549. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045, 1240, 1418, 1607 i 1629.
 
 

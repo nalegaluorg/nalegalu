@@ -26,15 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1228/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych Rozdział 1 – Przepisy ogólne Rozdział 2 Rozdział 3 – Interwencja rynkowa Rozdział 3a – Uznawanie organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych Rozdział 4 – Kontrole Rozdział 5 Rozdział 6 – Kary pieniężne Rozdział 7 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych
 Załącznik – Przepisy Unii Europejskiej w zakresie organizacji rynku mleka i przetworów mlecznych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2022 r. poz. 381), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 maja 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi: „
+Przepisy ogólne
 (uchylony)
+Interwencja rynkowa
+Uznawanie organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych
 1.
 Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę wnioskodawcy jest organem właściwym w sprawach uznawania organizacji producentów i zatwierdzania ich planu biznesowego, zatwierdzania zmian ich planu biznesowego, uznawania zrzeszeń organizacji producentów oraz organizacji międzybranżowych, w tym międzynarodowych organizacji producentów, międzynarodowych zrzeszeń organizacji producentów oraz międzynarodowych organizacji międzybranżowych, o których mowa w art. 156, art. 161 i art. 163 rozporządzenia, o którym mowa w pkt 11 załącznika.
 2.
@@ -68,7 +70,7 @@ spełnia wymagania określone w art. 161 ust. 1 lit. a i d rozporządzenia, o kt
 3)
 organizację międzybranżową, jeżeli spełnia ona wymagania określone w art. 163 ust. 1 rozporządzenia, o którym mowa w pkt 11 załącznika.
 3.
-Sprawy, o których mowa w ust. 1, są załatwiane w drodze decyzji, na wniosek organizacji producentów, zrzeszenia organizacji producentów albo organizacji międzybranżowej składany do dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę organizacji albo zrzeszenia na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji. Wniosek można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+Sprawy, o których mowa w ust. 1, są załatwiane w drodze decyzji, na wniosek organizacji producentów, zrzeszenia organizacji producentów albo organizacji międzybranżowej składany do dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę organizacji albo zrzeszenia na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji. Wniosek można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.Zdanie drugie dodane przez art. 130 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r.; wejdzie w życie z dniem 1 stycznia 2024 r.
 3a.
 Wniosek w sprawie zatwierdzenia zmian planu biznesowego organizacji producentów składa się w terminie do 60 dni przed zakończeniem danego roku działalności organizacji producentów, którego dotyczy zmiana.
 3b.
@@ -100,8 +102,7 @@ maksymalny odsetek głosów przysługujących członkom, udziałowcom lub akcjon
 2)
 szczegółowe wymagania, jakim mają odpowiadać wnioski składane w tych sprawach,
 3)
-rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej
-mając na względzie prawidłowe funkcjonowanie tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
+rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej – mając na względzie prawidłowe funkcjonowanie tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
 1.
 Decyzję w sprawie uznania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej wydaje się w terminie określonym w:
 1)
@@ -212,9 +213,28 @@ Minister właściwy do spraw rynków rolnych może określić, w drodze rozporz�
 3.
 W przypadku stwierdzenia spełniania warunków określonych w art. 164 rozporządzenia, o którym mowa w pkt 11 załącznika, oraz w przepisach wydanych na podstawie ust. 2, minister właściwy do spraw rynków rolnych wprowadza, w drodze rozporządzenia, porozumienia, decyzje lub praktyki uzgodnione w ramach uznanej organizacji producentów, uznanego zrzeszenia organizacji producentów lub uznanej organizacji międzybranżowej, podając zakres stosowania tych porozumień, decyzji lub praktyk oraz okres, przez jaki mają być stosowane te porozumienia, decyzje lub praktyki, a także obszar gospodarczy, na którym mają być one stosowane, mając na względzie zapewnienie prawidłowego funkcjonowania rynku mleka i przetworów mlecznych oraz niezakłócania konkurencji na tym rynku, a także biorąc pod uwagę cele, jakich mogą dotyczyć te porozumienia, decyzje lub praktyki.
 Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 164 ust. 6 rozporządzenia, o którym mowa w pkt 11 załącznika.
+Kontrole
 (uchylony)
+Kary pieniężne
+Przepisy przejściowe i końcowe
 Art. 56–63.
 (pominięte)
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2
+
+#### Rozdział 3 – Interwencja rynkowa
+
+#### Rozdział 3a – Uznawanie organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych
+
+#### Rozdział 4 – Kontrole
+
+#### Rozdział 5
+
+#### Rozdział 6 – Kary pieniężne
+
+#### Rozdział 7 – Przepisy przejściowe i końcowe
 
 **Art. 169.** Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
 
@@ -223,7 +243,7 @@ Art. 56–63.
 - **3)** art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.;
 - **4)** art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -255,7 +275,7 @@ Art. 56–63.
 
 #### Rozdział 2
 
-#### Rozdział 3 Interwencja rynkowa
+#### Rozdział 3
 
 **Art. 42.**
 
@@ -294,15 +314,13 @@ Art. 56–63.
 
 **Art. 48.** (uchylony)
 
-#### Rozdział 3a Uznawanie organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych
+#### Rozdział 3a
 
-#### Rozdział 4 Kontrole
+#### Rozdział 4
 
 **Art. 49.**
 
-1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej przeprowadza kontrole uznanych organizacji producentów i uznanych zrzeszeń organizacji producentów oraz uznanych organizacji międzybranżowych w zakresie spełniania warunków określonych w przepisach Unii Europejskiej, ustawy oraz wydanych na podstawie art. 48a ust. 7, dotyczących uznawania organizacji producentów i realizacji jej planu biznesowego oraz uznawania zrzeszeń organizacji producentów i organizacji międzybranżowych.
-
-2. Uznana organizacja producentów, uznane zrzeszenie organizacji producentów lub uznana organizacja międzybranżowa podlegają kontrolom określonym w ust. 1 co najmniej raz na trzy lata.
+1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej przeprowadza kontrole uznanych organizacji producentów i uznanych zrzeszeń organizacji producentów oraz uznanych organizacji międzybranżowych w zakresie spełniania warunków określonych w przepisach Unii Europejskiej, ustawy oraz wydanych na podstawie art. 48a ust. 7, dotyczących uznawania organizacji producentów i realizacji jej planu biznesowego oraz uznawania zrzeszeń organizacji producentów i organizacji międzybranżowych. 2Ze zmianą wprowadzoną przez art. 130 pkt 2 ustawy, o której mowa w odnośniku 1.. Uznana organizacja producentów, uznane zrzeszenie organizacji producentów lub uznana organizacja międzybranżowa podlegają kontrolom określonym w ust. 1 co najmniej raz na trzy lata.
 
 2a. Dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa właściwy ze względu na miejsce zamieszkania albo siedzibę podmiotu skupującego, albo miejsce zamieszkania, albo siedzibę podmiotów wymienionych w art. 43 przeprowadza kontrole pierwszych podmiotów skupujących mleko krowie w rozumieniu art. 151 rozporządzenia, o którym mowa w pkt 11 załącznika, obowiązanych do przekazywania informacji, o których mowa w art. 2a, oraz podmiotów wymienionych w art. 43 w zakresie wykonywania przez te podmioty obowiązków związanych z zakupem interwencyjnym, sprzedażą interwencyjną i dopłatami do przechowywania w ramach realizacji zadań określonych w ustawie.
 
@@ -313,7 +331,7 @@ Art. 56–63.
 
 #### Rozdział 5
 
-#### Rozdział 6 Kary pieniężne
+#### Rozdział 6
 
 **Art. 53.** (uchylony)
 
@@ -340,7 +358,7 @@ Art. 56–63.
 
 2. Można odstąpić od wymierzenia kary, jeżeli naruszenie lub niewykonanie obowiązku nastąpiło z przyczyn nieleżących po stronie podmiotu skupującego albo uznanej organizacji producentów, albo uznanego zrzeszenia organizacji producentów, albo uznanej organizacji międzybranżowej.
 
-3. W sprawach nieuregulowanych w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
+3. W sprawach nieuregulowanych w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556 i 614.), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
 
 4. Uprawnienia organu podatkowego określone w ustawie, o której mowa w ust. 3, przysługują:
 
@@ -352,15 +370,14 @@ Art. 56–63.
 
 6. Do egzekucji kary pieniężnej wraz z odsetkami za zwłokę stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+#### Rozdział 7
 
 **Art. 64.** Traci moc ustawa z dnia 6 września 2001 r. o regulacji rynku mleka i przetworów mlecznych (Dz. U. poz. 1446 i 1797, z 2002 r. poz. 937 oraz z 2003 r. poz. 1853).
 
-**Art. 65.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem:
+**Art. 65.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii EuropejskiejRzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r., z wyjątkiem:
 
-- **1)** art. 43 i art. 56, które wchodzą w życie z dniem ogłoszenia;
-- **2)** art. 33, art. 34 ust. 1 pkt 1 lit. b oraz pkt 2 lit. b, art. 36 ust. 1 pkt 2 i ust. 2–6, art. 37, art. 38, art. 40 oraz art. 41, które wchodzą w życie z dniem 1 kwietnia 2005 r.
-- **1)** Zdanie drugie dodane przez art. 130 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r.; wejdzie w życie z dniem 1 stycznia 2024 r. 2) Ze zmianą wprowadzoną przez art. 130 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556 i 614. 4) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r. 5) Ustawa została ogłoszona w dniu 30 kwietnia 2004 r. Załącznik – Przepisy Unii Europejskiej w zakresie organizacji rynku mleka i przetworów mlecznych
+- **1)** art. 43 i art. 56, które wchodzą w życie z dniem ogłoszeniaUstawa została ogłoszona w dniu 30 kwietnia 2004 r.;
+- **2)** art. 33, art. 34 ust. 1 pkt 1 lit. b oraz pkt 2 lit. b, art. 36 ust. 1 pkt 2 i ust. 2–6, art. 37, art. 38, art. 40 oraz art. 41, które wchodzą w życie z dniem 1 kwietnia 2005 r. 1) Zdanie drugie dodane przez art. 130 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r.; wejdzie w życie z dniem 1 stycznia 2024 r. 2) Ze zmianą wprowadzoną przez art. 130 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556 i 614. 4) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r. 5) Ustawa została ogłoszona w dniu 30 kwietnia 2004 r. Załącznik – Przepisy Unii Europejskiej w zakresie organizacji rynku mleka i przetworów mlecznych
 - **1)** (uchylony)
 - **2)** (uchylony)
 - **3)** rozporządzenie Komisji (UE) nr 1272/2009 z dnia 11 grudnia 2009 r. ustanawiające wspólne szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do zakupu i sprzedaży produktów rolnych w ramach interwencji publicznej (Dz. Urz. UE L 349 z 29.12.2009, str. 1);

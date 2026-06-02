@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw
+# Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego i ustawę z dnia 16 września 1982 r. – Prawo spółdzielcze.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-06-03 |
 | Data wydania | 2005-07-07 |
-| Wejście w życie | 2005-07-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051221024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1024/text.pdf) |
+
+Przepisy karne
 
 **Art. 1.** W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2003 r. Nr 119, poz. 1116, z 2004 r. Nr 19, poz. 177 i Nr 63, poz. 591 oraz z 2005 r. Nr 72, poz. 643) wprowadza się następujące zmiany:
 
@@ -247,7 +248,7 @@ source: "eli-html"
 
 2. Po śmierci członka spółdzielni albo osoby niebędącej członkiem spółdzielni, której przysługiwało spółdzielcze własnościowe prawo do lokalu, a które to osoby wystąpiły z żądaniem przeniesienia własności określonym w art. 1714 lub 1715, ich spadkobiercy mogą żądać przeniesienia na nich własności lokalu lub udziału we współwłasności garażu. W tym przypadku uznaje się, iż wniosek o przeniesienie własności lokalu został złożony w dniu pierwszego wystąpienia z żądaniem przez członka spółdzielni lub osobę niebędącą członkiem spółdzielni, której przysługiwało spółdzielcze własnościowe prawo do lokalu. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) w art. 17 w pkt 4 kropkę zastępuje się przecinkiem oraz dodaje się pkt 41 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384 oraz z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185 i Nr 86, poz. 732.) w art. 17 w pkt 4 kropkę zastępuje się przecinkiem oraz dodaje się pkt 41 w brzmieniu: „
 
 - **41)** o wydanie orzeczenia zastępującego uchwałę o podziale spółdzielni. ” .
 
@@ -410,7 +411,7 @@ source: "eli-html"
 
 - **15)** po części II dodaje się część IIa w brzmieniu: „
 
-## Część IIa Przepisy karne
+## Część IIa
 
 **Art. 267a.** Kto, biorąc udział w tworzeniu spółdzielni lub będąc członkiem jej zarządu lub rady albo likwidatorem, działa na jej szkodę, podlega karze pozbawienia wolności do lat 5 i grzywnie. Kto, będąc członkiem zarządu spółdzielni albo likwidatorem, nie zgłasza wniosku o upadłość spółdzielni pomimo powstania warunków uzasadniających upadłość spółdzielni, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. Kto, będąc członkiem organu spółdzielni albo likwidatorem wbrew przepisom ustawy:
 
@@ -437,5 +438,5 @@ source: "eli-html"
 
 2. Do czasu zarejestrowania zmian statutów postanowienia dotychczasowych statutów pozostają w mocy. Jednakże w razie sprzeczności między nimi a przepisami niniejszej ustawy stosuje się przepisy tej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego i ustawę z dnia 16 września 1982 r. – Prawo spółdzielcze. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384 oraz z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185 i Nr 86, poz. 732.
 

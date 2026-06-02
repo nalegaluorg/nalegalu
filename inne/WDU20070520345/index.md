@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-02-16 |
 | Data wydania | 2007-03-23 |
-| Wejście w życie | 2007-04-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070520345) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/345/text.pdf) |
 
@@ -74,13 +73,15 @@ source: "eli-html"
 - **2)** zarejestrowanie konia,
 - **3)** wydanie paszportu konia lub jego duplikatu,
 - **4)** dokonanie zmian w rejestrze koniowatych,
-- **5)** doręczenie paszportu konia lub jego duplikatu, w sposób określony w art. 14 ust. 8 uwzględniając koszty ponoszone przez podmioty, o których mowa w art. 5. ” , ust. 4 otrzymuje brzmienie: „
+- **5)** doręczenie paszportu konia lub jego duplikatu, w sposób określony w art. 14 ust. 8 – uwzględniając koszty ponoszone przez podmioty, o których mowa w art. 5. ” , ust. 4 otrzymuje brzmienie: „
     - **c)**
 
 4. Rozporządzenia, o których mowa w ust. 2 i ust. 3 pkt 2, są wydawane w porozumieniu z ministrem właściwym do spraw finansów publicznych. ” ;
 
-- **6)** w art. 17: w ust. 2 w pkt 2: – lit. a i b otrzymują brzmienie: „ a) założeniu na prawą małżowinę uszną kolczyka z numerem identyfikacyjnym zwierzęcia gospodarskiego lub duplikatu kolczyka – w przypadku owiec i kóz nieprzeznaczonych do handlu, b) założeniu na prawą małżowinę uszną kolczyka zawierającego identyfikator spełniający wymagania określone w ust. 1 i 3 rozdziału II załącznika do decyzji Komisji 2006/968/WE z dnia 15 grudnia 2006 r. wykonującej rozporządzenie Rady (WE) nr 21/2004 w odniesieniu do wytycznych i procedur elektronicznej identyfikacji i rejestrowania owiec i kóz (Dz. Urz. UE L 401 z 30.12.2006, str. 41), zwanej dalej „decyzją Komisji nr 2006/968” – w przypadku owiec i kóz przeznaczonych do handlu, ” , – uchyla się lit. c, uchyla się ust. 2a;
+- **6)** w art. 17: w ust. 2 w pkt 2: lit. a i b otrzymują brzmienie: „ założeniu na prawą małżowinę uszną kolczyka z numerem identyfikacyjnym zwierzęcia gospodarskiego lub duplikatu kolczyka – w przypadku owiec i kóz nieprzeznaczonych do handlu, założeniu na prawą małżowinę uszną kolczyka zawierającego identyfikator spełniający wymagania określone w ust. 1 i 3 rozdziału II załącznika do decyzji Komisji 2006/968/WE z dnia 15 grudnia 2006 r. wykonującej rozporządzenie Rady (WE) nr 21/2004 w odniesieniu do wytycznych i procedur elektronicznej identyfikacji i rejestrowania owiec i kóz (Dz. Urz. UE L 401 z 30.12.2006, str. 41), zwanej dalej „decyzją Komisji nr 2006/968” – w przypadku owiec i kóz przeznaczonych do handlu, ” , – uchyla się lit. c, uchyla się ust. 2a;
     - **a)**
+    - **a)**
+    - **b)**
     - **b)**
 
 - **7)** w art. 18 ust. 5 otrzymuje brzmienie: „
@@ -146,12 +147,12 @@ source: "eli-html"
 - **11)** będąc posiadaczem owcy lub kozy, nie dokonuje spisu owiec i kóz lub nie umieszcza liczby owiec i kóz ustalonej podczas spisu w księdze rejestracji, lub nie przekazuje kierownikowi biura liczby i numerów identyfikacyjnych owiec i kóz ustalonych podczas tego spisu,
 - **12)** będąc posiadaczem zwierzęcia gospodarskiego, nie przekazuje Agencji albo organom Inspekcji Weterynaryjnej informacji związanych z identyfikacją i rejestracją zwierząt,
 - **13)** będąc posiadaczem zwierzęcia gospodarskiego lub podmiotem prowadzącym zakład przetwórczy, nie zgłasza kierownikowi biura informacji, o których mowa w art. 12 ust. 1, 3 i 6,
-- **14)** wprowadza do obrotu zwierzęta nieoznakowane lub bez wymaganego dla bydła i koniowatych paszportu lub duplikatu paszportu podlega karze grzywny. ” ;
+- **14)** wprowadza do obrotu zwierzęta nieoznakowane lub bez wymaganego dla bydła i koniowatych paszportu lub duplikatu paszportu – podlega karze grzywny. ” ;
 - **13)** po art. 34 dodaje się art. 34a w brzmieniu: „
 
 **Art. 34a.** Do dnia 31 grudnia 2007 r. podmiot, o którym mowa w art. 5, wydaje posiadaczowi konia paszport konia pomimo, że nie jest znany numer identyfikacyjny ojca konia, jeżeli posiadacz dołączy do zgłoszenia zawierającego numer identyfikacyjny matki konia, negatywne wyniki badań tego konia w kierunku: nosacizny (Glanders), niedokrwistości zakaźnej koni (Equine infectious anaemia) i zarazy stadniczej (Dourine). ” .
 
-**Art. 2.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. Nr 33, poz. 287, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. Nr 33, poz. 287, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 877 i Nr 273, poz. 2703, z 2005 r. Nr 23, poz. 188, Nr 33, poz. 289, Nr 163, poz. 1362 i Nr 178, poz. 1480 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1045, Nr 170, poz. 1217 i Nr 171, poz. 1225.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5: w ust. 2 dodaje się pkt 3 w brzmieniu: „
     - **a)**
@@ -168,5 +169,5 @@ source: "eli-html"
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 15 ust. 2 pkt 2 i art. 19 ust. 8 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15 ust. 2 i art. 19 ust. 8 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, art. 1 pkt 3 lit. b, art. 1 pkt 6 lit. a, art. 1 pkt 7 oraz art. 1 pkt 10, które wchodzą w życie z dniem 1 stycznia 2008 r.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, art. 1 pkt 3 lit. b, art. 1 pkt 6 lit. a, art. 1 pkt 7 oraz art. 1 pkt 10, które wchodzą w życie z dniem 1 stycznia 2008 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 877 i Nr 273, poz. 2703, z 2005 r. Nr 23, poz. 188, Nr 33, poz. 289, Nr 163, poz. 1362 i Nr 178, poz. 1480 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1045, Nr 170, poz. 1217 i Nr 171, poz. 1225.
 

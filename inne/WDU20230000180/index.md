@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej
+# Ustawa z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej Niniejsza ustawa: 1) w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/843 z dnia 30 maja 2018 r. zmieniającą dyrektywę (UE) 2015/849 w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu oraz zmieniającą dyrektywy 2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43), – dyrektywę Rady (UE) 2021/514 z dnia 22 marca 2021 r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 104 z 25.03.2021, str. 1); 2) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1153 z dnia 20 czerwca 2019 r. ustanawiającą zasady ułatwiające korzystanie z informacji finansowych i innych informacji w celu zapobiegania niektórym przestępstwom, ich wykrywania, prowadzenia dochodzeń w ich sprawie lub ich ścigania oraz uchylającą decyzję Rady 2000/642/WSiSW (Dz. Urz. UE L 186 z 11.07.2019, str. 122); 3) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,39 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-01 |
 | Data wydania | 2023-01-26 |
-| Wejście w życie | 2023-02-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/180/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+Przepisy ogólne
+Organ właściwy w sprawie SInF
+Informacje rejestrowane oraz ich przekazywanie do SInF
+Wykorzystanie informacji rejestrowanych zgromadzonych w SInF
+Ochrona danych i kontrola przekazywania do SInF informacji rejestrowanych
+Kary pieniężne
+Przepisy karne
+Zmiany w przepisach
+Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Organ właściwy w sprawie SInF
+
+#### Rozdział 3 – Informacje rejestrowane oraz ich przekazywanie do SInF
+
+#### Rozdział 4 – Wykorzystanie informacji rejestrowanych zgromadzonych w SInF
+
+#### Rozdział 5 – Ochrona danych i kontrola przekazywania do SInF informacji rejestrowanych
+
+#### Rozdział 6 – Kary pieniężne
+
+#### Rozdział 7 – Przepisy karne
+
+#### Rozdział 8 – Zmiany w przepisach
+
+#### Rozdział 9 – Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady funkcjonowania Systemu Informacji Finansowej, zwanego dalej „SInF”, w tym:
 
@@ -50,7 +78,7 @@ source: "eli-html"
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
 - **1)** beneficjent rzeczywisty – osobę fizyczną, o której mowa w art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593, 655, 835, 2180 i 2185 oraz z 2023 r. poz. 180), zwanej dalej „ustawą o przeciwdziałaniu”;
-- **2)** instytucja zobowiązana: oddział instytucji kredytowej, bank krajowy, oddział banku zagranicznego, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, 2339, 2640 i 2707 oraz z 2023 r. poz. 180), spółdzielczą kasę oszczędnościowo-kredytową i Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową, o których mowa w ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, z późn. zm.), krajową instytucję płatniczą, małą instytucję płatniczą, krajową instytucję pieniądza elektronicznego, oddział unijnej instytucji płatniczej, oddział unijnej instytucji pieniądza elektronicznego, oddział zagranicznej instytucji pieniądza elektronicznego, w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2022 r. poz. 2360 i 2640), oraz organ administracji publicznej, jeżeli świadczy usługi płatnicze, firmę inwestycyjną i bank powierniczy, o których mowa w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500, 1488, 1933, 2185 i 2640 oraz z 2023 r. poz. 180), Narodowy Bank Polski – w zakresie, w jakim, za zgodą Prezesa Narodowego Banku Polskiego, o której mowa w art. 51 ust. 1 pkt 4 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025), prowadzi rachunki bankowe innych osób prawnych, z wyłączeniem rachunków w systemach płatności prowadzonych przez Narodowy Bank Polski, przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570) – w zakresie, w jakim prowadzi działalność polegającą na udostępnianiu skrytek sejfowych, o których mowa w art. 2 ust. 2 pkt 19c ustawy o przeciwdziałaniu, oddział przedsiębiorcy zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470) – w zakresie, w jakim prowadzi działalność, o której mowa w lit. f, na terytorium Rzeczypospolitej Polskiej;
+- **2)** instytucja zobowiązana: oddział instytucji kredytowej, bank krajowy, oddział banku zagranicznego, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, 2339, 2640 i 2707 oraz z 2023 r. poz. 180), spółdzielczą kasę oszczędnościowo-kredytową i Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową, o których mowa w ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1358, 1488, 1933, 2339 i 2640 oraz z 2023 r. poz. 180.), krajową instytucję płatniczą, małą instytucję płatniczą, krajową instytucję pieniądza elektronicznego, oddział unijnej instytucji płatniczej, oddział unijnej instytucji pieniądza elektronicznego, oddział zagranicznej instytucji pieniądza elektronicznego, w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2022 r. poz. 2360 i 2640), oraz organ administracji publicznej, jeżeli świadczy usługi płatnicze, firmę inwestycyjną i bank powierniczy, o których mowa w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500, 1488, 1933, 2185 i 2640 oraz z 2023 r. poz. 180), Narodowy Bank Polski – w zakresie, w jakim, za zgodą Prezesa Narodowego Banku Polskiego, o której mowa w art. 51 ust. 1 pkt 4 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025), prowadzi rachunki bankowe innych osób prawnych, z wyłączeniem rachunków w systemach płatności prowadzonych przez Narodowy Bank Polski, przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570) – w zakresie, w jakim prowadzi działalność polegającą na udostępnianiu skrytek sejfowych, o których mowa w art. 2 ust. 2 pkt 19c ustawy o przeciwdziałaniu, oddział przedsiębiorcy zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470) – w zakresie, w jakim prowadzi działalność, o której mowa w lit. f, na terytorium Rzeczypospolitej Polskiej;
     - **a)**
     - **b)**
     - **c)**
@@ -66,7 +94,7 @@ source: "eli-html"
     - **c)**
 
 - **5)** posiadacz – każdą osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, będącą stroną umowy rachunku lub umowy, o której mowa w art. 4 pkt 2;
-- **6)** przestępstwo katalogowe – przestępstwo obejmujące co najmniej jedną z form przestępczości, o której mowa w załączniku I do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. w sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępującego i uchylającego decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW (Dz. Urz. UE L 135 z 24.05.2016, str. 53, z późn. zm.);
+- **6)** przestępstwo katalogowe – przestępstwo obejmujące co najmniej jedną z form przestępczości, o której mowa w załączniku I do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. w sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępującego i uchylającego decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW (Dz. Urz. UE L 135 z 24.05.2016, str. 53, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 12.09.2018, str. 72, Dz. Urz. UE L 248 z 13.07.2021, str. 1 oraz Dz. Urz. UE L 169 z 27.06.2022, str. 1.;
 - **7)** przetwarzanie informacji – wszelkie operacje wykonywane na informacjach rejestrowanych, takie jak: zbieranie, utrwalanie, organizowanie, porządkowanie, przechowywanie, adaptowanie lub modyfikowanie, pobieranie, przeglądanie, wykorzystywanie, ujawnianie przez przesłanie, rozpowszechnianie lub innego rodzaju udostępnianie, dopasowywanie lub łączenie, ograniczanie, usuwanie lub niszczenie;
 - **8)** rachunek: rachunek płatniczy, o którym mowa w art. 2 pkt 25 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, rachunek bankowy i rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, niebędące rachunkami płatniczymi, rachunek papierów wartościowych, rachunek derywatów i rachunek zbiorczy oraz rachunek pieniężny służący do obsługi tych rachunków w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
     - **a)**
@@ -78,12 +106,12 @@ source: "eli-html"
 **Art. 4.** Informacją rejestrowaną w rozumieniu ustawy jest:
 
 - **1)** informacja o rachunku;
-- **2)** informacja o umowie o: przechowywanie przedmiotów i papierów wartościowych, z wyłączeniem umów zawieranych z jednostką sektora finansów publicznych w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.), przedsiębiorstwem państwowym albo spółką z większościowym udziałem Skarbu Państwa, jednostką samorządu terytorialnego lub związkiem jednostek samorządu terytorialnego, jeżeli czynności te są wykonywane przez podmiot, o którym mowa w art. 3 pkt 2 lit. a, udostępnienie skrytki sejfowej, o której mowa w art. 2 ust. 2 pkt 19c ustawy o przeciwdziałaniu, jeżeli czynności te są wykonywane przez podmiot, o którym mowa w art. 3 pkt 2 lit. a, udostępnienie skrytki sejfowej przez podmiot, o którym mowa w art. 3 pkt 2 lit. f i g.
+- **2)** informacja o umowie o: przechowywanie przedmiotów i papierów wartościowych, z wyłączeniem umów zawieranych z jednostką sektora finansów publicznych w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.), przedsiębiorstwem państwowym albo spółką z większościowym udziałem Skarbu Państwa, jednostką samorządu terytorialnego lub związkiem jednostek samorządu terytorialnego, jeżeli czynności te są wykonywane przez podmiot, o którym mowa w art. 3 pkt 2 lit. a, udostępnienie skrytki sejfowej, o której mowa w art. 2 ust. 2 pkt 19c ustawy o przeciwdziałaniu, jeżeli czynności te są wykonywane przez podmiot, o którym mowa w art. 3 pkt 2 lit. a, udostępnienie skrytki sejfowej przez podmiot, o którym mowa w art. 3 pkt 2 lit. f i g.
     - **a)**
     - **b)**
     - **c)**
 
-#### Rozdział 2 Organ właściwy w sprawie SInF
+#### Rozdział 2
 
 **Art. 5.** Organem właściwym w sprawach SInF jest Szef Krajowej Administracji Skarbowej, zwany dalej „organem właściwym”.
 
@@ -106,7 +134,7 @@ source: "eli-html"
 
 **Art. 9.** Zadania związane z obsługą SInF mogą być realizowane wyłącznie przez osoby, które posiadają kwalifikacje zapewniające zachowanie bezpieczeństwa systemów teleinformatycznych oraz aktualną, niezbędną wiedzę w zakresie przepisów mających zastosowanie do SInF, w szczególności dotyczących ochrony danych, w tym danych osobowych, potwierdzoną ukończeniem wewnętrznego szkolenia specjalistycznego zorganizowanego przez organ właściwy.
 
-#### Rozdział 3 Informacje rejestrowane oraz ich przekazywanie do SInF
+#### Rozdział 3
 
 **Art. 10.** Instytucje zobowiązane mają obowiązek przekazywać do SInF informacje rejestrowane, z wyjątkiem informacji o rachunku, na który na koniec danego dnia następuje automatyczne przeksięgowanie środków pieniężnych, a ich zwrot wraz z odsetkami następuje automatycznie na rachunek nie później niż w terminie 2 dni roboczych.
 
@@ -231,7 +259,7 @@ source: "eli-html"
 
 **Art. 17.** Instytucje zobowiązane przekazują informacje rejestrowane w postaci elektronicznej odpowiadającej strukturze logicznej dostępnej w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
-#### Rozdział 4 Wykorzystanie informacji rejestrowanych zgromadzonych w SInF
+#### Rozdział 4
 
 **Art. 18.** Informacje rejestrowane zgromadzone w SInF są niezwłocznie w całości przekazywane Generalnemu Inspektorowi Informacji Finansowej w celu, o którym mowa w art. 2 ust. 1 pkt 1.
 
@@ -264,13 +292,13 @@ source: "eli-html"
 - **1)** wykonania przez prokuratora, o którym mowa w art. 21 ust. 1 pkt 1, oraz sędziego, o którym mowa w art. 21 ust. 1 pkt 2, wniosku o udzielenie pomocy prawnej, pochodzącego z państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udzielenie informacji objętych tajemnicą bankową, w sprawie dotyczącej przestępstwa katalogowego – podmiotom uprawnionym, o których mowa w ust. 2 pkt 1 i 2;
 - **2)** przeprowadzenia postępowania sprawdzającego lub postępowania bezpieczeństwa przemysłowego prowadzonych na podstawie przepisów o ochronie informacji niejawnych – podmiotom uprawnionym, o których mowa w ust. 2 pkt 3–10 oraz 12;
 - **3)** wykonywania zadań, o których mowa w art. 2 ust. 1 pkt 5 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900) – podmiotowi, o którym mowa w ust. 2 pkt 4;
-- **4)** wykonywania przez naczelnika urzędu skarbowego zadań, o których mowa w art. 28 ust. 1 pkt 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.) – podmiotom, o których mowa w ust. 2 pkt 11.
+- **4)** wykonywania przez naczelnika urzędu skarbowego zadań, o których mowa w art. 28 ust. 1 pkt 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707 oraz z 2023 r. poz. 177 i 180.) – podmiotom, o których mowa w ust. 2 pkt 11.
 
 **Art. 20.** Organ właściwy może przetwarzać dane zgromadzone w SInF w celu:
 
 - **1)** realizacji swoich zadań ustawowych w zakresie ujawniania i odzyskiwania mienia zagrożonego przepadkiem, rozpoznawania, wykrywania i zwalczania przestępstw oraz przestępstw skarbowych, zapobiegania tym przestępstwom oraz ścigania ich sprawców;
-- **2)** udzielenia odpowiedzi na pisemny i uzasadniony wniosek o informacje złożony na podstawie art. 7 ust. 3a rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, z późn. zm.) ;
-- **3)** wymiany informacji podatkowych, o której mowa w ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2021 r. poz. 626 i 2105 oraz z 2022 r. poz. 1301) oraz rozporządzeniu Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, z późn. zm.).
+- **2)** udzielenia odpowiedzi na pisemny i uzasadniony wniosek o informacje złożony na podstawie art. 7 ust. 3a rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49.;
+- **3)** wymiany informacji podatkowych, o której mowa w ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2021 r. poz. 626 i 2105 oraz z 2022 r. poz. 1301) oraz rozporządzeniu Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 1, Dz. Urz. UE L 259 z 16.10.2018, str. 1, Dz. Urz. UE L 311 z 07.12.2018, str. 1 oraz Dz. Urz. UE L 62 z 02.03.2020, str. 1 i 13..
 
 **Art. 21.**
 
@@ -285,7 +313,7 @@ source: "eli-html"
     - **b)**
 
 - **6)** pkt 13 – pracownik lub inspektor wchodzący w skład Biura Nadzoru Wewnętrznego zgodnie z przepisami ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2022 r. poz. 2487 i 2600),
-- **7)** pkt 14 – pracownik Urzędu Komisji Nadzoru Finansowego po nadaniu przez ten podmiot uprawniony unikalnego identyfikatora dostępu do SInF.
+- **7)** pkt 14 – pracownik Urzędu Komisji Nadzoru Finansowego – po nadaniu przez ten podmiot uprawniony unikalnego identyfikatora dostępu do SInF.
 
 2. Upoważnienie, o którym mowa w ust. 1, w przypadku podmiotu uprawnionego, o którym mowa w art. 19 ust. 2 pkt 2, wydaje Prezes Sądu Apelacyjnego.
 
@@ -356,7 +384,7 @@ source: "eli-html"
 
 11. Do rejestru, o którym mowa w ust. 1, prowadzonego przez podmioty uprawnione, o których mowa w art. 19 ust. 2 pkt 1, stosuje się odpowiednio przepisy art. 191a ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247, 1259 i 2582). W przypadku stwierdzenia nieprawidłowości w zakresie prowadzenia rejestru, o którym mowa w ust. 1, podmioty uprawnione, o których mowa w art. 19 ust. 2 pkt 1, informują o tym fakcie organ właściwy.
 
-12. Do rejestru, o którym mowa w ust. 1, prowadzonego przez podmioty uprawnione, o których mowa w art. 19 ust. 2 pkt 2, stosuje się odpowiednio przepisy art. 175dd ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072, z późn. zm.). W przypadku stwierdzenia nieprawidłowości w zakresie prowadzenia rejestru, o którym mowa w ust. 1, organ, o którym mowa w art. 175dd § 1 tej ustawy, informuje o tym fakcie organ właściwy.
+12. Do rejestru, o którym mowa w ust. 1, prowadzonego przez podmioty uprawnione, o których mowa w art. 19 ust. 2 pkt 2, stosuje się odpowiednio przepisy art. 175dd ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655, 1259, 1933 i 2642.). W przypadku stwierdzenia nieprawidłowości w zakresie prowadzenia rejestru, o którym mowa w ust. 1, organ, o którym mowa w art. 175dd § 1 tej ustawy, informuje o tym fakcie organ właściwy.
 
 13. Organ właściwy, po uzyskaniu informacji na podstawie ust. 4, 5 lub 10–12, wzywa podmiot uprawniony, o którym mowa w art. 19 ust. 2, do usunięcia nieprawidłowości w zakresie prowadzenia rejestru, o którym mowa w ust. 1, we wskazanym terminie.
 
@@ -381,9 +409,9 @@ source: "eli-html"
 - **1)** minimalne wymogi techniczne, których spełnienie jest niezbędne w celu prowadzenia elektronicznej wymiany informacji,
 - **2)** sposób udostępniania podmiotom uprawnionym, o których mowa w art. 19 ust. 2, informacji rejestrowanych,
 - **3)** format danych przekazywanych podmiotom uprawnionym, o których mowa w art. 19 ust. 2,
-- **4)** sposób i tryb przekazywania informacji, o których mowa w art. 22 ust. 1 pkt 3 i 4 oraz ust. 3 mając na uwadze konieczność zapewnienia bezpieczeństwa przetwarzanych w SInF informacji rejestrowanych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, a także konieczność prawidłowego i sprawnego przekazywania informacji rejestrowanych podmiotom uprawnionym, o których mowa w art. 19 ust. 2.
+- **4)** sposób i tryb przekazywania informacji, o których mowa w art. 22 ust. 1 pkt 3 i 4 oraz ust. 3 – mając na uwadze konieczność zapewnienia bezpieczeństwa przetwarzanych w SInF informacji rejestrowanych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, a także konieczność prawidłowego i sprawnego przekazywania informacji rejestrowanych podmiotom uprawnionym, o których mowa w art. 19 ust. 2.
 
-#### Rozdział 5 Ochrona danych i kontrola przekazywania do SInF informacji rejestrowanych
+#### Rozdział 5
 
 **Art. 29.**
 
@@ -400,7 +428,7 @@ source: "eli-html"
 
 2. Na uzasadniony wniosek podmiotów wskazanych w ust. 1 organ właściwy przekazuje z SInF informacje rejestrowane oraz informacje dotyczące wypełniania przez instytucje zobowiązane obowiązku przekazywania informacji rejestrowanych w zakresie, w jakim informacje te są niezbędne do sprawowania kontroli, o której mowa w ust. 1.
 
-#### Rozdział 6 Kary pieniężne
+#### Rozdział 6
 
 **Art. 31.**
 
@@ -432,7 +460,7 @@ source: "eli-html"
 
 **Art. 33.** Wpływy z kar pieniężnych stanowią dochód budżetu państwa.
 
-#### Rozdział 7 Przepisy karne
+#### Rozdział 7
 
 **Art. 34.**
 
@@ -442,7 +470,7 @@ source: "eli-html"
 
 **Art. 35.** Kto, bez uprawnienia lub z naruszeniem posiadanych uprawnień, przetwarza informacje rejestrowane lub informacje z rejestru, o którym mowa w art. 25 ust. 1, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
-#### Rozdział 8 Zmiany w przepisach
+#### Rozdział 8
 
 **Art. 36.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707) wprowadza się następujące zmiany:
 
@@ -456,9 +484,10 @@ source: "eli-html"
 - **4)** w art. 119zu: w § 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
 
-- **2a)** informacje rejestrowane, o których mowa w ustawie z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej; ” , w § 2a: – w pkt 1 wyrazy „bankiem lub spółdzielczą kasą oszczędnościowo-kredytową” zastępuje się wyrazami „bankiem, spółdzielczą kasą oszczędnościowo-kredytową lub instytucją zobowiązaną, o której mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej”, – pkt 2 otrzymuje brzmienie: „ 2) wykonywania przez izbę rozliczeniową na rzecz banków, spółdzielczych kas oszczędnościowo-kredytowych lub instytucji zobowiązanych, o których mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej, czynności niezbędnych do zastosowania przez banki, spółdzielcze kasy oszczędnościowo-kredytowe lub inne instytucje zobowiązane, o których mowa w art. 3 pkt 2 tej ustawy, środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu. ” ;
+- **2a)** informacje rejestrowane, o których mowa w ustawie z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej; ” , w § 2a: – w pkt 1 wyrazy „bankiem lub spółdzielczą kasą oszczędnościowo-kredytową” zastępuje się wyrazami „bankiem, spółdzielczą kasą oszczędnościowo-kredytową lub instytucją zobowiązaną, o której mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej”, pkt 2 otrzymuje brzmienie: „
     - **b)**
 
+- **2)** wykonywania przez izbę rozliczeniową na rzecz banków, spółdzielczych kas oszczędnościowo-kredytowych lub instytucji zobowiązanych, o których mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej, czynności niezbędnych do zastosowania przez banki, spółdzielcze kasy oszczędnościowo-kredytowe lub inne instytucje zobowiązane, o których mowa w art. 3 pkt 2 tej ustawy, środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu. ” ;
 - **5)** w art. 298 po pkt 6f dodaje się pkt 6g w brzmieniu: „
 - **6g)** Europejskiemu Urzędowi ds. Zwalczania Nadużyć Finansowych (OLAF) – w związku z toczącym się dochodzeniem administracyjnym prowadzonym przez ten Urząd lub przed wszczęciem dochodzenia; ” .
 
@@ -469,13 +498,13 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** w pkt 2 w lit. e dodaje się tiret szóste w brzmieniu: „ – w związku z wnioskiem o informacje złożonym na podstawie art. 7 ust. 3a rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, z późn. zm.) , ” .
+- **2)** w pkt 2 w lit. e dodaje się tiret szóste w brzmieniu: „ – w związku z wnioskiem o informacje złożonym na podstawie art. 7 ust. 3a rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49., ” .
 
 **Art. 38.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500, 1488, 1933, 2185 i 2640) w art. 150 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 
 - **2a)** Szefowi Krajowej Administracji Skarbowej oraz izbie rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, w zakresie niezbędnym do wykonywania odpowiednio zadań i obowiązków, o których mowa w ustawie z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej (Dz. U. z 2023 r. poz. 180); ” .
 
-**Art. 39.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2022 r. poz. 660, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 39.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2022 r. poz. 660, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 872, 1488, 1692, 2185, 2339 i 2640.) wprowadza się następujące zmiany:
 
 - **1)** w art. 17f: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -495,7 +524,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** w pkt 16: w lit. b średnik zastępuje się przecinkiem i dodaje się wyraz „lub”, dodaje się lit. c w brzmieniu: „ w związku z wnioskiem o informacje złożonym na podstawie art. 7 ust. 3a rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, z późn. zm.) ; ” .
+- **2)** w pkt 16: w lit. b średnik zastępuje się przecinkiem i dodaje się wyraz „lub”, dodaje się lit. c w brzmieniu: „ w związku z wnioskiem o informacje złożonym na podstawie art. 7 ust. 3a rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49.; ” .
     - **a)**
     - **b)**
     - **c)**
@@ -519,7 +548,7 @@ source: "eli-html"
 1. Punkt kontaktowy prowadzi rejestr realizowanych za jego pośrednictwem wniosków o informacje:
 
 - **1)** składanych w związku z wymianą informacji, o której mowa w art. 2a ust. 2,
-- **2)** z Systemu Informacji Finansowej składanych przez Agencję Unii Europejskiej ds. Współpracy Organów Ścigania (Europol) zwanych dalej „wnioskami o informacje”.
+- **2)** z Systemu Informacji Finansowej składanych przez Agencję Unii Europejskiej ds. Współpracy Organów Ścigania (Europol) – zwanych dalej „wnioskami o informacje”.
 
 2. Rejestr, o którym mowa w ust. 1, zawiera:
 
@@ -538,16 +567,16 @@ source: "eli-html"
 - **1)** liczbie złożonych wniosków o informacje wraz ze wskazaniem organu składającego;
 - **2)** sposobie rozpatrzenia wniosku o informacje;
 - **3)** średnim czasie rozpatrzenia wniosku o informacje;
-- **4)** liczbie spraw dotyczących przestępstwa obejmującego co najmniej jedną z form przestępczości, o której mowa w załączniku I do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. w sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępującego i uchylającego decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW (Dz. Urz. UE L 135 z 24.05.2016, str. 53, z późn. zm.), w których po przekazaniu odpowiedzi na wniosek wszczęte zostało postępowanie przygotowawcze – w zakresie, w jakim informacje te są dostępne dla organu prowadzącego rejestr;
+- **4)** liczbie spraw dotyczących przestępstwa obejmującego co najmniej jedną z form przestępczości, o której mowa w załączniku I do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. w sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępującego i uchylającego decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW (Dz. Urz. UE L 135 z 24.05.2016, str. 53, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 12.09.2018, str. 72, Dz. Urz. UE L 248 z 13.07.2021, str. 1 oraz Dz. Urz. UE L 169 z 27.06.2022, str. 1., w których po przekazaniu odpowiedzi na wniosek wszczęte zostało postępowanie przygotowawcze – w zakresie, w jakim informacje te są dostępne dla organu prowadzącego rejestr;
 - **5)** liczbie osób, wobec których sporządzono akt oskarżenia dotyczący przestępstwa obejmującego co najmniej jedną z form przestępczości, o której mowa w załączniku I do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. w sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępującego i uchylającego decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW, oraz liczbie osób skazanych za takie przestępstwa – w zakresie, w jakim informacje te są dostępne dla organu prowadzącego rejestr;
 - **6)** zasobach ludzkich lub informatycznych zaangażowanych przez organy prowadzące rejestry na podstawie art. 25a i art. 25b do obsługi wniosków o informacje składanych w związku z wymianą informacji, o której mowa w art. 2a ust. 2. ” .
 
-**Art. 42.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 42.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707 oraz z 2023 r. poz. 177.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 w ust. 1: pkt 18 otrzymuje brzmienie: „
     - **a)**
 
-- **18)** wykonywanie zadań jednostki koordynującej zwalczanie nadużyć finansowych, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącym dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającym rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, z późn. zm.) , zwanym dalej „rozporządzeniem (UE) nr 883/2013”; ” , w pkt 18a po wyrazach „na jego wniosek” dodaje się wyrazy „, o którym mowa w art. 8 ust. 2 rozporządzenia (UE) nr 883/2013,”, po pkt 18a dodaje się pkt 18b w brzmieniu: „
+- **18)** wykonywanie zadań jednostki koordynującej zwalczanie nadużyć finansowych, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącym dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającym rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, z późn. zm.) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49., zwanym dalej „rozporządzeniem (UE) nr 883/2013”; ” , w pkt 18a po wyrazach „na jego wniosek” dodaje się wyrazy „, o którym mowa w art. 8 ust. 2 rozporządzenia (UE) nr 883/2013,”, po pkt 18a dodaje się pkt 18b w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -579,7 +608,7 @@ source: "eli-html"
 - **10a)** informacji finansowej – rozumie się przez to informacje dotyczące wartości majątkowych, transakcji i stosunków gospodarczych, będące w posiadaniu Generalnego Inspektora Informacji Finansowej, zgromadzone na podstawie ustawy; ” , po pkt 19a dodaje się pkt 19b i 19c w brzmieniu: „
     - **c)**
 
-- **19b)** rozporządzeniu 2016/794 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. w sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępujące i uchylające decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW (Dz. Urz. UE L 135 z 24.05.2016, str. 53, z późn. zm.);
+- **19b)** rozporządzeniu 2016/794 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. w sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępujące i uchylające decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW (Dz. Urz. UE L 135 z 24.05.2016, str. 53, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 12.09.2018, str. 72, Dz. Urz. UE L 248 z 13.07.2021, str. 1 oraz Dz. Urz. UE L 169 z 27.06.2022, str. 1.;
 - **19c)** skrytce sejfowej – rozumie się przez to wyodrębnione i zabezpieczone miejsce o niewielkiej powierzchni, w wydzielonym pomieszczeniu lub wyznaczonej szafie ze skrytkami, zabezpieczone przed dostępem osób nieupoważnionych za pomocą systemu kontroli dostępu, alarmu, monitoringu lub ochrony fizycznej, które jest udostępniane klientowi za opłatą, w celu przechowywania zdeponowanych rzeczy ruchomych, na podstawie umowy, której łączny czas obowiązywania wynosi co najmniej 30 dni; ” ;
 - **2)** po art. 70 dodaje się art. 70a-70c w brzmieniu: „
 
@@ -607,7 +636,7 @@ source: "eli-html"
 - **18)** Prezesowi NIK,
 - **19)** Prezesowi NBP,
 - **20)** sądom,
-- **21)** prokuraturze za pomocą urządzeń teletransmisji danych.
+- **21)** prokuraturze – za pomocą urządzeń teletransmisji danych.
 
 2. Podmiotowi, o którym mowa w ust. 1, organ właściwy w sprawach Rejestru udostępnia, za pomocą urządzeń teletransmisji danych, informacje, o których mowa w art. 59, na wniosek złożony przed pierwszym udostępnieniem tych informacji za pomocą urządzeń teletransmisji danych, jeżeli podmiot ten spełnia łącznie następujące warunki:
 
@@ -619,7 +648,7 @@ source: "eli-html"
 
 - **1)** wyraża zgodę na ich udostępnianie,
 - **2)** odmawia wyrażenia zgody na ich udostępnianie,
-- **3)** cofa zgodę na ich udostępnianie w drodze decyzji.
+- **3)** cofa zgodę na ich udostępnianie – w drodze decyzji.
 
 2. Podmiotowi, o którym mowa w art. 70a ust. 1, organ właściwy cofa zgodę na udostępnianie, za pomocą urządzeń teletransmisji danych, informacji, o których mowa w art. 59:
 
@@ -670,7 +699,7 @@ source: "eli-html"
 2. W przypadku gdy wniosek zagranicznej jednostki analityki finansowej, o którym mowa w:
 
 - **1)** ust. 1 – nie spełnia wymogów, o których mowa w tym przepisie, lub w sposób niewystarczający wskazuje na związek wnioskowanych informacji z praniem pieniędzy lub finansowaniem terroryzmu,
-- **2)** ust. 1a – nie spełnia wymogów, o których mowa w tym przepisie, lub w sposób niewystarczający wskazuje na związek wnioskowanych informacji z terroryzmem lub związaną z nim przestępczością zorganizowaną Generalny Inspektor zwraca się o jego uzupełnienie. ” ;
+- **2)** ust. 1a – nie spełnia wymogów, o których mowa w tym przepisie, lub w sposób niewystarczający wskazuje na związek wnioskowanych informacji z terroryzmem lub związaną z nim przestępczością zorganizowaną – Generalny Inspektor zwraca się o jego uzupełnienie. ” ;
 - **7)** w art. 115: po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
     - **a)**
 
@@ -723,7 +752,7 @@ source: "eli-html"
 - **19)** nieprzeprowadzania transakcji, o którym mowa w art. 86 ust. 4 lub art. 89 ust. 3,
 - **20)** wstrzymania transakcji lub blokady rachunku, o którym mowa w art. 86 ust. 5 lub art. 87 ust. 2 ” .
 
-#### Rozdział 9 Przepisy przejściowe, dostosowujące i końcowe
+#### Rozdział 9
 
 **Art. 44.** Tworzy się SInF.
 
@@ -775,5 +804,5 @@ source: "eli-html"
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw finansów publicznych.
 
-**Art. 50.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 50.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa: 1) w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/843 z dnia 30 maja 2018 r. zmieniającą dyrektywę (UE) 2015/849 w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu oraz zmieniającą dyrektywy 2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43), – dyrektywę Rady (UE) 2021/514 z dnia 22 marca 2021 r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 104 z 25.03.2021, str. 1); 2) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1153 z dnia 20 czerwca 2019 r. ustanawiającą zasady ułatwiające korzystanie z informacji finansowych i innych informacji w celu zapobiegania niektórym przestępstwom, ich wykrywania, prowadzenia dochodzeń w ich sprawie lub ich ścigania oraz uchylającą decyzję Rady 2000/642/WSiSW (Dz. Urz. UE L 186 z 11.07.2019, str. 122); 3) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1358, 1488, 1933, 2339 i 2640 oraz z 2023 r. poz. 180. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 12.09.2018, str. 72, Dz. Urz. UE L 248 z 13.07.2021, str. 1 oraz Dz. Urz. UE L 169 z 27.06.2022, str. 1. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707 oraz z 2023 r. poz. 177 i 180. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 1, Dz. Urz. UE L 259 z 16.10.2018, str. 1, Dz. Urz. UE L 311 z 07.12.2018, str. 1 oraz Dz. Urz. UE L 62 z 02.03.2020, str. 1 i 13. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655, 1259, 1933 i 2642. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 872, 1488, 1692, 2185, 2339 i 2640. 12) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49. 13) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 12.09.2018, str. 72, Dz. Urz. UE L 248 z 13.07.2021, str. 1 oraz Dz. Urz. UE L 169 z 27.06.2022, str. 1. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707 oraz z 2023 r. poz. 177. 15) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49. 16) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 12.09.2018, str. 72, Dz. Urz. UE L 248 z 13.07.2021, str. 1 oraz Dz. Urz. UE L 169 z 27.06.2022, str. 1.
 

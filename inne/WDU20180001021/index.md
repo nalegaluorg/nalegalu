@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 maja 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 maja 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-24 |
 | Data wydania | 2018-05-28 |
-| Wejście w życie | 2018-05-29 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001021) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1021/text.pdf) |
 
@@ -35,16 +34,13 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 lipca 2015 r. w spr
 1)
 w § 2 w ust. 1:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-przed dniem złożenia wniosku o przyznanie pomocy, lecz nie wcześniej niż w okresie 24 miesięcy przed dniem złożenia tego wniosku, rozpoczęła prowadzenie działalności rolniczej w gospodarstwie rolnym w rozumieniu art. 553 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132 oraz z 2018 r. poz. 398 i 650), zwanym dalej „gospodarstwem”;
-” ,
+przed dniem złożenia wniosku o przyznanie pomocy, lecz nie wcześniej niż w okresie 24 miesięcy przed dniem złożenia tego wniosku, rozpoczęła prowadzenie działalności rolniczej w gospodarstwie rolnym w rozumieniu art. 553 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132 oraz z 2018 r. poz. 398 i 650), zwanym dalej „gospodarstwem”; ” ,
 b)
 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ przed dniem, w którym stała się właścicielem lub weszła w posiadanie gospodarstwa o powierzchni użytków rolnych wynoszącej co najmniej 1 ha: ” ;
 2)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 1.
 Za dzień rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie uznaje się dzień, w którym osoba fizyczna po raz pierwszy stała się właścicielem lub weszła w posiadanie gospodarstwa o powierzchni użytków rolnych wynoszącej co najmniej 1 ha.
@@ -53,8 +49,7 @@ Jeżeli właścicielem lub posiadaczem gospodarstwa o powierzchni użytków roln
 1)
 osoba niepełnoletnia – za dzień rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie uznaje się dzień uzyskania przez tę osobę pełnoletności;
 2)
-osoba fizyczna w wyniku dziedziczenia – za dzień rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie uznaje się dzień uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowania przez notariusza aktu poświadczenia dziedziczenia, chyba że dziedziczy osoba niepełnoletnia – wówczas za
-dzień rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie uznaje się dzień uzyskania przez tę osobę pełnoletności, jeżeli uzyskanie pełnoletności nastąpiło po dniu uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowania przez notariusza aktu poświadczenia dziedziczenia.
+osoba fizyczna w wyniku dziedziczenia – za dzień rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie uznaje się dzień uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowania przez notariusza aktu poświadczenia dziedziczenia, chyba że dziedziczy osoba niepełnoletnia – wówczas za dzień rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie uznaje się dzień uzyskania przez tę osobę pełnoletności, jeżeli uzyskanie pełnoletności nastąpiło po dniu uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowania przez notariusza aktu poświadczenia dziedziczenia.
 3.
 W przypadkach, o których mowa w ust. 2, czynności i zdarzenia, o których mowa w § 2 ust. 1 pkt 2 lit. a tiret pierwsze, lit. b oraz lit. c, mogą mieć miejsce przed dniem rozpoczęcia prowadzenia działalności rolniczej, o którym mowa w ust. 2. Jeżeli właścicielem lub posiadaczem gospodarstwa o powierzchni użytków rolnych wynoszącej co najmniej 1 ha stała się osoba fizyczna w wyniku dziedziczenia, czynności i zdarzenia, o których mowa w § 2 ust. 1 pkt 2 lit. a tiret pierwsze, lit. b oraz lit. c, mogą mieć miejsce nie wcześniej niż w okresie 5 lat poprzedzających dzień rozpoczęcia prowadzenia działalności rolniczej, o którym mowa w ust. 2, z tym że w przypadku gdy dziedziczy osoba niepełnoletnia, nie bierze się pod uwagę czynności i zdarzeń, o których mowa w § 2 ust. 1 pkt 2 lit. a tiret pierwsze, lit. b oraz lit. c, które miały miejsce przed dniem uzyskania przez nią pełnoletności.
 4.
@@ -76,71 +71,58 @@ działów specjalnych, o których mowa w § 6 ust. 6 pkt 2 lit. c tiret trzecie,
 b)
 hodowli i chowu koni hodowlanych poza gospodarstwem w liczbie nie większej niż 2 sztuki, lub
 4)
-dokonała innej czynności świadczącej o prowadzeniu działalności rolniczej w gospodarstwie jako kierujący
-za dzień rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie uznaje się dzień dokonania najwcześniejszej z tych czynności, jeżeli osoba fizyczna uprawdopodobni, że nie rozpoczęła prowadzenia działalności rolniczej przed tym dniem.
-” ;
+dokonała innej czynności świadczącej o prowadzeniu działalności rolniczej w gospodarstwie jako kierujący – za dzień rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie uznaje się dzień dokonania najwcześniejszej z tych czynności, jeżeli osoba fizyczna uprawdopodobni, że nie rozpoczęła prowadzenia działalności rolniczej przed tym dniem. ” ;
 3)
 w § 6:
 a)
 w ust. 1 uchyla się pkt 7,
 b)
-w ust. 2 w pkt 2 w lit. f wyrazy „rozporządzenia nr 1305/2013,” zastępuje się wyrazami „rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), zwanego dalej „rozporządzeniem nr 1305/2013”,”,
+w ust. 2 w pkt 2 w lit. f wyrazy „rozporządzenia nr 1305/2013,” zastępuje się wyrazami „rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15 i Dz. Urz. UE L 30 z 02.02.2018, str. 6.), zwanego dalej „rozporządzeniem nr 1305/2013”,”,
 c)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Przez udział w zorganizowanych formach współpracy producentów rolnych, o których mowa w ust. 2 pkt 2 lit. c, rozumie się członkostwo w grupie producentów rolnych w rozumieniu ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. poz. 983, z późn. zm.) lub w organizacji producentów w rozumieniu ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945), lub ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2018 r. poz. 724), lub w organizacji producentów owoców i warzyw w rozumieniu ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2016 r. poz. 58, z 2017 r. poz. 624 i 1503 oraz z 2018 r. poz. 650).
-” ,
+Przez udział w zorganizowanych formach współpracy producentów rolnych, o których mowa w ust. 2 pkt 2 lit. c, rozumie się członkostwo w grupie producentów rolnych w rozumieniu ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. poz. 983, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 2273, z 2004 r. poz. 1694, z 2005 r. poz. 1462, z 2006 r. poz. 1847, z 2008 r. poz. 634, z 2015 r. poz. 1888 oraz z 2017 r. poz. 624.) lub w organizacji producentów w rozumieniu ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945), lub ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2018 r. poz. 724), lub w organizacji producentów owoców i warzyw w rozumieniu ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2016 r. poz. 58, z 2017 r. poz. 624 i 1503 oraz z 2018 r. poz. 650). ” ,
 d)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-W ramach inwestycji, o której mowa w ust. 6 pkt 2 lit. a, może być uwzględniona wyłącznie inwestycja, która nie została rozpoczęta przed dniem złożenia wniosku o przyznanie pomocy, oraz – w przypadku gdy biznesplan przewiduje inwestycję polegającą na budowie, przebudowie, remoncie budynków lub budowli wykorzystywanych do produkcji rolnej, zwaną dalej „inwestycją budowlaną” – inwestycja, która będzie realizowana na gruntach stanowiących własność wnioskodawcy lub beneficjenta, przedmiot użytkowania wieczystego lub przedmiot dzierżawy z Zasobu Własności Rolnej Skarbu Państwa lub od jednostek samorządu terytorialnego.
-” ,
+W ramach inwestycji, o której mowa w ust. 6 pkt 2 lit. a, może być uwzględniona wyłącznie inwestycja, która nie została rozpoczęta przed dniem złożenia wniosku o przyznanie pomocy, oraz – w przypadku gdy biznesplan przewiduje inwestycję polegającą na budowie, przebudowie, remoncie budynków lub budowli wykorzystywanych do produkcji rolnej, zwaną dalej „inwestycją budowlaną” – inwestycja, która będzie realizowana na gruntach stanowiących własność wnioskodawcy lub beneficjenta, przedmiot użytkowania wieczystego lub przedmiot dzierżawy z Zasobu Własności Rolnej Skarbu Państwa lub od jednostek samorządu terytorialnego. ” ,
 e)
 uchyla się ust. 9;
 4)
 w § 11 w ust. 2:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-jej małżonek, zarówno w trakcie trwania małżeństwa, jak i przed jego zawarciem, w okresie poprzedzającym 24 miesiące przed dniem złożenia przez nią wniosku o przyznanie pomocy nie rozpoczął prowadzenia działalności rolniczej w gospodarstwie oraz w stosunku do małżonka przed dniem, w którym stał się on właścicielem lub wszedł w posiadanie gospodarstwa o powierzchni użytków rolnych wynoszącej co najmniej 1 ha, nie zaistniały czynności i zdarzenia, o których mowa w § 2 ust. 1 pkt 2, z wyłączeniem przypadku, o którym mowa w § 4 ust. 3;
-” ,
+jej małżonek, zarówno w trakcie trwania małżeństwa, jak i przed jego zawarciem, w okresie poprzedzającym 24 miesiące przed dniem złożenia przez nią wniosku o przyznanie pomocy nie rozpoczął prowadzenia działalności rolniczej w gospodarstwie oraz w stosunku do małżonka przed dniem, w którym stał się on właścicielem lub wszedł w posiadanie gospodarstwa o powierzchni użytków rolnych wynoszącej co najmniej 1 ha, nie zaistniały czynności i zdarzenia, o których mowa w § 2 ust. 1 pkt 2, z wyłączeniem przypadku, o którym mowa w § 4 ust. 3; ” ,
 b)
 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ małżonkowi, zarówno w trakcie trwania małżeństwa, jak i przed jego zawarciem, niezależnie od rodzaju małżeńskiego ustroju majątkowego, nie przyznano pomocy: ” ;
 5)
 w § 14 w ust. 1:
 a)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-dzień rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie;
-” ,
+dzień rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie; ” ,
 b)
-w pkt 5 lit. b otrzymuje brzmienie:
-„
+w pkt 5 lit. b otrzymuje brzmienie: „
 b)
-datę rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie, jeżeli małżonek rozpoczął prowadzenie działalności rolniczej w gospodarstwie przed dniem złożenia przez wnioskodawcę wniosku o przyznanie pomocy,
-” ;
+datę rozpoczęcia prowadzenia działalności rolniczej w gospodarstwie, jeżeli małżonek rozpoczął prowadzenie działalności rolniczej w gospodarstwie przed dniem złożenia przez wnioskodawcę wniosku o przyznanie pomocy, ” ;
 6)
 w § 15:
 a)
 w ust. 1:
 – w pkt 1 w lit. a i b oraz w pkt 7 w lit. b w tiret pierwszym i drugim wyrazy „§ 3 ust. 3 pkt 3” zastępuje się wyrazami „§ 2 ust. 1 pkt 2 lit. c”,
 – uchyla się pkt 5,
-– w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „ 10) kosztorys inwestorski – w przypadku gdy biznesplan przewiduje realizację inwestycji budowlanej. ” ,
+w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+10)
+kosztorys inwestorski – w przypadku gdy biznesplan przewiduje realizację inwestycji budowlanej. ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Kopie dokumentów dołącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Agencji lub podmiot, który wydał dokument, albo poświadczonych za zgodność z oryginałem przez notariusza lub przez występującego w sprawie pełnomocnika będącego radcą prawnym albo adwokatem.
-” ;
+Kopie dokumentów dołącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Agencji lub podmiot, który wydał dokument, albo poświadczonych za zgodność z oryginałem przez notariusza lub przez występującego w sprawie pełnomocnika będącego radcą prawnym albo adwokatem. ” ;
 7)
 w § 16:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 O kolejności przysługiwania pomocy decyduje suma uzyskanych punktów, z dokładnością do dwóch miejsc po przecinku, przyznawanych na podstawie następujących kryteriów wyboru:
 1)
@@ -148,8 +130,7 @@ powierzchnia użytków rolnych, o których mowa w § 7 ust. 1, w gospodarstwie w
 a)
 średniej powierzchni gruntów rolnych w gospodarstwie w kraju – w przypadku gospodarstw położonych w województwach, w których średnia powierzchnia gruntów rolnych w gospodarstwie jest niższa niż średnia powierzchnia gruntów rolnych w gospodarstwie w kraju,
 b)
-średniej powierzchni gruntów rolnych w gospodarstwie w województwie – w przypadku gospodarstw położonych w województwach, w których średnia powierzchnia gruntów rolnych w gospodarstwie jest wyższa niż średnia powierzchnia gruntów rolnych w gospodarstwie w kraju,
-wg wzoru: \( L = {{10 \times \left( {Pb – Psr} \right)} \over {Psr}} \) gdzie: L – oznacza liczbę punktów, Pb – oznacza powierzchnię użytków rolnych w gospodarstwie wskazanym w biznesplanie, Pśr – oznacza średnią powierzchnię gruntów rolnych w gospodarstwie odpowiednio w województwie bądź w kraju
+średniej powierzchni gruntów rolnych w gospodarstwie w województwie – w przypadku gospodarstw położonych w województwach, w których średnia powierzchnia gruntów rolnych w gospodarstwie jest wyższa niż średnia powierzchnia gruntów rolnych w gospodarstwie w kraju, wg wzoru: \( L = {{10 \times \left( {Pb – Psr} \right)} \over {Psr}} \) gdzie: L – oznacza liczbę punktów, Pb – oznacza powierzchnię użytków rolnych w gospodarstwie wskazanym w biznesplanie, Pśr – oznacza średnią powierzchnię gruntów rolnych w gospodarstwie odpowiednio w województwie bądź w kraju
 – jednak nie więcej niż 7 punktów;
 2)
 kwalifikacje, o których mowa w § 5 ust. 1:
@@ -172,7 +153,7 @@ działania, o których mowa w § 6 ust. 2 pkt 2 lit. c-e – przyznaje się 1 pu
 4)
 wpływ na realizację celów przekrojowych, o których mowa w art. 5 rozporządzenia nr 1305/2013:
 a)
-zobowiązanie do przygotowywania planu nawozowego, o którym mowa w załączniku nr 2 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 415, z późn. zm.), oraz stosowania tego planu, w szczególności prowadzenia wykazu działań agrotechnicznych zawierającego prace wykonywane na poszczególnych działkach rolnych w zakresie nawożenia, z podaniem nazwy i ilości zastosowanego nawozu pod poszczególne uprawy – przyznaje się 2 punkty,
+zobowiązanie do przygotowywania planu nawozowego, o którym mowa w załączniku nr 2 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 415, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 765, z 2016 r. poz. 326, 589 i 1367, z 2017 r. poz. 806 i 2139 oraz z 2018 r. poz. 584.), oraz stosowania tego planu, w szczególności prowadzenia wykazu działań agrotechnicznych zawierającego prace wykonywane na poszczególnych działkach rolnych w zakresie nawożenia, z podaniem nazwy i ilości zastosowanego nawozu pod poszczególne uprawy – przyznaje się 2 punkty,
 b)
 inwestycje w zakresie ochrony środowiska i klimatu – przyznaje się nie więcej niż 5 punktów;
 5)
@@ -182,20 +163,17 @@ powyżej 15 do 25 lat – przyznaje się 2 punkty,
 b)
 powyżej 25 lat – przyznaje się 4 punkty;
 6)
-przejmowanie przynajmniej jednego gospodarstwa w całości – przyznaje się 3 punkty.
-” ,
+przejmowanie przynajmniej jednego gospodarstwa w całości – przyznaje się 3 punkty. ” ,
 b)
 w ust. 5 wyrazy „pkt 6 i 7” zastępuje się wyrazami „pkt 5 i 6”,
 c)
 w ust. 6 wyrazy „ust. 2 pkt 4 lit. a i pkt 5 lit. a tiret trzecie” zastępuje się wyrazami „ust. 2 pkt 3 lit. a i pkt 4 lit. b”;
 8)
-w § 17 ust. 1 i 2 otrzymują brzmienie:
-„
+w § 17 ust. 1 i 2 otrzymują brzmienie: „
 1.
 Kolejność przysługiwania pomocy jest ustalana na podstawie danych i informacji zawartych we wniosku o przyznanie pomocy, dołączonych do niego dokumentach oraz kontroli administracyjnej. Dokonanie przez wnioskodawcę zmian we wniosku o przyznanie pomocy lub w dołączonych do niego dokumentach po upływie 150 dni od dnia zakończenia terminu składania wniosków albo po podaniu przez Prezesa Agencji informacji, o której mowa w § 18 ust. 3, jeżeli informacja ta została podana przed upływem 150 dni od dnia zakończenia terminu składania wniosków, nie wpływa na kolejność przysługiwania pomocy oraz liczbę przyznawanych punktów, z wyłączeniem przypadku, gdy zmiana taka powoduje zmniejszenie liczby punktów.
 2.
-W pierwszej kolejności pomoc przysługuje wnioskodawcom, którzy uzyskali największą liczbę punktów, przy czym pomoc jest przyznawana, jeżeli wnioskodawca uzyskał co najmniej 8 punktów.
-” ;
+W pierwszej kolejności pomoc przysługuje wnioskodawcom, którzy uzyskali największą liczbę punktów, przy czym pomoc jest przyznawana, jeżeli wnioskodawca uzyskał co najmniej 8 punktów. ” ;
 9)
 w § 18:
 a)
@@ -203,16 +181,16 @@ w ust. 1:
 – w pkt 2 wyrazy „12 punktów” zastępuje się wyrazami „8 punktów”,
 – w pkt 3 wyrazy „12 punktów” zastępuje się wyrazami „8 punktów”,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Prezes Agencji niezwłocznie po otrzymaniu informacji, o których mowa w ust. 2, podaje do publicznej wiadomości na stronie internetowej administrowanej przez Agencję informację o kolejności przysługiwania pomocy w poszczególnych województwach, z tym że w przypadku gdy podanie tej informacji miałoby nastąpić przed upływem 150 dni od dnia zakończenia terminu składania wniosków – Prezes Agencji informuje o przewidywanym terminie podania tej informacji do publicznej wiadomości na stronie internetowej administrowanej przez Agencję nie później niż 7 dni przed tym terminem.
-” ;
+Prezes Agencji niezwłocznie po otrzymaniu informacji, o których mowa w ust. 2, podaje do publicznej wiadomości na stronie internetowej administrowanej przez Agencję informację o kolejności przysługiwania pomocy w poszczególnych województwach, z tym że w przypadku gdy podanie tej informacji miałoby nastąpić przed upływem 150 dni od dnia zakończenia terminu składania wniosków – Prezes Agencji informuje o przewidywanym terminie podania tej informacji do publicznej wiadomości na stronie internetowej administrowanej przez Agencję nie później niż 7 dni przed tym terminem. ” ;
 10)
 w § 19:
 a)
 w ust. 2:
-– w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ f) rozpoczęcia realizacji biznesplanu; ” ,
+w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „
+f)
+rozpoczęcia realizacji biznesplanu; ” ,
 – uchyla się pkt 2,
 b)
 w ust. 5:
@@ -221,97 +199,86 @@ w ust. 5:
 11)
 w § 20:
 a)
-w ust. 3 pkt 3 otrzymuje brzmienie:
-„
+w ust. 3 pkt 3 otrzymuje brzmienie: „
 3)
-kopię lub wydruk strony z ewidencji przychodów i rozchodów w gospodarstwie lub księgi przychodów i rozchodów, lub księgi rachunkowej, lub ewidencji przychodów i rozchodów prowadzonej na podstawie odrębnych przepisów, zawierającej informację o zdarzeniach gospodarczych, które wystąpiły w gospodarstwie beneficjenta po dniu doręczenia decyzji o przyznaniu pomocy, lub zaświadczenie wydane przez biuro rachunkowe, o którym mowa w art. 2 pkt 5 ustawy z dnia 29 listopada 2000 r. o zbieraniu i wykorzystywaniu danych rachunkowych z gospodarstw rolnych (Dz. U. z 2001 r. poz. 20, z 2004 r. poz. 959 oraz z 2007 r. poz. 331), o prowadzeniu książek rachunkowych obejmujących zdarzenia gospodarcze, które wystąpiły w gospodarstwie beneficjenta po dniu doręczenia decyzji o przyznaniu pomocy, na potrzeby wspólnotowej sieci służącej do zbierania danych rachunkowych gospodarstw rolnych, o której mowa w rozporządzeniu Rady (WE) nr 1217/2009 z dnia 30 listopada 2009 r. ustanawiającym sieć zbierania danych rachunkowych o dochodach i działalności gospodarczej gospodarstw rolnych w Unii Europejskiej (Dz. Urz. UE L 328 z 15.12.2009, str. 27, z późn. zm.).
-” ,
+kopię lub wydruk strony z ewidencji przychodów i rozchodów w gospodarstwie lub księgi przychodów i rozchodów, lub księgi rachunkowej, lub ewidencji przychodów i rozchodów prowadzonej na podstawie odrębnych przepisów, zawierającej informację o zdarzeniach gospodarczych, które wystąpiły w gospodarstwie beneficjenta po dniu doręczenia decyzji o przyznaniu pomocy, lub zaświadczenie wydane przez biuro rachunkowe, o którym mowa w art. 2 pkt 5 ustawy z dnia 29 listopada 2000 r. o zbieraniu i wykorzystywaniu danych rachunkowych z gospodarstw rolnych (Dz. U. z 2001 r. poz. 20, z 2004 r. poz. 959 oraz z 2007 r. poz. 331), o prowadzeniu książek rachunkowych obejmujących zdarzenia gospodarcze, które wystąpiły w gospodarstwie beneficjenta po dniu doręczenia decyzji o przyznaniu pomocy, na potrzeby wspólnotowej sieci służącej do zbierania danych rachunkowych gospodarstw rolnych, o której mowa w rozporządzeniu Rady (WE) nr 1217/2009 z dnia 30 listopada 2009 r. ustanawiającym sieć zbierania danych rachunkowych o dochodach i działalności gospodarczej gospodarstw rolnych w Unii Europejskiej (Dz. Urz. UE L 328 z 15.12.2009, str. 27, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 195 z 27.07.2011, str. 42, Dz. Urz. UE L 340 z 17.12.2013, str. 1 i Dz. Urz. UE. L 328 z 12.12.2017, str. 1.. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Do dokumentów dołączanych do wniosku o płatność pierwszej raty pomocy przepis § 15 ust. 3 stosuje się odpowiednio.
-” ;
+Do dokumentów dołączanych do wniosku o płatność pierwszej raty pomocy przepis § 15 ust. 3 stosuje się odpowiednio. ” ;
 12)
 w § 22 uchyla się pkt 2 i 8;
 13)
 w § 23:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Drugą ratę pomocy, w wysokości 20 000 złotych, wypłaca się na wniosek o płatność, który składa się po realizacji biznesplanu, jednak nie później niż do dnia upływu 3 lat od dnia wypłaty pierwszej raty pomocy i nie później niż do dnia 31 sierpnia 2023 r., a w przypadku, o którym mowa w § 27 ust. 1 w zakresie wydłużenia okresu realizacji biznesplanu – nie później niż do dnia upływu 4 lat od dnia wypłaty pierwszej raty pomocy i nie później niż do dnia 31 sierpnia 2023 r. Pomoc jest wypłacana na rachunek bankowy beneficjenta wskazany we wniosku o płatność.
-” ,
+Drugą ratę pomocy, w wysokości 20 000 złotych, wypłaca się na wniosek o płatność, który składa się po realizacji biznesplanu, jednak nie później niż do dnia upływu 3 lat od dnia wypłaty pierwszej raty pomocy i nie później niż do dnia 31 sierpnia 2023 r., a w przypadku, o którym mowa w § 27 ust. 1 w zakresie wydłużenia okresu realizacji biznesplanu – nie później niż do dnia upływu 4 lat od dnia wypłaty pierwszej raty pomocy i nie później niż do dnia 31 sierpnia 2023 r. Pomoc jest wypłacana na rachunek bankowy beneficjenta wskazany we wniosku o płatność. ” ,
 b)
 w ust. 2 wyrazy „pkt 1–3, 7 i 8” zastępuje się wyrazami „pkt 1, 3 i 7”,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Wniosek o płatność drugiej raty pomocy zawiera dane, o których mowa w § 20 ust. 2.
-” ,
+Wniosek o płatność drugiej raty pomocy zawiera dane, o których mowa w § 20 ust. 2. ” ,
 d)
 w ust. 4:
 – we wprowadzeniu do wyliczenia wyrazy „pkt 1–3, 7 i 8” zastępuje się wyrazami „pkt 1, 3 i 7”,
 – w pkt 3 wyrazy „pkt 5 lit. a tiret drugie” zastępuje się wyrazami „pkt 4 lit. a”,
 e)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Do dokumentów dołączanych do wniosku o płatność drugiej raty pomocy przepis § 15 ust. 3 stosuje się odpowiednio.
-” ;
+Do dokumentów dołączanych do wniosku o płatność drugiej raty pomocy przepis § 15 ust. 3 stosuje się odpowiednio. ” ;
 14)
 w § 24:
 a)
 w ust. 2 i 3 wyrazy „pkt 1–3, 7 i 8” zastępuje się wyrazami „pkt 1, 3 i 7”,
 b)
 w ust. 4 w pkt 2:
-– lit. a otrzymuje brzmienie: „ a) przewidzianych w biznesplanie inwestycji w środki trwałe, o których mowa w § 6 ust. 1 pkt 5 lit. a – zwrotowi podlega procent kwoty pomocy równy udziałowi szacunkowych kosztów niezrealizowanych inwestycji w środki trwałe w kwocie pomocy, jednak nie więcej niż 100% kwoty pierwszej raty pomocy, ” ,
+lit. a otrzymuje brzmienie: „
+a)
+przewidzianych w biznesplanie inwestycji w środki trwałe, o których mowa w § 6 ust. 1 pkt 5 lit. a – zwrotowi podlega procent kwoty pomocy równy udziałowi szacunkowych kosztów niezrealizowanych inwestycji w środki trwałe w kwocie pomocy, jednak nie więcej niż 100% kwoty pierwszej raty pomocy, ” ,
 – uchyla się lit. b-e,
 c)
 w ust. 5:
-– pkt 2 otrzymuje brzmienie: „ 2) pkt 3 – zwrotowi podlega 30% kwoty pierwszej raty pomocy; ” ,
+pkt 2 otrzymuje brzmienie: „
+2)
+pkt 3 – zwrotowi podlega 30% kwoty pierwszej raty pomocy; ” ,
 – uchyla się pkt 4,
 d)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-W przypadku gdy beneficjentowi nie przysługiwałaby pomoc na podstawie sumy punktów pomniejszonej o liczbę punktów przyznanych z tytułu niezrealizowanego działania, o którym mowa w § 16 ust. 2 pkt 3 lub 4, zwrotowi podlega 100% kwoty pierwszej raty pomocy.
-” ;
+W przypadku gdy beneficjentowi nie przysługiwałaby pomoc na podstawie sumy punktów pomniejszonej o liczbę punktów przyznanych z tytułu niezrealizowanego działania, o którym mowa w § 16 ust. 2 pkt 3 lub 4, zwrotowi podlega 100% kwoty pierwszej raty pomocy. ” ;
 15)
-§ 25 otrzymuje brzmienie:
-„
+§ 25 otrzymuje brzmienie: „
 § 25.
 1.
 W terminie 90 dni przed dniem, w którym upływa 5 lat od dnia wypłaty pierwszej raty pomocy, beneficjent przedkłada dyrektorowi oddziału regionalnego Agencji informację o realizacji warunków, o których mowa w § 22 pkt 1 i 3, pkt 4 lit. d w zakresie utrzymania osiągniętego wzrostu wielkości ekonomicznej oraz pkt 7, opracowaną na formularzu udostępnionym przez Agencję, zawierającą w szczególności wielkość ekonomiczną gospodarstwa.
 2.
-Do informacji, o której mowa w ust. 1, beneficjent dołącza oświadczenie potwierdzające prowadzenie ewidencji przychodów i rozchodów w gospodarstwie lub księgi przychodów i rozchodów, lub księgi rachunkowej, lub ewidencji przychodów i rozchodów na podstawie odrębnych przepisów lub zaświadczenie, o którym mowa w § 20 ust. 3 pkt 3.
-” ;
+Do informacji, o której mowa w ust. 1, beneficjent dołącza oświadczenie potwierdzające prowadzenie ewidencji przychodów i rozchodów w gospodarstwie lub księgi przychodów i rozchodów, lub księgi rachunkowej, lub ewidencji przychodów i rozchodów na podstawie odrębnych przepisów lub zaświadczenie, o którym mowa w § 20 ust. 3 pkt 3. ” ;
 16)
 w § 26:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Jeżeli beneficjent, któremu upłynął termin na realizację biznesplanu, nie spełniał do dnia upływu 5 lat od dnia wypłaty pierwszej raty pomocy warunków, o których mowa w § 22 pkt 1, 3, pkt 4 lit. d w zakresie utrzymania wzrostu wielkości ekonomicznej gospodarstwa oraz pkt 7, lub nie przedłoży w Agencji informacji lub dokumentów, o których mowa w § 23 ust. 5 lub § 25, pomoc podlega zwrotowi w całości lub części.
-” ,
+Jeżeli beneficjent, któremu upłynął termin na realizację biznesplanu, nie spełniał do dnia upływu 5 lat od dnia wypłaty pierwszej raty pomocy warunków, o których mowa w § 22 pkt 1, 3, pkt 4 lit. d w zakresie utrzymania wzrostu wielkości ekonomicznej gospodarstwa oraz pkt 7, lub nie przedłoży w Agencji informacji lub dokumentów, o których mowa w § 23 ust. 5 lub § 25, pomoc podlega zwrotowi w całości lub części. ” ,
 b)
 w ust. 2:
 – w pkt 1, 3 i 4 wyrazy „kwoty pomocy” zastępuje się wyrazami „wypłaconej kwoty pomocy”,
-– pkt 2 otrzymuje brzmienie: „ 2) pkt 3 – zwrotowi podlega 25% wypłaconej kwoty pomocy; ” ,
+pkt 2 otrzymuje brzmienie: „
+2)
+pkt 3 – zwrotowi podlega 25% wypłaconej kwoty pomocy; ” ,
 – uchyla się pkt 5,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-W przypadku nieprzedłożenia w terminie dokumentów, o których mowa w § 23 ust. 5 lub w § 25, zwrotowi podlega 0,5% wypłaconej kwoty pomocy za nieprzedłożenie każdego z dokumentów określonych w tych przepisach.
-” ;
+W przypadku nieprzedłożenia w terminie dokumentów, o których mowa w § 23 ust. 5 lub w § 25, zwrotowi podlega 0,5% wypłaconej kwoty pomocy za nieprzedłożenie każdego z dokumentów określonych w tych przepisach. ” ;
 17)
 w § 27 w ust. 3 wyrazy „10 punktów procentowych” zastępuje się wyrazami „30 punktów procentowych”;
 18)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
 19)
-w załączniku nr 2 do rozporządzenia w tabeli w części VII. Maszyny do uprawy gleby lp. 67 otrzymuje brzmienie: 67 Pługi dłutowe/kultywatory dłutowe, grubery 8
+w załączniku nr 2 do rozporządzenia w tabeli w części VII. Maszyny do uprawy gleby lp. 67 otrzymuje brzmienie:
+67 Pługi dłutowe/kultywatory dłutowe, grubery 8
 § 2.
 1.
 Do przyznawania pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi i niezakończonymi decyzją ostateczną do dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe, z wyłączeniem § 6 ust. 1 pkt 7 rozporządzenia zmienianego w § 1.
@@ -320,8 +287,7 @@ Do wypłaty i zwrotu pomocy finansowej na operacje typu „Premie dla młodych r
 1)
 przed dniem wejścia w życie niniejszego rozporządzenia,
 2)
-po dniu wejścia w życie niniejszego rozporządzenia, jeżeli postępowanie w sprawie przyznania tej pomocy zostało wszczęte przed dniem wejścia w życie niniejszego rozporządzenia
-stosuje się przepisy dotychczasowe, z wyłączeniem § 20 ust. 3 pkt 3 i ust. 4, § 24 ust. 4 pkt 2 lit. a oraz § 26 ust. 3 rozporządzenia zmienianego w § 1, które stosuje się w brzmieniu nadanym niniejszym rozporządzeniem, oraz z wyłączeniem § 22 pkt 2 rozporządzenia zmienianego w § 1.
+po dniu wejścia w życie niniejszego rozporządzenia, jeżeli postępowanie w sprawie przyznania tej pomocy zostało wszczęte przed dniem wejścia w życie niniejszego rozporządzenia – stosuje się przepisy dotychczasowe, z wyłączeniem § 20 ust. 3 pkt 3 i ust. 4, § 24 ust. 4 pkt 2 lit. a oraz § 26 ust. 3 rozporządzenia zmienianego w § 1, które stosuje się w brzmieniu nadanym niniejszym rozporządzeniem, oraz z wyłączeniem § 22 pkt 2 rozporządzenia zmienianego w § 1.
 3.
 Do informacji, o której mowa w § 25 rozporządzenia zmienianego w § 1, beneficjent może dołączyć zamiast oświadczenia potwierdzającego prowadzenie ewidencji przychodów i rozchodów w gospodarstwie lub księgi przychodów i rozchodów, lub księgi rachunkowej, lub ewidencji przychodów i rozchodów na podstawie odrębnych przepisów – zaświadczenie wydawane przez biuro rachunkowe, o którym mowa w art. 2 pkt 5 ustawy z dnia 29 listopada 2000 r. o zbieraniu i wykorzystywaniu danych rachunkowych z gospodarstw rolnych (Dz. U. z 2001 r. poz. 20, z 2004 r. poz. 959 oraz z 2007 r. poz. 331).
 4.
@@ -329,11 +295,9 @@ Do osób nieposiadających kwalifikacji zawodowych w zakresie określonym w zał
 1)
 którym przyznano pomoc finansową na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 przed dniem wejścia w życie niniejszego rozporządzenia oraz
 2)
-które zobowiązały się do uzupełnienia tych kwalifikacji w okresie 36 miesięcy od dnia doręczenia decyzji o przyznaniu tej pomocy
-szczegółowy wykaz kierunków studiów, zawodów oraz tytułów kwalifikacyjnych, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych określony w załączniku nr 1 do rozporządzenia zmienianego w § 1 stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
+które zobowiązały się do uzupełnienia tych kwalifikacji w okresie 36 miesięcy od dnia doręczenia decyzji o przyznaniu tej pomocy – szczegółowy wykaz kierunków studiów, zawodów oraz tytułów kwalifikacyjnych, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych określony w załączniku nr 1 do rozporządzenia zmienianego w § 1 stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15 i Dz. Urz. UE L 30 z 02.02.2018, str. 6. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 2273, z 2004 r. poz. 1694, z 2005 r. poz. 1462, z 2006 r. poz. 1847, z 2008 r. poz. 634, z 2015 r. poz. 1888 oraz z 2017 r. poz. 624. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 765, z 2016 r. poz. 326, 589 i 1367, z 2017 r. poz. 806 i 2139 oraz z 2018 r. poz. 584. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 195 z 27.07.2011, str. 42, Dz. Urz. UE L 340 z 17.12.2013, str. 1 i Dz. Urz. UE. L 328 z 12.12.2017, str. 1.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15 i Dz. Urz. UE L 30 z 02.02.2018, str. 6. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 2273, z 2004 r. poz. 1694, z 2005 r. poz. 1462, z 2006 r. poz. 1847, z 2008 r. poz. 634, z 2015 r. poz. 1888 oraz z 2017 r. poz. 624. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 765, z 2016 r. poz. 326, 589 i 1367, z 2017 r. poz. 806 i 2139 oraz z 2018 r. poz. 584. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 195 z 27.07.2011, str. 42, Dz. Urz. UE L 340 z 17.12.2013, str. 1 i Dz. Urz. UE. L 328 z 12.12.2017, str. 1.
 Załącznik – Szczegółowy wykaz kierunków studiów, zawodów oraz tytułów kwalifikacyjnych, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych
 1.
 Kierunkami studiów pierwszego, drugiego stopnia oraz jednolitych studiów magisterskich, których ukończenie uznaje się za posiadanie kwalifikacji zawodowych, są:
@@ -346,8 +310,7 @@ weterynaria – w przypadku gdy w gospodarstwie są prowadzone chów lub hodowla
 4)
 technika rolnicza i leśna;
 5)
-zootechnika.
-W przypadku ukończenia studiów na kierunku innym niż wymienione w pkt 1–5 za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej uznaje się kierunki studiów, w ramach których zakres kształcenia albo standardy kształcenia obejmują treści związane z działalnością rolniczą w wymiarze łącznym co najmniej 200 godzin lub co najmniej 30 punktów uzyskanych w ramach Europejskiego Systemu Transferu i Akumulacji Punktów (European Credit Transfer and Accumulation System).
+zootechnika. W przypadku ukończenia studiów na kierunku innym niż wymienione w pkt 1–5 za kwalifikacje zawodowe przydatne do prowadzenia działalności rolniczej uznaje się kierunki studiów, w ramach których zakres kształcenia albo standardy kształcenia obejmują treści związane z działalnością rolniczą w wymiarze łącznym co najmniej 200 godzin lub co najmniej 30 punktów uzyskanych w ramach Europejskiego Systemu Transferu i Akumulacji Punktów (European Credit Transfer and Accumulation System).
 2.
 Wykaz zawodów rolniczych na poziomie kwalifikacji technika:
 1)
@@ -392,7 +355,34 @@ a)
 świadectwo lub dyplom ukończenia szkoły z uzyskanym tytułem zawodowym albo dyplom uzyskania tytułu zawodowego lub dyplom potwierdzający kwalifikacje zawodowe,
 b)
 świadectwo ukończenia szkoły dającej wykształcenie średnie wraz ze świadectwami potwierdzającymi kwalifikacje w zawodzie, odpowiednio:
-– technik rolnik: – – łącznie: świadectwo potwierdzające kwalifikację R.3. Prowadzenie produkcji rolniczej oraz świadectwo potwierdzające kwalifikację R.16. Organizacja i nadzorowanie produkcji rolniczej lub – – łącznie: świadectwo potwierdzające kwalifikację RL.03. Prowadzenie produkcji rolniczej oraz świadectwo potwierdzające kwalifikację RL.16. Organizacja i nadzorowanie produkcji rolniczej, – technik ogrodnik: – – łącznie: świadectwo potwierdzające kwalifikację R.5. Zakładanie i prowadzenie upraw ogrodniczych oraz świadectwo potwierdzające kwalifikację R.18. Planowanie i organizacja prac ogrodniczych lub – – łącznie: świadectwo potwierdzające kwalifikację RL.05. Zakładanie i prowadzenie upraw ogrodniczych oraz świadectwo potwierdzające kwalifikację RL.18. Planowanie i organizacja prac ogrodniczych, – technik architektury krajobrazu: – – łącznie: świadectwo potwierdzające kwalifikację R.21. Projektowanie, urządzanie i pielęgnacja roślinnych obiektów architektury krajobrazu oraz świadectwo potwierdzające kwalifikację R.22. Organizacja prac związanych z budową oraz konserwacją obiektów małej architektury krajobrazu lub – – łącznie: świadectwo potwierdzające kwalifikację RL.21. Projektowanie, urządzanie i pielęgnacja roślinnych obiektów architektury krajobrazu oraz świadectwo potwierdzające kwalifikację RL.22. Organizacja prac związanych z budową oraz konserwacją obiektów małej architektury krajobrazu, – technik hodowca koni: – – łącznie: świadectwo potwierdzające kwalifikację R.19. Organizowanie chowu i hodowli koni oraz świadectwo potwierdzające kwalifikację R.20. Szkolenie i użytkowanie koni lub – – łącznie: świadectwo potwierdzające kwalifikację RL.19. Organizacja chowu i hodowli koni lub RL.06. Jeździectwo i trening konia oraz RL. 20. Szkolenie i użytkowanie koni, – technik pszczelarz: – – łącznie: świadectwo potwierdzające kwalifikację R.4. Prowadzenie produkcji pszczelarskiej oraz świadectwo potwierdzające kwalifikację R.17. Organizacja i nadzorowanie produkcji rolniczej i pszczelarskiej lub – – łącznie: świadectwo potwierdzające kwalifikację RL.04. Prowadzenie produkcji pszczelarskiej oraz świadectwo potwierdzające kwalifikację RL.17. Organizacja i nadzorowanie produkcji rolniczej i pszczelarskiej, – technik weterynarii: – – łącznie: świadectwo potwierdzające kwalifikację R.9. Prowadzenie chowu, hodowli i inseminacji zwierząt oraz świadectwo potwierdzające kwalifikację R.10. Wykonywanie czynności pomocniczych z zakresu usług weterynaryjnych, oraz świadectwo potwierdzające kwalifikację R.11. Wykonywanie czynności pomocniczych z zakresu realizacji zadań inspekcji weterynaryjnej lub – – łącznie: świadectwo potwierdzające kwalifikację RL.10. Prowadzenie chowu i inseminacji zwierząt oraz świadectwo potwierdzające kwalifikację RL.11. Wykonywanie czynności pomocniczych w zakresie usług weterynaryjnych oraz kontroli i nadzoru weterynaryjnego, – technik agrobiznesu: – – łącznie: świadectwo potwierdzające kwalifikację R.3. Prowadzenie produkcji rolniczej oraz świadectwo potwierdzające kwalifikację R.6. Organizacja i prowadzenie przedsiębiorstwa w agrobiznesie lub – – łącznie: świadectwo potwierdzające kwalifikację RL. 03. Prowadzenie produkcji rolniczej oraz świadectwo potwierdzające kwalifikację RL.07. Organizacja i prowadzenie przedsiębiorstwa w agrobiznesie, – technik mechanizacji rolnictwa – łącznie: świadectwo potwierdzające kwalifikację M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie oraz świadectwo potwierdzające kwalifikację M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie, oraz świadectwo potwierdzające kwalifikację M.43. Organizacja prac związanych z eksploatacją środków technicznych stosowanych w rolnictwie, – technik mechanizacji rolnictwa i agrotroniki: – – łącznie: świadectwo potwierdzające kwalifikację M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie oraz świadectwo potwierdzające kwalifikację M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie, oraz świadectwo potwierdzające kwalifikację M.46. Eksploatacja systemów mechatronicznych w rolnictwie lub – – łącznie: świadectwo potwierdzające kwalifikację MG.03. Eksploatacja pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie i świadectwo potwierdzające kwalifikację MG.42. Eksploatacja systemów mechatronicznych w rolnictwie, – technik turystyki wiejskiej: – – łącznie: świadectwo potwierdzające kwalifikację T.7. Prowadzenie działalności turystycznej na obszarach wiejskich i świadectwo potwierdzające kwalifikację T.8. Prowadzenie gospodarstwa agroturystycznego lub – – łącznie: świadectwo potwierdzające kwalifikację TG.08. Prowadzenie działalności turystycznej na obszarach wiejskich i świadectwo potwierdzające kwalifikację TG.09. Prowadzenie gospodarstwa agroturystycznego;
+technik rolnik:
+– – łącznie: świadectwo potwierdzające kwalifikację R.3. Prowadzenie produkcji rolniczej oraz świadectwo potwierdzające kwalifikację R.16. Organizacja i nadzorowanie produkcji rolniczej lub
+– – łącznie: świadectwo potwierdzające kwalifikację RL.03. Prowadzenie produkcji rolniczej oraz świadectwo potwierdzające kwalifikację RL.16. Organizacja i nadzorowanie produkcji rolniczej,
+– technik ogrodnik:
+– – łącznie: świadectwo potwierdzające kwalifikację R.5. Zakładanie i prowadzenie upraw ogrodniczych oraz świadectwo potwierdzające kwalifikację R.18. Planowanie i organizacja prac ogrodniczych lub
+– – łącznie: świadectwo potwierdzające kwalifikację RL.05. Zakładanie i prowadzenie upraw ogrodniczych oraz świadectwo potwierdzające kwalifikację RL.18. Planowanie i organizacja prac ogrodniczych,
+– technik architektury krajobrazu:
+– – łącznie: świadectwo potwierdzające kwalifikację R.21. Projektowanie, urządzanie i pielęgnacja roślinnych obiektów architektury krajobrazu oraz świadectwo potwierdzające kwalifikację R.22. Organizacja prac związanych z budową oraz konserwacją obiektów małej architektury krajobrazu lub
+– – łącznie: świadectwo potwierdzające kwalifikację RL.21. Projektowanie, urządzanie i pielęgnacja roślinnych obiektów architektury krajobrazu oraz świadectwo potwierdzające kwalifikację RL.22. Organizacja prac związanych z budową oraz konserwacją obiektów małej architektury krajobrazu,
+– technik hodowca koni:
+– – łącznie: świadectwo potwierdzające kwalifikację R.19. Organizowanie chowu i hodowli koni oraz świadectwo potwierdzające kwalifikację R.20. Szkolenie i użytkowanie koni lub
+– – łącznie: świadectwo potwierdzające kwalifikację RL.19. Organizacja chowu i hodowli koni lub RL.06. Jeździectwo i trening konia oraz RL. 20. Szkolenie i użytkowanie koni,
+– technik pszczelarz:
+– – łącznie: świadectwo potwierdzające kwalifikację R.4. Prowadzenie produkcji pszczelarskiej oraz świadectwo potwierdzające kwalifikację R.17. Organizacja i nadzorowanie produkcji rolniczej i pszczelarskiej lub
+– – łącznie: świadectwo potwierdzające kwalifikację RL.04. Prowadzenie produkcji pszczelarskiej oraz świadectwo potwierdzające kwalifikację RL.17. Organizacja i nadzorowanie produkcji rolniczej i pszczelarskiej,
+– technik weterynarii:
+– – łącznie: świadectwo potwierdzające kwalifikację R.9. Prowadzenie chowu, hodowli i inseminacji zwierząt oraz świadectwo potwierdzające kwalifikację R.10. Wykonywanie czynności pomocniczych z zakresu usług weterynaryjnych, oraz świadectwo potwierdzające kwalifikację R.11. Wykonywanie czynności pomocniczych z zakresu realizacji zadań inspekcji weterynaryjnej lub
+– – łącznie: świadectwo potwierdzające kwalifikację RL.10. Prowadzenie chowu i inseminacji zwierząt oraz świadectwo potwierdzające kwalifikację RL.11. Wykonywanie czynności pomocniczych w zakresie usług weterynaryjnych oraz kontroli i nadzoru weterynaryjnego,
+– technik agrobiznesu:
+– – łącznie: świadectwo potwierdzające kwalifikację R.3. Prowadzenie produkcji rolniczej oraz świadectwo potwierdzające kwalifikację R.6. Organizacja i prowadzenie przedsiębiorstwa w agrobiznesie lub
+– – łącznie: świadectwo potwierdzające kwalifikację RL. 03. Prowadzenie produkcji rolniczej oraz świadectwo potwierdzające kwalifikację RL.07. Organizacja i prowadzenie przedsiębiorstwa w agrobiznesie,
+– technik mechanizacji rolnictwa – łącznie: świadectwo potwierdzające kwalifikację M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie oraz świadectwo potwierdzające kwalifikację M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie, oraz świadectwo potwierdzające kwalifikację M.43. Organizacja prac związanych z eksploatacją środków technicznych stosowanych w rolnictwie,
+– technik mechanizacji rolnictwa i agrotroniki:
+– – łącznie: świadectwo potwierdzające kwalifikację M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie oraz świadectwo potwierdzające kwalifikację M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie, oraz świadectwo potwierdzające kwalifikację M.46. Eksploatacja systemów mechatronicznych w rolnictwie lub
+– – łącznie: świadectwo potwierdzające kwalifikację MG.03. Eksploatacja pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie i świadectwo potwierdzające kwalifikację MG.42. Eksploatacja systemów mechatronicznych w rolnictwie,
+– technik turystyki wiejskiej:
+– – łącznie: świadectwo potwierdzające kwalifikację T.7. Prowadzenie działalności turystycznej na obszarach wiejskich i świadectwo potwierdzające kwalifikację T.8. Prowadzenie gospodarstwa agroturystycznego lub
+– – łącznie: świadectwo potwierdzające kwalifikację TG.08. Prowadzenie działalności turystycznej na obszarach wiejskich i świadectwo potwierdzające kwalifikację TG.09. Prowadzenie gospodarstwa agroturystycznego;
 3)
 w zawodzie wymienionym w ust. 3:
 a)
@@ -402,7 +392,9 @@ b)
 – rolnik – świadectwo potwierdzające kwalifikację R.3. Prowadzenie produkcji rolniczej lub RL.03. Prowadzenie produkcji rolniczej,
 – ogrodnik – świadectwo potwierdzające kwalifikację R.5. Zakładanie i prowadzenie upraw ogrodniczych lub RL.05. Zakładanie i prowadzenie upraw ogrodniczych,
 – pszczelarz – świadectwo potwierdzające kwalifikację R.4. Prowadzenie produkcji pszczelarskiej lub RL.04. Prowadzenie produkcji pszczelarskiej,
-– mechanik operator pojazdów i maszyn rolniczych: – – łącznie: świadectwo potwierdzające kwalifikację M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie oraz świadectwo potwierdzające kwalifikację M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie lub – – świadectwo potwierdzające kwalifikację MG.03. Eksploatacja pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie,
+mechanik operator pojazdów i maszyn rolniczych:
+– – łącznie: świadectwo potwierdzające kwalifikację M.1. Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie oraz świadectwo potwierdzające kwalifikację M.2. Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie lub
+– – świadectwo potwierdzające kwalifikację MG.03. Eksploatacja pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie,
 c)
 zaświadczenie wydane przez okręgową komisję egzaminacyjną o zdaniu egzaminu eksternistycznego z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia wraz ze świadectwami potwierdzającymi kwalifikacje wymienionymi w lit. b;
 4)

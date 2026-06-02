@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-17 |
 | Data wydania | 2008-12-12 |
-| Wejście w życie | 2008-12-27 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201417) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1417/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243 oraz z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 209, poz. 1318.) wprowadza się następujące zmiany:
 
 - **1)** w art. 18 ust. 8 otrzymuje brzmienie: „
 
@@ -38,5 +37,5 @@ source: "eli-html"
 
 **Art. 2.** Przepis art. 18 ust. 8 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się do składek należnych za okres od dnia 1 stycznia 2009 r.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243 oraz z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 209, poz. 1318.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 7 lutego 2024 r. w sprawie domów dla matek z małoletnimi dziećmi i kobiet w ciąży
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 7 lutego 2024 r. w sprawie domów dla matek z małoletnimi dziećmi i kobiet w ciąży Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-07 |
 | Data wydania | 2024-02-09 |
-| Wejście w życie | 2024-02-10 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/169/text.pdf) |
 
@@ -44,8 +43,7 @@ kobietom w ciąży,
 3)
 ojcom z małoletnimi dziećmi,
 4)
-innym osobom sprawującym opiekę prawną nad małoletnimi dziećmi
-zwanym dalej „mieszkańcami”.
+innym osobom sprawującym opiekę prawną nad małoletnimi dziećmi – zwanym dalej „mieszkańcami”.
 2.
 Dom zapewnia odpowiednie do potrzeb mieszkańców wsparcie specjalistyczne mające na celu przezwyciężenie sytuacji kryzysowej, która była przyczyną skierowania do domu.
 § 3.
@@ -196,6 +194,5 @@ W uzasadnionych przypadkach pobyt mieszkańca domu może być przedłużony pona
 2.
 W przypadku osiągnięcia przez dziecko pełnoletniości w trakcie pobytu w domu, w sytuacji kiedy w domu przebywa jego matka, ojciec albo opiekun prawny z młodszym rodzeństwem, osoba może pozostać w domu do czasu przebywania w placówce rodzica albo opiekuna prawnego, pod warunkiem że nadal uczęszcza do szkoły lub szkoły wyższej lub legitymuje się orzeczeniem o znacznym lub umiarkowanym stopniu niepełnosprawności.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 17 stycznia 2022 r. w sprawie domów dla matek z małoletnimi dziećmi i kobiet w ciąży (Dz. U. poz. 150), które utraciło moc z dniem 22 grudnia 2023 r. na podstawie art. 22 ust. 5 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 17 stycznia 2022 r. w sprawie domów dla matek z małoletnimi dziećmi i kobiet w ciąży (Dz. U. poz. 150), które utraciło moc z dniem 22 grudnia 2023 r. na podstawie art. 22 ust. 5 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535). 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 17 stycznia 2022 r. w sprawie domów dla matek z małoletnimi dziećmi i kobiet w ciąży (Dz. U. poz. 150), które utraciło moc z dniem 22 grudnia 2023 r. na podstawie art. 22 ust. 5 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535).
 

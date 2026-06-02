@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-25 |
 | Data wydania | 2013-02-12 |
-| Wejście w życie | 2013-02-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/198/text.pdf) |
 
@@ -38,7 +37,7 @@ source: "eli-html"
 3. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, szczegółowe warunki oraz tryb udzielania w ramach programów rządowych, o których mowa w ust. 1, w formie poręczeń lub gwarancji Banku Gospodarstwa Krajowego:
 
 - **1)** pomocy publicznej,
-- **2)** pomocy de minimis uwzględniając konieczność realizacji celów określonych w programach rządowych oraz efektywnego i skutecznego wykorzystania poszczególnych rodzajów pomocy, a także zapewnienia przejrzystości udzielania tej pomocy i jej zgodności z rynkiem wewnętrznym. ” ;
+- **2)** pomocy de minimis – uwzględniając konieczność realizacji celów określonych w programach rządowych oraz efektywnego i skutecznego wykorzystania poszczególnych rodzajów pomocy, a także zapewnienia przejrzystości udzielania tej pomocy i jej zgodności z rynkiem wewnętrznym. ” ;
 - **2)** w art. 34b ust. 2 otrzymuje brzmienie: „
 
 2. Umowa między ministrem właściwym do spraw finansów publicznych a Bankiem Gospodarstwa Krajowego określi:

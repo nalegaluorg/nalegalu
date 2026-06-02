@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych
+# Ustawa z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych, ustawę z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego, ustawę z dnia 21 listopada 2008 r. o emeryturach kapitałowych oraz ustawę z dnia 25 marca 2011 r. o zmianie niektórych ustaw związanych z funkcjonowaniem systemu ubezpieczeń społecznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-06 |
 | Data wydania | 2013-12-31 |
-| Wejście w życie | 2014-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1717/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540 oraz z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304 i 1387.) wprowadza się następujące zmiany:
 
 - **1)** w art. 30: w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „
     - **a)**
 
-- **14)** od kwoty wypłat z indywidualnego konta zabezpieczenia emerytalnego, w tym wypłat na rzecz osoby uprawnionej na wypadek śmierci oszczędzającego dokonanych na podstawie art. 34a ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. Nr 116, poz. 1205, z późn. zm.) – w wysokości 10% przychodu. ” , ust. 3 otrzymuje brzmienie: „
+- **14)** od kwoty wypłat z indywidualnego konta zabezpieczenia emerytalnego, w tym wypłat na rzecz osoby uprawnionej na wypadek śmierci oszczędzającego dokonanych na podstawie art. 34a ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. Nr 116, poz. 1205, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 183, poz. 1538, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 220, poz. 1432, z 2009 r. Nr 165, poz. 1316, z 2010 r. Nr 18, poz. 98 i Nr 257, poz. 1724, z 2011 r. Nr 75, poz. 398 i Nr 171, poz. 1016 oraz z 2013 r. poz. 1289.) – w wysokości 10% przychodu. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Zryczałtowany podatek, o którym mowa w ust. 1 pkt 2, 4–5a, 13 i 14, pobiera się bez pomniejszania przychodu o koszty uzyskania. ” ;
@@ -49,7 +48,7 @@ source: "eli-html"
 
 4. Płatnicy, o których mowa w ust. 1, są obowiązani pobierać zryczałtowany podatek dochodowy od dokonywanych wypłat (świadczeń) lub stawianych do dyspozycji podatnika pieniędzy lub wartości pieniężnych z tytułów określonych w art. 29, art. 30 ust. 1 pkt 2, 4–5a, 13 i 14 oraz art. 30a ust. 1, z zastrzeżeniem ust. 4d, 5 oraz 10. ” .
 
-**Art. 2.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2013 r. poz. 666, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2013 r. poz. 666, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1355 i 1623.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 1 uchyla się pkt 11;
 - **2)** w art. 18 ust. 3 otrzymuje brzmienie: „
@@ -67,7 +66,7 @@ source: "eli-html"
 
 - **1)** w art. 2 ust. 2 otrzymuje brzmienie: „
 
-2. Przedmiotem działalności funduszu jest gromadzenie środków pieniężnych i ich lokowanie z przeznaczeniem na wypłatę członkom funduszu emerytury po osiągnięciu przez nich wieku emerytalnego oraz emerytury częściowej, o których mowa w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440), lub okresowej emerytury kapitałowej, o której mowa w ustawie z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. Nr 228, poz. 1507, z późn. zm.), z zastrzeżeniem ust. 3. ” ;
+2. Przedmiotem działalności funduszu jest gromadzenie środków pieniężnych i ich lokowanie z przeznaczeniem na wypłatę członkom funduszu emerytury po osiągnięciu przez nich wieku emerytalnego oraz emerytury częściowej, o których mowa w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440), lub okresowej emerytury kapitałowej, o której mowa w ustawie z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. Nr 228, poz. 1507, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 254, poz. 1700 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398 oraz z 2012 r. poz. 637.), z zastrzeżeniem ust. 3. ” ;
 
 - **2)** art. 7 otrzymuje brzmienie: „
 
@@ -78,7 +77,7 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **6a)** fundusz emerytalny FUS – oznacza fundusz emerytalny Funduszu Ubezpieczeń Społecznych, o którym mowa w art. 55 ust. 1 pkt 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.); ” , w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „
+- **6a)** fundusz emerytalny FUS – oznacza fundusz emerytalny Funduszu Ubezpieczeń Społecznych, o którym mowa w art. 55 ust. 1 pkt 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717.); ” , w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „
     - **d)**
 
 - **17)** rynek regulowany w państwach innych niż Rzeczpospolita Polska – oznacza działający w sposób stały w państwach, o których mowa w art. 141 ust. 4, system obrotu instrumentami finansowymi dopuszczonymi do tego obrotu, zapewniający inwestorom powszechny i równy dostęp do informacji rynkowej w tym samym czasie przy kojarzeniu ofert nabycia i zbycia instrumentów finansowych oraz jednakowe warunki nabywania i zbywania tych instrumentów, zorganizowany i podlegający nadzorowi właściwego organu, a w przypadku rynku działającego w państwach będących członkami Unii Europejskiej – uznany przez to państwo za spełniający te warunki i wskazany Komisji Europejskiej jako rynek regulowany. ” ;
@@ -131,7 +130,7 @@ source: "eli-html"
 3. Rada Ministrów określi, w drodze rozporządzenia, terminy, sposób i tryb:
 
 - **1)** informowania przez Zakład Ubezpieczeń Społecznych otwartego funduszu o obowiązku przekazania środków zgromadzonych na rachunku członka otwartego funduszu na fundusz emerytalny FUS w związku z ukończeniem przez ubezpieczonego wieku niższego o 10 lat od wieku emerytalnego, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych,
-- **2)** umarzania, o którym mowa w ust. 2, informowania Zakładu Ubezpieczeń Społecznych przez otwarty fundusz emerytalny o okresach, za które umorzono jednostki rozrachunkowe oraz dokonywania rozliczeń między Zakładem Ubezpieczeń Społecznych a otwartym funduszem wynikających z obowiązku przekazania środków zgromadzonych na rachunku członka otwartego funduszu na fundusz emerytalny FUS w związku z ukończeniem przez ubezpieczonego wieku niższego o 10 lat od wieku emerytalnego, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w taki sposób, aby w miesiącu, w którym ubezpieczony ukończy wiek emerytalny, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, nastąpiło umorzenie wszystkich jednostek rozrachunkowych pozostających na rachunku ubezpieczonego biorąc pod uwagę konieczność zapewnienia ochrony interesu ubezpieczonych oraz prawidłowości przekazywania zgromadzonych środków.
+- **2)** umarzania, o którym mowa w ust. 2, informowania Zakładu Ubezpieczeń Społecznych przez otwarty fundusz emerytalny o okresach, za które umorzono jednostki rozrachunkowe oraz dokonywania rozliczeń między Zakładem Ubezpieczeń Społecznych a otwartym funduszem wynikających z obowiązku przekazania środków zgromadzonych na rachunku członka otwartego funduszu na fundusz emerytalny FUS w związku z ukończeniem przez ubezpieczonego wieku niższego o 10 lat od wieku emerytalnego, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w taki sposób, aby w miesiącu, w którym ubezpieczony ukończy wiek emerytalny, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, nastąpiło umorzenie wszystkich jednostek rozrachunkowych pozostających na rachunku ubezpieczonego – biorąc pod uwagę konieczność zapewnienia ochrony interesu ubezpieczonych oraz prawidłowości przekazywania zgromadzonych środków.
 
 1. W przypadku złożenia przez członka otwartego funduszu wniosku o przyznanie emerytury częściowej, o której mowa w art. 26b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, po ustaleniu, że ubezpieczony spełnia warunki do przyznania tej emerytury, Zakład Ubezpieczeń Społecznych zawiadamia otwarty fundusz o złożeniu wniosku i o obowiązku przekazania całości środków zgromadzonych na rachunku w otwartym funduszu na fundusz emerytalny FUS.
 
@@ -209,7 +208,7 @@ source: "eli-html"
 - **16)** będących przedmiotem oferty publicznej obligacjach i innych dłużnych papierach wartościowych, emitowanych przez właściwe regionalne lub lokalne władze publiczne państw, o których mowa w ust. 4;
 - **17)** innych niż będących przedmiotem oferty publicznej obligacjach i innych dłużnych papierach wartościowych, emitowanych przez jednostki samorządu terytorialnego lub ich związki;
 - **18)** innych niż będących przedmiotem oferty publicznej obligacjach i innych dłużnych papierach wartościowych, emitowanych przez właściwe regionalne lub lokalne władze publiczne państw, o których mowa w ust. 4;
-- **19)** obligacjach przychodowych, o których mowa w ustawie z dnia 29 czerwca 1995 r. o obligacjach (Dz. U. z 2001 r. Nr 120, poz. 1300, z późn. zm.);
+- **19)** obligacjach przychodowych, o których mowa w ustawie z dnia 29 czerwca 1995 r. o obligacjach (Dz. U. z 2001 r. Nr 120, poz. 1300, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 216, poz. 1824, z 2003 r. Nr 217, poz. 2124, z 2005 r. Nr 157, poz. 1316, Nr 183, poz. 1538, Nr 184, poz. 1539 i Nr 249, poz. 2104, z 2008 r. Nr 231, poz. 1547, z 2009 r. Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 165, poz. 1316, z 2011 r. Nr 129, poz. 731 oraz z 2013 r. poz. 433.);
 - **20)** dłużnych papierach wartościowych, których emitent może ograniczyć swoją odpowiedzialność za zobowiązania z nich wynikające do kwoty przychodów lub wartości majątku przedsięwzięcia, do których obligatariuszowi służy prawo pierwszeństwa przed innymi wierzycielami emitenta i których emitentami mogą być następujące podmioty mające siedzibę na terytorium państw, o których mowa w ust. 4: właściwe regionalne lub lokalne władze publiczne, banki lub instytucje kredytowe, realizujące w szczególności programy rządowe, w tym realizowane z wykorzystaniem środków pochodzących z funduszy Unii Europejskiej oraz międzynarodowych instytucji finansowych, infrastrukturalne, a także związane z rozwojem sektora małych i średnich przedsiębiorstw, państwowe fundusze realizujące działalność polegającą na udzielaniu wsparcia finansowego funduszom kapitałowym, inwestującym w przedsiębiorców mających siedzibę na terytorium państw, o których mowa w ust. 4, spółki, w których podmioty wymienione w lit. a posiadają taką liczbę akcji lub udziałów, która zapewnia tym podmiotom więcej niż 50% ogólnej liczby głosów w tych spółkach, o ile jedynym przedmiotem działalności spółek jest zaspokajanie potrzeb społeczności lokalnych lub wykonywanie zadań z zakresu użyteczności publicznej, spółki, których jedynym przedmiotem działalności jest wykonywanie zadań z zakresu użyteczności publicznej na podstawie umów zawartych z podmiotami wymienionymi w lit. a i które zadania te będą wykonywać co najmniej przez okres równy okresowi zapadalności emitowanych w tym celu papierów wartościowych, spółki, które na podstawie upoważnienia zawartego w przepisach prawa lub na podstawie koncesji albo zezwolenia wykonywać będą zadania z zakresu użyteczności publicznej albo świadczyć usługi w zakresie transportu lub komunikacji oraz utrzymania i rozwoju infrastruktury komunikacyjnej lub transportowej co najmniej przez okres równy okresowi zapadalności emitowanych w tym celu papierów wartościowych;
     - **a)**
     - **b)**
@@ -377,7 +376,7 @@ source: "eli-html"
 - **2)** sposób i tryb wnoszenia wpłat do Funduszu Gwarancyjnego,
 - **3)** sposób i tryb działania Funduszu Gwarancyjnego, w tym lokowania jego środków,
 - **4)** sposób gospodarowania środkami Funduszu Gwarancyjnego, wysokość opłat wnoszonych do Krajowego Depozytu za administrowanie Funduszem Gwarancyjnym i tryb ich wnoszenia,
-- **5)** warunki i tryb dokonywania wypłat ze środków Funduszu Gwarancyjnego oraz ich zwrotu powszechnym towarzystwom, a także sposób dokonywania rozliczeń z powszechnymi towarzystwami, które zaprzestały dokonywania wpłat wskutek zakończenia działalności określonej w ustawie mając na względzie cele, jakim służą środki gromadzone w Funduszu Gwarancyjnym. ” ;
+- **5)** warunki i tryb dokonywania wypłat ze środków Funduszu Gwarancyjnego oraz ich zwrotu powszechnym towarzystwom, a także sposób dokonywania rozliczeń z powszechnymi towarzystwami, które zaprzestały dokonywania wpłat wskutek zakończenia działalności określonej w ustawie – mając na względzie cele, jakim służą środki gromadzone w Funduszu Gwarancyjnym. ” ;
 - **36)** art. 187–188b otrzymują brzmienie: „
 
 **Art. 187.** Ze środków Funduszu Gwarancyjnego są pokrywane szkody, o których mowa w art. 48 ust. 1, w zakresie, w jakim powszechne towarzystwo nie ponosi za nie odpowiedzialności, lub szkody te nie mogą być pokryte z jego masy upadłości.
@@ -447,8 +446,10 @@ source: "eli-html"
 
 **Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, 1623 i 1650) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) otwarte fundusze emerytalne, określone w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych, w zakresie gromadzenia i lokowania składki na ubezpieczenie emerytalne, o której mowa w art. 22 ust. 3 pkt 1 lit. a; ” , – uchyla się pkt 3, ust. 3 otrzymuje brzmienie: „
+- **1)** w art. 3: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** otwarte fundusze emerytalne, określone w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych, w zakresie gromadzenia i lokowania składki na ubezpieczenie emerytalne, o której mowa w art. 22 ust. 3 pkt 1 lit. a; ” , – uchyla się pkt 3, ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Zakres zadań z ubezpieczeń społecznych wykonywanych przez otwarte fundusze emerytalne określają przepisy o organizacji i funkcjonowaniu funduszy emerytalnych. ” ;
@@ -466,7 +467,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** nieodprowadzania lub zaprzestania odprowadzania składki do otwartego funduszu emerytalnego, o którym mowa w ust. 3d, część składki na ubezpieczenie emerytalne wynosząca 7,3% podstawy wymiaru składki jest ewidencjonowana przez Zakład na subkoncie, o którym mowa w art. 40a z uwzględnieniem art. 111. ” , uchyla się ust. 3b i 3c, dodaje się ust. 3d-3h w brzmieniu: „
+- **2)** nieodprowadzania lub zaprzestania odprowadzania składki do otwartego funduszu emerytalnego, o którym mowa w ust. 3d, część składki na ubezpieczenie emerytalne wynosząca 7,3% podstawy wymiaru składki jest ewidencjonowana przez Zakład na subkoncie, o którym mowa w art. 40a – z uwzględnieniem art. 111. ” , uchyla się ust. 3b i 3c, dodaje się ust. 3d-3h w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -546,9 +547,16 @@ source: "eli-html"
 
 1f. Przepisu ust. 1e nie stosuje się do osób spełniających ustawowe warunki do ustalenia prawa do okresowej emerytury kapitałowej.
 
-1g. Przepis ust. 1e stosuje się odpowiednio do osób, którym nie ustalono prawa do okresowej emerytury kapitałowej z przyczyn, o których mowa w art. 8 pkt 2 ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych. ” , w ust. 2: – uchyla się pkt 6, – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12–15 w brzmieniu: „ 12) o małżeńskich stosunkach majątkowych oraz o osobach fizycznych, na rzecz których ma nastąpić w razie śmierci wypłata środków zewidencjonowanych na subkoncie, o którym mowa w art. 40a, w przypadku osób niebędących członkami otwartego funduszu emerytalnego, dla których Zakład prowadzi to subkonto; 13) o kwocie środków, o której mowa w art. 25 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych zewidencjonowanych na subkoncie, o którym mowa w art. 40a; 14) o osobach uposażonych, o których mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych; 15) o oświadczeniach: a) o przekazywaniu do otwartego funduszu emerytalnego składki, o której mowa w art. 22 ust. 3 pkt 1 lit. a, począwszy od składki opłaconej za lipiec, b) o zewidencjonowaniu składki, o której mowa w art. 22 ust. 3 pkt 2, na subkoncie, o którym mowa w art. 40a, począwszy od składki opłaconej za miesiąc, w którym złożono wniosek. ” ;
+1g. Przepis ust. 1e stosuje się odpowiednio do osób, którym nie ustalono prawa do okresowej emerytury kapitałowej z przyczyn, o których mowa w art. 8 pkt 2 ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych. ” , w ust. 2: – uchyla się pkt 6, w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12–15 w brzmieniu: „
 
 - **c)**
+- **12)** o małżeńskich stosunkach majątkowych oraz o osobach fizycznych, na rzecz których ma nastąpić w razie śmierci wypłata środków zewidencjonowanych na subkoncie, o którym mowa w art. 40a, w przypadku osób niebędących członkami otwartego funduszu emerytalnego, dla których Zakład prowadzi to subkonto;
+- **13)** o kwocie środków, o której mowa w art. 25 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych zewidencjonowanych na subkoncie, o którym mowa w art. 40a;
+- **14)** o osobach uposażonych, o których mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
+- **15)** o oświadczeniach: o przekazywaniu do otwartego funduszu emerytalnego składki, o której mowa w art. 22 ust. 3 pkt 1 lit. a, począwszy od składki opłaconej za lipiec, o zewidencjonowaniu składki, o której mowa w art. 22 ust. 3 pkt 2, na subkoncie, o którym mowa w art. 40a, począwszy od składki opłaconej za miesiąc, w którym złożono wniosek. ” ;
+    - **a)**
+    - **b)**
+
 - **10)** w art. 40a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -613,8 +621,10 @@ source: "eli-html"
 12. Przepisy ust. 1–11a stosuje się odpowiednio w przypadku ustania wspólności majątkowej w czasie trwania małżeństwa albo umownego wyłączenia lub ograniczenia wspólności ustawowej między osobą, dla której Zakład prowadzi subkonto, a jej małżonkiem. ” ;
 
 - **15)** uchyla się art. 40f;
-- **16)** w art. 50: w ust. 1a: – pkt 2a otrzymuje brzmienie: „ 2a) kwot składek, środków i odsetek za zwłokę, ogółem, zewidencjonowanych na subkoncie, według stanu na dzień 31 grudnia poprzedniego roku; ” , – w pkt 3 zdanie wstępne otrzymuje brzmienie: „ składek na ubezpieczenie emerytalne, z wyłączeniem składek podlegających odprowadzeniu do otwartego funduszu emerytalnego i zewidencjonowaniu na subkoncie: ” , po ust. 1g dodaje się ust. 1h i 1i w brzmieniu: „
+- **16)** w art. 50: w ust. 1a: pkt 2a otrzymuje brzmienie: „
     - **a)**
+
+- **2a)** kwot składek, środków i odsetek za zwłokę, ogółem, zewidencjonowanych na subkoncie, według stanu na dzień 31 grudnia poprzedniego roku; ” , – w pkt 3 zdanie wstępne otrzymuje brzmienie: „ składek na ubezpieczenie emerytalne, z wyłączeniem składek podlegających odprowadzeniu do otwartego funduszu emerytalnego i zewidencjonowaniu na subkoncie: ” , po ust. 1g dodaje się ust. 1h i 1i w brzmieniu: „
     - **b)**
 
 1h. Zakład nie przesyła informacji o stanie konta ubezpieczonym, którzy w systemie teleinformatycznym Zakładu utworzyli profil informacyjny. Zakres danych objętych informacją o stanie konta Zakład udostępnia tym ubezpieczonym w systemie teleinformatycznym w formie elektronicznej, z zastrzeżeniem ust. 1i.
@@ -665,11 +675,15 @@ source: "eli-html"
 - **22)** w art. 58: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Dla ubezpieczenia emerytalnego tworzy się Fundusz Rezerwy Demograficznej. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ FRD zasilany jest: ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) aktywami pochodzącymi z przeniesienia aktywów, o których mowa w art. 23 ust. 2 pkt 2–4 ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717), które są wyodrębniane ewidencyjnie; ” ;
+1. Dla ubezpieczenia emerytalnego tworzy się Fundusz Rezerwy Demograficznej. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ FRD zasilany jest: ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
 
 - **b)**
-- **23)** w art. 59: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) uzupełnienie wynikającego z przyczyn demograficznych niedoboru funduszu emerytalnego, o którym mowa w art. 55 ust. 1 pkt 1, z zastrzeżeniem ust. 3 i art. 112 ust. 1; ” , – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ 3) zasilenie funduszu emerytalnego z aktywów, o których mowa w art. 58 ust. 2 pkt 4a, powiększonych o przychody uzyskane z tych aktywów. ” , po ust. 2a dodaje się ust. 2b i 2c w brzmieniu: „
+- **4a)** aktywami pochodzącymi z przeniesienia aktywów, o których mowa w art. 23 ust. 2 pkt 2–4 ustawy z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych (Dz. U. poz. 1717), które są wyodrębniane ewidencyjnie; ” ;
+- **23)** w art. 59: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** uzupełnienie wynikającego z przyczyn demograficznych niedoboru funduszu emerytalnego, o którym mowa w art. 55 ust. 1 pkt 1, z zastrzeżeniem ust. 3 i art. 112 ust. 1; ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** zasilenie funduszu emerytalnego z aktywów, o których mowa w art. 58 ust. 2 pkt 4a, powiększonych o przychody uzyskane z tych aktywów. ” , po ust. 2a dodaje się ust. 2b i 2c w brzmieniu: „
     - **b)**
 
 2b. Rozporządzenia, o którym mowa w ust. 2, nie wydaje się, jeżeli ustawa budżetowa na dany rok kalendarzowy ujmuje w przychodach FUS środki, o których mowa w ust. 1 pkt 1.
@@ -724,7 +738,7 @@ source: "eli-html"
 
 - **1)** nabył prawo do emerytury z tytułu osiągnięcia wieku, o którym mowa w art. 24 ust. 1b, albo do dnia poprzedzającego osiągnięcie tego wieku miał ustalone prawo do okresowej emerytury kapitałowej,
 - **2)** posiadał subkonto, o którym mowa w art. 40a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
-- **3)** nie pobiera okresowej emerytury kapitałowej o możliwości wskazania imiennie jednej lub kilku osób fizycznych jako osób uposażonych, na rzecz których ma nastąpić po śmierci emeryta wypłata jednorazowego świadczenia pieniężnego, zwanego dalej „wypłatą gwarantowaną”.
+- **3)** nie pobiera okresowej emerytury kapitałowej – o możliwości wskazania imiennie jednej lub kilku osób fizycznych jako osób uposażonych, na rzecz których ma nastąpić po śmierci emeryta wypłata jednorazowego świadczenia pieniężnego, zwanego dalej „wypłatą gwarantowaną”.
 
 2. Wskazanie osoby, o której mowa w ust. 1, niewymienionej w art. 67 może nastąpić po uzyskaniu zgody współmałżonka emeryta wyrażonej w formie pisemnej.
 
@@ -778,7 +792,7 @@ source: "eli-html"
 
 1a. W przypadku kosztów, o których mowa w ust. 1, ponoszonych przez zagraniczne zakłady ubezpieczeń, ich wysokość jest wyliczana od zbioru składek brutto z tytułu umów ubezpieczenia zawartych w związku z wykonywaniem działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej. ” .
 
-**Art. 8.** W ustawie z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. Nr 116, poz. 1205, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. Nr 116, poz. 1205, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 183, poz. 1538, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 220, poz. 1432, z 2009 r. Nr 165, poz. 1316, z 2010 r. Nr 18, poz. 98 i Nr 257, poz. 1724, z 2011 r. Nr 75, poz. 398 i Nr 171, poz. 1016 oraz z 2013 r. poz. 1289.) wprowadza się następujące zmiany:
 
 - **1)** art. 13a otrzymuje brzmienie: „
 
@@ -808,10 +822,10 @@ source: "eli-html"
 
 1. Środki zgromadzone na IKE lub IKZE mogą być obciążone zastawem. Zaspokojenie wierzytelności zabezpieczonej zastawem z IKE jest traktowane jako częściowy zwrot albo zwrot. Zaspokojenie wierzytelności zabezpieczonej zastawem z IKZE jest traktowane jako zwrot. ” .
 
-**Art. 9.** W ustawie z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. Nr 228, poz. 1507, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. Nr 228, poz. 1507, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 254, poz. 1700 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398 oraz z 2012 r. poz. 637.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 pkt 1 otrzymuje brzmienie: „
-- **1)** rodzaje świadczeń pieniężnych wypłacanych ze środków zgromadzonych w otwartych funduszach emerytalnych oraz środków zewidencjonowanych na subkoncie, o którym mowa w art. 40a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.), zwanych dalej „emeryturami kapitałowymi”; ” ;
+- **1)** rodzaje świadczeń pieniężnych wypłacanych ze środków zgromadzonych w otwartych funduszach emerytalnych oraz środków zewidencjonowanych na subkoncie, o którym mowa w art. 40a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717.), zwanych dalej „emeryturami kapitałowymi”; ” ;
 - **2)** w art. 3: uchyla się pkt 2, pkt 3 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -967,14 +981,14 @@ source: "eli-html"
 1. W przypadku osób, które uzyskały członkostwo w otwartym funduszu emerytalnym w wyniku losowania przeprowadzonego w styczniu 2014 r. w trybie art. 39 ustawy zmienianej w art. 5, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, Zakład Ubezpieczeń Społecznych:
 
 - **1)** ewidencjonuje na subkoncie, o którym mowa w art. 40a ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, 51,5% nominalnej wartości składek opłaconych, w wysokości obowiązującej za okresy, których składki dotyczą,
-- **2)** przekazuje do dnia 31 października 2014 r. do otwartego funduszu emerytalnego 48,5% nominalnej wartości składek opłaconych, w wysokości obowiązującej za okresy, których składki dotyczą na dzień przeprowadzenia losowania.
+- **2)** przekazuje do dnia 31 października 2014 r. do otwartego funduszu emerytalnego 48,5% nominalnej wartości składek opłaconych, w wysokości obowiązującej za okresy, których składki dotyczą – na dzień przeprowadzenia losowania.
 
 2. W stosunku do ubezpieczonych, którym Zakład Ubezpieczeń Społecznych wyznaczył otwarty fundusz emerytalny w drodze losowania w dniu 31 stycznia 2014 r., stosuje się przepisy art. 81 ust. 6 pkt 1 i ust. 7–9 ustawy zmienianej w art. 4, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
 
 1. Okresowa emerytura kapitałowa ustalona przed dniem wejścia w życie niniejszej ustawy zgodnie z art. 24 pkt 1 i 2 ustawy zmienianej w art. 9, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, jako suma:
 
 - **1)** części obliczonej ze środków zgromadzonych w otwartych funduszach emerytalnych i wypłacanej z tych środków oraz
-- **2)** części obliczonej ze środków zewidencjonowanych na subkoncie, o którym mowa w art. 40a ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, i wypłacanej z tych środków od dnia wejścia w życie niniejszej ustawy staje się okresową emeryturą kapitałową, ustaloną ze środków zewidencjonowanych na subkoncie, o którym mowa w art. 40a ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, i wypłacaną z tych środków.
+- **2)** części obliczonej ze środków zewidencjonowanych na subkoncie, o którym mowa w art. 40a ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, i wypłacanej z tych środków – od dnia wejścia w życie niniejszej ustawy staje się okresową emeryturą kapitałową, ustaloną ze środków zewidencjonowanych na subkoncie, o którym mowa w art. 40a ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, i wypłacaną z tych środków.
 
 2. Przepis ust. 1 stosuje się odpowiednio do okresowej emerytury kapitałowej obliczonej w całości ze środków zgromadzonych w otwartych funduszach emerytalnych i wypłacanej przed dniem wejścia w życie niniejszej ustawy z tych środków.
 
@@ -1010,7 +1024,7 @@ source: "eli-html"
 2. W dniu 3 lutego 2014 r. otwarty fundusz emerytalny przekazuje do Zakładu Ubezpieczeń Społecznych następujące kategorie aktywów, w określonej poniżej kolejności, aż do osiągnięcia wartości odpowiadającej sumie wartości umorzonych jednostek rozrachunkowych, o których mowa w ust. 1, według stanu na dzień 31 stycznia 2014 r.:
 
 - **1)** obligacje i bony emitowane przez Skarb Państwa;
-- **2)** obligacje emitowane przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.), gwarantowane przez Skarb Państwa;
+- **2)** obligacje emitowane przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 oraz z 2013 r. poz. 433, 843, 1543 i 1646.), gwarantowane przez Skarb Państwa;
 - **3)** inne papiery wartościowe opiewające na świadczenia pieniężne, gwarantowane lub poręczane przez Skarb Państwa;
 - **4)** środki pieniężne denominowane w walucie polskiej.
 
@@ -1061,7 +1075,7 @@ source: "eli-html"
 
 1. Powszechne towarzystwo emerytalne wycofuje przechowywane na rachunku części dodatkowej Funduszu Gwarancyjnego środki w dniu 1 lipca 2014 r. oraz zamyka rachunek części dodatkowej Funduszu Gwarancyjnego.
 
-2. Środki wycofane z Funduszu Gwarancyjnego, o których mowa w ust. 1, stanowią przychód powszechnego towarzystwa emerytalnego w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.).
+2. Środki wycofane z Funduszu Gwarancyjnego, o których mowa w ust. 1, stanowią przychód powszechnego towarzystwa emerytalnego w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 362, 596, 769, 1010, 1342, 1448 i 1540 oraz z 2013 r. poz. 21, 613, 888, 1012, 1027, 1036, 1287 i 1387.).
 
 **Art. 28.**
 
@@ -1079,7 +1093,7 @@ source: "eli-html"
 
 - **1)** szczegółowy sposób ustalania okresowej stopy zwrotu otwartego funduszu emerytalnego oraz okresowej porównawczej stopy zwrotu otwartego funduszu emerytalnego, w tym zasady zaokrąglania ustalonych wielkości,
 - **2)** sposób i termin zawiadamiania organu nadzoru przez otwarty fundusz emerytalny o wysokości okresowej stopy zwrotu otwartego funduszu emerytalnego oraz sposób i termin przekazywania przez otwarty fundusz emerytalny informacji o wysokości tej stopy na ogólnodostępnej stronie internetowej,
-- **3)** sposób i termin ogłaszania okresowej stopy zwrotu otwartego funduszu emerytalnego oraz okresowej porównawczej stopy zwrotu otwartego funduszu emerytalnego mając na względzie zapewnienie prawidłowego wyliczania stopy zwrotu i terminowego zawiadamiania organu nadzoru.
+- **3)** sposób i termin ogłaszania okresowej stopy zwrotu otwartego funduszu emerytalnego oraz okresowej porównawczej stopy zwrotu otwartego funduszu emerytalnego – mając na względzie zapewnienie prawidłowego wyliczania stopy zwrotu i terminowego zawiadamiania organu nadzoru.
 
 **Art. 29.**
 
@@ -1116,5 +1130,5 @@ source: "eli-html"
 
 4. Decyzji administracyjnej, o której mowa w ust. 3, nadaje się rygor natychmiastowej wykonalności.
 
-**Art. 37.** Ustawa wchodzi w życie z dniem 1 lutego 2014 r., z wyjątkiem art. 1, art. 8, art. 11, art. 23, art. 29, art. 31 i art. 36, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 37.** Ustawa wchodzi w życie z dniem 1 lutego 2014 r., z wyjątkiem art. 1, art. 8, art. 11, art. 23, art. 29, art. 31 i art. 36, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych, ustawę z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego, ustawę z dnia 21 listopada 2008 r. o emeryturach kapitałowych oraz ustawę z dnia 25 marca 2011 r. o zmianie niektórych ustaw związanych z funkcjonowaniem systemu ubezpieczeń społecznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540 oraz z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304 i 1387. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 183, poz. 1538, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 220, poz. 1432, z 2009 r. Nr 165, poz. 1316, z 2010 r. Nr 18, poz. 98 i Nr 257, poz. 1724, z 2011 r. Nr 75, poz. 398 i Nr 171, poz. 1016 oraz z 2013 r. poz. 1289. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1355 i 1623. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 254, poz. 1700 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398 oraz z 2012 r. poz. 637. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 216, poz. 1824, z 2003 r. Nr 217, poz. 2124, z 2005 r. Nr 157, poz. 1316, Nr 183, poz. 1538, Nr 184, poz. 1539 i Nr 249, poz. 2104, z 2008 r. Nr 231, poz. 1547, z 2009 r. Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 165, poz. 1316, z 2011 r. Nr 129, poz. 731 oraz z 2013 r. poz. 433. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 183, poz. 1538, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 220, poz. 1432, z 2009 r. Nr 165, poz. 1316, z 2010 r. Nr 18, poz. 98 i Nr 257, poz. 1724, z 2011 r. Nr 75, poz. 398 i Nr 171, poz. 1016 oraz z 2013 r. poz. 1289. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 254, poz. 1700 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398 oraz z 2012 r. poz. 637. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 oraz z 2013 r. poz. 433, 843, 1543 i 1646. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 362, 596, 769, 1010, 1342, 1448 i 1540 oraz z 2013 r. poz. 21, 613, 888, 1012, 1027, 1036, 1287 i 1387.
 

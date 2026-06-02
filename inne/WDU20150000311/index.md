@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-11 |
 | Data wydania | 2015-03-05 |
-| Wejście w życie | 2015-05-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000311) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/311/text.pdf) |
 
@@ -102,7 +101,7 @@ Gwarancja bankowa, gwarancja ubezpieczeniowa lub umowa ubezpieczenia powinna stw
 4.
 Gwarancja finansowa i jej ekwiwalent są przeznaczane na obowiązki i działania, o których mowa w art. 32 ust. 1 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych, niezależnie od wysokości poszczególnych wyodrębnionych kosztów, o których mowa w § 2 ust. 2.
 5.
-W przypadku, o którym mowa w art. 32 ust. 7 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych, organ właściwy do wydania zezwolenia na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych do wniosku, o którym mowa w tym przepisie, dołącza postanowienie, o którym mowa w art. 128 § 1 pkt 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.), oraz informację o rachunku, o którym mowa w ust. 6.
+W przypadku, o którym mowa w art. 32 ust. 7 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych, organ właściwy do wydania zezwolenia na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych do wniosku, o którym mowa w tym przepisie, dołącza postanowienie, o którym mowa w art. 128 § 1 pkt 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211 i 218.), oraz informację o rachunku, o którym mowa w ust. 6.
 6.
 W przypadku, o którym mowa w art. 32 ust. 7 ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych, środki zabezpieczone w formie gwarancji finansowej lub jej ekwiwalentu są przekazywane na rachunek prowadzony przez urząd obsługujący właściwy organ albo bezpośrednio na rachunek wskazanego przez ten organ wykonawcy robót.
 7.
@@ -137,5 +136,5 @@ w okresie od 01.01.2022 r. do 31.12.2022 r. – 10%.
 3.
 Aktualny weksel in blanco wraz z deklaracją wekslową jest składany do właściwego organu do wydania zezwolenia na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych co roku, do czasu całkowitego zaprzestania stosowania tej formy ekwiwalentu gwarancji finansowej, jednakże nie dłużej niż do dnia 31 grudnia 2022 r.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 60 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 60 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211 i 218.
 

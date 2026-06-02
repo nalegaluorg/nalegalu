@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 1 grudnia 2016 r. w sprawie obrotu przez Bankowy Fundusz Gwarancyjny wierzytelnościami nabywanymi od spółdzielczych kas oszczędnościowo-kredytowych, w których powstało niebezpieczeństwo niewypłacalności
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 1 grudnia 2016 r. w sprawie obrotu przez Bankowy Fundusz Gwarancyjny wierzytelnościami nabywanymi od spółdzielczych kas oszczędnościowo-kredytowych, w których powstało niebezpieczeństwo niewypłacalności Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-01 |
 | Data wydania | 2016-12-09 |
-| Wejście w życie | 2016-12-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001969) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1969/text.pdf) |
 
@@ -139,6 +138,5 @@ Fundusz zaprasza do składania ofert taką liczbę kas lub banków, nie mniejsz�
 4.
 W zakresie składania ofert, wnoszenia wadium, wyboru oferty, zawarcia umowy i sprzedaży wierzytelności stosuje się przepisy § 10 ust. 3–5 oraz ust. 7 i 8.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 lutego 2014 r. w sprawie obrotu przez Bankowy Fundusz Gwarancyjny wierzytelnościami nabywanymi od podmiotów objętych obowiązkowym systemem gwarantowania lub spółdzielczych kas oszczędnościowo-kredytowych, w których powstało niebezpieczeństwo niewypłacalności (Dz. U. poz. 225), które utraciło moc z dniem 9 października 2016 r. w związku z wejściem w życie ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 lutego 2014 r. w sprawie obrotu przez Bankowy Fundusz Gwarancyjny wierzytelnościami nabywanymi od podmiotów objętych obowiązkowym systemem gwarantowania lub spółdzielczych kas oszczędnościowo-kredytowych, w których powstało niebezpieczeństwo niewypłacalności (Dz. U. poz. 225), które utraciło moc z dniem 9 października 2016 r. w związku z wejściem w życie ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 14 lutego 2014 r. w sprawie obrotu przez Bankowy Fundusz Gwarancyjny wierzytelnościami nabywanymi od podmiotów objętych obowiązkowym systemem gwarantowania lub spółdzielczych kas oszczędnościowo-kredytowych, w których powstało niebezpieczeństwo niewypłacalności (Dz. U. poz. 225), które utraciło moc z dniem 9 października 2016 r. w związku z wejściem w życie ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996).
 

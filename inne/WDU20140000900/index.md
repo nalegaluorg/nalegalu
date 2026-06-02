@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 maja 2014 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz niektórych innych ustaw
+# Ustawa z dnia 30 maja 2014 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych oraz ustawę z dnia 29 października 2010 r. o rezerwach strategicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-30 |
 | Data wydania | 2014-07-07 |
-| Wejście w życie | 2014-07-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000900) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/900/text.pdf) |
+
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/119/WE z dnia 14 września 2009 r. nakładającej na państwa członkowskie obowiązek utrzymywania minimalnych zapasów ropy naftowej lub produktów ropopochodnych (Dz. Urz. UE L 265 z 09.10.2009, str. 9).
+Fundusz Zapasów Agencyjnych
 
 **Art. 1.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2012 r. poz. 1190 oraz z 2013 r. poz. 984) wprowadza się następujące zmiany:
 
 - **1)** w art. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
 
-- **2)** produkty naftowe: kondensat gazu ziemnego (NGL), półprodukty rafineryjne, inne węglowodory, gaz rafineryjny nieskroplony, etan, gaz płynny (LPG), benzyny silnikowe, benzyny lotnicze, paliwa typu benzyny do silników odrzutowych, paliwa typu nafty do silników odrzutowych, inne nafty, oleje napędowe, lekkie oleje opałowe i pozostałe oleje napędowe, ciężkie oleje opałowe, benzyny lakowe i przemysłowe, smary, asfalty, parafiny, koks naftowy, pozostałe produkty określone w załączniku B rozdział 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1099/2008 z dnia 22 października 2008 r. w sprawie statystyki energii (Dz. Urz. UE L 304 z 14.11.2008, str. 1, z późn. zm.); ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2)** produkty naftowe: kondensat gazu ziemnego (NGL), półprodukty rafineryjne, inne węglowodory, gaz rafineryjny nieskroplony, etan, gaz płynny (LPG), benzyny silnikowe, benzyny lotnicze, paliwa typu benzyny do silników odrzutowych, paliwa typu nafty do silników odrzutowych, inne nafty, oleje napędowe, lekkie oleje opałowe i pozostałe oleje napędowe, ciężkie oleje opałowe, benzyny lakowe i przemysłowe, smary, asfalty, parafiny, koks naftowy, pozostałe produkty – określone w załączniku B rozdział 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1099/2008 z dnia 22 października 2008 r. w sprawie statystyki energii (Dz. Urz. UE L 304 z 14.11.2008, str. 1, z późn. zm.); ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -113,7 +115,7 @@ source: "eli-html"
 
 - **1)** surowców oraz produktów naftowych uwzględnianych podczas ustalania ilości zapasów interwencyjnych,
 - **2)** surowców oraz paliw, w których tworzy się zapasy interwencyjne, w podziale na kategorie (grupy), uwzględniając możliwość zamiennego utrzymywania zapasów tych paliw w ramach danej kategorii,
-- **3)** paliw stanowiących podstawę do wyliczenia opłaty zapasowej biorąc pod uwagę obowiązującą klasyfikację Nomenklatury Scalonej (kody CN) według załącznika I do rozporządzenia Rady (EWG) Nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej (Dz. Urz. UE L 256 z 07.09.1987, str. 1), strukturę zużycia paliw na rynku krajowym oraz zobowiązania międzynarodowe Rzeczypospolitej. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+- **3)** paliw stanowiących podstawę do wyliczenia opłaty zapasowej – biorąc pod uwagę obowiązującą klasyfikację Nomenklatury Scalonej (kody CN) według załącznika I do rozporządzenia Rady (EWG) Nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej (Dz. Urz. UE L 256 z 07.09.1987, str. 1), strukturę zużycia paliw na rynku krajowym oraz zobowiązania międzynarodowe Rzeczypospolitej. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **e)**
 
 5a. Ilość utrzymywanych zapasów interwencyjnych oblicza się według wzoru: \( Zi = N \times 0,96 + B \times 1,2 \) gdzie poszczególne symbole oznaczają: Zi – ilość zapasów interwencyjnych wyrażoną w jednostkach wagowych, N – ilość zapasów interwencyjnych ropy naftowej wyrażoną w jednostkach wagowych, B – ilość zapasów interwencyjnych paliw, z wyłączeniem gazu płynnego (LPG), wyrażoną w jednostkach wagowych, z uwzględnieniem współczynników określonych w obwieszczeniu wydanym na podstawie art. 4. ” , ust. 8 otrzymuje brzmienie: „
@@ -140,7 +142,7 @@ source: "eli-html"
 
 **Art. 4.** Minister właściwy do spraw gospodarki corocznie, w terminie do dnia 15 marca, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
-- **1)** wielkości: średniego dziennego przywozu netto ekwiwalentu ropy naftowej, średniego dziennego zużycia krajowego brutto ekwiwalentu ropy naftowej, średniej dziennej produkcji netto gazu płynnego (LPG), średniego dziennego przywozu gazu płynnego (LPG) w poprzednim roku kalendarzowym, na podstawie danych statystycznych przekazywanych lub zebranych w ramach badań statystyki publicznej określanych corocznie w programach badań statystycznych statystyki publicznej, oraz
+- **1)** wielkości: średniego dziennego przywozu netto ekwiwalentu ropy naftowej, średniego dziennego zużycia krajowego brutto ekwiwalentu ropy naftowej, średniej dziennej produkcji netto gazu płynnego (LPG), średniego dziennego przywozu gazu płynnego (LPG) – w poprzednim roku kalendarzowym, na podstawie danych statystycznych przekazywanych lub zebranych w ramach badań statystyki publicznej określanych corocznie w programach badań statystycznych statystyki publicznej, oraz
     - **a)**
     - **b)**
     - **c)**
@@ -186,7 +188,7 @@ source: "eli-html"
 3h. Producent wytwarzający paliwa poprzez przerób ropy naftowej, kondensatu gazu ziemnego (NGL), półproduktów rafineryjnych i innych węglowodorów, będący równocześnie handlowcem, tworzy zapasy w postaci:
 
 - **1)** ropy naftowej – od ilości przywiezionej ropy naftowej, pomniejszonej o masę frakcji wykorzystanych jako surowiec do produkcji paliw, zgodnie z własnym współczynnikiem uzysku paliw,
-- **2)** paliw – od ilości paliw wyprodukowanych z przywiezionej ropy naftowej, kondensatu gazu ziemnego (NGL), półproduktów rafineryjnych i innych węglowodorów przywiezionych oraz od ilości paliw sprowadzonych w ramach przywozu w ilościach obliczonych zgodnie z wzorami, o których mowa w ust. 3b.
+- **2)** paliw – od ilości paliw wyprodukowanych z przywiezionej ropy naftowej, kondensatu gazu ziemnego (NGL), półproduktów rafineryjnych i innych węglowodorów przywiezionych oraz od ilości paliw sprowadzonych w ramach przywozu – w ilościach obliczonych zgodnie z wzorami, o których mowa w ust. 3b.
 
 3i. Producent paliw, przetwarzający je poprzez procesy mieszania, od których poprzedni krajowy producent lub handlowiec tworzy zapasy obowiązkowe ropy naftowej lub paliw, tworzy zapasy obowiązkowe ropy naftowej lub paliw, dla których podstawą obliczeń jest różnica między ilością produktu końcowego i tą ilością paliw, od której zapasy ropy naftowej lub paliw tworzy poprzedni producent lub handlowiec.
 
@@ -212,7 +214,7 @@ source: "eli-html"
 - **4)** ropy naftowej lub paliw przeznaczonych na odtworzenie zapasów obowiązkowych ropy naftowej lub paliw,
 - **5)** paliw przeznaczonych na zużycie własne przez producenta w procesie technologicznym przerobu ropy,
 - **6)** paliw wyprodukowanych z ropy naftowej, kondensatu gazu ziemnego (NGL) i innych węglowodorów wydobytych w kraju lub z obszaru morskiego należącego do krajowej strefy ekonomicznej,
-- **7)** biokomponentów dodanych do paliw przez producenta w procesie ich produkcji pod warunkiem potwierdzenia tych ilości dokumentami określonymi w przepisach wydanych na podstawie ust. 6a. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+- **7)** biokomponentów dodanych do paliw przez producenta w procesie ich produkcji – pod warunkiem potwierdzenia tych ilości dokumentami określonymi w przepisach wydanych na podstawie ust. 6a. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
     - **e)**
 
 6a. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, rodzaje dokumentów potwierdzających ilości ropy naftowej, paliw lub biokomponentów, o których mowa w ust. 6, uprawniające do pomniejszenia wielkości produkcji paliw lub przywozu ropy naftowej lub paliw, stanowiących podstawę obliczenia wymaganej na dany rok kalendarzowy ilości zapasów obowiązkowych ropy naftowej lub paliw oraz obliczenia opłaty zapasowej, biorąc pod uwagę konieczność zapewnienia kontroli nad zapasami obowiązkowymi ropy naftowej lub paliw oraz konieczność zapewnienia rzetelności obliczeń dokonywanych przez producentów i handlowców, a także możliwość dokonania kontroli poprawności tych obliczeń. ” , uchyla się ust. 7, ust. 8 otrzymuje brzmienie: „
@@ -272,12 +274,12 @@ source: "eli-html"
 7. Producenci mogą utrzymywać:
 
 - **1)** do 50% zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie paliw, z wyłączeniem ciężkiego oleju opałowego,
-- **2)** do 75% zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie ciężkiego oleju opałowego w postaci ropy naftowej.
+- **2)** do 75% zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie ciężkiego oleju opałowego – w postaci ropy naftowej.
 
 8. Handlowcy mogą utrzymywać:
 
 - **1)** do 50% zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie paliw, z wyłączeniem ciężkiego oleju opałowego,
-- **2)** do 75% zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie ciężkiego oleju opałowego w postaci ropy naftowej, na zasadach określonych w art. 11 ust. 3 i 4.
+- **2)** do 75% zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie ciężkiego oleju opałowego – w postaci ropy naftowej, na zasadach określonych w art. 11 ust. 3 i 4.
 
 9. Producenci i handlowcy, obliczając ilości ropy naftowej utrzymywanej zamiennie za paliwa, mogą stosować maksymalne współczynniki uzysku paliw możliwe do uzyskania w instalacji producenta gwarantującego przerób zamiennie utrzymywanej ropy naftowej na paliwa, potwierdzone danymi technologicznymi dla danej instalacji, uzyskane w roku poprzednim, z zastrzeżeniem że łączna suma współczynników uzysków dla poszczególnych paliw nie może przekraczać 100%.
 
@@ -381,10 +383,13 @@ source: "eli-html"
 
 - **c)**
 
-6a. W przypadku gdy zapasy ropy naftowej lub paliw utrzymywane są zgodnie z ust. 4, a umowa dotycząca przerobu ropy zawierana jest pomiędzy przedsiębiorcą wykonującym działalność gospodarczą w zakresie magazynowania ropy naftowej, a przedsiębiorcą wytwarzającym paliwa poprzez przerób ropy naftowej, umowa, o której mowa w ust. 1, obejmuje także oświadczenie przedsiębiorcy wykonującego działalność gospodarczą w zakresie magazynowania ropy naftowej, że zawarł umowę na przerób ropy z przedsiębiorcą wytwarzającym paliwa oraz że w ramach tej umowy gwarantuje przerób na paliwa ropy naftowej utrzymywanej na rzecz tego handlowca, w czasie zapewniającym temu handlowcowi wykonanie jego zadań dotyczących interwencyjnego uwolnienia tych zapasów, oraz postanowienia dotyczące sposobu określania ceny i miejsca wydania paliw. ” , w ust. 8: – pkt 2 otrzymuje brzmienie: „ 2) projekty tych umów zawierają postanowienia ograniczające lub wyłączające dyspozycyjność zapasów obowiązkowych ropy naftowej lub paliw, o której mowa w art. 3 ust. 10 i 11; ” , – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „ 3) magazyny, w których mają być utrzymywane zapasy obowiązkowe ropy naftowej lub paliw, nie spełniają wymagań w zakresie dostępności fizycznej; 4) producent lub handlowiec nie uzyskał zgody, o której mowa w art. 9 ust. 3 pkt 1 – w przypadku utrzymywania zapasów interwencyjnych na terytorium innego państwa członkowskiego Unii Europejskiej, z którym Rzeczpospolita Polska zawarła umowę, o której mowa w art. 9 ust. 2. ” , po ust. 8 dodaje się ust. 8a i 8b w brzmieniu: „
+6a. W przypadku gdy zapasy ropy naftowej lub paliw utrzymywane są zgodnie z ust. 4, a umowa dotycząca przerobu ropy zawierana jest pomiędzy przedsiębiorcą wykonującym działalność gospodarczą w zakresie magazynowania ropy naftowej, a przedsiębiorcą wytwarzającym paliwa poprzez przerób ropy naftowej, umowa, o której mowa w ust. 1, obejmuje także oświadczenie przedsiębiorcy wykonującego działalność gospodarczą w zakresie magazynowania ropy naftowej, że zawarł umowę na przerób ropy z przedsiębiorcą wytwarzającym paliwa oraz że w ramach tej umowy gwarantuje przerób na paliwa ropy naftowej utrzymywanej na rzecz tego handlowca, w czasie zapewniającym temu handlowcowi wykonanie jego zadań dotyczących interwencyjnego uwolnienia tych zapasów, oraz postanowienia dotyczące sposobu określania ceny i miejsca wydania paliw. ” , w ust. 8: pkt 2 otrzymuje brzmienie: „
 
 - **d)**
-- **e)**
+- **2)** projekty tych umów zawierają postanowienia ograniczające lub wyłączające dyspozycyjność zapasów obowiązkowych ropy naftowej lub paliw, o której mowa w art. 3 ust. 10 i 11; ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „
+- **3)** magazyny, w których mają być utrzymywane zapasy obowiązkowe ropy naftowej lub paliw, nie spełniają wymagań w zakresie dostępności fizycznej;
+- **4)** producent lub handlowiec nie uzyskał zgody, o której mowa w art. 9 ust. 3 pkt 1 – w przypadku utrzymywania zapasów interwencyjnych na terytorium innego państwa członkowskiego Unii Europejskiej, z którym Rzeczpospolita Polska zawarła umowę, o której mowa w art. 9 ust. 2. ” , po ust. 8 dodaje się ust. 8a i 8b w brzmieniu: „
+    - **e)**
 
 8a. Przed wyrażeniem zgody na zawarcie umów, o których mowa w ust. 1 i 4, Prezes Agencji może przeprowadzić kontrolę u przedsiębiorcy wykonującego działalność gospodarczą w zakresie obrotu ropą naftową lub paliwami, wytwarzania paliw lub magazynowania ropy naftowej lub paliw, z którym umowa ma zostać zawarta.
 
@@ -465,7 +470,7 @@ source: "eli-html"
 3b. Rejestr zapasów interwencyjnych zawiera w szczególności:
 
 - **1)** wskazanie ilości zapasów interwencyjnych, właścicieli tych zapasów oraz postaci, w której zapasy te są utrzymywane,
-- **2)** oznaczenie miejsc magazynowania zapasów interwencyjnych z wyłączeniem informacji dotyczących zapasów specjalnych.
+- **2)** oznaczenie miejsc magazynowania zapasów interwencyjnych – z wyłączeniem informacji dotyczących zapasów specjalnych.
 
 3c. Rejestr zapasów specjalnych zawiera informacje dotyczące zapasów specjalnych oraz zapasów utrzymywanych na terytorium Rzeczypospolitej Polskiej na rzecz państw członkowskich Unii Europejskiej, które mają w tych państwach status zapasów specjalnych w rozumieniu art. 9 dyrektywy Rady 2009/119/WE z dnia 14 września 2009 r. nakładającej na państwa członkowskie obowiązek utrzymywania minimalnych zapasów ropy naftowej lub produktów ropopochodnych (Dz. Urz. UE L 265 z 09.10.2009, str. 9), zwanej dalej „dyrektywą 2009/119/WE”, w szczególności:
 
@@ -480,9 +485,9 @@ source: "eli-html"
 - **1)** szczegółową zawartość i sposób prowadzenia rejestru,
 - **2)** dokumenty będące podstawą dokonania wpisu do rejestru, zmiany tego wpisu lub wykreślenia z rejestru,
 - **3)** wzory wniosków o dokonanie wpisu do rejestru i o wykreślenie z rejestru,
-- **4)** sposób przekazywania informacji, o których mowa w art. 8 ust. 5, art. 22 oraz art. 38 ust. 1 uwzględniając konieczność zapewnienia prawidłowości i aktualności danych zawartych w rejestrze, ujednolicenia formy składania wniosków o dokonanie wpisu i o wykreślenie z rejestru oraz biorąc pod uwagę konieczność zapewnienia nadzoru nad systemem zapasów i możliwość udostępniania danych zawartych w rejestrze zainteresowanym podmiotom.
+- **4)** sposób przekazywania informacji, o których mowa w art. 8 ust. 5, art. 22 oraz art. 38 ust. 1 – uwzględniając konieczność zapewnienia prawidłowości i aktualności danych zawartych w rejestrze, ujednolicenia formy składania wniosków o dokonanie wpisu i o wykreślenie z rejestru oraz biorąc pod uwagę konieczność zapewnienia nadzoru nad systemem zapasów i możliwość udostępniania danych zawartych w rejestrze zainteresowanym podmiotom.
 
-6. Dane jednostkowe zawarte w rejestrze, z wyjątkiem oznaczenia producenta i handlowca, nie są informacją publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.), zwanej dalej „ustawą o dostępie do informacji publicznej”, i nie podlegają udostępnieniu i ponownemu wykorzystywaniu na zasadach i w trybie określonych w tej ustawie. ” , dodaje się ust. 7–11 w brzmieniu: „
+6. Dane jednostkowe zawarte w rejestrze, z wyjątkiem oznaczenia producenta i handlowca, nie są informacją publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407, z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 204, poz. 1195, z 2012 r. poz. 473 i 908 oraz z 2013 r. poz. 1474.), zwanej dalej „ustawą o dostępie do informacji publicznej”, i nie podlegają udostępnieniu i ponownemu wykorzystywaniu na zasadach i w trybie określonych w tej ustawie. ” , dodaje się ust. 7–11 w brzmieniu: „
 
 - **g)**
 
@@ -594,7 +599,7 @@ source: "eli-html"
 
 12. Producenci i handlowcy są obowiązani wpłacać opłatę zapasową w terminie do ostatniego dnia miesiąca następującego po miesiącu, w którym nastąpiła produkcja lub przywóz paliw, na rachunek Funduszu, o którym mowa w art. 28a.
 
-13. W zakresie nieuregulowanym w ustawie, do należności z tytułu opłaty zapasowej stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.) z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
+13. W zakresie nieuregulowanym w ustawie, do należności z tytułu opłaty zapasowej stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183 i 567.) z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
 
 14. Organem właściwym w sprawie opłaty zapasowej jest Prezes Agencji, któremu przysługują uprawnienia organu podatkowego, określone w dziale III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. Od decyzji wydanych przez Prezesa Agencji w sprawie opłaty zapasowej służy odwołanie do ministra właściwego do spraw gospodarki.
 
@@ -664,7 +669,7 @@ source: "eli-html"
 - **1)** przywozu ropy naftowej i paliw oraz produkcji paliw, a także strukturze produkcji i przywozu paliw,
 - **2)** ropy naftowej lub paliw wywiezionych, a także strukturze wywiezionych paliw,
 - **3)** tworzonych i magazynowanych zapasów obowiązkowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania,
-- **4)** utrzymywanych zapasów handlowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania w terminie 20 dni od upływu ostatniego dnia miesiąca, którego dotyczy przekazywana informacja.
+- **4)** utrzymywanych zapasów handlowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania – w terminie 20 dni od upływu ostatniego dnia miesiąca, którego dotyczy przekazywana informacja.
 
 2. Producenci i handlowcy są obowiązani do przedstawiania ministrowi właściwemu do spraw gospodarki co kwartał informacji o poniesionych kosztach tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw w terminie 30 dni od upływu ostatniego dnia kwartału, którego dotyczy informacja. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
@@ -708,13 +713,13 @@ source: "eli-html"
 
 - **25)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Fundusz Zapasów Agencyjnych
+#### Rozdział 3a
 
 **Art. 28a.**
 
 1. Tworzy się Fundusz Zapasów Agencyjnych, zwany dalej „Funduszem”.
 
-2. Fundusz jest państwowym funduszem celowym w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.).
+2. Fundusz jest państwowym funduszem celowym w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379.).
 
 3. Dysponentem Funduszu jest Prezes Agencji.
 
@@ -758,26 +763,33 @@ source: "eli-html"
 1. Prezes Agencji przeprowadza kontrole u:
 
 - **1)** producentów, handlowców i przedsiębiorców świadczących usługi magazynowania lub przesyłu;
-- **2)** przedsiębiorców, którym zlecono: tworzenie i utrzymywanie zapasów obowiązkowych ropy naftowej lub paliw, magazynowanie zapasów agencyjnych, wykonywanie zadań w zakresie tworzenia i utrzymywania zapasów agencyjnych. ” , w ust. 4: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) prawidłowości obliczenia wysokości opłaty zapasowej, o której mowa w art. 21b; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) spełnienia wymagań, określonych w art. 3 ust. 10–12; ” , – pkt 4 otrzymuje brzmienie: „ 4) wykonywania postanowień umowy o magazynowanie oraz umów, o których mowa w art. 11 ust. 1 i w art. 21d ust. 1 i 2; ” , w ust. 5: – pkt 2 otrzymuje brzmienie: „ 2) żądania ustnych lub pisemnych wyjaśnień, a także żądania okazania dokumentów dotyczących produkcji lub przywozu ropy naftowej lub paliw za rok, w którym jest przeprowadzana kontrola, a także z ostatnich 5 lat, umożliwiających weryfikację poprawności wyliczenia poziomu zapasów obowiązkowych ropy naftowej lub paliw, do których tworzenia i utrzymywania w danym roku oraz w latach poprzednich jest lub był obowiązany producent i handlowiec; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „ 5) żądania ustnych i pisemnych wyjaśnień, a także okazania dokumentów będących podstawą obliczenia opłaty zapasowej z ostatnich 5 lat; 6) żądania ustnych i pisemnych wyjaśnień, a także żądania dokumentów, dotyczących ograniczeń prawnych i faktycznych w zakresie utrzymywania zapasów interwencyjnych oraz danych dotyczących parametrów technicznych magazynów. ” ;
+- **2)** przedsiębiorców, którym zlecono: tworzenie i utrzymywanie zapasów obowiązkowych ropy naftowej lub paliw, magazynowanie zapasów agencyjnych, wykonywanie zadań w zakresie tworzenia i utrzymywania zapasów agencyjnych. ” , w ust. 4: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
     - **b)**
+
+- **1a)** prawidłowości obliczenia wysokości opłaty zapasowej, o której mowa w art. 21b; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** spełnienia wymagań, określonych w art. 3 ust. 10–12; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** wykonywania postanowień umowy o magazynowanie oraz umów, o których mowa w art. 11 ust. 1 i w art. 21d ust. 1 i 2; ” , w ust. 5: pkt 2 otrzymuje brzmienie: „
     - **c)**
 
+- **2)** żądania ustnych lub pisemnych wyjaśnień, a także żądania okazania dokumentów dotyczących produkcji lub przywozu ropy naftowej lub paliw za rok, w którym jest przeprowadzana kontrola, a także z ostatnich 5 lat, umożliwiających weryfikację poprawności wyliczenia poziomu zapasów obowiązkowych ropy naftowej lub paliw, do których tworzenia i utrzymywania w danym roku oraz w latach poprzednich jest lub był obowiązany producent i handlowiec; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
+- **5)** żądania ustnych i pisemnych wyjaśnień, a także okazania dokumentów będących podstawą obliczenia opłaty zapasowej z ostatnich 5 lat;
+- **6)** żądania ustnych i pisemnych wyjaśnień, a także żądania dokumentów, dotyczących ograniczeń prawnych i faktycznych w zakresie utrzymywania zapasów interwencyjnych oraz danych dotyczących parametrów technicznych magazynów. ” ;
 - **27)** po art. 29 dodaje się art. 29a-29c w brzmieniu: „
 
 **Art. 29a.** Na potrzeby postępowań administracyjnych określonych w ustawie organy administracji publicznej udostępniają, na wniosek Prezesa Agencji, dane zawarte w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów. 1. Przeglądu zapasów interwencyjnych dokonują osoby upoważnione przez Komisję Europejską do przeprowadzania przeglądów tych zapasów. 2. W przeglądzie zapasów interwencyjnych, o którym mowa w ust. 1, mogą uczestniczyć przedstawiciele innych państw członkowskich Unii Europejskiej oraz osoby upoważnione przez ministra właściwego do spraw gospodarki. 3. Producenci i handlowcy oraz inne podmioty utrzymujące zapasy interwencyjne lub będące w posiadaniu informacji dotyczących zapasów interwencyjnych:
 
 - **1)** udzielają wyjaśnień,
 - **2)** zapewniają wgląd do dokumentów dotyczących zapasów interwencyjnych,
-- **3)** umożliwiają wstęp do miejsc magazynowania tych zapasów osobom, o których mowa w ust. 1 i 2.
+- **3)** umożliwiają wstęp do miejsc magazynowania tych zapasów – osobom, o których mowa w ust. 1 i 2.
 
 4. Osoby uczestniczące w przeglądzie zapasów interwencyjnych, o którym mowa w ust. 1, obowiązane są do złożenia oświadczenia o zachowaniu w tajemnicy informacji na temat danych właścicieli zapasów obowiązkowych ropy naftowej lub paliw lub stanowiących tajemnicę przedsiębiorstwa pod rygorem odpowiedzialności karnej. Obowiązek zachowania tej tajemnicy jest nieograniczony w czasie.
 
 5. Podczas przeglądu zapasów interwencyjnych nie przetwarza się danych osobowych. Wszelkie dane zebrane podczas tego przeglądu są niezwłocznie usuwane.
 
-6. Do przeglądu zapasów interwencyjnych przeprowadzanego przez osoby upoważnione przez Komisję Europejską nie stosuje się przepisów rozdziału 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.). Osoby upoważnione przez Komisję Europejską do przeprowadzania przeglądu zapasów interwencyjnych mogą przeprowadzać kontrolę działalności Agencji w zakresie tworzenia i utrzymywania zapasów interwencyjnych na zasadach określonych w art. 29b. ” ;
+6. Do przeglądu zapasów interwencyjnych przeprowadzanego przez osoby upoważnione przez Komisję Europejską nie stosuje się przepisów rozdziału 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650.). Osoby upoważnione przez Komisję Europejską do przeprowadzania przeglądu zapasów interwencyjnych mogą przeprowadzać kontrolę działalności Agencji w zakresie tworzenia i utrzymywania zapasów interwencyjnych na zasadach określonych w art. 29b. ” ;
 
 - **28)** tytuł rozdziału 5 otrzymuje brzmienie: „ Plan postępowania w sytuacji zagrożenia bezpieczeństwa paliwowego państwa w zakresie ropy naftowej i produktów naftowych oraz konieczności wypełnienia zobowiązań międzynarodowych ” ;
 - **29)** art. 31 otrzymuje brzmienie: „
@@ -811,12 +823,21 @@ source: "eli-html"
 6. Producenci, handlowcy, przedsiębiorcy świadczący usługi magazynowania lub przesyłu oraz przedsiębiorcy, którym zlecono tworzenie i utrzymywanie zapasów interwencyjnych, niezwłocznie przekazują ministrowi właściwemu do spraw gospodarki informacje o wystąpieniu:
 
 - **1)** zakłóceń w dostawach surowców do produkcji paliw lub dostawach paliw,
-- **2)** awarii w systemie przesyłowym, przetwórczym lub magazynowym ropy naftowej lub paliw mających znaczący wpływ na poziom dostaw ropy naftowej lub paliw, lub produkcji paliw. ” ;
+- **2)** awarii w systemie przesyłowym, przetwórczym lub magazynowym ropy naftowej lub paliw – mających znaczący wpływ na poziom dostaw ropy naftowej lub paliw, lub produkcji paliw. ” ;
 - **30)** w art. 32 w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
 - **1)** obniżeniu ilości zapasów obowiązkowych ropy naftowej lub paliw, lub zapasów agencyjnych przez ich wprowadzenie na rynek, lub
 - **2)** obowiązkowej sprzedaży zapasów obowiązkowych ropy naftowej lub paliw, lub zapasów agencyjnych w określonej ilości, lub ” ;
-- **31)** w art. 33: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) w drodze rozporządzenia, zezwolić producentom lub handlowcom na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw przez ich wprowadzenie na rynek na terytorium Rzeczypospolitej Polskiej lub jego części, określając wielkość obniżenia tych zapasów oraz termin ich odtworzenia, biorąc pod uwagę sytuację na krajowym rynku paliw, rzeczywiste możliwości odtworzenia zapasów obowiązkowych oraz zalecenia Komisji Europejskiej w zakresie terminu odtworzenia tych zapasów, o ile zostaną wydane; ” , – uchyla się pkt 2, – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) w drodze decyzji, obniżyć zapasy agencyjne, określając: a) wielkości obniżenia tych zapasów, podstawę ustalenia ceny sprzedaży ropy naftowej i paliw oraz termin odtworzenia zapasów, lub b) wielkości obniżenia tych zapasów, podmioty uprawnione do zakupu ropy naftowej lub paliw, podstawę ustalenia ceny sprzedaży ropy naftowej i paliw oraz termin odtworzenia zapasów – biorąc pod uwagę zalecenia Komisji Europejskiej w zakresie terminu odtworzenia tych zapasów, o ile zostały wydane. ” , – pkt 3 otrzymuje brzmienie: „ 3) w drodze decyzji: a) zezwolić na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw poprzez ich wprowadzenie na rynek przez określonych producentów lub handlowców, określając wielkość i termin obniżenia tych zapasów, lub b) nakazać producentom lub handlowcom sprzedaż określonej ilości zapasów obowiązkowych ropy naftowej lub paliw, wskazanym podmiotom krajowym, określając termin ich sprzedaży, po cenie określonej w tej decyzji – biorąc pod uwagę zalecenia Komisji Europejskiej w zakresie terminu odtworzenia tych zapasów, o ile zostały wydane. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **31)** w art. 33: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** w drodze rozporządzenia, zezwolić producentom lub handlowcom na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw przez ich wprowadzenie na rynek na terytorium Rzeczypospolitej Polskiej lub jego części, określając wielkość obniżenia tych zapasów oraz termin ich odtworzenia, biorąc pod uwagę sytuację na krajowym rynku paliw, rzeczywiste możliwości odtworzenia zapasów obowiązkowych oraz zalecenia Komisji Europejskiej w zakresie terminu odtworzenia tych zapasów, o ile zostaną wydane; ” , – uchyla się pkt 2, po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** w drodze decyzji, obniżyć zapasy agencyjne, określając: wielkości obniżenia tych zapasów, podstawę ustalenia ceny sprzedaży ropy naftowej i paliw oraz termin odtworzenia zapasów, lub wielkości obniżenia tych zapasów, podmioty uprawnione do zakupu ropy naftowej lub paliw, podstawę ustalenia ceny sprzedaży ropy naftowej i paliw oraz termin odtworzenia zapasów – biorąc pod uwagę zalecenia Komisji Europejskiej w zakresie terminu odtworzenia tych zapasów, o ile zostały wydane. ” , pkt 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **3)** w drodze decyzji: zezwolić na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw poprzez ich wprowadzenie na rynek przez określonych producentów lub handlowców, określając wielkość i termin obniżenia tych zapasów, lub nakazać producentom lub handlowcom sprzedaż określonej ilości zapasów obowiązkowych ropy naftowej lub paliw, wskazanym podmiotom krajowym, określając termin ich sprzedaży, po cenie określonej w tej decyzji – biorąc pod uwagę zalecenia Komisji Europejskiej w zakresie terminu odtworzenia tych zapasów, o ile zostały wydane. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
     - **b)**
 
 1a. W przypadku, o którym mowa w ust. 1 pkt 2a lit. a, Prezes Agencji oferuje zapasy agencyjne w pierwszej kolejności producentom i handlowcom w ilości proporcjonalnej do wysokości wniesionej przez poszczególnych producentów i handlowców opłaty zapasowej w okresie sześciu miesięcy poprzedzających miesiąc, w którym została wydana decyzja o obniżeniu zapasów agencyjnych. ” ;
@@ -824,8 +845,10 @@ source: "eli-html"
 - **32)** w art. 34: pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** w drodze rozporządzenia, zezwolić producentom lub handlowcom na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw przez ich wprowadzenie na rynek na terytorium Rzeczypospolitej Polskiej lub jego części, określając wielkość obniżenia tych zapasów oraz termin ich odtworzenia, biorąc pod uwagę ustalenia organów organizacji międzynarodowych, wobec których Rzeczpospolita Polska ma wiążące zobowiązania lub uzgodnienia dokonane z takimi organizacjami; ” , w pkt 2: – uchyla się lit. a, – lit. b otrzymuje brzmienie: „ b) zezwolić na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw przez ich wprowadzenie na rynek przez określonych producentów lub handlowców, określając wielkość obniżenia oraz termin odtworzenia tych zapasów, lub ” , – w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) obniżyć zapasy agencyjne przez ich wprowadzenie na rynek, określając wielkości obniżenia tych zapasów, sposób dokonania sprzedaży ropy naftowej lub paliw, podstawę ustalenia ceny sprzedaży ropy naftowej i paliw oraz termin odtworzenia tych zapasów, biorąc pod uwagę ustalenia organów organizacji międzynarodowych, wobec których Rzeczpospolita Polska ma wiążące zobowiązania lub uzgodnienia dokonane z takimi organizacjami. ” ;
+- **1)** w drodze rozporządzenia, zezwolić producentom lub handlowcom na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw przez ich wprowadzenie na rynek na terytorium Rzeczypospolitej Polskiej lub jego części, określając wielkość obniżenia tych zapasów oraz termin ich odtworzenia, biorąc pod uwagę ustalenia organów organizacji międzynarodowych, wobec których Rzeczpospolita Polska ma wiążące zobowiązania lub uzgodnienia dokonane z takimi organizacjami; ” , w pkt 2: – uchyla się lit. a, lit. b otrzymuje brzmienie: „ zezwolić na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw przez ich wprowadzenie na rynek przez określonych producentów lub handlowców, określając wielkość obniżenia oraz termin odtworzenia tych zapasów, lub ” , w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ obniżyć zapasy agencyjne przez ich wprowadzenie na rynek, określając wielkości obniżenia tych zapasów, sposób dokonania sprzedaży ropy naftowej lub paliw, podstawę ustalenia ceny sprzedaży ropy naftowej i paliw oraz termin odtworzenia tych zapasów, biorąc pod uwagę ustalenia organów organizacji międzynarodowych, wobec których Rzeczpospolita Polska ma wiążące zobowiązania lub uzgodnienia dokonane z takimi organizacjami. ” ;
     - **b)**
+    - **b)**
+    - **d)**
 
 - **33)** po art. 44 dodaje się art. 44a w brzmieniu: „
 
@@ -846,7 +869,7 @@ source: "eli-html"
 1. Minister właściwy do spraw gospodarki może, w drodze decyzji, w sytuacjach:
 
 - **1)** zagrożeń, o których mowa w art. 3 ustawy z dnia 29 października 2010 r. o rezerwach strategicznych (Dz. U. Nr 229, poz. 1496, z 2011 r. Nr 94, poz. 551 oraz z 2012 r. poz. 951), zwanej dalej „ustawą o rezerwach strategicznych”, innych niż określone w art. 32 ust. 1 pkt 1,
-- **2)** konieczności wypełniania przez Rzeczpospolitą Polską zobowiązań międzynarodowych, o których mowa w art. 3 ustawy o rezerwach strategicznych, innych niż określone w art. 32 ust. 1 pkt 2 przenieść część zapasów agencyjnych w ilości odpowiadającej nie więcej niż 4 dniom średniego dziennego przywozu netto ekwiwalentu ropy naftowej do rezerw strategicznych, o których mowa w ustawie o rezerwach strategicznych.
+- **2)** konieczności wypełniania przez Rzeczpospolitą Polską zobowiązań międzynarodowych, o których mowa w art. 3 ustawy o rezerwach strategicznych, innych niż określone w art. 32 ust. 1 pkt 2 – przenieść część zapasów agencyjnych w ilości odpowiadającej nie więcej niż 4 dniom średniego dziennego przywozu netto ekwiwalentu ropy naftowej do rezerw strategicznych, o których mowa w ustawie o rezerwach strategicznych.
 
 2. Odtworzone wolumeny, o których mowa w ust. 1, minister właściwy do spraw gospodarki przenosi, w drodze decyzji, do zapasów agencyjnych.
 
@@ -854,8 +877,18 @@ source: "eli-html"
 
 4. Minister właściwy do spraw finansów publicznych uruchamia środki, o których mowa w ust. 3, w terminie gwarantującym odtworzenie zapasów agencyjnych zgodnie z powiadomieniem, o którym mowa w art. 47, lub zaleceniami Komisji Europejskiej, o ile zostały wydane. ” ;
 
-- **36)** w art. 63: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) nie dopełnia obowiązku uiszczenia opłaty zapasowej w należnej wysokości albo w terminie, o którym mowa w art. 21b ust. 12; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) będąc właścicielem instalacji magazynowej lub magazynu, dopuścił do niespełnienia przez daną instalację magazynową lub magazyn wymagań, o których mowa w art. 3 ust. 12 i 13; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) nie przedstawi w terminie informacji, o których mowa w art. 8 ust. 5, albo przedstawi informacje nieprawdziwe; ” , – pkt 4 i 5 otrzymują brzmienie: „ 4) nie dopełnia obowiązku złożenia wniosku o wpis do rejestru, o którym mowa w art. 14 ust. 1 i 1a; 5) nie przedstawi w wyznaczonym terminie informacji, o których mowa w art. 22 ust. 1 i 3 lub art. 38, albo przedstawi w tej informacji dane nieprawdziwe; ” , – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) nie przekaże w terminie, o którym mowa w art. 31 ust. 4, procedur, o których mowa w art. 31 ust. 1, potwierdzenia ich aktualności lub aktualizacji w terminie, o którym mowa w art. 31 ust. 5; ” , – pkt 17 i 18 otrzymują brzmienie: „ 17) nie przedstawi, w wyznaczonym terminie, informacji, o których mowa w art. 22 ust. 2, albo przedstawi w tej informacji dane nieprawdziwe; 18) nie usunie uchybień, do czego został zobowiązany na podstawie art. 29 ust. 9; ” , – pkt 20 otrzymuje brzmienie: „ 20) będąc przedsiębiorcą magazynującym zapasy agencyjne lub przedsiębiorcą, któremu zlecono wykonanie zadań w zakresie tworzenia i utrzymywania zapasów agencyjnych, dopuścił do powstania niedoboru w stosunku do ewidencyjnego stanu tych zapasów lub dopuścił się uchybienia w zakresie magazynowania zapasów agencyjnych, ich wymiany oraz ilościowej i jakościowej ochrony stanu tych zapasów. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **36)** w art. 63: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** nie dopełnia obowiązku uiszczenia opłaty zapasowej w należnej wysokości albo w terminie, o którym mowa w art. 21b ust. 12; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** będąc właścicielem instalacji magazynowej lub magazynu, dopuścił do niespełnienia przez daną instalację magazynową lub magazyn wymagań, o których mowa w art. 3 ust. 12 i 13; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** nie przedstawi w terminie informacji, o których mowa w art. 8 ust. 5, albo przedstawi informacje nieprawdziwe; ” , pkt 4 i 5 otrzymują brzmienie: „
+- **4)** nie dopełnia obowiązku złożenia wniosku o wpis do rejestru, o którym mowa w art. 14 ust. 1 i 1a;
+- **5)** nie przedstawi w wyznaczonym terminie informacji, o których mowa w art. 22 ust. 1 i 3 lub art. 38, albo przedstawi w tej informacji dane nieprawdziwe; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **6a)** nie przekaże w terminie, o którym mowa w art. 31 ust. 4, procedur, o których mowa w art. 31 ust. 1, potwierdzenia ich aktualności lub aktualizacji w terminie, o którym mowa w art. 31 ust. 5; ” , pkt 17 i 18 otrzymują brzmienie: „
+- **17)** nie przedstawi, w wyznaczonym terminie, informacji, o których mowa w art. 22 ust. 2, albo przedstawi w tej informacji dane nieprawdziwe;
+- **18)** nie usunie uchybień, do czego został zobowiązany na podstawie art. 29 ust. 9; ” , pkt 20 otrzymuje brzmienie: „
+- **20)** będąc przedsiębiorcą magazynującym zapasy agencyjne lub przedsiębiorcą, któremu zlecono wykonanie zadań w zakresie tworzenia i utrzymywania zapasów agencyjnych, dopuścił do powstania niedoboru w stosunku do ewidencyjnego stanu tych zapasów lub dopuścił się uchybienia w zakresie magazynowania zapasów agencyjnych, ich wymiany oraz ilościowej i jakościowej ochrony stanu tych zapasów. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
     - **b)**
 
 - **1)** równowartość iloczynu kwoty 4500 zł i wielkości niedoboru ropy naftowej, gazu płynnego (LPG) lub ciężkiego oleju opałowego wyrażonej w tonach, lub niedoboru paliw, z wyłączeniem gazu płynnego (LPG) i ciężkiego oleju opałowego, wyrażonej w metrach sześciennych; ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
@@ -873,8 +906,12 @@ source: "eli-html"
 
 4a. W przypadkach, o których mowa w ust. 1 pkt 6a, kara pieniężna wynosi od jednokrotnego do pięciokrotnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, obowiązującego w kwartale, w którym nastąpiło niedopełnienie obowiązku. ” ;
 
-- **37)** w art. 64: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) pkt 1, 2, 3, 6, 11, 16, 19 i 19b – wymierza Prezes URE; 2) pkt 1–5, 7, 8, 18 i 20 – wymierza Prezes Agencji; ” , – pkt 7 otrzymuje brzmienie: „ 7) pkt 6a, 17 i 19a – wymierza minister właściwy do spraw gospodarki. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **37)** w art. 64: w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** pkt 1, 2, 3, 6, 11, 16, 19 i 19b – wymierza Prezes URE;
+- **2)** pkt 1–5, 7, 8, 18 i 20 – wymierza Prezes Agencji; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** pkt 6a, 17 i 19a – wymierza minister właściwy do spraw gospodarki. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Przed wymierzeniem kary, o której mowa w art. 63 ust. 1 pkt 1a, Prezes Agencji wzywa producenta lub handlowca do uiszczenia opłaty zapasowej w należnej wysokości, w terminie 7 dni od dnia doręczenia wezwania. ” ;
@@ -896,7 +933,7 @@ source: "eli-html"
 
 6. W zakresie nieuregulowanym w ustawie, do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. ” .
 
-**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457 i 490.) wprowadza się następujące zmiany:
 
 - **1)** po art. 9s dodaje się art. 9s1 w brzmieniu: „ Do poświadczenia spełnienia przez biopłyny kryteriów zrównoważonego rozwoju, o których mowa w art. 17 dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009, str. 16), stosuje się przepisy ustawy o biokomponentach i biopaliwach ciekłych. ” ;
 - **2)** w art. 23: po ust. 1 dodaje się ust. 1a w brzmieniu: „
@@ -943,7 +980,7 @@ source: "eli-html"
 - **2)** kar, o których mowa w art. 56 ust. 1 pkt 12;
 - **3)** opłaty zapasowej, o której mowa w art. 21b i kar, o których mowa w art. 63 ustawy wymienionej w art. 33 ust. 1a pkt 2;
 - **4)** kar za niezrealizowanie Narodowego Celu Wskaźnikowego, o którym mowa w art. 23 ustawy o biokomponentach i biopaliwach ciekłych;
-- **5)** kar za wprowadzanie do obrotu paliw ciekłych niespełniających wymagań jakościowych, o których mowa w art. 3–5 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. Nr 169, poz. 1200, z późn. zm.);
+- **5)** kar za wprowadzanie do obrotu paliw ciekłych niespełniających wymagań jakościowych, o których mowa w art. 3–5 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. Nr 169, poz. 1200, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 153, poz. 902.);
 - **6)** zobowiązań podatkowych w zakresie podatku od towarów i usług oraz podatku akcyzowego;
 - **7)** odsetek za zwłokę w zapłacie należności wymienionych w pkt 1–6.
 
@@ -1064,7 +1101,7 @@ source: "eli-html"
 - **2)** 62 dni i średniej dziennej krajowej produkcji lub przywozu gazu płynnego (LPG) w poprzednim roku kalendarzowym – do dnia 31 grudnia 2016 r.,
 - **3)** 71 dni i średniej dziennej krajowej produkcji lub przywozu gazu płynnego (LPG) w poprzednim roku kalendarzowym – do dnia 31 grudnia 2017 r.,
 - **4)** 80 dni i średniej dziennej krajowej produkcji lub przywozu gazu płynnego (LPG) w poprzednim roku kalendarzowym – do dnia 31 grudnia 2018 r.,
-- **5)** 90 dni i średniej dziennej krajowej produkcji lub przywozu gazu płynnego (LPG) w poprzednim roku kalendarzowym od 1 stycznia 2019 r. a ilością zapasów obowiązkowych ropy naftowej lub paliw tworzonych i utrzymywanych w zakresie gazu płynnego (LPG).
+- **5)** 90 dni i średniej dziennej krajowej produkcji lub przywozu gazu płynnego (LPG) w poprzednim roku kalendarzowym od 1 stycznia 2019 r. – a ilością zapasów obowiązkowych ropy naftowej lub paliw tworzonych i utrzymywanych w zakresie gazu płynnego (LPG).
 
 **Art. 13.**
 
@@ -1085,6 +1122,6 @@ source: "eli-html"
 **Art. 19.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 2 w zakresie art. 3 ust. 12 i 13, które wchodzą w życie z dniem 1 stycznia 2018 r.;
-- **2)** art. 1 pkt 18 w zakresie art. 21b ust. 12, który wchodzi w życie z dniem 1 stycznia 2015 r.
+- **2)** art. 1 pkt 18 w zakresie art. 21b ust. 12, który wchodzi w życie z dniem 1 stycznia 2015 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych oraz ustawę z dnia 29 października 2010 r. o rezerwach strategicznych. 2) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2009/119/WE z dnia 14 września 2009 r. nakładającej na państwa członkowskie obowiązek utrzymywania minimalnych zapasów ropy naftowej lub produktów ropopochodnych (Dz. Urz. UE L 265 z 09.10.2009, str. 9). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407, z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 204, poz. 1195, z 2012 r. poz. 473 i 908 oraz z 2013 r. poz. 1474. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183 i 567. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457 i 490. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 oraz z 2011 r. Nr 153, poz. 902.
 
 

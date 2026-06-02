@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 17 maja 2022 r. zmieniające rozporządzenie w sprawie ramowej organizacji komendy wojewódzkiej i powiatowej (miejskiej) Państwowej Straży Pożarnej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 17 maja 2022 r. zmieniające rozporządzenie w sprawie ramowej organizacji komendy wojewódzkiej i powiatowej (miejskiej) Państwowej Straży Pożarnej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-17 |
 | Data wydania | 2022-05-18 |
-| Wejście w życie | 2022-05-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1060/text.pdf) |
 
@@ -33,62 +32,45 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2
 1)
 w § 3:
 a)
-w ust. 2 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 i 18 w brzmieniu:
-„
+w ust. 2 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 i 18 w brzmieniu: „
 17)
 bezpieczeństwa informacji;
 18)
-współpracy z ochotniczymi strażami pożarnymi oraz innymi organizacjami pozarządowymi.
-” ,
+współpracy z ochotniczymi strażami pożarnymi oraz innymi organizacjami pozarządowymi. ” ,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Komórki organizacyjne realizujące zadania, o których mowa w ust. 2 pkt 14–16, oraz inspektor ochrony danych w zakresie wykonywanych zadań inspektora danych osobowych podlegają bezpośrednio komendantowi wojewódzkiemu Państwowej Straży Pożarnej.
-” ,
+Komórki organizacyjne realizujące zadania, o których mowa w ust. 2 pkt 14–16, oraz inspektor ochrony danych w zakresie wykonywanych zadań inspektora danych osobowych podlegają bezpośrednio komendantowi wojewódzkiemu Państwowej Straży Pożarnej. ” ,
 c)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Zadania, o których mowa w ust. 2, mogą być łączone w ramach komórki organizacyjnej, z wyjątkiem zadań z zakresu pomocy prawnej i polityki informacyjnej.
-” ,
+Zadania, o których mowa w ust. 2, mogą być łączone w ramach komórki organizacyjnej, z wyjątkiem zadań z zakresu pomocy prawnej i polityki informacyjnej. ” ,
 d)
-po ust. 5 dodaje się ust. 5a i 5b w brzmieniu:
-„
+po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
 5a.
 Zadania, o których mowa w ust. 2 pkt 17 i 18, mogą być wykonywane przez więcej niż jedną komórkę organizacyjną.
 5b.
-W ramach realizacji zadania, o którym mowa w ust. 2 pkt 11, wydziela się samodzielne stanowisko pracy do spraw kontaktu z mediami.
-” ;
+W ramach realizacji zadania, o którym mowa w ust. 2 pkt 11, wydziela się samodzielne stanowisko pracy do spraw kontaktu z mediami. ” ;
 2)
 w § 4:
 a)
-w ust. 3 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 i 17 w brzmieniu:
-„
+w ust. 3 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 i 17 w brzmieniu: „
 16)
 bezpieczeństwa informacji;
 17)
-współpracy z ochotniczymi strażami pożarnymi oraz innymi organizacjami pozarządowymi.
-” ,
+współpracy z ochotniczymi strażami pożarnymi oraz innymi organizacjami pozarządowymi. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Komórki organizacyjne realizujące zadania, o których mowa w ust. 3 pkt 13–15, oraz inspektor ochrony danych w zakresie wykonywanych zadań inspektora danych osobowych podlegają bezpośrednio komendantowi powiatowemu (miejskiemu) Państwowej Straży Pożarnej.
-” ,
+Komórki organizacyjne realizujące zadania, o których mowa w ust. 3 pkt 13–15, oraz inspektor ochrony danych w zakresie wykonywanych zadań inspektora danych osobowych podlegają bezpośrednio komendantowi powiatowemu (miejskiemu) Państwowej Straży Pożarnej. ” ,
 c)
-po ust. 5 dodaje się ust. 5a w brzmieniu:
-„
+po ust. 5 dodaje się ust. 5a w brzmieniu: „
 5a.
-Zadania, o których mowa w ust. 3 pkt 16 i 17, mogą być wykonywane przez więcej niż jedną komórkę organizacyjną.
-” ;
+Zadania, o których mowa w ust. 3 pkt 16 i 17, mogą być wykonywane przez więcej niż jedną komórkę organizacyjną. ” ;
 3)
-w § 5 ust. 1 otrzymuje brzmienie:
-„
+w § 5 ust. 1 otrzymuje brzmienie: „
 1.
-Komendą wojewódzką kieruje komendant wojewódzki przy pomocy trzech zastępców i kierowników komórek organizacyjnych.
-” .
+Komendą wojewódzką kieruje komendant wojewódzki przy pomocy trzech zastępców i kierowników komórek organizacyjnych. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

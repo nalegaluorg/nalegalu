@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 9 października 2019 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów na realizację recept oraz ramowego wzoru umowy na realizację recept
+# Rozporządzenie Ministra Zdrowiaz dnia 9 października 2019 r. zmieniające rozporządzenie w sprawie ogólnych warunków umów na realizację recept oraz ramowego wzoru umowy na realizację recept Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-09 |
 | Data wydania | 2019-10-16 |
-| Wejście w życie | 2019-10-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001971) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1971/text.pdf) |
 
@@ -33,34 +32,51 @@ W rozporządzeniu Ministra Zdrowia z dnia 8 grudnia 2011 r. w sprawie ogólnych 
 1)
 w załączniku nr 1 do rozporządzenia:
 a)
-w § 2 w ust. 2 pkt 3 otrzymuje brzmienie:
-„
+w § 2 w ust. 2 pkt 3 otrzymuje brzmienie: „
 3)
-zapewnienie realizacji przez kierownika apteki zadań obejmujących wydawanie refundowanych leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, o których mowa w § 1 ust. 1, zgodnie z ustawą, ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawą z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.), zwaną dalej „ustawą o świadczeniach”, ustawą z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852, 1655 i 1818) oraz z aktualnym stanem wiedzy farmaceutycznej.
-” ,
+zapewnienie realizacji przez kierownika apteki zadań obejmujących wydawanie refundowanych leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, o których mowa w § 1 ust. 1, zgodnie z ustawą, ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawą z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905.), zwaną dalej „ustawą o świadczeniach”, ustawą z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852, 1655 i 1818) oraz z aktualnym stanem wiedzy farmaceutycznej. ” ,
 b)
 w § 3:
-– w ust. 1 pkt 4 i 5 otrzymują brzmienie: „ 4) sporządzać korekty danych o obrocie lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego oraz wyrobami medycznymi, objętymi refundacją, wynikających ze zrealizowanych recept, w związku z: a) czynnościami Funduszu, o których mowa w art. 45 ust. 13 ustawy, b) zaleceniami pokontrolnymi zawartymi w wystąpieniu pokontrolnym, o którym mowa w art. 61s ustawy o świadczeniach, jeżeli nie zostały zgłoszone zastrzeżenia, o których mowa w art. 61t ust. 1 ustawy o świadczeniach, lub złożone zastrzeżenia zostały oddalone, c) zastosowaniem sankcji, o których mowa w art. 61x ustawy o świadczeniach; 5) przekazywać uzgodnione zestawienia zbiorcze w postaci pisemnej, stanowiące podstawę refundacji, w terminach określonych w art. 45 ust. 6 ustawy; ” ,
-– ust. 2 otrzymuje brzmienie: „ 2. Podmiot prowadzący aptekę jest obowiązany do poinformowania w postaci elektronicznej oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2, o każdej zmianie w ewidencji osób zatrudnionych w aptece, w terminie, o którym mowa w art. 45 ust. 6 ustawy. ” ,
+w ust. 1 pkt 4 i 5 otrzymują brzmienie: „
+4)
+sporządzać korekty danych o obrocie lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego oraz wyrobami medycznymi, objętymi refundacją, wynikających ze zrealizowanych recept, w związku z:
+a)
+czynnościami Funduszu, o których mowa w art. 45 ust. 13 ustawy,
+b)
+zaleceniami pokontrolnymi zawartymi w wystąpieniu pokontrolnym, o którym mowa w art. 61s ustawy o świadczeniach, jeżeli nie zostały zgłoszone zastrzeżenia, o których mowa w art. 61t ust. 1 ustawy o świadczeniach, lub złożone zastrzeżenia zostały oddalone,
 c)
-§ 5 otrzymuje brzmienie:
-„
-§ 5.
-Prezes Funduszu przeprowadza kontrolę wykonywania umowy na realizację recept na zasadach określonych w dziale IIIA ustawy o świadczeniach.
-” ,
-d)
-w § 6 ust. 2 otrzymuje brzmienie:
-„
+zastosowaniem sankcji, o których mowa w art. 61x ustawy o świadczeniach;
+5)
+przekazywać uzgodnione zestawienia zbiorcze w postaci pisemnej, stanowiące podstawę refundacji, w terminach określonych w art. 45 ust. 6 ustawy; ” ,
+ust. 2 otrzymuje brzmienie: „
 2.
-Obowiązek, o którym mowa w ust. 1, nie dotyczy przypadku ujawnienia faktu zniszczenia, utraty lub kradzieży recepty w wyniku czynności, o których mowa w art. 45 ust. 13 ustawy oraz dziale IIIA ustawy o świadczeniach.
-” ,
+Podmiot prowadzący aptekę jest obowiązany do poinformowania w postaci elektronicznej oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2, o każdej zmianie w ewidencji osób zatrudnionych w aptece, w terminie, o którym mowa w art. 45 ust. 6 ustawy. ” ,
+c)
+§ 5 otrzymuje brzmienie: „
+§ 5.
+Prezes Funduszu przeprowadza kontrolę wykonywania umowy na realizację recept na zasadach określonych w dziale IIIA ustawy o świadczeniach. ” ,
+d)
+w § 6 ust. 2 otrzymuje brzmienie: „
+2.
+Obowiązek, o którym mowa w ust. 1, nie dotyczy przypadku ujawnienia faktu zniszczenia, utraty lub kradzieży recepty w wyniku czynności, o których mowa w art. 45 ust. 13 ustawy oraz dziale IIIA ustawy o świadczeniach. ” ,
 e)
 w § 7:
-– po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Należności z tytułu zwrotu refundacji pobiera lub dochodzi dyrektor oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2, lub Prezes Funduszu. ” ,
-– ust. 2 i 3 otrzymują brzmienie: „ 2. W przypadku: 1) zakończenia procedury, o której mowa w art. 42 ustawy, lub 2) ustalenia w wystąpieniu pokontrolnym, o którym mowa w art. 61s ustawy o świadczeniach, że nastąpiła nienależna refundacja, jeżeli nie zostały zgłoszone zastrzeżenia, o których mowa w art. 61t ust. 1 ustawy o świadczeniach, lub złożone zastrzeżenia zostały oddalone, lub 3) bezskutecznego upływu terminu, o którym mowa w art. 43 ust. 1 pkt 6 ustawy – oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, przysługuje prawo do dokonania potrącenia nienależnie przekazanych środków wraz z odsetkami ustawowymi z należności przysługującej od tego oddziału podmiotowi prowadzącemu aptekę. 3. W przypadku, o którym mowa w ust. 2, odsetki ustawowe nie przysługują oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, za okres od dnia, w którym upłynął termin określony w ustawie do rozpatrzenia zażalenia, o którym mowa w art. 42 ustawy, do dnia jego rozpatrzenia. ” ,
+po ust. 1 dodaje się ust. 1a w brzmieniu: „
+1a.
+Należności z tytułu zwrotu refundacji pobiera lub dochodzi dyrektor oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2, lub Prezes Funduszu. ” ,
+ust. 2 i 3 otrzymują brzmienie: „
+2.
+W przypadku:
+1)
+zakończenia procedury, o której mowa w art. 42 ustawy, lub
+2)
+ustalenia w wystąpieniu pokontrolnym, o którym mowa w art. 61s ustawy o świadczeniach, że nastąpiła nienależna refundacja, jeżeli nie zostały zgłoszone zastrzeżenia, o których mowa w art. 61t ust. 1 ustawy o świadczeniach, lub złożone zastrzeżenia zostały oddalone, lub
+3)
+bezskutecznego upływu terminu, o którym mowa w art. 43 ust. 1 pkt 6 ustawy – oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, przysługuje prawo do dokonania potrącenia nienależnie przekazanych środków wraz z odsetkami ustawowymi z należności przysługującej od tego oddziału podmiotowi prowadzącemu aptekę.
+3.
+W przypadku, o którym mowa w ust. 2, odsetki ustawowe nie przysługują oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, za okres od dnia, w którym upłynął termin określony w ustawie do rozpatrzenia zażalenia, o którym mowa w art. 42 ustawy, do dnia jego rozpatrzenia. ” ,
 f)
-§ 8 i § 9 otrzymują brzmienie:
-„
+§ 8 i § 9 otrzymują brzmienie: „
 § 8.
 1.
 W przypadku stwierdzenia niewykonania lub nienależytego wykonania umowy na realizację recept, będącego następstwem okoliczności, za które podmiot prowadzący aptekę ponosi odpowiedzialność, Prezes Funduszu lub dyrektor oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2, nakłada karę umowną.
@@ -106,17 +122,13 @@ ustalenia w wystąpieniu pokontrolnym, o którym mowa w art. 61s ustawy o świad
 3)
 bezskutecznego upływu terminu, o którym mowa w ust. 1 – oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, przysługuje prawo do dokonania potrącenia nałożonej kary umownej, wraz z odsetkami ustawowymi z należności przysługującej od tego oddziału podmiotowi prowadzącemu aptekę.
 4.
-W przypadku, o którym mowa w ust. 3, odsetki ustawowe nie przysługują oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, za okres od dnia, w którym upłynął termin określony w ustawie do rozpatrzenia zażalenia, o którym mowa w art. 42 ustawy, do dnia jego rozpatrzenia.
-” ,
+W przypadku, o którym mowa w ust. 3, odsetki ustawowe nie przysługują oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, za okres od dnia, w którym upłynął termin określony w ustawie do rozpatrzenia zażalenia, o którym mowa w art. 42 ustawy, do dnia jego rozpatrzenia. ” ,
 g)
-w § 10 w ust. 3 pkt 2 otrzymuje brzmienie:
-„
+w § 10 w ust. 3 pkt 2 otrzymuje brzmienie: „
 2)
-w przypadku recept w postaci papierowej, udostępnić recepty do kontroli, o której mowa w przepisach działu IIIA ustawy o świadczeniach, albo w związku z czynnościami, o których mowa w art. 45 ust. 13 ustawy lub art. 61w ustawy o świadczeniach, na każde wystąpienie Prezesa Funduszu lub dyrektora oddziału wojewódzkiego Funduszu, o którym mowa w pkt 1.
-” ,
+w przypadku recept w postaci papierowej, udostępnić recepty do kontroli, o której mowa w przepisach działu IIIA ustawy o świadczeniach, albo w związku z czynnościami, o których mowa w art. 45 ust. 13 ustawy lub art. 61w ustawy o świadczeniach, na każde wystąpienie Prezesa Funduszu lub dyrektora oddziału wojewódzkiego Funduszu, o którym mowa w pkt 1. ” ,
 h)
-§ 11 i § 12 otrzymują brzmienie:
-„
+§ 11 i § 12 otrzymują brzmienie: „
 § 11.
 Dyrektor oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2, w stosunku do należności Funduszu, o których mowa w § 7 ust. 2 lub § 9 ust. 3, w przypadkach szczególnych, uzasadnionych sytuacją finansową podmiotu prowadzącego aptekę, oraz z uwzględnieniem stanu posiadanych środków finansowych może rozłożyć na raty spłatę przysługujących oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, należności oraz naliczonych od nich odsetek ustawowych. Rozłożenie na raty następuje w formie pisemnego porozumienia.
 § 12.
@@ -127,19 +139,15 @@ Doręczenie oświadczenia Prezesa Funduszu lub dyrektora oddziału wojewódzkieg
 3.
 Do oświadczeń podmiotu prowadzącego aptekę wymagających doręczenia Prezesowi Funduszu lub dyrektorowi oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2, na piśmie przepis ust. 1 stosuje się odpowiednio.
 4.
-Oświadczenia podmiotu prowadzącego aptekę mogą być również doręczone w centrali Funduszu lub w siedzibie oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2.
-” ;
+Oświadczenia podmiotu prowadzącego aptekę mogą być również doręczone w centrali Funduszu lub w siedzibie oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2. ” ;
 2)
 w załączniku nr 2 do rozporządzenia:
 a)
-w § 5 w ust. 3 pkt 1 otrzymuje brzmienie:
-„
+w § 5 w ust. 3 pkt 1 otrzymuje brzmienie: „
 1)
-recepty przedstawione do refundacji będą realizowane zgodnie z przepisami ustawy, ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.), zwaną dalej „ustawą o świadczeniach”, ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852, 1655 i 1818), zwaną dalej „ustawą o przeciwdziałaniu narkomanii”, oraz aktów wykonawczych wydanych na podstawie tych ustaw;
-” ,
+recepty przedstawione do refundacji będą realizowane zgodnie z przepisami ustawy, ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905.), zwaną dalej „ustawą o świadczeniach”, ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852, 1655 i 1818), zwaną dalej „ustawą o przeciwdziałaniu narkomanii”, oraz aktów wykonawczych wydanych na podstawie tych ustaw; ” ,
 b)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
 1.
 Podmiot prowadzący aptekę zobowiązuje się, że apteka będzie dokonywać zwrotu refundacji ceny leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego, wydanego na podstawie recepty zrealizowanej z naruszeniem przepisów ustawy, ustawy o świadczeniach, ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne oraz ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2019 r. poz. 537, 577, 730 i 1590).
@@ -160,19 +168,15 @@ czynnościami Funduszu, o których mowa w art. 45 ust. 13 ustawy;
 2)
 zaleceniami pokontrolnymi zawartymi w wystąpieniu pokontrolnym, o którym mowa w art. 61s ustawy o świadczeniach, jeżeli nie zachodzą okoliczności, o których mowa w art. 61t ustawy o świadczeniach;
 3)
-zastosowaniem sankcji, o których mowa w art. 61x ustawy o świadczeniach.
-” ,
+zastosowaniem sankcji, o których mowa w art. 61x ustawy o świadczeniach. ” ,
 c)
-w § 11 ust. 1 otrzymuje brzmienie:
-„
+w § 11 ust. 1 otrzymuje brzmienie: „
 1.
-W sprawach nieuregulowanych niniejszą umową mają zastosowanie przepisy ustawy, ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawy o świadczeniach, ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2019 r. poz. 1419), ustawy o przeciwdziałaniu narkomanii, aktów wykonawczych wydanych na podstawie tych ustaw, OWU oraz ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495).
-” .
+W sprawach nieuregulowanych niniejszą umową mają zastosowanie przepisy ustawy, ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawy o świadczeniach, ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2019 r. poz. 1419), ustawy o przeciwdziałaniu narkomanii, aktów wykonawczych wydanych na podstawie tych ustaw, OWU oraz ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495). ” .
 § 2.
 Dyrektor właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia przedstawi podmiotowi prowadzącemu aptekę zmianę umowy na wydawanie refundowanego leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego na receptę, dostosowaną do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do postępowań kontrolnych oraz czynności sprawdzających, o których mowa w dziale IIIA ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.), wszczętych lub podjętych po dniu 1 czerwca 2019 r., w zakresie czynności realizowanych po dniu wejścia w życie niniejszego rozporządzenia.
+Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do postępowań kontrolnych oraz czynności sprawdzających, o których mowa w dziale IIIA ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905.), wszczętych lub podjętych po dniu 1 czerwca 2019 r., w zakresie czynności realizowanych po dniu wejścia w życie niniejszego rozporządzenia.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905.
 

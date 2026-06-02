@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 7 lipca 2016 r. zmieniające rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim
+# Rozporządzenie Ministra Środowiskaz dnia 7 lipca 2016 r. zmieniające rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-07 |
 | Data wydania | 2016-07-18 |
-| Wejście w życie | 2016-08-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1043/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnia
 § 1.
 W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim (Dz. U. poz. 1254) w załączniku wprowadza się następujące zmiany:
 1)
-w § 3 ust. 1–4 otrzymują brzmienie:
-„
+w § 3 ust. 1–4 otrzymują brzmienie: „
 1.
 Regionalny Dyrektor kieruje RDOŚ przy pomocy zastępcy Regionalnego Dyrektora oraz naczelników komórek organizacyjnych, o których mowa w § 4 ust. 1 pkt 1–3, oraz osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 4–8.
 2.
@@ -40,11 +38,9 @@ Zastępcą Regionalnego Dyrektora jest regionalny konserwator przyrody, który s
 3.
 Zakresy czynności zastępcy Regionalnego Dyrektora, naczelników komórek organizacyjnych, o których mowa w § 4 ust. 1 pkt 1–3, oraz osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 4–8, ustala Regionalny Dyrektor.
 4.
-W przypadku nieobecności lub czasowej niezdolności do wykonywania obowiązków przez Regionalnego Dyrektora jego funkcje sprawuje zastępca Regionalnego Dyrektora.
-” ;
+W przypadku nieobecności lub czasowej niezdolności do wykonywania obowiązków przez Regionalnego Dyrektora jego funkcje sprawuje zastępca Regionalnego Dyrektora. ” ;
 2)
-w § 4 ust. 1 otrzymuje brzmienie:
-„
+w § 4 ust. 1 otrzymuje brzmienie: „
 1.
 W skład RDOŚ wchodzą następujące komórki organizacyjne i stanowiska:
 1)
@@ -62,17 +58,13 @@ Administrator Bezpieczeństwa Informacji;
 7)
 Samodzielne stanowisko do spraw bezpieczeństwa i higieny pracy;
 8)
-Samodzielne stanowisko do spraw obronnych i zarządzania kryzysowego.
-” ;
+Samodzielne stanowisko do spraw obronnych i zarządzania kryzysowego. ” ;
 3)
-§ 7 otrzymuje brzmienie:
-„
+§ 7 otrzymuje brzmienie: „
 § 7.
-Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych, o których mowa w § 4 ust. 1 pkt 1–3, i stanowisk, o których mowa w § 4 ust. 1 pkt 4–8, określa regulamin organizacyjny nadany przez Regionalnego Dyrektora, po zatwierdzeniu przez Generalnego Dyrektora Ochrony Środowiska.
-” ;
+Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych, o których mowa w § 4 ust. 1 pkt 1–3, i stanowisk, o których mowa w § 4 ust. 1 pkt 4–8, określa regulamin organizacyjny nadany przez Regionalnego Dyrektora, po zatwierdzeniu przez Generalnego Dyrektora Ochrony Środowiska. ” ;
 4)
 uchyla się § 8.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
 

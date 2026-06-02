@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 lipca 2005 r. o zmianie ustawy o działalności ubezpieczeniowej oraz niektórych innych ustaw
+# Ustawa z dnia 8 lipca 2005 r. o zmianie ustawy o działalności ubezpieczeniowej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych oraz ustawę z dnia 18 lutego 2005 r. o zmianie ustawy o pośrednictwie ubezpieczeniowym oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-08 |
 | Data wydania | 2005-08-02 |
-| Wejście w życie | 2005-08-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051431204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1204/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959 oraz z 2005 r. Nr 48, poz. 447 i Nr 83, poz. 719.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: w ust. 4 pkt 5 otrzymuje brzmienie: „
     - **a)**
@@ -41,7 +40,7 @@ source: "eli-html"
 8. Zakład ubezpieczeń może bezpośrednio lub poprzez pośredników ubezpieczeniowych ustanowionych na podstawie odrębnych przepisów:
 
 - **1)** wykonywać działalność akwizycyjną na rzecz otwartych funduszy emerytalnych, zgodnie z przepisami ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2004 r. Nr 159, poz. 1667 oraz z 2005 r. Nr 143, poz. 1202);
-- **2)** pośredniczyć w imieniu lub na rzecz podmiotów wykonujących czynności bankowe określone w art. 5 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.), zwanej dalej „ustawą – Prawo bankowe”, przy zawieraniu umów w ramach wykonywania tych czynności, na zasadach określonych w ustawie – Prawo bankowe;
+- **2)** pośredniczyć w imieniu lub na rzecz podmiotów wykonujących czynności bankowe określone w art. 5 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808 oraz z 2005 r. Nr 83, poz. 719 i Nr 85, poz. 727.), zwanej dalej „ustawą – Prawo bankowe”, przy zawieraniu umów w ramach wykonywania tych czynności, na zasadach określonych w ustawie – Prawo bankowe;
 - **3)** pośredniczyć w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub tytułów uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych z siedzibą w państwach członkowskich Unii Europejskiej oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do OECD innych niż państwo członkowskie Unii Europejskiej, na zasadach określonych w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546 oraz z 2005 r. Nr 83, poz. 719). ” , dodaje się ust. 9 i 10 w brzmieniu: „
     - **d)**
 
@@ -239,8 +238,12 @@ source: "eli-html"
 - **1)** przeznaczonych na pokrycie wszelkich przewidywalnych zobowiązań;
 - **2)** wartości niematerialnych i prawnych;
 - **3)** akcji i udziałów własnych będących w posiadaniu zakładu ubezpieczeń;
-- **4)** z tytułu odroczonego podatku dochodowego. ” , w ust. 3: – pkt 4–6 otrzymują brzmienie: „ 4) kapitałowi zapasowemu i kapitałom rezerwowym oraz kapitałowi z aktualizacji wyceny; 5) niepodzielonemu wynikowi finansowemu z lat ubiegłych po potrąceniu należnych dywidend: zysk – wielkość dodatnia, strata – wielkość ujemna; 6) wynikowi finansowemu netto w okresie sprawozdawczym po potrąceniu należnych dywidend: zysk – wielkość dodatnia, strata – wielkość ujemna. ” , – uchyla się pkt 7, ust. 5 otrzymuje brzmienie: „
+- **4)** z tytułu odroczonego podatku dochodowego. ” , w ust. 3: pkt 4–6 otrzymują brzmienie: „
     - **b)**
+
+- **4)** kapitałowi zapasowemu i kapitałom rezerwowym oraz kapitałowi z aktualizacji wyceny;
+- **5)** niepodzielonemu wynikowi finansowemu z lat ubiegłych po potrąceniu należnych dywidend: zysk – wielkość dodatnia, strata – wielkość ujemna;
+- **6)** wynikowi finansowemu netto w okresie sprawozdawczym po potrąceniu należnych dywidend: zysk – wielkość dodatnia, strata – wielkość ujemna. ” , – uchyla się pkt 7, ust. 5 otrzymuje brzmienie: „
     - **c)**
 
 5. Na wniosek zakładu ubezpieczeń, o którym mowa w art. 38 ust. 1, wykonującego działalność w dziale II załącznika do ustawy, organ nadzoru może wyrazić, w drodze decyzji, zgodę na zaliczenie do środków własnych należności towarzystwa od jego członków z tytułu dopłat, których może zażądać na podstawie statutu, do wysokości 50% dopłat należnych w roku obrotowym i do wysokości 50% mniejszej spośród wartości środków własnych lub marginesu wypłacalności. ” ;
@@ -332,11 +335,11 @@ source: "eli-html"
 **Art. 2.** W ustawie z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych (Dz. U. z 2001 r. Nr 59, poz. 609 oraz z 2004 r. Nr 96, poz. 959) art. 17 otrzymuje brzmienie: „ 1. Do umów zawieranych w zakresie uregulowanym niniejszą ustawą nie stosuje się przepisów:
 
 - **1)** art. 807 § 1, art. 810 oraz art. 811 Kodeksu cywilnego,
-- **2)** ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.).
+- **2)** ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959 oraz z 2005 r. Nr 48, poz. 447, Nr 83, poz. 719 i Nr 143, poz. 1204.).
 
 2. Do firmy Korporacji nie stosuje się art. 6 ust. 3 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej. ” .
 
-**Art. 3.** W ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych (Dz. U. Nr 124, poz. 1153, z późn. zm.) uchyla się art. 28.
+**Art. 3.** W ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych (Dz. U. Nr 124, poz. 1153, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1651, z 2004 r. Nr 93, poz. 891 i Nr 96, poz. 959 oraz z 2005 r. Nr 48, poz. 447 i Nr 83, poz. 719.) uchyla się art. 28.
 
 **Art. 4.** W ustawie z dnia 18 lutego 2005 r. o zmianie ustawy o pośrednictwie ubezpieczeniowym oraz niektórych innych ustaw (Dz. U. Nr 48, poz. 447) wprowadza się następujące zmiany:
 
@@ -351,6 +354,6 @@ source: "eli-html"
 **Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 34, który wchodzi w życie z dniem 26 marca 2006 r.;
-- **2)** art. 1 pkt 35, który wchodzi w życie z dniem ogłoszenia.
+- **2)** art. 1 pkt 35, który wchodzi w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych oraz ustawę z dnia 18 lutego 2005 r. o zmianie ustawy o pośrednictwie ubezpieczeniowym oraz niektórych innych ustaw. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959 oraz z 2005 r. Nr 48, poz. 447 i Nr 83, poz. 719. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808 oraz z 2005 r. Nr 83, poz. 719 i Nr 85, poz. 727. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959 oraz z 2005 r. Nr 48, poz. 447, Nr 83, poz. 719 i Nr 143, poz. 1204. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1651, z 2004 r. Nr 93, poz. 891 i Nr 96, poz. 959 oraz z 2005 r. Nr 48, poz. 447 i Nr 83, poz. 719.
 
 

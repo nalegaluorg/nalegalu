@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 30 listopada 2022 r. zmieniające rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Lublinie
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 30 listopada 2022 r. zmieniające rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Lublinie Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-30 |
 | Data wydania | 2022-12-07 |
-| Wejście w życie | 2022-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002517) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2517/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnia
 § 1.
 W załączniku do rozporządzenia Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Lublinie (Dz. U. poz. 1258) wprowadza się następujące zmiany:
 1)
-w § 3 ust. 1–4 otrzymują brzmienie:
-„
+w § 3 ust. 1–4 otrzymują brzmienie: „
 1.
 Regionalny Dyrektor kieruje RDOŚ przy pomocy zastępcy Regionalnego Dyrektora, naczelników wydziałów, głównego księgowego i osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 10–13.
 2.
@@ -40,11 +38,9 @@ Zastępcą Regionalnego Dyrektora jest regionalny konserwator przyrody, który s
 3.
 Regionalny Dyrektor ustala zakresy czynności zastępcy Regionalnego Dyrektora, naczelników wydziałów, głównego księgowego i osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 10–13.
 4.
-Zastępca Regionalnego Dyrektora zastępuje Regionalnego Dyrektora w przypadku jego nieobecności lub czasowej niezdolności do wykonywania obowiązków.
-” ;
+Zastępca Regionalnego Dyrektora zastępuje Regionalnego Dyrektora w przypadku jego nieobecności lub czasowej niezdolności do wykonywania obowiązków. ” ;
 2)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 1.
 W skład RDOŚ wchodzą następujące komórki organizacyjne i stanowiska:
@@ -77,11 +73,9 @@ inspektor ochrony danych.
 2.
 Komórkami organizacyjnymi, o których mowa w ust. 1 pkt 1–8, kierują naczelnicy wydziałów.
 3.
-Komórką organizacyjną, o której mowa w ust. 1 pkt 9, kieruje główny księgowy.
-” ;
+Komórką organizacyjną, o której mowa w ust. 1 pkt 9, kieruje główny księgowy. ” ;
 3)
 uchyla się § 8.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 

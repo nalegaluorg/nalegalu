@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 maja 2016 r. zmieniające rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 maja 2016 r. zmieniające rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-20 |
 | Data wydania | 2016-06-15 |
-| Wejście w życie | 2016-06-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000852) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/852/text.pdf) |
 
@@ -33,28 +32,21 @@ W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 30 marca 2012 r. w sprawie
 1)
 w § 4:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Minister właściwy do spraw wewnętrznych monitoruje realizację prawa weteranów poszkodowanych-funkcjonariuszy do pomocy psychologicznej udzielanej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, zwanych dalej „podmiotami”.
-” ,
+Minister właściwy do spraw wewnętrznych monitoruje realizację prawa weteranów poszkodowanych-funkcjonariuszy do pomocy psychologicznej udzielanej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, zwanych dalej „podmiotami”. ” ,
 b)
-w ust. 3 pkt 2 otrzymuje brzmienie:
-„
+w ust. 3 pkt 2 otrzymuje brzmienie: „
 2)
-współdziałaniu z podmiotami w zakresie pozyskiwania informacji o realizacji prawa weteranów poszkodowanych-funkcjonariuszy do uzyskania pomocy psychologicznej;
-” ;
+współdziałaniu z podmiotami w zakresie pozyskiwania informacji o realizacji prawa weteranów poszkodowanych-funkcjonariuszy do uzyskania pomocy psychologicznej; ” ;
 2)
-§ 5 otrzymuje brzmienie:
-„
+§ 5 otrzymuje brzmienie: „
 § 5.
 Podmioty przekazują ministrowi właściwemu do spraw wewnętrznych w terminie do dnia 31 stycznia każdego roku, za rok poprzedni, informacje o:
 1)
 zakresie pomocy psychologicznej udzielonej weteranom poszkodowanym-funkcjonariuszom;
 2)
-liczbie weteranów poszkodowanych-funkcjonariuszy, którzy skorzystali z pomocy psychologicznej udzielanej w podmiotach.
-” .
+liczbie weteranów poszkodowanych-funkcjonariuszy, którzy skorzystali z pomocy psychologicznej udzielanej w podmiotach. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
 

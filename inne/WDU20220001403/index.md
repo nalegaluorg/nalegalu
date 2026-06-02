@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 1 lipca 2022 r. zmieniające rozporządzenie w sprawie wymagań dla zabawek
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 1 lipca 2022 r. zmieniające rozporządzenie w sprawie wymagań dla zabawek Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-01 |
 | Data wydania | 2022-07-04 |
-| Wejście w życie | 2022-07-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1403/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 5 i 974) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2020/2088 z dnia 11 grudnia 2020 r. zmieniającą załącznik II do dyrektywy Parlamentu Europejskiego i Rady 2009/48/WE w odniesieniu do oznakowania obecności w zabawkach substancji zapachowych mogących powodować alergie (Dz. Urz. UE L 423 z 15.12.2020, str. 53) oraz dyrektywę Komisji (UE) 2020/2089 z dnia 11 grudnia 2020 r. zmieniającą załącznik II do dyrektywy Parlamentu Europejskiego i Rady 2009/48/WE w odniesieniu do zakazu stosowania w zabawkach substancji zapachowych mogących powodować alergie (Dz. Urz. UE L 423 z 15.12.2020, str. 58). Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 5 i 974) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rozwoju i Finansów z dnia 20 października 2016 r. w sprawie wymagań dla zabawek (Dz. U. z 2019 r. poz. 1816 oraz z 2021 r. poz. 848 i 849) wprowadza się następujące zmiany:
 1)
@@ -41,6 +40,5 @@ odnośnik nr 6 otrzymuje brzmienie: „ 6) Zmiany wymienionego rozporządzenia z
 5)
 odnośnik nr 7 otrzymuje brzmienie: „ 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 114 z 25.04.2013, str. 1, Dz. Urz. UE L 139 z 25.05.2013, str. 8, Dz. Urz. UE L 190 z 11.07.2013, str. 38, Dz. Urz. UE L 315 z 26.11.2013, str. 34, Dz. Urz. UE L 107 z 10.04.2014, str. 5, Dz. Urz. UE L 238 z 09.08.2014, str. 3, Dz. Urz. UE L 254 z 28.08.2014, str. 39, Dz. Urz. UE L 282 z 26.09.2014, str. 1, Dz. Urz. UE L 282 z 26.09.2014, str. 5, Dz. Urz. UE L 193 z 21.07.2015, str. 115, Dz. Urz. UE L 199 z 29.07.2015, str. 22, Dz. Urz. UE L 60 z 05.03.2016, str. 59, Dz. Urz. UE L 106 z 22.04.2016, str. 4, Dz. Urz. UE L 106 z 22.04.2016, str. 7, Dz. Urz. UE L 187 z 12.07.2016, str. 1, Dz. Urz. UE L 187 z 12.07.2016, str. 4, Dz. Urz. UE L 189 z 14.07.2016, str. 40, Dz. Urz. UE L 198 z 23.07.2016, str. 10, Dz. Urz. UE L 17 z 21.01.2017, str. 52, Dz. Urz. UE L 36 z 11.02.2017, str. 12, Dz. Urz. UE L 36 z 11.02.2017, str. 37, Dz. Urz. UE L 117 z 05.05.2017, str. 1, Dz. Urz. UE L 174 z 07.07.2017, str. 16, Dz. Urz. UE L 202 z 03.08.2017, str. 1, Dz. Urz. UE L 203 z 04.08.2017, str. 1, Dz. Urz. UE L 319 z 05.12.2017, str. 2, Dz. Urz. UE L 326 z 09.12.2017, str. 55, Dz. Urz. UE L 158 z 21.06.2018, str. 1, Dz. Urz. UE L 176 z 12.07.2018, str. 3, Dz. Urz. UE L 300 z 27.11.2018, str. 1, Dz. Urz. UE L 115 z 02.05.2019, str. 3, Dz. Urz. UE L 115 z 02.05.2019, str. 5, Dz. Urz. UE L 119 z 07.05.2019, str. 66, Dz. Urz. UE L 137 z 23.05.2019, str. 29, Dz. Urz. UE L 286 z 07.11.2019, str. 3, Dz. Urz. UE L 286 z 07.11.2019, str. 7, Dz. Urz. UE L 307 z 28.11.2019, str. 15, Dz. Urz. UE L 379 z 13.11.2020, str. 31, Dz. Urz. UE L 379 z 13.11.2020, str. 34, Dz. Urz. UE L 379 z 13.11.2020, str. 42, Dz. Urz. UE L 188 z 28.05.2021, str. 44, Dz. Urz. UE L 238 z 06.07.2021, str. 29, Dz. Urz. UE L 387 z 03.11.2021, str. 120 oraz Dz. Urz. UE L 22 z 01.02.2022, str. 2. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 5 lipca 2022 r.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2020/2088 z dnia 11 grudnia 2020 r. zmieniającą załącznik II do dyrektywy Parlamentu Europejskiego i Rady 2009/48/WE w odniesieniu do oznakowania obecności w zabawkach substancji zapachowych mogących powodować alergie (Dz. Urz. UE L 423 z 15.12.2020, str. 53) oraz dyrektywę Komisji (UE) 2020/2089 z dnia 11 grudnia 2020 r. zmieniającą załącznik II do dyrektywy Parlamentu Europejskiego i Rady 2009/48/WE w odniesieniu do zakazu stosowania w zabawkach substancji zapachowych mogących powodować alergie (Dz. Urz. UE L 423 z 15.12.2020, str. 58).
+Rozporządzenie wchodzi w życie z dniem 5 lipca 2022 r. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2020/2088 z dnia 11 grudnia 2020 r. zmieniającą załącznik II do dyrektywy Parlamentu Europejskiego i Rady 2009/48/WE w odniesieniu do oznakowania obecności w zabawkach substancji zapachowych mogących powodować alergie (Dz. Urz. UE L 423 z 15.12.2020, str. 53) oraz dyrektywę Komisji (UE) 2020/2089 z dnia 11 grudnia 2020 r. zmieniającą załącznik II do dyrektywy Parlamentu Europejskiego i Rady 2009/48/WE w odniesieniu do zakazu stosowania w zabawkach substancji zapachowych mogących powodować alergie (Dz. Urz. UE L 423 z 15.12.2020, str. 58).
 

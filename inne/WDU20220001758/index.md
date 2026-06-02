@@ -26,13 +26,12 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001758) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1758/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów operacyjnych Rozdział 1 – Przepisy ogólne Rozdział 2 – Przepisy szczegółowe Rozdział 3 – Przepisy końcowe
+Załącznik – Tekst jednolity ustawy z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów operacyjnych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów operacyjnych w związku z wystąpieniem COVID-19 (Dz. U. z 2021 r. poz. 986), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 lipca 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 146 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 146 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), które stanowią: „ 1) Niniejsza ustawa służy stosowaniu:
 1)
 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159 oraz Dz. Urz. UE L 261 z 22.07.2021, str. 58);
 2)
@@ -42,9 +41,16 @@ rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1057 z dnia 24 czerwca
 4)
 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1056 z dnia 24 czerwca 2021 r. ustanawiającego Fundusz na rzecz Sprawiedliwej Transformacji (Dz. Urz. UE L 231 z 30.06.2021, str. 1 oraz Dz. Urz. UE L 421 z 26.11.2021, str. 74);
 5)
-rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca 2021 r. w sprawie przepisów szczegółowych dotyczących celu „Europejska współpraca terytorialna” (Interreg) wspieranego w ramach Europejskiego Funduszu Rozwoju Regionalnego oraz instrumentów finansowania zewnętrznego (Dz. Urz. UE L 231 z 30.06.2021, str. 94).
-”
-„
+rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca 2021 r. w sprawie przepisów szczegółowych dotyczących celu „Europejska współpraca terytorialna” (Interreg) wspieranego w ramach Europejskiego Funduszu Rozwoju Regionalnego oraz instrumentów finansowania zewnętrznego (Dz. Urz. UE L 231 z 30.06.2021, str. 94). ” „
+Przepisy ogólne
+Przepisy szczegółowe
+Przepisy końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Przepisy szczegółowe
+
+#### Rozdział 3 – Przepisy końcowe
 
 **Art. 146.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -55,15 +61,11 @@ rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca
 - **5)** art. 113 pkt 4 lit. b i pkt 5 oraz art. 140, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
 - **6)** art. 125 pkt 12, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z mocą od dnia 1 lipca 2019 r.;
 - **7)** art. 125 pkt 10, 17, 18 i 20, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
-- **8)** art. 113 pkt 19 i art. 142 ust. 4, które wchodzą w życie po upływie 36 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów operacyjnych
+- **8)** art. 113 pkt 19 i art. 142 ust. 4, które wchodzą w życie po upływie 36 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów operacyjnychOgólne określenie przedmiotu ustawy ze zmianą wprowadzoną przez art. 129 pkt 1 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), która weszła w życie z dniem 4 czerwca 2022 r.; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
-**Art. 1.**
-
-1. Ustawa określa szczególne rozwiązania związane z realizacją lub rozliczaniem programów operacyjnych.
-
-2. W zakresie nieuregulowanym w ustawie stosuje się przepisy ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818), zwanej dalej „ustawą wdrożeniową”.
+**Art. 1.** 1Ze zmianą wprowadzoną przez art. 129 pkt 2 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r.. Ustawa określa szczególne rozwiązania związane z realizacją lub rozliczaniem programów operacyjnych. 2. W zakresie nieuregulowanym w ustawie stosuje się przepisy ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818), zwanej dalej „ustawą wdrożeniową”.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
@@ -71,7 +73,7 @@ rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca
 - **2)** programie operacyjnym – rozumie się przez to odpowiednio program operacyjny, o którym mowa w art. 2 pkt 17 ustawy wdrożeniowej, albo program operacyjny, o którym mowa w art. 15 ust. 4 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2021 r. poz. 1057 oraz z 2022 r. poz. 1079);
 - **3)** projekcie – rozumie się przez to projekt, o którym mowa w art. 2 pkt 18 ustawy wdrożeniowej.
 
-#### Rozdział 2 Przepisy szczegółowe
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -88,7 +90,7 @@ rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca
 
 1. W przypadku gdy nieprawidłowość indywidualna jest bezpośrednim skutkiem wystąpienia COVID-19, a beneficjent wykaże, że pomimo dochowania należytej staranności nie był w stanie zapobiec wystąpieniu tej nieprawidłowości, korygowanie wydatków następuje przez pomniejszenie wydatków ujętych w deklaracji wydatków oraz we wniosku o płatność, przekazywanych do Komisji Europejskiej, o kwotę odpowiadającą oszacowanej wartości korekty finansowej wynikającej z tej nieprawidłowości.
 
-2. W przypadku, o którym mowa w ust. 1, przepisów art. 207 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.) nie stosuje się.
+2. W przypadku, o którym mowa w ust. 1, przepisów art. 207 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283.) nie stosuje się.
 
 3. W programie EWT, o którym mowa w art. 2 pkt 17 lit. b ustawy wdrożeniowej, nie odzyskuje się od beneficjenta kwoty, o której mowa w ust. 1.
 
@@ -140,7 +142,7 @@ rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca
 1. W przypadku gdy na skutek wystąpienia COVID-19 konieczne jest dokonanie zmiany programu operacyjnego:
 
 - **1)** opracowanego przez ministra właściwego do spraw rozwoju regionalnego – zmianę programu operacyjnego przyjmuje minister właściwy do spraw rozwoju regionalnego,
-- **2)** opracowanego przez zarząd województwa – zmianę programu operacyjnego przyjmuje zarząd województwa w drodze uchwały, po uzyskaniu opinii ministra właściwego do spraw rozwoju regionalnego i przekazuje Komisji Europejskiej.
+- **2)** opracowanego przez zarząd województwa – zmianę programu operacyjnego przyjmuje zarząd województwa w drodze uchwały, po uzyskaniu opinii ministra właściwego do spraw rozwoju regionalnego – i przekazuje Komisji Europejskiej.
 
 2. O przekazaniu Komisji Europejskiej zmiany programu operacyjnego, o którym mowa w ust. 1 pkt 1, minister właściwy do spraw rozwoju regionalnego informuje Radę Ministrów.
 
@@ -167,7 +169,7 @@ rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca
 1. W przypadku gdy na skutek wystąpienia COVID-19 niemożliwe lub utrudnione jest:
 
 - **1)** wniesienie protestu, jego uzupełnienie lub poprawienie w nim oczywistych omyłek, w terminach, o których mowa odpowiednio w art. 54 ust. 1 lub 3 ustawy wdrożeniowej – właściwa instytucja może, na uzasadniony wniosek wnioskodawcy, przedłużyć termin odpowiednio na wniesienie protestu, jego uzupełnienie lub poprawienie w nim oczywistych omyłek,
-- **2)** rozpatrzenie przez właściwą instytucję protestu w terminach, o których mowa w art. 56 ust. 2 i art. 57 ustawy wdrożeniowej – terminy te mogą zostać przedłużone jednak nie dłużej niż o 30 dni.
+- **2)** rozpatrzenie przez właściwą instytucję protestu w terminach, o których mowa w art. 56 ust. 2 i art. 57 ustawy wdrożeniowej – terminy te mogą zostać przedłużone – jednak nie dłużej niż o 30 dni.
 
 2. W przypadku gdy na skutek wystąpienia COVID-19 wniesienie protestu w formie pisemnej jest niemożliwe lub znacznie utrudnione, protest może zostać wniesiony w postaci elektronicznej pozwalającej na jej utrwalenie na trwałym nośniku lub w systemie teleinformatycznym.
 
@@ -200,9 +202,9 @@ rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca
 
 2. Podmiotem wdrażającym instrumenty finansowe, o których mowa w ust. 1, realizowane w ramach krajowych programów operacyjnych jest Bank Gospodarstwa Krajowego.
 
-3. Podmiotami wdrażającymi instrumenty finansowe, o których mowa w ust. 1, realizowane w ramach regionalnych programów operacyjnych mogą być podmioty wybrane zgodnie z art. 38 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) lub regionalne fundusze rozwoju, o których mowa w art. 13 ust. 1a ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2022 r. poz. 547 i 583).
+3. Podmiotami wdrażającymi instrumenty finansowe, o których mowa w ust. 1, realizowane w ramach regionalnych programów operacyjnych mogą być podmioty wybrane zgodnie z art. 38 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5 oraz Dz. Urz. UE L 123 z 10.05.2019, str. 1.) lub regionalne fundusze rozwoju, o których mowa w art. 13 ust. 1a ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2022 r. poz. 547 i 583).
 
-**Art. 24.** Do zamówień udzielanych przez podmioty, którym powierzono zarządzanie środkami, o których mowa w art. 3b ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, w szczególności regionalne fundusze rozwoju, o których mowa w art. 13 ust. 1a ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa, w odniesieniu do instrumentów wsparcia niezbędnych do przeciwdziałania negatywnym skutkom wystąpienia COVID-19 finansowanych z tych środków, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843).
+**Art. 24.** Do zamówień udzielanych przez podmioty, którym powierzono zarządzanie środkami, o których mowa w art. 3b ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, w szczególności regionalne fundusze rozwoju, o których mowa w art. 13 ust. 1a ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa, w odniesieniu do instrumentów wsparcia niezbędnych do przeciwdziałania negatywnym skutkom wystąpienia COVID-19 finansowanych z tych środków, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843)Ustawa utraciła moc z dniem 1 stycznia 2021 r. na podstawie art. 89 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r..
 
 **Art. 25.** W celu ograniczenia skutków wystąpienia COVID-19 do należności, o których mowa w art. 60 pkt 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, właściwy organ może na wniosek zobowiązanego stosować ulgi w spłacie zobowiązań, o których mowa w art. 64 ust. 1 pkt 2 tej ustawy.
 
@@ -220,23 +222,16 @@ rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca
 
 **Art. 32.** Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki, podmioty udzielające pomocy publicznej i tryb udzielania pomocy publicznej w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomocy de minimis , ze środków, o których mowa w art. 3b pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, mając na uwadze konieczność przeciwdziałania negatywnym skutkom wystąpienia COVID-19.
 
-**Art. 33.**
-
-1. Przepisy ustawy stosuje się odpowiednio do realizacji i rozliczania:
+**Art. 33.** 1Oznaczenie ust. 1 nadane przez art. 129 pkt 3 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r.. Przepisy ustawy stosuje się odpowiednio do realizacji i rozliczania:
 
 - **1)** Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego;
 - **2)** Norweskiego Mechanizmu Finansowego;
 - **3)** Szwajcarsko-Polskiego Programu Współpracy;
-- **4)** Europejskiego Instrumentu Sąsiedztwa.
+- **4)** Europejskiego Instrumentu Sąsiedztwa. 2Dodany przez art. 129 pkt 3 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r.. Przepisy ustawy stosuje się odpowiednio do realizacji i rozliczania programów operacyjnych w związku z wystąpieniem skutków kryzysu wywołanego konfliktem zbrojnym na terytorium Ukrainy w 2022 r.
 
-2. Przepisy ustawy stosuje się odpowiednio do realizacji i rozliczania programów operacyjnych w związku z wystąpieniem skutków kryzysu wywołanego konfliktem zbrojnym na terytorium Ukrainy w 2022 r.
-
-#### Rozdział 3 Przepisy końcowe
+#### Rozdział 3
 
 **Art. 34.** Przepisy art. 3, art. 4, art. 7–26, art. 28 i art. 29 stosuje się do dnia 31 grudnia 2023 r.
 
-**Art. 35.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z tym że art. 3–30 i art. 33 – z mocą od dnia 1 lutego 2020 r.
-
-- **1)** Ogólne określenie przedmiotu ustawy ze zmianą wprowadzoną przez art. 129 pkt 1 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), która weszła w życie z dniem 4 czerwca 2022 r.; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r. 2) Ze zmianą wprowadzoną przez art. 129 pkt 2 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5 oraz Dz. Urz. UE L 123 z 10.05.2019, str. 1. 5) Ustawa utraciła moc z dniem 1 stycznia 2021 r. na podstawie art. 89 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r. 6) Oznaczenie ust. 1 nadane przez art. 129 pkt 3 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r. 7) Dodany przez art. 129 pkt 3 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r. 8) Ustawa została ogłoszona w dniu 17 kwietnia 2020 r.
-
+**Art. 35.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszeniaUstawa została ogłoszona w dniu 17 kwietnia 2020 r., z tym że art. 3–30 i art. 33 – z mocą od dnia 1 lutego 2020 r. 1) Ogólne określenie przedmiotu ustawy ze zmianą wprowadzoną przez art. 129 pkt 1 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), która weszła w życie z dniem 4 czerwca 2022 r.; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r. 2) Ze zmianą wprowadzoną przez art. 129 pkt 2 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 259, Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5 oraz Dz. Urz. UE L 123 z 10.05.2019, str. 1. 5) Ustawa utraciła moc z dniem 1 stycznia 2021 r. na podstawie art. 89 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r. 6) Oznaczenie ust. 1 nadane przez art. 129 pkt 3 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r. 7) Dodany przez art. 129 pkt 3 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 21 maja 2022 r., z mocą od dnia 24 lutego 2022 r. 8) Ustawa została ogłoszona w dniu 17 kwietnia 2020 r.
 

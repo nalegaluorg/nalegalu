@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 20 września 2018 r. w sprawie szczegółowego przeznaczenia oraz szczegółowych warunków udzielania pomocy finansowej w ramach programów w obszarze innowacyjności gospodarki
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 20 września 2018 r. w sprawie szczegółowego przeznaczenia oraz szczegółowych warunków udzielania pomocy finansowej w ramach programów w obszarze innowacyjności gospodarki Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-20 |
 | Data wydania | 2018-10-11 |
-| Wejście w życie | 2018-10-26 |
 | Ostatnia zmiana | 2025-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001949) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1949/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomoc dla przedsiębiorców na projekty badawczo-rozwojowe Rozdział 3 – Wspieranie innowacji procesowych i organizacyjnych prowadzonych przez przedsiębiorców Rozdział 4 – Wspieranie innowacyjności Rozdział 5 – Wspieranie klastrów innowacyjnych Rozdział 6 – Usługi doradcze Rozdział 7 – Wspieranie udziału przedsiębiorców w targach i misjach gospodarczych Rozdział 8 – Pomoc szkoleniowa dla przedsiębiorców Rozdział 9 – Pomoc dla małych przedsiębiorców rozpoczynających działalność Rozdział 10 – Pomoc de minimis Rozdział 11 – Pomoc finansowa niestanowiąca pomocy publicznej Rozdział 12 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 21i ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2018 r. poz. 141 i 1669) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie oraz szczegółowe warunki udzielania pomocy finansowej, o której mowa w art. 21b ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej, zwanej dalej „ustawą”.
 § 2.
 1.
 Minister właściwy do spraw gospodarki może udzielać pomocy finansowej, o której mowa w art. 21b ustawy, stanowiącej pomoc publiczną lub pomoc de minimis , a także niestanowiącej pomocy publicznej ani pomocy de minimis .
 2.
-Pomoc finansowa stanowiąca pomoc publiczną udzielana jest zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn.zm.), zwanym dalej „rozporządzeniem Komisji nr 651/2014”.
+Pomoc finansowa stanowiąca pomoc publiczną udzielana jest zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn.zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28., zwanym dalej „rozporządzeniem Komisji nr 651/2014”.
 3.
 Pomoc finansowa stanowiąca pomoc de minimis udzielana jest zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanym dalej „rozporządzeniem Komisji nr 1407/2013”.
 § 3.
@@ -110,7 +110,8 @@ Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa 
 2.
 Pomoc de minimis jest udzielana do końca sześciomiesięcznego okresu, o którym mowa w art. 7 ust. 4 rozporządzenia Komisji nr 1407/2013.
 3.
-Pomoc finansowa niestanowiąca pomocy publicznej ani pomocy de minimis jest udzielana do końca okresu kwalifikowalności, o którym mowa w art. 65 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem Parlamentu Europejskiego i Rady nr 1303/2013”.
+Pomoc finansowa niestanowiąca pomocy publicznej ani pomocy de minimis jest udzielana do końca okresu kwalifikowalności, o którym mowa w art. 65 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 16.12.2017, str. 1 oraz Dz. Urz. UE L 193 z 30.07.2018, str. 1., zwanego dalej „rozporządzeniem Parlamentu Europejskiego i Rady nr 1303/2013”.
+Pomoc dla przedsiębiorców na projekty badawczo-rozwojowe
 § 10.
 1.
 Pomoc dla przedsiębiorców na projekty badawczo-rozwojowe stanowi pomoc publiczną, która jest udzielana przedsiębiorcom.
@@ -165,6 +166,7 @@ Intensywność pomocy publicznej na studium wykonalności zwiększa się o:
 10 punktów procentowych dla średnich przedsiębiorców;
 2)
 20 punktów procentowych dla mikroprzedsiębiorców i małych przedsiębiorców.
+Wspieranie innowacji procesowych i organizacyjnych prowadzonych przez przedsiębiorców
 § 12.
 1.
 Wspieranie innowacji procesowych i organizacyjnych prowadzonych przez przedsiębiorców stanowi pomoc publiczną, która jest udzielana przedsiębiorcom.
@@ -190,6 +192,7 @@ Intensywność pomocy publicznej nie przekracza:
 15% kosztów kwalifikowalnych w przypadku przedsiębiorców innych niż przedsiębiorcy z sektora MŚP;
 2)
 50% kosztów kwalifikowalnych w przypadku przedsiębiorców z sektora MŚP.
+Wspieranie innowacyjności
 § 15.
 1.
 Wspieranie innowacyjności stanowi pomoc publiczną, która jest udzielana przedsiębiorcom z sektora MŚP.
@@ -206,6 +209,7 @@ oddelegowania wysoko wykwalifikowanego personelu organizacji prowadzącej badani
 Intensywność pomocy publicznej dla przedsiębiorców z sektora MŚP na wspieranie innowacyjności nie przekracza 50% kosztów kwalifikowalnych.
 2.
 W przypadku usług, o których mowa w § 15 ust. 2 pkt 2, intensywność pomocy publicznej może być zwiększona do 100% kosztów kwalifikowalnych, z zastrzeżeniem że całkowita kwota pomocy publicznej na te usługi nie przekracza 200 000 euro dla jednego przedsiębiorcy w dowolnym trzyletnim okresie.
+Wspieranie klastrów innowacyjnych
 § 17.
 1.
 Wspieranie klastrów innowacyjnych stanowi pomoc publiczną, która jest udzielana zarządzającemu klastrem.
@@ -235,6 +239,7 @@ Warunkiem udzielenia pomocy publicznej, o której mowa w § 17–19, jest:
 zapewnienie przez zarządzającego klastrem dostępu do działań klastra członkom klastra na przejrzystych i niedyskryminacyjnych zasadach;
 2)
 pobieranie przez zarządzającego klastrem opłat za korzystanie z zaplecza klastra i za udział w działaniach klastra w kwocie nie niższej niż koszty poniesione przez klaster na udostępnienie zaplecza lub prowadzenie działań.
+Usługi doradcze
 § 21.
 1.
 Wspieranie usług doradczych stanowi pomoc publiczną, która jest udzielana przedsiębiorcom z sektora MŚP.
@@ -244,6 +249,7 @@ Kosztami kwalifikowalnymi w ramach pomocy publicznej na usługi doradcze dla prz
 Usługi doradcze nie mogą mieć charakteru ciągłego ani okresowego oraz nie mogą być związane z bieżącą działalnością operacyjną przedsiębiorców z sektora MŚP, w szczególności w zakresie doradztwa podatkowego, stałej obsługi prawnej lub reklamy.
 § 22.
 Intensywność pomocy publicznej na usługi doradcze dla przedsiębiorców z sektora MŚP nie przekracza 50% kosztów kwalifikowalnych.
+Wspieranie udziału przedsiębiorców w targach i misjach gospodarczych
 § 23.
 1.
 Wspieranie udziału przedsiębiorców w targach i misjach gospodarczych stanowi pomoc publiczną, która jest udzielana przedsiębiorcom z sektora MŚP.
@@ -251,6 +257,7 @@ Wspieranie udziału przedsiębiorców w targach i misjach gospodarczych stanowi 
 Do kosztów kwalifikowalnych w ramach pomocy publicznej na udział przedsiębiorców z sektora MŚP w targach i misjach gospodarczych zalicza się koszty wynajmu, budowy i obsługi stoiska wystawowego podczas uczestnictwa przedsiębiorców z sektora MŚP w danych targach lub danej wystawie.
 § 24.
 Intensywność pomocy publicznej na udział przedsiębiorców z sektora MŚP w targach i misjach gospodarczych nie przekracza 50% kosztów kwalifikowalnych.
+Pomoc szkoleniowa dla przedsiębiorców
 § 25.
 1.
 Pomoc szkoleniowa dla przedsiębiorców stanowi pomoc publiczną, która jest udzielana przedsiębiorcom.
@@ -274,8 +281,8 @@ Intensywność pomocy publicznej, o której mowa w ust. 1, zwiększa się o:
 1)
 10 punktów procentowych w przypadku pomocy publicznej na rzecz średniego przedsiębiorcy i 20 punktów procentowych w przypadku pomocy publicznej na rzecz mikroprzedsiębiorcy i małego przedsiębiorcy,
 2)
-10 punktów procentowych w przypadku szkoleń dla pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia Komisji nr 651/2014, lub szkoleń dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia Komisji nr 651/2014
-przy czym łącznie intensywność pomocy publicznej nie może przekroczyć 70% kosztów kwalifikowalnych.
+10 punktów procentowych w przypadku szkoleń dla pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia Komisji nr 651/2014, lub szkoleń dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia Komisji nr 651/2014 – przy czym łącznie intensywność pomocy publicznej nie może przekroczyć 70% kosztów kwalifikowalnych.
+Pomoc dla małych przedsiębiorców rozpoczynających działalność
 § 27.
 1.
 Pomoc dla małych przedsiębiorców rozpoczynających działalność stanowi pomoc publiczną, która jest udzielana przedsiębiorcom rozpoczynającym działalność.
@@ -310,6 +317,7 @@ od 5 do 10 lat – o maksymalnej kwocie nominalnej stanowiącej równowartość 
 poniżej 5 lat – o maksymalnej kwocie nominalnej stanowiącej równowartość ekwiwalentu dotacji brutto, określonej jak dla pożyczek udzielanych na okres 5 lat.
 3.
 W przypadku kwalifikowalnych przedsiębiorców, którzy są przedsiębiorcami innowacyjnymi, określone w ust. 1 i 2 maksymalne kwoty nominalne mogą zostać podwojone.
+Pomoc de minimis
 § 29.
 Pomoc finansowa z przeznaczeniem, o którym mowa w art. 21b ustawy, może być udzielana jako pomoc de minimis , w przypadku gdy kosztami kwalifikowalnymi są następujące koszty:
 1)
@@ -354,6 +362,7 @@ opracowania studium wykonalności;
 usług doradczych związanych z opracowaniem nowego lub znacząco ulepszonego wyrobu lub usługi lub nowego projektu wzorniczego.
 § 30.
 Pomoc de minimis nie może przekroczyć 85% wartości kosztów kwalifikowalnych, o których mowa w § 29.
+Pomoc finansowa niestanowiąca pomocy publicznej
 § 31.
 1.
 Pomoc finansowa z przeznaczeniem, o którym mowa w art. 21b ustawy, może być udzielana jako pomoc niestanowiąca pomocy publicznej, pod warunkiem że nie zostanie spełniona którakolwiek z przesłanek określonych w art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej.
@@ -369,31 +378,55 @@ zapewnienie podmiotom, o których mowa w art. 21c ustawy, dostępu do usług nie
 realizację projektów badawczo-rozwojowych w trybie zamówień przedkomercyjnych.
 3.
 Przez zamówienia przedkomercyjne, o których mowa w ust. 2 pkt 4, należy rozumieć zamówienia, których przedmiotem są usługi badawczo-rozwojowe, w których zamawiający nie przejmuje wszystkich wyników i korzyści zamówienia na wyłączność do wykorzystania w ramach prowadzenia własnej działalności, ale dzieli je z wykonawcami na warunkach rynkowych.
+Przepis końcowy
 § 32.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 16.12.2017, str. 1 oraz Dz. Urz. UE L 193 z 30.07.2018, str. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 16.12.2017, str. 1 oraz Dz. Urz. UE L 193 z 30.07.2018, str. 1.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomoc dla przedsiębiorców na projekty badawczo-rozwojowe
+#### Rozdział 2 – Pomoc dla przedsiębiorców na projekty badawczo-rozwojowe
 
-#### Rozdział 3 Wspieranie innowacji procesowych i organizacyjnych prowadzonych przez przedsiębiorców
+#### Rozdział 3 – Wspieranie innowacji procesowych i organizacyjnych prowadzonych przez przedsiębiorców
 
-#### Rozdział 4 Wspieranie innowacyjności
+#### Rozdział 4 – Wspieranie innowacyjności
 
-#### Rozdział 5 Wspieranie klastrów innowacyjnych
+#### Rozdział 5 – Wspieranie klastrów innowacyjnych
 
-#### Rozdział 6 Usługi doradcze
+#### Rozdział 6 – Usługi doradcze
 
-#### Rozdział 7 Wspieranie udziału przedsiębiorców w targach i misjach gospodarczych
+#### Rozdział 7 – Wspieranie udziału przedsiębiorców w targach i misjach gospodarczych
 
-#### Rozdział 8 Pomoc szkoleniowa dla przedsiębiorców
+#### Rozdział 8 – Pomoc szkoleniowa dla przedsiębiorców
 
-#### Rozdział 9 Pomoc dla małych przedsiębiorców rozpoczynających działalność
+#### Rozdział 9 – Pomoc dla małych przedsiębiorców rozpoczynających działalność
 
-#### Rozdział 10 Pomoc de minimis
+#### Rozdział 10 – Pomoc de minimis
 
-#### Rozdział 11 Pomoc finansowa niestanowiąca pomocy publicznej
+#### Rozdział 11 – Pomoc finansowa niestanowiąca pomocy publicznej
 
-#### Rozdział 12 Przepis końcowy
+#### Rozdział 12 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+#### Rozdział 12
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 8 kwietnia 2022 r. w sprawie przesyłania informacji dotyczących spółek nieruchomościowych w zakresie podatku dochodowego od osób fizycznych
+# Rozporządzenie Ministra Finansówz dnia 8 kwietnia 2022 r. w sprawie przesyłania informacji dotyczących spółek nieruchomościowych w zakresie podatku dochodowego od osób fizycznych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-08 |
 | Data wydania | 2022-04-13 |
-| Wejście w życie | 2022-04-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000815) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/815/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 45 ust. 8b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 45 ust. 8b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646 i 655.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej informacji, o których mowa w art. 45 ust. 3f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zwanych dalej „informacjami dotyczącymi spółek nieruchomościowych”.
 § 2.
@@ -46,6 +45,5 @@ Przepis § 2 ma zastosowanie do przesyłania informacji dotyczących spółek ni
 § 4.
 W sposób określony w § 2 mogą być również przesyłane informacje dotyczące spółek nieruchomościowych według stanu na ostatni dzień roku podatkowego spółki nieruchomościowej przypadający przed dniem 1 stycznia 2022 r., a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego – na ostatni dzień jej roku obrotowego przypadający przed dniem 1 stycznia 2022 r.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646 i 655.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646 i 655.
 

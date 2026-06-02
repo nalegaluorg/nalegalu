@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 13 września 2024 r. w sprawie wykonania obowiązku mocowego, jego rozliczania i demonstrowania oraz zawierania transakcji na rynku wtórnym
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 13 września 2024 r. w sprawie wykonania obowiązku mocowego, jego rozliczania i demonstrowania oraz zawierania transakcji na rynku wtórnym Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-13 |
 | Data wydania | 2024-09-19 |
-| Wejście w życie | 2024-10-01 |
 | Ostatnia zmiana | 2024-09-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001389) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1389/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Standard bezpieczeństwa dostaw energii elektrycznej do odbiorców końcowych Rozdział 3 – Okres przywołania na rynku mocy Rozdział 4 – Wyznaczanie mocy dostarczanej przez jednostki rynku mocy redukcji zapotrzebowania Rozdział 5 – Demonstracja zdolności wykonania obowiązku mocowego Rozdział 6 – Warunki zawierania transakcji na rynku wtórnym Rozdział 7 – Stawka kary za niewykonanie obowiązku mocowego Rozdział 8 – Przepisy przejściowy i końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 68 ust. 1 i 2 ustawy z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2023 r. poz. 2131) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe warunki i sposób wykonania obowiązku mocowego, jego rozliczania i demonstrowania oraz szczegółowe warunki zawierania transakcji na rynku wtórnym, obejmujące:
 1)
@@ -53,6 +53,7 @@ bilansowanie dobowe – działania operatora prowadzone w procesie planowania do
 aktualizacja bilansu dobowego – działania operatora prowadzone w procesie planowania dobowego pracy systemu w dobie n, w wyniku których operator dokonuje zaktualizowania sporządzonego w dobie n-1 bilansu dobowego dla doby n;
 3)
 zapotrzebowanie sieci – zapotrzebowanie na moc odbiorców przyłączonych do sieci przesyłowej i dystrybucyjnej oraz bezpośrednio do urządzeń, instalacji lub sieci przedsiębiorstw energetycznych innych niż operator lub operator systemu dystrybucyjnego, powiększone o straty w sieci przesyłowej i dystrybucyjnej oraz pomniejszone o moc bezpośrednio dostarczaną przez jednostki wytwórcze do odbiorców z pominięciem sieci należącej do innych przedsiębiorstw energetycznych.
+Standard bezpieczeństwa dostaw energii elektrycznej do odbiorców końcowych
 § 3.
 Standard bezpieczeństwa dostaw energii elektrycznej do odbiorców końcowych wynosi 3 godziny na rok, przy czym przez godzinę zaliczaną do standardu bezpieczeństwa uznaje się godzinę, w której dopuszcza się wystąpienie braku możliwości zrównoważenia sumarycznej mocy osiągalnej netto jednostek wytwórczych przyłączonych do systemu z:
 1)
@@ -61,6 +62,7 @@ zapotrzebowaniem sieci oraz
 minimalną rezerwą zdolności wytwórczych, obliczoną jako 1,2-krotność mocy osiągalnej netto największej pod względem mocy zainstalowanej jednostki wytwórczej przyłączonej do systemu, wyrażoną w MW, oraz
 3)
 planowanym saldem wymiany międzynarodowej z państwami innymi niż wymienione w art. 6 ust. 6 ustawy z dnia 8 grudnia 2017 r. o rynku mocy, zwanej dalej „ustawą”.
+Okres przywołania na rynku mocy
 § 4.
 1.
 Operator ogłasza okres przywołania na rynku mocy po ustaleniu, w procesie bilansowania dobowego lub po dokonaniu aktualizacji bilansu dobowego, że nadwyżka sumarycznej mocy osiągalnej netto jednostek wytwórczych przyłączonych do systemu, pomniejszonej o ubytki mocy wynikające z prowadzonych remontów, postojów awaryjnych, warunków atmosferycznych i ograniczeń sieciowych oraz o moc osiągalną netto jednostek wytwórczych przyłączonych do systemu niezaoferowaną operatorowi, ponad zapotrzebowanie sieci, wynosi mniej niż wielkość wymagana, określona zgodnie z art. 9g ust. 4 pkt 9 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859), zwanej dalej „ustawą – Prawo energetyczne”.
@@ -104,14 +106,14 @@ Okres przywołania na rynku mocy ogłasza się wyłącznie dla następujących g
 14)
 20.00–21.00,
 15)
-21.00–22.00
-w dniach przypadających od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy.
+21.00–22.00 – w dniach przypadających od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy.
 2.
 Ogłoszenie okresu przywołania na rynku mocy może nastąpić:
 1)
 dla jednej godziny albo
 2)
 dla wielu godzin, jeżeli operator stwierdzi wystąpienie więcej niż jednego okresu przywołania na rynku mocy w danej dobie.
+Wyznaczanie mocy dostarczanej przez jednostki rynku mocy redukcji zapotrzebowania
 § 7.
 1.
 Wielkość mocy dostarczonej w wyniku czasowego ograniczenia mocy pobieranej z sieci elektroenergetycznej przez jednostkę rynku mocy redukcji zapotrzebowania wyznacza się odrębnie dla każdej pełnej godziny czasowego ograniczenia jako różnicę między profilem bazowym a rzeczywistą wielkością dostaw energii elektrycznej zmierzoną we wszystkich punktach pomiarowych tej jednostki.
@@ -133,8 +135,7 @@ przeprowadzenie testowego okresu przywołania na rynku mocy,
 c)
 przeprowadzenie testu redukcji zapotrzebowania,
 d)
-realizacja usługi interwencyjnego ofertowego zwiększenia poboru mocy przez odbiorców, o której mowa w instrukcji określonej w art. 9g ust. 4 ustawy – Prawo energetyczne – w przypadku gdy dostawca mocy złożył wniosek, o którym mowa w ust. 4
-dla tej samej lub innej jednostki rynku mocy, w skład której wchodzi co najmniej jedna jednostka fizyczna, która jednocześnie wchodzi w skład jednostki rynku mocy, dla której jest wyznaczany profil odniesienia, i
+realizacja usługi interwencyjnego ofertowego zwiększenia poboru mocy przez odbiorców, o której mowa w instrukcji określonej w art. 9g ust. 4 ustawy – Prawo energetyczne – w przypadku gdy dostawca mocy złożył wniosek, o którym mowa w ust. 4 – dla tej samej lub innej jednostki rynku mocy, w skład której wchodzi co najmniej jedna jednostka fizyczna, która jednocześnie wchodzi w skład jednostki rynku mocy, dla której jest wyznaczany profil odniesienia, i
 2)
 korekty wyznaczonej jako różnica średniej wartości rzeczywistych wielkości dostaw energii elektrycznej dla piątej, czwartej i trzeciej godziny poprzedzających rozpoczęcie pierwszej godziny, dla której jest wyznaczana wielkość mocy dostarczonej przez jednostkę redukcji zapotrzebowania w danym dniu, i średniej wielkości dostaw energii elektrycznej w tych samych godzinach, wynikającej z profilu odniesienia, o którym mowa w pkt 1, z zastrzeżeniem, że w godzinie, dla której jest wyznaczana wielkość mocy dostarczonej przez jednostkę redukcji zapotrzebowania, wartość korekty może stanowić maksymalnie 20 % wartości profilu odniesienia dla tej godziny.
 3.
@@ -181,6 +182,7 @@ Jeżeli w badanym okresie obejmującym 30 kolejnych dni kalendarzowych dla godzi
 Dostawca mocy traci poprawność planowania w odniesieniu do danej jednostki rynku mocy redukcji zapotrzebowania, jeżeli po zakończeniu miesiąca, w którym przekazywał operatorowi plany dostaw energii elektrycznej dotyczące tej jednostki, średnie odchylenie względne, o którym mowa w ust. 3, przekracza 15 %.
 7.
 W okresie stosowania wobec danej jednostki rynku mocy redukcji zapotrzebowania metody profilu planowanego jako profil bazowy, na potrzeby wyznaczenia wielkości mocy dostarczonej w wyniku czasowego ograniczenia zużycia energii elektrycznej, przyjmuje się zgłoszony plan dostaw energii elektrycznej dotyczący tej jednostki.
+Demonstracja zdolności wykonania obowiązku mocowego
 § 11.
 Zdolność do wykonania obowiązku mocowego, o której mowa w art. 67 ust. 1 ustawy, wykazuje się wyłącznie dla godzin wskazanych zgodnie z § 6 ust. 1.
 § 12.
@@ -199,8 +201,7 @@ Uznaje się również, że jednostka rynku mocy wykazała zdolność do wykonani
 1)
 uzyskania pozytywnego wyniku testowego okresu przywołania na rynku mocy lub
 2)
-wykonania pełnego skorygowanego obowiązku mocowego w okresie przywołania na rynku mocy
-w trakcie którego jednostka rynku mocy była objęta obowiązkiem mocowym, także w przypadku, gdy wielkość obowiązku mocowego danej jednostki rynku mocy w danym testowym okresie przywołania na rynku mocy lub wielkość skorygowanego obowiązku mocowego danej jednostki rynku mocy w danym okresie przywołania na rynku mocy była mniejsza od największej łącznej godzinowej wielkości obowiązku mocowego tej jednostki w danym kwartale dostaw wynikającej ze wszystkich umów mocowych dotyczących tej jednostki.
+wykonania pełnego skorygowanego obowiązku mocowego w okresie przywołania na rynku mocy – w trakcie którego jednostka rynku mocy była objęta obowiązkiem mocowym, także w przypadku, gdy wielkość obowiązku mocowego danej jednostki rynku mocy w danym testowym okresie przywołania na rynku mocy lub wielkość skorygowanego obowiązku mocowego danej jednostki rynku mocy w danym okresie przywołania na rynku mocy była mniejsza od największej łącznej godzinowej wielkości obowiązku mocowego tej jednostki w danym kwartale dostaw wynikającej ze wszystkich umów mocowych dotyczących tej jednostki.
 3.
 Testowy okres przywołania na rynku mocy ogłasza się nie później niż 8 godzin przed rozpoczęciem testowego okresu przywołania na rynku mocy, dla jednej dowolnej godziny wybranej przez operatora z godzin, o których mowa w § 6 ust. 1.
 4.
@@ -222,6 +223,7 @@ Jeżeli w pierwszym i drugim miesiącu danego kwartału realizacja usługi, o kt
 Jeżeli jednostka rynku mocy redukcji zapotrzebowania, o której mowa w § 12 ust. 1 pkt 2 lit. b, nie jest wykorzystywana do świadczenia na rzecz operatora usługi systemowej obejmującej redukcję zużycia energii na polecenie operatora, a w odniesieniu do tej jednostki rynku mocy w pierwszym i drugim miesiącu danego kwartału nie został ogłoszony testowy okres przywołania na rynku mocy lub okres przywołania na rynku mocy, w trakcie którego jednostka rynku mocy była objęta obowiązkiem mocowym, dostawca mocy, nie później niż 14 dni przed zakończeniem danego kwartału, może zwrócić się do operatora z wnioskiem o ogłoszenie testowego okresu przywołania na rynku mocy.
 4.
 Jeżeli w danym kwartale dostawca mocy złożył wniosek, o którym mowa w ust. 2 lub 3, a operator nie później niż do końca kwartału odpowiednio nie wydał polecenia wykonania usługi, o której mowa w ust. 1, lub nie ogłosił testowego okresu przywołania na rynku mocy jednostce rynku mocy redukcji zapotrzebowania, uznaje się, że zdolność do wykonania obowiązku mocowego została wykazana przez tę jednostkę.
+Warunki zawierania transakcji na rynku wtórnym
 § 14.
 1.
 Obrót wtórny obowiązkiem mocowym i realokacja wielkości wykonanego obowiązku mocowego odbywa się w odniesieniu do godzin, o których mowa w § 6 ust. 1.
@@ -243,30 +245,47 @@ wynikającego z certyfikatu wydanego dla tej jednostki iloczynu jej mocy osiąga
 mocy osiągalnej netto tej jednostki, z zastrzeżeniem, że w takim przypadku wartość iloczynu, o którym mowa w pkt 1, może być przekroczona dla nie więcej niż 300 godzin w roku kalendarzowym.
 5.
 Przepisu ust. 4 nie stosuje się do realokacji wielkości wykonanego obowiązku mocowego.
+Stawka kary za niewykonanie obowiązku mocowego
 § 15.
 1.
 Jednostkową stawkę kary za niewykonanie obowiązku mocowego obowiązującą w roku dostaw n oblicza się zgodnie ze wzorem: \( SK_n = 0,3 \cdot {{PKB_{n – 2} } \over {E_{n – 2} }} \) gdzie poszczególne symbole oznaczają: SKn – jednostkową stawkę kary w roku dostaw n, wyrażoną w zł/MWh, PKBn-2 – wartość produktu krajowego brutto w Polsce, za rok kalendarzowy przypadający na 2 lata przed rokiem dostaw n, określoną w cenach bieżących, opublikowaną przez Prezesa Głównego Urzędu Statystycznego, wyrażoną w zł, En-2 – ilość zużywanej energii elektrycznej w roku kalendarzowym przypadającym na 2 lata przed rokiem dostaw n, opublikowaną przez Prezesa Głównego Urzędu Statystycznego w dokumencie „Zużycie paliw i nośników energii”, wyrażoną w MWh.
 2.
 Jednostkowa stawka kary jest ustalana z dokładnością do 0,01 zł/MWh.
+Przepisy przejściowy i końcowy
 § 16.
 W sprawach wykazywania zdolności do wykonania obowiązku mocowego dotyczącej III kwartału 2024 r. stosuje przepisy dotychczasowe.
 § 17.
-Rozporządzenie wchodzi w życie z dniem 1 października 2024 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 18 lipca 2018 r. w sprawie wykonania obowiązku mocowego, jego rozliczania i demonstrowania oraz zawierania transakcji na rynku wtórnym (Dz. U. poz. 1455), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 41 ust. 1 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku (Dz. U. z 2024 r. poz. 190, 834 i 859).
+Rozporządzenie wchodzi w życie z dniem 1 października 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 18 lipca 2018 r. w sprawie wykonania obowiązku mocowego, jego rozliczania i demonstrowania oraz zawierania transakcji na rynku wtórnym (Dz. U. poz. 1455), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 41 ust. 1 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku (Dz. U. z 2024 r. poz. 190, 834 i 859). 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 18 lipca 2018 r. w sprawie wykonania obowiązku mocowego, jego rozliczania i demonstrowania oraz zawierania transakcji na rynku wtórnym (Dz. U. poz. 1455), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 41 ust. 1 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku (Dz. U. z 2024 r. poz. 190, 834 i 859).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Standard bezpieczeństwa dostaw energii elektrycznej do odbiorców końcowych
+#### Rozdział 2 – Standard bezpieczeństwa dostaw energii elektrycznej do odbiorców końcowych
 
-#### Rozdział 3 Okres przywołania na rynku mocy
+#### Rozdział 3 – Okres przywołania na rynku mocy
 
-#### Rozdział 4 Wyznaczanie mocy dostarczanej przez jednostki rynku mocy redukcji zapotrzebowania
+#### Rozdział 4 – Wyznaczanie mocy dostarczanej przez jednostki rynku mocy redukcji zapotrzebowania
 
-#### Rozdział 5 Demonstracja zdolności wykonania obowiązku mocowego
+#### Rozdział 5 – Demonstracja zdolności wykonania obowiązku mocowego
 
-#### Rozdział 6 Warunki zawierania transakcji na rynku wtórnym
+#### Rozdział 6 – Warunki zawierania transakcji na rynku wtórnym
 
-#### Rozdział 7 Stawka kary za niewykonanie obowiązku mocowego
+#### Rozdział 7 – Stawka kary za niewykonanie obowiązku mocowego
 
-#### Rozdział 8 Przepisy przejściowy i końcowy
+#### Rozdział 8 – Przepisy przejściowy i końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

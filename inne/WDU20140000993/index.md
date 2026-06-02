@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 czerwca 2014 r. o zmianie ustawy – Prawo o adwokaturze oraz niektórych innych ustaw
+# Ustawa z dnia 26 czerwca 2014 r. o zmianie ustawy – Prawo o adwokaturze oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych, ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie, ustawę z dnia 19 kwietnia 1991 r. o izbach aptekarskich, ustawę z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji, ustawę z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów oraz inżynierów budownictwa, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych oraz ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-26 |
 | Data wydania | 2014-07-28 |
-| Wejście w życie | 2014-08-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000993) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/993/text.pdf) |
 
@@ -58,7 +57,7 @@ source: "eli-html"
 
 - **1)** 3 lat od dnia uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę upomnienia, karę nagany lub karę pieniężną,
 - **2)** 5 lat od odbycia kary zawieszenia w czynnościach zawodowych,
-- **3)** 15 lat w stosunku do adwokata albo 7 lat i 6 miesięcy w stosunku do aplikanta adwokackiego od dnia uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę wydalenia z adwokatury jeżeli adwokat lub aplikant adwokacki nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie dyscyplinarne. ” , uchyla się ust. 5.
+- **3)** 15 lat w stosunku do adwokata albo 7 lat i 6 miesięcy w stosunku do aplikanta adwokackiego od dnia uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę wydalenia z adwokatury – jeżeli adwokat lub aplikant adwokacki nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie dyscyplinarne. ” , uchyla się ust. 5.
     - **b)**
 
 **Art. 2.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2014 r. poz. 637) wprowadza się następujące zmiany:
@@ -91,10 +90,10 @@ source: "eli-html"
 
 - **1)** 3 lat od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę upomnienia, karę nagany z ostrzeżeniem lub karę pieniężną,
 - **2)** 5 lat od upływu okresu zawieszenia prawa do wykonywania zawodu radcy prawnego,
-- **3)** 15 lat od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę pozbawienia prawa do wykonywania zawodu radcy prawnego albo 7 lat i 6 miesięcy od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę wydalenia z aplikacji radcowskiej jeżeli radca prawny lub aplikant radcowski nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie dyscyplinarne. ” , uchyla się ust. 6.
+- **3)** 15 lat od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę pozbawienia prawa do wykonywania zawodu radcy prawnego albo 7 lat i 6 miesięcy od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę wydalenia z aplikacji radcowskiej – jeżeli radca prawny lub aplikant radcowski nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie dyscyplinarne. ” , uchyla się ust. 6.
     - **b)**
 
-**Art. 3.** W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2009 r. Nr 93, poz. 767, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2009 r. Nr 93, poz. 767, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 200, poz. 1326 oraz z 2013 r. poz. 779, 1247, 1261, 1287 i 1650.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 ust. 2 otrzymuje brzmienie: „
 
@@ -193,7 +192,7 @@ source: "eli-html"
 - **5)** osoba skreślona z listy aplikantów notarialnych w związku z orzeczeniem kary dyscyplinarnej, o której mowa w pkt 2 lit. e, może ubiegać się o ponowny wpis na listę aplikantów po upływie 5 lat od dnia uprawomocnienia się orzeczenia kary skreślenia z listy aplikantów notarialnych;
 - **6)** po upływie 7 lat i 6 miesięcy od dnia uprawomocnienia się orzeczenia o skreśleniu z listy aplikantów notarialnych oraz po upływie 15 lat od dnia uprawomocnienia się orzeczenia o skreśleniu z wykazu zastępców notarialnych, Minister Sprawiedliwości zarządza usunięcie odpisu orzeczenia z akt osobowych, jeżeli w tym okresie nie wydano przeciwko ukaranemu innego orzeczenia o nałożeniu kary dyscyplinarnej. ” .
 
-**Art. 5.** W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2008 r. Nr 136, poz. 856, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2008 r. Nr 136, poz. 856, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, z 2011 r. Nr 113, poz. 657 oraz z 2013 r. poz. 779, 1245, 1247, 1287 i 1650.) wprowadza się następujące zmiany:
 
 - **1)** po art. 20 dodaje się art. 20a w brzmieniu: „
 
@@ -209,7 +208,7 @@ source: "eli-html"
 - **4)** piętnastu lat od daty uprawomocnienia się orzeczenia o ukaraniu karą pozbawienia prawa wykonywania zawodu farmaceuty, ” , uchyla się ust. 4.
     - **b)**
 
-**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2011 r. Nr 231, poz. 1376, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2011 r. Nr 231, poz. 1376, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 759 i 1544 oraz z 2013 r. poz. 829 i 1513.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10: w ust. 5 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „
     - **a)**
@@ -350,5 +349,5 @@ source: "eli-html"
 
 7. Osoby, którym do upływu terminu, o którym mowa w art. 69b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w art. 241 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, w art. 14a ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, oraz w art. 13a i art. 32 ust. 1 pkt 1 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, pozostało mniej niż 12 miesięcy w dniu wejścia w życie ustawy, są uprawnione do złożenia wniosku, o którym mowa w tych przepisach, do dnia 31 grudnia 2015 r.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych, ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie, ustawę z dnia 19 kwietnia 1991 r. o izbach aptekarskich, ustawę z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji, ustawę z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów oraz inżynierów budownictwa, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych oraz ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 200, poz. 1326 oraz z 2013 r. poz. 779, 1247, 1261, 1287 i 1650. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, z 2011 r. Nr 113, poz. 657 oraz z 2013 r. poz. 779, 1245, 1247, 1287 i 1650. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 759 i 1544 oraz z 2013 r. poz. 829 i 1513.
 

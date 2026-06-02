@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-25 |
 | Data wydania | 2015-08-17 |
-| Wejście w życie | 2015-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1194/text.pdf) |
 
@@ -57,8 +56,13 @@ source: "eli-html"
 
 4. Warunków, o których mowa w ust. 1, nie stosuje się w przypadku, gdy w dniu złożenia wniosku o dofinansowanie wkładu własnego nabywca wychowuje przynajmniej troje dzieci, o których mowa w art. 7 ust. 1a. ” ;
 
-- **6)** w art. 5: w ust. 1: – uchyla się pkt 2, – w pkt 3 lit. b otrzymuje brzmienie: „ b) 85 m2 dla lokalu mieszkalnego i 110 m2 dla domu jednorodzinnego – w przypadku gdy w dniu złożenia wniosku o dofinansowanie wkładu własnego nabywca wychowuje przynajmniej troje dzieci, o których mowa w art. 7 ust. 1a; ” , – pkt 4 otrzymuje brzmienie: „ 4) cena zakupu mieszkania lub wkład budowlany nie przekracza kwoty stanowiącej iloczyn powierzchni użytkowej mieszkania i średniego wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych, obowiązującego w gminie, na terenie której położone jest mieszkanie oraz: a) współczynnika 1,1 – dla nowo wybudowanego mieszkania, które jest po raz pierwszy zasiedlane przez nabywcę, b) współczynnika 0,9 – w pozostałych przypadkach; ” , ust. 2–4 otrzymują brzmienie: „
+- **6)** w art. 5: w ust. 1: – uchyla się pkt 2, w pkt 3 lit. b otrzymuje brzmienie: „ 85 m2 dla lokalu mieszkalnego i 110 m2 dla domu jednorodzinnego – w przypadku gdy w dniu złożenia wniosku o dofinansowanie wkładu własnego nabywca wychowuje przynajmniej troje dzieci, o których mowa w art. 7 ust. 1a; ” , pkt 4 otrzymuje brzmienie: „
     - **a)**
+    - **b)**
+
+- **4)** cena zakupu mieszkania lub wkład budowlany nie przekracza kwoty stanowiącej iloczyn powierzchni użytkowej mieszkania i średniego wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych, obowiązującego w gminie, na terenie której położone jest mieszkanie oraz: współczynnika 1,1 – dla nowo wybudowanego mieszkania, które jest po raz pierwszy zasiedlane przez nabywcę, współczynnika 0,9 – w pozostałych przypadkach; ” , ust. 2–4 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
     - **b)**
 
 2. W przypadku gdy lokal mieszkalny jest mieszkaniem, o którym mowa w ust. 1 pkt 4 lit. a, użytkowanym przez nabywcę w celu zaspokajania jego własnych potrzeb mieszkaniowych przed przeniesieniem na nabywcę prawa własności tego lokalu, cena zakupu tego lokalu jest określana zgodnie z ust. 1 pkt 4 lit. a, jeżeli w okresie od pierwszego zasiedlenia, mającego miejsce po dniu 31 grudnia 2012 r., do dnia nabycia lokalu mieszkalnego jest on wynajmowany na podstawie umowy najmu zawartej przez nabywcę z osobą, która wybudowała ten lokal mieszkalny w ramach prowadzonej działalności gospodarczej.
@@ -86,7 +90,7 @@ source: "eli-html"
 
 - **1)** małoletnich dzieci,
 - **2)** dzieci bez względu na wiek, które zgodnie z odrębnymi przepisami otrzymują zasiłek (dodatek) pielęgnacyjny lub rentę socjalną,
-- **3)** dzieci do ukończenia przez nie 25. roku życia, uczących się w szkołach, zakładach kształcenia nauczycieli oraz kolegiach pracowników służb społecznych, o których mowa w przepisach o systemie oświaty, przepisach o szkolnictwie wyższym lub przepisach regulujących system oświatowy lub szkolnictwo wyższe obowiązujących w innym niż Rzeczpospolita Polska państwie oraz szkołach wyższych i wyższych seminariach duchownych, prowadzonych przez Kościół Katolicki, inne kościoły i związki wyznaniowe na podstawie przepisów o stosunku państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz przepisów o stosunku państwa do innych kościołów i związków wyznaniowych powierzchnię użytkową mieszkania, będącą podstawą do ustalenia wysokości dofinansowania wkładu własnego na zasadach, o których mowa w ust. 1, zwiększa się z 50 m2 do 65 m2. ” , ust. 2 i 3 otrzymują brzmienie: „
+- **3)** dzieci do ukończenia przez nie 25. roku życia, uczących się w szkołach, zakładach kształcenia nauczycieli oraz kolegiach pracowników służb społecznych, o których mowa w przepisach o systemie oświaty, przepisach o szkolnictwie wyższym lub przepisach regulujących system oświatowy lub szkolnictwo wyższe obowiązujących w innym niż Rzeczpospolita Polska państwie oraz szkołach wyższych i wyższych seminariach duchownych, prowadzonych przez Kościół Katolicki, inne kościoły i związki wyznaniowe na podstawie przepisów o stosunku państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz przepisów o stosunku państwa do innych kościołów i związków wyznaniowych – powierzchnię użytkową mieszkania, będącą podstawą do ustalenia wysokości dofinansowania wkładu własnego na zasadach, o których mowa w ust. 1, zwiększa się z 50 m2 do 65 m2. ” , ust. 2 i 3 otrzymują brzmienie: „
     - **b)**
 
 2. W przypadku gdy nabywca w dniu złożenia wniosku o dofinansowanie wkładu własnego wychowuje własne lub przysposobione dziecko, o którym mowa w ust. 1a, kwota dofinansowania wkładu własnego wynosi:
@@ -108,10 +112,12 @@ source: "eli-html"
 - **10)** w art. 10: ust. 3 otrzymuje brzmienie: „
     - **a)**
 
-3. Wnioski o dofinansowanie wkładu własnego złożone za pośrednictwem więcej niż jednej instytucji kredytującej przez nabywcę ubiegającego się o finansowe wsparcie mogą dotyczyć wyłącznie tego samego mieszkania, a określone w tych wnioskach terminy wypłaty finansowego wsparcia nie mogą się różnić. Wysokość finansowego wsparcia w przypadkach, o których mowa w zdaniu pierwszym, przyjmuje się na podstawie wysokości średniego wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych obowiązującego w dniu złożenia tego wniosku o dofinansowanie wkładu własnego, który jako pierwszy wpłynął do Banku Gospodarstwa Krajowego na zasadach określonych w ust. 9. ” , w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) pisemne oświadczenie o spełnieniu na dzień złożenia wniosku warunku, o którym mowa w art. 4 ust. 1 pkt 2, wraz z pisemnym zobowiązaniem, że warunek ten będzie spełniony także w dniu ustanowienia lub przeniesienia na jego rzecz prawa własności mieszkania; ” , – uchyla się pkt 4, – pkt 5 otrzymuje brzmienie: „ 5) pisemne oświadczenie osoby, która sprzedaje lokal mieszkalny, o spełnieniu warunku, o którym mowa w art. 5 ust. 2 – w przypadku, gdy pierwsze zasiedlenie lokalu mieszkalnego dokonane zostało na warunkach wskazanych w tym przepisie. ” , ust. 6–9 otrzymują brzmienie: „
+3. Wnioski o dofinansowanie wkładu własnego złożone za pośrednictwem więcej niż jednej instytucji kredytującej przez nabywcę ubiegającego się o finansowe wsparcie mogą dotyczyć wyłącznie tego samego mieszkania, a określone w tych wnioskach terminy wypłaty finansowego wsparcia nie mogą się różnić. Wysokość finansowego wsparcia w przypadkach, o których mowa w zdaniu pierwszym, przyjmuje się na podstawie wysokości średniego wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych obowiązującego w dniu złożenia tego wniosku o dofinansowanie wkładu własnego, który jako pierwszy wpłynął do Banku Gospodarstwa Krajowego na zasadach określonych w ust. 9. ” , w ust. 4: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** pisemne oświadczenie o spełnieniu na dzień złożenia wniosku warunku, o którym mowa w art. 4 ust. 1 pkt 2, wraz z pisemnym zobowiązaniem, że warunek ten będzie spełniony także w dniu ustanowienia lub przeniesienia na jego rzecz prawa własności mieszkania; ” , – uchyla się pkt 4, pkt 5 otrzymuje brzmienie: „
+- **5)** pisemne oświadczenie osoby, która sprzedaje lokal mieszkalny, o spełnieniu warunku, o którym mowa w art. 5 ust. 2 – w przypadku, gdy pierwsze zasiedlenie lokalu mieszkalnego dokonane zostało na warunkach wskazanych w tym przepisie. ” , ust. 6–9 otrzymują brzmienie: „
+    - **c)**
 
 6. Instytucja kredytująca dokonuje weryfikacji i stwierdza, na podstawie dokumentów i oświadczeń złożonych przez nabywcę, że spełnione są warunki, o których mowa w art. 4 ust. 1 i 2, art. 5 oraz art. 7 ust. 1a.
 
@@ -121,8 +127,12 @@ source: "eli-html"
 
 9. Instytucja kredytująca po dokonaniu weryfikacji i stwierdzeniu spełnienia warunków, o których mowa w art. 4 ust. 1 i 2, art. 5 oraz art. 7 ust. 1a, w terminie nie dłuższym niż 60 dni od dnia złożenia wniosku o dofinansowanie wkładu własnego, przekazuje do Banku Gospodarstwa Krajowego wniosek o dofinansowanie wkładu własnego. ” ;
 
-- **11)** w art. 11: w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) na rachunek osoby, która sprzedaje mieszkanie, na który przekazane zostały środki z tytułu udzielonego kredytu – w przypadku gdy nabycie mieszkania dotyczy mieszkania oddanego do użytkowania i nie było związane z zawarciem umowy deweloperskiej; ” , – pkt 3 otrzymuje brzmienie: „ 3) jako ostatnia część świadczeń pieniężnych nabywcy, na rachunek osoby, która sprzedaje mieszkanie w ramach prowadzonej działalności gospodarczej, na który przekazane zostały, w części lub w całości, środki z tytułu udzielonego kredytu – w przypadku gdy realizacja wynikających z zawarcia umowy deweloperskiej świadczeń pieniężnych nie przewidywała ich dokonywania poprzez mieszkaniowy rachunek powierniczy; ” , – dodaje się pkt 4 w brzmieniu: „ 4) jako ostatnia, przed rozliczeniem kosztów budowy, część świadczeń pieniężnych nabywcy wynikających z umowy o budowę lokalu (wkład budowlany), na rachunek spółdzielni mieszkaniowej, na który przekazane zostały, w całości lub w części, środki z tytułu udzielonego kredytu. ” , ust. 5 otrzymuje brzmienie: „
+- **11)** w art. 11: w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** na rachunek osoby, która sprzedaje mieszkanie, na który przekazane zostały środki z tytułu udzielonego kredytu – w przypadku gdy nabycie mieszkania dotyczy mieszkania oddanego do użytkowania i nie było związane z zawarciem umowy deweloperskiej; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** jako ostatnia część świadczeń pieniężnych nabywcy, na rachunek osoby, która sprzedaje mieszkanie w ramach prowadzonej działalności gospodarczej, na który przekazane zostały, w części lub w całości, środki z tytułu udzielonego kredytu – w przypadku gdy realizacja wynikających z zawarcia umowy deweloperskiej świadczeń pieniężnych nie przewidywała ich dokonywania poprzez mieszkaniowy rachunek powierniczy; ” , dodaje się pkt 4 w brzmieniu: „
+- **4)** jako ostatnia, przed rozliczeniem kosztów budowy, część świadczeń pieniężnych nabywcy wynikających z umowy o budowę lokalu (wkład budowlany), na rachunek spółdzielni mieszkaniowej, na który przekazane zostały, w całości lub w części, środki z tytułu udzielonego kredytu. ” , ust. 5 otrzymuje brzmienie: „
     - **b)**
 
 5. W przypadkach, o których mowa w ust. 3 pkt 2–4, w sytuacji braku możliwości wypłaty wsparcia z Funduszu Dopłat w terminie wypłaty, o którym mowa w art. 10 ust. 2, z zachowanym warunkiem wypłaty środków tytułem ostatniej części świadczeń pieniężnych nabywcy, wypłata środków z tytułu udzielonego nabywcy dofinansowania wkładu własnego dokonywana jest przez instytucję kredytującą najpóźniej w IV kwartale roku, który został wskazany we wniosku o dofinansowanie wkładu własnego jako przewidywany rok wypłaty wsparcia. ” , po ust. 8 dodaje się ust. 8a w brzmieniu: „
@@ -162,8 +172,13 @@ source: "eli-html"
 
 2. Środki Funduszu Dopłat pochodzące ze zwrotu finansowego wsparcia wypłaconego w poprzednich latach budżetowych stanowią dochody budżetu państwa. ” ;
 
-- **16)** w art. 20: w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) przedsięwzięcie, o którym mowa w pkt 1, było realizowane na podstawie pozwolenia na budowę wydanego po dniu 1 stycznia 2014 r. albo na podstawie zgłoszenia budowy; ” , – w pkt 3 lit. b otrzymuje brzmienie: „ b) 85 m2 i 110 m2 – w przypadku gdy osoba fizyczna w dniu wydania pozwolenia na budowę albo w dniu dokonania zgłoszenia budowy, o których mowa w pkt 2, wychowywała przynajmniej troje dzieci spełniających warunki, o których mowa w art. 7 ust. 1a; ” , – pkt 4 otrzymuje brzmienie: „ 4) osoba fizyczna do końca roku kalendarzowego, w którym wydano pozwolenie na budowę lokalu mieszkalnego albo domu jednorodzinnego albo dokonano zgłoszenia budowy, nie ukończyła 36 lat; ” , po ust. 3 dodaje się ust. 4 w brzmieniu: „
+- **16)** w art. 20: w ust. 3: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** przedsięwzięcie, o którym mowa w pkt 1, było realizowane na podstawie pozwolenia na budowę wydanego po dniu 1 stycznia 2014 r. albo na podstawie zgłoszenia budowy; ” , w pkt 3 lit. b otrzymuje brzmienie: „ 85 m2 i 110 m2 – w przypadku gdy osoba fizyczna w dniu wydania pozwolenia na budowę albo w dniu dokonania zgłoszenia budowy, o których mowa w pkt 2, wychowywała przynajmniej troje dzieci spełniających warunki, o których mowa w art. 7 ust. 1a; ” , pkt 4 otrzymuje brzmienie: „
+    - **b)**
+
+- **4)** osoba fizyczna do końca roku kalendarzowego, w którym wydano pozwolenie na budowę lokalu mieszkalnego albo domu jednorodzinnego albo dokonano zgłoszenia budowy, nie ukończyła 36 lat; ” , po ust. 3 dodaje się ust. 4 w brzmieniu: „
     - **b)**
 
 4. Warunków, o których mowa w ust. 3 pkt 4 i 5, nie stosuje się w przypadku, gdy w dniu wydania pozwolenia na budowę albo dokonania zgłoszenia budowy osoba fizyczna wychowuje przynajmniej troje dzieci, o których mowa w art. 7 ust. 1a. ” ;

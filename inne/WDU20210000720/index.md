@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 21 marca 1985 r. o drogach publicznych oraz ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-30 |
 | Data wydania | 2021-04-19 |
-| Wejście w życie | 2021-05-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/720/text.pdf) |
 
@@ -171,12 +170,14 @@ source: "eli-html"
     - **b)**
     - **a)**
 
-- **17)** w art. 129b: w ust. 2 w pkt 2 lit. b oraz c otrzymują brzmienie: „ ruchu motorowerów, rowerów, wózków rowerowych, hulajnóg elektrycznych, urządzeń transportu osobistego, pojazdów zaprzęgowych oraz o jeździe wierzchem lub pędzeniu zwierząt, ruchu pieszych oraz osób poruszających się przy użyciu urządzeń wspomagających ruch, ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) zatrzymania pojazdu, osoby poruszającej się przy użyciu urządzenia wspomagającego ruch lub jadącego wierzchem; ” , – pkt 4 otrzymuje brzmienie: „ 4) legitymowania uczestnika ruchu i wydawania mu wiążących poleceń co do sposobu korzystania z drogi, używania pojazdu lub urządzenia wspomagającego ruch; ” ;
+- **17)** w art. 129b: w ust. 2 w pkt 2 lit. b oraz c otrzymują brzmienie: „ ruchu motorowerów, rowerów, wózków rowerowych, hulajnóg elektrycznych, urządzeń transportu osobistego, pojazdów zaprzęgowych oraz o jeździe wierzchem lub pędzeniu zwierząt, ruchu pieszych oraz osób poruszających się przy użyciu urządzeń wspomagających ruch, ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
     - **b)**
 
+- **1)** zatrzymania pojazdu, osoby poruszającej się przy użyciu urządzenia wspomagającego ruch lub jadącego wierzchem; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** legitymowania uczestnika ruchu i wydawania mu wiążących poleceń co do sposobu korzystania z drogi, używania pojazdu lub urządzenia wspomagającego ruch; ” ;
 - **18)** w art. 130a w ust. 6a w lit. g kropkę zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „ hulajnoga elektryczna lub urządzenie transportu osobistego – za usunięcie – 123 zł; za każdą dobę przechowywania – 23 zł. ” .
     - **h)**
 
@@ -203,5 +204,5 @@ source: "eli-html"
 
 **Art. 6.** Uchwały rady powiatu, o których mowa w art. 130a ust. 6 ustawy zmienianej w art. 1, podjęte przed dniem wejścia w życie niniejszej ustawy, zachowują moc do dnia wejścia w życie nowych uchwał podjętych na podstawie art. 130a ust. 6 ustawy zmienianej w art. 1.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 21 marca 1985 r. o drogach publicznych oraz ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami.
 

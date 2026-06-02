@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacji i Naukiz dnia 18 grudnia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 18 grudnia 2020 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 | Pole | Wartość |
 |---|---|
@@ -33,21 +33,16 @@ Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów 
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 16 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 22 listopada 2010 r. w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk (Dz. U. poz. 1530), który stanowi:
-„
+§ 16 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 22 listopada 2010 r. w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk (Dz. U. poz. 1530), który stanowi: „
 § 16.
-Konkursy na stanowisko dyrektora instytutu naukowego rozpoczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia przeprowadza się na podstawie dotychczasowych przepisów.
-” ;
+Konkursy na stanowisko dyrektora instytutu naukowego rozpoczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia przeprowadza się na podstawie dotychczasowych przepisów. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 14 listopada 2019 r. zmieniającego rozporządzenie w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk (Dz. U. poz. 2287), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 14 listopada 2019 r. zmieniającego rozporządzenie w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk (Dz. U. poz. 2287), które stanowią: „
 § 2.
 Do komisji konkursowych powołanych i nierozwiązanych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się § 15 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
-Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 22 listopada 2010 r. w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 22 listopada 2010 r. w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii NaukObecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 Na podstawie art. 53 ust. 10 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy tryb przeprowadzania konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk, zwanego dalej „konkursem na stanowisko dyrektora”, skład i zadania komisji konkursowej, sposób ogłaszania konkursu, tryb postępowania komisji konkursowej i sposób wyłaniania przez nią kandydatów na stanowisko dyrektora.
@@ -117,7 +112,7 @@ szczegółowe ustalenia komisji konkursowej dotyczące konkursu na stanowisko dy
 6)
 podpisy członków komisji konkursowej obecnych na posiedzeniu oraz osoby sporządzającej protokół.
 § 6.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 14 listopada 2019 r. zmieniającego rozporządzenie w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk (Dz. U. poz. 2287), które weszło w życie z dniem 6 grudnia 2019 r..
 Komisja konkursowa, w terminie 7 dni od dnia powołania, zamieszcza ogłoszenie o konkursie w miejscu powszechnie dostępnym w siedzibie instytutu naukowego, na stronie internetowej tego instytutu, w Biuletynie Informacji Publicznej na stronie podmiotowej Polskiej Akademii Nauk i stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki oraz w dzienniku o zasięgu ogólnopolskim.
 2.
 Ogłoszenie zawiera informacje dotyczące:
@@ -131,7 +126,7 @@ miejsca, terminu i sposobu składania zgłoszeń;
 materiałów informacyjnych o instytucie naukowym, ze wskazaniem, gdzie te materiały są udostępniane kandydatom.
 3.
 Dokumentami, o których mowa w ust. 2 pkt 2, są:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 informacja o dotychczasowym przebiegu pracy zawodowej, w tym o zakresie obowiązków związanych z zajmowanymi stanowiskami i pełnionymi funkcjami, okresie ich pełnienia, liczbie podległych pracowników i osiągnięciach zawodowych oraz o posiadanych tytule profesora, stopniu naukowym lub stopniu w zakresie sztuki;
 2)
 koncepcja funkcjonowania instytutu naukowego opracowana przez osobę przystępującą do konkursu na stanowisko dyrektora w formie prezentacji multimedialnej, złożona na nośniku elektronicznym;
@@ -139,7 +134,7 @@ koncepcja funkcjonowania instytutu naukowego opracowana przez osobę przystępuj
 poświadczone za zgodność z oryginałem kopie dokumentów potwierdzających:
 a)
 przebieg pracy zawodowej,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 posiadane tytuł profesora, stopień naukowy lub stopień w zakresie sztuki;
 4)
 oświadczenie o niekaralności za umyślne przestępstwo lub przestępstwo skarbowe;
@@ -195,9 +190,9 @@ Po zakończeniu rozmowy kwalifikacyjnej komisja konkursowa dokonuje oceny końco
 Komisja konkursowa zawiadamia kandydatów o wynikach konkursu na stanowisko dyrektora nie później niż w terminie 7 dni od jego zakończenia.
 3.
 Po zakończeniu konkursu komisja konkursowa przekazuje Prezesowi Polskiej Akademii Nauk sprawozdanie i dokumentację z przebiegu konkursu na stanowisko dyrektora oraz przedstawia kandydata na dyrektora instytutu naukowego.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Prezes Polskiej Akademii Nauk niezwłocznie zawiadamia ministra właściwego do spraw szkolnictwa wyższego i nauki o wynikach konkursu.
-§ 12.
+§ 12W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Wyniki konkursu na stanowisko dyrektora ogłasza się niezwłocznie na stronie internetowej instytutu naukowego i w miejscu powszechnie dostępnym w siedzibie tego instytutu oraz w Biuletynie Informacji Publicznej na stronie podmiotowej Polskiej Akademii Nauk i na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
 § 13.
 Rada podejmuje uchwałę o unieważnieniu konkursu, jeżeli:
@@ -210,15 +205,14 @@ warunki formalne zostały spełnione przez mniej niż dwóch kandydatów lub ża
 Jeżeli w wyniku przeprowadzenia konkursu na stanowisko dyrektora nie zostanie wybrany kandydat lub zachodzą przesłanki określone w § 13, rada ponownie ogłasza konkurs na stanowisko dyrektora.
 2.
 W przypadku ponownego ogłoszenia konkursu na stanowisko dyrektora nie są dopuszczane zgłoszenia kandydatów niezakwalifikowanych do drugiego etapu konkursu, o którym mowa w § 8 ust. 3.
-§ 15.
+§ 15W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Komisja konkursowa ulega rozwiązaniu z dniem:
 1)
 powołania przez Prezesa Polskiej Akademii Nauk dyrektora instytutu naukowego;
 2)
 podjęcia przez radę uchwały, o której mowa w § 13 pkt 1.
 § 16.
-(pominięty).
+(pominięty).Zamieszczony w obwieszczeniu.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 14 listopada 2019 r. zmieniającego rozporządzenie w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk (Dz. U. poz. 2287), które weszło w życie z dniem 6 grudnia 2019 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) Zamieszczony w obwieszczeniu. 9) Rozporządzenie zostało ogłoszone w dniu 9 grudnia 2010 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 9 grudnia 2010 r.. 1) Obecnie działem administracji rządowej – szkolnictwo wyższe i nauka kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 14 listopada 2019 r. zmieniającego rozporządzenie w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk (Dz. U. poz. 2287), które weszło w życie z dniem 6 grudnia 2019 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) Zamieszczony w obwieszczeniu. 9) Rozporządzenie zostało ogłoszone w dniu 9 grudnia 2010 r.
 

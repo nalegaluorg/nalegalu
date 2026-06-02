@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 13 lutego 2019 r. zmieniające rozporządzenie w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 13 lutego 2019 r. zmieniające rozporządzenie w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-13 |
 | Data wydania | 2019-02-20 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/323/text.pdf) |
 
@@ -39,18 +38,13 @@ w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W szkole dla doros�
 2)
 w § 12 w ust. 8 wyrazy „kształcenia w zawodach” zastępuje się wyrazami „kształcenia w zawodzie szkolnictwa branżowego”;
 3)
-§ 18 otrzymuje brzmienie:
-„
+§ 18 otrzymuje brzmienie: „
 § 18.
-Zajęcia związane z wyborem kierunku kształcenia i zawodu uzupełniają działania szkoły w zakresie doradztwa zawodowego, o których mowa w art. 26a ustawy.
-” ;
+Zajęcia związane z wyborem kierunku kształcenia i zawodu uzupełniają działania szkoły w zakresie doradztwa zawodowego, o których mowa w art. 26a ustawy. ” ;
 4)
-w § 20 ust. 15 otrzymuje brzmienie:
-„
+w § 20 ust. 15 otrzymuje brzmienie: „
 15.
-Przepisy ust. 3–10 i ust. 13 stosuje się odpowiednio do słuchaczy szkół dla dorosłych, branżowych szkół II stopnia oraz szkół policealnych.
-” .
+Przepisy ust. 3–10 i ust. 13 stosuje się odpowiednio do słuchaczy szkół dla dorosłych, branżowych szkół II stopnia oraz szkół policealnych. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

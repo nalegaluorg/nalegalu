@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-22 |
 | Data wydania | 2019-03-27 |
-| Wejście w życie | 2019-04-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000572) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/572/text.pdf) |
 
@@ -60,9 +59,9 @@ source: "eli-html"
 
 9. Emisja skarbowych papierów wartościowych następuje z dniem zarejestrowania skarbowych papierów wartościowych w depozycie papierów wartościowych oraz w kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
 
-10. Do emisji skarbowych papierów wartościowych nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.) oraz przepisów wydanych na podstawie art. 97 tej ustawy.
+10. Do emisji skarbowych papierów wartościowych nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500 oraz z 2019 r. poz. 303, 326 i 534.) oraz przepisów wydanych na podstawie art. 97 tej ustawy.
 
 11. Rozporządzanie skarbowymi papierami wartościowymi, o których mowa w ust. 1, wymaga zgody ministra właściwego do spraw finansów publicznych. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500 oraz z 2019 r. poz. 303, 326 i 534.
 

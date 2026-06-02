@@ -33,13 +33,11 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 1)
 ustawą z dnia 14 kwietnia 2023 r. o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz niektórych innych ustaw (Dz. U. poz. 877),
 2)
-ustawą z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 stycznia 2024 r.
+ustawą z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 stycznia 2024 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236), które stanowią:
-„
+art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236), które stanowią: „
 
 **Art. 23.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2022 r. poz. 2142) w załączniku do ustawy w części II w ust. 21 w kolumnie 4 „Zwolnienia” dodaje się pkt 20 w brzmieniu: „
 
@@ -49,11 +47,14 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 
 **Art. 163e.** W okresie od dnia 1 lipca 2022 r. do dnia 30 kwietnia 2023 r. zwalnia się od akcyzy sprzedaż gminom oraz podmiotom, o których mowa w art. 5 ust. 5 pkt 1, 3 i 4 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236), wyrobów węglowych objętych pozycją CN 2701 na podstawie tej ustawy. ” .
 
-**Art. 25.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.a) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967 i 2127.) wprowadza się następujące zmiany:
+**Art. 25.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.a)Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967 i 2127.) wprowadza się następujące zmiany:
 
-- **1)** w art. 65: w ust. 4 w pkt 5 po wyrazach „środków z” dodaje się wyrazy „zaciągniętych kredytów lub”, w ust. 5: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) spłatę zobowiązań z tytułu zaciągniętych kredytów, o których mowa w art. 67 ust. 3, wraz z odsetkami i innymi kosztami bezpośrednio związanymi z tymi kredytami; ” , – w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „ 8) wypłaty rekompensat, o których mowa w art. 15 ust. 1 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236). ” , w ust. 21 w pkt 2 po wyrazach „planowanych do” dodaje się wyrazy „zaciągnięcia kredytów oraz do”, w ust. 25 po wyrazach „podstawę do” dodaje się wyrazy „zaciągnięcia kredytów oraz”;
+- **1)** w art. 65: w ust. 4 w pkt 5 po wyrazach „środków z” dodaje się wyrazy „zaciągniętych kredytów lub”, w ust. 5: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
     - **b)**
+
+- **2a)** spłatę zobowiązań z tytułu zaciągniętych kredytów, o których mowa w art. 67 ust. 3, wraz z odsetkami i innymi kosztami bezpośrednio związanymi z tymi kredytami; ” , w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+- **8)** wypłaty rekompensat, o których mowa w art. 15 ust. 1 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236). ” , w ust. 21 w pkt 2 po wyrazach „planowanych do” dodaje się wyrazy „zaciągnięcia kredytów oraz do”, w ust. 25 po wyrazach „podstawę do” dodaje się wyrazy „zaciągnięcia kredytów oraz”;
     - **c)**
     - **d)**
 
@@ -94,7 +95,7 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 1. Obowiązany pośredniczący podmiot węglowy, o którym mowa w art. 2 ust. 1 pkt 23a ustawy zmienianej w art. 45, lub obowiązany podmiot, o którym mowa w art. 3 ust. 2, który:
 
 - **1)** nie dopełnia obowiązku wprowadzania i bieżącej aktualizacji informacji, o których mowa w art. 55 ust. 1,
-- **2)** nie tworzy konta, o którym mowa w art. 55 ust. 4 podlega karze pieniężnej.
+- **2)** nie tworzy konta, o którym mowa w art. 55 ust. 4 – podlega karze pieniężnej.
 
 2. Karę pieniężną, o której mowa w ust. 1, w wysokości do 1500 zł, nakłada w drodze decyzji administracyjnej, naczelnik urzędu celno-skarbowego właściwy ze względu na siedzibę podmiotu, o którym mowa w ust. 1.
 
@@ -121,8 +122,7 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 - **5)** art. 32 pkt 1 i 2, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 78 ust. 1;
 - **6)** art. 39 pkt 4, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 80 ust. 1;
 - **7)** art. 37 pkt 1–4 i 6–11, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 75 ust. 1;
-- **8)** art. 49 pkt 1 i 2, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 81 ust. 1. ” . Załącznik – Tekst jednolity ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych
-    - **a)** Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967 i 2127.
+- **8)** art. 49 pkt 1 i 2, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 81 ust. 1. ” . a) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967 i 2127. Załącznik – Tekst jednolity ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych
 
 **Art. 1.** Ustawa określa zasady, warunki i tryb:
 
@@ -253,7 +253,7 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 2. Minister właściwy do spraw aktywów państwowych określi, w drodze rozporządzenia, ilość paliwa stałego dostępną dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego odpowiednio w okresie:
 
 - **1)** do dnia 31 grudnia 2022 r.,
-- **2)** od dnia 1 stycznia 2023 r. uwzględniając ilość paliwa stałego będącego w posiadaniu podmiotów wprowadzających do obrotu oraz konieczność zaspokojenia podstawowych potrzeb gospodarstw domowych w odniesieniu do dostępności paliwa stałego.
+- **2)** od dnia 1 stycznia 2023 r. – uwzględniając ilość paliwa stałego będącego w posiadaniu podmiotów wprowadzających do obrotu oraz konieczność zaspokojenia podstawowych potrzeb gospodarstw domowych w odniesieniu do dostępności paliwa stałego.
 
 **Art. 9.**
 
@@ -283,11 +283,7 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 
 1. Wniosek o zakup składa się na piśmie lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
 
-2. W przypadku złożenia wniosku o zakup za pomocą środków komunikacji elektronicznej wniosek o zakup opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
-
-3. Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie wniosku o zakup za jego pośrednictwem za pomocą środków komunikacji elektronicznej, w tym przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234).
-
-4. Wniosek o zakup złożony przy użyciu aplikacji mObywatel opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu wnioskodawcy z wykorzystaniem certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel.
+2. W przypadku złożenia wniosku o zakup za pomocą środków komunikacji elektronicznej wniosek o zakup opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. 3W brzmieniu ustalonym przez art. 57 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234), która weszła w życie z dniem 14 lipca 2023 r.. Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie wniosku o zakup za jego pośrednictwem za pomocą środków komunikacji elektronicznej, w tym przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234). 4W brzmieniu ustalonym przez art. 57 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234), która weszła w życie z dniem 14 lipca 2023 r.. Wniosek o zakup złożony przy użyciu aplikacji mObywatel opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu wnioskodawcy z wykorzystaniem certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel.
 
 **Art. 12.**
 
@@ -326,7 +322,7 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 
 8. Wójt, burmistrz albo prezydent miasta może, na piśmie utrwalonym w postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań w sprawach dotyczących wydania zaświadczenia.
 
-9. Zaświadczenie wydaje się jednokrotnie i w jednym egzemplarzu, w każdym z okresów określonych w art. 8 ust. 2 oraz dla sprzedaży końcowej, o której mowa w art. 14a ust. 1. Zaświadczenie jest ważne w okresie, w którym zostało wydane.
+9. Zaświadczenie wydaje się jednokrotnie i w jednym egzemplarzu, w każdym z okresów określonych w art. 8 ust. 2 oraz dla sprzedaży końcowej, o której mowa w art. 14a ust. 1.Zdanie pierwsze w brzmieniu ustalonym przez art. 11 pkt 1 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz niektórych innych ustaw (Dz. U. poz. 877); wszedł w życie z dniem 10 maja 2023 r. Zaświadczenie jest ważne w okresie, w którym zostało wydane.
 
 **Art. 14.**
 
@@ -373,13 +369,13 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 - **1)** paliwa stałego według ceny nabycia,
 - **2)** bezpośrednie i pośrednie związane z zakupem i przystosowaniem paliwa stałego do wprowadzenia do obrotu, w tym koszty ogólnego zarządu, nieujęte w cenie nabycia,
 - **3)** sprzedaży paliwa stałego,
-- **4)** obsługi zobowiązań zaciągniętych w celu finansowania zapasu paliwa stałego w okresie jego przygotowania do sprzedaży oraz w celu finansowania sprzedaży paliwa stałego z zastosowaniem odroczonego terminu płatności określone zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598) lub Międzynarodowymi Standardami Sprawozdawczości Finansowej.
+- **4)** obsługi zobowiązań zaciągniętych w celu finansowania zapasu paliwa stałego w okresie jego przygotowania do sprzedaży oraz w celu finansowania sprzedaży paliwa stałego z zastosowaniem odroczonego terminu płatności – określone zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598) lub Międzynarodowymi Standardami Sprawozdawczości Finansowej.
 
 4. Średnią cenę netto sprzedaży, o której mowa w ust. 1, oblicza się jako iloraz sumy przychodów ze sprzedaży paliwa stałego na podstawie umów, o których mowa w art. 3 ust. 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego w ramach zakupu preferencyjnego – na podstawie umów sprzedaży w ramach zakupu preferencyjnego, uzyskanych w okresie wskazanym w ust. 10, i ilości tego paliwa stałego sprzedanego w tym okresie.
 
 5. Rekompensata przysługuje za paliwo stałe sprzedane do dnia 30 kwietnia 2023 r. i jest wypłacana podmiotowi wprowadzającemu do obrotu na jego wniosek za każdy miesiąc kalendarzowy. Wysokość rekompensaty w danym okresie miesięcznym oblicza podmiot wprowadzający do obrotu.
 
-6. Rekompensata w kwocie netto, o której mowa w ust. 1, stanowi przychód podmiotu wprowadzającego do obrotu w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805) lub ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.) w miesiącu jej otrzymania.
+6. Rekompensata w kwocie netto, o której mowa w ust. 1, stanowi przychód podmiotu wprowadzającego do obrotu w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805) lub ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617, 1667, 1675, 1705, 1723, 1787, 1843 i 2760.) w miesiącu jej otrzymania.
 
 7. Podmiotem odpowiedzialnym za rozpatrywanie wniosków o wypłatę rekompensaty i jej wypłatę jest podmiot wypłacający.
 
@@ -469,7 +465,7 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 
 **Art. 20.**
 
-1. Rekompensaty, o których mowa w art. 15 ust. 1, są finansowane z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.), zwanego dalej „Funduszem”, w granicach kwot określonych na ten cel w planie tego Funduszu.
+1. Rekompensaty, o których mowa w art. 15 ust. 1, są finansowane z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760.), zwanego dalej „Funduszem”, w granicach kwot określonych na ten cel w planie tego Funduszu.
 
 2. Środki wypłacone w ramach rekompensaty, o której mowa w art. 15 ust. 1, które zostały pobrane nienależnie podlegają zwrotowi wraz z odsetkami na rachunek rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu, a w przypadku jego likwidacji – do budżetu państwa.
 
@@ -507,12 +503,12 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 
 3. Termin zapłaty kary pieniężnej, o której mowa w ust. 1, wynosi 7 dni od dnia, w którym decyzja o wymierzeniu kary pieniężnej stała się ostateczna.
 
-4. Kara pieniężna, o której mowa w ust. 1, jest wpłacana na rachunek bankowy właściwego ze względu na miejsce dokonania sprzedaży organu podatkowego i stanowi dochód budżetu państwa. (pominięte)
+4. Kara pieniężna, o której mowa w ust. 1, jest wpłacana na rachunek bankowy właściwego ze względu na miejsce dokonania sprzedaży organu podatkowego i stanowi dochód budżetu państwa. (pominięte)Zamieszczone w obwieszczeniu.
 
 **Art. 28.** W celu zapewnienia prawidłowej realizacji zadań związanych z wykonywaniem ustawy wójt, burmistrz albo prezydent miasta może:
 
 - **1)** wprowadzić niezbędne zmiany w planie dochodów i wydatków budżetu gminy;
-- **2)** dokonać czynności, o których mowa w art. 258 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+- **2)** dokonać czynności, o których mowa w art. 258 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.).
 
 **Art. 29.** Minister właściwy do spraw aktywów państwowych w terminie 7 dni od dnia przedłożenia wniosku, o którym mowa w art. 21 ust. 2, występuje do Prezesa Rady Ministrów o zmianę w planie finansowym Funduszu i wskazuje kwotę zweryfikowaną do wypłaty.
 
@@ -526,9 +522,9 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 
 **Art. 31.**
 
-1. Do postępowań w sprawie wypłaty dodatku węglowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, prowadzonych na podstawie ustawy zmienianej w art. 26, stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
+1. Do postępowań w sprawie wypłaty dodatku węglowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, prowadzonych na podstawie ustawy zmienianej w art. 26Artykuł 26 zawiera zamiany do ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym., stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
 
-2. W przypadku gdy wójt, burmistrz albo prezydent miasta odmówił przyznania dodatku węglowego, zgodnie z art. 2 ust. 16 ustawy zmienianej w art. 26, w sytuacji, o której mowa w art. 2 ust. 3c i 15g tej ustawy, wnioskodawca może złożyć ponownie wniosek o wypłatę tego dodatku.
+2. W przypadku gdy wójt, burmistrz albo prezydent miasta odmówił przyznania dodatku węglowego, zgodnie z art. 2 ust. 16 ustawy zmienianej w art. 26Artykuł 26 zawiera zamiany do ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym., w sytuacji, o której mowa w art. 2 ust. 3c i 15g tej ustawy, wnioskodawca może złożyć ponownie wniosek o wypłatę tego dodatku.
 
 **Art. 32.**
 
@@ -568,5 +564,5 @@ art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym pal
 
 3. Minister właściwy do spraw aktywów państwowych monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1. W przypadku gdy wykorzystanie środków wyniesie więcej niż 80% środków, o których mowa w ust. 1, minister właściwy do spraw aktywów państwowych informuje o tym fakcie ministra właściwego do spraw finansów publicznych oraz Prezesa Rady Ministrów.
 
-**Art. 36.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 36.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszeniaUstawa została ogłoszona w dniu 2 listopada 2022 r.. 1) W brzmieniu ustalonym przez art. 57 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234), która weszła w życie z dniem 14 lipca 2023 r. 2) Zdanie pierwsze w brzmieniu ustalonym przez art. 11 pkt 1 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz niektórych innych ustaw (Dz. U. poz. 877); wszedł w życie z dniem 10 maja 2023 r. 3) Dodany przez art. 11 pkt 2 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 10 maja 2023 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114, 1130, 1407, 1414, 1429, 1523, 1617, 1667, 1675, 1705, 1723, 1787, 1843 i 2760. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760. 6) Zamieszczone w obwieszczeniu. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 8) Artykuł 26 zawiera zamiany do ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym. 9) Ustawa została ogłoszona w dniu 2 listopada 2022 r.
 

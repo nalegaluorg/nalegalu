@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1958-02-25 |
 | Data wydania | 1958-03-08 |
-| Wejście w życie | 1958-03-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19580110037) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1958/37/text.pdf) |
 

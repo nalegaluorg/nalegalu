@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-22 |
 | Data wydania | 2015-12-30 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002300) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2300/text.pdf) |
 
@@ -49,7 +48,7 @@ source: "eli-html"
 
 - **1)** szczegółowe warunki i tryb przyznawania oraz wykorzystania dotacji budżetowej przeznaczonej na finansowanie likwidacji kopalń, zabezpieczenie kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym, w trakcie i po zakończeniu likwidacji kopalni, naprawiania szkód wywołanych ruchem zakładu górniczego, w tym szkód powstałych w wyniku reaktywacji starych zrobów i działań wykonywanych po zakończeniu likwidacji kopalń,
 - **2)** tryb rozliczania przyznanej dotacji budżetowej,
-- **3)** szczegółowe warunki powodujące cofnięcie lub czasowe wstrzymanie wypłaty przyznanej dotacji budżetowej biorąc pod uwagę zadania wykonywane w trakcie i po zakończeniu likwidacji kopalni, zapewnienie bezpieczeństwa kopalni oraz upraszczanie systemu odwadniania, a także naprawianie szkód wywołanych ruchem zakładu górniczego. ” ;
+- **3)** szczegółowe warunki powodujące cofnięcie lub czasowe wstrzymanie wypłaty przyznanej dotacji budżetowej – biorąc pod uwagę zadania wykonywane w trakcie i po zakończeniu likwidacji kopalni, zapewnienie bezpieczeństwa kopalni oraz upraszczanie systemu odwadniania, a także naprawianie szkód wywołanych ruchem zakładu górniczego. ” ;
 - **4)** w art. 8a: ust. 1 otrzymuje brzmienie: „
     - **a)**
 

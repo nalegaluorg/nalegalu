@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-19 |
 | Data wydania | 2018-01-22 |
-| Wejście w życie | 2018-01-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000175) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/175/text.pdf) |
 
@@ -35,8 +34,7 @@ W rozporządzeniu Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie s
 1)
 w § 1:
 a)
-ust. 2 i 3 otrzymują brzmienie:
-„
+ust. 2 i 3 otrzymują brzmienie: „
 2.
 Minister kieruje następującymi działami administracji rządowej:
 1)
@@ -44,14 +42,11 @@ budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo;
 2)
 rozwój regionalny.
 3.
-Minister jest dysponentem części 18 i 34 budżetu państwa.
-” ,
+Minister jest dysponentem części 18 i 34 budżetu państwa. ” ,
 b)
-dodaje się ust. 5 w brzmieniu:
-„
+dodaje się ust. 5 w brzmieniu: „
 5.
-Organy podległe ministrowi lub przez niego nadzorowane określa załącznik do rozporządzenia.
-” ;
+Organy podległe ministrowi lub przez niego nadzorowane określa załącznik do rozporządzenia. ” ;
 2)
 dodaje się załącznik do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
 § 2.

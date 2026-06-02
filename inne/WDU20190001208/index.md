@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-26 |
 | Data wydania | 2019-06-28 |
-| Wejście w życie | 2019-07-01 |
 | Ostatnia zmiana | 2026-01-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1208/text.pdf) |
 
@@ -36,7 +35,7 @@ Rozporządzenie określa śródlądowe drogi wodne.
 2.
 Wykaz śródlądowych dróg wodnych jest określony w załączniku do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2019 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie śródlądowych dróg wodnych (Dz. U. poz. 1786 oraz z 2016 r. poz. 621), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125 i 534). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie śródlądowych dróg wodnych (Dz. U. poz. 1786 oraz z 2016 r. poz. 621), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125 i 534).
 Załącznik – Wykaz śródlądowych dróg wodnych
 1)
 rzeka Biebrza od ujścia Kanału Augustowskiego do ujścia do rzeki Narwi;

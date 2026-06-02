@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-13 |
 | Data wydania | 2022-01-31 |
-| Wejście w życie | 2022-03-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000219) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/219/text.pdf) |
 
@@ -39,7 +38,7 @@ source: "eli-html"
 **Art. 17a.** Uzupełniająca płatność podstawowa przysługuje rolnikowi do powierzchni:
 
 - **1)** upraw niektórych rodzajów roślin,
-- **2)** gruntów ornych, na których nie jest prowadzona uprawa roślin do których została przyznana jednolita płatność obszarowa. ” ;
+- **2)** gruntów ornych, na których nie jest prowadzona uprawa roślin – do których została przyznana jednolita płatność obszarowa. ” ;
 - **7)** w art. 18: w ust. 1 i w ust. 2 w zdaniu pierwszym w części wspólnej po wyrazie „bezpośrednie” dodaje się wyrazy „i uzupełniająca płatność podstawowa”, w ust. 3 po wyrazie „bezpośrednich” dodaje się wyrazy „i uzupełniającej płatności podstawowej”, ust. 4 otrzymuje brzmienie: „
     - **a)**
     - **b)**
@@ -75,7 +74,7 @@ source: "eli-html"
 1. W przypadku gdy w wyniku ustaleń dokonanych w ramach kontroli administracyjnej lub kontroli na miejscu zostanie stwierdzone, że:
 
 - **1)** płatność bezpośrednia lub przejściowe wsparcie krajowe zostały przyznane w niewłaściwej wysokości i istnieje konieczność zmiany ich wysokości lub
-- **2)** istnieje konieczność dokonania zmniejszenia danej płatności lub danego wsparcia lub wykluczenia z płatności lub wsparcia, w tym wynikająca ze stwierdzonych nieprawidłowości lub niezgodności, lub nałożenia pozostałych kar administracyjnych, lub zastosowania art. 8 ust. 1, 3 i 4 rozporządzenia nr 1307/2013 lub art. 11 ust. 1 tego rozporządzenia organ, który wydał decyzję w sprawie o przyznanie tej płatności lub tego wsparcia, zmienia ją bez zgody strony, jeżeli ta płatność lub to wsparcie nie zostały jeszcze wypłacone i nie upłynął termin ich wypłaty określony w art. 75 ust. 1 akapit pierwszy rozporządzenia nr 1306/2013. ” .
+- **2)** istnieje konieczność dokonania zmniejszenia danej płatności lub danego wsparcia lub wykluczenia z płatności lub wsparcia, w tym wynikająca ze stwierdzonych nieprawidłowości lub niezgodności, lub nałożenia pozostałych kar administracyjnych, lub zastosowania art. 8 ust. 1, 3 i 4 rozporządzenia nr 1307/2013 lub art. 11 ust. 1 tego rozporządzenia – organ, który wydał decyzję w sprawie o przyznanie tej płatności lub tego wsparcia, zmienia ją bez zgody strony, jeżeli ta płatność lub to wsparcie nie zostały jeszcze wypłacone i nie upłynął termin ich wypłaty określony w art. 75 ust. 1 akapit pierwszy rozporządzenia nr 1306/2013. ” .
 
 **Art. 2.** W ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2022 r. poz. 203) w art. 3 w pkt 9 wyrazy „płatność niezwiązaną do tytoniu w rozumieniu przepisów” zastępuje się wyrazami „przejściowe wsparcie krajowe, o którym mowa w przepisach”.
 

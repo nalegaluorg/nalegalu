@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-27 |
 | Data wydania | 2017-12-11 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2286/text.pdf) |
 
@@ -90,8 +89,11 @@ source: "eli-html"
 
 - **9)** w art. 13 pkt 1 otrzymuje brzmienie: „
 - **1)** tryb rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców, z uwzględnieniem przypadków szczególnych; ” ;
-- **10)** w art. 17: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) organ gminy właściwy do zameldowania na pobyt stały albo pobyt czasowy – w stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1 i 3, z wyjątkiem dzieci, o których mowa w pkt 1; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) organ wydający dowód osobisty – w stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1; ” , ust. 2 otrzymuje brzmienie: „
+- **10)** w art. 17: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** organ gminy właściwy do zameldowania na pobyt stały albo pobyt czasowy – w stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1 i 3, z wyjątkiem dzieci, o których mowa w pkt 1; ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** organ wydający dowód osobisty – w stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1; ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. W celu nadania numeru PESEL organy wskazane w ust. 1 przekazują, za pośrednictwem systemu teleinformatycznego, dane, o których mowa w art. 8 pkt 1–9, 11–15 i 22–24a, ministrowi właściwemu do spraw informatyzacji, z uwzględnieniem art. 9. ” ;

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-05 |
 | Data wydania | 2016-05-06 |
-| Wejście w życie | 2016-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000635) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/635/text.pdf) |
 
@@ -89,5 +88,5 @@ Dla statków nieuprawiających żeglugi międzynarodowej protokół jest sporzą
 § 6.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 października 2003 r. w sprawie warunków i trybu wykonywania kontroli przestrzegania przepisów o czasie pracy i wypoczynku pracowników na morskich statkach handlowych (Dz. U. poz. 1895), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 129 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. poz. 1569). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 października 2003 r. w sprawie warunków i trybu wykonywania kontroli przestrzegania przepisów o czasie pracy i wypoczynku pracowników na morskich statkach handlowych (Dz. U. poz. 1895), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 129 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. poz. 1569).
 

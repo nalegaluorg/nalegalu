@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego
+# Ustawa z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 24 czerwca 1999 r. o wykonywaniu inicjatywy ustawodawczej przez obywateli oraz ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-09 |
 | Data wydania | 2018-01-02 |
-| Wejście w życie | 2018-01-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/4/text.pdf) |
 
@@ -38,5 +37,5 @@ source: "eli-html"
 - **7)** zakładzie leczniczym – należy przez to rozumieć zakład leczniczy, w którym podmiot leczniczy wykonuje działalność leczniczą w rodzaju świadczenia szpitalne lub stacjonarne i całodobowe świadczenia zdrowotne inne niż świadczenia szpitalne, w rozumieniu przepisów ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2016 r. poz. 1638, 1948 i 2260 oraz z 2017 r. poz. 2110 i 2217); ” ;
 - **2)** w art. 12 w § 4, w art. 33 w pkt 1 w lit. d i w części wspólnej, w art. 39 w § 5, w art. 44 w § 2 oraz w art. 182 w § 3 we wprowadzeniu do wyliczenia użyte w różnej liczbie i różnym przypadku wyrazy „zakład opieki zdrowotnej” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „zakład leczniczy”.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 24 czerwca 1999 r. o wykonywaniu inicjatywy ustawodawczej przez obywateli oraz ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 

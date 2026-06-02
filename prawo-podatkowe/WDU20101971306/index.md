@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-09-24 |
 | Data wydania | 2010-10-25 |
-| Wejście w życie | 2010-11-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101971306) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1306/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131 i Nr 182, poz. 1228.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3b w § 2 uchyla się pkt 1;
 - **2)** w art. 14 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu: „
@@ -68,7 +67,7 @@ source: "eli-html"
 § 4. Przepisy § 1 i 2 stosuje się odpowiednio do osób, które były wspólnikami spółki cywilnej w chwili rozwiązania spółki. ” ;
 
 - **8)** w art. 77 w § 1 pkt 6 otrzymuje brzmienie: „
-- **6)** 2 miesięcy od dnia złożenia wniosku o stwierdzenie nadpłaty wraz ze: skorygowanym zeznaniem (deklaracją) – w przypadkach, o których mowa w art. 75 § 3, skorygowanym zeznaniem (deklaracją) i z umową spółki aktualną na dzień rozwiązania spółki – w przypadku, o którym mowa w art. 75 § 3a lecz nie wcześniej niż w terminie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 73 § 2; ” ;
+- **6)** 2 miesięcy od dnia złożenia wniosku o stwierdzenie nadpłaty wraz ze: skorygowanym zeznaniem (deklaracją) – w przypadkach, o których mowa w art. 75 § 3, skorygowanym zeznaniem (deklaracją) i z umową spółki aktualną na dzień rozwiązania spółki – w przypadku, o którym mowa w art. 75 § 3a – lecz nie wcześniej niż w terminie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 73 § 2; ” ;
     - **a)**
     - **b)**
 
@@ -100,7 +99,7 @@ source: "eli-html"
 
 § 5. Minister właściwy do spraw finansów publicznych może upoważnić podległy mu organ podatkowy do otrzymywania informacji od władz państwa członkowskiego Unii Europejskiej lub terytoriów, o których mowa w § 1 pkt 2. ” .
 
-**Art. 2.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2004 r. Nr 269, poz. 2681, z późn. zm.) w art. 10b w ust. 2 uchyla się pkt 1.
+**Art. 2.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2004 r. Nr 269, poz. 2681, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 209, poz. 1318, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97 i Nr 166, poz. 1317 oraz z 2010 r. Nr 182, poz. 1228.) w art. 10b w ust. 2 uchyla się pkt 1.
 
 **Art. 3.** Osobom, które były wspólnikami spółki cywilnej w chwili rozwiązania spółki, przysługuje prawo do złożenia wniosku o wznowienie postępowania w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy w sprawach nadpłaty, w których:
 
@@ -119,6 +118,6 @@ source: "eli-html"
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 1 oraz art. 2, które wchodzą w życie z dniem 1 stycznia 2011 r.;
-- **2)** art. 1 pkt 11, który wchodzi w życie pierwszego dnia miesiąca następującego po upływie 9 miesięcy od dnia ogłoszenia.
+- **2)** art. 1 pkt 11, który wchodzi w życie pierwszego dnia miesiąca następującego po upływie 9 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131 i Nr 182, poz. 1228. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 209, poz. 1318, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97 i Nr 166, poz. 1317 oraz z 2010 r. Nr 182, poz. 1228.
 
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-03 |
 | Data wydania | 2015-06-19 |
-| Wejście w życie | 2015-06-20 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000851) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/851/text.pdf) |
 
@@ -117,8 +116,7 @@ Wniosek o przyznanie pomocy składa się w:
 1)
 urzędzie marszałkowskim albo
 2)
-samorządowej jednostce
-samorządu województwa, na którego obszarze znajduje się siedziba podmiotu ubiegającego się o przyznanie pomocy.
+samorządowej jednostce – samorządu województwa, na którego obszarze znajduje się siedziba podmiotu ubiegającego się o przyznanie pomocy.
 § 10.
 1.
 Wniosek o przyznanie pomocy zawiera w szczególności:
@@ -243,8 +241,7 @@ Druga transza pomocy jest wypłacana także, jeżeli poza spełnieniem warunków
 1)
 beneficjent, który przygotował LSR, jest lokalną grupą działania, o której mowa w § 3 ust. 1 pkt 2, oraz
 2)
-lokalna grupa działania, która złożyła wniosek o wybór LSR, spełnia wymagania określone w art. 4 ustawy o rozwoju lokalnym
-przy czym spełnienie warunków wyboru LSR określonych w przepisach ustawy o rozwoju lokalnym przez daną LSR stanowi spełnienie warunków wypłaty drugiej transzy pomocy tylko przez jednego beneficjenta, wskazanego we wniosku o wybór tej LSR jako podmiot, który przygotował tę LSR.
+lokalna grupa działania, która złożyła wniosek o wybór LSR, spełnia wymagania określone w art. 4 ustawy o rozwoju lokalnym – przy czym spełnienie warunków wyboru LSR określonych w przepisach ustawy o rozwoju lokalnym przez daną LSR stanowi spełnienie warunków wypłaty drugiej transzy pomocy tylko przez jednego beneficjenta, wskazanego we wniosku o wybór tej LSR jako podmiot, który przygotował tę LSR.
 5.
 Jeżeli LSR przygotowana przez beneficjenta obejmuje obszar zamieszkany przez liczbę mieszkańców mniejszą od minimalnej liczby mieszkańców uprawniającej do uzyskania pomocy w wysokości przyznanej pomocy, przy czym są spełnione warunki określone w ust. 3 lub 4, przyznana pomoc ulega obniżeniu do wysokości ustalonej zgodnie z § 5 w oparciu o liczbę mieszkańców, którzy zamieszkują obszar objęty LSR przygotowaną przez beneficjenta. Do ustalania liczby mieszkańców, którzy zamieszkują obszar objęty LSR przygotowaną przez beneficjenta, przepis § 6 stosuje się odpowiednio.
 § 17.
@@ -253,8 +250,7 @@ Wniosek o płatność składa się w:
 1)
 urzędzie marszałkowskim albo
 2)
-samorządowej jednostce
-samorządu województwa, z którym jest zawarta umowa.
+samorządowej jednostce – samorządu województwa, z którym jest zawarta umowa.
 2.
 Do wniosku o płatność dołącza się dokumenty niezbędne do wypłaty środków finansowych z tytułu pomocy, potwierdzające spełnienie warunków wypłaty pomocy, których wykaz zawiera formularz wniosku o płatność.
 3.

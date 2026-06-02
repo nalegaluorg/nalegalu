@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 13 sierpnia 2021 r. zmieniające rozporządzenie w sprawie punktów kontroli granicznej, w których przeprowadza się kontrolę urzędową określonych roślin, produktów roślinnych lub innych przedmiotów wprowadzanych z państw trzecich
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 13 sierpnia 2021 r. zmieniające rozporządzenie w sprawie punktów kontroli granicznej, w których przeprowadza się kontrolę urzędową określonych roślin, produktów roślinnych lub innych przedmiotów wprowadzanych z państw trzecich Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-13 |
 | Data wydania | 2021-08-26 |
-| Wejście w życie | 2021-09-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1567/text.pdf) |
 
@@ -33,8 +32,8 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 29 kwietnia 2020 r. w 
 1)
 tytuł kolumny drugiej otrzymuje brzmienie: „ Punkty kontroli granicznej ” ;
 2)
-lp. I otrzymuje brzmienie: I lotnisko – w przypadku transportu powietrznego 1 Chopina w Warszawie mazowieckie 2 Rzeszów-Jasionka podkarpackie 3 Szczecin-Goleniów zachodniopomorskie
+lp. I otrzymuje brzmienie:
+I lotnisko – w przypadku transportu powietrznego 1 Chopina w Warszawie mazowieckie 2 Rzeszów-Jasionka podkarpackie 3 Szczecin-Goleniów zachodniopomorskie
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 

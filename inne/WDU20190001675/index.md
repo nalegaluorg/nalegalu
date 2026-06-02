@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 28 sierpnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 28 sierpnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-28 |
 | Data wydania | 2019-09-02 |
-| Wejście w życie | 2019-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1675/text.pdf) |
 
@@ -35,6 +34,5 @@ w § 15 w ust. 1 i 2 oraz w ust. 5 we wprowadzeniu do wyliczenia użyte wyrazy �
 2)
 w § 17 w ust. 1, 2, 4, 5, w ust. 7 we wprowadzeniu do wyliczenia, w ust. 8 i w ust. 11 we wprowadzeniu do wyliczenia użyte wyrazy „art. 44n” zastępuje się wyrazami „art. 44zla”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-28 |
 | Data wydania | 2011-09-08 |
-| Wejście w życie | 2011-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111871113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1113/text.pdf) |
 
@@ -39,7 +38,7 @@ source: "eli-html"
 - **4)** w art. 12 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 - **5)** sposób potwierdzania przez PKP PLK SA finansowania ze środków Funduszu wydatków, o których mowa w art. 9 ust. 2 pkt 3a. ” .
 
-**Art. 2.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.) w art. 38 dodaje się ust. 9–11 w brzmieniu: „ 9. Zarządca może zaciągnąć kredyty, pożyczki lub może emitować obligacje w kraju i za granicą, z przeznaczeniem na finansowanie prac przygotowawczych oraz zadań inwestycyjnych realizowanych w ramach programu wieloletniego, o którym mowa w art. 38c. 10. Na zobowiązania PLK S.A. z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji z przeznaczeniem na finansowanie prac przygotowawczych oraz zadań inwestycyjnych, o których mowa w ust. 1, mogą być udzielane przez Skarb Państwa gwarancje i poręczenia, zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. Nr 174, poz. 1689, z późn. zm.), z wyjątkiem art. 2a ust. 2 tej ustawy. 11. Gwarancje i poręczenia, o których mowa w ust. 10, są zwolnione z opłat prowizyjnych. ” .
+**Art. 2.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658 oraz z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586 i Nr 106, poz. 622.) w art. 38 dodaje się ust. 9–11 w brzmieniu: „ 9. Zarządca może zaciągnąć kredyty, pożyczki lub może emitować obligacje w kraju i za granicą, z przeznaczeniem na finansowanie prac przygotowawczych oraz zadań inwestycyjnych realizowanych w ramach programu wieloletniego, o którym mowa w art. 38c. 10. Na zobowiązania PLK S.A. z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji z przeznaczeniem na finansowanie prac przygotowawczych oraz zadań inwestycyjnych, o których mowa w ust. 1, mogą być udzielane przez Skarb Państwa gwarancje i poręczenia, zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. Nr 174, poz. 1689, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291, Nr 145, poz. 1537 i Nr 281, poz. 2785, z 2005 r. Nr 78, poz. 684 i Nr 183, poz. 1538, z 2009 r. Nr 65, poz. 545, z 2010 r. Nr 28, poz. 144 oraz z 2011 r. Nr 106, poz. 622.), z wyjątkiem art. 2a ust. 2 tej ustawy. 11. Gwarancje i poręczenia, o których mowa w ust. 10, są zwolnione z opłat prowizyjnych. ” .
 
 **Art. 3.**
 
@@ -47,5 +46,5 @@ source: "eli-html"
 
 2. Minister właściwy do spraw transportu, zarządcy infrastruktury oraz Bank Gospodarstwa Krajowego dostosują umowy zawarte odpowiednio na podstawie art. 10 i 12 ustawy zmienianej w art. 1 niniejszej ustawy do zmian wynikających z przepisów art. 3 ust. 1 pkt 1 oraz art. 9 ust. 2 pkt 3a ustawy zmienianej w art. 1 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, albo zawrą nowe umowy w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658 oraz z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586 i Nr 106, poz. 622. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291, Nr 145, poz. 1537 i Nr 281, poz. 2785, z 2005 r. Nr 78, poz. 684 i Nr 183, poz. 1538, z 2009 r. Nr 65, poz. 545, z 2010 r. Nr 28, poz. 144 oraz z 2011 r. Nr 106, poz. 622.
 

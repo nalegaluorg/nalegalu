@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 listopada 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków przyznawania pomocy finansowej w ramach poddziałania „Wsparcie dla szkolenia doradców” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz warunków i trybu jej wypłaty
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 listopada 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków przyznawania pomocy finansowej w ramach poddziałania „Wsparcie dla szkolenia doradców” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz warunków i trybu jej wypłaty Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-02 |
 | Data wydania | 2018-11-08 |
-| Wejście w życie | 2018-11-09 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002121) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2121/text.pdf) |
 
@@ -41,8 +40,7 @@ uchyla się ust. 2;
 3)
 w § 11:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 Środki finansowe z tytułu pomocy są wypłacane, jeżeli:
 1)
@@ -56,8 +54,7 @@ beneficjent zrealizował lub realizuje zobowiązania określone w umowie;
 3)
 beneficjent udokumentował zrealizowanie operacji lub jej etapu;
 4)
-koszty związane z organizacją i przeprowadzeniem szkoleń zostały uwzględnione w oddzielnym systemie rachunkowości albo do ich identyfikacji wykorzystano odpowiedni kod rachunkowy, o którym mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013.
-” ,
+koszty związane z organizacją i przeprowadzeniem szkoleń zostały uwzględnione w oddzielnym systemie rachunkowości albo do ich identyfikacji wykorzystano odpowiedni kod rachunkowy, o którym mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013. ” ,
 b)
 uchyla się ust. 3 i 4;
 4)
@@ -65,10 +62,11 @@ w § 13:
 a)
 w ust 1:
 – we wprowadzeniu do wyliczenia wyrazy „jej przyznania” zastępuje się wyrazami „dokonania płatności”,
-– pkt 2 otrzymuje brzmienie: „ 2) numer rachunku bankowego, na który należy dokonać płatności; ” ,
+pkt 2 otrzymuje brzmienie: „
+2)
+numer rachunku bankowego, na który należy dokonać płatności; ” ,
 b)
 w ust. 2 uchyla się pkt 1.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

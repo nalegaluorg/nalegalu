@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-13 |
 | Data wydania | 2012-03-27 |
-| Wejście w życie | 2012-04-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000324) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/324/text.pdf) |
 
@@ -35,14 +34,13 @@ pkt 1.3 otrzymuje brzmienie:
 1.3.
 Misja MSSE Misją MSSE jest wspieranie realizacji celów określonych w strategiach rozwoju województw południowo-wschodniej Polski oraz województwa zachodniopomorskiego w zakresie tworzenia warunków trwałego rozwoju gospodarczego i poprawy pozycji konkurencyjnej regionów. Realizacja misji odbywa się poprzez podejmowanie inicjatyw na rzecz wzrostu innowacyjności gospodarek województw na obszarach objętych strefą. Celem nadrzędnym jest tworzenie jak najlepszych warunków do realizacji przedsięwzięć inwestycyjnych, aktywizacji wykorzystywania potencjału gospodarczego regionów, w tym zasobów ludzkich. Osiągnięcie tego celu wiąże się nierozerwalnie z:
 1)
-realizacją zadań określonych w Strategii Rozwoju Województwa Podkarpackiego na lata 2007–2020, w szczególności obejmujących tworzenie warunków do wzrostu konkurencyjności gospodarki poprzez rozwijanie przedsiębiorczości, zwiększanie jej innowacyjności oraz podniesienie atrakcyjności inwestycyjnej regionu;
+realizacją zadań określonych w Strategii Rozwoju Województwa Podkarpackiego na lata 2007–2020Uchwała Sejmiku Województwa Podkarpackiego nr LXIII/790/06 z dnia 20 października 2006 r., w szczególności obejmujących tworzenie warunków do wzrostu konkurencyjności gospodarki poprzez rozwijanie przedsiębiorczości, zwiększanie jej innowacyjności oraz podniesienie atrakcyjności inwestycyjnej regionu;
 2)
-realizacją zadań określonych w Strategii Rozwoju Województwa Lubelskiego na lata 2006–2020, w szczególności poprzez wzrost konkurencyjności regionalnej gospodarki oraz jej zdolności do tworzenia miejsc pracy;
+realizacją zadań określonych w Strategii Rozwoju Województwa Lubelskiego na lata 2006–2020Uchwała Sejmiku Województwa Lubelskiego nr XXXVI/530/05 z dnia 4 lipca 2005 r., w szczególności poprzez wzrost konkurencyjności regionalnej gospodarki oraz jej zdolności do tworzenia miejsc pracy;
 3)
-realizacją zadań określonych w Strategii Rozwoju Województwa Małopolskiego na lata 2007–2013, w szczególności poprzez poprawę konkurencyjności regionu tak, aby stał się „regionem nowoczesnej gospodarki”;
+realizacją zadań określonych w Strategii Rozwoju Województwa Małopolskiego na lata 2007–2013Uchwała Sejmiku Województwa Małopolskiego nr XLI/527/2006 z dnia 30 stycznia 2006 r., w szczególności poprzez poprawę konkurencyjności regionu tak, aby stał się „regionem nowoczesnej gospodarki”;
 4)
-realizacją zadań określonych w Strategii Rozwoju Województwa Zachodniopomorskiego do roku 2020, w szczególności poprzez stworzenie warunków do stabilnego i zrównoważonego rozwoju województwa zachodniopomorskiego, opartego na konkurencyjnej gospodarce.
-” ;
+realizacją zadań określonych w Strategii Rozwoju Województwa Zachodniopomorskiego do roku 2020Uchwała Sejmiku Województwa Zachodniopomorskiego nr XXVI/303/05 z dnia 19 grudnia 2005 r., w szczególności poprzez stworzenie warunków do stabilnego i zrównoważonego rozwoju województwa zachodniopomorskiego, opartego na konkurencyjnej gospodarce. ” ;
 2)
 pkt 6.1 otrzymuje brzmienie:
 6.1.
@@ -54,10 +52,7 @@ dla województwa lubelskiego – zakłada się pozyskiwanie inwestorów mogącyc
 3)
 dla województwa małopolskiego – zakłada się pozyskiwanie małych i średnich projektów wykorzystujących lokalne zasoby kadrowe i wpisujących się w tradycje przemysłowe regionu. Zgodnie z Koncepcją dla województwa małopolskiego poszerza się „kryterium sektorów priorytetowych” o przemysł produkujący na potrzeby budownictwa oraz o produkcję części i akcesoriów dla przemysłu;
 4)
-dla województwa zachodniopomorskiego – zakłada się pozyskanie inwestorów z branży metalowej, maszynowej i elektrotechnicznej, mogących zagospodarować tereny inwestycyjne oraz duży potencjał kadrowy aglomeracji szczecińskiej. Zgodnie z Koncepcją dla województwa zachodniopomorskiego poszerza się „kryterium sektorów priorytetowych” o produkcję wyrobów na rzecz budownictwa oraz o przetwórstwo spożywcze.
-Realizowane działania marketingowo-promocyjne będą zgodne z polityką rozwoju strefy określoną w Koncepcji, a ujęte w niej zasady obejmowania nowych gruntów statusem specjalnej strefy ekonomicznej będą stanowić podstawę do oceny wniosków kierowanych do zarządzającego o włączenie nowych terenów do strefy.
-” .
+dla województwa zachodniopomorskiego – zakłada się pozyskanie inwestorów z branży metalowej, maszynowej i elektrotechnicznej, mogących zagospodarować tereny inwestycyjne oraz duży potencjał kadrowy aglomeracji szczecińskiej. Zgodnie z Koncepcją dla województwa zachodniopomorskiego poszerza się „kryterium sektorów priorytetowych” o produkcję wyrobów na rzecz budownictwa oraz o przetwórstwo spożywcze. Realizowane działania marketingowo-promocyjne będą zgodne z polityką rozwoju strefy określoną w Koncepcji, a ujęte w niej zasady obejmowania nowych gruntów statusem specjalnej strefy ekonomicznej będą stanowić podstawę do oceny wniosków kierowanych do zarządzającego o włączenie nowych terenów do strefy. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Uchwała Sejmiku Województwa Podkarpackiego nr LXIII/790/06 z dnia 20 października 2006 r. 3) Uchwała Sejmiku Województwa Lubelskiego nr XXXVI/530/05 z dnia 4 lipca 2005 r. 4) Uchwała Sejmiku Województwa Małopolskiego nr XLI/527/2006 z dnia 30 stycznia 2006 r. 5) Uchwała Sejmiku Województwa Zachodniopomorskiego nr XXVI/303/05 z dnia 19 grudnia 2005 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Uchwała Sejmiku Województwa Podkarpackiego nr LXIII/790/06 z dnia 20 października 2006 r. 3) Uchwała Sejmiku Województwa Lubelskiego nr XXXVI/530/05 z dnia 4 lipca 2005 r. 4) Uchwała Sejmiku Województwa Małopolskiego nr XLI/527/2006 z dnia 30 stycznia 2006 r. 5) Uchwała Sejmiku Województwa Zachodniopomorskiego nr XXVI/303/05 z dnia 19 grudnia 2005 r.
 

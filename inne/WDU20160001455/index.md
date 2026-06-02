@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-23 |
 | Data wydania | 2016-09-13 |
-| Wejście w życie | 2016-09-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001455) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1455/text.pdf) |
 
@@ -31,18 +30,15 @@ Załącznik – Szczegółowy wykaz kierunków studiów, zawodów oraz tytułów
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2014 r. poz. 1438, z 2015 r. poz. 308 i 349 oraz z 2016 r. poz. 50) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089 oraz z 2016 r. poz. 170.) wprowadza się następujące zmiany:
 1)
 w § 4:
 a)
-w ust. 2 pkt 2 otrzymuje brzmienie:
-„
+w ust. 2 pkt 2 otrzymuje brzmienie: „
 2)
-posiadanie kwalifikacji zawodowych określonych w ust. 2a.
-” ,
+posiadanie kwalifikacji zawodowych określonych w ust. 2a. ” ,
 b)
-po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
 2a.
 Warunek dotyczący kwalifikacji zawodowych, o których mowa w ust. 2 pkt 2, uważa się za spełniony, jeżeli osoba fizyczna posiada:
 1)
@@ -62,98 +58,93 @@ Za staż pracy w rolnictwie uznaje się okres liczony do dnia złożenia wniosku
 1)
 podlegał ubezpieczeniu społecznemu rolników w pełnym zakresie jako rolnik lub domownik lub ubezpieczeniu społecznemu w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) z tytułu prowadzenia działalności rolniczej lub
 2)
-był zatrudniony w gospodarstwie rolnym na podstawie umowy o pracę, na stanowisku związanym z prowadzeniem produkcji rolnej.
-” ,
+był zatrudniony w gospodarstwie rolnym na podstawie umowy o pracę, na stanowisku związanym z prowadzeniem produkcji rolnej. ” ,
 c)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Pomoc, o której mowa w § 2 ust. 1 pkt 2, może być przyznana osobie nieposiadającej kwalifikacji zawodowych, o których mowa w ust. 2a, jeżeli złoży oświadczenie, w którym zobowiąże się do uzupełnienia tych kwalifikacji w okresie 3 lat od dnia zawarcia umowy kredytu bankowego. Oświadczenie o sposobie uzupełnienia kwalifikacji zawodowych w zakresie rolnictwa sporządza się i składa na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej.
-” ,
+Pomoc, o której mowa w § 2 ust. 1 pkt 2, może być przyznana osobie nieposiadającej kwalifikacji zawodowych, o których mowa w ust. 2a, jeżeli złoży oświadczenie, w którym zobowiąże się do uzupełnienia tych kwalifikacji w okresie 3 lat od dnia zawarcia umowy kredytu bankowego. Oświadczenie o sposobie uzupełnienia kwalifikacji zawodowych w zakresie rolnictwa sporządza się i składa na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej. ” ,
 d)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Łączna wysokość pomocy, o której mowa w § 2 ust. 1 pkt 2, nie może przekroczyć 60% kwoty udzielonego kredytu bankowego i nie może być wyższa niż równowartość w złotych kwoty 20 tys. euro, przeliczonej według średniego kursu Narodowego Banku Polskiego ustalonego na dzień udzielenia pomocy.
-” ,
+Łączna wysokość pomocy, o której mowa w § 2 ust. 1 pkt 2, nie może przekroczyć 60% kwoty udzielonego kredytu bankowego i nie może być wyższa niż równowartość w złotych kwoty 20 tys. euro, przeliczonej według średniego kursu Narodowego Banku Polskiego ustalonego na dzień udzielenia pomocy. ” ,
 e)
-ust. 8 otrzymuje brzmienie:
-„
+ust. 8 otrzymuje brzmienie: „
 8.
-Szczegółowy wykaz kierunków studiów, zawodów oraz tytułów kwalifikacyjnych, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych są określone w załączniku nr 3 do rozporządzenia.
-” ;
+Szczegółowy wykaz kierunków studiów, zawodów oraz tytułów kwalifikacyjnych, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych są określone w załączniku nr 3 do rozporządzenia. ” ;
 2)
 w § 5:
 a)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-Średnia roczna produkcja rolna, o której mowa w ust. 2, jest ustalana na podstawie danych rachunkowych lub dokumentów potwierdzających wielkość prowadzonej produkcji rolnej w danym gospodarstwie rolnym lub dziale specjalnym produkcji rolnej, a w przypadku braku takich danych lub dokumentów – na podstawie danych Instytutu Ekonomiki Rolnictwa i Gospodarki Żywnościowej – Państwowego Instytutu Badawczego o średniej wielkości produkcji rolnej, udostępnianych przez ministra właściwego do spraw rozwoju wsi na stronie internetowej urzędu obsługującego tego ministra.
-” ,
+Średnia roczna produkcja rolna, o której mowa w ust. 2, jest ustalana na podstawie danych rachunkowych lub dokumentów potwierdzających wielkość prowadzonej produkcji rolnej w danym gospodarstwie rolnym lub dziale specjalnym produkcji rolnej, a w przypadku braku takich danych lub dokumentów – na podstawie danych Instytutu Ekonomiki Rolnictwa i Gospodarki Żywnościowej – Państwowego Instytutu Badawczego o średniej wielkości produkcji rolnej, udostępnianych przez ministra właściwego do spraw rozwoju wsi na stronie internetowej urzędu obsługującego tego ministra. ” ,
 b)
 w ust. 5 dodaje się zdanie drugie w brzmieniu: „ Protokół oszacowania szkód sporządza się na formularzu udostępnionym na stronie internetowej urzędu obsługującego ministra właściwego do spraw rozwoju wsi. ” ,
 c)
 w ust. 7:
-– pkt 2 i 3 otrzymują brzmienie: „ 2) dokonuje: a) oszacowania szkód, o których mowa w § 2 ust. 1 pkt 3, w terminie do dwóch miesięcy od dnia zgłoszenia przez producenta rolnego powstania tych szkód, nie później jednak niż: – do czasu zbioru plonu głównego danej uprawy albo jej likwidacji i nie wcześniej niż od wschodów upraw albo – w terminie do trzech miesięcy od wystąpienia gradu, deszczu nawalnego, huraganu, pioruna, obsunięcia się ziemi lub lawiny – w przypadku szkód w środku trwałym, albo – w terminie do 12 miesięcy od ustąpienia wody umożliwiającego komisji rozpoczęcie szacowania szkód – w przypadku szkód spowodowanych przez powódź w budynkach, b) dwukrotnie oszacowania szkód spowodowanych przez ujemne skutki przezimowania, przymrozki wiosenne, powódź lub grad w drzewach owocowych: – po raz pierwszy – w terminie do 2 miesięcy od dnia powstania tych szkód, – po raz drugi – nie później niż w terminie do 12 miesięcy od dnia powstania tych szkód; 3) składa protokół oszacowania szkód wojewodzie właściwemu ze względu na miejsce powstania tych szkód w terminie: a) 30 dni od dnia oszacowania szkód, o których mowa w § 2 ust. 1 pkt 3, b) 45 dni od dnia oszacowania szkód – w przypadku protokołów zbiorczych, o których mowa w ust. 6 – z tym że w przypadku szacowania szkód w drzewach owocowych, o którym mowa w pkt 2 lit. b, protokół oszacowania szkód zawiera dane wynikające z oszacowania szkód dokonanego po raz drugi. ” ;
+pkt 2 i 3 otrzymują brzmienie: „
+2)
+dokonuje:
+a)
+oszacowania szkód, o których mowa w § 2 ust. 1 pkt 3, w terminie do dwóch miesięcy od dnia zgłoszenia przez producenta rolnego powstania tych szkód, nie później jednak niż:
+– do czasu zbioru plonu głównego danej uprawy albo jej likwidacji i nie wcześniej niż od wschodów upraw albo
+– w terminie do trzech miesięcy od wystąpienia gradu, deszczu nawalnego, huraganu, pioruna, obsunięcia się ziemi lub lawiny – w przypadku szkód w środku trwałym, albo
+– w terminie do 12 miesięcy od ustąpienia wody umożliwiającego komisji rozpoczęcie szacowania szkód – w przypadku szkód spowodowanych przez powódź w budynkach,
+b)
+dwukrotnie oszacowania szkód spowodowanych przez ujemne skutki przezimowania, przymrozki wiosenne, powódź lub grad w drzewach owocowych:
+– po raz pierwszy – w terminie do 2 miesięcy od dnia powstania tych szkód,
+– po raz drugi – nie później niż w terminie do 12 miesięcy od dnia powstania tych szkód;
 3)
-w § 7 ust. 1 otrzymuje brzmienie:
-„
+składa protokół oszacowania szkód wojewodzie właściwemu ze względu na miejsce powstania tych szkód w terminie:
+a)
+30 dni od dnia oszacowania szkód, o których mowa w § 2 ust. 1 pkt 3,
+b)
+45 dni od dnia oszacowania szkód – w przypadku protokołów zbiorczych, o których mowa w ust. 6 – z tym że w przypadku szacowania szkód w drzewach owocowych, o którym mowa w pkt 2 lit. b, protokół oszacowania szkód zawiera dane wynikające z oszacowania szkód dokonanego po raz drugi. ” ;
+3)
+w § 7 ust. 1 otrzymuje brzmienie: „
 1.
-Kredyty bankowe objęte pomocą, o której mowa w § 3–6, 13g i 13h, są udzielane przez banki w ramach przyznanych tym bankom limitów finansowych.
-” ;
+Kredyty bankowe objęte pomocą, o której mowa w § 3–6, 13g i 13h, są udzielane przez banki w ramach przyznanych tym bankom limitów finansowych. ” ;
 4)
-w § 8 po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+w § 8 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Częściowa spłata kapitału kredytu bankowego, o której mowa w § 4 ust. 1 pkt 1, nie przysługuje do kredytów na zakup użytków rolnych, jeżeli umowa sprzedaży jest zawarta między osobami zaliczanymi do I grupy podatkowej w rozumieniu przepisów o podatku od spadków i darowizn.
-” ;
+Częściowa spłata kapitału kredytu bankowego, o której mowa w § 4 ust. 1 pkt 1, nie przysługuje do kredytów na zakup użytków rolnych, jeżeli umowa sprzedaży jest zawarta między osobami zaliczanymi do I grupy podatkowej w rozumieniu przepisów o podatku od spadków i darowizn. ” ;
 5)
 w § 13:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, dla producentów rolnych, którym został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, w których gospodarstwach rolnych lub działach specjalnych produkcji rolnej powstały szkody w danej uprawie w wysokości co najmniej 70% lub szkody powstały na powierzchni co najmniej 70% upraw w szklarniach i tunelach foliowych, spowodowane wystąpieniem niekorzystnych zjawisk atmosferycznych, o których mowa w § 2 ust. 1 pkt 3.
-” ,
+Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, dla producentów rolnych, którym został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, w których gospodarstwach rolnych lub działach specjalnych produkcji rolnej powstały szkody w danej uprawie w wysokości co najmniej 70% lub szkody powstały na powierzchni co najmniej 70% upraw w szklarniach i tunelach foliowych, spowodowane wystąpieniem niekorzystnych zjawisk atmosferycznych, o których mowa w § 2 ust. 1 pkt 3. ” ,
 b)
 w ust. 6:
-– w pkt 1 lit. a otrzymuje brzmienie: „ a) kopię protokołu oszacowania szkód, sporządzonego przez komisję, o której mowa w § 5 ust. 5, zawierającego informacje o powierzchni uprawy, w której powstały szkody w wysokości co najmniej 70%, lub informacje o powierzchni upraw w szklarniach i tunelach foliowych, na której powstały szkody co najmniej na 70% powierzchni tych upraw, ” ,
-– w pkt 2 lit. a otrzymuje brzmienie: „ a) kopię protokołu oszacowania szkód sporządzonego przez komisję, o której mowa w § 5 ust. 5, zawierającego informacje o powierzchni uprawy, w której powstały szkody w wysokości co najmniej 70%, lub informacje o powierzchni upraw w szklarniach i tunelach foliowych, na której powstały szkody co najmniej na 70% powierzchni tych upraw, ” ,
+w pkt 1 lit. a otrzymuje brzmienie: „
+a)
+kopię protokołu oszacowania szkód, sporządzonego przez komisję, o której mowa w § 5 ust. 5, zawierającego informacje o powierzchni uprawy, w której powstały szkody w wysokości co najmniej 70%, lub informacje o powierzchni upraw w szklarniach i tunelach foliowych, na której powstały szkody co najmniej na 70% powierzchni tych upraw, ” ,
+w pkt 2 lit. a otrzymuje brzmienie: „
+a)
+kopię protokołu oszacowania szkód sporządzonego przez komisję, o której mowa w § 5 ust. 5, zawierającego informacje o powierzchni uprawy, w której powstały szkody w wysokości co najmniej 70%, lub informacje o powierzchni upraw w szklarniach i tunelach foliowych, na której powstały szkody co najmniej na 70% powierzchni tych upraw, ” ,
 c)
-ust. 7 otrzymuje brzmienie:
-„
+ust. 7 otrzymuje brzmienie: „
 7.
-Wysokość pomocy, o której mowa w ust. 1, ustala się jako iloczyn deklarowanej przez producenta rolnego we wniosku, o którym mowa w ust. 4, powierzchni uprawy, w której powstały szkody, oraz stawki pomocy, której wysokość będzie uzależniona od rodzaju uprawy.
-” ;
+Wysokość pomocy, o której mowa w ust. 1, ustala się jako iloczyn deklarowanej przez producenta rolnego we wniosku, o którym mowa w ust. 4, powierzchni uprawy, w której powstały szkody, oraz stawki pomocy, której wysokość będzie uzależniona od rodzaju uprawy. ” ;
 6)
 w § 13e:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-W latach 2015–2018 Agencja udziela corocznie pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który w latach 2015–2018 prowadził, co najmniej przez rok, gospodarstwo w rozumieniu art. 2 pkt 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w którym są utrzymywane zwierzęta gospodarskie z gatunku świnia ( sus scrofa ), położone na obszarze określonym w § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 kwietnia 2015 r. w sprawie wprowadzenia „Programu bioasekuracji mającego na celu zapobieganie szerzeniu się afrykańskiego pomoru świń” na lata 2015–2018 (Dz. U. poz. 517 oraz z 2016 r. poz. 679 i 1153).
-” ,
+W latach 2015–2018 Agencja udziela corocznie pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który w latach 2015–2018 prowadził, co najmniej przez rok, gospodarstwo w rozumieniu art. 2 pkt 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w którym są utrzymywane zwierzęta gospodarskie z gatunku świnia ( sus scrofa ), położone na obszarze określonym w § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 kwietnia 2015 r. w sprawie wprowadzenia „Programu bioasekuracji mającego na celu zapobieganie szerzeniu się afrykańskiego pomoru świń” na lata 2015–2018 (Dz. U. poz. 517 oraz z 2016 r. poz. 679 i 1153). ” ,
 b)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
-Pomoc, o której mowa w ust. 1, jest przyznawana w drodze decyzji kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego, na wniosek tego producenta rolnego złożony na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej.
-” ,
+Pomoc, o której mowa w ust. 1, jest przyznawana w drodze decyzji kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego, na wniosek tego producenta rolnego złożony na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej. ” ,
 c)
-w ust. 8 pkt 1 otrzymuje brzmienie:
-„
+w ust. 8 pkt 1 otrzymuje brzmienie: „
 1)
-faktury lub ich kopie, rachunki wystawione zgodnie z odrębnymi przepisami lub ich kopie lub kopie umów zlecenia lub umów o dzieło, dotyczące poniesionych wydatków wraz z dowodami zapłaty potwierdzającymi poniesienie tych wydatków do dnia zakończenia terminu składania wniosków w danym roku kalendarzowym;
-” ,
+faktury lub ich kopie, rachunki wystawione zgodnie z odrębnymi przepisami lub ich kopie lub kopie umów zlecenia lub umów o dzieło, dotyczące poniesionych wydatków wraz z dowodami zapłaty potwierdzającymi poniesienie tych wydatków do dnia zakończenia terminu składania wniosków w danym roku kalendarzowym; ” ,
 d)
-dodaje się ust. 10 w brzmieniu:
-„
+dodaje się ust. 10 w brzmieniu: „
 10.
-Termin składania wniosków w danym roku kalendarzowym, o których mowa w ust. 6, minister właściwy do spraw rolnictwa ogłasza na stronie internetowej urzędu obsługującego tego ministra najpóźniej 14 dni przed dniem rozpoczęcia terminu składania tych wniosków.
-” ;
+Termin składania wniosków w danym roku kalendarzowym, o których mowa w ust. 6, minister właściwy do spraw rolnictwa ogłasza na stronie internetowej urzędu obsługującego tego ministra najpóźniej 14 dni przed dniem rozpoczęcia terminu składania tych wniosków. ” ;
 7)
-po § 13g dodaje się § 13h i 13i w brzmieniu:
-„
+po § 13g dodaje się § 13h i 13i w brzmieniu: „
 § 13h.
 1.
 W 2016 i 2017 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, którego przychody są niewystarczające na sfinansowanie zobowiązań cywilnoprawnych w okresie od dnia 7 sierpnia 2014 r. do dnia 30 kwietnia 2016 r., które zostały podjęte w związku z prowadzeniem produkcji mleka, świń lub owoców i warzyw, zwanych dalej „zobowiązaniami cywilnoprawnymi”.
@@ -229,8 +220,7 @@ Pożyczka, o której mowa w ust. 2, jest wypłacana w dwóch ratach, przy czym:
 1)
 w 2016 r. – pierwsza rata jest wypłacana w wysokości do 50% kwoty pożyczki;
 2)
-w 2017 r. – druga rata jest wypłacana po udokumentowaniu spłaty nieuregulowanych należności w wysokości środków wypłaconych w ramach pierwszej raty pożyczki; udokumentowania spłaty nieuregulowanych należności w wysokości środków wypłaconych w ramach drugiej raty pożyczki pożyczkobiorca dokonuje w okresie miesiąca od dnia wypłacenia tej raty.
-” ;
+w 2017 r. – druga rata jest wypłacana po udokumentowaniu spłaty nieuregulowanych należności w wysokości środków wypłaconych w ramach pierwszej raty pożyczki; udokumentowania spłaty nieuregulowanych należności w wysokości środków wypłaconych w ramach drugiej raty pożyczki pożyczkobiorca dokonuje w okresie miesiąca od dnia wypłacenia tej raty. ” ;
 8)
 załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
@@ -238,7 +228,7 @@ Do umów o udzielenie kredytu bankowego z zastosowaniem pomocy, o której mowa w
 § 3.
 Pomoc, o której mowa w § 13h i 13i, może być udzielana od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tych przepisach.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 2 listopada 2016 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 2 listopada 2016 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089 oraz z 2016 r. poz. 170.
 Załącznik – Szczegółowy wykaz kierunków studiów, zawodów oraz tytułów kwalifikacyjnych, a także rodzaje dokumentów potwierdzających posiadanie kwalifikacji zawodowych
 1.
 Kierunkami studiów pierwszego, drugiego stopnia oraz jednolitych studiów magisterskich, których ukończenie uznaje się za posiadanie kwalifikacji zawodowych, są:
@@ -253,8 +243,7 @@ weterynaria – w przypadku gdy w gospodarstwie są prowadzone chów lub hodowla
 5)
 technika rolnicza i leśna;
 6)
-zootechnika.
-W przypadku ukończenia studiów na kierunku innym niż wymienione w pkt 1–6 za kwalifikacje zawodowe uznaje się kierunki studiów związane z kształceniem w zakresie rolnictwa, w ramach których zakres kształcenia albo standardy kształcenia obejmują treści związane z działalnością w zakresie rolnictwa w wymiarze łącznym co najmniej 200 godzin lub co najmniej 30 punktów uzyskanych w ramach Europejskiego Systemu Transferu i Akumulacji Punktów ( European Credit Transfer and Accumulation System ).
+zootechnika. W przypadku ukończenia studiów na kierunku innym niż wymienione w pkt 1–6 za kwalifikacje zawodowe uznaje się kierunki studiów związane z kształceniem w zakresie rolnictwa, w ramach których zakres kształcenia albo standardy kształcenia obejmują treści związane z działalnością w zakresie rolnictwa w wymiarze łącznym co najmniej 200 godzin lub co najmniej 30 punktów uzyskanych w ramach Europejskiego Systemu Transferu i Akumulacji Punktów ( European Credit Transfer and Accumulation System ).
 2.
 Wykaz zawodów rolniczych na poziomie kwalifikacji technika:
 1)

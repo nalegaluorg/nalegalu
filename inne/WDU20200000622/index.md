@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 7 kwietnia 2020 r. w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych
+# Rozporządzenie Ministra Finansówz dnia 7 kwietnia 2020 r. w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-07 |
 | Data wydania | 2020-04-07 |
-| Wejście w życie | 2020-04-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000622) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/622/text.pdf) |
 
@@ -49,7 +48,7 @@ ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekur
 9)
 ustawie z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. z 2019 r. poz. 2138);
 10)
-ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2019 r. poz. 795, z późn. zm.);
+ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2019 r. poz. 795, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1495, 1655, 1798, 2020 i 2217.);
 11)
 ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. poz. 2215, z 2019 r. poz. 1074 i 1572 oraz z 2020 r. poz. 568);
 12)
@@ -115,8 +114,7 @@ zawartości przekazywanych informacji (S.01.01), informacji podstawowych – inf
 b)
 szczegółowego wykazu aktywów (S.06.02), przedsiębiorstw zbiorowego inwestowania – metody opartej na ocenie ze względu na pierwotne ryzyko (S.06.03), rezerw techniczno-ubezpieczeniowych dla ubezpieczeń na życie i ubezpieczeń zdrowotnych o charakterze ubezpieczeń na życie (S.12.01) i rezerw techniczno-ubezpieczeniowych dla ubezpieczeń innych niż ubezpieczenia na życie (S.17.01), które nie zostały przekazane w ramach formularzy sprawozdawczych zawierających dane ilościowe za IV kwartał 2019 r. z uwagi na zastosowane zwolnienia,
 2)
-w zakresie sprawozdania o wypłacalności i kondycji finansowej odnośnie do formularzy dotyczących bilansu (S.02.01), wpływu środków dotyczących gwarancji długoterminowych (S.22.01), środków własnych (S.23.01) i wyliczenia kapitałowego wymogu wypłacalności (S.25.01)
-ten termin przedłuża się o 2 tygodnie.
+w zakresie sprawozdania o wypłacalności i kondycji finansowej odnośnie do formularzy dotyczących bilansu (S.02.01), wpływu środków dotyczących gwarancji długoterminowych (S.22.01), środków własnych (S.23.01) i wyliczenia kapitałowego wymogu wypłacalności (S.25.01) – ten termin przedłuża się o 2 tygodnie.
 4.
 Termin określony w art. 335 ust. 8 ustawy, o której mowa w ust. 1, w zakresie danych i informacji za I kwartał 2020 r. przedłuża się o tydzień, z wyłączeniem formularza sprawozdawczego dotyczącego instrumentów pochodnych – transakcji (S.08.02), w przypadku którego ten termin przedłuża się o 4 tygodnie.
 5.
@@ -124,8 +122,7 @@ Termin określony w art. 410 ust. 5 ustawy, o której mowa w ust. 1, w zakresie 
 1)
 rocznych formularzy sprawozdawczych zawierających dane ilościowe dotyczących zawartości przekazywanych informacji (S.01.01), informacji podstawowych – informacji ogólnych (S.01.02), bilansu (S.02.01), wpływu środków dotyczących gwarancji długoterminowych (S.22.01), środków własnych (S.23.01), wyliczenia kapitałowego wymogu wypłacalności (S.25.01 – S.25.03), wykazu podmiotów objętych zakresem nadzoru nad grupą (S.32.01),
 2)
-sprawozdania o wypłacalności i kondycji finansowej odnośnie do formularzy dotyczących bilansu (S.02.01), wpływu środków dotyczących gwarancji długoterminowych (S.22.01), środków własnych (S.23.01) i wyliczenia kapitałowego wymogu wypłacalności (S.25.01)
-ten termin przedłuża się o 2 tygodnie.
+sprawozdania o wypłacalności i kondycji finansowej odnośnie do formularzy dotyczących bilansu (S.02.01), wpływu środków dotyczących gwarancji długoterminowych (S.22.01), środków własnych (S.23.01) i wyliczenia kapitałowego wymogu wypłacalności (S.25.01) – ten termin przedłuża się o 2 tygodnie.
 6.
 Termin określony w art. 410 ust. 6 ustawy, o której mowa w ust. 1, w zakresie informacji za I kwartał 2020 r. przedłuża się o tydzień, z wyłączeniem formularza sprawozdawczego dotyczącego instrumentów pochodnych – transakcji (S.08.02), w przypadku którego ten termin przedłuża się o 4 tygodnie.
 7.
@@ -205,6 +202,5 @@ Terminy określone w § 24 i § 26 rozporządzenia, o którym mowa w ust. 1, na 
 § 25.
 Termin określony w § 33 ust. 2 rozporządzenia Ministra Finansów z dnia 19 marca 2020 r. w sprawie szczególnych zasad rachunkowości oraz sprawozdań z działalności Ubezpieczeniowego Funduszu Gwarancyjnego, w zakresie sprawozdania z działalności Ubezpieczeniowego Funduszu Gwarancyjnego przekazywanego za I kwartał 2020 r. przedłuża się do dnia 31 lipca 2020 r.
 § 26.
-Rozporządzenie wchodzi w życie z dniem 7 kwietnia 2020 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1495, 1655, 1798, 2020 i 2217.
+Rozporządzenie wchodzi w życie z dniem 7 kwietnia 2020 r. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1495, 1655, 1798, 2020 i 2217.
 

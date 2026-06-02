@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-08-24 |
 | Data wydania | 2007-10-01 |
-| Wejście w życie | 2007-11-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071811289) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1289/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. Nr 50, poz. 580, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. Nr 50, poz. 580, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 56, poz. 579, z 2002 r. Nr 74, poz. 676 i Nr 197, poz. 1661, z 2003 r. Nr 137, poz. 1302, z 2005 r. Nr 183, poz. 1537, z 2006 r. Nr 104, poz. 708 i 711 i Nr 157, poz. 1119 oraz z 2007 r. Nr 136, poz. 957.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -50,5 +49,5 @@ source: "eli-html"
 
 - **4)** nazwisko i imię oraz podpis osoby upoważnionej do jej wydania; ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 56, poz. 579, z 2002 r. Nr 74, poz. 676 i Nr 197, poz. 1661, z 2003 r. Nr 137, poz. 1302, z 2005 r. Nr 183, poz. 1537, z 2006 r. Nr 104, poz. 708 i 711 i Nr 157, poz. 1119 oraz z 2007 r. Nr 136, poz. 957.
 

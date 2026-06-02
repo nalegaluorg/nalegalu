@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 24 sierpnia 2004 r. w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa (Dz. U. Nr 207, poz. 2107), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 18 czerwca 2013 r. zmieniającym rozporządzenie w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa (Dz. U. poz. 790).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 18 czerwca 2013 r. zmieniającego rozporządzenie w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa (Dz. U. poz. 790), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 18 czerwca 2013 r. zmieniającego rozporządzenie w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa (Dz. U. poz. 790), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 24 sierpnia 2004 r. w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa
-Na podstawie art. 91 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2014 r. poz. 518, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 91 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2014 r. poz. 518, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 659, 805, 822 i 906.) zarządza się, co następuje:
 § 1.
 Za niezbędne na cele obronności i bezpieczeństwa państwa uznaje się:
 1)
@@ -57,10 +55,10 @@ na nabrzeża, porty wojenne oraz pod urządzenia portowe Marynarki Wojennej i St
 g)
 na porty i przystanie żeglugi śródlądowej, którym odrębne przepisy nadają znaczenie obronne,
 ga)
-na porty morskie o podstawowym znaczeniu dla gospodarki narodowej, w części służącej wykonywaniu zadań na rzecz obronności i bezpieczeństwa państwa przez podmioty zarządzające, o których mowa w przepisach o portach i przystaniach morskich,
+Dodana przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 18 czerwca 2013 r. zmieniającego rozporządzenie w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa (Dz. U. poz. 790), które weszło w życie z dniem 24 lipca 2013 r. na porty morskie o podstawowym znaczeniu dla gospodarki narodowej, w części służącej wykonywaniu zadań na rzecz obronności i bezpieczeństwa państwa przez podmioty zarządzające, o których mowa w przepisach o portach i przystaniach morskich,
 h)
 przez przedsiębiorstwa państwowe oraz jednostki i ośrodki badawczo-rozwojowe, dla których Minister Obrony Narodowej lub minister właściwy do spraw wewnętrznych jest organem założycielskim, realizujące zadania na rzecz obronności i bezpieczeństwa państwa,
-i)
+iW brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 pod obiekty przeznaczone na magazyny rezerw strategicznych,
 j)
 na siedziby sądów, prokuratur oraz zakładów poprawczych,
@@ -81,5 +79,5 @@ nieruchomości pod wojskowymi bocznicami kolejowymi;
 4)
 nieruchomości przeznaczone w miejscowym planie zagospodarowania przestrzennego na cele, o których mowa w pkt 1–3.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 22 września 2004 r.
+Rozporządzenie wchodzi w życie z dniem 22 września 2004 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 13 stycznia 1998 r. w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa (Dz. U. Nr 9, poz. 31), które utraciło moc z dniem wejścia w życie ustawy z dnia 28 listopada 2003 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw (Dz. U. z 2004 r. Nr 141, poz. 1492). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 659, 805, 822 i 906. 2) Dodana przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 18 czerwca 2013 r. zmieniającego rozporządzenie w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa (Dz. U. poz. 790), które weszło w życie z dniem 24 lipca 2013 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 13 stycznia 1998 r. w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa (Dz. U. Nr 9, poz. 31), które utraciło moc z dniem wejścia w życie ustawy z dnia 28 listopada 2003 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw (Dz. U. z 2004 r. Nr 141, poz. 1492).
 

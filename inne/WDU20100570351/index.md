@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-02-12 |
 | Data wydania | 2010-04-09 |
-| Wejście w życie | 2010-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100570351) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/351/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. Nr 187, poz. 1381, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. Nr 187, poz. 1381, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 52, poz. 304 i Nr 214, poz. 1349 oraz z 2009 r. Nr 157, poz. 1241 i Nr 219, poz. 1706.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 - **5)** zasady uruchamiania zaliczek, o których mowa w art. 38 ust. 2 i art. 56 rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwanych dalej „zaliczkami”, w ramach niektórych działań objętych programem rozwoju obszarów wiejskich. ” ;
@@ -39,7 +38,7 @@ source: "eli-html"
 
 2. Środki, o których mowa w ust. 1, są wypłacane beneficjentowi:
 
-- **1)** jeżeli beneficjent wnioskował o ich wypłatę, składając wniosek o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.), zwanej dalej „ustawą PROW”;
+- **1)** jeżeli beneficjent wnioskował o ich wypłatę, składając wniosek o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655 oraz z 2009 r. Nr 20, poz. 105.), zwanej dalej „ustawą PROW”;
 - **2)** na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW;
 - **3)** we wnioskowanej wysokości, nie wyższej od wysokości udziału krajowych środków publicznych pochodzących z budżetu państwa przeznaczonych na współfinansowanie wydatków realizowanych z EFRROW na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW, i nie wyższej niż 25% kwoty pomocy przyznanej na podstawie umowy, o której mowa w art. 22 ust. 1 ustawy PROW.
 
@@ -48,7 +47,7 @@ source: "eli-html"
 4. Środki, o których mowa w ust. 1, pobrane:
 
 - **1)** nienależnie lub
-- **2)** w nadmiernej wysokości podlegają zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia doręczenia beneficjentowi wezwania do ich zwrotu.
+- **2)** w nadmiernej wysokości – podlegają zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia doręczenia beneficjentowi wezwania do ich zwrotu.
 
 5. Zwrotowi, o którym mowa w ust. 3 i 4, podlega odpowiednio ta część środków, która została wykorzystana niezgodnie z przeznaczeniem albo pobrana nienależnie lub w nadmiernej wysokości.
 
@@ -83,7 +82,7 @@ source: "eli-html"
 
 6. Jeżeli wniosek, o którym mowa w ust. 1, nie spełnia innych wymogów formalnych, agencja płatnicza realizująca płatności z EFRROW wzywa beneficjenta do usunięcia braków, w terminie 7 dni od dnia doręczenia wezwania, pouczając go, że nieusunięcie tych braków spowoduje pozostawienie wniosku bez rozpatrzenia oraz że w takim przypadku służy mu skarga do sądu administracyjnego.
 
-7. W przypadku pozostawienia wniosku, o którym mowa w ust. 1, bez rozpatrzenia albo odmowy udzielenia środków na wyprzedzające finansowanie, o którym mowa w ust. 1, beneficjentowi służy skarga do sądu administracyjnego na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.).
+7. W przypadku pozostawienia wniosku, o którym mowa w ust. 1, bez rozpatrzenia albo odmowy udzielenia środków na wyprzedzające finansowanie, o którym mowa w ust. 1, beneficjentowi służy skarga do sądu administracyjnego na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650, z 2008 r. Nr 190, poz. 1171 i Nr 216, poz. 1367, z 2009 r. Nr 53, poz. 433, Nr 144, poz. 1179, Nr 178, poz. 1375, Nr 216, poz. 1676 i Nr 221, poz. 1736 oraz z 2010 r. Nr 36, poz. 196.).
 
 8. Agencja płatnicza realizująca płatności z EFRROW informuje beneficjenta, w formie pisemnej, w terminie 30 dni od dnia złożenia wniosku, o terminie zawarcia umowy albo o przyczynach odmowy udzielenia środków na wyprzedzające finansowanie, o którym mowa w ust. 1.
 
@@ -120,7 +119,7 @@ source: "eli-html"
 2. Zaliczka pobrana:
 
 - **1)** nienależnie lub
-- **2)** w nadmiernej wysokości podlega zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia doręczenia beneficjentowi wezwania do ich zwrotu.
+- **2)** w nadmiernej wysokości – podlega zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia doręczenia beneficjentowi wezwania do ich zwrotu.
 
 3. Zwrotowi, o którym mowa w ust. 1 i 2, podlega odpowiednio ta część środków, która została wykorzystana niezgodnie z przeznaczeniem albo pobrana nienależnie lub w nadmiernej wysokości.
 
@@ -130,7 +129,7 @@ source: "eli-html"
 
 **Art. 3.**
 
-1. Beneficjenci, o których mowa w art. 10i ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, którzy przed dniem wejścia w życie niniejszej ustawy złożyli wniosek o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.), zwanej dalej „ustawą PROW”, mogą otrzymać zaliczki, o których mowa w art. 38 ust. 2 i art. 56 rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwane dalej „zaliczkami”, na zasadach określonych w ust. 2–10.
+1. Beneficjenci, o których mowa w art. 10i ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, którzy przed dniem wejścia w życie niniejszej ustawy złożyli wniosek o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655 oraz z 2009 r. Nr 20, poz. 105.), zwanej dalej „ustawą PROW”, mogą otrzymać zaliczki, o których mowa w art. 38 ust. 2 i art. 56 rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwane dalej „zaliczkami”, na zasadach określonych w ust. 2–10.
 
 2. Zaliczka jest wypłacana beneficjentowi:
 
@@ -152,7 +151,7 @@ source: "eli-html"
 
 6. Jeżeli wniosek, o którym mowa w ust. 2 pkt 1, nie spełnia innych wymogów formalnych, agencja płatnicza realizująca płatności z EFRROW wzywa beneficjenta do usunięcia braków, w terminie 7 dni od dnia doręczenia wezwania, pouczając go, że nieusunięcie tych braków spowoduje pozostawienie wniosku bez rozpatrzenia oraz że w takim przypadku służy mu skarga do sądu administracyjnego.
 
-7. W przypadku pozostawienia wniosku, o którym mowa w ust. 2 pkt 1, bez rozpatrzenia albo odmowy udzielenia zaliczki, beneficjentowi służy skarga do sądu administracyjnego na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.).
+7. W przypadku pozostawienia wniosku, o którym mowa w ust. 2 pkt 1, bez rozpatrzenia albo odmowy udzielenia zaliczki, beneficjentowi służy skarga do sądu administracyjnego na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650, z 2008 r. Nr 190, poz. 1171 i Nr 216, poz. 1367, z 2009 r. Nr 53, poz. 433, Nr 144, poz. 1179, Nr 178, poz. 1375, Nr 216, poz. 1676 i Nr 221, poz. 1736 oraz z 2010 r. Nr 36, poz. 196.).
 
 8. Agencja płatnicza realizująca płatności z EFRROW informuje beneficjenta, w formie pisemnej, w terminie 30 dni od dnia złożenia wniosku, o terminie zawarcia umowy zmieniającej umowę, o której mowa w art. 22 ust. 1 ustawy PROW, albo o przyczynach odmowy udzielenia zaliczki.
 
@@ -163,5 +162,5 @@ source: "eli-html"
 - **1)** otrzymał środki na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tej operacji lub
 - **2)** ubiega się o wypłatę środków, o których mowa w pkt 1.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 52, poz. 304 i Nr 214, poz. 1349 oraz z 2009 r. Nr 157, poz. 1241 i Nr 219, poz. 1706. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655 oraz z 2009 r. Nr 20, poz. 105. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650, z 2008 r. Nr 190, poz. 1171 i Nr 216, poz. 1367, z 2009 r. Nr 53, poz. 433, Nr 144, poz. 1179, Nr 178, poz. 1375, Nr 216, poz. 1676 i Nr 221, poz. 1736 oraz z 2010 r. Nr 36, poz. 196. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655 oraz z 2009 r. Nr 20, poz. 105. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650, z 2008 r. Nr 190, poz. 1171 i Nr 216, poz. 1367, z 2009 r. Nr 53, poz. 433, Nr 144, poz. 1179, Nr 178, poz. 1375, Nr 216, poz. 1676 i Nr 221, poz. 1736 oraz z 2010 r. Nr 36, poz. 196.
 

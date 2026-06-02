@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 14 września 2018 r. w sprawie minimalnych wymagań organizacyjno-technicznych dla Zintegrowanego Systemu Monitorowania Obrotu Produktami Leczniczymi
+# Rozporządzenie Ministra Zdrowiaz dnia 14 września 2018 r. w sprawie minimalnych wymagań organizacyjno-technicznych dla Zintegrowanego Systemu Monitorowania Obrotu Produktami Leczniczymi Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-14 |
 | Data wydania | 2018-09-25 |
-| Wejście w życie | 2018-10-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001821) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1821/text.pdf) |
 
@@ -35,12 +34,11 @@ minimalną funkcjonalność Zintegrowanego Systemu Monitorowania Obrotu Produkta
 2)
 minimalne warunki organizacyjno-techniczne oraz strukturę dokumentów elektronicznych, umożliwiających przekazywanie danych:
 a)
-określonych w przepisach ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211, z późn. zm.),
+określonych w przepisach ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637 i 1669.),
 b)
 w zakresie obrotu produktami leczniczymi – przetwarzanych w Systemie Informacji Medycznej,
 c)
-zawartych w wykazach, rejestrach i ewidencjach obejmujących produkty lecznicze dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej
-drogą elektroniczną.
+zawartych w wykazach, rejestrach i ewidencjach obejmujących produkty lecznicze dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej – drogą elektroniczną.
 § 2.
 1.
 System w zakresie minimalnej funkcjonalności zapewnia usługi:
@@ -59,6 +57,5 @@ Apteka ogólnodostępna i punkt apteczny mogą opatrywać dokument elektroniczny
 § 3.
 Minimalne warunki organizacyjno-techniczne umożliwiające przekazywanie danych, o których mowa w § 2 ust. 1 pkt 1, przetwarzanych w systemie są zgodne z wymaganiami określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637 i 1669. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 sierpnia 2013 r. w sprawie minimalnych wymagań dla niektórych systemów teleinformatycznych funkcjonujących w ramach systemu informacji w ochronie zdrowia (Dz. U. poz. 999).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 sierpnia 2013 r. w sprawie minimalnych wymagań dla niektórych systemów teleinformatycznych funkcjonujących w ramach systemu informacji w ochronie zdrowia (Dz. U. poz. 999). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637 i 1669. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 sierpnia 2013 r. w sprawie minimalnych wymagań dla niektórych systemów teleinformatycznych funkcjonujących w ramach systemu informacji w ochronie zdrowia (Dz. U. poz. 999).
 

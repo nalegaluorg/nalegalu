@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 września 2021 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw
+# Ustawa z dnia 17 września 2021 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne oraz ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-17 |
 | Data wydania | 2021-10-15 |
-| Wejście w życie | 2021-10-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1873/text.pdf) |
 
@@ -115,11 +114,17 @@ source: "eli-html"
 9. Sprzedawca, o którym mowa w art. 40 ust. 1a:
 
 - **1)** informuje spółdzielnię energetyczną oraz jej członków o ilości rozliczonej energii, o której mowa w ust. 3, zgodnie z okresami rozliczeniowymi przyjętymi w umowie kompleksowej;
-- **2)** zapewnia funkcjonowanie systemu teleinformatycznego, za pomocą którego udostępnia: spółdzielni energetycznej – dane pomiarowe, o których mowa w ust. 5, z podziałem na poszczególnych jej członków i szczegółowe informacje dotyczące rozliczenia, o którym mowa w ust. 6, poszczególnym członkom spółdzielni energetycznej – dane pomiarowe, o których mowa w ust. 5, dotyczące tych członków. ” , w ust. 14: – pkt 2 otrzymuje brzmienie: „ 2) szczegółowy sposób dokonywania rozliczenia, o którym mowa w ust. 6, oraz sposób wyliczenia opłat, o których mowa w ust. 7, z uwzględnieniem cen i stawek opłat w poszczególnych grupach taryfowych stosowanych wobec spółdzielni energetycznej i poszczególnych jej członków, ” , – pkt 3 otrzymuje brzmienie: „ 3) szczegółowy zakres danych pomiarowych, o których mowa w ust. 5: a) przekazywanych między przedsiębiorstwami energetycznymi oraz sposób przekazywania tych danych, b) udostępnianych przez sprzedawcę, o którym mowa w art. 40 ust. 1a, spółdzielni energetycznej i poszczególnym członkom tej spółdzielni oraz sposób udostępniania tych danych w systemie teleinformatycznym, ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) szczegółowy zakres informacji dotyczących rozliczenia, o którym mowa w ust. 6, ” ;
+- **2)** zapewnia funkcjonowanie systemu teleinformatycznego, za pomocą którego udostępnia: spółdzielni energetycznej – dane pomiarowe, o których mowa w ust. 5, z podziałem na poszczególnych jej członków i szczegółowe informacje dotyczące rozliczenia, o którym mowa w ust. 6, poszczególnym członkom spółdzielni energetycznej – dane pomiarowe, o których mowa w ust. 5, dotyczące tych członków. ” , w ust. 14: pkt 2 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **f)**
 
+- **2)** szczegółowy sposób dokonywania rozliczenia, o którym mowa w ust. 6, oraz sposób wyliczenia opłat, o których mowa w ust. 7, z uwzględnieniem cen i stawek opłat w poszczególnych grupach taryfowych stosowanych wobec spółdzielni energetycznej i poszczególnych jej członków, ” , pkt 3 otrzymuje brzmienie: „
+- **3)** szczegółowy zakres danych pomiarowych, o których mowa w ust. 5: przekazywanych między przedsiębiorstwami energetycznymi oraz sposób przekazywania tych danych, udostępnianych przez sprzedawcę, o którym mowa w art. 40 ust. 1a, spółdzielni energetycznej i poszczególnym członkom tej spółdzielni oraz sposób udostępniania tych danych w systemie teleinformatycznym, ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **3a)** szczegółowy zakres informacji dotyczących rozliczenia, o którym mowa w ust. 6, ” ;
 - **17)** w art. 38g w ust. 3 w pkt 1 w treści oświadczenia w pkt 2 skreśla się wyrazy „(Dz. U. z 2021 r. poz. 610)”;
 - **18)** w art. 41 w ust. 4 wyrazy „31 grudnia 2035 r.” zastępuje się wyrazami „30 czerwca 2047 r.”;
 - **19)** w art. 70a: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wytwórca energii elektrycznej z odnawialnych źródeł energii w instalacji odnawialnego źródła energii o łącznej mocy zainstalowanej elektrycznej mniejszej niż 500 kW, posiadającej wyodrębniony zespół urządzeń służących do wyprowadzania mocy wyłącznie z tej instalacji do sieci elektroenergetycznej dystrybucyjnej, będący przedsiębiorstwem energetycznym lub wytwórcą, o którym mowa w art. 19 ust. 1, wykorzystujący do wytworzenia energii elektrycznej wyłącznie: ” , w ust. 4 skreśla się wyrazy „, z wyłączeniem wytwórców w instalacjach, o których mowa w art. 70f ust. 2”;
@@ -152,7 +157,7 @@ source: "eli-html"
 - **2)** biogaz pozyskany ze składowisk odpadów, albo
 - **3)** biogaz pozyskany z oczyszczalni ścieków, albo
 - **4)** biogaz inny niż określony w pkt 1–3, albo
-- **5)** hydroenergię dla której wydawano świadectwa pochodzenia przez minimum 5 lat, okres, o którym mowa w ust. 1, nie może przekroczyć kolejnych 17 lat, liczonych od pierwszego dnia wytworzenia energii elektrycznej z odnawialnych źródeł energii, potwierdzonego wydanym świadectwem pochodzenia dla tej instalacji nie wcześniej jednak niż od dnia 1 października 2005 r. ” ;
+- **5)** hydroenergię – dla której wydawano świadectwa pochodzenia przez minimum 5 lat, okres, o którym mowa w ust. 1, nie może przekroczyć kolejnych 17 lat, liczonych od pierwszego dnia wytworzenia energii elektrycznej z odnawialnych źródeł energii, potwierdzonego wydanym świadectwem pochodzenia dla tej instalacji nie wcześniej jednak niż od dnia 1 października 2005 r. ” ;
 - **23)** w art. 72 uchyla się ust. 2–4;
 - **24)** w art. 72a: w ust. 1 wyrazy „31 grudnia 2021 r.” zastępuje się wyrazami „30 czerwca 2027 r.”, w ust. 7 wyrazy „30 czerwca 2039 r.” zastępuje się wyrazami „30 czerwca 2047 r.”;
     - **a)**
@@ -192,7 +197,7 @@ source: "eli-html"
 5. Wytwórcy energii elektrycznej z odnawialnych źródeł energii wytworzonej zgodnie z art. 73 ust. 2 w instalacji odnawialnego źródła energii o łącznej mocy zainstalowanej elektrycznej nie mniejszej niż 500 kW, a także wytwórcy, o którym mowa w art. 70b ust. 9 pkt 2, który:
 
 - **1)** wygrał aukcję rozstrzygniętą nie później niż w terminie do dnia 31 grudnia 2021 r., a po wydaniu pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej z rynkiem wewnętrznym – wygrał aukcję rozstrzygniętą nie później niż w terminie do dnia 31 grudnia 2027 r., albo
-- **2)** uzyskał zaświadczenie Prezesa URE o możliwości sprzedaży niewykorzystanej energii elektrycznej, o którym mowa w art. 70b ust. 8, nie później niż w terminie do dnia 30 czerwca 2024 r., a po wydaniu pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej z rynkiem wewnętrznym, nie później niż w terminie do dnia 31 grudnia 2027 r. przysługuje prawo do pokrycia ujemnego salda, o którym mowa w art. 93 ust. 2 pkt 3. ” , w ust. 6: – w pkt 1 wyrazy „30 czerwca 2039 r.” zastępuje się wyrazami „30 czerwca 2047 r.”, – w pkt 3 wyrazy „31 grudnia 2040 r.” zastępuje się wyrazami „30 czerwca 2047 r.”, ust. 6a otrzymuje brzmienie: „
+- **2)** uzyskał zaświadczenie Prezesa URE o możliwości sprzedaży niewykorzystanej energii elektrycznej, o którym mowa w art. 70b ust. 8, nie później niż w terminie do dnia 30 czerwca 2024 r., a po wydaniu pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej z rynkiem wewnętrznym, nie później niż w terminie do dnia 31 grudnia 2027 r. – przysługuje prawo do pokrycia ujemnego salda, o którym mowa w art. 93 ust. 2 pkt 3. ” , w ust. 6: – w pkt 1 wyrazy „30 czerwca 2039 r.” zastępuje się wyrazami „30 czerwca 2047 r.”, – w pkt 3 wyrazy „31 grudnia 2040 r.” zastępuje się wyrazami „30 czerwca 2047 r.”, ust. 6a otrzymuje brzmienie: „
     - **c)**
     - **d)**
 
@@ -315,7 +320,7 @@ source: "eli-html"
 **Art. 7.** Postępowania o udzielenie, zmianę lub cofnięcie:
 
 - **1)** promesy koncesji,
-- **2)** koncesji na wytwarzanie energii elektrycznej w instalacji odnawialnego źródła energii, która z dniem wejścia w życie niniejszej ustawy staje się małą instalacją, o której mowa w art. 2 pkt 18 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, umarza się.
+- **2)** koncesji – na wytwarzanie energii elektrycznej w instalacji odnawialnego źródła energii, która z dniem wejścia w życie niniejszej ustawy staje się małą instalacją, o której mowa w art. 2 pkt 18 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, umarza się.
 
 **Art. 8.** Przepis art. 22 ust. 1 pkt 4 ustawy zmienianej w art. 1 stosuje się po raz pierwszy do sprawozdań składanych za półrocze następujące po półroczu, w którym niniejsza ustawa weszła w życie.
 
@@ -362,7 +367,7 @@ source: "eli-html"
 
 **Art. 14.**
 
-1. Pomoc publiczna udzielana w 2021 r. w wyniku aukcji dla dedykowanych instalacji, o których mowa w art. 77 ust. 5 pkt 24 i 25 ustawy zmienianej w art. 1, jest udzielana zgodnie z art. 42 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.).
+1. Pomoc publiczna udzielana w 2021 r. w wyniku aukcji dla dedykowanych instalacji, o których mowa w art. 77 ust. 5 pkt 24 i 25 ustawy zmienianej w art. 1, jest udzielana zgodnie z art. 42 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3..
 
 2. Pomoc, o której mowa w ust. 1, nie może zostać udzielona w przypadkach, o których w mowa w art. 1 ust. 2 lit. c i d oraz ust. 3 i 5 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu.
 
@@ -392,6 +397,6 @@ source: "eli-html"
 
 - **1)** art. 1 pkt 4 lit. b-d i pkt 16 lit. b-f, które wchodzą w życie z dniem 1 stycznia 2022 r.;
 - **2)** art. 1 pkt 6, który wchodzi w życie z dniem 1 lutego 2022 r.;
-- **3)** art. 1 pkt 33 lit. c i art. 15, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
+- **3)** art. 1 pkt 33 lit. c i art. 15, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne oraz ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3.
 
 

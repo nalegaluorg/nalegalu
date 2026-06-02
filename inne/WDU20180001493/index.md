@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 27 lipca 2018 r. w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze”
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 27 lipca 2018 r. w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze” Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-27 |
 | Data wydania | 2018-08-06 |
-| Wejście w życie | 2018-08-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1493/text.pdf) |
 
@@ -56,7 +55,7 @@ działania i przypadki, w których następcy prawnemu beneficjenta albo nabywcy 
 2.
 Pomoc finansową na realizację operacji w ramach Priorytetu 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zwaną dalej „pomocą”, przyznaje się na realizację operacji w ramach następujących działań:
 1)
-wsparcie na rzecz opracowywania i wdrażania środków ochrony oraz współpracy regionalnej, o których mowa w art. 37 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 508/2014”;
+wsparcie na rzecz opracowywania i wdrażania środków ochrony oraz współpracy regionalnej, o których mowa w art. 37 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22 i Dz. Urz. UE L 256 z 04.10.2017, str. 1.), zwanego dalej „rozporządzeniem nr 508/2014”;
 2)
 zmniejszanie oddziaływania rybołówstwa na środowisko morskie i dostosowanie połowów do ochrony gatunków, o których mowa w art. 38 rozporządzenia nr 508/2014, zwanego dalej „zmniejszaniem oddziaływania rybołówstwa na środowisko morskie i dostosowaniem połowów do ochrony gatunków”;
 3)
@@ -126,8 +125,7 @@ na zarybianie, w tym:
 a)
 nabycie materiału zarybieniowego lub jego produkcję,
 b)
-transport organizmów wodnych do miejsca, w którym zostaną wypuszczone
-w przypadku gdy zarybianie jest przewidziane w przepisach Unii Europejskiej jako środek ochronny, zgodnie z art. 11 lit. f rozporządzenia nr 508/2014;
+transport organizmów wodnych do miejsca, w którym zostaną wypuszczone – w przypadku gdy zarybianie jest przewidziane w przepisach Unii Europejskiej jako środek ochronny, zgodnie z art. 11 lit. f rozporządzenia nr 508/2014;
 2)
 po uzyskaniu pozytywnej opinii w zakresie wspólnego interesu użytkowników wód;
 3)
@@ -167,8 +165,7 @@ Pomoc na realizację operacji w ramach działania zmniejszanie oddziaływania ry
 1)
 armatorowi statku rybackiego, przy użyciu którego jest wykonywane rybołówstwo komercyjne – na działania, o których mowa w art. 38 ust. 1 rozporządzenia nr 508/2014,
 2)
-posiadaczowi rybackich narzędzi i urządzeń połowowych używanych do połowu ryb w obwodzie rybackim zgodnie z przepisami o rybactwie śródlądowym – na działania, o których mowa w art. 38 ust. 1 lit. a i c rozporządzenia nr 508/2014
-zgodnie z warunkami, o których mowa w art. 38 ust. 3 rozporządzenia nr 508/2014.
+posiadaczowi rybackich narzędzi i urządzeń połowowych używanych do połowu ryb w obwodzie rybackim zgodnie z przepisami o rybactwie śródlądowym – na działania, o których mowa w art. 38 ust. 1 lit. a i c rozporządzenia nr 508/2014 – zgodnie z warunkami, o których mowa w art. 38 ust. 3 rozporządzenia nr 508/2014.
 § 5.
 Pomoc na realizację operacji w ramach działania zmniejszanie oddziaływania rybołówstwa na środowisko morskie i dostosowanie połowów do ochrony gatunków przyznaje się w formie zwrotu poniesionych kosztów kwalifikowalnych w wysokości do:
 1)
@@ -285,8 +282,7 @@ Pomoc na realizację operacji w ramach działania ochrona i odbudowa morskiej r�
 1)
 uznanej organizacji producentów ryb lub uznanemu związkowi organizacji producentów ryb, lub organizacji międzybranżowej, w rozumieniu ustawy z dnia 5 grudnia 2008 r. o organizacji rynku rybnego, lub innej organizacji rybackiej realizującej statutowe zadania w zakresie wykonywania rybołówstwa morskiego,
 2)
-armatorowi statku rybackiego, przy użyciu którego jest wykonywane rybołówstwo komercyjne
-w formie zwrotu poniesionych kosztów kwalifikowalnych w wysokości do 100% tych kosztów, o których mowa w art. 7 rozporządzenia delegowanego Komisji (UE) 2015/531 z dnia 24 listopada 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 508/2014 poprzez określenie kosztów kwalifikujących się do wsparcia z Europejskiego Funduszu Morskiego i Rybackiego w celu poprawy higieny, zdrowia, bezpieczeństwa i warunków pracy rybaków, ochrony i odbudowy morskiej różnorodności biologicznej i ekosystemów morskich, łagodzenia skutków zmiany klimatu i poprawy efektywności energetycznej statków rybackich (Dz. Urz. UE L 86 z 31.03.2015, str. 1), zwanego dalej „rozporządzeniem nr 2015/531”.
+armatorowi statku rybackiego, przy użyciu którego jest wykonywane rybołówstwo komercyjne – w formie zwrotu poniesionych kosztów kwalifikowalnych w wysokości do 100% tych kosztów, o których mowa w art. 7 rozporządzenia delegowanego Komisji (UE) 2015/531 z dnia 24 listopada 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 508/2014 poprzez określenie kosztów kwalifikujących się do wsparcia z Europejskiego Funduszu Morskiego i Rybackiego w celu poprawy higieny, zdrowia, bezpieczeństwa i warunków pracy rybaków, ochrony i odbudowy morskiej różnorodności biologicznej i ekosystemów morskich, łagodzenia skutków zmiany klimatu i poprawy efektywności energetycznej statków rybackich (Dz. Urz. UE L 86 z 31.03.2015, str. 1), zwanego dalej „rozporządzeniem nr 2015/531”.
 2.
 Operacje, o których mowa w ust. 1, realizuje się we współpracy ze stowarzyszeniem lub organizacją pożytku publicznego w rozumieniu przepisów o działalności pożytku publicznego i o wolontariacie, lub inną organizacją społeczną i zawodową, realizującymi statutowe zadania w zakresie zrównoważonego rybołówstwa morskiego lub zrównoważonej eksploatacji zasobów morskich.
 § 14.
@@ -320,8 +316,7 @@ Pomoc na realizację operacji w ramach działania ochrona i odbudowa morskiej r�
 2)
 50% tych kosztów – na operacje realizowane przez beneficjenta będącego mikro-, małym lub średnim przedsiębiorstwem w rozumieniu zalecenia 2003/361/WE,
 3)
-30% tych kosztów – na operacje realizowane przez beneficjenta niebędącego mikro-, małym lub średnim przedsiębiorstwem w rozumieniu zalecenia 2003/361/WE
-nie więcej jednak niż 10 000 000 zł.
+30% tych kosztów – na operacje realizowane przez beneficjenta niebędącego mikro-, małym lub średnim przedsiębiorstwem w rozumieniu zalecenia 2003/361/WE – nie więcej jednak niż 10 000 000 zł.
 § 17.
 1.
 Pomoc na realizację operacji w ramach działania ochrona i odbudowa morskiej różnorodności biologicznej i ekosystemów morskich oraz systemy rekompensat w ramach zrównoważonej działalności połowowej na poddziałania, o których mowa w art. 40 ust. 1 lit. b-g oraz i rozporządzenia nr 508/2014, w zakresie, o którym mowa w art. 8 ust. 1 lit. b rozporządzenia nr 2015/531, przyznaje się, jeżeli realizacja operacji:
@@ -401,7 +396,7 @@ dorsza – wynosi 4,50 zł za jedną sztukę.
 § 21.
 Pomoc na realizację operacji w ramach działania inwestycje w zakresie ułatwiania przestrzegania obowiązku dotyczącego wyładunku wszystkich połowów przyznaje się na:
 1)
-zakup, budowę, przebudowę lub remont budynków lub budowli, lub naprawę urządzeń, służących do wyładunku, składowania, unieszkodliwiania, przetwarzania lub przechowywania niewykorzystanych części połowu produktów rybołówstwa w rozumieniu art. 5 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.), zwanych dalej „produktami rybołówstwa”, pochodzących z połowów w wodach morskich, w tym przechowywania ich w warunkach chłodniczych lub zamrażalniczych;
+zakup, budowę, przebudowę lub remont budynków lub budowli, lub naprawę urządzeń, służących do wyładunku, składowania, unieszkodliwiania, przetwarzania lub przechowywania niewykorzystanych części połowu produktów rybołówstwa w rozumieniu art. 5 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86 i Dz. Urz. UE L 133 z 29.05.2015, str. 1.), zwanych dalej „produktami rybołówstwa”, pochodzących z połowów w wodach morskich, w tym przechowywania ich w warunkach chłodniczych lub zamrażalniczych;
 2)
 zakup środków transportu przeznaczonych do wewnętrznego transportu produktów rybołówstwa pochodzących z połowów w wodach morskich w porcie rybackim lub na przystani rybackiej.
 § 22.
@@ -425,16 +420,14 @@ Pomoc na realizację operacji w ramach działania inwestycje w zakresie ułatwia
 2)
 50% tych kosztów – w przypadku gdy operacja jest realizowana przez beneficjenta, o którym mowa w § 22 pkt 1–4 i 6,
 3)
-30% tych kosztów – w przypadku gdy operacja jest realizowana przez beneficjenta, o którym mowa w § 22 pkt 5
-nie więcej jednak niż 5 000 000 zł.
+30% tych kosztów – w przypadku gdy operacja jest realizowana przez beneficjenta, o którym mowa w § 22 pkt 5 – nie więcej jednak niż 5 000 000 zł.
 § 24.
 1.
 Pomoc na realizację operacji w ramach działania wsparcie na rzecz systemów przyznawania uprawnień do połowów przyznaje się:
 1)
 ministrowi właściwemu do spraw rybołówstwa,
 2)
-okręgowemu inspektorowi rybołówstwa morskiego
-w formie zwrotu poniesionych kosztów kwalifikowalnych w wysokości 100% tych kosztów.
+okręgowemu inspektorowi rybołówstwa morskiego – w formie zwrotu poniesionych kosztów kwalifikowalnych w wysokości 100% tych kosztów.
 2.
 Pomoc finansową w ramach działania wsparcie na rzecz systemów przyznawania uprawnień do połowów przyznaje się na działania, o których mowa w art. 36 ust. 1 rozporządzenia nr 508/2014.
 § 25.
@@ -481,7 +474,7 @@ Pomoc na realizację operacji w ramach działania tymczasowe zaprzestanie dział
 1)
 poniżej 12 m;
 2)
-od 12 m do 24 m – jeżeli armator statku rybackiego, na który ubiega się o rekompensatę, w okresie trzech lat przed dniem złożenia wniosku o rekompensatę w specjalnym zezwoleniu połowowym wydanym na ten statek rybacki posiadał przyznane kwoty połowowe co najmniej dwóch gatunków organizmów morskich objętych ogólną kwotą połowową, w tym dorsza z podobszarów 22–32 Morza Bałtyckiego.
+od 12 m do 24 m – jeżeli armator statku rybackiego, na który ubiega się o rekompensatę, w okresie trzech lat przed dniem złożenia wniosku o rekompensatę w specjalnym zezwoleniu połowowym wydanym na ten statek rybacki posiadał przyznane kwoty połowowe co najmniej dwóch gatunków organizmów morskich objętych ogólną kwotą połowową, w tym dorsza z podobszarów 22–32Podobszary Morza Bałtyckiego są określone w załączniku nr 1 do rozporządzenia Rady (WE) nr 2187/2005 z dnia 21 grudnia 2005 r. w sprawie zachowania zasobów połowowych w wodach Morza Bałtyckiego, cieśnin Bełt i Sund poprzez zastosowanie środków technicznych oraz zmieniającego rozporządzenie (WE) nr 1434/98 i uchylającego rozporządzenie (WE) 88/98 (Dz. Urz. UE L 349 z 31.12.2005, str. 1, Dz. Urz. UE L 182 z 12.07.2007, str. 1, Dz. Urz. UE L 199 z 31.07.2010, str. 4, Dz. Urz. UE L 348 z 31.12.2010, str. 34, Dz. Urz. UE L 133 z 29.05.2015, str. 1 oraz Dz. Urz. UE L 191 z 15.07.2016, str. 1). Morza Bałtyckiego.
 2.
 Długość całkowitą statku rybackiego określa się zgodnie z danymi z rejestru statków rybackich na dzień złożenia wniosku o dofinansowanie.
 3.
@@ -707,7 +700,7 @@ Pomoc na realizację operacji w ramach działania propagowanie kapitału ludzkie
 1)
 uznanej organizacji producentów ryb lub uznanemu związkowi organizacji producentów ryb, lub organizacji międzybranżowej, w rozumieniu ustawy z dnia 5 grudnia 2008 r. o organizacji rynku rybnego, lub innej organizacji rybackiej realizującej statutowe zadania w zakresie wykonywania rybołówstwa morskiego,
 2)
-lokalnej grupie działania, o której mowa w art. 32 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), zwanego dalej „rozporządzeniem nr 1303/2013”,
+lokalnej grupie działania, o której mowa w art. 32 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1 i Dz. Urz. UE L 335 z 15.12.2017, str. 1.), zwanego dalej „rozporządzeniem nr 1303/2013”,
 3)
 szkole wyższej kształcącej w zakresie rybołówstwa morskiego lub rybactwa śródlądowego lub prowadzącej badania naukowe z zakresu rybołówstwa morskiego lub rybactwa śródlądowego, lub ochrony i rozwoju żywych zasobów wód lub pracy na statkach rybackich,
 4)
@@ -719,8 +712,7 @@ armatorowi statku rybackiego, przy użyciu którego jest wykonywane rybołówstw
 7)
 posiadaczowi rybackich narzędzi i urządzeń połowowych używanych do połowu ryb w obwodzie rybackim zgodnie z przepisami o rybactwie śródlądowym,
 8)
-małżonkowi albo partnerowi życiowemu podmiotu, o którym mowa w pkt 6 i 7
-na działania, o których mowa w art. 29 ust. 1 lit. b lub c rozporządzenia nr 508/2014.
+małżonkowi albo partnerowi życiowemu podmiotu, o którym mowa w pkt 6 i 7 – na działania, o których mowa w art. 29 ust. 1 lit. b lub c rozporządzenia nr 508/2014.
 § 51.
 Pomoc na realizację operacji w ramach działania propagowanie kapitału ludzkiego przyznaje się w formie zwrotu poniesionych kosztów kwalifikowalnych w wysokości do:
 1)
@@ -1113,13 +1105,12 @@ Do postępowań w sprawie o przyznanie pomocy finansowej na realizację operacji
 § 72.
 Traci moc rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 16 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1495 i 1964 oraz z 2017 r. poz. 2040).
 § 73.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22 i Dz. Urz. UE L 256 z 04.10.2017, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86 i Dz. Urz. UE L 133 z 29.05.2015, str. 1. 4) Podobszary Morza Bałtyckiego są określone w załączniku nr 1 do rozporządzenia Rady (WE) nr 2187/2005 z dnia 21 grudnia 2005 r. w sprawie zachowania zasobów połowowych w wodach Morza Bałtyckiego, cieśnin Bełt i Sund poprzez zastosowanie środków technicznych oraz zmieniającego rozporządzenie (WE) nr 1434/98 i uchylającego rozporządzenie (WE) 88/98 (Dz. Urz. UE L 349 z 31.12.2005, str. 1, Dz. Urz. UE L 182 z 12.07.2007, str. 1, Dz. Urz. UE L 199 z 31.07.2010, str. 4, Dz. Urz. UE L 348 z 31.12.2010, str. 34, Dz. Urz. UE L 133 z 29.05.2015, str. 1 oraz Dz. Urz. UE L 191 z 15.07.2016, str. 1). 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1 i Dz. Urz. UE L 335 z 15.12.2017, str. 1.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22 i Dz. Urz. UE L 256 z 04.10.2017, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 86 i Dz. Urz. UE L 133 z 29.05.2015, str. 1. 4) Podobszary Morza Bałtyckiego są określone w załączniku nr 1 do rozporządzenia Rady (WE) nr 2187/2005 z dnia 21 grudnia 2005 r. w sprawie zachowania zasobów połowowych w wodach Morza Bałtyckiego, cieśnin Bełt i Sund poprzez zastosowanie środków technicznych oraz zmieniającego rozporządzenie (WE) nr 1434/98 i uchylającego rozporządzenie (WE) 88/98 (Dz. Urz. UE L 349 z 31.12.2005, str. 1, Dz. Urz. UE L 182 z 12.07.2007, str. 1, Dz. Urz. UE L 199 z 31.07.2010, str. 4, Dz. Urz. UE L 348 z 31.12.2010, str. 34, Dz. Urz. UE L 133 z 29.05.2015, str. 1 oraz Dz. Urz. UE L 191 z 15.07.2016, str. 1). 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1 i Dz. Urz. UE L 335 z 15.12.2017, str. 1.
 
 ## Załącznik nr 1 — – Kryteria wyboru operacji do dofinansowania
 
 I.
-Kryteria wyboru operacji do dofinansowania ze środków Europejskiego Funduszu Morskiego i Rybackiego, zwanego dalej „EFMR”, w ramach działania wsparcie na rzecz opracowywania i wdrażania środków ochrony oraz współpracy regionalnej, o których mowa w art. 37 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 508/2014”
+Kryteria wyboru operacji do dofinansowania ze środków Europejskiego Funduszu Morskiego i Rybackiego, zwanego dalej „EFMR”, w ramach działania wsparcie na rzecz opracowywania i wdrażania środków ochrony oraz współpracy regionalnej, o których mowa w art. 37 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22 i Dz. Urz. UE L 256 z 04.10.2017, str. 1.), zwanego dalej „rozporządzeniem nr 508/2014”
 – pomoc finansowa będzie przyznawana zgodnie z kolejnością składania wniosków o dofinansowanie.
 II.
 Kryteria wyboru operacji do dofinansowania ze środków EFMR w ramach działania zmniejszanie oddziaływania rybołówstwa na środowisko morskie i dostosowanie połowów do ochrony gatunków, o których mowa w art. 38 i art. 44 ust. 1 lit. c rozporządzenia nr 508/2014 O kolejności przyznania pomocy finansowej decyduje suma uzyskanych punktów na podstawie następujących kryteriów wyboru:
@@ -1192,8 +1183,7 @@ odległość od ujścia do morza, rzeki albo jeziora,
 c)
 odległość od kolejnej przeszkody hydrotechnicznej,
 d)
-liczbę przeszkód hydrotechnicznych znajdujących się w korycie rzeki poniżej udrażnianego piętrzenia, a ujściem do morza, rzeki albo jeziora
-maksymalnie 10 pkt;
+liczbę przeszkód hydrotechnicznych znajdujących się w korycie rzeki poniżej udrażnianego piętrzenia, a ujściem do morza, rzeki albo jeziora – maksymalnie 10 pkt;
 3)
 w wyniku realizacji operacji zostanie odtworzone połączenie z istniejącymi bądź potencjalnymi obszarami tarliskowymi ryb eksploatowanych rybacko, biorąc pod uwagę:
 a)
@@ -1203,13 +1193,11 @@ odległość od ujścia do morza, rzeki albo jeziora,
 c)
 odległość od kolejnej przeszkody hydrotechnicznej,
 d)
-liczbę przeszkód hydrotechnicznych znajdujących się w korycie rzeki poniżej udrażnianego piętrzenia, a ujściem do morza, rzeki albo jeziora
-maksymalnie 10 pkt;
+liczbę przeszkód hydrotechnicznych znajdujących się w korycie rzeki poniżej udrażnianego piętrzenia, a ujściem do morza, rzeki albo jeziora – maksymalnie 10 pkt;
 4)
 operacja zostanie zrealizowana zgodnie ze znanymi i dostępnymi najlepszymi technikami w zakresie ochrony i rozwoju zasobów wodnych – maksymalnie 10 pkt;
 5)
-realizacja operacji przyczyni się do poprawy warunków migracji innych, poza docelowymi, gatunków ryb (uniwersalność) – maksymalnie 10 pkt.
-Liczba punktów, o których mowa w pkt 1–5, jest przyznawana proporcjonalnie do wielkości obszaru, jaki zostanie objęty projektem.
+realizacja operacji przyczyni się do poprawy warunków migracji innych, poza docelowymi, gatunków ryb (uniwersalność) – maksymalnie 10 pkt. Liczba punktów, o których mowa w pkt 1–5, jest przyznawana proporcjonalnie do wielkości obszaru, jaki zostanie objęty projektem.
 2.
 Dla operacji służących ochronie i odbudowie morskiej różnorodności biologicznej i ekosystemów morskich w ramach zrównoważonej działalności połowowej Pomoc finansową przyznaje się na podstawie sumy punktów przyznanych wnioskodawcom w ramach danego naboru. W przypadku gdy:
 1)
@@ -1347,8 +1335,7 @@ wartość dofinansowania ze środków EFMR w przypadku przystani rybackich będz
 a)
 do 3 mln zł – 5 pkt,
 b)
-powyżej 3 – do 6 mln zł – 3 pkt.
-W przypadku operacji z zakresu rybactwa śródlądowego pomoc finansowa będzie przyznawana zgodnie z kolejnością składania wniosków o dofinansowanie.
+powyżej 3 – do 6 mln zł – 3 pkt. W przypadku operacji z zakresu rybactwa śródlądowego pomoc finansowa będzie przyznawana zgodnie z kolejnością składania wniosków o dofinansowanie.
 XIV.
 Kryteria wyboru operacji do dofinansowania ze środków EFMR w ramach działania innowacje, o których mowa w art. 26 i art. 44 ust. 3 rozporządzenia nr 508/2014 O kolejności przyznania pomocy finansowej decyduje suma uzyskanych punktów na podstawie następujących kryteriów wyboru:
 1)
@@ -1386,7 +1373,7 @@ Kryteria wyboru operacji do dofinansowania ze środków EFMR w ramach działania
 1)
 pomoc finansowa będzie przyznawana w pierwszej kolejności rybakom, którzy utracili miejsce pracy na statku rybackim w wyniku działania trwałe zaprzestanie działalności połowowej, o którym mowa w art. 34 rozporządzenia nr 508/2014;
 2)
-w przypadku operacji z zakresu rybactwa śródlądowego pomoc finansowa będzie przyznawana zgodnie z kolejnością składania wniosków o dofinansowanie.
+w przypadku operacji z zakresu rybactwa śródlądowego pomoc finansowa będzie przyznawana zgodnie z kolejnością składania wniosków o dofinansowanie. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 229 z 03.09.2015, str. 16, Dz. Urz. UE L 14 z 21.01.2016, str. 43, Dz. Urz. UE L 169 z 28.06.2016, str. 18, Dz. Urz. UE L 88 z 31.03.2017, str. 22 i Dz. Urz. UE L 256 z 04.10.2017, str. 1.
 
 ## Załącznik nr 2 — – Załączniki do wniosku o dofinansowanie
 

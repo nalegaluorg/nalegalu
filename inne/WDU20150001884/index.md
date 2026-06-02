@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-11-17 |
-| Wejście w życie | 2015-12-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001884) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1884/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
 - **2)** w art. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** podmiot prawa publicznego – oznacza osobę prawną, o której mowa w art. 3 ust. 1 pkt 3 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.); ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1)** podmiot prawa publicznego – oznacza osobę prawną, o której mowa w art. 3 ust. 1 pkt 3 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473, z 2014 r. poz. 423, 768, 811, 915, 1146 i 1232 oraz z 2015 r. poz. 349, 478, 605 i 1777.); ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **b)**
 
 - **1a)** przedsiębiorstwo publiczne – oznacza podmiot, o którym mowa w art. 3 ust. 1 pkt 4 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych; ” ;
@@ -151,7 +150,7 @@ source: "eli-html"
 
 - **1)** ugrupowanie mające siedzibę statutową na terytorium Rzeczypospolitej Polskiej – do zaprzestania prowadzenia tej działalności,
 - **2)** organ administracji rządowej upoważniony do reprezentowania Rzeczypospolitej Polskiej w ugrupowaniu mającym siedzibę statutową poza terytorium Rzeczypospolitej Polskiej albo będący członkiem takiego ugrupowania – do podjęcia działań skutkujących zaprzestaniem prowadzenia tej działalności przez ugrupowanie,
-- **3)** członka ugrupowania mającego siedzibę statutową poza terytorium Rzeczypospolitej Polskiej, który przystąpił do ugrupowania za zgodą, o której mowa w art. 6 – do podjęcia działań skutkujących zaprzestaniem prowadzenia tej działalności przez ugrupowanie albo, gdy zaprzestanie prowadzenia takiej działalności nie jest możliwe – do wystąpienia z ugrupowania w terminie wyznaczonym w wezwaniu, informując o skutkach niezastosowania się do wezwania.
+- **3)** członka ugrupowania mającego siedzibę statutową poza terytorium Rzeczypospolitej Polskiej, który przystąpił do ugrupowania za zgodą, o której mowa w art. 6 – do podjęcia działań skutkujących zaprzestaniem prowadzenia tej działalności przez ugrupowanie albo, gdy zaprzestanie prowadzenia takiej działalności nie jest możliwe – do wystąpienia z ugrupowania – w terminie wyznaczonym w wezwaniu, informując o skutkach niezastosowania się do wezwania.
 
 2. W wyznaczonym terminie wezwany podmiot może przedstawić wyjaśnienia dotyczące działalności prowadzonej przez ugrupowanie lub wystąpić o przedłużenie tego terminu. Organ nadzorujący zajmuje stanowisko wobec wyjaśnień lub wniosku w terminie miesiąca od dnia ich otrzymania.
 
@@ -190,5 +189,5 @@ source: "eli-html"
 
 **Art. 3.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, o których mowa w art. 21 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473, z 2014 r. poz. 423, 768, 811, 915, 1146 i 1232 oraz z 2015 r. poz. 349, 478, 605 i 1777.
 

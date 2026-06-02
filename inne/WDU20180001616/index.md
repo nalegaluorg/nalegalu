@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o ochronie roślin oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o ochronie roślin oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ustawę z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym oraz ustawę z dnia 8 marca 2013 r. o środkach ochrony roślin.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-23 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1616/text.pdf) |
 
@@ -86,8 +85,16 @@ source: "eli-html"
 
 5d. Wykreślenie podmiotu wpisanego do rejestru przedsiębiorców z tego rejestru w przypadkach, o których mowa w ust. 5a pkt 2 i 4 oraz ust. 5c, następuje w drodze decyzji. ” ;
 
-- **6)** w art. 14: w ust. 1: – po pkt 5a dodaje się pkt 5b w brzmieniu: „ 5b) przekazywania, na żądanie wojewódzkiego inspektora, planu rozmieszczenia upraw, miejsc produkcji lub miejsc składowania i przechowywania roślin, produktów roślinnych lub przedmiotów; ” , – uchyla się pkt 6, – dodaje się pkt 7 w brzmieniu: „ 7) umożliwienia wojewódzkiemu inspektorowi przeprowadzenia kontroli oraz współdziałania podczas kontroli, w szczególności przez: a) umożliwienie dokonywania oględzin roślin, produktów roślinnych lub przedmiotów, materiału siewnego, obiektów, pomieszczeń, środków przewozowych i innych rzeczy w zakresie objętym kontrolą, b) umożliwienie pobierania prób roślin, produktów roślinnych lub przedmiotów, lub materiału siewnego w celu poddania ich analizom laboratoryjnym, c) udostępnienie akt, dokumentów oraz ewidencji i informacji lub danych w zakresie objętym kontrolą, a także sporządzenie ich kopii, d) umożliwienie badania przebiegu określonych czynności objętych kontrolą, e) udzielenie informacji i wyjaśnień w zakresie objętym kontrolą. ” , ust. 2 otrzymuje brzmienie: „
+- **6)** w art. 14: w ust. 1: po pkt 5a dodaje się pkt 5b w brzmieniu: „
     - **a)**
+
+- **5b)** przekazywania, na żądanie wojewódzkiego inspektora, planu rozmieszczenia upraw, miejsc produkcji lub miejsc składowania i przechowywania roślin, produktów roślinnych lub przedmiotów; ” , uchyla się pkt 6, – dodaje się pkt 7 w brzmieniu: „
+- **7)** umożliwienia wojewódzkiemu inspektorowi przeprowadzenia kontroli oraz współdziałania podczas kontroli, w szczególności przez: umożliwienie dokonywania oględzin roślin, produktów roślinnych lub przedmiotów, materiału siewnego, obiektów, pomieszczeń, środków przewozowych i innych rzeczy w zakresie objętym kontrolą, umożliwienie pobierania prób roślin, produktów roślinnych lub przedmiotów, lub materiału siewnego w celu poddania ich analizom laboratoryjnym, udostępnienie akt, dokumentów oraz ewidencji i informacji lub danych w zakresie objętym kontrolą, a także sporządzenie ich kopii, umożliwienie badania przebiegu określonych czynności objętych kontrolą, udzielenie informacji i wyjaśnień w zakresie objętym kontrolą. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
     - **b)**
 
 2. Wojewódzki inspektor co najmniej raz w roku przeprowadza u podmiotów wpisanych do rejestru przedsiębiorców urzędową kontrolę w zakresie spełnienia wymagań określonych w ust. 1 pkt 1–5b, a w przypadku roślin, produktów roślinnych lub przedmiotów szczególnie podatnych na porażenie przez organizmy szkodliwe, urzędową kontrolę w zakresie zdrowotności roślin, produktów roślinnych lub przedmiotów. ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
@@ -118,8 +125,11 @@ source: "eli-html"
 - **2)** rośliny, produkty roślinne lub przedmioty spełniają wymagania importowe państwa trzeciego. ” , w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **b)**
 
-- **1a)** numer wpisu do rejestru, o którym mowa w art. 19a ust. 1 – w przypadku podmiotów do niego wpisanych; ” , w ust. 4: – pkt 3 otrzymuje brzmienie: „ 3) zaświadczenie potwierdzające spełnienie wymagań importowych państwa trzeciego dotyczących miejsca uprawy, wytwarzania, pakowania, sortowania lub składowania roślin, produktów roślinnych lub przedmiotów, jeżeli ich spełnienie jest wymagane przez państwo trzecie, do którego te rośliny, produkty roślinne lub przedmioty będą wyprowadzane lub przez które będą przemieszczane, wydane przez właściwego ze względu na miejsce prowadzenia uprawy, wytwarzania, pakowania, sortowania lub składowania tych roślin, produktów roślinnych lub przedmiotów wojewódzkiego inspektora albo organ właściwy do spraw zdrowia roślin innego państwa członkowskiego – w przypadku gdy świadectwo fitosanitarne wydaje wojewódzki inspektor, który nie jest właściwy ze względu na miejsce prowadzenia uprawy, wytwarzania, pakowania, sortowania lub składowania tych roślin, produktów roślinnych lub przedmiotów; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) inne niż wymienione w pkt 1–4 dokumenty lub informacje wymagane przez państwo trzecie, do którego rośliny, produkty roślinne lub przedmioty będą wyprowadzane lub przez które będą przemieszczane, w szczególności imię, nazwisko i miejsce zamieszkania albo nazwę, siedzibę i adres podmiotów uprawiających, wytwarzających, pakujących, sortujących, składujących lub wyprowadzających te rośliny, produkty roślinne lub przedmioty, lub numer wpisu tych podmiotów do rejestru, o którym mowa w art. 19a ust. 1, jeżeli państwo trzecie wymaga wpisu tych podmiotów do tego rejestru. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **1a)** numer wpisu do rejestru, o którym mowa w art. 19a ust. 1 – w przypadku podmiotów do niego wpisanych; ” , w ust. 4: pkt 3 otrzymuje brzmienie: „
     - **c)**
+
+- **3)** zaświadczenie potwierdzające spełnienie wymagań importowych państwa trzeciego dotyczących miejsca uprawy, wytwarzania, pakowania, sortowania lub składowania roślin, produktów roślinnych lub przedmiotów, jeżeli ich spełnienie jest wymagane przez państwo trzecie, do którego te rośliny, produkty roślinne lub przedmioty będą wyprowadzane lub przez które będą przemieszczane, wydane przez właściwego ze względu na miejsce prowadzenia uprawy, wytwarzania, pakowania, sortowania lub składowania tych roślin, produktów roślinnych lub przedmiotów wojewódzkiego inspektora albo organ właściwy do spraw zdrowia roślin innego państwa członkowskiego – w przypadku gdy świadectwo fitosanitarne wydaje wojewódzki inspektor, który nie jest właściwy ze względu na miejsce prowadzenia uprawy, wytwarzania, pakowania, sortowania lub składowania tych roślin, produktów roślinnych lub przedmiotów; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** inne niż wymienione w pkt 1–4 dokumenty lub informacje wymagane przez państwo trzecie, do którego rośliny, produkty roślinne lub przedmioty będą wyprowadzane lub przez które będą przemieszczane, w szczególności imię, nazwisko i miejsce zamieszkania albo nazwę, siedzibę i adres podmiotów uprawiających, wytwarzających, pakujących, sortujących, składujących lub wyprowadzających te rośliny, produkty roślinne lub przedmioty, lub numer wpisu tych podmiotów do rejestru, o którym mowa w art. 19a ust. 1, jeżeli państwo trzecie wymaga wpisu tych podmiotów do tego rejestru. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **d)**
 
 4a. Jeżeli dokumenty, o których mowa w ust. 4, zostały uprzednio dołączone do innego wniosku o wydanie świadectwa fitosanitarnego lub świadectwa fitosanitarnego dla reeksportu złożonego do wojewódzkiego inspektora, wnioskodawca może – zamiast ponownego dołączenia tych dokumentów – wskazać wniosek, do którego te dokumenty zostały dołączone. ” , w ust. 6 w pkt 2 lit. b otrzymuje brzmienie: „ bez zbędnej zwłoki, po stwierdzeniu w wyniku kontroli, która może uwzględniać zastosowanie oceny organoleptycznej, badań makroskopowych, badań laboratoryjnych lub kontroli dokumentów, że: – podmioty, które prowadzą uprawę, wytwarzanie, pakowanie, sortowanie lub składowanie roślin, produktów roślinnych lub przedmiotów, lub dokonujące ich wyprowadzania do państwa trzeciego, spełniają wymagania importowe państwa trzeciego, – rośliny, produkty roślinne lub przedmioty spełniają wymagania importowe państwa trzeciego. ” ;
@@ -287,7 +297,7 @@ source: "eli-html"
 
 - **13)** w art. 95 po ust. 3 dodaje się ust. 3a-3d w brzmieniu: „
 
-3a. Uzyskane w wyniku czynności kontrolnych informacje lub dane są nieodpłatnie przekazywane Agencji Restrukturyzacji i Modernizacji Rolnictwa w zakresie niezbędnym do przeprowadzania kontroli administracyjnych i kontroli na miejscu, jako organowi kontroli, o którym mowa w art. 67 ust. 1 lit. a rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.).
+3a. Uzyskane w wyniku czynności kontrolnych informacje lub dane są nieodpłatnie przekazywane Agencji Restrukturyzacji i Modernizacji Rolnictwa w zakresie niezbędnym do przeprowadzania kontroli administracyjnych i kontroli na miejscu, jako organowi kontroli, o którym mowa w art. 67 ust. 1 lit. a rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87 oraz Dz. Urz. UE L 178 z 11.07.2017, str. 4..
 
 3b. Uzyskane w wyniku czynności kontrolnych informacje lub dane są nieodpłatnie przekazywane organom Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych na wniosek tych organów w zakresie, w jakim są one niezbędne do prawidłowego sprawowania przez tę Inspekcję nadzoru nad jednostkami certyfikującymi w rozumieniu przepisów o rolnictwie ekologicznym oraz nadzoru nad produkcją ekologiczną.
 
@@ -408,8 +418,11 @@ source: "eli-html"
 - **2)** numer producenta roślin w rejestrze, o którym mowa w art. 55 ust. 6;
 - **3)** numer wydanego certyfikatu;
 - **4)** wskazanie gatunków i odmian roślin uprawianych, z zastosowaniem wymagań integrowanej produkcji roślin, dla których został wydany certyfikat, oraz wielkości plonu. ” ;
-- **3)** w art. 58: w ust. 8: – pkt 1 otrzymuje brzmienie: „ 1) wojewódzki inspektor wykonuje uprawnienia i obowiązki podmiotu certyfikującego; przepisów ust. 1–6, art. 60, art. 61 ust. 1–2a i 3a, art. 62 oraz przepisów wydanych na podstawie art. 63 pkt 1 nie stosuje się; ” ; – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) unieważnienie certyfikatu w przypadku, o którym mowa w art. 61 ust. 3, następuje w drodze decyzji; ” , dodaje się ust. 9 w brzmieniu: „
+- **3)** w art. 58: w ust. 8: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** wojewódzki inspektor wykonuje uprawnienia i obowiązki podmiotu certyfikującego; przepisów ust. 1–6, art. 60, art. 61 ust. 1–2a i 3a, art. 62 oraz przepisów wydanych na podstawie art. 63 pkt 1 nie stosuje się; ” ; po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** unieważnienie certyfikatu w przypadku, o którym mowa w art. 61 ust. 3, następuje w drodze decyzji; ” , dodaje się ust. 9 w brzmieniu: „
     - **b)**
 
 9. Decyzja, o której mowa w ust. 8 pkt 1a, podlega natychmiastowemu wykonaniu. ” ;
@@ -436,8 +449,11 @@ source: "eli-html"
 3a. Podmiot certyfikujący przekazuje wojewódzkiemu inspektorowi informację o unieważnieniu certyfikatu poświadczającego stosowanie integrowanej produkcji roślin w terminie 14 dni od dnia unieważnienia tego certyfikatu. ” , uchyla się ust. 4;
 
 - **d)**
-- **6)** w art. 62: w ust. 6: – pkt 1 otrzymuje brzmienie: „ 1) przepisów ust. 1–4, art. 58 ust. 1–6, art. 60, art. 61 ust. 1–2a i 3a oraz przepisów wydanych na podstawie art. 63 pkt 1 nie stosuje się; ” , – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ 3) unieważnienie certyfikatu w przypadku, o którym mowa w art. 61 ust. 3, następuje w drodze decyzji. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+- **6)** w art. 62: w ust. 6: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** przepisów ust. 1–4, art. 58 ust. 1–6, art. 60, art. 61 ust. 1–2a i 3a oraz przepisów wydanych na podstawie art. 63 pkt 1 nie stosuje się; ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** unieważnienie certyfikatu w przypadku, o którym mowa w art. 61 ust. 3, następuje w drodze decyzji. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
     - **b)**
 
 6a. Decyzja, o której mowa w ust. 6 pkt 3, podlega natychmiastowemu wykonaniu. ” .
@@ -446,7 +462,7 @@ source: "eli-html"
 
 - **1)** zwalczania lub zapobiegania rozprzestrzenianiu się organizmów kwarantannowych,
 - **2)** wpisu do rejestru przedsiębiorców, o którym mowa w art. 12 ust. 1 pkt 3 ustawy zmienianej w art. 1,
-- **3)** wydania paszportu roślin, świadectwa fitosanitarnego lub świadectwa fitosanitarnego dla reeksportu, zaświadczenia lub innego dokumentu lub oznakowania wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- **3)** wydania paszportu roślin, świadectwa fitosanitarnego lub świadectwa fitosanitarnego dla reeksportu, zaświadczenia lub innego dokumentu lub oznakowania – wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 6.** Do granicznej kontroli fitosanitarnej, rozpoczętej i niezakończonej przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
@@ -457,7 +473,7 @@ source: "eli-html"
 2. Podmioty, o których mowa w ust. 1, są obowiązane do przekazania wojewódzkiemu inspektorowi ochrony roślin i nasiennictwa prowadzącemu rejestr na podstawie art. 19a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 1 marca 2019 r.:
 
 - **1)** informacji, o których mowa w art. 19a ust. 3 pkt 1 lit. a-d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
-- **2)** oświadczenia i zobowiązania, o których mowa w art. 19a ust. 3 pkt 1 lit. e ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą w zakresie, w jakim nie zostały one przekazane przez te podmioty w związku z wpisem do wykazu wymienionego w ust. 1 lub wymagają aktualizacji.
+- **2)** oświadczenia i zobowiązania, o których mowa w art. 19a ust. 3 pkt 1 lit. e ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – w zakresie, w jakim nie zostały one przekazane przez te podmioty w związku z wpisem do wykazu wymienionego w ust. 1 lub wymagają aktualizacji.
 
 3. Jeżeli:
 
@@ -465,14 +481,14 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-- **2)** przekazane przez podmiot, o którym mowa w ust. 1, wojewódzkiemu inspektorowi ochrony roślin i nasiennictwa informacje, o których mowa w art. 19a ust. 3 pkt 1 lit. a-d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zawierają błędy lub pomyłki wojewódzki inspektor ochrony roślin i nasiennictwa wzywa ten podmiot do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem o skutkach ich nieusunięcia, a w razie nieusunięcia braków w tym terminie, wykreśla ten podmiot, w drodze decyzji, z rejestru prowadzonego na podstawie art. 19a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- **2)** przekazane przez podmiot, o którym mowa w ust. 1, wojewódzkiemu inspektorowi ochrony roślin i nasiennictwa informacje, o których mowa w art. 19a ust. 3 pkt 1 lit. a-d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zawierają błędy lub pomyłki – wojewódzki inspektor ochrony roślin i nasiennictwa wzywa ten podmiot do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem o skutkach ich nieusunięcia, a w razie nieusunięcia braków w tym terminie, wykreśla ten podmiot, w drodze decyzji, z rejestru prowadzonego na podstawie art. 19a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 8.** Do czynów, o których mowa w:
 
 - **1)** art. 107 ust. 1 pkt 10,
-- **2)** art. 108 ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, popełnionych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+- **2)** art. 108 ust. 1 pkt 3 – ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, popełnionych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
-**Art. 9.** Do postępowań w sprawie rejestracji w bazie danych, o której mowa w art. 48 rozporządzenia Komisji (WE) nr 889/2008 z dnia 5 września 2008 r. ustanawiającego szczegółowe zasady wdrażania rozporządzenia Rady (WE) nr 834/2007 w sprawie produkcji ekologicznej i znakowania produktów ekologicznych w odniesieniu do produkcji ekologicznej, znakowania i kontroli (Dz. Urz. UE L 250 z 18.09.2008, str. 1, z późn. zm.), informacji o produktach wymienionych w art. 1 ust. 2 lit. d rozporządzenia Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1, z późn. zm.), zmiany lub cofnięcia rejestracji w tej bazie danych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą.
+**Art. 9.** Do postępowań w sprawie rejestracji w bazie danych, o której mowa w art. 48 rozporządzenia Komisji (WE) nr 889/2008 z dnia 5 września 2008 r. ustanawiającego szczegółowe zasady wdrażania rozporządzenia Rady (WE) nr 834/2007 w sprawie produkcji ekologicznej i znakowania produktów ekologicznych w odniesieniu do produkcji ekologicznej, znakowania i kontroli (Dz. Urz. UE L 250 z 18.09.2008, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 337 z 16.12.2008, str. 80, Dz. Urz. UE L 129 z 28.05.2009, str. 21, Dz. Urz. UE L 204 z 06.08.2009, str. 15, Dz. Urz. UE L 84 z 31.03.2010, str. 19, Dz. Urz. UE L 96 z 09.04.2011, str. 15, Dz. Urz. UE L 113 z 03.05.2011, str. 1, Dz. Urz. UE L 41 z 15.02.2012, str. 5, Dz. Urz. UE L 71 z 09.03.2012, str. 42, Dz. Urz. UE L 154 z 15.06.2012, str. 12, Dz. Urz. UE L 118 z 30.04.2013, str. 5, Dz. Urz. UE L 158 z 10.06.2013, str. 74, Dz. Urz. UE L 283 z 25.10.2013, str. 15, Dz. Urz. UE L 343 z 19.12.2013, str. 29, Dz. Urz. UE L 106 z 09.04.2014, str. 7, Dz. Urz. UE L 230 z 01.08.2014, str. 10, Dz. Urz. UE L 365 z 19.12.2014, str. 97, Dz. Urz. UE L 29 z 05.02.2015, str. 16, Dz. Urz. UE L 116 z 30.04.2016, str. 8, Dz. Urz. UE L 282 z 19.10.2016, str. 19, Dz. Urz. UE L 125 z 18.05.2017, str. 5, Dz. Urz. UE L 243 z 21.09.2017, str. 23 oraz Dz. Urz. UE L 326 z 09.12.2017, str. 42., informacji o produktach wymienionych w art. 1 ust. 2 lit. d rozporządzenia Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1, Dz. Urz. UE L 156 z 15.06.2011, str. 12, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 300 z 18.10.2014, str. 72 oraz Dz. Urz. UE L 47 z 24.02.2017, str. 20., zmiany lub cofnięcia rejestracji w tej bazie danych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 10.** Do zgłoszenia zamiaru stosowania integrowanej produkcji roślin, nieprzekazanego podmiotowi prowadzącemu działalność w zakresie certyfikacji w integrowanej produkcji roślin na podstawie ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą.
 
@@ -485,7 +501,7 @@ source: "eli-html"
 **Art. 14.** Do postępowań w sprawie unieważnienia certyfikatów poświadczających stosowanie integrowanej produkcji roślin, o których mowa w art. 57 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin, wydanych na podstawie art. 57 ust. 1 ustawy zmienianej w art. 4:
 
 - **1)** wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy ostateczną decyzją,
-- **2)** zakończonych ostateczną decyzją wydaną na podstawie dotychczasowych przepisów, które zostały wznowione od dnia wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 4, w brzmieniu dotychczasowym.
+- **2)** zakończonych ostateczną decyzją wydaną na podstawie dotychczasowych przepisów, które zostały wznowione od dnia wejścia w życie niniejszej ustawy – stosuje się przepisy ustawy zmienianej w art. 4, w brzmieniu dotychczasowym.
 
-**Art. 15.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r .
+**Art. 15.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r . 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ustawę z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym oraz ustawę z dnia 8 marca 2013 r. o środkach ochrony roślin. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87 oraz Dz. Urz. UE L 178 z 11.07.2017, str. 4. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 337 z 16.12.2008, str. 80, Dz. Urz. UE L 129 z 28.05.2009, str. 21, Dz. Urz. UE L 204 z 06.08.2009, str. 15, Dz. Urz. UE L 84 z 31.03.2010, str. 19, Dz. Urz. UE L 96 z 09.04.2011, str. 15, Dz. Urz. UE L 113 z 03.05.2011, str. 1, Dz. Urz. UE L 41 z 15.02.2012, str. 5, Dz. Urz. UE L 71 z 09.03.2012, str. 42, Dz. Urz. UE L 154 z 15.06.2012, str. 12, Dz. Urz. UE L 118 z 30.04.2013, str. 5, Dz. Urz. UE L 158 z 10.06.2013, str. 74, Dz. Urz. UE L 283 z 25.10.2013, str. 15, Dz. Urz. UE L 343 z 19.12.2013, str. 29, Dz. Urz. UE L 106 z 09.04.2014, str. 7, Dz. Urz. UE L 230 z 01.08.2014, str. 10, Dz. Urz. UE L 365 z 19.12.2014, str. 97, Dz. Urz. UE L 29 z 05.02.2015, str. 16, Dz. Urz. UE L 116 z 30.04.2016, str. 8, Dz. Urz. UE L 282 z 19.10.2016, str. 19, Dz. Urz. UE L 125 z 18.05.2017, str. 5, Dz. Urz. UE L 243 z 21.09.2017, str. 23 oraz Dz. Urz. UE L 326 z 09.12.2017, str. 42. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1, Dz. Urz. UE L 156 z 15.06.2011, str. 12, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 300 z 18.10.2014, str. 72 oraz Dz. Urz. UE L 47 z 24.02.2017, str. 20.
 

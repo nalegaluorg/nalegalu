@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 20 lutego 2024 r. w sprawie szczegółowych warunków i trybu postępowania ze środkami odurzającymi, substancjami psychotropowymi i prekursorami kategorii 1, ich mieszaninami lub odpadami oraz produktami leczniczymi, zepsutymi, sfałszowanymi lub którym upłynął termin ważności, zawierającymi w swoim składzie środki odurzające, substancje psychotropowe lub prekursory kategorii 1
+# Rozporządzenie Ministra Zdrowiaz dnia 20 lutego 2024 r. w sprawie szczegółowych warunków i trybu postępowania ze środkami odurzającymi, substancjami psychotropowymi i prekursorami kategorii 1, ich mieszaninami lub odpadami oraz produktami leczniczymi, zepsutymi, sfałszowanymi lub którym upłynął termin ważności, zawierającymi w swoim składzie środki odurzające, substancje psychotropowe lub prekursory kategorii 1 Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-20 |
 | Data wydania | 2024-02-22 |
-| Wejście w życie | 2024-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000239) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/239/text.pdf) |
 
@@ -140,6 +139,5 @@ drugi i trzeci egzemplarz podmiot unieszkodliwiający przekazuje do podmiotu, o 
 3)
 jeden z otrzymanych egzemplarzy podmiot, o którym mowa w § 1 ust. 1, przekazuje odpowiednio Głównemu Inspektorowi Farmaceutycznemu, wojskowemu inspektorowi albo wojewódzkiemu inspektorowi farmaceutycznemu.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 27 lutego 2012 r. w sprawie szczegółowych warunków i trybu postępowania ze środkami odurzającymi, substancjami psychotropowymi i prekursorami kategorii 1, ich mieszaninami oraz produktami leczniczymi, zepsutymi, sfałszowanymi lub którym upłynął termin ważności, zawierającymi w swoim składzie środki odurzające, substancje psychotropowe lub prekursory kategorii 1 (Dz. U. poz. 236), które utraciło moc z dniem 8 listopada 2023 r. na podstawie art. 2 ustawy z dnia 24 marca 2022 r. o zmianie ustawy o przeciwdziałaniu narkomanii (Dz. U. poz. 763).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 27 lutego 2012 r. w sprawie szczegółowych warunków i trybu postępowania ze środkami odurzającymi, substancjami psychotropowymi i prekursorami kategorii 1, ich mieszaninami oraz produktami leczniczymi, zepsutymi, sfałszowanymi lub którym upłynął termin ważności, zawierającymi w swoim składzie środki odurzające, substancje psychotropowe lub prekursory kategorii 1 (Dz. U. poz. 236), które utraciło moc z dniem 8 listopada 2023 r. na podstawie art. 2 ustawy z dnia 24 marca 2022 r. o zmianie ustawy o przeciwdziałaniu narkomanii (Dz. U. poz. 763). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 27 lutego 2012 r. w sprawie szczegółowych warunków i trybu postępowania ze środkami odurzającymi, substancjami psychotropowymi i prekursorami kategorii 1, ich mieszaninami oraz produktami leczniczymi, zepsutymi, sfałszowanymi lub którym upłynął termin ważności, zawierającymi w swoim składzie środki odurzające, substancje psychotropowe lub prekursory kategorii 1 (Dz. U. poz. 236), które utraciło moc z dniem 8 listopada 2023 r. na podstawie art. 2 ustawy z dnia 24 marca 2022 r. o zmianie ustawy o przeciwdziałaniu narkomanii (Dz. U. poz. 763).
 

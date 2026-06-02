@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy o transporcie kolejowym Niniejsza ustawa w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy 2004/49/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2014 r. w sprawie bezpieczeństwa kolei wspólnotowych oraz zmieniającej dyrektywę 95/18/WE w sprawie przyznawania licencji przedsiębiorstwom kolejowym, oraz dyrektywę 2001/14/WE w sprawie alokacji zdolności przepustowej infrastruktury kolejowej i pobierania opłat za użytkowanie infrastruktury kolejowej oraz certyfikacje w zakresie bezpieczeństwa (Dz. Urz. UE L 164 z 30.04.2004, str. 44, Dz. Urz. UE L 191 z 18.07.2008, str. 1, Dz. Urz. UE L 345 z 23.12.2008, str. 62, Dz. Urz. UE L 313 z 28.11.2009, str. 65, Dz. Urz. UE L 217 z 18.08.2010, str. 14, Dz. Urz. UE L 252 z 19.09.2012, str. 58, Dz. Urz. UE L 343 z 14.12.2012, str. 32 oraz Dz. Urz. UE L 201 z 10.07.2014, str. 9).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-30 |
 | Data wydania | 2019-10-17 |
-| Wejście w życie | 2019-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001979) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1979/text.pdf) |
 
@@ -179,5 +178,5 @@ source: "eli-html"
 
 **Art. 10.** Do dnia wydania przez ministra właściwego do spraw wewnętrznych zarządzenia na podstawie art. 28d ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, Państwowa Komisja Badania Wypadków Kolejowych, o której mowa w art. 28a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, działa w oparciu o regulamin przyjęty zarządzeniem wydanym na podstawie art. 28d ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, jednak nie dłużej niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy 2004/49/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2014 r. w sprawie bezpieczeństwa kolei wspólnotowych oraz zmieniającej dyrektywę 95/18/WE w sprawie przyznawania licencji przedsiębiorstwom kolejowym, oraz dyrektywę 2001/14/WE w sprawie alokacji zdolności przepustowej infrastruktury kolejowej i pobierania opłat za użytkowanie infrastruktury kolejowej oraz certyfikacje w zakresie bezpieczeństwa (Dz. Urz. UE L 164 z 30.04.2004, str. 44, Dz. Urz. UE L 191 z 18.07.2008, str. 1, Dz. Urz. UE L 345 z 23.12.2008, str. 62, Dz. Urz. UE L 313 z 28.11.2009, str. 65, Dz. Urz. UE L 217 z 18.08.2010, str. 14, Dz. Urz. UE L 252 z 19.09.2012, str. 58, Dz. Urz. UE L 343 z 14.12.2012, str. 32 oraz Dz. Urz. UE L 201 z 10.07.2014, str. 9).
 

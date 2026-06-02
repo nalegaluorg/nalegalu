@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 stycznia 2020 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
+# Ustawa z dnia 9 stycznia 2020 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych, ustawę z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, ustawę z dnia 16 grudnia 2005 r. o Funduszu Kolejowym oraz ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-09 |
 | Data wydania | 2020-03-17 |
-| Wejście w życie | 2020-04-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/462/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2019 r. poz. 710, z późn. zm.) wprowadza się następujące zmiany:
+Zasady przekazywania skarbowych papierów wartościowych na podwyższenie kapitału zakładowego PLK SA
+
+**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2019 r. poz. 710, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1214, 1979 i 2020 oraz z 2020 r. poz. 284 i 400.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** linii tramwajowych, z wyjątkiem przepisów rozdziału 2b, które stosuje się odpowiednio do linii tramwajowych lokalizowanych poza pasem drogowym; ” ;
@@ -67,7 +68,7 @@ source: "eli-html"
 - **5)** w art. 9s: ust. 8 otrzymuje brzmienie: „
     - **a)**
 
-8. Z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, PLK S.A. lub właściwa jednostka samorządu terytorialnego uzyskuje prawo do dysponowania nieruchomościami, o których mowa w ust. 3, 3b i 9 oraz art. 9q ust. 1 pkt 6, na cele budowlane w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, z późn. zm.), zwanej dalej „Prawem budowlanym”, z uwzględnieniem art. 9w ust. 4. ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
+8. Z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, PLK S.A. lub właściwa jednostka samorządu terytorialnego uzyskuje prawo do dysponowania nieruchomościami, o których mowa w ust. 3, 3b i 9 oraz art. 9q ust. 1 pkt 6, na cele budowlane w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148.), zwanej dalej „Prawem budowlanym”, z uwzględnieniem art. 9w ust. 4. ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
 
 - **b)**
 
@@ -174,17 +175,18 @@ source: "eli-html"
 4. Przepisu ust. 2 nie stosuje się do budynków i budowli przeznaczonych do prowadzenia ruchu kolejowego i utrzymania linii kolejowej oraz do obsługi przewozu osób i rzeczy, w tym do dróg pieszych i rowerowych, oraz do budynków lub budowli istniejących, stanowiących zabytki w rozumieniu przepisu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami. ” ;
 
 - **20)** w art. 59 w ust. 1 wyrazy „w uzgodnieniu z ministrem właściwym” zastępuje się wyrazami „za zgodą ministra właściwego”;
-- **21)** w art. 66: w ust. 1: – w pkt 2 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ j) z naruszeniem art. 38ba dokonał likwidacji: – linii kolejowej lub jej odcinka, – bocznicy kolejowej lub jej odcinka; ” , – w pkt 6 po wyrazach „operator stacji pasażerskiej,” dodaje się wyrazy „zarządzający peronem,”, – w pkt 7 we wprowadzeniu do wyliczenia po wyrazach „operator stacji pasażerskiej” dodaje się wyrazy „, lub zarządzający peronem”, w ust. 2c po wyrazach „operator stacji pasażerskiej,” dodaje się wyrazy „zarządzający peronem,”;
+- **21)** w art. 66: w ust. 1: w pkt 2 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ z naruszeniem art. 38ba dokonał likwidacji: – linii kolejowej lub jej odcinka, – bocznicy kolejowej lub jej odcinka; ” , – w pkt 6 po wyrazach „operator stacji pasażerskiej,” dodaje się wyrazy „zarządzający peronem,”, – w pkt 7 we wprowadzeniu do wyliczenia po wyrazach „operator stacji pasażerskiej” dodaje się wyrazy „, lub zarządzający peronem”, w ust. 2c po wyrazach „operator stacji pasażerskiej,” dodaje się wyrazy „zarządzający peronem,”;
     - **a)**
+    - **j)**
     - **b)**
 
 - **22)** w art. 77a wyrazy „31 grudnia 2020 r.” zastępuje się wyrazami „31 grudnia 2030 r.”.
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.) po art. 47977dodaje się art. 47977a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288.) po art. 47977dodaje się art. 47977a w brzmieniu: „
 
 **Art. 47977a.** W postępowaniach w sprawach z zakresu regulacji transportu kolejowego stosuje się przepisy art. 47933§ 1, 2 oraz 3–5. ” .
 
-**Art. 3.** W ustawie z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.) w art. 17a uchyla się ust. 3.
+**Art. 3.** W ustawie z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492 oraz z 2017 r. poz. 653.) w art. 17a uchyla się ust. 3.
 
 **Art. 4.** W ustawie z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2020 r. poz. 292 i 400) wprowadza się następujące zmiany:
 
@@ -209,7 +211,7 @@ source: "eli-html"
 
 - **3)** po rozdziale 4c dodaje się rozdział 4d w brzmieniu: „
 
-#### Rozdział 4d Zasady przekazywania skarbowych papierów wartościowych na podwyższenie kapitału zakładowego PLK SA
+#### Rozdział 4d
 
 **Art. 33w.**
 
@@ -240,7 +242,7 @@ source: "eli-html"
 
 3. Emisja skarbowych papierów wartościowych następuje z dniem zarejestrowania skarbowych papierów wartościowych w depozycie papierów wartościowych oraz w kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
 
-4. Do emisji skarbowych papierów wartościowych nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.) oraz przepisów wydanych na podstawie art. 97 tej ustawy.
+4. Do emisji skarbowych papierów wartościowych nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284 i 374.) oraz przepisów wydanych na podstawie art. 97 tej ustawy.
 
 1. Skarbowe papiery wartościowe, o których mowa w art. 33w ust. 1, PLK SA może posiadać do terminu ich wykupu albo podejmować czynności w zakresie rozporządzania nimi za zgodą ministra właściwego do spraw finansów publicznych.
 
@@ -296,7 +298,7 @@ source: "eli-html"
 6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, plan transportowy w zakresie:
 
 - **1)** linii komunikacyjnej lub sieci komunikacyjnej w międzywojewódzkich i międzynarodowych przewozach pasażerskich w transporcie kolejowym,
-- **2)** linii komunikacyjnych w wojewódzkich przewozach pasażerskich w transporcie kolejowym, o których mowa w art. 9 ust. 1a uwzględniając zakres niezbędnych danych, które powinny zostać określone w tym planie, oraz potrzeby wynikające z kierunku polityki państwa. ” ;
+- **2)** linii komunikacyjnych w wojewódzkich przewozach pasażerskich w transporcie kolejowym, o których mowa w art. 9 ust. 1a – uwzględniając zakres niezbędnych danych, które powinny zostać określone w tym planie, oraz potrzeby wynikające z kierunku polityki państwa. ” ;
 - **5)** w art. 24 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 2a. W przypadku gdy organizatorem jest województwo, umowa o świadczenie usług w zakresie publicznego transportu zbiorowego może dotyczyć linii komunikacyjnych, o których mowa w art. 9 ust. 1a. ” .
@@ -335,5 +337,5 @@ source: "eli-html"
 
 2. Plany zrównoważonego rozwoju publicznego transportu zbiorowego uchwalone przez samorządy województw na podstawie ustawy zmienianej w art. 6 przed dniem wejścia w życie niniejszej ustawy podlegają dostosowaniu do planu zrównoważonego rozwoju publicznego transportu zbiorowego ustalonego przez ministra właściwego do spraw transportu zgodnie z przepisami wydanymi na podstawie art. 13 ust. 6 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, w terminie 18 miesięcy od dnia jego ustalenia.
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 5, który wchodzi w życie z dniem 1 stycznia 2021 r.
+**Art. 17.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 5, który wchodzi w życie z dniem 1 stycznia 2021 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych, ustawę z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, ustawę z dnia 16 grudnia 2005 r. o Funduszu Kolejowym oraz ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1214, 1979 i 2020 oraz z 2020 r. poz. 284 i 400. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 253 i 541, z 1991 r. poz. 151, z 1992 r. poz. 20, z 1993 r. poz. 180, z 1994 r. poz. 3 i 285, z 1996 r. poz. 102 i 496, z 1997 r. poz. 43, z 2002 r. poz. 1271, z 2004 r. poz. 1492 oraz z 2017 r. poz. 653. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284 i 374.
 

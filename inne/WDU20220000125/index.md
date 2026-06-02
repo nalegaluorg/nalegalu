@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 16 grudnia 2021 r. w sprawie bezpieczeństwa i higieny pracy w komunikacji miejskiej oraz autobusowej komunikacji międzymiastowej
+# Rozporządzenie Ministra Infrastrukturyz dnia 16 grudnia 2021 r. w sprawie bezpieczeństwa i higieny pracy w komunikacji miejskiej oraz autobusowej komunikacji międzymiastowej Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-16 |
 | Data wydania | 2022-01-19 |
-| Wejście w życie | 2022-04-20 |
 | Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/125/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomieszczenia pracy w zajezdniach i warsztatach Rozdział 3 – Obsługa i naprawa pojazdów. Manewrowanie pojazdami Rozdział 4 – Przechodzenie pieszych Rozdział 5 – Prace na wysokości Rozdział 6 – Prace przy pojazdach Rozdział 7 – Sieć trakcyjna Rozdział 8 – Tory tramwajowe Rozdział 9 – Dodatkowe wymagania dotyczące warunków pracy prowadzących pojazdy na liniach komunikacyjnych w komunikacji miejskiej Rozdział 10 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 23715 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa wymagania bezpieczeństwa i higieny pracy w komunikacji miejskiej oraz autobusowej komunikacji międzymiastowej w zakresie eksploatacji liniowej, dotyczące:
@@ -126,6 +126,7 @@ Pracownik wykonujący prace prowadzone na torach lub przy sieci trakcyjnej, w za
 Pracodawca powinien odpowiednio oznakować i zabezpieczyć pojazdy używane przy pracach remontowych sieci trakcyjnej lub torowisk oraz miejsca prowadzenia tych prac na odcinkach dróg niezamkniętych dla ruchu, zgodnie z przepisami prawa o ruchu drogowym.
 § 9.
 Pracodawca lub osoba sprawująca w imieniu pracodawcy nadzór nad wykonywaniem prac remontowych sieci trakcyjnej lub torowisk, w przypadku stwierdzenia, że sposób wykonywania prac jest nieprawidłowy i stwarza bezpośrednie zagrożenie dla życia i zdrowia pracowników i osób trzecich albo stanowi zagrożenie dla bezpieczeństwa ruchu drogowego, jest obowiązany wstrzymać prowadzenie prac do czasu zastosowania odpowiednich środków eliminujących zagrożenia.
+Pomieszczenia pracy w zajezdniach i warsztatach
 § 10.
 1.
 Zajezdnie oraz warsztaty tramwajowe i trolejbusowe powinny być wyposażone w urządzenia umożliwiające odłączenie spod napięcia całej sieci trakcyjnej lub jej części oraz w sygnalizację świetlną informującą o odłączeniu napięcia. Kolor zielony sygnalizacji świetlnej oznacza brak napięcia w sieci i zezwala na wykonywanie prac na pojeździe. Kolor czerwony sygnalizacji świetlnej oznacza sieć pod napięciem i zakaz wykonywania prac na tym pojeździe.
@@ -215,6 +216,7 @@ wykonanie posadzek antystatycznych na powierzchni rzutu poziomego pojazdu powię
 wykonywanie prac przy instalacji gazowej z wykorzystaniem narzędzi nieiskrzących.
 2.
 W zakresie nieuregulowanym w ust. 1 w odniesieniu do stanowisk, o których mowa w ust. 1, stosuje się odpowiednio wymagania określone w rozporządzeniu Ministra Gospodarki z dnia 8 lipca 2010 r. w sprawie minimalnych wymagań, dotyczących bezpieczeństwa i higieny pracy, związanych z możliwością wystąpienia w miejscu pracy atmosfery wybuchowej (Dz. U. poz. 931).
+Obsługa i naprawa pojazdów. Manewrowanie pojazdami
 § 18.
 1.
 Dopuszczalne prędkości pojazdów nie mogą przekraczać:
@@ -271,6 +273,7 @@ podawać kierującemu tramwajem wcześniej uzgodnione sygnały i znaki zgodnie z
 Prędkość cofanego tramwaju nie może przekraczać 10 km/h, a w przypadku asysty pracownika pilotującego poruszającego się obok cofanego tramwaju nie może przekraczać 5 km/h.
 5.
 W trakcie cofania tramwaju kierujący tramwajem powinien stosować się do znaków i sygnałów podawanych przez pracownika pilotującego.
+Przechodzenie pieszych
 § 24.
 1.
 Przechodzenie nad otwartymi kanałami może się odbywać tylko przy zastosowaniu kładek lub przeznaczonych do tego pomostów.
@@ -278,6 +281,7 @@ Przechodzenie nad otwartymi kanałami może się odbywać tylko przy zastosowani
 Krawędzie pomostów i podestów powinny być oznakowane barwami bezpieczeństwa zgodnymi z normą przenoszącą normę europejską dotyczącą symboli graficznych, barw bezpieczeństwa i znaków bezpieczeństwa. Pomosty i podesty powinny mieć informację o dopuszczalnym obciążeniu.
 3.
 Niedopuszczalne jest przechodzenie pieszych przez bramy w trakcie ruchu pojazdów, z wyjątkiem bram, w których przejście dla pieszych zostało odgrodzone balustradą.
+Prace na wysokości
 § 25.
 1.
 Prace na dachu i przy górnych częściach nadwozia pojazdów powinny być wykonywane z odpowiednio zabezpieczonych rusztowań, balkonów, pomostów, wysięgników lub innych urządzeń przeznaczonych do tego celu. W wyjątkowych przypadkach dopuszcza się wykonywanie tych prac bezpośrednio na dachu pojazdu, pod warunkiem zabezpieczenia pracownika przed upadkiem z wysokości. Pracownik wykonujący pracę na dachu pojazdu powinien być wyposażony w odpowiednie urządzenia chroniące przed upadkiem z wysokości.
@@ -297,6 +301,7 @@ Pracodawca wyznacza osoby, które będą prowadziły bezpośredni nadzór nad pr
 Prace, o których mowa w ust. 1, powinny być wykonywane przy odłączonych odbierakach prądu i wyłączonym napięciu w sieci trakcyjnej. Praca przy podniesionym odbieraku prądu jest dopuszczalna podczas prac związanych z naprawą i przeglądem pantografu, przy wyłączonym napięciu i uszynionej sieci trakcyjnej oraz użyciu przegrody izolującej pomiędzy pantografem a siecią trakcyjną. Szczegółową procedurę wykonywania tych prac powinna określać instrukcja, o której mowa w § 5.
 9.
 Wykonywanie prac przy ścianach czołowych i tylnych pojazdów stojących na kanałach może odbywać się przy zastosowaniu pomostów lub innych urządzeń z balustradą zabezpieczającą od strony otwartego kanału.
+Prace przy pojazdach
 § 26.
 1.
 Czynności obsługowe i naprawcze przy pojazdach powinny być wykonywane zgodnie z instrukcją, o której mowa w § 5.
@@ -350,6 +355,7 @@ W celu zapewnienia właściwych wymagań bezpieczeństwa i higieny pracy przy cz
 pracownicy powinni posiadać odpowiednie uprawnienia wydane przez Dyrektora Transportowego Dozoru Technicznego potwierdzające kwalifikacje niezbędne do wykonania czynności, o których mowa w § 15a rozporządzenia Ministra Transportu z dnia 20 października 2006 r. w sprawie warunków technicznych dozoru technicznego w zakresie projektowania, wytwarzania, eksploatacji, naprawy i modernizacji specjalistycznych urządzeń ciśnieniowych (Dz. U. z 2014 r. poz. 1465);
 2)
 stanowiska pracy powinny spełniać wymagania określone w rozporządzeniu Ministra Gospodarki z dnia 21 listopada 2005 r. w sprawie warunków technicznych, jakim powinny odpowiadać bazy i stacje paliw płynnych, rurociągi przesyłowe dalekosiężne służące do transportu ropy naftowej i produktów naftowych i ich usytuowanie (Dz. U. z 2014 r. poz. 1853 oraz z 2017 r. poz. 282).
+Sieć trakcyjna
 § 33.
 1.
 Prace przy sieci trakcyjnej wykonuje się przy wyłączonym napięciu.
@@ -399,6 +405,7 @@ Naprężniki, ściągacze, haki i inne elementy sieci trakcyjnej mocuje się do 
 Niedopuszczalne jest mocowanie elementów sieci trakcyjnej, na które działają siły naciągu, do konstrukcji pojazdów lub wagonów.
 § 41.
 Niedopuszczalne jest przebywanie pracowników pod uniesionym słupem trakcyjnym oraz wchodzenie na słup przed jego trwałym posadowieniem.
+Tory tramwajowe
 § 42.
 Przy pracach na torowiskach prowadzonych podczas ruchu tramwajów i innych pojazdów należy:
 1)
@@ -421,6 +428,7 @@ Czyszczenie zwrotnic i rozjazdów powinno być wykonywane za pomocą przeznaczon
 Używanie urządzeń dźwignicowych do pracy pod siecią trakcyjną będącą pod napięciem jest dopuszczalne wyłącznie w przypadku wykonywania niewielkich prac niewymagających zatrzymania ruchu tramwajowego na dłuższy czas oraz przy zachowaniu zasad bezpieczeństwa przeciwporażeniowego. W pozostałych przypadkach używanie urządzeń dźwignicowych do pracy pod siecią trakcyjną będącą pod napięciem jest niedopuszczalne.
 § 45.
 Pracodawca, który zarządza torowiskiem, zapewnia, aby dojścia do zwrotnic rozjazdowych i innych miejsc, po których przechodzą motorniczy, w szczególności w celu ręcznego przełożenia zwrotnicy, posiadały nawierzchnię utwardzoną i równą.
+Dodatkowe wymagania dotyczące warunków pracy prowadzących pojazdy na liniach komunikacyjnych w komunikacji miejskiej
 § 46.
 1.
 Pracodawca będący operatorem lub przewoźnikiem publicznego transportu zbiorowego współfinansowanego za pośrednictwem rekompensaty, o której mowa w ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, zapewnia kierującym pojazdami na liniach komunikacyjnych możliwość skorzystania z:
@@ -491,6 +499,7 @@ klimatyzowane oddzielnie;
 ogrzewane.
 2.
 Ogrzewanie w kabinie kierującego pojazdem powinno zapewnić temperaturę nie niższą niż 18°C.
+Przepisy przejściowe i końcowe
 § 49.
 W terminie 12 miesięcy od dnia wejścia w życie rozporządzenia należy dostosować bramy do wymagań określonych w § 11. Wymagania określone w § 11 ust. 1 nie dotyczą:
 1)
@@ -516,26 +525,45 @@ na które przed dniem wejścia w życie rozporządzenia została rozpoczęta pro
 § 54.
 Traci moc rozporządzenie Ministra Infrastruktury z dnia 12 marca 2002 r. w sprawie bezpieczeństwa i higieny pracy w komunikacji miejskiej oraz autobusowej komunikacji międzymiastowej (Dz. U. poz. 341 oraz z 2005 r. poz. 1866).
 § 55.
-Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomieszczenia pracy w zajezdniach i warsztatach
+#### Rozdział 2 – Pomieszczenia pracy w zajezdniach i warsztatach
 
-#### Rozdział 3 Obsługa i naprawa pojazdów. Manewrowanie pojazdami
+#### Rozdział 3 – Obsługa i naprawa pojazdów. Manewrowanie pojazdami
 
-#### Rozdział 4 Przechodzenie pieszych
+#### Rozdział 4 – Przechodzenie pieszych
 
-#### Rozdział 5 Prace na wysokości
+#### Rozdział 5 – Prace na wysokości
 
-#### Rozdział 6 Prace przy pojazdach
+#### Rozdział 6 – Prace przy pojazdach
 
-#### Rozdział 7 Sieć trakcyjna
+#### Rozdział 7 – Sieć trakcyjna
 
-#### Rozdział 8 Tory tramwajowe
+#### Rozdział 8 – Tory tramwajowe
 
-#### Rozdział 9 Dodatkowe wymagania dotyczące warunków pracy prowadzących pojazdy na liniach komunikacyjnych w komunikacji miejskiej
+#### Rozdział 9 – Dodatkowe wymagania dotyczące warunków pracy prowadzących pojazdy na liniach komunikacyjnych w komunikacji miejskiej
 
-#### Rozdział 10 Przepisy przejściowe i końcowe
+#### Rozdział 10 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju Regionalnegoz dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+# Rozporządzenie Ministra Rozwoju Regionalnegoz dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-21 |
 | Data wydania | 2013-03-29 |
-| Wejście w życie | 2013-03-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/412/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom wsparcia na działalność gospodarczą w dziedzinie gospodarki elektronicznej w ramach działania 8.1. Wspieranie działalności gospodarczej w dziedzinie gospodarki elektronicznej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 3 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym przedsiębiorcom lub średnim przedsiębiorcom wsparcia na wdrażanie elektronicznego biznesu typu B2B w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 4 – Tryb udzielania wsparcia na tworzenie i rozwój gospodarki elektronicznej Rozdział 5 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach następujących działań ósmej osi priorytetowej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013:
@@ -76,8 +76,7 @@ dla mikroprzedsiębiorcy, małego przedsiębiorcy lub średniego przedsiębiorcy
 b)
 dla mikroprzedsiębiorcy, małego przedsiębiorcy lub średniego przedsiębiorcy określone w § 13,
 c)
-dla mikroprzedsiębiorców, małych przedsiębiorców lub średnich przedsiębiorców wchodzących w skład sieci kontrahentów określone w § 14
-stanowi pomoc de minimis i jest udzielane zgodnie z warunkami określonymi w rozporządzeniu Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5, z późn. zm.).
+dla mikroprzedsiębiorców, małych przedsiębiorców lub średnich przedsiębiorców wchodzących w skład sieci kontrahentów określone w § 14 – stanowi pomoc de minimis i jest udzielane zgodnie z warunkami określonymi w rozporządzeniu Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5, z późn. zm.).
 2.
 Wsparcie w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B, w zakresie inwestycji, o których mowa w § 12, stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 13 w rozdziale II oraz rozdziału III rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólnego rozporządzenia w sprawie wyłączeń blokowych) (Dz. Urz. UE L 214 z 09.08.2008, str. 3), zwanego dalej „rozporządzeniem Komisji”.
 3.
@@ -140,6 +139,7 @@ wartościach niematerialnych i prawnych – należy przez to rozumieć wartości
 wydatkach kwalifikujących się do objęcia wsparciem – należy przez to rozumieć wydatki określone w rozporządzeniu, faktycznie poniesione i udokumentowane, bezpośrednio związane z projektem i niezbędne do jego realizacji, pomniejszone o naliczony podatek od towarów i usług, z wyjątkiem sytuacji, gdy zgodnie z odrębnymi przepisami podmiotom, o których mowa w § 4 ust. 2, § 9 ust. 2 oraz § 14, nie przysługuje prawo do jego zwrotu lub odliczenia od należnego podatku od towarów i usług.
 2.
 Wydatki kwalifikujące się do objęcia wsparciem poniesione w walucie obcej przelicza się na walutę polską po kursie sprzedaży zastosowanym przez bank dokonujący płatności w dniu jej dokonania.
+Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom wsparcia na działalność gospodarczą w dziedzinie gospodarki elektronicznej w ramach działania 8.1. Wspieranie działalności gospodarczej w dziedzinie gospodarki elektronicznej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 4.
 1.
 Agencja może udzielić wsparcia na działalność gospodarczą w dziedzinie gospodarki elektronicznej z przeznaczeniem na realizację projektu polegającego na świadczeniu co najmniej jednej e-usługi, przy czym projekt ten może obejmować wytworzenie produktów cyfrowych koniecznych do świadczenia e-usługi.
@@ -162,7 +162,7 @@ złożył wniosek o udzielenie wsparcia przed rozpoczęciem realizacji projektu,
 4)
 zobowiązał się do utrzymania trwałości projektu objętego wsparciem przez okres co najmniej 3 lat od dnia zakończenia realizacji projektu;
 5)
-wraz z wnioskiem o udzielenie wsparcia złożył oświadczenie, że w okresie od dnia złożenia wniosku o udzielenie wsparcia do 3 lat po dniu zakończenia realizacji projektu nie jest ani nie będzie kontrolowany przez przedsiębiorcę działającego na rynku właściwym, w rozumieniu przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.);
+wraz z wnioskiem o udzielenie wsparcia złożył oświadczenie, że w okresie od dnia złożenia wniosku o udzielenie wsparcia do 3 lat po dniu zakończenia realizacji projektu nie jest ani nie będzie kontrolowany przez przedsiębiorcę działającego na rynku właściwym, w rozumieniu przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173.);
 6)
 złożył nie więcej niż jeden wniosek o udzielenie wsparcia w ramach danego konkursu;
 7)
@@ -241,10 +241,10 @@ W przypadku mikroprzedsiębiorcy lub małego przedsiębiorcy, który spełnia ł
 1)
 jest osobą fizyczną i w roku złożenia wniosku o udzielenie wsparcia ma nie więcej niż 27 lat,
 2)
-ubiega się o wsparcie w kwocie nieprzekraczającej 80 000 zł
-wielkość wsparcia, o którym mowa w § 4 ust. 1, może wynosić do 85% wydatków kwalifikujących się do objęcia wsparciem. W przypadku wspólników spółki cywilnej kryterium wieku, o którym mowa w pkt 1, powinno być spełnione przez każdego wspólnika.
+ubiega się o wsparcie w kwocie nieprzekraczającej 80 000 zł – wielkość wsparcia, o którym mowa w § 4 ust. 1, może wynosić do 85% wydatków kwalifikujących się do objęcia wsparciem. W przypadku wspólników spółki cywilnej kryterium wieku, o którym mowa w pkt 1, powinno być spełnione przez każdego wspólnika.
 4.
 Mikroprzedsiębiorca lub mały przedsiębiorca otrzymujący wsparcie, o którym mowa w § 4 ust. 1, jest zobowiązany do zapewnienia finansowania projektu w części nieobjętej wsparciem.
+Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym przedsiębiorcom lub średnim przedsiębiorcom wsparcia na wdrażanie elektronicznego biznesu typu B2B w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 9.
 1.
 Agencja może udzielić wsparcia z przeznaczeniem na realizację projektów o charakterze technicznym, informatycznym i organizacyjnym, które prowadzą do wdrożenia rozwiązania elektronicznego biznesu typu B2B.
@@ -343,7 +343,7 @@ przyznanie pomocy byłoby uzależnione od faktu jej przekazania w części lub w
 3)
 prowadzoną w sektorach rybołówstwa i akwakultury w rozumieniu rozporządzenia Rady, o którym mowa w § 5 ust. 1 pkt 1;
 4)
-prowadzoną w sektorach hutnictwa żelaza i stali oraz włókien syntetycznych w rozumieniu przepisów Unii Europejskiej dotyczących pomocy publicznej;
+prowadzoną w sektorach hutnictwa żelaza i stali oraz włókien syntetycznych w rozumieniu przepisów Unii Europejskiej dotyczących pomocy publicznejZakres sektora hutnictwa żelaza i stali został określony w załączniku I do Wytycznych w sprawie krajowej pomocy regionalnej na lata 2007–2013 (Dz. Urz. UE C 54 z 04.03.2006, str. 13), natomiast zakres sektora włókien syntetycznych w załączniku II do tych Wytycznych.;
 5)
 prowadzoną w sektorze węglowym w rozumieniu decyzji Rady, o której mowa w § 5 ust. 1 pkt 4;
 6)
@@ -488,9 +488,10 @@ Zaświadczenie o pomocy de minimis udzielanej uczestnikom sieci kontrahentów wy
 Mikroprzedsiębiorca, mały przedsiębiorca lub średni przedsiębiorca otrzymujący wsparcie, o którym mowa w § 9 ust. 1, zapewnia finansowanie projektu w części nieobjętej wsparciem ze środków własnych pochodzących z innych źródeł niż pomoc publiczna.
 § 16.
 Całkowita wartość projektu nie może przekroczyć 50 000 000 euro na dzień udzielania wsparcia.
+Tryb udzielania wsparcia na tworzenie i rozwój gospodarki elektronicznej
 § 17.
 1.
-Agencja, w celu wyłonienia projektów do wsparcia, ogłasza na swojej stronie internetowej konkurs, o którym mowa w art. 28 ust. 1 pkt 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.).
+Agencja, w celu wyłonienia projektów do wsparcia, ogłasza na swojej stronie internetowej konkurs, o którym mowa w art. 28 ust. 1 pkt 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644 oraz z 2012 r. poz. 1237.).
 2.
 Ogłoszenie, o którym mowa w ust. 1, określa:
 1)
@@ -530,6 +531,7 @@ Do postępowania w sprawie udzielenia wsparcia stosuje się art. 29 ust. 4, art.
 Pomoc de minimis w zakresie wsparcia w ramach działania 8.1. Wspieranie działalności gospodarczej w dziedzinie gospodarki elektronicznej oraz działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B na warunkach, o których mowa w § 13 i § 14, może być udzielana do dnia 30 czerwca 2014 r.
 2.
 Pomoc w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B na warunkach, o których mowa w § 12, może być udzielana do dnia 31 grudnia 2013 r.
+Przepisy przejściowe i końcowe
 § 20.
 1.
 Do umów o udzielenie wsparcia zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
@@ -538,15 +540,25 @@ Do wniosków o udzielenie wsparcia złożonych w ramach konkursów ogłoszonych 
 § 21.
 Traci moc rozporządzenie Ministra Rozwoju Regionalnego z dnia 13 sierpnia 2008 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie tworzenia i rozwoju gospodarki elektronicznej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. Nr 153, poz. 956, z 2009 r. Nr 21, poz. 115, z 2010 r. Nr 105, poz. 666 oraz z 2012 r. poz. 350).
 § 22.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173. 5) Zakres sektora hutnictwa żelaza i stali został określony w załączniku I do Wytycznych w sprawie krajowej pomocy regionalnej na lata 2007–2013 (Dz. Urz. UE C 54 z 04.03.2006, str. 13), natomiast zakres sektora włókien syntetycznych w załączniku II do tych Wytycznych. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644 oraz z 2012 r. poz. 1237.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom wsparcia na działalność gospodarczą w dziedzinie gospodarki elektronicznej w ramach działania 8.1. Wspieranie działalności gospodarczej w dziedzinie gospodarki elektronicznej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 2 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom wsparcia na działalność gospodarczą w dziedzinie gospodarki elektronicznej w ramach działania 8.1. Wspieranie działalności gospodarczej w dziedzinie gospodarki elektronicznej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 3 Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym przedsiębiorcom lub średnim przedsiębiorcom wsparcia na wdrażanie elektronicznego biznesu typu B2B w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 3 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym przedsiębiorcom lub średnim przedsiębiorcom wsparcia na wdrażanie elektronicznego biznesu typu B2B w ramach działania 8.2. Wspieranie wdrażania elektronicznego biznesu typu B2B Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 4 Tryb udzielania wsparcia na tworzenie i rozwój gospodarki elektronicznej
+#### Rozdział 4 – Tryb udzielania wsparcia na tworzenie i rozwój gospodarki elektronicznej
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

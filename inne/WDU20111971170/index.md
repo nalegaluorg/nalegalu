@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy oraz niektórych innych ustaw
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-09-21 |
-| Wejście w życie | 2011-10-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111971170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1170/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121, z późn. zm.) wprowadza się następujące zmiany:
+Kontrola
+
+**Art. 1.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 125, poz. 1035 i Nr 157, poz. 1241, z 2010 r. Nr 18, poz. 100 i Nr 257, poz. 1726 oraz z 2011 r. Nr 112, poz. 654.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 w ust. 1 pkt 1 otrzymuje brzmienie: „
 - **1)** organ sądowy lub każdy inny właściwy organ państwa członkowskiego Unii Europejskiej, z wyłączeniem Danii, uprawniony do wszczęcia postępowania upadłościowego wyda, zgodnie z art. 3 ust. 1 rozporządzenia Rady (WE) nr 1346/2000, orzeczenie o wszczęciu wobec przedsiębiorcy lub przedsiębiorcy zagranicznego postępowania upadłościowego, o którym mowa w art. 2 lit. a lub c tego rozporządzenia, oraz powoła zarządcę albo ” ;
@@ -69,7 +70,7 @@ source: "eli-html"
 
 3. Dysponent Funduszu może upoważnić Dyrektora Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych do wykonywania czynności, o których mowa w ust. 1. ” .
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2010 r. Nr 51, poz. 307, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2010 r. Nr 51, poz. 307, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 352, Nr 75, poz. 473, Nr 105, poz. 655, Nr 149, poz. 996, Nr 182, poz. 1228, Nr 219, poz. 1442, Nr 226, poz. 1475 i 1478 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 84, poz. 455, Nr 102, poz. 585, Nr 106, poz. 622, Nr 120, poz. 690, Nr 131, poz. 764, Nr 149, poz. 887, Nr 168, poz. 1006 i Nr 178, poz. 1059.) wprowadza się następujące zmiany:
 
 - **1)** w art. 32 w ust. 3 pkt 4 otrzymuje brzmienie: „
 - **4)** nie otrzymuje świadczeń pieniężnych wypłacanych z Funduszu Pracy lub z Funduszu Gwarantowanych Świadczeń Pracowniczych; ” ;
@@ -79,17 +80,17 @@ source: "eli-html"
 - **3)** w art. 35 w ust. 1 pkt 3a otrzymuje brzmienie: „
 - **3a)** wojewódzkie urzędy pracy – od świadczeń wypłacanych z Funduszu Gwarantowanych Świadczeń Pracowniczych, ” .
 
-**Art. 3.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm.) w art. 4 w pkt 2 lit. s otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808 i Nr 171, poz. 1016.) w art. 4 w pkt 2 lit. s otrzymuje brzmienie: „
 
 wojewódzki urząd pracy – w stosunku do osób, których świadczenia pracownicze finansowane są ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, jeżeli świadczenia te wypłacane są przez ten urząd, ” .
 
 - **s)**
 
-**Art. 4.** W ustawie z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 219, poz. 1706, z 2010 r. Nr 96, poz. 620, Nr 108, poz. 685, Nr 152, poz. 1020, Nr 161, poz. 1078, Nr 226, poz. 1475 i Nr 238, poz. 1578 oraz z 2011 r. Nr 171, poz. 1016 i Nr 178, poz. 1061.) wprowadza się następujące zmiany:
 
 - **1)** art. 70 otrzymuje brzmienie: „
 
-**Art. 70.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 70.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 125, poz. 1035 i Nr 157, poz. 1241, z 2010 r. Nr 18, poz. 100 i Nr 257, poz. 1726 oraz z 2011 r. Nr 112, poz. 654 i Nr 197, poz. 1170.) wprowadza się następujące zmiany:
 
 - **1)** tytuł rozdziału 4 otrzymuje brzmienie: „ Zakres oraz tryb zaspokajania roszczeń pracowniczych z Funduszu Gwarantowanych Świadczeń Pracowniczych ” ;
 - **2)** użyte w art. 12a ust. 1, 2, 4 i 5, art. 14a ust. 1, art. 15 ust. 1, 2 i 4, art. 16 ust. 2 i 3, art. 17 ust. 2, ust. 3 pkt 1 i ust. 4 oraz w art. 20 ust. 1 w różnym przypadku wyrazy „kierownik Biura Terenowego Funduszu Gwarantowanych Świadczeń Pracowniczych” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”;
@@ -226,7 +227,7 @@ wojewódzki urząd pracy – w stosunku do osób, których świadczenia pracowni
 - **16)** w art. 39 w ust. 2 uchyla się pkt 3 i 4;
 - **17)** po art. 39 dodaje się rozdział 7a w brzmieniu: „
 
-#### Rozdział 7a Kontrola
+#### Rozdział 7a
 
 **Art. 39a.**
 
@@ -311,5 +312,5 @@ wojewódzki urząd pracy – w stosunku do osób, których świadczenia pracowni
 
 **Art. 7.** Środki Funduszu Pracy przekazane do Funduszu Gwarantowanych Świadczeń Pracowniczych na podstawie art. 31 ustawy z dnia 1 lipca 2009 r. o łagodzeniu skutków kryzysu ekonomicznego dla pracowników i przedsiębiorców (Dz. U. Nr 125, poz. 1035 oraz z 2010 r. Nr 219, poz. 1445), które do dnia 31 grudnia 2011 r. nie zostaną wykorzystane, a także nie będą objęte zobowiązaniami z tytułu zawartych umów, podlegają zwrotowi na rachunek dysponenta Funduszu Pracy, nie później jednak niż do dnia 30 kwietnia 2012 r.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 i 3, które wchodzą w życie z dniem 1 stycznia 2012 r.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 i 3, które wchodzą w życie z dniem 1 stycznia 2012 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 125, poz. 1035 i Nr 157, poz. 1241, z 2010 r. Nr 18, poz. 100 i Nr 257, poz. 1726 oraz z 2011 r. Nr 112, poz. 654. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 352, Nr 75, poz. 473, Nr 105, poz. 655, Nr 149, poz. 996, Nr 182, poz. 1228, Nr 219, poz. 1442, Nr 226, poz. 1475 i 1478 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 84, poz. 455, Nr 102, poz. 585, Nr 106, poz. 622, Nr 120, poz. 690, Nr 131, poz. 764, Nr 149, poz. 887, Nr 168, poz. 1006 i Nr 178, poz. 1059. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808 i Nr 171, poz. 1016. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 219, poz. 1706, z 2010 r. Nr 96, poz. 620, Nr 108, poz. 685, Nr 152, poz. 1020, Nr 161, poz. 1078, Nr 226, poz. 1475 i Nr 238, poz. 1578 oraz z 2011 r. Nr 171, poz. 1016 i Nr 178, poz. 1061. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 125, poz. 1035 i Nr 157, poz. 1241, z 2010 r. Nr 18, poz. 100 i Nr 257, poz. 1726 oraz z 2011 r. Nr 112, poz. 654 i Nr 197, poz. 1170.
 

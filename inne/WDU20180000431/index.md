@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 stycznia 2018 r. o zmianie ustawy o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa oraz niektórych innych ustaw
+# Ustawa z dnia 26 stycznia 2018 r. o zmianie ustawy o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece oraz ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-26 |
 | Data wydania | 2018-02-27 |
-| Wejście w życie | 2018-03-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000431) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/431/text.pdf) |
 
@@ -249,14 +248,23 @@ source: "eli-html"
 
 **Art. 28a.** Przewodniczący Komisji po zamknięciu rozprawy zakreśla stronom postępowania rozpoznawczego termin do wypowiedzenia się co do zebranych dowodów i materiałów oraz zgłoszonych żądań. ” ;
 
-- **26)** w art. 29: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) uchyla decyzję reprywatyzacyjną w całości albo w części i w tym zakresie orzeka co do istoty sprawy albo, uchylając tę decyzję, umarza postępowanie w całości albo w części, albo ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) uchyla decyzję reprywatyzacyjną w całości albo w części i zawiesza postępowanie w przypadku przeszkody uniemożliwiającej dalsze prowadzenie postępowania i wydanie decyzji, albo ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) stwierdza nieważność decyzji reprywatyzacyjnej lub postanowienia w całości lub w części, jeżeli zachodzą przesłanki określone w art. 156 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego lub w przepisach szczególnych, albo ” , – w pkt 5 kropkę zastępuje się przecinkiem i dodaje się wyraz „albo” oraz dodaje się pkt 6 w brzmieniu: „ 6) rozpoznaje wniosek, o którym mowa w art. 7 ust. 1 dekretu. ” , dodaje się ust. 3 w brzmieniu: „
+- **26)** w art. 29: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** uchyla decyzję reprywatyzacyjną w całości albo w części i w tym zakresie orzeka co do istoty sprawy albo, uchylając tę decyzję, umarza postępowanie w całości albo w części, albo ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** uchyla decyzję reprywatyzacyjną w całości albo w części i zawiesza postępowanie w przypadku przeszkody uniemożliwiającej dalsze prowadzenie postępowania i wydanie decyzji, albo ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** stwierdza nieważność decyzji reprywatyzacyjnej lub postanowienia w całości lub w części, jeżeli zachodzą przesłanki określone w art. 156 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego lub w przepisach szczególnych, albo ” , w pkt 5 kropkę zastępuje się przecinkiem i dodaje się wyraz „albo” oraz dodaje się pkt 6 w brzmieniu: „
+- **6)** rozpoznaje wniosek, o którym mowa w art. 7 ust. 1 dekretu. ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. Wydając decyzję, o której mowa w ust. 1 pkt 2, Komisja uchyla decyzję w przedmiocie ustanowienia prawa użytkowania wieczystego nieruchomości warszawskiej i decyzję o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości, o której mowa w art. 3 ust. 1 ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. z 2012 r. poz. 83 oraz z 2015 r. poz. 373 i 524). ” ;
 
-- **27)** w art. 30: w ust. 1: – po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „ 4a) stwierdzono inne naruszenie przepisów postępowania, jeżeli mogło ono mieć istotny wpływ na wynik sprawy, w szczególności jeżeli stroną postępowania o wydanie decyzji reprywatyzacyjnej była osoba, która nie była osobą uprawnioną w rozumieniu art. 7 ust. 1 dekretu, osobę uprawnioną reprezentował kurator ustanowiony dla osoby nieznanej z miejsca pobytu, a nie było podstaw do jego ustanowienia, ustanowiono kuratora spadku działającego w imieniu osoby nieżyjącej lub z naruszeniem przepisów o dziedziczeniu, w tym przepisów dotyczących dziedziczenia spadków wakujących lub nieobjętych, lub stwierdzono naruszenie prawa materialnego, które miało wpływ na wynik sprawy; 4b) decyzja reprywatyzacyjna została wydana pomimo nieustalenia posiadania nieruchomości warszawskiej przez dotychczasowego właściciela lub jego następców prawnych, o którym mowa w art. 7 ust. 1 dekretu; ” , – pkt 5 otrzymuje brzmienie: „ 5) przeniesienie roszczeń do nieruchomości warszawskiej było rażąco sprzeczne z interesem społecznym, w szczególności jeżeli nastąpiło w zamian za świadczenie wzajemne rażąco niewspółmierne do wartości nieruchomości warszawskiej; ” , dodaje się ust. 3 i 4 w brzmieniu: „
+- **27)** w art. 30: w ust. 1: po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „
     - **a)**
+
+- **4a)** stwierdzono inne naruszenie przepisów postępowania, jeżeli mogło ono mieć istotny wpływ na wynik sprawy, w szczególności jeżeli stroną postępowania o wydanie decyzji reprywatyzacyjnej była osoba, która nie była osobą uprawnioną w rozumieniu art. 7 ust. 1 dekretu, osobę uprawnioną reprezentował kurator ustanowiony dla osoby nieznanej z miejsca pobytu, a nie było podstaw do jego ustanowienia, ustanowiono kuratora spadku działającego w imieniu osoby nieżyjącej lub z naruszeniem przepisów o dziedziczeniu, w tym przepisów dotyczących dziedziczenia spadków wakujących lub nieobjętych, lub stwierdzono naruszenie prawa materialnego, które miało wpływ na wynik sprawy;
+- **4b)** decyzja reprywatyzacyjna została wydana pomimo nieustalenia posiadania nieruchomości warszawskiej przez dotychczasowego właściciela lub jego następców prawnych, o którym mowa w art. 7 ust. 1 dekretu; ” , pkt 5 otrzymuje brzmienie: „
+- **5)** przeniesienie roszczeń do nieruchomości warszawskiej było rażąco sprzeczne z interesem społecznym, w szczególności jeżeli nastąpiło w zamian za świadczenie wzajemne rażąco niewspółmierne do wartości nieruchomości warszawskiej; ” , dodaje się ust. 3 i 4 w brzmieniu: „
     - **b)**
 
 3. W przypadku stwierdzenia, że decyzja reprywatyzacyjna została wydana pomimo nieustalenia posiadania nieruchomości warszawskiej przez dotychczasowego właściciela lub jego następców prawnych, o którym mowa w art. 7 ust. 1 dekretu, ciężar udowodnienia posiadania spoczywa na osobie, która z tego faktu wywodzi skutki prawne.
@@ -445,5 +453,5 @@ source: "eli-html"
 
 **Art. 7.** Do postępowań toczących się przed Komisją do spraw usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece oraz ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym.
 

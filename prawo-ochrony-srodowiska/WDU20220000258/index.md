@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 stycznia 2022 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+# Ustawa z dnia 13 stycznia 2022 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw oraz ustawę z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-13 |
 | Data wydania | 2022-02-03 |
-| Wejście w życie | 2022-02-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/258/text.pdf) |
 
@@ -34,5 +33,5 @@ source: "eli-html"
 
 **Art. 36a.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących decyzji o środowiskowych uwarunkowaniach wydawanej przed uzyskaniem decyzji, o której mowa w art. 72 ust. 1 pkt 18a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, stosuje się przepisy tej ustawy w brzmieniu nadanym niniejszą ustawą. ” .
 
-**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw oraz ustawę z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw.
 

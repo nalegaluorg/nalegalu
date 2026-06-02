@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-10 |
 | Data wydania | 2015-09-01 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1276/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 czerwca 1963 r. o zagospodarowaniu wspólnot gruntowych (Dz. U. Nr 28, poz. 169, z późn. zm.) wprowadza się następujące zmiany:
+Przekształcanie wspólnot gruntowych we współwłasność
+
+**Art. 1.** W ustawie z dnia 29 czerwca 1963 r. o zagospodarowaniu wspólnot gruntowych (Dz. U. Nr 28, poz. 169, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1982 r. Nr 11, poz. 80, z 1990 r. Nr 34, poz. 198, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 113, poz. 984 oraz z 2009 r. Nr 92, poz. 753.) wprowadza się następujące zmiany:
 
 - **1)** po art. 2 dodaje się art. 2a w brzmieniu: „
 
@@ -110,7 +111,7 @@ source: "eli-html"
 - **1)** że nieruchomość stanowi wspólnotę gruntową,
 - **2)** o spełnieniu warunków do nabycia uprawnień do udziału we wspólnocie gruntowej. Starosta wydaje decyzję o ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6a, oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie. W przypadku gdy nie jest możliwe ustalenie uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6a, starosta wydaje decyzję o nieustaleniu wykazu uprawnionych do udziału we wspólnocie. Decyzje, postanowienia oraz inne pisma w sprawach, o których mowa w art. 6a oraz art. 8e, doręcza się poprzez ogłoszenie w sposób zwyczajowo przyjęty w danej miejscowości, wywieszenie w urzędzie gminy oraz starostwa na okres 14 dni. Po upływie tego okresu pismo uważa się za doręczone.
 
-1. W przypadku wydania decyzji o nieustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej, o której mowa w art. 8e, gmina może nieodpłatnie nabyć na własność nieruchomości oznaczone w ewidencji gruntów i budynków jako wspólnota gruntowa na cele, o których mowa w art. 24 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, z późn. zm.), związane z realizacją zadań własnych gminy.
+1. W przypadku wydania decyzji o nieustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej, o której mowa w art. 8e, gmina może nieodpłatnie nabyć na własność nieruchomości oznaczone w ewidencji gruntów i budynków jako wspólnota gruntowa na cele, o których mowa w art. 24 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 985, 1039, 1180 i 1265.), związane z realizacją zadań własnych gminy.
 
 2. Nabycie nieruchomości, o których mowa w ust. 1, następuje na wniosek gminy.
 
@@ -127,7 +128,7 @@ source: "eli-html"
 3. Odwołania od decyzji wojewody rozpatruje minister właściwy do spraw rozwoju wsi. Ostateczna decyzja o nieodpłatnym nabyciu przez gminę własności nieruchomości, o których mowa w art. 8g ust. 1, stanowi podstawę do dokonania wpisu w księdze wieczystej. Wojewoda wydaje decyzję o nieodpłatnym nabyciu przez Skarb Państwa nieruchomości oznaczonych w ewidencji gruntów i budynków jako wspólnota gruntowa w przypadku, gdy:
 
 - **1)** w terminie, o którym mowa w art. 8h ust. 2, gmina nie złożyła wniosku albo
-- **2)** decyzja, o której mowa w art. 8i ust. 2, stała się ostateczna. Ostateczna decyzja o nieodpłatnym nabyciu przez Skarb Państwa własności nieruchomości, o której mowa w art. 8k, stanowi podstawę do dokonania wpisu w księdze wieczystej. W postępowaniu administracyjnym organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.) w stosunku do starosty jest wojewoda. W postępowaniach administracyjnych uregulowanych w niniejszym rozdziale nie stosuje się art. 97 § 1 pkt 1 i 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Do postępowań dotyczących wzruszenia decyzji ostatecznych wydanych na podstawie niniejszej ustawy nie stosuje się art. 145–145b oraz art. 154–156 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, jeżeli upłynęło 5 lat od dnia, w którym stała się ostateczna, decyzja o ustaleniu, które nieruchomości stanowią wspólnotę gruntową, ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie. ” ;
+- **2)** decyzja, o której mowa w art. 8i ust. 2, stała się ostateczna. Ostateczna decyzja o nieodpłatnym nabyciu przez Skarb Państwa własności nieruchomości, o której mowa w art. 8k, stanowi podstawę do dokonania wpisu w księdze wieczystej. W postępowaniu administracyjnym organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211, 702 i 1274.) w stosunku do starosty jest wojewoda. W postępowaniach administracyjnych uregulowanych w niniejszym rozdziale nie stosuje się art. 97 § 1 pkt 1 i 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Do postępowań dotyczących wzruszenia decyzji ostatecznych wydanych na podstawie niniejszej ustawy nie stosuje się art. 145–145b oraz art. 154–156 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, jeżeli upłynęło 5 lat od dnia, w którym stała się ostateczna, decyzja o ustaleniu, które nieruchomości stanowią wspólnotę gruntową, ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie. ” ;
 - **7)** w art. 9 ust. 2 i 3 otrzymują brzmienie: „
 
 2. Wielkość udziałów uprawnionych do korzystania ze wspólnoty gruntowej ustala się w ten sposób, że połowę wspólnoty dzieli się pomiędzy uprawnionych, o których mowa w art. 6 ust. 1 oraz art. 6a pkt 1, w równych częściach, drugą zaś połowę – proporcjonalnie do obszarów gruntów posiadanych przez każdego z uprawnionych, a położonych na obszarze tej samej lub graniczącej z nią gminy.
@@ -172,13 +173,13 @@ source: "eli-html"
 
 - **15)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Przekształcanie wspólnot gruntowych we współwłasność
+#### Rozdział 3a
 
 **Art. 30a.**
 
 1. Uprawnieni do udziału we wspólnocie gruntowej mogą podjąć uchwałę o przekształceniu wspólnoty gruntowej we współwłasność w częściach ułamkowych.
 
-2. Uchwała, o której mowa w ust. 1, jest podejmowana jednogłośnie przez wszystkich uprawnionych do udziału we wspólnocie gruntowej. W przypadku braku jednomyślności stosuje się odpowiednio art. 199 zdanie drugie ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.).
+2. Uchwała, o której mowa w ust. 1, jest podejmowana jednogłośnie przez wszystkich uprawnionych do udziału we wspólnocie gruntowej. W przypadku braku jednomyślności stosuje się odpowiednio art. 199 zdanie drugie ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397, 539 i 1137.).
 
 3. Uchwała, o której mowa w ust. 1, określa współwłaścicieli nieruchomości i wielkość przypadających im udziałów we współwłasności. Wielkość udziału jaki przysługuje współwłaścicielowi odpowiada wielkości udziału jaki przypadał mu we wspólnocie gruntowej.
 
@@ -188,5 +189,5 @@ source: "eli-html"
 
 2. Po dniu 31 marca 2016 r. postępowania, o których mowa w ust. 1, prowadzi się na podstawie przepisów ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, z tym że nie składa się wniosku, o którym mowa w art. 8a ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą. Spółki do sprawowania zarządu nad wspólnotą i do właściwego zagospodarowania gruntów wchodzących w skład tej wspólnoty dokonają zmian swoich statutów w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1982 r. Nr 11, poz. 80, z 1990 r. Nr 34, poz. 198, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 113, poz. 984 oraz z 2009 r. Nr 92, poz. 753. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 985, 1039, 1180 i 1265. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211, 702 i 1274. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4, 397, 539 i 1137.
 

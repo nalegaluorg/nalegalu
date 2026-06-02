@@ -21,7 +21,6 @@ source: "eli-html"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1994-11-19 |
-| Wejście w życie | 1994-12-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941260626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/626/text.pdf) |
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 15 września 2017 r. w sprawie szczegółowych sposobów postępowania przy zwalczaniu i zapobieganiu rozprzestrzenianiu się organizmu Anoplophora Glabripennis (Motschulsky)
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 15 września 2017 r. w sprawie szczegółowych sposobów postępowania przy zwalczaniu i zapobieganiu rozprzestrzenianiu się organizmu Anoplophora Glabripennis (Motschulsky) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-15 |
 | Data wydania | 2017-10-06 |
-| Wejście w życie | 2017-10-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001852) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1852/text.pdf) |
 
@@ -37,7 +36,7 @@ Treść rozporządzenia
 ## Załącznik nr 4 — – Wielkość próby, jaką pobiera się w ramach kontroli, o których mowa w § 7 pkt 2 lit. c i § 8 pkt 2 lit. b
 
 Treść rozporządzenia
-Na podstawie art. 10 ust. 1 pkt 1–4 oraz art. 20 ust. 1 pkt 4–6 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2016 r. poz. 2041 i 2246) zarządza się, co następuje:
+Niniejsze rozporządzenie wykonuje decyzję wykonawczą Komisji (UE) 2015/893 z dnia 9 czerwca 2015 r. w sprawie środków zapobiegających wprowadzaniu do Unii i rozprzestrzenianiu się w Unii organizmu Anoplophora glabripennis (Motschulsky) (Dz. Urz. UE L 146 z 11.06.2015, str. 16). Na podstawie art. 10 ust. 1 pkt 1–4 oraz art. 20 ust. 1 pkt 4–6 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2016 r. poz. 2041 i 2246) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -202,7 +201,7 @@ resztki powstające w wyniku tych zabiegów są unieszkodliwiane w sposób zapew
 wojewódzki inspektor przeprowadza kontrole występowania organizmu szkodliwego w promieniu co najmniej 1 km od miejsca przeprowadzania tych zabiegów.
 § 12.
 1.
-Drewniany materiał opakowaniowy pochodzący z obszarów objętych strefą porażenia lub strefą bezpieczeństwa wyznaczonymi na podstawie § 2 ust. 2 może być przemieszczany przez terytorium Rzeczypospolitej Polskiej, a w przypadku drewnianego materiału opakowaniowego pochodzącego z obszarów innych państw członkowskich objętych strefami odpowiadającymi strefom wyznaczonym na podstawie § 2 ust. 2, może być wprowadzany na terytorium Rzeczypospolitej Polskiej lub przemieszczany przez to terytorium, jeżeli został opatrzony znakiem potwierdzającym, że był poddany jednemu z zabiegów wymienionych w Międzynarodowym Standardzie w zakresie Środków Fitosanitarnych nr 15.
+Drewniany materiał opakowaniowy pochodzący z obszarów objętych strefą porażenia lub strefą bezpieczeństwa wyznaczonymi na podstawie § 2 ust. 2 może być przemieszczany przez terytorium Rzeczypospolitej Polskiej, a w przypadku drewnianego materiału opakowaniowego pochodzącego z obszarów innych państw członkowskich objętych strefami odpowiadającymi strefom wyznaczonym na podstawie § 2 ust. 2, może być wprowadzany na terytorium Rzeczypospolitej Polskiej lub przemieszczany przez to terytorium, jeżeli został opatrzony znakiem potwierdzającym, że był poddany jednemu z zabiegów wymienionych w Międzynarodowym Standardzie w zakresie Środków Fitosanitarnych nr 15Międzynarodowy Standard w zakresie Środków Fitosanitarnych – International Standards for Phytosanitary Measures, Part 15 – Guidelines for regulating wood packaging material in international trade, Publication No 15, FAO, Rome, przyjęty na podstawie art. X Międzynarodowej konwencji ochrony roślin, sporządzonej w Rzymie dnia 6 grudnia 1951 r. (Dz. U. z 2001 r. poz. 151 oraz z 2007 r. poz. 485)..
 2.
 Drewniany materiał opakowaniowy pochodzący z obszarów objętych strefą porażenia lub strefą bezpieczeństwa wyznaczonymi na podstawie § 2 ust. 2, a w przypadku drewnianego materiału opakowaniowego pochodzącego z obszarów innych państw członkowskich objętych strefami odpowiadającymi strefom wyznaczonym na podstawie § 2 ust. 2, poddaje się zabiegom, o których mowa w ust. 1, na obszarach tych stref lub, jeżeli poddanie drewna zabiegom, o których mowa w § 9 lub 10, na obszarze tych stref nie jest możliwe, poza obszarami tych stref, pod warunkiem że:
 1)
@@ -238,8 +237,7 @@ zostało uznane przez wojewódzkiego inspektora za wolne od organizmu szkodliweg
 3)
 zostało zaopatrzone w paszport roślin po zakończeniu kontroli, o której mowa w pkt 2.
 § 15.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie wykonuje decyzję wykonawczą Komisji (UE) 2015/893 z dnia 9 czerwca 2015 r. w sprawie środków zapobiegających wprowadzaniu do Unii i rozprzestrzenianiu się w Unii organizmu Anoplophora glabripennis (Motschulsky) (Dz. Urz. UE L 146 z 11.06.2015, str. 16). 3) Międzynarodowy Standard w zakresie Środków Fitosanitarnych – International Standards for Phytosanitary Measures, Part 15 – Guidelines for regulating wood packaging material in international trade, Publication No 15, FAO, Rome, przyjęty na podstawie art. X Międzynarodowej konwencji ochrony roślin, sporządzonej w Rzymie dnia 6 grudnia 1951 r. (Dz. U. z 2001 r. poz. 151 oraz z 2007 r. poz. 485).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie wykonuje decyzję wykonawczą Komisji (UE) 2015/893 z dnia 9 czerwca 2015 r. w sprawie środków zapobiegających wprowadzaniu do Unii i rozprzestrzenianiu się w Unii organizmu Anoplophora glabripennis (Motschulsky) (Dz. Urz. UE L 146 z 11.06.2015, str. 16). 3) Międzynarodowy Standard w zakresie Środków Fitosanitarnych – International Standards for Phytosanitary Measures, Part 15 – Guidelines for regulating wood packaging material in international trade, Publication No 15, FAO, Rome, przyjęty na podstawie art. X Międzynarodowej konwencji ochrony roślin, sporządzonej w Rzymie dnia 6 grudnia 1951 r. (Dz. U. z 2001 r. poz. 151 oraz z 2007 r. poz. 485).
 
 ## Załącznik nr 1 — – Wykaz roślin szczególnie podatnych na porażenie przez organizm Anoplophora glabripennis (Motschulsky)
 

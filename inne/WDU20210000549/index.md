@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 17 lutego 2021 r. w sprawie sposobu i trybu wprowadzania ograniczeń w poborze gazu ziemnego
+# Rozporządzenie Rady Ministrówz dnia 17 lutego 2021 r. w sprawie sposobu i trybu wprowadzania ograniczeń w poborze gazu ziemnego Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącego środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającego rozporządzenie (UE) nr 994/2010 (Dz. Urz. UE L 280 z 28.10.2017, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-17 |
 | Data wydania | 2021-03-26 |
-| Wejście w życie | 2021-04-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/549/text.pdf) |
 
@@ -77,12 +76,11 @@ rolników wynajmujących pokoje, sprzedających posiłki domowe i świadczących
 d)
 producentów będących rolnikami wyrabiającymi mniej niż 100 hektolitrów wina w ciągu roku gospodarczego, o których mowa w art. 17 ust. 3 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. z 2020 r. poz. 1891),
 e)
-rolników prowadzących działalność w zakresie sprzedaży, o której mowa w art. 20 ust. 1c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm.),
+rolników prowadzących działalność w zakresie sprzedaży, o której mowa w art. 20 ust. 1c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122, 2123, 2127, 2255 i 2320 oraz z 2021 r. poz. 255 i 464.),
 f)
-kół gospodyń wiejskich prowadzących działalność na podstawie ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2021 r. poz. 165), które spełniają warunki, o których mowa w art. 24 ust. 1 tej ustawy
-w przypadku których moc umowna w miejscu poboru gazu ziemnego z systemu gazowego lub sumie miejsc poboru tego gazu z systemu gazowego zasilających danego odbiorcę pod jednym adresem, zwanych dalej „punktem wyjścia z systemu gazowego”, nie przekracza 710 kWh/h,
+kół gospodyń wiejskich prowadzących działalność na podstawie ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2021 r. poz. 165), które spełniają warunki, o których mowa w art. 24 ust. 1 tej ustawy – w przypadku których moc umowna w miejscu poboru gazu ziemnego z systemu gazowego lub sumie miejsc poboru tego gazu z systemu gazowego zasilających danego odbiorcę pod jednym adresem, zwanych dalej „punktem wyjścia z systemu gazowego”, nie przekracza 710 kWh/h,
 3)
-podmiotów zapewniających świadczenie opieki zdrowotnej w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.) przyłączonych do sieci dystrybucyjnej lub przesyłowej gazowej,
+podmiotów zapewniających świadczenie opieki zdrowotnej w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159.) przyłączonych do sieci dystrybucyjnej lub przesyłowej gazowej,
 4)
 jednostek organizacyjnych pomocy społecznej w rozumieniu art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2020 r. poz. 1876 i 2369) przyłączonych do sieci dystrybucyjnej lub przesyłowej gazowej,
 5)
@@ -102,8 +100,7 @@ przedsiębiorstw wodociągowo-kanalizacyjnych w rozumieniu art. 2 pkt 4 ustawy z
 12)
 podmiotów odpowiedzialnych za gospodarowanie odpadami, w zakresie, w jakim realizują zadania, o których mowa w art. 3 ust. 1 pkt 2 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2020 r. poz. 797, 875 i 2361), przyłączonych do sieci dystrybucyjnej lub przesyłowej gazowej,
 13)
-odbiorców gazu ziemnego, w zakresie, w jakim zajmują się wytwarzaniem ciepła dla odbiorcy, o którym mowa w pkt 1–12, pobierającego ciepło w okresie od dnia 1 września do dnia 31 maja, na potrzeby centralnego ogrzewania, ciepłej wody użytkowej, wentylacji oraz technologii w postaci pary i wody gorącej, lub zaopatrywaniem w ciepło tego odbiorcy, pod warunkiem że instalacji tych odbiorców gazu ziemnego nie można zasilać paliwem innym niż gaz ziemny
-zwanych dalej „odbiorcami chronionymi”.
+odbiorców gazu ziemnego, w zakresie, w jakim zajmują się wytwarzaniem ciepła dla odbiorcy, o którym mowa w pkt 1–12, pobierającego ciepło w okresie od dnia 1 września do dnia 31 maja, na potrzeby centralnego ogrzewania, ciepłej wody użytkowej, wentylacji oraz technologii w postaci pary i wody gorącej, lub zaopatrywaniem w ciepło tego odbiorcy, pod warunkiem że instalacji tych odbiorców gazu ziemnego nie można zasilać paliwem innym niż gaz ziemny – zwanych dalej „odbiorcami chronionymi”.
 2.
 Ograniczenia określone w dwunastym stopniu zasilania mają zastosowanie do wszystkich odbiorców gazu ziemnego, z wyjątkiem odbiorców chronionych, o których mowa w:
 1)
@@ -120,7 +117,7 @@ W przypadku gdy odbiorca chroniony oprócz działalności, o której mowa w ust.
 W przypadku niedoboru gazu ziemnego w systemie gazowym, w tym niedoboru spowodowanego wystąpieniem skrajnie niskich temperatur zewnętrznych w okresie największego zapotrzebowania na gaz ziemny w systemie gazowym, jest on dostarczany do odbiorców tak długo i w takim zakresie, jaki pozwala na zapewnienie bezpiecznego funkcjonowania systemu gazowego.
 § 6.
 1.
-Plan opracowywany jest przez operatora systemu przesyłowego gazowego, operatora systemu dystrybucyjnego gazowego oraz operatora systemu połączonego gazowego lub przedsiębiorstwo energetyczne pełniące funkcję operatora na podstawie danych własnych oraz informacji przekazanych przez odbiorców, w tym na podstawie instrukcji ruchu i eksploatacji sieci przesyłowej lub instrukcji ruchu i eksploatacji sieci dystrybucyjnej, o których mowa w art. 9g ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2020 r. poz. 833, z późn. zm.), i składa się z dwóch części.
+Plan opracowywany jest przez operatora systemu przesyłowego gazowego, operatora systemu dystrybucyjnego gazowego oraz operatora systemu połączonego gazowego lub przedsiębiorstwo energetyczne pełniące funkcję operatora na podstawie danych własnych oraz informacji przekazanych przez odbiorców, w tym na podstawie instrukcji ruchu i eksploatacji sieci przesyłowej lub instrukcji ruchu i eksploatacji sieci dystrybucyjnej, o których mowa w art. 9g ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2020 r. poz. 833, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 843, 1086, 1378 i 1565 oraz z 2021 r. poz. 234 i 255.), i składa się z dwóch części.
 2.
 Pierwsza część planu zawiera informacje dotyczące:
 1)
@@ -227,5 +224,5 @@ Plany wprowadzania ograniczeń, o których mowa w ust. 1, zatwierdzone przez Pre
 § 11.
 Traci moc rozporządzenie Rady Ministrów z dnia 19 września 2007 r. w sprawie sposobu i trybu wprowadzania ograniczeń w poborze gazu ziemnego (Dz. U. poz. 1252).
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącego środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającego rozporządzenie (UE) nr 994/2010 (Dz. Urz. UE L 280 z 28.10.2017, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122, 2123, 2127, 2255 i 2320 oraz z 2021 r. poz. 255 i 464. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 843, 1086, 1378 i 1565 oraz z 2021 r. poz. 234 i 255.
 

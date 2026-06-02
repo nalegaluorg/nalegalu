@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 12 października 2018 r. w sprawie organizacji dyspozytorni medycznej
+# Rozporządzenie Ministra Zdrowiaz dnia 12 października 2018 r. w sprawie organizacji dyspozytorni medycznej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-12 |
 | Data wydania | 2018-10-18 |
-| Wejście w życie | 2018-11-18 |
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2001/text.pdf) |
 
@@ -114,6 +113,5 @@ przygotowywania raportu dobowego z pracy dyspozytorni medycznej.
 2.
 Kierownik podmiotu leczniczego zapewnia dyspozytorowi medycznemu, o którym mowa w ust. 1, dostęp do konta poczty elektronicznej w domenie urzędu wojewódzkiego.
 § 5.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem § 2 ust. 1 pkt 1–3, ust. 2 i 3 oraz § 3 ust. 1 pkt 6 i 7 lit. a i ust. 3 pkt 2 lit. a, które wchodzą w życie z dniem 1 stycznia 2020 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem § 2 ust. 1 pkt 1–3, ust. 2 i 3 oraz § 3 ust. 1 pkt 6 i 7 lit. a i ust. 3 pkt 2 lit. a, które wchodzą w życie z dniem 1 stycznia 2020 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 

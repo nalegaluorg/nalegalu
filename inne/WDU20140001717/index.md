@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-07 |
 | Data wydania | 2014-12-04 |
-| Wejście w życie | 2014-12-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1717/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779, z 2013 r. poz. 1036 oraz z 2014 r. poz. 768.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7 po ust. 1a dodaje się ust. 1b w brzmieniu: „
 
@@ -81,5 +80,5 @@ source: "eli-html"
 
 2. Do puli wygranych, o której mowa w art. 7 ust. 1b zdanie trzecie ustawy zmienianej w art. 1, nie wlicza się puli wygranych z gier prowadzonych na podstawie art. 7 ust. 1a ustawy zmienianej w art. 1, uzyskanych przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857, z 2011 r. Nr 106, poz. 622 i Nr 134, poz. 779, z 2013 r. poz. 1036 oraz z 2014 r. poz. 768.
 

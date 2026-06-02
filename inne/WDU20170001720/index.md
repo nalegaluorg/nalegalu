@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 5 września 2017 r. w sprawie sposobu prowadzenia centralnego rejestru niespokrewnionych potencjalnych dawców szpiku i krwi pępowinowej
+# Rozporządzenie Ministra Zdrowiaz dnia 5 września 2017 r. w sprawie sposobu prowadzenia centralnego rejestru niespokrewnionych potencjalnych dawców szpiku i krwi pępowinowej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-05 |
 | Data wydania | 2017-09-08 |
-| Wejście w życie | 2017-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1720/text.pdf) |
 
@@ -58,6 +57,5 @@ Rejestr posiada zabezpieczenia uniemożliwiające usunięcie wprowadzonych danyc
 § 6.
 Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”, prowadząc rejestr, jest obowiązane przechowywać dane gromadzone w rejestrze w sposób zapewniający ochronę danych osobowych dawcy przed osobami nieuprawnionymi lub ich zniszczeniem.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 25 kwietnia 2006 r. w sprawie centralnego rejestru niespokrewnionych dawców szpiku i krwi pępowinowej (Dz. U. poz. 557 oraz z 2016 r. poz. 1120).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 25 kwietnia 2006 r. w sprawie centralnego rejestru niespokrewnionych dawców szpiku i krwi pępowinowej (Dz. U. poz. 557 oraz z 2016 r. poz. 1120). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 25 kwietnia 2006 r. w sprawie centralnego rejestru niespokrewnionych dawców szpiku i krwi pępowinowej (Dz. U. poz. 557 oraz z 2016 r. poz. 1120).
 

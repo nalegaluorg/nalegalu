@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-05 |
 | Data wydania | 2012-04-17 |
-| Wejście w życie | 2012-05-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000415) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/415/text.pdf) |
 
@@ -79,7 +78,7 @@ Użytkownik rejestru przekazuje dyrektorowi Centrum listę osób upoważnionych 
 Lista osób upoważnionych przez użytkownika rejestru zawiera imię, nazwisko i stanowisko służbowe osoby upoważnionej.
 § 5.
 1.
-Podmiotom niewymienionym w art. 16p ust. 3 ustawy, niebędącym podmiotami, o których mowa w art. 15 ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.), dane wpisane do rejestru udostępnia się na wniosek złożony w formie pisemnej w postaci papierowej lub elektronicznej, który zawiera:
+Podmiotom niewymienionym w art. 16p ust. 3 ustawy, niebędącym podmiotami, o których mowa w art. 15 ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195.), dane wpisane do rejestru udostępnia się na wniosek złożony w formie pisemnej w postaci papierowej lub elektronicznej, który zawiera:
 1)
 imię, nazwisko i adres miejsca zamieszkania albo nazwę i adres siedziby podmiotu ubiegającego się o udostępnienie danych wpisanych do rejestru;
 2)
@@ -104,5 +103,5 @@ w przypadku postaci papierowej – przez odbiór osobisty albo przesłanie przes
 2)
 w przypadku postaci elektronicznej – przez przesłanie na adres poczty elektronicznej przy zastosowaniu fizycznych lub logicznych zabezpieczeń chroniących przed nieuprawnionym dostępem.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195.
 

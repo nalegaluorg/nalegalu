@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-06-25 |
-| Wejście w życie | 2018-07-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001211) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1211/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 46 § 3 pkt 3 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 46 § 3 pkt 3 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000, 1009 i 1104.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -76,5 +75,5 @@ Rachunek określający koszty, o których mowa w ust. 1, kierownik jednostki prz
 3.
 Należność za wykonanie przez ABW lub AW pomocy przy wykonywaniu czynności egzekucyjnych jest przekazywana przez organ egzekucyjny, w terminie 30 dni od dnia otrzymania rachunku, odpowiednio na rachunek bankowy ABW albo AW.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000, 1009 i 1104.
 

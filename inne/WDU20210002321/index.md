@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 13 grudnia 2021 r. zmieniające rozporządzenie w sprawie specjalistycznej jednostki nadzoru
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 13 grudnia 2021 r. zmieniające rozporządzenie w sprawie specjalistycznej jednostki nadzoru Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1951).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-13 |
 | Data wydania | 2021-12-16 |
-| Wejście w życie | 2021-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002321) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2321/text.pdf) |
 
@@ -33,6 +32,5 @@ W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 27 marca 2019
 § 2.
 Sprawy wszczęte i niezakończone w dniu wejścia w życie niniejszego rozporządzenia, będące realizacją zadań organu prowadzącego, o których mowa w przepisach wydanych na podstawie art. 12 ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915), urząd obsługujący ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego przekaże specjalistycznej jednostce nadzoru „Centrum Edukacji Artystycznej”.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1951).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1951).
 

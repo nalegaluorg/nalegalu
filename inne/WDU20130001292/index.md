@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 5 listopada 2013 r. zmieniające rozporządzenie w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki
+# Rozporządzenie Ministra Zdrowiaz dnia 5 listopada 2013 r. zmieniające rozporządzenie w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2010/84/UE z dnia 15 grudnia 2010 r. zmieniającej – w zakresie nadzoru nad bezpieczeństwem farmakoterapii – dyrektywę 2001/83/WE w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 348 z 31.12.2010, str. 74, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-05 |
 | Data wydania | 2013-11-07 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001292) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1292/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 26 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 26 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544 oraz z 2013 r. poz. 1245.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 20 lutego 2009 r. w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki (Dz. U. Nr 39, poz. 321) § 6 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 20 lutego 2009 r. w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki (Dz. U. Nr 39, poz. 321) § 6 otrzymuje brzmienie: „
 § 6.
 1.
 Ulotkę dołączaną do opakowania produktu leczniczego sporządza się zgodnie z Charakterystyką Produktu Leczniczego. W ulotce zamieszcza się następujące informacje z zachowaniem poniższej kolejności:
@@ -94,8 +92,7 @@ nazwę i adres wytwórcy lub importera, u którego następuje zwolnienie serii,
 7)
 nazwy produktu leczniczego w innych państwach członkowskich Unii Europejskiej, w przypadku gdy produkt został dopuszczony do obrotu w procedurach europejskich, o ile są różne,
 8)
-datę zatwierdzenia tekstu ulotki
-z zastrzeżeniem § 7, § 9, § 11, § 13 i § 14.
+datę zatwierdzenia tekstu ulotki – z zastrzeżeniem § 7, § 9, § 11, § 13 i § 14.
 2.
 W ulotce dołączanej do opakowania produktu leczniczego zamieszcza się informację skierowaną do pacjentów, ich przedstawicieli ustawowych lub opiekunów faktycznych, dotyczącą możliwości zgłaszania pojedynczych przypadków działań niepożądanych, o których mowa w ust. 1 pkt 5, osobie wykonującej zawód medyczny, podmiotowi odpowiedzialnemu lub Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, w formie dogodnej dla zgłaszającego, w tym za pomocą formularza elektronicznego dostępnego na stronie internetowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 3.
@@ -103,11 +100,9 @@ W przypadku produktów leczniczych podlegających dodatkowemu monitorowaniu w ul
 1)
 czarny symbol wybrany zgodnie z art. 23 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego wspólnotowe procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i do celów weterynaryjnych i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. WE L 136 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229);
 2)
-sformułowanie: „Ten produkt leczniczy podlega dodatkowemu monitorowaniu z uwagi na konieczność pozyskiwania szczegółowych danych dotyczących bezpieczeństwa jego stosowania.” następujące po symbolu, o którym mowa w pkt 1.
-” .
+sformułowanie: „Ten produkt leczniczy podlega dodatkowemu monitorowaniu z uwagi na konieczność pozyskiwania szczegółowych danych dotyczących bezpieczeństwa jego stosowania.” następujące po symbolu, o którym mowa w pkt 1. ” .
 § 2.
 Podmiot odpowiedzialny dostosowuje treść ulotki do wymagań określonych w § 6 ust. 2 rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, do dnia 30 kwietnia 2016 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
-2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2010/84/UE z dnia 15 grudnia 2010 r. zmieniającej – w zakresie nadzoru nad bezpieczeństwem farmakoterapii – dyrektywę 2001/83/WE w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 348 z 31.12.2010, str. 74, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544 oraz z 2013 r. poz. 1245.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 2) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2010/84/UE z dnia 15 grudnia 2010 r. zmieniającej – w zakresie nadzoru nad bezpieczeństwem farmakoterapii – dyrektywę 2001/83/WE w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 348 z 31.12.2010, str. 74, z późn. zm.). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544 oraz z 2013 r. poz. 1245.
 

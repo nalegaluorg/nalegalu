@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-28 |
 | Data wydania | 2017-05-05 |
-| Wejście w życie | 2017-05-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/881/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Stawki minimalne w sprawach cywilnych Rozdział 3 – Stawki minimalne w postępowaniu spornym przed Urzędem Patentowym Rozdział 4 – Stawki minimalne w postępowaniu w sprawie sprzeciwu przed Urzędem Patentowym Rozdział 5 – Stawki minimalne w postępowaniu przed sądami administracyjnymi Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 13 ust. 2 ustawy z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2016 r. poz. 221 i 1579 oraz z 2017 r. poz. 694) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa wysokość stawek minimalnych opłat za czynności rzeczników patentowych przed organami wymiaru sprawiedliwości oraz przed Urzędem Patentowym działającym w trybie postępowania spornego i w sprawie sprzeciwu, stanowiących podstawę do ustalenia kosztów zastępstwa, które mogą być zasądzone przez sąd lub orzeczone przez Urząd Patentowy.
 § 2.
@@ -41,6 +41,7 @@ Opłaty, o których mowa w ust. 1 i w art. 13 ust. 2a ustawy z dnia 11 kwietnia 
 Stawki minimalne ustala się od wartości przedmiotu sprawy, chyba że przepisy rozporządzenia stanowią inaczej.
 2.
 Wysokość stawek minimalnych w sprawach nieokreślonych w rozporządzeniu ustala się, przyjmując za podstawę stawkę w sprawach o najbardziej zbliżonym rodzaju.
+Stawki minimalne w sprawach cywilnych
 § 4.
 Stawka minimalna wynosi przy wartości przedmiotu sprawy:
 1)
@@ -87,6 +88,7 @@ przed sądem okręgowym – 25% stawki minimalnej, a jeżeli w pierwszej instanc
 przed sądem apelacyjnym lub przed Sądem Najwyższym – 50% stawki minimalnej, a jeżeli w pierwszej instancji nie prowadził sprawy ten sam rzecznik patentowy – 75% tej stawki.
 3.
 Stawka minimalna w postępowaniu kasacyjnym wynosi za sporządzenie i wniesienie skargi kasacyjnej 50% stawki minimalnej, a jeżeli nie prowadził sprawy w drugiej instancji ten sam rzecznik patentowy – 75% tej stawki.
+Stawki minimalne w postępowaniu spornym przed Urzędem Patentowym
 § 7.
 Stawka minimalna wynosi w sprawach o:
 1)
@@ -101,10 +103,12 @@ udzielenie licencji przymusowej lub zmianę decyzji o udzieleniu licencji przymu
 stwierdzenie bezzasadności zmiany warunków korzystania z oznaczenia geograficznego – 500 zł.
 § 8.
 Stawka minimalna za prowadzenie sprawy rozpatrywanej ponownie w wyniku orzeczenia sądu administracyjnego wynosi 50% stawki minimalnej, a jeżeli poprzednio nie prowadził sprawy ten sam rzecznik patentowy – 75% tej stawki.
+Stawki minimalne w postępowaniu w sprawie sprzeciwu przed Urzędem Patentowym
 § 9.
 Stawka minimalna wynosi w sprawach o wniesienie sprzeciwu 400 zł.
 § 10.
 Stawki minimalne za prowadzenie sprawy rozpatrywanej ponownie w wyniku orzeczenia sądu administracyjnego wynoszą 50% stawki minimalnej, a jeżeli poprzednio nie prowadził sprawy ten sam rzecznik patentowy – 75% tej stawki.
+Stawki minimalne w postępowaniu przed sądami administracyjnymi
 § 11.
 1.
 Stawka minimalna w postępowaniu w pierwszej instancji za sporządzenie skargi i udział w rozprawie w sprawie skargi na decyzję lub postanowienie Urzędu Patentowego wynosi 600 zł.
@@ -118,18 +122,31 @@ za sporządzenie i wniesienie skargi kasacyjnej albo sporządzenie opinii o brak
 za udział w rozprawie przed Naczelnym Sądem Administracyjnym – 50% stawki minimalnej określonej w ust. 1, a jeżeli nie prowadził sprawy w drugiej instancji ten sam rzecznik patentowy, nie sporządził i nie wniósł kasacji – 75% tej stawki, w obu przypadkach nie mniej niż 120 zł;
 4)
 w postępowaniu zażaleniowym – 120 zł.
+Przepis końcowy
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 2 grudnia 2003 r. w sprawie opłat za czynności rzeczników patentowych (Dz. U. poz. 2076, z 2004 r. poz. 218 oraz z 2011 r. poz. 337), które utraciło moc z dniem wejścia w życie ustawy z dnia 9 marca 2017 r. o zmianie ustawy o rzecznikach patentowych (Dz. U. poz. 694). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 2 grudnia 2003 r. w sprawie opłat za czynności rzeczników patentowych (Dz. U. poz. 2076, z 2004 r. poz. 218 oraz z 2011 r. poz. 337), które utraciło moc z dniem wejścia w życie ustawy z dnia 9 marca 2017 r. o zmianie ustawy o rzecznikach patentowych (Dz. U. poz. 694).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Stawki minimalne w sprawach cywilnych
+#### Rozdział 2 – Stawki minimalne w sprawach cywilnych
 
-#### Rozdział 3 Stawki minimalne w postępowaniu spornym przed Urzędem Patentowym
+#### Rozdział 3 – Stawki minimalne w postępowaniu spornym przed Urzędem Patentowym
 
-#### Rozdział 4 Stawki minimalne w postępowaniu w sprawie sprzeciwu przed Urzędem Patentowym
+#### Rozdział 4 – Stawki minimalne w postępowaniu w sprawie sprzeciwu przed Urzędem Patentowym
 
-#### Rozdział 5 Stawki minimalne w postępowaniu przed sądami administracyjnymi
+#### Rozdział 5 – Stawki minimalne w postępowaniu przed sądami administracyjnymi
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

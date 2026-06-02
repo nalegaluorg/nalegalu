@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 28 października 2024 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w zakresie Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027
+# Rozporządzenie Ministra Finansówz dnia 28 października 2024 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w zakresie Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-28 |
 | Data wydania | 2024-10-30 |
-| Wejście w życie | 2024-11-01 |
 | Ostatnia zmiana | 2024-10-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001601) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1601/text.pdf) |
 
@@ -36,7 +35,7 @@ Do pomocy de minimis nie stosuje się przepisów rozporządzenia Ministra Finans
 § 2.
 Ilekroć w rozporządzeniu jest mowa o przedsiębiorcy, należy przez to rozumieć:
 1)
-mikroprzedsiębiorcę, małego lub średniego przedsiębiorcę spełniającego kryteria, o których mowa w załączniku I do rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2022/2472”, będącego przetwórcą produktów nieobjętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej lub wprowadzającym do obrotu te produkty, lub świadczącym usługi na rzecz rolnictwa lub leśnictwa;
+mikroprzedsiębiorcę, małego lub średniego przedsiębiorcę spełniającego kryteria, o których mowa w załączniku I do rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2023/2607 z 23.11.2023., zwanego dalej „rozporządzeniem 2022/2472”, będącego przetwórcą produktów nieobjętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej lub wprowadzającym do obrotu te produkty, lub świadczącym usługi na rzecz rolnictwa lub leśnictwa;
 2)
 dużego przedsiębiorcę niespełniającego kryteriów, o których mowa w załączniku I do rozporządzenia 2022/2472.
 § 3.
@@ -70,6 +69,5 @@ Dniem udzielenia pomocy de minimis jest dzień udzielenia gwarancji.
 § 11.
 Pomoc de minimis może być udzielana do dnia 31 grudnia 2029 r.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2023/2607 z 23.11.2023.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2024 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2023/2607 z 23.11.2023.
 

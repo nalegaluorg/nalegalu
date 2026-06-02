@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 25 maja 2017 r. w sprawie warunków i sposobu wspomagania nauczania języka polskiego, historii, geografii, kultury polskiej i innych przedmiotów nauczanych w języku polskim wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 25 maja 2017 r. w sprawie warunków i sposobu wspomagania nauczania języka polskiego, historii, geografii, kultury polskiej i innych przedmiotów nauczanych w języku polskim wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-25 |
 | Data wydania | 2017-05-30 |
-| Wejście w życie | 2017-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1042/text.pdf) |
 
@@ -109,7 +108,7 @@ Dla nauczycieli organizuje się w szczególności: studium metodyczne, seminaria
 3.
 Doskonalenie zawodowe nauczycieli pracujących wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących może być również realizowane przez organizacje pozarządowe i podmioty wymienione w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2016 r. poz. 1817 i 1948 oraz z 2017 r. poz. 60 i 573), mające doświadczenie w pracy na rzecz Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących, w trybie określonym w przepisach tej ustawy.
 4.
-Zadanie, o którym mowa w ust. 1, minister właściwy do spraw oświaty i wychowania może również zlecić publicznym lub niepublicznym szkołom wyższym w trybie określonym w art. 40 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.).
+Zadanie, o którym mowa w ust. 1, minister właściwy do spraw oświaty i wychowania może również zlecić publicznym lub niepublicznym szkołom wyższym w trybie określonym w art. 40 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858 i 859.).
 5.
 Zadanie, o którym mowa w ust. 1, minister właściwy do spraw oświaty i wychowania może również zlecić jednostkom samorządu terytorialnego w drodze porozumienia.
 § 6.
@@ -138,6 +137,5 @@ Do nauczycieli ubiegających się o skierowanie do pracy za granicą, którzy pr
 § 10.
 Umowy o skierowanie do pracy za granicą zawarte przed dniem wejścia w życie niniejszego rozporządzenia pozostają w mocy.
 § 11.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858 i 859. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 września 2009 r. w sprawie warunków i sposobu wspomagania nauczania języka polskiego, historii, geografii, kultury polskiej i innych przedmiotów nauczanych w języku polskim wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących (Dz. U. z 2015 r. poz. 1022), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 września 2009 r. w sprawie warunków i sposobu wspomagania nauczania języka polskiego, historii, geografii, kultury polskiej i innych przedmiotów nauczanych w języku polskim wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących (Dz. U. z 2015 r. poz. 1022), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933, 2169 i 2260 oraz z 2017 r. poz. 60, 777, 858 i 859. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 24 września 2009 r. w sprawie warunków i sposobu wspomagania nauczania języka polskiego, historii, geografii, kultury polskiej i innych przedmiotów nauczanych w języku polskim wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących (Dz. U. z 2015 r. poz. 1022), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
 

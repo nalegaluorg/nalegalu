@@ -26,18 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000503) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/503/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 27 września 2006 r. w sprawie przebiegu służby funkcjonariuszy Centralnego Biura Antykorupcyjnego Rozdział 1 – Przepisy ogólne Rozdział 2 – Nawiązanie stosunku służbowego Rozdział 3 – Mianowanie na stanowisko służbowe, przenoszenie, odwoływanie i zwalnianie ze stanowiska służbowego Rozdział 4 – Sposób usprawiedliwiania nieobecności w służbie Rozdział 5 – Rodzaje informacji udzielanych przez funkcjonariusza Rozdział 6 – Rozwiązanie i wygaśnięcie stosunku służbowego
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 27 września 2006 r. w sprawie przebiegu służby funkcjonariuszy Centralnego Biura Antykorupcyjnego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 27 września 2006 r. w sprawie przebiegu służby funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. Nr 177, poz. 1311), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 24 marca 2010 r. zmieniającym rozporządzenie w sprawie przebiegu służby funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. Nr 56, poz. 340).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 marca 2010 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. Nr 56, poz. 340), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 marca 2010 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. Nr 56, poz. 340), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 27 września 2006 r. w sprawie przebiegu służby funkcjonariuszy Centralnego Biura Antykorupcyjnego
 Na podstawie art. 83 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411 i 1822) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -51,7 +50,7 @@ Użyte w rozporządzeniu określenia oznaczają:
 1)
 ustawa – ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym;
 2)
-jednostka organizacyjna – jednostkę organizacyjną, o której mowa w § 3 statutu Centralnego Biura Antykorupcyjnego, stanowiącego załącznik do zarządzenia nr 111 Prezesa Rady Ministrów z dnia 20 lipca 2006 r. w sprawie nadania statutu Centralnemu Biuru Antykorupcyjnemu (M. P. Nr 49, poz. 527);
+jednostka organizacyjna – jednostkę organizacyjną, o której mowa w § 3 statutu Centralnego Biura Antykorupcyjnego, stanowiącego załącznik do zarządzenia nr 111 Prezesa Rady Ministrów z dnia 20 lipca 2006 r. w sprawie nadania statutu Centralnemu Biuru Antykorupcyjnemu (M. P. Nr 49, poz. 527)Zarządzenie utraciło moc na podstawie § 2 zarządzenia nr 32 Prezesa Rady Ministrów z dnia 29 marca 2007 r. w sprawie nadania statutu Centralnemu Biuru Antykorupcyjnemu (M. P. Nr 21, poz. 244), które weszło w życie z dniem 30 marca 2007 r. Obecnie statut Centralnego Biura Antykorupcyjnego stanowi załącznik do zarządzenia nr 72 Prezesa Rady Ministrów z dnia 6 października 2010 r. w sprawie nadania statutu Centralnemu Biuru Antykorupcyjnemu (M. P. Nr 76, poz. 953).;
 3)
 funkcjonariusz – funkcjonariusza Centralnego Biura Antykorupcyjnego;
 4)
@@ -102,6 +101,7 @@ zmiany imienia lub nazwiska funkcjonariusza albo zmiany ich pisowni, dokonywanyc
 Sprawy osobowe, o których mowa w ust. 1 pkt 1–14, załatwia się na piśmie w formie decyzji. Decyzję włącza się do akt osobowych funkcjonariusza.
 3.
 Funkcjonariusza zapoznaje się z decyzją wydaną w sprawach osobowych, o których mowa w ust. 1 pkt 1–14.
+Nawiązanie stosunku służbowego
 § 5.
 1.
 Stosunek służbowy funkcjonariusza nawiązuje się w drodze mianowania w terminie określonym w decyzji o przyjęciu do służby i mianowaniu na stanowisko służbowe w Centralnym Biurze Antykorupcyjnym.
@@ -130,6 +130,7 @@ pouczenie o przysługującym funkcjonariuszowi środku odwoławczym.
 Przyjętego do służby funkcjonariusza bezpośredni przełożony niezwłocznie zapoznaje z przepisami regulującymi prawa i obowiązki wynikające ze stosunku służbowego.
 2.
 Funkcjonariusz jest obowiązany pisemnie potwierdzić fakt zapoznania się z przepisami, o których mowa w ust. 1. Potwierdzenie włącza się do akt osobowych funkcjonariusza.
+Mianowanie na stanowisko służbowe, przenoszenie, odwoływanie i zwalnianie ze stanowiska służbowego
 § 7.
 Mianowanie na inne stanowisko służbowe, przenoszenie, zwalnianie i odwoływanie ze stanowiska służbowego określa się w kolejnych decyzjach.
 § 8.
@@ -155,7 +156,7 @@ podpis, z podaniem stanowiska służbowego, imienia i nazwiska osoby uprawnionej
 pouczenie o przysługującym funkcjonariuszowi środku odwoławczym.
 2.
 W przypadku mianowania na stanowisko służbowe związane ze zmianą jednostki organizacyjnej Centralnego Biura Antykorupcyjnego lub zawieszenia w czynnościach służbowych w decyzji, o której mowa w § 7, określa się także termin, w którym funkcjonariusz jest obowiązany rozliczyć się z jednostką organizacyjną Centralnego Biura Antykorupcyjnego, w której dotychczas pełnił służbę, lub z dotychczasowych obowiązków służbowych.
-3.
+3Dodany przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 24 marca 2010 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. Nr 56, poz. 340), które weszło w życie z dniem 23 kwietnia 2010 r..
 Potwierdzeniem rozliczenia się z dotychczasową jednostką organizacyjną jest karta obiegowa przedstawiona przez funkcjonariusza w jednostce organizacyjnej Centralnego Biura Antykorupcyjnego właściwej w sprawach osobowych.
 § 9.
 Na wyższe stanowisko służbowe, z zastrzeżeniem § 10 i 11, mianuje się funkcjonariusza posiadającego pozytywną opinię służbową oraz odpowiednie kwalifikacje zawodowe.
@@ -172,6 +173,7 @@ Badanie, o którym mowa w ust. 1, przeprowadza psycholog pełniący służbę w 
 W czasie prowadzenia postępowania dyscyplinarnego lub karnego oraz w okresie próby orzeczonej w związku z warunkowym umorzeniem postępowania karnego, warunkowym zawieszeniem wykonania kary pozbawienia wolności lub warunkowym przedterminowym zwolnieniem i w okresie odbywania kary ograniczenia wolności lub kary dyscyplinarnej albo w okresie zawieszenia funkcjonariusza w czynnościach służbowych nie dokonuje się zmian w stosunku służbowym funkcjonariusza, z którymi wiązałoby się przeniesienie na wyższe stanowisko służbowe lub podwyższenie składników uposażenia.
 § 12.
 W przypadku gdy właściwa komisja lekarska uzna funkcjonariusza za trwale niezdolnego do służby, niezwłocznie zwalnia się go od wykonywania zajęć służbowych na okres do dnia zwolnienia ze służby.
+Sposób usprawiedliwiania nieobecności w służbie
 § 13.
 1.
 Funkcjonariusz jest obowiązany niezwłocznie usprawiedliwić nieobecność lub spóźnienie do służby.
@@ -186,6 +188,7 @@ Nieobecność w służbie z powodu choroby funkcjonariusz usprawiedliwia, najpó
 W przypadku konieczności sprawowania opieki nad chorym członkiem rodziny swoją nieobecność funkcjonariusz usprawiedliwia, przedstawiając, najpóźniej w dniu powrotu do służby, zaświadczenie lekarskie o konieczności sprawowania opieki.
 § 15.
 Uprawnienie do usprawiedliwienia spóźnienia lub nieobecności funkcjonariusza w służbie przysługuje bezpośredniemu przełożonemu.
+Rodzaje informacji udzielanych przez funkcjonariusza
 § 16.
 1.
 Funkcjonariusz w toku służby informuje o:
@@ -199,6 +202,7 @@ wypadku, któremu uległ w czasie wykonywania obowiązków służbowych, jak ró
 Funkcjonariusz informuje o urodzeniu się dziecka, jego przysposobieniu, wzięciu na wychowanie lub na utrzymanie.
 § 17.
 Funkcjonariusz informuje o zmianach lub przypadkach, o których mowa w § 16, składając drogą służbową pisemną informację i właściwe dokumenty potwierdzające informacje, o których mowa w § 16, do przełożonego uprawnionego do załatwiania jego spraw osobowych.
+Rozwiązanie i wygaśnięcie stosunku służbowego
 § 18.
 1.
 Stosunek służbowy ulega rozwiązaniu z dniem określonym w decyzji o zwolnieniu funkcjonariusza ze służby.
@@ -228,7 +232,7 @@ pouczenie o przysługującym funkcjonariuszowi środku odwoławczym;
 termin, w którym funkcjonariusz jest obowiązany rozliczyć się z obowiązków służbowych.
 3.
 Potwierdzeniem rozliczenia się funkcjonariusza z obowiązków służbowych jest karta obiegowa przedstawiona przez funkcjonariusza do dnia zwolnienia ze służby odpowiednio we właściwej w sprawach osobowych jednostce lub komórce organizacyjnej.
-4.
+4Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku bezskutecznego upływu terminu, o którym mowa w ust. 2 pkt 11, rozliczenia z obowiązków służbowych dokonuje bezpośredni przełożony funkcjonariusza.
 § 19.
 Zwalniając ze służby funkcjonariusza, o którym mowa w art. 58 ust. 3 ustawy, zwalnia się go ze stanowiska, które zajmował przed przeniesieniem do dyspozycji Szefa Centralnego Biura Antykorupcyjnego.
@@ -261,23 +265,34 @@ uzasadnienie faktyczne i prawne wygaśnięcia stosunku służbowego;
 podpis, z podaniem stanowiska służbowego, imienia i nazwiska osoby uprawnionej do wydania decyzji;
 10)
 pouczenie o przysługującym funkcjonariuszowi środku odwoławczym;
-11)
+11W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.)
 termin, w którym bezpośredni przełożony funkcjonariusza jest obowiązany rozliczyć funkcjonariusza z obowiązków służbowych.
-§ 22a.
+§ 22aDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku bezskutecznego upływu terminu, o którym mowa w § 18 ust. 2 pkt 11, lub wyznaczenia terminu, o którym mowa w § 22 pkt 11, niezwłocznie informuje się bezpośredniego przełożonego funkcjonariusza o obowiązku rozliczenia funkcjonariusza z obowiązków służbowych.
 § 23.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Zarządzenie utraciło moc na podstawie § 2 zarządzenia nr 32 Prezesa Rady Ministrów z dnia 29 marca 2007 r. w sprawie nadania statutu Centralnemu Biuru Antykorupcyjnemu (M. P. Nr 21, poz. 244), które weszło w życie z dniem 30 marca 2007 r. Obecnie statut Centralnego Biura Antykorupcyjnego stanowi załącznik do zarządzenia nr 72 Prezesa Rady Ministrów z dnia 6 października 2010 r. w sprawie nadania statutu Centralnemu Biuru Antykorupcyjnemu (M. P. Nr 76, poz. 953). 2) Dodany przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 24 marca 2010 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. Nr 56, poz. 340), które weszło w życie z dniem 23 kwietnia 2010 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 29 września 2006 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 29 września 2006 r.. 1) Zarządzenie utraciło moc na podstawie § 2 zarządzenia nr 32 Prezesa Rady Ministrów z dnia 29 marca 2007 r. w sprawie nadania statutu Centralnemu Biuru Antykorupcyjnemu (M. P. Nr 21, poz. 244), które weszło w życie z dniem 30 marca 2007 r. Obecnie statut Centralnego Biura Antykorupcyjnego stanowi załącznik do zarządzenia nr 72 Prezesa Rady Ministrów z dnia 6 października 2010 r. w sprawie nadania statutu Centralnemu Biuru Antykorupcyjnemu (M. P. Nr 76, poz. 953). 2) Dodany przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 24 marca 2010 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. Nr 56, poz. 340), które weszło w życie z dniem 23 kwietnia 2010 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 29 września 2006 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Nawiązanie stosunku służbowego
+#### Rozdział 2 – Nawiązanie stosunku służbowego
 
-#### Rozdział 3 Mianowanie na stanowisko służbowe, przenoszenie, odwoływanie i zwalnianie ze stanowiska służbowego
+#### Rozdział 3 – Mianowanie na stanowisko służbowe, przenoszenie, odwoływanie i zwalnianie ze stanowiska służbowego
 
-#### Rozdział 4 Sposób usprawiedliwiania nieobecności w służbie
+#### Rozdział 4 – Sposób usprawiedliwiania nieobecności w służbie
 
-#### Rozdział 5 Rodzaje informacji udzielanych przez funkcjonariusza
+#### Rozdział 5 – Rodzaje informacji udzielanych przez funkcjonariusza
 
-#### Rozdział 6 Rozwiązanie i wygaśnięcie stosunku służbowego
+#### Rozdział 6 – Rozwiązanie i wygaśnięcie stosunku służbowego
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

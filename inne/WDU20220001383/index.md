@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 czerwca 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw
+# Ustawa z dnia 8 czerwca 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii oraz ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-08 |
 | Data wydania | 2022-07-01 |
-| Wejście w życie | 2022-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001383) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1383/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002 i 1087.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -106,7 +105,7 @@ source: "eli-html"
 2. W przypadku prowadzenia przebudowy, remontu lub zmiany sposobu użytkowania, o których mowa w ust. 1, wymagających uzyskania decyzji o pozwoleniu na budowę albo dokonania zgłoszenia na podstawie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, inwestor, zamiast uzyskania decyzji o pozwoleniu na budowę albo dokonania zgłoszenia, może, przed rozpoczęciem prowadzenia przebudowy, remontu lub zmiany sposobu użytkowania, poinformować właściwy organ nadzoru budowlanego o:
 
 - **1)** rodzaju i zakresie wykonywania przebudowy lub remontu oraz terminie ich rozpoczęcia – w przypadku prowadzenia przebudowy lub remontu,
-- **2)** dotychczasowym i zamierzonym sposobie użytkowania budynku lub jego części – w przypadku zmiany sposobu użytkowania dołączając, w obu przypadkach, dokumentację techniczną, zawierającą rozwiązania mające wpływ na bezpieczeństwo osób sporządzoną przez osobę posiadającą odpowiednie uprawnienia budowlane bez ograniczeń, oraz pozwolenie właściwego wojewódzkiego konserwatora zabytków wydane na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – w przypadku budynków wpisanych do rejestru zabytków, albo pozytywną opinię wojewódzkiego konserwatora zabytków – w przypadku budynków niewpisanych do rejestru zabytków, a ujętych w wojewódzkiej lub gminnej ewidencji zabytków.
+- **2)** dotychczasowym i zamierzonym sposobie użytkowania budynku lub jego części – w przypadku zmiany sposobu użytkowania – dołączając, w obu przypadkach, dokumentację techniczną, zawierającą rozwiązania mające wpływ na bezpieczeństwo osób sporządzoną przez osobę posiadającą odpowiednie uprawnienia budowlane bez ograniczeń, oraz pozwolenie właściwego wojewódzkiego konserwatora zabytków wydane na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – w przypadku budynków wpisanych do rejestru zabytków, albo pozytywną opinię wojewódzkiego konserwatora zabytków – w przypadku budynków niewpisanych do rejestru zabytków, a ujętych w wojewódzkiej lub gminnej ewidencji zabytków.
 
 3. Decyzję w przedmiocie pozwolenia właściwego wojewódzkiego konserwatora zabytków, o którym mowa w ust. 2, wydaje się w terminie 30 dni od dnia złożenia kompletnego wniosku przez wnioskodawcę. Brak wydania decyzji w przedmiocie pozwolenia w terminie, o którym mowa w zdaniu pierwszym, uznaje się za wydanie pozwolenia.
 
@@ -143,7 +142,7 @@ source: "eli-html"
 
 1. Minister właściwy do spraw pracy może dofinansować z Funduszu Pracy koszty szkolenia z języka polskiego dla obywateli Ukrainy posiadających:
 
-- **1)** dyplom, o którym mowa w art. 7 ust. 2a pkt 7 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, z późn. zm.), z wyłączeniem obowiązku posiadania uwierzytelnień, o których mowa w tym przepisie – na wniosek okręgowej izby lekarskiej, o której mowa w art. 3 ust. 1 ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342), zwanej dalej „okręgową izbą lekarską”;
+- **1)** dyplom, o którym mowa w art. 7 ust. 2a pkt 7 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1559 i 2232 oraz z 2022 r. poz. 583, 655, 830, 974 i 1352.), z wyłączeniem obowiązku posiadania uwierzytelnień, o których mowa w tym przepisie – na wniosek okręgowej izby lekarskiej, o której mowa w art. 3 ust. 1 ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342), zwanej dalej „okręgową izbą lekarską”;
 - **2)** dyplom, o którym mowa w art. 35a ust. 1 pkt 7 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 551, 583 i 830), z wyłączeniem obowiązku posiadania uwierzytelnień, o których mowa w tym przepisie – na wniosek okręgowej izby pielęgniarek i położnych, o której mowa w art. 2 ust. 4 pkt 2 ustawy z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych (Dz. U. z 2021 r. poz. 628), zwanej dalej „okręgową izbą pielęgniarek i położnych”.
 
 2. Dofinansowanie kosztu szkolenia, o którym mowa w ust. 1, nie może przekraczać kwoty 3000 zł dla jednej osoby za jedno szkolenie. Obywatel Ukrainy, o którym mowa w ust. 1, może wziąć udział w maksymalnie trzech szkoleniach.
@@ -406,7 +405,7 @@ source: "eli-html"
 1. Starosta zwraca:
 
 - **1)** podmiotowi prowadzącemu dom pomocy społecznej, o którym mowa w art. 57 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66 i 1079), zwanemu dalej „podmiotem prowadzącym DPS”,
-- **2)** jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, o której mowa w art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447), zwanej dalej „jednostką organizacyjną WRiPZ” zatrudniającym skierowanych bezrobotnych lub poszukujących pracy w domu pomocy społecznej albo w jednostce organizacyjnej WRiPZ, przez okres do 12 miesięcy, część albo całość kosztów poniesionych na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne w wysokości uprzednio uzgodnionej w umowie, nieprzekraczającej jednak kwoty ustalonej jako iloczyn liczby zatrudnionych w miesiącu w przeliczeniu na pełny wymiar czasu pracy oraz wysokości minimalnego wynagrodzenia za pracę.
+- **2)** jednostce organizacyjnej wspierania rodziny i systemu pieczy zastępczej, o której mowa w art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447), zwanej dalej „jednostką organizacyjną WRiPZ” – zatrudniającym skierowanych bezrobotnych lub poszukujących pracy w domu pomocy społecznej albo w jednostce organizacyjnej WRiPZ, przez okres do 12 miesięcy, część albo całość kosztów poniesionych na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne w wysokości uprzednio uzgodnionej w umowie, nieprzekraczającej jednak kwoty ustalonej jako iloczyn liczby zatrudnionych w miesiącu w przeliczeniu na pełny wymiar czasu pracy oraz wysokości minimalnego wynagrodzenia za pracę.
 
 2. Starosta nie dokonuje zwrotu kosztów, o których mowa w ust. 1, podmiotowi prowadzącemu DPS albo jednostce organizacyjnej WRiPZ, które:
 
@@ -463,7 +462,7 @@ source: "eli-html"
 - **19a)** zwrotu kosztów poniesionych przez podmiot prowadzący DPS albo jednostkę organizacyjną WRiPZ z tytułu zatrudnienia bezrobotnych lub poszukujących pracy, o których mowa w art. 57a ust. 1; ” , w pkt 63 kropkę zastępuje się średnikiem i dodaje pkt 64 w brzmieniu: „
     - **c)**
 
-- **64)** kosztów szkolenia, o których mowa w art. 22i ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.). ” .
+- **64)** kosztów szkolenia, o których mowa w art. 22i ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087 i 1383.). ” .
 
 **Art. 4.** W ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2022 r. poz. 1324) wprowadza się następujące zmiany:
 
@@ -496,7 +495,7 @@ source: "eli-html"
 
 2. W postępowaniu w sprawie wydania wizy krajowej w przypadku, o którym mowa w ust. 1, minister właściwy do spraw zagranicznych może korzystać z pomocy przedsiębiorcy, który prowadzi działalność obejmującą czynności, których dokonują usługodawcy zewnętrzni, o których mowa w art. 43 Wspólnotowego Kodeksu Wizowego, lub który posiada rozbudowaną sieć punktów obsługi ludności na terenie kraju i podejmie się prowadzenia działalności obejmującej czynności określone w art. 43 Wspólnotowego Kodeksu Wizowego.
 
-3. Do zamówień publicznych niezbędnych do zapewnienia pomocy przedsiębiorcy, o którym mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, z późn. zm.) ani przepisów ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2021 r. poz. 541). ” ;
+3. Do zamówień publicznych niezbędnych do zapewnienia pomocy przedsiębiorcy, o którym mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2054 i 2269 oraz z 2022 r. poz. 25, 872 i 1079.) ani przepisów ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2021 r. poz. 541). ” ;
 
 - **4)** w art. 299 w ust. 8 po wyrazach „z niniejszej ustawy” dodaje się wyrazy „lub z innych ustaw”;
 - **5)** w art. 302 w ust. 3 po wyrazach „z niniejszej ustawy” dodaje się wyrazy „lub z innych ustaw”;
@@ -558,6 +557,6 @@ source: "eli-html"
 - **2)** art. 1 pkt 11 oraz pkt 13 lit. a, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.;
 - **3)** art. 1 pkt 17 oraz art. 7, które wchodzą w życie z dniem 1 września 2022 r.;
 - **4)** art. 3 pkt 4, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 4 czerwca 2022 r.;
-- **5)** art. 6 pkt 2, który wchodzi w życie z dniem 1 sierpnia 2022 r.
+- **5)** art. 6 pkt 2, który wchodzi w życie z dniem 1 sierpnia 2022 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii oraz ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002 i 1087. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1559 i 2232 oraz z 2022 r. poz. 583, 655, 830, 974 i 1352. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087 i 1383. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2054 i 2269 oraz z 2022 r. poz. 25, 872 i 1079.
 
 

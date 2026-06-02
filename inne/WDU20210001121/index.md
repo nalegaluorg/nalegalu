@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 21 czerwca 2021 r. zmieniające rozporządzenie w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania
+# Rozporządzenie Ministra Zdrowiaz dnia 21 czerwca 2021 r. zmieniające rozporządzenie w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-21 |
 | Data wydania | 2021-06-23 |
-| Wejście w życie | 2021-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001121) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1121/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 136c ust. 6 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 136c ust. 6 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 19 czerwca 2017 r. w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania (Dz. U. poz. 1225, z późn. zm.) w § 2:
+W rozporządzeniu Ministra Zdrowia z dnia 19 czerwca 2017 r. w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania (Dz. U. poz. 1225, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 1558 i 2056, z 2019 r. poz. 1409 i 2225 oraz z 2020 r. poz. 309 i 2214.) w § 2:
 1)
-pkt 20 otrzymuje brzmienie:
-„
+pkt 20 otrzymuje brzmienie: „
 20)
 świadczenia udzielane przez:
 a)
@@ -40,17 +38,13 @@ pielęgniarki, położne i ratowników medycznych, w zakresie dodatkowych środk
 b)
 pracowników wykonujących zawód medyczny oraz pracowników działalności podstawowej, innych niż pracownicy wykonujący zawód medyczny, których wynagrodzenie zasadnicze jest niższe od najniższego wynagrodzenia zasadniczego, ustalonego na zasadach określonych w ustawie z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych (Dz. U. z 2020 r. poz. 830 i 2401 oraz z 2021 r. poz. 1104), w zakresie środków przeznaczonych na pokrycie podwyższenia wynagrodzenia zasadniczego tych pracowników do wysokości nie niższej niż najniższe wynagrodzenie zasadnicze,
 c)
-lekarzy i lekarzy dentystów, którym na dzień 30 czerwca 2021 r. należne było wynagrodzenie podwyższone w trybie art. 4 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1532 i 2383 oraz z 2020 r. poz. 2401), w zakresie środków przeznaczonych na podwyższenie wynagrodzenia tych osób;
-” ;
+lekarzy i lekarzy dentystów, którym na dzień 30 czerwca 2021 r. należne było wynagrodzenie podwyższone w trybie art. 4 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1532 i 2383 oraz z 2020 r. poz. 2401), w zakresie środków przeznaczonych na podwyższenie wynagrodzenia tych osób; ” ;
 2)
-pkt 33 otrzymuje brzmienie:
-„
+pkt 33 otrzymuje brzmienie: „
 33)
-porady specjalistyczne w zakresie ambulatoryjnej opieki specjalistycznej;
-” ;
+porady specjalistyczne w zakresie ambulatoryjnej opieki specjalistycznej; ” ;
 3)
-w pkt 35 kropkę zastępuje się średnikiem i dodaje się pkt 36 w brzmieniu:
-„
+w pkt 35 kropkę zastępuje się średnikiem i dodaje się pkt 36 w brzmieniu: „
 36)
 świadczenia opieki zdrowotnej w zakresie:
 a)
@@ -60,10 +54,7 @@ przezcewnikowego wszczepienia protezy zastawki aortalnej,
 c)
 przezcewnikowej plastyki zastawki mitralnej metodą „brzeg do brzegu”,
 d)
-wszczepienia układu resynchronizującego, defibrylatorów, kardiowerterów
-o których mowa w rozporządzeniu Ministra Zdrowia z dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej (Dz. U. poz. 880).
-” .
+wszczepienia układu resynchronizującego, defibrylatorów, kardiowerterów – o których mowa w rozporządzeniu Ministra Zdrowia z dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej (Dz. U. poz. 880). ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 1558 i 2056, z 2019 r. poz. 1409 i 2225 oraz z 2020 r. poz. 309 i 2214.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 1558 i 2056, z 2019 r. poz. 1409 i 2225 oraz z 2020 r. poz. 309 i 2214.
 

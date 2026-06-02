@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 1 sierpnia 2017 r. w sprawie prowadzenia przez Koordynatora do spraw negocjacji postępowania w zakresie pozasądowego rozwiązywania sporów
+# Rozporządzenie Ministra Energiiz dnia 1 sierpnia 2017 r. w sprawie prowadzenia przez Koordynatora do spraw negocjacji postępowania w zakresie pozasądowego rozwiązywania sporów Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-01 |
 | Data wydania | 2017-08-04 |
-| Wejście w życie | 2017-08-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1493/text.pdf) |
 
@@ -59,8 +58,7 @@ Jeżeli w wyznaczonym terminie przedsiębiorstwo energetyczne:
 1)
 nie ustosunkuje się do wniosku albo
 2)
-oświadczy, że nie wyraża zgody na udział w postępowaniu
-Koordynator kończy postępowanie, o czym niezwłocznie informuje strony postępowania.
+oświadczy, że nie wyraża zgody na udział w postępowaniu – Koordynator kończy postępowanie, o czym niezwłocznie informuje strony postępowania.
 § 5.
 Koordynator, w razie potrzeby, wzywa strony, wyznaczając termin do przedstawienia dokumentów, informacji lub wyjaśnień, w tym wszelkich okoliczności mogących przyczynić się do rozwiązania sporu.
 § 6.
@@ -84,6 +82,5 @@ Wymiana informacji odbywa się za pomocą środków komunikacji elektronicznej, 
 2.
 W przypadku niewyrażenia przez stronę zgody na wymianę informacji za pomocą środków komunikacji elektronicznej, wymiana informacji między stronami postępowania odbywa się przesyłką pocztową.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).
 

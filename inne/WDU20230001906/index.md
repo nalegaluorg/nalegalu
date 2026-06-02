@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2023 r. o inwestycjach w zakresie budowy strzelnic realizowanych przez uczelnie
+# Ustawa z dnia 7 lipca 2023 r. o inwestycjach w zakresie budowy strzelnic realizowanych przez uczelnie Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,26 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-09-18 |
-| Wejście w życie | 2023-10-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001906) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1906/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Przepisy ogólne
+Przygotowanie inwestycji
+Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji
+Postępowanie administracyjne oraz sądowoadministracyjne dotyczące realizacji inwestycji
+Zmiany w przepisach i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Przygotowanie inwestycji
+
+#### Rozdział 3 – Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji
+
+#### Rozdział 4 – Postępowanie administracyjne oraz sądowoadministracyjne dotyczące realizacji inwestycji
+
+#### Rozdział 5 – Zmiany w przepisach i przepis końcowy
+
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -59,7 +74,7 @@ source: "eli-html"
 
 2. Inwestycje mogą być finansowane w całości lub w części z budżetu państwa lub z innych źródeł.
 
-#### Rozdział 2 Przygotowanie inwestycji
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -73,7 +88,7 @@ source: "eli-html"
 
 **Art. 4.**
 
-1. Zezwolenie na realizację inwestycji może być wydane po uprzednim uzyskaniu przez inwestora decyzji o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.), jeżeli jest ona wymagana.
+1. Zezwolenie na realizację inwestycji może być wydane po uprzednim uzyskaniu przez inwestora decyzji o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719 i 1890.), jeżeli jest ona wymagana.
 
 2. Wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji zawiera:
 
@@ -91,7 +106,7 @@ source: "eli-html"
 
 3. Do wniosku, o którym mowa w ust. 2, dołącza się:
 
-- **1)** trzy egzemplarze projektu zagospodarowania działki lub terenu i projektu architektoniczno-budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.), aktualnym na dzień opracowania projektu;
+- **1)** trzy egzemplarze projektu zagospodarowania działki lub terenu i projektu architektoniczno-budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762 i 1890.), aktualnym na dzień opracowania projektu;
 - **2)** decyzję, o której mowa w ust. 1, jeżeli jest ona wymagana;
 - **3)** mapy z projektami podziału nieruchomości, w przypadku konieczności dokonania podziału nieruchomości, sporządzone zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
 - **4)** opinie, o których mowa w ust. 5;
@@ -147,7 +162,7 @@ source: "eli-html"
 6. W przypadku gdy po doręczeniu zawiadomienia, o którym mowa w ust. 1, nastąpi:
 
 - **1)** zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o zezwoleniu na realizację inwestycji,
-- **2)** przeniesienie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem, o którym mowa w pkt 1, wskutek innego zdarzenia prawnego nabywca, a w przypadku, o którym mowa w pkt 1, także zbywca, są obowiązani do zgłoszenia wojewodzie danych nowego właściciela lub użytkownika wieczystego.
+- **2)** przeniesienie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem, o którym mowa w pkt 1, wskutek innego zdarzenia prawnego – nabywca, a w przypadku, o którym mowa w pkt 1, także zbywca, są obowiązani do zgłoszenia wojewodzie danych nowego właściciela lub użytkownika wieczystego.
 
 7. Niedokonanie zgłoszenia zgodnie z ust. 6 i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania administracyjnego.
 
@@ -343,7 +358,7 @@ source: "eli-html"
 
 3. Organem wyższego stopnia w stosunku do wojewody w sprawach zgłoszenia, o którym mowa w ust. 1, jest Główny Inspektor Nadzoru Budowlanego.
 
-#### Rozdział 3 Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji
+#### Rozdział 3
 
 **Art. 23.**
 
@@ -438,7 +453,7 @@ source: "eli-html"
 
 **Art. 34.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, przy czym ilekroć w przepisach tej ustawy mowa jest o decyzji o ustaleniu lokalizacji inwestycji celu publicznego, rozumie się przez to także decyzję o zezwoleniu na realizację inwestycji wydaną na podstawie niniejszej ustawy.
 
-#### Rozdział 4 Postępowanie administracyjne oraz sądowoadministracyjne dotyczące realizacji inwestycji
+#### Rozdział 4
 
 **Art. 35.**
 
@@ -478,7 +493,7 @@ source: "eli-html"
 
 **Art. 39.** Wojewoda jest organem egzekucyjnym prowadzącym egzekucję obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa w art. 3 ust. 1, art. 19 ust. 1 oraz art. 29 ust. 3.
 
-#### Rozdział 5 Zmiany w przepisach i przepis końcowy
+#### Rozdział 5
 
 **Art. 40.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, 1113, 1463, 1506, 1688 i 1762) wprowadza się następujące zmiany:
 
@@ -487,7 +502,7 @@ source: "eli-html"
 - **2)** w art. 95 po pkt 6d dodaje się pkt 6e w brzmieniu: „
 - **6e)** wydzielenia części nieruchomości objętej decyzją o zezwoleniu na realizację inwestycji w zakresie budowy strzelnic realizowanych przez uczelnie na podstawie ustawy z dnia 7 lipca 2023 r. o inwestycjach w zakresie budowy strzelnic realizowanych przez uczelnie. ” .
 
-**Art. 41.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 41.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719 i 1890.) wprowadza się następujące zmiany:
 
 - **1)** w art. 64: w ust. 1 pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -517,5 +532,5 @@ source: "eli-html"
 
 5. W przypadku wstrzymania wykonania decyzji o środowiskowych uwarunkowaniach organ, który wydał tę decyzję, informuje niezwłocznie o jej wstrzymaniu organ właściwy do wydania decyzji, o której mowa w art. 72 ust. 1 pkt 1, 2, 4–6, 8–10, 14, 17, 18, 20, 21, 23, 26 lub 29, zwanej dalej „zezwoleniem na inwestycję”. ” .
 
-**Art. 42.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 42.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719 i 1890. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762 i 1890. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719 i 1890.
 

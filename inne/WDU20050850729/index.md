@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw
+# Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach i ustawę z dnia 18 lipca 2001 r. – Prawo wodne.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-04-22 |
 | Data wydania | 2005-05-16 |
-| Wejście w życie | 2005-08-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050850729) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/729/text.pdf) |
 
@@ -314,14 +313,14 @@ source: "eli-html"
 
 3. Należność za przekazane urządzenia wodociągowe i urządzenia kanalizacyjne może być rozłożona na raty lub uwzględniona w rozliczeniach za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków. ” .
 
-**Art. 2.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. Nr 132, poz. 622, z późn. zm.) w art. 5 wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. Nr 132, poz. 622, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 60, poz. 369 i Nr 121, poz. 770, z 2000 r. Nr 22, poz. 272, z 2001 r. Nr 100, poz. 1085 i Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 7, poz. 78 oraz z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808.) w art. 5 wprowadza się następujące zmiany:
 
 - **1)** w ust. 6 skreśla się drugie zdanie,
 - **2)** po ust. 6 dodaje się ust. 7 w brzmieniu: „
 
 7. W przypadku stwierdzenia niewykonania obowiązków, o których mowa w ust. 1–4, wójt (burmistrz, prezydent miasta) wydaje decyzję nakazującą wykonanie obowiązku. ” .
 
-**Art. 3.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. Nr 115, poz. 1229, z późn. zm.) w art. 9 w ust. 1 pkt 24 otrzymuje brzmienie: „
+**Art. 3.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. Nr 115, poz. 1229, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1803, z 2002 r. Nr 113, poz. 984, Nr 130, poz. 1112, Nr 233, poz. 1957 i Nr 238, poz. 2022, z 2003 r. Nr 80, poz. 717, Nr 165, poz. 1592, Nr 190, poz. 1865 i Nr 228, poz. 2259 oraz z 2004 r. Nr 92, poz. 880, Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 273, poz. 2703.) w art. 9 w ust. 1 pkt 24 otrzymuje brzmienie: „
 
 - **24)** wodzie przeznaczonej do spożycia przez ludzi – rozumie się przez to: wodę w stanie pierwotnym lub po uzdatnieniu, przeznaczoną do picia, przygotowania żywności lub innych celów domowych, niezależnie od jej pochodzenia i od tego, czy jest dostarczana z sieci dystrybucyjnej, cystern, w butelkach lub pojemnikach, wodę wykorzystywaną przez przedsiębiorstwo produkcji żywności do wytworzenia, przetworzenia, konserwowania lub wprowadzania do obrotu produktów albo substancji przeznaczonych do spożycia przez ludzi, ” .
     - **a)**
@@ -339,5 +338,5 @@ source: "eli-html"
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 11, art. 13 i art. 23 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 11, art. 13 i art. 23, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach i ustawę z dnia 18 lipca 2001 r. – Prawo wodne. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 60, poz. 369 i Nr 121, poz. 770, z 2000 r. Nr 22, poz. 272, z 2001 r. Nr 100, poz. 1085 i Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 7, poz. 78 oraz z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1803, z 2002 r. Nr 113, poz. 984, Nr 130, poz. 1112, Nr 233, poz. 1957 i Nr 238, poz. 2022, z 2003 r. Nr 80, poz. 717, Nr 165, poz. 1592, Nr 190, poz. 1865 i Nr 228, poz. 2259 oraz z 2004 r. Nr 92, poz. 880, Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 273, poz. 2703.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 sierpnia 2017 r. w sprawie warunków organizacyjnych, technicznych i kadrowych, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzanie czynności kontrolnych, w ramach kontroli podmiotów uczestniczących w mechanizmach administrowanych przez Agencję Restrukturyzacji i Modernizacji Rolnictwa
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 sierpnia 2017 r. w sprawie warunków organizacyjnych, technicznych i kadrowych, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzanie czynności kontrolnych, w ramach kontroli podmiotów uczestniczących w mechanizmach administrowanych przez Agencję Restrukturyzacji i Modernizacji Rolnictwa Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-24 |
 | Data wydania | 2017-09-07 |
-| Wejście w życie | 2017-09-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001708) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1708/text.pdf) |
 
@@ -80,6 +79,5 @@ w liczbie zapewniającej samodzielne wykonywanie analiz laboratoryjnych;
 3)
 organizować szkolenia dla pracowników z zakresu mechanizmów administrowanych przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zapewniające jednolity sposób przeprowadzania czynności kontrolnych.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2004 r. w sprawie warunków organizacyjnych, technicznych i kadrowych, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzanie czynności sprawdzających (Dz. U. poz. 1173 oraz z 2011 r. poz. 637), które traci moc na podstawie art. 60 ust. 1 pkt 3 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2004 r. w sprawie warunków organizacyjnych, technicznych i kadrowych, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzanie czynności sprawdzających (Dz. U. poz. 1173 oraz z 2011 r. poz. 637), które traci moc na podstawie art. 60 ust. 1 pkt 3 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2004 r. w sprawie warunków organizacyjnych, technicznych i kadrowych, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzanie czynności sprawdzających (Dz. U. poz. 1173 oraz z 2011 r. poz. 637), które traci moc na podstawie art. 60 ust. 1 pkt 3 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) z dniem wejścia w życie niniejszego rozporządzenia.
 

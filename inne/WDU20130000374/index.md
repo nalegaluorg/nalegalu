@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-15 |
 | Data wydania | 2013-03-19 |
-| Wejście w życie | 2013-03-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000374) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/374/text.pdf) |
 
@@ -41,7 +40,7 @@ Treść rozporządzenia
 ## Załącznik nr 6 — – Szczegółowe wymagania programu ochrony lotniska niebędącego portem lotniczym podlegającego alternatywnym środkom ochrony
 
 Treść rozporządzenia
-Na podstawie art. 189 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 189 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe wymagania dotyczące programów ochrony lotnisk, przewoźników lotniczych, instytucji zapewniających służby żeglugi powietrznej, zarejestrowanego agenta oraz innych podmiotów prowadzących działalność lotniczą, zwanych dalej „programami ochrony”.
 § 2.
@@ -49,8 +48,7 @@ Programy ochrony uwzględniają istniejący stan faktyczny w zakresie ochrony lo
 1)
 rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 300/2008 z dnia 11 marca 2008 r. w sprawie wspólnych zasad w dziedzinie ochrony lotnictwa cywilnego i uchylającym rozporządzenie (WE) nr 2320/2002 (Dz. Urz. UE L 97 z 09.04.2008, str. 72, z późn. zm.) oraz aktach wykonawczych i aktach uzupełniających wydanych na jego podstawie,
 2)
-rozporządzeniu wykonawczym Komisji Europejskiej (UE) nr 1035/2011 z dnia 17 października 2011 r. ustanawiającym wspólne wymogi dotyczące zapewniania służb żeglugi powietrznej oraz zmieniającym rozporządzenie (WE) nr 482/2008 i (UE) nr 691/2010 (Dz. Urz. UE L 271 z 18.10.2011, str. 23, z późn. zm.)
-w szczególności w zakresie nowych technik i technologii środków ochrony.
+rozporządzeniu wykonawczym Komisji Europejskiej (UE) nr 1035/2011 z dnia 17 października 2011 r. ustanawiającym wspólne wymogi dotyczące zapewniania służb żeglugi powietrznej oraz zmieniającym rozporządzenie (WE) nr 482/2008 i (UE) nr 691/2010 (Dz. Urz. UE L 271 z 18.10.2011, str. 23, z późn. zm.) – w szczególności w zakresie nowych technik i technologii środków ochrony.
 § 3.
 Szczegółowe wymagania dotyczące programu ochrony:
 1)
@@ -85,7 +83,7 @@ Zmiany programu ochrony są wprowadzane w drodze wymiany odpowiedniego rozdział
 § 6.
 Programy ochrony lotnisk, przewoźników lotniczych, instytucji zapewniających służby żeglugi powietrznej, zarejestrowanego agenta oraz innych podmiotów prowadzących działalność lotniczą, zatwierdzone przed dniem wejścia w życie niniejszego rozporządzenia, podlegają dostosowaniu do wymogów niniejszego rozporządzenia w terminie dwóch lat od dnia ich ostatniego zatwierdzenia.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 19 marca 2013 r.
+Rozporządzenie wchodzi w życie z dniem 19 marca 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 26 sierpnia 2003 r. w sprawie programów ochrony, obowiązków oraz szkolenia w zakresie ochrony lotnictwa cywilnego (Dz. U. Nr 168, poz. 1638 oraz z 2011 r. Nr 168, poz. 1009), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1544 oraz z 2013 r. poz. 134. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 26 sierpnia 2003 r. w sprawie programów ochrony, obowiązków oraz szkolenia w zakresie ochrony lotnictwa cywilnego (Dz. U. Nr 168, poz. 1638 oraz z 2011 r. Nr 168, poz. 1009), które na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. Nr 170, poz. 1015) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — – Szczegółowe wymagania dotyczące programu ochrony portu lotniczego i innego lotniska niepodlegającego alternatywnym środkom ochrony
 

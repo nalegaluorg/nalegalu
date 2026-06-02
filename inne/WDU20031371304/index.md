@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-06-27 |
 | Data wydania | 2003-08-06 |
-| Wejście w życie | 2003-08-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031371304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1304/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 1996 r. Nr 67, poz. 329, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 1996 r. Nr 67, poz. 329, z późn. zm.Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239, Nr 48, poz. 550, Nr 104, poz. 1104, Nr 120, poz. 1268 i Nr 122, poz. 1320, z 2001 r. Nr 111, poz. 1194 i Nr 144, poz. 1615, z 2002 r. Nr 41, poz. 362, Nr 113, poz. 984, Nr 141, poz. 1185 i Nr 200, poz. 1683 oraz z 2003 r. Nr 6, poz. 65 i Nr 128, poz. 1176.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: pkt 5a otrzymuje brzmienie: „
     - **a)**
@@ -157,8 +156,13 @@ source: "eli-html"
 
 - **6)** koordynowanie działalności okręgowych komisji egzaminacyjnych oraz nadzorowanie ich prac związanych z opracowywaniem propozycji zestawów zadań, pytań i testów do sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, a także nadzorowanie prac związanych z ich przeprowadzaniem, w tym ocenianiem przez okręgowe komisje egzaminacyjne prac egzaminacyjnych, w celu zapewnienia jednolitości i jakości działań wykonywanych przez okręgowe komisje egzaminacyjne oraz porównywalności wyników sprawdzianu i egzaminów. ” ;
 - **10)** uchyla się art. 9b;
-- **11)** w art. 9c: w ust. 2: – pkt 2 i 2a otrzymują brzmienie: „ 2) przygotowywanie, w porozumieniu z Centralną Komisją Egzaminacyjną, propozycji pytań, zadań i testów oraz ich zestawów do przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, 2a) przygotowywanie, w porozumieniu z Centralną Komisją Egzaminacyjną, propozycji pytań, zadań i testów oraz kryteriów ich oceniania do informatorów, o których mowa w art. 9a ust. 2 pkt 1b, ” , – w pkt 6 kropkę zastępuje się przecinkiem oraz dodaje się pkt 7 i 8 w brzmieniu: „ 7) prowadzenie ewidencji egzaminatorów zamieszkujących na terenie objętym właściwością danej okręgowej komisji egzaminacyjnej, 8) współpraca z kuratorami oświaty właściwymi ze względu na zasięg terytorialny komisji w sprawach związanych z przeprowadzaniem sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz doskonaleniem nauczycieli w zakresie diagnozowania, oceniania, egzaminowania i badania osiągnięć edukacyjnych uczniów. ” , po ust. 2 dodaje się ust. 3–8 w brzmieniu: „
+- **11)** w art. 9c: w ust. 2: pkt 2 i 2a otrzymują brzmienie: „
     - **a)**
+
+- **2)** przygotowywanie, w porozumieniu z Centralną Komisją Egzaminacyjną, propozycji pytań, zadań i testów oraz ich zestawów do przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1,
+- **2a)** przygotowywanie, w porozumieniu z Centralną Komisją Egzaminacyjną, propozycji pytań, zadań i testów oraz kryteriów ich oceniania do informatorów, o których mowa w art. 9a ust. 2 pkt 1b, ” , w pkt 6 kropkę zastępuje się przecinkiem oraz dodaje się pkt 7 i 8 w brzmieniu: „
+- **7)** prowadzenie ewidencji egzaminatorów zamieszkujących na terenie objętym właściwością danej okręgowej komisji egzaminacyjnej,
+- **8)** współpraca z kuratorami oświaty właściwymi ze względu na zasięg terytorialny komisji w sprawach związanych z przeprowadzaniem sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz doskonaleniem nauczycieli w zakresie diagnozowania, oceniania, egzaminowania i badania osiągnięć edukacyjnych uczniów. ” , po ust. 2 dodaje się ust. 3–8 w brzmieniu: „
     - **b)**
 
 3. Do ewidencji egzaminatorów, z zastrzeżeniem ust. 4, może być wpisana osoba, która:
@@ -303,8 +307,18 @@ source: "eli-html"
 
 2. Minister właściwy do spraw oświaty i wychowania inicjuje, koordynuje i nadzoruje organizację ogólnopolskich olimpiad i turniejów dla uczniów, a także może zlecić zadania z tego zakresu, w drodze umowy, szkołom wyższym, placówkom naukowym, stowarzyszeniom naukowym, zawodowym i innym podmiotom prowadzącym statutową działalność oświatową lub naukową. ” ;
 
-- **24)** w art. 22: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) warunki i tryb przyjmowania uczniów do szkół oraz przechodzenia z jednych typów szkół do innych, a także może określić maksymalną liczbę szkół ponadgimnazjalnych, o przyjęcie do których można ubiegać się równocześnie, uwzględniając w szczególności zasadę powszechnej dostępności do szkół wszystkich typów, ” , – pkt 3 otrzymuje brzmienie: „ 3) organizację kształcenia dzieci obywateli polskich czasowo przebywających za granicą, ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) warunki i sposób wspomagania nauczania języka polskiego, historii, geografii, kultury polskiej oraz innych przedmiotów nauczanych w języku polskim wśród Polonii i Polaków zamieszkałych za granicą, uwzględniając w szczególności: a) kierowanie nauczycieli do pracy za granicą w środowiskach polonijnych, b) przekazywanie niezbędnych podręczników i pomocy dydaktycznych służących temu nauczaniu, c) organizowanie doskonalenia zawodowego nauczycieli pracujących w środowiskach polonijnych w kraju i za granicą, d) organizowanie kolonii i innych form letniego wypoczynku dzieci i młodzieży polonijnej, ” , – pkt 4 otrzymuje brzmienie: „ 4) zakres i warunki przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą w celach, o których mowa w pkt 3 i 3a, uwzględniając w szczególności częściowy zwrot kosztów utrzymania i zakwaterowania oraz kosztów podróży, a także wyposażenie nauczycieli w niezbędne podręczniki, środki dydaktyczne i inne pomoce niezbędne w procesie nauczania w miejscu zatrudnienia. ” , ust. 1a otrzymuje brzmienie: „
+- **24)** w art. 22: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** warunki i tryb przyjmowania uczniów do szkół oraz przechodzenia z jednych typów szkół do innych, a także może określić maksymalną liczbę szkół ponadgimnazjalnych, o przyjęcie do których można ubiegać się równocześnie, uwzględniając w szczególności zasadę powszechnej dostępności do szkół wszystkich typów, ” , pkt 3 otrzymuje brzmienie: „
+- **3)** organizację kształcenia dzieci obywateli polskich czasowo przebywających za granicą, ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** warunki i sposób wspomagania nauczania języka polskiego, historii, geografii, kultury polskiej oraz innych przedmiotów nauczanych w języku polskim wśród Polonii i Polaków zamieszkałych za granicą, uwzględniając w szczególności: kierowanie nauczycieli do pracy za granicą w środowiskach polonijnych, przekazywanie niezbędnych podręczników i pomocy dydaktycznych służących temu nauczaniu, organizowanie doskonalenia zawodowego nauczycieli pracujących w środowiskach polonijnych w kraju i za granicą, organizowanie kolonii i innych form letniego wypoczynku dzieci i młodzieży polonijnej, ” , pkt 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **4)** zakres i warunki przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą w celach, o których mowa w pkt 3 i 3a, uwzględniając w szczególności częściowy zwrot kosztów utrzymania i zakwaterowania oraz kosztów podróży, a także wyposażenie nauczycieli w niezbędne podręczniki, środki dydaktyczne i inne pomoce niezbędne w procesie nauczania w miejscu zatrudnienia. ” , ust. 1a otrzymuje brzmienie: „
     - **b)**
 
 1a. W rozporządzeniu, o którym mowa w ust. 1 pkt 3, minister właściwy do spraw oświaty i wychowania może wyłączyć stosowanie niektórych przepisów ustawy w odniesieniu do szkół, zespołów szkół i szkolnych punktów konsultacyjnych przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 5 ust. 3b pkt 1, w zakresie wynikającym ze szczególnych warunków funkcjonowania tych szkół, zespołów szkół i szkolnych punktów konsultacyjnych, a także wprowadzić w tym zakresie odrębne unormowania. ” , w ust. 2 pkt 3 i 4 otrzymują brzmienie: „
@@ -423,8 +437,11 @@ source: "eli-html"
 
 - **35)** w art. 34a w ust. 2 pkt 1 otrzymuje brzmienie: „
 - **1)** prawidłowość dysponowania przyznanymi szkole lub placówce środkami budżetowymi oraz pozyskanymi przez szkołę lub placówkę środkami pochodzącymi z innych źródeł, a także gospodarowania mieniem, ” ;
-- **36)** w art. 35: w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) kontroluje sprawność i efektywność nadzoru pedagogicznego sprawowanego przez kuratorów oświaty oraz przestrzeganie przepisów obowiązujących w tym zakresie, a także może wydawać na piśmie kuratorom oświaty wiążące ich wytyczne i polecenia, z wyjątkiem indywidualnych spraw rozstrzyganych w drodze decyzji administracyjnej, ” , – w pkt 4 kropkę zastępuje się przecinkiem oraz dodaje się pkt 5 w brzmieniu: „ 5) może ogłaszać w wydawanym przez siebie dzienniku urzędowym zalecane standardy wyposażenia szkół niezbędne do nauczania przedmiotów ogólnokształcących. ” , ust. 2a otrzymuje brzmienie: „
+- **36)** w art. 35: w ust. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** kontroluje sprawność i efektywność nadzoru pedagogicznego sprawowanego przez kuratorów oświaty oraz przestrzeganie przepisów obowiązujących w tym zakresie, a także może wydawać na piśmie kuratorom oświaty wiążące ich wytyczne i polecenia, z wyjątkiem indywidualnych spraw rozstrzyganych w drodze decyzji administracyjnej, ” , w pkt 4 kropkę zastępuje się przecinkiem oraz dodaje się pkt 5 w brzmieniu: „
+- **5)** może ogłaszać w wydawanym przez siebie dzienniku urzędowym zalecane standardy wyposażenia szkół niezbędne do nauczania przedmiotów ogólnokształcących. ” , ust. 2a otrzymuje brzmienie: „
     - **b)**
 
 2a. Minister Sprawiedliwości i podporządkowane organy sprawują nadzór pedagogiczny nad zakładami poprawczymi, schroniskami dla nieletnich, ośrodkami diagnostyczno-konsultacyjnymi oraz nad szkołami w tych zakładach i schroniskach, a także nad szkołami przy zakładach karnych, z wyjątkiem nadzoru nad nauczaniem przedmiotów ogólnokształcących, który sprawuje kurator oświaty. ” , ust. 4 otrzymuje brzmienie: „
@@ -461,8 +478,11 @@ source: "eli-html"
 
 10. Przepisy ust. 1–9a i art. 37 nie dotyczą szkół prowadzonych przez Ministra Obrony Narodowej i Ministra Sprawiedliwości lub podporządkowane im organy. ” ;
 
-- **38)** w art. 39: w ust. 1: – pkt 5 otrzymuje brzmienie: „ 5) dysponuje środkami określonymi w planie finansowym szkoły lub placówki zaopiniowanym przez radę szkoły lub placówki i ponosi odpowiedzialność za ich prawidłowe wykorzystanie, a także może organizować administracyjną, finansową i gospodarczą obsługę szkoły lub placówki, ” , – w pkt 7 kropkę zastępuje się przecinkiem oraz dodaje się pkt 8 w brzmieniu: „ 8) odpowiada za właściwą organizację i przebieg sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, przeprowadzanych w szkole lub placówce. ” , po ust. 6 dodaje się ust. 7 w brzmieniu: „
+- **38)** w art. 39: w ust. 1: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** dysponuje środkami określonymi w planie finansowym szkoły lub placówki zaopiniowanym przez radę szkoły lub placówki i ponosi odpowiedzialność za ich prawidłowe wykorzystanie, a także może organizować administracyjną, finansową i gospodarczą obsługę szkoły lub placówki, ” , w pkt 7 kropkę zastępuje się przecinkiem oraz dodaje się pkt 8 w brzmieniu: „
+- **8)** odpowiada za właściwą organizację i przebieg sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, przeprowadzanych w szkole lub placówce. ” , po ust. 6 dodaje się ust. 7 w brzmieniu: „
     - **b)**
 
 7. W przypadku nieobecności dyrektora szkoły lub placówki zastępuje go wicedyrektor, a w szkołach i placówkach, w których nie utworzono stanowiska wicedyrektora – inny nauczyciel tej szkoły lub placówki, wyznaczony przez organ prowadzący. ” ;
@@ -735,9 +755,12 @@ source: "eli-html"
     - **d)**
     - **b)**
 
-2a. W przypadku szkoły podstawowej, gimnazjum i szkoły ponadgimnazjalnej ubiegających się o nadanie uprawnień szkoły publicznej z dniem rozpoczęcia działalności wpis do ewidencji może nastąpić, jeżeli osoba prowadząca przedstawi pozytywną opinię kuratora oświaty, a w przypadku szkoły medycznej – także opinię ministra właściwego do spraw zdrowia, o spełnianiu wymagań określonych w art. 7 ust. 3. ” , w ust. 3a: – pkt 3 otrzymuje brzmienie: „ 3) nazwę oraz odpowiednio typ i rodzaj szkoły lub placówki, ” , – pkt 6 i 7 otrzymują brzmienie: „ 6) w przypadku szkoły prowadzącej kształcenie zawodowe – nazwy zawodów, w jakich szkoła kształci, 7) w przypadku liceum profilowanego – nazwy profili kształcenia ogólnozawodowego, w jakich szkoła kształci. ” ;
+2a. W przypadku szkoły podstawowej, gimnazjum i szkoły ponadgimnazjalnej ubiegających się o nadanie uprawnień szkoły publicznej z dniem rozpoczęcia działalności wpis do ewidencji może nastąpić, jeżeli osoba prowadząca przedstawi pozytywną opinię kuratora oświaty, a w przypadku szkoły medycznej – także opinię ministra właściwego do spraw zdrowia, o spełnianiu wymagań określonych w art. 7 ust. 3. ” , w ust. 3a: pkt 3 otrzymuje brzmienie: „
 
 - **c)**
+- **3)** nazwę oraz odpowiednio typ i rodzaj szkoły lub placówki, ” , pkt 6 i 7 otrzymują brzmienie: „
+- **6)** w przypadku szkoły prowadzącej kształcenie zawodowe – nazwy zawodów, w jakich szkoła kształci,
+- **7)** w przypadku liceum profilowanego – nazwy profili kształcenia ogólnozawodowego, w jakich szkoła kształci. ” ;
 - **62)** art. 83a otrzymuje brzmienie: „
 
 **Art. 83a.**
@@ -922,7 +945,7 @@ source: "eli-html"
 
 4a. Rozporządzenie, o którym mowa w ust. 4, powinno uwzględniać w szczególności wymagania, jakim powinny odpowiadać osoby wchodzące w skład komisji egzaminacyjnych, zakres obowiązujących tematów egzaminacyjnych oraz możliwość zwolnienia z części egzaminu osoby przystępującej do egzaminu. ” .
 
-**Art. 5.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385, z późn. zm.Zmiany ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683 oraz z 2003 r. Nr 65, poz. 595 i Nr 128, poz. 1176.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 po ust. 2a dodaje się ust. 2b w brzmieniu: „
 
@@ -934,7 +957,7 @@ source: "eli-html"
 
 1. Senat uczelni, na wniosek rady wydziału, uchwala warunki i tryb rekrutacji na studia oraz zakres egzaminu wstępnego, z zastrzeżeniem ust. 1a. Szczegółowe zasady przyjmowania na studia laureatów oraz finalistów olimpiad stopnia centralnego senat uchwala na okres co najmniej trzech lat. Uchwała senatu jest podawana do publicznej wiadomości w sposób określony w statucie uczelni nie później niż do dnia 31 maja roku poprzedzającego rok akademicki, którego uchwała dotyczy. ” .
 
-**Art. 6.** W ustawie z dnia 29 listopada 1990 r. o pomocy społecznej (Dz. U. z 1998 r. Nr 64, poz. 414, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 29 listopada 1990 r. o pomocy społecznej (Dz. U. z 1998 r. Nr 64, poz. 414, z późn. zm.Zmiany tektu jednolitego ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 20, poz. 170, Nr 79, poz. 885 i Nr 90, poz. 1001, z 2000 r. Nr 12, poz. 136 i Nr 19, poz. 238, z 2001 r. Nr 72, poz. 748, Nr 88, poz. 961, Nr 89, poz. 973, Nr 111, poz. 1194, Nr 122, poz. 1349 i Nr 154, poz. 1792 oraz z 2003 r. Nr 7, poz. 79, Nr 44, poz. 389, Nr 122, poz. 1143, Nr 128, poz. 1176 i Nr 135, poz. 1268.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2a w ust. 1: pkt 13 otrzymuje brzmienie: „
     - **a)**
@@ -1043,6 +1066,6 @@ source: "eli-html"
 - **2)** art. 9 ust. 1 pkt 3 lit. h, art. 14 ust. 1a, 1b, 3, 3a i 4, art. 14a, 14b, 16 ust. 7 i 7a i art. 20 ustawy, o której mowa w art. 1 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, oraz art. 7, które wchodzą w życie z dniem 1 września 2004 r.;
 - **3)** art. 4 ust. 2b i art. 4a ust. 2 pkt 4 ustawy, o której mowa w art. 5 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, oraz art. 5 ust. 3a i 3b ustawy, o której mowa w art. 8 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 1 października 2004 r.;
 - **4)** art. 78 ust. 2 ustawy, o której mowa w art. 1 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie z dniem 1 stycznia 2005 r.;
-- **5)** art. 68c ust. 2 pkt 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie z dniem 1 września 2005 r.
+- **5)** art. 68c ust. 2 pkt 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie z dniem 1 września 2005 r. 2) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239, Nr 48, poz. 550, Nr 104, poz. 1104, Nr 120, poz. 1268 i Nr 122, poz. 1320, z 2001 r. Nr 111, poz. 1194 i Nr 144, poz. 1615, z 2002 r. Nr 41, poz. 362, Nr 113, poz. 984, Nr 141, poz. 1185 i Nr 200, poz. 1683 oraz z 2003 r. Nr 6, poz. 65 i Nr 128, poz. 1176. 3) Zmiany ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683 oraz z 2003 r. Nr 65, poz. 595 i Nr 128, poz. 1176. 4) Zmiany tektu jednolitego ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 20, poz. 170, Nr 79, poz. 885 i Nr 90, poz. 1001, z 2000 r. Nr 12, poz. 136 i Nr 19, poz. 238, z 2001 r. Nr 72, poz. 748, Nr 88, poz. 961, Nr 89, poz. 973, Nr 111, poz. 1194, Nr 122, poz. 1349 i Nr 154, poz. 1792 oraz z 2003 r. Nr 7, poz. 79, Nr 44, poz. 389, Nr 122, poz. 1143, Nr 128, poz. 1176 i Nr 135, poz. 1268.
 
 

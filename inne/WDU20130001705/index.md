@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-30 |
 | Data wydania | 2013-12-31 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001705) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1705/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 85 ust. 1 pkt 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 85 ust. 1 pkt 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675, 829, 1351 i 1650.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach (Dz. U. Nr 91, poz. 814 oraz z 2006 r. Nr 44, poz. 318) wprowadza się następujące zmiany:
 1)
-w § 1 pkt 7 otrzymuje brzmienie:
-„
+w § 1 pkt 7 otrzymuje brzmienie: „
 7)
-komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną Komendy Głównej Straży Granicznej właściwą do spraw kadr albo komórkę organizacyjną właściwą w sprawach kadrowych w oddziale Straży Granicznej, ośrodku Straży Granicznej lub ośrodku szkolenia Straży Granicznej.
-” ;
+komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną Komendy Głównej Straży Granicznej właściwą do spraw kadr albo komórkę organizacyjną właściwą w sprawach kadrowych w oddziale Straży Granicznej, ośrodku Straży Granicznej lub ośrodku szkolenia Straży Granicznej. ” ;
 2)
-§ 2 otrzymuje brzmienie:
-„
+§ 2 otrzymuje brzmienie: „
 § 2.
 Przełożonymi właściwymi w sprawach osobowych funkcjonariuszy są:
 1)
@@ -62,23 +58,18 @@ funkcjonariuszy pełniących służbę na stanowiskach służbowych w podległyc
 b)
 funkcjonariuszy pozostających w ich dyspozycji,
 c)
-funkcjonariuszy, dla których zgodnie z odrębnymi przepisami są przełożonymi właściwymi w sprawach osobowych.
-” ;
+funkcjonariuszy, dla których zgodnie z odrębnymi przepisami są przełożonymi właściwymi w sprawach osobowych. ” ;
 3)
-§ 3 otrzymuje brzmienie:
-„
+§ 3 otrzymuje brzmienie: „
 § 3.
 1.
 W Komendzie Głównej Straży Granicznej prowadzi się sprawy osobowe funkcjonariuszy, o których mowa w § 2 pkt 1, sprawy odwołań lub zażaleń funkcjonariuszy na rozstrzygnięcia w sprawach osobowych podjęte przez komendantów oddziałów, ośrodków i ośrodków szkolenia Straży Granicznej oraz inne sprawy osobowe, w których właściwość Komendanta Głównego Straży Granicznej wynika z przepisów ustawy.
 2.
-W komendzie oddziału Straży Granicznej, w ośrodku Straży Granicznej i w ośrodku szkolenia Straży Granicznej prowadzi się sprawy osobowe funkcjonariuszy wymienionych w § 2 pkt 2 lit. a-c w zakresie niezastrzeżonym dla Komendanta Głównego Straży Granicznej.
-” ;
+W komendzie oddziału Straży Granicznej, w ośrodku Straży Granicznej i w ośrodku szkolenia Straży Granicznej prowadzi się sprawy osobowe funkcjonariuszy wymienionych w § 2 pkt 2 lit. a-c w zakresie niezastrzeżonym dla Komendanta Głównego Straży Granicznej. ” ;
 4)
-w § 8 ust. 3 otrzymuje brzmienie:
-„
+w § 8 ust. 3 otrzymuje brzmienie: „
 3.
-W stosunku do funkcjonariusza zajmującego stanowisko komendanta lub zastępcy komendanta oddziału Straży Granicznej, komendanta lub zastępcy komendanta ośrodka Straży Granicznej, komendanta lub zastępcy komendanta ośrodka szkolenia Straży Granicznej czynność, o której mowa w ust. 1, przeprowadza Komendant Główny Straży Granicznej lub jego zastępca, w obecności kierownika komórki organizacyjnej właściwej w sprawach osobowych w Komendzie Głównej Straży Granicznej.
-” .
+W stosunku do funkcjonariusza zajmującego stanowisko komendanta lub zastępcy komendanta oddziału Straży Granicznej, komendanta lub zastępcy komendanta ośrodka Straży Granicznej, komendanta lub zastępcy komendanta ośrodka szkolenia Straży Granicznej czynność, o której mowa w ust. 1, przeprowadza Komendant Główny Straży Granicznej lub jego zastępca, w obecności kierownika komórki organizacyjnej właściwej w sprawach osobowych w Komendzie Głównej Straży Granicznej. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675, 829, 1351 i 1650.
 

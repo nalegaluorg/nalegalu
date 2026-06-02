@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 24 listopada 2017 r. w sprawie środków na realizację wspólnej polityki rolnej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 24 listopada 2017 r. w sprawie środków na realizację wspólnej polityki rolnej Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2017-12-04 |
-| Wejście w życie | 2017-12-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002235) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2235/text.pdf) |
 
@@ -90,14 +89,13 @@ Kwoty przejętych zabezpieczeń oraz kar i grzywien, nieobjętych klasyfikacją 
 1.
 Środki odzyskane przez agencję płatniczą z tytułu:
 1)
-ryczałtowego zwrotu kosztów odzyskania, o którym mowa w art. 55 akapit drugi rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.),
+ryczałtowego zwrotu kosztów odzyskania, o którym mowa w art. 55 akapit drugi rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1.,
 2)
 zwrotu, wraz z odsetkami, nienależnie pobranych płatności, w części stanowiącej należność budżetu państwa,
 3)
 przejęcia zabezpieczeń oraz kar odnoszących się do wydatków nieobjętych klasyfikacją budżetową EFRG lub EFRROW,
 4)
-rozliczania z urzędem skarbowym podatku od towarów i usług – VAT
-stanowią dochód budżetu państwa i są przekazywane przez agencję płatniczą na rachunek bankowy ministra właściwego do spraw rozwoju wsi, w terminie trzech dni od dnia następującego po dniu odzyskania tych środków, przy czym termin ten ustala się z wyłączeniem sobót oraz dni ustawowo wolnych od pracy.
+rozliczania z urzędem skarbowym podatku od towarów i usług – VAT – stanowią dochód budżetu państwa i są przekazywane przez agencję płatniczą na rachunek bankowy ministra właściwego do spraw rozwoju wsi, w terminie trzech dni od dnia następującego po dniu odzyskania tych środków, przy czym termin ten ustala się z wyłączeniem sobót oraz dni ustawowo wolnych od pracy.
 2.
 Minister właściwy do spraw rozwoju wsi przekazuje uzyskane od agencji płatniczej środki na rachunek dochodów budżetu państwa, w terminach jak dla dochodów budżetu państwa pobieranych przez państwowe jednostki budżetowe, określonych w przepisach o finansach publicznych.
 § 11.
@@ -106,8 +104,7 @@ Minister właściwy do spraw rozwoju wsi przekazuje uzyskane od agencji płatnic
 1)
 zwrotu, wraz z odsetkami, nienależnie pobranych płatności,
 2)
-przejęcia zabezpieczeń oraz kar
-stanowią dochód budżetu państwa w wysokości kwot rozliczonych z Komisją Europejską, wynikających z przepisów Unii Europejskiej obowiązujących w tym zakresie, i są przekazywane przez agencję płatniczą na rachunek bankowy ministra właściwego do spraw rozwoju wsi, w terminie trzech dni od dnia następującego po dniu odzyskania tych środków, przy czym termin ten ustala się z wyłączeniem sobót oraz dni ustawowo wolnych od pracy.
+przejęcia zabezpieczeń oraz kar – stanowią dochód budżetu państwa w wysokości kwot rozliczonych z Komisją Europejską, wynikających z przepisów Unii Europejskiej obowiązujących w tym zakresie, i są przekazywane przez agencję płatniczą na rachunek bankowy ministra właściwego do spraw rozwoju wsi, w terminie trzech dni od dnia następującego po dniu odzyskania tych środków, przy czym termin ten ustala się z wyłączeniem sobót oraz dni ustawowo wolnych od pracy.
 2.
 Minister właściwy do spraw rozwoju wsi przekazuje uzyskane od agencji płatniczej środki na rachunek dochodów budżetu państwa, w terminach jak dla dochodów budżetu państwa pobieranych przez państwowe jednostki budżetowe, określonych w przepisach o finansach publicznych.
 § 12.
@@ -121,15 +118,13 @@ Agencja płatnicza przekazuje ministrowi właściwemu do spraw finansów publicz
 1)
 kwot środków, o których mowa w § 3 ust. 2 i 4 oraz § 10–12,
 2)
-płatności zrealizowanych w danym miesiącu, z podziałem na finansowanie i współfinansowanie, w tym podatek od towarów i usług – VAT, oraz z podziałem na środki EFRG i EFRROW
-w terminie do końca miesiąca następującego po miesiącu, którego dotyczy informacja.
+płatności zrealizowanych w danym miesiącu, z podziałem na finansowanie i współfinansowanie, w tym podatek od towarów i usług – VAT, oraz z podziałem na środki EFRG i EFRROW – w terminie do końca miesiąca następującego po miesiącu, którego dotyczy informacja.
 2.
 Minister właściwy do spraw rozwoju wsi przekazuje ministrowi właściwemu do spraw finansów publicznych, w postaci papierowej lub elektronicznej, zbiorcze zestawienia prognozowanych wydatków agencji płatniczej:
 1)
 na kolejny najbliższy miesiąc, z podziałem na poszczególne dni miesiąca,
 2)
-na kolejne dwa miesiące, z podziałem na poszczególne dekady miesiąca
-w terminie do dwudziestego dnia miesiąca poprzedzającego miesiąc, o którym mowa w pkt 1, przy czym prognozowane wydatki są sporządzane przez ministra właściwego do spraw rozwoju wsi na podstawie danych przekazanych przez agencję płatniczą z podziałem na finansowanie i współfinansowanie, w tym podatek od towarów i usług – VAT, oraz z podziałem na środki EFRG i EFRROW.
+na kolejne dwa miesiące, z podziałem na poszczególne dekady miesiąca – w terminie do dwudziestego dnia miesiąca poprzedzającego miesiąc, o którym mowa w pkt 1, przy czym prognozowane wydatki są sporządzane przez ministra właściwego do spraw rozwoju wsi na podstawie danych przekazanych przez agencję płatniczą z podziałem na finansowanie i współfinansowanie, w tym podatek od towarów i usług – VAT, oraz z podziałem na środki EFRG i EFRROW.
 3.
 Minister właściwy do spraw rozwoju wsi przekazuje ministrowi właściwemu do spraw finansów publicznych, w postaci papierowej lub elektronicznej, zestawienia uznanych przez Komisję Europejską kwot wydatków agencji płatniczej:
 1)
@@ -151,6 +146,5 @@ kwartalne – w terminie do piętnastego dnia miesiąca następującego po kwart
 2)
 roczne – w terminie do dnia 15 lutego roku następującego po roku, którego dotyczy zestawienie.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 10 sierpnia 2016 r. w sprawie środków na realizację wspólnej polityki rolnej (Dz. U. poz. 1226), które na podstawie art. 60 ust. 1 pkt 6 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 10 sierpnia 2016 r. w sprawie środków na realizację wspólnej polityki rolnej (Dz. U. poz. 1226), które na podstawie art. 60 ust. 1 pkt 6 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 10 sierpnia 2016 r. w sprawie środków na realizację wspólnej polityki rolnej (Dz. U. poz. 1226), które na podstawie art. 60 ust. 1 pkt 6 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624 i 1503) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

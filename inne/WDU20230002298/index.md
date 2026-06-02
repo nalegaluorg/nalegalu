@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002298) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2298/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 Rozdział 1 – Przepisy ogólne Rozdział 2 – Instytucja zarządzająca oraz inne organy i jednostki organizacyjne uczestniczące we wspieraniu rozwoju obszarów wiejskich w ramach programu Rozdział 3 – Przyznawanie pomocy Rozdział 4 – Wypłata pomocy Rozdział 5 – Przyznawanie i wypłata pomocy technicznej Rozdział 6 – Przepisy szczegółowe dotyczące pomocy i pomocy technicznej Rozdział 6a – Instrumenty finansowe Rozdział 7 – Doradzanie podmiotom ubiegającym się o przyznanie pomocy oraz beneficjentom Rozdział 8 – Krajowa Sieć Obszarów Wiejskich Rozdział 9 – Zmiany w przepisach obowiązujących Rozdział 9a – Przepisy epizodyczne dotyczące pomocy i pomocy technicznej w związku z zakażeniami wirusem SARS-CoV-2 Rozdział 10 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 2422), z uwzględnieniem zmian wprowadzonych:
@@ -35,13 +35,18 @@ ustawą z dnia 4 listopada 2022 r. o zmianie ustawy o wspieraniu rozwoju obszar�
 2)
 ustawą z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. poz. 2727),
 3)
-ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 października 2023 r.
+ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 października 2023 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 4 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 2433), który stanowi:
-„
+art. 4 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 2433), który stanowi: „
+Przepisy ogólne
+Instytucja zarządzająca oraz inne organy i jednostki organizacyjne uczestniczące we wspieraniu rozwoju obszarów wiejskich w ramach programu
+Przyznawanie pomocy
+Wypłata pomocy
+Przyznawanie i wypłata pomocy technicznej
+Przepisy szczegółowe dotyczące pomocy i pomocy technicznej
+Instrumenty finansowe
 1.
 Instytucja zarządzająca może zapewnić wkład finansowy ze środków programu na rzecz instrumentów finansowych na zasadach określonych w części drugiej w tytule IV rozporządzenia nr 1303/2013.
 2.
@@ -53,7 +58,7 @@ Niezwłocznie po zawarciu umowy o finansowaniu instytucja zarządzająca przekaz
 5.
 Agencja:
 1)
-przeprowadza kontrole, o których mowa w art. 9 ust. 1 lit. c rozporządzenia delegowanego Komisji (UE) nr 480/2014 z dnia 3 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1303/2013 ustanawiające wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiające przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego (Dz. Urz. UE L 138 z 13.05.2014, str. 5, z późn. zm.), zwanego dalej „rozporządzeniem nr 480/2014”;
+przeprowadza kontrole, o których mowa w art. 9 ust. 1 lit. c rozporządzenia delegowanego Komisji (UE) nr 480/2014 z dnia 3 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1303/2013 ustanawiające wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiające przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego (Dz. Urz. UE L 138 z 13.05.2014, str. 5, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 102 z 21.04.2015, str. 33.), zwanego dalej „rozporządzeniem nr 480/2014”;
 2)
 pozyskuje, gromadzi, opracowuje i przekazuje instytucji zarządzającej dane i informacje dotyczące wdrażania instrumentów finansowych, niezbędne do monitorowania realizacji i ewaluacji programu.
 6.
@@ -67,8 +72,7 @@ Minister właściwy do spraw rozwoju wsi, w drodze rozporządzenia:
 1)
 określi wzór imiennego upoważnienia do wykonywania czynności kontrolnych w ramach kontroli, o których mowa w art. 9 ust. 1 lit. c rozporządzenia nr 480/2014 i ust. 8,
 2)
-może określić warunki i tryb przeprowadzania kontroli, o których mowa w art. 9 ust. 1 lit. c rozporządzenia nr 480/2014 i ust. 8
-mając na względzie możliwość zweryfikowania tożsamości osoby uprawnionej do wykonywania czynności kontrolnych i zakresu czynności kontrolnych, do którego taka osoba została upoważniona, oraz zapewnienie, aby czynności kontrolne były wykonywane jednolicie na terenie całego kraju.
+może określić warunki i tryb przeprowadzania kontroli, o których mowa w art. 9 ust. 1 lit. c rozporządzenia nr 480/2014 i ust. 8 – mając na względzie możliwość zweryfikowania tożsamości osoby uprawnionej do wykonywania czynności kontrolnych i zakresu czynności kontrolnych, do którego taka osoba została upoważniona, oraz zapewnienie, aby czynności kontrolne były wykonywane jednolicie na terenie całego kraju.
 Oprócz elementów określonych w załączniku IV do rozporządzenia nr 1303/2013 umowa o finansowaniu zawiera co najmniej:
 1)
 oznaczenie jej przedmiotu i stron;
@@ -92,8 +96,37 @@ Dysponentem środków finansowych, odsetek i innych przychodów, a także zyskó
 Środki finansowe, odsetki i inne przychody, a także zyski, o których mowa w ust. 1, nie stanowią dochodu dysponenta ani podmiotów, którym mogą być przekazywane.
 4.
 Środki finansowe, odsetki i inne przychody, a także zyski, o których mowa w ust. 1, przekazuje się w celu ponownego wykorzystania zgodnie z art. 45 rozporządzenia nr 1303/2013 na pokrycie kosztów i wydatków związanych z udzielaniem poręczeń i gwarancji, o których mowa w art. 34g ust. 2 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2023 r. poz. 926 i 1114), na rzecz podmiotów działających w sektorze rolnym, leśnym lub na obszarach wiejskich. Z chwilą przekazania tych środków minister właściwy do spraw rozwoju wsi przestaje być ich dysponentem.
+Doradzanie podmiotom ubiegającym się o przyznanie pomocy oraz beneficjentom
+Krajowa Sieć Obszarów Wiejskich
+Zmiany w przepisach obowiązujących
 Art. 59–67.
 (pominięte)
+Przepisy epizodyczne dotyczące pomocy i pomocy technicznej w związku z zakażeniami wirusem SARS-CoV-2
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Instytucja zarządzająca oraz inne organy i jednostki organizacyjne uczestniczące we wspieraniu rozwoju obszarów wiejskich w ramach programu
+
+#### Rozdział 3 – Przyznawanie pomocy
+
+#### Rozdział 4 – Wypłata pomocy
+
+#### Rozdział 5 – Przyznawanie i wypłata pomocy technicznej
+
+#### Rozdział 6 – Przepisy szczegółowe dotyczące pomocy i pomocy technicznej
+
+#### Rozdział 6a – Instrumenty finansowe
+
+#### Rozdział 7 – Doradzanie podmiotom ubiegającym się o przyznanie pomocy oraz beneficjentom
+
+#### Rozdział 8 – Krajowa Sieć Obszarów Wiejskich
+
+#### Rozdział 9 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 9a – Przepisy epizodyczne dotyczące pomocy i pomocy technicznej w związku z zakażeniami wirusem SARS-CoV-2
+
+#### Rozdział 10 – Przepisy przejściowe i końcowe
 
 **Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2 i art. 3, które wchodzą w życie z dniem 1 stycznia 2023 r. ” ;
 
@@ -123,13 +156,13 @@ Art. 59–67.
 
 - **1)** ust. 1 pkt 1 ustawy zmienianej w art. 139 i nie zostały wpisane na tę listę przed dniem wejścia w życie niniejszej ustawy, są wpisywane również na listę, o której mowa w art. 113 ust. 1,
 - **2)** ust. 2 ustawy zmienianej w art. 139 i nie zostały wpisane na tę listę przed dniem wejścia w życie niniejszej ustawy, są wpisywane również na listę, o której mowa w art. 113 ust. 1, z ujawnieniem na tej liście informacji o posiadaniu specjalizacji rolnośrodowiskowej,
-- **3)** ust. 3 ustawy zmienianej w art. 139 i nie zostały wpisane na tę listę przed dniem wejścia w życie niniejszej ustawy, są wpisywane również na listę, o której mowa w art. 113 ust. 2 jeżeli spełniają warunki wpisu na listę, o której mowa odpowiednio w art. 51 ust. 1 pkt 1, ust. 2 lub 3 ustawy zmienianej w art. 139, oraz w terminie 90 dni od dnia wejścia w życie niniejszej ustawy złożą oświadczenie, o którym mowa w art. 113 ust. 6 pkt 2.
+- **3)** ust. 3 ustawy zmienianej w art. 139 i nie zostały wpisane na tę listę przed dniem wejścia w życie niniejszej ustawy, są wpisywane również na listę, o której mowa w art. 113 ust. 2 – jeżeli spełniają warunki wpisu na listę, o której mowa odpowiednio w art. 51 ust. 1 pkt 1, ust. 2 lub 3 ustawy zmienianej w art. 139, oraz w terminie 90 dni od dnia wejścia w życie niniejszej ustawy złożą oświadczenie, o którym mowa w art. 113 ust. 6 pkt 2.
 
 2. Osoby, które w terminie 90 dni od dnia wejścia w życie niniejszej ustawy złożą wniosek o wpis na listę prowadzoną na podstawie art. 51:
 
 - **1)** ust. 1 pkt 1 ustawy zmienianej w art. 139, są wpisywane również na listę, o której mowa w art. 113 ust. 1,
 - **2)** ust. 2 ustawy zmienianej w art. 139, są wpisywane również na listę, o której mowa w art. 113 ust. 1, z ujawnieniem na tej liście informacji o posiadaniu specjalizacji rolnośrodowiskowej,
-- **3)** ust. 3 ustawy zmienianej w art. 139, są wpisywane również na listę, o której mowa w art. 113 ust. 2 jeżeli spełniają warunki wpisu na listę, o której mowa odpowiednio w art. 51 ust. 1 pkt 1, ust. 2 lub 3 ustawy zmienianej w art. 139, oraz w terminie 90 dni od dnia wejścia w życie niniejszej ustawy złożą oświadczenie, o którym mowa w art. 113 ust. 6 pkt 2. ” „
+- **3)** ust. 3 ustawy zmienianej w art. 139, są wpisywane również na listę, o której mowa w art. 113 ust. 2 – jeżeli spełniają warunki wpisu na listę, o której mowa odpowiednio w art. 51 ust. 1 pkt 1, ust. 2 lub 3 ustawy zmienianej w art. 139, oraz w terminie 90 dni od dnia wejścia w życie niniejszej ustawy złożą oświadczenie, o którym mowa w art. 113 ust. 6 pkt 2. ” „
 
 **Art. 169.** Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
 
@@ -138,7 +171,7 @@ Art. 59–67.
 - **3)** art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.;
 - **4)** art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
@@ -147,7 +180,7 @@ Art. 59–67.
     - **b)**
     - **c)**
 
-- **2)** warunki i tryb przyznawania, wypłaty i zwrotu pomocy finansowej: w ramach działań i poddziałań objętych programem, zwanej dalej „pomocą”, na realizację zadań określonych w art. 59 rozporządzenia nr 1303/2013 oraz w art. 51 ust. 2 rozporządzenia nr 1305/2013, zwanej dalej „pomocą techniczną” w zakresie nieokreślonym w przepisach, o których mowa w pkt 1, lub przewidzianym w tych przepisach do określenia przez państwo członkowskie Unii Europejskiej;
+- **2)** warunki i tryb przyznawania, wypłaty i zwrotu pomocy finansowej: w ramach działań i poddziałań objętych programem, zwanej dalej „pomocą”, na realizację zadań określonych w art. 59 rozporządzenia nr 1303/2013 oraz w art. 51 ust. 2 rozporządzenia nr 1305/2013, zwanej dalej „pomocą techniczną” – w zakresie nieokreślonym w przepisach, o których mowa w pkt 1, lub przewidzianym w tych przepisach do określenia przez państwo członkowskie Unii Europejskiej;
     - **a)**
     - **b)**
 
@@ -222,7 +255,7 @@ Art. 59–67.
 
 - **12a)** dobrostan zwierząt;
 - **13)** współpraca;
-- **13a)** wyjątkowe tymczasowe wsparcie dla rolników, mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw szczególnie dotkniętych kryzysem związanym z COVID-19; 13aa) nadzwyczajne tymczasowe wsparcie dla rolników, mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw szczególnie dotkniętych wpływem rosyjskiej inwazji na Ukrainę;
+- **13a)** wyjątkowe tymczasowe wsparcie dla rolników, mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw szczególnie dotkniętych kryzysem związanym z COVID-19; 13aaDodany przez art. 1 pkt 1 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 2433), która weszła w życie z dniem 26 listopada 2022 r.) nadzwyczajne tymczasowe wsparcie dla rolników, mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw szczególnie dotkniętych wpływem rosyjskiej inwazji na Ukrainę;
 - **13b)** zarządzanie ryzykiem;
 - **14)** wsparcie dla rozwoju lokalnego w ramach inicjatywy LEADER: wsparcie przygotowawcze, wsparcie na wdrażanie operacji w ramach strategii rozwoju lokalnego kierowanego przez społeczność, przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania, wsparcie na rzecz kosztów bieżących i aktywizacji.
     - **a)**
@@ -234,7 +267,7 @@ Art. 59–67.
 
 3. Wspieranie rozwoju lokalnego kierowanego przez społeczność, o którym mowa w części drugiej w tytule III w rozdziale II rozporządzenia nr 1303/2013, zwanego dalej „rozwojem lokalnym kierowanym przez społeczność”, w ramach działania, o którym mowa w ust. 1 pkt 14, odbywa się na zasadach określonych w przepisach o rozwoju lokalnym z udziałem lokalnej społeczności, a w zakresie nieuregulowanym w tych przepisach – na zasadach określonych w niniejszej ustawie. Z zastrzeżeniem zasad i warunków określonych w przepisach, o których mowa w art. 1 pkt 1, do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji administracyjnej stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), zwanej dalej „Kodeksem postępowania administracyjnego”, chyba że ustawa stanowi inaczej.
 
-#### Rozdział 2 Instytucja zarządzająca oraz inne organy i jednostki organizacyjne uczestniczące we wspieraniu rozwoju obszarów wiejskich w ramach programu
+#### Rozdział 2
 
 **Art. 5.**
 
@@ -258,8 +291,7 @@ Art. 59–67.
 6. Krajowa Stacja Chemiczno-Rolnicza oraz podlegające jej okręgowe stacje chemiczno-rolnicze wykonują następujące zadania instytucji zarządzającej jako instytucje pośredniczące:
 
 - **1)** zadanie, o którym mowa w ust. 2 pkt 3, w zakresie wykonywania badań agrochemicznych;
-- **2)** tworzenie i prowadzenie bazy danych zawierającej wyniki badań agrochemicznych w celu, o którym mowa w art. 68 lit. a rozporządzenia nr 1305/2013;
-- **3)** inne zadania w zakresie wykonywania badań agrochemicznych powierzone przez instytucję zarządzającą.
+- **2)** tworzenie i prowadzenie bazy danych zawierającej wyniki badań agrochemicznych w celu, o którym mowa w art. 68 lit. a rozporządzenia nr 1305/2013; 3Dodany przez art. 139 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r.) inne zadania w zakresie wykonywania badań agrochemicznych powierzone przez instytucję zarządzającą.
 
 7. Badania agrochemiczne są wykonywane na podstawie planu opracowanego i przekazanego Krajowej Stacji Chemiczno-Rolniczej przez instytucję zarządzającą.
 
@@ -317,7 +349,7 @@ Art. 59–67.
 
 - **1)** agencją płatniczą – w zakresie wykonywania zadań związanych z przyznawaniem, wypłatą i zwrotem pomocy i pomocy technicznej,
 - **2)** podmiotami wdrażającymi – w zakresie wykonywania zadań związanych z przyznawaniem, wypłatą i zwrotem pomocy,
-- **3)** instytucjami pośredniczącymi – w zakresie wykonywania zadań instytucji zarządzającej pod względem wykonywania tych zadań zgodnie z przepisami prawa i programem.
+- **3)** instytucjami pośredniczącymi – w zakresie wykonywania zadań instytucji zarządzającej – pod względem wykonywania tych zadań zgodnie z przepisami prawa i programem.
 
 2. Instytucja zarządzająca, w ramach nadzoru, o którym mowa w ust. 1, może w szczególności:
 
@@ -363,7 +395,7 @@ Art. 59–67.
 
 **Art. 13.** Agencja płatnicza, podmioty wdrażające, instytucje pośredniczące, LGD oraz organy administracji rządowej i jednostki organizacyjne podległe organom administracji rządowej lub przez nie nadzorowane, a także organy samorządu terytorialnego, współpracują przy realizacji zadań związanych z wdrażaniem programu.
 
-#### Rozdział 3 Przyznawanie pomocy
+#### Rozdział 3
 
 **Art. 14.**
 
@@ -371,9 +403,9 @@ Art. 59–67.
 
 2. W przypadku poddziałania, o którym mowa w art. 3 ust. 1 pkt 4 lit. c, pomoc jest przyznawana staroście jako organowi prowadzącemu postępowanie scaleniowe w ramach operacji w zakresie scalania gruntów.
 
-**Art. 15.** (uchylony)
+**Art. 15.** (uchylony)Przez art. 139 pkt 2 ustawy, o której mowa w odnośniku 2.
 
-**Art. 16.** Pomoc nie przysługuje podmiotowi, który podlega zakazowi dostępu do środków, o których mowa w art. 5 ust. 3 pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.), na podstawie prawomocnego orzeczenia sądu.
+**Art. 16.** Pomoc nie przysługuje podmiotowi, który podlega zakazowi dostępu do środków, o których mowa w art. 5 ust. 3 pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.), na podstawie prawomocnego orzeczenia sądu.
 
 **Art. 17.**
 
@@ -407,9 +439,7 @@ Art. 59–67.
 
 3. Zgodę, o której mowa w ust. 2, dołącza się do wniosku o przyznanie pomocy.
 
-4. Jeżeli warunkiem przyznania pomocy jest posiadanie gospodarstwa rolnego lub gruntu i pomoc jest przyznawana do powierzchni gruntu, to taka pomoc do gruntu będącego własnością Skarbu Państwa, państwowej osoby prawnej, jednostki samorządu terytorialnego lub samorządowej osoby prawnej przysługuje podmiotowi, który ma do tego gruntu tytuł prawny, z tym że w przypadku działań, o których mowa w art. 3 ust. 1 pkt 10–12 – podmiotowi, który, na dzień 31 maja danego roku, ma do tego gruntu tytuł prawny.
-
-**Art. 21.** Jeżeli warunkiem przyznania pomocy w pełnej wysokości jest spełnianie w ramach wzajemnej zgodności wymogów i norm, o których mowa w tytule VI rozporządzenia nr 1306/2013 oraz w przepisach wydanych w trybie tego rozporządzenia, przez te wymogi i normy rozumie się wymogi i normy określone w ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz w przepisach wydanych na podstawie tej ustawy.
+4. Jeżeli warunkiem przyznania pomocy jest posiadanie gospodarstwa rolnego lub gruntu i pomoc jest przyznawana do powierzchni gruntu, to taka pomoc do gruntu będącego własnością Skarbu Państwa, państwowej osoby prawnej, jednostki samorządu terytorialnego lub samorządowej osoby prawnej przysługuje podmiotowi, który ma do tego gruntu tytuł prawny, z tym że w przypadku działań, o których mowa w art. 3 ust. 1 pkt 10–12 – podmiotowi, który, na dzień 31 maja danego roku, ma do tego gruntu tytuł prawny. Art. 21W brzmieniu ustalonym przez art. 139 pkt 3 ustawy, o której mowa w odnośniku 2.. Jeżeli warunkiem przyznania pomocy w pełnej wysokości jest spełnianie w ramach wzajemnej zgodności wymogów i norm, o których mowa w tytule VI rozporządzenia nr 1306/2013 oraz w przepisach wydanych w trybie tego rozporządzenia, przez te wymogi i normy rozumie się wymogi i normy określone w ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz w przepisach wydanych na podstawie tej ustawy.
 
 **Art. 22.** Pomoc jest przyznawana na wniosek o jej przyznanie, z wyłączeniem działań, o których mowa w art. 3 ust. 1 pkt 1 i 2.
 
@@ -419,7 +449,7 @@ Art. 59–67.
 
 - **1)** pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013,
 - **2)** pkt 10–12a,
-- **3)** pkt 14: lit. b, w zakresie projektów grantowych, o których mowa w przepisach o rozwoju lokalnym z udziałem lokalnej społeczności, oraz operacji realizowanych przez LGD jako operacje własne, lit. c i d w terminie określonym w przepisach wydanych na podstawie art. 45 ust. 1 pkt 1.
+- **3)** pkt 14: lit. b, w zakresie projektów grantowych, o których mowa w przepisach o rozwoju lokalnym z udziałem lokalnej społeczności, oraz operacji realizowanych przez LGD jako operacje własne, lit. c i d – w terminie określonym w przepisach wydanych na podstawie art. 45 ust. 1 pkt 1.
     - **a)**
     - **b)**
 
@@ -436,14 +466,9 @@ Art. 59–67.
 
 2. W przypadku nieusunięcia braków, o których mowa w ust. 1, w terminie, w jakim można dokonać poprawek zgodnie z art. 13 ust. 3 rozporządzenia nr 640/2014, wniosek jest rozpatrywany w zakresie, w jakim został prawidłowo wypełniony, oraz na podstawie dołączonych do niego prawidłowych dokumentów.
 
-**Art. 26.**
+**Art. 26.** 1Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.. Pomoc w ramach działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 3 lit. a, pkt 6 lit. a-c i e, pkt 8–12a i 13a-13b, jest przyznawana w drodze decyzji administracyjnej. 2. Organem właściwym w sprawach dotyczących przyznawania pomocy w drodze decyzji administracyjnej jest:
 
-1. Pomoc w ramach działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 3 lit. a, pkt 6 lit. a-c i e, pkt 8–12a i 13a-13b, jest przyznawana w drodze decyzji administracyjnej.
-
-2. Organem właściwym w sprawach dotyczących przyznawania pomocy w drodze decyzji administracyjnej jest:
-
-- **1)** dyrektor oddziału regionalnego Agencji – w przypadku działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 6 lit. a-c oraz pkt 9;
-- **2)** kierownik biura powiatowego Agencji – w przypadku działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 6 lit. e, pkt 8, 10–12a i 13a-13b;
+- **1)** dyrektor oddziału regionalnego Agencji – w przypadku działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 6 lit. a-c oraz pkt 9; 2Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.) kierownik biura powiatowego Agencji – w przypadku działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 6 lit. e, pkt 8, 10–12a i 13a-13b;
 - **3)** dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa – w przypadku poddziałania, o którym mowa w art. 3 ust. 1 pkt 3 lit. a.
 
 **Art. 27.**
@@ -459,9 +484,8 @@ Art. 59–67.
 
 2a. Zdjęcie wykonane i przesłane przez stronę postępowania z wykorzystaniem aplikacji udostępnionej przez Agencję, w tym zdjęcie geotagowane będące zdjęciem zawierającym informacje o długości i szerokości geograficznej miejsca wykonania tego zdjęcia, ustalonych na podstawie dostępnych systemów pozycjonowania satelitarnego, stanowi dowód tego, co zostało zobrazowane na tym zdjęciu oraz zapisane w pliku zawierającym to zdjęcie. Zdjęcie przesłane z wykorzystaniem tej aplikacji ma charakter dokumentu, o którym mowa w art. 76 § 1 Kodeksu postępowania administracyjnego.
 
-3. Odwołanie od decyzji administracyjnej w sprawie o przyznanie pomocy:
+3. Odwołanie od decyzji administracyjnej w sprawie o przyznanie pomocy: 1Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1.) rozpatruje się w terminie dwóch miesięcy od dnia otrzymania odwołania, a w przypadku działań, o których mowa w art. 3 ust. 1 pkt 13a i 13aa, w terminie 14 dni od dnia otrzymania odwołania;
 
-- **1)** rozpatruje się w terminie dwóch miesięcy od dnia otrzymania odwołania, a w przypadku działań, o których mowa w art. 3 ust. 1 pkt 13a i 13aa, w terminie 14 dni od dnia otrzymania odwołania;
 - **2)** nie wstrzymuje jej wykonania.
 
 4. W przypadku, o którym mowa w art. 155 Kodeksu postępowania administracyjnego, organ, który wydał ostateczną decyzję administracyjną w sprawie o przyznanie pomocy, na mocy której strona nabyła prawo, może ją zmienić, również bez zgody strony, jeżeli nie ograniczy to nabytych przez nią praw.
@@ -478,9 +502,7 @@ Art. 59–67.
 2. W decyzji administracyjnej w sprawie o przyznanie pomocy w ramach działania, o którym mowa w art. 3 ust. 1:
 
 - **1)** pkt 10, ustala się również obszar gruntów objęty zobowiązaniem, o którym mowa w art. 28 ust. 3 rozporządzenia nr 1305/2013, oraz zwierzęta objęte zobowiązaniem, o którym mowa w art. 7 ust. 2 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1);
-- **2)** pkt 11, ustala się również obszar gruntów objęty zobowiązaniem, o którym mowa w art. 29 ust. 2 rozporządzenia nr 1305/2013.
-
-3. W przypadku działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 3 lit. a, pkt 6 lit. a-c i e, pkt 8–12a i 13a-13b, organ właściwy w sprawach o przyznanie pomocy jest również właściwy w sprawach uznawania przypadków działania siły wyższej lub wystąpienia nadzwyczajnych okoliczności, o których mowa w art. 2 ust. 2 rozporządzenia nr 1306/2013.
+- **2)** pkt 11, ustala się również obszar gruntów objęty zobowiązaniem, o którym mowa w art. 29 ust. 2 rozporządzenia nr 1305/2013. 3Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.. W przypadku działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 3 lit. a, pkt 6 lit. a-c i e, pkt 8–12a i 13a-13b, organ właściwy w sprawach o przyznanie pomocy jest również właściwy w sprawach uznawania przypadków działania siły wyższej lub wystąpienia nadzwyczajnych okoliczności, o których mowa w art. 2 ust. 2 rozporządzenia nr 1306/2013.
 
 4. Uznanie danego przypadku za działanie siły wyższej lub wystąpienie nadzwyczajnej okoliczności, o których mowa w art. 2 ust. 2 rozporządzenia nr 1306/2013, albo odmowa takiego uznania następuje w decyzji administracyjnej w sprawie o przyznanie pomocy.
 
@@ -499,17 +521,7 @@ Art. 59–67.
 - **1)** poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, oraz w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12, jest wydawana w terminie do dnia 1 marca roku następującego po roku, w którym został złożony wniosek o przyznanie tej pomocy;
 - **2)** działania, o którym mowa w art. 3 ust. 1 pkt 12a, jest wydawana w terminie do dnia 1 czerwca roku następującego po roku, w którym został złożony wniosek o przyznanie tej pomocy.
 
-**Art. 32.**
-
-1. W przypadku poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, oraz działań, o których mowa w art. 3 ust. 1 pkt 10–12a i 13a-13b, jeżeli decyzja administracyjna w sprawie o przyznanie pomocy uwzględnia w całości żądanie strony i nie określa zmniejszeń, wykluczeń lub pozostałych kar administracyjnych, o których mowa w art. 63 ust. 2 rozporządzenia nr 1306/2013, oraz nie ustala kwot podlegających odliczeniu, o którym mowa w art. 28 rozporządzenia wykonawczego Komisji (UE) nr 908/2014 z dnia 6 sierpnia 2014 r. ustanawiającego zasady dotyczące stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, przepisów dotyczących kontroli, zabezpieczeń i przejrzystości, decyzję tę doręcza się jedynie na żądanie strony.
-
-2. Za dzień doręczenia decyzji, o której mowa w ust. 1, w przypadku gdy strona nie wystąpiła z żądaniem jej doręczenia, uważa się dzień uznania przyznanej pomocy na rachunku bankowym strony lub rachunku strony prowadzonym w spółdzielczej kasie oszczędnościowo-kredytowej.
-
-3. Żądanie doręczenia decyzji, o której mowa w ust. 1, składa się do kierownika biura powiatowego Agencji, który wydał tę decyzję, w terminie 14 dni od dnia uznania przyznanej pomocy na rachunku bankowym strony lub rachunku strony prowadzonym w spółdzielczej kasie oszczędnościowo-kredytowej.
-
-4. Jeżeli strona wystąpiła z żądaniem doręczenia decyzji, o której mowa w ust. 1, odwołanie od tej decyzji wnosi się w terminie 14 dni od dnia jej doręczenia.
-
-4a. W przypadku decyzji w sprawie o przyznanie pomocy w ramach działań, o których mowa w art. 3 ust. 1 pkt 13a i 13aa:
+**Art. 32.** 1Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.. W przypadku poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, oraz działań, o których mowa w art. 3 ust. 1 pkt 10–12a i 13a-13b, jeżeli decyzja administracyjna w sprawie o przyznanie pomocy uwzględnia w całości żądanie strony i nie określa zmniejszeń, wykluczeń lub pozostałych kar administracyjnych, o których mowa w art. 63 ust. 2 rozporządzenia nr 1306/2013, oraz nie ustala kwot podlegających odliczeniu, o którym mowa w art. 28 rozporządzenia wykonawczego Komisji (UE) nr 908/2014 z dnia 6 sierpnia 2014 r. ustanawiającego zasady dotyczące stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, przepisów dotyczących kontroli, zabezpieczeń i przejrzystości, decyzję tę doręcza się jedynie na żądanie strony. 2. Za dzień doręczenia decyzji, o której mowa w ust. 1, w przypadku gdy strona nie wystąpiła z żądaniem jej doręczenia, uważa się dzień uznania przyznanej pomocy na rachunku bankowym strony lub rachunku strony prowadzonym w spółdzielczej kasie oszczędnościowo-kredytowej. 3. Żądanie doręczenia decyzji, o której mowa w ust. 1, składa się do kierownika biura powiatowego Agencji, który wydał tę decyzję, w terminie 14 dni od dnia uznania przyznanej pomocy na rachunku bankowym strony lub rachunku strony prowadzonym w spółdzielczej kasie oszczędnościowo-kredytowej. 4. Jeżeli strona wystąpiła z żądaniem doręczenia decyzji, o której mowa w ust. 1, odwołanie od tej decyzji wnosi się w terminie 14 dni od dnia jej doręczenia. 4a. W przypadku decyzji w sprawie o przyznanie pomocy w ramach działań, o których mowa w art. 3 ust. 1 pkt 13a i 13aa:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1.
 
 - **1)** termin, o którym mowa w ust. 3, wynosi 7 dni;
 - **2)** odwołanie od tej decyzji wnosi się w terminie 7 dni od dnia jej doręczenia.
@@ -517,7 +529,7 @@ Art. 59–67.
 5. W przypadku:
 
 - **1)** wszczęcia z urzędu postępowania o uchylenie decyzji, o której mowa w ust. 1, jej zmianę, stwierdzenie jej nieważności lub wygaśnięcia,
-- **2)** wznowienia z urzędu postępowania zakończonego decyzją, o której mowa w ust. 1 do zawiadomienia, o którym mowa w art. 61 § 4 Kodeksu postępowania administracyjnego, albo postanowienia, o którym mowa w art. 149 § 1 Kodeksu postępowania administracyjnego, dołącza się tę decyzję, o ile nie była ona uprzednio doręczona stronie na jej żądanie.
+- **2)** wznowienia z urzędu postępowania zakończonego decyzją, o której mowa w ust. 1 – do zawiadomienia, o którym mowa w art. 61 § 4 Kodeksu postępowania administracyjnego, albo postanowienia, o którym mowa w art. 149 § 1 Kodeksu postępowania administracyjnego, dołącza się tę decyzję, o ile nie była ona uprzednio doręczona stronie na jej żądanie.
 
 6. Kierownik biura powiatowego Agencji, który wydał decyzję, o której mowa w ust. 1, udostępnia stronie na wniosek tę decyzję, o ile nie wystąpiła z żądaniem jej doręczenia.
 
@@ -527,16 +539,16 @@ Art. 59–67.
 
 **Art. 33.**
 
-1. Po zakończeniu ostateczną decyzją administracyjną postępowania w sprawie o przyznanie pomocy w ramach działań, o których mowa w art. 3 ust. 1 pkt 8, 10–12a i 13a-13b, a w przypadku gdy przysługuje na tę decyzję skarga do sądu administracyjnego:
+1. Po zakończeniu ostateczną decyzją administracyjną postępowania w sprawie o przyznanie pomocy w ramach działań, o których mowa w art. 3 ust. 1 pkt 8, 10–12a i 13a-13b, a w przypadku gdy przysługuje na tę decyzję skarga do sądu administracyjnego:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.
 
 - **1)** po bezskutecznym upływie terminu na wniesienie tej skargi albo
-- **2)** po prawomocnym odrzuceniu albo oddaleniu tej skargi albo po prawomocnym umorzeniu postępowania sądowo-administracyjnego w aktach sprawy pozostawia się elektroniczną kopię dokumentów powstałych w postaci papierowej, a uprzednio skopiowane elektronicznie dokumenty w postaci papierowej poddaje się brakowaniu.
+- **2)** po prawomocnym odrzuceniu albo oddaleniu tej skargi albo po prawomocnym umorzeniu postępowania sądowo-administracyjnego – w aktach sprawy pozostawia się elektroniczną kopię dokumentów powstałych w postaci papierowej, a uprzednio skopiowane elektronicznie dokumenty w postaci papierowej poddaje się brakowaniu.
 
 2. Przepis ust. 1 stosuje się również do dokumentów składających się na akta sprawy o:
 
 - **1)** wznowienie postępowania,
 - **2)** stwierdzenie nieważności, zmianę lub uchylenie decyzji administracyjnej,
-- **3)** stwierdzenie wygaśnięcia decyzji administracyjnej w sprawie o przyznanie pomocy w ramach działań, o których mowa w art. 3 ust. 1 pkt 8, 10–12a i 13a-13b, w postępowaniu przed kierownikiem biura powiatowego Agencji, dyrektorem oddziału regionalnego Agencji oraz Prezesem Agencji.
+- **3)** stwierdzenie wygaśnięcia decyzji administracyjnej – w sprawie o przyznanie pomocy w ramach działań, o których mowa w art. 3 ust. 1 pkt 8, 10–12a i 13a-13b, w postępowaniu przed kierownikiem biura powiatowego Agencji, dyrektorem oddziału regionalnego Agencji oraz Prezesem Agencji.Część wspólna ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.
 
 3. Elektroniczną kopię dokumentów, o których mowa w ust. 1 i 2:
 
@@ -582,7 +594,7 @@ Art. 59–67.
 1. W przypadku gdy nie są spełnione warunki przyznania pomocy w ramach:
 
 - **1)** działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 3 lit. b, pkt 4 i 5, pkt 6 lit. d, pkt 7, 13 i 14, podmiot właściwy w sprawie o przyznanie pomocy informuje podmiot ubiegający się o przyznanie pomocy,
-- **2)** działań, o których mowa w art. 3 ust. 1 pkt 1 i 2, agencja płatnicza informuje podmiot, którego oferta została wybrana jako najkorzystniejsza w formie pisemnej o odmowie jej przyznania z podaniem przyczyn odmowy.
+- **2)** działań, o których mowa w art. 3 ust. 1 pkt 1 i 2, agencja płatnicza informuje podmiot, którego oferta została wybrana jako najkorzystniejsza – w formie pisemnej o odmowie jej przyznania z podaniem przyczyn odmowy.
 
 2. W przypadku, o którym mowa w ust. 1, podmiotowi ubiegającemu się o przyznanie pomocy oraz podmiotowi, którego oferta została wybrana jako najkorzystniejsza, przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
@@ -627,16 +639,13 @@ Art. 59–67.
 
 2. Przepisu ust. 1 nie stosuje się do beneficjenta będącego jednostką sektora finansów publicznych lub instytutem badawczym posiadającym status państwowego instytutu badawczego w rozumieniu art. 21 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2022 r. poz. 498 oraz z 2023 r. poz. 1672), a w przypadku gdy umowa o przyznaniu pomocy jest zawierana z grupą beneficjentów – jeżeli wszyscy beneficjenci są jednostkami sektora finansów publicznych lub takimi instytutami badawczymi. Umowa o przyznaniu pomocy może być zawarta poza siedzibą podmiotu przyznającego pomoc, jeżeli w terminie wyznaczonym przez ten podmiot umowa ta została podpisana przez podmiot ubiegający się o przyznanie pomocy i:
 
-- **1)** wysłana w postaci elektronicznej do podmiotu przyznającego pomoc na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285 i 1860), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, a podmiot ubiegający się o przyznanie pomocy otrzymał dowód otrzymania, o którym mowa w art. 41 tej ustawy, lub
-- **2)** nadana przesyłką rejestrowaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej.
+- **1)** wysłana w postaci elektronicznej do podmiotu przyznającego pomoc na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285 i 1860), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, a podmiot ubiegający się o przyznanie pomocy otrzymał dowód otrzymania, o którym mowa w art. 41 tej ustawy, lub 2W brzmieniu ustalonym przez art. 139 pkt 4 ustawy, o której mowa w odnośniku 2.) nadana przesyłką rejestrowaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej.
 
-#### Rozdział 4 Wypłata pomocy
+#### Rozdział 4
 
 **Art. 38.**
 
-1. Pomoc, po jej przyznaniu, jest wypłacana na wniosek o płatność, chyba że przepisy, o których mowa w art. 1 pkt 1, lub ustawa stanowią inaczej.
-
-2. W przypadku działań, o których mowa w art. 3 ust. 1 pkt 8, 10–12a i 13a-13b, wniosek o przyznanie pomocy jest jednocześnie wnioskiem o płatność, a pomoc jest wypłacana w wysokości ustalonej w decyzji administracyjnej o przyznaniu pomocy.
+1. Pomoc, po jej przyznaniu, jest wypłacana na wniosek o płatność, chyba że przepisy, o których mowa w art. 1 pkt 1, lub ustawa stanowią inaczej. 2Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.. W przypadku działań, o których mowa w art. 3 ust. 1 pkt 8, 10–12a i 13a-13b, wniosek o przyznanie pomocy jest jednocześnie wnioskiem o płatność, a pomoc jest wypłacana w wysokości ustalonej w decyzji administracyjnej o przyznaniu pomocy.
 
 3. W przypadku poddziałania, o którym mowa w art. 3 ust. 1 pkt 3 lit. a, oraz działania, o którym mowa w art. 3 ust. 1 pkt 9, pomoc, po jej przyznaniu, jest wypłacana na wniosek o płatność w wysokości ustalonej w decyzji administracyjnej o wypłacie tej pomocy.
 
@@ -653,17 +662,15 @@ Art. 59–67.
 2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw finansów publicznych może określić:
 
 - **1)** szczegółowe warunki lub tryb wypłaty zaliczek na poczet pomocy w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, lub w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12a, lub
-- **2)** rodzaje działań lub poddziałań, które są objęte wypłatą zaliczek na poczet pomocy w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, lub w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12a mając na względzie zabezpieczenie przed nieuzasadnioną wypłatą tych zaliczek.
+- **2)** rodzaje działań lub poddziałań, które są objęte wypłatą zaliczek na poczet pomocy w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, lub w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12a – mając na względzie zabezpieczenie przed nieuzasadnioną wypłatą tych zaliczek.
 
-3. W przypadku podjęcia decyzji, o której mowa w ust. 1, zaliczka na poczet pomocy w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, oraz w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12a, jest wypłacana podmiotom ubiegającym się o przyznanie takiej pomocy z urzędu.
-
-**Art. 39.**
+3. W przypadku podjęcia decyzji, o której mowa w ust. 1, zaliczka na poczet pomocy w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, oraz w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12a, jest wypłacana podmiotom ubiegającym się o przyznanie takiej pomocy z urzędu. Art. 39Ze zmianami wprowadzonymi przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1..
 
 1. W przypadku gdy kwota płatności z tytułu pomocy w ramach działań, o których mowa w art. 3 ust. 1 pkt 8, 10–12a i 13a-13b, nie może zostać przekazana na rachunek bankowy beneficjenta lub rachunek beneficjenta prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej z przyczyn niezależnych od Agencji, decyzję administracyjną o przyznaniu tej pomocy doręcza się nawet wtedy, gdy uwzględnia w całości żądanie beneficjenta i nie określa zmniejszeń, wykluczeń lub pozostałych kar administracyjnych, o których mowa w art. 63 ust. 2 rozporządzenia nr 1306/2013, oraz nie ustala kwot podlegających odliczeniu, o którym mowa w art. 28 rozporządzenia wykonawczego Komisji (UE) nr 908/2014 z dnia 6 sierpnia 2014 r. ustanawiającego zasady dotyczące stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, przepisów dotyczących kontroli, zabezpieczeń i przejrzystości.
 
 2. W przypadku gdy kwota płatności z tytułu pomocy w ramach działań, o których mowa w art. 3 ust. 1 pkt 8, 10–12a i 13a-13b, nie może zostać przekazana na rachunek bankowy beneficjenta lub rachunek beneficjenta prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej z przyczyn niezależnych od Agencji, kierownik biura powiatowego Agencji stwierdza wygaśnięcie decyzji administracyjnej o przyznaniu tej pomocy, jeżeli od dnia, w którym decyzja administracyjna o przyznaniu tej pomocy stała się ostateczna, upłynęły co najmniej 2 lata.
 
-#### Rozdział 5 Przyznawanie i wypłata pomocy technicznej
+#### Rozdział 5
 
 **Art. 40.**
 
@@ -680,11 +687,11 @@ Art. 59–67.
 1. Minister właściwy do spraw rozwoju wsi może określić, w drodze rozporządzenia, wysokość limitów środków dostępnych w ramach pomocy technicznej lub jej wyodrębnionych części (schematów):
 
 - **1)** dla organu lub jednostki organizacyjnej realizujących zadania określone w art. 59 ust. 1 rozporządzenia nr 1303/2013 oraz w art. 51 ust. 2 rozporządzenia nr 1305/2013 lub grupy takich jednostek lub organów, lub
-- **2)** na lata realizacji programu mając na względzie wysokość limitu środków wynikających z programu przeznaczonych na pomoc techniczną oraz zapewnienie finansowania realizacji tych zadań, z uwzględnieniem zróżnicowanych potrzeb wszystkich organów lub jednostek organizacyjnych realizujących te zadania, wynikających z zakresu tych zadań.
+- **2)** na lata realizacji programu – mając na względzie wysokość limitu środków wynikających z programu przeznaczonych na pomoc techniczną oraz zapewnienie finansowania realizacji tych zadań, z uwzględnieniem zróżnicowanych potrzeb wszystkich organów lub jednostek organizacyjnych realizujących te zadania, wynikających z zakresu tych zadań.
 
 2. W przypadku gdy minister właściwy do spraw rozwoju wsi określi w rozporządzeniu, o którym mowa w ust. 1, wysokość limitów środków, pomoc techniczna jest przyznawana do równowartości w złotych wysokości tych limitów.
 
-#### Rozdział 6 Przepisy szczegółowe dotyczące pomocy i pomocy technicznej
+#### Rozdział 6
 
 **Art. 42.**
 
@@ -697,13 +704,11 @@ Art. 59–67.
 
 3. Formularze wniosku o przyznanie pomocy, wniosku o przyznanie pomocy technicznej oraz wniosku o płatność oraz ich zmiany wymagają akceptacji instytucji zarządzającej.
 
-3a. Wniosek o przyznanie pomocy w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12a, z uwzględnieniem art. 17 ust. 3 lit. b rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.), zwanego dalej „rozporządzeniem nr 809/2014”, oraz w ramach działania, o którym mowa w art. 3 ust. 1 pkt 13aa, składa się za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa. Właściwym organem, o którym mowa w art. 17 ust. 3 rozporządzenia nr 809/2014, jest kierownik biura powiatowego Agencji.
+3a. Wniosek o przyznanie pomocy w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12a, z uwzględnieniem art. 17 ust. 3 lit. b rozporządzenia wykonawczego Komisji (UE) nr 809/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli, środków rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 227 z 31.07.2014, str. 69, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87, Dz. Urz. UE L 178 z 11.07.2017, str. 4, Dz. Urz. UE L 119 z 15.05.2018, str. 29, Dz. Urz. UE L 125 z 22.05.2018, str. 1, Dz. Urz. UE L 149 z 07.06.2019, str. 58, Dz. Urz. UE L 276 z 29.10.2019, str. 12, Dz. Urz. UE L 224 z 13.07.2020, str. 1, Dz. Urz. UE L 108 z 29.03.2021, str. 15, Dz. Urz. UE L 241 z 08.07.2021, str. 9 oraz Dz. Urz. UE L 189 z 18.07.2022, str. 12., zwanego dalej „rozporządzeniem nr 809/2014”, oraz w ramach działania, o którym mowa w art. 3 ust. 1 pkt 13aa, składa się za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.Zdanie pierwsze w brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 1; zdanie pierwsze ze zmianą wprowadzoną przez art. 139 pkt 5 lit. a ustawy, o której mowa w odnośniku 2. Właściwym organem, o którym mowa w art. 17 ust. 3 rozporządzenia nr 809/2014, jest kierownik biura powiatowego Agencji. 4W brzmieniu ustalonym przez art. 139 pkt 5 lit. b ustawy, o której mowa w odnośniku 2.. Pozostałe wnioski o przyznanie pomocy lub wnioski o płatność dotyczące pomocy można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
-4. Pozostałe wnioski o przyznanie pomocy lub wnioski o płatność dotyczące pomocy można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+5. (uchylony)Przez art. 139 pkt 5 lit. c ustawy, o której mowa w odnośniku 2,
 
-5. (uchylony)
-
-6. (uchylony) Za objęte wnioskiem o przyznanie pomocy w ramach działania, o którym mowa w art. 3 ust. 1 pkt 12a, uznaje się, zgodnie z art. 21 ust. 4 rozporządzenia nr 809/2014, zwierzęta spełniające warunki przyznania tej pomocy, co potwierdzają dane zawarte w komputerowej bazie danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2023 r. poz. 1815).
+6. (uchylony)Przez art. 139 pkt 5 lit. c ustawy, o której mowa w odnośniku 2, Za objęte wnioskiem o przyznanie pomocy w ramach działania, o którym mowa w art. 3 ust. 1 pkt 12a, uznaje się, zgodnie z art. 21 ust. 4 rozporządzenia nr 809/2014, zwierzęta spełniające warunki przyznania tej pomocy, co potwierdzają dane zawarte w komputerowej bazie danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2023 r. poz. 1815).
 
 1. W przypadku działań i poddziałań, o których mowa w art. 3 ust. 1 pkt 1–7, pkt 8 lit. a – w zakresie kosztów założenia, o których mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013 – oraz pkt 8 lit. b, pkt 9, 13 i 14, oraz w przypadku pomocy technicznej, wnioski o przyznanie pomocy oraz pomocy technicznej, wnioski o płatność oraz inne dokumenty składane do Agencji lub podmiotu wdrażającego mogą być składane w postaci elektronicznej na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy, jeżeli w ogłoszeniu o naborze wniosków o przyznanie pomocy albo w ogłoszeniu o zamówieniu publicznym, albo w komunikacie zamieszczonym na stronie internetowej agencji płatniczej lub podmiotu wdrażającego została przewidziana taka możliwość.
 
@@ -774,7 +779,7 @@ Art. 59–67.
 
 1. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia:
 
-- **1)** szczegółowe warunki lub tryb przyznawania, wypłaty lub zwrotu pomocy w ramach poszczególnych działań, poddziałań lub typów operacji objętych programem, a także przestrzenny zasięg wdrażania tych działań oraz poddziałań, w szczególności: formę i tryb składania wniosków o przyznanie pomocy lub wniosków o płatność, szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy lub wnioski o płatność, kryteria wyboru operacji – w przypadku operacji, w odniesieniu do których nie stosuje się wyjątku określonego w art. 49 ust. 2 rozporządzenia nr 1305/2013, szczegółowe wymagania, jakim powinna odpowiadać umowa o przyznaniu pomocy – w przypadku działań i poddziałań, w ramach których pomoc jest przyznawana na podstawie umowy, działania lub poddziałania i przypadki, w których następca prawny podmiotu ubiegającego się o przyznanie pomocy albo nabywca gospodarstwa rolnego lub jego części albo przedsiębiorstwa lub jego części, albo przejmujący posiadanie gospodarstwa rolnego lub jego części może, na swój wniosek, wstąpić do toczącego się postępowania na miejsce tego podmiotu, oraz warunki i tryb wstąpienia do tego postępowania, działania lub poddziałania i przypadki, w których następcy prawnemu beneficjenta albo nabywcy gospodarstwa rolnego lub jego części albo przedsiębiorstwa lub jego części, albo przejmującemu posiadanie gospodarstwa rolnego lub jego części jest przyznawana pomoc, oraz warunki i tryb przyznania tej pomocy mając na względzie zapewnienie prawidłowej realizacji programu, w szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu, biorąc pod uwagę specyfikę poszczególnych działań i poddziałań oraz konieczność ukierunkowania pomocy, w szczególności ze względu na szczególne potrzeby i warunki zidentyfikowane zgodnie z art. 8 ust. 1 lit. c ppkt iv rozporządzenia nr 1305/2013 i wskazane w programie;
+- **1)** szczegółowe warunki lub tryb przyznawania, wypłaty lub zwrotu pomocy w ramach poszczególnych działań, poddziałań lub typów operacji objętych programem, a także przestrzenny zasięg wdrażania tych działań oraz poddziałań, w szczególności: formę i tryb składania wniosków o przyznanie pomocy lub wniosków o płatność, szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy lub wnioski o płatność, kryteria wyboru operacji – w przypadku operacji, w odniesieniu do których nie stosuje się wyjątku określonego w art. 49 ust. 2 rozporządzenia nr 1305/2013, szczegółowe wymagania, jakim powinna odpowiadać umowa o przyznaniu pomocy – w przypadku działań i poddziałań, w ramach których pomoc jest przyznawana na podstawie umowy, działania lub poddziałania i przypadki, w których następca prawny podmiotu ubiegającego się o przyznanie pomocy albo nabywca gospodarstwa rolnego lub jego części albo przedsiębiorstwa lub jego części, albo przejmujący posiadanie gospodarstwa rolnego lub jego części może, na swój wniosek, wstąpić do toczącego się postępowania na miejsce tego podmiotu, oraz warunki i tryb wstąpienia do tego postępowania, działania lub poddziałania i przypadki, w których następcy prawnemu beneficjenta albo nabywcy gospodarstwa rolnego lub jego części albo przedsiębiorstwa lub jego części, albo przejmującemu posiadanie gospodarstwa rolnego lub jego części jest przyznawana pomoc, oraz warunki i tryb przyznania tej pomocy – mając na względzie zapewnienie prawidłowej realizacji programu, w szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu, biorąc pod uwagę specyfikę poszczególnych działań i poddziałań oraz konieczność ukierunkowania pomocy, w szczególności ze względu na szczególne potrzeby i warunki zidentyfikowane zgodnie z art. 8 ust. 1 lit. c ppkt iv rozporządzenia nr 1305/2013 i wskazane w programie;
     - **a)**
     - **b)**
     - **c)**
@@ -784,9 +789,7 @@ Art. 59–67.
 
 - **2)** szczegółowe warunki i tryb przyznawania, wypłaty lub zwrotu pomocy technicznej, w tym tryb składania wniosków o przyznanie pomocy technicznej, szczegółowe wymagania, jakim powinny odpowiadać te wnioski oraz umowa, na podstawie której przyznaje się tę pomoc, mając na względzie zapewnienie przyznawania, wypłaty i zwrotu pomocy technicznej zgodnie z warunkami wynikającymi z programu, w tym uzależniając wysokość przyznawanej pomocy technicznej od efektywności wykonywania zadań związanych z przyznawaniem lub wypłatą pomocy.
 
-2. Wydając rozporządzenie, o którym mowa w ust. 1 pkt 1, minister właściwy do spraw rozwoju wsi może określić wysokość zmniejszeń kwot pomocy, o których mowa w art. 64 ust. 4 lit. a rozporządzenia nr 1306/2013, mając na względzie kryteria określone w art. 64 ust. 5 rozporządzenia nr 1306/2013.
-
-3. Wydając rozporządzenie, o którym mowa w ust. 1 pkt 1, dotyczące działań lub poddziałań, o których mowa w art. 3 ust. 1 pkt 10–12a i 13a-13b, minister właściwy do spraw rozwoju wsi może określić kryteria wyboru operacji, mając na względzie art. 49 ust. 1 lub 3 rozporządzenia nr 1305/2013.
+2. Wydając rozporządzenie, o którym mowa w ust. 1 pkt 1, minister właściwy do spraw rozwoju wsi może określić wysokość zmniejszeń kwot pomocy, o których mowa w art. 64 ust. 4 lit. a rozporządzenia nr 1306/2013, mając na względzie kryteria określone w art. 64 ust. 5 rozporządzenia nr 1306/2013. 3Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.. Wydając rozporządzenie, o którym mowa w ust. 1 pkt 1, dotyczące działań lub poddziałań, o których mowa w art. 3 ust. 1 pkt 10–12a i 13a-13b, minister właściwy do spraw rozwoju wsi może określić kryteria wyboru operacji, mając na względzie art. 49 ust. 1 lub 3 rozporządzenia nr 1305/2013.
 
 4. Wydając rozporządzenie, o którym mowa w ust. 1 pkt 2, minister właściwy do spraw rozwoju wsi może określić wysokość zmniejszeń kwot pomocy technicznej, o których mowa w art. 64 ust. 4 lit. a rozporządzenia nr 1306/2013, mając na względzie kryteria określone w art. 64 ust. 5 rozporządzenia nr 1306/2013.
 
@@ -816,7 +819,7 @@ Art. 59–67.
 - **1)** kontroli na miejscu lub
 - **2)** wizyt, o których mowa w art. 48 ust. 5 rozporządzenia nr 809/2014, lub
 - **3)** kontroli ex post, o których mowa w art. 52 rozporządzenia nr 809/2014, lub
-- **4)** kontroli przeprowadzanych na podstawie art. 46 ust. 1 pkt 1 lub 2 są wykonywane przez osoby posiadające imienne upoważnienie do ich wykonywania wydane odpowiednio przez organ agencji płatniczej, właściwy organ podmiotu wdrażającego, właściwy organ instytucji pośredniczącej lub instytucję zarządzającą.
+- **4)** kontroli przeprowadzanych na podstawie art. 46 ust. 1 pkt 1 lub 2 – są wykonywane przez osoby posiadające imienne upoważnienie do ich wykonywania wydane odpowiednio przez organ agencji płatniczej, właściwy organ podmiotu wdrażającego, właściwy organ instytucji pośredniczącej lub instytucję zarządzającą.
 
 2. Przed rozpoczęciem czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać imienne upoważnienie, o którym mowa w ust. 1.
 
@@ -840,35 +843,32 @@ Art. 59–67.
 **Art. 48.** Agencja płatnicza może powierzyć przeprowadzenie:
 
 - **1)** kontroli na miejscu – w przypadku poddziałań, o których mowa w art. 3 ust. 1 pkt 6 lit. a-c, oraz działania, o którym mowa w art. 3 ust. 1 pkt 12,
-- **2)** wizyt, o których mowa w art. 48 ust. 5 rozporządzenia nr 809/2014 – w przypadku poddziałań, o których mowa w art. 3 ust. 1 pkt 4 lit. a i b innym jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi.
+- **2)** wizyt, o których mowa w art. 48 ust. 5 rozporządzenia nr 809/2014 – w przypadku poddziałań, o których mowa w art. 3 ust. 1 pkt 4 lit. a i b – innym jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi.
 
-1. W przypadku gdy w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, oraz w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12a i 13a-13b, w wyniku ustaleń dokonanych w ramach kontroli administracyjnej lub kontroli na miejscu zostanie stwierdzone, że:
+1. W przypadku gdy w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, oraz w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12a i 13a-13b, w wyniku ustaleń dokonanych w ramach kontroli administracyjnej lub kontroli na miejscu zostanie stwierdzone, że:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.
 
 - **1)** pomoc została przyznana w niewłaściwej wysokości i istnieje konieczność zmiany jej wysokości lub
-- **2)** istnieje konieczność dokonania zmniejszenia danej pomocy lub wykluczenia z pomocy, w tym wynikająca ze stwierdzonych nieprawidłowości lub niezgodności, lub nałożenia pozostałych kar administracyjnych, o których mowa w art. 63 ust. 2 rozporządzenia nr 1306/2013 organ, który wydał decyzję w sprawie o przyznanie tej pomocy, zmienia ją bez zgody strony, jeżeli pomoc ta nie została jeszcze wypłacona i nie upłynął termin jej wypłaty.
+- **2)** istnieje konieczność dokonania zmniejszenia danej pomocy lub wykluczenia z pomocy, w tym wynikająca ze stwierdzonych nieprawidłowości lub niezgodności, lub nałożenia pozostałych kar administracyjnych, o których mowa w art. 63 ust. 2 rozporządzenia nr 1306/2013 – organ, który wydał decyzję w sprawie o przyznanie tej pomocy, zmienia ją bez zgody strony, jeżeli pomoc ta nie została jeszcze wypłacona i nie upłynął termin jej wypłaty.
 
 2. W przypadku, o którym mowa w ust. 1, postępowanie wszczyna się z urzędu.
 
-**Art. 49.** W przypadku pomocy, której warunkiem przyznania w pełnej wysokości jest spełnianie w ramach wzajemnej zgodności wymogów lub norm, o których mowa w tytule VI rozporządzenia nr 1306/2013 oraz przepisach wydanych w trybie tego rozporządzenia:
+**Art. 49.** W przypadku pomocy, której warunkiem przyznania w pełnej wysokości jest spełnianie w ramach wzajemnej zgodności wymogów lub norm, o których mowa w tytule VI rozporządzenia nr 1306/2013 oraz przepisach wydanych w trybie tego rozporządzenia: 1W brzmieniu ustalonym przez art. 139 pkt 6 lit. a ustawy, o której mowa w odnośniku 2.) kontrole w zakresie spełniania wymogów lub norm przeprowadza Agencja oraz powiatowy lekarz weterynarii w zakresie, w trybie i na zasadach określonych w ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisach wydanych na podstawie tej ustawy; 2W brzmieniu ustalonym przez art. 139 pkt 6 lit. a ustawy, o której mowa w odnośniku 2.) oceny wagi stwierdzonej niezgodności dokonuje się zgodnie z przepisami ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisami wydanymi na podstawie tej ustawy;
 
-- **1)** kontrole w zakresie spełniania wymogów lub norm przeprowadza Agencja oraz powiatowy lekarz weterynarii w zakresie, w trybie i na zasadach określonych w ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisach wydanych na podstawie tej ustawy;
-- **2)** oceny wagi stwierdzonej niezgodności dokonuje się zgodnie z przepisami ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisami wydanymi na podstawie tej ustawy;
-- **3)** (uchylony)
-- **4)** karę administracyjną, o której mowa w art. 91 ust. 1 rozporządzenia nr 1306/2013, stosuje się zgodnie z przepisami ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisami wydanymi na podstawie tej ustawy.
+- **3)** (uchylony)Przez art. 139 pkt 6 lit. b ustawy, o której mowa w odnośniku 2. 4W brzmieniu ustalonym przez art. 139 pkt 6 lit. c ustawy, o której mowa w odnośniku 2.) karę administracyjną, o której mowa w art. 91 ust. 1 rozporządzenia nr 1306/2013, stosuje się zgodnie z przepisami ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisami wydanymi na podstawie tej ustawy.
 
 **Art. 50.** Minister właściwy do spraw rozwoju wsi, w drodze rozporządzenia:
 
 - **1)** określi wzór imiennego upoważnienia do wykonywania czynności kontrolnych,
 - **2)** określi warunki organizacyjne, kadrowe i techniczne, jakie powinny spełniać jednostki organizacyjne, którym agencja płatnicza może powierzyć wykonywanie czynności kontrolnych,
-- **3)** może określić warunki i tryb przeprowadzania: wizyt, o których mowa w art. 48 ust. 5 rozporządzenia nr 809/2014, lub kontroli na miejscu, lub kontroli ex post, o których mowa w art. 52 rozporządzenia nr 809/2014, lub kontroli przeprowadzanych na podstawie art. 46 ust. 1 pkt 1 lub 2 mając na względzie możliwość zweryfikowania tożsamości osoby uprawnionej do wykonywania czynności kontrolnych i zakresu czynności kontrolnych, do którego taka osoba została upoważniona, oraz zapewnienie, aby czynności kontrolne były wykonywane jednolicie na terenie całego kraju w sposób określony w art. 24 ust. 1 rozporządzenia nr 809/2014.
+- **3)** może określić warunki i tryb przeprowadzania: wizyt, o których mowa w art. 48 ust. 5 rozporządzenia nr 809/2014, lub kontroli na miejscu, lub kontroli ex post, o których mowa w art. 52 rozporządzenia nr 809/2014, lub kontroli przeprowadzanych na podstawie art. 46 ust. 1 pkt 1 lub 2 – mając na względzie możliwość zweryfikowania tożsamości osoby uprawnionej do wykonywania czynności kontrolnych i zakresu czynności kontrolnych, do którego taka osoba została upoważniona, oraz zapewnienie, aby czynności kontrolne były wykonywane jednolicie na terenie całego kraju w sposób określony w art. 24 ust. 1 rozporządzenia nr 809/2014.
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-#### Rozdział 6a Instrumenty finansowe
+#### Rozdział 6a
 
-#### Rozdział 7 Doradzanie podmiotom ubiegającym się o przyznanie pomocy oraz beneficjentom
+#### Rozdział 7
 
 **Art. 51.**
 
@@ -888,11 +888,11 @@ Art. 59–67.
 5. Na listy, o których mowa w ust. 1–3, wpisuje się osobę fizyczną, która spełnia następujące warunki:
 
 - **1)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **2)** ukończyła szkolenie z danego zakresu doradzania, przeprowadzone przez: CDR – w przypadku doradców rolniczych, doradców rolnośrodowiskowych i ekspertów przyrodniczych, Państwowe Gospodarstwo Leśne Lasy Państwowe, zwane dalej „Lasami Państwowymi” – w przypadku doradców leśnych zwane dalej „szkoleniem”;
+- **2)** ukończyła szkolenie z danego zakresu doradzania, przeprowadzone przez: CDR – w przypadku doradców rolniczych, doradców rolnośrodowiskowych i ekspertów przyrodniczych, Państwowe Gospodarstwo Leśne Lasy Państwowe, zwane dalej „Lasami Państwowymi” – w przypadku doradców leśnych – zwane dalej „szkoleniem”;
     - **a)**
     - **b)**
 
-- **3)** zdała egzamin z danego zakresu doradzania, przeprowadzony przez: dyrektora CDR – w przypadku doradców rolniczych, doradców rolnośrodowiskowych i ekspertów przyrodniczych, Dyrektora Generalnego Lasów Państwowych – w przypadku doradców leśnych zwany dalej „egzaminem”;
+- **3)** zdała egzamin z danego zakresu doradzania, przeprowadzony przez: dyrektora CDR – w przypadku doradców rolniczych, doradców rolnośrodowiskowych i ekspertów przyrodniczych, Dyrektora Generalnego Lasów Państwowych – w przypadku doradców leśnych – zwany dalej „egzaminem”;
     - **a)**
     - **b)**
 
@@ -948,7 +948,7 @@ Art. 59–67.
 8. Do szkolenia uzupełniającego stosuje się odpowiednio przepisy ust. 3 i 4, z tym że o terminie szkolenia uzupełniającego dodatkowo informuje osobę wpisaną na listę:
 
 - **1)** dyrektor CDR – w przypadku doradców rolniczych, doradców rolnośrodowiskowych i ekspertów przyrodniczych,
-- **2)** Dyrektor Generalny Lasów Państwowych – w przypadku doradców leśnych co najmniej na 30 dni przed dniem rozpoczęcia tego szkolenia.
+- **2)** Dyrektor Generalny Lasów Państwowych – w przypadku doradców leśnych – co najmniej na 30 dni przed dniem rozpoczęcia tego szkolenia.
 
 9. Egzamin i egzamin uzupełniający przeprowadza się w formie pisemnej. Egzamin i egzamin uzupełniający mogą być przeprowadzone z wykorzystaniem środków komunikacji elektronicznej.
 
@@ -964,7 +964,7 @@ Art. 59–67.
 
 - **1)** rolnictwa ekologicznego,
 - **2)** przedsiębiorczości,
-- **3)** ekonomiki gospodarstwa rolnego jeżeli ukończył szkolenie w zakresie danej specjalizacji przeprowadzone przez CDR i zdał egzamin w zakresie danej specjalizacji przeprowadzony przez dyrektora CDR lub ukończył studia podyplomowe w zakresie danej specjalizacji.
+- **3)** ekonomiki gospodarstwa rolnego – jeżeli ukończył szkolenie w zakresie danej specjalizacji przeprowadzone przez CDR i zdał egzamin w zakresie danej specjalizacji przeprowadzony przez dyrektora CDR lub ukończył studia podyplomowe w zakresie danej specjalizacji.
 
 2. Do szkolenia i egzaminu w zakresie danej specjalizacji stosuje się odpowiednio przepisy art. 52 ust. 1–4, 5 pkt 1 oraz ust. 6 i 9.
 
@@ -980,7 +980,7 @@ Art. 59–67.
 
 **Art. 54.** Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, szczegółowe warunki i sposób przeprowadzania szkoleń i szkoleń uzupełniających oraz przeprowadzania egzaminów i egzaminów uzupełniających, mając na względzie zapewnienie wysokiej jakości doradztwa w zakresie, o którym mowa w art. 15 ust. 4 i 5 rozporządzenia nr 1305/2013 oraz jednolitych standardów świadczenia usług doradczych w tym zakresie.
 
-#### Rozdział 8 Krajowa Sieć Obszarów Wiejskich
+#### Rozdział 8
 
 **Art. 55.**
 
@@ -1176,17 +1176,17 @@ Art. 59–67.
 - **1)** tryb opracowywania i zmiany planu działania, a także jego zakres i sposób jego realizacji,
 - **2)** tryb opracowywania i zmiany dwuletniego planu operacyjnego, a także jego zakres,
 - **3)** szczegółowy zakres zadań jednostki centralnej, jednostek regionalnych, CDR i wojewódzkich ośrodków doradztwa rolniczego w zakresie funkcjonowania KSOW oraz sposób ich wykonywania,
-- **4)** szczegółowe warunki, kryteria i tryb wyboru operacji partnerów KSOW mając na względzie zapewnienie funkcjonowania KSOW zgodnie z programem, w tym przygotowanie planu działania i dwuletnich planów operacyjnych oraz ich zmian, uwzględniając w planie działania i dwuletnich planach operacyjnych elementy, o których mowa w art. 54 ust. 3 lit. b rozporządzenia nr 1305/2013, oraz zapewnienie realizacji partnerstwa, o którym mowa w art. 5 rozporządzenia nr 1303/2013, będącego zgodnie z art. 54 ust. 1 rozporządzenia nr 1305/2013 częścią KSOW.
+- **4)** szczegółowe warunki, kryteria i tryb wyboru operacji partnerów KSOW – mając na względzie zapewnienie funkcjonowania KSOW zgodnie z programem, w tym przygotowanie planu działania i dwuletnich planów operacyjnych oraz ich zmian, uwzględniając w planie działania i dwuletnich planach operacyjnych elementy, o których mowa w art. 54 ust. 3 lit. b rozporządzenia nr 1305/2013, oraz zapewnienie realizacji partnerstwa, o którym mowa w art. 5 rozporządzenia nr 1303/2013, będącego zgodnie z art. 54 ust. 1 rozporządzenia nr 1305/2013 częścią KSOW.
 
-#### Rozdział 9 Zmiany w przepisach obowiązujących
+#### Rozdział 9
 
-#### Rozdział 9a Przepisy epizodyczne dotyczące pomocy i pomocy technicznej w związku z zakażeniami wirusem SARS-CoV-2
+#### Rozdział 9a
 
 **Art. 67a.** Termin składania wniosków o przyznanie pomocy wskazany w ogłoszeniu o naborze tych wniosków może zostać wydłużony, z tym że informację o tym wydłużeniu podmiot właściwy w sprawie o przyznanie pomocy podaje do publicznej wiadomości na administrowanej przez siebie stronie internetowej. Przedłużony termin może nie spełniać wymogów określonych w przepisach wydanych na podstawie art. 45 ust. 1 pkt 1. 1. (uchylony) 2. (uchylony) 3. W przypadku gdy w okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284, 909 i 1938) w związku z zakażeniami wirusem SARS-CoV-2 lub wprowadzenia stanu nadzwyczajnego w związku z zakażeniami tym wirusem beneficjent nie spełnia warunków wypłaty pomocy lub pomocy technicznej lub warunków, z zastrzeżeniem których wydana została decyzja o przyznaniu pomocy, lub nie realizuje innych zobowiązań związanych z przyznaną pomocą lub pomocą techniczną, beneficjent może spełnić te warunki lub zrealizować te zobowiązania w terminie późniejszym, uzgodnionym odpowiednio z organem lub podmiotem, który przyznał tę pomoc lub pomoc techniczną. 4. Minister właściwy do spraw rozwoju wsi może określić, w drodze rozporządzenia, warunki lub tryb przyznawania, wypłaty lub zwrotu pomocy w ramach poszczególnych działań, poddziałań lub typów operacji objętych programem lub pomocy technicznej, które mają zastosowanie podczas stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi w związku z zakażeniami wirusem SARS-CoV-2 lub wprowadzeniem stanu nadzwyczajnego w związku z zakażeniami tym wirusem oraz w okresie 90 dni od dnia odwołania tych stanów, odmienne w stosunku do przepisów wydanych na podstawie art. 45 albo art. 43a ust. 6, w celu przeciwdziałania skutkom tych stanów oraz mając na względzie zapewnienie sprawnego wdrażania programu w warunkach tych stanów. 5. Wydając rozporządzenie, o którym mowa w ust. 4, minister właściwy do spraw rozwoju wsi może wskazać przepisy wydane na podstawie art. 45 albo art. 43a ust. 6, które nie mają zastosowania w okresie, o którym mowa w ust. 4. 6. (uchylony) 7. Przepisy ust. 3–5 stosuje się z uwzględnieniem zasad i warunków określonych w przepisach, o których mowa w art. 1 pkt 1. Do terminów składania wniosków o przyznanie płatności i terminów zgłaszania zmian do tych wniosków w ramach działań, o których mowa w art. 3 ust. 1 pkt 8 i 10–12a, do terminów na dokonanie określonych czynności w toku postępowań w sprawach dotyczących wyboru operacji partnerów KSOW oraz do terminów, o których mowa w art. 67a, terminów do dokonania określonych czynności w toku postępowań, o których mowa w art. 67b, terminów, w jakich należy spełnić określone warunki przyznania lub wypłaty pomocy lub pomocy technicznej lub określone wymogi, terminów dopełnienia warunków, z zastrzeżeniem których została wydana decyzja o przyznaniu pomocy, lub terminów realizacji innych zobowiązań związanych z przyznaną pomocą lub pomocą techniczną nie stosuje się przepisów art. 15zzzzzn2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2023 r. poz. 1327, 1429, 1723, 1860 i 2029). Przepisów art. 67a i art. 67b nie stosuje się do postępowań w sprawach o przyznanie pomocy w ramach działań, o których mowa w art. 3 ust. 1 pkt 13a i 13aa.
 
-#### Rozdział 10 Przepisy przejściowe i końcowe
+#### Rozdział 10
 
-**Art. 68.** Przepisy wykonawcze wydane na podstawie art. 17 ust. 4 ustawy zmienianej w art. 67 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 4 ustawy wymienionej w art. 67 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 68.** Przepisy wykonawcze wydane na podstawie art. 17 ust. 4 ustawy zmienianej w art. 67Artykuł 67 zawiera zmiany do ustawy z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym. zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 4 ustawy wymienionej w art. 67Artykuł 67 zawiera zmiany do ustawy z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym. w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 69.** Ilekroć w odrębnych przepisach jest mowa o przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich lub o ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, należy przez to rozumieć odpowiednio przepisy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 lub ustawę z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013.
 
@@ -1194,16 +1194,13 @@ Art. 59–67.
 
 **Art. 71.**
 
-1. Osoby, które w dniu wejścia w życie niniejszej ustawy były wpisane na listy prowadzone na podstawie przepisów wydanych na podstawie art. 35 ust. 3 ustawy zmienianej w art. 65, uznaje się z tym dniem za wpisane również na odpowiednią listę, o której mowa w art. 51 ust. 1–3.
+1. Osoby, które w dniu wejścia w życie niniejszej ustawy były wpisane na listy prowadzone na podstawie przepisów wydanych na podstawie art. 35 ust. 3 ustawy zmienianej w art. 65Artykuł 65 zawiera zmiany do ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich., uznaje się z tym dniem za wpisane również na odpowiednią listę, o której mowa w art. 51 ust. 1–3.
 
 2. Dyrektor CDR umieszcza listy, o których mowa w art. 51 ust. 1–3, zawierające dane osób, o których mowa w ust. 1, na stronie internetowej CDR niezwłocznie po wejściu w życie niniejszej ustawy.
 
-**Art. 72.** W przypadku określonym w art. 42 ust. 1 do rozporządzenia nr 640/2014:
+**Art. 72.** W przypadku określonym w art. 42 ust. 1 do rozporządzenia nr 640/2014: 1W brzmieniu ustalonym przez art. 139 pkt 7 lit. a ustawy, o której mowa w odnośniku 2.) kontrole w zakresie spełniania wymogów lub norm, o których mowa w tytule VI rozporządzenia nr 1306/2013 oraz w przepisach wydanych w trybie tego rozporządzenia, przeprowadza Agencja oraz powiatowy lekarz weterynarii w zakresie, w trybie i na zasadach określonych w ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisach wydanych na podstawie tej ustawy; 2W brzmieniu ustalonym przez art. 139 pkt 7 lit. a ustawy, o której mowa w odnośniku 2.) oceny wagi stwierdzonej niezgodności dokonuje się zgodnie z przepisami ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisami wydanymi na podstawie tej ustawy;
 
-- **1)** kontrole w zakresie spełniania wymogów lub norm, o których mowa w tytule VI rozporządzenia nr 1306/2013 oraz w przepisach wydanych w trybie tego rozporządzenia, przeprowadza Agencja oraz powiatowy lekarz weterynarii w zakresie, w trybie i na zasadach określonych w ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisach wydanych na podstawie tej ustawy;
-- **2)** oceny wagi stwierdzonej niezgodności dokonuje się zgodnie z przepisami ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisami wydanymi na podstawie tej ustawy;
-- **3)** (uchylony)
-- **4)** karę administracyjną, o której mowa w art. 91 ust. 1 rozporządzenia nr 1306/2013, stosuje się zgodnie z przepisami ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisami wydanymi na podstawie tej ustawy.
+- **3)** (uchylony)Przez art. 139 pkt 7 lit. b ustawy, o której mowa w odnośniku 2. 4W brzmieniu ustalonym przez art. 139 pkt 7 lit. c ustawy, o której mowa w odnośniku 2.) karę administracyjną, o której mowa w art. 91 ust. 1 rozporządzenia nr 1306/2013, stosuje się zgodnie z przepisami ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (w brzmieniu z dnia 24 sierpnia 2022 r., Dz. U, poz. 1775) oraz przepisami wydanymi na podstawie tej ustawy.
 
-**Art. 73.** Ustawa wchodzi w życie z dniem 15 marca 2015 r.
+**Art. 73.** Ustawa wchodzi w życie z dniem 15 marca 2015 r. 1) Dodany przez art. 1 pkt 1 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 2433), która weszła w życie z dniem 26 listopada 2022 r. 2) Dodany przez art. 139 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), która weszła w życie z dniem 15 marca 2023 r. 3) Przez art. 139 pkt 2 ustawy, o której mowa w odnośniku 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 5) W brzmieniu ustalonym przez art. 139 pkt 3 ustawy, o której mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 7) Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1. 8) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1. 9) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 10) Część wspólna ze zmianą wprowadzoną przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 11) W brzmieniu ustalonym przez art. 139 pkt 4 ustawy, o której mowa w odnośniku 2. 12) Ze zmianami wprowadzonymi przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 13) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 1, Dz. Urz. UE L 225 z 19.08.2016, str. 50, Dz. Urz. UE L 170 z 01.07.2017, str. 87, Dz. Urz. UE L 178 z 11.07.2017, str. 4, Dz. Urz. UE L 119 z 15.05.2018, str. 29, Dz. Urz. UE L 125 z 22.05.2018, str. 1, Dz. Urz. UE L 149 z 07.06.2019, str. 58, Dz. Urz. UE L 276 z 29.10.2019, str. 12, Dz. Urz. UE L 224 z 13.07.2020, str. 1, Dz. Urz. UE L 108 z 29.03.2021, str. 15, Dz. Urz. UE L 241 z 08.07.2021, str. 9 oraz Dz. Urz. UE L 189 z 18.07.2022, str. 12. 14) Zdanie pierwsze w brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 1; zdanie pierwsze ze zmianą wprowadzoną przez art. 139 pkt 5 lit. a ustawy, o której mowa w odnośniku 2. 15) W brzmieniu ustalonym przez art. 139 pkt 5 lit. b ustawy, o której mowa w odnośniku 2. 16) Przez art. 139 pkt 5 lit. c ustawy, o której mowa w odnośniku 2, 17) W brzmieniu ustalonym przez art. 62 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. poz. 2727), która weszła w życie z dniem 6 stycznia 2023 r. 18) W brzmieniu ustalonym przez art. 139 pkt 6 lit. a ustawy, o której mowa w odnośniku 2. 19) Przez art. 139 pkt 6 lit. b ustawy, o której mowa w odnośniku 2. 20) W brzmieniu ustalonym przez art. 139 pkt 6 lit. c ustawy, o której mowa w odnośniku 2. 21) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 102 z 21.04.2015, str. 33. 22) Artykuł 67 zawiera zmiany do ustawy z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym. 23) Artykuł 65 zawiera zmiany do ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich. 24) W brzmieniu ustalonym przez art. 139 pkt 7 lit. a ustawy, o której mowa w odnośniku 2. 25) Przez art. 139 pkt 7 lit. b ustawy, o której mowa w odnośniku 2. 26) W brzmieniu ustalonym przez art. 139 pkt 7 lit. c ustawy, o której mowa w odnośniku 2.
 

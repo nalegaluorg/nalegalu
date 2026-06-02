@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-15 |
 | Data wydania | 2021-05-25 |
-| Wejście w życie | 2021-06-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000952) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/952/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2020 r. poz. 1348 i 2400) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 2 otrzymuje brzmienie: „
-- **2)** realizowanym przy użyciu: oprogramowania dedykowanego dla urządzeń mobilnych, zawierającego usługi ułatwiające korzystanie z przyznanych uprawnień, udostępnionego przez ministra właściwego do spraw rodziny lub wskazanego w informacji zamieszczonej w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw rodziny lub publicznej aplikacji mobilnej, o której mowa w art. 19e ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670 i 952), na podstawie porozumienia pomiędzy ministrem właściwym do spraw rodziny a ministrem właściwym do spraw informatyzacji zwanym dalej „kartą elektroniczną”. ” ;
+- **2)** realizowanym przy użyciu: oprogramowania dedykowanego dla urządzeń mobilnych, zawierającego usługi ułatwiające korzystanie z przyznanych uprawnień, udostępnionego przez ministra właściwego do spraw rodziny lub wskazanego w informacji zamieszczonej w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw rodziny lub publicznej aplikacji mobilnej, o której mowa w art. 19e ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670 i 952), na podstawie porozumienia pomiędzy ministrem właściwym do spraw rodziny a ministrem właściwym do spraw informatyzacji – zwanym dalej „kartą elektroniczną”. ” ;
     - **a)**
     - **b)**
 
@@ -81,8 +80,50 @@ source: "eli-html"
 6. Koszt realizacji ustawy przez gminę za wydanie duplikatu Karty oraz wydanie karty tradycyjnej – w przypadku gdy członkowi rodziny wielodzietnej, na jego wniosek, została już udostępniona karta elektroniczna, wynosi 2,00 zł. ” ;
 
 - **10)** w art. 30 w ust. 1 zdanie drugie otrzymuje brzmienie: „ Wysokość ustalonych w ten sposób kwot zaokrągla się do pełnych złotych w górę. ” ;
-- **11)** w art. 36: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Maksymalny limit wydatków z budżetu państwa na lata 2017–2028 na realizację ustawy przez gminy, wojewodów, ministra właściwego do spraw rodziny i ministra właściwego do spraw transportu wynosi 777,90 mln zł, z tego: ” , – pkt 6–12 otrzymują brzmienie: „ 6) w 2022 r. – 63,90 mln zł, w tym: a) 2,30 mln zł na realizację ustawy przez gminy, b) 6,10 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, c) 50,10 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, d) 5,40 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu; 7) w 2023 r. – 65,60 mln zł, w tym: a) 1,60 mln zł na realizację ustawy przez gminy, b) 5,40 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, c) 52,80 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, d) 5,80 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu; 8) w 2024 r. – 70,00 mln zł, w tym: a) 1,70 mln zł na realizację ustawy przez gminy, b) 5,40 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, c) 56,70 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, d) 6,20 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu; 9) w 2025 r. – 74,50 mln zł, w tym: a) 1,80 mln zł na realizację ustawy przez gminy, b) 5,30 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, c) 60,70 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, d) 6,70 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu; 10) w 2026 r. – 79,10 mln zł, w tym: a) 1,90 mln zł na realizację ustawy przez gminy, b) 5,30 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, c) 64,80 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, d) 7,10 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu; 11) w 2027 r. – 84,00 mln zł, w tym: a) 2,00 mln zł na realizację ustawy przez gminy, b) 5,30 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, c) 69,10 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, d) 7,60 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu; 12) w 2028 r. – 88,90 mln zł, w tym: a) 2,10 mln zł na realizację ustawy przez gminy, b) 5,20 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, c) 73,50 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, d) 8,10 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **11)** w art. 36: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Maksymalny limit wydatków z budżetu państwa na lata 2017–2028 na realizację ustawy przez gminy, wojewodów, ministra właściwego do spraw rodziny i ministra właściwego do spraw transportu wynosi 777,90 mln zł, z tego: ” , pkt 6–12 otrzymują brzmienie: „
     - **a)**
+
+- **6)** w 2022 r. – 63,90 mln zł, w tym: 2,30 mln zł na realizację ustawy przez gminy, 6,10 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 50,10 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 5,40 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **7)** w 2023 r. – 65,60 mln zł, w tym: 1,60 mln zł na realizację ustawy przez gminy, 5,40 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 52,80 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 5,80 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **8)** w 2024 r. – 70,00 mln zł, w tym: 1,70 mln zł na realizację ustawy przez gminy, 5,40 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 56,70 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 6,20 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **9)** w 2025 r. – 74,50 mln zł, w tym: 1,80 mln zł na realizację ustawy przez gminy, 5,30 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 60,70 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 6,70 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **10)** w 2026 r. – 79,10 mln zł, w tym: 1,90 mln zł na realizację ustawy przez gminy, 5,30 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 64,80 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 7,10 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **11)** w 2027 r. – 84,00 mln zł, w tym: 2,00 mln zł na realizację ustawy przez gminy, 5,30 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 69,10 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 7,60 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **12)** w 2028 r. – 88,90 mln zł, w tym: 2,10 mln zł na realizację ustawy przez gminy, 5,20 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 73,50 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 8,10 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
     - **b)**
 
 1a. Maksymalne limity wydatków, o których mowa w ust. 1 pkt 5 lit. a-d, pkt 6 lit. a-d, pkt 7 lit. a-d, pkt 8 lit. a-d, pkt 9 lit. a-d, pkt 10 lit. a-d, pkt 11 lit. a-d oraz pkt 12 lit. a-d, mogą zostać przekroczone, jeżeli:
@@ -146,7 +187,7 @@ source: "eli-html"
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
 - **2)** niewykorzystane,
 - **3)** pobrane nienależnie,
-- **4)** pobrane w nadmiernej wysokości podlegają zwrotowi na rachunek dysponenta Funduszu Pracy.
+- **4)** pobrane w nadmiernej wysokości – podlegają zwrotowi na rachunek dysponenta Funduszu Pracy.
 
 9. Środki Funduszu Pracy, o których mowa w ust. 8 pkt 1, 3 i 4, podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych. ” ;
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 31 października 2017 r. w sprawie uzyskiwania dofinansowania realizacji zadań ze środków Funduszu Rozwiązywania Problemów Hazardowych
+# Rozporządzenie Ministra Zdrowiaz dnia 31 października 2017 r. w sprawie uzyskiwania dofinansowania realizacji zadań ze środków Funduszu Rozwiązywania Problemów Hazardowych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-31 |
 | Data wydania | 2017-10-31 |
-| Wejście w życie | 2017-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2029/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 88 ust. 6 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 88 ust. 6 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 88, 379, 1089 i 1909.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -149,7 +148,7 @@ Podmiot upoważniony sporządza listę wniosków zaakceptowanych przez ministra 
 Podstawą do zawarcia z wnioskodawcą umowy o dofinansowanie realizacji zadania jest wniosek umieszczony na liście, o której mowa w § 9 ust. 8 albo § 10 ust. 2 pkt 1, albo ust. 4.
 § 12.
 1.
-Umowa o dofinansowanie realizacji zadania ze środków Funduszu jest sporządzana zgodnie z wymogami określonymi w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.).
+Umowa o dofinansowanie realizacji zadania ze środków Funduszu jest sporządzana zgodnie z wymogami określonymi w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.).
 2.
 Umowa, o której mowa w ust. 1, określa dodatkowo sposób informowania przez podmiot, któremu zostały przyznane środki na dofinansowanie realizacji zadania, o dofinansowaniu zadań ze środków Funduszu, a także numer rachunku bankowego tego podmiotu.
 § 13.
@@ -164,6 +163,5 @@ W terminie 14 dni od dnia przekazania ministrowi listy, o której mowa w ust. 2,
 4.
 W przypadku braku akceptacji wniosku, o której mowa ust. 3, wnioskodawca może, w terminie 7 dni od dnia ogłoszenia listy zaakceptowanych wniosków, wystąpić w formie pisemnej do podmiotu ogłaszającego konkurs o dokonanie ponownej oceny wniosku. Przepisy § 10 ust. 2–4 stosuje się odpowiednio.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 88, 379, 1089 i 1909. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 stycznia 2016 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu ochrony zdrowia, trybu składania wniosków oraz przekazywania środków Funduszu Rozwiązywania Problemów Hazardowych (Dz. U. poz. 24), które utraciło moc z dniem 2 października 2017 r. zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 stycznia 2016 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu ochrony zdrowia, trybu składania wniosków oraz przekazywania środków Funduszu Rozwiązywania Problemów Hazardowych (Dz. U. poz. 24), które utraciło moc z dniem 2 października 2017 r. zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 88, 379, 1089 i 1909. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 stycznia 2016 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu ochrony zdrowia, trybu składania wniosków oraz przekazywania środków Funduszu Rozwiązywania Problemów Hazardowych (Dz. U. poz. 24), które utraciło moc z dniem 2 października 2017 r. zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88).
 

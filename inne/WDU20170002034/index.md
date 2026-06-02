@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-25 |
 | Data wydania | 2017-11-03 |
-| Wejście w życie | 2017-11-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2034/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 11 ust. 3 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób 
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 21 stycznia 2003 r. w sprawie szczegółowego wykazu świadczeń dodatkowych, które mogą być przyznane osobom kierującym niektórymi podmiotami prawnymi, oraz trybu ich przyznawania (Dz. U. poz. 139) wprowadza się następujące zmiany:
 1)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
-Rozporządzenie ma zastosowanie do osób, o których mowa w art. 2 pkt 1–4 i 10 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zwanej dalej „ustawą”.
-” ;
+Rozporządzenie ma zastosowanie do osób, o których mowa w art. 2 pkt 1–4 i 10 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zwanej dalej „ustawą”. ” ;
 2)
-w § 3 w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w § 3 w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
-osobom wymienionym w art. 2 pkt 1 i 10 ustawy, zatrudnionym w podmiotach, o których mowa w art. 1 ustawy – właściwy organ z własnej inicjatywy lub na umotywowany wniosek rady nadzorczej albo innego statutowego organu nadzorczego;
-” .
+osobom wymienionym w art. 2 pkt 1 i 10 ustawy, zatrudnionym w podmiotach, o których mowa w art. 1 ustawy – właściwy organ z własnej inicjatywy lub na umotywowany wniosek rady nadzorczej albo innego statutowego organu nadzorczego; ” .
 § 2.
 W sprawach dotyczących przyznawania świadczeń dodatkowych osobom kierującym niektórymi podmiotami prawnymi, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.

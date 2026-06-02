@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy otoczenia prawnego działalności innowacyjnej
+# Ustawa z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy otoczenia prawnego działalności innowacyjnej Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym, ustawę z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej, ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk, ustawę z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki oraz ustawę z dnia 25 września 2015 r. o zmianie niektórych ustaw w związku ze wspieraniem innowacyjności.
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-09 |
 | Data wydania | 2017-11-29 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2201/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.) wprowadza się następujące zmiany:
+Pomoc udzielana w ramach programów w obszarze innowacyjności
+
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448, 1530, 1971, 2056 i 2175.) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 w ust. 2 uchyla się pkt 15;
-- **2)** w art. 26e: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) poniesione w danym miesiącu należności z tytułów, o których mowa w art. 12 ust. 1, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na realizację działalności badawczo-rozwojowej pozostaje w ogólnym czasie pracy pracownika w danym miesiącu; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) poniesione w danym miesiącu należności z tytułów, o których mowa w art. 13 pkt 8 lit. a, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na wykonanie usługi w zakresie działalności badawczo-rozwojowej pozostaje w całości czasu przeznaczonego na wykonanie usługi na podstawie umowy zlecenia lub umowy o dzieło w danym miesiącu; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) nabycie niebędącego środkami trwałymi sprzętu specjalistycznego wykorzystywanego bezpośrednio w prowadzonej działalności badawczo-rozwojowej, w szczególności naczyń i przyborów laboratoryjnych oraz urządzeń pomiarowych; ” , – pkt 3 otrzymuje brzmienie: „ 3) ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez jednostkę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, z późn. zm.), a także nabycie od takiej jednostki wyników prowadzonych przez nią badań naukowych, na potrzeby działalności badawczo-rozwojowej; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 25; ” , – w pkt 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ koszty uzyskania i utrzymania patentu, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, poniesione na: ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **2)** w art. 26e: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** poniesione w danym miesiącu należności z tytułów, o których mowa w art. 12 ust. 1, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na realizację działalności badawczo-rozwojowej pozostaje w ogólnym czasie pracy pracownika w danym miesiącu; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** poniesione w danym miesiącu należności z tytułów, o których mowa w art. 13 pkt 8 lit. a, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na wykonanie usługi w zakresie działalności badawczo-rozwojowej pozostaje w całości czasu przeznaczonego na wykonanie usługi na podstawie umowy zlecenia lub umowy o dzieło w danym miesiącu; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** nabycie niebędącego środkami trwałymi sprzętu specjalistycznego wykorzystywanego bezpośrednio w prowadzonej działalności badawczo-rozwojowej, w szczególności naczyń i przyborów laboratoryjnych oraz urządzeń pomiarowych; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez jednostkę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556.), a także nabycie od takiej jednostki wyników prowadzonych przez nią badań naukowych, na potrzeby działalności badawczo-rozwojowej; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 25; ” , – w pkt 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ koszty uzyskania i utrzymania patentu, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, poniesione na: ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. W przypadku wartości niematerialnych i prawnych w postaci kosztów prac rozwojowych, o których mowa w art. 22b ust. 2 pkt 2, za koszty kwalifikowane uznaje się dokonywane od tej wartości niematerialnej i prawnej odpisy amortyzacyjne w proporcji, w jakiej w jej wartości początkowej pozostają koszty wymienione w ust. 2 pkt 1–4a lub ust. 3a pkt 2. ” , w ust. 3 skreśla się zdanie drugie, po ust. 3 dodaje się ust. 3a-3k w brzmieniu: „
@@ -49,14 +56,14 @@ source: "eli-html"
 
 3d. W przypadku podatników, o których mowa w ust. 3a, będących mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów o swobodzie działalności gospodarczej, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2–3, natomiast w przypadku pozostałych podatników, o których mowa w ust. 3a, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1–4a, ust. 2a i 3:
 
-- **1)** jest dokonywane zgodnie z art. 5 ust. 1 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem nr 651/2014”, w formie i na warunkach, o których mowa w art. 5 ust. 2 lit. d rozporządzenia nr 651/2014;
+- **1)** jest dokonywane zgodnie z art. 5 ust. 1 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.) , zwanego dalej „rozporządzeniem nr 651/2014”, w formie i na warunkach, o których mowa w art. 5 ust. 2 lit. d rozporządzenia nr 651/2014;
 - **2)** stanowi pomoc, o której mowa w art. 25 lub art. 28 rozporządzenia nr 651/2014;
 - **3)** podlega kumulacji na zasadach określonych w art. 8 rozporządzenia nr 651/2014.
 
 3e. W przypadku podatników, o których mowa w ust. 3a, odliczenie:
 
 - **1)** kosztów wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1–4a, ust. 2a i 3, w przypadku, o którym mowa w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014,
-- **2)** 50% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów o swobodzie działalności gospodarczej, w przypadku, o którym mowa w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014 stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
+- **2)** 50% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów o swobodzie działalności gospodarczej, w przypadku, o którym mowa w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014 – stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
 
 3f. W przypadku podatników, o których mowa w ust. 3a, kwota, o którą został pomniejszony w roku podatkowym podatek dochodowy z tytułu odliczenia:
 
@@ -99,11 +106,14 @@ source: "eli-html"
 
 5a. W razie wystąpienia okoliczności, o których mowa w ust. 5, podatnik jest obowiązany w zeznaniu składanym za rok podatkowy, w którym wystąpiły te okoliczności, do zwiększenia podatku o kwotę zwrotu, a w razie wystąpienia nadpłaty – do jej zmniejszenia o tę kwotę. ” .
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1926, 1933 i 1948 oraz z 2017 r. poz. 60, 624, 648, 1089, 1448, 1566, 2056 i 2175.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12 w ust. 1 uchyla się pkt 5c;
-- **2)** w art. 15: w ust. 1j: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) wartości odpowiadającej kwocie udzielonej pożyczki, o której mowa w ust. 9 – jeżeli przedmiotem wkładu jest wierzytelność z tytułu takiej pożyczki; ” , – pkt 3 otrzymuje brzmienie: „ 3) faktycznie poniesionych, niezaliczonych do kosztów uzyskania przychodów, wydatków na nabycie lub wytworzenie, innych niż wymienione w pkt 1, 2 i 2a składników majątku podatnika – jeżeli przedmiotem wkładu niepieniężnego są te inne składniki; ” , dodaje się ust. 9 i 10 w brzmieniu: „
+- **2)** w art. 15: w ust. 1j: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
+
+- **2a)** wartości odpowiadającej kwocie udzielonej pożyczki, o której mowa w ust. 9 – jeżeli przedmiotem wkładu jest wierzytelność z tytułu takiej pożyczki; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** faktycznie poniesionych, niezaliczonych do kosztów uzyskania przychodów, wydatków na nabycie lub wytworzenie, innych niż wymienione w pkt 1, 2 i 2a składników majątku podatnika – jeżeli przedmiotem wkładu niepieniężnego są te inne składniki; ” , dodaje się ust. 9 i 10 w brzmieniu: „
     - **b)**
 
 9. Przez pożyczkę, o której mowa w ust. 1j pkt 2a, rozumie się pożyczkę spełniającą łącznie następujące warunki:
@@ -117,10 +127,15 @@ source: "eli-html"
 - **3)** w art. 18d: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych odlicza od podstawy opodatkowania, ustalonej zgodnie z art. 18, koszty uzyskania przychodów poniesione na działalność badawczo-rozwojową, zwane dalej „kosztami kwalifikowanymi”. Kwota odliczenia nie może w roku podatkowym przekraczać kwoty dochodu uzyskanego przez podatnika z przychodów innych niż przychody z zysków kapitałowych. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) poniesione w danym miesiącu należności z tytułów, o których mowa w art. 12 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na realizację działalności badawczo-rozwojowej pozostaje w ogólnym czasie pracy pracownika w danym miesiącu; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) poniesione w danym miesiącu należności z tytułów, o których mowa w art. 13 pkt 8 lit. a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na wykonanie usługi w zakresie działalności badawczo-rozwojowej pozostaje w całości czasu przeznaczonego na wykonanie usługi na podstawie umowy zlecenia lub umowy o dzieło w danym miesiącu; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) nabycie niebędącego środkami trwałymi sprzętu specjalistycznego wykorzystywanego bezpośrednio w prowadzonej działalności badawczo-rozwojowej, w szczególności naczyń i przyborów laboratoryjnych oraz urządzeń pomiarowych; ” , – pkt 3 otrzymuje brzmienie: „ 3) ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez jednostkę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, z późn. zm.), a także nabycie od takiej jednostki wyników prowadzonych przez nią badań naukowych, na potrzeby działalności badawczo-rozwojowej; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 11 ust. 1 i 4; ” , – w pkt 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ koszty uzyskania i utrzymania patentu, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, poniesione na: ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych odlicza od podstawy opodatkowania, ustalonej zgodnie z art. 18, koszty uzyskania przychodów poniesione na działalność badawczo-rozwojową, zwane dalej „kosztami kwalifikowanymi”. Kwota odliczenia nie może w roku podatkowym przekraczać kwoty dochodu uzyskanego przez podatnika z przychodów innych niż przychody z zysków kapitałowych. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** poniesione w danym miesiącu należności z tytułów, o których mowa w art. 12 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na realizację działalności badawczo-rozwojowej pozostaje w ogólnym czasie pracy pracownika w danym miesiącu; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** poniesione w danym miesiącu należności z tytułów, o których mowa w art. 13 pkt 8 lit. a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na wykonanie usługi w zakresie działalności badawczo-rozwojowej pozostaje w całości czasu przeznaczonego na wykonanie usługi na podstawie umowy zlecenia lub umowy o dzieło w danym miesiącu; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** nabycie niebędącego środkami trwałymi sprzętu specjalistycznego wykorzystywanego bezpośrednio w prowadzonej działalności badawczo-rozwojowej, w szczególności naczyń i przyborów laboratoryjnych oraz urządzeń pomiarowych; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez jednostkę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556.), a także nabycie od takiej jednostki wyników prowadzonych przez nią badań naukowych, na potrzeby działalności badawczo-rozwojowej; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 11 ust. 1 i 4; ” , – w pkt 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ koszty uzyskania i utrzymania patentu, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, poniesione na: ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **c)**
 
 2a. W przypadku wartości niematerialnych i prawnych w postaci kosztów prac rozwojowych, o których mowa w art. 16b ust. 2 pkt 3, za koszty kwalifikowane uznaje się dokonywane od tej wartości niematerialnej i prawnej odpisy amortyzacyjne w proporcji, w jakiej w jej wartości początkowej pozostają koszty wymienione w ust. 2 pkt 1–4a lub ust. 3a pkt 2. ” , w ust. 3 skreśla się zdanie drugie, po ust. 3 dodaje się ust. 3a-3k w brzmieniu: „
 
@@ -138,14 +153,14 @@ source: "eli-html"
 
 3d. W przypadku podatników, o których mowa w ust. 3a, będących mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów o swobodzie działalności gospodarczej, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2–3, natomiast w przypadku pozostałych podatników, o których mowa w ust. 3a, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1–4a, ust. 2a i 3:
 
-- **1)** jest dokonywane zgodnie z art. 5 ust. 1 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem nr 651/2014”, w formie i na warunkach, o których mowa w art. 5 ust. 2 lit. d rozporządzenia nr 651/2014;
+- **1)** jest dokonywane zgodnie z art. 5 ust. 1 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.) , zwanego dalej „rozporządzeniem nr 651/2014”, w formie i na warunkach, o których mowa w art. 5 ust. 2 lit. d rozporządzenia nr 651/2014;
 - **2)** stanowi pomoc, o której mowa w art. 25 lub art. 28 rozporządzenia nr 651/2014;
 - **3)** podlega kumulacji na zasadach określonych w art. 8 rozporządzenia nr 651/2014.
 
 3e. W przypadku podatników, o których mowa w ust. 3a, odliczenie:
 
 - **1)** kosztów wskazanych w ust. 3a oraz 50% kosztów wskazanych w ust. 2 pkt 1–4a, ust. 2a i 3, w przypadku, o którym mowa w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014,
-- **2)** 50% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów o swobodzie działalności gospodarczej, w przypadku, o którym mowa w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014 stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
+- **2)** 50% kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów o swobodzie działalności gospodarczej, w przypadku, o którym mowa w art. 4 ust. 1 lit. I rozporządzenia nr 651/2014 – stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
 
 3f. W przypadku podatników, o których mowa w ust. 3a, kwota, o którą został pomniejszony w roku podatkowym podatek dochodowy z tytułu odliczenia:
 
@@ -202,8 +217,11 @@ source: "eli-html"
 
 5. Agencja pełni funkcję administratora danych osobowych, o których mowa w ust. 2 i 3, i może je przetwarzać po dokonaniu zgłoszenia zbioru danych do rejestracji Generalnemu Inspektorowi Ochrony Danych Osobowych, zgodnie z przepisami o ochronie danych osobowych. ” ;
 
-- **4)** w art. 6b: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) bezzwrotnego lub zwrotnego wsparcia finansowego, zwanego dalej „wsparciem”; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) instrumentu finansowego, w tym inwestycji kapitałowych, quasi-kapitałowych, środków finansowych przeznaczonych na zapewnienie inwestycji w zakresie finansowania ryzyka, pożyczek, gwarancji lub innych instrumentów opartych na podziale ryzyka. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Agencja nie może udzielić pomocy finansowej w formie wsparcia, pożyczki lub instrumentu finansowego: ” , po ust. 3b dodaje się ust. 3c w brzmieniu: „
+- **4)** w art. 6b: w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** bezzwrotnego lub zwrotnego wsparcia finansowego, zwanego dalej „wsparciem”; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** instrumentu finansowego, w tym inwestycji kapitałowych, quasi-kapitałowych, środków finansowych przeznaczonych na zapewnienie inwestycji w zakresie finansowania ryzyka, pożyczek, gwarancji lub innych instrumentów opartych na podziale ryzyka. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Agencja nie może udzielić pomocy finansowej w formie wsparcia, pożyczki lub instrumentu finansowego: ” , po ust. 3b dodaje się ust. 3c w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -232,7 +250,7 @@ source: "eli-html"
 2. Wsparcie może być udzielane:
 
 - **1)** instytucjom kultury w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2017 r. poz. 862);
-- **2)** jednostkom naukowym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, z późn. zm.).
+- **2)** jednostkom naukowym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556.).
 
 3. Wsparcie może być udzielane w formie:
 
@@ -416,9 +434,12 @@ source: "eli-html"
 3. Spełnienie kryteriów, o których mowa w ust. 2 pkt 1, ustala się na podstawie sprawozdania z badania oraz zatwierdzonego przez organ zatwierdzający sprawozdania finansowego za rok obrotowy poprzedzający rok złożenia wniosku, o którym mowa w ust. 5. ” , w ust. 5 pkt 5 otrzymuje brzmienie: „
 
 - **b)**
-- **5)** dane dotyczące przychodów netto, o których mowa w ust. 2 pkt 1; ” , w ust. 6: – pkt 2 i 3 otrzymują brzmienie: „ 2) zatwierdzone, na podstawie odrębnych przepisów, sprawozdanie finansowe przedsiębiorcy za rok obrotowy poprzedzający złożenie wniosku wraz z wyszczególnieniem przychodów netto ztytułu sprzedaży wytworzonych przez siebie usług badawczo-rozwojowych klasyfikowanych do usług w zakresie badań naukowych i prac rozwojowych, w rozumieniu przepisów w sprawie polskiej klasyfikacji wyrobów i usług lub praw własności przemysłowej, udzielonych przedsiębiorcy przez urząd właściwy do spraw własności przemysłowej; 3) sprawozdanie z badania sprawozdania finansowego, o którym mowa w pkt 2, zawierające informację o przychodach z tytułu sprzedaży wytworzonych przez siebie usług badawczo-rozwojowych klasyfikowanych do usług w zakresie badań naukowych i prac rozwojowych, w rozumieniu przepisów w sprawie polskiej klasyfikacji wyrobów i usług lub praw własności przemysłowej, udzielonych przedsiębiorcy przez urząd właściwy do spraw własności przemysłowej; ” , – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „ 9) sprawozdanie z działalności badawczej i rozwojowej za ostatni rok kalendarzowy, przekazane do Głównego Urzędu Statystycznego. ” ;
+- **5)** dane dotyczące przychodów netto, o których mowa w ust. 2 pkt 1; ” , w ust. 6: pkt 2 i 3 otrzymują brzmienie: „
     - **c)**
 
+- **2)** zatwierdzone, na podstawie odrębnych przepisów, sprawozdanie finansowe przedsiębiorcy za rok obrotowy poprzedzający złożenie wniosku wraz z wyszczególnieniem przychodów netto ztytułu sprzedaży wytworzonych przez siebie usług badawczo-rozwojowych klasyfikowanych do usług w zakresie badań naukowych i prac rozwojowych, w rozumieniu przepisów w sprawie polskiej klasyfikacji wyrobów i usług lub praw własności przemysłowej, udzielonych przedsiębiorcy przez urząd właściwy do spraw własności przemysłowej;
+- **3)** sprawozdanie z badania sprawozdania finansowego, o którym mowa w pkt 2, zawierające informację o przychodach z tytułu sprzedaży wytworzonych przez siebie usług badawczo-rozwojowych klasyfikowanych do usług w zakresie badań naukowych i prac rozwojowych, w rozumieniu przepisów w sprawie polskiej klasyfikacji wyrobów i usług lub praw własności przemysłowej, udzielonych przedsiębiorcy przez urząd właściwy do spraw własności przemysłowej; ” , w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+- **9)** sprawozdanie z działalności badawczej i rozwojowej za ostatni rok kalendarzowy, przekazane do Głównego Urzędu Statystycznego. ” ;
 - **10)** w art. 19 ust. 1 otrzymuje brzmienie: „
 
 1. Przedsiębiorca, który uzyskał status centrum badawczo-rozwojowego, składa ministrowi właściwemu do spraw gospodarki, nie później niż w terminie 2 miesięcy od zatwierdzenia sprawozdania finansowego za rok obrotowy:
@@ -433,7 +454,7 @@ source: "eli-html"
 - **11)** uchyla się art. 21;
 - **12)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Pomoc udzielana w ramach programów w obszarze innowacyjności
+#### Rozdział 4a
 
 **Art. 21a.** Minister właściwy do spraw gospodarki ustanawia programy w obszarze innowacyjności gospodarki realizujące politykę innowacyjną państwa, dotyczące w szczególności:
 
@@ -487,7 +508,7 @@ source: "eli-html"
 - **2)** tryb przeprowadzenia konkursu,
 - **3)** szczegółowe wymagania, o których mowa w ust. 1,
 - **4)** przedmiot konkursu, w tym zadania przewidziane do realizacji,
-- **5)** kwotę przeznaczoną na finansowanie konkursu mając na uwadze potrzebę zapewnienia sprawnej organizacji i cele ustanowionych programów zgodnie z art. 21a.
+- **5)** kwotę przeznaczoną na finansowanie konkursu – mając na uwadze potrzebę zapewnienia sprawnej organizacji i cele ustanowionych programów zgodnie z art. 21a.
 
 5. Podmiot, o którym mowa w ust. 1, otrzymuje środki finansowe na organizowanie i finansowanie programów ustanowionych zgodnie z art. 21a.
 
@@ -543,13 +564,13 @@ source: "eli-html"
 
 1. W celu realizacji zadań, o których mowa w art. 29 i art. 30 ust. 1 i 2, Centrum może:
 
-- **1)** udzielać finansowania w formie: wsparcia bezzwrotnego, pomocy zwrotnej, o której mowa w art. 67 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.) , instrumentów finansowych, o których mowa w art. 2 lit. p rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002 (Dz. Urz. UE L 298 z 26.10.2012, str. 1, z późn. zm.) ;
+- **1)** udzielać finansowania w formie: wsparcia bezzwrotnego, pomocy zwrotnej, o której mowa w art. 67 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1 oraz Dz. Urz. UE L 176 z 07.07.2017, str. 1.) , instrumentów finansowych, o których mowa w art. 2 lit. p rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002 (Dz. Urz. UE L 298 z 26.10.2012, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 163 z 29.05.2014, str. 18, Dz. Urz. UE L 317 z 04.11.2014, str. 28 oraz Dz. Urz. UE L 286 z 30.10.2015, str. 1.) ;
     - **a)**
     - **b)**
     - **c)**
 
 - **2)** utworzyć spółki, obejmować lub nabywać udziały i akcje lub obejmować warranty subskrypcyjne uprawniające do zapisu lub objęcia akcji w spółkach mających siedzibę na terytorium Rzeczypospolitej Polskiej lub za granicą;
-- **3)** obejmować lub nabywać certyfikaty inwestycyjne, o których mowa w art. 117 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.).
+- **3)** obejmować lub nabywać certyfikaty inwestycyjne, o których mowa w art. 117 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089.).
 
 2. Przepisy ust. 1 mogą być odpowiednio stosowane w przypadku wsparcia udzielanego ze środków innych niż pochodzące z budżetu Unii Europejskiej. ” ;
 
@@ -595,7 +616,7 @@ source: "eli-html"
 
 8. Spółka, o której mowa w ust. 1, przeznacza zysk na działania związane z rozbudową infrastruktury badawczej lub prowadzeniem badań naukowych lub prac rozwojowych. ” .
 
-**Art. 13.** W ustawie z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4a: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -670,7 +691,7 @@ source: "eli-html"
 1. W przypadku naruszenia procedury konkursowej lub innych naruszeń formalnych przy:
 
 - **1)** wpisywaniu przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej lub w ramach okresowego przeglądu przedsięwzięć wpisanych na Polską Mapę Drogową Infrastruktury Badawczej,
-- **2)** przyznawaniu środków finansowych na zadania określone w art. 5 pkt 4, 6–10b i 11a wnioskodawca może, w terminie 14 dni od dnia otrzymania decyzji albo pisemnej informacji, o której mowa w art. 13 ust. 1a, złożyć do Ministra wniosek o ponowne rozpatrzenie sprawy. ” , ust. 3 otrzymuje brzmienie: „
+- **2)** przyznawaniu środków finansowych na zadania określone w art. 5 pkt 4, 6–10b i 11a – wnioskodawca może, w terminie 14 dni od dnia otrzymania decyzji albo pisemnej informacji, o której mowa w art. 13 ust. 1a, złożyć do Ministra wniosek o ponowne rozpatrzenie sprawy. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Opinia dotycząca wniosku o ponowne rozpatrzenie sprawy nie może być sporządzana przez osobę, która uprzednio oceniała lub opiniowała:
@@ -719,5 +740,5 @@ source: "eli-html"
 
 6. Sprawozdania określone w ust. 5 pkt 2–7 są sporządzane zgodnie z przepisami wydanymi na podstawie art. 41 ust. 2, 4 i 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077).
 
-**Art. 20.** Do środków funduszu innowacyjności, o którym mowa w art. 21 ustawy zmienianej w art. 9, zgromadzonych na rachunku bankowym, o którym mowa w art. 21 ust. 4 tej ustawy, przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustaw zmienianych w art. 1, art. 2 i art. 9, w brzmieniu dotychczasowym. Ustawa wchodzi w życie z dniem 1 stycznia 2018 r.
+**Art. 20.** Do środków funduszu innowacyjności, o którym mowa w art. 21 ustawy zmienianej w art. 9, zgromadzonych na rachunku bankowym, o którym mowa w art. 21 ust. 4 tej ustawy, przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustaw zmienianych w art. 1, art. 2 i art. 9, w brzmieniu dotychczasowym. Ustawa wchodzi w życie z dniem 1 stycznia 2018 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym, ustawę z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej, ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk, ustawę z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki oraz ustawę z dnia 25 września 2015 r. o zmianie niektórych ustaw w związku ze wspieraniem innowacyjności. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448, 1530, 1971, 2056 i 2175. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1926, 1933 i 1948 oraz z 2017 r. poz. 60, 624, 648, 1089, 1448, 1566, 2056 i 2175. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1 oraz Dz. Urz. UE L 176 z 07.07.2017, str. 1. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 163 z 29.05.2014, str. 18, Dz. Urz. UE L 317 z 04.11.2014, str. 28 oraz Dz. Urz. UE L 286 z 30.10.2015, str. 1. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1933 i 2260 oraz z 2017 r. poz. 859, 1475, 1530 i 1556.
 

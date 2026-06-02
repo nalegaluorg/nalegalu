@@ -35,13 +35,11 @@ ustawą z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia terminol
 2)
 ustawą z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529),
 3)
-ustawą z dnia 21 kwietnia 2017 r. o zmianie ustawy o kinematografii oraz niektórych innych ustaw (Dz. U. poz. 961)
-oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 marca 2018 r.
+ustawą z dnia 21 kwietnia 2017 r. o zmianie ustawy o kinematografii oraz niektórych innych ustaw (Dz. U. poz. 961) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 marca 2018 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 35 ustawy z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia terminologii informatycznej (Dz. U. Nr 171, poz. 1056), który stanowi:
-„
+art. 35 ustawy z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia terminologii informatycznej (Dz. U. Nr 171, poz. 1056), który stanowi: „
 
 **Art. 35.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 12 pkt 5, art. 13, art. 17 pkt 2 oraz art. 28, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. ” ;
 
@@ -63,8 +61,7 @@ art. 35 ustawy z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia t
 
 - **1)** piśmiennicze, jak: książki, broszury, gazety, czasopisma i inne wydawnictwa ciągłe, druki ulotne, afisze;
 - **2)** graficzne i graficzno-piśmiennicze, jak: mapy, plakaty, plany, wykresy, tabele, rysunki, ilustracje, nuty;
-- **3)** audiowizualne utrwalające dźwięk, obraz lub obraz i dźwięk, jak: płyty, taśmy, kasety, przeźrocza, mikrofilmy, mikrofisze;
-- **4)** zapisane na informatycznych nośnikach danych;
+- **3)** audiowizualne utrwalające dźwięk, obraz lub obraz i dźwięk, jak: płyty, taśmy, kasety, przeźrocza, mikrofilmy, mikrofisze; 4W brzmieniu ustalonym przez art. 8 ustawy z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia terminologii informatycznej (Dz. U. poz. 1056), która weszła w życie z dniem 8 października 2008 r.) zapisane na informatycznych nośnikach danych;
 - **5)** oprogramowanie komputerowe.
 
 **Art. 3.**
@@ -83,7 +80,7 @@ art. 35 ustawy z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia t
 
 4. W przypadku gdy to samo dzieło wydawca publikuje w różnych standardach edytorskich, obowiązek przekazania egzemplarzy obowiązkowych odnosi się do standardu najwyższego.
 
-5. Minister Kultury i Sztuki  określi, w drodze rozporządzenia, w zakresie niezbędnym do zachowania dorobku wydawniczego, wykaz bibliotek uprawnionych do otrzymywania egzemplarzy obowiązkowych poszczególnych rodzajów publikacji oraz zasady i tryb ich przekazywania.
+5. Minister Kultury i Sztuki Obecnie minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, zgodnie z art. 4 ust. 1, art. 5 pkt 9 i art. 14 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2017 r. poz. 888, 1086, 1566, 1909, 2180 i 2494 oraz z 2018 r. poz. 138 i 379), która weszła w życie z dniem 1 kwietnia 1999 r. określi, w drodze rozporządzenia, w zakresie niezbędnym do zachowania dorobku wydawniczego, wykaz bibliotek uprawnionych do otrzymywania egzemplarzy obowiązkowych poszczególnych rodzajów publikacji oraz zasady i tryb ich przekazywania.
 
 1. Osoby, o których mowa w art. 3 ust. 1 i 2, nie są obowiązane do przekazywania egzemplarzy obowiązkowych:
 
@@ -93,7 +90,7 @@ art. 35 ustawy z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia t
 - **4)** druków, zapisów utrwalających dźwięk, obraz lub obraz i dźwięk, dokonywanych na dowolnym nośniku lub dowolną techniką, przeznaczonych do użytku osobistego;
 - **5)** formularzy, biletów, etykiet i opakowań.
 
-2. Minister Kultury i Sztuki  może, w drodze rozporządzenia, wyłączyć z obowiązku przekazywania egzemplarzy obowiązkowych także inne rodzaje dzieł niż określone w ust. 1.
+2. Minister Kultury i Sztuki Obecnie minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, zgodnie z art. 4 ust. 1, art. 5 pkt 9 i art. 14 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2017 r. poz. 888, 1086, 1566, 1909, 2180 i 2494 oraz z 2018 r. poz. 138 i 379), która weszła w życie z dniem 1 kwietnia 1999 r. może, w drodze rozporządzenia, wyłączyć z obowiązku przekazywania egzemplarzy obowiązkowych także inne rodzaje dzieł niż określone w ust. 1.
 
 **Art. 5.**
 
@@ -103,19 +100,11 @@ art. 35 ustawy z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia t
 
 3. Pozostałym bibliotekom uprawnionym przekazuje się po jednym egzemplarzu obowiązkowym.
 
-4. Biblioteki, o których mowa w ust. 1, mają obowiązek wieczystego archiwizowania jednego egzemplarza obowiązkowego.
+4. Biblioteki, o których mowa w ust. 1, mają obowiązek wieczystego archiwizowania jednego egzemplarza obowiązkowego. Art. 6Ze zmianą wprowadzoną przez art. 3 pkt 1 ustawy z dnia 21 kwietnia 2017 r. o zmianie ustawy o kinematografii oraz niektórych innych ustaw (Dz. U. poz. 961), która weszła w życie z dniem 1 czerwca 2017 r.. Państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii, o której mowa w art. 28 ust. 1 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2016 r. poz. 438 oraz z 2017 r. poz. 961), przekazuje się po jednym egzemplarzu kopii filmu kinowego i telewizyjnego. Obowiązek ten ciąży na producencie filmu. Przepisy art. 2 ust. 1 oraz art. 3 ust. 2 i 4 stosuje się odpowiednio. Art. 7W brzmieniu ustalonym przez art. 143 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529), która weszła w życie z dniem 1 stycznia 2013 r.. Przesyłki zawierające egzemplarze obowiązkowe wysyłane do bibliotek uprawnionych do ich otrzymywania są zwolnione od opłat pocztowych, do wysokości najniższej opłaty za przyjęcie, przemieszczenie i doręczenie przesyłki niebędącej przesyłką najszybszej kategorii, tego rodzaju, tej samej masy, ustalonej w obowiązującym cenniku usług powszechnych operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106 i 138).
 
-**Art. 6.** Państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii, o której mowa w art. 28 ust. 1 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2016 r. poz. 438 oraz z 2017 r. poz. 961), przekazuje się po jednym egzemplarzu kopii filmu kinowego i telewizyjnego. Obowiązek ten ciąży na producencie filmu. Przepisy art. 2 ust. 1 oraz art. 3 ust. 2 i 4 stosuje się odpowiednio.
-
-**Art. 7.** Przesyłki zawierające egzemplarze obowiązkowe wysyłane do bibliotek uprawnionych do ich otrzymywania są zwolnione od opłat pocztowych, do wysokości najniższej opłaty za przyjęcie, przemieszczenie i doręczenie przesyłki niebędącej przesyłką najszybszej kategorii, tego rodzaju, tej samej masy, ustalonej w obowiązującym cenniku usług powszechnych operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106 i 138).
-
-**Art. 8.**
-
-1. Kto uchyla się od obowiązku przekazania uprawnionej bibliotece lub państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii, o której mowa w art. 28 ust. 1 ustawy z dnia 30 czerwca 2005 r. o kinematografii, egzemplarza obowiązkowego, podlega karze grzywny.
-
-2. Orzekanie w sprawach określonych w ust. 1 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia.
+**Art. 8.** 1Ze zmianą wprowadzoną przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 3.. Kto uchyla się od obowiązku przekazania uprawnionej bibliotece lub państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii, o której mowa w art. 28 ust. 1 ustawy z dnia 30 czerwca 2005 r. o kinematografii, egzemplarza obowiązkowego, podlega karze grzywny. 2. Orzekanie w sprawach określonych w ust. 1 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia.
 
 **Art. 9.** Tracą moc przepisy art. 32 i art. 33 ustawy z dnia 9 kwietnia 1968 r. o bibliotekach (Dz. U. poz. 63, z 1984 r. poz. 129, z 1989 r. poz. 155 i 192 oraz z 1990 r. poz. 198).
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszeniaUstawa została ogłoszona w dniu 23 grudnia 1996 r.. 1) W brzmieniu ustalonym przez art. 8 ustawy z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia terminologii informatycznej (Dz. U. poz. 1056), która weszła w życie z dniem 8 października 2008 r. 2) Obecnie minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, zgodnie z art. 4 ust. 1, art. 5 pkt 9 i art. 14 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2017 r. poz. 888, 1086, 1566, 1909, 2180 i 2494 oraz z 2018 r. poz. 138 i 379), która weszła w życie z dniem 1 kwietnia 1999 r. 3) Ze zmianą wprowadzoną przez art. 3 pkt 1 ustawy z dnia 21 kwietnia 2017 r. o zmianie ustawy o kinematografii oraz niektórych innych ustaw (Dz. U. poz. 961), która weszła w życie z dniem 1 czerwca 2017 r. 4) W brzmieniu ustalonym przez art. 143 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529), która weszła w życie z dniem 1 stycznia 2013 r. 5) Ze zmianą wprowadzoną przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 3. 6) Ustawa została ogłoszona w dniu 23 grudnia 1996 r.
 

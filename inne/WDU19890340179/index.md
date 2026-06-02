@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1989-05-29 |
 | Data wydania | 1989-06-06 |
-| Wejście w życie | 1989-06-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890340179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/179/text.pdf) |
 
@@ -33,7 +32,7 @@ Mając na uwadze postępujący proces normalizacji życia społecznego, czego wy
 - **1)** występki popełnione z powodów politycznych albo w związku ze strajkiem lub akcją protestacyjną,
 - **2)** przestępstwa skarbowe popełnione z powodów politycznych,
 - **3)** występki związane z militaryzacją,
-- **4)** występki popełnione przy przeciwdziałaniu strajkom lub akcjom protestacyjnym albo innym naruszeniom bezpieczeństwa lub porządku publicznego z powodów politycznych, jeżeli popełnienie przestępstwa nastąpiło w okresie po dniu 31 sierpnia 1980 r. do dnia 29 maja 1989 r.
+- **4)** występki popełnione przy przeciwdziałaniu strajkom lub akcjom protestacyjnym albo innym naruszeniom bezpieczeństwa lub porządku publicznego z powodów politycznych, – jeżeli popełnienie przestępstwa nastąpiło w okresie po dniu 31 sierpnia 1980 r. do dnia 29 maja 1989 r.
 
 **Art. 2.**
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 kwietnia 2004 r. o zmianie ustawy – Prawo lotnicze
+# Ustawaz dnia 29 kwietnia 2004 r. o zmianie ustawy – Prawo lotnicze Przepisy niniejszej ustawy wdrażają postanowienia:
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-29 |
 | Data wydania | 2004-05-01 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040991002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1002/text.pdf) |
 
-– dyrektywy 91/670/EWG z dnia 16 grudnia 1991 r. w sprawie wzajemnego uznawania licencji personelu pełniącego określone funkcje w lotnictwie cywilnym (Dz. Urz. WE L 373 z 31.12.1991).
+-dyrektywy 2002/30/WE z dnia 26 marca 2002 r. w sprawie ustanowienia zasad i procedur w odniesieniu do wprowadzenia ograniczeń działalności w związku z hałasem w portach lotniczych Wspólnoty (Dz. Urz. WE L 85 z 28.03.2002),
+-dyrektywy 91/670/EWG z dnia 16 grudnia 1991 r. w sprawie wzajemnego uznawania licencji personelu pełniącego określone funkcje w lotnictwie cywilnym (Dz. Urz. WE L 373 z 31.12.1991).
 Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie, z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 
 **Art. 1.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. Nr 130, poz. 1112, z 2003 r. Nr 210, poz. 2036 oraz z 2004 r. Nr 54, poz. 535 i Nr 96, poz. 959) wprowadza się następujące zmiany:
@@ -67,14 +67,14 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 1. Ograniczenia i zakazy, o których mowa w art. 71a ust. 4 pkt 4, mogą polegać na:
 
 - **1)** zakazie zwiększania liczby operacji lotniczych wykonywanych na lotnisku w stosunku do roku poprzedniego – po upływie 6 miesięcy od dnia przeprowadzenia oceny poziomu hałasu,
-- **2)** nakazie zmniejszenia przez każdego z przewoźników lotniczych liczby operacji lotniczych wykonywanych na lotnisku o nie więcej niż 20% w stosunku do roku poprzedniego – po upływie nie mniej niż 6 miesięcy od dnia ustanowienia zakazu, o którym mowa w pkt 1 niezależnie od zakazów wprowadzonych na podstawie art. 119 ust. 5.
+- **2)** nakazie zmniejszenia przez każdego z przewoźników lotniczych liczby operacji lotniczych wykonywanych na lotnisku o nie więcej niż 20% w stosunku do roku poprzedniego – po upływie nie mniej niż 6 miesięcy od dnia ustanowienia zakazu, o którym mowa w pkt 1 – niezależnie od zakazów wprowadzonych na podstawie art. 119 ust. 5.
 
 2. W przypadku lotniska Łódź-Lublinek, Prezes Urzędu może wprowadzić ograniczenia i zakazy, o których mowa w ust. 1, również w stosunku do samolotów innych niż marginalnie zgodne, jeżeli samoloty te nie spełniają wymagań określonych w Rozdziale 4 części II Tomu I Załącznika 16 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r.
 
 3. Ograniczenia i zakazy, o których mowa w ust. 1 i 2, Prezes Urzędu ogłasza w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego, w terminie:
 
 - **1)** 6 miesięcy przed dniem ich wejścia w życie – w przypadku zakazów, o których mowa w ust. 1 pkt 1,
-- **2)** 1 roku przed dniem ich wejścia w życie – w przypadku nakazów, o których mowa w ust. 1 pkt 2 jednak nie później niż w terminie 2 miesięcy przed rozpoczęciem najbliższego sezonu rozkładowego.
+- **2)** 1 roku przed dniem ich wejścia w życie – w przypadku nakazów, o których mowa w ust. 1 pkt 2 – jednak nie później niż w terminie 2 miesięcy przed rozpoczęciem najbliższego sezonu rozkładowego.
 
 4. O wprowadzeniu ograniczeń, o których mowa w ust. 1 i 2, Prezes Urzędu powiadamia Komisję Europejską oraz właściwe organy państw członkowskich Unii Europejskiej. Prezes Urzędu może wydać zgodę na wykonanie określonej operacji lotniczej z pominięciem ograniczeń i zakazów, o których mowa w art. 71c, jeżeli:
 
@@ -89,8 +89,12 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 
 - **b)**
 - **7)** operator tankowania statków powietrznych. ” ;
-- **4)** w art. 95: w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) pilot lotni – ukończone 15 lat, posiadanie co najmniej podstawowego wykształcenia oraz zgoda opiekunów prawnych, ” , – pkt 3 otrzymuje brzmienie: „ 3) pilot paralotni – ukończone 15 lat, posiadanie co najmniej podstawowego wykształcenia oraz zgoda opiekunów prawnych, ” , – pkt 5 otrzymuje brzmienie: „ 5) skoczek spadochronowy – ukończone 16 lat, posiadanie co najmniej podstawowego wykształcenia oraz zgoda opiekunów prawnych, ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **4)** w art. 95: w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** pilot lotni – ukończone 15 lat, posiadanie co najmniej podstawowego wykształcenia oraz zgoda opiekunów prawnych, ” , pkt 3 otrzymuje brzmienie: „
+- **3)** pilot paralotni – ukończone 15 lat, posiadanie co najmniej podstawowego wykształcenia oraz zgoda opiekunów prawnych, ” , pkt 5 otrzymuje brzmienie: „
+- **5)** skoczek spadochronowy – ukończone 16 lat, posiadanie co najmniej podstawowego wykształcenia oraz zgoda opiekunów prawnych, ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
     - **b)**
 
 4a. Świadectwa kwalifikacji oraz inne dokumenty stwierdzające posiadane kwalifikacje wydane dla specjalności, o których mowa w ust. 2, wydane przez upoważniony organ państwa członkowskiego Unii Europejskiej, nie wymagają uznania przez Prezesa Urzędu. ” ;
@@ -140,8 +144,5 @@ Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w ninie
 
 **Art. 2.** Zachowują moc ograniczenia i zakazy w zakresie wykonywania operacji lotniczych wprowadzone przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 94 ust. 6 pkt 7 i art. 96 ust. 2 pkt 6a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 1 maja 2005 r.
-
-- **1)** Przepisy niniejszej ustawy wdrażają postanowienia: – dyrektywy 2002/30/WE z dnia 26 marca 2002 r. w sprawie ustanowienia zasad i procedur w odniesieniu do wprowadzenia ograniczeń działalności w związku z hałasem w portach lotniczych Wspólnoty (Dz. Urz. WE L 85 z 28.03.2002), – dyrektywy 91/670/EWG z dnia 16 grudnia 1991 r. w sprawie wzajemnego uznawania licencji personelu pełniącego określone funkcje w lotnictwie cywilnym (Dz. Urz. WE L 373 z 31.12.1991). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie, z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
-
+**Art. 3.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 94 ust. 6 pkt 7 i art. 96 ust. 2 pkt 6a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 1 maja 2005 r. 1) Przepisy niniejszej ustawy wdrażają postanowienia: – dyrektywy 2002/30/WE z dnia 26 marca 2002 r. w sprawie ustanowienia zasad i procedur w odniesieniu do wprowadzenia ograniczeń działalności w związku z hałasem w portach lotniczych Wspólnoty (Dz. Urz. WE L 85 z 28.03.2002), – dyrektywy 91/670/EWG z dnia 16 grudnia 1991 r. w sprawie wzajemnego uznawania licencji personelu pełniącego określone funkcje w lotnictwie cywilnym (Dz. Urz. WE L 373 z 31.12.1991). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie, z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
 

@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-06 |
 | Data wydania | 2015-10-14 |
-| Wejście w życie | 2015-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001612) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1612/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365 i 1569.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. poz. 1520, z 2014 r. poz. 1441 oraz z 2015 r. poz. 1301) w § 4a ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. poz. 1520, z 2014 r. poz. 1441 oraz z 2015 r. poz. 1301) w § 4a ust. 1 otrzymuje brzmienie: „
 1.
 Świadczeniodawca udzielający świadczeń gwarantowanych, w trybie hospitalizacji i hospitalizacji planowej, realizujący leczenie onkologiczne, o którym mowa w art. 32a ustawy, oraz na warunkach określonych w załączniku nr 3 do rozporządzenia, pełniący rolę ośrodka wiodącego, powinien spełniać następujące warunki:
 1)
@@ -81,11 +79,9 @@ zapewniać udokumentowaną koordynację, w tym dostęp do świadczeń:
 a)
 chemioterapii oraz
 b)
-radioterapii onkologicznej i medycyny nuklearnej – w przypadku nowotworów leczonych z wykorzystaniem medycyny nuklearnej
-odpowiednio w trybie hospitalizacji, leczenia jednego dnia i ambulatoryjnym;
+radioterapii onkologicznej i medycyny nuklearnej – w przypadku nowotworów leczonych z wykorzystaniem medycyny nuklearnej – odpowiednio w trybie hospitalizacji, leczenia jednego dnia i ambulatoryjnym;
 6)
-stosować się do standardów, wytycznych, lub zaleceń postępowania diagnostyczno-terapeutycznego w nowotworach złośliwych rekomendowanych przez polskie towarzystwa naukowe w odpowiednich dziedzinach medycyny.
-” .
+stosować się do standardów, wytycznych, lub zaleceń postępowania diagnostyczno-terapeutycznego w nowotworach złośliwych rekomendowanych przez polskie towarzystwa naukowe w odpowiednich dziedzinach medycyny. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365 i 1569.
 

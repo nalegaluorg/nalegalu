@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 30 września 2024 r. w sprawie określenia wymagań, jakim powinny odpowiadać zakłady i urządzenia lecznictwa uzdrowiskowego
+# Rozporządzenie Ministra Zdrowiaz dnia 30 września 2024 r. w sprawie określenia wymagań, jakim powinny odpowiadać zakłady i urządzenia lecznictwa uzdrowiskowego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-30 |
 | Data wydania | 2024-10-04 |
-| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-10-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1476/text.pdf) |
 
@@ -544,6 +543,5 @@ b)
 § 26.
 Traci moc rozporządzenie Ministra Zdrowia z dnia 2 kwietnia 2012 r. w sprawie określenia wymagań, jakim powinny odpowiadać zakłady i urządzenia lecznictwa uzdrowiskowego (Dz. U. z 2023 r. poz. 161).
 § 27.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

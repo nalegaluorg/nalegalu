@@ -37,17 +37,13 @@ rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 14 lutego 2023 r. z
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 1 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe (Dz. U. poz. 1671), który stanowi:
-„
+§ 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 1 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe (Dz. U. poz. 1671), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r. ” ;
 2)
-§ 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lutego 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe (Dz. U. poz. 311), który stanowi:
-„
+§ 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lutego 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe (Dz. U. poz. 311), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 26 lutego 2023 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 26 lutego 2023 r. ” .
 Załącznik – Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2021 r. w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe
 Na podstawie art. 3 ust. 3 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2023 r. poz. 624) zarządza się, co następuje:
 § 1.
@@ -55,7 +51,7 @@ Wynagrodzenie osób zajmujących kierownicze stanowiska państwowe ustala się n
 § 2.
 Wynagrodzenie zasadnicze oraz dodatek funkcyjny ustala się przy zastosowaniu następujących mnożników kwoty bazowej:
 1)
-Lp. Stanowisko Mnożnik kwoty bazowej wynagrodzenia zasadniczego dodatku funkcyjnego 1 2 3 4 1 Marszałek Sejmu, Marszałek Senatu, Prezes Rady Ministrów 8,68 2,8 2 wicemarszałek Sejmu, wicemarszałek Senatu, wiceprezes Rady Ministrów, Prezes Najwyższej Izby Kontroli 7,98 2,24 3 Szef Kancelarii Prezydenta, minister, Rzecznik Praw Obywatelskich, Szef Kancelarii Sejmu, Szef Kancelarii Senatu, Szef Kancelarii Prezesa Rady Ministrów, Przewodniczący Krajowej Rady Radiofonii i Telewizji, Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, wiceprezes Najwyższej Izby Kontroli 7,84 2,10 4 zastępca Szefa Kancelarii Prezydenta, zastępca Szefa Kancelarii Sejmu, zastępca Szefa Kancelarii Senatu 7,46 2 5 sekretarz stanu, Szef Krajowego Biura Wyborczego, podsekretarz stanu (wiceminister) 7,04 1,92 6 Prezes Urzędu Ochrony Danych Osobowych, Rzecznik Praw Dziecka, Rzecznik Małych i Średnich Przedsiębiorców, Rzecznik Finansowy, Prezes Polskiej Akademii Nauk, Sekretarz Akademii Kopernikańskiej, członek Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 7 1,82 7 Zastępca Rzecznika Praw Obywatelskich, Zastępca Prezesa Urzędu Ochrony Danych Osobowych, Zastępca Rzecznika Praw Dziecka, zastępca Rzecznika Małych i Średnich Przedsiębiorców, Zastępca Rzecznika Finansowego, członek Krajowej Rady Radiofonii i Telewizji 6,86 1,68 8 Główny Inspektor Pracy, wiceprezes Polskiej Akademii Nauk, wojewoda 6,16 1,68 9 zastępca Głównego Inspektora Pracy, wicewojewoda 5,60 1,68
+Lp. Stanowisko Mnożnik kwoty bazowej wynagrodzenia zasadniczego dodatku funkcyjnego 1 2 3 4 1 Marszałek Sejmu, Marszałek Senatu, Prezes Rady Ministrów 8,68 2,8 2 wicemarszałek Sejmu, wicemarszałek Senatu, wiceprezes Rady Ministrów, Prezes Najwyższej Izby Kontroli 7,98 2,24 3 Szef Kancelarii Prezydenta, minister, Rzecznik Praw Obywatelskich, Szef Kancelarii Sejmu, Szef Kancelarii Senatu, Szef Kancelarii Prezesa Rady Ministrów, Przewodniczący Krajowej Rady Radiofonii i Telewizji, Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, wiceprezes Najwyższej Izby Kontroli 7,84 2,10 4 zastępca Szefa Kancelarii Prezydenta, zastępca Szefa Kancelarii Sejmu, zastępca Szefa Kancelarii Senatu 7,46 2 5 sekretarz stanu, Szef Krajowego Biura Wyborczego, podsekretarz stanu (wiceminister) 7,04 1,92 6W brzmieniu ustalonym przez § 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lutego 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe (Dz. U. poz. 311), które weszło w życie z dniem 26 lutego 2023 r. Prezes Urzędu Ochrony Danych Osobowych, Rzecznik Praw Dziecka, Rzecznik Małych i Średnich Przedsiębiorców, Rzecznik Finansowy, Prezes Polskiej Akademii Nauk, Sekretarz Akademii Kopernikańskiej, członek Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 7 1,82 7 Zastępca Rzecznika Praw Obywatelskich, Zastępca Prezesa Urzędu Ochrony Danych Osobowych, Zastępca Rzecznika Praw Dziecka, zastępca Rzecznika Małych i Średnich Przedsiębiorców, Zastępca Rzecznika Finansowego, członek Krajowej Rady Radiofonii i Telewizji 6,86 1,68 8 Główny Inspektor Pracy, wiceprezes Polskiej Akademii Nauk, wojewoda 6,16 1,68 9 zastępca Głównego Inspektora Pracy, wicewojewoda 5,60 1,68
 2)
 Lp. Stanowisko Mnożnik kwoty bazowej wynagrodzenia zasadniczego dodatku funkcyjnego 1 kierownik urzędu centralnego, zastępca kierownika urzędu centralnego, Szef Służby Cywilnej 1,40–7,04 1,40–1,92
 3)
@@ -63,5 +59,5 @@ Stanowisko Mnożnik kwoty bazowej Lp. wynagrodzenia zasadniczego dodatku funkcyj
 § 3.
 Kwoty wynagrodzenia zasadniczego i dodatku funkcyjnego zaokrągla się do 10 groszy w górę.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 25 stycznia 2002 r. w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2020 r. poz. 1824 i 2429 oraz z 2021 r. poz. 1394), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 17 ust. 1 ustawy z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834). 1) W brzmieniu ustalonym przez § 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lutego 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe (Dz. U. poz. 311), które weszło w życie z dniem 26 lutego 2023 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 25 stycznia 2002 r. w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2020 r. poz. 1824 i 2429 oraz z 2021 r. poz. 1394), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 17 ust. 1 ustawy z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834).
 

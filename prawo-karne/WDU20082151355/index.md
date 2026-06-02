@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-07 |
 | Data wydania | 2008-12-04 |
-| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082151355) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1355/text.pdf) |
 
@@ -78,7 +77,7 @@ source: "eli-html"
 1. Jeżeli umowy międzynarodowe lub przepisy odrębne zakazują posiadania towarów, ich rozpowszechniania lub obrotu nimi albo uzależniają ich posiadanie, rozpowszechnianie lub obrót nimi od spełnienia określonych wymogów, a wymogi te nie zostały spełnione, organ celny w celu uregulowania sytuacji towaru może:
 
 - **1)** cofnąć towar poza obszar celny Wspólnoty lub nie zezwolić na opuszczenie tego obszaru,
-- **2)** zająć towar i wystąpić o orzeczenie jego przepadku na rzecz Skarbu Państwa chyba że umowy międzynarodowe lub przepisy odrębne przewidują inny sposób postępowania.
+- **2)** zająć towar i wystąpić o orzeczenie jego przepadku na rzecz Skarbu Państwa – chyba że umowy międzynarodowe lub przepisy odrębne przewidują inny sposób postępowania.
 
 2. O przepadku towaru na rzecz Skarbu Państwa orzeka, na wniosek organu celnego, sąd, stosując przepisy Kodeksu postępowania cywilnego. Niemożność ustalenia osoby, na której ciążą obowiązki wynikające z przepisów prawa celnego, nie stanowi przeszkody do wystąpienia z wnioskiem o orzeczenie przepadku towaru i do orzeczenia tego przepadku.
 
@@ -118,7 +117,7 @@ source: "eli-html"
 
 - **1)** powstałego na podstawie art. 202–205, art. 210, art. 211 i art. 216 Wspólnotowego Kodeksu Celnego,
 - **2)** zaksięgowaną na podstawie art. 218 ust. 2 Wspólnotowego Kodeksu Celnego,
-- **3)** niezaksięgowaną – w przypadkach, o których mowa w art. 220 ust. 2 lit. a i b Wspólnotowego Kodeksu Celnego organ celny określa w drodze decyzji. ” ;
+- **3)** niezaksięgowaną – w przypadkach, o których mowa w art. 220 ust. 2 lit. a i b Wspólnotowego Kodeksu Celnego – organ celny określa w drodze decyzji. ” ;
 - **16)** art. 52 otrzymuje brzmienie: „
 
 **Art. 52.**
@@ -145,7 +144,7 @@ source: "eli-html"
 
 - **2)** o toczących się przed Komisją Nadzoru Finansowego postępowaniach wobec tej osoby.
 
-5. W przypadku instytucji kredytowej, o której mowa w art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.), oraz zakładu ubezpieczeń, który wykonuje działalność na podstawie przepisów rozdziału 7 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.), Komisja Nadzoru Finansowego przekazuje informację, o której mowa w ust. 4, niezwłocznie po otrzymaniu informacji od właściwego organu nadzoru państwa członkowskiego Unii Europejskiej.
+5. W przypadku instytucji kredytowej, o której mowa w art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769 oraz z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179 i Nr 209, poz. 1315.), oraz zakładu ubezpieczeń, który wykonuje działalność na podstawie przepisów rozdziału 7 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769 oraz z 2008 r. Nr 171, poz. 1056.), Komisja Nadzoru Finansowego przekazuje informację, o której mowa w ust. 4, niezwłocznie po otrzymaniu informacji od właściwego organu nadzoru państwa członkowskiego Unii Europejskiej.
 
 6. Wykaz składa się z dwóch części, w których wpisuje się:
 
@@ -179,7 +178,7 @@ source: "eli-html"
 - **19)** w art. 61: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Jeżeli nie zostało złożone zabezpieczenie albo gdyby kwota złożonego zabezpieczenia nie pokryła kwoty wynikającej z długu celnego, stosuje się odpowiednio przepisy rozdziału 3 działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.), chyba że przepisy prawa celnego stanowią inaczej. ” , uchyla się ust. 4;
+1. Jeżeli nie zostało złożone zabezpieczenie albo gdyby kwota złożonego zabezpieczenia nie pokryła kwoty wynikającej z długu celnego, stosuje się odpowiednio przepisy rozdziału 3 działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671 oraz z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320.), chyba że przepisy prawa celnego stanowią inaczej. ” , uchyla się ust. 4;
 
 - **b)**
 - **20)** uchyla się art. 62;
@@ -208,7 +207,7 @@ source: "eli-html"
 
 - **25)** w art. 67 dodaje się ust. 4 i 5 w brzmieniu: „
 
-4. Od ceł antydumpingowych zwracanych na podstawie decyzji Komisji Europejskiej, o której mowa w art. 11 ust. 8 rozporządzenia Rady (WE) nr 384/96 z dnia 22 grudnia 1995 r. w sprawie ochrony przed dumpingowym przywozem z krajów niebędących członkami Wspólnoty Europejskiej (Dz. Urz. UE L 56 z 06.03.1996, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 11, t. 10, str. 45, z późn. zm.), organ celny płaci odsetki, jeżeli decyzja Komisji Europejskiej nie zostanie wykonana w terminie, o którym mowa w ostatnim zdaniu art. 11 ust. 8 tego rozporządzenia.
+4. Od ceł antydumpingowych zwracanych na podstawie decyzji Komisji Europejskiej, o której mowa w art. 11 ust. 8 rozporządzenia Rady (WE) nr 384/96 z dnia 22 grudnia 1995 r. w sprawie ochrony przed dumpingowym przywozem z krajów niebędących członkami Wspólnoty Europejskiej (Dz. Urz. UE L 56 z 06.03.1996, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 56 z 06.03.1996, L 317 z 06.12.1996, L 128 z 30.04.1998, L 257 z 11.10.2000, L 305 z 07.11.2002, L 77 z 13.03.2004 oraz L 340 z 23.12.2005.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 11, t. 10, str. 45, z późn. zm.), organ celny płaci odsetki, jeżeli decyzja Komisji Europejskiej nie zostanie wykonana w terminie, o którym mowa w ostatnim zdaniu art. 11 ust. 8 tego rozporządzenia.
 
 5. W przypadku, o którym mowa w ust. 4, odsetki oblicza się w wysokości i według zasad określonych w odrębnych przepisach, dotyczących pobierania odsetek za zwłokę od należności podatkowych. ” ;
 
@@ -297,8 +296,10 @@ source: "eli-html"
 
 § 4. W wypadku określonym w art. 106d § 2 orzeka się przepadek wartości dewizowych lub krajowych środków płatniczych, a także można orzec przepadek innych przedmiotów określonych w § 1. ” ;
 
-- **6)** w art. 137: w § 2: – uchyla się pkt 3, – dodaje się pkt 4 w brzmieniu: „ 4) za wykroczenie skarbowe należałoby orzec przepadek przedmiotów. ” , § 3 otrzymuje brzmienie: „
+- **6)** w art. 137: w § 2: – uchyla się pkt 3, dodaje się pkt 4 w brzmieniu: „
     - **a)**
+
+- **4)** za wykroczenie skarbowe należałoby orzec przepadek przedmiotów. ” , § 3 otrzymuje brzmienie: „
     - **b)**
 
 § 3. Warunkiem nałożenia kary grzywny w drodze mandatu karnego jest wyrażenie przez sprawcę wykroczenia skarbowego zgody na przyjęcie mandatu; zgodę tę odnotowuje się na dokumencie mandatu karnego. ” ;
@@ -315,5 +316,5 @@ source: "eli-html"
 
 **Art. 7.** Przepisy wykonawcze wydane na podstawie art. 27 ust. 1 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia w życie.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z wyjątkiem art. 1 pkt 14, który wchodzi w życie z dniem 1 grudnia 2008 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z wyjątkiem art. 1 pkt 14, który wchodzi w życie z dniem 1 grudnia 2008 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769 oraz z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179 i Nr 209, poz. 1315. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959, z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 50, poz. 331, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 112, poz. 769 oraz z 2008 r. Nr 171, poz. 1056. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671 oraz z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 56 z 06.03.1996, L 317 z 06.12.1996, L 128 z 30.04.1998, L 257 z 11.10.2000, L 305 z 07.11.2002, L 77 z 13.03.2004 oraz L 340 z 23.12.2005.
 

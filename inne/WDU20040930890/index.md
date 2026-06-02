@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-16 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040930890) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/890/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851 oraz z 2004 r. Nr 19, poz. 177.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
 - **12)** zasady i tryb gospodarowania środkami pochodzącymi z budżetu Unii Europejskiej. ” ;
@@ -94,7 +93,7 @@ source: "eli-html"
 - **4)** sposób zwrotu pożyczki,
 - **5)** tryb i terminy zwrotu pożyczki, w przypadku o którym mowa w ust. 2,
 - **6)** wysokość prowizji bankowych,
-- **7)** wysokość oprocentowania, nie wyższą niż rentowność 52-tygodniowych bonów skarbowych uwzględniając konieczność zapewnienia prawidłowego wydatkowania środków z budżetu państwa.
+- **7)** wysokość oprocentowania, nie wyższą niż rentowność 52-tygodniowych bonów skarbowych – uwzględniając konieczność zapewnienia prawidłowego wydatkowania środków z budżetu państwa.
 
 1. Przepisów art. 30i nie stosuje się do agencji płatniczej.
 
@@ -187,7 +186,7 @@ source: "eli-html"
 1. Dotacje udzielone z budżetu państwa:
 
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** pobrane nienależnie lub w nadmiernej wysokości podlegają zwrotowi do budżetu państwa wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, w terminie do dnia 28 lutego roku następującego po roku, w którym udzielono dotacji.
+- **2)** pobrane nienależnie lub w nadmiernej wysokości – podlegają zwrotowi do budżetu państwa wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, w terminie do dnia 28 lutego roku następującego po roku, w którym udzielono dotacji.
 
 2. Wykorzystanie dotacji następuje, w szczególności przez zapłatę za zrealizowane zadania, na które dotacja była udzielona albo w przypadku gdy przepisy odrębne stanowią o sposobie udzielenia i rozliczenia dotacji, wykorzystanie następuje przez realizację celów wskazanych w tych przepisach.
 
@@ -281,7 +280,7 @@ source: "eli-html"
 
 - **1)** niezgodnie z przeznaczeniem,
 - **2)** bez zachowania procedur, o których mowa w art. 30 pkt 2,
-- **3)** pobrania ich w sposób nienależny albo w nadmiernej wysokości podlegają one zwrotowi przez beneficjenta pomocy udzielonej z tych środków wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych na rachunek, na którym są gromadzone lub z którego zostały wypłacone.
+- **3)** pobrania ich w sposób nienależny albo w nadmiernej wysokości – podlegają one zwrotowi przez beneficjenta pomocy udzielonej z tych środków wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych na rachunek, na którym są gromadzone lub z którego zostały wypłacone.
 
 5. Wykorzystanie środków, o których mowa w art. 3 ust. 3 pkt 1, 2 i 4, w sposób określony w ust. 4 wyklucza prawo otrzymania tych środków przez kolejne 3 lata licząc od dnia stwierdzenia nieprawidłowego wykorzystania tych środków, chyba że obowiązek ich przyznania danemu podmiotowi lub grupie podmiotów wynika z umowy zawartej z dawcą środków, wskazującej bezpośrednio ten podmiot.
 
@@ -308,5 +307,5 @@ source: "eli-html"
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13 ust. 3 i 4 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie tych upoważnień w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2004 r.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 maja 2004 r., z wyjątkiem art. 30g, 93 i 93a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 2 i 3, które wchodzą w życie z dniem ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 maja 2004 r., z wyjątkiem art. 30g, 93 i 93a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 2 i 3, które wchodzą w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851 oraz z 2004 r. Nr 19, poz. 177.
 

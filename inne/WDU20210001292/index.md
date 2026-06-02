@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 maja 2021 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 20 maja 2021 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ustawę z dnia 11 września 2015 r. o zdrowiu publicznym oraz ustawę z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-20 |
 | Data wydania | 2021-07-15 |
-| Wejście w życie | 2021-07-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001292) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1292/text.pdf) |
 
@@ -154,7 +153,7 @@ source: "eli-html"
 - **2)** zgodności z krajowym planem,
 - **3)** zgodności z innymi dokumentami strategicznymi w ochronie zdrowia,
 - **4)** celowości uwzględnienia działań wykraczających poza zakres rekomendowanych kierunków działań przedstawionych w mapie,
-- **5)** adekwatności przyjętych w projekcie wojewódzkiego planu działań do potrzeb zdrowotnych i wyzwań organizacji systemu opieki zdrowotnej wymagających podjęcia działań koordynowanych na poziomie województwa a następnie zatwierdza projekt wojewódzkiego planu albo przekazuje wojewodzie uwagi do projektu.
+- **5)** adekwatności przyjętych w projekcie wojewódzkiego planu działań do potrzeb zdrowotnych i wyzwań organizacji systemu opieki zdrowotnej wymagających podjęcia działań koordynowanych na poziomie województwa – a następnie zatwierdza projekt wojewódzkiego planu albo przekazuje wojewodzie uwagi do projektu.
 
 7. Minister właściwy do spraw zdrowia zatwierdza wojewódzki plan po uwzględnieniu uwag przez wojewodę.
 
@@ -234,10 +233,17 @@ source: "eli-html"
 
 15. Koszty funkcjonowania wojewódzkiej rady są pokrywane z budżetu państwa z części pozostającej w dyspozycji wojewody. ” ;
 
-- **13)** w art. 95f: w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) krajowego planu albo wojewódzkiego planu; ” , – pkt 4 otrzymuje brzmienie: „ 4) mapy; ” , – pkt 7 otrzymuje brzmienie: „ 7) informacji przedstawionych w innych, złożonych wcześniej wnioskach, o których mowa w art. 95e ust. 1, oraz wydanych opiniach, o których mowa w art. 95d ust. 1, w zakresie, w jakim uwzględniają one realizację mapy, oraz krajowego planu albo wojewódzkiego planu; ” , w ust. 6: – pkt 1 otrzymuje brzmienie: „ 1) krajowy plan – w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia, a wniosek dotyczy inwestycji innej niż określona w pkt 1a; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) wojewódzki plan – w przypadku gdy organem wydającym opinię jest wojewoda albo minister właściwy do spraw zdrowia, a inwestycja, której dotyczy wniosek, zaspokaja wyłącznie potrzeby zdrowotne o charakterze lokalnym; ” , – pkt 3 otrzymuje brzmienie: „ 3) mapę. ” , – uchyla się pkt 4;
+- **13)** w art. 95f: w ust. 3: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** krajowego planu albo wojewódzkiego planu; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** mapy; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** informacji przedstawionych w innych, złożonych wcześniej wnioskach, o których mowa w art. 95e ust. 1, oraz wydanych opiniach, o których mowa w art. 95d ust. 1, w zakresie, w jakim uwzględniają one realizację mapy, oraz krajowego planu albo wojewódzkiego planu; ” , w ust. 6: pkt 1 otrzymuje brzmienie: „
     - **b)**
 
+- **1)** krajowy plan – w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia, a wniosek dotyczy inwestycji innej niż określona w pkt 1a; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** wojewódzki plan – w przypadku gdy organem wydającym opinię jest wojewoda albo minister właściwy do spraw zdrowia, a inwestycja, której dotyczy wniosek, zaspokaja wyłącznie potrzeby zdrowotne o charakterze lokalnym; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** mapę. ” , – uchyla się pkt 4;
 - **14)** w art. 95h: w ust. 1 część wspólna otrzymuje brzmienie: „ – mając na celu uwzględnienie w opinii mapy, krajowego planu i wojewódzkiego planu, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia. ” , w ust. 2 część wspólna otrzymuje brzmienie: „ – mając na celu uwzględnienie w opinii mapy, krajowego planu i wojewódzkiego planu, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia. ” ;
     - **a)**
     - **b)**
@@ -341,6 +347,6 @@ source: "eli-html"
 **Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 5, który wchodzi w życie z dniem 30 maja 2021 r.;
-- **2)** art. 1 pkt 1, 4, 7, 8, 13–15 i 19, art. 3 i art. 4, które wchodzą w życie z dniem 1 stycznia 2022 r.
+- **2)** art. 1 pkt 1, 4, 7, 8, 13–15 i 19, art. 3 i art. 4, które wchodzą w życie z dniem 1 stycznia 2022 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ustawę z dnia 11 września 2015 r. o zdrowiu publicznym oraz ustawę z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.
 
 

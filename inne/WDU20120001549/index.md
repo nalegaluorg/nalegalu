@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-21 |
 | Data wydania | 2012-12-31 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1549/text.pdf) |
 
@@ -54,5 +53,5 @@ Składniki kosztów i opis sposobu ich wyliczenia jednostka badawcza i certyfiku
 § 3.
 Opłaty są podawane w cenniku usług oferowanych przez jednostkę badawczą lub certyfikującą.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 8 maja 2007 r. w sprawie sposobu ustalania opłat za czynności związane z przeprowadzeniem badań i certyfikacji wyrobów przeznaczonych na potrzeby obronności państwa (Dz. U. Nr 90, poz. 599). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 8 maja 2007 r. w sprawie sposobu ustalania opłat za czynności związane z przeprowadzeniem badań i certyfikacji wyrobów przeznaczonych na potrzeby obronności państwa (Dz. U. Nr 90, poz. 599).
 

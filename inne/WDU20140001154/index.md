@@ -116,7 +116,7 @@ w złotych Kredyty mieszkaniowe w okresie spłaty Lp. Wyszczególnienie budownic
 1.1 kredytu wraz ze skapitalizowanymi odsetkami
 1.2 przejściowego wykupienia odsetek z tego z tytułu:
 1.2.1 przejściowego wykupienia odsetek wraz z oprocentowaniem tych odsetek naliczonym do końca roku poprzedniego
-1.2.2 oprocentowania odsetek przejściowo wykupionych, naliczonego w danym roku 2 Średni stan kredytów w kwartale 3 Stopa procentowa kredytów w kwartale 4 Stopa procentowa odsetek przejściowo wykupionych w kwartale 5 Spłata zadłużenia z tytułu kredytu wraz ze skapitalizowanymi odsetkami oraz spłata odsetek dokonana przez Skarb Państwa w kwartale x 6 Odsetki za poprzednie kwartały podlegające przejściowemu wykupieniu w związku ze spłatą x dokonaną przez Skarb Państwa, wykazaną w lp. 5 7 Spłata zadłużenia przez kredytobiorców w kwartale z tego:
+1.2.2 oprocentowania odsetek przejściowo wykupionych, naliczonego w danym roku 2 Średni stan kredytów w kwartale 3 Stopa procentowa kredytów w kwartale 4 Stopa procentowa odsetek przejściowo wykupionych w kwartale 5 Spłata zadłużenia z tytułu kredytu wraz ze skapitalizowanymi odsetkami oraz spłata x odsetek dokonana przez Skarb Państwa w kwartale 6 Odsetki za poprzednie kwartały podlegające przejściowemu wykupieniu w związku ze spłatą x dokonaną przez Skarb Państwa, wykazaną w lp. 5 7 Spłata zadłużenia przez kredytobiorców w kwartale z tego:
 7.1 spłata kredytu wraz ze skapitalizowanymi odsetkami oraz spłata odsetek naliczonych za kwartał
 7.2 spłata zadłużenia z tytułu przejściowego wykupienia odsetek z tego:
 7.2.1 spłata zadłużenia z tytułu przejściowego wykupienia odsetek wraz z oprocentowaniem tych odsetek naliczonym do końca roku poprzedniego 1 2 3 4 5

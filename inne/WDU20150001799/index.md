@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2015 r. poz. 1484) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 22 maja 2013 r. w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych (Dz. U. poz. 616), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 4 listopada 2014 r. zmieniającym rozporządzenie w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych (Dz. U. poz. 1587).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 4 listopada 2014 r. zmieniającego rozporządzenie w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych (Dz. U. poz. 1587), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 4 listopada 2014 r. zmieniającego rozporządzenie w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych (Dz. U. poz. 1587), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 maja 2013 r. w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych
-Na podstawie art. 40d ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 maja 2013 r. w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornychMinister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1261).
+Na podstawie art. 40d ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1512, z 2014 r. poz. 1146 oraz z 2015 r. poz. 1419.) zarządza się, co następuje:
 § 1.
 Minimalna ilość materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych, wynosi w przypadku:
 1)
@@ -46,7 +44,7 @@ odmiany populacyjnej pszenicy zwyczajnej – 150 kg;
 odmiany mieszańcowej pszenicy zwyczajnej – 70 kg albo 1,7 jednostki siewnej;
 3)
 pszenicy twardej – 150 kg;
-4)
+4W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 4 listopada 2014 r. zmieniającego rozporządzenie w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych (Dz. U. poz. 1587), które weszło w życie z dniem 29 listopada 2014 r.)
 odmiany populacyjnej żyta – 90 kg albo 2 jednostki siewne;
 5)
 odmiany syntetycznej żyta – 80 kg;
@@ -81,6 +79,5 @@ mieszanek zbożowych lub mieszanek pastewnych sporządzonych z materiału siewne
 § 2.
 Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 grudnia 2008 r. w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych (Dz. U. Nr 236, poz. 1639).
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1261). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1512, z 2014 r. poz. 1146 oraz z 2015 r. poz. 1419. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 4 listopada 2014 r. zmieniającego rozporządzenie w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych (Dz. U. poz. 1587), które weszło w życie z dniem 29 listopada 2014 r. 4) Rozporządzenie zostało ogłoszone w dniu 29 maja 2013 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 29 maja 2013 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1261). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1512, z 2014 r. poz. 1146 oraz z 2015 r. poz. 1419. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 4 listopada 2014 r. zmieniającego rozporządzenie w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych (Dz. U. poz. 1587), które weszło w życie z dniem 29 listopada 2014 r. 4) Rozporządzenie zostało ogłoszone w dniu 29 maja 2013 r.
 

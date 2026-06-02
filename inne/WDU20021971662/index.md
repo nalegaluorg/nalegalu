@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-10-28 |
 | Data wydania | 2002-11-27 |
-| Wejście w życie | 2003-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021971662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1662/text.pdf) |
 
@@ -62,7 +61,7 @@ source: "eli-html"
 
 - **1)** magnetofonów, magnetowidów i innych podobnych urządzeń,
 - **2)** kserokopiarek, skanerów i innych podobnych urządzeń reprograficznych umożliwiających pozyskiwanie kopii całości lub części egzemplarza opublikowanego utworu,
-- **3)** czystych nośników służących do utrwalania, w zakresie własnego użytku osobistego, utworów lub przedmiotów praw pokrewnych, przy użyciu urządzeń wymienionych w pkt 1 i 2 są obowiązani do uiszczania, określonym zgodnie z ust. 5, organizacjom zbiorowego zarządzania, działającym na rzecz twórców, artystów wykonawców, producentów fonogramów i wideogramów oraz wydawców, opłat w wysokości nieprzekraczającej 3% kwoty należnej z tytułu sprzedaży tych urządzeń i nośników.
+- **3)** czystych nośników służących do utrwalania, w zakresie własnego użytku osobistego, utworów lub przedmiotów praw pokrewnych, przy użyciu urządzeń wymienionych w pkt 1 i 2 – są obowiązani do uiszczania, określonym zgodnie z ust. 5, organizacjom zbiorowego zarządzania, działającym na rzecz twórców, artystów wykonawców, producentów fonogramów i wideogramów oraz wydawców, opłat w wysokości nieprzekraczającej 3% kwoty należnej z tytułu sprzedaży tych urządzeń i nośników.
 
 2. Z kwoty uzyskanej z tytułu opłat ze sprzedaży magnetofonów i innych podobnych urządzeń oraz związanych z nimi czystych nośników przypada:
 

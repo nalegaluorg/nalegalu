@@ -22,18 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-19 |
 | Data wydania | 2004-04-30 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040910868) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/868/text.pdf) |
 
+Wymiana informacji podatkowych z innymi państwami
+Zasady ogólne wymiany informacji podatkowych
+Szczegółowe zasady wymiany informacji podatkowych z państwami członkowskimi Unii Europejskiej
 Wymiana informacji podatkowych obejmuje wszelkie informacje istotne dla prawidłowego określania podstaw opodatkowania i wysokości zobowiązania podatkowego w zakresie:
 1)
 opodatkowania dochodu, majątku lub kapitału, bez względu na sposób i formę opodatkowania, w tym opodatkowania dochodu ze sprzedaży rzeczy lub praw majątkowych oraz przyrostu wartości majątku lub kapitału,
 2)
 podatku akcyzowego od olei mineralnych, alkoholi, napojów alkoholowych i wyrobów tytoniowych,
 3)
-opodatkowania składek ubezpieczeniowych
-zwane dalej „informacjami”.
+opodatkowania składek ubezpieczeniowych – zwane dalej „informacjami”.
 § 1.
 Minister właściwy do spraw finansów publicznych występuje do właściwych władz państw członkowskich Unii Europejskiej, zwanych dalej „obcymi władzami”, o udzielenie informacji oraz udziela im informacji na zasadach określonych w niniejszym rozdziale.
 § 2.
@@ -88,10 +89,9 @@ ustalenia postępowania podatkowego lub kontrolnego, dokonane w oparciu o inform
 § 2.
 Przepis art. 305h stosuje się odpowiednio.
 Minister właściwy do spraw finansów publicznych, w celu usprawnienia współpracy, może zawierać z obcymi władzami porozumienia dwustronne lub wielostronne w zakresie szczegółowych zasad i trybu wymiany informacji.
-Informacje otrzymane od obcej władzy można przekazać innej obcej władzy za zgodą władzy państwa udzielającego informacji.
-” .
+Informacje otrzymane od obcej władzy można przekazać innej obcej władzy za zgodą władzy państwa udzielającego informacji. ” .
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257, Nr 64, poz. 593 i Nr 68, poz. 623.) wprowadza się następujące zmiany:
 
 - **1)** w art. 82 § 3 otrzymuje brzmienie: „
 
@@ -109,7 +109,7 @@ Informacje otrzymane od obcej władzy można przekazać innej obcej władzy za z
 § 1. Akta spraw zawierające informacje:
 
 - **1)** pochodzące z banków, z wyłączeniem informacji, o których mowa w art. 82 § 2, oraz z innych instytucji finansowych,
-- **2)** określone w art. 305b, uzyskane od państw członkowskich Unii Europejskiej, pochodzące z banków oraz innych instytucji finansowych przechowuje się w pomieszczeniach zabezpieczonych zgodnie z przepisami o ochronie informacji niejawnych. ” , § 3 otrzymuje brzmienie: „
+- **2)** określone w art. 305b, uzyskane od państw członkowskich Unii Europejskiej, pochodzące z banków oraz innych instytucji finansowych – przechowuje się w pomieszczeniach zabezpieczonych zgodnie z przepisami o ochronie informacji niejawnych. ” , § 3 otrzymuje brzmienie: „
     - **b)**
 
 § 3. Ponowne włączenie do akt sprawy informacji, o których mowa w § 1, następuje wyłącznie w przypadkach określonych w art. 297 i 297a. ” ;
@@ -129,13 +129,13 @@ Informacje otrzymane od obcej władzy można przekazać innej obcej władzy za z
 - **6)** uchyla się art. 300;
 - **7)** po art. 305 dodaje się dział VIIa w brzmieniu: „
 
-### Dział VIIa Wymiana informacji podatkowych z innymi państwami
+### Dział VIIa
 
-#### Rozdział 1 Zasady ogólne wymiany informacji podatkowych
+#### Rozdział 1
 
 **Art. 305a.** W zakresie i na zasadach wynikających z umów o unikaniu podwójnego opodatkowania oraz z innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, informacje zawarte w aktach spraw podatkowych lub inne informacje podatkowe mogą być udostępniane właściwym władzom państw obcych, pod warunkiem że wykorzystanie udostępnionych informacji nastąpi zgodnie z zasadami określonymi w tych umowach.
 
-#### Rozdział 2 Szczegółowe zasady wymiany informacji podatkowych z państwami członkowskimi Unii Europejskiej
+#### Rozdział 2
 
 **Art. 2.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65 i Nr 64, poz. 594) wprowadza się następujące zmiany:
 
@@ -151,5 +151,5 @@ Informacje otrzymane od obcej władzy można przekazać innej obcej władzy za z
 
 2. Organy kontroli skarbowej są obowiązane udostępniać informacje wynikające z akt kontroli skarbowych lub inne informacje podatkowe – w zakresie i na zasadach określonych odrębnymi przepisami. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej.
+**Art. 3.** Ustawa wchodzi w życie z dniem przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257, Nr 64, poz. 593 i Nr 68, poz. 623.
 

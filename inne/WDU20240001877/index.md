@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 16 grudnia 2024 r. zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego
+# Rozporządzenie Ministra Zdrowiaz dnia 16 grudnia 2024 r. zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-16 |
 | Data wydania | 2024-12-18 |
-| Wejście w życie | 2024-12-31 |
 | Ostatnia zmiana | 2025-11-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001877) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1877/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalne
 1)
 w § 12:
 a)
-w ust. 1 pkt 1 otrzymuje brzmienie:
-„
+w ust. 1 pkt 1 otrzymuje brzmienie: „
 1)
 ordynator oddziału (lekarz kierujący oddziałem) będący lekarzem posiadającym:
 a)
@@ -45,22 +43,17 @@ specjalizację I lub II stopnia lub tytuł specjalisty w dziedzinie anestezjolog
 – posiadającym doświadczenie w udzielaniu świadczeń zdrowotnych w wymiarze co najmniej 3 tysięcy godzin, nabyte w szpitalnym oddziale ratunkowym w okresie ostatnich 3 lat;
 ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Ordynator oddziału (lekarz kierujący oddziałem) lub wyznaczony przez niego spośród lekarzy systemu, o których mowa w ust. 1 pkt 3, lekarz spełniający wymagania, o których mowa w ust. 1 pkt 1, zwani dalej „lekarzem dyżurnym oddziału”, koordynują pracę oddziału w systemie całodobowym.
-” ;
+Ordynator oddziału (lekarz kierujący oddziałem) lub wyznaczony przez niego spośród lekarzy systemu, o których mowa w ust. 1 pkt 3, lekarz spełniający wymagania, o których mowa w ust. 1 pkt 1, zwani dalej „lekarzem dyżurnym oddziału”, koordynują pracę oddziału w systemie całodobowym. ” ;
 2)
-w § 15 pkt 4a i 5 otrzymują brzmienie:
-„
+w § 15 pkt 4a i 5 otrzymują brzmienie: „
 4a)
 § 4 ust. 1 pkt 5 – do dnia 31 grudnia 2026 r.;
 5)
-§ 3 ust. 7–10 – do dnia 31 grudnia 2026 r.
-” ;
+§ 3 ust. 7–10 – do dnia 31 grudnia 2026 r. ” ;
 3)
-po § 16 dodaje się § 16a w brzmieniu:
-„
+po § 16 dodaje się § 16a w brzmieniu: „
 § 16a.
 1.
 Lądowiska powstałe przed dniem 31 grudnia 2024 r., które ze względów konstrukcyjnych:
@@ -75,12 +68,9 @@ Lądowiska powstałe przed dniem 31 grudnia 2024 r. mogą być użytkowane w zak
 1)
 w dokumentacji tego podmiotu leczniczego znajduje się wpis o ograniczeniach użytkowych,
 2)
-studium aeronautyczne dla lądowiska, które zostało zaakceptowane przez ten podmiot leczniczy, potwierdza, że obiekt sztuczny nie wpłynie negatywnie na bezpieczeństwo ani regularność operacji wykonywanych przez jego śmigłowce
-przy czym ograniczenie wysokości obiektów w płaszczyznach może być osiągnięte przez odpowiednie zmniejszenie wymiarów strefy podejścia końcowego i startu FATO oraz otaczającej ją strefy bezpieczeństwa (SA) zgodnie z przepisami rozdziału 2 ust. 1–4 oraz rozdziału 3 ust. 2–4 załącznika do rozporządzenia.
-” .
+studium aeronautyczne dla lądowiska, które zostało zaakceptowane przez ten podmiot leczniczy, potwierdza, że obiekt sztuczny nie wpłynie negatywnie na bezpieczeństwo ani regularność operacji wykonywanych przez jego śmigłowce – przy czym ograniczenie wysokości obiektów w płaszczyznach może być osiągnięte przez odpowiednie zmniejszenie wymiarów strefy podejścia końcowego i startu FATO oraz otaczającej ją strefy bezpieczeństwa (SA) zgodnie z przepisami rozdziału 2 ust. 1–4 oraz rozdziału 3 ust. 2–4 załącznika do rozporządzenia. ” .
 § 2.
 Przy ustalaniu wymiaru godzinowego doświadczenia w udzielaniu świadczeń zdrowotnych, o którym mowa w § 12 ust. 1 pkt 1 lit. b tiret drugie rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, uwzględnia się również doświadczenie w udzielaniu świadczeń zdrowotnych w szpitalnym oddziale ratunkowym nabyte przed dniem wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 31 grudnia 2024 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2024 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

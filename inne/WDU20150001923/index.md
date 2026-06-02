@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 września 2015 r. o zmianie ustawy – Prawo o stowarzyszeniach oraz niektórych innych ustaw
+# Ustawa z dnia 25 września 2015 r. o zmianie ustawy – Prawo o stowarzyszeniach oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym oraz ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-19 |
-| Wejście w życie | 2016-05-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001923) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1923/text.pdf) |
 
@@ -40,8 +39,11 @@ source: "eli-html"
 
 **Art. 9.** Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, uchwalają statut stowarzyszenia oraz wybierają komitet założycielski albo władze stowarzyszenia. ” ;
 
-- **4)** w art. 10: w ust. 1: – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) możliwość otrzymywania przez członków zarządu wynagrodzenia za czynności wykonywane w związku z pełnioną funkcją; ” , – pkt 6 otrzymuje brzmienie: „ 6) sposób reprezentowania stowarzyszenia, w szczególności sposób zaciągania zobowiązań majątkowych, a także warunki ważności uchwał władz stowarzyszenia; ” , ust. 2 otrzymuje brzmienie: „
+- **4)** w art. 10: w ust. 1: po pkt 5 dodaje się pkt 5a w brzmieniu: „
     - **a)**
+
+- **5a)** możliwość otrzymywania przez członków zarządu wynagrodzenia za czynności wykonywane w związku z pełnioną funkcją; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** sposób reprezentowania stowarzyszenia, w szczególności sposób zaciągania zobowiązań majątkowych, a także warunki ważności uchwał władz stowarzyszenia; ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Ogólnokrajowe stowarzyszenia zrzeszające osoby wykonujące określony zawód lub zawody pokrewne, podejmujące zadania w zakresie rozpowszechniania wiedzy specjalistycznej i podnoszenia poziomu zawodowego w ramach wewnętrznego systemu potwierdzania kwalifikacji i umiejętności – określają w statucie te zadania oraz zakres i sposób ich realizacji. ” ;
@@ -217,7 +219,7 @@ source: "eli-html"
 
 5. W przypadku gdy organ nadzorujący nie dokona wpisu do ewidencji w terminie 7 dni od dnia wpływu wniosku o wpis lub uzupełnienia jego braków i nie został złożony wniosek, o którym mowa w art. 41, przedstawicielowi reprezentującemu stowarzyszenie zwykłe albo zarządowi przysługuje prawo wniesienia skargi na bezczynność do sądu administracyjnego.
 
-6. Do rozpoznania skargi, o której mowa w ust. 5, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.), z tym że:
+6. Do rozpoznania skargi, o której mowa w ust. 5, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529, z 2014 r. poz. 183 i 543 oraz z 2015 r. poz. 658, 1191, 1224, 1269 i 1311.), z tym że:
 
 - **1)** organ nadzorujący przekazuje akta sprawy i odpowiedź na skargę w terminie 14 dni od dnia wniesienia skargi;
 - **2)** sąd rozpoznaje skargę w terminie 30 dni od dnia otrzymania akt sprawy wraz z odpowiedzią na skargę.
@@ -323,7 +325,7 @@ source: "eli-html"
 
 **Art. 45.** Osoby pragnące założyć stowarzyszenie prowadzące działalność bezpośrednio związaną z obronnością albo bezpieczeństwem państwa lub ochroną porządku publicznego są obowiązane uzgodnić zakres tej działalności, odpowiednio, z Ministrem Obrony Narodowej lub ministrem właściwym do spraw wewnętrznych albo organami przez nich określonymi. ” .
 
-**Art. 2.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.) w art. 104:
+**Art. 2.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 152, poz. 1016 oraz z 2015 r. poz. 932, 994 i 1639.) w art. 104:
 
 - **1)** w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „
 - **4)** z wnioskiem o wpis zmian statutu w Krajowym Rejestrze Sądowym organizacja zbiorowego zarządzania składa odpis decyzji, o której mowa w ust. 6;
@@ -332,7 +334,7 @@ source: "eli-html"
 
 21. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego ma prawo wypowiedzieć się w sprawie wniosku, o którym mowa w ust. 2 pkt 5, w terminie 14 dni od dnia jego doręczenia, a także przystąpić, za zgodą sądu, do postępowania jako zainteresowany. ” .
 
-**Art. 3.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314, z późn. zm.) w art. 12 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2, z 2014 r. poz. 1161 oraz z 2015 r. poz. 1224, 1269, 1649 i 1893.) w art. 12 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 
 - **3)** przekształcenia stowarzyszenia zwykłego w stowarzyszenie. ” .
 
@@ -350,7 +352,7 @@ source: "eli-html"
 
 4a. Przy rejestracji stowarzyszenia utworzonego w wyniku przekształcenia stowarzyszenia zwykłego, w dziale 1 rejestru wpisuje się informację o sposobie powstania podmiotu, poprzedniej nazwie, nazwie ewidencji oraz organie ją prowadzącym, a także numerze w ewidencji, jeżeli został nadany. ” .
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311 i 1649.) wprowadza się następujące zmiany:
 
 - **1)** w art. 93a w § 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 - **3)** stowarzyszenia utworzonego w wyniku przekształcenia stowarzyszenia zwykłego. ” ;
@@ -368,9 +370,9 @@ source: "eli-html"
 
 § 5. Do odpowiedzialności podatkowej, o której mowa w § 3 i 4, stosuje się odpowiednio przepisy art. 115 § 2 i 4. ” .
 
-**Art. 6.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.) w art. 54 ust. 3 otrzymuje brzmienie: „ 3. Do konferencji rektorów, o których mowa w ust. 1 i 2, stosuje się odpowiednio przepisy art. 10 ust. 1, art. 10a ust. 1 i 2, art. 11, art. 25, art. 28 i art. 29 oraz art. 33–39 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2015 r. poz. 1393 i 1923), z zachowaniem przepisów niniejszej ustawy. ” .
+**Art. 6.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198 oraz z 2015 r. poz. 357, 860, 1187, 1240, 1268 i 1767.) w art. 54 ust. 3 otrzymuje brzmienie: „ 3. Do konferencji rektorów, o których mowa w ust. 1 i 2, stosuje się odpowiednio przepisy art. 10 ust. 1, art. 10a ust. 1 i 2, art. 11, art. 25, art. 28 i art. 29 oraz art. 33–39 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2015 r. poz. 1393 i 1923), z zachowaniem przepisów niniejszej ustawy. ” .
 
-**Art. 7.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529, z 2014 r. poz. 179, 180 i 1072 oraz z 2015 r. poz. 1043, 1044 i 1045.) wprowadza się następujące zmiany:
 
 - **1)** w art. 130 w § 3 pkt 1 otrzymuje brzmienie: „
 - **1)** komitetu wyborczego partii politycznej albo organizacji ponosi partia polityczna albo organizacja, która utworzyła komitet wyborczy; ” ;
@@ -382,6 +384,6 @@ source: "eli-html"
 **Art. 11.** Do dnia dokonania wpisu stowarzyszenia zwykłego do ewidencji, o której mowa w art. 40 ust. 5 ustawy zmienianej w art. 1, do stowarzyszeń zwykłych, które nie dokonały wpisu do ewidencji stosuje się przepisy art. 130 § 3 pkt 1 oraz art. 402 § 3 pkt 2 ustawy zmienianej w art. 7 w brzmieniu dotychczasowym. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 22, art. 3, art. 4 pkt 3 oraz art. 5 pkt 1, które wchodzą w życie z dniem 1 stycznia 2017 r.;
-- **2)** art. 4 pkt 1 i 2, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+- **2)** art. 4 pkt 1 i 2, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym oraz ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529, z 2014 r. poz. 183 i 543 oraz z 2015 r. poz. 658, 1191, 1224, 1269 i 1311. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 152, poz. 1016 oraz z 2015 r. poz. 932, 994 i 1639. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2, z 2014 r. poz. 1161 oraz z 2015 r. poz. 1224, 1269, 1649 i 1893. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311 i 1649. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198 oraz z 2015 r. poz. 357, 860, 1187, 1240, 1268 i 1767. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529, z 2014 r. poz. 179, 180 i 1072 oraz z 2015 r. poz. 1043, 1044 i 1045.
 
 

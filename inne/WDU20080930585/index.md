@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-04-25 |
 | Data wydania | 2008-05-30 |
-| Wejście w życie | 2008-06-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080930585) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/585/text.pdf) |
 
@@ -138,7 +137,7 @@ source: "eli-html"
 
 3. Nie stanowi naruszenia obowiązku zachowania tajemnicy przedsiębiorstwa, jak również innych tajemnic ustawowo chronionych, przekazywanie informacji do Komisji w związku z realizacją zadań określonych prawem Unii Europejskiej w zakresie pomocy publicznej, przekazywanie sprawozdań o udzielonej pomocy w trybie art. 32 i art. 32a oraz sprawozdań o zaległościach, o których mowa w art. 34 ust. 1. ” .
 
-**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 220, poz. 1601, Nr 225, poz. 1635, Nr 245, poz. 1775, Nr 249, poz. 1828 i Nr 251, poz. 1847.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7 uchyla się ust. 6b;
 - **2)** art. 20c otrzymuje brzmienie: „
@@ -150,7 +149,7 @@ source: "eli-html"
 1. Rada Ministrów określi, w drodze rozporządzenia, warunki udzielania zwolnień stanowiących pomoc publiczną, o których mowa w:
 
 - **1)** art. 7 ust. 3,
-- **2)** art. 12 ust. 4 mając na uwadze zapewnienie zgodności udzielania pomocy z warunkami dopuszczalności tej pomocy określonymi w przepisach Unii Europejskiej. ” .
+- **2)** art. 12 ust. 4 – mając na uwadze zapewnienie zgodności udzielania pomocy z warunkami dopuszczalności tej pomocy określonymi w przepisach Unii Europejskiej. ” .
 
 **Art. 3.**
 
@@ -160,5 +159,5 @@ source: "eli-html"
 
 **Art. 4.** Do czasu określenia okresów sprawozdawczych i terminów składania informacji o nieudzieleniu pomocy, o których mowa w art. 32 ust. 1 oraz w art. 32a ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, informacje te składa się odpowiednio za okresy sprawozdawcze i w terminach określonych dla sprawozdań o udzielonej pomocy publicznej lub sprawozdań o udzielonej pomocy publicznej w rolnictwie lub rybołówstwie.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 220, poz. 1601, Nr 225, poz. 1635, Nr 245, poz. 1775, Nr 249, poz. 1828 i Nr 251, poz. 1847.
 

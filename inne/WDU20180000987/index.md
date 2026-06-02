@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-19 |
 | Data wydania | 2018-05-23 |
-| Wejście w życie | 2018-05-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000987) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/987/text.pdf) |
 
@@ -50,9 +49,67 @@ Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z m
 
 ## Załącznik nr 1 — – Przeniesienia planowanych wydatków budżetu państwa
 
-Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł Zmniejszenie Zwiększenie 1 2 3 4 5 6 7 18 Budownictwo, planowaniei zagospodarowanieprzestrzenne orazmieszkalnictwo 1 692 513 750 Administracja publiczna 1 692 513 75001 Urzędy naczelnych i centralnychorganówadministracjirządowej 1 692 513 4020 Wynagrodzeniaosobowe członkówkorpusu służbycywilnej 1 395 678 4110 Składki naubezpieczeniaspołeczne 239 918 4120 Składki na Fundusz Pracy 34 195 4440 Odpisy nazakładowy funduszświadczeńsocjalnych 22 722 16 Kancelaria Prezesa Rady Ministrów 1 082 572 750 Administracja publiczna 1 082 572 75001 Urzędy naczelnych i centralnychorganówadministracjirządowej 1 082 572 4020 Wynagrodzeniaosobowe członkówkorpusu służbycywilnej 893 298 4110 Składki naubezpieczeniaspołeczne 153 558 4120 Składki na Fundusz Pracy 21 886 4440 Odpisy nazakładowy funduszświadczeńsocjalnych 13 830 24 Kultura i ochrona dziedzictwa narodowego 609 941 750 Administracja publiczna 609 941 75001 Urzędy naczelnych i centralnychorganówadministracjirządowej 609 941 4020 Wynagrodzeniaosobowe członkówkorpusu służbycywilnej 502 380 4110 Składki naubezpieczeniaspołeczne 86 360 4120 Składki na Fundusz Pracy 12 309 4440 Odpisy nazakładowy funduszświadczeńsocjalnych 8 892
+Część Dział Rozdział Paragraf Wyszczególnienie Kwota w zł Zmniejszenie Zwiększenie 1 2 3 4 5 6 7 18 Budownictwo,
+planowanie
+i zagospodarowanie
+przestrzenne oraz
+mieszkalnictwo 1 692 513 750 Administracja publiczna 1 692 513 75001 Urzędy naczelnych i centralnych
+organów
+administracji
+rządowej 1 692 513 4020 Wynagrodzenia
+osobowe członków
+korpusu służby
+cywilnej 1 395 678 4110 Składki na
+ubezpieczenia
+społeczne 239 918 4120 Składki na Fundusz Pracy 34 195 4440 Odpisy na
+zakładowy fundusz
+świadczeń
+socjalnych 22 722 16 Kancelaria Prezesa Rady Ministrów 1 082 572 750 Administracja publiczna 1 082 572 75001 Urzędy naczelnych i centralnych
+organów
+administracji
+rządowej 1 082 572 4020 Wynagrodzenia
+osobowe członków
+korpusu służby
+cywilnej 893 298 4110 Składki na
+ubezpieczenia
+społeczne 153 558 4120 Składki na Fundusz Pracy 21 886 4440 Odpisy na
+zakładowy fundusz
+świadczeń
+socjalnych 13 830 24 Kultura i ochrona dziedzictwa narodowego 609 941 750 Administracja publiczna 609 941 75001 Urzędy naczelnych i centralnych
+organów
+administracji
+rządowej 609 941 4020 Wynagrodzenia
+osobowe członków
+korpusu służby
+cywilnej 502 380 4110 Składki na
+ubezpieczenia
+społeczne 86 360 4120 Składki na Fundusz Pracy 12 309 4440 Odpisy na
+zakładowy fundusz
+świadczeń
+socjalnych 8 892
 
 ## Załącznik nr 2 — – Przeniesienia kwot wynagrodzeń
 
-Część Dział Rozdział Wyszczególnienie Kwota w zł Zmniejszenie Zwiększenie 1 2 3 4 5 6 18 Budownictwo, planowaniei zagospodarowanieprzestrzenne orazmieszkalnictwo 1 395 678 750 Administracja publiczna 1 395 678 75001 Urzędy naczelnych i centralnychorganówadministracjirządowej 1 395 678 Członkowiekorpusu służbycywilnej 1 395 678 16 Kancelaria Prezesa Rady Ministrów 893 298 750 Administracja publiczna 893 298 75001 Urzędy naczelnych i centralnychorganówadministracjirządowej 893 298 Członkowiekorpusu służbycywilnej 893 298 24 Kultura i ochrona dziedzictwa narodowego 502 380 750 Administracja publiczna 502 380 75001 Urzędy naczelnych i centralnychorganówadministracjirządowej 502 380 Członkowiekorpusu służbycywilnej 502 380
+Część Dział Rozdział Wyszczególnienie Kwota w zł Zmniejszenie Zwiększenie 1 2 3 4 5 6 18 Budownictwo,
+planowanie
+i zagospodarowanie
+przestrzenne oraz
+mieszkalnictwo 1 395 678 750 Administracja publiczna 1 395 678 75001 Urzędy naczelnych i centralnych
+organów
+administracji
+rządowej 1 395 678 Członkowie
+korpusu służby
+cywilnej 1 395 678 16 Kancelaria Prezesa Rady Ministrów 893 298 750 Administracja publiczna 893 298 75001 Urzędy naczelnych i centralnych
+organów
+administracji
+rządowej 893 298 Członkowie
+korpusu służby
+cywilnej 893 298 24 Kultura i ochrona dziedzictwa narodowego 502 380 750 Administracja publiczna 502 380
+75001 Urzędy naczelnych i centralnych
+organów
+administracji
+rządowej
+502 380 Członkowie
+korpusu służby
+cywilnej 502 380
 

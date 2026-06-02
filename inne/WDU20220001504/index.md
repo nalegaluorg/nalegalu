@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 czerwca 2022 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw
+# Ustawa z dnia 9 czerwca 2022 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska oraz ustawę z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-09 |
 | Data wydania | 2022-07-18 |
-| Wejście w życie | 2022-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1504/text.pdf) |
 
@@ -126,5 +125,5 @@ source: "eli-html"
 
 **Art. 10.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 167 ust. 10 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 167 ust. 10 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska oraz ustawę z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie.
 

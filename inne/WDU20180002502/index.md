@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 grudnia 2018 r. w sprawie cen transferowych w zakresie podatku dochodowego od osób fizycznych
+# Rozporządzenie Ministra Finansówz dnia 21 grudnia 2018 r. w sprawie cen transferowych w zakresie podatku dochodowego od osób fizycznych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-21 |
 | Data wydania | 2018-12-31 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002502) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2502/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Badanie porównywalności Rozdział 3 – Metody weryfikacji cen transferowych Rozdział 4 – Restrukturyzacja Rozdział 5 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 23v ust. 1 pkt 1 i 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 23v ust. 1 pkt 1 i 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246 i 2429.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób i tryb:
 1)
@@ -51,6 +51,7 @@ wartości rynkowej – rozumie się przez to wartość, jaką ustaliłyby podmio
 wskaźniku finansowym – rozumie się przez to relację wybranych pozycji sprawozdania finansowego lub pozycji pochodzących z innej ewidencji prowadzonej dla celów finansowych, jeżeli użycie pozycji z innej ewidencji jest bardziej właściwe;
 5)
 zdolności do ponoszenia ryzyka – rozumie się przez to posiadanie przez podmiot powiązany zdolności do sprawowania kontroli nad danym ryzykiem oraz zdolności finansowych do jego ponoszenia.
+Badanie porównywalności
 § 3.
 1.
 W ramach badania porównywalności uwzględnia się w szczególności następujące kryteria porównywalności:
@@ -63,8 +64,7 @@ warunki transakcji określone w umowie, porozumieniu lub innym dowodzie dokument
 4)
 warunki ekonomiczne występujące w czasie i miejscu, w których dokonano transakcji,
 5)
-strategię gospodarczą
-w zakresie, w jakim kryteria te mają lub mogą mieć istotny wpływ na warunki ustalone lub narzucone między podmiotami powiązanymi.
+strategię gospodarczą – w zakresie, w jakim kryteria te mają lub mogą mieć istotny wpływ na warunki ustalone lub narzucone między podmiotami powiązanymi.
 2.
 W odniesieniu do transakcji kontrolowanych obejmujących wartości niematerialne badanie porównywalności uwzględnia również ocenę zdolności stron transakcji do pełnienia danej funkcji oraz ponoszenia danego ryzyka w zakresie:
 1)
@@ -128,7 +128,7 @@ Jeżeli cena transferowa trudnych do wyceny wartości niematerialnych została u
 2.
 W przypadku rozbieżności pomiędzy danymi prognozowanymi a rzeczywistymi, prowadzącej do różnicy w wysokości ceny transferowej trudnych do wyceny wartości niematerialnych, wynoszącej co najmniej 20% wartości ceny transferowej skalkulowanej w oparciu o dane prognozowane, określając wysokości dochodu (straty) podatnika w drodze oszacowania organ podatkowy nie jest związany ograniczeniem wynikającym z § 7 ust. 1 w zakresie okoliczności wymienionych w § 3 ust. 3.
 3.
-W przypadku gdy transakcja kontrolowana obejmująca przeniesienie trudnych do wyceny wartości niematerialnych objęta jest decyzją w sprawie porozumienia, o której mowa w art. 20a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.), przepisu ust. 2 nie stosuje się w okresie, którego dotyczy ta decyzja.
+W przypadku gdy transakcja kontrolowana obejmująca przeniesienie trudnych do wyceny wartości niematerialnych objęta jest decyzją w sprawie porozumienia, o której mowa w art. 20a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354.), przepisu ust. 2 nie stosuje się w okresie, którego dotyczy ta decyzja.
 § 9.
 1.
 Jeżeli w transakcji kontrolowanej ustalone zostały warunki mniej korzystne od warunków, jakie ustaliłyby podmioty niepowiązane, a jednocześnie w innej transakcji kontrolowanej między tymi samymi podmiotami powiązanymi ustalone zostaną warunki bardziej korzystne, określając wysokość dochodu (straty) podatnika w drodze oszacowania organ podatkowy uwzględnia fakt, czy mniejsze korzyści uzyskane w związku z jedną transakcją kontrolowaną są kompensowane większymi korzyściami uzyskanymi w związku z inną transakcją kontrolowaną.
@@ -140,6 +140,7 @@ Jeżeli podmiot powiązany ustalił warunki w sposób wskazany w ust. 1 lub 2, o
 mniejsze korzyści z jednej transakcji kontrolowanej są równoważone większymi korzyściami wynikającymi z innej transakcji kontrolowanej – w przypadku warunków ustalonych w sposób wskazany w ust. 1 lub
 2)
 niższy dochód w jednym roku podatkowym jest równoważony wyższym dochodem w następnym roku podatkowym – w przypadku warunków ustalonych w sposób wskazany w ust. 2.
+Metody weryfikacji cen transferowych
 § 10.
 1.
 Metoda porównywalnej ceny niekontrolowanej polega na porównaniu ceny przedmiotu transakcji kontrolowanej z ceną stosowaną w porównywalnych transakcjach przez podmioty niepowiązane i ustaleniu na tej podstawie wartości rynkowej przedmiotu transakcji kontrolowanej.
@@ -201,6 +202,7 @@ b)
 wysokość czynnika dyskontującego uwzględnia poziom ryzyka biznesowego podmiotu powiązanego oraz poziom wahania przyszłych przepływów pieniężnych generowanych przez wyceniany przedmiot transakcji kontrolowanej;
 4)
 analiza uwzględnia oczekiwany przez każdą ze stron transakcji kontrolowanej poziom wartości przedmiotu transakcji kontrolowanej.
+Restrukturyzacja
 § 16.
 Wprzypadku restrukturyzacji przy badaniu porównywalności uwzględnia się również zasadność wprowadzenia i wysokość wynagrodzenia wypłaconego w ramach restrukturyzacji.
 § 17.
@@ -229,17 +231,27 @@ c)
 relacji między wynagrodzeniem z tytułu restrukturyzacji a oczekiwanym przez podmiot przenoszący wynagrodzeniem z transakcji z podmiotem przejmującym.
 § 18.
 Jeżeli do określenia wynagrodzenia z tytułu restrukturyzacji została wybrana technika wyceny oparta o wycenę przyszłych oczekiwanych korzyści ekonomicznych, to wycenie podlegają łącznie przenoszone funkcje, aktywa, kategorie ryzyka, w tym korzyści, efekty synergii oraz szanse.
+Przepis końcowy
 § 19.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246 i 2429. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354. 4) Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio regulowany w rozporządzeniu Ministra Finansów z dnia 10 września 2009 r. w sprawie sposobu i trybu określania dochodów osób fizycznych w drodze oszacowania oraz sposobu i trybu eliminowania podwójnego opodatkowania osób fizycznych w przypadku korekty zysków podmiotów powiązanych (Dz. U. z 2014 r. poz. 1176), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 13 ustawy z dnia 27 października 2017 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. poz. 2175 oraz z 2018 r. poz. 2159).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio regulowany w rozporządzeniu Ministra Finansów z dnia 10 września 2009 r. w sprawie sposobu i trybu określania dochodów osób fizycznych w drodze oszacowania oraz sposobu i trybu eliminowania podwójnego opodatkowania osób fizycznych w przypadku korekty zysków podmiotów powiązanych (Dz. U. z 2014 r. poz. 1176), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 13 ustawy z dnia 27 października 2017 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. poz. 2175 oraz z 2018 r. poz. 2159). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246 i 2429. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354. 4) Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio regulowany w rozporządzeniu Ministra Finansów z dnia 10 września 2009 r. w sprawie sposobu i trybu określania dochodów osób fizycznych w drodze oszacowania oraz sposobu i trybu eliminowania podwójnego opodatkowania osób fizycznych w przypadku korekty zysków podmiotów powiązanych (Dz. U. z 2014 r. poz. 1176), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 13 ustawy z dnia 27 października 2017 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. poz. 2175 oraz z 2018 r. poz. 2159).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Badanie porównywalności
+#### Rozdział 2 – Badanie porównywalności
 
-#### Rozdział 3 Metody weryfikacji cen transferowych
+#### Rozdział 3 – Metody weryfikacji cen transferowych
 
-#### Rozdział 4 Restrukturyzacja
+#### Rozdział 4 – Restrukturyzacja
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

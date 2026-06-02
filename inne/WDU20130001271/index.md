@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-30 |
 | Data wydania | 2013-10-30 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001271) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1271/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1166 oraz z 2013 r. poz. 1036.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -74,5 +73,5 @@ source: "eli-html"
 
 **Art. 2.** Organizacja kartowa, wydawca kart płatniczych oraz agent rozliczeniowy działający w dniu wejścia w życie niniejszej ustawy są obowiązani, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, dostosować swoją działalność, w tym zawarte umowy, do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1166 oraz z 2013 r. poz. 1036.
 

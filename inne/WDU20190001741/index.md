@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 21 sierpnia 2019 r. w sprawie dokumentów, które należy załączyć do zawiadomienia o zamiarze bezpośredniego lub pośredniego nabycia albo objęcia akcji lub udziałów krajowej instytucji płatniczej
+# Rozporządzenie Ministra Finansówz dnia 21 sierpnia 2019 r. w sprawie dokumentów, które należy załączyć do zawiadomienia o zamiarze bezpośredniego lub pośredniego nabycia albo objęcia akcji lub udziałów krajowej instytucji płatniczej Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-21 |
 | Data wydania | 2019-09-12 |
-| Wejście w życie | 2019-09-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1741/text.pdf) |
 
@@ -71,7 +70,7 @@ karnych o przestępstwo umyślne – z wyłączeniem przestępstw ściganych z o
 b)
 dyscyplinarnych lub administracyjnych o nałożenie kary lub innej sankcji administracyjnej w stosunku do danej osoby,
 c)
-sądowych w sprawach gospodarczych przeciwko danej osobie, postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego lub postępowaniem naprawczym lub restrukturyzacyjnym, a także o postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego lub postępowaniem naprawczym lub restrukturyzacyjnym, prowadzonych wobec podmiotu, w którym podmiot składający zawiadomienie posiada udział równy lub przekraczający 10% ogólnej liczby głosów w organie stanowiącym lub udziału w kapitale zakładowym lub wobec którego podmiot składający zawiadomienie jest jednostką dominującą – mogących mieć wpływ na ocenę podmiotu składającego zawiadomienie w świetle kryteriów określonych w art. 25h ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.);
+sądowych w sprawach gospodarczych przeciwko danej osobie, postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego lub postępowaniem naprawczym lub restrukturyzacyjnym, a także o postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego lub postępowaniem naprawczym lub restrukturyzacyjnym, prowadzonych wobec podmiotu, w którym podmiot składający zawiadomienie posiada udział równy lub przekraczający 10% ogólnej liczby głosów w organie stanowiącym lub udziału w kapitale zakładowym lub wobec którego podmiot składający zawiadomienie jest jednostką dominującą – mogących mieć wpływ na ocenę podmiotu składającego zawiadomienie w świetle kryteriów określonych w art. 25h ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667 i 1696.);
 10)
 oświadczenia podmiotu składającego zawiadomienie o:
 a)
@@ -130,6 +129,5 @@ pełnomocnictwo lub inny dokument potwierdzający umocowanie osób podpisującyc
 21)
 pełnomocnictwo do doręczeń w toku postępowania w przedmiocie zawiadomienia – w przypadku gdy podmiot składający zawiadomienie ma miejsce zamieszkania lub siedzibę poza granicami Rzeczypospolitej Polskiej.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667 i 1696.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667 i 1696.
 

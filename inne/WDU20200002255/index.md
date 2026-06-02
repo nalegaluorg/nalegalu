@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+# Ustawa z dnia 9 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 4 lipca 2019 r. o systemie instytucji rozwoju, ustawę z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw oraz ustawę z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-09 |
 | Data wydania | 2020-12-15 |
-| Wejście w życie | 2020-12-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2255/text.pdf) |
 
@@ -250,7 +249,7 @@ source: "eli-html"
 - **2)** działalności artystycznej w dziedzinie sztuki aktorskiej, estradowej, tanecznej i cyrkowej oraz w dziedzinie dyrygentury, wokalistyki i instrumentalistyki,
 - **3)** działalności technicznej wspomagającej produkcję audiowizualną lub produkcję i wystawianie wydarzeń artystycznych,
 - **4)** usług w zakresie architektury, architektury wnętrz, architektury krajobrazu oraz usług w zakresie architektury świadczonych przez osoby nieposiadające uprawnień budowlanych w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane,
-- **5)** usług świadczonych na rzecz muzeów w rozumieniu ustawy z dnia 21 listopada 1996 r. o muzeach: w zakresie pozaszkolnych form edukacji, przez przewodników muzeów uzyskany w miesiącu poprzedzającym miesiąc, w którym został złożony wniosek o to jednorazowe dodatkowe świadczenie postojowe, nie był wyższy od 300% przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, obowiązującego na dzień złożenia wniosku.
+- **5)** usług świadczonych na rzecz muzeów w rozumieniu ustawy z dnia 21 listopada 1996 r. o muzeach: w zakresie pozaszkolnych form edukacji, przez przewodników muzeów – uzyskany w miesiącu poprzedzającym miesiąc, w którym został złożony wniosek o to jednorazowe dodatkowe świadczenie postojowe, nie był wyższy od 300% przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, obowiązującego na dzień złożenia wniosku.
     - **a)**
     - **b)**
 
@@ -419,7 +418,7 @@ source: "eli-html"
 - **3)** przedawnienia,
 - **4)** których niezachowanie powoduje wygaśnięcie lub zmianę praw rzeczowych oraz roszczeń i wierzytelności, a także popadnięcie w opóźnienie,
 - **5)** zawitych, z niezachowaniem których ustawa wiąże ujemne skutki dla strony,
-- **6)** do dokonania przez podmioty lub jednostki organizacyjne podlegające wpisowi do właściwego rejestru czynności, które powodują obowiązek zgłoszenia do tego rejestru, a także terminów na wykonanie przez te podmioty obowiązków wynikających z przepisów o ich ustroju organ administracji publicznej zawiadamia stronę o uchybieniu terminu.
+- **6)** do dokonania przez podmioty lub jednostki organizacyjne podlegające wpisowi do właściwego rejestru czynności, które powodują obowiązek zgłoszenia do tego rejestru, a także terminów na wykonanie przez te podmioty obowiązków wynikających z przepisów o ich ustroju – organ administracji publicznej zawiadamia stronę o uchybieniu terminu.
 
 2. W zawiadomieniu, o którym mowa w ust. 1, organ administracji publicznej wyznacza stronie termin 30 dni na złożenie wniosku o przywrócenie terminu.
 
@@ -501,9 +500,12 @@ source: "eli-html"
 - **1)** do dnia 30 czerwca 2020 r. – w przypadku składek należnych za okres od dnia 1 marca 2020 r. do dnia 31 maja 2020 r.;
 - **2)** do dnia 30 listopada 2020 r. – w przypadku składek, o których mowa w art. 31zo ust. 8, należnych za okres od dnia 1 lipca 2020 r. do dnia 30 września 2020 r., z wyjątkiem pkt 3;
 - **3)** do dnia 15 stycznia 2021 r. – w przypadku składek, o których mowa w art. 31zo ust. 8, należnych za okres od dnia 1 lipca 2020 r. do dnia 30 września 2020 r., jeżeli płatnik składek prowadzi, na dzień złożenia wniosku, działalność oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem 55.10.Z, 79.12.Z;
-- **4)** do dnia 31 stycznia 2021 r. – w przypadku składek, o których mowa w art. 31zo ust. 10, należnych za okres od dnia 1 listopada 2020 r. do dnia 30 listopada 2020 r. ” , uchyla się ust. 1a, w ust. 2: – pkt 2b otrzymuje brzmienie: „ 2b) oświadczenie płatnika składek o rodzaju przeważającej działalności, o której mowa odpowiednio w art. 31zo ust. 8 lub 10; ” , – po pkt 2c dodaje się pkt 2d w brzmieniu: „ 2d) oświadczenie płatnika składek, o którym mowa w art. 31zo ust. 10, potwierdzające, że przychód z działalności uzyskany w listopadzie 2020 r. był niższy co najmniej o 40% w stosunku do przychodu uzyskanego w listopadzie 2019 r.; ” , w ust. 3 wyrazy „2–2c” zastępuje się wyrazami „2–2d”;
+- **4)** do dnia 31 stycznia 2021 r. – w przypadku składek, o których mowa w art. 31zo ust. 10, należnych za okres od dnia 1 listopada 2020 r. do dnia 30 listopada 2020 r. ” , uchyla się ust. 1a, w ust. 2: pkt 2b otrzymuje brzmienie: „
     - **b)**
     - **c)**
+
+- **2b)** oświadczenie płatnika składek o rodzaju przeważającej działalności, o której mowa odpowiednio w art. 31zo ust. 8 lub 10; ” , po pkt 2c dodaje się pkt 2d w brzmieniu: „
+- **2d)** oświadczenie płatnika składek, o którym mowa w art. 31zo ust. 10, potwierdzające, że przychód z działalności uzyskany w listopadzie 2020 r. był niższy co najmniej o 40% w stosunku do przychodu uzyskanego w listopadzie 2019 r.; ” , w ust. 3 wyrazy „2–2c” zastępuje się wyrazami „2–2d”;
     - **d)**
 
 - **32)** w art. 31zq: ust. 1 otrzymuje brzmienie: „
@@ -517,7 +519,7 @@ source: "eli-html"
 
 - **33)** w art. 31zu w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ W przypadku gdy zostanie stwierdzone, że rozbieżności, o których mowa w ust. 2, są wynikiem wprowadzenia w błąd Zakładu Ubezpieczeń Społecznych, płatnik składek jest obowiązany do opłacenia należności z tytułu składek, o których mowa w art. 31zo, za marzec, kwiecień i maj 2020 r., w przypadku, o którym mowa w art. 31zo ust. 8 – za lipiec, sierpień i wrzesień 2020 r., a w przypadku, o którym mowa w art. 31zo ust. 10 – za listopad 2020 r., wraz z odsetkami za zwłokę, w terminie 30 dni od otrzymania decyzji o obowiązku opłacenia tych składek, wraz z odsetkami za zwłokę. ” ;
 - **34)** po art. 31zu dodaje się art. 31zua i art. 31zub w brzmieniu: „ Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazany płatnik składek, o którym mowa w art. 31zo ust. 8 lub 10, na wskazany dzień prowadził pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007 jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio w art. 31zo ust. 8 albo 10. Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez płatnika składek we wniosku o zwolnienie z opłacania składek na zasadach określonych w rozdziale 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. ” ;
-- **35)** art. 31zy otrzymuje brzmienie: „
+- **35)** art. 31zy otrzymuje brzmienie: „ Art. 31zy 1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, określić inne okresy zwolnienia z tytułu nieopłaconych składek, niż określone w art. 31zo ust. 1–3 dla wszystkich albo niektórych płatników składek, którzy byli uprawnieni do zwolnienia z tytułu nieopłaconych składek na podstawie art. 31zo ust. 1–3, lub objąć tym zwolnieniem innych płatników składek, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa w ust. 1, może ustalać krąg płatników składek zwolnionych z tytułu nieopłaconych składek, poprzez określenie:
 
@@ -640,7 +642,7 @@ source: "eli-html"
 
 - **39)** w art. 36 uchyla się ust. 5.
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm.) w art. 52m w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122, 2123 i 2127.) w art. 52m w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 
 - **4)** jednorazowe dodatkowe świadczenie postojowe, o którym mowa w art. 15zs2 ustawy o COVID-19. ” .
 
@@ -681,12 +683,17 @@ source: "eli-html"
 - **12)** data udzielenia wsparcia rozumiana jako data podjęcia przez Polski Fundusz Rozwoju decyzji o udzieleniu wsparcia;
 - **13)** liczbę złożonych przez przedsiębiorców wniosków o udzielenie wsparcia.
 
-8. Minister właściwy do spraw gospodarki w odniesieniu do danych osobowych zgromadzonych na podstawie ust. 6 jest administratorem w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
+8. Minister właściwy do spraw gospodarki w odniesieniu do danych osobowych zgromadzonych na podstawie ust. 6 jest administratorem w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2..
 
 9. Do ochrony danych uzyskanych przez ministra właściwego do spraw gospodarki na podstawie ust. 6, stanowiących tajemnice prawnie chronione lub informacje poufne w rozumieniu przepisów odrębnych, stosuje się przepisy regulujące zasady ochrony tych tajemnic lub informacji poufnych. ” ;
 
-- **2)** w art. 21ab: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) z systemów teleinformatycznych ministra właściwego do spraw finansów publicznych oraz organów Krajowej Administracji Skarbowej, w tym dane, informacje i dokumenty, o których mowa w dziale IIIB ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423, 2122 i 2123), dokumenty, o których mowa w art. 193a § 1 i § 2 tej ustawy, oraz informacje o wynikach kontroli podatkowych lub czynności sprawdzających prowadzonych przez organy Krajowej Administracji Skarbowej; ” , – w pkt 2 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 3–5 w brzmieniu: „ 3) z Centralnej Informacji Krajowego Rejestru Sądowego, o których mowa w art. 4 ust. 4a i 4b ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2019 r. poz. 1500, 1655 i 1798 oraz z 2020 r. poz. 288), przy czym dane te będą przekazywane Polskiemu Funduszowi Rozwoju w sposób zbiorczy; 4) z Monitora Sądowego i Gospodarczego, przy czym dane te będą przekazywane Polskiemu Funduszowi Rozwoju w sposób zbiorczy; 5) z rejestru PESEL w zakresie danych, o których mowa w art. 8 pkt 1, 10 oraz 22–24 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2019 r. poz. 1397 i 2294 oraz z 2020 r. poz. 695), w celu weryfikacji przez Polski Fundusz Rozwoju danych osobowych dotyczących osób umocowanych, przekazanych przez przedsiębiorców, którzy skorzystali ze wsparcia finansowego, o którym mowa w art. 21a ust. 1. ” , ust. 2 otrzymuje brzmienie: „
+- **2)** w art. 21ab: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** z systemów teleinformatycznych ministra właściwego do spraw finansów publicznych oraz organów Krajowej Administracji Skarbowej, w tym dane, informacje i dokumenty, o których mowa w dziale IIIB ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423, 2122 i 2123), dokumenty, o których mowa w art. 193a § 1 i § 2 tej ustawy, oraz informacje o wynikach kontroli podatkowych lub czynności sprawdzających prowadzonych przez organy Krajowej Administracji Skarbowej; ” , w pkt 2 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 3–5 w brzmieniu: „
+- **3)** z Centralnej Informacji Krajowego Rejestru Sądowego, o których mowa w art. 4 ust. 4a i 4b ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2019 r. poz. 1500, 1655 i 1798 oraz z 2020 r. poz. 288), przy czym dane te będą przekazywane Polskiemu Funduszowi Rozwoju w sposób zbiorczy;
+- **4)** z Monitora Sądowego i Gospodarczego, przy czym dane te będą przekazywane Polskiemu Funduszowi Rozwoju w sposób zbiorczy;
+- **5)** z rejestru PESEL w zakresie danych, o których mowa w art. 8 pkt 1, 10 oraz 22–24 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2019 r. poz. 1397 i 2294 oraz z 2020 r. poz. 695), w celu weryfikacji przez Polski Fundusz Rozwoju danych osobowych dotyczących osób umocowanych, przekazanych przez przedsiębiorców, którzy skorzystali ze wsparcia finansowego, o którym mowa w art. 21a ust. 1. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. W celu otrzymywania informacji i danych w drodze teletransmisji bez konieczności składania każdorazowo pisemnych wniosków o ich udostępnienie Polski Fundusz Rozwoju może zawierać umowy o udostępnianiu danych w formie pisemnej z:
@@ -700,9 +707,9 @@ source: "eli-html"
 
 2. Polski Fundusz Rozwoju wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 oraz art. 14 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), w stosunku do przedsiębiorców, którzy skorzystali ze wsparcia finansowego, o którym mowa w art. 21a ust. 1, oraz osób fizycznych, o których mowa w ust. 1, poprzez udostępnienie informacji, wskazanych w tych przepisach, na stronie internetowej Polskiego Funduszu Rozwoju. ” .
 
-**Art. 6.** W ustawie z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r. poz. 568 i 875) w art. 70 ust. 1 otrzymuje brzmienie: „ 1. Przepisów art. 3855, art. 5564, art. 5565iart. 5765 ustawy zmienianej w art. 1 nie stosuje się do umów zawartych przed dniem 1 stycznia 2021 r. oraz do umów zawieranych przez przedsiębiorców będących osobami fizycznymi, w oparciu o które przedsiębiorcy otrzymują wsparcie pochodzące ze środków publicznych w rozumieniu art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.), środków Europejskiego Banku Inwestycyjnego i Europejskiego Funduszu Inwestycyjnego lub innych środków o podobnym charakterze. ” .
+**Art. 6.** W ustawie z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r. poz. 568 i 875) w art. 70 ust. 1 otrzymuje brzmienie: „ 1. Przepisów art. 3855, art. 5564, art. 5565iart. 5765 ustawy zmienianej w art. 1 nie stosuje się do umów zawartych przed dniem 1 stycznia 2021 r. oraz do umów zawieranych przez przedsiębiorców będących osobami fizycznymi, w oparciu o które przedsiębiorcy otrzymują wsparcie pochodzące ze środków publicznych w rozumieniu art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.), środków Europejskiego Banku Inwestycyjnego i Europejskiego Funduszu Inwestycyjnego lub innych środków o podobnym charakterze. ” .
 
-**Art. 7.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.) po art. 69 dodaje się art. 69a w brzmieniu: „
+**Art. 7.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747 i 2157.) po art. 69 dodaje się art. 69a w brzmieniu: „
 
 **Art. 69a.**
 
@@ -734,7 +741,7 @@ source: "eli-html"
     - **b)**
 
 - **2)** z wyjątkiem art. 1 pkt 14 w zakresie dodawanego art. 15zs3, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia;
-- **3)** z tym, że: art. 1 pkt 3 lit. a z mocą od dnia 24 czerwca 2020 r., art. 1 pkt 3 lit. b oraz pkt 19 i 20 z mocą od dnia 31 marca 2020 r., art. 1 pkt 26 z mocą od dnia 8 marca 2020 r., art. 8 w zakresie dodawanego art. 58 ust. 2 z mocą od dnia 24 czerwca 2020 r.
+- **3)** z tym, że: art. 1 pkt 3 lit. a z mocą od dnia 24 czerwca 2020 r., art. 1 pkt 3 lit. b oraz pkt 19 i 20 z mocą od dnia 31 marca 2020 r., art. 1 pkt 26 z mocą od dnia 8 marca 2020 r., art. 8 w zakresie dodawanego art. 58 ust. 2 z mocą od dnia 24 czerwca 2020 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 4 lipca 2019 r. o systemie instytucji rozwoju, ustawę z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw oraz ustawę z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122, 2123 i 2127. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747 i 2157.
     - **a)**
     - **b)**
     - **c)**

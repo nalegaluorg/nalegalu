@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 25 września 2012 r. w sprawie określenia maksymalnych poziomów substancji zanieczyszczających, które mogą znajdować się w tłuszczach stosowanych do smażenia, oraz kryteriów dla metod analitycznych stosowanych do ich oznaczania
+# Rozporządzenie Ministra Zdrowiaz dnia 25 września 2012 r. w sprawie określenia maksymalnych poziomów substancji zanieczyszczających, które mogą znajdować się w tłuszczach stosowanych do smażenia, oraz kryteriów dla metod analitycznych stosowanych do ich oznaczania Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 maja 2012 r. pod numerem 2012/0321/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-09-25 |
 | Data wydania | 2012-10-04 |
-| Wejście w życie | 2012-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001096) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1096/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 17 ust. 1 i 3 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 17 ust. 1 i 3 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511 oraz z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -62,5 +61,5 @@ W badaniach wykonanych metodą odniesienia zawartości wolnych kwasów tłuszczo
 6.
 Do badań, o których mowa w ust. 1, próbki pobiera i przygotowuje się zgodnie z normą dotyczącą pobierania próbek olejów i tłuszczów roślinnych oraz zwierzęcych.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 maja 2012 r. pod numerem 2012/0321/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża dyrektywę 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 230, poz. 1511 oraz z 2011 r. Nr 106, poz. 622, Nr 122, poz. 696 i Nr 171, poz. 1016.
 

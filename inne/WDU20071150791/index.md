@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 30 czerwca 2005 r. o finansach publicznych i ustawę z dnia 1 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-15 |
 | Data wydania | 2007-07-29 |
-| Wejście w życie | 2007-07-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071150791) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/791/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407, z 2005 r. Nr 44, poz. 422, Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 164, poz. 1366 i Nr 167, poz. 1398, z 2006 r. Nr 63, poz. 440, Nr 94, poz. 651 i Nr 170, poz. 1217 oraz z 2007 r. Nr 23, poz. 144.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 4 otrzymuje brzmienie: „
-- **4)** przeciętnym wynagrodzeniu – oznacza to przeciętne miesięczne wynagrodzenie w gospodarce narodowej w poprzednim kwartale od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.), ” ;
+- **4)** przeciętnym wynagrodzeniu – oznacza to przeciętne miesięczne wynagrodzenie w gospodarce narodowej w poprzednim kwartale od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534 oraz z 2007 r. Nr 17, poz. 95 i Nr 82, poz. 558.), ” ;
 - **2)** w art. 5 po pkt 1 dodaje się pkt 1a w brzmieniu: „
 - **1a)** niezdolności do samodzielnej egzystencji, ustalone na podstawie art. 13 ust. 5 ustawy wymienionej w pkt 1, jest traktowane na równi z orzeczeniem o znacznym stopniu niepełnosprawności, ” ;
 - **3)** w art. 5a ust. 1 otrzymuje brzmienie: „
@@ -94,7 +93,7 @@ source: "eli-html"
 
 - **1)** zakres wykonywanych badań oraz tryb i warunki kierowania na te badania,
 - **2)** warunki organizacyjne wykonywania badań,
-- **3)** warunki techniczne pomieszczeń, w których są wykonywane badania mając na względzie zapewnienie sprawnego przebiegu procesu orzekania o niepełnosprawności lub stopniu niepełnosprawności. ” ;
+- **3)** warunki techniczne pomieszczeń, w których są wykonywane badania – mając na względzie zapewnienie sprawnego przebiegu procesu orzekania o niepełnosprawności lub stopniu niepełnosprawności. ” ;
 - **5)** po art. 6c dodaje się art. 6d w brzmieniu: „
 
 1. Tworzy się Elektroniczny Krajowy System Monitoringu Orzekania o Niepełnosprawności, zwany dalej „systemem”, w którym przetwarza się dane w celu usprawnienia i podniesienia jakości orzekania o niepełnosprawności.
@@ -152,7 +151,7 @@ source: "eli-html"
 
 **Art. 11.**
 
-1. Osoba niepełnosprawna zarejestrowana w powiatowym urzędzie pracy jako bezrobotna albo poszukująca pracy niepozostająca w zatrudnieniu ma prawo korzystać z usług lub instrumentów rynku pracy na zasadach określonych w ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.), zwanej dalej „ustawą o promocji”.
+1. Osoba niepełnosprawna zarejestrowana w powiatowym urzędzie pracy jako bezrobotna albo poszukująca pracy niepozostająca w zatrudnieniu ma prawo korzystać z usług lub instrumentów rynku pracy na zasadach określonych w ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788 i Nr 164, poz. 1366, z 2006 r. Nr 94, poz. 651, Nr 104, poz. 708 i 711, Nr 144, poz. 1043, Nr 149, poz. 1074, Nr 158, poz. 1121 i Nr 217, poz. 1588 oraz z 2007 r. Nr 89, poz. 589.), zwanej dalej „ustawą o promocji”.
 
 2. Osoba niepełnosprawna zarejestrowana w powiatowym urzędzie pracy jako poszukująca pracy niepozostająca w zatrudnieniu może również korzystać na zasadach takich jak bezrobotni z następujących usług lub instrumentów określonych w ustawie o promocji:
 
@@ -181,14 +180,14 @@ source: "eli-html"
 
 - **1)** warunki oraz tryb przyznawania i zwrotu środków, o których mowa w ust. 1,
 - **2)** formy zabezpieczenia zwrotu środków, o których mowa w ust. 1, w przypadku naruszenia warunków umowy dotyczącej ich przyznania,
-- **3)** wzór wniosku i niezbędne elementy umowy dotyczącej przyznania środków określonych w ust. 1 mając na względzie zwiększenie aktywności zawodowej osób niepełnosprawnych, zapewnienie zgodności udzielanej pomocy z regułami przyznawania pomocy publicznej w ramach zasady de minimis oraz racjonalne gospodarowanie środkami Funduszu. ” ;
+- **3)** wzór wniosku i niezbędne elementy umowy dotyczącej przyznania środków określonych w ust. 1 – mając na względzie zwiększenie aktywności zawodowej osób niepełnosprawnych, zapewnienie zgodności udzielanej pomocy z regułami przyznawania pomocy publicznej w ramach zasady de minimis oraz racjonalne gospodarowanie środkami Funduszu. ” ;
 - **12)** w art. 13 ust. 1 otrzymuje brzmienie: „
 
 1. Osoba niepełnosprawna prowadząca działalność gospodarczą albo własne lub dzierżawione gospodarstwo rolne może otrzymać, ze środków Funduszu, dofinansowanie do wysokości 50% oprocentowania kredytu bankowego zaciągniętego na kontynuowanie tej działalności, jeżeli:
 
 - **1)** nie korzystała z pożyczki z Funduszu na rozpoczęcie działalności gospodarczej albo rolniczej oraz z Funduszu Pracy na rozpoczęcie działalności gospodarczej albo
 - **2)** pożyczka została spłacona lub w całości umorzona. ” ;
-- **13)** w art. 17 zdanie trzecie otrzymuje brzmienie: „ Nie narusza to przepisu art. 134 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.). ” ;
+- **13)** w art. 17 zdanie trzecie otrzymuje brzmienie: „ Nie narusza to przepisu art. 134 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615 oraz z 2007 r. Nr 64, poz. 426 i Nr 89, poz. 589.). ” ;
 - **14)** uchyla się art. 25;
 - **15)** po art. 25 dodaje się art. 25a-25d w brzmieniu: „
 
@@ -197,17 +196,17 @@ source: "eli-html"
 1. Składki na ubezpieczenia społeczne:
 
 - **1)** zatrudnionych osób niepełnosprawnych oraz osób niepełnosprawnych prowadzących działalność gospodarczą nalicza się i opłaca na zasadach określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, Nr 17, poz. 95, Nr 21, poz. 125 i Nr 112, poz. 769),
-- **2)** niepełnosprawnych rolników oraz niepełnosprawnych domowników nalicza się i opłaca na zasadach określonych w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 1998 r. Nr 7, poz. 25, z późn. zm.).
+- **2)** niepełnosprawnych rolników oraz niepełnosprawnych domowników nalicza się i opłaca na zasadach określonych w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 1998 r. Nr 7, poz. 25, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 60, poz. 636, z 2000 r. Nr 45, poz. 531, z 2001 r. Nr 73, poz. 764, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 228, poz. 2255 i Nr 229, poz. 2273, z 2004 r. Nr 91, poz. 873, Nr 146, poz. 1546 i Nr 236, poz. 2355, z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 150, poz. 1248, Nr 163, poz. 1362, z 2006 r. Nr 75, poz. 519, Nr 170, poz. 1217 i Nr 195, poz. 1437 oraz z 2007 r. Nr 64, poz. 427.).
 
 2. Fundusz refunduje pracodawcy zatrudniającemu mniej niż 25 osób w przeliczeniu na pełny wymiar czasu pracy, w stosunku do zatrudnionych osób niepełnosprawnych zaliczonych do znacznego lub do umiarkowanego stopnia niepełnosprawności:
 
 - **1)** część wynagrodzenia odpowiadającą składce należnej od zatrudnionego na ubezpieczenie emerytalne,
-- **2)** część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenie emerytalne pod warunkiem terminowego opłacenia przez pracodawcę tych składek w całości.
+- **2)** część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenie emerytalne – pod warunkiem terminowego opłacenia przez pracodawcę tych składek w całości.
 
 3. Fundusz refunduje pracodawcy prowadzącemu zakład pracy chronionej lub zakład aktywności zawodowej w stosunku do zatrudnionych osób niepełnosprawnych:
 
 - **1)** część wynagrodzenia odpowiadającą składce należnej od pracownika na ubezpieczenia emerytalne i chorobowe,
-- **2)** część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenia: emerytalne, rentowe, wypadkowe pod warunkiem terminowego opłacenia przez pracodawcę tych składek w całości.
+- **2)** część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenia: emerytalne, rentowe, wypadkowe – pod warunkiem terminowego opłacenia przez pracodawcę tych składek w całości.
     - **a)**
     - **b)**
     - **c)**
@@ -215,12 +214,12 @@ source: "eli-html"
 4. Fundusz refunduje pracodawcy zatrudniającemu co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy, osiągającemu wskaźnik zatrudnienia osób niepełnosprawnych ogółem w wysokości co najmniej 6%, w stosunku do zatrudnionych osób niepełnosprawnych:
 
 - **1)** zaliczonych do znacznego i umiarkowanego stopnia niepełnosprawności – część wynagrodzenia odpowiadającą składce należnej od pracownika na ubezpieczenie emerytalne oraz część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenie emerytalne,
-- **2)** zaliczonych do lekkiego stopnia niepełnosprawności – część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenie wypadkowe pod warunkiem terminowego opłacenia przez pracodawcę tych składek w całości.
+- **2)** zaliczonych do lekkiego stopnia niepełnosprawności – część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenie wypadkowe – pod warunkiem terminowego opłacenia przez pracodawcę tych składek w całości.
 
 5. Fundusz refunduje:
 
 - **1)** osobie niepełnosprawnej prowadzącej działalność gospodarczą obowiązkowe składki na ubezpieczenie emerytalne i rentowe do wysokości odpowiadającej wysokości składki, której podstawą wymiaru jest kwota stanowiąca 60% przeciętnego miesięcznego wynagrodzenia w poprzednim kwartale,
-- **2)** niepełnosprawnemu rolnikowi lub rolnikowi zobowiązanemu do opłacania składek za niepełnosprawnego domownika, składki na ubezpieczenia społeczne rolników – wypadkowe, chorobowe, macierzyńskie oraz emerytalno-rentowe pod warunkiem terminowego opłacenia tych składek w całości.
+- **2)** niepełnosprawnemu rolnikowi lub rolnikowi zobowiązanemu do opłacania składek za niepełnosprawnego domownika, składki na ubezpieczenia społeczne rolników – wypadkowe, chorobowe, macierzyńskie oraz emerytalno-rentowe – pod warunkiem terminowego opłacenia tych składek w całości.
 
 1. Zatrudnienie osób, o których mowa w art. 25a ust. 2–4, ustala się odpowiednio na podstawie art. 21 ust. 5 oraz art. 28 ust. 3.
 
@@ -266,10 +265,10 @@ source: "eli-html"
 - **1)** szczegółowy tryb przekazywania oraz rozliczania refundacji składek na ubezpieczenia społeczne,
 - **2)** terminy składania i wzory informacji i wniosku, o których mowa w art. 25c ust. 1 i 2,
 - **3)** wzór formularza rozliczenia, o którym mowa w art. 25c ust. 9,
-- **4)** wymogi, jakie muszą spełniać wnioskodawcy przekazujący dokumenty w formie elektronicznej przez teletransmisję danych uwzględniając potrzebę zapewnienia jednolitych warunków niezbędnych dla prawidłowego przekazywania dokumentów oraz racjonalne gospodarowanie środkami Funduszu. ” ;
+- **4)** wymogi, jakie muszą spełniać wnioskodawcy przekazujący dokumenty w formie elektronicznej przez teletransmisję danych – uwzględniając potrzebę zapewnienia jednolitych warunków niezbędnych dla prawidłowego przekazywania dokumentów oraz racjonalne gospodarowanie środkami Funduszu. ” ;
 - **16)** w art. 26 po ust. 6 dodaje się ust. 6a w brzmieniu: „
 
-6a. Zwrot kosztów jednostkom budżetowym następuje na wydzielony rachunek dochodów własnych, o którym mowa w art. 22 ust. 1 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.). Warunkiem zwrotu kosztów jest ich poniesienie przez jednostkę budżetową ze środków uprzednio zgromadzonych na tym rachunku. ” ;
+6a. Zwrot kosztów jednostkom budżetowym następuje na wydzielony rachunek dochodów własnych, o którym mowa w art. 22 ust. 1 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560 i Nr 88, poz. 587.). Warunkiem zwrotu kosztów jest ich poniesienie przez jednostkę budżetową ze środków uprzednio zgromadzonych na tym rachunku. ” ;
 
 - **17)** w art. 26a: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -325,7 +324,7 @@ source: "eli-html"
 - **1)** tryb przekazywania oraz rozliczania miesięcznego dofinansowania,
 - **2)** terminy składania i wzory informacji i wniosku, o których mowa w ust. 1,
 - **3)** wzór formularza rozliczenia, o którym mowa w ust. 5,
-- **4)** wymogi, jakie muszą spełniać pracodawcy, przekazując dokumenty w formie elektronicznej przez teletransmisję danych uwzględniając potrzebę zapewnienia jednolitych warunków niezbędnych dla prawidłowego przekazywania dokumentów oraz racjonalne gospodarowanie środkami Funduszu. ” ;
+- **4)** wymogi, jakie muszą spełniać pracodawcy, przekazując dokumenty w formie elektronicznej przez teletransmisję danych – uwzględniając potrzebę zapewnienia jednolitych warunków niezbędnych dla prawidłowego przekazywania dokumentów oraz racjonalne gospodarowanie środkami Funduszu. ” ;
 - **19)** po art. 26c dodaje się art. 26C1 w brzmieniu: „ Art. 26c1. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowe warunki udzielania pomocy określonej w art. 25a ust. 2–5 oraz art. 26a ust. 2 i 3, pracodawcom wykonującym działalność gospodarczą, w rozumieniu przepisów o swobodzie działalności gospodarczej, mając na uwadze konieczność zapewnienia zgodności udzielania pomocy z warunkami dopuszczalności pomocy na zatrudnienie, oraz osobom niepełnosprawnym wykonującym działalność gospodarczą lub niepełnosprawnym rolnikom albo rolnikom zobowiązanym do opłacania składek za niepełnosprawnego domownika w ramach zasady de minimis, w tym także sposób przedstawiania informacji o otrzymanej pomocy publicznej lub zaświadczeń o pomocy de minimis. ” ;
 - **20)** po art. 26d dodaje się art. 26e i 26f w brzmieniu: „
 
@@ -348,12 +347,12 @@ source: "eli-html"
 - **1)** tryb postępowania w sprawach, o których mowa w ust. 1–6,
 - **2)** wzór wniosku i elementy umowy oraz dokumentację niezbędną do zwrotu kosztów, o których mowa w ust. 1,
 - **3)** sposób i terminy rozpatrywania wniosków, o których mowa w ust. 1,
-- **4)** formy zabezpieczenia zwrotu otrzymanych środków w przypadku niedotrzymania warunków umowy dotyczących ich przyznania mając na względzie zwiększenie poziomu zatrudnienia osób niepełnosprawnych, dokonywanie zwrotu kosztów zgodnie z zasadami udzielania pomocy w ramach zasady de minimis oraz racjonalne gospodarowanie środkami Funduszu.
+- **4)** formy zabezpieczenia zwrotu otrzymanych środków w przypadku niedotrzymania warunków umowy dotyczących ich przyznania – mając na względzie zwiększenie poziomu zatrudnienia osób niepełnosprawnych, dokonywanie zwrotu kosztów zgodnie z zasadami udzielania pomocy w ramach zasady de minimis oraz racjonalne gospodarowanie środkami Funduszu.
 
 1. Pracodawca, który zatrudni przez okres co najmniej 12 miesięcy osobę niepełnosprawną zarejestrowaną w powiatowym urzędzie pracy jako bezrobotna albo poszukująca pracy niepozostającą w zatrudnieniu, może otrzymać, na wniosek, ze środków Funduszu zwrot 60%:
 
 - **1)** jej wynagrodzenia przed opodatkowaniem podatkiem dochodowym oraz
-- **2)** obowiązkowych składek na ubezpieczenia społeczne od tego wynagrodzenia za okres jednego roku od dnia jej zatrudnienia.
+- **2)** obowiązkowych składek na ubezpieczenia społeczne od tego wynagrodzenia – za okres jednego roku od dnia jej zatrudnienia.
 
 2. Zwrotu, o którym mowa w ust. 1, dokonuje starosta na warunkach i w wysokości określonych umową zawartą z pracodawcą, z tym że zwrotowi nie podlegają kwoty wypłacone przez pracodawcę za okres sprzed dnia podpisania umowy.
 
@@ -368,7 +367,7 @@ source: "eli-html"
 - **1)** tryb postępowania w sprawach, o których mowa w ust. 1 i 2,
 - **2)** wzór wniosku i elementy umowy, dokumentację niezbędną do zwrotu wynagrodzenia przed opodatkowaniem podatkiem dochodowym oraz obowiązkowych składek na ubezpieczenia społeczne od tego wynagrodzenia,
 - **3)** sposób i terminy rozpatrywania wniosków, o których mowa w ust. 1,
-- **4)** formy zabezpieczenia zwrotu otrzymanej refundacji w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania mając na względzie zwiększenie poziomu zatrudnienia osób niepełnosprawnych, racjonalne gospodarowanie środkami Funduszu oraz prawidłowe dokonywanie zwrotu wynagrodzenia i obowiązkowych składek na ubezpieczenia społeczne, zgodnie z warunkami dopuszczalności pomocy na zatrudnienie. ” ;
+- **4)** formy zabezpieczenia zwrotu otrzymanej refundacji w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania – mając na względzie zwiększenie poziomu zatrudnienia osób niepełnosprawnych, racjonalne gospodarowanie środkami Funduszu oraz prawidłowe dokonywanie zwrotu wynagrodzenia i obowiązkowych składek na ubezpieczenia społeczne, zgodnie z warunkami dopuszczalności pomocy na zatrudnienie. ” ;
 - **21)** w art. 29: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -392,7 +391,7 @@ source: "eli-html"
 
 - **1)** szczegółowy sposób, tryb i warunki tworzenia, finansowania i działania zakładów aktywności zawodowej,
 - **2)** czas pracy i rehabilitacji osób zaliczonych do znacznego lub umiarkowanego stopnia niepełnosprawności,
-- **3)** sposób tworzenia i wykorzystywania zakładowego funduszu aktywności mając na względzie jednolite zasady funkcjonowania zakładów aktywności zawodowej. ” ;
+- **3)** sposób tworzenia i wykorzystywania zakładowego funduszu aktywności – mając na względzie jednolite zasady funkcjonowania zakładów aktywności zawodowej. ” ;
 - **22)** w art. 30 ust. 6 otrzymuje brzmienie: „
 
 6. Wojewoda jest obowiązany przedkładać Pełnomocnikowi zbiorcze informacje półroczne dotyczące wydanych decyzji oraz stanu zatrudnienia w zakładach pracy chronionej i zakładach aktywności zawodowej, w terminach:
@@ -422,7 +421,7 @@ source: "eli-html"
 - **2)** warunki wykorzystania środków funduszu rehabilitacji,
 - **3)** zakres, warunki i formy udzielania pomocy indywidualnej,
 - **4)** tryb ustalania zakładowego regulaminu wykorzystania tych środków,
-- **5)** warunki tworzenia indywidualnych programów rehabilitacji, w tym skład i zakres działania komisji rehabilitacyjnej tworzącej te programy mając na względzie prawidłowe wykorzystanie środków tego funduszu. ” ;
+- **5)** warunki tworzenia indywidualnych programów rehabilitacji, w tym skład i zakres działania komisji rehabilitacyjnej tworzącej te programy – mając na względzie prawidłowe wykorzystanie środków tego funduszu. ” ;
 - **24)** w art. 34 ust. 9 otrzymuje brzmienie: „
 
 9. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, tryb i sposób przeprowadzania kontroli przez organy upoważnione do kontroli na podstawie art. 6c ust. 2 pkt 1 i 2, art. 25d ust. 1, art. 26a ust. 10, art. 30 ust. 3b i art. 34 ust. 5, uwzględniając potrzebę zapewnienia jednolitej procedury kontroli oraz prawidłowego przebiegu kontroli. ” ;
@@ -444,7 +443,7 @@ source: "eli-html"
 
 2. Zadania, o których mowa w ust. 1, mogą być realizowane ze środków Funduszu przez fundacje i organizacje pozarządowe również na zlecenie samorządu województwa lub powiatu.
 
-3. Do zlecania zadań, o którym mowa w ust. 1 i 2, stosuje się odpowiednio przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.).
+3. Do zlecania zadań, o którym mowa w ust. 1 i 2, stosuje się odpowiednio przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104 oraz z 2006 r. Nr 94, poz. 651.).
 
 4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, rodzaje zadań z zakresu rehabilitacji zawodowej i społecznej osób niepełnosprawnych, które mogą być zlecane fundacjom oraz organizacjom pozarządowym, mając na względzie zapewnienie realizacji potrzeb osób niepełnosprawnych. ” ;
 
@@ -469,8 +468,11 @@ source: "eli-html"
     - **d)**
 
 - **2)** sygnalizowanie odpowiednim organom potrzeby wydania lub zmiany przepisów dotyczących sytuacji osób niepełnosprawnych. ” ;
-- **29)** w art. 43: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) pięciu przedstawicieli organów administracji rządowej, w tym jednego przedstawiciela ministra właściwego do spraw finansów publicznych, ” , – w pkt 3 lit. c otrzymuje brzmienie: „ c) przedstawicieli innych niż wymienione w lit. a) i b) organizacji pozarządowych w liczbie równej przedstawicielom tych organizacji; przepis ust. 1a stosuje się odpowiednio. ” , ust. 2 otrzymuje brzmienie: „
+- **29)** w art. 43: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** pięciu przedstawicieli organów administracji rządowej, w tym jednego przedstawiciela ministra właściwego do spraw finansów publicznych, ” , w pkt 3 lit. c otrzymuje brzmienie: „ przedstawicieli innych niż wymienione w lit. a) i b) organizacji pozarządowych w liczbie równej przedstawicielom tych organizacji; przepis ust. 1a stosuje się odpowiednio. ” , ust. 2 otrzymuje brzmienie: „
+    - **c)**
     - **b)**
 
 2. Członków Rady powołuje minister właściwy do spraw zabezpieczenia społecznego na wniosek Pełnomocnika, a w przypadku członków, o których mowa w ust. 1 pkt 3, na wniosek tych organizacji. ” , ust. 4 otrzymuje brzmienie: „
@@ -515,7 +517,7 @@ source: "eli-html"
 - **36)** w art. 49: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Do wpłat, o których mowa w art. 21 ust. 1, art. 23, art. 31 ust. 3 pkt 1 i art. 33 ust. 4a, 7 i 7a, stosuje się odpowiednio, z zastrzeżeniem ust. 5a-5d oraz art. 49a i 49b, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.), zwanej dalej „Ordynacją podatkową”, z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują Prezesowi Zarządu Funduszu. ” , uchyla się ust. 5, po ust. 5 dodaje się ust. 5a-5d w brzmieniu: „
+1. Do wpłat, o których mowa w art. 21 ust. 1, art. 23, art. 31 ust. 3 pkt 1 i art. 33 ust. 4a, 7 i 7a, stosuje się odpowiednio, z zastrzeżeniem ust. 5a-5d oraz art. 49a i 49b, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635 oraz z 2007 r. Nr 112, poz. 769.), zwanej dalej „Ordynacją podatkową”, z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują Prezesowi Zarządu Funduszu. ” , uchyla się ust. 5, po ust. 5 dodaje się ust. 5a-5d w brzmieniu: „
 
 - **b)**
 - **c)**
@@ -525,7 +527,7 @@ source: "eli-html"
 5b. Całkowita nieściągalność, o której mowa w ust. 5a, zachodzi, gdy:
 
 - **1)** dłużnik zmarł, nie pozostawiając żadnego majątku lub pozostawił ruchomości niepodlegające egzekucji na podstawie odrębnych przepisów albo pozostawił przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty stanowiącej trzykrotność przeciętnego wynagrodzenia, i jednocześnie brak jest następców prawnych oraz nie ma możliwości przeniesienia odpowiedzialności na osoby trzecie, w rozumieniu przepisów Ordynacji podatkowej,
-- **2)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika lub umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 13 oraz w art. 361 pkt 1 i 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.),
+- **2)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika lub umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 13 oraz w art. 361 pkt 1 i 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 785, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 47, poz. 347, Nr 133, poz. 935 i Nr 157, poz. 1119.),
 - **3)** nastąpiło trwałe zaprzestanie prowadzenia działalności przy jednoczesnym braku majątku, z którego można egzekwować należności małżonka, następców prawnych, możliwości przeniesienia odpowiedzialności na osoby trzecie w rozumieniu przepisów Ordynacji podatkowej,
 - **4)** nie nastąpiło zaspokojenie należności w zakończonym postępowaniu likwidacyjnym,
 - **5)** wysokość zaległej wpłaty nie przekracza pięciokrotnej kwoty kosztów upomnienia w postępowaniu egzekucyjnym,
@@ -535,20 +537,20 @@ source: "eli-html"
 5c. Prezes Zarządu Funduszu, w drodze decyzji, na wniosek pracodawcy, w przypadku uzasadnionym ważnym interesem pracodawcy lub interesem publicznym może:
 
 - **1)** odroczyć termin płatności należności lub rozłożyć ich zapłatę na raty,
-- **2)** odroczyć termin płatności zaległości z tytułu wpłat, odsetek za zwłokę lub rozłożyć ich zapłatę na raty uwzględniając możliwości płatnicze pracodawcy oraz stan finansów Funduszu.
+- **2)** odroczyć termin płatności zaległości z tytułu wpłat, odsetek za zwłokę lub rozłożyć ich zapłatę na raty – uwzględniając możliwości płatnicze pracodawcy oraz stan finansów Funduszu.
 
 5d. W przypadku wydania decyzji, o której mowa w ust. 5c, naliczana jest opłata prolongacyjna, na zasadach określonych w Ordynacji podatkowej. ” ;
 
 - **37)** w art. 50 w ust. 6 pkt 8 otrzymuje brzmienie: „
 - **8)** składanie ministrowi właściwemu do spraw zabezpieczenia społecznego, w terminie do dnia 20 marca każdego roku, sprawozdań z działalności Funduszu. ” .
 
-**Art. 2.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 1998 r. Nr 7, poz. 25, z późn. zm.) w art. 21b ust. 5 otrzymuje brzmienie: „ 5. Koszty przekwalifikowania zawodowego rencisty w okresie pobierania renty rolniczej szkoleniowej są finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych. ” .
+**Art. 2.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 1998 r. Nr 7, poz. 25, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 60, poz. 636, z 2000 r. Nr 45, poz. 531, z 2001 r. Nr 73, poz. 764, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 228, poz. 2255 i Nr 229, poz. 2273, z 2004 r. Nr 91, poz. 873, Nr 146, poz. 1546 i Nr 236, poz. 2355, z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 150, poz. 1248 i Nr 163, poz. 1362, z 2006 r. Nr 75, poz. 519, Nr 170, poz. 1217 i Nr 195, poz. 1437 oraz z 2007 r. Nr 64, poz. 427.) w art. 21b ust. 5 otrzymuje brzmienie: „ 5. Koszty przekwalifikowania zawodowego rencisty w okresie pobierania renty rolniczej szkoleniowej są finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych. ” .
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.) w art. 21 w ust. 1 po pkt 40b dodaje się pkt 40c w brzmieniu: „
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781, z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298, Nr 164, poz. 1365 i 1366, Nr 169, poz. 1418 i 1420, Nr 177, poz. 1468, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538, z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353 i 1354, Nr 217, poz. 1588, Nr 226, poz. 1657 i Nr 249, poz. 1824 oraz z 2007 r. Nr 35, poz. 219 i Nr 99, poz. 658.) w art. 21 w ust. 1 po pkt 40b dodaje się pkt 40c w brzmieniu: „
 
-- **40c)** zwrot kosztów przejazdu, o których mowa w art. 17 ust. 3 i 3a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.), ” .
+- **40c)** zwrot kosztów przejazdu, o których mowa w art. 17 ust. 3 i 3a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658 oraz z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542 i Nr 115, poz. 791.), ” .
 
-**Art. 4.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) w art. 17 ust. 3a otrzymuje brzmienie: „ 3a. Obowiązkiem gminy jest:
+**Art. 4.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658 oraz z 2007 r. Nr 42, poz. 273 i Nr 80, poz. 542.) w art. 17 ust. 3a otrzymuje brzmienie: „ 3a. Obowiązkiem gminy jest:
 
 - **1)** zapewnienie uczniom niepełnosprawnym, których kształcenie i wychowanie odbywa się na podstawie art. 71b, bezpłatnego transportu i opieki w czasie przewozu do najbliższej szkoły podstawowej i gimnazjum, a uczniom z niepełnosprawnością ruchową, upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym – także do najbliższej szkoły ponadgimnazjalnej, nie dłużej jednak niż do ukończenia 21. roku życia;
 - **2)** zapewnienie dzieciom i młodzieży, o których mowa w art. 16 ust. 7, a także dzieciom i młodzieży z upośledzeniem umysłowym ze sprzężonymi niepełnosprawnościami, bezpłatnego transportu i opieki w czasie przewozu do ośrodka umożliwiającego tym dzieciom i młodzieży realizację obowiązku szkolnego i obowiązku nauki, nie dłużej jednak niż do ukończenia 25. roku życia;
@@ -559,7 +561,7 @@ source: "eli-html"
 - **1)** w art. 16 uchyla się ust. 13 i 14,
 - **2)** w art. 17 ust. 1 otrzymuje brzmienie: „
 
-1. Składki na ubezpieczenia emerytalne, rentowe, wypadkowe oraz chorobowe za ubezpieczonych, o których mowa w art. 16 ust. 1–3, 5, 6 i 9–12, obliczają, rozliczają i przekazują co miesiąc do Zakładu w całości płatnicy składek. ” . W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.) wprowadza się następujące zmiany:
+1. Składki na ubezpieczenia emerytalne, rentowe, wypadkowe oraz chorobowe za ubezpieczonych, o których mowa w art. 16 ust. 1–3, 5, 6 i 9–12, obliczają, rozliczają i przekazują co miesiąc do Zakładu w całości płatnicy składek. ” . W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788 i Nr 164, poz. 1366, z 2006 r. Nr 94, poz. 651, Nr 104, poz. 708 i 711, Nr 114, poz. 1043, Nr 149, poz. 1074, Nr 158, poz. 1121 i Nr 217, poz. 1588 oraz z 2007 r. Nr 89, poz. 589.) wprowadza się następujące zmiany:
 
 - **1)** w art. 33 w ust. 4 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 - **2a)** otrzymał jednorazowo środki z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych lub instytucji z udziałem środków publicznych na podjęcie działalności gospodarczej, rolniczej lub na wniesienie wkładu do spółdzielni socjalnej; ” ;
@@ -567,20 +569,20 @@ source: "eli-html"
 
 **Art. 105.** Przedsiębiorcy Polskiego Związku Głuchych i Polskiego Związku Niewidomych oraz Związku Ociemniałych Żołnierzy Rzeczypospolitej Polskiej, Towarzystwo Opieki nad Ociemniałymi, Zakład Opieki dla Niewidomych w Laskach oraz zakłady aktywności zawodowej nie opłacają składek na Fundusz Pracy za zatrudnionych pracowników o znacznym lub umiarkowanym stopniu niepełnosprawności. ” .
 
-**Art. 7.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.) w art. 22 w ust. 6 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+**Art. 7.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1121 i Nr 217, poz. 1588 oraz z 2007 r. Nr 82, poz. 560 i Nr 88, poz. 587.) w art. 22 w ust. 6 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
 
-- **4)** sfinansowanie wydatków stanowiących koszty, o których mowa w art. 26 ust. 1 pkt 1–2 oraz w art. 26e ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm.). ” .
+- **4)** sfinansowanie wydatków stanowiących koszty, o których mowa w art. 26 ust. 1 pkt 1–2 oraz w art. 26e ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407, z 2005 r. Nr 44, poz. 422, Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 164, poz. 1366 i Nr 167, poz. 1398, z 2006 r. Nr 63, poz. 440, Nr 94, poz. 651 i Nr 170, poz. 1217 oraz z 2007 r. Nr 23, poz. 144 i Nr 115, poz. 791.). ” .
 
 **Art. 8.** W ustawie z dnia 1 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych (Dz. U. Nr 169, poz. 1412 oraz z 2006 r. Nr 90, poz. 626 i Nr 251, poz. 1846) w art. 4 pkt 3 otrzymuje brzmienie: „
 
 - **3)** w art. 2 pkt 1 lit. b i c, które wchodzą w życie z dniem 1 stycznia 2008 r. ” .
 
-**Art. 9.** Orzeczenie o niezdolności do samodzielnej egzystencji wydane przed dniem wejścia w życie niniejszej ustawy, ustalone na podstawie art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.), jest traktowane na równi z orzeczeniem o znacznym stopniu niepełnosprawności.
+**Art. 9.** Orzeczenie o niezdolności do samodzielnej egzystencji wydane przed dniem wejścia w życie niniejszej ustawy, ustalone na podstawie art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534 oraz z 2007 r. Nr 17, poz. 95 i Nr 82, poz. 558.), jest traktowane na równi z orzeczeniem o znacznym stopniu niepełnosprawności.
 
 **Art. 10.** Na wniosek osoby, która otrzymała pożyczkę na rozpoczęcie działalności gospodarczej albo rolniczej ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, starosta może:
 
 - **1)** umorzyć do 50% kwoty pożyczki – pod warunkiem prowadzenia przez dłużnika działalności gospodarczej albo rolniczej przez okres co najmniej 24 miesięcy oraz po spełnieniu pozostałych warunków umowy,
-- **2)** odroczyć termin spłaty pożyczki, rozłożyć jej spłatę na raty lub umorzyć spłatę w części albo w całości, jeżeli pożyczka stała się wymagalna – w przypadku uzasadnionym trudną sytuacją materialną lub losową dłużnika zgodnie z warunkami dopuszczalności pomocy de minimis.
+- **2)** odroczyć termin spłaty pożyczki, rozłożyć jej spłatę na raty lub umorzyć spłatę w części albo w całości, jeżeli pożyczka stała się wymagalna – w przypadku uzasadnionym trudną sytuacją materialną lub losową dłużnika – zgodnie z warunkami dopuszczalności pomocy de minimis.
 
 1. Finansowanie składek na ubezpieczenia społeczne, na zasadach określonych w art. 25 ust. 2, 3, 3a i 3b ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 31 grudnia 2007 r., przysługuje nie dłużej niż do składek rozliczanych w dokumentach składanych za miesiąc grudzień 2007 r.
 
@@ -613,6 +615,6 @@ source: "eli-html"
 
 - **1)** art. 1 pkt 5 i art. 13, które wchodzą w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2007 r.;
 - **2)** art. 1 pkt 14, 15, 17 lit. a i pkt 34 oraz art. 5, 11 i 12, które wchodzą w życie z dniem 1 stycznia 2008 r.;
-- **3)** art. 8, który wchodzi w życie z dniem 30 czerwca 2007 r.
+- **3)** art. 8, który wchodzi w życie z dniem 30 czerwca 2007 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 30 czerwca 2005 r. o finansach publicznych i ustawę z dnia 1 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407, z 2005 r. Nr 44, poz. 422, Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 164, poz. 1366 i Nr 167, poz. 1398, z 2006 r. Nr 63, poz. 440, Nr 94, poz. 651 i Nr 170, poz. 1217 oraz z 2007 r. Nr 23, poz. 144. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534 oraz z 2007 r. Nr 17, poz. 95 i Nr 82, poz. 558. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788 i Nr 164, poz. 1366, z 2006 r. Nr 94, poz. 651, Nr 104, poz. 708 i 711, Nr 144, poz. 1043, Nr 149, poz. 1074, Nr 158, poz. 1121 i Nr 217, poz. 1588 oraz z 2007 r. Nr 89, poz. 589. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615 oraz z 2007 r. Nr 64, poz. 426 i Nr 89, poz. 589. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 60, poz. 636, z 2000 r. Nr 45, poz. 531, z 2001 r. Nr 73, poz. 764, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 228, poz. 2255 i Nr 229, poz. 2273, z 2004 r. Nr 91, poz. 873, Nr 146, poz. 1546 i Nr 236, poz. 2355, z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 150, poz. 1248, Nr 163, poz. 1362, z 2006 r. Nr 75, poz. 519, Nr 170, poz. 1217 i Nr 195, poz. 1437 oraz z 2007 r. Nr 64, poz. 427. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560 i Nr 88, poz. 587. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104 oraz z 2006 r. Nr 94, poz. 651. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635 oraz z 2007 r. Nr 112, poz. 769. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 785, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 47, poz. 347, Nr 133, poz. 935 i Nr 157, poz. 1119. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 60, poz. 636, z 2000 r. Nr 45, poz. 531, z 2001 r. Nr 73, poz. 764, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 45, poz. 391, Nr 228, poz. 2255 i Nr 229, poz. 2273, z 2004 r. Nr 91, poz. 873, Nr 146, poz. 1546 i Nr 236, poz. 2355, z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 150, poz. 1248 i Nr 163, poz. 1362, z 2006 r. Nr 75, poz. 519, Nr 170, poz. 1217 i Nr 195, poz. 1437 oraz z 2007 r. Nr 64, poz. 427. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781, z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298, Nr 164, poz. 1365 i 1366, Nr 169, poz. 1418 i 1420, Nr 177, poz. 1468, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538, z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353 i 1354, Nr 217, poz. 1588, Nr 226, poz. 1657 i Nr 249, poz. 1824 oraz z 2007 r. Nr 35, poz. 219 i Nr 99, poz. 658. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658 oraz z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542 i Nr 115, poz. 791. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658 oraz z 2007 r. Nr 42, poz. 273 i Nr 80, poz. 542. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788 i Nr 164, poz. 1366, z 2006 r. Nr 94, poz. 651, Nr 104, poz. 708 i 711, Nr 114, poz. 1043, Nr 149, poz. 1074, Nr 158, poz. 1121 i Nr 217, poz. 1588 oraz z 2007 r. Nr 89, poz. 589. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1121 i Nr 217, poz. 1588 oraz z 2007 r. Nr 82, poz. 560 i Nr 88, poz. 587. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407, z 2005 r. Nr 44, poz. 422, Nr 132, poz. 1110, Nr 163, poz. 1362, Nr 164, poz. 1366 i Nr 167, poz. 1398, z 2006 r. Nr 63, poz. 440, Nr 94, poz. 651 i Nr 170, poz. 1217 oraz z 2007 r. Nr 23, poz. 144 i Nr 115, poz. 791. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr 121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, Nr 210, poz. 2135 i Nr 236, poz. 2355, z 2005 r. Nr 167, poz. 1397 i Nr 169, poz. 1412 i 1421, z 2006 r. Nr 104, poz. 708 i 711 i Nr 208, poz. 1534 oraz z 2007 r. Nr 17, poz. 95 i Nr 82, poz. 558.
 
 

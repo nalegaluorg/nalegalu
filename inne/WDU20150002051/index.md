@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-28 |
 | Data wydania | 2015-12-07 |
-| Wejście w życie | 2015-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002051) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2051/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2015 r. poz. 1651 i 1688) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych (Dz. U. poz. 302) w załączniku do rozporządzenia § 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych (Dz. U. poz. 302) w załączniku do rozporządzenia § 2 otrzymuje brzmienie: „
 § 2.
 Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1)
@@ -112,8 +110,7 @@ Samodzielne Stanowisko do spraw Ochrony Przyrody;
 18)
 Samodzielne Stanowisko do spraw Pracowniczych;
 19)
-Samodzielne Stanowisko do spraw Zamówień Publicznych.
-” .
+Samodzielne Stanowisko do spraw Zamówień Publicznych. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

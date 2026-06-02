@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-12-17 |
 | Data wydania | 2010-01-18 |
-| Wejście w życie | 2010-02-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100070043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/43/text.pdf) |
 
@@ -42,7 +41,7 @@ Załącznik – Wykaz nieruchomości zabudowanych następującymi cerkwiami pozo
 
 1. Za nieruchomość położoną w Przemyślu, zabudowaną cerkwią p.w. Zaśnięcia Najświętszej Marii Panny oraz nieruchomość położoną w Wysowej-Zdrój, zabudowaną cerkwią p.w. św. Michała Archanioła, Skarb Państwa wypłaci Archidiecezji Przemysko-Warszawskiej obrządku greckokatolickiego (bizantyjsko-ukraińskiego) odszkodowanie.
 
-2. Wysokość odszkodowania, o którym mowa w ust. 1, odpowiada wartości nieruchomości, która zostanie określona w operatach szacunkowych wykonanych na zlecenie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, zwanego dalej „ministrem”, sporządzonych z zachowaniem podejścia kosztowego określonego w art. 153 ust. 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.).
+2. Wysokość odszkodowania, o którym mowa w ust. 1, odpowiada wartości nieruchomości, która zostanie określona w operatach szacunkowych wykonanych na zlecenie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, zwanego dalej „ministrem”, sporządzonych z zachowaniem podejścia kosztowego określonego w art. 153 ust. 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100, Nr 42, poz. 335 i 340, Nr 98, poz. 817, Nr 161, poz. 1279 i 1281 i Nr 206, poz. 1590.).
 
 3. Odszkodowanie, o którym mowa w ust. 1, wypłaca się w terminie 30 dni od dnia otrzymania przez ministra pisemnej akceptacji Metropolii Przemysko-Warszawskiej obrządku greckokatolickiego (bizantyjsko-ukraińskiego) dla operatów szacunkowych określonych w ust. 2.
 
@@ -76,7 +75,7 @@ Załącznik – Wykaz nieruchomości zabudowanych następującymi cerkwiami pozo
 
 **Art. 8.** Nabycie własności nieruchomości na podstawie art. 1 i 2, w tym decyzja, o której mowa w art. 3, oraz odszkodowanie, o którym mowa w art. 4 ust. 1 i art. 5 ust. 1, są wolne od podatków i opłat z tym związanych, a wynikające z nabycia nieruchomości wpisy do ksiąg wieczystych oraz zakładanie tych ksiąg są wolne od opłat.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Załącznik – Wykaz nieruchomości zabudowanych następującymi cerkwiami pozostającymi w faktycznym, wyłącznym władaniu osób prawnych polskiego autokefalicznego kościoła prawosławnego, które stają się z mocy prawa własnością tych osób prawnych
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100, Nr 42, poz. 335 i 340, Nr 98, poz. 817, Nr 161, poz. 1279 i 1281 i Nr 206, poz. 1590. Załącznik – Wykaz nieruchomości zabudowanych następującymi cerkwiami pozostającymi w faktycznym, wyłącznym władaniu osób prawnych polskiego autokefalicznego kościoła prawosławnego, które stają się z mocy prawa własnością tych osób prawnych
 
 - **1)** Blechnarka, cerkiew św. św. Kosmy i Damiana,
 - **2)** Dziurdziów, cerkiew Narodzenia Najświętszej Marii Panny,

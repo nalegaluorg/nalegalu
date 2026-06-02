@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-06 |
 | Data wydania | 2014-03-25 |
-| Wejście w życie | 2014-04-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/386/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 132d ust. 3 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 132d ust. 3 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1166 oraz z 2013 r. poz. 1036 i 1271.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa dokumenty, które należy załączyć do zawiadomienia o zamiarze bezpośredniego lub pośredniego nabycia albo objęcia akcji lub udziałów krajowej instytucji pieniądza elektronicznego, składanego na podstawie art. 132c ust. 1 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, zwanej dalej „ustawą”.
 § 2.
@@ -43,7 +42,7 @@ poświadczone kopie dokumentów potwierdzających tożsamość osób zarządzaj�
 3)
 poświadczone kopie statutu, umowy spółki lub innego dokumentu poświadczającego przedmiot działalności podmiotu składającego zawiadomienie, o ile wykonuje działalność gospodarczą, albo oświadczenie, że nie wykonuje działalności gospodarczej;
 4)
-graficzny schemat organizacyjny grupy, o której mowa w art. 132d ust. 1 pkt 5 ustawy, do której należy podmiot składający zawiadomienie, obejmującej podmioty od niego zależne oraz podmioty, w których podmiot ten oraz podmioty od niego zależne posiadają znaczący udział kapitałowy w rozumieniu art. 3 pkt 14 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z późn. zm.), z oznaczeniem nazw i adresów podmiotów wchodzących w skład grupy, przedmiotów ich działalności oraz rodzaju i zakresu powiązań między podmiotami w grupie, z uwzględnieniem prawnych i faktycznych powiązań finansowych, kapitałowych i osobowych, a w przypadku podmiotów podlegających nadzorowi sprawowanemu przez organ nadzoru nad rynkiem finansowym – ze wskazaniem także organu nadzoru;
+graficzny schemat organizacyjny grupy, o której mowa w art. 132d ust. 1 pkt 5 ustawy, do której należy podmiot składający zawiadomienie, obejmującej podmioty od niego zależne oraz podmioty, w których podmiot ten oraz podmioty od niego zależne posiadają znaczący udział kapitałowy w rozumieniu art. 3 pkt 14 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2009 r. Nr 42, poz. 341, z 2012 r. poz. 1385 oraz z 2013 r. poz. 1036.), z oznaczeniem nazw i adresów podmiotów wchodzących w skład grupy, przedmiotów ich działalności oraz rodzaju i zakresu powiązań między podmiotami w grupie, z uwzględnieniem prawnych i faktycznych powiązań finansowych, kapitałowych i osobowych, a w przypadku podmiotów podlegających nadzorowi sprawowanemu przez organ nadzoru nad rynkiem finansowym – ze wskazaniem także organu nadzoru;
 5)
 poświadczone kopie dokumentów potwierdzających tożsamość osób przewidzianych do objęcia funkcji osób zarządzających krajową instytucją pieniądza elektronicznego, zawierających co najmniej imię, nazwisko, adres zameldowania, datę i miejsce urodzenia oraz wizerunek, o ile przewidywane są zmiany w tym zakresie, albo oświadczenie o braku zamiaru dokonywania takich zmian;
 6)
@@ -107,7 +106,7 @@ w przypadku zamiaru nabycia albo objęcia akcji lub udziałów krajowej instytuc
 – plan rozwoju działalności krajowej instytucji pieniądza elektronicznego, obejmujący uzasadnienie zamiaru, którego dotyczy zawiadomienie, średnioterminowe cele finansowe, kierunki rozwoju działalności obejmujące przewidywane zmiany w zakresie docelowych grup użytkowników lub posiadaczy pieniądza elektronicznego i oferowanych usług, działania mające na celu integrację krajowej instytucji pieniądza elektronicznego z grupą podmiotów, do której należy podmiot składający zawiadomienie,
 – oczekiwane przyszłe dane finansowe krajowej instytucji pieniądza elektronicznego na okres 3 lat, obejmujące przewidywany bilans oraz rachunek zysków i strat, przewidywane wskaźniki wypłacalności, informację o poziomie narażenia na poszczególne rodzaje ryzyka, przewidywane transakcje wewnątrz grupy,
 – opis wpływu realizacji zamiaru objętego zawiadomieniem na organizację krajowej instytucji pieniądza elektronicznego i zarządzanie krajową instytucją pieniądza elektronicznego obejmujący liczbę osób zarządzających i podział zadań między nimi, projektowane regulacje wewnętrzne krajowej instytucji pieniądza elektronicznego, w tym w zakresie rachunkowości,
-– badania sprawozdań finansowych oraz systemu zarządzania ryzykiem i kontroli wewnętrznej oraz dane osób odpowiedzialnych za ich realizację obejmujące imię, nazwisko, datę i miejsce urodzenia, obywatelstwo, a w przypadku biegłych rewidentów – także informację o numerze wpisu do rejestru biegłych rewidentów, o którym mowa w ustawie z dnia 7 maja 2009 r. o biegłych rewidentach i ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz o nadzorze publicznym (Dz. U. Nr 77, poz. 649, z późn. zm.),
+– badania sprawozdań finansowych oraz systemu zarządzania ryzykiem i kontroli wewnętrznej oraz dane osób odpowiedzialnych za ich realizację obejmujące imię, nazwisko, datę i miejsce urodzenia, obywatelstwo, a w przypadku biegłych rewidentów – także informację o numerze wpisu do rejestru biegłych rewidentów, o którym mowa w ustawie z dnia 7 maja 2009 r. o biegłych rewidentach i ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz o nadzorze publicznym (Dz. U. Nr 77, poz. 649, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228, z 2012 r. poz. 1166 oraz z 2013 r. poz. 1036.),
 – projektowaną architekturę systemów informatycznych krajowej instytucji pieniądza elektronicznego, w tym w zakresie polityki kontraktowej, przepływu danych, zastosowania oprogramowania wewnętrznego i zewnętrznego oraz bezpieczeństwa danych i systemów,
 – politykę w zakresie zlecenia wykonywania czynności objętych zakresem zezwolenia krajowej instytucji pieniądza elektronicznego innym podmiotom, w tym w zakresie praw i obowiązków krajowej instytucji pieniądza elektronicznego w ramach umów z tymi podmiotami,
 b)
@@ -126,5 +125,5 @@ pełnomocnictwo lub inny dokument potwierdzający umocowanie osób podpisującyc
 22)
 pełnomocnictwo do doręczeń w toku postępowania w przedmiocie zawiadomienia – w przypadku gdy podmiot składający zawiadomienie ma miejsce zamieszkania lub siedzibę poza granicami Rzeczypospolitej Polskiej.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 1166 oraz z 2013 r. poz. 1036 i 1271. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2009 r. Nr 42, poz. 341, z 2012 r. poz. 1385 oraz z 2013 r. poz. 1036. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228, z 2012 r. poz. 1166 oraz z 2013 r. poz. 1036.
 

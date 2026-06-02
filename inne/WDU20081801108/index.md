@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-23 |
 | Data wydania | 2008-10-10 |
-| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081801108) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1108/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535, z późn. zm.) art. 2 otrzymuje brzmienie: „
+**Art. 1.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, z 2000 r. Nr 120, poz. 1268, z 2005 r. Nr 141, poz. 1183, Nr 167, poz. 1398 i Nr 175, poz. 1462 oraz z 2007 r. Nr 112, poz. 766 i Nr 121, poz. 831.) art. 2 otrzymuje brzmienie: „
 
 **Art. 2.**
 
@@ -61,6 +60,6 @@ source: "eli-html"
 
 7. Minister właściwy do spraw zdrowia przedkłada Radzie Ministrów, w terminie do dnia 30 września każdego roku, informację o realizacji działań wynikających z Narodowego Programu Ochrony Zdrowia Psychicznego w roku poprzednim.
 
-8. Rada Ministrów składa corocznie Sejmowi Rzeczypospolitej Polskiej, w terminie do dnia 31 października, informację o realizacji Narodowego Programu Ochrony Zdrowia Psychicznego w roku poprzednim. ” . Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
+8. Rada Ministrów składa corocznie Sejmowi Rzeczypospolitej Polskiej, w terminie do dnia 31 października, informację o realizacji Narodowego Programu Ochrony Zdrowia Psychicznego w roku poprzednim. ” . Ustawa wchodzi w życie z dniem 1 stycznia 2009 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, z 2000 r. Nr 120, poz. 1268, z 2005 r. Nr 141, poz. 1183, Nr 167, poz. 1398 i Nr 175, poz. 1462 oraz z 2007 r. Nr 112, poz. 766 i Nr 121, poz. 831.
 
 

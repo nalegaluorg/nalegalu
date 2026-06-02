@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-07 |
 | Data wydania | 2014-04-17 |
-| Wejście w życie | 2014-05-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000495) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/495/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 23a ust. 10 pkt 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 23a ust. 10 pkt 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158.) zarządza się, co następuje:
 § 1.
 Państwowa Straż Rybacka współdziała z Policją w sprawach zapobiegania i zwalczania nielegalnego połowu ryb, raków i minogów w powierzchniowych wodach śródlądowych, wodach znajdujących się w urządzeniach wodnych oraz w obiektach przeznaczonych do chowu lub hodowli ryb, a także zwalczania obrotu nielegalnie pozyskanymi rybami, rakami i minogami.
 § 2.
@@ -49,5 +48,5 @@ uzgadniają ramowy plan współdziałania w zakresie realizacji zadań wymienion
 2)
 dokonują, co najmniej raz w roku, analizy i oceny współdziałania w zakresie realizacji zadań wymienionych w § 1 i 2.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 23 grudnia 1997 r. w sprawie określenia szczegółowych zasad i warunków współdziałania Państwowej Straży Rybackiej z Policją (Dz. U. z 1998 r. Nr 4, poz. 12), które na podstawie art. 83 pkt 1 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628 i 1165 oraz z 2014 r. poz. 24) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322 oraz z 2013 r. poz. 628 i 1158. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 23 grudnia 1997 r. w sprawie określenia szczegółowych zasad i warunków współdziałania Państwowej Straży Rybackiej z Policją (Dz. U. z 1998 r. Nr 4, poz. 12), które na podstawie art. 83 pkt 1 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628 i 1165 oraz z 2014 r. poz. 24) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

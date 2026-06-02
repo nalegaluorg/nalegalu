@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 19 czerwca 2017 r. zmieniające rozporządzenie w sprawie wymagań Dobrej Praktyki Wytwarzania
+# Rozporządzenie Ministra Zdrowiaz dnia 19 czerwca 2017 r. zmieniające rozporządzenie w sprawie wymagań Dobrej Praktyki Wytwarzania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-19 |
 | Data wydania | 2017-07-07 |
-| Wejście w życie | 2017-07-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001349) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1349/text.pdf) |
 
@@ -38,8 +37,7 @@ Wytwórcy i importerzy produktu leczniczego, wytwórcy, importerzy i dystrybutor
 2.
 Do postępowań dotyczących wytwórców i importerów produktu leczniczego, wytwórców, importerów i dystrybutorów substancji czynnej oraz wytwórców i importerów substancji pomocniczej, z zakresu spełnienia wymagań określonych w załączniku nr 5 do rozporządzenia zmienianego w § 1 w aneksie 15 i aneksie 16, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 Załącznik – Aneks 15 kwalifikacja i walidacja
 ANEKS 15 KWALIFIKACJA I WALIDACJA Użyte w Aneksie 15 określenia oznaczają:
 1)
@@ -89,8 +87,7 @@ walidacja równoczesna – walidacja przeprowadzana w wyjątkowych okoliczności
 23)
 Zarządzanie Ryzykiem Jakości – metodyczny proces oceny, kontroli, przekazywania informacji i przeglądu ryzyk dla jakości, prowadzony przez cały cykl życia produktu lub procesu (patrz wytyczna Międzynarodowej Konferencji ds. Harmonizacji ICH Q9 Quality Risk Management);
 24)
-zarządzanie wiedzą – systematyczne podejście, polegające na uzyskiwaniu, analizie, przechowywaniu i rozpowszechnianiu informacji (patrz wytyczna Międzynarodowej Konferencji ds. Harmonizacji ICH Q10 Pharmaceutical Quality System).
-Zakres Niniejszy aneks opisuje wymagania dotyczące kwalifikacji i walidacji, mające zastosowanie dla pomieszczeń, urządzeń, systemów pomocniczych i procesów stosowanych przy wytwarzaniu produktów leczniczych. Może być również zastosowany jako dodatkowe, opcjonalne wymagania dla substancji czynnych bez wprowadzania dodatkowych wymagań do załącznika nr 3 do rozporządzenia. Zgodnie z wymaganiami Dobrej Praktyki Wytwarzania wytwórca ma obowiązek kontrolowania, przez kwalifikację i walidację, krytycznych etapów poszczególnych działań przez cały cykl życia produktu i procesu. Wszystkie zaplanowane zmiany dotyczące obszarów, urządzeń, instalacji wspomagających i procesów, które mogą mieć wpływ na jakość produktu, powinny być formalnie udokumentowane i ocenione pod kątem ich wpływu na status walidacji lub strategię kontroli. Systemy skomputeryzowane stosowane w wytwarzaniu produktów leczniczych powinny być zwalidowane zgodnie z wymaganiami Aneksu 11 niniejszego załącznika. Należy wziąć również pod uwagę odpowiednie podejście i wskazówki zawarte w wytycznych Międzynarodowej Konferencji ds. Harmonizacji ICH Q8 (Pharmaceutical Development), ICH Q9 (Quality Risk Management), ICH Q10 (Pharmaceutical Quality System), ICH Q11 (Development and Manufacture of Drug Substances). Wymagania ogólne Podejście oparte na zarządzaniu ryzykiem powinno być stosowane w całym cyklu życia produktu leczniczego. Decyzje dotyczące zakresu i stopnia kwalifikacji i walidacji, jako część systemu zarządzania ryzykiem jakości, powinny być podejmowane w oparciu o uzasadnioną i udokumentowaną ocenę ryzyka obszarów, urządzeń, instalacji wspomagających i procesów. Walidacja retrospektywna nie jest już akceptowalnym podejściem. Dane związane z działaniami kwalifikacyjnymi lub walidacyjnymi uzyskane z innych źródeł niż własne prace walidacyjne wytwórcy mogą być wykorzystane pod warunkiem, że takie podejście zostanie uzasadnione i zapewniono odpowiednią kontrolę w trakcie pozyskiwania danych.
+zarządzanie wiedzą – systematyczne podejście, polegające na uzyskiwaniu, analizie, przechowywaniu i rozpowszechnianiu informacji (patrz wytyczna Międzynarodowej Konferencji ds. Harmonizacji ICH Q10 Pharmaceutical Quality System). Zakres Niniejszy aneks opisuje wymagania dotyczące kwalifikacji i walidacji, mające zastosowanie dla pomieszczeń, urządzeń, systemów pomocniczych i procesów stosowanych przy wytwarzaniu produktów leczniczych. Może być również zastosowany jako dodatkowe, opcjonalne wymagania dla substancji czynnych bez wprowadzania dodatkowych wymagań do załącznika nr 3 do rozporządzenia. Zgodnie z wymaganiami Dobrej Praktyki Wytwarzania wytwórca ma obowiązek kontrolowania, przez kwalifikację i walidację, krytycznych etapów poszczególnych działań przez cały cykl życia produktu i procesu. Wszystkie zaplanowane zmiany dotyczące obszarów, urządzeń, instalacji wspomagających i procesów, które mogą mieć wpływ na jakość produktu, powinny być formalnie udokumentowane i ocenione pod kątem ich wpływu na status walidacji lub strategię kontroli. Systemy skomputeryzowane stosowane w wytwarzaniu produktów leczniczych powinny być zwalidowane zgodnie z wymaganiami Aneksu 11 niniejszego załącznika. Należy wziąć również pod uwagę odpowiednie podejście i wskazówki zawarte w wytycznych Międzynarodowej Konferencji ds. Harmonizacji ICH Q8 (Pharmaceutical Development), ICH Q9 (Quality Risk Management), ICH Q10 (Pharmaceutical Quality System), ICH Q11 (Development and Manufacture of Drug Substances). Wymagania ogólne Podejście oparte na zarządzaniu ryzykiem powinno być stosowane w całym cyklu życia produktu leczniczego. Decyzje dotyczące zakresu i stopnia kwalifikacji i walidacji, jako część systemu zarządzania ryzykiem jakości, powinny być podejmowane w oparciu o uzasadnioną i udokumentowaną ocenę ryzyka obszarów, urządzeń, instalacji wspomagających i procesów. Walidacja retrospektywna nie jest już akceptowalnym podejściem. Dane związane z działaniami kwalifikacyjnymi lub walidacyjnymi uzyskane z innych źródeł niż własne prace walidacyjne wytwórcy mogą być wykorzystane pod warunkiem, że takie podejście zostanie uzasadnione i zapewniono odpowiednią kontrolę w trakcie pozyskiwania danych.
 1.
 Organizacja i planowanie kwalifikacji walidacji
 1.1.
@@ -148,14 +145,11 @@ Formalne dopuszczenie do kolejnego etapu kwalifikacji i walidacji powinno być z
 3.
 Etapy kwalifikacji urządzeń, obszarów, instalacji wspomagających i systemów
 3.1.
-Działania kwalifikacyjne powinny uwzględniać wszystkie etapy, od wstępnego rozwoju specyfikacji wymagań użytkownika aż do zakończenia używania urządzenia, obszaru, instalacji wspomagającej i systemu. Główne etapy i niektóre sugerowane kryteria (chociaż jest to zależne od rodzaju projektu i może się różnić), które mogą być zawarte w każdym etapie, wskazano poniżej:
-Specyfikacja wymagań użytkownika (URS)
+Działania kwalifikacyjne powinny uwzględniać wszystkie etapy, od wstępnego rozwoju specyfikacji wymagań użytkownika aż do zakończenia używania urządzenia, obszaru, instalacji wspomagającej i systemu. Główne etapy i niektóre sugerowane kryteria (chociaż jest to zależne od rodzaju projektu i może się różnić), które mogą być zawarte w każdym etapie, wskazano poniżej: Specyfikacja wymagań użytkownika (URS)
 3.2.
-Wymagania dla urządzeń, obszarów, instalacji wspomagających i systemów powinny być określone w URS lub specyfikacji funkcjonalnej. Zasadnicze wymagania jakościowe powinny być określone na tym etapie, a każde ryzyko dla wymagań Dobrej Praktyki Wytwarzania powinno być zmniejszone do akceptowalnego poziomu. URS powinien być punktem odniesienia podczas całego cyklu życia walidacji.
-Kwalifikacja projektu (DQ)
+Wymagania dla urządzeń, obszarów, instalacji wspomagających i systemów powinny być określone w URS lub specyfikacji funkcjonalnej. Zasadnicze wymagania jakościowe powinny być określone na tym etapie, a każde ryzyko dla wymagań Dobrej Praktyki Wytwarzania powinno być zmniejszone do akceptowalnego poziomu. URS powinien być punktem odniesienia podczas całego cyklu życia walidacji. Kwalifikacja projektu (DQ)
 3.3.
-Kolejnym etapem kwalifikacji urządzeń, obszarów, instalacji wspomagających i systemów jest DQ, w ramach której wykazuje się i dokumentuje zgodność projektu z wymaganiami Dobrej Praktyki Wytwarzania. Wymagania URS powinny być zweryfikowane podczas kwalifikacji projektu.
-Fabryczny Test Akceptacyjny (FAT) i Obiektowy Test Akceptacyjny (SAT)
+Kolejnym etapem kwalifikacji urządzeń, obszarów, instalacji wspomagających i systemów jest DQ, w ramach której wykazuje się i dokumentuje zgodność projektu z wymaganiami Dobrej Praktyki Wytwarzania. Wymagania URS powinny być zweryfikowane podczas kwalifikacji projektu. Fabryczny Test Akceptacyjny (FAT) i Obiektowy Test Akceptacyjny (SAT)
 3.4.
 Urządzenia przed ich dostarczeniem do wytwórni mogą być ocenione u producenta urządzenia (zwłaszcza w przypadku wprowadzania urządzeń do nowych lub skomplikowanych technologii).
 3.5.
@@ -163,8 +157,7 @@ Przed instalacją powinna być potwierdzona zgodność urządzenia z URS lub spe
 3.6.
 Jeżeli to właściwe i ma uzasadnienie, przegląd dokumentacji i wykonanie niektórych testów mogą być wykonane na etapie FAT lub na innych etapach, bez konieczności ich powtarzania na etapie IQ i OQ w miejscu wytwarzania, jeżeli można wykazać, że transport i montaż nie mają wpływu na przetestowaną funkcjonalność.
 3.7.
-Testy FAT mogą być uzupełnione przez testy SAT po dostarczeniu urządzenia do miejsca wytwarzania.
-Kwalifikacja instalacyjna (IQ)
+Testy FAT mogą być uzupełnione przez testy SAT po dostarczeniu urządzenia do miejsca wytwarzania. Kwalifikacja instalacyjna (IQ)
 3.8.
 IQ powinna być wykonywana dla urządzeń, obszarów, instalacji wspomagających i systemów.
 3.9.
@@ -178,8 +171,7 @@ skompletowanie i weryfikację przekazanych przez dostawcę instrukcji obsługi i
 4)
 kalibrację przyrządów;
 5)
-weryfikację materiałów konstrukcyjnych.
-Kwalifikacja operacyjna (OQ)
+weryfikację materiałów konstrukcyjnych. Kwalifikacja operacyjna (OQ)
 3.10.
 OQ zazwyczaj jest przeprowadzona po kwalifikacji instalacyjnej, ale zależnie od złożoności wyposażenia może ona być przeprowadzona jako łączna IQ i OQ.
 3.11.
@@ -189,8 +181,7 @@ opracowane na podstawie znajomości procesów, systemów i urządzeń w celu pot
 2)
 potwierdzające dolne i górne limity parametrów operacyjnych lub warunki najgorszego przypadku.
 3.12.
-Pozytywne zakończenie OQ powinno pozwolić na opracowanie procedur użytkowania i czyszczenia, przeprowadzenie szkolenia pracowników oraz na określenie wymagań konserwacji zapobiegawczej.
-Kwalifikacja procesowa (PQ)
+Pozytywne zakończenie OQ powinno pozwolić na opracowanie procedur użytkowania i czyszczenia, przeprowadzenie szkolenia pracowników oraz na określenie wymagań konserwacji zapobiegawczej. Kwalifikacja procesowa (PQ)
 3.13.
 PQ zazwyczaj jest wykonywana po pozytywnym zakończeniu IQ i OQ; w niektórych przypadkach można ją przeprowadzić łącznie z OQ lub walidacją procesu.
 3.14.
@@ -240,13 +231,11 @@ Strategia kontroli procesu jest oparta na znajomości procesów uzasadniających
 5.14.
 Strategia zwalniania serii walidacyjnych do obrotu powinna być ustalona wcześniej. Warunki, w jakich te serie będą wytwarzane, powinny być w pełni zgodne z wymaganiami Dobrej Praktyki Wytwarzania, kryteriami akceptacji walidacji, kryteriami ciągłej weryfikacji procesu, jeżeli są stosowane, oraz powinny być zgodne z pozwoleniem na dopuszczenie do obrotu lub pozwoleniem na prowadzenie badań klinicznych.
 5.15.
-Walidacja procesowa badanych produktów leczniczych jest opisana w Aneksie 13 niniejszego załącznika.
-Walidacja równoczesna
+Walidacja procesowa badanych produktów leczniczych jest opisana w Aneksie 13 niniejszego załącznika. Walidacja równoczesna
 5.16.
 W przypadku wystąpienia istotnego stosunku korzyści do ryzyka dla pacjenta dopuszcza się rozpoczęcie rutynowej produkcji i zastosowanie walidacji równoczesnej przed zakończeniem programu walidacji; decyzja o przeprowadzeniu walidacji równoczesnej musi być uzasadniona, udokumentowana w GPW i zatwierdzona przez uprawniony personel.
 5.17.
-Jeżeli jest stosowana walidacja równoczesna, powinny być dostępne niezbędne dane, służące za podstawę do wykazania, że każda seria produktu jest jednorodna i spełnia określone kryteria akceptacji. Wyniki i wnioski powinny być formalnie udokumentowane i dostępne dla Osoby Wykwalifikowanej przed certyfikacją serii.
-Tradycyjna walidacja procesu
+Jeżeli jest stosowana walidacja równoczesna, powinny być dostępne niezbędne dane, służące za podstawę do wykazania, że każda seria produktu jest jednorodna i spełnia określone kryteria akceptacji. Wyniki i wnioski powinny być formalnie udokumentowane i dostępne dla Osoby Wykwalifikowanej przed certyfikacją serii. Tradycyjna walidacja procesu
 5.18.
 W podejściu tradycyjnym w celu potwierdzenia powtarzalności procesu określona liczba serii końcowego produktu leczniczego jest wytwarzana w rutynowych warunkach.
 5.19.
@@ -280,20 +269,17 @@ plan poboru prób i jego uzasadnienie;
 11)
 metody rejestracji i oceny wyników;
 12)
-opis procesu certyfikacji i zwalniania serii, jeżeli ma zastosowanie.
-Ciągła weryfikacja procesu
+opis procesu certyfikacji i zwalniania serii, jeżeli ma zastosowanie. Ciągła weryfikacja procesu
 5.23.
 Ciągła weryfikacja procesu może być zastosowana jako alternatywa dla tradycyjnej walidacji procesu w przypadku produktów opracowanych zgodnie z koncepcją Jakość przez Projekt (Quality by Design) – metodyczne podejście kładące nacisk na zrozumienie produktu, procesu i kontroli procesu, rozpoczynające się od zdefiniowania założeń, oparte na podstawach naukowych oraz Zarządzaniu Ryzykiem Jakości, jeżeli na etapie rozwoju dowiedziono naukowo, że ustalona strategia kontroli daje wysoki poziom pewności jakości produktu.
 5.24.
 Należy określić metodę stosowaną do weryfikacji procesu. Powinna być stosowana naukowo uzasadniona strategia kontroli wymaganych parametrów materiałów wyjściowych, krytycznych cech jakościowych i krytycznych parametrów procesu, aby potwierdzić wytworzenie odpowiedniego produktu. Strategia kontroli powinna być regularnie oceniana. Jako narzędzia mogą być używane: Technologia Analizy Procesu (PAT – Proces Analytica Technology) i Wieloczynnikowe Statystyczne Sterowanie Procesem (MSPC – Multivariate Statistical Process Control). Każdy wytwórca musi określić i uzasadnić liczbę serii niezbędną do wykazania, z wysokim poziomem pewności, że proces w sposób powtarzalny prowadzi do otrzymania produktu o określonej jakości.
 5.25.
-Przy dokonywaniu ciągłej weryfikacji procesu są stosowane także ogólne zasady zawarte w pkt 5.1–5.14.
-Podejście hybrydowe
+Przy dokonywaniu ciągłej weryfikacji procesu są stosowane także ogólne zasady zawarte w pkt 5.1–5.14. Podejście hybrydowe
 5.26.
 Jeżeli jest wystarczająca wiedza o produkcie i procesie oraz ich zrozumienie wynikające z doświadczenia uzyskanego podczas wytwarzania i z wcześniejszych danych, to można zastosować połączenie podejścia tradycyjnego oraz ciągłej weryfikacji procesu, tzw. podejście hybrydowe.
 5.27.
-Podejście hybrydowe może być też zastosowane do walidacji po zmianach lub okresowej weryfikacji bieżącego procesu, mimo że produkt początkowo był zwalidowany tradycyjnie.
-Okresowa weryfikacja bieżącego procesu podczas cyklu życia
+Podejście hybrydowe może być też zastosowane do walidacji po zmianach lub okresowej weryfikacji bieżącego procesu, mimo że produkt początkowo był zwalidowany tradycyjnie. Okresowa weryfikacja bieżącego procesu podczas cyklu życia
 5.28.
 Przepisy pkt 5.29–5.32 dotyczą wszystkich trzech metod podejścia do walidacji procesu: tradycyjnej, ciągłej i hybrydowej.
 5.29.
@@ -387,22 +373,19 @@ Zmiany powinny być autoryzowane i zatwierdzane przez osoby odpowiedzialne lub p
 11.6.
 Wszystkie dane dotyczące zmiany, jak np. kopie dokumentów, powinny być przeglądane w celu potwierdzenia, że został wykazany wpływ zmiany przed jej końcowym zatwierdzeniem.
 11.7.
-Po wprowadzeniu zmiany oraz gdy to jest konieczne, należy ocenić jej skuteczność w celu potwierdzenia pomyślnego wdrożenia zmiany.
-ANEKS 16 CERTYFIKACJA PRZEZ OSOBĘ WYKWALIFIKOWANĄ I ZWALNIANIE SERII Użyte w Aneksie 16 określenia oznaczają:
+Po wprowadzeniu zmiany oraz gdy to jest konieczne, należy ocenić jej skuteczność w celu potwierdzenia pomyślnego wdrożenia zmiany. ANEKS 16 CERTYFIKACJA PRZEZ OSOBĘ WYKWALIFIKOWANĄ I ZWALNIANIE SERII Użyte w Aneksie 16 określenia oznaczają:
 1)
 certyfikacja serii (zwolnienie jakościowe) – czynności poświadczające dokonywane przez Osobę Wykwalifikowaną, przed zwolnieniem serii końcowego produktu leczniczego do obrotu lub na eksport, potwierdzające, że seria spełnia wymagania określone w art. 48 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;
 2)
 importer produktu leczniczego – podmiot, który zajmuje się importem produktów leczniczych;
 3)
-potwierdzenie – podpisane przez Osobę Wykwalifikowaną oświadczenie, że proces lub badanie zostały przeprowadzone zgodnie z wymaganiami Dobrej Praktyki Wytwarzania oraz odpowiednim pozwoleniem i dokumentacją dotyczącymi wprowadzenia do obrotu produktu leczniczego albo warunkami, na podstawie których zostało wydane pozwolenie na prowadzenie badania klinicznego, ustalonymi w pisemnej umowie z Osobą Wykwalifikowaną odpowiedzialną za certyfikację serii końcowego produktu leczniczego przed jej zwolnieniem. Osoba Wykwalifikowana poświadczająca dany etap wytwarzania bierze odpowiedzialność za potwierdzone przez siebie działania.
-Zakres Wymagania niniejszego Aneksu dotyczą certyfikacji przez Osobę Wykwalifikowaną i zwolnienia serii w Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym produktów leczniczych stosowanych u ludzi lub produktów leczniczych weterynaryjnych, posiadających pozwolenie na dopuszczenie do obrotu lub wytworzonych na eksport. Mają również zastosowanie do badanych produktów leczniczych, z zastrzeżeniem różnic w przepisach prawnych oraz bardziej szczegółowych wytycznych opublikowanych przez Komisję Europejską. Aneks ten nie odnosi się do kontroli seryjnej wstępnej produktów leczniczych krwiopochodnych i immunologicznych, wykonywanej przez instytuty badawcze oraz laboratoria kontroli jakości leków. Jednak wymagania niniejszego Aneksu mają zastosowanie do procesu zwalniania serii tych produktów. Podstawowe wymagania do zwolnienia serii produktu końcowego są określone w pozwoleniu i dokumentacji dotyczącej wprowadzania do obrotu produktu leczniczego. Żadne wymagania zawarte w tym Aneksie nie powinny być traktowane jako nadrzędne w stosunku do tych wymagań. Wymagania ogólne Ostateczna odpowiedzialność za działanie produktu leczniczego, jego bezpieczeństwo, jakość i skuteczność, w całym okresie ważności, spoczywa na posiadaczu pozwolenia na dopuszczenie do obrotu, zgodnie z art. 36g ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. Odpowiedzialność Osoby Wykwalifikowanej wynika z art. 48 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. Proces zwalniania składa się z następujących etapów:
+potwierdzenie – podpisane przez Osobę Wykwalifikowaną oświadczenie, że proces lub badanie zostały przeprowadzone zgodnie z wymaganiami Dobrej Praktyki Wytwarzania oraz odpowiednim pozwoleniem i dokumentacją dotyczącymi wprowadzenia do obrotu produktu leczniczego albo warunkami, na podstawie których zostało wydane pozwolenie na prowadzenie badania klinicznego, ustalonymi w pisemnej umowie z Osobą Wykwalifikowaną odpowiedzialną za certyfikację serii końcowego produktu leczniczego przed jej zwolnieniem. Osoba Wykwalifikowana poświadczająca dany etap wytwarzania bierze odpowiedzialność za potwierdzone przez siebie działania. Zakres Wymagania niniejszego Aneksu dotyczą certyfikacji przez Osobę Wykwalifikowaną i zwolnienia serii w Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym produktów leczniczych stosowanych u ludzi lub produktów leczniczych weterynaryjnych, posiadających pozwolenie na dopuszczenie do obrotu lub wytworzonych na eksport. Mają również zastosowanie do badanych produktów leczniczych, z zastrzeżeniem różnic w przepisach prawnych oraz bardziej szczegółowych wytycznych opublikowanych przez Komisję Europejską. Aneks ten nie odnosi się do kontroli seryjnej wstępnej produktów leczniczych krwiopochodnych i immunologicznych, wykonywanej przez instytuty badawcze oraz laboratoria kontroli jakości leków. Jednak wymagania niniejszego Aneksu mają zastosowanie do procesu zwalniania serii tych produktów. Podstawowe wymagania do zwolnienia serii produktu końcowego są określone w pozwoleniu i dokumentacji dotyczącej wprowadzania do obrotu produktu leczniczego. Żadne wymagania zawarte w tym Aneksie nie powinny być traktowane jako nadrzędne w stosunku do tych wymagań. Wymagania ogólne Ostateczna odpowiedzialność za działanie produktu leczniczego, jego bezpieczeństwo, jakość i skuteczność, w całym okresie ważności, spoczywa na posiadaczu pozwolenia na dopuszczenie do obrotu, zgodnie z art. 36g ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. Odpowiedzialność Osoby Wykwalifikowanej wynika z art. 48 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. Proces zwalniania składa się z następujących etapów:
 1)
 sprawdzenia procesu wytwarzania i badań serii zgodnie z określonymi procedurami zwalniania;
 2)
 certyfikacji serii produktu końcowego, przeprowadzonej przez Osobę Wykwalifikowaną, która poświadcza, czy dana seria jest zgodna z wymaganiami Dobrej Praktyki Wytwarzania i pozwoleniem na dopuszczenie do obrotu. Etap ten stanowi zwolnienie jakościowe produktu;
 3)
-przesunięcia serii produktu końcowego do puli serii produktów leczniczych przeznaczonych do sprzedaży albo na eksport, na podstawie certyfikacji wykonanej przez Osobę Wykwalifikowaną. Jeżeli seria jest przewożona do innego miejsca wytwarzania niż miejsce certyfikacji, to ustalenia dotyczące procesu zwalniania powinny być opisane w umowie o wytwarzanie lub procedurach Farmaceutycznego Systemu Jakości.
-Celem kontroli podczas zwalniania serii jest zapewnienie, że:
+przesunięcia serii produktu końcowego do puli serii produktów leczniczych przeznaczonych do sprzedaży albo na eksport, na podstawie certyfikacji wykonanej przez Osobę Wykwalifikowaną. Jeżeli seria jest przewożona do innego miejsca wytwarzania niż miejsce certyfikacji, to ustalenia dotyczące procesu zwalniania powinny być opisane w umowie o wytwarzanie lub procedurach Farmaceutycznego Systemu Jakości. Celem kontroli podczas zwalniania serii jest zapewnienie, że:
 1)
 seria została wyprodukowana i poddana kontroli zgodnie z wymaganiami określonymi w pozwoleniu i dokumentacji dotyczącej wprowadzania do obrotu produktu leczniczego;
 2)
@@ -562,8 +545,7 @@ ocenę potencjalnego wpływu odchylenia na jakość, bezpieczeństwo lub skutecz
 2)
 ocenę dotyczącą konieczności włączenia serii do programu ciągłego badania stabilności;
 3)
-analizę, czy wszelkie odchylenia od zatwierdzonego procesu mogą mieć nieoczekiwany wpływ na bezpieczeństwo i skuteczność biologicznych produktów leczniczych.
-Biorąc pod uwagę, że odpowiedzialności mogą być rozdzielone między więcej niż jedną Osobę Wykwalifikowaną, zaangażowaną w wytwarzanie lub kontrolę serii, Osoba Wykwalifikowana certyfikująca serię produktu końcowego powinna posiadać wiedzę i brać pod uwagę wszystkie odchylenia, które mogą mieć potencjalny wpływ na zgodność serii z wymaganiami Dobrej Praktyki Wytwarzania lub pozwoleniem i dokumentacją dotyczącą wprowadzania do obrotu produktu leczniczego.
+analizę, czy wszelkie odchylenia od zatwierdzonego procesu mogą mieć nieoczekiwany wpływ na bezpieczeństwo i skuteczność biologicznych produktów leczniczych. Biorąc pod uwagę, że odpowiedzialności mogą być rozdzielone między więcej niż jedną Osobę Wykwalifikowaną, zaangażowaną w wytwarzanie lub kontrolę serii, Osoba Wykwalifikowana certyfikująca serię produktu końcowego powinna posiadać wiedzę i brać pod uwagę wszystkie odchylenia, które mogą mieć potencjalny wpływ na zgodność serii z wymaganiami Dobrej Praktyki Wytwarzania lub pozwoleniem i dokumentacją dotyczącą wprowadzania do obrotu produktu leczniczego.
 4.
 Zwolnienie serii
 4.1.
@@ -571,8 +553,7 @@ Serie produktów leczniczych powinny być zwolnione do obrotu wyłącznie po cer
 4.2.
 Należy wdrożyć rozwiązania zapewniające, że serie końcowych produktów leczniczych, które nie zostały certyfikowane przez Osobę Wykwalifikowaną, nie zostaną zwolnione do obrotu lub na eksport. Mogą to być zabezpieczenia fizyczne, np. fizyczne rozdzielenie serii i użycie etykiet albo elektroniczne rozdzielenie, m.in. przy zastosowaniu zwalidowanych systemów skomputeryzowanych. W przypadku gdy serie, które nie przeszły końcowej certyfikacji, są przewożone z jednego miejsca wytwarzania do innego, powinny zostać zastosowane rozwiązania zapobiegające przedwczesnemu zwolnieniu serii do obrotu.
 4.3.
-Sposób powiadamiania miejsca wytwarzania, w którym seria będzie zwolniona do sprzedaży, o certyfikacji serii produktu końcowego przez Osobę Wykwalifikowaną powinien zostać opisany w umowie technicznej. Powyższe powiadomienie powinno zostać przekazane przez Osobę Wykwalifikowaną w sposób formalny i jednoznaczny oraz zgodnie z wymaganiami rozdziału 4 załącznika nr 2 do rozporządzenia.
-Dodatek I: „Potwierdzenie etapu wytwarzania produktu leczniczego” (dokument sporządzany na papierze firmowym z danymi teleadresowymi wytwórcy, który przeprowadził etap wytwarzania)
+Sposób powiadamiania miejsca wytwarzania, w którym seria będzie zwolniona do sprzedaży, o certyfikacji serii produktu końcowego przez Osobę Wykwalifikowaną powinien zostać opisany w umowie technicznej. Powyższe powiadomienie powinno zostać przekazane przez Osobę Wykwalifikowaną w sposób formalny i jednoznaczny oraz zgodnie z wymaganiami rozdziału 4 załącznika nr 2 do rozporządzenia. Dodatek I: „Potwierdzenie etapu wytwarzania produktu leczniczego” (dokument sporządzany na papierze firmowym z danymi teleadresowymi wytwórcy, który przeprowadził etap wytwarzania)
 1.
 Nazwa produktu i opis etapu wytwarzania (np. Paracetamol 500 mg, tabletki, opakowanie bezpośrednie, blistry).
 2.
@@ -588,8 +569,7 @@ Imię i nazwisko Osoby Wykwalifikowanej potwierdzającej dany etap wytwarzania.
 7.
 Podpis Osoby Wykwalifikowanej potwierdzającej dany etap wytwarzania.
 8.
-Data złożenia podpisu.
-Dodatek II: „Certyfikat serii końcowego produktu leczniczego” (dokument sporządzany na papierze firmowym z danymi teleadresowymi wytwórcy, który przeprowadził certyfikację i zwalnianie serii)
+Data złożenia podpisu. Dodatek II: „Certyfikat serii końcowego produktu leczniczego” (dokument sporządzany na papierze firmowym z danymi teleadresowymi wytwórcy, który przeprowadził certyfikację i zwalnianie serii)
 1.
 Nazwa produktu, postać farmaceutyczna, moc/aktywność substancji czynnej oraz wielkość opakowania (dane zgodne z tekstem na opakowaniu końcowego produktu leczniczego).
 2.

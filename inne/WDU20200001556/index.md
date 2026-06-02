@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 3 września 2020 r. w sprawie wykazu świadczeń opieki zdrowotnej wymagających uprzedniej zgody Prezesa Narodowego Funduszu Zdrowia
+# Rozporządzenie Ministra Zdrowiaz dnia 3 września 2020 r. w sprawie wykazu świadczeń opieki zdrowotnej wymagających uprzedniej zgody Prezesa Narodowego Funduszu Zdrowia Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-03 |
 | Data wydania | 2020-09-10 |
-| Wejście w życie | 2020-09-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001556) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1556/text.pdf) |
 
@@ -35,8 +34,7 @@ Wykaz świadczeń opieki zdrowotnej, w przypadku których zwrot kosztów, o któ
 § 2.
 Traci moc rozporządzenie Ministra Zdrowia z dnia 4 listopada 2014 r. w sprawie wykazu świadczeń opieki zdrowotnej wymagających uprzedniej zgody dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia (Dz. U. poz. 1545).
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 Załącznik – Wykaz świadczeń opieki zdrowotnej, w przypadku których zwrot kosztów, o którym mowa w art. 42b ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, wymaga uprzedniej zgody Prezesa Narodowego Funduszu Zdrowia:
 1)
 świadczenia opieki zdrowotnej wymagające pozostania pacjenta w szpitalu co najmniej do dnia następnego, bez względu na rodzaj udzielanych świadczeń;

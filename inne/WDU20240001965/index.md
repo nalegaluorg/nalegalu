@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 6 grudnia 2024 r. o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw
+# Ustawa z dnia 6 grudnia 2024 r. o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny oraz ustawę z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-06 |
 | Data wydania | 2024-12-30 |
-| Wejście w życie | 2025-02-01 |
 | Ostatnia zmiana | 2025-01-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001965) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1965/text.pdf) |
 
@@ -61,7 +60,7 @@ source: "eli-html"
 1. W sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy w placówkach handlowych:
 
 - **1)** handel oraz wykonywanie czynności związanych z handlem,
-- **2)** powierzanie pracownikowi lub zatrudnionemu wykonywania pracy w handlu oraz wykonywania czynności związanych z handlem po godzinie 14.00 są zakazane, z wyjątkiem przypadków określonych w art. 6. ” , uchyla się ust. 3;
+- **2)** powierzanie pracownikowi lub zatrudnionemu wykonywania pracy w handlu oraz wykonywania czynności związanych z handlem – po godzinie 14.00 są zakazane, z wyjątkiem przypadków określonych w art. 6. ” , uchyla się ust. 3;
     - **b)**
 
 - **6)** w art. 9 ust. 1 otrzymuje brzmienie: „
@@ -71,5 +70,5 @@ source: "eli-html"
 - **7)** w art. 10 w ust. 2 pkt 1 otrzymuje brzmienie: „
 - **1)** wbrew zakazowi handlu oraz wykonywania czynności związanych z handlem po godzinie 14.00 w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy, powierza pracownikowi lub zatrudnionemu wykonywanie pracy w handlu lub wykonywanie czynności związanych z handlem; ” .
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 lutego 2025 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 lutego 2025 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny oraz ustawę z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni.
 

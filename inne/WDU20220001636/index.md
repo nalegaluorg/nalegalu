@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 2 sierpnia 2022 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu ósmoklasisty
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 2 sierpnia 2022 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu ósmoklasisty Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-02 |
 | Data wydania | 2022-08-04 |
-| Wejście w życie | 2022-08-05 |
 | Ostatnia zmiana | 2025-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1636/text.pdf) |
 
@@ -50,8 +49,7 @@ harmonogramu przeprowadzania egzaminu ósmoklasisty w terminie głównym i termi
 2)
 materiałów i przyborów pomocniczych, z których można korzystać na egzaminie ósmoklasisty, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie ustawy,
 3)
-szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy
-jest ogłaszany nie później niż do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin ósmoklasisty.
+szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie ustawy – jest ogłaszany nie później niż do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin ósmoklasisty.
 § 6.
 Informacja o sposobie organizacji i przeprowadzania egzaminu ósmoklasisty, o której mowa w art. 9a ust. 2 pkt 10 lit. b ustawy, jest ogłaszana nie później niż do dnia 20 sierpnia roku szkolnego poprzedzającego rok szkolny, w którym jest przeprowadzany egzamin ósmoklasisty.
 § 7.
@@ -358,6 +356,5 @@ Dyrektor szkoły umożliwia osobom upoważnionym przez dyrektora Centralnej Komi
 § 29.
 Opinie poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, o specyficznych trudnościach w uczeniu się wydane na podstawie § 4 rozporządzenia Ministra Edukacji Narodowej z dnia 10 czerwca 2015 r. w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych (Dz. U. poz. 843, z 2016 r. poz. 1278, z 2017 r. poz. 1651 oraz z 2019 r. poz. 372) zachowują ważność i mogą być podstawą dostosowania warunków przeprowadzania egzaminu ósmoklasisty, o którym mowa w art. 44zzr ust. 5 ustawy.
 § 30.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 1 sierpnia 2017 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu ósmoklasisty (Dz. U. z 2020 r. poz. 1361), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 40 pkt 1 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 1 sierpnia 2017 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu ósmoklasisty (Dz. U. z 2020 r. poz. 1361), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 40 pkt 1 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116). 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 1 sierpnia 2017 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu ósmoklasisty (Dz. U. z 2020 r. poz. 1361), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 40 pkt 1 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116).
 

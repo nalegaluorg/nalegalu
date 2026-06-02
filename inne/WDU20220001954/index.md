@@ -34,23 +34,20 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 4 grudnia 2014 r. w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej (Dz. U. poz. 1803), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 30 lipca 2021 r. zmieniającym rozporządzenie w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej (Dz. U. poz. 1430).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 30 lipca 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej (Dz. U. poz. 1430), które stanowią: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2017/2455 z dnia 5 grudnia 2017 r. zmieniającą dyrektywę 2006/112/WE i dyrektywę 2009/132/WE w odniesieniu do niektórych obowiązków wynikających z podatku od wartości dodanej w przypadku świadczenia usług i sprzedaży towarów na odległość (Dz. Urz. UE L 348 z 29.12.2017, str. 7, Dz. Urz. UE L 125 z 22.05.2018, str. 15, Dz. Urz. UE L 225 z 06.09.2018, str. 1, Dz. Urz. UE L 245 z 25.09.2019, str. 9 oraz Dz. Urz. UE L 244 z 29.07.2020, str. 3). ”
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 30 lipca 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej (Dz. U. poz. 1430), które stanowią: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2017/2455 z dnia 5 grudnia 2017 r. zmieniającą dyrektywę 2006/112/WE i dyrektywę 2009/132/WE w odniesieniu do niektórych obowiązków wynikających z podatku od wartości dodanej w przypadku świadczenia usług i sprzedaży towarów na odległość (Dz. Urz. UE L 348 z 29.12.2017, str. 7, Dz. Urz. UE L 125 z 22.05.2018, str. 15, Dz. Urz. UE L 225 z 06.09.2018, str. 1, Dz. Urz. UE L 245 z 25.09.2019, str. 9 oraz Dz. Urz. UE L 244 z 29.07.2020, str. 3). ” „
 § 2.
 1.
 Do wniosków o zwrot podatku od wartości dodanej, o których mowa w art. 89 ust. 1h ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, dotyczących wyłącznie:
 1)
 towarów i usług nabytych w roku podatkowym 2020 albo w okresie od dnia 1 stycznia 2021 r. do dnia 30 czerwca 2021 r. lub
 2)
-towarów zaimportowanych w roku podatkowym albo w okresie, o którym mowa w pkt 1
-stosuje się przepisy dotychczasowe.
+towarów zaimportowanych w roku podatkowym albo w okresie, o którym mowa w pkt 1 – stosuje się przepisy dotychczasowe.
 2.
 Przepis ust. 1 stosuje się odpowiednio do korekty wniosków, o których mowa w ust. 1.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2021 r.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 4 grudnia 2014 r. w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej
-Na podstawie art. 89 ust. 8 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137, 1301, 1488 i 1561) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2021 r. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 4 grudnia 2014 r. w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii EuropejskiejMinister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Niniejsze rozporządzenie dokonuje w zakresie swej regulacji wdrożenia dyrektywy Rady 2008/8/WE z dnia 12 lutego 2008 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do miejsca świadczenia usług (Dz. Urz. UE L 44 z 20.02.2008, str. 11) oraz dyrektywy Rady 2008/9/WE z dnia 12 lutego 2008 r. określającej szczegółowe zasady zwrotu podatku od wartości dodanej, przewidzianego w dyrektywie 2006/112/WE, podatnikom niemającym siedziby w państwie członkowskim zwrotu, lecz mającym siedzibę w innym państwie członkowskim (Dz. Urz. UE L 44 z 20.02.2008, str. 23, z późn. zm.). Na podstawie art. 89 ust. 8 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137, 1301, 1488 i 1561) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa informacje, jakie powinien zawierać wniosek podatnika, o którym mowa w art. 15 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, zwany dalej „wnioskiem”, ubiegającego się o zwrot podatku od wartości dodanej w odniesieniu do nabytych przez niego towarów i usług lub w odniesieniu do zaimportowanych przez niego towarów wykorzystywanych do wykonywania czynności dających prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego na terytorium kraju oraz sposób opisu niektórych informacji, warunki i termin składania wniosków.
 § 2.
@@ -67,10 +64,9 @@ Do wniosków za 2014 r. składanych przez podatników stosuje się przepisy doty
 § 4.
 Traci moc rozporządzenie Ministra Finansów z dnia 24 grudnia 2009 r. w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Wspólnoty Europejskiej (Dz. U. poz. 1800 oraz z 2010 r. poz. 1556).
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie dokonuje w zakresie swej regulacji wdrożenia dyrektywy Rady 2008/8/WE z dnia 12 lutego 2008 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do miejsca świadczenia usług (Dz. Urz. UE L 44 z 20.02.2008, str. 11) oraz dyrektywy Rady 2008/9/WE z dnia 12 lutego 2008 r. określającej szczegółowe zasady zwrotu podatku od wartości dodanej, przewidzianego w dyrektywie 2006/112/WE, podatnikom niemającym siedziby w państwie członkowskim zwrotu, lecz mającym siedzibę w innym państwie członkowskim (Dz. Urz. UE L 44 z 20.02.2008, str. 23, z późn. zm.).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie dokonuje w zakresie swej regulacji wdrożenia dyrektywy Rady 2008/8/WE z dnia 12 lutego 2008 r. zmieniającej dyrektywę 2006/112/WE w odniesieniu do miejsca świadczenia usług (Dz. Urz. UE L 44 z 20.02.2008, str. 11) oraz dyrektywy Rady 2008/9/WE z dnia 12 lutego 2008 r. określającej szczegółowe zasady zwrotu podatku od wartości dodanej, przewidzianego w dyrektywie 2006/112/WE, podatnikom niemającym siedziby w państwie członkowskim zwrotu, lecz mającym siedzibę w innym państwie członkowskim (Dz. Urz. UE L 44 z 20.02.2008, str. 23, z późn. zm.).
 
-## Załącznik nr 1 — – Informacje, jakie powinien zawierać wniosek o zwrot podatku od wartości dodanej, oraz sposób opisu niektórych informacji3a) Rozporządzenie wykonawcze Komisji (UE) nr 79/2012 z dnia 31 stycznia 2012 r. ustanawiające szczegółowe zasady wykonywania niektórych przepisów rozporządzenia Rady (UE) nr 904/2010 w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 29 z 01.02.2012, str. 13, z późn. zm.).
+## Załącznik nr 1 — – Informacje, jakie powinien zawierać wniosek o zwrot podatku od wartości dodanej, oraz sposób opisu niektórych informacji3a)Rozporządzenie wykonawcze Komisji (UE) nr 79/2012 z dnia 31 stycznia 2012 r. ustanawiające szczegółowe zasady wykonywania niektórych przepisów rozporządzenia Rady (UE) nr 904/2010 w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 29 z 01.02.2012, str. 13, z późn. zm.).
 
 1.
 Urząd skarbowy, za pośrednictwem którego przekazywany jest wniosek.
@@ -101,7 +97,7 @@ adres poczty elektronicznej;
 5)
 Numer Identyfikacji Podatkowej podatnika.
 6.
-Dane dotyczące pełnomocnika (reprezentanta):
+Dane dotyczące pełnomocnika (reprezentanta)Pozycję 6 wypełnia się, jeśli podatnik ustanowił pełnomocnika.:
 1)
 imię i nazwisko;
 2)
@@ -111,7 +107,7 @@ adres poczty elektronicznej;
 4)
 numer identyfikacyjny.
 7.
-Rodzaj prowadzonej działalności – wskazanie czwartego poziomu kodów NACE Rev. 2, zgodnie z art. 2 ust. 1 lit. d rozporządzenia nr 1893/2006, na podstawie art. 9 rozporządzenia nr 79/2012 lub opis tekstowy.
+Rodzaj prowadzonej działalności – wskazanie czwartego poziomu kodów NACE Rev. 2, zgodnie z art. 2 ust. 1 lit. d rozporządzenia nr 1893/2006Rozporządzenie (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniające rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm.)., na podstawie art. 9 rozporządzenia nr 79/2012W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 30 lipca 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej (Dz. U. poz. 1430), które weszło w życie z mocą od dnia 1 lipca 2021 r. lub opis tekstowy.
 8.
 Okres, do którego odnosi się wniosek:
 1)
@@ -129,7 +125,7 @@ sprzedaży na odległość towarów importowanych rozliczanej według procedury 
 4)
 dostaw towarów lub świadczenia usług na rzecz osoby zobowiązanej do zapłaty podatku od wartości dodanej zgodnie z przepisami państwa członkowskiego zwrotu implementującymi przepisy art. 194–197 i art. 199 dyrektywy 2006/112/WE.
 10.
-Dane dotyczące rachunku bankowego, na który ma być dokonany zwrot podatku od wartości dodanej:
+Dane dotyczące rachunku bankowego, na który ma być dokonany zwrot podatku od wartości dodanejW przypadku gdy podatnik ustanowił pełnomocnika – możliwa opcja wskazania rachunku wnioskodawcy/pełnomocnika (reprezentanta).:
 1)
 numer IBAN, o którym mowa w przepisach prawa bankowego;
 2)
@@ -145,37 +141,37 @@ adres i kraj sprzedawcy towarów;
 3)
 data i numer dokumentu celnego;
 4)
-rodzaj towarów według kodów i podkodów, o których mowa w załączniku do rozporządzenia nr 79/2012, lub według opisu tekstowego;
+rodzaj towarów według kodów i podkodów, o których mowa w załączniku do rozporządzenia nr 79/2012W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 30 lipca 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej (Dz. U. poz. 1430), które weszło w życie z mocą od dnia 1 lipca 2021 r., lub według opisu tekstowego;
 5)
 podstawa opodatkowania w walucie państwa członkowskiego zwrotu;
 6)
 kwota podatku od wartości dodanej w walucie państwa członkowskiego zwrotu;
 7)
-obliczenie podatku od wartości dodanej w przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy – wysokość proporcji (w %);
+obliczenie podatku od wartości dodanej w przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawyUstawa z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.). – wysokość proporcji (w %);
 8)
-kwota podatku od wartości dodanej do zwrotu.
+kwota podatku od wartości dodanej do zwrotuW przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, kwota zwrotu powinna być obliczona z uwzględnieniem tej proporcji..
 12.
 Informacje dotyczące nabytych towarów i usług:
 1)
 imię i nazwisko/nazwa dostawcy towarów lub usług;
 2)
-numer rejestracyjny VAT dostawcy;
+numer rejestracyjny VAT dostawcyW przypadku Niemiec możliwe jest podanie numeru rejestracji podatkowej.W przypadku faktury uproszczonej nie ma konieczności podawania numeru rejestracyjnego VAT dostawcy.;
 3)
 adres i kraj dostawcy towarów lub usług;
 4)
 data i numer faktury;
 5)
-rodzaj towarów i usług według kodów i podkodów, o których mowa w załączniku do rozporządzenia nr 79/2012, lub według opisu tekstowego;
+rodzaj towarów i usług według kodów i podkodów, o których mowa w załączniku do rozporządzenia nr 79/2012W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 30 lipca 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej (Dz. U. poz. 1430), które weszło w życie z mocą od dnia 1 lipca 2021 r., lub według opisu tekstowego;
 6)
 podstawa opodatkowania w walucie państwa członkowskiego zwrotu;
 7)
 kwota podatku od wartości dodanej w walucie państwa członkowskiego zwrotu;
 8)
-obliczenie podatku od wartości dodanej w przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy – wysokość proporcji (w %);
+obliczenie podatku od wartości dodanej w przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawyUstawa z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.). – wysokość proporcji (w %);
 9)
-kwota podatku od wartości dodanej do zwrotu.
+kwota podatku od wartości dodanej do zwrotuW przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, kwota zwrotu powinna być obliczona z uwzględnieniem tej proporcji..
 13.
-Zmiana proporcji, o której mowa w art. 89 ust. 1l ustawy:
+Zmiana proporcji, o której mowa w art. 89 ust. 1l ustawyUstawa z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.).:
 1)
 okres, do którego odnosi się zmiana:
 a)
@@ -189,6 +185,5 @@ Informacja o załącznikach, jeśli są wymagane – typ i nazwa pliku oraz opis
 15.
 Informacja o wyrażeniu zgody przez podatnika/pełnomocnika (reprezentanta) podatnika na otrzymywanie pism (informacji) w sprawie wniosku za pomocą środków komunikacji elektronicznej, na podany we wniosku adres poczty elektronicznej.
 16.
-Data wypełnienia wniosku.
-3a) Rozporządzenie wykonawcze Komisji (UE) nr 79/2012 z dnia 31 stycznia 2012 r. ustanawiające szczegółowe zasady wykonywania niektórych przepisów rozporządzenia Rady (UE) nr 904/2010 w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 29 z 01.02.2012, str. 13, z późn. zm.). 1) Pozycję 6 wypełnia się, jeśli podatnik ustanowił pełnomocnika. 2) Rozporządzenie (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniające rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm.). 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 30 lipca 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej (Dz. U. poz. 1430), które weszło w życie z mocą od dnia 1 lipca 2021 r. 4) W przypadku gdy podatnik ustanowił pełnomocnika – możliwa opcja wskazania rachunku wnioskodawcy/pełnomocnika (reprezentanta). 5) Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.). 6) W przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, kwota zwrotu powinna być obliczona z uwzględnieniem tej proporcji. 7) W przypadku Niemiec możliwe jest podanie numeru rejestracji podatkowej. 8) W przypadku faktury uproszczonej nie ma konieczności podawania numeru rejestracyjnego VAT dostawcy.
+Data wypełnienia wniosku. 3a) Rozporządzenie wykonawcze Komisji (UE) nr 79/2012 z dnia 31 stycznia 2012 r. ustanawiające szczegółowe zasady wykonywania niektórych przepisów rozporządzenia Rady (UE) nr 904/2010 w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 29 z 01.02.2012, str. 13, z późn. zm.). 1) Pozycję 6 wypełnia się, jeśli podatnik ustanowił pełnomocnika. 2) Rozporządzenie (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniające rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm.). 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 30 lipca 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej (Dz. U. poz. 1430), które weszło w życie z mocą od dnia 1 lipca 2021 r. 4) W przypadku gdy podatnik ustanowił pełnomocnika – możliwa opcja wskazania rachunku wnioskodawcy/pełnomocnika (reprezentanta). 5) Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.). 6) W przypadku stosowania proporcji, o której mowa w art. 89 ust. 1k ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, kwota zwrotu powinna być obliczona z uwzględnieniem tej proporcji. 7) W przypadku Niemiec możliwe jest podanie numeru rejestracji podatkowej. 8) W przypadku faktury uproszczonej nie ma konieczności podawania numeru rejestracyjnego VAT dostawcy.
 

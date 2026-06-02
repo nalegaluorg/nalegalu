@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-05 |
 | Data wydania | 2016-09-08 |
-| Wejście w życie | 2016-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1425/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przedmiot szkolenia aplikantów Rozdział 2 – Tryb i sposób przeprowadzania egzaminu konkursowego Rozdział 3 – Tryb i sposób przeprowadzania egzaminu kwalifikacyjnego Rozdział 4 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 39 ustawy z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2016 r. poz. 221) zarządza się, co następuje:
+Przedmiot szkolenia aplikantów
 § 1.
 Szkolenie aplikantów obejmuje szkolenie z zakresu:
 1)
@@ -43,6 +43,7 @@ obrotu prawami własności przemysłowej;
 zasad i form wykonywania zawodu rzecznika patentowego oraz jego aspektów etycznych, a także organizacji samorządu rzeczników patentowych;
 6)
 wybranych elementów wiedzy technicznej i techniki sporządzania zgłoszeń przedmiotów własności przemysłowej.
+Tryb i sposób przeprowadzania egzaminu konkursowego
 § 2.
 Krajowa Rada Rzeczników Patentowych ogłasza informację o egzaminie konkursowym, podając w szczególności:
 1)
@@ -118,6 +119,7 @@ Przewodniczący zespołu egzaminacyjnego wyklucza z egzaminu konkursowego kandyd
 Wykluczenie, o którym mowa w ust. 1, zostaje odnotowane w protokole przebiegu egzaminu konkursowego oraz na egzemplarzu testu.
 3.
 Wykluczenie, o którym mowa w ust. 1, jest równoznaczne z uzyskaniem negatywnego wyniku egzaminu konkursowego.
+Tryb i sposób przeprowadzania egzaminu kwalifikacyjnego
 § 10.
 Do egzaminu kwalifikacyjnego § 3 ust. 5 i 6, § 4, § 5 i § 6 ust. 1 oraz § 7–9 stosuje się odpowiednio.
 § 11.
@@ -150,14 +152,23 @@ ocena niedostateczna – 0–17 punktów.
 Zespół egzaminacyjny na posiedzeniu niejawnym ustala wynik egzaminu kwalifikacyjnego każdego ze zdających, w odniesieniu do całości, jak i poszczególnych części egzaminu kwalifikacyjnego, o których mowa w art. 31 ust. 3 ustawy.
 § 14.
 Pozytywny wynik egzaminu kwalifikacyjnego otrzymuje zdający, który uzyskał co najmniej ocenę dostateczną z każdej części egzaminu kwalifikacyjnego, o których mowa w art. 31 ust. 3 ustawy.
+Przepis końcowy
 § 15.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 8 września 2011 r. w sprawie przedmiotu szkolenia aplikantów rzecznikowskich, szczegółowego trybu i sposobu przeprowadzania egzaminu konkursowego i egzaminu kwalifikacyjnego (Dz. U. poz. 1124), które utraciło moc z dniem 30 listopada 2015 r. w związku z wejściem w życie ustawy z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów (Dz. U. poz. 1505). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 8 września 2011 r. w sprawie przedmiotu szkolenia aplikantów rzecznikowskich, szczegółowego trybu i sposobu przeprowadzania egzaminu konkursowego i egzaminu kwalifikacyjnego (Dz. U. poz. 1124), które utraciło moc z dniem 30 listopada 2015 r. w związku z wejściem w życie ustawy z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów (Dz. U. poz. 1505).
 
-#### Rozdział 1 Przedmiot szkolenia aplikantów
+#### Rozdział 1 – Przedmiot szkolenia aplikantów
 
-#### Rozdział 2 Tryb i sposób przeprowadzania egzaminu konkursowego
+#### Rozdział 2 – Tryb i sposób przeprowadzania egzaminu konkursowego
 
-#### Rozdział 3 Tryb i sposób przeprowadzania egzaminu kwalifikacyjnego
+#### Rozdział 3 – Tryb i sposób przeprowadzania egzaminu kwalifikacyjnego
 
-#### Rozdział 4 Przepis końcowy
+#### Rozdział 4 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

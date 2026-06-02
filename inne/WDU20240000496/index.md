@@ -39,24 +39,18 @@ rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 20
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 22 lutego 2022 r. zmieniającego rozporządzenie w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe (Dz. U. poz. 458), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 22 lutego 2022 r. zmieniającego rozporządzenie w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe (Dz. U. poz. 458), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe (Dz. U. poz. 770), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe (Dz. U. poz. 770), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe (Dz. U. poz. 1474), który stanowi:
-„
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe (Dz. U. poz. 1474), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 19 grudnia 2011 r. w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 19 grudnia 2011 r. w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służboweNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 Na podstawie art. 112 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -72,7 +66,7 @@ Użyte w rozporządzeniu określenia oznaczają:
 kwota bazowa – kwotę ustaloną dla żołnierzy zawodowych i funkcjonariuszy w ustawie budżetowej;
 2)
 obsługa – sprawdzenie, w każdym dniu używania sprzętu transportowego, sprawności technicznej tego sprzętu oraz stanu technicznego jego zespołów i podzespołów, ze szczególnym uwzględnieniem układów mających wpływ na bezpieczeństwo jazdy;
-3)
+3W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe (Dz. U. poz. 1474), które weszło w życie z dniem 1 sierpnia 2023 r.)
 przełożony właściwy w sprawach osobowych – Komendanta Głównego Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, Dyrektora Centralnego Laboratorium Kryminalistycznego Policji, komendanta wojewódzkiego (Stołecznego) Policji, komendanta powiatowego, miejskiego lub rejonowego Policji, Komendanta-Rektora Akademii Policji w Szczytnie lub komendanta szkoły policyjnej.
 § 3.
 1.
@@ -106,6 +100,5 @@ dokumentu wystawionego przez instytucję zarządzającą programem lub projektem
 § 7.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 kwietnia 2002 r. w sprawie warunków otrzymania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe (Dz. U. poz. 456).
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2012 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe (Dz. U. poz. 1474), które weszło w życie z dniem 1 sierpnia 2023 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2012 r. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe (Dz. U. poz. 1474), które weszło w życie z dniem 1 sierpnia 2023 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 17 stycznia 2019 r. w sprawie nadzoru nad jakością wody w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli
+# Rozporządzenie Ministra Zdrowiaz dnia 17 stycznia 2019 r. w sprawie nadzoru nad jakością wody w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-17 |
 | Data wydania | 2019-02-11 |
-| Wejście w życie | 2019-02-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/255/text.pdf) |
 
@@ -35,7 +34,7 @@ Treść rozporządzenia
 ## Załącznik nr 3 — – Sposób klasyfikacji jakości wody w kąpielisku
 
 Treść rozporządzenia
-Na podstawie art. 48 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125) zarządza się, co następuje:
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2006/7/WE Parlamentu Europejskiego i Rady z dnia 15 lutego 2006 r. dotyczącą zarządzania jakością wody w kąpielisku i uchylającą dyrektywę 76/160/EWG (Dz. Urz. UE L 64 z 04.03.2006, str. 37, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 353 z 28.12.2013, str. 8). Na podstawie art. 48 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -148,24 +147,34 @@ podejmowanych czynności mających na celu zapobieganie narażeniu osób kąpią
 § 8.
 Oceny kontroli wewnętrznej dokonuje się przez krótkie opisowe przedstawienie informacji odnoszących się do prawidłowości lub braku prawidłowości realizacji, przez organizatora kąpieliska, zadań wskazanych w art. 344 ust. 5 ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2006/7/WE Parlamentu Europejskiego i Rady z dnia 15 lutego 2006 r. dotyczącą zarządzania jakością wody w kąpielisku i uchylającą dyrektywę 76/160/EWG (Dz. Urz. UE L 64 z 04.03.2006, str. 37, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 353 z 28.12.2013, str. 8). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 8 kwietnia 2011 r. w sprawie prowadzenia nadzoru nad jakością wody w kąpielisku i miejscu wykorzystywanym do kąpieli (Dz. U. z 2016 r. poz. 1602), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 8 kwietnia 2011 r. w sprawie prowadzenia nadzoru nad jakością wody w kąpielisku i miejscu wykorzystywanym do kąpieli (Dz. U. z 2016 r. poz. 1602), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2006/7/WE Parlamentu Europejskiego i Rady z dnia 15 lutego 2006 r. dotyczącą zarządzania jakością wody w kąpielisku i uchylającą dyrektywę 76/160/EWG (Dz. Urz. UE L 64 z 04.03.2006, str. 37, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 353 z 28.12.2013, str. 8). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 8 kwietnia 2011 r. w sprawie prowadzenia nadzoru nad jakością wody w kąpielisku i miejscu wykorzystywanym do kąpieli (Dz. U. z 2016 r. poz. 1602), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125).
 
 ## Załącznik nr 1 — – Wymagania, jakim powinna odpowiadać woda w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli, zakres oraz metody badania wody w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli
 
 A.
 Ocena jakości wody w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli
-Tabela I. Wymagania mikrobiologiczne
+Tabela I.
+Wymagania mikrobiologiczne
 Lp. Parametr Wartość dopuszczalna Metody referencyjne badań1) A B C 1 Enterokoki (jtk2)/100 ml lub NPL3)/100 ml) ≤400 PN-EN ISO 7899–1 lub PN-EN ISO 7899–2 2 Escherichia coli (jtk/100 ml lub NPL/100 ml) ≤1000 PN-EN ISO 9308–3 lub PN-EN ISO 9308–14)
-Tabela II. Inne wymagania
+Tabela II.
+Inne wymagania
 Lp. Wizualne nadzorowanie wody Występowanie A B 1 Zakwit sinic (smugi, kożuch, piana) brak 2 Rozmnożenie się makroalg lub fitoplanktonu morskiego brak 3 Obecność w wodzie zanieczyszczeń, takich jak materiały smoliste powstające wskutek rafinacji, destylacji lub jakiejkolwiek obróbki pirolitycznej, w szczególności pozostałości podestylacyjne, szkło, tworzywa sztuczne, guma lub inne odpady (w ilości niedającej się natychmiast usunąć) brak
 B.
 Klasyfikacja wody w kąpielisku
-Tabela I. Wymagania mikrobiologiczne dla śródlądowych wód powierzchniowych
-Lp. Parametr Jakość doskonała Jakość dobra Jakość dostateczna Metody referencyjnebadań1) A B C D E 1 Enterokoki (jtk/100 ml lub NPL/100 ml) 200* 400* 330** PN-EN ISO 7899–1 lubPN-EN ISO 7899–2 2 Escherichia coli (jtk/100 ml lub NPL/100 ml) 500* 1000* 900** PN-EN ISO 9308–3 lubPN-EN ISO 9308–14) * – oparte na ocenie 95-percentyla ** – oparte na ocenie 90-percentyla
-Tabela II. Wymagania mikrobiologiczne dla wód przybrzeżnych i przejściowych
-Lp. Parametr Jakość doskonała Jakość dobra Jakość dostateczna Metody referencyjnebadań1) A B C D E 1 Enterokoki (jtk/100 ml lub NPL/100 ml) 100* 200* 185** PN-EN ISO 7899–1 lubPN-EN ISO 7899–2 2 Escherichia coli (jtk/100 ml lub NPL/100 ml) 250* 500* 500** PN-EN ISO 9308–3 lubPN-EN ISO 9308–14) * – oparte na ocenie 95-percentyla ** – oparte na ocenie 90-percentyla
-1) Dopuszcza się stosowanie metody alternatywnej na zasadach wskazanych w art. 47 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne. 2) Jednostka tworząca kolonię. 3) Najbardziej Prawdopodobna Liczba. 4) Niniejsza część ISO 9308 przeznaczona jest do badania wód o spodziewanej małej liczbie bakterii, w których ogólna liczba kolonii, rosnących na chromogennym podłożu agarowym dla bakterii grupy coli będzie niższa niż 100. Ze względu na małą selektywność zastosowanego podłoża różnicującego wzrost mikroflory towarzyszącej może zakłócać wiarygodne oznaczanie E. coli.
+Tabela I.
+Wymagania mikrobiologiczne dla śródlądowych wód powierzchniowych
+Lp. Parametr Jakość doskonała Jakość dobra Jakość dostateczna Metody referencyjne
+badań1) A B C D E 1 Enterokoki (jtk/100 ml lub NPL/100 ml) 200* 400* 330** PN-EN ISO 7899–1 lub
+PN-EN ISO 7899–2 2 Escherichia coli (jtk/100 ml lub NPL/100 ml) 500* 1000* 900** PN-EN ISO 9308–3 lub
+PN-EN ISO 9308–14)
+* – oparte na ocenie 95-percentyla ** – oparte na ocenie 90-percentyla
+Tabela II.
+Wymagania mikrobiologiczne dla wód przybrzeżnych i przejściowych
+Lp. Parametr Jakość doskonała Jakość dobra Jakość dostateczna Metody referencyjne
+badań1) A B C D E 1 Enterokoki (jtk/100 ml lub NPL/100 ml) 100* 200* 185** PN-EN ISO 7899–1 lub
+PN-EN ISO 7899–2 2 Escherichia coli (jtk/100 ml lub NPL/100 ml) 250* 500* 500** PN-EN ISO 9308–3 lub
+PN-EN ISO 9308–14)
+* – oparte na ocenie 95-percentyla ** – oparte na ocenie 90-percentyla 1) Dopuszcza się stosowanie metody alternatywnej na zasadach wskazanych w art. 47 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne. 2) Jednostka tworząca kolonię. 3) Najbardziej Prawdopodobna Liczba. 4) Niniejsza część ISO 9308 przeznaczona jest do badania wód o spodziewanej małej liczbie bakterii, w których ogólna liczba kolonii, rosnących na chromogennym podłożu agarowym dla bakterii grupy coli będzie niższa niż 100. Ze względu na małą selektywność zastosowanego podłoża różnicującego wzrost mikroflory towarzyszącej może zakłócać wiarygodne oznaczanie E. coli.
 
 ## Załącznik nr 2 — – Sposób pobierania, przechowywania i transportu przed analizą próbek wody z kąpieliska i miejsca okazjonalnie wykorzystywanego do kąpieli
 
@@ -174,8 +183,7 @@ Pobieranie próbek wody z kąpieliska i miejsca okazjonalnie wykorzystywanego do
 1)
 spodziewana jest większość osób kąpiących się lub
 2)
-spodziewane jest największe ryzyko zanieczyszczenia, zgodnie z profilem wody w kąpielisku.
-W razie podejrzeń dotyczących zanieczyszczenia wody, w szczególności w przypadku awaryjnych zrzutów ścieków lub gwałtownych zmian atmosferycznych, pobiera się próbki wody również w miejscach innych niż punkt pobierania próbek wody, w których podejrzewa się wystąpienie takiego zanieczyszczenia. Pobieranie takich próbek wody, jeżeli to możliwe, odbywa się w taki sposób, jak w punkcie pobierania próbek wody.
+spodziewane jest największe ryzyko zanieczyszczenia, zgodnie z profilem wody w kąpielisku. W razie podejrzeń dotyczących zanieczyszczenia wody, w szczególności w przypadku awaryjnych zrzutów ścieków lub gwałtownych zmian atmosferycznych, pobiera się próbki wody również w miejscach innych niż punkt pobierania próbek wody, w których podejrzewa się wystąpienie takiego zanieczyszczenia. Pobieranie takich próbek wody, jeżeli to możliwe, odbywa się w taki sposób, jak w punkcie pobierania próbek wody.
 2.
 Sterylizacja butelek (pojemników) na próbki Butelki (pojemniki) na próbki:
 1)
@@ -228,6 +236,5 @@ są podejmowane właściwe środki zarządzania, włączając nadzór, systemy w
 b)
 są podejmowane właściwe środki zarządzania w celu zapobieżenia, ograniczenia oraz wyeliminowania przyczyn zanieczyszczenia,
 c)
-liczba próbek niewziętych pod uwagę, zgodnie z § 6 ust. 1, ze względu na występowanie krótkotrwałych zanieczyszczeń podczas ostatniego okresu oceny stanowiła nie więcej niż 15% całkowitej liczby próbek przewidzianych w harmonogramie pobrania próbek ustalonym na ten okres lub nie więcej niż jedna próbka na okres kąpielowy, w zależności od tego, która z tych liczb jest większa.
-Objaśnienia: 1) „Ostatni okres oceny” oznacza cztery ostatnie sezony kąpielowe. 2) Na podstawie obliczenia percentyla log10 funkcji normalnej gęstości prawdopodobieństwa z danych (analiz) mikrobiologicznych uzyskanych z próbek wody w kąpielisku, wartość percentyla oblicza się w następujący sposób: a) obliczyć wartość log10 z każdego oznaczenia liczby bakterii w sekwencji danych podlegających obliczeniu (dla wartości liczby bakterii równej 0, do obliczenia log10 należy przyjąć wartość minimalną granicy wykrywalności użytej metody analitycznej), b) dla zbioru danych (obliczonych w lit. a wartości log10) należy obliczyć wartość średnią µ, c) dla zbioru danych (obliczonych w lit. a wartości log10), z wykorzystaniem wartości średniej µ (obliczonej w lit. b) należy obliczyć wartość odchylenia standardowego δ. Górny punkt 90 percentyla należy obliczyć na podstawie równania 90 percentyl = antylogarytm (µ + 1,282 δ). Górny punkt 95 percentyla należy obliczyć na podstawie równania 95 percentyl = antylogarytm (µ + 1,65 δ). 3) „Gorsze” oznacza: o wyższej liczbie wyrażonej w jtk lub NPL/100 ml. 4) „Lepsze” oznacza: o niższej liczbie wyrażonej w jtk lub NPL/100 ml.
+liczba próbek niewziętych pod uwagę, zgodnie z § 6 ust. 1, ze względu na występowanie krótkotrwałych zanieczyszczeń podczas ostatniego okresu oceny stanowiła nie więcej niż 15% całkowitej liczby próbek przewidzianych w harmonogramie pobrania próbek ustalonym na ten okres lub nie więcej niż jedna próbka na okres kąpielowy, w zależności od tego, która z tych liczb jest większa. Objaśnienia: 1) „Ostatni okres oceny” oznacza cztery ostatnie sezony kąpielowe. 2) Na podstawie obliczenia percentyla log10 funkcji normalnej gęstości prawdopodobieństwa z danych (analiz) mikrobiologicznych uzyskanych z próbek wody w kąpielisku, wartość percentyla oblicza się w następujący sposób: a) obliczyć wartość log10 z każdego oznaczenia liczby bakterii w sekwencji danych podlegających obliczeniu (dla wartości liczby bakterii równej 0, do obliczenia log10 należy przyjąć wartość minimalną granicy wykrywalności użytej metody analitycznej), b) dla zbioru danych (obliczonych w lit. a wartości log10) należy obliczyć wartość średnią µ, c) dla zbioru danych (obliczonych w lit. a wartości log10), z wykorzystaniem wartości średniej µ (obliczonej w lit. b) należy obliczyć wartość odchylenia standardowego δ. Górny punkt 90 percentyla należy obliczyć na podstawie równania 90 percentyl = antylogarytm (µ + 1,282 δ). Górny punkt 95 percentyla należy obliczyć na podstawie równania 95 percentyl = antylogarytm (µ + 1,65 δ). 3) „Gorsze” oznacza: o wyższej liczbie wyrażonej w jtk lub NPL/100 ml. 4) „Lepsze” oznacza: o niższej liczbie wyrażonej w jtk lub NPL/100 ml.
 

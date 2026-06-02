@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 25 marca 2022 r. w sprawie metody zapobiegania zakażeniu lub chorobie zakaźnej stanowiącej szczególne zagrożenie dla zdrowia publicznego w związku z konfliktem zbrojnym na terytorium Ukrainy
+# Rozporządzenie Ministra Zdrowiaz dnia 25 marca 2022 r. w sprawie metody zapobiegania zakażeniu lub chorobie zakaźnej stanowiącej szczególne zagrożenie dla zdrowia publicznego w związku z konfliktem zbrojnym na terytorium Ukrainy Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-25 |
 | Data wydania | 2022-03-25 |
-| Wejście w życie | 2022-03-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/681/text.pdf) |
 
@@ -40,15 +39,13 @@ odrze,
 4)
 ostremu nagminnemu porażeniu dziecięcemu ( poliomyelitis ),
 5)
-wirusowemu zapaleniu wątroby typu A
-zwanych dalej „szczepieniami akcyjnymi”.
+wirusowemu zapaleniu wątroby typu A – zwanych dalej „szczepieniami akcyjnymi”.
 2.
 Szczepieniami akcyjnymi są objęte osoby, bez względu na ich wiek, które na podstawie:
 1)
 dochodzenia epidemiologicznego związanego z wystąpieniem zakażenia lub zachorowania z uwzględnieniem statusu szczepienia przeciw chorobie, o której mowa w ust. 1, albo jej podejrzenia lub
 2)
-ogólnej oceny ryzyka epidemiologicznego
-zostały zidentyfikowane jako szczególnie zagrożone zakażeniem lub zachorowaniem na choroby zakaźne, o których mowa w ust. 1.
+ogólnej oceny ryzyka epidemiologicznego – zostały zidentyfikowane jako szczególnie zagrożone zakażeniem lub zachorowaniem na choroby zakaźne, o których mowa w ust. 1.
 3.
 Szczepienia akcyjne są przeprowadzane w zakresie i terminach określonych przez Głównego Inspektora Sanitarnego na podstawie art. 5 ust. 1 pkt 3 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2021 r. poz. 195 oraz z 2022 r. poz. 655).
 § 2.
@@ -56,8 +53,7 @@ Szczepienia akcyjne są przeprowadzane z użyciem szczepionek:
 1)
 znajdujących się w rezerwie szczepionek oraz innych immunologicznych produktów leczniczych, o której mowa w art. 18a ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi,
 2)
-otrzymanych od innych państw lub organizacji międzynarodowych
-zwanych dalej „rezerwą szczepionek”.
+otrzymanych od innych państw lub organizacji międzynarodowych – zwanych dalej „rezerwą szczepionek”.
 § 3.
 1.
 W przypadku wystąpienia zagrożenia dla zdrowia publicznego związanego z szerzeniem się zakażenia lub choroby zakaźnej, o których mowa w § 1 ust. 1, właściwy państwowy powiatowy inspektor sanitarny:
@@ -79,6 +75,5 @@ Dokumentowanie kwalifikacji do szczepienia i dokumentowanie przeprowadzenia szcz
 § 6.
 Przy przeprowadzaniu szczepień akcyjnych stosuje się przepisy dotyczące zgłaszania i leczenia niepożądanych odczynów poszczepiennych.
 § 7.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 

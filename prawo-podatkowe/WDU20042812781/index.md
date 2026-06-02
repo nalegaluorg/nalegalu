@@ -22,15 +22,16 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-12-16 |
 | Data wydania | 2004-12-29 |
-| Wejście w życie | 2005-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812781) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2781/text.pdf) |
+
+Pomoc materialna dla uczniów
 
 **Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572 i Nr 273, poz. 2703) wprowadza się następujące zmiany:
 
 - **1)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Pomoc materialna dla uczniów
+#### Rozdział 8a
 
 **Art. 90b.**
 
@@ -83,7 +84,7 @@ source: "eli-html"
 
 8. Miesięczna wysokość dochodu, o której mowa w ust. 7, jest ustalana na zasadach określonych w art. 8 ust. 3–13 ustawy, o której mowa w ust. 7, z tym że do dochodu nie wlicza się świadczeń pomocy materialnej, o których mowa w art. 90c ust. 2 i 3.
 
-9. Stypendium szkolne nie może być niższe miesięcznie niż 80% kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. Nr 228, poz. 2255, z późn. zm.) i nie może przekraczać miesięcznie 200% kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
+9. Stypendium szkolne nie może być niższe miesięcznie niż 80% kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. Nr 228, poz. 2255, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593, Nr 99, poz. 1001 i Nr 192, poz. 1963.) i nie może przekraczać miesięcznie 200% kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
 
 10. Stypendium szkolne jest przyznawane na okres nie dłuższy niż od września do czerwca w danym roku szkolnym, a w przypadku słuchaczy kolegiów nauczycielskich, nauczycielskich kolegiów języków obcych i kolegiów pracowników służb społecznych – na okres nie dłuższy niż od października do czerwca w danym roku szkolnym.
 
@@ -261,7 +262,7 @@ source: "eli-html"
 - **4)** szczegółowe warunki, formy i tryb wspomagania tworzenia warunków do sprawowania profilaktycznej opieki zdrowotnej nad uczniami, uwzględniając w szczególności tworzenie gabinetów profilaktyki zdrowotnej dla uczniów. ” ;
 - **2)** uchyla się art. 91 i 91a.
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.) w art. 21 w ust. 1 pkt 40b otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255 oraz z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779.) w art. 21 w ust. 1 pkt 40b otrzymuje brzmienie: „
 
 - **40b)** stypendia dla uczniów i studentów, których wysokość i zasady udzielania zostały określone w uchwale organu stanowiącego jednostki samorządu terytorialnego, oraz stypendia dla uczniów i studentów przyznane przez organizacje, o których mowa w art. 3 ust. 2 i 3 ustawy o działalności pożytku publicznego i o wolontariacie, na podstawie regulaminów zatwierdzonych przez organy statutowe udostępnianych do publicznej wiadomości za pomocą internetu, środków masowego przekazu lub wykładanych (wywieszanych) dla zainteresowanych w pomieszczeniach ogólnie dostępnych – do wysokości nieprzekraczającej miesięcznie kwoty 380 zł, z zastrzeżeniem ust. 10, ” .
 
@@ -285,5 +286,5 @@ source: "eli-html"
 
 **Art. 6.** Dzieci byłych pracowników państwowych przedsiębiorstw gospodarki rolnej uczące się w szkołach ponadgimnazjalnych, które w dniu wejścia w życie niniejszej ustawy otrzymują stypendia przyznane przez Agencję Nieruchomości Rolnych, zachowują te stypendia do dnia 30 czerwca 2005 r. Stypendia te wypłaca Agencja Nieruchomości Rolnych.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2005 r.
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2005 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593, Nr 99, poz. 1001 i Nr 192, poz. 1963. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255 oraz z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779.
 

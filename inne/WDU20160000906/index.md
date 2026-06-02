@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-20 |
 | Data wydania | 2016-06-24 |
-| Wejście w życie | 2016-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000906) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/906/text.pdf) |
 
@@ -34,7 +33,7 @@ Mając na uwadze istotną rolę, jaką Akademia Sztuki Wojennej odgrywać będzi
 
 2. Siedzibą Akademii jest miasto stołeczne Warszawa.
 
-3. Akademia jest uczelnią wojskową działającą na podstawie ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.).
+3. Akademia jest uczelnią wojskową działającą na podstawie ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198, z 2015 r. poz. 357, 860, 1187, 1240, 1268, 1767 i 1923 oraz z 2016 r. poz. 64.).
 
 4. Akademia realizuje zadania określone przez Ministra Obrony Narodowej, odpowiadające potrzebom Sił Zbrojnych Rzeczypospolitej Polskiej i ich jednostek organizacyjnych, stanowiąc ich zaplecze analityczne i eksperckie.
 
@@ -101,5 +100,5 @@ Mając na uwadze istotną rolę, jaką Akademia Sztuki Wojennej odgrywać będzi
 
 **Art. 8.** Traci moc ustawa z dnia 27 lutego 2003 r. o utworzeniu Akademii Obrony Narodowej (Dz. U. poz. 496, z 2004 r. poz. 1598 oraz z 2005 r. poz. 1365).
 
-**Art. 9.** Ustawa wchodzi w życie z dniem 1 lipca 2016 r., z wyjątkiem art. 8, który wchodzi w życie z dniem 30 września 2016 r.
+**Art. 9.** Ustawa wchodzi w życie z dniem 1 lipca 2016 r., z wyjątkiem art. 8, który wchodzi w życie z dniem 30 września 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198, z 2015 r. poz. 357, 860, 1187, 1240, 1268, 1767 i 1923 oraz z 2016 r. poz. 64.
 

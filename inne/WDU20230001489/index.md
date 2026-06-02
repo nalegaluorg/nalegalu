@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych oraz ustawę z dnia 5 lipca 2018 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-08-01 |
-| Wejście w życie | 2023-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001489) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1489/text.pdf) |
 
@@ -46,7 +45,7 @@ source: "eli-html"
 - **2)** międzysystemowemu Gazociągowi Bałtyckiemu (Baltic Pipe) stanowiącemu połączenie systemów przesyłowych Rzeczypospolitej Polskiej i Królestwa Danii wraz z infrastrukturą niezbędną do jego obsługi na terenie obszarów morskich Rzeczypospolitej Polskiej,
 - **3)** obiektom, urządzeniom i instalacjom wchodzącym w skład infrastruktury zapewniającej dostęp do portów o podstawowym znaczeniu dla gospodarki narodowej,
 - **4)** wykorzystywanym w wyłącznej strefie ekonomicznej sztucznym wyspom, wszelkiego rodzaju konstrukcjom i urządzeniom przeznaczonym do rozpoznawania lub eksploatacji zasobów, jak również innym przedsięwzięciom w zakresie gospodarczego badania i eksploatacji wyłącznej strefy ekonomicznej, w szczególności w celach energetycznych, w tym morskim farmom wiatrowym w rozumieniu art. 3 pkt 3 ustawy o promowaniu i zespołom urządzeń służącym do wyprowadzenia mocy w rozumieniu art. 3 pkt 13 ustawy o promowaniu, oraz podmorskim sieciom elektroenergetycznym i światłowodowym lub rurociągom, a także związanej z nimi infrastrukturze,
-- **5)** terminalowi regazyfikacyjnemu skroplonego gazu ziemnego w Świnoujściu powstałego na skutek użycia statku lub obiektu pływającego jako środka ataku o charakterze terrorystycznym, w przypadku gdy siły i środki Policji oraz Straży Granicznej są niewystarczające lub mogą okazać się niewystarczające, Minister Obrony Narodowej, na wniosek ministra właściwego do spraw wewnętrznych, może podjąć decyzję o zastosowaniu przez Siły Zbrojne Rzeczypospolitej Polskiej na polskich obszarach morskich niezbędnych środków, do zatopienia tego statku lub obiektu pływającego włącznie.
+- **5)** terminalowi regazyfikacyjnemu skroplonego gazu ziemnego w Świnoujściu – powstałego na skutek użycia statku lub obiektu pływającego jako środka ataku o charakterze terrorystycznym, w przypadku gdy siły i środki Policji oraz Straży Granicznej są niewystarczające lub mogą okazać się niewystarczające, Minister Obrony Narodowej, na wniosek ministra właściwego do spraw wewnętrznych, może podjąć decyzję o zastosowaniu przez Siły Zbrojne Rzeczypospolitej Polskiej na polskich obszarach morskich niezbędnych środków, do zatopienia tego statku lub obiektu pływającego włącznie.
 
 2. Wniosek o podjęcie decyzji o zastosowaniu przez Siły Zbrojne Rzeczypospolitej Polskiej na polskich obszarach morskich niezbędnych środków w celu zapobieżenia, ograniczenia lub usunięcia poważnego i bezpośredniego niebezpieczeństwa grożącego obiektom, o których mowa w ust. 1, może być skutecznie przekazany także ustnie, telefonicznie, za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344) lub za pomocą innych środków łączności, a ich treść oraz istotne motywy takiego załatwienia sprawy utrwala się w formie pisemnej w postaci papierowej.
 
@@ -65,7 +64,7 @@ source: "eli-html"
 
 8. Rozkaz o użyciu środków przymusu bezpośredniego, broni i innego uzbrojenia w celu zapobieżenia, ograniczenia lub usunięcia poważnego i bezpośredniego niebezpieczeństwa grożącego obiektom, o których mowa w ust. 1, może być przekazany ze skutkiem wiążącym także ustnie, telefonicznie, za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną lub za pomocą innych środków łączności, a jego treść oraz istotne motywy takiego załatwienia sprawy utrwala się w formie pisemnej w postaci papierowej.
 
-9. Atakiem o charakterze terrorystycznym jest czyn zabroniony, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.). ” ;
+9. Atakiem o charakterze terrorystycznym jest czyn zabroniony, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818, 852 i 1234.). ” ;
 
 - **3)** po art. 27 dodaje się art. 271 i art. 272 w brzmieniu: „
 
@@ -181,7 +180,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-4. Atakiem o charakterze terrorystycznym jest czyn zabroniony, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.).
+4. Atakiem o charakterze terrorystycznym jest czyn zabroniony, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818, 852 i 1234.).
 
 1. Obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Podejrzany RENEGADE” może być przechwycony przez statek przechwytujący. Przechwycenie polega na identyfikacji obcego cywilnego statku powietrznego, nawiązaniu z nim łączności radiowej i kontaktu wzrokowego oraz naprowadzeniu go na właściwy kierunek lub wysokość lotu albo wymuszeniu lądowania na wskazanym lotnisku.
 
@@ -329,5 +328,5 @@ source: "eli-html"
 
 **Art. 10.** Inwestycje polegające na budowie budynku dla załóg jednostek pływających Straży Granicznej wraz z nabrzeżem dla postoju jednostek pływających Straży Granicznej wraz z infrastrukturą towarzyszącą, przygotowywane i realizowane przed dniem wejścia w życie niniejszej ustawy jako inwestycje w zakresie budowy lub przebudowy terminalu, o których mowa w art. 2 ust. 2 pkt 3 lit. a ustawy zmienianej w art. 5, stają się inwestycją, o której mowa w art. 38 pkt 2 lit. zp ustawy zmienianej w art. 5. Wszystkie czynności dokonane w postępowaniach dotyczących przygotowywania lub realizacji tej inwestycji pozostają w mocy.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych oraz ustawę z dnia 5 lipca 2018 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818, 852 i 1234. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818, 852 i 1234.
 

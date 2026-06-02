@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-09-26 |
 | Data wydania | 2012-10-08 |
-| Wejście w życie | 2012-10-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1106/text.pdf) |
 
@@ -169,5 +168,5 @@ Naczelna Rada Pielęgniarek i Położnych niezwłocznie powiadamia podmioty okre
 § 13.
 Do postępowań w sprawie orzekania o niezdolności do wykonywania zawodu pielęgniarki lub położnej, podjęcia uchwały o zawieszeniu prawa wykonywania zawodu pielęgniarki lub położnej na okres trwania niezdolności do wykonywania zawodu albo uchwały o ograniczeniu wykonywania określonych czynności zawodowych na okres trwania niezdolności do wykonywania zawodu wszczętych a niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 11 czerwca 1997 r. w sprawie szczegółowych zasad i trybu orzekania o niezdolności do wykonywania zawodu pielęgniarki i położnej oraz szczegółowych zasad i trybu postępowania w sprawach zawieszania prawa wykonywania zawodu albo ograniczenia wykonywania określonych czynności zawodowych (Dz. U. Nr 73, poz. 465), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 11 czerwca 1997 r. w sprawie szczegółowych zasad i trybu orzekania o niezdolności do wykonywania zawodu pielęgniarki i położnej oraz szczegółowych zasad i trybu postępowania w sprawach zawieszania prawa wykonywania zawodu albo ograniczenia wykonywania określonych czynności zawodowych (Dz. U. Nr 73, poz. 465), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707).
 

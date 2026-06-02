@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 19 września 2024 r. zmieniające rozporządzenie w sprawie szczegółowych zasad, warunków i trybu przyjmowania do służby kandydackiej w Państwowej Straży Pożarnej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 19 września 2024 r. zmieniające rozporządzenie w sprawie szczegółowych zasad, warunków i trybu przyjmowania do służby kandydackiej w Państwowej Straży Pożarnej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-19 |
 | Data wydania | 2024-09-26 |
-| Wejście w życie | 2024-10-11 |
 | Ostatnia zmiana | 2024-09-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001421) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1421/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 112 ust. 4 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwow
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 sierpnia 1997 r. w sprawie szczegółowych zasad, warunków i trybu przyjmowania do służby kandydackiej w Państwowej Straży Pożarnej (Dz. U. poz. 638 oraz z 2017 r. poz. 1703) wprowadza się następujące zmiany:
 1)
-§ 1–5 otrzymują brzmienie:
-„
+§ 1–5 otrzymują brzmienie: „
 § 1.
 Służba kandydacka w Państwowej Straży Pożarnej jest odbywana w Akademii Pożarniczej i w szkołach aspirantów Państwowej Straży Pożarnej, zwanych dalej „szkołami PSP”.
 § 2.
@@ -83,23 +81,19 @@ W przypadku gdy kandydat przystąpił do egzaminu maturalnego w roku kalendarzow
 § 4.
 Komendant szkoły PSP dokonuje wstępnej kwalifikacji podań oraz dołączonych do nich oświadczeń i dokumentów, w wyniku której osobie niespełniającej warunków określonych w § 2 pkt 1–3 oraz § 3 zwraca złożone dokumenty, podając przyczyny niezakwalifikowania tej osoby do dalszego postępowania rekrutacyjnego.
 § 5.
-Kandydat jest obowiązany wnieść opłatę w wysokości ustalonej przez komendanta szkoły PSP. Wysokość opłaty nie może przewyższać planowanych kosztów związanych z przeprowadzeniem postępowania rekrutacyjnego.
-” ;
+Kandydat jest obowiązany wnieść opłatę w wysokości ustalonej przez komendanta szkoły PSP. Wysokość opłaty nie może przewyższać planowanych kosztów związanych z przeprowadzeniem postępowania rekrutacyjnego. ” ;
 2)
 uchyla się § 7;
 3)
 w § 8:
 a)
-w ust. 2 w pkt 1 lit. b otrzymuje brzmienie:
-„
+w ust. 2 w pkt 1 lit. b otrzymuje brzmienie: „
 b)
 ustalenia punktów rekrutacyjnych:
-– w przypadku Akademii Pożarniczej – na podstawie decyzji ministra właściwego do spraw wewnętrznych wydanej na podstawie art. 443 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.),
-w przypadku szkół aspirantów Państwowej Straży Pożarnej – zgodnie ze szczegółowymi zasadami określonymi w załączniku nr 3 do rozporządzenia,
-” ,
+– w przypadku Akademii Pożarniczej – na podstawie decyzji ministra właściwego do spraw wewnętrznych wydanej na podstawie art. 443 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.),
+w przypadku szkół aspirantów Państwowej Straży Pożarnej – zgodnie ze szczegółowymi zasadami określonymi w załączniku nr 3 do rozporządzenia, ” ,
 b)
-dodaje się ust. 3 w brzmieniu:
-„
+dodaje się ust. 3 w brzmieniu: „
 3.
 Komisja do przeprowadzenia testu sprawności fizycznej:
 1)
@@ -109,14 +103,11 @@ test sprawności fizycznej,
 b)
 sprawdzian z pływania,
 2)
-sporządza protokół wyników testu sprawności fizycznej, który przekazuje komisji rekrutacyjnej.
-” ;
+sporządza protokół wyników testu sprawności fizycznej, który przekazuje komisji rekrutacyjnej. ” ;
 4)
-w § 12 w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w § 12 w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-immatrykulacji – w przypadku słuchaczy Akademii Pożarniczej.
-” ;
+immatrykulacji – w przypadku słuchaczy Akademii Pożarniczej. ” ;
 5)
 uchyla się załączniki nr 1 i 2;
 6)
@@ -124,8 +115,7 @@ załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załącznik
 § 2.
 Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się w sprawach dotyczących przyjęcia do służby kandydackiej w Państwowej Straży Pożarnej, począwszy od roku szkolnego 2025/2026 i roku akademickiego 2026/2027.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.
 Załącznik – Zasady ustalania punktów rekrutacyjnych
 1.
 Od kandydata wymaga się, aby w części pisemnej egzaminu maturalnego przystąpił do egzaminu z przedmiotów: matematyka i język obcy.

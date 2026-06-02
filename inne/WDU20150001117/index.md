@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-10 |
 | Data wydania | 2015-08-07 |
-| Wejście w życie | 2015-08-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001117) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1117/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 67, poz. 570, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 67, poz. 570, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 81, poz. 439 oraz z 2013 r. poz. 496.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
 
@@ -122,7 +121,7 @@ source: "eli-html"
 
 8. Przepisów ust. 2–7 nie stosuje się do zamówień podlegających szczególnej procedurze na podstawie umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub porozumienia zawieranego na szczeblu ministerialnym lub zamówień, o których mowa w art. 4b ust. 1 pkt 6 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych. ” .
 
-**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) w art. 50 w ust. 6 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532 i 1045.) w art. 50 w ust. 6 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
 
 - **8)** wydatków obronnych w części budżetu państwa „obrona narodowa” oraz w dziale „obrona narodowa” w innych częściach budżetu państwa. ” .
 
@@ -136,5 +135,5 @@ source: "eli-html"
 - **1)** art. 2 i art. 4 ust. 1 ustawy zmienianej w art. 1, wbrzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do określenia przez Radę Ministrów szczegółowych kierunków przebudowy i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej na lata 2017–2026;
 - **2)** art. 6, art. 7 oraz art. 11 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do ustawy budżetowej na rok 2016.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 81, poz. 439 oraz z 2013 r. poz. 496. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532 i 1045.
 

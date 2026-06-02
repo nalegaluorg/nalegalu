@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-11 |
 | Data wydania | 2024-03-12 |
-| Wejście w życie | 2024-03-14 |
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000357) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/357/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 235 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 235 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -50,5 +49,5 @@ Podczas odtwarzania może być użyte urządzenie wzmacniające utrwalony obraz 
 § 6.
 Zapis dokonany podczas przeprowadzania dowodu w ramach posiedzenia zdalnego jest kopiowany na informatyczny nośnik danych przy zastosowaniu przeznaczonych do tego celu urządzeń.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 14 marca 2024 r.
+Rozporządzenie wchodzi w życie z dniem 14 marca 2024 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 24 lutego 2010 r. w sprawie urządzeń i środków technicznych umożliwiających przeprowadzenie dowodu na odległość w postępowaniu cywilnym (Dz. U. poz. 185), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 24 lutego 2010 r. w sprawie urządzeń i środków technicznych umożliwiających przeprowadzenie dowodu na odległość w postępowaniu cywilnym (Dz. U. poz. 185), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860).
 

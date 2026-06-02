@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-25 |
 | Data wydania | 2008-08-08 |
-| Wejście w życie | 2008-08-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081450918) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/918/text.pdf) |
 
@@ -96,11 +95,11 @@ source: "eli-html"
 
 12. Dane indywidualne zawarte w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, niezbędne do przeprowadzenia kontroli spełnienia obowiązku zawarcia umowy ubezpieczenia obowiązkowego, udostępnia się organom przeprowadzającym tę kontrolę. ” .
 
-**Art. 2.** W ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2004 r. Nr 10, poz. 76, z późn. zm.) w art. 5 uchyla się ust. 3a.
+**Art. 2.** W ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2004 r. Nr 10, poz. 76, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 92, poz. 638, Nr 144, poz. 1045 i Nr 187, poz. 1381, z 2007 r. Nr 35, poz. 217, Nr 49, poz. 328 i Nr 64, poz. 427 oraz z 2008 r. Nr 98, poz. 634.) w art. 5 uchyla się ust. 3a.
 
 **Art. 3.** W 2008 r. dotacja celowa na pokrycie części odszkodowań wypłaconych producentom rolnym z tytułu szkód spowodowanych przez suszę przysługuje zakładom ubezpieczeń, o których mowa w art. 10a ust. 1 ustawy wymienionej w art. 1, za okres od dnia 1 lipca do dnia 31 sierpnia tego roku, na zasadach określonych w art. 10a i 10b ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą. Wniosek o przyznanie dotacji za ten okres zakład ubezpieczeń składa w terminie do dnia 30 września.
 
 **Art. 4.** W okresie od dnia 1 lipca 2008 r. do dnia 30 czerwca 2009 r. obowiązek ubezpieczenia, o którym mowa w art. 10c ust. 1 ustawy wymienionej w art. 1, uważa się za spełniony, jeżeli w tym okresie zostanie zawarta umowa ubezpieczenia, na podstawie której ochroną ubezpieczeniową, od dnia zawarcia umowy do dnia 30 czerwca 2009 r., zostanie objętych co najmniej 50% powierzchni upraw, o których mowa w art. 3 ust. 1 pkt 1 ustawy wymienionej w art. 1, od co najmniej jednego z ryzyk wymienionych w art. 10c ust. 1 ustawy wymienionej w art. 1.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3, który wchodzi w życie z dniem 1 września 2008 r.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3, który wchodzi w życie z dniem 1 września 2008 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 92, poz. 638, Nr 144, poz. 1045 i Nr 187, poz. 1381, z 2007 r. Nr 35, poz. 217, Nr 49, poz. 328 i Nr 64, poz. 427 oraz z 2008 r. Nr 98, poz. 634.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 8 czerwca 2017 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw
+# Ustawa z dnia 8 czerwca 2017 r. o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-08 |
 | Data wydania | 2017-07-18 |
-| Wejście w życie | 2017-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1386/text.pdf) |
 
@@ -45,9 +44,10 @@ source: "eli-html"
 
 2. Odznakę honorową działaczowi opozycji antykomunistycznej lub osobie represjonowanej z powodów politycznych nadaje Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych wraz z wydaniem decyzji, o której mowa w art. 5 ust. 1.
 
-3. Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych wraz z wydaniem decyzji, o której mowa w art. 5 ust. 1, wydanej na wniosek działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, wydaje także legitymację działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, zwaną dalej „legitymacją”. ” , w ust. 4: – uchyla się pkt 3, – pkt 4 otrzymuje brzmienie: „ 4) sposób noszenia odznaki honorowej ” , – uchyla się pkt 5;
+3. Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych wraz z wydaniem decyzji, o której mowa w art. 5 ust. 1, wydanej na wniosek działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, wydaje także legitymację działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, zwaną dalej „legitymacją”. ” , w ust. 4: – uchyla się pkt 3, pkt 4 otrzymuje brzmienie: „
 
 - **b)**
+- **4)** sposób noszenia odznaki honorowej ” , – uchyla się pkt 5;
 - **6)** w art. 9: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -169,7 +169,7 @@ source: "eli-html"
     - **a)**
     - **b)**
 
-**Art. 5.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089, 1139 i 1200.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5: po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
@@ -201,5 +201,5 @@ source: "eli-html"
 
 2. Do zmiany decyzji, o której mowa w ust. 1, nie jest wymagana zgoda osoby uprawnionej.
 
-**Art. 10.** Ustawa wchodzi w życie z dniem 31 sierpnia 2017 r.
+**Art. 10.** Ustawa wchodzi w życie z dniem 31 sierpnia 2017 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089, 1139 i 1200.
 

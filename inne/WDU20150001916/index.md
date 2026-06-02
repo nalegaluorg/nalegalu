@@ -24,7 +24,6 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-11-18 |
-| Wejście w życie | 2015-12-03 |
 | Ostatnia zmiana | 2026-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001916) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1916/text.pdf) |
 
@@ -44,6 +43,21 @@ Art. 19–25. (pominięte)
 2. Przez zdrowie publiczne rozumie się zadania określone art. 2.
 
 **Art. 2.** Zadania z zakresu zdrowia publicznego obejmują:
+
+- **1)** monitorowanie i ocenę stanu zdrowia społeczeństwa, zagrożeń zdrowia oraz jakości życia związanej ze zdrowiem społeczeństwa;
+- **2)** edukację zdrowotną dostosowaną do potrzeb różnych grup społeczeństwa, szczególności dzieci, młodzieży i osób starszych;
+- **3)** promocję zdrowia;
+- **3a)** kreowanie postaw zdrowotnych i społecznych sprzyjających profilaktyce zachowań ryzykownych;
+- **3b)** zapobieganie uzależnieniom oraz skutkom zdrowotnym i społecznym wynikającym z uzależnień;
+- **4)** profilaktykę chorób; i szkód dla zdrowia fizycznego i psychicznego środowisku zamieszkania, nauki, pracy i rekreacji;
+- **6)** analizę adekwatności i efektywności udzielanych świadczeń opieki zdrowotnej odniesieniu do rozpoznanych potrzeb zdrowotnych społeczeństwa;
+- **7)** inicjowanie i prowadzenie:
+    - **a)** działalności naukowej zakresie zdrowia publicznego,
+    - **b)** współpracy międzynarodowej dotyczącej działalności naukowej zakresie zdrowia publicznego;
+
+- **8)** rozwój kadr uczestniczących realizacji zadań z zakresu zdrowia publicznego;
+- **9)** ograniczanie nierówności zdrowiu wynikających z uwarunkowań społeczno-ekonomicznych;
+- **10)** działania obszarze aktywności fizycznej.
 
 **Art. 3.**
 
@@ -316,6 +330,13 @@ Art. 19–25. (pominięte)
 2. W przypadku odwołania albo śmierci osoby wchodzącej skład Rady do spraw Przeciwdziałania Uzależnieniom właściwy podmiot przedstawia wniosek o powołanie innego przedstawiciela.
 
 **Art. 8m.** Do zadań Rady do spraw Przeciwdziałania Uzależnieniom należy:
+
+- **1)** monitorowanie i koordynowanie działań zakresie realizacji polityki państwa obszarze uzależnień; dotyczą tworzenia, zmian i uzupełnień do krajowych strategii i planów przeciwdziałania problemom wywoływanym przez uzależnienia;
+- **3)** monitorowanie informacji o realizacji krajowych strategii i planów przeciwdziałania problemom wywoływanym przez uzależnienia;
+- **4)** monitorowanie realizacji Narodowego Programu Zdrowia zakresie działań, które dotyczą uzależnień;
+- **5)** zalecanie rozwiązań organizacyjnych zakresie dotyczącym uzależnień;
+- **6)** współdziałanie z podmiotami, które realizują zadania zakresie problematyki dotyczącej przedmiotu działalności tej rady;
+- **7)** wydawanie opinii sprawach zleconych przez Prezesa Rady Ministrów albo ministra właściwego do spraw zdrowia.
 
 **Art. 8n.**
 
@@ -619,6 +640,13 @@ Art. 19–25. (pominięte)
 
 **Art. 13.** Zadania z zakresu zdrowia publicznego są finansowane ze środków pozostających dyspozycji:
 
+- **1)** ministra właściwego do spraw zdrowia, tym ze środków państwowych funduszy celowych;
+- **2)** realizujących zadania z zakresu zdrowia publicznego:
+    - **a)** innych ministrów lub centralnych organów administracji rządowej, tym ze środków państwowych funduszy celowych,
+    - **b)** agencji wykonawczych i innych państwowych jednostek organizacyjnych, tym Narodowego Funduszu Zdrowia;
+
+- **3)** jednostek samorządu terytorialnego.
+
 **Art. 14.**
 
 1. Powierzenie realizacji zadań z zakresu zdrowia publicznego przez odpowiedniego dysponenta środków, o których mowa art. 13, odbywa się trybie konkursu ofert ogłaszanego przez tego dysponenta. realizację zadania, o którym mowa ust. 1, jeżeli NPZ określono podmiot właściwy do realizacji tego zadania oraz wskazano, że powierzenie jego realizacji następuje na wniosek tego podmiotu składany do odpowiedniego dysponenta środków.
@@ -688,6 +716,12 @@ Art. 19–25. (pominięte)
 
 **Art. 18.** Niemniej niż 10 % środków przeznaczonych na realizację zadań NPZ przeznacza się na zadania z zakresu:
 
+- **1)** monitorowania i oceny stanu zdrowia i związanej z nim jakości życia społeczeństwa;
+- **2)** identyfikacji i analizy rozpowszechnienia czynników stanowiących zagrożenie stanu zdrowia społeczeństwa;
+- **3)** identyfikacji przyczyn nierówności zdrowiu wynikających z uwarunkowań społeczno-ekonomicznych;
+- **4)** inicjowania i prowadzenia badań naukowych: szkodliwymi dla zdrowia lub innymi czynnikami ryzyka a stanem zdrowia ludności,
+    - **b)** dotyczących oceny skuteczności i efektywności działań z zakresu zdrowia publicznego, obejmujących testowanie skuteczności zadań z zakresu zdrowia publicznego polegających na promocji zdrowia lub profilaktyce chorób innych niż określone NPZ.
+
 #### Rozdział 4a
 
 #### Rozdział 4b Przepisy karne
@@ -713,6 +747,9 @@ Art. 19–25. (pominięte)
 #### Rozdział 5 Zmiany przepisach obowiązujących, przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 26.** Wojewoda po raz pierwszy dołącza opinię dotyczącą zgodności zrealizowanych lub podjętych zadań z priorytetami dla regionalnej polityki zdrowotnej, o których mowa art. 95c ustawy zmienianej art. 22 , do:
+
+- **1)** informacji zbiorczej, o której mowa art. 12 ust. 5, za 2017 r.;
+- **2)** wniosku, o którym mowa art. 48d ust. 2 ustawy zmienianej art. 22 , składanego 2017 r.
 
 **Art. 27.**
 
@@ -760,4 +797,10 @@ Art. 19–25. (pominięte)
 5. Minister właściwy do spraw kultury fizycznej, inni właściwi ministrowie wskazani jako podmioty odpowiedzialne za realizację zadań Narodowym Programie Zdrowia oraz wojewodowie są obowiązani do przekazywania ministrowi właściwemu do spraw zdrowia informacji o stopniu realizacji zadań z zakresu zdrowia publicznego, umożliwiających monitorowanie limitu wydatków, o których mowa ust. 1 i 2, terminie umożliwiającym wdrożenie mechanizmu korygującego.
 
 **Art. 30.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 4 ust. 2 pkt 7, który wchodzi życie z dniem 1 października 2017 r.;
+- **2)** art. 9, art. 19 pkt 1, 3, 4 i 6, art. 20, art. 23 i art. 25 pkt 1, które wchodzą życie z dniem 1 stycznia 2016 r.;
+- **3)** art. 12 i art. 22, które wchodzą życie z dniem 1 stycznia 2017 r.;
+- **4)** art. 21, który wchodzi życie z dniem 1 stycznia 2018 r.
+
 

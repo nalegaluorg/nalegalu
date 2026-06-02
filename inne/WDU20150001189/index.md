@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-12 |
 | Data wydania | 2015-08-17 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001189) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1189/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117 i 1130.) wprowadza się następujące zmiany:
 
 - **1)** w art. 24: ust. 3 otrzymuje brzmienie: „
     - **a)**
@@ -43,7 +42,7 @@ source: "eli-html"
 - **5)** przygotowanie rocznego sprawozdania finansowego instytucji gospodarki budżetowej; ” , dodaje się pkt 6 w brzmieniu: „
     - **b)**
 
-- **6)** przygotowanie rocznego sprawozdania z działalności instytucji gospodarki budżetowej, którego zakres informacyjny określa art. 49 ust. 2 i 3 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.). ” ;
+- **6)** przygotowanie rocznego sprawozdania z działalności instytucji gospodarki budżetowej, którego zakres informacyjny określa art. 49 ust. 2 i 3 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045 i 1166.). ” ;
 - **3)** w art. 28: w ust. 6 uchyla się pkt 2, uchyla się ust. 7, dodaje się ust. 8 w brzmieniu: „
     - **a)**
     - **b)**
@@ -56,5 +55,5 @@ source: "eli-html"
 
 **Art. 2.** Zysk pozostający w dyspozycji instytucji gospodarki budżetowej, który przed dniem wejścia w życie niniejszej ustawy zwiększył fundusz instytucji gospodarki budżetowej, podlega przeniesieniu na fundusz zapasowy w dniu wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117 i 1130. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045 i 1166.
 

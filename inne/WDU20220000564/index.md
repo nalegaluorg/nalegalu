@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 marca 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Budowa lub modernizacja dróg lokalnych” w ramach poddziałania „Wsparcie inwestycji związanych z tworzeniem, ulepszaniem lub rozbudową wszystkich rodzajów małej infrastruktury, w tym inwestycji w energię odnawialną i w oszczędzanie energii” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 marca 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Budowa lub modernizacja dróg lokalnych” w ramach poddziałania „Wsparcie inwestycji związanych z tworzeniem, ulepszaniem lub rozbudową wszystkich rodzajów małej infrastruktury, w tym inwestycji w energię odnawialną i w oszczędzanie energii” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-02 |
 | Data wydania | 2022-03-09 |
-| Wejście w życie | 2022-03-10 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000564) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/564/text.pdf) |
 
@@ -41,8 +40,7 @@ w § 6 w ust. 2 liczbę „3 000 000” zastępuje się liczbą „5 000 000”;
 3)
 w § 11:
 a)
-w ust. 1 pkt 1 i 2 otrzymują brzmienie:
-„
+w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
 1)
 dochód podatkowy gminy, w której będzie realizowana operacja, w przeliczeniu na jednego mieszkańca obliczany zgodnie z przepisami o dochodach jednostek samorządu terytorialnego z uwzględnieniem wskaźników dochodów podatkowych gmin opublikowanych przez urząd obsługujący ministra właściwego do spraw finansów publicznych do stosowania w roku, w którym nastąpiło ogłoszenie o naborze wniosków o przyznanie pomocy, kształtuje się na poziomie:
 a)
@@ -52,11 +50,9 @@ powyżej 50% średniej wojewódzkiej i nie więcej niż 75% średniej wojewódzk
 c)
 powyżej 75% średniej wojewódzkiej i nie więcej niż 100% średniej wojewódzkiej – 1 punkt;
 2)
-średnia stopy bezrobocia w powiecie, na którego obszarze jest planowana realizacja operacji, w okresie ostatnich 12 miesięcy poprzedzających miesiąc, w którym nastąpiło ogłoszenie o naborze wniosków o przyznanie pomocy, była wyższa albo równa średniej wojewódzkiej stopie bezrobocia w tym okresie – 1 punkt;
-” ,
+średnia stopy bezrobocia w powiecie, na którego obszarze jest planowana realizacja operacji, w okresie ostatnich 12 miesięcy poprzedzających miesiąc, w którym nastąpiło ogłoszenie o naborze wniosków o przyznanie pomocy, była wyższa albo równa średniej wojewódzkiej stopie bezrobocia w tym okresie – 1 punkt; ” ,
 b)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Oprócz kryteriów określonych w ust. 1 do ustalania kolejności przysługiwania pomocy stosuje się również następujące kryteria wyboru operacji – w przypadku województwa:
 1)
@@ -68,7 +64,7 @@ realizowana operacja obejmuje budowę lub przebudowę infrastruktury przeznaczon
 b)
 operacja będzie realizowana w miejscowościach położonych na terenach podgórskich i górskich zgodnie z uchwałą nr XLVI/1587/18 Sejmiku Województwa Dolnośląskiego z dnia 19 kwietnia 2018 r. w sprawie ustalenia wykazu miejscowości w województwie dolnośląskim położonych na terenach podgórskich i górskich dla celów obniżenia podatku rolnego (Dz. Urz. Woj. Dolnośląskiego poz. 2234) – 2 punkty,
 c)
-w wyniku realizacji operacji na całym odcinku objętym operacją nastąpi zmiana drogi gruntowej na drogę twardą w rozumieniu art. 2 pkt 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, z późn. zm.), zwaną dalej „drogą twardą” – 2 punkty;
+w wyniku realizacji operacji na całym odcinku objętym operacją nastąpi zmiana drogi gruntowej na drogę twardą w rozumieniu art. 2 pkt 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165, 2269 i 2328.), zwaną dalej „drogą twardą” – 2 punkty;
 2)
 kujawsko-pomorskiego – w wyniku realizacji operacji na całym odcinku objętym operacją nastąpi zmiana drogi gruntowej na drogę twardą – 8 punktów;
 3)
@@ -228,6 +224,5 @@ Do przyznawania pomocy finansowej na operacje typu „Budowa lub modernizacja dr
 § 3.
 Do wypłaty środków finansowych z tytułu pomocy finansowej, o której mowa w § 2, przyznanej na podstawie umów o przyznaniu tej pomocy, które zostały zawarte przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165, 2269 i 2328.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165, 2269 i 2328.
 

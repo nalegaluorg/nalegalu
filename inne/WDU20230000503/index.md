@@ -26,20 +26,77 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000503) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/503/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 4 lutego 2011 r. Prawo prywatne międzynarodowe Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby fizyczne Rozdział 3 – Osoby prawne i inne jednostki organizacyjne Rozdział 4 – Przedstawicielstwo Rozdział 5 – Dokonanie czynności prawnej i jej forma Rozdział 6 – Przedawnienie roszczeń i inne instytucje związane z upływem czasu Rozdział 7 – Zobowiązania Rozdział 8 – Umowa o arbitraż Rozdział 9 – Własność i inne prawa rzeczowe. Posiadanie Rozdział 10 – Własność intelektualna Rozdział 11 – Sprawy małżeńskie Rozdział 12 – Stosunki między rodzicami a dzieckiem Rozdział 13 – Przysposobienie Rozdział 14 – Opieka i kuratela Rozdział 15 – Obowiązki alimentacyjne Rozdział 16 – Sprawy spadkowe Rozdział 17 – Inne stosunki prawne Rozdział 18 – Zmiany w przepisach obowiązujących Rozdział 19 – Przepisy końcowe
+Załącznik – Tekst jednolity ustawy z dnia 4 lutego 2011 r. Prawo prywatne międzynarodowe
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 lutego 2011 r. – Prawo prywatne międzynarodowe (Dz. U. z 2015 r. poz. 1792), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 4 listopada 2022 r. o zmianie ustawy o prawach konsumenta, ustawy – Kodeks cywilny oraz ustawy – Prawo prywatne międzynarodowe (Dz. U. poz. 2337) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lutego 2023 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4 ust. 1 i art. 5 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o prawach konsumenta, ustawy – Kodeks cywilny oraz ustawy – Prawo prywatne międzynarodowe (Dz. U. poz. 2337), które stanowią:
+Przepisy ogólne
+Osoby fizyczne
+Osoby prawne i inne jednostki organizacyjne
+Przedstawicielstwo
+Dokonanie czynności prawnej i jej forma
+Przedawnienie roszczeń i inne instytucje związane z upływem czasu
+Zobowiązania
+Umowa o arbitraż
+Własność i inne prawa rzeczowe. Posiadanie
+Własność intelektualna
+Sprawy małżeńskie
+Stosunki między rodzicami a dzieckiem
+Przysposobienie
+Opieka i kuratela
+Obowiązki alimentacyjne
+Sprawy spadkowe
+Inne stosunki prawne
+Zmiany w przepisach obowiązujących
 Art. 69–79.
 (pominięte)
+Przepisy końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Osoby fizyczne
+
+#### Rozdział 3 – Osoby prawne i inne jednostki organizacyjne
+
+#### Rozdział 4 – Przedstawicielstwo
+
+#### Rozdział 5 – Dokonanie czynności prawnej i jej forma
+
+#### Rozdział 6 – Przedawnienie roszczeń i inne instytucje związane z upływem czasu
+
+#### Rozdział 7 – Zobowiązania
+
+#### Rozdział 8 – Umowa o arbitraż
+
+#### Rozdział 9 – Własność i inne prawa rzeczowe. Posiadanie
+
+#### Rozdział 10 – Własność intelektualna
+
+#### Rozdział 11 – Sprawy małżeńskie
+
+#### Rozdział 12 – Stosunki między rodzicami a dzieckiem
+
+#### Rozdział 13 – Przysposobienie
+
+#### Rozdział 14 – Opieka i kuratela
+
+#### Rozdział 15 – Obowiązki alimentacyjne
+
+#### Rozdział 16 – Sprawy spadkowe
+
+#### Rozdział 17 – Inne stosunki prawne
+
+#### Rozdział 18 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 19 – Przepisy końcowe
 
 **Art. 4.** „1. Do umów zobowiązujących do przeniesienia własności towaru zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. ” „
 
 **Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 4 lutego 2011 r. Prawo prywatne międzynarodowe
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa niniejsza reguluje właściwość prawa dla stosunków z zakresu prawa prywatnego związanych z więcej niż jednym państwem.
 
@@ -99,7 +156,7 @@ Art. 69–79.
 
 2. Jeżeli nie można stwierdzić w rozsądnym terminie treści właściwego prawa obcego, stosuje się prawo polskie.
 
-#### Rozdział 2 Osoby fizyczne
+#### Rozdział 2
 
 **Art. 11.**
 
@@ -145,7 +202,7 @@ Art. 69–79.
 
 3. Jeżeli do naruszenia dobra osobistego osoby fizycznej doszło w środkach społecznego przekazu, o prawie do odpowiedzi, sprostowania lub innego podobnego środka ochronnego rozstrzyga prawo państwa, w którym ma siedzibę albo miejsce zwykłego pobytu nadawca lub wydawca.
 
-#### Rozdział 3 Osoby prawne i inne jednostki organizacyjne
+#### Rozdział 3
 
 **Art. 17.**
 
@@ -181,7 +238,7 @@ Art. 69–79.
 
 **Art. 21.** Przepisy art. 17–20 stosuje się odpowiednio do jednostek organizacyjnych niemających osobowości prawnej.
 
-#### Rozdział 4 Przedstawicielstwo
+#### Rozdział 4
 
 **Art. 22.** Przedstawicielstwo ustawowe podlega prawu właściwemu dla stosunku prawnego, z którego wynika umocowanie do reprezentowania.
 
@@ -195,7 +252,7 @@ Art. 69–79.
 - **2)** prawu państwa, w którym znajduje się przedsiębiorstwo należące do mocodawcy, jeżeli tu stale działa pełnomocnik, albo
 - **3)** prawu państwa, w którym pełnomocnik rzeczywiście działał, reprezentując mocodawcę, lub w którym wedle woli mocodawcy powinien działać.
 
-#### Rozdział 5 Dokonanie czynności prawnej i jej forma
+#### Rozdział 5
 
 **Art. 24.**
 
@@ -211,13 +268,13 @@ Art. 69–79.
 
 3. Jeżeli czynności prawnej dokonał przedstawiciel, w razie stosowania przepisu ust. 1 zdanie drugie i trzecie, bierze się pod uwagę okoliczności dotyczące przedstawiciela.
 
-#### Rozdział 6 Przedawnienie roszczeń i inne instytucje związane z upływem czasu
+#### Rozdział 6
 
 **Art. 26.** Przedawnienie roszczenia podlega prawu właściwemu dla tego roszczenia.
 
 **Art. 27.** Przepis art. 26 stosuje się odpowiednio do innych instytucji związanych z upływem czasu.
 
-#### Rozdział 7 Zobowiązania
+#### Rozdział 7
 
 **Art. 28.**
 
@@ -237,7 +294,7 @@ Art. 69–79.
 
 - **1)** dyrektywę Rady 93/13/EWG z dnia 5 kwietnia 1993 r. w sprawie nieuczciwych warunków w umowach konsumenckich (Dz. Urz. WE L 95 z 21.04.1993, str. 29; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 288);
 - **2)** (uchylony)
-- **3)** (uchylony)
+- **3)** (uchylony)Przez art. 3 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o prawach konsumenta, ustawy – Kodeks cywilny oraz ustawy – Prawo prywatne międzynarodowe (Dz. U. poz. 2337), która weszła w życie z dniem 1 stycznia 2023 r.
 - **4)** dyrektywę 2002/65/WE Parlamentu Europejskiego i Rady z dnia 23 września 2002 r. dotyczącą sprzedaży konsumentom usług finansowych na odległość oraz zmieniającą dyrektywę Rady 90/619/EWG oraz dyrektywy 97/7/WE i 98/27/WE (Dz. Urz. UE L 271 z 09.10.2002, str. 16; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 4, str. 321);
 - **5)** dyrektywę Parlamentu Europejskiego i Rady 2008/48/WE z dnia 23 kwietnia 2008 r. w sprawie umów o kredyt konsumencki oraz uchylającą dyrektywę Rady 87/102/EWG (Dz. Urz. UE L 133 z 22.05.2008, str. 66, z późn. zm.).
 
@@ -266,7 +323,7 @@ Art. 69–79.
 
 **Art. 38.** Wpływ zmiany wartości waluty na wysokość zobowiązania ocenia się według prawa właściwego dla tego zobowiązania.
 
-#### Rozdział 8 Umowa o arbitraż
+#### Rozdział 8
 
 **Art. 39.**
 
@@ -276,7 +333,7 @@ Art. 69–79.
 
 **Art. 40.** Forma umowy o arbitraż podlega prawu państwa miejsca arbitrażu. Wystarczy jednak zachowanie formy przewidzianej przez prawo państwa, któremu umowa o arbitraż podlega.
 
-#### Rozdział 9 Własność i inne prawa rzeczowe. Posiadanie
+#### Rozdział 9
 
 **Art. 41.**
 
@@ -292,7 +349,7 @@ Art. 69–79.
 
 **Art. 45.** Przepisy art. 41–44 stosuje się odpowiednio do posiadania.
 
-#### Rozdział 10 Własność intelektualna
+#### Rozdział 10
 
 **Art. 46.**
 
@@ -304,7 +361,7 @@ Art. 69–79.
 
 **Art. 47.** Uprawnienia pracownika wobec pracodawcy z tytułu praw własności intelektualnej związanych z jego działalnością w ramach stosunku pracy podlegają prawu właściwemu dla tego stosunku.
 
-#### Rozdział 11 Sprawy małżeńskie
+#### Rozdział 11
 
 **Art. 48.** O możności zawarcia małżeństwa rozstrzyga w stosunku do każdej ze stron jej prawo ojczyste z chwili zawarcia małżeństwa.
 
@@ -346,7 +403,7 @@ Art. 69–79.
 
 4. Postanowienia ust. 1–3 stosuje się odpowiednio do separacji.
 
-#### Rozdział 12 Stosunki między rodzicami a dzieckiem
+#### Rozdział 12
 
 **Art. 55.**
 
@@ -364,7 +421,7 @@ Art. 69–79.
 
 2. W razie zmiany zwykłego pobytu dziecka na pobyt w państwie niebędącym stroną konwencji, o której mowa w ust. 1, prawo tego państwa określa od chwili tej zmiany warunki stosowania środków podjętych w państwie dawnego zwykłego pobytu dziecka.
 
-#### Rozdział 13 Przysposobienie
+#### Rozdział 13
 
 **Art. 57.**
 
@@ -374,7 +431,7 @@ Art. 69–79.
 
 **Art. 58.** Przysposobienie nie może nastąpić bez zachowania przepisów prawa ojczystego osoby, która ma być przysposobiona, dotyczących zgody tej osoby, zgody jej przedstawiciela ustawowego oraz zezwolenia właściwego organu państwowego, a także ograniczeń przysposobienia z powodu zmiany dotychczasowego miejsca zamieszkania na miejsce zamieszkania w innym państwie.
 
-#### Rozdział 14 Opieka i kuratela
+#### Rozdział 14
 
 **Art. 59.**
 
@@ -390,17 +447,17 @@ Art. 69–79.
 
 3. Wykonywanie środków, o których mowa w ust. 1, podlega prawu państwa, na którego terytorium ma miejsce zwykłego pobytu osoba, której te środki dotyczą.
 
-4. W przypadkach, o których mowa w art. 1107 § 2 i 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.), stosuje się prawo polskie. To samo dotyczy wykonywania orzeczonych środków.
+4. W przypadkach, o których mowa w art. 1107 § 2 i 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687.), stosuje się prawo polskie. To samo dotyczy wykonywania orzeczonych środków.
 
 **Art. 61.** Do kurateli dla osoby prawnej stosuje się prawo państwa, któremu osoba ta podlega.
 
 **Art. 62.** Dla kurateli do załatwienia poszczególnej sprawy stosuje się prawo państwa, któremu sprawa ta podlega.
 
-#### Rozdział 15 Obowiązki alimentacyjne
+#### Rozdział 15
 
 **Art. 63.** Prawo właściwe dla zobowiązań alimentacyjnych określa rozporządzenie Rady (WE) nr 4/2009 z dnia 18 grudnia 2008 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń oraz współpracy w zakresie zobowiązań alimentacyjnych (Dz. Urz. UE L 7 z 10.01.2009, str. 1).
 
-#### Rozdział 16 Sprawy spadkowe
+#### Rozdział 16
 
 **Art. 64.** (uchylony)
 
@@ -408,17 +465,17 @@ Art. 69–79.
 
 **Art. 66.** (uchylony) Prawo właściwe dla spraw spadkowych określa rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, z późn. zm.).
 
-#### Rozdział 17 Inne stosunki prawne
+#### Rozdział 17
 
 **Art. 67.** W razie braku wskazania prawa właściwego w niniejszej ustawie, przepisach szczególnych, obowiązujących w Rzeczypospolitej Polskiej ratyfikowanych umowach międzynarodowych i prawie Unii Europejskiej, do stosunku objętego zakresem niniejszej ustawy należy stosować prawo państwa, z którym stosunek ten jest najściślej związany.
 
 **Art. 68.** Do stosunków prawnych objętych niniejszą ustawą nie stosuje się art. 3 ust. 1, art. 6 i art. 7 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642).
 
-#### Rozdział 18 Zmiany w przepisach obowiązujących
+#### Rozdział 18
 
-#### Rozdział 19 Przepisy końcowe
+#### Rozdział 19
 
 **Art. 80.** Traci moc ustawa z dnia 12 listopada 1965 r. – Prawo prywatne międzynarodowe (Dz. U. poz. 290, z 1995 r. poz. 417 oraz z 1999 r. poz. 532), z wyjątkiem przepisów odnoszących się do zobowiązań alimentacyjnych, które w tym zakresie pozostają w mocy do dnia 17 czerwca 2011 r.
 
-**Art. 81.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 63, który wchodzi w życie z dniem 18 czerwca 2011 r.
+**Art. 81.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 15 kwietnia 2011 r., z wyjątkiem art. 63, który wchodzi w życie z dniem 18 czerwca 2011 r. 1) Przez art. 3 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o prawach konsumenta, ustawy – Kodeks cywilny oraz ustawy – Prawo prywatne międzynarodowe (Dz. U. poz. 2337), która weszła w życie z dniem 1 stycznia 2023 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687. 3) Ustawa została ogłoszona w dniu 15 kwietnia 2011 r.
 

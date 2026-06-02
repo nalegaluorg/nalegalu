@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
+# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/1808 z dnia 14 listopada 2018 r. zmieniającą dyrektywę 2010/13/UE w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) ze względu na zmianę sytuacji na rynku (Dz. Urz. UE L 303 z 28.11.2018, str. 69).
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-11 |
 | Data wydania | 2021-09-13 |
-| Wejście w życie | 2021-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001676) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1676/text.pdf) |
 
+Platformy udostępniania wideo
 Nałożenie na dostawcę platformy udostępniania wideo obowiązku lub zakazu umieszczania określonej audycji, wideo stworzonego przez użytkownika lub innego przekazu na platformie udostępniania wideo może nastąpić wyłącznie na podstawie ustawy.
 1.
 Dostawca platformy udostępniania wideo jest obowiązany do zapewnienia użytkownikom łatwego, bezpośredniego i stałego dostępu do informacji o:
@@ -159,29 +159,21 @@ Mediatorem może być osoba fizyczna posiadająca wykształcenie w dziedzinie pr
 3.
 Do mediacji przepisy art. 1831–1837 i art. 18311–18315 Kodeksu postępowania cywilnego stosuje się odpowiednio.
 Dostawcy platformy udostępniania wideo są obowiązani do przechowywania kopii audycji, wideo stworzonych przez użytkowników, przekazów handlowych i innych przekazów udostępnianych publicznie przez okres nie krótszy niż 28 dni od dnia ich usunięcia z platformy udostępniania wideo lub zakończenia ich udostępniania oraz do przedstawienia ich Przewodniczącemu Krajowej Rady po otrzymaniu żądania, o którym mowa w art. 10 ust. 2.
-Dostawca platformy udostępniania wideo upowszechnia umiejętności świadomego korzystania z mediów wśród swoich użytkowników przez upowszechnianie wiedzy o ich prawach i obowiązkach oraz o prawach i obowiązkach dostawcy platformy udostępniania wideo, które wynikają z przepisów art. 47l, art. 47m ust. 1–6, art. 47o ust. 1, art. 47p ust. 1, art. 47q ust. 1, art. 47r, art. 47s ust. 1 i 2, art. 47t i art. 47u.
-” ;
+Dostawca platformy udostępniania wideo upowszechnia umiejętności świadomego korzystania z mediów wśród swoich użytkowników przez upowszechnianie wiedzy o ich prawach i obowiązkach oraz o prawach i obowiązkach dostawcy platformy udostępniania wideo, które wynikają z przepisów art. 47l, art. 47m ust. 1–6, art. 47o ust. 1, art. 47p ust. 1, art. 47q ust. 1, art. 47r, art. 47s ust. 1 i 2, art. 47t i art. 47u. ” ;
 36)
-w art. 53 ust. 1 otrzymuje brzmienie:
-„
+w art. 53 ust. 1 otrzymuje brzmienie: „
 1.
-Jeżeli nadawca narusza obowiązek wynikający z przepisów art. 14a ust. 1–2, art. 15 ust. 1, 2 i 3, art. 15a ust. 1, art. 16 ust. 1–6, art. 16a, art. 16b ust. 1–3, art. 16c, art. 17 ust. 1–7, art. 17a ust. 1–7, art. 18 ust. 1–5b i 7, art. 18a ust. 1 i 1a, art. 20 ust. 1, art. 20b ust. 1 i 6, art. 20c ust. 1–5, art. 37c ust. 1 i 2, art. 43 ust. 2 lub art. 43a ust. 1 lub z przepisów wydanych na podstawie art. 14a ust. 3, art. 15 ust. 4, art. 15a ust. 6 i 7, art. 16 ust. 7, art. 16b ust. 3b, art. 17 ust. 8, art. 17a ust. 9, art. 18 ust. 6, art. 18a ust. 2 lub art. 37c ust. 3 lub nie zastosował się do wezwania, o którym mowa w art. 43a ust. 2, Przewodniczący Krajowej Rady wydaje decyzję nakładającą na nadawcę karę pieniężną w wysokości do 50% rocznej opłaty za prawo do dysponowania częstotliwością przeznaczoną do rozpowszechniania programu drogą rozsiewczą naziemną, a w przypadku gdy nadawca nie uiszcza opłaty za prawo do dysponowania taką częstotliwością, karę pieniężną w wysokości do 10% przychodu nadawcy, osiągniętego w poprzednim roku podatkowym, uwzględniając zakres i stopień szkodliwości naruszenia, dotychczasową działalność nadawcy oraz jego możliwości finansowe.
-” ;
+Jeżeli nadawca narusza obowiązek wynikający z przepisów art. 14a ust. 1–2, art. 15 ust. 1, 2 i 3, art. 15a ust. 1, art. 16 ust. 1–6, art. 16a, art. 16b ust. 1–3, art. 16c, art. 17 ust. 1–7, art. 17a ust. 1–7, art. 18 ust. 1–5b i 7, art. 18a ust. 1 i 1a, art. 20 ust. 1, art. 20b ust. 1 i 6, art. 20c ust. 1–5, art. 37c ust. 1 i 2, art. 43 ust. 2 lub art. 43a ust. 1 lub z przepisów wydanych na podstawie art. 14a ust. 3, art. 15 ust. 4, art. 15a ust. 6 i 7, art. 16 ust. 7, art. 16b ust. 3b, art. 17 ust. 8, art. 17a ust. 9, art. 18 ust. 6, art. 18a ust. 2 lub art. 37c ust. 3 lub nie zastosował się do wezwania, o którym mowa w art. 43a ust. 2, Przewodniczący Krajowej Rady wydaje decyzję nakładającą na nadawcę karę pieniężną w wysokości do 50% rocznej opłaty za prawo do dysponowania częstotliwością przeznaczoną do rozpowszechniania programu drogą rozsiewczą naziemną, a w przypadku gdy nadawca nie uiszcza opłaty za prawo do dysponowania taką częstotliwością, karę pieniężną w wysokości do 10% przychodu nadawcy, osiągniętego w poprzednim roku podatkowym, uwzględniając zakres i stopień szkodliwości naruszenia, dotychczasową działalność nadawcy oraz jego możliwości finansowe. ” ;
 37)
-w art. 53b po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+w art. 53b po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Jeżeli podmiot dokonujący zmian, modyfikacji lub innych naruszeń integralności usługi medialnej, o których mowa w art. 44b, narusza integralność tej usługi medialnej wbrew postanowieniom art. 44b, ponosi odpowiedzialność na zasadach określonych w ust. 1 i 2.
-” ;
+Jeżeli podmiot dokonujący zmian, modyfikacji lub innych naruszeń integralności usługi medialnej, o których mowa w art. 44b, narusza integralność tej usługi medialnej wbrew postanowieniom art. 44b, ponosi odpowiedzialność na zasadach określonych w ust. 1 i 2. ” ;
 38)
-w art. 53c ust. 1 otrzymuje brzmienie:
-„
+w art. 53c ust. 1 otrzymuje brzmienie: „
 1.
-Jeżeli podmiot dostarczający audiowizualną usługę medialną na żądanie narusza przepisy art. 16 ust. 1, art. 16b ust. 1–3a, art. 16c, art. 17 ust. 1–2, 4, 5, 6a i 7, art. 17a ust. 1–3, 5 i 6, art. 47a, art. 47b, art. 47c ust. 1–2, art. 47ca ust. 1 i 4, art. 47d, art. 47e ust. 1, 2 i 5, art. 47f ust. 1 i 2, art. 47g ust. 1, 4 i 5, art. 47h lub art. 47i lub przepisy wydane na podstawie art. 16b ust. 3b, art. 17 ust. 8 z wyłączeniem przepisów dotyczących ewidencji sponsorowanych audycji lub innych przekazów, art. 17a ust. 9 w zakresie szczególnych warunków oznaczania przez nadawcę audycji, w których zastosowano lokowanie produktu, znakiem graficznym, a także przepisy wydane na podstawie art. 47c ust. 3, art. 47e ust. 3 i 4, art. 47g ust. 6, Przewodniczący Krajowej Rady wydaje decyzję nakładającą na niego karę pieniężną w wysokości do dwudziestokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wpłatami z zysku, w kwartale poprzedzającym wydanie decyzji nakładającej karę, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
-” ;
+Jeżeli podmiot dostarczający audiowizualną usługę medialną na żądanie narusza przepisy art. 16 ust. 1, art. 16b ust. 1–3a, art. 16c, art. 17 ust. 1–2, 4, 5, 6a i 7, art. 17a ust. 1–3, 5 i 6, art. 47a, art. 47b, art. 47c ust. 1–2, art. 47ca ust. 1 i 4, art. 47d, art. 47e ust. 1, 2 i 5, art. 47f ust. 1 i 2, art. 47g ust. 1, 4 i 5, art. 47h lub art. 47i lub przepisy wydane na podstawie art. 16b ust. 3b, art. 17 ust. 8 z wyłączeniem przepisów dotyczących ewidencji sponsorowanych audycji lub innych przekazów, art. 17a ust. 9 w zakresie szczególnych warunków oznaczania przez nadawcę audycji, w których zastosowano lokowanie produktu, znakiem graficznym, a także przepisy wydane na podstawie art. 47c ust. 3, art. 47e ust. 3 i 4, art. 47g ust. 6, Przewodniczący Krajowej Rady wydaje decyzję nakładającą na niego karę pieniężną w wysokości do dwudziestokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wpłatami z zysku, w kwartale poprzedzającym wydanie decyzji nakładającej karę, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. ” ;
 39)
-po art. 53d dodaje się art. 53e w brzmieniu:
-„
+po art. 53d dodaje się art. 53e w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805) wprowadza się następujące zmiany:
 
@@ -267,10 +259,20 @@ po art. 53d dodaje się art. 53e w brzmieniu:
 - **6)** w art. 6: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Krajowa Rada stoi na straży wolności słowa w radiu i telewizji, samodzielności dostawców usług medialnych oraz dostawców platform udostępniania wideo, interesów odbiorców usług i użytkowników oraz zapewnia otwarty i pluralistyczny charakter radiofonii i telewizji. ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) określanie, w granicach upoważnień ustawowych, warunków prowadzenia działalności przez dostawców usług medialnych oraz dostawców platform udostępniania wideo; ” , – pkt 4–5a otrzymują brzmienie: „ 4) sprawowanie w granicach określonych ustawą kontroli działalności dostawców usług medialnych oraz dostawców platform udostępniania wideo; 5) organizowanie badań treści i odbioru usług medialnych oraz platform udostępniania wideo; 5a) prowadzenie wykazów audiowizualnych usług medialnych na żądanie oraz platform udostępniania wideo; ” , – pkt 7 otrzymuje brzmienie: „ 7) opiniowanie projektów aktów prawnych oraz umów międzynarodowych dotyczących radiofonii i telewizji, audiowizualnych usług medialnych na żądanie lub platform udostępniania wideo; ” , – pkt 9 i 10 otrzymują brzmienie: „ 9) organizowanie i inicjowanie współpracy z zagranicą w dziedzinie radiofonii i telewizji, w tym współpracy z organami regulacyjnymi państw członkowskich Unii Europejskiej, właściwymi w sprawach usług medialnych lub platform udostępniania wideo, Komisją Europejską oraz tworzenie i przystępowanie do porozumień opracowywanych w ramach Europejskiej Grupy Regulatorów ds. Audiowizualnych Usług Medialnych (ERGA); 10) współpraca z właściwymi organizacjami i instytucjami w zakresie ochrony praw autorskich, praw wykonawców, praw producentów oraz dostawców usług medialnych i dostawców platform udostępniania wideo; ” , – pkt 12 otrzymuje brzmienie: „ 12) inicjowanie i wspieranie samoregulacji w zakresie dostarczania usług medialnych i platform udostępniania wideo; ” , – w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 i 15 w brzmieniu: „ 14) prowadzenie badań i dokonywanie oceny realizacji stanu edukacji medialnej, w tym oceny działań dostawców usług medialnych i dostawców platform udostępniania wideo w tym zakresie; 15) prowadzenie punktu kontaktowego w celu dostarczania informacji i odbierania skarg w kwestiach związanych z dostępnością usług medialnych dla osób z niepełnosprawnościami wzroku oraz osób z niepełnosprawnościami słuchu. ” , dodaje się ust. 3 w brzmieniu: „
+1. Krajowa Rada stoi na straży wolności słowa w radiu i telewizji, samodzielności dostawców usług medialnych oraz dostawców platform udostępniania wideo, interesów odbiorców usług i użytkowników oraz zapewnia otwarty i pluralistyczny charakter radiofonii i telewizji. ” , w ust. 2: pkt 2 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **2)** określanie, w granicach upoważnień ustawowych, warunków prowadzenia działalności przez dostawców usług medialnych oraz dostawców platform udostępniania wideo; ” , pkt 4–5a otrzymują brzmienie: „
+- **4)** sprawowanie w granicach określonych ustawą kontroli działalności dostawców usług medialnych oraz dostawców platform udostępniania wideo;
+- **5)** organizowanie badań treści i odbioru usług medialnych oraz platform udostępniania wideo;
+- **5a)** prowadzenie wykazów audiowizualnych usług medialnych na żądanie oraz platform udostępniania wideo; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** opiniowanie projektów aktów prawnych oraz umów międzynarodowych dotyczących radiofonii i telewizji, audiowizualnych usług medialnych na żądanie lub platform udostępniania wideo; ” , pkt 9 i 10 otrzymują brzmienie: „
+- **9)** organizowanie i inicjowanie współpracy z zagranicą w dziedzinie radiofonii i telewizji, w tym współpracy z organami regulacyjnymi państw członkowskich Unii Europejskiej, właściwymi w sprawach usług medialnych lub platform udostępniania wideo, Komisją Europejską oraz tworzenie i przystępowanie do porozumień opracowywanych w ramach Europejskiej Grupy Regulatorów ds. Audiowizualnych Usług Medialnych (ERGA);
+- **10)** współpraca z właściwymi organizacjami i instytucjami w zakresie ochrony praw autorskich, praw wykonawców, praw producentów oraz dostawców usług medialnych i dostawców platform udostępniania wideo; ” , pkt 12 otrzymuje brzmienie: „
+- **12)** inicjowanie i wspieranie samoregulacji w zakresie dostarczania usług medialnych i platform udostępniania wideo; ” , w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 i 15 w brzmieniu: „
+- **14)** prowadzenie badań i dokonywanie oceny realizacji stanu edukacji medialnej, w tym oceny działań dostawców usług medialnych i dostawców platform udostępniania wideo w tym zakresie;
+- **15)** prowadzenie punktu kontaktowego w celu dostarczania informacji i odbierania skarg w kwestiach związanych z dostępnością usług medialnych dla osób z niepełnosprawnościami wzroku oraz osób z niepełnosprawnościami słuchu. ” , dodaje się ust. 3 w brzmieniu: „
+    - **c)**
 
 3. Krajowa Rada przekazuje Komisji Europejskiej:
 
@@ -278,7 +280,7 @@ po art. 53d dodaje się art. 53e w brzmieniu:
 - **2)** sprawozdanie z wykonywania przez dostawców usług medialnych obowiązków, o których mowa w art. 18a i art. 47g,
 - **3)** sprawozdanie z wykonywania przez dostawców usług medialnych obowiązków, o których mowa w art. 15 ust. 3, art. 15a ust. 1, art. 47f ust. 2 ustawy oraz art. 19 ust. 3, 3a, 6a i 6b ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2021 r. poz. 257 i 1676),
 - **4)** sprawozdanie dotyczące stosowania przez dostawców platform udostępniania wideo środków przeciwdziałających udostępnianiu treści, o których mowa w art. 47p ust. 1,
-- **5)** sprawozdanie ze stanu edukacji medialnej, w tym oceny działań dostawców usług medialnych i dostawców platform udostępniania wideo w tym zakresie w terminach określonych w dyrektywie Parlamentu Europejskiego i Rady (UE) 2018/1808 z dnia 14 listopada 2018 r. zmieniającej dyrektywę 2010/13/UE w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) ze względu na zmianę sytuacji na rynku (Dz. Urz. UE L 303 z 28.11.2018, s. 69). ” ;
+- **5)** sprawozdanie ze stanu edukacji medialnej, w tym oceny działań dostawców usług medialnych i dostawców platform udostępniania wideo w tym zakresie – w terminach określonych w dyrektywie Parlamentu Europejskiego i Rady (UE) 2018/1808 z dnia 14 listopada 2018 r. zmieniającej dyrektywę 2010/13/UE w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) ze względu na zmianę sytuacji na rynku (Dz. Urz. UE L 303 z 28.11.2018, s. 69). ” ;
 - **7)** w art. 10 ust. 2–4 otrzymują brzmienie: „
 
 2. Przewodniczący Krajowej Rady może żądać od dostawcy usługi medialnej lub dostawcy platformy udostępniania wideo lub podmiotu dokonującego zmian, modyfikacji lub innych naruszeń integralności usługi medialnej, o których mowa w art. 44b, przedstawienia materiałów, dokumentów oraz udzielenia wyjaśnień w zakresie niezbędnym dla kontroli zgodności działania tego dostawcy lub podmiotu z przepisami ustawy, warunkami koncesji, regulaminem świadczenia usługi lub wiążącymi go aktami samoregulacji.
@@ -340,7 +342,7 @@ po art. 53d dodaje się art. 53e w brzmieniu:
 
 - **1)** sposób prowadzenia przez nadawcę programów telewizyjnych ewidencji, o której mowa w ust. 4,
 - **2)** czas przechowywania ewidencji, o której mowa w ust. 4, nie krótszy niż rok,
-- **3)** zakres informacji zawartych w ewidencji, o której mowa w ust. 4, w tym dane o terminie rozpowszechniania audycji, rzeczywisty czas trwania audycji, tytuł i producenta audycji uwzględniając możliwość prowadzenia ewidencji w postaci elektronicznej, konieczność zapewnienia przejrzystości oraz jawności informacji znajdujących się w ewidencji oraz nieobciążania nadawców nadmiernymi utrudnieniami i kosztami w związku z prowadzeniem ewidencji.
+- **3)** zakres informacji zawartych w ewidencji, o której mowa w ust. 4, w tym dane o terminie rozpowszechniania audycji, rzeczywisty czas trwania audycji, tytuł i producenta audycji – uwzględniając możliwość prowadzenia ewidencji w postaci elektronicznej, konieczność zapewnienia przejrzystości oraz jawności informacji znajdujących się w ewidencji oraz nieobciążania nadawców nadmiernymi utrudnieniami i kosztami w związku z prowadzeniem ewidencji.
 
 7. Krajowa Rada określi, w drodze rozporządzenia, niższy udział audycji europejskich wytworzonych przez producentów niezależnych w okresie 5 lat przed rozpowszechnieniem w programie dla programów telewizyjnych, dla których ze względu na wyspecjalizowany charakter programu brak jest wystarczającej liczby tych audycji, uwzględniając wpływ charakteru programów telewizyjnych na możliwość realizacji przez nadawców tych obowiązków. ” ;
 
@@ -350,8 +352,11 @@ po art. 53d dodaje się art. 53e w brzmieniu:
 3. Łączny czas nadawania reklamy i telesprzedaży w godzinach:
 
 - **1)** 6–18 nie może przekroczyć 144 minut;
-- **2)** 18–24 nie może przekroczyć 72 minut. ” , w ust. 4: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) ogłoszeń nadawcy zawierających jedynie informację o usługach medialnych lub audycjach rozpowszechnianych w usługach medialnych dostarczanych przez podmioty wchodzące w skład tej samej grupy kapitałowej w rozumieniu art. 4 pkt 14 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów; ” , – pkt 3 otrzymuje brzmienie: „ 3) wymaganych prawem oznaczeń przekazów handlowych, w tym oznaczeń oddzielających reklamę od audycji i innych przekazów lub wskazań sponsorów. ” , ust. 5 otrzymuje brzmienie: „
+- **2)** 18–24 nie może przekroczyć 72 minut. ” , w ust. 4: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **b)**
+
+- **1a)** ogłoszeń nadawcy zawierających jedynie informację o usługach medialnych lub audycjach rozpowszechnianych w usługach medialnych dostarczanych przez podmioty wchodzące w skład tej samej grupy kapitałowej w rozumieniu art. 4 pkt 14 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** wymaganych prawem oznaczeń przekazów handlowych, w tym oznaczeń oddzielających reklamę od audycji i innych przekazów lub wskazań sponsorów. ” , ust. 5 otrzymuje brzmienie: „
     - **c)**
 
 5. Ogłoszenia, o których mowa w ust. 4 pkt 1 i 2, są emitowane między audycjami. ” ;
@@ -398,13 +403,13 @@ po art. 53d dodaje się art. 53e w brzmieniu:
 5b. Nadawcy są obowiązani do kwalifikowania i oznaczania audycji i innych przekazów, innych niż te, o których mowa w ust. 5, z wyłączeniem serwisów informacyjnych, reklam, telesprzedaży, transmisji sportowych i przekazów tekstowych:
 
 - **1)** odpowiednim symbolem graficznym przez cały czas ich emisji telewizyjnej, wskazującym, czy treści mogą mieć negatywny wpływ na prawidłowy fizyczny, psychiczny lub moralny rozwój małoletnich, oraz
-- **2)** w przypadku występowania treści mogących mieć negatywny wpływ na prawidłowy fizyczny, psychiczny lub moralny rozwój małoletnich – odpowiednim symbolem graficznym wskazującym rodzaj takich treści przed ich emisją telewizyjną oraz na jej początku uwzględniając stopień szkodliwości danej audycji lub przekazu dla małoletnich w poszczególnych kategoriach wiekowych.
+- **2)** w przypadku występowania treści mogących mieć negatywny wpływ na prawidłowy fizyczny, psychiczny lub moralny rozwój małoletnich – odpowiednim symbolem graficznym wskazującym rodzaj takich treści przed ich emisją telewizyjną oraz na jej początku – uwzględniając stopień szkodliwości danej audycji lub przekazu dla małoletnich w poszczególnych kategoriach wiekowych.
 
 6. Krajowa Rada określi, w drodze rozporządzenia:
 
 - **1)** cechy oraz szczegółowe warunki kwalifikowania, rozpowszechniania i sposób zapowiadania audycji lub innych przekazów, o których mowa w ust. 5,
 - **2)** podział małoletnich na kategorie wiekowe oraz szczegółowe warunki kwalifikowania i rozpowszechniania audycji lub innych przekazów, o których mowa w ust. 5b, w tym godzin nadawania audycji lub innych przekazów przeznaczonych dla danej kategorii wiekowej,
-- **3)** wzory symboli graficznych i formuł zapowiedzi, o których mowa w ust. 5a i 5b, oraz sposób ich prezentacji uwzględniając rodzaje treści mogących mieć negatywny wpływ na prawidłowy fizyczny, psychiczny lub moralny rozwój małoletnich, możliwości techniczne przekazywania odbiorcom informacji o rozpowszechnianych treściach oraz stopień szkodliwości audycji dla małoletnich w poszczególnych kategoriach wiekowych. ” , dodaje się ust. 8 w brzmieniu: „
+- **3)** wzory symboli graficznych i formuł zapowiedzi, o których mowa w ust. 5a i 5b, oraz sposób ich prezentacji – uwzględniając rodzaje treści mogących mieć negatywny wpływ na prawidłowy fizyczny, psychiczny lub moralny rozwój małoletnich, możliwości techniczne przekazywania odbiorcom informacji o rozpowszechnianych treściach oraz stopień szkodliwości audycji dla małoletnich w poszczególnych kategoriach wiekowych. ” , dodaje się ust. 8 w brzmieniu: „
     - **c)**
 
 8. Dane osobowe małoletnich zebrane lub w inny sposób wygenerowane przez nadawców w związku ze stosowaniem zabezpieczeń technicznych lub innych odpowiednich środków, mających na celu ochronę małoletnich przed treściami mogącymi mieć negatywny wpływ na ich prawidłowy rozwój fizyczny, psychiczny lub moralny, nie mogą być przetwarzane do celów handlowych, takich jak: marketing bezpośredni, profilowanie, reklama ukierunkowana behawioralnie lub inne formy przekazów handlowych kierowanych do wybranych przez nadawcę grup odbiorców, i wykorzystywane dla tych celów przy dostarczaniu tej usługi, innych usług medialnych lub platform udostępniania wideo. ” ;
@@ -562,7 +567,7 @@ po art. 53d dodaje się art. 53e w brzmieniu:
 2. Podmiot dostarczający audiowizualną usługę medialną na żądanie, uwzględniając rodzaj treści mogących mieć negatywny wpływ na prawidłowy rozwój fizyczny, psychiczny lub moralny oraz stopień szkodliwości audycji lub innego przekazu dla małoletnich w poszczególnych kategoriach wiekowych, jest obowiązany do odpowiedniego kwalifikowania i oznaczania audycji i innych przekazów:
 
 - **1)** odpowiednim symbolem graficznym wskazującym, że treści mogą mieć negatywny wpływ na prawidłowy fizyczny, psychiczny lub moralny rozwój małoletnich, oraz
-- **2)** odpowiednim symbolem graficznym wskazującym rodzaj treści mogących mieć negatywny wpływ na prawidłowy fizyczny, psychiczny lub moralny rozwój małoletnich w taki sposób, aby użytkownik mógł z łatwością zapoznać się z oznaczeniem zarówno w chwili wyboru audycji, jak i w trakcie jej trwania. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** odpowiednim symbolem graficznym wskazującym rodzaj treści mogących mieć negatywny wpływ na prawidłowy fizyczny, psychiczny lub moralny rozwój małoletnich – w taki sposób, aby użytkownik mógł z łatwością zapoznać się z oznaczeniem zarówno w chwili wyboru audycji, jak i w trakcie jej trwania. ” , ust. 4 otrzymuje brzmienie: „
     - **b)**
 
 4. Krajowa Rada określi, w drodze rozporządzenia, cechy oraz szczegółowe warunki kwalifikowania i oznaczania audycji i innych przekazów oraz wzory odpowiednich symboli graficznych, uwzględniając rodzaje treści mogących mieć negatywny wpływ na prawidłowy rozwój fizyczny, psychiczny lub moralny oraz stopień szkodliwości audycji dla małoletnich w poszczególnych kategoriach wiekowych oraz specyfikę audiowizualnych usług medialnych na żądanie. ” , dodaje się ust. 5 w brzmieniu: „
@@ -619,7 +624,7 @@ po art. 53d dodaje się art. 53e w brzmieniu:
 
 - **35)** po rozdziale 6a dodaje się rozdział 6b w brzmieniu: „
 
-#### Rozdział 6b Platformy udostępniania wideo
+#### Rozdział 6b
 
 **Art. 53e.**
 
@@ -672,7 +677,7 @@ po art. 53d dodaje się art. 53e w brzmieniu:
 - **1)** w 2022 r. co najmniej 5% audycji umieszczonych w udostępnianym publicznie katalogu,
 - **2)** w 2023 r. co najmniej 10% audycji umieszczonych w udostępnianym publicznie katalogu,
 - **3)** w latach 2024 i 2025 co najmniej 20% audycji umieszczonych w udostępnianym publicznie katalogu,
-- **4)** od 2026 r. co najmniej 30% audycji umieszczonych w udostępnianym publicznie katalogu posiadało takie udogodnienia.
+- **4)** od 2026 r. co najmniej 30% audycji umieszczonych w udostępnianym publicznie katalogu – posiadało takie udogodnienia.
 
 2. W 2026 r. Przewodniczący Krajowej Rady Radiofonii i Telewizji przedstawi Sejmowi, Senatowi oraz ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego informację o realizacji obowiązku, o którym mowa w art. 47g ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz o możliwości zwiększenia poziomu udogodnień dla osób z niepełnosprawnościami w udostępnianych publicznie katalogach audiowizualnych usług medialnych na żądanie.
 
@@ -684,5 +689,5 @@ po art. 53d dodaje się art. 53e w brzmieniu:
 
 **Art. 6.** Przepisy wykonawcze wydane na podstawie art. 15a ust. 2 i 3, art. 18 ust. 6 oraz art. 47e ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15a ust. 6 i 7, art. 18 ust. 6 oraz art. 47e ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem 1 listopada 2021 r., z wyjątkiem art. 1 pkt 10, 31, pkt 32 w zakresie art. 47g i pkt 33 lit. b, art. 2 oraz art. 4, które wchodzą w życie z dniem 1 stycznia 2022 r.
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 listopada 2021 r., z wyjątkiem art. 1 pkt 10, 31, pkt 32 w zakresie art. 47g i pkt 33 lit. b, art. 2 oraz art. 4, które wchodzą w życie z dniem 1 stycznia 2022 r. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/1808 z dnia 14 listopada 2018 r. zmieniającą dyrektywę 2010/13/UE w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) ze względu na zmianę sytuacji na rynku (Dz. Urz. UE L 303 z 28.11.2018, str. 69).
 

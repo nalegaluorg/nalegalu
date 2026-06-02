@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-12 |
 | Data wydania | 2022-05-23 |
-| Wejście w życie | 2022-05-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001087) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1087/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.) po art. 22 dodaje się art. 22a-22h w brzmieniu: „
+**Art. 1.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930 i 1002.) po art. 22 dodaje się art. 22a-22h w brzmieniu: „
 
 **Art. 22a.**
 
@@ -114,12 +113,12 @@ source: "eli-html"
 - **2)** usługi, o której mowa w art. 22a ust. 3 pkt 2;
 - **3)** usługi sieciowej, o której mowa w art. 22f ust. 2. ” .
 
-**Art. 2.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070) po art. 13a dodaje się art. 13aa w brzmieniu: „ Art. 13aa. Minister właściwy do spraw informatyzacji może podjąć działania mające na celu rozwój i wykorzystanie systemu teleinformatycznego, o którym mowa w art. 22a ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.), do realizacji zadań publicznych po zasięgnięciu opinii ministra, w którego właściwości pozostają sprawy związane z realizacją tych zadań. ” .
+**Art. 2.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070) po art. 13a dodaje się art. 13aa w brzmieniu: „ Art. 13aa. Minister właściwy do spraw informatyzacji może podjąć działania mające na celu rozwój i wykorzystanie systemu teleinformatycznego, o którym mowa w art. 22a ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002 i 1087.), do realizacji zadań publicznych po zasięgnięciu opinii ministra, w którego właściwości pozostają sprawy związane z realizacją tych zadań. ” .
 
 **Art. 3.** Minister właściwy do spraw informatyzacji określi, w drodze komunikatu ogłaszanego w Dzienniku Ustaw Rzeczypospolitej Polskiej, terminy:
 
 - **1)** uruchomienia systemu teleinformatycznego, o którym mowa w art. 22a ust. 1 ustawy zmienianej w art. 1;
 - **2)** udostępnienia funkcjonalności, o których mowa w art. 22a ust. 2 ustawy zmienianej w art. 1.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930 i 1002. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002 i 1087.
 

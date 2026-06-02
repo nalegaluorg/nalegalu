@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 11 kwietnia 2024 r. w sprawie sposobu przesyłania, utrwalonego w postaci elektronicznej, pełnomocnictwa ogólnego, pełnomocnictwa szczególnego oraz pełnomocnictwa do doręczeń
+# Rozporządzenie Ministra Finansówz dnia 11 kwietnia 2024 r. w sprawie sposobu przesyłania, utrwalonego w postaci elektronicznej, pełnomocnictwa ogólnego, pełnomocnictwa szczególnego oraz pełnomocnictwa do doręczeń Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-11 |
 | Data wydania | 2024-04-22 |
-| Wejście w życie | 2024-05-07 |
 | Ostatnia zmiana | 2025-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/613/text.pdf) |
 
@@ -46,6 +45,5 @@ Do dnia poprzedzającego dzień powstania obowiązku, o którym mowa w art. 155 
 § 3.
 Traci moc rozporządzenie Ministra Finansów z dnia 28 grudnia 2015 r. w sprawie sposobu przesyłania, w formie dokumentu elektronicznego, pełnomocnictwa ogólnego, pełnomocnictwa szczególnego oraz pełnomocnictwa do doręczeń (Dz. U. z 2017 r. poz. 1269).
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 18 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 18 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -40,21 +40,16 @@ rozporządzeniem Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającym 
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Środowiska z dnia 17 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 507), który stanowi:
-„
+§ 2 rozporządzenia Ministra Środowiska z dnia 17 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 507), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 2311), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 2311), które stanowią: „
 § 2.
 W stosunku do projektów planów ochrony dla obszaru Natura 2000 sporządzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
-Załącznik – Tekst jednolity rozporządzenia Ministra Środowiska z dnia 30 marca 2010 r. w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Załącznik – Tekst jednolity rozporządzenia Ministra Środowiska z dnia 30 marca 2010 r. w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – środowisko kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 Na podstawie art. 29 ust. 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa dla obszaru Natura 2000, zwanego dalej „obszarem”:
@@ -79,7 +74,7 @@ zaopiniowanie, o którym mowa w art. 29 ust. 2 ustawy z dnia 16 kwietnia 2004 r.
 § 3.
 1.
 Zakres prac koniecznych dla sporządzania projektu planu ochrony dla obszaru obejmuje:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 2311), które weszło w życie z dniem 28 grudnia 2017 r.)
 opisanie granic obszaru w postaci wykazu współrzędnych punktów załamania granicy, w państwowym systemie odniesień przestrzennych w układzie współrzędnych płaskich prostokątnych PL-1992, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762);
 2)
 zgromadzenie, zweryfikowanie i uzupełnienie informacji o obszarze i przedmiotach ochrony istotnych dla jego ochrony, w tym dotyczących:
@@ -149,7 +144,7 @@ e)
 ustalenie działań, które należy podjąć w ramach gospodarki prowadzonej w obszarze, zwłaszcza z zakresu gospodarowania wodami, zachowania lub odtworzenia możliwości wędrówki organizmów wodnych, zalesiania, kształtowania przestrzeni produkcyjnej gospodarki rolnej, leśnej i rybackiej,
 f)
 ustalenie działań pożądanych dla zrównoważonego rozwoju obszaru bazujących na wykorzystaniu zasobów krajobrazu i przyrody obszaru, a nieprzeszkadzających osiąganiu, utrzymywaniu lub odtwarzaniu właściwego stanu przedmiotów ochrony, zwłaszcza działań dotyczących zabudowy lub lokalizacji infrastruktury technicznej, komunikacyjnej, turystycznej lub edukacyjnej,
-g)
+gDodana przez § 1 rozporządzenia Ministra Środowiska z dnia 17 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 507), które weszło w życie z dniem 26 maja 2012 r.)
 ustalenie działań obligatoryjnych i fakultatywnych dla obszaru znajdującego się na terenie gospodarstwa rolnego lub jego części;
 9)
 ustalenie sposobów monitoringu realizacji działań ochronnych oraz ich skutków, przez wskazanie sposobów, metod, częstotliwości, zakresu obserwacji i rejestracji danych umożliwiających:
@@ -199,20 +194,24 @@ W ocenie, o której mowa w § 3 ust. 1 pkt 4, stosuje się skalę oceny stanu oc
 § 6.
 Zmiany w planie ochrony przeprowadza się w trybie, o którym mowa w § 2.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – środowisko kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 2311), które weszło w życie z dniem 28 grudnia 2017 r. 3) Dodana przez § 1 rozporządzenia Ministra Środowiska z dnia 17 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 507), które weszło w życie z dniem 26 maja 2012 r. 4) Rozporządzenie zostało ogłoszone w dniu 20 kwietnia 2010 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 20 kwietnia 2010 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – środowisko kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 2311), które weszło w życie z dniem 28 grudnia 2017 r. 3) Dodana przez § 1 rozporządzenia Ministra Środowiska z dnia 17 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 507), które weszło w życie z dniem 26 maja 2012 r. 4) Rozporządzenie zostało ogłoszone w dniu 20 kwietnia 2010 r.
 
 ## Załącznik nr 1 — – Skala oceny stanu ochrony
 
-I.
+ICzęść ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Stan ochrony siedliska przyrodniczego w obszarze Natura 2000 jest scharakteryzowany trzema podstawowymi parametrami:
 1)
 parametr 1: powierzchnia siedliska;
 2)
 parametr 2: struktura i funkcja;
 3)
-parametr 3: szanse zachowania siedliska.
-Każdy z parametrów jest oceniany w skali: FV = właściwy, U1 = niezadowalający, U2 = zły. W przypadku braku danych zapisuje się XX = nieznany. Parametr 1: „powierzchnia siedliska” ocenia się wg następującej skali: Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 1. Powierzchnia siedliska Nie zmniejsza się, nie jest antropogenicznie pofragmentowana Wykazuje powolny trend spadkowy lub jest antropogenicznie pofragmentowana Wykazuje szybki trend spadkowy lub jest silnie antropogenicznie pofragmentowana Występowanie siedliska w formie rozproszonych wydzieleń uwarunkowanych warunkami siedliskowymi (np. rzeźbą terenu) nie uznaje się za antropogeniczną fragmentację. Parametr 2: „struktura i funkcja” ocenia się wg następującej skali: Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 2. Struktura i funkcja W dobrym stanie, brak znaczących zaburzeń, zachodzą typowe dla siedliska procesy ekologiczne, stan typowych gatunków właściwy, różnorodność biologiczna związana z siedliskiem niezubożona Niewielkie zaburzenia, np. nieoptymalne zagospodarowanie, niewielkie zubożenie strukturalne, zaburzenie typowych dla siedliska procesów ekologicznych, zubożenie różnorodności biologicznej, upośledzenie funkcji, niezadowalający stan niektórych typowych gatunków Istotne, głębokie zaburzenia, np. brak właściwego zagospodarowania, zubożenie strukturalne, brak typowych dla siedliska procesów ekologicznych, głębokie zubożenie różnorodności biologicznej, utrata funkcji, zły stan typowych gatunków lub wyraźne zubożenie ich zestawu Do oceny struktury i funkcji siedliska przyrodniczego stosuje się, możliwe do zastosowania na danym obszarze Natura 2000, zestawy wskaźników przyjęte na podstawie wiedzy naukowej do celów monitoringu, o którym mowa w art. 112 ust. 2 ustawy, i raportów, o których mowa w art. 38 ustawy, uzupełnione w razie konieczności wskaźnikami specyficznymi dla danego obszaru Natura 2000. Parametr 3: „szanse zachowania siedliska” ocenia się wg następującej skali: Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 3. Szanse zachowania siedliska Brak zagrożeń i negatywnych trendów. Zachowanie siedliska w stanie niepogorszonym w perspektywie 10–20 lat jest niemal pewne Zachowanie siedliska w stanie niepogorszonym w perspektywie 10–20 lat nie jest pewne, ale jest prawdopodobne, o ile uda się zapobiec istniejącym zagrożeniom Zachowanie siedliska w stanie niepogorszonym w perspektywie 10–20 lat będzie bardzo trudne: zaawansowane procesy recesji, silne negatywne trendy lub znaczne zagrożenia Łączna ocena stanu ochrony jest ustalana na podstawie parametrów 1–3 wg następującego schematu wnioskowania:
+parametr 3: szanse zachowania siedliska. Każdy z parametrów jest oceniany w skali: FV = właściwy, U1 = niezadowalający, U2 = zły. W przypadku braku danych zapisuje się XX = nieznany. Parametr 1: „powierzchnia siedliska” ocenia się wg następującej skali:
+Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 1. Powierzchnia siedliska Nie zmniejsza się, nie jest antropogenicznie pofragmentowana Wykazuje powolny trend spadkowy lub jest antropogenicznie pofragmentowana Wykazuje szybki trend spadkowy lub jest silnie antropogenicznie pofragmentowana
+Występowanie siedliska w formie rozproszonych wydzieleń uwarunkowanych warunkami siedliskowymi (np. rzeźbą terenu) nie uznaje się za antropogeniczną fragmentację. Parametr 2: „struktura i funkcja” ocenia się wg następującej skali:
+Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 2. Struktura i funkcja W dobrym stanie, brak znaczących zaburzeń, zachodzą typowe dla siedliska procesy ekologiczne, stan typowych gatunków właściwy, różnorodność biologiczna związana z siedliskiem niezubożona Niewielkie zaburzenia, np. nieoptymalne zagospodarowanie, niewielkie zubożenie strukturalne, zaburzenie typowych dla siedliska procesów ekologicznych, zubożenie różnorodności biologicznej, upośledzenie funkcji, niezadowalający stan niektórych typowych gatunków Istotne, głębokie zaburzenia, np. brak właściwego zagospodarowania, zubożenie strukturalne, brak typowych dla siedliska procesów ekologicznych, głębokie zubożenie różnorodności biologicznej, utrata funkcji, zły stan typowych gatunków lub wyraźne zubożenie ich zestawu
+Do oceny struktury i funkcji siedliska przyrodniczego stosuje się, możliwe do zastosowania na danym obszarze Natura 2000, zestawy wskaźników przyjęte na podstawie wiedzy naukowej do celów monitoringu, o którym mowa w art. 112 ust. 2 ustawy, i raportów, o których mowa w art. 38 ustawy, uzupełnione w razie konieczności wskaźnikami specyficznymi dla danego obszaru Natura 2000. Parametr 3: „szanse zachowania siedliska” ocenia się wg następującej skali:
+Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 3. Szanse zachowania siedliska Brak zagrożeń i negatywnych trendów. Zachowanie siedliska w stanie niepogorszonym w perspektywie 10–20 lat jest niemal pewne Zachowanie siedliska w stanie niepogorszonym w perspektywie 10–20 lat nie jest pewne, ale jest prawdopodobne, o ile uda się zapobiec istniejącym zagrożeniom Zachowanie siedliska w stanie niepogorszonym w perspektywie 10–20 lat będzie bardzo trudne: zaawansowane procesy recesji, silne negatywne trendy lub znaczne zagrożenia
+Łączna ocena stanu ochrony jest ustalana na podstawie parametrów 1–3 wg następującego schematu wnioskowania:
 1)
 jeżeli choć jeden z trzech parametrów jest oceniony jako U2, to ocena globalna = U2;
 2)
@@ -221,15 +220,19 @@ jeżeli nie zachodzi powyższe, ale choć jeden z trzech parametrów jest ocenio
 jeżeli nie zachodzi powyższe, ale dwa lub trzy parametry są ocenione jako XX, to ocena globalna = XX;
 4)
 jeżeli nie zachodzi powyższe (tj. wszystkie trzy parametry są ocenione jako FV albo dwa parametry są ocenione jako FV, a jeden jako XX), to ocena globalna = FV.
-II.
+IICzęść ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Stan ochrony gatunku w obszarze Natura 2000 jest scharakteryzowany następującymi parametrami:
 1)
 parametr 1: populacja;
 2)
 parametr 2: siedlisko;
 3)
-parametr 3: szanse zachowania gatunku.
-Każdy z parametrów jest oceniany w skali: FV = właściwy, U1 = niezadowalający, U2 = zły. W przypadku braku danych zapisuje się XX = nieznany. Parametr 1: „populacja” ocenia się wg następującej skali: Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 1. Populacja Liczebność jest stabilna w dłuższym okresie (mogą występować naturalne fluktuacje) oraz populacja wykorzystuje potencjalne możliwości obszaru oraz struktura wiekowa, rozrodczość i śmiertelność prawdopodobnie nie odbiegają od normy Liczebność wykazuje powolny trend spadkowy lub jest znacznie niższa od potencjalnych możliwości obszaru lub struktura, rozrodczość albo śmiertelność są antropogenicznie zaburzone Liczebność wykazuje silny trend spadkowy lub struktura wiekowa, rozrodczość i śmiertelność są zaburzone w sposób zagrażający powstaniem takiego trendu w najbliższej przyszłości Do oceny naturalności lub zaburzenia cech populacji stosuje się, możliwe do zastosowania na danym obszarze Natura 2000, zestawy wskaźników przyjęte na podstawie wiedzy naukowej do celów monitoringu, o którym mowa w art. 112 ust. 2 ustawy, i raportów, o których mowa w art. 38 ustawy, uzupełnione w razie konieczności wskaźnikami specyficznymi dla danego obszaru Natura 2000. Parametr 2: „siedlisko” ocenia się wg następującej skali: Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 2. Siedlisko Wielkość wystarczająco duża i jakość odpowiednio dobra dla długoterminowego przetrwania gatunku Wielkość i jakość siedliska antropogenicznie pogorszona tak, że nie jest optymalna dla gatunku Wielkość zdecydowanie zbyt mała lub jakość niewątpliwie niezapewniająca długoterminowego przetrwania gatunku Do oceny wielkości i jakości siedliska gatunku stosuje się, możliwe do zastosowania na danym obszarze Natura 2000, zestawy wskaźników przyjęte na podstawie wiedzy naukowej do celów monitoringu, o którym mowa w art. 112 ust. 2 ustawy, i raportów, o których mowa w art. 38 ustawy, uzupełnione w razie konieczności wskaźnikami specyficznymi dla danego obszaru Natura 2000. Parametr 3: „szanse zachowania gatunku” ocenia się wg następującej skali: Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 3. Szanse zachowania gatunku Brak istotnych negatywnych oddziaływań i nie przewiduje się większych zagrożeń w przyszłości, nie obserwuje się negatywnych zmian w populacji i siedlisku. Zachowanie gatunku w perspektywie 10–20 lat jest niemal pewne Zachowanie gatunku w perspektywie 10–20 lat nie jest pewne, ale jest prawdopodobne, o ile uda się zapobiec istniejącym negatywnym oddziaływaniom i przewidywanym umiarkowanym zagrożeniom Zachowanie gatunku w perspektywie 10–20 lat będzie bardzo trudne, silne negatywne zmiany w populacji i siedlisku lub przewidywane znaczne zagrożenia w przyszłości (praktycznie nie do wyeliminowania)
+parametr 3: szanse zachowania gatunku. Każdy z parametrów jest oceniany w skali: FV = właściwy, U1 = niezadowalający, U2 = zły. W przypadku braku danych zapisuje się XX = nieznany. Parametr 1: „populacja” ocenia się wg następującej skali:
+Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 1. Populacja Liczebność jest stabilna w dłuższym okresie (mogą występować naturalne fluktuacje) oraz populacja wykorzystuje potencjalne możliwości obszaru oraz struktura wiekowa, rozrodczość i śmiertelność prawdopodobnie nie odbiegają od normy Liczebność wykazuje powolny trend spadkowy lub jest znacznie niższa od potencjalnych możliwości obszaru lub struktura, rozrodczość albo śmiertelność są antropogenicznie zaburzone Liczebność wykazuje silny trend spadkowy lub struktura wiekowa, rozrodczość i śmiertelność są zaburzone w sposób zagrażający powstaniem takiego trendu w najbliższej przyszłości
+Do oceny naturalności lub zaburzenia cech populacji stosuje się, możliwe do zastosowania na danym obszarze Natura 2000, zestawy wskaźników przyjęte na podstawie wiedzy naukowej do celów monitoringu, o którym mowa w art. 112 ust. 2 ustawy, i raportów, o których mowa w art. 38 ustawy, uzupełnione w razie konieczności wskaźnikami specyficznymi dla danego obszaru Natura 2000. Parametr 2: „siedlisko” ocenia się wg następującej skali:
+Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 2. Siedlisko Wielkość wystarczająco duża i jakość odpowiednio dobra dla długoterminowego przetrwania gatunku Wielkość i jakość siedliska antropogenicznie pogorszona tak, że nie jest optymalna dla gatunku Wielkość zdecydowanie zbyt mała lub jakość niewątpliwie niezapewniająca długoterminowego przetrwania gatunku
+Do oceny wielkości i jakości siedliska gatunku stosuje się, możliwe do zastosowania na danym obszarze Natura 2000, zestawy wskaźników przyjęte na podstawie wiedzy naukowej do celów monitoringu, o którym mowa w art. 112 ust. 2 ustawy, i raportów, o których mowa w art. 38 ustawy, uzupełnione w razie konieczności wskaźnikami specyficznymi dla danego obszaru Natura 2000. Parametr 3: „szanse zachowania gatunku” ocenia się wg następującej skali:
+Parametr FV (właściwy) U1 (niezadowalający) U2 (zły) 3. Szanse zachowania gatunku Brak istotnych negatywnych oddziaływań i nie przewiduje się większych zagrożeń w przyszłości, nie obserwuje się negatywnych zmian w populacji i siedlisku. Zachowanie gatunku w perspektywie 10–20 lat jest niemal pewne Zachowanie gatunku w perspektywie 10–20 lat nie jest pewne, ale jest prawdopodobne, o ile uda się zapobiec istniejącym negatywnym oddziaływaniom i przewidywanym umiarkowanym zagrożeniom Zachowanie gatunku w perspektywie 10–20 lat będzie bardzo trudne, silne negatywne zmiany w populacji i siedlisku lub przewidywane znaczne zagrożenia w przyszłości (praktycznie nie do wyeliminowania)
 III.
 Łączna ocena stanu ochrony jest ustalana na podstawie parametrów wg następującego schematu wnioskowania:
 1)
@@ -239,6 +242,5 @@ jeżeli nie zachodzi powyższe, ale choć jeden z trzech parametrów jest ocenio
 3)
 jeżeli nie zachodzi powyższe, ale dwa lub trzy parametry są ocenione jako XX, to ocena globalna = XX;
 4)
-jeżeli nie zachodzi powyższe (tj. wszystkie trzy parametry są ocenione jako FV albo dwa parametry są ocenione jako FV, a jeden jako XX), to ocena globalna = FV.
-5) Część ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) Część ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.
+jeżeli nie zachodzi powyższe (tj. wszystkie trzy parametry są ocenione jako FV albo dwa parametry są ocenione jako FV, a jeden jako XX), to ocena globalna = FV. 5) Część ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) Część ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 

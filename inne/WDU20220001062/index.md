@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 10 maja 2022 r. w sprawie wymagań, jakie muszą spełnić płatnicy składek przekazujący dokumenty ubezpieczeniowe w formie dokumentu elektronicznego poprzez transmisję danych
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 10 maja 2022 r. w sprawie wymagań, jakie muszą spełnić płatnicy składek przekazujący dokumenty ubezpieczeniowe w formie dokumentu elektronicznego poprzez transmisję danych Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-10 |
 | Data wydania | 2022-05-19 |
-| Wejście w życie | 2022-06-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001062) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1062/text.pdf) |
 
@@ -61,6 +60,5 @@ Płatnik składek otrzymujący w komunikacie, o którym mowa w § 4 ust. 1 pkt 3
 2.
 Informacje dotyczące metod, o których mowa w ust. 1, Zakład publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej Zakładu Ubezpieczeń Społecznych lub na stronie internetowej Zakładu Ubezpieczeń Społecznych.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 1 kwietnia 2010 r. w sprawie wymagań, jakie muszą spełnić płatnicy składek przekazujący dokumenty ubezpieczeniowe w formie dokumentu elektronicznego poprzez transmisję danych (Dz. U. poz. 479), które zgodnie z art. 22 ustawy z dnia 24 czerwca 2021 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 1621) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 1 kwietnia 2010 r. w sprawie wymagań, jakie muszą spełnić płatnicy składek przekazujący dokumenty ubezpieczeniowe w formie dokumentu elektronicznego poprzez transmisję danych (Dz. U. poz. 479), które zgodnie z art. 22 ustawy z dnia 24 czerwca 2021 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 1621) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 1 kwietnia 2010 r. w sprawie wymagań, jakie muszą spełnić płatnicy składek przekazujący dokumenty ubezpieczeniowe w formie dokumentu elektronicznego poprzez transmisję danych (Dz. U. poz. 479), które zgodnie z art. 22 ustawy z dnia 24 czerwca 2021 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 1621) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

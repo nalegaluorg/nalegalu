@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 8 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 8 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
 
 | Pole | Wartość |
 |---|---|
@@ -37,19 +37,14 @@ rozporządzeniem Ministra Klimatu z dnia 24 września 2020 r. zmieniającym rozp
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Klimatu z dnia 25 marca 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 529), który stanowi:
-„
+§ 2 rozporządzenia Ministra Klimatu z dnia 25 marca 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 529), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Klimatu z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 1649), który stanowi:
-„
+§ 2 rozporządzenia Ministra Klimatu z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 1649), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” .
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
-Załącznik – Tekst jednolity rozporządzenia Ministra Energii z dnia 28 sierpnia 2019 r. w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” . 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
+Załącznik – Tekst jednolity rozporządzenia Ministra Energii z dnia 28 sierpnia 2019 r. w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznychObecnie działem administracji rządowej – energia kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).
 Na podstawie art. 23715§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wymagania bezpieczeństwa i higieny pracy przy eksploatacji urządzeń energetycznych.
@@ -157,8 +152,7 @@ w celu przyuczenia do zawodu z uwzględnieniem przepisów w sprawie zatrudnienia
 2)
 reprezentujące organy nadzoru,
 3)
-prowadzące specjalistyczne prace serwisowe
-wyłącznie pod nadzorem osoby upoważnionej.
+prowadzące specjalistyczne prace serwisowe – wyłącznie pod nadzorem osoby upoważnionej.
 3.
 Pracodawca określa wykaz prac pomocniczych przy urządzeniach lub grupach urządzeń energetycznych, które mogą być wykonywane przez osoby niebędące osobami uprawnionymi.
 4.
@@ -323,7 +317,8 @@ przy wyłączonym napięciu.
 2.
 Prace eksploatacyjne, o których mowa w ust. 1, wykonuje się z zastosowaniem metod i środków ochronnych zapewniających bezpieczeństwo pracy.
 3.
-Minimalne odstępy w powietrzu od nieosłoniętych urządzeń elektroenergetycznych lub ich części znajdujących się pod napięciem, wyznaczające zewnętrzne granice strefy pracy, mają następujące wartości: Napięcie znamionowe urządzenia Minimalny odstęp w powietrzu, wyznaczający zewnętrzną granicę strefy pracy pod napięciem w pobliżu napięcia kV mm mm ≤1 bez dotyku 300 3 60 1120 6 90 1120 10 120 1150 15 160 1160 20 220 1220 30 320 1320 110 1000 2000 220 1600 3000 400 2500 4000 750 5300 8400
+Minimalne odstępy w powietrzu od nieosłoniętych urządzeń elektroenergetycznych lub ich części znajdujących się pod napięciem, wyznaczające zewnętrzne granice strefy pracy, mają następujące wartości:
+Napięcie znamionowe urządzenia Minimalny odstęp w powietrzu, wyznaczający zewnętrzną granicę strefy pracy pod napięciem w pobliżu napięcia kV mm mm ≤1 bez dotyku 300 3 60 1120 6 90 1120 10 120 1150 15 160 1160 20 220 1220 30 320 1320 110 1000 2000 220 1600 3000 400 2500 4000 750 5300 8400
 4.
 Stosując minimalne odstępy, określone w ust. 3, uwzględnia się odstęp ergonomiczny.
 5.
@@ -562,7 +557,6 @@ określenie wzoru polecenia pisemnego;
 określenie rodzaju zmian, jakie mogą być wprowadzone w poleceniu pisemnym wykonania prac eksploatacyjnych, i trybu ich wprowadzenia.
 § 34.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 28 marca 2013 r. w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 492).
-§ 35.
-Rozporządzenie wchodzi w życie po upływie 13 miesięcy od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – energia kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 1649), które weszło w życie z dniem 25 września 2020 r. 3) Rozporządzenie zostało ogłoszone w dniu 25 września 2019 r.
+§ 35W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 1649), które weszło w życie z dniem 25 września 2020 r..
+Rozporządzenie wchodzi w życie po upływie 13 miesięcy od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 25 września 2019 r.. 1) Obecnie działem administracji rządowej – energia kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 1649), które weszło w życie z dniem 25 września 2020 r. 3) Rozporządzenie zostało ogłoszone w dniu 25 września 2019 r.
 

@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-16 |
 | Data wydania | 2004-06-08 |
-| Wejście w życie | 2004-06-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041301376) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1376/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.) w art. 16 w § 5 po pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256 oraz z 2004 r. nr 34, poz. 304.) w art. 16 w § 5 po pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „
 
 - **3)** odrębna jednostka organizacyjna do spraw z zakresu ochrony wspólnotowych znaków towarowych i wspólnotowych wzorów przemysłowych (sąd wspólnotowych znaków towarowych i wzorów przemysłowych). ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256 oraz z 2004 r. nr 34, poz. 304.
 

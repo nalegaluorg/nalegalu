@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-02 |
 | Data wydania | 2021-09-02 |
-| Wejście w życie | 2021-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1613/text.pdf) |
 

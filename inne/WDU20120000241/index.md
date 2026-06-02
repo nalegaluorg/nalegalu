@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 28 lutego 2012 r. w sprawie wyposażenia statków w urządzenia Systemu Identyfikacji i Śledzenia Dalekiego Zasięgu (LRIT)
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 28 lutego 2012 r. w sprawie wyposażenia statków w urządzenia Systemu Identyfikacji i Śledzenia Dalekiego Zasięgu (LRIT) Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2009/17/WE z dnia 23 kwietnia 2009 r. zmieniającej dyrektywę 2002/59/WE ustanawiającą wspólnotowy system monitorowania i informacji o ruchu statków (Dz. U. UE L 131 z 28.05.2009, str. 101).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-28 |
 | Data wydania | 2012-03-05 |
-| Wejście w życie | 2012-03-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000241) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/241/text.pdf) |
 
@@ -65,7 +64,7 @@ niezwłoczne przekazanie przez dyrektora urzędu morskiego otrzymanej kopii spra
 Uznanym dostawcą usług aplikacyjnych LRIT jest podmiot gospodarczy, posiadający uznanie dyrektora urzędu morskiego, świadczący usługi w zakresie inspekcji i konserwacji urządzeń radiokomunikacyjnych instalowanych na statkach morskich o polskiej przynależności, wymaganych rozdziałem IV Konwencji SOLAS, zgodnie z przepisami wydanymi na podstawie art. 17 ust. 7 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
 § 5.
 1.
-Statki przekazują automatycznie, w przedziałach czasu zgodnych z wymaganiami IMO, za pomocą statkowych urządzeń systemu LRIT, do Europejskiego Centrum Danych LRIT raport zawierający następujące informacje:
+Statki przekazują automatycznie, w przedziałach czasu zgodnych z wymaganiami IMOWymagania zawarte w rezolucji MSC.263(84) z dnia 16 maja 2008 r. w sprawie skorygowanych standardów technicznych i wymagań funkcjonalnych dotyczących identyfikacji i śledzenia dalekiego zasięgu (Dz. Urz. MI z 2010 r. Nr 4, poz. 13)., za pomocą statkowych urządzeń systemu LRIT, do Europejskiego Centrum Danych LRIT raport zawierający następujące informacje:
 1)
 numer identyfikacyjny statkowego urządzenia systemu LRIT;
 2)
@@ -112,6 +111,5 @@ Dyrektor urzędu morskiego po otrzymaniu informacji, o których mowa w ust. 1 i 
 4.
 Dyrektor urzędu morskiego, za pośrednictwem Koordynatora SafeSeaNet, niezwłocznie informuje Europejskie Centrum Danych LRIT o wszelkich zmianach dotyczących informacji przekazywanych zgodnie z ust. 1 i 2.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2009/17/WE z dnia 23 kwietnia 2009 r. zmieniającej dyrektywę 2002/59/WE ustanawiającą wspólnotowy system monitorowania i informacji o ruchu statków (Dz. U. UE L 131 z 28.05.2009, str. 101). 3) Wymagania zawarte w rezolucji MSC.263(84) z dnia 16 maja 2008 r. w sprawie skorygowanych standardów technicznych i wymagań funkcjonalnych dotyczących identyfikacji i śledzenia dalekiego zasięgu (Dz. Urz. MI z 2010 r. Nr 4, poz. 13). 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 21 października 2010 r. w sprawie wyposażania statków w System Identyfikacji i Śledzenia Dalekiego Zasięgu (Dz. U. Nr 207, poz. 1368), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 21 października 2010 r. w sprawie wyposażania statków w System Identyfikacji i Śledzenia Dalekiego Zasięgu (Dz. U. Nr 207, poz. 1368), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Przepisy niniejszego rozporządzenia dokonują w zakresie swojej regulacji wdrożenia postanowień dyrektywy Parlamentu Europejskiego i Rady 2009/17/WE z dnia 23 kwietnia 2009 r. zmieniającej dyrektywę 2002/59/WE ustanawiającą wspólnotowy system monitorowania i informacji o ruchu statków (Dz. U. UE L 131 z 28.05.2009, str. 101). 3) Wymagania zawarte w rezolucji MSC.263(84) z dnia 16 maja 2008 r. w sprawie skorygowanych standardów technicznych i wymagań funkcjonalnych dotyczących identyfikacji i śledzenia dalekiego zasięgu (Dz. Urz. MI z 2010 r. Nr 4, poz. 13). 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 21 października 2010 r. w sprawie wyposażania statków w System Identyfikacji i Śledzenia Dalekiego Zasięgu (Dz. U. Nr 207, poz. 1368), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 27 marca 2017 r. w sprawie oddziałów i szkół sportowych oraz oddziałów i szkół mistrzostwa sportowego
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 27 marca 2017 r. w sprawie oddziałów i szkół sportowych oraz oddziałów i szkół mistrzostwa sportowego Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-27 |
 | Data wydania | 2017-03-29 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2025-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000671) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/671/text.pdf) |
 
@@ -128,12 +127,13 @@ Szkoły podstawowe sportowe, szkoły podstawowe mistrzostwa sportowego i oddzia�
 § 17.
 W latach szkolnych 2017/2018–2019/2020 szkolenie sportowe w oddziałach sportowych w szkołach podstawowych, oddziałach mistrzostwa sportowego w szkołach podstawowych, szkołach podstawowych sportowych i szkołach podstawowych mistrzostwa sportowego może rozpocząć się od klasy VII.
 § 18.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 Załącznik – Tekst załącznika
 1.
-Typ szkoły, klasa, wiek ucznia, etapy szkolenia sportowego i czas trwania szkolenia sportowego1) Typ szkoły, klasa, wiek ucznia, etapy szkolenia sportowego i czas trwania szkolenia sportowego Oddział mistrzostwa sportowego, szkoła mistrzostwa sportowego Oddział sportowy, szkoła sportowa Etap szkolenia sportowego / Typ szkoły, klasa, wiek ucznia Ukierunkowany Specjalistyczny Ukierunkowany Specjalistyczny szkoła podstawowa I – 6–7 lat II – 7–8 lat III – 8–9 lat IV – 9 – 10 lat V- 10 – 11 lat VI – 11 – 12 lat VII – 12 – 13 lat VIII – 13 – 14 lat szkoła ponadpodstawowa I – 14 – 15 lat II – 15 – 16 lat III – 16 – 17 lat IV – 17 – 18 lat V2) – 18 – 19 lat
+Typ szkoły, klasa, wiek ucznia, etapy szkolenia sportowego i czas trwania szkolenia sportowego1)
+Typ szkoły, klasa, wiek ucznia, etapy szkolenia sportowego i czas trwania szkolenia sportowego Oddział mistrzostwa sportowego, szkoła mistrzostwa sportowego Oddział sportowy, szkoła sportowa Etap szkolenia sportowego / Typ szkoły, klasa, wiek ucznia Ukierunkowany Specjalistyczny Ukierunkowany Specjalistyczny szkoła podstawowa I – 6–7 lat II – 7–8 lat III – 8–9 lat IV – 9 – 10 lat V- 10 – 11 lat VI – 11 – 12 lat VII – 12 – 13 lat VIII – 13 – 14 lat szkoła ponadpodstawowa I – 14 – 15 lat II – 15 – 16 lat III – 16 – 17 lat IV – 17 – 18 lat V2) – 18 – 19 lat
 2.
-Specyfika, cele, zadania i treści szkolenia sportowego Specyfika, cele, zadania i treści szkolenia sportowego Oddział mistrzostwa sportowego, szkoła mistrzostwa sportowego Oddział sportowy, szkoła sportowa Etap szkolenia sportowego / Typ szkoły, etap edukacyjny, cele, zadania i treści szkolenia sportowego Ukierunkowany Specjalistyczny Ukierunkowany Specjalistyczny szkoła podstawowa klasy I-III (I etap edukacyjny) specyfika, cele i zadania poszczególnych etapów szkolenia sportowego treści szkolenia sportowego -wymagania szczegółowe szkoła podstawowa klasy IV-VIII (II etap edukacyjny) specyfika, cele i zadania poszczególnych etapów szkolenia sportowego treści szkolenia sportowego -wymagania szczegółowe szkoła ponadpodstawowa (III etap edukacyjny) specyfika, cele i zadania poszczególnych etapów szkolenia sportowego treści szkolenia sportowego -wymagania szczegółowe
+Specyfika, cele, zadania i treści szkolenia sportowego
+Specyfika, cele, zadania i treści szkolenia sportowego Oddział mistrzostwa sportowego, szkoła mistrzostwa sportowego Oddział sportowy, szkoła sportowa Etap szkolenia sportowego / Typ szkoły, etap edukacyjny, cele, zadania i treści szkolenia sportowego Ukierunkowany Specjalistyczny Ukierunkowany Specjalistyczny szkoła podstawowa klasy I-III (I etap edukacyjny) specyfika, cele i zadania poszczególnych etapów szkolenia sportowego treści szkolenia sportowego -wymagania szczegółowe szkoła podstawowa klasy IV-VIII (II etap edukacyjny) specyfika, cele i zadania poszczególnych etapów szkolenia sportowego treści szkolenia sportowego -wymagania szczegółowe szkoła ponadpodstawowa (III etap edukacyjny) specyfika, cele i zadania poszczególnych etapów szkolenia sportowego treści szkolenia sportowego -wymagania szczegółowe
 1) W tabeli symbolem X należy zaznaczyć typ szkoły, wiek ucznia i klasę, w której rozpoczyna się szkolenie sportowe, oraz kolejne lata jego trwania dla poszczególnych etapów szkolenia sportowego, biorąc pod uwagę, że w klasach I szkół podstawowych mogą rozpoczynać naukę dzieci 6-letnie. 2) Wypełnia się w przypadku technikum sportowego, technikum mistrzostwa sportowego, technikum z oddziałami sportowymi lub technikum z oddziałami mistrzostwa sportowego.
 

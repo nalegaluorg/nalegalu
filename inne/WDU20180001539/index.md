@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów
+# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 8 sierpnia 2017 r. pod numerem 2017/372/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-08-09 |
-| Wejście w życie | 2018-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001539) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1539/text.pdf) |
 
@@ -81,7 +80,7 @@ source: "eli-html"
 9. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyznaczyć jednostkę sektora finansów publicznych albo instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych, do:
 
 - **1)** dokonywania analizy danych z rejestru oraz wskazać zakres danych podlegających tej analizie,
-- **2)** wykonywania czynności związanych z technicznym utrzymaniem i rozwojem środków, o których mowa w ust. 1, oraz wskazać zakres tych czynności uwzględniając przygotowanie techniczne wyznaczanego podmiotu i jego doświadczenie w analizie danych, w szczególności danych geolokalizacyjnych oraz w zakresie utrzymania i rozwoju technologii teleinformatycznych.
+- **2)** wykonywania czynności związanych z technicznym utrzymaniem i rozwojem środków, o których mowa w ust. 1, oraz wskazać zakres tych czynności – uwzględniając przygotowanie techniczne wyznaczanego podmiotu i jego doświadczenie w analizie danych, w szczególności danych geolokalizacyjnych oraz w zakresie utrzymania i rozwoju technologii teleinformatycznych.
 
 10. W przypadku gdy podmiot, o którym mowa w ust. 9, jest podmiotem, który jest nadzorowany przez ministra innego niż minister właściwy do spraw finansów publicznych, rozporządzenie, o którym mowa w ust. 9, wydaje się w porozumieniu z właściwym ministrem. ” ;
 
@@ -142,7 +141,7 @@ source: "eli-html"
 3a. Szef Krajowej Administracji Skarbowej nieodpłatnie udostępnia dane zgromadzone w rejestrze, również na wniosek:
 
 - **1)** sądu,
-- **2)** prokuratora w związku z toczącym się postępowaniem. ” ;
+- **2)** prokuratora – w związku z toczącym się postępowaniem. ” ;
 - **9)** w art. 13: w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
     - **a)**
 
@@ -179,13 +178,13 @@ source: "eli-html"
 
 - **1)** rozpoczęcia przewozu towaru przez kierującego, o którym mowa w art. 2 pkt 2 lit. a, bez numeru referencyjnego, bez dokumentu zastępującego zgłoszenie i potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie albo dokumentu, o którym mowa w art. 3 ust. 7,
 - **2)** niedopełnienia obowiązku, o którym mowa w art. 10b,
-- **3)** niedopełnienia obowiązku, o którym mowa w art. 10c ust. 1 kierujący podlega karze grzywny w wysokości od 5000 do 7500 zł. ” .
+- **3)** niedopełnienia obowiązku, o którym mowa w art. 10c ust. 1 – kierujący podlega karze grzywny w wysokości od 5000 do 7500 zł. ” .
 
 **Art. 2.** Do przewozu towarów rozpoczętego i niezakończonego do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 3.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem art. 1:
 
 - **1)** pkt 2 lit. c i f oraz pkt 12, które wchodzą w życie w dniu następującym po dniu ogłoszenia;
-- **2)** pkt 11, 13 i 14, które wchodzą w życie z dniem 1 stycznia 2019 r.
+- **2)** pkt 11, 13 i 14, które wchodzą w życie z dniem 1 stycznia 2019 r. 1) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 8 sierpnia 2017 r. pod numerem 2017/372/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 

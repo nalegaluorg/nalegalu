@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 15 grudnia 2020 r. w sprawie zakresu i sposobu prowadzenia okresowych badań poziomów pól elektromagnetycznych w środowisku
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 15 grudnia 2020 r. w sprawie zakresu i sposobu prowadzenia okresowych badań poziomów pól elektromagnetycznych w środowisku Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-15 |
 | Data wydania | 2020-12-21 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002311) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2311/text.pdf) |
 
@@ -57,8 +56,7 @@ Sposoby prezentacji wyników pomiarów, o których mowa w § 1 pkt 3, są okreś
 § 7.
 Do okresowych badań poziomów pól elektromagnetycznych w środowisku, wykonanych do dnia wejścia w życie niniejszego rozporządzenia, mają zastosowanie przepisy dotychczasowe.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 12 listopada 2007 r. w sprawie zakresu i sposobu prowadzenia okresowych badań poziomów pól elektromagnetycznych w środowisku (Dz. U. poz. 1645), które zgodnie z art. 28 ust. 2 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz niektórych innych ustaw (Dz. U. poz. 1479) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 12 listopada 2007 r. w sprawie zakresu i sposobu prowadzenia okresowych badań poziomów pól elektromagnetycznych w środowisku (Dz. U. poz. 1645), które zgodnie z art. 28 ust. 2 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz niektórych innych ustaw (Dz. U. poz. 1479) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 12 listopada 2007 r. w sprawie zakresu i sposobu prowadzenia okresowych badań poziomów pól elektromagnetycznych w środowisku (Dz. U. poz. 1645), które zgodnie z art. 28 ust. 2 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz niektórych innych ustaw (Dz. U. poz. 1479) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — – Sposób wyboru punktów pomiarowych
 
@@ -79,8 +77,7 @@ w przedziale powyżej 50 000 do 100 000 mieszkańców – 3 punkty pomiarowe,
 4)
 w przedziale powyżej 100 000 do 200 000 mieszkańców – 4 punkty pomiarowe,
 5)
-powyżej 200 000 mieszkańców – 4 punkty pomiarowe i 3 punkty pomiarowe na każde rozpoczęte kolejne 100 000 mieszkańców
-w każdym mieście.
+powyżej 200 000 mieszkańców – 4 punkty pomiarowe i 3 punkty pomiarowe na każde rozpoczęte kolejne 100 000 mieszkańców – w każdym mieście.
 5.
 Punkty pomiarowe w ramach państwowego monitoringu środowiska dla monitoringu badawczego wyznacza się dla każdego województwa, dla czteroletniego cyklu pomiarowego, na obszarze wszystkich gmin wiejskich.
 6.

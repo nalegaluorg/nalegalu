@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 23 października 2015 r. w sprawie wykazu źródeł, których sprawdzenie jest wymagane w ramach starannych poszukiwań uprawnionych do utworów i przedmiotów praw pokrewnych, które mogą być uznane za osierocone, oraz sposobu dokumentowania informacji o wynikach starannych poszukiwań
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 23 października 2015 r. w sprawie wykazu źródeł, których sprawdzenie jest wymagane w ramach starannych poszukiwań uprawnionych do utworów i przedmiotów praw pokrewnych, które mogą być uznane za osierocone, oraz sposobu dokumentowania informacji o wynikach starannych poszukiwań Niniejsze rozporządzenie wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/28/UE z dnia 25 października 2012 r. w sprawie niektórych dozwolonych sposobów korzystania z utworów osieroconych (Dz. Urz. UE L 299 z 27.10.2012, str. 5).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-23 |
 | Data wydania | 2015-11-06 |
-| Wejście w życie | 2015-11-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001823) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1823/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz źródeł, których sprawdzenie jest wymagane w ramach starannych poszukiwań, o których mowa w art. 356 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. nr 90, poz. 631, z późn. zm.)
 Treść rozporządzenia
-Na podstawie art. 356 ust. 9 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 356 ust. 9 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 152, poz. 1016 oraz z 2015 r. poz. 932, 994 i 1639.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -43,7 +42,7 @@ Podmioty prowadzące staranne poszukiwania dokumentują przeprowadzane czynnośc
 § 4.
 Po zakończeniu starannych poszukiwań sporządza się protokół zawierający opis przeprowadzonych czynności i sprawdzonych źródeł oraz stwierdzenie ich rezultatu. Protokół podpisuje osoba kierująca podmiotem przeprowadzającym staranne poszukiwania.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 20 listopada 2015 r.
+Rozporządzenie wchodzi w życie z dniem 20 listopada 2015 r. 2) Niniejsze rozporządzenie wdraża dyrektywę Parlamentu Europejskiego i Rady 2012/28/UE z dnia 25 października 2012 r. w sprawie niektórych dozwolonych sposobów korzystania z utworów osieroconych (Dz. Urz. UE L 299 z 27.10.2012, str. 5). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 94, poz. 658 i Nr 121, poz. 843, z 2007 r. Nr 99, poz. 662 i Nr 181, poz. 1293, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 152, poz. 1016 oraz z 2015 r. poz. 932, 994 i 1639.
 Załącznik – Wykaz źródeł, których sprawdzenie jest wymagane w ramach starannych poszukiwań, o których mowa w art. 356 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. nr 90, poz. 631, z późn. zm.)
 1)
 W odniesieniu do książek:

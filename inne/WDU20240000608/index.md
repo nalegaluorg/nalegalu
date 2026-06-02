@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 18 kwietnia 2024 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych przychodów uzyskanych przez osoby fizyczne z tytułu otrzymania komputerów przenośnych typu laptop albo bonów na ich zakup
+# Rozporządzenie Ministra Finansówz dnia 18 kwietnia 2024 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych przychodów uzyskanych przez osoby fizyczne z tytułu otrzymania komputerów przenośnych typu laptop albo bonów na ich zakup Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-18 |
 | Data wydania | 2024-04-22 |
-| Wejście w życie | 2024-04-23 |
 | Ostatnia zmiana | 2024-04-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000608) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/608/text.pdf) |
 
@@ -33,6 +32,5 @@ Zarządza się zaniechanie poboru podatku dochodowego od osób fizycznych od prz
 § 2.
 Zaniechanie, o którym mowa w § 1, ma zastosowanie do przychodów uzyskanych od dnia 2 sierpnia 2023 r. do dnia 31 grudnia 2023 r.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

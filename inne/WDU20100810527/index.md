@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-03-18 |
 | Data wydania | 2010-05-14 |
-| Wejście w życie | 2010-05-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100810527) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/527/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738 oraz z 2010 r. Nr 28, poz. 146 i Nr 40, poz. 229.) wprowadza się następujące zmiany:
 
 - **1)** w art. 72 ust. 4 otrzymuje brzmienie: „
 
@@ -41,7 +40,7 @@ source: "eli-html"
 - **2)** 80% podstawy – w przypadku dziecka w wieku do ukończenia 7. roku życia, posiadającego orzeczenie o niepełnosprawności,
 - **3)** 60% podstawy – w przypadku dziecka w wieku powyżej 7. roku życia do ukończenia 18. roku życia, posiadającego orzeczenie o niepełnosprawności albo orzeczenie o umiarkowanym lub znacznym stopniu niepełnosprawności,
 - **4)** 60% podstawy – w przypadku dziecka w wieku powyżej 7. roku życia do ukończenia 18. roku życia, umieszczonego w rodzinie zastępczej na podstawie przepisów ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2010 r. Nr 33, poz. 178),
-- **5)** 80% podstawy – w przypadku dziecka w wieku powyżej 7. roku życia do ukończenia 18. roku życia, posiadającego orzeczenie o niepełnosprawności albo orzeczenie o umiarkowanym lub znacznym stopniu niepełnosprawności i umieszczonego w rodzinie zastępczej na podstawie przepisów ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich pomniejszonej o kwotę odpowiadającą 50% dochodu dziecka, nie mniej jednak niż 20% podstawy. ” , ust. 11 otrzymuje brzmienie: „
+- **5)** 80% podstawy – w przypadku dziecka w wieku powyżej 7. roku życia do ukończenia 18. roku życia, posiadającego orzeczenie o niepełnosprawności albo orzeczenie o umiarkowanym lub znacznym stopniu niepełnosprawności i umieszczonego w rodzinie zastępczej na podstawie przepisów ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich – pomniejszonej o kwotę odpowiadającą 50% dochodu dziecka, nie mniej jednak niż 20% podstawy. ” , ust. 11 otrzymuje brzmienie: „
     - **b)**
 
 11. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
@@ -49,17 +48,17 @@ source: "eli-html"
 - **1)** sposób i zakres współdziałania powiatowego centrum pomocy rodzinie z rodzinami zastępczymi,
 - **2)** tryb przygotowywania kandydatów do pełnienia funkcji i szkolenia rodzin zastępczych ze szczególnym uwzględnieniem niespokrewnionych z dzieckiem rodzin zastępczych oraz zawodowych niespokrewnionych z dzieckiem rodzin zastępczych,
 - **3)** zakres programowy szkolenia kandydatów do pełnienia funkcji rodzin zastępczych, prowadzenia placówek rodzinnych oraz rodzin zastępczych, w tym zakres programowy dla zawodowych niespokrewnionych z dzieckiem rodzin zastępczych oraz tryb zatwierdzenia programów szkolenia rodzin zastępczych,
-- **4)** zakres współdziałania powiatowego centrum pomocy rodzinie z sądem uwzględniając dobro dziecka pozbawionego całkowicie lub częściowo opieki rodziców. ” ;
+- **4)** zakres współdziałania powiatowego centrum pomocy rodzinie z sądem – uwzględniając dobro dziecka pozbawionego całkowicie lub częściowo opieki rodziców. ” ;
 - **3)** po art. 78 dodaje się art. 78a-78d w brzmieniu: „
 
 **Art. 78a.** Pomoc pieniężną, o której mowa w art. 78 ust. 3 i 4, przyznaje się za okres pobytu dziecka:
 
 - **1)** w rodzinie zastępczej spokrewnionej z dzieckiem, rodzinie zastępczej niespokrewnionej z dzieckiem oraz zawodowej niespokrewnionej z dzieckiem wielodzietnej i specjalistycznej rodzinie zastępczej, począwszy od dnia ustanowienia rodziny zastępczej,
-- **2)** w zawodowej niespokrewnionej z dzieckiem rodzinie zastępczej o charakterze pogotowia rodzinnego, począwszy od dnia, w którym dziecko zostało faktycznie w tej rodzinie umieszczone nie wcześniej jednak niż za okres miesiąca kalendarzowego, w którym został złożony wniosek o przyznanie pomocy pieniężnej. W razie niemożności sprawowania osobistej opieki nad dzieckiem, o której mowa w art. 72 ust. 4, rodzina zastępcza otrzymuje pomoc pieniężną w wysokości nie niższej niż 20% pomocy pieniężnej ustalonej na podstawie art. 78 ust. 3 – w okresie pobytu dziecka w:
+- **2)** w zawodowej niespokrewnionej z dzieckiem rodzinie zastępczej o charakterze pogotowia rodzinnego, począwszy od dnia, w którym dziecko zostało faktycznie w tej rodzinie umieszczone – nie wcześniej jednak niż za okres miesiąca kalendarzowego, w którym został złożony wniosek o przyznanie pomocy pieniężnej. W razie niemożności sprawowania osobistej opieki nad dzieckiem, o której mowa w art. 72 ust. 4, rodzina zastępcza otrzymuje pomoc pieniężną w wysokości nie niższej niż 20% pomocy pieniężnej ustalonej na podstawie art. 78 ust. 3 – w okresie pobytu dziecka w:
 - **1)** domu pomocy społecznej,
 - **2)** specjalnym ośrodku szkolno-wychowawczym,
 - **3)** młodzieżowym ośrodku wychowawczym,
-- **4)** młodzieżowym ośrodku socjoterapii zapewniającym całodobową opiekę w przypadku gdy rodzina zastępcza nie ponosi kosztów utrzymania dziecka.
+- **4)** młodzieżowym ośrodku socjoterapii zapewniającym całodobową opiekę – w przypadku gdy rodzina zastępcza nie ponosi kosztów utrzymania dziecka.
 
 1. Zawodowa niespokrewniona z dzieckiem wielodzietna lub specjalistyczna rodzina zastępcza otrzymuje miesięczne wynagrodzenie w wysokości do 160% podstawy, nie mniej jednak niż 95% podstawy.
 
@@ -134,9 +133,9 @@ source: "eli-html"
 **Art. 2.** Wydane na podstawie dotychczasowych przepisów decyzje ustalające wysokość:
 
 - **1)** pomocy pieniężnej, o której mowa w art. 78 ust. 4 ustawy wymienionej w art. 1,
-- **2)** opłaty ponoszonej przez rodziców za pobyt dziecka w rodzinie zastępczej oraz osoby pełnoletniej, o której mowa w art. 78 ust. 5 ustawy wymienionej w art. 1 zachowują moc do czasu wydania decyzji na podstawie przepisów ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** opłaty ponoszonej przez rodziców za pobyt dziecka w rodzinie zastępczej oraz osoby pełnoletniej, o której mowa w art. 78 ust. 5 ustawy wymienionej w art. 1 – zachowują moc do czasu wydania decyzji na podstawie przepisów ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 78 ust. 11 ustawy wymienionej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 78 ust. 11 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z mocą od dnia 1 maja 2010 r.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z mocą od dnia 1 maja 2010 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738 oraz z 2010 r. Nr 28, poz. 146 i Nr 40, poz. 229.
 

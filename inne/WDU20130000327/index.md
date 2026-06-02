@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 lutego 2013 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 8 lutego 2013 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych Przepisy niniejszego rozporządzenia wdrażają dyrektywę Parlamentu Europejskiego i Rady 2012/12/UE z dnia 19 kwietnia 2012 r. zmieniającą dyrektywę Rady 2001/112/WE odnoszącą się do soków owocowych i niektórych podobnych produktów przeznaczonych do spożycia przez ludzi (Dz. Urz. UE L 115 z 27.04.2012, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-02-08 |
 | Data wydania | 2013-03-08 |
-| Wejście w życie | 2013-03-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000327) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/327/text.pdf) |
 
@@ -35,28 +34,23 @@ Treść rozporządzenia
 ## Załącznik nr 3 — – Minimalne wartości w skali Brixa dla soków owocowych odtworzonych z zagęszczonego soku owocowego
 
 Treść rozporządzenia
-Na podstawie art. 15 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 15 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 214, poz. 1346 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206 oraz z 2011 r. Nr 106, poz. 622 i Nr 120, poz. 690.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2003 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych (Dz. U. Nr 177, poz. 1735, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2003 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych (Dz. U. Nr 177, poz. 1735, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2004 r. Nr 282, poz. 2810, z 2009 r. Nr 114, poz. 953 oraz z 2010 r. Nr 88, poz. 579.) wprowadza się następujące zmiany:
 1)
-w § 1 dodaje się pkt 6 w brzmieniu:
-„
+w § 1 dodaje się pkt 6 w brzmieniu: „
 6)
-soków owocowych wyprodukowanych z użyciem ekstrakcji wodnej.
-” ;
+soków owocowych wyprodukowanych z użyciem ekstrakcji wodnej. ” ;
 2)
 w § 2:
 a)
-pkt 6 i 7 otrzymują brzmienie:
-„
+pkt 6 i 7 otrzymują brzmienie: „
 6)
 bentonit jako glinkę adsorpcyjną;
 7)
-żel krzemionkowy (forma koloidalna);
-” ,
+żel krzemionkowy (forma koloidalna); ” ,
 b)
-pkt 9 otrzymuje brzmienie:
-„
+pkt 9 otrzymuje brzmienie: „
 9)
 chemicznie obojętne środki wspomagające filtrowanie i strącanie, zgodnie z rozporządzeniem (WE) nr 1935/2004 Parlamentu Europejskiego i Rady z dnia 27 października 2004 r. w sprawie materiałów i wyrobów przeznaczonych do kontaktu z żywnością oraz uchylającym dyrektywy 80/590/EWG i 89/109/EWG (Dz. Urz. UE L 338 z 13.11.2004, str. 4, z późn. zm.), w tym:
 a)
@@ -70,25 +64,19 @@ nierozpuszczalny poliamid,
 e)
 poliwinylopolipyrolidon,
 f)
-polistyren;
-” ,
+polistyren; ” ,
 c)
-dodaje się pkt 10 w brzmieniu:
-„
+dodaje się pkt 10 w brzmieniu: „
 10)
-azot.
-” ;
+azot. ” ;
 3)
-w § 3 pkt 1 i 2 otrzymują brzmienie:
-„
+w § 3 pkt 1 i 2 otrzymują brzmienie: „
 1)
 soków owocowych zagęszczonych – można stosować procesy technologiczne oparte na metodach fizycznych, w tym dyfuzję jadalnej części owoców, z wyłączeniem winogron, pod warunkiem że w ten sposób otrzymane soki owocowe spełniają wymagania określone w załączniku nr 1 do rozporządzenia dla soku owocowego lub soku owocowego odtworzonego z zagęszczonego soku owocowego;
 2)
-soków, o których mowa w § 1 pkt 1–4 i 6, otrzymywanych z owoców cytrusowych – można stosować chemicznie obojętne środki wspomagające adsorpcję, spełniające wymagania określone w przepisach o materiałach i wyrobach przeznaczonych do kontaktu z żywnością, w celu zmniejszenia zawartości limonoidów i narynginy, bez znaczącego oddziaływania na zawartość glikozydów limonoidów, kwasów, cukrów, w tym oligosacharydów i składników mineralnych;
-” ;
+soków, o których mowa w § 1 pkt 1–4 i 6, otrzymywanych z owoców cytrusowych – można stosować chemicznie obojętne środki wspomagające adsorpcję, spełniające wymagania określone w przepisach o materiałach i wyrobach przeznaczonych do kontaktu z żywnością, w celu zmniejszenia zawartości limonoidów i narynginy, bez znaczącego oddziaływania na zawartość glikozydów limonoidów, kwasów, cukrów, w tym oligosacharydów i składników mineralnych; ” ;
 4)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 1.
 Do wyrobów, o których mowa w § 1:
@@ -103,29 +91,23 @@ Dodanie substancji, o których mowa w ust. 1 pkt 3, w celu korekcji kwaśnego sm
 3.
 Do soków otrzymywanych wyłącznie z owoców rokitnika można dodawać cukry w ilości nieprzekraczającej 140 g/l, wyrażonej jako sucha masa.
 4.
-Do soku pomidorowego i soku pomidorowego odtworzonego z zagęszczonego soku pomidorowego można dodawać sól, przyprawy i aromatyczne zioła.
-” ;
+Do soku pomidorowego i soku pomidorowego odtworzonego z zagęszczonego soku pomidorowego można dodawać sól, przyprawy i aromatyczne zioła. ” ;
 5)
 uchyla się § 5;
 6)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
-Aromat, miazga i komórki miąższu, otrzymywane odpowiednimi metodami fizycznymi z tych samych gatunków owoców, z których wyrób został wyprodukowany, mogą być ponownie wprowadzone do soku owocowego, soku owocowego odtworzonego z zagęszczonego soku owocowego, zagęszczonego soku owocowego lub nektaru owocowego.
-” ;
+Aromat, miazga i komórki miąższu, otrzymywane odpowiednimi metodami fizycznymi z tych samych gatunków owoców, z których wyrób został wyprodukowany, mogą być ponownie wprowadzone do soku owocowego, soku owocowego odtworzonego z zagęszczonego soku owocowego, zagęszczonego soku owocowego lub nektaru owocowego. ” ;
 7)
 w § 7:
 a)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-zastąpić cukry całkowicie lub częściowo substancjami słodzącymi, zgodnie z rozporządzeniem nr 1333/2008 oraz mając na względzie przepisy rozporządzenia (WE) nr 1924/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie oświadczeń żywieniowych i zdrowotnych dotyczących żywności (Dz. Urz. UE L 404 z 30.12.2006, str. 9, z późn. zm.) – w przypadku wytwarzania nektarów owocowych bez dodatku cukrów lub o obniżonej wartości energetycznej;
-” ,
+zastąpić cukry całkowicie lub częściowo substancjami słodzącymi, zgodnie z rozporządzeniem nr 1333/2008 oraz mając na względzie przepisy rozporządzenia (WE) nr 1924/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie oświadczeń żywieniowych i zdrowotnych dotyczących żywności (Dz. Urz. UE L 404 z 30.12.2006, str. 9, z późn. zm.) – w przypadku wytwarzania nektarów owocowych bez dodatku cukrów lub o obniżonej wartości energetycznej; ” ,
 b)
 uchyla się pkt 3;
 8)
-w § 8 dodaje się ust. 4–7 w brzmieniu:
-„
+w § 8 dodaje się ust. 4–7 w brzmieniu: „
 4.
 Minimalna wartość w skali Brixa określona w załączniku nr 3 do rozporządzenia dla soku owocowego odtworzonego z zagęszczonego soku owocowego nie uwzględnia ekstraktu dodanych do tego soku składników i dodatków, innych niż zagęszczony sok owocowy.
 5.
@@ -133,8 +115,7 @@ Jeżeli sok owocowy odtworzony z zagęszczonego soku owocowego jest produkowany 
 6.
 Wartość w skali Brixa dla soku owocowego odpowiada minimalnej wartości w tej skali dla soku otrzymanego z danego owocu i nie podlega modyfikacji, chyba że przez zmieszanie z sokiem otrzymanym z takiego samego gatunku owocu.
 7.
-W produkcji soków, przecierów oraz nektarów owocowych noszących nazwę zastosowanego gatunku lub gatunków owoców lub zwyczajową nazwę wyrobu używa się gatunku lub gatunków owoców odpowiadających nazwom botanicznym określonym w załączniku nr 3 do rozporządzenia. W przypadku gatunku lub gatunków owoców niewymienionych w załączniku nr 3 do rozporządzenia w nazewnictwie wyrobów z nich otrzymanych należy posługiwać się nazwą botaniczną lub zwyczajową odpowiadającą użytemu do produkcji gatunkowi lub gatunkom owoców.
-” ;
+W produkcji soków, przecierów oraz nektarów owocowych noszących nazwę zastosowanego gatunku lub gatunków owoców lub zwyczajową nazwę wyrobu używa się gatunku lub gatunków owoców odpowiadających nazwom botanicznym określonym w załączniku nr 3 do rozporządzenia. W przypadku gatunku lub gatunków owoców niewymienionych w załączniku nr 3 do rozporządzenia w nazewnictwie wyrobów z nich otrzymanych należy posługiwać się nazwą botaniczną lub zwyczajową odpowiadającą użytemu do produkcji gatunkowi lub gatunkom owoców. ” ;
 9)
 załączniki nr 1–3 do rozporządzenia otrzymują brzmienie określone w załącznikach nr 1–3 do niniejszego rozporządzenia.
 § 2.
@@ -144,8 +125,7 @@ mogą być wprowadzane do obrotu do dnia 28 października 2013 r.;
 2)
 mogą pozostawać w obrocie do dnia 28 kwietnia 2015 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Przepisy niniejszego rozporządzenia wdrażają dyrektywę Parlamentu Europejskiego i Rady 2012/12/UE z dnia 19 kwietnia 2012 r. zmieniającą dyrektywę Rady 2001/112/WE odnoszącą się do soków owocowych i niektórych podobnych produktów przeznaczonych do spożycia przez ludzi (Dz. Urz. UE L 115 z 27.04.2012, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 214, poz. 1346 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206 oraz z 2011 r. Nr 106, poz. 622 i Nr 120, poz. 690. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2004 r. Nr 282, poz. 2810, z 2009 r. Nr 114, poz. 953 oraz z 2010 r. Nr 88, poz. 579.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Przepisy niniejszego rozporządzenia wdrażają dyrektywę Parlamentu Europejskiego i Rady 2012/12/UE z dnia 19 kwietnia 2012 r. zmieniającą dyrektywę Rady 2001/112/WE odnoszącą się do soków owocowych i niektórych podobnych produktów przeznaczonych do spożycia przez ludzi (Dz. Urz. UE L 115 z 27.04.2012, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 208, poz. 1541, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 214, poz. 1346 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206 oraz z 2011 r. Nr 106, poz. 622 i Nr 120, poz. 690. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2004 r. Nr 282, poz. 2810, z 2009 r. Nr 114, poz. 953 oraz z 2010 r. Nr 88, poz. 579.
 
 ## Załącznik nr 1 — – Szczegółowe wymagania w zakresie jakości handlowej soków i nektarów owocowych
 
@@ -157,8 +137,7 @@ Sok owocowy z owoców cytrusowych jest otrzymywany z owocni wewnętrznej. Jednak
 3.
 W przypadku soków otrzymywanych z owoców zawierających pestki, nasiona i skórkę, części lub składniki pestek, nasion i skórek nie mogą wchodzić w skład soku. Nie dotyczy to przypadków, w których części lub składników pestek, nasion i skórki nie można usunąć pomimo stosowania dobrych praktyk produkcyjnych.
 4.
-W produkcji soku owocowego jest dozwolone mieszanie soku owocowego z przecierem owocowym.
-Soki owocowe odtworzone z zagęszczonego soku owocowego
+W produkcji soku owocowego jest dozwolone mieszanie soku owocowego z przecierem owocowym. Soki owocowe odtworzone z zagęszczonego soku owocowego
 1.
 Soki owocowe odtworzone z zagęszczonego soku owocowego są wyrobami otrzymywanymi z zagęszczonego soku owocowego przez:
 1)
@@ -170,8 +149,7 @@ Woda stosowana przy odtwarzaniu spełnia wymagania dla wody przeznaczonej do spo
 3.
 Sok owocowy odtworzony z zagęszczonego soku owocowego produkuje się z zastosowaniem odpowiednich procesów, które zachowują istotne właściwości fizyczne, chemiczne, organoleptyczne i odżywcze tego soku, odpowiadające co najmniej przeciętnym właściwościom, jakie posiadają soki otrzymane z owoców tego samego gatunku.
 4.
-W produkcji soków owocowych odtworzonych z zagęszczonych soków owocowych jest dozwolone mieszanie soku owocowego lub zagęszczonego soku owocowego z przecierem owocowym lub zagęszczonym przecierem owocowym.
-Zagęszczone soki owocowe Zagęszczone soki owocowe są wyrobami otrzymanymi z jednego lub większej liczby gatunków owoców przez usunięcie części zawartej w nich wody metodami fizycznymi. W przypadku przeznaczenia wyrobu do bezpośredniego spożycia usuwa się co najmniej 50% zawartości wody. Soki owocowe w proszku Soki owocowe w proszku są wyrobami otrzymanymi z jednego lub większej liczby gatunków owoców przez usunięcie prawie całej zawartej w nich wody metodami fizycznymi. Nektary owocowe Nektary owocowe są wyrobami zdolnymi do fermentacji, lecz niesfermentowanymi, otrzymanymi przez dodanie wody z dodatkiem lub bez dodatku cukrów lub miodu do:
+W produkcji soków owocowych odtworzonych z zagęszczonych soków owocowych jest dozwolone mieszanie soku owocowego lub zagęszczonego soku owocowego z przecierem owocowym lub zagęszczonym przecierem owocowym. Zagęszczone soki owocowe Zagęszczone soki owocowe są wyrobami otrzymanymi z jednego lub większej liczby gatunków owoców przez usunięcie części zawartej w nich wody metodami fizycznymi. W przypadku przeznaczenia wyrobu do bezpośredniego spożycia usuwa się co najmniej 50% zawartości wody. Soki owocowe w proszku Soki owocowe w proszku są wyrobami otrzymanymi z jednego lub większej liczby gatunków owoców przez usunięcie prawie całej zawartej w nich wody metodami fizycznymi. Nektary owocowe Nektary owocowe są wyrobami zdolnymi do fermentacji, lecz niesfermentowanymi, otrzymanymi przez dodanie wody z dodatkiem lub bez dodatku cukrów lub miodu do:
 1)
 soku owocowego,
 2)
@@ -185,13 +163,11 @@ soku owocowego w proszku,
 6)
 przecieru owocowego lub zagęszczonego przecieru owocowego,
 7)
-mieszaniny wyrobów wymienionych w pkt 1–6
-spełniającymi wymagania dotyczące minimalnej zawartości soków lub przecierów owocowych określone w załączniku nr 2 do rozporządzenia. Soki owocowe wyprodukowane z użyciem ekstrakcji wodnej Soki owocowe wyprodukowane z użyciem ekstrakcji wodnej są wyrobami otrzymanymi przez dyfuzję wodą:
+mieszaniny wyrobów wymienionych w pkt 1–6 – spełniającymi wymagania dotyczące minimalnej zawartości soków lub przecierów owocowych określone w załączniku nr 2 do rozporządzenia. Soki owocowe wyprodukowane z użyciem ekstrakcji wodnej Soki owocowe wyprodukowane z użyciem ekstrakcji wodnej są wyrobami otrzymanymi przez dyfuzję wodą:
 1)
 miazgi całego owocu, z której sok nie może zostać otrzymany innymi metodami fizycznymi, lub
 2)
-odwodnionego całego owocu.
-Surowce
+odwodnionego całego owocu. Surowce
 1.
 Owoce – zdrowe, odpowiednio dojrzałe, świeże lub zakonserwowane za pomocą metod fizycznych lub zabiegów, w tym środków zastosowanych po zbiorze, użytych zgodnie z przepisami Unii Europejskiej. Pomidory są uważane za owoce.
 2.
@@ -239,5 +215,6 @@ Rodzaj nektaru owocowego Minimalna zawartość soku lub przecieru w % obj. wyrob
 
 ## Załącznik nr 3 — – Minimalne wartości w skali Brixa dla soków owocowych odtworzonych z zagęszczonego soku owocowego
 
-Nazwa zwyczajowa gatunku owocu, z którego jest otrzymywany zagęszczony sok owocowy Nazwa botaniczna gatunku owocu Minimalne wartości w skali Brixa dla soku owocowego odtworzonego z zagęszczonego soku owocowego Jabłko*) Malus domestica Borkh. 11,2 Morela**) Prunus armeniaca L. 11,2 Banan**) Musa sp. (wyłączając banany rajskie) 21,0 Czarna porzeczka*) Ribes nigrum L. 11,0 Winogrona*) Vitis vinifera L. lub jej krzyżówki Vitis labrusca L. lub jej krzyżówki 15,9 Grejpfrut*) Citrus x paradise Macfad. 10,0 Guajawa (gujawa)**) Psidium guajava L. 8,5 Cytryna*) Citrus limon (L.) Burm.f. 8,0 Mango**) Mangifera indica L. 13,5 Pomarańcza*) Citrus sinensis (L.) Osbeck 11,2 Marakuja (owoc passiflory)*) Passiflora edulis Sims 12,0 Brzoskwinia**) Prunus persica (L.) Batasch var. persica 10,0 Gruszka**) Pyrus communis L. 11,9 Ananas*) Ananas comosus (L.) Merr. 12,8 Malina*) Rubus idaeus L. 7,0 Wiśnia*) Prunus cerasus L. 13,5 Truskawka*) Fragaria ananassa Duch. 7,0 Pomidor*) Lycopersicon esculentum Mill. 5,0 Mandarynka*) Citrus reticulata Blanco 11,2 *) W przypadku wyrobu w postaci soku minimalna gęstość względna jest określana w temperaturze 20°C. **) W przypadku wyrobu w postaci przecieru jest oznaczana wyłącznie minimalna odczytywana wartość w skali Brixa (bez korekty kwasowości).
+Nazwa zwyczajowa gatunku owocu, z którego jest otrzymywany zagęszczony sok owocowy Nazwa botaniczna gatunku owocu Minimalne wartości w skali Brixa dla soku owocowego odtworzonego z zagęszczonego soku owocowego Jabłko*) Malus domestica Borkh. 11,2 Morela**) Prunus armeniaca L. 11,2 Banan**) Musa sp. (wyłączając banany rajskie) 21,0 Czarna porzeczka*) Ribes nigrum L. 11,0 Winogrona*) Vitis vinifera L. lub jej krzyżówki Vitis labrusca L. lub jej krzyżówki 15,9 Grejpfrut*) Citrus x paradise Macfad. 10,0 Guajawa (gujawa)**) Psidium guajava L. 8,5 Cytryna*) Citrus limon (L.) Burm.f. 8,0 Mango**) Mangifera indica L. 13,5 Pomarańcza*) Citrus sinensis (L.) Osbeck 11,2 Marakuja (owoc passiflory)*) Passiflora edulis Sims 12,0 Brzoskwinia**) Prunus persica (L.) Batasch var. persica 10,0 Gruszka**) Pyrus communis L. 11,9 Ananas*) Ananas comosus (L.) Merr. 12,8 Malina*) Rubus idaeus L. 7,0 Wiśnia*) Prunus cerasus L. 13,5 Truskawka*) Fragaria ananassa Duch. 7,0 Pomidor*) Lycopersicon esculentum Mill. 5,0 Mandarynka*) Citrus reticulata Blanco 11,2
+*) W przypadku wyrobu w postaci soku minimalna gęstość względna jest określana w temperaturze 20°C. **) W przypadku wyrobu w postaci przecieru jest oznaczana wyłącznie minimalna odczytywana wartość w skali Brixa (bez korekty kwasowości).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-05 |
 | Data wydania | 2015-05-19 |
-| Wejście w życie | 2015-05-20 |
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000688) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/688/text.pdf) |
 
@@ -63,55 +62,39 @@ n)
 o)
 „152. Protect”;
 2)
-po poz. 72a dodaje się poz. 72aa i 72ab w brzmieniu:
-„
+po poz. 72a dodaje się poz. 72aa i 72ab w brzmieniu: „
 72aa.
 EG5411KDDZ
 72ab.
-EG6510KDDZ
-” ;
+EG6510KDDZ ” ;
 3)
-poz. 122a otrzymuje brzmienie:
-„
+poz. 122a otrzymuje brzmienie: „
 122a.
-LG30707YG
-” ;
+LG30707YG ” ;
 4)
-po poz. 122a dodaje się poz. 122b w brzmieniu:
-„
+po poz. 122a dodaje się poz. 122b w brzmieniu: „
 122b.
-LG30712 YG
-” ;
+LG30712 YG ” ;
 5)
-po poz. 139 dodaje się poz. 139a w brzmieniu:
-„
+po poz. 139 dodaje się poz. 139a w brzmieniu: „
 139a.
-MAS 57YG
-” ;
+MAS 57YG ” ;
 6)
-poz. 148a otrzymuje brzmienie:
-„
+poz. 148a otrzymuje brzmienie: „
 148a.
-P0222Y
-” ;
+P0222Y ” ;
 7)
-po poz. 148a dodaje się poz. 148b w brzmieniu:
-„
+po poz. 148a dodaje się poz. 148b w brzmieniu: „
 148b.
-P0837Y
-” ;
+P0837Y ” ;
 8)
-po poz. 203a dodaje się poz. 203aa w brzmieniu:
-„
+po poz. 203a dodaje się poz. 203aa w brzmieniu: „
 203aa.
-P1574Y
-” ;
+P1574Y ” ;
 9)
-po poz. 235 dodaje się poz. 235a w brzmieniu:
-„
+po poz. 235 dodaje się poz. 235a w brzmieniu: „
 235a.
-Zoom YG
-” .
+Zoom YG ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

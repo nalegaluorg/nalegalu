@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 22 października 2018 r. w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 2046), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 27 kwietnia 2020 r. zmieniającym rozporządzenie w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 766).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 27 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 766), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 27 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 766), które stanowią: „
 § 2.
 Do kontroli wszczętych i niezakończonych do dnia wejścia w życie rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 22 października 2018 r. w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 22 października 2018 r. w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządówMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 Na podstawie art. 35 ust. 11 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2020 r. poz. 2134) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa tryb przeprowadzania przez podmioty upoważnione na podstawie przepisów ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, zwanej dalej „ustawą”, kontroli:
@@ -47,8 +45,7 @@ banków tkanek i komórek,
 2)
 podmiotów, o których mowa w art. 16a ust. 1, art. 26 ust. 4 pkt 7, art. 36 ust. 1 i art. 37 ust. 1 ustawy, w zakresie działalności objętej pozwoleniami wydanymi na podstawie przepisów ustawy,
 3)
-ośrodków kwalifikujących, w zakresie spełnienia wymagań określonych ustawą i przepisami wydanymi na podstawie art. 16c ust. 10 ustawy
-zwanych dalej „jednostkami kontrolowanymi”.
+ośrodków kwalifikujących, w zakresie spełnienia wymagań określonych ustawą i przepisami wydanymi na podstawie art. 16c ust. 10 ustawy – zwanych dalej „jednostkami kontrolowanymi”.
 § 2.
 1.
 Upoważniony pracownik, o którym mowa w art. 35 ust. 4 ustawy, zwany dalej „kontrolerem”, wszczyna kontrolę nie wcześniej niż po upływie 3 dni roboczych i nie później niż przed upływem 30 dni od dnia doręczenia zawiadomienia o zamiarze wszczęcia kontroli.
@@ -77,8 +74,7 @@ wystąpienia istotnego zdarzenia niepożądanego lub
 2)
 wystąpienia istotnej reakcji niepożądanej, lub
 3)
-podejrzenia wystąpienia przesłanek, o których mowa w art. 27 ust. 4 pkt 1, 3 i 4 ustawy
-kontroler zawiadamia kierownika jednostki kontrolowanej o kontroli bezpośrednio przed przystąpieniem do czynności kontrolnych, co uzasadnia wpisem w książce kontroli i protokole kontroli.
+podejrzenia wystąpienia przesłanek, o których mowa w art. 27 ust. 4 pkt 1, 3 i 4 ustawy – kontroler zawiadamia kierownika jednostki kontrolowanej o kontroli bezpośrednio przed przystąpieniem do czynności kontrolnych, co uzasadnia wpisem w książce kontroli i protokole kontroli.
 § 3.
 Kontroler, bezpośrednio przed przystąpieniem do czynności kontrolnych, okazuje kierownikowi jednostki kontrolowanej lub osobie przez niego upoważnionej imienne upoważnienie, o którym mowa w art. 35 ust. 4 ustawy, wraz z dokumentem tożsamości.
 § 4.
@@ -146,7 +142,7 @@ Kontroler jest obowiązany do zachowania tajemnicy, o której mowa w art. 19 ust
 3.
 W czasie przeprowadzania kontroli kontroler jest obowiązany do przestrzegania ustanowionych w pomieszczeniach kontrolowanych przez jednostkę kontrolowaną norm i zasad odnoszących się do jakości i bezpieczeństwa komórek i tkanek.
 § 12.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 766), które weszło w życie z dniem 29 kwietnia 2020 r..
 Protokół kontroli sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden przekazuje się kierownikowi jednostki kontrolowanej.
 2.
 Protokół kontroli sporządza się niezwłocznie, nie później niż w terminie 14 dni od dnia zakończenia kontroli.
@@ -160,7 +156,7 @@ Skreśleń i poprawek dokonuje się przed podpisaniem protokołu kontroli przez 
 Dokonanie skreśleń i poprawek w protokole kontroli wymaga sporządzenia adnotacji na końcu protokołu wraz z określeniem ich treści i strony protokołu, na której zostały dokonane.
 § 13.
 W zakresie doręczenia protokołu kontroli, w tym uznania protokołu kontroli za doręczony w przypadku jego niepodjęcia, stosuje się odpowiednio przepisy art. 44 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735).
-§ 13a.
+§ 13aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku zlecenia przez ministra właściwego do spraw zdrowia kontroli za pośrednictwem systemu teleinformatycznego lub systemu łączności, o której mowa w art. 35a ust. 2 ustawy, stosuje się odpowiednio przepisy § 2–13, z wyłączeniem § 4 pkt 3 i § 6 ust. 2, 3 i 5, z tym że:
 1)
 uwierzytelnione kopie, odpisy lub wyciągi z dokumentów, jak również zestawienia i obliczenia dokonane na podstawie dokumentów są przekazywane kontrolerowi za pomocą systemu teleinformatycznego lub systemu łączności;
@@ -187,6 +183,5 @@ protokół kontroli przekazuje się kierownikowi jednostki kontrolowanej za poś
 12)
 podpisanie protokołu kontroli przez kontrolera i kierownika jednostki kontrolowanej lub osobę przez niego upoważnioną następuje z wykorzystaniem kwalifikowanego podpisu elektronicznego lub profilu zaufanego.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 766), które weszło w życie z dniem 29 kwietnia 2020 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 25 października 2018 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 12 marca 2010 r. w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 273), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 1 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 25 października 2018 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 12 marca 2010 r. w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 273), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 1 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 766), które weszło w życie z dniem 29 kwietnia 2020 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Rozporządzenie zostało ogłoszone w dniu 25 października 2018 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 12 marca 2010 r. w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów (Dz. U. poz. 273), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ust. 1 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798).
 

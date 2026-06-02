@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2002-06-05 |
 | Data wydania | 2002-09-09 |
-| Wejście w życie | 2002-08-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021261067) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1067/text.pdf) |
 
@@ -51,8 +50,10 @@ source: "eli-html"
 
 7. Podatnicy podatku dochodowego od osób fizycznych niewymienieni w ust. 6 dokonują zgłoszenia identyfikacyjnego nie później niż wraz ze złożeniem pierwszego, od dnia wejścia w życie ustawy, zeznania rocznego, w terminie przewidzianym do jego złożenia, z zastrzeżeniem art. 8. ” ;
 
-- **4)** w art. 8: w ust. 1: – w pkt 2 po wyrazie „zaliczek” dodaje się po przecinku wyraz „lub”, – dodaje się pkt 3 w brzmieniu: „ 3) pobiera zaliczkę wyłącznie od dochodu z tytułu umowy o dzieło lub umowy zlecenia ” , w ust. 3 skreśla się wyrazy „, w terminie wyznaczonym przez ten urząd”, ust. 4 otrzymuje brzmienie: „
+- **4)** w art. 8: w ust. 1: – w pkt 2 po wyrazie „zaliczek” dodaje się po przecinku wyraz „lub”, dodaje się pkt 3 w brzmieniu: „
     - **a)**
+
+- **3)** pobiera zaliczkę wyłącznie od dochodu z tytułu umowy o dzieło lub umowy zlecenia ” , w ust. 3 skreśla się wyrazy „, w terminie wyznaczonym przez ten urząd”, ust. 4 otrzymuje brzmienie: „
     - **b)**
     - **c)**
 

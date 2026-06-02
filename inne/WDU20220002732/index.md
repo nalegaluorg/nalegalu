@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 grudnia 2022 r. w sprawie sposobu i trybu rozdziału środków finansowych przeznaczonych wyłącznie na cele ochrony przeciwpożarowej
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 grudnia 2022 r. w sprawie sposobu i trybu rozdziału środków finansowych przeznaczonych wyłącznie na cele ochrony przeciwpożarowej Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-20 |
 | Data wydania | 2022-12-22 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002732) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2732/text.pdf) |
 
@@ -53,6 +52,5 @@ komendanci szkół Państwowej Straży Pożarnej.
 2.
 Wnioski jednostek organizacyjnych Państwowej Straży Pożarnej, o których mowa w ust. 1, nie wymagają dołączenia opinii komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 30 czerwca 2017 r. w sprawie rozdziału środków finansowych przeznaczonych wyłącznie na cele ochrony przeciwpożarowej (Dz. U. poz. 1317), które zgodnie z art. 55 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490 oraz z 2022 r. poz. 1301 i 1964) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 30 czerwca 2017 r. w sprawie rozdziału środków finansowych przeznaczonych wyłącznie na cele ochrony przeciwpożarowej (Dz. U. poz. 1317), które zgodnie z art. 55 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490 oraz z 2022 r. poz. 1301 i 1964) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 30 czerwca 2017 r. w sprawie rozdziału środków finansowych przeznaczonych wyłącznie na cele ochrony przeciwpożarowej (Dz. U. poz. 1317), które zgodnie z art. 55 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490 oraz z 2022 r. poz. 1301 i 1964) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

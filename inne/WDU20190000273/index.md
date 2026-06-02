@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-31 |
 | Data wydania | 2019-02-12 |
-| Wejście w życie | 2019-02-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000273) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/273/text.pdf) |
 
@@ -121,7 +120,7 @@ source: "eli-html"
 § 2. Obwodową komisję wyborczą powołuje się spośród kandydatów zgłoszonych przez pełnomocników wyborczych lub upoważnione przez nich osoby:
 
 - **1)** w liczbie nie mniejszej niż 2/3 ustawowego składu komisji – po jednej osobie zgłoszonej przez każdego z pełnomocników wyborczych reprezentujących komitety wyborcze utworzone przez partie polityczne bądź koalicje partii politycznych, z których list odpowiednio w ostatnich wyborach: wybrano radnych do sejmiku województwa, z tym że kandydatów można zgłaszać tylko na obszarze województwa, na terenie którego komitet wyborczy wprowadził w ostatnich wyborach radnych do sejmiku województwa, albo wybrano posłów do Sejmu; jeżeli liczba takich komitetów wyborczych jest mniejsza niż 2/3 ustawowego składu komisji, prawo wskazania dodatkowej osoby mają pełnomocnicy komitetów wyborczych, o których mowa w pkt 2,
-- **2)** po jednej osobie zgłoszonej przez każdego z pełnomocników wyborczych reprezentujących pozostałe komitety wyborcze z zastrzeżeniem § 7. ” , § 3–5 otrzymują brzmienie: „
+- **2)** po jednej osobie zgłoszonej przez każdego z pełnomocników wyborczych reprezentujących pozostałe komitety wyborcze – z zastrzeżeniem § 7. ” , § 3–5 otrzymują brzmienie: „
     - **c)**
 
 § 3. W skład obwodowych komisji wyborczych, w odrębnych obwodach głosowania powołuje się 5 osób spośród kandydatów zgłoszonych przez pełnomocników wyborczych lub upoważnione przez nich osoby.
@@ -148,7 +147,7 @@ source: "eli-html"
 § 8b. Komisarz wyborczy:
 
 - **1)** uzupełnia skład komisji – jeżeli liczba zgłoszonych kandydatów jest mniejsza niż minimalny skład liczbowy obwodowej komisji wyborczej,
-- **2)** może uzupełnić skład komisji – jeżeli liczba zgłoszonych kandydatów jest mniejsza niż ustawowy skład liczbowy obwodowej komisji wyborczej spośród wyborców spełniających warunek, o którym mowa w § 4. Przepis § 6 stosuje się odpowiednio.
+- **2)** może uzupełnić skład komisji – jeżeli liczba zgłoszonych kandydatów jest mniejsza niż ustawowy skład liczbowy obwodowej komisji wyborczej – spośród wyborców spełniających warunek, o którym mowa w § 4. Przepis § 6 stosuje się odpowiednio.
 
 § 8c. Wyborcy, o których mowa w § 8b, mogą zgłaszać swoje kandydatury komisarzowi wyborczemu. ” ;
 
@@ -188,7 +187,7 @@ source: "eli-html"
 
 - **32)** w art. 244 § 1 otrzymuje brzmienie: „
 
-§ 1. Sąd Najwyższy, na podstawie sprawozdania z wyborów przedstawionego przez Państwową Komisję Wyborczą oraz opinii wydanych w wyniku rozpoznania protestów, rozstrzyga o ważności wyborów oraz o ważności wyboru posła, przeciwko któremu wniesiono protest. W postępowaniu stosuje się odpowiednio przepisy ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2018 r. poz. 5, z późn. zm.). ” ;
+§ 1. Sąd Najwyższy, na podstawie sprawozdania z wyborów przedstawionego przez Państwową Komisję Wyborczą oraz opinii wydanych w wyniku rozpoznania protestów, rozstrzyga o ważności wyborów oraz o ważności wyboru posła, przeciwko któremu wniesiono protest. W postępowaniu stosuje się odpowiednio przepisy ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2018 r. poz. 5, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 771, 847, 848, 1045, 1443 i 2507 oraz z 2019 r. poz. 125.). ” ;
 
 - **33)** w art. 247 w § 3 po wyrazach „pełnionej funkcji” dodaje się wyrazy „, z zastrzeżeniem art. 383 § 2a i art. 492 § 2a”;
 - **34)** w art. 279 w § 3 po wyrazach „pełnionej funkcji” dodaje się wyrazy „, z zastrzeżeniem art. 383 § 2a i art. 492 § 2a”;
@@ -237,5 +236,5 @@ source: "eli-html"
 
 **Art. 4.** Przepis art. 11 § 2 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą nie dotyczy skazania prawomocnym wyrokiem przed dniem wejścia w życie niniejszej ustawy osób pełniących w dniu wejścia w życie niniejszej ustawy funkcji wójta, burmistrza lub prezydenta miasta, na karę inną niż pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 771, 847, 848, 1045, 1443 i 2507 oraz z 2019 r. poz. 125.
 

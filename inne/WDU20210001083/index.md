@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 10 czerwca 2021 r. w sprawie wprowadzenia do stosowania wymagań EUROCONTROL w zakresie przepisów systemu opłat trasowych
+# Rozporządzenie Ministra Infrastrukturyz dnia 10 czerwca 2021 r. w sprawie wprowadzenia do stosowania wymagań EUROCONTROL w zakresie przepisów systemu opłat trasowych Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
 
 | Pole | Wartość |
 |---|---|
@@ -22,25 +22,24 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-10 |
 | Data wydania | 2021-06-17 |
-| Wejście w życie | 2021-06-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001083) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1083/text.pdf) |
 
 Treść rozporządzenia
+Niniejsze rozporządzenie służy stosowaniu:
 Na podstawie art. 3 ust. 4 pkt 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970 oraz z 2021 r. poz. 784 i 847) zarządza się, co następuje:
 § 1.
 Wprowadza się do stosowania, z zastrzeżeniem przepisów rozporządzenia, wymagania międzynarodowe w zakresie przepisów systemu opłat trasowych, ustanowione przez Europejską Organizację do Spraw Bezpieczeństwa Żeglugi Powietrznej (EUROCONTROL), obejmujące:
 1)
 Warunki stosowania systemu opłat trasowych oraz warunki uiszczania należności,
 2)
-Zasady ustalania podstawy kosztowej dla opłat trasowych i obliczania stawek jednostkowych
-ogłoszone w załącznikach do ogłoszenia nr 2 Prezesa Urzędu Lotnictwa Cywilnego z dnia 29 stycznia 2021 r. w sprawie wymagań EUROCONTROL w zakresie przepisów systemu opłat trasowych (Dz. Urz. ULC poz. 3).
+Zasady ustalania podstawy kosztowej dla opłat trasowych i obliczania stawek jednostkowych – ogłoszone w załącznikach do ogłoszenia nr 2 Prezesa Urzędu Lotnictwa Cywilnego z dnia 29 stycznia 2021 r. w sprawie wymagań EUROCONTROL w zakresie przepisów systemu opłat trasowych (Dz. Urz. ULC poz. 3).
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
 FIR Warszawa – rozumie się przez to rejon informacji powietrznej stanowiący przestrzeń powietrzną, o którym mowa w § 3 ust. 2 rozporządzenia Ministra Infrastruktury z dnia 27 grudnia 2018 r. w sprawie struktury polskiej przestrzeni powietrznej oraz szczegółowych warunków i sposobu korzystania z tej przestrzeni (Dz. U. z 2019 r. poz. 619), w którym jest zapewniana służba informacji powietrznej i służba alarmowa;
 2)
-instytucji – rozumie się przez to instytucję zapewniającą służby żeglugi powietrznej w rozumieniu art. 2 pkt 5 rozporządzenia nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającego ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Rozporządzenie ramowe) (Dz. Urz. UE L 96 z 31.03.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23), wyznaczoną na podstawie art. 127 ust. 2 ustawy;
+instytucji – rozumie się przez to instytucję zapewniającą służby żeglugi powietrznej w rozumieniu art. 2 pkt 5 rozporządzenia nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającego ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Rozporządzenie ramowe) (Dz. Urz. UE L 96 z 31.03.2004, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 174 z 04.07.2007, str. 26 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23), wyznaczoną na podstawie art. 127 ust. 2 ustawy;
 3)
 planie skuteczności działania – rozumie się przez to plan, o którym mowa w art. 11 ust. 1 lit. b rozporządzenia nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającego ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej;
 4)
@@ -85,7 +84,7 @@ Instytucja zapewniająca służby meteorologiczne udostępnia przedstawicielom u
 § 14.
 System zachęt w stosunku do instytucji ustanawia się i stosuje zgodnie z art. 11, art. 27 i art. 28 rozporządzenia 2019/317.
 § 15.
-Wyłączenie z podziału ryzyka związanego z ruchem ustalonych kosztów instytucji, które otrzymały zezwolenie na zapewnianie tych służb bez certyfikacji, zgodnie z art. 7 ust. 5 rozporządzenia (WE) nr 550/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie zapewniania służby żeglugi powietrznej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004, str. 10, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 31), jest określane w planie skuteczności działania.
+Wyłączenie z podziału ryzyka związanego z ruchem ustalonych kosztów instytucji, które otrzymały zezwolenie na zapewnianie tych służb bez certyfikacji, zgodnie z art. 7 ust. 5 rozporządzenia (WE) nr 550/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie zapewniania służby żeglugi powietrznej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004, str. 10, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 174 z 04.07.2007, str. 27 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 31), jest określane w planie skuteczności działania.
 § 16.
 1.
 System zachęt w stosunku do użytkowników przestrzeni powietrznej obejmujący opłaty trasowe, stanowiący modulację opłat, o której mowa w art. 32 rozporządzenia 2019/317, zatwierdza Prezes Urzędu na wniosek instytucji zapewniającej służby ruchu lotniczego.
@@ -105,6 +104,7 @@ Kompetencję „Umawiającego się Państwa”, o której mowa w pkt 2.5.3 akapi
 § 19.
 Traci moc rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 5 września 2014 r. w sprawie wprowadzenia do stosowania wymagań EUROCONTROL w zakresie przepisów systemu opłat trasowych (Dz. U. poz. 1229).
 § 20.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Niniejsze rozporządzenie służy stosowaniu:1) rozporządzenia (WE) nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającego ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Rozporządzenie ramowe) (Dz. Urz. UE L 96 z 31.03.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23);2) rozporządzenia wykonawczego Komisji (UE) 2019/317 z dnia 11 lutego 2019 r. ustanawiającego system skuteczności działania i opłat w jednolitej europejskiej przestrzeni powietrznej oraz uchylającego rozporządzenia wykonawcze (UE) nr 390/2013 i (UE) nr 391/2013 (Dz. Urz. UE L 56 z 25.02.2019, str. 1). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 174 z 04.07.2007, str. 26 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 174 z 04.07.2007, str. 27 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) Niniejsze rozporządzenie służy stosowaniu:
+1) rozporządzenia (WE) nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającego ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Rozporządzenie ramowe) (Dz. Urz. UE L 96 z 31.03.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23);
+2) rozporządzenia wykonawczego Komisji (UE) 2019/317 z dnia 11 lutego 2019 r. ustanawiającego system skuteczności działania i opłat w jednolitej europejskiej przestrzeni powietrznej oraz uchylającego rozporządzenia wykonawcze (UE) nr 390/2013 i (UE) nr 391/2013 (Dz. Urz. UE L 56 z 25.02.2019, str. 1). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 174 z 04.07.2007, str. 26 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 174 z 04.07.2007, str. 27 oraz Dz. Urz. UE L 300 z 14.11.2009, str. 34.
 

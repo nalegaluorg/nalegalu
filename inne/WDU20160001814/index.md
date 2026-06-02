@@ -26,7 +26,19 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001814) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1814/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 15 września 2010 r. w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk Rozdział 1 – Przepisy ogólne Rozdział 2 – Obowiązki organizatora widowiska Rozdział 3 – Obowiązki osób związanych z organizacją, przygotowaniem i realizacją widowiska Rozdział 4 – Wymagania dotyczące miejsc realizacji widowiska Rozdział 5 – Koncepcja inscenizacyjna i projekt scenograficzny oraz tryb ich zatwierdzania Rozdział 6 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 15 września 2010 r. w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Obowiązki organizatora widowiska
+
+#### Rozdział 3 – Obowiązki osób związanych z organizacją, przygotowaniem i realizacją widowiska
+
+#### Rozdział 4 – Wymagania dotyczące miejsc realizacji widowiska
+
+#### Rozdział 5 – Koncepcja inscenizacyjna i projekt scenograficzny oraz tryb ich zatwierdzania
+
+#### Rozdział 6 – Przepis końcowy
 
 ## Załącznik nr 1 — – Szczegółowe wymagania dotyczące miejsc realizacji widowiska
 
@@ -36,14 +48,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 15 września 2010 r. w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk (Dz. U. poz. 1240), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 9 listopada 2015 r. zmieniającym rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk (Dz. U. poz. 2006).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 9 listopada 2015 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk (Dz. U. poz. 2006), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 9 listopada 2015 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk (Dz. U. poz. 2006), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 15 września 2010 r. w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk
-Na podstawie art. 23715 §2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 15 września 2010 r. w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowiskMinister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 12 marca 2010 r. pod numerem 2010/0154/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę nr 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 204 z 21.07.1998, str. 37, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). Na podstawie art. 23715 §2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki bezpieczeństwa i higieny pracy przy organizacji, przygotowaniu, realizacji i likwidacji widowiska przez podmiot prowadzący działalność kulturalną, w tym wymagania dotyczące miejsca realizacji widowiska, koncepcji inscenizacyjnej i projektu scenograficznego.
 § 2.
@@ -83,7 +94,8 @@ pokazy, imprezy okolicznościowe i inne imprezy posiadające cechy widowiska, re
 widowni – należy przez to rozumieć przestrzeń przeznaczoną dla widzów, bez względu na układ przestrzenny, konstrukcję, rozmiary oraz liczbę miejsc siedzących lub stojących;
 10)
 zapleczu sceny i estrady – należy przez to rozumieć pomieszczenia i przestrzenie powiązane funkcjonalnie ze sceną lub estradą, w szczególności zascenie, podscenie, nadscenie, boczne kieszenie sceny, magazyny środków inscenizacji i sprzętu technicznego oraz wydzielone pomieszczenia urządzeń technicznych; do pomieszczeń zaplecza zalicza się także garderoby wykonawców, szatnie i pomieszczenia służące do odpoczynku pracowników technicznych, pomieszczenia dla osób nadzorujących tok widowiska, próby lub prace techniczne, jadalnie, palarnie oraz kabiny natryskowe i ustępy.
-Rozdział 2 Obowiązki organizatora widowiska
+Rozdział 2
+Obowiązki organizatora widowiska
 § 4.
 1.
 Organizator widowiska, lub osoba pisemnie przez niego wyznaczona, jest obowiązany osobiście nadzorować organizację, przygotowanie i realizację widowiska oraz przeciwdziałać zagrożeniom dla zdrowia lub życia związanym z przebiegiem tych prac, w szczególności:
@@ -110,18 +122,19 @@ zapewnić należyty stan konstrukcji i urządzeń technicznych oraz wyposażenia
 2.
 Szczegółowe obowiązki organizatora widowiska w zakresie bezpieczeństwa pożarowego określają przepisy o ochronie przeciwpożarowej oraz przepisy techniczno-budowlane.
 § 5.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 9 listopada 2015 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk (Dz. U. poz. 2006), które weszło w życie z dniem 16 grudnia 2015 r..
 Wczasie widowisk z udziałem zaproszonego zespołu wykonawców (występ gościnny) organizator widowiska i osoba reprezentująca zespół lub jego pracodawcę mają obowiązek współpracować ze sobą i ustalić w formie pisemnej zasady współdziałania na wypadek wystąpienia zagrożeń dla zdrowia lub życia uczestników widowiska.
 2.
 W razie wystąpienia zagrożeń, o których mowa w ust. 1, organizator widowiska odpowiada w pełni za miejsce realizacji widowiska oraz urządzenia techniczne, środki inscenizacji, sprzęt roboczy i ochronny, chyba że te urządzenia, środki i sprzęt pozostają w wyłącznej dyspozycji zespołu, który ponosi za nie odpowiedzialność.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Organizator widowiska i osoba reprezentująca zespół lub jego pracodawcę w sposób udokumentowany wyznaczają koordynatora sprawującego nadzór w zakresie bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego.
 § 6.
 1.
 W przypadku stwierdzenia bezpośredniego zagrożenia dla życia lub zdrowia widzów, wykonawców lub innych osób uczestniczących w widowisku organizator widowiska, lub osoba przez niego wyznaczona, niezwłocznie je przerywa i podejmuje działania w celu usunięcia zagrożenia, a także informuje widzów, wykonawców i pracowników technicznych o zaistniałej sytuacji oraz przewidywanym czasie trwania przerwy.
 2.
 Wznowienie widowiska może nastąpić po usunięciu powstałego zagrożenia.
-Rozdział 3 Obowiązki osób związanych z organizacją, przygotowaniem i realizacją widowiska
+Rozdział 3
+Obowiązki osób związanych z organizacją, przygotowaniem i realizacją widowiska
 § 7.
 Osoby związane z organizacją, przygotowaniem i realizacją widowiska są obowiązane wykonywać wszelkie czynności i prace zgodnie z przepisami i zasadami bezpieczeństwa i higieny pracy, w sposób zapobiegający powstawaniu zagrożeń, w szczególności:
 1)
@@ -144,7 +157,8 @@ Dzieci do lat 16 mogą uczestniczyć w widowisku w charakterze wykonawców, jeż
 Zwierzęta wybrane do udziału w widowisku nie mogą być agresywne lub płochliwe.
 2.
 Warunki udziału zwierząt w widowiskach określają przepisy o ochronie zwierząt.
-Rozdział 4 Wymagania dotyczące miejsc realizacji widowiska
+Rozdział 4
+Wymagania dotyczące miejsc realizacji widowiska
 § 11.
 Widowiska mogą być organizowane i realizowane w obiektach, których konstrukcja i wyposażenie spełniają wymogi określone w przepisach techniczno-budowlanych i w przepisach o ochronie przeciwpożarowej, jak również w przestrzeniach otwartych, gdzie istnieje możliwość spełnienia powyższych wymogów.
 § 12.
@@ -172,7 +186,8 @@ stosowanie oświetlenia scenicznego, nagłośnienia oraz efektów akustycznych p
 wygaszanie lub zasłanianie opraw oświetlenia awaryjnego, w tym podświetlonych znaków wskazujących kierunek ewakuacji.
 § 13.
 Szczegółowe wymagania dotyczące miejsc realizacji widowiska określa załącznik nr 1 do rozporządzenia.
-Rozdział 5 Koncepcja inscenizacyjna i projekt scenograficzny oraz tryb ich zatwierdzania
+Rozdział 5
+Koncepcja inscenizacyjna i projekt scenograficzny oraz tryb ich zatwierdzania
 § 14.
 1.
 Zorganizowanie widowiska musi być poprzedzone opracowaniem koncepcji inscenizacyjnej i projektu scenograficznego w sposób zgodny z przepisami bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego, o czym realizatorzy widowiska muszą być pisemnie poinformowani.
@@ -229,21 +244,21 @@ W instytucji kultury, której statutową działalnością jest organizowanie i r
 W skład komisji wchodzą: dyrektor techniczny lub kierownik techniczny, który przewodniczy komisji, społeczny inspektor pracy lub przedstawiciel pracowników, pracownicy służb bezpieczeństwa i higieny pracy i bezpieczeństwa pożarowego albo osoby, którym powierzono wykonywanie zadań tych służb.
 3.
 W posiedzeniach komisji mają obowiązek uczestniczyć reżyser i scenograf widowiska lub ich asystenci, a w razie potrzeby także kierownicy zespołów artystycznych i zespołów wykonujących środki inscenizacji oraz odpowiedni specjaliści z zewnątrz.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Komisja pisemnie opiniuje koncepcje inscenizacyjne i projekty scenograficzne pod kątem ich zgodności z przepisami bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego, a także miejscowymi warunkami bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego. Komisja opiniuje także środki inscenizacji po ich wykonaniu, przed lub w trakcie prób technicznych i przeglądu kostiumów. Obowiązek uzyskania opinii komisji dotyczy również zmian wprowadzonych do koncepcji inscenizacji, projektu scenograficznego i wykonanych środków inscenizacji po ich pozytywnym zaopiniowaniu przez komisję.
 5.
 Z opinią komisji zapoznaje się realizatorów widowiska, a w razie potrzeby także inne osoby.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Dyrektor instytucji kultury ustala regulamin pracy komisji, zasady postępowania w przypadku negatywnego zaopiniowania przez komisję koncepcji inscenizacyjnej, projektu scenograficznego lub wykonanych środków inscenizacji oraz zasady postępowania w przypadku zmian dokonanych w pozytywnie zaopiniowanej przez komisję koncepcji inscenizacyjnej, w projekcie scenograficznym lub w wykonanych środkach inscenizacji.
 § 23.
 1.
 W przypadku gdy organizatorem widowiska jest podmiot inny niż wymieniony w § 22 ust. 1, oceny koncepcji inscenizacyjnej i projektu scenograficznego pod kątem ich zgodności z przepisami bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego, a także miejscowymi warunkami bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego, dokonują pracownicy służby bezpieczeństwa i higieny pracy lub osoby, którym powierzono zadania tej służby na innej podstawie prawnej, a w razie potrzeby także kierownicy zespołów artystycznych i zespołów wykonujących środki inscenizacji oraz odpowiedni specjaliści z zewnątrz.
 2.
 Ocenę, o której mowa w ust. 1, zatwierdza organizator widowiska, a następnie zapoznaje z nią realizatorów widowiska, a w razie potrzeby także inne osoby.
-Rozdział 6 Przepis końcowy
+Rozdział 6
+Przepis końcowy
 § 24.
-Rozporządzenie wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 12 marca 2010 r. pod numerem 2010/0154/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę nr 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 204 z 21.07.1998, str. 37, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 9 listopada 2015 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk (Dz. U. poz. 2006), które weszło w życie z dniem 16 grudnia 2015 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 7) Rozporządzenie zostało ogłoszone w dniu 4 października 2010 r. 8) Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Kultury i Sztuki z dnia 2 września 1982 r. w sprawie bezpieczeństwa i higieny pracy w instytucjach artystycznych (Dz. U. poz. 205) zachowane w mocy na podstawie art. 26 ustawy z dnia 2 lutego 1996 r. o zmianie ustawy – Kodeks pracy oraz o zmianie niektórych ustaw (Dz. U. poz. 110).
+Rozporządzenie wchodzi w życie po upływie 12 miesięcy od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 4 października 2010 r..Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Kultury i Sztuki z dnia 2 września 1982 r. w sprawie bezpieczeństwa i higieny pracy w instytucjach artystycznych (Dz. U. poz. 205) zachowane w mocy na podstawie art. 26 ustawy z dnia 2 lutego 1996 r. o zmianie ustawy – Kodeks pracy oraz o zmianie niektórych ustaw (Dz. U. poz. 110). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 12 marca 2010 r. pod numerem 2010/0154/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę nr 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 204 z 21.07.1998, str. 37, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337). 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 9 listopada 2015 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk (Dz. U. poz. 2006), które weszło w życie z dniem 16 grudnia 2015 r. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 7) Rozporządzenie zostało ogłoszone w dniu 4 października 2010 r. 8) Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Kultury i Sztuki z dnia 2 września 1982 r. w sprawie bezpieczeństwa i higieny pracy w instytucjach artystycznych (Dz. U. poz. 205) zachowane w mocy na podstawie art. 26 ustawy z dnia 2 lutego 1996 r. o zmianie ustawy – Kodeks pracy oraz o zmianie niektórych ustaw (Dz. U. poz. 110).
 
 ## Załącznik nr 1 — – Szczegółowe wymagania dotyczące miejsc realizacji widowiska
 

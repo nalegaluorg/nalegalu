@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-01 |
 | Data wydania | 2018-04-10 |
-| Wejście w życie | 2018-04-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/696/text.pdf) |
 
@@ -66,7 +65,7 @@ source: "eli-html"
 - **2)** Agencji Wywiadu,
 - **3)** Centralnemu Biuru Antykorupcyjnemu,
 - **4)** Służbie Kontrwywiadu Wojskowego,
-- **5)** Służbie Wywiadu Wojskowego wyłącznie w zakresie niezbędnym do realizacji ich ustawowych zadań.
+- **5)** Służbie Wywiadu Wojskowego – wyłącznie w zakresie niezbędnym do realizacji ich ustawowych zadań.
 
 2. Dane z rejestru stanu cywilnego udostępnia się za pomocą urządzeń teletransmisji danych, po złożeniu do ministra właściwego do spraw informatyzacji jednorazowego wniosku i wyrażeniu przez niego zgody, podmiotom, o których mowa w ust. 1, jeżeli spełniają łącznie następujące warunki:
 

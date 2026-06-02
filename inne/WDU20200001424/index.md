@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 sierpnia 2020 r. zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 sierpnia 2020 r. zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-20 |
 | Data wydania | 2020-08-21 |
-| Wejście w życie | 2020-08-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001424) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1424/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 16 ust. 3 pkt 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2019 r. poz. 1776) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, z późn. zm.) w § 3 w ust. 2 pkt 16 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2020 r. poz. 469, 864, 905, 1030, 1045, 1183 i 1379.) w § 3 w ust. 2 pkt 16 otrzymuje brzmienie: „
 16)
-cudzoziemcy, których przyjazd następuje w związku z udziałem, w charakterze zawodnika, członka sztabu szkoleniowego, lekarza, fizjoterapeuty lub sędziego, w międzynarodowych zawodach sportowych organizowanych na terytorium Rzeczypospolitej Polskiej przez międzynarodową federację sportową działającą w sporcie olimpijskim lub paraolimpijskim lub inną uznaną przez Międzynarodowy Komitet Olimpijski albo organizowanych przez międzynarodową organizację sportową o zasięgu kontynentalnym należącą do takiej federacji lub polski związek sportowy, a także akredytowani dziennikarze, po udokumentowaniu funkcjonariuszowi Straży Granicznej faktu odbywania się zawodów, terminu oraz charakteru uczestnictwa stosownym pismem wystawionym przez organizatora zawodów lub poświadczonym przez właściwy w danym sporcie polski związek sportowy.
-” .
+cudzoziemcy, których przyjazd następuje w związku z udziałem, w charakterze zawodnika, członka sztabu szkoleniowego, lekarza, fizjoterapeuty lub sędziego, w międzynarodowych zawodach sportowych organizowanych na terytorium Rzeczypospolitej Polskiej przez międzynarodową federację sportową działającą w sporcie olimpijskim lub paraolimpijskim lub inną uznaną przez Międzynarodowy Komitet Olimpijski albo organizowanych przez międzynarodową organizację sportową o zasięgu kontynentalnym należącą do takiej federacji lub polski związek sportowy, a także akredytowani dziennikarze, po udokumentowaniu funkcjonariuszowi Straży Granicznej faktu odbywania się zawodów, terminu oraz charakteru uczestnictwa stosownym pismem wystawionym przez organizatora zawodów lub poświadczonym przez właściwy w danym sporcie polski związek sportowy. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2020 r. poz. 469, 864, 905, 1030, 1045, 1183 i 1379.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2020 r. poz. 469, 864, 905, 1030, 1045, 1183 i 1379.
 

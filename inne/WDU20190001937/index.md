@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-04 |
 | Data wydania | 2019-10-11 |
-| Wejście w życie | 2020-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001937) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1937/text.pdf) |
 
@@ -31,25 +30,19 @@ Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju s�
 § 1.
 W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 1397, 1694 i 1783, z 2015 r. poz. 1662 i 2185 oraz z 2017 r. poz. 1956) wprowadza się następujące zmiany:
 1)
-w § 1 po pkt 2 dodaje się pkt 2a w brzmieniu:
-„
+w § 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 2a)
-Sądowi Okręgowemu w Gliwicach – z obszaru właściwości Sądu Okręgowego w Rybniku;
-” ;
+Sądowi Okręgowemu w Gliwicach – z obszaru właściwości Sądu Okręgowego w Rybniku; ” ;
 2)
 w § 2:
 a)
-pkt 7 otrzymuje brzmienie:
-„
+pkt 7 otrzymuje brzmienie: „
 7)
-w obszarze właściwości Sądu Okręgowego w Gliwicach – Sądowi Rejonowemu w Gliwicach sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Rudzie Śląskiej, Tarnowskich Górach i Zabrzu oraz sprawy upadłościowe i restrukturyzacyjne, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Rudzie Śląskiej, Rybniku, Tarnowskich Górach, Wodzisławiu Śląskim, Zabrzu i Żorach;
-” ,
+w obszarze właściwości Sądu Okręgowego w Gliwicach – Sądowi Rejonowemu w Gliwicach sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Rudzie Śląskiej, Tarnowskich Górach i Zabrzu oraz sprawy upadłościowe i restrukturyzacyjne, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Rudzie Śląskiej, Rybniku, Tarnowskich Górach, Wodzisławiu Śląskim, Zabrzu i Żorach; ” ,
 b)
-po pkt 29 dodaje się pkt 29a w brzmieniu:
-„
+po pkt 29 dodaje się pkt 29a w brzmieniu: „
 29a)
-w obszarze właściwości Sądu Okręgowego w Rybniku – Sądowi Rejonowemu w Rybniku sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Wodzisławiu Śląskim i Żorach;
-” .
+w obszarze właściwości Sądu Okręgowego w Rybniku – Sądowi Rejonowemu w Rybniku sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Wodzisławiu Śląskim i Żorach; ” .
 § 2.
 Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
 

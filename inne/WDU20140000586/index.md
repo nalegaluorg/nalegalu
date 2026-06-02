@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego oraz niektórych innych ustaw
+# Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego oraz niektórych innych ustaw Niniejsza ustawa wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady 2011/89/UE z dnia 16 listopada 2011 r. w sprawie zmiany dyrektyw 98/78/WE, 2002/87/WE, 2006/48/WE i 2009/138/WE w odniesieniu do dodatkowego nadzoru nad podmiotami finansowymi konglomeratu finansowego (Dz. Urz. UE L 326 z 08.12.2011, str. 113).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-24 |
 | Data wydania | 2014-05-08 |
-| Wejście w życie | 2014-05-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/586/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej oraz ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
-- **1)** w art. 3: w pkt 3: – lit. h otrzymuje brzmienie: „ h) spółkę zarządzającą, o której mowa w art. 2 pkt 10 ustawy o funduszach inwestycyjnych, lub inny podmiot z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, który, w przypadku gdyby jego siedziba znajdowała się w państwie członkowskim Unii Europejskiej, byłby obowiązany uzyskać zezwolenie właściwego organu na prowadzenie wykonywanej działalności zgodnie z przepisami dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 302 z 17.11.2009, str. 32, z późn. zm.), ” , – dodaje się lit. i w brzmieniu: „ i) zarządzającego alternatywnym funduszem inwestycyjnym, o którym mowa w art. 4 ust. 1 lit. b dyrektywy Parlamentu Europejskiego i Rady 2011/61/UE z dnia 8 czerwca 2011 r. w sprawie zarządzających alternatywnymi funduszami inwestycyjnymi i zmiany dyrektyw 2003/41/WE i 2009/65/WE oraz rozporządzeń (WE) nr 1060/2009 i (UE) nr 1095/2010 (Dz. Urz. UE L 174 z 01.07.2011, str. 1, z późn. zm.), który uzyskał zezwolenie, o którym mowa w art. 6 ust. 1 tej dyrektywy, lub inny podmiot z siedzibą w państwie niebędącym państwem członkowskim, który, w przypadku gdyby jego siedziba znajdowała się w państwie członkowskim, byłby obowiązany uzyskać zezwolenie na prowadzenie wykonywanej działalności zgodnie z przepisami tej dyrektywy; ” , pkt 10–13 otrzymują brzmienie: „
+**Art. 1.** W ustawie z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2009 r. Nr 42, poz. 341, z 2012 r. poz. 1385 oraz z 2013 r. poz. 1036.) wprowadza się następujące zmiany:
+
+- **1)** w art. 3: w pkt 3: lit. h otrzymuje brzmienie: „ spółkę zarządzającą, o której mowa w art. 2 pkt 10 ustawy o funduszach inwestycyjnych, lub inny podmiot z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, który, w przypadku gdyby jego siedziba znajdowała się w państwie członkowskim Unii Europejskiej, byłby obowiązany uzyskać zezwolenie właściwego organu na prowadzenie wykonywanej działalności zgodnie z przepisami dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 302 z 17.11.2009, str. 32, z późn. zm.), ” , dodaje się lit. i w brzmieniu: „ zarządzającego alternatywnym funduszem inwestycyjnym, o którym mowa w art. 4 ust. 1 lit. b dyrektywy Parlamentu Europejskiego i Rady 2011/61/UE z dnia 8 czerwca 2011 r. w sprawie zarządzających alternatywnymi funduszami inwestycyjnymi i zmiany dyrektyw 2003/41/WE i 2009/65/WE oraz rozporządzeń (WE) nr 1060/2009 i (UE) nr 1095/2010 (Dz. Urz. UE L 174 z 01.07.2011, str. 1, z późn. zm.), który uzyskał zezwolenie, o którym mowa w art. 6 ust. 1 tej dyrektywy, lub inny podmiot z siedzibą w państwie niebędącym państwem członkowskim, który, w przypadku gdyby jego siedziba znajdowała się w państwie członkowskim, byłby obowiązany uzyskać zezwolenie na prowadzenie wykonywanej działalności zgodnie z przepisami tej dyrektywy; ” , pkt 10–13 otrzymują brzmienie: „
     - **a)**
+    - **h)**
+    - **i)**
     - **b)**
 
 - **10)** sektor usług inwestycyjnych – sektor, który tworzą firmy inwestycyjne, o których mowa w pkt 3 lit. a-f;
@@ -129,7 +132,7 @@ source: "eli-html"
 
 3. Koordynator przekazuje Wspólnemu Komitetowi informacje, o których mowa w ust. 1 pkt 1 i art. 42 ust. 2, niezwłocznie po ich otrzymaniu. ” .
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777, 1036, 1289 i 1567.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1: pkt 28 i 29 otrzymują brzmienie: „
     - **a)**
@@ -204,5 +207,5 @@ jest podmiotem zależnym od dominującego podmiotu ubezpieczeniowego lub dominuj
 
 2. Zakłady ubezpieczeń i zakłady reasekuracji, których podmiotem dominującym jest dominujący podmiot nieregulowany, objęte nadzorem dodatkowym zgodnie z art. 2 ust. 1 pkt 5c lit. b ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, sporządzają roczne sprawozdania dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej, o których mowa w art. 173 ust. 1 i art. 223zzf ust. 1 ustawy zmienianej w art. 3, po raz pierwszy za rok kalendarzowy rozpoczynający się po dniu wejścia w życie niniejszej ustawy. Dotychczasowe akty wykonawcze wydane na podstawie art. 148 ust. 8, art. 169 ust. 2, art. 173 ust. 2, art. 223zw ust. 12, art. 223zzd ust. 2 i art. 223zzf ust. 2 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie nowych aktów wykonawczych wydanych na podstawie art. 148 ust. 8, art. 169 ust. 2, art. 173 ust. 2, art. 223zw ust. 12, art. 223zzd ust. 2 i art. 223zzf ust. 2 ustawy zmienianej w art. 3, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady 2011/89/UE z dnia 16 listopada 2011 r. w sprawie zmiany dyrektyw 98/78/WE, 2002/87/WE, 2006/48/WE i 2009/138/WE w odniesieniu do dodatkowego nadzoru nad podmiotami finansowymi konglomeratu finansowego (Dz. Urz. UE L 326 z 08.12.2011, str. 113). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej oraz ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2009 r. Nr 42, poz. 341, z 2012 r. poz. 1385 oraz z 2013 r. poz. 1036. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777, 1036, 1289 i 1567.
 

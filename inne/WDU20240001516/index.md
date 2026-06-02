@@ -31,17 +31,15 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 31 lipca 2017 r. w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U. poz. 1561), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 20 maja 2020 r. zmieniającym rozporządzenie w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U. poz. 950).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 20 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U. poz. 950), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 20 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U. poz. 950), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwości z dnia 31 lipca 2017 r. w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika
-Na podstawie art. 14 ust. 2 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich (Dz. U. z 2024 r. poz. 560 i 1228) zarządza się, co następuje:
+Na podstawie art. 14 ust. 2 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnichTytuł ustawy zmieniony przez art. 7 pkt 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (Dz. U. poz. 1606), która weszła w życie z dniem 15 lutego 2024 r. (Dz. U. z 2024 r. poz. 560 i 1228) zarządza się, co następuje:
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
-ustawie – rozumie się przez to ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich;
+ustawie – rozumie się przez to ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnichTytuł ustawy zmieniony przez art. 7 pkt 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (Dz. U. poz. 1606), która weszła w życie z dniem 15 lutego 2024 r.;
 2)
 Rejestrze – rozumie się przez to Rejestr z dostępem ograniczonym, o którym mowa w art. 4 ust. 1 pkt 1 ustawy;
 3)
@@ -60,12 +58,12 @@ b)
 użytkowników uprawnionych do korzystania z systemu teleinformatycznego w imieniu tego podmiotu albo tej osoby, wraz z zasobami systemu teleinformatycznego przyporządkowanymi do tego podmiotu albo tej osoby;
 8)
 identyfikatorze użytkownika – rozumie się przez to unikalny ciąg znaków alfanumerycznych jednoznacznie identyfikujący użytkownika;
-9)
+9W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 20 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U. poz. 950), które weszło w życie z dniem 12 czerwca 2020 r.)
 podpisie elektronicznym – rozumie się przez to kwalifikowany podpis elektroniczny, podpis osobisty albo podpis zaufany;
 10)
 administratorze – rozumie się przez to użytkownika uprawnionego do zarządzania kontem użytkownika instytucjonalnego.
 § 2.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Podmiotom, o których mowa w art. 12 pkt 4–7a ustawy, oraz osobie, o której mowa w art. 12 pkt 8 ustawy, informację z Rejestru udostępnia się za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 4 ust. 3 ustawy.
 2.
 Informacje udostępnia się poprzez konto użytkownika indywidualnego albo konto użytkownika instytucjonalnego.
@@ -206,7 +204,7 @@ wypełnienie pytania do systemu;
 opatrzenie pytania podpisem elektronicznym.
 § 13.
 Podmioty, o których mowa w art. 12 pkt 1–3 ustawy, wskazują w pytaniu do systemu zadanie lub postępowanie, w związku z którym zachodzi konieczność uzyskania informacji z Rejestru, oraz dane podlegające gromadzeniu w tym Rejestrze lub ich części.
-§ 14.
+§ 14W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Podmioty, o których mowa w art. 12 pkt 4–7a ustawy, wskazują w pytaniu do systemu numer PESEL osoby wyszukiwanej, a także zadanie lub postępowanie, w związku z którym zachodzi konieczność uzyskania informacji z Rejestru.
 2.
@@ -225,7 +223,7 @@ imię matki;
 datę urodzenia.
 3.
 W przypadku, gdy osobie wyszukiwanej nie został nadany numer PESEL, podmioty, o których mowa w art. 12 pkt 4–7a ustawy, wskazują w pytaniu do systemu dane personalne, o których mowa w ust. 2, a także zadanie lub postępowanie, w związku z którym zachodzi konieczność uzyskania informacji z Rejestru.
-§ 15.
+§ 15W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Osoba, o której mowa w art. 12 pkt 8 ustawy, wskazuje w pytaniu do systemu swoje dane personalne:
 1)
 numer PESEL, o ile został nadany;
@@ -241,13 +239,13 @@ imię ojca;
 imię matki;
 7)
 datę urodzenia.
-§ 16.
+§ 16Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli dane wskazane w pytaniu do systemu odpowiadają danym zgromadzonym w Rejestrze, podmioty, o których mowa w art. 12 pkt 1–5 i 7a ustawy, uzyskują informację obejmującą wszystkie dane zgromadzone w tym Rejestrze, należące do osoby albo osób, których dane odpowiadają danym wskazanym w pytaniu do systemu, wraz z danymi wskazanymi w pytaniu.
 § 17.
 Jeżeli dane wskazane w pytaniu do systemu odpowiadają danym zgromadzonym w Rejestrze, podmioty, o których mowa w art. 12 pkt 6 i 7 ustawy, oraz osoba, o której mowa w art. 12 pkt 8 ustawy, uzyskują informację o treści „FIGURUJE” wraz z danymi wskazanymi w pytaniu.
-§ 18.
+§ 18Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Jeżeli dane wskazane w pytaniu do systemu nie odpowiadają danym zgromadzonym w Rejestrze, podmioty, o których mowa w art. 12 pkt 1–7a ustawy, oraz osoba, o której mowa w art. 12 pkt 8 ustawy, uzyskują informację o treści „W Rejestrze nie ma informacji o osobach, dla których są spełnione warunki zawarte w pytaniu do systemu” wraz z danymi wskazanymi w pytaniu.
-§ 19.
+§ 19Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadkach, o których mowa w art. 19 ust. 3 ustawy, podmioty, o których mowa w art. 12 pkt 1–7a ustawy, oraz osoba, o której mowa w art. 12 pkt 8 ustawy, uzyskują komunikat o treści „Trwa postępowanie w celu ustalenia prawidłowych danych. Uzyskanie informacji będzie możliwe po jego zakończeniu” wraz z danymi wskazanymi w pytaniu.
 § 20.
 1.
@@ -269,6 +267,5 @@ Jeżeli dane wskazane w żądaniu pobrania informacji nie odpowiadają danym zgr
 § 24.
 W przypadkach, o których mowa w art. 19 ust. 3 ustawy, jest uzyskiwany komunikat o treści „Trwa postępowanie w celu ustalenia prawidłowych danych. Uzyskanie informacji będzie możliwe po jego zakończeniu”.
 § 25.
-Rozporządzenie wchodzi w życie z dniem 1 października 2017 r.
-1) Tytuł ustawy zmieniony przez art. 7 pkt 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (Dz. U. poz. 1606), która weszła w życie z dniem 15 lutego 2024 r. 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 20 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U. poz. 950), które weszło w życie z dniem 12 czerwca 2020 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
+Rozporządzenie wchodzi w życie z dniem 1 października 2017 r. 1) Tytuł ustawy zmieniony przez art. 7 pkt 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (Dz. U. poz. 1606), która weszła w życie z dniem 15 lutego 2024 r. 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 20 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U. poz. 950), które weszło w życie z dniem 12 czerwca 2020 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-29 |
 | Data wydania | 2015-12-31 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2356/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 78 ust. 7a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 78 ust. 7a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa organizację i funkcjonowanie centralnego punktu systemu powiadamiania ratunkowego oraz punktów centralnych służb, o których mowa w art. 78 ust. 4 pkt 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, zwanej dalej „ustawą”.
 § 2.
@@ -100,5 +99,5 @@ Do organizacji i funkcjonowania punktów centralnych służb, o których mowa w 
 § 8.
 Z dniem wejścia w życie niniejszego rozporządzenia Centralny Punkt Systemu Centrów Powiadamiania Ratunkowego w rozumieniu przepisów wydanych na podstawie art. 78 ust. 7a ustawy, staje się centralnym punktem systemu powiadamiania ratunkowego w rozumieniu przepisów niniejszego rozporządzenia.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2011 r. w sprawie centralnego punktu systemu centrów powiadamiania ratunkowego oraz punktów centralnych służb (Dz. U. Nr 75, poz. 404), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 34 ust. 1 pkt 1 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. poz. 1635 oraz z 2014 r. poz. 1877 i 1915). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069, 1893 i 2281. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2011 r. w sprawie centralnego punktu systemu centrów powiadamiania ratunkowego oraz punktów centralnych służb (Dz. U. Nr 75, poz. 404), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 34 ust. 1 pkt 1 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. poz. 1635 oraz z 2014 r. poz. 1877 i 1915).
 

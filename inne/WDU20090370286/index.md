@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-02-20 |
 | Data wydania | 2009-03-10 |
-| Wejście w życie | 2009-03-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090370286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/286/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577, Nr 96, poz. 959 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 75, poz. 529 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 99, poz. 664 oraz z 2009 r. Nr 26, poz. 156.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4b: w ust. 1 uchyla się pkt 2, uchyla się ust. 2;
     - **a)**
@@ -46,7 +45,7 @@ source: "eli-html"
 - **1)** profesorów i doktorów habilitowanych nauk prawnych,
 - **2)** osób, które co najmniej trzy lata zajmowały stanowisko radcy lub starszego radcy Prokuratorii Generalnej Skarbu Państwa,
 - **3)** osób, które zajmowały stanowisko sędziego, prokuratora lub wykonywały zawód radcy prawnego albo notariusza,
-- **4)** osób, które zdały egzamin sędziowski lub prokuratorski po dniu 1 stycznia 1991 r. oraz w okresie 5 lat przed złożeniem wniosku o wpis na listę adwokatów, łącznie przez okres co najmniej 3 lat: zajmowały stanowisko asesora sądowego, asesora prokuratorskiego, referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, aplikanta sądowo-prokuratorskiego, asystenta sędziego, asystenta prokuratora lub wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego na podstawie umowy o pracę lub umowy cywilnoprawnej w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej, o których mowa w art. 4a ust. 1, lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej, o których mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059, z późn. zm.),
+- **4)** osób, które zdały egzamin sędziowski lub prokuratorski po dniu 1 stycznia 1991 r. oraz w okresie 5 lat przed złożeniem wniosku o wpis na listę adwokatów, łącznie przez okres co najmniej 3 lat: zajmowały stanowisko asesora sądowego, asesora prokuratorskiego, referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, aplikanta sądowo-prokuratorskiego, asystenta sędziego, asystenta prokuratora lub wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego na podstawie umowy o pracę lub umowy cywilnoprawnej w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej, o których mowa w art. 4a ust. 1, lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej, o których mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577, Nr 96, poz. 959 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 104, poz. 708 i 711, Nr 206, poz. 1522 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 99, poz. 664 oraz z 2009 r. Nr 26, poz. 156.),
     - **a)**
     - **b)**
 
@@ -80,7 +79,7 @@ source: "eli-html"
 3. Do wniosku, o którym mowa w ust. 1 i 2, osoba ubiegająca się o wpis jest obowiązana dołączyć:
 
 - **1)** informację o niekaralności z Krajowego Rejestru Karnego opatrzoną datą nie wcześniejszą niż miesiąc przed złożeniem wniosku,
-- **2)** oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm.), albo informację, o której mowa w art. 7 ust. 3a tej ustawy, w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r.,
+- **2)** oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 83, poz. 561, Nr 85, poz. 571, Nr 115, poz. 789, Nr 165, poz. 1171 i Nr 176, poz. 1242.), albo informację, o której mowa w art. 7 ust. 3a tej ustawy, w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r.,
 - **3)** umowy o pracę wraz z dokumentami określającymi zakres obowiązków lub zaświadczeniami od pracodawcy określającymi zakres obowiązków, lub umowy cywilnoprawne wraz z oświadczeniem o złożeniu deklaracji do właściwego urzędu skarbowego oraz zapłaceniu podatku wynikającego z tytułu tych umów – w przypadku osób, o których mowa w art. 66 ust. 1 pkt 4 i 5,
 - **4)** dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych – w przypadku osób, o których mowa w art. 66 ust. 1 pkt 5,
 - **5)** zaświadczenie adwokata lub radcy prawnego, z którego wynikać będzie, że osoba ubiegająca się o wpis wykonywała wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego – w przypadku osób, o których mowa w art. 66 ust. 1 pkt 4 lit. b i pkt 5 lit. b. ” , ust. 4 otrzymuje brzmienie: „
@@ -158,7 +157,7 @@ source: "eli-html"
 
 5. Przewodniczącemu i członkom zespołu do przygotowania pytań testowych przysługuje wynagrodzenie.
 
-6. Nie później niż 90 dni przed terminem egzaminu wstępnego, przewodniczący zespołu do przygotowania pytań testowych, podaje do publicznej wiadomości na stronie internetowej Ministerstwa Sprawiedliwości oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.), zwanym dalej „Biuletynem Informacji Publicznej”, ustalony przez zespół do przygotowania pytań testowych i zatwierdzony przez Ministra Sprawiedliwości wykaz tytułów aktów prawnych, według stanu prawnego obowiązującego w dniu ogłoszenia, z których wybrane stanowią podstawę opracowania pytań testowych na egzamin wstępny.
+6. Nie później niż 90 dni przed terminem egzaminu wstępnego, przewodniczący zespołu do przygotowania pytań testowych, podaje do publicznej wiadomości na stronie internetowej Ministerstwa Sprawiedliwości oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110.), zwanym dalej „Biuletynem Informacji Publicznej”, ustalony przez zespół do przygotowania pytań testowych i zatwierdzony przez Ministra Sprawiedliwości wykaz tytułów aktów prawnych, według stanu prawnego obowiązującego w dniu ogłoszenia, z których wybrane stanowią podstawę opracowania pytań testowych na egzamin wstępny.
 
 7. Zespół do przygotowania pytań testowych sporządza zestaw 150 pytań w formie testu jednokrotnego wyboru na egzamin wstępny dla kandydatów na aplikantów adwokackich i radcowskich wraz z wykazem prawidłowych odpowiedzi, w sposób uwzględniający konieczność ich zabezpieczenia przed nieuprawnionym ujawnieniem. Zespół do przygotowania pytań testowych zapewnia zgodność wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym.
 
@@ -168,7 +167,7 @@ source: "eli-html"
 
 10. Członkowie zespołu do przygotowania pytań testowych są zobowiązani do przedstawienia Ministrowi Sprawiedliwości pisemnego uzasadnienia prawidłowych odpowiedzi zgłoszonych przez nich pytań testowych, w przypadku zaistnienia wątpliwości dotyczących treści pytań testowych, a w szczególności w toku procedury odwoławczej od uchwały ustalającej wynik egzaminu wstępnego.
 
-11. Do wydrukowania i doręczenia zestawów pytań testowych poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.), jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
+11. Do wydrukowania i doręczenia zestawów pytań testowych poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101.), jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
 
 12. Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej i Krajowej Rady Radców Prawnych, określi, w drodze rozporządzenia:
 
@@ -176,7 +175,7 @@ source: "eli-html"
 - **2)** tryb i sposób ustalania wykazu tytułów aktów prawnych, o którym mowa w ust. 6,
 - **3)** tryb i sposób zgłaszania propozycji pytań testowych i prawidłowych odpowiedzi, przygotowania, przechowywania oraz przekazywania komisjom kwalifikacyjnym zestawu pytań testowych wraz z kartą odpowiedzi i wykazu prawidłowych odpowiedzi na egzamin wstępny,
 - **4)** tryb i sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym,
-- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu do przygotowania pytań testowych uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru na aplikację, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu wstępnego oraz konieczność zabezpieczenia pytań testowych przed ich nieuprawnionym ujawnieniem, oraz
+- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu do przygotowania pytań testowych – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru na aplikację, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu wstępnego oraz konieczność zabezpieczenia pytań testowych przed ich nieuprawnionym ujawnieniem, oraz
 - **6)** wysokość wynagrodzenia przewodniczącego i członków zespołu, uwzględniając nakład ich pracy i zakres obowiązków oraz liczbę kandydatów.
 
 13. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 11, zapewniając zachowanie uczciwej konkurencji oraz równe traktowanie wykonawców i mając na uwadze konieczność zabezpieczenia pytań testowych przed ich nieuprawnionym ujawnieniem. ” ;
@@ -246,7 +245,7 @@ source: "eli-html"
 
 - **1)** tryb i termin zgłaszania kandydatów na członków komisji kwalifikacyjnej oraz powoływania i odwoływania członków komisji kwalifikacyjnej,
 - **2)** wysokość wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej, uwzględniając liczbę osób, które złożyły zgłoszenie o przystąpienie do egzaminu wstępnego, zakres i nakład ich pracy w zorganizowaniu i w przebiegu egzaminu wstępnego oraz tryb wypłacania tego wynagrodzenia,
-- **3)** szczegółowy tryb i sposób przeprowadzania egzaminu wstępnego, w szczególności: sposób działania komisji kwalifikacyjnej, sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez okręgowe rady adwokackie, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego oraz zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej. ” ;
+- **3)** szczegółowy tryb i sposób przeprowadzania egzaminu wstępnego, w szczególności: sposób działania komisji kwalifikacyjnej, sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez okręgowe rady adwokackie, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego oraz zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej. ” ;
     - **a)**
     - **b)**
 
@@ -313,7 +312,7 @@ source: "eli-html"
 2. W skład zespołu wchodzą:
 
 - **1)** czterej adwokaci delegowani przez Naczelną Radę Adwokacką,
-- **2)** czterej przedstawiciele Ministra Sprawiedliwości których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu adwokackiego.
+- **2)** czterej przedstawiciele Ministra Sprawiedliwości – których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu adwokackiego.
 
 3. Pracami zespołu kieruje przewodniczący lub w przypadku jego nieobecności zastępca, powołani przez Ministra Sprawiedliwości spośród osób, o których mowa w ust. 2 pkt 2.
 
@@ -339,7 +338,7 @@ source: "eli-html"
 - **2)** tryb i sposób ustalenia wykazu tytułów aktów prawnych, o którym mowa w ust. 6,
 - **3)** tryb i sposób zgłaszania propozycji pytań testowych i prawidłowych odpowiedzi oraz propozycji zadań, przygotowania, przechowywania oraz przekazywania komisjom egzaminacyjnym, o których mowa w art. 78 ust. 1, zestawu pytań testowych wraz z kartą odpowiedzi i wykazu prawidłowych odpowiedzi oraz zadań na egzamin adwokacki,
 - **4)** tryb i sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym,
-- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu adwokackiego, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu adwokackiego oraz konieczność zabezpieczenia pytań i zadań przed ich nieuprawnionym ujawnieniem, oraz
+- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu adwokackiego, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu adwokackiego oraz konieczność zabezpieczenia pytań i zadań przed ich nieuprawnionym ujawnieniem, oraz
 - **6)** wysokość wynagrodzenia przewodniczącego i członków zespołu, uwzględniając nakład ich pracy i zakres obowiązków oraz liczbę kandydatów.
 
 13. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 11, zapewniając zachowanie uczciwej konkurencji oraz równe traktowanie wykonawców i mając na uwadze konieczność zabezpieczenia pytań testowych oraz zadań przed ich nieuprawnionym ujawnieniem. Do egzaminu adwokackiego może przystąpić osoba, która odbyta aplikację adwokacką i otrzymała zaświadczenie o jej odbyciu, oraz osoba, o której mowa w art. 66 ust. 2. ” ;
@@ -381,7 +380,7 @@ source: "eli-html"
 - **1)** tryb i termin zgłaszania kandydatów na członków komisji egzaminacyjnych oraz powoływania i odwoływania członków komisji egzaminacyjnych,
 - **2)** rodzaj dokumentów, o których mowa w art. 78a ust. 4 pkt 3 i 5–9,
 - **3)** wysokość wynagrodzenia przewodniczącego i członków komisji egzaminacyjnych, uwzględniając liczbę osób przystępujących do egzaminu, zakres i nakład ich pracy w zorganizowaniu i w przebiegu egzaminu adwokackiego oraz tryb wypłacania tego wynagrodzenia,
-- **4)** szczegółowy tryb i sposób przeprowadzania egzaminu adwokackiego, w szczególności: sposób działania komisji egzaminacyjnych, czas trwania poszczególnych części egzaminu adwokackiego, sposób zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnych przez okręgowe rady adwokackie, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia egzaminu, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnych oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu adwokackiego. ” ;
+- **4)** szczegółowy tryb i sposób przeprowadzania egzaminu adwokackiego, w szczególności: sposób działania komisji egzaminacyjnych, czas trwania poszczególnych części egzaminu adwokackiego, sposób zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnych przez okręgowe rady adwokackie, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia egzaminu, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnych oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu adwokackiego. ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -417,7 +416,7 @@ source: "eli-html"
 5. Osoby, o których mowa w:
 
 - **1)** ust. 3 – składają wniosek najpóźniej w terminie 21 dni,
-- **2)** ust. 4 – składają wniosek najpóźniej w terminie 45 dni przed dniem rozpoczęcia egzaminu adwokackiego. Przepisy art. 75c ust. 4–9 stosuje się odpowiednio. ” ;
+- **2)** ust. 4 – składają wniosek najpóźniej w terminie 45 dni – przed dniem rozpoczęcia egzaminu adwokackiego. Przepisy art. 75c ust. 4–9 stosuje się odpowiednio. ” ;
 - **26)** art. 78b: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -539,7 +538,7 @@ source: "eli-html"
 - **2)** termin powołania komisji odwoławczej,
 - **3)** wysokość wynagrodzenia przewodniczącego i członków komisji odwoławczej, uwzględniając zakres i nakład ich pracy oraz tryb jego wypłacania,
 - **4)** tryb i sposób działania komisji odwoławczej,
-- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej.; W przypadku nieuzyskania pozytywnego wyniku z egzaminu adwokackiego, zdający może przystępować do kolejnych egzaminów adwokackich, z tym że egzamin ten zdaje w całości. ” ;
+- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej – uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej.; W przypadku nieuzyskania pozytywnego wyniku z egzaminu adwokackiego, zdający może przystępować do kolejnych egzaminów adwokackich, z tym że egzamin ten zdaje w całości. ” ;
 - **28)** w art. 79: ust. 3 otrzymuje brzmienie: „
     - **a)**
 
@@ -553,7 +552,7 @@ source: "eli-html"
 
 **Art. 95n.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy Kodeksu postępowania karnego. ” .
 
-**Art. 2.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577, Nr 96, poz. 959 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 104, poz. 708 i 711, Nr 206, poz. 1522 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 99, poz. 664 oraz z 2009 r. Nr 26, poz. 156.) wprowadza się następujące zmiany:
 
 - **1)** w art. 24: w ust. 1 pkt 6 otrzymuje brzmienie: „
     - **a)**
@@ -564,7 +563,7 @@ source: "eli-html"
 2a. Do wniosku, o którym mowa w ust. 2, osoba ubiegająca się o wpis obowiązana jest dołączyć:
 
 - **1)** informację o niekaralności z Krajowego Rejestru Karnego opatrzoną datą nie wcześniejszą niż miesiąc przed złożeniem wniosku,
-- **2)** oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm.), albo informację, o której mowa w art. 7 ust. 3a tej ustawy, w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r.,
+- **2)** oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 83, poz. 561, Nr 85, poz. 571, Nr 115, poz. 789, Nr 165, poz. 1171 i Nr 176, poz. 1242.), albo informację, o której mowa w art. 7 ust. 3a tej ustawy, w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r.,
 - **3)** umowy o pracę wraz z dokumentami określającymi zakres obowiązków lub zaświadczeniami od pracodawcy określającymi zakres obowiązków, lub umowy cywilnoprawne wraz z oświadczeniem o złożeniu deklaracji do właściwego urzędu skarbowego oraz zapłaceniu podatku wynikającego z tytułu tych umów – w przypadku osób, o których mowa w art. 25 ust. 1 pkt 4 i 5,
 - **4)** dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych – w przypadku osób, o których mowa w art. 25 ust. 1 pkt 5,
 - **5)** zaświadczenie adwokata lub radcy prawnego, z którego wynikać będzie, iż osoba ubiegająca się o wpis wykonywała wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego – w przypadku osób, o których mowa w art. 25 ust. 1 pkt 4 lit. b i pkt 5 lit. b. ” ;
@@ -577,7 +576,7 @@ source: "eli-html"
 - **1)** profesorów i doktorów habilitowanych nauk prawnych,
 - **2)** osób, które co najmniej trzy lata zajmowały stanowisko radcy lub starszego radcy Prokuratorii Generalnej Skarbu Państwa,
 - **3)** osób, które zajmowały stanowisko sędziego, prokuratora lub wykonywały zawód adwokata albo notariusza,
-- **4)** osób, które zdały egzamin sędziowski lub prokuratorski po dniu 1 stycznia 1991 r. oraz w okresie 5 lat przed złożeniem wniosku o wpis na listę radców prawnych, łącznie przez okres co najmniej 3 lat: zajmowały stanowisko asesora sądowego, asesora prokuratorskiego, referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, aplikanta sądowo-prokuratorskiego, asystenta sędziego, asystenta prokuratora lub wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego na podstawie umowy o pracę lub umowy cywilnoprawnej w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058, z późn. zm.), lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej, o których mowa w art. 8 ust. 1,
+- **4)** osób, które zdały egzamin sędziowski lub prokuratorski po dniu 1 stycznia 1991 r. oraz w okresie 5 lat przed złożeniem wniosku o wpis na listę radców prawnych, łącznie przez okres co najmniej 3 lat: zajmowały stanowisko asesora sądowego, asesora prokuratorskiego, referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, aplikanta sądowo-prokuratorskiego, asystenta sędziego, asystenta prokuratora lub wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego na podstawie umowy o pracę lub umowy cywilnoprawnej w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577, Nr 96, poz. 959 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 75, poz. 529 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 99, poz. 664 oraz z 2009 r. Nr 26, poz. 156 i Nr 37, poz. 286.), lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej, o których mowa w art. 8 ust. 1,
     - **a)**
     - **b)**
 
@@ -672,7 +671,7 @@ source: "eli-html"
 - **9)** w art. 333: ust. 1 i 2 otrzymują brzmienie: „
     - **a)**
 
-1. W terminie do dnia 30 czerwca każdego roku Minister Sprawiedliwości zamieszcza w dzienniku o zasięgu ogólnopolskim i Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.), zwanym dalej „Biuletynem Informacji Publicznej”, ogłoszenie o egzaminie wstępnym, w którym podaje w szczególności:
+1. W terminie do dnia 30 czerwca każdego roku Minister Sprawiedliwości zamieszcza w dzienniku o zasięgu ogólnopolskim i Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110.), zwanym dalej „Biuletynem Informacji Publicznej”, ogłoszenie o egzaminie wstępnym, w którym podaje w szczególności:
 
 - **1)** termin złożenia zgłoszenia o przystąpieniu do egzaminu wstępnego na aplikację radcowską, zwanego dalej „zgłoszeniem”,
 - **2)** właściwość miejscową każdej z komisji kwalifikacyjnych i adres jej siedziby,
@@ -734,7 +733,7 @@ source: "eli-html"
 
 - **1)** tryb i termin zgłaszania kandydatów na członków komisji kwalifikacyjnej oraz powoływania i odwoływania członków komisji kwalifikacyjnej,
 - **2)** wysokość wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej, uwzględniając liczbę osób, które złożyły zgłoszenie o przystąpieniu do egzaminu wstępnego, zakres i nakład ich pracy w zorganizowaniu i w przebiegu egzaminu wstępnego oraz tryb wypłacania tego wynagrodzenia,
-- **3)** szczegółowy tryb i sposób przeprowadzania egzaminu wstępnego, w szczególności: sposób działania komisji kwalifikacyjnej, sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez rady okręgowych izb radców prawnych, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego oraz zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej. ” ;
+- **3)** szczegółowy tryb i sposób przeprowadzania egzaminu wstępnego, w szczególności: sposób działania komisji kwalifikacyjnej, sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez rady okręgowych izb radców prawnych, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego oraz zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej. ” ;
     - **a)**
     - **b)**
 
@@ -802,7 +801,7 @@ source: "eli-html"
 2. W skład zespołu wchodzą:
 
 - **1)** czterej radcowie prawni delegowani przez Krajową Radę Radców Prawnych,
-- **2)** czterej przedstawiciele Ministra Sprawiedliwości których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu radcowskiego.
+- **2)** czterej przedstawiciele Ministra Sprawiedliwości – których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu radcowskiego.
 
 3. Pracami zespołu kieruje przewodniczący lub w przypadku jego nieobecności zastępca, powołani przez Ministra Sprawiedliwości spośród osób, o których mowa w ust. 2 pkt 2.
 
@@ -820,7 +819,7 @@ source: "eli-html"
 
 10. Każda rada okręgowej izby radców prawnych może zgłaszać zespołowi, za pośrednictwem przewodniczącego zespołu, propozycje pytań testowych wraz z wykazem prawidłowych odpowiedzi oraz propozycje zadań.
 
-11. Do wydrukowania i doręczenia zestawów pytań testowych oraz zadań poszczególnym komisjom egzaminacyjnym, o których mowa w art. 361 ust. 2, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.), jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
+11. Do wydrukowania i doręczenia zestawów pytań testowych oraz zadań poszczególnym komisjom egzaminacyjnym, o których mowa w art. 361 ust. 2, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101.), jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
 
 12. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Radców Prawnych określi w drodze rozporządzenia:
 
@@ -828,7 +827,7 @@ source: "eli-html"
 - **2)** tryb i sposób ustalenia wykazu tytułów aktów prawnych, o którym mowa w ust. 6,
 - **3)** tryb i sposób zgłaszania propozycji pytań testowych i prawidłowych odpowiedzi oraz propozycji zadań, przygotowania, przechowywania oraz przekazywania komisjom egzaminacyjnym, o których mowa w art. 361 ust. 2, zestawu pytań testowych wraz z kartą odpowiedzi i wykazu prawidłowych odpowiedzi oraz zadań na egzamin radcowski,
 - **4)** tryb i sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym,
-- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu radcowskiego, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu radcowskiego oraz konieczność zabezpieczenia pytań i zadań przed ich nieuprawnionym ujawnieniem, oraz
+- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu radcowskiego, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu radcowskiego oraz konieczność zabezpieczenia pytań i zadań przed ich nieuprawnionym ujawnieniem, oraz
 - **6)** wysokość wynagrodzenia przewodniczącego i członków zespołu, uwzględniając nakład ich pracy i zakres obowiązków oraz liczbę kandydatów.
 
 13. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 11, zapewniając zachowanie uczciwej konkurencji oraz równe traktowanie wykonawców i mając na uwadze konieczność zabezpieczenia pytań testowych oraz zadań przed ich nieuprawnionym ujawnieniem.
@@ -870,7 +869,7 @@ source: "eli-html"
 - **1)** tryb i termin zgłaszania kandydatów na członków komisji egzaminacyjnej oraz powoływania i odwoływania członków komisji egzaminacyjnej,
 - **2)** rodzaj dokumentów, o których mowa w art. 362 ust. 4 pkt 3 i 5–9,
 - **3)** wysokość wynagrodzenia przewodniczącego i członków komisji egzaminacyjnej, uwzględniając liczbę osób przystępujących do egzaminu, zakres i nakład ich pracy w zorganizowaniu i w przebiegu egzaminu radcowskiego oraz tryb wypłacania tego wynagrodzenia,
-- **4)** szczegółowy tryb i sposób przeprowadzania egzaminu radcowskiego, w szczególności: sposób działania komisji egzaminacyjnej, czas trwania poszczególnych części egzaminu radcowskiego, sposób zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnej przez okręgowe izby radców prawnych, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia egzaminu, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnej oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu radcowskiego.
+- **4)** szczegółowy tryb i sposób przeprowadzania egzaminu radcowskiego, w szczególności: sposób działania komisji egzaminacyjnej, czas trwania poszczególnych części egzaminu radcowskiego, sposób zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnej przez okręgowe izby radców prawnych, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia egzaminu, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnej oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu radcowskiego.
     - **a)**
     - **b)**
     - **c)**
@@ -905,7 +904,7 @@ source: "eli-html"
 5. Osoby, o których mowa w:
 
 - **1)** ust. 3 – składają wniosek najpóźniej w terminie 21 dni,
-- **2)** ust. 4 – składają wniosek najpóźniej w terminie 45 dni przed dniem rozpoczęcia egzaminu radcowskiego. Przepisy art. 333 ust. 4–9 stosuje się odpowiednio. ” ;
+- **2)** ust. 4 – składają wniosek najpóźniej w terminie 45 dni – przed dniem rozpoczęcia egzaminu radcowskiego. Przepisy art. 333 ust. 4–9 stosuje się odpowiednio. ” ;
 - **19)** w art. 363: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -1009,7 +1008,7 @@ source: "eli-html"
 3. Do składu komisji odwoławczej kandydatów na członków wskazują:
 
 - **1)** Minister Sprawiedliwości – 5 członków, spośród których wyznacza przewodniczącego,
-- **2)** Krajowa Rada Radców Prawnych – 4 członków spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
+- **2)** Krajowa Rada Radców Prawnych – 4 członków – spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
 
 4. Przewodniczącemu i członkom komisji odwoławczej za udział w jej pracach przysługuje wynagrodzenie.
 
@@ -1037,7 +1036,7 @@ source: "eli-html"
 - **2)** termin powołania komisji odwoławczej,
 - **3)** wysokość wynagrodzenia przewodniczącego i członków komisji odwoławczej, uwzględniając zakres i nakład ich pracy oraz tryb jego wypłacania,
 - **4)** tryb i sposób działania komisji odwoławczej,
-- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej.
+- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej – uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej.
 
 **Art. 369.** W przypadku nieuzyskania pozytywnego wyniku z egzaminu radcowskiego, zdający może przystępować do kolejnych egzaminów radcowskich, z tym że egzamin ten zdaje w całości. ” ;
 
@@ -1113,7 +1112,7 @@ source: "eli-html"
 
 § 5. Przewodniczącemu i członkom zespołu do przygotowania pytań testowych przysługuje wynagrodzenie.
 
-§ 6. Nie później niż 90 dni przed terminem egzaminu wstępnego, przewodniczący zespołu do przygotowania pytań testowych, podaje do publicznej wiadomości na stronie internetowej Ministerstwa Sprawiedliwości oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.), zwanym dalej „Biuletynem Informacji Publicznej”, ustalony przez zespół do przygotowania pytań testowych i zatwierdzony przez Ministra Sprawiedliwości, wykaz tytułów aktów prawnych, według stanu prawnego obowiązującego w dniu ogłoszenia, z których wybrane stanowią podstawę opracowania pytań testowych na egzamin wstępny.
+§ 6. Nie później niż 90 dni przed terminem egzaminu wstępnego, przewodniczący zespołu do przygotowania pytań testowych, podaje do publicznej wiadomości na stronie internetowej Ministerstwa Sprawiedliwości oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110.), zwanym dalej „Biuletynem Informacji Publicznej”, ustalony przez zespół do przygotowania pytań testowych i zatwierdzony przez Ministra Sprawiedliwości, wykaz tytułów aktów prawnych, według stanu prawnego obowiązującego w dniu ogłoszenia, z których wybrane stanowią podstawę opracowania pytań testowych na egzamin wstępny.
 
 § 7. Zespół do przygotowania pytań testowych sporządza zestaw 150 pytań w formie testu jednokrotnego wyboru na egzamin wstępny dla kandydatów na aplikantów notarialnych wraz z wykazem prawidłowych odpowiedzi w sposób uwzględniający konieczność ich zabezpieczenia przed nieuprawnionym ujawnieniem. Zespół do przygotowania pytań testowych zapewnia zgodność wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym.
 
@@ -1123,7 +1122,7 @@ source: "eli-html"
 
 § 10. Członkowie zespołu do przygotowania pytań testowych są zobowiązani do przedstawienia pisemnego uzasadnienia prawidłowych odpowiedzi zgłoszonych przez nich pytań testowych, w przypadku zaistnienia wątpliwości dotyczących treści pytań testowych, a w szczególności w toku procedury odwoławczej od uchwały ustalającej wynik egzaminu wstępnego kandydata.
 
-§ 11. Do wydrukowania i doręczenia zestawów pytań testowych poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.), jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
+§ 11. Do wydrukowania i doręczenia zestawów pytań testowych poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101.), jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
 
 § 12. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Notarialnej, określi, w drodze rozporządzenia:
 
@@ -1131,7 +1130,7 @@ source: "eli-html"
 - **2)** tryb i sposób ustalania wykazu tytułów aktów prawnych, o którym mowa w § 6,
 - **3)** tryb i sposób zgłaszania propozycji pytań testowych i prawidłowych odpowiedzi, przygotowania, przechowywania oraz przekazywania komisjom kwalifikacyjnym zestawu pytań testowych wraz z kartą odpowiedzi i wykazu prawidłowych odpowiedzi na egzamin wstępny,
 - **4)** tryb i sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym,
-- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu do przygotowania pytań testowych uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru na aplikację, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu wstępnego oraz konieczność zabezpieczenia pytań testowych przed ich nieuprawnionym ujawnieniem, oraz
+- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu do przygotowania pytań testowych – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru na aplikację, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu wstępnego oraz konieczność zabezpieczenia pytań testowych przed ich nieuprawnionym ujawnieniem, oraz
 - **6)** wysokość wynagrodzenia przewodniczącego i członków zespołu, uwzględniając nakład ich pracy i zakres obowiązków oraz liczbę kandydatów.
 
 § 13. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w § 11, zapewniając zachowanie uczciwej konkurencji oraz równe traktowanie wykonawców i mając na uwadze konieczność zabezpieczenia pytań testowych przed ich nieuprawnionym ujawnieniem. ” ;
@@ -1198,7 +1197,7 @@ source: "eli-html"
 - **1)** tryb i termin zgłaszania kandydatów na członków komisji kwalifikacyjnej oraz powoływania i odwoływania członków komisji kwalifikacyjnej;
 - **2)** wysokość wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej, uwzględniając liczbę osób, które złożyły zgłoszenie o przystąpieniu do egzaminu wstępnego, oraz wniosek o dopuszczenie do egzaminu notarialnego, zakres i nakład ich pracy w zorganizowaniu i przebiegu egzaminu wstępnego i notarialnego oraz tryb wypłacania tego wynagrodzenia;
 - **3)** rodzaj dokumentów, o których mowa w art. 74a § 4 pkt 4–8;
-- **4)** szczegółowy tryb i sposób przeprowadzania egzaminu wstępnego i notarialnego, w szczególności: sposób działania komisji kwalifikacyjnej, czas trwania poszczególnych części egzaminu notarialnego, sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez izby notarialne, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego i notarialnego, zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu notarialnego. ” ;
+- **4)** szczegółowy tryb i sposób przeprowadzania egzaminu wstępnego i notarialnego, w szczególności: sposób działania komisji kwalifikacyjnej, czas trwania poszczególnych części egzaminu notarialnego, sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez izby notarialne, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego i notarialnego, zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu notarialnego. ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -1296,7 +1295,7 @@ source: "eli-html"
 - **2)** tryb i sposób ustalenia wykazu tytułów aktów prawnych, o którym mowa w § 12,
 - **3)** tryb i sposób zgłaszania propozycji pytań testowych i prawidłowych odpowiedzi oraz propozycji zadań, przygotowania, przechowywania oraz przekazywania komisjom kwalifikacyjnym zestawu pytań testowych wraz z kartą odpowiedzi i wykazu prawidłowych odpowiedzi oraz zadań na egzamin notarialny,
 - **4)** tryb i sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym,
-- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu notarialnego, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu notarialnego oraz konieczność zabezpieczenia pytań i zadań przed ich nieuprawnionym ujawnieniem, oraz
+- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu notarialnego, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu notarialnego oraz konieczność zabezpieczenia pytań i zadań przed ich nieuprawnionym ujawnieniem, oraz
 - **6)** wysokość wynagrodzenia przewodniczącego i członków zespołu, uwzględniając nakład ich pracy i zakres obowiązków oraz liczbę kandydatów.
 
 § 19. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w § 17, zapewniając zachowanie uczciwej konkurencji oraz równe traktowanie wykonawców i mając na uwadze konieczność zabezpieczenia zestawów pytań testowych i zadań przed ich nieuprawnionym ujawnieniem. ” ;
@@ -1331,7 +1330,7 @@ source: "eli-html"
 § 5. Osoby, o których mowa w:
 
 - **1)** § 3 – składają wniosek najpóźniej w terminie 21 dni,
-- **2)** § 4 – składają wniosek najpóźniej w terminie 45 dni przed dniem rozpoczęcia egzaminu notarialnego. Przepisy art. 71d § 4–9 stosuje się odpowiednio.
+- **2)** § 4 – składają wniosek najpóźniej w terminie 45 dni – przed dniem rozpoczęcia egzaminu notarialnego. Przepisy art. 71d § 4–9 stosuje się odpowiednio.
 
 § 6. Rady izb notarialnych, każdego roku, w terminie 7 dni od dnia zakończenia aplikacji, przekazują terytorialnie właściwej komisji kwalifikacyjnej oraz Ministrowi Sprawiedliwości listę osób, które odbyły aplikację notarialną. ” ;
 
@@ -1413,7 +1412,7 @@ source: "eli-html"
 § 3. Do składu komisji odwoławczej kandydatów na członków wskazują:
 
 - **1)** Minister Sprawiedliwości – 5 członków, spośród których wyznacza przewodniczącego,
-- **2)** Krajowa Rada Notarialna – 4 członków spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
+- **2)** Krajowa Rada Notarialna – 4 członków – spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
 
 § 4. Przewodniczącemu i członkom komisji odwoławczej za udział w jej pracach przysługuje wynagrodzenie.
 
@@ -1441,7 +1440,7 @@ source: "eli-html"
 - **2)** termin powołania komisji odwoławczej,
 - **3)** wysokość wynagrodzenia przewodniczącego i członków komisji odwoławczej, uwzględniając zakres i nakład ich pracy oraz tryb jego wypłacania,
 - **4)** tryb i sposób działania komisji odwoławczej,
-- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej. W przypadku nieuzyskania pozytywnego wyniku z egzaminu notarialnego, zdający może przystępować do kolejnych egzaminów notarialnych, z tym że egzamin ten zdaje w całości. ” ;
+- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej – uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej. W przypadku nieuzyskania pozytywnego wyniku z egzaminu notarialnego, zdający może przystępować do kolejnych egzaminów notarialnych, z tym że egzamin ten zdaje w całości. ” ;
 - **19)** w art. 76 § 2 otrzymuje brzmienie: „
 
 § 2. Asesorem notarialnym może być osoba, która zdała egzamin notarialny i przedstawi oświadczenie notariusza o gotowości zawarcia z nią umowy o pracę. ” ;
@@ -1459,7 +1458,7 @@ source: "eli-html"
 
 **Art. 8.** W sprawie o stwierdzenie nieważności decyzji Ministra Sprawiedliwości wydanej na podstawie art. 46 ust. 2 i art. 68 ust. 6a w związku z art. 79 ust. 3 ustawy, o której mowa w art. 1, przed dniem wejścia w życie niniejszej ustawy, organem właściwym jest Prezydium Naczelnej Rady Adwokackiej.
 
-**Art. 9.** W sprawach, o których mowa w art. 154 i 155 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.), dotyczących ostatecznej decyzji Ministra Sprawiedliwości wydanej na podstawie art. 46 ust. 2 i art. 68 ust. 6a w związku z art. 79 ust. 3 ustawy, o której mowa w art. 1, przed dniem wejścia w życie niniejszej ustawy organem właściwym jest Prezydium Naczelnej Rady Adwokackiej.
+**Art. 9.** W sprawach, o których mowa w art. 154 i 155 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524 oraz z 2008 r. Nr 229, poz. 1539.), dotyczących ostatecznej decyzji Ministra Sprawiedliwości wydanej na podstawie art. 46 ust. 2 i art. 68 ust. 6a w związku z art. 79 ust. 3 ustawy, o której mowa w art. 1, przed dniem wejścia w życie niniejszej ustawy organem właściwym jest Prezydium Naczelnej Rady Adwokackiej.
 
 **Art. 10.** Postępowania w sprawach wniesionych do Ministra Sprawiedliwości na podstawie art. 31 ust. 2a w związku z art. 37 ust. 3 ustawy, o której mowa w art. 2, przed dniem wejścia w życie ustawy i niezakończone do dnia wejścia w życie tej ustawy prowadzone są na dotychczasowych zasadach.
 
@@ -1515,5 +1514,5 @@ source: "eli-html"
 
 **Art. 17.** W roku 2009 Minister Sprawiedliwości może wyznaczyć dodatkowy termin egzaminu notarialnego dla aplikantów notarialnych, którzy egzamin konkursowy zdali w dniu 10 grudnia 2005 r. W przypadku wyznaczenia dodatkowego terminu egzaminu notarialnego przepisy ustawy, o której mowa w art. 3 niniejszej ustawy, stosuje się z wyłączeniem terminów określonych w art. 74 § 12, § 16 i art. 74a § 1 tej ustawy.
 
-**Art. 18.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 18.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577, Nr 96, poz. 959 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 75, poz. 529 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 99, poz. 664 oraz z 2009 r. Nr 26, poz. 156. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577, Nr 96, poz. 959 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 104, poz. 708 i 711, Nr 206, poz. 1522 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 99, poz. 664 oraz z 2009 r. Nr 26, poz. 156. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 83, poz. 561, Nr 85, poz. 571, Nr 115, poz. 789, Nr 165, poz. 1171 i Nr 176, poz. 1242. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577, Nr 96, poz. 959 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 104, poz. 708 i 711, Nr 206, poz. 1522 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 99, poz. 664 oraz z 2009 r. Nr 26, poz. 156. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 83, poz. 561, Nr 85, poz. 571, Nr 115, poz. 789, Nr 165, poz. 1171 i Nr 176, poz. 1242. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1069 i Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152, z 2004 r. Nr 34, poz. 303, Nr 62, poz. 577, Nr 96, poz. 959 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 75, poz. 529 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 99, poz. 664 oraz z 2009 r. Nr 26, poz. 156 i Nr 37, poz. 286. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524 oraz z 2008 r. Nr 229, poz. 1539.
 

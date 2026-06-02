@@ -31,14 +31,12 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 stycznia 2009 r. w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa (Dz. U. z 2013 r. poz. 1142), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającym rozporządzenie w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa (Dz. U. poz. 682).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa (Dz. U. poz. 682), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa (Dz. U. poz. 682), które stanowią: „
 § 2.
 Do publicznych przetargów ustnych i przetargów ofert pisemnych na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 stycznia 2009 r. w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 stycznia 2009 r. w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu PaństwaMinister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942).
 Na podstawie art. 39a ust. 1 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561 i 1873) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy tryb przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa w formie publicznego przetargu ustnego i przetargu ofert pisemnych.
@@ -46,7 +44,7 @@ Rozporządzenie określa szczegółowy tryb przeprowadzania przetargów na dzier
 Ilekroć w rozporządzeniu jest mowa o:
 1)
 ustawie – należy przez to rozumieć ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa (Dz. U. poz. 682), które weszło w życie z dniem 18 kwietnia 2020 r.)
 Krajowym Ośrodku – należy przez to rozumieć Krajowy Ośrodek Wsparcia Rolnictwa;
 3)
 Zasobie – należy przez to rozumieć Zasób Własności Rolnej Skarbu Państwa;
@@ -55,20 +53,19 @@ nieruchomości – należy przez to rozumieć nieruchomości Zasobu przeznaczone
 5)
 nieruchomości zabytkowej – należy przez to rozumieć nieruchomość zabytkową w rozumieniu przepisów o ochronie dóbr kultury, wpisaną do rejestru zabytków;
 6)
-organizatorze przetargu – należy przez to rozumieć Krajowy Ośrodek;
+organizatorze przetargu – należy przez to rozumieć Krajowy OśrodekZe zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.;
 7)
 przetargu ofert – należy przez to rozumieć przetarg ofert pisemnych;
 8)
 przetargu ograniczonym – należy przez to rozumieć przetarg, w którym mogą uczestniczyć osoby, o których mowa w art. 29 ust. 3b ustawy;
-9)
+9W brzmieniu ustalonym przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2.)
 uczestniku przetargu – należy przez to rozumieć osobę, która w wyznaczonym terminie, miejscu i formie wpłaciła wadium oraz stawiła się na przetarg ustny lub uczestniczyła w tym przetargu przy użyciu środków komunikacji elektronicznej albo w wyznaczonym terminie i miejscu złożyła ofertę w przetargu ofert, a w przypadku przetargu ograniczonego, po zakwalifikowaniu jej do uczestnictwa w nim – stawiła się na przetarg ustny lub uczestniczyła w tym przetargu przy użyciu środków komunikacji elektronicznej albo w wyznaczonym terminie i miejscu złożyła ofertę w przetargu ofert;
-10)
+10Dodany przez § 1 pkt 1 lit. d rozporządzenia, o którym mowa w odnośniku 2.)
 środkach komunikacji elektronicznej – należy przez to rozumieć środki komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), które umożliwiają:
 a)
 transmisję przetargu w czasie rzeczywistym między uczestnikami przetargu oraz członkami komisji przetargowej,
 b)
-wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy przetargu oraz członkowie komisji przetargowej mogą brać w nim udział
-z zachowaniem niezbędnych zasad bezpieczeństwa i możliwości identyfikacji uczestników przetargu oraz członków komisji przetargowej.
+wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy przetargu oraz członkowie komisji przetargowej mogą brać w nim udział – z zachowaniem niezbędnych zasad bezpieczeństwa i możliwości identyfikacji uczestników przetargu oraz członków komisji przetargowej.
 § 3.
 1.
 Przetarg ogłasza i przeprowadza organizator przetargu, stosując jedną z form, o których mowa w § 1.
@@ -138,7 +135,7 @@ nie zatwierdzić wniosku komisji przetargowej w sprawie rozstrzygnięcia przetar
 pouczenie o przypadkach, w których wadium nie podlega zwrotowi;
 13)
 informację o miejscu i czasie, w jakim można zapoznać się przed przetargiem z postanowieniami projektu umowy dzierżawy, które nie podlegają ustaleniu w trybie przetargu.
-§ 6a.
+§ 6aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 W szczególnie uzasadnionych przypadkach organizator przetargu może podjąć decyzję o przeprowadzeniu czynności wymagających stawienia się uczestników przetargu przy użyciu środków komunikacji elektronicznej. Obowiązek stawienia się uczestnika przetargu uważa się za spełniony, jeżeli uczestniczył on w przetargu przy użyciu środków komunikacji elektronicznej.
 2.
@@ -191,7 +188,7 @@ wykaz osób dopuszczonych i niedopuszczonych do uczestniczenia w przetargu;
 4)
 przebieg licytacji i najwyższą wysokość czynszu osiągniętą w przetargu ustnym, a w przetargu ofert informację o złożonych ofertach zawierającą ocenę sytuacji finansowej oferentów, wniosek wraz z uzasadnieniem w sprawie wyboru najkorzystniejszej z nich albo informację o niewybraniu żadnej z ofert;
 5)
-imię, nazwisko i adres lub nazwę (firmę) i siedzibę osoby wskazanej przez komisję przetargową do zawarcia z Krajowym Ośrodkiem umowy dzierżawy nieruchomości;
+imię, nazwisko i adres lub nazwę (firmę) i siedzibę osoby wskazanej przez komisję przetargową do zawarcia z Krajowym OśrodkiemZe zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. umowy dzierżawy nieruchomości;
 6)
 imiona, nazwiska i podpisy przewodniczącego oraz pozostałych członków komisji.
 3.
@@ -207,7 +204,7 @@ nikt nie stawił się na przetarg ustny, nikt nie został zakwalifikowany do ucz
 4)
 komisja odrzuciła wszystkie oferty lub nie wybrała żadnej oferty.
 § 11.
-W razie stwierdzenia, że czynności związane z przeprowadzeniem przetargu zostały dokonane w sposób sprzeczny z ustawą lub innymi przepisami, których naruszenie miało wpływ na wynik przetargu, Dyrektor Generalny Krajowego Ośrodka zarządza powtórzenie czynności przetargowych albo unieważnia przetarg.
+W razie stwierdzenia, że czynności związane z przeprowadzeniem przetargu zostały dokonane w sposób sprzeczny z ustawą lub innymi przepisami, których naruszenie miało wpływ na wynik przetargu, Dyrektor Generalny Krajowego OśrodkaZe zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. zarządza powtórzenie czynności przetargowych albo unieważnia przetarg.
 § 12.
 1.
 Przetarg przeprowadza się, jeżeli stawił się chociażby jeden uczestnik przetargu. Przewodniczący komisji rozpoczyna przetarg od stwierdzenia prawidłowości ogłoszenia przetargu, a następnie przekazuje uczestnikom przetargu informacje, o których mowa w § 6 pkt 1–5, 7, 10–13, oraz sprawdza, czy wadia zostały wniesione we właściwym terminie, miejscu i formie.
@@ -283,6 +280,5 @@ Do przetargu ofert ograniczonego stosuje się odpowiednio przepisy § 13–18.
 § 20.
 Traci moc rozporządzenie Ministra Skarbu Państwa z dnia 1 sierpnia 2003 r. w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa (Dz. U. poz. 1351).
 § 21.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa (Dz. U. poz. 682), które weszło w życie z dniem 18 kwietnia 2020 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 1 lit. d rozporządzenia, o którym mowa w odnośniku 2. 6) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) Rozporządzenie zostało ogłoszone w dniu 2 lutego 2009 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 2 lutego 2009 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. z 2021 r. poz. 942). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa (Dz. U. poz. 682), które weszło w życie z dniem 18 kwietnia 2020 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 1 lit. d rozporządzenia, o którym mowa w odnośniku 2. 6) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 7) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) Rozporządzenie zostało ogłoszone w dniu 2 lutego 2009 r.
 

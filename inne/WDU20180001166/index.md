@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 12 czerwca 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020
+# Rozporządzenie Ministra Finansówz dnia 12 czerwca 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-12 |
 | Data wydania | 2018-06-18 |
-| Wejście w życie | 2018-07-01 |
 | Ostatnia zmiana | 2025-05-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1166/text.pdf) |
 
@@ -74,6 +73,5 @@ Zabezpieczenie udzielonej gwarancji stanowi weksel własny in blanco wraz z dekl
 § 8.
 Pomoc de minimis jest udzielana do dnia 30 czerwca 2021 r.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 7 października 2015 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1671 oraz z 2017 r. poz. 921), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 7 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw (Dz. U. poz. 2433).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 7 października 2015 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1671 oraz z 2017 r. poz. 921), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 7 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw (Dz. U. poz. 2433). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 7 października 2015 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 (Dz. U. poz. 1671 oraz z 2017 r. poz. 921), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 7 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw (Dz. U. poz. 2433).
 

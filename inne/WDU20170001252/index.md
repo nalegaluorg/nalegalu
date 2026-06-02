@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-19 |
 | Data wydania | 2017-06-27 |
-| Wejście w życie | 2017-07-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1252/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 7 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. poz. 1584, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 7 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. poz. 1584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1458, z 2009 r. poz. 1375, z 2010 r. poz. 1228, z 2015 r. poz. 1635, z 2016 r. poz. 1202, 1948, 2074, 2103, 2260 i 2261 oraz z 2017 r. poz. 730.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 30 kwietnia 1998 r. w sprawie organizacji pracy, składu oraz zasad wynagradzania członków komisji rozpatrującej wnioski o wyrażenie zgody na zatrudnienie osób, które pełniły funkcje publiczne (Dz. U. poz. 352 oraz z 2007 r. poz. 454) § 2–4 otrzymują brzmienie:
-„
+W rozporządzeniu Prezesa Rady Ministrów z dnia 30 kwietnia 1998 r. w sprawie organizacji pracy, składu oraz zasad wynagradzania członków komisji rozpatrującej wnioski o wyrażenie zgody na zatrudnienie osób, które pełniły funkcje publiczne (Dz. U. poz. 352 oraz z 2007 r. poz. 454) § 2–4 otrzymują brzmienie: „
 § 2.
 Komisja składa się z 9 członków powoływanych i odwoływanych przez Prezesa Rady Ministrów spośród kandydatów przedstawionych przez: Szefa Kancelarii Prezesa Rady Ministrów, Ministra Sprawiedliwości, ministra właściwego do spraw administracji publicznej, ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw gospodarki oraz Ministra – Członka Rady Ministrów, którego zakres działania obejmuje zadania związane z działalnością służb specjalnych – jeżeli został powołany przez Prezesa Rady Ministrów.
 § 3.
@@ -52,10 +50,9 @@ odwołania przez Prezesa Rady Ministrów,
 3)
 skazania prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe,
 4)
-śmierci.
-” .
+śmierci. ” .
 § 2.
 Członkowie komisji powołanej na podstawie § 2 rozporządzenia, o którym mowa w § 1, w brzmieniu dotychczasowym, pełnią obowiązki do dnia powołania członków komisji na podstawie § 2 rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1458, z 2009 r. poz. 1375, z 2010 r. poz. 1228, z 2015 r. poz. 1635, z 2016 r. poz. 1202, 1948, 2074, 2103, 2260 i 2261 oraz z 2017 r. poz. 730.
 

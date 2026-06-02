@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 11 lutego 2019 r. zmieniające rozporządzenie w sprawie wzoru zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej i wzoru zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 11 lutego 2019 r. zmieniające rozporządzenie w sprawie wzoru zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej i wzoru zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-11 |
 | Data wydania | 2019-02-18 |
-| Wejście w życie | 2019-03-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000305) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/305/text.pdf) |
 
@@ -35,6 +34,5 @@ w załączniku nr 1 wyrazy „data, podpis i pieczątka organizatora wystawy” 
 2)
 w załączniku nr 2 wyrazy „data, podpis i pieczątka organizatora wystawy” zastępuje się wyrazami „data i podpis organizatora wystawy”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 

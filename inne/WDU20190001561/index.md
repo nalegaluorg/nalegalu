@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-06 |
 | Data wydania | 2019-08-20 |
-| Wejście w życie | 2019-09-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1561/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 14 ust. 3 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2019 r. poz. 796) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 20 lipca 2016 r. w sprawie oddelegowania do służby lub pracy w Agencji Bezpieczeństwa Wewnętrznego w celu realizacji zadań związanych z zapobieganiem zdarzeniom o charakterze terrorystycznym (Dz. U. poz. 1078) § 12 i 13 otrzymują brzmienie:
-„
+W rozporządzeniu Prezesa Rady Ministrów z dnia 20 lipca 2016 r. w sprawie oddelegowania do służby lub pracy w Agencji Bezpieczeństwa Wewnętrznego w celu realizacji zadań związanych z zapobieganiem zdarzeniom o charakterze terrorystycznym (Dz. U. poz. 1078) § 12 i 13 otrzymują brzmienie: „
 § 12.
 W zakresie nieuregulowanym w niniejszym rozporządzeniu do oddelegowania do ABW:
 1)
@@ -60,8 +58,7 @@ art. 37e pkt 1 oraz art. 37h-37u ustawy z dnia 24 sierpnia 1991 r. o Państwowej
 d)
 art. 89–100 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2019 r. poz. 828 i 1091).
 § 13.
-Do pracowników podmiotów oddelegowujących stosuje się przepisy niniejszego rozporządzenia, przepisy prawa pracy, przepisy o pracownikach urzędów państwowych oraz przepisy o służbie cywilnej.
-” .
+Do pracowników podmiotów oddelegowujących stosuje się przepisy niniejszego rozporządzenia, przepisy prawa pracy, przepisy o pracownikach urzędów państwowych oraz przepisy o służbie cywilnej. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-19 |
 | Data wydania | 2008-12-31 |
-| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082371657) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1657/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63 oraz z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374.) wprowadza się następujące zmiany:
 
 - **1)** po art. 5a dodaje się art. 5b w brzmieniu: „
 
@@ -79,9 +78,9 @@ source: "eli-html"
 1. Postępowania w sprawach:
 
 - **1)** wydania zgody, o której mowa w art. 7 ust. 2 ustawy, o której mowa w art. 1, na zmianę przeznaczenia na cele nierolnicze i nieleśne gruntów rolnych stanowiących użytki rolne położone w granicach administracyjnych miast,
-- **2)** wydania decyzji zezwalających na wyłączenie z produkcji użytków rolnych położonych w granicach administracyjnych miast wszczęte i niezakończone przed dniem wejścia w życie ustawy, ulegają umorzeniu z mocy prawa.
+- **2)** wydania decyzji zezwalających na wyłączenie z produkcji użytków rolnych położonych w granicach administracyjnych miast – wszczęte i niezakończone przed dniem wejścia w życie ustawy, ulegają umorzeniu z mocy prawa.
 
 2. Niewymagalne w dniu wejścia w życie ustawy należności oraz opłaty roczne związane z uzyskaniem przed wejściem w życie ustawy prawa do wyłączenia z produkcji użytków rolnych położonych w granicach administracyjnych miast ulegają umorzeniu z mocy prawa.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63 oraz z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374.
 

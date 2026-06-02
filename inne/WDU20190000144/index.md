@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 grudnia 2018 r. w sprawie sposobu prowadzenia gospodarki finansowej Kasy Rolniczego Ubezpieczenia Społecznego
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 21 grudnia 2018 r. w sprawie sposobu prowadzenia gospodarki finansowej Kasy Rolniczego Ubezpieczenia Społecznego Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-21 |
 | Data wydania | 2019-01-24 |
-| Wejście w życie | 2019-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/144/text.pdf) |
 
@@ -258,6 +257,5 @@ Prezes Kasy prowadzi sprawozdawczość niezbędną do administrowania funduszami
 § 17.
 Do sporządzania, badania i zatwierdzenia rocznych sprawozdań finansowych, które nie zostały sporządzone, zbadane lub zatwierdzone przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy tego rozporządzenia.
 § 18.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2017 r. w sprawie sposobu prowadzenia gospodarki finansowej Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 1286), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ustawy z dnia 13 kwietnia 2018 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz niektórych innych ustaw (Dz. U. poz. 858).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2017 r. w sprawie sposobu prowadzenia gospodarki finansowej Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 1286), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ustawy z dnia 13 kwietnia 2018 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz niektórych innych ustaw (Dz. U. poz. 858). 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2017 r. w sprawie sposobu prowadzenia gospodarki finansowej Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 1286), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ustawy z dnia 13 kwietnia 2018 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz niektórych innych ustaw (Dz. U. poz. 858).
 

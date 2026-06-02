@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-09 |
 | Data wydania | 2015-09-14 |
-| Wejście w życie | 2015-09-15 |
 | Ostatnia zmiana | 2026-03-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1381/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomoc publiczna udzielana za pośrednictwem Centrum Rozdział 3 – Pomoc de minimis udzielana za pośrednictwem Centrum Rozdział 4 – Przepisy końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 37 ust. 2 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2015 r. poz. 839 i 1268) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki i tryb udzielania za pośrednictwem Narodowego Centrum Nauki, zwanego dalej „Centrum”:
 1)
@@ -59,7 +59,7 @@ Pomoc de minimis może być udzielona przedsiębiorcy za pośrednictwem Centrum,
 2.
 Przedsiębiorca prowadzący działalność w zakresie transportu drogowego towarów, a także inną działalność gospodarczą może otrzymać za pośrednictwem Centrum pomoc de minimis , której wartość łącznie z wartością innej pomocy de minimis przyznanej w okresie trzech ostatnich lat podatkowych nie przekroczy kwoty stanowiącej równowartość 200 000 euro, pod warunkiem że pomoc na działalność w zakresie transportu drogowego towarów nie przekroczy kwoty stanowiącej równowartość 100 000 euro i nie będzie wykorzystana na nabycie pojazdów do transportu drogowego towarów, a przedsiębiorca zobowiąże się do prowadzenia wyodrębnionej ewidencji księgowej dla działalności w zakresie transportu drogowego towarów oraz dla pozostałej działalności gospodarczej, w tym do przypisywania przychodów i kosztów na podstawie konsekwentnie stosowanych i mających uzasadnienie metod.
 § 7.
-Pomoc publiczna nie może być udzielona za pośrednictwem Centrum przedsiębiorcy, o którym mowa w art. 25 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
+Pomoc publiczna nie może być udzielona za pośrednictwem Centrum przedsiębiorcy, o którym mowa w art. 25 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.).
 § 8.
 1.
 Pomoc publiczna nie może być udzielona za pośrednictwem Centrum w przypadkach, o których mowa w art. 1 ust. 2, 3, 4 lit. c oraz ust. 5 rozporządzenia Komisji nr 651/2014.
@@ -70,8 +70,8 @@ Jeżeli przedsiębiorca ubiegający się o:
 1)
 pomoc publiczną udzielaną za pośrednictwem Centrum prowadzi działalność w sektorze wyłączonym, o którym mowa w art. 1 ust. 3 lit. c rozporządzenia Komisji nr 651/2014, oraz w innych sektorach,
 2)
-pomoc de minimis udzielaną za pośrednictwem Centrum prowadzi działalność w sektorach wyłączonych, o których mowa w art. 1 ust. 1 lit. a, b lub c rozporządzenia Komisji nr 1407/2013, oraz w innych sektorach
-pomoc może zostać mu udzielona, pod warunkiem że przedsiębiorca ten zobowiąże się do prowadzenia wyodrębnionej ewidencji księgowej dla działalności w sektorze wyłączonym oraz dla pozostałej działalności gospodarczej, w tym do przypisywania przychodów i kosztów na podstawie konsekwentnie stosowanych i mających uzasadnienie metod.
+pomoc de minimis udzielaną za pośrednictwem Centrum prowadzi działalność w sektorach wyłączonych, o których mowa w art. 1 ust. 1 lit. a, b lub c rozporządzenia Komisji nr 1407/2013, oraz w innych sektorach – pomoc może zostać mu udzielona, pod warunkiem że przedsiębiorca ten zobowiąże się do prowadzenia wyodrębnionej ewidencji księgowej dla działalności w sektorze wyłączonym oraz dla pozostałej działalności gospodarczej, w tym do przypisywania przychodów i kosztów na podstawie konsekwentnie stosowanych i mających uzasadnienie metod.
+Pomoc publiczna udzielana za pośrednictwem Centrum
 § 10.
 1.
 Pomoc publiczna jest udzielana za pośrednictwem Centrum przedsiębiorcy, który przed rozpoczęciem realizacji zadania złożył pisemny wniosek o udzielenie pomocy, zawierający:
@@ -122,6 +122,7 @@ Intensywność pomocy publicznej udzielanej za pośrednictwem Centrum nie może 
 W przypadku projektu badawczego planowanego do realizacji przez co najmniej dwóch przedsiębiorców intensywność pomocy publicznej udzielanej za pośrednictwem Centrum ustala się osobno dla każdego z nich.
 § 14.
 Pomoc publiczna udzielana za pośrednictwem Centrum podlega obowiązkowi indywidualnej notyfikacji Komisji Europejskiej, w przypadku gdy jej wielkość przekracza równowartość 40 000 000 euro dla jednego przedsiębiorcy na jeden projekt badawczy.
+Pomoc de minimis udzielana za pośrednictwem Centrum
 § 15.
 1.
 Pomoc de minimis jest udzielana za pośrednictwem Centrum przedsiębiorcy, który przed rozpoczęciem realizacji zadania złożył pisemny wniosek o udzielenie pomocy.
@@ -149,16 +150,25 @@ Pomoc de minimis może zostać udzielona przedsiębiorcy za pośrednictwem Centr
 czas trwania stażu po uzyskaniu stopnia naukowego doktora nie jest krótszy niż 12 miesięcy i nie przekracza 36 miesięcy;
 2)
 osoba rozpoczynająca karierę naukową, odbywająca staż po uzyskaniu stopnia naukowego doktora prowadzi u przedsiębiorcy działalność naukową.
+Przepisy końcowe
 § 18.
 Zgodnie z przepisami niniejszego rozporządzenia pomoc publiczna i pomoc de minimis są udzielane do dnia 30 czerwca 2021 r.
 § 19.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 20 grudnia 2010 r. w sprawie warunków i trybu udzielania pomocy publicznej i pomocy de minimis za pośrednictwem Narodowego Centrum Nauki (Dz. U. z 2011 r. Nr 8, poz. 34 oraz z 2014 r. poz. 100). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 20 grudnia 2010 r. w sprawie warunków i trybu udzielania pomocy publicznej i pomocy de minimis za pośrednictwem Narodowego Centrum Nauki (Dz. U. z 2011 r. Nr 8, poz. 34 oraz z 2014 r. poz. 100).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomoc publiczna udzielana za pośrednictwem Centrum
+#### Rozdział 2 – Pomoc publiczna udzielana za pośrednictwem Centrum
 
-#### Rozdział 3 Pomoc de minimis udzielana za pośrednictwem Centrum
+#### Rozdział 3 – Pomoc de minimis udzielana za pośrednictwem Centrum
 
-#### Rozdział 4 Przepisy końcowe
+#### Rozdział 4 – Przepisy końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

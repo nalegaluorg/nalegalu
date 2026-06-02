@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 19 września 2017 r. w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 19 września 2017 r. w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-19 |
 | Data wydania | 2017-09-29 |
-| Wejście w życie | 2017-10-01 |
 | Ostatnia zmiana | 2026-03-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001802) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1802/text.pdf) |
 
@@ -46,7 +45,7 @@ przez Platformę Usług Elektronicznych Skarbowo-Celnych.
 2.
 Wniosek o zastosowanie opodatkowania w formie karty podatkowej (PIT-16) może być przesyłany również przez Centralną Ewidencję i Informację o Działalności Gospodarczej przez dedykowany kanał usług sieciowych (WS, XML, SOAP, WSDL).
 3.
-Roczne obliczenie podatku przez organ rentowy za rok podatkowy (PIT-40A) lub informacja o dochodach uzyskanych od organu rentowego za rok podatkowy (PIT-11A) są przesyłane przez organy rentowe, o których mowa w art. 34 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.), za pomocą oprogramowania interfejsowego udostępnionego temu organowi przez ministra właściwego do spraw finansów publicznych, zabezpieczonego dedykowanym certyfikatem wystawionym przez urząd obsługujący tego ministra, wydanym organowi rentowemu.
+Roczne obliczenie podatku przez organ rentowy za rok podatkowy (PIT-40A) lub informacja o dochodach uzyskanych od organu rentowego za rok podatkowy (PIT-11A) są przesyłane przez organy rentowe, o których mowa w art. 34 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448 i 1530.), za pomocą oprogramowania interfejsowego udostępnionego temu organowi przez ministra właściwego do spraw finansów publicznych, zabezpieczonego dedykowanym certyfikatem wystawionym przez urząd obsługujący tego ministra, wydanym organowi rentowemu.
 § 3.
 Struktura logiczna urzędowego poświadczenia odbioru deklaracji lub podania jest udostępniona w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych prowadzonej przez urząd obsługujący tego ministra.
 § 4.
@@ -306,8 +305,7 @@ poz. 20 zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku
 g)
 poz. 57 rocznego obliczenia podatku od dochodu uzyskanego przez podatnika w roku podatkowym (PIT-40),
 h)
-poz. 38 rocznego obliczenia podatku przez organ rentowy za rok podatkowy (PIT-40A)
-za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania deklaracji lub podań albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń.
+poz. 38 rocznego obliczenia podatku przez organ rentowy za rok podatkowy (PIT-40A) – za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania deklaracji lub podań albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń.
 § 13.
 1.
 Deklaracje i podania, o których mowa w § 6, § 8 i § 11, przesyła się, stosując:
@@ -316,8 +314,7 @@ reguły kontroli poprawności danych deklaracji i podań,
 2)
 opis sposobu weryfikacji poprawności urzędowego poświadczenia odbioru i integralności deklaracji i podań,
 3)
-specyfikację oprogramowania interfejsowego służącego do złożenia deklaracji i podań
-dostępne na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych prowadzonej przez urząd obsługujący tego ministra.
+specyfikację oprogramowania interfejsowego służącego do złożenia deklaracji i podań – dostępne na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych prowadzonej przez urząd obsługujący tego ministra.
 2.
 Dowód złożenia deklaracji i podań stanowi urzędowe poświadczenie odbioru tworzone i udostępnione nadawcy przez system teleinformatyczny organu administracji skarbowej po uprzednim przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych, autentyczności oraz umocowania do podpisywania tych dokumentów.
 § 14.
@@ -342,6 +339,5 @@ informacja dotycząca funkcjonowania podmiotu urządzającego i prowadzącego dz
 § 16.
 Traci moc rozporządzenie Ministra Finansów z dnia 29 grudnia 2015 r. w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. poz. 2362, z 2016 r. poz. 1306 oraz z 2017 r. poz. 385 i 550).
 § 17.
-Rozporządzenie wchodzi w życie z dniem 1 października 2017 r.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448 i 1530.
+Rozporządzenie wchodzi w życie z dniem 1 października 2017 r. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448 i 1530.
 

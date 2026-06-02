@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Energiiz dnia 14 października 2016 r. w sprawie metod badania jakości sprężonego gazu ziemnego (CNG)
+# Rozporządzenie Ministra Energiiz dnia 14 października 2016 r. w sprawie metod badania jakości sprężonego gazu ziemnego (CNG) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-14 |
 | Data wydania | 2016-10-26 |
-| Wejście w życie | 2016-11-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001763) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1763/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Metody badania jakości sprężonego gazu ziemnego (CNG)
 Treść rozporządzenia
-Na podstawie art. 26 pkt 4 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2014 r. poz. 1728, z 2015 r. poz. 1361 oraz z 2016 r. poz. 266, 542 i 1165) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 3 lutego 2009 r. pod numerem 2009/72/PL oraz w dniu 1 marca 2016 r. pod numerem 2016/105/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 26 pkt 4 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2014 r. poz. 1728, z 2015 r. poz. 1361 oraz z 2016 r. poz. 266, 542 i 1165) zarządza się, co następuje:
 § 1.
 Metody badania jakości sprężonego gazu ziemnego (CNG) określa załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 3 lutego 2009 r. pod numerem 2009/72/PL oraz w dniu 1 marca 2016 r. pod numerem 2016/105/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 19 maja 2009 r. w sprawie metod badania jakości sprężonego gazu ziemnego (CNG) (Dz. U. poz. 706), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 32 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 19 maja 2009 r. w sprawie metod badania jakości sprężonego gazu ziemnego (CNG) (Dz. U. poz. 706), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 32 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592). 1) Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 3 lutego 2009 r. pod numerem 2009/72/PL oraz w dniu 1 marca 2016 r. pod numerem 2016/105/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 19 maja 2009 r. w sprawie metod badania jakości sprężonego gazu ziemnego (CNG) (Dz. U. poz. 706), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 32 ustawy z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 266 i 1592).
 Załącznik – Metody badania jakości sprężonego gazu ziemnego (CNG)
 1.
 Zawartość siarkowodoru oznacza się:

@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-09 |
 | Data wydania | 2020-07-20 |
-| Wejście w życie | 2020-08-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1267/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Przetarg ustny nieograniczony Rozdział 3 – Przetarg pisemny nieograniczony Rozdział 4 – Zaskarżenie przetargu Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 266 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r. poz. 310, 284, 695, 782 i 875) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób:
 1)
@@ -135,6 +135,7 @@ oznaczenie nieruchomości będącej przedmiotem przetargu według księgi wieczy
 określenie liczby uczestników przetargu;
 4)
 imię, nazwisko albo nazwę lub firmę uczestnika przetargu, który wygrał przetarg, albo informację o zakończeniu przetargu wynikiem negatywnym.
+Przetarg ustny nieograniczony
 § 7.
 W ogłoszeniu o przetargu ustnym nieograniczonym, poza informacjami określonymi w art. 265 ust. 10 i 11 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, zamieszcza się informacje o:
 1)
@@ -160,6 +161,7 @@ Uczestnicy przetargu zgłaszają ustnie kolejne postąpienia ceny, dopóki mimo 
 Czynności przetargowe są prowadzone bez względu na liczbę uczestników przetargu, jeżeli przynajmniej jeden uczestnik zaoferował co najmniej jedno postąpienie powyżej ceny wywoławczej wysokości opłat z tytułu ustanowienia ograniczonego prawa rzeczowego, najmu lub dzierżawy.
 6.
 Po ustaniu zgłaszania postąpień przewodniczący komisji przetargowej wywołuje trzykrotnie ostatnią, najwyższą cenę, a następnie ogłasza imię i nazwisko albo nazwę lub firmę uczestnika przetargu, który wygrał przetarg.
+Przetarg pisemny nieograniczony
 § 9.
 W ogłoszeniu o przetargu pisemnym nieograniczonym, poza informacjami określonymi w art. 265 ust. 10 i 11 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, zamieszcza się informacje o:
 1)
@@ -232,6 +234,7 @@ oferty są nieczytelne lub budzą wątpliwości co do ich treści.
 Przy wyborze pisemnej oferty komisja przetargowa bierze pod uwagę zaoferowaną wysokość opłaty z tytułu ustanowienia ograniczonego prawa rzeczowego, najmu lub dzierżawy oraz zaproponowany sposób realizacji kryteriów, o których mowa w § 9 pkt 6.
 § 15.
 W części niejawnej przetargu pisemnego nieograniczonego komisja przetargowa dokonuje szczegółowej analizy pisemnych ofert oraz wybiera najkorzystniejszą z nich albo stwierdza, że nie wybiera żadnej ze złożonych pisemnych ofert.
+Zaskarżenie przetargu
 § 16.
 1.
 W przypadku zaskarżenia przetargu minister właściwy do spraw gospodarki wodnej wstrzymuje czynności związane z zawarciem umowy.
@@ -243,18 +246,29 @@ Minister właściwy do spraw gospodarki wodnej może uznać skargę za zasadną 
 W przypadku uznania skargi za zasadną minister właściwy do spraw gospodarki wodnej nakazuje powtórzenie czynności przetargowych albo unieważnia przetarg.
 5.
 Po rozpatrzeniu skargi minister właściwy do spraw gospodarki wodnej zawiadamia uczestników przetargu o sposobie rozstrzygnięcia skargi, w terminie 3 dni roboczych od dnia jej rozpatrzenia, oraz zamieszcza niezwłocznie, na okres 7 dni, informację o sposobie rozstrzygnięcia tej skargi w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu zapewniającego obsługę tego ministra.
+Przepis końcowy
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 3 sierpnia 2018 r. w sprawie sposobu przeprowadzania przetargów na rozporządzanie nieruchomościami stanowiącymi własność Skarbu Państwa (Dz. U. poz. 1580), które na podstawie art. 15 ust. 1 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 1722) utraciło moc z dniem 21 marca 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 3 sierpnia 2018 r. w sprawie sposobu przeprowadzania przetargów na rozporządzanie nieruchomościami stanowiącymi własność Skarbu Państwa (Dz. U. poz. 1580), które na podstawie art. 15 ust. 1 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 1722) utraciło moc z dniem 21 marca 2020 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przetarg ustny nieograniczony
+#### Rozdział 2 – Przetarg ustny nieograniczony
 
-#### Rozdział 3 Przetarg pisemny nieograniczony
+#### Rozdział 3 – Przetarg pisemny nieograniczony
+
+#### Rozdział 4 – Zaskarżenie przetargu
+
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ## Część jawna przetargu pisemnego nieograniczonego odbywa się w obecności oferentów. W części jawnej przewodniczący komisji przetargowej rozpoczyna przetarg pisemny nieograniczony, podając informacje, o których mowa w § 9 pkt 1–3 i 5–8.
 
-#### Rozdział 4 Zaskarżenie przetargu
+#### Rozdział 4
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5
 

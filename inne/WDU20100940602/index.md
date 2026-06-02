@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-04-29 |
 | Data wydania | 2010-05-31 |
-| Wejście w życie | 2010-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100940602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/602/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2007 r. Nr 63, poz. 424, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2007 r. Nr 63, poz. 424, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 432, Nr 83, poz. 561, Nr 85, poz. 571 i Nr 140, poz. 983, z 2009 r. Nr 178, poz. 1375 oraz z 2010 r. Nr 79, poz. 522.) wprowadza się następujące zmiany:
 
 - **1)** w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
@@ -36,5 +35,5 @@ source: "eli-html"
 
 2. Prezes Instytutu Pamięci powołuje nie więcej niż trzech swoich zastępców. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 432, Nr 83, poz. 561, Nr 85, poz. 571 i Nr 140, poz. 983, z 2009 r. Nr 178, poz. 1375 oraz z 2010 r. Nr 79, poz. 522.
 

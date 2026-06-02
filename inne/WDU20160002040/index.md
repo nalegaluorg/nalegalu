@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 grudnia 2016 r. w sprawie sposobu ustalania wysokości wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych i ich zastępców, a także wysokości wynagrodzenia obrońcy z urzędu
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 9 grudnia 2016 r. w sprawie sposobu ustalania wysokości wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych i ich zastępców, a także wysokości wynagrodzenia obrońcy z urzędu Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-09 |
 | Data wydania | 2016-12-16 |
-| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2040/text.pdf) |
 
@@ -37,8 +36,7 @@ Rzecznikowi dyscyplinarnemu i jego zastępcom przysługuje wynagrodzenie za:
 1)
 przeprowadzenie postępowania wyjaśniającego w wysokości od 100 do 450 zł brutto,
 2)
-udział w postępowaniu dyscyplinarnym w wysokości od 100 do 450 zł brutto
-w zależności od zawiłości sprawy będącej przedmiotem postępowania wyjaśniającego lub postępowania dyscyplinarnego.
+udział w postępowaniu dyscyplinarnym w wysokości od 100 do 450 zł brutto – w zależności od zawiłości sprawy będącej przedmiotem postępowania wyjaśniającego lub postępowania dyscyplinarnego.
 § 4.
 Przy ocenie zawiłości rozpoznawanej sprawy bierze się pod uwagę okoliczności faktyczne i prawne danej sprawy, z uwzględnieniem:
 1)
@@ -56,6 +54,5 @@ Obrońcy z urzędu przysługuje wynagrodzenie za udział w postępowaniu dyscypl
 2)
 420 zł – przed odwoławczą komisją dyscyplinarną.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).
 

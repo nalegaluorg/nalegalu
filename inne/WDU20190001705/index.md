@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-12 |
 | Data wydania | 2019-09-06 |
-| Wejście w życie | 2019-09-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001705) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1705/text.pdf) |
 
@@ -31,17 +30,13 @@ Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach public
 § 1.
 W rozporządzeniu Ministra Obrony Narodowej z dnia 24 października 2017 r. w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego (Dz. U. poz. 2032) w § 2 wprowadza się następujące zmiany:
 1)
-w ust. 3 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
-„
+w ust. 3 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 6)
-środków zgromadzonych na rachunku VAT, o którym mowa w art. 62a ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.).
-” ;
+środków zgromadzonych na rachunku VAT, o którym mowa w art. 62a ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667 i 1696.). ” ;
 2)
-w ust. 4 pkt 1 otrzymuje brzmienie:
-„
+w ust. 4 pkt 1 otrzymuje brzmienie: „
 1)
-zobowiązania podatkowe, z wyłączeniem zobowiązań podatkowych, które będą sfinansowane ze środków określonych w ust. 3 pkt 6;
-” .
+zobowiązania podatkowe, z wyłączeniem zobowiązań podatkowych, które będą sfinansowane ze środków określonych w ust. 3 pkt 6; ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667 i 1696.
 

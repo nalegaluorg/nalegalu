@@ -22,19 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-08 |
 | Data wydania | 2015-09-15 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2026-03-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1400/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Ogólne warunki umów o udzielanie świadczeń opieki zdrowotnej Rozdział 1 – Postanowienia ogólne Rozdział 2 – Przedmiot umów o udzielanie świadczeń opieki zdrowotnej i warunki udzielania świadczeń opieki zdrowotnej Rozdział 3 – Sposób finansowania świadczeń Rozdział 4 – Kary umowne Rozdział 5 – Tryb ustalania kwoty zobowiązania umów zawartych na okres dłuższy niż rok Rozdział 6 – Przesłanki i tryb rozwiązania umowy o udzielanie świadczeń opieki zdrowotnej oraz warunki jej wygaśnięcia
+Załącznik – Ogólne warunki umów o udzielanie świadczeń opieki zdrowotnej
 Treść rozporządzenia
-Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269 i 1365.) zarządza się, co następuje:
 § 1.
 Ustala się ogólne warunki umów o udzielanie świadczeń opieki zdrowotnej, stanowiące załącznik do rozporządzenia.
 § 2.
 1.
-W terminie 14 dni od dnia ogłoszenia rozporządzenia świadczeniodawca posiadający umowy o udzielanie świadczeń opieki zdrowotnej, z wyłączeniem umowy w rodzaju podstawowa opieka zdrowotna oraz umowy w rodzaju leczenie szpitalne – świadczenia wysokospecjalistyczne, przekaże do dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia, zwanego dalej „Funduszem”, za pośrednictwem serwisów internetowych, o których mowa w § 10 załącznika do rozporządzenia, informację, według stanu na dzień ogłoszenia rozporządzenia, o liczbie pielęgniarek i położnych wykonujących, u tego świadczeniodawcy, zawód w rozumieniu art. 19 ust. 1 pkt 1–3 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, z późn. zm.), i realizujących świadczenia opieki zdrowotnej oraz w formie indywidualnej praktyki pielęgniarki i położnej wyłącznie w przedsiębiorstwie podmiotu leczniczego albo indywidualnej specjalistycznej praktyki pielęgniarki i położnej wyłącznie w przedsiębiorstwie podmiotu leczniczego, w przeliczeniu na liczbę etatów, realizujących te świadczenia.
+W terminie 14 dni od dnia ogłoszenia rozporządzenia świadczeniodawca posiadający umowy o udzielanie świadczeń opieki zdrowotnej, z wyłączeniem umowy w rodzaju podstawowa opieka zdrowotna oraz umowy w rodzaju leczenie szpitalne – świadczenia wysokospecjalistyczne, przekaże do dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia, zwanego dalej „Funduszem”, za pośrednictwem serwisów internetowych, o których mowa w § 10 załącznika do rozporządzenia, informację, według stanu na dzień ogłoszenia rozporządzenia, o liczbie pielęgniarek i położnych wykonujących, u tego świadczeniodawcy, zawód w rozumieniu art. 19 ust. 1 pkt 1–3 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1491 i 1877 oraz z 2015 r. poz. 978.), i realizujących świadczenia opieki zdrowotnej oraz w formie indywidualnej praktyki pielęgniarki i położnej wyłącznie w przedsiębiorstwie podmiotu leczniczego albo indywidualnej specjalistycznej praktyki pielęgniarki i położnej wyłącznie w przedsiębiorstwie podmiotu leczniczego, w przeliczeniu na liczbę etatów, realizujących te świadczenia.
 2.
 Informacja, o której mowa w ust. 1, obejmuje następujące dane:
 1)
@@ -74,8 +73,9 @@ Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem:
 1)
 § 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
 2)
-§ 13 ust. 5 załącznika do rozporządzenia, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+§ 13 ust. 5 załącznika do rozporządzenia, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 6 maja 2008 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. Nr 81, poz. 484), które zgodnie z art. 25 ust. 1 ustawy z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269 i 1365. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1491 i 1877 oraz z 2015 r. poz. 978. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 6 maja 2008 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. Nr 81, poz. 484), które zgodnie z art. 25 ust. 1 ustawy z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Ogólne warunki umów o udzielanie świadczeń opieki zdrowotnej
+Postanowienia ogólne
 § 1.
 Ilekroć w ogólnych warunkach umów o udzielanie świadczeń opieki zdrowotnej, zwanych dalej „ogólnymi warunkami”, jest mowa o:
 1)
@@ -99,8 +99,7 @@ okresie sprawozdawczym – rozumie się przez to odpowiednio:
 a)
 miesiąc kalendarzowy,
 b)
-okres krótszy niż miesiąc kalendarzowy, upływający w ostatnim dniu miesiąca
-w przypadku gdy umowa, o której mowa w pkt 14, nie obowiązuje od pierwszego dnia danego miesiąca albo wygaśnie lub ulegnie rozwiązaniu przed ostatnim dniem miesiąca kalendarzowego,
+okres krótszy niż miesiąc kalendarzowy, upływający w ostatnim dniu miesiąca – w przypadku gdy umowa, o której mowa w pkt 14, nie obowiązuje od pierwszego dnia danego miesiąca albo wygaśnie lub ulegnie rozwiązaniu przed ostatnim dniem miesiąca kalendarzowego,
 c)
 okres leczenia uzdrowiskowego (turnus) – w przypadku świadczeń stacjonarnego leczenia uzdrowiskowego;
 7)
@@ -128,10 +127,10 @@ grup świadczeniobiorców albo
 b)
 świadczeń, albo
 c)
-grup osób wykonujących dany zawód medyczny
-za pomocą których jest wyliczana wysokość zobowiązania Funduszu wobec świadczeniodawcy;
+grup osób wykonujących dany zawód medyczny – za pomocą których jest wyliczana wysokość zobowiązania Funduszu wobec świadczeniodawcy;
 17)
 zakresie świadczeń – rozumie się przez to świadczenie lub grupę świadczeń wyodrębnionych w danym rodzaju świadczeń, dla których w umowie określa się kwotę finansowania.
+Przedmiot umów o udzielanie świadczeń opieki zdrowotnej i warunki udzielania świadczeń opieki zdrowotnej
 § 2.
 1.
 Przedmiotem umów jest udzielanie przez świadczeniodawcę świadczeń w rodzaju:
@@ -181,7 +180,7 @@ Opinię, o której mowa w ust. 3, przekazuje się Prezesowi Funduszu w terminie 
 3.
 Świadczeniodawca jest obowiązany przestrzegać praw pacjenta.
 4.
-Świadczeniodawca jest obowiązany podejmować i prowadzić działania mające na celu zapewnienie należytej jakości udzielanych świadczeń, w tym stosować kwestionariusz jakości określony przez Prezesa Funduszu na podstawie art. 146 ust. 1 pkt 2 i art. 159 ust. 2 ustawy oraz okołooperacyjną kartę kontrolną, o której mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159, z późn. zm.).
+Świadczeniodawca jest obowiązany podejmować i prowadzić działania mające na celu zapewnienie należytej jakości udzielanych świadczeń, w tym stosować kwestionariusz jakości określony przez Prezesa Funduszu na podstawie art. 146 ust. 1 pkt 2 i art. 159 ust. 2 ustawy oraz okołooperacyjną kartę kontrolną, o której mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742, z 2013 r. poz. 1245, z 2014 r. poz. 1822 oraz z 2015 r. poz. 1163.).
 5.
 Świadczeniodawca jest obowiązany zaopatrywać się we własnym zakresie w leki, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne i inne materiały konieczne do wykonania świadczenia na podstawie umowy.
 § 4.
@@ -202,8 +201,7 @@ podmiocie wykonującym działalność leczniczą lub
 2)
 przedsiębiorstwie podmiotu leczniczego, lub
 3)
-podmiocie realizującym czynności z zakresu zaopatrzenia w środki pomocnicze i wyroby medyczne będące przedmiotami ortopedycznymi
-jeżeli umowa nie stanowi inaczej.
+podmiocie realizującym czynności z zakresu zaopatrzenia w środki pomocnicze i wyroby medyczne będące przedmiotami ortopedycznymi – jeżeli umowa nie stanowi inaczej.
 § 7.
 1.
 Świadczeniodawca jest obowiązany do udzielania świadczeń w pomieszczeniach odpowiadających wymaganiom określonym w przepisach wydanych na podstawie ustawy, przepisach o działalności leczniczej oraz w szczegółowych warunkach umów określonych przez Prezesa Funduszu na podstawie art. 146 ust. 1 pkt 2 i art. 159 ust. 2 ustawy, wyposażonych w aparaturę i sprzęt medyczny posiadający stosowne certyfikaty, atesty lub inne dokumenty potwierdzające dopuszczenie aparatury i sprzętu medycznego do użytku oraz dokumenty potwierdzające dokonanie aktualnych przeglądów wykonanych przez uprawnione podmioty.
@@ -331,6 +329,7 @@ Odmowa przyjęcia dziecka do szpitala wymaga uprzedniej konsultacji z ordynatore
 W przypadku rozwiązania albo wygaśnięcia umowy świadczeniodawca przekazuje do oddziału wojewódzkiego Funduszu listy oczekujących na udzielenie świadczenia oraz dane świadczeniobiorców objętych planem leczenia w sposób umożliwiający ich identyfikację. Przekazanie list oczekujących na udzielenie świadczenia oraz danych świadczeniobiorców powinno nastąpić nie później niż 14 dni przed rozwiązaniem albo wygaśnięciem umowy, z wyjątkiem sytuacji, których nie można było przewidzieć.
 7.
 Przepisów ust. 1–6 nie stosuje się do umów w rodzaju lecznictwo uzdrowiskowe.
+Sposób finansowania świadczeń
 § 14.
 Fundusz jest obowiązany do sfinansowania świadczeń udzielonych w okresie rozliczeniowym do kwoty zobowiązania Funduszu wobec świadczeniodawcy określonej w umowie dla danego zakresu świadczeń.
 § 15.
@@ -418,8 +417,7 @@ rehabilitacja lecznicza,
 6)
 świadczenia pielęgnacyjne i opiekuńcze w ramach opieki długoterminowej,
 7)
-opieka paliatywna i hospicyjna
-strony umowy, na wniosek świadczeniodawcy, składany nie później niż 30 dni po upływie kwartału kalendarzowego, dokonają zmian zawartych umów, polegających na zwiększeniu kwoty zobowiązania ustalonej dla jednego lub kilku rodzajów świadczeń i jednoczesnym zmniejszeniu kwoty zobowiązania za ten kwartał ustalonej dla pozostałych rodzajów świadczeń, z uwzględnieniem art. 158 ustawy.
+opieka paliatywna i hospicyjna – strony umowy, na wniosek świadczeniodawcy, składany nie później niż 30 dni po upływie kwartału kalendarzowego, dokonają zmian zawartych umów, polegających na zwiększeniu kwoty zobowiązania ustalonej dla jednego lub kilku rodzajów świadczeń i jednoczesnym zmniejszeniu kwoty zobowiązania za ten kwartał ustalonej dla pozostałych rodzajów świadczeń, z uwzględnieniem art. 158 ustawy.
 2.
 Dyrektor oddziału wojewódzkiego Funduszu rozpatruje wniosek w terminie 14 dni od dnia jego otrzymania. Wniosek dotyczący ostatniego kwartału roku kalendarzowego jest składany do dnia 15 grudnia roku, którego dotyczy.
 3.
@@ -480,7 +478,7 @@ powinny być zgodne z formatem ustalonym przez Prezesa Funduszu.
 1.
 Należności z tytułu realizacji umowy za okres sprawozdawczy oddział wojewódzki Funduszu wypłaca, za miesiąc poprzedni, w terminie 14 dni po dniu dostarczenia przez świadczeniodawcę dokumentów rozliczeniowych i informacji, o której mowa w § 17 ust. 2, oraz dokumentów, o których mowa w § 23 ust. 5 i 7–8, z zastrzeżeniem § 25 i 26. Płatności dokonuje się przelewem na rachunek bankowy określony w umowie.
 2.
-W przypadku świadczeń finansowanych z budżetu państwa na podstawie ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.) dopuszcza się możliwość wypłacenia należności za miesiąc grudzień w tym samym miesiącu wyłącznie na podstawie dostarczonych przez świadczeniodawcę rachunków. Pozostałe dokumenty rozliczeniowe powinny zostać dostarczone przez świadczeniodawcę w terminie określonym w § 23 ust. 3.
+W przypadku świadczeń finansowanych z budżetu państwa na podstawie ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635 oraz z 2014 r. poz. 1802.) dopuszcza się możliwość wypłacenia należności za miesiąc grudzień w tym samym miesiącu wyłącznie na podstawie dostarczonych przez świadczeniodawcę rachunków. Pozostałe dokumenty rozliczeniowe powinny zostać dostarczone przez świadczeniodawcę w terminie określonym w § 23 ust. 3.
 3.
 W przypadku świadczeń wysokospecjalistycznych finansowanych z budżetu państwa dopuszcza się możliwość wypłacenia należności za miesiąc grudzień w tym samym miesiącu, na wniosek świadczeniodawcy złożony do dnia 7 grudnia i na podstawie prognozy wydatków na te świadczenia, ustalonej przez oddział wojewódzki Funduszu w oparciu o harmonogram realizacji umowy świadczeniodawcy. Oddział wojewódzki Funduszu dokonuje płatności w terminie 14 dni od dnia otrzymania wniosku. Pozostałe dokumenty rozliczeniowe powinny zostać dostarczone przez świadczeniodawcę w terminie określonym w § 23 ust. 3.
 4.
@@ -510,6 +508,7 @@ W przypadku stwierdzenia przez Fundusz przekazania świadczeniodawcy nienależny
 W przypadku gdy obowiązek zwrotu środków finansowych wynika z zakwestionowania wykonanych świadczeń, świadczeniodawca jest obowiązany złożyć oddziałowi wojewódzkiemu Funduszu korygujące dokumenty rozliczeniowe.
 3.
 W przypadku wyczerpania procedury, o której mowa w art. 64, art. 160 i art. 161 ustawy, oraz niedokonania zwrotu środków finansowych przez świadczeniodawcę, dyrektor oddziału wojewódzkiego Funduszu dokonuje potrącenia tych środków wraz z odsetkami ustawowymi z należności przysługującej świadczeniodawcy. Odsetki ustawowe nie przysługują Funduszowi za okres od dnia, w którym upłynął termin określony w ustawie do rozpatrzenia zażalenia na czynności dyrektora oddziału wojewódzkiego Funduszu, do dnia jego rozpatrzenia.
+Kary umowne
 § 29.
 1.
 Umowa może zawierać zastrzeżenie o możliwości nałożenia przez dyrektora oddziału wojewódzkiego Funduszu lub Prezesa Funduszu kary umownej w razie stwierdzenia niewykonania lub nienależytego wykonania umowy, z przyczyn leżących po stronie świadczeniodawcy.
@@ -586,12 +585,12 @@ przez osobę niebędącą osobą uprawnioną, w rozumieniu art. 2 pkt 14 ustawy 
 2)
 pacjentom niebędącym świadczeniobiorcami albo osobami uprawnionymi, o których mowa w art. 67 ust. 4–7 ustawy, lub
 3)
-w przypadku braku zasadności ordynowania leku, środka spożywczego specjalnego przeznaczenia żywieniowego i wyrobu medycznego w danym wskazaniu
-dyrektor oddziału wojewódzkiego Funduszu albo Prezes Funduszu może nałożyć na świadczeniodawcę karę umowną w kwocie stanowiącej równowartość kwoty refundacji cen tych leków, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych, wraz z odsetkami ustawowymi od dnia dokonania refundacji.
+w przypadku braku zasadności ordynowania leku, środka spożywczego specjalnego przeznaczenia żywieniowego i wyrobu medycznego w danym wskazaniu – dyrektor oddziału wojewódzkiego Funduszu albo Prezes Funduszu może nałożyć na świadczeniodawcę karę umowną w kwocie stanowiącej równowartość kwoty refundacji cen tych leków, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych, wraz z odsetkami ustawowymi od dnia dokonania refundacji.
 2.
 Przepis ust. 1 stosuje się odpowiednio w odniesieniu do zaopatrzenia w wyroby medyczne na zlecenie osoby uprawnionej, oraz ich naprawy, o których mowa w art. 38 ustawy o refundacji, finansowanych w całości lub w części przez Fundusz.
 3.
 Wysokość i termin zapłaty kary umownej, o której mowa w ust. 1 i 2, dyrektor oddziału wojewódzkiego Funduszu albo Prezes Funduszu określa w pisemnym wezwaniu do zapłaty. Termin zapłaty kary umownej nie może być krótszy niż 14 dni od dnia otrzymania wezwania. Przepisy § 29 ust. 6 stosuje się.
+Tryb ustalania kwoty zobowiązania umów zawartych na okres dłuższy niż rok
 § 32.
 1.
 W przypadku gdy umowa zostaje zawarta na okres dłuższy niż rok, kwoty zobowiązań w poszczególnych zakresach na następne okresy rozliczeniowe są ustalane corocznie, w terminie do dnia 30 listopada, chyba że strony postanowią inaczej. W tym samym terminie są ustalane warunki finansowania świadczeń w umowie niezawierającej kwoty zobowiązania.
@@ -615,6 +614,7 @@ W przypadku, o którym mowa w ust. 5, oddział wojewódzki Funduszu dokonuje pł
 W przypadku gdy okres rozliczeniowy kończy się przed upływem roku kalendarzowego, przepisy ust. 1–6 stosuje się odpowiednio. Termin ustalenia kwoty zobowiązania albo warunków finansowania świadczeń następuje miesiąc przed zakończeniem okresu rozliczeniowego. W przypadku nieustalenia kwoty zobowiązania albo warunków finansowania umowa ulega rozwiązaniu po upływie kolejnych dwóch miesięcy.
 § 33.
 Do umów na zaopatrzenie w wyroby medyczne na zlecenie osoby uprawnionej oraz ich naprawę nie stosuje się przepisów § 8 ust. 2, § 9 ust. 2–5, § 11 ust. 4 pkt 1–3, 7, 8 i 11 oraz ust. 5, § 12–17, § 19–22, § 23 ust. 2, 4 i 6 oraz § 32.
+Przesłanki i tryb rozwiązania umowy o udzielanie świadczeń opieki zdrowotnej oraz warunki jej wygaśnięcia
 § 34.
 1.
 W przypadku gdy świadczeniodawca zamierza dokonać zmian podstaw formalno-prawnych prowadzonej działalności, mających wpływ na sposób realizacji umowy, jest on obowiązany do pisemnego poinformowania o tym zamiarze dyrektora oddziału wojewódzkiego Funduszu, nie później niż 30 dni przed ich dokonaniem. Świadczeniodawca w terminie 7 dni od dnia dokonania tych zmian przedkłada oddziałowi wojewódzkiemu Funduszu dokumenty potwierdzające ich dokonanie.
@@ -688,21 +688,33 @@ Każda ze stron umowy może w uzasadnionych przypadkach wnioskować na piśmie o
 2.
 W przypadku złożenia wniosku, o którym mowa w ust. 1, strony nie później niż w terminie 30 dni od dnia jego otrzymania podejmują czynności zmierzające do ustalenia nowych warunków umowy, chyba że strona umowy, do której skierowano wniosek, nie wyrazi zgody na zmianę warunków umowy i uzasadni swoje stanowisko na piśmie.
 § 44.
-Spory między stronami powstałe w związku z realizacją umowy rozstrzygane będą polubownie z zachowaniem zasady działania w dobrej wierze i z poszanowaniem słusznych interesów stron.
+Spory między stronami powstałe w związku z realizacją umowy rozstrzygane będą polubownie z zachowaniem zasady działania w dobrej wierze i z poszanowaniem słusznych interesów stron. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742, z 2013 r. poz. 1245, z 2014 r. poz. 1822 oraz z 2015 r. poz. 1163. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1245 i 1635 oraz z 2014 r. poz. 1802.
 
-#### Rozdział 1 Postanowienia ogólne
+#### Rozdział 1 – Postanowienia ogólne
 
-#### Rozdział 2 Przedmiot umów o udzielanie świadczeń opieki zdrowotnej i warunki udzielania świadczeń opieki zdrowotnej
+#### Rozdział 2 – Przedmiot umów o udzielanie świadczeń opieki zdrowotnej i warunki udzielania świadczeń opieki zdrowotnej
 
-#### Rozdział 3 Sposób finansowania świadczeń
+#### Rozdział 3 – Sposób finansowania świadczeń
+
+#### Rozdział 4 – Kary umowne
+
+#### Rozdział 5 – Tryb ustalania kwoty zobowiązania umów zawartych na okres dłuższy niż rok
+
+#### Rozdział 6 – Przesłanki i tryb rozwiązania umowy o udzielanie świadczeń opieki zdrowotnej oraz warunki jej wygaśnięcia
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ##### Oddział wojewódzki Funduszu informuje świadczeniodawcę o przyczynie wstrzymania płatności, w terminie 5 dni roboczych od dnia przyjęcia dokumentów rozliczeniowych, informacji, o której mowa w § 17 ust. 2, lub dokumentów, o których mowa w § 23 ust. 5. W przypadku wstrzymania przez oddział wojewódzki Funduszu płatności w całości lub w części, świadczeniodawca jest obowiązany do uzupełnienia lub usunięcia nieprawidłowości w dokumentach rozliczeniowych, informacji, o której mowa w § 17 ust. 2, dokumentach, o których mowa w § 23 ust. 5, lub wystawienia korygujących dokumentów rozliczeniowych w terminie 7 dni od dnia otrzymania informacji o stwierdzonych uchybieniach.
 
 ##### Oddział wojewódzki Funduszu dokonuje płatności wstrzymanych należności w terminie 7 dni od dnia otrzymania uzupełnionych lub poprawionych dokumentów rozliczeniowych, informacji, o której mowa w § 17 ust. 2, dokumentów, o których mowa w § 23 ust. 5, lub otrzymania korygujących dokumentów rozliczeniowych, nie wcześniej jednak niż w terminie płatności przewidzianym dla złożenia prawidłowych dokumentów.
 
-#### Rozdział 4 Kary umowne
+#### Rozdział 4
 
-#### Rozdział 5 Tryb ustalania kwoty zobowiązania umów zawartych na okres dłuższy niż rok
+#### Rozdział 5
 
-#### Rozdział 6 Przesłanki i tryb rozwiązania umowy o udzielanie świadczeń opieki zdrowotnej oraz warunki jej wygaśnięcia
+#### Rozdział 6
 

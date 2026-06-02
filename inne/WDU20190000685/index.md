@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 marca 2019 r. zmieniające rozporządzenie w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 marca 2019 r. zmieniające rozporządzenie w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-28 |
 | Data wydania | 2019-04-12 |
-| Wejście w życie | 2019-04-27 |
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000685) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/685/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 165 ust. 16 ustawy z dnia 14 grudnia 2016 r. – Prawo oświat
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 23 sierpnia 2017 r. w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw (Dz. U. poz. 1655) wprowadza się następujące zmiany:
 1)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
 Uczeń przybywający z zagranicy jest kwalifikowany do odpowiedniej klasy lub na odpowiedni semestr oraz przyjmowany do:
 1)
@@ -75,8 +73,7 @@ w przypadku uczniów szkoły prowadzącej kształcenie w zawodzie, dla którego 
 d)
 w przypadku uczniów szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – orzeczenia lekarskiego, o którym mowa w pkt 2 lit. d,
 e)
-w przypadku uczniów szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – orzeczenia psychologicznego, o którym mowa w pkt 2 lit. e, f) w przypadku uczniów szkoły, w której program nauczania wymaga od kandydatów szczególnych indywidualnych uzdolnień lub predyspozycji przydatnych w danym zawodzie – w przypadkach, o których mowa w § 10 ust. 1, na podstawie wyniku uzyskanego ze sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 136 ust. 2 ustawy, jeżeli taki sprawdzian jest w szkole przeprowadzany, 5) publicznej szkoły ponadpodstawowej, o której mowa w pkt 1–3, w której program nauczania realizowany w szkole lub oddziale tej szkoły wymaga od uczniów szczególnych indywidualnych predyspozycji – w przypadkach, o których mowa w § 10 ust. 1, na podstawie wyniku uzyskanego ze sprawdzianu uzdolnień kierunkowych, o którym mowa w art. 134 ust. 5 i art. 135 ust. 7 ustawy, oraz po spełnieniu warunków, o których mowa odpowiednio w pkt 1–3, 6) klasy wstępnej w publicznej szkole ponadpodstawowej, o której mowa w art. 25 ust. 3 ustawy – w przypadkach, o których mowa w § 10 ust. 1, na podstawie pozytywnego wyniku sprawdzianu predyspozycji językowych, o którym mowa w art. 140 ust. 2 ustawy, oraz po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2, 7) publicznej szkoły ponadpodstawowej dwujęzycznej, oddziału dwujęzycznego lub oddziału międzynarodowego w publicznej szkole ponadpodstawowej ogólnodostępnej – w przypadkach, o których mowa w § 10 ust. 1, na podstawie pozytywnego wyniku sprawdzianu kompetencji językowych, o którym mowa w art. 140 ust. 1 ustawy, oraz po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2, 8) publicznej szkoły ponadpodstawowej sportowej, publicznej szkoły ponadpodstawowej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału mistrzostwa sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej – po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2, oraz warunków, o których mowa w art. 137 ust. 1 pkt 1–3 ustawy – jeżeli szkoła dysponuje wolnymi miejscami.
-” ;
+w przypadku uczniów szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – orzeczenia psychologicznego, o którym mowa w pkt 2 lit. e, f) w przypadku uczniów szkoły, w której program nauczania wymaga od kandydatów szczególnych indywidualnych uzdolnień lub predyspozycji przydatnych w danym zawodzie – w przypadkach, o których mowa w § 10 ust. 1, na podstawie wyniku uzyskanego ze sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 136 ust. 2 ustawy, jeżeli taki sprawdzian jest w szkole przeprowadzany, 5) publicznej szkoły ponadpodstawowej, o której mowa w pkt 1–3, w której program nauczania realizowany w szkole lub oddziale tej szkoły wymaga od uczniów szczególnych indywidualnych predyspozycji – w przypadkach, o których mowa w § 10 ust. 1, na podstawie wyniku uzyskanego ze sprawdzianu uzdolnień kierunkowych, o którym mowa w art. 134 ust. 5 i art. 135 ust. 7 ustawy, oraz po spełnieniu warunków, o których mowa odpowiednio w pkt 1–3, 6) klasy wstępnej w publicznej szkole ponadpodstawowej, o której mowa w art. 25 ust. 3 ustawy – w przypadkach, o których mowa w § 10 ust. 1, na podstawie pozytywnego wyniku sprawdzianu predyspozycji językowych, o którym mowa w art. 140 ust. 2 ustawy, oraz po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2, 7) publicznej szkoły ponadpodstawowej dwujęzycznej, oddziału dwujęzycznego lub oddziału międzynarodowego w publicznej szkole ponadpodstawowej ogólnodostępnej – w przypadkach, o których mowa w § 10 ust. 1, na podstawie pozytywnego wyniku sprawdzianu kompetencji językowych, o którym mowa w art. 140 ust. 1 ustawy, oraz po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2, 8) publicznej szkoły ponadpodstawowej sportowej, publicznej szkoły ponadpodstawowej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału mistrzostwa sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej – po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2, oraz warunków, o których mowa w art. 137 ust. 1 pkt 1–3 ustawy – jeżeli szkoła dysponuje wolnymi miejscami. ” ;
 2)
 w § 7 skreśla się wyrazy „z wyjątkiem szkoły policealnej dla dorosłych,”;
 3)
@@ -90,11 +87,9 @@ w ust. 2 skreśla się wyrazy „i art. 141 ust. 1 pkt 4”;
 5)
 w § 11 wyrazy „§ 6 pkt 1–6” zastępuje się wyrazami „§ 6 pkt 1, 2 i 5–8”;
 6)
-w § 12 ust. 2 otrzymuje brzmienie:
-„
+w § 12 ust. 2 otrzymuje brzmienie: „
 2.
-Przepisu ust. 1 nie stosuje się do publicznej branżowej szkoły II stopnia i publicznej szkoły policealnej.
-” .
+Przepisu ust. 1 nie stosuje się do publicznej branżowej szkoły II stopnia i publicznej szkoły policealnej. ” .
 § 2.
 Do uczniów przybywających z zagranicy, którzy są kwalifikowani do odpowiednich klas lub na odpowiednie semestry publicznych szkół ponadpodstawowych, w których jest realizowana podstawa programowa kształcenia w zawodach, określona w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zgodnie z art. 94 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534), nie stosuje się warunku posiadania orzeczenia, o którym mowa w § 6 pkt 2 lit. c-e oraz pkt 4 lit. c-e rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
@@ -102,9 +97,7 @@ Na lata szkolne 2020/2021–2022/2023 do publicznej branżowej szkoły II stopni
 1)
 świadectwa lub innego dokumentu wydanego za granicą uznanych za dokumenty potwierdzające w Rzeczypospolitej Polskiej wykształcenie zasadnicze zawodowe na podstawie art. 93 ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty albo
 2)
-ostatecznej decyzji administracyjnej w sprawie potwierdzenia w Rzeczypospolitej Polskiej wykształcenia zasadniczego zawodowego, wydanej na podstawie art. 93a ustawy z dnia 7 września 1991 r. o systemie oświaty
-jeżeli szkoła dysponuje wolnymi miejscami. Przepisy § 6 pkt 3 lit. b-e i pkt 5 rozporządzenia zmienianego w § 1 , w brzmieniu nadanym niniejszym rozporządzeniem , stosuje się odpowiednio.
+ostatecznej decyzji administracyjnej w sprawie potwierdzenia w Rzeczypospolitej Polskiej wykształcenia zasadniczego zawodowego, wydanej na podstawie art. 93a ustawy z dnia 7 września 1991 r. o systemie oświaty – jeżeli szkoła dysponuje wolnymi miejscami. Przepisy § 6 pkt 3 lit. b-e i pkt 5 rozporządzenia zmienianego w § 1 , w brzmieniu nadanym niniejszym rozporządzeniem , stosuje się odpowiednio.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

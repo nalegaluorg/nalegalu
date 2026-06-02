@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 11 października 2024 r. w sprawie odliczania lub zwrotu wydatków poniesionych na zakup kas rejestrujących w przypadku wystąpienia klęski żywiołowej na skutek powodzi
+# Rozporządzenie Ministra Finansówz dnia 11 października 2024 r. w sprawie odliczania lub zwrotu wydatków poniesionych na zakup kas rejestrujących w przypadku wystąpienia klęski żywiołowej na skutek powodzi Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-11 |
 | Data wydania | 2024-10-11 |
-| Wejście w życie | 2024-10-12 |
 | Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001507) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1507/text.pdf) |
 
@@ -101,6 +100,5 @@ Podatnicy, którzy łącznie spełniają warunki, o których mowa w § 3 pkt 1�
 § 8.
 Odliczenie od podatku należnego lub zwrot, o których mowa w art. 111 ust. 5c ustawy, stosuje się również w przypadku podatników, którzy w okresie od dnia 16 września 2024 r. do dnia wejścia w życie niniejszego rozporządzenia zakupili kasę rejestrującą, o której mowa w art. 111 ust. 6a ustawy, w miejsce kasy utraconej lub trwale uszkodzonej w wyniku klęski żywiołowej na skutek powodzi. Przepisy § 3–6 stosuje się.
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

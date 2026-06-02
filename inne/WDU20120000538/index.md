@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-14 |
 | Data wydania | 2012-05-17 |
-| Wejście w życie | 2012-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000538) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/538/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 7 ust. 6 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 7 ust. 6 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy sposób przeprowadzania kontroli przez ministra właściwego do spraw rozwoju wsi, zwanego dalej „Ministrem”, w zakresie wykonywania przez samorząd województwa zadań związanych z dokonywaniem wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju oraz monitorowaniem i oceną realizacji tej strategii pod względem zgodności z przepisami prawa i Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 oraz prawidłowości wykonywania przez samorząd województwa tych zadań, zwanej dalej „kontrolą”.
 § 2.
@@ -177,5 +176,5 @@ Kierownik jednostki kontrolowanej, w terminie wskazanym w zaleceniach pokontroln
 § 13.
 Minister przekazuje na piśmie, do wiadomości agencji płatniczej, informację o wynikach przeprowadzonych kontroli, w terminie 21 dni kalendarzowych od dnia otrzymania podpisanej informacji pokontrolnej albo pisemnego wyjaśnienia odmowy podpisania tej informacji.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 maja 2009 r. w sprawie szczegółowego sposobu przeprowadzania kontroli w zakresie wykonywania przez samorząd województwa zadań związanych z dokonywaniem wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju (Dz. U. Nr 81, poz. 676), które utraciło moc z dniem 14 października 2011 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 20 maja 2009 r. w sprawie szczegółowego sposobu przeprowadzania kontroli w zakresie wykonywania przez samorząd województwa zadań związanych z dokonywaniem wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju (Dz. U. Nr 81, poz. 676), które utraciło moc z dniem 14 października 2011 r.
 

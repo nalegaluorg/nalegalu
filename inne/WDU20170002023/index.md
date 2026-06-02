@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-17 |
 | Data wydania | 2017-10-31 |
-| Wejście w życie | 2017-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002023) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2023/text.pdf) |
 
@@ -123,7 +122,7 @@ udziela wsparcia w zakresie ochrony przemieszczania na terytorium Rzeczypospolit
 3.
 W nagłych przypadkach osoby, o których mowa w ust. 2 pkt 1, mogą zwracać się o zapewnienie asysty, o której mowa w ust. 2 pkt 1, bezpośrednio do właściwego miejscowo organu Policji.
 § 11.
-Do zadań ministra jako koordynatora modułu systemu IMI, o którym mowa w art. 2 pkt 7 ustawy, oprócz zadań określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm.), należy:
+Do zadań ministra jako koordynatora modułu systemu IMI, o którym mowa w art. 2 pkt 7 ustawy, oprócz zadań określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 159 z 28.05.2014, str. 1, Dz. Urz. UE L 159 z 28.05.2014, str. 11, Dz. Urz. UE L 147 z 12.06.2015, str. 24, Dz. Urz. UE L 200 z 26.07.2016, str. 1 oraz Dz. Urz. UE L 252 z 16.09.2016, str. 53.), należy:
 1)
 rejestrowanie oraz wyrejestrowanie w systemie IMI (z powiadomieniem krajowego koordynatora systemu IMI) organów i podmiotów, o których mowa w art. 4 ust. 2 ustawy, jako organów właściwych, zwanych dalej „organami właściwymi”;
 2)
@@ -145,5 +144,5 @@ monitorowanie i koordynowanie sposobu wykorzystywania systemu IMI do realizacji 
 10)
 zapewnienie przeszkolenia użytkowników wyznaczonych przez organy właściwe w zakresie sposobu korzystania i obsługi modułu systemu IMI dotyczącego zwrotu dóbr kultury.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 159 z 28.05.2014, str. 1, Dz. Urz. UE L 159 z 28.05.2014, str. 11, Dz. Urz. UE L 147 z 12.06.2015, str. 24, Dz. Urz. UE L 200 z 26.07.2016, str. 1 oraz Dz. Urz. UE L 252 z 16.09.2016, str. 53.
 

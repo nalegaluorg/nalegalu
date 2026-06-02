@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-30 |
 | Data wydania | 2014-06-18 |
-| Wejście w życie | 2014-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/803/text.pdf) |
 
@@ -33,21 +32,17 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Podstawa programowa kształcenia ogólnego dla szkół podstawowych
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 2 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 2 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650 oraz z 2014 r. poz. 7, 290, 538, 598 i 642.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 27 sierpnia 2012 r. w sprawie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego w poszczególnych typach szkół (Dz. U. poz. 977) wprowadza się następujące zmiany:
 1)
-w § 1 pkt 1 otrzymuje brzmienie:
-„
+w § 1 pkt 1 otrzymuje brzmienie: „
 1)
-wychowania przedszkolnego dla przedszkoli oraz innych form wychowania przedszkolnego, stanowiącą załącznik nr 1 do rozporządzenia;
-” ;
+wychowania przedszkolnego dla przedszkoli oraz innych form wychowania przedszkolnego, stanowiącą załącznik nr 1 do rozporządzenia; ” ;
 2)
-po § 2 dodaje się § 2a w brzmieniu:
-„
+po § 2 dodaje się § 2a w brzmieniu: „
 § 2a.
-Podstawę programową wychowania przedszkolnego dla przedszkoli oraz innych form wychowania przedszkolnego, określoną w załączniku nr 1 do rozporządzenia, stosuje się także do prowadzenia wychowania przedszkolnego w ośrodkach umożliwiających dzieciom z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi realizację obowiązku rocznego przygotowania przedszkolnego.
-” ;
+Podstawę programową wychowania przedszkolnego dla przedszkoli oraz innych form wychowania przedszkolnego, określoną w załączniku nr 1 do rozporządzenia, stosuje się także do prowadzenia wychowania przedszkolnego w ośrodkach umożliwiających dzieciom z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi realizację obowiązku rocznego przygotowania przedszkolnego. ” ;
 3)
 załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
 § 2.
@@ -60,14 +55,13 @@ W latach szkolnych 2014/2015–2016/2017, w zależności od możliwości organiz
 1)
 przedszkola oraz prowadzonej przez jednostkę samorządu terytorialnego innej formy wychowania przedszkolnego – dyrektor przedszkola lub szkoły podstawowej, po uzyskaniu opinii rady pedagogicznej oraz za zgodą organu prowadzącego,
 2)
-innej formy wychowania przedszkolnego prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną – osoba kierująca inną formą wychowania przedszkolnego, za zgodą organu prowadzącego
-może postanowić o stosowaniu podstawy programowej wychowania przedszkolnego, określonej w załączniku nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w zakresie dotyczącym przygotowania dzieci do posługiwania się językiem obcym nowożytnym, do wszystkich albo niektórych oddziałów w przedszkolu lub do wszystkich dzieci korzystających z wychowania przedszkolnego w innej formie wychowania przedszkolnego, z uwzględnieniem ust. 2.
+innej formy wychowania przedszkolnego prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną – osoba kierująca inną formą wychowania przedszkolnego, za zgodą organu prowadzącego – może postanowić o stosowaniu podstawy programowej wychowania przedszkolnego, określonej w załączniku nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w zakresie dotyczącym przygotowania dzieci do posługiwania się językiem obcym nowożytnym, do wszystkich albo niektórych oddziałów w przedszkolu lub do wszystkich dzieci korzystających z wychowania przedszkolnego w innej formie wychowania przedszkolnego, z uwzględnieniem ust. 2.
 4.
 Przepis ust. 3 stosuje się odpowiednio do ośrodków umożliwiających dzieciom z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi realizację obowiązku rocznego przygotowania przedszkolnego.
 § 3.
 W latach szkolnych 2014/2015 i 2015/2016 podstawę programową wychowania przedszkolnego dla przedszkoli oraz innych form wychowania przedszkolnego, określoną w załączniku nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się także do oddziałów przedszkolnych w szkołach podstawowych. Przepisy § 2 stosuje się odpowiednio.
 § 4.
-Rozporządzenie wchodzi w życie z dniem 1 września 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650 oraz z 2014 r. poz. 7, 290, 538, 598 i 642.
 
 ## Załącznik nr 1 — – Podstawa programowa wychowania przedszkolnego dla przedszkoli oraz innych form wychowania przedszkolnego
 
@@ -95,8 +89,7 @@ zapewnienie dzieciom lepszych szans edukacyjnych poprzez wspieranie ich ciekawo�
 11)
 przygotowanie dzieci do posługiwania się językiem obcym nowożytnym poprzez rozbudzanie ich świadomości językowej i wrażliwości kulturowej oraz budowanie pozytywnej motywacji do nauki języków obcych na dalszych etapach edukacyjnych, a w przypadku dzieci z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym – rozwijanie świadomości istnienia odmienności językowej i kulturowej;
 12)
-w przedszkolach umożliwiających dzieciom należącym do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym, o których mowa w ustawie z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141, z późn. zm.), podtrzymywanie i rozwijanie poczucia tożsamości narodowej, etnicznej i językowej – przygotowanie dzieci do posługiwania się językiem mniejszości narodowej lub etnicznej lub językiem regionalnym poprzez rozbudzanie ich świadomości narodowej, etnicznej i językowej oraz budowanie pozytywnej motywacji do nauki języka mniejszości narodowej lub etnicznej lub języka regionalnego na dalszych etapach edukacyjnych.
-Przedszkola, inne formy wychowania przedszkolnego oraz poszczególni nauczyciele podejmują działania mające na celu zindywidualizowane wspomaganie rozwoju każdego dziecka, stosownie do jego potrzeb i możliwości, a w przypadku dzieci niepełnosprawnych, w tym dzieci z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym – stosownie także do ich możliwości psychofizycznych i komunikacyjnych oraz tempa rozwoju psychofizycznego. Cele te są realizowane we wszystkich obszarach działalności edukacyjnej przedszkola oraz innej formy wychowania przedszkolnego. W każdym z obszarów są podane umiejętności i wiadomości, którymi dzieci kończące wychowanie przedszkolne powinny się wykazywać. Aby osiągnąć cele wychowania przedszkolnego, należy wspomagać rozwój, wychowywać i kształcić dzieci w następujących obszarach:
+w przedszkolach umożliwiających dzieciom należącym do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym, o których mowa w ustawie z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 62, poz. 550 oraz z 2009 r. Nr 31, poz. 206 i Nr 157, poz. 1241.), podtrzymywanie i rozwijanie poczucia tożsamości narodowej, etnicznej i językowej – przygotowanie dzieci do posługiwania się językiem mniejszości narodowej lub etnicznej lub językiem regionalnym poprzez rozbudzanie ich świadomości narodowej, etnicznej i językowej oraz budowanie pozytywnej motywacji do nauki języka mniejszości narodowej lub etnicznej lub języka regionalnego na dalszych etapach edukacyjnych. Przedszkola, inne formy wychowania przedszkolnego oraz poszczególni nauczyciele podejmują działania mające na celu zindywidualizowane wspomaganie rozwoju każdego dziecka, stosownie do jego potrzeb i możliwości, a w przypadku dzieci niepełnosprawnych, w tym dzieci z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym – stosownie także do ich możliwości psychofizycznych i komunikacyjnych oraz tempa rozwoju psychofizycznego. Cele te są realizowane we wszystkich obszarach działalności edukacyjnej przedszkola oraz innej formy wychowania przedszkolnego. W każdym z obszarów są podane umiejętności i wiadomości, którymi dzieci kończące wychowanie przedszkolne powinny się wykazywać. Aby osiągnąć cele wychowania przedszkolnego, należy wspomagać rozwój, wychowywać i kształcić dzieci w następujących obszarach:
 1.
 Kształtowanie umiejętności społecznych dzieci: porozumiewanie się z dorosłymi i dziećmi, zgodne funkcjonowanie w zabawie i w sytuacjach zadaniowych. Dziecko kończące wychowanie przedszkolne i rozpoczynające naukę w szkole podstawowej:
 1)
@@ -272,8 +265,7 @@ rozumie ogólny sens krótkich historyjek opowiadanych lub czytanych w języku m
 5)
 wie, do jakiej wspólnoty narodowej, etnicznej lub językowej należy;
 6)
-zna godło swojej wspólnoty narodowej, etnicznej lub językowej.
-Zalecane warunki i sposób realizacji W trosce o prawidłowy rozwój psychoruchowy oraz przebieg wychowania i kształcenia dzieci w wieku przedszkolnym zaleca się następujące proporcje zagospodarowania czasu przebywania w przedszkolu oraz innej formie wychowania przedszkolnego, w rozliczeniu tygodniowym:
+zna godło swojej wspólnoty narodowej, etnicznej lub językowej. Zalecane warunki i sposób realizacji W trosce o prawidłowy rozwój psychoruchowy oraz przebieg wychowania i kształcenia dzieci w wieku przedszkolnym zaleca się następujące proporcje zagospodarowania czasu przebywania w przedszkolu oraz innej formie wychowania przedszkolnego, w rozliczeniu tygodniowym:
 1)
 co najmniej jedną piątą czasu należy przeznaczyć na zabawę (w tym czasie dzieci bawią się swobodnie, przy niewielkim udziale nauczyciela);
 2)
@@ -281,22 +273,19 @@ co najmniej jedną piątą czasu (w przypadku młodszych dzieci – jedną czwar
 3)
 najwyżej jedną piątą czasu zajmują różnego typu zajęcia dydaktyczne, realizowane według programu wychowania przedszkolnego;
 4)
-pozostały czas – dwie piąte czasu nauczyciel może dowolnie zagospodarować (w tej puli czasu mieszczą się w szczególności czynności opiekuńcze, samoobsługowe, organizacyjne).
-Zadaniem nauczycieli jest prowadzenie obserwacji pedagogicznych mających na celu poznanie możliwości i potrzeb rozwojowych dzieci oraz dokumentowanie tych obserwacji. Z początkiem roku poprzedzającego rozpoczęcie przez dziecko nauki w klasie I szkoły podstawowej należy przeprowadzić analizę gotowości dziecka do podjęcia nauki w szkole (diagnoza przedszkolna). Celem takiej analizy jest zgromadzenie informacji, które mogą pomóc:
+pozostały czas – dwie piąte czasu nauczyciel może dowolnie zagospodarować (w tej puli czasu mieszczą się w szczególności czynności opiekuńcze, samoobsługowe, organizacyjne). Zadaniem nauczycieli jest prowadzenie obserwacji pedagogicznych mających na celu poznanie możliwości i potrzeb rozwojowych dzieci oraz dokumentowanie tych obserwacji. Z początkiem roku poprzedzającego rozpoczęcie przez dziecko nauki w klasie I szkoły podstawowej należy przeprowadzić analizę gotowości dziecka do podjęcia nauki w szkole (diagnoza przedszkolna). Celem takiej analizy jest zgromadzenie informacji, które mogą pomóc:
 1)
 rodzicom w poznaniu stanu gotowości dziecka do podjęcia nauki w szkole podstawowej, aby mogli je w osiąganiu tej gotowości, odpowiednio do potrzeb, wspomagać;
 2)
 nauczycielowi przedszkola oraz innej formy wychowania przedszkolnego przy opracowaniu indywidualnego programu wspomagania i korygowania rozwoju dziecka, który będzie realizowany w roku poprzedzającym rozpoczęcie nauki w szkole podstawowej, a w przypadku dziecka posiadającego orzeczenie o potrzebie kształcenia specjalnego – zespołowi nauczycieli i specjalistów przy opracowywaniu lub modyfikowaniu indywidualnego programu edukacyjno-terapeutycznego;
 3)
-pracownikom poradni psychologiczno-pedagogicznej przeprowadzającym, w razie potrzeby związanej ze specjalnymi potrzebami edukacyjnymi, pogłębioną diagnozę dziecka.
-W wielu obszarach wychowania przedszkolnego występują treści edukacji zdrowotnej. Ze względu na dobro dzieci należy zadbać o kształtowanie ich świadomości zdrowotnej oraz nawyków dbania o własne zdrowie w codziennych sytuacjach w przedszkolu i w domu, współpracując w tym zakresie z rodzicami. Przygotowanie dzieci do posługiwania się językiem obcym nowożytnym powinno być włączone w różne działania realizowane w ramach programu wychowania przedszkolnego i powinno odbywać się przede wszystkim w formie zabawy. Należy stworzyć warunki umożliwiające dzieciom osłuchanie się z językiem obcym w różnych sytuacjach życia codziennego. Może to zostać zrealizowane m.in. poprzez kierowanie do dzieci bardzo prostych poleceń w języku obcym nowożytnym w toku różnych zajęć i zabaw, wspólną lekturę książeczek dla dzieci w języku obcym, włączenie do zajęć rymowanek, prostych wierszyków, piosenek, materiałów audiowizualnych w języku obcym. Dokonując wyboru języka obcego nowożytnego, do posługiwania się którym będą przygotowywane dzieci uczęszczające do przedszkola lub innej formy wychowania przedszkolnego, należy brać pod uwagę, jaki język obcy nowożytny jest nauczany w szkołach podstawowych na terenie danej gminy. Realizację programu wychowania przedszkolnego, uwzględniającego podstawę programową wychowania przedszkolnego, w oddziale w przedszkolu lub w innej formie wychowania przedszkolnego, zależnie od czasu pracy oddziału lub innej formy wychowania przedszkolnego, powierza się jednemu lub dwóm nauczycielom. Prowadzenie zajęć lub części zajęć z zakresu kształtowania sprawności fizycznej dzieci, wychowania przez sztukę oraz przygotowania dzieci do posługiwania się językiem obcym nowożytnym można powierzyć innym nauczycielom posiadającym odpowiednie kwalifikacje określone w przepisach w sprawie szczegółowych kwalifikacji wymaganych od nauczycieli oraz określenia szkół i wypadków, w których można zatrudnić nauczycieli niemających wyższego wykształcenia lub ukończonego zakładu kształcenia nauczycieli. W trosce o jednolite oddziaływanie wychowawcze nauczyciele:
+pracownikom poradni psychologiczno-pedagogicznej przeprowadzającym, w razie potrzeby związanej ze specjalnymi potrzebami edukacyjnymi, pogłębioną diagnozę dziecka. W wielu obszarach wychowania przedszkolnego występują treści edukacji zdrowotnej. Ze względu na dobro dzieci należy zadbać o kształtowanie ich świadomości zdrowotnej oraz nawyków dbania o własne zdrowie w codziennych sytuacjach w przedszkolu i w domu, współpracując w tym zakresie z rodzicami. Przygotowanie dzieci do posługiwania się językiem obcym nowożytnym powinno być włączone w różne działania realizowane w ramach programu wychowania przedszkolnego i powinno odbywać się przede wszystkim w formie zabawy. Należy stworzyć warunki umożliwiające dzieciom osłuchanie się z językiem obcym w różnych sytuacjach życia codziennego. Może to zostać zrealizowane m.in. poprzez kierowanie do dzieci bardzo prostych poleceń w języku obcym nowożytnym w toku różnych zajęć i zabaw, wspólną lekturę książeczek dla dzieci w języku obcym, włączenie do zajęć rymowanek, prostych wierszyków, piosenek, materiałów audiowizualnych w języku obcym. Dokonując wyboru języka obcego nowożytnego, do posługiwania się którym będą przygotowywane dzieci uczęszczające do przedszkola lub innej formy wychowania przedszkolnego, należy brać pod uwagę, jaki język obcy nowożytny jest nauczany w szkołach podstawowych na terenie danej gminy. Realizację programu wychowania przedszkolnego, uwzględniającego podstawę programową wychowania przedszkolnego, w oddziale w przedszkolu lub w innej formie wychowania przedszkolnego, zależnie od czasu pracy oddziału lub innej formy wychowania przedszkolnego, powierza się jednemu lub dwóm nauczycielom. Prowadzenie zajęć lub części zajęć z zakresu kształtowania sprawności fizycznej dzieci, wychowania przez sztukę oraz przygotowania dzieci do posługiwania się językiem obcym nowożytnym można powierzyć innym nauczycielom posiadającym odpowiednie kwalifikacje określone w przepisach w sprawie szczegółowych kwalifikacji wymaganych od nauczycieli oraz określenia szkół i wypadków, w których można zatrudnić nauczycieli niemających wyższego wykształcenia lub ukończonego zakładu kształcenia nauczycieli. W trosce o jednolite oddziaływanie wychowawcze nauczyciele:
 1)
 systematycznie informują rodziców o zadaniach wychowawczych i kształcących realizowanych w przedszkolu lub innej formie wychowania przedszkolnego; zapoznają rodziców z podstawą programową wychowania przedszkolnego i włączają ich do procesu nabywania przez dzieci wiadomości i umiejętności w niej określonych;
 2)
 informują rodziców o sukcesach i kłopotach ich dzieci, a także włączają ich do wspierania osiągnięć rozwojowych dzieci i łagodzenia trudności, na jakie one natrafiają;
 3)
-zachęcają rodziców do współdecydowania w sprawach przedszkola lub innej formy wychowania przedszkolnego, np. wspólnie organizują wydarzenia, w których biorą udział dzieci.
-W celu właściwego przygotowania dzieci do podjęcia nauki w szkole podstawowej nauczyciele powinni znać podstawę programową kształcenia ogólnego dla szkół podstawowych w zakresie I etapu edukacyjnego.
+zachęcają rodziców do współdecydowania w sprawach przedszkola lub innej formy wychowania przedszkolnego, np. wspólnie organizują wydarzenia, w których biorą udział dzieci. W celu właściwego przygotowania dzieci do podjęcia nauki w szkole podstawowej nauczyciele powinni znać podstawę programową kształcenia ogólnego dla szkół podstawowych w zakresie I etapu edukacyjnego. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 62, poz. 550 oraz z 2009 r. Nr 31, poz. 206 i Nr 157, poz. 1241.
 
 ## Załącznik nr 2 — – Podstawa programowa kształcenia ogólnego dla szkół podstawowych
 
@@ -304,15 +293,13 @@ Kształcenie ogólne w szkole podstawowej tworzy fundament wykształcenia – sz
 1)
 I etap edukacyjny, obejmujący klasy I-III szkoły podstawowej – edukacja wczesnoszkolna;
 2)
-II etap edukacyjny, obejmujący klasy IV-VI szkoły podstawowej.
-Celem kształcenia ogólnego w szkole podstawowej jest:
+II etap edukacyjny, obejmujący klasy IV-VI szkoły podstawowej. Celem kształcenia ogólnego w szkole podstawowej jest:
 1)
 przyswojenie przez uczniów podstawowego zasobu wiadomości na temat faktów, zasad, teorii i praktyki, dotyczących przede wszystkim tematów i zjawisk bliskich doświadczeniom uczniów;
 2)
 zdobycie przez uczniów umiejętności wykorzystywania posiadanych wiadomości podczas wykonywania zadań i rozwiązywania problemów;
 3)
-kształtowanie u uczniów postaw warunkujących sprawne i odpowiedzialne funkcjonowanie we współczesnym świecie.
-Do najważniejszych umiejętności zdobywanych przez ucznia w trakcie kształcenia ogólnego w szkole podstawowej należą:
+kształtowanie u uczniów postaw warunkujących sprawne i odpowiedzialne funkcjonowanie we współczesnym świecie. Do najważniejszych umiejętności zdobywanych przez ucznia w trakcie kształcenia ogólnego w szkole podstawowej należą:
 1)
 czytanie – rozumiane zarówno jako prosta czynność, jak i jako umiejętność rozumienia, wykorzystywania i przetwarzania tekstów w zakresie umożliwiającym zdobywanie wiedzy, rozwój emocjonalny, intelektualny i moralny oraz uczestnictwo w życiu społeczeństwa;
 2)
@@ -326,15 +313,13 @@ umiejętność posługiwania się nowoczesnymi technologiami informacyjno-komuni
 6)
 umiejętność uczenia się jako sposób zaspokajania naturalnej ciekawości świata, odkrywania swoich zainteresowań i przygotowania do dalszej edukacji;
 7)
-umiejętność pracy zespołowej.
-Jednym z najważniejszych zadań szkoły podstawowej jest kształcenie umiejętności posługiwania się językiem polskim, w tym dbałość o wzbogacanie zasobu słownictwa uczniów. Wypełnianie tego zadania należy do obowiązków każdego nauczyciela. Ważnym zadaniem szkoły podstawowej jest przygotowanie uczniów do życia w społeczeństwie informacyjnym. Nauczyciele powinni stwarzać uczniom warunki do nabywania umiejętności wyszukiwania, porządkowania i wykorzystywania informacji z różnych źródeł, z zastosowaniem technologii informacyjno-komunikacyjnych, na zajęciach z różnych przedmiotów. Realizację powyższych celów powinna wspomagać dobrze wyposażona biblioteka szkolna, dysponująca aktualnymi zbiorami, zarówno w postaci księgozbioru, jak i w postaci zasobów multimedialnych. Nauczyciele wszystkich przedmiotów powinni odwoływać się do zasobów biblioteki szkolnej i współpracować z nauczycielami bibliotekarzami w celu wszechstronnego przygotowania uczniów do samokształcenia i świadomego wyszukiwania, selekcjonowania i wykorzystywania informacji. Ponieważ środki społecznego przekazu odgrywają coraz większą rolę zarówno w życiu społecznym, jak i indywidualnym, każdy nauczyciel powinien poświęcić dużo uwagi edukacji medialnej, czyli wychowaniu uczniów do właściwego odbioru i wykorzystania mediów. Ważnym zadaniem szkoły podstawowej jest także edukacja zdrowotna, której celem jest kształtowanie u uczniów nawyku dbałości o zdrowie własne i innych ludzi oraz umiejętności tworzenia środowiska sprzyjającego zdrowiu. W procesie kształcenia ogólnego szkoła podstawowa kształtuje u uczniów postawy sprzyjające ich dalszemu rozwojowi indywidualnemu i społecznemu, takie jak: uczciwość, wiarygodność, odpowiedzialność, wytrwałość, poczucie własnej wartości, szacunek dla innych ludzi, ciekawość poznawcza, kreatywność, przedsiębiorczość, kultura osobista, gotowość do uczestnictwa w kulturze, podejmowania inicjatyw oraz do pracy zespołowej. W rozwoju społecznym bardzo ważne jest kształtowanie postawy obywatelskiej, postawy poszanowania tradycji i kultury własnego narodu, a także postawy poszanowania dla innych kultur i tradycji. Szkoła podejmuje odpowiednie kroki w celu zapobiegania wszelkiej dyskryminacji. Wiadomości i umiejętności, które uczeń zdobywa w szkole podstawowej, są opisane, zgodnie z ideą europejskich ram kwalifikacji, w języku efektów kształcenia. Cele kształcenia są sformułowane w języku wymagań ogólnych, a treści nauczania oraz oczekiwane umiejętności uczniów są sformułowane w języku wymagań szczegółowych. Działalność edukacyjna szkoły jest określona przez:
+umiejętność pracy zespołowej. Jednym z najważniejszych zadań szkoły podstawowej jest kształcenie umiejętności posługiwania się językiem polskim, w tym dbałość o wzbogacanie zasobu słownictwa uczniów. Wypełnianie tego zadania należy do obowiązków każdego nauczyciela. Ważnym zadaniem szkoły podstawowej jest przygotowanie uczniów do życia w społeczeństwie informacyjnym. Nauczyciele powinni stwarzać uczniom warunki do nabywania umiejętności wyszukiwania, porządkowania i wykorzystywania informacji z różnych źródeł, z zastosowaniem technologii informacyjno-komunikacyjnych, na zajęciach z różnych przedmiotów. Realizację powyższych celów powinna wspomagać dobrze wyposażona biblioteka szkolna, dysponująca aktualnymi zbiorami, zarówno w postaci księgozbioru, jak i w postaci zasobów multimedialnych. Nauczyciele wszystkich przedmiotów powinni odwoływać się do zasobów biblioteki szkolnej i współpracować z nauczycielami bibliotekarzami w celu wszechstronnego przygotowania uczniów do samokształcenia i świadomego wyszukiwania, selekcjonowania i wykorzystywania informacji. Ponieważ środki społecznego przekazu odgrywają coraz większą rolę zarówno w życiu społecznym, jak i indywidualnym, każdy nauczyciel powinien poświęcić dużo uwagi edukacji medialnej, czyli wychowaniu uczniów do właściwego odbioru i wykorzystania mediów. Ważnym zadaniem szkoły podstawowej jest także edukacja zdrowotna, której celem jest kształtowanie u uczniów nawyku dbałości o zdrowie własne i innych ludzi oraz umiejętności tworzenia środowiska sprzyjającego zdrowiu. W procesie kształcenia ogólnego szkoła podstawowa kształtuje u uczniów postawy sprzyjające ich dalszemu rozwojowi indywidualnemu i społecznemu, takie jak: uczciwość, wiarygodność, odpowiedzialność, wytrwałość, poczucie własnej wartości, szacunek dla innych ludzi, ciekawość poznawcza, kreatywność, przedsiębiorczość, kultura osobista, gotowość do uczestnictwa w kulturze, podejmowania inicjatyw oraz do pracy zespołowej. W rozwoju społecznym bardzo ważne jest kształtowanie postawy obywatelskiej, postawy poszanowania tradycji i kultury własnego narodu, a także postawy poszanowania dla innych kultur i tradycji. Szkoła podejmuje odpowiednie kroki w celu zapobiegania wszelkiej dyskryminacji. Wiadomości i umiejętności, które uczeń zdobywa w szkole podstawowej, są opisane, zgodnie z ideą europejskich ram kwalifikacji, w języku efektów kształceniaZalecenie Parlamentu Europejskiego i Rady z dnia 23 kwietnia 2008 r. w sprawie ustanowienia europejskich ram kwalifikacji dla uczenia się przez całe życie (2008/C111/01).. Cele kształcenia są sformułowane w języku wymagań ogólnych, a treści nauczania oraz oczekiwane umiejętności uczniów są sformułowane w języku wymagań szczegółowych. Działalność edukacyjna szkoły jest określona przez:
 1)
 szkolny zestaw programów nauczania, który, uwzględniając wymiar wychowawczy, obejmuje całą działalność szkoły z punktu widzenia dydaktycznego;
 2)
 program wychowawczy szkoły, obejmujący wszystkie treści i działania o charakterze wychowawczym;
 3)
-program profilaktyki, dostosowany do potrzeb rozwojowych uczniów oraz potrzeb danego środowiska, obejmujący wszystkie treści i działania o charakterze profilaktycznym.
-Szkolny zestaw programów nauczania, program wychowawczy szkoły oraz program profilaktyki tworzą spójną całość i muszą uwzględniać wszystkie wymagania opisane w podstawie programowej. Ich przygotowanie i realizacja są zadaniem zarówno całej szkoły, jak i każdego nauczyciela. Obok zadań wychowawczych i profilaktycznych nauczyciele wykonują również działania opiekuńcze odpowiednio do istniejących potrzeb. Szkoła oraz poszczególni nauczyciele podejmują działania mające na celu zindywidualizowane wspomaganie rozwoju każdego ucznia, stosownie do jego potrzeb i możliwości. Uczniom z niepełnosprawnościami, w tym uczniom z upośledzeniem umysłowym w stopniu lekkim, nauczanie dostosowuje się ponadto do ich możliwości psychofizycznych oraz tempa uczenia się. Podstawa programowa kształcenia ogólnego dla szkół podstawowych dzieli się na dwa etapy edukacyjne:
+program profilaktyki, dostosowany do potrzeb rozwojowych uczniów oraz potrzeb danego środowiska, obejmujący wszystkie treści i działania o charakterze profilaktycznym. Szkolny zestaw programów nauczania, program wychowawczy szkoły oraz program profilaktyki tworzą spójną całość i muszą uwzględniać wszystkie wymagania opisane w podstawie programowej. Ich przygotowanie i realizacja są zadaniem zarówno całej szkoły, jak i każdego nauczyciela. Obok zadań wychowawczych i profilaktycznych nauczyciele wykonują również działania opiekuńcze odpowiednio do istniejących potrzeb. Szkoła oraz poszczególni nauczyciele podejmują działania mające na celu zindywidualizowane wspomaganie rozwoju każdego ucznia, stosownie do jego potrzeb i możliwości. Uczniom z niepełnosprawnościami, w tym uczniom z upośledzeniem umysłowym w stopniu lekkim, nauczanie dostosowuje się ponadto do ich możliwości psychofizycznych oraz tempa uczenia się. Podstawa programowa kształcenia ogólnego dla szkół podstawowych dzieli się na dwa etapy edukacyjne:
 1)
 I etap edukacyjny, obejmujący klasy I-III – edukacja wczesnoszkolna, która jest realizowana w formie kształcenia zintegrowanego;
 2)
@@ -360,19 +345,17 @@ zajęcia techniczne,
 j)
 wychowanie fizyczne,
 k)
-wychowanie do życia w rodzinie,
+wychowanie do życia w rodzinieSposób nauczania przedmiotu wychowanie do życia w rodzinie określa rozporządzenie Ministra Edukacji Narodowej z dnia 12 sierpnia 1999 r. w sprawie sposobu nauczania szkolnego oraz zakresu treści dotyczących wiedzy o życiu seksualnym człowieka, o zasadach świadomego i odpowiedzialnego rodzicielstwa, o wartości rodziny, życia w fazie prenatalnej oraz metodach i środkach świadomej prokreacji zawartych w podstawie programowej kształcenia ogólnego (Dz. U. z 2014 r. poz. 395).,
 l)
 etyka,
 m)
-język mniejszości narodowej lub etnicznej,
+język mniejszości narodowej lub etnicznejPrzedmiot język mniejszości narodowej lub etnicznej oraz przedmiot język regionalny – język kaszubski jest realizowany w szkołach (oddziałach) z nauczaniem języka mniejszości narodowych lub etnicznych oraz języka regionalnego – języka kaszubskiego, zgodnie z rozporządzeniem Ministra Edukacji Narodowej z dnia 14 listopada 2007 r. w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym (Dz. U. z 2014 r. poz. 263).,
 n)
-język regionalny – język kaszubski.
-aaaI ETAP EDUKACYJNY: KLASY I-III aaaEDUKACJA WCZESNOSZKOLNA Edukacja wczesnoszkolna to proces rozłożony na 3 lata, w czasie którego dziecko ma być stopniowo i możliwie łagodnie przeprowadzone z kształcenia zintegrowanego do nauczania przedmiotowego w klasach IV-VI szkoły podstawowej. W klasach I-III szkoły podstawowej konieczne jest uwzględnienie przez nauczycieli i specjalistów pracujących z dziećmi w młodszym wieku szkolnym ich indywidualnych możliwości intelektualnych, emocjonalnych, społecznych i psychofizycznych. Edukacja wczesnoszkolna opisana jest poprzez:
+język regionalny – język kaszubskiPrzedmiot język mniejszości narodowej lub etnicznej oraz przedmiot język regionalny – język kaszubski jest realizowany w szkołach (oddziałach) z nauczaniem języka mniejszości narodowych lub etnicznych oraz języka regionalnego – języka kaszubskiego, zgodnie z rozporządzeniem Ministra Edukacji Narodowej z dnia 14 listopada 2007 r. w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym (Dz. U. z 2014 r. poz. 263).. aaaI ETAP EDUKACYJNY: KLASY I-III aaaEDUKACJA WCZESNOSZKOLNA Edukacja wczesnoszkolna to proces rozłożony na 3 lata, w czasie którego dziecko ma być stopniowo i możliwie łagodnie przeprowadzone z kształcenia zintegrowanego do nauczania przedmiotowego w klasach IV-VI szkoły podstawowej. W klasach I-III szkoły podstawowej konieczne jest uwzględnienie przez nauczycieli i specjalistów pracujących z dziećmi w młodszym wieku szkolnym ich indywidualnych możliwości intelektualnych, emocjonalnych, społecznych i psychofizycznych. Edukacja wczesnoszkolna opisana jest poprzez:
 1)
 zestaw celów kształcenia i wynikających z nich ogólnych zadań szkoły;
 2)
-wykaz wiadomości i umiejętności ucznia kończącego klasę III szkoły podstawowej.
-Zakres wiadomości i umiejętności, jakimi ma dysponować uczeń kończący klasę III szkoły podstawowej, ustalono tak, aby nauczyciel mógł je zrealizować w przeciętnych warunkach edukacyjnych. Jest to ważne założenie, gdyż wiadomości i umiejętności ukształtowane w klasach I-III szkoły podstawowej stanowią bazę i punkt wyjścia do nauki w klasach IV-VI szkoły podstawowej. W sprzyjających warunkach edukacyjnych można kształcenie zorganizować tak, aby uczniowie w ciągu I etapu edukacyjnego nauczyli się znacznie więcej. Należy jednak mieć na uwadze, że niektórym uczniom trzeba udzielić adekwatnej do ich potrzeb pomocy, żeby mogli sprostać wymaganiom określonym w podstawie programowej kształcenia ogólnego dla szkół podstawowych w zakresie I etapu edukacyjnego. Cele kształcenia – wymagania ogólne Celem edukacji wczesnoszkolnej jest wspomaganie dziecka w rozwoju intelektualnym, emocjonalnym, społecznym, etycznym, fizycznym i estetycznym. Ważne jest również takie wychowanie, aby dziecko, w miarę swoich możliwości, było przygotowane do życia w zgodzie z samym sobą, ludźmi i przyrodą. Należy zadbać o to, aby dziecko odróżniało dobro od zła, było świadome przynależności społecznej (do rodziny, grupy rówieśniczej i wspólnoty narodowej) oraz rozumiało konieczność dbania o przyrodę. Jednocześnie dąży się do ukształtowania systemu wiadomości i umiejętności potrzebnych dziecku do poznawania i rozumienia świata, radzenia sobie w codziennych sytuacjach oraz do kontynuowania nauki w klasach IV-VI szkoły podstawowej. Zadaniem szkoły jest:
+wykaz wiadomości i umiejętności ucznia kończącego klasę III szkoły podstawowej. Zakres wiadomości i umiejętności, jakimi ma dysponować uczeń kończący klasę III szkoły podstawowej, ustalono tak, aby nauczyciel mógł je zrealizować w przeciętnych warunkach edukacyjnych. Jest to ważne założenie, gdyż wiadomości i umiejętności ukształtowane w klasach I-III szkoły podstawowej stanowią bazę i punkt wyjścia do nauki w klasach IV-VI szkoły podstawowej. W sprzyjających warunkach edukacyjnych można kształcenie zorganizować tak, aby uczniowie w ciągu I etapu edukacyjnego nauczyli się znacznie więcej. Należy jednak mieć na uwadze, że niektórym uczniom trzeba udzielić adekwatnej do ich potrzeb pomocy, żeby mogli sprostać wymaganiom określonym w podstawie programowej kształcenia ogólnego dla szkół podstawowych w zakresie I etapu edukacyjnego. Cele kształcenia – wymagania ogólne Celem edukacji wczesnoszkolnej jest wspomaganie dziecka w rozwoju intelektualnym, emocjonalnym, społecznym, etycznym, fizycznym i estetycznym. Ważne jest również takie wychowanie, aby dziecko, w miarę swoich możliwości, było przygotowane do życia w zgodzie z samym sobą, ludźmi i przyrodą. Należy zadbać o to, aby dziecko odróżniało dobro od zła, było świadome przynależności społecznej (do rodziny, grupy rówieśniczej i wspólnoty narodowej) oraz rozumiało konieczność dbania o przyrodę. Jednocześnie dąży się do ukształtowania systemu wiadomości i umiejętności potrzebnych dziecku do poznawania i rozumienia świata, radzenia sobie w codziennych sytuacjach oraz do kontynuowania nauki w klasach IV-VI szkoły podstawowej. Zadaniem szkoły jest:
 1)
 realizowanie programu nauczania skoncentrowanego na dziecku, na jego indywidualnym tempie rozwoju i możliwościach uczenia się;
 2)
@@ -388,8 +371,7 @@ wyposażenie dziecka w umiejętność czytania i pisania, w wiadomości i sprawn
 7)
 dbałość o to, aby dziecko mogło nabywać wiedzę i umiejętności potrzebne do rozumienia świata, w tym zagwarantowanie mu dostępu do różnych źródeł informacji i możliwości korzystania z nich;
 8)
-sprzyjanie rozwojowi cech osobowości dziecka koniecznych do aktywnego i etycznego uczestnictwa w życiu społecznym.
-Treści nauczania – wymagania szczegółowe
+sprzyjanie rozwojowi cech osobowości dziecka koniecznych do aktywnego i etycznego uczestnictwa w życiu społecznym. Treści nauczania – wymagania szczegółowe
 1.
 Edukacja polonistyczna. Uczeń:
 1)
@@ -699,8 +681,7 @@ dba o prawidłową postawę, np. siedząc w ławce, przy stole,
 e)
 przestrzega zasad bezpiecznego zachowania się w trakcie zajęć ruchowych; posługuje się przyborami sportowymi zgodnie z ich przeznaczeniem,
 f)
-potrafi wybrać bezpieczne miejsce do zabaw i gier ruchowych; wie, do kogo zwrócić się o pomoc w sytuacji zagrożenia zdrowia lub życia.
-Podane umiejętności dotyczą dzieci o prawidłowym rozwoju fizycznym. Umiejętności dzieci niepełnosprawnych ustala się stosownie do ich możliwości.
+potrafi wybrać bezpieczne miejsce do zabaw i gier ruchowych; wie, do kogo zwrócić się o pomoc w sytuacji zagrożenia zdrowia lub życia. Podane umiejętności dotyczą dzieci o prawidłowym rozwoju fizycznym. Umiejętności dzieci niepełnosprawnych ustala się stosownie do ich możliwości.
 11.
 Etyka. Uczeń:
 1)
@@ -820,8 +801,7 @@ wygłasza z pamięci krótkie teksty w języku kaszubskim:
 a)
 recytuje wierszyki i rymowanki, śpiewa piosenki z repertuaru dziecięcego,
 b)
-czyta i recytuje teksty kaszubskie, z uwzględnieniem interpunkcji i intonacji.
-Zalecane warunki i sposób realizacji
+czyta i recytuje teksty kaszubskie, z uwzględnieniem interpunkcji i intonacji. Zalecane warunki i sposób realizacji
 1.
 Dla zapewnienia ciągłości wychowania i kształcenia nauczyciele uczący w klasach I-III szkoły podstawowej powinni znać podstawę programową wychowania przedszkolnego.
 2.
@@ -861,15 +841,13 @@ Odpowiednio do istniejących potrzeb szkoła organizuje:
 1)
 zajęcia opiekuńcze zapewniające dzieciom interesujące spędzanie czasu, przyjazną atmosferę i bezpieczeństwo;
 2)
-zajęcia zwiększające szanse edukacyjne uczniów zdolnych oraz uczniów mających trudności w nauce.
-aaaII ETAP EDUKACYJNY: KLASY IV-VI aaaJĘZYK POLSKI Cele kształcenia – wymagania ogólne
+zajęcia zwiększające szanse edukacyjne uczniów zdolnych oraz uczniów mających trudności w nauce. aaaII ETAP EDUKACYJNY: KLASY IV-VI aaaJĘZYK POLSKI Cele kształcenia – wymagania ogólne
 I.
 Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji. Uczeń rozwija sprawność uważnego słuchania, czytania głośnego i cichego oraz umiejętność rozumienia znaczeń dosłownych i prostych znaczeń przenośnych; zdobywa świadomość języka jako wartościowego i wielofunkcyjnego narzędzia komunikacji, rozwija umiejętność poszukiwania interesujących go wiadomości, a także ich porządkowania oraz poznawania dzieł sztuki; uczy się rozpoznawać różne teksty kultury, w tym użytkowe, oraz stosować odpowiednie sposoby ich odbioru.
 II.
 Analiza i interpretacja tekstów kultury. Uczeń poznaje teksty kultury odpowiednie dla stopnia rozwoju emocjonalnego i intelektualnego; rozpoznaje ich konwencje gatunkowe; uczy się je odbierać świadomie i refleksyjnie; kształtuje świadomość istnienia w tekście znaczeń ukrytych; rozwija zainteresowania różnymi dziedzinami kultury; poznaje specyfikę literackich i pozaliterackich sposobów wypowiedzi artystycznej; w kontakcie z dziełami kultury kształtuje hierarchię wartości, swoją wrażliwość, gust estetyczny, poczucie własnej tożsamości i postawę patriotyczną.
 III.
-Tworzenie wypowiedzi. Uczeń rozwija umiejętność wypowiadania się w mowie i w piśmie na tematy poruszane na zajęciach, związane z poznawanymi tekstami kultury i własnymi zainteresowaniami; dba o poprawność wypowiedzi własnych, a ich formę kształtuje odpowiednio do celu wypowiedzi; wykorzystując posiadane umiejętności, rozwija swoją wiedzę o języku.
-Treści nauczania – wymagania szczegółowe
+Tworzenie wypowiedzi. Uczeń rozwija umiejętność wypowiadania się w mowie i w piśmie na tematy poruszane na zajęciach, związane z poznawanymi tekstami kultury i własnymi zainteresowaniami; dba o poprawność wypowiedzi własnych, a ich formę kształtuje odpowiednio do celu wypowiedzi; wykorzystując posiadane umiejętności, rozwija swoją wiedzę o języku. Treści nauczania – wymagania szczegółowe
 I.
 Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 1.
@@ -997,9 +975,7 @@ sposobach pisania nazw własnych i nazw pospolitych;
 6)
 poprawnie używa znaków interpunkcyjnych: kropki, przecinka, znaku zapytania, cudzysłowu, dwukropka, nawiasu, znaku wykrzyknika;
 7)
-operuje słownictwem z określonych kręgów tematycznych (na tym etapie skoncentrowanym przede wszystkim wokół tematów: dom, rodzina, szkoła i nauka, środowisko przyrodnicze i społeczne).
-Teksty kultury poznawane w całości – nie mniej niż 4 pozycje książkowe w roku szkolnym oraz wybrane przez nauczyciela teksty o mniejszej objętości: Frances Hodgson Burnett Tajemniczy ogród ; Jan Brzechwa Akademia Pana Kleksa ; Carlo Collodi Pinokio ; Roald Dahl Charlie i fabryka czekolady ; Antonina Domańska Historia żółtej ciżemki ; Irena Jurgielewiczowa Ten obcy ; Stanisław Lem Bajki robotów ; Clive Staples Lewis Lew. Czarownica i stara szafa ; Astrid Lindgren Bracia Lwie Serce ; Kornel Makuszyński Szatan z siódmej klasy ; Aleksander Minkowski Dolina Światła ; Ferenc Molnár Chłopcy z Placu Broni ; Lucy Maud Montgomery Ania z Zielonego Wzgórza ; Edmund Niziurski – wybrana powieść (np. Niewiarygodne przygody Marka Piegusa , Sposób na Alcybiadesa ); Joanna Olech Dynastia Miziołków ; Anna Onichimowska – wybrana powieść (np. Duch starej kamienicy. Daleki rejs ); René Goscinny, Jean-Jacques Sempé Mikołajek (wybór opowiadań z dowolnego tomu); Henryk Sienkiewicz W pustyni i w puszczy ; Alfred Szklarski – wybrana powieść (np. Tomek w krainie kangurów ); Dorota Terakowska Władca Lewawu ; Mark Twain Przygody Tomka Sawyera ; John Ronald Reuel Tolkien Hobbit, czyli tam i z powrotem ; Juliusz Verne W 80 dni dookoła świata ; Moony Witcher Dziewczynka z szóstego księżyca ; wybór mitów greckich, baśni i legend; wybór kolęd; wybór pieśni patriotycznych; wybór poezji, w tym utwory dla dzieci i młodzieży; film i widowisko teatralne z repertuaru dziecięcego; wybrane programy telewizyjne.
-JĘZYK OBCY NOWOŻYTNY Cele kształcenia – wymagania ogólne
+operuje słownictwem z określonych kręgów tematycznych (na tym etapie skoncentrowanym przede wszystkim wokół tematów: dom, rodzina, szkoła i nauka, środowisko przyrodnicze i społeczne). Teksty kultury poznawane w całości – nie mniej niż 4 pozycje książkowe w roku szkolnym oraz wybrane przez nauczyciela teksty o mniejszej objętości: Frances Hodgson Burnett Tajemniczy ogród ; Jan Brzechwa Akademia Pana Kleksa ; Carlo Collodi Pinokio ; Roald Dahl Charlie i fabryka czekolady ; Antonina Domańska Historia żółtej ciżemki ; Irena Jurgielewiczowa Ten obcy ; Stanisław Lem Bajki robotów ; Clive Staples Lewis Lew. Czarownica i stara szafa ; Astrid Lindgren Bracia Lwie Serce ; Kornel Makuszyński Szatan z siódmej klasy ; Aleksander Minkowski Dolina Światła ; Ferenc Molnár Chłopcy z Placu Broni ; Lucy Maud Montgomery Ania z Zielonego Wzgórza ; Edmund Niziurski – wybrana powieść (np. Niewiarygodne przygody Marka Piegusa , Sposób na Alcybiadesa ); Joanna Olech Dynastia Miziołków ; Anna Onichimowska – wybrana powieść (np. Duch starej kamienicy. Daleki rejs ); René Goscinny, Jean-Jacques Sempé Mikołajek (wybór opowiadań z dowolnego tomu); Henryk Sienkiewicz W pustyni i w puszczy ; Alfred Szklarski – wybrana powieść (np. Tomek w krainie kangurów ); Dorota Terakowska Władca Lewawu ; Mark Twain Przygody Tomka Sawyera ; John Ronald Reuel Tolkien Hobbit, czyli tam i z powrotem ; Juliusz Verne W 80 dni dookoła świata ; Moony Witcher Dziewczynka z szóstego księżyca ; wybór mitów greckich, baśni i legend; wybór kolęd; wybór pieśni patriotycznych; wybór poezji, w tym utwory dla dzieci i młodzieży; film i widowisko teatralne z repertuaru dziecięcego; wybrane programy telewizyjne. JĘZYK OBCY NOWOŻYTNY Cele kształcenia – wymagania ogólne
 I.
 Znajomość środków językowych. Uczeń posługuje się bardzo podstawowym zasobem środków językowych (leksykalnych, gramatycznych, ortograficznych oraz fonetycznych), umożliwiającym realizację pozostałych wymagań ogólnych w zakresie tematów wskazanych w wymaganiach szczegółowych.
 II.
@@ -1009,8 +985,7 @@ Tworzenie wypowiedzi. Uczeń samodzielnie formułuje bardzo krótkie, proste i z
 IV.
 Reagowanie na wypowiedzi. Uczeń uczestniczy w prostej rozmowie i w typowych sytuacjach reaguje w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub pisemnie, w zakresie opisanym w wymaganiach szczegółowych.
 V.
-Przetwarzanie wypowiedzi. Uczeń zmienia formę przekazu ustnego lub pisemnego w zakresie opisanym w wymaganiach szczegółowych.
-Treści nauczania – wymagania szczegółowe
+Przetwarzanie wypowiedzi. Uczeń zmienia formę przekazu ustnego lub pisemnego w zakresie opisanym w wymaganiach szczegółowych. Treści nauczania – wymagania szczegółowe
 1.
 Uczeń posługuje się bardzo podstawowym zasobem środków językowych: leksykalnych, gramatycznych, ortograficznych oraz fonetycznych, umożliwiającym realizację pozostałych wymagań ogólnych w zakresie następujących tematów:
 1)
@@ -1112,15 +1087,13 @@ Uczeń korzysta ze źródeł informacji w języku obcym (np. z encyklopedii, med
 12.
 Uczeń stosuje strategie komunikacyjne (np. domyślanie się znaczenia wyrazów z kontekstu, rozumienie tekstu zawierającego nieznane słowa i zwroty).
 13.
-Uczeń posiada świadomość językową (np. podobieństw i różnic między językami).
-MUZYKA Cele kształcenia – wymagania ogólne
+Uczeń posiada świadomość językową (np. podobieństw i różnic między językami). MUZYKA Cele kształcenia – wymagania ogólne
 I.
 Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji. Uczeń poznaje podstawowe pojęcia i terminy muzyczne, rozumie ich znaczenie i wykorzystuje w wykonywaniu i słuchaniu muzyki, prowadzeniu rozmów o muzyce oraz poszukiwaniu informacji o muzyce.
 II.
 Tworzenie wypowiedzi. Uczeń tworzy wypowiedzi – wykonuje utwory muzyczne i tańce, improwizuje i komponuje proste struktury dźwiękowe i układy taneczno-ruchowe, przedstawia cechy i charakter słuchanych i wykonywanych utworów słowami lub innymi środkami ekspresji.
 III.
-Analiza i interpretacja tekstów kultury. Uczeń interpretuje wykonywane utwory zgodnie z tekstem, charakterem i funkcją. Słucha muzyki, rozpoznaje, rozróżnia i omawia jej cechy, przedstawia własny stosunek do słuchanego i wykonywanego repertuaru.
-Treści nauczania – wymagania szczegółowe
+Analiza i interpretacja tekstów kultury. Uczeń interpretuje wykonywane utwory zgodnie z tekstem, charakterem i funkcją. Słucha muzyki, rozpoznaje, rozróżnia i omawia jej cechy, przedstawia własny stosunek do słuchanego i wykonywanego repertuaru. Treści nauczania – wymagania szczegółowe
 1.
 Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji. Uczeń:
 1)
@@ -1172,15 +1145,13 @@ charakteryzuje wybrane utwory muzyczne wysłuchane i omówione na zajęciach ora
 6)
 porządkuje chronologicznie postacie kompozytorów – J.S. Bach, W.A. Mozart, L. van Beethoven, F. Chopin, S. Moniuszko, W. Lutosławski;
 7)
-interpretuje (gra i śpiewa) utwory zgodnie ze wskazówkami wykonawczymi umieszczonymi w nutach oraz własnym odczuwaniem muzyki.
-PLASTYKA Cele kształcenia – wymagania ogólne
+interpretuje (gra i śpiewa) utwory zgodnie ze wskazówkami wykonawczymi umieszczonymi w nutach oraz własnym odczuwaniem muzyki. PLASTYKA Cele kształcenia – wymagania ogólne
 I.
 Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji – percepcja sztuki.
 II.
 Tworzenie wypowiedzi – ekspresja przez sztukę.
 III.
-Analiza i interpretacja tekstów kultury – recepcja sztuki.
-Treści nauczania – wymagania szczegółowe
+Analiza i interpretacja tekstów kultury – recepcja sztuki. Treści nauczania – wymagania szczegółowe
 1.
 Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji – percepcja sztuki. Uczeń:
 1)
@@ -1198,8 +1169,7 @@ Analiza i interpretacja tekstów kultury – recepcja sztuki. Uczeń:
 1)
 rozróżnia określone dyscypliny w takich dziedzinach jak: architektura, sztuki plastyczne oraz w innych dziedzinach sztuki (fotografika, film) i przekazach medialnych (telewizja, Internet);
 2)
-rozpoznaje wybrane dzieła architektury i sztuk plastycznych należące do polskiego i europejskiego dziedzictwa kultury oraz opisuje ich funkcje i cechy charakterystyczne na tle epoki (posługując się podstawowymi terminami i pojęciami właściwymi dla tych dziedzin sztuki).
-HISTORIA I SPOŁECZEŃSTWO Cele kształcenia – wymagania ogólne
+rozpoznaje wybrane dzieła architektury i sztuk plastycznych należące do polskiego i europejskiego dziedzictwa kultury oraz opisuje ich funkcje i cechy charakterystyczne na tle epoki (posługując się podstawowymi terminami i pojęciami właściwymi dla tych dziedzin sztuki). HISTORIA I SPOŁECZEŃSTWO Cele kształcenia – wymagania ogólne
 I.
 Chronologia historyczna. Uczeń posługuje się podstawowymi określeniami czasu historycznego: okres p.n.e., n.e., tysiąclecie, wiek, rok; przyporządkowuje fakty historyczne datom; oblicza upływ czasu między wydarzeniami historycznymi i umieszcza je na linii chronologicznej; dostrzega związki teraźniejszości z przeszłością.
 II.
@@ -1209,8 +1179,7 @@ Tworzenie narracji historycznej. Uczeń tworzy krótką wypowiedź o postaci i w
 IV.
 Zainteresowanie problematyką społeczną. Uczeń ma nawyk dociekania w kontekście społecznym – zadaje pytania „dlaczego jest tak, jak jest?” i „czy mogłoby być inaczej?” oraz próbuje odpowiedzieć na te pytania.
 V.
-Współdziałanie w sprawach publicznych. Uczeń współpracuje z innymi – planuje, dzieli się zadaniami i wywiązuje się z nich.
-Treści nauczania – wymagania szczegółowe
+Współdziałanie w sprawach publicznych. Uczeń współpracuje z innymi – planuje, dzieli się zadaniami i wywiązuje się z nich. Treści nauczania – wymagania szczegółowe
 1.
 Refleksja nad sobą i otoczeniem społecznym. Uczeń:
 1)
@@ -1448,8 +1417,7 @@ wskazuje na mapie III Rzeczpospolitą i jej sąsiadów;
 2)
 opisuje powstanie i działania Solidarności, używając określeń: strajk, walka bez przemocy, stan wojenny, Okrągły Stół;
 3)
-wyjaśnia, jakie najważniejsze zmiany zaszły w Polsce w 1989 r.
-PRZYRODA Cele kształcenia – wymagania ogólne
+wyjaśnia, jakie najważniejsze zmiany zaszły w Polsce w 1989 r. PRZYRODA Cele kształcenia – wymagania ogólne
 I.
 Zaciekawienie światem przyrody. Uczeń stawia pytania dotyczące zjawisk zachodzących w przyrodzie, prezentuje postawę badawczą w poznawaniu prawidłowości świata przyrody przez poszukiwanie odpowiedzi na pytania: „dlaczego?”, „jak jest?”, „co się stanie, gdy?”.
 II.
@@ -1459,8 +1427,7 @@ Praktyczne wykorzystanie wiedzy przyrodniczej. Uczeń orientuje się w otaczają
 IV.
 Poszanowanie przyrody. Uczeń zachowuje się w środowisku zgodnie z obowiązującymi zasadami; działa na rzecz ochrony przyrody i dorobku kulturowego społeczności.
 V.
-Obserwacje, pomiary i doświadczenia. Uczeń korzysta z różnych źródeł informacji (własnych obserwacji, badań, doświadczeń, tekstów, map, tabel, fotografii, filmów), wykonuje pomiary i korzysta z instrukcji (słownej, tekstowej i graficznej); dokumentuje i prezentuje wyniki obserwacji i doświadczeń; stosuje technologie informacyjno-komunikacyjne.
-Treści nauczania – wymagania szczegółowe
+Obserwacje, pomiary i doświadczenia. Uczeń korzysta z różnych źródeł informacji (własnych obserwacji, badań, doświadczeń, tekstów, map, tabel, fotografii, filmów), wykonuje pomiary i korzysta z instrukcji (słownej, tekstowej i graficznej); dokumentuje i prezentuje wyniki obserwacji i doświadczeń; stosuje technologie informacyjno-komunikacyjne. Treści nauczania – wymagania szczegółowe
 1.
 Ja i moje otoczenie. Uczeń:
 1)
@@ -1738,8 +1705,7 @@ opisuje różne rodzaje ruchu;
 2)
 interpretuje prędkość jako drogę przebytą w jednostce czasu, wyznacza doświadczalnie prędkość swojego ruchu, np. marszu lub biegu;
 3)
-bada doświadczalnie siłę tarcia i oporu powietrza oraz wody, określa czynniki, od których te siły zależą, podaje przykłady zmniejszania i zwiększania siły tarcia i oporu w przyrodzie i przez człowieka oraz ich wykorzystanie w życiu codziennym.
-MATEMATYKA Cele kształcenia – wymagania ogólne
+bada doświadczalnie siłę tarcia i oporu powietrza oraz wody, określa czynniki, od których te siły zależą, podaje przykłady zmniejszania i zwiększania siły tarcia i oporu w przyrodzie i przez człowieka oraz ich wykorzystanie w życiu codziennym. MATEMATYKA Cele kształcenia – wymagania ogólne
 I.
 Sprawność rachunkowa. Uczeń wykonuje proste działania pamięciowe na liczbach naturalnych, całkowitych i ułamkach, zna i stosuje algorytmy działań pisemnych oraz potrafi wykorzystać te umiejętności w sytuacjach praktycznych.
 II.
@@ -1747,8 +1713,7 @@ Wykorzystanie i tworzenie informacji. Uczeń interpretuje i przetwarza informacj
 III.
 Modelowanie matematyczne. Uczeń dobiera odpowiedni model matematyczny do prostej sytuacji, stosuje poznane wzory i zależności, przetwarza tekst zadania na działania arytmetyczne i proste równania.
 IV.
-Rozumowanie i tworzenie strategii. Uczeń prowadzi proste rozumowanie składające się z niewielkiej liczby kroków, ustala kolejność czynności (w tym obliczeń) prowadzących do rozwiązania problemu, potrafi wyciągnąć wnioski z kilku informacji podanych w różnej postaci.
-Treści nauczania – wymagania szczegółowe
+Rozumowanie i tworzenie strategii. Uczeń prowadzi proste rozumowanie składające się z niewielkiej liczby kroków, ustala kolejność czynności (w tym obliczeń) prowadzących do rozwiązania problemu, potrafi wyciągnąć wnioski z kilku informacji podanych w różnej postaci. Treści nauczania – wymagania szczegółowe
 1.
 Liczby naturalne w dziesiątkowym układzie pozycyjnym. Uczeń:
 1)
@@ -1956,8 +1921,7 @@ dzieli rozwiązanie zadania na etapy, stosując własne, poprawne, wygodne dla n
 5)
 do rozwiązywania zadań osadzonych w kontekście praktycznym stosuje poznaną wiedzę z zakresu arytmetyki i geometrii oraz nabyte umiejętności rachunkowe, a także własne poprawne metody;
 6)
-weryfikuje wynik zadania tekstowego, oceniając sensowność rozwiązania.
-ZAJĘCIA KOMPUTEROWE Cele kształcenia – wymagania ogólne
+weryfikuje wynik zadania tekstowego, oceniając sensowność rozwiązania. ZAJĘCIA KOMPUTEROWE Cele kształcenia – wymagania ogólne
 I.
 Bezpieczne posługiwanie się komputerem i jego oprogramowaniem; świadomość zagrożeń i ograniczeń związanych z korzystaniem z komputera i Internetu.
 II.
@@ -1967,8 +1931,7 @@ Wyszukiwanie i wykorzystywanie informacji z różnych źródeł; opracowywanie z
 IV.
 Rozwiązywanie problemów i podejmowanie decyzji z wykorzystaniem komputera.
 V.
-Wykorzystywanie komputera do poszerzania wiedzy i umiejętności z różnych dziedzin, a także do rozwijania zainteresowań.
-Treści nauczania – wymagania szczegółowe
+Wykorzystywanie komputera do poszerzania wiedzy i umiejętności z różnych dziedzin, a także do rozwijania zainteresowań. Treści nauczania – wymagania szczegółowe
 1.
 Bezpieczne posługiwanie się komputerem i jego oprogramowaniem. Uczeń:
 1)
@@ -2028,15 +1991,13 @@ opisuje przykłady wykorzystania komputera i sieci Internet w życiu codziennym;
 2)
 szanuje prywatność i pracę innych osób;
 3)
-przestrzega zasad etycznych i prawnych związanych z korzystaniem z komputera i Internetu, ocenia możliwe zagrożenia.
-ZAJĘCIA TECHNICZNE Cele kształcenia – wymagania ogólne
+przestrzega zasad etycznych i prawnych związanych z korzystaniem z komputera i Internetu, ocenia możliwe zagrożenia. ZAJĘCIA TECHNICZNE Cele kształcenia – wymagania ogólne
 I.
 Rozpoznawanie i opis działania elementów środowiska technicznego.
 II.
 Planowanie i realizacja praktycznych działań technicznych (od pomysłu do wytworu).
 III.
-Sprawne i bezpieczne posługiwanie się sprzętem technicznym.
-Treści nauczania – wymagania szczegółowe
+Sprawne i bezpieczne posługiwanie się sprzętem technicznym. Treści nauczania – wymagania szczegółowe
 1.
 Opisywanie techniki w bliższym i dalszym otoczeniu. Uczeń:
 1)
@@ -2068,15 +2029,13 @@ Wskazywanie rozwiązań problemów rozwoju środowiska technicznego. Uczeń:
 1)
 opisuje zasady segregowania i możliwości przetwarzania odpadów z różnych materiałów: papieru, drewna, tworzyw sztucznych, metali i szkła;
 2)
-opracowuje projekty racjonalnego gospodarowania surowcami wtórnymi w najbliższym środowisku: w domu, na osiedlu, w miejscowości.
-WYCHOWANIE FIZYCZNE Cele kształcenia – wymagania ogólne Bezpieczne uczestnictwo w aktywności fizycznej o charakterze rekreacyjnym i sportowym ze zrozumieniem jej znaczenia dla zdrowia:
+opracowuje projekty racjonalnego gospodarowania surowcami wtórnymi w najbliższym środowisku: w domu, na osiedlu, w miejscowości. WYCHOWANIE FIZYCZNE Cele kształcenia – wymagania ogólne Bezpieczne uczestnictwo w aktywności fizycznej o charakterze rekreacyjnym i sportowym ze zrozumieniem jej znaczenia dla zdrowia:
 1)
 udział w aktywności fizycznej ukierunkowanej na zdrowie, wypoczynek i sport;
 2)
 stosowanie zasad bezpieczeństwa podczas aktywności fizycznej;
 3)
-poznawanie własnego rozwoju fizycznego i sprawności fizycznej oraz praktykowanie zachowań prozdrowotnych.
-Treści nauczania – wymagania szczegółowe
+poznawanie własnego rozwoju fizycznego i sprawności fizycznej oraz praktykowanie zachowań prozdrowotnych. Treści nauczania – wymagania szczegółowe
 1.
 Diagnoza sprawności fizycznej i rozwoju fizycznego. Uczeń:
 1)
@@ -2136,8 +2095,7 @@ Taniec. Uczeń:
 1)
 wykonuje improwizację ruchową do wybranej muzyki;
 2)
-wyjaśnia, jak należy zachować się na zabawie tanecznej, w dyskotece.
-WYCHOWANIE DO ŻYCIA W RODZINIE Cele kształcenia – wymagania ogólne Ukazywanie wartości rodziny w życiu osobistym człowieka oraz pomoc w przygotowaniu się do zrozumienia i akceptacji przemian okresu dojrzewania. Treści nauczania – wymagania szczegółowe
+wyjaśnia, jak należy zachować się na zabawie tanecznej, w dyskotece. WYCHOWANIE DO ŻYCIA W RODZINIE Cele kształcenia – wymagania ogólne Ukazywanie wartości rodziny w życiu osobistym człowieka oraz pomoc w przygotowaniu się do zrozumienia i akceptacji przemian okresu dojrzewania. Treści nauczania – wymagania szczegółowe
 1.
 Podstawowe funkcje rodziny z podkreśleniem miejsca dziecka w rodzinie.
 2.
@@ -2163,8 +2121,7 @@ Mass media – zasady i kryteria wyboru czasopism, książek, filmów i program�
 12.
 Instytucje działające na rzecz dziecka i rodziny.
 13.
-Odpowiedzialność za własny rozwój; samowychowanie.
-ETYKA Cele kształcenia – wymagania ogólne
+Odpowiedzialność za własny rozwój; samowychowanie. ETYKA Cele kształcenia – wymagania ogólne
 I.
 Kształtowanie refleksyjnej postawy wobec człowieka, jego natury, powinności moralnych oraz wobec różnych sytuacji życiowych.
 II.
@@ -2174,8 +2131,7 @@ Przygotowanie do rozpoznawania podstawowych wartości i dokonywania właściwej 
 IV.
 Dostrzeganie różnorodności postaw i zachowań ludzi.
 V.
-Wyrażanie opinii i wartościowanie zjawisk społecznych na poziomie społeczności szkolnej i społeczności lokalnej.
-Treści nauczania – wymagania szczegółowe
+Wyrażanie opinii i wartościowanie zjawisk społecznych na poziomie społeczności szkolnej i społeczności lokalnej. Treści nauczania – wymagania szczegółowe
 1.
 Poznawanie siebie, dostrzeganie cech indywidualnych własnych i najbliższych osób.
 2.
@@ -2193,8 +2149,7 @@ Wolność i jej różne rozumienie, autorytety i wzory osobowe.
 8.
 Praca i jej wartość dla człowieka.
 9.
-Uzasadnianie opinii, wydawanie sądów, kryteria ocen, między innymi w odniesieniu do zjawisk społecznych na poziomie małej grupy, społeczności szkolnej i społeczności lokalnej.
-JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ Cele kształcenia – wymagania ogólne
+Uzasadnianie opinii, wydawanie sądów, kryteria ocen, między innymi w odniesieniu do zjawisk społecznych na poziomie małej grupy, społeczności szkolnej i społeczności lokalnej. JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ Cele kształcenia – wymagania ogólne
 I.
 Świadomość własnego dziedzictwa narodowego lub etnicznego.
 II.
@@ -2202,8 +2157,7 @@ Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 III.
 Tworzenie wypowiedzi.
 IV.
-Analiza i interpretacja tekstów kultury.
-Treści nauczania – wymagania szczegółowe
+Analiza i interpretacja tekstów kultury. Treści nauczania – wymagania szczegółowe
 1.
 Świadomość własnego dziedzictwa narodowego lub etnicznego. Uczeń:
 1)
@@ -2321,8 +2275,7 @@ rozpoznaje główne przesłanie i elementy składające się na widowisko teatra
 14)
 rozpoznaje główne przesłanie i elementy składające się na dzieło filmowe i telewizyjne: scenariusz, reżyseria, ujęcie, gra aktorska;
 15)
-odczytuje wartości i ich przeciwieństwa wpisane w teksty kultury (np. przyjaźń – wrogość, miłość – nienawiść, prawda – kłamstwo, wierność – zdrada).
-JĘZYK REGIONALNY – JĘZYK KASZUBSKI Cele kształcenia – wymagania ogólne
+odczytuje wartości i ich przeciwieństwa wpisane w teksty kultury (np. przyjaźń – wrogość, miłość – nienawiść, prawda – kłamstwo, wierność – zdrada). JĘZYK REGIONALNY – JĘZYK KASZUBSKI Cele kształcenia – wymagania ogólne
 I.
 Znajomość kultury materialnej i duchowej Kaszub.
 II.
@@ -2332,8 +2285,7 @@ Tworzenie prostych wypowiedzi w języku kaszubskim; posługiwanie się podstawow
 IV.
 Przetwarzanie tekstu ustnie lub pisemnie pod kierunkiem nauczyciela.
 V.
-Analiza i interpretacja prostych tekstów kultury, wygłaszanie z pamięci tekstów kaszubskich.
-Treści nauczania – wymagania szczegółowe
+Analiza i interpretacja prostych tekstów kultury, wygłaszanie z pamięci tekstów kaszubskich. Treści nauczania – wymagania szczegółowe
 1.
 Poznawanie elementów przyrody, kultury materialnej i duchowej Kaszub (podczas zajęć i podczas wycieczek). Uczeń:
 1)
@@ -2409,8 +2361,7 @@ charakteryzuje w utworze podmiot liryczny oraz narratora;
 4)
 recytuje wybrane kaszubskie utwory literackie w całości lub we fragmentach;
 5)
-rozpoznaje różne sposoby pokazywania świata przedstawionego: realizm, fantastykę.
-Zalecane warunki i sposób realizacji Język polski II etap edukacyjny to nadal okres kształtowania elementarnych sposobów poznawania świata, zwłaszcza w sferze kultury, i rozwijania umiejętności komunikowania się z innymi ludźmi. To czas krystalizacji zainteresowań, doskonalenia myślenia konkretnego, kształtowania postaw wobec świata, a więc także formowania poczucia własnej tożsamości i wartości oraz budowania właściwych relacji międzyludzkich. To również okres, w którym dziecko styka się z podstawami naukowego podejścia do rzeczywistości i poznaje elementarną terminologię, pozwalającą opisać świat. Uczeniu się istnienia w kulturze towarzyszą w tym czasie pierwsze próby refleksyjnego spojrzenia na język jako narzędzie komunikacji i poznawania. Zadania nauczyciela języka polskiego na II etapie edukacyjnym to przede wszystkim:
+rozpoznaje różne sposoby pokazywania świata przedstawionego: realizm, fantastykę. Zalecane warunki i sposób realizacji Język polski II etap edukacyjny to nadal okres kształtowania elementarnych sposobów poznawania świata, zwłaszcza w sferze kultury, i rozwijania umiejętności komunikowania się z innymi ludźmi. To czas krystalizacji zainteresowań, doskonalenia myślenia konkretnego, kształtowania postaw wobec świata, a więc także formowania poczucia własnej tożsamości i wartości oraz budowania właściwych relacji międzyludzkich. To również okres, w którym dziecko styka się z podstawami naukowego podejścia do rzeczywistości i poznaje elementarną terminologię, pozwalającą opisać świat. Uczeniu się istnienia w kulturze towarzyszą w tym czasie pierwsze próby refleksyjnego spojrzenia na język jako narzędzie komunikacji i poznawania. Zadania nauczyciela języka polskiego na II etapie edukacyjnym to przede wszystkim:
 1)
 rozwijanie w uczniu ciekawości świata;
 2)
@@ -2422,15 +2373,13 @@ wprowadzanie ucznia w tradycję i sferę wartości narodowych oraz kształtowani
 5)
 przyjazne towarzyszenie uczniowi w budowaniu spójnej wizji świata i uporządkowanego systemu wartości;
 6)
-wychowanie do aktywności i odpowiedzialności w życiu zbiorowym.
-Zadaniem nauczyciela języka polskiego na II etapie edukacyjnym jest tworzenie sytuacji metodycznych wykorzystujących pasję poznawczą dzieci, ich chęć zabawy i gotowość do współpracy. Nauczyciel powinien tak organizować proces dydaktyczno-wychowawczy, aby stał się on dla uczniów przygodą prowadzącą do samopoznania, zachętą do nieustannego poznawania świata i porządkowania jego obrazu. Uwzględniając zróżnicowane potrzeby edukacyjne uczniów, szkoła organizuje zajęcia zwiększające szanse edukacyjne uczniów zdolnych oraz uczniów mających trudności w nauce języka polskiego. Język obcy nowożytny Warunkiem rozwijania umiejętności językowych jest zapewnienie uczniowi kontynuacji nauki języka obcego nowożytnego, rozpoczętej na I etapie edukacyjnym. Nauczyciele języka obcego nowożytnego na II etapie edukacyjnym powinni właściwie określić i wykorzystać zdobyte dotychczas przez uczniów umiejętności. Podstawowym celem kształcenia jest skuteczne porozumiewanie się w języku obcym, w mowie i w piśmie. Priorytetem jest zatem umiejętność osiągania przez ucznia różnych celów komunikacyjnych, a poprawność językowa, choć odgrywa istotną rolę, nie jest nadrzędnym celem dydaktycznym. II etap edukacyjny nawiązuje w większości wymagań do poziomu A1, w sześciostopniowej skali poziomów biegłości w zakresie poszczególnych umiejętności językowych (A1, A2 – poziom podstawowy; B1, B2 – poziom samodzielności; C1, C2 – poziom biegłości), zdefiniowanej przez Radę Europy. Warunkiem skutecznego nauczania języka obcego nowożytnego i osiągnięcia wskazanych wymagań jest nauka w grupach językowych o zbliżonym poziomie zaawansowania językowego uczniów. Zalecane jest prowadzenie zajęć z języka obcego nowożytnego w odpowiednio wyposażonej sali. Wśród niezbędnych pomocy powinny znaleźć się słowniki, pomoce wizualne, odtwarzacz płyt CD, komplet płyt do nauczania. Zalecany jest też dostęp do komputerów z łączem internetowym. Oprócz umiejętności językowych szkoła, poprzez nauczanie języka obcego nowożytnego, kształtuje postawy ciekawości, tolerancji i otwartości wobec innych kultur. Muzyka Nauczyciel w realizacji przedmiotu powinien dążyć do otwierania uczniów na świat muzyki, rozbudzać i wspierać ich muzyczne zainteresowania oraz wskazywać przyjemność, jaką daje czynne lub bierne obcowanie z muzyką. Szkoła powinna stwarzać warunki do obcowania z żywą muzyką poprzez udział uczniów w koncertach i spektaklach muzycznych, organizowanych w szkole i poza szkołą, oraz do publicznej prezentacji umiejętności muzycznych uczniów. Zalecane jest prowadzenie zajęć z muzyki w pracowni wyposażonej w:
+wychowanie do aktywności i odpowiedzialności w życiu zbiorowym. Zadaniem nauczyciela języka polskiego na II etapie edukacyjnym jest tworzenie sytuacji metodycznych wykorzystujących pasję poznawczą dzieci, ich chęć zabawy i gotowość do współpracy. Nauczyciel powinien tak organizować proces dydaktyczno-wychowawczy, aby stał się on dla uczniów przygodą prowadzącą do samopoznania, zachętą do nieustannego poznawania świata i porządkowania jego obrazu. Uwzględniając zróżnicowane potrzeby edukacyjne uczniów, szkoła organizuje zajęcia zwiększające szanse edukacyjne uczniów zdolnych oraz uczniów mających trudności w nauce języka polskiego. Język obcy nowożytny Warunkiem rozwijania umiejętności językowych jest zapewnienie uczniowi kontynuacji nauki języka obcego nowożytnego, rozpoczętej na I etapie edukacyjnym. Nauczyciele języka obcego nowożytnego na II etapie edukacyjnym powinni właściwie określić i wykorzystać zdobyte dotychczas przez uczniów umiejętności. Podstawowym celem kształcenia jest skuteczne porozumiewanie się w języku obcym, w mowie i w piśmie. Priorytetem jest zatem umiejętność osiągania przez ucznia różnych celów komunikacyjnych, a poprawność językowa, choć odgrywa istotną rolę, nie jest nadrzędnym celem dydaktycznym. II etap edukacyjny nawiązuje w większości wymagań do poziomu A1, w sześciostopniowej skali poziomów biegłości w zakresie poszczególnych umiejętności językowych (A1, A2 – poziom podstawowy; B1, B2 – poziom samodzielności; C1, C2 – poziom biegłości), zdefiniowanej przez Radę EuropyEuropejski System Opisu Kształcenia Językowego: uczenie się, nauczanie, ocenianie (Common European Framework of Reference for Languages: Learning, teaching, assessment).. Warunkiem skutecznego nauczania języka obcego nowożytnego i osiągnięcia wskazanych wymagań jest nauka w grupach językowych o zbliżonym poziomie zaawansowania językowego uczniów. Zalecane jest prowadzenie zajęć z języka obcego nowożytnego w odpowiednio wyposażonej sali. Wśród niezbędnych pomocy powinny znaleźć się słowniki, pomoce wizualne, odtwarzacz płyt CD, komplet płyt do nauczania. Zalecany jest też dostęp do komputerów z łączem internetowym. Oprócz umiejętności językowych szkoła, poprzez nauczanie języka obcego nowożytnego, kształtuje postawy ciekawości, tolerancji i otwartości wobec innych kultur. Muzyka Nauczyciel w realizacji przedmiotu powinien dążyć do otwierania uczniów na świat muzyki, rozbudzać i wspierać ich muzyczne zainteresowania oraz wskazywać przyjemność, jaką daje czynne lub bierne obcowanie z muzyką. Szkoła powinna stwarzać warunki do obcowania z żywą muzyką poprzez udział uczniów w koncertach i spektaklach muzycznych, organizowanych w szkole i poza szkołą, oraz do publicznej prezentacji umiejętności muzycznych uczniów. Zalecane jest prowadzenie zajęć z muzyki w pracowni wyposażonej w:
 1)
 instrumenty muzyczne: instrumenty perkusyjne, instrumenty klawiszowe (tradycyjne lub elektroniczne), instrumenty dęte, instrumenty strunowe;
 2)
 sprzęt do odtwarzania, nagrywania i nagłaśniania dźwięku, komputer z dostępem do Internetu i oprogramowaniem muzycznym;
 3)
-bibliotekę muzyczną (nuty, śpiewniki, podręczniki) i fonotekę.
-Nauczyciel powinien uwzględniać predyspozycje muzyczne uczniów i dostosować do nich wymagania edukacyjne. Plastyka Nauczyciel w realizacji przedmiotu powinien dążyć do rozwijania myślenia twórczego uczniów oraz poprzez odpowiednio dobrane metody przygotowywać ich do uczestnictwa w kulturze i do stosowania nabytych umiejętności w życiu codziennym. Szkoła powinna stwarzać możliwości czynnego uczestnictwa uczniów w kulturze, w wystawach i wydarzeniach artystycznych, organizowanych w szkole i poza szkołą. Zalecane jest odpowiednie wyposażenie pracowni w środki dydaktyczne, w tym reprodukcje dzieł sztuki. Nauczyciel powinien uwzględniać możliwości uczniów i dostosować do nich wymagania edukacyjne. Historia i społeczeństwo Zadaniem szkoły jest kształtowanie u uczniów następujących postaw:
+bibliotekę muzyczną (nuty, śpiewniki, podręczniki) i fonotekę. Nauczyciel powinien uwzględniać predyspozycje muzyczne uczniów i dostosować do nich wymagania edukacyjne. Plastyka Nauczyciel w realizacji przedmiotu powinien dążyć do rozwijania myślenia twórczego uczniów oraz poprzez odpowiednio dobrane metody przygotowywać ich do uczestnictwa w kulturze i do stosowania nabytych umiejętności w życiu codziennym. Szkoła powinna stwarzać możliwości czynnego uczestnictwa uczniów w kulturze, w wystawach i wydarzeniach artystycznych, organizowanych w szkole i poza szkołą. Zalecane jest odpowiednie wyposażenie pracowni w środki dydaktyczne, w tym reprodukcje dzieł sztuki. Nauczyciel powinien uwzględniać możliwości uczniów i dostosować do nich wymagania edukacyjne. Historia i społeczeństwo Zadaniem szkoły jest kształtowanie u uczniów następujących postaw:
 1)
 zaangażowania w działania obywatelskie: uczeń angażuje się w działania społeczne;
 2)
@@ -2440,8 +2389,7 @@ odpowiedzialności: uczeń podejmuje odpowiedzialne działania w swojej społecz
 4)
 poczucia więzi: uczeń odczuwa więź ze wspólnotą lokalną, narodową, europejską i globalną;
 5)
-tolerancji: uczeń szanuje prawo innych do odmiennego zdania, sposobu zachowania, obyczajów i przekonań, jeżeli nie stanowią one zagrożenia dla innych ludzi; przeciwstawia się przejawom dyskryminacji.
-Szkoła powinna zapewnić takie warunki, aby uczniowie:
+tolerancji: uczeń szanuje prawo innych do odmiennego zdania, sposobu zachowania, obyczajów i przekonań, jeżeli nie stanowią one zagrożenia dla innych ludzi; przeciwstawia się przejawom dyskryminacji. Szkoła powinna zapewnić takie warunki, aby uczniowie:
 1)
 mieli dostęp do różnych źródeł informacji i różnych punktów widzenia;
 2)
@@ -2449,8 +2397,7 @@ brali udział w dyskusjach na forum klasy i szkoły;
 3)
 mieli realny wpływ na wybrane obszary życia szkoły, m.in. w ramach samorządu uczniowskiego;
 4)
-budowali swoje poczucie wartości i sprawstwa w życiu społecznym oraz zaufanie do innych.
-Przyroda Podział treści nauczania dla poszczególnych klas należy rozpocząć od tego, co jest dziecku najlepiej znane, czyli od najbliższej okolicy, a następnie poszerzyć je o treści dotyczące Polski i świata. Głównymi obszarami aktywności ucznia w ramach przedmiotu powinny być:
+budowali swoje poczucie wartości i sprawstwa w życiu społecznym oraz zaufanie do innych. Przyroda Podział treści nauczania dla poszczególnych klas należy rozpocząć od tego, co jest dziecku najlepiej znane, czyli od najbliższej okolicy, a następnie poszerzyć je o treści dotyczące Polski i świata. Głównymi obszarami aktywności ucznia w ramach przedmiotu powinny być:
 1)
 obserwowanie i mierzenie;
 2)
@@ -2460,8 +2407,7 @@ prowadzenie doświadczeń;
 4)
 dokumentowanie i prezentowanie;
 5)
-stawianie pytań i poszukiwanie odpowiedzi.
-Szkoła powinna zapewnić warunki do bezpiecznego prowadzenia zajęć badawczych i terenowych, obserwacji i doświadczeń. Część obserwacji i doświadczeń powinna mieć charakter ciągły lub okresowy w powiązaniu np. ze zmianami pór roku lub stanów pogody. Podczas prowadzenia zajęć proponuje się wykorzystywanie przedmiotów codziennego użytku oraz produktów stosowanych w gospodarstwie domowym. Matematyka Zadaniem szkoły jest podwyższenie poziomu umiejętności matematycznych uczniów. Należy zwrócić szczególną uwagę na następujące kwestie:
+stawianie pytań i poszukiwanie odpowiedzi. Szkoła powinna zapewnić warunki do bezpiecznego prowadzenia zajęć badawczych i terenowych, obserwacji i doświadczeń. Część obserwacji i doświadczeń powinna mieć charakter ciągły lub okresowy w powiązaniu np. ze zmianami pór roku lub stanów pogody. Podczas prowadzenia zajęć proponuje się wykorzystywanie przedmiotów codziennego użytku oraz produktów stosowanych w gospodarstwie domowym. Matematyka Zadaniem szkoły jest podwyższenie poziomu umiejętności matematycznych uczniów. Należy zwrócić szczególną uwagę na następujące kwestie:
 1)
 czynny udział w zdobywaniu wiedzy matematycznej przybliża dziecko do matematyki, rozwija kreatywność, umożliwia samodzielne odkrywanie związków i zależności; duże możliwości samodzielnych obserwacji i działań stwarza geometria, ale także w arytmetyce można znaleźć obszary, gdzie uczeń może czuć się odkrywcą;
 2)
@@ -2471,8 +2417,7 @@ umiejętność wykonywania działań pamięciowych ułatwia orientację w świec
 4)
 nie powinno się oczekiwać od ucznia powtarzania wyuczonych regułek i precyzyjnych definicji; należy dbać o poprawność języka matematycznego, uczyć dokładnych sformułowań, ale nie oczekiwać, że przyniesie to natychmiastowe rezultaty; dopuszczenie pewnej swobody wypowiedzi bardziej otworzy dziecko, zdecydowanie wyraźniej pokaże stopień zrozumienia zagadnienia;
 5)
-przy rozwiązywaniu zadań tekstowych szczególnie wyraźnie widać, jak uczeń rozumuje, jak rozumie tekst zawierający informacje liczbowe, jaką tworzy strategię rozwiązania; należy akceptować wszelkie poprawne strategie i dopuszczać stosowanie przez ucznia jego własnych, w miarę czytelnych zapisów rozwiązania.
-Uwzględniając zróżnicowane potrzeby edukacyjne uczniów, szkoła organizuje zajęcia zwiększające szanse edukacyjne uczniów zdolnych oraz uczniów mających trudności w nauce matematyki. Zajęcia komputerowe Zaleca się, aby podczas zajęć uczeń miał do swojej dyspozycji osobny komputer z dostępem do Internetu. Podczas prac nad projektami (indywidualnymi lub zespołowymi) uczniowie powinni mieć również możliwość korzystania z komputerów, w zależności od potrzeb wynikających z charakteru zajęć, realizowanych celów i tematów. Zajęcia techniczne W nauczaniu przedmiotu najważniejszym celem jest opanowanie przez uczniów praktycznych metod działań technicznych. Zalecane jest prowadzenie zajęć technicznych w odpowiednio przystosowanych i wyposażonych pracowniach, w grupach dostosowanych do liczby stanowisk w pracowni. Zajęcia techniczne pozwalają przygotować ucznia do uzyskania karty rowerowej. Wychowanie fizyczne Wychowanie fizyczne pełni ważne funkcje edukacyjne, rozwojowe i zdrowotne. Wspiera rozwój fizyczny, psychiczny i społeczny oraz zdrowie uczniów i kształtuje obyczaj aktywności fizycznej i troski o zdrowie w okresie całego życia. Pełni wiodącą rolę w edukacji zdrowotnej uczniów. Wymagania szczegółowe odnoszą się do zajęć prowadzonych w systemie klasowo-lekcyjnym w ramach następujących bloków tematycznych:
+przy rozwiązywaniu zadań tekstowych szczególnie wyraźnie widać, jak uczeń rozumuje, jak rozumie tekst zawierający informacje liczbowe, jaką tworzy strategię rozwiązania; należy akceptować wszelkie poprawne strategie i dopuszczać stosowanie przez ucznia jego własnych, w miarę czytelnych zapisów rozwiązania. Uwzględniając zróżnicowane potrzeby edukacyjne uczniów, szkoła organizuje zajęcia zwiększające szanse edukacyjne uczniów zdolnych oraz uczniów mających trudności w nauce matematyki. Zajęcia komputerowe Zaleca się, aby podczas zajęć uczeń miał do swojej dyspozycji osobny komputer z dostępem do Internetu. Podczas prac nad projektami (indywidualnymi lub zespołowymi) uczniowie powinni mieć również możliwość korzystania z komputerów, w zależności od potrzeb wynikających z charakteru zajęć, realizowanych celów i tematów. Zajęcia techniczne W nauczaniu przedmiotu najważniejszym celem jest opanowanie przez uczniów praktycznych metod działań technicznych. Zalecane jest prowadzenie zajęć technicznych w odpowiednio przystosowanych i wyposażonych pracowniach, w grupach dostosowanych do liczby stanowisk w pracowni. Zajęcia techniczne pozwalają przygotować ucznia do uzyskania karty rowerowej. Wychowanie fizyczne Wychowanie fizyczne pełni ważne funkcje edukacyjne, rozwojowe i zdrowotne. Wspiera rozwój fizyczny, psychiczny i społeczny oraz zdrowie uczniów i kształtuje obyczaj aktywności fizycznej i troski o zdrowie w okresie całego życia. Pełni wiodącą rolę w edukacji zdrowotnej uczniów. Wymagania szczegółowe odnoszą się do zajęć prowadzonych w systemie klasowo-lekcyjnym w ramach następujących bloków tematycznych:
 1)
 diagnoza sprawności fizycznej i rozwoju fizycznego;
 2)
@@ -2484,8 +2429,7 @@ bezpieczna aktywność fizyczna i higiena osobista;
 5)
 sport;
 6)
-taniec.
-Szkoła, uwzględniając te wymagania, powinna rozwijać własną ofertę programową w odniesieniu do zajęć wychowania fizycznego, w tym zajęć pozalekcyjnych i pozaszkolnych. W realizacji zajęć należy odwoływać się do wiedzy dotyczącej biologii człowieka, zapobiegania chorobom oraz umiejętności psychospołecznych, uzyskanych w nauce innych przedmiotów. Szkoła zapewnia warunki realizacji określonych w podstawie programowej wymagań szczegółowych, które należy traktować jako wskaźniki rozwoju dyspozycji osobowych niezbędnych do:
+taniec. Szkoła, uwzględniając te wymagania, powinna rozwijać własną ofertę programową w odniesieniu do zajęć wychowania fizycznego, w tym zajęć pozalekcyjnych i pozaszkolnych. W realizacji zajęć należy odwoływać się do wiedzy dotyczącej biologii człowieka, zapobiegania chorobom oraz umiejętności psychospołecznych, uzyskanych w nauce innych przedmiotów. Szkoła zapewnia warunki realizacji określonych w podstawie programowej wymagań szczegółowych, które należy traktować jako wskaźniki rozwoju dyspozycji osobowych niezbędnych do:
 1)
 uczestniczenia w kulturze fizycznej w okresie nauki szkolnej, a także po jej zakończeniu;
 2)
@@ -2493,8 +2437,7 @@ inicjowania i współorganizowania aktywności fizycznej;
 3)
 dokonywania wyboru całożyciowych form aktywności fizycznej;
 4)
-kształtowania prozdrowotnego stylu życia oraz dbałości o zdrowie.
-Zajęcia wychowania fizycznego powinny być prowadzone w sali sportowej, w specjalnie przygotowanym pomieszczeniu zastępczym bądź na boisku szkolnym. Szczególnie zalecane są zajęcia ruchowe na zewnątrz budynku szkolnego, w środowisku naturalnym. Szkoła powinna także zapewnić urządzenia i sprzęt sportowy niezbędny do zdobycia przez uczniów umiejętności i wiadomości oraz rozwinięcia sprawności określonych w podstawie programowej. Etyka Zajęcia z etyki mają charakter wychowawczy. W ramach tych zajęć powinien być prowadzony pogłębiony dialog wychowawczy na temat moralnego wymiaru ludzkiego działania, odnoszony do otaczającej uczniów rzeczywistości. Do zadań szkoły należy w szczególności:
+kształtowania prozdrowotnego stylu życia oraz dbałości o zdrowie. Zajęcia wychowania fizycznego powinny być prowadzone w sali sportowej, w specjalnie przygotowanym pomieszczeniu zastępczym bądź na boisku szkolnym. Szczególnie zalecane są zajęcia ruchowe na zewnątrz budynku szkolnego, w środowisku naturalnym. Szkoła powinna także zapewnić urządzenia i sprzęt sportowy niezbędny do zdobycia przez uczniów umiejętności i wiadomości oraz rozwinięcia sprawności określonych w podstawie programowej. Etyka Zajęcia z etyki mają charakter wychowawczy. W ramach tych zajęć powinien być prowadzony pogłębiony dialog wychowawczy na temat moralnego wymiaru ludzkiego działania, odnoszony do otaczającej uczniów rzeczywistości. Do zadań szkoły należy w szczególności:
 1)
 wspieranie uczniów w poszukiwaniu wartości;
 2)
@@ -2502,7 +2445,5 @@ ukazywanie uczniom konieczności doskonalenia samego siebie;
 3)
 ukazywanie sensu praw i obowiązków, zasad i reguł, nakazów i zakazów obowiązujących w różnych sytuacjach społecznych: w grupie rówieśniczej, w szkole, w rodzinie, w społeczności lokalnej;
 4)
-uczenie szacunku dla siebie i innych.
-W przypadku niewielkiej liczby uczniów wybierających etykę zalecane są rozwiązania organizacyjne umożliwiające prowadzenie zajęć w grupach różnowiekowych, łączących uczniów z całego II etapu edukacyjnego. W takim przypadku treści nauczania powinny być podzielone na trzy moduły, nadające się do realizowania w dowolnej kolejności, bez uszczerbku dla zrealizowania całości. Takie rozwiązanie pozwala organizacyjnie skonstruować ofertę w każdej szkole, nawet wtedy, gdy liczba uczniów wybierających etykę jest niewielka. W przypadku większej liczby uczniów wybierających etykę szkoła może realizować zajęcia z etyki w grupach łączących uczniów np. tylko z jednego rocznika.
-1) Zalecenie Parlamentu Europejskiego i Rady z dnia 23 kwietnia 2008 r. w sprawie ustanowienia europejskich ram kwalifikacji dla uczenia się przez całe życie (2008/C111/01). 2) Sposób nauczania przedmiotu wychowanie do życia w rodzinie określa rozporządzenie Ministra Edukacji Narodowej z dnia 12 sierpnia 1999 r. w sprawie sposobu nauczania szkolnego oraz zakresu treści dotyczących wiedzy o życiu seksualnym człowieka, o zasadach świadomego i odpowiedzialnego rodzicielstwa, o wartości rodziny, życia w fazie prenatalnej oraz metodach i środkach świadomej prokreacji zawartych w podstawie programowej kształcenia ogólnego (Dz. U. z 2014 r. poz. 395). 3) Przedmiot język mniejszości narodowej lub etnicznej oraz przedmiot język regionalny – język kaszubski jest realizowany w szkołach (oddziałach) z nauczaniem języka mniejszości narodowych lub etnicznych oraz języka regionalnego – języka kaszubskiego, zgodnie z rozporządzeniem Ministra Edukacji Narodowej z dnia 14 listopada 2007 r. w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym (Dz. U. z 2014 r. poz. 263). 4) Europejski System Opisu Kształcenia Językowego: uczenie się, nauczanie, ocenianie (Common European Framework of Reference for Languages: Learning, teaching, assessment).
+uczenie szacunku dla siebie i innych. W przypadku niewielkiej liczby uczniów wybierających etykę zalecane są rozwiązania organizacyjne umożliwiające prowadzenie zajęć w grupach różnowiekowych, łączących uczniów z całego II etapu edukacyjnego. W takim przypadku treści nauczania powinny być podzielone na trzy moduły, nadające się do realizowania w dowolnej kolejności, bez uszczerbku dla zrealizowania całości. Takie rozwiązanie pozwala organizacyjnie skonstruować ofertę w każdej szkole, nawet wtedy, gdy liczba uczniów wybierających etykę jest niewielka. W przypadku większej liczby uczniów wybierających etykę szkoła może realizować zajęcia z etyki w grupach łączących uczniów np. tylko z jednego rocznika. 1) Zalecenie Parlamentu Europejskiego i Rady z dnia 23 kwietnia 2008 r. w sprawie ustanowienia europejskich ram kwalifikacji dla uczenia się przez całe życie (2008/C111/01). 2) Sposób nauczania przedmiotu wychowanie do życia w rodzinie określa rozporządzenie Ministra Edukacji Narodowej z dnia 12 sierpnia 1999 r. w sprawie sposobu nauczania szkolnego oraz zakresu treści dotyczących wiedzy o życiu seksualnym człowieka, o zasadach świadomego i odpowiedzialnego rodzicielstwa, o wartości rodziny, życia w fazie prenatalnej oraz metodach i środkach świadomej prokreacji zawartych w podstawie programowej kształcenia ogólnego (Dz. U. z 2014 r. poz. 395). 3) Przedmiot język mniejszości narodowej lub etnicznej oraz przedmiot język regionalny – język kaszubski jest realizowany w szkołach (oddziałach) z nauczaniem języka mniejszości narodowych lub etnicznych oraz języka regionalnego – języka kaszubskiego, zgodnie z rozporządzeniem Ministra Edukacji Narodowej z dnia 14 listopada 2007 r. w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym (Dz. U. z 2014 r. poz. 263). 4) Europejski System Opisu Kształcenia Językowego: uczenie się, nauczanie, ocenianie (Common European Framework of Reference for Languages: Learning, teaching, assessment).
 

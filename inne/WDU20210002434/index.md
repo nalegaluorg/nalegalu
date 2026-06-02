@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-15 |
 | Data wydania | 2021-12-28 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002434) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2434/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2021 r. poz. 955 i 1641) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm.) w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału terytorialnego kraju”:
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. poz. 161, z 2001 r. poz. 100 i 1840, z 2002 r. poz. 1459, z 2003 r. poz. 2022, z 2004 r. poz. 2535, z 2005 r. poz. 1706, z 2006 r. poz. 246 i 1577, z 2007 r. poz. 1386, z 2008 r. poz. 1358, z 2009 r. poz. 1559, z 2010 r. poz. 1727, z 2012 r. poz. 403 i 1389, z 2013 r. poz. 1585, z 2014 r. poz. 1829, z 2015 r. poz. 2266, z 2016 r. poz. 1916, z 2017 r. poz. 2248, z 2018 r. poz. 717, z 2019 r. poz. 339 oraz z 2020 r. poz. 629 i 2260.) w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału terytorialnego kraju”:
 1)
 w części dotyczącej województwa kujawsko-pomorskiego powiatu świeckiego w części Gminy wyrazy „Pruszcz 041408 2” zastępuje się wyrazami: „ Pruszcz 041408 3 Pruszcz – miasto 041408 4 Pruszcz – obszar wiejski 041408 5 ” ;
 2)
@@ -55,5 +54,5 @@ w części dotyczącej województwa świętokrzyskiego powiatu opatowskiego w cz
 7)
 w części dotyczącej województwa wielkopolskiego powiatu pilskiego w części Gminy wyrazy „Kaczory 301903 2” zastępuje się wyrazami: „ Kaczory 301903 3 Kaczory – miasto 301903 4 Kaczory – obszar wiejski 301903 5 ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. poz. 161, z 2001 r. poz. 100 i 1840, z 2002 r. poz. 1459, z 2003 r. poz. 2022, z 2004 r. poz. 2535, z 2005 r. poz. 1706, z 2006 r. poz. 246 i 1577, z 2007 r. poz. 1386, z 2008 r. poz. 1358, z 2009 r. poz. 1559, z 2010 r. poz. 1727, z 2012 r. poz. 403 i 1389, z 2013 r. poz. 1585, z 2014 r. poz. 1829, z 2015 r. poz. 2266, z 2016 r. poz. 1916, z 2017 r. poz. 2248, z 2018 r. poz. 717, z 2019 r. poz. 339 oraz z 2020 r. poz. 629 i 2260.
 

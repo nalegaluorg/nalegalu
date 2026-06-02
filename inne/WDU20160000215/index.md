@@ -34,24 +34,21 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2015 r. poz. 1484 i 1890) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych (Dz. U. poz. 302), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Środowiska z dnia 28 października 2015 r. zmieniającym rozporządzenie w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych (Dz. U. poz. 2051).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 28 października 2015 r. zmieniającego rozporządzenie w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych (Dz. U. poz. 2051), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 28 października 2015 r. zmieniającego rozporządzenie w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych (Dz. U. poz. 2051), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych
-Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2015 r. poz. 1651, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach GórnychMinister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
+Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2015 r. poz. 1651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1688, 1936 i 2171.) zarządza się, co następuje:
 § 1.
 Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych nadaje się statut, który stanowi załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1688, 1936 i 2171. 3) Rozporządzenie zostało ogłoszone w dniu 6 marca 2013 r. 4) Niniejsze rozporządzenie było poprzedzone zarządzeniem Nr 82 Ministra Środowiska z dnia 10 listopada 2005 r. w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ z 2006 r. Nr 1, poz. 39 oraz z 2007 r. Nr 2, poz. 38), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. Nr 224, poz. 1337).
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 6 marca 2013 r..Niniejsze rozporządzenie było poprzedzone zarządzeniem Nr 82 Ministra Środowiska z dnia 10 listopada 2005 r. w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ z 2006 r. Nr 1, poz. 39 oraz z 2007 r. Nr 2, poz. 38), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. Nr 224, poz. 1337). 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1688, 1936 i 2171. 3) Rozporządzenie zostało ogłoszone w dniu 6 marca 2013 r. 4) Niniejsze rozporządzenie było poprzedzone zarządzeniem Nr 82 Ministra Środowiska z dnia 10 listopada 2005 r. w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ z 2006 r. Nr 1, poz. 39 oraz z 2007 r. Nr 2, poz. 38), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. Nr 224, poz. 1337).
 
 ## Załącznik nr 1 — – Statut Bieszczadzkiego Parku Narodowego z siedzibą w Ustrzykach Górnych
 
 § 1.
 Bieszczadzki Park Narodowy z siedzibą w Ustrzykach Górnych, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2015 r. poz. 1651, z późn. zm.) oraz niniejszego statutu.
-§ 2.
+§ 2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Środowiska z dnia 28 października 2015 r. zmieniającego rozporządzenie w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych (Dz. U. poz. 2051), które weszło w życie z dniem 22 grudnia 2015 r..
 Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1)
 Dział Administracji i Gospodarowania Mieniem, w skład którego wchodzą:
@@ -146,5 +143,5 @@ Dyrektor Parku kieruje działalnością Parku przy pomocy zastępcy lub zastępc
 § 5.
 W razie nieobecności dyrektora Parku lub czasowej niezdolności do wykonywania przez niego obowiązków działalnością Parku kieruje i reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.
 § 6.
-Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie.
+Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie. 5) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Środowiska z dnia 28 października 2015 r. zmieniającego rozporządzenie w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych (Dz. U. poz. 2051), które weszło w życie z dniem 22 grudnia 2015 r.
 

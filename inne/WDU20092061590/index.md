@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa oraz ustawę z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-11-05 |
 | Data wydania | 2009-12-07 |
-| Wejście w życie | 2010-01-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092061590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1590/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100, Nr 42, poz. 335 i 340, Nr 98, poz. 817 i Nr 161, poz. 1279 i 1281.) wprowadza się następujące zmiany:
 
 - **1)** w art. 34 po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „
 
@@ -90,7 +89,7 @@ source: "eli-html"
 
 1a. Operat szacunkowy, w odniesieniu do którego została wydana ocena negatywna, od dnia wydania tej oceny traci charakter opinii o wartości nieruchomości, o której mowa w art. 156 ust. 1. Z dniem wydania oceny negatywnej organizacja zawodowa publikuje przez okres 12 miesięcy na swojej stronie internetowej informację o tej ocenie. ” .
 
-**Art. 2.** W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.) w art. 5b po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „ 3a. Jeżeli minister właściwy do spraw Skarbu Państwa zleci sporządzenie dodatkowej wyceny nieruchomości lub wystąpi do organizacji zawodowej rzeczoznawców majątkowych o dokonanie oceny prawidłowości tej wyceny albo wyceny, o której mowa w ust. 2 pkt 1 lit. c, w trybie art. 157 ust. 1 albo ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.), bieg terminu, o którym mowa w ust. 4, ulega zawieszeniu do dnia otrzymania dodatkowej wyceny lub oceny prawidłowości sporządzanej wyceny, nie dłużej jednak niż na 60 dni. 3b. W sprawach szczególnie skomplikowanych okres zawieszenia postępowania może ulec wydłużeniu, nie więcej jednak niż o 30 dni. O przyczynie wydłużenia okresu zawieszenia postępowania minister właściwy do spraw Skarbu Państwa zawiadamia stronę postępowania. ” .
+**Art. 2.** W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538, z 2006 r. Nr 107, poz. 721 oraz z 2009 r. Nr 157, poz. 1241.) w art. 5b po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „ 3a. Jeżeli minister właściwy do spraw Skarbu Państwa zleci sporządzenie dodatkowej wyceny nieruchomości lub wystąpi do organizacji zawodowej rzeczoznawców majątkowych o dokonanie oceny prawidłowości tej wyceny albo wyceny, o której mowa w ust. 2 pkt 1 lit. c, w trybie art. 157 ust. 1 albo ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100, Nr 42, poz. 335 i 340, Nr 98, poz. 817, Nr 161, poz. 1279 i 1281 i Nr 206, poz. 1590.), bieg terminu, o którym mowa w ust. 4, ulega zawieszeniu do dnia otrzymania dodatkowej wyceny lub oceny prawidłowości sporządzanej wyceny, nie dłużej jednak niż na 60 dni. 3b. W sprawach szczególnie skomplikowanych okres zawieszenia postępowania może ulec wydłużeniu, nie więcej jednak niż o 30 dni. O przyczynie wydłużenia okresu zawieszenia postępowania minister właściwy do spraw Skarbu Państwa zawiadamia stronę postępowania. ” .
 
 **Art. 3.** W ustawie z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. Nr 175, poz. 1459 oraz z 2007 r. Nr 191, poz. 1371) wprowadza się następujące zmiany:
 
@@ -105,7 +104,7 @@ source: "eli-html"
 - **2)** w art. 4: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. W decyzji, o której mowa w art. 3 ust. 1, właściwy organ ustala opłatę z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności. Do ustalenia tej opłaty stosuje się odpowiednio przepisy art. 67 ust. 3a i art. 69 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.). ” , ust. 7 otrzymuje brzmienie: „
+2. W decyzji, o której mowa w art. 3 ust. 1, właściwy organ ustala opłatę z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności. Do ustalenia tej opłaty stosuje się odpowiednio przepisy art. 67 ust. 3a i art. 69 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100, Nr 42, poz. 335 i 340, Nr 98, poz. 817, Nr 161, poz. 1279 i 1281 i Nr 206, poz. 1590.). ” , ust. 7 otrzymuje brzmienie: „
 
 - **b)**
 
@@ -141,5 +140,5 @@ source: "eli-html"
 
 **Art. 4.** W sprawach wszczętych i niezakończonych, prowadzonych na podstawie przepisów działów III i IV ustawy zmienianej w art. 1, stosuje się przepisy dotychczasowe. W sprawach wszczętych i niezakończonych, prowadzonych na podstawie przepisów ustawy zmienianej w art. 3, w brzmieniu dotychczasowym, w przypadkach, w których istnieje konieczność podjęcia nowych zarządzeń lub uchwał uwzględniających przepisy wprowadzone niniejszą ustawą, organ zawiesza postępowanie do czasu podjęcia tych zarządzeń lub uchwał.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa oraz ustawę z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100, Nr 42, poz. 335 i 340, Nr 98, poz. 817 i Nr 161, poz. 1279 i 1281. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538, z 2006 r. Nr 107, poz. 721 oraz z 2009 r. Nr 157, poz. 1241. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100, Nr 42, poz. 335 i 340, Nr 98, poz. 817, Nr 161, poz. 1279 i 1281 i Nr 206, poz. 1590. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100, Nr 42, poz. 335 i 340, Nr 98, poz. 817, Nr 161, poz. 1279 i 1281 i Nr 206, poz. 1590.
 

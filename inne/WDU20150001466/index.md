@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Administracji i Cyfryzacjiz dnia 16 września 2015 r. w sprawie udzielania pomocy na rozwój infrastruktury szerokopasmowej w ramach Programu Operacyjnego Polska Cyfrowa na lata 2014–2020
+# Rozporządzenie Ministra Administracji i Cyfryzacjiz dnia 16 września 2015 r. w sprawie udzielania pomocy na rozwój infrastruktury szerokopasmowej w ramach Programu Operacyjnego Polska Cyfrowa na lata 2014–2020 Tekst Programu Operacyjnego Polska Cyfrowa na lata 2014–2020 został zaakceptowany decyzją Komisji Europejskiej nr CCI 2014PL16RFOP002 z dnia 5 grudnia 2014 r. przyjmującą niektóre elementy programu operacyjnego „Polska Cyfrowa na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce i przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Polska Cyfrowa na lata 2014–2020.
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-16 |
 | Data wydania | 2015-09-24 |
-| Wejście w życie | 2015-10-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1466/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Centrum Projektów Polska Cyfrowa bezzwrotnego wsparcia finansowego w ramach działania 1.1 Programu Operacyjnego Polska Cyfrowa na lata 2014–2020, zwanego dalej „wsparciem”, przeznaczonego na pokrycie części wydatków kwalifikujących się do objęcia wsparciem.
@@ -48,7 +47,7 @@ dostępie hurtowym – należy przez to rozumieć dostęp hurtowy zgodnie z art.
 4)
 fizycznym uwolnieniu pętli – należy przez to rozumieć fizyczne uwolnienie pętli zgodnie z art. 2 pkt 136 rozporządzenia Komisji (UE) nr 651/2014;
 5)
-infrastrukturze szerokopasmowej – należy przez to rozumieć sieć szerokopasmową zgodnie z art. 2 ust. 1 pkt 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2015 r. poz. 880 i 1045) lub infrastrukturę telekomunikacyjną zgodnie z art. 2 pkt 8 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.);
+infrastrukturze szerokopasmowej – należy przez to rozumieć sieć szerokopasmową zgodnie z art. 2 ust. 1 pkt 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2015 r. poz. 880 i 1045) lub infrastrukturę telekomunikacyjną zgodnie z art. 2 pkt 8 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069.);
 6)
 intensywności wsparcia – należy przez to rozumieć intensywność pomocy zgodnie z art. 2 pkt 26 rozporządzenia Komisji (UE) nr 651/2014;
 7)
@@ -62,7 +61,7 @@ rozpoczęciu realizacji projektu – należy przez to rozumieć rozpoczęcie pra
 11)
 sieciach NGA – należy przez to rozumieć sieci dostępu nowej generacji (sieci NGA) zgodnie z art. 2 pkt 138 rozporządzenia Komisji (UE) nr 651/2014;
 12)
-środkach trwałych – należy przez to rozumieć środki trwałe, o których mowa w art. 3 ust. 1 pkt 15 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.), zwanej dalej „ustawą o rachunkowości”;
+środkach trwałych – należy przez to rozumieć środki trwałe, o których mowa w art. 3 ust. 1 pkt 15 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045, 1166 i 1333.), zwanej dalej „ustawą o rachunkowości”;
 13)
 trwałości projektu – należy przez to rozumieć trwałość operacji zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320);
 14)
@@ -105,7 +104,7 @@ zobowiązał się do realizacji i zachowania trwałości projektu;
 5)
 zobowiązał się do zapewnienia hurtowego dostępu na równych i niedyskryminujących warunkach, w tym fizycznego uwolnienia pętli, po cenie ustalonej zgodnie z art. 52 ust. 6 rozporządzenia Komisji (UE) nr 651/2014;
 6)
-przedłożył informacje niezbędne do udzielenia pomocy innej niż pomoc de minimis , określone w przepisach wydanych na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.);
+przedłożył informacje niezbędne do udzielenia pomocy innej niż pomoc de minimis , określone w przepisach wydanych na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.);
 7)
 zobowiązał się do prowadzenia ewidencji, o której mowa w art. 10 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, przez okres 7 lat od dnia zakończenia realizacji projektu;
 8)
@@ -170,7 +169,7 @@ obsługę instrumentów zabezpieczających realizację umowy o dofinansowanie, o
 3)
 przygotowanie projektu w zakresie niezbędnym do złożenia wniosku o udzielenie wsparcia, nie wcześniej niż 3 miesiące przed dniem złożenia wniosku, do wysokości 20 tysięcy złotych; wsparcie nie obejmuje wydatków związanych z wypełnieniem formularza wniosku;
 4)
-przygotowanie dokumentacji powykonawczej w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.).
+przygotowanie dokumentacji powykonawczej w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 200, 443, 528, 774, 1165 i 1265.).
 7.
 Cenę nabycia wartości niematerialnych i prawnych oraz środków trwałych, kwalifikujących się do objęcia wsparciem, ustala się zgodnie z przepisami o rachunkowości.
 § 8.
@@ -192,7 +191,7 @@ Udział kryterium dotyczącego oceny wnioskowanej kwoty wsparcia lub maksymalnej
 1.
 Wsparcie, o którym mowa w § 6 ust. 1 pkt 2, może być udzielane pod warunkiem, że łącznie z inną pomocą de minimis , otrzymaną w danym roku podatkowym oraz w ciągu dwóch poprzedzających lat podatkowych z różnych źródeł i w różnych formach, nie przekroczy kwoty 200 tysięcy euro dla jednego przedsiębiorcy, a w przypadku jednego przedsiębiorcy prowadzącego działalność w sektorze transportu drogowego towarów 100 tysięcy euro.
 2.
-Jeżeli wartość wsparcia dla projektu przekracza kwotę określoną w art. 52 ust. 7 rozporządzenia Komisji (UE) nr 651/2014 umowa o dofinansowanie zawiera zapisy regulujące sposób monitorowania i wycofania pomocy.
+Jeżeli wartość wsparcia dla projektu przekracza kwotę określoną w art. 52 ust. 7 rozporządzenia Komisji (UE) nr 651/2014 umowa o dofinansowanie zawiera zapisy regulujące sposób monitorowania i wycofania pomocyW rozumieniu Wytycznych UE w sprawie stosowania reguł pomocy państwa w odniesieniu do szybkiej budowy/rozbudowy sieci szerokopasmowych, zawartych w komunikacie Komisji 2013/C 25/01 (Dz. Urz. UE C z 26.01.2013, str. 1)..
 3.
 Wsparcie podlega indywidualnej notyfikacji Komisji Europejskiej w przypadku określonym w art. 4 ust. 1 lit. y rozporządzenia Komisji (UE) nr 651/2014.
 § 10.
@@ -202,5 +201,5 @@ pkt 1, jest udzielane do końca okresu dostosowawczego, o którym mowa w art. 58
 2)
 pkt 2, jest udzielane do końca okresu dostosowawczego, o którym mowa w art. 7 ust. 4 rozporządzenia Komisji (UE) nr 1407/2013.
 § 11.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Tekst Programu Operacyjnego Polska Cyfrowa na lata 2014–2020 został zaakceptowany decyzją Komisji Europejskiej nr CCI 2014PL16RFOP002 z dnia 5 grudnia 2014 r. przyjmującą niektóre elementy programu operacyjnego „Polska Cyfrowa na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia” w Polsce i przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia projektu Programu Operacyjnego Polska Cyfrowa na lata 2014–2020. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 378, 1130 i 1240. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 i 1198 oraz z 2015 r. poz. 1069. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045, 1166 i 1333. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 200, 443, 528, 774, 1165 i 1265. 8) W rozumieniu Wytycznych UE w sprawie stosowania reguł pomocy państwa w odniesieniu do szybkiej budowy/rozbudowy sieci szerokopasmowych, zawartych w komunikacie Komisji 2013/C 25/01 (Dz. Urz. UE C z 26.01.2013, str. 1).
 

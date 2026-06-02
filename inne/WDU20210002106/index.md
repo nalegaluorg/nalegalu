@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 października 2021 r. o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
+# Ustawa z dnia 14 października 2021 r. o zmianie ustawy o rachunkowości oraz niektórych innych ustaw Niniejsza ustawa służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2019/815 z dnia 17 grudnia 2018 r. uzupełniającego dyrektywę 2004/109/WE Parlamentu Europejskiego i Rady w odniesieniu do regulacyjnych standardów technicznych dotyczących specyfikacji jednolitego elektronicznego formatu raportowania (Dz. Urz. UE L 143 z 29.05.2019, str. 1, Dz. Urz. UE L 145 z 04.06.2019, str. 85, Dz. Urz. UE L 233 z 10.09.2019, str. 26, Dz. Urz. UE L 326 z 16.12.2019, str. 1 oraz Dz. Urz. UE L 429 z 18.12.2020, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-14 |
 | Data wydania | 2021-11-23 |
-| Wejście w życie | 2021-12-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2106/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz ustawę z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2.
 
 **Art. 1.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217 i 2105) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w ust. 1 po pkt 3b dodaje się pkt 3c i 3d w brzmieniu: „
-- **3c)** rozporządzeniu Komisji (UE) 2019/815 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2019/815 z dnia 17 grudnia 2018 r. uzupełniające dyrektywę 2004/109/WE Parlamentu Europejskiego i Rady w odniesieniu do regulacyjnych standardów technicznych dotyczących specyfikacji jednolitego elektronicznego formatu raportowania (Dz. Urz. UE L 143 z 29.05.2019, str. 1, z późn. zm.);
+- **3c)** rozporządzeniu Komisji (UE) 2019/815 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2019/815 z dnia 17 grudnia 2018 r. uzupełniające dyrektywę 2004/109/WE Parlamentu Europejskiego i Rady w odniesieniu do regulacyjnych standardów technicznych dotyczących specyfikacji jednolitego elektronicznego formatu raportowania (Dz. Urz. UE L 143 z 29.05.2019, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 145 z 04.06.2019, str. 85, Dz. Urz. UE L 233 z 10.09.2019, str. 26, Dz. Urz. UE L 326 z 16.12.2019, str. 1 oraz Dz. Urz. UE L 429 z 18.12.2020, str. 1.);
 - **3d)** formacie przeszukiwalnym – rozumie się przez to format danych, przy użyciu którego dokument elektroniczny jest zapisany w taki sposób, że możliwe jest posłużenie się ogólnie dostępnym oprogramowaniem, przeznaczonym do odczytu lub edycji dokumentów zapisanych w tym formacie, w celu skutecznego przeszukania oraz skopiowania ciągu znaków alfanumerycznych zawartych w treści tego dokumentu; ” ;
 - **2)** w art. 45: po ust. 1g dodaje się ust. 1ga w brzmieniu: „ 1ga. Sprawozdania finansowe emitentów, których papiery wartościowe zostały dopuszczone do obrotu na rynku regulowanym, sporządza się w formacie, o którym mowa w rozporządzeniu Komisji (UE) 2019/815. ” , ust. 1h otrzymuje brzmienie: „
     - **a)**
@@ -158,7 +159,7 @@ source: "eli-html"
 - **5)** w art. 78 w ust. 3 pkt 3 otrzymuje brzmienie: „
 - **3)** przekazanie przez biegłego rewidenta lub firmę audytorską – w przypadku przeprowadzania badania ustawowego jednostki należącej do grupy kapitałowej, której jednostka dominująca znajduje się w państwie Unii Europejskiej lub państwie trzecim – dokumentacji dotyczącej wykonywanej pracy w zakresie badania ustawowego biegłemu rewidentowi grupy kapitałowej, jeżeli dokumentacja ta jest konieczna do przeprowadzenia badania skonsolidowanego sprawozdania finansowego jednostki dominującej; ” ;
 - **6)** w art. 83 w ust. 6 w pkt 5 w lit. d kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
-- **6)** opinię, czy badane skonsolidowane sprawozdanie finansowe zostało oznakowane zgodnie z wymogami określonymi w rozporządzeniu delegowanym Komisji (UE) 2019/815 z dnia 17 grudnia 2018 r. uzupełniającym dyrektywę 2004/109/WE Parlamentu Europejskiego i Rady w odniesieniu do regulacyjnych standardów technicznych dotyczących specyfikacji jednolitego elektronicznego formatu raportowania (Dz. Urz. UE L 143 z 29.05.2019, str. 1, z późn. zm.), w przypadku skonsolidowanych sprawozdań finansowych emitentów, których papiery wartościowe zostały dopuszczone do obrotu na rynku regulowanym, oraz skonsolidowanych sprawozdań finansowych innych jednostek, które zostały oznakowane zgodnie z wymogami tego rozporządzenia. ” ;
+- **6)** opinię, czy badane skonsolidowane sprawozdanie finansowe zostało oznakowane zgodnie z wymogami określonymi w rozporządzeniu delegowanym Komisji (UE) 2019/815 z dnia 17 grudnia 2018 r. uzupełniającym dyrektywę 2004/109/WE Parlamentu Europejskiego i Rady w odniesieniu do regulacyjnych standardów technicznych dotyczących specyfikacji jednolitego elektronicznego formatu raportowania (Dz. Urz. UE L 143 z 29.05.2019, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 145 z 04.06.2019, str. 85, Dz. Urz. UE L 233 z 10.09.2019, str. 26, Dz. Urz. UE L 326 z 16.12.2019, str. 1 oraz Dz. Urz. UE L 429 z 18.12.2020, str. 1.), w przypadku skonsolidowanych sprawozdań finansowych emitentów, których papiery wartościowe zostały dopuszczone do obrotu na rynku regulowanym, oraz skonsolidowanych sprawozdań finansowych innych jednostek, które zostały oznakowane zgodnie z wymogami tego rozporządzenia. ” ;
 - **7)** w art. 94l po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 2a. Posiedzenia Rady Agencji mogą odbywać się przy użyciu środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, umożliwiających przekazywanie obrazu i dźwięku w czasie rzeczywistym. ” ;
@@ -221,7 +222,7 @@ source: "eli-html"
 2. Kontrola, o której mowa w art. 106 ust. 1, może być prowadzona w siedzibie:
 
 - **1)** Agencji,
-- **2)** kontrolowanej firmy audytorskiej lub miejscu wykonywania przez nią działalności jeżeli może to usprawnić prowadzenie kontroli.
+- **2)** kontrolowanej firmy audytorskiej lub miejscu wykonywania przez nią działalności – jeżeli może to usprawnić prowadzenie kontroli.
 
 3. Do kontroli, o której mowa w art. 106 ust. 1, nie stosuje się przepisu art. 51 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105).
 
@@ -240,7 +241,7 @@ source: "eli-html"
 - **5)** informacji o sposobie rozpatrzenia zastrzeżeń, o której mowa w art. 120 ust. 2,
 - **6)** zaleceń, o których mowa w art. 121 ust. 1 pkt 1,
 - **7)** raportu z kontroli, o którym mowa w art. 122,
-- **8)** innych niezbędnych dokumentów związanych z kontrolą następuje przy użyciu środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, przy czym w takim przypadku dowodem doręczenia jest potwierdzenie transmisji danych.
+- **8)** innych niezbędnych dokumentów związanych z kontrolą – następuje przy użyciu środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, przy czym w takim przypadku dowodem doręczenia jest potwierdzenie transmisji danych.
 
 2. Doręczenie dokumentów, o których mowa w ust. 1, następuje na adres poczty elektronicznej, o którym mowa w art. 57 ust. 2 pkt 12, przy czym firma audytorska może wskazać Agencji inny adres poczty elektronicznej przeznaczony do doręczeń dokumentów związanych z prowadzoną kontrolą.
 
@@ -373,16 +374,16 @@ source: "eli-html"
 3. Sprawozdanie finansowe, sprawozdanie z działalności, skonsolidowane sprawozdanie finansowe i sprawozdanie z działalności grupy kapitałowej, o których mowa w ustawie zmienianej w art. 1:
 
 - **1)** które zostały zatwierdzone przed dniem 1 czerwca 2022 r.,
-- **2)** do których zostały sporządzone odmowa podpisu, do której ma zastosowanie art. 52 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oświadczenie lub odmowa złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b ustawy zmienianej w art. 1 składa się, wraz ze wszystkimi wymaganymi załącznikami, we właściwym rejestrze sądowym, w okresie od dnia 1 czerwca 2022 r. do dnia 15 czerwca 2022 r.
+- **2)** do których zostały sporządzone odmowa podpisu, do której ma zastosowanie art. 52 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oświadczenie lub odmowa złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b ustawy zmienianej w art. 1 – składa się, wraz ze wszystkimi wymaganymi załącznikami, we właściwym rejestrze sądowym, w okresie od dnia 1 czerwca 2022 r. do dnia 15 czerwca 2022 r.
 
 4. Sprawozdanie z płatności na rzecz administracji publicznej oraz skonsolidowane sprawozdanie z płatności na rzecz administracji publicznej, o których mowa w ustawie zmienianej w art. 1:
 
 - **1)** które zostały sporządzone przed dniem 1 czerwca 2022 r. i dotyczą roku obrotowego, za który zostały sporządzone sprawozdania, o których mowa w ust. 3,
-- **2)** do których zostały sporządzone odmowa podpisu, do której ma zastosowanie art. 52 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oświadczenie lub odmowa złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b ustawy zmienianej w art. 1 składa się, wraz ze wszystkimi wymaganymi załącznikami, we właściwym rejestrze sądowym, w okresie od dnia 1 czerwca 2022 r. do dnia 15 czerwca 2022 r.
+- **2)** do których zostały sporządzone odmowa podpisu, do której ma zastosowanie art. 52 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oświadczenie lub odmowa złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b ustawy zmienianej w art. 1 – składa się, wraz ze wszystkimi wymaganymi załącznikami, we właściwym rejestrze sądowym, w okresie od dnia 1 czerwca 2022 r. do dnia 15 czerwca 2022 r.
 
 **Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 4, pkt 8 lit. c, pkt 9 i 11 oraz art. 2, które wchodzą w życie z dniem 1 stycznia 2022 r.;
-- **2)** art. 1 pkt 10 i art. 3, które wchodzą w życie z dniem 1 czerwca 2022 r.
+- **2)** art. 1 pkt 10 i art. 3, które wchodzą w życie z dniem 1 czerwca 2022 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2019/815 z dnia 17 grudnia 2018 r. uzupełniającego dyrektywę 2004/109/WE Parlamentu Europejskiego i Rady w odniesieniu do regulacyjnych standardów technicznych dotyczących specyfikacji jednolitego elektronicznego formatu raportowania (Dz. Urz. UE L 143 z 29.05.2019, str. 1, Dz. Urz. UE L 145 z 04.06.2019, str. 85, Dz. Urz. UE L 233 z 10.09.2019, str. 26, Dz. Urz. UE L 326 z 16.12.2019, str. 1 oraz Dz. Urz. UE L 429 z 18.12.2020, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz ustawę z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 145 z 04.06.2019, str. 85, Dz. Urz. UE L 233 z 10.09.2019, str. 26, Dz. Urz. UE L 326 z 16.12.2019, str. 1 oraz Dz. Urz. UE L 429 z 18.12.2020, str. 1. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 145 z 04.06.2019, str. 85, Dz. Urz. UE L 233 z 10.09.2019, str. 26, Dz. Urz. UE L 326 z 16.12.2019, str. 1 oraz Dz. Urz. UE L 429 z 18.12.2020, str. 1.
 
 

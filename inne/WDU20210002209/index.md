@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Rady Ministrówz dnia 8 listopada 2021 r. w sprawie szczegółowych zasad i trybu wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu i poborze energii elektrycznej lub ciepła
+# Rozporządzenie Rady Ministrówz dnia 8 listopada 2021 r. w sprawie szczegółowych zasad i trybu wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu i poborze energii elektrycznej lub ciepła Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/941 z dnia 5 czerwca 2019 r. w sprawie gotowości na wypadek zagrożeń w sektorze energii elektrycznej i uchylającego dyrektywę 2005/89/WE (Dz. Urz. UE L 158 z 14.06.2019, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-08 |
 | Data wydania | 2021-12-01 |
-| Wejście w życie | 2021-12-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2209/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe zasady i tryb wprowadzania ograniczeń w dostarczaniu i poborze energii elektrycznej Rozdział 3 – Szczegółowe zasady i tryb wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu ciepła Rozdział 4 – Przepisy przejściowe, dostosowujące i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 11 ust. 6 i 6a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, 868, 1093, 1505, 1642 i 1873) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe zasady i tryb wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu i poborze energii elektrycznej lub w dostarczaniu ciepła, w tym:
@@ -48,12 +48,11 @@ Ograniczenia w dostarczaniu i poborze energii elektrycznej stanowią krajowy śr
 1.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
-obiekt – budynek lub budowlę w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.), a także ich wyodrębnioną część albo zespół budynków lub budowli, które mieszczą się pod jednym adresem lub w jednej lokalizacji, wraz z urządzeniami połączonymi ze sobą siecią lub instalacją odbiorczą przyłączoną do:
+obiekt – budynek lub budowlę w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282, 784 i 1986.), a także ich wyodrębnioną część albo zespół budynków lub budowli, które mieszczą się pod jednym adresem lub w jednej lokalizacji, wraz z urządzeniami połączonymi ze sobą siecią lub instalacją odbiorczą przyłączoną do:
 a)
 sieci elektroenergetycznej – w celu dostarczania energii elektrycznej na podstawie umowy sprzedaży i umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej albo umowy kompleksowej, o których mowa odpowiednio w art. 5 ust. 1 i 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zwanej dalej „ustawą”, zwanych dalej „umowami”, lub
 b)
-sieci ciepłowniczej – w celu dostarczania ciepła na podstawie umowy sprzedaży i umowy o świadczenie usług przesyłania lub dystrybucji ciepła albo umowy kompleksowej, o których mowa odpowiednio w art. 5 ust. 1 i 3 ustawy
-zawartych z tym samym odbiorcą, przy wykorzystaniu jednego lub więcej przyłączy tworzących kompletny układ zasilania;
+sieci ciepłowniczej – w celu dostarczania ciepła na podstawie umowy sprzedaży i umowy o świadczenie usług przesyłania lub dystrybucji ciepła albo umowy kompleksowej, o których mowa odpowiednio w art. 5 ust. 1 i 3 ustawy – zawartych z tym samym odbiorcą, przy wykorzystaniu jednego lub więcej przyłączy tworzących kompletny układ zasilania;
 2)
 operator – operatora systemu przesyłowego elektroenergetycznego, operatora systemu dystrybucyjnego elektroenergetycznego lub operatora systemu połączonego elektroenergetycznego.
 2.
@@ -87,6 +86,7 @@ rodzaje odbiorców, których mają dotyczyć ograniczenia, o których mowa w pkt
 rodzaje odbiorców, których proponuje się wyłączyć z ograniczeń, o których mowa w pkt 1 i 5;
 8)
 proponowany czas trwania ograniczeń, o których mowa w pkt 1, 3 i 5.
+Szczegółowe zasady i tryb wprowadzania ograniczeń w dostarczaniu i poborze energii elektrycznej
 § 4.
 1.
 Ograniczenia w dostarczaniu i poborze energii elektrycznej mogą być wprowadzone, gdy operatorzy wyczerpią wszelkie dostępne środki, które służą zapewnieniu prawidłowego funkcjonowania systemu elektroenergetycznego – przy dochowaniu należytej staranności.
@@ -131,8 +131,7 @@ realizacji zadań wpływających w sposób istotny na spełnianie wymagań w zak
 e)
 wytwarzania, przesyłania lub dystrybucji energii elektrycznej lub ciepła,
 f)
-wykonywania przez przedsiębiorców zadań na rzecz obronności państwa w zakresie mobilizacji gospodarki, o których mowa w art. 2 pkt 1 ustawy z dnia 23 sierpnia 2001 r. o organizowaniu zadań na rzecz obronności państwa realizowanych przez przedsiębiorców (Dz. U. z 2020 r. poz. 1669), w okresie uruchomienia programu mobilizacji gospodarki w zakresie realizacji tych zadań
-albo wyodrębnionej części obiektu wykorzystywanego do tych celów;
+wykonywania przez przedsiębiorców zadań na rzecz obronności państwa w zakresie mobilizacji gospodarki, o których mowa w art. 2 pkt 1 ustawy z dnia 23 sierpnia 2001 r. o organizowaniu zadań na rzecz obronności państwa realizowanych przez przedsiębiorców (Dz. U. z 2020 r. poz. 1669), w okresie uruchomienia programu mobilizacji gospodarki w zakresie realizacji tych zadań – albo wyodrębnionej części obiektu wykorzystywanego do tych celów;
 4)
 stanowiącego infrastrukturę krytyczną ujętą w wykazie, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2020 r. poz. 1856 oraz z 2021 r. poz. 159), zlokalizowaną na terenie Rzeczypospolitej Polskiej.
 2.
@@ -256,6 +255,7 @@ O wprowadzeniu ograniczeń w dostarczaniu i poborze energii elektrycznej oraz o 
 Operatorzy systemów dystrybucyjnych elektroenergetycznych indywidualnie powiadamiają odbiorców przyłączonych do sieci dystrybucyjnej o wprowadzeniu ograniczeń w dostarczaniu i poborze energii elektrycznej oraz o wprowadzeniu, w trakcie trwania ograniczeń w dostarczaniu i poborze energii elektrycznej, innych stopni zasilania niż stopnie zasilania ogłoszone w komunikatach radiowych, przesyłając wiadomość tekstową na adres poczty elektronicznej lub na numer telefonu wskazany przez odbiorcę w umowach.
 6.
 Powiadomienia o zmianie wprowadzonych stopni zasilania innych niż stopnie zasilania ogłoszone w komunikatach radiowych operatorzy zamieszczają również na swoich stronach internetowych. Powiadomienia te są stosowane przez odbiorcę w pierwszej kolejności w stosunku do powiadomień ogłaszanych w komunikatach radiowych.
+Szczegółowe zasady i tryb wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu ciepła
 § 11.
 1.
 Ograniczenia w sprzedaży paliw stałych mogą być wprowadzone, gdy wojewodowie oraz podmioty wykonujące działalność gospodarczą w zakresie sprzedaży paliw stałych wyczerpią dostępne środki, które służą zaspokojeniu potrzeb odbiorców na te paliwa – przy dochowaniu należytej staranności w zakresie zapewnienia maksymalnych ich dostaw z dostępnych źródeł.
@@ -336,6 +336,7 @@ Plan wprowadzania ograniczeń w dostarczaniu ciepła aktualizuje się co najmnie
 Podmiot prowadzący działalność w zakresie zaopatrzenia w ciepło zapoznaje odbiorców z planem wprowadzania ograniczeń w dostarczaniu ciepła przez ogłoszenia zamieszczane w sposób zwyczajowo przyjęty w danej miejscowości lub w formie elektronicznej na swojej stronie internetowej albo w formie ustalonej w umowach, co najmniej 30 dni przed dniem rozpoczęcia okresu, na jaki ten plan został uzgodniony, zgodnie z § 14 ust. 2.
 2.
 Podmiot prowadzący działalność w zakresie zaopatrzenia w ciepło informuje odbiorców o wprowadzonych ograniczeniach w sposób zwyczajowo przyjęty w danej miejscowości oraz na swojej stronie internetowej lub w formie ustalonej w umowach.
+Przepisy przejściowe, dostosowujące i końcowe
 § 16.
 1.
 Plany wprowadzania ograniczeń w rozumieniu przepisów dotychczasowych uzgodnione przed dniem wejścia w życie rozporządzenia zachowują ważność do czasu uzgodnienia planów wprowadzania ograniczeń na podstawie rozporządzenia.
@@ -370,13 +371,21 @@ Operator dostosuje zawarte przez niego umowy obowiązujące na dzień wejścia w
 § 18.
 Traci moc rozporządzenie Rady Ministrów z dnia 23 lipca 2007 r. w sprawie szczegółowych zasad i trybu wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu i poborze energii elektrycznej lub ciepła (Dz. U. poz. 924).
 § 19.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/941 z dnia 5 czerwca 2019 r. w sprawie gotowości na wypadek zagrożeń w sektorze energii elektrycznej i uchylającego dyrektywę 2005/89/WE (Dz. Urz. UE L 158 z 14.06.2019, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282, 784 i 1986.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe zasady i tryb wprowadzania ograniczeń w dostarczaniu i poborze energii elektrycznej
+#### Rozdział 2 – Szczegółowe zasady i tryb wprowadzania ograniczeń w dostarczaniu i poborze energii elektrycznej
 
-#### Rozdział 3 Szczegółowe zasady i tryb wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu ciepła
+#### Rozdział 3 – Szczegółowe zasady i tryb wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu ciepła
 
-#### Rozdział 4 Przepisy przejściowe, dostosowujące i końcowe
+#### Rozdział 4 – Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

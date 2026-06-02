@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 11 lutego 2021 r. w sprawie nabywania akcji spółki publicznej w drodze przymusowego wykupu
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 11 lutego 2021 r. w sprawie nabywania akcji spółki publicznej w drodze przymusowego wykupu Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-11 |
 | Data wydania | 2021-02-16 |
-| Wejście w życie | 2021-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000294) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/294/text.pdf) |
 
@@ -59,8 +58,7 @@ podmiot zależny od żądającego sprzedaży,
 c)
 podmiot dominujący wobec żądającego sprzedaży, lub
 d)
-podmiot będący stroną zawartego z żądającym sprzedaży porozumienia, o którym mowa w art. 87 ust. 1 pkt 5 ustawy
-osiągających liczbę głosów z akcji uprawniającą do przymusowego wykupu, jeżeli nabywają akcje spółki w ramach przymusowego wykupu;
+podmiot będący stroną zawartego z żądającym sprzedaży porozumienia, o którym mowa w art. 87 ust. 1 pkt 5 ustawy – osiągających liczbę głosów z akcji uprawniającą do przymusowego wykupu, jeżeli nabywają akcje spółki w ramach przymusowego wykupu;
 11)
 żądającym sprzedaży – rozumie się przez to akcjonariusza spółki, który wykonuje przysługujące mu prawo przymusowego wykupu.
 § 3.
@@ -144,6 +142,5 @@ Do nabywania akcji objętych przymusowym wykupem ogłoszonym przed dniem wejści
 § 8.
 Traci moc rozporządzenie Ministra Finansów z dnia 14 listopada 2005 r. w sprawie nabywania akcji spółki publicznej w drodze przymusowego wykupu (Dz. U. poz. 1948).
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2021 r.
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2021 r. 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 

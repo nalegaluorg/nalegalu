@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 8 lipca 2016 r. w sprawie danych gromadzonych w informatycznej bazie danych Ubezpieczeniowego Funduszu Gwarancyjnego
+# Rozporządzenie Ministra Finansówz dnia 8 lipca 2016 r. w sprawie danych gromadzonych w informatycznej bazie danych Ubezpieczeniowego Funduszu Gwarancyjnego Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-08 |
 | Data wydania | 2016-07-18 |
-| Wejście w życie | 2016-08-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1040/text.pdf) |
 
@@ -98,6 +97,5 @@ oznaczenie rejestru podmiotów gospodarczych właściwego dla miejsca rejestracj
 § 3.
 Zakład ubezpieczeń przekazuje do Funduszu posiadane dane, o których mowa w § 2, niezwłocznie, nie później jednak niż w terminie 30 dni od dnia ich uzyskania.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy – Prawo dewizowe oraz innych ustaw
+# Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy – Prawo dewizowe oraz innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim oraz ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-01-26 |
 | Data wydania | 2007-04-06 |
-| Wejście w życie | 2007-04-21 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070610410) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/410/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. Nr 141, poz. 1178, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. Nr 141, poz. 1178, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 228, poz. 2260, z 2004 r. Nr 91, poz. 870 i Nr 173, poz. 1808 oraz z 2006 r. Nr 157, poz. 1119.) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – pkt 5 otrzymuje brzmienie: „ 5) krajami trzecimi są państwa niebędące państwami członkowskimi Unii Europejskiej, a także ich terytoria zależne, autonomiczne i stowarzyszone oraz terytoria zależne, autonomiczne i stowarzyszone państw członkowskich Unii Europejskiej, ” ; – po pkt 19 dodaje się pkt 19a w brzmieniu: „ 19a) działalnością gospodarczą, w przypadku wykonywania jej: a) w kraju – jest działalność gospodarcza w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.), b) za granicą – jest działalność gospodarcza w rozumieniu przepisów państwa, w którym jest ona wykonywana, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **1)** w art. 2: w ust. 1: pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** krajami trzecimi są państwa niebędące państwami członkowskimi Unii Europejskiej, a także ich terytoria zależne, autonomiczne i stowarzyszone oraz terytoria zależne, autonomiczne i stowarzyszone państw członkowskich Unii Europejskiej, ” ; po pkt 19 dodaje się pkt 19a w brzmieniu: „
+- **19a)** działalnością gospodarczą, w przypadku wykonywania jej: w kraju – jest działalność gospodarcza w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121, Nr 171, poz. 1225 i Nr 235, poz. 1699.), za granicą – jest działalność gospodarcza w rozumieniu przepisów państwa, w którym jest ona wykonywana, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
     - **b)**
 
 1a. Rezydenta będącego osobą fizyczną, wykonującego za granicą działalność gospodarczą, traktuje się w zakresie czynności związanych z tą działalnością jak nierezydenta. Nierezydenta będącego osobą fizyczną, wykonującego w kraju działalność gospodarczą, traktuje się w zakresie czynności związanych z tą działalnością jak rezydenta. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
@@ -67,18 +71,20 @@ source: "eli-html"
 
 - **6)** w art. 8 ust. 3 otrzymuje brzmienie: „
 
-3. Do decyzji Prezesa Narodowego Banku Polskiego wydanych w sprawach, o których mowa w ust. 2, stosuje się odpowiednio art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.). ” ;
+3. Do decyzji Prezesa Narodowego Banku Polskiego wydanych w sprawach, o których mowa w ust. 2, stosuje się odpowiednio art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692 oraz z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524.). ” ;
 
 - **7)** w art. 9: uchyla się pkt 1–3, pkt 4 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
-- **4)** wywóz, wysyłanie oraz przekazywanie przez rezydentów do krajów trzecich krajowych lub zagranicznych środków płatniczych, z przeznaczeniem na podjęcie lub rozszerzenie w tych krajach działalności gospodarczej, w tym na nabycie nieruchomości na potrzeby tej działalności, z wyjątkiem przekazywania do krajów trzecich krajowych lub zagranicznych środków płatniczych na pokrycie kosztów działalności polegającej na bezpośrednim świadczeniu usług w wykonaniu zawartej umowy lub promocji i reklamie działalności gospodarczej prowadzonej przez rezydenta w kraju, ” , w pkt 5 lit. a i b otrzymują brzmienie: „ papierów wartościowych dłużnych o terminie wykupu krótszym niż rok, z wyjątkiem nabytych w kraju, wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, z wyjątkiem nabytych w kraju lub powstałych w obrocie z rezydentami w zakresie niewymagającym zezwolenia dewizowego, ” , uchyla się pkt 6, w pkt 7: – uchyla się lit. a, – lit. e i f otrzymują brzmienie: „ e) wartości dewizowych zbywanych przez nierezydentów z krajów trzecich, w zamian za inne wartości dewizowe lub krajowe środki płatnicze, f) wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, zbywanych przez nierezydentów z krajów trzecich, ” , w pkt 8 lit. a i b otrzymują brzmienie: „ papierów wartościowych dłużnych o terminie wykupu krótszym niż rok, z wyjątkiem nabytych w tych krajach na podstawie zezwolenia dewizowego, wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, z wyjątkiem nabytych w tych krajach na podstawie zezwolenia dewizowego lub powstałych w obrocie z nierezydentami z krajów trzecich w zakresie niewymagającym zezwolenia dewizowego, ” , uchyla się pkt 10–13, pkt 14 i 15 otrzymują brzmienie: „
+- **4)** wywóz, wysyłanie oraz przekazywanie przez rezydentów do krajów trzecich krajowych lub zagranicznych środków płatniczych, z przeznaczeniem na podjęcie lub rozszerzenie w tych krajach działalności gospodarczej, w tym na nabycie nieruchomości na potrzeby tej działalności, z wyjątkiem przekazywania do krajów trzecich krajowych lub zagranicznych środków płatniczych na pokrycie kosztów działalności polegającej na bezpośrednim świadczeniu usług w wykonaniu zawartej umowy lub promocji i reklamie działalności gospodarczej prowadzonej przez rezydenta w kraju, ” , w pkt 5 lit. a i b otrzymują brzmienie: „ papierów wartościowych dłużnych o terminie wykupu krótszym niż rok, z wyjątkiem nabytych w kraju, wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, z wyjątkiem nabytych w kraju lub powstałych w obrocie z rezydentami w zakresie niewymagającym zezwolenia dewizowego, ” , uchyla się pkt 6, w pkt 7: – uchyla się lit. a, lit. e i f otrzymują brzmienie: „ wartości dewizowych zbywanych przez nierezydentów z krajów trzecich, w zamian za inne wartości dewizowe lub krajowe środki płatnicze, wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, zbywanych przez nierezydentów z krajów trzecich, ” , w pkt 8 lit. a i b otrzymują brzmienie: „ papierów wartościowych dłużnych o terminie wykupu krótszym niż rok, z wyjątkiem nabytych w tych krajach na podstawie zezwolenia dewizowego, wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, z wyjątkiem nabytych w tych krajach na podstawie zezwolenia dewizowego lub powstałych w obrocie z nierezydentami z krajów trzecich w zakresie niewymagającym zezwolenia dewizowego, ” , uchyla się pkt 10–13, pkt 14 i 15 otrzymują brzmienie: „
     - **c)**
     - **a)**
     - **b)**
     - **d)**
     - **e)**
+    - **e)**
+    - **f)**
     - **f)**
     - **a)**
     - **b)**
@@ -117,7 +123,7 @@ source: "eli-html"
 **Art. 21.** Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia:
 
 - **1)** sposób dokonywania potwierdzenia przywozu do kraju oraz wywozu za granicę wartości dewizowych lub krajowych środków płatniczych,
-- **2)** wzory zgłoszenia przywozu do kraju oraz wywozu za granicę wartości dewizowych lub krajowych środków płatniczych mając na uwadze zapewnienie informacji o wywozie za granicę i przywozie do kraju wartości dewizowych oraz krajowych środków płatniczych na potrzeby współpracy z organami informacji finansowej, określonej w odrębnych przepisach. ” ;
+- **2)** wzory zgłoszenia przywozu do kraju oraz wywozu za granicę wartości dewizowych lub krajowych środków płatniczych – mając na uwadze zapewnienie informacji o wywozie za granicę i przywozie do kraju wartości dewizowych oraz krajowych środków płatniczych na potrzeby współpracy z organami informacji finansowej, określonej w odrębnych przepisach. ” ;
 - **13)** uchyla się rozdział 6;
 - **14)** tytuł rozdziału 7 otrzymuje brzmienie: „ Obowiązek związany z przekazami pieniężnymi za granicę oraz rozliczeniami w kraju w obrocie dewizowym ” ;
 - **15)** art. 25 otrzymuje brzmienie: „
@@ -145,16 +151,19 @@ source: "eli-html"
 
 - **20)** po art. 32 dodaje się art. 32a w brzmieniu: „ Przedsiębiorcy wykonujący działalność kantorową oraz rezydenci i nierezydenci dokonujący czynności obrotu dewizowego, które podlegają ograniczeniom lub obowiązkom określonym w ustawie, są obowiązani, na potrzeby kontroli skarbowej oraz kontroli wykonywanej przez Prezesa Narodowego Banku Polskiego, przechowywać dokumenty związane z tą działalnością lub tymi czynnościami przez okres 5 lat, licząc od końca roku kalendarzowego, w którym wykonywali działalność kantorową lub dokonali danej czynności obrotu dewizowego. ” ;
 - **21)** tytuł rozdziału 9 otrzymuje brzmienie: „ Kontrola wykonywana przez Prezesa Narodowego Banku Polskiego ” ;
-- **22)** w art. 33: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) udzielonych indywidualnych zezwoleń dewizowych, ” , – uchyla się pkt 4, w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) obowiązek, o którym mowa w art. 30 ust. 1, jest wykonywany przez rezydentów oraz przedsiębiorców wykonujących działalność kantorową, oraz czy dane przekazywane w wykonaniu tego obowiązku są zgodne ze stanem faktycznym. ” , – uchyla się pkt 4;
+- **22)** w art. 33: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** udzielonych indywidualnych zezwoleń dewizowych, ” , – uchyla się pkt 4, w ust. 2: pkt 3 otrzymuje brzmienie: „
     - **b)**
 
+- **3)** obowiązek, o którym mowa w art. 30 ust. 1, jest wykonywany przez rezydentów oraz przedsiębiorców wykonujących działalność kantorową, oraz czy dane przekazywane w wykonaniu tego obowiązku są zgodne ze stanem faktycznym. ” , – uchyla się pkt 4;
 - **23)** uchyla się art. 39;
 - **24)** uchyla się art. 40a.
 
 **Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2 i Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119 oraz z 2007 r. Nr 25, poz. 162) w art. 52 ust. 2 otrzymuje brzmienie: „ 2. Prezes NBP wykonuje kontrolę w zakresie ustalonym w przepisach prawa dewizowego. ” .
 
-**Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 703 i Nr 62, poz. 717, z 2001 r. Nr 11, poz. 82 i Nr 106, poz. 1149, z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804, Nr 141, poz. 1178 i Nr 213, poz. 1803, z 2003 r. Nr 84, poz. 774, Nr 137, poz. 1302 i Nr 162, poz. 1569, z 2004 r. Nr 29, poz. 257, Nr 68, poz. 623, Nr 93, poz. 894, Nr 97, poz. 963 i Nr 173, poz. 1808, z 2005 r. Nr 130, poz. 1090, Nr 143, poz. 1199, Nr 177, poz. 1468 i Nr 178, poz. 1479 oraz z 2006 r. Nr 79, poz. 546, Nr 104, poz. 708, Nr 191, poz. 1413 i Nr 225, poz. 1635.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 § 4 otrzymuje brzmienie: „
 
@@ -212,6 +221,6 @@ source: "eli-html"
 - **19)** w art. 133 w § 1 pkt 1 otrzymuje brzmienie: „
 - **1)** urząd celny – w sprawach o przestępstwa skarbowe i wykroczenia skarbowe określone w art. 63–75, art. 85–96 § 1 i art. 106h oraz w sprawach ujawnionych w zakresie swojego działania przez urzędy celne z art. 106e, 106f i 106k, a także w sprawach w zakresie swojego działania z art. 54, 56, art. 57 § 1, art. 76, 80, 83, art. 84 § 1, art. 107, 107a oraz art. 109–111 § 1, ” ;
 - **20)** w art. 134 w § 1 pkt 1 otrzymuje brzmienie: „
-- **1)** Straż Graniczna – w sprawach o przestępstwa skarbowe i wykroczenia skarbowe określone w art. 63–71, art. 85–96 § 1, art. 106e i 106f oraz art. 106h, ujawnione w zakresie swego działania przez Straż Graniczną, ” . Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 7, art. 21 oraz art. 30 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7, art. 21 oraz art. 30 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia w życie. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+- **1)** Straż Graniczna – w sprawach o przestępstwa skarbowe i wykroczenia skarbowe określone w art. 63–71, art. 85–96 § 1, art. 106e i 106f oraz art. 106h, ujawnione w zakresie swego działania przez Straż Graniczną, ” . Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 7, art. 21 oraz art. 30 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7, art. 21 oraz art. 30 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia w życie. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim oraz ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 228, poz. 2260, z 2004 r. Nr 91, poz. 870 i Nr 173, poz. 1808 oraz z 2006 r. Nr 157, poz. 1119. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121, Nr 171, poz. 1225 i Nr 235, poz. 1699. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692 oraz z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 703 i Nr 62, poz. 717, z 2001 r. Nr 11, poz. 82 i Nr 106, poz. 1149, z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804, Nr 141, poz. 1178 i Nr 213, poz. 1803, z 2003 r. Nr 84, poz. 774, Nr 137, poz. 1302 i Nr 162, poz. 1569, z 2004 r. Nr 29, poz. 257, Nr 68, poz. 623, Nr 93, poz. 894, Nr 97, poz. 963 i Nr 173, poz. 1808, z 2005 r. Nr 130, poz. 1090, Nr 143, poz. 1199, Nr 177, poz. 1468 i Nr 178, poz. 1479 oraz z 2006 r. Nr 79, poz. 546, Nr 104, poz. 708, Nr 191, poz. 1413 i Nr 225, poz. 1635.
 
 

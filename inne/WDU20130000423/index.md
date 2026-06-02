@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju Regionalnegoz dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na tworzenie i umożliwienie dostępu do sieci szerokopasmowej w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013
+# Rozporządzenie Ministra Rozwoju Regionalnegoz dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na tworzenie i umożliwienie dostępu do sieci szerokopasmowej w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 Tekst Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K (2007) 4568 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz przyjęty uchwałą Rady Ministrów z dnia 30 stycznia 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013. Narodowe Strategiczne Ramy Odniesienia 2007–2013. Zmiany w Programie Operacyjnym Rozwój Polski Wschodniej 2007–2013 zostały zaakceptowane: decyzją Komisji Europejskiej nr K (2009) 5712 z dnia 17 lipca 2009 r., zmieniającą decyzję Komisji K (2007) 4568 w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęte uchwałą Rady Ministrów z dnia 3 czerwca 2009 r. w sprawie przyjęcia zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 oraz decyzją Komisji Europejskiej nr K (2011) 9789 z dnia 23 grudnia 2011 r. zmieniającą decyzję Komisji Europejskiej nr K (2007) 4568 w sprawie przyjęcia programu operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce i sprostowaniem nr C (2012) 4173 do decyzji Komisji K (2011) 9789 zmieniającej decyzję K (2007) 4568 w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-21 |
 | Data wydania | 2013-04-03 |
-| Wejście w życie | 2013-04-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/423/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe przeznaczenie i warunki udzielania wsparcia Rozdział 3 – Tryb udzielania wsparcia Rozdział 4 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach Działania II.1 Sieć szerokopasmowa Polski Wschodniej w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013, zwanego dalej „Programem”.
@@ -70,7 +70,7 @@ przyznanie pomocy jest uzależnione od faktu jej przekazania w części lub w ca
 3)
 w sektorze rybołówstwa i akwakultury w rozumieniu rozporządzenia Rady (WE) nr 104/2000 z dnia 17 grudnia 1999 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury (Dz. Urz. WE L 17 z 21.01.2000, str. 22; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 4, t. 4, str. 198);
 4)
-w sektorach hutnictwa żelaza i stali oraz włókien syntetycznych w rozumieniu przepisów Unii Europejskiej dotyczących pomocy publicznej;
+w sektorach hutnictwa żelaza i stali oraz włókien syntetycznych w rozumieniu przepisów Unii Europejskiej dotyczących pomocy publicznejZakres sektora hutnictwa żelaza i stali został określony w załączniku I do Wytycznych w sprawie krajowej pomocy regionalnej na lata 2007–2013 (Dz. Urz. UE C 54 z 04.03.2006, str. 13), natomiast zakres sektora włókien syntetycznych w załączniku II do tych Wytycznych.;
 5)
 w sektorze węglowym w rozumieniu decyzji Rady nr 2010/787/UE z dnia 10 grudnia 2010 r. w sprawie pomocy państwa ułatwiającej zamykanie niekonkurencyjnych kopalń węgla (Dz. Urz. UE L 336 z 21.12.2010, str. 24);
 6)
@@ -125,7 +125,7 @@ trwałości projektu – należy przez to rozumieć trwałość realizacji proje
 21)
 umowie o udzielenie wsparcia – należy przez to rozumieć umowę dotyczącą dofinansowania projektu realizowanego przez beneficjenta w ramach Działania II.1 Sieć szerokopasmowa Polski Wschodniej, zawartą pomiędzy Agencją a beneficjentem;
 22)
-użytkowniku końcowym – należy przez to rozumieć podmiot, o którym mowa w art. 2 pkt 50 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.);
+użytkowniku końcowym – należy przez to rozumieć podmiot, o którym mowa w art. 2 pkt 50 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578, z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903, Nr 171, poz. 1016, Nr 233, poz. 1381 i Nr 234, poz. 1390 oraz z 2012 r. poz. 908, 1203, 1256, 1445 i 1529.);
 23)
 wartościach niematerialnych i prawnych – należy przez to rozumieć wartości niematerialne i prawne w rozumieniu art. 2 pkt 11 rozporządzenia Komisji (WE) nr 800/2008;
 24)
@@ -134,6 +134,7 @@ wniosku o potwierdzenie udzielenia pomocy – należy przez to rozumieć wniosek
 wniosku o udzielenie wsparcia – należy przez to rozumieć wniosek beneficjenta o przyznanie środków na realizację projektu w ramach Działania II.1 Sieć szerokopasmowa Polski Wschodniej;
 26)
 zasadniczej modyfikacji – należy przez to rozumieć działania określone w art. 57 ust. 1 rozporządzenia Rady (WE) nr 1083/2006.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia
 § 5.
 1.
 Agencja może udzielić wsparcia podmiotom, o których mowa w § 1 ust. 3 pkt 1, z przeznaczeniem na pokrycie kosztów:
@@ -144,7 +145,7 @@ opracowania i organizacji szkoleń dla osób nieposiadających umiejętności ko
 2.
 Nabycie środków trwałych, o których mowa w ust. 1 pkt 1, może nastąpić również w drodze leasingu, najmu, dzierżawy lub innych podobnych umów.
 3.
-Wielkość wsparcia może wynosić do 95% wydatków kwalifikowalnych, przy czym wsparcie jest udzielane pod warunkiem, że projekt nie zostanie poddany zasadniczej modyfikacji co najmniej przez 5 lat od daty zakończenia jego realizacji.
+Wielkość wsparcia może wynosić do 95% wydatków kwalifikowalnych, przy czym wsparcie jest udzielane pod warunkiem, że projekt nie zostanie poddany zasadniczej modyfikacji co najmniej przez 5 lat od daty zakończenia jego realizacjiWsparcie udzielane jest zgodnie z postanowieniami decyzji Komisji Europejskiej z dnia 10 listopada 2011 r. SA.33441 (2011/N), SA.33440 (2011/N), SA.33439 (2011/N), SA.33438 (2011/N), SA.30851 (2011/N) – Polska Projekt pt. Sieć Szerokopasmowa Polski Wschodniej..
 § 6.
 1.
 Agencja może udzielić wsparcia podmiotom, o których mowa w § 1 ust. 3 pkt 2, na zbudowanie sieci szerokopasmowej wraz z infrastrukturą telekomunikacyjną pomiędzy najbliższym lub najbardziej efektywnym punktem dystrybucji Internetu a użytkownikiem końcowym, w celu umożliwienia bezpośredniego dostarczenia użytkownikowi końcowemu usługi przyłączenia do sieci szerokopasmowej i zapewnienia korzystania z szerokopasmowego dostępu do Internetu, na obszarach, na których nie ma odpowiedniego szerokopasmowego dostępu do Internetu lub szerokopasmowego dostępu do Internetu nowej generacji. Wsparcie to stanowi regionalną pomoc inwestycyjną oraz jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 13 w rozdziale II oraz rozdziału III rozporządzenia Komisji (WE) nr 800/2008.
@@ -276,11 +277,12 @@ Beneficjent otrzymujący wsparcie, o którym mowa w § 6 ust. 1, zapewni finanso
 Pomoc na duże projekty inwestycyjne udzielana w ramach wsparcia, o którym mowa w § 6 ust. 1, podlega indywidualnej notyfikacji Komisji Europejskiej w przypadkach, o których mowa w art. 6 ust. 2 rozporządzenia Komisji (WE) nr 800/2008.
 § 10.
 Wsparcie, o którym mowa w § 6 ust. 1, podlega sumowaniu z każdą inną pomocą, w tym pomocą de minimis , udzieloną beneficjentowi w odniesieniu do tych samych wydatków kwalifikowalnych, bez względu na jej formę i źródło pochodzenia, i nie może przekroczyć maksymalnej intensywności pomocy, określonej w § 8 ust. 1 i 2, a w odniesieniu do dużego projektu inwestycyjnego – maksymalnej wartości wsparcia ustalonej zgodnie z § 8 ust. 3.
+Tryb udzielania wsparcia
 § 11.
 1.
 Agencja udziela wsparcia:
 1)
-określonego w § 5 ust. 1, na realizację projektów indywidualnych, o których mowa w art. 28 ust. 1 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.), z zastrzeżeniem § 13;
+określonego w § 5 ust. 1, na realizację projektów indywidualnych, o których mowa w art. 28 ust. 1 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644 oraz z 2012 r. poz. 1237.), z zastrzeżeniem § 13;
 2)
 określonego w § 6 ust. 1, na realizację projektów wyłonionych w trybie konkursu, o którym mowa w art. 28 ust. 1 pkt 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
 2.
@@ -371,18 +373,27 @@ W przypadku podjęcia przez Komisję Europejską decyzji o odmowie wniesienia wk
 W przypadku decyzji zmieniającej niektóre elementy związane z realizacją dużego projektu Agencja podpisuje z beneficjentem stosowny aneks do umowy o udzielenie wsparcia na realizację projektu.
 § 14.
 Do postępowania w sprawie udzielenia wsparcia stosuje się art. 29 ust. 4, art. 30–30g oraz art. 37 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+Przepisy przejściowe i końcowe
 § 15.
 Do umów o udzielenie wsparcia, o którym mowa w § 5 ust. 1, zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia.
 § 16.
 Regionalna pomoc inwestycyjna, o której mowa w § 6 ust. 1, może być udzielana przedsiębiorcom do dnia 31 grudnia 2013 r.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Tekst Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K (2007) 4568 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz przyjęty uchwałą Rady Ministrów z dnia 30 stycznia 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013. Narodowe Strategiczne Ramy Odniesienia 2007–2013. Zmiany w Programie Operacyjnym Rozwój Polski Wschodniej 2007–2013 zostały zaakceptowane: decyzją Komisji Europejskiej nr K (2009) 5712 z dnia 17 lipca 2009 r., zmieniającą decyzję Komisji K (2007) 4568 w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęte uchwałą Rady Ministrów z dnia 3 czerwca 2009 r. w sprawie przyjęcia zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 oraz decyzją Komisji Europejskiej nr K (2011) 9789 z dnia 23 grudnia 2011 r. zmieniającą decyzję Komisji Europejskiej nr K (2007) 4568 w sprawie przyjęcia programu operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce i sprostowaniem nr C (2012) 4173 do decyzji Komisji K (2011) 9789 zmieniającej decyzję K (2007) 4568 w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726. 4) Zakres sektora hutnictwa żelaza i stali został określony w załączniku I do Wytycznych w sprawie krajowej pomocy regionalnej na lata 2007–2013 (Dz. Urz. UE C 54 z 04.03.2006, str. 13), natomiast zakres sektora włókien syntetycznych w załączniku II do tych Wytycznych. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578, z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903, Nr 171, poz. 1016, Nr 233, poz. 1381 i Nr 234, poz. 1390 oraz z 2012 r. poz. 908, 1203, 1256, 1445 i 1529. 6) Wsparcie udzielane jest zgodnie z postanowieniami decyzji Komisji Europejskiej z dnia 10 listopada 2011 r. SA.33441 (2011/N), SA.33440 (2011/N), SA.33439 (2011/N), SA.33438 (2011/N), SA.30851 (2011/N) – Polska Projekt pt. Sieć Szerokopasmowa Polski Wschodniej. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644 oraz z 2012 r. poz. 1237.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe przeznaczenie i warunki udzielania wsparcia
+#### Rozdział 2 – Szczegółowe przeznaczenie i warunki udzielania wsparcia
 
-#### Rozdział 3 Tryb udzielania wsparcia
+#### Rozdział 3 – Tryb udzielania wsparcia
 
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportuz dnia 13 stycznia 2021 r. w sprawie badań jakości kształcenia artystycznego w szkołach artystycznych
+# Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportuz dnia 13 stycznia 2021 r. w sprawie badań jakości kształcenia artystycznego w szkołach artystycznych Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-13 |
 | Data wydania | 2021-01-15 |
-| Wejście w życie | 2021-01-19 |
 | Ostatnia zmiana | 2025-07-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/98/text.pdf) |
 
@@ -126,6 +125,5 @@ klasach dotychczasowej ogólnokształcącej szkoły sztuk pięknych, prowadzonyc
 2.
 Do dnia 31 sierpnia 2023 r. badanie jakości kształcenia artystycznego, o którym mowa w § 3 pkt 3 i 6, może być przeprowadzane także w klasach dotychczasowego liceum plastycznego prowadzonych w liceum sztuk plastycznych.
 § 8.
-Rozporządzenie wchodzi w życie z dniem 19 stycznia 2021 r.
-1) Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 10 czerwca 2019 r. w sprawie badania jakości kształcenia artystycznego w publicznych szkołach artystycznych (Dz. U. poz. 1087), które traci moc z dniem 19 stycznia 2021 r. w związku z wejściem w życie ustawy z dnia 19 listopada 2020 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. z 2021 r. poz. 4).
+Rozporządzenie wchodzi w życie z dniem 19 stycznia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 10 czerwca 2019 r. w sprawie badania jakości kształcenia artystycznego w publicznych szkołach artystycznych (Dz. U. poz. 1087), które traci moc z dniem 19 stycznia 2021 r. w związku z wejściem w życie ustawy z dnia 19 listopada 2020 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. z 2021 r. poz. 4). 1) Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 10 czerwca 2019 r. w sprawie badania jakości kształcenia artystycznego w publicznych szkołach artystycznych (Dz. U. poz. 1087), które traci moc z dniem 19 stycznia 2021 r. w związku z wejściem w życie ustawy z dnia 19 listopada 2020 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. z 2021 r. poz. 4).
 

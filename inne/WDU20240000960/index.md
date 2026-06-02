@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 26 czerwca 2024 r. w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Szefa Krajowej Administracji Skarbowej związanych z wymianą informacji podatkowych z innymi państwami
+# Rozporządzenie Ministra Finansówz dnia 26 czerwca 2024 r. w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Szefa Krajowej Administracji Skarbowej związanych z wymianą informacji podatkowych z innymi państwami Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-26 |
 | Data wydania | 2024-06-28 |
-| Wejście w życie | 2024-07-01 |
 | Ostatnia zmiana | 2024-07-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000960) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/960/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879.) zarządza się, co następuje:
 § 1.
 1.
 Upoważnia się Dyrektora Izby Administracji Skarbowej w Poznaniu do wykonywania, na całym terytorium Rzeczypospolitej Polskiej, zadań, o których mowa w ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241 oraz z 2024 r. poz. 879), zwanej dalej „ustawą”, związanych z:
@@ -48,7 +47,7 @@ automatyczną wymianą informacji podatkowych w zakresie:
 a)
 przekazywania właściwym organom państw członkowskich Unii Europejskiej informacji o wydanych interpretacjach podatkowych i decyzjach w sprawach cen transferowych oraz informacji o schematach podatkowych transgranicznych,
 b)
-otrzymywania od właściwych organów państw członkowskich Unii Europejskiej informacji dotyczących interpretacji indywidualnych o wymiarze transgranicznym oraz uprzednich porozumień cenowych, o których mowa w dyrektywie Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1, z późn. zm.), zwanej dalej „dyrektywą 2011/16/UE”;
+otrzymywania od właściwych organów państw członkowskich Unii Europejskiej informacji dotyczących interpretacji indywidualnych o wymiarze transgranicznym oraz uprzednich porozumień cenowych, o których mowa w dyrektywie Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 359 z 16.12.2014, str. 1, Dz. Urz. UE L 332 z 18.12.2015, str. 1, Dz. Urz. UE L 146 z 03.06.2016, str. 8, Dz. Urz. UE L 342 z 16.12.2016, str. 1, Dz. Urz. UE L 139 z 05.06.2018, str. 1, Dz. Urz. UE L 31 z 01.02.2019, str. 108, Dz. Urz. UE L 204 z 26.06.2020, str. 46 oraz Dz. Urz. UE L 104 z 25.03.2021, str. 1., zwanej dalej „dyrektywą 2011/16/UE”;
 3)
 przekazywaniem informacji podatkowych:
 a)
@@ -80,8 +79,7 @@ wyjaśnianiem uchybień mniejszej wagi lub pomyłek administracyjnych, o któryc
 3)
 przeprowadzaniem kontroli amerykańskich rachunków raportowanych, o której mowa w art. 8 ustawy FATCA,
 4)
-nakładaniem kar pieniężnych, o których mowa w art. 89 i art. 90 ustawy
-z uwzględnieniem terytorialnego zasięgu działania tych organów oraz miejsca siedziby podmiotu, którego dotyczą te zadania.
+nakładaniem kar pieniężnych, o których mowa w art. 89 i art. 90 ustawy – z uwzględnieniem terytorialnego zasięgu działania tych organów oraz miejsca siedziby podmiotu, którego dotyczą te zadania.
 § 4.
 Upoważnia się Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście do wykonywania, na całym terytorium Rzeczypospolitej Polskiej, zadań, o których mowa w ustawie, związanych z:
 1)
@@ -107,6 +105,5 @@ zwracaniem się do Komisji Europejskiej o skreślenie raportującego operatora p
 11)
 nakładaniem kar pieniężnych, o których mowa w art. 90b ustawy.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879. 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 359 z 16.12.2014, str. 1, Dz. Urz. UE L 332 z 18.12.2015, str. 1, Dz. Urz. UE L 146 z 03.06.2016, str. 8, Dz. Urz. UE L 342 z 16.12.2016, str. 1, Dz. Urz. UE L 139 z 05.06.2018, str. 1, Dz. Urz. UE L 31 z 01.02.2019, str. 108, Dz. Urz. UE L 204 z 26.06.2020, str. 46 oraz Dz. Urz. UE L 104 z 25.03.2021, str. 1. 4) Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w: 1) rozporządzeniu Ministra Rozwoju i Finansów z dnia 17 lipca 2017 r. w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania niektórych czynności związanych z wymianą informacji podatkowych z innymi państwami (Dz. U. z 2022 r. poz. 1262), 2) rozporządzeniu Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 12 lipca 2021 r. w sprawie upoważnienia do wykonywania niektórych czynności związanych z wymianą informacji w dziedzinie opodatkowania, o których mowa w Umowie FATCA (Dz. U. poz. 1322), 3) rozporządzeniu Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 14 lipca 2021 r. w sprawie upoważnienia do przeprowadzania kontroli wykonywania obowiązków związanych z informowaniem o amerykańskich rachunkach raportowanych (Dz. U. poz. 1321) – które tracą moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 28 ust. 3 i 4 ustawy z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową (Dz. U. poz. 1301 i 2707).
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2024 r.Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w: 1) rozporządzeniu Ministra Rozwoju i Finansów z dnia 17 lipca 2017 r. w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania niektórych czynności związanych z wymianą informacji podatkowych z innymi państwami (Dz. U. z 2022 r. poz. 1262), 2) rozporządzeniu Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 12 lipca 2021 r. w sprawie upoważnienia do wykonywania niektórych czynności związanych z wymianą informacji w dziedzinie opodatkowania, o których mowa w Umowie FATCA (Dz. U. poz. 1322), 3) rozporządzeniu Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 14 lipca 2021 r. w sprawie upoważnienia do przeprowadzania kontroli wykonywania obowiązków związanych z informowaniem o amerykańskich rachunkach raportowanych (Dz. U. poz. 1321) – które tracą moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 28 ust. 3 i 4 ustawy z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową (Dz. U. poz. 1301 i 2707). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879. 3) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 359 z 16.12.2014, str. 1, Dz. Urz. UE L 332 z 18.12.2015, str. 1, Dz. Urz. UE L 146 z 03.06.2016, str. 8, Dz. Urz. UE L 342 z 16.12.2016, str. 1, Dz. Urz. UE L 139 z 05.06.2018, str. 1, Dz. Urz. UE L 31 z 01.02.2019, str. 108, Dz. Urz. UE L 204 z 26.06.2020, str. 46 oraz Dz. Urz. UE L 104 z 25.03.2021, str. 1. 4) Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w: 1) rozporządzeniu Ministra Rozwoju i Finansów z dnia 17 lipca 2017 r. w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania niektórych czynności związanych z wymianą informacji podatkowych z innymi państwami (Dz. U. z 2022 r. poz. 1262), 2) rozporządzeniu Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 12 lipca 2021 r. w sprawie upoważnienia do wykonywania niektórych czynności związanych z wymianą informacji w dziedzinie opodatkowania, o których mowa w Umowie FATCA (Dz. U. poz. 1322), 3) rozporządzeniu Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 14 lipca 2021 r. w sprawie upoważnienia do przeprowadzania kontroli wykonywania obowiązków związanych z informowaniem o amerykańskich rachunkach raportowanych (Dz. U. poz. 1321) – które tracą moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 28 ust. 3 i 4 ustawy z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową (Dz. U. poz. 1301 i 2707).
 

@@ -26,13 +26,21 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001296) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1296/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady stosowania dopłat Rozdział 3 – Zmiany w przepisach obowiązujących i przepisy końcowe
+Załącznik – Tekst jednolity ustawy z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania (Dz. U. z 2021 r. poz. 403), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 czerwca 2023 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi: „
+Przepisy ogólne
+Zasady stosowania dopłat
+Zmiany w przepisach obowiązujących i przepisy końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zasady stosowania dopłat
+
+#### Rozdział 3 – Zmiany w przepisach obowiązujących i przepisy końcowe
 
 **Art. 45.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -41,7 +49,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **3)** art. 27 i art. 43, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 - **4)** art. 28, który wchodzi w życie z dniem 1 sierpnia 2022 r. ” . Załącznik – Tekst jednolity ustawy z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa zasady stosowania dopłat do oprocentowania kredytów udzielanych na zakup lokalu mieszkalnego, budowę i zakup domu jednorodzinnego albo wniesienie wkładu budowlanego do spółdzielni mieszkaniowej.
 
@@ -61,7 +69,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **9)** stopa referencyjna – zmienną stopę procentową, stanowiącą podstawę ustalenia wysokości dopłat do oprocentowania kredytów preferencyjnych, równą przeciętnej stopie WIBOR trzymiesięczny, obliczaną jako średnia arytmetyczna notowań w kwartale poprzedzającym dany kwartał, powiększoną o 2 punkty procentowe, publikowaną w Biuletynie Informacji Publicznej przez Bank Gospodarstwa Krajowego;
 - **10)** Fundusz Dopłat – Fundusz Dopłat, o którym mowa w ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2022 r. poz. 101, 1561 i 2456).
 
-#### Rozdział 2 Zasady stosowania dopłat
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -73,9 +81,9 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
     - **b)**
     - **c)**
 
-- **3)** osobę niepozostającą w związku małżeńskim, inną niż wskazana w pkt 2 zwanych dalej „docelowymi kredytobiorcami”.
+- **3)** osobę niepozostającą w związku małżeńskim, inną niż wskazana w pkt 2 – zwanych dalej „docelowymi kredytobiorcami”.
 
-1a. Jeżeli w ocenie instytucji ustawowo upoważnionej do udzielania kredytów docelowy kredytobiorca nie posiada zdolności kredytowej w rozumieniu art. 70 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.) umowa o kredyt preferencyjny może być zawarta również przez inne osoby niż docelowy kredytobiorca. Mogą nimi być zstępni, wstępni, rodzeństwo, małżonkowie rodzeństwa, ojczym, macocha lub teściowie docelowego kredytobiorcy.
+1a. Jeżeli w ocenie instytucji ustawowo upoważnionej do udzielania kredytów docelowy kredytobiorca nie posiada zdolności kredytowej w rozumieniu art. 70 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996 i 1059.) umowa o kredyt preferencyjny może być zawarta również przez inne osoby niż docelowy kredytobiorca. Mogą nimi być zstępni, wstępni, rodzeństwo, małżonkowie rodzeństwa, ojczym, macocha lub teściowie docelowego kredytobiorcy.
 
 2. Dopłat nie stosuje się, jeżeli którakolwiek z osób, o których mowa w ust. 1, jest lub była stroną innej umowy kredytu preferencyjnego w charakterze docelowego kredytobiorcy.
 
@@ -99,13 +107,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 3. Dopłaty mogą być stosowane również w przypadku, gdy ubiegający się o kredyt preferencyjny docelowy kredytobiorca, który w dniu zawarcia umowy kredytu preferencyjnego jest najemcą lokalu mieszkalnego lub przysługuje mu spółdzielcze lokatorskie prawo do lokalu mieszkalnego, równocześnie z zawarciem umowy kredytu preferencyjnego pisemnie zobowiąże się do:
 
 - **1)** wypowiedzenia członkostwa w spółdzielni mieszkaniowej, w której przysługuje mu spółdzielcze lokatorskie prawo do lokalu mieszkalnego, lub do zrzeczenia się tego prawa,
-- **2)** rozwiązania umowy najmu i opróżnienia lokalu mieszkalnego w terminie sześciu miesięcy od dnia uzyskania własności lokalu mieszkalnego, własności domu jednorodzinnego lub uzyskania spółdzielczego własnościowego prawa do lokalu mieszkalnego lub domu jednorodzinnego, na które został udzielony kredyt preferencyjny, a w przypadku kredytu preferencyjnego udzielonego na budowę domu jednorodzinnego – w terminie sześciu miesięcy od dnia, w którym docelowy kredytobiorca może zgodnie z prawem przystąpić do użytkowania wybudowanego domu jednorodzinnego.
+- **2)** rozwiązania umowy najmu i opróżnienia lokalu mieszkalnego – w terminie sześciu miesięcy od dnia uzyskania własności lokalu mieszkalnego, własności domu jednorodzinnego lub uzyskania spółdzielczego własnościowego prawa do lokalu mieszkalnego lub domu jednorodzinnego, na które został udzielony kredyt preferencyjny, a w przypadku kredytu preferencyjnego udzielonego na budowę domu jednorodzinnego – w terminie sześciu miesięcy od dnia, w którym docelowy kredytobiorca może zgodnie z prawem przystąpić do użytkowania wybudowanego domu jednorodzinnego.
 
 4. W okresie 14 dni od upływu terminu określonego w ust. 3 docelowy kredytobiorca informuje pisemnie instytucję ustawowo upoważnioną do udzielania kredytów o niewykonaniu zobowiązania, o którym mowa w tym przepisie.
 
 5. W przypadku niewykonania zobowiązania, o którym mowa w ust. 3, instytucja ustawowo upoważniona do udzielania kredytów wypowiada umowę kredytu preferencyjnego i wynikającą z tej umowy wierzytelność stawia w stan natychmiastowej wymagalności.
 
-6. W przypadku prawomocnego skazania docelowego kredytobiorcy za przestępstwo określone w art. 297 § 1 lub § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.) popełnione w związku z udzieleniem kredytu preferencyjnego, instytucja ustawowo upoważniona do udzielania kredytów, po uzyskaniu informacji o prawomocnym skazaniu, wypowiada umowę kredytu preferencyjnego i wynikającą z tej umowy wierzytelność stawia w stan natychmiastowej wymagalności.
+6. W przypadku prawomocnego skazania docelowego kredytobiorcy za przestępstwo określone w art. 297 § 1 lub § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818 i 852.) popełnione w związku z udzieleniem kredytu preferencyjnego, instytucja ustawowo upoważniona do udzielania kredytów, po uzyskaniu informacji o prawomocnym skazaniu, wypowiada umowę kredytu preferencyjnego i wynikającą z tej umowy wierzytelność stawia w stan natychmiastowej wymagalności.
 
 **Art. 5.**
 
@@ -156,9 +164,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 7.**
 
-1. W okresie stosowania dopłat odsetki spłacane przez kredytobiorcę są równe kwocie odsetek naliczonych przez instytucję ustawowo upoważnioną do udzielania kredytów w oparciu o stopę procentową pomniejszonej o dopłatę należną za okres naliczenia odsetek.
-
-1a. Dopłata, o której mowa w ust. 1, nie może być wyższa niż kwota odsetek należnych instytucji ustawowo upoważnionej do udzielania kredytów z tytułu spłaty raty odsetkowej lub kapitałowo-odsetkowej kredytu preferencyjnego.
+1. W okresie stosowania dopłat odsetki spłacane przez kredytobiorcę są równe kwocie odsetek naliczonych przez instytucję ustawowo upoważnioną do udzielania kredytów w oparciu o stopę procentową pomniejszonej o dopłatę należną za okres naliczenia odsetek. 1aDodany przez art. 12 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r.. Dopłata, o której mowa w ust. 1, nie może być wyższa niż kwota odsetek należnych instytucji ustawowo upoważnionej do udzielania kredytów z tytułu spłaty raty odsetkowej lub kapitałowo-odsetkowej kredytu preferencyjnego.
 
 2. Instytucja ustawowo upoważniona do udzielania kredytów, na wniosek kredytobiorcy, jest obowiązana do poinformowania go o łącznej wysokości zastosowanych dopłat.
 
@@ -228,15 +234,15 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 12.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z ministrem właściwym do spraw instytucji finansowych określi, w drodze rozporządzenia, ogólne warunki umów, o których mowa w art. 10 ust. 2, a także zakres informacji, o której mowa w art. 11 ust. 1, tak aby zapewnić efektywność wykorzystania środków Funduszu Dopłat, a także umożliwić monitorowanie realizacji ustawy. Instytucje ustawowo upoważnione do udzielania kredytów, o których mowa w art. 10 ust. 2 udzielają kredytów preferencyjnych na podstawie wniosków o kredyt preferencyjny złożonych do dnia 31 grudnia 2012 r.
 
-#### Rozdział 3 Zmiany w przepisach obowiązujących i przepisy końcowe
+#### Rozdział 3
 
 **Art. 13.** (pominięty)
 
 **Art. 14.** (pominięty)
 
-**Art. 15.** (utracił moc)
+**Art. 15.** (utracił moc)Z dniem 27 marca 2009 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 24 marca 2009 r. sygn. akt K 53/07 (Dz. U. poz. 403).
 
 **Art. 16.** (pominięty)
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 11 października 2006 r.. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996 i 1059. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818 i 852. 3) Dodany przez art. 12 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r. 4) Z dniem 27 marca 2009 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 24 marca 2009 r. sygn. akt K 53/07 (Dz. U. poz. 403). 5) Ustawa została ogłoszona w dniu 11 października 2006 r.
 

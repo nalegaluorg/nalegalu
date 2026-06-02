@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-26 |
 | Data wydania | 2019-05-27 |
-| Wejście w życie | 2019-06-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000986) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/986/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215, 2245, 2432 i 2435 oraz z 2019 r. poz. 60, 577, 622, 730 i 743.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 w ust. 1 uchyla się pkt 4a;
 - **2)** w art. 33: uchyla się ust. 2b i 2c, uchyla się ust. 2e i 2f, w ust. 4 uchyla się pkt 1a, ust. 4h otrzymuje brzmienie: „
@@ -79,5 +78,5 @@ source: "eli-html"
 
 2. Okres, na który przed dniem wejścia w życie ustawy pozbawiono osobę statusu bezrobotnego z powodu niewyrażenia zgody na ustalenie profilu pomocy, o którym mowa w art. 33 ust. 4 pkt 1a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, nie ulega zmianie.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 14 czerwca 2019 r.
+**Art. 4.** Ustawa wchodzi w życie z dniem 14 czerwca 2019 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215, 2245, 2432 i 2435 oraz z 2019 r. poz. 60, 577, 622, 730 i 743.
 

@@ -37,22 +37,18 @@ rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 11 września 2019 r. zm
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1864), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1864), które stanowią: „
 § 2.
 Do postępowań w sprawach o przyznanie pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia zawarciem umowy o przyznaniu pomocy, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 września 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1814), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 września 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1814), które stanowią: „
 § 2.
 Do przyznawania pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi i niezakończonymi do dnia wejścia w życie niniejszego rozporządzenia zawarciem umowy o przyznaniu pomocy oraz do wypłaty środków finansowych z tytułu pomocy finansowej przyznanej na realizację operacji w ramach tego poddziałania na podstawie umów o przyznaniu tej pomocy, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z wyjątkiem przepisu § 3 ust. 1 pkt 2 lit. a rozporządzenia zmienianego w § 1, który stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lipca 2017 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lipca 2017 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2020 r. poz. 217) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanym dalej „programem”, w tym:
@@ -68,11 +64,11 @@ szczegółowe wymagania, jakim powinna odpowiadać umowa o przyznaniu pomocy, zw
 przypadki, w których następcy prawnemu beneficjenta albo nabywcy gospodarstwa rolnego lub jego części jest przyznawana pomoc, oraz warunki i tryb przyznawania tej pomocy.
 § 2.
 1.
-Pomoc przyznaje się rolnikowi, o którym mowa w art. 18 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.), zwanego dalej „rozporządzeniem nr 1305/2013”:
-1)
+Pomoc przyznaje się rolnikowi, o którym mowa w art. 18 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1 i Dz. Urz. UE L 129 z 19.05.2017, str. 1.), zwanego dalej „rozporządzeniem nr 1305/2013”:
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1864), które weszło w życie z dniem 2 października 2018 r.)
 który jest posiadaczem samoistnym lub zależnym nieruchomości położonej na terytorium Rzeczypospolitej Polskiej, na której prowadzi chów lub hodowlę nie mniej niż 50 świń;
 2)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3.
 3)
 któremu został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwany dalej „numerem identyfikacyjnym”.
 2.
@@ -81,47 +77,47 @@ W przypadku rolnika, o którym mowa w art. 18 ust. 2 rozporządzenia nr 1305/201
 obywatelem państwa członkowskiego Unii Europejskiej;
 2)
 pełnoletni.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Warunki przyznania pomocy, o których mowa w ust. 2, powinny być spełnione co najmniej od dnia złożenia wniosku o przyznanie pomocy.
 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3.
 5.
 W przypadku rolnika będącego wspólnikiem spółki cywilnej, pomoc jest przyznawana, jeżeli numer identyfikacyjny został nadany spółce oraz jeżeli:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 nieruchomość, na której jest prowadzony chów lub hodowla świń, której będzie dotyczyła realizowana operacja, stanowi wkład wniesiony do tej spółki co najmniej od dnia złożenia wniosku o przyznanie pomocy;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 w ramach umowy tej spółki jest prowadzony chów lub hodowla nie mniej niż 50 świń;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 1 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 każdy ze wspólników będący osobą fizyczną jest obywatelem państwa członkowskiego Unii Europejskiej oraz jest pełnoletni;
 4)
-(uchylony).
-6.
+(uchylony).Przez § 1 pkt 1 lit. d tiret drugie rozporządzenia, o którym mowa w odnośniku 3.
+6Ze zmianami wprowadzonymi przez § 1 pkt 1 lit. e rozporządzenia, o którym mowa w odnośniku 3..
 Liczbę świń, o której mowa w ust. 1 pkt 1 i ust. 5 pkt 2, ustala się jako iloraz sumy liczby świń utrzymywanych przez rolnika w ostatnim dniu każdego z 12 miesięcy poprzedzających miesiąc, w którym przypada dzień rozpoczęcia terminu składania wniosków o przyznanie pomocy, i liczby 12.
-7.
+7Ze zmianą wprowadzoną przez § 1 pkt 1 lit. f rozporządzenia, o którym mowa w odnośniku 3..
 Wprzypadku rozpoczęcia prowadzenia chowu lub hodowli świń w okresie, o którym mowa w ust. 6, liczbę świń ustala się jako iloraz sumy liczby świń utrzymywanych przez rolnika w ostatnim dniu każdego z miesięcy poprzedzających miesiąc, w którym przypada dzień rozpoczęcia terminu składania wniosków o przyznanie pomocy, i liczby tych miesięcy.
 8.
 Liczbę świń ustala się na podstawie danych zawartych w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2019 r. poz. 1149 i 1824).
 9.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. g rozporządzenia, o którym mowa w odnośniku 3.
 § 3.
 1.
-Pomoc przyznaje się spółce wodnej, o której mowa w przepisach ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125, 534, 1495 i 2170), lub związkowi takich spółek, jeżeli:
+Pomoc przyznaje się spółce wodnej, o której mowa w przepisach ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125, 534, 1495 i 2170), lub związkowi takich spółek, jeżeli:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3.
 1)
 więcej niż połowę członków spółki stanowią rolnicy posiadający grunty rolne;
 2)
 spółka została utworzona do wykonywania, utrzymywania oraz eksploatacji urządzeń służących do:
-a)
+aZe zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 września 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1814), które weszło w życie z dniem 9 października 2019 r.)
 ochrony gospodarstw członków spółki wodnej przed powodzią lub
 b)
 melioracji wodnych oraz prowadzenia racjonalnej gospodarki na terenach zmeliorowanych będących w posiadaniu członków spółki wodnej;
-3)
+3Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 spółce albo związkowi takich spółek został nadany numer identyfikacyjny.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 13..
 Pomoc przyznaje się związkowi spółek wodnych, jeżeli każda ze spółek tworzących ten związek spełnia warunki, o których mowa w ust. 1 pkt 1 i 2.
 3.
 Warunki przyznania pomocy, o których mowa w ust. 1 i 2, powinny być spełnione co najmniej od dnia złożenia wniosku o przyznanie pomocy.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 13..
 Pomoc przyznaje się na operację:
 1)
 uzasadnioną ekonomicznie, w tym pod względem racjonalności jej kosztów, w przypadku operacji, o których mowa w § 5 pkt 2–4 oraz § 6;
@@ -135,17 +131,16 @@ spełniającą wymagania określone przepisami prawa mającymi zastosowanie do i
 której realizacja nie jest możliwa bez udziału środków publicznych;
 6)
 o planowanej wysokości kosztów kwalifikowalnych powyżej 10 tys. zł, w przypadku operacji, o których mowa w § 5 pkt 2–4 oraz § 6.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 13..
 Wprzypadku podmiotu ubiegającego się o przyznanie pomocy, o którym mowa w § 2, pomoc przyznaje się, jeżeli operacja będzie realizowana bez podziału na etapy oraz złożenie wniosku o płatność końcową nastąpi w terminie 24 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 30 czerwca 2023 r.
 3.
 W przypadku podmiotu ubiegającego się o przyznanie pomocy, o którym mowa w § 3, pomoc przyznaje się, jeżeli:
 1)
-operacja będzie realizowana nie więcej niż w dwóch etapach oraz złożenie wniosku o płatność końcową nastąpi w terminie:
+operacja będzie realizowana nie więcej niż w dwóch etapach oraz złożenie wniosku o płatność końcową nastąpi w terminie:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 13.
 a)
 36 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w dwóch etapach,
 b)
-24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie
-lecz nie później niż do dnia 30 czerwca 2023 r.;
+24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie – lecz nie później niż do dnia 30 czerwca 2023 r.;
 2)
 złożenie wniosku o płatność pośrednią nastąpi w terminie 24 miesięcy od dnia zawarcia umowy;
 3)
@@ -174,7 +169,7 @@ nie stosuje się przepisu ust. 3 pkt 3.
 W przypadku podmiotu ubiegającego się o przyznanie pomocy, o którym mowa w § 2, pomoc przyznaje się na operację polegającą na:
 1)
 wykonaniu ogrodzenia chlewni:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 13.)
 które otoczy chlewnię, położoną na nieruchomości, o której mowa w § 2 ust. 1 pkt 1, wraz z terenem koniecznym do obsługi świń, w tym miejsca, w których składuje się paszę, ściółkę oraz sprzęt do obsługi świń,
 b)
 które zabezpieczy chlewnię przed przedostaniem się zwierząt, w tym przez podkopanie,
@@ -185,7 +180,7 @@ które obejmie teren o powierzchni mniejszej lub większej niż teren, o którym
 – nie ma możliwości ogrodzenia wyłącznie terenu, o którym mowa w lit. a i c,
 – ogrodzenie wyłącznie terenu, o którym mowa w lit. a i c, jest nieracjonalne,
 e)
-(uchylona),
+(uchylona),Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 13.
 f)
 o wysokości co najmniej 1,5 m,
 g)
@@ -193,21 +188,20 @@ na podmurówce lub z wkopanym krawężnikiem,
 h)
 które będzie posiadać zamykane bramy wjazdowe i furtki, lub
 2)
-utworzeniu lub zmodernizowaniu niecki dezynfekcyjnej funkcjonalnie związanej z chlewnią w taki sposób, aby co najmniej:
+utworzeniu lub zmodernizowaniu niecki dezynfekcyjnej funkcjonalnie związanej z chlewnią w taki sposób, aby co najmniej:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 3 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.
 a)
 miała wymiary dostosowane do szerokości i wysokości pojazdów, które przez nią przejeżdżają, i do obwodu kół tych pojazdów,
 b)
 zabezpieczyć podłoże przed przesiąkaniem środka dezynfekcyjnego z tej niecki,
-c)
+cZe zmianą wprowadzoną przez § 1 pkt 3 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 zabezpieczyć środek dezynfekcyjny przed działaniem czynników zewnętrznych, w tym przez zadaszenie tej niecki, lub
-3)
+3Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 3.)
 wyposażeniu gospodarstwa rolnego w urządzenie do dezynfekcji, w szczególności takie jak brama, kurtyna lub tunel, lub
-4)
-wykonaniu inwestycji umożliwiającej utrzymywanie świń w gospodarstwie rolnym w odrębnych, zamkniętych pomieszczeniach, mających oddzielne wejścia oraz niemających bezpośredniego przejścia do innych pomieszczeń, w których są utrzymywane inne zwierzęta kopytne
-w celu zapobieżenia rozprzestrzenianiu się afrykańskiego pomoru świń.
+4Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 3.)
+wykonaniu inwestycji umożliwiającej utrzymywanie świń w gospodarstwie rolnym w odrębnych, zamkniętych pomieszczeniach, mających oddzielne wejścia oraz niemających bezpośredniego przejścia do innych pomieszczeń, w których są utrzymywane inne zwierzęta kopytne – w celu zapobieżenia rozprzestrzenianiu się afrykańskiego pomoru świń.
 § 6.
 W przypadku podmiotu ubiegającego się o przyznanie pomocy, o którym mowa w § 3, pomoc przyznaje się na operację polegającą na zaopatrzeniu w sprzęt do utrzymywania urządzeń wodnych służących zabezpieczeniu gospodarstw rolnych przed zalaniem, podtopieniem lub nadmiernym uwilgoceniem spowodowanym przez powódź lub deszcz nawalny.
-§ 6a.
+§ 6aDodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 13..
 Pomoc przyznaje się w formie:
 1)
 refundacji części kosztów kwalifikowalnych – w przypadku operacji, o których mowa w § 5 pkt 2–4 oraz § 6, albo
@@ -215,12 +209,12 @@ refundacji części kosztów kwalifikowalnych – w przypadku operacji, o który
 standardowych stawek jednostkowych lub refundacji części kosztów kwalifikowalnych będących kosztami ogólnymi – w przypadku operacji, o której mowa w § 5 pkt 1.
 § 7.
 1.
-Do kosztów kwalifikowalnych zalicza się koszty:
-1)
+Do kosztów kwalifikowalnych zalicza się koszty:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 13.
+1W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 13.)
 budowy, przebudowy, remontu budynków lub budowli w celu utworzenia zadaszonej niecki dezynfekcyjnej, o której mowa w § 5 pkt 2, wraz z zakupem lub montażem instalacji technicznej, zakupem wyposażenia, kosztami rozbiórki i utylizacji materiałów szkodliwych pochodzących z rozbiórki pod warunkiem, że rozbiórka jest niezbędna do realizacji operacji – w przypadku operacji, o której mowa w § 5 pkt 2;
-1a)
+1aDodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną przez § 1 pkt 5 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 13.)
 zakupu nowego urządzenia do dezynfekcji, w szczególności takiego jak brama, kurtyna lub tunel – w przypadku operacji, o której mowa w § 5 pkt 3;
-1b)
+1bDodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną przez § 1 pkt 5 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 13.)
 przebudowy lub remontu pomieszczeń w celu utrzymywania świń w gospodarstwie rolnym w odrębnych, zamkniętych pomieszczeniach, mających oddzielne wejścia oraz niemających bezpośredniego przejścia do innych pomieszczeń, w których są utrzymywane inne zwierzęta kopytne, wraz z zakupem lub montażem instalacji technicznej, kosztami rozbiórki i utylizacji materiałów szkodliwych pochodzących z rozbiórki pod warunkiem, że rozbiórka jest niezbędna w celu realizacji operacji – w przypadku operacji, o której mowa w § 5 pkt 4;
 2)
 zakupu nowego sprzętu zmechanizowanego służącego utrzymaniu urządzeń melioracji wodnych wykorzystywanych dla celów ochrony terenu przed skutkami powodzi lub deszczu nawalnego, w szczególności ciągników, koparek, rębaków do drewna, kos spalinowych, kosiarek samojezdnych oraz osprzętu do koparek i ciągników, w tym kosiarek, odmularek, rębaków do drewna, przyczep – w przypadku operacji, o której mowa w § 6;
@@ -228,7 +222,7 @@ zakupu nowego sprzętu zmechanizowanego służącego utrzymaniu urządzeń melio
 zakupu lub rozwoju oprogramowania oraz zakupu patentów i licencji związanych ze sprzętem, o którym mowa w pkt 2 – w przypadku operacji, o której mowa w § 6;
 4)
 rat zapłaconych z tytułu wykonania umowy leasingu, nieprzekraczające ceny netto nabycia rzeczy, o których mowa w pkt 2, jeżeli przeniesienie własności tych rzeczy na beneficjenta nastąpi w okresie realizacji operacji, lecz nie później niż do dnia złożenia wniosku o płatność końcową – w przypadku operacji, o której mowa w § 6;
-5)
+5W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi” – w przypadku podmiotu ubiegającego się o przyznanie pomocy, o którym mowa w § 2.
 2.
 Do kosztów ogólnych zalicza się koszty:
@@ -246,7 +240,7 @@ wypisów i wyrysów z katastru nieruchomości;
 sprawowania nadzoru inwestorskiego;
 3)
 związane z kierowaniem robotami budowlanymi.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 Do kosztów, o których mowa w ust. 1 pkt 1–2, zalicza się koszty transportu do miejsca realizacji operacji materiałów służących realizacji operacji oraz maszyn i urządzeń objętych operacją, a także koszty montażu.
 4.
 Pomoc nie obejmuje kosztów innych niż określone w ust. 1–3, w szczególności:
@@ -265,12 +259,12 @@ Pomoc przyznaje się w wysokości do 80% kosztów kwalifikowalnych.
 6.
 W przypadku gdy wysokość kosztów kwalifikowalnych w zakresie danego zadania ujętego w zestawieniu rzeczowo-finansowym operacji przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, przy ustalaniu wysokości pomocy uwzględnia się wartość rynkową tych kosztów.
 7.
-(uchylony).
+(uchylony).Przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 13.
 8.
 Przy ustalaniu wysokości pomocy koszty ogólne, o których mowa w ust. 2, uwzględnia się w wysokości nieprzekraczającej 10% pozostałych kosztów kwalifikowalnych.
 9.
 Przy ustalaniu wysokości pomocy koszty, o których mowa w ust. 1 pkt 3, uwzględnia się w wysokości nieprzekraczającej 10% pozostałych kosztów kwalifikowalnych.
-§ 7a.
+§ 7aDodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 13..
 1.
 Pomoc na operację, o której mowa w § 5 pkt 1, przyznaje się w wysokości 80% kwoty stanowiącej:
 1)
@@ -290,7 +284,7 @@ furtki – wynosi 610 zł.
 Pomoc przyznaje się i wypłaca do wysokości limitu, który w okresie realizacji programu wynosi maksymalnie na jednego beneficjenta:
 1)
 100 tys. zł – w przypadku podmiotu ubiegającego się o przyznanie pomocy, o którym mowa w § 2;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 13.)
 1 000 000 zł – w przypadku podmiotu ubiegającego się o przyznanie pomocy, o którym mowa w § 3.
 2.
 Przy ustalaniu limitu, o którym mowa w ust. 1, uwzględnia się sumę kwot pomocy wypłaconej w ramach operacji zrealizowanych i kwot pomocy przyznanej w ramach operacji niezakończonych, a w przypadku rolnika – uwzględnia się również sumę kwot pomocy wypłaconej w ramach operacji zrealizowanych i kwot pomocy przyznanej w ramach operacji niezakończonych współwłaścicielowi lub współposiadaczowi nieruchomości, na której prowadzi chów lub hodowlę świń.
@@ -329,7 +323,7 @@ b)
 siedzibę spółki wodnej albo związku spółek wodnych – w przypadku podmiotu ubiegającego się o przyznanie pomocy, o którym mowa w § 3;
 2)
 osobiście lub przez upoważnioną osobę albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2018 r. poz. 2188 oraz z 2019 r. poz. 1051, 1495 i 2005).
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3..
 Wniosek o przyznanie pomocy może być złożony również osobiście albo przez upoważnioną osobę za pośrednictwem biura powiatowego Agencji, znajdującego się na obszarze właściwości miejscowej oddziału regionalnego Agencji ustalonej zgodnie z ust. 1 pkt 1.
 3.
 Wniosek o przyznanie pomocy złożony za pośrednictwem biura powiatowego Agencji biuro powiatowe Agencji przekazuje niezwłocznie do właściwego oddziału regionalnego Agencji.
@@ -361,8 +355,8 @@ numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (
 e)
 numer identyfikacji podatkowej (NIP) – o ile został nadany,
 f)
-(uchylona);
-3)
+(uchylona);Przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.
+3Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 numer identyfikacji podatkowej (NIP) oddziału przedsiębiorcy zagranicznego, który wykonuje działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w formie oddziału – w przypadku takiego przedsiębiorcy;
 4)
 charakterystykę prowadzonej działalności;
@@ -387,8 +381,8 @@ informację o działalności spółki wodnej lub związku spółek wodnych na te
 2.
 Do wniosku o przyznanie pomocy dołącza się:
 1)
-(uchylony);
-2)
+(uchylony);Przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 13.
+2W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3.)
 plan rozmieszczenia na terenie gospodarstwa rolnego budynków i budowli oraz rzuty budynków służących do produkcji rolnej, ze wskazaniem chlewni, zawierający dodatkowo:
 a)
 wskazanie terenu, który ma zostać ogrodzony w celu zapobieżenia rozprzestrzenianiu się afrykańskiego pomoru świń z podaniem wymiarów ogrodzenia oraz z rysunkami zawierającymi widok i przekrój:
@@ -396,17 +390,16 @@ wskazanie terenu, który ma zostać ogrodzony w celu zapobieżenia rozprzestrzen
 – bramy i furtki łącznie z ich posadowieniem
 – w przypadku gdy rolnik realizuje operację, o której mowa w § 5 pkt 1,
 b)
-opis zakresu planowanych do wykonania robót oraz rysunki chlewni, zawierające jej wymiary, umożliwiające identyfikację robót planowanych do przeprowadzenia w związku z realizowaną operacją i rozplanowanie wewnętrzne budynku chlewni – w przypadku gdy rolnik realizuje operację, o której mowa w § 5 pkt 4
-jeżeli operacja obejmuje inwestycję, na realizację której nie jest wymagane pozwolenie na budowę;
+opis zakresu planowanych do wykonania robót oraz rysunki chlewni, zawierające jej wymiary, umożliwiające identyfikację robót planowanych do przeprowadzenia w związku z realizowaną operacją i rozplanowanie wewnętrzne budynku chlewni – w przypadku gdy rolnik realizuje operację, o której mowa w § 5 pkt 4 – jeżeli operacja obejmuje inwestycję, na realizację której nie jest wymagane pozwolenie na budowę;
 3)
 pełnomocnictwo – w przypadku gdy podmiot ubiegający się o przyznanie pomocy działa przez pełnomocnika;
 4)
 kopię umowy spółki cywilnej – w przypadku gdy operacja będzie realizowana w ramach wykonywania działalności gospodarczej w formie spółki cywilnej;
 5)
 kopię uchwały wspólników spółki cywilnej upoważniającej wspólnika tej spółki do złożenia wniosku o przyznanie pomocy w imieniu wspólników, o ile umowa spółki nie zawiera takiego upoważnienia – w przypadku gdy operacja będzie realizowana w ramach wykonywania działalności gospodarczej w formie spółki cywilnej i wspólnik składa wniosek w imieniu wspólników;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 13.)
 kosztorys inwestorski – w przypadku gdy operacja obejmuje inwestycję polegającą na budowie, przebudowie lub remoncie, z wyłączeniem operacji, o której mowa w § 5 pkt 1;
-7)
+7W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 opis zadań wymienionych w zestawieniu rzeczowo-finansowym operacji, sporządzony na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej – w przypadku operacji, w ramach której będzie realizowane co najmniej jedno zadanie niewymagające załączenia do wniosku kosztorysu, o którym mowa w pkt 6;
 8)
 kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne nieruchomości, na której będzie realizowana operacja, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księgę wieczystą prowadzi się w systemie teleinformatycznym, o którym mowa w art. 251 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2019 r. poz. 2204), jest wystarczające podanie numeru księgi wieczystej – w przypadku rolnika;
@@ -415,15 +408,14 @@ oświadczenie:
 a)
 właściciela albo współwłaściciela nieruchomości o wyrażeniu zgody na realizację operacji, w przypadku gdy operacja będzie realizowana na nieruchomości niestanowiącej własności podmiotu ubiegającego się o przyznanie pomocy albo stanowiącej współwłasność podmiotu ubiegającego się o przyznanie pomocy – w przypadku rolnika,
 b)
-współposiadacza nieruchomości o wyrażeniu zgody na ubieganie się o przyznanie pomocy przez podmiot ubiegający się o przyznanie pomocy, w przypadku gdy operacja będzie realizowana na nieruchomości stanowiącej przedmiot współposiadania – w przypadku rolnika
-sporządzone na formularzu opracowanym i udostępnionym przez Agencję;
+współposiadacza nieruchomości o wyrażeniu zgody na ubieganie się o przyznanie pomocy przez podmiot ubiegający się o przyznanie pomocy, w przypadku gdy operacja będzie realizowana na nieruchomości stanowiącej przedmiot współposiadania – w przypadku rolnika – sporządzone na formularzu opracowanym i udostępnionym przez Agencję;
 10)
 kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, w tym dotyczących ocen oddziaływania na środowisko, których uzyskanie jest wymagane przez odrębne przepisy do realizacji inwestycji objętych operacją, a także kopie innych dokumentów potwierdzających spełnienie warunków realizacji inwestycji objętych operacją określonych w odrębnych przepisach – w przypadku gdy w ramach operacji będą realizowane tego typu inwestycje;
 11)
 kopię wniosku o wpis do ewidencji producentów, o której mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, jeżeli podmiotowi ubiegającemu się o przyznanie pomocy, jego małżonkowi, współposiadaczowi gospodarstwa rolnego lub spółce cywilnej, której jest wspólnikiem, nie został nadany numer identyfikacyjny, a w przypadku składania wniosku o wpis tego podmiotu do tej ewidencji łącznie z wnioskiem o przyznanie pomocy – oryginał wniosku;
 12)
 informację o numerze wyodrębnionego rachunku bankowego podmiotu ubiegającego się o przyznanie pomocy przeznaczonego do obsługi zaliczki – w przypadku gdy podmiot ten ubiega się o zaliczkę;
-13)
+13W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 3.)
 kopię projektu budowlanego – w przypadku gdy operacja obejmuje inwestycję, na realizację której wymagane jest pozwolenie na budowę;
 14)
 kopię statutu spółki wodnej lub związku spółek – w przypadku spółki wodnej i związku spółek wodnych;
@@ -433,15 +425,15 @@ kopię ostatecznej decyzji organu sprawującego nadzór o zatwierdzeniu statutu,
 oświadczenie zarządu spółki wodnej, że więcej niż połowę członków tej spółki stanowią rolnicy posiadający grunty rolne wraz z opisem struktury członkostwa w spółce wodnej – w przypadku spółki wodnej;
 17)
 oświadczenie zarządu związku spółek wodnych, że więcej niż połowę członków każdej ze spółek wodnych tworzących ten związek stanowią rolnicy posiadający grunty rolne wraz z opisem struktury członkostwa w tych spółkach wodnych – w przypadku związku spółek wodnych;
-18)
+18W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 3.)
 kopię uchwały w sprawie budżetu lub planu finansowego spółki wodnej lub związku spółek wodnych na rok, w którym został złożony wniosek o przyznanie pomocy, lub innego dokumentu określającego powierzchnię zmeliorowanych użytków rolnych objętych działalnością spółki wodnej lub związku spółek wodnych – w przypadku spółki wodnej i związku spółek wodnych;
 19)
-(uchylony);
+(uchylony);Przez § 1 pkt 6 lit. b tiret piąte rozporządzenia, o którym mowa w odnośniku 3.
 20)
 zaświadczenie wystawione przez wójta, burmistrza lub prezydenta, że spółka wodna lub związek spółek wodnych działa na terenie gminy poszkodowanej przez powodzie lub deszcze nawalne co najmniej dwukrotnie od dnia 1 stycznia 1997 r. – w przypadku spółki wodnej i związku spółek wodnych;
-21)
+21W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret szóste rozporządzenia, o którym mowa w odnośniku 3.)
 zaświadczenie zawierające informacje dotyczące osób uprawnionych do reprezentowania spółki lub związku spółek wodnych wydane przez Państwowe Gospodarstwo Wodne Wody Polskie – w przypadku spółki wodnej i związku spółek wodnych;
-21a)
+21aDodany przez § 1 pkt 6 lit. b tiret siódme rozporządzenia, o którym mowa w odnośniku 3.)
 dokument określający dane osób uprawnionych do reprezentowania podmiotu ubiegającego się o przyznanie pomocy i zaciągania w jego imieniu zobowiązań – w przypadku gdy podmiot ubiegający się o przyznanie pomocy nie podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego;
 22)
 inne dokumenty potwierdzające spełnienie warunków niezbędnych do przyznania pomocy.
@@ -474,7 +466,7 @@ Pomoc przysługuje według kolejności ustalonej przez Agencję przy zastosowani
 O kolejności przysługiwania pomocy na operacje, o których mowa w § 5, decyduje suma uzyskanych punktów, określona z dokładnością do trzech miejsc po przecinku, przyznawanych na podstawie następujących kryteriów wyboru:
 1)
 jeżeli średnia liczba świń w stadzie, obliczona zgodnie z § 2 ust. 6 albo 7, wynosi:
-a)
+aW brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3.)
 od 50 do 800 świń – przyznaje się od 2 do 6 punktów, przy czym 6 punktów przyznaje się w przypadku, gdy liczba świń jest równa 800, a dla pozostałych wartości proporcjonalnie mniej, aż do 2 punktów dla wartości równej 50,
 b)
 od 800 do 1200 świń – przyznaje się od 2 do 6 punktów, przy czym 6 punktów przyznaje się w przypadku, gdy liczba świń jest równa 800, a dla pozostałych wartości proporcjonalnie mniej, aż do 2 punktów dla wartości równej 1200,
@@ -497,11 +489,11 @@ jeżeli spółka wodna albo związek spółek wodnych działa na terenie gminy p
 § 16.
 1.
 Kolejność przysługiwania pomocy ustala się na podstawie danych zawartych w:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 3.)
 rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt, dostępnych w tym rejestrze na dzień rozpoczęcia terminu składania wniosków o przyznanie pomocy – w przypadku kryterium określonego w § 15 ust. 2 pkt 1;
 2)
 kosztorysie inwestorskim lub kopii projektu budowlanego dotyczących niecki dezynfekcyjnej, dołączonych do wniosku o przyznanie pomocy – w przypadku kryterium określonego w § 15 ust. 2 pkt 2;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 3.)
 uchwale w sprawie budżetu lub planu finansowego spółki wodnej lub związku spółek wodnych na rok, w którym został złożony wniosek o przyznanie pomocy, lub innym dokumencie określającym powierzchnię zmeliorowanych użytków rolnych objętych działalnością spółki wodnej lub związku spółek wodnych – w przypadku kryterium określonego w § 15 ust. 3 pkt 1;
 4)
 zaświadczeniu wystawionym przez wójta, burmistrza lub prezydenta, że spółka wodna lub związek spółek wodnych działa na terenie gminy poszkodowanej przez powodzie lub deszcze nawalne co najmniej dwukrotnie od dnia 1 stycznia 1997 r., załączonym do wniosku o przyznanie pomocy – w przypadku kryterium określonego w § 15 ust. 3 pkt 2.
@@ -521,7 +513,7 @@ Kolejność przysługiwania pomocy ustala się oddzielnie dla operacji, o który
 Kolejność przysługiwania pomocy ustala się od operacji, która uzyskała największą liczbę punktów, do operacji, która uzyskała najmniejszą liczbę punktów.
 7.
 W przypadku operacji o takiej samej liczbie punktów, o kolejności przysługiwania pomocy decyduje, w przypadku operacji, o których mowa w:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 13.)
 § 5 – większa liczba świń; w przypadku operacji o takiej samej liczbie punktów i liczbie świń o kolejności przysługiwania pomocy decyduje wcześniejsza data złożenia wniosku o przyznanie pomocy;
 2)
 § 6 – to czy spółka wodna lub związek spółek wodnych działa na terenie gminy poszkodowanej przez powodzie lub deszcze nawalne co najmniej dwukrotnie od dnia 1 stycznia 1997 r.; w przypadku operacji o takiej samej liczbie punktów i działaniu przez spółkę wodną lub związek spółek wodnych na terenie gminy poszkodowanej przez powodzie lub deszcze nawalne co najmniej dwukrotnie od dnia 1 stycznia 1997 r. – o kolejności przysługiwania pomocy decyduje większa powierzchnia zmeliorowanych użytków rolnych.
@@ -582,10 +574,10 @@ Wniosek złożony przez podmiot ubiegający się o przyznanie pomocy, o którym 
 1.
 Poza postanowieniami określonymi w art. 36 ust. 1 ustawy umowa może zawierać inne postanowienia dotyczące realizacji operacji, w szczególności zobowiązania beneficjenta dotyczące:
 1)
-zapewnienia trwałości operacji zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.);
+zapewnienia trwałości operacji zgodnie z art. 71 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34 i Dz. Urz. UE L 129 z 19.05.2017, str. 1.);
 2)
 osiągnięcia wskaźnika realizacji celu operacji;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 13.)
 niefinansowania operacji z udziałem innych środków publicznych, w przypadku operacji, o której mowa w § 5 pkt 1, albo niefinansowania kosztów kwalifikowalnych operacji z udziałem innych środków publicznych, w przypadku operacji, o których mowa w § 5 pkt 2–4 oraz § 6;
 4)
 przechowywania dokumentów związanych z przyznaną pomocą;
@@ -599,7 +591,7 @@ uwzględnienia wszystkich transakcji związanych z operacją w oddzielnym system
 używania zakupionego sprzętu wyłącznie zgodnie z celem operacji.
 2.
 Zobowiązania, o których mowa w ust. 1 pkt 4, 5 i 8, wykonuje się do dnia, w którym upływa 5 lat od dnia wypłaty płatności końcowej.
-2a.
+2aDodany przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 13..
 Zobowiązania, o których mowa w ust. 1 pkt 4, 5 i 8, w odniesieniu do operacji obejmującej wyłącznie inwestycję polegającą na nabyciu rzeczy będącej przedmiotem leasingu, wykonuje się do dnia wypłaty płatności końcowej.
 3.
 Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Agencję, gdy beneficjent na podstawie odrębnych przepisów nie jest obowiązany do prowadzenia ksiąg rachunkowych.
@@ -612,7 +604,7 @@ Weksel wraz z deklaracją wekslową beneficjent podpisuje w obecności upoważni
 Beneficjent będący osobą fizyczną dołącza do umowy oświadczenie:
 1)
 małżonka o wyrażeniu zgody na zawarcie umowy albo o niepozostawaniu w związku małżeńskim, albo o ustanowieniu małżeńskiej rozdzielności majątkowej;
-2)
+2Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 13.)
 współwłaściciela albo współwłaścicieli nieruchomości, na której jest realizowana operacja, a w przypadku gdy współwłaścicielem albo współwłaścicielami są osoby fizyczne – również ich małżonków – o wyrażeniu zgody na zawarcie umowy albo o niepozostawaniu w związku małżeńskim, albo o ustanowieniu małżeńskiej rozdzielności majątkowej.
 § 24.
 1.
@@ -621,7 +613,7 @@ współwłaściciela albo współwłaścicieli nieruchomości, na której jest r
 zrealizował operację lub jej etap i poniósł związane z tym koszty, zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz warunkami określonymi w innych przepisach dotyczących inwestycji objętych operacją, nie później niż do dnia złożenia wniosku o płatność końcową, a gdy został wezwany do usunięcia braków w tym wniosku zgodnie z § 27 ust. 6 lub 7, nie później niż w terminie 14 dni od dnia doręczenia tego wezwania;
 2)
 zrealizował lub realizuje zobowiązania określone w umowie;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 13.)
 udokumentował zrealizowanie operacji lub jej etapu i, w przypadku operacji, o których mowa w § 5 pkt 2–4 oraz § 6, poniesienie kosztów kwalifikowalnych związanych z realizacją operacji.
 2.
 Koszty kwalifikowalne podlegają refundacji w pełnej wysokości, jeżeli zostały:
@@ -637,7 +629,7 @@ c)
 w formie rozliczenia bezgotówkowego;
 2)
 uwzględnione w oddzielnym systemie rachunkowości albo gdy do ich identyfikacji wykorzystano odpowiedni kod rachunkowy, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013.
-3.
+3Dodany przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 13..
 Pomoc udzielana w formie standardowych stawek jednostkowych jest wypłacana:
 1)
 z uwzględnieniem długości wykonanego ogrodzenia, liczby bram i furtek;
@@ -686,11 +678,11 @@ na następcę prawnego beneficjenta przeszły prawa beneficjenta nabyte w ramach
 Wniosek następcy prawnego beneficjenta o przyznanie pomocy, zwany dalej „wnioskiem następcy”, składa się w oddziale regionalnym Agencji właściwym ze względu na miejsce realizacji operacji, w terminie 2 miesięcy od dnia zaistnienia zdarzenia określonego w ust. 1.
 3.
 Do wniosku następcy dołącza się dokument potwierdzający fakt zaistnienia następstwa prawnego.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 13..
 Jeżeli nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku albo w przedmiocie wydania europejskiego poświadczenia spadkowego, spadkobierca beneficjenta dołącza do wniosku następcy oświadczenie o trwającym postępowaniu sądowym o stwierdzenie nabycia spadku albo w przedmiocie wydania europejskiego poświadczenia spadkowego ze wskazaniem sądu prowadzącego sprawę i sygnatury akt sprawy.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 13..
 W przypadku, o którym mowa w ust. 4, spadkobierca przekazuje Agencji, niezwłocznie od dnia uprawomocnienia się postanowienia o stwierdzeniu nabycia spadku albo postanowienia w przedmiocie wydania europejskiego poświadczenia spadkowego, odpis tego postanowienia.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 13..
 Jeżeli z prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowanego aktu poświadczenia dziedziczenia, albo europejskiego poświadczenia spadkowego wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca, który złożył wniosek następcy, dołącza do tego wniosku oświadczenia pozostałych spadkobierców, że wyrażają zgodę na przyznanie pomocy temu spadkobiercy.
 7.
 W przypadku złożenia wniosku następcy po upływie terminu, o którym mowa w ust. 2, Agencja nie przyznaje pomocy, o czym informuje podmiot ubiegający się o przyznanie pomocy, w formie pisemnej, podając przyczynę nieprzyznania pomocy. Przepis art. 35 ust. 1 ustawy dotyczący odmowy przyznania pomocy stosuje się odpowiednio.
@@ -751,6 +743,5 @@ uwzględnione w oddzielnym systemie rachunkowości albo gdy do ich identyfikacji
 3.
 Do przyznawania i wypłaty środków finansowych z tytułu kosztów ogólnych, o których mowa w ust. 1 i 2, przepisu § 24 ust. 2 nie stosuje się.
 § 35.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1 i Dz. Urz. UE L 129 z 19.05.2017, str. 1. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1864), które weszło w życie z dniem 2 października 2018 r. 4) Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 1 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 8) Przez § 1 pkt 1 lit. d tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 9) Ze zmianami wprowadzonymi przez § 1 pkt 1 lit. e rozporządzenia, o którym mowa w odnośniku 3. 10) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. f rozporządzenia, o którym mowa w odnośniku 3. 11) Przez § 1 pkt 1 lit. g rozporządzenia, o którym mowa w odnośniku 3. 12) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 13) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 września 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1814), które weszło w życie z dniem 9 października 2019 r. 14) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 15) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 13. 16) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 13. 17) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 13. 18) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 13. 19) Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 13. 20) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 3 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 21) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 22) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 3. 23) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 13. 24) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 13. 25) W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 13. 26) Dodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną przez § 1 pkt 5 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 13. 27) Dodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną przez § 1 pkt 5 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 13. 28) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 29) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3. 30) Przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 13. 31) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 13. 32) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 13. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 34) Przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 35) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 36) Przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 13. 37) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 38) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 13. 39) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 40) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 3. 41) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 3. 42) Przez § 1 pkt 6 lit. b tiret piąte rozporządzenia, o którym mowa w odnośniku 3. 43) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret szóste rozporządzenia, o którym mowa w odnośniku 3. 44) Dodany przez § 1 pkt 6 lit. b tiret siódme rozporządzenia, o którym mowa w odnośniku 3. 45) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 46) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 3. 47) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 3. 48) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 13. 49) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34 i Dz. Urz. UE L 129 z 19.05.2017, str. 1. 50) W brzmieniu ustalonym przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 13. 51) Dodany przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 13. 52) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 13. 53) W brzmieniu ustalonym przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 13. 54) Dodany przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 13. 55) W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 13. 56) Rozporządzenie zostało ogłoszone w dniu 2 sierpnia 2017 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 2 sierpnia 2017 r.. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1 i Dz. Urz. UE L 129 z 19.05.2017, str. 1. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1864), które weszło w życie z dniem 2 października 2018 r. 4) Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) Przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3. 7) W brzmieniu ustalonym przez § 1 pkt 1 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 8) Przez § 1 pkt 1 lit. d tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 9) Ze zmianami wprowadzonymi przez § 1 pkt 1 lit. e rozporządzenia, o którym mowa w odnośniku 3. 10) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. f rozporządzenia, o którym mowa w odnośniku 3. 11) Przez § 1 pkt 1 lit. g rozporządzenia, o którym mowa w odnośniku 3. 12) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 13) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 września 2019 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1814), które weszło w życie z dniem 9 października 2019 r. 14) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 15) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 13. 16) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 13. 17) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 13. 18) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 13. 19) Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 13. 20) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 3 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 21) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 22) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 3. 23) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 13. 24) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 13. 25) W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 13. 26) Dodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną przez § 1 pkt 5 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 13. 27) Dodany przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną przez § 1 pkt 5 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 13. 28) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 29) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 3. 30) Przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 13. 31) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 13. 32) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 13. 33) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 34) Przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 35) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 36) Przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 13. 37) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 3. 38) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 13. 39) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 40) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 3. 41) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret czwarte rozporządzenia, o którym mowa w odnośniku 3. 42) Przez § 1 pkt 6 lit. b tiret piąte rozporządzenia, o którym mowa w odnośniku 3. 43) W brzmieniu ustalonym przez § 1 pkt 6 lit. b tiret szóste rozporządzenia, o którym mowa w odnośniku 3. 44) Dodany przez § 1 pkt 6 lit. b tiret siódme rozporządzenia, o którym mowa w odnośniku 3. 45) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 46) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 3. 47) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 3. 48) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 13. 49) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 338 z 13.12.2016, str. 34 i Dz. Urz. UE L 129 z 19.05.2017, str. 1. 50) W brzmieniu ustalonym przez § 1 pkt 10 lit. a rozporządzenia, o którym mowa w odnośniku 13. 51) Dodany przez § 1 pkt 10 lit. b rozporządzenia, o którym mowa w odnośniku 13. 52) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 13. 53) W brzmieniu ustalonym przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 13. 54) Dodany przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 13. 55) W brzmieniu ustalonym przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 13. 56) Rozporządzenie zostało ogłoszone w dniu 2 sierpnia 2017 r.
 

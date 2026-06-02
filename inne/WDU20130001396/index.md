@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-21 |
 | Data wydania | 2013-11-28 |
-| Wejście w życie | 2013-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1396/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 58 pkt 2 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 58 pkt 2 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289.) zarządza się, co następuje:
 § 1.
 1.
 Pracownicy sądowi wyznaczeni przez prezesa sądu rejonowego lub przewodniczącego wydziału ksiąg wieczystych mogą samodzielnie:
@@ -62,5 +61,5 @@ prowadzić archiwum ksiąg wieczystych.
 2.
 Pracownicy, o których mowa w ust. 1, mogą pod kierunkiem sędziego lub referendarza sądowego zamieszczać w księdze wieczystej projekty wpisów.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 września 2001 r. w sprawie prowadzenia ksiąg wieczystych i zbiorów dokumentów (Dz. U. Nr 102, poz. 1122, z 2003 r. Nr 176, poz. 1721 oraz z 2011 r. Nr 33, poz. 164), które traci moc z dniem wejścia w życie ustawy z dnia 24 maja 2013 r. o zmianie ustawy o księgach wieczystych i hipotece (Dz. U. poz. 941). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 września 2001 r. w sprawie prowadzenia ksiąg wieczystych i zbiorów dokumentów (Dz. U. Nr 102, poz. 1122, z 2003 r. Nr 176, poz. 1721 oraz z 2011 r. Nr 33, poz. 164), które traci moc z dniem wejścia w życie ustawy z dnia 24 maja 2013 r. o zmianie ustawy o księgach wieczystych i hipotece (Dz. U. poz. 941).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-10 |
 | Data wydania | 2021-09-13 |
-| Wejście w życie | 2021-09-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1675/text.pdf) |
 
@@ -52,13 +51,11 @@ szkoły podstawowe,
 b)
 szkoły ponadpodstawowe, z wyłączeniem branżowych szkół II stopnia, szkół dla dorosłych i szkół policealnych prowadzących kształcenie w formie stacjonarnej lub zaocznej,
 c)
-szkoły artystyczne realizujące kształcenie ogólne w zakresie szkoły podstawowej lub liceum ogólnokształcącego
-zwane dalej „szkołami”,
+szkoły artystyczne realizujące kształcenie ogólne w zakresie szkoły podstawowej lub liceum ogólnokształcącego – zwane dalej „szkołami”,
 3)
 szkoły polskie oraz szkoły i zespoły szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 1 lit. a i pkt 2 lit. c ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082), działające w ramach Ośrodka Rozwoju Polskiej Edukacji za Granicą, zwane dalej „szkołami w ORPEG”,
 4)
-publiczne i niepubliczne biblioteki pedagogiczne
-udziela się wsparcia finansowego ze środków budżetu państwa, zwanego dalej „wsparciem finansowym”.
+publiczne i niepubliczne biblioteki pedagogiczne – udziela się wsparcia finansowego ze środków budżetu państwa, zwanego dalej „wsparciem finansowym”.
 2.
 Wsparcie finansowe może być udzielone:
 1)

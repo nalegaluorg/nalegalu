@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-09 |
 | Data wydania | 2014-07-10 |
-| Wejście w życie | 2014-07-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000911) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/911/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379.) wprowadza się następujące zmiany:
 
 - **1)** w art. 53: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -72,5 +71,5 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 8 listopada 2013 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1646) w art. 14 ust. 3 otrzymuje brzmienie: „ 3. W kwocie wydatków, o której mowa w ust. 2, nie uwzględnia się przepływów finansowych między organami i jednostkami, o których mowa w ust. 2, z tytułu dotacji i subwencji oraz przepływów finansowych między funduszami zarządzanymi przez Zakład Ubezpieczeń Społecznych. ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 1 i 3–5, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 1 i 3–5, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379.
 

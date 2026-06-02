@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw
+# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 16 grudnia 2005 r. o Funduszu Kolejowym, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 19 listopada 2009 r. o grach hazardowych, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej oraz ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-30 |
 | Data wydania | 2021-04-29 |
-| Wejście w życie | 2021-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000802) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/802/text.pdf) |
 
@@ -52,10 +51,12 @@ source: "eli-html"
 - **3)** toczących się przed Komisją Nadzoru Finansowego postępowaniach wobec gwaranta. ” , po ust. 9 dodaje się ust. 9a w brzmieniu: „
     - **f)**
 
-9a. Gwarant powiadamia niezwłocznie Szefa Krajowej Administracji Skarbowej o zmianie swojej nazwy lub adresu swojej siedziby. ” , w ust. 10: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Szef Krajowej Administracji Skarbowej wydaje decyzję o skreśleniu gwaranta z wykazu, jeżeli gwarant: ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) złożył wniosek o skreślenie z wykazu; 4) uległ likwidacji. ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
+9a. Gwarant powiadamia niezwłocznie Szefa Krajowej Administracji Skarbowej o zmianie swojej nazwy lub adresu swojej siedziby. ” , w ust. 10: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Szef Krajowej Administracji Skarbowej wydaje decyzję o skreśleniu gwaranta z wykazu, jeżeli gwarant: ” , pkt 3 i 4 otrzymują brzmienie: „
 
 - **g)**
-- **h)**
+- **3)** złożył wniosek o skreślenie z wykazu;
+- **4)** uległ likwidacji. ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
+    - **h)**
 
 10a. Skreślenie gwaranta z wykazu następuje z dniem wydania decyzji o skreśleniu z wykazu. Decyzja jest przekazywana do wiadomości Komisji Nadzoru Finansowego. ” , ust. 11 otrzymuje brzmienie: „
 
@@ -157,11 +158,11 @@ source: "eli-html"
 1. W zakresie nieuregulowanym w ustawie do opłaty paliwowej stosuje się odpowiednio przepisy:
 
 - **1)** ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, z wyłączeniem przepisów działu Ia, działu II rozdziałów 3 i 3a, działu IV rozdziałów 2 i 3 oraz działów V-VIb;
-- **2)** ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.), z zastrzeżeniem art. 37o ust. 3, z tym że do określania wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, w zakresie działu IV tej ustawy stosuje się przepisy art. 138a § 4, art. 141–143, art. 168, art. 170, art. 215 § 1 oraz rozdziałów 2, 5, 6, 9 i 10, rozdziału 11 – z wyłączeniem art. 200, rozdziałów 16a i 21–23, a do odwołań stosuje się także przepisy art. 140 § 1, art. 162 § 1–3, art. 163 § 2, art. 169, art. 208, art. 210 § 1 pkt 1–6 i 8 oraz § 2, art. 220, art. 221, art. 222, art. 223, art. 226–229, art. 232, art. 233 § 1 i 2, art. 234 oraz art. 234a tej ustawy.
+- **2)** ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694 i 802.), z zastrzeżeniem art. 37o ust. 3, z tym że do określania wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, w zakresie działu IV tej ustawy stosuje się przepisy art. 138a § 4, art. 141–143, art. 168, art. 170, art. 215 § 1 oraz rozdziałów 2, 5, 6, 9 i 10, rozdziału 11 – z wyłączeniem art. 200, rozdziałów 16a i 21–23, a do odwołań stosuje się także przepisy art. 140 § 1, art. 162 § 1–3, art. 163 § 2, art. 169, art. 208, art. 210 § 1 pkt 1–6 i 8 oraz § 2, art. 220, art. 221, art. 222, art. 223, art. 226–229, art. 232, art. 233 § 1 i 2, art. 234 oraz art. 234a tej ustawy.
 
 2. Do postępowania w sprawie określenia wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, stosuje się odpowiednio przepisy:
 
-- **1)** art. 5, art. 18, art. 19, art. 22 ust. 1 zdanie pierwsze i drugie, ust. 2 i 3, ust. 4 zdanie pierwsze, ust. 6 i 7, art. 23 ust. 1–3, art. 27, art. 28 ust. 1–3 i ust. 4 zdanie pierwsze, art. 29, art. 44 i art. 55 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.) oraz przepisy wydane na podstawie art. 20, art. 21, art. 24, art. 25, art. 31 i art. 32 tego rozporządzenia;
+- **1)** art. 5, art. 18, art. 19, art. 22 ust. 1 zdanie pierwsze i drugie, ust. 2 i 3, ust. 4 zdanie pierwsze, ust. 6 i 7, art. 23 ust. 1–3, art. 27, art. 28 ust. 1–3 i ust. 4 zdanie pierwsze, art. 29, art. 44 i art. 55 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32, Dz. Urz. UE L 42 z 18.02.2017, str. 2, Dz. Urz. UE L 83 z 25.03.2019, str. 38 oraz Dz. Urz. UE L 111 z 25.04.2019, str. 54. oraz przepisy wydane na podstawie art. 20, art. 21, art. 24, art. 25, art. 31 i art. 32 tego rozporządzenia;
 - **2)** art. 10a, art. 10b, art. 73c, art. 76, art. 77, art. 83, art. 84, art. 86, art. 88–90 i art. 90b-90e ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2020 r. poz. 1382 oraz z 2021 r. poz. 802).
 
 3. Czynności podjęte w postępowaniu w sprawie określenia wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, na podstawie przepisów działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z wyjątkiem rozstrzygnięć, o których mowa w art. 163 § 2, art. 169 § 4, art. 179 § 2, art. 215 § 1, art. 228 § 1, art. 262 § 5, art. 263 § 1, art. 268 § 3 oraz art. 270a tej ustawy:
@@ -190,7 +191,7 @@ source: "eli-html"
 
 - **4)** w art. 8b w ust. 1 zdanie drugie otrzymuje brzmienie: „ W przypadku osób fizycznych mających nadany numer PESEL potwierdzenie nadania NIP zawiera również numer PESEL. ” .
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72 i 694.) wprowadza się następujące zmiany:
 
 - **1)** w art. 17a po wyrazach „płatnika lub inkasenta” dodaje się wyrazy „, jeżeli ustawy podatkowe nie stanowią inaczej”;
 - **2)** uchyla się art. 147a;
@@ -201,7 +202,7 @@ source: "eli-html"
 
 - **1)** w art. 321d po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
-1a. Do określania wysokości opłaty emisyjnej ciążącej na podmiocie, o którym mowa w art. 321c ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 321c ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych z tytułu importu, stosuje się odpowiednio przepisy art. 27 ust. 4–6a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. 2020 r. poz. 722, z późn. zm.). ” ;
+1a. Do określania wysokości opłaty emisyjnej ciążącej na podmiocie, o którym mowa w art. 321c ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 321c ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych z tytułu importu, stosuje się odpowiednio przepisy art. 27 ust. 4–6a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. 2020 r. poz. 722, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694 i 802.). ” ;
 
 - **2)** w art. 321g w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
 - **1)** naczelnik urzędu skarbowego właściwy miejscowo w sprawach podatku akcyzowego oraz dyrektor izby administracji skarbowej właściwy dla tego naczelnika – w przypadkach, w których obowiązanymi do zapłaty opłaty emisyjnej są podmioty, o których mowa w art. 321c ust. 1 pkt 1 i 3, oraz podmiot, o którym mowa w art. 321c ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych z innego tytułu niż import;
@@ -211,7 +212,7 @@ source: "eli-html"
 1. Podmiot, o którym mowa w art. 321c ust. 1, jest obowiązany składać informację o opłacie emisyjnej odpowiednio właściwemu naczelnikowi urzędu skarbowego albo naczelnikowi urzędu celno-skarbowego oraz obliczać i wpłacać opłatę emisyjną w terminie:
 
 - **1)** do 25. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek zapłaty – w przypadku podmiotów, o których mowa w art. 321c ust. 1 pkt 1 i 3, oraz podmiotu, o którym mowa w art. 321c ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych z innego tytułu niż import,
-- **2)** określonym dla należności celnych – w przypadku podmiotu, o którym mowa w art. 321c ust. 1 pkt 2, oraz podmiotu, o którym mowa w art. 321c ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych z tytułu importu na wyodrębniony rachunek bankowy urzędu skarbowego właściwego dla dokonywania wpłat kwot z tytułu zapłaty podatku akcyzowego. ” ;
+- **2)** określonym dla należności celnych – w przypadku podmiotu, o którym mowa w art. 321c ust. 1 pkt 2, oraz podmiotu, o którym mowa w art. 321c ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych z tytułu importu – na wyodrębniony rachunek bankowy urzędu skarbowego właściwego dla dokonywania wpłat kwot z tytułu zapłaty podatku akcyzowego. ” ;
 - **4)** art. 321j otrzymuje brzmienie: „
 
 **Art. 321j.**
@@ -220,7 +221,7 @@ source: "eli-html"
 
 2. Do postępowania w sprawie określenia wysokości opłaty emisyjnej ciążącej na podmiocie, o którym mowa w art. 321c ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 321c ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych z tytułu importu, stosuje się odpowiednio przepisy:
 
-- **1)** art. 5, art. 18, art. 19, art. 22 ust. 1 zdanie pierwsze i drugie, ust. 2 i 3, ust. 4 zdanie pierwsze, ust. 6 i 7, art. 23 ust. 1–3, art. 27, art. 28 ust. 1–3 i ust. 4 zdanie pierwsze, art. 29, art. 44 i art. 55 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.) oraz przepisy wydane na podstawie art. 20, art. 21, art. 24, art. 25, art. 31 i art. 32 tego rozporządzenia;
+- **1)** art. 5, art. 18, art. 19, art. 22 ust. 1 zdanie pierwsze i drugie, ust. 2 i 3, ust. 4 zdanie pierwsze, ust. 6 i 7, art. 23 ust. 1–3, art. 27, art. 28 ust. 1–3 i ust. 4 zdanie pierwsze, art. 29, art. 44 i art. 55 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32, Dz. Urz. UE L 42 z 18.02.2017, str. 2, Dz. Urz. UE L 83 z 25.03.2019, str. 38 oraz Dz. Urz. UE L 111 z 25.04.2019, str. 54. oraz przepisy wydane na podstawie art. 20, art. 21, art. 24, art. 25, art. 31 i art. 32 tego rozporządzenia;
 - **2)** art. 10a, art. 10b, art. 73c, art. 76, art. 77, art. 83, art. 84, art. 86, art. 88–90 i art. 90b-90e ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2020 r. poz. 1382 oraz z 2021 r. poz. 802).
 
 3. Czynności podjęte w postępowaniu w sprawie określenia wysokości opłaty emisyjnej ciążącej na podmiocie, o którym mowa w art. 321c ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 321c ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych z tytułu importu, na podstawie przepisów działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z wyjątkiem rozstrzygnięć, o których mowa w art. 163 § 2, art. 169 § 4, art. 179 § 2, art. 215 § 1, art. 228 § 1, art. 262 § 5, art. 263 § 1, art. 268 § 3 oraz art. 270a tej ustawy:
@@ -233,7 +234,7 @@ source: "eli-html"
 - **1)** w art. 33: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Jeżeli przed zwolnieniem towaru, o którym mowa w art. 194 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.), zwanego dalej „unijnym kodeksem celnym”, organ celny stwierdzi, że w zgłoszeniu celnym kwota podatku została wykazana nieprawidłowo, naczelnik urzędu celno-skarbowego wydaje decyzję, w której określa:
+2. Jeżeli przed zwolnieniem towaru, o którym mowa w art. 194 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32, Dz. Urz. UE L 42 z 18.02.2017, str. 2, Dz. Urz. UE L 83 z 25.03.2019, str. 38 oraz Dz. Urz. UE L 111 z 25.04.2019, str. 54., zwanego dalej „unijnym kodeksem celnym”, organ celny stwierdzi, że w zgłoszeniu celnym kwota podatku została wykazana nieprawidłowo, naczelnik urzędu celno-skarbowego wydaje decyzję, w której określa:
 
 - **1)** podatek w prawidłowej wysokości – w przypadku gdy decyzja jest wydawana przed zwolnieniem towaru;
 - **2)** różnicę między kwotą podatku w prawidłowej wysokości a kwotą podatku już wykazaną – w przypadku gdy decyzja jest wydawana po zwolnieniu towaru. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
@@ -280,8 +281,11 @@ source: "eli-html"
 
 **Art. 39a.** Organem podatkowym właściwym do orzekania w sprawach odpowiedzialności osoby trzeciej za zaległości podatkowe podatnika w zakresie podatku z tytułu importu towarów jest organ, o którym mowa w art. 66 ust. 1a ustawy z dnia 19 marca 2004 r. – Prawo celne. ” ;
 
-- **6)** w art. 86: w ust. 2: – w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) wynikająca z decyzji, o których mowa w art. 33 ust. 2–3 i art. 34; ” , – pkt 6 otrzymuje brzmienie: „ 6) różnica podatku, o której mowa w art. 30c ust. 2; ” , w ust. 10d w pkt 2 wyrazy „art. 33 ust. 2 i 3” zastępuje się wyrazami „art. 33 ust. 2–3”;
+- **6)** w art. 86: w ust. 2: w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ wynikająca z decyzji, o których mowa w art. 33 ust. 2–3 i art. 34; ” , pkt 6 otrzymuje brzmienie: „
     - **a)**
+    - **d)**
+
+- **6)** różnica podatku, o której mowa w art. 30c ust. 2; ” , w ust. 10d w pkt 2 wyrazy „art. 33 ust. 2 i 3” zastępuje się wyrazami „art. 33 ust. 2–3”;
     - **b)**
 
 - **7)** w art. 86a w ust. 1 w pkt 4 wyrazy „art. 33 ust. 2 i 3” zastępuje się wyrazami „art. 33 ust. 2–3”;
@@ -289,9 +293,9 @@ source: "eli-html"
 
 **Art. 8.** W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2017 r. poz. 510, z 2019 r. poz. 1123 oraz z 2020 r. poz. 462 i 1747) w art. 12 uchyla się pkt 3.
 
-**Art. 9.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255 i 694.) wprowadza się następujące zmiany:
 
-- **1)** art. 6 otrzymuje brzmienie: „ W sprawach wynikających z przepisów o akcyzie stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.), chyba że przepisy niniejszej ustawy stanowią inaczej. ” ;
+- **1)** art. 6 otrzymuje brzmienie: „ W sprawach wynikających z przepisów o akcyzie stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694 i 802.), chyba że przepisy niniejszej ustawy stanowią inaczej. ” ;
 - **2)** w art. 14: po ust. 3c dodaje się ust. 3d w brzmieniu: „
     - **a)**
 
@@ -337,7 +341,7 @@ source: "eli-html"
 
 - **1)** w art. 6a ust. 6 otrzymuje brzmienie: „
 
-6. Podmiot urządzający turniej gry w pokera na podstawie udzielonej koncesji na prowadzenie kasyna gry jest obowiązany przedstawić w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 168 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.), dyrektorowi izby administracji skarbowej właściwemu ze względu na miejsce urządzania tego turnieju, któremu dokonano zgłoszenia organizacji takiego turnieju, w terminie do 25. dnia miesiąca następującego po miesiącu, w którym nastąpiło zakończenie tego turnieju, szczegółową informację o osobach, które uzyskały wygrane w turnieju, zawierającą ich imiona, nazwiska, kwotę wpisowego za udział w turnieju i informację o wysokości uzyskanych wygranych, oraz o rozliczeniu podatku od gier. ” ;
+6. Podmiot urządzający turniej gry w pokera na podstawie udzielonej koncesji na prowadzenie kasyna gry jest obowiązany przedstawić w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 168 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694 i 802.), dyrektorowi izby administracji skarbowej właściwemu ze względu na miejsce urządzania tego turnieju, któremu dokonano zgłoszenia organizacji takiego turnieju, w terminie do 25. dnia miesiąca następującego po miesiącu, w którym nastąpiło zakończenie tego turnieju, szczegółową informację o osobach, które uzyskały wygrane w turnieju, zawierającą ich imiona, nazwiska, kwotę wpisowego za udział w turnieju i informację o wysokości uzyskanych wygranych, oraz o rozliczeniu podatku od gier. ” ;
 
 - **2)** w art. 15: w ust. 1a uchyla się pkt 2, ust. 1b i 1c otrzymują brzmienie: „
     - **a)**
@@ -356,7 +360,7 @@ source: "eli-html"
 - **4)** w art. 15f: w ust. 4 pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** nazwa domeny internetowej: wykorzystywanej do urządzania gier hazardowych lub służącej do reklamowania lub promowania gier hazardowych niezgodnie z przepisami prawa dostępnej dla znajdujących się na terytorium Rzeczypospolitej Polskiej użytkowników sieci Internet; ” , w ust. 6 wyrazy „lub upoważnionego przez niego sekretarza stanu lub podsekretarza stanu w urzędzie obsługującym ministra właściwego do spraw finansów publicznych” zastępuje się wyrazami „albo wyznaczony przez niego organ Krajowej Administracji Skarbowej”, w ust. 9 wyrazy „7 dni” zastępuje się wyrazami „14 dni”;
+- **1)** nazwa domeny internetowej: wykorzystywanej do urządzania gier hazardowych lub służącej do reklamowania lub promowania gier hazardowych – niezgodnie z przepisami prawa dostępnej dla znajdujących się na terytorium Rzeczypospolitej Polskiej użytkowników sieci Internet; ” , w ust. 6 wyrazy „lub upoważnionego przez niego sekretarza stanu lub podsekretarza stanu w urzędzie obsługującym ministra właściwego do spraw finansów publicznych” zastępuje się wyrazami „albo wyznaczony przez niego organ Krajowej Administracji Skarbowej”, w ust. 9 wyrazy „7 dni” zastępuje się wyrazami „14 dni”;
     - **a)**
     - **b)**
     - **b)**
@@ -433,7 +437,7 @@ source: "eli-html"
 
 1. Do postępowań w sprawach celnych, postępowań podatkowych z tytułu importu towarów, postępowań w sprawach opłaty paliwowej oraz postępowań w sprawach opłaty emisyjnej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-2. Do decyzji w sprawach, o których mowa w ust. 1, wydanych przed dniem wejścia w życie niniejszej ustawy na podstawie ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.) stosuje się przepisy dotychczasowe.
+2. Do decyzji w sprawach, o których mowa w ust. 1, wydanych przed dniem wejścia w życie niniejszej ustawy na podstawie ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72 i 694.) stosuje się przepisy dotychczasowe.
 
 **Art. 16.** Do wniosków o zwrot nadpłaty, o której mowa w art. 37o ust. 2 ustawy zmienianej w art. 3, w brzmieniu dotychczasowym, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
@@ -479,6 +483,6 @@ source: "eli-html"
 **Art. 28.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 13, który wchodzi w życie z dniem 1 lipca 2021 r.;
-- **2)** art. 12, który wchodzi w życie z dniem 1 stycznia 2022 r.
+- **2)** art. 12, który wchodzi w życie z dniem 1 stycznia 2022 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 16 grudnia 2005 r. o Funduszu Kolejowym, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 19 listopada 2009 r. o grach hazardowych, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej oraz ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694 i 802. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32, Dz. Urz. UE L 42 z 18.02.2017, str. 2, Dz. Urz. UE L 83 z 25.03.2019, str. 38 oraz Dz. Urz. UE L 111 z 25.04.2019, str. 54. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72 i 694. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694 i 802. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32, Dz. Urz. UE L 42 z 18.02.2017, str. 2, Dz. Urz. UE L 83 z 25.03.2019, str. 38 oraz Dz. Urz. UE L 111 z 25.04.2019, str. 54. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32, Dz. Urz. UE L 42 z 18.02.2017, str. 2, Dz. Urz. UE L 83 z 25.03.2019, str. 38 oraz Dz. Urz. UE L 111 z 25.04.2019, str. 54. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255 i 694. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694 i 802. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694 i 802. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72 i 694.
 
 

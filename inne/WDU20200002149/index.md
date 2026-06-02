@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 25 listopada 2020 r. w sprawie rodzajów dokumentacji dyspozytorni medycznej
+# Rozporządzenie Ministra Zdrowiaz dnia 25 listopada 2020 r. w sprawie rodzajów dokumentacji dyspozytorni medycznej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-25 |
 | Data wydania | 2020-12-03 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2149/text.pdf) |
 
@@ -74,8 +73,7 @@ imię (imiona) i nazwisko,
 b)
 numer telefonu do kontaktu z wzywającym,
 c)
-stopień pokrewieństwa z osobą, której dotyczy wezwanie
-jeżeli są możliwe do ustalenia;
+stopień pokrewieństwa z osobą, której dotyczy wezwanie – jeżeli są możliwe do ustalenia;
 10)
 powód zamknięcia zgłoszenia uwzględniający:
 a)
@@ -128,8 +126,7 @@ kod dyspozytora medycznego obsługującego zdarzenie, w tym dyspozytora przyjmuj
 5.
 Jeżeli nie jest możliwe ustalenie danych pacjenta, w dokumentacji dokonuje się oznaczenia „NN”.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).
 
 # Księga dyspozytorni medycznej, o której mowa w ust. 1 pkt 2, zawiera zbiorcze informacje, o których mowa w ust. 2 pkt 1–6, 8 i 10–15 oraz ust. 3 pkt 2–6, 8, 10–13.
 

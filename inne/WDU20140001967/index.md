@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-22 |
 | Data wydania | 2014-12-30 |
-| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001967) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1967/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717 oraz z 2014 r. poz. 567, 598, 1146, 1161, 1662 i 1831.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe (Dz. U. Nr 161, poz. 1106, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe (Dz. U. Nr 161, poz. 1106, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1999 r. Nr 49, poz. 488 i Nr 75, poz. 847, z 2001 r. Nr 95, poz. 1043 i Nr 138, poz. 1558, z 2004 r. Nr 14, poz. 124, Nr 183, poz. 1888 i Nr 243, poz. 2434 oraz z 2010 r. Nr 31, poz. 167 i Nr 127, poz. 860.) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 1 pkt 23 otrzymuje brzmienie:
-„
+w § 2 w ust. 1 pkt 23 otrzymuje brzmienie: „
 23)
-środki otrzymywane na rehabilitację zawodową, społeczną oraz leczniczą osób niepełnosprawnych na podstawie odrębnych przepisów, z zakładowego funduszu rehabilitacji osób niepełnosprawnych albo zakładowego funduszu aktywności, z wyłączeniem wynagrodzeń finansowanych ze środków tych funduszy,
-” ;
+środki otrzymywane na rehabilitację zawodową, społeczną oraz leczniczą osób niepełnosprawnych na podstawie odrębnych przepisów, z zakładowego funduszu rehabilitacji osób niepełnosprawnych albo zakładowego funduszu aktywności, z wyłączeniem wynagrodzeń finansowanych ze środków tych funduszy, ” ;
 2)
-w § 5 ust. 2 otrzymuje brzmienie:
-„
+w § 5 ust. 2 otrzymuje brzmienie: „
 2.
 Przepisy § 2–4 stosuje się odpowiednio przy ustalaniu podstawy wymiaru składek:
 1)
@@ -46,8 +42,7 @@ członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolnic
 2)
 osób wykonujących pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia,
 3)
-członków rad nadzorczych wynagradzanych z tytułu pełnienia tej funkcji.
-” .
+członków rad nadzorczych wynagradzanych z tytułu pełnienia tej funkcji. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717 oraz z 2014 r. poz. 567, 598, 1146, 1161, 1662 i 1831. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1999 r. Nr 49, poz. 488 i Nr 75, poz. 847, z 2001 r. Nr 95, poz. 1043 i Nr 138, poz. 1558, z 2004 r. Nr 14, poz. 124, Nr 183, poz. 1888 i Nr 243, poz. 2434 oraz z 2010 r. Nr 31, poz. 167 i Nr 127, poz. 860.
 

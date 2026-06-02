@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastrukturyz dnia 10 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Budownictwa w sprawie udostępniania infrastruktury kolejowej
+# Obwieszczenie Ministra Infrastrukturyz dnia 10 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Budownictwa w sprawie udostępniania infrastruktury kolejowej Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 
 | Pole | Wartość |
 |---|---|
@@ -26,24 +26,22 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/602/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 7 kwietnia 2017 r. w sprawie udostępniania infrastruktury kolejowej Rozdział 1 – Przepisy ogólne Rozdział 2 – Przydzielanie zdolności przepustowej Rozdział 3 – Przydzielanie zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów Rozdział 4 – Przydzielanie zdolności przepustowej w ramach indywidualnego rozkładu jazdy pociągu Rozdział 5 – Przydzielanie zdolności przepustowej w ramach uproszczonego rozkładu jazdy pociągu Rozdział 6 – Zmiany rozkładu jazdy pociągów Rozdział 7 – Analiza i plan powiększenia zdolności przepustowej Rozdział 8 – Warunki korzystania z infrastruktury kolejowej Rozdział 9 – Opóźnienia pociągów Rozdział 10 – Opłaty Rozdział 11 – Zakres umowy ramowej Rozdział 12 – Regulamin sieci Rozdział 13 – Przepis przejściowy i przepis końcowy
+Załącznik – Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 7 kwietnia 2017 r. w sprawie udostępniania infrastruktury kolejowej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 7 kwietnia 2017 r. w sprawie udostępniania infrastruktury kolejowej (Dz. U. poz. 755), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 23 listopada 2018 r. zmieniającym rozporządzenie w sprawie udostępniania infrastruktury kolejowej (Dz. U. poz. 2280).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 23 listopada 2018 r. zmieniającego rozporządzenie w sprawie udostępniania infrastruktury kolejowej (Dz. U. poz. 2280), które stanowią: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32, Dz. Urz. UE L 67 z 12.03.2015, str. 32, Dz. Urz. UE L 159 z 16.06.2016, str. 23, Dz. Urz. UE L 352 z 23.12.2016, str. 1 oraz Dz. Urz. UE L 295 z 14.11.2017, str. 69). ”
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 23 listopada 2018 r. zmieniającego rozporządzenie w sprawie udostępniania infrastruktury kolejowej (Dz. U. poz. 2280), które stanowią: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32, Dz. Urz. UE L 67 z 12.03.2015, str. 32, Dz. Urz. UE L 159 z 16.06.2016, str. 23, Dz. Urz. UE L 352 z 23.12.2016, str. 1 oraz Dz. Urz. UE L 295 z 14.11.2017, str. 69). ” „
 § 2.
 1.
 Przepisy rozporządzenia stosuje się po raz pierwszy do przydzielania zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów obowiązującego od dnia 15 grudnia 2019 r.
 2.
 Do dnia 12 grudnia 2020 r. zarządca infrastruktury może stosować przepisy dotychczasowe w zakresie dotyczącym systemu pobierania opłat za udostępnianie infrastruktury kolejowej.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-” .
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
-Załącznik – Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 7 kwietnia 2017 r. w sprawie udostępniania infrastruktury kolejowej
-Na podstawie art. 35 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2023 r. poz. 1786, 1720 i 2029) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. ” . 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+Załącznik – Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 7 kwietnia 2017 r. w sprawie udostępniania infrastruktury kolejowejNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32, z późn. zm.). Na podstawie art. 35 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2023 r. poz. 1786, 1720 i 2029) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -92,6 +90,7 @@ trasa jednosieciowa – trasę pociągu niewykraczającą poza jedną sieć kole
 trasa wielosieciowa – trasę pociągu przebiegającą przez więcej niż jedną sieć kolejową, niewykraczającą poza granice Rzeczypospolitej Polskiej;
 6)
 trasa międzynarodowa – trasę pociągu przebiegającą przez więcej niż jedną sieć kolejową i wykraczającą poza granice Rzeczypospolitej Polskiej.
+Przydzielanie zdolności przepustowej
 § 3.
 1.
 Wniosek o przydzielenie zdolności przepustowej może dotyczyć:
@@ -178,6 +177,7 @@ zawierają wymagane informacje, o których mowa odpowiednio w § 4 ust. 1–4 i 
 Wnioski niespełniające wymogów, o których mowa w ust. 1 pkt 1 i 2, niezwłocznie zwraca się aplikantowi wraz ze wskazaniem przyczyny zwrotu.
 3.
 W przypadku wniosków niespełniających wymogów, o których mowa w ust. 1 pkt 3, zarządca wzywa aplikanta do uzupełnienia wniosku w terminie określonym w regulaminie sieci, nie krótszym niż 5 dni roboczych.
+Przydzielanie zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów
 § 7.
 1.
 Zarządca w celu przydzielenia zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów określa zapotrzebowanie na zdolność przepustową niezbędną dla:
@@ -198,15 +198,13 @@ Na podstawie wniosków o przydzielenie zdolności przepustowej dla tras międzyn
 1)
 trasy, które mają zostać uwzględnione w rocznym rozkładzie jazdy pociągów,
 2)
-godzinę przejazdu pociągu międzynarodowego na styku sieci kolejowych
-z uwzględnieniem przewidywanego ruchu pociągów, które mają pierwszeństwo w stosunku do wnioskowanych tras międzynarodowych. Korekty w stosunku do uzgodnień są dokonywane tylko w razie konieczności.
+godzinę przejazdu pociągu międzynarodowego na styku sieci kolejowych – z uwzględnieniem przewidywanego ruchu pociągów, które mają pierwszeństwo w stosunku do wnioskowanych tras międzynarodowych. Korekty w stosunku do uzgodnień są dokonywane tylko w razie konieczności.
 4.
 Na podstawie wniosków o przydzielenie zdolności przepustowej dla tras wielosieciowych zarządca uzgadnia, nie później niż w terminie, o którym mowa w ust. 2 pkt 3, z zainteresowanymi zarządcami:
 1)
 trasy, które mają zostać uwzględnione w rocznym rozkładzie jazdy pociągów,
 2)
-godzinę przejazdu pociągu na styku sieci kolejowych
-z uwzględnieniem przewidywanego ruchu pociągów, które mają pierwszeństwo w stosunku do wnioskowanych tras wielosieciowych.
+godzinę przejazdu pociągu na styku sieci kolejowych – z uwzględnieniem przewidywanego ruchu pociągów, które mają pierwszeństwo w stosunku do wnioskowanych tras wielosieciowych.
 5.
 Wniosek o przydzielenie trasy pociągu na podstawie umowy ramowej aplikant składa w terminie wyznaczonym przez zarządcę dla składania wniosków o przydzielenie tras wielosieciowych.
 6.
@@ -247,7 +245,7 @@ b)
 propozycją zarządcy rozwiązania sytuacji kolizyjnej, z uwzględnieniem pierwszeństwa w przydzielaniu tras pociągów powodujących kolizję, w tym propozycji tras alternatywnych lub wariantowych, o ile są możliwe,
 c)
 informacją na temat kryteriów uwzględnianych w ramach procesu przydzielania tras pociągów oraz wskazaniem wniosków o przydzielenie tras pociągów równorzędnych pod względem pierwszeństwa w przydzielaniu zdolności przepustowej,
-d)
+dDodana przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 23 listopada 2018 r. zmieniającego rozporządzenie w sprawie udostępniania infrastruktury kolejowej (Dz. U. poz. 2280), które weszło w życie z dniem 6 stycznia 2019 r.)
 informacją o trasach pociągów wstępnie opracowanych dla pozostałych aplikantów na odcinku, na którym występuje kolizja tras, bez ujawniania tożsamości pozostałych aplikantów, chyba że zainteresowani aplikanci wyrażą zgodę na takie ujawnienie;
 2)
 akceptację ze strony aplikanta propozycji bądź zgłoszenie uwag i przedstawienie przez aplikanta możliwych ustępstw w zakresie złożonych wniosków, przy czym brak odpowiedzi aplikanta w terminie 5 dni roboczych od dnia otrzymania informacji od zarządcy jest równoznaczny z akceptacją przedstawionej propozycji.
@@ -291,6 +289,7 @@ Zarządca przed dokonaniem przydziału tras pociągów realizujących przewóz o
 Zarządca, na podstawie uzgodnionego projektu rocznego rozkładu jazdy pociągów, przydziela trasy pociągów, opracowuje roczny rozkład jazdy pociągów i udostępnia go aplikantowi nie później niż w terminie 3 miesięcy przed okresem jego obowiązywania w sposób określony w regulaminie sieci.
 16.
 W trakcie procesu układania rocznego rozkładu jazdy pociągów zarządca przyjmuje wnioski o przydzielenie zdolności przepustowej, o której mowa w ust. 1 pkt 1, w celu wykonania prac w zakresie utrzymania infrastruktury kolejowej.
+Przydzielanie zdolności przepustowej w ramach indywidualnego rozkładu jazdy pociągu
 § 8.
 1.
 Na podstawie wniosku o przydzielenie trasy pociągu dotyczącego przydzielenia nowej zdolności przepustowej w okresie obowiązywania rocznego rozkładu jazdy pociągów, złożonego po upływie terminu na składanie wniosków o przydzielenie zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów, zwanego dalej „wnioskiem IRJ”, zarządca opracowuje indywidualny rozkład jazdy pociągu.
@@ -329,6 +328,7 @@ Trasa katalogowa może być przygotowana, w uzgodnieniu z zainteresowanymi zarz�
 Do wniosków o przydzielenie zdolności przepustowej dotyczących międzynarodowych tras katalogowych stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 913/2010 z dnia 22 września 2010 r. w sprawie europejskiej sieci kolejowej ukierunkowanej na konkurencyjny transport towarowy.
 4.
 Do trybu rozpatrywania wniosków o przydzielenie zdolności przepustowej dotyczących krajowych tras katalogowych przepisy rozporządzenia, o którym mowa w ust. 3, stosuje się odpowiednio.
+Przydzielanie zdolności przepustowej w ramach uproszczonego rozkładu jazdy pociągu
 § 10.
 1.
 Zarządca, jeżeli dopuszcza opracowanie uproszczonego rozkładu jazdy pociągu, o którym mowa w art. 30 ust. 10 ustawy, określa w regulaminie sieci termin składania wniosków, dla których deklaruje jego opracowanie. Zarządca określa termin, o którym mowa w zdaniu pierwszym, jako liczbę dni, godzin albo minut przed planowanym uruchomieniem pociągu.
@@ -336,6 +336,7 @@ Zarządca, jeżeli dopuszcza opracowanie uproszczonego rozkładu jazdy pociągu,
 Dla wniosku o przydzielenie zdolności przepustowej, dla którego zarządca opracowuje uproszczony rozkład jazdy pociągu, zarządca przedstawia aplikantowi propozycję godziny odjazdu pociągu ze stacji początkowej oraz trasę przejazdu.
 3.
 W terminie określonym przez zarządcę w regulaminie sieci aplikant akceptuje propozycję, o której mowa w ust. 2, albo odmawia jej akceptacji.
+Zmiany rozkładu jazdy pociągów
 § 11.
 1.
 Jeżeli zarządca podejmie decyzję o wprowadzeniu zmian rozkładu jazdy pociągów, wprowadza je:
@@ -410,6 +411,7 @@ Jeżeli zarządca w ramach zmiany rozkładu jazdy pociągów nie rozpatruje wnio
 przed rozpoczęciem prac nad zmianą rozkładu jazdy pociągów rozpatruje w sposób opisany w § 8;
 2)
 od dnia rozpoczęcia prac nad zmianą rozkładu jazdy pociągów rozpatruje w sposób opisany w § 8 i § 9, po udostępnieniu aplikantom zmiany rozkładu jazdy pociągów.
+Analiza i plan powiększenia zdolności przepustowej
 § 13.
 Analiza zdolności przepustowej odcinka linii kolejowej o niewystarczającej zdolności przepustowej obejmuje:
 1)
@@ -442,6 +444,7 @@ określenie ograniczeń w rozwoju infrastruktury kolejowej;
 możliwe warianty powiększenia zdolności przepustowej wraz z przewidywanymi kosztami i ich wpływem na wysokość stawek jednostkowych za dostęp do infrastruktury kolejowej;
 5)
 harmonogram wprowadzania proponowanych rozwiązań.
+Warunki korzystania z infrastruktury kolejowej
 § 15.
 1.
 Warunkiem korzystania przez przewoźnika z infrastruktury kolejowej jest:
@@ -470,10 +473,10 @@ Jeżeli aplikant:
 1)
 nie złoży oświadczenia, o którym mowa w ust. 6, albo
 2)
-z oświadczenia wynika, że nie został spełniony warunek, o którym mowa w ust. 5
-zarządca, jeżeli został spełniony warunek, o którym mowa w ust. 4, informuje aplikanta i przewoźnika o terminie, od którego przewoźnik nie może korzystać z infrastruktury kolejowej na podstawie przydzielonej trasy pociągu do końca okresu obowiązywania rocznego rozkładu jazdy pociągów.
+z oświadczenia wynika, że nie został spełniony warunek, o którym mowa w ust. 5 – zarządca, jeżeli został spełniony warunek, o którym mowa w ust. 4, informuje aplikanta i przewoźnika o terminie, od którego przewoźnik nie może korzystać z infrastruktury kolejowej na podstawie przydzielonej trasy pociągu do końca okresu obowiązywania rocznego rozkładu jazdy pociągów.
 8.
 W przypadku, o którym mowa w ust. 7, aplikant nie może wyznaczyć innego przewoźnika do wykorzystania trasy pociągu.
+Opóźnienia pociągów
 § 16.
 1.
 Zarządca dokonuje wstępnej klasyfikacji przyczyn opóźnień pociągów zgodnie z następującymi kategoriami:
@@ -631,6 +634,7 @@ Procentowy udział liczby pociągów przewoźnika kolejowego, które nie zostan�
 90 % – w odniesieniu do pociągów pasażerskich;
 2)
 70 % – w odniesieniu do pozostałych pociągów.
+Opłaty
 § 19.
 Opłata za obsługę wniosku o przydzielenie zdolności przepustowej, o której mowa w art. 33 ust. 2 ustawy, jest ustalana jako iloraz kosztów poniesionych przez zarządcę na obsługę wniosków o przydzielenie zdolności przepustowej i liczby wniosków złożonych w ostatnim zakończonym roku, w wysokości nie mniejszej niż 100 zł.
 § 20.
@@ -658,7 +662,7 @@ masy pociągu z dokładnością do 1 tony;
 kategorii linii kolejowej.
 8.
 Wartości średnie, o których mowa w ust. 7, stanowią średnie ważone pracą eksploatacyjną dla ostatniego zakończonego okresu obowiązywania rocznego rozkładu jazdy pociągów.
-9.
+9W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3..
 Zarządca określa w regulaminie sieci wzór, według którego ustala się wartość współczynnika różnicującego średnią stawkę w zależności od masy pociągu. Jako alternatywne rozwiązanie zarządca może ustalić przedziały masy pociągu, nie mniejsze niż 10 ton i nie większe niż 100 ton, dla których ustala współczynniki różnicujące średnią stawkę w zależności od masy pociągu.
 10.
 Zarządca określa wzór albo współczynniki, o których mowa w ust. 9, w taki sposób, aby:
@@ -692,9 +696,9 @@ Jeżeli zarządca nie ponosił albo nie ewidencjonował kosztów bezpośrednich 
 15.
 Planowaną wielkość pracy eksploatacyjnej, o której mowa w ust. 4 i ust. 12 pkt 1, ustala się na podstawie wielkości odpowiedniej pracy eksploatacyjnej w ostatnim zakończonym rocznym rozkładzie jazdy pociągów z uwzględnieniem współczynnika zmienności pracy eksploatacyjnej, ustalonego jako iloraz liczby dni w rocznym rozkładzie jazdy pociągów, na który ustala się stawki, i liczby dni w ostatnim zakończonym rocznym rozkładzie jazdy pociągów.
 16.
-17.
+17W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3..
 W odniesieniu do przewozów innych niż określone w ust. 16 zarządca może określić w regulaminie sieci wartość składnika stawki wyższą niż 0 zł/pociągokilometr, jeżeli na podstawie analizy rynku wykazał, że taka wartość składnika nie spowoduje przejęcia przewozów przez transport samochodowy ani nie spowoduje zwiększenia udziału w rynku przez transport samochodowy. System pobierania opłat uwzględnia wzrosty produktywności osiągnięte przez przewoźników kolejowych w ostatnim zakończonym roku.
-17a.
+17aDodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3..
 W przypadku, o którym mowa w ust. 17, zarządca określa segmenty rynku, w których przewoźnicy kolejowi obecnie nie działają, ale mogą świadczyć usługi, albo mogą zwiększyć udział w rynku w okresie obowiązywania rocznego rozkładu jazdy pociągów. W tych segmentach rynku zarządca ustala wartość stawki związanej z rodzajem wykonywanych przewozów w wysokości 0 zł/pociągokilometr.
 18.
 Analizy, o której mowa w ust. 17, zarządca dokonuje nie rzadziej niż raz na trzy lata z uwzględnieniem co najmniej następującego podziału segmentów rynku:
@@ -781,6 +785,7 @@ Opłatę manewrową, o której mowa w art. 33 ust. 8 ustawy, ustala się tak, ja
 Jeżeli zarządca nie zarządza linią kolejową, może stosować opłatę manewrową w wysokości określonej dla linii kolejowej, z którą zarządzana przez niego droga kolejowa jest połączona.
 § 25.
 Opłat nie nalicza się za przejazd pociągu lub pojazdu pomocniczego zarządcy albo przedsiębiorcy działającego na jego zlecenie, wykonującego przejazd w celu utrzymania infrastruktury kolejowej, nadzoru, przeprowadzenia badań lub usuwania awarii.
+Zakres umowy ramowej
 § 26.
 W umowie ramowej należy w szczególności określić:
 1)
@@ -797,6 +802,7 @@ zasady wprowadzania zmian lub ograniczeń w odniesieniu do zdolności przepustow
 skutki niedotrzymania warunków umowy ramowej;
 7)
 termin uiszczania opłaty za rezerwację zdolności przepustowej, o której mowa w pkt 3.
+Regulamin sieci
 § 27.
 1.
 W regulaminie sieci zawiera się następujące informacje:
@@ -892,7 +898,7 @@ f)
 informację, czy stawki jednostkowe są ustalane w oparciu o stan faktyczny czy planowany,
 g)
 oświadczenie, że jednakowe zasady pobierania opłat obowiązują wszystkich przewoźników,
-h)
+hDodana przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.)
 informacje na temat zmian opłat, w których sprawie zarządca infrastruktury podjął już decyzję, oraz zmian przewidywanych w ciągu najbliższych pięciu lat, jeżeli zarządca posiada takie informacje;
 20)
 wzór umowy ramowej, jeżeli zarządca oferuje ich zawieranie;
@@ -922,31 +928,57 @@ rozesłanie informacji do aplikantów o możliwości zgłaszania uwag do projekt
 opublikowanie na stronie internetowej zarządcy zestawienia zgłoszonych uwag wraz z informacją o sposobie ich rozpatrzenia oraz uzasadnieniem w przypadku ich odrzucenia;
 4)
 opublikowanie na stronie internetowej zarządcy regulaminu sieci.
+Przepis przejściowy i przepis końcowy
 § 28.
 Zarządcy, do czasu pełnego wdrożenia metody obliczania kosztów, o której mowa w art. 9 rozporządzenia wykonawczego Komisji (UE) 2015/909 z dnia 12 czerwca 2015 r. w sprawie zasad obliczania kosztów, które są ponoszone bezpośrednio jako rezultat przejazdu pociągu, w zakresie sposobu ustalania kosztów bezpośrednich, stosują przepisy rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 5 czerwca 2014 r. w sprawie warunków dostępu i korzystania z infrastruktury kolejowej (Dz. U. poz. 788 oraz z 2015 r. poz. 1723).
 § 29.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 16 ust. 6 oraz § 21 ust. 22–24, które wchodzą w życie z dniem 9 grudnia 2018 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32, z późn. zm.). 3) Dodana przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 23 listopada 2018 r. zmieniającego rozporządzenie w sprawie udostępniania infrastruktury kolejowej (Dz. U. poz. 2280), które weszło w życie z dniem 6 stycznia 2019 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3. 7) Dodana przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 8) Rozporządzenie zostało ogłoszone w dniu 10 kwietnia 2017 r. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 5 czerwca 2014 r. w sprawie warunków dostępu i korzystania z infrastruktury kolejowej (Dz. U. poz. 788 oraz z 2015 r. poz. 1723), które utraciło moc z dniem 30 grudnia 2016 r. w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw (Dz. U. poz. 1923).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 10 kwietnia 2017 r., z wyjątkiem § 16 ust. 6 oraz § 21 ust. 22–24, które wchodzą w życie z dniem 9 grudnia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 5 czerwca 2014 r. w sprawie warunków dostępu i korzystania z infrastruktury kolejowej (Dz. U. poz. 788 oraz z 2015 r. poz. 1723), które utraciło moc z dniem 30 grudnia 2016 r. w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw (Dz. U. poz. 1923). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32, z późn. zm.). 3) Dodana przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 23 listopada 2018 r. zmieniającego rozporządzenie w sprawie udostępniania infrastruktury kolejowej (Dz. U. poz. 2280), które weszło w życie z dniem 6 stycznia 2019 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 6) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3. 7) Dodana przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 8) Rozporządzenie zostało ogłoszone w dniu 10 kwietnia 2017 r. 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 5 czerwca 2014 r. w sprawie warunków dostępu i korzystania z infrastruktury kolejowej (Dz. U. poz. 788 oraz z 2015 r. poz. 1723), które utraciło moc z dniem 30 grudnia 2016 r. w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw (Dz. U. poz. 1923).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przydzielanie zdolności przepustowej
+#### Rozdział 2 – Przydzielanie zdolności przepustowej
 
-#### Rozdział 3 Przydzielanie zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów
+#### Rozdział 3 – Przydzielanie zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów
 
-#### Rozdział 4 Przydzielanie zdolności przepustowej w ramach indywidualnego rozkładu jazdy pociągu
+#### Rozdział 4 – Przydzielanie zdolności przepustowej w ramach indywidualnego rozkładu jazdy pociągu
 
-#### Rozdział 5 Przydzielanie zdolności przepustowej w ramach uproszczonego rozkładu jazdy pociągu
+#### Rozdział 5 – Przydzielanie zdolności przepustowej w ramach uproszczonego rozkładu jazdy pociągu
 
-#### Rozdział 6 Zmiany rozkładu jazdy pociągów
+#### Rozdział 6 – Zmiany rozkładu jazdy pociągów
 
-#### Rozdział 7 Analiza i plan powiększenia zdolności przepustowej
+#### Rozdział 7 – Analiza i plan powiększenia zdolności przepustowej
 
-#### Rozdział 8 Warunki korzystania z infrastruktury kolejowej
+#### Rozdział 8 – Warunki korzystania z infrastruktury kolejowej
 
-#### Rozdział 9 Opóźnienia pociągów
+#### Rozdział 9 – Opóźnienia pociągów
 
-#### Rozdział 10 Opłaty
+#### Rozdział 10 – Opłaty
+
+#### Rozdział 11 – Zakres umowy ramowej
+
+#### Rozdział 12 – Regulamin sieci
+
+#### Rozdział 13 – Przepis przejściowy i przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
 
 ## Część stawki zależną od kosztów bezpośrednich ustala się jako sumę części stawki zależnej od masy pociągu i kategorii linii kolejowych oraz części stawki zależnej od trakcji pociągu.
 
@@ -956,9 +988,9 @@ Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z w
 
 ## Część stawki związana z rodzajem wykonywanych przewozów, o której mowa w ust. 1, przyjmuje wartość 0 zł/pociągokilometr w odniesieniu do przewozów, których wykonywanie jest uzależnione od dofinansowania ze środków publicznych.
 
-#### Rozdział 11 Zakres umowy ramowej
+#### Rozdział 11
 
-#### Rozdział 12 Regulamin sieci
+#### Rozdział 12
 
-#### Rozdział 13 Przepis przejściowy i przepis końcowy
+#### Rozdział 13
 

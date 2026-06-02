@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-03 |
 | Data wydania | 2015-11-25 |
-| Wejście w życie | 2015-12-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001957) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1957/text.pdf) |
 
@@ -37,14 +36,13 @@ Treść rozporządzenia
 ## Załącznik nr 4 — – Dodatkowe informacje i objaśnienia skonsolidowanego sprawozdania finansowego
 
 Treść rozporządzenia
-Na podstawie art. 81 ust. 2 pkt 3 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 81 ust. 2 pkt 3 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045, 1166, 1333, 1844 i 1893.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 25 września 2009 r. w sprawie szczegółowych zasad sporządzania przez jednostki inne niż banki, zakłady ubezpieczeń i zakłady reasekuracji skonsolidowanych sprawozdań finansowych grup kapitałowych (Dz. U. Nr 169, poz. 1327) wprowadza się następujące zmiany:
 1)
 w § 3:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
 Skonsolidowane sprawozdanie finansowe składa się:
 1)
@@ -58,34 +56,25 @@ ze skonsolidowanego rachunku przepływów pieniężnych, obejmującego informacj
 5)
 ze skonsolidowanego zestawienia zmian w kapitale (funduszu) własnym, obejmującego informacje o zmianach poszczególnych składników skonsolidowanego kapitału, w zakresie określonym w załączniku nr 5 do rozporządzenia;
 6)
-z dodatkowych informacji i objaśnień, wchodzących w skład informacji dodatkowej, określonych w załączniku nr 6 do rozporządzenia.
-” ,
+z dodatkowych informacji i objaśnień, wchodzących w skład informacji dodatkowej, określonych w załączniku nr 6 do rozporządzenia. ” ,
 b)
-po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
-Do rocznego skonsolidowanego sprawozdania finansowego dołącza się sprawozdanie z działalności sporządzone odpowiednio według zasad, o których mowa w art. 55 ust. 2a ustawy.
-” ,
+Do rocznego skonsolidowanego sprawozdania finansowego dołącza się sprawozdanie z działalności sporządzone odpowiednio według zasad, o których mowa w art. 55 ust. 2a ustawy. ” ,
 c)
-dodaje się ust. 6 w brzmieniu:
-„
+dodaje się ust. 6 w brzmieniu: „
 6.
-W celu zapewnienia porównywalności danych wykazywanych w skonsolidowanym sprawozdaniu finansowym, zamiast informacji, o których mowa w ust. 5, można sporządzić skorygowany bilans porównawczy oraz skorygowany porównawczy rachunek zysków i strat.
-” ;
+W celu zapewnienia porównywalności danych wykazywanych w skonsolidowanym sprawozdaniu finansowym, zamiast informacji, o których mowa w ust. 5, można sporządzić skorygowany bilans porównawczy oraz skorygowany porównawczy rachunek zysków i strat. ” ;
 2)
-w § 8 ust. 1 otrzymuje brzmienie:
-„
+w § 8 ust. 1 otrzymuje brzmienie: „
 1.
-Jeżeli jednostka dominująca niższego szczebla, stosownie do art. 56 ust. 2 ustawy, nie sporządza skonsolidowanego sprawozdania finansowego, to jednostka dominująca wyższego szczebla obejmuje skonsolidowanym sprawozdaniem finansowym zarówno zależne od niej jednostki, jak i wszystkie jednostki podporządkowane jednostce dominującej niższego szczebla, z zastrzeżeniem art. 56 ust. 4 i 5 ustawy oraz § 7.
-” ;
+Jeżeli jednostka dominująca niższego szczebla, stosownie do art. 56 ust. 2 ustawy, nie sporządza skonsolidowanego sprawozdania finansowego, to jednostka dominująca wyższego szczebla obejmuje skonsolidowanym sprawozdaniem finansowym zarówno zależne od niej jednostki, jak i wszystkie jednostki podporządkowane jednostce dominującej niższego szczebla, z zastrzeżeniem art. 56 ust. 4 i 5 ustawy oraz § 7. ” ;
 3)
 w § 11 w ust. 2 zdanie drugie otrzymuje brzmienie: „ Taka sama zasada dotyczy sporządzania skonsolidowanego rachunku przepływów pieniężnych oraz skonsolidowanego zestawienia zmian w kapitale (funduszu) własnym. ” ;
 4)
-w § 13 ust. 5 otrzymuje brzmienie:
-„
+w § 13 ust. 5 otrzymuje brzmienie: „
 5.
-Udziały w jednostce dominującej, posiadane przez tę jednostkę oraz jej jednostki zależne objęte skonsolidowanym sprawozdaniem finansowym, wykazuje się jako składnik aktywów w odrębnej pozycji „Udziały (akcje) własne”.
-” ;
+Udziały w jednostce dominującej, posiadane przez tę jednostkę oraz jej jednostki zależne objęte skonsolidowanym sprawozdaniem finansowym, wykazuje się jako składnik aktywów w odrębnej pozycji „Udziały (akcje) własne”. ” ;
 5)
 w § 17 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Skonsolidowane zestawienie zmian w kapitale (funduszu) własnym sporządza się: ” ;
 6)
@@ -99,7 +88,7 @@ w poz. „I.a. Kapitał (fundusz) własny na początek okresu (BO), po korektach
 8)
 załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4, 978, 1045, 1166, 1333, 1844 i 1893.
 
 ## Załącznik nr 1 — – Wprowadzenie do skonsolidowanego sprawozdania finansowego
 
@@ -414,10 +403,18 @@ Pasywa razem
 
 A.
 Przychody netto ze sprzedaży produktów, towarów i materiałów, w tym:
-– od jednostek powiązanych nieobjętych metodą konsolidacji pełnej I. Przychody netto ze sprzedaży produktów II. Przychody netto ze sprzedaży towarów i materiałów
+od jednostek powiązanych nieobjętych metodą konsolidacji pełnej
+I.
+Przychody netto ze sprzedaży produktów
+II.
+Przychody netto ze sprzedaży towarów i materiałów
 B.
 Koszty sprzedanych produktów, towarów i materiałów, w tym:
-– jednostkom powiązanym I. Koszt wytworzenia sprzedanych produktów II. Wartość sprzedanych towarów i materiałów
+jednostkom powiązanym
+I.
+Koszt wytworzenia sprzedanych produktów
+II.
+Wartość sprzedanych towarów i materiałów
 C.
 Zysk (strata) brutto ze sprzedaży (A-B)
 D.
@@ -508,7 +505,15 @@ W.
 Zysk (strata) netto (R-S-T+/- U) SKONSOLIDOWANY RACHUNEK ZYSKÓW I STRAT (wariant porównawczy)
 A.
 Przychody netto ze sprzedaży i zrównane z nimi, w tym:
-– od jednostek powiązanych nieobjętych metodą konsolidacji pełnej I. Przychody netto ze sprzedaży produktów II. Zmiana stanu produktów (zwiększenie – wartość dodatnia, zmniejszenie – wartość ujemna) III. Koszt wytworzenia produktów na własne potrzeby jednostki IV. Przychody netto ze sprzedaży towarów i materiałów
+od jednostek powiązanych nieobjętych metodą konsolidacji pełnej
+I.
+Przychody netto ze sprzedaży produktów
+II.
+Zmiana stanu produktów (zwiększenie – wartość dodatnia, zmniejszenie – wartość ujemna)
+III.
+Koszt wytworzenia produktów na własne potrzeby jednostki
+IV.
+Przychody netto ze sprzedaży towarów i materiałów
 B.
 Koszty działalności operacyjnej
 I.
@@ -575,8 +580,14 @@ H.
 Koszty finansowe
 I.
 Odsetki, w tym:
-– dla jednostek powiązanych II. Strata z tytułu rozchodu aktywów finansowych, w tym
-– w jednostkach powiązanych III. Aktualizacja wartości aktywów finansowych IV. Inne
+dla jednostek powiązanych
+II.
+Strata z tytułu rozchodu aktywów finansowych, w tym
+w jednostkach powiązanych
+III.
+Aktualizacja wartości aktywów finansowych
+IV.
+Inne
 I.
 Zysk (strata) na sprzedaży całości lub części udziałów jednostek podporządkowanych
 J.

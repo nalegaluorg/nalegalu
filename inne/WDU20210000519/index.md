@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 18 marca 2021 r. zmieniające rozporządzenie w sprawie standardów kształcenia przygotowującego do wykonywania zawodu lekarza, lekarza dentysty, farmaceuty, pielęgniarki, położnej, diagnosty laboratoryjnego, fizjoterapeuty i ratownika medycznego
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 18 marca 2021 r. zmieniające rozporządzenie w sprawie standardów kształcenia przygotowującego do wykonywania zawodu lekarza, lekarza dentysty, farmaceuty, pielęgniarki, położnej, diagnosty laboratoryjnego, fizjoterapeuty i ratownika medycznego Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-18 |
 | Data wydania | 2021-03-22 |
-| Wejście w życie | 2021-03-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000519) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/519/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 26 lipca 2019 r. w sprawie standardów kształcenia przygotowującego do wykonywania zawodu lekarza, lekarza dentysty, farmaceuty, pielęgniarki, położnej, diagnosty laboratoryjnego, fizjoterapeuty i ratownika medycznego (Dz. U. poz. 1573 oraz z 2020 r. poz. 581, 885 i 1881) po § 1d dodaje się § 1e i § 1f w brzmieniu:
-„
+W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 26 lipca 2019 r. w sprawie standardów kształcenia przygotowującego do wykonywania zawodu lekarza, lekarza dentysty, farmaceuty, pielęgniarki, położnej, diagnosty laboratoryjnego, fizjoterapeuty i ratownika medycznego (Dz. U. poz. 1573 oraz z 2020 r. poz. 581, 885 i 1881) po § 1d dodaje się § 1e i § 1f w brzmieniu: „
 § 1e.
 1.
 W roku akademickim 2020/2021 zajęcia na studiach przygotowujących do wykonywania zawodów, o których mowa w § 1, inne niż zajęcia kształtujące umiejętności praktyczne, w tym zajęcia praktyczne i praktyki zawodowe, mogą być prowadzone z wykorzystaniem metod i technik kształcenia na odległość w wymiarze umożliwiającym uzyskanie do 100% liczby punktów ECTS określonej dla tych zajęć w programie studiów dla danego roku studiów.
@@ -53,9 +51,7 @@ załączniku nr 7 do rozporządzenia w części I w ust. 3.4 – w przypadku stu
 8)
 załączniku nr 8 do rozporządzenia w części I w ust. 3.8 – w przypadku studiów przygotowujących do wykonywania zawodu ratownika medycznego.
 § 1f.
-W przypadku prowadzenia w roku akademickim 2020/2021 zajęć kształtujących umiejętności praktyczne, w tym zajęć praktycznych i praktyk zawodowych, z wykorzystaniem metod i technik kształcenia na odległość, liczby punktów ECTS ustalonej dla tych zajęć zgodnie z § 1d nie wlicza się do liczby punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, określonej w przepisach załączników do rozporządzenia, o których mowa w § 1e ust. 2.
-” .
+W przypadku prowadzenia w roku akademickim 2020/2021 zajęć kształtujących umiejętności praktyczne, w tym zajęć praktycznych i praktyk zawodowych, z wykorzystaniem metod i technik kształcenia na odległość, liczby punktów ECTS ustalonej dla tych zajęć zgodnie z § 1d nie wlicza się do liczby punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, określonej w przepisach załączników do rozporządzenia, o których mowa w § 1e ust. 2. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 

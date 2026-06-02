@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-08 |
 | Data wydania | 2018-01-19 |
-| Wejście w życie | 2018-02-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000152) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/152/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 2. W przypadku gdy udzielenie przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego pomocy publicznej następuje w związku z realizacją umowy zawartej między Unią Europejską a państwem lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA), minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może określić, w drodze rozporządzenia:
 
 - **1)** warunki i tryb udzielania pomocy publicznej,
-- **2)** szczegółowe przeznaczenie pomocy publicznej, jeżeli wynika to z umowy, na podstawie której pomoc jest udzielana uwzględniając wszystkie źródła pochodzenia środków niepodlegających zwrotowi przekazywanych jako pomoc publiczna w związku z realizacją umowy, konieczność zapewnienia przejrzystości udzielania tej pomocy oraz zgodność udzielanej pomocy publicznej z warunkami jej dopuszczalności. ” .
+- **2)** szczegółowe przeznaczenie pomocy publicznej, jeżeli wynika to z umowy, na podstawie której pomoc jest udzielana – uwzględniając wszystkie źródła pochodzenia środków niepodlegających zwrotowi przekazywanych jako pomoc publiczna w związku z realizacją umowy, konieczność zapewnienia przejrzystości udzielania tej pomocy oraz zgodność udzielanej pomocy publicznej z warunkami jej dopuszczalności. ” .
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

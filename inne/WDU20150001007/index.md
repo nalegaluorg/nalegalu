@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 13 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 13 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 Tekst Programu Operacyjnego Polska Wschodnia 2014–2020 został zaakceptowany decyzją Komisji Europejskiej nr C(2014) 10026 z dnia 16 grudnia 2014 r. w sprawie przyjęcia Programu Operacyjnego Polska Wschodnia 2014–2020 w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia Programu Operacyjnego Polska Wschodnia 2014–2020.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-13 |
 | Data wydania | 2015-07-20 |
-| Wejście w życie | 2015-07-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1007/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Pomoc finansowa na przeprowadzenie programu inkubacji innowacyjnych przedsiębiorstw typu startup Rozdział 3 – Pomoc dla przedsiębiorców rozpoczynających działalność Rozdział 4 – Regionalna pomoc inwestycyjna Rozdział 5 – Pomoc na usługi doradcze na rzecz MŚP Rozdział 6 – Pomoc dla MŚP na wspieranie innowacyjności Rozdział 7 – Pomoc na udział MŚP w targach Rozdział 8 – Pomoc szkoleniowa Rozdział 9 – Pomoc de minimis Rozdział 10 – Tryb udzielania pomocy finansowej Rozdział 11 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804 oraz z 2015 r. poz. 978) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia dla następujących działań i poddziałań Programu Operacyjnego Polska Wschodnia 2014–2020:
 1)
@@ -155,7 +155,8 @@ Pomoc finansowa, o której mowa w rozdziale 2, udzielana jest do dnia 30 czerwca
 2.
 Pomoc de minimis udzielana jest do końca sześciomiesięcznego okresu następującego po upływie okresu stosowania rozporządzenia nr 1407/2013.
 3.
-Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 rozporządzenia nr 651/2014, a w przypadku regionalnej pomocy inwestycyjnej – do końca okresu obowiązywania mapy pomocy regionalnej na lata 2014–2020 określonej na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
+Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 rozporządzenia nr 651/2014, a w przypadku regionalnej pomocy inwestycyjnej – do końca okresu obowiązywania mapy pomocy regionalnej na lata 2014–2020 określonej na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.).
+Pomoc finansowa na przeprowadzenie programu inkubacji innowacyjnych przedsiębiorstw typu startup
 § 13.
 1.
 Pomoc finansowa udzielana jest ośrodkom innowacji z przeznaczeniem na przeprowadzenie oceny pomysłów biznesowych i programu inkubacji innowacyjnych przedsiębiorstw typu startup w Polsce Wschodniej.
@@ -177,6 +178,7 @@ indywidualne wsparcie rozwoju innowacyjnych pomysłów biznesowych przedsiębior
 Pomoc finansowa, o której mowa w § 13 ust. 1, może być udzielona na pokrycie do 100% kosztów kwalifikowalnych.
 § 15.
 Wsparcie, o którym mowa w § 13 ust. 3 pkt 3, stanowi pomoc de minimis dla tych przedsiębiorstw.
+Pomoc dla przedsiębiorców rozpoczynających działalność
 § 16.
 Pomoc dla przedsiębiorców rozpoczynających działalność udzielana jest przedsiębiorcom z przeznaczeniem na wdrożenie innowacyjnych pomysłów biznesowych oraz rozwój działalności gospodarczej tych przedsiębiorców, pod warunkiem skorzystania ze wsparcia, o którym mowa w § 13 ust. 3 pkt 3, oraz uzyskania rekomendacji ośrodka innowacji.
 § 17.
@@ -186,6 +188,7 @@ Za przedsiębiorców kwalifikujących się do otrzymania pomocy uznaje się mikr
 Pomoc udzielana jest w formie dotacji do wysokości 800 000 euro.
 2.
 Maksymalna intensywność pomocy wynosi 85% kosztów kwalifikowalnych.
+Regionalna pomoc inwestycyjna
 § 19.
 Regionalna pomoc inwestycyjna udzielana jest na inwestycję początkową.
 § 20.
@@ -226,6 +229,7 @@ Maksymalną intensywność regionalnej pomocy inwestycyjnej na pokrycie kosztów
 Maksymalną wielkość regionalnej pomocy inwestycyjnej oblicza się, uwzględniając warunki określone w art. 14 ust. 12–14 rozporządzenia nr 651/2014.
 § 23.
 Przedsiębiorca, zawierając umowę, zobowiązuje się do utrzymania inwestycji na zasadach określonych w art. 14 ust. 5 rozporządzenia nr 651/2014.
+Pomoc na usługi doradcze na rzecz MŚP
 § 24.
 1.
 Do kosztów kwalifikowalnych w ramach pomocy na usługi doradcze na rzecz MŚP zalicza się koszty usług doradczych świadczonych przez doradców zewnętrznych.
@@ -233,6 +237,7 @@ Do kosztów kwalifikowalnych w ramach pomocy na usługi doradcze na rzecz MŚP z
 Usługi, o których mowa w ust. 1, nie mogą mieć charakteru ciągłego ani okresowego oraz nie mogą być związane z bieżącą działalnością operacyjną MŚP, w szczególności w zakresie doradztwa podatkowego, stałej obsługi prawnej lub reklamy.
 § 25.
 Maksymalna intensywność pomocy wynosi 50% kosztów kwalifikowalnych.
+Pomoc dla MŚP na wspieranie innowacyjności
 § 26.
 Do kosztów kwalifikowalnych w ramach pomocy dla MŚP na wspieranie innowacyjności zalicza się koszty:
 1)
@@ -244,10 +249,12 @@ usług doradczych w zakresie innowacji i usług wsparcia innowacji.
 Maksymalna intensywność pomocy wynosi 50% kosztów kwalifikowalnych.
 2.
 W przypadku usług, o których mowa w § 26 pkt 2, intensywność pomocy może być zwiększona do 85% kosztów kwalifikowalnych, pod warunkiem że całkowita kwota pomocy na te usługi nie przekracza 200 000 euro na przedsiębiorcę w dowolnym trzyletnim okresie.
+Pomoc na udział MŚP w targach
 § 28.
 Do kosztów kwalifikowalnych w ramach pomocy na udział MŚP w targach zalicza się koszty wynajmu, budowy i obsługi stoiska wystawowego podczas uczestnictwa MŚP w danych targach lub danej wystawie.
 § 29.
 Maksymalna intensywność pomocy wynosi 50% kosztów kwalifikowalnych.
+Pomoc szkoleniowa
 § 30.
 Pomoc szkoleniowa nie może być udzielana na szkolenia, których obowiązek przeprowadzenia wynika z przepisów prawa.
 § 31.
@@ -264,8 +271,8 @@ Intensywność pomocy, o której mowa w ust. 1, zwiększa się o:
 1)
 10 punktów procentowych w przypadku pomocy na rzecz średniego przedsiębiorcy i 20 punktów procentowych w przypadku pomocy na rzecz mikroprzedsiębiorcy i małego przedsiębiorcy,
 2)
-10 punktów procentowych w przypadku usług szkoleniowych dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia nr 651/2014, lub pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia nr 651/2014
-przy czym łącznie intensywność pomocy nie może przekroczyć 70% kosztów kwalifikowalnych.
+10 punktów procentowych w przypadku usług szkoleniowych dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia nr 651/2014, lub pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia nr 651/2014 – przy czym łącznie intensywność pomocy nie może przekroczyć 70% kosztów kwalifikowalnych.
+Pomoc de minimis
 § 33.
 Do kosztów kwalifikowalnych w ramach pomocy de minimis zalicza się koszty:
 1)
@@ -284,6 +291,7 @@ udziału w międzynarodowych targach, wystawach lub misjach gospodarczych;
 zakupu wartości niematerialnych i prawnych w formie autorskich praw majątkowych lub licencji, związanych z nabyciem oprogramowania niezbędnego do automatyzacji procesów biznesowych w związku z przygotowaniem do internacjonalizacji działalności.
 § 34.
 Pomoc de minimis może być udzielona na pokrycie do 100% kosztów kwalifikowalnych.
+Tryb udzielania pomocy finansowej
 § 35.
 Agencja udziela pomocy finansowej w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy o zasadach realizacji programów, z tym że w ogłoszeniu o konkursie Agencja dodatkowo określa:
 1)
@@ -293,30 +301,52 @@ kategorie pomocy,
 3)
 rodzaje i wysokość kosztów kwalifikowalnych,
 4)
-intensywność pomocy
-w ramach warunków określonych w rozporządzeniu.
+intensywność pomocy – w ramach warunków określonych w rozporządzeniu.
+Przepis końcowy
 § 36.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Tekst Programu Operacyjnego Polska Wschodnia 2014–2020 został zaakceptowany decyzją Komisji Europejskiej nr C(2014) 10026 z dnia 16 grudnia 2014 r. w sprawie przyjęcia Programu Operacyjnego Polska Wschodnia 2014–2020 w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. w sprawie przyjęcia Programu Operacyjnego Polska Wschodnia 2014–2020. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Pomoc finansowa na przeprowadzenie programu inkubacji innowacyjnych przedsiębiorstw typu startup
+#### Rozdział 2 – Pomoc finansowa na przeprowadzenie programu inkubacji innowacyjnych przedsiębiorstw typu startup
 
-#### Rozdział 3 Pomoc dla przedsiębiorców rozpoczynających działalność
+#### Rozdział 3 – Pomoc dla przedsiębiorców rozpoczynających działalność
 
-#### Rozdział 4 Regionalna pomoc inwestycyjna
+#### Rozdział 4 – Regionalna pomoc inwestycyjna
 
-#### Rozdział 5 Pomoc na usługi doradcze na rzecz MŚP
+#### Rozdział 5 – Pomoc na usługi doradcze na rzecz MŚP
 
-#### Rozdział 6 Pomoc dla MŚP na wspieranie innowacyjności
+#### Rozdział 6 – Pomoc dla MŚP na wspieranie innowacyjności
 
-#### Rozdział 7 Pomoc na udział MŚP w targach
+#### Rozdział 7 – Pomoc na udział MŚP w targach
 
-#### Rozdział 8 Pomoc szkoleniowa
+#### Rozdział 8 – Pomoc szkoleniowa
 
-#### Rozdział 9 Pomoc de minimis
+#### Rozdział 9 – Pomoc de minimis
 
-#### Rozdział 10 Tryb udzielania pomocy finansowej
+#### Rozdział 10 – Tryb udzielania pomocy finansowej
 
-#### Rozdział 11 Przepis końcowy
+#### Rozdział 11 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
 

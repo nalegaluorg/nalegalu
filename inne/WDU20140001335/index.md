@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 5 września 2014 r. w sprawie wymagań w zakresie budowy statku, jego stałych urządzeń i wyposażenia dla statków nieobjętych umowami międzynarodowymi
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 5 września 2014 r. w sprawie wymagań w zakresie budowy statku, jego stałych urządzeń i wyposażenia dla statków nieobjętych umowami międzynarodowymi Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia postanowień: 1) dyrektywy Rady 97/70/WE z dnia 11 grudnia 1997 r. ustanawiającej zharmonizowany system bezpieczeństwa dla statków rybackich o długości 24 m i większej (Dz. Urz. WE L 34 z 09.02.1998, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 4, str. 3); 2) dyrektywy Parlamentu Europejskiego i Rady 2009/45/WE z dnia 6 maja 2009 r. w sprawie reguł i norm bezpieczeństwa statków pasażerskich (Dz. Urz. UE L 163 z 25.06.2009, str. 1, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-05 |
 | Data wydania | 2014-10-07 |
-| Wejście w życie | 2014-10-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001335) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1335/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 12 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 12 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1068, z 2013 r. poz. 852 oraz z 2014 r. poz. 609 i 768.) zarządza się, co następuje:
 § 1.
 1.
 Przepisy rozporządzenia stosuje się do statków o polskiej przynależności nieobjętych umowami międzynarodowymi, podlegających wpisowi do:
@@ -102,8 +101,7 @@ W odniesieniu do poszczególnych elementów budowy statku, jego stałych urządz
 1)
 Polskiego Rejestru Statków S.A.,
 2)
-uznanej organizacji upoważnionej do wykonywania zadań administracji morskiej na podstawie art. 8 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, w zakresie określonym w upoważnieniu
-które są udostępnione na ich stronach podmiotowych.
+uznanej organizacji upoważnionej do wykonywania zadań administracji morskiej na podstawie art. 8 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, w zakresie określonym w upoważnieniu – które są udostępnione na ich stronach podmiotowych.
 2.
 W odniesieniu do poszczególnych elementów budowy jachtu morskiego, jego stałych urządzeń i wyposażenia, o których mowa w § 2 ust. 2, uznaje się za obowiązujące wymagania techniczne:
 1)
@@ -111,8 +109,7 @@ Polskiego Rejestru Statków S.A.,
 2)
 uznanej organizacji upoważnionej do wykonywania zadań administracji morskiej na podstawie art. 8 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, w zakresie określonym w upoważnieniu,
 3)
-w przypadku jachtów morskich o długości do 15 m – podmiotu upoważnionego do wykonywania przeglądów technicznych tych jachtów na podstawie art. 26 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim
-które są udostępnione na ich stronach podmiotowych.
+w przypadku jachtów morskich o długości do 15 m – podmiotu upoważnionego do wykonywania przeglądów technicznych tych jachtów na podstawie art. 26 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim – które są udostępnione na ich stronach podmiotowych.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 28 maja 2002 r. w sprawie określenia wymagań w zakresie budowy statku, jego stałych urządzeń i wyposażenia dla statków nieobjętych umowami międzynarodowymi (Dz. U. Nr 74, poz. 679), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z 2012 r. poz. 1068, z 2013 r. poz. 852 oraz z 2014 r. poz. 609 i 768) utraciło moc z dniem 26 lipca 2013 r. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia postanowień: 1) dyrektywy Rady 97/70/WE z dnia 11 grudnia 1997 r. ustanawiającej zharmonizowany system bezpieczeństwa dla statków rybackich o długości 24 m i większej (Dz. Urz. WE L 34 z 09.02.1998, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 4, str. 3); 2) dyrektywy Parlamentu Europejskiego i Rady 2009/45/WE z dnia 6 maja 2009 r. w sprawie reguł i norm bezpieczeństwa statków pasażerskich (Dz. Urz. UE L 163 z 25.06.2009, str. 1, z późn. zm.). 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1068, z 2013 r. poz. 852 oraz z 2014 r. poz. 609 i 768. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 28 maja 2002 r. w sprawie określenia wymagań w zakresie budowy statku, jego stałych urządzeń i wyposażenia dla statków nieobjętych umowami międzynarodowymi (Dz. U. Nr 74, poz. 679), które zgodnie z art. 149 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z 2012 r. poz. 1068, z 2013 r. poz. 852 oraz z 2014 r. poz. 609 i 768) utraciło moc z dniem 26 lipca 2013 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 22 lutego 2018 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Celno-Skarbowej
+# Rozporządzenie Ministra Finansówz dnia 22 lutego 2018 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Celno-Skarbowej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-02-22 |
 | Data wydania | 2018-02-28 |
-| Wejście w życie | 2018-03-01 |
 | Ostatnia zmiana | 2025-10-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000444) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/444/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 189 ust. 20 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 189 ust. 20 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491 oraz z 2018 r. poz. 106 i 138.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -85,8 +84,7 @@ kobiety w ciąży,
 3)
 opiekującego się dzieckiem do 4 lat, bez zgody funkcjonariusza,
 4)
-będącego jedynym opiekunem dziecka do 18 lat lub osoby wymagającej stałej opieki, bez zgody funkcjonariusza
-nie może przekraczać 8 godzin na dobę.
+będącego jedynym opiekunem dziecka do 18 lat lub osoby wymagającej stałej opieki, bez zgody funkcjonariusza – nie może przekraczać 8 godzin na dobę.
 § 7.
 Funkcjonariusz, do którego obowiązków należy kierowanie pojazdem samochodowym, może pełnić służbę do 12 godzin na dobę, w tym kierować pojazdem nie więcej niż 10 godzin. Po 6 godzinach nieprzerwanego prowadzenia pojazdu funkcjonariusz jest obowiązany wykorzystać przerwę trwającą co najmniej 30 minut, która może być zastąpiona przerwami trwającymi co najmniej po 15 minut każda, wykorzystanymi w okresie prowadzenia pojazdu.
 § 8.
@@ -156,6 +154,5 @@ Ewidencje czasu służby mogą być prowadzone w postaci elektronicznej, o ile j
 3.
 W ewidencji czasu służby ujmuje się w szczególności godziny służby oraz informacje o urlopach, zwolnieniach lekarskich, podróżach służbowych, szkoleniach, zwolnieniach od służby, innych usprawiedliwionych nieobecnościach, zgodnie z przepisami prawa pracy, oraz o nieusprawiedliwionych nieobecnościach w służbie, a także informacje o przedłużonym czasie służby i otrzymanym z tego tytułu czasie wolnym lub uposażeniu.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2018 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491 oraz z 2018 r. poz. 106 i 138. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 października 2009 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Celno-Skarbowej (Dz. U. z 2014 r. poz. 1419 oraz z 2017 r. poz. 758), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
+Rozporządzenie wchodzi w życie z dniem 1 marca 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 października 2009 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Celno-Skarbowej (Dz. U. z 2014 r. poz. 1419 oraz z 2017 r. poz. 758), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255, z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491 oraz z 2018 r. poz. 106 i 138. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 października 2009 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Celno-Skarbowej (Dz. U. z 2014 r. poz. 1419 oraz z 2017 r. poz. 758), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
 

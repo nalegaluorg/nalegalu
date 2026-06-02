@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 stycznia 2020 r. o zmianie ustawy o wspieraniu termomodernizacji i remontów
+# Ustawa z dnia 23 stycznia 2020 r. o zmianie ustawy o wspieraniu termomodernizacji i remontów Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 13 września 2019 r. pod numerem 2019/442/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-23 |
 | Data wydania | 2020-03-12 |
-| Wejście w życie | 2020-04-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/412/text.pdf) |
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 - **2)** art. 4 i art. 5 otrzymują brzmienie: „
 
-**Art. 4.** Kredyt, o którym mowa w art. 3 ust. 1, nie może być przeznaczony na sfinansowanie prac, na które uzyskano wsparcie ze środków publicznych, o których mowa w art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.), zwanych dalej „środkami publicznymi”.
+**Art. 4.** Kredyt, o którym mowa w art. 3 ust. 1, nie może być przeznaczony na sfinansowanie prac, na które uzyskano wsparcie ze środków publicznych, o których mowa w art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284 i 374.), zwanych dalej „środkami publicznymi”.
 
 **Art. 5.**
 
@@ -45,7 +44,7 @@ source: "eli-html"
 2. W przypadku gdy wraz z realizacją przedsięwzięcia termomodernizacyjnego w budynku zostanie zainstalowana mikroinstalacja odnawialnego źródła energii o mocy maksymalnej co najmniej:
 
 - **1)** 1 kW – w przypadku budynku mieszkalnego jednorodzinnego,
-- **2)** 6 kW – w przypadku pozostałych budynków wysokość premii termomodernizacyjnej stanowi 21% kosztów poniesionych na realizację przedsięwzięcia termomodernizacyjnego oraz zakup i instalację mikroinstalacji odnawialnego źródła energii.
+- **2)** 6 kW – w przypadku pozostałych budynków – wysokość premii termomodernizacyjnej stanowi 21% kosztów poniesionych na realizację przedsięwzięcia termomodernizacyjnego oraz zakup i instalację mikroinstalacji odnawialnego źródła energii.
 
 3. W przypadku gdy w budynku mieszkalnym jednorodzinnym lub budynku wielorodzinnym, w którym jest realizowane przedsięwzięcie termomodernizacyjne, znajdują się lokale inne niż mieszkalne, wysokość premii termomodernizacyjnej stanowi iloczyn kwoty ustalonej zgodnie z ust. 1 albo 2 i wskaźnika udziału powierzchni użytkowej lokali mieszkalnych w powierzchni użytkowej wszystkich lokali w tym budynku. ” ;
 
@@ -57,7 +56,7 @@ source: "eli-html"
 - **2)** zakupu kotew metalowych do stosowania w betonie przeznaczonych do wzmacniania połączeń warstw płyt wielowarstwowych;
 - **3)** przygotowania otworów i montażu kotew metalowych.
 
-2. Dodatkowe wsparcie, o którym mowa w ust. 1, przysługuje, jeżeli z audytu energetycznego wynika, że po zrealizowaniu przedsięwzięcia termomodernizacyjnego elementy budynku poddane temu przedsięwzięciu termomodernizacyjnemu będą spełniać stosowane od dnia 31 grudnia 2020 r. wymagania minimalne dla budynków w zakresie oszczędności energii i izolacyjności cieplnej, określone w przepisach wydanych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, z późn. zm.).
+2. Dodatkowe wsparcie, o którym mowa w ust. 1, przysługuje, jeżeli z audytu energetycznego wynika, że po zrealizowaniu przedsięwzięcia termomodernizacyjnego elementy budynku poddane temu przedsięwzięciu termomodernizacyjnemu będą spełniać stosowane od dnia 31 grudnia 2020 r. wymagania minimalne dla budynków w zakresie oszczędności energii i izolacyjności cieplnej, określone w przepisach wydanych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148.).
 
 3. Dodatkowe wsparcie, o którym mowa w ust. 1, zwiększa premię termomodernizacyjną. ” ;
 
@@ -86,7 +85,7 @@ source: "eli-html"
 
 - **1)** inwestorem jest gmina lub spółka prawa handlowego, której wszystkie udziały albo akcje należą do gminy;
 - **2)** wszystkie lokale mieszkalne znajdujące się w budynku wchodzą w skład mieszkaniowego zasobu gminy;
-- **3)** budynek znajduje się na obszarze, na którym obowiązują przepisy wydane na podstawie art. 96 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.);
+- **3)** budynek znajduje się na obszarze, na którym obowiązują przepisy wydane na podstawie art. 96 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815, 2087 i 2166 oraz z 2020 r. poz. 284.);
 - **4)** z audytu remontowego wynika, że po zrealizowaniu przedsięwzięcia remontowego elementy budynku poddane temu przedsięwzięciu remontowemu będą spełniały stosowane od dnia 31 grudnia 2020 r. wymagania minimalne dla budynków w zakresie oszczędności energii i izolacyjności cieplnej, określone w przepisach wydanych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
 - **5)** przed realizacją tego przedsięwzięcia remontowego lub w ramach tego przedsięwzięcia remontowego w budynku: zostało wykonane przyłącze techniczne do scentralizowanego źródła ciepła, w związku z likwidacją lokalnego źródła ciepła lub nastąpiła całkowita lub częściowa zamiana źródeł energii na źródła odnawialne lub zastosowano wysokosprawną kogenerację, lub nastąpiła zmiana źródeł ciepła na źródła spełniające standardy niskoemisyjne.
     - **a)**
@@ -159,5 +158,5 @@ source: "eli-html"
 
 3. W przypadku braku wolnych środków Funduszu Termomodernizacji i Remontów stosuje się przepisy art. 16 ustawy zmienianej w art. 1.
 
-**Art. 3.** Do wniosków o premię termomodernizacyjną, premię remontową lub premię kompensacyjną złożonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Do wniosków o premię termomodernizacyjną, premię remontową lub premię kompensacyjną złożonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 13 września 2019 r. pod numerem 2019/442/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284 i 374. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815, 2087 i 2166 oraz z 2020 r. poz. 284.
 

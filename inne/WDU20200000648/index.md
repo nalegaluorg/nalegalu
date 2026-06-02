@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 8 kwietnia 2020 r. zmieniające rozporządzenie w sprawie minimalnej wysokości sumy gwarancji bankowej i ubezpieczeniowej wymaganej w związku z działalnością wykonywaną przez organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych
+# Rozporządzenie Ministra Finansówz dnia 8 kwietnia 2020 r. zmieniające rozporządzenie w sprawie minimalnej wysokości sumy gwarancji bankowej i ubezpieczeniowej wymaganej w związku z działalnością wykonywaną przez organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-08 |
 | Data wydania | 2020-04-10 |
-| Wejście w życie | 2020-04-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000648) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/648/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 12 ust. 1 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2019 r. poz. 548 oraz z 2020 r. poz. 568) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 grudnia 2017 r. w sprawie minimalnej wysokości sumy gwarancji bankowej i ubezpieczeniowej wymaganej w związku z działalnością wykonywaną przez organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych (Dz. U. poz. 2507) po § 14 dodaje się § 14a w brzmieniu:
-„
+W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 grudnia 2017 r. w sprawie minimalnej wysokości sumy gwarancji bankowej i ubezpieczeniowej wymaganej w związku z działalnością wykonywaną przez organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych (Dz. U. poz. 2507) po § 14 dodaje się § 14a w brzmieniu: „
 § 14a.
 1.
 Roczny przychód, o którym mowa w § 3 ust. 1 i 2, deklarowany na okres kolejnych 12 miesięcy na potrzeby określenia minimalnej wysokości sumy gwarancji bankowej lub ubezpieczeniowej w roku obrotowym 2020 nie może być niższy niż 30% rocznego przychodu osiągniętego w roku obrotowym 2019.
 2.
-Minimalna wysokość sumy gwarancji bankowej lub ubezpieczeniowej, o której mowa w ust. 1, nie może być niższa niż suma określona na podstawie § 5–9.
-” .
+Minimalna wysokość sumy gwarancji bankowej lub ubezpieczeniowej, o której mowa w ust. 1, nie może być niższa niż suma określona na podstawie § 5–9. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 

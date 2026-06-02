@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 7 listopada 2022 r. zmieniające rozporządzenie w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Straży Granicznej na zwolnieniach lekarskich
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 7 listopada 2022 r. zmieniające rozporządzenie w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Straży Granicznej na zwolnieniach lekarskich Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-07 |
 | Data wydania | 2022-11-30 |
-| Wejście w życie | 2022-12-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2459/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 125i ust. 3 ustawy z dnia 12 października 1990 r. o Straży G
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 29 maja 2014 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Straży Granicznej na zwolnieniach lekarskich (Dz. U. z 2016 r. poz. 1042 oraz z 2021 r. poz. 483) skreśla się użyty w załączniku do rozporządzenia w tabeli nr 2 w wierszach oznaczonych lp. 3 i 5 w kolumnie drugiej wyraz „obcym”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

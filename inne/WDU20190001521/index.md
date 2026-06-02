@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 sierpnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Gospodarka wodno-ściekowa” w ramach poddziałania „Wsparcie inwestycji związanych z tworzeniem, ulepszaniem lub rozbudową wszystkich rodzajów małej infrastruktury, w tym inwestycji w energię odnawialną i w oszczędzanie energii” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 sierpnia 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Gospodarka wodno-ściekowa” w ramach poddziałania „Wsparcie inwestycji związanych z tworzeniem, ulepszaniem lub rozbudową wszystkich rodzajów małej infrastruktury, w tym inwestycji w energię odnawialną i w oszczędzanie energii” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-02 |
 | Data wydania | 2019-08-13 |
-| Wejście w życie | 2019-08-14 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001521) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1521/text.pdf) |
 
@@ -38,7 +37,9 @@ a)
 w ust. 4 w pkt 3 wyrazy „w programie wodno-środowiskowym kraju, o którym mowa w art. 113 ust. 1 pkt 1 ustawy z dnia 18 lipca 2001 r. – Prawo wodne” zastępuje się wyrazami „w planach gospodarowania wodami na obszarach dorzeczy, o których mowa w art. 315 pkt 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne”,
 b)
 w ust. 5:
-– w pkt 8: – – w lit. a w tiret trzecim wyrazy „art. 43 ust. 2 pkt 2 ustawy z dnia 18 lipca 2001 r. – Prawo wodne” zastępuje się wyrazami „art. 86 ust. 3 pkt 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne”, – – w lit. d wyrazy „1–4 do rozporządzenia Ministra Zdrowia z dnia 13 listopada 2015 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi (Dz. U. poz. 1989)” zastępuje się wyrazami „1–5 do rozporządzenia Ministra Zdrowia z dnia 7 grudnia 2017 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi (Dz. U. poz. 2294)”,
+w pkt 8:
+– – w lit. a w tiret trzecim wyrazy „art. 43 ust. 2 pkt 2 ustawy z dnia 18 lipca 2001 r. – Prawo wodne” zastępuje się wyrazami „art. 86 ust. 3 pkt 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne”,
+– – w lit. d wyrazy „1–4 do rozporządzenia Ministra Zdrowia z dnia 13 listopada 2015 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi (Dz. U. poz. 1989)” zastępuje się wyrazami „1–5 do rozporządzenia Ministra Zdrowia z dnia 7 grudnia 2017 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi (Dz. U. poz. 2294)”,
 – w pkt 11 w lit. d wyrazy „1–4 do rozporządzenia Ministra Zdrowia z dnia 13 listopada 2015 r.” zastępuje się wyrazami „1–5 do rozporządzenia Ministra Zdrowia z dnia 7 grudnia 2017 r.”;
 3)
 w § 14 w ust. 5 wyrazy „ust. 3” zastępuje się wyrazami „ust. 4”;
@@ -49,6 +50,5 @@ Do przyznawania pomocy finansowej na operacje typu „Gospodarka wodno-ściekowa
 § 3.
 Do wypłaty środków finansowych z tytułu pomocy finansowej, o której mowa w § 2, przyznanej na podstawie umów o przyznaniu tej pomocy zawartych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 31 marca 2022 r. w sprawie warunków technicznych, jakim powinny odpowiadać strzelnice kryte Policji, Straży Granicznej i Służby Ochrony Państwa oraz ich usytuowanie
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 31 marca 2022 r. w sprawie warunków technicznych, jakim powinny odpowiadać strzelnice kryte Policji, Straży Granicznej i Służby Ochrony Państwa oraz ich usytuowanie Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-31 |
 | Data wydania | 2022-04-20 |
-| Wejście w życie | 2022-05-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000848) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/848/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Układ funkcjonalny strzelnicy Rozdział 3 – Warunki techniczno-budowlane strzelnicy Rozdział 4 – Warunki dopuszczenia strzelnicy do eksploatacji Rozdział 5 – Dopuszczalne odstępstwa od wymagań przewidzianych w rozporządzeniu Rozdział 6 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351 oraz 2022 r. poz. 88) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa warunki techniczne, jakim powinny odpowiadać obiekty budowlane będące strzelnicami krytymi Policji, Straży Granicznej i Służby Ochrony Państwa, zwane dalej „strzelnicami”, oraz ich usytuowanie.
 § 2.
@@ -91,6 +91,7 @@ sygnalizacja ostrzegawcza – zespół urządzeń i elementów wyposażenia strz
 szkolenie strzeleckie – szkolenie strzeleckie funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa, którego proces, zasady bezpieczeństwa, a także realizowane w jego toku zadania i obowiązki osób prowadzących zajęcia z osobami szkolonymi są uregulowane odrębnymi przepisami dotyczącymi szkolenia oraz doskonalenia strzeleckiego funkcjonariuszy tych służb, wydanymi odpowiednio przez Komendanta Głównego Policji na podstawie art. 7 ust. 1 pkt 4a lub pkt 12 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448 oraz z 2022 r. poz. 655), Komendanta Głównego Straży Granicznej na podstawie art. 9 ust. 7 pkt 6a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486, 1728, 1898, 2191 i 2333 oraz z 2022 r. poz. 655), Komendanta Służby Ochrony Państwa na podstawie art. 14 pkt 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2021 r. poz. 575, 1728 i 2333 oraz z 2022 r. poz. 655);
 29)
 jednostka naukowa – podmioty wymienione w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583, 655, 682 i 807), prowadzące badania naukowe lub prace rozwojowe z zakresu balistyki zewnętrznej i końcowej.
+Układ funkcjonalny strzelnicy
 § 3.
 W skład strzelnicy krytej wchodzą wraz z właściwą im infrastrukturą specjalistyczną:
 1)
@@ -153,6 +154,7 @@ magazyny i pomieszczenia gospodarcze;
 pomieszczenia techniczne, w tym rozdzielnia energetyczna;
 10)
 inne pomieszczenia lub stanowiska wynikające z potrzeb rozwojowych procesu szkolenia strzeleckiego lub z innych doraźnych potrzeb.
+Warunki techniczno-budowlane strzelnicy
 § 6.
 1.
 Konstrukcję budowlaną strzelnicy, jej infrastrukturę specjalistyczną wraz z konfiguracją oraz ich zabezpieczeniami wykonuje się odpowiednio do potrzeb szkoleniowych i charakterystyk balistyczno-energetycznych używanej broni palnej i amunicji oraz z zapewnieniem właściwej odporności na przebicie, określeniem odpowiednich współczynników bezpieczeństwa i ograniczeniem występowania zjawiska rykoszetowania oraz z zachowaniem geometrii bezpieczeństwa strzelnicy.
@@ -247,8 +249,7 @@ Okładziny zabezpieczeń górnych spełniają warunki, o których mowa w:
 1)
 ust. 2 pkt 1 – dla zabezpieczenia górnego równoległego lub
 2)
-ust. 3 pkt 1 – dla zabezpieczenia górnego prostopadłego i ukośnego
-przy czym w pasie zabezpieczenia górnego równoległego do płaszczyzny stropu hali strzelań o długości pokrywającej się z długością stanowiska strzeleckiego wykonuje się je w sposób ograniczający zjawisko rykoszetowania.
+ust. 3 pkt 1 – dla zabezpieczenia górnego prostopadłego i ukośnego – przy czym w pasie zabezpieczenia górnego równoległego do płaszczyzny stropu hali strzelań o długości pokrywającej się z długością stanowiska strzeleckiego wykonuje się je w sposób ograniczający zjawisko rykoszetowania.
 § 18.
 1.
 Zabezpieczenia boczne wykonuje się z materiału odpornego na przebicie i osłania się je materiałem ograniczającym zjawisko rykoszetowania.
@@ -372,6 +373,7 @@ Lokalizacja oraz konstrukcja strzelnicy spełniają warunki ochrony otoczenia pr
 Powierzchnie wewnętrzne przegród budowlanych oraz zabudowane na stałe elementy osłon w hali strzelań wykłada się materiałem co najmniej trudno zapalnym i dźwiękochłonnym, w sposób zapewniający tłumienie hałasu spowodowanego strzelaniem.
 3.
 Obszary zagrożone hałasem na strzelnicy oznacza się znakiem określonym w przepisach dotyczących bezpieczeństwa i higieny pracy, a ponadto oznacza się je znakiem nakazu stosowania ochrony słuchu.
+Warunki dopuszczenia strzelnicy do eksploatacji
 § 30.
 1.
 Pozwolenie na eksploatację strzelnicy, zwane dalej „atestem”, wydaje kierownik jednostki organizacyjnej Policji, Straży Granicznej albo Służby Ochrony Państwa, na terenie której strzelnica jest usytuowana, zwany dalej „kierownikiem jednostki”.
@@ -411,6 +413,7 @@ Ze strzelania sprawdzającego sporządza się protokół cząstkowy.
 Czynności sprawdzające, o których mowa w § 30 ust. 2 pkt 2, przeprowadza się nie rzadziej niż raz na trzy lata, licząc od dnia oddania strzelnicy do eksploatacji.
 2.
 W przypadku dokonania zmian w niekonstrukcyjnych elementach wyposażenia strzelnicy, mających wpływ na bezpieczeństwo jej eksploatacji, kierownik jednostki może nakazać, w drodze decyzji, przeprowadzenie określonych czynności sprawdzających w okresie krótszym od wskazanego w ust. 1.
+Dopuszczalne odstępstwa od wymagań przewidzianych w rozporządzeniu
 § 35.
 1.
 Zgodnie z art. 9 ustawy dopuszcza się możliwość zastosowania odstępstw w konstrukcji strzelnicy od niektórych wymagań przewidzianych niniejszym rozporządzeniem, w tym możliwość zastosowania elementów wyposażenia nieujętych w niniejszym rozporządzeniu, jeżeli wynika to z wymogów programu szkolenia strzeleckiego.
@@ -424,6 +427,7 @@ zostanie wydana pozytywna opinia jednostki naukowej dotycząca konstrukcji strze
 zastosowanie w projekcie strzelnicy elementów wyposażenia nieujętych w niniejszym rozporządzeniu uwzględni zakładaną żywotność eksploatacyjną konstrukcji tych elementów;
 4)
 strzelnice, w których konstrukcji zastosowano odstępstwa lub elementy wyposażenia, o których mowa w ust. 1, spełniają warunki dopuszczenia do eksploatacji określone w § 30–34.
+Przepisy przejściowe i końcowe
 § 36.
 1.
 Rozbudowę, nadbudowę, przebudowę, remont lub zmianę sposobu użytkowania poprzedza się oceną stanu technicznego instalacji i urządzeń strzelnicy dokonaną przez jednostkę naukową z uwzględnieniem poziomu bezpieczeństwa prowadzenia strzelań.
@@ -450,18 +454,29 @@ Strzelnice, o których mowa w § 37 ust. 2 pkt 3, podlegają użytkowaniu na dot
 § 39.
 Od dnia 1 stycznia 2026 r. w odniesieniu do strzelnic, które nie spełniają wymagań określonych w niniejszym rozporządzeniu, a zostały przeznaczone do objęcia pracami polegającymi na rozbudowie, nadbudowie, przebudowie, remoncie lub zmianie sposobu użytkowania, zgodnie z przepisami z zakresu prawa budowlanego, dopuszcza się możliwość ich użytkowania do czasu rozpoczęcia tych prac, jednakże nie dłużej niż przez okres 6 lat od dnia 1 stycznia 2026 r., pod warunkiem uzyskania pozytywnej opinii jednostki naukowej w zakresie możliwości użytkowania tych strzelnic.
 § 40.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Układ funkcjonalny strzelnicy
+#### Rozdział 2 – Układ funkcjonalny strzelnicy
 
-#### Rozdział 3 Warunki techniczno-budowlane strzelnicy
+#### Rozdział 3 – Warunki techniczno-budowlane strzelnicy
 
-#### Rozdział 4 Warunki dopuszczenia strzelnicy do eksploatacji
+#### Rozdział 4 – Warunki dopuszczenia strzelnicy do eksploatacji
 
-#### Rozdział 5 Dopuszczalne odstępstwa od wymagań przewidzianych w rozporządzeniu
+#### Rozdział 5 – Dopuszczalne odstępstwa od wymagań przewidzianych w rozporządzeniu
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+#### Rozdział 6 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

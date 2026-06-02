@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-30 |
 | Data wydania | 2013-12-31 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001703) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1703/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 7 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 7 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675, 829, 1351 i 1650.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. Nr 85, poz. 776 oraz z 2005 r. Nr 154, poz. 1294) w § 1 wprowadza się następujące zmiany:
 1)
-w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-zakresu zadań wynikających ze sprawowania przez Komendanta Głównego Straży Granicznej nadzoru nad terenowymi organami Straży Granicznej, ośrodkami szkolenia Straży Granicznej oraz ośrodkami Straży Granicznej,
-” ;
+zakresu zadań wynikających ze sprawowania przez Komendanta Głównego Straży Granicznej nadzoru nad terenowymi organami Straży Granicznej, ośrodkami szkolenia Straży Granicznej oraz ośrodkami Straży Granicznej, ” ;
 2)
-po ust. 6 dodaje się ust. 7 w brzmieniu:
-„
+po ust. 6 dodaje się ust. 7 w brzmieniu: „
 7.
 W ośrodkach Straży Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
 1)
@@ -50,8 +46,7 @@ zadań realizowanych w ramach posiadanych kompetencji,
 4)
 dyslokacji ośrodków Straży Granicznej,
 5)
-posiadanego zabezpieczenia logistycznego.
-” .
+posiadanego zabezpieczenia logistycznego. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675, 829, 1351 i 1650.
 

@@ -26,22 +26,52 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001131) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1131/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 27 lipca 2002 r. Prawo dewizowe Rozdział 1 – Przepisy ogólne Rozdział 2 – Odstępowanie od ograniczeń i obowiązków określonych w ustawie Rozdział 3 – Ograniczenia w dokonywaniu obrotu dewizowego z zagranicą oraz obrotu wartościami dewizowymi w kraju Rozdział 4 – Działalność kantorowa Rozdział 5 Rozdział 6 Rozdział 7 – Obowiązek związany z przekazami pieniężnymi za granicę oraz rozliczeniami w kraju w obrocie dewizowym Rozdział 8 – Obowiązki dotyczące przekazywania danych oraz przechowywania dokumentów związanych z obrotem dewizowym oraz działalnością kantorową Rozdział 9 – Kontrola wykonywana przez Prezesa Narodowego Banku Polskiego Rozdział 10 – Zmiany w przepisach obowiązujących Rozdział 11 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 27 lipca 2002 r. Prawo dewizowe
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2022 r. poz. 309), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lipca 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850), który stanowi: „
+Przepisy ogólne
+Odstępowanie od ograniczeń i obowiązków określonych w ustawie
 Dozwolone jest odstępowanie od ograniczeń określonych w art. 9 oraz obowiązków określonych w art. 25 ust. 1, na podstawie ogólnego albo indywidualnego zezwolenia dewizowego, w zakresie i na warunkach określonych w takim zezwoleniu.
+Ograniczenia w dokonywaniu obrotu dewizowego z zagranicą oraz obrotu wartościami dewizowymi w kraju
+Działalność kantorowa
+(uchylony)Rozdział uchylony przez art. 3 pkt 3 ustawy, o której mowa w odnośniku 1.
 (uchylony)
-(uchylony)
+Obowiązek związany z przekazami pieniężnymi za granicę oraz rozliczeniami w kraju w obrocie dewizowym
+Obowiązki dotyczące przekazywania danych oraz przechowywania dokumentów związanych z obrotem dewizowym oraz działalnością kantorową
+Kontrola wykonywana przez Prezesa Narodowego Banku Polskiego
+Zmiany w przepisach obowiązujących
 Art. 43–54.
 (pominięte)
+Przepisy przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Odstępowanie od ograniczeń i obowiązków określonych w ustawie
+
+#### Rozdział 3 – Ograniczenia w dokonywaniu obrotu dewizowego z zagranicą oraz obrotu wartościami dewizowymi w kraju
+
+#### Rozdział 4 – Działalność kantorowa
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7 – Obowiązek związany z przekazami pieniężnymi za granicę oraz rozliczeniami w kraju w obrocie dewizowym
+
+#### Rozdział 8 – Obowiązki dotyczące przekazywania danych oraz przechowywania dokumentów związanych z obrotem dewizowym oraz działalnością kantorową
+
+#### Rozdział 9 – Kontrola wykonywana przez Prezesa Narodowego Banku Polskiego
+
+#### Rozdział 10 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 11 – Przepisy przejściowe i końcowe
 
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 pkt 2, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 27 lipca 2002 r. Prawo dewizowe
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa obrót dewizowy z zagranicą oraz obrót wartościami dewizowymi w kraju, a także działalność gospodarczą w zakresie kupna i sprzedaży wartości dewizowych oraz pośrednictwa w ich kupnie i sprzedaży.
 
@@ -116,7 +146,7 @@ Art. 43–54.
 
 **Art. 4.** Prezes Narodowego Banku Polskiego ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, wykaz walut, o których mowa w art. 2 ust. 1 pkt 11.
 
-#### Rozdział 2 Odstępowanie od ograniczeń i obowiązków określonych w ustawie
+#### Rozdział 2
 
 **Art. 6.**
 
@@ -142,7 +172,7 @@ Art. 43–54.
 
 5. Prezes Narodowego Banku Polskiego może upoważnić do załatwiania spraw, o których mowa w ust. 2, wyłącznie dyrektorów departamentów Centrali Narodowego Banku Polskiego oraz dyrektorów oddziałów Narodowego Banku Polskiego lub jednostek równorzędnych.
 
-#### Rozdział 3 Ograniczenia w dokonywaniu obrotu dewizowego z zagranicą oraz obrotu wartościami dewizowymi w kraju
+#### Rozdział 3
 
 **Art. 9.** Ograniczeniom podlega:
 
@@ -182,13 +212,9 @@ Art. 43–54.
 - **1)** wykonania decyzji organów organizacji międzynarodowych, których członkiem jest Rzeczpospolita Polska;
 - **2)** zapewnienia porządku publicznego lub bezpieczeństwa publicznego;
 - **3)** zapewnienia równowagi bilansu płatniczego, w razie ogólnej jego nierównowagi lub nagłego załamania albo powstałego w tym zakresie zagrożenia;
-- **4)** zapewnienia stabilności waluty polskiej, w razie nagłych wahań jej kursu albo powstałego w tym zakresie zagrożenia.
+- **4)** zapewnienia stabilności waluty polskiej, w razie nagłych wahań jej kursu albo powstałego w tym zakresie zagrożenia. 2Utracił moc z dniem 1 maja 2004 r. w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 2, na podstawie art. 62 pkt 1 niniejszej ustawy.. Rada Ministrów może, w drodze rozporządzenia, wprowadzać ograniczenia w celach, o których mowa w ust. 1 pkt 1 i 2. 3Utracił moc z dniem 1 maja 2004 r. w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 4, na podstawie art. 62 pkt 2 niniejszej ustawy.. Rada Ministrów, po zasięgnięciu opinii Rady Polityki Pieniężnej, może, w drodze rozporządzenia, wprowadzać ograniczenia w celach, o których mowa w ust. 1 pkt 3 i 4. Ograniczenia takie mogą obowiązywać do czasu przezwyciężenia powstałych trudności z bilansem płatniczym lub stabilnością waluty polskiej lub ustania powstałego w tym zakresie zagrożenia, nie dłużej jednak niż przez 6 miesięcy od dnia ich wejścia w życie, z zastrzeżeniem art. 62.
 
-2. Rada Ministrów może, w drodze rozporządzenia, wprowadzać ograniczenia w celach, o których mowa w ust. 1 pkt 1 i 2.
-
-3. Rada Ministrów, po zasięgnięciu opinii Rady Polityki Pieniężnej, może, w drodze rozporządzenia, wprowadzać ograniczenia w celach, o których mowa w ust. 1 pkt 3 i 4. Ograniczenia takie mogą obowiązywać do czasu przezwyciężenia powstałych trudności z bilansem płatniczym lub stabilnością waluty polskiej lub ustania powstałego w tym zakresie zagrożenia, nie dłużej jednak niż przez 6 miesięcy od dnia ich wejścia w życie, z zastrzeżeniem art. 62.
-
-#### Rozdział 4 Działalność kantorowa
+#### Rozdział 4
 
 **Art. 11.**
 
@@ -200,9 +226,7 @@ Art. 43–54.
 
 1. Działalność kantorowa może być wykonywana przez:
 
-- **1)** osobę fizyczną, która nie została prawomocnie skazana za przestępstwo skarbowe albo za przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej;
-- **2)** osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, w której wspólnicy, którym powierzono prowadzenie spraw spółki, lub uprawnieni do reprezentacji spółki, lub członkowie organów zarządzających nie zostali prawomocnie skazani za przestępstwo, o którym mowa w pkt 1, lub umyślne przestępstwo skarbowe.
-- **2)** osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, w której wspólnicy, którym powierzono prowadzenie spraw spółki, lub uprawnieni do reprezentacji spółki, lub członkowie organów zarządzających nie zostali prawomocnie skazani za przestępstwo, o którym mowa w pkt 1, lub przestępstwo skarbowe.
+- **1)** osobę fizyczną, która nie została prawomocnie skazana za przestępstwo skarbowe albo za przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej; 2W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 5.) osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, w której wspólnicy, którym powierzono prowadzenie spraw spółki, lub uprawnieni do reprezentacji spółki, lub członkowie organów zarządzających nie zostali prawomocnie skazani za przestępstwo, o którym mowa w pkt 1, lub umyślne przestępstwo skarbowe. 2Ze zmianą wprowadzoną przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 11 września 2024 r.) osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, w której wspólnicy, którym powierzono prowadzenie spraw spółki, lub uprawnieni do reprezentacji spółki, lub członkowie organów zarządzających nie zostali prawomocnie skazani za przestępstwo, o którym mowa w pkt 1, lub przestępstwo skarbowe.
 
 2. Wymóg niekaralności, o którym mowa w ust. 1, stosuje się również do osób kierujących wykonywaniem czynności związanych z prowadzeniem działalności kantorowej oraz do beneficjenta rzeczywistego w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843 oraz z 2024 r. poz. 850) podmiotu prowadzącego taką działalność.
 
@@ -309,14 +333,14 @@ Art. 43–54.
 
 #### Rozdział 6
 
-#### Rozdział 7 Obowiązek związany z przekazami pieniężnymi za granicę oraz rozliczeniami w kraju w obrocie dewizowym
+#### Rozdział 7
 
 **Art. 25.**
 
 1. Rezydenci i nierezydenci są obowiązani dokonywać przekazów pieniężnych za granicę oraz rozliczeń w kraju związanych z obrotem dewizowym za pośrednictwem:
 
 - **1)** uprawnionych banków lub
-- **2)** instytucji płatniczych oraz instytucji pieniądza elektronicznego uprawnionych do świadczenia usług płatniczych, a w przypadku dokonywania rozliczeń w kraju również biur usług płatniczych jeżeli kwota przekazu lub rozliczenia przekracza równowartość 15 000 euro.
+- **2)** instytucji płatniczych oraz instytucji pieniądza elektronicznego uprawnionych do świadczenia usług płatniczych, a w przypadku dokonywania rozliczeń w kraju również biur usług płatniczych – jeżeli kwota przekazu lub rozliczenia przekracza równowartość 15 000 euro.
 
 2. Obowiązek dokonywania rozliczeń zgodnie z ust. 1 nie dotyczy przypadków, w których stroną rozliczenia jest uprawniony bank, krajowa instytucja płatnicza, oddział unijnej instytucji płatniczej, krajowa instytucja pieniądza elektronicznego lub oddział unijnej instytucji pieniądza elektronicznego.
 
@@ -328,7 +352,7 @@ Art. 43–54.
 
 **Art. 29.** (uchylony)
 
-#### Rozdział 8 Obowiązki dotyczące przekazywania danych oraz przechowywania dokumentów związanych z obrotem dewizowym oraz działalnością kantorową
+#### Rozdział 8
 
 **Art. 30.**
 
@@ -348,7 +372,7 @@ Art. 43–54.
 
 **Art. 32.** Rezydenci, na żądanie uprawnionego banku, obowiązanego do przekazywania, na podstawie odrębnych przepisów, danych w zakresie niezbędnym do sporządzenia przez Narodowy Bank Polski bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej, są obowiązani udzielać temu bankowi informacji o dokonywanym za jego pośrednictwem obrocie dewizowym, w szczególności dotyczących przeznaczenia środków pieniężnych będących przedmiotem takiego obrotu. Przedsiębiorcy wykonujący działalność kantorową oraz rezydenci i nierezydenci dokonujący czynności obrotu dewizowego, które podlegają ograniczeniom lub obowiązkom określonym w ustawie, są obowiązani, na potrzeby kontroli wykonywanej przez naczelnika urzędu celno-skarbowego oraz kontroli wykonywanej przez Prezesa Narodowego Banku Polskiego, przechowywać dokumenty związane z tą działalnością lub tymi czynnościami przez okres 5 lat, licząc od końca roku kalendarzowego, w którym wykonywali działalność kantorową lub dokonali danej czynności obrotu dewizowego.
 
-#### Rozdział 9 Kontrola wykonywana przez Prezesa Narodowego Banku Polskiego
+#### Rozdział 9
 
 **Art. 33.**
 
@@ -442,9 +466,9 @@ Art. 43–54.
 
 **Art. 42.** (uchylony)
 
-#### Rozdział 10 Zmiany w przepisach obowiązujących
+#### Rozdział 10
 
-#### Rozdział 11 Przepisy przejściowe i końcowe
+#### Rozdział 11
 
 **Art. 55.**
 
@@ -486,8 +510,5 @@ Art. 43–54.
 - **1)** ust. 2 – w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 2;
 - **2)** ust. 3 – w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 4.
 
-**Art. 63.** Ustawa wchodzi w życie z dniem 1 października 2002 r.
-
-- **1)** Ze zmianą wprowadzoną przez art. 3 pkt 1 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850), która weszła w życie z dniem 25 czerwca 2024 r. 2) Utracił moc z dniem 1 maja 2004 r. w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 2, na podstawie art. 62 pkt 1 niniejszej ustawy. 3) Utracił moc z dniem 1 maja 2004 r. w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 4, na podstawie art. 62 pkt 2 niniejszej ustawy. 4) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 5. 5) Ze zmianą wprowadzoną przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 11 września 2024 r. 6) Rozdział uchylony przez art. 3 pkt 3 ustawy, o której mowa w odnośniku 1.
-
+**Art. 63.** Ustawa wchodzi w życie z dniem 1 października 2002 r. 1) Ze zmianą wprowadzoną przez art. 3 pkt 1 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850), która weszła w życie z dniem 25 czerwca 2024 r. 2) Utracił moc z dniem 1 maja 2004 r. w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 2, na podstawie art. 62 pkt 1 niniejszej ustawy. 3) Utracił moc z dniem 1 maja 2004 r. w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 4, na podstawie art. 62 pkt 2 niniejszej ustawy. 4) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 5. 5) Ze zmianą wprowadzoną przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 11 września 2024 r. 6) Rozdział uchylony przez art. 3 pkt 3 ustawy, o której mowa w odnośniku 1.
 

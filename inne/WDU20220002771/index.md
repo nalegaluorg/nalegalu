@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-16 |
 | Data wydania | 2022-12-27 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002771) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2771/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 249 § 3 pkt 7a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 249 § 3 pkt 7a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655, 1855 i 2600.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki wstępu na teren jednostek organizacyjnych Służby Więziennej, o których mowa w art. 8 ust. 1 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470), zwanych dalej „jednostkami organizacyjnymi”, osób niebędących funkcjonariuszami lub pracownikami Służby Więziennej albo pracownikami przywięziennych zakładów pracy.
 § 2.
@@ -115,5 +114,5 @@ Wstęp i opuszczenie terenu jednostki organizacyjnej osób wymienionych w § 2�
 2.
 W szczególnie uzasadnionych przypadkach związanych z ratowaniem życia, zdrowia lub mienia ewidencjonowanie osób, o których mowa w § 5, może nastąpić przy opuszczaniu terenu jednostki organizacyjnej przez te osoby lub po zakończeniu podejmowanych przez nie działań.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 października 2016 r. w sprawie sposobów ochrony jednostek organizacyjnych Służby Więziennej (Dz. U. poz. 1804), które traci moc z dniem wejścia w życie ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1855 i 2770). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655, 1855 i 2600. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 17 października 2016 r. w sprawie sposobów ochrony jednostek organizacyjnych Służby Więziennej (Dz. U. poz. 1804), które traci moc z dniem wejścia w życie ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw (Dz. U. poz. 1855 i 2770).
 

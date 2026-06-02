@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawaz dnia 23 marca 2017 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw Niniejsza ustawa w zakresie swojej regulacji wdraża:
 
 | Pole | Wartość |
 |---|---|
@@ -22,23 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-23 |
 | Data wydania | 2017-04-12 |
-| Wejście w życie | 2017-04-27 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000768) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/768/text.pdf) |
 
-Właścicielowi przedsiębiorstwa zagrożonego przepadkiem, o którym mowa w art. 44a § 2 Kodeksu karnego, przysługują prawa strony w zakresie czynności procesowych odnoszących się do tego środka.
-” ;
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+Podmiot zobowiązany
+Właściciel przedsiębiorstwa zagrożonego przepadkiem
+Właścicielowi przedsiębiorstwa zagrożonego przepadkiem, o którym mowa w art. 44a § 2 Kodeksu karnego, przysługują prawa strony w zakresie czynności procesowych odnoszących się do tego środka. ” ;
 5)
-w art. 237 po § 3 dodaje się § 3a w brzmieniu:
-„
+w art. 237 po § 3 dodaje się § 3a w brzmieniu: „
 § 3a.
-Kontrola i utrwalanie treści rozmów telefonicznych są dopuszczalne również w celu ujawnienia mienia zagrożonego przepadkiem, o którym mowa w art. 45 § 2 Kodeksu karnego albo art. 33 § 2 Kodeksu karnego skarbowego.
-” ;
+Kontrola i utrwalanie treści rozmów telefonicznych są dopuszczalne również w celu ujawnienia mienia zagrożonego przepadkiem, o którym mowa w art. 45 § 2 Kodeksu karnego albo art. 33 § 2 Kodeksu karnego skarbowego. ” ;
 6)
 w art. 291:
 a)
-§ 1 i 2 otrzymują brzmienie:
-„
+§ 1 i 2 otrzymują brzmienie: „
 § 1.
 W razie zarzucenia oskarżonemu popełnienia przestępstwa, za które lub w związku z którym można orzec:
 1)
@@ -50,26 +48,19 @@ przepadek,
 4)
 środek kompensacyjny,
 5)
-zwrot pokrzywdzonemu lub innemu uprawnionemu podmiotowi korzyści majątkowej, jaką sprawca osiągnął z popełnionego przestępstwa, albo jej równowartości
-może z urzędu nastąpić zabezpieczenie wykonania tego orzeczenia na mieniu oskarżonego lub na mieniu, o którym mowa w art. 45 § 2 Kodeksu karnego, jeżeli zachodzi uzasadniona obawa, że bez takiego zabezpieczenia wykonanie orzeczenia będzie niemożliwe albo znacznie utrudnione.
+zwrot pokrzywdzonemu lub innemu uprawnionemu podmiotowi korzyści majątkowej, jaką sprawca osiągnął z popełnionego przestępstwa, albo jej równowartości – może z urzędu nastąpić zabezpieczenie wykonania tego orzeczenia na mieniu oskarżonego lub na mieniu, o którym mowa w art. 45 § 2 Kodeksu karnego, jeżeli zachodzi uzasadniona obawa, że bez takiego zabezpieczenia wykonanie orzeczenia będzie niemożliwe albo znacznie utrudnione.
 § 2.
-Zabezpieczenie wykonania orzeczenia określonego w § 1 pkt 3 lub 5 może nastąpić również na mieniu osoby fizycznej, o której mowa w art. 44a Kodeksu karnego, lub osoby fizycznej, prawnej lub jednostki organizacyjnej niemającej osobowości prawnej, o której mowa w art. 45 § 3 Kodeksu karnego, lub na mieniu, które podlegałoby przepadkowi na podstawie art. 45a § 1 lub 2 Kodeksu karnego.
-” ,
+Zabezpieczenie wykonania orzeczenia określonego w § 1 pkt 3 lub 5 może nastąpić również na mieniu osoby fizycznej, o której mowa w art. 44a Kodeksu karnego, lub osoby fizycznej, prawnej lub jednostki organizacyjnej niemającej osobowości prawnej, o której mowa w art. 45 § 3 Kodeksu karnego, lub na mieniu, które podlegałoby przepadkowi na podstawie art. 45a § 1 lub 2 Kodeksu karnego. ” ,
 b)
-po § 2 dodaje się § 2a w brzmieniu:
-„
+po § 2 dodaje się § 2a w brzmieniu: „
 § 2a.
-Zabezpieczenie wykonania orzeczenia zwrotu korzyści majątkowej albo jej równowartości lub orzeczenia przepadku świadczenia albo jego równowartości wobec podmiotu zobowiązanego określonego w art. 91a może z urzędu nastąpić na mieniu tego podmiotu.
-” ;
+Zabezpieczenie wykonania orzeczenia zwrotu korzyści majątkowej albo jej równowartości lub orzeczenia przepadku świadczenia albo jego równowartości wobec podmiotu zobowiązanego określonego w art. 91a może z urzędu nastąpić na mieniu tego podmiotu. ” ;
 7)
-w art. 292 § 2 otrzymuje brzmienie:
-„
+w art. 292 § 2 otrzymuje brzmienie: „
 § 2.
-Zabezpieczenie grożącego przepadku następuje przez zajęcie ruchomości, wierzytelności i innych praw majątkowych oraz przez ustanowienie zakazu zbywania i obciążania nieruchomości. Zakaz ten podlega ujawnieniu w księdze wieczystej, a w jej braku, w zbiorze złożonych dokumentów. W miarę potrzeby może być ustanowiony zarząd nieruchomości oskarżonego.
-” ;
+Zabezpieczenie grożącego przepadku następuje przez zajęcie ruchomości, wierzytelności i innych praw majątkowych oraz przez ustanowienie zakazu zbywania i obciążania nieruchomości. Zakaz ten podlega ujawnieniu w księdze wieczystej, a w jej braku, w zbiorze złożonych dokumentów. W miarę potrzeby może być ustanowiony zarząd nieruchomości oskarżonego. ” ;
 8)
-po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
-„
+po art. 292 dodaje się art. 292a i art. 292b w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2016 r. poz. 1137 i 2138 oraz z 2017 r. poz. 244) wprowadza się następujące zmiany:
 
@@ -142,11 +133,11 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 
 - **9)** po art. 269b dodaje się art. 269c w brzmieniu: „ Nie podlega karze za przestępstwo określone w art. 267 § 2 lub art. 269a, kto działa wyłącznie w celu zabezpieczenia systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej albo opracowania metody takiego zabezpieczenia i niezwłocznie powiadomił dysponenta tego systemu lub sieci o ujawnionych zagrożeniach, a jego działanie nie naruszyło interesu publicznego lub prywatnego i nie wyrządziło szkody. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.) art. 775 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85 i 187.) art. 775 otrzymuje brzmienie: „
 
 **Art. 775.** Przepisów art. 773, art. 7732i art. 774 nie stosuje się w razie zbiegu egzekucji administracyjnej i sądowego zabezpieczenia, jak również zbiegu zabezpieczenia administracyjnego z egzekucją sądową, z wyjątkiem przypadków przewidzianych w art. 751 oraz przypadków zabezpieczenia majątkowego w postępowaniu karnym lub karnym skarbowym. ” .
 
-**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2016 r. poz. 790, z późn. zm.) w art. 364w ust. 8 w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2016 r. poz. 790, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 996, 1159, 1948, 2175 i 2261 oraz z 2017 r. poz. 624.) w art. 364w ust. 8 w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 w brzmieniu: „
 
 - **21)** Żandarmeria Wojskowa. ” .
 
@@ -168,9 +159,9 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 3. Jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom, o których mowa w art. 19 ust. 1, lub ich wykrycia, ustalenia ich sprawców, uzyskania i utrwalenia dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z tych przestępstw albo ich równowartości, Policja może korzystać z informacji:
 
 - **1)** stanowiących tajemnicę skarbową, przetwarzanych przez organy administracji rządowej i samorządu terytorialnego;
-- **2)** stanowiących tajemnicę zawodową, o której mowa w art. 9e ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 1910, z późn. zm.);
-- **3)** stanowiących tajemnicę bankową, o której mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm.);
-- **4)** stanowiących dane indywidualne, o których mowa w art. 79 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.);
+- **2)** stanowiących tajemnicę zawodową, o której mowa w art. 9e ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 1910, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1997 oraz z 2017 r. poz. 60, 85, 245 i 768.);
+- **3)** stanowiących tajemnicę bankową, o której mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1997 i 2260 oraz z 2017 r. poz. 85, 724 i 768.);
+- **4)** stanowiących dane indywidualne, o których mowa w art. 79 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38 i 60.);
 - **5)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2016 r. poz. 719, 831, 904 i 1948 oraz z 2017 r. poz. 724 i 768);
 - **6)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, 1948 i 2260 oraz z 2017 r. poz. 724 i 768);
 - **7)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
@@ -192,7 +183,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 - **5)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej dokonywała transakcji dotyczących towarów giełdowych, o których mowa w ustawie z dnia 26 października 2000 r. o giełdach towarowych,
 - **6)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej, jest uczestnikiem funduszu inwestycyjnego, o którym mowa w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi,
 - **7)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest stroną umowy dotyczącej obrotu instrumentami finansowymi, o której mowa w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
-- **8)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest ubezpieczającym, ubezpieczonym lub uprawnionym z umowy ubezpieczenia w rozumieniu przepisów ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej udostępnia się nieodpłatnie, w formie pisemnej lub za pomocą środków komunikacji elektronicznej, na wniosek Komendanta Głównego Policji, Komendanta CBŚP albo komendanta wojewódzkiego Policji lub upoważnionych przez nich pisemnie funkcjonariuszy. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+- **8)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest ubezpieczającym, ubezpieczonym lub uprawnionym z umowy ubezpieczenia w rozumieniu przepisów ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej – udostępnia się nieodpłatnie, w formie pisemnej lub za pomocą środków komunikacji elektronicznej, na wniosek Komendanta Głównego Policji, Komendanta CBŚP albo komendanta wojewódzkiego Policji lub upoważnionych przez nich pisemnie funkcjonariuszy. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
     - **d)**
 
 6a. Wniosek, o którym mowa w ust. 5a, powinien zawierać informacje określone w ust. 6 pkt 1, 2 i 4–6. ” .
@@ -217,7 +208,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 - **3)** tytuł działu III otrzymuje brzmienie: „ Strony, obrońcy, pełnomocnicy, przedstawiciel społeczny, podmiot zobowiązany, właściciel przedsiębiorstwa zagrożonego przepadkiem ” ;
 - **4)** w dziale III po rozdziale 10 dodaje się rozdziały 10a i 10b w brzmieniu: „
 
-#### Rozdział 10a Podmiot zobowiązany
+#### Rozdział 10a
 
 **Art. 91a.**
 
@@ -229,7 +220,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 
 § 4. Przepisy art. 72, art. 75, art. 87 § 1, art. 89, art. 156 § 1 zdanie pierwsze oraz art. 167 stosuje się odpowiednio. Osoba, o której mowa w § 2, może zadawać pytania osobie przesłuchiwanej oraz zabrać głos końcowy przed obrońcą oskarżonego i oskarżonym.
 
-#### Rozdział 10b Właściciel przedsiębiorstwa zagrożonego przepadkiem
+#### Rozdział 10b
 
 **Art. 292a.**
 
@@ -366,7 +357,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 
 **Art. 9.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, 1948, 1997 i 2260 oraz z 2017 r. poz. 85 i 724) wprowadza się następujące zmiany:
 
-- **1)** w art. 105 w ust. 1 w pkt 2: lit. b otrzymuje brzmienie: „ sądu lub prokuratora w związku z toczącym się postępowaniem o przestępstwo lub przestępstwo skarbowe: – przeciwko osobie fizycznej będącej stroną umowy zawartej z bankiem, w zakresie informacji dotyczących tej osoby fizycznej, – popełnione w związku z działaniem osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej, w zakresie informacji dotyczących tej osoby prawnej lub jednostki organizacyjnej, – określone w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2016 r. poz. 1137 i 2138 oraz z 2017 r. poz. 244 i 768), zwanej dalej „Kodeksem karnym”, – w zakresie zawarcia z osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej umowy o wykonywanie czynności bankowych, w celu weryfikacji zawarcia takich umów i czasu ich obowiązywania, ” , lit. l otrzymuje brzmienie: „ Policji, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom, ich wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.), ” , po lit. l dodaje się lit. la w brzmieniu: „ la) Żandarmerii Wojskowej, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom, ich wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2016 r. poz. 1483 i 1948 oraz z 2017 r. poz. 244 i 768), ” ;
+- **1)** w art. 105 w ust. 1 w pkt 2: lit. b otrzymuje brzmienie: „ sądu lub prokuratora w związku z toczącym się postępowaniem o przestępstwo lub przestępstwo skarbowe: – przeciwko osobie fizycznej będącej stroną umowy zawartej z bankiem, w zakresie informacji dotyczących tej osoby fizycznej, – popełnione w związku z działaniem osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej, w zakresie informacji dotyczących tej osoby prawnej lub jednostki organizacyjnej, – określone w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2016 r. poz. 1137 i 2138 oraz z 2017 r. poz. 244 i 768), zwanej dalej „Kodeksem karnym”, – w zakresie zawarcia z osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej umowy o wykonywanie czynności bankowych, w celu weryfikacji zawarcia takich umów i czasu ich obowiązywania, ” , lit. l otrzymuje brzmienie: „ Policji, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom, ich wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768.), ” , po lit. l dodaje się lit. la w brzmieniu: „ la) Żandarmerii Wojskowej, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom, ich wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2016 r. poz. 1483 i 1948 oraz z 2017 r. poz. 244 i 768), ” ;
     - **a)**
     - **b)**
     - **b)**
@@ -390,7 +381,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 
 8. Wstrzymanie transakcji lub blokada środków na rachunku upada, jeżeli przed upływem 3 miesięcy od wydania postanowienia, o którym mowa w ust. 3a, lub otrzymania zawiadomienia, o którym mowa w ust. 5, nie zostanie wydane postanowienie o zabezpieczeniu majątkowym lub postanowienie w przedmiocie dowodów rzeczowych. ” .
 
-**Art. 10.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2016 r. poz. 2137, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2016 r. poz. 2137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2024 i 2138 oraz z 2017 r. poz. 88, 379, 528 i 648.) wprowadza się następujące zmiany:
 
 - **1)** w art. 31 § 1a otrzymuje brzmienie: „
 
@@ -416,7 +407,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 **Art. 11.** W ustawie z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2016 r. poz. 719, 831, 904 i 1948 oraz z 2017 r. poz. 724) w art. 54 w ust. 1:
 
 - **1)** pkt 7 otrzymuje brzmienie: „
-- **7)** Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.); ” ;
+- **7)** Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768.); ” ;
 - **2)** po pkt 7a dodaje się pkt 7b w brzmieniu: „
 - **7b)** Żandarmerii Wojskowej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2016 r. poz. 1483 i 1948 oraz z 2017 r. poz. 244 i 768); ” .
 
@@ -441,9 +432,9 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 1. Jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom, o których mowa w art. 31 ust. 1, lub ich wykrycia, ustalenia ich sprawców, uzyskania i utrwalenia dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z tych przestępstw albo ich równowartości, Żandarmeria Wojskowa może korzystać z informacji:
 
 - **1)** stanowiących tajemnicę skarbową, przetwarzanych przez organy administracji rządowej i samorządu terytorialnego;
-- **2)** stanowiących tajemnicę zawodową, o której mowa w art. 9e ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 1910, z późn. zm.);
-- **3)** stanowiących tajemnicę bankową, o której mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm.);
-- **4)** stanowiących dane indywidualne, o których mowa w art. 79 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.);
+- **2)** stanowiących tajemnicę zawodową, o której mowa w art. 9e ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 1910, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1997 oraz z 2017 r. poz. 60, 85, 245 i 768.);
+- **3)** stanowiących tajemnicę bankową, o której mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1997 i 2260 oraz z 2017 r. poz. 85, 724 i 768.);
+- **4)** stanowiących dane indywidualne, o których mowa w art. 79 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38 i 60.);
 - **5)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2016 r. poz. 719, 831, 904 i 1948 oraz z 2017 r. poz. 724 i 768);
 - **6)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, 1948 i 2260 oraz z 2017 r. poz. 724 i 768);
 - **7)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636, 1948 i 1997 oraz z 2017 r. poz. 724 i 768);
@@ -464,7 +455,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 - **5)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej dokonywała transakcji dotyczących towarów giełdowych, o których mowa w ustawie z dnia 26 października 2000 r. o giełdach towarowych,
 - **6)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej, jest uczestnikiem funduszu inwestycyjnego, o którym mowa w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi,
 - **7)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest stroną umowy dotyczącej obrotu instrumentami finansowymi, o której mowa w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
-- **8)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest ubezpieczającym, ubezpieczonym lub uprawnionym z umowy ubezpieczenia w rozumieniu przepisów ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej udostępnia się nieodpłatnie, w formie pisemnej lub za pomocą środków komunikacji elektronicznej, na wniosek Komendanta Głównego Żandarmerii Wojskowej albo komendanta oddziału Żandarmerii Wojskowej lub upoważnionych przez nich pisemnie żołnierzy.
+- **8)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest ubezpieczającym, ubezpieczonym lub uprawnionym z umowy ubezpieczenia w rozumieniu przepisów ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej – udostępnia się nieodpłatnie, w formie pisemnej lub za pomocą środków komunikacji elektronicznej, na wniosek Komendanta Głównego Żandarmerii Wojskowej albo komendanta oddziału Żandarmerii Wojskowej lub upoważnionych przez nich pisemnie żołnierzy.
 
 5. Wniosek, o którym mowa w ust. 1, powinien zawierać:
 
@@ -491,7 +482,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 
 - **1)** art. 5 ust. 1 pkt 2 lit. a, c, d i e,
 - **2)** rozdziałach XXXV-XXXVII Kodeksu karnego oraz rozdziałach 6 i 7 Kodeksu karnego skarbowego – jeżeli godzą w podstawy ekonomiczne państwa,
-- **3)** art. 232, art. 233 § 1, 1a, 4 i 6, art. 234, art. 235, art. 236 § 1 i art. 239 § 1 Kodeksu karnego – jeżeli dotyczą przestępstw, o których mowa w pkt 1 i 2 oraz w celu uzyskania i utrwalenia dowodów tych przestępstw, ujawnienia mienia zagrożonego przepadkiem w związku z tymi przestępstwami i ścigania ich sprawców. ” ;
+- **3)** art. 232, art. 233 § 1, 1a, 4 i 6, art. 234, art. 235, art. 236 § 1 i art. 239 § 1 Kodeksu karnego – jeżeli dotyczą przestępstw, o których mowa w pkt 1 i 2 – oraz w celu uzyskania i utrwalenia dowodów tych przestępstw, ujawnienia mienia zagrożonego przepadkiem w związku z tymi przestępstwami i ścigania ich sprawców. ” ;
 - **3)** w art. 34a ust. 1 otrzymuje brzmienie: „
 
 1. Jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom określonym w art. 5 ust. 1 pkt 2 lub ich wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z tych przestępstw albo ich równowartości, ABW może korzystać z przetwarzanych przez banki informacji stanowiących tajemnicę bankową oraz informacji dotyczących umów o rachunek papierów wartościowych, umów o rachunek pieniężny, umów ubezpieczenia lub innych umów dotyczących obrotu instrumentami finansowymi, świadczenia usług płatniczych lub zawieranych z uczestnikami funduszy inwestycyjnych, a w szczególności z przetwarzanych przez uprawnione podmioty danych osób, które zawarły takie umowy. ” .
@@ -499,14 +490,14 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 **Art. 15.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, 1948 i 2260 oraz z 2017 r. poz. 724) w art. 281 w ust. 1:
 
 - **1)** pkt 9 otrzymuje brzmienie: „
-- **9)** Policji, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.); ” ;
+- **9)** Policji, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768.); ” ;
 - **2)** po pkt 9a dodaje się pkt 9b w brzmieniu: „
 - **9b)** Żandarmerii Wojskowej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2016 r. poz. 1483 i 1948 oraz z 2017 r. poz. 244 i 768); ” .
 
 **Art. 16.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636, 1948 i 1997 oraz z 2017 r. poz. 724) w art. 149:
 
 - **1)** pkt 8 otrzymuje brzmienie: „
-- **8)** Policji, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawcy i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.); ” ;
+- **8)** Policji, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawcy i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768.); ” ;
 - **2)** po pkt 8b dodaje się pkt 8c w brzmieniu: „
 - **8c)** Żandarmerii Wojskowej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawcy i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2016 r. poz. 1483 i 1948 oraz z 2017 r. poz. 244 i 768); ” .
 
@@ -534,7 +525,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 
 - **1)** określonymi w art. 228–231, art. 250a, art. 258, art. 270a § 1 i 2, art. 271a § 1 i 2, art. 277a § 1, art. 286, art. 296–297, art. 299, art. 305, art. 310 § 1, 2 i 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
 - **2)** skarbowymi, o których mowa w art. 2 ust. 1 pkt 1 lit. d, jeżeli wartość przedmiotu czynu lub uszczuplenie należności publicznoprawnej przekraczają pięćdziesięciokrotną wysokość minimalnego wynagrodzenia za pracę określonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2015 r. poz. 2008 oraz z 2016 r. poz. 1265),
-- **3)** określonymi w art. 232, art. 233 § 1, 1a, 4 i 6, art. 234, art. 235, art. 236 § 1 i art. 239 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, jeżeli dotyczą przestępstw, o których mowa w pkt 1 i 2 gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, sąd, na pisemny wniosek Szefa CBA, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, może, w drodze postanowienia, zarządzić kontrolę operacyjną. ” ;
+- **3)** określonymi w art. 232, art. 233 § 1, 1a, 4 i 6, art. 234, art. 235, art. 236 § 1 i art. 239 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, jeżeli dotyczą przestępstw, o których mowa w pkt 1 i 2 – gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, sąd, na pisemny wniosek Szefa CBA, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, może, w drodze postanowienia, zarządzić kontrolę operacyjną. ” ;
 - **3)** w art. 23 ust. 1 otrzymuje brzmienie: „
 
 1. Jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom określonym w art. 2 ust. 1 pkt 1 lub ich wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z tych przestępstw albo ich równowartości, oraz w celu kontroli prawdziwości oświadczeń majątkowych, o których mowa w art. 2 ust. 1 pkt 5, CBA może korzystać z przetwarzanych przez banki informacji stanowiących tajemnicę bankową oraz informacji dotyczących umów o rachunek papierów wartościowych, umów o rachunek pieniężny, umów ubezpieczenia lub innych umów dotyczących obrotu instrumentami finansowymi, a w szczególności z przetwarzanych przez uprawnione podmioty danych osób, które zawarły takie umowy. ” .
@@ -554,14 +545,14 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 **Art. 20.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 1910, 1948 i 1997 oraz z 2017 r. poz. 60, 85 i 245) w art. 9f w ust. 1:
 
 - **1)** pkt 12 otrzymuje brzmienie: „
-- **12)** Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.); ” ;
+- **12)** Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768.); ” ;
 - **2)** po pkt 12 dodaje się pkt 12a w brzmieniu: „
 - **12a)** Żandarmerii Wojskowej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2016 r. poz. 1483 i 1948 oraz z 2017 r. poz. 244 i 768); ” .
 
 **Art. 21.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948) w art. 35 w ust. 2 wprowadza się następujące zmiany:
 
 - **1)** pkt 2 otrzymuje brzmienie: „
-- **2)** Policji, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.); ” ;
+- **2)** Policji, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768.); ” ;
 - **2)** po pkt 3 dodaje się pkt 3a w brzmieniu: „
 - **3a)** Żandarmerii Wojskowej, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2016 r. poz. 1483 i 1948 oraz z 2017 r. poz. 244 i 768); ” .
 
@@ -573,7 +564,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 - **15)** rozpoznawanie, wykrywanie i zwalczanie przestępstw określonych w art. 258, art. 270, art. 270a, art. 271, art. 271a, art. 273, art. 277a oraz w art. 286 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2016 r. poz. 1137 i 2138 oraz z 2017 r. poz. 244 i 768), zwanej dalej „Kodeksem karnym”, w związku z którymi nastąpiło uszczuplenie lub narażenie na uszczuplenie należności publicznoprawnej, zapobieganie tym przestępstwom oraz ściganie ich sprawców, jeżeli zostały ujawnione przez KAS; ” , po pkt 16 dodaje się pkt 16a w brzmieniu: „
     - **b)**
 
-- **16a)** ujawnianie i odzyskiwanie mienia zagrożonego przepadkiem w związku z przestępstwami, o których mowa w pkt 13–16 albo art. 33 § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2016 r. poz. 2137, z późn. zm.), zwanej dalej „Kodeksem karnym skarbowym”; ” ;
+- **16a)** ujawnianie i odzyskiwanie mienia zagrożonego przepadkiem w związku z przestępstwami, o których mowa w pkt 13–16 albo art. 33 § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2016 r. poz. 2137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2024 i 2138 oraz z 2017 r. poz. 88, 379, 528, 648 i 768.), zwanej dalej „Kodeksem karnym skarbowym”; ” ;
 - **2)** w art. 14 w ust. 1 pkt 5 i 6 otrzymują brzmienie: „
 - **5)** rozpoznawanie, wykrywanie i zwalczanie przestępstw skarbowych i wykroczeń skarbowych, zapobieganie tym przestępstwom i wykroczeniom oraz ściganie ich sprawców, w zakresie określonym w Kodeksie karnym skarbowym;
 - **6)** realizacja zadań, o których mowa w art. 2 ust. 1 pkt 15–16a; ” ;
@@ -585,7 +576,7 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 
 - **1)** informacje zawierające dane osobowe,
 - **2)** dane, o których mowa w art. 114 ust. 1 oraz w art. 115 ust. 1,
-- **3)** informacje o dochodach, obrotach, rzeczach i prawach majątkowych podmiotów podlegających kontroli oraz podmiotów, co do których zachodzi uzasadnione podejrzenie popełnienia przestępstwa albo przestępstwa skarbowego lub posiadania mienia zagrożonego przepadkiem. ” ;
+- **3)** informacje o dochodach, obrotach, rzeczach i prawach majątkowych – podmiotów podlegających kontroli oraz podmiotów, co do których zachodzi uzasadnione podejrzenie popełnienia przestępstwa albo przestępstwa skarbowego lub posiadania mienia zagrożonego przepadkiem. ” ;
 - **5)** w art. 114 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W celu zapobiegania przestępstwom skarbowym lub przestępstwom, o których mowa w art. 2 ust. 1 pkt 14–16, lub wykrywania tych przestępstw oraz wykonania zadań, o których mowa w art. 2 ust. 1 pkt 16a, funkcjonariusze wykonujący czynności operacyjno-rozpoznawcze mogą uzyskiwać dane niestanowiące treści odpowiednio, przekazu telekomunikacyjnego, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w: ” ;
 - **6)** w art. 115 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W celu zapobiegania przestępstwom skarbowym lub przestępstwom, o których mowa w art. 2 ust. 1 pkt 14–16, lub wykrywania tych przestępstw oraz wykonania zadań, o których mowa w art. 2 ust. 1 pkt 16a, funkcjonariusze wykonujący czynności operacyjno-rozpoznawcze mogą uzyskiwać: ” ;
 - **7)** w art. 117 ust. 1 otrzymuje brzmienie: „
@@ -646,5 +637,9 @@ po art. 292 dodaje się art. 292a i art. 292b w brzmieniu:
 
 4. W przypadku zagrożenia przyjętej na dany rok budżetowy łącznej wielkości planowanych wydatków, o których mowa w ust. 2, odpowiednio Minister Sprawiedliwości lub minister właściwy do spraw wewnętrznych wdrażają mechanizmy korygujące zmierzające do zmniejszenia kosztów funkcjonowania systemu odzyskiwania mienia, w szczególności przez ograniczenie wydatków inwestycyjnych i rzeczowych.
 
-**Art. 26.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 26.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża:
+
+- **1)** dyrektywę Parlamentu Europejskiego i Rady 2014/42/UE z dnia 3 kwietnia 2014 r. w sprawie zabezpieczenia i konfiskaty narzędzi służących do popełnienia przestępstwa i korzyści pochodzących z przestępstwa w Unii Europejskiej (Dz. Urz. UE L 127 z 29.04.2014, str. 39);
+- **2)** częściowo dyrektywę Parlamentu Europejskiego i Rady 2013/40/UE z dnia 12 sierpnia 2013 r. dotyczącą ataków na systemy informatyczne i zastępującą decyzję ramową Rady 2005/222/WSiSW (Dz. Urz. UE L 218 z 14.08.2013, str. 8). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85 i 187. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 996, 1159, 1948, 2175 i 2261 oraz z 2017 r. poz. 624. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1997 oraz z 2017 r. poz. 60, 85, 245 i 768. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1997 i 2260 oraz z 2017 r. poz. 85, 724 i 768. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38 i 60. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2024 i 2138 oraz z 2017 r. poz. 88, 379, 528 i 648. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1997 oraz z 2017 r. poz. 60, 85, 245 i 768. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1997 i 2260 oraz z 2017 r. poz. 85, 724 i 768. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921, 1948, 2138, 2255 i 2260 oraz z 2017 r. poz. 38 i 60. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708 i 768. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2024 i 2138 oraz z 2017 r. poz. 88, 379, 528, 648 i 768.
+
 

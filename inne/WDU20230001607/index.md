@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1607/text.pdf) |
 
-Poz. 1607 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 sierpnia 2023 r.
+Poz. 11660077 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 sierpnia 2023 r.
 sprawie wzoru zawiadomienia osoby stosującej przemoc domową, wobec której został wydany nakaz zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, umieszczanego na drzwiach mieszkania wobec niemożności ich doręczenia Na podstawie art. 15ad ust. 5 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa wzór zawiadomienia o wydaniu:
 1) nakazu natychmiastowego opuszczenia wspólnie zajmowanego mieszkania jego bezpośredniego otoczenia zakazu zbliżania się do wspólnie zajmowanego mieszkania jego bezpośredniego otoczenia,
 2) zakazu zbliżania się do osoby doznającej przemocy domowej na wyrażoną metrach odległość,
@@ -34,8 +34,8 @@ sprawie wzoru zawiadomienia osoby stosującej przemoc domową, wobec której zos
 § 2. Wzór zawiadomienia, o którym mowa § 1, jest określony załączniku do rozporządzenia.
 § 3. Rozporządzenie wchodzi życie z dniem 15 sierpnia 2023 r.
 Minister Spraw Wewnętrznych Administracji: wz. M. Wąsik Minister Spraw Wewnętrznych Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych Administracji (Dz. U. poz. 2264).
-WZÓR ych ………………….…………….…………………… ZAWIADOMIENIE Pani / Pan*……….…………………….………………………………………………………………….… Wzywa się Panią / Pana* do niezwłocznego kontaktu z: ………………...…………..……………………..
-…………………………………………….………………………....……………...…….………………… ……………………………………………………………………………………………….……………… Zawiadamia się, że na podstawie art. 15aa ust. 1 art. 15aaa ust. 1 2 ustawy z dnia 6 kwietnia 1990 r.
+WZÓR Załącznik do rozporządzenia Ministra Spraw Wewnętrznych Administracji z dnia 10 sierpnia 2023 r. (Dz. U. poz. ..…) WZÓR ………………….…………….…………………… ZAWIADOMIENIE Pani / Pan*……….…………………….………………………………………………………………….… Wzywa się Panią / Pana* do niezwłocznego kontaktu z: ………………...…………..……………………..
+…………………………………………….………………………....……………...…….………………… ……………………………………………………………………………………………….……………… ----------------------------------------------------------------------------------------------------------------Zawiadamia się, że na podstawie art. 15aa ust. 1 art. 15aaa ust. 1 2 ustawy z dnia 6 kwietnia 1990 r.
 o Policji dniu …………………………………….…….…… o godz. ..……………….…...……….........
 wobec Pani / Pana* ……..……………….………..……...…………………….…………………………… został wydany na okres 14 dni:** nakaz natychmiastowego opuszczenia wspólnie zajmowanego mieszkania jego bezpośredniego otoczenia zakaz zbliżania się do wspólnie zajmowanego mieszkania jego bezpośredniego otoczenia, mieszczącego się …..…………………………………………………………………………………………….……… zakaz zbliżania się do …………………………………….………………………………………… na odległość ……………….. metrów zakaz kontaktowania się z ……………………………………………………………..…………....
 zakaz wstępu do ………..…………………………………………………………………………....

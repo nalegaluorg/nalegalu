@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 28 lipca 2023 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2023 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-28 |
 | Data wydania | 2023-08-24 |
-| Wejście w życie | 2023-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001693) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1693/text.pdf) |
 
@@ -42,16 +41,18 @@ source: "eli-html"
 - **4)** w art. 17: w ust. 1 pkt 11 otrzymuje brzmienie: „
     - **a)**
 
-- **11)** organizowanie i świadczenie usług opiekuńczych, w tym specjalistycznych, w miejscu zamieszkania, z wyłączeniem specjalistycznych usług opiekuńczych dla osób z zaburzeniami psychicznymi oraz usług sąsiedzkich; ” , w ust. 2: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) organizowanie i świadczenie usług opiekuńczych w formie usług sąsiedzkich; ” , – po pkt 3a dodaje się pkt 3b w brzmieniu: „ 3b) przyznawanie i realizacja usług wsparcia krótkoterminowego w domach pomocy społecznej; ” ;
+- **11)** organizowanie i świadczenie usług opiekuńczych, w tym specjalistycznych, w miejscu zamieszkania, z wyłączeniem specjalistycznych usług opiekuńczych dla osób z zaburzeniami psychicznymi oraz usług sąsiedzkich; ” , w ust. 2: po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **b)**
 
+- **2a)** organizowanie i świadczenie usług opiekuńczych w formie usług sąsiedzkich; ” , po pkt 3a dodaje się pkt 3b w brzmieniu: „
+- **3b)** przyznawanie i realizacja usług wsparcia krótkoterminowego w domach pomocy społecznej; ” ;
 - **5)** w art. 19 po pkt 10 dodaje się pkt 10a w brzmieniu: „
 - **10a)** realizacja usług wsparcia krótkoterminowego w domach pomocy społecznej; ” ;
 - **6)** w art. 22 pkt 4 otrzymuje brzmienie: „
 - **4)** prowadzenie rejestru domów pomocy społecznej, mieszkań treningowych i wspomaganych, placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, w tym prowadzonych na podstawie przepisów o działalności gospodarczej, miejsc udzielania tymczasowego schronienia oraz jednostek specjalistycznego poradnictwa; ” ;
 - **7)** w art. 23 ust. 4a otrzymuje brzmienie: „
 
-4a. Minister właściwy do spraw zabezpieczenia społecznego prowadzi i rozwija rejestr centralny obejmujący dane dotyczące jednostek organizacyjnych pomocy społecznej, w tym dane o każdym czynie, o którym mowa w art. 222, art. 223 lub art. 226 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.), popełnionym wobec pracownika socjalnego, a także dane dotyczące osób i rodzin ubiegających się o świadczenia z pomocy społecznej lub korzystających z tych świadczeń oraz form udzielonej pomocy społecznej, gromadzone przez jednostki organizacyjne pomocy społecznej na podstawie przepisów ustawy, oraz przetwarza te dane w celu realizacji zadań, o których mowa w ust. 1. Jednostki organizacyjne pomocy społecznej przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym mowa w ust. 4. ” ;
+4a. Minister właściwy do spraw zabezpieczenia społecznego prowadzi i rozwija rejestr centralny obejmujący dane dotyczące jednostek organizacyjnych pomocy społecznej, w tym dane o każdym czynie, o którym mowa w art. 222, art. 223 lub art. 226 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818, 852 i 1234.), popełnionym wobec pracownika socjalnego, a także dane dotyczące osób i rodzin ubiegających się o świadczenia z pomocy społecznej lub korzystających z tych świadczeń oraz form udzielonej pomocy społecznej, gromadzone przez jednostki organizacyjne pomocy społecznej na podstawie przepisów ustawy, oraz przetwarza te dane w celu realizacji zadań, o których mowa w ust. 1. Jednostki organizacyjne pomocy społecznej przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym mowa w ust. 4. ” ;
 
 - **8)** w art. 23a w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
 - **6)** każdym czynie, o którym mowa w art. 222, art. 223 lub art. 226 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, popełnionym wobec pracownika socjalnego. ” ;
@@ -191,7 +192,7 @@ source: "eli-html"
 24. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
 
 - **1)** minimalne standardy usług świadczonych w mieszkaniach treningowych lub wspomaganych,
-- **2)** minimalne standardy pomieszczeń w mieszkaniach treningowych lub wspomaganych kierując się potrzebą zapewnienia właściwych usług i wsparcia oraz uwzględniając indywidualne potrzeby i możliwości psychofizyczne osób korzystających ze wsparcia w mieszkaniu treningowym lub wspomaganym. ” ;
+- **2)** minimalne standardy pomieszczeń w mieszkaniach treningowych lub wspomaganych – kierując się potrzebą zapewnienia właściwych usług i wsparcia oraz uwzględniając indywidualne potrzeby i możliwości psychofizyczne osób korzystających ze wsparcia w mieszkaniu treningowym lub wspomaganym. ” ;
 - **14)** po art. 55 dodaje się art. 55a-55c w brzmieniu: „
 
 **Art. 55a.**
@@ -231,7 +232,7 @@ source: "eli-html"
 11. Obowiązani do wnoszenia opłaty za korzystanie z usług wsparcia krótkoterminowego są w kolejności:
 
 - **1)** osoba korzystająca z usług wsparcia krótkoterminowego,
-- **2)** gmina, która przyznała usługi wsparcia krótkoterminowego przy czym gmina określona w pkt 2 nie ma obowiązku wnoszenia opłaty, jeżeli osoba korzystająca z usług wsparcia krótkoterminowego ponosi pełną odpłatność.
+- **2)** gmina, która przyznała usługi wsparcia krótkoterminowego – przy czym gmina określona w pkt 2 nie ma obowiązku wnoszenia opłaty, jeżeli osoba korzystająca z usług wsparcia krótkoterminowego ponosi pełną odpłatność.
 
 12. Do świadczenia usług wsparcia krótkoterminowego nie stosuje się przepisów art. 58–64b oraz art. 65 ust. 2.
 
@@ -358,10 +359,12 @@ source: "eli-html"
 
 - **22)** w art. 100 w ust. 3 wyrazy „mieszkaniach chronionych i” zastępuje się wyrazami „mieszkaniach treningowych i wspomaganych oraz”;
 - **23)** w art. 105 w ust. 1 po wyrazach „a także kuratorzy sądowi,” dodaje się wyrazy „komornicy,”;
-- **24)** w art. 107: w ust. 4 po wyrazach „przebywających w domach pomocy społecznej” dodaje się wyrazy „oraz w ośrodkach wsparcia dla osób z zaburzeniami psychicznymi”, w ust. 5b: – pkt 7 otrzymuje brzmienie: „ 7) zaświadczenia albo oświadczenia o wysokości wynagrodzenia z tytułu zatrudnienia, zawierającego informacje o wysokości potrąconej zaliczki na podatek dochodowy od osób fizycznych, kosztów uzyskania przychodu, składki na ubezpieczenie zdrowotne, składek na ubezpieczenia emerytalne i rentowe w części finansowanej przez ubezpieczonego oraz składki na ubezpieczenie chorobowe; ” , – pkt 21 otrzymuje brzmienie: „ 21) prawomocnego orzeczenia sądu o pozbawieniu władzy rodzicielskiej albo o skazaniu za umyślne przestępstwo ścigane z oskarżenia publicznego popełnione na szkodę osoby obowiązanej do wnoszenia opłaty za pobyt mieszkańca domu w domu pomocy społecznej, jej zstępnego, małoletniego lub pełnoletniego nieporadnego ze względu na wiek, stan psychiczny lub fizyczny, jej rodzeństwa lub rodzica. ” ;
+- **24)** w art. 107: w ust. 4 po wyrazach „przebywających w domach pomocy społecznej” dodaje się wyrazy „oraz w ośrodkach wsparcia dla osób z zaburzeniami psychicznymi”, w ust. 5b: pkt 7 otrzymuje brzmienie: „
     - **a)**
     - **b)**
 
+- **7)** zaświadczenia albo oświadczenia o wysokości wynagrodzenia z tytułu zatrudnienia, zawierającego informacje o wysokości potrąconej zaliczki na podatek dochodowy od osób fizycznych, kosztów uzyskania przychodu, składki na ubezpieczenie zdrowotne, składek na ubezpieczenia emerytalne i rentowe w części finansowanej przez ubezpieczonego oraz składki na ubezpieczenie chorobowe; ” , pkt 21 otrzymuje brzmienie: „
+- **21)** prawomocnego orzeczenia sądu o pozbawieniu władzy rodzicielskiej albo o skazaniu za umyślne przestępstwo ścigane z oskarżenia publicznego popełnione na szkodę osoby obowiązanej do wnoszenia opłaty za pobyt mieszkańca domu w domu pomocy społecznej, jej zstępnego, małoletniego lub pełnoletniego nieporadnego ze względu na wiek, stan psychiczny lub fizyczny, jej rodzeństwa lub rodzica. ” ;
 - **25)** w art. 121: po ust. 2b dodaje się ust. 2ba w brzmieniu: „ 2ba. Każdy czyn, o którym mowa w art. 222, art. 223 lub art. 226 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, popełniony wobec pracownika socjalnego jest rejestrowany w rejestrze centralnym, o którym mowa w art. 23 ust. 4a, w terminie 3 dni od dnia popełnienia. ” , po ust. 2c dodaje się ust. 2d-2k w brzmieniu: „
     - **a)**
     - **b)**
@@ -392,7 +395,7 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2023 r. poz. 790, 1114 i 1463) użyte w art. 30a w ust. 1 w pkt 2 i w ust. 2 w pkt 1 wyrazy „mieszkania chronionego” zastępuje się wyrazami „mieszkania treningowego lub wspomaganego”.
 
-**Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.) użyte w art. 62b w ust. 1 w pkt 2 w lit. d w tiret 13 wyrazy „mieszkaniami chronionymi” zastępuje się wyrazami „mieszkaniami treningowymi lub wspomaganymi”.
+**Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597, 1681 i 1688.) użyte w art. 62b w ust. 1 w pkt 2 w lit. d w tiret 13 wyrazy „mieszkaniami chronionymi” zastępuje się wyrazami „mieszkaniami treningowymi lub wspomaganymi”.
 
 **Art. 4.** W ustawie z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2023 r. poz. 788 i 1463) użyte w art. 1 w pkt 1 w lit. b, w art. 2 w pkt 4 i w pkt 5 w lit. b, w art. 6 w ust. 1 i 2 oraz w ust. 3 w pkt 1–3, w art. 15 w ust. 2 oraz w art. 21 w ust. 1 w pkt 1, w ust. 6 w pkt 1 i w ust. 10 w pkt 1–3, w różnej liczbie i różnym przypadku, wyrazy „mieszkanie chronione” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „mieszkanie treningowe lub wspomagane”.
 
@@ -400,7 +403,7 @@ source: "eli-html"
 
 **Art. 6.** W ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2023 r. poz. 1054 i 1688) użyte w art. 52 w ust. 2 w pkt 1 wyrazy „mieszkań chronionych” zastępuje się wyrazami „mieszkań treningowych lub wspomaganych”.
 
-**Art. 7.** W ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967, z późn. zm.) użyte w art. 4 w ust. 1 w pkt 4 w lit. m wyrazy „mieszkaniem chronionym” zastępuje się wyrazami „mieszkaniem treningowym lub wspomaganym”.
+**Art. 7.** W ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2127, 2185, 2236, 2243 i 2687 oraz z 2023 r. poz. 295, 877 i 1234.) użyte w art. 4 w ust. 1 w pkt 4 w lit. m wyrazy „mieszkaniem chronionym” zastępuje się wyrazami „mieszkaniem treningowym lub wspomaganym”.
 
 **Art. 8.** W ustawie z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku (Dz. U. poz. 2243 i 2687 oraz z 2023 r. poz. 295, 1113 i 1681) użyte w art. 2 w pkt 2 w lit. e w tiret 18 wyrazy „mieszkaniem chronionym” zastępuje się wyrazami „mieszkaniem treningowym lub wspomaganym”.
 
@@ -425,7 +428,7 @@ source: "eli-html"
 - **3)** art. 1 pkt 1 lit. b, art. 2 pkt 4 i pkt 5 lit. b, art. 6 ust. 1 i 2 oraz ust. 3 pkt 1–3, art. 15 ust. 2 oraz art. 21 ust. 1 pkt 1, ust. 6 pkt 1 i ust. 10 pkt 1–3 ustawy zmienianej w art. 4,
 - **4)** art. 52 ust. 2 pkt 1 ustawy zmienianej w art. 6,
 - **5)** art. 4 ust. 1 pkt 4 lit. m ustawy zmienianej w art. 7,
-- **6)** art. 2 pkt 2 lit. e tiret 18 ustawy zmienianej w art. 8 w brzmieniu nadanym niniejszą ustawą stosuje się również do prowadzonych w dniu wejścia w życie niniejszej ustawy mieszkań chronionych do dnia ich przekształcenia w mieszkania treningowe lub mieszkania wspomagane, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **6)** art. 2 pkt 2 lit. e tiret 18 ustawy zmienianej w art. 8 – w brzmieniu nadanym niniejszą ustawą stosuje się również do prowadzonych w dniu wejścia w życie niniejszej ustawy mieszkań chronionych do dnia ich przekształcenia w mieszkania treningowe lub mieszkania wspomagane, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 11.** Do spraw o wydanie zezwolenia na prowadzenie domu pomocy społecznej wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
@@ -435,5 +438,5 @@ source: "eli-html"
 
 **Art. 14.** Wojewoda dostosuje rejestr, o którym mowa w art. 67 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do wymogów, o których mowa w tym przepisie, w terminie 2 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 15.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 2 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10, pkt 14 w zakresie dodawanego art. 55c, pkt 17 lit. b oraz pkt 20, które wchodzą w życie z dniem 1 stycznia 2024 r.
+**Art. 15.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 2 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10, pkt 14 w zakresie dodawanego art. 55c, pkt 17 lit. b oraz pkt 20, które wchodzą w życie z dniem 1 stycznia 2024 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818, 852 i 1234. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597, 1681 i 1688. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2127, 2185, 2236, 2243 i 2687 oraz z 2023 r. poz. 295, 877 i 1234.
 

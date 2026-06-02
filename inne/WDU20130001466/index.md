@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-25 |
 | Data wydania | 2013-12-06 |
-| Wejście w życie | 2013-12-21 |
 | Ostatnia zmiana | 2026-03-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1466/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Ogłoszenie o konkursie na operatora wyznaczonego Rozdział 3 – Dokumentacja konkursowa Rozdział 4 – Komisja i tryb pracy Komisji Rozdział 5 – Przeprowadzanie konkursu Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 72 ust. 3 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -37,6 +37,7 @@ wymagany zakres informacji umieszczanych w ogłoszeniu o konkursie na operatora 
 zakres wymaganej dokumentacji konkursowej;
 3)
 tryb postępowania konkursowego.
+Ogłoszenie o konkursie na operatora wyznaczonego
 § 2.
 1.
 Konkurs na operatora wyznaczonego, zwany dalej „konkursem”, rozpoczyna się w dniu opublikowania ogłoszenia o konkursie w dzienniku o zasięgu ogólnokrajowym oraz w Biuletynie Informacji Publicznej na stronie podmiotowej Prezesa Urzędu Komunikacji Elektronicznej, zwanej dalej „stroną podmiotową BIP”.
@@ -68,6 +69,7 @@ miejscu i formie złożenia oferty;
 termin złożenia oferty, który nie może być krótszy niż 60 dni od dnia opublikowania ogłoszenia o konkursie;
 4)
 kryteria oceny oferty.
+Dokumentacja konkursowa
 § 4.
 Dokumentacja konkursowa zawiera:
 1)
@@ -117,6 +119,7 @@ Prezes UKE może z urzędu, nie później niż przed upływem terminu do złoże
 Wyjaśnienia treści dokumentacji konkursowej w odpowiedzi na wniosek oraz sprostowania oczywistych omyłek w treści dokumentacji konkursowej, o której mowa w § 4, Prezes UKE publikuje niezwłocznie na stronie podmiotowej BIP. Wyjaśnienia oraz sprostowania są wiążące dla uczestników konkursu.
 § 7.
 Uczestnik konkursu przed upływem terminu do złożenia ofert może wprowadzić zmiany w złożonej ofercie poprzez jej wycofanie i złożenie nowej oferty.
+Komisja i tryb pracy Komisji
 § 8.
 1.
 Do przeprowadzenia konkursu Prezes UKE powołuje Komisję konkursową, zwaną dalej „Komisją”.
@@ -209,6 +212,7 @@ wyznaczanie terminu i miejsca posiedzeń Komisji i przewodniczenie tym posiedzen
 wyznaczanie poszczególnym członkom Komisji zadań, w tym zlecanie przygotowania dokumentów przyjmowanych przez Komisję.
 § 14.
 Komisja podejmuje uchwały w głosowaniu jawnym, zwykłą większością głosów, w obecności co najmniej połowy składu Komisji. W przypadku równej liczby głosów o wyniku głosowania decyduje głos przewodniczącego, a w przypadku jego nieobecności – głos zastępcy przewodniczącego Komisji.
+Przeprowadzanie konkursu
 § 15.
 1.
 Niezwłocznie po upływie terminu do składania ofert przewodniczący Komisji zwołuje posiedzenie, podczas którego Komisja otwiera oferty złożone w terminie, a następnie sporządza listę uczestników konkursu, którzy złożyli oferty w terminie, z zachowaniem kolejności złożenia ofert.
@@ -268,18 +272,31 @@ podpisy wszystkich członków Komisji, a w przypadku braku podpisu – wzmiankę
 Komisja kończy pracę z dniem przyjęcia protokołu przez Prezesa UKE.
 § 21.
 Prezes UKE niezwłocznie po otrzymaniu protokołu z przebiegu konkursu ogłasza wyniki konkursu.
+Przepis końcowy
 § 22.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Ogłoszenie o konkursie na operatora wyznaczonego
+#### Rozdział 2 – Ogłoszenie o konkursie na operatora wyznaczonego
 
-#### Rozdział 3 Dokumentacja konkursowa
+#### Rozdział 3 – Dokumentacja konkursowa
 
-#### Rozdział 4 Komisja i tryb pracy Komisji
+#### Rozdział 4 – Komisja i tryb pracy Komisji
 
-#### Rozdział 5 Przeprowadzanie konkursu
+#### Rozdział 5 – Przeprowadzanie konkursu
 
-#### Rozdział 6 Przepis końcowy
+#### Rozdział 6 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
 

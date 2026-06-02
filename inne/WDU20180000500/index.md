@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-02-22 |
 | Data wydania | 2018-03-08 |
-| Wejście w życie | 2018-03-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000500) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/500/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 155cb § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, 3, 5, 106 i 138) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 10 czerwca 2014 r. w sprawie stażu asystenckiego (Dz. U. poz. 881) § 3 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 10 czerwca 2014 r. w sprawie stażu asystenckiego (Dz. U. poz. 881) § 3 otrzymuje brzmienie: „
 § 3.
-Prezes sądu apelacyjnego wyznacza kierownika stażu spośród sędziów sądu okręgowego lub apelacyjnego. Wyznaczenie może nastąpić tylko za zgodą sędziego.
-” .
+Prezes sądu apelacyjnego wyznacza kierownika stażu spośród sędziów sądu okręgowego lub apelacyjnego. Wyznaczenie może nastąpić tylko za zgodą sędziego. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

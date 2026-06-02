@@ -26,16 +26,30 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/198/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej Rozdział 1 – Przepisy ogólne Rozdział 2 – Zadania i przychody Polskiego Instytutu Sztuki Filmowej związane z przyznawaniem i rozliczaniem wsparcia finansowego Rozdział 3 – Przyznawanie wsparcia finansowego Rozdział 4 – Tryb przyznawania i rozliczania wsparcia finansowego Rozdział 5 – Przepisy zmieniające, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U. z 2019 r. poz. 50), z uwzględnieniem zmian wprowadzonych ustawą z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568 i 695) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 stycznia 2021 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U. z 2019 r. poz. 50), który stanowi:
-„
-(pominięty)
+art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U. z 2019 r. poz. 50), który stanowi: „
+Przepisy ogólne
+Zadania i przychody Polskiego Instytutu Sztuki Filmowej związane z przyznawaniem i rozliczaniem wsparcia finansowego
+Przyznawanie wsparcia finansowego
+Tryb przyznawania i rozliczania wsparcia finansowego
+Przepisy zmieniające, przejściowe i końcowe
+(pominięty)Zamieszczony w obwieszczeniu.
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Zadania i przychody Polskiego Instytutu Sztuki Filmowej związane z przyznawaniem i rozliczaniem wsparcia finansowego
+
+#### Rozdział 3 – Przyznawanie wsparcia finansowego
+
+#### Rozdział 4 – Tryb przyznawania i rozliczania wsparcia finansowego
+
+#### Rozdział 5 – Przepisy zmieniające, przejściowe i końcowe
 
 **Art. 32.** W ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2018 r. poz. 597) wprowadza się następujące zmiany:
 
@@ -62,12 +76,12 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 3. Dane, o których mowa w ust. 1:
 
 - **1)** pkt 1, są przekazywane dwa razy w tygodniu: w pierwszym dniu, który nie jest dniem wolnym od pracy, następującym po każdej niedzieli – za piątek, sobotę i niedzielę, oraz w dniu, który nie jest dniem wolnym od pracy, poprzedzającym każdą sobotę – za poniedziałek, wtorek, środę i czwartek,
-- **2)** pkt 2, są przekazywane w pierwszym dniu miesiąca, który nie jest dniem wolnym od pracy, następującym po miesiącu, którego dotyczą za pośrednictwem systemu teleinformatycznego przy użyciu dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669) albo przez formularz elektroniczny udostępniony na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.
+- **2)** pkt 2, są przekazywane w pierwszym dniu miesiąca, który nie jest dniem wolnym od pracy, następującym po miesiącu, którego dotyczą – za pośrednictwem systemu teleinformatycznego przy użyciu dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669) albo przez formularz elektroniczny udostępniony na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.
 
 4. Minister określi, w drodze rozporządzenia:
 
 - **1)** elektroniczny format przekazywania danych, o których mowa w ust. 1,
-- **2)** wzór formularzy służących do przekazywania Instytutowi danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania uwzględniając konieczność uproszczenia, usprawnienia i ujednolicenia procesu przekazywania danych.
+- **2)** wzór formularzy służących do przekazywania Instytutowi danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania – uwzględniając konieczność uproszczenia, usprawnienia i ujednolicenia procesu przekazywania danych.
 
 1. Podmiot prowadzący kino, który nie przekaże danych, o których mowa w art. 19a, albo nie przekaże ich w terminie – podlega karze pieniężnej w wysokości od 1000 do 100 000 zł.
 
@@ -104,7 +118,7 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
     - **g)**
     - **h)**
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -114,7 +128,7 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 
 3. Niniejsza ustawa nie narusza zasad dofinansowania twórczości filmowej i innej działalności w dziedzinie kinematografii określonych w ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2019 r. poz. 2199 oraz z 2020 r. poz. 568 i 875).
 
-4. Pomoc publiczna, o której mowa w ust. 2, jest przyznawana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), a w szczególności art. 54 tego rozporządzenia, zwanego dalej „rozporządzeniem nr 651/2014”.
+4. Pomoc publiczna, o której mowa w ust. 2, jest przyznawana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 14.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28., a w szczególności art. 54 tego rozporządzenia, zwanego dalej „rozporządzeniem nr 651/2014”.
 
 5. Celem przyznawania wsparcia finansowego jest:
 
@@ -140,7 +154,7 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 - **8)** utwór audiowizualny – utwór złożony z serii następujących po sobie obrazów z dźwiękiem lub bez dźwięku utrwalonych na nośniku umożliwiającym wielokrotne odtwarzanie, wywołujących wrażenie ruchu i składających się na oryginalną całość wyrażającą akcję lub treść w indywidualnej formie, zrealizowany w formie filmu fabularnego, dokumentalnego lub animowanego albo serialu fabularnego, dokumentalnego lub animowanego, niezależnie od pola eksploatacji, o którym mowa w przepisach ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2019 r. poz. 1231 oraz z 2020 r. poz. 288);
 - **9)** wsparcie finansowe – środki finansowe przyznawane przez Polski Instytut Sztuki Filmowej przedsiębiorcy w formie dofinansowania na pokrycie części polskich kosztów kwalifikowalnych związanych z produkcją audiowizualną albo świadczeniem usługi na rzecz produkcji audiowizualnej.
 
-#### Rozdział 2 Zadania i przychody Polskiego Instytutu Sztuki Filmowej związane z przyznawaniem i rozliczaniem wsparcia finansowego
+#### Rozdział 2
 
 **Art. 3.** Do zadań Polskiego Instytutu Sztuki Filmowej, zwanego dalej „Instytutem”, związanych ze wsparciem finansowym należy:
 
@@ -195,7 +209,7 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 - **1)** 7 dni od dnia, w którym nastąpiła zmiana danych, o których mowa w ust. 1 pkt 1;
 - **2)** 14 dni od dnia, w którym nastąpiła zmiana danych, o których mowa w ust. 1 pkt 2–4.
 
-#### Rozdział 3 Przyznawanie wsparcia finansowego
+#### Rozdział 3
 
 **Art. 7.**
 
@@ -301,11 +315,11 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 
 3. Koszty obejmujące honoraria, wynagrodzenia i inne świadczenia przeznaczone dla osób zaangażowanych do produkcji utworu audiowizualnego na podstawie umów innych niż umowa o pracę, uznaje się za polskie koszty kwalifikowalne, jeżeli są objęte obowiązkiem podatkowym w rozumieniu przepisów podatkowych i mieszczą się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014.
 
-4. Koszty obejmujące honoraria, wynagrodzenia i inne świadczenia przeznaczone dla osób zaangażowanych do produkcji utworu audiowizualnego na podstawie umów o pracę, uznaje się za polskie koszty kwalifikowalne, jeżeli obejmują koszty pracy pracowników przedsiębiorcy, który otrzymał wsparcie finansowe lub jego koproducentów, lub ich podwykonawców, którzy są objęci nieograniczonym obowiązkiem podatkowym zgodnie z ustawą z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm.).
+4. Koszty obejmujące honoraria, wynagrodzenia i inne świadczenia przeznaczone dla osób zaangażowanych do produkcji utworu audiowizualnego na podstawie umów o pracę, uznaje się za polskie koszty kwalifikowalne, jeżeli obejmują koszty pracy pracowników przedsiębiorcy, który otrzymał wsparcie finansowe lub jego koproducentów, lub ich podwykonawców, którzy są objęci nieograniczonym obowiązkiem podatkowym zgodnie z ustawą z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122, 2123, 2127, 2255 i 2320.).
 
 5. Polskie koszty kwalifikowalne nie obejmują podatku od towarów i usług oraz kosztów związanych z prowadzeniem działalności przez producentów lub koproducentów, niezwiązanych bezpośrednio z produkcją audiowizualną lub świadczeniem usługi na rzecz produkcji audiowizualnej, będącą przedmiotem wsparcia finansowego.
 
-#### Rozdział 4 Tryb przyznawania i rozliczania wsparcia finansowego
+#### Rozdział 4
 
 **Art. 16.**
 
@@ -347,9 +361,7 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 
 **Art. 18.**
 
-1. Instytut przyznaje wsparcie finansowe na podstawie wniosku złożonego przez przedsiębiorcę, zwanego dalej „wnioskodawcą”.
-
-2. Wniosek składa się nie wcześniej niż 12 miesięcy przed rozpoczęciem prac, które mają być objęte wsparciem finansowym, i nie później niż przed rozpoczęciem tych prac. Wnioskodawca jest zobowiązany rozpocząć prace objęte wsparciem finansowym w terminie nie później niż 12 miesięcy od dnia złożenia wniosku.
+1. Instytut przyznaje wsparcie finansowe na podstawie wniosku złożonego przez przedsiębiorcę, zwanego dalej „wnioskodawcą”. 2W brzmieniu ustalonym przez art. 55 pkt 1 lit. a ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568 i 695), która weszła w życie z dniem 31 marca 2020 r.. Wniosek składa się nie wcześniej niż 12 miesięcy przed rozpoczęciem prac, które mają być objęte wsparciem finansowym, i nie później niż przed rozpoczęciem tych prac. Wnioskodawca jest zobowiązany rozpocząć prace objęte wsparciem finansowym w terminie nie później niż 12 miesięcy od dnia złożenia wniosku.
 
 3. Wniosek zawiera:
 
@@ -384,9 +396,7 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 
 5. Instytut pobiera opłatę za rozpatrzenie wniosku. Opłatę wnosi się na rachunek bankowy Instytutu. Opłata wynosi 0,05% wartości szacowanego wsparcia finansowego, o które wystąpił wnioskodawca, jednak nie więcej niż 1000 zł.
 
-6. Instytut publikuje na swojej stronie podmiotowej w Biuletynie Informacji Publicznej informację o sposobie składania i rozpatrywania wniosków oraz wzór wniosku.
-
-7. W przypadku gdy wnioskodawca z uzasadnionych przyczyn nie może przedstawić umowy o świadczeniu usług na rzecz produkcji audiowizualnej, o której mowa w ust. 4 pkt 1, lub dokumentów, o których mowa w ust. 4 pkt 9 i 10, Dyrektor Instytutu może podjąć decyzję o przedłożeniu Instytutowi innych dokumentów, na podstawie których będzie możliwe rozpatrzenie wniosku.
+6. Instytut publikuje na swojej stronie podmiotowej w Biuletynie Informacji Publicznej informację o sposobie składania i rozpatrywania wniosków oraz wzór wniosku. 7Dodany przez art. 55 pkt 1 lit. b ustawy, o której mowa w odnośniku 3.. W przypadku gdy wnioskodawca z uzasadnionych przyczyn nie może przedstawić umowy o świadczeniu usług na rzecz produkcji audiowizualnej, o której mowa w ust. 4 pkt 1, lub dokumentów, o których mowa w ust. 4 pkt 9 i 10, Dyrektor Instytutu może podjąć decyzję o przedłożeniu Instytutowi innych dokumentów, na podstawie których będzie możliwe rozpatrzenie wniosku.
 
 1. Wnioskodawca może wystąpić z wnioskiem, jeżeli w momencie jego złożenia ma udokumentowane finansowanie na co najmniej 75% kosztów prac, które mają zostać objęte wsparciem finansowym, mieszczących się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014.
 
@@ -396,15 +406,11 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 
 1. Instytut rozpatruje wniosek i informuje pisemnie wnioskodawcę o rozstrzygnięciu w terminie 28 dni kalendarzowych od dnia jego złożenia.
 
-2. W przypadku złożenia wniosku, który nie spełnia wymogów, o których mowa w art. 18 ust. 3, lub niedołączenia do wniosku dokumentów, o których mowa w art. 18 ust. 4, Instytut zwraca wniosek wnioskodawcy i informuje go pisemnie o stwierdzonych brakach oraz o możliwości ponownego złożenia wniosku.
-
-3. W przypadku gdy ocena kosztorysu, o którym mowa w art. 18 ust. 4 pkt 8, wskazuje na nieadekwatność pozycji kosztowych względem założeń realizacyjnych oraz scenariusza, Instytut przedstawia wnioskodawcy uwagi do kosztorysu wraz z pisemnym uzasadnieniem oraz wzywa wnioskodawcę do przedstawienia zmodyfikowanego kosztorysu w terminie wskazanym w wezwaniu nie dłuższym jednak niż 60 dni.
+2. W przypadku złożenia wniosku, który nie spełnia wymogów, o których mowa w art. 18 ust. 3, lub niedołączenia do wniosku dokumentów, o których mowa w art. 18 ust. 4, Instytut zwraca wniosek wnioskodawcy i informuje go pisemnie o stwierdzonych brakach oraz o możliwości ponownego złożenia wniosku. 3W brzmieniu ustalonym przez art. 55 pkt 2 lit. a ustawy, o której mowa w odnośniku 3.. W przypadku gdy ocena kosztorysu, o którym mowa w art. 18 ust. 4 pkt 8, wskazuje na nieadekwatność pozycji kosztowych względem założeń realizacyjnych oraz scenariusza, Instytut przedstawia wnioskodawcy uwagi do kosztorysu wraz z pisemnym uzasadnieniem oraz wzywa wnioskodawcę do przedstawienia zmodyfikowanego kosztorysu w terminie wskazanym w wezwaniu nie dłuższym jednak niż 60 dni.
 
 4. W przypadku braku przedstawienia zmodyfikowanego kosztorysu Instytut ustala maksymalną wysokość danego rodzaju kosztu kwalifikowalnego, która zostanie uznana za podlegającą rozliczeniu w ramach wsparcia finansowego, i przedstawia ją wnioskodawcy na piśmie w terminie 14 dni od upływu terminu na przedstawienie zmodyfikowanego kosztorysu przez wnioskodawcę.
 
-5. W przypadkach, o których mowa w ust. 3 i 4, termin określony w ust. 1 biegnie od dnia złożenia przez wnioskodawcę zmodyfikowanego kosztorysu albo od dnia przedstawienia przez Instytut maksymalnej wysokości kosztu kwalifikowalnego podlegającej rozliczeniu w ramach wsparcia finansowego.
-
-5a. W przypadkach, o których mowa w ust. 3, termin określony w ust. 1 biegnie od dnia złożenia przez wnioskodawcę prawidłowo sporządzonych dokumentów.
+5. W przypadkach, o których mowa w ust. 3 i 4, termin określony w ust. 1 biegnie od dnia złożenia przez wnioskodawcę zmodyfikowanego kosztorysu albo od dnia przedstawienia przez Instytut maksymalnej wysokości kosztu kwalifikowalnego podlegającej rozliczeniu w ramach wsparcia finansowego. 5aDodany przez art. 55 pkt 2 lit. b ustawy, o której mowa w odnośniku 3.. W przypadkach, o których mowa w ust. 3, termin określony w ust. 1 biegnie od dnia złożenia przez wnioskodawcę prawidłowo sporządzonych dokumentów.
 
 6. Instytut rozpatruje wnioski w kolejności ich złożenia do czasu wyczerpania środków przeznaczonych na wsparcie finansowe, przewidzianych w planie finansowym Instytutu na dany rok.
 
@@ -418,13 +424,7 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 
 2. Wsparcie finansowe może być przyznane, jeżeli wniosek uzyska w teście kwalifikacyjnym co najmniej 51% punktów możliwych do uzyskania.
 
-**Art. 22.**
-
-1. Instytut w terminie 28 dni kalendarzowych od dnia powiadomienia wnioskodawcy o przyznaniu wsparcia finansowego zawiera z wnioskodawcą umowę o wsparcie finansowe. Dyrektor Instytutu może, na wniosek wnioskodawcy, wydłużyć termin zawarcia umowy o wsparcie finansowe nie dłużej jednak niż na okres 3 miesięcy.
-
-2. Instytut może odstąpić od umowy o wsparcie finansowe, jeżeli w terminie 3 miesięcy od wskazanego w tej umowie terminu rozpoczęcia prac objętych wsparciem finansowym wnioskodawca lub jego koproducenci nie rozpoczną tych prac.
-
-3. Po odstąpieniu od umowy o wsparcie finansowe wnioskodawca może ponownie złożyć wniosek o wsparcie finansowe dotyczący tego samego utworu audiowizualnego tylko raz.
+**Art. 22.** 1W brzmieniu ustalonym przez art. 55 pkt 3 ustawy, o której mowa w odnośniku 3.. Instytut w terminie 28 dni kalendarzowych od dnia powiadomienia wnioskodawcy o przyznaniu wsparcia finansowego zawiera z wnioskodawcą umowę o wsparcie finansowe. Dyrektor Instytutu może, na wniosek wnioskodawcy, wydłużyć termin zawarcia umowy o wsparcie finansowe nie dłużej jednak niż na okres 3 miesięcy. 2. Instytut może odstąpić od umowy o wsparcie finansowe, jeżeli w terminie 3 miesięcy od wskazanego w tej umowie terminu rozpoczęcia prac objętych wsparciem finansowym wnioskodawca lub jego koproducenci nie rozpoczną tych prac. 3. Po odstąpieniu od umowy o wsparcie finansowe wnioskodawca może ponownie złożyć wniosek o wsparcie finansowe dotyczący tego samego utworu audiowizualnego tylko raz.
 
 **Art. 23.** Umowa o wsparcie finansowe zawiera w szczególności:
 
@@ -444,7 +444,7 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 
 3. W przypadku gdy wartość wsparcia finansowego wynikająca z rozliczonych polskich kosztów kwalifikowalnych będzie niższa niż wysokość środków zgromadzonych na rachunku powierniczym, o którym mowa w ust. 1, Instytut przekazuje pozostałe na rachunku powierniczym środki na wsparcie finansowe innych utworów audiowizualnych.
 
-4. Przekazanie środków na rachunek powierniczy, o którym mowa w ust. 1, spełnia cel przyznania wsparcia finansowego, w rozumieniu art. 168 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.).
+4. Przekazanie środków na rachunek powierniczy, o którym mowa w ust. 1, spełnia cel przyznania wsparcia finansowego, w rozumieniu art. 168 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695, 1175 i 2320.).
 
 **Art. 25.**
 
@@ -584,7 +584,7 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 - **6)** sprawność procedury przyznawania wsparcia finansowego i weryfikacji spełniania warunków przyznania i wypłaty wsparcia finansowego;
 - **7)** konieczność ujednolicenia dokumentów stosowanych w trybie przyznawania i rozliczania wsparcia finansowego.
 
-#### Rozdział 5 Przepisy zmieniające, przejściowe i końcowe
+#### Rozdział 5
 
 **Art. 33.**
 
@@ -607,5 +607,5 @@ art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audi
 
 **Art. 34.** Traci moc ustawa z dnia 16 lipca 1987 r. o państwowych instytucjach filmowych (Dz. U. z 2017 r. poz. 2006).
 
-**Art. 35.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem przepisów art. 32 pkt 3 lit. b i pkt 4, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 35.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszeniaUstawa została ogłoszona w dniu 10 stycznia 2019 r., z wyjątkiem przepisów art. 32Artykuł 32 zawiera zmiany do ustawy z dnia 30 czerwca 2005 r. o kinematografii. pkt 3 lit. b i pkt 4, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 14.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122, 2123, 2127, 2255 i 2320. 3) W brzmieniu ustalonym przez art. 55 pkt 1 lit. a ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568 i 695), która weszła w życie z dniem 31 marca 2020 r. 4) Dodany przez art. 55 pkt 1 lit. b ustawy, o której mowa w odnośniku 3. 5) W brzmieniu ustalonym przez art. 55 pkt 2 lit. a ustawy, o której mowa w odnośniku 3. 6) Dodany przez art. 55 pkt 2 lit. b ustawy, o której mowa w odnośniku 3. 7) W brzmieniu ustalonym przez art. 55 pkt 3 ustawy, o której mowa w odnośniku 3. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695, 1175 i 2320. 9) Zamieszczony w obwieszczeniu. 10) Ustawa została ogłoszona w dniu 10 stycznia 2019 r. 11) Artykuł 32 zawiera zmiany do ustawy z dnia 30 czerwca 2005 r. o kinematografii.
 

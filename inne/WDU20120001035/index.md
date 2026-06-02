@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-09-06 |
 | Data wydania | 2012-09-19 |
-| Wejście w życie | 2012-10-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001035) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1035/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 48 ust. 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 710, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48 ust. 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 710, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 114, poz. 957, z 2010 r. Nr 113, poz. 745, Nr 182, poz. 1228, Nr 230, poz. 1510 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Obrony Narodowej z dnia 26 września 2006 r. w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Służby Kontrwywiadu Wojskowego otrzymuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie (Dz. U. Nr 175, poz. 1301) w § 19 ust. 1 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Obrony Narodowej z dnia 26 września 2006 r. w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Służby Kontrwywiadu Wojskowego otrzymuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie (Dz. U. Nr 175, poz. 1301) w § 19 ust. 1 otrzymuje brzmienie: „
 1.
 Wysokość równoważnika pieniężnego odpowiada wartości pieniężnej normy wyżywienia i wynosi dla:
 1)
@@ -50,8 +48,7 @@ ogólnej: 110 – 5,88 zł,
 b)
 chleba: 111 – 1,40 zł,
 c)
-napoju: 160 – 1,10 zł.
-” .
+napoju: 160 – 1,10 zł. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 114, poz. 957, z 2010 r. Nr 113, poz. 745, Nr 182, poz. 1228, Nr 230, poz. 1510 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677.
 

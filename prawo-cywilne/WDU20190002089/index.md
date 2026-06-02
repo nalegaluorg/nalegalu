@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 października 2019 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne oraz ustawę z dnia 4 lipca 2019 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-16 |
 | Data wydania | 2019-10-30 |
-| Wejście w życie | 2019-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2089/text.pdf) |
 
@@ -85,5 +84,5 @@ source: "eli-html"
 
 2. Jeżeli powództwo w sprawach, o których mowa w ust. 1, wytoczyło dziecko, termin do wytoczenia przez nie tego powództwa nie może skończyć się wcześniej niż z upływem 3 lat od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 2–4, które wchodzą w życie z dniem 7 listopada 2019 r.
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 2–4, które wchodzą w życie z dniem 7 listopada 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne oraz ustawę z dnia 4 lipca 2019 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw.
 

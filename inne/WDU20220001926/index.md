@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-29 |
 | Data wydania | 2022-09-13 |
-| Wejście w życie | 2022-09-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001926) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1926/text.pdf) |
 
@@ -37,8 +36,7 @@ a)
 b)
 małżonka oraz dzieci, którzy pozostawali na utrzymaniu żołnierza, który zaginął lub poniósł śmierć w związku z wykonywaniem zadań służbowych albo zmarł w okresie 3 lat po zwolnieniu ze służby wojskowej w następstwie wypadku lub choroby pozostających w związku z pełnieniem służby wojskowej,
 c)
-małżonka oraz dzieci, którzy pozostawali na utrzymaniu żołnierza zasadniczej służby wojskowej pełnionej jako nadterminowa w okresie od dnia 22 stycznia 1992 r. do dnia 31 grudnia 2009 r., który zaginął lub poniósł śmierć w związku z wykonywaniem zadań służbowych albo zmarł w okresie 3 lat po zwolnieniu ze służby wojskowej w następstwie wypadku lub choroby pozostających w związku z pełnieniem służby wojskowej
-zwanych dalej „uprawnionymi”;
+małżonka oraz dzieci, którzy pozostawali na utrzymaniu żołnierza zasadniczej służby wojskowej pełnionej jako nadterminowa w okresie od dnia 22 stycznia 1992 r. do dnia 31 grudnia 2009 r., który zaginął lub poniósł śmierć w związku z wykonywaniem zadań służbowych albo zmarł w okresie 3 lat po zwolnieniu ze służby wojskowej w następstwie wypadku lub choroby pozostających w związku z pełnieniem służby wojskowej – zwanych dalej „uprawnionymi”;
 2)
 dokumenty, które należy dołączyć do wniosku, o którym mowa w art. 308 ust. 5 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zwanej dalej „ustawą”;
 3)
@@ -122,5 +120,5 @@ Uprawnionemu dyrektor COAZ, kierownik OAZ lub szef WCR, do którego złożono wn
 3.
 W przypadku braku ofert pracy w miejscu zamieszkania uprawnionego dyrektor COAZ, kierownik OAZ lub szef WCR, do którego złożono wniosek, w porozumieniu z innymi podmiotami, o których mowa w art. 236 ust. 16 ustawy, prowadzącymi pośrednictwo pracy, przedstawia uprawnionemu, w miarę możliwości, oferty pracy w innych rejonach przez niego wskazanych.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 9 czerwca 2009 r. w sprawie szczegółowych warunków i trybu korzystania przez żołnierzy zwolnionych z czynnej służby wojskowej, a także małżonków oraz dzieci pozostających na utrzymaniu żołnierzy, którzy zaginęli lub ponieśli śmierć w związku z wykonywaniem zadań służbowych, z pomocy w zakresie podnoszenia kwalifikacji, przekwalifikowania, doradztwa zawodowego lub pośrednictwa pracy (Dz. U. poz. 778), które zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyny (Dz. U. poz. 655, 974 i 1725) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 9 czerwca 2009 r. w sprawie szczegółowych warunków i trybu korzystania przez żołnierzy zwolnionych z czynnej służby wojskowej, a także małżonków oraz dzieci pozostających na utrzymaniu żołnierzy, którzy zaginęli lub ponieśli śmierć w związku z wykonywaniem zadań służbowych, z pomocy w zakresie podnoszenia kwalifikacji, przekwalifikowania, doradztwa zawodowego lub pośrednictwa pracy (Dz. U. poz. 778), które zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyny (Dz. U. poz. 655, 974 i 1725) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

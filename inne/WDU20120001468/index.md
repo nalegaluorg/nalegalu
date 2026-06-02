@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-07 |
 | Data wydania | 2012-12-27 |
-| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001468) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1468/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 5 ust. 2 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. Nr 122, poz. 1321, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 5 ust. 2 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. Nr 122, poz. 1321, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708, Nr 170, poz. 1217 i Nr 249, poz. 1832, z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 98, poz. 817 i 818, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 132, poz. 766.) zarządza się, co następuje:
 § 1.
 Dozorowi technicznemu podlegają następujące rodzaje urządzeń technicznych:
 1)
@@ -111,5 +110,5 @@ pomosty ruchome z zespołami napędowymi w przystaniach promowych.
 § 2.
 Przepisów rozporządzenia nie stosuje się do urządzeń technicznych w elektrowniach jądrowych.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 lipca 2002 r. w sprawie rodzajów urządzeń technicznych podlegających dozorowi technicznemu (Dz. U. Nr 120, poz. 1021 oraz z 2003 r. Nr 28, poz. 240), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 10 ust. 2 ustawy z dnia 13 maja 2011 r. o zmianie ustawy – Prawo atomowe oraz niektórych innych ustaw (Dz. U. Nr 132, poz. 766). 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708, Nr 170, poz. 1217 i Nr 249, poz. 1832, z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 98, poz. 817 i 818, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 132, poz. 766. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 lipca 2002 r. w sprawie rodzajów urządzeń technicznych podlegających dozorowi technicznemu (Dz. U. Nr 120, poz. 1021 oraz z 2003 r. Nr 28, poz. 240), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 10 ust. 2 ustawy z dnia 13 maja 2011 r. o zmianie ustawy – Prawo atomowe oraz niektórych innych ustaw (Dz. U. Nr 132, poz. 766).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw
+# Ustawa z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym oraz ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-01-26 |
 | Data wydania | 2017-02-13 |
-| Wejście w życie | 2017-02-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000245) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/245/text.pdf) |
 
@@ -83,7 +82,7 @@ source: "eli-html"
 
 - **1)** w pkt 8 uchyla się lit. d;
 - **2)** po pkt 8 dodaje się pkt 8a w brzmieniu: „
-- **8a)** po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej szczególne zasady rachunkowości spółdzielczych kas oszczędnościowo-kredytowych, w tym: zakres informacji wykazywanych w sprawozdaniu finansowym, zasady wyceny aktywów i pasywów, w tym tworzenia odpisów aktualizujących uwzględniając specyfikę działalności spółdzielczych kas oszczędnościowo-kredytowych, w tym małych kas; ” .
+- **8a)** po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej szczególne zasady rachunkowości spółdzielczych kas oszczędnościowo-kredytowych, w tym: zakres informacji wykazywanych w sprawozdaniu finansowym, zasady wyceny aktywów i pasywów, w tym tworzenia odpisów aktualizujących – uwzględniając specyfikę działalności spółdzielczych kas oszczędnościowo-kredytowych, w tym małych kas; ” .
     - **a)**
     - **b)**
 
@@ -109,5 +108,5 @@ source: "eli-html"
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 81 ust. 2 pkt 8 lit. d ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 81 ust. 2 pkt 8a ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym oraz ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci.
 

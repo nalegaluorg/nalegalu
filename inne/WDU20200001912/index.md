@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 26 października 2020 r. zmieniające rozporządzenie w sprawie określenia wysokości limitów środków dostępnych w ramach schematów pomocy technicznej Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 26 października 2020 r. zmieniające rozporządzenie w sprawie określenia wysokości limitów środków dostępnych w ramach schematów pomocy technicznej Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-26 |
 | Data wydania | 2020-10-30 |
-| Wejście w życie | 2020-11-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001912) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1912/text.pdf) |
 
@@ -37,16 +36,13 @@ Na podstawie art. 41 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu r
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lutego 2016 r. w sprawie określenia wysokości limitów środków dostępnych w ramach schematów pomocy technicznej Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 335, z 2017 r. poz. 983 i 2261, z 2019 r. poz. 296 oraz z 2020 r. poz. 631) wprowadza się następujące zmiany:
 1)
-w § 2 w ust. 2 w pkt 1c lit. a otrzymuje brzmienie:
-„
+w § 2 w ust. 2 w pkt 1c lit. a otrzymuje brzmienie: „
 a)
-na wsparcie funkcjonowania – limit ten wynosi nie więcej niż 60% tych środków,
-” ;
+na wsparcie funkcjonowania – limit ten wynosi nie więcej niż 60% tych środków, ” ;
 2)
 załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721).
 
 ## Załącznik nr 1 — – Wysokość limitów środków dostępnych w ramach schematu I wzmocnienie systemu wdrażania programu w podziale na beneficjentów
 

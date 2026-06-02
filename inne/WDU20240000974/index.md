@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 czerwca 2024 r. w sprawie wymagań dotyczących pomiarów, rejestracji i sposobu obliczania ilości biogazu, biogazu rolniczego i biometanu, wytworzonych w instalacjach odnawialnego źródła energii z odnawialnych źródeł energii i transportowanych środkami transportu innymi niż sieci gazowe
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 czerwca 2024 r. w sprawie wymagań dotyczących pomiarów, rejestracji i sposobu obliczania ilości biogazu, biogazu rolniczego i biometanu, wytworzonych w instalacjach odnawialnego źródła energii z odnawialnych źródeł energii i transportowanych środkami transportu innymi niż sieci gazowe Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-26 |
 | Data wydania | 2024-07-02 |
-| Wejście w życie | 2024-07-17 |
 | Ostatnia zmiana | 2024-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000974) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/974/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 62 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762 oraz z 2024 r. poz. 834) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 6 marca 2024 r. pod numerem 2024/0119/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 62 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762 oraz z 2024 r. poz. 834) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -52,8 +51,7 @@ Rejestrację danych, o których mowa w ust. 1, w książce rejestrowej z ponumer
 1)
 każdą pozycję rejestrowanych danych, po dokonaniu wpisu, oddziela się poziomą linią,
 2)
-poprawki wprowadza się w sposób umożliwiający odczytanie poprawionego lub skreślonego wpisu
-i potwierdza się podpisem osoby rejestrującej.
+poprawki wprowadza się w sposób umożliwiający odczytanie poprawionego lub skreślonego wpisu – i potwierdza się podpisem osoby rejestrującej.
 3.
 Rejestrację danych, o których mowa w ust. 1, z zastosowaniem elektronicznego systemu przetwarzania danych prowadzi się w systemie dobowym w sposób:
 1)
@@ -101,6 +99,5 @@ Dobową ilość biogazu, biogazu rolniczego i biometanu, w przypadku pomiaru mas
 4.
 W przypadku awarii urządzeń pomiarowo-rozliczeniowych, o których mowa w § 5 ust. 5, wykorzystywanych do wyznaczania ciepła spalania odpowiednio biogazu, biogazu rolniczego i biometanu na potrzeby przeliczania ilości energii zawartej w biogazie, biogazie rolniczym i biometanie zgodnie z ust. 2 albo 3, stosuje się średnią ważoną z dobowych średnioważonych wartości ciepła spalania odpowiednio biogazu, biogazu rolniczego i biometanu z 30 dni poprzedzających dzień wystąpienia awarii. Wartość ciepła spalania odpowiednio biogazu, biogazu rolniczego i biometanu obliczoną zgodnie z metodyką określoną w zdaniu poprzednim stosuje się nie dłużej niż przez 30 kolejnych dni, licząc od dnia wystąpienia awarii tych urządzeń pomiarowo-rozliczeniowych.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 6 marca 2024 r. pod numerem 2024/0119/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 6 marca 2024 r. pod numerem 2024/0119/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

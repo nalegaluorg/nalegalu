@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 stycznia 2022 r. zmieniające rozporządzenie w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 5 stycznia 2022 r. zmieniające rozporządzenie w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-05 |
 | Data wydania | 2022-01-11 |
-| Wejście w życie | 2022-01-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000049) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/49/text.pdf) |
 
@@ -35,6 +34,5 @@ w ust. 1 uchyla się pkt 1–5;
 2)
 w ust. 2 uchyla się pkt 9 i 17.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 

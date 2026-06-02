@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 września 2024 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej
+# Ustawa z dnia 13 września 2024 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2021/2118 z dnia 24 listopada 2021 r. zmieniającą dyrektywę 2009/103/WE w sprawie ubezpieczenia od odpowiedzialności cywilnej za szkody powstałe w związku z ruchem pojazdów mechanicznych i egzekwowania obowiązku ubezpieczania od takiej odpowiedzialności (Dz. Urz. UE L 430 z 02.12.2021, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-13 |
 | Data wydania | 2024-10-22 |
-| Wejście w życie | 2024-11-06 |
 | Ostatnia zmiana | 2024-10-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001565) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1565/text.pdf) |
 
@@ -95,7 +94,7 @@ source: "eli-html"
 2. Na wezwanie Polskiego Biura Ubezpieczycieli Komunikacyjnych:
 
 - **1)** zakład ubezpieczeń, jego syndyk albo likwidator,
-- **2)** podmiot pełniący na terytorium Rzeczypospolitej Polskiej funkcję reprezentanta do spraw roszczeń zakładu ubezpieczeń oraz podmiot, który zakończył pełnienie tej funkcji przed wszczęciem postępowania upadłościowego albo likwidacyjnego zobowiązani są do niezwłocznego i nieodpłatnego przekazania, w uzgodnionej z Polskim Biurem Ubezpieczycieli Komunikacyjnych formie, posiadanych informacji i dokumentów dotyczących zgłoszonego roszczenia, o którym mowa w art. 83e, w tym akt ubezpieczeniowych lub akt szkodowych. ” ;
+- **2)** podmiot pełniący na terytorium Rzeczypospolitej Polskiej funkcję reprezentanta do spraw roszczeń zakładu ubezpieczeń oraz podmiot, który zakończył pełnienie tej funkcji przed wszczęciem postępowania upadłościowego albo likwidacyjnego – zobowiązani są do niezwłocznego i nieodpłatnego przekazania, w uzgodnionej z Polskim Biurem Ubezpieczycieli Komunikacyjnych formie, posiadanych informacji i dokumentów dotyczących zgłoszonego roszczenia, o którym mowa w art. 83e, w tym akt ubezpieczeniowych lub akt szkodowych. ” ;
 - **12)** w art. 98: w ust. 2 pkt 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -152,7 +151,7 @@ source: "eli-html"
 2. Na wezwanie Funduszu:
 
 - **1)** zakład ubezpieczeń, jego syndyk albo likwidator,
-- **2)** podmiot pełniący na terytorium Rzeczypospolitej Polskiej funkcję reprezentanta do spraw roszczeń zakładu ubezpieczeń oraz podmiot, który zakończył pełnienie tej funkcji przed wszczęciem postępowania upadłościowego albo likwidacyjnego zobowiązani są do niezwłocznego i nieodpłatnego przekazania, w uzgodnionej z Funduszem formie, posiadanych informacji i dokumentów dotyczących zgłoszonego roszczenia, o którym mowa w art. 98 ust. 2a, w tym akt ubezpieczeniowych lub akt szkodowych. ” ;
+- **2)** podmiot pełniący na terytorium Rzeczypospolitej Polskiej funkcję reprezentanta do spraw roszczeń zakładu ubezpieczeń oraz podmiot, który zakończył pełnienie tej funkcji przed wszczęciem postępowania upadłościowego albo likwidacyjnego – zobowiązani są do niezwłocznego i nieodpłatnego przekazania, w uzgodnionej z Funduszem formie, posiadanych informacji i dokumentów dotyczących zgłoszonego roszczenia, o którym mowa w art. 98 ust. 2a, w tym akt ubezpieczeniowych lub akt szkodowych. ” ;
 - **19)** w art. 109 po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
 
 1a. Fundusz, w przypadku zgłoszenia roszczenia, o którym mowa w art. 98 ust. 2a, jest obowiązany złożyć oświadczenie o wysokości uznanego odszkodowania lub świadczenia wraz z uzasadnieniem, o którym mowa w art. 108a ust. 3, albo udzielić odpowiedzi z uzasadnieniem, o której mowa w art. 108a ust. 4, w terminie 3 miesięcy od dnia zgłoszenia roszczenia do zakładu ubezpieczeń, zgodnie z art. 108a ust. 1.
@@ -318,5 +317,5 @@ source: "eli-html"
 
 2. Do roszczeń poszkodowanych lub uprawnionych do odszkodowania, w przypadku postępowań upadłościowych i likwidacyjnych wszczętych po dniu 22 grudnia 2023 r., stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 i pkt 16 lit. b, które wchodzą w życie z dniem 24 lipca 2025 r.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 i pkt 16 lit. b, które wchodzą w życie z dniem 24 lipca 2025 r. 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2021/2118 z dnia 24 listopada 2021 r. zmieniającą dyrektywę 2009/103/WE w sprawie ubezpieczenia od odpowiedzialności cywilnej za szkody powstałe w związku z ruchem pojazdów mechanicznych i egzekwowania obowiązku ubezpieczania od takiej odpowiedzialności (Dz. Urz. UE L 430 z 02.12.2021, str. 1).
 

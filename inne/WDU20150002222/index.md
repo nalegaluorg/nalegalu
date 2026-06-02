@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-18 |
 | Data wydania | 2015-12-29 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2025-03-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002222) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2222/text.pdf) |
 
@@ -108,7 +107,7 @@ Dofinansowanie zajęć może być przyznane do wysokości:
 § 5.
 Przy rozpatrywaniu wniosków o dofinansowanie zajęć bierze się pod uwagę możliwość systematycznego i powszechnego udziału dzieci i młodzieży w zajęciach, z uwzględnieniem wyrównywania szans dostępu do kultury fizycznej.
 § 6.
-Udzielenie dofinansowania na realizację zajęć lub zadań z zakresu aktywności fizycznej następuje w drodze otwartego konkursu, o którym mowa w art. 11 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2014 r. poz. 1118, z późn. zm.), z uwzględnieniem przepisów niniejszego rozporządzenia.
+Udzielenie dofinansowania na realizację zajęć lub zadań z zakresu aktywności fizycznej następuje w drodze otwartego konkursu, o którym mowa w art. 11 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2014 r. poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1138 i 1146 oraz z 2015 r. poz. 1255, 1333, 1339 i 1777.), z uwzględnieniem przepisów niniejszego rozporządzenia.
 § 7.
 1.
 Wniosek zaakceptowany przez ministra stanowi podstawę do zawarcia umowy z wnioskodawcą.
@@ -158,7 +157,7 @@ klauzulę o zakazie ubiegania się o dofinansowanie z Funduszu przez okres 2 lat
 17)
 określenie sposobu przeprowadzania kontroli wykonania zajęć lub zadań z zakresu aktywności fizycznej.
 2.
-W przypadku stwierdzenia wykorzystania dofinansowania niezgodnie z przeznaczeniem, pobrania nienależnie lub w nadmiernej wysokości oraz w odniesieniu do zwrotu dofinansowania niewykorzystanego stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) w zakresie dotyczącym dotacji udzielanych z budżetu państwa.
+W przypadku stwierdzenia wykorzystania dofinansowania niezgodnie z przeznaczeniem, pobrania nienależnie lub w nadmiernej wysokości oraz w odniesieniu do zwrotu dofinansowania niewykorzystanego stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150.) w zakresie dotyczącym dotacji udzielanych z budżetu państwa.
 § 9.
 Wnioskodawca, któremu przyznano dofinansowanie, może pokryć ze środków Funduszu koszty pośrednie w części stanowiącej nie więcej niż 5% kosztów bezpośrednich, związanych z realizacją zajęć lub zadań z zakresu aktywności fizycznej.
 § 10.
@@ -171,5 +170,5 @@ Wnioskodawca, któremu przyznano dofinansowanie, może wystąpić do ministra w 
 § 12.
 W przypadku realizacji zajęć na podstawie wniosków złożonych przed dniem wejścia w życie niniejszego rozporządzenia oraz do rozliczania dofinansowania w tym zakresie stosuje się przepisy dotychczasowe.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu z dnia 19 września 2011 r. w sprawie dofinansowania zajęć ze środków Funduszu Zajęć Sportowych dla Uczniów (Dz. U. Nr 217, poz. 1290), które traci moc z dniem 1 stycznia 2016 r. w związku z wejściem w życie ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. poz. 1916). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1138 i 1146 oraz z 2015 r. poz. 1255, 1333, 1339 i 1777. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sportu z dnia 19 września 2011 r. w sprawie dofinansowania zajęć ze środków Funduszu Zajęć Sportowych dla Uczniów (Dz. U. Nr 217, poz. 1290), które traci moc z dniem 1 stycznia 2016 r. w związku z wejściem w życie ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. poz. 1916).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 24 maja 2024 r. w sprawie wysokości wynagrodzenia członków, wiceprzewodniczących i przewodniczącego Rady Akredytacyjnej
+# Rozporządzenie Ministra Zdrowiaz dnia 24 maja 2024 r. w sprawie wysokości wynagrodzenia członków, wiceprzewodniczących i przewodniczącego Rady Akredytacyjnej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-24 |
 | Data wydania | 2024-05-28 |
-| Wejście w życie | 2024-05-29 |
 | Ostatnia zmiana | 2024-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000800) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/800/text.pdf) |
 
@@ -37,6 +36,5 @@ wiceprzewodniczących – 3100 zł;
 3)
 pozostałych członków – 2900 zł.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

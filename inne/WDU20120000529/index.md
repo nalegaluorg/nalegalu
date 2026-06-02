@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-17 |
 | Data wydania | 2012-05-17 |
-| Wejście w życie | 2012-06-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/529/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 129 ust. 2 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 129 ust. 2 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 145, Nr 106, poz. 675, Nr 119, poz. 804, Nr 143, poz. 963 i Nr 182, poz. 1228, z 2011 r. Nr 32, poz. 159, Nr 122, poz. 695, Nr 132, poz. 766, Nr 135, poz. 789, Nr 152, poz. 897, Nr 163, poz. 981, Nr 170, poz. 1015 i Nr 178, poz. 1060 oraz z 2012 r. poz. 460 i 472.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowy zakres informacji o prowadzonych ocenach oddziaływania przedsięwzięcia na środowisko oraz strategicznych ocenach oddziaływania na środowisko, niezbędnych do prowadzenia bazy danych, o której mowa w art. 128 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, zwanej dalej „ustawą”, w tym danych o dokumentacji sporządzanej w ramach tych ocen, za rok poprzedni.
 § 2.
@@ -131,5 +130,5 @@ podstawę prawną odstąpienia od przeprowadzenia strategicznej oceny oddziaływ
 h)
 datę przyjęcia dokumentu (dzień, miesiąc, rok) albo informację, że postępowanie jest w toku.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 145, Nr 106, poz. 675, Nr 119, poz. 804, Nr 143, poz. 963 i Nr 182, poz. 1228, z 2011 r. Nr 32, poz. 159, Nr 122, poz. 695, Nr 132, poz. 766, Nr 135, poz. 789, Nr 152, poz. 897, Nr 163, poz. 981, Nr 170, poz. 1015 i Nr 178, poz. 1060 oraz z 2012 r. poz. 460 i 472.
 

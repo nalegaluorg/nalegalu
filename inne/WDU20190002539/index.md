@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 23 grudnia 2019 r. w sprawie dodatku orzeczniczego na stanowisku radcy skarbowego
+# Rozporządzenie Ministra Finansówz dnia 23 grudnia 2019 r. w sprawie dodatku orzeczniczego na stanowisku radcy skarbowego Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-23 |
 | Data wydania | 2019-12-30 |
-| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002539) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2539/text.pdf) |
 
@@ -35,7 +34,7 @@ Wysokość dodatku wynosi:
 1)
 od 400 zł do 1200 zł;
 2)
-od 1201 zł do 1500 zł – jeżeli jest to uzasadnione szczególnymi wynikami i osiągnięciami w rozstrzyganiu spraw podatkowych lub względami organizacyjnymi związanymi z koniecznością zapewnienia właściwej realizacji czynności organu, o których mowa w art. 13 § 2c ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.), zwanych dalej „czynnościami orzeczniczymi”.
+od 1201 zł do 1500 zł – jeżeli jest to uzasadnione szczególnymi wynikami i osiągnięciami w rozstrzyganiu spraw podatkowych lub względami organizacyjnymi związanymi z koniecznością zapewnienia właściwej realizacji czynności organu, o których mowa w art. 13 § 2c ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200.), zwanych dalej „czynnościami orzeczniczymi”.
 § 3.
 1.
 Przy określaniu wysokości dodatku bierze się pod uwagę:
@@ -58,8 +57,7 @@ naczelnika urzędu skarbowego – w przypadku radcy skarbowego wykonującego czy
 3)
 naczelnika urzędu celno-skarbowego – w przypadku radcy skarbowego wykonującego czynności orzecznicze w urzędzie celno-skarbowym,
 4)
-naczelnika wydziału, kierownika działu, kierownika referatu – w przypadku radcy skarbowego wykonującego czynności orzecznicze w komórkach podlegających bezpośrednio dyrektorowi izby administracji skarbowej
-po zasięgnięciu opinii bezpośredniego przełożonego radcy skarbowego, którego dotyczy wniosek.
+naczelnika wydziału, kierownika działu, kierownika referatu – w przypadku radcy skarbowego wykonującego czynności orzecznicze w komórkach podlegających bezpośrednio dyrektorowi izby administracji skarbowej – po zasięgnięciu opinii bezpośredniego przełożonego radcy skarbowego, którego dotyczy wniosek.
 § 5.
 Wniosek o przyznanie dodatku zawiera:
 1)
@@ -103,6 +101,5 @@ Wnioski o przyznanie dodatku orzeczniczego na rok 2020 złożone i nierozpatrzon
 § 12.
 Dodatek za styczeń 2020 r. wypłaca się w terminie do dnia 29 lutego 2020 r.
 § 13.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 26 kwietnia 2017 r. w sprawie dodatku orzeczniczego na stanowisku radcy skarbowego (Dz. U. poz. 863), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 26 kwietnia 2017 r. w sprawie dodatku orzeczniczego na stanowisku radcy skarbowego (Dz. U. poz. 863), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 26 kwietnia 2017 r. w sprawie dodatku orzeczniczego na stanowisku radcy skarbowego (Dz. U. poz. 863), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 

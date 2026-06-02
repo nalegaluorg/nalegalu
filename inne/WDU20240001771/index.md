@@ -33,14 +33,13 @@ Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og�
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 27–29 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369), które stanowią:
-„
+art. 27–29 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369), które stanowią: „
 
-**Art. 27.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130 i 1193.) w art. 8 w § 1 w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 w brzmieniu: „
+**Art. 27.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.a)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130 i 1193.) w art. 8 w § 1 w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 w brzmieniu: „
 
 - **19)** laptopy, laptopy przeglądarkowe oraz bony na zakup laptopów lub laptopów przeglądarkowych przekazane w ramach wsparcia, o którym mowa w ustawie z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369). ” .
 
-**Art. 28.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2021 r. poz. 1043, z późn. zm.b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1846 i 2180 oraz z 2023 r. poz. 326, 803, 1059 i 1114.) w art. 3 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+**Art. 28.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2021 r. poz. 1043, z późn. zm.b)Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1846 i 2180 oraz z 2023 r. poz. 326, 803, 1059 i 1114.) w art. 3 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
 
 - **10)** nabycie przez rodziców uczniów laptopów oraz przez nauczycieli laptopów, laptopów przeglądarkowych oraz bony na zakup laptopów lub laptopów przeglądarkowych otrzymanych w ramach wsparcia, o którym mowa w ustawie z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369). ” .
 
@@ -96,7 +95,7 @@ art. 27–29 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrow
 - **2)** publiczne szkoły artystyczne realizujące kształcenie ogólne w zakresie szkoły podstawowej,
 - **3)** publiczne szkoły podstawowe w zakładach poprawczych i schroniskach dla nieletnich, o których mowa w art. 8 ust. 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,
 - **4)** publiczne szkoły ponadpodstawowe dla dzieci i młodzieży (licea ogólnokształcące, technika, branżowe szkoły I stopnia) oraz publiczne branżowe szkoły II stopnia, o których mowa w art. 2 pkt 2 lit. b ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oraz szkoły artystyczne realizujące kształcenie ogólne w zakresie liceum ogólnokształcącego,
-- **5)** publiczne szkoły ponadpodstawowe dla dzieci i młodzieży w zakładach poprawczych i schroniskach dla nieletnich, o których mowa w art. 8 ust. 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe zwane dalej „szkołami”;
+- **5)** publiczne szkoły ponadpodstawowe dla dzieci i młodzieży w zakładach poprawczych i schroniskach dla nieletnich, o których mowa w art. 8 ust. 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – zwane dalej „szkołami”;
 - **6)** publiczne poradnie psychologiczno-pedagogiczne, o których mowa w art. 2 pkt 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwane dalej „placówkami”.
 
 2. Wyboru organu prowadzącego szkołę lub placówkę, któremu zostaną przekazane laptopy, dokonuje minister właściwy do spraw oświaty i wychowania w uzgodnieniu z jednostkami samorządu terytorialnego, mając na uwadze stan klęski żywiołowej. Minister właściwy do spraw oświaty i wychowania dokonując wyboru organu prowadzącego szkołę lub placówki określa jednocześnie listę szkół i placówek wybranych do udzielenia wsparcia, o którym mowa w ust. 1.
@@ -143,47 +142,32 @@ art. 27–29 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrow
 
 15. Laptopy przekazane do organów prowadzących szkołę lub placówkę, o których mowa w ust. 1, na podstawie ust. 2, 3 i 5, podlegają wpisowi do ewidencji, o której mowa w art. 5 ustawy zmienianej w art. 23. Przepisu art. 5 ust. 2 pkt 1 i 4 ustawy zmienianej w art. 23 nie stosuje się.
 
-16. Zakres danych wymaganych i przetwarzanych w ramach przekazywania laptopów do organów prowadzących szkoły lub placówki, o których mowa w ust. 1, musi być zgodny z zasadami dotyczącymi przetwarzania danych osobowych, o których mowa w art. 5 ust. 1 lit. a-c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)c) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35., oraz nie wykraczać poza zakres danych wskazanych w ust. 6 i 9.
+16. Zakres danych wymaganych i przetwarzanych w ramach przekazywania laptopów do organów prowadzących szkoły lub placówki, o których mowa w ust. 1, musi być zgodny z zasadami dotyczącymi przetwarzania danych osobowych, o których mowa w art. 5 ust. 1 lit. a-c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)c)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35., oraz nie wykraczać poza zakres danych wskazanych w ust. 6 i 9.
 
 17. Minister właściwy do spraw informatyzacji może zlecić zadanie polegające na przekazywaniu laptopów do organów prowadzących szkoły lub placówki, o których mowa w ust. 1, w części albo w całości, jednostce mu podległej lub przez niego nadzorowanej.
 
 18. W przypadku realizacji zadania, w części albo w całości, przez jednostkę podległą lub nadzorowaną przez ministra właściwego do spraw informatyzacji, będącą instytutem badawczym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534), środki finansowe na realizację tego zadania są przekazywane w formie dotacji celowej, na podstawie umowy zawartej między ministrem właściwym do spraw informatyzacji a instytutem badawczym. ” „
 
-**Art. 74.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
-
-Załącznik – Tekst jednolity ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych nauczycieli
-
-- **a)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130 i 1193. b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1846 i 2180 oraz z 2023 r. poz. 326, 803, 1059 i 1114. c) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
-
-**Art. 1.** Ustawa określa zasady i tryb przyznawania wsparcia nauczycielom w związku z rozwojem kompetencji cyfrowych.
+**Art. 74.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130 i 1193. b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1846 i 2180 oraz z 2023 r. poz. 326, 803, 1059 i 1114. c) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. Załącznik – Tekst jednolity ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych nauczycieliOgólne określenie przedmiotu ustawy ze zmianą wprowadzoną przez art. 23 pkt 1 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), która weszła w życie z dniem 5 października 2024 r. Art. 1Ze zmianą wprowadzoną przez art. 23 pkt 2 ustawy, o której mowa w odnośniku 1.. Ustawa określa zasady i tryb przyznawania wsparcia nauczycielom w związku z rozwojem kompetencji cyfrowych.
 
 **Art. 2.**
 
 1. W celu wspierania rozwoju kompetencji cyfrowych:
 
-- **1)** (uchylony)
-- **2)** nauczycielom, wychowawcom i innym pracownikom pedagogicznym pozostającym w stosunku pracy na dzień 30 września 2023 r. w publicznych i niepublicznych szkołach podstawowych i ponadpodstawowych oraz w publicznych szkołach artystycznych, a także w niepublicznych szkołach artystycznych posiadających uprawnienia publicznej szkoły artystycznej, zwanych dalej „nauczycielami” przysługuje wsparcie sfinansowane ze środków publicznych.
+- **1)** (uchylony)Przez art. 23 pkt 3 lit. a ustawy, o której mowa w odnośniku 1.
+- **2)** nauczycielom, wychowawcom i innym pracownikom pedagogicznym pozostającym w stosunku pracy na dzień 30 września 2023 r. w publicznych i niepublicznych szkołach podstawowych i ponadpodstawowych oraz w publicznych szkołach artystycznych, a także w niepublicznych szkołach artystycznych posiadających uprawnienia publicznej szkoły artystycznej, zwanych dalej „nauczycielami” – przysługuje wsparcie sfinansowane ze środków publicznych.
 
 2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, grupy nauczycieli, wychowawców i innych pracowników pedagogicznych ze szkół, o których mowa w ust. 1 pkt 2, uprawnionych do otrzymania wsparcia, o którym mowa w ust. 3 pkt 2, oraz ich kolejność, mając na uwadze typ szkoły i wykładany przez nauczyciela przedmiot oraz charakter realizowanych zadań przez wychowawców i innych pracowników pedagogicznych, a także sytuację społeczno-gospodarczą i stan finansów publicznych.
 
 3. Wsparcie, o którym mowa w ust. 1, polega na:
 
-- **1)** (uchylony)
-- **2)** przekazaniu nauczycielom jednorazowych świadczeń w formie bonów na zakup komputerów przenośnych typu laptop, zwanych dalej „laptopami” lub laptopów przeglądarkowych, zwanych dalej „bonami”.
+- **1)** (uchylony)Przez art. 23 pkt 3 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 1. 2W brzmieniu ustalonym przez art. 23 pkt 3 lit. b tiret drugie ustawy, o której mowa w odnośniku 1.) przekazaniu nauczycielom jednorazowych świadczeń w formie bonów na zakup komputerów przenośnych typu laptop, zwanych dalej „laptopami” lub laptopów przeglądarkowych, zwanych dalej „bonami”.
 
 4. Organem właściwym do udzielania wsparcia jest minister właściwy do spraw informatyzacji.
 
-**Art. 3.** (uchylony) (uchylony)
+**Art. 3.** (uchylony)Przez art. 23 pkt 4 ustawy, o której mowa w odnośniku 1. (uchylony)Przez art. 23 pkt 4 ustawy, o której mowa w odnośniku 1.
 
-**Art. 5.**
-
-1. Minister właściwy do spraw informatyzacji prowadzi ewidencję zakupionych i przekazanych laptopów organom prowadzącym szkołę, o których mowa w art. 4 pkt 16 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635), zwanym dalej „organami prowadzącymi szkołę”.
-
-1a. Ilekroć w ustawie jest mowa o organie prowadzącym szkołę, w przypadku szkoły artystycznej prowadzonej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego należy przez to rozumieć również specjalistyczną jednostkę nadzoru, o której mowa w art. 53 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
-
-1b. Dyrektor specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, może upoważnić dyrektora szkoły artystycznej, o której mowa w ust. 1a, do realizacji określonych w ustawie zadań organu prowadzącego szkołę.
-
-2. Ewidencja, o której mowa w ust. 1, zawiera w szczególności:
+**Art. 5.** 1W brzmieniu ustalonym przez art. 23 pkt 5 lit. a ustawy, o której mowa w odnośniku 1.. Minister właściwy do spraw informatyzacji prowadzi ewidencję zakupionych i przekazanych laptopów organom prowadzącym szkołę, o których mowa w art. 4 pkt 16 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635), zwanym dalej „organami prowadzącymi szkołę”. 1aDodany przez art. 23 pkt 5 lit. b ustawy, o której mowa w odnośniku 1.. Ilekroć w ustawie jest mowa o organie prowadzącym szkołę, w przypadku szkoły artystycznej prowadzonej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego należy przez to rozumieć również specjalistyczną jednostkę nadzoru, o której mowa w art. 53 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe. 1bDodany przez art. 23 pkt 5 lit. b ustawy, o której mowa w odnośniku 1.. Dyrektor specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, może upoważnić dyrektora szkoły artystycznej, o której mowa w ust. 1a, do realizacji określonych w ustawie zadań organu prowadzącego szkołę. 2. Ewidencja, o której mowa w ust. 1, zawiera w szczególności:
 
 - **1)** wysokość wydatkowanych środków na zakup laptopów w danym roku;
 - **2)** liczbę laptopów przekazanych organom prowadzącym szkołę w podziale na województwa, powiaty i gminy;
@@ -192,13 +176,13 @@ Załącznik – Tekst jednolity ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju
 
 3. Dane, o których mowa w ust. 2, minister właściwy do spraw informatyzacji przetwarza w celach ewidencyjnych, weryfikacyjnych, kontrolnych i audytowych.
 
-**Art. 6.** (uchylony)
+**Art. 6.** (uchylony)Przez art. 23 pkt 6 ustawy, o której mowa w odnośniku 1.
 
-**Art. 7.** (uchylony)
+**Art. 7.** (uchylony)Przez art. 23 pkt 6 ustawy, o której mowa w odnośniku 1.
 
-**Art. 8.** (uchylony)
+**Art. 8.** (uchylony)Przez art. 23 pkt 6 ustawy, o której mowa w odnośniku 1.
 
-**Art. 9.** (uchylony)
+**Art. 9.** (uchylony)Przez art. 23 pkt 6 ustawy, o której mowa w odnośniku 1.
 
 **Art. 10.** W celu udzielania wsparcia, o którym mowa w art. 2 ust. 3 pkt 2, minister właściwy do spraw oświaty i wychowania przekazuje ministrowi właściwemu do spraw informatyzacji informacje o faktycznej liczbie nauczycieli ujętych w grupie nauczycieli uprawnionych do otrzymania wsparcia, w terminie 30 dni od dnia ich wskazania w przepisach wydanych na podstawie art. 2 ust. 2.
 
@@ -327,7 +311,7 @@ Załącznik – Tekst jednolity ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju
 
 1. Minister właściwy do spraw informatyzacji prowadzi system teleinformatyczny zapewniający obsługę bonu.
 
-2. System teleinformatyczny, o którym mowa w ust. 1, zapewnia bezpieczeństwo przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
+2. System teleinformatyczny, o którym mowa w ust. 1, zapewnia bezpieczeństwo przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz w Dz. Urz. UE L 74 z 04.03.2021, str. 35..
 
 3. Administratorem danych osobowych przetwarzanych w systemie teleinformatycznym, o którym mowa w ust. 1, w związku z obsługą bonu jest minister właściwy do spraw informatyzacji.
 
@@ -377,7 +361,7 @@ Załącznik – Tekst jednolity ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju
 
 6. Zakres uprawnień osoby, o której mowa w ust. 5, minister właściwy do spraw informatyzacji określa w upoważnieniu.
 
-7. Osoba, o której mowa w ust. 5, jest obowiązana do zachowania w tajemnicy informacji, o których dowiedziała się w toku kontroli. (pominięte)
+7. Osoba, o której mowa w ust. 5, jest obowiązana do zachowania w tajemnicy informacji, o których dowiedziała się w toku kontroli. (pominięte)Zamieszczone w obwieszczeniu.
 
 **Art. 30.**
 
@@ -389,8 +373,5 @@ Załącznik – Tekst jednolity ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju
 
 **Art. 31.** Minister właściwy do spraw oświaty i wychowania przekaże po raz pierwszy ministrowi właściwemu do spraw informatyzacji informacje, o których mowa w art. 10, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 32.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 29, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
-
-- **1)** Ogólne określenie przedmiotu ustawy ze zmianą wprowadzoną przez art. 23 pkt 1 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), która weszła w życie z dniem 5 października 2024 r. 2) Ze zmianą wprowadzoną przez art. 23 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Przez art. 23 pkt 3 lit. a ustawy, o której mowa w odnośniku 1. 4) Przez art. 23 pkt 3 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 23 pkt 3 lit. b tiret drugie ustawy, o której mowa w odnośniku 1. 6) Przez art. 23 pkt 4 ustawy, o której mowa w odnośniku 1. 7) W brzmieniu ustalonym przez art. 23 pkt 5 lit. a ustawy, o której mowa w odnośniku 1. 8) Dodany przez art. 23 pkt 5 lit. b ustawy, o której mowa w odnośniku 1. 9) Przez art. 23 pkt 6 ustawy, o której mowa w odnośniku 1. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz w Dz. Urz. UE L 74 z 04.03.2021, str. 35. 11) Zamieszczone w obwieszczeniu. 12) Ustawa została ogłoszona w dniu 18 lipca 2023 r.
-
+**Art. 32.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 18 lipca 2023 r., z wyjątkiem art. 29, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Ogólne określenie przedmiotu ustawy ze zmianą wprowadzoną przez art. 23 pkt 1 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), która weszła w życie z dniem 5 października 2024 r. 2) Ze zmianą wprowadzoną przez art. 23 pkt 2 ustawy, o której mowa w odnośniku 1. 3) Przez art. 23 pkt 3 lit. a ustawy, o której mowa w odnośniku 1. 4) Przez art. 23 pkt 3 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 1. 5) W brzmieniu ustalonym przez art. 23 pkt 3 lit. b tiret drugie ustawy, o której mowa w odnośniku 1. 6) Przez art. 23 pkt 4 ustawy, o której mowa w odnośniku 1. 7) W brzmieniu ustalonym przez art. 23 pkt 5 lit. a ustawy, o której mowa w odnośniku 1. 8) Dodany przez art. 23 pkt 5 lit. b ustawy, o której mowa w odnośniku 1. 9) Przez art. 23 pkt 6 ustawy, o której mowa w odnośniku 1. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz w Dz. Urz. UE L 74 z 04.03.2021, str. 35. 11) Zamieszczone w obwieszczeniu. 12) Ustawa została ogłoszona w dniu 18 lipca 2023 r.
 

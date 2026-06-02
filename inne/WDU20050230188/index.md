@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 stycznia 2005 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz o zmianie niektórych innych ustaw
+# Ustawaz dnia 7 stycznia 2005 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się: ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej i ustawę z dnia 29 stycznia 2004 r. o wymaganiach weterynaryjnych dla produktów pochodzenia zwierzęcego.Przepisy niniejszej ustawy:
 
 | Pole | Wartość |
 |---|---|
@@ -22,42 +22,49 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-01-07 |
 | Data wydania | 2005-02-09 |
-| Wejście w życie | 2005-02-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050230188) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/188/text.pdf) |
 
-Treść ustawy Art. 1. Art. 2. Art. 3. Art. 4. Art. 5. Art. 6. Art. 7.
-Załącznik – Wykaz chorób odzwierzęcych oraz odzwierzęcych czynników chorobotwórczych podlegających obowiązkowi monitorowania
-b)
-dyrektywy Rady 2001/89/WE z dnia 23 października 2001 r. w sprawie wspólnotowych środków zwalczania klasycznego pomoru świń (Dz. Urz. WE L 316 z 01.12.2001),
-c)
-dyrektywy Rady 2002/99/WE z dnia 16 grudnia 2002 r. ustanawiającej przepisy sanitarne regulujące produkcję, przetwarzanie, dystrybucję oraz wprowadzanie produktów pochodzenia zwierzęcego przeznaczonych do spożycia przez ludzi (Dz. Urz. WE L 018 z 23.01.2003),
-d)
-dyrektywy Rady 2003/85/WE z dnia 29 września 2003 r. w sprawie wspólnotowych środków zwalczania pryszczycy, uchylającej dyrektywę 85/511/EWG i decyzje 89/531/EWG i 91/665/EWG oraz zmieniającej dyrektywę 92/46/EWG (Dz. Urz. WE L 306 z 22.11.2003),
-e)
-dyrektywy Parlamentu Europejskiego i Rady 2003/99/WE z dnia 17 listopada 2003 r. w sprawie monitorowania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych, zmieniającej decyzję Rady 90/424/EWG i uchylającej dyrektywę Rady 92/117/EWG (Dz. Urz. WE L 325 z 12.12.2003);
-2)
-wykonują postanowienia:
+wdrażają postanowienia:
 a)
-rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 178/2002 z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 031 z 01.02.2002),
-b)
-rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 998/2003 z dnia 26 maja 2003 r. w sprawie wymogów dotyczących zdrowia zwierząt, stosowanych do przemieszczania zwierząt domowych o charakterze niehandlowym i zmieniającego dyrektywę Rady 92/65/EWG (Dz. Urz. WE L 146 z 13.06.2003),
-c)
-rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 2160/2003 z dnia 17 listopada 2003 r. w sprawie zwalczania salmonelli i innych określonych odzwierzęcych czynników chorobotwórczych przenoszonych przez żywność (Dz. Urz. WE L 325 z 12.12.2003),
-d)
-decyzji Komisji z dnia 26 listopada 2003 r. ustanawiającej wzór paszportu do celu wewnątrzwspólnotowego przemieszczania psów, kotów i fretek 2003/803/WE (Dz. Urz. WE L 312 z 27.11.2003),
-e)
-decyzji Komisji z dnia 18 lutego 2004 r. ustanawiającej wzór świadectwa zdrowia dla przemieszczania o charakterze niehandlowym z państw trzecich psów, kotów i fretek 2004/203/WE (Dz. Urz. WE L 065 z 03.03.2004).
-Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
+dyrektywy Rady 95/70/WE z dnia 22 grudnia 1995 r. wprowadzającej minimalne wspólnotowe środki zwalczania niektórych chorób małży dwuskorupowych(Dz. Urz. WE L 332 z 30.12.1995),
+Wymagania weterynaryjne przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym oraz zasady identyfikacji tych zwierząt
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625) wprowadza się następujące zmiany:
+**Art. 1.**
+
+**Art. 2.**
+
+**Art. 3.**
+
+**Art. 4.**
+
+**Art. 5.**
+
+**Art. 6.**
+
+**Art. 7.** Załącznik – Wykaz chorób odzwierzęcych oraz odzwierzęcych czynników chorobotwórczych podlegających obowiązkowi monitorowania
+
+dyrektywy Rady 2001/89/WE z dnia 23 października 2001 r. w sprawie wspólnotowych środków zwalczania klasycznego pomoru świń (Dz. Urz. WE L 316 z 01.12.2001), dyrektywy Rady 2002/99/WE z dnia 16 grudnia 2002 r. ustanawiającej przepisy sanitarne regulujące produkcję, przetwarzanie, dystrybucję oraz wprowadzanie produktów pochodzenia zwierzęcego przeznaczonych do spożycia przez ludzi (Dz. Urz. WE L 018 z 23.01.2003), dyrektywy Rady 2003/85/WE z dnia 29 września 2003 r. w sprawie wspólnotowych środków zwalczania pryszczycy, uchylającej dyrektywę 85/511/EWG i decyzje 89/531/EWG i 91/665/EWG oraz zmieniającej dyrektywę 92/46/EWG (Dz. Urz. WE L 306 z 22.11.2003), dyrektywy Parlamentu Europejskiego i Rady 2003/99/WE z dnia 17 listopada 2003 r. w sprawie monitorowania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych, zmieniającej decyzję Rady 90/424/EWG i uchylającej dyrektywę Rady 92/117/EWG (Dz. Urz. WE L 325 z 12.12.2003);
+
+- **b)**
+- **c)**
+- **d)**
+- **e)**
+- **2)** wykonują postanowienia: rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 178/2002 z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 031 z 01.02.2002), rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 998/2003 z dnia 26 maja 2003 r. w sprawie wymogów dotyczących zdrowia zwierząt, stosowanych do przemieszczania zwierząt domowych o charakterze niehandlowym i zmieniającego dyrektywę Rady 92/65/EWG (Dz. Urz. WE L 146 z 13.06.2003), rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 2160/2003 z dnia 17 listopada 2003 r. w sprawie zwalczania salmonelli i innych określonych odzwierzęcych czynników chorobotwórczych przenoszonych przez żywność (Dz. Urz. WE L 325 z 12.12.2003), decyzji Komisji z dnia 26 listopada 2003 r. ustanawiającej wzór paszportu do celu wewnątrzwspólnotowego przemieszczania psów, kotów i fretek 2003/803/WE (Dz. Urz. WE L 312 z 27.11.2003), decyzji Komisji z dnia 18 lutego 2004 r. ustanawiającej wzór świadectwa zdrowia dla przemieszczania o charakterze niehandlowym z państw trzecich psów, kotów i fretek 2004/203/WE (Dz. Urz. WE L 065 z 03.03.2004). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne. W ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625) wprowadza się następujące zmiany:
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **1)** w art. 1: w pkt 1 lit. l otrzymuje brzmienie: „ utrzymywania lub hodowli zwierząt na potrzeby pokazów zwierząt, edukacji, ochrony i zachowania gatunków zwierząt, prowadzenia podstawowych lub stosowanych badań naukowych lub hodowli zwierząt używanych do prowadzenia takich badań, ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
     - **a)**
     - **l)**
     - **b)**
 
-- **2a)** wymagania weterynaryjne przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym oraz zasady identyfikacji tych zwierząt; ” , w pkt 3: – lit. a otrzymuje brzmienie: „ a) zwalczania chorób zakaźnych zwierząt, w tym chorób odzwierzęcych, ” , – w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) monitorowania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych oraz związanej z nimi oporności na środki przeciwdrobnoustrojowe u zwierząt, w produktach pochodzenia zwierzęcego i środkach żywienia zwierząt. ” ;
+- **2a)** wymagania weterynaryjne przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym oraz zasady identyfikacji tych zwierząt; ” , w pkt 3: lit. a otrzymuje brzmienie: „ zwalczania chorób zakaźnych zwierząt, w tym chorób odzwierzęcych, ” , w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ monitorowania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych oraz związanej z nimi oporności na środki przeciwdrobnoustrojowe u zwierząt, w produktach pochodzenia zwierzęcego i środkach żywienia zwierząt. ” ;
+    - **c)**
+    - **a)**
     - **c)**
 
 - **2)** w art. 2: pkt 21 otrzymuje brzmienie: „
@@ -77,7 +84,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 - **1)** stwierdza spełnianie wymagań weterynaryjnych przez poszczególne obiekty budowlane lub miejsca, w których ma być prowadzona działalność nadzorowana, lub osoby wykonujące określone czynności w ramach tej działalności, jeżeli stwierdzenie takie jest wymagane; ” , w ust. 8 pkt 1 otrzymuje brzmienie: „
     - **b)**
 
-- **1)** czasie i miejscu organizowania: targów, wystaw lub konkursów – co najmniej na 30 dni, pokazów – co najmniej na 7 dni przed planowanym terminem ich zorganizowania; ” , dodaje się ust. 9 w brzmieniu: „
+- **1)** czasie i miejscu organizowania: targów, wystaw lub konkursów – co najmniej na 30 dni, pokazów – co najmniej na 7 dni – przed planowanym terminem ich zorganizowania; ” , dodaje się ust. 9 w brzmieniu: „
     - **a)**
     - **b)**
     - **c)**
@@ -110,7 +117,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 - **9)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Wymagania weterynaryjne przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym oraz zasady identyfikacji tych zwierząt
+#### Rozdział 4a
 
 **Art. 24a.**
 
@@ -192,7 +199,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 - **1)** wysokość opłaty za wydanie paszportu, o którym mowa w art. 24e ust. 2,
 - **2)** wysokość wynagrodzenia lekarza weterynarii za wydanie paszportu, o którym mowa w art. 24e ust. 2,
-- **3)** wysokość kwoty, stanowiącej część opłaty, przeznaczonej na pokrycie kosztów, o których mowa w ust. 2 pkt 2 i 3 mając na względzie koszty poniesione na prowadzenie rejestru, druk paszportów, ich przekazywanie oraz wydawanie.
+- **3)** wysokość kwoty, stanowiącej część opłaty, przeznaczonej na pokrycie kosztów, o których mowa w ust. 2 pkt 2 i 3 – mając na względzie koszty poniesione na prowadzenie rejestru, druk paszportów, ich przekazywanie oraz wydawanie.
 
 4. Krajowa Rada Lekarsko-Weterynaryjna określi, w drodze uchwały:
 
@@ -226,10 +233,12 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
     - **a)**
     - **b)**
 
-1a. Posiadacz zwierząt gospodarskich natychmiast informuje powiatowego lekarza weterynarii o każdym przypadku padnięcia bydła, owiec lub kóz. ” , w ust. 6: – pkt 1 otrzymuje brzmienie: „ 1) nakazuje posiadaczowi zwierząt sporządzenie i aktualizację spisu wszystkich zwierząt lub zwłok zwierzęcych; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) ustala stan ilościowy produktów, w szczególności mięsa, mleka oraz środków żywienia zwierząt, ściółki i nawozów naturalnych w rozumieniu przepisów o nawozach i nawożeniu i innych przedmiotów znajdujących się w miejscu, w którym wystąpiła choroba, w zależności od choroby zakaźnej zwierząt; ” , ust. 7 otrzymuje brzmienie: „
+1a. Posiadacz zwierząt gospodarskich natychmiast informuje powiatowego lekarza weterynarii o każdym przypadku padnięcia bydła, owiec lub kóz. ” , w ust. 6: pkt 1 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **1)** nakazuje posiadaczowi zwierząt sporządzenie i aktualizację spisu wszystkich zwierząt lub zwłok zwierzęcych; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** ustala stan ilościowy produktów, w szczególności mięsa, mleka oraz środków żywienia zwierząt, ściółki i nawozów naturalnych w rozumieniu przepisów o nawozach i nawożeniu i innych przedmiotów znajdujących się w miejscu, w którym wystąpiła choroba, w zależności od choroby zakaźnej zwierząt; ” , ust. 7 otrzymuje brzmienie: „
+    - **d)**
 
 7. Dochodzenie epizootyczne, o którym mowa w ust. 6 pkt 2, obejmuje co najmniej ustalenie:
 
@@ -296,7 +305,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 4. Powiatowy lekarz weterynarii przekazuje wojewódzkiemu lekarzowi weterynarii:
 
-- **1)** informację o powzięciu podejrzenia lub o stwierdzeniu choroby zakaźnej zwierząt podlegającej: obowiązkowi zwalczania lub notyfikacji w Unii Europejskiej niezwłocznie po powzięciu tego podejrzenia lub stwierdzeniu choroby;
+- **1)** informację o powzięciu podejrzenia lub o stwierdzeniu choroby zakaźnej zwierząt podlegającej: obowiązkowi zwalczania lub notyfikacji w Unii Europejskiej – niezwłocznie po powzięciu tego podejrzenia lub stwierdzeniu choroby;
     - **a)**
     - **b)**
 
@@ -331,7 +340,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 - **1)** wykaz chorób zakaźnych zwierząt podlegających notyfikacji w Unii Europejskiej,
 - **2)** zakres, sposób i terminy przekazywania przez powiatowych i wojewódzkich lekarzy weterynarii, a także podmioty, o których mowa w ust. 2, informacji o chorobach wymienionych w wykazie, o którym mowa w pkt 1,
-- **3)** zakres, sposób i terminy dokonywania przez Głównego Lekarza Weterynarii powiadomienia, o którym mowa w ust. 6 pkt 3 lit. a mając na względzie potrzebę ujednolicenia sposobu powiadamiania o występowaniu tych chorób w państwach członkowskich Unii Europejskiej.
+- **3)** zakres, sposób i terminy dokonywania przez Głównego Lekarza Weterynarii powiadomienia, o którym mowa w ust. 6 pkt 3 lit. a – mając na względzie potrzebę ujednolicenia sposobu powiadamiania o występowaniu tych chorób w państwach członkowskich Unii Europejskiej.
 
 8. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
@@ -341,7 +350,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
     - **c)**
 
 - **2)** wzory ksiąg, o których mowa w ust. 3,
-- **3)** zakres, sposób i terminy dokonywania przez Głównego Lekarza Weterynarii powiadomienia, o którym mowa w ust. 6 pkt 3 lit. b i c mając na względzie zapewnienie sprawnego funkcjonowania systemu przechowywania i przekazywania informacji oraz powiadamiania Komisji Europejskiej. ” ;
+- **3)** zakres, sposób i terminy dokonywania przez Głównego Lekarza Weterynarii powiadomienia, o którym mowa w ust. 6 pkt 3 lit. b i c – mając na względzie zapewnienie sprawnego funkcjonowania systemu przechowywania i przekazywania informacji oraz powiadamiania Komisji Europejskiej. ” ;
 - **21)** art. 52 otrzymuje brzmienie: „
 
 **Art. 52.**
@@ -544,10 +553,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 - **7)** choroba guzowatej skóry bydła (Lumpy skin disease – LSD); ” , uchyla się pkt 17;
     - **b)**
 
-- **37)** dodaje się załącznik nr 5 w brzmieniu określonym w załączniku do niniejszej ustawy.
-
-**Art. 2.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. Nr 33, poz. 287, Nr 91, poz. 877 i Nr 273, poz. 2703) wprowadza się następujące zmiany:
-
+- **37)** dodaje się załącznik nr 5 w brzmieniu określonym w załączniku do niniejszej ustawy. W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. Nr 33, poz. 287, Nr 91, poz. 877 i Nr 273, poz. 2703) wprowadza się następujące zmiany:
 - **1)** art. 2 otrzymuje brzmienie: „ Ilekroć w ustawie jest mowa o prawodawstwie weterynaryjnym – rozumie się przez to przepisy Unii Europejskiej dotyczące zdrowia zwierząt i zdrowia publicznego w zakresie weterynarii, a także przepisy wdrażające te przepisy, w szczególności przepisy o weterynaryjnej kontroli granicznej, kontroli weterynaryjnej w handlu, wymaganiach weterynaryjnych dla produktów pochodzenia zwierzęcego, ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, a także o ochronie zwierząt. ” ;
 - **2)** w art. 3 w ust. 2: pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -583,7 +589,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 - **2)** badania kontrolne zakażeń zwierząt,
 - **3)** monitorowanie chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych podlegających obowiązkowi monitorowania oraz związanej z nimi oporności na środki przeciwdrobnoustrojowe u zwierząt, w produktach pochodzenia zwierzęcego i środkach żywienia zwierząt,
 - **4)** prowadzenie monitorowania substancji niedozwolonych, pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych u zwierząt, w ich wydzielinach i wydalinach, w tkankach lub narządach zwierząt, w produktach pochodzenia zwierzęcego, w wodzie przeznaczonej do pojenia zwierząt oraz środkach żywienia zwierząt,
-- **5)** realizację rocznych planów urzędowej kontroli środków żywienia zwierząt i pasz leczniczych mając na względzie pełną ewidencję wydatków ponoszonych przez Inspekcję na realizację tych zadań oraz potrzebę racjonalnego wydatkowania środków budżetowych. ” ;
+- **5)** realizację rocznych planów urzędowej kontroli środków żywienia zwierząt i pasz leczniczych – mając na względzie pełną ewidencję wydatków ponoszonych przez Inspekcję na realizację tych zadań oraz potrzebę racjonalnego wydatkowania środków budżetowych. ” ;
 - **4)** w art. 13 w ust. 1: pkt 6 otrzymuje brzmienie: „
     - **a)**
 
@@ -647,7 +653,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 1. Inspekcja pobiera opłaty za:
 
-- **1)** kontrolę: zwierząt, produktów, połączoną z pobraniem próbek do badań laboratoryjnych przeznaczonych do wywozu, handlu lub przemieszczania w celach niehandlowych albo umieszczenia na rynku krajowym, jeżeli przepisy odrębne wymagają zaopatrzenia ich w dokument wystawiony przez urzędowego lekarza weterynarii;
+- **1)** kontrolę: zwierząt, produktów, połączoną z pobraniem próbek do badań laboratoryjnych – przeznaczonych do wywozu, handlu lub przemieszczania w celach niehandlowych albo umieszczenia na rynku krajowym, jeżeli przepisy odrębne wymagają zaopatrzenia ich w dokument wystawiony przez urzędowego lekarza weterynarii;
     - **a)**
     - **b)**
 
@@ -695,10 +701,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 - **1)** szczegółowy sposób ustalania i wysokość opłat za wykonanie czynności, o których mowa w art. 30 ust. 1,
 - **2)** sposób i miejsce pobierania opłat,
-- **3)** sposób przekazywania Komisji Europejskiej informacji w zakresie określonym w pkt 1 i 2 mając na względzie przepisy Unii Europejskiej w zakresie zasad pobierania i wysokości opłat za czynności weterynaryjne. ” .
-
-**Art. 3.** W ustawie z dnia 29 stycznia 2004 r. o wymaganiach weterynaryjnych dla produktów pochodzenia zwierzęcego (Dz. U. Nr 33, poz. 288 oraz z 2005 r. Nr 10, poz. 68) wprowadza się następujące zmiany:
-
+- **3)** sposób przekazywania Komisji Europejskiej informacji w zakresie określonym w pkt 1 i 2 – mając na względzie przepisy Unii Europejskiej w zakresie zasad pobierania i wysokości opłat za czynności weterynaryjne. ” . W ustawie z dnia 29 stycznia 2004 r. o wymaganiach weterynaryjnych dla produktów pochodzenia zwierzęcego (Dz. U. Nr 33, poz. 288 oraz z 2005 r. Nr 10, poz. 68) wprowadza się następujące zmiany:
 - **1)** w art. 2: pkt 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -711,8 +714,6 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 - **7)** zakład – obiekt lub kilka obiektów, posiadających ten sam weterynaryjny numer identyfikacyjny, połączonych funkcjonalnie i znajdujących się na tym samym terenie, statek rybacki, statek przetwórnię lub rynki hurtowe, w których produkuje się produkty pochodzenia zwierzęcego w celu umieszczenia na rynku, a także pomieszczenia gospodarstwa, w którym pozyskuje się produkty pochodzenia zwierzęcego, z wyjątkiem miejsc lub pomieszczeń, w których zwierzęta są utrzymywane; ” ;
 - **2)** po art. 4 dodaje się art. 4a w brzmieniu: „
 
-**Art. 4a.**
-
 1. Produkty pochodzenia zwierzęcego mogą być umieszczane na rynku, jeżeli zostały pozyskane od zwierząt lub ze zwierząt, które spełniają wymagania weterynaryjne określone w przepisach o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 
 2. Produkty pochodzenia zwierzęcego mogą być umieszczane na rynku, jeżeli pozyskuje się je od zwierząt lub ze zwierząt niepochodzących z gospodarstwa, zakładu, obszaru podlegającego ograniczeniom, nakazom lub zakazom ustanowionym na podstawie przepisów o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt ze względu na chorobę zakaźną zwierząt wymienioną w przepisach wydanych na podstawie art. 5a ust. 2.
@@ -720,14 +721,12 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 3. Mięso i produkty mięsne nie mogą być umieszczane na rynku, jeżeli zostały pozyskane ze zwierząt poddanych ubojowi w rzeźni w czasie, gdy znajdowały się tam:
 
 - **1)** zwierzęta podejrzane o zakażenie lub zakażone, podejrzane o chorobę lub chore na jedną z chorób zakaźnych zwierząt wymienioną w przepisach wydanych na podstawie art. 5a ust. 2,
-- **2)** tusze lub części tusz zwierząt, o których mowa w pkt 1 chyba że takie podejrzenie, zakażenie lub choroba zostały wykluczone.
+- **2)** tusze lub części tusz zwierząt, o których mowa w pkt 1 – chyba że takie podejrzenie, zakażenie lub choroba zostały wykluczone.
 
 4. Produkty akwakultury umieszczane na rynku mogą pochodzić z gospodarstwa podlegającego ograniczeniom, nakazom lub zakazom ustanowionym na podstawie przepisów o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, jeżeli nie są rybami lub mięczakami zakażonymi lub chorymi na jedną z chorób zakaźnych zwierząt, wymienioną w przepisach wydanych na podstawie art. 5a ust. 2, lub nie pochodzą od lub z takich zwierząt. ” ;
 
 - **3)** w art. 5 uchyla się ust. 3;
 - **4)** po art. 5 dodaje się art. 5a w brzmieniu: „
-
-**Art. 5a.**
 
 1. Dopuszcza się produkcję produktów pochodzenia zwierzęcego na obszarach podlegających ograniczeniom ustanowionym na podstawie przepisów o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt lub umieszczanie na rynku produktów pochodzenia zwierzęcego pochodzących z takich obszarów, jeżeli:
 
@@ -739,10 +738,8 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 - **1)** wykaz chorób zakaźnych zwierząt, ze względu na które wprowadza się zakaz albo ograniczenie umieszczania na rynku produktów pochodzenia zwierzęcego,
 - **2)** sposób produkcji i znakowania produktów pochodzenia zwierzęcego, o których mowa w ust. 1,
-- **3)** wymagania, jakie powinno spełniać świadectwo zdrowia dla produktów, o których mowa w ust. 1 mając na uwadze ochronę zdrowia publicznego, zapobieganie przenoszeniu chorób zakaźnych zwierząt oraz obowiązujące w tym zakresie przepisy Unii Europejskiej. ” ;
+- **3)** wymagania, jakie powinno spełniać świadectwo zdrowia dla produktów, o których mowa w ust. 1 – mając na uwadze ochronę zdrowia publicznego, zapobieganie przenoszeniu chorób zakaźnych zwierząt oraz obowiązujące w tym zakresie przepisy Unii Europejskiej. ” ;
 - **5)** po art. 6 dodaje się art. 6a i 6b w brzmieniu: „
-
-**Art. 6a.**
 
 1. Dopuszcza się przywóz z państwa trzeciego produktów pochodzenia zwierzęcego przeznaczonych na rynek krajowy, dla których nie określono wymagań weterynaryjnych w przepisach Unii Europejskiej, jeżeli:
 
@@ -830,7 +827,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 - **1)** kwalifikacje wymagane od osób wykonujących zabiegi odkażania lub zwalczania szkodników w zakładach,
 - **2)** sposób i warunki uzyskiwania kwalifikacji, o których mowa w ust. 1, w tym zakres szkolenia tych osób,
 - **3)** wzór zaświadczenia potwierdzającego uzyskanie kwalifikacji,
-- **4)** tryb powoływania komisji przeprowadzającej egzaminy oraz zakres i sposób przeprowadzania egzaminu mając na względzie spełnienie wymagań weterynaryjnych w zakładach oraz ochronę zdrowia publicznego. ” ;
+- **4)** tryb powoływania komisji przeprowadzającej egzaminy oraz zakres i sposób przeprowadzania egzaminu – mając na względzie spełnienie wymagań weterynaryjnych w zakładach oraz ochronę zdrowia publicznego. ” ;
 - **14)** w art. 22: w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
 
@@ -863,11 +860,7 @@ Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2
 
 - **1)** art. 10 ust. 1 pkt 1 i ust. 2, art. 40, art. 51 ust. 8 pkt 1, art. 53 ust. 4 oraz art. 61 pkt 1 ustawy wymienionej w art. 1,
 - **2)** art. 12 ust. 5 i art. 33 ustawy wymienionej w art. 2,
-- **3)** art. 8 ust. 4 ustawy wymienionej w art. 3 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 10 ust. 1 pkt 1 i ust. 2, art. 40, art. 51 ust. 7 pkt 1–3, art. 53 ust. 4 oraz art. 61 pkt 1 ustawy wymienionej w art. 1, art. 12 ust. 5 i art. 33 ustawy wymienionej w art. 2 oraz art. 8 ust. 4 ustawy wymienionej w art. 3, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 11, który wchodzi w życie z dniem 1 stycznia 2006 r.
-
-- **1)** Niniejszą ustawą zmienia się: ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej i ustawę z dnia 29 stycznia 2004 r. o wymaganiach weterynaryjnych dla produktów pochodzenia zwierzęcego.Przepisy niniejszej ustawy:
+- **3)** art. 8 ust. 4 ustawy wymienionej w art. 3 – zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 10 ust. 1 pkt 1 i ust. 2, art. 40, art. 51 ust. 7 pkt 1–3, art. 53 ust. 4 oraz art. 61 pkt 1 ustawy wymienionej w art. 1, art. 12 ust. 5 i art. 33 ustawy wymienionej w art. 2 oraz art. 8 ust. 4 ustawy wymienionej w art. 3, w brzmieniu nadanym niniejszą ustawą. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 11, który wchodzi w życie z dniem 1 stycznia 2006 r. 1) Niniejszą ustawą zmienia się: ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej i ustawę z dnia 29 stycznia 2004 r. o wymaganiach weterynaryjnych dla produktów pochodzenia zwierzęcego.Przepisy niniejszej ustawy:
 - **1)** wdrażają postanowienia: dyrektywy Rady 95/70/WE z dnia 22 grudnia 1995 r. wprowadzającej minimalne wspólnotowe środki zwalczania niektórych chorób małży dwuskorupowych (Dz. Urz. WE L 332 z 30.12.1995), dyrektywy Rady 2001/89/WE z dnia 23 października 2001 r. w sprawie wspólnotowych środków zwalczania klasycznego pomoru świń (Dz. Urz. WE L 316 z 01.12.2001), dyrektywy Rady 2002/99/WE z dnia 16 grudnia 2002 r. ustanawiającej przepisy sanitarne regulujące produkcję, przetwarzanie, dystrybucję oraz wprowadzanie produktów pochodzenia zwierzęcego przeznaczonych do spożycia przez ludzi (Dz. Urz. WE L 018 z 23.01.2003), dyrektywy Rady 2003/85/WE z dnia 29 września 2003 r. w sprawie wspólnotowych środków zwalczania pryszczycy, uchylającej dyrektywę 85/511/EWG i decyzje 89/531/EWG i 91/665/EWG oraz zmieniającej dyrektywę 92/46/EWG (Dz. Urz. WE L 306 z 22.11.2003), dyrektywy Parlamentu Europejskiego i Rady 2003/99/WE z dnia 17 listopada 2003 r. w sprawie monitorowania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych, zmieniającej decyzję Rady 90/424/EWG i uchylającej dyrektywę Rady 92/117/EWG (Dz. Urz. WE L 325 z 12.12.2003);
     - **a)**
     - **b)**

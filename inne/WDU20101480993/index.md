@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-08-12 |
 | Data wydania | 2010-08-13 |
-| Wejście w życie | 2010-08-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101480993) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/993/text.pdf) |
 
@@ -46,9 +45,9 @@ source: "eli-html"
 1. W przypadku zmiany przepisów wydanych na podstawie art. 2 ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu, polegającej na uzupełnieniu wykazu gmin i miejscowości, w których stosuje się szczególne zasady odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku powodzi, osunięcia ziemi, wiatru lub intensywnych opadów atmosferycznych, związanej z powodzią mającą miejsce po dniu 1 sierpnia 2010 r., Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** terminy, o których mowa w art. 15, art. 17 ust. 2, art. 18 ust. 3 i art. 36 ust. 2,
-- **2)** okresy, o których mowa w art. 16, art. 17 ust. 1 pkt 2, art. 19 ust. 1 i 4, art. 23 ust. 2, art. 36 ust. 1 i art. 39 ust. 1 mając na uwadze, że muszą one odpowiadać długością terminom, o których mowa w art. 15, art. 17 ust. 2, art. 18 ust. 3 i art. 36 ust. 2, a także okresom, o których mowa w art. 16, art. 17 ust. 1 pkt 2, art. 19 ust. 1 i 4, art. 23 ust. 2, art. 36 ust. 1 i art. 39 ust. 1.
+- **2)** okresy, o których mowa w art. 16, art. 17 ust. 1 pkt 2, art. 19 ust. 1 i 4, art. 23 ust. 2, art. 36 ust. 1 i art. 39 ust. 1 – mając na uwadze, że muszą one odpowiadać długością terminom, o których mowa w art. 15, art. 17 ust. 2, art. 18 ust. 3 i art. 36 ust. 2, a także okresom, o których mowa w art. 16, art. 17 ust. 1 pkt 2, art. 19 ust. 1 i 4, art. 23 ust. 2, art. 36 ust. 1 i art. 39 ust. 1.
 
-2. W przypadku wydania przepisów na podstawie ust. 1, ilekroć przepisy ustawy odnoszą się do zdarzeń lub terminów określonych dniem wejścia w życie ustawy, zdarzenia te lub terminy odnosi się do dnia wejścia w życie przepisów wydanych na podstawie ust. 1. ” . W ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.) wprowadza się następujące zmiany:
+2. W przypadku wydania przepisów na podstawie ust. 1, ilekroć przepisy ustawy odnoszą się do zdarzeń lub terminów określonych dniem wejścia w życie ustawy, zdarzenia te lub terminy odnosi się do dnia wejścia w życie przepisów wydanych na podstawie ust. 1. ” . W ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105 oraz z 2010 r. Nr 76, poz. 490.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 1 po pkt 16 dodaje się pkt 16a w brzmieniu: „
 - **16a)** przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych; ” ;
@@ -64,5 +63,5 @@ source: "eli-html"
 
 2. Do przyznawania pomocy na inwestycje określone w ust. 1 mogą być wykorzystywane szacunki dotyczące wysokości i zakresu szkód spowodowanych przez powódź oraz obsunięcia się ziemi wywołane opadami atmosferycznymi, które miały miejsce w 2010 r., dokonane w 2010 r. przez komisję, o której mowa w art. 4 ust. 7 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634 i Nr 227, poz. 1505, z 2009 r. Nr 115, poz. 961 oraz z 2010 r. Nr 76, poz. 490).
 
-**Art. 5.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105 oraz z 2010 r. Nr 76, poz. 490.
 

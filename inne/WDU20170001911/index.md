@@ -22,11 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-13 |
 | Data wydania | 2017-10-13 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2025-03-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001911) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1911/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczególne zasady rachunkowości dla budżetów i jednostek Rozdział 3 – Szczególne zasady rachunkowości dla placówek Rozdział 4 – Plany kont Rozdział 5 – Sprawozdawczość finansowa Rozdział 6 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Szczególne zasady rachunkowości dla budżetów i jednostek
+
+#### Rozdział 3 – Szczególne zasady rachunkowości dla placówek
+
+#### Rozdział 4 – Plany kont
+
+#### Rozdział 5 – Sprawozdawczość finansowa
+
+#### Rozdział 6 – Przepisy przejściowe i końcowe
 
 ## Załącznik nr 1 — – Plan kont dla budżetu państwa
 
@@ -53,8 +64,9 @@ Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczeg�
 ## Załącznik nr 12 — – Informacja dodatkowa (wzór)
 
 Treść rozporządzenia
-Na podstawie art. 40 ust. 4 pkt 1 lit. a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Na podstawie art. 40 ust. 4 pkt 1 lit. a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczególne zasady rachunkowości oraz plany kont dla:
 1)
@@ -81,7 +93,8 @@ placówce − rozumie się przez to państwową jednostkę budżetową mającą 
 jednostce nadrzędnej − rozumie się przez to jednostkę obsługującą organ będący dysponentem części budżetowej, który nadzoruje jednostkę budżetową lub któremu podlega ta jednostka;
 5)
 środkach trwałych − rozumie się przez to środki, o których mowa w art. 3 ust. 1 pkt 15 ustawy o rachunkowości, w tym środki trwałe stanowiące własność Skarbu Państwa lub jednostki samorządu terytorialnego, otrzymane w zarząd lub użytkowanie i przeznaczone na potrzeby jednostki.
-Rozdział 2 Szczególne zasady rachunkowości dla budżetów i jednostek
+Rozdział 2
+Szczególne zasady rachunkowości dla budżetów i jednostek
 § 3.
 Ustalenie nadwyżki lub deficytu budżetu państwa oraz nadwyżki lub deficytu budżetu środków europejskich następuje na odrębnych kontach księgowych w zakresie faktycznie (kasowo) zrealizowanych podatkowych i niepodatkowych dochodów i wydatków budżetu państwa oraz na odrębnych kontach księgowych w zakresie faktycznie (kasowo) zrealizowanych dochodów i wydatków budżetu środków europejskich.
 § 4.
@@ -89,15 +102,14 @@ Państwowe jednostki budżetowe ujmują w księgach rachunkowych:
 1)
 podatkowe i niepodatkowe dochody budżetu państwa i wydatki budżetu państwa faktycznie (kasowo) zrealizowane na rachunkach bankowych dochodów lub wydatków budżetowych w danym roku budżetowym,
 2)
-wydatki budżetu środków europejskich faktycznie (kasowo) zrealizowane lub zrealizowane przez Bank Gospodarstwa Krajowego na podstawie zleceń płatności w danym roku budżetowym
-− z uwzględnieniem okresu przejściowego określonego w odrębnych przepisach.
+wydatki budżetu środków europejskich faktycznie (kasowo) zrealizowane lub zrealizowane przez Bank Gospodarstwa Krajowego na podstawie zleceń płatności w danym roku budżetowym − z uwzględnieniem okresu przejściowego określonego w odrębnych przepisach.
 § 5.
 W celu ustalenia nadwyżki lub deficytu budżetów jednostek samorządu terytorialnego operacje dotyczące ich dochodów i wydatków są ujmowane w księgach rachunkowych na odrębnych kontach księgowych w zakresie faktycznie (kasowo) zrealizowanych wpływów i wydatków dokonanych na bankowych rachunkach budżetów oraz rachunkach bieżących dochodów i wydatków budżetowych jednostek budżetowych, z wyjątkiem operacji szczególnych określonych w odrębnych przepisach.
 § 6.
 Środki trwałe stanowiące własność Skarbu Państwa lub jednostki samorządu terytorialnego otrzymane na podstawie decyzji właściwego organu nieodpłatnie mogą być wycenione w wartości określonej w tej decyzji.
 § 7.
 1.
-Środki trwałe oraz wartości niematerialne i prawne umarza się lub amortyzuje. Odpisów umorzeniowych lub amortyzacyjnych dokonuje się według zasad przyjętych przez jednostkę zgodnie z przepisami ustawy o rachunkowości. Ustalając zasady umarzania lub amortyzacji, jednostka może przyjąć stawki określone w ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, z późn. zm.) albo stawki określone przez jednostkę nadrzędną albo zarząd jednostki samorządu terytorialnego.
+Środki trwałe oraz wartości niematerialne i prawne umarza się lub amortyzuje. Odpisów umorzeniowych lub amortyzacyjnych dokonuje się według zasad przyjętych przez jednostkę zgodnie z przepisami ustawy o rachunkowości. Ustalając zasady umarzania lub amortyzacji, jednostka może przyjąć stawki określone w ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1926, 1933 i 1948 oraz z 2017 r. poz. 60, 624, 648, 1089, 1448 i 1566.) albo stawki określone przez jednostkę nadrzędną albo zarząd jednostki samorządu terytorialnego.
 2.
 Jednorazowo, przez spisanie w koszty w miesiącu przyjęcia do używania, mogą być umarzane:
 1)
@@ -142,7 +154,8 @@ Należności i zobowiązania oraz inne składniki aktywów i pasywów wyrażone 
 Jednostki postawione w stan likwidacji wyceniają aktywa według zasad określonych dla jednostek kontynuujących działalność, chyba że przepisy o likwidacji jednostki stanowią inaczej.
 § 14.
 Jednostki nie dokonują biernych rozliczeń międzyokresowych kosztów wynikających z obowiązku wykonania przyszłych świadczeń na rzecz pracowników, w tym świadczeń emerytalnych.
-Rozdział 3 Szczególne zasady rachunkowości dla placówek
+Rozdział 3
+Szczególne zasady rachunkowości dla placówek
 § 15.
 Placówki prowadzą rachunkowość w walutach wynikających z zatwierdzonych planów finansowych lub w walutach określonych przez jednostkę obsługującą organ, któremu placówka podlega.
 § 16.
@@ -156,7 +169,8 @@ Placówki prowadzą rachunkowość w walutach wynikających z zatwierdzonych pla
 Przepisy § 10−12 stosuje się do należności i zobowiązań placówek.
 § 18.
 Okresem sprawozdawczym placówki jest kwartał.
-Rozdział 4 Plany kont
+Rozdział 4
+Plany kont
 § 19.
 1.
 Plan kont dla:
@@ -205,7 +219,8 @@ ponoszone koszty ujmuje się tylko na kontach zespołu 4 „Koszty według rodza
 ponoszone koszty ujmuje się tylko na kontach zespołu 5 „Koszty według typów działalności i ich rozliczenie” z odpowiednim wyodrębnieniem na kontach analitycznych kosztów w układzie rodzajowym;
 3)
 ponoszone koszty ujmuje się zarówno na kontach zespołu 4 „Koszty według rodzajów i ich rozliczenie”, jak i w zespole 5 „Koszty według typów działalności i ich rozliczenie” z dalszym ich rozliczeniem na konta zespołu 6 „Produkty” i 7 „Przychody, dochody i koszty”.
-Rozdział 5 Sprawozdawczość finansowa
+Rozdział 5
+Sprawozdawczość finansowa
 § 23.
 1.
 Na dzień zamknięcia ksiąg rachunkowych jednostki sporządzają sprawozdanie finansowe składające się z:
@@ -314,8 +329,7 @@ ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2017 r. poz. 187
 2)
 ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2017 r. poz. 1868),
 3)
-ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2016 r. poz. 486, z późn. zm.)
-− podpisują kierownik jednostki obsługującej odpowiednio do zakresu wykonywanych zadań wynikających z przepisów odrębnych i główny księgowy jednostki obsługującej, o której mowa odpowiednio w ustawie z dnia 8 marca 1990 r. o samorządzie gminnym, ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym albo ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa.
+ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2016 r. poz. 486, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 730, 935, 1475 i 1566.) − podpisują kierownik jednostki obsługującej odpowiednio do zakresu wykonywanych zadań wynikających z przepisów odrębnych i główny księgowy jednostki obsługującej, o której mowa odpowiednio w ustawie z dnia 8 marca 1990 r. o samorządzie gminnym, ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym albo ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa.
 § 34.
 1.
 Kierownicy jednostek, w tym jednostek obsługujących, przekazują sprawozdania finansowe odpowiednio jednostkom nadrzędnym albo zarządom jednostek samorządu terytorialnego w terminie do dnia 31 marca roku następnego.
@@ -341,13 +355,14 @@ W przypadku braku możliwości terminowego przekazania sprawozdań w sposób okr
 Sprawozdania finansowe, o których mowa w ust. 1, oraz łączne sprawozdanie finansowe, o którym mowa w § 27 ust. 1, są publikowane w terminie do dnia 10 maja roku następnego w Biuletynie Informacji Publicznej jednostek sporządzających sprawozdania. Przepis stosuje się odpowiednio do bilansu budżetu państwa.
 10.
 W Biuletynie Informacji Publicznej jednostki obsługiwanej umieszcza się informację o miejscu publikacji sprawozdania finansowego tej jednostki.
-Rozdział 6 Przepisy przejściowe i końcowe
+Rozdział 6
+Przepisy przejściowe i końcowe
 § 35.
 Przepisy rozporządzenia mają zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych za rok 2018.
 § 36.
 Traci moc rozporządzenie Ministra Finansów z dnia 5 lipca 2010 r. w sprawie szczególnych zasad rachunkowości oraz planów kont dla budżetu państwa, budżetów jednostek samorządu terytorialnego, jednostek budżetowych, samorządowych zakładów budżetowych, państwowych funduszy celowych oraz państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej (Dz. U. z 2017 r. poz. 760).
 § 37.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1926, 1933 i 1948 oraz z 2017 r. poz. 60, 624, 648, 1089, 1448 i 1566. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 730, 935, 1475 i 1566.
 
 ## Załącznik nr 1 — – Plan kont dla budżetu państwa
 
@@ -431,8 +446,7 @@ Konto 140 – „Środki pieniężne w drodze” Konto 140 służy do ewidencji 
 2)
 kwot wpłacanych przez inkasentów za pośrednictwem poczty lub bezpośrednio do banku z tytułu dochodów budżetowych w przypadku potwierdzenia wpłaty przez bank w następnym okresie sprawozdawczym;
 3)
-przelewów dochodów budżetowych zrealizowanych przez bank płatnika w okresie sprawozdawczym i objętych wyciągami bankowymi z rachunku bieżącego budżetu w następnym okresie sprawozdawczym. Stosownie do przyjętej techniki księgowania środki pieniężne w drodze mogą być ewidencjonowane na bieżąco lub tylko na przełomie okresów sprawozdawczych.
-Na stronie Wn konta 140 ujmuje się zwiększenia stanu środków pieniężnych w drodze, a na stronie Ma – zmniejszenia stanu środków pieniężnych w drodze. Konto 140 może wykazywać saldo Wn, które oznacza stan środków pieniężnych w drodze.
+przelewów dochodów budżetowych zrealizowanych przez bank płatnika w okresie sprawozdawczym i objętych wyciągami bankowymi z rachunku bieżącego budżetu w następnym okresie sprawozdawczym. Stosownie do przyjętej techniki księgowania środki pieniężne w drodze mogą być ewidencjonowane na bieżąco lub tylko na przełomie okresów sprawozdawczych. Na stronie Wn konta 140 ujmuje się zwiększenia stanu środków pieniężnych w drodze, a na stronie Ma – zmniejszenia stanu środków pieniężnych w drodze. Konto 140 może wykazywać saldo Wn, które oznacza stan środków pieniężnych w drodze.
 5)
 Konto 222 – „Rozliczenie dochodów budżetowych” Konto 222 służy do ewidencji rozliczeń z jednostkami budżetowymi z tytułu zrealizowanych przez te jednostki dochodów budżetowych. Na stronie Wn konta 222 ujmuje się dochody budżetowe zrealizowane przez jednostki budżetowe i urząd obsługujący organ podatkowy jednostki samorządu terytorialnego, w wysokości wynikającej z okresowych sprawozdań tych jednostek, w korespondencji z kontem 901. Na stronie Ma konta 222 ujmuje się przelewy dochodów budżetowych na rachunek budżetu, dokonane przez jednostki budżetowe i urząd obsługujący organ podatkowy jednostki samorządu terytorialnego, w korespondencji z kontem 133. Ewidencję szczegółową do konta 222 prowadzi się w sposób umożliwiający ustalenie stanu rozliczeń z poszczególnymi jednostkami budżetowymi oraz urzędem obsługującym organ podatkowy jednostki samorządu terytorialnego z tytułu zrealizowanych przez nie dochodów budżetowych. Konto 222 może wykazywać dwa salda. Saldo Wn konta 222 oznacza stan zrealizowanych dochodów budżetowych objętych okresowymi sprawozdaniami, lecz nieprzekazanych na rachunek budżetu. Saldo Ma konta 222 oznacza stan dochodów budżetowych przekazanych przez jednostki budżetowe i urząd obsługujący organ podatkowy jednostki samorządu terytorialnego na rachunek budżetu, lecz nieobjętych okresowymi sprawozdaniami.
 6)
@@ -446,8 +460,7 @@ rozrachunków z tytułu udziałów w dochodach innych budżetów;
 3)
 rozrachunków z tytułu dotacji i subwencji;
 4)
-rozrachunków z tytułu dochodów pobranych na rzecz budżetu państwa.
-Ewidencja szczegółowa do konta 224 powinna umożliwić ustalenie stanu należności i zobowiązań według poszczególnych tytułów oraz według poszczególnych budżetów. Konto 224 może wykazywać dwa salda. Saldo Wn konta 224 oznacza stan należności, a saldo Ma konta 224 – stan zobowiązań budżetu z tytułu pozostałych rozrachunków.
+rozrachunków z tytułu dochodów pobranych na rzecz budżetu państwa. Ewidencja szczegółowa do konta 224 powinna umożliwić ustalenie stanu należności i zobowiązań według poszczególnych tytułów oraz według poszczególnych budżetów. Konto 224 może wykazywać dwa salda. Saldo Wn konta 224 oznacza stan należności, a saldo Ma konta 224 – stan zobowiązań budżetu z tytułu pozostałych rozrachunków.
 8)
 Konto 225 – „Rozliczenie niewygasających wydatków” Konto 225 służy do ewidencji rozliczeń z jednostkami budżetowymi z tytułu zrealizowanych przez te jednostki niewygasających wydatków. Na stronie Wn konta 225 ujmuje się środki przelane z rachunku budżetu na pokrycie niewygasających wydatków jednostek budżetowych. Na stronie Ma konta 225 ujmuje się wydatki zrealizowane przez jednostki budżetowe w korespondencji z kontem 904 oraz przelewy środków niewykorzystanych w korespondencji z kontem 135. Ewidencja szczegółowa prowadzona do konta 225 powinna zapewnić możliwość ustalenia stanu rozliczeń z poszczególnymi jednostkami budżetowymi z tytułu przekazanych im środków na realizację niewygasających wydatków. Konto 225 może wykazywać saldo Wn, które oznacza stan nierozliczonych środków przekazanych jednostkom budżetowym na realizację niewygasających wydatków.
 9)
@@ -471,15 +484,13 @@ z innych tytułów, w szczególności subwencje i dotacje, w korespondencji z ko
 5)
 pochodzące ze źródeł zagranicznych niepodlegające zwrotowi, w korespondencji z kontem 133;
 6)
-pochodzące z budżetu Unii Europejskiej, w korespondencji z kontem 133.
-Ewidencja szczegółowa prowadzona do konta 901 powinna umożliwiać ustalenie stanu poszczególnych dochodów budżetu według podziałek planu finansowego. Saldo Ma konta 901 oznacza sumę dochodów budżetu jednostki samorządu terytorialnego za dany rok. Pod datą ostatniego dnia roku budżetowego saldo konta 901 przenosi się na konto 961.
+pochodzące z budżetu Unii Europejskiej, w korespondencji z kontem 133. Ewidencja szczegółowa prowadzona do konta 901 powinna umożliwiać ustalenie stanu poszczególnych dochodów budżetu według podziałek planu finansowego. Saldo Ma konta 901 oznacza sumę dochodów budżetu jednostki samorządu terytorialnego za dany rok. Pod datą ostatniego dnia roku budżetowego saldo konta 901 przenosi się na konto 961.
 14)
 Konto 902 – „Wydatki budżetu” Konto 902 służy do ewidencji wydatków budżetu jednostki samorządu terytorialnego. Na stronie Wn konta 902 ujmuje się w szczególności wydatki:
 1)
 jednostek budżetowych na podstawie ich sprawozdań budżetowych, w korespondencji z kontem 223;
 2)
-realizowane z kredytu uruchomionego w formie realizacji zleceń płatniczych, w korespondencji z kontem 134.
-Ewidencja szczegółowa prowadzona do konta 902 powinna umożliwiać ustalenie stanu poszczególnych wydatków budżetu według podziałek klasyfikacji. Saldo Wn konta 902 oznacza sumę wydatków budżetu jednostki samorządu terytorialnego za dany rok. Pod datą ostatniego dnia roku budżetowego saldo konta 902 przenosi się na konto 961.
+realizowane z kredytu uruchomionego w formie realizacji zleceń płatniczych, w korespondencji z kontem 134. Ewidencja szczegółowa prowadzona do konta 902 powinna umożliwiać ustalenie stanu poszczególnych wydatków budżetu według podziałek klasyfikacji. Saldo Wn konta 902 oznacza sumę wydatków budżetu jednostki samorządu terytorialnego za dany rok. Pod datą ostatniego dnia roku budżetowego saldo konta 902 przenosi się na konto 961.
 15)
 Konto 903 – „Niewykonane wydatki” Konto 903 służy do ewidencji niewykonanych wydatków zatwierdzonych do realizacji w latach następnych. Na stronie Wn konta 903 ujmuje się wartość niewykonanych wydatków zatwierdzonych do realizacji w latach następnych w korespondencji z kontem 904. Pod datą ostatniego dnia roku budżetowego saldo konta 903 przenosi się na konto 961.
 16)
@@ -487,8 +498,7 @@ Konto 904 – „Niewygasające wydatki” Konto 904 służy do ewidencji niewyg
 1)
 wydatki jednostek budżetowych dokonane w ciężar planu niewygasających wydatków, na podstawie ich sprawozdań budżetowych w korespondencji z kontem 225;
 2)
-przeniesienie niewykorzystanych niewygasających wydatków na dochody budżetowe.
-Na stronie Ma konta 904 ujmuje się wielkość zatwierdzonych niewygasających wydatków. Konto 904 może wykazywać saldo Ma do czasu zrealizowania planu niewygasających wydatków lub do czasu wygaśnięcia planu niewygasających wydatków.
+przeniesienie niewykorzystanych niewygasających wydatków na dochody budżetowe. Na stronie Ma konta 904 ujmuje się wielkość zatwierdzonych niewygasających wydatków. Konto 904 może wykazywać saldo Ma do czasu zrealizowania planu niewygasających wydatków lub do czasu wygaśnięcia planu niewygasających wydatków.
 17)
 Konto 909 – „Rozliczenia międzyokresowe” Konto 909 służy do ewidencji rozliczeń międzyokresowych. Na stronie Wn konta 909 ujmuje się w szczególności koszty finansowe okresu sprawozdawczego stanowiące wydatki przyszłych okresów (np. odsetki od zaciągniętych kredytów i pożyczek w korespondencji z kontami 134 lub 260), a na stronie Ma – przychody finansowe stanowiące dochody przyszłych okresów (np.: subwencje i dotacje przekazane w grudniu dotyczące następnego roku budżetowego). Ewidencja szczegółowa prowadzona do konta 909 powinna umożliwiać ustalenie stanu rozliczeń międzyokresowych według ich tytułów. Konto 909 może wykazywać saldo Wn i Ma.
 18)
@@ -535,15 +545,13 @@ przychody środków trwałych nowo ujawnionych;
 3)
 nieodpłatne przyjęcie środków trwałych;
 4)
-zwiększenia wartości początkowej środków trwałych dokonywane na skutek aktualizacji ich wyceny.
-Na stronie Ma konta 011 ujmuje się w szczególności:
+zwiększenia wartości początkowej środków trwałych dokonywane na skutek aktualizacji ich wyceny. Na stronie Ma konta 011 ujmuje się w szczególności:
 1)
 wycofanie środków trwałych z używania na skutek ich likwidacji, z powodu zniszczenia, zużycia, sprzedaży oraz nieodpłatnego przekazania;
 2)
 ujawnione niedobory środków trwałych;
 3)
-zmniejszenia wartości początkowej środków trwałych dokonywane na skutek aktualizacji ich wyceny.
-Ewidencja szczegółowa prowadzona do konta 011 powinna umożliwić:
+zmniejszenia wartości początkowej środków trwałych dokonywane na skutek aktualizacji ich wyceny. Ewidencja szczegółowa prowadzona do konta 011 powinna umożliwić:
 1)
 ustalenie wartości początkowej poszczególnych obiektów środków trwałych;
 2)
@@ -551,8 +559,7 @@ ustalenie osób lub komórek organizacyjnych, którym powierzono środki trwałe
 3)
 należyte obliczenie umorzenia i amortyzacji;
 4)
-ustalenie wartości gruntów stanowiących własność jednostki samorządu terytorialnego, przekazanych w użytkowanie wieczyste innym podmiotom.
-Konto 011 może wykazywać saldo Wn, które oznacza stan środków trwałych w wartości początkowej.
+ustalenie wartości gruntów stanowiących własność jednostki samorządu terytorialnego, przekazanych w użytkowanie wieczyste innym podmiotom. Konto 011 może wykazywać saldo Wn, które oznacza stan środków trwałych w wartości początkowej.
 3)
 Konto 013 – „Pozostałe środki trwałe” Konto 013 służy do ewidencji stanu oraz zwiększeń i zmniejszeń wartości początkowej środków trwałych, niepodlegających ujęciu na kontach: 011, 014, 016 i 017, wydanych do używania na potrzeby działalności jednostki, które podlegają umorzeniu lub amortyzacji w pełnej wartości w miesiącu wydania do używania. Na stronie Wn konta 013 ujmuje się zwiększenia, a na stronie Ma – zmniejszenia stanu i wartości początkowej pozostałych środków trwałych znajdujących się w używaniu, z wyjątkiem umorzenia ujmowanego na koncie 072. Na stronie Wn konta 013 ujmuje się w szczególności:
 1)
@@ -560,25 +567,21 @@ Konto 013 – „Pozostałe środki trwałe” Konto 013 służy do ewidencji st
 2)
 nadwyżki środków trwałych w używaniu;
 3)
-nieodpłatne otrzymanie środków trwałych.
-Na stronie Ma konta 013 ujmuje się w szczególności:
+nieodpłatne otrzymanie środków trwałych. Na stronie Ma konta 013 ujmuje się w szczególności:
 1)
 wycofanie środków trwałych z używania na skutek likwidacji, zniszczenia, zużycia, sprzedaży, nieodpłatnego przekazania;
 2)
-ujawnione niedobory środków trwałych w używaniu.
-Ewidencja szczegółowa prowadzona do konta 013 powinna umożliwić ustalenie wartości początkowej środków trwałych oddanych do używania oraz osób, u których znajdują się środki trwałe, lub komórek organizacyjnych, w których znajdują się środki trwałe. Konto 013 może wykazywać saldo Wn, które wyraża wartość środków trwałych znajdujących się w używaniu w wartości początkowej.
+ujawnione niedobory środków trwałych w używaniu. Ewidencja szczegółowa prowadzona do konta 013 powinna umożliwić ustalenie wartości początkowej środków trwałych oddanych do używania oraz osób, u których znajdują się środki trwałe, lub komórek organizacyjnych, w których znajdują się środki trwałe. Konto 013 może wykazywać saldo Wn, które wyraża wartość środków trwałych znajdujących się w używaniu w wartości początkowej.
 4)
 Konto 014 – „Zbiory biblioteczne” Konto 014 służy do ewidencji stanu oraz zwiększeń i zmniejszeń wartości zbiorów bibliotecznych bibliotek naukowych, fachowych, szkolnych i pedagogicznych oraz bibliotek publicznych. Na stronie Wn konta 014 ujmuje się zwiększenia, a na stronie Ma – zmniejszenia stanu i wartości początkowej zbiorów bibliotecznych, z wyjątkiem umorzenia, które ujmuje się na koncie 072. Na stronie Wn konta 014 ujmuje się w szczególności:
 1)
 przychód zbiorów bibliotecznych pochodzących z zakupu lub nieodpłatnie otrzymanych;
 2)
-nadwyżki zbiorów bibliotecznych.
-Na stronie Ma konta 014 ujmuje się w szczególności:
+nadwyżki zbiorów bibliotecznych. Na stronie Ma konta 014 ujmuje się w szczególności:
 1)
 rozchód zbiorów bibliotecznych na skutek likwidacji, sprzedaży lub nieodpłatnego przekazania;
 2)
-niedobory zbiorów bibliotecznych.
-Przychody i rozchody zbiorów bibliotecznych wycenia się według cen nabycia. Przychody z tytułu nieodpłatnego otrzymania lub nadwyżki wycenia się zgodnie z komisyjnym oszacowaniem ich wartości. Ewidencja szczegółowa prowadzona do konta 014 powinna umożliwić ustalenie stanu poszczególnych zbiorów bibliotecznych, z dalszym podziałem określonym w odrębnych przepisach. Konto 014 może wykazywać saldo Wn, które oznacza stan zbiorów bibliotecznych znajdujących się w jednostce.
+niedobory zbiorów bibliotecznych. Przychody i rozchody zbiorów bibliotecznych wycenia się według cen nabycia. Przychody z tytułu nieodpłatnego otrzymania lub nadwyżki wycenia się zgodnie z komisyjnym oszacowaniem ich wartości. Ewidencja szczegółowa prowadzona do konta 014 powinna umożliwić ustalenie stanu poszczególnych zbiorów bibliotecznych, z dalszym podziałem określonym w odrębnych przepisach. Konto 014 może wykazywać saldo Wn, które oznacza stan zbiorów bibliotecznych znajdujących się w jednostce.
 5)
 Konto 015 – „Mienie zlikwidowanych jednostek” Konto 015 służy do ewidencji stanu oraz zwiększeń i zmniejszeń wartości mienia przejętego przez organ założycielski lub nadzorujący po zlikwidowanym przedsiębiorstwie państwowym, komunalnym lub innej podległej jednostce organizacyjnej. Na stronie Wn konta 015 organ założycielski lub nadzorujący ujmuje w szczególności:
 1)
@@ -586,25 +589,21 @@ wartość mienia przejętego po zlikwidowanym przedsiębiorstwie lub innej jedno
 2)
 korektę wartości mienia, stanowiącą różnicę pomiędzy wartością mienia wynikającą z bilansu zlikwidowanego przedsiębiorstwa lub jednostki a wartością mienia przekazanego spółce, innej jednostce organizacyjnej lub sprzedanego;
 3)
-wartość mienia zwróconego przez spółkę lub pozostającego po zlikwidowanej innej jednostce organizacyjnej, która zostaje przyjęta na stan składników majątkowych organu założycielskiego lub organu nadzorującego.
-Na stronie Ma konta 015 organ założycielski lub organ nadzorujący ujmują w szczególności:
+wartość mienia zwróconego przez spółkę lub pozostającego po zlikwidowanej innej jednostce organizacyjnej, która zostaje przyjęta na stan składników majątkowych organu założycielskiego lub organu nadzorującego. Na stronie Ma konta 015 organ założycielski lub organ nadzorujący ujmują w szczególności:
 1)
 wartość mienia pozostającego po zlikwidowanym przedsiębiorstwie lub innej jednostce organizacyjnej, a przekazanego spółce, w wysokości wynikającej z umowy ze spółką, lub przekazanego jako udział do spółki, wartość mienia sprzedanego lub przekazanego innym jednostkom;
 2)
-korektę wartości mienia stanowiącą różnicę pomiędzy wartością mienia wynikającą z bilansu zlikwidowanego przedsiębiorstwa lub innej jednostki organizacyjnej a wartością mienia przekazanego spółce lub innym jednostkom.
-Ewidencję szczegółową do konta 015 może stanowić bilans zlikwidowanego przedsiębiorstwa lub innej jednostki organizacyjnej wraz z załącznikami. Ewidencja szczegółowa może zawierać również dane z ewidencji pozabilansowej. Konto 015 może wykazywać saldo Wn, które oznacza stan mienia zlikwidowanego przedsiębiorstwa lub innej jednostki organizacyjnej według wartości wynikającej z bilansu tego przedsiębiorstwa lub jednostki, będącego w dyspozycji organu założycielskiego lub nadzorującego, a nieprzekazanego spółkom, innym jednostkom organizacyjnym lub nieprzejętego na własne potrzeby, albo też zagospodarowanego w inny sposób.
+korektę wartości mienia stanowiącą różnicę pomiędzy wartością mienia wynikającą z bilansu zlikwidowanego przedsiębiorstwa lub innej jednostki organizacyjnej a wartością mienia przekazanego spółce lub innym jednostkom. Ewidencję szczegółową do konta 015 może stanowić bilans zlikwidowanego przedsiębiorstwa lub innej jednostki organizacyjnej wraz z załącznikami. Ewidencja szczegółowa może zawierać również dane z ewidencji pozabilansowej. Konto 015 może wykazywać saldo Wn, które oznacza stan mienia zlikwidowanego przedsiębiorstwa lub innej jednostki organizacyjnej według wartości wynikającej z bilansu tego przedsiębiorstwa lub jednostki, będącego w dyspozycji organu założycielskiego lub nadzorującego, a nieprzekazanego spółkom, innym jednostkom organizacyjnym lub nieprzejętego na własne potrzeby, albo też zagospodarowanego w inny sposób.
 6)
 Konto 016 – „Dobra kultury” Konto 016 służy do ewidencji stanu oraz zwiększeń i zmniejszeń wartości dóbr kultury. Na stronie Wn konta 016 ujmuje się w szczególności:
 1)
 przychód dóbr kultury pochodzących z zakupu lub nieodpłatnie otrzymanych;
 2)
-nadwyżki.
-Na stronie Ma konta 016 ujmuje się w szczególności:
+nadwyżki. Na stronie Ma konta 016 ujmuje się w szczególności:
 1)
 rozchód dóbr kultury na skutek likwidacji, sprzedaży lub nieodpłatnego przekazania;
 2)
-niedobory.
-Przychody i rozchody dóbr kultury wycenia się według cen nabycia. Przychody z tytułu nieodpłatnego otrzymania lub nadwyżki wycenia się zgodnie z komisyjnym oszacowaniem ich wartości. Konto 016 może wykazywać saldo Wn, które oznacza wartość dóbr kultury znajdujących się w jednostce.
+niedobory. Przychody i rozchody dóbr kultury wycenia się według cen nabycia. Przychody z tytułu nieodpłatnego otrzymania lub nadwyżki wycenia się zgodnie z komisyjnym oszacowaniem ich wartości. Konto 016 może wykazywać saldo Wn, które oznacza wartość dóbr kultury znajdujących się w jednostce.
 7)
 Konto 017 – „Sprzęt wojskowy” Konto 017 służy do ewidencji środków trwałych zaliczanych, na podstawie odrębnych przepisów, do sprzętu wojskowego. Konto działa według zasad analogicznych do konta 011 lub 013.
 8)
@@ -626,13 +625,11 @@ poniesione koszty dotyczące środków trwałych w budowie w ramach prowadzonych
 2)
 poniesione koszty dotyczące przekazanych do montażu, lecz jeszcze nieoddanych do używania maszyn, urządzeń oraz innych przedmiotów, zakupionych od kontrahentów oraz wytworzonych w ramach własnej działalności gospodarczej;
 3)
-poniesione koszty ulepszenia środka trwałego (przebudowa, rozbudowa, rekonstrukcja lub modernizacja), które powodują zwiększenie wartości użytkowej środka trwałego.
-Na stronie Ma konta 080 ujmuje się wartość uzyskanych efektów, w szczególności:
+poniesione koszty ulepszenia środka trwałego (przebudowa, rozbudowa, rekonstrukcja lub modernizacja), które powodują zwiększenie wartości użytkowej środka trwałego. Na stronie Ma konta 080 ujmuje się wartość uzyskanych efektów, w szczególności:
 1)
 środków trwałych;
 2)
-wartość sprzedanych i nieodpłatnie przekazanych środków trwałych w budowie.
-Na koncie 080 można księgować również rozliczenie kosztów dotyczących zakupów gotowych środków trwałych. Ewidencja szczegółowa prowadzona do konta 080 powinna zapewnić co najmniej wyodrębnienie kosztów środków trwałych w budowie według poszczególnych rodzajów efektów inwestycyjnych oraz skalkulowanie ceny nabycia lub kosztu wytworzenia poszczególnych obiektów środków trwałych. Konto 080 może wykazywać saldo Wn, które oznacza wartość kosztów środków trwałych w budowie i ulepszeń.
+wartość sprzedanych i nieodpłatnie przekazanych środków trwałych w budowie. Na koncie 080 można księgować również rozliczenie kosztów dotyczących zakupów gotowych środków trwałych. Ewidencja szczegółowa prowadzona do konta 080 powinna zapewnić co najmniej wyodrębnienie kosztów środków trwałych w budowie według poszczególnych rodzajów efektów inwestycyjnych oraz skalkulowanie ceny nabycia lub kosztu wytworzenia poszczególnych obiektów środków trwałych. Konto 080 może wykazywać saldo Wn, które oznacza wartość kosztów środków trwałych w budowie i ulepszeń.
 15)
 Zespół 1 – „Środki pieniężne i rachunki bankowe” Konta zespołu 1 „Środki pieniężne i rachunki bankowe” służą do ewidencji:
 1)
@@ -644,8 +641,7 @@ krajowych i zagranicznych środków pieniężnych lokowanych na rachunkach w ban
 4)
 udzielanych przez banki kredytów w krajowych i zagranicznych środkach pieniężnych;
 5)
-innych krajowych i zagranicznych środków pieniężnych.
-Konta zespołu 1 mają odzwierciedlać operacje pieniężne oraz obroty i stany środków pieniężnych oraz krótkoterminowych papierów wartościowych.
+innych krajowych i zagranicznych środków pieniężnych. Konta zespołu 1 mają odzwierciedlać operacje pieniężne oraz obroty i stany środków pieniężnych oraz krótkoterminowych papierów wartościowych.
 16)
 Konto 101 – „Kasa” Konto 101 służy do ewidencji krajowej i zagranicznej gotówki znajdującej się w kasach jednostki. Na stronie Wn konta 101 ujmuje się wpływy gotówki oraz nadwyżki kasowe, a na stronie Ma – rozchody gotówki i niedobory kasowe. Wartość konta 101 koryguje się o różnice kursowe dotyczące gotówki w walucie obcej. Ewidencja szczegółowa prowadzona do konta 101 powinna umożliwić ustalenie:
 1)
@@ -653,27 +649,23 @@ stanu gotówki w walucie polskiej;
 2)
 stanu gotówki w walucie zagranicznej, wyrażonego w walucie polskiej i obcej, z podziałem na poszczególne waluty obce;
 3)
-wartości gotówki powierzonej poszczególnym osobom za nią odpowiedzialnym.
-Konto 101 może wykazywać saldo Wn, które oznacza stan gotówki w kasie.
+wartości gotówki powierzonej poszczególnym osobom za nią odpowiedzialnym. Konto 101 może wykazywać saldo Wn, które oznacza stan gotówki w kasie.
 17)
 Konto 130 – „Rachunek bieżący jednostki” Konto 130 służy do ewidencji stanu środków pieniężnych oraz obrotów na rachunku bankowym z tytułu wydatków i dochodów (wpływów) budżetowych objętych planem finansowym. Na stronie Wn konta 130 ujmuje się wpływy środków pieniężnych:
 1)
 otrzymanych na realizację wydatków budżetowych zgodnie z planem finansowym oraz dla dysponentów niższego stopnia, w korespondencji z kontem 223;
 2)
-z tytułu zrealizowanych przez jednostkę dochodów budżetowych (ewidencja szczegółowa według podziałek klasyfikacji dochodów budżetowych), w korespondencji z kontem 101, 221 lub innym właściwym kontem.
-Na stronie Ma konta 130 ujmuje się:
+z tytułu zrealizowanych przez jednostkę dochodów budżetowych (ewidencja szczegółowa według podziałek klasyfikacji dochodów budżetowych), w korespondencji z kontem 101, 221 lub innym właściwym kontem. Na stronie Ma konta 130 ujmuje się:
 1)
 zrealizowane wydatki budżetowe zgodnie z planem finansowym jednostki, jak również środki pobrane do kasy na realizację wydatków budżetowych (ewidencja szczegółowa według podziałek klasyfikacji wydatków budżetowych), w korespondencji z właściwymi kontami zespołów: 1, 2, 3, 4, 7 lub 8. Ewidencja szczegółowa według podziałek klasyfikacji budżetowej może być też stosowana alternatywnie na kontach korespondujących z kontem rachunku bieżącego jednostki;
 2)
 okresowe przelewy dochodów budżetowych do budżetu, w korespondencji z kontem 222;
 3)
-okresowe przelewy środków pieniężnych dla dysponentów niższego stopnia (ewidencja szczegółowa według dysponentów, którym przelano środki pieniężne), w korespondencji z kontem 223.
-Zapisy na koncie 130 są dokonywane na podstawie dokumentów bankowych. Na koncie 130 obowiązuje zachowanie zasady czystości obrotów, co oznacza, że stosowana technika księgowości ma zapewnić możliwość prawidłowego ustalenia wysokości tych obrotów oraz niezbędne dane do sporządzenia sprawozdań finansowych, budżetowych lub innych określonych w odrębnych przepisach. Dopuszczalne jest stosowanie innych niż dokumenty bankowe dowodów księgowych, jeżeli jest to konieczne dla zachowania czystości obrotów. Konto 130 może służyć również do ewidencji dochodów i wydatków realizowanych bezpośrednio z rachunku bieżącego budżetu jednostki samorządu terytorialnego. W takim przypadku saldo konta 130 w zakresie zrealizowanych wydatków podlega okresowemu przeksięgowaniu na podstawie sprawozdań budżetowych na stronę Ma konta 800, a w zakresie dochodów – na stronę Wn konta 800. Ewidencja szczegółowa do konta 130 jest prowadzona w szczegółowości planu finansowego dochodów i wydatków budżetowych. W przypadku dochodów nieujętych w planie finansowym dochody takie ewidencjonuje się według podziałek klasyfikacji budżetowej. Konto 130 może wykazywać saldo Wn, które oznacza stan środków pieniężnych na rachunku bieżącym jednostki budżetowej. Saldo konta 130 jest równe saldu sald wynikających z ewidencji szczegółowej prowadzonej dla kont:
+okresowe przelewy środków pieniężnych dla dysponentów niższego stopnia (ewidencja szczegółowa według dysponentów, którym przelano środki pieniężne), w korespondencji z kontem 223. Zapisy na koncie 130 są dokonywane na podstawie dokumentów bankowych. Na koncie 130 obowiązuje zachowanie zasady czystości obrotów, co oznacza, że stosowana technika księgowości ma zapewnić możliwość prawidłowego ustalenia wysokości tych obrotów oraz niezbędne dane do sporządzenia sprawozdań finansowych, budżetowych lub innych określonych w odrębnych przepisach. Dopuszczalne jest stosowanie innych niż dokumenty bankowe dowodów księgowych, jeżeli jest to konieczne dla zachowania czystości obrotów. Konto 130 może służyć również do ewidencji dochodów i wydatków realizowanych bezpośrednio z rachunku bieżącego budżetu jednostki samorządu terytorialnego. W takim przypadku saldo konta 130 w zakresie zrealizowanych wydatków podlega okresowemu przeksięgowaniu na podstawie sprawozdań budżetowych na stronę Ma konta 800, a w zakresie dochodów – na stronę Wn konta 800. Ewidencja szczegółowa do konta 130 jest prowadzona w szczegółowości planu finansowego dochodów i wydatków budżetowych. W przypadku dochodów nieujętych w planie finansowym dochody takie ewidencjonuje się według podziałek klasyfikacji budżetowej. Konto 130 może wykazywać saldo Wn, które oznacza stan środków pieniężnych na rachunku bieżącym jednostki budżetowej. Saldo konta 130 jest równe saldu sald wynikających z ewidencji szczegółowej prowadzonej dla kont:
 1)
 wydatków budżetowych; konto 130 w zakresie wydatków budżetowych może wykazywać saldo Wn, które oznacza stan środków pieniężnych otrzymanych na realizację wydatków budżetowych, a niewykorzystanych do końca roku;
 2)
-dochodów budżetowych; konto 130 w zakresie dochodów budżetowych może wykazywać saldo Wn, które oznacza stan środków pieniężnych z tytułu zrealizowanych dochodów budżetowych, które do końca roku nie zostały przelane do budżetu.
-Saldo konta 130 ulega likwidacji przez księgowanie:
+dochodów budżetowych; konto 130 w zakresie dochodów budżetowych może wykazywać saldo Wn, które oznacza stan środków pieniężnych z tytułu zrealizowanych dochodów budżetowych, które do końca roku nie zostały przelane do budżetu. Saldo konta 130 ulega likwidacji przez księgowanie:
 1)
 przelewu środków pieniężnych niewykorzystanych do końca roku, w korespondencji z kontem 223;
 2)
@@ -701,8 +693,7 @@ sum depozytowych;
 3)
 sum na zlecenie;
 4)
-środków obcych na inwestycje.
-Zapisy na koncie 139 są dokonywane na podstawie dokumentów bankowych. Na stronie Wn konta 139 ujmuje się wpływy wydzielonych środków pieniężnych z rachunków bieżących, sum depozytowych i na zlecenie. Na stronie Ma konta 139 ujmuje się wypłaty środków pieniężnych dokonane z wydzielonych rachunków bankowych. Ewidencja szczegółowa prowadzona do konta 139 powinna zapewnić ustalenie stanu środków pieniężnych dla każdego wydzielonego rachunku bankowego, a także powinna zapewnić sprostanie obowiązkom sprawozdawczym. Konto 139 może wykazywać saldo Wn, które oznacza stan środków pieniężnych znajdujących się na innych rachunkach bankowych.
+środków obcych na inwestycje. Zapisy na koncie 139 są dokonywane na podstawie dokumentów bankowych. Na stronie Wn konta 139 ujmuje się wpływy wydzielonych środków pieniężnych z rachunków bieżących, sum depozytowych i na zlecenie. Na stronie Ma konta 139 ujmuje się wypłaty środków pieniężnych dokonane z wydzielonych rachunków bankowych. Ewidencja szczegółowa prowadzona do konta 139 powinna zapewnić ustalenie stanu środków pieniężnych dla każdego wydzielonego rachunku bankowego, a także powinna zapewnić sprostanie obowiązkom sprawozdawczym. Konto 139 może wykazywać saldo Wn, które oznacza stan środków pieniężnych znajdujących się na innych rachunkach bankowych.
 26)
 Konto 140 – „Krótkoterminowe aktywa finansowe” Konto 140 służy do ewidencji krótkoterminowych aktywów finansowych, w szczególności akcji, udziałów i innych papierów wartościowych wyrażonych zarówno w walucie polskiej, jak też w walutach obcych. Na stronie Wn konta 140 ujmuje się zwiększenia, a na stronie Ma – zmniejszenia stanu krótkoterminowych aktywów finansowych. Ewidencja szczegółowa prowadzona do konta 140 powinna umożliwić ustalenie:
 1)
@@ -710,8 +701,7 @@ poszczególnych składników krótkoterminowych aktywów finansowych;
 2)
 stanu poszczególnych krótkoterminowych aktywów finansowych wyrażonego w walucie polskiej i obcej, z podziałem na poszczególne waluty obce;
 3)
-wartości krótkoterminowych aktywów finansowych powierzonych poszczególnym osobom za nie odpowiedzialnym.
-Konto 140 może wykazywać saldo Wn, które oznacza stan krótkoterminowych aktywów finansowych.
+wartości krótkoterminowych aktywów finansowych powierzonych poszczególnym osobom za nie odpowiedzialnym. Konto 140 może wykazywać saldo Wn, które oznacza stan krótkoterminowych aktywów finansowych.
 27)
 Konto 141 – „Środki pieniężne w drodze” Konto 141 służy do ewidencji środków pieniężnych w drodze. Na stronie Wn konta 141 ujmuje się zwiększenia stanu środków pieniężnych w drodze, a na stronie Ma – zmniejszenia stanu środków pieniężnych w drodze. Stosownie do przyjętej techniki księgowania, środki pieniężne w drodze mogą być ewidencjonowane na bieżąco lub tylko na przełomie okresu sprawozdawczego. Konto 141 może wykazywać saldo Wn, które oznacza stan środków pieniężnych w drodze.
 28)
@@ -727,27 +717,23 @@ Konto 223 – „Rozliczenie wydatków budżetowych” Konto 223 służy do ewid
 1)
 w ciągu roku budżetowego okresowe lub roczne przeniesienia, na podstawie sprawozdań budżetowych, zrealizowanych wydatków budżetowych, w tym wydatków budżetu państwa w ramach współfinansowania programów i projektów realizowanych ze środków europejskich na konto 800;
 2)
-okresowe przelewy środków pieniężnych na pokrycie wydatków budżetowych oraz wydatków w ramach współfinansowania programów i projektów realizowanych ze środków europejskich, w korespondencji z kontem 130.
-Na stronie Ma konta 223 ujmuje się w szczególności:
+okresowe przelewy środków pieniężnych na pokrycie wydatków budżetowych oraz wydatków w ramach współfinansowania programów i projektów realizowanych ze środków europejskich, w korespondencji z kontem 130. Na stronie Ma konta 223 ujmuje się w szczególności:
 1)
 okresowe wpływy środków pieniężnych otrzymanych na pokrycie wydatków budżetowych, w tym wydatków budżetu państwa w ramach współfinansowania programów i projektów realizowanych ze środków europejskich, w korespondencji z kontem 130;
 2)
-okresowe wpływy środków pieniężnych przeznaczonych dla dysponentów niższego stopnia, w korespondencji z kontem 130.
-W samorządowych jednostkach budżetowych na koncie 223 ujmuje się również operacje związane z przepływami środków europejskich w zakresie, w którym środki te stanowią dochody jednostek samorządu terytorialnego. Konto 223 może wykazywać saldo Ma, które oznacza stan środków pieniężnych otrzymanych na pokrycie wydatków budżetowych, lecz niewykorzystanych do końca roku. Saldo konta 223 ulega likwidacji poprzez księgowanie przelewu na rachunek dysponenta wyższego stopnia środków pieniężnych niewykorzystanych do końca roku, w korespondencji z kontem 130.
+okresowe wpływy środków pieniężnych przeznaczonych dla dysponentów niższego stopnia, w korespondencji z kontem 130. W samorządowych jednostkach budżetowych na koncie 223 ujmuje się również operacje związane z przepływami środków europejskich w zakresie, w którym środki te stanowią dochody jednostek samorządu terytorialnego. Konto 223 może wykazywać saldo Ma, które oznacza stan środków pieniężnych otrzymanych na pokrycie wydatków budżetowych, lecz niewykorzystanych do końca roku. Saldo konta 223 ulega likwidacji poprzez księgowanie przelewu na rachunek dysponenta wyższego stopnia środków pieniężnych niewykorzystanych do końca roku, w korespondencji z kontem 130.
 33)
 Konto 224 – „Rozliczenie dotacji budżetowych oraz płatności z budżetu środków europejskich” Konto 224 służy do ewidencji rozliczenia przez organ dotujący udzielonych dotacji budżetowych, a także do ewidencji rozliczenia przez instytucje zarządzające i pośredniczące płatności z budżetu środków europejskich. Na stronie Wn konta 224 ujmuje się w szczególności:
 1)
 wartość dotacji przekazanych przez organ dotujący, w korespondencji z kontem 130;
 2)
-wartość płatności dokonanych na rzecz beneficjentów przez Bank Gospodarstwa Krajowego, w korespondencji z kontami 227 lub 230.
-Na stronie Ma konta 224 ujmuje się w szczególności:
+wartość płatności dokonanych na rzecz beneficjentów przez Bank Gospodarstwa Krajowego, w korespondencji z kontami 227 lub 230. Na stronie Ma konta 224 ujmuje się w szczególności:
 1)
 wartość dotacji uznanych za wykorzystane i rozliczone, w korespondencji z kontem 810;
 2)
 wartość płatności z budżetu środków europejskich uznanych za rozliczone, w korespondencji z kontami 810 lub 230;
 3)
-wartość dotacji zwróconych w tym samym roku budżetowym, w korespondencji z kontem 130.
-Ewidencja szczegółowa prowadzona do konta 224 powinna zapewniać możliwość ustalenia wartości przekazanych dotacji oraz zaliczek z tytułu płatności z budżetu środków europejskich według jednostek oraz przeznaczenia tych środków. Rozliczone i przypisane do zwrotu dotacje, które organ dotujący zalicza do dochodów budżetowych, są ujmowane na koncie 221.
+wartość dotacji zwróconych w tym samym roku budżetowym, w korespondencji z kontem 130. Ewidencja szczegółowa prowadzona do konta 224 powinna zapewniać możliwość ustalenia wartości przekazanych dotacji oraz zaliczek z tytułu płatności z budżetu środków europejskich według jednostek oraz przeznaczenia tych środków. Rozliczone i przypisane do zwrotu dotacje, które organ dotujący zalicza do dochodów budżetowych, są ujmowane na koncie 221.
 34)
 Konto 225 – „Rozrachunki z budżetami” Konto 225 służy do ewidencji rozrachunków z budżetami w szczególności z tytułu dotacji, podatków, nadwyżek środków obrotowych, nadpłat w rozliczeniach z budżetami. Na stronie Wn konta 225 ujmuje się nadpłaty oraz wpłaty do budżetu, a na stronie Ma – zobowiązania wobec budżetów i wpłaty od budżetów. Ewidencja szczegółowa do konta 225 powinna zapewnić możliwość ustalenia stanu należności i zobowiązań według każdego z tytułów rozrachunków z budżetem odrębnie. Konto 225 może mieć dwa salda. Saldo Wn oznacza stan należności, a saldo Ma – stan zobowiązań wobec budżetów.
 35)
@@ -765,8 +751,7 @@ Konto 228 – „Rozliczenie środków pochodzących ze źródeł zagranicznych 
 1)
 okresowe lub roczne przeniesienie zrealizowanych wydatków ze źródeł zagranicznych niepodlegających zwrotowi, w korespondencji z kontem 800;
 2)
-przekazanie środków na pokrycie wydatków realizowanych ze źródeł zagranicznych niepodlegających zwrotowi innym jednostkom, w korespondencji z kontem 137.
-Na stronie Ma konta 228 ujmuje się w szczególności wpływ środków otrzymanych na pokrycie wydatków realizowanych ze źródeł zagranicznych niepodlegających zwrotowi lub przeznaczonych dla innych jednostek, w korespondencji z kontem 137. Ewidencja szczegółowa prowadzona do konta 228 powinna umożliwić ustalenie stanu rozliczeń środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi w podziale na źródła ich pochodzenia.
+przekazanie środków na pokrycie wydatków realizowanych ze źródeł zagranicznych niepodlegających zwrotowi innym jednostkom, w korespondencji z kontem 137. Na stronie Ma konta 228 ujmuje się w szczególności wpływ środków otrzymanych na pokrycie wydatków realizowanych ze źródeł zagranicznych niepodlegających zwrotowi lub przeznaczonych dla innych jednostek, w korespondencji z kontem 137. Ewidencja szczegółowa prowadzona do konta 228 powinna umożliwić ustalenie stanu rozliczeń środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi w podziale na źródła ich pochodzenia.
 38)
 Konto 229 – „Pozostałe rozrachunki publicznoprawne” Konto 229 służy do ewidencji, innych niż z budżetami, rozrachunków publicznoprawnych, a w szczególności z tytułu ubezpieczeń społecznych i zdrowotnych. Na stronie Wn konta 229 ujmuje się należności oraz spłatę i zmniejszenie zobowiązań, a na stronie Ma – zobowiązania, spłatę i zmniejszenie należności z tytułu rozrachunków publicznoprawnych. Ewidencja szczegółowa prowadzona do konta 229 powinna zapewnić możliwość ustalenia stanu należności i zobowiązań według tytułów rozrachunków oraz podmiotów, z którymi są dokonywane rozliczenia. Konto 229 może wykazywać dwa salda. Saldo Wn oznacza stan należności, a saldo Ma – stan zobowiązań.
 39)
@@ -780,8 +765,7 @@ wypłaty zaliczek na poczet wynagrodzeń;
 3)
 wartość wydanych świadczeń rzeczowych zaliczanych do wynagrodzeń;
 4)
-potrącenia wynagrodzeń obciążające pracownika.
-Na stronie Ma konta 231 ujmuje się zobowiązania jednostki z tytułu wynagrodzeń. Ewidencja szczegółowa prowadzona do konta 231 powinna zapewnić możliwość ustalenia stanów należności i zobowiązań z tytułu wynagrodzeń i świadczeń zaliczanych do wynagrodzeń. Konto 231 może wykazywać dwa salda. Saldo Wn oznacza stan należności, a saldo Ma – stan zobowiązań jednostki z tytułu wynagrodzeń.
+potrącenia wynagrodzeń obciążające pracownika. Na stronie Ma konta 231 ujmuje się zobowiązania jednostki z tytułu wynagrodzeń. Ewidencja szczegółowa prowadzona do konta 231 powinna zapewnić możliwość ustalenia stanów należności i zobowiązań z tytułu wynagrodzeń i świadczeń zaliczanych do wynagrodzeń. Konto 231 może wykazywać dwa salda. Saldo Wn oznacza stan należności, a saldo Ma – stan zobowiązań jednostki z tytułu wynagrodzeń.
 41)
 Konto 234 – „Pozostałe rozrachunki z pracownikami” Konto 234 służy do ewidencji należności, roszczeń i zobowiązań wobec pracowników z innych tytułów niż wynagrodzenia. Na stronie Wn konta 234 ujmuje się w szczególności:
 1)
@@ -793,15 +777,13 @@ należności z tytułu pożyczek z zakładowego funduszu świadczeń socjalnych;
 4)
 należności i roszczenia od pracowników z tytułu niedoborów i szkód;
 5)
-zapłacone zobowiązania wobec pracowników.
-Na stronie Ma konta 234 ujmuje się w szczególności:
+zapłacone zobowiązania wobec pracowników. Na stronie Ma konta 234 ujmuje się w szczególności:
 1)
 wydatki wyłożone przez pracowników w imieniu jednostki;
 2)
 rozliczone zaliczki i zwroty środków pieniężnych;
 3)
-wpływy należności od pracowników.
-Zaliczki wypłacone pracownikom w walutach obcych można ujmować, do czasu ich rozliczenia, w równowartości waluty polskiej ustalonej przy wypłacie zaliczki. Ewidencja szczegółowa prowadzona do konta 234 powinna zapewnić możliwość ustalenia stanu należności, roszczeń i zobowiązań według tytułów rozrachunków. Konto 234 może wykazywać dwa salda. Saldo Wn oznacza stan należności i roszczeń, a saldo Ma – stan zobowiązań wobec pracowników.
+wpływy należności od pracowników. Zaliczki wypłacone pracownikom w walutach obcych można ujmować, do czasu ich rozliczenia, w równowartości waluty polskiej ustalonej przy wypłacie zaliczki. Ewidencja szczegółowa prowadzona do konta 234 powinna zapewnić możliwość ustalenia stanu należności, roszczeń i zobowiązań według tytułów rozrachunków. Konto 234 może wykazywać dwa salda. Saldo Wn oznacza stan należności i roszczeń, a saldo Ma – stan zobowiązań wobec pracowników.
 42)
 Konto 235 – „Rozliczenia dochodów budżetowych z tytułu podatków” Konto 235 służy do ewidencji w izbach administracji skarbowej operacji rozliczeń dochodów budżetowych z tytułu podatków realizowanych przez organy podatkowe podległe ministrowi właściwemu do spraw finansów publicznych. Na stronie Wn konta 235 ujmuje się, na podstawie rocznych jednostkowych sprawozdań budżetowych, dochody budżetowe z tytułu podatków przekazanych przez organy podatkowe na rachunek budżetu państwa w korespondencji z kontem 720. Na stronie Ma konta 235 ujmuje się, na podstawie rocznych łącznych sprawozdań budżetowych, przeksięgowania dochodów budżetowych z tytułu podatków przekazanych przez organy podatkowe na rachunek budżetu państwa, na konto 800.
 43)
@@ -817,8 +799,7 @@ Konto 300 – „Rozliczenie zakupu” Konto 300 służy do ewidencji rozliczeni
 1)
 faktury dostawców krajowych i zagranicznych łącznie z naliczonym podatkiem od towarów i usług, zwanym dalej „podatkiem VAT”;
 2)
-podatek VAT, podatek akcyzowy, cło pobierane przy imporcie.
-Na stronie Ma konta 300 ujmuje się:
+podatek VAT, podatek akcyzowy, cło pobierane przy imporcie. Na stronie Ma konta 300 ujmuje się:
 1)
 wartość przyjętych dostaw i usług;
 2)
@@ -826,8 +807,7 @@ naliczony podatek VAT do rozliczenia z urzędem skarbowym bezpośrednio lub po s
 3)
 naliczony podatek VAT niepodlegający zwrotowi lub odliczeniu od podatku należnego, dotyczący składników majątku obrotowego, zwiększający ich wartość lub obciążający właściwe koszty albo rozliczenia międzyokresowe kosztów czynne;
 4)
-naliczony podatek VAT niepodlegający zwrotowi lub odliczeniu od podatku należnego, dotyczący środków trwałych, inwestycji rozpoczętych oraz wartości niematerialnych i prawnych, zwiększający ich wartość.
-Za pośrednictwem konta 300 można rozliczać również:
+naliczony podatek VAT niepodlegający zwrotowi lub odliczeniu od podatku należnego, dotyczący środków trwałych, inwestycji rozpoczętych oraz wartości niematerialnych i prawnych, zwiększający ich wartość. Za pośrednictwem konta 300 można rozliczać również:
 1)
 odchylenia od cen ewidencyjnych, od rzeczywistych cen zakupu lub cen nabycia;
 2)
@@ -837,8 +817,7 @@ opłaty manipulacyjne pobierane przy imporcie;
 4)
 niedobory, szkody i nadwyżki w transporcie;
 5)
-reklamacje (sprostowania) dotyczące faktur dostawców.
-Konto 300 może wykazywać dwa salda. Saldo Wn oznacza stan dostaw w drodze (materiały i towary w drodze), a saldo Ma – stan dostaw lub usług niefakturowanych.
+reklamacje (sprostowania) dotyczące faktur dostawców. Konto 300 może wykazywać dwa salda. Saldo Wn oznacza stan dostaw w drodze (materiały i towary w drodze), a saldo Ma – stan dostaw lub usług niefakturowanych.
 48)
 Konto 310 – „Materiały” Konto 310 służy do ewidencji zapasów materiałów, w tym także opakowań i odpadków, znajdujących się w magazynach własnych i obcych oraz we własnym i obcym przerobie. Na stronie Wn konta 310 ujmuje się zwiększenie ilości i wartości stanu zapasu materiałów, a na stronie Ma – jego zmniejszenia. Konto 310 może wykazywać saldo Wn, które wyraża stan zapasów materiałów, w cenach zakupu, nabycia lub w stałych cenach ewidencyjnych.
 49)
@@ -870,34 +849,29 @@ w korespondencji z kontem 640 „Rozliczenia międzyokresowe kosztów” kosztó
 3)
 zmniejszeń rozliczeń międzyokresowych kosztów oraz rezerw tworzonych na koszty, w korespondencji z kontem 640 „Rozliczenia międzyokresowe kosztów”;
 4)
-kosztów zgromadzonych na koncie 700 oraz kosztów niewliczanych do sprzedanych produktów i towarów, lecz wprost obciążających wynik finansowy oraz ewentualne koszty zakupu i sprzedaży towarów i materiałów ujęte na kontach: 730 i 760.
-W jednostkach prowadzących konta zespołu 5 konto 490 służy do:
+kosztów zgromadzonych na koncie 700 oraz kosztów niewliczanych do sprzedanych produktów i towarów, lecz wprost obciążających wynik finansowy oraz ewentualne koszty zakupu i sprzedaży towarów i materiałów ujęte na kontach: 730 i 760. W jednostkach prowadzących konta zespołu 5 konto 490 służy do:
 1)
 przeniesienia na konta zespołu 5 i zespołu 6 kosztów prostych zewidencjonowanych w ciągu okresu sprawozdawczego na kontach: 400, 401, 402, 403, 404, 405, 409;
 2)
 przeniesienia na konto 640 kosztów rozliczanych w czasie, które były ujęte na kontach: 400, 401, 402, 403, 404, 405, 409 w wartości poniesionej;
 3)
-ujęcia łącznej kwoty kosztów uzyskania przychodów zewidencjonowanych na kontach zespołu 7.
-Na stronie Wn konta 490 ujmuje się:
+ujęcia łącznej kwoty kosztów uzyskania przychodów zewidencjonowanych na kontach zespołu 7. Na stronie Wn konta 490 ujmuje się:
 1)
 koszt własny sprzedanych produktów odpowiadający rzeczywistym kosztom wytworzenia sprzedanych produktów, w korespondencji z właściwym kontem zespołu 7, oraz koszty niewliczane do wartości produktów, lecz obciążające wynik finansowy danego okresu, w korespondencji z właściwym kontem zespołu 5 (koszty zarządu, koszty handlowe i koszty sprzedaży);
 2)
-zmniejszenie rozliczeń międzyokresowych, w korespondencji z kontem 640.
-Na stronie Ma konta 490 ujmuje się poniesione koszty rodzajowe, zewidencjonowane na kontach: 400, 401, 402, 403, 404, 405, 409 i niepodlegające rozliczeniu w czasie, w korespondencji z właściwym kontem zespołu 5, oraz przypadające na przyszłe okresy, w korespondencji z kontem 640. Na stronie Wn konta 490 ujmuje się również, w korespondencji z kontem 760, przychody ze sprzedaży wewnętrznej produktów oraz na stronie Wn lub Ma zmiany stanu produktów spowodowane w szczególności zdarzeniami losowymi, niedoborami lub nadwyżkami. Księgowania te mogą być dokonywane na bieżąco, jednocześnie z zapisami na kontach zespołów 5, 6 i 7, albo okresowo, w łącznej sumie równej różnicy między kwotą odpowiadającą zmianie stanu produktów a saldem konta 490. Saldo Wn lub Ma konta 490 oznacza zmianę stanu zapasów produktów gotowych, produkcji niezakończonej i rozliczeń międzyokresowych kosztów na koniec roku w stosunku do stanu na początek roku. Saldo konta 490 jest przenoszone w końcu roku obrotowego na konto 860.
+zmniejszenie rozliczeń międzyokresowych, w korespondencji z kontem 640. Na stronie Ma konta 490 ujmuje się poniesione koszty rodzajowe, zewidencjonowane na kontach: 400, 401, 402, 403, 404, 405, 409 i niepodlegające rozliczeniu w czasie, w korespondencji z właściwym kontem zespołu 5, oraz przypadające na przyszłe okresy, w korespondencji z kontem 640. Na stronie Wn konta 490 ujmuje się również, w korespondencji z kontem 760, przychody ze sprzedaży wewnętrznej produktów oraz na stronie Wn lub Ma zmiany stanu produktów spowodowane w szczególności zdarzeniami losowymi, niedoborami lub nadwyżkami. Księgowania te mogą być dokonywane na bieżąco, jednocześnie z zapisami na kontach zespołów 5, 6 i 7, albo okresowo, w łącznej sumie równej różnicy między kwotą odpowiadającą zmianie stanu produktów a saldem konta 490. Saldo Wn lub Ma konta 490 oznacza zmianę stanu zapasów produktów gotowych, produkcji niezakończonej i rozliczeń międzyokresowych kosztów na koniec roku w stosunku do stanu na początek roku. Saldo konta 490 jest przenoszone w końcu roku obrotowego na konto 860.
 60)
 Zespół 5 – „Koszty według typów działalności i ich rozliczenie” Konta zespołu 5 „Koszty według typów działalności i ich rozliczenie” służą do ewidencji i rozliczenia kosztów w układzie kalkulacyjnym. Konta tego zespołu mogą zostać również wykorzystane do ewidencji wykonania budżetu w układzie zadaniowym. Nie ujmuje się na kontach zespołu 5 kosztów finansowanych, zgodnie z odrębnymi przepisami, z funduszy celowych i innych oraz kosztów inwestycji, pozostałych kosztów operacyjnych i kosztów operacji finansowych. Konta zespołu 5 zaleca się prowadzić wówczas, gdy:
 1)
 charakter, rozmiary działalności lub organizacja jednostki wymagają ustalania struktury kosztów poszczególnych typów lub odmian jej działalności, w tym także według miejsc ich powstawania;
 2)
-w jednostce są wytwarzane produkty, których koszt podlega kalkulacji.
-Na stronie Wn kont zespołu 5 ujmuje się:
+w jednostce są wytwarzane produkty, których koszt podlega kalkulacji. Na stronie Wn kont zespołu 5 ujmuje się:
 1)
 poniesione koszty rodzajowe ujęte uprzednio na kontach: 400, 401, 402, 403, 404, 405, 409, w korespondencji ze stroną Ma konta 490;
 2)
 koszty rozliczane w czasie, w korespondencji ze stroną Ma konta 640;
 3)
-wydanie półfabrykatów do produkcji w jednostkach, które prowadzą ich ewidencję ilościowo-wartościową, w korespondencji ze stroną Ma konta 600.
-Na stronie Ma kont zespołu 5 ujmuje się:
+wydanie półfabrykatów do produkcji w jednostkach, które prowadzą ich ewidencję ilościowo-wartościową, w korespondencji ze stroną Ma konta 600. Na stronie Ma kont zespołu 5 ujmuje się:
 1)
 rzeczywisty koszt wytworzonych produktów gotowych (Wn konto 580 lub Wn konto 700), jeżeli po zakończeniu wytwarzania produktów zalicza się je do produkcji sprzedanej (w tym na własne potrzeby);
 2)
@@ -905,8 +879,7 @@ przychody półfabrykatów w jednostkach, które prowadzą ich ewidencję ilośc
 3)
 koszty zaliczane do wyniku finansowego bieżącego okresu, lecz niewliczane do kosztu własnego produktów (koszty handlowe, koszty zarządu i koszty sprzedaży – Wn konto 490);
 4)
-koszty do rozliczenia w czasie (Wn konto 640).
-Na stronie Wn jednych kont zespołu 5 i jednocześnie na stronie Ma innych kont zespołu 5 księguje się świadczenia wzajemne poszczególnych działalności. Na koniec roku obrotowego konta zespołu 5 (z wyjątkiem kont 550 i 580) mogą wykazywać salda Wn, oznaczające produkcję w toku, w jednostkach prowadzących ewidencję półfabrykatów na koncie 600 lub produkcję niezakończoną w jednostkach prowadzących ewidencję półfabrykatów na kontach zespołu 5.
+koszty do rozliczenia w czasie (Wn konto 640). Na stronie Wn jednych kont zespołu 5 i jednocześnie na stronie Ma innych kont zespołu 5 księguje się świadczenia wzajemne poszczególnych działalności. Na koniec roku obrotowego konta zespołu 5 (z wyjątkiem kont 550 i 580) mogą wykazywać salda Wn, oznaczające produkcję w toku, w jednostkach prowadzących ewidencję półfabrykatów na koncie 600 lub produkcję niezakończoną w jednostkach prowadzących ewidencję półfabrykatów na kontach zespołu 5.
 61)
 Konto 500 – „Koszty działalności podstawowej” Konto 500 służy do ewidencji kosztów działalności podstawowej. Na stronie Wn konta 500 ujmuje się koszty działalności podstawowej. Na stronie Ma konta 500 ujmuje się rozliczone koszty działalności podstawowej (wartość wytworzonych produktów, koszty sprzedaży, koszty handlowe). Do konta 500 może być prowadzona ewidencja szczegółowa umożliwiająca:
 1)
@@ -916,8 +889,7 @@ zaliczane do wartości wytworzonych produktów i produkcji niezakończonej,
 b)
 obciążające wynik finansowy okresu sprawozdawczego, a w szczególności koszty sprzedaży, koszty handlowe;
 2)
-ustalenie struktury kosztów działalności podstawowej według pozycji kalkulacyjnych.
-W końcu roku saldo konta 500 może wykazywać stan produkcji niezakończonej (w toku).
+ustalenie struktury kosztów działalności podstawowej według pozycji kalkulacyjnych. W końcu roku saldo konta 500 może wykazywać stan produkcji niezakończonej (w toku).
 62)
 Konto 530 – „Koszty działalności pomocniczej” Konto 530 służy do ewidencji kosztów działalności prowadzonej przez komórki jednostki, których głównym celem jest:
 1)
@@ -927,8 +899,7 @@ wytwarzanie na własne potrzeby jednostki energii oraz materiałów;
 3)
 wykonywanie we własnym zakresie inwestycji;
 4)
-pełnienie innych funkcji pomocniczych (stołówki, domy mieszkalne, obiekty socjalne).
-Zasady działania konta 530 oraz prowadzenie ewidencji szczegółowej są analogiczne do konta 500. W końcu roku saldo konta wykazuje wartość produkcji niezakończonej (w toku).
+pełnienie innych funkcji pomocniczych (stołówki, domy mieszkalne, obiekty socjalne). Zasady działania konta 530 oraz prowadzenie ewidencji szczegółowej są analogiczne do konta 500. W końcu roku saldo konta wykazuje wartość produkcji niezakończonej (w toku).
 63)
 Konto 550 – „Koszty zarządu” Konto 550 służy do ewidencji wyodrębnionych kosztów związanych z zarządzaniem jednostką jako całością (kosztów ogólnoadministracyjnych) oraz kosztów ogólnych dotyczących danej jednostki jako całości (w szczególności utrzymanie terenu, straż przemysłowa i przeciwpożarowa). Na stronie Wn konta 550 ujmuje się koszty proste oraz koszty złożone, w szczególności koszty świadczeń działalności pomocniczej, a także zużycie materiałów, towarów i produktów na potrzeby reprezentacji i reklamy. Na stronie Ma konta 550 ujmuje się przeniesienie kosztów działalności zarządu na konto 490. Do konta 550 może być prowadzona ewidencja szczegółowa umożliwiająca ustalenie struktury kosztów zarządu w sposób ułatwiający ich analizę i kontrolę. Konto 550 nie może wykazywać salda na koniec roku.
 64)
@@ -944,8 +915,7 @@ Konto 640 – „Rozliczenia międzyokresowe kosztów” Konto 640 służy do ew
 1)
 wysokości tych kosztów zakupu, które podlegają rozliczeniu w czasie;
 2)
-wysokości innych rozliczeń międzyokresowych kosztów z dalszym podziałem według ich tytułów.
-Saldo Wn konta 640 wyraża koszty przyszłych okresów, a saldo Ma – stan prawdopodobnych zobowiązań przypadających na bieżący okres sprawozdawczy.
+wysokości innych rozliczeń międzyokresowych kosztów z dalszym podziałem według ich tytułów. Saldo Wn konta 640 wyraża koszty przyszłych okresów, a saldo Ma – stan prawdopodobnych zobowiązań przypadających na bieżący okres sprawozdawczy.
 69)
 Zespół 7 – „Przychody, dochody i koszty” Konta zespołu 7 „Przychody, dochody i koszty” służą do ewidencji:
 1)
@@ -953,15 +923,13 @@ przychodów i kosztów ich osiągnięcia z tytułu sprzedaży produktów, towar�
 2)
 podatków nieujętych na koncie 403;
 3)
-dotacji i subwencji otrzymanych, które wpływają na wynik finansowy, oraz dotacji przekazanych.
-Ewidencję szczegółową prowadzi się według pozycji planu finansowego oraz stosownie do potrzeb planowania, analizy i sprawozdawczości oraz obliczenia podatków.
+dotacji i subwencji otrzymanych, które wpływają na wynik finansowy, oraz dotacji przekazanych. Ewidencję szczegółową prowadzi się według pozycji planu finansowego oraz stosownie do potrzeb planowania, analizy i sprawozdawczości oraz obliczenia podatków.
 70)
 Konto 700 – „Sprzedaż produktów i koszt ich wytworzenia” Konto 700 służy do ewidencji sprzedaży produktów (wyrobów gotowych i półfabrykatów oraz robót i usług) własnej działalności na rzecz obcych jednostek oraz działalności finansowo wyodrębnionej własnej jednostki oraz kosztu ich wytworzenia. Na stronie Wn konta 700 ujmuje się koszt wytworzenia sprzedanych produktów, obejmujący rzeczywisty koszt wytworzenia, za który uważa się również wartość produktów w cenach ewidencyjnych, skorygowaną o odchylenia od cen ewidencyjnych, w korespondencji z kontami: 500, 530, 580, 600, 620 lub 490. Na stronie Ma konta 700 ujmuje się przychody ze sprzedaży, w korespondencji z kontami przede wszystkim zespołu 1 i 2 oraz ewentualnie 0 i 8 oraz 4 bądź 5. Ewidencja szczegółowa do konta 700 powinna zapewnić podział sprzedaży dostosowany do zasad wymiaru podatków oraz należnych dotacji oraz według przedmiotów i kierunków sprzedaży. W końcu roku obrotowego przenosi się:
 1)
 przychody ze sprzedaży na stronę Ma konta 860;
 2)
-koszt sprzedanych produktów na stronę Wn konta 490, uznając konto 700.
-Na koniec roku konto 700 nie wykazuje salda.
+koszt sprzedanych produktów na stronę Wn konta 490, uznając konto 700. Na koniec roku konto 700 nie wykazuje salda.
 71)
 Konto 720 – „Przychody z tytułu dochodów budżetowych” Konto 720 służy do ewidencji przychodów z tytułu dochodów budżetowych związanych bezpośrednio z podstawową działalnością jednostki, w szczególności dochodów, do których zalicza się podatki, składki, opłaty, inne dochody budżetu państwa, jednostek samorządu terytorialnego oraz innych jednostek, należne na podstawie odrębnych ustaw lub umów międzynarodowych. Na stronie Wn konta 720 ujmuje się odpisy z tytułu dochodów budżetowych, a na stronie Ma konta 720 – przychody z tytułu dochodów budżetowych. W izbach administracji skarbowej na stronie Ma konta 720 ujmuje się również, na podstawie rocznych jednostkowych sprawozdań budżetowych, dochody budżetowe z tytułu podatków przekazane przez organy podatkowe podległe ministrowi właściwemu do spraw finansów publicznych na rachunek budżetu państwa, w korespondencji z kontem 235. Ewidencja szczegółowa prowadzona do konta 720 powinna zapewnić wyodrębnienie przychodów z tytułu dochodów budżetowych według pozycji planu finansowego. W zakresie podatkowych i niepodatkowych dochodów budżetowych ewidencja szczegółowa jest prowadzona według zasad rachunkowości podatkowej, natomiast w zakresie podatków pobieranych przez inne organy ewidencję szczegółową stanowią sprawozdania o dochodach budżetowych sporządzane przez te organy. W końcu roku obrotowego saldo konta 720 przenosi się na konto 860. Na koniec roku konto 720 nie wykazuje salda.
 72)
@@ -969,8 +937,7 @@ Konto 730 – „Sprzedaż towarów i wartość ich zakupu” Konto 730 służy 
 1)
 przychody ze sprzedaży towarów na stronę Ma konta 860 (Wn konto 730);
 2)
-wartość sprzedanych towarów w cenie zakupu na stronę Wn konta 860 (Ma konto 730).
-Na koniec roku konto 730 nie wykazuje salda.
+wartość sprzedanych towarów w cenie zakupu na stronę Wn konta 860 (Ma konto 730). Na koniec roku konto 730 nie wykazuje salda.
 73)
 Konto 740 – „Dotacje i środki na inwestycje” Konto 740 służy do ewidencji dotacji otrzymanych z budżetu jednostki samorządu terytorialnego oraz innych środków na finansowanie działalności podstawowej samorządowych zakładów budżetowych oraz środków pieniężnych przeznaczonych na inwestycje gromadzonych na wydzielonym rachunku bankowym państwowych i samorządowych jednostek budżetowych prowadzących działalność oświatową. Na koncie 740 nie ujmuje się dotacji otrzymanych na finansowanie inwestycji. Na stronie Wn konta 740 ujmuje się:
 1)
@@ -978,18 +945,15 @@ dotacje przekazane na finansowanie działalności podstawowej samobilansującym 
 2)
 środki pieniężne samorządowych zakładów budżetowych i dochody gromadzone przez jednostki budżetowe na wydzielonym rachunku wykorzystane lub przeznaczone na finansowanie inwestycji, w korespondencji z kontem 800 lub 840;
 3)
-zwrot dotacji niewykorzystanych, nadmiernie pobranych lub wykorzystanych niezgodnie z przeznaczeniem, w korespondencji z kontem 131 lub 225.
-Na stronie Ma konta 740 ujmuje się:
+zwrot dotacji niewykorzystanych, nadmiernie pobranych lub wykorzystanych niezgodnie z przeznaczeniem, w korespondencji z kontem 131 lub 225. Na stronie Ma konta 740 ujmuje się:
 1)
 w ciągu roku – dotacje rzeczywiście otrzymane, w korespondencji z kontem 131, lub dotacje należne, jeżeli ich wysokość wynika z przepisów, w korespondencji z kontem 225;
 2)
-na koniec okresu sprawozdawczego – dotacje należne, wynikające z przepisów prawa lub potwierdzone przez organ dotujący, albo jeżeli należna dotacja za dany rok wpłynęła na rachunek jednostki w okresie następnym do dnia sporządzenia sprawozdania finansowego, w korespondencji z kontem 225.
-Ewidencja szczegółowa powinna zapewnić możliwość ustalenia wysokości dotacji przypadających na poszczególne tytuły rozliczeń. W końcu roku budżetowego saldo konta 740 zamyka się dwoma saldami, które przenosi się:
+na koniec okresu sprawozdawczego – dotacje należne, wynikające z przepisów prawa lub potwierdzone przez organ dotujący, albo jeżeli należna dotacja za dany rok wpłynęła na rachunek jednostki w okresie następnym do dnia sporządzenia sprawozdania finansowego, w korespondencji z kontem 225. Ewidencja szczegółowa powinna zapewnić możliwość ustalenia wysokości dotacji przypadających na poszczególne tytuły rozliczeń. W końcu roku budżetowego saldo konta 740 zamyka się dwoma saldami, które przenosi się:
 1)
 saldo Wn oznacza wartość dotacji przekazanych na finansowanie działalności podstawowej samodzielnie bilansujących się oddziałów środków wykorzystanych lub przeznaczonych na inwestycje w samorządowych zakładach budżetowych, na stronę Wn konta 860;
 2)
-saldo Ma oznacza wartość dotacji otrzymanych na finansowanie działalności podstawowej, na stronę Ma konta 860.
-Na koniec roku konto 740 nie wykazuje salda.
+saldo Ma oznacza wartość dotacji otrzymanych na finansowanie działalności podstawowej, na stronę Ma konta 860. Na koniec roku konto 740 nie wykazuje salda.
 74)
 Konto 750 – „Przychody finansowe” Konto 750 służy do ewidencji przychodów finansowych. Na stronie Ma konta 750 ujmuje się przychody z tytułu operacji finansowych, w szczególności przychody ze sprzedaży papierów wartościowych, przychody z udziałów i akcji, dywidendy oraz odsetki od udzielonych pożyczek, dyskonto przy zakupie weksli, czeków obcych i papierów wartościowych oraz odsetki za zwłokę w zapłacie należności, dodatnie różnice kursowe. Ewidencja szczegółowa prowadzona do konta 750 powinna zapewnić wyodrębnienie przychodów finansowych z tytułu udziałów w innych podmiotach gospodarczych, należne jednostce odsetki. W końcu roku obrotowego przenosi się przychody finansowe na stronę Ma konta 860 (Wn konto 750). Na koniec roku konto 750 nie wykazuje salda.
 75)
@@ -1005,20 +969,17 @@ odpisane przedawnione zobowiązania, otrzymane odszkodowania, kary, nieodpłatni
 4)
 równowartość odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych otrzymanych nieodpłatnie przez samorządowy zakład budżetowy, a także od środków trwałych oraz wartości niematerialnych i prawnych, na sfinansowanie których samorządowy zakład budżetowy otrzymał środki pieniężne, w korespondencji ze stroną Wn konta 800;
 5)
-zmniejszenie stanu produktów w korespondencji ze stroną Wn konta 490.
-W końcu roku obrotowego przenosi się pozostałe przychody operacyjne na stronę Ma konta 860, w korespondencji ze stroną Wn konta 760. Na koniec roku konto 760 nie wykazuje salda.
+zmniejszenie stanu produktów w korespondencji ze stroną Wn konta 490. W końcu roku obrotowego przenosi się pozostałe przychody operacyjne na stronę Ma konta 860, w korespondencji ze stroną Wn konta 760. Na koniec roku konto 760 nie wykazuje salda.
 77)
 Konto 761 – „Pozostałe koszty operacyjne” Konto 761 służy do ewidencji kosztów niezwiązanych bezpośrednio z podstawową działalnością jednostki. W szczególności na stronie Wn konta 761 ujmuje się:
 1)
 koszty osiągnięcia pozostałych przychodów w wartości cen zakupu lub nabycia materiałów;
 2)
-kary, odpisane przedawnione, umorzone i nieściągalne należności, odpisy aktualizujące należności, koszty postępowania spornego i egzekucyjnego oraz nieodpłatnie przekazane rzeczowe aktywa obrotowe, koszty o nadzwyczajnej wartości lub które wystąpiły incydentalnie.
-Konto 761 służy również – w jednostkach ewidencjonujących koszty na kontach: 400, 401, 402, 403, 404, 405, 409, 490 oraz zespołu 5 – do ewidencji zapisów uzupełniających, dokonanych na kontach zespołów 5 i 6 z tytułu zwiększeń bądź zmniejszeń stanu produktów (w tym także rozliczeń międzyokresowych kosztów), w korespondencji z innymi kontami niż konto 490, konta zespołów 5 lub 6 oraz konta kosztu własnego sprzedaży w zespole 7. Na stronie Wn konta 761 w korespondencji ze stroną Ma konta 490 ujmuje się zwiększenie stanu produktów. W końcu roku obrotowego przenosi się:
+kary, odpisane przedawnione, umorzone i nieściągalne należności, odpisy aktualizujące należności, koszty postępowania spornego i egzekucyjnego oraz nieodpłatnie przekazane rzeczowe aktywa obrotowe, koszty o nadzwyczajnej wartości lub które wystąpiły incydentalnie. Konto 761 służy również – w jednostkach ewidencjonujących koszty na kontach: 400, 401, 402, 403, 404, 405, 409, 490 oraz zespołu 5 – do ewidencji zapisów uzupełniających, dokonanych na kontach zespołów 5 i 6 z tytułu zwiększeń bądź zmniejszeń stanu produktów (w tym także rozliczeń międzyokresowych kosztów), w korespondencji z innymi kontami niż konto 490, konta zespołów 5 lub 6 oraz konta kosztu własnego sprzedaży w zespole 7. Na stronie Wn konta 761 w korespondencji ze stroną Ma konta 490 ujmuje się zwiększenie stanu produktów. W końcu roku obrotowego przenosi się:
 1)
 na stronę Wn konta 490 – koszty związane z zakupem i sprzedażą składników majątku, jeżeli zostały ujęte na koncie 761, w korespondencji ze stroną Ma konta 761;
 2)
-na stronę Wn konta 860 – pozostałe koszty operacyjne, w korespondencji ze stroną Ma konta 761.
-Na koniec roku konto 761 nie wykazuje salda.
+na stronę Wn konta 860 – pozostałe koszty operacyjne, w korespondencji ze stroną Ma konta 761. Na koniec roku konto 761 nie wykazuje salda.
 78)
 Zespół 8 – „Fundusze, rezerwy i wynik finansowy” Konta zespołu 8 służą do ewidencji funduszy, wyniku finansowego, dotacji z budżetu, rezerw i rozliczeń międzyokresowych przychodów.
 79)
@@ -1038,8 +999,7 @@ wartość pasywów przejętych od zlikwidowanych jednostek;
 7)
 wartość aktywów przekazanych w ramach centralnego zaopatrzenia;
 8)
-równowartość odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych otrzymanych nieodpłatnie przez samorządowy zakład budżetowy, a także od środków trwałych oraz wartości niematerialnych i prawnych, na sfinansowanie których samorządowy zakład budżetowy otrzymał środki pieniężne, w korespondencji ze stroną Ma konta 760.
-Na stronie Ma konta 800 ujmuje się w szczególności:
+równowartość odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych otrzymanych nieodpłatnie przez samorządowy zakład budżetowy, a także od środków trwałych oraz wartości niematerialnych i prawnych, na sfinansowanie których samorządowy zakład budżetowy otrzymał środki pieniężne, w korespondencji ze stroną Ma konta 760. Na stronie Ma konta 800 ujmuje się w szczególności:
 1)
 przeksięgowanie zysku bilansowego roku ubiegłego z konta 860;
 2)
@@ -1059,8 +1019,7 @@ wartość aktywów przejętych od zlikwidowanych jednostek;
 9)
 wartość objętych akcji i udziałów;
 10)
-wartość aktywów otrzymanych w ramach centralnego zaopatrzenia.
-Ewidencja szczegółowa prowadzona do konta 800 powinna zapewnić możliwość ustalenia przyczyn zwiększeń i zmniejszeń funduszu jednostki. Saldo konta 800 oznacza stan funduszu jednostki.
+wartość aktywów otrzymanych w ramach centralnego zaopatrzenia. Ewidencja szczegółowa prowadzona do konta 800 powinna zapewnić możliwość ustalenia przyczyn zwiększeń i zmniejszeń funduszu jednostki. Saldo konta 800 oznacza stan funduszu jednostki.
 80)
 Konto 810 – „Dotacje budżetowe, płatności z budżetu środków europejskich oraz środki z budżetu na inwestycje” Konto 810 służy do ewidencji dotacji budżetowych, płatności z budżetu środków europejskich oraz środków z budżetu na inwestycje. Na stronie Wn konta 810 ujmuje się:
 1)
@@ -1068,8 +1027,7 @@ wartość dotacji przekazanych z budżetu w części uznanej za wykorzystane lub
 2)
 wartość płatności z budżetu środków europejskich uznanych za rozliczone, w korespondencji z kontem 224;
 3)
-równowartość wydatków dokonanych przez jednostki budżetowe ze środków budżetu na finansowanie: środków trwałych w budowie, zakupu środków trwałych oraz wartości niematerialnych i prawnych.
-Na stronie Ma konta 810 ujmuje się przeksięgowanie, w końcu roku, salda konta 810 na konto 800. Na koniec roku konto 810 nie wykazuje salda.
+równowartość wydatków dokonanych przez jednostki budżetowe ze środków budżetu na finansowanie: środków trwałych w budowie, zakupu środków trwałych oraz wartości niematerialnych i prawnych. Na stronie Ma konta 810 ujmuje się przeksięgowanie, w końcu roku, salda konta 810 na konto 800. Na koniec roku konto 810 nie wykazuje salda.
 81)
 Konto 820 – „Rozliczenie wyniku finansowego” Konto 820 służy do ewidencji rozliczenia wyniku finansowego samorządowych zakładów budżetowych. Na stronie Wn konta 820 ujmuje się dokonane lub należne wpłaty do budżetu z tytułu nadwyżki środków obrotowych samorządowych zakładów budżetowych. Na stronie Ma konta 820 ujmuje się przeniesienie salda konta w roku następnym na konto 800.
 82)
@@ -1077,15 +1035,13 @@ Konto 840 – „Rezerwy i rozliczenia międzyokresowe przychodów” Konto 840 
 1)
 rezerwy oraz przyczyn jej zwiększeń i zmniejszeń;
 2)
-rozliczeń międzyokresowych przychodów z poszczególnych tytułów oraz przyczyn ich zwiększeń i zmniejszeń.
-Konto 840 może wykazywać saldo Ma, które oznacza stan rezerw i rozliczeń międzyokresowych przychodów.
+rozliczeń międzyokresowych przychodów z poszczególnych tytułów oraz przyczyn ich zwiększeń i zmniejszeń. Konto 840 może wykazywać saldo Ma, które oznacza stan rezerw i rozliczeń międzyokresowych przychodów.
 83)
 Konto 851 – „Zakładowy fundusz świadczeń socjalnych” Konto 851 służy do ewidencji stanu oraz zwiększeń i zmniejszeń zakładowego funduszu świadczeń socjalnych. Środki pieniężne tego funduszu, wyodrębnione na specjalnym rachunku bankowym, ujmuje się na koncie 135 „Rachunki środków funduszy specjalnego przeznaczenia”. Pozostałe środki majątkowe ujmuje się na odpowiednich kontach działalności podstawowej jednostki (z wyjątkiem kosztów i przychodów podlegających sfinansowaniu z funduszu). Ewidencja szczegółowa do konta 851 powinna pozwolić na wyodrębnienie:
 1)
 stanu, zwiększeń i zmniejszeń zakładowego funduszu świadczeń socjalnych;
 2)
-wysokości poniesionych kosztów i wysokości uzyskanych przychodów przez poszczególne rodzaje działalności socjalnej.
-Saldo Ma konta 851 wyraża stan zakładowego funduszu świadczeń socjalnych.
+wysokości poniesionych kosztów i wysokości uzyskanych przychodów przez poszczególne rodzaje działalności socjalnej. Saldo Ma konta 851 wyraża stan zakładowego funduszu świadczeń socjalnych.
 84)
 Konto 853 – „Fundusze celowe” Konto 853 służy do ewidencji stanu, zwiększeń i zmniejszeń funduszy celowych oraz innych funduszy specjalnego przeznaczenia. Na stronie Wn konta 853 ujmuje się koszty oraz inne niż koszty zmniejszenia funduszy, a na stronie Ma – przychody oraz pozostałe zwiększenia funduszy. Ewidencja szczegółowa do konta 853 powinna pozwolić na ustalenie zwiększeń i zmniejszeń oraz stanu każdego z funduszy oddzielnie. Saldo Ma konta 853 wyraża stan funduszy celowych oraz innych funduszy specjalnego przeznaczenia.
 85)
@@ -1103,15 +1059,13 @@ dotacji przekazanych na finansowanie działalności podstawowej samodzielnie bil
 5)
 kosztów operacji finansowych, w korespondencji z kontem 751, oraz pozostałych kosztów operacyjnych, w korespondencji z kontem 761;
 6)
-obowiązkowych zmniejszeń wyniku finansowego, w korespondencji z kontem 870.
-Na stronie Ma konta 860 ujmuje się w końcu roku obrotowego sumę:
+obowiązkowych zmniejszeń wyniku finansowego, w korespondencji z kontem 870. Na stronie Ma konta 860 ujmuje się w końcu roku obrotowego sumę:
 1)
 uzyskanych przychodów, w korespondencji z poszczególnymi kontami zespołu 7;
 2)
 zwiększeń stanu produktów oraz rozliczeń międzyokresowych w stosunku do stanu na początek roku, w korespondencji z kontem 490;
 3)
-dotacji otrzymanych na finansowanie działalności podstawowej, w korespondencji z kontem 740.
-Saldo konta 860 wyraża na koniec roku obrotowego wynik finansowy jednostki, saldo Wn – stratę netto, saldo Ma – zysk netto. Saldo jest przenoszone w roku następnym na konto 800.
+dotacji otrzymanych na finansowanie działalności podstawowej, w korespondencji z kontem 740. Saldo konta 860 wyraża na koniec roku obrotowego wynik finansowy jednostki, saldo Wn – stratę netto, saldo Ma – zysk netto. Saldo jest przenoszone w roku następnym na konto 800.
 87)
 Konto 870 – „Podatki i obowiązkowe rozliczenia z budżetem obciążające wynik finansowy” Konto 870 służy do ewidencji obowiązkowych zmniejszeń wyniku finansowego z tytułu podatku dochodowego oraz nadwyżki dochodów jednostek budżetowych prowadzących działalność oświatową. Na stronie Wn konta 870 ujmuje się zarachowane zmniejszenia wyniku, w korespondencji z kontem 225. Ewidencję szczegółową do konta 870 prowadzi się według poszczególnych rozliczeń z budżetem. W końcu roku budżetowego saldo konta 870 podlega przeniesieniu na stronę Wn konta 860.
 1.
@@ -1127,22 +1081,19 @@ równowartość zrealizowanych wydatków budżetu;
 2)
 wartość planu niewygasających wydatków budżetu do realizacji w roku następnym;
 3)
-wartość planu niezrealizowanego i wygasłego.
-Ewidencja szczegółowa do konta 980 jest prowadzona w szczegółowości planu finansowego wydatków budżetowych. Konto 980 nie wykazuje na koniec roku salda.
+wartość planu niezrealizowanego i wygasłego. Ewidencja szczegółowa do konta 980 jest prowadzona w szczegółowości planu finansowego wydatków budżetowych. Konto 980 nie wykazuje na koniec roku salda.
 4)
 Konto 981 – „Plan finansowy niewygasających wydatków” Konto 981 służy do ewidencji planu finansowego niewygasających wydatków budżetowych dysponenta środków budżetowych. Na stronie Wn konta 981 ujmuje się plan finansowy niewygasających wydatków budżetowych. Na stronie Ma konta 981 ujmuje się:
 1)
 równowartość zrealizowanych wydatków budżetowych obciążających plan finansowy niewygasających wydatków budżetowych;
 2)
-wartość planu niewygasających wydatków budżetowych w części niezrealizowanej lub wygasłej.
-Ewidencję szczegółową do konta 981 prowadzi się w szczegółowości planu finansowego niewygasających wydatków budżetowych. Konto 981 nie wykazuje salda na koniec roku.
+wartość planu niewygasających wydatków budżetowych w części niezrealizowanej lub wygasłej. Ewidencję szczegółową do konta 981 prowadzi się w szczegółowości planu finansowego niewygasających wydatków budżetowych. Konto 981 nie wykazuje salda na koniec roku.
 5)
 Konto 982 – „Plan wydatków środków europejskich” Konto 982 służy do ewidencji planu wydatków środków europejskich dysponenta środków budżetowych. Na stronie Wn konta 982 ujmuje się plan wydatków środków europejskich oraz jego zmiany. Na stronie Ma konta 982 ujmuje się w szczególności:
 1)
 równowartość zrealizowanych wydatków środków europejskich;
 2)
-wartość planu niezrealizowanego i wygasłego.
-Ewidencja szczegółowa do konta 982 jest prowadzona według podziałek klasyfikacji budżetowej.
+wartość planu niezrealizowanego i wygasłego. Ewidencja szczegółowa do konta 982 jest prowadzona według podziałek klasyfikacji budżetowej.
 6)
 Konto 983 – „Zaangażowanie wydatków środków europejskich roku bieżącego” Konto 983 służy do ewidencji prawnego zaangażowania wydatków środków europejskich na dany rok budżetowy. Na stronie Wn konta 983 ujmuje się równowartość sfinansowanych wydatków środków europejskich w danym roku budżetowym. Na stronie Ma konta 983 ujmuje się zaangażowanie wydatków w kwocie obciążającej plan finansowy, wynikającej z decyzji lub zawartych z beneficjentami umów o dofinansowanie projektów finansowanych z udziałem środków europejskich, których wykonanie spowoduje konieczność dokonania wydatków tych środków w roku bieżącym. Na koniec roku konto 983 nie wykazuje salda.
 7)
@@ -1158,8 +1109,7 @@ Konto 998 – „Zaangażowanie wydatków budżetowych roku bieżącego” Konto
 1)
 równowartość sfinansowanych wydatków budżetowych w danym roku budżetowym;
 2)
-równowartość zaangażowanych wydatków, które będą obciążały wydatki roku następnego.
-Na stronie Ma konta 998 ujmuje się zaangażowanie wydatków, czyli wartość umów, decyzji i innych postanowień, których wykonanie spowoduje konieczność dokonania wydatków budżetowych w roku bieżącym. Ewidencja szczegółowa do konta 998 jest prowadzona według podziałek klasyfikacyjnych i powinna zapewnić w szczególności ustalenie kwoty niewygasających wydatków. Na koniec roku konto 998 nie wykazuje salda.
+równowartość zaangażowanych wydatków, które będą obciążały wydatki roku następnego. Na stronie Ma konta 998 ujmuje się zaangażowanie wydatków, czyli wartość umów, decyzji i innych postanowień, których wykonanie spowoduje konieczność dokonania wydatków budżetowych w roku bieżącym. Ewidencja szczegółowa do konta 998 jest prowadzona według podziałek klasyfikacyjnych i powinna zapewnić w szczególności ustalenie kwoty niewygasających wydatków. Na koniec roku konto 998 nie wykazuje salda.
 12)
 Konto 999 – „Zaangażowanie wydatków budżetowych przyszłych lat” Konto 999 służy do ewidencji prawnego zaangażowania wydatków budżetowych przyszłych lat oraz niewygasających wydatków, które mają być zrealizowane w latach następnych. Na stronie Wn konta 999 ujmuje się równowartość zaangażowanych wydatków budżetowych w latach poprzednich przeznaczonych do realizacji w roku bieżącym. Na stronie Ma konta 999 ujmuje się wysokość zaangażowanych wydatków lat przyszłych. Ewidencja szczegółowa do konta 999 jest prowadzona według podziałek klasyfikacyjnych i powinna zapewnić w szczególności ustalenie kwoty niewygasających wydatków. Na koniec roku konto 999 może wykazywać saldo Ma oznaczające zaangażowanie wydatków budżetowych lat przyszłych.
 
@@ -1184,8 +1134,7 @@ Konto 140 – „Inne środki pieniężne” Konto 140 służy do ewidencji śro
 1)
 kasą placówki a jej rachunkiem bankowym, jeżeli wpłata gotówki lub przekazanie czeków do banku albo pobranie gotówki z banku nastąpiło w końcu roku, a potwierdzenie wpłaty lub wypłaty albo realizacji czeku przez bank nastąpiło w następnym roku;
 2)
-rachunkami bankowymi placówki, jeżeli realizacja operacji na tych rachunkach została potwierdzona w różnych okresach. Środki pieniężne w drodze mogą być ewidencjonowane na bieżąco lub tylko na przełomie roku.
-Ewidencja szczegółowa prowadzona do konta 140 powinna umożliwić ustalenie stanu środków pieniężnych w drodze, z poszczególnych tytułów w walucie tytułu oraz w walucie, w której jest prowadzona rachunkowość, a także stanu innych niż gotówka środków pieniężnych (czeki) z poszczególnych tytułów w walucie tytułu oraz w walucie, w której jest prowadzona rachunkowość. Saldo Wn lub Ma konta 140 wyraża ewidencyjny stan środków pieniężnych w drodze oraz innych niż gotówka środków pieniężnych w walucie, w której jest prowadzona rachunkowość.
+rachunkami bankowymi placówki, jeżeli realizacja operacji na tych rachunkach została potwierdzona w różnych okresach. Środki pieniężne w drodze mogą być ewidencjonowane na bieżąco lub tylko na przełomie roku. Ewidencja szczegółowa prowadzona do konta 140 powinna umożliwić ustalenie stanu środków pieniężnych w drodze, z poszczególnych tytułów w walucie tytułu oraz w walucie, w której jest prowadzona rachunkowość, a także stanu innych niż gotówka środków pieniężnych (czeki) z poszczególnych tytułów w walucie tytułu oraz w walucie, w której jest prowadzona rachunkowość. Saldo Wn lub Ma konta 140 wyraża ewidencyjny stan środków pieniężnych w drodze oraz innych niż gotówka środków pieniężnych w walucie, w której jest prowadzona rachunkowość.
 7)
 Konto 200 – „Rozrachunki” Konto 200 służy w szczególności do ewidencji:
 1)
@@ -1205,8 +1154,7 @@ rozliczeń z tytułu wpłaconych sum obcych;
 8)
 rozliczeń z tytułu wymiany walut;
 9)
-roszczeń.
-Ewidencja szczegółowa prowadzona do konta 200 powinna zapewnić ustalenie stanu rozliczeń z każdym kontrahentem, z poszczególnych tytułów w walucie tytułu rozliczeń oraz w walucie, w której jest prowadzona rachunkowość. Konto 200 może wykazywać saldo Wn lub saldo Ma. W bilansie wykazuje się odrębnie salda należności i roszczeń oraz odrębnie salda zobowiązań z różnymi jednostkami lub osobami z różnych tytułów.
+roszczeń. Ewidencja szczegółowa prowadzona do konta 200 powinna zapewnić ustalenie stanu rozliczeń z każdym kontrahentem, z poszczególnych tytułów w walucie tytułu rozliczeń oraz w walucie, w której jest prowadzona rachunkowość. Konto 200 może wykazywać saldo Wn lub saldo Ma. W bilansie wykazuje się odrębnie salda należności i roszczeń oraz odrębnie salda zobowiązań z różnymi jednostkami lub osobami z różnych tytułów.
 8)
 Konto 400 – „Wydatki budżetowe” Konto 400 służy do ewidencji wydatków budżetowych placówki, pokrytych ze środków na wydatki budżetowe dotyczących danego roku. Ewidencja szczegółowa do konta 400 powinna być prowadzona według pozycji zatwierdzonego planu finansowego placówki. W ciągu roku konto 400 może wykazywać saldo Wn, które oznacza wysokość wydatków poniesionych przez placówkę i sfinansowanych ze środków budżetu państwa. W końcu roku saldo konta 400 jest przenoszone na konto 810. Na koniec roku konto 400 nie wykazuje salda.
 9)
@@ -1224,33 +1172,63 @@ Konto 880 – „Fundusz działalności inwestycyjnej” Konto 880 służy do ew
 
 ## Załącznik nr 5 — – Bilans jednostki budżetowej lub samorządowego zakładu budżetowego (wzór)
 
-Nazwa i adres jednostki sprawozdawczej...Numer identyfikacyjny REGON BILANSjednostki budżetowej lub samorządowego zakładu budżetowego sporządzony na dzień ... 20... r. Adresat AKTYWA Stan na początek roku Stan na koniec roku PASYWA Stan na początek roku Stan na koniec roku A. Aktywa trwałe A. Fundusze I. Wartości niematerialne i prawne I. Fundusz jednostki II. Rzeczowe aktywa trwałe II. Wynik finansowy netto (+, -) 1. Środki trwałe 1. Zysk netto (+) 1.1. Grunty 2. Strata netto (-) 1.1.1. Grunty stanowiące własność jednostki samorządu terytorialnego, przekazane w użytkowanie wieczyste innym podmiotom III. Odpisy z wyniku finansowego (nadwyżka środków obrotowych) (-) 1.2. Budynki, lokale i obiekty inżynierii lądowej i wodnej IV. Fundusz mienia zlikwidowanych jednostek 1.3. Urządzenia techniczne i maszyny B. Fundusze placówek C. Państwowe fundusze celowe 1.4. Środki transportu D. Zobowiązania i rezerwy na zobowiązania 1.5. Inne środki trwałe I. Zobowiązania długoterminowe 2. Środki trwałe w budowie (inwestycje) II. Zobowiązania krótkoterminowe 3. Zaliczki na środki trwałe w budowie (inwestycje) 1. Zobowiązania z tytułu dostaw i usług III. Należności długoterminowe 2. Zobowiązania wobec budżetów IV. Długoterminowe aktywa finansowe 3. Zobowiązania z tytułu ubezpieczeń i innych świadczeń 1. Akcje i udziały 4. Zobowiązania z tytułu wynagrodzeń 2. Inne papiery wartościowe 5. Pozostałe zobowiązania 3. Inne długoterminowe aktywa finansowe 6. Sumy obce (depozytowe, zabezpieczenie wykonania umów) V. Wartość mienia zlikwidowanych jednostek 7. Rozliczenia z tytułu środków na wydatki budżetowe i z tytułu dochodów budżetowych B. Aktywa obrotowe 8. Fundusze specjalne I. Zapasy 8.1. Zakładowy Fundusz Świadczeń Socjalnych 1. Materiały 8.2. Inne fundusze 2. Półprodukty i produkty w toku III. Rezerwy na zobowiązania 3. Produkty gotowe IV. Rozliczenia międzyokresowe 4. Towary II. Należności krótkoterminowe 1. Należności z tytułu dostaw i usług 2. Należności od budżetów 3. Należności z tytułu ubezpieczeń i innych świadczeń 4. Pozostałe należności 5. Rozliczenia z tytułu środków na wydatki budżetowe i z tytułu dochodów budżetowych III. Krótkoterminowe aktywa finansowe 1. Środki pieniężne w kasie 2. Środki pieniężne na rachunkach bankowych 3. Środki pieniężne państwowego funduszu celowego 4. Inne środki pieniężne 5. Akcje lub udziały 6. Inne papiery wartościowe 7. Inne krótkoterminowe aktywa finansowe IV. Rozliczenia międzyokresowe Suma aktywów Suma pasywów ...(główny księgowy)... ...(rok, miesiąc, dzień)... ...(kierownik jednostki)...
+Nazwa i adres jednostki sprawozdawczej
+...
+Numer identyfikacyjny REGON BILANS
+jednostki budżetowej lub samorządowego zakładu budżetowego sporządzony na dzień ... 20... r. Adresat AKTYWA Stan na początek roku Stan na koniec roku PASYWA Stan na początek roku Stan na koniec roku A. Aktywa trwałe A. Fundusze I. Wartości niematerialne i prawne I. Fundusz jednostki II. Rzeczowe aktywa trwałe II. Wynik finansowy netto (+, -) 1. Środki trwałe 1. Zysk netto (+) 1.1. Grunty 2. Strata netto (-) 1.1.1. Grunty stanowiące własność jednostki samorządu terytorialnego, przekazane w użytkowanie wieczyste innym podmiotom III. Odpisy z wyniku finansowego (nadwyżka środków obrotowych) (-) 1.2. Budynki, lokale i obiekty inżynierii lądowej i wodnej IV. Fundusz mienia zlikwidowanych jednostek 1.3. Urządzenia techniczne i maszyny B. Fundusze placówek C. Państwowe fundusze celowe 1.4. Środki transportu D. Zobowiązania i rezerwy na zobowiązania 1.5. Inne środki trwałe I. Zobowiązania długoterminowe 2. Środki trwałe w budowie (inwestycje) II. Zobowiązania krótkoterminowe 3. Zaliczki na środki trwałe w budowie (inwestycje) 1. Zobowiązania z tytułu dostaw i usług III. Należności długoterminowe 2. Zobowiązania wobec budżetów IV. Długoterminowe aktywa finansowe 3. Zobowiązania z tytułu ubezpieczeń i innych świadczeń 1. Akcje i udziały 4. Zobowiązania z tytułu wynagrodzeń 2. Inne papiery wartościowe 5. Pozostałe zobowiązania 3. Inne długoterminowe aktywa finansowe 6. Sumy obce (depozytowe, zabezpieczenie wykonania umów) V. Wartość mienia zlikwidowanych jednostek 7. Rozliczenia z tytułu środków na wydatki budżetowe i z tytułu dochodów budżetowych B. Aktywa obrotowe 8. Fundusze specjalne I. Zapasy 8.1. Zakładowy Fundusz Świadczeń Socjalnych 1. Materiały 8.2. Inne fundusze 2. Półprodukty i produkty w toku III. Rezerwy na zobowiązania 3. Produkty gotowe IV. Rozliczenia międzyokresowe 4. Towary II. Należności krótkoterminowe 1. Należności z tytułu dostaw i usług 2. Należności od budżetów 3. Należności z tytułu ubezpieczeń i innych świadczeń 4. Pozostałe należności 5. Rozliczenia z tytułu środków na wydatki budżetowe i z tytułu dochodów budżetowych III. Krótkoterminowe aktywa finansowe 1. Środki pieniężne w kasie 2. Środki pieniężne na rachunkach bankowych 3. Środki pieniężne państwowego funduszu celowego 4. Inne środki pieniężne 5. Akcje lub udziały 6. Inne papiery wartościowe 7. Inne krótkoterminowe aktywa finansowe IV. Rozliczenia międzyokresowe Suma aktywów Suma pasywów
+...(główny księgowy)... ...(rok, miesiąc, dzień)... ...(kierownik jednostki)...
 
 ## Załącznik nr 6 — – Bilans placówki (wzór)
 
-Nazwa i adres jednostki sprawozdawczej... BILANSplacówkisporządzony na dzień ... 20 ... r.w walucie.... Adresat AKTYWA Stan na początek roku Stan na koniec roku PASYWA Stan na początek roku Stan na koniec roku A. Rzeczowe aktywa trwałe A. Fundusze 1. Grunty 1. Fundusz placówki 2. Budynki, lokale i obiekty inżynierii lądowej i wodnej 2. Fundusz dochodów placówki 3. Środki transportu 3. Fundusz działalności inwestycyjnej 4. Pozostałe środki trwałe 4. Fundusz środków na wydatki budżetowe 5. Środki trwałe w budowie (inwestycje) 5. Dochody budżetowe do rozliczenia z budżetem B. Należności i roszczenia B. Zobowiązania C. Środki pieniężne 1. Środki pieniężne w kasie 2. Środki pieniężne na rachunkach bankowych 3. Inne środki pieniężne D. Rozliczenia międzyokresowe Suma aktywów (A+B+C+D) Suma pasywów (A+B) ...(główny księgowy)... ...(rok, miesiąc, dzień)... ...(kierownik jednostki)...
+Nazwa i adres jednostki sprawozdawczej
+... BILANS
+placówki
+sporządzony na dzień ... 20 ... r.
+w walucie.... Adresat AKTYWA Stan na początek roku Stan na koniec roku PASYWA Stan na początek roku Stan na koniec roku A. Rzeczowe aktywa trwałe A. Fundusze 1. Grunty 1. Fundusz placówki 2. Budynki, lokale i obiekty inżynierii lądowej i wodnej 2. Fundusz dochodów placówki 3. Środki transportu 3. Fundusz działalności inwestycyjnej 4. Pozostałe środki trwałe 4. Fundusz środków na wydatki budżetowe 5. Środki trwałe w budowie (inwestycje) 5. Dochody budżetowe do rozliczenia z budżetem B. Należności i roszczenia B. Zobowiązania C. Środki pieniężne 1. Środki pieniężne w kasie 2. Środki pieniężne na rachunkach bankowych 3. Inne środki pieniężne D. Rozliczenia międzyokresowe Suma aktywów (A+B+C+D) Suma pasywów (A+B)
+...(główny księgowy)... ...(rok, miesiąc, dzień)... ...(kierownik jednostki)...
 
 ## Załącznik nr 7 — – Bilans z wykonania budżetu jednostki samorządu terytorialnego (wzór)
 
-Nazwa i adres jednostki sprawozdawczej...Numer identyfikacyjny REGON BILANSz wykonania budżetu jednostki samorządu terytorialnego sporządzony na dzień ... 20 ... r. Adresat AKTYWA Stan na początek roku Stan na koniec roku PASYWA Stan na początek roku Stan na koniec roku I. Środki pieniężne I. Zobowiązania 1. Środki pieniężne 1. Zobowiązania finansowe 1.1. Środki pieniężne budżetu 1.1. Krótkoterminowe (do 12 miesięcy) 1.2. Pozostałe środki pieniężne 1.2. Długoterminowe (powyżej 12 miesięcy) II. Należności i rozliczenia 2. Zobowiązania wobec budżetów 1. Należności finansowe 3. Pozostałe zobowiązania 1.1. Krótkoterminowe (do 12 miesięcy) II. Aktywa netto budżetu 1.2. Długoterminowe (powyżej 12 miesięcy) 1. Wynik wykonania budżetu (+, -) 2. Należności od budżetów 1.1. Nadwyżka budżetu (+) 3. Pozostałe należności i rozliczenia 1.2. Deficyt budżetu (-) 1.3. Niewykonane wydatki (-) 2. Wynik na operacjach niekasowych 3. Rezerwa na niewygasające wydatki 4. Środki z prywatyzacji 5. Skumulowany wynik budżetu III. Rozliczenia międzyokresowe III. Rozliczenia międzyokresowe Suma aktywów Suma pasywów ...(skarbnik)... ...(rok, miesiąc, dzień)... ...(zarząd)...
+Nazwa i adres jednostki sprawozdawczej
+...
+Numer identyfikacyjny REGON BILANS
+z wykonania budżetu jednostki samorządu terytorialnego sporządzony na dzień ... 20 ... r. Adresat AKTYWA Stan na początek roku Stan na koniec roku PASYWA Stan na początek roku Stan na koniec roku I. Środki pieniężne I. Zobowiązania 1. Środki pieniężne 1. Zobowiązania finansowe 1.1. Środki pieniężne budżetu 1.1. Krótkoterminowe (do 12 miesięcy) 1.2. Pozostałe środki pieniężne 1.2. Długoterminowe (powyżej 12 miesięcy) II. Należności i rozliczenia 2. Zobowiązania wobec budżetów 1. Należności finansowe 3. Pozostałe zobowiązania 1.1. Krótkoterminowe (do 12 miesięcy) II. Aktywa netto budżetu 1.2. Długoterminowe (powyżej 12 miesięcy) 1. Wynik wykonania budżetu (+, -) 2. Należności od budżetów 1.1. Nadwyżka budżetu (+) 3. Pozostałe należności i rozliczenia 1.2. Deficyt budżetu (-) 1.3. Niewykonane wydatki (-) 2. Wynik na operacjach niekasowych 3. Rezerwa na niewygasające wydatki 4. Środki z prywatyzacji 5. Skumulowany wynik budżetu III. Rozliczenia międzyokresowe III. Rozliczenia międzyokresowe Suma aktywów Suma pasywów
+...(skarbnik)... ...(rok, miesiąc, dzień)... ...(zarząd)...
 
 ## Załącznik nr 8 — – Bilans budżetu państwa (wzór)
 
-Ministerstwo Finansów BILANSbudżetu państwa...sporządzony na dzień 31 grudnia 20...r. AKTYWA Stan na początek roku Stan na koniec roku PASYWA Stan na początek roku Stan na koniec roku I. Środki pieniężne I. Zobowiązania 1. Środki pieniężne budżetu 1. Zobowiązania finansowe 1.1. Środki pieniężne budżetu państwa 2. Pozostałe zobowiązania 1.2. Środki pieniężne budżetu środków europejskich II. Aktywa netto budżetu 1.3. Pozostałe środki pieniężne II. Należności 1. Wynik (+,-) budżetu państwa 1. Należności finansowe 1.1. Nadwyżka budżetu państwa (+) 2. Pozostałe należności 1.2. Deficyt budżetu państwa (-) 1.3. Niewykonane wydatki (-) 1.4. Niewygasające wydatki 2. Skumulowany wynik budżetu państwa (+, -) 3. Skumulowany wynik budżetu środków europejskich (+, -) 3.1. Wynik budżetu środków europejskich za dany rok (+, -) III. Udziały w międzynarodowych instytucjach finansowych 4. Wynik na operacjach niekasowych (+/-) 5. Inne aktywa netto budżetu IV. Inne rozliczenia w ramach budżetu III. Inne rozliczenia w ramach budżetu 1. Rozliczenia w ramach budżetu państwa 1. Rozliczenia w ramach budżetu państwa 2. Rozliczenia w ramach budżetu środków europejskich 2. Rozliczenia w ramach budżetu środków europejskich Suma aktywów Suma pasywów ...(Główny księgowy budżetu państwa)... ...(rok, miesiąc, dzień)... ...(minister właściwy do spraw finansów publicznych)...
+Ministerstwo Finansów BILANS
+budżetu państwa
+...
+sporządzony na dzień 31 grudnia 20...r. AKTYWA Stan na początek roku Stan na koniec roku PASYWA Stan na początek roku Stan na koniec roku I. Środki pieniężne I. Zobowiązania 1. Środki pieniężne budżetu 1. Zobowiązania finansowe 1.1. Środki pieniężne budżetu państwa 2. Pozostałe zobowiązania 1.2. Środki pieniężne budżetu środków europejskich II. Aktywa netto budżetu 1.3. Pozostałe środki pieniężne II. Należności 1. Wynik (+,-) budżetu państwa 1. Należności finansowe 1.1. Nadwyżka budżetu państwa (+) 2. Pozostałe należności 1.2. Deficyt budżetu państwa (-) 1.3. Niewykonane wydatki (-) 1.4. Niewygasające wydatki 2. Skumulowany wynik budżetu państwa (+, -) 3. Skumulowany wynik budżetu środków europejskich (+, -) 3.1. Wynik budżetu środków europejskich za dany rok (+, -) III. Udziały w międzynarodowych instytucjach finansowych 4. Wynik na operacjach niekasowych (+/-) 5. Inne aktywa netto budżetu IV. Inne rozliczenia w ramach budżetu III. Inne rozliczenia w ramach budżetu 1. Rozliczenia w ramach budżetu państwa 1. Rozliczenia w ramach budżetu państwa 2. Rozliczenia w ramach budżetu środków europejskich 2. Rozliczenia w ramach budżetu środków europejskich Suma aktywów Suma pasywów
+...(Główny księgowy budżetu państwa)... ...(rok, miesiąc, dzień)... ...(minister właściwy do spraw finansów publicznych)...
 
 ## Załącznik nr 9 — – Skonsolidowany bilans jednostki samorządu terytorialnego (wzór)
 
-Nazwa i adres jednostki sprawozdawczej...Numer identyfikacyjny REGON SKONSOLIDOWANY BILANSjednostki samorządu terytorialnego sporządzony na dzień ... 20... r. Adresat... AKTYWA Stan na początek roku Stan na koniec roku PASYWA Stan na początek roku Stan na koniec roku A. Aktywa trwałe A. Fundusz I. Wartości niematerialne i prawne I. Fundusze jednostek II. Wartość firmy jednostek podporządkowanych II. Skumulowany wynik budżetu (+,-) III. Rzeczowe aktywa trwałe III. Wynik budżetu (+, -) 1.1. Grunty IV. Wyniki finansowe roku bieżącego 1.2. Budynki, lokale i obiekty inżynierii lądowej i wodnej 1.1. Zysk netto 1.3. Pozostałe środki trwałe 1.2. Strata netto (-) 1.4. Środki trwałe w budowie (inwestycje) V. Wyniki finansowe lat ubiegłych 1.5. Środki przekazane na poczet środków trwałych w budowie (inwestycji) 1.1. Zysk netto IV. Długoterminowe aktywa finansowe 1.2. Strata netto (-) 1.1. Akcje i udziały VI. Kapitały mniejszości 1.2. Papiery wartościowe długoterminowe VII. Pozostałe pozycje 1.3. Inne B. Zobowiązania długoterminowe V. Należności finansowe długoterminowe I. Zobowiązania finansowe długoterminowe VI. Wartość mienia zlikwidowanych jednostek II. Pozostałe zobowiązania długoterminowe B. Aktywa obrotowe C. Zobowiązania krótkoterminowe i fundusze specjalne I. Zapasy I. Zobowiązania finansowe krótkoterminowe II. Należności i roszczenia II. Pozostałe zobowiązania krótkoterminowe III. Należności finansowe krótkoterminowe III. Rezerwy na zobowiązania IV. Środki pieniężne IV. Fundusze specjalne V. Krótkoterminowe papiery wartościowe D. Rozliczenia międzyokresowe C. Rozliczenia międzyokresowe E. Ujemna wartość firmy jednostek podporządkowanych Suma aktywów Suma pasywów ...(skarbnik)... ...(rok, miesiąc, dzień)... ...(zarząd)...
+Nazwa i adres jednostki sprawozdawczej
+...
+Numer identyfikacyjny REGON SKONSOLIDOWANY BILANS
+jednostki samorządu terytorialnego sporządzony na dzień ... 20... r. Adresat
+... AKTYWA Stan na początek roku Stan na koniec roku PASYWA Stan na początek roku Stan na koniec roku A. Aktywa trwałe A. Fundusz I. Wartości niematerialne i prawne I. Fundusze jednostek II. Wartość firmy jednostek podporządkowanych II. Skumulowany wynik budżetu (+,-) III. Rzeczowe aktywa trwałe III. Wynik budżetu (+, -) 1.1. Grunty IV. Wyniki finansowe roku bieżącego 1.2. Budynki, lokale i obiekty inżynierii lądowej i wodnej 1.1. Zysk netto 1.3. Pozostałe środki trwałe 1.2. Strata netto (-) 1.4. Środki trwałe w budowie (inwestycje) V. Wyniki finansowe lat ubiegłych 1.5. Środki przekazane na poczet środków trwałych w budowie (inwestycji) 1.1. Zysk netto IV. Długoterminowe aktywa finansowe 1.2. Strata netto (-) 1.1. Akcje i udziały VI. Kapitały mniejszości 1.2. Papiery wartościowe długoterminowe VII. Pozostałe pozycje 1.3. Inne B. Zobowiązania długoterminowe V. Należności finansowe długoterminowe I. Zobowiązania finansowe długoterminowe VI. Wartość mienia zlikwidowanych jednostek II. Pozostałe zobowiązania długoterminowe B. Aktywa obrotowe C. Zobowiązania krótkoterminowe i fundusze specjalne I. Zapasy I. Zobowiązania finansowe krótkoterminowe II. Należności i roszczenia II. Pozostałe zobowiązania krótkoterminowe III. Należności finansowe krótkoterminowe III. Rezerwy na zobowiązania IV. Środki pieniężne IV. Fundusze specjalne V. Krótkoterminowe papiery wartościowe D. Rozliczenia międzyokresowe C. Rozliczenia międzyokresowe E. Ujemna wartość firmy jednostek podporządkowanych Suma aktywów Suma pasywów
+...(skarbnik)... ...(rok, miesiąc, dzień)... ...(zarząd)...
 
 ## Załącznik nr 10 — – Rachunek zysków i strat jednostki budżetowej lub samorządowego zakładu budżetowego (wariant porównawczy) (wzór)
 
-Nazwa i adres jednostki sprawozdawczej...Numer identyfikacyjny REGON Rachunek zysków i strat jednostki (wariant porównawczy) sporządzony na dzień...20... r. Adresat... Stan na koniec roku poprzedniego Stan na koniec roku bieżącego A. Przychody netto z podstawowej działalności operacyjnej I. Przychody netto ze sprzedaży produktów II. Zmiana stanu produktów (zwiększenie – wartość dodatnia, zmniejszenie – wartość ujemna) III. Koszt wytworzenia produktów na własne potrzeby jednostki IV. Przychody netto ze sprzedaży towarów i materiałów V. Dotacje na finansowanie działalności podstawowej VI. Przychody z tytułu dochodów budżetowych B. Koszty działalności operacyjnej I. Amortyzacja II. Zużycie materiałów i energii III. Usługi obce IV. Podatki i opłaty V. Wynagrodzenia VI. Ubezpieczenia społeczne i inne świadczenia dla pracowników VII. Pozostałe koszty rodzajowe VIII. Wartość sprzedanych towarów i materiałów IX. Inne świadczenia finansowane z budżetu X. Pozostałe obciążenia C. Zysk (strata) z działalności podstawowej (A-B) D. Pozostałe przychody operacyjne I. Zysk ze zbycia niefinansowych aktywów trwałych II. Dotacje III. Inne przychody operacyjne E. Pozostałe koszty operacyjne I. Koszty inwestycji finansowanych ze środków własnych samorządowych zakładów budżetowych i dochodów jednostek budżetowych gromadzonych na wydzielonym rachunku II. Pozostałe koszty operacyjne F. Zysk (strata) z działalności operacyjnej (C+D-E) G. Przychody finansowe I. Dywidendy i udziały w zyskach II. Odsetki III. Inne H. Koszty finansowe I. Odsetki II. Inne I. Zysk (strata) brutto (F+G-H) J. Podatek dochodowy K. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty) L. Zysk (strata) netto (I-J-K) ...(główny księgowy)... ...(rok, miesiąc, dzień)... ...(kierownik jednostki)...
+Nazwa i adres jednostki sprawozdawczej
+...
+Numer identyfikacyjny REGON Rachunek zysków i strat jednostki (wariant porównawczy) sporządzony na dzień...20... r. Adresat
+... Stan na koniec roku poprzedniego Stan na koniec roku bieżącego A. Przychody netto z podstawowej działalności operacyjnej I. Przychody netto ze sprzedaży produktów II. Zmiana stanu produktów (zwiększenie – wartość dodatnia, zmniejszenie – wartość ujemna) III. Koszt wytworzenia produktów na własne potrzeby jednostki IV. Przychody netto ze sprzedaży towarów i materiałów V. Dotacje na finansowanie działalności podstawowej VI. Przychody z tytułu dochodów budżetowych B. Koszty działalności operacyjnej I. Amortyzacja II. Zużycie materiałów i energii III. Usługi obce IV. Podatki i opłaty V. Wynagrodzenia VI. Ubezpieczenia społeczne i inne świadczenia dla pracowników VII. Pozostałe koszty rodzajowe VIII. Wartość sprzedanych towarów i materiałów IX. Inne świadczenia finansowane z budżetu X. Pozostałe obciążenia C. Zysk (strata) z działalności podstawowej (A-B) D. Pozostałe przychody operacyjne I. Zysk ze zbycia niefinansowych aktywów trwałych II. Dotacje III. Inne przychody operacyjne E. Pozostałe koszty operacyjne I. Koszty inwestycji finansowanych ze środków własnych samorządowych zakładów budżetowych i dochodów jednostek budżetowych gromadzonych na wydzielonym rachunku II. Pozostałe koszty operacyjne F. Zysk (strata) z działalności operacyjnej (C+D-E) G. Przychody finansowe I. Dywidendy i udziały w zyskach II. Odsetki III. Inne H. Koszty finansowe I. Odsetki II. Inne I. Zysk (strata) brutto (F+G-H) J. Podatek dochodowy K. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty) L. Zysk (strata) netto (I-J-K)
+...(główny księgowy)... ...(rok, miesiąc, dzień)... ...(kierownik jednostki)...
 
 ## Załącznik nr 11 — – Zestawienie zmian w funduszu jednostki budżetowej lub samorządowego zakładu budżetowego (wzór)
 
-Nazwa i adres jednostki sprawozdawczej...Numer identyfikacyjny REGON Zestawienie zmian w funduszu jednostki sporządzone na dzień...20 ... r. Adresat Stan na koniec roku poprzedniego Stan na koniec roku bieżącego I. Fundusz jednostki na początek okresu (BO) 1. Zwiększenia funduszu (z tytułu) 1.1. Zysk bilansowy za rok ubiegły 1.2. Zrealizowane wydatki budżetowe 1.3. Zrealizowane płatności ze środków europejskich 1.4. Środki na inwestycje 1.5. Aktualizacja wyceny środków trwałych 1.6. Nieodpłatnie otrzymane środki trwałe i środki trwałe w budowie oraz wartości niematerialne i prawne 1.7. Aktywa przejęte od zlikwidowanych lub połączonych jednostek 1.8. Aktywa otrzymane w ramach centralnego zaopatrzenia 1.9. Pozostałe odpisy z wyniku finansowego za rok bieżący 1.10. Inne zwiększenia 2. Zmniejszenia funduszu jednostki (z tytułu) 2.1. Strata za rok ubiegły 2.2. Zrealizowane dochody budżetowe 2.3. Rozliczenie wyniku finansowego i środków obrotowych za rok ubiegły 2.4. Dotacje i środki na inwestycje 2.5. Aktualizacja środków trwałych 2.6 Wartość sprzedanych i nieodpłatnie przekazanych środków trwałych i środków trwałych w budowie oraz wartości niematerialnych i prawnych 2.7. Pasywa przejęte od zlikwidowanych lub połączonych jednostek 2.8. Aktywa przekazane w ramach centralnego zaopatrzenia 2.9. Inne zmniejszenia II. Fundusz jednostki na koniec okresu (BZ) III. Wynik finansowy netto za rok bieżący (+, -) 1. zysk netto (+) 2. strata netto (-) 3. nadwyżka środków obrotowych IV. Fundusz (II+,-III) ...(główny księgowy)... ...(rok, miesiąc, dzień)... ...(kierownik jednostki)...
+Nazwa i adres jednostki sprawozdawczej
+...
+Numer identyfikacyjny REGON Zestawienie zmian w funduszu jednostki sporządzone na dzień...20 ... r. Adresat Stan na koniec roku poprzedniego Stan na koniec roku bieżącego I. Fundusz jednostki na początek okresu (BO) 1. Zwiększenia funduszu (z tytułu) 1.1. Zysk bilansowy za rok ubiegły 1.2. Zrealizowane wydatki budżetowe 1.3. Zrealizowane płatności ze środków europejskich 1.4. Środki na inwestycje 1.5. Aktualizacja wyceny środków trwałych 1.6. Nieodpłatnie otrzymane środki trwałe i środki trwałe w budowie oraz wartości niematerialne i prawne 1.7. Aktywa przejęte od zlikwidowanych lub połączonych jednostek 1.8. Aktywa otrzymane w ramach centralnego zaopatrzenia 1.9. Pozostałe odpisy z wyniku finansowego za rok bieżący 1.10. Inne zwiększenia 2. Zmniejszenia funduszu jednostki (z tytułu) 2.1. Strata za rok ubiegły 2.2. Zrealizowane dochody budżetowe 2.3. Rozliczenie wyniku finansowego i środków obrotowych za rok ubiegły 2.4. Dotacje i środki na inwestycje 2.5. Aktualizacja środków trwałych 2.6 Wartość sprzedanych i nieodpłatnie przekazanych środków trwałych i środków trwałych w budowie oraz wartości niematerialnych i prawnych 2.7. Pasywa przejęte od zlikwidowanych lub połączonych jednostek 2.8. Aktywa przekazane w ramach centralnego zaopatrzenia 2.9. Inne zmniejszenia II. Fundusz jednostki na koniec okresu (BZ) III. Wynik finansowy netto za rok bieżący (+, -) 1. zysk netto (+) 2. strata netto (-) 3. nadwyżka środków obrotowych IV. Fundusz (II+,-III)
+...(główny księgowy)... ...(rok, miesiąc, dzień)... ...(kierownik jednostki)...
 
 ## Załącznik nr 12 — – Informacja dodatkowa (wzór)
 
-I. Wprowadzenie do sprawozdania finansowego, obejmuje w szczególności: 1. 1.1 nazwę jednostki 1.2 siedzibę jednostki 1.3 adres jednostki 1.4 podstawowy przedmiot działalności jednostki 2. wskazanie okresu objętego sprawozdaniem 3. wskazanie, że sprawozdanie finansowe zawiera dane łączne, jeżeli w skład jednostki nadrzędnej lub jednostki samorządu terytorialnego wchodzą jednostki sporządzające samodzielne sprawozdania finansowe 4. omówienie przyjętych zasad (polityki) rachunkowości, w tym metod wyceny aktywów i pasywów (także amortyzacji) 5. inne informacje II. Dodatkowe informacje i objaśnienia obejmują w szczególności: 1. 1.1. szczegółowy zakres zmian wartości grup rodzajowych środków trwałych, wartości niematerialnych i prawnych, zawierający stan tych aktywów na początek roku obrotowego, zwiększenia i zmniejszenia z tytułu: aktualizacji wartości, nabycia, rozchodu, przemieszczenia wewnętrznego oraz stan końcowy, a dla majątku amortyzowanego – podobne przedstawienie stanów i tytułów zmian dotychczasowej amortyzacji lub umorzenia 1.2. aktualną wartość rynkową środków trwałych, w tym dóbr kultury – o ile jednostka dysponuje takimi informacjami 1.3. kwotę dokonanych w trakcie roku obrotowego odpisów aktualizujących wartość aktywów trwałych odrębnie dla długoterminowych aktywów niefinansowych oraz długoterminowych aktywów finansowych 1.4. wartość gruntów użytkowanych wieczyście 1.5. wartość nieamortyzowanych lub nieumarzanych przez jednostkę środków trwałych, używanych na podstawie umów najmu, dzierżawy i innych umów, w tym z tytułu umów leasingu 1.6. liczbę oraz wartość posiadanych papierów wartościowych, w tym akcji i udziałów oraz dłużnych papierów wartościowych 1.8. dane o stanie rezerw według celu ich utworzenia na początek roku obrotowego, zwiększeniach wykorzystaniu, rozwiązaniu i stanie końcowym 1.9. podział zobowiązań długoterminowych według pozycji bilansu o pozostałym od dnia bilansowego, przewidywanym umową lub wynikającym z innego tytułu prawnego, okresie spłaty: a) powyżej 1 roku do 3 lat b) powyżej 3 do 5 lat c) powyżej 5 lat 1.10. kwotę zobowiązań w sytuacji gdy jednostka kwalifikuje umowy leasingu zgodnie z przepisami podatkowymi (leasing operacyjny), a według przepisów o rachunkowości byłby to leasing finansowy lub zwrotny z podziałem na kwotę zobowiązań z tytułu leasingu finansowego lub leasingu zwrotnego 1.11. łączną kwotę zobowiązań zabezpieczonych na majątku jednostki ze wskazaniem charakteru i formy tych zabezpieczeń 1.12. łączną kwotę zobowiązań warunkowych, w tym również udzielonych przez jednostkę gwarancji i poręczeń, także wekslowych, niewykazanych w bilansie, ze wskazaniem zobowiązań zabezpieczonych na majątku jednostki oraz charakteru i formy tych zabezpieczeń 1.13. wykaz istotnych pozycji czynnych i biernych rozliczeń międzyokresowych w tym kwotę czynnych rozliczeń międzyokresowych kosztów stanowiących różnicę między wartością otrzymanych finansowych składników aktywów a zobowiązaniem zapłaty za nie 1.14. łączną kwotę otrzymanych przez jednostkę gwarancji i poręczeń niewykazanych w bilansie 1.15. kwotę wypłaconych środków pieniężnych na świadczenia pracownicze 1.16. inne informacje 2. 2.1. wysokość odpisów aktualizujących wartość zapasów 2.2. koszt wytworzenia środków trwałych w budowie, w tym odsetki oraz różnice kursowe, które powiększyły koszt wytworzenia środków trwałych w budowie w roku obrotowym 2.3. kwotę i charakter poszczególnych pozycji przychodów lub kosztów o nadzwyczajnej wartości lub które wystąpiły incydentalnie 2.5. inne informacje 3. Inne informacje niż wymienione powyżej, jeżeli mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej i finansowej oraz wynik finansowy jednostki ...(główny księgowy)... ...(rok, miesiąc, dzień)... ...(kierownik jednostki)...
+I. Wprowadzenie do sprawozdania finansowego, obejmuje w szczególności: 1. 1.1 nazwę jednostki 1.2 siedzibę jednostki 1.3 adres jednostki 1.4 podstawowy przedmiot działalności jednostki 2. wskazanie okresu objętego sprawozdaniem 3. wskazanie, że sprawozdanie finansowe zawiera dane łączne, jeżeli w skład jednostki nadrzędnej lub jednostki samorządu terytorialnego wchodzą jednostki sporządzające samodzielne sprawozdania finansowe 4. omówienie przyjętych zasad (polityki) rachunkowości, w tym metod wyceny aktywów i pasywów (także amortyzacji) 5. inne informacje II. Dodatkowe informacje i objaśnienia obejmują w szczególności: 1. 1.1. szczegółowy zakres zmian wartości grup rodzajowych środków trwałych, wartości niematerialnych i prawnych, zawierający stan tych aktywów na początek roku obrotowego, zwiększenia i zmniejszenia z tytułu: aktualizacji wartości, nabycia, rozchodu, przemieszczenia wewnętrznego oraz stan końcowy, a dla majątku amortyzowanego – podobne przedstawienie stanów i tytułów zmian dotychczasowej amortyzacji lub umorzenia 1.2. aktualną wartość rynkową środków trwałych, w tym dóbr kultury – o ile jednostka dysponuje takimi informacjami 1.3. kwotę dokonanych w trakcie roku obrotowego odpisów aktualizujących wartość aktywów trwałych odrębnie dla długoterminowych aktywów niefinansowych oraz długoterminowych aktywów finansowych 1.4. wartość gruntów użytkowanych wieczyście 1.5. wartość nieamortyzowanych lub nieumarzanych przez jednostkę środków trwałych, używanych na podstawie umów najmu, dzierżawy i innych umów, w tym z tytułu umów leasingu 1.6. liczbę oraz wartość posiadanych papierów wartościowych, w tym akcji i udziałów oraz dłużnych papierów wartościowych 1.8. dane o stanie rezerw według celu ich utworzenia na początek roku obrotowego, zwiększeniach wykorzystaniu, rozwiązaniu i stanie końcowym 1.9. podział zobowiązań długoterminowych według pozycji bilansu o pozostałym od dnia bilansowego, przewidywanym umową lub wynikającym z innego tytułu prawnego, okresie spłaty: a) powyżej 1 roku do 3 lat b) powyżej 3 do 5 lat c) powyżej 5 lat 1.10. kwotę zobowiązań w sytuacji gdy jednostka kwalifikuje umowy leasingu zgodnie z przepisami podatkowymi (leasing operacyjny), a według przepisów o rachunkowości byłby to leasing finansowy lub zwrotny z podziałem na kwotę zobowiązań z tytułu leasingu finansowego lub leasingu zwrotnego 1.11. łączną kwotę zobowiązań zabezpieczonych na majątku jednostki ze wskazaniem charakteru i formy tych zabezpieczeń 1.12. łączną kwotę zobowiązań warunkowych, w tym również udzielonych przez jednostkę gwarancji i poręczeń, także wekslowych, niewykazanych w bilansie, ze wskazaniem zobowiązań zabezpieczonych na majątku jednostki oraz charakteru i formy tych zabezpieczeń 1.13. wykaz istotnych pozycji czynnych i biernych rozliczeń międzyokresowych w tym kwotę czynnych rozliczeń międzyokresowych kosztów stanowiących różnicę między wartością otrzymanych finansowych składników aktywów a zobowiązaniem zapłaty za nie 1.14. łączną kwotę otrzymanych przez jednostkę gwarancji i poręczeń niewykazanych w bilansie 1.15. kwotę wypłaconych środków pieniężnych na świadczenia pracownicze 1.16. inne informacje 2. 2.1. wysokość odpisów aktualizujących wartość zapasów 2.2. koszt wytworzenia środków trwałych w budowie, w tym odsetki oraz różnice kursowe, które powiększyły koszt wytworzenia środków trwałych w budowie w roku obrotowym 2.3. kwotę i charakter poszczególnych pozycji przychodów lub kosztów o nadzwyczajnej wartości lub które wystąpiły incydentalnie 2.5. inne informacje 3. Inne informacje niż wymienione powyżej, jeżeli mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej i finansowej oraz wynik finansowy jednostki
+...(główny księgowy)... ...(rok, miesiąc, dzień)... ...(kierownik jednostki)...
 

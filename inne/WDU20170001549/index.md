@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-09 |
 | Data wydania | 2017-08-18 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1549/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.) zarządza się, co następuje:
 § 1.
 1.
 Nadwyżkę środków finansowych Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Krajowym Ośrodkiem”, stanowi dodatnia różnica między stanem środków finansowych Krajowego Ośrodka na dzień 31 grudnia danego roku budżetowego a stanem zobowiązań, o których mowa w ust. 3, ustalonych na dzień 31 grudnia danego roku.
@@ -56,5 +55,5 @@ innych zobowiązań krótkoterminowych wynikających z konieczności zapewnienia
 4.
 Zobowiązania krótkoterminowe, o których mowa w ust. 3 pkt 2–4, dotyczą zobowiązań, których wymagalność przypada nie później niż do dnia 30 czerwca roku następującego po roku, w którym powstała nadwyżka.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.
 

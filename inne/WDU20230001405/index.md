@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-07-24 |
-| Wejście w życie | 2023-08-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001405) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1405/text.pdf) |
 
@@ -60,7 +59,7 @@ source: "eli-html"
 
 - **1)** weterana poszkodowanego pobierającego emeryturę lub rentę inwalidzką, lub rentę rodzinną – właściwy organ emerytalno-rentowy wypłacający świadczenie,
 - **2)** weterana poszkodowanego-żołnierza nieposiadającego prawa do emerytury lub renty inwalidzkiej, lub renty rodzinnej – dyrektor Wojskowego Biura Emerytalnego w Warszawie,
-- **3)** weterana poszkodowanego-funkcjonariusza, weterana poszkodowanego-funkcjonariusza ABW i weterana poszkodowanego-funkcjonariusza AW nieposiadającego prawa do emerytury lub renty inwalidzkiej, lub renty rodzinnej – organ emerytalny określony przez ministra właściwego do spraw wewnętrznych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin na podstawie decyzji organu przyznającego status weterana poszkodowanego. ” , po ust. 5a dodaje się ust. 5b i 5c w brzmieniu: „
+- **3)** weterana poszkodowanego-funkcjonariusza, weterana poszkodowanego-funkcjonariusza ABW i weterana poszkodowanego-funkcjonariusza AW nieposiadającego prawa do emerytury lub renty inwalidzkiej, lub renty rodzinnej – organ emerytalny określony przez ministra właściwego do spraw wewnętrznych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin – na podstawie decyzji organu przyznającego status weterana poszkodowanego. ” , po ust. 5a dodaje się ust. 5b i 5c w brzmieniu: „
     - **c)**
 
 5b. W przypadku ustalenia prawa do emerytury lub renty inwalidzkiej, lub renty rodzinnej wraz z ustaleniem i wypłatą dodatku weterana poszkodowanego właściwy organ emerytalno-rentowy przesyła informację o tym fakcie do organów emerytalno-rentowych, o których mowa w ust. 5a pkt 2 i 3. Informacja zawiera imię, nazwisko i numer PESEL weterana poszkodowanego, a w przypadku osób nieposiadających numeru PESEL – imię, nazwisko oraz serię i numer dokumentu potwierdzającego tożsamość.

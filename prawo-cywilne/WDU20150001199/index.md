@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-24 |
 | Data wydania | 2015-08-18 |
-| Wejście w życie | 2015-09-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1199/text.pdf) |
 
@@ -30,7 +29,7 @@ source: "eli-html"
 
 **Art. 1191a.** Rodzice mogą przed sądem opiekuńczym wskazać osobę przysposabiającego, którą może być wyłącznie krewny rodziców dziecka za zgodą tej osoby złożoną przed tym sądem. Osobą wskazaną może być również małżonek jednego z rodziców. ” .
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062 i 1137.) wprowadza się następujące zmiany:
 
 - **1)** w art. 585 po § 2 dodaje się § 21 i 22 w brzmieniu: „
 
@@ -44,7 +43,7 @@ source: "eli-html"
 
 **Art. 5851.**
 
-§ 1. Wskazanie osoby przysposabiającego przez rodziców, o którym mowa w art. 1191a ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583, z późn. zm.), następuje przed sądem opiekuńczym właściwym dla osoby przysposabiającego lub osoby mającej być przysposobioną.
+§ 1. Wskazanie osoby przysposabiającego przez rodziców, o którym mowa w art. 1191a ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1062, 1087 i 1199.), następuje przed sądem opiekuńczym właściwym dla osoby przysposabiającego lub osoby mającej być przysposobioną.
 
 § 2. W przypadku wskazania, o którym mowa w § 1, przed wszczęciem postępowania w sprawie o przysposobienie, sąd opiekuńczy wyznacza termin, w którym wskazany przez rodziców przysposabiający powinien zgłosić do sądu opiekuńczego wniosek o przysposobienie pod rygorem nieuwzględnienia wskazania. Termin ten nie może przekraczać dwóch tygodni.
 
@@ -68,10 +67,10 @@ source: "eli-html"
 **Art. 3.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2015 r. poz. 332 i 1045) wprowadza się następujące zmiany:
 
 - **1)** w art. 156 w ust. 1 pkt 11 otrzymuje brzmienie: „
-- **11)** wydawanie świadectw ukończenia szkolenia dla kandydatów do przysposobienia dziecka, dokonywanie wstępnej oceny kandydatów do przysposobienia dziecka, sporządzanie opinii kwalifikacyjnej o kandydatach do przysposobienia dziecka oraz opinii, o której mowa w art. 586 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.); ” ;
+- **11)** wydawanie świadectw ukończenia szkolenia dla kandydatów do przysposobienia dziecka, dokonywanie wstępnej oceny kandydatów do przysposobienia dziecka, sporządzanie opinii kwalifikacyjnej o kandydatach do przysposobienia dziecka oraz opinii, o której mowa w art. 586 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137 i 1199.); ” ;
 - **2)** w art. 169 ust. 1 otrzymuje brzmienie: „
 
 1. Po ukończeniu szkolenia, o którym mowa w art. 172 ust. 1, i otrzymaniu pozytywnej opinii kwalifikacyjnej o kandydatach do przysposobienia oraz zakwalifikowaniu dziecka do przysposobienia, ośrodek adopcyjny udostępnia informacje o dziecku tym kandydatom oraz umożliwia im kontakt z dzieckiem. Nie dotyczy to osoby przysposabiającego, o której mowa w art. 1191a ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy. ” .
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062 i 1137. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1062, 1087 i 1199. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137 i 1199.
 

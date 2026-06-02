@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 grudnia 2016 r. w sprawie przekazywania danych w kwartalnych raportach dotyczących wielkości obrotu produktami leczniczymi weterynaryjnymi
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 grudnia 2016 r. w sprawie przekazywania danych w kwartalnych raportach dotyczących wielkości obrotu produktami leczniczymi weterynaryjnymi Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-16 |
 | Data wydania | 2016-12-27 |
-| Wejście w życie | 2017-01-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002160) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2160/text.pdf) |
 
@@ -46,6 +45,5 @@ Przedsiębiorcy, o których mowa w ust. 1, którzy zbyli produkty innym przedsi�
 4.
 W przypadku wykrycia błędów w danych przekazanych w kwartalnym raporcie przedsiębiorca, o którym mowa w ust. 1, który wprowadził błędne dane, informuje o tym fakcie, drogą elektroniczną, administratora i niezwłocznie dokonuje korekty tych danych w tym raporcie.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 grudnia 2010 r. w sprawie przekazywania danych dotyczących wielkości obrotu produktami leczniczymi weterynaryjnymi przez hurtownie farmaceutyczne produktów leczniczych weterynaryjnych (Dz. U. z 2011 r. poz. 83), które na podstawie art. 5 ustawy z dnia 9 kwietnia 2015 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. poz. 788 oraz z 2016 r. poz. 960) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 grudnia 2010 r. w sprawie przekazywania danych dotyczących wielkości obrotu produktami leczniczymi weterynaryjnymi przez hurtownie farmaceutyczne produktów leczniczych weterynaryjnych (Dz. U. z 2011 r. poz. 83), które na podstawie art. 5 ustawy z dnia 9 kwietnia 2015 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. poz. 788 oraz z 2016 r. poz. 960) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 grudnia 2010 r. w sprawie przekazywania danych dotyczących wielkości obrotu produktami leczniczymi weterynaryjnymi przez hurtownie farmaceutyczne produktów leczniczych weterynaryjnych (Dz. U. z 2011 r. poz. 83), które na podstawie art. 5 ustawy z dnia 9 kwietnia 2015 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. poz. 788 oraz z 2016 r. poz. 960) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

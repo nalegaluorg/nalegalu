@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-07-16 |
 | Data wydania | 2009-08-07 |
-| Wejście w życie | 2009-08-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091251036) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1036/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm.) wprowadza się następujące zmiany:
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Komisji 2008/43/WE z dnia 4 kwietnia 2008 r. w sprawie ustanowienia systemu oznaczania i śledzenia materiałów wybuchowych przeznaczonych do użytku cywilnego, zgodnie z dyrektywą Rady 93/15/EWG (Dz. Urz. UE L 94 z 05.04.2008, str. 8).
+
+**Art. 1.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1203, Nr 173, poz. 1808 i Nr 222, poz. 2249, z 2005 r. Nr 94, poz. 788 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 235, poz. 1700, z 2008 r. Nr 180, poz. 1112 i Nr 214, poz. 1347 oraz z 2009 r. Nr 18, poz. 97.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: w ust. 1 dodaje się pkt 7 w brzmieniu: „
     - **a)**
@@ -34,7 +35,7 @@ source: "eli-html"
 - **7)** obiekcie produkcyjnym – należy przez to rozumieć zorganizowaną część przedsiębiorstwa, w której są wytwarzane materiały wybuchowe przeznaczone do użytku cywilnego. ” , w ust. 2 po pkt 1b dodaje się pkt 1c w brzmieniu: „
     - **b)**
 
-- **1c)** materiały wybuchowe przeznaczone do użytku cywilnego – są to materiały wybuchowe, o których mowa w art. 4 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.), ” ;
+- **1c)** materiały wybuchowe przeznaczone do użytku cywilnego – są to materiały wybuchowe, o których mowa w art. 4 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2019, z 2004 r. Nr 222, poz. 2249, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 214, poz. 1347.), ” ;
 - **2)** po art. 23 dodaje się art. 23a w brzmieniu: „
 
 **Art. 23a.**
@@ -67,7 +68,7 @@ source: "eli-html"
 - **4)** wymagania w zakresie oznaczenia obiektu produkcyjnego oraz wzór wniosku o oznaczenie obiektu produkcyjnego,
 - **5)** sposób prowadzenia rejestru jednoznacznych oznaczeń oraz zakres informacji, gromadzonych w tym rejestrze niezbędnych do identyfikacji przedsiębiorcy, który wytwarza materiały wybuchowe przeznaczone do użytku cywilnego oraz do ustalenia lokalizacji tych materiałów,
 - **6)** warunki przechowywania danych zgromadzonych w rejestrze jednoznacznych oznaczeń dotyczących materiałów wybuchowych przeznaczonych do użytku cywilnego w sposób zapewniający ochronę przed przypadkowym lub celowym uszkodzeniem lub zniszczeniem danych,
-- **7)** tryb postępowania przy przekazywaniu uprawnionym organom i służbom państwowym danych dotyczących materiałów wybuchowych przeznaczonych do użytku cywilnego biorąc pod uwagę konieczność zapewnienia bezpieczeństwa używania materiałów wybuchowych przeznaczonych do użytku cywilnego, a także zapewnienia możliwości jednoznacznej identyfikacji, w tym lokalizacji każdego materiału wybuchowego przeznaczonego do użytku cywilnego pozostającego w obrocie na terytorium Rzeczypospolitej Polskiej oraz typ materiału wybuchowego. ” ;
+- **7)** tryb postępowania przy przekazywaniu uprawnionym organom i służbom państwowym danych dotyczących materiałów wybuchowych przeznaczonych do użytku cywilnego – biorąc pod uwagę konieczność zapewnienia bezpieczeństwa używania materiałów wybuchowych przeznaczonych do użytku cywilnego, a także zapewnienia możliwości jednoznacznej identyfikacji, w tym lokalizacji każdego materiału wybuchowego przeznaczonego do użytku cywilnego pozostającego w obrocie na terytorium Rzeczypospolitej Polskiej oraz typ materiału wybuchowego. ” ;
 - **3)** w art. 24: po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **a)**
 
@@ -85,12 +86,16 @@ source: "eli-html"
 
 2. Przepisy art. 23a stosuje się odpowiednio. ” .
 
-**Art. 2.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2019, z 2004 r. Nr 222, poz. 2249, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 214, poz. 1347.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 po pkt 18 dodaje się pkt 18a w brzmieniu: „
 - **18a)** oczyszczaniu terenów – należy przez to rozumieć poszukiwanie materiałów wybuchowych, wydobycie, zabezpieczenie, zniszczenie lub unieszkodliwienie znalezionych materiałów wybuchowych na lądzie, wodach śródlądowych i obszarach morskich, ” ;
-- **2)** w art. 18: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) przestrzegać zasad bezpiecznego prowadzenia prac przy użyciu materiałów wybuchowych przeznaczonych do użytku cywilnego oraz podczas oczyszczania terenów, określonych w przepisach wydanych na podstawie ust. 1d, ” , – pkt 5 i 6 otrzymują brzmienie: „ 5) zapewnić bezpieczne przechowywanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub materiałów wybuchowych znalezionych podczas oczyszczania terenów, zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 24 ust. 2 i art. 33 ust. 2 ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym albo wydanych na podstawie art. 21 ust. 4, 6) prowadzić ewidencję nabytych, zużytych, przechowywanych, przemieszczanych i zbytych materiałów wybuchowych przeznaczonych do użytku cywilnego lub znalezionych i zniszczonych materiałów wybuchowych podczas wykonywania działalności gospodarczej w zakresie oczyszczania terenów, ” , ust. 1d otrzymuje brzmienie: „
+- **2)** w art. 18: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** przestrzegać zasad bezpiecznego prowadzenia prac przy użyciu materiałów wybuchowych przeznaczonych do użytku cywilnego oraz podczas oczyszczania terenów, określonych w przepisach wydanych na podstawie ust. 1d, ” , pkt 5 i 6 otrzymują brzmienie: „
+- **5)** zapewnić bezpieczne przechowywanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub materiałów wybuchowych znalezionych podczas oczyszczania terenów, zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 24 ust. 2 i art. 33 ust. 2 ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym albo wydanych na podstawie art. 21 ust. 4,
+- **6)** prowadzić ewidencję nabytych, zużytych, przechowywanych, przemieszczanych i zbytych materiałów wybuchowych przeznaczonych do użytku cywilnego lub znalezionych i zniszczonych materiałów wybuchowych podczas wykonywania działalności gospodarczej w zakresie oczyszczania terenów, ” , ust. 1d otrzymuje brzmienie: „
     - **b)**
 
 1d. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, określi, w drodze rozporządzenia, sposób prowadzenia prac z użyciem materiałów wybuchowych przeznaczonych do użytku cywilnego oraz podczas oczyszczania terenów w związku z wykonywaniem działalności gospodarczej innej niż określona w art. 10 ust. 2 oraz wymagania techniczne i organizacyjne dotyczące prowadzenia tych prac, biorąc pod uwagę zapewnienie ochrony życia i zdrowia ludzi, mienia i środowiska, z uwzględnieniem zróżnicowania charakteru wykonywanych prac i właściwości używanych materiałów wybuchowych przeznaczonych do użytku cywilnego. ” ;
@@ -103,5 +108,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 24 ust. 2 i art. 33 ust. 2 ustawy, o której mowa w art. 1, oraz art. 18 ust. 1d i art. 21 ust. 4 ustawy, o której mowa w art. 2, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 24 ust. 2 i art. 33 ust. 2 ustawy, o której mowa w art. 1, oraz art. 18 ust. 1d i art. 21 ust. 4 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie tej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1, 2 i 4, które wchodzą w życie z dniem 5 kwietnia 2012 r.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1, 2 i 4, które wchodzą w życie z dniem 5 kwietnia 2012 r. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Komisji 2008/43/WE z dnia 4 kwietnia 2008 r. w sprawie ustanowienia systemu oznaczania i śledzenia materiałów wybuchowych przeznaczonych do użytku cywilnego, zgodnie z dyrektywą Rady 93/15/EWG (Dz. Urz. UE L 94 z 05.04.2008, str. 8). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1203, Nr 173, poz. 1808 i Nr 222, poz. 2249, z 2005 r. Nr 94, poz. 788 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 235, poz. 1700, z 2008 r. Nr 180, poz. 1112 i Nr 214, poz. 1347 oraz z 2009 r. Nr 18, poz. 97. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2019, z 2004 r. Nr 222, poz. 2249, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 214, poz. 1347. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2019, z 2004 r. Nr 222, poz. 2249, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 214, poz. 1347.
 

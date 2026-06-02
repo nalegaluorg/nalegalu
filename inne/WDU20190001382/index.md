@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-09 |
 | Data wydania | 2019-07-25 |
-| Wejście w życie | 2019-08-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001382) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1382/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wniosek o przyznanie studentowi stypendium za znaczące osiągnięcia naukowe/sportowe (wzór)
 Treść rozporządzenia
-Na podstawie art. 458 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 458 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -123,8 +122,7 @@ rozpoczęcia studiów – w przypadku studenta studiów pierwszego stopnia albo 
 2)
 rozpoczęcia studiów pierwszego stopnia poprzedzających studia drugiego stopnia – w przypadku studenta studiów drugiego stopnia,
 3)
-1 października roku akademickiego, w którym studentowi przyznano ostatnie stypendium za znaczące osiągnięcia – w przypadku studenta, któremu w poprzednich latach przyznano to stypendium
-do dnia 30 września roku, w którym złożono wniosek, z uwzględnieniem okresów urlopów od zajęć lub innych przerw udzielonych zgodnie z regulaminem studiów w przypadku wniosków o przyznanie stypendium za znaczące osiągnięcia sportowe.
+1 października roku akademickiego, w którym studentowi przyznano ostatnie stypendium za znaczące osiągnięcia – w przypadku studenta, któremu w poprzednich latach przyznano to stypendium – do dnia 30 września roku, w którym złożono wniosek, z uwzględnieniem okresów urlopów od zajęć lub innych przerw udzielonych zgodnie z regulaminem studiów w przypadku wniosków o przyznanie stypendium za znaczące osiągnięcia sportowe.
 2.
 Przy ocenie wniosków o przyznanie stypendium ministra uwzględnia się następujące kryteria:
 1)
@@ -200,7 +198,7 @@ Maksymalna wysokość stypendium ministra przyznanego studentowi na dany rok aka
 § 13.
 Rektor uczelni wypłaca studentom stypendium ministra jednorazowo, na wskazany przez studenta rachunek albo w gotówce, w terminie 14 dni od dnia zaksięgowania środków na rachunku bankowym uczelni.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.
 Załącznik – Wniosek o przyznanie studentowi stypendium za znaczące osiągnięcia naukowe/sportowe (wzór)
 Wniosek o przyznanie studentowi stypendium za znaczące osiągnięcia naukowe/sportowe1)na rok akademicki ... CZĘŚĆ A – DANE WNIOSKODAWCY
 1.
@@ -208,7 +206,7 @@ Nazwa i adres uczelni (ulica, kod pocztowy, miejscowość) ...
 2.
 Numer telefonu, adres e-mail, strona internetowa ...
 3.
-Dane osoby do bezpośredniego kontaktu (imiona i nazwisko, stanowisko/funkcja, numer telefonu służbowego, adres służbowy e-mail) ...
+Dane osoby do bezpośredniego kontaktu (imiona i nazwisko, stanowisko/funkcja, numer telefonu służbowego, adres służbowy e-mail) ... CZĘŚĆ B – DANE I INFORMACJE DOTYCZĄCE STUDENTA
 1.
 Dane osobowe studenta:
 1)
@@ -242,8 +240,7 @@ Planowany termin ukończenia studiów ...
 6.
 Okres urlopów od zajęć lub innych przerw udzielonych zgodnie z regulaminem studiów ...
 7.
-Rok akademicki, na który studentowi ostatnio przyznano stypendium ministra ...
-Uwaga Do wniosku nie dołącza się dokumentów, o których mowa w § 4 rozporządzenia Ministra Obrony Narodowej z dnia 9 lipca 2019 r. w sprawie stypendiów ministra przyznawanych studentom za znaczące osiągnięcia naukowe lub sportowe (Dz. U. poz. 1382). Objaśnienia: 1) Niepotrzebne skreślić. 2) W przypadku studenta studiów drugiego stopnia należy wpisać datę rozpoczęcia studiów pierwszego stopnia. 3) Wypełnić, jeżeli jest inny niż w ust. 3 pkt 3. 4) Wypełnić, jeżeli jest inna niż w ust. 3 pkt 4. Załącznik: Oświadczenie studenta, że przedstawione we wniosku osiągnięcia są zgodne ze stanem faktycznym i są związane z odbywanymi studiami, z wyłączeniem osiągnięć sportowych. CZĘŚĆ C1 – WYKAZ OSIĄGNIĘĆ NAUKOWYCH STUDENTA *)
+Rok akademicki, na który studentowi ostatnio przyznano stypendium ministra ... Uwaga Do wniosku nie dołącza się dokumentów, o których mowa w § 4 rozporządzenia Ministra Obrony Narodowej z dnia 9 lipca 2019 r. w sprawie stypendiów ministra przyznawanych studentom za znaczące osiągnięcia naukowe lub sportowe (Dz. U. poz. 1382). Objaśnienia: 1) Niepotrzebne skreślić. 2) W przypadku studenta studiów drugiego stopnia należy wpisać datę rozpoczęcia studiów pierwszego stopnia. 3) Wypełnić, jeżeli jest inny niż w ust. 3 pkt 3. 4) Wypełnić, jeżeli jest inna niż w ust. 3 pkt 4. Załącznik: Oświadczenie studenta, że przedstawione we wniosku osiągnięcia są zgodne ze stanem faktycznym i są związane z odbywanymi studiami, z wyłączeniem osiągnięć sportowych. CZĘŚĆ C1 – WYKAZ OSIĄGNIĘĆ NAUKOWYCH STUDENTA *)
 1.
 Autorstwo lub współautorstwo monografii naukowej lub rozdziału w monografii naukowej wydanej przez wydawnictwo ujęte w wykazie, o którym mowa w art. 267 ust. 2 pkt 2 lit. a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.): ... ... Tytuł monografii, tytuł rozdziału w monografii, język publikacji, wkład autorski (w procentach), imiona i nazwiska współautorów (wraz z procentowym wkładem autorskim), nazwa wydawnictwa, miejsce wydania, rok wydania, nakład, data druku lub ukazania się publikacji (miesiąc, rok), numer ISBN lub ISSN, numer DOI, liczba punktów w wykazie wydawnictw, Impact Factor.
 2.
@@ -255,9 +252,7 @@ Autorstwo lub współautorstwo wynalazku, wzoru użytkowego, wzoru przemysłoweg
 5.
 Autorstwo i wygłoszenie referatu naukowego na ogólnopolskiej lub międzynarodowej konferencji naukowej, w której uczestniczyli prelegenci co najmniej z dziesięciu uczelni: ... ... Data i miejsce konferencji, nazwa konferencji, rodzaj konferencji (ogólnopolska/międzynarodowa), tytuł referatu, liczba prelegentów, w tym liczba prelegentów posiadających co najmniej stopień doktora, liczba uczelni reprezentowanych na konferencji, nazwa organizatora konferencji.
 6.
-Uzyskanie nagrody indywidualnej lub udział w osiągnięciu, za które uzyskano nagrodę zespołową w konkursie naukowym o zasięgu międzynarodowym, w którym uczestniczyli studenci uczelni co najmniej z pięciu państw, z wyłączeniem konkursów organizowanych w ramach międzynarodowych konferencji naukowych: ... ... Data i miejsce uzyskania nagrody, nazwa konkursu, uzyskane miejsce w konkursie, liczba uczestników konkursu, w tym liczba zespołów, forma uzyskanej nagrody, rodzaj nagrody (indywidualna/zespołowa), udział w powstaniu osiągnięcia, za które uzyskano nagrodę zespołową (w procentach), imiona i nazwiska członków zespołu (wraz z wkładem procentowym), liczba państw oraz nazwy uczelni reprezentowanych w konkursie, nazwa organizatora konkursu. *) W przypadku braku osiągnięć naukowych części C.1 nie wypełnia się.
-
-## CZĘŚĆ B – DANE I INFORMACJE DOTYCZĄCE STUDENTA
-
-## CZĘŚĆ C.2 – WYKAZ OSIĄGNIĘĆ SPORTOWYCH STUDENTA*) Uzyskane miejsce Nazwa zawodów Dyscyplina sportowa (sport) Rodzaj rywalizacji (indywidualna/ drużynowa) Kategoria wiekowa Skład drużyny (w przypadku nagrody drużynowej) Data i miejsce zawodów (miesiąc/rok) *) W przypadku braku osiągnięć sportowych części C.2 nie wypełnia się.
+Uzyskanie nagrody indywidualnej lub udział w osiągnięciu, za które uzyskano nagrodę zespołową w konkursie naukowym o zasięgu międzynarodowym, w którym uczestniczyli studenci uczelni co najmniej z pięciu państw, z wyłączeniem konkursów organizowanych w ramach międzynarodowych konferencji naukowych: ... ... Data i miejsce uzyskania nagrody, nazwa konkursu, uzyskane miejsce w konkursie, liczba uczestników konkursu, w tym liczba zespołów, forma uzyskanej nagrody, rodzaj nagrody (indywidualna/zespołowa), udział w powstaniu osiągnięcia, za które uzyskano nagrodę zespołową (w procentach), imiona i nazwiska członków zespołu (wraz z wkładem procentowym), liczba państw oraz nazwy uczelni reprezentowanych w konkursie, nazwa organizatora konkursu. *) W przypadku braku osiągnięć naukowych części C.1 nie wypełnia się. CZĘŚĆ C.2 – WYKAZ OSIĄGNIĘĆ SPORTOWYCH STUDENTA*)
+Uzyskane miejsce Nazwa zawodów Dyscyplina sportowa (sport) Rodzaj rywalizacji (indywidualna/ drużynowa) Kategoria wiekowa Skład drużyny (w przypadku nagrody drużynowej) Data i miejsce zawodów (miesiąc/rok)
+*) W przypadku braku osiągnięć sportowych części C.2 nie wypełnia się.
 

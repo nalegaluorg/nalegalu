@@ -31,12 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 26 stycznia 2015 r. w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej (Dz. U. poz. 181), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 28 września 2023 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej (Dz. U. poz. 2074).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 września 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej (Dz. U. poz. 2074), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 września 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej (Dz. U. poz. 2074), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-” .
-Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 26 stycznia 2015 r. w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej
+Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. ” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych z dnia 26 stycznia 2015 r. w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży GranicznejNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
 Na podstawie art. 8a ust. 11 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -50,7 +48,7 @@ tryb i terminy sporządzania łącznego sprawozdania z wykonania planu finansowe
 Użyte w rozporządzeniu określenia oznaczają:
 1)
 fundusz centralny – wyodrębnioną część Funduszu, której dysponentem jest Komendant Główny Straży Granicznej;
-1a)
+1aDodany przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 września 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej (Dz. U. poz. 2074), które weszło w życie z dniem 1 października 2023 r.)
 fundusz Wyższej Szkoły Straży Granicznej – wyodrębnioną część Funduszu, której dysponentem jest Rektor-Komendant Wyższej Szkoły Straży Granicznej;
 2)
 fundusz oddziału – wyodrębnioną część Funduszu, której dysponentem jest komendant oddziału Straży Granicznej;
@@ -58,30 +56,30 @@ fundusz oddziału – wyodrębnioną część Funduszu, której dysponentem jest
 fundusz ośrodka – wyodrębnioną część Funduszu, której dysponentem jest komendant ośrodka Straży Granicznej;
 4)
 fundusz ośrodka szkolenia – wyodrębnioną część Funduszu, której dysponentem jest komendant ośrodka szkolenia Straży Granicznej;
-5)
+5Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 roczny plan finansowy funduszu – sporządzony na rok budżetowy przez właściwego dysponenta plan finansowy funduszu centralnego, funduszu Wyższej Szkoły Straży Granicznej, funduszu oddziału, funduszu ośrodka lub funduszu ośrodka szkolenia;
-6)
+6Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 sprawozdanie z wykonania planu finansowego funduszu – sporządzane przez właściwego dysponenta sprawozdanie z wykonania planu finansowego funduszu centralnego, funduszu Wyższej Szkoły Straży Granicznej, funduszu oddziału, funduszu ośrodka lub funduszu ośrodka szkolenia;
 7)
 ustawa o Straży Granicznej – ustawę z dnia 12 października 1990 r. o Straży Granicznej;
 8)
-ustawa o finansach publicznych – ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+ustawa o finansach publicznych – ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.).
 § 3.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Środki finansowe funduszu centralnego, funduszu Wyższej Szkoły Straży Granicznej, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia gromadzone są na wyodrębnionych rachunkach bankowych.
 2.
 Środki finansowe funduszu Centrum Szkolenia Straży Granicznej w Kętrzynie są gromadzone na wyodrębnionym rachunku bankowym, którego dysponentem jest Komendant Warmińsko-Mazurskiego Oddziału Straży Granicznej z siedzibą w Kętrzynie.
 3.
 Komendant Centrum Szkolenia w Kętrzynie dysponuje środkami zgromadzonymi na rachunku bankowym, o którym mowa w ust. 2, za pośrednictwem Komendanta Warmińsko-Mazurskiego Oddziału Straży Granicznej z siedzibą w Kętrzynie.
 § 4.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Wolne środki finansowe funduszu centralnego, funduszu Wyższej Szkoły Straży Granicznej, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia dysponenci przekazują Ministrowi Finansów w zarządzanie.
 2.
 Odsetki od środków przekazanych Ministrowi Finansów w zarządzanie, o których mowa w ust. 1, stanowią przychody danego funduszu.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Koszty obsługi funduszu centralnego, funduszu Wyższej Szkoły Straży Granicznej, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia obciążają dany fundusz.
 § 5.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Podstawą gospodarki finansowej funduszu centralnego, funduszu Wyższej Szkoły Straży Granicznej, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia jest roczny plan finansowy funduszu.
 2.
 Roczny plan finansowy funduszu zawiera:
@@ -100,7 +98,7 @@ Projekt rocznego planu finansowego funduszu właściwy dysponent przekazuje Kome
 Komendant Główny Straży Granicznej sporządza projekt łącznego planu finansowego Funduszu w oparciu o projekty rocznych planów finansowych funduszy.
 3.
 Projekt łącznego planu finansowego Funduszu sporządza się w trybie i terminach określonych w przepisach wydanych na podstawie art. 138 ust. 6 ustawy o finansach publicznych.
-§ 7.
+§ 7Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Projekt rocznego planu, o którym mowa w § 6 ust. 1, stanowi podstawę gospodarki finansowej odpowiednio funduszu centralnego, funduszu Wyższej Szkoły Straży Granicznej, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia w okresie od dnia 1 stycznia roku budżetowego do dnia opracowania przez właściwego dysponenta rocznego planu finansowego na podstawie łącznego planu finansowego Funduszu ujętego w uchwalonej ustawie budżetowej, nie później niż 21 dni od dnia ogłoszenia ustawy budżetowej.
 § 8.
 1.
@@ -114,6 +112,5 @@ Komendant Główny Straży Granicznej przekazuje łączne sprawozdanie z wykonan
 § 9.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 października 2008 r. w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej (Dz. U. poz. 1272 oraz z 2010 r. poz. 1114).
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Dodany przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 września 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej (Dz. U. poz. 2074), które weszło w życie z dniem 1 października 2023 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 4 lutego 2015 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 4 lutego 2015 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Dodany przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 września 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej (Dz. U. poz. 2074), które weszło w życie z dniem 1 października 2023 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 5) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 4 lutego 2015 r.
 

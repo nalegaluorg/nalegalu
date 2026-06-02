@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 maja 2024 r. o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027
+# Ustawa z dnia 23 maja 2024 r. o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 Niniejsza ustawa służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 148 z 08.06.2023, str. 130, Dz. Urz. UE L 2024/946 z 26.03.2024 oraz Dz. Urz. UE L 2024/1468 z 24.05.2024); 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, Dz. Urz. UE L 29 z 10.02.2022, str. 45, Dz. Urz. UE L 216 z 19.08.2022, str. 1 oraz Dz. Urz. UE L 2024/1468 z 24.05.2024).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-23 |
 | Data wydania | 2024-06-17 |
-| Wejście w życie | 2024-06-18 |
 | Ostatnia zmiana | 2024-11-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000885) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/885/text.pdf) |
 
@@ -73,7 +72,7 @@ source: "eli-html"
 
 **Art. 2.**
 
-1. W 2024 r. wniosek o przyznanie płatności, o której mowa w art. 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2021/2115”:
+1. W 2024 r. wniosek o przyznanie płatności, o której mowa w art. 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 435 z 06.12.2021, str. 1, Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 148 z 08.06.2023, str. 130, Dz. Urz. UE L 2024/946 z 26.03.2024 oraz Dz. Urz. UE L 2024/1468 z 24.05.2024., zwanego dalej „rozporządzeniem 2021/2115”:
 
 - **1)** może złożyć rolnik, który złożył za ten rok wniosek o przyznanie podstawowego wsparcia dochodów do celów zrównoważoności, o którym mowa w art. 16 ust. 2 lit. a rozporządzenia 2021/2115;
 - **2)** rolnik, o którym mowa w pkt 1, składa w terminie do dnia 31 sierpnia 2024 r.
@@ -95,5 +94,5 @@ source: "eli-html"
 
 2. Zmiany wniosku o przyznanie pomocy, o której mowa w art. 20 pkt 1–4 ustawy zmienianej w art. 1, które wynikają ze złożenia wniosku o przyznanie płatności do gruntów wyłączonych z produkcji, o których mowa w art. 30 pkt 5a ustawy zmienianej w art. 1, dokonuje się w terminie do dnia 31 sierpnia 2024 r.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejsza ustawa służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 148 z 08.06.2023, str. 130, Dz. Urz. UE L 2024/946 z 26.03.2024 oraz Dz. Urz. UE L 2024/1468 z 24.05.2024); 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, Dz. Urz. UE L 29 z 10.02.2022, str. 45, Dz. Urz. UE L 216 z 19.08.2022, str. 1 oraz Dz. Urz. UE L 2024/1468 z 24.05.2024). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 435 z 06.12.2021, str. 1, Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 148 z 08.06.2023, str. 130, Dz. Urz. UE L 2024/946 z 26.03.2024 oraz Dz. Urz. UE L 2024/1468 z 24.05.2024.
 

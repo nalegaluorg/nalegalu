@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 4 listopada 2016 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych
+# Rozporządzenie Ministra Zdrowiaz dnia 4 listopada 2016 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-04 |
 | Data wydania | 2016-11-10 |
-| Wejście w życie | 2016-11-25 |
 | Ostatnia zmiana | 2025-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001825) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1825/text.pdf) |
 
@@ -35,8 +34,98 @@ W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadcz
 § 2.
 Przepisy rozporządzenia stosuje się do świadczeń gwarantowanych udzielanych od dnia 1 stycznia 2017 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 Załącznik – Tekst załącznika
-Lp. Nazwa programu zdrowotnego 7. Leczenie dorosłych chorych ze śpiączką (rozpoznanie zasadnicze ICD10: R40.2) Zakres świadczenia gwarantowanego Warunki realizacji świadczeń gwarantowanych Świadczeniobiorcy Świadczeniodawcy 1 2 3 Kompleksowy sposób postępowania ze świadczeniobiorcami w stanie śpiączki zgodnie z zaleceniami zespołu terapeutycznego:1) świadczenia opieki zdrowotnej udzielane przez lekarzy;2) świadczenia opieki zdrowotnej udzielane przez pielęgniarki;3) badania diagnostyczne zlecone przez lekarza;4) leczenie farmakologiczne;5) leczenie bólu;6) leczenie spastyczności przy zastosowaniu toksyny botulinowej, zgodnie z opisem programu lekowego określonego w obwieszczeniu ogłaszanym na podstawie art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2016 r. poz. 1536, z późn. zm.);7) w leczeniu spastyczności przy zastosowaniu pompy baklofenowej: a) wszczepienie pompy baklofenowej, na warunkach określonych w rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2016 r. poz. 694, z późn. zm.), b) uzupełnianie pompy baklofenem, na warunkach określonych w rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357);8) leczenie objawów somatycznych;9) opieka psychologiczna nad świadczeniobiorcą i jego rodziną;10) rehabilitacja;11) zapobieganie powikłaniom;12) żywienie dojelitowe i pozajelitowe;13) zaopatrzenie w wyroby medyczne konieczne do wykonania świadczenia gwarantowanego. 1. Skierowanie lekarza ubezpieczenia zdrowotnego na leczenie w programiebezpośrednio po zakończeniu hospitalizacji (jako kontynuacja leczenia szpitalnego).2. Kwalifikacji do programu dokonuje zespół terapeutyczny na podstawie skierowania i spełnienia przez świadczeniobiorców następujących kryteriów kwalifikacji:1) od 6 do 8 punktów w skali Glasgow (GSC);2) pozostawanie w stanie śpiączki w okresie nie dłuższym niż 12 miesięcy od dnia urazu lub 6 miesięcy od dnia wystąpienia śpiączki nieurazowej;3) stabilność podstawowych parametrów życiowych;4) stabilność oddechowa bez wspomagania mechanicznego;5) ukończony 18. rok życia w dniu przyjęcia;6) czas od zdarzenia wywołującego śpiączkę nie krótszy niż 6 tygodni.3. Określenie czasu leczenia w programie:1) decyzję o czasie leczenia podejmuje zespół terapeutyczny na podstawie kryteriów medycznych;2) czas leczenia w programie nie powinien trwać dłużej niż 12 miesięcy od dnia rozpoczęcia leczenia w programie;3) w przypadkach uzasadnionych stanem klinicznym świadczeniobiorcy, jeżeli wydłużenie leczenia przyniesie świadczeniobiorcy korzyści zdrowotne, ustalone na podstawie kryteriów medycznych przyjętych przez zespół terapeutyczny, zespół ten może wyrazić zgodę na wydłużenie leczenia w programie do 15 miesięcy;4) w przypadku gdy świadczeniobiorca w trakcie leczenia w programie wymaga realizacji świadczeń z innego zakresu przez okres dłuższy niż 5 dni, decyzję o kontynuacji leczenia w programie podejmuje zespół terapeutyczny dokonujący oceny stanu świadczeniobiorcy, na podstawie kryteriów medycznych każdorazowo po zakończonej hospitalizacji.4. Monitorowanie efektów leczenia:1) zespół terapeutyczny w przedziale 180–210 dni oraz 330–360 dni, od dnia rozpoczęcia leczenia w programie, na podstawie ustalonych kryteriów medycznych dokonuje monitorowania efektów leczenia w ramach programu;2) w wyniku przeprowadzonego monitorowania zespół terapeutyczny podejmuje decyzję o zakończeniu lub kontynuacji leczenia, w tym o ewentualnym wydłużeniu leczenia w programie.5. Określenie kryteriów skuteczności leczenia1) uzyskanie w ocenie końcowej świadczeniobiorcy, zwiększenia liczby punktów w skali Glasgow (GCS) do poziomu powyżej 8;2) spełnianie podstawowych poleceń (pomijając pacjentów z uszkodzeniem ogniskowym układu nerwowego).6. Określenie trybu postępowania ze świadczeniobiorcą, który zakończył udział w programie – przez 3 lata po zakończeniu udziału świadczeniobiorcy w programie, świadczeniobiorca, jego opiekun prawny lub opiekun faktyczny nie rzadziej niż raz w roku są poddawani korespondencyjnemu badaniu ankietowemu, które ma na celu monitorowanie efektów leczenia. 1. Tryb realizacji świadczenia:- stacjonarne i całodobowe świadczenia zdrowotne inne niż szpitalne.2. Warunki wymagane od świadczeniodawców:- realizacja świadczeń wymaga powołania indywidualnego zespołu terapeutycznego dla każdego świadczeniobiorcy.3. Personel medyczny w przeliczeniu na 15 łóżek:1) równoważnik co najmniej 2 etatów – lekarz specjalista w dziedzinie neurologii lub neurochirurgii oraz lekarz specjalista w dziedzinie rehabilitacji medycznej lub rehabilitacji w chorobach narządów ruchu, lub rehabilitacji ogólnej;2) równoważnik co najmniej 16 etatów – pielęgniarki, w tym pielęgniarki specjalistki lub z ukończonym kursem kwalifikacyjnym w dziedzinie pielęgniarstwa: a) anestezjologicznego i intensywnej opieki lubb) opieki długoterminowej, lub przewlekle chorych i niepełnosprawnych, lubc) neurologicznego- lub w trakcie odbywania tych specjalizacji lub kursów;3) równoważnik co najmniej 1 etatu: a) osoba, która jest psychologiem, posiadającym tytuł specjalisty w dziedzinie psychologia kliniczna lub uzyskała dyplom magistra psychologii, lub uzyskała za granicą dyplom uznany za równorzędny w Rzeczypospolitej Polskiej z dyplomem magistra psychologii, b) osoba, która uzyskała tytuł specjalisty w dziedzinie neurologopedii lub ukończyła studia wyższe na kierunku lub w specjalności logopedia obejmujące w programie nauczania co najmniej 800 godzin kształcenia w zakresie logopedii, lub ukończyła studia wyższe i uzyskała tytuł magistra oraz ukończyła studia podyplomowe z logopedii obejmujące co najmniej 600 godzin kształcenia w zakresie logopedii, lub ukończyła studia wyższe i uzyskała tytuł magistra oraz ukończyła studia podyplomowe z logopedii;4) równoważnik co najmniej 5 etatów – fizjoterapeuci.4. Udokumentowane zapewnienie dostępu do konsultacji lekarza specjalisty w dziedzinie:1) anestezjologii i intensywnej terapii;2) audiologii i foniatrii;3) neurochirurgii;4) okulistyki;5) chorób wewnętrznych;6) psychiatrii;7) urologii;8) ortopedii i traumatologii narządu ruchu.5. Organizacja udzielania świadczeń:1) całodobowy dostęp przez 7 dni w tygodniu do świadczeń opieki zdrowotnej udzielanych przez lekarza;2) całodobowa opieka pielęgniarska;3) szczegółowe określenie, w wewnętrznych aktach regulujących funkcjonowanie świadczeniodawcy, warunków współdziałania z innymi podmiotami leczniczymi w zakresie zapewnienia przez świadczeniodawcę diagnostyki, leczenia świadczeniobiorców i ciągłości postępowania w zakresie: a) anestezjologii i intensywnej terapii, b) radiologii (badania radiologiczne klatki piersiowej, tomografia komputerowa głowy, rezonans magnetyczny z możliwością wykonywania badań czynnościowych mózgu f MRI, w tym w zakresie reakcji mózgu na bodźce wzrokowe, obrazowe i słuchowe), c) neurofizjologii (badanie EEG, video-EEG, słuchowe, somato-sensoryczne motoryczne, potencjały wywołane), d) chirurgii ogólnej, e) ortopedii i traumatologii narządu ruchu, f) gastroenterologii, g) neurologii, h) neurochirurgii.6. Wyposażenie w sprzęt medyczny:1) łóżka szpitalne (zwykłe i łamane) o regulowanej wysokości, wyposażone w ruchome barierki zabezpieczające przed wypadnięciem, zawierające oprzyrządowanie do rehabilitacji;2) materace przeciwodleżynowe oraz inny sprzęt przeciwodleżynowy;3) sprzęt ułatwiający pielęgnację -zintegrowany system do higieny ciała, podnośniki, parawany oraz pasy ślizgowe;4) koncentrator tlenu lub inne dostępne źródło tlenu w liczbie co najmniej 1 na każde rozpoczęte 5 łóżek;5) ssak elektryczny w liczbie co najmniej 1 na każde rozpoczęte 3 łóżka;6) inhalator w liczbie co najmniej 1 na każde rozpoczęte 5 łóżek;7) pompa strzykawkowa w liczbie co najmniej 1 na każde rozpoczęte 5 łóżek;8) pompa objętościowa w liczbie co najmniej 1 na każde rozpoczęte 5 łóżek;9) waga łóżkowa;10) respirator w liczbie co najmniej 1 w miejscu udzielania świadczeń;11) monitor sygnałów fizjologicznych (EKG, saturacja tlenem, ciśnienie tętnicze) w liczbie co najmniej 1 na każde rozpoczęte 5 łóżek;12) aparat EEG, który znajduje się w budynku, lub zespole budynków oznaczonych tym samym adresem, w którym lub w których jest zlokalizowane miejsce udzielania świadczeń.7. Wyposażenie w sprzęt rehabilitacyjny obejmujący co najmniej:1) stoły rehabilitacyjne;2) stoły pionizacyjne;3) zestawy do ćwiczeń biernych;4) aparaty do fizykoterapii;5) wanny do masażu wirowego.8. Zapewnienie dostępu do badańumożliwiających monitorowanie stanu świadczeniobiorcy zgodnie z kryteriami określonymi przez zespół terapeutyczny.
+Lp. Nazwa programu zdrowotnego 7. Leczenie dorosłych chorych ze śpiączką (rozpoznanie zasadnicze ICD10: R40.2) Zakres świadczenia gwarantowanego Warunki realizacji świadczeń gwarantowanych Świadczeniobiorcy Świadczeniodawcy 1 2 3 Kompleksowy sposób postępowania ze świadczeniobiorcami w stanie śpiączki zgodnie z zaleceniami zespołu terapeutycznego:
+1) świadczenia opieki zdrowotnej udzielane przez lekarzy;
+2) świadczenia opieki zdrowotnej udzielane przez pielęgniarki;
+3) badania diagnostyczne zlecone przez lekarza;
+4) leczenie farmakologiczne;
+5) leczenie bólu;
+6) leczenie spastyczności przy zastosowaniu toksyny botulinowej, zgodnie z opisem programu lekowego określonego w obwieszczeniu ogłaszanym na podstawie art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2016 r. poz. 1536, z późn. zm.);
+7) w leczeniu spastyczności przy zastosowaniu pompy baklofenowej:
+a) wszczepienie pompy baklofenowej, na warunkach określonych w rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2016 r. poz. 694, z późn. zm.),
+b) uzupełnianie pompy baklofenem, na warunkach określonych w rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357);
+8) leczenie objawów somatycznych;
+9) opieka psychologiczna nad świadczeniobiorcą i jego rodziną;
+10) rehabilitacja;
+11) zapobieganie powikłaniom;
+12) żywienie dojelitowe i pozajelitowe;
+13) zaopatrzenie w wyroby medyczne konieczne do wykonania świadczenia gwarantowanego. 1. Skierowanie lekarza ubezpieczenia zdrowotnego na leczenie w programie
+bezpośrednio po zakończeniu hospitalizacji (jako kontynuacja leczenia szpitalnego).
+2. Kwalifikacji do programu dokonuje zespół terapeutyczny na podstawie skierowania i spełnienia przez świadczeniobiorców następujących kryteriów kwalifikacji:
+1) od 6 do 8 punktów w skali Glasgow (GSC);
+2) pozostawanie w stanie śpiączki w okresie nie dłuższym niż 12 miesięcy od dnia urazu lub 6 miesięcy od dnia wystąpienia śpiączki nieurazowej;
+3) stabilność podstawowych parametrów życiowych;
+4) stabilność oddechowa bez wspomagania mechanicznego;
+5) ukończony 18. rok życia w dniu przyjęcia;
+6) czas od zdarzenia wywołującego śpiączkę nie krótszy niż 6 tygodni.
+3. Określenie czasu leczenia w programie:
+1) decyzję o czasie leczenia podejmuje zespół terapeutyczny na podstawie kryteriów medycznych;
+2) czas leczenia w programie nie powinien trwać dłużej niż 12 miesięcy od dnia rozpoczęcia leczenia w programie;
+3) w przypadkach uzasadnionych stanem klinicznym świadczeniobiorcy, jeżeli wydłużenie leczenia przyniesie świadczeniobiorcy korzyści zdrowotne, ustalone na podstawie kryteriów medycznych przyjętych przez zespół terapeutyczny, zespół ten może wyrazić zgodę na wydłużenie leczenia w programie do 15 miesięcy;
+4) w przypadku gdy świadczeniobiorca w trakcie leczenia w programie wymaga realizacji świadczeń z innego zakresu przez okres dłuższy niż 5 dni, decyzję o kontynuacji leczenia w programie podejmuje zespół terapeutyczny dokonujący oceny stanu świadczeniobiorcy, na podstawie kryteriów medycznych każdorazowo po zakończonej hospitalizacji.
+4. Monitorowanie efektów leczenia:
+1) zespół terapeutyczny w przedziale 180–210 dni oraz 330–360 dni, od dnia rozpoczęcia leczenia w programie, na podstawie ustalonych kryteriów medycznych dokonuje monitorowania efektów leczenia w ramach programu;
+2) w wyniku przeprowadzonego monitorowania zespół terapeutyczny podejmuje decyzję o zakończeniu lub kontynuacji leczenia, w tym o ewentualnym wydłużeniu leczenia w programie.
+5. Określenie kryteriów skuteczności leczenia
+1) uzyskanie w ocenie końcowej świadczeniobiorcy, zwiększenia liczby punktów w skali Glasgow (GCS) do poziomu powyżej 8;
+2) spełnianie podstawowych poleceń (pomijając pacjentów z uszkodzeniem ogniskowym układu nerwowego).
+6. Określenie trybu postępowania ze świadczeniobiorcą, który zakończył udział w programie – przez 3 lata po zakończeniu udziału świadczeniobiorcy w programie, świadczeniobiorca, jego opiekun prawny lub opiekun faktyczny nie rzadziej niż raz w roku są poddawani korespondencyjnemu badaniu ankietowemu, które ma na celu monitorowanie efektów leczenia. 1. Tryb realizacji świadczenia:
+stacjonarne i całodobowe świadczenia zdrowotne inne niż szpitalne.
+2. Warunki wymagane od świadczeniodawców:
+realizacja świadczeń wymaga powołania indywidualnego zespołu terapeutycznego dla każdego świadczeniobiorcy.
+3. Personel medyczny w przeliczeniu na 15 łóżek:
+1) równoważnik co najmniej 2 etatów – lekarz specjalista w dziedzinie neurologii lub neurochirurgii oraz lekarz specjalista w dziedzinie rehabilitacji medycznej lub rehabilitacji w chorobach narządów ruchu, lub rehabilitacji ogólnej;
+2) równoważnik co najmniej 16 etatów – pielęgniarki, w tym pielęgniarki specjalistki lub z ukończonym kursem kwalifikacyjnym w dziedzinie pielęgniarstwa:
+a) anestezjologicznego i intensywnej opieki lub
+b) opieki długoterminowej, lub przewlekle chorych i niepełnosprawnych, lub
+c) neurologicznego
+lub w trakcie odbywania tych specjalizacji lub kursów;
+3) równoważnik co najmniej 1 etatu:
+a) osoba, która jest psychologiem, posiadającym tytuł specjalisty w dziedzinie psychologia kliniczna lub uzyskała dyplom magistra psychologii, lub uzyskała za granicą dyplom uznany za równorzędny w Rzeczypospolitej Polskiej z dyplomem magistra psychologii,
+b) osoba, która uzyskała tytuł specjalisty w dziedzinie neurologopedii lub ukończyła studia wyższe na kierunku lub w specjalności logopedia obejmujące w programie nauczania co najmniej 800 godzin kształcenia w zakresie logopedii, lub ukończyła studia wyższe i uzyskała tytuł magistra oraz ukończyła studia podyplomowe z logopedii obejmujące co najmniej 600 godzin kształcenia w zakresie logopedii, lub ukończyła studia wyższe i uzyskała tytuł magistra oraz ukończyła studia podyplomowe z logopedii;
+4) równoważnik co najmniej 5 etatów – fizjoterapeuci.
+4. Udokumentowane zapewnienie dostępu do konsultacji lekarza specjalisty w dziedzinie:
+1) anestezjologii i intensywnej terapii;
+2) audiologii i foniatrii;
+3) neurochirurgii;
+4) okulistyki;
+5) chorób wewnętrznych;
+6) psychiatrii;
+7) urologii;
+8) ortopedii i traumatologii narządu ruchu.
+5. Organizacja udzielania świadczeń:
+1) całodobowy dostęp przez 7 dni w tygodniu do świadczeń opieki zdrowotnej udzielanych przez lekarza;
+2) całodobowa opieka pielęgniarska;
+3) szczegółowe określenie, w wewnętrznych aktach regulujących funkcjonowanie świadczeniodawcy, warunków współdziałania z innymi podmiotami leczniczymi w zakresie zapewnienia przez świadczeniodawcę diagnostyki, leczenia świadczeniobiorców i ciągłości postępowania w zakresie:
+a) anestezjologii i intensywnej terapii,
+b) radiologii (badania radiologiczne klatki piersiowej, tomografia komputerowa głowy, rezonans magnetyczny z możliwością wykonywania badań czynnościowych mózgu f MRI, w tym w zakresie reakcji mózgu na bodźce wzrokowe, obrazowe i słuchowe),
+c) neurofizjologii (badanie EEG, video-EEG, słuchowe, somato-sensoryczne motoryczne, potencjały wywołane),
+d) chirurgii ogólnej,
+e) ortopedii i traumatologii narządu ruchu,
+f) gastroenterologii,
+g) neurologii,
+h) neurochirurgii.
+6. Wyposażenie w sprzęt medyczny:
+1) łóżka szpitalne (zwykłe i łamane) o regulowanej wysokości, wyposażone w ruchome barierki zabezpieczające przed wypadnięciem, zawierające oprzyrządowanie do rehabilitacji;
+2) materace przeciwodleżynowe oraz inny sprzęt przeciwodleżynowy;
+3) sprzęt ułatwiający pielęgnację -zintegrowany system do higieny ciała, podnośniki, parawany oraz pasy ślizgowe;
+4) koncentrator tlenu lub inne dostępne źródło tlenu w liczbie co najmniej 1 na każde rozpoczęte 5 łóżek;
+5) ssak elektryczny w liczbie co najmniej 1 na każde rozpoczęte 3 łóżka;
+6) inhalator w liczbie co najmniej 1 na każde rozpoczęte 5 łóżek;
+7) pompa strzykawkowa w liczbie co najmniej 1 na każde rozpoczęte 5 łóżek;
+8) pompa objętościowa w liczbie co najmniej 1 na każde rozpoczęte 5 łóżek;
+9) waga łóżkowa;
+10) respirator w liczbie co najmniej 1 w miejscu udzielania świadczeń;
+11) monitor sygnałów fizjologicznych (EKG, saturacja tlenem, ciśnienie tętnicze) w liczbie co najmniej 1 na każde rozpoczęte 5 łóżek;
+12) aparat EEG, który znajduje się w budynku, lub zespole budynków oznaczonych tym samym adresem, w którym lub w których jest zlokalizowane miejsce udzielania świadczeń.
+7. Wyposażenie w sprzęt rehabilitacyjny obejmujący co najmniej:
+1) stoły rehabilitacyjne;
+2) stoły pionizacyjne;
+3) zestawy do ćwiczeń biernych;
+4) aparaty do fizykoterapii;
+5) wanny do masażu wirowego.
+8. Zapewnienie dostępu do badań
+umożliwiających monitorowanie stanu świadczeniobiorcy zgodnie z kryteriami określonymi przez zespół terapeutyczny.
 

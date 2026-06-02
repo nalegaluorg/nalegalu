@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-01 |
 | Data wydania | 2015-06-12 |
-| Wejście w życie | 2015-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000794) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/794/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 94 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 94 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908, z 2013 r. poz. 628, 675, 1247 i 1351 oraz z 2014 r. poz. 502, 616, 1055 i 1822.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 28 listopada 2003 r. w sprawie przebiegu służby funkcjonariuszy Agencji Wywiadu (Dz. U. Nr 210, poz. 2039 oraz z 2007 r. Nr 97, poz. 641) wprowadza się następujące zmiany:
 1)
@@ -35,18 +34,15 @@ w § 3:
 a)
 w ust. 1 uchyla się pkt 13–15,
 b)
-ust. 3 i 4 otrzymują brzmienie:
-„
+ust. 3 i 4 otrzymują brzmienie: „
 3.
 Funkcjonariusza zapoznaje się z rozkazem personalnym wydanym w sprawach osobowych, o których mowa w ust. 1.
 4.
-Do spraw osobowych, o których mowa w ust. 1, załatwianych w formie rozkazu personalnego, w zakresie nieuregulowanym rozporządzeniem, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.).
-” ;
+Do spraw osobowych, o których mowa w ust. 1, załatwianych w formie rozkazu personalnego, w zakresie nieuregulowanym rozporządzeniem, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211.). ” ;
 2)
 w § 7:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
 W rozkazie personalnym wydanym w sprawach, o których mowa w § 3 ust. 1 pkt 2–5 i 8–12, zamieszcza się:
 1)
@@ -66,10 +62,9 @@ uzasadnienie faktyczne rozstrzyganej sprawy;
 8)
 podpis osoby uprawnionej do wydania rozkazu personalnego, z podaniem stopnia, imienia i nazwiska oraz stanowiska służbowego tej osoby;
 9)
-pouczenie o przysługującym funkcjonariuszowi środku odwoławczym.
-” ,
+pouczenie o przysługującym funkcjonariuszowi środku odwoławczym. ” ,
 b)
 uchyla się ust. 2.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908, z 2013 r. poz. 628, 675, 1247 i 1351 oraz z 2014 r. poz. 502, 616, 1055 i 1822. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211.
 

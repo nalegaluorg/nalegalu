@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-06-27 |
 | Data wydania | 2003-08-08 |
-| Wejście w życie | 2003-08-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031391325) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1325/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. Nr 79, poz. 484, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. Nr 79, poz. 484, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 80, poz. 511, z 2000 r. Nr 48, poz. 550, Nr 60, poz. 693 i Nr 86, poz. 958, z 2001 r. Nr 16, poz. 167 i Nr 81, poz. 876, z 2002 r. Nr 25, poz. 253, Nr 121, poz. 1032 i Nr 216, poz. 1824 oraz z 2003 r. Nr 83, poz. 758.) wprowadza się następujące zmiany:
 
 - **1)** po art. 42a dodaje się art. 42b w brzmieniu: „
 
@@ -62,5 +61,5 @@ source: "eli-html"
 
 **Art. 5.** Rozporządzenie wydane na podstawie upoważnienia zmienionego w art. 1 pkt 2 niniejszej ustawy zachowuje moc do czasu wydania nowego rozporządzenia, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia ustawy w życie.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 80, poz. 511, z 2000 r. Nr 48, poz. 550, Nr 60, poz. 693 i Nr 86, poz. 958, z 2001 r. Nr 16, poz. 167 i Nr 81, poz. 876, z 2002 r. Nr 25, poz. 253, Nr 121, poz. 1032 i Nr 216, poz. 1824 oraz z 2003 r. Nr 83, poz. 758.
 

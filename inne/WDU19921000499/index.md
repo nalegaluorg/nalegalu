@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1992-11-06 |
 | Data wydania | 1992-12-28 |
-| Wejście w życie | 1993-01-12 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19921000499) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/499/text.pdf) |
 
@@ -33,7 +32,10 @@ source: "eli-html"
 
 2. Gmina oraz inna komunalna osoba prawna nie może prowadzić działalności gospodarczej wykraczającej poza zadania o charakterze użyteczności publicznej. ” ,
 
-- **3)** w art. 18: w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) powoływanie i odwoływanie skarbnika gminy, który jest głównym księgowym budżetu, oraz sekretarza gminy – na wniosek przewodniczącego zarządu, ” – w pkt 7 po wyrazie „oraz” dodaje się wyraz „zasad”, a wyraz „przekazywanie” zastępuje się wyrazem „przekazywania”, – w pkt 9: – lit. a) otrzymuje brzmienie: „ a) określania zasad nabycia, zbycia i obciążenia nieruchomości gruntowych oraz ich wydzierżawiania lub najmu na okres dłuższy niż trzy lata, o ile ustawy szczególne nie stanowią inaczej; do czasu określenia zasad zarząd może dokonywać tych czynności wyłącznie za zgodą rady gminy, ” – skreśla się lit. b), a dotychczasowe lit. c)-i) otrzymują oznaczenie lit. b)-h), w ust. 3 wyrazy „może powołać” zastępuje się wyrazem „powołuje”, skreśla się ust. 4,
+- **3)** w art. 18: w ust. 2: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** powoływanie i odwoływanie skarbnika gminy, który jest głównym księgowym budżetu, oraz sekretarza gminy – na wniosek przewodniczącego zarządu, ” – w pkt 7 po wyrazie „oraz” dodaje się wyraz „zasad”, a wyraz „przekazywanie” zastępuje się wyrazem „przekazywania”, w pkt 9: lit. a) otrzymuje brzmienie: „ określania zasad nabycia, zbycia i obciążenia nieruchomości gruntowych oraz ich wydzierżawiania lub najmu na okres dłuższy niż trzy lata, o ile ustawy szczególne nie stanowią inaczej; do czasu określenia zasad zarząd może dokonywać tych czynności wyłącznie za zgodą rady gminy, ” – skreśla się lit. b), a dotychczasowe lit. c)-i) otrzymują oznaczenie lit. b)-h), w ust. 3 wyrazy „może powołać” zastępuje się wyrazem „powołuje”, skreśla się ust. 4,
     - **a)**
     - **b)**
     - **c)**

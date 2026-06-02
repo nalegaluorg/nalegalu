@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-26 |
 | Data wydania | 2013-12-06 |
-| Wejście w życie | 2013-12-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001468) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1468/text.pdf) |
 
@@ -196,5 +195,5 @@ Nieudzielenie przez operatora pocztowego odpowiedzi na reklamację w terminie, o
 § 15.
 Postępowania reklamacyjne niezakończone przed dniem wejścia w życie rozporządzenia rozpatruje się na dotychczasowych zasadach.
 § 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 13 października 2003 r. w sprawie reklamacji powszechnej usługi pocztowej w zakresie przesyłki rejestrowanej i przekazu pocztowego (Dz. U. Nr 183, poz. 1795 oraz z 2005 r. Nr 68, poz. 595), które na mocy art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 13 października 2003 r. w sprawie reklamacji powszechnej usługi pocztowej w zakresie przesyłki rejestrowanej i przekazu pocztowego (Dz. U. Nr 183, poz. 1795 oraz z 2005 r. Nr 68, poz. 595), które na mocy art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

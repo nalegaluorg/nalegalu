@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-27 |
 | Data wydania | 2014-12-03 |
-| Wejście w życie | 2014-12-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001702) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1702/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 80 ust. 8 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 80 ust. 8 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1149 oraz z 2014 r. poz. 768 i 1662.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -70,5 +69,5 @@ Dokumenty, o których mowa w ust. 2 pkt 1, należy załączyć w oryginale lub k
 5.
 Informacja, o której mowa w ust. 2 pkt 2, powinna zostać sporządzona nie wcześniej niż 3 miesiące przed dniem złożenia wniosku i załączona w oryginale.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 maja 2004 r. w sprawie egzaminu kwalifikacyjnego na agenta celnego oraz wpisu na listę agentów celnych (Dz. U. z 2013 r. poz. 76), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1149 oraz z 2014 r. poz. 768 i 1662. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 maja 2004 r. w sprawie egzaminu kwalifikacyjnego na agenta celnego oraz wpisu na listę agentów celnych (Dz. U. z 2013 r. poz. 76), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768).
 

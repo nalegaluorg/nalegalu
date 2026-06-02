@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-22 |
 | Data wydania | 2019-01-16 |
-| Wejście w życie | 2019-01-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000083) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/83/text.pdf) |
 
@@ -40,9 +39,10 @@ source: "eli-html"
 - **3)** w art. 23: w ust. 1 pkt 1 otrzymuje brzmienie: „
     - **a)**
 
-- **1)** pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o przyznanie pomocy z tytułu kosztów założenia, o których mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, składa się: ” , – pkt 2 otrzymuje brzmienie: „ 2) w przypadku ogłoszenia naboru wniosków o przyznanie pomocy w ramach tego poddziałania. ” ;
+- **1)** pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o przyznanie pomocy z tytułu kosztów założenia, o których mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013, w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a, składa się: ” , pkt 2 otrzymuje brzmienie: „
     - **b)**
 
+- **2)** w przypadku ogłoszenia naboru wniosków o przyznanie pomocy w ramach tego poddziałania. ” ;
 - **4)** użyte w art. 25 w ust. 1, w art. 28, w art. 31, w art. 32 w ust. 1, w art. 42 w ust. 2 i 3a oraz w art. 48a w ust. 1 wyrazy „działania, o którym mowa w art. 3 ust. 1 pkt 8” zastępuje się wyrazami „poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a”;
 - **5)** art. 30a otrzymuje brzmienie: „
 
@@ -75,7 +75,7 @@ source: "eli-html"
 5. Nadleśniczy na wniosek właściciela gruntu przeznaczonego:
 
 - **1)** do zalesienia – sporządza plan zalesienia oraz potwierdza wykonanie zalesienia zgodnie z tym planem albo
-- **2)** na realizację inwestycji zwiększających odporność ekosystemów leśnych i ich wartość dla środowiska – sporządza plan tej inwestycji oraz potwierdza jej wykonanie zgodnie z tym planem w przypadku gdy zalesienie to będzie wykonywane lub inwestycja ta będzie realizowana zgodnie z przepisami o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020. ” ;
+- **2)** na realizację inwestycji zwiększających odporność ekosystemów leśnych i ich wartość dla środowiska – sporządza plan tej inwestycji oraz potwierdza jej wykonanie zgodnie z tym planem – w przypadku gdy zalesienie to będzie wykonywane lub inwestycja ta będzie realizowana zgodnie z przepisami o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020. ” ;
 - **2)** w art. 54 pkt 7 otrzymuje brzmienie: „
 - **7)** sporządzanie planów zalesienia lub inwestycji, o których mowa w art. 35 ust. 5; ” .
 

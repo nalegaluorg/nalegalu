@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 27 marca 2019 r. w sprawie specjalistycznej jednostki nadzoru
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 27 marca 2019 r. w sprawie specjalistycznej jednostki nadzoru Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-27 |
 | Data wydania | 2019-04-01 |
-| Wejście w życie | 2019-04-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/607/text.pdf) |
 
@@ -100,6 +99,5 @@ Dyrektor, wicedyrektor i pracownicy specjalistycznej jednostki nadzoru „Centru
 § 14.
 Do dnia 31 sierpnia 2019 r. Centrum, o którym mowa w niniejszym rozporządzeniu, powierza się także realizację zadań organu prowadzącego w stosunku do szkół i placówek artystycznych prowadzonych przez ministra, o których mowa w przepisach wydanych na podstawie art. 53 ust. 5 w związku z art. 47 ust. 1 pkt 6 ustawy.
 § 15.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2019 r.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 22 września 2004 r. w sprawie specjalistycznej jednostki nadzoru (Dz. U. poz. 2292 oraz z 2007 r. poz. 1530), które utraciło moc z dniem 1 stycznia 2019 r. na podstawie art. 170 pkt 3 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 22 września 2004 r. w sprawie specjalistycznej jednostki nadzoru (Dz. U. poz. 2292 oraz z 2007 r. poz. 1530), które utraciło moc z dniem 1 stycznia 2019 r. na podstawie art. 170 pkt 3 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 22 września 2004 r. w sprawie specjalistycznej jednostki nadzoru (Dz. U. poz. 2292 oraz z 2007 r. poz. 1530), które utraciło moc z dniem 1 stycznia 2019 r. na podstawie art. 170 pkt 3 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534).
 

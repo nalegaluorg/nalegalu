@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-28 |
 | Data wydania | 2022-12-30 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2025-07-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002850) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2850/text.pdf) |
 
@@ -89,8 +88,7 @@ z narażeniem na promieniowanie ultrafioletowe lub podczerwone,
 d)
 z narażeniem na drgania o ogólnym działaniu na człowieka,
 e)
-z narażeniem na działanie promieniowania laserowego
-jeżeli w środowisku pełnienia służby są przekroczone najwyższe dopuszczalne stężenia i natężenia czynników szkodliwych dla zdrowia określone w przepisach wydanych na podstawie art. 228 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140),
+z narażeniem na działanie promieniowania laserowego – jeżeli w środowisku pełnienia służby są przekroczone najwyższe dopuszczalne stężenia i natężenia czynników szkodliwych dla zdrowia określone w przepisach wydanych na podstawie art. 228 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140),
 f)
 w pomieszczeniach zamkniętych, w których ze względów technologicznych utrzymuje się stale temperatura efektywna powyżej 25°C lub poniżej 10°C,
 g)
@@ -112,8 +110,7 @@ z narażeniem na działanie substancji toksycznych kumulujących się w organizm
 c)
 z narażeniem na drgania działające na organizm człowieka przez kończyny górne,
 d)
-z narażeniem na hałas
-jeżeli w środowisku pełnienia służby są przekroczone najwyższe dopuszczalne stężenia i natężenia czynników szkodliwych dla zdrowia określone w przepisach wydanych na podstawie art. 228 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy,
+z narażeniem na hałas – jeżeli w środowisku pełnienia służby są przekroczone najwyższe dopuszczalne stężenia i natężenia czynników szkodliwych dla zdrowia określone w przepisach wydanych na podstawie art. 228 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy,
 e)
 z narażeniem na obniżone lub podwyższone ciśnienie wynikające z procesu technologicznego, w szczególności w komorach ciśnieniowych i kesonowych,
 f)
@@ -168,8 +165,7 @@ Wysokość dodatku funkcyjnego dla żołnierza, któremu powierzono pełnienie f
 1)
 w przypadku pełnienia funkcji lub wykonywania obowiązków przewidzianych dla podoficera – do 5%,
 2)
-w przypadku pełnienia funkcji lub wykonywania obowiązków przewidzianych dla oficera – do 15%
-należnej dziennej stawki uposażenia zasadniczego.
+w przypadku pełnienia funkcji lub wykonywania obowiązków przewidzianych dla oficera – do 15% – należnej dziennej stawki uposażenia zasadniczego.
 2.
 Przy ustalaniu wysokości dodatku uwzględnia się:
 1)
@@ -185,7 +181,7 @@ poziom wyszkolenia wojskowego i specjalistycznego żołnierza.
 § 10.
 Wysokość dodatku za gotowość bojową dla żołnierza obrony terytorialnej pełniącego terytorialną służbę wojskową wynosi 10% najniższego uposażenia zasadniczego żołnierza zawodowego.
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem § 2–10 w zakresie odnoszącym się do żołnierzy pełniących służbę w aktywnej rezerwie, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem § 2–10 w zakresie odnoszącym się do żołnierzy pełniących służbę w aktywnej rezerwie, które wchodzą w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 13 stycznia 2017 r. w sprawie stawek uposażenia zasadniczego żołnierzy niezawodowych oraz dodatków do uposażenia zasadniczego żołnierzy niezawodowych (Dz. U. z 2021 r. poz. 862 oraz z 2022 r. poz. 314 i 2149), które zgodnie z art. 822 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 13 stycznia 2017 r. w sprawie stawek uposażenia zasadniczego żołnierzy niezawodowych oraz dodatków do uposażenia zasadniczego żołnierzy niezawodowych (Dz. U. z 2021 r. poz. 862 oraz z 2022 r. poz. 314 i 2149), które zgodnie z art. 822 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 Załącznik – Stawki uposażenia zasadniczego żołnierzy w kwotach dziennych według stopnia etatowego zajmowanego stanowiska służbowego, określonego stopniem wojskowym, oraz według posiadanego przez żołnierza stopnia wojskowego
 Lp. Stopień wojskowy Wysokość stawki w kwocie dziennej (w zł) 1 generał (admirał) 615 2 generał broni (admirał floty) 515 3 generał dywizji (wiceadmirał) 440 4 generał brygady (kontradmirał) 360 5 pułkownik (komandor) 320 6 podpułkownik (komandor porucznik) 270 7 major (komandor podporucznik) 235 8 kapitan (kapitan marynarki) 215 9 porucznik (porucznik marynarki) 210 10 podporucznik (podporucznik marynarki) 205 11 starszy chorąży sztabowy (starszy chorąży sztabowy marynarki) 190 12 starszy chorąży (starszy chorąży marynarki) 185 13 chorąży (chorąży marynarki) 180 14 młodszy chorąży (młodszy chorąży marynarki) 175 15 starszy sierżant (starszy bosman) 170 16 sierżant (bosman) 165 17 plutonowy (bosmanmat) 160 18 starszy kapral (starszy mat) 155 19 kapral (mat) 150 20 starszy szeregowy specjalista (starszy marynarz specjalista) 145 21 starszy szeregowy (starszy marynarz) 135 22 szeregowy (marynarz) 130
 

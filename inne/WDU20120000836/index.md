@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-28 |
 | Data wydania | 2012-07-20 |
-| Wejście w życie | 2012-08-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000836) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/836/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 131, poz. 763 i Nr 234, poz. 1391.) wprowadza się następujące zmiany:
 
 - **1)** art. 45b otrzymuje brzmienie: „
 
@@ -36,7 +35,7 @@ source: "eli-html"
 
 - **1)** uczestnicy będący stronami tych transakcji;
 - **2)** Krajowy Depozyt albo spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2, lub izba rozliczeniowa (podmiot rozliczający) w przypadku, o którym mowa w art. 45h ust. 1;
-- **3)** uczestnicy, którzy na zasadach określonych w regulaminie podmiotu rozliczającego: zobowiązali się wobec tego podmiotu do wykonywania obowiązków wynikających z rozliczania transakcji zawartych przez inne podmioty oraz w przypadku, gdy rozliczenie transakcji następuje w sposób, o którym mowa w art. 45h – uzyskali zgodę podmiotu zawierającego transakcje na wykonywanie obowiązków, o których mowa w lit. a (uczestnicy będący stronami rozliczenia).
+- **3)** uczestnicy, którzy na zasadach określonych w regulaminie podmiotu rozliczającego: zobowiązali się wobec tego podmiotu do wykonywania obowiązków wynikających z rozliczania transakcji zawartych przez inne podmioty oraz w przypadku, gdy rozliczenie transakcji następuje w sposób, o którym mowa w art. 45h – uzyskali zgodę podmiotu zawierającego transakcje na wykonywanie obowiązków, o których mowa w lit. a – (uczestnicy będący stronami rozliczenia).
     - **a)**
     - **b)**
 
@@ -49,18 +48,18 @@ source: "eli-html"
 
 - **1)** na rynku regulowanym,
 - **2)** w alternatywnym systemie obrotu,
-- **3)** poza obrotem zorganizowanym – polegające na sprzedaży instrumentów finansowych ze zobowiązaniem do ich odkupu, a także inne transakcje, jeżeli na podstawie przepisów prawa podlegają one obowiązkowi rozliczenia przez podmiot rozliczający powodujących zawieszenie lub zaprzestanie dokonywania przez niego spłaty zadłużeń albo ograniczających jego zdolność w zakresie swobodnego rozporządzania swoim mieniem, w tym zawieszenie działalności banku w trybie określonym przepisami ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nie wywołuje skutków prawnych w stosunku do środków znajdujących się na koncie depozytowym, rachunku zbiorczym, rachunku papierów wartościowych, rachunku pieniężnym lub rachunku bankowym tego uczestnika lub podmiotu, służącym do realizacji rozliczeń transakcji w zakresie, w jakim środki te są przeznaczone do przeprowadzenia rozrachunku transakcji w podmiocie przeprowadzającym rozrachunek, chociażby postępowanie zostało wszczęte, likwidacja otwarta lub inny środek prawny został podjęty przed przeprowadzeniem jej rozrachunku.
+- **3)** poza obrotem zorganizowanym – polegające na sprzedaży instrumentów finansowych ze zobowiązaniem do ich odkupu, a także inne transakcje, jeżeli na podstawie przepisów prawa podlegają one obowiązkowi rozliczenia przez podmiot rozliczający – powodujących zawieszenie lub zaprzestanie dokonywania przez niego spłaty zadłużeń albo ograniczających jego zdolność w zakresie swobodnego rozporządzania swoim mieniem, w tym zawieszenie działalności banku w trybie określonym przepisami ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nie wywołuje skutków prawnych w stosunku do środków znajdujących się na koncie depozytowym, rachunku zbiorczym, rachunku papierów wartościowych, rachunku pieniężnym lub rachunku bankowym tego uczestnika lub podmiotu, służącym do realizacji rozliczeń transakcji w zakresie, w jakim środki te są przeznaczone do przeprowadzenia rozrachunku transakcji w podmiocie przeprowadzającym rozrachunek, chociażby postępowanie zostało wszczęte, likwidacja otwarta lub inny środek prawny został podjęty przed przeprowadzeniem jej rozrachunku.
 
 2. Środki prawne, o których mowa w ust. 1, nie wywołują skutków prawnych wobec podmiotu uprawnionego z zabezpieczenia w stosunku do przedmiotu zabezpieczenia ustanowionego przez uczestnika lub przez inny podmiot zawierający transakcje:
 
 - **1)** na rynku regulowanym,
 - **2)** w alternatywnym systemie obrotu,
-- **3)** poza obrotem zorganizowanym – polegające na sprzedaży instrumentów finansowych ze zobowiązaniem do ich odkupu, a także inne transakcje, jeżeli na podstawie przepisów prawa podlegają one obowiązkowi rozliczenia przez podmiot rozliczający na rzecz innego uczestnika lub na rzecz podmiotu rozliczającego, na zasadach określonych w regulaminie podmiotu rozliczającego.
+- **3)** poza obrotem zorganizowanym – polegające na sprzedaży instrumentów finansowych ze zobowiązaniem do ich odkupu, a także inne transakcje, jeżeli na podstawie przepisów prawa podlegają one obowiązkowi rozliczenia przez podmiot rozliczający – na rzecz innego uczestnika lub na rzecz podmiotu rozliczającego, na zasadach określonych w regulaminie podmiotu rozliczającego.
 
 3. Podmiot przeprowadzający rozrachunek transakcji jest uprawniony do wykorzystania:
 
 - **1)** środków, o których mowa w ust. 1, należących do podmiotu zawierającego transakcję, o którym mowa w art. 45g ust. 1, oraz
-- **2)** ustanowionego przez ten podmiot zabezpieczenia, o którym mowa w ust. 2 w celu dokonania rozrachunku zawartej przez ten podmiot transakcji, także w przypadku, gdy jej rozliczenie następuje w sposób, o którym mowa w art. 45h.
+- **2)** ustanowionego przez ten podmiot zabezpieczenia, o którym mowa w ust. 2 – w celu dokonania rozrachunku zawartej przez ten podmiot transakcji, także w przypadku, gdy jej rozliczenie następuje w sposób, o którym mowa w art. 45h.
 
 4. Przepis ust. 1 stosuje się także w przypadku, gdy system rejestracji papierów wartościowych jest prowadzony przez Narodowy Bank Polski. ” ;
 
@@ -94,7 +93,7 @@ source: "eli-html"
 2. Z chwilą przyjęcia transakcji do rozliczenia w sposób, o którym mowa w ust. 1, prawa i obowiązki z niej wynikające wygasają, a w to miejsce:
 
 - **1)** w przypadku, o którym mowa w ust. 1 pkt 1 – strona transakcji staje się uprawniona lub zobowiązana zgodnie z treścią tej transakcji w stosunku do podmiotu rozliczającego albo
-- **2)** w przypadku, o którym mowa w ust. 1 pkt 2: strona transakcji staje się uprawniona lub zobowiązana zgodnie z treścią tej transakcji w stosunku do uczestnika, który na podstawie zawartej z nią umowy zobowiązał się do wykonywania zadań uczestnika będącego stroną rozliczenia zawieranych przez nią transakcji, uczestnik, o którym mowa w lit. a, staje się uprawniony lub zobowiązany zgodnie z treścią tej transakcji w stosunku do podmiotu rozliczającego (nowacja rozliczeniowa).
+- **2)** w przypadku, o którym mowa w ust. 1 pkt 2: strona transakcji staje się uprawniona lub zobowiązana zgodnie z treścią tej transakcji w stosunku do uczestnika, który na podstawie zawartej z nią umowy zobowiązał się do wykonywania zadań uczestnika będącego stroną rozliczenia zawieranych przez nią transakcji, uczestnik, o którym mowa w lit. a, staje się uprawniony lub zobowiązany zgodnie z treścią tej transakcji w stosunku do podmiotu rozliczającego – (nowacja rozliczeniowa).
     - **a)**
     - **b)**
 
@@ -127,7 +126,7 @@ source: "eli-html"
 
 13. Nowacja rozliczeniowa następująca w ramach rozliczenia transakcji, której przedmiotem jest przeniesienie instrumentów finansowych, nie stanowi sprzedaży ani pożyczki w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
-14. W przypadku ogłoszenia upadłości podmiotu rozliczającego, przepisy art. 85 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm.) stosuje się odpowiednio do transakcji rozliczanych w sposób, o którym mowa w ust. 1 i 2. ” ;
+14. W przypadku ogłoszenia upadłości podmiotu rozliczającego, przepisy art. 85 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 191, poz. 1484, z 2010 r. Nr 155, poz. 1037, Nr 230, poz. 1509 i Nr 257, poz. 1724, z 2011 r. Nr 85, poz. 458, Nr 106, poz. 622, Nr 138, poz. 810, Nr 142, poz. 828, Nr 199, poz. 1175, Nr 205, poz. 1210, Nr 232, poz. 1377 i Nr 234, poz. 1391 oraz z 2012 r. poz. 173 i 578.) stosuje się odpowiednio do transakcji rozliczanych w sposób, o którym mowa w ust. 1 i 2. ” ;
 
 - **6)** w art. 48: po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **a)**
@@ -143,9 +142,11 @@ source: "eli-html"
 - **7)** w art. 50: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Regulamin Krajowego Depozytu i jego zmiany są zatwierdzane przez Komisję. Zatwierdzenie regulaminu i jego zmian, w zakresie wskazanym w ust. 4 pkt 1, 4–5, 11, 12 i 14 oraz art. 45h ust. 4 następuje po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego. ” , w ust. 4: – pkt 4a otrzymuje brzmienie: „ 4a) sposób i tryb rozliczania transakcji, o których mowa w art. 7 ust. 5 i 5a, szczególne obowiązki uczestników zobowiązanych do wykonywania obowiązków wynikających z rozliczeń tych transakcji oraz środki dyscyplinujące, które mogą być podejmowane wobec takich uczestników; ” , – pkt 12 otrzymuje brzmienie: „ 12) sposób organizacji systemu zabezpieczenia płynności rozliczania transakcji, w szczególności określający system gwarantowania rozliczeń transakcji zawieranych na rynku regulowanym; ” ;
+2. Regulamin Krajowego Depozytu i jego zmiany są zatwierdzane przez Komisję. Zatwierdzenie regulaminu i jego zmian, w zakresie wskazanym w ust. 4 pkt 1, 4–5, 11, 12 i 14 oraz art. 45h ust. 4 następuje po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego. ” , w ust. 4: pkt 4a otrzymuje brzmienie: „
 
 - **b)**
+- **4a)** sposób i tryb rozliczania transakcji, o których mowa w art. 7 ust. 5 i 5a, szczególne obowiązki uczestników zobowiązanych do wykonywania obowiązków wynikających z rozliczeń tych transakcji oraz środki dyscyplinujące, które mogą być podejmowane wobec takich uczestników; ” , pkt 12 otrzymuje brzmienie: „
+- **12)** sposób organizacji systemu zabezpieczenia płynności rozliczania transakcji, w szczególności określający system gwarantowania rozliczeń transakcji zawieranych na rynku regulowanym; ” ;
 - **8)** w art. 59: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -179,7 +180,7 @@ source: "eli-html"
 1. Przez izbę rozliczeniową rozumie się zespół osób, urządzeń i środków technicznych utworzony w celu organizacji i prowadzenia rozliczeń transakcji zawieranych:
 
 - **1)** w obrocie zorganizowanym lub
-- **2)** poza obrotem zorganizowanym – jeżeli na podstawie przepisów prawa podlegają obowiązkowi rozliczenia przez podmiot rozliczający których przedmiotem są instrumenty finansowe.
+- **2)** poza obrotem zorganizowanym – jeżeli na podstawie przepisów prawa podlegają obowiązkowi rozliczenia przez podmiot rozliczający – których przedmiotem są instrumenty finansowe.
 
 2. Przez izbę rozrachunkową rozumie się zespół osób, urządzeń i środków technicznych utworzony w celu organizacji i prowadzenia rozrachunku transakcji, o których mowa w ust. 1. ” , ust. 4 otrzymuje brzmienie: „
 
@@ -231,5 +232,5 @@ source: "eli-html"
 
 - **2)** przez Krajowy Depozyt, spółkę której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy o obrocie instrumentami finansowymi oraz spółkę prowadzącą izbę rozliczeniową – w ramach dokonywanych przez nie rozliczeń transakcji. ” .
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 106, poz. 622, Nr 131, poz. 763 i Nr 234, poz. 1391. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 191, poz. 1484, z 2010 r. Nr 155, poz. 1037, Nr 230, poz. 1509 i Nr 257, poz. 1724, z 2011 r. Nr 85, poz. 458, Nr 106, poz. 622, Nr 138, poz. 810, Nr 142, poz. 828, Nr 199, poz. 1175, Nr 205, poz. 1210, Nr 232, poz. 1377 i Nr 234, poz. 1391 oraz z 2012 r. poz. 173 i 578.
 

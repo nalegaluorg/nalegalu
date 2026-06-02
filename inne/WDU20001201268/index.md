@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-12-22 |
 | Data wydania | 2000-12-29 |
-| Wejście w życie | 2001-03-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001201268) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 - **1)** cechy zepsucia,
 - **2)** dopuszczalną procentową ilość zanieczyszczeń i domieszek szkodliwych dla zdrowia zwierząt,
 - **3)** najmniejszą procentową ilość składników odżywczych istotnych,
-- **4)** dopuszczalny procent zawartości wody mając na uwadze zdrowie zwierząt oraz ich potrzeby żywieniowe. ” ;
+- **4)** dopuszczalny procent zawartości wody – mając na uwadze zdrowie zwierząt oraz ich potrzeby żywieniowe. ” ;
 - **2)** w art. 4 ust. 2 otrzymuje brzmienie: „
 
 2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, jakie dane, poza wymienionymi w ust. 1, powinny być umieszczone w napisie na opakowaniu środków chemicznych i roślinnych, mając na względzie zapewnienie identyfikacji pasz i utrzymanie ich wartości odżywczej oraz należyte informowanie odbiorcy o cechach produktu. ” ;

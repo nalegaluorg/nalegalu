@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-05 |
 | Data wydania | 2013-03-13 |
-| Wejście w życie | 2013-03-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000340) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/340/text.pdf) |
 
@@ -79,5 +78,5 @@ Porozumienie, o którym mowa w ust. 1, określa szczegółowe zasady współdzia
 § 8.
 Porozumienia z bibliotekami publicznymi, innymi bibliotekami włączonymi do sieci bibliotecznej lub instytucjami zawarte przed dniem wejścia w życie niniejszego rozporządzenia utraciły moc z dniem 30 czerwca 2012 r.
 § 9.
-Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 6 lutego 2003 r. w sprawie zasad organizacji obsługi bibliotecznej w jednostkach organizacyjnych Ministerstwa Obrony Narodowej oraz zasad współdziałania bibliotek publicznych w wykonywaniu tej obsługi (Dz. U. Nr 35, poz. 297), które utraciło moc z upływem dnia 30 czerwca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 6 lutego 2003 r. w sprawie zasad organizacji obsługi bibliotecznej w jednostkach organizacyjnych Ministerstwa Obrony Narodowej oraz zasad współdziałania bibliotek publicznych w wykonywaniu tej obsługi (Dz. U. Nr 35, poz. 297), które utraciło moc z upływem dnia 30 czerwca 2012 r. na podstawie art. 13 pkt 3 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230).
 

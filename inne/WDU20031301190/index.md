@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-06-12 |
 | Data wydania | 2003-07-24 |
-| Wejście w życie | 2004-01-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031301190) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1190/text.pdf) |
 
@@ -53,8 +52,12 @@ source: "eli-html"
 
 - **1)** w wyniku wykonywania czynności podejmowanych w postępowaniu w sprawach o wykroczenia,
 - **2)** z rejestrów, ewidencji i zbiorów, do których straż posiada dostęp na podstawie odrębnych przepisów. ” ;
-- **4)** w art. 12: w ust. 1: – pkt 5 i 6 otrzymują brzmienie: „ 5) dokonywania czynności wyjaśniających, kierowania wniosków o ukaranie do sądu, oskarżania przed sądem i wnoszenia środków odwoławczych – w trybie i zakresie określonych w Kodeksie postępowania w sprawach o wykroczenia, 6) usuwania pojazdów i ich unieruchamiania przez blokowanie kół w przypadkach, zakresie i trybie określonych w przepisach o ruchu drogowym, ” , – w pkt 9 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 10 w brzmieniu: „ 10) obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych. ” , ust. 2 otrzymuje brzmienie: „
+- **4)** w art. 12: w ust. 1: pkt 5 i 6 otrzymują brzmienie: „
     - **a)**
+
+- **5)** dokonywania czynności wyjaśniających, kierowania wniosków o ukaranie do sądu, oskarżania przed sądem i wnoszenia środków odwoławczych – w trybie i zakresie określonych w Kodeksie postępowania w sprawach o wykroczenia,
+- **6)** usuwania pojazdów i ich unieruchamiania przez blokowanie kół w przypadkach, zakresie i trybie określonych w przepisach o ruchu drogowym, ” , w pkt 9 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 10 w brzmieniu: „
+- **10)** obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Rada Ministrów określi, w drodze rozporządzenia, zakres i sposób wykonywania czynności, o których mowa w ust. 1 pkt 2, 3 i 8–10, uwzględniając potrzebę zapewnienia odpowiedniej skuteczności podejmowanych przez strażnika czynności, a także potrzebę ochrony dóbr osobistych oraz wolności i praw człowieka i obywatela. ” ;

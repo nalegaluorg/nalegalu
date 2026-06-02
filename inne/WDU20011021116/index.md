@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-07-27 |
 | Data wydania | 2001-09-21 |
-| Wejście w życie | 2002-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011021116) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1116/text.pdf) |
 
+Kontrola finansowa i audyt wewnętrzny w jednostkach sektora finansów publicznych
 1.
 Kontrola finansowa w jednostkach sektora finansów publicznych dotyczy procesów związanych z gromadzeniem i rozdysponowaniem środków publicznych oraz gospodarowaniem mieniem.
 2.
@@ -152,8 +152,7 @@ sposób dokumentowania wyników audytu wewnętrznego,
 3)
 sposób współpracy z pracownikami komórki, w której jest przeprowadzany audyt wewnętrzny,
 4)
-tryb sporządzania oraz elementy sprawozdania, o którym mowa w art. 35h ust. 4
-z uwzględnieniem powszechnie uznawanych standardów.
+tryb sporządzania oraz elementy sprawozdania, o którym mowa w art. 35h ust. 4 – z uwzględnieniem powszechnie uznawanych standardów.
 Audytorem wewnętrznym może być osoba, która:
 1)
 ma obywatelstwo polskie,
@@ -194,8 +193,7 @@ wzór zaświadczenia o złożeniu egzaminu z wynikiem pozytywnym,
 4)
 wysokość opłaty za udział w egzaminie,
 5)
-sposób ustalania i wysokość wynagrodzeń członków Komisji
-mając na uwadze zapewnienie sprawnego, obiektywnego i rzetelnego sprawdzenia przygotowania kandydatów oraz uwzględnienie rzeczywistych kosztów postępowania egzaminacyjnego.
+sposób ustalania i wysokość wynagrodzeń członków Komisji – mając na uwadze zapewnienie sprawnego, obiektywnego i rzetelnego sprawdzenia przygotowania kandydatów oraz uwzględnienie rzeczywistych kosztów postępowania egzaminacyjnego.
 Do egzaminu może zostać dopuszczona osoba spełniająca warunki, o których mowa w art. 35k pkt 1–4.
 1.
 Organem administracji rządowej właściwym w sprawie koordynacji kontroli finansowej i audytu wewnętrznego w jednostkach sektora finansów publicznych jest Minister Finansów.
@@ -222,8 +220,7 @@ Minister Finansów dokonuje w jednostkach, o których mowa w art. 35d ust. 1 pkt
 1)
 stosowania przepisów ustawy w zakresie kontroli finansowej i audytu wewnętrznego,
 2)
-funkcjonowania standardów, o których mowa w ust. 1 pkt 1 i 2
-zwanej dalej «oceną».
+funkcjonowania standardów, o których mowa w ust. 1 pkt 1 i 2 – zwanej dalej «oceną».
 3.
 Minister Finansów przedstawia Radzie Ministrów, co najmniej raz w roku, zbiorcze sprawozdanie z funkcjonowania kontroli finansowej i audytu wewnętrznego w jednostkach sektora finansów publicznych, o których mowa w art. 35d ust. 1 pkt 2–14, wraz z oceną przestrzegania powszechnie uznawanych standardów w tym zakresie oraz propozycjami działań zmierzających do ich usprawnienia.
 Główny Inspektor Audytu Wewnętrznego opracowuje roczny plan przeprowadzania oceny zatwierdzany przez Ministra Finansów.
@@ -251,20 +248,15 @@ uzyskania od pracowników jednostki, w której przeprowadza się ocenę, ustnych
 1.
 Po zakończeniu oceny upoważniony pracownik przedstawia na piśmie wyniki oceny kierownikowi jednostki, w której przeprowadzono ocenę, oraz, za pośrednictwem Głównego Inspektora Audytu Wewnętrznego, Ministrowi Finansów.
 2.
-Kierownik jednostki, w której przeprowadzono ocenę, może przedstawić Ministrowi Finansów, za pośrednictwem Głównego Inspektora Audytu Wewnętrznego, zastrzeżenia do wyników oceny.
-” ;
+Kierownik jednostki, w której przeprowadzono ocenę, może przedstawić Ministrowi Finansów, za pośrednictwem Głównego Inspektora Audytu Wewnętrznego, zastrzeżenia do wyników oceny. ” ;
 5)
-w art. 91 w ust. 3 pkt 4 otrzymuje brzmienie:
-„
+w art. 91 w ust. 3 pkt 4 otrzymuje brzmienie: „
 4)
-przestrzegania realizacji procedur, o których mowa w art. 35a ust. 2 pkt 1
-” ;
+przestrzegania realizacji procedur, o których mowa w art. 35a ust. 2 pkt 1 ” ;
 6)
-w art. 127 ust. 2 otrzymuje brzmienie:
-„
+w art. 127 ust. 2 otrzymuje brzmienie: „
 2.
-Zarząd jednostki samorządu terytorialnego kontroluje przestrzeganie, przez podległe i nadzorowane przez siebie jednostki sektora finansów publicznych, realizacji procedur, o których mowa w art. 35a ust. 2 pkt 1.
-”
+Zarząd jednostki samorządu terytorialnego kontroluje przestrzeganie, przez podległe i nadzorowane przez siebie jednostki sektora finansów publicznych, realizacji procedur, o których mowa w art. 35a ust. 2 pkt 1. ”
 
 **Art. 1.** W ustawie z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. Nr 155, poz. 1014, z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485, Nr 70, poz. 778i Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69, Nr 12, poz. 136, Nr 48, poz. 550, Nr 95, poz. 1041, Nr 119, poz. 1251i Nr 122, poz. 1315oraz z 2001 r. Nr 45, poz. 497, Nr 46, poz. 499, Nr 88, poz. 961, Nr 98, poz. 1070i Nr 100, poz. 1082) wprowadza się następujące zmiany:
 
@@ -321,7 +313,7 @@ Zarząd jednostki samorządu terytorialnego kontroluje przestrzeganie, przez pod
 
 - **4)** po art. 35 dodaje się rozdział 5 w brzmieniu: „
 
-#### Rozdział 5 Kontrola finansowa i audyt wewnętrzny w jednostkach sektora finansów publicznych
+#### Rozdział 5
 
 **Art. 2.** W ustawie z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. z 1999 r. Nr 82, poz. 929i z 2000 r. Nr 120, poz. 1268) w art. 39 w ust. 3 w pkt 2 po lit. k) dodaje się lit. l) w brzmieniu: „
 

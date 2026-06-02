@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 7 lutego 2019 r. w sprawie wysokości stawek zabezpieczenia roszczeń
+# Rozporządzenie Ministra Środowiskaz dnia 7 lutego 2019 r. w sprawie wysokości stawek zabezpieczenia roszczeń Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-07 |
 | Data wydania | 2019-02-11 |
-| Wejście w życie | 2019-02-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000256) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/256/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Stawka zabezpieczenia roszczeń w przypadku magazynowania odpadów należących do różnych kategorii, o których mowa w § 2 ust. 1 pkt 3–11 rozporządzenia ministra środowiska w sprawie wysokości stawek zabezpieczenia roszczeń, jeżeli suma maksymalnych mas odpadów jest mniejsza lub równa największej masie odpadów
 Treść rozporządzenia
-Na podstawie art. 48a ust. 22 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2018 r. poz. 992, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48a ust. 22 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2018 r. poz. 992, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1479, 1544, 1564 i 1592 oraz z 2019 r. poz. 60.) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa wysokość stawek zabezpieczenia roszczeń za 1 Mg magazynowanych odpadów.
@@ -121,8 +120,7 @@ W przypadku magazynowania odpadów należących do różnych kategorii, o który
 7.
 W przypadku gdy w ramach prowadzonej działalności odpady są magazynowane w odrębnych instalacjach, odrębnych obiektach budowlanych lub ich częściach lub innych odrębnych miejscach magazynowania odpadów, przyjmuje się stawkę zgodnie z ust. 4–6 odrębnie dla każdej instalacji, każdego obiektu budowlanego lub jego części lub każdego innego miejsca magazynowania odpadów.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1479, 1544, 1564 i 1592 oraz z 2019 r. poz. 60.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1479, 1544, 1564 i 1592 oraz z 2019 r. poz. 60.
 Załącznik – Stawka zabezpieczenia roszczeń w przypadku magazynowania odpadów należących do różnych kategorii, o których mowa w § 2 ust. 1 pkt 3–11 rozporządzenia ministra środowiska w sprawie wysokości stawek zabezpieczenia roszczeń, jeżeli suma maksymalnych mas odpadów jest mniejsza lub równa największej masie odpadów
 \( S = Sk1{{mk1} \over {(mk1 + mk2 + ... + mkn)}} + Sk2{{mk2} \over {(mk1 + mk2 + ... + mkn)}} + ... + Skn{{mkn} \over {(mk1 + mk2 + ... + mkn)}} \) gdzie poszczególne symbole oznaczają: S – wysokość stawki zabezpieczenia roszczeń, Sk1, Sk2,..., Skn – wysokości stawek zabezpieczenia roszczeń określone dla poszczególnych kategorii odpadów, o których mowa w § 2 ust. 1 rozporządzenia Ministra Środowiska z dnia 7 lutego 2019 r. w sprawie wysokości stawek zabezpieczenia roszczeń (Dz. U. poz. 256), mk1, mk2,..., mkn – sumy mas wszystkich odpadów należących do danej kategorii, o których mowa w § 2 ust. 1 rozporządzenia Ministra Środowiska z dnia 7 lutego 2019 r. w sprawie wysokości stawek zabezpieczenia roszczeń.
 

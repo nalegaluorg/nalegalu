@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 31 października 2019 r. zmieniające rozporządzenie w sprawie udzielania pomocy publicznej na działalność kulturalną w ramach Programu „Kultura” finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego na lata 2014–2021
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 31 października 2019 r. zmieniające rozporządzenie w sprawie udzielania pomocy publicznej na działalność kulturalną w ramach Programu „Kultura” finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego na lata 2014–2021 Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-31 |
 | Data wydania | 2019-11-08 |
-| Wejście w życie | 2019-11-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002175) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2175/text.pdf) |
 
@@ -33,11 +32,9 @@ W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 13 lipca 2018
 1)
 tytuł rozporządzenia otrzymuje brzmienie: „ w sprawie udzielania pomocy publicznej na działalność kulturalną w ramach Programu „Kultura” oraz na wzmacnianie stosunków dwustronnych między Państwami – Beneficjentami a Państwami – Darczyńcami w ramach Funduszu Współpracy Dwustronnej finansowanych z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego lub Norweskiego Mechanizmu Finansowego na lata 2014–2021 ” ;
 2)
-§ 1 otrzymuje brzmienie:
-„
+§ 1 otrzymuje brzmienie: „
 § 1.
-Rozporządzenie określa warunki i tryb udzielania przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „ministrem”, pomocy publicznej na: 1) działalność kulturalną w ramach Programu „Kultura” finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego na lata 2014–2021, zwanego dalej „Programem”; 2) wzmacnianie stosunków dwustronnych między Państwami – Beneficjentami a Państwami – Darczyńcami w ramach Funduszu Współpracy Dwustronnej finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego i Norweskiego Mechanizmu Finansowego na lata 2014–2021, zwanego dalej „FWD”.
-” ;
+Rozporządzenie określa warunki i tryb udzielania przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „ministrem”, pomocy publicznej na: 1) działalność kulturalną w ramach Programu „Kultura” finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego na lata 2014–2021, zwanego dalej „Programem”; 2) wzmacnianie stosunków dwustronnych między Państwami – Beneficjentami a Państwami – Darczyńcami w ramach Funduszu Współpracy Dwustronnej finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego i Norweskiego Mechanizmu Finansowego na lata 2014–2021, zwanego dalej „FWD”. ” ;
 3)
 w § 2 po wyrazach „realizowane w ramach Programu” dodaje się wyrazy „lub FWD”;
 4)
@@ -45,6 +42,5 @@ w § 3 po wyrazach „podmiotom określonym w Programie” dodaje się wyrazy �
 5)
 w § 6 po wyrazach „w zakresie określonym w Programie” dodaje się wyrazy „lub w FWD”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 

@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-16 |
 | Data wydania | 2013-12-30 |
-| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2026-04-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001656) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1656/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Określenie innego miejsca świadczenia Rozdział 3 – Przypadki, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunki i tryb dokonywania tego zwrotu Rozdział 4 – Przypadki, w których kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług finansowanego ze środków bezzwrotnej pomocy zagranicznej, oraz warunki i tryb dokonywania tego zwrotu Rozdział 5 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 28o i art. 92 ust. 1 pkt 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 28o i art. 92 ust. 1 pkt 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530 oraz z 2013 r. poz. 35, 1027 i 1608.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -43,18 +43,19 @@ podmiotach – rozumie się przez to osoby prawne, jednostki organizacyjne niema
 podatniku – rozumie się przez to podatnika podatku od towarów i usług;
 3)
 rachunku bankowym – rozumie się przez to rachunek bankowy podatnika w banku mającym siedzibę na terytorium kraju lub rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem, wskazane w zgłoszeniu identyfikacyjnym, o którym mowa w odrębnych przepisach.
+Określenie innego miejsca świadczenia
 § 3.
 1.
 W przypadku świadczenia, środkami transportu morskiego lub lotniczego, usług międzynarodowego transportu:
 1)
 osób lub
 2)
-towarów na rzecz podmiotów niebędących podatnikami w rozumieniu art. 28a ustawy
-miejscem świadczenia tych usług jest terytorium kraju.
+towarów na rzecz podmiotów niebędących podatnikami w rozumieniu art. 28a ustawy – miejscem świadczenia tych usług jest terytorium kraju.
 2.
 Przepis ust. 1 nie narusza przepisów obowiązujących w innych państwach członkowskich Unii Europejskiej.
 § 4.
 W przypadku gdy nabywane usługi, o których mowa w art. 119 ust. 8 ustawy, są usługami transportu międzynarodowego świadczonymi środkami transportu morskiego lub lotniczego, usługi te dla opodatkowania stawką podatku od towarów i usług, zwanego dalej „podatkiem”, w wysokości 0% usług turystyki uznaje się za usługi świadczone poza terytorium Unii Europejskiej.
+Przypadki, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunki i tryb dokonywania tego zwrotu
 § 5.
 1.
 Zwrot podatku zapłaconego od importu towarów przysługuje podatnikom, którzy dokonali wywozu towarów poza terytorium Unii Europejskiej w związku z ich reklamacją.
@@ -128,6 +129,7 @@ W razie powstania uzasadnionych wątpliwości dotyczących sporządzonego wniosk
 W przypadku określonym w ust. 6 zwrot podatku następuje w terminie, o którym mowa w ust. 5, a w przypadku przekroczenia tego terminu – nie później niż 30 dni od dnia otrzymania wyjaśnień instytucji lub organów Unii Europejskiej, o których mowa w § 6 ust. 1, usuwających wątpliwości dotyczące sporządzonego wniosku, według kwot faktycznie uznanych.
 8.
 Zwrot podatku nie przysługuje, jeżeli towar został zwrócony sprzedawcy, a instytucja lub organ Unii Europejskiej, o których mowa w § 6 ust. 1, otrzymały od sprzedawcy zwrot zapłaconej ceny.
+Przypadki, w których kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług finansowanego ze środków bezzwrotnej pomocy zagranicznej, oraz warunki i tryb dokonywania tego zwrotu
 § 8.
 1.
 Podatnikom, którzy dokonują nabycia towarów i usług lub importu towarów za środki finansowe przekazane im bezpośrednio na odrębny rachunek bankowy, na którym są ulokowane wyłącznie środki bezzwrotnej pomocy zagranicznej, przysługuje zwrot podatku naliczonego, pod warunkiem że do tych czynności nie miała zastosowania stawka 0%.
@@ -144,8 +146,7 @@ Za środki bezzwrotnej pomocy zagranicznej, o których mowa w ust. 1 i 2, uważa
 1)
 umów zawartych z Rządem Rzeczypospolitej Polskiej,
 2)
-jednostronnych deklaracji rządów i organizacji międzynarodowych udzielających pomocy
-z wyłączeniem środków pochodzących z budżetu Unii Europejskiej oraz przypadków, kiedy umowa nie wyłącza możliwości opłacania podatku ze środków finansowych bezzwrotnej pomocy zagranicznej.
+jednostronnych deklaracji rządów i organizacji międzynarodowych udzielających pomocy – z wyłączeniem środków pochodzących z budżetu Unii Europejskiej oraz przypadków, kiedy umowa nie wyłącza możliwości opłacania podatku ze środków finansowych bezzwrotnej pomocy zagranicznej.
 § 9.
 1.
 Zwrot podatku nie dotyczy kwot podatku naliczonego:
@@ -206,21 +207,32 @@ wniosek powinien zawierać również wyliczenie kwot wnioskowanego zwrotu podatk
 do wniosku powinno być również dołączone zaświadczenie o zarejestrowaniu przez Ministerstwo Spraw Zagranicznych umowy przewidującej finansowanie w części zakupów ze środków bezzwrotnej pomocy zagranicznej, o których mowa w § 8 ust. 3 i 4, wraz z określeniem udziału tego finansowania wynikającego z podpisanej umowy.
 5.
 Podatnik dołącza wniosek, o którym mowa w ust. 1, do deklaracji podatkowej dla podatku.
+Przepisy przejściowe i końcowe
 § 13.
 1.
 Warunek posiadania zaświadczenia, o którym mowa w § 10 ust. 1 pkt 5, uznaje się również za spełniony w odniesieniu do odpowiedniego zaświadczenia wydanego do dnia 31 grudnia 2009 r. przez Urząd Komitetu Integracji Europejskiej.
 2.
 Warunek dołączenia do wniosku zaświadczenia, o którym mowa w § 12 ust. 4 pkt 2, uznaje się również za spełniony w odniesieniu do odpowiedniego zaświadczenia wydanego do dnia 31 grudnia 2009 r. przez Urząd Komitetu Integracji Europejskiej.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 kwietnia 2011 r. w sprawie wykonania niektórych przepisów ustawy o podatku od towarów i usług (Dz. U. z 2013 r. poz. 247 i 362), które w zakresie dotyczącym określenia innego miejsca świadczenia oraz określenia przypadków, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunków i trybu dokonywania tego zwrotu traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 13 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. z 2013 r. poz. 35, 1027 i 1608). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530 oraz z 2013 r. poz. 35, 1027 i 1608. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 4 kwietnia 2011 r. w sprawie wykonania niektórych przepisów ustawy o podatku od towarów i usług (Dz. U. z 2013 r. poz. 247 i 362), które w zakresie dotyczącym określenia innego miejsca świadczenia oraz określenia przypadków, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunków i trybu dokonywania tego zwrotu traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 13 ustawy z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. z 2013 r. poz. 35, 1027 i 1608).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Określenie innego miejsca świadczenia
+#### Rozdział 2 – Określenie innego miejsca świadczenia
 
-#### Rozdział 3 Przypadki, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunki i tryb dokonywania tego zwrotu
+#### Rozdział 3 – Przypadki, gdy kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług, oraz warunki i tryb dokonywania tego zwrotu
 
-#### Rozdział 4 Przypadki, w których kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług finansowanego ze środków bezzwrotnej pomocy zagranicznej, oraz warunki i tryb dokonywania tego zwrotu
+#### Rozdział 4 – Przypadki, w których kwota podatku naliczonego może być zwrócona jednostce dokonującej nabycia (importu) towarów lub usług finansowanego ze środków bezzwrotnej pomocy zagranicznej, oraz warunki i tryb dokonywania tego zwrotu
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

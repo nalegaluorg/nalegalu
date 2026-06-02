@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-08-29 |
 | Data wydania | 2014-09-30 |
-| Wejście w życie | 2014-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001306) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1306/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2012 r. poz. 1112, z późn. zm.) wprowadza się następujące zmiany:
+Postępowanie upadłościowe wobec osób fizycznych nieprowadzących działalności gospodarczej
+
+**Art. 1.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2012 r. poz. 1112, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1529 oraz z 2013 r. poz. 355 i 613.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 1 otrzymuje brzmienie: „
 
@@ -45,7 +46,7 @@ source: "eli-html"
 - **5)** osób fizycznych prowadzących gospodarstwo rolne, które nie prowadzą innej działalności gospodarczej lub zawodowej; ” ;
 - **4)** w części trzeciej tytuł V otrzymuje brzmienie: „
 
-## Tytuł V Postępowanie upadłościowe wobec osób fizycznych nieprowadzących działalności gospodarczej
+## Tytuł V
 
 **Art. 4911.** Przepisy niniejszego tytułu stosuje się wobec osób fizycznych, których upadłości nie można ogłosić zgodnie z przepisami działu II tytułu I części pierwszej.
 
@@ -79,7 +80,7 @@ source: "eli-html"
 - **1)** w stosunku do dłużnika prowadzono postępowanie upadłościowe według przepisów tytułu niniejszego, jeżeli postępowanie to zostało umorzone z innych przyczyn niż na wniosek dłużnika,
 - **2)** ustalony dla dłużnika plan spłaty wierzycieli uchylono na podstawie przepisu art. 49120,
 - **3)** dłużnik, mając taki obowiązek, wbrew przepisom ustawy nie zgłosił w terminie wniosku o ogłoszenie upadłości,
-- **4)** czynność prawna dłużnika została prawomocnie uznana za dokonaną z pokrzywdzeniem wierzycieli chyba że przeprowadzenie postępowania jest uzasadnione względami słuszności lub względami humanitarnymi.
+- **4)** czynność prawna dłużnika została prawomocnie uznana za dokonaną z pokrzywdzeniem wierzycieli – chyba że przeprowadzenie postępowania jest uzasadnione względami słuszności lub względami humanitarnymi.
 
 3. Sąd oddala wniosek o ogłoszenie upadłości, jeżeli w okresie dziesięciu lat przed dniem zgłoszenia wniosku w stosunku do dłużnika prowadzono postępowanie upadłościowe, w którym umorzono całość lub część jego zobowiązań, chyba że do niewypłacalności dłużnika lub zwiększenia jej stopnia doszło pomimo dochowania przez dłużnika należytej staranności lub przeprowadzenie postępowania jest uzasadnione względami słuszności lub względami humanitarnymi.
 
@@ -266,5 +267,5 @@ source: "eli-html"
 
 **Art. 5.** Wniosek o ogłoszenie upadłości osoby fizycznej nieprowadzącej działalności gospodarczej nie podlega oddaleniu na podstawie art. 4914 ust. 2 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jeżeli postępowanie upadłościowe umorzono na podstawie art. 361 ustawy zmienianej w art. 1.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1529 oraz z 2013 r. poz. 355 i 613.
 

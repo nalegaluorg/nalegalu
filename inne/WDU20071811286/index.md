@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 sierpnia 2007 r. o zmianie i uchyleniu niektórych upoważnień do wydawania aktów wykonawczych z zakresu ochrony środowiska i gospodarki wodnej
+# Ustawa z dnia 24 sierpnia 2007 r. o zmianie i uchyleniu niektórych upoważnień do wydawania aktów wykonawczych z zakresu ochrony środowiska i gospodarki wodnej Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 18 lipca 2001 r. – Prawo wodne oraz ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-08-24 |
 | Data wydania | 2007-10-01 |
-| Wejście w życie | 2007-10-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071811286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1286/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.) w art. 38d uchyla się ust. 2.
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775 oraz z 2007 r. Nr 59, poz. 405 i Nr 64, poz. 427.) w art. 38d uchyla się ust. 2.
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2006 r. Nr 129, poz. 902, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2006 r. Nr 129, poz. 902, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 169, poz. 1199, Nr 170, poz. 1217 i Nr 249, poz. 1832 oraz z 2007 r. Nr 21, poz. 124, Nr 75, poz. 493, Nr 88, poz. 587, Nr 124, poz. 859, Nr 147, poz. 1033 i Nr 176, poz. 1238.) wprowadza się następujące zmiany:
 
 - **1)** w art. 24a w ust. 3 uchyla się pkt 2;
 - **2)** w art. 286a: ust. 5 otrzymuje brzmienie: „
@@ -39,7 +38,7 @@ source: "eli-html"
 - **b)**
 - **4)** wymagane techniki i termin przekazywania raportu. ” .
 
-**Art. 3.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033 i Nr 176, poz. 1238.) wprowadza się następujące zmiany:
 
 - **1)** w art. 38a: ust. 2 i 3 otrzymują brzmienie: „
     - **a)**
@@ -112,12 +111,12 @@ source: "eli-html"
     - **d)**
     - **e)**
 
-**Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. Nr 92, poz. 880, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. Nr 92, poz. 880, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087 oraz z 2007 r. Nr 75, poz. 493 i Nr 176, poz. 1238.) wprowadza się następujące zmiany:
 
 - **1)** w art. 62 uchyla się ust. 3;
 - **2)** w art. 80 uchyla się ust. 1.
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 286a ust. 5 ustawy zmienianej w art. 2 oraz art. 121 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 286a ust. 5 ustawy zmienianej w art. 2 oraz art. 121 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 18 lipca 2001 r. – Prawo wodne oraz ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775 oraz z 2007 r. Nr 59, poz. 405 i Nr 64, poz. 427. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 169, poz. 1199, Nr 170, poz. 1217 i Nr 249, poz. 1832 oraz z 2007 r. Nr 21, poz. 124, Nr 75, poz. 493, Nr 88, poz. 587, Nr 124, poz. 859, Nr 147, poz. 1033 i Nr 176, poz. 1238. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033 i Nr 176, poz. 1238. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087 oraz z 2007 r. Nr 75, poz. 493 i Nr 176, poz. 1238.
 

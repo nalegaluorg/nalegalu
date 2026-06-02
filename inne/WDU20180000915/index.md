@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-22 |
 | Data wydania | 2018-05-16 |
-| Wejście w życie | 2018-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000915) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/915/text.pdf) |
 
@@ -53,7 +52,7 @@ source: "eli-html"
 - **1)** w 2019 r. co najmniej 15% kwartalnego czasu nadawania programu,
 - **2)** w 2020 r. i 2021 r. co najmniej 25% kwartalnego czasu nadawania programu,
 - **3)** w 2022 r. i 2023 r. co najmniej 35% kwartalnego czasu nadawania programu,
-- **4)** od 2024 r. co najmniej 50% kwartalnego czasu nadawania programu z wyłączeniem reklam i telesprzedaży, posiadało takie udogodnienia.
+- **4)** od 2024 r. co najmniej 50% kwartalnego czasu nadawania programu – z wyłączeniem reklam i telesprzedaży, posiadało takie udogodnienia.
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 18a ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 18a ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 marca 2019 r.
 

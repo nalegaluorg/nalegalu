@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Kultury, Dziedzictwa Narodowego i Sportuz dnia 22 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii
+# Obwieszczenie Ministra Kultury, Dziedzictwa Narodowego i Sportuz dnia 22 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. z 2021 r. poz. 970).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1443/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity rozporządzenia Ministra Kultury z dnia 27 października 2005 r. w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii Rozdział 1 – Przepisy ogólne Rozdział 2 – Udzielanie dofinansowania przedsięwzięć w formie dotacji Rozdział 3 – Udzielanie dofinansowania przedsięwzięć w formie pożyczki Rozdział 4 – Udzielanie dofinansowania przedsięwzięć w formie poręczenia Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Tekst jednolity rozporządzenia Ministra Kultury z dnia 27 października 2005 r. w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Kultury z dnia 27 października 2005 r. w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 1870), z uwzględnieniem zmian wprowadzonych:
@@ -45,46 +45,34 @@ rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 24 kwietnia 20
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 21 marca 2006 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 366), który stanowi:
-„
+§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 21 marca 2006 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 366), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 5 maja 2006 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 545), który stanowi:
-„
+§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 5 maja 2006 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 545), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 11 stycznia 2007 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 73), który stanowi:
-„
+§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 11 stycznia 2007 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 73), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. ” ;
 4)
-§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 9 lutego 2010 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 239), który stanowi:
-„
+§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 9 lutego 2010 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 239), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 5)
-§ 2 i § 3 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 14 czerwca 2011 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 752), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 14 czerwca 2011 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 752), które stanowią: „
 § 2.
 Do wniosków o dofinansowanie przedsięwzięcia z zakresu produkcji filmów, złożonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu dotychczasowym.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 6)
-§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 24 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 756), który stanowi:
-„
+§ 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 24 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 756), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. z 2021 r. poz. 970).
-Załącznik – Tekst jednolity rozporządzenia Ministra Kultury z dnia 27 października 2005 r. w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. z 2021 r. poz. 970).
+Załącznik – Tekst jednolity rozporządzenia Ministra Kultury z dnia 27 października 2005 r. w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografiiObecnie działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury, Dziedzictwa Narodowego i Sportu, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. z 2021 r. poz. 970).
 Na podstawie art. 23 ust. 6 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2021 r. poz. 257) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -176,7 +164,7 @@ Podstawę udzielenia dofinansowania stanowi umowa, której stronami są Instytut
 § 7.
 1.
 Dofinansowanie przedsięwzięcia, o którym mowa w § 1 pkt 1 lit. b, nie może przekroczyć 50% budżetu filmu oraz kwoty:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 9 lutego 2010 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 239), które weszło w życie z dniem 1 kwietnia 2010 r.)
 w przypadku filmu fabularnego pełnometrażowego (powyżej 70 min), przeznaczonego w pierwszej kolejności do publicznego wyświetlania w kinach – 4 000 000 zł, a w przypadku filmu historycznego – 6 000 000 zł;
 2)
 w przypadku filmu dokumentalnego – 500 000 zł;
@@ -196,21 +184,21 @@ Dofinansowanie przedsięwzięcia, o którym mowa w ust. 1, dotyczącego filmu tr
 W szczególnie uzasadnionych przypadkach, po zasięgnięciu dodatkowych opinii ekspertów, Dyrektor może przyznać dofinansowanie wyższe od kwot, o których mowa w ust. 1 i 2, jednak nie więcej niż o 50% tych kwot i z zastrzeżeniem określonych w tych przepisach procentowych limitów dofinansowania.
 4.
 W przypadku koprodukcji międzynarodowych Dyrektor, po zasięgnięciu dodatkowych opinii ekspertów, może zatwierdzić dofinansowanie wyższe od określonego w ust. 3, jednak nie więcej niż o 35% i z zastrzeżeniem określonych w ust. 1 i 2 procentowych limitów dofinansowania.
-§ 8.
+§ 8W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 5 maja 2006 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 545), które weszło w życie z dniem 9 maja 2006 r..
 1.
 Dofinansowanie przedsięwzięcia, o którym mowa w § 1 pkt 1 lit. a i c-e, nie może przekroczyć 50% budżetu przedsięwzięcia, z zastrzeżeniem ust. 2 i 3.
 2.
 W przypadku filmów trudnych i niskobudżetowych dofinansowanie przedsięwzięcia, o którym mowa w § 1 pkt 1 lit. a i c, nie może przekroczyć 90% budżetu przedsięwzięcia.
 3.
 W przypadku gdy przedsięwzięcia, o których mowa w § 1 pkt 1 lit. d i e, mają lokalny lub regionalny charakter, ograniczony krąg odbiorców lub ze względu na niską wartość komercyjną nie mogłyby się odbyć bez dofinansowania przez Instytut, pod warunkiem zachowania zasady konieczności i proporcjonalności pomocy publicznej, dofinansowanie nie może przekroczyć 90% budżetu przedsięwzięcia.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Maksymalne dofinansowanie przedsięwzięcia, o którym mowa w ust. 1, nie może przekroczyć kwoty 20 000 000 zł, a w szczególnie uzasadnionych przypadkach, po zasięgnięciu przez Dyrektora dodatkowych opinii ekspertów, kwoty 30 000 000 zł.
-§ 9.
+§ 9W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3..
 Limity dofinansowania przedsięwzięć, określone procentowo w § 7 ust. 1 i 2 oraz w § 8 ust. 1–3, stosuje się odpowiednio do udziału w budżecie tych przedsięwzięć dotacji pochodzących z jakichkolwiek źródeł publicznych, z wyłączeniem środków pochodzących z programów wspólnotowych, które na podstawie odrębnych przepisów lub decyzji właściwych władz Unii Europejskiej mogą być kumulowane ze środkami publicznymi.
 § 10.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 11 stycznia 2007 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 73), które weszło w życie z dniem 24 stycznia 2007 r..
 Podmiot otrzymujący dofinansowanie przedsięwzięcia może korzystać z uzyskanych środków w dowolnym państwie.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3..
 Podmiot otrzymujący dofinansowanie przedsięwzięcia, o którym mowa w § 1 pkt 1 lit. b, może zostać zobowiązany do wydatkowania maksymalnie do 80% uzyskanych z Instytutu środków na terytorium Rzeczypospolitej Polskiej. Zobowiązanie to nie może dotyczyć kosztów przygotowania projektów filmowych, dystrybucji i rozpowszechniania, jeśli są wliczone w koszty produkcji filmu.
 § 11.
 1.
@@ -233,7 +221,7 @@ uzasadnienie przedsięwzięcia pod kątem kryteriów, o których mowa w art. 22 
 oświadczenie o spełnianiu określonych w ustawie oraz rozporządzeniu warunków dla otrzymania dofinansowania;
 9)
 w przypadku przedsięwzięcia z zakresu produkcji filmu – plan dystrybucji i rozpowszechniania filmu;
-10)
+10W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6.)
 w przypadku przedsięwzięć, o których mowa w § 1 pkt 1 lit. a i b – umowy, na podstawie których nastąpi finansowanie przedsięwzięcia przez podmioty inne niż Instytut; w przypadku wnioskowania o promesę wnioskodawca może przedstawić odpowiednie listy intencyjne;
 11)
 inne informacje i dokumenty niezbędne dla rozpatrzenia wniosku, w tym określone w programach operacyjnych, o których mowa w statucie Instytutu.
@@ -246,7 +234,7 @@ Wnioski niespełniające wymagań formalnych nie są rozpatrywane.
 Każdy wniosek o udzielenie dofinansowania przedsięwzięcia jest opiniowany przez ekspertów.
 2.
 Eksperci mogą być powoływani osobno dla filmów fabularnych, animowanych lub dokumentalnych, jak również dla poszczególnych rodzajów przedsięwzięć, o których mowa w § 1 pkt 1.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Ekspertów do oceny konkretnego przedsięwzięcia wyznacza dyrektor Polskiego Instytutu Sztuki Filmowej lub wyznaczani są w drodze losowania.
 4.
 Liczbę ekspertów oceniających konkretne przedsięwzięcie określa każdorazowo Dyrektor, biorąc pod uwagę charakter i złożoność przedsięwzięcia, a także wysokość żądanego dofinansowania.
@@ -257,12 +245,13 @@ Instytut udziela dofinansowania, biorąc pod uwagę posiadane środki oraz spodz
 § 14.
 1.
 W przypadku wniosku o dofinansowanie przedsięwzięcia, o którym mowa w § 1 pkt 1 lit. b, Dyrektor, po zasięgnięciu opinii ekspertów, może, ze względu na specyfikę przedsięwzięcia, wydać przyrzeczenie udzielenia dofinansowania (promesę), ważne przez okres 6 miesięcy.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 24 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 756), które weszło w życie z dniem 28 kwietnia 2020 r..
 Okres ważności promesy, o której mowa w ust. 1, może zostać przedłużony. Łączny okres obowiązywania promesy nie może być dłuższy niż 3 lata.
 3.
 Po spełnieniu przez wnioskodawcę warunków promesy Dyrektor zawiera z nim umowę o dofinansowanie.
 § 15.
 W przypadku odmowy udzielenia dofinansowania Dyrektor może, jeżeli zaistnieją nowe okoliczności istotne dla oceny wniosku, skierować wniosek do ponownego zaopiniowania przez ekspertów. Decyzja w przedmiocie dofinansowania wydana po uzyskaniu tych opinii jest ostateczna.
+Udzielanie dofinansowania przedsięwzięć w formie dotacji
 § 16.
 1.
 Umowa o udzielenie dotacji określa:
@@ -283,7 +272,7 @@ Umowa, o której mowa w ust. 1, może zawierać dodatkowe elementy, które w opi
 § 17.
 1.
 Podmiot, który otrzymał dotację, jest zobowiązany do zwrotu dotacji z zysku osiągniętego z przedsięwzięcia, proporcjonalnie do uzyskanej dotacji.
-2.
+2W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 14 czerwca 2011 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 752), które weszło w życie z dniem 7 lipca 2011 r..
 W umowie o dofinansowanie przedsięwzięcia, o którym mowa w § 1 pkt 1 lit. b, określa się okres, za jaki zysk jest rozliczany, nie dłuższy jednak niż 72 miesiące od końca roku rozliczeniowego, w którym miała miejsce premiera filmu lub, w przypadku filmu innego niż fabularny, od zakończenia produkcji.
 3.
 Podmiot, który zwrócił dotację z zysku osiągniętego z przedsięwzięcia, o którym mowa w ust. 2, w przypadku złożenia wniosku o dofinansowanie kolejnego przedsięwzięcia, zaopiniowanego przez ekspertów, otrzymuje dofinansowanie w pierwszej kolejności.
@@ -297,6 +286,7 @@ opinie ekspertów;
 umowę o dofinansowanie przedsięwzięcia;
 4)
 dokumentację dotyczącą rozliczenia dotacji.
+Udzielanie dofinansowania przedsięwzięć w formie pożyczki
 § 19.
 Pożyczka udzielana jest na okres nieprzekraczający 5 lat i jest nieoprocentowana.
 § 20.
@@ -322,6 +312,7 @@ sposób zabezpieczenia pożyczki.
 Umowa, o której mowa w ust. 1, może zawierać dodatkowe elementy, które w opinii Dyrektora mogą okazać się przydatne dla zwiększenia efektywności udzielonego dofinansowania, jego rzetelnego wykorzystania oraz rozliczenia.
 § 21.
 Z zastrzeżeniem przepisów ustawy określających maksymalną wysokość dofinansowania, w szczególnie uzasadnionych przypadkach Dyrektor może podjąć decyzję o całkowitym lub częściowym umorzeniu pożyczki.
+Udzielanie dofinansowania przedsięwzięć w formie poręczenia
 § 22.
 Wniosek o udzielenie dofinansowania przedsięwzięcia w formie poręczenia powinien wskazywać podmiot, z którym Instytut ma zawrzeć umowę poręczenia, w szczególności jego imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby, a także szczegółowe informacje o działalności tego podmiotu.
 § 23.
@@ -341,7 +332,8 @@ warunki rozwiązania umowy;
 zabezpieczenie poręczenia.
 2.
 Umowa, o której mowa w ust. 1, może zawierać dodatkowe elementy, które w opinii Dyrektora mogą okazać się przydatne dla zwiększenia efektywności udzielonego dofinansowania, jego rzetelnego wykorzystania oraz rozliczenia.
-§ 24.
+Przepisy przejściowe i końcowe
+§ 24W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 21 marca 2006 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 366), które weszło w życie z dniem 28 marca 2006 r..
 Do niezakończonych postępowań o udzielenie dofinansowania przedsięwzięć z zakresu kinematografii, wszczętych do dnia 18 sierpnia 2005 r. przez Agencję Scenariuszową, Agencję Promocji – „Film Polski” oraz Agencję Produkcji Filmowej, stosuje się przepisy dotychczasowe, z tym że podejmowanie decyzji w przedmiocie udzielenia dofinansowania oraz zawieranie umów o dofinansowanie należy do kompetencji Dyrektora.
 § 25.
 1.
@@ -351,16 +343,25 @@ Dyrektor może uzależnić zawarcie umów, o których mowa w ust. 1, od spełnie
 3.
 Dofinansowywanie przez Instytut przedsięwzięć z zakresu kinematografii na podstawie umów, o których mowa w ust. 1, nie może przekroczyć określonych w rozporządzeniu procentowych i kwotowych limitów dofinansowania, w tym limitu wynikającego z udziału w budżecie przedsięwzięcia dotacji pochodzących z jakichkolwiek środków publicznych.
 § 26.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Obecnie działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury, Dziedzictwa Narodowego i Sportu, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. z 2021 r. poz. 970). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 9 lutego 2010 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 239), które weszło w życie z dniem 1 kwietnia 2010 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 5 maja 2006 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 545), które weszło w życie z dniem 9 maja 2006 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 11 stycznia 2007 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 73), które weszło w życie z dniem 24 stycznia 2007 r. 7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 24 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 756), które weszło w życie z dniem 28 kwietnia 2020 r. 11) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 14 czerwca 2011 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 752), które weszło w życie z dniem 7 lipca 2011 r. 12) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 21 marca 2006 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 366), które weszło w życie z dniem 28 marca 2006 r. 13) Rozporządzenie zostało ogłoszone w dniu 31 października 2005 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 31 października 2005 r.. 1) Obecnie działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury, Dziedzictwa Narodowego i Sportu, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. z 2021 r. poz. 970). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 9 lutego 2010 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 239), które weszło w życie z dniem 1 kwietnia 2010 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 5 maja 2006 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 545), które weszło w życie z dniem 9 maja 2006 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 6) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 11 stycznia 2007 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 73), które weszło w życie z dniem 24 stycznia 2007 r. 7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 24 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 756), które weszło w życie z dniem 28 kwietnia 2020 r. 11) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 14 czerwca 2011 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 752), które weszło w życie z dniem 7 lipca 2011 r. 12) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 21 marca 2006 r. zmieniającego rozporządzenie w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii (Dz. U. poz. 366), które weszło w życie z dniem 28 marca 2006 r. 13) Rozporządzenie zostało ogłoszone w dniu 31 października 2005 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Udzielanie dofinansowania przedsięwzięć w formie dotacji
+#### Rozdział 2 – Udzielanie dofinansowania przedsięwzięć w formie dotacji
 
-#### Rozdział 3 Udzielanie dofinansowania przedsięwzięć w formie pożyczki
+#### Rozdział 3 – Udzielanie dofinansowania przedsięwzięć w formie pożyczki
 
-#### Rozdział 4 Udzielanie dofinansowania przedsięwzięć w formie poręczenia
+#### Rozdział 4 – Udzielanie dofinansowania przedsięwzięć w formie poręczenia
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

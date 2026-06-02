@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-15 |
 | Data wydania | 2020-05-19 |
-| Wejście w życie | 2020-05-20 |
 | Ostatnia zmiana | 2024-10-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000889) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/889/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 75 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2019 r. poz. 540, 730, 1495, 1655 i 2020) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 17 grudnia 2013 r. w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. z 2018 r. poz. 2127) w § 5 ust. 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 17 grudnia 2013 r. w sprawie organizacji i przebiegu aplikacji notarialnej (Dz. U. z 2018 r. poz. 2127) w § 5 ust. 2 otrzymuje brzmienie: „
 2.
-Zajęcia seminaryjne prowadzone są na obszarze właściwej izby notarialnej, w szczególności w formie konwersatoriów, seminariów i ćwiczeń, przy czym konwersatoria i seminaria mogą być prowadzone przy użyciu urządzeń technicznych umożliwiających obustronną komunikację na odległość między prowadzącym a uczestnikami. W sytuacjach szczególnych, uniemożliwiających prowadzenie ćwiczeń w innej formie, mogą być one także prowadzone przy użyciu urządzeń technicznych umożliwiających obustronną komunikację na odległość między prowadzącym a uczestnikami.
-” .
+Zajęcia seminaryjne prowadzone są na obszarze właściwej izby notarialnej, w szczególności w formie konwersatoriów, seminariów i ćwiczeń, przy czym konwersatoria i seminaria mogą być prowadzone przy użyciu urządzeń technicznych umożliwiających obustronną komunikację na odległość między prowadzącym a uczestnikami. W sytuacjach szczególnych, uniemożliwiających prowadzenie ćwiczeń w innej formie, mogą być one także prowadzone przy użyciu urządzeń technicznych umożliwiających obustronną komunikację na odległość między prowadzącym a uczestnikami. ” .
 § 2.
 1.
 W 2020 r., w przypadku uzasadnionego braku możliwości prowadzenia zajęć seminaryjnych i praktyki w sądzie zgodnie z określonym harmonogramem zajęć seminaryjnych dla każdego roku szkoleniowego oraz harmonogramem praktyki w sądzie dla drugiego roku aplikacji, rada właściwej izby notarialnej może dokonać zmian w określonych harmonogramach, w szczególności co do terminów zajęć seminaryjnych i praktyki w sądzie, formy zajęć oraz wykładowców. W razie konieczności prezes rady właściwej izby notarialnej i prezes właściwego sądu apelacyjnego dokonują zmian w porozumieniu zawartym na podstawie § 6 ust. 4 rozporządzenia zmienianego w § 1, w szczególności co do terminów praktyki w sądzie, którą aplikant notarialny może odbyć również w czasie trwania trzeciego roku aplikacji. Zmiany w harmonogramach rada właściwej izby notarialnej ogłasza na swojej stronie internetowej i przesyła do wiadomości Krajowej Radzie Notarialnej oraz Ministrowi Sprawiedliwości w terminie 14 dni od dnia dokonania zmiany.

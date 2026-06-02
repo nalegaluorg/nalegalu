@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 2 stycznia 2019 r. w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację komorniczą oraz wykazu tytułów aktów prawnych (Dz. U. poz. 28), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 19 grudnia 2022 r. zmieniającym rozporządzenie w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację komorniczą oraz wykazu tytułów aktów prawnych (Dz. U. poz. 2744).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 19 grudnia 2022 r. zmieniającego rozporządzenie w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację komorniczą oraz wykazu tytułów aktów prawnych (Dz. U. poz. 2744), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 19 grudnia 2022 r. zmieniającego rozporządzenie w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację komorniczą oraz wykazu tytułów aktów prawnych (Dz. U. poz. 2744), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 2 stycznia 2019 r. w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację komorniczą oraz wykazu tytułów aktów prawnych
 Na podstawie art. 77 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 1691 i 1860) zarządza się, co następuje:
 § 1.
@@ -68,7 +66,7 @@ dokonywanie podziału pracy między członków zespołu z uwzględnieniem ich wi
 3.
 Na posiedzeniach zespołu nie można:
 1)
-(uchylony);
+(uchylony);Przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 19 grudnia 2022 r. zmieniającego rozporządzenie w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację komorniczą oraz wykazu tytułów aktów prawnych (Dz. U. poz. 2744), które weszło w życie z dniem 7 stycznia 2023 r.
 2)
 sporządzać notatek, z wyjątkiem notatek sporządzanych przez autorów pytań, dotyczących wyłącznie zgłoszonych przez nich propozycji pytań.
 4.
@@ -77,7 +75,7 @@ Przewodniczący zespołu ma dostęp do treści przygotowywanych pytań testowych
 Przewodniczący zespołu może zarządzić utrwalenie przebiegu posiedzenia zespołu za pomocą urządzenia rejestrującego dźwięk, o czym uprzedza osoby uczestniczące w posiedzeniu przed uruchomieniem urządzenia. Zapis dźwięku jest przechowywany w sposób zapewniający jego zabezpieczenie przed nieuprawnionym ujawnieniem.
 6.
 Z posiedzenia zespołu sporządza się protokół, który podpisuje przewodniczący zespołu i zastępca przewodniczącego zespołu lub członek zespołu. Protokół może sporządzać osoba wyznaczona przez Ministra Sprawiedliwości do obsługi administracyjno-biurowej zespołu.
-§ 3.
+§ 3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 W ramach obsługi administracyjno-biurowej zespołu Minister Sprawiedliwości zapewnia odpowiednie środki techniczne, w szczególności sprzęt komputerowy służący do przygotowania pytań niebędący urządzeniem służącym do przekazu i odbioru informacji oraz sprzęt komputerowy zawierający system informacji prawnej.
 § 4.
 Przewodniczący zespołu, zastępca przewodniczącego, członkowie zespołu oraz osoby wyznaczone przez Ministra Sprawiedliwości do obsługi administracyjno-biurowej zespołu składają zobowiązania i oświadczenia, o których mowa w art. 74 ust. 1 ustawy, najpóźniej w dniu pierwszego posiedzenia zespołu, przed jego rozpoczęciem.
@@ -146,5 +144,5 @@ rozporządzenie Ministra Sprawiedliwości z dnia 12 grudnia 2013 r. w sprawie ze
 2)
 rozporządzenie Ministra Sprawiedliwości z dnia 17 grudnia 2014 r. w sprawie wynagrodzenia przewodniczącego i członków komisji do spraw przeprowadzenia egzaminów konkursowego i komorniczego oraz przewodniczącego i członków zespołu do przygotowywania pytań testowych oraz zadań pisemnych na egzamin konkursowy i komorniczy (Dz. U. poz. 1925).
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 7 stycznia 2019 r.. 1) Przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 19 grudnia 2022 r. zmieniającego rozporządzenie w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację komorniczą oraz wykazu tytułów aktów prawnych (Dz. U. poz. 2744), które weszło w życie z dniem 7 stycznia 2023 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 7 stycznia 2019 r.
 

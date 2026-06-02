@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-27 |
 | Data wydania | 2012-03-09 |
-| Wejście w życie | 2012-03-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/261/text.pdf) |
 
@@ -113,7 +112,7 @@ Wykaz sprzętu medycznego, leków i artykułów sanitarnych, w które wyposaża 
 2.
 Sprzęt medyczny, leki i artykuły sanitarne umieszcza się w łatwej do przenoszenia torbie/plecaku lub torbach/plecakach o miękkich wewnętrznych ścianach, z tkaniny trudno zapalnej, wodoodpornej z uchwytami umożliwiającymi transport w ręku, na ramieniu i na plecach, z łatwym dostępem do niezależnych przegród na sprzęt medyczny, leki i artykuły sanitarne, z elementami odblaskowymi, oznakowanej/oznakowanego krzyżem św. Andrzeja lub znakiem podmiotu uprawnionego do wykonywania ratownictwa wodnego.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne (Dz. U. Nr 57, poz. 358), które z dniem wejścia w życie niniejszego rozporządzenia traci moc w zakresie dotyczącym wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne (Dz. U. Nr 57, poz. 358), które z dniem wejścia w życie niniejszego rozporządzenia traci moc w zakresie dotyczącym wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne.
 Załącznik – Wykaz sprzętu medycznego, leków i artykułów sanitarnych
 Sprzęt do resuscytacji krążeniowo-oddechowej:
 1.
@@ -137,8 +136,7 @@ Wąsy tlenowe 1 szt.
 10.
 Reduktor tlenowy 1 szt.
 11.
-Butla tlenowa 1 szt.
-Środki opatrunkowe:
+Butla tlenowa 1 szt. Środki opatrunkowe:
 1.
 Gaza jałowa 1 m2 1 szt.
 2.
@@ -190,8 +188,7 @@ Nożyczki zakrzywione 1 szt.
 25.
 Worek czerwony na odpady medyczne 2 szt.
 26.
-Nosze ratunkowe 1 szt.
-Leki:
+Nosze ratunkowe 1 szt. Leki:
 1.
 Środek dezynfekujący 2 szt.
 2.

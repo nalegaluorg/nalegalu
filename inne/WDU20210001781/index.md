@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 23 września 2021 r. zmieniające rozporządzenie w sprawie ewidencji gruntów i budynków
+# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 23 września 2021 r. zmieniające rozporządzenie w sprawie ewidencji gruntów i budynków Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718 oraz z 2021 r. poz. 1472).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-23 |
 | Data wydania | 2021-09-30 |
-| Wejście w życie | 2021-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001781) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1781/text.pdf) |
 
@@ -36,6 +35,5 @@ Zmiany danych ewidencyjnych, ujawnione w ewidencji gruntów i budynków po dniu 
 2.
 Właściwy organ, w terminie 14 dni od dnia przywrócenia danych ewidencyjnych, dokonanego na podstawie ust. 1, zawiadamia o tym podmioty ewidencyjne, o których mowa w § 11 pkt 2 lit. a oraz § 12 pkt 1 rozporządzenia zmienianego w § 1.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718 oraz z 2021 r. poz. 1472).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718 oraz z 2021 r. poz. 1472).
 

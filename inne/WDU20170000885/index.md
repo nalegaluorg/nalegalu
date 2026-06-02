@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 13 kwietnia 2017 r. w sprawie rodzajów przyrządów pomiarowych podlegających prawnej kontroli metrologicznej oraz zakresu tej kontroli
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 13 kwietnia 2017 r. w sprawie rodzajów przyrządów pomiarowych podlegających prawnej kontroli metrologicznej oraz zakresu tej kontroli Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-13 |
 | Data wydania | 2017-05-08 |
-| Wejście w życie | 2017-05-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000885) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/885/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 8 ust. 6 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2016 r. poz. 884 i 1948) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 listopada 2016 r., pod numerem 2016/599/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 8 ust. 6 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2016 r. poz. 884 i 1948) zarządza się, co następuje:
 § 1.
 1.
 Prawnej kontroli metrologicznej w zakresie zatwierdzenia typu, legalizacji pierwotnej i legalizacji ponownej podlegają następujące rodzaje przyrządów pomiarowych:
@@ -143,6 +142,5 @@ Do prawnej kontroli metrologicznej wag wagonowych do ważenia w ruchu wagonów s
 § 11.
 Traci moc rozporządzenie Ministra Gospodarki z dnia 27 grudnia 2007 r. w sprawie rodzajów przyrządów pomiarowych podlegających prawnej kontroli metrologicznej oraz zakresu tej kontroli (Dz. U. z 2014 r. poz. 1066).
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 listopada 2016 r., pod numerem 2016/599/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 listopada 2016 r., pod numerem 2016/599/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 lutego 2024 r. w sprawie wymagań dotyczących pomiarów, rejestracji i sposobu obliczania ilości wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 26 lutego 2024 r. w sprawie wymagań dotyczących pomiarów, rejestracji i sposobu obliczania ilości wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-26 |
 | Data wydania | 2024-02-29 |
-| Wejście w życie | 2024-03-15 |
 | Ostatnia zmiana | 2024-12-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/286/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 62a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 6 listopada 2023 r. pod numerem 2023/0623/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 62a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -64,6 +63,5 @@ Pomiarów ilości wodoru odnawialnego dokonuje się w miejscu jego zatłaczania 
 § 6.
 Ilość wodoru odnawialnego przelicza się na ilość energii wyrażoną w MWh według wzoru: \( E_{oze} = {{M_{H2} \times 39,4} \over {1000}} \) gdzie poszczególne symbole oznaczają: Eoze – ilość energii wytworzonej z wodoru odnawialnego wyrażona w MWh, MH2 – ilość masy wodoru odnawialnego wytworzonego z wykorzystaniem energii z odnawialnych źródeł energii wyrażona w kg, 39,4 – współczynnik ciepła spalania wodoru odnawialnego wyrażonego w kWh/kg.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 6 listopada 2023 r. pod numerem 2023/0623/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 6 listopada 2023 r. pod numerem 2023/0623/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

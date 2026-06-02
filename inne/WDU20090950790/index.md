@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-05-21 |
 | Data wydania | 2009-06-19 |
-| Wejście w życie | 2009-06-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090950790) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/790/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2006 r. Nr 234, poz. 1695, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2006 r. Nr 234, poz. 1695, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 oraz z 2008 r. Nr 70, poz. 416, Nr 216, poz. 1367 i Nr 234, poz. 1570.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „
 - **4a)** dane biometryczne – wizerunek twarzy i odciski linii papilarnych pobrane w celu umieszczenia w dokumentach podróży przewidzianych w Konwencji Genewskiej w formie elektronicznej; ” ;
@@ -62,7 +61,7 @@ source: "eli-html"
 
 2. Dane biometryczne przechowuje się do dnia odebrania przez cudzoziemca dokumentu podróży przewidzianego w Konwencji Genewskiej, a w przypadku jego nieodebrania, do dnia upływu ważności tego dokumentu. ” .
 
-**Art. 2.** W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm.) po art. 133 dodaje się art. 133a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170, z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112, Nr 216, poz. 1367, Nr 227, poz. 1505 i Nr 234, poz. 1570 oraz z 2009 r. Nr 6, poz. 33 i Nr 31, poz. 206.) po art. 133 dodaje się art. 133a w brzmieniu: „
 
 **Art. 133a.** Przepisu art. 133 nie stosuje się do przetwarzania odcisków linii papilarnych pobranych od cudzoziemca w celu ich zamieszczenia w dokumencie podróży przewidzianym w Konwencji Genewskiej, przetwarzanych w rejestrze spraw o nadanie statusu uchodźcy i udzielenie ochrony uzupełniającej oraz o udzielenie pomocy cudzoziemcom ubiegającym się o nadanie statusu uchodźcy. ” .
 
@@ -70,5 +69,5 @@ source: "eli-html"
 
 **Art. 4.** Dokumenty podróży przewidziane w Konwencji Genewskiej wydane na podstawie dotychczasowych przepisów zachowują ważność przez okres, na jaki zostały wydane.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 29 czerwca 2009 r.
+**Art. 5.** Ustawa wchodzi w życie z dniem 29 czerwca 2009 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 oraz z 2008 r. Nr 70, poz. 416, Nr 216, poz. 1367 i Nr 234, poz. 1570. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170, z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112, Nr 216, poz. 1367, Nr 227, poz. 1505 i Nr 234, poz. 1570 oraz z 2009 r. Nr 6, poz. 33 i Nr 31, poz. 206.
 

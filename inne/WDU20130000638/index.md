@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-03 |
 | Data wydania | 2013-06-04 |
-| Wejście w życie | 2013-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000638) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/638/text.pdf) |
 
@@ -112,5 +111,5 @@ Wybrakowanie dokumentacji niearchiwalnej odnotowuje się we właściwych urządz
 5.
 Dokumenty dotyczące wybrakowania dokumentacji niearchiwalnej są przechowywane odrębnie i stanowią materiał archiwalny.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 5 czerwca 2013 r.
+Rozporządzenie wchodzi w życie z dniem 5 czerwca 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 27 lipca 2010 r. w sprawie stosowania środków przymusu bezpośredniego oraz użycia broni palnej lub psa służbowego przez funkcjonariuszy Służby Więziennej (Dz. U. Nr 147, poz. 983) w zakresie określenia szczegółowych warunków użycia środka przymusu bezpośredniego w postaci umieszczenia osoby pozbawionej wolności w celi zabezpieczającej oraz rozporządzeniem Rady Ministrów z dnia 22 lutego 2011 r. w sprawie szczegółowych warunków i sposobu użycia środków przymusu bezpośredniego wobec nieletnich umieszczonych w zakładach poprawczych, schroniskach dla nieletnich, młodzieżowych ośrodkach wychowawczych i młodzieżowych ośrodkach socjoterapii (Dz. U. Nr 48, poz. 248) w zakresie określenia szczegółowych warunków użycia środka przymusu bezpośredniego w postaci umieszczenia nieletniego w izbie izolacyjnej. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 27 lipca 2010 r. w sprawie stosowania środków przymusu bezpośredniego oraz użycia broni palnej lub psa służbowego przez funkcjonariuszy Służby Więziennej (Dz. U. Nr 147, poz. 983) w zakresie określenia szczegółowych warunków użycia środka przymusu bezpośredniego w postaci umieszczenia osoby pozbawionej wolności w celi zabezpieczającej oraz rozporządzeniem Rady Ministrów z dnia 22 lutego 2011 r. w sprawie szczegółowych warunków i sposobu użycia środków przymusu bezpośredniego wobec nieletnich umieszczonych w zakładach poprawczych, schroniskach dla nieletnich, młodzieżowych ośrodkach wychowawczych i młodzieżowych ośrodkach socjoterapii (Dz. U. Nr 48, poz. 248) w zakresie określenia szczegółowych warunków użycia środka przymusu bezpośredniego w postaci umieszczenia nieletniego w izbie izolacyjnej.
 

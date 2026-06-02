@@ -8,10 +8,10 @@ pos: 575
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 4 kwietnia 2014 r. o europejskiej inicjatywie obywatelskiej
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 maja 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-04 |
 | Data wydania | 2014-05-06 |
-| Wejście w życie | 2014-05-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000575) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/575/text.pdf) |
+
+Poz. 575
+USTAWA z dnia 4 kwietnia 2014 r.
+o europejskiej inicjatywie obywatelskiej
 
 **Art. 1.**
 
@@ -47,7 +50,7 @@ source: "eli-html"
 
 - **1)** przed organami wskazanymi w rozporządzeniu (UE) nr 211/2011 składa niezgodne z prawdą oświadczenie w związku z procedurą przedłożenia europejskiej inicjatywy obywatelskiej,
 - **2)** dane osobowe zebrane do celów europejskiej inicjatywy obywatelskiej wykorzystuje do innych celów niż udzielenie poparcia dla tej inicjatywy,
-- **3)** nie niszczy deklaracji poparcia otrzymanych w związku z europejską inicjatywą obywatelską oraz ich kopii w terminach przewidzianych w art. 12 ust. 3 i 5 rozporządzenia (UE) nr 211/2011 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+- **3)** nie niszczy deklaracji poparcia otrzymanych w związku z europejską inicjatywą obywatelską oraz ich kopii w terminach przewidzianych w art. 12 ust. 3 i 5 rozporządzenia (UE) nr 211/2011 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

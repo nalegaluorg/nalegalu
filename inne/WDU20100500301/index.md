@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-03-05 |
 | Data wydania | 2010-03-31 |
-| Wejście w życie | 2010-03-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100500301) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/301/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446, z 2008 r. Nr 70, poz. 416, Nr 138, poz. 872 i 875, Nr 223, poz. 1456 i Nr 237, poz. 1654 oraz z 2009 r. Nr 97, poz. 800 i Nr 219, poz. 1706.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 ust. 7 i 8 otrzymują brzmienie: „
 
@@ -38,7 +37,7 @@ source: "eli-html"
 
 6. Pozostawanie pod opieką medyczną potwierdza się zaświadczeniem lekarskim lub zaświadczeniem wystawionym przez położną. Przepisy wydane na podstawie art. 9 ust. 8 stosuje się odpowiednio. ” .
 
-**Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) w art. 16 w ust. 1:
+**Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374.) w art. 16 w ust. 1:
 
 - **1)** pkt 1 otrzymuje brzmienie: „
 - **1)** orzeczenia o zdolności do prowadzenia pojazdów mechanicznych oraz inne orzeczenia i zaświadczenia lekarskie wydawane na życzenie świadczeniobiorcy, jeżeli nie są one związane z dalszym leczeniem, rehabilitacją, niezdolnością do pracy, kontynuowaniem nauki, uczestnictwem dzieci, uczniów, słuchaczy zakładów kształcenia nauczycieli i studentów w zajęciach sportowych i w zorganizowanym wypoczynku, a także jeżeli nie są wydawane dla celów pomocy społecznej, orzecznictwa o niepełnosprawności oraz uzyskania zasiłku pielęgnacyjnego; ” ;
@@ -55,5 +54,5 @@ source: "eli-html"
 
 3. Wnioski, o których mowa w ust. 1 i 2, składa się w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446, z 2008 r. Nr 70, poz. 416, Nr 138, poz. 872 i 875, Nr 223, poz. 1456 i Nr 237, poz. 1654 oraz z 2009 r. Nr 97, poz. 800 i Nr 219, poz. 1706. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374.
 

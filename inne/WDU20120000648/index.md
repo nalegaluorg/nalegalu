@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-29 |
 | Data wydania | 2012-06-12 |
-| Wejście w życie | 2012-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000648) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/648/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 33 ust. 11 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 33 ust. 11 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 19 grudnia 2007 r. w sprawie zakładowego funduszu rehabilitacji osób niepełnosprawnych (Dz. U. Nr 245, poz. 1810, z 2009 r. Nr 107, poz. 891 oraz z 2010 r. Nr 64, poz. 398) § 8 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 19 grudnia 2007 r. w sprawie zakładowego funduszu rehabilitacji osób niepełnosprawnych (Dz. U. Nr 245, poz. 1810, z 2009 r. Nr 107, poz. 891 oraz z 2010 r. Nr 64, poz. 398) § 8 otrzymuje brzmienie: „
 § 8.
 Intensywność pomocy, o której mowa w § 2 ust. 2, wynosi do 100% poniesionych wydatków, przy czym:
 1)
@@ -40,8 +38,7 @@ zaliczki, o których mowa w art. 38 ust. 2 pkt 1 lit. a ustawy z dnia 26 lipca 1
 a)
 81% wartości tego zwolnienia – w odniesieniu do zaliczek, do których ma zastosowanie ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych w brzmieniu obowiązującym do dnia 31 grudnia 2010 r.,
 b)
-54% wartości tego zwolnienia – w odniesieniu do zaliczek, do których ma zastosowanie ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych w brzmieniu obowiązującym od dnia 1 stycznia 2011 r.
-” .
+54% wartości tego zwolnienia – w odniesieniu do zaliczek, do których ma zastosowanie ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych w brzmieniu obowiązującym od dnia 1 stycznia 2011 r. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-16 |
 | Data wydania | 2020-12-21 |
-| Wejście w życie | 2021-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002306) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2306/text.pdf) |
 
@@ -41,8 +40,7 @@ Podmiotem prowadzącym monitorowanie informacji, o których mowa w art. 22 ust. 
 1)
 Szefa ABW – kierownik jednostki organizacyjnej ABW właściwej w sprawach osobowych, w odniesieniu do weteranów poszkodowanych-funkcjonariuszy ABW,
 2)
-Szefa AW – kierownik jednostki organizacyjnej AW właściwej w sprawach obsługi działalności leczniczej, w odniesieniu do weteranów poszkodowanych-funkcjonariuszy AW
-zwani dalej „podmiotem prowadzącym monitorowanie”.
+Szefa AW – kierownik jednostki organizacyjnej AW właściwej w sprawach obsługi działalności leczniczej, w odniesieniu do weteranów poszkodowanych-funkcjonariuszy AW – zwani dalej „podmiotem prowadzącym monitorowanie”.
 § 3.
 1.
 Monitorowanie realizacji indywidualnego prawa do świadczeń opieki zdrowotnej weteranów poszkodowanych następuje na podstawie analizy informacji przekazanych odpowiednio Szefowi ABW oraz Szefowi AW przez:

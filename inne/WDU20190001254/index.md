@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-04 |
 | Data wydania | 2019-07-05 |
-| Wejście w życie | 2019-07-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1254/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie wyjaśniające i wszczęcie postępowania dyscyplinarnego Rozdział 3 – Postępowanie dyscyplinarne w I instancji Rozdział 4 – Postępowanie odwoławcze Rozdział 5 – Wznowienie postępowania dyscyplinarnego Rozdział 6 – Zasady i tryb powoływania komisji Rozdział 7 – Rzecznik dyscyplinarny Rozdział 8 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 48 ust. 1 pkt 4 w związku z art. 36 ust. 7 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2018 r. poz. 1915 oraz z 2019 r. poz. 1043) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -49,6 +49,7 @@ W przypadku śmierci obwinionego urzędnika toczące się postępowanie dyscypli
 Jeżeli małżonek, krewny lub powinowaty w linii prostej albo rodzeństwo obwinionego urzędnika zgłoszą wniosek o podjęcie umorzonego postępowania, komisja podejmuje na nowo umorzone postępowanie z udziałem obrońcy ustanowionego przez wnioskodawców albo z urzędu przez przewodniczącego komisji.
 § 4.
 Za obwinionego uważa się urzędnika, wobec którego rzecznik dyscyplinarny złożył wniosek o wszczęcie postępowania dyscyplinarnego.
+Postępowanie wyjaśniające i wszczęcie postępowania dyscyplinarnego
 § 5.
 1.
 W przypadku powzięcia wiadomości o naruszeniu przez urzędnika obowiązków pracownika, które może stanowić podstawę wszczęcia postępowania dyscyplinarnego, Przewodniczący Krajowej Rady Radiofonii i Telewizji, zwany dalej „Przewodniczącym”, poleca rzecznikowi dyscyplinarnemu wszczęcie postępowania wyjaśniającego.
@@ -138,6 +139,7 @@ Członek składu orzekającego, który podlega wyłączeniu, zawiadamia o tym pr
 Członek składu orzekającego może być wyłączony na uzasadniony wniosek rzecznika dyscyplinarnego lub obwinionego. O wyłączeniu postanawia przewodniczący komisji.
 5.
 Jeżeli wniosek o wyłączenie dotyczy przewodniczącego komisji zasiadającego w składzie orzekającym, przewodniczący komisji wyznacza na swoje miejsce innego członka komisji.
+Postępowanie dyscyplinarne w I instancji
 § 15.
 1.
 Przewodniczący komisji wzywa obwinionego i rzecznika dyscyplinarnego, a w razie potrzeby świadków i inne osoby do stawienia się na rozprawę.
@@ -229,6 +231,7 @@ Komisja I instancji z urzędu uzasadnia orzeczenie. Uzasadnienie orzeczenia spor
 Uzasadnienie orzeczenia powinno zawierać wskazanie faktów, które komisja I instancji uznała za udowodnione, dowodów, na których się oparła, i przyczyn, dla których innym dowodom odmówiła wiarygodności i mocy dowodowej. W uzasadnieniu orzeczenia należy ponadto wskazać okoliczności, które skład orzekający miał na względzie przy wymiarze kary.
 3.
 Uzasadnienie podpisują wszyscy członkowie składu orzekającego.
+Postępowanie odwoławcze
 § 30.
 Odwołanie strony od orzeczenia komisji I instancji powinno zawierać oznaczenie zaskarżonego orzeczenia, wskazanie czy jest zaskarżone w całości czy w części, określenie i zwięzłe uzasadnienie wniosków i zarzutów oraz podpis strony lub obrońcy obwinionego.
 § 31.
@@ -251,6 +254,7 @@ Na postanowienie o odmowie przyjęcia odwołania oraz o odmowie przywrócenia te
 Komisja II instancji, po przeprowadzeniu rozprawy, utrzymuje w mocy zaskarżone orzeczenie, uchyla orzeczenie w całości lub w części i wydaje w tym zakresie nowe orzeczenie albo przekazuje sprawę komisji I instancji do ponownego rozpatrzenia lub w przypadku określonym w § 12 umarza postępowanie. Wydanie orzeczenia na niekorzyść obwinionego może nastąpić jedynie w przypadku wniesienia przez rzecznika dyscyplinarnego odwołania na niekorzyść obwinionego.
 2.
 W ponownym rozpatrywaniu sprawy w komisji I instancji nie może uczestniczyć członek komisji, który brał udział w wydaniu uchylonego orzeczenia.
+Wznowienie postępowania dyscyplinarnego
 § 34.
 Wznowienie postępowania dyscyplinarnego zakończonego prawomocnym orzeczeniem może nastąpić, jeżeli:
 1)
@@ -281,6 +285,7 @@ Na wydane przez komisję II instancji postanowienie o odmowie wznowienia postęp
 Zażalenie, o którym mowa w ust. 1 i 2, składa się w terminie 7 dni od dnia doręczenia postanowienia o odmowie wznowienia postępowania.
 § 40.
 Do postępowania wznowionego stosuje się odpowiednio przepisy o postępowaniu przed komisją I instancji.
+Zasady i tryb powoływania komisji
 § 41.
 Przewodniczący, powołując komisję, ustala liczbę jej członków w taki sposób, aby zapewnić sprawne rozpatrywanie spraw i umożliwić powołanie co najmniej dwóch składów orzekających.
 § 42.
@@ -314,6 +319,7 @@ W przypadku zmniejszenia się składu komisji, Przewodniczący dokonuje uzupełn
 Członkowie komisji pełnią swoje obowiązki do czasu powołania nowej komisji.
 § 46.
 W przypadku zaistnienia okoliczności uniemożliwiających członkowi komisji wykonywanie obowiązków, w szczególności urlopu bezpłatnego, służby wojskowej lub długotrwałej choroby, może on być odwołany przed upływem kadencji komisji w trybie, w jakim został powołany.
+Rzecznik dyscyplinarny
 § 47.
 1.
 Rzecznika dyscyplinarnego powołuje się spośród mianowanych urzędników dających rękojmię należytego wywiązywania się z obowiązków rzecznika dyscyplinarnego.
@@ -346,22 +352,39 @@ Rzecznik dyscyplinarny zawiadamia niezwłocznie Przewodniczącego o okolicznośc
 Jeżeli rzecznik dyscyplinarny nie może czasowo pełnić swoich funkcji lub podlega wyłączeniu, Przewodniczący powołuje spośród mianowanych urzędników inną osobę do wykonywania w danej sprawie zadań rzecznika dyscyplinarnego.
 2.
 Do osoby, o której mowa w ust. 1, stosuje się odpowiednio przepisy dotyczące rzecznika dyscyplinarnego.
+Przepis końcowy
 § 51.
 Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Postępowanie wyjaśniające i wszczęcie postępowania dyscyplinarnego
+#### Rozdział 2 – Postępowanie wyjaśniające i wszczęcie postępowania dyscyplinarnego
 
-#### Rozdział 3 Postępowanie dyscyplinarne w I instancji
+#### Rozdział 3 – Postępowanie dyscyplinarne w I instancji
 
-#### Rozdział 4 Postępowanie odwoławcze
+#### Rozdział 4 – Postępowanie odwoławcze
 
-#### Rozdział 5 Wznowienie postępowania dyscyplinarnego
+#### Rozdział 5 – Wznowienie postępowania dyscyplinarnego
 
-#### Rozdział 6 Zasady i tryb powoływania komisji
+#### Rozdział 6 – Zasady i tryb powoływania komisji
 
-#### Rozdział 7 Rzecznik dyscyplinarny
+#### Rozdział 7 – Rzecznik dyscyplinarny
 
-#### Rozdział 8 Przepis końcowy
+#### Rozdział 8 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
 

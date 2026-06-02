@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 2 lipca 2024 r. w sprawie szczegółowych warunków i sposobu wykonywania zadań poszukiwania i ratowania życia na morzu przez Morską Służbę Poszukiwania i Ratownictwa oraz sposobu realizacji uprawnień członków ochotniczych drużyn ratowniczych
+# Rozporządzenie Ministra Infrastrukturyz dnia 2 lipca 2024 r. w sprawie szczegółowych warunków i sposobu wykonywania zadań poszukiwania i ratowania życia na morzu przez Morską Służbę Poszukiwania i Ratownictwa oraz sposobu realizacji uprawnień członków ochotniczych drużyn ratowniczych Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-02 |
 | Data wydania | 2024-07-16 |
-| Wejście w życie | 2024-07-31 |
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1048/text.pdf) |
 
@@ -149,6 +148,5 @@ Zwrot kosztów okresowych badań lekarskich, płatnych kursów i szkoleń związ
 3.
 Ryczałt za udział w akcjach poszukiwawczych i ratowniczych oraz szkoleniach organizowanych przez Służbę SAR jest naliczany członkowi ochotniczej drużyny ratowniczej za każdą rozpoczętą godzinę udziału w działaniu lub szkoleniu ratowniczym, w wysokości nie niższej niż wysokość minimalnej stawki godzinowej, określonej w przepisach o minimalnym wynagrodzeniu za pracę.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 8 kwietnia 2013 r. w sprawie szczegółowych warunków i sposobu wykonywania zadań poszukiwania i ratowania życia na morzu przez Morską Służbę Poszukiwania i Ratownictwa oraz sposobu realizacji uprawnień członków ochotniczych drużyn ratowniczych (Dz. U. poz. 552), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 18 ust. 1 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy o bezpieczeństwie morskim oraz niektórych innych ustaw (Dz. U. poz. 261).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 8 kwietnia 2013 r. w sprawie szczegółowych warunków i sposobu wykonywania zadań poszukiwania i ratowania życia na morzu przez Morską Służbę Poszukiwania i Ratownictwa oraz sposobu realizacji uprawnień członków ochotniczych drużyn ratowniczych (Dz. U. poz. 552), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 18 ust. 1 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy o bezpieczeństwie morskim oraz niektórych innych ustaw (Dz. U. poz. 261). 1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 8 kwietnia 2013 r. w sprawie szczegółowych warunków i sposobu wykonywania zadań poszukiwania i ratowania życia na morzu przez Morską Służbę Poszukiwania i Ratownictwa oraz sposobu realizacji uprawnień członków ochotniczych drużyn ratowniczych (Dz. U. poz. 552), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 18 ust. 1 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy o bezpieczeństwie morskim oraz niektórych innych ustaw (Dz. U. poz. 261).
 

@@ -31,13 +31,11 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 6 sierpnia 2014 r. w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1092), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 5 października 2020 r. zmieniającym rozporządzenie w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1789).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 2020 r. zmieniającego rozporządzenie w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1789), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 2020 r. zmieniającego rozporządzenie w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1789), które stanowią: „
 § 2.
 Przepisy § 1 ust. 4 i § 2a rozporządzenia zmienianego w § 1 stosuje się do klauzul wykonalności nadawanych po dniu wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 6 sierpnia 2014 r. w sprawie określenia brzmienia klauzuli wykonalności
 Na podstawie art. 783 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, 1981, 2052, 2262, 2270 i 2289) zarządza się, co następuje:
 § 1.
@@ -47,11 +45,11 @@ Ustala się następujące brzmienie klauzuli wykonalności: „W imieniu Rzeczyp
 Jeżeli klauzulę wykonalności umieszcza się na wyroku, opuszcza się wyrazy: „W imieniu Rzeczypospolitej Polskiej”.
 3.
 Jeżeli klauzulę wykonalności umieszcza się na orzeczeniu, w treści klauzuli zaznacza się, czy orzeczenie podlega wykonaniu jako prawomocne, czy jako natychmiast wykonalne.
-4.
+4Dodany przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 2020 r. zmieniającego rozporządzenie w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1789), które weszło w życie z dniem 29 października 2020 r..
 Jeżeli orzeczenie podlega wykonaniu jako prawomocne, w treści klauzuli wykonalności wskazuje się datę, z jaką orzeczenie się uprawomocniło.
 § 2.
 Jeżeli sąd lub referendarz sądowy, nadając klauzulę wykonalności tytułowi egzekucyjnemu, który opiewa na świadczenie pieniężne w walucie obcej, zobowiązuje komornika do przeliczenia tego świadczenia na walutę polską, klauzula wykonalności zawiera ponadto następującą treść: „Sąd/Referendarz sądowy zobowiązuje komornika do przeliczenia świadczenia pieniężnego wyrażonego w walucie obcej na walutę polską według średniego kursu waluty obcej ogłoszonego przez Narodowy Bank Polski na dzień sporządzenia planu podziału, a jeżeli planu nie sporządza się – na dzień wypłaty kwoty wierzycielowi.”.
-§ 2a.
+§ 2aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Jeżeli z treści orzeczenia o kosztach procesu nie wynika wprost, od jakiej daty należą się od nich odsetki przyznane na podstawie art. 98 § 11 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w treści klauzuli wykonalności wskazuje się tę datę.
 § 3.
 W przypadku, o którym mowa w art. 7941 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, klauzula wykonalności zawiera ponadto następującą treść: „Koszty postępowania klauzulowego należne wierzycielowi od dłużnika wynoszą....... „.
@@ -64,5 +62,5 @@ numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku – numer w innym 
 § 5.
 Przepisu § 4 nie stosuje się do klauzul wykonalności nadawanych orzeczeniom sądów lub referendarzy sądowych, które wydano w postępowaniach wszczętych przed dniem 7 lipca 2013 r., oraz ugodom sądowym zawartym w postępowaniach wszczętych przed tym dniem.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 18 sierpnia 2014 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 443 oraz z 2013 r. poz. 859), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 2 ustawy z dnia 7 lutego 2014 r. o zmianie ustawy – Kodeks postępowania cywilnego (Dz. U. poz. 293). 1) Dodany przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 2020 r. zmieniającego rozporządzenie w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1789), które weszło w życie z dniem 29 października 2020 r. 2) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 18 sierpnia 2014 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 443 oraz z 2013 r. poz. 859), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 2 ustawy z dnia 7 lutego 2014 r. o zmianie ustawy – Kodeks postępowania cywilnego (Dz. U. poz. 293).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 5 października 2017 r. w sprawie szczegółowego sposobu postępowania z odpadami medycznymi
+# Rozporządzenie Ministra Zdrowiaz dnia 5 października 2017 r. w sprawie szczegółowego sposobu postępowania z odpadami medycznymi Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-05 |
 | Data wydania | 2017-10-24 |
-| Wejście w życie | 2017-11-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001975) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1975/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 33 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2016 r. poz. 1987 i 1954 oraz z 2017 r. poz. 785 i 1566) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 maja 2017 r. pod numerem 2017/197/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 33 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2016 r. poz. 1987 i 1954 oraz z 2017 r. poz. 785 i 1566) zarządza się, co następuje:
 § 1.
 1.
 Rozporządzenie określa szczegółowy sposób postępowania z odpadami medycznymi powstałymi w miejscu ich wytwarzania, w tym:
@@ -222,9 +221,7 @@ W terminie 18 miesięcy od dnia wejścia w życie rozporządzenia:
 1)
 pomieszczenia do wstępnego magazynowania odpadów medycznych, niespełniające wymagań określonych w § 7 ust. 2 pkt 8 i 9,
 2)
-pomieszczenia i miejsca do dezynfekcji, mycia i przechowywania środków transportu wewnętrznego odpadów medycznych, niespełniające wymagań określonych w § 10 ust. 2 pkt 3
-dostosowuje się do tych wymagań.
+pomieszczenia i miejsca do dezynfekcji, mycia i przechowywania środków transportu wewnętrznego odpadów medycznych, niespełniające wymagań określonych w § 10 ust. 2 pkt 3 – dostosowuje się do tych wymagań.
 § 13.
-Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 maja 2017 r. pod numerem 2017/197/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 lipca 2010 r. w sprawie szczegółowego sposobu postępowania z odpadami medycznymi (Dz. U. poz. 940), które utraciło moc z dniem 24 stycznia 2016 r., zgodnie z art. 250 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2016 r. poz. 1987 i 1954 oraz z 2017 r. poz. 785 i 1566).
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 lipca 2010 r. w sprawie szczegółowego sposobu postępowania z odpadami medycznymi (Dz. U. poz. 940), które utraciło moc z dniem 24 stycznia 2016 r., zgodnie z art. 250 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2016 r. poz. 1987 i 1954 oraz z 2017 r. poz. 785 i 1566). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 17 maja 2017 r. pod numerem 2017/197/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 30 lipca 2010 r. w sprawie szczegółowego sposobu postępowania z odpadami medycznymi (Dz. U. poz. 940), które utraciło moc z dniem 24 stycznia 2016 r., zgodnie z art. 250 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2016 r. poz. 1987 i 1954 oraz z 2017 r. poz. 785 i 1566).
 

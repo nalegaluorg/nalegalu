@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-02-02 |
 | Data wydania | 2016-02-19 |
-| Wejście w życie | 2016-03-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/203/text.pdf) |
 
@@ -41,8 +40,7 @@ zmiażdżenie,
 c)
 wielokrotne przesypanie,
 d)
-zastosowanie środków chemicznych trwale barwiących lub zmieniających zapach na nieswoisty, nieszkodliwych dla zdrowia ludzi i zwierząt
-jeżeli są one przeznaczone na cele inne niż bezpłatna dystrybucja, o której mowa w art. 34 ust. 4 rozporządzenia nr 1308/2013.
+zastosowanie środków chemicznych trwale barwiących lub zmieniających zapach na nieswoisty, nieszkodliwych dla zdrowia ludzi i zwierząt – jeżeli są one przeznaczone na cele inne niż bezpłatna dystrybucja, o której mowa w art. 34 ust. 4 rozporządzenia nr 1308/2013.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 24 sierpnia 2006 r. w sprawie sposobu oznaczania i zabezpieczenia owoców i warzyw nieprzeznaczonych do sprzedaży uniemożliwiającego wprowadzenie tych owoców i warzyw do obrotu lub bezpośredniej konsumpcji (Dz. U. Nr 161, poz. 1140), które na podstawie art. 21 ust. 1 pkt 1 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw (Dz. U. poz. 1419) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 24 sierpnia 2006 r. w sprawie sposobu oznaczania i zabezpieczenia owoców i warzyw nieprzeznaczonych do sprzedaży uniemożliwiającego wprowadzenie tych owoców i warzyw do obrotu lub bezpośredniej konsumpcji (Dz. U. Nr 161, poz. 1140), które na podstawie art. 21 ust. 1 pkt 1 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw (Dz. U. poz. 1419) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

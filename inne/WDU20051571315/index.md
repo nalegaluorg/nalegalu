@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-07 |
 | Data wydania | 2005-08-19 |
-| Wejście w życie | 2005-09-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051571315) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1315/text.pdf) |
 
@@ -52,10 +51,13 @@ source: "eli-html"
 
 9. Pracownicy i byli pracownicy Lasów Państwowych niebędący najemcami lokali przeznaczonych do sprzedaży, pozostających w zarządzie Lasów Państwowych, korzystają z pierwszeństwa nabycia lokali wolnych (pustostanów) lub gruntów z budynkami mieszkalnymi w budowie, na warunkach określonych w ust. 4. ” .
 
-**Art. 2.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966 oraz z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252.) wprowadza się następujące zmiany:
 
-- **1)** w art. 42: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) jeżeli są lub były pracownikami podmiotów utworzonych z zakładów lub jednostek organizacyjnych wydzielonych z PKP w okresie od dnia 1 lipca 1991 r., ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) jeżeli są lub były pracownikami przedsiębiorstw państwowych lub jednostek organizacyjnych, które wykonywały lub nadal wykonują zadania na rzecz zbywcy lub jego poprzednika prawnego, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **1)** w art. 42: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** jeżeli są lub były pracownikami podmiotów utworzonych z zakładów lub jednostek organizacyjnych wydzielonych z PKP w okresie od dnia 1 lipca 1991 r., ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** jeżeli są lub były pracownikami przedsiębiorstw państwowych lub jednostek organizacyjnych, które wykonywały lub nadal wykonują zadania na rzecz zbywcy lub jego poprzednika prawnego, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Uprawnienie, o którym mowa w ust. 1, przysługuje osobom bliskim również w stosunku do lokalu, którego prawo najmu osoby te uzyskały w zamian za lokal dotychczas zajmowany w dniu śmierci pracownika lub byłego pracownika PKP. Uprawnienie to przysługuje tylko jednej osobie bliskiej i tylko przy nabyciu jednego lokalu. ” , dodaje się ust. 4 i 5 w brzmieniu: „
@@ -157,5 +159,5 @@ source: "eli-html"
 
 **Art. 6.** Do spraw wszczętych i niezakończonych zawarciem umowy sprzedaży mieszkania przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966 oraz z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252.
 

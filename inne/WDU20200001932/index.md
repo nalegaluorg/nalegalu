@@ -22,23 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-02 |
 | Data wydania | 2020-11-02 |
-| Wejście w życie | 2020-11-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1932/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) po § 13z dodaje się § 13za w brzmieniu:
-„
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18, 733, 1009, 1258, 1375 i 1728.) po § 13z dodaje się § 13za w brzmieniu: „
 § 13za.
 1.
 Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa, rozwoju wsi i rynków rolnych, o której mowa w § 2 ust. 1 pkt 6, posiadaczowi co najmniej:
 1)
 50 sztuk chryzantem doniczkowych w fazie pełnej dojrzałości przeznaczonych do sprzedaży według stanu na dzień złożenia wniosku, o którym mowa w ust. 2, lub
 2)
-200 sztuk chryzantem ciętych w fazie pełnej dojrzałości przeznaczonych do sprzedaży według stanu na dzień złożenia wniosku, o którym mowa w ust. 2
-będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia nr 702/2014, któremu zagraża utrata płynności finansowej w związku z ograniczeniami na rynku rolnym spowodowanymi epidemią COVID-19.
+200 sztuk chryzantem ciętych w fazie pełnej dojrzałości przeznaczonych do sprzedaży według stanu na dzień złożenia wniosku, o którym mowa w ust. 2 – będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia nr 702/2014, któremu zagraża utrata płynności finansowej w związku z ograniczeniami na rynku rolnym spowodowanymi epidemią COVID-19.
 2.
 Pomoc, o której mowa w ust. 1, jest przyznawana na prawidłowo wypełniony i kompletny wniosek posiadacza chryzantem, w którym zgłasza Agencji liczbę posiadanych w dniu złożenia wniosku chryzantem doniczkowych lub ciętych w fazie pełnej dojrzałości, których nie sprzedał w związku z ograniczeniami na rynku rolnym spowodowanymi epidemią COVID-19.
 3.
@@ -106,10 +103,9 @@ chryzantemy ciętej – 3 zł za sztukę.
 16.
 Pomoc, o której mowa w ust. 1, jest wypłacana posiadaczowi chryzantem w terminie do dnia 31 grudnia 2020 r. na podstawie dokumentów złożonych przez posiadacza chryzantem zgodnie z ust. 13.
 17.
-Pomoc, o której mowa w ust. 1, w przypadku posiadaczy chryzantem prowadzących pozarolniczą działalność gospodarczą, ma charakter pomocy de minimis i jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis.
-” .
+Pomoc, o której mowa w ust. 1, w przypadku posiadaczy chryzantem prowadzących pozarolniczą działalność gospodarczą, ma charakter pomocy de minimis i jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis. ” .
 § 2.
 Pomoc publiczna określona w § 13za ust. 1 rozporządzenia zmienianego w § 1 może być udzielana posiadaczom chryzantem będącym producentami rolnymi od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tym przepisie.
 § 3.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779 oraz z 2020 r. poz. 18, 733, 1009, 1258, 1375 i 1728.
 

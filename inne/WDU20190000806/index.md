@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 16 kwietnia 2019 r. w sprawie sposobu udzielania przez Policję lub Straż Graniczną pomocy organowi egzekucyjnemu i egzekutorowi przy wykonywaniu czynności egzekucyjnych
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 16 kwietnia 2019 r. w sprawie sposobu udzielania przez Policję lub Straż Graniczną pomocy organowi egzekucyjnemu i egzekutorowi przy wykonywaniu czynności egzekucyjnych Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-16 |
 | Data wydania | 2019-04-29 |
-| Wejście w życie | 2019-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/806/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 46 § 3 pkt 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2018 r. poz. 1314, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 46 § 3 pkt 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2018 r. poz. 1314, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1499, 1629, 2192, 2193 i 2432 oraz z 2019 r. poz. 730.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -44,8 +43,7 @@ Organ egzekucyjny lub egzekutor wzywają właściwą ze względu na miejsce prze
 1)
 Policji lub
 2)
-Straży Granicznej – w przypadku gdy przedmiot egzekucji znajduje się na obszarze przejścia granicznego lub w strefie nadgranicznej
-w formie pisemnej do udzielenia pomocy przy wykonywaniu czynności egzekucyjnych, co najmniej 7 dni przed terminem czynności egzekucyjnych.
+Straży Granicznej – w przypadku gdy przedmiot egzekucji znajduje się na obszarze przejścia granicznego lub w strefie nadgranicznej – w formie pisemnej do udzielenia pomocy przy wykonywaniu czynności egzekucyjnych, co najmniej 7 dni przed terminem czynności egzekucyjnych.
 2.
 W pilnych przypadkach, zwłaszcza gdy zwłoka groziłaby udaremnieniem egzekucji, udzielenie pomocy przy wykonywaniu czynności egzekucyjnych następuje także na ustne wezwanie organu egzekucyjnego lub egzekutora.
 § 3.
@@ -84,6 +82,5 @@ Rachunek kosztów poniesionych przez Policję lub Straż Graniczną przesyła si
 3.
 Organ egzekucyjny przekazuje należność z tytułu kosztów poniesionych przez Policję lub Straż Graniczną, na rachunek bankowy odpowiednio jednostki organizacyjnej Policji lub Straży Granicznej, w terminie 30 dni od dnia otrzymania rachunku.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1499, 1629, 2192, 2193 i 2432 oraz z 2019 r. poz. 730. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 29 sierpnia 2001 r. w sprawie sposobu udzielania przez Policję lub Straż Graniczną pomocy lub asysty organowi egzekucyjnemu i egzekutorowi przy wykonywaniu czynności egzekucyjnych (Dz. U. poz. 1106), które utraciło moc na podstawie art. 389 ust. 2 pkt 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 29 sierpnia 2001 r. w sprawie sposobu udzielania przez Policję lub Straż Graniczną pomocy lub asysty organowi egzekucyjnemu i egzekutorowi przy wykonywaniu czynności egzekucyjnych (Dz. U. poz. 1106), które utraciło moc na podstawie art. 389 ust. 2 pkt 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1499, 1629, 2192, 2193 i 2432 oraz z 2019 r. poz. 730. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 29 sierpnia 2001 r. w sprawie sposobu udzielania przez Policję lub Straż Graniczną pomocy lub asysty organowi egzekucyjnemu i egzekutorowi przy wykonywaniu czynności egzekucyjnych (Dz. U. poz. 1106), które utraciło moc na podstawie art. 389 ust. 2 pkt 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562, 1669, 2245 i 2399 oraz z 2019 r. poz. 125).
 

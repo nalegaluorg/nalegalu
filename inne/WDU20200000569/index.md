@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-31 |
 | Data wydania | 2020-03-31 |
-| Wejście w życie | 2020-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000569) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/569/text.pdf) |
 
@@ -36,7 +35,12 @@ source: "eli-html"
 - **1)** obejmowaniu lub nabywaniu udziałów, akcji, warrantów subskrypcyjnych lub obligacji oraz przystępowaniu do spółek osobowych;
 - **2)** udzielaniu pożyczek, gwarancji i poręczeń;
 - **3)** obejmowaniu lub nabywaniu jednostek uczestnictwa i certyfikatów inwestycyjnych funduszy inwestycyjnych, praw uczestnictwa alternatywnej spółki inwestycyjnej lub instytucji wspólnego inwestowania mających siedzibę za granicą w rozumieniu przepisów ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2020 r. poz. 95) oraz zarządzaniu funduszami inwestycyjnymi;
-- **4)** prowadzeniu innej działalności inwestycyjnej, o której mowa w art. 48b ust. 3 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351, 1495, 1571, 1655 i 1680). ” , w ust. 2: – w pkt 1 wyrazy „w zakresie inwestycji kapitałowych” zastępuje się wyrazami „w szczególności w związku z sytuacjami kryzysowymi, w tym rozprzestrzenianiem się choroby zakaźnej wywołanej wirusem SARS-CoV-2, zwanej dalej „COVID-19”, – pkt 4 otrzymuje brzmienie: „ 4) udzielanie, poza zakresem działalności gospodarczej, o której mowa w ust. 1, finansowania przedsiębiorcom na zasadach określonych w art. 12–16, zwane dalej „udzielaniem finansowania”; ” , – w pkt 5 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) podejmowanie działań służących zapobieganiu lub łagodzeniu skutków sytuacji kryzysowych w rozumieniu art. 3 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2019 r. poz. 1398 oraz z 2020 r. poz. 148, 284 i 374), w tym skutków rozprzestrzeniania się COVID-19, w szczególności poprzez: a) udzielanie wsparcia finansowego przedsiębiorcom i innym podmiotom dotkniętym tymi sytuacjami, w tym bezzwrotnego lub w formie gwarancji lub poręczeń, b) naprawienie lub pokrycie, w całości lub w części, szkód lub strat spowodowanych tymi sytuacjami – z wykorzystaniem środków własnych Polskiego Funduszu Rozwoju lub środków z innych źródeł. ” , w ust. 4 po użytym po raz pierwszy wyrazie „zadań” dodaje się wyrazy „, o których mowa w ust. 2 pkt 1, 4 i 6,”, ust. 6 otrzymuje brzmienie: „
+- **4)** prowadzeniu innej działalności inwestycyjnej, o której mowa w art. 48b ust. 3 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351, 1495, 1571, 1655 i 1680). ” , w ust. 2: – w pkt 1 wyrazy „w zakresie inwestycji kapitałowych” zastępuje się wyrazami „w szczególności w związku z sytuacjami kryzysowymi, w tym rozprzestrzenianiem się choroby zakaźnej wywołanej wirusem SARS-CoV-2, zwanej dalej „COVID-19”, pkt 4 otrzymuje brzmienie: „
+    - **b)**
+
+- **4)** udzielanie, poza zakresem działalności gospodarczej, o której mowa w ust. 1, finansowania przedsiębiorcom na zasadach określonych w art. 12–16, zwane dalej „udzielaniem finansowania”; ” , w pkt 5 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** podejmowanie działań służących zapobieganiu lub łagodzeniu skutków sytuacji kryzysowych w rozumieniu art. 3 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2019 r. poz. 1398 oraz z 2020 r. poz. 148, 284 i 374), w tym skutków rozprzestrzeniania się COVID-19, w szczególności poprzez: udzielanie wsparcia finansowego przedsiębiorcom i innym podmiotom dotkniętym tymi sytuacjami, w tym bezzwrotnego lub w formie gwarancji lub poręczeń, naprawienie lub pokrycie, w całości lub w części, szkód lub strat spowodowanych tymi sytuacjami – z wykorzystaniem środków własnych Polskiego Funduszu Rozwoju lub środków z innych źródeł. ” , w ust. 4 po użytym po raz pierwszy wyrazie „zadań” dodaje się wyrazy „, o których mowa w ust. 2 pkt 1, 4 i 6,”, ust. 6 otrzymuje brzmienie: „
+    - **a)**
     - **b)**
     - **c)**
     - **d)**
@@ -50,7 +54,7 @@ source: "eli-html"
 - **2)** w art. 12: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Polski Fundusz Rozwoju udziela finansowania, w szczególności mikroprzedsiębiorcom oraz małym i średnim przedsiębiorcom spełniającym warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.). ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+1. Polski Fundusz Rozwoju udziela finansowania, w szczególności mikroprzedsiębiorcom oraz małym i średnim przedsiębiorcom spełniającym warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
 - **b)**
 
@@ -97,8 +101,14 @@ source: "eli-html"
 
 - **7)** w art. 19 w ust. 2 pkt 5 otrzymuje brzmienie: „
 - **5)** analizę alternatywnych źródeł finansowania działań, których koszt ma być sfinansowany ze środków pochodzących z podwyższenia kapitału zakładowego Polskiego Funduszu Rozwoju; ” ;
-- **8)** w art. 21: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) inwestycje, w tym inwestycje kapitałowe; ” , – pkt 7 otrzymuje brzmienie: „ 7) zapobieganie lub naprawienie szkód spowodowanych klęskami żywiołowymi, innymi sytuacjami kryzysowymi, w tym rozprzestrzenianiem się COVID-19; ” , – w pkt 12 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 13–15 w brzmieniu: „ 13) zadania powierzone przez organy administracji rządowej, inne jednostki wykonujące zadania publiczne lub jednostki samorządu terytorialnego; 14) inne zadania, jeżeli przepisy odrębne wskazują Polski Fundusz Rozwoju do ich wykonania; 15) koszty obsługi działań wymienionych w pkt 1–14. ” , dodaje się ust. 1a w brzmieniu: „
+- **8)** w art. 21: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** inwestycje, w tym inwestycje kapitałowe; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** zapobieganie lub naprawienie szkód spowodowanych klęskami żywiołowymi, innymi sytuacjami kryzysowymi, w tym rozprzestrzenianiem się COVID-19; ” , w pkt 12 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 13–15 w brzmieniu: „
+- **13)** zadania powierzone przez organy administracji rządowej, inne jednostki wykonujące zadania publiczne lub jednostki samorządu terytorialnego;
+- **14)** inne zadania, jeżeli przepisy odrębne wskazują Polski Fundusz Rozwoju do ich wykonania;
+- **15)** koszty obsługi działań wymienionych w pkt 1–14. ” , dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Finansowanie, o którym mowa w ust. 1, może być przeznaczone na spłatę zobowiązań zaciągniętych na potrzeby celów, o których mowa w ust. 1. ” ;
@@ -161,5 +171,5 @@ source: "eli-html"
 
 **Art. 2.** W przypadku przyjęcia w 2020 r. programu rządowego, o którym mowa w art. 21a ustawy zmienianej w art. 1, pierwszy roczny plan, o którym mowa w ust. 2, Polski Funduszu Rozwoju przedstawia w terminie miesiąca od dnia przyjęcia programu przez Radę Ministrów. Do tego czasu Polski Fundusz Rozwoju działa na podstawie projektu planu.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
 

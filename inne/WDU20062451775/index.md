@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 grudnia 2006 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej i niektórych innych ustaw
+# Ustawa z dnia 7 grudnia 2006 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej i niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 15 listopada 1984 r. o podatku rolnym, ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 30 października 2002 r. o podatku leśnym i ustawę z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-07 |
 | Data wydania | 2006-12-28 |
-| Wejście w życie | 2007-01-12 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062451775) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1775/text.pdf) |
 
@@ -101,7 +100,7 @@ source: "eli-html"
 - **3)** propozycje zmian przedstawione w celu zapewnienia zgodności postanowień projektu ze wspólnym rynkiem;
 - **4)** stanowisko w sprawie obowiązku notyfikacji projektu.
 
-5. Do opinii, o której mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.). ” ;
+5. Do opinii, o której mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692 oraz z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524.). ” ;
 
 - **9)** w art. 13 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
 
@@ -312,13 +311,13 @@ source: "eli-html"
 - **1)** udzielanie pomocy w ramach wyłączeń grupowych;
 - **2)** udzielanie pomocy de minimis. ” .
 
-**Art. 4.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.) w art. 14 ust. 5 otrzymuje brzmienie: „ 5. Właściciele lub użytkownicy wieczyści gruntów mogą otrzymać dotacje z budżetu państwa przeznaczone na całkowite lub częściowe pokrycie kosztów zalesienia gruntów, o których mowa w ust. 3. Decyzję w sprawie przyznania środków na pokrycie tych kosztów wydaje starosta na wniosek właściciela lub użytkownika wieczystego, po zaopiniowaniu przez wójta (burmistrza, prezydenta miasta), z uwzględnieniem przepisów dotyczących pomocy publicznej. ” . W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) w art. 105 w ust. 1 w pkt 2 w lit. p kropkę zastępuje się przecinkiem i dodaje się lit. r w brzmieniu: „
+**Art. 4.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462 oraz z 2006 r. Nr 227, poz. 1658.) w art. 14 ust. 5 otrzymuje brzmienie: „ 5. Właściciele lub użytkownicy wieczyści gruntów mogą otrzymać dotacje z budżetu państwa przeznaczone na całkowite lub częściowe pokrycie kosztów zalesienia gruntów, o których mowa w ust. 3. Decyzję w sprawie przyznania środków na pokrycie tych kosztów wydaje starosta na wniosek właściciela lub użytkownika wieczystego, po zaopiniowaniu przez wójta (burmistrza, prezydenta miasta), z uwzględnieniem przepisów dotyczących pomocy publicznej. ” . W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538 oraz z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119 i Nr 190, poz. 1401.) w art. 105 w ust. 1 w pkt 2 w lit. p kropkę zastępuje się przecinkiem i dodaje się lit. r w brzmieniu: „
 
 Prezesa Urzędu Ochrony Konkurencji i Konsumentów w zakresie określonym ustawą z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291 oraz z 2006 r. Nr 191, poz. 1411 i Nr 245, poz. 1775), ” .
 
 - **r)**
 
-**Art. 6.** W ustawie z dnia 30 października 2002 r. o podatku leśnym (Dz. U. Nr 200, poz. 1682, z późn. zm.) w art. 7 ust. 3 otrzymuje brzmienie: „ 3. Rada gminy, w drodze uchwały, może wprowadzić inne zwolnienia przedmiotowe niż określone w ust. 1, z uwzględnieniem przepisów dotyczących pomocy publicznej. ” .
+**Art. 6.** W ustawie z dnia 30 października 2002 r. o podatku leśnym (Dz. U. Nr 200, poz. 1682, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 216, poz. 1826 oraz z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1365 i Nr 179, poz. 1484.) w art. 7 ust. 3 otrzymuje brzmienie: „ 3. Rada gminy, w drodze uchwały, może wprowadzić inne zwolnienia przedmiotowe niż określone w ust. 1, z uwzględnieniem przepisów dotyczących pomocy publicznej. ” .
 
 **Art. 7.** W ustawie z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411) w art. 21 pkt 3 otrzymuje brzmienie: „
 

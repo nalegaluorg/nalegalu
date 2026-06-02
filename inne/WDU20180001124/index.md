@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 4 czerwca 2018 r. w sprawie Rejestru Należności Publicznoprawnych
+# Rozporządzenie Ministra Finansówz dnia 4 czerwca 2018 r. w sprawie Rejestru Należności Publicznoprawnych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-04 |
 | Data wydania | 2018-06-12 |
-| Wejście w życie | 2018-06-13 |
 | Ostatnia zmiana | 2024-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001124) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1124/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 18m ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 18m ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000, 1009 i 1104.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -207,6 +206,5 @@ pkt 9 ustawy, podaje się informację o zakończeniu postępowania, w którym uc
 § 11.
 Do rejestru wprowadza się dane w formacie XML według struktury logicznej udostępnionej w Biuletynie Informacji Publicznej na stronie podmiotowej organu prowadzącego rejestr.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000, 1009 i 1104.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1475, 1954 i 2491 oraz z 2018 r. poz. 138, 398, 1000, 1009 i 1104.
 

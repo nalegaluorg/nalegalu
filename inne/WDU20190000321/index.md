@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 14 lutego 2019 r. zmieniające rozporządzenie w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie przez osobę prawną lub osobę fizyczną szkoły lub placówki publicznej
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 14 lutego 2019 r. zmieniające rozporządzenie w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie przez osobę prawną lub osobę fizyczną szkoły lub placówki publicznej Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-02-14 |
 | Data wydania | 2019-02-20 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000321) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/321/text.pdf) |
 
@@ -35,37 +34,32 @@ w § 3:
 a)
 w ust. 1 w pkt 3:
 – wprowadzenie do wyliczenia otrzymuje brzmienie: „ określenie typu szkoły lub rodzaju placówki publicznej, daty rozpoczęcia jej działalności, przewidywanej liczby uczniów, słuchaczy lub wychowanków oraz: ” ,
-– lit. a otrzymuje brzmienie: „ a) w przypadku szkoły podstawowej i liceum ogólnokształcącego – wskazanie, czy szkoła jest przeznaczona dla dzieci i młodzieży czy dla dorosłych, ” ,
-– w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ f) w przypadku publicznej placówki kształcenia ustawicznego i publicznego centrum kształcenia zawodowego – wskazanie, czy placówka lub centrum będzie posiadać filię lub filie, organizacyjnie podporządkowane odpowiednio tej placówce lub temu centrum; ” ,
+lit. a otrzymuje brzmienie: „
+a)
+w przypadku szkoły podstawowej i liceum ogólnokształcącego – wskazanie, czy szkoła jest przeznaczona dla dzieci i młodzieży czy dla dorosłych, ” ,
+w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „
+f)
+w przypadku publicznej placówki kształcenia ustawicznego i publicznego centrum kształcenia zawodowego – wskazanie, czy placówka lub centrum będzie posiadać filię lub filie, organizacyjnie podporządkowane odpowiednio tej placówce lub temu centrum; ” ,
 b)
-w ust. 2 pkt 5 otrzymuje brzmienie:
-„
+w ust. 2 pkt 5 otrzymuje brzmienie: „
 5)
-opinie właściwego miejscowo komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej i państwowego powiatowego inspektora sanitarnego o warunkach bezpieczeństwa i higieny w budynku, w którym będzie się mieścić szkoła lub placówka publiczna, i najbliższym jego otoczeniu, a w przypadku szkoły podstawowej, o której mowa w art. 95 ust. 3 ustawy, oraz publicznej placówki kształcenia ustawicznego i publicznego centrum kształcenia zawodowego, również opinie o warunkach bezpieczeństwa i higieny w budynkach, w których będą mieścić się odpowiednio szkoły filialne lub filie placówki lub centrum, i najbliższym ich otoczeniu;
-” ;
+opinie właściwego miejscowo komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej i państwowego powiatowego inspektora sanitarnego o warunkach bezpieczeństwa i higieny w budynku, w którym będzie się mieścić szkoła lub placówka publiczna, i najbliższym jego otoczeniu, a w przypadku szkoły podstawowej, o której mowa w art. 95 ust. 3 ustawy, oraz publicznej placówki kształcenia ustawicznego i publicznego centrum kształcenia zawodowego, również opinie o warunkach bezpieczeństwa i higieny w budynkach, w których będą mieścić się odpowiednio szkoły filialne lub filie placówki lub centrum, i najbliższym ich otoczeniu; ” ;
 2)
-w § 4 w ust. 1 pkt 3 otrzymuje brzmienie:
-„
+w § 4 w ust. 1 pkt 3 otrzymuje brzmienie: „
 3)
-w przypadku szkoły prowadzącej kształcenie zawodowe – zawód lub zawody, w jakich szkoła będzie kształcić, są zgodne z klasyfikacją zawodów szkolnictwa branżowego;
-” ;
+w przypadku szkoły prowadzącej kształcenie zawodowe – zawód lub zawody, w jakich szkoła będzie kształcić, są zgodne z klasyfikacją zawodów szkolnictwa branżowego; ” ;
 3)
 w § 5 w ust. 1:
 a)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-w przypadku szkoły podstawowej i liceum ogólnokształcącego – wskazanie, czy szkoła jest przeznaczona dla dzieci i młodzieży czy dla dorosłych;
-” ,
+w przypadku szkoły podstawowej i liceum ogólnokształcącego – wskazanie, czy szkoła jest przeznaczona dla dzieci i młodzieży czy dla dorosłych; ” ,
 b)
-w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
-„
+w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
 8)
-w przypadku publicznej placówki kształcenia ustawicznego i publicznego centrum kształcenia zawodowego – wskazanie, czy placówka lub centrum będzie posiadać filię lub filie, organizacyjnie podporządkowane odpowiednio tej placówce lub temu centrum.
-” .
+w przypadku publicznej placówki kształcenia ustawicznego i publicznego centrum kształcenia zawodowego – wskazanie, czy placówka lub centrum będzie posiadać filię lub filie, organizacyjnie podporządkowane odpowiednio tej placówce lub temu centrum. ” .
 § 2.
 Do wniosków o udzielenie zezwolenia na założenie szkoły lub placówki publicznej złożonych i nierozpatrzonych przed dniem 1 września 2019 r. stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

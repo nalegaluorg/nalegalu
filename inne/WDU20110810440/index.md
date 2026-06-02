@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-03-18 |
 | Data wydania | 2011-04-18 |
-| Wejście w życie | 2011-05-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110810440) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/440/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738 oraz z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427.) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 ust. 2 otrzymuje brzmienie: „
 
@@ -148,7 +147,7 @@ source: "eli-html"
 
 1. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych z zakresu pomocy społecznej, przy czym wysokość dotacji nie może przekroczyć 80% kosztów realizacji zadania, z zastrzeżeniem ust. 2.
 
-2. Jeżeli środki przeznaczone na dotację, o której mowa w ust. 1, pochodzą z programów rządowych, programów resortowych, pożyczek, o których mowa w art. 5 ust. 1 pkt 4 lit. d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.) lub służą wypłacie zasiłków celowych na pokrycie wydatków powstałych w wyniku zdarzenia losowego, wysokość dotacji może przekroczyć 80% kosztów realizacji zadania. ” ;
+2. Jeżeli środki przeznaczone na dotację, o której mowa w ust. 1, pochodzą z programów rządowych, programów resortowych, pożyczek, o których mowa w art. 5 ust. 1 pkt 4 lit. d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726.) lub służą wypłacie zasiłków celowych na pokrycie wydatków powstałych w wyniku zdarzenia losowego, wysokość dotacji może przekroczyć 80% kosztów realizacji zadania. ” ;
 
 - **22)** w art. 116 ust. 3 otrzymuje brzmienie: „
 
@@ -161,10 +160,13 @@ source: "eli-html"
 
 - **b)**
 
-2a. Koszty działalności Komisji, w tym wynagrodzenia członków Komisji, są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zabezpieczenia społecznego. ” , w ust. 3: – pkt 4 otrzymuje brzmienie: „ 4) powoływanie i odwoływanie przewodniczącego i członków regionalnych komisji egzaminacyjnych do spraw stopni specjalizacji zawodowej w zawodzie pracownika socjalnego; ” , – pkt 6 otrzymuje brzmienie: „ 6) opiniowanie dla ministra właściwego do spraw zabezpieczenia społecznego programów szkoleń z zakresu I i II stopnia specjalizacji w zawodzie pracownik socjalny i przedstawianie informacji na temat zasobów jednostek, o których mowa w art. 116 ust. 3; opiniowanie kandydatów na konsultantów prac dyplomowych na II stopień specjalizacji, o których mowa w art. 118a pkt 8; ” , – w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 w brzmieniu: „ 9) nadawanie certyfikatu superwizora pracy socjalnej i prowadzenie rejestru wydanych certyfikatów. ” , dodaje się ust. 4 i 5 w brzmieniu: „
+2a. Koszty działalności Komisji, w tym wynagrodzenia członków Komisji, są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zabezpieczenia społecznego. ” , w ust. 3: pkt 4 otrzymuje brzmienie: „
 
 - **c)**
-- **d)**
+- **4)** powoływanie i odwoływanie przewodniczącego i członków regionalnych komisji egzaminacyjnych do spraw stopni specjalizacji zawodowej w zawodzie pracownika socjalnego; ” , pkt 6 otrzymuje brzmienie: „
+- **6)** opiniowanie dla ministra właściwego do spraw zabezpieczenia społecznego programów szkoleń z zakresu I i II stopnia specjalizacji w zawodzie pracownik socjalny i przedstawianie informacji na temat zasobów jednostek, o których mowa w art. 116 ust. 3; opiniowanie kandydatów na konsultantów prac dyplomowych na II stopień specjalizacji, o których mowa w art. 118a pkt 8; ” , w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 w brzmieniu: „
+- **9)** nadawanie certyfikatu superwizora pracy socjalnej i prowadzenie rejestru wydanych certyfikatów. ” , dodaje się ust. 4 i 5 w brzmieniu: „
+    - **d)**
 
 4. Za egzamin, o którym mowa w ust. 3 pkt 1, w tym za egzamin poprawkowy, osoby przystępujące do egzaminu wnoszą opłatę w wysokości 10% przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym.
 
@@ -206,7 +208,7 @@ source: "eli-html"
 - **10)** warunki, jakie powinny spełniać podmioty prowadzące szkolenia w zakresie specjalizacji, dla zapewnienia odpowiedniego poziomu szkolenia,
 - **11)** tryb wnoszenia odpłatności za egzamin na I i II stopień specjalizacji w zawodzie pracownik socjalny,
 - **12)** organizację i sposób przeprowadzania egzaminu na I i II stopień specjalizacji w zawodzie pracownik socjalny,
-- **13)** zasady wyboru jednostki organizacyjnej, o której mowa w art. 117 ust. 5, i warunki jej współpracy z Komisją w zakresie organizacji egzaminów na II stopień specjalizacji w zawodzie pracownik socjalny uwzględniając potrzebę zapewnienia odpowiedniego poziomu szkolenia, odpowiedniego poziomu przygotowania pracowników socjalnych do wykonywania przez nich specjalistycznych zadań z zakresu pracy socjalnej, odpowiedniego poziomu świadczonych usług przez pracowników socjalnych, ujednolicenia wymogów dotyczących nadawania I i II stopnia specjalizacji zawodowej w zawodzie pracownika socjalnego, ujednolicenia wzoru dyplomu uzyskania I i II stopnia specjalizacji zawodowej w zawodzie pracownika socjalnego oraz ujednolicenia wymogów prowadzenia szkoleń i przeprowadzania egzaminów z zakresu I i II stopnia specjalizacji zawodowej w zawodzie pracownika socjalnego. ” ;
+- **13)** zasady wyboru jednostki organizacyjnej, o której mowa w art. 117 ust. 5, i warunki jej współpracy z Komisją w zakresie organizacji egzaminów na II stopień specjalizacji w zawodzie pracownik socjalny – uwzględniając potrzebę zapewnienia odpowiedniego poziomu szkolenia, odpowiedniego poziomu przygotowania pracowników socjalnych do wykonywania przez nich specjalistycznych zadań z zakresu pracy socjalnej, odpowiedniego poziomu świadczonych usług przez pracowników socjalnych, ujednolicenia wymogów dotyczących nadawania I i II stopnia specjalizacji zawodowej w zawodzie pracownika socjalnego, ujednolicenia wzoru dyplomu uzyskania I i II stopnia specjalizacji zawodowej w zawodzie pracownika socjalnego oraz ujednolicenia wymogów prowadzenia szkoleń i przeprowadzania egzaminów z zakresu I i II stopnia specjalizacji zawodowej w zawodzie pracownika socjalnego. ” ;
 - **26)** po art. 121 dodaje się art. 121a w brzmieniu: „
 
 **Art. 121a.**
@@ -224,7 +226,7 @@ source: "eli-html"
 - **5)** wzór certyfikatu superwizora pracy socjalnej, o którym mowa w ust. 2,
 - **6)** tryb sporządzania i udostępniania do wiadomości publicznej list certyfikowanych superwizorów pracy socjalnej,
 - **7)** podmioty uprawnione do prowadzenia szkolenia z zakresu superwizji pracy socjalnej,
-- **8)** zasady i tryb prowadzenia nadzoru merytorycznego nad szkoleniami dla superwizorów pracy socjalnej uwzględniając potrzebę zapewnienia odpowiedniego poziomu szkolenia i przygotowania superwizorów pracy socjalnej, odpowiedniego poziomu świadczonych usług, ujednolicenia wymogów dotyczących nadawania certyfikatu superwizora, ujednolicenia wzoru certyfikatu, oraz ujednolicenia wymogów prowadzenia szkoleń z zakresu superwizji pracy socjalnej. ” ;
+- **8)** zasady i tryb prowadzenia nadzoru merytorycznego nad szkoleniami dla superwizorów pracy socjalnej – uwzględniając potrzebę zapewnienia odpowiedniego poziomu szkolenia i przygotowania superwizorów pracy socjalnej, odpowiedniego poziomu świadczonych usług, ujednolicenia wymogów dotyczących nadawania certyfikatu superwizora, ujednolicenia wzoru certyfikatu, oraz ujednolicenia wymogów prowadzenia szkoleń z zakresu superwizji pracy socjalnej. ” ;
 - **27)** w art. 122: ust. 3 otrzymuje brzmienie: „
     - **a)**
 
@@ -232,10 +234,10 @@ source: "eli-html"
 
 - **b)**
 
-**Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235 i Nr 73, poz. 390.) wprowadza się następujące zmiany:
 
 - **1)** w art. 66 w ust. 1 pkt 30 otrzymuje brzmienie: „
-- **30)** osoby objęte indywidualnym programem zatrudnienia socjalnego lub realizujące kontrakt socjalny w wyniku zastosowania procedury, o której mowa w art. 50 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.), niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu; ” ;
+- **30)** osoby objęte indywidualnym programem zatrudnienia socjalnego lub realizujące kontrakt socjalny w wyniku zastosowania procedury, o której mowa w art. 50 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235.), niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu; ” ;
 - **2)** w art. 75 ust. 12 otrzymuje brzmienie: „
 
 12. Osoby, o których mowa w art. 66 ust. 1 pkt 29 i 30, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej realizujący indywidualny program zatrudnienia socjalnego lub indywidualny program wychodzenia z bezdomności lub ośrodek pomocy społecznej realizujący kontrakt socjalny w wyniku zastosowania procedury, o której mowa w art. 50 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. ” ;
@@ -258,6 +260,6 @@ source: "eli-html"
 - **1)** art. 4, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2010 r.;
 - **2)** art. 1 pkt 22 i 27 oraz art. 3, które wchodzą w życie z dniem 1 października 2012 r.;
 - **3)** art. 1 pkt 26, który wchodzi w życie z dniem 31 grudnia 2013 r.;
-- **4)** art. 1 pkt 18, który wchodzi w życie z dniem 1 stycznia 2015 r.
+- **4)** art. 1 pkt 18, który wchodzi w życie z dniem 1 stycznia 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 202, poz. 1551, Nr 219, poz. 1706 i Nr 221, poz. 1738 oraz z 2010 r. Nr 28, poz. 146, Nr 40, poz. 229, Nr 81, poz. 527, Nr 125, poz. 842 i Nr 217, poz. 1427. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235 i Nr 73, poz. 390. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235.
 
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-18 |
 | Data wydania | 2015-09-25 |
-| Wejście w życie | 2015-09-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001471) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1471/text.pdf) |
 
@@ -162,7 +161,7 @@ W przypadku niewykonania zadania w terminie określonym w umowie, dofinansowanie
 2.
 W przypadku częściowego niewykonania zadania w terminie określonym w umowie, dofinansowanie podlega zwrotowi na rachunek Funduszu w części proporcjonalnej do stopnia niewykonania tego zadania w terminie 15 dni od upływu określonego w umowie terminu realizacji zadania.
 § 13.
-W przypadku stwierdzenia wykorzystania dofinansowania niezgodnie z przeznaczeniem, pobrania nienależnie lub w nadmiernej wysokości oraz w odniesieniu do zwrotu dofinansowania niewykorzystanego stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) w zakresie dotyczącym dotacji udzielanych z budżetu państwa.
+W przypadku stwierdzenia wykorzystania dofinansowania niezgodnie z przeznaczeniem, pobrania nienależnie lub w nadmiernej wysokości oraz w odniesieniu do zwrotu dofinansowania niewykorzystanego stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269 i 1358.) w zakresie dotyczącym dotacji udzielanych z budżetu państwa.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269 i 1358.
 

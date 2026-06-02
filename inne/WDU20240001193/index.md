@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 26 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury i Dziedzictwa Narodowego w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych
+# Obwieszczenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 26 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury i Dziedzictwa Narodowego w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 22 sierpnia 2019 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1624), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 2023 r. zmieniającym rozporządzenie w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1333).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 2023 r. zmieniającego rozporządzenie w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1333), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 2023 r. zmieniającego rozporządzenie w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1333), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740).
-Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 22 sierpnia 2019 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740).
+Załącznik – Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 22 sierpnia 2019 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznychNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury i Dziedzictwa Narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740).
 Na podstawie art. 113 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854) zarządza się, co następuje:
 § 1.
 1.
@@ -87,16 +84,16 @@ Szkole imię nadaje organ prowadzący szkołę na wniosek rady szkoły, a w przy
 2.
 W szkole, w której nie tworzy się rady rodziców, imię nadaje organ prowadzący szkołę na wspólny wniosek rady pedagogicznej i samorządu uczniowskiego.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. a rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 2023 r. zmieniającego rozporządzenie w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1333), które weszło w życie z dniem 14 lipca 2023 r.
 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. a rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 2023 r. zmieniającego rozporządzenie w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1333), które weszło w życie z dniem 14 lipca 2023 r.
 5.
 Wniosek, o którym mowa w ust. 1, zawiera uzasadnienie wyboru imienia oraz określa plan działań szkoły związanych z nadaniem imienia szkole i przewidywany termin uroczystości.
 6.
 Organ prowadzący szkołę rozpatruje wniosek, o którym mowa w ust. 1, w terminie 60 dni od dnia złożenia wniosku.
 7.
 Placówce imię nadaje organ prowadzący placówkę na wniosek rady pedagogicznej. Przepisy ust. 5 i 6 stosuje się odpowiednio.
-8.
+8Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Do zmiany imienia szkoły lub placówki albo uchylenia jego nadania przepisy ust. 1 i 2 oraz 5–7 stosuje się odpowiednio.
 § 4.
 1.
@@ -143,14 +140,13 @@ W placówce w ramach każdej specjalności kształcenia tworzy się dział dziec
 W placówce może być utworzony przez dyrektora placówki zespół problemowo-zadaniowy. Pracę zespołu koordynuje przewodniczący zespołu powoływany przez dyrektora placówki. Przepisy § 4 ust. 4 pkt 1 i 2 oraz ust. 7 stosuje się odpowiednio.
 § 7.
 Stanowisko wicedyrektora może być utworzone w placówce, w której realizuje się tygodniowo co najmniej 400 godzin zajęć dydaktycznych, wychowawczych i opiekuńczych.
-§ 8.
+§ 8W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 W szkole obowiązkowe zajęcia edukacyjne:
 1)
 ogólnokształcące – są organizowane w systemie klasowo-lekcyjnym w oddziale, grupie oddziałowej, grupie międzyoddziałowej, grupie międzyklasowej lub grupie międzyszkolnej,
 2)
-artystyczne – są organizowane w formie indywidualnej lub grupowej, w tym w systemie klasowo-lekcyjnym w oddziale, grupie oddziałowej, grupie międzyoddziałowej, grupie międzyklasowej lub grupie międzyszkolnej
-zgodnie z zasadami określonymi w przepisach wydanych na podstawie art. 47 ust. 1a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą”.
+artystyczne – są organizowane w formie indywidualnej lub grupowej, w tym w systemie klasowo-lekcyjnym w oddziale, grupie oddziałowej, grupie międzyoddziałowej, grupie międzyklasowej lub grupie międzyszkolnej – zgodnie z zasadami określonymi w przepisach wydanych na podstawie art. 47 ust. 1a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą”.
 2.
 Zajęcia edukacyjne mogą być prowadzone w szkole także w formie plenerów artystycznych, obozów naukowych lub artystycznych, realizacji spektakli, przedstawień, koncertów i wystaw.
 3.
@@ -160,7 +156,7 @@ W placówce obowiązkowe zajęcia edukacyjne artystyczne są organizowane w form
 § 9.
 1.
 Szkoła organizuje udział uczniów w formach badania jakości kształcenia artystycznego, o których mowa w art. 53 ust. 1b ustawy, przeprowadzanego przez specjalistyczną jednostkę nadzoru, o której mowa w art. 53 ust. 1 ustawy.
-2.
+2Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2..
 Szkoła lub placówka może organizować uczniom udział w wydarzeniach artystycznych zgodnie ze specyfiką kształcenia artystycznego, w szczególności w koncertach, wystawach i festiwalach.
 3.
 Udział w formach badania jakości kształcenia artystycznego, o których mowa w ust. 1, i w wydarzeniach artystycznych, o których mowa w ust. 2, szkoła może organizować także w czasie dni wolnych od zajęć dydaktyczno-wychowawczych, z wyjątkiem ferii szkolnych.
@@ -232,7 +228,7 @@ Za zgodą organu prowadzącego szkołę internat może prowadzić działalność
 § 13.
 1.
 Arkusz organizacji szkoły realizującej kształcenie ogólne zawiera w szczególności informacje dotyczące:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 liczby klas z wyodrębnieniem liczby uczniów kształcących się w danej specjalności lub specjalizacji, a w przypadku ogólnokształcącej szkoły muzycznej I stopnia – także z wyodrębnieniem liczby uczniów kształcących się w zakresie gry na poszczególnych instrumentach głównych oraz w zakresie przedmiotu głównego – rytmiki;
 2)
 liczby oddziałów i grup w poszczególnych klasach;
@@ -249,16 +245,16 @@ tygodniowego wymiaru godzin zajęć: religii, etyki i wychowania do życia w rod
 c)
 tygodniowego wymiaru godzin zajęć rewalidacyjnych dla uczniów niepełnosprawnych,
 d)
-(uchylona),
+(uchylona),Przez § 1 pkt 4 lit. a tiret drugie podwójne tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
 e)
 tygodniowego wymiaru i przeznaczenia godzin do dyspozycji dyrektora szkoły,
-f)
+fDodana przez § 1 pkt 4 lit. a tiret drugie podwójne tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 wymiaru i przeznaczenia godzin, które organ prowadzący szkołę może dodatkowo przyznać w danym roku szkolnym na zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych;
 6)
 liczby pracowników ogółem;
 7)
 imienia, nazwiska, stopnia awansu zawodowego, stażu pracy i kwalifikacji poszczególnych nauczycieli, rodzaju prowadzonych przez nich zajęć i liczby godzin tych zajęć w poszczególnych klasach, z wyodrębnieniem nauczycieli zajmujących stanowiska kierownicze;
-8)
+8W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 liczby nauczycieli, o których mowa w art. 9d ust. 8 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986), zwanej dalej „ustawą – Karta Nauczyciela”;
 9)
 liczby nauczycieli, z wyszczególnieniem liczby nauczycieli zajmujących stanowiska kierownicze;
@@ -277,8 +273,7 @@ innych zajęć wspomagających proces kształcenia, realizowanych w szczególno�
 e)
 zajęć opiekuńczo-wychowawczych w świetlicy,
 f)
-zajęć opiekuńczo-wychowawczych w internacie,
-fa)zajęć, o których mowa w art. 109 ust. 4 ustawy,
+zajęć opiekuńczo-wychowawczych w internacie, fa)Dodana przez § 1 pkt 4 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2.zajęć, o których mowa w art. 109 ust. 4 ustawy,
 g)
 ponadwymiarowych;
 12)
@@ -286,14 +281,14 @@ szczegółowego harmonogramu zajęć realizowanych w formie innej niż lekcyjno-
 2.
 Arkusz organizacji szkoły realizującej wyłącznie kształcenie artystyczne zawiera w szczególności informacje dotyczące:
 1)
-liczby klas z wyodrębnieniem liczby uczniów kształcących się w realizowanych przez szkołę cyklach kształcenia w danej specjalności lub specjalizacji, a w przypadku szkoły muzycznej I stopnia – także z wyodrębnieniem liczby uczniów kształcących się w zakresie gry na poszczególnych instrumentach głównych, z wyszczególnieniem:
+liczby klas z wyodrębnieniem liczby uczniów kształcących się w realizowanych przez szkołę cyklach kształcenia w danej specjalności lub specjalizacji, a w przypadku szkoły muzycznej I stopnia – także z wyodrębnieniem liczby uczniów kształcących się w zakresie gry na poszczególnych instrumentach głównych, z wyszczególnieniem:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret pierwsze podwójne tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
 a)
 tygodniowego wymiaru godzin obowiązkowych zajęć edukacyjnych artystycznych, w tym godzin zajęć realizowanych w grupach,
 b)
-(uchylona),
+(uchylona),Przez § 1 pkt 4 lit. b tiret pierwsze podwójne tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
 c)
 tygodniowego wymiaru i przeznaczenia godzin do dyspozycji dyrektora szkoły,
-d)
+dDodana przez § 1 pkt 4 lit. b tiret pierwsze podwójne tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 wymiaru i przeznaczenia godzin, które organ prowadzący szkołę może dodatkowo przyznać w danym roku szkolnym na zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych;
 2)
 liczby grup w poszczególnych klasach;
@@ -303,7 +298,7 @@ liczby uczniów w poszczególnych grupach;
 liczby pracowników ogółem;
 5)
 imienia, nazwiska, stopnia awansu zawodowego, stażu pracy i kwalifikacji poszczególnych nauczycieli, rodzaju prowadzonych przez nich zajęć i liczby godzin tych zajęć w poszczególnych klasach, z wyodrębnieniem nauczycieli zajmujących stanowiska kierownicze;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 liczby nauczycieli, o których mowa w art. 9d ust. 8 ustawy – Karta Nauczyciela;
 7)
 liczby nauczycieli, z wyszczególnieniem liczby nauczycieli zajmujących stanowiska kierownicze;
@@ -314,9 +309,8 @@ liczby godzin zajęć finansowanych ze środków przydzielonych przez organ prow
 a)
 zajęć dydaktycznych i opiekuńczych,
 b)
-zajęć opiekuńczo-wychowawczych w świetlicy, w przypadku prowadzenia przez szkołę świetlicy,
-ba)zajęć opiekuńczo-wychowawczych w internacie,
-bb)
+zajęć opiekuńczo-wychowawczych w świetlicy, w przypadku prowadzenia przez szkołę świetlicy, ba)Dodana przez § 1 pkt 4 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.zajęć opiekuńczo-wychowawczych w internacie,
+bbDodana przez § 1 pkt 4 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.)
 zajęć, o których mowa w art. 109 ust. 4 ustawy,
 c)
 ponadwymiarowych;
@@ -338,7 +332,7 @@ liczby uczniów w poszczególnych grupach;
 liczby pracowników ogółem;
 5)
 imienia, nazwiska, stopnia awansu zawodowego, stażu pracy i kwalifikacji poszczególnych nauczycieli, rodzaju prowadzonych przez nich zajęć i liczby godzin tych zajęć, z wyodrębnieniem nauczycieli zajmujących stanowiska kierownicze;
-6)
+6W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2.)
 liczby nauczycieli, o których mowa w art. 9d ust. 8 ustawy – Karta Nauczyciela;
 7)
 liczby nauczycieli, z wyszczególnieniem liczby nauczycieli zajmujących stanowiska kierownicze;
@@ -368,22 +362,21 @@ opinie, o których mowa w ust. 5, są wydawane w terminie 4 dni roboczych od dni
 opinia, o której mowa w ust. 6, jest wydawana w terminie 7 dni roboczych od dnia otrzymania przez organ sprawujący nadzór pedagogiczny informacji o dokonanych zmianach;
 3)
 organ prowadzący szkołę zatwierdza zmiany w terminie 7 dni roboczych od dnia otrzymania opinii, o których mowa w ust. 5 i 6.
-8a.
+8aDodany przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku wprowadzenia zmian do zatwierdzonego arkusza organizacji szkoły po dniu 30 września, organ prowadzący szkołę zatwierdza te zmiany w terminie 7 dni roboczych od dnia ich otrzymania.
 9.
 Dyrektor placówki opracowuje i przekazuje arkusz organizacji placówki organowi prowadzącemu placówkę w terminie do dnia 10 lipca danego roku. Organ prowadzący placówkę zatwierdza arkusz organizacji placówki w terminie do dnia 31 lipca danego roku.
 § 14.
 1.
 Zajęcia dydaktyczno-wychowawcze w szkołach są realizowane przez 5 dni w tygodniu.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Dyrektor szkoły może, po zasięgnięciu opinii rady szkoły, jeżeli została utworzona, rady pedagogicznej i rady rodziców, zdecydować, że zajęcia edukacyjne artystyczne są realizowane przez 6 dni w tygodniu, jeżeli poprawi to warunki kształcenia w szkole i efektywność prowadzonych zajęć.
 3.
 W przypadku, o którym mowa w ust. 2, dyrektor szkoły powiadamia, przed rozpoczęciem ferii letnich, organ prowadzący szkołę, uczniów i ich rodziców o organizacji tygodnia pracy w następnym roku szkolnym.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 W szkołach w dni wolne od zajęć mogą być organizowane zajęcia wychowawczo-opiekuńcze, imprezy artystyczne i inne służące upowszechnianiu kultury.
 § 15.
 Do dnia 31 sierpnia 2020 r. organy prowadzące szkołę lub placówkę dostosują do przepisów rozporządzenia nazwę szkoły lub placówki.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury i Dziedzictwa Narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740). 2) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 2023 r. zmieniającego rozporządzenie w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1333), które weszło w życie z dniem 14 lipca 2023 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 7) Przez § 1 pkt 4 lit. a tiret drugie podwójne tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 8) Dodana przez § 1 pkt 4 lit. a tiret drugie podwójne tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 10) Dodana przez § 1 pkt 4 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret pierwsze podwójne tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 12) Przez § 1 pkt 4 lit. b tiret pierwsze podwójne tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 13) Dodana przez § 1 pkt 4 lit. b tiret pierwsze podwójne tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 15) Dodana przez § 1 pkt 4 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2. 17) Dodany przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 2. 18) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 20) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 27 lipca 2018 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1531), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 27 lipca 2018 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1531), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287). 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – kultura i ochrona dziedzictwa narodowego kieruje Minister Kultury i Dziedzictwa Narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 740). 2) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 2023 r. zmieniającego rozporządzenie w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1333), które weszło w życie z dniem 14 lipca 2023 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 7) Przez § 1 pkt 4 lit. a tiret drugie podwójne tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 8) Dodana przez § 1 pkt 4 lit. a tiret drugie podwójne tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 4 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 10) Dodana przez § 1 pkt 4 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret pierwsze podwójne tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 12) Przez § 1 pkt 4 lit. b tiret pierwsze podwójne tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 13) Dodana przez § 1 pkt 4 lit. b tiret pierwsze podwójne tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 4 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 15) Dodana przez § 1 pkt 4 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 2. 17) Dodany przez § 1 pkt 4 lit. d rozporządzenia, o którym mowa w odnośniku 2. 18) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 20) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 27 lipca 2018 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1531), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 

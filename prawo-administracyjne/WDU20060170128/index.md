@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-01-27 |
 | Data wydania | 2006-02-02 |
-| Wejście w życie | 2006-02-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060170128) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/128/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.) w art. 28d ust. 2 otrzymuje brzmienie: „ 2. Wyborów nie przeprowadza się, jeżeli data wyborów przedterminowych miałaby przypaść w okresie 6 miesięcy przed zakończeniem kadencji wójta. Wyborów przedterminowych nie przeprowadza się także wtedy, jeżeli data wyborów miałaby przypaść w okresie dłuższym niż 6 a krótszym niż 12 miesięcy przed zakończeniem kadencji wójta i rada w terminie 30 dni od dnia podjęcia uchwały stwierdzającej wygaśnięcie mandatu wójta podejmie uchwałę o nieprzeprowadzaniu wyborów. ” .
+**Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759 oraz z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457.) w art. 28d ust. 2 otrzymuje brzmienie: „ 2. Wyborów nie przeprowadza się, jeżeli data wyborów przedterminowych miałaby przypaść w okresie 6 miesięcy przed zakończeniem kadencji wójta. Wyborów przedterminowych nie przeprowadza się także wtedy, jeżeli data wyborów miałaby przypaść w okresie dłuższym niż 6 a krótszym niż 12 miesięcy przed zakończeniem kadencji wójta i rada w terminie 30 dni od dnia podjęcia uchwały stwierdzającej wygaśnięcie mandatu wójta podejmie uchwałę o nieprzeprowadzaniu wyborów. ” .
 
-**Art. 2.** W ustawie z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760 oraz z 2005 r. Nr 175, poz. 1457.) wprowadza się następujące zmiany:
 
 - **1)** w art. 26 ust. 1 otrzymuje brzmienie: „
 
@@ -40,5 +39,5 @@ source: "eli-html"
 
 **Art. 3.** Przepisy ustawy stosuje się również do tych wyborów przedterminowych, których konieczność przeprowadzenia wynika z przyczyn, które wystąpiły przed dniem wejścia w życie ustawy, jeżeli przed tym dniem ich nie zarządzono.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759 oraz z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760 oraz z 2005 r. Nr 175, poz. 1457.
 

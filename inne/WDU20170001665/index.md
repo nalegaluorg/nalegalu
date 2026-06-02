@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-28 |
 | Data wydania | 2017-09-01 |
-| Wejście w życie | 2017-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1665/text.pdf) |
 
@@ -35,11 +34,9 @@ tytuł rozporządzenia otrzymuje brzmienie: „w sprawie realizacji przez Agencj
 2)
 w § 1 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Agencję Restrukturyzacji i Modernizacji Rolnictwa”;
 3)
-w § 2 pkt 2 otrzymuje brzmienie:
-„
+w § 2 pkt 2 otrzymuje brzmienie: „
 2)
-art. 4 ust. 1 lit. c i d rozporządzenia nr 324/2014, przeprowadza kontrole; do tych kontroli stosuje się odpowiednio art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych.
-” ;
+art. 4 ust. 1 lit. c i d rozporządzenia nr 324/2014, przeprowadza kontrole; do tych kontroli stosuje się odpowiednio art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych. ” ;
 4)
 użyty w § 5 w ust. 2 i 6 wyraz „terenowego” zastępuje się wyrazem „regionalnego”.
 § 2.

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 28 grudnia 2022 r. w sprawie nadania statutu Krajowemu Zasobowi Nieruchomości
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 28 grudnia 2022 r. w sprawie nadania statutu Krajowemu Zasobowi Nieruchomości Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-28 |
 | Data wydania | 2022-12-29 |
-| Wejście w życie | 2022-12-30 |
 | Ostatnia zmiana | 2025-07-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002837) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2837/text.pdf) |
 
 Treść rozporządzenia
-Załącznik – Statut Krajowego Zasobu Nieruchomości Rozdział 1 – Postanowienie ogólne Rozdział 2 – Rada Nadzorcza KZN Rozdział 3 – Prezes KZN i organizacja Biura KZN
+Załącznik – Statut Krajowego Zasobu Nieruchomości
 Treść rozporządzenia
 Na podstawie art. 4 ust. 6 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2021 r. poz. 1961 oraz z 2022 r. poz. 807 i 1561) zarządza się, co następuje:
 § 1.
@@ -35,11 +34,12 @@ Krajowemu Zasobowi Nieruchomości nadaje się statut, stanowiący załącznik do
 § 2.
 Traci moc rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 14 listopada 2017 r. w sprawie nadania statutu Krajowemu Zasobowi Nieruchomości (Dz. U. z 2020 r. poz. 1977).
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948).
 Załącznik – Statut Krajowego Zasobu Nieruchomości
+Postanowienie ogólne
 § 1.
 Krajowy Zasób Nieruchomości, zwany dalej „KZN”, działa na podstawie ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2021 r. poz. 1961 oraz z 2022 r. poz. 807 i 1561), zwanej dalej „ustawą”, oraz niniejszego statutu.
+Rada Nadzorcza KZN
 § 2.
 1.
 Posiedzenia Rady Nadzorczej KZN odbywają się stosownie do potrzeb, jednak nie rzadziej niż raz na dwa miesiące.
@@ -119,6 +119,7 @@ Z podjęcia uchwały w trybie, o którym mowa w § 5 ust. 5, sporządza się pro
 Protokoły wraz z załącznikami, o których mowa w ust. 3, przechowuje się w Biurze KZN.
 § 7.
 Rada Nadzorcza KZN, w zakresie nieuregulowanym niniejszym statutem, może określić szczegółowy tryb swojej pracy w formie regulaminu.
+Prezes KZN i organizacja Biura KZN
 § 8.
 1.
 W przypadku powołania dwóch zastępców Prezesa KZN Prezes KZN wyznacza spośród nich pierwszego zastępcę.
@@ -179,9 +180,15 @@ Do realizacji określonych zadań Prezes KZN może powoływać stałe lub doraź
 2.
 W skład komisji problemowych, o których mowa w ust. 1, wchodzą pracownicy Biura KZN oraz eksperci spośród przedstawicieli nauki i praktyki.
 
-#### Rozdział 1 Postanowienie ogólne
+#### Rozdział 1 – Postanowienie ogólne
 
-#### Rozdział 2 Rada Nadzorcza KZN
+#### Rozdział 2 – Rada Nadzorcza KZN
 
-#### Rozdział 3 Prezes KZN i organizacja Biura KZN
+#### Rozdział 3 – Prezes KZN i organizacja Biura KZN
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 

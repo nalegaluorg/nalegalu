@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-07-27 |
 | Data wydania | 2001-11-12 |
-| Wejście w życie | 2002-02-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011291439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1439/text.pdf) |
 
@@ -79,7 +78,7 @@ source: "eli-html"
 - **1)** opracowania projektu budowlanego i, stosownie do potrzeb, innych projektów,
 - **2)** objęcia kierownictwa budowy przez kierownika budowy,
 - **3)** opracowania planu bezpieczeństwa i ochrony zdrowia,
-- **4)** wykonania i odbioru robót budowlanych przez osoby o odpowiednich kwalifikacjach zawodowych. ” ;
+- **4)** wykonania i odbioru robót budowlanych – przez osoby o odpowiednich kwalifikacjach zawodowych. ” ;
 - **7)** w art. 20 w ust. 1: pkt 1a otrzymuje brzmienie: „
     - **a)**
 

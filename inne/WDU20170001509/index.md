@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne oraz ustawę z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-08 |
-| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001509) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1509/text.pdf) |
 
@@ -39,7 +38,7 @@ source: "eli-html"
 2. Do odraczania terminów lub rozkładania na raty oraz umarzania spłat należności, o których mowa w ust. 1:
 
 - **1)** jest uprawniony wojewoda, a w odniesieniu do należności z tytułu gospodarowania nieruchomościami Skarbu Państwa, o których mowa w art. 60 ust. 1 – minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
-- **2)** w przypadkach nieuregulowanych w niniejszej ustawie stosuje się przepisy art. 56, art. 57 i art. 58 ust. 2–4 i 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.). ” ;
+- **2)** w przypadkach nieuregulowanych w niniejszej ustawie stosuje się przepisy art. 56, art. 57 i art. 58 ust. 2–4 i 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089 i 1475.). ” ;
 - **3)** w art. 16: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -257,7 +256,7 @@ source: "eli-html"
 - **6)** rejestrów cen i wartości nieruchomości,
 - **7)** rejestrów osób, którym przysługują prawa określone w art. 179b pkt 2 oraz prawa odrębnej własności lokalu,
 - **8)** ewidencji ludności w zakresie obowiązku meldunkowego,
-- **9)** świadectw charakterystyki energetycznej oraz do pobierania z nich niezbędnych odpowiednio odpisów, wypisów i zaświadczeń. ” ;
+- **9)** świadectw charakterystyki energetycznej – oraz do pobierania z nich niezbędnych odpowiednio odpisów, wypisów i zaświadczeń. ” ;
 - **38)** po art. 184 dodaje się art. 184a i art. 184b w brzmieniu: „
 
 **Art. 184a.** Zarządca nieruchomości to przedsiębiorca prowadzący działalność gospodarczą z zakresu zarządzania nieruchomościami. Zarządzanie nieruchomością polega na podejmowaniu decyzji i dokonywaniu czynności mających na celu zapewnienie racjonalnej gospodarki nieruchomością, a w szczególności:
@@ -344,7 +343,7 @@ source: "eli-html"
 
 - **1)** dokonuje określenia wartości nieruchomości bez spełnienia warunku, o którym mowa w art. 174 ust. 7,
 - **2)** wykonuje czynności określone w umowie pośrednictwa, o której mowa w art. 180 ust. 3, bez spełnienia warunku, o którym mowa w art. 179a,
-- **3)** podejmuje decyzje i wykonuje czynności określone w umowie o zarządzanie nieruchomością, o której mowa w art. 185 ust. 2, bez spełnienia warunku, o którym mowa w art. 184a podlega karze grzywny w wysokości do 50 000 zł.
+- **3)** podejmuje decyzje i wykonuje czynności określone w umowie o zarządzanie nieruchomością, o której mowa w art. 185 ust. 2, bez spełnienia warunku, o którym mowa w art. 184a – podlega karze grzywny w wysokości do 50 000 zł.
 
 2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
@@ -413,6 +412,6 @@ source: "eli-html"
 - **1)** art. 1 pkt 12, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
 - **2)** art. 1 pkt 2–11 i 13–23, art. 2 pkt 2, art. 4 ust. 1–3 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
 - **3)** art. 1 pkt 33 lit. a w zakresie wypełniania obowiązku stałego doskonalenia kwalifikacji zawodowych, który wchodzi w życie z dniem 1 stycznia 2018 r.;
-- **4)** art. 1 pkt 45 lit. b w zakresie wypełniania obowiązku stałego doskonalenia kwalifikacji zawodowych, który wchodzi w życie z dniem 1 stycznia 2019 r.
+- **4)** art. 1 pkt 45 lit. b w zakresie wypełniania obowiązku stałego doskonalenia kwalifikacji zawodowych, który wchodzi w życie z dniem 1 stycznia 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne oraz ustawę z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089 i 1475.
 
 

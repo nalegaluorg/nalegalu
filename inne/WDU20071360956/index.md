@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-29 |
 | Data wydania | 2007-07-31 |
-| Wejście w życie | 2007-08-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071360956) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/956/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 1997 r. Nr 5, poz. 24, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 1997 r. Nr 5, poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 162, poz. 1568 oraz z 2005 r. Nr 64, poz. 565.) wprowadza się następujące zmiany:
 
 - **1)** art. 1 otrzymuje brzmienie: „ Muzeum jest jednostką organizacyjną nienastawioną na osiąganie zysku, której celem jest gromadzenie i trwała ochrona dóbr naturalnego i kulturalnego dziedzictwa ludzkości o charakterze materialnym i niematerialnym, informowanie o wartościach i treściach gromadzonych zbiorów, upowszechnianie podstawowych wartości historii, nauki i kultury polskiej oraz światowej, kształtowanie wrażliwości poznawczej i estetycznej oraz umożliwianie korzystania ze zgromadzonych zbiorów. ” ;
 - **2)** w art. 2: pkt 2 otrzymuje brzmienie: „
@@ -50,7 +49,7 @@ source: "eli-html"
 5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres i tryb zabezpieczania zbiorów przed pożarem, kradzieżą i innym niebezpieczeństwem grożącym zniszczeniem lub utratą zbiorów,
-- **2)** sposoby przygotowania zbiorów do ewakuacji w razie powstania zagrożenia mając na względzie niedopuszczenie do sytuacji, w której zbiory mogą być utracone, uszkodzone lub zniszczone, oraz ochronę miejsca przechowywania i eksponowania zbiorów oraz ich ochronę w czasie transportu. ” , dodaje się ust. 6 w brzmieniu: „
+- **2)** sposoby przygotowania zbiorów do ewakuacji w razie powstania zagrożenia – mając na względzie niedopuszczenie do sytuacji, w której zbiory mogą być utracone, uszkodzone lub zniszczone, oraz ochronę miejsca przechowywania i eksponowania zbiorów oraz ich ochronę w czasie transportu. ” , dodaje się ust. 6 w brzmieniu: „
     - **b)**
 
 6. Muzea państwowe i rejestrowane muzea samorządowe mają prawo używania okrągłej pieczęci z wizerunkiem orła ustalonym dla godła Rzeczypospolitej Polskiej oraz nazwą muzeum w otoku. ” ;
@@ -134,7 +133,7 @@ source: "eli-html"
 
 - **f)**
 
-9. Rada muzeum, w przypadku ogłoszenia konkursu na stanowisko dyrektora, wyznacza do składu komisji konkursowej określonej w art. 16 ust. 4 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.) dwóch dodatkowych członków. ” , uchyla się ust. 10;
+9. Rada muzeum, w przypadku ogłoszenia konkursu na stanowisko dyrektora, wyznacza do składu komisji konkursowej określonej w art. 16 ust. 4 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081, z 2004 r. Nr 11, poz. 96 i Nr 261, poz. 2598, z 2005 r. Nr 131, poz. 1091 i Nr 132, poz. 1111 oraz z 2006 r. Nr 227, poz. 1658.) dwóch dodatkowych członków. ” , uchyla się ust. 10;
 
 - **g)**
 - **8)** art. 13 otrzymuje brzmienie: „
@@ -150,7 +149,7 @@ source: "eli-html"
 - **1)** sposób prowadzenia Rejestru,
 - **2)** wzór wniosku o wpis do Rejestru,
 - **3)** warunki i tryb dokonywania wpisów w Rejestrze,
-- **4)** okoliczności, w jakich można zarządzić kontrolę w celu ustalenia, czy muzeum spełnia nadal warunki wpisu do Rejestru biorąc pod uwagę uprawnienia nadzorcze ministra nad muzeami.
+- **4)** okoliczności, w jakich można zarządzić kontrolę w celu ustalenia, czy muzeum spełnia nadal warunki wpisu do Rejestru – biorąc pod uwagę uprawnienia nadzorcze ministra nad muzeami.
 
 4. Z dniem wpisu do Rejestru muzeum jest uprawnione do używania nazwy „muzeum rejestrowane”.
 
@@ -178,7 +177,7 @@ source: "eli-html"
 4. W przypadku przyznania wynagrodzenia, o którym mowa w ust. 1, nie może być ono wyższe niż:
 
 - **1)** dla przewodniczącego rady – 50%,
-- **2)** dla pozostałych członków rady – 45% minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę. ” ;
+- **2)** dla pozostałych członków rady – 45% – minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę. ” ;
 - **11)** w art. 21: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -230,7 +229,7 @@ source: "eli-html"
 - **1)** w przypadku wypożyczenia innym muzeom,
 - **2)** w przypadku potrzeby konserwacji, badań lub zapewnienia bezpieczeństwa,
 - **3)** w przypadku ekspozycji na wystawach,
-- **4)** w innych uzasadnionych przypadkach za zgodą podmiotu, o którym mowa w art. 5 ust. 1.
+- **4)** w innych uzasadnionych przypadkach – za zgodą podmiotu, o którym mowa w art. 5 ust. 1.
 
 2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, warunki, sposób i tryb przenoszenia muzealiów, z uwzględnieniem w szczególności warunków i sposobu przenoszenia, przechowywania ich w nowym miejscu oraz opracowywania dla nich dokumentacji naukowo-konserwatorskiej. ” ;
 
@@ -246,5 +245,5 @@ source: "eli-html"
 
 **Art. 4.** Rada do Spraw Muzeów, powołana przed dniem wejścia w życie niniejszej ustawy, oraz jej Przewodniczący działają do końca okresu, na który zostali powołani.
 
-**Art. 5.** Przepisy wykonawcze wydane przed dniem wejścia w życie niniejszej ustawy na podstawie art. 5 ust. 5, art. 7 ust. 3, art. 10 ust. 4 i 5, art. 13 ust. 3, art. 29 ust. 2, art. 32 ust. 4 ustawy, o której mowa w art. 1 niniejszej ustawy, zachowują moc do dnia wejścia w życie przepisów wykonawczych na podstawie art. 5 ust. 5, art. 7 ust. 5, art. 10 ust. 4 i 5, art. 13 ust. 3, art. 29 ust. 2, art. 32 ust. 4 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Przepisy wykonawcze wydane przed dniem wejścia w życie niniejszej ustawy na podstawie art. 5 ust. 5, art. 7 ust. 3, art. 10 ust. 4 i 5, art. 13 ust. 3, art. 29 ust. 2, art. 32 ust. 4 ustawy, o której mowa w art. 1 niniejszej ustawy, zachowują moc do dnia wejścia w życie przepisów wykonawczych na podstawie art. 5 ust. 5, art. 7 ust. 5, art. 10 ust. 4 i 5, art. 13 ust. 3, art. 29 ust. 2, art. 32 ust. 4 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 162, poz. 1568 oraz z 2005 r. Nr 64, poz. 565. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081, z 2004 r. Nr 11, poz. 96 i Nr 261, poz. 2598, z 2005 r. Nr 131, poz. 1091 i Nr 132, poz. 1111 oraz z 2006 r. Nr 227, poz. 1658.
 

@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-07-02 |
 | Data wydania | 2004-07-19 |
-| Wejście w życie | 2004-08-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041621695) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1695/text.pdf) |
 
+Monitorowanie importu towarów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji
 1.
 Import na terytorium Rzeczypospolitej Polskiej wykorzystywanych w telekomunikacji lub do ochrony informacji towarów podwójnego zastosowania, określonych w ust. 2, podlega monitorowaniu przez organ monitorujący import, na zasadach określonych w niniejszym rozdziale.
 2.
@@ -64,12 +64,12 @@ Nieuzupełnienie zgłoszenia w wyznaczonym terminie powoduje nieprzyjęcie zgło
 Do dokumentu sporządzonego w języku obcym należy dołączyć tłumaczenie tego dokumentu na język polski.
 8.
 
-**Art. 1.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw (Dz. U. Nr 119, poz. 1250, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw (Dz. U. Nr 119, poz. 1250, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1789 oraz z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676 i Nr 89, poz. 804.) wprowadza się następujące zmiany:
 
 - **1)** tytuł ustawy otrzymuje brzmienie: „ o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa ” ;
 - **2)** użyty w różnych przypadkach wyraz „przedsiębiorca” zastępuje się użytymi w odpowiednich przypadkach wyrazami „osoba fizyczna lub prawna”;
 - **3)** użyte w różnych przypadkach wyrazy „polski obszar celny” zastępuje się użytymi w odpowiednich przypadkach wyrazami „terytorium Rzeczypospolitej Polskiej”;
-- **4)** po art. 1 dodaje się art. 1a w brzmieniu: „ Ustawa służy wykonaniu postanowień zawartych w rozporządzeniu Rady (WE) nr 1334/2000 z dnia 22 czerwca 2000 r. ustanawiającym wspólnotowy system kontroli eksportu produktów i technologii podwójnego zastosowania (Dz. Urz. WE L 159 z 30.06.2000), ostatnio zmienionym rozporządzeniem Rady (WE) nr 149/2003 (Dz. Urz. UE L 30 z 05.02.2003). ” ;
+- **4)** po art. 1 dodaje się art. 1a w brzmieniu: „ Ustawa służy wykonaniu postanowień zawartych w rozporządzeniu Rady (WE) nr 1334/2000 z dnia 22 czerwca 2000 r. ustanawiającym wspólnotowy system kontroli eksportu produktów i technologii podwójnego zastosowania (Dz. Urz. WE L 159 z 30.06.2000), ostatnio zmienionym rozporządzeniem Rady (WE) nr 149/2003 (Dz. Urz. UE L 30 z 05.02.2003)Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.. ” ;
 - **5)** art. 2 otrzymuje brzmienie: „
 
 **Art. 2.** Obrót z zagranicą, o którym mowa w art. 3 pkt 8, jest zabroniony z mocy prawa, jeżeli nie zostały spełnione warunki i ograniczenia określone w rozporządzeniu nr 1334/2000, w niniejszej ustawie, przepisach innych ustaw oraz w umowach i innych zobowiązaniach międzynarodowych. ” ;
@@ -168,7 +168,7 @@ Do dokumentu sporządzonego w języku obcym należy dołączyć tłumaczenie teg
 3. Wniosek o wydanie zezwolenia indywidualnego lub globalnego powinien zawierać:
 
 - **1)** oznaczenie osoby fizycznej lub prawnej, określenie jej siedziby i adresu,
-- **2)** numer w rejestrze przedsiębiorców, o których mowa w ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.),
+- **2)** numer w rejestrze przedsiębiorców, o których mowa w ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874, Nr 217, poz. 2125, Nr 228, poz. 2256 i Nr 229, poz. 2276 oraz z 2004 r. Nr 96, poz. 959.),
 - **3)** określenie rodzaju i zakresu wykonywanej przez osobę fizyczną lub osobę prawną działalności gospodarczej,
 - **4)** oznaczenie eksportera lub importera, określenie ich siedziby i adresu,
 - **5)** oznaczenie producenta i końcowego użytkownika, określenie ich siedziby i adresu,
@@ -180,7 +180,7 @@ Do dokumentu sporządzonego w języku obcym należy dołączyć tłumaczenie teg
 4. Do wniosku o wydanie zezwolenia indywidualnego lub globalnego na obrót towarami o znaczeniu strategicznym osoba fizyczna lub prawna jest obowiązana dołączyć:
 
 - **1)** oświadczenie, że w obrocie nie występują okoliczności, o których mowa w art. 10 ust. 1,
-- **2)** kopię koncesji na wykonywanie działalności w zakresie obrotu materiałami wybuchowymi, bronią i amunicją oraz wyrobami i technologiami o przeznaczeniu wojskowym lub policyjnym, o której mowa w ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm.),
+- **2)** kopię koncesji na wykonywanie działalności w zakresie obrotu materiałami wybuchowymi, bronią i amunicją oraz wyrobami i technologiami o przeznaczeniu wojskowym lub policyjnym, o której mowa w ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1203.),
 - **3)** projekt umowy dotyczącej obrotu,
 - **4)** kopię certyfikatu, o którym mowa w art. 11 ust. 4,
 - **5)** certyfikat importowy lub oświadczenie końcowego użytkownika w przypadku eksportu. ” , ust. 6 otrzymuje brzmienie: „
@@ -189,7 +189,7 @@ Do dokumentu sporządzonego w języku obcym należy dołączyć tłumaczenie teg
 6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
 - **1)** wzory wniosków o wydanie zezwolenia indywidualnego lub globalnego na eksport towarów o znaczeniu strategicznym oraz na wykonywanie usług pośrednictwa oraz na świadczenie pomocy technicznej, a także na import i tranzyt uzbrojenia,
-- **2)** wzory zezwoleń indywidualnych lub globalnych na eksport, import i tranzyt uzbrojenia lub części zamiennych uzbrojenia oraz na wykonywanie usług pośrednictwa i na świadczenie pomocy technicznej w zakresie towarów o znaczeniu strategicznym mając na uwadze rodzaje towarów oraz formy obrotu. ” , dodaje się ust. 7 w brzmieniu: „
+- **2)** wzory zezwoleń indywidualnych lub globalnych na eksport, import i tranzyt uzbrojenia lub części zamiennych uzbrojenia oraz na wykonywanie usług pośrednictwa i na świadczenie pomocy technicznej w zakresie towarów o znaczeniu strategicznym – mając na uwadze rodzaje towarów oraz formy obrotu. ” , dodaje się ust. 7 w brzmieniu: „
     - **c)**
 
 7. Wzory zezwoleń indywidualnych lub globalnych na eksport towarów podwójnego zastosowania określa rozporządzenie nr 1334/2000. ” ;
@@ -281,5 +281,5 @@ Do dokumentu sporządzonego w języku obcym należy dołączyć tłumaczenie teg
 
 - **15)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-#### Rozdział 2a Monitorowanie importu towarów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji
+#### Rozdział 2a
 

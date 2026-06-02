@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy o organizacji rynku rybnego
+# Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy o organizacji rynku rybnego Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu: 1) rozporządzenia Rady (WE) nr 1005/2008 z dnia 29 września 2008 r. ustanawiającego wspólnotowy system zapobiegania nielegalnym, nieraportowanym i nieuregulowanym połowom oraz ich powstrzymywania i eliminowania, zmieniającego rozporządzenia (EWG) nr 2847/93, (WE) nr 1936/2001 i (WE) nr 601/2004 oraz uchylającego rozporządzenia (WE) nr 1093/94 i (WE) nr 1447/1999 (Dz. Urz. UE L 286 z 29.10.2008, str. 1, z późn. zm.); 2) rozporządzenia Komisji (WE) nr 1010/2009 z dnia 22 października 2009 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1005/2008 ustanawiającego wspólnotowy system zapobiegania nielegalnym, nieraportowanym i nieuregulowanym połowom oraz ich powstrzymywania i eliminowania (Dz. Urz. UE L 280 z 27.10.2009, str. 5); 3) rozporządzenia Rady (WE) nr 1224/2009 z dnia 20 listopada 2009 r. ustanawiającego wspólnotowy system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa, zmieniającego rozporządzenia (WE) nr 847/96, (WE) nr 2371/2002, (WE) nr 811/2004, (WE) nr 768/2005, (WE) nr 2115/2005, (WE) nr 2166/2005, (WE) nr 388/2006, (WE) nr 509/2007, (WE) nr 676/2007, (WE) nr 1098/2007, (WE) nr 1300/2008, (WE) nr 1342/2008 i uchylającego rozporządzenia (EWG) nr 2847/93, (WE) nr 1627/94 oraz (WE) nr 1966/2006 (Dz. Urz. UE L 343 z 22.12.2009, str. 1, z późn. zm.); 4) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 640/2010 z dnia 7 lipca 2010 r. w sprawie programu dokumentacji połowów tuńczyka błękitnopłetwego Thunnus thynnus i zmiany rozporządzenia Rady (WE) nr 1984/2003 (Dz. Urz. UE L 194 z 24.07.2010, str. 1); 5) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.); 6) rozporządzenia wykonawczego Komisji (UE) nr 1418/2013 z dnia 17 grudnia 2013 r. dotyczącego planów produkcji i obrotu zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury (Dz. Urz. UE L 353 z 28.12.2013, str. 40); 7) rozporządzenia wykonawczego Komisji (UE) nr 1419/2013 z dnia 17 grudnia 2013 r. dotyczącego uznawania organizacji producentów i organizacji międzybranżowych, rozszerzenia zasad dotyczących organizacji producentów i organizacji międzybranżowych, a także publikacji cen progowych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury (Dz. Urz. UE L 353 z 28.12.2013, str. 43).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-10 |
 | Data wydania | 2015-08-31 |
-| Wejście w życie | 2015-09-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1267/text.pdf) |
+
+Wprowadzanie do obrotu produktów rybołówstwa pochodzących z państw trzecich oraz powstrzymywanie i eliminowanie wprowadzania do obrotu produktów rybołówstwa pochodzących z nielegalnych, nieraportowanych i nieuregulowanych połowów
 
 **Art. 1.** W ustawie z dnia 5 grudnia 2008 r. o organizacji rynku rybnego (Dz. U. z 2013 r. poz. 1389) wprowadza się następujące zmiany:
 
@@ -62,7 +63,7 @@ source: "eli-html"
 
 2. Inspekcja Handlowa sprawuje kontrolę i nadzór nad jakością handlową produktów rybnych, w tym w zakresie oznaczania i etykietowania produktów rybnych, o których mowa w rozdziale III i IV rozporządzenia nr 1379/2013, oraz identyfikowalności, o której mowa w art. 58 rozporządzenia nr 1224/2009 – w trybie i na zasadach określonych odpowiednio w:
 
-- **1)** ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2014 r. poz. 148, z późn. zm.);
+- **1)** ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2014 r. poz. 148, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1101 oraz z 2015 r. poz. 277 i 1069.);
 - **2)** ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych.
 
 3. Okręgowy inspektor rybołówstwa morskiego informuje niezwłocznie Inspekcję Jakości Handlowej Artykułów Rolno-Spożywczych o nieprawidłowościach dotyczących produktów rybołówstwa, w zakresie kategorii wielkości i kategorii świeżości, o których mowa w rozporządzeniu nr 2406/96, identyfikowalności, o której mowa w art. 58 rozporządzenia nr 1224/2009, oraz w zakresie określonym w art. 9 ust. 1 i 2 rozporządzenia nr 640/2010.
@@ -86,8 +87,11 @@ source: "eli-html"
 1. Kodeks dobrej praktyki rybackiej, zwany dalej „kodeksem”, może być dobrowolnie opracowany i przyjęty do stosowania w celu zapewnienia standaryzacji prowadzenia racjonalnej gospodarki rybackiej, zrównoważonego korzystania z żywych zasobów wód, ograniczenia negatywnego lub zwiększenia pozytywnego wpływu gospodarki rybackiej na środowisko oraz zapewnienia bezpieczeństwa dostarczanych produktów akwakultury, regulując sprawy nieuregulowane w przepisach powszechnie obowiązujących. ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
 
 - **b)**
-- **2)** wskazanie zasad lub standardów dotyczących ochrony żywych zasobów wód, zarządzania tymi zasobami oraz rozwoju sektora akwakultury, ustanowionych przez organizacje międzynarodowe lub Unię Europejską, stanowiących podstawę opracowania kodeksu; ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) organizacja producentów sektora akwakultury, związek tych organizacji lub organizacja międzybranżowa wpisane do odpowiedniego rejestru, o którym mowa w art. 24 ust. 4; ” , – pkt 4 otrzymuje brzmienie: „ 4) stowarzyszenie, fundacja lub inna organizacja społeczna, której statutowym celem jest działanie w sektorze akwakultury na rzecz poprawy warunków higieny, zdrowia ludzi i zwierząt oraz jakości produktów, a także zmniejszenia negatywnego oraz wspierania pozytywnego wpływu gospodarki rybackiej na środowisko. ” , ust. 4 otrzymuje brzmienie: „
+- **2)** wskazanie zasad lub standardów dotyczących ochrony żywych zasobów wód, zarządzania tymi zasobami oraz rozwoju sektora akwakultury, ustanowionych przez organizacje międzynarodowe lub Unię Europejską, stanowiących podstawę opracowania kodeksu; ” , w ust. 3: pkt 1 otrzymuje brzmienie: „
     - **c)**
+
+- **1)** organizacja producentów sektora akwakultury, związek tych organizacji lub organizacja międzybranżowa wpisane do odpowiedniego rejestru, o którym mowa w art. 24 ust. 4; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** stowarzyszenie, fundacja lub inna organizacja społeczna, której statutowym celem jest działanie w sektorze akwakultury na rzecz poprawy warunków higieny, zdrowia ludzi i zwierząt oraz jakości produktów, a także zmniejszenia negatywnego oraz wspierania pozytywnego wpływu gospodarki rybackiej na środowisko. ” , ust. 4 otrzymuje brzmienie: „
     - **d)**
 
 4. Podmioty, o których mowa w ust. 3, przeprowadzają publiczne konsultacje opracowanych przez nie projektów kodeksów przez upublicznienie ich treści oraz zasięgnięcie opinii innych podmiotów działających w sektorze akwakultury. ” ;
@@ -144,9 +148,11 @@ source: "eli-html"
 - **3)** wskazanie kryteriów aktywności gospodarczej, o której mowa w art. 14 ust. 1 lit. b rozporządzenia nr 1379/2013, ze względu na które organizacja producentów występuje o uznanie;
 - **4)** wskazanie poławianych gatunków organizmów wodnych i stosowanych narzędzi połowowych;
 - **5)** wskazanie gatunków organizmów wodnych będących przedmiotem chowu lub hodowli i wskazanie stosowanych metod chowu lub hodowli tych organizmów – w przypadku organizacji producentów sektora akwakultury;
-- **6)** informacje i dokumenty określone w załączniku I do rozporządzenia nr 1419/2013, przy czym akt założycielski załącza się w formie kopii potwierdzonej za zgodność z oryginałem czytelnym podpisem przez osoby upoważnione do reprezentowania organizacji producentów. ” , w ust. 2: – uchyla się pkt 2, – w pkt 3 lit. a otrzymuje brzmienie: „ a) imię, nazwisko i adres albo nazwę, siedzibę i adres wraz z odpowiednio informacją o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo numerem w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, albo innym równoważnym, ” , – pkt 5 otrzymuje brzmienie: „ 5) dokumenty potwierdzające spełnianie kryteriów aktywności gospodarczej, o której mowa w art. 14 ust. 1 lit. b rozporządzenia nr 1379/2013, ze względu na które organizacja producentów występuje o uznanie. ” ;
+- **6)** informacje i dokumenty określone w załączniku I do rozporządzenia nr 1419/2013, przy czym akt założycielski załącza się w formie kopii potwierdzonej za zgodność z oryginałem czytelnym podpisem przez osoby upoważnione do reprezentowania organizacji producentów. ” , w ust. 2: – uchyla się pkt 2, w pkt 3 lit. a otrzymuje brzmienie: „ imię, nazwisko i adres albo nazwę, siedzibę i adres wraz z odpowiednio informacją o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo numerem w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, albo innym równoważnym, ” , pkt 5 otrzymuje brzmienie: „
     - **b)**
+    - **a)**
 
+- **5)** dokumenty potwierdzające spełnianie kryteriów aktywności gospodarczej, o której mowa w art. 14 ust. 1 lit. b rozporządzenia nr 1379/2013, ze względu na które organizacja producentów występuje o uznanie. ” ;
 - **18)** art. 27 i art. 28 otrzymują brzmienie: „
 
 **Art. 27.**
@@ -220,10 +226,15 @@ source: "eli-html"
 
 1b. Terminu określonego w ust. 1a nie wlicza się do terminu załatwienia sprawy ustanowionego w art. 35 § 3 Kodeksu postępowania administracyjnego. ” ;
 
-- **25)** w art. 36 w: ust. 1: – pkt 1a otrzymuje brzmienie: „ 1a) numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym; ” , – uchyla się pkt 2, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) informacje i dokumenty określone w załączniku I do rozporządzenia nr 1419/2013, przy czym akt założycielski załącza się w formie kopii potwierdzonej za zgodność z oryginałem czytelnym podpisem przez osobę upoważnioną do reprezentowania organizacji producentów. ” , ust. 2: – uchyla się pkt 2, – pkt 4 otrzymuje brzmienie: „ 4) dokumenty potwierdzające spełnianie wymagań, określonych w art. 14 ust. 1 lit. a-d i g rozporządzenia nr 1379/2013, w tym zestawienie dotyczące wielkości połowów i wartości sprzedaży z podziałem na poszczególne gatunki produktów rybnych za rok kalendarzowy poprzedzający rok złożenia wniosku o uznanie związku organizacji producentów; ” , – dodaje się pkt 5 w brzmieniu: „ 5) oświadczenie organizacji producentów będących członkami związku organizacji producentów, że Prezes Urzędu Ochrony Konkurencji i Konsumentów w okresie 36 miesięcy przed dniem złożenia wniosku o uznanie związku organizacji producentów nie wydał prawomocnej decyzji stwierdzającej nadużywanie przez te organizacje pozycji dominującej na danym rynku ani prawomocnej decyzji stwierdzającej zawarcie przez te organizacje porozumienia ograniczającego konkurencję. ” ;
+- **25)** w art. 36 w: ust. 1: pkt 1a otrzymuje brzmienie: „
     - **a)**
+
+- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym; ” , – uchyla się pkt 2, w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** informacje i dokumenty określone w załączniku I do rozporządzenia nr 1419/2013, przy czym akt założycielski załącza się w formie kopii potwierdzonej za zgodność z oryginałem czytelnym podpisem przez osobę upoważnioną do reprezentowania organizacji producentów. ” , ust. 2: – uchyla się pkt 2, pkt 4 otrzymuje brzmienie: „
     - **b)**
 
+- **4)** dokumenty potwierdzające spełnianie wymagań, określonych w art. 14 ust. 1 lit. a-d i g rozporządzenia nr 1379/2013, w tym zestawienie dotyczące wielkości połowów i wartości sprzedaży z podziałem na poszczególne gatunki produktów rybnych za rok kalendarzowy poprzedzający rok złożenia wniosku o uznanie związku organizacji producentów; ” , dodaje się pkt 5 w brzmieniu: „
+- **5)** oświadczenie organizacji producentów będących członkami związku organizacji producentów, że Prezes Urzędu Ochrony Konkurencji i Konsumentów w okresie 36 miesięcy przed dniem złożenia wniosku o uznanie związku organizacji producentów nie wydał prawomocnej decyzji stwierdzającej nadużywanie przez te organizacje pozycji dominującej na danym rynku ani prawomocnej decyzji stwierdzającej zawarcie przez te organizacje porozumienia ograniczającego konkurencję. ” ;
 - **26)** art. 37 otrzymuje brzmienie: „
 
 **Art. 37.** Minister właściwy do spraw rybołówstwa odmawia, w drodze decyzji, uznania związku organizacji producentów, jeżeli związek nie spełnia wymagań określonych w art. 14 ust. 1 rozporządzenia nr 1379/2013. ” ;
@@ -283,7 +294,7 @@ source: "eli-html"
 3. Minister właściwy do spraw rybołówstwa dokonuje oceny zgodności wniosku o rozszerzenie zasad organizacji z warunkami określonymi w:
 
 - **1)** art. 22 rozporządzenia nr 1379/2013 – w przypadku wniosku organizacji producentów lub związku organizacji producentów albo
-- **2)** art. 23 rozporządzenia nr 1379/2013 – w przypadku wniosku organizacji międzybranżowej i niezwłocznie informuje daną organizację, w formie pisemnej, o wyniku tej oceny.
+- **2)** art. 23 rozporządzenia nr 1379/2013 – w przypadku wniosku organizacji międzybranżowej – i niezwłocznie informuje daną organizację, w formie pisemnej, o wyniku tej oceny.
 
 4. W przypadku stwierdzenia, że nie są spełnione warunki określone odpowiednio w art. 22 albo art. 23 rozporządzenia nr 1379/2013, minister właściwy do spraw rybołówstwa wzywa, w formie pisemnej, organizację producentów, związek organizacji producentów lub organizację międzybranżową do uzupełnienia wniosku o rozszerzenie zasad organizacji w terminie 14 dni od dnia doręczenia wezwania pod rygorem pozostawienia wniosku bez rozpoznania.
 
@@ -307,8 +318,12 @@ source: "eli-html"
 3. Do przedłużenia stosowania rozszerzenia zasad, porozumień, decyzji lub uzgodnionych praktyk przepisy art. 44 ust. 6 i 7 stosuje się odpowiednio. ” ;
 
 - **33)** uchyla się art. 45–47a;
-- **34)** w art. 48: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw rybołówstwa przekazuje Prezesowi Agencji Modernizacji i Restrukturyzacji Rolnictwa informacje o:”, – pkt 4–6 otrzymują brzmienie: „ 4) wydaniu decyzji w sprawie zatwierdzenia planu produkcji i obrotu wraz z kopią ostatecznej decyzji o zatwierdzeniu oraz kopią planu produkcji i obrotu – w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna; 5) każdej zmianie planu produkcji i obrotu, o której mowa w art. 29 pkt 3, wraz z kopią ostatecznej decyzji o zatwierdzeniu zmian planu produkcji i obrotu oraz kopią zmienionego planu produkcji i obrotu – w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna; 6) wydaniu decyzji w sprawie zatwierdzenia sprawozdania rocznego wraz z kopią ostatecznej decyzji o zatwierdzeniu oraz kopią tego sprawozdania – w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna. ” , uchyla się ust. 2;
+- **34)** w art. 48: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw rybołówstwa przekazuje Prezesowi Agencji Modernizacji i Restrukturyzacji Rolnictwa informacje o:”, pkt 4–6 otrzymują brzmienie: „
     - **a)**
+
+- **4)** wydaniu decyzji w sprawie zatwierdzenia planu produkcji i obrotu wraz z kopią ostatecznej decyzji o zatwierdzeniu oraz kopią planu produkcji i obrotu – w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna;
+- **5)** każdej zmianie planu produkcji i obrotu, o której mowa w art. 29 pkt 3, wraz z kopią ostatecznej decyzji o zatwierdzeniu zmian planu produkcji i obrotu oraz kopią zmienionego planu produkcji i obrotu – w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna;
+- **6)** wydaniu decyzji w sprawie zatwierdzenia sprawozdania rocznego wraz z kopią ostatecznej decyzji o zatwierdzeniu oraz kopią tego sprawozdania – w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna. ” , uchyla się ust. 2;
     - **b)**
 
 - **35)** uchyla się art. 49–55;
@@ -333,7 +348,7 @@ source: "eli-html"
 
 - **39)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Wprowadzanie do obrotu produktów rybołówstwa pochodzących z państw trzecich oraz powstrzymywanie i eliminowanie wprowadzania do obrotu produktów rybołówstwa pochodzących z nielegalnych, nieraportowanych i nieuregulowanych połowów
+#### Rozdział 8a
 
 **Art. 62a.**
 
@@ -343,7 +358,7 @@ source: "eli-html"
 - **2)** przyjmuje i sprawdza w przypadkach określonych w art. 14 ust. 2 rozporządzenia nr 1005/2008 oświadczenie, o którym mowa w tym przepisie,
 - **3)** przyjmuje powiadomienie, o którym mowa w art. 16 ust. 2 rozporządzenia nr 1005/2008,
 - **4)** przechowuje zatwierdzone świadectwo połowowe, o którym mowa w pkt 1, przez okres wskazany w art. 22 ust. 4 rozporządzenia nr 1005/2008,
-- **5)** realizuje obowiązki państwa członkowskiego Unii Europejskiej, o których mowa w art. 24 ust. 2 rozporządzenia nr 1005/2008 jeżeli przywóz produktów rybołówstwa następuje przez drogowe, kolejowe albo lotnicze przejście graniczne.
+- **5)** realizuje obowiązki państwa członkowskiego Unii Europejskiej, o których mowa w art. 24 ust. 2 rozporządzenia nr 1005/2008 – jeżeli przywóz produktów rybołówstwa następuje przez drogowe, kolejowe albo lotnicze przejście graniczne.
 
 2. W przypadkach określonych w art. 18 ust. 1 i 2 rozporządzenia nr 1005/2008, minister właściwy do spraw rybołówstwa zakazuje, w drodze decyzji, przywozu produktów rybołówstwa, jeżeli przywóz tych produktów następuje przez drogowe, kolejowe albo lotnicze przejście graniczne.
 
@@ -358,7 +373,7 @@ source: "eli-html"
 - **3)** przyjmuje powiadomienie, o którym mowa w art. 16 ust. 2 rozporządzenia nr 1005/2008,
 - **4)** przeprowadza weryfikacje, o których mowa w art. 17 rozporządzenia nr 1005/2008,
 - **5)** przechowuje zatwierdzone świadectwo połowowe, o którym mowa w pkt 1, przez okres wskazany w art. 22 ust. 4 rozporządzenia nr 1005/2008,
-- **6)** realizuje obowiązki państwa członkowskiego Unii Europejskiej, o których mowa w art. 24 ust. 2 rozporządzenia nr 1005/2008 jeżeli przywóz produktów rybołówstwa następuje drogą morską.
+- **6)** realizuje obowiązki państwa członkowskiego Unii Europejskiej, o których mowa w art. 24 ust. 2 rozporządzenia nr 1005/2008 – jeżeli przywóz produktów rybołówstwa następuje drogą morską.
 
 2. W przypadkach określonych w art. 7 ust. 3 zdanie trzecie i w art. 18 ust. 1 i 2 rozporządzenia nr 1005/2008, okręgowy inspektor rybołówstwa morskiego zakazuje, w drodze decyzji, przywozu produktów rybołówstwa, jeżeli przywóz ich następuje drogą morską.
 
@@ -375,7 +390,7 @@ source: "eli-html"
 
 3. Produkty rybołówstwa, w stosunku do których sąd orzekł przepadek na rzecz Skarbu Państwa, podlegają zniszczeniu w całości lub w części, jeżeli ich sprzedaż jest niemożliwa, znacznie utrudniona lub nieuzasadniona.
 
-4. Środki pieniężne z tytułu nadwyżki kwoty uzyskanej ze sprzedaży produktów rybołówstwa, o których mowa w ust. 1, nad wydatkami związanymi z ich przechowaniem lub sprzedażą oraz należnościami celnymi i podatkowymi z tytułu dopuszczenia do obrotu na obszarze celnym Unii Europejskiej przeznacza się na rzecz organizacji pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2014 r. poz. 1118, z późn. zm.).
+4. Środki pieniężne z tytułu nadwyżki kwoty uzyskanej ze sprzedaży produktów rybołówstwa, o których mowa w ust. 1, nad wydatkami związanymi z ich przechowaniem lub sprzedażą oraz należnościami celnymi i podatkowymi z tytułu dopuszczenia do obrotu na obszarze celnym Unii Europejskiej przeznacza się na rzecz organizacji pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2014 r. poz. 1118, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1138 i 1146 oraz z 2015 r. poz. 1255.).
 
 5. Przepisu ust. 1 pkt 2 nie stosuje się, w przypadku gdy koszty związane z przechowaniem lub sprzedażą produktów rybołówstwa, o których mowa w ust. 1, oraz należnościami celnymi i podatkowymi z tytułu dopuszczenia tych produktów do obrotu na obszarze celnym Unii Europejskiej i orzeczenia przepadku na rzecz Skarbu Państwa rażąco przewyższyłyby wartość produktów rybołówstwa, a importer przed dniem wydania decyzji, o której mowa w art. 62a ust. 2 lub art. 62b ust. 2, dokonał zniszczenia tych produktów oraz poinformował o tym odpowiednio ministra właściwego do spraw rybołówstwa albo okręgowego inspektora rybołówstwa morskiego. W przypadkach, o których mowa w art. 19 ust. 2 rozporządzenia nr 1005/2008, przepisy art. 16–18 tego rozporządzenia stosuje się w punkcie wejścia.
 
@@ -440,5 +455,5 @@ source: "eli-html"
 
 **Art. 6.** Organizacje producentów, związki organizacji producentów oraz organizacje międzybranżowe uznane na podstawie dotychczasowych przepisów stają się z dniem wejścia w życie niniejszej ustawy uznanymi organizacjami producentów, związkami organizacji producentów oraz organizacjami międzybranżowymi, o których mowa w ustawie zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu: 1) rozporządzenia Rady (WE) nr 1005/2008 z dnia 29 września 2008 r. ustanawiającego wspólnotowy system zapobiegania nielegalnym, nieraportowanym i nieuregulowanym połowom oraz ich powstrzymywania i eliminowania, zmieniającego rozporządzenia (EWG) nr 2847/93, (WE) nr 1936/2001 i (WE) nr 601/2004 oraz uchylającego rozporządzenia (WE) nr 1093/94 i (WE) nr 1447/1999 (Dz. Urz. UE L 286 z 29.10.2008, str. 1, z późn. zm.); 2) rozporządzenia Komisji (WE) nr 1010/2009 z dnia 22 października 2009 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1005/2008 ustanawiającego wspólnotowy system zapobiegania nielegalnym, nieraportowanym i nieuregulowanym połowom oraz ich powstrzymywania i eliminowania (Dz. Urz. UE L 280 z 27.10.2009, str. 5); 3) rozporządzenia Rady (WE) nr 1224/2009 z dnia 20 listopada 2009 r. ustanawiającego wspólnotowy system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa, zmieniającego rozporządzenia (WE) nr 847/96, (WE) nr 2371/2002, (WE) nr 811/2004, (WE) nr 768/2005, (WE) nr 2115/2005, (WE) nr 2166/2005, (WE) nr 388/2006, (WE) nr 509/2007, (WE) nr 676/2007, (WE) nr 1098/2007, (WE) nr 1300/2008, (WE) nr 1342/2008 i uchylającego rozporządzenia (EWG) nr 2847/93, (WE) nr 1627/94 oraz (WE) nr 1966/2006 (Dz. Urz. UE L 343 z 22.12.2009, str. 1, z późn. zm.); 4) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 640/2010 z dnia 7 lipca 2010 r. w sprawie programu dokumentacji połowów tuńczyka błękitnopłetwego Thunnus thynnus i zmiany rozporządzenia Rady (WE) nr 1984/2003 (Dz. Urz. UE L 194 z 24.07.2010, str. 1); 5) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.); 6) rozporządzenia wykonawczego Komisji (UE) nr 1418/2013 z dnia 17 grudnia 2013 r. dotyczącego planów produkcji i obrotu zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury (Dz. Urz. UE L 353 z 28.12.2013, str. 40); 7) rozporządzenia wykonawczego Komisji (UE) nr 1419/2013 z dnia 17 grudnia 2013 r. dotyczącego uznawania organizacji producentów i organizacji międzybranżowych, rozszerzenia zasad dotyczących organizacji producentów i organizacji międzybranżowych, a także publikacji cen progowych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury (Dz. Urz. UE L 353 z 28.12.2013, str. 43). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1101 oraz z 2015 r. poz. 277 i 1069. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1138 i 1146 oraz z 2015 r. poz. 1255.
 

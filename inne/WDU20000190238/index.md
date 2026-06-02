@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-02-18 |
 | Data wydania | 2000-03-22 |
-| Wejście w życie | 2000-03-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000190238) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/238/text.pdf) |
 
+Opieka nad rodziną i dzieckiem
 1.
 Rodzinie mającej trudności w wypełnianiu swoich zadań udziela się pomocy w formie:
 1)
@@ -63,8 +63,7 @@ nie są chore na chorobę uniemożliwiającą właściwą opiekę nad dzieckiem,
 5)
 mają odpowiednie warunki mieszkaniowe oraz stałe źródło utrzymania,
 6)
-uzyskały pozytywną opinię ośrodka pomocy społecznej właściwego ze względu na miejsce zamieszkania.
-Z uzasadnionych względów sąd opiekuńczy może odstąpić od zasięgania opinii, o której mowa w pkt 6.
+uzyskały pozytywną opinię ośrodka pomocy społecznej właściwego ze względu na miejsce zamieszkania. Z uzasadnionych względów sąd opiekuńczy może odstąpić od zasięgania opinii, o której mowa w pkt 6.
 1.
 Rodziny zastępcze dzielą się na:
 1)
@@ -120,8 +119,7 @@ szczegółowe zasady doboru rodzin zastępczych, umieszczania dzieci w tych rodz
 3)
 szczegółowe zasady, warunki i kryteria przyznawania pomocy pieniężnej na częściowe pokrycie kosztów utrzymania wychowanka rodziny zastępczej,
 4)
-zasady i wysokość odpłatności rodziców za pobyt ich dzieci w rodzinach zastępczych oraz sposób i tryb postępowania w tych sprawach.
-Rozporządzenie powinno różnicować wysokość pomocy pieniężnej w zależności od stopnia rozwoju i stanu zdrowia dziecka, dochodu dziecka oraz miejsca, w którym dziecko przebywa, jeżeli przebywa poza rodziną zastępczą.
+zasady i wysokość odpłatności rodziców za pobyt ich dzieci w rodzinach zastępczych oraz sposób i tryb postępowania w tych sprawach. Rozporządzenie powinno różnicować wysokość pomocy pieniężnej w zależności od stopnia rozwoju i stanu zdrowia dziecka, dochodu dziecka oraz miejsca, w którym dziecko przebywa, jeżeli przebywa poza rodziną zastępczą.
 Umowa cywilnoprawna, o której mowa w art. 33c ust. 3, wygasa z dniem:
 1)
 wydania postanowienia sądu opiekuńczego o niezatwierdzeniu tej umowy,
@@ -162,8 +160,7 @@ typy, zasady działania i organizację placówek opiekuńczo-wychowawczych, zasa
 2)
 standardy usług świadczonych w placówkach opiekuńczo-wychowawczych,
 3)
-obowiązujący w placówkach opiekuńczo-wychowawczych standard wychowania i opieki, a także kwalifikacje osób zatrudnionych w placówce.
-Rozporządzenie powinno uwzględniać zadania placówek, o których mowa w art. 33l ust. 1, oraz konieczność zapewnienia kontaktów dziecka z rodziną naturalną.
+obowiązujący w placówkach opiekuńczo-wychowawczych standard wychowania i opieki, a także kwalifikacje osób zatrudnionych w placówce. Rozporządzenie powinno uwzględniać zadania placówek, o których mowa w art. 33l ust. 1, oraz konieczność zapewnienia kontaktów dziecka z rodziną naturalną.
 1.
 Placówka opiekuńczo-wychowawcza zapewnia dziecku całodobową ciągłą lub okresową albo dzienną opiekę i wychowanie oraz zaspokaja jego niezbędne potrzeby bytowe, rozwojowe, w tym emocjonalne, społeczne, religijne, a także zapewnia korzystanie z przysługujących na podstawie odrębnych przepisów świadczeń zdrowotnych i kształcenia.
 2.
@@ -282,8 +279,7 @@ warunki i kryteria dochodowe, jakie powinna spełnić osoba opuszczająca rodzin
 2)
 szczegółowe zasady przyznania, zawieszenia lub odmowy pomocy, o której mowa w ust. 1, wysokość pomocy pieniężnej na usamodzielnienie i kontynuowanie nauki oraz wartość i składniki pomocy na zagospodarowanie, tryb postępowania w sprawie,
 3)
-typy placówek opiekuńczo-wychowawczych oraz domów pomocy społecznej, których wychowankowie są uprawnieni do korzystania z pomocy, o której mowa w ust. 1.
-” ;
+typy placówek opiekuńczo-wychowawczych oraz domów pomocy społecznej, których wychowankowie są uprawnieni do korzystania z pomocy, o której mowa w ust. 1. ” ;
 12)
 w art. 35:
 a)
@@ -291,8 +287,7 @@ w ust. 1:
 – w zdaniu wstępnym po wyrazie „odpłatny” dodaje się wyrazy „, z zastrzeżeniem ust. 2g i 2h”,
 – w pkt 2 wyrazy „lub opiekunowie” zastępuje się wyrazami „albo opiekunowie, jeżeli dysponują dochodem dziecka” oraz po wyrazach „przebywające w domu” dodaje się wyrazy „w przypadku gdy opłatę wnosi opiekun, opłata wynosi 70% dochodu dziecka”,
 b)
-po ust. 2 dodaje się ust. 2a-2i w brzmieniu:
-„
+po ust. 2 dodaje się ust. 2a-2i w brzmieniu: „
 2a.
 Osoby ponoszące opłatę za pobyt w domu pomocy społecznej oraz rodzinę ponoszącą opłatę za pobyt członka rodziny zwalnia się, na ich wniosek, częściowo lub całkowicie z tej opłaty, jeżeli:
 1)
@@ -322,32 +317,25 @@ Mieszkaniec domu pomocy społecznej nie ponosi opłaty w okresie nieobecności n
 2h.
 Za osobę niepełnoletnią z zaburzeniami psychicznymi nie ponosi się opłaty w okresie jej nieobecności nie przekraczającej 90 dni w roku kalendarzowym, jeżeli w tym czasie przebywa w domu rodzinnym.
 2i.
-Starosta ustala na wniosek dyrektora domu pomocy społecznej i ogłasza w wojewódzkim dzienniku urzędowym, nie później niż do dnia 31 marca danego roku, miesięczny koszt utrzymania mieszkańca w domu w danym roku kalendarzowym na podstawie średniego miesięcznego kosztu utrzymania mieszkańca w ubiegłym roku kalendarzowym, pomnożonego przez planowany w ustawie budżetowej na dany rok wskaźnik wzrostu cen towarów i usług konsumpcyjnych.
-” ,
+Starosta ustala na wniosek dyrektora domu pomocy społecznej i ogłasza w wojewódzkim dzienniku urzędowym, nie później niż do dnia 31 marca danego roku, miesięczny koszt utrzymania mieszkańca w domu w danym roku kalendarzowym na podstawie średniego miesięcznego kosztu utrzymania mieszkańca w ubiegłym roku kalendarzowym, pomnożonego przez planowany w ustawie budżetowej na dany rok wskaźnik wzrostu cen towarów i usług konsumpcyjnych. ” ,
 c)
 w ust. 4 wyrazy „jeżeli domy te nie są prowadzone na zlecenie wojewody” zastępuje się wyrazami „jeżeli nie są one prowadzone na zlecenie starosty”,
 d)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-Decyzję ustalającą opłatę za pobyt w domu pomocy społecznej wydaje organ, o którym mowa w art. 47a ust. 5, właściwy ze względu na położenie domu.
-” ,
+Decyzję ustalającą opłatę za pobyt w domu pomocy społecznej wydaje organ, o którym mowa w art. 47a ust. 5, właściwy ze względu na położenie domu. ” ,
 e)
-po ust. 5 dodaje się ust. 6 w brzmieniu:
-„
+po ust. 5 dodaje się ust. 6 w brzmieniu: „
 6.
-Rada gminy lub rada powiatu może określić, w drodze uchwały, szczegółowe zasady ustalania opłat za pobyt w domu pomocy społecznej, częściowego lub całkowitego zwolnienia z tych opłat, zwrotu należności za okres nieobecności osoby w domu, szczegółowe zasady ustalania kosztów utrzymania w domach pomocy społecznej, a także sposób i tryb postępowania w tych sprawach.
-” ;
+Rada gminy lub rada powiatu może określić, w drodze uchwały, szczegółowe zasady ustalania opłat za pobyt w domu pomocy społecznej, częściowego lub całkowitego zwolnienia z tych opłat, zwrotu należności za okres nieobecności osoby w domu, szczegółowe zasady ustalania kosztów utrzymania w domach pomocy społecznej, a także sposób i tryb postępowania w tych sprawach. ” ;
 13)
-w art. 35a w ust. 1 po pkt 5 dodaje się pkt 6–8 w brzmieniu:
-„
+w art. 35a w ust. 1 po pkt 5 dodaje się pkt 6–8 w brzmieniu: „
 6)
 kwotę stanowiącą podstawę ustalania pomocy pieniężnej dla rodziny zastępczej,
 7)
 kwotę stanowiącą podstawę ustalania pomocy pieniężnej na usamodzielnienie lub kontynuowanie nauki dla osób opuszczających rodziny zastępcze, placówki opiekuńczo-wychowawcze, resocjalizacyjne, zakłady dla nieletnich oraz specjalne ośrodki szkolno-wychowawcze,
 8)
-kwoty świadczeń pieniężnych na utrzymanie przysługujące uchodźcom,
-” ;
+kwoty świadczeń pieniężnych na utrzymanie przysługujące uchodźcom, ” ;
 14)
 w art. 36 w ust. 1 po wyrazach „ust. 2” dodaje się wyrazy „i art. 33c ust. 3”;
 15)
@@ -355,8 +343,7 @@ w art. 40 skreśla się ust. 2 i 3;
 16)
 w art. 43:
 a)
-po ust. 3 dodaje się ust. 3a-3d w brzmieniu:
-„
+po ust. 3 dodaje się ust. 3a-3d w brzmieniu: „
 3a.
 Wywiad rodzinny (środowiskowy) przeprowadza się również w celu ustanowienia rodziny zastępczej i wydania o niej opinii.
 3b.
@@ -364,8 +351,7 @@ W przypadku gdy osoba lub rodzina ubiegająca się o pomoc nie wyrażają zgody 
 3c.
 Przepisu ust. 3b nie stosuje się do osób z zaburzeniami psychicznymi, określonych w odrębnych przepisach.
 3d.
-Od opinii wydawanych przez powiatowy zespół do spraw orzekania o stopniu niepełnosprawności w sprawach o przyznanie świadczeń z pomocy społecznej nie służy zażalenie.
-” ,
+Od opinii wydawanych przez powiatowy zespół do spraw orzekania o stopniu niepełnosprawności w sprawach o przyznanie świadczeń z pomocy społecznej nie służy zażalenie. ” ,
 b)
 w ust. 6a po wyrazach „kwestionariusza wywiadu” dodaje się wyrazy „i załączniki do wywiadu łącznie z wzorami”;
 17)
@@ -373,8 +359,7 @@ w art. 47a:
 a)
 w ust. 1 wyrazy „jednostki organizacyjne” zastępuje się wyrazami „jako samodzielne jednostki organizacyjno-budżetowe podporządkowane bezpośrednio zarządowi powiatu”,
 b)
-po ust. 5 dodaje się ust. 5a-5e w brzmieniu:
-„
+po ust. 5 dodaje się ust. 5a-5e w brzmieniu: „
 5a.
 Starosta może upoważnić kierownika powiatowego centrum pomocy rodzinie lub kierownika ośrodka pomocy społecznej w mieście na prawach powiatu do zawierania i rozwiązywania umów cywilnoprawnych z rodzinami zastępczymi w sprawie powierzenia dziecka.
 5b.
@@ -384,11 +369,9 @@ Starosta przy pomocy powiatowego centrum pomocy rodzinie sprawuje nadzór nad dz
 5d.
 Kierownik powiatowego centrum pomocy rodzinie współpracuje z sądem opiekuńczym w sprawach dotyczących opieki i wychowania dzieci pozbawionych całkowicie lub częściowo opieki rodzicielskiej.
 5e.
-Kierownik powiatowego centrum pomocy rodzinie przedkłada do sądu opiekuńczego wykaz rodzin zastępczych, o których mowa w art. 33e ust. 1 pkt 3.
-” ;
+Kierownik powiatowego centrum pomocy rodzinie przedkłada do sądu opiekuńczego wykaz rodzin zastępczych, o których mowa w art. 33e ust. 1 pkt 3. ” ;
 18)
-po art. 47b dodaje się art. 47c w brzmieniu:
-„
+po art. 47b dodaje się art. 47c w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 29 listopada 1990 r. o pomocy społecznej (Dz. U. z 1998 r. Nr 64, poz. 414, Nr 106, poz. 668, Nr 117, poz. 756, Nr 162, poz. 1118 i 1126, z 1999 r. Nr 20, poz. 170, Nr 79, poz. 885 i Nr 90, poz. 1001 oraz z 2000 r. Nr 12, poz. 136) wprowadza się następujące zmiany:
 
@@ -477,7 +460,7 @@ po art. 47b dodaje się art. 47c w brzmieniu:
 
 - **11)** po rozdziale 1 dodaje się rozdział 1a w brzmieniu: „
 
-#### Rozdział 1a Opieka nad rodziną i dzieckiem
+#### Rozdział 1a
 
 **Art. 47c.**
 
@@ -525,8 +508,10 @@ po art. 47b dodaje się art. 47c w brzmieniu:
 
 **Art. 2.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118, z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802 i Nr 106, poz. 1215 oraz z 2000 r. Nr 2, poz. 26 i Nr 9, poz. 118) wprowadza się następujące zmiany:
 
-- **1)** w art. 140: w ust. 4: – w pkt 1 wyrazy „pkt 6–10” zastępuje się wyrazami „pkt 6–9”, – w pkt 2 kropkę na końcu zdania zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „ 3) 60% miesięcznego świadczenia – jeżeli potrąceniu podlegają należności, o których mowa w art. 139 ust. 1 pkt 10. ” , w ust. 6 w pkt 3 po wyrazach „lit. a) i b)” dodaje się wyrazy „oraz ust. 4 pkt 3”;
+- **1)** w art. 140: w ust. 4: – w pkt 1 wyrazy „pkt 6–10” zastępuje się wyrazami „pkt 6–9”, w pkt 2 kropkę na końcu zdania zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „
     - **a)**
+
+- **3)** 60% miesięcznego świadczenia – jeżeli potrąceniu podlegają należności, o których mowa w art. 139 ust. 1 pkt 10. ” , w ust. 6 w pkt 3 po wyrazach „lit. a) i b)” dodaje się wyrazy „oraz ust. 4 pkt 3”;
     - **b)**
 
 - **2)** w art. 141 w ust. 1 w pkt 2 wyrazy „i 6–10” zastępuje się wyrazami „i 6–9” oraz na końcu zdania kropkę zastępuje się przecinkiem i dodaje pkt 3 w brzmieniu: „

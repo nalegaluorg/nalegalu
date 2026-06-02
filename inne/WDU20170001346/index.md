@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 4 lipca 2017 r. zmieniające rozporządzenie w sprawie praktyki zawodowej realizowanej w ramach kształcenia fizjoterapeutów
+# Rozporządzenie Ministra Zdrowiaz dnia 4 lipca 2017 r. zmieniające rozporządzenie w sprawie praktyki zawodowej realizowanej w ramach kształcenia fizjoterapeutów Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-04 |
 | Data wydania | 2017-07-07 |
-| Wejście w życie | 2017-07-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001346) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1346/text.pdf) |
 
@@ -31,18 +30,13 @@ Na podstawie art. 14 ust. 11 ustawy z dnia 25 września 2015 r. o zawodzie fizjo
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 22 lutego 2017 r. w sprawie praktyki zawodowej realizowanej w ramach kształcenia fizjoterapeutów (Dz. U. poz. 537) w załączniku nr 1 do rozporządzenia w pkt 4:
 1)
-ppkt 1 otrzymuje brzmienie:
-„
+ppkt 1 otrzymuje brzmienie: „
 1)
-fizjoterapia w ortopedii i traumatologii;
-” ;
+fizjoterapia w ortopedii i traumatologii; ” ;
 2)
-w ppkt 12 kropkę zastępuje się średnikiem i dodaje się ppkt 13 w brzmieniu:
-„
+w ppkt 12 kropkę zastępuje się średnikiem i dodaje się ppkt 13 w brzmieniu: „
 13)
-fizjoterapia w medycynie sportowej.
-” .
+fizjoterapia w medycynie sportowej. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 

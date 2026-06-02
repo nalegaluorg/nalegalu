@@ -22,18 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-13 |
 | Data wydania | 2023-08-29 |
-| Wejście w życie | 2023-08-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001733) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1733/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.) w art. 43a:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675 i 1692.) w art. 43a:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
 1. Świadczeniobiorcom:
 
 - **1)** do ukończenia 18. roku życia,
-- **2)** po ukończeniu 65. roku życia przysługuje bezpłatne zaopatrzenie w leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne określone w wykazie, o którym mowa w art. 37 ust. 1 ustawy o refundacji, ustalonym w sposób określony w ust. 2, na podstawie recepty wystawionej przez lekarza lub pielęgniarkę udzielających świadczeń opieki zdrowotnej w ramach umowy o udzielanie świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej albo lekarza posiadającego prawo wykonywania zawodu, który zaprzestał wykonywania zawodu i wystawił receptę dla siebie albo dla małżonka, albo dla osoby pozostającej we wspólnym pożyciu albo dla krewnych lub powinowatych w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa. ” ;
+- **2)** po ukończeniu 65. roku życia – przysługuje bezpłatne zaopatrzenie w leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne określone w wykazie, o którym mowa w art. 37 ust. 1 ustawy o refundacji, ustalonym w sposób określony w ust. 2, na podstawie recepty wystawionej przez lekarza lub pielęgniarkę udzielających świadczeń opieki zdrowotnej w ramach umowy o udzielanie świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej albo lekarza posiadającego prawo wykonywania zawodu, który zaprzestał wykonywania zawodu i wystawił receptę dla siebie albo dla małżonka, albo dla osoby pozostającej we wspólnym pożyciu albo dla krewnych lub powinowatych w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa. ” ;
 - **2)** w ust. 4 po wyrazach „świadczeń opieki zdrowotnej” dodaje się wyrazy „świadczeniobiorcom po ukończeniu 65. roku życia”.
 
 **Art. 2.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2023 r. poz. 826) wprowadza się następujące zmiany:
@@ -51,5 +50,5 @@ source: "eli-html"
 - **3)** w art. 45a w pkt 4 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „ kod uprawnienia dodatkowego pacjenta określony symbolem „DZ”, a w przypadku braku uprawnienia dodatkowego symbol „X”; ” .
     - **h)**
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675 i 1692.
 

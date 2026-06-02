@@ -90,7 +90,7 @@ b) spirometr lub przystawka spirometryczna spełniająca następujące minimalne
 WYKAZ ŚWIADCZEŃ GWARANTOWANYCH Z ZAKRESU PROGRAMÓW ZDROWOTNYCH ORAZ WARUNKI ICH REALIZACJI wpływać niekorzystnie na przebieg ciąży i rozwój płodu;
 7) porada antynikotynowa z zaplanowaniem leczenia dla świadczeniobiorców, którzy wykażą gotowość rzucenia palenia lub zaprzestania używania nowatorskich wyrobów tytoniowych lub używania papierosów elektronicznych w okresie najbliższych 30 dni, a w przypadku braku motywacji zidentyfikowanie powodu i uświadomienie zagrożenia chorobami odtytoniowymi oraz związanymi z używaniem papierosów elektronicznych;
 8) prowadzenie leczenia zgodnie z ustalonym ze świadczeniobiorcą schematem postępowania.
-II. Diagnostyka i profilaktyk a POChP:
+II. Diagnostyka i profilaktyka POChP:
 1) zebranie wywiadu dotyczącego używania wyrobów tytoniowych (w tym nowatorskich wyrobów tytoniowych) lub papierosów elektronicznych, z uwzględnieniem: wieku rozpoczęcia, liczby lat używania tych wyrobów, liczby wypalanych papierosów lub liczby używanych nowatorskich wyrobów tytoniowych (ilości zużywanego tytoniu dziennie lub ilości zużywanego płynu do ponownego napełniania papierosów elektronicznych tygodniowo), liczby prób zaprzestania używania i czasu ich trwania, chęci zaprzestania i motywacji do wprowadzenia zmian, oraz ocena poziomu uzależnienia;
 2) pomiar masy ciała, wzrostu, ciśnienia tętniczego krwi;
 3) badanie fizykalne;
@@ -130,7 +130,7 @@ a) aparat do pomiaru ciśnienia krwi,
 b) aparat do pomiaru stężenia tlenku węgla w wydychanym powietrzu,
 c) waga medyczna ze wzrostomierzem.
 Lp. Nazwa programu zdrowotnego
-2. Program profilaktyki rak a szyjki macicy Zakres świadczenia gwarantowanego Warunki realizacji świadczeń gwarantowanych Świadczeniobiorcy Świadczeniodawcy 1 2 3 Etap podstawowy − pobranie materiału z szyjki macicy do
+2. Program profilaktyki raka szyjki macicy Zakres świadczenia gwarantowanego Warunki realizacji świadczeń gwarantowanych Świadczeniobiorcy Świadczeniodawcy 1 2 3 Etap podstawowy − pobranie materiału z szyjki macicy do
 1. Kryteria kwalifikacji przesiewowego badania cytologicznego.
 Badania wykonuje się:
 1) co 36 miesięcy u kobiet w wieku od 25 do 59 lat (przy określaniu wieku należy wziąć pod uwagę rok urodzenia);
@@ -272,7 +272,7 @@ kierownika specjalizacji potwierdzające umiejętności w tym zakresie;
 1) podanie immunoglobuliny anty- RhD pacjentce RhD-ujemnej po inwazyjnej diagnostyce prenatalnej;
 2) świadczenie polega na podaniu immunoglobuliny anty-RhD zgodnie z aktualnymi zaleceniami konsultantów krajowych w dziedzinie położnictwa i ginekologii, transfuzjologii klinicznej oraz perinatologii.
 Lp. Nazwa programu zdrowotnego
-5. Ortodontyczn a opieka nad dziećmi z wrodzonymi wadami części twarzowej czaszki Zakres świadczenia gwarantowanego Warunki realizacji świadczeń gwarantowanych Świadczeniobiorcy Świadczeniodawcy 1 2 3 Specjalistyczne leczenie ortodontyczne 1. Kryteria kwalifikacji populacji osób z wrodzonymi wadami Do leczenia w ramach programu kwalirozwojowymi typu rozszczep podniebie- fikuje się świadczeniobiorców: nia pierwotnego lub wtórnego oraz ano- 1) z całkowitym jedno- lub obustronmalie twarzy w zakresie zależnym od nym rozszczepem podniebienia, rozwoju I i II łuku skrzelowego i ograni- zgodnie z następującymi kryteriami czenie u nich zniekształceń morfologiczno- kwalifikacyjnymi: -czynnościowych w tym zakresie. a) w okresie przedoperacyjnym: szeroka szczelina, znacznie wysunięta kość przysieczna,
+5. Ortodontyczna opieka nad dziećmi z wrodzonymi wadami części twarzowej czaszki Zakres świadczenia gwarantowanego Warunki realizacji świadczeń gwarantowanych Świadczeniobiorcy Świadczeniodawcy 1 2 3 Specjalistyczne leczenie ortodontyczne 1. Kryteria kwalifikacji populacji osób z wrodzonymi wadami Do leczenia w ramach programu kwalirozwojowymi typu rozszczep podniebie- fikuje się świadczeniobiorców: nia pierwotnego lub wtórnego oraz ano- 1) z całkowitym jedno- lub obustronmalie twarzy w zakresie zależnym od nym rozszczepem podniebienia, rozwoju I i II łuku skrzelowego i ograni- zgodnie z następującymi kryteriami czenie u nich zniekształceń morfologiczno- kwalifikacyjnymi: -czynnościowych w tym zakresie. a) w okresie przedoperacyjnym: szeroka szczelina, znacznie wysunięta kość przysieczna,
 b) w okresie pooperacyjnym: zgryz krzyżowy częściowy boczny łącznie ze zgryzem krzyżowym częściowym przednim lub niedorozwojem przedniego odcinka szczęki u świadczeniobiorców Q37.1 oraz obustronny zgryz krzyżowy częściowy boczny u świadczeniobiorców Q37.0;
 2) z rozszczepem podniebienia pierwotnego obustronnym Q36.0, pośrodkowym Q36.1, jednostronnym Q36.9, zgodnie z następującymi kryteriami kwalifikacyjnymi:
 a) odwrotny nagryz poziomy pojedynczych siekaczy lub zgryz krzyżowy (boczny),
@@ -482,23 +482,23 @@ h) neurochirurgii.
 5) wanny do masażu wirowego.
 8. Zapewnienie dostępu do badań umożliwiających monitorowanie stanu świadczeniobiorcy zgodnie z kryteriami określonymi przez zespół terapeutyczny.
 Lp. Nazwa programu zdrowotnego
-8. Program badań przesiewowych raka jelita grubego Zakres świadczenia gwarantowanego Warunki realizacji świadczeń gwarantowanych Świadczeniobiorcy Świadczeniodawcy 1 2 3 Wykonanie badani a przesiewowe go polegającego na realizacji pełnej kolonoskopii z uwidocznieniem dna kątnicy i proksymalnego fałdu zastawki Bauhina, w tym:
+8. Program badań przesiewowych raka jelita grubego Zakres świadczenia gwarantowanego Warunki realizacji świadczeń gwarantowanych Świadczeniobiorcy Świadczeniodawcy 1 2 3 Wykonanie badania przesiewowego polegającego na realizacji pełnej kolonoskopii z uwidocznieniem dna kątnicy i proksymalnego fałdu zastawki Bauhina, w tym:
 1) pobranie wycinków z nacieku nowotworowego lub zmian podejrzanych o charakter nowotworowy;
 2) usunięcie polipów wielkości do 15 mm;
 3) poddanie badaniu histopatologicznemu wszystkich wycinków i usuniętych polipów;
+1. Kryteria kwalifikacji
 4) wykonywanie badań w znieczuleniu ogólnym u osób:
 a) po przebytych rozległych operacjach w obrębie jamy brzusznej, zwłaszcza operacjach ginekologicznych, w tym cięciach cesarskich, i operacjach będących wynikiem powikłań medycznych,
 b) po niepełnych lub bardzo bolesnych badaniach endoskopowych jelita grubego w przeszłości,
 c) które zgłaszają świadczeniodawcy duży lęk przed wykonaniem badania;
 5) ustalenie dalszych zaleceń dotyczących leczenia u osób poddanych badaniom przesiewowym.
-1. Kryteri a kwalifikacji Osoby w wieku:
+Osoby w wieku:
 1) 50–65 lat;
 2) 40–49 lat, które posiadają krewnego pierwszego stopnia, u któreg o rozpoznano nowotwór jelita grubego.
 2. Kryteria wyłączenia Osoby, u których:
 1) występują objawy kliniczne sugerujące nowotwór jelita grubego;
-2)
+2) kolonoskopia została wykonana w okresie ostatnich 10 lat.
 1. Tryb realizacji świadczenia ambulatoryjny.
-kolonoskopia została wykonana w okresie ostatnich 10 lat.
 2. Warunki wymagane od świadczeniodawców:
 1) personel:
 a) lekarz specjalista w dziedzinie gastroenterologii lub

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sprawiedliwościz dnia 5 grudnia 2022 r. w sprawie wniosków składanych do Centralnej Informacji Krajowego Rejestru Sądowego za pośrednictwem systemu teleinformatycznego, a także odpisów, wyciągów, zaświadczeń, informacji, dokumentów oraz kopii dokumentów doręczanych wnioskodawcom za pośrednictwem tego systemu
+# Rozporządzenie Ministra Sprawiedliwościz dnia 5 grudnia 2022 r. w sprawie wniosków składanych do Centralnej Informacji Krajowego Rejestru Sądowego za pośrednictwem systemu teleinformatycznego, a także odpisów, wyciągów, zaświadczeń, informacji, dokumentów oraz kopii dokumentów doręczanych wnioskodawcom za pośrednictwem tego systemu Niniejsze rozporządzenie w zakresie swojej regulacji wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1151 z dnia 20 czerwca 2019 r. zmieniającą dyrektywę (UE) 2017/1132 w odniesieniu do stosowania narzędzi i procesów cyfrowych w prawie spółek (Dz. Urz. UE L 186 z 11.07.2019, str. 80–104).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-05 |
 | Data wydania | 2022-12-09 |
-| Wejście w życie | 2022-12-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2567/text.pdf) |
 
@@ -95,5 +94,5 @@ Jeżeli we właściwym postępowaniu nie ma możliwości wykorzystania dokument�
 § 9.
 Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 24 maja 2021 r. w sprawie wniosków składanych do Centralnej Informacji Krajowego Rejestru Sądowego za pośrednictwem systemu teleinformatycznego, a także odpisów, wyciągów, zaświadczeń, informacji, dokumentów oraz kopii dokumentów doręczanych wnioskodawcom za pośrednictwem tego systemu (Dz. U. poz. 963).
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 2 pkt 9, § 4 ust. 2 i § 5 ust. 2, które wchodzą w życie z dniem 16 marca 2023 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 2 pkt 9, § 4 ust. 2 i § 5 ust. 2, które wchodzą w życie z dniem 16 marca 2023 r. 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1151 z dnia 20 czerwca 2019 r. zmieniającą dyrektywę (UE) 2017/1132 w odniesieniu do stosowania narzędzi i procesów cyfrowych w prawie spółek (Dz. Urz. UE L 186 z 11.07.2019, str. 80–104).
 

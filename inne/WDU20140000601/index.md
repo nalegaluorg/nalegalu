@@ -66,8 +66,8 @@ Instrukcja
 ............................................................................................................................................................................................
 ............................................................................................................................................................................................
 5. Załączniki
-1) p isemne zobowiązanie do przestrzegania egzekwowania warunków związanych końcowym zastosowaniem wywozem lub transferem wewnątrzunijnym uzbrojenia l. str. ……;
-2) p isemne zobowiązanie do przekazania Szefowi ABW dokumentów niezbędnych do weryfikacji danych zawartych we wniosku potwierdzenia spełniania warunków wydania świadectwa wiarygodności odbiorcy oraz do dostarczenia informacji dotyczących końcowych użytkowników ostatecznego przeznaczenia uzbrojenia bę dącego przedmiotem wywozu lub transferu wewnątrzunijnego terytorium na terytorium Rzeczypospolitej Polskiej l. str. ……;
+1) pisemne zobowiązanie do przestrzegania egzekwowania warunków związanych końcowym zastosowaniem wywozem lub transferem wewnątrzunijnym uzbrojenia l. str. ……;
+2) pisemne zobowiązanie do przekazania Szefowi ABW dokumentów niezbędnych do weryfikacji danych zawartych we wniosku potwierdzenia spełniania warunków wydania świadectwa wiarygodności odbiorcy oraz do dostarczenia informacji dotyczących końcowych użytkowników ostatecznego przeznaczenia uzbrojenia będącego przedmiotem wywozu lub transferu wewnątrzunijnego terytorium na terytorium Rzeczypospolitej Polskiej l. str. ……;
 3) kopia certyfikatu zgodności wymaganiami zakresie wewnętrznego systemu kontroli l. str. ……;
 4) wykaz zawartych umów na obrót uzbrojeniem okresie 6 miesięcy poprzedzających złożenie wniosku l.
 str. ……;

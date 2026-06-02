@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o zwalczaniu nieuczciwej konkurencji oraz niektórych innych ustaw
+# Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o zwalczaniu nieuczciwej konkurencji oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/943 z dnia 8 czerwca 2016 r. w sprawie ochrony niejawnego know-how i niejawnych informacji handlowych (tajemnic przedsiębiorstwa) przed ich bezprawnym pozyskiwaniem, wykorzystywaniem i ujawnianiem (Dz. Urz. UE L 157 z 15.06.2016, str. 1).
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-05 |
 | Data wydania | 2018-08-27 |
-| Wejście w życie | 2018-09-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001637) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1637/text.pdf) |
+
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, ustawę z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym, ustawę z dnia 9 października 2015 r. o produktach biobójczych, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, ustawę z dnia 15 grudnia 2016 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi oraz ustawę z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu.
 
 **Art. 1.** W ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419) wprowadza się następujące zmiany:
 
@@ -78,9 +79,9 @@ source: "eli-html"
 
 **Art. 7551.** W sprawach dotyczących roszczeń z tytułu czynów nieuczciwej konkurencji polegających na naruszeniu tajemnicy przedsiębiorstwa, w których udzielono zabezpieczenia polegającego na ustanowieniu zakazów, nakazów lub zajęciu rzeczy ruchomych, mającego na celu zaprzestanie wykorzystywania tajemnicy przedsiębiorstwa, sąd może, na wniosek obowiązanego, zamiast tych środków nakazać obowiązanemu złożenie na rachunek depozytowy Ministra Finansów odpowiedniej sumy pieniężnej dla zabezpieczenia roszczeń uprawnionego z tytułu dalszego wykorzystywania tajemnicy przedsiębiorstwa. Postanowienie może zapaść tylko po przeprowadzeniu rozprawy. ” .
 
-**Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm.) w art. 5 w ust. 12 wyrazy „art. 11 ust. 4” zastępuje się wyrazami „art. 11 ust. 2”.
+**Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356 i 1629.) w art. 5 w ust. 12 wyrazy „art. 11 ust. 4” zastępuje się wyrazami „art. 11 ust. 2”.
 
-**Art. 4.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211, z późn. zm.) w art. 8 w ust. 3 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”.
+**Art. 4.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544 i 1629.) w art. 8 w ust. 3 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”.
 
 **Art. 5.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183 i 1629) w art. 77 w ust. 6 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”.
 
@@ -115,5 +116,5 @@ source: "eli-html"
 
 2. Przepisy ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą stosuje się także do postępowań wszczętych i niezakończonych przed dniem wejścia wżycie niniejszej ustawy.
 
-**Art. 16.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 16.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/943 z dnia 8 czerwca 2016 r. w sprawie ochrony niejawnego know-how i niejawnych informacji handlowych (tajemnic przedsiębiorstwa) przed ich bezprawnym pozyskiwaniem, wykorzystywaniem i ujawnianiem (Dz. Urz. UE L 157 z 15.06.2016, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, ustawę z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym, ustawę z dnia 9 października 2015 r. o produktach biobójczych, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, ustawę z dnia 15 grudnia 2016 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi oraz ustawę z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356 i 1629. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544 i 1629.
 

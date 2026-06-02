@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2000-11-16 |
 | Data wydania | 2000-12-20 |
-| Wejście w życie | 2001-01-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001141190) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1190/text.pdf) |
 
@@ -120,7 +119,7 @@ source: "eli-html"
 - **3)** ministra właściwego do spraw Skarbu Państwa,
 - **4)** ministra właściwego do spraw rolnictwa,
 - **5)** ministra właściwego do spraw rynków rolnych,
-- **6)** ministra właściwego do spraw zagranicznych w randze sekretarza albo podsekretarza stanu oraz
+- **6)** ministra właściwego do spraw zagranicznych – w randze sekretarza albo podsekretarza stanu oraz
 - **7)** przedstawiciel Prezesa Narodowego Banku Polskiego. ” ;
 - **8)** w art. 8 w ust. 2: wyraz „minimalny” zastępuje się wyrazem „maksymalny”, wyraz „krajowego” zastępuje się wyrazem „zagranicznego”;
     - **a)**

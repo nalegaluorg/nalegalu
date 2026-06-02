@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportuz dnia 3 września 2021 r. w sprawie szczegółowych kwalifikacji wymaganych od nauczycieli szkół artystycznych i placówek artystycznych
+# Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportuz dnia 3 września 2021 r. w sprawie szczegółowych kwalifikacji wymaganych od nauczycieli szkół artystycznych i placówek artystycznych Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. z 2021 r. poz. 970).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-03 |
 | Data wydania | 2021-09-10 |
-| Wejście w życie | 2021-09-11 |
 | Ostatnia zmiana | 2026-01-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1665/text.pdf) |
 
@@ -85,8 +84,7 @@ przygotowania dydaktycznego do nauczania danych zajęć edukacyjnych artystyczny
 a)
 z zakresu dydaktyki danych zajęć edukacyjnych artystycznych w wymiarze co najmniej 150 godzin oraz z zakresu praktyk zawodowych w wymiarze co najmniej 120 godzin – w przypadku przygotowania dydaktycznego do prowadzenia pierwszych zajęć edukacyjnych artystycznych albo
 b)
-z zakresu dydaktyki danych zajęć edukacyjnych artystycznych w wymiarze co najmniej 90 godzin oraz z zakresu praktyk zawodowych w wymiarze co najmniej 90 godzin – w przypadku przygotowania dydaktycznego do prowadzenia kolejnych zajęć edukacyjnych artystycznych
-w trakcie studiów lub studiów podyplomowych w uczelni artystycznej lub w trakcie kursu kwalifikacyjnego w zakresie przygotowania pedagogicznego prowadzonego zgodnie z przepisami w sprawie placówek doskonalenia nauczycieli.
+z zakresu dydaktyki danych zajęć edukacyjnych artystycznych w wymiarze co najmniej 90 godzin oraz z zakresu praktyk zawodowych w wymiarze co najmniej 90 godzin – w przypadku przygotowania dydaktycznego do prowadzenia kolejnych zajęć edukacyjnych artystycznych – w trakcie studiów lub studiów podyplomowych w uczelni artystycznej lub w trakcie kursu kwalifikacyjnego w zakresie przygotowania pedagogicznego prowadzonego zgodnie z przepisami w sprawie placówek doskonalenia nauczycieli.
 2.
 Przygotowanie pedagogiczne do prowadzenia zajęć praktycznej nauki zawodu w szkole artystycznej posiada nauczyciel, który zgodnie z przepisami w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela nabył wiedzę i umiejętności z zakresu:
 1)
@@ -96,8 +94,7 @@ przygotowania dydaktycznego do nauczania danych zajęć, w tym:
 a)
 z zakresu dydaktyki danych zajęć w wymiarze co najmniej 150 godzin oraz z zakresu praktyk zawodowych w wymiarze co najmniej 120 godzin – w przypadku przygotowania dydaktycznego do prowadzenia pierwszych zajęć albo
 b)
-z zakresu dydaktyki danych zajęć w wymiarze co najmniej 90 godzin oraz z zakresu praktyk zawodowych w wymiarze co najmniej 90 godzin – w przypadku przygotowania dydaktycznego do prowadzenia kolejnych zajęć
-w trakcie studiów lub studiów podyplomowych lub w trakcie kursu kwalifikacyjnego w zakresie przygotowania pedagogicznego prowadzonego zgodnie z przepisami w sprawie placówek doskonalenia nauczycieli.
+z zakresu dydaktyki danych zajęć w wymiarze co najmniej 90 godzin oraz z zakresu praktyk zawodowych w wymiarze co najmniej 90 godzin – w przypadku przygotowania dydaktycznego do prowadzenia kolejnych zajęć – w trakcie studiów lub studiów podyplomowych lub w trakcie kursu kwalifikacyjnego w zakresie przygotowania pedagogicznego prowadzonego zgodnie z przepisami w sprawie placówek doskonalenia nauczycieli.
 3.
 Przygotowanie pedagogiczne do wykonywania zawodu nauczyciela zajęć edukacyjnych ogólnokształcących w szkole artystycznej w zakresie odpowiadającym klasom I-III szkoły podstawowej posiada nauczyciel, który w trakcie studiów nabył wiedzę i umiejętności z zakresu tych zajęć i w określonym wymiarze godzin zgodnie z przepisami w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela w odniesieniu do nauczyciela przedszkola i edukacji wczesnoszkolnej (klasy I-III szkoły podstawowej).
 4.
@@ -113,8 +110,7 @@ przygotowania dydaktycznego do nauczania danych zajęć, w tym:
 a)
 z zakresu dydaktyki danych zajęć w wymiarze co najmniej 150 godzin oraz z zakresu praktyk zawodowych w wymiarze co najmniej 120 godzin – w przypadku przygotowania dydaktycznego do prowadzenia pierwszych zajęć albo
 b)
-z zakresu dydaktyki danych zajęć w wymiarze co najmniej 90 godzin oraz z zakresu praktyk zawodowych w wymiarze co najmniej 90 godzin – w przypadku przygotowania dydaktycznego do prowadzenia kolejnych zajęć
-w trakcie studiów lub studiów podyplomowych lub w trakcie kursu kwalifikacyjnego w zakresie przygotowania pedagogicznego prowadzonego zgodnie z przepisami w sprawie placówek doskonalenia nauczycieli.
+z zakresu dydaktyki danych zajęć w wymiarze co najmniej 90 godzin oraz z zakresu praktyk zawodowych w wymiarze co najmniej 90 godzin – w przypadku przygotowania dydaktycznego do prowadzenia kolejnych zajęć – w trakcie studiów lub studiów podyplomowych lub w trakcie kursu kwalifikacyjnego w zakresie przygotowania pedagogicznego prowadzonego zgodnie z przepisami w sprawie placówek doskonalenia nauczycieli.
 7.
 Przygotowanie pedagogiczne do nauczania przedmiotu lub prowadzenia zajęć kształcenia ogólnego w ogólnokształcącej szkole artystycznej w zakresie szkoły podstawowej albo w zakresie liceum ogólnokształcącego posiada nauczyciel, który zgodnie z przepisami w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela nabył w trakcie studiów lub studiów podyplomowych wiedzę i umiejętności z zakresu:
 1)
@@ -141,8 +137,7 @@ Kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych artystycz
 1)
 jazzu i muzyki estradowej w zakresie gry na instrumencie, którego będzie nauczać, lub
 2)
-wykonawstwa muzyki dawnej na instrumencie, którego będzie nauczać
-oraz posiada przygotowanie pedagogiczne.
+wykonawstwa muzyki dawnej na instrumencie, którego będzie nauczać – oraz posiada przygotowanie pedagogiczne.
 2.
 Kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych artystycznych rytmiki i kształcenia słuchu w klasach I-III ogólnokształcącej szkoły muzycznej I stopnia i szkoły muzycznej I stopnia o sześcioletnim cyklu kształcenia oprócz osoby wymienionej w § 4 posiada również osoba, która ukończyła ogólnokształcącą szkołę muzyczną II stopnia lub szkołę muzyczną II stopnia w specjalności rytmika oraz:
 1)
@@ -352,8 +347,7 @@ tytuł profesora w dziedzinie lub dziedzinie i dyscyplinie odpowiednio nauki lub
 2)
 stopień naukowy doktora lub doktora habilitowanego w dziedzinie lub dziedzinie i dyscyplinie, lub
 3)
-stopień doktora lub doktora habilitowanego w dziedzinie sztuki i dyscyplinie artystycznej
-odpowiadającej zakresowi nauczanego przedmiotu lub prowadzonych zajęć.
+stopień doktora lub doktora habilitowanego w dziedzinie sztuki i dyscyplinie artystycznej – odpowiadającej zakresowi nauczanego przedmiotu lub prowadzonych zajęć.
 § 24.
 1.
 Kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących przyrody jako przedmiotu uzupełniającego w:
@@ -362,8 +356,7 @@ ogólnokształcącej szkole muzycznej II stopnia i ogólnokształcącej szkole b
 2)
 dotychczasowej ogólnokształcącej szkole sztuk pięknych,
 3)
-klasach dotychczasowego liceum plastycznego i dotychczasowej ogólnokształcącej szkoły sztuk pięknych, prowadzonych w liceum sztuk plastycznych
-posiada również osoba, która posiada kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących biologii, geografii, fizyki lub chemii, określone w § 11 ust. 1. Zajęcia z tego przedmiotu uzupełniającego mogą być również prowadzone przez zespół dwóch lub więcej osób posiadających kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących biologii, fizyki, geografii lub chemii.
+klasach dotychczasowego liceum plastycznego i dotychczasowej ogólnokształcącej szkoły sztuk pięknych, prowadzonych w liceum sztuk plastycznych – posiada również osoba, która posiada kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących biologii, geografii, fizyki lub chemii, określone w § 11 ust. 1. Zajęcia z tego przedmiotu uzupełniającego mogą być również prowadzone przez zespół dwóch lub więcej osób posiadających kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących biologii, fizyki, geografii lub chemii.
 2.
 Kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących historii i społeczeństwa jako przedmiotu uzupełniającego w:
 1)
@@ -371,8 +364,7 @@ ogólnokształcącej szkole muzycznej II stopnia i ogólnokształcącej szkole b
 2)
 dotychczasowej ogólnokształcącej szkole sztuk pięknych,
 3)
-klasach dotychczasowego liceum plastycznego i dotychczasowej ogólnokształcącej szkoły sztuk pięknych, prowadzonych w liceum sztuk plastycznych
-posiada również osoba, która posiada kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących historii określone w § 11 ust. 1. Zajęcia z tego przedmiotu uzupełniającego mogą być również prowadzone przez zespół dwóch lub więcej osób, z których jedna posiada kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących historii, a pozostałe osoby posiadają kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących wiedzy o społeczeństwie, wiedzy o kulturze, filologii klasycznej lub filozofii.
+klasach dotychczasowego liceum plastycznego i dotychczasowej ogólnokształcącej szkoły sztuk pięknych, prowadzonych w liceum sztuk plastycznych – posiada również osoba, która posiada kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących historii określone w § 11 ust. 1. Zajęcia z tego przedmiotu uzupełniającego mogą być również prowadzone przez zespół dwóch lub więcej osób, z których jedna posiada kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących historii, a pozostałe osoby posiadają kwalifikacje do zajmowania stanowiska nauczyciela zajęć edukacyjnych ogólnokształcących wiedzy o społeczeństwie, wiedzy o kulturze, filologii klasycznej lub filozofii.
 § 25.
 1.
 Osoby, o których mowa w § 4, § 6, § 11 ust. 1, § 12 ust. 1, § 14–16, § 22, § 23 i § 28, w zakresie odpowiednich zajęć edukacyjnych posiadają kwalifikacje do zajmowania stanowiska nauczyciela w dotychczasowych ogólnokształcących szkołach sztuk pięknych lub w klasach dotychczasowego liceum plastycznego lub dotychczasowej ogólnokształcącej szkoły sztuk pięknych, prowadzonych w liceach sztuk plastycznych.
@@ -396,8 +388,7 @@ Osoby, które nie ukończyły studiów, o których mowa w § 4, które posiadaj�
 § 29.
 Traci moc rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 20 maja 2014 r. w sprawie szczegółowych kwalifikacji wymaganych od nauczycieli szkół artystycznych, placówek kształcenia artystycznego i placówek doskonalenia nauczycieli (Dz. U. poz. 784).
 § 30.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. z 2021 r. poz. 970).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Kultury, Dziedzictwa Narodowego i Sportu kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. z 2021 r. poz. 970).
 Załącznik – Wykaz egzaminów potwierdzających kwalifikacje do nauczania języków obcych
 1.
 Podstawowa znajomość języka:

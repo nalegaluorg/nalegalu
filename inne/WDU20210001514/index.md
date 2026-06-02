@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji i Naukiz dnia 3 sierpnia 2021 r. w sprawie programu „Rozwój czasopism naukowych”
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 3 sierpnia 2021 r. w sprawie programu „Rozwój czasopism naukowych” Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-03 |
 | Data wydania | 2021-08-18 |
-| Wejście w życie | 2021-09-02 |
 | Ostatnia zmiana | 2025-11-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001514) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1514/text.pdf) |
 
@@ -59,14 +58,13 @@ Do udziału w programie jest uprawniony wydawca polskiego czasopisma działając
 1)
 podmiotem uprawnionym na podstawie art. 366 ust. 1 albo art. 370 pkt 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”, do otrzymania środków finansowych, o których mowa w art. 365 pkt 7 ustawy,
 2)
-przedsiębiorcą w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)
-zwany dalej „przedsiębiorcą”.
+przedsiębiorcą w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 10.07.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3. – zwany dalej „przedsiębiorcą”.
 § 4.
 Pomoc przyznaje się:
 1)
 na wsparcie projektów, których celem jest realizacja działań zmierzających do podniesienia poziomu praktyk wydawniczych i edytorskich, zwiększenia wpływu czasopisma na rozwój nauki oraz utrzymania się czasopisma w międzynarodowym obiegu naukowym, ujętych w opracowanej strategii rozwoju czasopisma, zwanych dalej „projektami”;
 2)
-zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji nr 1407/2013”.
+zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 07.07.2020, str. 3., zwanego dalej „rozporządzeniem Komisji nr 1407/2013”.
 § 5.
 1.
 Pomoc nie może być przyznana w przypadkach, o których mowa w art. 1 ust. 1 rozporządzenia Komisji nr 1407/2013.
@@ -195,8 +193,7 @@ Wniosek złożony:
 1)
 przez podmiot niespełniający wymagań określonych w § 3,
 2)
-po terminie określonym w komunikacie
-pozostawia się bez rozpoznania.
+po terminie określonym w komunikacie – pozostawia się bez rozpoznania.
 7.
 Wniosek niespełniający wymagań, o których mowa w ust. 1 pkt 2 i 3 oraz w ust. 2–5, pozostawia się bez rozpoznania, jeżeli braki nie zostaną usunięte w trybie określonym w ust. 8.
 8.
@@ -220,8 +217,7 @@ W przypadku propozycji dotyczącej:
 1)
 przyznania pomocy w kwocie niższej niż wnioskowana albo
 2)
-odmowy przyznania pomocy
-zespół przedstawia ministrowi szczegółowe uzasadnienie.
+odmowy przyznania pomocy – zespół przedstawia ministrowi szczegółowe uzasadnienie.
 § 13.
 1.
 Minister informuje przedsiębiorców, za pośrednictwem systemu, o wynikach oceny merytorycznej, o których mowa w § 12 ust. 3.
@@ -234,8 +230,7 @@ Po ustaleniu listy, o której mowa w ust. 3, minister informuje przedsiębiorcó
 1)
 wielkości przyznanej pomocy,
 2)
-odmowie przyznania pomocy
-za pomocą elektronicznej skrzynki podawczej wnioskodawcy oraz za pośrednictwem systemu.
+odmowie przyznania pomocy – za pomocą elektronicznej skrzynki podawczej wnioskodawcy oraz za pośrednictwem systemu.
 § 14.
 1.
 W terminie 30 dni od dnia przekazania przez ministra informacji, o której mowa w § 13 ust. 4 pkt 1, przedsiębiorca, któremu pomoc została przyznana, składa umowę w formie dokumentu elektronicznego, opatrzonego kwalifikowanym podpisem elektronicznym albo podpisem zaufanym przez tego przedsiębiorcę albo osobę przez niego upoważnioną, na elektroniczną skrzynkę podawczą ministra.
@@ -289,8 +284,7 @@ W przypadku wątpliwości co do:
 1)
 zgodności zakresu zrealizowanych zadań objętych pomocą z treścią wniosku i umową,
 2)
-prawidłowości wydatkowania środków finansowych stanowiących pomoc
-− minister wzywa przedsiębiorcę, za pośrednictwem systemu, do przedłożenia wyjaśnień na piśmie w terminie 7 dni od dnia otrzymania wezwania, z pouczeniem, że ich nieprzedstawienie w tym terminie spowoduje nierozliczenie pomocy.
+prawidłowości wydatkowania środków finansowych stanowiących pomoc − minister wzywa przedsiębiorcę, za pośrednictwem systemu, do przedłożenia wyjaśnień na piśmie w terminie 7 dni od dnia otrzymania wezwania, z pouczeniem, że ich nieprzedstawienie w tym terminie spowoduje nierozliczenie pomocy.
 § 20.
 Po dokonaniu oceny raportu rocznego i oceny raportu końcowego minister informuje przedsiębiorcę o rozliczeniu albo nierozliczeniu pomocy.
 § 21.
@@ -314,8 +308,7 @@ Niezwrócenie niewykorzystanych środków finansowych stanowiących pomoc w term
 § 23.
 Pomoc może być przyznawana do końca okresu dostosowawczego, o którym mowa w art. 7 ust. 4 rozporządzenia Komisji nr 1407/2013, w związku z art. 8 zdanie drugie tego rozporządzenia.
 § 24.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 10.07.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 07.07.2020, str. 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. poz. 1848 i 2335). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 10.07.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 215 z 07.07.2020, str. 3. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 07.07.2020, str. 3.
 Załącznik – Szczegółowe kryteria przyznawania pomocy wraz z przypisanymi im wartościami punktowymi
 Lp. Określenie kryterium Punktacja I Poziom merytoryczny wniosku 0–60 pkt 1 wpływ realizacji opracowanej strategii rozwoju czasopisma na podniesienie poziomu praktyk wydawniczych i edytorskich, zwiększenie wpływu czasopisma na rozwój nauki oraz utrzymanie się czasopisma w międzynarodowym obiegu naukowym 0–30 pkt 2 zasadność planowanych kosztów w odniesieniu do przedmiotu i zakresu projektu 0–20 pkt 3 skuteczność form i środków upowszechniania planowanych do zastosowania w celu upowszechniania artykułów naukowych publikowanych w czasopiśmie 0–10 pkt II Potencjał przedsiębiorcy 0–40 pkt 1 zasięg oddziaływania czasopisma i jego wpływ na rozwój dyscyplin naukowych, w ramach których są publikowane artykuły naukowe w czasopiśmie 0–20 pkt 2 stopień umiędzynarodowienia czasopisma 0–20 pkt
 

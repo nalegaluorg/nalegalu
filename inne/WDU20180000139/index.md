@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rozwoju i Finansówz dnia 2 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wpisu na listę agentów celnych
+# Obwieszczenie Ministra Rozwoju i Finansówz dnia 2 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wpisu na listę agentów celnych Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +31,10 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 27 listopada 2014 r. w sprawie wpisu na listę agentów celnych (Dz. U. poz. 1702), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającym rozporządzenie w sprawie wpisu na listę agentów celnych (Dz. U. poz. 350).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie wpisu na listę agentów celnych (Dz. U. poz. 350), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie wpisu na listę agentów celnych (Dz. U. poz. 350), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-” .
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
-Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 27 listopada 2014 r. w sprawie wpisu na listę agentów celnych
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. ” . 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
+Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 27 listopada 2014 r. w sprawie wpisu na listę agentów celnychObecnie działem administracji rządowej – finanse publiczne kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331).
 Na podstawie art. 80 ust. 8 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2016 r. poz. 1880 i 1948 oraz z 2017 r. poz. 379 i 1086) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -57,7 +54,7 @@ numer i datę wpisu;
 imię i nazwisko.
 § 4.
 1.
-Osoba fizyczna ubiegająca się o wpis na listę agentów celnych składa do właściwego dyrektora izby administracji skarbowej pisemny wniosek zawierający:
+Osoba fizyczna ubiegająca się o wpis na listę agentów celnych składa do właściwego dyrektora izby administracji skarbowejZe zmianą wprowadzoną przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie wpisu na listę agentów celnych (Dz. U. poz. 350), które weszło w życie z dniem 1 marca 2017 r. pisemny wniosek zawierający:
 1)
 imię i nazwisko;
 2)
@@ -75,12 +72,11 @@ odpis dyplomu ukończenia studiów wyższych na kierunku w dziedzinie nauk ekono
 2)
 aktualną informację o osobie z Krajowego Rejestru Karnego w zakresie braku skazania za przestępstwo przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe.
 3.
-Przepisów ust. 2 pkt 1 nie stosuje się do osób, których kwalifikacje do wykonywania zawodu agenta celnego zostały potwierdzone decyzją wydaną na podstawie przepisów ustawy z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. poz. 394, z 2013 r. poz. 1650 oraz z 2014 r. poz. 1004).
+Przepisów ust. 2 pkt 1 nie stosuje się do osób, których kwalifikacje do wykonywania zawodu agenta celnego zostały potwierdzone decyzją wydaną na podstawie przepisów ustawy z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. poz. 394, z 2013 r. poz. 1650 oraz z 2014 r. poz. 1004)Ustawa utraciła moc na podstawie art. 88 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65), która weszła w życie z dniem 18 stycznia 2016 r..
 4.
 Dokumenty, o których mowa w ust. 2 pkt 1, należy załączyć w oryginale lub kopii potwierdzonej za zgodność z oryginałem i podpisanej przez osobę ubiegającą się o wpis na listę agentów celnych.
 5.
 Informacja, o której mowa w ust. 2 pkt 2, powinna zostać sporządzona nie wcześniej niż 3 miesiące przed dniem złożenia wniosku i załączona w oryginale.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331). 2) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie wpisu na listę agentów celnych (Dz. U. poz. 350), które weszło w życie z dniem 1 marca 2017 r. 3) Ustawa utraciła moc na podstawie art. 88 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65), która weszła w życie z dniem 18 stycznia 2016 r. 4) Rozporządzenie zostało ogłoszone w dniu 3 grudnia 2014 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 maja 2004 r. w sprawie egzaminu kwalifikacyjnego na agenta celnego oraz wpisu na listę agentów celnych (Dz. U. z 2013 r. poz. 76), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 3 grudnia 2014 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 maja 2004 r. w sprawie egzaminu kwalifikacyjnego na agenta celnego oraz wpisu na listę agentów celnych (Dz. U. z 2013 r. poz. 76), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768). 1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 2331). 2) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie wpisu na listę agentów celnych (Dz. U. poz. 350), które weszło w życie z dniem 1 marca 2017 r. 3) Ustawa utraciła moc na podstawie art. 88 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65), która weszła w życie z dniem 18 stycznia 2016 r. 4) Rozporządzenie zostało ogłoszone w dniu 3 grudnia 2014 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 maja 2004 r. w sprawie egzaminu kwalifikacyjnego na agenta celnego oraz wpisu na listę agentów celnych (Dz. U. z 2013 r. poz. 76), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 37 ust. 1 ustawy z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych (Dz. U. poz. 768).
 

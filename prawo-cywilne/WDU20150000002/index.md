@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 grudnia 2014 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz ustawy o kosztach sądowych w sprawach cywilnych
+# Ustawa z dnia 5 grudnia 2014 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz ustawy o kosztach sądowych w sprawach cywilnych Niniejsza ustawa służy stosowaniu rozporządzenia (WE) nr 805/2004 Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie utworzenia Europejskiego Tytułu Egzekucyjnego dla roszczeń bezspornych (Dz. Urz. UE L 143 z 30.04.2004, str. 15, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 7, str. 38), rozporządzenia (WE) nr 1896/2006 Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. ustanawiającego postępowanie w sprawie europejskiego nakazu zapłaty (Dz. Urz. UE L 399 z 30.12.2006, str. 1, z późn. zm.), rozporządzenia (WE) nr 861/2007 Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. ustanawiającego europejskie postępowanie w sprawie drobnych roszczeń (Dz. Urz. UE L 199 z 31.07.2007, str. 1, z późn. zm.), rozporządzenia Rady (WE) nr 4/2009 z dnia 18 grudnia 2008 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń oraz współpracy w zakresie zobowiązań alimentacyjnych (Dz. Urz. UE L 7 z 10.01.2009, str. 1, z późn. zm.), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1215/2012 z dnia 12 grudnia 2012 r. w sprawie jurysdykcji i uznawania orzeczeń sądowych oraz ich wykonywania w sprawach cywilnych i handlowych (wersja przekształcona) (Dz. Urz. UE L 351 z 20.12.2012, str. 1, z późn. zm.) oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 606/2013 z dnia 12 czerwca 2013 r. w sprawie wzajemnego uznawania środków ochrony w sprawach cywilnych (Dz. Urz. UE L 181 z 29.06.2013, str. 4).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-05 |
 | Data wydania | 2015-01-02 |
-| Wejście w życie | 2015-01-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+Zaświadczenia dotyczące orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach cywilnych i handlowych
+Wyciągi z orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach alimentacyjnych
+Zaświadczenia dotyczące orzeczeń obejmujących środki ochrony w sprawach cywilnych
+UZNANIE I WYKONANIE NIEKTÓRYCH ORZECZEŃ SĄDÓW PAŃSTW CZŁONKOWSKICH UNII EUROPEJSKIEJ ORAZ POCHODZĄCYCH Z TYCH PAŃSTW UGÓD I DOKUMENTÓW URZĘDOWYCH
+Przepisy ogólne
+Wykonanie
+Odmowa uznania lub wykonania
+
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161,) wprowadza się następujące zmiany:
 
 - **1)** w art. 50515 § 1 otrzymuje brzmienie: „
 
@@ -90,7 +97,7 @@ source: "eli-html"
 
 - **13)** w części trzeciej w tytule I po dziale IIc dodaje się działy IId−IIf w brzmieniu: „
 
-### Dział IID Zaświadczenia dotyczące orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach cywilnych i handlowych
+### Dział IID
 
 **Art. 79510.**
 
@@ -104,7 +111,7 @@ source: "eli-html"
 
 **Art. 79511.** Na postanowienie w przedmiocie wydania zaświadczenia przysługuje zażalenie.
 
-### Dział IIE Wyciągi z orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach alimentacyjnych
+### Dział IIE
 
 **Art. 79512.**
 
@@ -118,7 +125,7 @@ source: "eli-html"
 
 **Art. 79513.** Na postanowienie o odmowie wydania wyciągu wnioskodawcy przysługuje zażalenie. Odpisu zażalenia nie doręcza się przeciwnikowi.
 
-### Dział IIF Zaświadczenia dotyczące orzeczeń obejmujących środki ochrony w sprawach cywilnych
+### Dział IIF
 
 **Art. 79514.** Jeżeli orzeczenie obejmujące środek ochrony wchodzący w zakres zastosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 606/2013 z dnia 12 czerwca 2013 r. w sprawie wzajemnego uznawania środków ochrony w sprawach cywilnych (Dz. Urz. UE L 181 z 29.06.2013, str. 4), zwanego dalej „rozporządzeniem nr 606/2013”, spełnia warunki określone w tym rozporządzeniu, sąd, który wydał to orzeczenie, wydaje na wniosek osoby objętej ochroną określone w rozporządzeniu zaświadczenie na potrzeby uznania lub wykonania tego orzeczenia w innym państwie członkowskim Unii Europejskiej.
 
@@ -164,9 +171,9 @@ source: "eli-html"
 - **20)** w części czwartej w księdze trzeciej uchyla się tytuły III−VI;
 - **21)** w części czwartej dodaje się księgę czwartą w brzmieniu: „
 
-# Księga CZWARTA UZNANIE I WYKONANIE NIEKTÓRYCH ORZECZEŃ SĄDÓW PAŃSTW CZŁONKOWSKICH UNII EUROPEJSKIEJ ORAZ POCHODZĄCYCH Z TYCH PAŃSTW UGÓD I DOKUMENTÓW URZĘDOWYCH
+# Księga CZWARTA
 
-## Tytuł I Przepisy ogólne
+## Tytuł I
 
 **Art. 115313.** Przepisy niniejszej księgi stosuje się do orzeczeń sądów państw członkowskich Unii Europejskiej oraz pochodzących z tych państwugód i dokumentów urzędowych objętych zakresem zastosowania rozporządzenia nr 1215/2012, rozporządzenia nr 805/2004, rozporządzenia nr 1896/2006, rozporządzenia nr 861/2007, rozporządzenia nr 4/2009 i rozporządzenia nr 606/2013.
 
@@ -181,7 +188,7 @@ source: "eli-html"
 
 **Art. 115315.** Orzeczenia wydane w państwach członkowskich Unii Europejskiej obejmujące środki ochrony wchodzące w zakres zastosowania rozporządzenia nr 606/2013, które podlegają wykonaniu w inny sposób niż w drodze egzekucji stanowią podstawę wszczęcia postępowania wykonawczego.
 
-## Tytuł II Wykonanie
+## Tytuł II
 
 **Art. 115316.**
 
@@ -218,7 +225,7 @@ source: "eli-html"
 
 **Art. 115322.** Przepisy art. 115316, art. 115319 i art. 115321 pkt 2 stosuje się odpowiednio do orzeczeń obejmujących środki ochrony wchodzące w zakres zastosowania rozporządzenia nr 606/2013, które podlegają wykonaniu w inny sposób niż w drodze egzekucji.
 
-## Tytuł III Odmowa uznania lub wykonania
+## Tytuł III
 
 **Art. 115323.**
 
@@ -240,5 +247,5 @@ source: "eli-html"
 - **2b)** odmowę uznania albo stwierdzenie braku podstaw do odmowy uznania, o których mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1215/2012 z dnia 12 grudnia 2012 r. w sprawie jurysdykcji i uznawania orzeczeń sądowych oraz ich wykonywania w sprawach cywilnych i handlowych (wersja przekształcona);
 - **2c)** odmowę uznania, o którym mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 606/2013 z dnia 12 czerwca 2013 r. w sprawie wzajemnego uznawania środków ochrony w sprawach cywilnych; ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 10 stycznia 2015 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 10 stycznia 2015 r. 1) Niniejsza ustawa służy stosowaniu rozporządzenia (WE) nr 805/2004 Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie utworzenia Europejskiego Tytułu Egzekucyjnego dla roszczeń bezspornych (Dz. Urz. UE L 143 z 30.04.2004, str. 15, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 7, str. 38), rozporządzenia (WE) nr 1896/2006 Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. ustanawiającego postępowanie w sprawie europejskiego nakazu zapłaty (Dz. Urz. UE L 399 z 30.12.2006, str. 1, z późn. zm.), rozporządzenia (WE) nr 861/2007 Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. ustanawiającego europejskie postępowanie w sprawie drobnych roszczeń (Dz. Urz. UE L 199 z 31.07.2007, str. 1, z późn. zm.), rozporządzenia Rady (WE) nr 4/2009 z dnia 18 grudnia 2008 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń oraz współpracy w zakresie zobowiązań alimentacyjnych (Dz. Urz. UE L 7 z 10.01.2009, str. 1, z późn. zm.), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1215/2012 z dnia 12 grudnia 2012 r. w sprawie jurysdykcji i uznawania orzeczeń sądowych oraz ich wykonywania w sprawach cywilnych i handlowych (wersja przekształcona) (Dz. Urz. UE L 351 z 20.12.2012, str. 1, z późn. zm.) oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 606/2013 z dnia 12 czerwca 2013 r. w sprawie wzajemnego uznawania środków ochrony w sprawach cywilnych (Dz. Urz. UE L 181 z 29.06.2013, str. 4). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161,
 

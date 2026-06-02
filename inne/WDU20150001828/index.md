@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 23 października 2015 r. w sprawie regulaminu pobytu w ośrodku dla cudzoziemców
+# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 23 października 2015 r. w sprawie regulaminu pobytu w ośrodku dla cudzoziemców Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2013/33/UE z dnia 26 czerwca 2013 r. w sprawie ustanowienia norm dotyczących przyjmowania wnioskodawców ubiegających się o ochronę międzynarodową (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 96).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-23 |
 | Data wydania | 2015-11-06 |
-| Wejście w życie | 2015-11-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001828) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1828/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Regulamin pobytu w ośrodku dla cudzoziemców
 Treść rozporządzenia
-Na podstawie art. 82 ust. 2 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 680, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 82 ust. 2 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 680, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1650, z 2014 r. poz. 1004 oraz z 2015 r. poz. 1607.) zarządza się, co następuje:
 § 1.
 Określa się regulamin pobytu w ośrodku dla cudzoziemców, stanowiący załącznik do rozporządzenia.
 § 2.
 Traci moc rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 grudnia 2011 r. w sprawie regulaminu pobytu w ośrodku dla cudzoziemców ubiegających się o nadanie statusu uchodźcy (Dz. U. Nr 282, poz. 1654).
 § 3.
-Rozporządzenie wchodzi w życie z dniem 13 listopada 2015 r.
+Rozporządzenie wchodzi w życie z dniem 13 listopada 2015 r. 2) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2013/33/UE z dnia 26 czerwca 2013 r. w sprawie ustanowienia norm dotyczących przyjmowania wnioskodawców ubiegających się o ochronę międzynarodową (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 96). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1650, z 2014 r. poz. 1004 oraz z 2015 r. poz. 1607.
 Załącznik – Regulamin pobytu w ośrodku dla cudzoziemców
 § 1.
 Regulamin określa zasady pobytu w ośrodkach dla cudzoziemców, zwanych dalej „ośrodkami”.
@@ -77,8 +76,7 @@ przeniesieniem do innego ośrodka,
 2)
 przyznaniem pomocy socjalnej realizowanej w postaci świadczenia pieniężnego na pokrycie we własnym zakresie kosztów pobytu na terytorium Rzeczypospolitej Polskiej,
 3)
-ustaniem prawa do pomocy socjalnej
-rozlicza się, za pokwitowaniem, z przedmiotów otrzymanych do użytku.
+ustaniem prawa do pomocy socjalnej – rozlicza się, za pokwitowaniem, z przedmiotów otrzymanych do użytku.
 § 5.
 1.
 Mieszkańca kwateruje się w pomieszczeniu mieszkalnym ośrodka wraz z jego małoletnimi dziećmi, o ile służy to najlepszemu zabezpieczeniu interesów tych małoletnich dzieci, a w miarę możliwości, za jego zgodą, także z innymi członkami jego rodziny, i wyznacza mu się miejsce do spania.

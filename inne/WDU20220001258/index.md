@@ -26,13 +26,14 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1258/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie Rozdział 1 – Przepisy ogólne Rozdział 2 – Polska Agencja Antydopingowa Rozdział 3 – Kontrola antydopingowa Rozdział 4 – Gospodarka finansowa Agencji Rozdział 5 – Panel Dyscyplinarny Rozdział 6 – Współpraca krajowa w zwalczaniu dopingu w sporcie Rozdział 6a – Polskie Laboratorium Antydopingowe Rozdział 6b – Gospodarka finansowa Laboratorium Rozdział 6c – Działalność Laboratorium Rozdział 6d – Jednostka do spraw Zarządzania Paszportem Zawodnika (APMU) Rozdział 7 – Przepisy karne Rozdział 8 – Przepis zmieniający Rozdział 9 – Przepisy dostosowujące, przejściowe i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie (Dz. U. z 2021 r. poz. 2153), z uwzględnieniem zmian wprowadzonych ustawą z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu w sporcie (Dz. U. poz. 2438) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 kwietnia 2022 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2–5 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu w sporcie (Dz. U. poz. 2438), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2–5 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu w sporcie (Dz. U. poz. 2438), które stanowią: „
+Przepisy ogólne
+Polska Agencja Antydopingowa
 1.
 Polska Agencja Antydopingowa, zwana dalej „Agencją”, z siedzibą w Warszawie, jest państwową osobą prawną.
 2.
@@ -71,11 +72,16 @@ Agencja zleca analizę antydopingową próbki fizjologicznej zawodnika, pobranej
 Zadanie, o którym mowa w ust. 1a, należy do działalności bieżącej Agencji w zakresie, w jakim pobranie próbki fizjologicznej zawodnika nastąpiło w toku prowadzonej kontroli antydopingowej dofinansowanej ze środków dotacji podmiotowej, o której mowa w art. 30 ust. 1.
 2.
 Agencja wykonuje zadania w sposób niezależny i bezstronny.
+Kontrola antydopingowa
+Gospodarka finansowa Agencji
+Panel Dyscyplinarny
+Współpraca krajowa w zwalczaniu dopingu w sporcie
+Polskie Laboratorium Antydopingowe
 1.
 Polskie Laboratorium Antydopingowe, zwane dalej „Laboratorium”, z siedzibą w Warszawie jest państwową osobą prawną.
-2.
+2Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Nadzór nad Laboratorium sprawuje minister właściwy do spraw zdrowia.
-3.
+3Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Minister właściwy do spraw zdrowia nadaje, w drodze rozporządzenia, statut Laboratorium, w którym określa jego organizację wewnętrzną oraz tryb pracy jego organów, mając na względzie sprawne wykonywanie zadań przez Laboratorium.
 1.
 Do zadań Laboratorium należy:
@@ -110,19 +116,19 @@ Do zadań Dyrektora Laboratorium należy:
 reprezentowanie Laboratorium na zewnątrz;
 2)
 sporządzanie projektu rocznego planu finansowego Laboratorium;
-3)
+3Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2.)
 występowanie do ministra właściwego do spraw zdrowia z wnioskami w sprawie wysokości dotacji podmiotowej z budżetu państwa przeznaczonej na dofinansowanie działalności bieżącej Laboratorium;
 4)
 sporządzanie rocznego sprawozdania finansowego Laboratorium;
 5)
 sporządzanie projektów rocznych i wieloletnich planów działania Laboratorium;
-6)
+6Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2.)
 sporządzanie i przedstawianie ministrowi właściwemu do spraw zdrowia, w terminie do dnia 31 marca każdego roku, sprawozdania z działalności Laboratorium w roku poprzednim;
 7)
 wykonywanie innych zadań związanych z kierowaniem Laboratorium.
 3.
 Dyrektor Laboratorium wykonuje wobec osób zatrudnionych w Laboratorium czynności wynikające ze stosunku pracy.
-4.
+4Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Dyrektor Laboratorium przekazuje ministrowi właściwemu do spraw zdrowia informacje o przeprowadzonych w Laboratorium kontrolach. Po zakończeniu kontroli oraz po otrzymaniu wystąpienia pokontrolnego Dyrektor Laboratorium przekazuje ministrowi właściwemu do spraw zdrowia, w terminie 30 dni od dnia otrzymania wystąpienia pokontrolnego, kopię tego wystąpienia oraz informację o działaniach podjętych w związku z jego realizacją.
 1.
 Dyrektor Laboratorium działa przy pomocy swoich zastępców, kierowników komórek organizacyjnych oraz głównego księgowego.
@@ -162,18 +168,18 @@ zaprzestania spełniania jednego z wymagań, o których mowa w ust. 1 pkt 1 i 7�
 działania niezgodnego z prawem lub zasadami rzetelności lub gospodarności;
 5)
 niezatwierdzenia rocznego sprawozdania finansowego Laboratorium lub jego nieprzedstawienia w terminie.
-1.
+1Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Dyrektora Laboratorium powołuje i odwołuje minister właściwy do spraw zdrowia, po zasięgnięciu opinii Rady Laboratorium.
 2.
 Kadencja Dyrektora Laboratorium trwa 5 lat.
 3.
 Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
-4.
+4Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Kandydatów na stanowisko Dyrektora Laboratorium wyłania się w drodze otwartego i konkurencyjnego naboru przeprowadzonego przez ministra właściwego do spraw zdrowia.
-5.
+5Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 W razie śmierci lub odwołania Dyrektora Laboratorium, do czasu powołania jego następcy, funkcję Dyrektora Laboratorium pełni zastępca Dyrektora Laboratorium wskazany przez ministra właściwego do spraw zdrowia.
 1.
-Informację o naborze na stanowisko Dyrektora Laboratorium ogłasza się przez umieszczenie w miejscu powszechnie dostępnym w siedzibie urzędu obsługującego ministra właściwego do spraw zdrowia oraz na jego stronie podmiotowej Biuletynu Informacji Publicznej ogłoszenia o naborze, które zawiera:
+Informację o naborze na stanowisko Dyrektora Laboratorium ogłasza się przez umieszczenie w miejscu powszechnie dostępnym w siedzibie urzędu obsługującego ministra właściwego do spraw zdrowia oraz na jego stronie podmiotowej Biuletynu Informacji Publicznej ogłoszenia o naborze, które zawiera:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2.
 1)
 nazwę i adres Laboratorium;
 2)
@@ -188,11 +194,11 @@ wskazanie dokumentów wymaganych w procesie naboru;
 termin i miejsce składania dokumentów;
 7)
 informację o sposobach oceny kandydatów.
-2.
+2Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Umieszczenie na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
-3.
+3Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Termin, o którym mowa w ust. 1 pkt 6, nie może być krótszy niż 10 dni od dnia umieszczenia ogłoszenia o naborze na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia.
-4.
+4Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Nabór przeprowadza zespół powołany przez ministra właściwego do spraw zdrowia, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów, zwany dalej „zespołem”.
 5.
 W toku naboru zespół ocenia doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku Dyrektora Laboratorium oraz kompetencje kierownicze.
@@ -200,7 +206,7 @@ W toku naboru zespół ocenia doświadczenie zawodowe kandydata, wiedzę niezbę
 Ocena wiedzy i kompetencji kierowniczych kandydata może być dokonana, na zlecenie zespołu, przez osobę niebędącą jego członkiem, która posiada odpowiednie kwalifikacje do dokonania tej oceny.
 7.
 Członek zespołu oraz osoba, o której mowa w ust. 6, mają obowiązek zachowania w tajemnicy informacji dotyczących osób ubiegających się o stanowisko, uzyskanych w toku naboru.
-8.
+8Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw zdrowia.
 9.
 Z przeprowadzonego naboru zespół sporządza protokół zawierający:
@@ -217,7 +223,7 @@ uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata;
 6)
 skład zespołu.
 10.
-Wynik naboru ogłasza się niezwłocznie przez umieszczenie informacji na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia, która zawiera:
+Wynik naboru ogłasza się niezwłocznie przez umieszczenie informacji na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia, która zawiera:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2.
 1)
 nazwę i adres Laboratorium;
 2)
@@ -242,8 +248,7 @@ przedstawiciel ministra właściwego do spraw nauki,
 2)
 przedstawiciel ministra właściwego do spraw zdrowia,
 3)
-trzy osoby posiadające doświadczenie zawodowe w zakresie nauk farmaceutycznych, medycznych, biologicznych, chemicznych lub pokrewnych
-dające rękojmię prawidłowego wykonywania zadań Rady Laboratorium.
+trzy osoby posiadające doświadczenie zawodowe w zakresie nauk farmaceutycznych, medycznych, biologicznych, chemicznych lub pokrewnych – dające rękojmię prawidłowego wykonywania zadań Rady Laboratorium.
 3.
 Członkiem Rady Laboratorium nie może być osoba skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe, niemająca pełnej zdolności do czynności prawnych lub karana dyscyplinarnie za doping w sporcie.
 1.
@@ -256,11 +261,11 @@ niewypełniania lub nienależytego wypełniania obowiązków;
 zaprzestania spełniania jednego z wymagań, o których mowa w art. 47j ust. 2 lub 3.
 2.
 Ustanie członkostwa w Radzie Laboratorium następuje również z powodu rezygnacji albo śmierci.
-1.
+1W brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 2..
 Minister właściwy do spraw zdrowia powołuje i odwołuje członków Rady Laboratorium, a także stwierdza ustanie ich członkostwa w Radzie Laboratorium, z tym że powołanie członka, o którym mowa w art. 47j ust. 2 pkt 1, następuje na wniosek organu, którego jest przedstawicielem.
 2.
 Kadencja Rady Laboratorium trwa 4 lata.
-3.
+3Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 W przypadku odwołania członka Rady Laboratorium lub stwierdzenia ustania jego członkostwa w Radzie Laboratorium, minister właściwy do spraw zdrowia powołuje nowego członka Rady Laboratorium na okres do końca jej kadencji.
 1.
 Rada Laboratorium wybiera ze swojego grona, w głosowaniu tajnym, bezwzględną większością głosów, w obecności co najmniej 3 członków Rady Laboratorium, Przewodniczącego Rady Laboratorium i jego zastępcę.
@@ -272,11 +277,11 @@ Rada Laboratorium obraduje na posiedzeniach, które odbywają się nie rzadziej 
 Przewodniczący Rady Laboratorium zwołuje posiedzenia Rady Laboratorium:
 1)
 z własnej inicjatywy lub
-2)
+2Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2.)
 na wniosek członka Rady Laboratorium, Dyrektora Laboratorium lub ministra właściwego do spraw zdrowia.
 3.
 W przypadku, o którym mowa w ust. 2 pkt 2, posiedzenie Rady Laboratorium zwołuje się w terminie nie dłuższym niż 14 dni od dnia wpłynięcia wniosku.
-4.
+4Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Pierwsze posiedzenie Rady Laboratorium nowej kadencji zwołuje minister właściwy do spraw zdrowia, w terminie nie dłuższym niż 14 dni od dnia powołania członków Rady Laboratorium.
 1.
 Rada Laboratorium wyraża swoje stanowisko w formie uchwał podejmowanych zwykłą większością głosów, w obecności co najmniej połowy składu Rady Laboratorium.
@@ -293,6 +298,7 @@ Członek Rady Laboratorium zawiadamia Przewodniczącego Rady Laboratorium o zach
 3.
 W przypadku gdy okoliczność, o której mowa w ust. 1, dotyczy Przewodniczącego Rady Laboratorium, zawiadamia on o podstawie wyłączenia swojego zastępcę.
 Członkowie Rady Laboratorium otrzymują zwrot kosztów związanych z podróżą na zasadach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+Gospodarka finansowa Laboratorium
 1.
 Przychodami Laboratorium są następujące dotacje z budżetu państwa:
 1)
@@ -323,15 +329,15 @@ zapisy, spadki i darowizny.
 Laboratorium może prowadzić działalność gospodarczą na podstawie przepisów o działalności gospodarczej w zakresie realizacji zadań, o których mowa w art. 47b ust. 1 pkt 2 i 3 oraz ust. 2, a także w zakresie działalności Jednostki do spraw Zarządzania Paszportem Zawodnika, o której mowa w art. 47x ust. 1.
 4.
 Przychody z działalności gospodarczej służą wyłącznie realizacji zadań Laboratorium, o których mowa w art. 47b.
-5.
+5Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 2..
 Dotacja, o której mowa w ust. 1 pkt 1, jest przekazywana Laboratorium z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
 1.
 Laboratorium prowadzi samodzielną gospodarkę finansową na podstawie rocznego planu finansowego ustalanego na okres roku obrotowego, zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 2.
 Rokiem obrotowym Laboratorium jest rok kalendarzowy.
-3.
+3Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Projekt rocznego planu finansowego Laboratorium, po zaopiniowaniu przez Radę Laboratorium i zatwierdzeniu przez ministra właściwego do spraw zdrowia, jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.
-4.
+4Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Podstawę gospodarki finansowej Laboratorium w okresie od 1 stycznia do dnia zatwierdzenia przez ministra właściwego do spraw zdrowia rocznego planu finansowego Laboratorium stanowi projekt tego planu.
 5.
 Roczny plan finansowy Laboratorium obejmuje, w szczególności:
@@ -357,16 +363,17 @@ fundusz rezerwowy.
 Fundusz podstawowy Laboratorium odzwierciedla równowartość mienia Laboratorium na dzień jego utworzenia.
 3.
 Fundusz rezerwowy zwiększa się o zysk netto i zmniejsza o stratę netto.
-4.
+4Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Decyzję w sprawie podziału wyniku finansowego Laboratorium za rok obrotowy podejmuje, po zatwierdzeniu sprawozdania finansowego przez ministra właściwego do spraw zdrowia oraz po przedstawieniu propozycji przez organy Laboratorium, minister właściwy do spraw zdrowia.
 1.
 Roczne sprawozdanie finansowe Laboratorium podlega badaniu przez firmę audytorską.
-2.
+2Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Laboratorium dokonuje minister właściwy do spraw zdrowia.
-3.
+3Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Dyrektor Laboratorium przedstawia ministrowi właściwemu do spraw zdrowia zaopiniowane przez Radę Laboratorium roczne sprawozdanie finansowe Laboratorium wraz z opinią Rady Laboratorium i sprawozdaniem z badania w rozumieniu art. 2 pkt 31 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
-4.
+4Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2..
 Roczne sprawozdanie finansowe Laboratorium zatwierdza minister właściwy do spraw zdrowia.
+Działalność Laboratorium
 1.
 Laboratorium w zakresie, w jakim prowadzi analizy antydopingowe próbek fizjologicznych zawodników, stosuje standardy i dokumenty międzynarodowe określone przez Światową Agencję Antydopingową.
 2.
@@ -384,17 +391,16 @@ korzystania z infrastruktury badawczej należącej do:
 a)
 Laboratorium przez uczelnie lub instytuty badawcze,
 b)
-uczelni lub instytutów badawczych przez Laboratorium
-do prowadzenia wspólnie badań naukowych i prac rozwojowych.
+uczelni lub instytutów badawczych przez Laboratorium – do prowadzenia wspólnie badań naukowych i prac rozwojowych.
 2.
 W ramach umów, o których mowa w ust. 1, podstawowe jednostki organizacyjne uczelni albo uczelnie bezwydziałowe lub instytuty badawcze mogą:
 1)
 wykorzystywać w procesie dydaktycznym,
 2)
-zaliczać do osiągnięć naukowych jednostki branych pod uwagę przy przyznawaniu kategorii naukowej
-wyniki badań naukowych i prac rozwojowych prowadzonych przez pracowników Laboratorium, w przypadkach, o których mowa w ust. 1 pkt 1–3, w ramach ich stosunku pracy w Laboratorium, oraz publikacje naukowe prezentujące te wyniki.
+zaliczać do osiągnięć naukowych jednostki branych pod uwagę przy przyznawaniu kategorii naukowej – wyniki badań naukowych i prac rozwojowych prowadzonych przez pracowników Laboratorium, w przypadkach, o których mowa w ust. 1 pkt 1–3, w ramach ich stosunku pracy w Laboratorium, oraz publikacje naukowe prezentujące te wyniki.
 3.
 Umowy, o których mowa w ust. 1, mogą określać także sposób i warunki wykorzystania przez podstawowe jednostki organizacyjne uczelni albo uczelnie bezwydziałowe lub instytuty badawcze wyników badań naukowych i prac rozwojowych prowadzonych przez pracowników Laboratorium w ramach ich stosunku pracy w Laboratorium oraz publikacji naukowych prezentujących te wyniki do innych celów niż wymienione w ust. 2.
+Jednostka do spraw Zarządzania Paszportem Zawodnika (APMU)
 1.
 Przy Laboratorium może działać, w sposób niezależny i bezstronny, zgodnie ze standardami międzynarodowymi Światowej Agencji Antydopingowej, Jednostka do spraw Zarządzania Paszportem Zawodnika, zwana dalej „Jednostką”.
 2.
@@ -413,6 +419,35 @@ Pracami jednostek, o których mowa w ust. 4, kierują kierownicy, a udział w ni
 Kierowników i ekspertów jednostek, o których mowa w ust. 5, wyznacza Dyrektor Laboratorium.
 7.
 Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
+Przepisy karne
+Przepis zmieniający
+Przepisy dostosowujące, przejściowe i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Polska Agencja Antydopingowa
+
+#### Rozdział 3 – Kontrola antydopingowa
+
+#### Rozdział 4 – Gospodarka finansowa Agencji
+
+#### Rozdział 5 – Panel Dyscyplinarny
+
+#### Rozdział 6 – Współpraca krajowa w zwalczaniu dopingu w sporcie
+
+#### Rozdział 6a – Polskie Laboratorium Antydopingowe
+
+#### Rozdział 6b – Gospodarka finansowa Laboratorium
+
+#### Rozdział 6c – Działalność Laboratorium
+
+#### Rozdział 6d – Jednostka do spraw Zarządzania Paszportem Zawodnika (APMU)
+
+#### Rozdział 7 – Przepisy karne
+
+#### Rozdział 8 – Przepis zmieniający
+
+#### Rozdział 9 – Przepisy dostosowujące, przejściowe i końcowe
 
 **Art. 2.** W celu wykonania przepisów niniejszej ustawy Prezes Rady Ministrów może dokonać, w drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikających z aaaustawy aaabudżetowej na rok 2022.
 
@@ -422,11 +457,11 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 **Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. ” . Załącznik – Tekst jednolity ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa reguluje sprawy dotyczące zwalczania dopingu w sporcie, w szczególności organizację i zakres działania Polskiej Agencji Antydopingowej oraz Polskiego Laboratorium Antydopingowego. Użyte w ustawie określenia oznaczają:
 
-- **1)** substancja zabroniona – substancję określoną w załączniku nr 1 do Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r. (Dz. U. z 2007 r. poz. 999, z późn. zm.);
+- **1)** substancja zabroniona – substancję określoną w załączniku nr 1 do Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r. (Dz. U. z 2007 r. poz. 999, z późn. zm.Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 2013 r. poz. 1243, z 2014 r. poz. 343, z 2016 r. poz. 79 i 332, z 2017 r. poz. 263, z 2018 r. poz. 40, z 2019 r. poz. 354, z 2020 r. poz. 307, z 2021 r. poz. 245 oraz z 2022 r. poz. 732.);
 - **2)** metoda zabroniona – działanie określone w załączniku nr 1 do konwencji, o której mowa w pkt 1;
 - **3)** okres podczas zawodów – okres rozpoczynający się o godzinie 23.59 w dniu poprzedzającym zawody rozumiane jako pojedynczy wyścig, gra lub konkurencja sportowa, w której zawodnik ma uczestniczyć, trwający do ich zakończenia, o ile przepisy właściwej międzynarodowej organizacji sportowej lub organizatora zawodów nie stanowią inaczej, obejmujący również okres kontroli antydopingowej związanej z zawodami.
 
@@ -454,7 +489,7 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 4. Za doping w sporcie nie uznaje się przypadków, o których mowa w ust. 1 pkt 1, 2, 6 lub 8, jeżeli są one uzasadnione względami leczniczymi, a zawodnik otrzymał zgodę na używanie danej substancji zabronionej lub metody zabronionej na zasadach określonych w załączniku nr 2 do konwencji, o której mowa w art. 2 pkt 1.
 
-#### Rozdział 2 Polska Agencja Antydopingowa
+#### Rozdział 2
 
 **Art. 6.** Organami Agencji są:
 
@@ -577,7 +612,7 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 - **2)** przedstawiciel ministra właściwego do spraw zdrowia,
 - **3)** przedstawiciel ministra właściwego do spraw finansów publicznych,
 - **4)** przedstawiciel Polskiego Komitetu Olimpijskiego,
-- **5)** trzy osoby wykonujące zawody w dziedzinach medycyny, sportu, etyki, biologii lub prawa dające rękojmię prawidłowego wykonywania zadań Rady Agencji.
+- **5)** trzy osoby wykonujące zawody w dziedzinach medycyny, sportu, etyki, biologii lub prawa – dające rękojmię prawidłowego wykonywania zadań Rady Agencji.
 
 3. Członkiem Rady Agencji nie może być osoba skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe, niemająca pełnej zdolności do czynności prawnych lub karana dyscyplinarnie za doping w sporcie.
 
@@ -642,7 +677,7 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 **Art. 20.** Członkowie Rady Agencji otrzymują zwrot kosztów związanych z podróżą na zasadach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
-#### Rozdział 3 Kontrola antydopingowa
+#### Rozdział 3
 
 **Art. 21.**
 
@@ -713,19 +748,7 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 3. W przypadku gdy osoba przystępująca do egzaminu nie uzyska wyniku pozytywnego z jego całości lub części, albo nie przystąpi do niego w całości lub do jego części z powodu choroby potwierdzonej zaświadczeniem lekarskim lub wskutek działania siły wyższej, może ponownie przystąpić do egzaminu bez odbycia powtórnego szkolenia tylko raz, w najbliższym wyznaczonym terminie. Ponowny egzamin nie może być przeprowadzony wcześniej niż przed upływem dwóch tygodni od pierwszego egzaminu.
 
-**Art. 26.**
-
-1. Osobie, która uzyskała pozytywny wynik z egzaminu kończącego szkolenie kontrolerów, Dyrektor Agencji przyznaje certyfikat kontrolera, który jest ważny przez 2 lata od dnia jego przyznania.
-
-2. Na podstawie ważnego certyfikatu kontrolera Agencja wydaje kontrolerowi legitymację służbową.
-
-3. Kontrolerowi uprawnionemu do pobierania krwi na podstawie przepisów ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, 1559 i 2232 oraz z 2022 r. poz. 583, 655 i 830) lub ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 551, 583 i 830) Agencja wydaje legitymację służbową zawierającą informację o możliwości pobierania przez niego próbek krwi.
-
-4. Przed upływem okresu ważności certyfikatu kontrolera kontroler, w celu potwierdzenia posiadania kwalifikacji do przeprowadzania kontroli antydopingowej, odbywa ponownie szkolenie kontrolerów, zakończone egzaminem.
-
-5. W przypadku trwającej co najmniej 2 lata przerwy w przeprowadzaniu przez kontrolera kontroli antydopingowych, jest on obowiązany, przed ponownym przystąpieniem do przeprowadzania kontroli antydopingowych, do odbycia szkolenia zakończonego egzaminem.
-
-6. Do kontrolera, który nie uzyskał pozytywnego wyniku z całości lub z części egzaminu albo nie przystąpił do niego w całości lub w części z powodu choroby potwierdzonej zaświadczeniem lekarskim lub wskutek działania siły wyższej, stosuje się przepis art. 25 ust. 3.
+**Art. 26.** 1W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu w sporcie (Dz. U. poz. 2438), która weszła w życie z dniem 1 stycznia 2022 r.. Osobie, która uzyskała pozytywny wynik z egzaminu kończącego szkolenie kontrolerów, Dyrektor Agencji przyznaje certyfikat kontrolera, który jest ważny przez 2 lata od dnia jego przyznania. 2. Na podstawie ważnego certyfikatu kontrolera Agencja wydaje kontrolerowi legitymację służbową. 3. Kontrolerowi uprawnionemu do pobierania krwi na podstawie przepisów ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, 1559 i 2232 oraz z 2022 r. poz. 583, 655 i 830) lub ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 551, 583 i 830) Agencja wydaje legitymację służbową zawierającą informację o możliwości pobierania przez niego próbek krwi. 4. Przed upływem okresu ważności certyfikatu kontrolera kontroler, w celu potwierdzenia posiadania kwalifikacji do przeprowadzania kontroli antydopingowej, odbywa ponownie szkolenie kontrolerów, zakończone egzaminem. 5. W przypadku trwającej co najmniej 2 lata przerwy w przeprowadzaniu przez kontrolera kontroli antydopingowych, jest on obowiązany, przed ponownym przystąpieniem do przeprowadzania kontroli antydopingowych, do odbycia szkolenia zakończonego egzaminem. 6. Do kontrolera, który nie uzyskał pozytywnego wyniku z całości lub z części egzaminu albo nie przystąpił do niego w całości lub w części z powodu choroby potwierdzonej zaświadczeniem lekarskim lub wskutek działania siły wyższej, stosuje się przepis art. 25 ust. 3.
 
 **Art. 27.** Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia:
 
@@ -734,7 +757,7 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 - **3)** rodzaje zajęć dydaktycznych w ramach szkolenia kontrolerów oraz ich wymiar czasowy,
 - **4)** tryb przeprowadzania egzaminu kończącego szkolenie kontrolerów,
 - **5)** wzór certyfikatu kontrolera,
-- **6)** wzór legitymacji służbowej kontrolera uwzględniając konieczność zapewnienia jednakowego poziomu wiedzy i umiejętności nabywanej przez kontrolerów podczas szkolenia oraz konieczność umieszczenia we wzorach certyfikatu kontrolera i legitymacji służbowej kontrolera informacji niezbędnych do prawidłowego realizowania ich zadań. W związku z planowaniem i przeprowadzaniem kontroli antydopingowej w okresie podczas zawodów oraz w okresie poza nimi, Agencja przetwarza następujące dane osobowe kontrolerów:
+- **6)** wzór legitymacji służbowej kontrolera – uwzględniając konieczność zapewnienia jednakowego poziomu wiedzy i umiejętności nabywanej przez kontrolerów podczas szkolenia oraz konieczność umieszczenia we wzorach certyfikatu kontrolera i legitymacji służbowej kontrolera informacji niezbędnych do prawidłowego realizowania ich zadań. W związku z planowaniem i przeprowadzaniem kontroli antydopingowej w okresie podczas zawodów oraz w okresie poza nimi, Agencja przetwarza następujące dane osobowe kontrolerów:
 - **1)** wizerunek twarzy;
 - **2)** płeć;
 - **3)** podpis;
@@ -807,7 +830,7 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
     - **b)**
     - **c)**
 
-- **2)** Światowej Agencji Antydopingowej jeżeli jest to niezbędne dla celów kontroli antydopingowej lub ustalenia odpowiedzialności dyscyplinarnej za doping w sporcie.
+- **2)** Światowej Agencji Antydopingowej – jeżeli jest to niezbędne dla celów kontroli antydopingowej lub ustalenia odpowiedzialności dyscyplinarnej za doping w sporcie.
 
 3a. Dane osobowe zawodników podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazaniu, polegającym co najmniej na dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych oraz pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy.
 
@@ -821,9 +844,9 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 8. Z zastrzeżeniem ust. 6, po upływie terminu, o którym mowa w ust. 5, lub po przeprowadzeniu weryfikacji, o której mowa w ust. 7, zgromadzone dane osobowe zawodników lub dane takie uznane za zbędne podlegają protokolarnemu i komisyjnemu zniszczeniu, które zarządza Dyrektor Agencji.
 
-9. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), nie wpływa na realizację zadania, o którym mowa w ust. 1.
+9. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.), nie wpływa na realizację zadania, o którym mowa w ust. 1.
 
-#### Rozdział 4 Gospodarka finansowa Agencji
+#### Rozdział 4
 
 **Art. 30.**
 
@@ -847,7 +870,7 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 **Art. 31.**
 
-1. Agencja prowadzi samodzielną gospodarkę finansową na podstawie planu finansowego, zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.).
+1. Agencja prowadzi samodzielną gospodarkę finansową na podstawie planu finansowego, zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583 i 655.).
 
 2. Projekt rocznego planu finansowego Agencji, po zaopiniowaniu przez Radę Agencji i zatwierdzeniu przez ministra właściwego do spraw kultury fizycznej, jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.
 
@@ -887,7 +910,7 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 4. Roczne sprawozdanie finansowe Agencji zatwierdza minister właściwy do spraw kultury fizycznej.
 
-#### Rozdział 5 Panel Dyscyplinarny
+#### Rozdział 5
 
 **Art. 35.**
 
@@ -973,32 +996,26 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 **Art. 43.** Obsługę Panelu, także w zakresie finansowym, zapewnia Agencja.
 
-#### Rozdział 6 Współpraca krajowa w zwalczaniu dopingu w sporcie
+#### Rozdział 6
 
 **Art. 44.** Policja, Służba Celno-Skarbowa, Straż Graniczna, Żandarmeria Wojskowa oraz prokurator przekazują Agencji, z urzędu lub na jej wniosek, wszelkie informacje, którymi dysponują, jeżeli są one niezbędne do ustalenia odpowiedzialności dyscyplinarnej za doping w sporcie, o ile nie zachodzi potrzeba zabezpieczenia prawidłowego toku postępowania lub ochrony ważnego interesu państwa.
 
 **Art. 45.** Minister właściwy do spraw zdrowia współpracuje z Agencją w ramach informowania społeczeństwa o możliwym ryzyku występowania w suplementach diety nielegalnych substancji zabronionych oraz ryzyku używania substancji zabronionych lub metod zabronionych, a także w ramach zapewniania prawidłowego oznakowania produktów leczniczych, w szczególności jeżeli zawierają one substancje zabronione.
 
-**Art. 46.** (uchylony)
-
-**Art. 47.**
-
-1. Minister właściwy do spraw kultury fizycznej może dofinansowywać działania mające na celu przeciwdziałanie dopingowi w sporcie, w tym udzielać Agencji dotacji celowych, o których mowa w art. 30 ust. 2 pkt 1, oraz opłacać składki na rzecz organizacji międzynarodowych zajmujących się zwalczaniem dopingu w sporcie.
-
-2. Minister właściwy do spraw zdrowia może udzielać Polskiemu Laboratorium Antydopingowemu z siedzibą w Warszawie dotacji celowych na:
+**Art. 46.** (uchylony) Art. 47W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 2.. 1. Minister właściwy do spraw kultury fizycznej może dofinansowywać działania mające na celu przeciwdziałanie dopingowi w sporcie, w tym udzielać Agencji dotacji celowych, o których mowa w art. 30 ust. 2 pkt 1, oraz opłacać składki na rzecz organizacji międzynarodowych zajmujących się zwalczaniem dopingu w sporcie. 2. Minister właściwy do spraw zdrowia może udzielać Polskiemu Laboratorium Antydopingowemu z siedzibą w Warszawie dotacji celowych na:
 
 - **1)** realizację przez Laboratorium projektów badawczych, o których mowa w art. 47b ust. 1 pkt 3;
 - **2)** finansowanie lub dofinansowanie kosztów inwestycji niezbędnych do utrzymania akredytacji Światowej Agencji Antydopingowej.
 
-#### Rozdział 6a Polskie Laboratorium Antydopingowe
+#### Rozdział 6a
 
-#### Rozdział 6b Gospodarka finansowa Laboratorium
+#### Rozdział 6b
 
-#### Rozdział 6c Działalność Laboratorium
+#### Rozdział 6c
 
-#### Rozdział 6d Jednostka do spraw Zarządzania Paszportem Zawodnika (APMU)
+#### Rozdział 6d
 
-#### Rozdział 7 Przepisy karne
+#### Rozdział 7
 
 **Art. 48.**
 
@@ -1014,11 +1031,11 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 3. Tej samej karze podlega, kto w sposób niezgodny z art. 68 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne przywozi lub sprowadza na terytorium Rzeczypospolitej Polskiej substancję zabronioną, określoną w grupie S1, S2 lub S4 załącznika nr 1 do konwencji, o której mowa w art. 2 pkt 1.
 
-#### Rozdział 8 Przepis zmieniający
+#### Rozdział 8
 
 **Art. 50.** (pominięty)
 
-#### Rozdział 9 Przepisy dostosowujące, przejściowe i końcowe
+#### Rozdział 9
 
 **Art. 51.** Tworzy się Polską Agencję Antydopingową z siedzibą w Warszawie.
 
@@ -1056,9 +1073,7 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 2. Po dokonaniu czynności, o których mowa w art. 52 ust. 2, Dyrektor Agencji albo osoba pełniąca jego funkcję przygotowuje i przedstawia ministrowi właściwemu do spraw kultury fizycznej do zatwierdzenia plan finansowy Agencji na rok 2017.
 
-3. Minister właściwy do spraw kultury fizycznej, po zatwierdzeniu planu finansowego Agencji na rok 2017, niezwłocznie przekazuje go ministrowi właściwemu do spraw finansów publicznych.
-
-**Art. 57.**
+3. Minister właściwy do spraw kultury fizycznej, po zatwierdzeniu planu finansowego Agencji na rok 2017, niezwłocznie przekazuje go ministrowi właściwemu do spraw finansów publicznych. Art. 57W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 2..
 
 1. W latach 2022–2031 maksymalny limit wydatków budżetu państwa z części 25 – Kultura Fizyczna, będących skutkiem finansowym ustawy, w tym wydatków na finansowanie Agencji oraz opłacanie składek na rzecz organizacji międzynarodowych zajmujących się zwalczaniem dopingu w sporcie, wynosi w roku:
 
@@ -1088,5 +1103,5 @@ Obsługę Jednostki, także w zakresie finansowym, zapewnia Laboratorium.
 
 2. Członków pierwszego składu Panelu minister właściwy do spraw kultury fizycznej powołuje bez uprzedniego zasięgania opinii, o której mowa w art. 12 pkt 5.
 
-**Art. 59.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 58 ust. 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 59.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 31 maja 2017 r., z wyjątkiem art. 58 ust. 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionej konwencji zostały ogłoszone w Dz. U. z 2013 r. poz. 1243, z 2014 r. poz. 343, z 2016 r. poz. 79 i 332, z 2017 r. poz. 263, z 2018 r. poz. 40, z 2019 r. poz. 354, z 2020 r. poz. 307, z 2021 r. poz. 245 oraz z 2022 r. poz. 732. 2) W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu w sporcie (Dz. U. poz. 2438), która weszła w życie z dniem 1 stycznia 2022 r. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583 i 655. 5) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2. 7) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2. 8) W brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 2. 9) Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 2. 10) W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 2. 11) Ustawa została ogłoszona w dniu 31 maja 2017 r.
 

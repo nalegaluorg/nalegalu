@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-29 |
 | Data wydania | 2019-01-04 |
-| Wejście w życie | 2019-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/19/text.pdf) |
 
@@ -33,9 +32,11 @@ W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 11 października 2
 1)
 lp. 3 i 4 otrzymują brzmienie:
 1)
-lp. 3 i 4 otrzymują brzmienie: 3 Rzecznik Dyscyplinarny Sędziów Sądów Wojskowych Rzecznik Dyscyplinarny Sędziów Sądów Powszechnych 4 Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych
+lp. 3 i 4 otrzymują brzmienie:
+3 Rzecznik Dyscyplinarny Sędziów Sądów Wojskowych Rzecznik Dyscyplinarny Sędziów Sądów Powszechnych 4 Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych
 2)
-po lp. 4 dodaje się lp. 4a i 4b w brzmieniu: 4a prezes sądu dyscyplinarnego przy wojskowym sądzie okręgowym prezes sądu dyscyplinarnego przy sądzie apelacyjnym 4b sędzia sądu dyscyplinarnego przy wojskowym sądzie okręgowym sędzia sądu dyscyplinarnego przy sądzie apelacyjnym
+po lp. 4 dodaje się lp. 4a i 4b w brzmieniu:
+4a prezes sądu dyscyplinarnego przy wojskowym sądzie okręgowym prezes sądu dyscyplinarnego przy sądzie apelacyjnym 4b sędzia sądu dyscyplinarnego przy wojskowym sądzie okręgowym sędzia sądu dyscyplinarnego przy sądzie apelacyjnym
 § 2.
 Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do ustalenia stanowisk sędziów sądów wojskowych równorzędnych ze stanowiskami sędziów sądów powszechnych od dnia 3 kwietnia 2018 r.
 § 3.

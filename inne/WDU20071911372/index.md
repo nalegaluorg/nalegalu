@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-09-19 |
 | Data wydania | 2007-10-18 |
-| Wejście w życie | 2007-11-18 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071911372) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1372/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. Nr 34, poz. 149, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. Nr 34, poz. 149, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1993 r. Nr 36, poz. 159, z 1995 r. Nr 28, poz. 143, z 1998 r. Nr 97, poz. 604, z 2002 r. Nr 240, poz. 2055 oraz z 2004 r. Nr 273, poz. 2703.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -104,5 +103,5 @@ source: "eli-html"
 
 **Art. 3.** Sprawy wszczęte na podstawie przepisów ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego, a niezakończone do dnia wejścia w życie niniejszej ustawy, rozpatruje się na podstawie przepisów dotychczasowych. Wypłata odszkodowań i zadośćuczynień przyznanych na podstawie niniejszej ustawy może nastąpić nie wcześniej niż 1 stycznia 2008 r.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1993 r. Nr 36, poz. 159, z 1995 r. Nr 28, poz. 143, z 1998 r. Nr 97, poz. 604, z 2002 r. Nr 240, poz. 2055 oraz z 2004 r. Nr 273, poz. 2703.
 

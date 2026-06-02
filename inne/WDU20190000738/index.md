@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-17 |
 | Data wydania | 2019-04-19 |
-| Wejście w życie | 2019-04-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000738) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/738/text.pdf) |
 
@@ -31,7 +30,7 @@ Na podstawie art. 24a ust. 3 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu 
 § 1.
 Rozporządzenie określa:
 1)
-podmioty uprawnione do niszczenia środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, prekursorów kategorii 1, lub ich preparatów, oraz środków zastępczych, uzyskanych w drodze czynności i działań przez jednostki organizacyjne administracji rządowej i Żandarmerii Wojskowej wykonujące czynności operacyjno-rozpoznawcze oraz przez jednostki organizacyjne Krajowej Administracji Skarbowej przy wykonywaniu zadań określonych ustawą z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.), zwanych dalej „środkami narkotycznymi”;
+podmioty uprawnione do niszczenia środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, prekursorów kategorii 1, lub ich preparatów, oraz środków zastępczych, uzyskanych w drodze czynności i działań przez jednostki organizacyjne administracji rządowej i Żandarmerii Wojskowej wykonujące czynności operacyjno-rozpoznawcze oraz przez jednostki organizacyjne Krajowej Administracji Skarbowej przy wykonywaniu zadań określonych ustawą z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354 oraz z 2019 r. poz. 53, 125 i 730.), zwanych dalej „środkami narkotycznymi”;
 2)
 szczegółowy tryb i warunki przechowywania oraz niszczenia środków narkotycznych.
 § 2.
@@ -133,5 +132,5 @@ Jeżeli czynność zniszczenia środków narkotycznych została powierzona przed
 3.
 Decyzję o zniszczeniu środków narkotycznych i protokół zniszczenia dołącza się do akt sprawy, w związku z którą uzyskano te środki narkotyczne.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 8 marca 2017 r. w sprawie postępowania ze środkami odurzającymi, substancjami psychotropowymi i ich preparatami oraz prekursorami kategorii 1, uzyskanymi podczas wykonywania zadań ustawowych przez uprawnione służby państwowe (Dz. U. poz. 598), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 9 pkt 1 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1490). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354 oraz z 2019 r. poz. 53, 125 i 730. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 8 marca 2017 r. w sprawie postępowania ze środkami odurzającymi, substancjami psychotropowymi i ich preparatami oraz prekursorami kategorii 1, uzyskanymi podczas wykonywania zadań ustawowych przez uprawnione służby państwowe (Dz. U. poz. 598), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 9 pkt 1 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1490).
 

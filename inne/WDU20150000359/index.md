@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-02 |
 | Data wydania | 2015-03-16 |
-| Wejście w życie | 2015-03-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000359) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/359/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 158 § 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 158 § 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4 i 218.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -151,5 +150,5 @@ Zapis i jego adnotacje udostępnia się stronom, uczestnikom postępowania oraz 
 2.
 Z akt sprawy wydaje się na informatycznym nośniku danych zapis dźwięku albo obrazu i dźwięku wraz z adnotacjami.
 § 14.
-Rozporządzenie wchodzi w życie z dniem 27 marca 2015 r.
+Rozporządzenie wchodzi w życie z dniem 27 marca 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 sierpnia 2011 r. w sprawie zapisu dźwięku albo obrazu i dźwięku z przebiegu posiedzenia jawnego (Dz. U. Nr 175, poz. 1046), które traci moc na podstawie art. 4 w związku z art. 1 pkt 2 lit. e ustawy z dnia 29 sierpnia 2014 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz ustawy o kosztach sądowych w sprawach cywilnych (Dz. U. poz. 1296). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4 i 218. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 sierpnia 2011 r. w sprawie zapisu dźwięku albo obrazu i dźwięku z przebiegu posiedzenia jawnego (Dz. U. Nr 175, poz. 1046), które traci moc na podstawie art. 4 w związku z art. 1 pkt 2 lit. e ustawy z dnia 29 sierpnia 2014 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz ustawy o kosztach sądowych w sprawach cywilnych (Dz. U. poz. 1296).
 

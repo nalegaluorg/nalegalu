@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-10-29 |
 | Data wydania | 2013-10-31 |
-| Wejście w życie | 2013-11-01 |
 | Ostatnia zmiana | 2024-03-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1276/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 26 ust. 2 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 26 ust. 2 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 120, poz. 690, Nr 171, poz. 1016, Nr 205, poz. 1208, Nr 232, poz. 1378 i Nr 291, poz. 1707, z 2012 r. poz. 1342 i 1456 oraz z 2013 r. poz. 939 i 1231.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -43,5 +42,5 @@ Deklarację dla podatku akcyzowego od wyrobów węglowych „AKC-WW” składa s
 § 4.
 Podatek akcyzowy od wyrobów węglowych wpłaca się za kwartalny okres rozliczeniowy w terminie do 25. dnia przypadającego w drugim miesiącu po kwartale, w którym powstał obowiązek podatkowy.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2013 r.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2013 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 czerwca 2013 r. w sprawie wyrobów akcyzowych, w przypadku których podatnicy mogą stosować kwartalny okres rozliczeniowy (Dz. U. poz. 718), które traci moc z dniem wejścia w życie ustawy z dnia 27 września 2013 r. o zmianie ustawy o podatku akcyzowym (Dz. U. poz. 1231). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 120, poz. 690, Nr 171, poz. 1016, Nr 205, poz. 1208, Nr 232, poz. 1378 i Nr 291, poz. 1707, z 2012 r. poz. 1342 i 1456 oraz z 2013 r. poz. 939 i 1231. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 czerwca 2013 r. w sprawie wyrobów akcyzowych, w przypadku których podatnicy mogą stosować kwartalny okres rozliczeniowy (Dz. U. poz. 718), które traci moc z dniem wejścia w życie ustawy z dnia 27 września 2013 r. o zmianie ustawy o podatku akcyzowym (Dz. U. poz. 1231).
 

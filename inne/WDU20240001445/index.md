@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 5 października 2010 r. w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. z 2020 r. poz. 1822), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 21 lipca 2023 r. zmieniającym rozporządzenie w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. poz. 1558).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 21 lipca 2023 r. zmieniającego rozporządzenie w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. poz. 1558), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 21 lipca 2023 r. zmieniającego rozporządzenie w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. poz. 1558), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 5 października 2010 r. w sprawie wyróżnień funkcjonariuszy Służby Więziennej
 Na podstawie art. 169 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860 oraz z 2024 r. poz. 1222) zarządza się, co następuje:
 § 1.
@@ -43,7 +41,7 @@ Rozporządzenie określa tryb udzielania wyróżnień funkcjonariuszowi Służby
 § 2.
 1.
 Wyróżnienia może udzielić kierownik jednostki organizacyjnej Służby Więziennej, zwany dalej „przełożonym”, w której funkcjonariusz pełni na stałe służbę, z własnej inicjatywy lub na pisemny wniosek bezpośredniego przełożonego tego funkcjonariusza.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 21 lipca 2023 r. zmieniającego rozporządzenie w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. poz. 1558), które weszło w życie z dniem 9 sierpnia 2023 r..
 Jeżeli funkcjonariusz nie spełnia niektórych wymagań przewidzianych dla stanowiska, wyróżnienia w formie mianowania na wyższe stanowisko służbowe udziela się za zgodą Dyrektora Generalnego Służby Więziennej, zwanego dalej „Dyrektorem Generalnym”. Zgoda nie jest wymagana w przypadku funkcjonariusza pełniącego służbę w uczelni Służby Więziennej albo w Inspektoracie Wewnętrznym Służby Więziennej.
 3.
 Wyróżnień wymienionych w art. 169 ust. 1 pkt 1–3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej może udzielać także:
@@ -61,7 +59,7 @@ a)
 funkcjonariuszowi delegowanemu do czasowego pełnienia służby w tej jednostce,
 b)
 funkcjonariuszowi pozostającemu w dyspozycji w tej jednostce.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Wyróżnienia w formie przedterminowego nadania wyższego stopnia Służby Więziennej udzielają:
 1)
 na stopnie oficerskie Służby Więziennej, z wyjątkiem stopnia generała inspektora Służby Więziennej, generała Służby Więziennej i pierwszego stopnia oficerskiego Służby Więziennej – Minister Sprawiedliwości, na wniosek odpowiednio Dyrektora Generalnego, Rektora albo Szefa Inspektoratu Wewnętrznego Służby Więziennej;
@@ -107,5 +105,5 @@ Wyróżnień, o których mowa w art. 169 ust. 1 pkt 1–3 oraz 5 i 6 ustawy z dn
 2.
 Egzemplarz wyróżnienia włącza się do akt osobowych funkcjonariusza.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 14 października 2010 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 19 marca 2002 r. w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. poz. 347), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 272 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej. 1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 21 lipca 2023 r. zmieniającego rozporządzenie w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. poz. 1558), które weszło w życie z dniem 9 sierpnia 2023 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 14 października 2010 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 19 marca 2002 r. w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. poz. 347), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 272 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej.
 

@@ -22,49 +22,517 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-16 |
 | Data wydania | 2015-01-23 |
-| Wejście w życie | 2015-02-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000130) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/130/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 22 ust. 2 pkt 2a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 22 ust. 2 pkt 2a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650 oraz z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Edukacji Narodowej z dnia 7 lutego 2012 r. w sprawie podstawy programowej kształcenia w zawodach (Dz. U. poz. 184) w załączniku wprowadza się następujące zmiany:
 1)
 w części I „Ogólne cele i zadania kształcenia zawodowego” w Tabeli 1. zatytułowanej „Wykaz kwalifikacji oraz ich powiązania z zawodami i efektami kształcenia uporządkowane narastająco według oznaczeń kwalifikacji w ramach danego obszaru kształcenia”:
 a)
-po pozycji dotyczącej kwalifikacji E.27. dodaje się pozycje dotyczące kwalifikacji E.28., E.29., E.30. oraz E.31. w brzmieniu: E.28. Montaż i konserwacja urządzeń dźwigowych 311940 Technik urządzeń dźwigowych OMZPKZ(E.a)PKZ(E.c)PKZ(M.a) E.29. Organizacja prac związanychz budową, montażem i konserwacjąurządzeń dźwigowych 311940 Technik urządzeń dźwigowych OMZPKZ(E.a)PKZ(E.c)PKZ(M.a) E.30. Montaż, eksploatacja i konserwacja urządzeń i instalacji chłodniczych 311929 Technik chłodnictwa i klimatyzacji OMZPKZ(E.a)PKZ(B.m)PKZ(M.a) E.31. Montaż, eksploatacja i konserwacja urządzeń i instalacji klimatyzacyjnych 311929 Technik chłodnictwa i klimatyzacji OMZPKZ(E.a)PKZ(B.m)PKZ(M.a)
+po pozycji dotyczącej kwalifikacji E.27. dodaje się pozycje dotyczące kwalifikacji E.28., E.29., E.30. oraz E.31. w brzmieniu:
+E.28. Montaż i konserwacja urządzeń dźwigowych 311940 Technik urządzeń dźwigowych OMZ
+PKZ(E.a)
+PKZ(E.c)
+PKZ(M.a) E.29. Organizacja prac związanych
+z budową, montażem i konserwacją
+urządzeń dźwigowych 311940 Technik urządzeń dźwigowych OMZ
+PKZ(E.a)
+PKZ(E.c)
+PKZ(M.a) E.30. Montaż, eksploatacja i konserwacja urządzeń i instalacji chłodniczych 311929 Technik chłodnictwa i klimatyzacji OMZ
+PKZ(E.a)
+PKZ(B.m)
+PKZ(M.a) E.31. Montaż, eksploatacja i konserwacja urządzeń i instalacji klimatyzacyjnych 311929 Technik chłodnictwa i klimatyzacji OMZ
+PKZ(E.a)
+PKZ(B.m)
+PKZ(M.a)
 b)
-pozycja dotycząca kwalifikacji M.3. otrzymuje brzmienie: M.3. Obsługa maszyn i urządzeń do przetwórstwa tworzyw sztucznych 814209 Operator maszyn i urządzeń do przetwórstwa tworzyw sztucznych PKZ(M.a)PKZ(M.c)PKZ(M.d)
+pozycja dotycząca kwalifikacji M.3. otrzymuje brzmienie:
+M.3. Obsługa maszyn i urządzeń do przetwórstwa tworzyw sztucznych 814209 Operator maszyn i urządzeń do przetwórstwa tworzyw sztucznych PKZ(M.a)
+PKZ(M.c)
+PKZ(M.d)
 c)
-pozycja dotycząca kwalifikacji M.27. otrzymuje brzmienie: M.27. Montaż i naprawa oprzyrządowania odlewniczego wykonanego z metalu 721104 Modelarz odlewniczy PKZ(M.a)
+pozycja dotycząca kwalifikacji M.27. otrzymuje brzmienie:
+M.27. Montaż i naprawa oprzyrządowania odlewniczego wykonanego z metalu 721104 Modelarz odlewniczy PKZ(M.a)
 d)
-po pozycji dotyczącej kwalifikacji M.44. dodaje się pozycję dotyczącą kwalifikacji M.45. w brzmieniu: M.45. Diagnozowanie i naprawa motocykli 723107 Mechanik motocyklowy PKZ(E.a)PKZ(M.a)PKZ(M.o)
+po pozycji dotyczącej kwalifikacji M.44. dodaje się pozycję dotyczącą kwalifikacji M.45. w brzmieniu:
+M.45. Diagnozowanie i naprawa motocykli 723107 Mechanik motocyklowy PKZ(E.a)
+PKZ(M.a)
+PKZ(M.o)
 e)
 uchyla się pozycje dotyczące kwalifikacji Z.12. i Z.16.;
 2)
 w części II „Efekty kształcenia”:
 a)
 w ust. 2 „Efekty kształcenia wspólne dla zawodów w ramach obszaru kształcenia, stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów”:
-– w obszarze budowlanym (B) po pozycji dotyczącej „PKZ(B.l)” dodaje się pozycję dotyczącą „PKZ(B.m)” w brzmieniu: „ PKZ(B.m) Umiejętności stanowiące podbudowę do kształcenia w zawodzie technik chłodnictwa i klimatyzacji Uczeń: 1) rozpoznaje rodzaje, elementy oraz konstrukcje obiektów budowlanych; 2) rozpoznaje materiały budowlane i określa ich właściwości; 3) wykonuje podstawowe obliczenia statyczne i wytrzymałościowe; 4) rozpoznaje rodzaje instalacji budowlanych oraz określa ich funkcje; 5) sporządza rysunki techniczne oraz szkice robocze; 6) rozróżnia rodzaje i elementy dokumentacji projektowej obiektów budowlanych; 7) określa wymagania dotyczące parametrów powietrza w różnych rodzajach pomieszczeń; 8) określa procesy termodynamiczne płynów i powietrza wilgotnego; 9) rozpoznaje rodzaje czynników chłodniczych, olejów i nośników ciepła stosowanych w instalacjach chłodniczych i klimatyzacyjnych oraz określa ich właściwości; 10) określa wpływ procesu chłodzenia i zmrażania na jakość przechowywanych materiałów; 11) przestrzega zasad transportu, przechowywania oraz gospodarki czynnikami chłodniczymi; 12) określa wpływ czynników chłodniczych na środowisko; 13) przestrzega przepisów prawa dotyczących stosowania, odzysku, regeneracji i obrotu czynnikami chłodniczymi; 14) stosuje programy komputerowe wspomagające wykonywanie zadań. ” ,
+w obszarze budowlanym (B) po pozycji dotyczącej „PKZ(B.l)” dodaje się pozycję dotyczącą „PKZ(B.m)” w brzmieniu: „ PKZ(B.m) Umiejętności stanowiące podbudowę do kształcenia w zawodzie technik chłodnictwa i klimatyzacji Uczeń:
+1)
+rozpoznaje rodzaje, elementy oraz konstrukcje obiektów budowlanych;
+2)
+rozpoznaje materiały budowlane i określa ich właściwości;
+3)
+wykonuje podstawowe obliczenia statyczne i wytrzymałościowe;
+4)
+rozpoznaje rodzaje instalacji budowlanych oraz określa ich funkcje;
+5)
+sporządza rysunki techniczne oraz szkice robocze;
+6)
+rozróżnia rodzaje i elementy dokumentacji projektowej obiektów budowlanych;
+7)
+określa wymagania dotyczące parametrów powietrza w różnych rodzajach pomieszczeń;
+8)
+określa procesy termodynamiczne płynów i powietrza wilgotnego;
+9)
+rozpoznaje rodzaje czynników chłodniczych, olejów i nośników ciepła stosowanych w instalacjach chłodniczych i klimatyzacyjnych oraz określa ich właściwości;
+10)
+określa wpływ procesu chłodzenia i zmrażania na jakość przechowywanych materiałów;
+11)
+przestrzega zasad transportu, przechowywania oraz gospodarki czynnikami chłodniczymi;
+12)
+określa wpływ czynników chłodniczych na środowisko;
+13)
+przestrzega przepisów prawa dotyczących stosowania, odzysku, regeneracji i obrotu czynnikami chłodniczymi;
+14)
+stosuje programy komputerowe wspomagające wykonywanie zadań. ” ,
 – w obszarze elektryczno-elektronicznym (E) wprowadzenie do „PKZ(E.a)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: monter sieci i urządzeń telekomunikacyjnych, monter mechatronik, monter-elektronik, elektromechanik pojazdów samochodowych, elektromechanik, elektryk, technik telekomunikacji, technik teleinformatyk, technik elektronik, technik awionik, technik mechatronik, technik elektryk, technik elektroniki i informatyki medycznej, mechanik pojazdów samochodowych, technik pojazdów samochodowych, technik automatyk sterowania ruchem kolejowym, technik elektroenergetyk transportu szynowego, mechanik motocyklowy, technik chłodnictwa i klimatyzacji, technik urządzeń dźwigowych ” ,
 – w obszarze elektryczno-elektronicznym (E) wprowadzenie do „PKZ(E.c)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: technik elektronik, technik elektryk, technik mechatronik, technik telekomunikacji, technik teleinformatyk, technik urządzeń dźwigowych ” ,
 – w obszarze mechanicznym i górniczo-hutniczym (M) wprowadzenie do „PKZ(M.a)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: mechanik-operator pojazdów i maszyn rolniczych, zegarmistrz, optyk-mechanik, mechanik precyzyjny, mechanik automatyki przemysłowej i urządzeń precyzyjnych, mechanik-monter maszyn i urządzeń, mechanik pojazdów samochodowych, operator obrabiarek skrawających, ślusarz, kowal, monter kadłubów okrętowych, blacharz samochodowy, blacharz, lakiernik, technik optyk, technik mechanik lotniczy, technik mechanik okrętowy, technik budownictwa okrętowego, technik pojazdów samochodowych, technik mechanizacji rolnictwa, technik mechanik, monter mechatronik, elektromechanik pojazdów samochodowych, technik mechatronik, technik transportu drogowego, technik energetyk, modelarz odlewniczy, technik wiertnik, technik górnictwa podziemnego, technik górnictwa otworowego, technik górnictwa odkrywkowego, technik przeróbki kopalin stałych, technik odlewnik, technik hutnik, operator maszyn i urządzeń odlewniczych, operator maszyn i urządzeń metalurgicznych, operator maszyn i urządzeń do obróbki plastycznej, operator maszyn i urządzeń do przetwórstwa tworzyw sztucznych, złotnik-jubiler, mechanik motocyklowy, technik chłodnictwa i klimatyzacji, technik urządzeń dźwigowych ” ,
-– w obszarze mechanicznym i górniczo-hutniczym (M) po pozycji dotyczącej „PKZ(M.n)” dodaje się pozycję dotyczącą „PKZ(M.o)” w brzmieniu: „ PKZ(M.o) Umiejętności stanowiące podbudowę do kształcenia w zawodzie mechanik motocyklowy Uczeń: 1) wykonuje czynności kontrolno-obsługowe motocykli; 2) stosuje przepisy prawa dotyczące ruchu drogowego i kierujących motocyklami; 3) przestrzega zasad kierowania motocyklami; 4) wykonuje czynności związane z przygotowaniem do jazdy i kierowaniem motocyklem w zakresie niezbędnym do uzyskania prawa jazdy uprawniającego do kierowania motocyklem. ” ,
+w obszarze mechanicznym i górniczo-hutniczym (M) po pozycji dotyczącej „PKZ(M.n)” dodaje się pozycję dotyczącą „PKZ(M.o)” w brzmieniu: „ PKZ(M.o) Umiejętności stanowiące podbudowę do kształcenia w zawodzie mechanik motocyklowy Uczeń:
+1)
+wykonuje czynności kontrolno-obsługowe motocykli;
+2)
+stosuje przepisy prawa dotyczące ruchu drogowego i kierujących motocyklami;
+3)
+przestrzega zasad kierowania motocyklami;
+4)
+wykonuje czynności związane z przygotowaniem do jazdy i kierowaniem motocyklem w zakresie niezbędnym do uzyskania prawa jazdy uprawniającego do kierowania motocyklem. ” ,
 – w obszarze medyczno-społecznym (Z) wprowadzenie do „PKZ(Z.a)” otrzymuje brzmienie: „ Umiejętności stanowiące podbudowę do kształcenia w zawodach: opiekun medyczny, terapeuta zajęciowy, ortoptystka, opiekunka dziecięca, technik masażysta, higienistka stomatologiczna, asystentka stomatologiczna, technik ortopeda, technik dentystyczny, protetyk słuchu, technik farmaceutyczny, technik sterylizacji medycznej, technik elektroradiolog, technik elektroniki i informatyki medycznej ” ,
 b)
 w ust. 3 „Efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodach”:
-– w obszarze elektryczno-elektronicznym (E) po pozycji dotyczącej kwalifikacji E.27. dodaje się pozycje dotyczące kwalifikacji E.28., E.29., E.30. oraz E.31. w brzmieniu: E.28. Montaż i konserwacja urządzeń dźwigowych 1. Montaż urządzeń dźwigowych Uczeń: 1) stosuje prawa mechaniki technicznej, hydrauliki i automatyki; 2) posługuje się terminologią zawodową dotyczącą urządzeń dźwigowych; 3) klasyfikuje urządzenia dźwigowe według określonych kryteriów; 4) rozróżnia rodzaje urządzeń dźwigowych; 5) charakteryzuje budowę i zasady działania dźwigów osobowych i towarowych z napędem elektrycznym i hydraulicznym, dźwigów budowlanych i towarowych małych, urządzeń dla osób niepełnosprawnych oraz schodów i chodników ruchomych; 6) posługuje się dokumentacją techniczną oraz instrukcjami montażu urządzeń dźwigowych; 7) określa parametry techniczne urządzeń dźwigowych; 8) rozpoznaje podzespoły mechaniczne urządzeń dźwigowych oraz określa ich budowę, funkcje i zasady działania; 9) rozróżnia hydrauliczne, elektryczne i elektroniczne podzespoły urządzeń dźwigowych oraz określa ich budowę, funkcje i zasady działania; 10) rozpoznaje obwody hydrauliczne, elektryczne i elektroniczne urządzeń dźwigowych oraz określa ich funkcje i zasady działania; 11) rozpoznaje rodzaje hydraulicznych, elektrycznych i elektronicznych układów sterowania i napędu; 12) dobiera metody montażu urządzeń dźwigowych; 13) dobiera narzędzia i przyrządy pomiarowe do montażu i demontażu urządzeń dźwigowych; 14) wykonuje czynności związane z montażem i demontażem urządzeń dźwigowych; 15) wykonuje czynności montażowe związane z modernizacją urządzeń dźwigowych; 16) sprawdza zgodność montażu z dokumentacją techniczną urządzeń dźwigowych; 17) wykonuje czynności związane z uruchomianiem urządzeń dźwigowych; 18) dokonuje regulacji parametrów poszczególnych podzespołów urządzeń dźwigowych na podstawie dokumentacji producenta; 19) wykonuje próby urządzeń dźwigowych przed oddaniem ich do eksploatacji zgodnie z obowiązującymi normami oraz przepisami. 2. Konserwacja urządzeń dźwigowych Uczeń: 1) dokonuje bieżących przeglądów konserwacyjnych urządzeń dźwigowych; 2) kontroluje parametry techniczne i eksploatacyjne urządzeń dźwigowych; 3) ocenia stan techniczny urządzeń dźwigowych w trakcie eksploatacji; 4) posługuje się dokumentacją techniczną dotyczącą konserwacji urządzeń dźwigowych; 5) rozpoznaje usterki urządzeń dźwigowych występujące w trakcie użytkowania; 6) usuwa usterki urządzeń dźwigowych; 7) lokalizuje uszkodzenia urządzeń dźwigowych oraz podejmuje odpowiednie działania; 8) dobiera materiały, narzędzia i przyrządy pomiarowe do konserwacji urządzeń dźwigowych; 9) wykonuje pomiary podstawowych wielkości elektrycznych, mechanicznych i hydraulicznych charakterystycznych dla urządzeń dźwigowych; 10) dobiera części zamienne i podzespoły urządzeń dźwigowych; 11) dokonuje wymiany części i podzespołów urządzeń dźwigowych; 12) wykonuje regulacje parametrów pracy urządzeń dźwigowych po ich konserwacji; 13) wykonuje czynności związane z badaniami technicznymi urządzeń dźwigowych prowadzonymi przez jednostki dozoru technicznego; 14) sprawdza działanie urządzeń dźwigowych po dokonanej konserwacji; 15) prowadzi dokumentację związaną z konserwacją urządzeń dźwigowych zgodnie z przepisami prawa dotyczącymi dozoru technicznego. E.29. Organizacja prac związanych z budową, montażem i konserwacją urządzeń dźwigowych 1. Organizacja prac związanych z montażem urządzeń dźwigowych Uczeń: 1) korzysta z dokumentacji technicznej urządzeń dźwigowych w procesie planowania i organizacji prac montażowych; 2) analizuje budowę urządzeń dźwigowych przeznaczonych do montażu; 3) planuje czynności związane z montażem urządzeń dźwigowych; 4) określa warunki montażu urządzeń dźwigowych; 5) organizuje prace związane z montażem i demontażem urządzeń dźwigowych zgodnie z obowiązującymi przepisami oraz dokumentacją techniczną; 6) organizuje prace związane z przygotowaniem miejsc montażu urządzeń dźwigowych; 7) dobiera metody zabezpieczania miejsc prowadzonych prac montażowych; 8) wykonuje prace związane z oznakowaniem i zabezpieczaniem miejsc montażu urządzeń dźwigowych; 9) rozpoznaje zagrożenia związane z montażem i demontażem urządzeń dźwigowych; 10) określa sposoby eliminacji lub minimalizacji zagrożeń związanych z montażem i demontażem urządzeń dźwigowych; 11) organizuje prace związane z modernizacją urządzeń dźwigowych zgodnie z obowiązującymi przepisami oraz dokumentacją techniczną; 12) ocenia jakość wykonanego montażu urządzeń dźwigowych; 13) wykonuje czynności związane z odbiorem technicznym urządzeń dźwigowych; 14) przestrzega zasad bezpieczeństwa i higieny pracy oraz wymagań ergonomii podczas montażu urządzeń dźwigowych. 2. Organizacja prac związanych z konserwacją urządzeń dźwigowych Uczeń: 1) planuje terminy przeglądów konserwacyjnych zgodnie z przepisami o dozorze technicznym; 2) określa zakres i kolejność prac związanych z konserwacją urządzeń dźwigowych zgodnie z dokumentacją techniczną oraz instrukcjami konserwacji; 3) dobiera metody wykonywania prac konserwacyjnych do rodzaju urządzeń dźwigowych; 4) planuje czynności technologiczne związane z konserwacją lub wymianą elementów urządzeń dźwigowych; 5) sporządza zapotrzebowanie na narzędzia oraz materiały konserwacyjne; 6) kalkuluje koszty wykonania prac konserwacyjnych; 7) rozpoznaje zagrożenia związane z konserwacją urządzeń dźwigowych; 8) dobiera metody eliminacji lub minimalizacji zagrożeń związanych z konserwacją urządzeń dźwigowych; 9) planuje działania związane z usuwaniem awarii urządzeń dźwigowych; 10) przestrzega przepisów prawa dotyczących dozoru technicznego związanych z konserwacją urządzeń dźwigowych. E.30. Montaż, eksploatacja i konserwacja urządzeń i instalacji chłodniczych 1. Montaż urządzeń i instalacji chłodniczych Uczeń: 1) rozpoznaje elementy instalacji chłodniczych oraz określa ich funkcje; 2) rozpoznaje rodzaje urządzeń chłodniczych oraz określa ich zastosowanie; 3) wykonuje obliczenia związane z projektowaniem instalacji chłodniczych; 4) posługuje się dokumentacją techniczną oraz instrukcjami obsługi urządzeń i instalacji chłodniczych; 5) sporządza zapotrzebowanie na materiały oraz kalkuluje koszty robót związanych z montażem urządzeń i instalacji chłodniczych; 6) organizuje prace związane z montażem urządzeń i instalacji chłodniczych; 7) dobiera materiały i narzędzia do montażu urządzeń i instalacji chłodniczych; 8) wyznacza trasę prowadzenia przewodów oraz miejsca montażu uzbrojenia urządzeń i instalacji chłodniczych; 9) wykonuje montaż elementów instalacji chłodniczych w obiektach budowlanych oraz środkach transportu; 10) montuje układy zasilania, sterowania i zabezpieczeń elektrycznych stosowanych w instalacjach chłodniczych; 11) ocenia jakość prac związanych z montażem instalacji chłodniczych; 12) wykonuje próby szczelności instalacji chłodniczych; 13) wykonuje izolacje antykorozyjne, termiczne, przeciwwilgociowe i przeciwdrganiowe urządzeń i instalacji chłodniczych; 14) wykonuje czynności związane z napełnianiem instalacji chłodniczych; 15) wykonuje czynności związane z uruchomieniem i regulacją instalacji chłodniczych; 16) wykonuje pomiary parametrów pracy urządzeń i instalacji chłodniczych; 17) wykonuje obmiar robót związanych z montażem instalacji chłodniczych; 18) przestrzega zasad odbioru technicznego instalacji chłodniczych. 2. Eksploatacja i konserwacja urządzeń i instalacji chłodniczych Uczeń: 1) posługuje się instrukcjami obsługi maszyn i urządzeń chłodniczych; 2) planuje przeglądy techniczne urządzeń i instalacji chłodniczych; 3) kontroluje stan techniczny urządzeń i instalacji chłodniczych; 4) kontroluje parametry pracy urządzeń i instalacji chłodniczych; 5) korzysta z systemów monitoringu oraz automatycznego przesyłania danych dotyczących parametrów pracy instalacji chłodniczych; 6) dobiera narzędzia i przyrządy do pomiaru parametrów technicznych urządzeń chłodniczych; 7) przeprowadza regulację instalacji chłodniczych; 8) organizuje oraz wykonuje prace związane z konserwacją instalacji i urządzeń chłodniczych; 9) prowadzi dokumentację związaną z eksploatacją instalacji i urządzeń chłodniczych; 10) rozpoznaje procesy technologiczne związane z zamrażaniem i przechowywaniem żywności oraz innych materiałów; 11) rozpoznaje zagrożenia związane z wyciekiem czynników chłodniczych oraz stosuje sposoby zapobiegania; 12) przestrzega zasad odzyskiwania, uzdatniania lub utylizacji czynników i olejów chłodniczych. 3. Naprawa urządzeń i instalacji chłodniczych Uczeń: 1) określa przyczyny awarii urządzeń i instalacji chłodniczych; 2) planuje czynności związane z demontażem urządzeń i instalacji chłodniczych; 3) ocenia stan techniczny urządzeń i instalacji chłodniczych; 4) kalkuluje koszty naprawy urządzeń i instalacji chłodniczych; 5) dobiera materiały i narzędzia do naprawy lub wymiany uszkodzonych elementów maszyn i urządzeń chłodniczych; 6) wykonuje czynności związane z opróżnianiem i napełnianiem instalacji chłodniczych; 7) usuwa przyczyny awarii urządzeń i instalacji chłodniczych; 8) wykonuje próby szczelności instalacji chłodniczych po wykonanej naprawie; 9) wykonuje czynności związane z uruchomieniem instalacji chłodniczych po naprawie; 10) prowadzi dokumentację związaną z naprawą urządzeń i instalacji chłodniczych; 11) wykonuje czynności związane z wymianą czynników i olejów chłodniczych; 12) ocenia stan izolacji ochronnych stosowanych w urządzeniach i instalacjach chłodniczych; 13) wykonuje czynności związane z naprawą lub wymianą uszkodzonych elementów izolacji ochronnych stosowanych w urządzeniach i instalacjach chłodniczych; 14) wykonuje demontaż urządzeń i instalacji chłodniczych z zachowaniem przepisów i norm obowiązujących w tym zakresie. E.31. Montaż, eksploatacja i konserwacja urządzeń i instalacji klimatyzacyjnych 1. Montaż urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła Uczeń: 1) rozpoznaje elementy instalacji klimatyzacyjnych i określa ich funkcje; 2) rozpoznaje rodzaje urządzeń klimatyzacyjnych i określa ich zastosowanie; 3) rozpoznaje rodzaje pomp ciepła oraz określa ich funkcje i zasady działania; 4) wykonuje obliczenia związane z projektowaniem instalacji klimatyzacyjnych; 5) określa zasady montażu urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 6) posługuje się dokumentacją techniczną urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 7) dobiera materiały, narzędzia i przyrządy pomiarowe do montażu urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 8) sporządza zapotrzebowanie na materiały oraz kalkuluje koszty robót związanych z montażem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 9) organizuje prace związane z montażem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 10) wyznacza trasę prowadzenia przewodów wentylacyjnych i klimatyzacyjnych oraz miejsca montażu uzbrojenia instalacji; 11) wykonuje montaż przewodów i urządzeń klimatyzacyjnych w obiektach budowlanych oraz środkach transportu; 12) wykonuje montaż instalacji chłodniczych, pomp ciepła, wodnych, parowych i kanalizacyjnych stosowanych w systemach klimatyzacyjnych; 13) montuje układy zasilania, sterowania i zabezpieczeń elektrycznych stosowanych w instalacjach klimatyzacyjnych oraz pompach ciepła; 14) wykonuje izolacje termiczne, akustyczne, przeciwdrganiowe i przeciwwilgociowe urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 15) ocenia jakość prac związanych z montażem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 16) wykonuje czynności związane z uruchomieniem oraz regulacją urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 17) wykonuje pomiary parametrów pracy urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 18) wykonuje obmiar robót związanych z montażem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 19) przestrzega zasad odbioru technicznego instalacji klimatyzacyjnych oraz pomp ciepła. 2. Eksploatacja i konserwacja urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła Uczeń: 1) posługuje się instrukcjami obsługi urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 2) wykonuje czynności związane z obsługą urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 3) planuje przeglądy techniczne urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 4) kontroluje stan techniczny urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 5) kontroluje parametry pracy urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 6) korzysta z systemów monitoringu oraz automatycznego przesyłania danych dotyczących parametrów pracy urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 7) dobiera materiały eksploatacyjne, narzędzia oraz przyrządy do pomiaru parametrów technicznych urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 8) przeprowadza regulację urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 9) wykonuje czynności związane z konserwacją urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 10) przestrzega zasad odzyskiwania, uzdatniania lub utylizacji czynników i olejów chłodniczych stosowanych w klimatyzacji oraz pompach ciepła; 11) prowadzi dokumentację związaną z eksploatacją i konserwacją urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła. 3. Naprawa urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła Uczeń: 1) rozpoznaje przyczyny awarii urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 2) ocenia stan techniczny urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 3) organizuje prace związane z demontażem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 4) kalkuluje koszty napraw urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 5) dobiera materiały i narzędzia do naprawy lub wymiany uszkodzonych elementów urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 6) wykonuje czynności związane z opróżnianiem i napełnianiem instalacji chłodniczych oraz pomp ciepła stosowanych w klimatyzacji; 7) usuwa przyczyny awarii urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 8) wykonuje próby szczelności instalacji po wykonanej naprawie; 9) wykonuje czynności związane z uruchomieniem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła po naprawie; 10) wykonuje czynności związane z naprawą lub wymianą uszkodzonych elementów izolacji stosowanych w urządzeniach i instalacjach klimatyzacyjnych oraz pompach ciepła; 11) prowadzi dokumentację związaną z naprawą urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła; 12) rozpoznaje zagrożenia związane z obsługą urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła oraz stosuje sposoby zapobiegania; 13) wykonuje demontaż urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła z zachowaniem przepisów i norm obowiązujących w tym zakresie. ” ,
-– w obszarze mechanicznym i górniczo-hutniczym (M) w pozycji dotyczącej kwalifikacji M.8. część 8 „Rozpoznawanie zagrożeń oraz likwidowanie awarii wiertniczych” otrzymuje brzmienie: „ 8. Rozpoznawanie zagrożeń oraz likwidowanie awarii wiertniczych Uczeń: 1) określa pojęcie awarii wiertniczej i komplikacji wiertniczej; 2) ocenia możliwości wystąpienia awarii wiertniczych i sposoby zapobiegania; 3) dobiera metody likwidacji awarii wiertniczych; 4) rozpoznaje narzędzia ratunkowe i określa warunki ich użycia; 5) określa objawy i przyczyny wystąpienia erupcji wstępnej; 6) określa procedury zamknięcia wylotu otworu wiertniczego po ogłoszeniu alarmu; 7) charakteryzuje metody przywracania równowagi ciśnień w otworze wiertniczym. ” ,
+w obszarze elektryczno-elektronicznym (E) po pozycji dotyczącej kwalifikacji E.27. dodaje się pozycje dotyczące kwalifikacji E.28., E.29., E.30. oraz E.31. w brzmieniu:
+E.28.
+Montaż i konserwacja urządzeń dźwigowych
+1.
+Montaż urządzeń dźwigowych Uczeń:
+1)
+stosuje prawa mechaniki technicznej, hydrauliki i automatyki;
+2)
+posługuje się terminologią zawodową dotyczącą urządzeń dźwigowych;
+3)
+klasyfikuje urządzenia dźwigowe według określonych kryteriów;
+4)
+rozróżnia rodzaje urządzeń dźwigowych;
+5)
+charakteryzuje budowę i zasady działania dźwigów osobowych i towarowych z napędem elektrycznym i hydraulicznym, dźwigów budowlanych i towarowych małych, urządzeń dla osób niepełnosprawnych oraz schodów i chodników ruchomych;
+6)
+posługuje się dokumentacją techniczną oraz instrukcjami montażu urządzeń dźwigowych;
+7)
+określa parametry techniczne urządzeń dźwigowych;
+8)
+rozpoznaje podzespoły mechaniczne urządzeń dźwigowych oraz określa ich budowę, funkcje i zasady działania;
+9)
+rozróżnia hydrauliczne, elektryczne i elektroniczne podzespoły urządzeń dźwigowych oraz określa ich budowę, funkcje i zasady działania;
+10)
+rozpoznaje obwody hydrauliczne, elektryczne i elektroniczne urządzeń dźwigowych oraz określa ich funkcje i zasady działania;
+11)
+rozpoznaje rodzaje hydraulicznych, elektrycznych i elektronicznych układów sterowania i napędu;
+12)
+dobiera metody montażu urządzeń dźwigowych;
+13)
+dobiera narzędzia i przyrządy pomiarowe do montażu i demontażu urządzeń dźwigowych;
+14)
+wykonuje czynności związane z montażem i demontażem urządzeń dźwigowych;
+15)
+wykonuje czynności montażowe związane z modernizacją urządzeń dźwigowych;
+16)
+sprawdza zgodność montażu z dokumentacją techniczną urządzeń dźwigowych;
+17)
+wykonuje czynności związane z uruchomianiem urządzeń dźwigowych;
+18)
+dokonuje regulacji parametrów poszczególnych podzespołów urządzeń dźwigowych na podstawie dokumentacji producenta;
+19)
+wykonuje próby urządzeń dźwigowych przed oddaniem ich do eksploatacji zgodnie z obowiązującymi normami oraz przepisami.
+2.
+Konserwacja urządzeń dźwigowych Uczeń:
+1)
+dokonuje bieżących przeglądów konserwacyjnych urządzeń dźwigowych;
+2)
+kontroluje parametry techniczne i eksploatacyjne urządzeń dźwigowych;
+3)
+ocenia stan techniczny urządzeń dźwigowych w trakcie eksploatacji;
+4)
+posługuje się dokumentacją techniczną dotyczącą konserwacji urządzeń dźwigowych;
+5)
+rozpoznaje usterki urządzeń dźwigowych występujące w trakcie użytkowania;
+6)
+usuwa usterki urządzeń dźwigowych;
+7)
+lokalizuje uszkodzenia urządzeń dźwigowych oraz podejmuje odpowiednie działania;
+8)
+dobiera materiały, narzędzia i przyrządy pomiarowe do konserwacji urządzeń dźwigowych;
+9)
+wykonuje pomiary podstawowych wielkości elektrycznych, mechanicznych i hydraulicznych charakterystycznych dla urządzeń dźwigowych;
+10)
+dobiera części zamienne i podzespoły urządzeń dźwigowych;
+11)
+dokonuje wymiany części i podzespołów urządzeń dźwigowych;
+12)
+wykonuje regulacje parametrów pracy urządzeń dźwigowych po ich konserwacji;
+13)
+wykonuje czynności związane z badaniami technicznymi urządzeń dźwigowych prowadzonymi przez jednostki dozoru technicznego;
+14)
+sprawdza działanie urządzeń dźwigowych po dokonanej konserwacji;
+15)
+prowadzi dokumentację związaną z konserwacją urządzeń dźwigowych zgodnie z przepisami prawa dotyczącymi dozoru technicznego.
+E.29.
+Organizacja prac związanych z budową, montażem i konserwacją urządzeń dźwigowych
+1.
+Organizacja prac związanych z montażem urządzeń dźwigowych Uczeń:
+1)
+korzysta z dokumentacji technicznej urządzeń dźwigowych w procesie planowania i organizacji prac montażowych;
+2)
+analizuje budowę urządzeń dźwigowych przeznaczonych do montażu;
+3)
+planuje czynności związane z montażem urządzeń dźwigowych;
+4)
+określa warunki montażu urządzeń dźwigowych;
+5)
+organizuje prace związane z montażem i demontażem urządzeń dźwigowych zgodnie z obowiązującymi przepisami oraz dokumentacją techniczną;
+6)
+organizuje prace związane z przygotowaniem miejsc montażu urządzeń dźwigowych;
+7)
+dobiera metody zabezpieczania miejsc prowadzonych prac montażowych;
+8)
+wykonuje prace związane z oznakowaniem i zabezpieczaniem miejsc montażu urządzeń dźwigowych;
+9)
+rozpoznaje zagrożenia związane z montażem i demontażem urządzeń dźwigowych;
+10)
+określa sposoby eliminacji lub minimalizacji zagrożeń związanych z montażem i demontażem urządzeń dźwigowych;
+11)
+organizuje prace związane z modernizacją urządzeń dźwigowych zgodnie z obowiązującymi przepisami oraz dokumentacją techniczną;
+12)
+ocenia jakość wykonanego montażu urządzeń dźwigowych;
+13)
+wykonuje czynności związane z odbiorem technicznym urządzeń dźwigowych;
+14)
+przestrzega zasad bezpieczeństwa i higieny pracy oraz wymagań ergonomii podczas montażu urządzeń dźwigowych.
+2.
+Organizacja prac związanych z konserwacją urządzeń dźwigowych Uczeń:
+1)
+planuje terminy przeglądów konserwacyjnych zgodnie z przepisami o dozorze technicznym;
+2)
+określa zakres i kolejność prac związanych z konserwacją urządzeń dźwigowych zgodnie z dokumentacją techniczną oraz instrukcjami konserwacji;
+3)
+dobiera metody wykonywania prac konserwacyjnych do rodzaju urządzeń dźwigowych;
+4)
+planuje czynności technologiczne związane z konserwacją lub wymianą elementów urządzeń dźwigowych;
+5)
+sporządza zapotrzebowanie na narzędzia oraz materiały konserwacyjne;
+6)
+kalkuluje koszty wykonania prac konserwacyjnych;
+7)
+rozpoznaje zagrożenia związane z konserwacją urządzeń dźwigowych;
+8)
+dobiera metody eliminacji lub minimalizacji zagrożeń związanych z konserwacją urządzeń dźwigowych;
+9)
+planuje działania związane z usuwaniem awarii urządzeń dźwigowych;
+10)
+przestrzega przepisów prawa dotyczących dozoru technicznego związanych z konserwacją urządzeń dźwigowych.
+E.30.
+Montaż, eksploatacja i konserwacja urządzeń i instalacji chłodniczych
+1.
+Montaż urządzeń i instalacji chłodniczych Uczeń:
+1)
+rozpoznaje elementy instalacji chłodniczych oraz określa ich funkcje;
+2)
+rozpoznaje rodzaje urządzeń chłodniczych oraz określa ich zastosowanie;
+3)
+wykonuje obliczenia związane z projektowaniem instalacji chłodniczych;
+4)
+posługuje się dokumentacją techniczną oraz instrukcjami obsługi urządzeń i instalacji chłodniczych;
+5)
+sporządza zapotrzebowanie na materiały oraz kalkuluje koszty robót związanych z montażem urządzeń i instalacji chłodniczych;
+6)
+organizuje prace związane z montażem urządzeń i instalacji chłodniczych;
+7)
+dobiera materiały i narzędzia do montażu urządzeń i instalacji chłodniczych;
+8)
+wyznacza trasę prowadzenia przewodów oraz miejsca montażu uzbrojenia urządzeń i instalacji chłodniczych;
+9)
+wykonuje montaż elementów instalacji chłodniczych w obiektach budowlanych oraz środkach transportu;
+10)
+montuje układy zasilania, sterowania i zabezpieczeń elektrycznych stosowanych w instalacjach chłodniczych;
+11)
+ocenia jakość prac związanych z montażem instalacji chłodniczych;
+12)
+wykonuje próby szczelności instalacji chłodniczych;
+13)
+wykonuje izolacje antykorozyjne, termiczne, przeciwwilgociowe i przeciwdrganiowe urządzeń i instalacji chłodniczych;
+14)
+wykonuje czynności związane z napełnianiem instalacji chłodniczych;
+15)
+wykonuje czynności związane z uruchomieniem i regulacją instalacji chłodniczych;
+16)
+wykonuje pomiary parametrów pracy urządzeń i instalacji chłodniczych;
+17)
+wykonuje obmiar robót związanych z montażem instalacji chłodniczych;
+18)
+przestrzega zasad odbioru technicznego instalacji chłodniczych.
+2.
+Eksploatacja i konserwacja urządzeń i instalacji chłodniczych Uczeń:
+1)
+posługuje się instrukcjami obsługi maszyn i urządzeń chłodniczych;
+2)
+planuje przeglądy techniczne urządzeń i instalacji chłodniczych;
+3)
+kontroluje stan techniczny urządzeń i instalacji chłodniczych;
+4)
+kontroluje parametry pracy urządzeń i instalacji chłodniczych;
+5)
+korzysta z systemów monitoringu oraz automatycznego przesyłania danych dotyczących parametrów pracy instalacji chłodniczych;
+6)
+dobiera narzędzia i przyrządy do pomiaru parametrów technicznych urządzeń chłodniczych;
+7)
+przeprowadza regulację instalacji chłodniczych;
+8)
+organizuje oraz wykonuje prace związane z konserwacją instalacji i urządzeń chłodniczych;
+9)
+prowadzi dokumentację związaną z eksploatacją instalacji i urządzeń chłodniczych;
+10)
+rozpoznaje procesy technologiczne związane z zamrażaniem i przechowywaniem żywności oraz innych materiałów;
+11)
+rozpoznaje zagrożenia związane z wyciekiem czynników chłodniczych oraz stosuje sposoby zapobiegania;
+12)
+przestrzega zasad odzyskiwania, uzdatniania lub utylizacji czynników i olejów chłodniczych.
+3.
+Naprawa urządzeń i instalacji chłodniczych Uczeń:
+1)
+określa przyczyny awarii urządzeń i instalacji chłodniczych;
+2)
+planuje czynności związane z demontażem urządzeń i instalacji chłodniczych;
+3)
+ocenia stan techniczny urządzeń i instalacji chłodniczych;
+4)
+kalkuluje koszty naprawy urządzeń i instalacji chłodniczych;
+5)
+dobiera materiały i narzędzia do naprawy lub wymiany uszkodzonych elementów maszyn i urządzeń chłodniczych;
+6)
+wykonuje czynności związane z opróżnianiem i napełnianiem instalacji chłodniczych;
+7)
+usuwa przyczyny awarii urządzeń i instalacji chłodniczych;
+8)
+wykonuje próby szczelności instalacji chłodniczych po wykonanej naprawie;
+9)
+wykonuje czynności związane z uruchomieniem instalacji chłodniczych po naprawie;
+10)
+prowadzi dokumentację związaną z naprawą urządzeń i instalacji chłodniczych;
+11)
+wykonuje czynności związane z wymianą czynników i olejów chłodniczych;
+12)
+ocenia stan izolacji ochronnych stosowanych w urządzeniach i instalacjach chłodniczych;
+13)
+wykonuje czynności związane z naprawą lub wymianą uszkodzonych elementów izolacji ochronnych stosowanych w urządzeniach i instalacjach chłodniczych;
+14)
+wykonuje demontaż urządzeń i instalacji chłodniczych z zachowaniem przepisów i norm obowiązujących w tym zakresie.
+E.31.
+Montaż, eksploatacja i konserwacja urządzeń i instalacji klimatyzacyjnych
+1.
+Montaż urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła Uczeń:
+1)
+rozpoznaje elementy instalacji klimatyzacyjnych i określa ich funkcje;
+2)
+rozpoznaje rodzaje urządzeń klimatyzacyjnych i określa ich zastosowanie;
+3)
+rozpoznaje rodzaje pomp ciepła oraz określa ich funkcje i zasady działania;
+4)
+wykonuje obliczenia związane z projektowaniem instalacji klimatyzacyjnych;
+5)
+określa zasady montażu urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+6)
+posługuje się dokumentacją techniczną urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+7)
+dobiera materiały, narzędzia i przyrządy pomiarowe do montażu urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+8)
+sporządza zapotrzebowanie na materiały oraz kalkuluje koszty robót związanych z montażem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+9)
+organizuje prace związane z montażem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+10)
+wyznacza trasę prowadzenia przewodów wentylacyjnych i klimatyzacyjnych oraz miejsca montażu uzbrojenia instalacji;
+11)
+wykonuje montaż przewodów i urządzeń klimatyzacyjnych w obiektach budowlanych oraz środkach transportu;
+12)
+wykonuje montaż instalacji chłodniczych, pomp ciepła, wodnych, parowych i kanalizacyjnych stosowanych w systemach klimatyzacyjnych;
+13)
+montuje układy zasilania, sterowania i zabezpieczeń elektrycznych stosowanych w instalacjach klimatyzacyjnych oraz pompach ciepła;
+14)
+wykonuje izolacje termiczne, akustyczne, przeciwdrganiowe i przeciwwilgociowe urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+15)
+ocenia jakość prac związanych z montażem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+16)
+wykonuje czynności związane z uruchomieniem oraz regulacją urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+17)
+wykonuje pomiary parametrów pracy urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+18)
+wykonuje obmiar robót związanych z montażem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+19)
+przestrzega zasad odbioru technicznego instalacji klimatyzacyjnych oraz pomp ciepła.
+2.
+Eksploatacja i konserwacja urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła Uczeń:
+1)
+posługuje się instrukcjami obsługi urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+2)
+wykonuje czynności związane z obsługą urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+3)
+planuje przeglądy techniczne urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+4)
+kontroluje stan techniczny urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+5)
+kontroluje parametry pracy urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+6)
+korzysta z systemów monitoringu oraz automatycznego przesyłania danych dotyczących parametrów pracy urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+7)
+dobiera materiały eksploatacyjne, narzędzia oraz przyrządy do pomiaru parametrów technicznych urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+8)
+przeprowadza regulację urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+9)
+wykonuje czynności związane z konserwacją urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+10)
+przestrzega zasad odzyskiwania, uzdatniania lub utylizacji czynników i olejów chłodniczych stosowanych w klimatyzacji oraz pompach ciepła;
+11)
+prowadzi dokumentację związaną z eksploatacją i konserwacją urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła.
+3.
+Naprawa urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła Uczeń:
+1)
+rozpoznaje przyczyny awarii urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+2)
+ocenia stan techniczny urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+3)
+organizuje prace związane z demontażem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+4)
+kalkuluje koszty napraw urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+5)
+dobiera materiały i narzędzia do naprawy lub wymiany uszkodzonych elementów urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+6)
+wykonuje czynności związane z opróżnianiem i napełnianiem instalacji chłodniczych oraz pomp ciepła stosowanych w klimatyzacji;
+7)
+usuwa przyczyny awarii urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+8)
+wykonuje próby szczelności instalacji po wykonanej naprawie;
+9)
+wykonuje czynności związane z uruchomieniem urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła po naprawie;
+10)
+wykonuje czynności związane z naprawą lub wymianą uszkodzonych elementów izolacji stosowanych w urządzeniach i instalacjach klimatyzacyjnych oraz pompach ciepła;
+11)
+prowadzi dokumentację związaną z naprawą urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła;
+12)
+rozpoznaje zagrożenia związane z obsługą urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła oraz stosuje sposoby zapobiegania;
+13)
+wykonuje demontaż urządzeń i instalacji klimatyzacyjnych oraz pomp ciepła z zachowaniem przepisów i norm obowiązujących w tym zakresie. ” ,
+w obszarze mechanicznym i górniczo-hutniczym (M) w pozycji dotyczącej kwalifikacji M.8. część 8 „Rozpoznawanie zagrożeń oraz likwidowanie awarii wiertniczych” otrzymuje brzmienie: „
+8.
+Rozpoznawanie zagrożeń oraz likwidowanie awarii wiertniczych Uczeń:
+1)
+określa pojęcie awarii wiertniczej i komplikacji wiertniczej;
+2)
+ocenia możliwości wystąpienia awarii wiertniczych i sposoby zapobiegania;
+3)
+dobiera metody likwidacji awarii wiertniczych;
+4)
+rozpoznaje narzędzia ratunkowe i określa warunki ich użycia;
+5)
+określa objawy i przyczyny wystąpienia erupcji wstępnej;
+6)
+określa procedury zamknięcia wylotu otworu wiertniczego po ogłoszeniu alarmu;
+7)
+charakteryzuje metody przywracania równowagi ciśnień w otworze wiertniczym. ” ,
 – w obszarze mechanicznym i górniczo-hutniczym (M) w pozycji dotyczącej kwalifikacji M. 27. nazwa kwalifikacji otrzymuje brzmienie: „ Montaż i naprawa oprzyrządowania odlewniczego wykonanego z metalu ” ,
-– w obszarze mechanicznym i górniczo-hutniczym (M) po pozycji dotyczącej kwalifikacji M.44. dodaje się pozycję dotyczącą kwalifikacji M.45. w brzmieniu: M.45. Diagnozowanie i naprawa motocykli 1. Diagnostyka podzespołów i zespołów motocykli Uczeń: 1) klasyfikuje motocykle; 2) charakteryzuje budowę motocykli oraz wyjaśnia zasady działania ich podzespołów i zespołów; 3) przyjmuje motocykle do diagnostyki oraz sporządza dokumentację przyjęcia; 4) dobiera metody oraz określa zakres diagnostyki motocykli, ich podzespołów i zespołów; 5) przygotowuje motocykle do diagnostyki; 6) stosuje urządzenia, narzędzia i przyrządy pomiarowe do diagnostyki motocykli; 7) stosuje specjalistyczne programy komputerowe do diagnostyki motocykli; 8) wykonuje badania diagnostyczne motocykli oraz interpretuje wyniki tych badań; 9) określa przyczyny uszkodzeń oraz nadmiernego zużycia mechanizmów i części motocykli; 10) ocenia stan techniczny motocykli. 2. Naprawa i obsługa motocykli Uczeń: 1) lokalizuje uszkodzone lub zużyte mechanizmy i części motocykli na podstawie wyników badań diagnostycznych; 2) posługuje się dokumentacją serwisową, instrukcjami użytkowania, naprawy i obsługi motocykli; 3) dobiera metody oraz określa zakres naprawy i obsługi motocykli; 4) sporządza kosztorys naprawy i obsługi motocykli; 5) dobiera narzędzia i urządzenia do wykonania naprawy i obsługi motocykli; 6) wykonuje demontaż podzespołów i zespołów motocykli; 7) przeprowadza weryfikację mechanizmów i części motocykli; 8) dobiera części zamienne oraz materiały eksploatacyjne do wykonania naprawy i obsługi motocykli; 9) wykonuje naprawę i obsługę motocykli z wykorzystaniem urządzeń i narzędzi warsztatowych; 10) wykonuje montaż podzespołów i zespołów motocykli; 11) ocenia jakość wykonanej naprawy i obsługi motocykli; 12) przekazuje motocykl po naprawie i obsłudze oraz sporządza dokumentację wydania. ” ,
-– w obszarze turystyczno-gastronomicznym (T) w pozycji dotyczącej kwalifikacji T.15. część 3 „Planowanie i wykonywanie usług gastronomicznych” otrzymuje brzmienie: „ 3. Planowanie i wykonywanie usług gastronomicznych Uczeń: 1) klasyfikuje usługi gastronomiczne; 2) przygotowuje oferty usług gastronomicznych; 3) planuje działania związane z promocją usług gastronomicznych; 4) kalkuluje koszty usług gastronomicznych; 5) prowadzi sprzedaż usług gastronomicznych; 6) planuje usługi gastronomiczne; 7) dobiera metody i techniki obsługi do rodzaju usług gastronomicznych; 8) przygotowuje miejsca wykonania usług gastronomicznych; 9) dobiera zastawę i bieliznę stołową; 10) dobiera urządzenia i sprzęt do wykonania usług gastronomicznych; 11) użytkuje sprzęt i urządzenia do wykonania usług gastronomicznych; 12) wykonuje czynności porządkowe, rozlicza sprzęt, zastawę i bieliznę stołową po wykonaniu usług gastronomicznych; 13) korzysta ze specjalistycznych programów komputerowych do planowania i rozliczania kosztów usług gastronomicznych. ” ,
+w obszarze mechanicznym i górniczo-hutniczym (M) po pozycji dotyczącej kwalifikacji M.44. dodaje się pozycję dotyczącą kwalifikacji M.45. w brzmieniu:
+M.45.
+Diagnozowanie i naprawa motocykli
+1.
+Diagnostyka podzespołów i zespołów motocykli Uczeń:
+1)
+klasyfikuje motocykle;
+2)
+charakteryzuje budowę motocykli oraz wyjaśnia zasady działania ich podzespołów i zespołów;
+3)
+przyjmuje motocykle do diagnostyki oraz sporządza dokumentację przyjęcia;
+4)
+dobiera metody oraz określa zakres diagnostyki motocykli, ich podzespołów i zespołów;
+5)
+przygotowuje motocykle do diagnostyki;
+6)
+stosuje urządzenia, narzędzia i przyrządy pomiarowe do diagnostyki motocykli;
+7)
+stosuje specjalistyczne programy komputerowe do diagnostyki motocykli;
+8)
+wykonuje badania diagnostyczne motocykli oraz interpretuje wyniki tych badań;
+9)
+określa przyczyny uszkodzeń oraz nadmiernego zużycia mechanizmów i części motocykli;
+10)
+ocenia stan techniczny motocykli.
+2.
+Naprawa i obsługa motocykli Uczeń:
+1)
+lokalizuje uszkodzone lub zużyte mechanizmy i części motocykli na podstawie wyników badań diagnostycznych;
+2)
+posługuje się dokumentacją serwisową, instrukcjami użytkowania, naprawy i obsługi motocykli;
+3)
+dobiera metody oraz określa zakres naprawy i obsługi motocykli;
+4)
+sporządza kosztorys naprawy i obsługi motocykli;
+5)
+dobiera narzędzia i urządzenia do wykonania naprawy i obsługi motocykli;
+6)
+wykonuje demontaż podzespołów i zespołów motocykli;
+7)
+przeprowadza weryfikację mechanizmów i części motocykli;
+8)
+dobiera części zamienne oraz materiały eksploatacyjne do wykonania naprawy i obsługi motocykli;
+9)
+wykonuje naprawę i obsługę motocykli z wykorzystaniem urządzeń i narzędzi warsztatowych;
+10)
+wykonuje montaż podzespołów i zespołów motocykli;
+11)
+ocenia jakość wykonanej naprawy i obsługi motocykli;
+12)
+przekazuje motocykl po naprawie i obsłudze oraz sporządza dokumentację wydania. ” ,
+w obszarze turystyczno-gastronomicznym (T) w pozycji dotyczącej kwalifikacji T.15. część 3 „Planowanie i wykonywanie usług gastronomicznych” otrzymuje brzmienie: „
+3.
+Planowanie i wykonywanie usług gastronomicznych Uczeń:
+1)
+klasyfikuje usługi gastronomiczne;
+2)
+przygotowuje oferty usług gastronomicznych;
+3)
+planuje działania związane z promocją usług gastronomicznych;
+4)
+kalkuluje koszty usług gastronomicznych;
+5)
+prowadzi sprzedaż usług gastronomicznych;
+6)
+planuje usługi gastronomiczne;
+7)
+dobiera metody i techniki obsługi do rodzaju usług gastronomicznych;
+8)
+przygotowuje miejsca wykonania usług gastronomicznych;
+9)
+dobiera zastawę i bieliznę stołową;
+10)
+dobiera urządzenia i sprzęt do wykonania usług gastronomicznych;
+11)
+użytkuje sprzęt i urządzenia do wykonania usług gastronomicznych;
+12)
+wykonuje czynności porządkowe, rozlicza sprzęt, zastawę i bieliznę stołową po wykonaniu usług gastronomicznych;
+13)
+korzysta ze specjalistycznych programów komputerowych do planowania i rozliczania kosztów usług gastronomicznych. ” ,
 – w obszarze medyczno-społecznym (Z) uchyla się pozycje dotyczące kwalifikacji Z.12. i Z.16.;
 3)
 w części III „Opis kształcenia w poszczególnych zawodach”:
 a)
-w obszarze administracyjno-usługowym (A) dla technikum w opisie kształcenia w zawodzie „Technik żeglugi śródlądowej 315216” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie:
-„
+w obszarze administracyjno-usługowym (A) dla technikum w opisie kształcenia w zawodzie „Technik żeglugi śródlądowej 315216” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie: „
 3.
 WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie technik żeglugi śródlądowej powinna posiadać następujące pomieszczenia dydaktyczne:
 1)
@@ -78,16 +546,13 @@ pracownię maszyn i urządzeń, wyposażoną w: stanowisko z silnikiem spalinowy
 5)
 pracownię elektrotechniki, elektroniki i automatyki, wyposażoną w: stanowiska do badania zjawisk i urządzeń elektrycznych (jedno stanowisko dla trzech uczniów), aparaturę kontrolno-pomiarowa stosowaną w elektrotechnice;
 6)
-warsztaty szkolne, wyposażone w: maszyny i urządzenia, stoły ślusarskie, urządzenia i przyrządy do prac montażowych, wiertarkę, tokarkę, szlifierkę, przyrządy traserskie, przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia monterskie, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczne, środki ochrony indywidualnej, stanowisko do montażu i demontażu podzespołów maszyn i urządzeń (jedno stanowisko dla trzech uczniów) oraz stanowisko do wykonywania prac bosmańskich (jedno stanowisko dla dwóch uczniów), stanowisko spawalnicze do spawania elektrycznego i gazowego (cztery stanowiska, jedno stanowisko dla jednego ucznia), wyposażone w: spawarki elektryczne do spawania elektrodą topliwą w osłonie gazów obojętnych (MIG), do spawania elektrodą topliwą w osłonie gazów aktywnych (MAG) i do spawania nietopliwą elektrodą wolframową w osłonie gazów obojętnych (TIG), stół spawalniczy z imadłem, zestaw do spawania i cięcia gazowego.
-W szkole prowadzącej kształcenie w zawodzie technik żeglugi śródlądowej są nauczane dwa języki obce ukierunkowane zawodowo: język angielski i język niemiecki. Proces kształcenia powinien być realizowany zgodnie z wymaganiami określonymi w Konwencji STCW (Międzynarodowa konwencja o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, sporządzona w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. Nr 39, poz. 201, z 1999 r. Nr 30, poz. 286 oraz z 2013 r. poz. 1092)) oraz zgodnie z przepisami wydanymi na podstawie art. 68, art. 74 ust. 4 oraz art. 76 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm.), określającymi wyszkolenie i kwalifikacje oraz ramowe programy szkoleń i wymagań egzaminacyjnych wobec członków załóg statków morskich, a także warunki i tryb uznawania morskich jednostek edukacyjnych oraz wymagania kwalifikacyjne wobec kadry prowadzącej zajęcia. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, w przedsiębiorstwach żeglugowych lub zakładach mechanicznych i remontowych wykonujących prace na rzecz żeglugi. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 12 tygodni (480 godzin). Praktyki zawodowe powinny odbywać się według następującego planu:
+warsztaty szkolne, wyposażone w: maszyny i urządzenia, stoły ślusarskie, urządzenia i przyrządy do prac montażowych, wiertarkę, tokarkę, szlifierkę, przyrządy traserskie, przyrządy pomiarowe, narzędzia do obróbki ręcznej i maszynowej skrawaniem, narzędzia monterskie, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczne, środki ochrony indywidualnej, stanowisko do montażu i demontażu podzespołów maszyn i urządzeń (jedno stanowisko dla trzech uczniów) oraz stanowisko do wykonywania prac bosmańskich (jedno stanowisko dla dwóch uczniów), stanowisko spawalnicze do spawania elektrycznego i gazowego (cztery stanowiska, jedno stanowisko dla jednego ucznia), wyposażone w: spawarki elektryczne do spawania elektrodą topliwą w osłonie gazów obojętnych (MIG), do spawania elektrodą topliwą w osłonie gazów aktywnych (MAG) i do spawania nietopliwą elektrodą wolframową w osłonie gazów obojętnych (TIG), stół spawalniczy z imadłem, zestaw do spawania i cięcia gazowego. W szkole prowadzącej kształcenie w zawodzie technik żeglugi śródlądowej są nauczane dwa języki obce ukierunkowane zawodowo: język angielski i język niemiecki. Proces kształcenia powinien być realizowany zgodnie z wymaganiami określonymi w Konwencji STCW (Międzynarodowa konwencja o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, sporządzona w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. Nr 39, poz. 201, z 1999 r. Nr 30, poz. 286 oraz z 2013 r. poz. 1092)) oraz zgodnie z przepisami wydanymi na podstawie art. 68, art. 74 ust. 4 oraz art. 76 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm.), określającymi wyszkolenie i kwalifikacje oraz ramowe programy szkoleń i wymagań egzaminacyjnych wobec członków załóg statków morskich, a także warunki i tryb uznawania morskich jednostek edukacyjnych oraz wymagania kwalifikacyjne wobec kadry prowadzącej zajęcia. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, w przedsiębiorstwach żeglugowych lub zakładach mechanicznych i remontowych wykonujących prace na rzecz żeglugi. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 12 tygodni (480 godzin). Praktyki zawodowe powinny odbywać się według następującego planu:
 – 4 tygodnie w systemie wachtowym na statku szkolnym;
 – 4 tygodnie w systemie wachtowym na statku szkolnym lub na statku żeglugi śródlądowej, lub na statku morskim;
 – 4 tygodnie na statku żeglugi śródlądowej lub na statku morskim.
-Praktyki zawodowe śródlądowe organizuje się na statku szkolnym w systemie wachtowym. Praktyka zawodowa morska musi spełniać wymagania dla działu maszynowego statków morskich na poziomie pomocniczym zgodnie z przepisami administracji morskiej. Warunkiem skierowania ucznia na praktyki zawodowe jest ukończenie podstawowych przeszkoleń w zakresie: indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego, elementarnych zasad udzielania pierwszej pomocy medycznej, bezpieczeństwa własnego i odpowiedzialności wspólnej oraz problematyki ochrony na statku. Przeszkolenia są organizowane w morskich jednostkach edukacyjnych zgodnie z art. 74 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
-” ,
+Praktyki zawodowe śródlądowe organizuje się na statku szkolnym w systemie wachtowym. Praktyka zawodowa morska musi spełniać wymagania dla działu maszynowego statków morskich na poziomie pomocniczym zgodnie z przepisami administracji morskiej. Warunkiem skierowania ucznia na praktyki zawodowe jest ukończenie podstawowych przeszkoleń w zakresie: indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego, elementarnych zasad udzielania pierwszej pomocy medycznej, bezpieczeństwa własnego i odpowiedzialności wspólnej oraz problematyki ochrony na statku. Przeszkolenia są organizowane w morskich jednostkach edukacyjnych zgodnie z art. 74 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim. ” ,
 b)
-w obszarze administracyjno-usługowym (A) dla technikum w opisie kształcenia w zawodzie „Technik nawigator morski 315214” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie:
-„
+w obszarze administracyjno-usługowym (A) dla technikum w opisie kształcenia w zawodzie „Technik nawigator morski 315214” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie: „
 3.
 WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie technik nawigator morski powinna posiadać następujące pomieszczenia dydaktyczne:
 1)
@@ -107,9 +572,7 @@ pracownię łączności i bezpieczeństwa, zapewniającą możliwość kształce
 8)
 pracownię elektrotechniki, elektroniki i automatyki, wyposażoną w stanowiska (jedno stanowisko dla trzech uczniów), które umożliwią: poznawanie zasad pomiaru podstawowych wielkości elektrycznych z wykorzystaniem mierników analogowych i cyfrowych, badanie transformatorów, badanie silnika elektrycznego, badanie prądnic, badanie akumulatorów, zapoznanie się z istotą pracy i charakterystykami regulatorów: proporcjonalnych (P), proporcjonalno-całkujących (PI), proporcjonalno-całkująco-różniczkują-cych (PID) regulujących: temperaturę, ciśnienie, poziom, lepkość, prędkość obrotową;
 9)
-warsztaty szkolne, wyposażone w następujące stanowiska (jedno stanowisko dla trzech uczniów): stanowisko prac taklarskich z urządzeniami do przygotowywania i eksploatacji lin stalowych i włókiennych, stanowisko ślusarsko-montażowe z narzędziami i urządzeniami do wykonywania podstawowych operacji ślusarskich, głównie z użyciem elektronarzędzi, stanowisko do prac konserwacyjno-malarskich, z narzędziami i urządzeniami do przygotowywania powierzchni metalowych i drewnianych do malowania oraz do nanoszenia powłok malarskich z użyciem pistoletów hydrodynamicznych i pneumatycznych, stanowisko do obróbki drewna i tworzyw sztucznych z narzędziami do obróbki drewna oraz z zestawami materiałów do wykonywania laminatów epoksydowych i innych oraz narzędziami do ich obróbki, stanowisko spawalnictwa do spawania gazowego, elektrycznego i w osłonie C02.
-W szkole prowadzącej kształcenie w zawodzie technik nawigator morski językiem obcym ukierunkowanym zawodowo jest język angielski. Proces kształcenia powinien być realizowany zgodnie z wymaganiami określonymi w Konwencji STCW (Międzynarodowa konwencja o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, sporządzona w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. Nr 39, poz. 201, z 1999 r. Nr 30, poz. 286 oraz z 2013 r. poz. 1092)) oraz zgodnie z przepisami wydanymi na podstawie art. 68, art. 74 ust. 4 oraz art. 76 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, określającymi wyszkolenie i kwalifikacje oraz ramowe programy szkoleń i wymagań egzaminacyjnych wobec członków załóg statków morskich, a także warunki i tryb uznawania morskich jednostek edukacyjnych oraz wymagania kwalifikacyjne wobec kadry prowadzącej zajęcia. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, na statku szkolnym lub na statkach innych armatorów. Szkoła organizuje praktyki zawodowe morskie w wymiarze 8 tygodni (320 godzin), po jednym miesiącu w klasie drugiej i trzeciej. Zaliczenie praktyk morskich następuje poprzez zaliczenie dziennika praktyk, a dowodem odbycia wymaganych praktyk jest wpis w książeczce żeglarskiej. Warunkiem skierowania ucznia na praktyki zawodowe jest ukończenie podstawowych przeszkoleń w zakresie: indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego, elementarnych zasad udzielania pierwszej pomocy medycznej, bezpieczeństwa własnego i odpowiedzialności wspólnej oraz problematyki ochrony na statku. Przeszkolenia są organizowane w morskich jednostkach edukacyjnych zgodnie z art. 74 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
-” ,
+warsztaty szkolne, wyposażone w następujące stanowiska (jedno stanowisko dla trzech uczniów): stanowisko prac taklarskich z urządzeniami do przygotowywania i eksploatacji lin stalowych i włókiennych, stanowisko ślusarsko-montażowe z narzędziami i urządzeniami do wykonywania podstawowych operacji ślusarskich, głównie z użyciem elektronarzędzi, stanowisko do prac konserwacyjno-malarskich, z narzędziami i urządzeniami do przygotowywania powierzchni metalowych i drewnianych do malowania oraz do nanoszenia powłok malarskich z użyciem pistoletów hydrodynamicznych i pneumatycznych, stanowisko do obróbki drewna i tworzyw sztucznych z narzędziami do obróbki drewna oraz z zestawami materiałów do wykonywania laminatów epoksydowych i innych oraz narzędziami do ich obróbki, stanowisko spawalnictwa do spawania gazowego, elektrycznego i w osłonie C02. W szkole prowadzącej kształcenie w zawodzie technik nawigator morski językiem obcym ukierunkowanym zawodowo jest język angielski. Proces kształcenia powinien być realizowany zgodnie z wymaganiami określonymi w Konwencji STCW (Międzynarodowa konwencja o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, sporządzona w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. Nr 39, poz. 201, z 1999 r. Nr 30, poz. 286 oraz z 2013 r. poz. 1092)) oraz zgodnie z przepisami wydanymi na podstawie art. 68, art. 74 ust. 4 oraz art. 76 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, określającymi wyszkolenie i kwalifikacje oraz ramowe programy szkoleń i wymagań egzaminacyjnych wobec członków załóg statków morskich, a także warunki i tryb uznawania morskich jednostek edukacyjnych oraz wymagania kwalifikacyjne wobec kadry prowadzącej zajęcia. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, na statku szkolnym lub na statkach innych armatorów. Szkoła organizuje praktyki zawodowe morskie w wymiarze 8 tygodni (320 godzin), po jednym miesiącu w klasie drugiej i trzeciej. Zaliczenie praktyk morskich następuje poprzez zaliczenie dziennika praktyk, a dowodem odbycia wymaganych praktyk jest wpis w książeczce żeglarskiej. Warunkiem skierowania ucznia na praktyki zawodowe jest ukończenie podstawowych przeszkoleń w zakresie: indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego, elementarnych zasad udzielania pierwszej pomocy medycznej, bezpieczeństwa własnego i odpowiedzialności wspólnej oraz problematyki ochrony na statku. Przeszkolenia są organizowane w morskich jednostkach edukacyjnych zgodnie z art. 74 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim. ” ,
 c)
 w obszarze budowlanym (B) dla technikum w opisie kształcenia w zawodzie „Technik urządzeń i systemów energetyki odnawialnej 311930”:
 – po nazwie i symbolu cyfrowym tego zawodu dodaje się postanowienie w brzmieniu: „ Klasyfikacja zawodów szkolnictwa zawodowego przewiduje możliwość kształcenia w tym zawodzie również w szkole policealnej. ” ,
@@ -117,9 +580,7 @@ w obszarze budowlanym (B) dla technikum w opisie kształcenia w zawodzie „Tech
 d)
 w obszarze budowlanym (B) dla technikum w opisie kształcenia w zawodzie „Technik budownictwa 311204” ust. 5 „Możliwości uzyskiwania dodatkowych kwalifikacji w zawodach w ramach obszaru kształcenia określonego w klasyfikacji zawodów szkolnictwa zawodowego” otrzymuje brzmienie: „ Absolwent szkoły kształcącej w zawodzie technik budownictwa po potwierdzeniu kwalifikacji B.20. Montaż konstrukcji budowlanych albo B.18. Wykonywanie robót murarskich i tynkarskich albo B.16. Wykonywanie robót zbrojarskich i betoniarskich oraz B.33. Organizacja i kontrolowanie robót budowlanych i B.30. Sporządzanie kosztorysów oraz przygotowywanie dokumentacji przetargowej może uzyskać dyplom potwierdzający kwalifikacje w zawodzie technik drogownictwa po potwierdzeniu dodatkowo kwalifikacji B.2. Wykonywanie robót drogowych i B.32. Organizacja robót związanych z budową i utrzymaniem dróg i obiektów mostowych lub w zawodzie technik dróg i mostów kolejowych po potwierdzeniu dodatkowo kwalifikacji B.28. Organizacja robót związanych z budową i utrzymaniem dróg kolejowych i B.29. Organizacja robót związanych z budową i utrzymaniem obiektów mostowych. ” ,
 e)
-w obszarze elektryczno-elektronicznym (E) dla technikum po opisie kształcenia w zawodzie „Technik awionik 315316” dodaje się opisy kształcenia w zawodach „Technik urządzeń dźwigowych 311940” oraz „Technik chłodnictwa i klimatyzacji 311929” w brzmieniu:
-„
-TECHNIK URZĄDZEŃ DŹWIGOWYCH 311940
+w obszarze elektryczno-elektronicznym (E) dla technikum po opisie kształcenia w zawodzie „Technik awionik 315316” dodaje się opisy kształcenia w zawodach „Technik urządzeń dźwigowych 311940” oraz „Technik chłodnictwa i klimatyzacji 311929” w brzmieniu: „ TECHNIK URZĄDZEŃ DŹWIGOWYCH 311940
 1.
 CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie technik urządzeń dźwigowych powinien być przygotowany do wykonywania następujących zadań zawodowych:
 1)
@@ -147,10 +608,11 @@ pracownię mechaniki, wyposażoną w: stanowisko komputerowe dla nauczyciela pod
 2)
 pracownię elektrotechniki i elektroniki, wyposażoną w: stanowiska pomiarowe, wyposażone w stoły laboratoryjne (jedno stanowisko dla dwóch uczniów) zasilane napięciem 230/400 V prądu przemiennego, zabezpieczone ochroną przeciwporażeniową oraz wyposażone w wyłączniki awaryjne i wyłącznik awaryjny centralny; zasilacze stabilizowane napięcia stałego, autotransformatory, generatory funkcyjne; przyrządy pomiarowe analogowe i cyfrowe, oscyloskopy; elementy elektryczne i elektroniczne, przewody i kable elektryczne; trenażery z układami elektrycznymi i elektronicznymi przystosowane do pomiarów; stanowiska komputerowe (jedno stanowisko dla dwóch uczniów) z oprogramowaniem umożliwiającym symulację pracy układów elektrycznych i elektronicznych, schematy ideowe i montażowe układów elektrycznych i elektronicznych;
 3)
-pracownię urządzeń dźwigowych, wyposażoną w: stanowiska montażowe (jedno stanowisko dla dwóch uczniów) zasilane napięciem 230/400 V prądu przemiennego, zabezpieczone ochroną przeciwporażeniową oraz wyposażone w wyłączniki awaryjne i narzędzia do montażu; stanowisko obróbki ręcznej wyposażone w zestaw narzędzi i przyrządy pomiarowe; podzespoły dźwigowe: ograniczniki prędkości, chwytacze, łączniki bezpieczeństwa, czujniki, modele prowadnic i lin, modele napędów drzwi dźwigowych, wciągarki dźwigowe reduktorowe i bezreduktorowe, elementy sterowania wciągarek dźwigowych: styczniki, przekaźniki, falowniki, elementy instalacji dźwigów hydraulicznych; filmy dydaktyczne oraz plansze obrazujące budowę i działanie dźwigów osobowych i towarowych z napędem elektrycznym i hydraulicznym oraz dźwigów budowlanych i towarowych małych, modele urządzeń dźwigowych; schematy elektryczne oraz hydrauliczne urządzeń dźwigowych, rysunki montażowe urządzeń dźwigowych, dokumentację techniczną urządzeń dźwigowych, instrukcje montażu, obsługi i konserwacji urządzeń dźwigowych, katalogi podzespołów dźwigowych, dyrektywy dźwigowe, normy dotyczące urządzeń dźwigowych, przepisy prawa dotyczące dozoru technicznego, środki ochrony indywidualnej stosowane podczas montażu i konserwacji urządzeń dźwigowych.
-Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, przedsiębiorstwach zajmujących się produkcją, montażem i konserwacją urządzeń dźwigowych oraz innych podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 6 tygodni (240 godzin).
+pracownię urządzeń dźwigowych, wyposażoną w: stanowiska montażowe (jedno stanowisko dla dwóch uczniów) zasilane napięciem 230/400 V prądu przemiennego, zabezpieczone ochroną przeciwporażeniową oraz wyposażone w wyłączniki awaryjne i narzędzia do montażu; stanowisko obróbki ręcznej wyposażone w zestaw narzędzi i przyrządy pomiarowe; podzespoły dźwigowe: ograniczniki prędkości, chwytacze, łączniki bezpieczeństwa, czujniki, modele prowadnic i lin, modele napędów drzwi dźwigowych, wciągarki dźwigowe reduktorowe i bezreduktorowe, elementy sterowania wciągarek dźwigowych: styczniki, przekaźniki, falowniki, elementy instalacji dźwigów hydraulicznych; filmy dydaktyczne oraz plansze obrazujące budowę i działanie dźwigów osobowych i towarowych z napędem elektrycznym i hydraulicznym oraz dźwigów budowlanych i towarowych małych, modele urządzeń dźwigowych; schematy elektryczne oraz hydrauliczne urządzeń dźwigowych, rysunki montażowe urządzeń dźwigowych, dokumentację techniczną urządzeń dźwigowych, instrukcje montażu, obsługi i konserwacji urządzeń dźwigowych, katalogi podzespołów dźwigowych, dyrektywy dźwigowe, normy dotyczące urządzeń dźwigowych, przepisy prawa dotyczące dozoru technicznego, środki ochrony indywidualnej stosowane podczas montażu i konserwacji urządzeń dźwigowych. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, przedsiębiorstwach zajmujących się produkcją, montażem i konserwacją urządzeń dźwigowych oraz innych podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 6 tygodni (240 godzin).
 4.
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo--hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 450 godz. E.28. Montaż i konserwacja urządzeń dźwigowych 650 godz. E.29. Organizacja prac związanych z budową, montażem i konserwacją urządzeń dźwigowych 150 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. TECHNIK CHŁODNICTWA I KLIMATYZACJI 311929
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo--hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 450 godz. E.28. Montaż i konserwacja urządzeń dźwigowych 650 godz. E.29. Organizacja prac związanych z budową, montażem i konserwacją urządzeń dźwigowych 150 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. TECHNIK CHŁODNICTWA I KLIMATYZACJI 311929
 1.
 CELE KSZTAŁCENIA W ZAWODZIE Absolwent szkoły kształcącej w zawodzie technik chłodnictwa i klimatyzacji powinien być przygotowany do wykonywania następujących zadań zawodowych:
 1)
@@ -188,23 +650,21 @@ stanowiska ślusarskie (jedno stanowisko dla dwóch uczniów), wyposażone w: st
 b)
 stanowiska montażu urządzeń i instalacji chłodniczych i klimatyzacyjnych (jedno stanowisko dla dwóch uczniów), wyposażone w: stół z blatem ognioodpornym, przyrządy pomiarowe, narzędzia do obróbki rur stalowych, miedzianych, aluminiowych oraz rur z tworzyw sztucznych; narzędzia i urządzenia do wykonywania połączeń zgrzewanych, lutowanych, spawanych, klejonych, zaciskowych, gwintowych i kołnierzowych, środki ochrony indywidualnej, instrukcje i poradniki dotyczące wykonywania połączeń,
 c)
-stanowiska konserwacji oraz napraw urządzeń chłodniczych i klimatyzacyjnych (jedno stanowisko dla trzech uczniów), wyposażone w: działające urządzenie klimatyzacyjne z układem chłodniczym, pompę próżniową, wagę elektroniczną do czynników chłodniczych, wykrywacze nieszczelności, zestaw manometrów, termometry, przyrządy do pomiaru parametrów powietrza, butle z czynnikiem chłodniczym, stację napełniania i odzysku czynnika chłodniczego, zestaw narzędzi do wykonywania połączeń rozłącznych, cęgowy miernik uniwersalny do pomiaru wielkości elektrycznych, katalogi, normy, instrukcje eksploatacji urządzeń, środki ochrony indywidualnej.
-Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, przedsiębiorstwach produkcyjnych i usługowych prowadzących działalność w zakresie chłodnictwa i klimatyzacji. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 4 tygodni (160 godzin).
+stanowiska konserwacji oraz napraw urządzeń chłodniczych i klimatyzacyjnych (jedno stanowisko dla trzech uczniów), wyposażone w: działające urządzenie klimatyzacyjne z układem chłodniczym, pompę próżniową, wagę elektroniczną do czynników chłodniczych, wykrywacze nieszczelności, zestaw manometrów, termometry, przyrządy do pomiaru parametrów powietrza, butle z czynnikiem chłodniczym, stację napełniania i odzysku czynnika chłodniczego, zestaw narzędzi do wykonywania połączeń rozłącznych, cęgowy miernik uniwersalny do pomiaru wielkości elektrycznych, katalogi, normy, instrukcje eksploatacji urządzeń, środki ochrony indywidualnej. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, przedsiębiorstwach produkcyjnych i usługowych prowadzących działalność w zakresie chłodnictwa i klimatyzacji. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 4 tygodni (160 godzin).
 4.
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów, obszaru budowlanego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 450 godz. E.30. Montaż, eksploatacja i konserwacja urządzeń i instalacji chłodniczych 450 godz. E.31. Montaż, eksploatacja i konserwacja urządzeń i instalacji klimatyzacyjnych 450 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie.
-” ,
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów, obszaru budowlanego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo-hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 450 godz. E.30. Montaż, eksploatacja i konserwacja urządzeń i instalacji chłodniczych 450 godz. E.31. Montaż, eksploatacja i konserwacja urządzeń i instalacji klimatyzacyjnych 450 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
 f)
 w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej symbol cyfrowy zawodu „Operator maszyn i urządzeń do przetwórstwa tworzyw sztucznych” otrzymuje brzmienie: „ 814209 ” ,
 g)
-w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej w opisie kształcenia w zawodzie „Elektromechanik pojazdów samochodowych 741203” ust. 4 „Minimalna liczba godzin kształcenia zawodowego” otrzymuje brzmienie:
-„
+w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej w opisie kształcenia w zawodzie „Elektromechanik pojazdów samochodowych 741203” ust. 4 „Minimalna liczba godzin kształcenia zawodowego” otrzymuje brzmienie: „
 4.
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo--hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. M.12. Diagnozowanie oraz naprawa elektrycznych i elektronicznych układów pojazdów samochodowych 420 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie.
-” ,
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo--hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. M.12. Diagnozowanie oraz naprawa elektrycznych i elektronicznych układów pojazdów samochodowych 420 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
 h)
-w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej po opisie kształcenia w zawodzie „Mechanik-monter maszyn i urządzeń 723310” dodaje się opis kształcenia w zawodzie „Mechanik motocyklowy 723107” w brzmieniu:
-„
-MECHANIK MOTOCYKLOWY 723107
+w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej po opisie kształcenia w zawodzie „Mechanik-monter maszyn i urządzeń 723310” dodaje się opis kształcenia w zawodzie „Mechanik motocyklowy 723107” w brzmieniu: „ MECHANIK MOTOCYKLOWY 723107
 1.
 CELE KSZTAŁCENIA Absolwent szkoły kształcącej w zawodzie mechanik motocyklowy powinien być przygotowany do wykonywania następujących zadań zawodowych:
 1)
@@ -228,30 +688,27 @@ pracownię rysunku technicznego, wyposażoną w: stanowisko komputerowe dla nauc
 2)
 pracownię motocyklową, wyposażoną w: dokumentacje serwisowe, instrukcje użytkowania, obsługi i naprawy motocykli, katalogi części i materiałów eksploatacyjnych, przyrządy diagnostyczne, modele i przekroje podzespołów oraz zespołów motocykli, elementy instalacji motocykli, stanowisko komputerowe z dostępem do Internetu dla nauczyciela, pakiet programów biurowych, projektor multimedialny, oprogramowanie do diagnostyki motocykli;
 3)
-warsztaty szkolne, wyposażone w: stanowiska do diagnostyki, obsługi i naprawy motocykli (jedno stanowisko dla czterech uczniów), motocykle, ich podzespoły i zespoły, urządzenie do pomiaru geometrii ramy, urządzenie do pomiaru emisji spalin, komputer diagnostyczny z oprogramowaniem, narzędzia monterskie, klucze dynamometryczne, stoły ślusarskie, urządzenia do mycia mechanizmów i części, kompresor powietrza, narzędzia do obróbki ręcznej, urządzenia i narzędzia do obróbki mechanicznej, przyrządy pomiarowe, urządzenia i narzędzia do wymiany materiałów eksploatacyjnych, dokumentacje serwisowe, instrukcje użytkowania, obsługi i naprawy motocykli, instrukcje obsługi urządzeń, narzędzi i przyrządów, środki ochrony indywidualnej.
-Przygotowanie do jazdy i kierowania motocyklem w zakresie niezbędnym do uzyskania prawa jazdy uprawniającego do kierowania motocyklem, zgodnie z przepisami ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2014 r. poz. 600, z późn. zm.), odbywa się w ośrodku szkolenia kierowców. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, warsztatach naprawczych i stacjach kontroli pojazdów oraz innych podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie.
+warsztaty szkolne, wyposażone w: stanowiska do diagnostyki, obsługi i naprawy motocykli (jedno stanowisko dla czterech uczniów), motocykle, ich podzespoły i zespoły, urządzenie do pomiaru geometrii ramy, urządzenie do pomiaru emisji spalin, komputer diagnostyczny z oprogramowaniem, narzędzia monterskie, klucze dynamometryczne, stoły ślusarskie, urządzenia do mycia mechanizmów i części, kompresor powietrza, narzędzia do obróbki ręcznej, urządzenia i narzędzia do obróbki mechanicznej, przyrządy pomiarowe, urządzenia i narzędzia do wymiany materiałów eksploatacyjnych, dokumentacje serwisowe, instrukcje użytkowania, obsługi i naprawy motocykli, instrukcje obsługi urządzeń, narzędzi i przyrządów, środki ochrony indywidualnej. Przygotowanie do jazdy i kierowania motocyklem w zakresie niezbędnym do uzyskania prawa jazdy uprawniającego do kierowania motocyklem, zgodnie z przepisami ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2014 r. poz. 600, z późn. zm.), odbywa się w ośrodku szkolenia kierowców. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, warsztatach naprawczych i stacjach kontroli pojazdów oraz innych podmiotach stanowiących potencjalne miejsce zatrudnienia absolwentów szkół kształcących w zawodzie.
 4.
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo--hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. M.45. Diagnozowanie i naprawa motocykli 420 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie.
-” ,
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo--hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. M.45. Diagnozowanie i naprawa motocykli 420 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
 i)
-w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej w opisie kształcenia w zawodzie „Mechanik pojazdów samochodowych 723103” ust. 4 „Minimalna liczba godzin kształcenia zawodowego” otrzymuje brzmienie:
-„
+w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej w opisie kształcenia w zawodzie „Mechanik pojazdów samochodowych 723103” ust. 4 „Minimalna liczba godzin kształcenia zawodowego” otrzymuje brzmienie: „
 4.
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1) Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo--hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. M.18. Diagnozowanie i naprawa podzespołów i zespołów pojazdów samochodowych 420 godz. 1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie.
-” ,
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO1)
+Efekty kształcenia wspólne dla wszystkich zawodów, a także efekty kształcenia wspólne dla zawodów w ramach obszaru elektryczno-elektronicznego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów oraz obszaru mechanicznego i górniczo--hutniczego stanowiące podbudowę do kształcenia w zawodzie lub grupie zawodów 400 godz. M.18. Diagnozowanie i naprawa podzespołów i zespołów pojazdów samochodowych 420 godz.
+1) W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
 j)
-w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej w opisie kształcenia w zawodzie „Modelarz odlewniczy 721104” w ust. 2 „Efekty kształcenia” pkt 3 otrzymuje brzmienie:
-„
+w obszarze mechanicznym i górniczo-hutniczym (M) dla zasadniczej szkoły zawodowej w opisie kształcenia w zawodzie „Modelarz odlewniczy 721104” w ust. 2 „Efekty kształcenia” pkt 3 otrzymuje brzmienie: „
 3)
-efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodzie modelarz odlewniczy opisane w części II: M.26. Wykonywanie i naprawa oprzyrządowania odlewniczego z materiałów niemetalowych; M.27. Montaż i naprawa oprzyrządowania odlewniczego wykonanego z metalu.
-” ,
+efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodzie modelarz odlewniczy opisane w części II: M.26. Wykonywanie i naprawa oprzyrządowania odlewniczego z materiałów niemetalowych; M.27. Montaż i naprawa oprzyrządowania odlewniczego wykonanego z metalu. ” ,
 k)
 w obszarze mechanicznym i górniczo-hutniczym (M) dla technikum w opisie kształcenia w zawodzie „Technik optyk 325302”:
 – po nazwie i symbolu cyfrowym tego zawodu dodaje się postanowienie w brzmieniu: „ Klasyfikacja zawodów szkolnictwa zawodowego przewiduje możliwość kształcenia w tym zawodzie również w szkole policealnej. ” ,
 – odnośnik do ust. 4. „Minimalna liczba godzin kształcenia zawodowego” otrzymuje brzmienie: „ W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując, z wyjątkiem szkoły policealnej dla dorosłych, minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
 l)
-w obszarze mechanicznym i górniczo-hutniczym (M) dla technikum w opisie kształcenia w zawodzie „Technik mechanik okrętowy 315105” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie:
-„
+w obszarze mechanicznym i górniczo-hutniczym (M) dla technikum w opisie kształcenia w zawodzie „Technik mechanik okrętowy 315105” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie: „
 3.
 WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie technik mechanik okrętowy powinna posiadać następujące pomieszczenia dydaktyczne:
 1)
@@ -283,16 +740,13 @@ stanowisko do prac elektrycznych (jedno stanowisko dla jednego ucznia), wyposaż
 9)
 ośrodek szkoleniowy ratownictwa morskiego posiadający certyfikat wydany przez właściwy terytorialnie organ administracji morskiej do prowadzenia szkoleń w zakresie: indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego, elementarnych zasad udzielania pierwszej pomocy, bezpieczeństwa własnego i odpowiedzialności wspólnej;
 10)
-statek do celów szkoleniowych – statek do celów szkoleniowych, jego urządzenia, systemy i wyposażenie powinny spełniać wszystkie wymagania określone dla statków o danej pojemności brutto, uprawiających odpowiedni rodzaj żeglugi, zgodnie z przepisami o żegludze śródlądowej lub zgodnie z Kodeksem morskim, a także wypełniać wymagania konwencji międzynarodowych, w tym dotyczących bezpieczeństwa życia na morzu oraz o zapobieganiu zanieczyszczeniom morza przez statki.
-Wyposażenie statku powinno umożliwiać zdobycie praktycznych umiejętności zawodowych określonych w części II dla kwalifikacji M.32. Organizacja i prowadzenie prac związanych z eksploatacją maszyn, urządzeń i instalacji okrętowych. Na statku szkolnym powinny zostać zamontowane: kompas, system kontroli kursu, rejestrator danych podróży statku, radar z urządzeniami do automatycznego nakreślania i śledzenia, urządzenie systemu automatycznej identyfikacji, echosondy, sonar, odbiornik światowego satelitarnego systemu określania pozycji, urządzenia do pomiaru prędkości i przebytej drogi, odbiorniki światowego satelitarnego systemu nawigacyjnego, urządzenia do odbioru map elektronicznych i informacji oraz odbiornik elektronicznych map synoptycznych; wyposażenie radiokomunikacyjne, obejmujące: urządzenia radiowe VHF do łączności fonicznej i cyfrowego selektywnego wywoływania, odbiornik nasłuchowy, odbiornik nawigacyjnego systemu teleksowego, radiopławę satelitarną oraz radiotelefony VHF stacjonarne i przenośne; komputer z oprogramowaniem nawigacyjnym, komplet aktualnych wydawnictw nawigacyjnych oraz map morskich, w tym także w języku angielskim. Wszystkie maszyny, urządzenia i narzędzia pracy muszą posiadać certyfikaty lub świadectwa zgodności w zakresie bezpieczeństwa i higieny pracy. Gaśnice powinny być rozstawione w widocznym miejscu i oznakowane. Należy oznaczyć drogi ewakuacyjne i wyjścia awaryjne. Narzędzia, urządzenia, środowisko i warunki pracy muszą być dostosowane do możliwości uczniów. Urządzenia muszą być sprawne, gwarantujące bezpieczne wykonanie pracy, spełniające aktualne przepisy dotyczące ergonomii pracy i ochrony środowiska. W szkole prowadzącej kształcenie w zawodzie technik mechanik okrętowy językiem obcym ukierunkowanym zawodowo jest język angielski. Proces kształcenia powinien być realizowany zgodnie z wymaganiami określonymi w Konwencji STCW (Międzynarodowa konwencja o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, sporządzona w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. Nr 39, poz. 201, z 1999 r. Nr 30, poz. 286 oraz z 2013 r. poz. 1092)) oraz zgodnie z przepisami wydanymi na podstawie art. 68, art. 74 ust. 4 oraz art. 76 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, określającymi wyszkolenie i kwalifikacje oraz ramowe programy szkoleń i wymagań egzaminacyjnych wobec członków załóg statków morskich, a także warunki i tryb uznawania morskich jednostek edukacyjnych oraz wymagania kwalifikacyjne wobec kadry prowadzącej zajęcia. Kształcenie praktyczne w zakresie stosowania przyrządów, narzędzi i technik warsztatowych może odbywać się w: pracowniach szkolnych, przedsiębiorstwach produkujących i remontujących statki oraz ich wyposażenie, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego posiadających uprawnienia do kształcenia w zakresie wymagań Konwencji STCW udzielone przez właściwy terytorialnie organ administracji morskiej. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze nie krótszym niż dwa miesiące (60 dni). Warunkiem skierowania ucznia na praktyki zawodowe jest ukończenie podstawowych przeszkoleń w zakresie: indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego, elementarnych zasad udzielania pierwszej pomocy medycznej, bezpieczeństwa własnego i odpowiedzialności wspólnej oraz problematyki ochrony na statku. Przeszkolenia są organizowane w morskich jednostkach edukacyjnych zgodnie z art. 74 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
-” ,
+statek do celów szkoleniowych – statek do celów szkoleniowych, jego urządzenia, systemy i wyposażenie powinny spełniać wszystkie wymagania określone dla statków o danej pojemności brutto, uprawiających odpowiedni rodzaj żeglugi, zgodnie z przepisami o żegludze śródlądowej lub zgodnie z Kodeksem morskim, a także wypełniać wymagania konwencji międzynarodowych, w tym dotyczących bezpieczeństwa życia na morzu oraz o zapobieganiu zanieczyszczeniom morza przez statki. Wyposażenie statku powinno umożliwiać zdobycie praktycznych umiejętności zawodowych określonych w części II dla kwalifikacji M.32. Organizacja i prowadzenie prac związanych z eksploatacją maszyn, urządzeń i instalacji okrętowych. Na statku szkolnym powinny zostać zamontowane: kompas, system kontroli kursu, rejestrator danych podróży statku, radar z urządzeniami do automatycznego nakreślania i śledzenia, urządzenie systemu automatycznej identyfikacji, echosondy, sonar, odbiornik światowego satelitarnego systemu określania pozycji, urządzenia do pomiaru prędkości i przebytej drogi, odbiorniki światowego satelitarnego systemu nawigacyjnego, urządzenia do odbioru map elektronicznych i informacji oraz odbiornik elektronicznych map synoptycznych; wyposażenie radiokomunikacyjne, obejmujące: urządzenia radiowe VHF do łączności fonicznej i cyfrowego selektywnego wywoływania, odbiornik nasłuchowy, odbiornik nawigacyjnego systemu teleksowego, radiopławę satelitarną oraz radiotelefony VHF stacjonarne i przenośne; komputer z oprogramowaniem nawigacyjnym, komplet aktualnych wydawnictw nawigacyjnych oraz map morskich, w tym także w języku angielskim. Wszystkie maszyny, urządzenia i narzędzia pracy muszą posiadać certyfikaty lub świadectwa zgodności w zakresie bezpieczeństwa i higieny pracy. Gaśnice powinny być rozstawione w widocznym miejscu i oznakowane. Należy oznaczyć drogi ewakuacyjne i wyjścia awaryjne. Narzędzia, urządzenia, środowisko i warunki pracy muszą być dostosowane do możliwości uczniów. Urządzenia muszą być sprawne, gwarantujące bezpieczne wykonanie pracy, spełniające aktualne przepisy dotyczące ergonomii pracy i ochrony środowiska. W szkole prowadzącej kształcenie w zawodzie technik mechanik okrętowy językiem obcym ukierunkowanym zawodowo jest język angielski. Proces kształcenia powinien być realizowany zgodnie z wymaganiami określonymi w Konwencji STCW (Międzynarodowa konwencja o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, sporządzona w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. Nr 39, poz. 201, z 1999 r. Nr 30, poz. 286 oraz z 2013 r. poz. 1092)) oraz zgodnie z przepisami wydanymi na podstawie art. 68, art. 74 ust. 4 oraz art. 76 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, określającymi wyszkolenie i kwalifikacje oraz ramowe programy szkoleń i wymagań egzaminacyjnych wobec członków załóg statków morskich, a także warunki i tryb uznawania morskich jednostek edukacyjnych oraz wymagania kwalifikacyjne wobec kadry prowadzącej zajęcia. Kształcenie praktyczne w zakresie stosowania przyrządów, narzędzi i technik warsztatowych może odbywać się w: pracowniach szkolnych, przedsiębiorstwach produkujących i remontujących statki oraz ich wyposażenie, placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego posiadających uprawnienia do kształcenia w zakresie wymagań Konwencji STCW udzielone przez właściwy terytorialnie organ administracji morskiej. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze nie krótszym niż dwa miesiące (60 dni). Warunkiem skierowania ucznia na praktyki zawodowe jest ukończenie podstawowych przeszkoleń w zakresie: indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego, elementarnych zasad udzielania pierwszej pomocy medycznej, bezpieczeństwa własnego i odpowiedzialności wspólnej oraz problematyki ochrony na statku. Przeszkolenia są organizowane w morskich jednostkach edukacyjnych zgodnie z art. 74 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim. ” ,
 m)
 w obszarze mechanicznym i górniczo-hutniczym (M) dla technikum w opisie kształcenia w zawodzie „Technik pojazdów samochodowych 311513”:
 – po nazwie i symbolu cyfrowym tego zawodu uchyla się postanowienie w brzmieniu: „ Klasyfikacja zawodów szkolnictwa zawodowego przewiduje możliwość kształcenia w tym zawodzie również w szkole policealnej. ” ,
 – odnośnik do ust. 4. „Minimalna liczba godzin kształcenia zawodowego” otrzymuje brzmienie: „ W szkole liczbę godzin kształcenia zawodowego należy dostosować do wymiaru godzin określonego w przepisach w sprawie ramowych planów nauczania w szkołach publicznych, przewidzianego dla kształcenia zawodowego, zachowując minimalną liczbę godzin wskazanych w tabeli odpowiednio dla efektów kształcenia: wspólnych dla wszystkich zawodów i wspólnych dla zawodów w ramach obszaru kształcenia stanowiących podbudowę do kształcenia w zawodzie lub grupie zawodów oraz właściwych dla kwalifikacji wyodrębnionych w zawodzie. ” ,
 n)
-w obszarze rolniczo-leśnym z ochroną środowiska (R) dla technikum w opisie kształcenia w zawodzie „Technik rybołówstwa morskiego 315215” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie:
-„
+w obszarze rolniczo-leśnym z ochroną środowiska (R) dla technikum w opisie kształcenia w zawodzie „Technik rybołówstwa morskiego 315215” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie: „
 3.
 WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie technik rybołówstwa morskiego powinna posiadać następujące pomieszczenia dydaktyczne:
 1)
@@ -338,8 +792,7 @@ stanowisko z przemysłowym urządzeniem chłodniczym,
 g)
 stanowisko z silnikiem okrętowym przeznaczonym do przeglądu i remontu części wraz z narzędziami do demontażu, montażu oraz pomiarów warsztatowych,
 h)
-stanowisko do mycia i weryfikacji części maszyn i urządzeń;
-ponadto laboratorium powinno być wyposażone w: plansze i przekroje silników oraz części mechanizmów i maszyn okrętowych, dokumentację techniczną oraz instrukcje stanowiskowe;
+stanowisko do mycia i weryfikacji części maszyn i urządzeń; ponadto laboratorium powinno być wyposażone w: plansze i przekroje silników oraz części mechanizmów i maszyn okrętowych, dokumentację techniczną oraz instrukcje stanowiskowe;
 10)
 statek szkolny, wyposażony w: miejsca noclegowe oraz urządzenia sanitarne, natryski, zbiorniki wody sanitarnej, zbiorniki ściekowe; blok kuchenny z jadalnią i zbiornikami wody pitnej (pełne wyposażenie dla uczniów i załogi statku); salę dydaktyczną do prowadzenia zajęć, wyposażoną w pomoce dydaktyczne; radar, echosondę, GPS, dwa radiotelefony i inne środki dydaktyczne służące do kształcenia umiejętności w czasie praktyki zawodowej; wyposażenie techniczno-eksploatacyjne statku szkolnego powinno być zgodne z przepisami bezpieczeństwa żeglugi ustalonymi przez administrację morską i instytucje klasyfikacyjne dla statków uprawiających żeglugę międzynarodową;
 11)
@@ -357,20 +810,15 @@ stanowiska do lutowania (jedno stanowisko dla jednego ucznia),
 f)
 stanowiska do klejenia (jedno stanowisko dla trzech uczniów),
 g)
-dwa stanowiska do prac elektrycznych (jedno stanowisko dla dwóch uczniów).
-W szkole prowadzącej kształcenie w zawodzie technik rybołówstwa morskiego językiem obcym ukierunkowanym zawodowo jest język angielski. Proces kształcenia powinien być realizowany zgodnie z przepisami wydanymi na podstawie art. 68, art. 74 ust. 4 oraz art. 76 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, określającymi wyszkolenie i kwalifikacje oraz ramowe programy szkoleń i wymagań egzaminacyjnych wobec członków załóg statków morskich, a także warunki i tryb uznawania morskich jednostek edukacyjnych oraz wymagania kwalifikacyjne wobec kadry prowadzącej zajęcia. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, na statku szkolnym oraz na statkach innych armatorów. Szkoła organizuje praktyki zawodowe morskie w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 2 miesięcy (8 tygodni), po jednym miesiącu w klasie drugiej i trzeciej. Warunkiem skierowania ucznia na praktyki zawodowe jest ukończenie podstawowych przeszkoleń w zakresie: indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego i elementarnych zasad udzielania pierwszej pomocy medycznej lub przeszkolenia w zakresie bezpieczeństwa dla członków załóg na łodzi rybackiej w żegludze krajowej. Przeszkolenia są organizowane w morskich jednostkach edukacyjnych, zgodnie z art. 74 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
-” ,
+dwa stanowiska do prac elektrycznych (jedno stanowisko dla dwóch uczniów). W szkole prowadzącej kształcenie w zawodzie technik rybołówstwa morskiego językiem obcym ukierunkowanym zawodowo jest język angielski. Proces kształcenia powinien być realizowany zgodnie z przepisami wydanymi na podstawie art. 68, art. 74 ust. 4 oraz art. 76 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, określającymi wyszkolenie i kwalifikacje oraz ramowe programy szkoleń i wymagań egzaminacyjnych wobec członków załóg statków morskich, a także warunki i tryb uznawania morskich jednostek edukacyjnych oraz wymagania kwalifikacyjne wobec kadry prowadzącej zajęcia. Kształcenie praktyczne może odbywać się w: pracowniach i warsztatach szkolnych, na statku szkolnym oraz na statkach innych armatorów. Szkoła organizuje praktyki zawodowe morskie w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 2 miesięcy (8 tygodni), po jednym miesiącu w klasie drugiej i trzeciej. Warunkiem skierowania ucznia na praktyki zawodowe jest ukończenie podstawowych przeszkoleń w zakresie: indywidualnych technik ratunkowych, ochrony przeciwpożarowej stopnia podstawowego i elementarnych zasad udzielania pierwszej pomocy medycznej lub przeszkolenia w zakresie bezpieczeństwa dla członków załóg na łodzi rybackiej w żegludze krajowej. Przeszkolenia są organizowane w morskich jednostkach edukacyjnych, zgodnie z art. 74 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim. ” ,
 o)
-w obszarze turystyczno-gastronomicznym (T) dla technikum w opisie kształcenia w zawodzie „Technik obsługi turystycznej 422103” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie:
-„
+w obszarze turystyczno-gastronomicznym (T) dla technikum w opisie kształcenia w zawodzie „Technik obsługi turystycznej 422103” ust. 3 „Warunki realizacji kształcenia w zawodzie” otrzymuje brzmienie: „
 3.
 WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE Szkoła podejmująca kształcenie w zawodzie technik obsługi turystycznej powinna posiadać następujące pomieszczenia dydaktyczne:
 1)
 pracownię turystyczno-geograficzną, wyposażoną w: stanowiska komputerowe (jedno stanowisko dla jednego ucznia), pakiet programów biurowych, oprogramowanie do obsługi turystycznej, sprzęt biurowy, zestaw przepisów prawa dotyczących działalności turystycznej, przewodniki, foldery oraz informatory turystyczne, katalogi biur podróży z ofertami i cennikami imprez, rozkłady jazdy komunikacji: autobusowej, kolejowej, lotniczej, promowej, wzory dokumentów stosowanych w działalności turystycznej, w tym wzory umów cywilnoprawnych, mapy turystyczne, fizyczne i polityczne Polski, Europy i świata, atlasy geograficzne;
 2)
-pracownię obsługi turystycznej, wyposażoną w: stanowiska komputerowe (jedno stanowisko dla jednego ucznia), pakiet programów biurowych, oprogramowanie do obsługi turystycznej, w tym stosowane w informacji turystycznej, czytnik kart płatniczych, sprzęt biurowy, przewodniki, informatory turystyczne i materiały promocyjne dotyczące atrakcji turystycznych, obiektów noclegowych, biur podróży oraz innych podmiotów działających w branży turystycznej, rozkłady jazdy komunikacji: autobusowej, kolejowej, lotniczej, promowej, mapy turystyczne Polski, Europy i świata, atlasy geograficzne.
-Kształcenie praktyczne może odbywać się w: pracowniach szkolnych oraz w biurach podróży, punktach informacji turystycznej oraz innych podmiotach świadczących usługi turystyczne. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 8 tygodni (320 godzin). Program praktyki zawodowej powinien być dostosowany do specyfiki regionu, w którym znajduje się szkoła kształcąca w zawodzie.
-” ,
+pracownię obsługi turystycznej, wyposażoną w: stanowiska komputerowe (jedno stanowisko dla jednego ucznia), pakiet programów biurowych, oprogramowanie do obsługi turystycznej, w tym stosowane w informacji turystycznej, czytnik kart płatniczych, sprzęt biurowy, przewodniki, informatory turystyczne i materiały promocyjne dotyczące atrakcji turystycznych, obiektów noclegowych, biur podróży oraz innych podmiotów działających w branży turystycznej, rozkłady jazdy komunikacji: autobusowej, kolejowej, lotniczej, promowej, mapy turystyczne Polski, Europy i świata, atlasy geograficzne. Kształcenie praktyczne może odbywać się w: pracowniach szkolnych oraz w biurach podróży, punktach informacji turystycznej oraz innych podmiotach świadczących usługi turystyczne. Szkoła organizuje praktyki zawodowe w podmiocie zapewniającym rzeczywiste warunki pracy właściwe dla nauczanego zawodu w wymiarze 8 tygodni (320 godzin). Program praktyki zawodowej powinien być dostosowany do specyfiki regionu, w którym znajduje się szkoła kształcąca w zawodzie. ” ,
 p)
 w obszarze medyczno-społecznym (Z) dla szkoły policealnej uchyla się opisy kształcenia w zawodach „Ratownik medyczny 325601” oraz „Dietetyk 322001”.
 § 2.
@@ -385,5 +833,5 @@ Szkoły, które rozpoczęły kształcenie w zawodach Ratownik medyczny oraz Diet
 § 5.
 Szkoły policealne, które rozpoczęły kształcenie w zawodzie Technik pojazdów samochodowych w roku szkolnym 2013/2014 i 2014/2015, kontynuują kształcenie w tym zawodzie zgodnie z podstawą programową kształcenia w zawodach określoną w przepisach rozporządzenia zmienianego w § 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszego rozporządzenia, do zakończenia cyklu kształcenia.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650 oraz z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877.
 

@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-24 |
 | Data wydania | 2020-03-30 |
-| Wejście w życie | 2020-04-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000552) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/552/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Organizacja i tryb szkolenia zawodowego Rozdział 2 – Zakres tematyczny szkoleń zawodowych Rozdział 3 – Forma zakończenia szkolenia, w tym składanie egzaminów na pierwszy stopień w korpusie podoficerów, chorążych, oficerów oraz kończących doskonalenie zawodowe Rozdział 4 – Przepisy przejściowy i końcowe
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 71 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
+Organizacja i tryb szkolenia zawodowego
 § 1.
 Agencja Wywiadu, zwana dalej „AW”, organizuje następujące rodzaje szkoleń zawodowych funkcjonariuszy AW, zwanych dalej „szkoleniami”:
 1)
@@ -304,6 +304,7 @@ Szef AW może usunąć funkcjonariusza AW ze szkolenia organizowanego i prowadzo
 Ponowne skierowanie funkcjonariusza AW na szkolenie następuje nie wcześniej niż po upływie roku od dnia usunięcia tego funkcjonariusza ze szkolenia.
 § 17.
 W przypadku skierowania na szkolenia, o których mowa w § 1 pkt 5–7, organizowane i prowadzone poza AW, niezwłocznie po ich zakończeniu funkcjonariusz AW przedkłada w jednostce organizacyjnej AW właściwej w sprawach szkoleń dokument potwierdzający ukończenie przez niego szkolenia lub zdanie egzaminu kończącego to szkolenie, w celu włączenia tego dokumentu do akt osobowych funkcjonariusza AW.
+Zakres tematyczny szkoleń zawodowych
 § 18.
 Tematyka szkolenia na pierwszy stopień w korpusie podoficerów obejmuje:
 1)
@@ -360,6 +361,7 @@ zastosowanie informatyki w wywiadzie;
 języki obce.
 § 22.
 Tematyka szkoleń, o których mowa w § 1 pkt 5 i 6, jest dostosowana do potrzeb jednostek organizacyjnych AW zgłaszanych przez kierowników tych jednostek kierownikowi jednostki organizacyjnej AW właściwej w sprawach szkoleń, a także uzależniona od rodzaju czynności służbowych wykonywanych przez funkcjonariuszy AW.
+Forma zakończenia szkolenia, w tym składanie egzaminów na pierwszy stopień w korpusie podoficerów, chorążych, oficerów oraz kończących doskonalenie zawodowe
 § 23.
 1.
 Szkolenia, o których mowa w § 1 pkt 1–4, kończą się egzaminem końcowym polegającym na sprawdzeniu wiedzy i umiejętności nabytych przez funkcjonariusza AW w trakcie tych szkoleń.
@@ -405,6 +407,7 @@ ocenę z egzaminu końcowego.
 Szkolenia organizowane w AW, inne niż wymienione w § 1 pkt 1–4, kończą się egzaminem końcowym albo w inny sposób określony planem szkolenia.
 2.
 W przypadku gdy szkolenia organizowane w AW, inne niż wymienione w § 1 pkt 1–4, kończą się egzaminem końcowym, przepisy § 23–27 stosuje się odpowiednio.
+Przepisy przejściowy i końcowe
 § 29.
 Szkolenia rozpoczęte i niezakończone przed dniem wejścia w życie rozporządzenia prowadzi się na podstawie dotychczasowych przepisów.
 § 30.
@@ -412,11 +415,19 @@ Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 29 lipca 2003 r. w spra
 § 31.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-#### Rozdział 1 Organizacja i tryb szkolenia zawodowego
+#### Rozdział 1 – Organizacja i tryb szkolenia zawodowego
 
-#### Rozdział 2 Zakres tematyczny szkoleń zawodowych
+#### Rozdział 2 – Zakres tematyczny szkoleń zawodowych
 
-#### Rozdział 3 Forma zakończenia szkolenia, w tym składanie egzaminów na pierwszy stopień w korpusie podoficerów, chorążych, oficerów oraz kończących doskonalenie zawodowe
+#### Rozdział 3 – Forma zakończenia szkolenia, w tym składanie egzaminów na pierwszy stopień w korpusie podoficerów, chorążych, oficerów oraz kończących doskonalenie zawodowe
 
-#### Rozdział 4 Przepisy przejściowy i końcowe
+#### Rozdział 4 – Przepisy przejściowy i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

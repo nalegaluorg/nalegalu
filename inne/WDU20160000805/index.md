@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 2 czerwca 2016 r. w sprawie wymagań bezpieczeństwa dla materiałów wybuchowych przeznaczonych do użytku cywilnego
+# Rozporządzenie Ministra Rozwojuz dnia 2 czerwca 2016 r. w sprawie wymagań bezpieczeństwa dla materiałów wybuchowych przeznaczonych do użytku cywilnego Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-02 |
 | Data wydania | 2016-06-08 |
-| Wejście w życie | 2016-06-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000805) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/805/text.pdf) |
 
@@ -37,7 +36,7 @@ Treść rozporządzenia
 ## Załącznik nr 4 — – Elementy deklaracji zgodności dla materiałów wybuchowych przeznaczonych do użytku cywilnego
 
 Treść rozporządzenia
-Na podstawie art. 2g ust. 1 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893 oraz z 2016 r. poz. 544) zarządza się, co następuje:
+Niniejsze rozporządzenie wdraża w zakresie swojej regulacji dyrektywę Parlamentu Europejskiego i Rady 2014/28/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku i kontroli materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. Urz. UE L 96 z 29.03.2014, str. 1). Na podstawie art. 2g ust. 1 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893 oraz z 2016 r. poz. 544) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa w odniesieniu do materiałów wybuchowych przeznaczonych do użytku cywilnego:
 1)
@@ -58,8 +57,7 @@ Zakres dokumentacji technicznej, o którym mowa w § 1 pkt 3, określa załączn
 4.
 Elementy deklaracji zgodności, o których mowa w § 1 pkt 4, określa załącznik nr 4 do rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Niniejsze rozporządzenie wdraża w zakresie swojej regulacji dyrektywę Parlamentu Europejskiego i Rady 2014/28/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku i kontroli materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. Urz. UE L 96 z 29.03.2014, str. 1).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895). 2) Niniejsze rozporządzenie wdraża w zakresie swojej regulacji dyrektywę Parlamentu Europejskiego i Rady 2014/28/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku i kontroli materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. Urz. UE L 96 z 29.03.2014, str. 1).
 
 ## Załącznik nr 1 — – Wymagania bezpieczeństwa dotyczące projektowania i wytwarzania materiałów wybuchowych przeznaczonych do użytku cywilnego
 
@@ -384,7 +382,7 @@ sprawozdania z badań.
 
 Deklaracja zgodności dla materiałów wybuchowych przeznaczonych do użytku cywilnego zawiera, określone we wskazanej kolejności, elementy:
 1)
-nagłówek: DEKLARACJA ZGODNOŚCI (NR XXXXX);
+nagłówek: DEKLARACJA ZGODNOŚCI (NR XXXXX)Producent może, ale nie musi nadawać numeru deklaracji zgodności.;
 2)
 numer materiału wybuchowego przeznaczonego do użytku cywilnego, typu, partii lub serii;
 3)
@@ -402,6 +400,5 @@ nazwę i numer jednostki notyfikowanej, która przeprowadziła ocenę zgodności
 9)
 informacje dodatkowe (jeżeli występują);
 10)
-informację, w czyim imieniu deklaracja zgodności została podpisana, oraz imię, nazwisko, stanowisko i podpis osoby upoważnionej do sporządzenia deklaracji zgodności, a także miejsce i datę sporządzenia tej deklaracji.
-1) Producent może, ale nie musi nadawać numeru deklaracji zgodności.
+informację, w czyim imieniu deklaracja zgodności została podpisana, oraz imię, nazwisko, stanowisko i podpis osoby upoważnionej do sporządzenia deklaracji zgodności, a także miejsce i datę sporządzenia tej deklaracji. 1) Producent może, ale nie musi nadawać numeru deklaracji zgodności.
 

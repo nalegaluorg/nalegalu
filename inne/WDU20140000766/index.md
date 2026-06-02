@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-28 |
 | Data wydania | 2014-06-10 |
-| Wejście w życie | 2014-06-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/766/text.pdf) |
 
@@ -51,12 +50,11 @@ pisemne oświadczenie przedsiębiorcy zagranicznego zawierające:
 a)
 nazwę i adres siedziby organu oraz imiona i nazwiska członków organu albo
 b)
-imiona i nazwiska oraz miejsce zamieszkania osób
-upoważnionych do reprezentowania przedsiębiorcy zagranicznego w Rzeczypospolitej Polskiej w zakresie czynności związanych z wykonywaniem umowy, z oznaczeniem sposobu reprezentacji;
+imiona i nazwiska oraz miejsce zamieszkania osób – upoważnionych do reprezentowania przedsiębiorcy zagranicznego w Rzeczypospolitej Polskiej w zakresie czynności związanych z wykonywaniem umowy, z oznaczeniem sposobu reprezentacji;
 5)
 pisemne oświadczenie przedsiębiorcy zagranicznego, czy świadczył lub świadczy usługi na rzecz innych instytucji kredytowych lub instytucji finansowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1), bez względu na miejsce ich świadczenia, ze wskazaniem tych instytucji oraz rodzaju czynności, jakie na ich rzecz świadczył;
 6)
-odpis z właściwego rejestru, do którego wpisany jest przedsiębiorca zagraniczny, wydany nie wcześniej niż na 3 miesiące przed datą złożenia wniosku przez właściwy organ rejestrowy państwa miejsca zamieszkania lub siedziby przedsiębiorcy zagranicznego, jeżeli podlega on obowiązkowi wpisu do takiego rejestru, o ile odpowiednie informacje nie są dostępne za pośrednictwem Centralnej Ewidencji i Informacji o Działalności Gospodarczej, o której mowa w ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.) lub w Centralnej Informacji Krajowego Rejestru Sądowego, o której mowa w ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2013 r. poz. 1203).
+odpis z właściwego rejestru, do którego wpisany jest przedsiębiorca zagraniczny, wydany nie wcześniej niż na 3 miesiące przed datą złożenia wniosku przez właściwy organ rejestrowy państwa miejsca zamieszkania lub siedziby przedsiębiorcy zagranicznego, jeżeli podlega on obowiązkowi wpisu do takiego rejestru, o ile odpowiednie informacje nie są dostępne za pośrednictwem Centralnej Ewidencji i Informacji o Działalności Gospodarczej, o której mowa w ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650.) lub w Centralnej Informacji Krajowego Rejestru Sądowego, o której mowa w ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2013 r. poz. 1203).
 § 3.
 W przypadku przedsiębiorcy zagranicznego, będącego osobą fizyczną, oprócz dokumentów wymienionych w § 2 kasa do wniosku dołącza także:
 1)
@@ -100,10 +98,9 @@ Kasa nie dołącza do wniosku oświadczeń, jeżeli dołączane do niego dokumen
 § 9.
 W przypadku gdy przedsiębiorca lub przedsiębiorca zagraniczny jest:
 1)
-instytucją kredytową w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.),
+instytucją kredytową w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529, z 2013 r. poz. 777, 1036, 1289 i 1567 oraz z 2014 r. poz. 586.),
 2)
-podmiotem nadzorowanym przez właściwe władze nadzorcze państwa członkowskiego w rozumieniu art. 4 ust. 1 pkt 13 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe
-nie stosuje się § 2 pkt 1 lit. c, pkt 2, 3 i 5, § 4 pkt 1, 2 i 4–7, o ile kasa przedstawi pozytywną opinię właściwych władz nadzorczych państwa siedziby przedsiębiorcy zagranicznego.
+podmiotem nadzorowanym przez właściwe władze nadzorcze państwa członkowskiego w rozumieniu art. 4 ust. 1 pkt 13 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe – nie stosuje się § 2 pkt 1 lit. c, pkt 2, 3 i 5, § 4 pkt 1, 2 i 4–7, o ile kasa przedstawi pozytywną opinię właściwych władz nadzorczych państwa siedziby przedsiębiorcy zagranicznego.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529, z 2013 r. poz. 777, 1036, 1289 i 1567 oraz z 2014 r. poz. 586.
 

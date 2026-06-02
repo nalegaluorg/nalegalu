@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw
+# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawę z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-10-19 |
-| Wejście w życie | 2015-11-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001640) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1640/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1491 i 1877 oraz z 2015 r. poz. 978.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 2 pkt 1 otrzymuje brzmienie: „
 - **1)** nauczanie zawodu pielęgniarki lub położnej, wykonywanie pracy na rzecz doskonalenia zawodowego pielęgniarek i położnych lub nauczanie innych zawodów medycznych, których programy kształcenia wymagają współudziału pielęgniarki lub położnej; ” ;
@@ -48,8 +47,11 @@ source: "eli-html"
 
 **Art. 26a.** Pielęgniarka lub położna, które zamierzają zaprzestać wykonywania zawodu przez czas określony, zgłaszają to niezwłocznie właściwej okręgowej radzie pielęgniarek i położnych, z podaniem przewidywanego okresu niewykonywania zawodu. ” ;
 
-- **6)** w art. 35: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) posiada urzędowe poświadczenie znajomości języka polskiego w mowie i piśmie w zakresie niezbędnym do wykonywania zawodu pielęgniarki lub położnej, wydane na podstawie ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2011 r. Nr 43, poz. 224 i Nr 84, poz. 455 oraz z 2015 r. poz. 1132); ” , – pkt 8 otrzymuje brzmienie: „ 8) odbył 6-miesięczny staż adaptacyjny we wskazanym podmiocie leczniczym; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **6)** w art. 35: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** posiada urzędowe poświadczenie znajomości języka polskiego w mowie i piśmie w zakresie niezbędnym do wykonywania zawodu pielęgniarki lub położnej, wydane na podstawie ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2011 r. Nr 43, poz. 224 i Nr 84, poz. 455 oraz z 2015 r. poz. 1132); ” , pkt 8 otrzymuje brzmienie: „
+- **8)** odbył 6-miesięczny staż adaptacyjny we wskazanym podmiocie leczniczym; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Odbycie stażu adaptacyjnego, o którym mowa w ust. 1 pkt 8, nie wymaga posiadania zezwolenia na pracę i zwalnia z obowiązku odbycia przeszkolenia, o którym mowa w art. 26 ust. 1. ” ;
@@ -84,9 +86,9 @@ source: "eli-html"
 
 - **6)** wzór dyplomu potwierdzającego uzyskanie tytułu specjalisty oraz wzór zaświadczeń potwierdzających ukończenie kursu specjalistycznego, kursu kwalifikacyjnego i kursu dokształcającego ” .
 
-**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) w art. 67 w ust. 1 pkt 4 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045, 1240, 1418, 1607 i 1629.) w art. 67 w ust. 1 pkt 4 otrzymuje brzmienie: „
 
-- **4)** gabinetu profilaktyki zdrowotnej i pomocy przedlekarskiej spełniającego szczegółowe wymagania, o których mowa w przepisach wydanych na podstawie art. 22 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, 788 i 905), oraz wyposażonego w sprzęt, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.) w części dotyczącej warunków realizacji świadczeń gwarantowanych pielęgniarki lub higienistki szkolnej; ” .
+- **4)** gabinetu profilaktyki zdrowotnej i pomocy przedlekarskiej spełniającego szczegółowe wymagania, o których mowa w przepisach wydanych na podstawie art. 22 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, 788 i 905), oraz wyposażonego w sprzęt, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365 i 1569.) w części dotyczącej warunków realizacji świadczeń gwarantowanych pielęgniarki lub higienistki szkolnej; ” .
 
 **Art. 3.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, 788 i 905) wprowadza się następujące zmiany:
 
@@ -114,7 +116,7 @@ source: "eli-html"
 
 3a. Dane, o których mowa w ust. 3 pkt 1, nie mogą obejmować danych osobowych pielęgniarek i położnych. ” .
 
-**Art. 4.** W ustawie z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 174, poz. 1038, z późn. zm.) w art. 91 w ust. 1:
+**Art. 4.** W ustawie z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 174, poz. 1038, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 779, 1247 i 1650 oraz z 2014 r. poz. 1004.) w art. 91 w ust. 1:
 
 - **1)** po pkt 2 dodaje się pkt 2a w brzmieniu: „
 - **2a)** prowadzenie postępowań związanych z zawieszaniem i pozbawianiem prawa wykonywania zawodu oraz ograniczaniem w wykonywaniu zawodu; ” ;
@@ -129,5 +131,5 @@ source: "eli-html"
 
 **Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 35 ust. 6 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 35 ust. 6 ustawy, o której mowa w art. 1, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 1 września 2016 r.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 1 września 2016 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawę z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1491 i 1877 oraz z 2015 r. poz. 978. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650, z 2014 r. poz. 7, 290, 538, 598, 642, 811, 1146, 1198 i 1877 oraz z 2015 r. poz. 357, 1045, 1240, 1418, 1607 i 1629. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365 i 1569. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 779, 1247 i 1650 oraz z 2014 r. poz. 1004.
 

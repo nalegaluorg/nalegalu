@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 6 listopada 2008 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
+# Ustawa z dnia 6 listopada 2008 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 12 marca 2004 r. o pomocy społecznej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-06 |
 | Data wydania | 2008-12-12 |
-| Wejście w życie | 2009-06-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201431) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1431/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, z późn. zm.) wprowadza się następujące zmiany:
+Przepisy ogólne
+Pochodzenie dziecka
+Macierzyństwo
+Ojcostwo
+
+**Art. 1.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 45, poz. 234, z 1986 r. Nr 36, poz. 180, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417, z 1998 r. Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 122, poz. 1322, z 2001 r. Nr 128, poz. 1403, z 2003 r. Nr 83, poz. 772 i Nr 130, poz. 1188, z 2004 r. Nr 162, poz. 1691 oraz z 2007 r. Nr 121, poz. 831, Nr 134, poz. 947 i Nr 192, poz. 1378.) wprowadza się następujące zmiany:
 
 - **1)** w art. 8 § 3 otrzymuje brzmienie: „
 
@@ -45,7 +49,7 @@ source: "eli-html"
 - **4)** tytułowi II nadaje się tytuł: „Pokrewieństwo i powinowactwo”;
 - **5)** w tytule II dotychczasową treść działu I oznacza się jako dział Ia i po wyrazach „Tytuł II. Pokrewieństwo i powinowactwo” dodaje się dział I w brzmieniu: „
 
-### Dział I Przepisy ogólne
+### Dział I
 
 **Art. 617.**
 
@@ -61,9 +65,9 @@ source: "eli-html"
 
 - **6)** w tytule II w dziale Ia rozdział I otrzymuje brzmienie: „
 
-#### Rozdział I Pochodzenie dziecka
+#### Rozdział I
 
-##### Oddział 1 Macierzyństwo
+##### Oddział 1
 
 **Art. 619.** Matką dziecka jest kobieta, która je urodziła.
 
@@ -107,7 +111,7 @@ source: "eli-html"
 
 **Art. 6116.** Powództwo o ustalenie lub zaprzeczenie macierzyństwa może wytoczyć także prokurator, jeżeli wymaga tego dobro dziecka lub ochrona interesu społecznego; wytoczenie powództwa o zaprzeczenie macierzyństwa nie jest dopuszczalne po śmierci dziecka.
 
-##### Oddział 2 Ojcostwo
+##### Oddział 2
 
 **Art. 62.**
 
@@ -453,7 +457,7 @@ source: "eli-html"
 
 § 1. Organ państwowy, który ustanowił kuratora, przyzna mu na jego żądanie stosowne wynagrodzenie za sprawowanie kurateli. Wynagrodzenie pokrywa się z dochodów lub z majątku osoby, dla której kurator jest ustanowiony, a jeżeli osoba ta nie ma odpowiednich dochodów lub majątku, wynagrodzenie pokrywa ten, kto żądał ustanowienia kuratora. ” .
 
-**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) art. 6801 otrzymuje brzmienie: „
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287 oraz z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012 i Nr 220, poz. 1425.) art. 6801 otrzymuje brzmienie: „
 
 **Art. 6801.**
 
@@ -461,7 +465,7 @@ source: "eli-html"
 
 § 2. Ustanie wspólności majątkowej w czasie trwania małżeństwa nie powoduje ustania wspólności najmu lokalu mającego służyć zaspokojeniu potrzeb mieszkaniowych rodziny. Sąd, stosując odpowiednio przepisy o ustanowieniu w wyroku rozdzielności majątkowej, może z ważnych powodów na żądanie jednego z małżonków znieść wspólność najmu lokalu. ” .
 
-**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845 oraz z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796 i Nr 171, poz. 1056.) wprowadza się następujące zmiany:
 
 - **1)** w art. 17: pkt 1 otrzymuje brzmienie: „
     - **a)**
@@ -615,7 +619,7 @@ source: "eli-html"
 
 **Art. 59812a.** Postępowanie określone w art. 5986–59812 może być podjęte na nowo na podstawie tego samego postanowienia, o którym mowa w art. 5985, jeżeli zobowiązany w okresie trzech miesięcy od wydania tego postanowienia postąpił sprzecznie z treścią postanowienia dotyczącego władzy rodzicielskiej, miejsca zamieszkania, opieki lub kontaktów z dzieckiem, a okoliczności uzasadniające jego wydanie nie uległy zmianie. ” .
 
-**Art. 4.** W ustawie z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. Nr 161, poz. 1688, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. Nr 161, poz. 1688, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 21, poz. 125 i Nr 181, poz. 1287 oraz z 2008 r. Nr 182, poz. 1121 i Nr 195, poz. 1198.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7 po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
@@ -641,7 +645,7 @@ source: "eli-html"
 
 6. Przyjęcie do protokołu oświadczeń o nazwisku dziecka złożonych na podstawie art. 88 § 3 Kodeksu rodzinnego i opiekuńczego jest podstawą wpisania wzmianki dodatkowej do aktu małżeństwa rodziców dziecka. ” ;
 
-**Art. 5.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.) w art. 21 w ust. 1 po pkt 79 dodaje się pkt 79a w brzmieniu: „
+**Art. 5.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781, z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298, Nr 164, poz. 1365 i 1366, Nr 169, poz. 1418 i 1420, Nr 177, poz. 1468, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538, z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353 i 1354, Nr 217, poz. 1588, Nr 226, poz. 1657 i Nr 249, poz. 1824, z 2007 r. Nr 35, poz. 219, Nr 99, poz. 658, Nr 115, poz. 791 i 793, Nr 176, poz. 1243, Nr 181, poz. 1288, Nr 191, poz. 1361 i 1367, Nr 192, poz. 1378 i Nr 211, poz. 1549 oraz z 2008 r. Nr 97, poz. 623, Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316.) w art. 21 w ust. 1 po pkt 79 dodaje się pkt 79a w brzmieniu: „
 
 - **79a)** wynagrodzenie za sprawowanie opieki przyznane przez sąd na podstawie art. 162 Kodeksu rodzinnego i opiekuńczego, ” .
 
@@ -669,7 +673,7 @@ source: "eli-html"
 
 2. Ilekroć w dotychczasowych przepisach jest mowa o nadaniu dziecku nazwiska męża matki, należy przez to rozumieć nadanie dziecku nazwiska na podstawie art. 90 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy.
 
-**Art. 8.** Nie może być ustanowiona opiekunem osoba, która została pozbawiona praw rodzicielskich lub praw opiekuńczych na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.).
+**Art. 8.** Nie może być ustanowiona opiekunem osoba, która została pozbawiona praw rodzicielskich lub praw opiekuńczych na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378 oraz z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344.).
 
 **Art. 9.**
 
@@ -681,5 +685,5 @@ source: "eli-html"
 
 4. W stosunku do dziecka, które urodziło się nie dawniej niż osiemnaście lat przed dniem wejścia w życie niniejszej ustawy i zmarło przed jej dniem wejścia w życie nie uzyskawszy pełnoletności, uznanie ojcostwa może nastąpić w ciągu 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 12 marca 2004 r. o pomocy społecznej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 45, poz. 234, z 1986 r. Nr 36, poz. 180, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417, z 1998 r. Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 122, poz. 1322, z 2001 r. Nr 128, poz. 1403, z 2003 r. Nr 83, poz. 772 i Nr 130, poz. 1188, z 2004 r. Nr 162, poz. 1691 oraz z 2007 r. Nr 121, poz. 831, Nr 134, poz. 947 i Nr 192, poz. 1378. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287 oraz z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012 i Nr 220, poz. 1425. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845 oraz z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796 i Nr 171, poz. 1056. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 21, poz. 125 i Nr 181, poz. 1287 oraz z 2008 r. Nr 182, poz. 1121 i Nr 195, poz. 1198. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781, z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298, Nr 164, poz. 1365 i 1366, Nr 169, poz. 1418 i 1420, Nr 177, poz. 1468, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538, z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353 i 1354, Nr 217, poz. 1588, Nr 226, poz. 1657 i Nr 249, poz. 1824, z 2007 r. Nr 35, poz. 219, Nr 99, poz. 658, Nr 115, poz. 791 i 793, Nr 176, poz. 1243, Nr 181, poz. 1288, Nr 191, poz. 1361 i 1367, Nr 192, poz. 1378 i Nr 211, poz. 1549 oraz z 2008 r. Nr 97, poz. 623, Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378 oraz z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344.
 

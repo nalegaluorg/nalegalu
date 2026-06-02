@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-20 |
-| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001588) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1588/text.pdf) |
 
@@ -30,14 +29,14 @@ source: "eli-html"
 
 - **1)** przez które przebiegają urządzenia, o których mowa w art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2018 r. poz. 1025 i 1104), wchodzące w skład przedsiębiorstwa przedsiębiorcy prowadzącego działalność telekomunikacyjną, działalność w zakresie przesyłania lub dystrybucji płynów, pary, gazów lub energii elektrycznej lub zajmującego się transportem wydobytego gazu ziemnego lub ropy naftowej,
 - **2)** zajętych na pasy technologiczne stanowiące grunt w otoczeniu urządzeń, o których mowa w pkt 1, konieczny dla zapewnienia właściwej eksploatacji tych urządzeń,
-- **3)** zajętych na strefy bezpieczeństwa oraz strefy kontrolowane urządzeń, o których mowa w pkt 1, służących do przesyłania lub dystrybucji ropy naftowej, paliw ciekłych lub paliw gazowych, lub transportu wydobytego gazu ziemnego lub ropy naftowej, które zostały określone w odrębnych przepisach chyba że grunty te są jednocześnie zajęte na prowadzenie działalności gospodarczej innej niż działalność rolnicza oraz innej niż działalność, o której mowa w pkt 1.
+- **3)** zajętych na strefy bezpieczeństwa oraz strefy kontrolowane urządzeń, o których mowa w pkt 1, służących do przesyłania lub dystrybucji ropy naftowej, paliw ciekłych lub paliw gazowych, lub transportu wydobytego gazu ziemnego lub ropy naftowej, które zostały określone w odrębnych przepisach – chyba że grunty te są jednocześnie zajęte na prowadzenie działalności gospodarczej innej niż działalność rolnicza oraz innej niż działalność, o której mowa w pkt 1.
 
 4. Przepisu ust. 3 nie stosuje się do gruntów sklasyfikowanych w ewidencji gruntów i budynków jako użytki rolne będących w posiadaniu samoistnym, użytkowaniu wieczystym lub będących własnością przedsiębiorcy, o którym mowa w ust. 3 pkt 1. ” .
 
 **Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2018 r. poz. 1445) w art. 1a:
 
 - **1)** w ust. 2a w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
-- **4)** gruntów: przez które przebiegają urządzenia, o których mowa w art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2018 r. poz. 1025 i 1104), wchodzące w skład przedsiębiorstwa przedsiębiorcy prowadzącego działalność telekomunikacyjną, działalność w zakresie przesyłania lub dystrybucji płynów, pary, gazów lub energii elektrycznej lub zajmującego się transportem wydobytego gazu ziemnego lub ropy naftowej, zajętych na pasy technologiczne stanowiące grunt w otoczeniu urządzeń, o których mowa w lit. a, konieczny dla zapewnienia właściwej eksploatacji tych urządzeń, zajętych na strefy bezpieczeństwa oraz strefy kontrolowane urządzeń, o których mowa w lit. a, służących do przesyłania lub dystrybucji ropy naftowej, paliw ciekłych lub paliw gazowych, lub transportu wydobytego gazu ziemnego lub ropy naftowej, które zostały określone w odrębnych przepisach chyba że grunty te są jednocześnie związane z prowadzeniem działalności gospodarczej innej niż działalność, o której mowa w lit. a. ” ;
+- **4)** gruntów: przez które przebiegają urządzenia, o których mowa w art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2018 r. poz. 1025 i 1104), wchodzące w skład przedsiębiorstwa przedsiębiorcy prowadzącego działalność telekomunikacyjną, działalność w zakresie przesyłania lub dystrybucji płynów, pary, gazów lub energii elektrycznej lub zajmującego się transportem wydobytego gazu ziemnego lub ropy naftowej, zajętych na pasy technologiczne stanowiące grunt w otoczeniu urządzeń, o których mowa w lit. a, konieczny dla zapewnienia właściwej eksploatacji tych urządzeń, zajętych na strefy bezpieczeństwa oraz strefy kontrolowane urządzeń, o których mowa w lit. a, służących do przesyłania lub dystrybucji ropy naftowej, paliw ciekłych lub paliw gazowych, lub transportu wydobytego gazu ziemnego lub ropy naftowej, które zostały określone w odrębnych przepisach – chyba że grunty te są jednocześnie związane z prowadzeniem działalności gospodarczej innej niż działalność, o której mowa w lit. a. ” ;
     - **a)**
     - **b)**
     - **c)**
@@ -50,7 +49,7 @@ source: "eli-html"
 
 - **1)** przez które przebiegają urządzenia, o których mowa w art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2018 r. poz. 1025 i 1104), wchodzące w skład przedsiębiorstwa przedsiębiorcy prowadzącego działalność telekomunikacyjną, działalność w zakresie przesyłania lub dystrybucji płynów, pary, gazów lub energii elektrycznej lub zajmującego się transportem wydobytego gazu ziemnego lub ropy naftowej,
 - **2)** zajętych na pasy technologiczne stanowiące grunt w otoczeniu urządzeń, o których mowa w pkt 1, konieczny dla zapewnienia właściwej eksploatacji tych urządzeń,
-- **3)** zajętych na strefy bezpieczeństwa oraz strefy kontrolowane urządzeń, o których mowa w pkt 1, służących do przesyłania lub dystrybucji ropy naftowej, paliw ciekłych lub paliw gazowych, lub transportu wydobytego gazu ziemnego lub ropy naftowej, które zostały określone w odrębnych przepisach chyba że lasy te są jednocześnie zajęte na prowadzenie działalności gospodarczej innej niż działalność leśna oraz innej niż działalność, o której mowa w pkt 1.
+- **3)** zajętych na strefy bezpieczeństwa oraz strefy kontrolowane urządzeń, o których mowa w pkt 1, służących do przesyłania lub dystrybucji ropy naftowej, paliw ciekłych lub paliw gazowych, lub transportu wydobytego gazu ziemnego lub ropy naftowej, które zostały określone w odrębnych przepisach – chyba że lasy te są jednocześnie zajęte na prowadzenie działalności gospodarczej innej niż działalność leśna oraz innej niż działalność, o której mowa w pkt 1.
 
 5. Przepisu ust. 4 nie stosuje się do lasów będących w posiadaniu samoistnym, użytkowaniu wieczystym lub będących własnością przedsiębiorcy, o którym mowa w ust. 4 pkt 1. ” .
 

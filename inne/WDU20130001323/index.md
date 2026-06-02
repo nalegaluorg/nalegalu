@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-27 |
 | Data wydania | 2013-11-15 |
-| Wejście w życie | 2013-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1323/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 770, z 2000 r. Nr 114, poz. 1193, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 273, poz. 2703, z 2006 r. Nr 73, poz. 501, Nr 208, poz. 1540 i Nr 220, poz. 1600 oraz z 2011 r. Nr 232, poz. 1378.) wprowadza się następujące zmiany:
 
 - **1)** w art. 1: po ust. 2 dodaje się ust. 2a-2d w brzmieniu: „
     - **a)**
@@ -55,7 +54,7 @@ source: "eli-html"
 - **1)** tryb przyjmowania ogłoszeń i obwieszczeń do zamieszczenia w Monitorze Sądowym i Gospodarczym,
 - **2)** sposób ustalania ceny numerów Monitora Sądowego i Gospodarczego rozpowszechnianych w sposób, o którym mowa w ust. 2d pkt 2,
 - **3)** wysokość opłat za zamieszczenie w Monitorze Sądowym i Gospodarczym ogłoszenia lub obwieszczenia oraz sposób ich pobierania,
-- **4)** wymagania techniczne wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego mając na względzie pokrycie rzeczowych i osobowych kosztów zamieszczenia ogłoszeń i obwieszczeń oraz wydawania Monitora Sądowego i Gospodarczego oraz potrzebę szybkiej publikacji i zapewnienie powszechnego dostępu do informacji publikowanych w Monitorze Sądowym i Gospodarczym. ” ;
+- **4)** wymagania techniczne wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego – mając na względzie pokrycie rzeczowych i osobowych kosztów zamieszczenia ogłoszeń i obwieszczeń oraz wydawania Monitora Sądowego i Gospodarczego oraz potrzebę szybkiej publikacji i zapewnienie powszechnego dostępu do informacji publikowanych w Monitorze Sądowym i Gospodarczym. ” ;
 - **2)** w art. 2 ust. 1 otrzymuje brzmienie: „
 
 1. Obwieszczenia lub ogłoszenia dotyczące przedsiębiorców podlegających wpisowi do Krajowego Rejestru Sądowego powinny zawierać, poza treścią obwieszczenia lub ogłoszenia, datę wpisu do Krajowego Rejestru Sądowego i numer KRS. ” ;
@@ -68,5 +67,5 @@ source: "eli-html"
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1 ust. 7 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 1 ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 770, z 2000 r. Nr 114, poz. 1193, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 273, poz. 2703, z 2006 r. Nr 73, poz. 501, Nr 208, poz. 1540 i Nr 220, poz. 1600 oraz z 2011 r. Nr 232, poz. 1378.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 19 września 2022 r. zmieniające rozporządzenie w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych
+# Rozporządzenie Ministra Zdrowiaz dnia 19 września 2022 r. zmieniające rozporządzenie w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-19 |
 | Data wydania | 2022-09-22 |
-| Wejście w życie | 2022-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001987) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1987/text.pdf) |
 
 Treść rozporządzenia
 Załącznik – Wykaz realizatorów programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych
 Treść rozporządzenia
-Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Zdrowia z dnia 11 października 2018 r. w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych (Dz. U. poz. 1985, z 2019 r. poz. 1236 oraz z 2020 r. poz. 2093) wprowadza się następujące zmiany:
 1)
@@ -37,32 +36,26 @@ w § 4 wyrazy „31 grudnia 2022 r.” zastępuje się wyrazami „31 grudnia 20
 2)
 w § 7 w ust. 1:
 a)
-w pkt 1 lit. b otrzymuje brzmienie:
-„
+w pkt 1 lit. b otrzymuje brzmienie: „
 b)
 w lokalizacji – pracownia hemodynamiki lub pracownia radiologii zabiegowej, w której wykonano co najmniej 150 procedur leczenia endowaskularnego naczyń domózgowych lub wewnątrzczaszkowych:
 – w okresie ostatnich 2 lat kalendarzowych poprzedzających rok wejścia w życie rozporządzenia w przypadku realizatorów programu pilotażowego określonych w załączniku do rozporządzenia w lp. 2–4, 6–8, 10, 11, 13, 16–18, 20, 22, 23, 26 i 27,
 – w okresie ostatnich 2 lat kalendarzowych poprzedzających rok przystąpienia do programu pilotażowego w przypadku realizatorów programu pilotażowego określonych w załączniku do rozporządzenia w lp. 1, 5, 9, 12, 14, 15, 19, 21, 24 i 25,
 ” ,
 b)
-w pkt 5 lit. e otrzymuje brzmienie:
-„
+w pkt 5 lit. e otrzymuje brzmienie: „
 e)
-zapewnienie realizacji świadczeń zdrowotnych całodobowo przez wszystkie dni tygodnia, przy czym w przypadku świadczeniodawców realizujących świadczenia w ramach programu pilotażowego w tym samym województwie dopuszcza się zawieranie między nimi porozumień o pełnieniu dyżurów pod warunkiem, że odległość między nimi nie przekracza 25 km,
-” ;
+zapewnienie realizacji świadczeń zdrowotnych całodobowo przez wszystkie dni tygodnia, przy czym w przypadku świadczeniodawców realizujących świadczenia w ramach programu pilotażowego w tym samym województwie dopuszcza się zawieranie między nimi porozumień o pełnieniu dyżurów pod warunkiem, że odległość między nimi nie przekracza 25 km, ” ;
 3)
-w § 11 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 i 9 w brzmieniu:
-„
+w § 11 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 i 9 w brzmieniu: „
 8)
 od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2023 r.;
 9)
-od dnia 1 lipca 2023 r. do dnia 31 grudnia 2023 r.
-” ;
+od dnia 1 lipca 2023 r. do dnia 31 grudnia 2023 r. ” ;
 4)
 załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855.
 Załącznik – Wykaz realizatorów programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych
 1)
 Dolnośląski Szpital Specjalistyczny im. T. Marciniaka – Centrum Medycyny Ratunkowej;

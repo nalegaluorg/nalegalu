@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-15 |
 | Data wydania | 2011-09-06 |
-| Wejście w życie | 2012-03-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111861100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1100/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.) w dziale II:
+**Art. 1.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173 i Nr 106, poz. 622.) w dziale II:
 
 - **1)** tytuł rozdziału 2 otrzymuje brzmienie: „ Metryki, protokoły i adnotacje ” ;
 - **2)** w rozdziale 2 po art. 66 dodaje się art. 66a w brzmieniu: „
@@ -43,7 +42,7 @@ source: "eli-html"
 
 § 5. Minister właściwy do spraw administracji publicznej określa, w drodze rozporządzenia, rodzaje spraw, w których obowiązek prowadzenia metryki sprawy jest wyłączony ze względu na nieproporcjonalność nakładu środków koniecznych do prowadzenia metryki w stosunku do prostego i powtarzalnego charakteru tych spraw. ” .
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) w dziale IV:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306 oraz z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781 i Nr 171, poz. 1016.) w dziale IV:
 
 - **1)** tytuł rozdziału 9 otrzymuje brzmienie: „ Metryki, protokoły i adnotacje ” ;
 - **2)** w rozdziale 9 po art. 171 dodaje się art. 171a w brzmieniu: „
@@ -80,5 +79,5 @@ source: "eli-html"
 
 2. Metryka spraw, o których mowa w ust. 1, wskazuje osoby, które uczestniczyły w podejmowaniu czynności w postępowaniu i podejmowane przez te osoby czynności od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173 i Nr 106, poz. 622. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306 oraz z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781 i Nr 171, poz. 1016.
 

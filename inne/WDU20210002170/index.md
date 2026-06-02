@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-18 |
 | Data wydania | 2021-11-29 |
-| Wejście w życie | 2021-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2170/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Akta do zgłoszeń wierzytelności Rozdział 3 – Zbiór dokumentów Rozdział 4 – Repertoria dla akt do zgłoszeń wierzytelności Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
 Treść rozporządzenia
 Na podstawie art. 228a ust. 7 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 i 2320 oraz z 2021 r. poz. 1080, 1177 i 1598) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa sposób i tryb prowadzenia przez syndyka akt, o których mowa w art. 228a ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, zwanej dalej „ustawą”, oraz zbioru dokumentów, o którym mowa w art. 228a ust. 2 ustawy, w tym stosowane urządzenia ewidencyjne, a także udostępniania tych akt oraz zbioru dokumentów.
 § 2.
@@ -41,6 +41,7 @@ repertorium „GUp„sk”-Zw” dla spraw upadłościowych prowadzonych po ogł
 repertorium „GUp-Zw” dla spraw upadłościowych prowadzonych po ogłoszeniu upadłości dłużnika na podstawie art. 51 ust. 1 ustawy.
 § 3.
 Syndyk prowadzi akta do zgłoszeń wierzytelności oraz zbiór dokumentów odrębnie dla każdego upadłego.
+Akta do zgłoszeń wierzytelności
 § 4.
 1.
 Akta do zgłoszeń wierzytelności są zakładane w systemie teleinformatycznym z chwilą odnotowania w repertorium sądowym „GU” postanowienia o ogłoszeniu upadłości.
@@ -70,6 +71,7 @@ Akta do zgłoszeń wierzytelności udostępnia się uczestnikom postępowania za
 Syndyk udostępnia akta do zgłoszeń wierzytelności w biurze za pośrednictwem systemu teleinformatycznego osobom, o których mowa w ust. 1, po potwierdzeniu przez nie swojej tożsamości, a innym osobom również po dostatecznym usprawiedliwieniu potrzeby zapoznania się z tymi aktami, chyba że przepisy ustawy stanowią inaczej.
 3.
 Udostępnienie akt do zgłoszeń wierzytelności prowadzonych w systemie teleinformatycznym służbie nadzoru Ministra Sprawiedliwości następuje przez zgłoszenie przez tę służbę żądania wglądu do tych akt w systemie teleinformatycznym.
+Zbiór dokumentów
 § 7.
 1.
 Zakłada się zbiór dokumentów dla zgłoszeń wierzytelności dokonanych z pominięciem systemu teleinformatycznego.
@@ -155,6 +157,7 @@ datę sporządzenia odpisu;
 numer licencji syndyka oraz
 4)
 czytelne imię i nazwisko osoby podpisującej odpis.
+Repertoria dla akt do zgłoszeń wierzytelności
 § 13.
 W repertorium „GUp-s-Zw” odnotowuje się:
 1)
@@ -351,16 +354,27 @@ umorzeniu postępowania;
 stwierdzeniu zakończenia postępowania;
 3)
 uchyleniu postępowania upadłościowego.
+Przepis końcowy
 § 19.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 18 marca 2020 r. w sprawie sposobu i trybu prowadzenia oraz udostępniania uczestnikom postępowania upadłościowego oraz służbie nadzoru Ministra Sprawiedliwości akt do zgłoszeń wierzytelności (Dz. U. poz. 504), które traci moc z dniem 1 grudnia 2021 r. na podstawie art. 12 ustawy z dnia 28 maja 2021 r. o zmianie ustawy o Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw (Dz. U. poz. 1080). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 18 marca 2020 r. w sprawie sposobu i trybu prowadzenia oraz udostępniania uczestnikom postępowania upadłościowego oraz służbie nadzoru Ministra Sprawiedliwości akt do zgłoszeń wierzytelności (Dz. U. poz. 504), które traci moc z dniem 1 grudnia 2021 r. na podstawie art. 12 ustawy z dnia 28 maja 2021 r. o zmianie ustawy o Krajowym Rejestrze Zadłużonych oraz niektórych innych ustaw (Dz. U. poz. 1080).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Akta do zgłoszeń wierzytelności
+#### Rozdział 2 – Akta do zgłoszeń wierzytelności
 
-#### Rozdział 3 Zbiór dokumentów
+#### Rozdział 3 – Zbiór dokumentów
 
-#### Rozdział 4 Repertoria dla akt do zgłoszeń wierzytelności
+#### Rozdział 4 – Repertoria dla akt do zgłoszeń wierzytelności
 
-#### Rozdział 5 Przepis końcowy
+#### Rozdział 5 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-28 |
 | Data wydania | 2020-12-31 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002460) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2460/text.pdf) |
 
@@ -53,5 +52,5 @@ Prezes Urzędu Komunikacji Elektronicznej – w zakresie świadczenia usług prz
 9)
 minister właściwy do spraw gospodarki złożami kopalin w porozumieniu z Głównym Geologiem Kraju – w zakresie wydobycia ropy naftowej lub gazu i ich naturalnych pochodnych oraz poszukiwania lub wydobycia węgla brunatnego, węgla kamiennego lub innych paliw stałych.
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 1 sierpnia 2006 r. w sprawie organów właściwych do występowania do Komisji Europejskiej z wnioskiem o stwierdzenie prowadzenia działalności na rynku konkurencyjnym, do którego dostęp nie jest ograniczony (Dz. U. z 2018 r. poz. 958), które na podstawie art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 1 sierpnia 2006 r. w sprawie organów właściwych do występowania do Komisji Europejskiej z wnioskiem o stwierdzenie prowadzenia działalności na rynku konkurencyjnym, do którego dostęp nie jest ograniczony (Dz. U. z 2018 r. poz. 958), które na podstawie art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

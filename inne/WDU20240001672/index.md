@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-11 |
 | Data wydania | 2024-11-15 |
-| Wejście w życie | 2024-11-16 |
 | Ostatnia zmiana | 2024-11-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1672/text.pdf) |
 
@@ -45,7 +44,7 @@ source: "eli-html"
 
 1. Jeżeli środki przeznaczone na realizację LSR są dostępne:
 
-- **1)** obszar gminy, który: nie jest objęty żadną LSR wybraną po dniu 1 stycznia 2021 r. albo jest objęty LSR wybraną po dniu 1 stycznia 2021 r., która nie jest już realizowana na podstawie umowy ramowej może zostać przyłączony do obszaru objętego jedną z wybranych LSR, który graniczy z obszarem tej gminy, chyba że gmina ta objęta jest ocenioną LSR, która podlega wyborowi zgodnie z art. 14a;
+- **1)** obszar gminy, który: nie jest objęty żadną LSR wybraną po dniu 1 stycznia 2021 r. albo jest objęty LSR wybraną po dniu 1 stycznia 2021 r., która nie jest już realizowana na podstawie umowy ramowej – może zostać przyłączony do obszaru objętego jedną z wybranych LSR, który graniczy z obszarem tej gminy, chyba że gmina ta objęta jest ocenioną LSR, która podlega wyborowi zgodnie z art. 14a;
     - **a)**
     - **b)**
 
@@ -54,7 +53,7 @@ source: "eli-html"
 2. Przyłączenie, o którym mowa w ust. 1 pkt 1, następuje przez wprowadzenie zmiany w umowie ramowej. Wyboru LSR w ramach kolejnego konkursu dokonuje się przy zastosowaniu kryteriów wyboru LSR mających zastosowanie w poprzednim konkursie na wybór LSR, w terminie 4 miesięcy od dnia upływu terminu składania wniosków o wybór LSR, a:
 
 - **1)** o wyniku oceny LSR komisja informuje LGD w terminie 2 miesięcy od dnia upływu terminu składania wniosków o wybór LSR;
-- **2)** minister właściwy do spraw rozwoju wsi opracowuje formularze, o których mowa w art. 7 pkt 1 i art. 14 ust. 2, oraz regulamin, o którym mowa w art. 9 ust. 1: w uzgodnieniu z zarządami województw będącymi IZ, po zasięgnięciu opinii Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz zarządów województw niebędących IZ z wyłączeniem zarządów województw, w których nie zostanie przeprowadzony kolejny konkurs na wybór LSR;
+- **2)** minister właściwy do spraw rozwoju wsi opracowuje formularze, o których mowa w art. 7 pkt 1 i art. 14 ust. 2, oraz regulamin, o którym mowa w art. 9 ust. 1: w uzgodnieniu z zarządami województw będącymi IZ, po zasięgnięciu opinii Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz zarządów województw niebędących IZ – z wyłączeniem zarządów województw, w których nie zostanie przeprowadzony kolejny konkurs na wybór LSR;
     - **a)**
     - **b)**
 

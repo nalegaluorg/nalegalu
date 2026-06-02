@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 lutego 2014 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 7 lutego 2014 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy oraz ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-02-07 |
 | Data wydania | 2014-03-13 |
-| Wejście w życie | 2014-04-01 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000312) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/312/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530 oraz z 2013 r. poz. 35, 1027 i 1608.) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w pkt 33 kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „
 - **34)** pojazdach samochodowych – rozumie się przez to pojazdy samochodowe w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony. ” ;
@@ -79,7 +78,7 @@ source: "eli-html"
 
 5. Warunku prowadzenia ewidencji przebiegu pojazdu nie stosuje się w przypadku pojazdów samochodowych:
 
-- **1)** przeznaczonych wyłącznie do: odprzedaży, sprzedaży, w przypadku pojazdów wytworzonych przez podatnika, oddania w odpłatne używanie na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze jeżeli odprzedaż, sprzedaż lub oddanie w odpłatne używanie tych pojazdów stanowi przedmiot działalności podatnika;
+- **1)** przeznaczonych wyłącznie do: odprzedaży, sprzedaży, w przypadku pojazdów wytworzonych przez podatnika, oddania w odpłatne używanie na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze – jeżeli odprzedaż, sprzedaż lub oddanie w odpłatne używanie tych pojazdów stanowi przedmiot działalności podatnika;
     - **a)**
     - **b)**
     - **c)**
@@ -95,7 +94,7 @@ source: "eli-html"
 - **1)** numer rejestracyjny pojazdu samochodowego;
 - **2)** dzień rozpoczęcia i zakończenia prowadzenia ewidencji;
 - **3)** stan licznika przebiegu pojazdu samochodowego na dzień rozpoczęcia prowadzenia ewidencji, na koniec każdego okresu rozliczeniowego oraz na dzień zakończenia prowadzenia ewidencji;
-- **4)** wpis osoby kierującej pojazdem samochodowym dotyczący każdego wykorzystania tego pojazdu, obejmujący: kolejny numer wpisu, datę i cel wyjazdu, opis trasy (skąd – dokąd), liczbę przejechanych kilometrów, imię i nazwisko osoby kierującej pojazdem potwierdzony przez podatnika na koniec każdego okresu rozliczeniowego w zakresie autentyczności wpisu osoby kierującej pojazdem, jeżeli nie jest ona podatnikiem;
+- **4)** wpis osoby kierującej pojazdem samochodowym dotyczący każdego wykorzystania tego pojazdu, obejmujący: kolejny numer wpisu, datę i cel wyjazdu, opis trasy (skąd – dokąd), liczbę przejechanych kilometrów, imię i nazwisko osoby kierującej pojazdem – potwierdzony przez podatnika na koniec każdego okresu rozliczeniowego w zakresie autentyczności wpisu osoby kierującej pojazdem, jeżeli nie jest ona podatnikiem;
     - **a)**
     - **b)**
     - **c)**
@@ -122,7 +121,7 @@ source: "eli-html"
     - **b)**
 
 - **2)** pojazdy samochodowe, inne niż samochody osobowe, które posiadają kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu;
-- **3)** pojazdy specjalne, które spełniają również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: agregat elektryczny/spawalniczy, do prac wiertniczych, koparka, koparko-spycharka, ładowarka, podnośnik do prac konserwacyjno-montażowych, żuraw samochodowy jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym.
+- **3)** pojazdy specjalne, które spełniają również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: agregat elektryczny/spawalniczy, do prac wiertniczych, koparka, koparko-spycharka, ładowarka, podnośnik do prac konserwacyjno-montażowych, żuraw samochodowy – jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym.
     - **a)**
     - **b)**
     - **c)**
@@ -138,7 +137,7 @@ source: "eli-html"
 11. W przypadku gdy w pojeździe samochodowym, dla którego wydano zaświadczenie, o którym mowa w ust. 10 pkt 1, zostały wprowadzone zmiany, w wyniku których pojazd nie spełnia wymagań, o których mowa w ust. 9 pkt 1 lub 2, uznaje się, że pojazd nie jest wykorzystywany wyłącznie do działalności gospodarczej:
 
 - **1)** od dnia wprowadzenia zmian,
-- **2)** jeżeli nie można określić dnia wprowadzenia zmian: od okresu rozliczeniowego, w którym podatnik po raz pierwszy odliczył podatek naliczony od wydatków związanych z tym pojazdem samochodowym, z zastrzeżeniem lit. b, od okresu rozliczeniowego następującego po okresie rozliczeniowym, dla którego podatnik wykaże, że pojazd samochodowy spełniał wymagania, o których mowa w ust. 9 pkt 1 lub 2 chyba że zachodzi przypadek, o którym mowa w ust. 4 pkt 1.
+- **2)** jeżeli nie można określić dnia wprowadzenia zmian: od okresu rozliczeniowego, w którym podatnik po raz pierwszy odliczył podatek naliczony od wydatków związanych z tym pojazdem samochodowym, z zastrzeżeniem lit. b, od okresu rozliczeniowego następującego po okresie rozliczeniowym, dla którego podatnik wykaże, że pojazd samochodowy spełniał wymagania, o których mowa w ust. 9 pkt 1 lub 2 – chyba że zachodzi przypadek, o którym mowa w ust. 4 pkt 1.
     - **a)**
     - **b)**
 
@@ -177,7 +176,7 @@ source: "eli-html"
 - **7)** w art. 103 uchyla się ust. 6;
 - **8)** uchyla się art. 105.
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5a pkt 19a otrzymuje brzmienie: „
 - **19a)** samochodzie osobowym – oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu nie więcej niż 9 osób łącznie z kierowcą, z wyjątkiem: pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: – klasyfikowanego na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub – z otwartą częścią przeznaczoną do przewozu ładunków, pojazdu samochodowego, który posiada kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu, pojazdu specjalnego, jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym, i jeżeli spełnione są również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: – agregat elektryczny/spawalniczy, – do prac wiertniczych, – koparka, koparko-spycharka, – ładowarka, – podnośnik do prac konserwacyjno-montażowych, – żuraw samochodowy, pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług; ” ;
@@ -205,7 +204,7 @@ source: "eli-html"
 
 3c. Przepis ust. 1 pkt 43 lit. c stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług. ” .
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 362, 596, 769, 1010, 1342, 1448 i 1540, z 2013 r. poz. 21, 613, 888, 1012, 1027, 1036, 1287 i 1387 oraz z 2014 r. poz. 40.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4a pkt 9a otrzymuje brzmienie: „
 - **9a)** samochodzie osobowym – oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu nie więcej niż 9 osób łącznie z kierowcą, z wyjątkiem: pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: – klasyfikowanego na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub – z otwartą częścią przeznaczoną do przewozu ładunków, pojazdu samochodowego, który posiada kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu, pojazdu specjalnego, jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym, i jeżeli spełnione są również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: – agregat elektryczny/spawalniczy, – do prac wiertniczych, – koparka, koparko-spycharka, – ładowarka, – podnośnik do prac konserwacyjno-montażowych, – żuraw samochodowy, pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług; ” ;
@@ -231,7 +230,7 @@ source: "eli-html"
     - **c)**
     - **b)**
 
-7c. Przepis ust. 1 pkt 46 lit. c stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług. ” . W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
+7c. Przepis ust. 1 pkt 46 lit. c stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług. ” . W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448 oraz z 2013 r. poz. 700, 991, 1446 i 1611.) wprowadza się następujące zmiany:
 
 - **1)** w art. 72: w ust. 1 uchyla się pkt 8, uchyla się ust. 1a;
     - **a)**
@@ -239,7 +238,7 @@ source: "eli-html"
 
 - **2)** w art. 74 ust. 2a otrzymuje brzmienie: „
 
-2a. Czasowej rejestracji, o której mowa w ust. 2 pkt 1, można dokonać pomimo braku dołączonych do wniosku o rejestrację dokumentów, o których mowa w art. 72 ust. 1 pkt 6 i 6a. Dokumenty te powinny zostać złożone przed wydaniem dowodu rejestracyjnego. ” . W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm.) po art. 56 dodaje się art. 56a w brzmieniu: „
+2a. Czasowej rejestracji, o której mowa w ust. 2 pkt 1, można dokonać pomimo braku dołączonych do wniosku o rejestrację dokumentów, o których mowa w art. 72 ust. 1 pkt 6 i 6a. Dokumenty te powinny zostać złożone przed wydaniem dowodu rejestracyjnego. ” . W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1036, 1149, 1247 i 1304.) po art. 56 dodaje się art. 56a w brzmieniu: „
 
 **Art. 56a.**
 
@@ -253,7 +252,7 @@ source: "eli-html"
 - **2)** doręczenia zawiadomienia o zamiarze wszczęcia kontroli podatkowej lub postępowania kontrolnego w ramach kontroli skarbowej w zakresie podatku od towarów i usług, a w przypadku gdy nie stosuje się zawiadomienia – przed dniem wszczęcia takiej kontroli lub postępowania, jeżeli nie miał miejsca przypadek wskazany w pkt 1;
 - **3)** wszczęcia postępowania podatkowego w zakresie podatku od towarów i usług, jeżeli nie miał miejsca przypadek wskazany w pkt 1 lub 2. ” .
 
-**Art. 6.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2012 r. poz. 1282, z późn. zm.) w załączniku w części II uchyla się ust. 11.
+**Art. 6.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2012 r. poz. 1282, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448 i 1512 oraz z 2013 r. poz. 21, 455 i 1650.) w załączniku w części II uchyla się ust. 11.
 
 **Art. 7.**
 
@@ -266,7 +265,7 @@ source: "eli-html"
     - **c)**
 
 - **3)** należnego, w przypadku, o którym mowa w art. 33a ustawy zmienianej w art. 1,
-- **4)** wynikającej z otrzymanego dokumentu celnego, deklaracji importowej w przypadku, o którym mowa w art. 33b ustawy zmienianej w art. 1, oraz z decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34 tej ustawy nie więcej jednak niż odpowiednio 5000 zł lub 6000 zł, nie stosuje się przepisu art. 8 ust. 2 pkt 1 ustawy zmienianej w art. 1.
+- **4)** wynikającej z otrzymanego dokumentu celnego, deklaracji importowej w przypadku, o którym mowa w art. 33b ustawy zmienianej w art. 1, oraz z decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34 tej ustawy – nie więcej jednak niż odpowiednio 5000 zł lub 6000 zł, nie stosuje się przepisu art. 8 ust. 2 pkt 1 ustawy zmienianej w art. 1.
 
 2. Na potrzeby ust. 1 przepis art. 8 ust. 6 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
@@ -329,5 +328,5 @@ source: "eli-html"
 
 **Art. 16.** Przepis art. 7 stosuje się do rozliczeń za okresy rozliczeniowe rozpoczynające się od dnia 1 stycznia 2014 r.
 
-**Art. 17.** Ustawa wchodzi w życie z dniem 1 kwietnia 2014 r., z wyjątkiem art. 1 pkt 7 i 8, art. 4 i art. 6, które wchodzą w życie z dniem 1 stycznia 2015 r.
+**Art. 17.** Ustawa wchodzi w życie z dniem 1 kwietnia 2014 r., z wyjątkiem art. 1 pkt 7 i 8, art. 4 i art. 6, które wchodzą w życie z dniem 1 stycznia 2015 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy oraz ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530 oraz z 2013 r. poz. 35, 1027 i 1608. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717 oraz z 2014 r. poz. 223. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 362, 596, 769, 1010, 1342, 1448 i 1540, z 2013 r. poz. 21, 613, 888, 1012, 1027, 1036, 1287 i 1387 oraz z 2014 r. poz. 40. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448 oraz z 2013 r. poz. 700, 991, 1446 i 1611. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1036, 1149, 1247 i 1304. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448 i 1512 oraz z 2013 r. poz. 21, 455 i 1650.
 

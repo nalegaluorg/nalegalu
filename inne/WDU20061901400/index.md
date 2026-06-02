@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-09-22 |
 | Data wydania | 2006-10-19 |
-| Wejście w życie | 2006-10-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061901400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1400/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) w art. 130a wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 17, poz. 141 i Nr 104, poz. 708 i 711.) w art. 130a wprowadza się następujące zmiany:
 
 - **1)** po ust. 5 dodaje się ust. 5a-5e w brzmieniu: „
 
@@ -67,5 +66,5 @@ source: "eli-html"
 
 **Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 130a ust. 11 ustawy – Prawo o ruchu drogowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 130a ust. 11 ustawy – Prawo o ruchu drogowym w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497 oraz z 2006 r. Nr 17, poz. 141 i Nr 104, poz. 708 i 711.
 

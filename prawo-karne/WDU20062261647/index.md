@@ -22,33 +22,34 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-10-27 |
 | Data wydania | 2006-12-11 |
-| Wejście w życie | 2006-12-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062261647) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1647/text.pdf) |
 
+Wydanie oraz przewóz osób ściganych albo skazanych lub wydanie przedmiotów na wniosek państw obcych”;
 2)
 w art. 602 uchyla się § 1;
 3)
 w art. 604:
 a)
 w § 1:
-– pkt 7 otrzymuje brzmienie: „ 7) zachodzi uzasadniona obawa, że w państwie żądającym wydania może dojść do naruszenia wolności i praw osoby wydanej ” ;
-– po pkt 7 dodaje się pkt 8 w brzmieniu: „ 8) dotyczy osoby ściganej za popełnienie bez użycia przemocy przestępstwa z przyczyn politycznych. ” ,
+pkt 7 otrzymuje brzmienie: „
+7)
+zachodzi uzasadniona obawa, że w państwie żądającym wydania może dojść do naruszenia wolności i praw osoby wydanej ” ;
+po pkt 7 dodaje się pkt 8 w brzmieniu: „
+8)
+dotyczy osoby ściganej za popełnienie bez użycia przemocy przestępstwa z przyczyn politycznych. ” ,
 b)
-w § 2 pkt 6 otrzymuje brzmienie:
-„
+w § 2 pkt 6 otrzymuje brzmienie: „
 6)
-przestępstwo, w związku z którym żąda się wydania, jest przestępstwem o charakterze wojskowym lub skarbowym, albo o charakterze politycznym innym niż określone w § 1 pkt 8,
-” ;
+przestępstwo, w związku z którym żąda się wydania, jest przestępstwem o charakterze wojskowym lub skarbowym, albo o charakterze politycznym innym niż określone w § 1 pkt 8, ” ;
 4)
-art. 607p otrzymuje brzmienie:
-„
+art. 607p otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479 oraz z 2006 r. Nr 15, poz. 118 i Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013 i Nr 167, poz. 1192.) wprowadza się następujące zmiany:
 
 - **1)** tytuł rozdziału 65 otrzymuje brzmienie: „
 
-#### Rozdział 65 Wydanie oraz przewóz osób ściganych albo skazanych lub wydanie przedmiotów na wniosek państw obcych”;
+#### Rozdział 65
 
 **Art. 607p.**
 
@@ -125,5 +126,5 @@ art. 607p otrzymuje brzmienie:
 
 - **10)** art. 611k i 611l otrzymują brzmienie: „ Minister Sprawiedliwości przed rozpatrzeniem wniosku Trybunału o zgodę na ściganie, ukaranie lub pozbawienie wolności osoby dostarczonej za przestępstwo popełnione przed dostarczeniem, inne niż to, z powodu którego nastąpiło dostarczenie, może zwrócić się do Trybunału o nadesłanie dodatkowych informacji, a także protokołu zawierającego oświadczenie osoby dostarczonej dotyczące przestępstwa określonego w tym wniosku. Minister Sprawiedliwości może wyrazić zgodę na dostarczenie Trybunałowi osoby wydanej lub przekazanej innemu państwu. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479 oraz z 2006 r. Nr 15, poz. 118 i Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013 i Nr 167, poz. 1192.
 

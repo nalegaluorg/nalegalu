@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-19 |
 | Data wydania | 2012-12-03 |
-| Wejście w życie | 2012-12-18 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001357) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1357/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 36 ust. 9 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 36 ust. 9 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 7 maja 2008 r. w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 89, poz. 546) wprowadza się następujące zmiany:
 1)
-w § 2 ust. 4 otrzymuje brzmienie:
-„
+w § 2 ust. 4 otrzymuje brzmienie: „
 4.
-W przypadku gdy o świadczenie usług doradczych świadczonych posiadaczom lasów ubiega się Państwowe Gospodarstwo Leśne Lasy Państwowe, przepisów ust. 1 pkt 1 i 5 nie stosuje się.
-” ;
+W przypadku gdy o świadczenie usług doradczych świadczonych posiadaczom lasów ubiega się Państwowe Gospodarstwo Leśne Lasy Państwowe, przepisów ust. 1 pkt 1 i 5 nie stosuje się. ” ;
 2)
-§ 4 otrzymuje brzmienie:
-„
+§ 4 otrzymuje brzmienie: „
 § 4.
 1.
 Wniosek o udzielenie akredytacji oprócz informacji określonych w art. 36 ust. 3 ustawy zawiera:
@@ -71,46 +67,35 @@ dokument, z którego wynika udzielenie upoważnienia do występowania w imieniu 
 5)
 statut lub regulamin działalności podmiotu ubiegającego się o udzielenie akredytacji.
 3.
-W przypadku gdy o świadczenie usług doradczych świadczonych posiadaczom lasów ubiega się Państwowe Gospodarstwo Leśne Lasy Państwowe, przepisów ust. 1 pkt 1 i 2 oraz ust. 2 pkt 1, pkt 2 lit. d i pkt 5 nie stosuje się.
-” ;
+W przypadku gdy o świadczenie usług doradczych świadczonych posiadaczom lasów ubiega się Państwowe Gospodarstwo Leśne Lasy Państwowe, przepisów ust. 1 pkt 1 i 2 oraz ust. 2 pkt 1, pkt 2 lit. d i pkt 5 nie stosuje się. ” ;
 3)
-w § 5 w ust. 1 pkt 2 otrzymuje brzmienie:
-„
+w § 5 w ust. 1 pkt 2 otrzymuje brzmienie: „
 2)
-sporządzanie opinii w sprawie udzielenia, odmowy udzielenia lub cofnięcia akredytacji.
-” ;
+sporządzanie opinii w sprawie udzielenia, odmowy udzielenia lub cofnięcia akredytacji. ” ;
 4)
-w § 6 w ust. 2 pkt 1 otrzymuje brzmienie:
-„
+w § 6 w ust. 2 pkt 1 otrzymuje brzmienie: „
 1)
-określenie obszaru świadczenia usług doradczych;
-” ;
+określenie obszaru świadczenia usług doradczych; ” ;
 5)
 w § 7 w ust. 1:
 a)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-określenie obszaru świadczenia usług doradczych;
-” ,
+określenie obszaru świadczenia usług doradczych; ” ,
 b)
-pkt 5 otrzymuje brzmienie:
-„
+pkt 5 otrzymuje brzmienie: „
 5)
-datę udzielenia lub zmiany akredytacji.
-” ;
+datę udzielenia lub zmiany akredytacji. ” ;
 6)
 w § 8 w ust. 1:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-gdy w wyniku kontroli, o której mowa w art. 37 ustawy, w tym obejmującej weryfikację informacji uzyskanych przez agencję płatniczą w wyniku kontroli beneficjentów działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” i przekazanych Centrum Doradztwa Rolniczego z siedzibą w Brwinowie w ramach współpracy, o której mowa w art. 34 ustawy, stwierdzono, że usługi doradcze świadczone przez podmiot, któremu udzielono akredytacji, naruszają interesy prawne lub ekonomiczne rolników lub posiadaczy lasów lub interesy finansowe Unii Europejskiej lub sektora finansów publicznych, chyba że w wyniku tej kontroli stwierdzono, że naruszenie to nie powoduje istotnego wpływu na prawidłowość świadczonych usług doradczych;
-” ,
+gdy w wyniku kontroli, o której mowa w art. 37 ustawy, w tym obejmującej weryfikację informacji uzyskanych przez agencję płatniczą w wyniku kontroli beneficjentów działania „Korzystanie z usług doradczych przez rolników i posiadaczy lasów” i przekazanych Centrum Doradztwa Rolniczego z siedzibą w Brwinowie w ramach współpracy, o której mowa w art. 34 ustawy, stwierdzono, że usługi doradcze świadczone przez podmiot, któremu udzielono akredytacji, naruszają interesy prawne lub ekonomiczne rolników lub posiadaczy lasów lub interesy finansowe Unii Europejskiej lub sektora finansów publicznych, chyba że w wyniku tej kontroli stwierdzono, że naruszenie to nie powoduje istotnego wpływu na prawidłowość świadczonych usług doradczych; ” ,
 b)
 uchyla się pkt 2.
 § 2.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243.
 

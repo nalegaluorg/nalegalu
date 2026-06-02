@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1996-06-28 |
 | Data wydania | 1996-08-14 |
-| Wejście w życie | 1997-09-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961000461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/461/text.pdf) |
+
+Niezdolność do pracy
 
 **Art. 1.** W ustawie z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. Nr 40, poz. 267, z 1984 r. Nr 52, poz. 268 i 270, z 1986 r. Nr 1, poz. 1, z 1989 r. Nr 35, poz. 190 i 192, z 1990 r. Nr 10, poz. 58 i 61, Nr 36, poz. 206, Nr 66, poz. 390 i Nr 87, poz. 506, z 1991 r. Nr 7, poz. 24, Nr 80, poz. 350 i Nr 94, poz. 422, z 1992 r. Nr 21, poz. 84 i Nr 64, poz. 321, z 1994 r. Nr 74, poz. 339 i Nr 108, poz. 516 oraz z 1995 r. Nr 4, poz. 17) wprowadza się następujące zmiany:
 
@@ -32,7 +33,7 @@ source: "eli-html"
 - **21)** rentę szkoleniową, ”
 - **2)** w dziale I rozdział 5 otrzymuje brzmienie: „
 
-#### Rozdział 5 Niezdolność do pracy
+#### Rozdział 5
 
 **Art. 23.**
 

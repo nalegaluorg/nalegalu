@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 14 września 2022 r. zmieniające rozporządzenie w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone
+# Rozporządzenie Ministra Finansówz dnia 14 września 2022 r. zmieniające rozporządzenie w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-14 |
 | Data wydania | 2022-09-22 |
-| Wejście w życie | 2022-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1984/text.pdf) |
 
@@ -33,22 +32,17 @@ W rozporządzeniu Ministra Finansów z dnia 24 grudnia 2019 r. w sprawie sposobu
 1)
 w § 4:
 a)
-pkt 2 otrzymuje brzmienie:
-„
+pkt 2 otrzymuje brzmienie: „
 2)
-podpisem zaufanym albo podpisem osobistym, jeżeli są przesyłane przez portal podatkowy.
-” ,
+podpisem zaufanym albo podpisem osobistym, jeżeli są przesyłane przez portal podatkowy. ” ,
 b)
 uchyla się pkt 3;
 2)
-§ 6 otrzymuje brzmienie:
-„
+§ 6 otrzymuje brzmienie: „
 § 6.
-Podpisem elektronicznym, o którym mowa w § 4 pkt 2, mogą być opatrywane zgłoszenia aktualizacyjne osoby fizycznej będącej podatnikiem lub płatnikiem (NIP-7).
-” ;
+Podpisem elektronicznym, o którym mowa w § 4 pkt 2, mogą być opatrywane zgłoszenia aktualizacyjne osoby fizycznej będącej podatnikiem lub płatnikiem (NIP-7). ” ;
 3)
 uchyla się § 6a.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-20 |
 | Data wydania | 2015-04-24 |
-| Wejście w życie | 2015-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000566) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/566/text.pdf) |
 
@@ -66,7 +65,7 @@ source: "eli-html"
 
 2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Naczelnego Dyrektora Archiwów Państwowych, w drodze rozporządzenia:
 
-- **1)** określi: metody kwalifikowania i metodę klasyfikowania dokumentacji, rodzaje oznaczeń kategorii archiwalnych, elementy jednolitego rzeczowego wykazu akt, wzór budowy jednolitego rzeczowego wykazu akt, wzór budowy kwalifikatora dokumentacji, standardy porządkowania, ewidencjonowania i technicznego zabezpieczania materiałów archiwalnych przed ich przekazaniem do archiwów państwowych, szczegółowy tryb przekazywania materiałów archiwalnych do archiwów państwowych, szczegółowy tryb brakowania dokumentacji niearchiwalnej, właściwość archiwów państwowych w sprawach, o których mowa w lit. g i h, w tym właściwość archiwów państwowych dla naczelnych i centralnych organów władzy i administracji rządowej oraz innych centralnych jednostek organizacyjnych, a także dla rodzajów przejmowanych materiałów archiwalnych mając na uwadze wartość historyczną dokumentacji lub utratę jej znaczenia i potrzebę ochrony dokumentacji przed uszkodzeniem, zniszczeniem lub utratą oraz kierując się zakresem stosowania systemów teleinformatycznych w załatwianiu i rozstrzyganiu spraw;
+- **1)** określi: metody kwalifikowania i metodę klasyfikowania dokumentacji, rodzaje oznaczeń kategorii archiwalnych, elementy jednolitego rzeczowego wykazu akt, wzór budowy jednolitego rzeczowego wykazu akt, wzór budowy kwalifikatora dokumentacji, standardy porządkowania, ewidencjonowania i technicznego zabezpieczania materiałów archiwalnych przed ich przekazaniem do archiwów państwowych, szczegółowy tryb przekazywania materiałów archiwalnych do archiwów państwowych, szczegółowy tryb brakowania dokumentacji niearchiwalnej, właściwość archiwów państwowych w sprawach, o których mowa w lit. g i h, w tym właściwość archiwów państwowych dla naczelnych i centralnych organów władzy i administracji rządowej oraz innych centralnych jednostek organizacyjnych, a także dla rodzajów przejmowanych materiałów archiwalnych – mając na uwadze wartość historyczną dokumentacji lub utratę jej znaczenia i potrzebę ochrony dokumentacji przed uszkodzeniem, zniszczeniem lub utratą oraz kierując się zakresem stosowania systemów teleinformatycznych w załatwianiu i rozstrzyganiu spraw;
     - **a)**
     - **b)**
     - **c)**
@@ -124,8 +123,12 @@ source: "eli-html"
 
 4. Minister Obrony Narodowej może upoważnić Szefa Służby Wywiadu Wojskowego i Szefa Służby Kontrwywiadu Wojskowego lub osoby przez nich wskazane do wyrażania zgody na brakowanie dokumentacji niearchiwalnej powstałej w wyniku działalności jednostek organizacyjnych odpowiednio Służby Wywiadu Wojskowego i Służby Kontrwywiadu Wojskowego. ” ;
 
-- **6)** w art. 21: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) nadzór nad gromadzeniem, ewidencjonowaniem, przechowywaniem, opracowywaniem, udostępnianiem i zabezpieczaniem materiałów archiwalnych oraz brakowaniem dokumentacji niearchiwalnej; ” , – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 i 10 w brzmieniu: „ 9) popularyzacja wiedzy o materiałach archiwalnych i archiwach oraz prowadzenie działalności informacyjnej i wydawniczej; 10) wykonywanie zadań z zakresu informatyzacji podległych mu archiwów państwowych, polegających na projektowaniu, wdrażaniu, eksploatacji, integracji, rozwoju i udostępnianiu im systemów teleinformatycznych obsługujących działalność archiwalną, zabezpieczaniu danych osobowych przetwarzanych w tych systemach, koordynowaniu tych działań oraz zapewnieniu możliwości wymiany danych pomiędzy tymi systemami. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+- **6)** w art. 21: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** nadzór nad gromadzeniem, ewidencjonowaniem, przechowywaniem, opracowywaniem, udostępnianiem i zabezpieczaniem materiałów archiwalnych oraz brakowaniem dokumentacji niearchiwalnej; ” , w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 i 10 w brzmieniu: „
+- **9)** popularyzacja wiedzy o materiałach archiwalnych i archiwach oraz prowadzenie działalności informacyjnej i wydawniczej;
+- **10)** wykonywanie zadań z zakresu informatyzacji podległych mu archiwów państwowych, polegających na projektowaniu, wdrażaniu, eksploatacji, integracji, rozwoju i udostępnianiu im systemów teleinformatycznych obsługujących działalność archiwalną, zabezpieczaniu danych osobowych przetwarzanych w tych systemach, koordynowaniu tych działań oraz zapewnieniu możliwości wymiany danych pomiędzy tymi systemami. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
     - **b)**
 
 1b. Naczelny Dyrektor Archiwów Państwowych może powierzyć podległemu mu archiwum wykonywanie zadań, o których mowa w ust. 1 pkt 10. ” , ust. 2 otrzymuje brzmienie: „
@@ -299,7 +302,7 @@ source: "eli-html"
 
 1. Prawa i obowiązki pracowników Naczelnej Dyrekcji Archiwów Państwowych i archiwów państwowych, do których nie mają zastosowania przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111 i 1199 oraz z 2015 r. poz. 211), określają przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2013 r. poz. 269 oraz z 2014 r. poz. 1199).
 
-2. W Naczelnej Dyrekcji Archiwów Państwowych i archiwach państwowych można zatrudniać pracowników naukowych. Do pracowników naukowych stosuje się przepisy art. 39 ust. 2, art. 41, art. 42, art. 43 ust. 1 pkt 1, 2, 4 i 5 oraz ust. 2, 3, 5 i 6, art. 44 ust. 1 i ust. 5 pkt 1–4 i 6, art. 47 ust. 5, art. 59 i art. 60 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm.), a w zakresie zasad wynagradzania – przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych, z wyjątkiem art. 11 i art. 12 tej ustawy. ” ;
+2. W Naczelnej Dyrekcji Archiwów Państwowych i archiwach państwowych można zatrudniać pracowników naukowych. Do pracowników naukowych stosuje się przepisy art. 39 ust. 2, art. 41, art. 42, art. 43 ust. 1 pkt 1, 2, 4 i 5 oraz ust. 2, 3, 5 i 6, art. 44 ust. 1 i ust. 5 pkt 1–4 i 6, art. 47 ust. 5, art. 59 i art. 60 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092, z 2014 r. poz. 1198 oraz z 2015 r. poz. 249.), a w zakresie zasad wynagradzania – przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych, z wyjątkiem art. 11 i art. 12 tej ustawy. ” ;
 
 - **19)** po art. 43 dodaje się art. 43a w brzmieniu: „
 
@@ -374,7 +377,7 @@ source: "eli-html"
 
 - **1)** uzgadniania jednolitych rzeczowych wykazów akt z Naczelnym Dyrektorem Archiwów Państwowych lub dyrektorem właściwego archiwum państwowego,
 - **2)** przekazywania materiałów archiwalnych do archiwów państwowych,
-- **3)** brakowania dokumentacji innej niż stanowiąca materiały archiwalne, zwanej dalej „dokumentacją niearchiwalną” stosuje się przepisy dotychczasowe.
+- **3)** brakowania dokumentacji innej niż stanowiąca materiały archiwalne, zwanej dalej „dokumentacją niearchiwalną” – stosuje się przepisy dotychczasowe.
 
 **Art. 3.** Do spraw dotyczących przekazania do archiwów państwowych materiałów archiwalnych, o których mowa w art. 44 ust. 1–3 ustawy, o której mowa w art. 1, w których powiadomienie o zamiarze przekazania materiałów archiwalnych zostało złożone przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
@@ -418,7 +421,7 @@ source: "eli-html"
 
 1. Pracownik naukowy zatrudniony w archiwum państwowym przed dniem wejścia w życie niniejszej ustawy może w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy rozwiązać stosunek pracy bez wypowiedzenia za siedmiodniowym uprzedzeniem. Rozwiązanie stosunku pracy w tym trybie powoduje skutki, jakie przepisy prawa wiążą z rozwiązaniem stosunku pracy przez pracodawcę za wypowiedzeniem.
 
-2. Archiwa państwowe dostosują strukturę podległości służbowej pracowników do wymogów przepisu art. 39 ust. 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm.) w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+2. Archiwa państwowe dostosują strukturę podległości służbowej pracowników do wymogów przepisu art. 39 ust. 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092, z 2014 r. poz. 1198 oraz z 2015 r. poz. 249.) w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 14.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 14.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092, z 2014 r. poz. 1198 oraz z 2015 r. poz. 249. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092, z 2014 r. poz. 1198 oraz z 2015 r. poz. 249.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-20 |
 | Data wydania | 2004-05-31 |
-| Wejście w życie | 2004-06-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041211265) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1265/text.pdf) |
 
@@ -101,17 +100,24 @@ source: "eli-html"
 **Art. 16.** Zezwolenie wydaje się na wniosek przedsiębiorcy:
 
 - **1)** będącego osobą fizyczną, jeżeli przedsiębiorca ten lub ustanowiony przez niego pełnomocnik posiada licencję,
-- **2)** innego niż osoba fizyczna, jeżeli licencję posiada co najmniej jedna osoba uprawniona do reprezentowania przedsiębiorcy lub pełnomocnik ustanowiony przez przedsiębiorcę do kierowania działalnością określoną w zezwoleniu zwanego dalej „wnioskodawcą”.
+- **2)** innego niż osoba fizyczna, jeżeli licencję posiada co najmniej jedna osoba uprawniona do reprezentowania przedsiębiorcy lub pełnomocnik ustanowiony przez przedsiębiorcę do kierowania działalnością określoną w zezwoleniu – zwanego dalej „wnioskodawcą”.
 
 **Art. 17.** O zezwolenie może ubiegać się wnioskodawca, jeżeli:
 
 - **1)** nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego,
 - **2)** nie zalega z uiszczeniem podatków, opłat, składek na ubezpieczenia społeczne oraz zdrowotne, z wyjątkiem przypadków, kiedy uzyska on przewidzianą prawem zgodę na zwolnienie, odroczenie, rozłożenie na raty zaległych płatności lub wstrzymanie w całości wykonania decyzji organu podatkowego,
 - **3)** osoby nieposiadające licencji, wchodzące w skład organu zarządzającego przedsiębiorcy oraz ustanowieni przez ten organ prokurenci, a także przedsiębiorca będący osobą fizyczną, nie byli karani za umyślne przestępstwo lub umyślne przestępstwo skarbowe. ” ;
-- **11)** w art. 18: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Wniosek o wydanie zezwolenia, zwany dalej „wnioskiem”, zawiera: ” , – pkt 1 i 2 otrzymują brzmienie: „ 1) oznaczenie wnioskodawcy oraz jego siedziby (miejsca zamieszkania) i adresu, 2) numer wnioskodawcy w rejestrze przedsiębiorców albo w ewidencji działalności gospodarczej, ” , – pkt 6 otrzymuje brzmienie: „ 6) dane osób uprawnionych do reprezentowania przedsiębiorcy oraz pełnomocnika ustanowionego do kierowania działalnością określoną w zezwoleniu, zawierające: imię i nazwisko, datę i miejsce urodzenia, obywatelstwo, numer PESEL, a w przypadku osoby posiadającej obywatelstwo innego państwa członkowskiego Unii Europejskiej – serię i numer paszportu lub innego dokumentu stwierdzającego tożsamość, oraz miejsce zamieszkania i adres tych osób. ” , w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) odpis z rejestru przedsiębiorców lub zaświadczenie o wpisie do ewidencji działalności gospodarczej, ” , – uchyla się pkt 3, – pkt 5 otrzymuje brzmienie: „ 5) dokument potwierdzający posiadanie licencji przez osoby, o których mowa w art. 16, ” , – pkt 7 otrzymuje brzmienie: „ 7) zaświadczenie właściwego organu stwierdzające, że przedsiębiorca spełnia warunki, o których mowa w art. 17 pkt 2, ” ;
+- **11)** w art. 18: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Wniosek o wydanie zezwolenia, zwany dalej „wnioskiem”, zawiera: ” , pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** oznaczenie wnioskodawcy oraz jego siedziby (miejsca zamieszkania) i adresu,
+- **2)** numer wnioskodawcy w rejestrze przedsiębiorców albo w ewidencji działalności gospodarczej, ” , pkt 6 otrzymuje brzmienie: „
+- **6)** dane osób uprawnionych do reprezentowania przedsiębiorcy oraz pełnomocnika ustanowionego do kierowania działalnością określoną w zezwoleniu, zawierające: imię i nazwisko, datę i miejsce urodzenia, obywatelstwo, numer PESEL, a w przypadku osoby posiadającej obywatelstwo innego państwa członkowskiego Unii Europejskiej – serię i numer paszportu lub innego dokumentu stwierdzającego tożsamość, oraz miejsce zamieszkania i adres tych osób. ” , w ust. 3: pkt 2 otrzymuje brzmienie: „
     - **b)**
 
+- **2)** odpis z rejestru przedsiębiorców lub zaświadczenie o wpisie do ewidencji działalności gospodarczej, ” , – uchyla się pkt 3, pkt 5 otrzymuje brzmienie: „
+- **5)** dokument potwierdzający posiadanie licencji przez osoby, o których mowa w art. 16, ” , pkt 7 otrzymuje brzmienie: „
+- **7)** zaświadczenie właściwego organu stwierdzające, że przedsiębiorca spełnia warunki, o których mowa w art. 17 pkt 2, ” ;
 - **12)** w art. 20 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
 - **1)** imię i nazwisko oraz numer licencji przedsiębiorcy lub osób wymienionych w art. 16,
 - **2)** oznaczenie przedsiębiorcy oraz jego siedziby (miejsca zamieszkania) i adresu, ” ;
@@ -163,8 +169,15 @@ source: "eli-html"
 
 4. Przedsiębiorca jest obowiązany przy przetwarzaniu danych osobowych stosować przepisy ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, z wyłączeniem art. 25 ust. 1 i art. 32–35. Przedsiębiorca jest uprawniony do żądania od zleceniodawcy dokumentów, w tym okazania dokumentów stwierdzających tożsamość, koniecznych do oceny, czy zawarcie umowy i jej wykonanie będzie zgodne z wymaganiami określonymi w art. 6 oraz art. 11. ” ;
 
-- **18)** w art. 29: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) posiada obywatelstwo polskie lub obywatelstwo innego państwa członkowskiego Unii Europejskiej, ” , – pkt 5–8 otrzymują brzmienie: „ 5) nie toczy się przeciwko niej postępowanie o umyślne przestępstwo lub umyślne przestępstwo skarbowe, 6) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe, 7) nie została zwolniona dyscyplinarnie z Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Biura Ochrony Rządu, wojska, prokuratury, sądu lub z innego urzędu administracji publicznej w Rzeczypospolitej Polskiej lub w innym państwie członkowskim Unii Europejskiej w ciągu ostatnich 5 lat, 8) posiada pozytywną opinię wynikającą z wywiadu środowiskowego, przeprowadzonego przez komendanta powiatowego (miejskiego) Policji właściwego ze względu na jej miejsce zamieszkania albo – w przypadku obywatela innego państwa członkowskiego Unii Europejskiej – przez organ odpowiedniego szczebla i kompetencji w państwie członkowskim Unii Europejskiej, właściwy ze względu na miejsce zamieszkania, ” , – po pkt 8 dodaje się pkt 9 w brzmieniu: „ 9) posiada zdolność fizyczną i psychiczną do wykonywania czynności, o których mowa w art. 2 ust. 1, stwierdzoną orzeczeniem lekarskim. ” , ust. 3 otrzymuje brzmienie: „
+- **18)** w art. 29: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** posiada obywatelstwo polskie lub obywatelstwo innego państwa członkowskiego Unii Europejskiej, ” , pkt 5–8 otrzymują brzmienie: „
+- **5)** nie toczy się przeciwko niej postępowanie o umyślne przestępstwo lub umyślne przestępstwo skarbowe,
+- **6)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe,
+- **7)** nie została zwolniona dyscyplinarnie z Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Biura Ochrony Rządu, wojska, prokuratury, sądu lub z innego urzędu administracji publicznej w Rzeczypospolitej Polskiej lub w innym państwie członkowskim Unii Europejskiej w ciągu ostatnich 5 lat,
+- **8)** posiada pozytywną opinię wynikającą z wywiadu środowiskowego, przeprowadzonego przez komendanta powiatowego (miejskiego) Policji właściwego ze względu na jej miejsce zamieszkania albo – w przypadku obywatela innego państwa członkowskiego Unii Europejskiej – przez organ odpowiedniego szczebla i kompetencji w państwie członkowskim Unii Europejskiej, właściwy ze względu na miejsce zamieszkania, ” , po pkt 8 dodaje się pkt 9 w brzmieniu: „
+- **9)** posiada zdolność fizyczną i psychiczną do wykonywania czynności, o których mowa w art. 2 ust. 1, stwierdzoną orzeczeniem lekarskim. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Licencję wydaje się osobie, która spełnia warunki określone w ust. 1 oraz złożyła egzamin przed właściwą komisją albo uzyskała w trybie odrębnych przepisów decyzję w sprawie uznania kwalifikacji w zawodzie detektywa. ” ;
@@ -196,7 +209,7 @@ source: "eli-html"
 **Art. 41a.** W stosunku do osób, wobec których zostało wydane orzeczenie:
 
 - **1)** lekarskie, o którym mowa w art. 29 ust. 1 pkt 9,
-- **2)** lekarskie i psychologiczne, na podstawie przeprowadzonych badań, o których mowa w art. 41 nie stosuje się przepisów art. 229 § 1 i 2 Kodeksu pracy. ” ;
+- **2)** lekarskie i psychologiczne, na podstawie przeprowadzonych badań, o których mowa w art. 41 – nie stosuje się przepisów art. 229 § 1 i 2 Kodeksu pracy. ” ;
 - **24)** w art. 42 w ust. 1 pkt 2 otrzymuje brzmienie: „
 - **2)** kwalifikacje oraz dodatkowe wymogi dotyczące lekarzy i psychologów upoważnionych do przeprowadzania badań oraz wydawania orzeczeń, o których mowa w art. 29 ust. 1 pkt 9, ” ;
 - **25)** art. 50 otrzymuje brzmienie: „

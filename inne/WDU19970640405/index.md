@@ -21,7 +21,6 @@ source: "eli-html"
 | Status | akt objęty tekstem jednolitym |
 | W mocy | tak |
 | Data ogłoszenia | 1997-04-24 |
-| Wejście w życie | 1997-07-09 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970640405) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/405/text.pdf) |
 

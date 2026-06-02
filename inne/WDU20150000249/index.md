@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o zasadach finansowania nauki oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o zasadach finansowania nauki oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki, ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych oraz ustawę z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-01-15 |
 | Data wydania | 2015-02-24 |
-| Wejście w życie | 2015-05-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000249) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/249/text.pdf) |
 
@@ -43,8 +42,10 @@ source: "eli-html"
     - **b)**
     - **b)**
 
-- **8)** działalność upowszechniająca naukę – realizację zadań wspierających rozwój polskiej nauki przez upowszechnianie, promocję i popularyzację wyników działalności badawczo-rozwojowej, innowacyjnej i wynalazczej, w tym w skali międzynarodowej, a także zadań związanych z utrzymaniem zasobów o dużym znaczeniu dla nauki i jej dziedzictwa, nieobejmujących prowadzenia badań naukowych lub prac rozwojowych; ” , w pkt 9: – lit. c otrzymuje brzmienie: „ c) instytuty badawcze w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm.), ” , – lit. f otrzymuje brzmienie: „ f) inne jednostki organizacyjne niewymienione w lit. a-e, posiadające siedzibę na terytorium Rzeczypospolitej Polskiej, będące organizacjami prowadzącymi badania i upowszechniającymi wiedzę w rozumieniu art. 2 pkt 83 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.6.2014, str. 1); ” , pkt 17 otrzymuje brzmienie: „
+- **8)** działalność upowszechniająca naukę – realizację zadań wspierających rozwój polskiej nauki przez upowszechnianie, promocję i popularyzację wyników działalności badawczo-rozwojowej, innowacyjnej i wynalazczej, w tym w skali międzynarodowej, a także zadań związanych z utrzymaniem zasobów o dużym znaczeniu dla nauki i jej dziedzictwa, nieobejmujących prowadzenia badań naukowych lub prac rozwojowych; ” , w pkt 9: lit. c otrzymuje brzmienie: „ instytuty badawcze w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092 oraz z 2014 r. poz. 1198.), ” , lit. f otrzymuje brzmienie: „ inne jednostki organizacyjne niewymienione w lit. a-e, posiadające siedzibę na terytorium Rzeczypospolitej Polskiej, będące organizacjami prowadzącymi badania i upowszechniającymi wiedzę w rozumieniu art. 2 pkt 83 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.6.2014, str. 1); ” , pkt 17 otrzymuje brzmienie: „
     - **c)**
+    - **c)**
+    - **f)**
     - **d)**
 
 - **17)** duża infrastruktura badawcza – aparaturę naukowo-badawczą w tym infrastrukturę informatyczną nauki, o wartości przekraczającej: 150 000 zł – w przypadku aparatury naukowo-badawczej służącej do prowadzenia badań naukowych lub prac rozwojowych w grupie nauk humanistycznych i społecznych oraz w grupie nauk o sztuce i twórczości artystycznej, 500 000 zł – w przypadku aparatury naukowo-badawczej służącej do prowadzenia badań naukowych lub prac rozwojowych w grupie nauk ścisłych i inżynierskich oraz w grupie nauk o życiu; ” , po pkt 17 dodaje się pkt 17a w brzmieniu: „
@@ -64,7 +65,7 @@ source: "eli-html"
 - **19)** młody naukowiec – osobę prowadzącą działalność badawczo-rozwojową, która w roku ubiegania się o przyznanie środków finansowych na naukę kończy nie więcej niż 35 lat; jeżeli osoba ta przebywała na urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, dodatkowym urlopie macierzyńskim, dodatkowym urlopie na warunkach urlopu macierzyńskiego, urlopie ojcowskim, urlopie rodzicielskim lub urlopie wychowawczym, udzielonych na zasadach określonych w przepisach Kodeksu pracy albo pobierała zasiłek chorobowy lub świadczenia rehabilitacyjne w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej to może się ubiegać o środki finansowe na naukę po ukończeniu 35 roku życia przez okres odpowiadający czasowi przebywania na tych urlopach albo okresowi pobierania tego zasiłku lub świadczenia, jednakże okresy te nie mogą łącznie przekroczyć dwóch lat; ” , po pkt 19 dodaje się pkt 19a w brzmieniu: „
     - **i)**
 
-- **19a)** osoba rozpoczynająca karierę naukową – osobę rozpoczynającą karierę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. Nr 96, poz. 617, z późn. zm.); ” ;
+- **19a)** osoba rozpoczynająca karierę naukową – osobę rozpoczynającą karierę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. Nr 96, poz. 617, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1726, z 2011 r. Nr 185, poz. 1092, z 2013 r. poz. 675 oraz z 2014 r. poz. 1146 i 1198.); ” ;
 - **3)** w art. 4 ust. 2 otrzymuje brzmienie: „
 
 2. Projekt Krajowego Programu Badań opracowuje Minister po zasięgnięciu opinii Polskiej Akademii Nauk, Konferencji Rektorów Akademickich Szkół Polskich, Konferencji Rektorów Zawodowych Szkół Polskich, Rady Głównej Nauki i Szkolnictwa Wyższego, Rady Głównej Instytutów Badawczych, Komitetu Polityki Naukowej i organizacji samorządu gospodarczego. ” ;
@@ -112,7 +113,7 @@ source: "eli-html"
 
 - **1)** szczegółowe kryteria i tryb oceny wniosków o wpisanie przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej,
 - **2)** terminy i tryb składania wniosków o wpisanie przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej,
-- **3)** wzory wniosków o wpisanie przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej mając na uwadze znaczenie przedsięwzięć w zakresie strategicznej infrastruktury badawczej dla realizacji celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, integracji krajowej infrastruktury badawczej z infrastrukturą międzynarodową, rozszerzenie naukowej współpracy międzynarodowej i podnoszenie jakości badań naukowych lub prac rozwojowych oraz rozwoju gospodarczego i społecznego kraju. Minister właściwy do spraw nauki ogłasza w dzienniku urzędowym Ministra komunikaty o przedsięwzięciach w zakresie strategicznej infrastruktury badawczej wpisanych na Polską Mapę Drogową Infrastruktury Badawczej, o kategoriach przyznanych jednostkom naukowym oraz o przyznanych dotacjach ze środków finansowych na naukę.
+- **3)** wzory wniosków o wpisanie przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej – mając na uwadze znaczenie przedsięwzięć w zakresie strategicznej infrastruktury badawczej dla realizacji celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, integracji krajowej infrastruktury badawczej z infrastrukturą międzynarodową, rozszerzenie naukowej współpracy międzynarodowej i podnoszenie jakości badań naukowych lub prac rozwojowych oraz rozwoju gospodarczego i społecznego kraju. Minister właściwy do spraw nauki ogłasza w dzienniku urzędowym Ministra komunikaty o przedsięwzięciach w zakresie strategicznej infrastruktury badawczej wpisanych na Polską Mapę Drogową Infrastruktury Badawczej, o kategoriach przyznanych jednostkom naukowym oraz o przyznanych dotacjach ze środków finansowych na naukę.
 
 1. Minister prowadzi System Informacji o Nauce w ramach Zintegrowanego Systemu Informacji o Nauce i Szkolnictwie Wyższym „POL-on”, zwany dalej „Systemem”.
 
@@ -146,7 +147,7 @@ source: "eli-html"
 
 7. Nieprawidłowe, nierzetelne lub nieterminowe wprowadzenie danych i informacji do Systemu może skutkować wstrzymaniem finansowania do czasu usunięcia tych nieprawidłowości.
 
-8. W przypadku przekazania środków finansowych na naukę w wysokości ustalonej w oparciu o dane wprowadzone do Systemu przez jednostkę naukową, o której mowa w ust. 6, nieprawidłowo, nierzetelnie lub nieterminowo, Ministrowi przysługuje prawo do żądania zwrotu nienależnie pobranych środków finansowych. Zwrot tych środków następuje na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.).
+8. W przypadku przekazania środków finansowych na naukę w wysokości ustalonej w oparciu o dane wprowadzone do Systemu przez jednostkę naukową, o której mowa w ust. 6, nieprawidłowo, nierzetelnie lub nieterminowo, Ministrowi przysługuje prawo do żądania zwrotu nienależnie pobranych środków finansowych. Zwrot tych środków następuje na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany teksu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146, 1626 i 1877.).
 
 9. Minister prowadzi centralny wykaz pracowników naukowych zatrudnionych w jednostkach naukowych przy realizacji badań naukowych lub prac rozwojowych w ramach stosunku pracy, zwany dalej „Wykazem”:
 
@@ -180,7 +181,7 @@ source: "eli-html"
 
 - **1)** szczegółowy zakres danych i informacji, o których mowa w ust. 3 i 4,
 - **2)** terminy aktualizacji danych w Systemie,
-- **3)** sposób i formę udostępniania informacji zgromadzonych w Systemie mając na uwadze powszechny dostęp do informacji o działalności badawczo-rozwojowej jednostek naukowych i efektach jej finansowania, z uwzględnieniem rodzaju jednostki naukowej, oraz wspomaganie działań mających na celu kształtowanie polityki kadrowej, naukowej i naukowo-technicznej, a także ochronę danych osobowych. ” ;
+- **3)** sposób i formę udostępniania informacji zgromadzonych w Systemie – mając na uwadze powszechny dostęp do informacji o działalności badawczo-rozwojowej jednostek naukowych i efektach jej finansowania, z uwzględnieniem rodzaju jednostki naukowej, oraz wspomaganie działań mających na celu kształtowanie polityki kadrowej, naukowej i naukowo-technicznej, a także ochronę danych osobowych. ” ;
 - **5)** w art. 5: pkt 3 i 4 otrzymują brzmienie: „
     - **a)**
 
@@ -299,7 +300,7 @@ source: "eli-html"
 
 - **1)** dokumenty, o których mowa w ust. 3 pkt 1, 3 i 4;
 - **2)** poświadczoną za zgodność z oryginałem kopię dokumentu określającego formę prawną przedsiębiorcy, w szczególności kopię umowy spółki lub innego przewidzianego przepisami prawa dokumentu dotyczącego ustanowienia, działalności i organizacji przedsiębiorcy;
-- **3)** zaświadczenia i informacje, o których mowa w art. 37 ust. 1 i 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.) oraz w przepisach wydanych na podstawie art. 37 ust. 2a i 6 tej ustawy.
+- **3)** zaświadczenia i informacje, o których mowa w art. 37 ust. 1 i 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.) oraz w przepisach wydanych na podstawie art. 37 ust. 2a i 6 tej ustawy.
 
 1. Podmiot otrzymujący środki finansowe na naukę jest obowiązany do:
 
@@ -365,8 +366,16 @@ source: "eli-html"
 
 **Art. 17.** Dyrektor Centrum Nauki lub Dyrektor Centrum Rozwoju, na wniosek kierownika projektu obejmującego badania naukowe lub prace rozwojowe, może wyrazić zgodę na zmianę podmiotu realizującego projekt po pozytywnym zaopiniowaniu przez kierownika jednostki organizacyjnej realizującej projekt i kierownika jednostki przejmującej realizację projektu. ” ;
 
-- **17)** w art. 18: w ust. 1: – w pkt 1: – – uchyla się lit. g, – – po lit. g dodaje się lit. h oraz i w brzmieniu: „ h) działania związane z komercjalizacją wyników badań naukowych i prac rozwojowych, polegające na analizie potrzeb rynku, stanu techniki, możliwości ochrony patentowej efektów tej działalności oraz opracowaniu projektów komercjalizacji, i) zadania związane z zapewnieniem warunków udziału niepełnosprawnych naukowców i uczestników studiów doktoranckich w realizacji badań naukowych i prac rozwojowych; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) koszty restrukturyzacji jednostek naukowych; ” , – pkt 2 otrzymuje brzmienie: „ 2) utrzymanie specjalnego urządzenia badawczego w jednostce naukowej; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) utrzymanie specjalnego urządzenia badawczego z zakresu infrastruktury informatycznej nauki w jednostce naukowej lub w uczelni; ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) działalność podstawowych jednostek organizacyjnych uczelni, jednostek naukowych Polskiej Akademii Nauk, instytutów badawczych i międzynarodowych instytutów naukowych polegającą na prowadzeniu badań naukowych lub prac rozwojowych oraz zadań z nimi związanych, służących rozwojowi młodych naukowców oraz uczestników studiów doktoranckich, finansowanych w wewnętrznym trybie konkursowym; 4) działalność jednostek naukowych lub uczelni związaną z zapewnieniem dostępu do informacji naukowej, w szczególności do systemów udostępniających informacje o wynikach badań naukowych, publikacjach i monografiach, w tym do Wirtualnej Biblioteki Nauki – systemu udostępniania w formie elektronicznej naukowych baz danych oraz publikacji naukowych. ” , ust. 2 otrzymuje brzmienie: „
+- **17)** w art. 18: w ust. 1: w pkt 1: – – uchyla się lit. g, – po lit. g dodaje się lit. h oraz i w brzmieniu: „ działania związane z komercjalizacją wyników badań naukowych i prac rozwojowych, polegające na analizie potrzeb rynku, stanu techniki, możliwości ochrony patentowej efektów tej działalności oraz opracowaniu projektów komercjalizacji, zadania związane z zapewnieniem warunków udziału niepełnosprawnych naukowców i uczestników studiów doktoranckich w realizacji badań naukowych i prac rozwojowych; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+    - **h)**
+    - **i)**
+
+- **1a)** koszty restrukturyzacji jednostek naukowych; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** utrzymanie specjalnego urządzenia badawczego w jednostce naukowej; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** utrzymanie specjalnego urządzenia badawczego z zakresu infrastruktury informatycznej nauki w jednostce naukowej lub w uczelni; ” , pkt 3 i 4 otrzymują brzmienie: „
+- **3)** działalność podstawowych jednostek organizacyjnych uczelni, jednostek naukowych Polskiej Akademii Nauk, instytutów badawczych i międzynarodowych instytutów naukowych polegającą na prowadzeniu badań naukowych lub prac rozwojowych oraz zadań z nimi związanych, służących rozwojowi młodych naukowców oraz uczestników studiów doktoranckich, finansowanych w wewnętrznym trybie konkursowym;
+- **4)** działalność jednostek naukowych lub uczelni związaną z zapewnieniem dostępu do informacji naukowej, w szczególności do systemów udostępniających informacje o wynikach badań naukowych, publikacjach i monografiach, w tym do Wirtualnej Biblioteki Nauki – systemu udostępniania w formie elektronicznej naukowych baz danych oraz publikacji naukowych. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Restrukturyzacja jednostek naukowych polega na zmianie struktury organizacyjnej, struktury zatrudnienia lub określonego w statucie jednostki naukowej przedmiotu lub zakresu działania tej jednostki, w celu podniesienia poziomu prowadzonych badań naukowych lub prac rozwojowych, w szczególności w następstwie:
@@ -444,7 +453,7 @@ source: "eli-html"
     - **g)**
 
 - **2)** terminy składania wniosków o przyznanie dotacji i raportu rocznego z wykorzystania środków finansowych, stanowiącego podstawę do rozliczenia przyznanych dotacji,
-- **3)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie dotacji i w raporcie rocznym z wykorzystania przyznanych środków finansowych, wraz z rozliczeniem finansowym poniesionych kosztów mając na uwadze kosztochłonność prowadzonych badań naukowych lub prac rozwojowych, jakość prowadzonej działalności naukowej lub badawczo-rozwojowej określoną przez kategorię naukową przyznaną jednostce naukowej, specyfikę i uwarunkowania prowadzonej działalności badawczo-rozwojowej, znaczenie poszczególnych rodzajów jednostek naukowych dla realizacji polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz znaczenie realizowanych przez te jednostki zadań dla rozwoju nauki, postępu cywilizacyjnego, rozwoju gospodarczego i kulturalnego państwa, a także wysokość dotacji na utrzymanie potencjału badawczego, przyznanej tym jednostkom naukowym na rok poprzedzający rok przyznania dotacji, uwzględniając priorytetowe finansowanie jednostek naukowych kategorii A+ oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych. ” , po ust. 7 dodaje się ust. 7a w brzmieniu: „
+- **3)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie dotacji i w raporcie rocznym z wykorzystania przyznanych środków finansowych, wraz z rozliczeniem finansowym poniesionych kosztów – mając na uwadze kosztochłonność prowadzonych badań naukowych lub prac rozwojowych, jakość prowadzonej działalności naukowej lub badawczo-rozwojowej określoną przez kategorię naukową przyznaną jednostce naukowej, specyfikę i uwarunkowania prowadzonej działalności badawczo-rozwojowej, znaczenie poszczególnych rodzajów jednostek naukowych dla realizacji polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz znaczenie realizowanych przez te jednostki zadań dla rozwoju nauki, postępu cywilizacyjnego, rozwoju gospodarczego i kulturalnego państwa, a także wysokość dotacji na utrzymanie potencjału badawczego, przyznanej tym jednostkom naukowym na rok poprzedzający rok przyznania dotacji, uwzględniając priorytetowe finansowanie jednostek naukowych kategorii A+ oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych. ” , po ust. 7 dodaje się ust. 7a w brzmieniu: „
     - **f)**
 
 7a. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
@@ -454,7 +463,7 @@ source: "eli-html"
 - **3)** szczegółowe kryteria i tryb przyznawania środków finansowych na działalność jednostek naukowych lub uczelni związaną z zapewnieniem dostępu do informacji naukowej, w szczególności do systemów udostępniających informacje o wynikach badań naukowych, publikacjach i monografiach, w tym do Wirtualnej Biblioteki Nauki – systemu udostępniania w formie elektronicznej naukowych baz danych oraz publikacji naukowych,
 - **4)** szczegółowe kryteria i tryb przyznawania środków na finansowanie kosztów restrukturyzacji jednostek naukowych posiadających kategorię naukową A+, A, B albo C oraz rodzaje tych kosztów,
 - **5)** tryb rozliczania przyznanych środków finansowych,
-- **6)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie środków finansowych oraz w raporcie rocznym i raporcie końcowym z wykorzystania przyznanych środków finansowych wraz z rozliczeniem finansowym poniesionych kosztów mając na uwadze ocenę dotychczasowej działalności jednostki naukowej, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz uwzględniając priorytetowe finansowanie jednostek naukowych kategorii A+, zapewnienie finansowania specjalnych urządzeń badawczych, w tym z zakresu infrastruktury informatycznej nauki, oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych. ” , uchyla się ust. 8;
+- **6)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie środków finansowych oraz w raporcie rocznym i raporcie końcowym z wykorzystania przyznanych środków finansowych wraz z rozliczeniem finansowym poniesionych kosztów – mając na uwadze ocenę dotychczasowej działalności jednostki naukowej, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz uwzględniając priorytetowe finansowanie jednostek naukowych kategorii A+, zapewnienie finansowania specjalnych urządzeń badawczych, w tym z zakresu infrastruktury informatycznej nauki, oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych. ” , uchyla się ust. 8;
     - **g)**
 
 - **19)** art. 20 otrzymuje brzmienie: „
@@ -479,7 +488,7 @@ source: "eli-html"
 
 **Art. 22a.**
 
-1. Koszty zakupu oraz wytworzenia aparatury naukowo-badawczej niestanowiącej dużej lub strategicznej infrastruktury badawczej, zaliczanej do środków trwałych i wartości niematerialnych i prawnych zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.), mogą być wliczane do kosztów realizacji zadań określonych w art. 5 pkt 1–4 i 7–10.
+1. Koszty zakupu oraz wytworzenia aparatury naukowo-badawczej niestanowiącej dużej lub strategicznej infrastruktury badawczej, zaliczanej do środków trwałych i wartości niematerialnych i prawnych zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4.), mogą być wliczane do kosztów realizacji zadań określonych w art. 5 pkt 1–4 i 7–10.
 
 2. Wniosek o finansowanie inwestycji współfinansowanej z innej części budżetu państwa składa się wraz z opinią dysponenta tej części.
 
@@ -494,7 +503,7 @@ source: "eli-html"
     - **b)**
 
 - **2)** szczegółowy zakres informacji zawartych we wnioskach o finansowanie inwestycji,
-- **3)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych, zawierających informacje o realizacji inwestycji wraz z rozliczeniem finansowym poniesionych kosztów mając na uwadze znaczenie przewidzianych do finansowania inwestycji z zakresu dużej i strategicznej infrastruktury badawczej dla realizacji celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, w tym dla Krajowego Programu Badań, o którym mowa w art. 4, potrzebę zwiększenia roli nauki w rozwoju gospodarczym i społecznym kraju, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych.
+- **3)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych, zawierających informacje o realizacji inwestycji wraz z rozliczeniem finansowym poniesionych kosztów – mając na uwadze znaczenie przewidzianych do finansowania inwestycji z zakresu dużej i strategicznej infrastruktury badawczej dla realizacji celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, w tym dla Krajowego Programu Badań, o którym mowa w art. 4, potrzebę zwiększenia roli nauki w rozwoju gospodarczym i społecznym kraju, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych.
 
 2. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
 
@@ -505,9 +514,12 @@ source: "eli-html"
 - **2)** sposób kumulowania pomocy,
 - **3)** maksymalne wielkości pomocy,
 - **4)** maksymalną intensywność pomocy,
-- **5)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie pomocy oraz w raporcie rocznym i raporcie końcowym z realizacji zadań objętych pomocą z uwzględnieniem celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz mając na względzie potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania pomocy publicznej lub pomocy de minimis. ” ;
-- **22)** w art. 23: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) wniesienie wkładu krajowego na rzecz udziału we wspólnym międzynarodowym programie lub przedsięwzięciu, w tym w zakresie strategicznej infrastruktury badawczej; ” , – dodaje się pkt 5 w brzmieniu: „ 5) działania związane z wykorzystaniem strategicznej infrastruktury badawczej zlokalizowanej za granicą. ” , ust. 2 i 3 otrzymują brzmienie: „
+- **5)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie pomocy oraz w raporcie rocznym i raporcie końcowym z realizacji zadań objętych pomocą – z uwzględnieniem celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz mając na względzie potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania pomocy publicznej lub pomocy de minimis. ” ;
+- **22)** w art. 23: w ust. 1: pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** wniesienie wkładu krajowego na rzecz udziału we wspólnym międzynarodowym programie lub przedsięwzięciu, w tym w zakresie strategicznej infrastruktury badawczej; ” , dodaje się pkt 5 w brzmieniu: „
+- **5)** działania związane z wykorzystaniem strategicznej infrastruktury badawczej zlokalizowanej za granicą. ” , ust. 2 i 3 otrzymują brzmienie: „
     - **b)**
 
 2. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
@@ -518,7 +530,7 @@ source: "eli-html"
     - **c)**
 
 - **2)** szczegółowy zakres informacji zawartych we wnioskach o finansowanie współpracy naukowej z zagranicą,
-- **3)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych, zawierających informacje o realizacji współpracy naukowej z zagranicą wraz z rozliczeniem finansowym poniesionych kosztów mając na uwadze znaczenie finansowania współpracy naukowej z zagranicą dla realizacji celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, potrzebę zwiększenia aktywności jednostek naukowych na arenie międzynarodowej, efektywnego wykorzystywania strategicznej infrastruktury badawczej zlokalizowanej za granicą, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych.
+- **3)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych, zawierających informacje o realizacji współpracy naukowej z zagranicą wraz z rozliczeniem finansowym poniesionych kosztów – mając na uwadze znaczenie finansowania współpracy naukowej z zagranicą dla realizacji celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, potrzebę zwiększenia aktywności jednostek naukowych na arenie międzynarodowej, efektywnego wykorzystywania strategicznej infrastruktury badawczej zlokalizowanej za granicą, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych.
 
 3. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
 
@@ -529,7 +541,7 @@ source: "eli-html"
 - **2)** sposób kumulowania pomocy,
 - **3)** maksymalne wielkości pomocy,
 - **4)** maksymalną intensywność pomocy,
-- **5)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie pomocy oraz w raporcie rocznym i raporcie końcowym z realizacji zadań objętych pomocą z uwzględnieniem celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz mając na względzie potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania pomocy publicznej lub pomocy de minimis. ” ;
+- **5)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie pomocy oraz w raporcie rocznym i raporcie końcowym z realizacji zadań objętych pomocą – z uwzględnieniem celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz mając na względzie potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania pomocy publicznej lub pomocy de minimis. ” ;
 - **23)** w art. 25: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -573,7 +585,7 @@ source: "eli-html"
     - **c)**
 
 - **2)** szczegółowy zakres informacji zawartych we wnioskach o finansowanie zadań z zakresu działalności upowszechniającej naukę,
-- **3)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych, zawierających informacje o realizacji działalności upowszechniającej naukę wraz z rozliczeniem finansowym poniesionych kosztów mając na uwadze znaczenie zadań przewidzianych do finansowania i ich wpływ na realizację celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, potrzebę i znaczenie upowszechniania informacji o roli nauki w rozwoju gospodarczym i społecznym kraju, promowanie polskiej nauki w świecie, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych.
+- **3)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych, zawierających informacje o realizacji działalności upowszechniającej naukę wraz z rozliczeniem finansowym poniesionych kosztów – mając na uwadze znaczenie zadań przewidzianych do finansowania i ich wpływ na realizację celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, potrzebę i znaczenie upowszechniania informacji o roli nauki w rozwoju gospodarczym i społecznym kraju, promowanie polskiej nauki w świecie, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych.
 
 8. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
 
@@ -584,7 +596,7 @@ source: "eli-html"
 - **2)** sposób kumulowania pomocy,
 - **3)** maksymalne wielkości pomocy,
 - **4)** maksymalną intensywność pomocy,
-- **5)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie pomocy oraz w raporcie rocznym i raporcie końcowym z realizacji zadań objętych pomocą z uwzględnieniem celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz mając na względzie potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania pomocy publicznej lub pomocy de minimis. ” ;
+- **5)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie pomocy oraz w raporcie rocznym i raporcie końcowym z realizacji zadań objętych pomocą – z uwzględnieniem celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz mając na względzie potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania pomocy publicznej lub pomocy de minimis. ” ;
 - **24)** w art. 26: ust. 2 i 3 otrzymują brzmienie: „
     - **a)**
 
@@ -600,7 +612,7 @@ source: "eli-html"
 - **3)** sposób kumulowania pomocy, o której mowa w pkt 1,
 - **4)** maksymalne wielkości pomocy, o której mowa w pkt 1,
 - **5)** maksymalną intensywność pomocy, o której mowa w pkt 1,
-- **6)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie pomocy oraz w raporcie rocznym i raporcie końcowym z realizacji zadań objętych pomocą, o której mowa w pkt 1 z uwzględnieniem celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz mając na względzie potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania pomocy publicznej lub pomocy de minimis. ” , po ust. 3 dodaje się ust. 3a-3e w brzmieniu: „
+- **6)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie pomocy oraz w raporcie rocznym i raporcie końcowym z realizacji zadań objętych pomocą, o której mowa w pkt 1 – z uwzględnieniem celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz mając na względzie potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania pomocy publicznej lub pomocy de minimis. ” , po ust. 3 dodaje się ust. 3a-3e w brzmieniu: „
     - **b)**
 
 3a. Minister właściwy do spraw nauki ustanawia program „Diamentowy Grant”, o którym mowa w art. 5 pkt 10a ustawy oraz w art. 187a ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym. Środki finansowe w ramach programu są przyznawane nie więcej niż 100 osobom rocznie, w drodze konkursu ogłaszanego przez Ministra.
@@ -627,7 +639,7 @@ source: "eli-html"
     - **c)**
 
 - **2)** szczegółowy zakres informacji zawartych we wnioskach,
-- **3)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych, zawierających informacje o realizacji zadań, wraz z rozliczeniem finansowym poniesionych kosztów mając na uwadze tworzenie warunków rozwoju naukowego i skrócenie ścieżki kariery naukowej wybitnie uzdolnionym absolwentom studiów pierwszego stopnia i studentom jednolitych studiów magisterskich, nieposiadającym tytułu zawodowego magistra, prowadzącym badania naukowe. ” , uchyla się ust. 4, dodaje się ust. 5–8 w brzmieniu: „
+- **3)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych, zawierających informacje o realizacji zadań, wraz z rozliczeniem finansowym poniesionych kosztów – mając na uwadze tworzenie warunków rozwoju naukowego i skrócenie ścieżki kariery naukowej wybitnie uzdolnionym absolwentom studiów pierwszego stopnia i studentom jednolitych studiów magisterskich, nieposiadającym tytułu zawodowego magistra, prowadzącym badania naukowe. ” , uchyla się ust. 4, dodaje się ust. 5–8 w brzmieniu: „
     - **c)**
     - **d)**
 
@@ -682,7 +694,7 @@ source: "eli-html"
 5. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe kryteria i tryb oceny wniosków o przyznanie nagrody za wybitne osiągnięcia naukowe lub naukowo-techniczne,
-- **2)** szczegółowy zakres informacji zawartych we wniosku o przyznanie nagrody za wybitne osiągnięcia naukowe lub naukowo-techniczne mając na uwadze wyróżniający poziom badań naukowych lub prac rozwojowych prowadzonych przez kandydata do nagrody za wybitne osiągnięcia naukowe lub naukowo-techniczne oraz jego osiągnięć w skali krajowej i międzynarodowej. ” ;
+- **2)** szczegółowy zakres informacji zawartych we wniosku o przyznanie nagrody za wybitne osiągnięcia naukowe lub naukowo-techniczne – mając na uwadze wyróżniający poziom badań naukowych lub prac rozwojowych prowadzonych przez kandydata do nagrody za wybitne osiągnięcia naukowe lub naukowo-techniczne oraz jego osiągnięć w skali krajowej i międzynarodowej. ” ;
 - **27)** po art. 28 dodaje się art. 28a w brzmieniu: „
 
 1. Minister przyznaje corocznie, na podstawie złożonych wniosków, stypendia naukowe dla wybitnych młodych naukowców zatrudnionych w jednostkach naukowych. Stypendia przyznaje się na okres nie dłuższy niż 3 lata, w wysokości miesięcznej nieprzekraczającej minimalnej miesięcznej stawki wynagrodzenia zasadniczego przewidzianego dla stanowiska profesora zwyczajnego zatrudnionego w uczelni publicznej.
@@ -708,7 +720,7 @@ source: "eli-html"
 8. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe kryteria i tryb przyznawania i rozliczania stypendiów naukowych dla wybitnych młodych naukowców, w tym tryb oceny wniosków o przyznanie stypendium naukowego,
-- **2)** szczegółowy zakres informacji zawartych we wniosku o przyznanie stypendium naukowego mając na uwadze wyróżniający poziom badań naukowych lub prac rozwojowych prowadzonych przez kandydata do stypendium i jego osiągnięć w skali krajowej i międzynarodowej. ” ;
+- **2)** szczegółowy zakres informacji zawartych we wniosku o przyznanie stypendium naukowego – mając na uwadze wyróżniający poziom badań naukowych lub prac rozwojowych prowadzonych przez kandydata do stypendium i jego osiągnięć w skali krajowej i międzynarodowej. ” ;
 - **28)** w art. 29 w ust. 1 pkt 3 otrzymuje brzmienie: „
 - **3)** sporządzania recenzji, ekspertyz, ocen i opinii dotyczących przyznawania i rozliczania środków finansowych, o których mowa w art. 5 pkt 6–11a i 13; ” ;
 - **29)** w art. 30: uchyla się ust. 1 i 2, w ust. 3 pkt 2 otrzymuje brzmienie: „
@@ -865,7 +877,7 @@ source: "eli-html"
 - **7)** niezbędne elementy dyplomów doktorskiego i habilitacyjnego,
 - **8)** maksymalną wysokość opłat za wydanie dyplomu doktorskiego i habilitacyjnego oraz ich duplikatów i odpisów w języku angielskim albo języku łacińskim, nieprzekraczającą kosztów sporządzenia tych dokumentów,
 - **9)** sposób i tryb legalizacji dyplomów doktorskich i habilitacyjnych oraz ich duplikatów przeznaczonych do obrotu prawnego z zagranicą oraz wysokość opłaty za ich legalizację,
-- **10)** sposób ogłaszania przez ministra właściwego do spraw szkolnictwa wyższego informacji o nadanych stopniach doktora i doktora habilitowanego oraz zakres tych informacji mając na uwadze potrzebę zapewnienia rozwoju kadr naukowych oraz sprawnego i przejrzystego przeprowadzania czynności w przewodzie doktorskim, postępowania habilitacyjnego oraz postępowania o nadanie tytułu profesora. ” .
+- **10)** sposób ogłaszania przez ministra właściwego do spraw szkolnictwa wyższego informacji o nadanych stopniach doktora i doktora habilitowanego oraz zakres tych informacji – mając na uwadze potrzebę zapewnienia rozwoju kadr naukowych oraz sprawnego i przejrzystego przeprowadzania czynności w przewodzie doktorskim, postępowania habilitacyjnego oraz postępowania o nadanie tytułu profesora. ” .
 
 **Art. 3.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2014 r. poz. 1788) wprowadza się następujące zmiany:
 
@@ -915,7 +927,7 @@ source: "eli-html"
 3. Fundusz rezerwowy:
 
 - **1)** zwiększa się o wartość zysku netto Centrum;
-- **2)** zmniejsza się o wartość straty netto Centrum. ” . W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. Nr 96, poz. 617, z późn. zm.) wprowadza się następujące zmiany:
+- **2)** zmniejsza się o wartość straty netto Centrum. ” . W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. Nr 96, poz. 617, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1726, z 2011 r. Nr 185, poz. 1092, z 2013 r. poz. 675 oraz z 2014 r. poz. 1146 i 1198.) wprowadza się następujące zmiany:
 - **1)** w art. 2 pkt 3 otrzymuje brzmienie: „
 - **3)** osobie rozpoczynającej karierę naukową – należy przez to rozumieć osobę nieposiadającą stopnia naukowego doktora lub osobę, która nie wcześniej niż 7 lat przed rokiem wystąpienia z wnioskiem o przyznanie środków finansowych na badania naukowe lub prace rozwojowe uzyskała stopień naukowy doktora; do okresu tego nie wlicza się przerw związanych z urlopem macierzyńskim, urlopem na warunkach urlopu macierzyńskiego, dodatkowym urlopem macierzyńskim, dodatkowym urlopem na warunkach urlopu macierzyńskiego, urlopem ojcowskim, urlopem rodzicielskim lub urlopem wychowawczym, udzielonych na zasadach określonych w przepisach Kodeksu pracy albo pobieraniem zasiłku chorobowego lub świadczenia rehabilitacyjnego w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej; ” ;
 - **2)** w art. 11 ust. 11 otrzymuje brzmienie: „
@@ -963,7 +975,7 @@ source: "eli-html"
 - **1)** zwiększa się o wartość zysku netto Centrum;
 - **2)** zmniejsza się o wartość straty netto Centrum. ” .
 
-**Art. 5.** W ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092 oraz z 2014 r. poz. 1198.) wprowadza się następujące zmiany:
 
 - **1)** w art. 39 ust. 2 otrzymuje brzmienie: „
 
@@ -981,7 +993,7 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-**Art. 6.** W ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. Nr 96, poz. 619, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. Nr 96, poz. 619, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 84, poz. 455, z 2013 r. poz. 675 oraz z 2014 r. poz. 1198.) wprowadza się następujące zmiany:
 
 - **1)** w art. 91: ust. 5 otrzymuje brzmienie: „
     - **a)**
@@ -1007,5 +1019,5 @@ source: "eli-html"
 
 **Art. 11.** Minister właściwy do spraw nauki, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, z urzędu, wyda decyzję o wpisaniu na Polską Mapę Drogową Infrastruktury Badawczej przedsięwzięć z zakresu strategicznej infrastruktury badawczej, uznanych przez niego za szczególnie istotne dla rozwoju nauki przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 31 ustawy, o której mowa w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 31 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 31 ustawy, o której mowa w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 31 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki, ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych oraz ustawę z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092 oraz z 2014 r. poz. 1198. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1726, z 2011 r. Nr 185, poz. 1092, z 2013 r. poz. 675 oraz z 2014 r. poz. 1146 i 1198. 4) Zmiany teksu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146, 1626 i 1877. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 613, z 2014 r. poz. 768 i 1100 oraz z 2015 r. poz. 4. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1726, z 2011 r. Nr 185, poz. 1092, z 2013 r. poz. 675 oraz z 2014 r. poz. 1146 i 1198. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092 oraz z 2014 r. poz. 1198. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 84, poz. 455, z 2013 r. poz. 675 oraz z 2014 r. poz. 1198.
 

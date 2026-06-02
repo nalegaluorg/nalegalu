@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-22 |
 | Data wydania | 2016-03-29 |
-| Wejście w życie | 2016-04-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/403/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 2a ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r. poz. 38) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2000 r. w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 83, z późn. zm.) w § 1 pkt 9 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2000 r. w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 83, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2001 r. poz. 1513, z 2002 r. poz. 1368, z 2004 r. poz. 1528, z 2008 r. poz. 1210, z 2010 r. poz. 901 oraz z 2015 r. poz. 1384.) w § 1 pkt 9 otrzymuje brzmienie: „
 9)
-Robert Szydlik – członek,
-” .
+Robert Szydlik – członek, ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2001 r. poz. 1513, z 2002 r. poz. 1368, z 2004 r. poz. 1528, z 2008 r. poz. 1210, z 2010 r. poz. 901 oraz z 2015 r. poz. 1384.
 

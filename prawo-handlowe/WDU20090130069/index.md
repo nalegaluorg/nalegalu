@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy – Kodeks spółek handlowych oraz ustawy o obrocie instrumentami finansowymi
+# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy – Kodeks spółek handlowych oraz ustawy o obrocie instrumentami finansowymi Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym (Dz. Urz. UE L 184 z 14.07.2007, str. 17) oraz dyrektywy 2007/63/WE Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. zmieniającej dyrektywy Rady 78/855/EWG oraz 82/891/EWG w odniesieniu do wymogu sprawozdania niezależnego biegłego w przypadku łączenia się spółek akcyjnych lub ich podziału (Dz. Urz. UE L 300 z 17.11.2007, str. 47).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-05 |
 | Data wydania | 2009-01-28 |
-| Wejście w życie | 2009-08-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090130069) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/69/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540 oraz z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547.) wprowadza się następujące zmiany:
 
 - **1)** w art. 328 § 6 otrzymuje brzmienie: „
 
@@ -334,5 +333,5 @@ source: "eli-html"
 
 - **7a)** sposób i formę sporządzania, przekazywania oraz udostępniania wykazów, o których mowa w art. 4063 § 6 i 7 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych; ” .
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 3 sierpnia 2009 r., z wyjątkiem przepisów art. 1 pkt 17–19, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem 3 sierpnia 2009 r., z wyjątkiem przepisów art. 1 pkt 17–19, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym (Dz. Urz. UE L 184 z 14.07.2007, str. 17) oraz dyrektywy 2007/63/WE Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. zmieniającej dyrektywy Rady 78/855/EWG oraz 82/891/EWG w odniesieniu do wymogu sprawozdania niezależnego biegłego w przypadku łączenia się spółek akcyjnych lub ich podziału (Dz. Urz. UE L 300 z 17.11.2007, str. 47). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540 oraz z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547.
 

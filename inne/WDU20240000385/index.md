@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 11 marca 2024 r. w sprawie szczegółowych wymagań technicznych, jakie muszą spełniać punkty zasilania jednostek pływających energią elektryczną z lądu, oraz badań i opłat z nimi związanych
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 11 marca 2024 r. w sprawie szczegółowych wymagań technicznych, jakie muszą spełniać punkty zasilania jednostek pływających energią elektryczną z lądu, oraz badań i opłat z nimi związanych Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-11 |
 | Data wydania | 2024-03-15 |
-| Wejście w życie | 2024-03-30 |
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/385/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 19 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2023 r. poz. 875, 1394, 1506 i 1681) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 23 listopada 2023 r. pod numerem 2023/0659/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 19 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2023 r. poz. 875, 1394, 1506 i 1681) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -107,14 +106,20 @@ instrukcję obsługi punktu zasilania zawierającą w szczególności opis:
 – czynności konserwacyjnych i serwisowych wraz z czasookresami,
 – sposobu postępowania w przypadku wystąpienia nieprawidłowości lub zakłóceń w pracy punktu zasilania oraz postępowania w razie pożaru,
 – warunków bezpiecznej eksploatacji punktu zasilania oraz ostrzeżenia o zagrożeniach wynikających z niewłaściwej eksploatacji,
-– sposobu spełnienia wymagań określonych w przepisach dotyczących: – – bezpieczeństwa i higieny pracy, – – ochrony środowiska, – – ochrony przeciwpożarowej,
+sposobu spełnienia wymagań określonych w przepisach dotyczących:
+– – bezpieczeństwa i higieny pracy,
+– – ochrony środowiska,
+– – ochrony przeciwpożarowej,
 b)
 instrukcję serwisową punktu zasilania zawierającą w szczególności opis:
 – sposobu serwisowania punktu zasilania, w tym instrukcje wykonywania napraw oraz wymiany podzespołów i elementów,
 – czynności związanych z usuwaniem usterek,
 – sposobu kontroli stanu punktu zasilania, w tym elementów zabezpieczających,
 – sposobu wykonywania prób i pomiarów elektrycznych punktu zasilania zawierający wymagania dotyczące terminów i zakresów tych prób i pomiarów,
-– sposobu wykonywania prób funkcjonalnych sprawdzających działanie elementów zabezpieczających zawierający w szczególności: – – wymagania dotyczące terminów, zakresów i warunków przeprowadzenia oraz kryteriów akceptacji prób, – – schemat elektryczny niezbędny do serwisowania i naprawy punktu zasilania oraz sprawdzania prawidłowości jego działania, – – terminy wykonywania przeglądów serwisowych;
+sposobu wykonywania prób funkcjonalnych sprawdzających działanie elementów zabezpieczających zawierający w szczególności:
+– – wymagania dotyczące terminów, zakresów i warunków przeprowadzenia oraz kryteriów akceptacji prób,
+– – schemat elektryczny niezbędny do serwisowania i naprawy punktu zasilania oraz sprawdzania prawidłowości jego działania,
+– – terminy wykonywania przeglądów serwisowych;
 4)
 poświadczenie prawidłowości montażu;
 5)
@@ -264,6 +269,5 @@ Punkty zasilania wybudowane albo eksploatowane przed dniem wejścia w życie roz
 2.
 Po dostosowaniu punktu zasilania do wymagań określonych w rozporządzeniu podmiot eksploatujący punkt zasilania składa wniosek o przeprowadzenie badania, o którym mowa w § 17 pkt 1.
 § 23.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 23 listopada 2023 r. pod numerem 2023/0659/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 23 listopada 2023 r. pod numerem 2023/0659/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 

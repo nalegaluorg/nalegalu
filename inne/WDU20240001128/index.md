@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 25 lipca 2024 r. w sprawie zryczałtowanych kosztów postępowania w przedmiocie odpowiedzialności zawodowej
+# Rozporządzenie Ministra Zdrowiaz dnia 25 lipca 2024 r. w sprawie zryczałtowanych kosztów postępowania w przedmiocie odpowiedzialności zawodowej Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-25 |
 | Data wydania | 2024-07-26 |
-| Wejście w życie | 2024-07-27 |
 | Ostatnia zmiana | 2024-07-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001128) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1128/text.pdf) |
 
@@ -48,6 +47,5 @@ c)
 5)
 koszty wynagrodzenia członków Komisji w wysokości określonej w przepisach wydanych na podstawie art. 83 ust. 1 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

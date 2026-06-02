@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-30 |
 | Data wydania | 2020-12-31 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002437) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2437/text.pdf) |
 
@@ -142,15 +141,13 @@ koszty ponosi zamawiający, jeżeli po otwarciu rozprawy:
 a)
 uwzględnił on w całości zarzuty przedstawione w odwołaniu, a w postępowaniu odwoławczym po stronie zamawiającego nie przystąpił żaden wykonawca albo uczestnik postępowania odwoławczego, który przystąpił do postępowania po stronie zamawiającego, nie wniósł sprzeciwu wobec uwzględnienia przez zamawiającego w całości zarzutów przedstawionych w odwołaniu,
 b)
-uwzględnił on w części zarzuty przedstawione w odwołaniu i pozostałe zarzuty zostały przez odwołującego wycofane, a w postępowaniu odwoławczym po stronie zamawiającego nie przystąpił żaden wykonawca albo uczestnik postępowania odwoławczego, który przystąpił do postępowania po stronie zamawiającego, nie wniósł sprzeciwu wobec uwzględnienia przez zamawiającego w części zarzutów przedstawionych w odwołaniu
-w takim przypadku Izba zasądza od zamawiającego na rzecz odwołującego równowartość kwoty wpisu oraz koszty, o których mowa w § 5 pkt 2;
+uwzględnił on w części zarzuty przedstawione w odwołaniu i pozostałe zarzuty zostały przez odwołującego wycofane, a w postępowaniu odwoławczym po stronie zamawiającego nie przystąpił żaden wykonawca albo uczestnik postępowania odwoławczego, który przystąpił do postępowania po stronie zamawiającego, nie wniósł sprzeciwu wobec uwzględnienia przez zamawiającego w części zarzutów przedstawionych w odwołaniu – w takim przypadku Izba zasądza od zamawiającego na rzecz odwołującego równowartość kwoty wpisu oraz koszty, o których mowa w § 5 pkt 2;
 2)
 koszty, o których mowa w § 5 pkt 2, znosi się wzajemnie, jeżeli przed otwarciem rozprawy zamawiający uwzględnił:
 a)
 w całości zarzuty przedstawione w odwołaniu, a w postępowaniu odwoławczym po stronie zamawiającego nie przystąpił żaden wykonawca albo uczestnik postępowania odwoławczego, który przystąpił do postępowania po stronie zamawiającego, nie wniósł sprzeciwu wobec uwzględnienia przez zamawiającego w całości zarzutów przedstawionych w odwołaniu,
 b)
-w części zarzuty przedstawione w odwołaniu i pozostałe zarzuty zostały przez odwołującego wycofane, a w postępowaniu odwoławczym po stronie zamawiającego nie przystąpił żaden wykonawca albo uczestnik postępowania odwoławczego, który przystąpił po stronie zamawiającego, nie wniósł sprzeciwu wobec uwzględnienia przez zamawiającego w części zarzutów przedstawionych w odwołaniu
-w takim przypadku Izba orzeka o dokonaniu zwrotu odwołującemu z rachunku Urzędu kwoty uiszczonej tytułem wpisu;
+w części zarzuty przedstawione w odwołaniu i pozostałe zarzuty zostały przez odwołującego wycofane, a w postępowaniu odwoławczym po stronie zamawiającego nie przystąpił żaden wykonawca albo uczestnik postępowania odwoławczego, który przystąpił po stronie zamawiającego, nie wniósł sprzeciwu wobec uwzględnienia przez zamawiającego w części zarzutów przedstawionych w odwołaniu – w takim przypadku Izba orzeka o dokonaniu zwrotu odwołującemu z rachunku Urzędu kwoty uiszczonej tytułem wpisu;
 3)
 na skutek cofnięcia odwołania przed otwarciem rozprawy:
 a)
@@ -178,5 +175,5 @@ w przypadkach, o których mowa w § 8 ust. 2 pkt 2 i 3 oraz § 9 ust. 1 pkt 3 li
 § 11.
 Orzekając o kosztach postępowania odwoławczego w sprawie odwołań skierowanych do łącznego rozpoznania, Izba stosuje odpowiednio przepisy § 6–10.
 § 12.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 15 marca 2010 r. w sprawie wysokości i sposobu pobierania wpisu od odwołania oraz rodzajów kosztów w postępowaniu odwoławczym i sposobu ich rozliczania (Dz. U. z 2018 r. poz. 972), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 15 marca 2010 r. w sprawie wysokości i sposobu pobierania wpisu od odwołania oraz rodzajów kosztów w postępowaniu odwoławczym i sposobu ich rozliczania (Dz. U. z 2018 r. poz. 972), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 97 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275).
 

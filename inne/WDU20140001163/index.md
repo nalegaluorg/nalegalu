@@ -34,20 +34,17 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży (Dz. U. poz. 293), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Środowiska z dnia 24 grudnia 2013 r. zmieniającym rozporządzenie w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży (Dz. U. z 2014 r. poz. 72).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 24 grudnia 2013 r. zmieniającego rozporządzenie w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży (Dz. U. z 2014 r. poz. 72), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 24 grudnia 2013 r. zmieniającego rozporządzenie w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży (Dz. U. z 2014 r. poz. 72), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży
-Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu z siedzibą w BiałowieżyMinister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 248, poz. 1493 i Nr 284, poz. 1671).
+Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002 i 1101.) zarządza się, co następuje:
 § 1.
 Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży nadaje się statut, który stanowi załącznik do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 248, poz. 1493 i Nr 284, poz. 1671). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002 i 1101. 3) Rozporządzenie zostało ogłoszone w dniu 5 marca 2013 r. 4) Niniejsze rozporządzenie było poprzedzone zarządzeniem Nr 34 Ministra Środowiska z dnia 31 maja 2011 r. w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ Nr 2, poz. 33), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. Nr 224, poz. 1337).
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 5 marca 2013 r..Niniejsze rozporządzenie było poprzedzone zarządzeniem Nr 34 Ministra Środowiska z dnia 31 maja 2011 r. w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ Nr 2, poz. 33), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. Nr 224, poz. 1337). 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 248, poz. 1493 i Nr 284, poz. 1671). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926, 1002 i 1101. 3) Rozporządzenie zostało ogłoszone w dniu 5 marca 2013 r. 4) Niniejsze rozporządzenie było poprzedzone zarządzeniem Nr 34 Ministra Środowiska z dnia 31 maja 2011 r. w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ Nr 2, poz. 33), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. Nr 224, poz. 1337).
 
-## Załącznik nr 1 — – Statut Białowieskiego Parku Narodowego z siedzibą w Białowieży
+## Załącznik nr 1 — – Statut Białowieskiego Parku Narodowego z siedzibą w BiałowieżyW brzmieniu ustalonym przez § 1 rozporządzenia Ministra Środowiska z dnia 24 grudnia 2013 r. zmieniającego rozporządzenie w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży (Dz. U. z 2014 r. poz. 72), które weszło w życie z dniem 30 stycznia 2014 r.
 
 § 1.
 Białowieski Park Narodowy z siedzibą w Białowieży, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.) oraz niniejszego statutu.
@@ -106,5 +103,5 @@ Dyrektor Parku kieruje działalnością Parku przy pomocy zastępcy lub zastępc
 § 5.
 W razie nieobecności dyrektora Parku lub czasowej niezdolności do wykonywania przez niego obowiązków, działalnością Parku kieruje i reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.
 § 6.
-Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie.
+Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie. 5) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Środowiska z dnia 24 grudnia 2013 r. zmieniającego rozporządzenie w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży (Dz. U. z 2014 r. poz. 72), które weszło w życie z dniem 30 stycznia 2014 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Edukacji Narodowejz dnia 27 sierpnia 2019 r. w sprawie kolegium arbitrażu egzaminacyjnego
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 27 sierpnia 2019 r. w sprawie kolegium arbitrażu egzaminacyjnego Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-27 |
 | Data wydania | 2019-08-29 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001647) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1647/text.pdf) |
 
@@ -110,8 +109,7 @@ nie toczy się przeciwko niemu postępowanie karne w sprawie o umyślne przestę
 c)
 nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe,
 d)
-nie był prawomocnie ukarany karą dyscyplinarną
-w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 2 i ust. 4 pkt 3 i 4 ustawy;
+nie był prawomocnie ukarany karą dyscyplinarną – w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 2 i ust. 4 pkt 3 i 4 ustawy;
 6)
 oświadczenie kandydata, że nie jest zatrudniony w Centralnej Komisji Egzaminacyjnej lub okręgowej komisji egzaminacyjnej;
 7)
@@ -134,8 +132,7 @@ Do odwołań, o których mowa w art. 44zzz ust. 7 ustawy albo art. 44zzzt ust. 7
 § 10.
 Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 11 października 2016 r. w sprawie Kolegium Arbitrażu Egzaminacyjnego (Dz. U. poz. 1710).
 § 11.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
 
 ## Załącznik nr 1 — – Stawki za jedno zadanie egzaminacyjne rozpatrywane w ramach odwołania
 

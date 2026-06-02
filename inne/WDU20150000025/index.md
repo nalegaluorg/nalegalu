@@ -22,45 +22,35 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-10 |
 | Data wydania | 2015-01-08 |
-| Wejście w życie | 2015-01-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000025) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/25/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 20 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 20 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 644, 768 i 962.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Infrastruktury z dnia 12 października 2005 r. w sprawie ogólnych warunków technicznych eksploatacji pojazdów kolejowych (Dz. U. Nr 212, poz. 1771 oraz z 2007 r. Nr 212, poz. 1567) wprowadza się następujące zmiany:
 1)
-w § 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
-„
+w § 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 3)
-struktura cyklu przeglądowo-naprawczego – kolejność występowania po sobie poszczególnych rodzajów przeglądów i napraw wykonywanych w ramach procesu utrzymania pojazdu kolejowego.
-” ;
+struktura cyklu przeglądowo-naprawczego – kolejność występowania po sobie poszczególnych rodzajów przeglądów i napraw wykonywanych w ramach procesu utrzymania pojazdu kolejowego. ” ;
 2)
-§ 8 otrzymuje brzmienie:
-„
+§ 8 otrzymuje brzmienie: „
 § 8.
-Podmioty odpowiedzialne za utrzymanie pojazdu kolejowego (ECM), przewoźnicy kolejowi, zarządcy infrastruktury, dysponenci, przedsiębiorcy zarządzający infrastrukturą i wykonujący przewozy w metrze, użytkownicy bocznic kolejowych oraz przedsiębiorcy wykonujący przewozy w obrębie bocznicy kolejowej powinni prowadzić dokumentację związaną z procesem utrzymania pojazdów kolejowych oraz zapewniać zgodność procesu utrzymania z wymaganiami zawartymi w dokumentacji systemu utrzymania.
-” ;
+Podmioty odpowiedzialne za utrzymanie pojazdu kolejowego (ECM), przewoźnicy kolejowi, zarządcy infrastruktury, dysponenci, przedsiębiorcy zarządzający infrastrukturą i wykonujący przewozy w metrze, użytkownicy bocznic kolejowych oraz przedsiębiorcy wykonujący przewozy w obrębie bocznicy kolejowej powinni prowadzić dokumentację związaną z procesem utrzymania pojazdów kolejowych oraz zapewniać zgodność procesu utrzymania z wymaganiami zawartymi w dokumentacji systemu utrzymania. ” ;
 3)
 w § 13:
 a)
-w ust. 1 w pkt 2 po lit. a dodaje się lit. aa w brzmieniu:
-„
+w ust. 1 w pkt 2 po lit. a dodaje się lit. aa w brzmieniu: „
 aa)
-strukturę cyklu przeglądowo-naprawczego,
-” ,
+strukturę cyklu przeglądowo-naprawczego, ” ,
 b)
-po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
-„
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
 1a.
 Strukturę cyklu przeglądowo-naprawczego wyraża się w kilometrach i jednostkach czasu, zgodnie z poziomami utrzymania pojazdu kolejowego określonymi w załączniku nr 3 do rozporządzenia, przy czym dla poziomów utrzymania pojazdu kolejowego 4 i 5 należy wskazać wartości maksymalne.
 1b.
-Dla poziomów utrzymania pojazdu kolejowego 1 i 2 określonych w załączniku nr 3 do rozporządzenia strukturę cyklu przeglądowo-naprawczego można wyrazić w kilometrach albo jednostkach czasu.
-” ;
+Dla poziomów utrzymania pojazdu kolejowego 1 i 2 określonych w załączniku nr 3 do rozporządzenia strukturę cyklu przeglądowo-naprawczego można wyrazić w kilometrach albo jednostkach czasu. ” ;
 4)
-§ 17 otrzymuje brzmienie:
-„
+§ 17 otrzymuje brzmienie: „
 § 17.
 1.
 Warunkiem eksploatacji pojazdu kolejowego jest posiadanie zatwierdzonej przez Prezesa Urzędu Transportu Kolejowego dokumentacji systemu utrzymania pojazdu kolejowego.
@@ -79,12 +69,11 @@ W przypadku pojazdów kolejowych niepodlegających obowiązkowi wpisu do krajowe
 8.
 W przypadkach, o których mowa w ust. 6 i 7, jeżeli dokumentacja systemu utrzymania podlega zatwierdzeniu przez Prezesa Urzędu Transportu Kolejowego, przepisy ust. 2–5 stosuje się odpowiednio.
 9.
-Przepisów ust. 1–8 nie stosuje się do dokumentacji systemu utrzymania wagonów towarowych objętych procesem utrzymania realizowanym przez podmiot odpowiedzialny za utrzymanie pojazdu kolejowego (ECM), który posiada certyfikat wydany zgodnie z rozporządzeniem Komisji (UE) nr 445/2011 z dnia 10 maja 2011 r. w sprawie systemu certyfikacji podmiotów odpowiedzialnych za utrzymanie w zakresie obejmującym wagony towarowe oraz zmieniającym rozporządzenie (WE) nr 653/2007 (Dz. Urz. UE L 122 z 11.05.2011, str. 22, z późn. zm.).
-” .
+Przepisów ust. 1–8 nie stosuje się do dokumentacji systemu utrzymania wagonów towarowych objętych procesem utrzymania realizowanym przez podmiot odpowiedzialny za utrzymanie pojazdu kolejowego (ECM), który posiada certyfikat wydany zgodnie z rozporządzeniem Komisji (UE) nr 445/2011 z dnia 10 maja 2011 r. w sprawie systemu certyfikacji podmiotów odpowiedzialnych za utrzymanie w zakresie obejmującym wagony towarowe oraz zmieniającym rozporządzenie (WE) nr 653/2007 (Dz. Urz. UE L 122 z 11.05.2011, str. 22, z późn. zm.). ” .
 § 2.
 Wnioski o zatwierdzanie dokumentacji systemu utrzymania wagonów towarowych objętych procesem utrzymania realizowanym przez podmioty odpowiedzialne za utrzymanie pojazdu kolejowego (ECM), które posiadają certyfikat wydany zgodnie z rozporządzeniem (UE) nr 445/2011 z dnia 10 maja 2011 r. w sprawie systemu certyfikacji podmiotów odpowiedzialnych za utrzymanie w zakresie obejmującym wagony towarowe oraz zmieniającym rozporządzenie Komisji (WE) nr 653/2007, złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia, pozostawia się bez rozpoznania.
 § 3.
 Wnioski o zatwierdzanie dokumentacji systemu utrzymania pojazdów kolejowych innych niż określone w § 2, złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia, podlegają rozpatrzeniu na podstawie przepisów dotychczasowych.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 644, 768 i 962.
 

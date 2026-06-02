@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sprawiedliwości Oraz Ministra Spraw Wewnętrznych i Administracjiz dnia 11 września 2020 r. w sprawie zakresu informacji i danych osobowych w Centralnej Bazie Danych Osób Pozbawionych Wolności, do których bezpośredni dostęp posiada punkt kontaktowy, o którym mowa w art. 4 ust. 1 ustawy o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
+# Rozporządzenie Ministra Sprawiedliwości Oraz Ministra Spraw Wewnętrznych i Administracjiz dnia 11 września 2020 r. w sprawie zakresu informacji i danych osobowych w Centralnej Bazie Danych Osób Pozbawionych Wolności, do których bezpośredni dostęp posiada punkt kontaktowy, o którym mowa w art. 4 ust. 1 ustawy o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-09-11 |
 | Data wydania | 2020-09-22 |
-| Wejście w życie | 2020-09-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001629) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1629/text.pdf) |
 
@@ -53,6 +52,5 @@ odnoszą się do widzeń na terenie zakładów karnych i aresztów śledczych,
 b)
 dotyczą rodziny oraz innych osób bliskich dla osadzonych.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 

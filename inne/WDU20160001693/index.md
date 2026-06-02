@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 5 października 2016 r. w sprawie dokumentów związanych z zawieraniem i wykonywaniem umów ubezpieczenia sporządzanych w postaci elektronicznej
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 5 października 2016 r. w sprawie dokumentów związanych z zawieraniem i wykonywaniem umów ubezpieczenia sporządzanych w postaci elektronicznej Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-05 |
 | Data wydania | 2016-10-14 |
-| Wejście w życie | 2016-10-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001693) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1693/text.pdf) |
 
@@ -73,6 +72,5 @@ stosowania systemów zabezpieczeń ze szczególnym uwzględnieniem zapewnienia k
 4)
 opracowania sposobów działania w celu eliminacji naruszania bezpieczeństwa oraz bieżącego kontrolowania funkcjonowania wszystkich organizacyjnych i techniczno-informatycznych sposobów zabezpieczenia, a także okresowego dokonywania oceny tych sposobów.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 31 października 2003 r. w sprawie szczegółowych zasad tworzenia, utrwalania, przechowywania i zabezpieczania dokumentów związanych z zawieraniem i wykonywaniem umów ubezpieczenia (Dz. U. poz. 1889), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 31 października 2003 r. w sprawie szczegółowych zasad tworzenia, utrwalania, przechowywania i zabezpieczania dokumentów związanych z zawieraniem i wykonywaniem umów ubezpieczenia (Dz. U. poz. 1889), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 31 października 2003 r. w sprawie szczegółowych zasad tworzenia, utrwalania, przechowywania i zabezpieczania dokumentów związanych z zawieraniem i wykonywaniem umów ubezpieczenia (Dz. U. poz. 1889), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 484 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615).
 

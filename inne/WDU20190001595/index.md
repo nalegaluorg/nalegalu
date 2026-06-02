@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 31 lipca 1997 r. o Polskiej Agencji Prasowej (Dz. U. z 2017 r. poz. 643), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 listopada 2018 r. o zmianie ustawy o Polskiej Agencji Prasowej (Dz. U. poz. 2265) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2019 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Polskiej Agencji Prasowej (Dz. U. poz. 2265), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Polskiej Agencji Prasowej (Dz. U. poz. 2265), który stanowi: „
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 31 lipca 1997 r. o Polskiej Agencji Prasowej
 
@@ -94,13 +93,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 5. W Walnym Zgromadzeniu mają prawo uczestniczyć także członkowie Rady Mediów Narodowych.
 
-6. (uchylony)
-
-7. W przypadku przeniesienia całego majątku spółki powstałej w wyniku komercjalizacji, zwanej dalej „spółką przejmowaną”, na Spółkę osoby uprawnione do nieodpłatnego nabycia od Skarbu Państwa udziałów albo akcji spółki przejmowanej, w miejsce prawa do nieodpłatnego nabycia udziałów albo akcji spółki przejmowanej, mogą skorzystać z prawa do nieodpłatnego nabycia akcji objętych przez Skarb Państwa w wyniku przejęcia.
-
-8. Do nieodpłatnego nabycia akcji, o którym mowa w ust. 7, stosuje się odpowiednio przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2018 r. poz. 2170 oraz z 2019 r. poz. 492).
-
-9. Osobą uprawnioną do nieodpłatnego nabycia akcji, o którym mowa w ust. 7, jest pracownik spółki przejmowanej, który spełnia warunki określone w art. 2 pkt 5 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników i złożył oświadczenie o zamiarze nabycia akcji na podstawie art. 38 ust. 1 tej ustawy, albo jego spadkobierca, który złożył oświadczenie na podstawie art. 38c ust. 2 albo 3 tej ustawy.
+6. (uchylony) 7Dodany przez art. 1 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Polskiej Agencji Prasowej (Dz. U. poz. 2265), która weszła w życie z dniem 19 grudnia 2018 r.. W przypadku przeniesienia całego majątku spółki powstałej w wyniku komercjalizacji, zwanej dalej „spółką przejmowaną”, na Spółkę osoby uprawnione do nieodpłatnego nabycia od Skarbu Państwa udziałów albo akcji spółki przejmowanej, w miejsce prawa do nieodpłatnego nabycia udziałów albo akcji spółki przejmowanej, mogą skorzystać z prawa do nieodpłatnego nabycia akcji objętych przez Skarb Państwa w wyniku przejęcia. 8Dodany przez art. 1 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Polskiej Agencji Prasowej (Dz. U. poz. 2265), która weszła w życie z dniem 19 grudnia 2018 r.. Do nieodpłatnego nabycia akcji, o którym mowa w ust. 7, stosuje się odpowiednio przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2018 r. poz. 2170 oraz z 2019 r. poz. 492). 9Dodany przez art. 1 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Polskiej Agencji Prasowej (Dz. U. poz. 2265), która weszła w życie z dniem 19 grudnia 2018 r.. Osobą uprawnioną do nieodpłatnego nabycia akcji, o którym mowa w ust. 7, jest pracownik spółki przejmowanej, który spełnia warunki określone w art. 2 pkt 5 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników i złożył oświadczenie o zamiarze nabycia akcji na podstawie art. 38 ust. 1 tej ustawy, albo jego spadkobierca, który złożył oświadczenie na podstawie art. 38c ust. 2 albo 3 tej ustawy.
 
 **Art. 8.**
 
@@ -164,5 +157,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 16.** Traci moc ustawa z dnia 28 lipca 1983 r. o Polskiej Agencji Prasowej (Dz. U. poz. 202).
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 15 września 1997 r.. 1) Dodany przez art. 1 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Polskiej Agencji Prasowej (Dz. U. poz. 2265), która weszła w życie z dniem 19 grudnia 2018 r. 2) Ustawa została ogłoszona w dniu 15 września 1997 r.
 

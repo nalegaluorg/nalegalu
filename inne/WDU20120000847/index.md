@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-10 |
 | Data wydania | 2012-07-24 |
-| Wejście w życie | 2012-08-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000847) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/847/text.pdf) |
 
@@ -128,5 +127,5 @@ okres trwania zawieszenia lub ograniczenia;
 3)
 warunki przywrócenia dotychczasowego zakresu akredytacji.
 § 12.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 marca 2007 r. w sprawie sposobu prowadzenia nadzoru nad jednostkami badawczymi i jednostkami certyfikującymi (Dz. U. Nr 69, poz. 460), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 5 ustawy z dnia 25 lutego 2011 r. o zmianie ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. Nr 92, poz. 528). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 marca 2007 r. w sprawie sposobu prowadzenia nadzoru nad jednostkami badawczymi i jednostkami certyfikującymi (Dz. U. Nr 69, poz. 460), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 5 ustawy z dnia 25 lutego 2011 r. o zmianie ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. Nr 92, poz. 528).
 

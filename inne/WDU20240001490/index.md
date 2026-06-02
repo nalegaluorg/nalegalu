@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 16 października 2009 r. w sprawie rodzaju urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu w zakładach karnych (Dz. U. poz. 1360), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 9 grudnia 2022 r. zmieniającym rozporządzenie w sprawie rodzaju urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu w zakładach karnych (Dz. U. poz. 2617).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 9 grudnia 2022 r. zmieniającego rozporządzenie w sprawie rodzaju urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu w zakładach karnych (Dz. U. poz. 2617), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 9 grudnia 2022 r. zmieniającego rozporządzenie w sprawie rodzaju urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu w zakładach karnych (Dz. U. poz. 2617), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwosci z dnia 16 października 2009 r. w sprawie rodzaju urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu w zakładach karnych
 Na podstawie art. 73a § 10 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2024 r. poz. 706) zarządza się, co następuje:
 § 1.
@@ -61,7 +59,7 @@ monitory i urządzenia przetwarzające sygnały wizyjne na obrazy wyświetlane n
 urządzenia utrwalające obraz lub dźwięk, magnetofony oraz rejestratory cyfrowe.
 3.
 Dostęp do urządzeń utrwalających obraz lub dźwięk jest kontrolowany, możliwy tylko dla osób uprawnionych.
-4.
+4W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 9 grudnia 2022 r. zmieniającego rozporządzenie w sprawie rodzaju urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu w zakładach karnych (Dz. U. poz. 2617), które weszło w życie z dniem 1 stycznia 2023 r..
 System telewizji przemysłowej służący stałemu monitorowaniu zachowania skazanego, o którym mowa w art. 88c i art. 212b § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, jest przystosowany do pracy ciągłej i posiada właściwe zabezpieczenia w przypadku zaniku napięcia zasilającego.
 § 3.
 Urządzenia systemu telewizji przemysłowej muszą spełniać poniższe wymagania:
@@ -106,5 +104,5 @@ Dyrektor zakładu udostępnia zapis na pisemny wniosek uprawnionego podmiotu.
 2.
 W wypadku utrwalenia obrazu lub dźwięku wskazującego na popełnienie przestępstwa do zawiadomienia kierowanego do prokuratury lub Policji o podejrzeniu popełnienia przestępstwa dołącza się zapis.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 22 października 2009 r.
+Rozporządzenie wchodzi w życie z dniem 22 października 2009 r. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 9 grudnia 2022 r. zmieniającego rozporządzenie w sprawie rodzaju urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu w zakładach karnych (Dz. U. poz. 2617), które weszło w życie z dniem 1 stycznia 2023 r.
 

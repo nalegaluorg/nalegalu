@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarkiz dnia 3 czerwca 2015 r. w sprawie udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców w ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020
+# Rozporządzenie Ministra Gospodarkiz dnia 3 czerwca 2015 r. w sprawie udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców w ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020 Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-03 |
 | Data wydania | 2015-06-11 |
-| Wejście w życie | 2015-06-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000787) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/787/text.pdf) |
 
@@ -102,7 +101,7 @@ Dofinansowanie kosztów, o których mowa w ust. 1, odbywa się zgodnie z zasadam
 § 7.
 Pomoc jest udzielana w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020.
 § 8.
-Pomoc jest udzielana do końca okresu obowiązywania mapy pomocy regionalnej na lata 2014–2020 określonej na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
+Pomoc jest udzielana do końca okresu obowiązywania mapy pomocy regionalnej na lata 2014–2020 określonej na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.).
 § 9.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 

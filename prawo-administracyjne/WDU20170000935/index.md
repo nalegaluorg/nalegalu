@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 7 kwietnia 2017 r. o zmianie ustawy – Kodeks postępowania administracyjnego oraz niektórych innych ustaw
+# Ustawa z dnia 7 kwietnia 2017 r. o zmianie ustawy – Kodeks postępowania administracyjnego oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych oraz ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-07 |
 | Data wydania | 2017-05-12 |
-| Wejście w życie | 2017-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000935) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/935/text.pdf) |
 
+Mediacja
+Milczące załatwienie sprawy
+Postępowanie uproszczone
 § 1.
 Organ administracji publicznej załatwia sprawę w postępowaniu uproszczonym, jeżeli przepis szczególny tak stanowi.
 § 2.
@@ -46,11 +48,12 @@ Postępowanie dowodowe jest ograniczone do dowodów zgłoszonych przez stronę, 
 § 2.
 W sprawach rozpoznawanych w postępowaniu uproszczonym nie stosuje się przepisu art. 81.
 Uzasadnienie decyzji wydanej w postępowaniu uproszczonym może ograniczać się do wskazania faktów, które organ administracji publicznej uznał za udowodnione, oraz przytoczenia przepisów prawa stanowiących podstawę prawną decyzji.
-Postanowienia wydane w postępowaniu uproszczonym można zaskarżyć tylko w odwołaniu od decyzji, z wyjątkiem postanowień wydanych po wydaniu decyzji, postanowień o zawieszeniu lub odmowie podjęcia zawieszonego postępowania oraz postanowień, w odniesieniu do których możliwość ich zaskarżenia przewidują przepisy szczególne.
-” ;
+Postanowienia wydane w postępowaniu uproszczonym można zaskarżyć tylko w odwołaniu od decyzji, z wyjątkiem postanowień wydanych po wydaniu decyzji, postanowień o zawieszeniu lub odmowie podjęcia zawieszonego postępowania oraz postanowień, w odniesieniu do których możliwość ich zaskarżenia przewidują przepisy szczególne. ” ;
 41)
-po dziale IV dodaje się dział IVa w brzmieniu:
-„
+po dziale IV dodaje się dział IVa w brzmieniu: „
+Administracyjne kary pieniężne
+Europejska współpraca administracyjna
+Sprzeciw od decyzji
 
 **Art. 1.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996, 1579 i 2138) wprowadza się następujące zmiany:
 
@@ -216,7 +219,7 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 
 - **20)** w dziale II po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Mediacja
+#### Rozdział 5a
 
 **Art. 96a.**
 
@@ -238,7 +241,7 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 § 3. W zawiadomieniu o możliwości przeprowadzenia mediacji organ administracji publicznej zwraca się do stron o:
 
 - **1)** wyrażenie zgody na przeprowadzenie mediacji,
-- **2)** wybranie mediatora w terminie czternastu dni od dnia doręczenia zawiadomienia.
+- **2)** wybranie mediatora – w terminie czternastu dni od dnia doręczenia zawiadomienia.
 
 § 4. Zawiadomienie o możliwości przeprowadzenia mediacji zawiera pouczenie o zasadach prowadzenia mediacji oraz ponoszenia jej kosztów. Mediacji nie przeprowadza się w przypadku niewyrażenia zgody na przeprowadzenie mediacji w terminie, o którym mowa w art. 96b § 3.
 
@@ -358,7 +361,7 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 
 - **30)** w dziale II po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Milczące załatwienie sprawy
+#### Rozdział 8a
 
 **Art. 122a.**
 
@@ -446,9 +449,9 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 
 - **40)** w dziale II dodaje się rozdział 14 w brzmieniu: „
 
-#### Rozdział 14 Postępowanie uproszczone
+#### Rozdział 14
 
-### Dział IVa Administracyjne kary pieniężne
+### Dział IVa
 
 **Art. 189a.**
 
@@ -461,7 +464,7 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 - **3)** terminów przedawnienia nakładania administracyjnej kary pieniężnej,
 - **4)** terminów przedawnienia egzekucji administracyjnej kary pieniężnej,
 - **5)** odsetek od zaległej administracyjnej kary pieniężnej,
-- **6)** udzielania ulg w wykonaniu administracyjnej kary pieniężnej przepisów niniejszego działu w tym zakresie nie stosuje się.
+- **6)** udzielania ulg w wykonaniu administracyjnej kary pieniężnej – przepisów niniejszego działu w tym zakresie nie stosuje się.
 
 § 3. W sprawach nakładania lub wymierzania przez organ administracji publicznej kar na podstawie przepisów o postępowaniu w sprawach o wykroczenia, odpowiedzialności dyscyplinarnej, porządkowej lub z tytułu naruszenia dyscypliny finansów publicznych, przepisów niniejszego działu nie stosuje się. Przez administracyjną karę pieniężną rozumie się określoną w ustawie sankcję o charakterze pieniężnym, nakładaną przez organ administracji publicznej, w drodze decyzji, w następstwie naruszenia prawa polegającego na niedopełnieniu obowiązku albo naruszeniu zakazu ciążącego na osobie fizycznej, osobie prawnej albo jednostce organizacyjnej nieposiadającej osobowości prawnej. Jeżeli w czasie wydawania decyzji w sprawie administracyjnej kary pieniężnej obowiązuje ustawa inna niż w czasie naruszenia prawa, w następstwie którego ma być nałożona kara, stosuje się ustawę nową, jednakże należy stosować ustawę obowiązującą poprzednio, jeżeli jest ona względniejsza dla strony. Wymierzając administracyjną karę pieniężną, organ administracji publicznej bierze pod uwagę:
 
@@ -553,7 +556,7 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 
 - **42)** po dziale VIII dodaje się dział VIIIa w brzmieniu: „
 
-### Dział VIIIa Europejska współpraca administracyjna
+### Dział VIIIa
 
 **Art. 260a.**
 
@@ -609,7 +612,7 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 
 **Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648 i 768) w art. 14e w § 1a pkt 1 otrzymuje brzmienie: „
 
-- **1)** zmienić interpretację indywidualną w wyniku uwzględnienia skargi do sądu administracyjnego na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2016 r. poz. 718, z późn. zm.); ” .
+- **1)** zmienić interpretację indywidualną w wyniku uwzględnienia skargi do sądu administracyjnego na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2016 r. poz. 718, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 996, 1579, 1948, 2103 i 2261 oraz z 2017 r. poz. 935.); ” .
 
 **Art. 6.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2016 r. poz. 486, 1948 i 2260 oraz z 2017 r. poz. 730) wprowadza się następujące zmiany:
 
@@ -637,7 +640,7 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 
 3. Do kar, o których mowa w art. 123, nie stosuje się przepisów art. 189e oraz art. 189f § 2 i 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. ” .
 
-**Art. 9.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2016 r. poz. 718, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2016 r. poz. 718, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 996, 1579, 1948, 2103 i 2261.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 po § 2 dodaje się § 2a w brzmieniu: „
 
@@ -687,7 +690,7 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 - **6)** w art. 57 w § 1 uchyla się pkt 4;
 - **7)** w dziale III po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
 
-#### Rozdział 3a Sprzeciw od decyzji
+#### Rozdział 3a
 
 **Art. 64a.** Od decyzji, o której mowa w art. 138 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, skarga nie przysługuje, jednakże strona niezadowolona z treści decyzji może wnieść od niej sprzeciw, zwany dalej „sprzeciwem od decyzji”.
 
@@ -785,13 +788,13 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 
 - **2)** uchyla się ust. 3.
 
-**Art. 12.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.) w art. 67 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Do spraw dotyczących administracyjnych kar pieniężnych stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. ” . W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948) art. 3 otrzymuje brzmienie: „ Do postępowań sprawdzających, kontrolnych postępowań sprawdzających oraz postępowań bezpieczeństwa przemysłowego, w zakresie nieuregulowanym w ustawie, mają zastosowanie przepisy art. 6, art. 7, art. 8, art. 12, art. 14–16, art. 24 § 1 pkt 1–6 i § 2–4, art. 26 § 1, art. 28, art. 29, art. 30 § 1–3, art. 35 § 1, art. 39, art. 41–47, art. 50, art. 55, art. 57–60, art. 61 § 3 i 4, art. 63 § 4, art. 64, art. 65, art. 72, art. 75 § 1, art. 77 § 1, art. 97 § 1 pkt 4 i § 2, art. 98, art. 101, art. 103, art. 104, art. 105 § 2, art. 107, art. 109 § 1, art. 112, art. 113 § 1, art. 125 § 1, art. 156–158 oraz art. 217 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996, 1579 i 2138 oraz z 2017 r. poz. 935). ” .
+**Art. 12.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659 i 933.) w art. 67 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Do spraw dotyczących administracyjnych kar pieniężnych stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. ” . W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948) art. 3 otrzymuje brzmienie: „ Do postępowań sprawdzających, kontrolnych postępowań sprawdzających oraz postępowań bezpieczeństwa przemysłowego, w zakresie nieuregulowanym w ustawie, mają zastosowanie przepisy art. 6, art. 7, art. 8, art. 12, art. 14–16, art. 24 § 1 pkt 1–6 i § 2–4, art. 26 § 1, art. 28, art. 29, art. 30 § 1–3, art. 35 § 1, art. 39, art. 41–47, art. 50, art. 55, art. 57–60, art. 61 § 3 i 4, art. 63 § 4, art. 64, art. 65, art. 72, art. 75 § 1, art. 77 § 1, art. 97 § 1 pkt 4 i § 2, art. 98, art. 101, art. 103, art. 104, art. 105 § 2, art. 107, art. 109 § 1, art. 112, art. 113 § 1, art. 125 § 1, art. 156–158 oraz art. 217 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996, 1579 i 2138 oraz z 2017 r. poz. 935). ” .
 
 **Art. 14.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2017 r. poz. 562, 624 i 892) wprowadza się następujące zmiany:
 
 - **1)** w art. 19 ust. 2 otrzymuje brzmienie: „
 
-2. Wyczerpanie środków w ramach danego limitu środków określonego na dany rok w rozporządzeniu wydanym na podstawie art. 18 nie stanowi przeszkody w przyznaniu pomocy na daną operację, jeżeli w wyniku wniesienia odwołania od decyzji o odmowie przyznania pomocy albo uwzględnienia przez właściwy organ na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2016 r. poz. 718, z późn. zm.) skargi na taką decyzję, albo uwzględnienia przez właściwy podmiot wdrażający na podstawie art. 54 § 3 tej ustawy skargi na odmowę przyznania pomocy, albo uwzględnienia przez sąd administracyjny skargi na taką decyzję albo na odmowę przyznania pomocy przez podmiot wdrażający odpowiednio właściwy organ albo podmiot wdrażający ustali, że są spełnione pozostałe warunki przyznania pomocy na tę operację, a kryteria wyboru operacji są spełnione w takim stopniu, że pomoc na tę operację powinna zostać przyznana, oraz jeżeli są dostępne środki w ramach limitu środków określonego na kolejny rok lub lata w rozporządzeniu wydanym na podstawie art. 18 w odniesieniu do danego województwa lub działania, poddziałania, typu operacji albo zakresu wsparcia. ” ;
+2. Wyczerpanie środków w ramach danego limitu środków określonego na dany rok w rozporządzeniu wydanym na podstawie art. 18 nie stanowi przeszkody w przyznaniu pomocy na daną operację, jeżeli w wyniku wniesienia odwołania od decyzji o odmowie przyznania pomocy albo uwzględnienia przez właściwy organ na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2016 r. poz. 718, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 996, 1579, 1948, 2103 i 2261 oraz z 2017 r. poz. 935.) skargi na taką decyzję, albo uwzględnienia przez właściwy podmiot wdrażający na podstawie art. 54 § 3 tej ustawy skargi na odmowę przyznania pomocy, albo uwzględnienia przez sąd administracyjny skargi na taką decyzję albo na odmowę przyznania pomocy przez podmiot wdrażający odpowiednio właściwy organ albo podmiot wdrażający ustali, że są spełnione pozostałe warunki przyznania pomocy na tę operację, a kryteria wyboru operacji są spełnione w takim stopniu, że pomoc na tę operację powinna zostać przyznana, oraz jeżeli są dostępne środki w ramach limitu środków określonego na kolejny rok lub lata w rozporządzeniu wydanym na podstawie art. 18 w odniesieniu do danego województwa lub działania, poddziałania, typu operacji albo zakresu wsparcia. ” ;
 
 - **2)** art. 19a otrzymuje brzmienie: „
 
@@ -804,5 +807,5 @@ po dziale IV dodaje się dział IVa w brzmieniu:
 
 **Art. 16.** Do postępowań administracyjnych wszczętych i niezakończonych przed dniem wejścia niniejszej ustawy ostateczną decyzją lub postanowieniem stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, z tym że do tych postępowań stosuje się przepisy art. 96a-96n ustawy zmienianej w art. 1. 1. Do postępowań przed sądami administracyjnymi, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 9, w brzmieniu dotychczasowym. 2. Przepisy art. 52 i art. 53 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, oraz przepisy ustaw zmienianych w art. 2, art. 6, art. 7 i art. 11, w brzmieniu nadanym niniejszą ustawą, stosuje się do aktów i czynności organów administracji publicznej dokonanych po dniu wejścia w życie niniejszej ustawy. 3. Przepisy art. 116–116e ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, stosuje się również do postępowań przed sądami administracyjnymi wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, chyba że postępowanie mediacyjne zostało wszczęte na podstawie przepisów ustawy zmienianej w art. 9, w brzmieniu dotychczasowym.
 
-**Art. 18.** Ustawa wchodzi w życie z dniem 1 czerwca 2017 r.
+**Art. 18.** Ustawa wchodzi w życie z dniem 1 czerwca 2017 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych oraz ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 996, 1579, 1948, 2103 i 2261 oraz z 2017 r. poz. 935. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 996, 1579, 1948, 2103 i 2261. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659 i 933. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 996, 1579, 1948, 2103 i 2261 oraz z 2017 r. poz. 935.
 

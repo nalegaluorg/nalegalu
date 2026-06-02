@@ -22,26 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-22 |
 | Data wydania | 2015-12-29 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-05-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002271) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2271/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 137 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 137 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 3 grudnia 2010 r. w sprawie sposobu finansowania zadań realizowanych w ramach międzynarodowej współpracy z zakresu wewnętrznego i zewnętrznego bezpieczeństwa państwa, wynikających z umów i porozumień (Dz. U. Nr 237, poz. 1568) w § 3 wprowadza się następujące zmiany:
 1)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Zadania, o których mowa w § 1, mogą być finansowane z budżetu państwa, z części pozostających w dyspozycji Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw zagranicznych, wojewodów, Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Agencji Wywiadu, a także z Funduszu Modernizacji Sił Zbrojnych, o którym mowa w art. 11 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 1716).
-” ;
+Zadania, o których mowa w § 1, mogą być finansowane z budżetu państwa, z części pozostających w dyspozycji Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw zagranicznych, wojewodów, Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Agencji Wywiadu, a także z Funduszu Modernizacji Sił Zbrojnych, o którym mowa w art. 11 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 1716). ” ;
 2)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
-Wpływy za wsparcie udzielone wojskom obcym, zarówno w roku budżetowym, jak i w poprzednich latach budżetowych, są przekazywane na Fundusz Modernizacji Sił Zbrojnych, o którym mowa w art. 11 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
-” .
+Wpływy za wsparcie udzielone wojskom obcym, zarówno w roku budżetowym, jak i w poprzednich latach budżetowych, są przekazywane na Fundusz Modernizacji Sił Zbrojnych, o którym mowa w art. 11 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150.
 

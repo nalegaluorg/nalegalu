@@ -22,20 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-23 |
 | Data wydania | 2012-12-04 |
-| Wejście w życie | 2012-12-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001362) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1362/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2007 r. Nr 42, poz. 274, z 2008 r. Nr 118, poz. 746 oraz z 2009 r. Nr 18, poz. 97) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie wałbrzyskiej specjalnej strefy ekonomicznej (Dz. U. Nr 232, poz. 1561, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie wałbrzyskiej specjalnej strefy ekonomicznej (Dz. U. Nr 232, poz. 1561, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 62, poz. 505, z 2010 r. Nr 29, poz. 149 i Nr 163, poz. 1097 oraz z 2011 r. Nr 204, poz. 1198.) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 2212,2037 ha, położone na terenach miast: Bielawa, Bolesławiec, Dzierżoniów, Kalisz, Kłodzko, Kudowa-Zdrój, Leszno, Nowa Ruda, Oleśnica, Oława, Opole, Piława Górna, Świdnica, Świebodzice, Wałbrzych, Wrocław oraz gmin: Brzeg Dolny, Bystrzyca Kłodzka, Długołęka, Góra, Jarocin, Jelcz-Laskowice, Kluczbork, Kłodzko, Kobierzyce, Kościan, Krotoszyn, Namysłów, Nowa Ruda, Nysa, Oława, Praszka, Prudnik, Rawicz, Skarbimierz, Strzegom, Strzelin, Syców, Szprotawa, Śrem, Świdnica, Twardogóra, Wiązów, Wołów, Września, Ząbkowice Śląskie i Żarów.
-” ;
+Strefa obejmuje grunty o powierzchni 2212,2037 ha, położone na terenach miast: Bielawa, Bolesławiec, Dzierżoniów, Kalisz, Kłodzko, Kudowa-Zdrój, Leszno, Nowa Ruda, Oleśnica, Oława, Opole, Piława Górna, Świdnica, Świebodzice, Wałbrzych, Wrocław oraz gmin: Brzeg Dolny, Bystrzyca Kłodzka, Długołęka, Góra, Jarocin, Jelcz-Laskowice, Kluczbork, Kłodzko, Kobierzyce, Kościan, Krotoszyn, Namysłów, Nowa Ruda, Nysa, Oława, Praszka, Prudnik, Rawicz, Skarbimierz, Strzegom, Strzelin, Syców, Szprotawa, Śrem, Świdnica, Twardogóra, Wiązów, Wołów, Września, Ząbkowice Śląskie i Żarów. ” ;
 2)
 w załączniku do rozporządzenia Szczegółowy opis granic i terenu Wałbrzyskiej Specjalnej Strefy Ekonomicznej INVEST-PARK:
 a)
@@ -85,5 +82,5 @@ opis granic i terenu Podstrefy Oleśnica otrzymuje brzmienie: „ Podstrefa Ole�
 r)
 w Podstrefie Kalisz na końcu dodaje się opis granic i terenu Kompleksu 3 w brzmieniu: „ Kompleks 3 Obszar 1 Obręb ewidencyjny nr 106 Zagorzynek, karta mapy 1, miasto Kalisz Granica biegnie wzdłuż granic działki nr 1/1, stanowiącej obszar 1, od punktu nr 1, położonego w najbardziej na południe wysuniętym punkcie tej działki, w kierunku północno-zachodnim przez punkty nr: 2, 3 i 4 do punktu nr 5. Tu skręca na północny wschód i dochodzi do punktu nr 6. Stąd biegnie na południowy wschód przez punkty nr: 7 i 8 do punktu nr 9, w którym skręca na południe, i przez punkty nr: 14, 13 i 15 dochodzi do punktu nr 1, od którego rozpoczęto opis. Obszar 2 Obręb ewidencyjny nr 0146 Nosków, karta mapy 1, miasto Kalisz Granica biegnie wzdłuż granic działki nr 109, stanowiącej obszar 2, od punktu nr 10, położonego w południowo-zachodnim narożniku tej działki, w kierunku północno-zachodnim do punktu nr 11. Stąd biegnie w kierunku północno-wschodnim do punktu nr 12, w którym skręca na południowy wschód i dochodzi do punktu nr 13. Tu skręca na południowy zachód i dochodzi do punktu nr 10, od którego rozpoczęto opis. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2009 r. Nr 62, poz. 505, z 2010 r. Nr 29, poz. 149 i Nr 163, poz. 1097 oraz z 2011 r. Nr 204, poz. 1198.
 

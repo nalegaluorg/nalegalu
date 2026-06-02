@@ -22,7 +22,6 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-10-12 |
 | Data wydania | 2025-10-20 |
-| Wejście w życie | 2025-11-04 |
 | Ostatnia zmiana | 2026-01-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001408) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1408/text.pdf) |
 

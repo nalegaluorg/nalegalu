@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 grudnia 2021 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz niektórych innych ustaw
+# Ustawa z dnia 17 grudnia 2021 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta oraz ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-17 |
 | Data wydania | 2022-01-12 |
-| Wejście w życie | 2022-01-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/64/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "eli-html"
 1. W przypadku gdy w wyniku szczepienia ochronnego, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 4 pkt 2, art. 17 ust. 10 albo art. 46 ust. 4 pkt 7, u osoby, u której zostało przeprowadzone to szczepienie, wystąpiły w ciągu 5 lat od dnia podania szczepionki albo szczepionek działania niepożądane wymienione w Charakterystyce Produktu Leczniczego, o której mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne, w wyniku których:
 
 - **1)** osoba ta wymagała hospitalizacji przez okres nie krótszy niż 14 dni albo
-- **2)** u osoby tej wystąpił wstrząs anafilaktyczny powodujący konieczność obserwacji w szpitalnym oddziale ratunkowym lub izbie przyjęć albo hospitalizacji przez okres krótszy niż 14 dni osobie tej przysługuje świadczenie kompensacyjne wypłacane z Funduszu Kompensacyjnego Szczepień Ochronnych, zwanego dalej „Funduszem”.
+- **2)** u osoby tej wystąpił wstrząs anafilaktyczny powodujący konieczność obserwacji w szpitalnym oddziale ratunkowym lub izbie przyjęć albo hospitalizacji przez okres krótszy niż 14 dni – osobie tej przysługuje świadczenie kompensacyjne wypłacane z Funduszu Kompensacyjnego Szczepień Ochronnych, zwanego dalej „Funduszem”.
 
 2. Świadczenie kompensacyjne wynosi w przypadku:
 
@@ -83,7 +82,7 @@ source: "eli-html"
 
 5. Koszty obsługi Funduszu są pokrywane ze środków tego Funduszu.
 
-6. W sprawach z zakresu gospodarki finansowej Funduszu nieuregulowanych w ust. 1–4 oraz art. 17c stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.).
+6. W sprawach z zakresu gospodarki finansowej Funduszu nieuregulowanych w ust. 1–4 oraz art. 17c stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270.).
 
 7. Roczny plan finansowy Funduszu, w terminie do dnia 31 grudnia roku poprzedzającego realizację tego planu, opracowuje Rzecznik Praw Pacjenta we współpracy z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych.
 
@@ -262,11 +261,11 @@ source: "eli-html"
 
 - **b)**
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) w art. 21 w ust. 1 po pkt 4 dodaje się pkt 4a w brzmieniu: „
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1 i 24.) w art. 21 w ust. 1 po pkt 4 dodaje się pkt 4a w brzmieniu: „
 
 - **4a)** kwoty świadczeń kompensacyjnych wypłacanych z Funduszu Kompensacyjnego Szczepień Ochronnych, o którym mowa w art. 17b ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64); ” .
 
-**Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) w art. 131c w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469.) w art. 131c w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
 
 - **9)** koszty ujęte w planie finansowym Funduszu Kompensacyjnego Szczepień Ochronnych, o którym mowa w art. 17b ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, z wyłączeniem środków pochodzących z wpłat z budżetu państwa przekazywanych w danym roku budżetowym w przypadku konieczności zasilenia tego Funduszu na rzecz wypłaty przyznanych świadczeń kompensacyjnych. ” .
 
@@ -278,7 +277,7 @@ source: "eli-html"
 - **10a)** wykonywanie zadań określonych w przepisach art. 17b ust. 2, 7 i 8, art. 17c ust. 5, art. 17d-17g i art. 17i ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi; ” ;
 - **3)** w art. 47a w ust. 2 wyrazy „7–10” zastępuje się wyrazami „7–10a”.
 
-**Art. 5.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.) w art. 65 po ust. 6b dodaje się ust. 6c i 6d w brzmieniu: „ 6c. Ze środków Funduszu dokonuje się jednorazowej wpłaty środków na Fundusz Kompensacyjny Szczepień Ochronnych, o którym mowa w art. 17b ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64). 6d. Wpłaty, o której mowa w ust. 6c, dokonuje minister właściwy do spraw zdrowia na wniosek dysponenta Funduszu Kompensacyjnego Szczepień Ochronnych, o którym mowa w art. 17b ust. 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, w wysokości 10 mln zł wynikającej z planu finansowego Funduszu, w terminie 14 dni od dnia złożenia wniosku o wypłatę. ” .
+**Art. 5.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255 oraz z 2021 r. poz. 1535 i 2368.) w art. 65 po ust. 6b dodaje się ust. 6c i 6d w brzmieniu: „ 6c. Ze środków Funduszu dokonuje się jednorazowej wpłaty środków na Fundusz Kompensacyjny Szczepień Ochronnych, o którym mowa w art. 17b ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64). 6d. Wpłaty, o której mowa w ust. 6c, dokonuje minister właściwy do spraw zdrowia na wniosek dysponenta Funduszu Kompensacyjnego Szczepień Ochronnych, o którym mowa w art. 17b ust. 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, w wysokości 10 mln zł wynikającej z planu finansowego Funduszu, w terminie 14 dni od dnia złożenia wniosku o wypłatę. ” .
 
 **Art. 6.**
 
@@ -325,5 +324,5 @@ source: "eli-html"
 
 **Art. 11.** Pierwsze sprawozdanie, o którym mowa w art. 17i ust. 1 ustawy zmienianej w art. 1, Rzecznik Praw Pacjenta składa ministrowi właściwemu do spraw zdrowia do dnia 28 lutego 2023 r. za okres od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2022 r.
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1 w zakresie dodawanego art. 17c, który wchodzi w życie z dniem 1 stycznia 2023 r.
+**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1 w zakresie dodawanego art. 17c, który wchodzi w życie z dniem 1 stycznia 2023 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta oraz ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1 i 24. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255 oraz z 2021 r. poz. 1535 i 2368.
 

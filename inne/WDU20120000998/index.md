@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-23 |
 | Data wydania | 2012-09-07 |
-| Wejście w życie | 2012-09-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000998) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/998/text.pdf) |
 
@@ -68,7 +67,7 @@ Opłatę wnosi się na rachunek bankowy właściwego organu administracji probie
 § 2.
 W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia pobiera się opłaty w wysokości określonej w przepisach dotychczasowych.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 lipca 2001 r. w sprawie wysokości opłat za czynności organów i urzędów administracji probierczej oraz trybu ich pobierania (Dz. U. Nr 81, poz. 883 oraz z 2005 r. Nr 160, poz. 1347), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 56 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. Nr 92, poz. 529). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 30 lipca 2001 r. w sprawie wysokości opłat za czynności organów i urzędów administracji probierczej oraz trybu ich pobierania (Dz. U. Nr 81, poz. 883 oraz z 2005 r. Nr 160, poz. 1347), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 56 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. Nr 92, poz. 529).
 Załącznik – Wysokość opłat za czynności organów administracji probierczej określone w art. 36 ust. 1 pkt 1–4 i 6–11 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze
 § 1.
 Za przeprowadzenie badania nowo wytworzonego wyrobu z metali szlachetnych zgłoszonego przez wytwórcę, inny podmiot wprowadzający wyrób do obrotu lub ich upoważnionego przedstawiciela, niezależnie od zastosowanej metody badania, pobiera się opłatę za każdy rozpoczęty gram badanego wyrobu:

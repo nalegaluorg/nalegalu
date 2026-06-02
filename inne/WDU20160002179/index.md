@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 19 grudnia 2016 r. w sprawie sposobu pobierania materiału genetycznego oraz warunków i sposobów jego przechowywania
+# Rozporządzenie Ministra Zdrowiaz dnia 19 grudnia 2016 r. w sprawie sposobu pobierania materiału genetycznego oraz warunków i sposobów jego przechowywania Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-19 |
 | Data wydania | 2016-12-28 |
-| Wejście w życie | 2017-01-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2179/text.pdf) |
 
@@ -60,6 +59,5 @@ podpis osoby sporządzającej protokół.
 § 3.
 Materiał genetyczny przechowuje się zgodnie ze standardami przechowywania materiału do badania laboratoryjnego, o których mowa w części I w ust. 5 załącznika nr 4 do rozporządzenia Ministra Zdrowia z dnia 23 marca 2006 r. w sprawie standardów jakości dla medycznych laboratoriów diagnostycznych i mikrobiologicznych (Dz. U. z 2016 r. poz. 1665).
 § 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 

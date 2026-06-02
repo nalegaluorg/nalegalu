@@ -22,40 +22,31 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-07-25 |
 | Data wydania | 2021-08-30 |
-| Wejście w życie | 2021-09-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1590/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 36 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2021 r. poz. 66 i 1236) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm.) wprowadza się następujące zmiany:
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090 oraz z 2021 r. poz. 160 i 976.) wprowadza się następujące zmiany:
 1)
-po § 3 dodaje się § 3a w brzmieniu:
-„
+po § 3 dodaje się § 3a w brzmieniu: „
 § 3a.
-Dzień Prokuratury jest obchodzony w dniu 11 lipca.
-” ;
+Dzień Prokuratury jest obchodzony w dniu 11 lipca. ” ;
 2)
 uchyla się § 137;
 3)
-§ 139 otrzymuje brzmienie:
-„
+§ 139 otrzymuje brzmienie: „
 § 139.
-Postanowienie o przedstawieniu zarzutów należy wydać, mimo niemożności jego ogłoszenia, jeżeli zachodzi konieczność zawieszenia postępowania przygotowawczego z przyczyn leżących po stronie osoby podejrzanej.
-” ;
+Postanowienie o przedstawieniu zarzutów należy wydać, mimo niemożności jego ogłoszenia, jeżeli zachodzi konieczność zawieszenia postępowania przygotowawczego z przyczyn leżących po stronie osoby podejrzanej. ” ;
 4)
-w § 143 ust. 1 otrzymuje brzmienie:
-„
+w § 143 ust. 1 otrzymuje brzmienie: „
 1.
-Uwzględnienie i odmowa uwzględnienia wniosku o udostępnienie akt sprawy, sporządzenie z nich odpisów i kopii oraz odpłatne wydanie uwierzytelnionych odpisów lub kopii następuje w formie zarządzenia.
-” ;
+Uwzględnienie i odmowa uwzględnienia wniosku o udostępnienie akt sprawy, sporządzenie z nich odpisów i kopii oraz odpłatne wydanie uwierzytelnionych odpisów lub kopii następuje w formie zarządzenia. ” ;
 5)
-§ 146 otrzymuje brzmienie:
-„
+§ 146 otrzymuje brzmienie: „
 § 146.
-Decyzję, o której mowa w § 143 ust. 1, prokurator podejmuje również, gdy akta sprawy pozostają w dyspozycji sądu wykonującego czynności w toku postępowania przygotowawczego, co prokurator powinien zastrzec, przekazując akta do sądu.
-” .
+Decyzję, o której mowa w § 143 ust. 1, prokurator podejmuje również, gdy akta sprawy pozostają w dyspozycji sądu wykonującego czynności w toku postępowania przygotowawczego, co prokurator powinien zastrzec, przekazując akta do sądu. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2018 r. poz. 793 i 1470, z 2020 r. poz. 606 i 2090 oraz z 2021 r. poz. 160 i 976.
 

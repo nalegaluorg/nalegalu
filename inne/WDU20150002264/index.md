@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-21 |
 | Data wydania | 2015-12-29 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002264) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2264/text.pdf) |
 
@@ -39,7 +38,7 @@ termin przekazywania sprawozdania z przeprowadzonego audytu.
 § 2.
 Audyt obejmuje, odpowiednio do rodzaju prowadzonej działalności, następujący zakres:
 1)
-sprawdzenie posiadanych zezwoleń, o których mowa w art. 41 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.), zwanej dalej „ustawą o odpadach”, lub pozwoleń, o których mowa w art. 181 ust. 1 pkt 1 i 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.), zwanej dalej „ustawą – Prawo ochrony środowiska”, zwanymi dalej „zezwoleniami lub pozwoleniami”;
+sprawdzenie posiadanych zezwoleń, o których mowa w art. 41 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1283, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87, 122, 933, 1045, 1688 i 1936.), zwanej dalej „ustawą o odpadach”, lub pozwoleń, o których mowa w art. 181 ust. 1 pkt 1 i 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 881, 933, 1045, 1223, 1434, 1593, 1688 i 1936.), zwanej dalej „ustawą – Prawo ochrony środowiska”, zwanymi dalej „zezwoleniami lub pozwoleniami”;
 2)
 ocenę zgodności prowadzonego przez przedsiębiorcę prowadzącego recykling lub inny niż recykling proces odzysku odpadów opakowaniowych procesu z posiadanymi zezwoleniami lub pozwoleniami oraz przyporządkowanie tego procesu do recyklingu lub innego niż recykling procesu odzysku w dokumentach sporządzanych na potrzeby ewidencji odpadów, o której mowa w art. 66 ustawy o odpadach, zwanej dalej „ewidencją odpadów”, zgodnie z załącznikiem nr 1 do ustawy o odpadach;
 3)
@@ -131,5 +130,5 @@ marszałkowi województwa – właściwemu ze względu na miejsce zamieszkania l
 b)
 wojewódzkiemu inspektorowi ochrony środowiska – właściwemu ze względu na miejsce prowadzenia działalności przez audytowanego przedsiębiorcę.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 roku.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 roku. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1283, z 2014 r. poz. 695, 1101 i 1322 oraz z 2015 r. poz. 87, 122, 933, 1045, 1688 i 1936. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 881, 933, 1045, 1223, 1434, 1593, 1688 i 1936.
 

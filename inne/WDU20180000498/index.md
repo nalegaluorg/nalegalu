@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-05 |
 | Data wydania | 2018-03-08 |
-| Wejście w życie | 2018-03-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000498) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/498/text.pdf) |
 
@@ -65,6 +64,5 @@ W razie stwierdzenia nieprawidłowości w zakresie przebiegu praktyki patron koo
 § 9.
 W dniu zakończenia praktyki patron praktyki sporządza pisemną opinię wraz z oceną przebiegu praktyki i przekazuje ją patronowi koordynatorowi. Patron koordynator niezwłocznie przekazuje opinię wraz z oceną Dyrektorowi Krajowej Szkoły i aplikantowi. W przypadku praktyk w jednostkach innych niż sąd lub prokuratura patron koordynator przekazuje Dyrektorowi Krajowej Szkoły uzyskaną z tych jednostek informację o przebiegu praktyki wraz z wystawioną na jej podstawie oceną.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 25 sierpnia 2009 r. w sprawie wyznaczania patronów koordynatorów oraz patronów poszczególnych praktyk i staży (Dz. U. z 2013 r. poz. 442), które utraciło moc z dniem 21 sierpnia 2015 r. w związku z wejściem w życie ustawy z dnia 9 kwietnia 2015 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw (Dz. U. poz. 694, z 2016 r. poz. 633 oraz z 2017 r. poz. 1139).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 25 sierpnia 2009 r. w sprawie wyznaczania patronów koordynatorów oraz patronów poszczególnych praktyk i staży (Dz. U. z 2013 r. poz. 442), które utraciło moc z dniem 21 sierpnia 2015 r. w związku z wejściem w życie ustawy z dnia 9 kwietnia 2015 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw (Dz. U. poz. 694, z 2016 r. poz. 633 oraz z 2017 r. poz. 1139). 1) Rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 25 sierpnia 2009 r. w sprawie wyznaczania patronów koordynatorów oraz patronów poszczególnych praktyk i staży (Dz. U. z 2013 r. poz. 442), które utraciło moc z dniem 21 sierpnia 2015 r. w związku z wejściem w życie ustawy z dnia 9 kwietnia 2015 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw (Dz. U. poz. 694, z 2016 r. poz. 633 oraz z 2017 r. poz. 1139).
 

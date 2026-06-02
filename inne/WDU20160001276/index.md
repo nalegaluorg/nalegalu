@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 10 sierpnia 2016 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania przez Agencję Rynku Rolnego wypłat w ramach realizacji Programu Operacyjnego Pomoc Żywnościowa 2014–2020
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 10 sierpnia 2016 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania przez Agencję Rynku Rolnego wypłat w ramach realizacji Programu Operacyjnego Pomoc Żywnościowa 2014–2020 Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-10 |
 | Data wydania | 2016-08-18 |
-| Wejście w życie | 2016-08-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1276/text.pdf) |
 
@@ -31,7 +30,7 @@ Na podstawie art. 134l ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. 
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Agencję Rynku Rolnego, zwaną dalej „Agencją”, wypłat, o których mowa w art. 134b ust. 2 pkt 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zwanej dalej „ustawą”, dla organizacji partnerskich w ramach realizacji Programu Operacyjnego Pomoc Żywnościowa 2014–2020, zwanego dalej „Programem Operacyjnym”.
 § 2.
-Wypłaty są realizowane na podstawie umowy o dofinansowanie, o której mowa w art. 134b ust. 2 pkt 2 ustawy, zwanej dalej „umową”, z przeznaczeniem na płatności oraz dotacje celowe, o których mowa w art. 186 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.), z tytułu kosztów:
+Wypłaty są realizowane na podstawie umowy o dofinansowanie, o której mowa w art. 134b ust. 2 pkt 2 ustawy, zwanej dalej „umową”, z przeznaczeniem na płatności oraz dotacje celowe, o których mowa w art. 186 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195.), z tytułu kosztów:
 1)
 administracyjnych, transportu i magazynowania związanych z nieodpłatną dystrybucją artykułów spożywczych wśród osób najbardziej potrzebujących;
 2)
@@ -206,8 +205,7 @@ Organizacja partnerska, która w 2016 r.:
 1)
 złożyła wniosek o dofinansowanie i nie zawarła umowy z Agencją przed dniem wejścia w życie rozporządzenia albo
 2)
-zawarła umowę z Agencją i nie złożyła wniosku o płatność z tytułu kosztów administracyjnych, transportu i magazynowania lub wniosku o płatność z tytułu kosztów środków towarzyszących przed dniem wejścia w życie rozporządzenia
-może złożyć korektę wniosku o dofinansowanie i udzielenie wypłaty w trybie łączonym.
+zawarła umowę z Agencją i nie złożyła wniosku o płatność z tytułu kosztów administracyjnych, transportu i magazynowania lub wniosku o płatność z tytułu kosztów środków towarzyszących przed dniem wejścia w życie rozporządzenia – może złożyć korektę wniosku o dofinansowanie i udzielenie wypłaty w trybie łączonym.
 2.
 Do korekty wniosku, o którym mowa w ust. 1, stosuje się odpowiednio § 5 ust. 2–4, przy czym w przypadku gdy organizacja partnerska nie usunęła, mimo upływu terminu określonego w wezwaniu, braków we wniosku, Agencja odmawia zawarcia z organizacją partnerską odpowiednio aneksu do umowy albo umowy, o których mowa w ust. 3, i udzielenia wypłaty w trybie łączonym.
 3.
@@ -215,6 +213,5 @@ Na podstawie poprawnego wniosku Agencja zawiera z organizacją partnerską odpow
 § 17.
 Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 25 listopada 2014 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania przez Agencję Rynku Rolnego wypłat w ramach realizacji Programu Operacyjnego Pomoc Żywnościowa 2014–2020 (Dz. U. poz. 1668).
 § 18.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877, z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854, 1890 i 2150 oraz z 2016 r. poz. 195.
 

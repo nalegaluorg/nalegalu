@@ -22,10 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-11 |
 | Data wydania | 2016-03-31 |
-| Wejście w życie | 2016-04-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/428/text.pdf) |
 
+Warunki i tryb orzekania o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego
 § 1.
 Sąd penitencjarny może udzielić skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli zostały spełnione łącznie następujące warunki:
 1)
@@ -103,11 +103,9 @@ Udzielając warunkowego przedterminowego zwolnienia, sąd uchyla zezwolenie na o
 § 4.
 Udzielenie warunkowego przedterminowego zwolnienia nie jest dopuszczalne wobec skazanego, który odbywa w systemie dozoru elektronicznego zastępczą karę pozbawienia wolności za przestępstwo lub przestępstwo skarbowe.
 § 5.
-W razie odwołania warunkowego przedterminowego zwolnienia stosuje się odpowiednio przepisy art. 43zac § 1 i art. 43zad.
-” ;
+W razie odwołania warunkowego przedterminowego zwolnienia stosuje się odpowiednio przepisy art. 43zac § 1 i art. 43zad. ” ;
 8)
-po art. 43n dodaje się art. 43na i art. 43nb w brzmieniu:
-„
+po art. 43n dodaje się art. 43na i art. 43nb w brzmieniu: „
 Obowiązek określony w art. 43n § 2 pkt 1 obejmuje pozostawanie skazanego w miejscu stałego pobytu lub w innym wskazanym miejscu w wyznaczonym czasie. Sąd penitencjarny określa przedziały czasu w ciągu doby i w poszczególnych dniach tygodnia, w których skazany ma prawo się oddalić z miejsca stałego pobytu lub innego wskazanego miejsca na okres nieprzekraczający 12 godzin dziennie, w szczególności w celu:
 1)
 świadczenia pracy,
@@ -132,11 +130,9 @@ dokonania niezbędnych zakupów.
 § 1.
 Sąd penitencjarny może nałożyć na skazanego odbywającego karę pozbawienia wolności w systemie dozoru elektronicznego obowiązki określone w art. 72 Kodeksu karnego. Obowiązki te mogą zostać nałożone również na wniosek prokuratora lub sądowego kuratora zawodowego.
 § 2.
-Jeżeli względy wychowawcze za tym przemawiają, sąd penitencjarny może w czasie odbywania przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego ustanawiać, rozszerzać lub zmieniać obowiązki określone w art. 72 § 1 pkt 3–8 Kodeksu karnego lub zwolnić od wykonania nałożonych na tej podstawie obowiązków, z wyjątkiem obowiązku określonego w art. 72 § 2 Kodeksu karnego, a także zmieniać rodzaj zastosowanych środków technicznych.
-” ;
+Jeżeli względy wychowawcze za tym przemawiają, sąd penitencjarny może w czasie odbywania przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego ustanawiać, rozszerzać lub zmieniać obowiązki określone w art. 72 § 1 pkt 3–8 Kodeksu karnego lub zwolnić od wykonania nałożonych na tej podstawie obowiązków, z wyjątkiem obowiązku określonego w art. 72 § 2 Kodeksu karnego, a także zmieniać rodzaj zastosowanych środków technicznych. ” ;
 9)
-art. 43o otrzymuje brzmienie:
-„
+art. 43o otrzymuje brzmienie: „
 § 1.
 W wyjątkowym przypadku, uzasadnionym szczególnymi okolicznościami, sąd penitencjarny może zmienić miejsce wykonywania dozoru stacjonarnego.
 § 2.
@@ -144,53 +140,39 @@ Do postanowienia o zmianie miejsca wykonywania dozoru stacjonarnego stosuje się
 § 3.
 W uzasadnionych przypadkach sąd penitencjarny może zmieniać przedziały czasu w ciągu doby i w poszczególnych dniach tygodnia, o których mowa w art. 43na.
 § 4.
-W uzasadnionych przypadkach, gdy niezbędne jest szybkie dokonanie zmiany, przedziały czasu w ciągu doby i w poszczególnych dniach tygodnia mogą zostać zmienione również w drodze decyzji sądowego kuratora zawodowego, który niezwłocznie informuje o tym sędziego penitencjarnego i wprowadza informacje do systemu komunikacyjno-monitorującego. Sąd penitencjarny może uchylić zmiany wprowadzone przez sądowego kuratora zawodowego albo dokonać w nich własnej zmiany.
-” ;
+W uzasadnionych przypadkach, gdy niezbędne jest szybkie dokonanie zmiany, przedziały czasu w ciągu doby i w poszczególnych dniach tygodnia mogą zostać zmienione również w drodze decyzji sądowego kuratora zawodowego, który niezwłocznie informuje o tym sędziego penitencjarnego i wprowadza informacje do systemu komunikacyjno-monitorującego. Sąd penitencjarny może uchylić zmiany wprowadzone przez sądowego kuratora zawodowego albo dokonać w nich własnej zmiany. ” ;
 10)
-w art. 43p § 1 otrzymuje brzmienie:
-„
+w art. 43p § 1 otrzymuje brzmienie: „
 § 1.
-W przypadkach szczególnie ważnych dla skazanego, uzasadnionych względami zdrowotnymi, rodzinnymi lub osobistymi, sądowy kurator zawodowy może zezwolić skazanemu na opuszczenie miejsca wykonywania dozoru stacjonarnego na okres nieprzekraczający jednorazowo 7 dni, w miarę potrzeby w asyście osoby najbliższej lub osoby godnej zaufania, niezwłocznie informując o tym prezesa sądu, upoważnionego sędziego lub sędziego penitencjarnego i wprowadzając tę informację do systemu komunikacyjno-monitorującego.
-” ;
+W przypadkach szczególnie ważnych dla skazanego, uzasadnionych względami zdrowotnymi, rodzinnymi lub osobistymi, sądowy kurator zawodowy może zezwolić skazanemu na opuszczenie miejsca wykonywania dozoru stacjonarnego na okres nieprzekraczający jednorazowo 7 dni, w miarę potrzeby w asyście osoby najbliższej lub osoby godnej zaufania, niezwłocznie informując o tym prezesa sądu, upoważnionego sędziego lub sędziego penitencjarnego i wprowadzając tę informację do systemu komunikacyjno-monitorującego. ” ;
 11)
-w art. 43q § 1 i 2 otrzymują brzmienie:
-„
+w art. 43q § 1 i 2 otrzymują brzmienie: „
 § 1.
 Jeżeli przemawiają za tym ważne względy zdrowotne lub osobiste, sąd penitencjarny może zarządzić przerwę w wykonaniu kary w systemie dozoru elektronicznego.
 § 2.
-Przerwą w wykonaniu kary w systemie dozoru elektronicznego jest okres między usunięciem przez podmiot dozorujący choćby jednego ze środków technicznych niezbędnych do wykonywania dozoru a ponownym założeniem lub zainstalowaniem wszystkich stosowanych środków technicznych. Przepisy art. 43k § 1, art. 43lh § 1, art. 43lj § 1 oraz art. 43m stosuje się odpowiednio.
-” ;
+Przerwą w wykonaniu kary w systemie dozoru elektronicznego jest okres między usunięciem przez podmiot dozorujący choćby jednego ze środków technicznych niezbędnych do wykonywania dozoru a ponownym założeniem lub zainstalowaniem wszystkich stosowanych środków technicznych. Przepisy art. 43k § 1, art. 43lh § 1, art. 43lj § 1 oraz art. 43m stosuje się odpowiednio. ” ;
 12)
-w art. 43r § 3 otrzymuje brzmienie:
-„
+w art. 43r § 3 otrzymuje brzmienie: „
 § 3.
-Po ustaniu przyczyny usunięcia urządzenia lub nadajnika prezes sądu lub upoważniony sędzia lub sędzia penitencjarny, na wniosek sądowego kuratora zawodowego, zarządza jego ponowne zainstalowanie lub założenie. Przepisy art. 43k § 1, art. 43lh § 1, art. 43lj § 1 oraz art. 43m stosuje się odpowiednio.
-” ;
+Po ustaniu przyczyny usunięcia urządzenia lub nadajnika prezes sądu lub upoważniony sędzia lub sędzia penitencjarny, na wniosek sądowego kuratora zawodowego, zarządza jego ponowne zainstalowanie lub założenie. Przepisy art. 43k § 1, art. 43lh § 1, art. 43lj § 1 oraz art. 43m stosuje się odpowiednio. ” ;
 13)
-w art. 43t w § 2 pkt 4 i 5 otrzymują brzmienie:
-„
+w art. 43t w § 2 pkt 4 i 5 otrzymują brzmienie: „
 4)
 niezwłocznie zawiadamia sądowego kuratora zawodowego oraz prezesa sądu, upoważnionego sędziego lub sędziego penitencjarnego o nieprzestrzeganiu obowiązków, o których mowa w pkt 2, oraz o każdym zdarzeniu określonym w pkt 3,
 5)
-wykonuje polecenia prezesa sądu, upoważnionego sędziego, sędziego penitencjarnego i sądowego kuratora zawodowego związane z przebiegiem dozoru.
-” ;
+wykonuje polecenia prezesa sądu, upoważnionego sędziego, sędziego penitencjarnego i sądowego kuratora zawodowego związane z przebiegiem dozoru. ” ;
 14)
 w art. 43w w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podmiot dozorujący może bez zgody prezesa sądu, upoważnionego sędziego lub sędziego penitencjarnego usunąć, wymienić, zainstalować lub założyć rejestrator lub nadajnik, jeżeli: ” ;
 15)
-w art. 43y § 1 otrzymuje brzmienie:
-„
+w art. 43y § 1 otrzymuje brzmienie: „
 § 1.
-W razie stwierdzenia istotnych uchybień w wykonywaniu dozoru elektronicznego przez podmiot dozorujący sędzia penitencjarny wzywa podmiot dozorujący do usunięcia uchybień w wyznaczonym terminie, nie dłuższym jednak niż 3 miesiące.
-” ;
+W razie stwierdzenia istotnych uchybień w wykonywaniu dozoru elektronicznego przez podmiot dozorujący sędzia penitencjarny wzywa podmiot dozorujący do usunięcia uchybień w wyznaczonym terminie, nie dłuższym jednak niż 3 miesiące. ” ;
 16)
-w art. 43za § 1 otrzymuje brzmienie:
-„
+w art. 43za § 1 otrzymuje brzmienie: „
 § 1.
-Karę w systemie dozoru elektronicznego uznaje się za wykonaną z dniem zakończenia wykonywania tego dozoru, chyba że uchylono zezwolenie na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego.
-” ;
+Karę w systemie dozoru elektronicznego uznaje się za wykonaną z dniem zakończenia wykonywania tego dozoru, chyba że uchylono zezwolenie na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego. ” ;
 17)
-po art. 43za dodaje się art. 43zaa-43zae w brzmieniu:
-„
+po art. 43za dodaje się art. 43zaa-43zae w brzmieniu: „
 § 1.
 Sąd penitencjarny uchyla zezwolenie na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli:
 1)
@@ -209,14 +191,13 @@ W razie uchylenia zezwolenia, o którym mowa w art. 43zaa § 1 lub art. 43zab, s
 § 2.
 Skazanego zawiadamia się o obliczonym okresie kary pozbawienia wolności pozostałej do wykonania w zakładzie karnym.
 W razie uchylenia zezwolenia, o którym mowa w art. 43zaa § 1 lub art. 43zab, sąd penitencjarny poleca doprowadzić skazanego do zakładu karnego, o czym należy go pouczyć.
-W razie uchylenia zezwolenia na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego ponowne udzielenie zezwolenia na odbycie kary w tym systemie jest niedopuszczalne w tej samej sprawie.
-” ;
+W razie uchylenia zezwolenia na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego ponowne udzielenie zezwolenia na odbycie kary w tym systemie jest niedopuszczalne w tej samej sprawie. ” ;
 18)
 uchyla się art. 43zb-43zf;
 19)
 uchyla się art. 66a.
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. poz. 553, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 840, z 1999 r. poz. 729 i 931, z 2000 r. poz. 548, 1027 i 1216, z 2001 r. poz. 1071, z 2003 r. poz. 1061, 1142, 1750, 1935 i 2255, z 2004 r. poz. 219, 626, 889 i 2426, z 2005 r. poz. 732, 757, 1109, 1363, 1479 i 1493, z 2006 r. poz. 1409, 1592 i 1648, z 2007 r. poz. 589, 850, 859 i 1378, z 2008 r. poz. 560, 782, 1056, 1080 i 1344, z 2009 r. poz. 504, 533, 1317, 1323, 1474, 1540 i 1589, z 2010 r. poz. 46, 227, 229, 625, 626, 842, 857, 1018, 1021, 1228, 1474 i 1602, z 2011 r. poz. 78, 130, 202, 245, 381, 549, 678, 767, 964, 1135, 1280, 1381 i 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538, z 2015 r. poz. 396, 541, 1549, 1707 i 1855 oraz z 2016 r. poz. 189. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 34 w § 1a uchyla się pkt 2;
 - **2)** w art. 35 uchyla się § 3;
@@ -228,7 +209,7 @@ uchyla się art. 66a.
 
 § 1. Do żołnierzy nie stosuje się przepisów art. 34 § 1a pkt 1. ” .
 
-**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707 oraz z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573.) wprowadza się następujące zmiany:
 
 - **1)** w art. 43a w § 2 po pkt 2 część wspólna otrzymuje brzmienie: „ – z wyłączeniem przepisów dotyczących wyłącznie dozoru stacjonarnego. ” ;
 - **2)** w art. 43c § 1 otrzymuje brzmienie: „
@@ -274,7 +255,7 @@ uchyla się art. 66a.
 - **d)**
 - **7)** w rozdziale VIIa po oddziale 2 dodaje się oddział 2a w brzmieniu: „
 
-##### Oddział 2a Warunki i tryb orzekania o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego
+##### Oddział 2a
 
 **Art. 3.** W stosunku do osób, które przed dniem wejścia w życie niniejszej ustawy złożyły wniosek, o którym mowa w art. 14 ust. 2 i art. 18 ust. 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), stosuje się przepisy dotychczasowe.
 
@@ -282,5 +263,5 @@ uchyla się art. 66a.
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 43c § 2, art. 43k § 8 i art. 43y § 3 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 43c § 2, art. 43k § 8 i art. 43y § 3 ustawy zmienianej w art. 2, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 15 kwietnia 2016 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 15 kwietnia 2016 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 840, z 1999 r. poz. 729 i 931, z 2000 r. poz. 548, 1027 i 1216, z 2001 r. poz. 1071, z 2003 r. poz. 1061, 1142, 1750, 1935 i 2255, z 2004 r. poz. 219, 626, 889 i 2426, z 2005 r. poz. 732, 757, 1109, 1363, 1479 i 1493, z 2006 r. poz. 1409, 1592 i 1648, z 2007 r. poz. 589, 850, 859 i 1378, z 2008 r. poz. 560, 782, 1056, 1080 i 1344, z 2009 r. poz. 504, 533, 1317, 1323, 1474, 1540 i 1589, z 2010 r. poz. 46, 227, 229, 625, 626, 842, 857, 1018, 1021, 1228, 1474 i 1602, z 2011 r. poz. 78, 130, 202, 245, 381, 549, 678, 767, 964, 1135, 1280, 1381 i 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538, z 2015 r. poz. 396, 541, 1549, 1707 i 1855 oraz z 2016 r. poz. 189. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 1999 r. poz. 931, z 2000 r. poz. 701 i 1268, z 2001 r. poz. 1071 i 1194, z 2002 r. poz. 676 i 1679, z 2003 r. poz. 1061, 1380 i 1750, z 2004 r. poz. 889, 2135, 2405, 2426 i 2703, z 2005 r. poz. 1363 i 1479, z 2006 r. poz. 708 i 1648, z 2007 r. poz. 849, z 2008 r. poz. 620 i 1344, z 2009 r. poz. 39, 119, 504, 817, 911, 963, 1475, 1540 i 1589, z 2010 r. poz. 191, 227, 842 i 1228, z 2011 r. poz. 201, 202, 654, 734, 1092, 1280 i 1431, z 2012 r. poz. 908, z 2013 r. poz. 628 i 1247, z 2014 r. poz. 287, 619 i 1707 oraz z 2015 r. poz. 21, 396, 431, 541, 1269 i 1573.
 

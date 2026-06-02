@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-04 |
 | Data wydania | 2017-09-04 |
-| Wejście w życie | 2017-09-04 |
 | Ostatnia zmiana | 2025-01-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001687) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1687/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 209 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 209 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe zasady i tryb umarzania przez organ agencji płatniczej w całości lub w części, odraczania lub rozkładania na raty spłaty należności od osób fizycznych, osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej, zwanych dalej „dłużnikami”, przypadających agencji płatniczej z tytułu:
 1)
@@ -39,8 +38,7 @@ krajowych środków publicznych przeznaczonych na współfinansowanie wydatków 
 2)
 kar dotyczących nieprawidłowości w rozumieniu art. 1 ust. 2 rozporządzenia Rady (WE, Euroatom) nr 2988/95 z dnia 18 grudnia 1995 r. w sprawie ochrony interesów finansowych Wspólnot Europejskich (Dz. Urz. WE L 312 z 23.12.1995, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 1, t. 1, str. 340 ) objętych klasyfikacją budżetową Europejskiego Funduszu Rolniczego Gwarancji lub Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich,
 3)
-zabezpieczeń i kar nieobjętych klasyfikacją budżetową Europejskiego Funduszu Rolniczego Gwarancji lub Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich
-zwanych dalej „należnościami”.
+zabezpieczeń i kar nieobjętych klasyfikacją budżetową Europejskiego Funduszu Rolniczego Gwarancji lub Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich – zwanych dalej „należnościami”.
 § 2.
 Przepisów rozporządzenia nie stosuje się do korzyści majątkowych z tytułu należności, które powstały na skutek przestępstwa lub przestępstwa skarbowego, stwierdzonych prawomocnym orzeczeniem sądowym.
 § 3.
@@ -62,9 +60,9 @@ postępowanie egzekucyjne okazało się nieskuteczne.
 W przypadkach, o których mowa w ust. 1 pkt 1–3, decyzję umarzającą należność lub sporządzone na podstawie przepisów prawa cywilnego oświadczenie o umorzeniu należności pozostawia się w aktach sprawy.
 § 4.
 1.
-Prezes agencji płatniczej umarza z urzędu należności, o których mowa w § 1 pkt 1, o ile należność w odniesieniu do płatności indywidualnej w ramach programu pomocy lub środka wsparcia nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu ustalonego zgodnie z rozporządzeniem delegowanym Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.).
+Prezes agencji płatniczej umarza z urzędu należności, o których mowa w § 1 pkt 1, o ile należność w odniesieniu do płatności indywidualnej w ramach programu pomocy lub środka wsparcia nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu ustalonego zgodnie z rozporządzeniem delegowanym Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11.).
 2.
-Przepisu ust. 1 nie stosuje się, jeżeli rolnik nie podjął działań naprawczych, o których mowa w art. 97 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.) .
+Przepisu ust. 1 nie stosuje się, jeżeli rolnik nie podjął działań naprawczych, o których mowa w art. 97 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1.) .
 § 5.
 Umorzenie należności o charakterze cywilnoprawnym, w przypadku gdy oprócz dłużnika głównego są zobowiązane inne osoby, może nastąpić tylko wtedy, gdy warunki umorzenia zachodzą wobec wszystkich zobowiązanych.
 § 6.
@@ -120,15 +118,13 @@ a)
 b)
 krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z funduszy wymienionych w lit. a,
 2)
-zabezpieczeń i kar nieobjętych klasyfikacją budżetową Europejskiego Funduszu Rolniczego Gwarancji lub Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich
-wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
+zabezpieczeń i kar nieobjętych klasyfikacją budżetową Europejskiego Funduszu Rolniczego Gwarancji lub Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich – wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 11.
 Do umarzania, odraczania lub rozkładania na raty spłaty należności z tytułu wypłaconych przez Agencję Rynku Rolnego jako agencję płatniczą przed dniem 1 września 2017 r.:
 1)
 środków pochodzących z Europejskiego Funduszu Orientacji i Gwarancji Rolnej „Sekcja Gwarancji”, Europejskiego Funduszu Rolniczego Gwarancji lub Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich,
 2)
-krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z funduszy wymienionych w pkt 1
-stosuje się przepisy niniejszego rozporządzenia.
+krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z funduszy wymienionych w pkt 1 – stosuje się przepisy niniejszego rozporządzenia.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 21 grudnia 2010 r. w sprawie szczegółowych zasad i trybu umarzania, odraczania lub rozkładania na raty spłaty należności przypadających agencjom płatniczym w ramach Wspólnej Polityki Rolnej (Dz. U. poz. 1747 oraz z 2015 r. poz. 1652), które utraciło moc z dniem wejścia w życie ustawy z dnia 7 lipca 2017 r. o zmianie ustawy o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 oraz niektórych innych ustaw (Dz. U. poz. 1475). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 1984 i 2260 oraz z 2017 r. poz. 60, 191, 659, 933, 935, 1089, 1475, 1529 i 1537. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 21 grudnia 2010 r. w sprawie szczegółowych zasad i trybu umarzania, odraczania lub rozkładania na raty spłaty należności przypadających agencjom płatniczym w ramach Wspólnej Polityki Rolnej (Dz. U. poz. 1747 oraz z 2015 r. poz. 1652), które utraciło moc z dniem wejścia w życie ustawy z dnia 7 lipca 2017 r. o zmianie ustawy o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 oraz niektórych innych ustaw (Dz. U. poz. 1475).
 

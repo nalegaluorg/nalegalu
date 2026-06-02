@@ -22,9 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1990-07-28 |
 | Data wydania | 1990-08-18 |
-| Wejście w życie | 1990-09-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900550321) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/321/text.pdf) |
+
+Przekaz i papiery wartościowe
+Przekaz
+Papiery wartościowe
 
 **Art. 1.** W Kodeksie cywilnym wprowadza się następujące zmiany:
 
@@ -369,9 +372,9 @@ source: "eli-html"
 - **106)** art. 909 skreśla się;
 - **107)** po tytule XXXVI księgi trzeciej dodaje się tytuł XXXVII w brzmieniu: „
 
-## Tytuł XXXVII Przekaz i papiery wartościowe
+## Tytuł XXXVII
 
-### Dział I Przekaz
+### Dział I
 
 **Art. 9211.** Kto przekazuje odbiorcy przekazu świadczenie przekazanego, upoważnia tym samym odbiorcę przekazu do przyjęcia, a przekazanego do spełnienia świadczenia na rachunek przekazującego.
 
@@ -387,7 +390,7 @@ source: "eli-html"
 
 **Art. 9215.** Jeżeli przekazujący jest dłużnikiem odbiorcy przekazu, umorzenie długu następuje dopiero przez spełnienie świadczenia, chyba że umówiono się inaczej.
 
-### Dział II Papiery wartościowe
+### Dział II
 
 **Art. 9216.** Jeżeli zobowiązanie wynika z wystawionego papieru wartościowego, dłużnik jest obowiązany do świadczenia za zwrotem dokumentu albo udostępnieniem go dłużnikowi celem pozbawienia dokumentu jego mocy prawnej w sposób zwyczajowo przyjęty.
 

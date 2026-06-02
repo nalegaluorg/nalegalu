@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 marca 2016 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych, ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw
+# Ustawa z dnia 18 marca 2016 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych, ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 kwietnia 2015 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw i ustawę z dnia 10 lipca 2015 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-03-18 |
 | Data wydania | 2016-05-06 |
-| Wejście w życie | 2016-05-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000633) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/633/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) w art. 20a wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147 i 437.) w art. 20a wprowadza się następujące zmiany:
 
 - **1)** § 2 otrzymuje brzmienie: „
 
@@ -95,5 +94,5 @@ source: "eli-html"
 
 **Art. 25a.** Pierwsze przydzielenie stanowiska asesorskiego do danego sądu rejonowego lub pierwsze przekształcenie stanowiska sędziowskiego w stanowisko asesorskie w danym sądzie rejonowym nastąpi po dniu 30 października 2017 r. ” .
 
-**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 kwietnia 2015 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw i ustawę z dnia 10 lipca 2015 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 509, 694, 1066, 1224, 1309, 1311, 1418, 1595 i 1781 oraz z 2016 r. poz. 147 i 437.
 

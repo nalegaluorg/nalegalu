@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-02-19 |
 | Data wydania | 2013-02-25 |
-| Wejście w życie | 2013-03-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/258/text.pdf) |
 
@@ -34,7 +33,7 @@ Do okresów służby i pracy uwzględnianych przy ustalaniu wzrostu uposażenia 
 1)
 okresy służby w Centralnym Biurze Antykorupcyjnym, zwanym dalej „CBA”, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Policji, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej i Służbie Więziennej;
 2)
-okresy traktowane jako równorzędne ze służbą, o której mowa w pkt 1, w rozumieniu przepisów ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.);
+okresy traktowane jako równorzędne ze służbą, o której mowa w pkt 1, w rozumieniu przepisów ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410, z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786, z 2010 r. Nr 113, poz. 745, z 2011 r. Nr 205, poz. 1203 oraz z 2012 r. poz. 637 i 664.);
 3)
 okresy zakończonego zatrudnienia wykonywanego w wymiarze czasu pracy nie niższym niż połowa obowiązującego w danym zawodzie lub na danym stanowisku;
 4)
@@ -48,7 +47,7 @@ korzystał, także przed podjęciem służby w CBA, z urlopu lub zwolnienia udzi
 2)
 korzystał z urlopu bezpłatnego udzielonego w związku z wyjazdem za granicę wspólnie z małżonkiem przeniesionym tam w celu pełnienia służby albo pracy w przedstawicielstwie dyplomatycznym, urzędzie konsularnym, stałym przedstawicielstwie przy Organizacji Narodów Zjednoczonych, instytucie polskim lub innej misji państwowej;
 3)
-korzystał z urlopu bezpłatnego udzielonego na okres kształcenia w Krajowej Szkole Administracji Publicznej, jeżeli okres ten zaliczono w zakresie wszelkich uprawnień pracowniczych na podstawie art. 6 ust. 5 ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej (Dz. U. Nr 63, poz. 266, z późn. zm.);
+korzystał z urlopu bezpłatnego udzielonego na okres kształcenia w Krajowej Szkole Administracji Publicznej, jeżeli okres ten zaliczono w zakresie wszelkich uprawnień pracowniczych na podstawie art. 6 ust. 5 ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej (Dz. U. Nr 63, poz. 266, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 104, poz. 450, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153, z 1999 r. Nr 49, poz. 483, z 2000 r. Nr 120, poz. 1268 oraz z 2011 r. Nr 61, poz. 315 i Nr 185, poz. 1093.);
 4)
 prowadził indywidualne gospodarstwo rolne lub pracował w takim gospodarstwie na zasadach określonych w przepisach o wliczaniu okresów pracy w indywidualnym gospodarstwie rolnym do pracowniczego stażu pracy.
 3.
@@ -89,5 +88,5 @@ Funkcjonariuszom, którzy pełnili służbę w CBA w dniu wejścia w życie rozp
 § 6.
 Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 12 lipca 2006 r. w sprawie warunków i trybu zaliczania okresów służby i pracy oraz innych okresów, które na podstawie odrębnych przepisów podlegają wliczeniu do wysługi lat uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. Nr 128, poz. 896 i Nr 137, poz. 985).
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410, z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786, z 2010 r. Nr 113, poz. 745, z 2011 r. Nr 205, poz. 1203 oraz z 2012 r. poz. 637 i 664. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 104, poz. 450, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153, z 1999 r. Nr 49, poz. 483, z 2000 r. Nr 120, poz. 1268 oraz z 2011 r. Nr 61, poz. 315 i Nr 185, poz. 1093.
 

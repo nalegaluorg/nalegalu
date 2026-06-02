@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-08-21 |
-| Wejście w życie | 2019-09-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1570/text.pdf) |
+
+Rada Dialogu z Młodym Pokoleniem
 
 **Art. 1.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2019 r. poz. 688) wprowadza się następujące zmiany:
 
@@ -39,7 +40,7 @@ source: "eli-html"
 
 - **2)** w dziale II po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-#### Rozdział 5a Rada Dialogu z Młodym Pokoleniem
+#### Rozdział 5a
 
 **Art. 411.**
 
@@ -72,7 +73,7 @@ source: "eli-html"
 - **9)** przedstawiciela jednostek samorządu terytorialnego;
 - **10)** przedstawicieli organizacji pozarządowych, związków i porozumień organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3;
 - **11)** przedstawicieli młodzieżowych rad gmin w rozumieniu art. 5b ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2019 r. poz. 506 i 1309);
-- **12)** przedstawicieli Parlamentu Studentów Rzeczypospolitej Polskiej w rozumieniu art. 338 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.).
+- **12)** przedstawicieli Parlamentu Studentów Rzeczypospolitej Polskiej w rozumieniu art. 338 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.).
 
 2. Przedstawiciele organizacji pozarządowych, związków i porozumień organizacji pozarządowych, podmiotów wymienionych w art. 3 ust. 3 oraz młodzieżowych rad gmin i Parlamentu Studentów Rzeczypospolitej Polskiej stanowią co najmniej połowę składu Rady Dialogu z Młodym Pokoleniem.
 
@@ -123,5 +124,5 @@ source: "eli-html"
 
 **Art. 4.** Powołanie Rady Dialogu z Młodym Pokoleniem pierwszej kadencji nastąpi w terminie 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.
 

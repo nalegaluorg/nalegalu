@@ -26,18 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001487) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1487/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego Rozdział 1 – Przepisy ogólne Rozdział 2 – Nawiązanie stosunku służbowego Rozdział 3 – Mianowanie na stanowisko służbowe, przenoszenie, zwalnianie i odwoływanie ze stanowiska służbowego Rozdział 4 – Sposób usprawiedliwiania nieobecności w służbie Rozdział 5 – Rodzaje informacji udzielanych przez funkcjonariusza Rozdział 6 – Rozwiązanie i wygaśnięcie stosunku służbowego Rozdział 7 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2015 r. poz. 1484) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. Nr 175, poz. 1295), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Obrony Narodowej z dnia 24 września 2014 r. zmieniającym rozporządzenie w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1338).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 24 września 2014 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1338), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 24 września 2014 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1338), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego
-Na podstawie art. 54 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 1106, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 54 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 1106, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 1066, 1217 i 1268.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Użyte w rozporządzeniu określenia oznaczają:
 1)
@@ -97,7 +96,8 @@ Rozkaz personalny wydany w sprawie osobowej, o której mowa w ust. 1, włącza s
 3.
 Funkcjonariusza zapoznaje się z rozkazem personalnym wydanym w sprawach osobowych, o których mowa w ust. 1 pkt 1–11.
 4.
-Do spraw osobowych, o których mowa w ust. 1 pkt 1–11, załatwianych w formie rozkazu personalnego, w zakresie nieuregulowanym rozporządzeniem, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.).
+Do spraw osobowych, o których mowa w ust. 1 pkt 1–11, załatwianych w formie rozkazu personalnego, w zakresie nieuregulowanym rozporządzeniem, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211, 702 i 1274.).
+Nawiązanie stosunku służbowego
 § 4.
 1.
 Stosunek służbowy funkcjonariusza powstaje w drodze mianowania z dniem określonym w rozkazie personalnym.
@@ -126,6 +126,7 @@ pouczenie o przysługującym funkcjonariuszowi środku odwoławczym.
 Funkcjonariusza przyjętego do służby bezpośredni przełożony niezwłocznie zapoznaje z przepisami regulującymi prawa i obowiązki funkcjonariusza wynikające ze stosunku służbowego.
 2.
 Funkcjonariusz jest obowiązany pisemnie potwierdzić fakt zapoznania się z przepisami, o których mowa w ust. 1. Potwierdzenie włącza się do akt osobowych funkcjonariusza.
+Mianowanie na stanowisko służbowe, przenoszenie, zwalnianie i odwoływanie ze stanowiska służbowego
 § 6.
 Mianowanie na stanowisko służbowe, przenoszenie, zwalnianie i odwoływanie ze stanowiska służbowego oraz inne sprawy, o których mowa w § 3 ust. 1, określa się w kolejnych rozkazach personalnych.
 § 7.
@@ -166,6 +167,7 @@ Badanie, o którym mowa w ust. 1, przeprowadza psycholog pełniący służbę w 
 W czasie prowadzenia postępowania dyscyplinarnego lub karnego oraz w okresie próby orzeczonej w związku z warunkowym umorzeniem postępowania karnego, warunkowym zawieszeniem wykonania kary pozbawienia wolności lub warunkowym przedterminowym zwolnieniem i w okresie odbywania kary ograniczenia wolności lub kary dyscyplinarnej albo w okresie zawieszenia funkcjonariusza w czynnościach służbowych nie dokonuje się zmian w stosunku służbowym funkcjonariusza, z którymi wiązałoby się przeniesienie na wyższe stanowisko służbowe lub podwyższenie składników uposażenia.
 § 12.
 W przypadku gdy wojskowa komisja lekarska uzna funkcjonariusza za trwale niezdolnego do służby, niezwłocznie zwalnia się go z zajęć służbowych na okres do dnia zwolnienia ze służby.
+Sposób usprawiedliwiania nieobecności w służbie
 § 13.
 1.
 Funkcjonariusz jest obowiązany usprawiedliwić nieobecność lub spóźnienie do służby.
@@ -176,9 +178,10 @@ W razie nagłego zaistnienia przyczyn uniemożliwiających stawienie się do sł
 4.
 Usprawiedliwienia funkcjonariusz dokonuje osobiście lub przez inną osobę, telefonicznie albo za pośrednictwem innego środka łączności lub poczty, przy czym za datę usprawiedliwienia uważa się datę stempla pocztowego.
 § 14.
-(uchylony).
+(uchylony).Przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 24 września 2014 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1338), które weszło w życie z dniem 22 października 2014 r.
 § 15.
 Uprawnienie do usprawiedliwienia spóźnienia lub nieobecności funkcjonariusza w służbie przysługuje bezpośredniemu przełożonemu.
+Rodzaje informacji udzielanych przez funkcjonariusza
 § 16.
 Funkcjonariusz w toku służby informuje o:
 1)
@@ -189,6 +192,7 @@ urodzeniu się dziecka, jego przysposobieniu, wzięciu na wychowanie lub na utrz
 wszczęciu i zakończeniu postępowania karnego lub postępowania karnego skarbowego przeciwko niemu, małżonkowi lub dziecku pozostającemu na jego utrzymaniu.
 § 17.
 Funkcjonariusz informuje o zmianach lub przypadkach, o których mowa w § 16, składając pisemny raport i właściwe dokumenty do kierownika komórki organizacyjnej Służby Wywiadu Wojskowego właściwej w sprawach kadrowych, za pośrednictwem bezpośredniego przełożonego.
+Rozwiązanie i wygaśnięcie stosunku służbowego
 § 18.
 1.
 Stosunek służbowy ulega rozwiązaniu z dniem określonym w rozkazie personalnym dotyczącym zwolnienia funkcjonariusza ze służby.
@@ -227,20 +231,35 @@ W przypadku przewidywanego zwolnienia ze służby z urzędu funkcjonariusza, kt�
 W przypadku śmierci funkcjonariusza w rozkazie personalnym stwierdza się fakt wygaśnięcia stosunku służbowego i skreślenia z ewidencji funkcjonariuszy z dniem określonym w akcie zgonu.
 2.
 Jeżeli śmierć funkcjonariusza pozostająca w związku ze służbą jest następstwem czynu karalnego, fakt ten stwierdza się w rozkazie personalnym.
+Przepis końcowy
 § 22.
-Rozporządzenie wchodzi w życie z dniem 1 października 2006 r.
+Rozporządzenie wchodzi w życie z dniem 1 października 2006 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 1066, 1217 i 1268. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211, 702 i 1274. 3) Przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 24 września 2014 r. zmieniającego rozporządzenie w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1338), które weszło w życie z dniem 22 października 2014 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Nawiązanie stosunku służbowego
+#### Rozdział 2 – Nawiązanie stosunku służbowego
 
-#### Rozdział 3 Mianowanie na stanowisko służbowe, przenoszenie, zwalnianie i odwoływanie ze stanowiska służbowego
+#### Rozdział 3 – Mianowanie na stanowisko służbowe, przenoszenie, zwalnianie i odwoływanie ze stanowiska służbowego
 
-#### Rozdział 4 Sposób usprawiedliwiania nieobecności w służbie
+#### Rozdział 4 – Sposób usprawiedliwiania nieobecności w służbie
 
-#### Rozdział 5 Rodzaje informacji udzielanych przez funkcjonariusza
+#### Rozdział 5 – Rodzaje informacji udzielanych przez funkcjonariusza
 
-#### Rozdział 6 Rozwiązanie i wygaśnięcie stosunku służbowego
+#### Rozdział 6 – Rozwiązanie i wygaśnięcie stosunku służbowego
 
-#### Rozdział 7 Przepis końcowy
+#### Rozdział 7 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
 

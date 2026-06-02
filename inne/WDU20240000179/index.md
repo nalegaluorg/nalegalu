@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 7 lutego 2024 r. w sprawie prospektu informacyjnego funduszu portfelowego
+# Rozporządzenie Ministra Finansówz dnia 7 lutego 2024 r. w sprawie prospektu informacyjnego funduszu portfelowego Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-07 |
 | Data wydania | 2024-02-13 |
-| Wejście w życie | 2024-02-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/179/text.pdf) |
 
@@ -294,6 +293,5 @@ W prospekcie nie zamieszcza się sformułowań technicznych bez ich właściwego
 3.
 Występujące w treści prospektu sformułowania zawodowe (profesjonalne), które mogą być niejasne dla nabywców certyfikatów inwestycyjnych niezwiązanych zawodowo z działalnością funduszu lub z rynkiem kapitałowym, definiuje się w prospekcie w wykazie, o którym mowa w § 12 pkt 1.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

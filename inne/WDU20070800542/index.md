@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 kwietnia 2007 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 11 kwietnia 2007 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela i ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-04-11 |
 | Data wydania | 2007-05-09 |
-| Wejście w życie | 2007-05-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070800542) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/542/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658 oraz z 2007 r. Nr 42, poz. 273.) wprowadza się następujące zmiany:
 
 - **1)** po art. 4 dodaje się art. 4a w brzmieniu: „
 
@@ -52,8 +51,17 @@ source: "eli-html"
     - **b)**
 
 - **6)** koordynowanie działalności okręgowych komisji egzaminacyjnych oraz nadzorowanie ich prac związanych z opracowywaniem propozycji zestawów zadań, pytań i testów do sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1, a także nadzorowanie prac związanych z ich przeprowadzaniem i ocenianiem przez okręgowe komisje egzaminacyjne prac egzaminacyjnych, w celu zapewnienia jednolitości i jakości działań wykonywanych przez okręgowe komisje egzaminacyjne oraz porównywalności wyników sprawdzianu, egzaminów i egzaminów eksternistycznych. ” ;
-- **4)** w art. 9c: w ust. 2: – pkt 1 i 2 otrzymują brzmienie: „ 1) przeprowadzanie sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1; 2) przygotowywanie, w porozumieniu z Centralną Komisją Egzaminacyjną, propozycji pytań, zadań i testów oraz ich zestawów do przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1; ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) analizowanie wyników sprawdzianów i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1, a także formułowanie wniosków; 4) opracowywanie i przekazywanie: a) dyrektorom szkół, organom prowadzącym szkoły, kuratorom oświaty i Centralnej Komisji Egzaminacyjnej sprawozdań z przeprowadzonych sprawdzianów i egzaminów, o których mowa w art. 9 ust. 1, b) kuratorom oświaty i Centralnej Komisji Egzaminacyjnej sprawozdań z przeprowadzonych egzaminów eksternistycznych, o których mowa w art. 10 ust. 1; ” , – pkt 8 otrzymuje brzmienie: „ 8) współpraca z kuratorami oświaty właściwymi ze względu na zasięg terytorialny komisji w sprawach związanych z przeprowadzaniem sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1, a także doskonaleniem nauczycieli w zakresie diagnozowania, oceniania, egzaminowania i badania osiągnięć edukacyjnych uczniów. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **4)** w art. 9c: w ust. 2: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** przeprowadzanie sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1;
+- **2)** przygotowywanie, w porozumieniu z Centralną Komisją Egzaminacyjną, propozycji pytań, zadań i testów oraz ich zestawów do przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1; ” , pkt 3 i 4 otrzymują brzmienie: „
+- **3)** analizowanie wyników sprawdzianów i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1, a także formułowanie wniosków;
+- **4)** opracowywanie i przekazywanie: dyrektorom szkół, organom prowadzącym szkoły, kuratorom oświaty i Centralnej Komisji Egzaminacyjnej sprawozdań z przeprowadzonych sprawdzianów i egzaminów, o których mowa w art. 9 ust. 1, kuratorom oświaty i Centralnej Komisji Egzaminacyjnej sprawozdań z przeprowadzonych egzaminów eksternistycznych, o których mowa w art. 10 ust. 1; ” , pkt 8 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **8)** współpraca z kuratorami oświaty właściwymi ze względu na zasięg terytorialny komisji w sprawach związanych z przeprowadzaniem sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1, a także doskonaleniem nauczycieli w zakresie diagnozowania, oceniania, egzaminowania i badania osiągnięć edukacyjnych uczniów. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Wyniki sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1, są ostateczne i nie służy na nie skarga do sądu administracyjnego. ” , w ust. 5 w pkt 2 lit. b i c otrzymują brzmienie: „ nieusprawiedliwionego nieuczestniczenia w pracach dotyczących przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1, do których egzaminator został wyznaczony przez dyrektora okręgowej komisji egzaminacyjnej, nieprzestrzegania przepisów dotyczących przeprowadzania i oceniania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1; ” ;
@@ -123,7 +131,7 @@ source: "eli-html"
 - **1)** trzej przedstawiciele ministra właściwego do spraw oświaty i wychowania;
 - **2)** trzej przedstawiciele wojewody;
 - **3)** dwaj przedstawiciele sejmiku województwa;
-- **4)** po jednym przedstawicielu wojewódzkich struktur związków zawodowych o zasięgu ogólnokrajowym, zrzeszających nauczycieli, reprezentatywnych w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.).
+- **4)** po jednym przedstawicielu wojewódzkich struktur związków zawodowych o zasięgu ogólnokrajowym, zrzeszających nauczycieli, reprezentatywnych w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407.).
 
 3. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, regulamin konkursu na stanowisko kuratora oświaty, wzór ogłoszenia o konkursie, tryb pracy komisji konkursowej oraz sposób głosowania, a także możliwość unieważnienia konkursu w przypadku naruszenia przepisów dotyczących jego przeprowadzania, kierując się sprawnością i efektywnością prac komisji. ” ;
 
@@ -297,7 +305,7 @@ source: "eli-html"
 
 **Art. 63.**
 
-1. Nauczyciel, podczas lub w związku z pełnieniem obowiązków służbowych, korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.).
+1. Nauczyciel, podczas lub w związku z pełnieniem obowiązków służbowych, korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493 oraz z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648.).
 
 2. Organ prowadzący szkołę i dyrektor szkoły są obowiązani z urzędu występować w obronie nauczyciela, gdy ustalone dla nauczyciela uprawnienia zostaną naruszone. ” ;
 
@@ -329,7 +337,7 @@ source: "eli-html"
 - **5)** w art. 91d pkt 3 otrzymuje brzmienie: „
 - **3)** art. 6a ust. 1 pkt 3 oraz ust. 6 i 13, art. 9b ust. 3, 3a i 4 pkt 2 oraz ust. 6 i 7 pkt 1, art. 9f ust. 1, art. 9g ust. 3 pkt 1 i ust. 4, art. 18 ust. 4 i 5, art. 19 ust. 1, art. 22 ust. 1, art. 26 ust. 2, art. 31, art. 42a ust. 1, art. 54 ust. 2 i 5, art. 56 ust. 2, art. 61 ust. 3, art. 63 ust. 2, art. 66 ust. 1, art. 82 ust. 2 oraz art. 83 ust. 1 i 1a – wykonuje odpowiednio: wójt, burmistrz (prezydent miasta), starosta, marszałek województwa. ” .
 
-**Art. 3.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658.) wprowadza się następujące zmiany:
 
 - **1)** w art. 40 ust. 1 otrzymuje brzmienie: „
 
@@ -366,6 +374,6 @@ source: "eli-html"
 3. Przepis ust. 2 nie dotyczy nauczycieli akademickich, o których mowa w art. 9g ust. 11a pkt 5 lit. a ustawy wymienionej w art. 2, posiadających stopień naukowy doktora. Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 10 ust. 2, art. 22a ust. 8, art. 30 ust. 3 i art. 68a ust. 4 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10a ust. 3, art. 22a ust. 8, art. 30 ust. 3 i art. 68a ust. 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 9a ust. 2 pkt 1–2 i 6, art. 9c ust. 2 pkt 1, 2, 3 i 4 oraz 8 i ust. 5 pkt 2 lit. b i c oraz art. 10 i 10a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 1 lipca 2007 r.;
-- **2)** art. 53, art. 54 i art. 64a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 1 września 2007 r.
+- **2)** art. 53, art. 54 i art. 64a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 1 września 2007 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela i ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658 oraz z 2007 r. Nr 42, poz. 273. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493 oraz z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658.
 
 

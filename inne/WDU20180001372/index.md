@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 4 lipca 2018 r. w sprawie mianowania na stopnie funkcjonariuszy Służby Ochrony Państwa
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 4 lipca 2018 r. w sprawie mianowania na stopnie funkcjonariuszy Służby Ochrony Państwa Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-04 |
 | Data wydania | 2018-07-17 |
-| Wejście w życie | 2018-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001372) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1372/text.pdf) |
 
@@ -78,6 +77,5 @@ Jeżeli funkcjonariusz mianowany na stopień nie mógł przybyć na uroczystoś�
 2.
 Akt mianowania na stopień funkcjonariusza, który zmarł przed jego otrzymaniem, lub akt mianowania nadany pośmiertnie wręcza się najbliższym członkom jego rodziny.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 2 września 2002 r. w sprawie mianowania na stopnie funkcjonariuszy Biura Ochrony Rządu (Dz. U. poz. 1321), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 2 września 2002 r. w sprawie mianowania na stopnie funkcjonariuszy Biura Ochrony Rządu (Dz. U. poz. 1321), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730). 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 2 września 2002 r. w sprawie mianowania na stopnie funkcjonariuszy Biura Ochrony Rządu (Dz. U. poz. 1321), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Edukacjiz dnia 8 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej i Sportu w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy
+# Obwieszczenie Ministra Edukacjiz dnia 8 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej i Sportu w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 
 | Pole | Wartość |
 |---|---|
@@ -62,93 +62,64 @@ rozporządzeniem Ministra Edukacji z dnia 19 lutego 2024 r. zmieniającym rozpor
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 18 czerwca 2014 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 922), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 18 czerwca 2014 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 922), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2014 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 września 2014 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 11 czerwca 2015 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 868), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 11 czerwca 2015 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 868), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2015 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 września 2015 r. ” ;
 3)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 4 lipca 2016 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1029), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 4 lipca 2016 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1029), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2016 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 września 2016 r. ” ;
 4)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 20 marca 2017 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 630), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 20 marca 2017 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 630), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 5)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 26 marca 2018 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 638), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 26 marca 2018 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 638), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r. ” ;
 6)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 8 lutego 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 249), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 8 lutego 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 249), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 7)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 14 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1587), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 14 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1587), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. ” ;
 8)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 12 grudnia 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 2441), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 12 grudnia 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 2441), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. ” ;
 9)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 27 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1491), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 27 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1491), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 września 2020 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 września 2020 r. ” ;
 10)
-§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 22 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 787), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 22 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 787), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 11)
-§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 13 maja 2022 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1057), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 13 maja 2022 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1057), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 maja 2022 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 maja 2022 r. ” ;
 12)
-§ 2 i § 3 rozporządzenia Ministra Edukacji i Nauki z dnia 24 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1798), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Edukacji i Nauki z dnia 24 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1798), które stanowią: „
 § 2.
 Do dnia 31 sierpnia 2027 r. do uzyskania dodatku funkcyjnego są uprawnieni również nauczyciele, którym powierzono sprawowanie funkcji opiekuna stażu dla nauczycieli odbywających staż na stopień nauczyciela mianowanego, o których mowa w art. 10 ust. 1–5 ustawy z dnia 5 sierpnia 2022 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1730), przez okres sprawowania tej funkcji.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r. ” ;
 13)
-§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 24 lutego 2023 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 352), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji i Nauki z dnia 24 lutego 2023 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 352), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 września 2022 r., z wyjątkiem § 1 pkt 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2023 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 września 2022 r., z wyjątkiem § 1 pkt 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2023 r. ” ;
 14)
-§ 2 rozporządzenia Ministra Edukacji z dnia 19 lutego 2024 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 234), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji z dnia 19 lutego 2024 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 234), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2024 r.
-” .
-1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 31 stycznia 2005 r. w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2024 r. ” . 1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 31 stycznia 2005 r. w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracyNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
 Na podstawie art. 30 ust. 5, art. 33 ust. 3 oraz art. 34 ust. 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2023 r. poz. 984, 1234, 1586, 1672 i 2005) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
@@ -179,12 +150,12 @@ Udokumentowanie prawa do określonej stawki wynagrodzenia zasadniczego następuj
 1.
 Nauczycielom, którzy ukończyli do dnia 31 grudnia 1989 r. wyższe seminarium duchowne, przysługują minimalne stawki wynagrodzenia zasadniczego przewidziane dla nauczycieli legitymujących się tytułem zawodowym magistra.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 24 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1798), które weszło w życie z dniem 1 września 2022 r.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 24 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1798), które weszło w życie z dniem 1 września 2022 r.
 § 5.
 Do uzyskania dodatku funkcyjnego uprawnieni są nauczyciele, którym powierzono:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 8 lutego 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 249), które weszło w życie z dniem 9 lutego 2019 r.)
 stanowisko dyrektora lub wicedyrektora przedszkola, szkoły, placówki lub innej jednostki organizacyjnej, o której mowa w art. 1 ust. 1 Karty Nauczyciela, zwanej dalej „szkołą”, albo inne stanowisko kierownicze przewidziane w statucie szkoły;
 2)
 sprawowanie funkcji:
@@ -192,9 +163,9 @@ a)
 wychowawcy klasy,
 b)
 doradcy metodycznego lub nauczyciela-konsultanta,
-c)
+cW brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.)
 mentora,
-d)
+dDodana przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 14 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1587), które weszło w życie z dniem 1 września 2019 r.)
 nauczyciela opiekującego się oddziałem przedszkolnym.
 § 6.
 Do ogólnych warunków przyznawania nauczycielom dodatku motywacyjnego należą:
@@ -227,9 +198,9 @@ praktycznej nauki zawodu szkół górniczych – zajęć praktycznych pod ziemi�
 praktycznej nauki zawodu szkół leśnych – zajęć w lesie;
 3)
 praktycznej nauki zawodu szkół rolniczych – zajęć praktycznych w terenie z zakresu produkcji roślinnej, zwierzęcej i mechanizacji rolnictwa;
-4)
+4Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Edukacji z dnia 19 lutego 2024 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 234), które weszło w życie z mocą od dnia 1 stycznia 2024 r.)
 praktycznej nauki zawodu szkół medycznych – zajęć w pomieszczeniach zakładów leczniczych podmiotów leczniczych i jednostek organizacyjnych pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i 2760 oraz z 2024 r. poz. 743), przeznaczonych dla: noworodków, dzieci do lat trzech, dzieci niepełnosprawnych ruchowo oraz dla osób (dzieci i dorosłych) upośledzonych umysłowo, psychicznie chorych, przewlekle chorych, z uszkodzeniami centralnego i obwodowego układu nerwowego, w oddziałach intensywnej opieki medycznej oraz w żłobkach;
-5)
+5Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 24 lutego 2023 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 352), które weszło w życie z mocą od dnia 1 września 2022 r.)
 praktycznej nauki zawodu – zajęć w szkołach specjalnych oraz w szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich;
 6)
 zajęć dydaktycznych w szkołach (oddziałach) przysposabiających do pracy;
@@ -245,9 +216,9 @@ zajęć dydaktycznych w klasach łączonych w szkołach podstawowych;
 zajęć dydaktycznych w języku obcym w szkołach z obcym językiem wykładowym, z wyjątkiem zajęć prowadzonych przez nauczycieli języka obcego, prowadzenie zajęć dydaktycznych w szkołach, w których zajęcia są prowadzone dwujęzycznie oraz przez nauczycieli danego języka obcego w oddziałach dwujęzycznych, a także prowadzenie zajęć dydaktycznych w języku obcym w nauczycielskich kolegiach języków obcych, z wyjątkiem lektorów języka obcego;
 12)
 zajęć dydaktycznych w oddziałach klas realizujących program „Międzynarodowej Matury” z przedmiotów objętych postępowaniem egzaminacyjnym;
-13)
+13Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 7.)
 zajęć dydaktycznych w szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich i placówkach opiekuńczo-wychowawczych;
-14)
+14W brzmieniu ustalonym przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 7.)
 zajęć wychowawczych, opiekuńczych, terapeutycznych oraz badań i działań diagnostycznych prowadzonych bezpośrednio z nieletnimi lub na ich rzecz w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich;
 15)
 zajęć wychowawczych bezpośrednio z wychowankami lub na ich rzecz w specjalnych ośrodkach szkolno-wychowawczych (w tym w internatach);
@@ -256,7 +227,7 @@ zajęć wychowawczych bezpośrednio z wychowankami lub na ich rzecz w placówkac
 17)
 zajęć wychowawczych bezpośrednio z wychowankami lub na ich rzecz w młodzieżowych ośrodkach wychowawczych i młodzieżowych ośrodkach socjoterapii;
 18)
-(uchylony);
+(uchylony);Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
 19)
 badań psychologicznych i pedagogicznych, w tym badań logopedycznych, udzielanie dzieciom i młodzieży pomocy psychologiczno-pedagogicznej, w tym pomocy logopedycznej, pomocy w wyborze kierunku kształcenia i zawodu, a także udzielanie rodzicom i nauczycielom pomocy psychologiczno-pedagogicznej związanej z wychowywaniem i kształceniem dzieci i młodzieży w poradniach psychologiczno-pedagogicznych oraz w innych poradniach specjalistycznych.
 § 9.
@@ -267,7 +238,7 @@ wymienionych w § 8 pkt 4–16 z dziećmi i młodzieżą, których stan zdrowia 
 z dziećmi i młodzieżą upośledzonymi w stopniu lekkim, wśród których znajduje się co najmniej jedno dziecko ze stanem chorobowym, wymienionym w § 2 ust. 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 1 lutego 2002 r. w sprawie kryteriów oceny niepełnosprawności u osób w wieku do 16 roku życia oraz w § 32 ust. 1 rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 15 lipca 2003 r. w sprawie orzekania o niepełnosprawności i stopniu niepełnosprawności;
 3)
 z dziećmi i młodzieżą upośledzonymi w stopniu lekkim, wśród których znajduje się co najmniej jedno dziecko upośledzone umysłowo w stopniu umiarkowanym lub znacznym, pod warunkiem że zajęcia dydaktyczne z tym dzieckiem prowadzone są według odrębnego programu nauczania obowiązującego w danego typu szkole specjalnej, a zajęcia wychowawcze – według odrębnego programu wychowawczego opracowanego przez wychowawcę;
-4)
+4W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7.)
 z nieletnimi:
 a)
 mającymi problem ze szkodliwym lub nałogowym nadużywaniem substancji psychoaktywnych, z zaburzeniami rozwoju osobowości na tle organicznego uszkodzenia centralnego układu nerwowego, z niepsychotycznymi zaburzeniami psychicznymi lub z zaburzeniami zachowania wymagającymi stałej opieki psychiatrycznej, przebywającymi w okręgowych ośrodkach wychowawczych i zakładach poprawczych,
@@ -284,8 +255,12 @@ Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 11 maja 2000 r. w s
 § 14.
 Przepisy rozporządzenia mają zastosowanie do wynagrodzeń należnych od dnia 1 stycznia 2005 r.
 § 15.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 24 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1798), które weszło w życie z dniem 1 września 2022 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 8 lutego 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 249), które weszło w życie z dniem 9 lutego 2019 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodana przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 14 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1587), które weszło w życie z dniem 1 września 2019 r. 6) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Edukacji z dnia 19 lutego 2024 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 234), które weszło w życie z mocą od dnia 1 stycznia 2024 r. 7) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 24 lutego 2023 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 352), które weszło w życie z mocą od dnia 1 września 2022 r. 8) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 7. 9) W brzmieniu ustalonym przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 7. 10) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 11) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7. 12) Rozporządzenie zostało ogłoszone w dniu 9 lutego 2005 r.
-Załącznik – Wysokość minimalnych stawek wynagrodzenia zasadniczego
-1) 2) Lp. Poziom wykształcenia Nauczyciel nieposiadającystopnia awansu zawodowego(nauczyciel początkujący) Nauczyciel mianowany Nauczyciel dyplomowany 1 Tytuł zawodowy magistraz przygotowaniem pedagogicznym 4908 5057 5915 2 Tytuł zawodowy magistra bez przygotowania pedagogicznego, tytuł zawodowy licencjata (inżyniera) z przygotowaniem pedagogicznym, tytuł zawodowy licencjata (inżyniera) bez przygotowania pedagogicznego, dyplom ukończenia kolegium nauczycielskiego lub nauczycielskiego kolegium języków obcych, pozostałe wykształcenie 4788 4910 5148 1) Minimalne stawki wynagrodzenia zasadniczego obowiązujące od dnia 1 stycznia 2024 r. 2) Podstawę do ustalenia minimalnej stawki wynagrodzenia zasadniczego nauczyciela stanowi najwyższy posiadany przez nauczyciela poziom wykształcenia.
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 9 lutego 2005 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Przez § 1 pkt 1 rozporządzenia Ministra Edukacji i Nauki z dnia 24 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1798), które weszło w życie z dniem 1 września 2022 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 8 lutego 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 249), które weszło w życie z dniem 9 lutego 2019 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodana przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 14 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 1587), które weszło w życie z dniem 1 września 2019 r. 6) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Edukacji z dnia 19 lutego 2024 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 234), które weszło w życie z mocą od dnia 1 stycznia 2024 r. 7) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 24 lutego 2023 r. zmieniającego rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. poz. 352), które weszło w życie z mocą od dnia 1 września 2022 r. 8) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 7. 9) W brzmieniu ustalonym przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 7. 10) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 11) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7. 12) Rozporządzenie zostało ogłoszone w dniu 9 lutego 2005 r.
+Załącznik – Wysokość minimalnych stawek wynagrodzenia zasadniczegoW brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6.
+1) 2)
+Lp. Poziom wykształcenia Nauczyciel nieposiadający
+stopnia awansu zawodowego
+(nauczyciel początkujący) Nauczyciel mianowany Nauczyciel dyplomowany 1 Tytuł zawodowy magistra
+z przygotowaniem pedagogicznym 4908 5057 5915 2 Tytuł zawodowy magistra bez przygotowania pedagogicznego, tytuł zawodowy licencjata (inżyniera) z przygotowaniem pedagogicznym, tytuł zawodowy licencjata (inżyniera) bez przygotowania pedagogicznego, dyplom ukończenia kolegium nauczycielskiego lub nauczycielskiego kolegium języków obcych, pozostałe wykształcenie 4788 4910 5148
+1) Minimalne stawki wynagrodzenia zasadniczego obowiązujące od dnia 1 stycznia 2024 r. 2) Podstawę do ustalenia minimalnej stawki wynagrodzenia zasadniczego nauczyciela stanowi najwyższy posiadany przez nauczyciela poziom wykształcenia. 13) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6.
 

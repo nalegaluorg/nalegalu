@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 lutego 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie inwestycji w przetwarzanie produktów rolnych, obrót nimi lub ich rozwój” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 lutego 2017 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie inwestycji w przetwarzanie produktów rolnych, obrót nimi lub ich rozwój” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-24 |
 | Data wydania | 2017-03-03 |
-| Wejście w życie | 2017-03-04 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/475/text.pdf) |
 
@@ -31,20 +30,15 @@ Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu r
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 5 października 2015 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania „Wsparcie inwestycji w przetwarzanie produktów rolnych, obrót nimi lub ich rozwój” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1581 oraz z 2016 r. poz. 1191 i 1750) wprowadza się następujące zmiany:
 1)
-w § 11 w ust. 2 po pkt 23 dodaje się pkt 23a w brzmieniu:
-„
+w § 11 w ust. 2 po pkt 23 dodaje się pkt 23a w brzmieniu: „
 23a)
-kopie co najmniej 3 ofert dotyczących nabycia rzeczy lub usług, otrzymanych od różnych dostawców lub wykonawców, a w przypadku gdy nie istnieje możliwość ich nabycia od 3 dostawców lub wykonawców, w szczególności ze względu na konieczność zastosowania technologii zgodnej z technologią produkcji stosowaną przez podmiot ubiegający się o przyznanie pomocy, kopię co najmniej 1 oferty – w przypadku operacji, o której mowa w § 3 pkt 1 lit. a, w odniesieniu do każdego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, którego koszt przekracza 20 tys. zł netto, dotyczącego inwestycji innej niż określona w pkt 23;
-” ;
+kopie co najmniej 3 ofert dotyczących nabycia rzeczy lub usług, otrzymanych od różnych dostawców lub wykonawców, a w przypadku gdy nie istnieje możliwość ich nabycia od 3 dostawców lub wykonawców, w szczególności ze względu na konieczność zastosowania technologii zgodnej z technologią produkcji stosowaną przez podmiot ubiegający się o przyznanie pomocy, kopię co najmniej 1 oferty – w przypadku operacji, o której mowa w § 3 pkt 1 lit. a, w odniesieniu do każdego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, którego koszt przekracza 20 tys. zł netto, dotyczącego inwestycji innej niż określona w pkt 23; ” ;
 2)
-w § 23 po ust. 3 dodaje się ust. 3a w brzmieniu:
-„
+w § 23 po ust. 3 dodaje się ust. 3a w brzmieniu: „
 3a.
-W przypadku przyznania pomocy na operację, o której mowa w § 3 pkt 1 lit. a, refundacji podlegają również koszty kwalifikowalne poniesione przed dniem zawarcia umowy, lecz nie wcześniej niż od dnia, w którym został złożony wniosek o przyznanie pomocy, jeżeli realizacja zestawienia rzeczowo-finansowego operacji w zakresie danego kosztu została rozpoczęta nie wcześniej niż w dniu, w którym został złożony wniosek o przyznanie pomocy, a w przypadku kosztów ogólnych – od dnia 1 stycznia 2014 r.
-” .
+W przypadku przyznania pomocy na operację, o której mowa w § 3 pkt 1 lit. a, refundacji podlegają również koszty kwalifikowalne poniesione przed dniem zawarcia umowy, lecz nie wcześniej niż od dnia, w którym został złożony wniosek o przyznanie pomocy, jeżeli realizacja zestawienia rzeczowo-finansowego operacji w zakresie danego kosztu została rozpoczęta nie wcześniej niż w dniu, w którym został złożony wniosek o przyznanie pomocy, a w przypadku kosztów ogólnych – od dnia 1 stycznia 2014 r. ” .
 § 2.
 Do przyznawania pomocy finansowej w ramach poddziałania „Wsparcie inwestycji w przetwarzanie produktów rolnych, obrót nimi lub ich rozwój” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

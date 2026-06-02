@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 14 grudnia 2017 r. o zmianie niektórych ustaw w celu ułatwienia zwalczania chorób zakaźnych zwierząt
+# Ustawa z dnia 14 grudnia 2017 r. o zmianie niektórych ustaw w celu ułatwienia zwalczania chorób zakaźnych zwierząt Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 13 października 1995 r. – Prawo łowieckie, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej i ustawę z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-14 |
 | Data wydania | 2018-01-09 |
-| Wejście w życie | 2018-01-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000050) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/50/text.pdf) |
 
@@ -44,7 +43,7 @@ source: "eli-html"
 
 4. Wojewoda może zlecać innym podmiotom utrzymanie urządzeń lub budowli, o których mowa w ust. 1 i 2, w tym ich obsługę techniczną obejmującą naprawę, remont i wymianę.
 
-5. Starosta, wykonujący zadanie z zakresu administracji rządowej, może ograniczyć, w drodze decyzji, sposób korzystania z nieruchomości, o której mowa w ust. 1 i 2, przez udzielenie zezwolenia na wykonanie urządzeń lub budowli służących zapobieganiu lub zwalczaniu chorób zakaźnych zwierząt, jeżeli właściciel nieruchomości nie wyraża na to zgody. Przepisy art. 124 ust. 1a-8 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm.) stosuje się. ” .
+5. Starosta, wykonujący zadanie z zakresu administracji rządowej, może ograniczyć, w drodze decyzji, sposób korzystania z nieruchomości, o której mowa w ust. 1 i 2, przez udzielenie zezwolenia na wykonanie urządzeń lub budowli służących zapobieganiu lub zwalczaniu chorób zakaźnych zwierząt, jeżeli właściciel nieruchomości nie wyraża na to zgody. Przepisy art. 124 ust. 1a-8 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529, 1566, 1595 i 2375.) stosuje się. ” .
 
 **Art. 2.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2017 r. poz. 1295) wprowadza się następujące zmiany:
 
@@ -110,7 +109,7 @@ source: "eli-html"
 - **7)** w art. 51 w ust. 1 w pkt 7 na końcu dodaje się przecinek i dodaje się pkt 8 w brzmieniu: „
 - **8)** umyślnie utrudnia lub uniemożliwia wykonywanie polowania ” .
 
-**Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm.) w art. 6 po pkt 9c dodaje się pkt 9d w brzmieniu: „
+**Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529, 1566, 1595 i 2375.) w art. 6 po pkt 9c dodaje się pkt 9d w brzmieniu: „
 
 - **9d)** wykonywanie urządzeń lub budowli służących zapobieganiu lub zwalczaniu chorób zakaźnych zwierząt; ” .
 
@@ -229,5 +228,5 @@ source: "eli-html"
 
 **Art. 7.** W 2018 r. łączny wymiar zwolnień, o którym mowa w art. 47c ust. 4 ustawy zmienianej w art. 5, nie może przekroczyć 6 dni kalendarzowych.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 13 października 1995 r. – Prawo łowieckie, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej i ustawę z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529, 1566, 1595 i 2375. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529, 1566, 1595 i 2375.
 

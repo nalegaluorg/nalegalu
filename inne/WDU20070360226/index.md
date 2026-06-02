@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-01-26 |
 | Data wydania | 2007-02-28 |
-| Wejście w życie | 2007-03-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070360226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/226/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 99, poz. 1001 i Nr 273, poz. 2703, z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788, Nr 164, poz. 1366, Nr 179, poz. 1487 i Nr 180, poz. 1493, z 2006 r. Nr 144, poz. 1043, Nr 186, poz. 1380, Nr 249, poz. 1831 i Nr 251, poz. 1844 oraz z 2007 r. Nr 35, poz. 219.) wprowadza się następujące zmiany:
 
 - **1)** w art. 97 ust. 5 otrzymuje brzmienie: „
 
@@ -42,5 +41,5 @@ source: "eli-html"
 
 8. Starosta przy pomocy powiatowego centrum pomocy rodzinie sprawuje nadzór nad działalnością rodzinnej opieki zastępczej, ośrodków adopcyjno-opiekuńczych, jednostek specjalistycznego poradnictwa, w tym rodzinnego, oraz ośrodków wsparcia, domów pomocy społecznej, placówek opiekuńczo-wychowawczych i ośrodków interwencji kryzysowej. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 99, poz. 1001 i Nr 273, poz. 2703, z 2005 r. Nr 64, poz. 565, Nr 94, poz. 788, Nr 164, poz. 1366, Nr 179, poz. 1487 i Nr 180, poz. 1493, z 2006 r. Nr 144, poz. 1043, Nr 186, poz. 1380, Nr 249, poz. 1831 i Nr 251, poz. 1844 oraz z 2007 r. Nr 35, poz. 219.
 

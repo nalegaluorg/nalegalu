@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-08 |
 | Data wydania | 2018-03-16 |
-| Wejście w życie | 2018-03-31 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000564) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/564/text.pdf) |
 
@@ -31,34 +30,27 @@ Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu r
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Gospodarka wodno-ściekowa” w ramach poddziałania „Wsparcie inwestycji związanych z tworzeniem, ulepszaniem lub rozbudową wszystkich rodzajów małej infrastruktury, w tym inwestycji w energię odnawialną i w oszczędzanie energii” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1182 oraz z 2017 r. poz. 164) wprowadza się następujące zmiany:
 1)
-w § 4 pkt 8 otrzymuje brzmienie:
-„
+w § 4 pkt 8 otrzymuje brzmienie: „
 8)
-suma kosztów całkowitych operacji nie przekroczy dwukrotności wysokości pomocy na tę operację ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich;
-” ;
+suma kosztów całkowitych operacji nie przekroczy dwukrotności wysokości pomocy na tę operację ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich; ” ;
 2)
 w § 6 w ust. 1 po wyrazie „wysokości” dodaje się wyraz „do”;
 3)
-w § 8 ust. 2 otrzymuje brzmienie:
-„
+w § 8 ust. 2 otrzymuje brzmienie: „
 2.
-Ogłoszenie, o którym mowa w ust. 1, zawiera wskazanie dnia rozpoczęcia i dnia zakończenia terminu składania wniosków o przyznanie pomocy, miejsca składania wniosków o przyznanie pomocy oraz przewidywaną na ostatni dzień miesiąca poprzedzającego miesiąc podania do publicznej wiadomości ogłoszenia o naborze wniosków o przyznanie pomocy wysokość środków w ramach limitu środków dostępnych dla danego województwa.
-” ;
+Ogłoszenie, o którym mowa w ust. 1, zawiera wskazanie dnia rozpoczęcia i dnia zakończenia terminu składania wniosków o przyznanie pomocy, miejsca składania wniosków o przyznanie pomocy oraz przewidywaną na ostatni dzień miesiąca poprzedzającego miesiąc podania do publicznej wiadomości ogłoszenia o naborze wniosków o przyznanie pomocy wysokość środków w ramach limitu środków dostępnych dla danego województwa. ” ;
 4)
 w § 14:
 a)
 uchyla się ust. 1 i 2,
 b)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Jeżeli we wniosku o przyznanie pomocy na operację umieszczoną na liście, o której mowa w § 13 ust. 1, stwierdzono braki, właściwy organ samorządu województwa wzywa, w formie pisemnej, podmiot ubiegający się o przyznanie pomocy do usunięcia tych braków w terminie 14 dni od dnia doręczenia wezwania.
-” ,
+Jeżeli we wniosku o przyznanie pomocy na operację umieszczoną na liście, o której mowa w § 13 ust. 1, stwierdzono braki, właściwy organ samorządu województwa wzywa, w formie pisemnej, podmiot ubiegający się o przyznanie pomocy do usunięcia tych braków w terminie 14 dni od dnia doręczenia wezwania. ” ,
 c)
 uchyla się ust. 6 i 7,
 d)
-dodaje się ust. 8 w brzmieniu:
-„
+dodaje się ust. 8 w brzmieniu: „
 8.
 Przepisów ust. 3–5 nie stosuje się:
 1)
@@ -66,14 +58,11 @@ jeżeli nastąpiła odmowa przyznania pomocy, w przypadku, o którym mowa w § 2
 2)
 jeżeli zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy, lub
 3)
-jeżeli stwierdzone braki dotyczą danych niezbędnych do ustalenia spełniania kryteriów wyboru operacji.
-” ;
+jeżeli stwierdzone braki dotyczą danych niezbędnych do ustalenia spełniania kryteriów wyboru operacji. ” ;
 5)
-§ 15 otrzymuje brzmienie:
-„
+§ 15 otrzymuje brzmienie: „
 § 15.
-Właściwy organ samorządu województwa albo samorządowa jednostka, po zakończeniu sprawdzenia spełniania warunków przyznania pomocy, niezwłocznie aktualizuje i podaje do publicznej wiadomości listę, o której mowa w § 13 ust. 1, na stronie internetowej urzędu marszałkowskiego albo samorządowej jednostki oraz w urzędzie marszałkowskim albo w samorządowej jednostce, wskazując wnioski o przyznanie pomocy spełniające warunki przyznania pomocy.
-” ;
+Właściwy organ samorządu województwa albo samorządowa jednostka, po zakończeniu sprawdzenia spełniania warunków przyznania pomocy, niezwłocznie aktualizuje i podaje do publicznej wiadomości listę, o której mowa w § 13 ust. 1, na stronie internetowej urzędu marszałkowskiego albo samorządowej jednostki oraz w urzędzie marszałkowskim albo w samorządowej jednostce, wskazując wnioski o przyznanie pomocy spełniające warunki przyznania pomocy. ” ;
 6)
 w § 18 uchyla się pkt 4;
 7)
@@ -81,8 +70,7 @@ w § 20:
 a)
 w ust. 1 uchyla się pkt 4,
 b)
-w ust. 2 w pkt 1 lit. b otrzymuje brzmienie:
-„
+w ust. 2 w pkt 1 lit. b otrzymuje brzmienie: „
 b)
 zgodnie z przepisami:
 – o zamówieniach publicznych – w przypadku gdy te przepisy mają zastosowanie,

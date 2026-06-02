@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę pokryć dachowych z materiałów szkodliwych dla zdrowia lub środowiska w gospodarstwach rolnych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę pokryć dachowych z materiałów szkodliwych dla zdrowia lub środowiska w gospodarstwach rolnych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-29 |
 | Data wydania | 2022-08-30 |
-| Wejście w życie | 2022-08-31 |
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001830) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1830/text.pdf) |
 
@@ -54,7 +53,7 @@ Wsparcia udziela się zgodnie z regulaminem wyboru przedsięwzięć do objęcia 
 3.
 Wsparcia udziela się, jeżeli wnioskodawca zobowiąże się, że co najmniej do dnia upływu 3 lat od dnia zawarcia umowy o objęcie przedsięwzięcia wsparciem będzie utrzymywał efekty realizacji przedsięwzięcia.
 § 5.
-Wsparcie stanowi pomoc publiczną udzielaną zgodnie z warunkami określonymi w przepisach rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.) oraz przepisami ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
+Wsparcie stanowi pomoc publiczną udzielaną zgodnie z warunkami określonymi w przepisach rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15. oraz przepisami ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
 § 6.
 Poziom udzielonego wsparcia nie może przekroczyć 40% standardowej stawki jednostkowej określonej w regulaminie wyboru przedsięwzięć do objęcia wsparciem.
 § 7.
@@ -107,6 +106,5 @@ W przypadku złożenia przez wnioskodawcę w ramach naboru więcej niż jednego 
 § 13.
 Zabezpieczeniem należytego wykonania przez ostatecznego odbiorcę wsparcia zobowiązań określonych w umowie o objęcie przedsięwzięcia wsparciem jest weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez Agencję.
 § 14.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 48 z 20.02.2019, str. 1 oraz Dz. Urz. UE L 414 z 09.12.2020, str. 15.
 

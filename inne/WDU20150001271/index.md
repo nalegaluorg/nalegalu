@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-26 |
 | Data wydania | 2015-08-31 |
-| Wejście w życie | 2015-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001271) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1271/text.pdf) |
 
@@ -41,17 +40,13 @@ w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Mięso zbadane na o
 2)
 w § 9:
 a)
-w ust. 1 pkt 6 otrzymuje brzmienie:
-„
+w ust. 1 pkt 6 otrzymuje brzmienie: „
 6)
-w przypadku badania mięsa świń, nutrii i dzików, informację o ograniczeniach w sposobie wykorzystania mięsa – jeżeli badanie na obecność włośni przeprowadzono przy zastosowaniu metody badania trychinoskopowego określonej w załączniku nr 3 do rozporządzenia.
-” ,
+w przypadku badania mięsa świń, nutrii i dzików, informację o ograniczeniach w sposobie wykorzystania mięsa – jeżeli badanie na obecność włośni przeprowadzono przy zastosowaniu metody badania trychinoskopowego określonej w załączniku nr 3 do rozporządzenia. ” ,
 b)
-w ust. 2 w pkt 1 lit. f otrzymuje brzmienie:
-„
+w ust. 2 w pkt 1 lit. f otrzymuje brzmienie: „
 f)
-informację o ograniczeniach w sposobie wykorzystania mięsa – jeżeli badanie próbek na obecność włośni przeprowadzono przy zastosowaniu metody badania trychinoskopowego określonej w załączniku nr 3 do rozporządzenia.
-” ;
+informację o ograniczeniach w sposobie wykorzystania mięsa – jeżeli badanie próbek na obecność włośni przeprowadzono przy zastosowaniu metody badania trychinoskopowego określonej w załączniku nr 3 do rozporządzenia. ” ;
 3)
 dodaje się załącznik nr 3 do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
 § 2.

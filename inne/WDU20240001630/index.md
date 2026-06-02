@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 października 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje odtwarzające potencjał produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w odtwarzanie gruntów rolnych i przywracanie potencjału produkcji rolnej zniszczonego w wyniku klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 października 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Inwestycje odtwarzające potencjał produkcji rolnej” w ramach poddziałania „Wsparcie inwestycji w odtwarzanie gruntów rolnych i przywracanie potencjału produkcji rolnej zniszczonego w wyniku klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-31 |
 | Data wydania | 2024-11-07 |
-| Wejście w życie | 2024-11-08 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001630) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1630/text.pdf) |
 
@@ -35,24 +34,19 @@ w § 8:
 a)
 w ust. 1 zdanie drugie otrzymuje brzmienie: „ Wniosek o przyznanie pomocy składa się osobiście albo przez upoważnioną osobę, albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467 i 1222) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej. ” ,
 b)
-ust. 5 otrzymuje brzmienie:
-„
+ust. 5 otrzymuje brzmienie: „
 5.
-W przypadku złożenia wniosku o przyznanie pomocy przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej za dzień złożenia wniosku uznaje się dzień, w którym nadano tę przesyłkę.
-” ;
+W przypadku złożenia wniosku o przyznanie pomocy przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej za dzień złożenia wniosku uznaje się dzień, w którym nadano tę przesyłkę. ” ;
 2)
 w § 22:
 a)
 w ust. 1 zdanie drugie otrzymuje brzmienie: „ Wniosek o płatność składa się osobiście albo przez upoważnioną osobę, albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej. ” ,
 b)
-ust. 4 otrzymuje brzmienie:
-„
+ust. 4 otrzymuje brzmienie: „
 4.
-W przypadku złożenia wniosku o płatność przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej za dzień złożenia wniosku uznaje się dzień, w którym nadano tę przesyłkę.
-” ;
+W przypadku złożenia wniosku o płatność przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej za dzień złożenia wniosku uznaje się dzień, w którym nadano tę przesyłkę. ” ;
 3)
-po § 29 dodaje się § 29a-29c w brzmieniu:
-„
+po § 29 dodaje się § 29a-29c w brzmieniu: „
 § 29a.
 W przypadku naboru wniosków o przyznanie pomocy ogłoszonego w 2024 r. pomoc przyznaje się:
 1)
@@ -74,9 +68,7 @@ w jednym etapie, a wykonanie zakresu rzeczowego, zgodnie z zestawieniem rzeczowo
 § 29b.
 W przypadku, o którym mowa w § 29a, dokumenty, o których mowa w § 9 ust. 2 pkt 8 i 9, dołącza się do wniosku o przyznanie pomocy albo do wniosku o płatność.
 § 29c.
-W przypadku, o którym mowa w § 29a, Agencja rozpatruje wniosek o płatność w terminie 2 miesięcy od dnia złożenia tego wniosku i dokonuje wypłaty środków finansowych z tytułu pomocy niezwłocznie po pozytywnym rozpatrzeniu tego wniosku.
-” .
+W przypadku, o którym mowa w § 29a, Agencja rozpatruje wniosek o płatność w terminie 2 miesięcy od dnia złożenia tego wniosku i dokonuje wypłaty środków finansowych z tytułu pomocy niezwłocznie po pozytywnym rozpatrzeniu tego wniosku. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 

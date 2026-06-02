@@ -22,16 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-07-04 |
-| Wejście w życie | 2018-07-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1291/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2494 oraz z 2018 r. poz. 106, 138, 317, 398, 650, 685, 858, 912, 1076 i 1162.) wprowadza się następujące zmiany:
 
 - **1)** w art. 8 uchyla się ust. 7;
 - **2)** w art. 9a uchyla się ust. 9;
-- **3)** w art. 21: w ust. 1: – pkt 6a otrzymuje brzmienie: „ 6a) wygrane w: a) grach liczbowych, loteriach pieniężnych, grze telebingo, zakładach wzajemnych, loteriach promocyjnych, loteriach audioteksowych i loteriach fantowych, jeżeli jednorazowa wartość tych wygranych nie przekracza 2280 zł, b) grach na automatach, grach w karty, grach w kości, grach cylindrycznych, grach bingo pieniężne i grach bingo fantowe – urządzanych i prowadzonych przez uprawniony podmiot na podstawie przepisów o grach hazardowych obowiązujących w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego; ” , – uchyla się pkt 6b, – po pkt 83b dodaje się pkt 83c w brzmieniu: „ 83c) świadczenia z tytułu pomocy przyznanej na podstawie art. 14 ustawy z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2016 r. poz. 1197) oraz udzielonej na podstawie art. 7 ustawy z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21), a także inne świadczenia o podobnym charakterze otrzymane w związku z ujawnieniem wobec organu powołanego do ścigania przestępstw informacji dotyczących osób uczestniczących w popełnieniu przestępstwa oraz istotnych okoliczności jego popełnienia; ” , uchyla się ust. 6a, w ust. 23 skreśla się wyrazy „i 6b”;
+- **3)** w art. 21: w ust. 1: pkt 6a otrzymuje brzmienie: „
     - **a)**
+
+- **6a)** wygrane w: grach liczbowych, loteriach pieniężnych, grze telebingo, zakładach wzajemnych, loteriach promocyjnych, loteriach audioteksowych i loteriach fantowych, jeżeli jednorazowa wartość tych wygranych nie przekracza 2280 zł, grach na automatach, grach w karty, grach w kości, grach cylindrycznych, grach bingo pieniężne i grach bingo fantowe – urządzanych i prowadzonych przez uprawniony podmiot na podstawie przepisów o grach hazardowych obowiązujących w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego; ” , – uchyla się pkt 6b, po pkt 83b dodaje się pkt 83c w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **83c)** świadczenia z tytułu pomocy przyznanej na podstawie art. 14 ustawy z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2016 r. poz. 1197) oraz udzielonej na podstawie art. 7 ustawy z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21), a także inne świadczenia o podobnym charakterze otrzymane w związku z ujawnieniem wobec organu powołanego do ścigania przestępstw informacji dotyczących osób uczestniczących w popełnieniu przestępstwa oraz istotnych okoliczności jego popełnienia; ” , uchyla się ust. 6a, w ust. 23 skreśla się wyrazy „i 6b”;
     - **b)**
     - **c)**
 
@@ -66,7 +71,7 @@ source: "eli-html"
 - **1)** stanowi własność albo współwłasność podatnika,
 - **2)** jest składnikiem majątku związanym z działalnością gospodarczą,
 - **3)** został oddany w całości albo w części do używania na podstawie umowy najmu, dzierżawy lub innej umowy o podobnym charakterze,
-- **4)** jest położony na terytorium Rzeczypospolitej Polskiej zwany dalej „podatkiem od przychodów z budynków”, wynosi 0,035% podstawy opodatkowania za każdy miesiąc.
+- **4)** jest położony na terytorium Rzeczypospolitej Polskiej – zwany dalej „podatkiem od przychodów z budynków”, wynosi 0,035% podstawy opodatkowania za każdy miesiąc.
 
 2. Zwalnia się od podatku od przychodów z budynków przychód ze środka trwałego będącego budynkiem mieszkalnym oddanym do używania w ramach realizacji programów rządowych i samorządowych dotyczących budownictwa społecznego, jeżeli zwolnienie to stanowi rekompensatę spełniającą warunki określone w decyzji Komisji z dnia 20 grudnia 2011 r. w sprawie stosowania art. 106 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy państwa w formie rekompensaty z tytułu świadczenia usług publicznych, przyznawanej przedsiębiorstwom zobowiązanym do wykonywania usług świadczonych w ogólnym interesie gospodarczym (Dz. Urz. UE L 7 z 11.01.2012, str. 3).
 
@@ -133,7 +138,7 @@ source: "eli-html"
 
 - **1)** stanowi własność albo współwłasność podatnika,
 - **2)** został oddany w całości albo w części do używania na podstawie umowy najmu, dzierżawy lub innej umowy o podobnym charakterze,
-- **3)** jest położony na terytorium Rzeczypospolitej Polskiej zwany dalej „podatkiem od przychodów z budynków”, wynosi 0,035% podstawy opodatkowania za każdy miesiąc.
+- **3)** jest położony na terytorium Rzeczypospolitej Polskiej – zwany dalej „podatkiem od przychodów z budynków”, wynosi 0,035% podstawy opodatkowania za każdy miesiąc.
 
 2. Zwalnia się od podatku od przychodów z budynków przychód ze środka trwałego będącego budynkiem mieszkalnym oddanym do używania w ramach realizacji programów rządowych i samorządowych dotyczących budownictwa społecznego, jeżeli zwolnienie to stanowi rekompensatę spełniającą warunki określone w decyzji Komisji z dnia 20 grudnia 2011 r. w sprawie stosowania art. 106 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy państwa w formie rekompensaty z tytułu świadczenia usług publicznych, przyznawanej przedsiębiorstwom zobowiązanym do wykonywania usług świadczonych w ogólnym interesie gospodarczym (Dz. Urz. UE L 7 z 11.01.2012, str. 3).
 
@@ -199,7 +204,7 @@ source: "eli-html"
 
 - **1)** art. 8, art. 9a, art. 21 ust. 1 pkt 83c, art. 22 ust. 9b, art. 23 ust. 1 pkt 45a lit. a i ust. 9, art. 24 ust. 12a, art. 30g ust. 15 i 16, art. 45 ust. 3d oraz art. 52i ustawy zmienianej w art. 1,
 - **2)** art. 24b ust. 15 i 16 oraz art. 38d ustawy zmienianej w art. 2,
-- **3)** art. 9 i art. 12 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2018 r.
+- **3)** art. 9 i art. 12 ustawy zmienianej w art. 3 – w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2018 r.
 
 **Art. 5.** Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy i rozpoczął się przed dniem 1 stycznia 2019 r., a zakończy się po dniu 31 grudnia 2018 r., stosują do końca przyjętego przez siebie roku podatkowego przepisy art. 24b i art. 24c ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
 
@@ -211,5 +216,5 @@ source: "eli-html"
 
 **Art. 9.** Przepisy wykonawcze wydane na podstawie art. 52 ust. 3 ustawy zmienianej w art. 3, w brzmieniu obowiązującym do dnia 31 grudnia 2017 r., zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 52 ust. 3 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2018 r., i mogą być zmieniane.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 7 i 8 oraz art. 2 pkt 2 i 3, które wchodzą w życie z dniem 1 stycznia 2019 r.
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 7 i 8 oraz art. 2 pkt 2 i 3, które wchodzą w życie z dniem 1 stycznia 2019 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2494 oraz z 2018 r. poz. 106, 138, 317, 398, 650, 685, 858, 912, 1076 i 1162.
 

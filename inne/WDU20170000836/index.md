@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw
+# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 2 grudnia 2009 r. o izbach lekarskich oraz ustawę z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-23 |
 | Data wydania | 2017-04-26 |
-| Wejście w życie | 2017-05-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000836) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/836/text.pdf) |
 
@@ -90,10 +89,14 @@ source: "eli-html"
 - **9)** w art. 26: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
-2. Po śmierci pacjenta dokumentacja medyczna jest udostępniana osobie upoważnionej przez pacjenta za życia lub osobie, która w chwili zgonu pacjenta była jego przedstawicielem ustawowym. ” , w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) organom władzy publicznej, w tym Rzecznikowi Praw Pacjenta, Narodowemu Funduszowi Zdrowia, organom samorządu zawodów medycznych oraz konsultantom krajowym i wojewódzkim, w zakresie niezbędnym do wykonywania przez te podmioty ich zadań, w szczególności nadzoru i kontroli; ” , – po pkt 2a dodaje się pkt 2b w brzmieniu: „ 2b) upoważnionym przez podmiot, o którym mowa w art. 121 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, osobom wykonującym zawód medyczny, w zakresie niezbędnym do sprawowania nadzoru nad podmiotem leczniczym niebędącym przedsiębiorcą; ” , – pkt 8 otrzymuje brzmienie: „ 8) osobom wykonującym zawód medyczny, w związku z prowadzeniem procedury oceniającej podmiot udzielający świadczeń zdrowotnych na podstawie przepisów o akredytacji w ochronie zdrowia albo procedury uzyskiwania innych certyfikatów jakości, w zakresie niezbędnym do ich przeprowadzenia; ” , – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „ 12) członkom zespołów kontroli zakażeń szpitalnych, o których mowa w art. 14 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2016 r. poz. 1866, 2003 i 2173), w zakresie niezbędnym do wykonywania ich zadań. ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+2. Po śmierci pacjenta dokumentacja medyczna jest udostępniana osobie upoważnionej przez pacjenta za życia lub osobie, która w chwili zgonu pacjenta była jego przedstawicielem ustawowym. ” , w ust. 3: pkt 2 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **2)** organom władzy publicznej, w tym Rzecznikowi Praw Pacjenta, Narodowemu Funduszowi Zdrowia, organom samorządu zawodów medycznych oraz konsultantom krajowym i wojewódzkim, w zakresie niezbędnym do wykonywania przez te podmioty ich zadań, w szczególności nadzoru i kontroli; ” , po pkt 2a dodaje się pkt 2b w brzmieniu: „
+- **2b)** upoważnionym przez podmiot, o którym mowa w art. 121 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, osobom wykonującym zawód medyczny, w zakresie niezbędnym do sprawowania nadzoru nad podmiotem leczniczym niebędącym przedsiębiorcą; ” , pkt 8 otrzymuje brzmienie: „
+- **8)** osobom wykonującym zawód medyczny, w związku z prowadzeniem procedury oceniającej podmiot udzielający świadczeń zdrowotnych na podstawie przepisów o akredytacji w ochronie zdrowia albo procedury uzyskiwania innych certyfikatów jakości, w zakresie niezbędnym do ich przeprowadzenia; ” , w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+- **12)** członkom zespołów kontroli zakażeń szpitalnych, o których mowa w art. 14 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2016 r. poz. 1866, 2003 i 2173), w zakresie niezbędnym do wykonywania ich zadań. ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+    - **c)**
 
 3a. Dokumentacja medyczna podmiotów leczniczych, o których mowa w art. 89 ust. 1 i 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, instytutów badawczych, o których mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r. poz. 371, 1079, 1311 i 2260 oraz z 2017 r. poz. 202), i innych podmiotów udzielających świadczeń zdrowotnych uczestniczących w przygotowaniu osób do wykonywania zawodu medycznego i kształceniu osób wykonujących zawód medyczny jest udostępniana tym osobom wyłącznie w zakresie niezbędnym do realizacji celów dydaktycznych.
 
@@ -136,7 +139,7 @@ source: "eli-html"
 
 - **1)** jedną stronę wyciągu albo odpisu dokumentacji medycznej – nie może przekraczać 0,002,
 - **2)** jedną stronę kopii albo wydruku dokumentacji medycznej – nie może przekraczać 0,00007,
-- **3)** udostępnienie dokumentacji medycznej na informatycznym nośniku danych – nie może przekraczać 0,0004 przeciętnego wynagrodzenia w poprzednim kwartale, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2016 r. poz. 887, z późn. zm.), począwszy od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiło ogłoszenie. ” , dodaje się ust. 5 w brzmieniu: „
+- **3)** udostępnienie dokumentacji medycznej na informatycznym nośniku danych – nie może przekraczać 0,0004 – przeciętnego wynagrodzenia w poprzednim kwartale, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2016 r. poz. 887, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2036 i 2260 oraz z 2017 r. poz. 2, 38 i 715.), począwszy od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiło ogłoszenie. ” , dodaje się ust. 5 w brzmieniu: „
     - **c)**
 
 5. Wysokość opłaty, o której mowa w ust. 4, uwzględnia podatek od towarów i usług, jeżeli na podstawie odrębnych przepisów usługa jest opodatkowana tym podatkiem. ” ;
@@ -298,5 +301,5 @@ source: "eli-html"
 
 **Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 115 ust. 3 ustawy zmienianej w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 115 ust. 3 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 2 grudnia 2009 r. o izbach lekarskich oraz ustawę z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2036 i 2260 oraz z 2017 r. poz. 2, 38 i 715.
 

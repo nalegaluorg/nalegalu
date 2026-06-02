@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-19 |
 | Data wydania | 2015-01-28 |
-| Wejście w życie | 2015-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000150) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/150/text.pdf) |
 
@@ -49,7 +48,7 @@ source: "eli-html"
 
 1a. Przepisy ustawy stosuje się w latach 2015–2017 do przedsiębiorcy w rozumieniu art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej:
 
-- **1)** którego przeważający rodzaj wykonywanej działalności gospodarczej według Polskiej Klasyfikacji Działalności, wynikający z wpisu do krajowego rejestru urzędowego podmiotów gospodarki narodowej, określony na podstawie przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.), wskazuje na jej udział w handlu, przetwórstwie, transporcie, uprawach rolnych lub chowie i hodowli zwierząt, a także w wynikających z nich usługach, na krajowych lub zagranicznych rynkach towarowych, a produkt tej działalności doznał ograniczeń ilościowych lub wartościowych w obrocie handlowym na krajowych lub zagranicznych rynkach towarowych, w następstwie wystąpienia czasowych ograniczeń, z przyczyn niezależnych od przedsiębiorcy, wwozu towarów na terytoria innych krajów;
+- **1)** którego przeważający rodzaj wykonywanej działalności gospodarczej według Polskiej Klasyfikacji Działalności, wynikający z wpisu do krajowego rejestru urzędowego podmiotów gospodarki narodowej, określony na podstawie przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2 oraz z 2014 r. poz. 1161 i 1662.), wskazuje na jej udział w handlu, przetwórstwie, transporcie, uprawach rolnych lub chowie i hodowli zwierząt, a także w wynikających z nich usługach, na krajowych lub zagranicznych rynkach towarowych, a produkt tej działalności doznał ograniczeń ilościowych lub wartościowych w obrocie handlowym na krajowych lub zagranicznych rynkach towarowych, w następstwie wystąpienia czasowych ograniczeń, z przyczyn niezależnych od przedsiębiorcy, wwozu towarów na terytoria innych krajów;
 - **2)** u którego ograniczenia w obrocie handlowym, o których mowa w pkt 1, spowodowały spadek obrotów gospodarczych, rozumianych jako sprzedaż towarów lub usług, liczony w ujęciu ilościowym lub wartościowym, łącznie nie mniej niż o 15%, obliczony jako stosunek łącznych obrotów w ciągu dowolnie wskazanych 3 kolejnych miesięcy kalendarzowych, przypadających w okresie po dniu 6 sierpnia 2014 r. do dnia poprzedzającego dzień złożenia wniosku o przyznanie świadczeń, w porównaniu do łącznych obrotów z tych samych 3 miesięcy kalendarzowych roku poprzedniego; za miesiąc uważa się także 30 kolejno po sobie następujących dni kalendarzowych, w przypadku gdy trzymiesięczny okres porównawczy rozpoczyna się w trakcie miesiąca kalendarzowego, to jest w dniu innym niż pierwszy dzień danego miesiąca kalendarzowego;
 - **3)** który nie zalega w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, z wyjątkiem przypadku, gdy: zadłużony przedsiębiorca zawarł umowę z Zakładem Ubezpieczeń Społecznych lub otrzymał decyzję urzędu skarbowego w sprawie spłaty zadłużenia i terminowo opłaca raty lub korzysta z odroczenia terminu płatności albo zaleganie w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy powstało w okresie spadku obrotów gospodarczych, o którym mowa w pkt 2, a przedsiębiorca dołączył do wniosku o przyznanie świadczeń plan spłaty zadłużenia uprawdopodabniający pełną spłatę zaległości w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, wraz z kopią wniosku do Zakładu Ubezpieczeń Społecznych o rozłożenie na raty należności z tytułu tych składek lub o odroczenie płatności tych składek;
     - **a)**
@@ -64,10 +63,15 @@ source: "eli-html"
 
 **Art. 6.** Świadczenia, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1, przysługują pracownikowi zatrudnionemu u przedsiębiorcy spełniającego warunki, o których mowa w art. 3 ust. 1 albo 1a, przez łączny okres nie dłuższy niż 6 miesięcy w okresie 12 miesięcy od dnia podpisania umowy o wypłatę świadczeń. ” ;
 
-- **5)** w art. 8: w ust. 2: – pkt 1 i 2 otrzymują brzmienie: „ 1) kopię umowy zawartej z Zakładem Ubezpieczeń Społecznych lub kopię decyzji urzędu skarbowego w sprawie spłaty zadłużenia, w przypadku, o którym mowa w art. 3 ust. 1 pkt 2 lit. a albo ust. 1a pkt 3 lit. a; 2) plan spłaty zadłużenia z tytułu składek, zgodny ze złożonym wnioskiem o rozłożenie na raty należności z tytułu składek lub o odroczenie terminu płatności składek, w przypadku, o którym mowa w art. 3 ust. 1 pkt 2 lit. b albo ust. 1a pkt 3 lit. b; ” , – w pkt 3 średnik zastępuje się kropką i uchyla się pkt 4, w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) wystąpieniu u przedsiębiorcy spadku obrotów gospodarczych, o którym mowa w art. 3 ust. 1 pkt 1 albo ust. 1a pkt 2 w związku z zaistnieniem okoliczności, o których mowa w art. 3 ust. 1a pkt 1; ” , – pkt 4 otrzymuje brzmienie: „ 4) niezaleganiu albo zaleganiu w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, o którym mowa w art. 3 ust. 1 pkt 2 albo ust. 1a pkt 3; ” ;
+- **5)** w art. 8: w ust. 2: pkt 1 i 2 otrzymują brzmienie: „
     - **a)**
+
+- **1)** kopię umowy zawartej z Zakładem Ubezpieczeń Społecznych lub kopię decyzji urzędu skarbowego w sprawie spłaty zadłużenia, w przypadku, o którym mowa w art. 3 ust. 1 pkt 2 lit. a albo ust. 1a pkt 3 lit. a;
+- **2)** plan spłaty zadłużenia z tytułu składek, zgodny ze złożonym wnioskiem o rozłożenie na raty należności z tytułu składek lub o odroczenie terminu płatności składek, w przypadku, o którym mowa w art. 3 ust. 1 pkt 2 lit. b albo ust. 1a pkt 3 lit. b; ” , – w pkt 3 średnik zastępuje się kropką i uchyla się pkt 4, w ust. 3: pkt 2 otrzymuje brzmienie: „
     - **b)**
 
+- **2)** wystąpieniu u przedsiębiorcy spadku obrotów gospodarczych, o którym mowa w art. 3 ust. 1 pkt 1 albo ust. 1a pkt 2 w związku z zaistnieniem okoliczności, o których mowa w art. 3 ust. 1a pkt 1; ” , pkt 4 otrzymuje brzmienie: „
+- **4)** niezaleganiu albo zaleganiu w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, o którym mowa w art. 3 ust. 1 pkt 2 albo ust. 1a pkt 3; ” ;
 - **6)** art. 9 otrzymuje brzmienie: „
 
 **Art. 9.**
@@ -95,15 +99,16 @@ source: "eli-html"
 - **4)** wzór zapotrzebowania, o którym mowa w art. 9 ust. 4,
 - **5)** wzór zapotrzebowania, o którym mowa w art. 30b, oraz termin jego przekazania dysponentowi Funduszu,
 - **6)** termin i sposób rozliczenia się przedsiębiorcy z otrzymanych środków Funduszu na wypłatę świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 oraz środków, o których mowa w art. 5 ust. 3,
-- **7)** termin i sposób przekazywania ministrowi właściwemu do spraw pracy przez marszałka województwa informacji o wykorzystaniu środków na wypłatę świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 oraz środków, o których mowa w art. 5 ust. 3, oraz wzór tej informacji mając na uwadze prawidłowość dysponowania środkami Funduszu, o których mowa w art. 10, w związku z potrzebami krajowego rynku pracy oraz zapewnieniem właściwej organizacji wypłaty świadczeń na rzecz ochrony miejsc pracy z tytułu przestoju ekonomicznego lub obniżonego wymiaru czasu pracy. ” ;
+- **7)** termin i sposób przekazywania ministrowi właściwemu do spraw pracy przez marszałka województwa informacji o wykorzystaniu środków na wypłatę świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 oraz środków, o których mowa w art. 5 ust. 3, oraz wzór tej informacji – mając na uwadze prawidłowość dysponowania środkami Funduszu, o których mowa w art. 10, w związku z potrzebami krajowego rynku pracy oraz zapewnieniem właściwej organizacji wypłaty świadczeń na rzecz ochrony miejsc pracy z tytułu przestoju ekonomicznego lub obniżonego wymiaru czasu pracy. ” ;
 - **10)** w art. 18: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Przedsiębiorca, który zawarł umowę o wypłatę świadczeń, może wystąpić do starosty (prezydenta miasta na prawach powiatu) właściwego ze względu na siedzibę przedsiębiorcy z wnioskiem o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy, pod warunkiem że szkolenie jest uzasadnione obecnymi lub przyszłymi potrzebami przedsiębiorcy. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o dofinansowanie kosztów szkolenia pracowników, o którym mowa w ust. 1, zawiera: ” , – pkt 6 otrzymuje brzmienie: „ 6) wnioskowaną wysokość środków na dofinansowanie kosztów szkolenia. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do wniosku o dofinansowanie kosztów szkolenia pracowników, o którym mowa w ust. 1, przedsiębiorca dołącza: ” , ust. 5 otrzymuje brzmienie: „
+1. Przedsiębiorca, który zawarł umowę o wypłatę świadczeń, może wystąpić do starosty (prezydenta miasta na prawach powiatu) właściwego ze względu na siedzibę przedsiębiorcy z wnioskiem o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy, pod warunkiem że szkolenie jest uzasadnione obecnymi lub przyszłymi potrzebami przedsiębiorcy. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o dofinansowanie kosztów szkolenia pracowników, o którym mowa w ust. 1, zawiera: ” , pkt 6 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
-- **d)**
+- **6)** wnioskowaną wysokość środków na dofinansowanie kosztów szkolenia. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do wniosku o dofinansowanie kosztów szkolenia pracowników, o którym mowa w ust. 1, przedsiębiorca dołącza: ” , ust. 5 otrzymuje brzmienie: „
+    - **c)**
+    - **d)**
 
 5. W razie stwierdzenia braków formalnych wniosku o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy lub niespełniania warunków, o których mowa w ust. 1, starosta (prezydent miasta na prawach powiatu), w terminie 7 dni roboczych od dnia wpływu wniosku, wzywa przedsiębiorcę do uzupełnienia lub poprawienia wniosku w terminie 7 dni roboczych od dnia otrzymania wezwania. Po bezskutecznym upływie terminu wniosek o dofinansowanie kosztów szkolenia pracowników pozostawia się bez rozpoznania. ” ;
 
@@ -134,7 +139,7 @@ source: "eli-html"
 - **2)** wzór umowy o dofinansowanie kosztów szkolenia,
 - **3)** wzór zapotrzebowania, o którym mowa w art. 19 ust. 2a,
 - **4)** terminy i sposób przekazywania marszałkowi województwa przez starostów (prezydentów miast na prawach powiatu) oraz ministrowi właściwemu do spraw pracy – dysponentowi Funduszu Pracy w przypadku przedsiębiorcy, o którym mowa w art. 3 ust. 1, albo dysponentowi Funduszu w przypadku przedsiębiorcy, o którym mowa w art. 3 ust. 1a, przez marszałków województw informacji dotyczącej wykorzystania środków przeznaczonych na dofinansowanie kosztów szkolenia,
-- **5)** wzory informacji dotyczących wykorzystania środków przeznaczonych na dofinansowanie kosztów szkolenia pracowników mając na uwadze prawidłowość wydatkowania tych środków w związku z potrzebami krajowego rynku pracy oraz zapewnieniem właściwej organizacji wypłaty środków przeznaczonych na dofinansowanie kosztów szkolenia. ” ;
+- **5)** wzory informacji dotyczących wykorzystania środków przeznaczonych na dofinansowanie kosztów szkolenia pracowników – mając na uwadze prawidłowość wydatkowania tych środków w związku z potrzebami krajowego rynku pracy oraz zapewnieniem właściwej organizacji wypłaty środków przeznaczonych na dofinansowanie kosztów szkolenia. ” ;
 - **15)** w art. 25: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -185,5 +190,5 @@ source: "eli-html"
 - **1)** marszałkowi województwa – na wypłatę świadczeń na rzecz ochrony miejsc pracy;
 - **2)** staroście (prezydentowi miasta na prawach powiatu) – na dofinansowanie kosztów szkolenia pracowników. Dysponent Funduszu przekazuje na wyodrębniony rachunek bankowy samorządu województwa środki Funduszu na finansowanie kosztów obsługi zadań wynikających z ustawy na podstawie zapotrzebowania złożonego przez marszałka województwa. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 lutego 2015 r.
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 lutego 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2 oraz z 2014 r. poz. 1161 i 1662.
 

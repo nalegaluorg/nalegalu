@@ -22,18 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-24 |
 | Data wydania | 2022-03-18 |
-| Wejście w życie | 2022-03-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000631) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/631/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1, 200 i 202.) wprowadza się następujące zmiany:
 
 - **1)** w art. 7: po ust. 1c dodaje się ust. 1d w brzmieniu: „
     - **a)**
 
-1d. Umowy o przyłączenie do sieci nie zawiera się w przypadku, gdy do sieci przesyłowej gazowej ma być przyłączona inna sieć przesyłowa gazowa, a operatorem systemu dla obu sieci wyznaczono to samo przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw gazowych. ” , w ust. 8: – w pkt 1 po wyrazach „za przyłączenie do sieci przesyłowej” dodaje się wyraz „elektroenergetycznej”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) za przyłączenie do sieci przesyłowej gazowej pobiera się opłatę ustaloną na podstawie rzeczywistych nakładów poniesionych na realizację przyłączenia; ” ;
+1d. Umowy o przyłączenie do sieci nie zawiera się w przypadku, gdy do sieci przesyłowej gazowej ma być przyłączona inna sieć przesyłowa gazowa, a operatorem systemu dla obu sieci wyznaczono to samo przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw gazowych. ” , w ust. 8: – w pkt 1 po wyrazach „za przyłączenie do sieci przesyłowej” dodaje się wyraz „elektroenergetycznej”, po pkt 1 dodaje się pkt 1a w brzmieniu: „
 
 - **b)**
+- **1a)** za przyłączenie do sieci przesyłowej gazowej pobiera się opłatę ustaloną na podstawie rzeczywistych nakładów poniesionych na realizację przyłączenia; ” ;
 - **2)** w art. 9c ust. 6b otrzymuje brzmienie: „
 
 6b. W przypadku wyznaczenia operatora systemu przesyłowego gazowego, operatora systemu dystrybucyjnego gazowego albo operatora systemu połączonego gazowego na sieci niebędącej jego własnością, operator ten, w obszarze swojego działania, jest odpowiedzialny za wydawanie warunków przyłączenia oraz zawarcie i realizację umowy o przyłączenie do sieci. Operator systemu przesyłowego gazowego albo operator systemu połączonego gazowego, o którym mowa w zdaniu pierwszym, jest odpowiedzialny również za sporządzanie planu rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe oraz ustalanie taryfy dla paliw gazowych i jej przedkładanie Prezesowi Urzędu Regulacji Energetyki. ” ;
@@ -117,7 +117,7 @@ source: "eli-html"
 - **1)** ogólnego zarządu,
 - **2)** amortyzacji jego majątku niezbędnego do pełnienia przez operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego obowiązków z wykorzystaniem tej sieci, w tym wykonywania działalności gospodarczej w zakresie przesyłania paliw gazowych,
 - **3)** danin publicznoprawnych związanych bezpośrednio z majątkiem, o którym mowa w pkt 2,
-- **4)** ustanowienia zabezpieczenia, o którym mowa w art. 9h ust. 5e wraz z przysługującym właścicielowi zwrotem z kapitału zaangażowanego przez niego w majątek, o którym mowa w pkt 2. ” ;
+- **4)** ustanowienia zabezpieczenia, o którym mowa w art. 9h ust. 5e – wraz z przysługującym właścicielowi zwrotem z kapitału zaangażowanego przez niego w majątek, o którym mowa w pkt 2. ” ;
 - **8)** w art. 47 po ust. 1a dodaje się ust. 1aa w brzmieniu: „ 1aa. Operator systemu przesyłowego gazowego albo operator systemu połączonego gazowego wyznaczony na sieci przesyłowej gazowej niebędącej jego własnością dokonuje ustalenia taryf dla paliw gazowych dla tej sieci, które podlegają zatwierdzeniu przez Prezesa URE, oraz zaproponowania okresu ich obowiązywania. Operator, o którym mowa w zdaniu pierwszym, przedkłada Prezesowi URE taryfy dla tej sieci oraz ich zmiany z własnej inicjatywy nie później niż w terminie 9 miesięcy przed upływem okresu obowiązywania taryfy poprzedniej lub na żądanie Prezesa URE. ” ;
 - **9)** w art. 56 w ust. 1: pkt 5a otrzymuje brzmienie: „
     - **a)**
@@ -161,5 +161,5 @@ source: "eli-html"
 
 2. Do dnia wygaśnięcia koncesji na przesyłanie paliw gazowych, o której mowa w ust. 1, do tej koncesji oraz do korzystania z majątku właściciela sieci przesyłowej gazowej wchodzącej w skład systemu przesyłowego, który w dniu 3 września 2009 r. należał do przedsiębiorstwa zintegrowanego pionowo, niezbędnego do pełnienia obowiązków operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego z jej wykorzystaniem, w tym wykonywania działalności gospodarczej w zakresie przesyłania paliw gazowych, nie stosuje się przepisów art. 9h ust. 3aa oraz art. 33 ust. 1aa ustawy zmienianej w art. 1.
 
-**Art. 10.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1, 200 i 202.
 

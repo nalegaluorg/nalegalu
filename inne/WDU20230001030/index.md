@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022
-
-*USTAWA z dnia 14 kwietnia 2023 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +22,39 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-04-14 |
 | Data wydania | 2023-05-30 |
-| Wejście w życie | 2023-05-31 |
 | Ostatnia zmiana | 2024-04-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001030) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1030/text.pdf) |
 
-Art. 43–46. (pominięte)
+USTAWA z dnia 14 kwietnia 2023 r.
+o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania i kompetencje Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022, zwanej dalej „Komisją”;
+- **2)** szczególny tryb postępowania w przedmiocie badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022;
+- **3)** środki zaradcze stosowane wobec osób będących w latach 2007–2022 funkcjonariuszami publicznymi lub członkami kadry kierowniczej wyższego szczebla spółki, którzy pod wpływem rosyjskim działali na szkodę interesów Rzeczypospolitej Polskiej;
+- **4)** sposób prowadzenia przez Komisję działalności informacyjnej i prewencyjnej dotyczących wpływów rosyjskich w latach 2007–2022.
+
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** członku kadry kierowniczej wyższego szczebla należy przez to rozumieć członka zarządu, członka rady nadzorczej, dyrektora, pracownika, syndyka lub likwidatora spółki, który w związku z zajmowanym stanowiskiem podejmował decyzje mające istotny wpływ na sprawy majątkowe tej spółki, w tym na jej politykę finansową i operacyjną;
+- **2)** funkcjonariuszu publicznym należy przez to rozumieć funkcjonariusza publicznego w rozumieniu art. 115 § 13 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2022 r. poz. 1138, z poźn. zm. );
+- **3)** informacjach niejawnych należy przez to rozumieć informacje niejawne, o których mowa w art. 1 ust. 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2023 r. poz. 756 i 1030);
+- **4)** poświadczeniu bezpieczeństwa należy przez to rozumieć poświadczenie bezpieczeństwa, o którym mowa w art. 29 ust. 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych;
+- **5)** spółce należy przez to rozumieć przedsiębiorstwo państwowe, spółkę realizującą misję publiczną w rozumieniu art. 2 pkt 8 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2023 r. poz. 973), lub spółkę, w której prawa z akcji albo udziałów należących do Skarbu Państwa w latach 2007–2022:
+    - **a)** wykonywał minister kierujący działem administracji rządowej lub pełnomocnik rządu lub
+    - **b)** wykonywała państwowa osoba prawna lub państwowa jednostka organizacyjna posiadająca osobowość prawną, która była podległa ministrowi kierującemu działem administracji rządowej lub była przez niego nadzorowana, lub
+    - **c)** wykonywała inna spółka, w której prawa z akcji albo udziałów należących do Skarbu Państwa wykonywali minister kierujący działem administracji rządowej, państwowa osoba prawna lub państwowa jednostka organizacyjna posiadająca osobowość prawną, która była podległa ministrowi kierującemu działem administracji rządowej lub była przez niego nadzorowana;
+
+- **6)** środkach publicznych należy przez to rozumieć środki, o których mowa w art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. );
+- **7)** środkach zaradczych należy przez to rozumieć środki, o których mowa w art. 37 ust. 1 oraz art. 38 ust. 1, stosowane wobec osób będących w latach 2007–2022 funkcjonariuszami publicznymi lub członkami kadry kierowniczej wyższego szczebla, które pod wpływem rosyjskim działały na szkodę interesów Rzeczypospolitej Polskiej, mające na celu zapobiegnięcie ponownemu działaniu pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej;
+- **8)** wpływach rosyjskich należy przez to rozumieć każde działanie:
+    - **a)** osób będących przedstawicielami władz publicznych Federacji Rosyjskiej, w szczególności osób zajmujących eksponowane stanowiska polityczne w rozumieniu art. 2 ust. 2 pkt 11 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593, z późn. zm. ),
+    - **b)** osób znanych jako bliscy współpracownicy osób będących przedstawicielami władz publicznych Federacji Rosyjskiej w rozumieniu art. 2 ust. 2 pkt 12 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
+    - **c)** osób powiązanych osobiście, organizacyjnie lub finansowo z osobami, o których mowa w lit. a lub b,
+    - **d)** innych osób lub innych podmiotów działających na zlecenie osób, o których mowa w lit. a–c prowadzone metodami zarówno prawnie dozwolonymi, jak i bezprawnymi, zmierzające do wywarcia wpływu na działania spółek lub organów władzy publicznej Rzeczypospolitej Polskiej.
 
 #### Rozdział 2 Komisja
 
@@ -71,7 +91,15 @@ Art. 43–46. (pominięte)
 - **7)** organizacji systemu opieki zdrowotnej, w szczególności zwalczania chorób zakaźnych;
 - **8)** ochrony granicy państwowej Rzeczypospolitej Polskiej.
 
-**Art. 5.** W przypadku stwierdzenia wpływów rosyjskich na działalność osób, o których mowa w art. 4, Komisja wskazuje to w raporcie, o którym mowa w art. 41 ust. 1.
+**Art. 5.**
+
+1. W przypadku stwierdzenia wpływów rosyjskich na działalność osób, o których mowa w art. 4 ust. 1, Komisja może zastosować środki zaradcze.
+
+2. Środki zaradcze stosuje się, gdy jest to konieczne, aby zapobiec ponownemu działaniu pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej osoby będącej w latach 2007–2022 funkcjonariuszem publicznym lub członkiem kadry kierowniczej wyższego szczebla w latach 2007–2022.
+
+3. Środek zaradczy, o którym mowa w art. 37 ust. 1 pkt 2, można orzec tylko wtedy, gdy istnieje prawdopodobieństwo, że osoba będąca w latach 2007–2022 funkcjonariuszem publicznym lub członkiem kadry kierowniczej wyższego szczebla działała pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, ponownie będzie dokonywała czynności, o których mowa w art. 4 ust. 1, powodując znaczną szkodę w rozumieniu ustawy z dnia 6 czerwca 1997 r. Kodeks karny.
+
+4. W przypadku stwierdzenia wpływów rosyjskich na działalność osób, o których mowa w art. 4, Komisja wskazuje to w raporcie, o którym mowa w art. 41 ust. 1.
 
 **Art. 6.**
 
@@ -88,7 +116,7 @@ Art. 43–46. (pominięte)
 
 2. W zakresie, o którym mowa w ust. 1, Komisja:
 
-- **1)** przygotowuje i przedstawia raporty ze swojej działalności zawierające wyniki badań Komisji;
+- **1)** przygotowuje i przedstawia raporty ze swojej działalności zawierające wyniki badań Komisji, a także efekty zastosowanych przez Komisję środków zaradczych;
 - **2)** przedstawia organom władzy publicznej wnioski i rekomendacje w zakresie zapobiegania wpływom rosyjskim i ich zwalczania, a także podejmuje działania umożliwiające pociągnięcie do odpowiedzialności osób, o których mowa w art. 4;
 - **3)** wnosi do rozpatrzenia przez Radę Ministrów przygotowane przez Komisję projekty dokumentów rządowych, dotyczące zakresu działania Komisji, mające na celu usprawnienie działań organów władzy publicznej w zakresie zapobiegania wpływom rosyjskim i ich zwalczania;
 - **4)** opiniuje projekty aktów normatywnych dotyczące zakresu działania Komisji.
@@ -117,13 +145,11 @@ Art. 43–46. (pominięte)
 - **6)** cieszy się nieposzlakowaną opinią;
 - **7)** wyraziła zgodę na kandydowanie.
 
-2a. Członkostwa w Komisji nie można łączyć z mandatem posła lub senatora.
-
-3. Prawo zgłaszania Marszałkowi kandydatów na członków Komisji w liczbie nie większej niż 9 przysługuje każdemu klubowi poselskiemu lub parlamentarnemu, w terminie wskazanym przez Marszałka Sejmu.
+3. Prawo zgłaszania Marszałkowi Sejmu kandydatów na członków Komisji w liczbie nie większej niż 9 przysługuje każdemu klubowi poselskiemu lub parlamentarnemu, w terminie wskazanym przez Marszałka Sejmu.
 
 4. Jeżeli w chwili zgłoszenia kandydat nie spełnia wymagań, o których mowa w ust. 2 pkt 4, Agencja Bezpieczeństwa Wewnętrznego albo Służba Kontrwywiadu Wojskowego przeprowadza poszerzone postępowanie sprawdzające w terminie nie dłuższym niż miesiąc od dnia otrzymania zgłoszenia. Wszczęcie poszerzonego postępowania sprawdzającego nie wstrzymuje możliwości wyboru kandydata na członka Komisji. Jeżeli przed zakończeniem poszerzonego postępowania sprawdzającego kandydat został odrzucony, postępowanie to umarza się.
 
-5. Jeżeli poszerzone postępowanie sprawdzające, o którym mowa w ust. 4, zakończy się odmową wydania poświadczenia bezpieczeństwa, Agencja Bezpieczeństwa Wewnętrznego albo Służba Kontrwywiadu Wojskowego informuje o tym niezwłocznie Marszałka Sejmu. Sejm odwołuje członka Komisji, którego dotyczyła odmowa wydania poświadczenia bezpieczeństwa, na najbliższym posiedzeniu po otrzymaniu przez Marszałka informacji o odmowie.
+5. Jeżeli poszerzone postępowanie sprawdzające, o którym mowa w ust. 4, zakończy się odmową wydania poświadczenia bezpieczeństwa, Agencja Bezpieczeństwa Wewnętrznego albo Służba Kontrwywiadu Wojskowego informuje o tym niezwłocznie Marszałka Sejmu. Sejm odwołuje członka Komisji, którego dotyczyła odmowa wydania poświadczenia bezpieczeństwa, na najbliższym posiedzeniu Sejmu po otrzymaniu przez Marszałka Sejmu informacji o odmowie.
 
 6. Do poszerzonego postępowania sprawdzającego, o którym mowa w ust. 4, przepisy ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych stosuje się odpowiednio, z wyjątkiem art. 34–37 oraz art. 39–41 tej ustawy.
 
@@ -148,7 +174,7 @@ Art. 43–46. (pominięte)
 
 **Art. 11.**
 
-1. Członkowie Komisji wybierają spośród siebie przewodniczącego Komisji. Uchwałę w tej sprawie Komisja podejmuje większością głosów, w głosowaniu jawnym, w obecności co najmniej 5 członków Komisji.
+1. Prezes Rady Ministrów wybiera przewodniczącego Komisji spośród członków Komisji.
 
 2. Przewodniczący Komisji kieruje jej pracami, reprezentuje ją na zewnątrz oraz wykonuje inne czynności przewidziane w ustawie oraz regulaminie działania Komisji.
 
@@ -160,7 +186,7 @@ Art. 43–46. (pominięte)
 
 **Art. 12.**
 
-1. Przewodniczącemu Komisji przysługuje ryczałtowa miesięczna dieta w wysokości trzykrotności minimalnego wynagrodzenia za pracę ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667).
+1. Przewodniczącemu Komisji przysługuje ryczałtowa miesięczna dieta w wysokości trzykrotności minimalnego wynagrodzenia za pracę ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).
 
 2. Do członków Komisji nie stosuje się przepisów art. 3b, art. 5 i art. 5b ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2023 r. poz. 624).
 
@@ -170,9 +196,9 @@ Art. 43–46. (pominięte)
 
 5. Przewodniczący Komisji może upoważniać pracownika Kancelarii Prezesa Rady Ministrów zajmującego się obsługą Komisji do załatwiania określonych spraw w jego imieniu, w szczególności do wydawania zaświadczeń oraz poświadczania odpisów dokumentów za zgodność z oryginałem na potrzeby prowadzonych postępowań.
 
-6. Członkom Komisji mającym inne miejsce zamieszkania niż miejsce posiedzeń Komisji przysługują diety oraz zwrot kosztów przejazdów i noclegów związanych z uczestnictwem w tych posiedzeniach, na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+6. Członkom Komisji mającym inne miejsce zamieszkania niż miejsce posiedzeń Komisji przysługują diety oraz zwrot kosztów przejazdów i noclegów związanych z uczestnictwem w tych posiedzeniach, na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641).
 
-7. Komisja określa, w drodze uchwały, regulamin swojego działania. Przepisy art. 15 ust. 1–3 stosuje się odpowiednio.
+7. Prezes Rady Ministrów określa, w drodze zarządzenia, regulamin działania Komisji.
 
 **Art. 13.** Członkowie Komisji nie mogą być pociągnięci do odpowiedzialności za swoją działalność wchodzącą w zakres sprawowania funkcji w Komisji.
 
@@ -196,7 +222,7 @@ Art. 43–46. (pominięte)
 
 **Art. 16.**
 
-1. Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Służby Kontrwywiadu Wojskowego, Szef Służby Wywiadu Wojskowego, Szef Centralnego Biura Antykorupcyjnego, Prokurator Generalny, prokuratorzy, Prezes Najwyższej Izby Kontroli, Pierwszy Prezes Sądu Najwyższego, Prezes Naczelnego Sądu Administracyjnego, prezesi sądów powszechnych, sądów wojskowych oraz sądów administracyjnych, organy administracji rządowej i samorządu terytorialnego, podległe im jednostki organizacyjne, organy samorządów zawodowych, a także inne jednostki organizacyjne i instytucje, na wniosek przewodniczącego Komisji, w terminie i w zakresie wskazanych we wniosku, zapewniają przewodniczącemu Komisji oraz wyznaczonym przez niego członkom Komisji dostęp do wszystkich – łącznie z materiałami archiwalnymi, zawierającymi informacje niejawne oraz tajemnicę przedsiębiorstwa – materiałów akt postępowań przygotowawczych i sądowych, informacji z działań operacyjnych, a także do innych dokumentów niezbędnych do wykonywania zadań Komisji oraz zapewniają wszelką inną pomoc przy wykonywaniu tych zadań.
+1. Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Służby Kontrwywiadu Wojskowego, Szef Służby Wywiadu Wojskowego, Szef Centralnego Biura Antykorupcyjnego, Prokurator Generalny, prokuratorzy, Prezes Najwyższej Izby Kontroli, Pierwszy Prezes Sądu Najwyższego, Prezes Naczelnego Sądu Administracyjnego, prezesi sądów powszechnych, sądów wojskowych oraz sądów administracyjnych, organy administracji rządowej i samorządu terytorialnego, podległe im jednostki organizacyjne, organy samorządów zawodowych, a także inne jednostki organizacyjne i instytucje, na wniosek przewodniczącego Komisji, w terminie i w zakresie wskazanych we wniosku, zapewniają przewodniczącemu Komisji oraz wyznaczonym przez niego członkom Komisji dostęp do wszystkich łącznie z materiałami archiwalnymi, zawierającymi informacje niejawne oraz tajemnicę przedsiębiorstwa materiałów akt postępowań przygotowawczych i sądowych, informacji z działań operacyjnych, a także do innych dokumentów niezbędnych do wykonywania zadań Komisji oraz zapewniają wszelką inną pomoc przy wykonywaniu tych zadań.
 
 2. Spółki, na wniosek przewodniczącego Komisji, w terminie i w zakresie wskazanych we wniosku, zapewniają przewodniczącemu Komisji oraz wyznaczonym przez niego członkom Komisji dostęp do wszelkich materiałów i dokumentów, łącznie z materiałami i dokumentami zawierającymi informacje niejawne i tajemnicę przedsiębiorstwa, niezbędnych do wykonywania zadań Komisji.
 
@@ -206,19 +232,19 @@ Art. 43–46. (pominięte)
 
 5. W przypadku dokumentów innych niż dokumenty określone w ust. 3 we wniosku przewodniczącego Komisji wskazuje się sposób i termin zapoznania się z materiałem lub dokumentem albo zakres wymaganej pomocy i termin jej realizacji.
 
-6. Członkom Komisji przysługuje prawo wstępu do pomieszczeń, w których znajdują się dokumenty i materiały, o których mowa w ust. 1, oraz wglądu w działalność organów administracji rządowej i samorządu terytorialnego, a także podleg-łych im jednostek organizacyjnych.
+6. Członkom Komisji przysługuje prawo wstępu do pomieszczeń, w których znajdują się dokumenty i materiały, o których mowa w ust. 1, oraz wglądu w działalność organów administracji rządowej i samorządu terytorialnego, a także podległych im jednostek organizacyjnych.
 
 **Art. 17.**
 
 1. Przewodniczący Komisji może wystąpić do prokuratora z wnioskiem o przeszukanie pomieszczeń lub innych miejsc lub zajęcie rzeczy w celu zabezpieczenia dowodu w sprawie.
 
-2. Prokurator może wydać postanowienie o przeszukaniu pomieszczeń lub innych miejsc lub zajęciu rzeczy w celu zabezpieczenia dowodu w sprawie, jeżeli jest to niezbędne do zabezpieczenia prawidłowego toku postępowania. Przepisy art. 217, art. 219–234 i art. 236 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37) stosuje się odpowiednio.
+2. Prokurator może wydać postanowienie o przeszukaniu pomieszczeń lub innych miejsc lub zajęciu rzeczy w celu zabezpieczenia dowodu w sprawie, jeżeli jest to niezbędne do zabezpieczenia prawidłowego toku postępowania. Przepisy art. 217, art. 219–234 i art. 236 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. ) stosuje się odpowiednio.
 
 3. Prokurator przekazuje Komisji zajęte rzeczy. Postanowienie o zwrocie rzeczy prokurator wydaje po zasięgnięciu opinii Komisji.
 
 **Art. 18.**
 
-1. W związku z przeprowadzanymi czynnościami sprawdzającymi oraz prowadzonymi postępowaniami, o których mowa w art. 20 ust. 1, przewodniczący Komisji może wystąpić do Komendanta Głównego Policji o uzyskanie danych, o których mowa w art. 20c ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145), jeżeli jest to niezbędne do zweryfikowania wpływów rosyjskich na działalność osób, o których mowa w art. 4.
+1. W związku z przeprowadzanymi czynnościami sprawdzającymi oraz prowadzonymi postępowaniami, o których mowa w art. 20 ust. 1, przewodniczący Komisji może wystąpić do Komendanta Głównego Policji o uzyskanie danych, o których mowa w art. 20c ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ), jeżeli jest to niezbędne do zweryfikowania wpływów rosyjskich na działalność osób, o których mowa w art. 4.
 
 2. Komendant Główny Policji uzyskuje dane, o których mowa w art. 20c ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji, i przekazuje przewodniczącemu Komisji dane niezwłocznie po ich uzyskaniu.
 
@@ -226,7 +252,7 @@ Art. 43–46. (pominięte)
 
 **Art. 19.**
 
-1. W związku z przeprowadzanymi czynnościami sprawdzającymi oraz prowadzonymi postępowaniami, o których mowa w art. 20 ust. 1, przewodniczący Komisji może wystąpić do Szefa Agencji Bezpieczeństwa Wewnętrznego o uzyskanie danych, o których mowa w art. 28 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860), jeżeli jest to niezbędne do zweryfikowania wpływów rosyjskich na działalność osób, o których mowa w art. 4.
+1. W związku z przeprowadzanymi czynnościami sprawdzającymi oraz prowadzonymi postępowaniami, o których mowa w art. 20 ust. 1, przewodniczący Komisji może wystąpić do Szefa Agencji Bezpieczeństwa Wewnętrznego o uzyskanie danych, o których mowa w art. 28 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347), jeżeli jest to niezbędne do zweryfikowania wpływów rosyjskich na działalność osób, o których mowa w art. 4.
 
 2. Szef Agencji Bezpieczeństwa Wewnętrznego uzyskuje dane, o których mowa w ust. 1, zgodnie z art. 28 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu i przekazuje przewodniczącemu Komisji dane, niezwłocznie po ich uzyskaniu.
 
@@ -250,11 +276,11 @@ Art. 43–46. (pominięte)
 
 **Art. 22.**
 
-1. W toku postępowania Komisja przeprowadza rozprawę.
+1. W toku postępowania Komisja może przeprowadzić rozprawę.
 
 2. Rozprawa przed Komisją jest jawna.
 
-3. Komisja może wyłączyć jawność rozprawy w całości lub w części ze względu na bezpieczeństwo państwa, zagrożenie spokoju, moralności i porządku publicznego, a także jeżeli w toku rozprawy mają być omawiane szczegóły życia rodzinnego lub rozpatrywane informacje stanowiące tajemnicę podlegającą ochronie na podstawie odrębnych przepisów lub informacje stanowiące dane, o których mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206).
+3. Komisja może wyłączyć jawność rozprawy w całości lub w części ze względu na bezpieczeństwo państwa, zagrożenie spokoju, moralności i porządku publicznego, a także jeżeli w toku rozprawy mają być omawiane szczegóły życia rodzinnego lub rozpatrywane informacje stanowiące tajemnicę podlegającą ochronie na podstawie odrębnych przepisów lub informacje stanowiące dane, o których mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125 oraz z 2022 r. poz. 1700).
 
 4. Komisja rozstrzyga o wyłączeniu jawności rozprawy postanowieniem.
 
@@ -276,19 +302,19 @@ Art. 43–46. (pominięte)
 
 **Art. 24.** Dowodami w postępowaniu mogą być w szczególności: dokumenty, zeznania świadków, opinie biegłych, materiały, dokumenty i informacje zebrane w wyniku czynności sprawdzających.
 
-**Art. 25.** Strona postępowania, która mimo prawidłowego wezwania nie stawiła się na rozprawę Komisji bez uzasadnionej przyczyny albo bez zezwolenia kierującego rozprawą opuściła ją przed jej zakończeniem, może być ukarana grzywną do 20 000 zł, a w razie ponownego niezastosowania się do wezwania – grzywną do 50 000 zł.
+**Art. 25.** Strona postępowania, która mimo prawidłowego wezwania nie stawiła się na rozprawę Komisji bez uzasadnionej przyczyny albo bez zezwolenia kierującego rozprawą opuściła ją przed jej zakończeniem, może być ukarana grzywną do 20 000 zł, a w razie ponownego niezastosowania się do wezwania grzywną do 50 000 zł.
 
 **Art. 26.**
 
 1. Osoba wezwana przez Komisję w charakterze świadka lub biegłego ma obowiązek, niezależnie od swojego miejsca zamieszkania, stawić się na wezwanie i złożyć zeznania.
 
-2. Przed rozpoczęciem przesłuchania świadka należy pouczyć o odpowiedzialności karnej na podstawie art. 233 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+2. Przed rozpoczęciem przesłuchania świadka należy pouczyć o odpowiedzialności karnej na podstawie art. 233 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny.
 
-3. Świadek lub biegły, który mimo prawidłowego wezwania nie stawił się na rozprawę Komisji bez uzasadnionej przyczyny, bez zezwolenia kierującego rozprawą opuścił ją przed jej zakończeniem lub bezzasadnie odmówił złożenia zeznania albo wydania opinii, może być ukarany grzywną do 20 000 zł, a w razie ponownego niezastosowania się do wezwania – grzywną do 50 000 zł.
+3. Świadek lub biegły, który mimo prawidłowego wezwania nie stawił się na rozprawę Komisji bez uzasadnionej przyczyny, bez zezwolenia kierującego rozprawą opuścił ją przed jej zakończeniem lub bezzasadnie odmówił złożenia zeznania albo wydania opinii, może być ukarany grzywną do 20 000 zł, a w razie ponownego niezastosowania się do wezwania grzywną do 50 000 zł.
 
 **Art. 27.**
 
-1. Komisja może na wniosek ukaranego, o którym mowa w art. 25 lub art. 26 ust. 3, złożony w terminie 7 dni od dnia otrzymania zawiadomienia o ukaraniu, uznać za usprawiedliwioną nieobecność, odmowę złożenia zeznania albo wydania opinii i zwolnić go od grzywny. Przepisów art. 88 § 1 i 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) nie stosuje się.
+1. Komisja może na wniosek ukaranego, o którym mowa w art. 25 lub art. 26 ust. 3, złożony w terminie 7 dni od dnia otrzymania zawiadomienia o ukaraniu, uznać za usprawiedliwioną nieobecność, odmowę złożenia zeznania albo wydania opinii i zwolnić go od grzywny. Przepisów art. 88 § 1 i 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) nie stosuje się.
 
 2. Należności pieniężne z tytułu grzywny są dochodzone na podstawie tytułu wykonawczego wystawionego przez Komisję. Należności te stanowią dochód budżetu państwa.
 
@@ -298,9 +324,7 @@ Art. 43–46. (pominięte)
 
 2. Na zarządzenie prokuratora osobie zatrzymanej przysługuje zażalenie do sądu rejonowego właściwego dla miejsca zatrzymania. W zażaleniu zatrzymany może się domagać zbadania zasadności, legalności oraz prawidłowości jego zatrzymania.
 
-**Art. 29.** Do zabezpieczenia i egzekucji należności, o których mowa w art. 25 i art. 26 ust. 3, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760).
-
-**Art. 29a.** Nie wolno przesłuchiwać jako świadków:
+**Art. 29.** Do zabezpieczenia i egzekucji należności, o których mowa w art. 25 i art. 26 ust. 3, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ).
 
 **Art. 30.**
 
@@ -316,7 +340,7 @@ Art. 43–46. (pominięte)
 
 1. Osoby obowiązane do zachowania tajemnicy prawnie chronionej innej niż informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne” mogą odmówić zeznań co do okoliczności, na które rozciąga się ten obowiązek, chyba że Komisja zwolni je od obowiązku zachowania tajemnicy, z uwzględnieniem art. 32.
 
-2. (uchylony)
+2. Komisja nie może zwolnić z tajemnicy, o której mowa w ust. 1, duchownego co do faktów, o których dowiedział się przy spowiedzi.
 
 **Art. 32.**
 
@@ -326,11 +350,11 @@ Art. 43–46. (pominięte)
 
 3. Sąd rozpatruje wniosek, o którym mowa w ust. 2, w terminie 7 dni od dnia wpłynięcia tego wniosku.
 
-4. Komisji i osobie wezwanej służy zażalenie na postanowienie sądu w przedmiocie zezwolenia na przesłuchanie, na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+4. Komisji i osobie wezwanej służy zażalenie na postanowienie sądu w przedmiocie zezwolenia na przesłuchanie, na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
 
 5. Wniesienie zażalenia wstrzymuje wykonanie postanowienia sądu.
 
-**Art. 33.** Posiedzenia Komisji wyznaczone poza rozprawą są jawne, chyba że przewodniczący Komisji zarządzi inaczej. Przepis art. 22 ust. 3 stosuje się odpowiednio.
+**Art. 33.** Posiedzenia Komisji wyznaczone poza rozprawą są niejawne, chyba że przewodniczący Komisji zarządzi inaczej.
 
 **Art. 34.**
 
@@ -342,18 +366,38 @@ Art. 43–46. (pominięte)
 
 **Art. 35.** Przewodniczący Komisji po zamknięciu rozprawy wyznacza stronom postępowania termin do wypowiedzenia się co do zebranych dowodów i materiałów oraz zgłoszonych żądań.
 
-**Art. 36.** W wyniku postępowania Komisja wydaje decyzję administracyjną, w której stwierdza, że działanie osoby, o której mowa w art. 4 ust. 1:
+**Art. 36.** W wyniku postępowania Komisja wydaje decyzję administracyjną, w której:
 
-**Art. 37.** (uchylony)
+- **1)** stwierdza, że działanie osoby, o której mowa w art. 4 ust. 1, było działaniem pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej i, o ile uzna to za niezbędne, zarządza zastosowanie co najmniej jednego ze środków zaradczych, o których mowa w art. 37 ust. 1;
+- **2)** stwierdza wydanie decyzji administracyjnej pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej i zarządza zastosowanie jednego ze środków zaradczych, o których mowa w art. 38 ust. 1;
+- **3)** stwierdza, że działanie osoby, o której mowa w art. 4 ust. 1, nie było działaniem pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej.
+
+**Art. 37.**
+
+1. Komisja, wydając decyzję administracyjną, o której mowa w art. 36 pkt 1, może zastosować w stosunku do osoby, o której mowa w art. 4 ust. 1, co najmniej jeden z następujących środków zaradczych, zgodnie z art. 5 ust. 2 i 3:
+
+- **1)** cofnięcie poświadczenia bezpieczeństwa lub nałożenie zakazu otrzymania poświadczenia bezpieczeństwa na okres do 10 lat od dnia wydania decyzji administracyjnej;
+- **2)** zakaz pełnienia funkcji związanych z dysponowaniem środkami publicznymi na okres do 10 lat;
+- **3)** cofnięcie pozwolenia na broń, o którym mowa w art. 9 ust. 1 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2022 r. poz. 2516 oraz z 2023 r. poz. 535, 803 i 1030), lub nałożenie zakazu posiadania pozwolenia na broń na okres do 10 lat od dnia wydania decyzji administracyjnej.
+
+2. W przypadku zastosowania środka zaradczego, o którym mowa w ust. 1 pkt 1, decyzję administracyjną o zastosowaniu tego środka Komisja przesyła niezwłocznie Szefowi Agencji Bezpieczeństwa Wewnętrznego oraz Szefowi Służby Kontrwywiadu Wojskowego.
+
+3. Do środka zaradczego, o którym mowa w ust. 1 pkt 2, stosuje się przepisy art. 32 ust. 2 i 3, art. 154 ust. 2 oraz art. 156 ust. 1 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2021 r. poz. 289 oraz z 2023 r. poz. 1030).
+
+4. W przypadku zastosowania środka zaradczego, o którym mowa w ust. 1 pkt 2, decyzję administracyjną o zastosowaniu tego środka Komisja przesyła niezwłocznie Głównej Komisji Orzekającej w Sprawach o Naruszenie Dyscypliny Finansów Publicznych, o której mowa w art. 42 ust. 2 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych.
+
+5. W przypadku zastosowania środka zaradczego, o którym mowa w ust. 1 pkt 3, decyzję administracyjną o zastosowaniu tego środka Komisja przesyła niezwłocznie Komendantowi Głównemu Policji.
+
+6. Wydanie decyzji administracyjnej, o której mowa w art. 36 pkt 1, w stosunku do osoby, o której mowa w art. 4 ust. 1, powoduje, że osoba, wobec której została wydana decyzja administracyjna, nie daje rękojmi należytego wykonywania czynności w interesie publicznym.
 
 **Art. 38.**
 
-1. Jeżeli postępowanie wykaże, że zachodzi sytuacja, o której mowa w art. 4 ust. 1 pkt 2, Komisja wydaje decyzję administracyjną, w której stwierdza wydanie decyzji administracyjnej pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, i:
+1. Jeżeli postępowanie wykaże, że zachodzi sytuacja, o której mowa w art. 4 ust. 1 pkt 2, Komisja wydaje decyzję administracyjną, o której mowa w art. 36 pkt 2, i:
 
 - **1)** uchyla decyzję administracyjną, która została wydana pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, w całości i przekazuje sprawę do ponownego rozpatrzenia organowi, który wydał tę decyzję albo
 - **2)** uchyla decyzję administracyjną, która została wydana pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, w części i umarza postępowanie w pozostałym zakresie, albo
-- **3)** stwierdza nieważność decyzji administracyjnej, która została wydana pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, w całości lub w części, jeżeli zachodzą przesłanki określone w art. 156 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, albo
-- **4)** stwierdza, że decyzja administracyjna, która została wydana pod wpływem rosyjskim na szkodę interesów Rzeczy-pospolitej Polskiej, została wydana z naruszeniem prawa i wywołała nieodwracalne skutki prawne, o których mowa w art. 40 ust. 4, oraz wskazuje okoliczności, z powodu których nie można jej uchylić lub stwierdzić jej nieważności.
+- **3)** stwierdza nieważność decyzji administracyjnej, która została wydana pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, w całości lub w części, jeżeli zachodzą przesłanki określone w art. 156 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, albo
+- **4)** stwierdza, że decyzja administracyjna, która została wydana pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, została wydana z naruszeniem prawa i wywołała nieodwracalne skutki prawne, o których mowa w art. 40 ust. 4, oraz wskazuje okoliczności, z powodu których nie można jej uchylić lub stwierdzić jej nieważności.
 
 2. Wydając decyzję administracyjną, o której mowa w ust. 1 pkt 1 albo 2, Komisja wskazuje okoliczności, które należy wziąć pod uwagę przy ponownym rozpatrzeniu sprawy. Zapatrywania prawne i wskazania Komisji co do dalszego postępowania są wiążące dla organu, któremu przekazano sprawę do ponownego rozpatrzenia.
 
@@ -369,27 +413,9 @@ Art. 43–46. (pominięte)
 
 5. Protokół podpisuje przewodniczący Komisji. Podpisy osoby wezwanej na rozprawę oraz osób biorących udział w danej czynności nie są wymagane.
 
-**Art. 39a.**
-
-1. Osobie w stosunku do której została wydana decyzja administracyjna, o której mowa w art. 36 pkt 1, przysługuje od tej decyzji apelacja do sądu apelacyjnego. Apelację wnosi się do sądu apelacyjnego właściwego ze względu na miejsce zamieszkania tej osoby albo Sądu Apelacyjnego w Warszawie, za pośrednictwem Komisji, w terminie miesiąca od dnia doręczenia tej osobie decyzji administracyjnej, o której mowa w art. 36 pkt 1.
-
-2. Wniesienie apelacji powoduje, że decyzja administracyjna, o której mowa w art. 36 pkt 1, nie wywołuje skutków do czasu rozstrzygnięcia o apelacji przez sąd apelacyjny.
-
-3. Komisja niezwłocznie, nie później jednak niż w terminie miesiąca od dnia otrzymania apelacji, przekazuje apelację sądowi apelacyjnemu wraz z aktami postępowania oraz sporządzoną przez Komisję odpowiedzią na apelację.
-
-4. Stronami postępowania w sprawie apelacji są osoba wnosząca apelację i Komisja.
-
-5. Do postępowania w sprawie apelacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) dotyczące apelacji.
-
-**Art. 39b.**
-
-1. Od wydanego przez sąd apelacyjny prawomocnego wyroku lub postanowienia w przedmiocie odrzucenia apelacji albo umorzenia postępowania przed sądem apelacyjnym przysługuje skarga kasacyjna do Sądu Najwyższego.
-
-2. Do postępowania w sprawie skargi kasacyjnej stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dotyczące skargi kasacyjnej.
-
 **Art. 40.**
 
-1. W sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyłączeniem art. 8 § 2, art. 13, art. 25, art. 31, art. 96a–96n, art. 108, art. 114–122h, art. 127–144 i art. 156 § 2 tej ustawy.
+1. W sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyłączeniem art. 8 § 2, art. 13, art. 25, art. 31, art. 96a–96n, art. 114–122h, art. 127–144 i art. 156 § 2 tej ustawy.
 
 2. Przepisów ustawy, o której mowa w ust. 1, nie stosuje się do czynności sprawdzających, o których mowa w art. 20 ust. 1.
 
@@ -406,7 +432,7 @@ Art. 43–46. (pominięte)
 1. Komisja przygotowuje raport ze swojej działalności zawierający:
 
 - **1)** opis stwierdzonych przypadków działań, o których mowa w art. 4;
-- **2)** informacje o wydanych decyzjach administracyjnych;
+- **2)** informacje o wydanych decyzjach administracyjnych i zastosowanych w nich środkach zaradczych;
 - **3)** wnioski i rekomendacje dla organów władzy publicznej oraz organizacji i podmiotów w zakresie zapobiegania wpływom rosyjskim i ich zwalczania.
 
 2. Raport jest przygotowywany corocznie.
@@ -421,27 +447,48 @@ Art. 43–46. (pominięte)
 
 #### Rozdział 6 Przepisy zmieniające
 
+**Art. 43.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2022 r. poz. 2516 oraz z 2023 r. poz. 535 i 803) wprowadza się następujące zmiany:
+
+- **1)** w art. 17 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Właściwy organ Policji odmawia wydania pozwolenia na broń osobie, wobec której obowiązuje środek zaradczy, o którym mowa w art. 37 ust. 1 pkt 3 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 (Dz. U. poz. 1030).”;
+- **2)** w art. 18 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) została uznana za osobę, która działała pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, i jest osobą wobec której obowiązuje środek zaradczy, o którym mowa w art. 37 ust. 1 pkt 3 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022;”.
+
+**Art. 44.** W ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z 2022 r. poz. 2642 oraz z 2023 r. poz. 289 i 614) w art. 77:
+
+- **1)** w § 1 po pkt 2b dodaje się pkt 2c w brzmieniu: „2c) w Kancelarii Prezesa Rady Ministrów do obsługi Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 na wniosek Prezesa Rady Ministrów,”;
+- **2)** § 2b otrzymuje brzmienie: „§ 2b. Sędzia nie może łączyć funkcji orzekania z pełnieniem czynności administracyjnych w Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Prezesa Rady Ministrów albo urzędzie obsługującym ministra właściwego do spraw zagranicznych.”;
+- **3)** w § 4 wyrazy „2–2b” zastępuje się wyrazami „2–2c”.
+
+**Art. 45.** W ustawie z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2021 r. poz. 289) wprowadza się następujące zmiany:
+
+- **1)** art. 188 otrzymuje brzmienie: „Art. 188. Prawomocne orzeczenie o odpowiedzialności za naruszenie dyscypliny finansów publicznych oraz ostateczna decyzja administracyjna o zastosowaniu środka zaradczego, o którym mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 (Dz. U. poz. 1030), zwana dalej „decyzją Komisji”, podlegają wpisowi do rejestru prowadzonego przez Główną Komisję Orzekającą.”;
+- **2)** w art. 189:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Wpisowi do rejestru podlegają także:
+
+- **1)** data wydania orzeczenia i nazwa komisji, która wydała orzeczenie lub data decyzji Komisji;
+- **2)** określenie orzeczonej kary lub informacja o odstąpieniu od wymierzenia kary lub określenie zastosowanego środka zaradczego, o którym mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022, zwanego dalej „środkiem zaradczym”;
+- **3)** data rozpoczęcia wykonywania kary lub data, od której obowiązuje środek zaradczy;
+- **4)** data zatarcia ukarania lub data końca obowiązywania środka zaradczego.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przewodniczący Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 po uzyskaniu informacji, będącej podstawą do dokonania zmiany lub usunięcia wpisu do rejestru, niezwłocznie zawiadamia o tym Przewodniczącego Głównej Komisji Orzekającej.”;
+
+- **3)** w art. 190 w pkt 2 po wyrazie „orzeczenia” dodaje się wyrazy „lub decyzji Komisji”.
+
+**Art. 46.** W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2023 r. poz. 756) w art. 30 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Organ prowadzący postępowanie sprawdzające odmawia wydania poświadczenia bezpieczeństwa, jeżeli w stosunku do osoby sprawdzanej obowiązuje środek zaradczy, o którym mowa w art. 37 ust. 1 pkt 1 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 (Dz. U. poz. 1030).”.
+
 #### Rozdział 7 Przepisy dostosowujące i przepis końcowy
 
-**Art. 47.** (uchylony)
+**Art. 47.** Komisja publikuje pierwszy raport, o którym mowa w art. 41 ust. 1, do dnia 17 września 2023 r.
 
 **Art. 48.** Tworzy się Komisję.
 
 **Art. 49.**
 
-1. Kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
+1. Kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi Sejmu w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
-2. Głosowanie nad kandydatami na członków Komisji odbywa się na pierwszym posiedzeniu po upływie terminu, o którym mowa w ust. 1.
+2. Głosowanie nad kandydatami na członków Komisji odbywa się na pierwszym posiedzeniu Sejmu po upływie terminu, o którym mowa w ust. 1.
 
-**Art. 49a.** W przypadku nieprzedstawienia kandydatów na członków Komisji zgodnie z art. 49 ust. 1 kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi w terminie wskazanym w postanowieniu Marszałka Sejmu. Przepis art. 49 ust. 2 stosuje się odpowiednio.
+**Art. 50.** Prezes Rady Ministrów wybiera przewodniczącego Komisji w terminie 14 dni od dnia powołania członka na ostatni wakat w Komisji, zgodnie z art. 49.
 
-**Art. 50.**
+**Art. 51.** Prezes Rady Ministrów określi regulamin, o którym mowa w art. 12 ust. 7, w terminie 14 dni od dnia wyboru przewodniczącego Komisji.
 
-1. Członkowie Komisji wybierają spośród siebie przewodniczącego Komisji w terminie 14 dni od dnia powołania członka na ostatni wakat w Komisji, zgodnie z art. 49a.
-
-2. Jeżeli członkowie Komisji nie wybiorą spośród siebie przewodniczącego Komisji w terminie, o którym mowa w ust. 1, przewodniczącego Komisji wybiera Prezes Rady Ministrów, w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 1.
-
-**Art. 51.** Komisja określa regulamin, o którym mowa w art. 12 ust. 7, w terminie 14 dni od dnia wyboru przewodniczącego Komisji.
-
-**Art. 52.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia .
+**Art. 52.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-03 |
 | Data wydania | 2019-06-12 |
-| Wejście w życie | 2019-06-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1090/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 236 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 236 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467 i 1629 oraz z 2019 r. poz. 11, 60,) zarządza się, co następuje:
 § 1.
 1.
 Za każdą stronę odpisu, zaświadczenia, wyciągu lub innego dokumentu wydawanych na wniosek na podstawie akt sprawy sądowoadministracyjnej oraz za stwierdzenie prawomocności pobiera się opłatę kancelaryjną w kwocie 10 zł.
@@ -64,5 +63,5 @@ Opłatę kancelaryjną za odpis orzeczenia z uzasadnieniem doręczony na skutek 
 § 3.
 Opłatę kancelaryjną za odpisy, wyciągi, kopie i wydruki oraz zaświadczenia i inne dokumenty wydawane na podstawie zbiorów gromadzonych i prowadzonych w sądzie poza aktami sprawy pobiera się odpowiednio w wysokości określonej w § 1.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 grudnia 2003 r. w sprawie wysokości opłat kancelaryjnych pobieranych w sprawach sądowoadministracyjnych (Dz. U. poz. 2192). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467 i 1629 oraz z 2019 r. poz. 11, 60, 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 grudnia 2003 r. w sprawie wysokości opłat kancelaryjnych pobieranych w sprawach sądowoadministracyjnych (Dz. U. poz. 2192).
 

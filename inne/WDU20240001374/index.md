@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 marca 2011 r. o Centrum Dialogu im. Juliusza Mieroszewskiego (Dz. U. z 2023 r. poz. 96), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 sierpnia 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), który stanowi: „
 
 **Art. 44.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 25 marca 2011 r. o Centrum Dialogu im. Juliusza Mieroszewskiego
 
@@ -71,9 +70,8 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Centrum może prowadzić działalność gospodarczą na zasadach określonych w przepisach ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222). Działalność ta jest wyodrębniona pod względem finansowym i rachunkowym z działalności, o której mowa w art. 3.
 
-2. Działalność gospodarcza, o której mowa w ust. 1, nie może być:
+2. Działalność gospodarcza, o której mowa w ust. 1, nie może być: 1W brzmieniu ustalonym przez art. 16 pkt 1 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), która weszła w życie z dniem 23 lipca 2024 r.) finansowana z dotacji podmiotowej z budżetu państwa, przekazywanej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego ze środków ujętych w części budżetowej, której jest dysponentem;
 
-- **1)** finansowana z dotacji podmiotowej z budżetu państwa, przekazywanej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego ze środków ujętych w części budżetowej, której jest dysponentem;
 - **2)** prowadzona w oparciu o nieruchomości, w które Centrum zostało wyposażone na podstawie art. 29 ust. 1.
 
 3. Dochód z działalności gospodarczej, o której mowa w ust. 1, służy wyłącznie realizacji zadań Centrum określonych w art. 3 ust. 2.
@@ -224,12 +222,10 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 20.**
 
-1. Centrum prowadzi samodzielną gospodarkę finansową na zasadach określonych w niniejszej ustawie oraz w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+1. Centrum prowadzi samodzielną gospodarkę finansową na zasadach określonych w niniejszej ustawie oraz w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.).
 
-2. Przychodami Centrum są:
+2. Przychodami Centrum są: 1W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 4.) określana corocznie w ustawie budżetowej dotacja podmiotowa; 1W brzmieniu ustalonym przez art. 16 pkt 2 ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 1 stycznia 2025 r.) dotacja podmiotowa z budżetu państwa, przekazywana przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego ze środków ujętych w części budżetowej, której jest dysponentem;
 
-- **1)** określana corocznie w ustawie budżetowej dotacja podmiotowa;
-- **1)** dotacja podmiotowa z budżetu państwa, przekazywana przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego ze środków ujętych w części budżetowej, której jest dysponentem;
 - **2)** przychody z działalności gospodarczej, prowadzonej na zasadach określonych w art. 4;
 - **3)** środki finansowe pochodzenia zagranicznego;
 - **4)** przychody ze sprzedaży albo z tytułu przekazania do odpłatnego używania rzeczowych składników majątkowych będących własnością Centrum;
@@ -239,7 +235,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 3. Dotacja podmiotowa powinna być przeznaczana na dofinansowanie działalności bieżącej związanej z realizacją zadań, o których mowa w art. 3 ust. 2.
 
-4. Realizację zadania, o którym mowa w art. 3 ust. 2 pkt 1, finansuje się także ze środków finansowych przyznawanych Centrum na podstawie przepisów odrębnych, w tym przepisów ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.) oraz ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2023 r. poz. 153).
+4. Realizację zadania, o którym mowa w art. 3 ust. 2 pkt 1, finansuje się także ze środków finansowych przyznawanych Centrum na podstawie przepisów odrębnych, w tym przepisów ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.) oraz ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2023 r. poz. 153).
 
 **Art. 21.**
 
@@ -302,7 +298,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** osoby uprawnione do ubiegania się o przyznanie stypendium,
 - **3)** maksymalną wysokość stypendium, o którą można się ubiegać,
 - **4)** tryb przeprowadzania naboru wniosków o przyznanie stypendium,
-- **5)** kryteria oceny wniosków o przyznanie stypendium uwzględniając znaczenie osiągnięć i inicjatyw dla dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami, a także z innymi narodami Federacji Rosyjskiej.
+- **5)** kryteria oceny wniosków o przyznanie stypendium – uwzględniając znaczenie osiągnięć i inicjatyw dla dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami, a także z innymi narodami Federacji Rosyjskiej.
 
 3. Wysokość stypendium nie może być niższa niż jednokrotność i wyższa niż dwunastokrotność przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych.
 
@@ -346,7 +342,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 7. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
 
 - **1)** kryteria, warunki i tryb udzielania dofinansowania przedsięwzięcia, a także istotne elementy wniosku o jego udzielenie,
-- **2)** istotne elementy umowy o dofinansowanie przedsięwzięcia uwzględniając konieczność realizacji celów, o których mowa w art. 3 ust. 1, efektywnego i skutecznego wykorzystania dofinansowania przedsięwzięcia oraz zapewnienia przejrzystości jego udzielania.
+- **2)** istotne elementy umowy o dofinansowanie przedsięwzięcia – uwzględniając konieczność realizacji celów, o których mowa w art. 3 ust. 1, efektywnego i skutecznego wykorzystania dofinansowania przedsięwzięcia oraz zapewnienia przejrzystości jego udzielania.
 
 **Art. 27.**
 
@@ -405,5 +401,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. Rada Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych wydatków budżetowych między częściami, działami i rozdziałami budżetu państwa w celu zapewnienia finansowania działalności Centrum w 2011 r.
 
-**Art. 34.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 34.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 11 kwietnia 2011 r.. 1) W brzmieniu ustalonym przez art. 16 pkt 1 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), która weszła w życie z dniem 23 lipca 2024 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089. 3) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 4. 4) W brzmieniu ustalonym przez art. 16 pkt 2 ustawy, o której mowa w odnośniku 1; wejdzie w życie z dniem 1 stycznia 2025 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089. 6) Ustawa została ogłoszona w dniu 11 kwietnia 2011 r.
 

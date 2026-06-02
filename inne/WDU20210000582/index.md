@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 26 marca 2021 r. w sprawie wniosków o objęcie w danym roku budżetowym dopłatą z Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
+# Rozporządzenie Ministra Infrastrukturyz dnia 26 marca 2021 r. w sprawie wniosków o objęcie w danym roku budżetowym dopłatą z Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-26 |
 | Data wydania | 2021-03-30 |
-| Wejście w życie | 2021-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000582) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/582/text.pdf) |
 
@@ -73,8 +72,7 @@ pkt 4, przez 0,14,
 e)
 pkt 5, przez 0,19,
 f)
-pkt 6, przez 0,05
-a następnie sumuje otrzymane wyniki.
+pkt 6, przez 0,05 – a następnie sumuje otrzymane wyniki.
 2.
 Wojewoda dokonuje uszeregowania wniosków o objęcie w danym roku budżetowym dopłatą w ramach każdej grupy organizatorów w kolejności od wniosku o najwyższej do najniższej wartości punktowej.
 § 5.
@@ -83,6 +81,5 @@ Wojewoda obejmuje dopłatą wnioski o objęcie w danym roku budżetowym dopłat�
 2.
 Ostatnim z wniosków o objęcie w danym roku budżetowym dopłatą, który zostanie nią objęty, jest wniosek, na którego realizację w całości wystarczy środków finansowych zaplanowanych na dane województwo.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2021 r.
-1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 9 sierpnia 2019 r. w sprawie wniosków o objęcie w danym roku budżetowym dopłatą z Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. poz. 1514), które traci moc z dniem 1 kwietnia 2021 r. w związku z wejściem w życie art. 19 ustawy z dnia 16 grudnia 2020 r. o rozliczaniu ceny lokali lub budynków w cenie nieruchomości zbywanych z gminnego zasobu nieruchomości (Dz. U. z 2021 r. poz. 223).
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 9 sierpnia 2019 r. w sprawie wniosków o objęcie w danym roku budżetowym dopłatą z Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. poz. 1514), które traci moc z dniem 1 kwietnia 2021 r. w związku z wejściem w życie art. 19 ustawy z dnia 16 grudnia 2020 r. o rozliczaniu ceny lokali lub budynków w cenie nieruchomości zbywanych z gminnego zasobu nieruchomości (Dz. U. z 2021 r. poz. 223). 1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 9 sierpnia 2019 r. w sprawie wniosków o objęcie w danym roku budżetowym dopłatą z Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. poz. 1514), które traci moc z dniem 1 kwietnia 2021 r. w związku z wejściem w życie art. 19 ustawy z dnia 16 grudnia 2020 r. o rozliczaniu ceny lokali lub budynków w cenie nieruchomości zbywanych z gminnego zasobu nieruchomości (Dz. U. z 2021 r. poz. 223).
 

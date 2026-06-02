@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-29 |
 | Data wydania | 2017-06-08 |
-| Wejście w życie | 2017-06-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001110) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1110/text.pdf) |
 
@@ -35,11 +34,9 @@ w § 2 uchyla się ust. 2;
 2)
 w § 4 uchyla się ust. 4;
 3)
-§ 5 otrzymuje brzmienie:
-„
+§ 5 otrzymuje brzmienie: „
 § 5.
-Uposażenie oraz świadczenia pieniężne wypłaca się w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.
-” .
+Uposażenie oraz świadczenia pieniężne wypłaca się w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

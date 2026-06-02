@@ -26,7 +26,7 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001455) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1455/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwości z dnia 27 lutego 2006 r. w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów Dział I – Przepisy wstępne Dział II – Wewnętrzna struktura organizacyjna sądów wojskowych Rozdział 1 – Nazwy sądów Rozdział 2 – Urządzenia zewnętrzne i wewnętrzne sądów Rozdział 3 – Pieczęcie urzędowe Rozdział 4 – Wewnętrzna struktura organizacyjna sądów Rozdział 5 – Czynności prezesa i zastępcy prezesa sądu Rozdział 6 – Czynności związane z tworzeniem, znoszeniem, podziałem i łączeniem sądów lub zmianą obszaru ich właściwości Rozdział 7 – Czas urzędowania Dział III – Czynności wojskowych sądów okręgowych i garnizonowych Rozdział 1 – Przepisy wspólne dla wszystkich rodzajów spraw Rozdział 2 – Czynności przewodniczącego wydziału, przewodniczącego posiedzenia i sędziów Rozdział 3 – Przygotowanie posiedzenia Rozdział 4 – Doręczenia Rozdział 5 – Inne czynności w postępowaniu sądowym Rozdział 6 – Przebieg i porządek posiedzenia Rozdział 7 – Orzeczenia Rozdział 8 – Udostępnianie akt sądowych i dokumentów z akt. Przesyłanie akt Rozdział 9 – Pomoc sądowa Rozdział 10 – Czynności w sprawach dotyczących zgodności aktów normatywnych z Konstytucją lub aktami ustawodawczymi Dział IV – Czynności w sprawach karnych i w sprawach o wykroczenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Zawiadomienia, wezwania, doręczenia Rozdział 3 – Stosowanie środków zapobiegawczych i postępowanie z osobami pozbawionymi wolności Rozdział 4 – Dowody rzeczowe Rozdział 4a – Postępowanie w sprawach europejskiego nakazu aresztowania i poszukiwań międzynarodowych Rozdział 4b – Dostęp do danych Systemu Informacyjnego Schengen drugiej generacji Rozdział 5 – Czynności w sprawach o wykroczenia Dział V – Wykonywanie orzeczeń sądowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Kara pozbawienia wolności, kara aresztu Rozdział 3 – Warunkowe umorzenie postępowania, warunkowe zawieszenie wykonania kary i warunkowe przedterminowe zwolnienie Rozdział 4 – Kara ograniczenia wolności Rozdział 5 – Ułaskawienie Rozdział 6 – Zabezpieczenie majątku Rozdział 7 – Grzywna Rozdział 8 – Środki karne Rozdział 9 – Środki zabezpieczające Rozdział 10 – Należności sądowe Dział VI – Czynności w sprawach z zakresu postępowania dyscyplinarnego Rozdział 1 – Przepisy ogólne
+Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwości z dnia 27 lutego 2006 r. w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 27 lutego 2006 r. w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 287), z uwzględnieniem zmian wprowadzonych:
@@ -41,31 +41,24 @@ rozporządzeniem Ministra Sprawiedliwości z dnia 31 października 2018 r. zmien
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 4 czerwca 2012 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 693), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 4 czerwca 2012 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 693), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 6 lutego 2015 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 335), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 6 lutego 2015 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 335), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 3)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 27 grudnia 2017 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 2472), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 27 grudnia 2017 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 2472), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. ” ;
 4)
-§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 31 października 2018 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 2278), który stanowi:
-„
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 31 października 2018 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 2278), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” .
 Załącznik – Tekst jednolity rozporządzenia Ministra Sprawiedliwości z dnia 27 lutego 2006 r. w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów
 Na podstawie art. 18 § 1 pkt 1 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2020 r. poz. 1754) zarządza się, co następuje:
+Przepisy wstępne
 § 1.
 1.
 Rozporządzenie określa wewnętrzną organizację, porządek i czas urzędowania sądów wojskowych, porządek czynności podejmowanych w sądach, wykonywanie zadań przez sędziów pełniących funkcje kierownicze, tok czynności administracyjnych w sprawach należących do właściwości sądów wojskowych oraz szczegółowe warunki udostępniania pomieszczeń dla uczestników postępowania, świadków i innych osób przebywających w sądach.
@@ -76,13 +69,15 @@ k.k. – ustawę z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2020 r. poz
 2)
 k.p.k. – ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2021 r. poz. 534 i 1023);
 3)
-p.w. K.p.k. – ustawę z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks postępowania karnego (Dz. U. poz. 556, z późn. zm.);
+p.w. K.p.k. – ustawę z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks postępowania karnego (Dz. U. poz. 556, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 2000 r. poz. 717, z 2001 r. poz. 1149, z 2002 r. poz. 1801, z 2003 r. poz. 155 oraz z 2007 r. poz. 766 i 1823.);
 4)
 k.k.w. – ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, 472 i 1236);
 5)
 k.p.w. – ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2021 r. poz. 457 i 1005).
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 4 czerwca 2012 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 693), które weszło w życie z dniem 5 lipca 2012 r.
+Wewnętrzna struktura organizacyjna sądów wojskowych
+Nazwy sądów
 § 2.
 Nazwę wojskowego sądu okręgowego i garnizonowego ustala się zgodnie z nazwą miejscowości stanowiącej jego siedzibę.
 § 3.
@@ -92,6 +87,7 @@ Wydziały zamiejscowe używają nazwy swego sądu z dodaniem wyrazów „Wydzia�
 Nazw sądów wojskowych ustalonych w sposób wskazany w § 2 i 3 używa się na pieczęciach urzędowych, w orzeczeniach i dokumentach wydanych przez sąd oraz umieszcza się na aktach spraw danego sądu i na wszelkich pismach wychodzących z sądu.
 2.
 W orzeczeniach i na aktach spraw sądowych oraz wszelkich pismach wychodzących z poszczególnych wydziałów wojskowego sądu okręgowego oprócz nazwy sądu podaje się również nazwę wydziału.
+Urządzenia zewnętrzne i wewnętrzne sądów
 § 5.
 1.
 Na zewnątrz budynku, w którym mieści się sąd wojskowy, umieszcza się w widocznym miejscu tablicę z godłem państwa oraz nazwą sądu, bez określenia nazwy miejscowości.
@@ -110,6 +106,7 @@ W sali rozpraw część przeznaczona dla publiczności powinna być wyodrębnion
 Obok sali rozpraw wydziela się pomieszczenie przeznaczone na pokój narad.
 5.
 W każdym sądzie wydziela się pomieszczenie poczekalni dla świadków oraz odrębne odpowiednio zabezpieczone pomieszczenie dla doprowadzonych do sądu osób pozbawionych wolności.
+Pieczęcie urzędowe
 § 7.
 Sądy i prezesi sądów używają pieczęci urzędowych z nazwą sądu i z wizerunkiem orła określonym w ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509).
 § 8.
@@ -121,6 +118,7 @@ Pieczęcie urzędowe o jednakowej treści są oznaczone numerami rozpoznawczymi 
 Kontrolę wydanych pieczęci prowadzi prezes sądu.
 § 10.
 Za przechowywanie i używanie pieczęci wydanych do użytku wydziałów odpowiadają kierownicy sekretariatów tych wydziałów.
+Wewnętrzna struktura organizacyjna sądów
 § 11.
 1.
 W wojskowym sądzie okręgowym mogą być tworzone wydziały:
@@ -128,7 +126,7 @@ W wojskowym sądzie okręgowym mogą być tworzone wydziały:
 wydział pierwszej instancji – do rozpoznawania w pierwszej instancji spraw z zakresu prawa karnego oraz innych spraw, jeżeli zostały one przekazane do właściwości tego sądu odrębnymi ustawami;
 2)
 wydział apelacyjny – do rozpoznawania w drugiej instancji spraw z zakresu prawa karnego oraz innych spraw, jeżeli zostały one przekazane do właściwości tego sądu odrębnymi ustawami.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 Wydziały, o których mowa w ust. 1, tworzy i znosi Minister Sprawiedliwości na wniosek prezesa właściwego sądu.
 3.
 Wydziałem kieruje przewodniczący, którym jest prezes lub zastępca prezesa sądu.
@@ -138,9 +136,10 @@ Poszczególne wydziały sądu oznacza się kolejnymi liczbami rzymskimi.
 1.
 W sądach okręgowych działają sędziowie wizytatorzy.
 2.
-(uchylony).
-§ 13.
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.
+§ 13W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2..
 Prezesi wojskowych sądów okręgowych mogą w podległych sądach wojskowych tworzyć, za zgodą Ministra Sprawiedliwości, sekcje dla określonych rodzajów spraw.
+Czynności prezesa i zastępcy prezesa sądu
 § 14.
 1.
 Prezes sądu kieruje powierzonym mu sądem, sprawując nadzór w zakresie organizacji i działalności administracyjnej oraz w zakresie czynnej służby wojskowej żołnierzy pełniących służbę w sądzie.
@@ -187,7 +186,7 @@ opracowanie instrukcji kancelaryjnej ustalającej szczegółowy zakres wewnętrz
 wprowadzenie do użytku rzeczowych wykazów akt określających słownie i cyfrowo hasła kwalifikacyjne wszystkich rodzajów spraw z zakresu administracji i nadzoru oraz funkcjonowania sądu jako jednostki wojskowej, jakie załatwione są w sądzie, oraz zasady ich kwalifikacji do materiałów archiwalnych – kategorii „A” lub dokumentacji niearchiwalnej ‒ kategorii „B” w uzgodnieniu z właściwym archiwum państwowym i wojskowym;
 14)
 nadzór nad archiwum zakładowym;
-15)
+15W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Sprawiedliwości z dnia 6 lutego 2015 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 335), które weszło w życie z dniem 25 marca 2015 r.)
 wykonywanie zadań wynikających z ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742);
 16)
 szkolenie rezerw osobowych oraz zapewnienie pełnej obsady na czas „W” zgodnie z przepisami mobilizacyjnymi;
@@ -195,10 +194,10 @@ szkolenie rezerw osobowych oraz zapewnienie pełnej obsady na czas „W” zgodn
 wykonywanie innych czynności zleconych przez przełożonych;
 18)
 podejmowanie decyzji w sprawach bieżących, związanych ze sprawnym funkcjonowaniem sądu;
-19)
+19Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 6.)
 udzielanie informacji na wnioski kierowane do sądu w trybie ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2020 r. poz. 2176);
-20)
-wykonywanie obowiązków administratora danych osobowych zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723).
+20Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 6.)
+wykonywanie obowiązków administratora danych osobowych zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723)Utraciła moc na podstawie art. 175 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000), która weszła w życie z dniem 25 maja 2018 r., oraz art. 107 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), która weszła w życie z dniem 6 lutego 2019 r..
 2.
 Do czynności wykonywanych przez prezesa sądu w zakresie sprawowanego nadzoru należą:
 1)
@@ -247,7 +246,7 @@ przestrzeganie zasad ochrony i bezpieczeństwa obiektów sądowych stosownie do 
 Prezes wojskowego sądu okręgowego dodatkowo:
 1)
 wyznacza sędziów do pełnienia czynności sędziowskich w poszczególnych wydziałach sądu;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 31 października 2018 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 2278), które weszło w życie z dniem 14 grudnia 2018 r.)
 w przypadku wniesienia kasacji lub skargi nadzwyczajnej, czuwa nad sprawnym wykonywaniem czynności z zakresu tego postępowania, aż do przedstawienia akt Sądowi Najwyższemu lub załatwienia sprawy w inny sposób;
 3)
 dokonuje podziału kompetencji pomiędzy zastępców prezesa;
@@ -259,6 +258,7 @@ przedstawia Rzecznikowi Praw Obywatelskich, na jego żądanie, informacje o stan
 Czynności wymienione w § 15 ust. 1 pkt 4, 5, 7, 11, 16 i ust. 2 pkt 2–6, 8, 11–13 prezes sądu może powierzyć pisemnym rozkazem wiceprezesowi, przewodniczącemu wydziału lub innemu sędziemu.
 § 17.
 Przewodniczący wydziału zamiejscowego wojskowego sądu garnizonowego wykonuje czynności z zakresu administracji, które powierzy mu prezes właściwego sądu.
+Czynności związane z tworzeniem, znoszeniem, podziałem i łączeniem sądów lub zmianą obszaru ich właściwości
 § 18.
 W razie zniesienia, podziału lub połączenia sądów tego samego szczebla funkcjonujących w jednym okręgu prezes sądu nadrzędnego, a w przypadku sądu okręgowego – Minister Sprawiedliwości, zarządza niezwłoczne przekazanie akt spraw sądowych i innych dokumentów właściwemu sądowi.
 § 19.
@@ -271,17 +271,18 @@ Przepisy ust. 1 stosuje się odpowiednio w razie zniesienia, podziału lub poł�
 Jeżeli w wyniku zmian organizacyjnych nastąpiła zmiana obszaru właściwości sądu, prezes tego sądu niezwłocznie zarządza dokonanie przeglądu akt w celu ustalenia spraw, w których nastąpiła zmiana właściwości miejscowej, oraz podjęcie czynności administracyjnych niezbędnych do ich przekazania.
 2.
 Sprawy rozpoznawane na podstawie przepisów k.p.k., w których w dniu wejścia w życie przepisów o zmianie właściwości nie rozpoczęto rozprawy głównej, są przekazywane do sądu właściwego według zmienionych przepisów.
+Czas urzędowania
 § 21.
 1.
 Prezes sądu ustala godziny urzędowania sądu i godziny przyjęć interesantów.
 2.
 W razie potrzeby prezes sądu może ustalić dwuzmianowy system urzędowania sądu.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6..
 Sekretariat sądu przyjmuje interesantów co najmniej przez 6 godzin w czasie urzędowania, a raz w tygodniu dodatkowo po południu do godz. 1800.
 4.
 Prezes, zastępca prezesa lub osoby wskazane przez prezesa sądu powinny być obecne w czasie godzin urzędowania sądu.
 § 22.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Wyznaczanie sesji sądowych w okresie od dnia 1 lipca do dnia 31 sierpnia może być czasowo ograniczone do rozpoznawania spraw pilnych. Prezesi wojskowych sądów okręgowych za zgodą Ministra Sprawiedliwości, po zasięgnięciu opinii właściwych prokuratorów, ustalą dokładny okres ograniczenia wyznaczania sesji sądowych, mając na uwadze warunki lokalne oraz potrzebę zapewnienia niezbędnej sprawności postępowania i załatwiania wpływających spraw.
 2.
 Czas przerwy w poszczególnych sądach nie może być dłuższy niż 4 tygodnie.
@@ -291,48 +292,50 @@ Za sprawy pilne uważa się w szczególności:
 sprawy w przedmiocie zastosowania tymczasowego aresztowania, sprawy osób tymczasowo aresztowanych i pozbawionych wolności oraz zatrzymanych i sprawy, w których orzeczono środek zabezpieczający, oraz te, w których zbliża się termin, z jakim ustaje karalność czynu;
 2)
 wnioski o nadanie klauzuli wykonalności.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku wystąpienia znacznych zaległości w rozpoznawaniu spraw w danym sądzie Minister Sprawiedliwości może nie wyrazić zgody na ograniczenie wyznaczenia sesji sądowych, o których mowa w ust. 1.
 § 23.
 1.
 Sędziom i innym pracownikom sądowym urlopu udziela na ich wniosek prezes sądu, zgodnie z ustalonym rocznym planem urlopów.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Prezesom wojskowych sądów okręgowych urlopu udziela Minister Sprawiedliwości, a prezesom sądów garnizonowych ‒ prezes wojskowego sądu okręgowego.
+Czynności wojskowych sądów okręgowych i garnizonowych
+Przepisy wspólne dla wszystkich rodzajów spraw
 § 24.
 1.
 Sprawy wpływające do sądu należy rozpoznawać według kolejności ich wpływu do sądu, chyba że przepis szczególny stanowi inaczej. W przypadku gdy sprawa wymagała uzupełnienia braków formalnych kolejność jej rozpoznania liczona jest od daty uzupełnienia braków.
 2.
 Poza kolejnością określoną w ust. 1 na terminy rozpraw należy kierować sprawy osób tymczasowo aresztowanych i pozbawionych wolności oraz sprawy zagrożone przedawnieniem karalności czynów.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 27 grudnia 2017 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 2472), które weszło w życie z dniem 1 stycznia 2018 r..
 W szczególnie uzasadnionych przypadkach prezes sądu oraz przewodniczący wydziału może zarządzić rozpoznanie sprawy lub spraw poszczególnych kategorii poza kolejnością określoną w ust. 1.
-§ 24a.
-1.
+§ 24aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 14..
+1W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 9..
 Sprawy są przydzielane sędziom referentom losowo, zgodnie z uchwałą kolegium właściwego wojskowego sądu okręgowego określającą sposób uczestniczenia sędziów w przydziale spraw, oddzielnie dla każdego repertorium, wykazu lub innego urządzenia ewidencyjnego, chyba że przepisy niniejszego rozporządzenia przewidują inne zasady przydziału.
-1a.
+1aDodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 9..
 Jeżeli w danym urządzeniu ewidencyjnym sprawy zostały podzielone na kategorie, przydział odbywa się oddzielnie dla każdej kategorii.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 9..
 Czynności w sprawie zakończonej lub zawieszonej, jeżeli referent nie orzeka już w sądzie lub z innych przyczyn nie może podjąć czynności, podejmuje prezes sądu. Jeżeli po podjęciu czynności okaże się, że sprawa wymaga rozstrzygnięcia co do jej istoty, podlega ona ponownemu przydziałowi. Prezes sądu może zarządzić ponowny przydział także innych spraw zakończonych lub zawieszonych.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 9..
 Skład wyznaczony do rozpoznania apelacji rozpoznaje wszystkie środki odwoławcze przedstawione przez sąd pierwszej instancji przed zwrotem sprawy temu sądowi. Skład wyznaczony do rozpoznania zażalenia rozpoznaje wszystkie zażalenia przedstawione przez sąd pierwszej instancji przed zwrotem sprawy temu sądowi, chyba że przed rozpoznaniem zażalenia został wyznaczony skład do rozpoznania apelacji. Jeżeli kolejny środek odwoławczy podlega rozpoznaniu w składzie jednego sędziego, rozpoznaje go sędzia referent, a jeżeli jest nim sędzia delegowany z sądu niższego rzędu, środek odwoławczy rozpoznaje przewodniczący składu.
-3a.
+3aDodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 9..
 Przepis ust. 3 stosuje się odpowiednio do wniosków o przedłużenie tymczasowego aresztowania oraz zażaleń w przedmiocie tymczasowego aresztowania dotyczących jednego postępowania przygotowawczego lub zażaleń w sprawach wykonawczych dotyczących jednego skazanego, chyba że ze względu na liczbę środków odwoławczych prezes sądu zarządzi odrębny przydział części zażaleń.
 4.
-W sprawach związanych z wykonaniem orzeczeń sprawy są przydzielane zgodnie z uchwałą kolegium właściwego wojskowego sądu okręgowego określającą sposób uczestniczenia sędziów w przydziale spraw. W szczególności przydział spraw może nastąpić:
+W sprawach związanych z wykonaniem orzeczeń sprawy są przydzielane zgodnie z uchwałą kolegium właściwego wojskowego sądu okręgowego określającą sposób uczestniczenia sędziów w przydziale spraw. W szczególności przydział spraw może nastąpić:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. e tiret pierwsze rozporządzenia, o którym mowa w odnośniku 9.
 1)
 wojskowemu sędziemu penitencjarnemu;
-1a)
+1aDodany przez § 1 pkt 2 lit. e tiret drugie rozporządzenia, o którym mowa w odnośniku 9.)
 według rodzaju kary lub środka karnego;
 2)
 referentowi, który wydał wykonywane orzeczenie;
 3)
 referentowi, któremu według odrębnych zasad już została przydzielona sprawa związana z wykonaniem tego samego orzeczenia.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 2 lit. f rozporządzenia, o którym mowa w odnośniku 9..
 W przydziale spraw nie uwzględnia się sędziów nieobecnych w pracy nieprzerwanie przez co najmniej 4 dni robocze. Prezes sądu w wybranych urządzeniach ewidencyjnych lub kategoriach spraw może wstrzymać kierowanie spraw do przydziału w przypadku krótkotrwałych nieobecności części sędziów, do zakończenia tych nieobecności, chyba że w sprawie jest konieczne podjęcie czynności niecierpiących zwłoki.
-5a.
+5aDodany przez § 1 pkt 2 lit. g rozporządzenia, o którym mowa w odnośniku 9..
 Na potrzeby stosowania przepisu ust. 5 przez nieobecność w pracy rozumie się także udział w szkoleniu. Nieobecności z powodu udziału w szkoleniu są uwzględniane w wymiarze do 10 dni w roku kalendarzowym.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 2 lit. h rozporządzenia, o którym mowa w odnośniku 9..
 Jeżeli sędzia, któremu została przydzielona sprawa, został wyłączony z jej rozpoznania, dokonuje się ponownego przydziału sprawy. Wyłączonemu sędziemu przydziela się dodatkową sprawę w tej samej kategorii, przy czym nie stosuje się przepisu § 24b ust. 2.
-6a.
+6aDodany przez § 1 pkt 2 lit. i rozporządzenia, o którym mowa w odnośniku 9..
 Prezes sądu zarządza przydzielenie dodatkowej sprawy tej samej kategorii, jeżeli sprawa została zakończona:
 1)
 przekazaniem sprawy do innego sądu;
@@ -342,28 +345,28 @@ zwrotem pisma wszczynającego sprawę;
 połączeniem ze sprawą innego referenta;
 4)
 przez zastępcę, o którym mowa w § 24c ust. 7.
-7.
+7W brzmieniu ustalonym przez § 1 pkt 2 lit. j rozporządzenia, o którym mowa w odnośniku 9..
 W razie podziału referatu sprawy podlegają przydziałowi według zasad ogólnych. W przydziale spraw biorą udział sędziowie nieobecni, których referaty nie zostały podzielone. Referat podlega podziałowi, jeżeli czas choroby lub planowana nieobecność referenta przekracza 6 miesięcy. Prezes sądu może zarządzić podział referatu po 2 miesiącach choroby referenta, jeżeli jest to uzasadnione stanem zaległości i przewidywanym dalszym czasem choroby. Podział referatu może zostać ograniczony do wybranych kategorii. Sprawy, których rozpoznanie nie wymaga przeprowadzenia rozprawy, mogą zostać podzielone, jeśli planowany lub faktyczny okres nieobecności przekracza jeden miesiąc.
 8.
 Kolegium właściwego wojskowego sądu okręgowego określa dla sędziów z danego okręgu sądowego wskaźnik procentowy udziału w przydziale wpływających do sądu spraw przy zachowaniu następujących zasad:
 1)
 100% – sędzia niepełniący funkcji, niedelegowany do innej jednostki;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. k rozporządzenia, o którym mowa w odnośniku 9.)
 co najmniej 90% – zastępca rzecznika dyscyplinarnego oraz rzecznik prasowy;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. k rozporządzenia, o którym mowa w odnośniku 9.)
 co najmniej 50% – sędzia będący członkiem Krajowej Rady Sądownictwa lub delegowany do Biura Krajowej Rady Sądownictwa, wizytator, sędzia pełniący funkcję prezesa lub zastępcy prezesa sądu oraz rzecznik dyscyplinarny.
-9.
+9Dodany przez § 1 pkt 2 lit. I rozporządzenia, o którym mowa w odnośniku 9..
 W przypadku pisemnej zgody wszystkich sędziów orzekających w sądzie kolegium właściwego wojskowego sądu okręgowego może zarządzić zwiększenie lub zmniejszenie sędziemu przydziału spraw w określonych kategoriach spraw. Osiąga się to przez zmniejszenie wskaźników procentowych lub wyłączenie przydziału w pozostałych sprawach oraz wyłączenie pozostałych sędziów z orzekania w tych sprawach lub zmniejszenie w nich wskaźników przydziału. Zgoda nie jest wymagana w przypadku przydzielania sędziom delegowanym do danego sądu na podstawie art. 26 § 1 lub § 2 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych tylko niektórych rodzajów spraw.
-§ 24b.
+§ 24bDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 14..
 1.
 Losowanie składu sędziowskiego do kolejnych spraw przeprowadza się w ten sposób, że jednakowe kartki z odrębnie wypisanymi nazwiskami i imionami sędziów biorących udział w losowaniu umieszcza się w pojemniku, z którego kierownik sekretariatu losuje niezbędną liczbę kartek w zależności od liczebności składu rozpoznającego sprawę. Czynności, o których mowa w zdaniu pierwszym, przeprowadza się przy udziale innego pracownika. Z losowania sporządza się protokół.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 9..
 Sędzia wylosowany do rozpoznawania danej sprawy nie bierze udziału w dalszym losowaniu aż do momentu wylosowania wszystkich sędziów do rozpoznawania kolejnych spraw w danej kategorii.
 3.
 W sprawach rozpoznawanych w składach liczących więcej niż jednego sędziego, sędzia wylosowany jako pierwszy jest referentem sprawy. Sędzia wylosowany jako drugi jest przewodniczącym składu orzekającego, chyba że z odrębnych przepisów wynika, że nie może on przewodniczyć składowi orzekającemu lub przewodniczenie należy do innego członka składu. Jeżeli sędzia wylosowany jako drugi nie może przewodniczyć danemu składowi orzekającemu, przewodniczącym jest sędzia wylosowany w następnej kolejności, chyba że z odrębnych przepisów wynika, że przewodniczenie należy do innego członka składu. Jeżeli żaden spośród sędziów wylosowanych do składu orzekającego nie może przewodniczyć danemu składowi, losowanie sędziego wylosowanego w ostatniej kolejności ponawia się aż do wylosowania sędziego, który może przewodniczyć składowi orzekającemu. Jeżeli do składu orzekającego zostanie wylosowany sędzia, który ze względu na sędziego już wylosowanego do składu nie może brać udziału w danym składzie, losowanie ponawia się aż do wylosowania sędziego, który może brać udział w składzie.
 4.
 Do losowania ławników do rozpoznawania kolejnych spraw stosuje się odpowiednio przepisy ust. 1–3 oraz § 24a ust. 1.
-§ 24c.
+§ 24cDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 14; w brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 9..
 1.
 Prezes sądu ustala plan dyżurów sędziów oraz plan zastępstw sędziów i ławników. Plan dyżurów określa sędziów pełniących dyżur na każdy dzień. Plany zastępstw i dyżurów określają liczbę zastępców i pełniących dyżur w danym okresie, rodzaje spraw przypisane zastępcom i pełniącym dyżur oraz kolejność podejmowania czynności w zastępstwie i przydziału spraw pełniącym dyżur w przypadku większej liczby zastępców i pełniących dyżur.
 2.
@@ -403,12 +406,13 @@ Przepis ust. 1 nie dotyczy pism, których sporządzenie należy do obowiązków 
 Jeżeli pismo wszczynające postępowanie wpłynęło do wydziału, który nie jest właściwy w sprawie, przewodniczący wydziału zarządza niezwłoczne przekazanie pisma zgodnie z właściwością.
 2.
 W przypadkach budzących wątpliwości wydział właściwy do rozpoznania sprawy wyznacza prezes sądu.
+Czynności przewodniczącego wydziału, przewodniczącego posiedzenia i sędziów
 § 29.
 Przewodniczący wydziału w sądzie okręgowym kieruje całokształtem pracy w wydziale w zakresie spraw sądowych, a w szczególności:
 1)
 zaznajamia się z pismami wpływającymi do wydziału i bezzwłocznie wydaje co do nich odpowiednie zarządzenia, a pisma stanowiące skargi lub wnioski dotyczące postępowań sądowych i czynności podjętych przez sędziów przekazuje prezesowi sądu;
 2)
-(uchylony);
+(uchylony);Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 14.
 3)
 układa plan posiedzeń i rozpraw;
 4)
@@ -417,10 +421,10 @@ wyznacza terminy posiedzeń w poszczególnych sprawach i wydaje stosowne zarząd
 kontroluje zasadność odraczania i przerywania rozpraw i posiedzeń oraz bieg spraw, w których postępowanie jest przewlekłe;
 6)
 wykonuje czynności nadzorcze.
-§ 30.
+§ 30W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 9..
 Przewodniczący wydziału w sądzie okręgowym zapewnia sprawne skierowanie do rozpatrzenia zaskarżonych orzeczeń, a także, w przypadku wniesienia kasacji lub skargi nadzwyczajnej, sprawne wykonanie czynności z zakresu tego postępowania, aż do przedstawienia akt Sądowi Najwyższemu lub załatwienia sprawy w inny sposób.
 § 31.
-(uchylony).
+(uchylony).Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 9.
 § 32.
 Poza czynnościami wymienionymi w przepisach poprzedzających przewodniczący wydziału spełnia czynności, do których według przepisów postępowania powołany jest prezes sądu, chyba że prezes sądu zarządzi inaczej lub gdy co innego wynika z przepisów postępowania.
 § 33.
@@ -465,6 +469,7 @@ przekazuje akta do archiwum zakładowego.
 Sędzia nadzoruje, czy przydzielone mu sprawy otrzymały prawidłowy bieg oraz czy wydane w tych sprawach zarządzenia są terminowo i należycie wykonywane przez sekretariat, a ponadto informuje uczestników postępowania o ich prawach i obowiązkach procesowych.
 2.
 Sędzia prowadzi na bieżąco książkę podręczną sędziego, do której wpisuje w kolejności wszystkie prowadzone i załatwione sprawy.
+Przygotowanie posiedzenia
 § 36.
 1.
 O wyznaczeniu posiedzenia poza budynkiem sądu zawiadamia się prezesa sądu, z wyjątkiem przypadku, gdy posiedzenie wyznacza się w celu przeprowadzenia dowodu z oględzin albo w celu przesłuchania osoby, która nie może stawić się w sądzie.
@@ -490,6 +495,7 @@ O każdym przypadku nieusprawiedliwionego nieprzybycia ławnika na posiedzenie p
 Prezes sądu wydaje zarządzenia dotyczące zasad korzystania z list ławników w sposób uwzględniający możliwie równomierny ich udział w rozprawach, a także prowadzenia ewidencji udziału wszystkich ławników w posiedzeniach sądu.
 § 41.
 W razie przewidywania masowego przybycia publiczności prezes sądu może zarządzić wydanie kart wstępu na salę rozpraw. Może również wyznaczyć odpowiednie miejsce dla przedstawicieli prasy i innych środków masowego przekazu.
+Doręczenia
 § 42.
 1.
 Prezes sądu przy wyborze sposobu doręczania przesyłek sądowych uwzględnia warunki ekonomiczne i skuteczność doręczeń.
@@ -516,6 +522,7 @@ W piśmie, przy którym przesyłane są zawiadomienia, wezwania i inne pisma są
 Wezwania i zawiadomienia o terminach posiedzeń powinny być wysłane w takim terminie, aby w razie stwierdzenia przeszkód w ich doręczeniu można było wezwania i zawiadomienia wysłać ponownie albo odwołać posiedzenie i zawiadomić o tym osoby, którym zawiadomienia lub wezwania zostały już uprzednio doręczone.
 § 50.
 Jeżeli pismo podlegające doręczeniu zostało złożone tak późno, że jego odpisu nie można doręczyć przed terminem posiedzenia, doręcza się to pismo na posiedzeniu i odnotowuje fakt doręczenia w protokole lub notatce urzędowej.
+Inne czynności w postępowaniu sądowym
 § 51.
 Przy zobowiązaniu strony do dokonania czynności należy w postanowieniu lub zarządzeniu oznaczyć termin jej wykonania i wskazać skutki uchybienia tego terminu.
 § 52.
@@ -526,6 +533,7 @@ Jeżeli biegły jest zobowiązany do złożenia opinii na piśmie, powinien zło
 Jeżeli zachodzi potrzeba przechowania przedmiotu oględzin dostarczonego do sądu, stosuje się odpowiednio przepisy rozporządzenia dotyczące dowodów rzeczowych.
 § 55.
 Dowody rzeczowe w postaci dokumentów mających charakter środków płatniczych, a także weksle, czeki, bankowe umowy kredytowe, powinny być przechowywane w pomieszczeniu wskazanym przez prezesa sądu, w odpowiednio zabezpieczonej szafie pancernej.
+Przebieg i porządek posiedzenia
 § 56.
 1.
 Przewodniczący posiedzenia zajmuje miejsce środkowe za stołem sędziowskim, a pozostali członkowie składu orzekającego zajmują miejsca obok przewodniczącego, przy czym drugi sędzia zawodowy po prawej stronie przewodniczącego.
@@ -558,6 +566,7 @@ W razie naruszenia przez adwokata jako pełnomocnika procesowego lub obrońcę o
 W razie odroczenia lub przerwania posiedzenia należy ogłosić osobom zainteresowanym obecnym na posiedzeniu termin następnego posiedzenia, chyba że ze względu na przyczynę odroczenia lub przerwania posiedzenia niezwłoczne wyznaczenie następnego terminu nie jest możliwe.
 2.
 W razie ogłoszenia terminu następnego posiedzenia należy pouczyć osoby zainteresowane o tym, które z nich mają obowiązek stawić się na następne posiedzenie bez osobnego wezwania, oraz o skutkach niestawiennictwa. Na żądanie osoby zainteresowanej należy wydać jej pismo wskazujące termin stawienia się w sądzie. Osoby nieobecne na posiedzeniu należy wezwać na następne posiedzenie lub zawiadomić o nim na zasadach ogólnych.
+Orzeczenia
 § 63.
 1.
 Na wstępie wyroku zamieszcza się wyrazy: „W imieniu Rzeczypospolitej Polskiej” poprzedzone wizerunkiem godła.
@@ -586,15 +595,16 @@ Po uprawomocnieniu się postanowienia o sprostowaniu orzeczenia niezwłocznie um
 Odpisy sprostowanego orzeczenia wydaje się w brzmieniu uwzględniającym sprostowanie, a na żądanie stron umieszcza się wzmiankę o sprostowaniu na doręczonych im wcześniej odpisach i wypisach.
 3.
 Przepisy ust. 1 i 2 stosuje się odpowiednio w razie sprostowania zarządzenia.
+Udostępnianie akt sądowych i dokumentów z akt. Przesyłanie akt
 § 68.
 1.
 W toku postępowania można wydać stronie lub innej uprawnionej osobie złożony przez nią dokument lub przedmiot tylko na zarządzenie przewodniczącego posiedzenia lub sędziego sprawozdawcy.
 2.
 Po zakończeniu postępowania w sprawie wydanie stronie lub innej uprawnionej osobie dokumentu lub przedmiotu następuje na zarządzenie prezesa sądu lub przewodniczącego wydziału.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6.
 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6.
 5.
 Wydanie dokumentu następuje dopiero po złożeniu do akt uwierzytelnionego odpisu lub wypisu z dokumentu albo jego uwierzytelnionej kserokopii, z tym że w przypadku, o którym mowa w ust. 2, prezes sądu lub przewodniczący wydziału może zwolnić od tego obowiązku.
 § 69.
@@ -617,7 +627,7 @@ Akta sprawy przesyła się na każde żądanie po wykonaniu niezbędnych czynno�
 W innych przypadkach sądowi oraz prokuratorowi przesyła się akta, jeżeli pozwala na to bieg sprawy. W razie gdy bieg sprawy nie pozwala na przesłanie akt, można przesłać odpisy dokumentów wskazanych przez zwracających się o ich nadesłanie.
 3.
 Zarządzając przesłanie akt sprawy niezakończonej, potrzebnych jako dowód w innej sprawie, prezes sądu lub przewodniczący wydziału określa termin zwrotu akt, uwzględniając czas potrzebny do dokonania odpowiednich czynności przez organ wzywający.
-§ 72a.
+§ 72aDodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 9..
 Akta spraw zakończonych udostępnia się organom, o których mowa w art. 89 § 2 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2021 r. poz. 154 i 611), w tym prokuratorowi wykonującemu czynności związane z wniesieniem skargi nadzwyczajnej Prokuratora Generalnego.
 § 73.
 1.
@@ -640,6 +650,7 @@ Zwrot następuje na podstawie zarządzenia prezesa sądu odwoławczego, przewodn
 Poza przypadkami określonymi w przepisach poprzedzających akta spraw sądowych nie powinny być wynoszone poza siedzibę sądu.
 2.
 Prezes sądu lub przewodniczący wydziału w szczególnych przypadkach, uzasadnionych sprawnością postępowania, może zezwolić sędziemu referentowi na wyniesienie akt sądowych poza siedzibę sądu.
+Pomoc sądowa
 § 76.
 1.
 W zleceniu przeprowadzenia dowodu lub dokonania innej czynności przez sąd wezwany należy dokładnie określić, jakie czynności mają być dokonane, oznaczyć wyczerpująco fakty i okoliczności podlegające stwierdzeniu przez poszczególne osoby, a w razie potrzeby – przytoczyć fakty i okoliczności, na które należy zwrócić szczególną uwagę. Należy również wskazać adresy osób, które mają być przesłuchane lub zawiadomione o terminie, i podać, które z osób mają być przesłuchane po odebraniu przyrzeczenia.
@@ -667,15 +678,18 @@ Jeżeli sąd wezwany przyznał osobom biorącym udział w postępowaniu wynagrod
 Sąd wezwany w razie otrzymania wiadomości, że osoba, która ma być przesłuchana, nie mieszka pod wskazanym adresem, powinien zwrócić się do właściwego organu ewidencji ludności lub innego organu o podanie aktualnego adresu. W razie stwierdzenia, że osoba ta mieszka w okręgu innego sądu, pismo o udzielenie pomocy sądowej przesyła się sądowi właściwemu według miejsca zamieszkania tej osoby oraz zawiadamia o tym sąd wzywający.
 § 80.
 Ściągnięcie kar o charakterze pieniężnym nałożonych przez sąd wezwany należy do tego sądu. W tym celu sąd wezwany wyłącza postanowienie o nałożeniu kary pieniężnej z akt i czyni o tym wzmiankę w tych aktach.
+Czynności w sprawach dotyczących zgodności aktów normatywnych z Konstytucją lub aktami ustawodawczymi
 § 81.
 1.
-W przypadkach, o których mowa w art. 3 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. poz. 643, z późn. zm.), sąd wydaje postanowienie i zawiesza postępowanie w sprawie.
+W przypadkach, o których mowa w art. 3 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. poz. 643, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 552 i 638, z 2001 r. poz. 1070, z 2005 r. poz. 1417, z 2009 r. poz. 459 i 1375, z 2010 r. poz. 1228 i 1307 oraz z 2011 r. poz. 654.)Utraciła moc na podstawie art. 138 ustawy z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym (Dz. U. poz. 1064), która weszła w życie z dniem 30 sierpnia 2015 r., sąd wydaje postanowienie i zawiesza postępowanie w sprawie.
 2.
 W postanowieniu, o którym mowa w ust. 1, sąd powinien uzasadnić wątpliwości co do zgodności aktu normatywnego z Konstytucją, ratyfikowanymi umowami międzynarodowymi lub ustawą, przemawiające za potrzebą skierowania pytania prawnego do Trybunału Konstytucyjnego.
 3.
 Po otrzymaniu odpisu orzeczenia Trybunału Konstytucyjnego sąd podejmuje zawieszone postępowanie.
 § 82.
 Niezależnie od trybu postępowania, o którym mowa w § 81, sąd powinien zawiadomić uprawniony organ o stwierdzonej w toku rozpoznawania sprawy wątpliwości co do niezgodności aktu normatywnego z Konstytucją, ratyfikowanymi umowami międzynarodowymi lub ustawą – nawet jeżeli nie ma to znaczenia dla rozstrzygnięcia sprawy.
+Czynności w sprawach karnych i w sprawach o wykroczenia
+Przepisy ogólne
 § 83.
 Wstępne czynności w sprawach karnych, karnych skarbowych oraz w sprawach o wykroczenia powinny zmierzać do tego, aby w każdej sprawie rozstrzygnięcie zapadło w miarę możliwości na pierwszej rozprawie lub posiedzeniu.
 § 84.
@@ -744,6 +758,7 @@ Kierownik sekretariatu zwraca się do Krajowego Rejestru Karnego o nadesłanie d
 W przypadku złożenia apelacji prezes sądu lub przewodniczący wydziału wydaje zarządzenie o zawiadomieniu o przyjęciu apelacji prokuratora, obrońców i pełnomocników oraz stron i innych uczestników postępowania.
 2.
 Sąd pierwszej instancji przedstawia sądowi odwoławczemu apelację wraz z aktami sprawy dopiero po dołączeniu do nich dowodów doręczenia wszystkich zawiadomień o przyjęciu apelacji.
+Zawiadomienia, wezwania, doręczenia
 § 97.
 1.
 Jeżeli przepisy przewidują obowiązek zawiadamiania organów władz, urzędów lub instytucji o wszczęciu i ukończeniu postępowania, zawiadomienia takiego dokonuje sąd pierwszej instancji tylko wówczas, gdy obowiązku zawiadomienia nie wykonano w toku postępowania przygotowawczego.
@@ -761,6 +776,7 @@ O terminach rozpoznawania spraw na rozprawach lub na posiedzeniach zawiadamia si
 W razie wytoczenia powództwa cywilnego prezes sądu zarządza bezzwłocznie przesłanie odpisów pozwu stronom. Rzecznika Praw Obywatelskich zawiadamia się o sprawie w szczególności wówczas, gdy wymaga tego ochrona praworządności, praw obywateli lub interesu społecznego. W zawiadomieniu należy podać zwięźle stan sprawy. W miarę potrzeby należy wraz z zawiadomieniem przesłać Rzecznikowi Praw Obywatelskich odpis pozwu (wniosku) i dalszych pism procesowych, a w uzasadnionych przypadkach ‒ akta sprawy, jeżeli pozwala na to jej bieg.
 § 101.
 W razie wydania orzeczenia kończącego postępowanie karne przeciwko osobie, której w innej sprawie warunkowo umorzono postępowanie, warunkowo zawieszono wykonanie kary lub którą warunkowo przedterminowo zwolniono, sąd pierwszej instancji przesyła odpis tego orzeczenia ze wzmianką o prawomocności właściwemu sądowi, chyba że postępowanie ukończono wyrokiem uniewinniającym lub umorzeniem postępowania.
+Stosowanie środków zapobiegawczych i postępowanie z osobami pozbawionymi wolności
 § 102.
 Sprawy osób zatrzymanych, tymczasowo aresztowanych oraz oskarżonych, w stosunku do których zapadły wyroki skazujące na karę pozbawienia wolności, powinny być rozpatrywane w pierwszej kolejności.
 § 103.
@@ -869,7 +885,7 @@ czytelny podpis sędziego, ponadto powinno być opatrzone okrągłą pieczęcią
 3.
 Oryginał zarządzenia o wyrażeniu zgody na uzyskanie widzenia pozostawia się w aktach sprawy, zaś jego odpisy przesyła się do właściwego aresztu śledczego i doręcza osobie odwiedzającej.
 4.
-Widzenia udziela się po złożeniu w administracji aresztu śledczego przez osobę odwiedzającą odpisu zarządzenia o wyrażeniu zgody na uzyskanie widzenia. Szczegółowe warunki odbywania widzeń określają przepisy rozporządzenia Ministra Sprawiedliwości z dnia 25 sierpnia 2003 r. w sprawie regulaminu organizacyjno-porządkowego wykonywania tymczasowego aresztowania (Dz. U. poz. 1494).
+Widzenia udziela się po złożeniu w administracji aresztu śledczego przez osobę odwiedzającą odpisu zarządzenia o wyrażeniu zgody na uzyskanie widzenia. Szczegółowe warunki odbywania widzeń określają przepisy rozporządzenia Ministra Sprawiedliwości z dnia 25 sierpnia 2003 r. w sprawie regulaminu organizacyjno-porządkowego wykonywania tymczasowego aresztowania (Dz. U. poz. 1494)Utraciło moc na podstawie art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r..
 5.
 Jeżeli sąd postanowił, że tymczasowo aresztowany nie może zostać przeniesiony do zakładu karnego po upływie 14 dni od wydania wyroku skazującego sądu pierwszej instancji, albo jeżeli tymczasowo aresztowany nie wyraża zgody na stosowanie wobec niego regulaminu wykonywania kary pozbawienia wolności, uprawnienie do wyrażenia zgody na uzyskanie widzenia z aresztowanym przysługuje temu sądowi, aż do czasu uprawomocnienia się wyroku.
 § 121.
@@ -913,9 +929,9 @@ Korespondencję osoby tymczasowo aresztowanej cenzuruje sędzia sądu, do które
 2.
 Ocenzurowana korespondencja podlega oznakowaniu pieczęcią o treści: „Ocenzurowano, dnia... , podpis...”. Pieczęć przystawia się na korespondencji.
 3.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6.
 4.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6.
 § 127.
 1.
 Poręczenie majątkowe w postaci papierów wartościowych lub przedmiotu zastawu składa się do depozytu sądowego. Pokwitowanie przyjęcia do depozytu dołącza się do protokołu przyjęcia poręczenia.
@@ -952,6 +968,7 @@ W razie zastosowania środka zapobiegawczego w postaci zakazu opuszczania kraju 
 W razie zatrzymania paszportu lub innego dokumentu uprawniającego do przekroczenia granicy powiadamia się o tym właściwy organ paszportowy.
 3.
 W przypadku gdy zastosowanie środka zapobiegawczego w postaci zakazu opuszczania kraju jest związane z uchyleniem tymczasowego aresztowania, odpis postanowienia, o którym mowa w ust. 1, przesyła się również dyrektorowi aresztu śledczego wraz z pismem informującym, gdzie ma być przekazany paszport zwalnianego lub inny dokument uprawniający go do przekraczania granicy.
+Dowody rzeczowe
 § 135.
 1.
 Jeżeli przepis szczególny nie stanowi inaczej, złożone lub zatrzymane w związku z postępowaniem przedmioty załącza się do akt sprawy, a w miarę potrzeby umieszcza się we wszytej do akt kopercie, na której zaznacza się zawartość i datę przyjęcia przedmiotu oraz nazwę organu lub nazwisko osoby, która go złożyła.
@@ -978,6 +995,7 @@ Jednocześnie z przekazaniem akt sprawy innemu sądowi, przekazuje się właści
 Jeżeli sprawę przekazano sądowi odwoławczemu, przedmioty przechowywane w związku z tą sprawą należy pozostawić w dotychczasowym przechowywaniu, chyba że prezes sądu lub przewodniczący wydziału sądu odwoławczego zarządzi inaczej.
 3.
 W razie przekazania sprawy w celu uzupełnienia postępowania przygotowawczego, o przekazaniu zawiadamia się przechowującego przedmioty złożone lub zatrzymane w związku z postępowaniem w tej sprawie. Przechowywane przedmioty przekazuje się oskarżycielowi publicznemu na jego żądanie lub po upływie 3 miesięcy od daty zwrotu akt, jeżeli sprawa ponownie nie wpłynęła.
+Postępowanie w sprawach europejskiego nakazu aresztowania i poszukiwań międzynarodowych
 § 140a.
 1.
 Wojskowy sąd okręgowy, wydając europejski nakaz aresztowania, zwany dalej „nakazem”, powinien dążyć do objęcia nim wszystkich spraw, w których oskarżony (skazany) jest poszukiwany.
@@ -1024,6 +1042,7 @@ W przypadku uchylenia postanowienia, o którym mowa w ust. 1, wojskowy sąd okr�
 Przepisy § 140c ust. 1, 2, 4 i 5 oraz § 140e stosuje się odpowiednio w przypadku ustalenia, że osoba ścigana przebywa lub gdy istnieje podejrzenie, że może ona przebywać na terytorium państwa uczestniczącego w SIS II niebędącego państwem członkowskim Unii Europejskiej.
 § 140g.
 W razie niedotrzymania ustawowych terminów do rozpoznania sprawy w przedmiocie wykonania nakazu wydanego przez inne państwo, wojskowy sąd okręgowy właściwy do rozpoznania sprawy niezwłocznie zawiadamia o tym Ministerstwo Sprawiedliwości, wskazując przyczyny niedotrzymania terminów.
+Dostęp do danych Systemu Informacyjnego Schengen drugiej generacji
 § 140h.
 Do czynności prezesa sądu należy zapewnienie organizacyjnych i technicznych mechanizmów zabezpieczających dane SIS II przed nieuprawnionym dostępem, zniszczeniem, zmianą lub ich utratą, jak również zapewnienie zgodności podejmowanych w danym sądzie działań z obowiązującymi przepisami o dostępie do danych SIS II.
 § 140i.
@@ -1057,6 +1076,7 @@ Po każdorazowym wglądzie lub przetworzeniu danych w SIS II tworzy się wydruk 
 Wydruki, które nie są przydatne dla postępowania, podlegają zniszczeniu.
 § 140q.
 W przypadku braku bezpośredniego dostępu do danych SIS II spowodowanego przyczynami niezależnymi od sądu wpisów do SIS II dokonuje się za pośrednictwem Biura Służby Kryminalnej Komendy Głównej Policji.
+Czynności w sprawach o wykroczenia
 § 141.
 Po wpłynięciu wniosku o ukaranie, złożonego przez oskarżyciela publicznego lub oskarżyciela posiłkowego, prezes sądu dokonuje wstępnej kontroli wniosku w celu ustalenia, czy spełnia on warunki formalne określone w art. 57 § 2–4 k.p.w., po czym niezwłocznie wydaje stosowne zarządzenia lub postanowienia.
 § 142.
@@ -1070,7 +1090,7 @@ Jeżeli wniosek nie pochodzi od oskarżyciela publicznego lub pełnomocnika, w z
 1.
 Prezes sądu wydając zarządzenie o wszczęciu postępowania, kieruje jednocześnie sprawę do rozpoznania na rozprawie lub na posiedzeniu albo zarządza wykonanie innych niezbędnych czynności.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 6.
 § 145.
 1.
 Prezes sądu, kierując sprawę na rozprawę lub posiedzenie, określa osoby podlegające wezwaniu lub zawiadomieniu o terminie i miejscu rozprawy lub posiedzenia ze stosownym pouczeniem oraz ze wskazaniem skutków określonych w art. 60 § 2 i art. 65 § 3 k.p.w.
@@ -1095,7 +1115,7 @@ Zwrot dokumentów, o których mowa w ust. 1, następuje za pokwitowaniem.
 4.
 W razie nieodebrania dokumentu w określonym terminie, sąd zwraca paszport lub inny dokument upoważniający do przekroczenia granicy właściwemu wydziałowi paszportowemu, a w odniesieniu do cudzoziemców ‒ wydziałowi konsularnemu.
 § 150.
-(uchylony).
+(uchylony).Przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 6.
 § 151.
 W razie gdy w postanowieniu o uchyleniu prawomocnego mandatu karnego sąd nakazał podmiotowi, na którego rachunek pobrano grzywnę, zwrot uiszczonej kwoty, prezes sądu zarządza niezwłoczne zawiadomienie tego podmiotu oraz ukaranego, poprzez przesłanie im odpisów postanowienia.
 § 152.
@@ -1103,53 +1123,58 @@ W razie gdy w postanowieniu o uchyleniu prawomocnego mandatu karnego sąd nakaza
 Przekazane do sądu zatrzymane przez Żandarmerię Wojskową prawo jazdy przechowuje się do czasu wydania przez sąd merytorycznego rozstrzygnięcia w sprawie, a następnie zwraca prawo jazdy właścicielowi lub przekazuje organowi właściwemu do spraw komunikacji.
 2.
 Do sposobu przechowywania prawa jazdy stosuje się odpowiednio przepis § 139.
-§ 153.
+Wykonywanie orzeczeń sądowych
+Przepisy ogólne
+§ 153W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 6..
 1.
 Każde orzeczenie, które staje się wykonalne z chwilą uprawomocnienia, powinno być skierowane do wykonania bezzwłocznie, nie później niż 7 dni od daty uprawomocnienia lub od daty zwrotu akt sądowi pierwszej instancji.
 2.
 Datę skierowania orzeczenia do wykonania stanowi data podpisania przez prezesa sądu lub upoważnionego sędziego zarządzenia o jego wykonaniu.
 3.
 Nieprawomocne orzeczenia wymagające natychmiastowej wykonalności powinny być skierowane do wykonania w dniu ich wydania.
-§ 154.
+§ 154W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 6..
 Jeżeli orzeczenie ma być wykonywane w okręgu innego sądu niż sąd, który je wydał w pierwszej instancji, należy przesłać temu sądowi odpis orzeczenia wraz z uzasadnieniem, jeżeli zostało sporządzone, ze wzmianką o wykonalności, oraz odpisy dokumentów z akt sprawy niezbędnych dla prawidłowego wykonania tego orzeczenia.
 § 155.
-(uchylony).
+(uchylony).Przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 6.
+Kara pozbawienia wolności, kara aresztu
 § 156.
 1.
 W celu wykonania wyroku skazującego na karę pozbawienia wolności sąd, który wydał wyrok w pierwszej instancji, podejmuje niezwłocznie wszystkie czynności zmierzające do osadzenia skazanego w zakładzie karnym, określone w art. 11 k.k.w. oraz innych przepisach.
-1a.
+1aDodany przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 6..
 Przepis ust. 1 ma zastosowanie do orzeczeń sądu dotyczących kary aresztu wojskowego, kary aresztu, kary porządkowej oraz środka przymusu skutkującego pozbawieniem wolności.
-1b.
+1bDodany przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 6..
 Jeżeli przepisy niniejszego działu używają w znaczeniu ogólnym określenia „skazany”, należy przez to rozumieć również osobę, wobec której zastosowano karę porządkową lub środek przymusu skutkujący pozbawieniem wolności.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 6..
 Prezes sądu lub upoważniony sędzia wzywa skazanego do stawienia się w wyznaczonym terminie we właściwym zakładzie karnym lub areszcie śledczym położonym najbliżej miejsca jego stałego pobytu. Wezwanie powinno zawierać pouczenie o skutkach niestawiennictwa. W przypadku gdy skazany jest pozbawiony wolności, prezes sądu lub upoważniony sędzia bezzwłocznie przesyła do zakładu karnego lub aresztu śledczego, w którym skazany przebywa, dokumentację dotyczącą wykonania kary pozbawienia wolności. O terminie wyznaczonym skazanemu do stawiennictwa prezes sądu lub upoważniony sędzia zawiadamia administrację właściwego aresztu śledczego położonego najbliżej miejsca stałego pobytu skazanego, zobowiązując ją jednocześnie do zawiadomienia sądu o niezgłoszeniu się skazanego w tym terminie.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 6..
 Polecając Żandarmerii Wojskowej lub Policji doprowadzenie skazanego do zakładu karnego lub aresztu śledczego, prezes sądu lub upoważniony sędzia przesyła jednostce Policji lub Żandarmerii Wojskowej właściwej według ostatniego miejsca zamieszkania lub pobytu skazanego nakaz doprowadzenia, wskazując zakład karny lub areszt śledczy, do którego doprowadzenie ma nastąpić.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 6..
 W razie zawieszenia postępowania wykonawczego lub odroczenia wykonania kary pozbawienia wolności, co do której orzeczenie skierowano do wykonania, prezes sądu lub upoważniony sędzia niezwłocznie przesyła odpis postanowienia o zawieszeniu lub odroczeniu do właściwego zakładu karnego lub aresztu śledczego oraz zawiadamia jednostkę Żandarmerii Wojskowej lub Policji, której polecono doprowadzenie skazanego.
 § 157.
-(uchylony).
+(uchylony).Przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 6.
 § 158.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 6..
 W razie odroczenia wykonania kary pozbawienia wolności żołnierzowi lub osobie powołanej do czynnej służby wojskowej, sąd zawiadamia o tym odpowiedniego dowódcę lub właściwą wojskową komendę uzupełnień, pouczając o treści art. 157 k.k.w.
 2.
 W przypadku wymierzenia żołnierzowi zasadniczej służby lub osobie powołanej do takiej służby kary pozbawienia wolności z odroczeniem jej wykonania do czasu ukończenia służby, do zawiadomienia przesyłanego dowódcy jednostki wojskowej albo właściwej wojskowej komendy uzupełnień należy dołączyć pouczenie o treści art. 336 § 3 i 4 k.k. oraz art. 158 k.k.w.
+Warunkowe umorzenie postępowania, warunkowe zawieszenie wykonania kary i warunkowe przedterminowe zwolnienie
 § 159.
 1.
 Jeżeli na osobę, wobec której warunkowo umorzono postępowanie, warunkowo zawieszono wykonanie kary lub którą warunkowo zwolniono, nałożono obowiązek naprawienia w całości lub w części szkody wyrządzonej przestępstwem, sąd przesyła pokrzywdzonej przestępstwem osobie lub instytucji odpis lub wypis orzeczenia ze wzmianką o wykonalności, z poleceniem zawiadomienia sądu w razie niewykonania przez zobowiązanego tego obowiązku.
 2.
 W razie zarządzenia wykonania warunkowo zawieszonej kary sąd przesyła odpis postanowienia w tym przedmiocie pokrzywdzonej osobie lub instytucji.
 § 160.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 6..
 W razie gdy osobę, wobec której warunkowo zawieszono wykonanie kary lub którą warunkowo przedterminowo zwolniono, oddano pod dozór, który ma być wykonany w okręgu innego sądu, sąd, który orzekł dozór w pierwszej instancji, przesyła odpis lub wypis z orzeczenia w tym przedmiocie ze wzmianką o wykonalności właściwemu sądowi wojskowemu, w którego okręgu dozór ma być wykonywany, dołączając odpisy dokumentów z akt sprawy, niezbędnych dla prawidłowego wykonywania dozoru.
 2.
 W razie zarządzenia wykonania warunkowo zawieszonej kary lub w razie odwołania warunkowego przedterminowego zwolnienia przepisy § 171 stosuje się odpowiednio, z tym że do dokumentacji określonej w tych przepisach dołącza się również odpis postanowienia zarządzającego wykonanie warunkowo zawieszonej kary lub odwołującego warunkowe przedterminowe zwolnienie.
+Kara ograniczenia wolności
 § 161.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 6..
 W celu wykonania wyroku skazującego żołnierza na karę ograniczenia wolności sąd właściwy do wykonania orzeczenia przesyła jego prawomocny odpis wraz ze wzmianką o wykonalności dowódcy jednostki wojskowej, w której skazany pełni służbę, albo innemu właściwemu dowódcy, jeżeli przemawiają za tym ważne względy służbowe lub jeżeli w jednostce wojskowej, w której skazany pełni służbę, brak jest warunków do odbywania kary.
 2.
 Zawiadamiając dowódcę, o którym mowa w ust. 1, sąd zobowiązuje go do wykonania orzeczenia na podstawie przepisów regulujących odbywanie przez żołnierzy kary ograniczenia wolności.
-§ 162.
+§ 162W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 6..
 W razie orzeczenia potrącenia skazanemu żołnierzowi procentowo określonej części uposażenia sąd podaje właściwemu dowódcy okres, przez który należy dokonywać potrąceń, wskazuje, na czyją rzecz należy przekazywać potrącone sumy, oraz poleca zawiadomić sąd o ich każdorazowym dokonaniu. O potrąceniach powiadamia się też podmiot, na którego rzecz mają one nastąpić.
 § 163.
 1.
@@ -1157,8 +1182,8 @@ W celu wykonania wyroku skazującego na karę ograniczenia wolności, o której 
 2.
 Zawiadamiając dowódcę, o którym mowa w ust. 1, sąd zobowiązuje go do wykonania orzeczenia na podstawie regulaminu wykonywania tej kary.
 3.
-(uchylony).
-§ 164.
+(uchylony).Przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 6.
+§ 164W brzmieniu ustalonym przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 6..
 1.
 W celu wykonania wyroku skazującego na karę ograniczenia wolności osób niebędących żołnierzami właściwy sąd wojskowy przesyła odpis wyroku sądowi rejonowemu, o którym mowa w art. 55 § 1 k.k.w. Właściwy organ postępowania wykonawczego przesyła następnie odpis lub wypis wyroku ze wzmianką o wykonalności:
 1)
@@ -1169,8 +1194,9 @@ podmiotowi zatrudniającemu skazanego – w przypadku orzeczenia potrącenia wyn
 Do odpisu lub wyciągu z wyroku dołącza się pouczenie o obowiązku zawiadomienia właściwego organu postępowania wykonawczego o dacie rozpoczęcia wykonywania kary ograniczenia wolności oraz o obowiązkach, o których mowa w art. 58 § 1 i 2 oraz art. 59 k.k.w.
 3.
 Podmioty, o których mowa w art. 56 k.k.w., należy pouczyć o treści art. 83 k.k.
-§ 165.
+§ 165W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 6..
 W razie udzielenia przerwy lub odroczenia żołnierzowi albo osobie powołanej do czynnej służby wojskowej wykonania kary ograniczenia wolności sąd zawiadamia o tym odpowiedniego dowódcę lub właściwą wojskową komendę uzupełnień, pouczając o obowiązku niezwłocznego poinformowania sądu o zwolnieniu skazanego ze służby.
+Ułaskawienie
 § 166.
 W postępowaniu o ułaskawienie, sporządzone przez sąd opinie pozytywne o skazanym dołącza się do akt sprawy w opieczętowanej i zaklejonej kopercie.
 § 167.
@@ -1186,36 +1212,39 @@ Po dokonaniu czynności związanych z wykonaniem aktu łaski w przedmiocie warun
 O wszystkich przypadkach ułaskawienia zawiadamia się Biuro Informacyjne Krajowego Rejestru Karnego. W razie gdy ułaskawienie dotyczy darowania lub skrócenia okresu obowiązywania zastosowanych środków karnych, zawiadamia się ponadto odpowiednie organy, instytucje, pracodawcę lub organizacje.
 6.
 Jeżeli Prezydent nie skorzystał z prawa łaski, zawiadomienie w tym przedmiocie sąd pierwszej instancji doręcza zarówno skazanym przebywającym w zakładach karnych i aresztach śledczych jak i osobom przebywającym na wolności.
+Zabezpieczenie majątku
 § 168.
 1.
 W razie wydania postanowienia o zabezpieczeniu roszczeń o naprawienie szkody lub grożących oskarżonemu kar majątkowych lub środków karnych o charakterze majątkowym, prezes sądu lub upoważniony sędzia przesyła bezzwłocznie właściwemu organowi egzekucyjnemu odpis postanowienia, opatrzony w klauzulę wykonalności, oraz posiadane informacje o majątku oskarżonego. Informacje te należy przekazywać w miarę dokonywania ustaleń w tym zakresie, również po wydaniu postanowienia o zabezpieczeniu.
 2.
 W razie uprawomocnienia się orzeczenia kończącego postępowanie w sprawie, w której wydano postanowienie, o którym mowa w ust. 1, prezes sądu lub upoważniony sędzia przesyła bezzwłocznie odpis tego orzeczenia do wiadomości organowi egzekucyjnemu dokonującemu zabezpieczenia.
+Grzywna
 § 169.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 21 lit. a rozporządzenia, o którym mowa w odnośniku 6..
 W celu wykonania grzywny prezes lub upoważniony sędzia sądu, który wydał wyrok w pierwszej instancji, a w wypadkach wskazanych w ustawie sąd właściwy ze względu na miejsce stałego pobytu skazanego, bezzwłocznie zarządza wpisanie grzywny do wykazu należności sądowych i wzywa skazanego do jej uiszczenia w terminie ustawowym. Wezwanie powinno zawierać pouczenie o skutkach nieuiszczenia grzywny w wyznaczonym terminie.
 2.
-(uchylony).
-3.
+(uchylony).Przez § 1 pkt 21 lit. b rozporządzenia, o którym mowa w odnośniku 6.
+3W brzmieniu ustalonym przez § 1 pkt 21 lit. c rozporządzenia, o którym mowa w odnośniku 6..
 W razie stwierdzenia bezskuteczności egzekucji grzywny nieprzekraczającej 120 stawek dziennych, prezes sądu lub upoważniony sędzia może zarządzić posiedzenie w przedmiocie jej zamiany na pracę społecznie użyteczną. Przed zarządzeniem posiedzenia prezes sądu lub upoważniony sędzia może skierować do skazanego pismo o wyrażenie zgody na zamianę grzywny na pracę społecznie użyteczną.
-§ 170.
+§ 170W brzmieniu ustalonym przez § 1 pkt 22 rozporządzenia, o którym mowa w odnośniku 6..
 W celu wykonania orzeczenia w przedmiocie zastępczej kary pozbawienia wolności lub zastępczej kary aresztu, prezes sądu lub upoważniony sędzia podejmuje czynności zmierzające do osadzenia skazanego w zakładzie karnym lub areszcie śledczym, określone w art. 11 k.k.w. i innych przepisach.
 § 171.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 23 lit. a rozporządzenia, o którym mowa w odnośniku 6..
 Prezes sądu lub upoważniony sędzia wzywa skazanego celem odbycia zastępczej kary pozbawienia wolności lub zastępczej kary aresztu do stawienia się w wyznaczonym terminie w zakładzie karnym lub areszcie śledczym, położonym najbliżej jego miejsca stałego pobytu. Wezwanie powinno zawierać pouczenie o skutkach niestawiennictwa określonych w art. 79 § 2 k.k.w. oraz o treści art. 47 § 2 k.k.w.
 2.
 O terminie wyznaczonym skazanemu do stawiennictwa prezes sądu lub upoważniony sędzia zawiadamia administrację zakładu karnego lub aresztu śledczego, zobowiązując jednocześnie do zawiadomienia sądu o niestawiennictwie skazanego w terminie do odbycia kary.
 3.
 Polecając Żandarmerii Wojskowej lub Policji doprowadzenie skazanego do zakładu karnego lub aresztu śledczego, prezes sądu lub upoważniony sędzia przesyła jednostce Żandarmerii Wojskowej lub Policji właściwej według ostatniego miejsca pobytu skazanego nakaz doprowadzenia, wskazując zakład karny lub areszt śledczy, do którego doprowadzenie ma nastąpić.
-3a.
+3aDodany przez § 1 pkt 23 lit. b rozporządzenia, o którym mowa w odnośniku 6..
 W przypadku gdy skazany jest pozbawiony wolności, prezes sądu lub upoważniony sędzia bezzwłocznie po uprawomocnieniu przesyła do zakładu karnego lub aresztu śledczego, w którym skazany przebywa, dokumentację dotyczącą wykonania zastępczej kary pozbawienia wolności lub zastępczej kary aresztu.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 23 lit. c rozporządzenia, o którym mowa w odnośniku 6..
 W razie zawieszenia postępowania wykonawczego lub warunkowego zawieszenia, odroczenia albo wstrzymania wykonania zastępczej kary pozbawienia wolności lub zastępczej kary aresztu, prezes sądu albo upoważniony sędzia niezwłocznie zawiadamia o tym właściwy zakład karny lub areszt śledczy i jednostkę Policji lub Żandarmerii Wojskowej, której polecono doprowadzenie skazanego do tejże jednostki penitencjarnej. Jeżeli skazanym jest żołnierz lub osoba powołana do czynnej służby wojskowej, zawiadamia się również odpowiedniego dowódcę lub właściwą wojskową komendę uzupełnień.
-§ 171a.
+§ 171aDodany przez § 1 pkt 24 rozporządzenia, o którym mowa w odnośniku 6..
 1.
 Prezes sądu lub upoważniony sędzia przekazuje na rachunek bankowy dysponenta Funduszu Pracy uiszczoną przez skazanego lub ściągniętą w drodze egzekucji grzywnę, orzeczoną za wykroczenie z art. 120‒123 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2021 r. poz. 1100 i 1162).
 2.
 W przypadku gdy skazany częściowo uiścił grzywnę lub gdy częściowo została ona ściągnięta w drodze egzekucji, a pozostałą część kary wykonał w formie pracy społecznie użytecznej, o której mowa w art. 45 k.k.w., lub zastępczej kary pozbawienia wolności, o której mowa w art. 46 k.k.w., prezes sądu lub upoważniony sędzia częściowo uiszczoną lub częściowo ściągniętą w drodze egzekucji grzywnę przekazuje na rachunek bankowy dysponenta Funduszu Pracy i informuje go o wykonaniu przez skazanego kary w całości.
+Środki karne
 § 172.
 Po uprawomocnieniu się orzeczenia o pozbawieniu praw publicznych sąd, który wydał wyrok w pierwszej instancji, zawiadamia odpowiednie organy i instytucje, o których mowa w art. 179 k.k.w.
 § 173.
@@ -1224,7 +1253,7 @@ Po uprawomocnieniu się orzeczenia o zakazie zajmowania określonych stanowisk, 
 2.
 Przepisy ust. 1 stosuje się odpowiednio w przypadku uprawomocnienia się orzeczenia wobec żołnierza o wydaleniu z zawodowej służby wojskowej lub degradacji.
 § 174.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 25 rozporządzenia, o którym mowa w odnośniku 6..
 W celu wykonania środka karnego przepadku przedmiotów lub ściągnięcia kwoty pieniężnej będącej równowartością przedmiotów, których przepadku nie można było orzec, korzyści osiągniętych z przestępstwa albo równowartości takich korzyści, po bezskutecznym upływie terminu do uiszczenia, należy wysłać wypis lub wyciąg wyroku urzędowi skarbowemu właściwemu ze względu na siedzibę sądu orzekającego w pierwszej instancji.
 2.
 W razie orzeczenia przepadku przedmiotu przechowywanego przez sąd należy przekazać jednocześnie kierownikowi sekretariatu odpis lub wypis z orzeczenia, z zaznaczeniem daty jego prawomocności, z poleceniem przekazania przedmiotu właściwemu urzędowi skarbowemu.
@@ -1250,9 +1279,10 @@ W razie orzeczenia podania wyroku do publicznej wiadomości przez ogłoszenie w 
 Nie jest dopuszczalne publikowanie danych dotyczących osoby pokrzywdzonego, chyba że jest to uzasadnione jego interesem, i wyraził na to zgodę, składając stosowne oświadczenie.
 3.
 Prezes sądu lub upoważniony sędzia stwierdza prawidłowość sporządzonego wyciągu i zarządza przesłanie go do publikacji.
+Środki zabezpieczające
 § 178.
 1.
-W celu zapewnienia właściwego wyboru miejsca wykonywania środka zabezpieczającego i prawidłowego kierowania sprawców do odpowiedniego zakładu psychiatrycznego lub zamkniętego zakładu leczenia odwykowego, sąd zasięga opinii komisji psychiatrycznej do spraw środków zabezpieczających, działającej w oparciu o przepisy rozporządzenia Ministra Zdrowia z dnia 10 sierpnia 2004 r. w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania środków zabezpieczających oraz składu, trybu powoływania i zadań komisji psychiatrycznej do spraw środków zabezpieczających (Dz. U. poz. 1854).
+W celu zapewnienia właściwego wyboru miejsca wykonywania środka zabezpieczającego i prawidłowego kierowania sprawców do odpowiedniego zakładu psychiatrycznego lub zamkniętego zakładu leczenia odwykowego, sąd zasięga opinii komisji psychiatrycznej do spraw środków zabezpieczających, działającej w oparciu o przepisy rozporządzenia Ministra Zdrowia z dnia 10 sierpnia 2004 r. w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania środków zabezpieczających oraz składu, trybu powoływania i zadań komisji psychiatrycznej do spraw środków zabezpieczających (Dz. U. poz. 1854)Utraciło moc na podstawie art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r..
 2.
 W celu zasięgnięcia opinii, o której mowa w ust. 1, sąd przesyła do komisji psychiatrycznej do spraw środków zabezpieczających odpis orzeczenia o zastosowaniu środka zabezpieczającego wraz z opinią biegłych o stanie zdrowia psychicznego sprawcy, w celu wskazania miejsca wykonywania tego środka.
 § 179.
@@ -1262,21 +1292,22 @@ Wykonując orzeczenie o zastosowaniu środka zabezpieczającego, polegającego n
 Odpis orzeczenia o zastosowaniu środka zabezpieczającego wraz z poleceniem doprowadzenia sprawcy sąd przesyła właściwej stacji pogotowia ratunkowego i właściwej jednostce Żandarmerii Wojskowej lub Policji, zaś polecenie przyjęcia wraz z odpisem orzeczenia ‒ kierownikowi właściwego zakładu.
 3.
 W przypadku przebywania sprawcy w zakładzie karnym lub areszcie śledczym polecenie doprowadzenia i odpis orzeczenia przesyła się dyrektorowi jednostki penitencjarnej.
-4.
+4Dodany przez § 1 pkt 26 rozporządzenia, o którym mowa w odnośniku 6..
 Sąd poucza kierownika zakładu psychiatrycznego lub zamkniętego zakładu leczenia odwykowego, w którym wykonywany jest środek zabezpieczający, o wynikającym z art. 203 k.k.w. obowiązku przesyłania opinii o stanie zdrowia sprawcy umieszczonego w tym zakładzie oraz o skutkach jego niewykonania.
-§ 179a.
+§ 179aDodany przez § 1 pkt 27 rozporządzenia, o którym mowa w odnośniku 6..
 1.
-Wobec sprawcy skazanego za przestępstwo skierowane przeciwko wolności seksualnej, popełnione w związku z zaburzeniami preferencji seksualnych, wobec którego orzeczono środek zabezpieczający określony w art. 95a k.k., sąd, który wydał orzeczenie w pierwszej instancji, po uprzednim zasięgnięciu opinii właściwych biegłych, nie później niż do 6 miesięcy przed opuszczeniem zakładu karnego w związku z przewidywanym warunkowym zwolnieniem lub przed końcem kary, kieruje sprawę na posiedzenie w przedmiocie ustalenia potrzeby i sposobu wykonywania środka zabezpieczającego, o którym mowa w art. 95a § 1 k.k., albo sposobu wykonywania środka zabezpieczającego, o którym mowa w art. 95a § 1a k.k.
+Wobec sprawcy skazanego za przestępstwo skierowane przeciwko wolności seksualnej, popełnione w związku z zaburzeniami preferencji seksualnych, wobec którego orzeczono środek zabezpieczający określony w art. 95a k.k.Uchylony na podstawie art. 1 pkt 56 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r., sąd, który wydał orzeczenie w pierwszej instancji, po uprzednim zasięgnięciu opinii właściwych biegłych, nie później niż do 6 miesięcy przed opuszczeniem zakładu karnego w związku z przewidywanym warunkowym zwolnieniem lub przed końcem kary, kieruje sprawę na posiedzenie w przedmiocie ustalenia potrzeby i sposobu wykonywania środka zabezpieczającego, o którym mowa w art. 95a § 1 k.k.Uchylony na podstawie art. 1 pkt 56 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r., albo sposobu wykonywania środka zabezpieczającego, o którym mowa w art. 95a § 1a k.k.Uchylony na podstawie art. 1 pkt 56 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r.
 2.
-W celu zapewnienia właściwego wyboru miejsca wykonywania środka zabezpieczającego z art. 95a k.k., związanego z umieszczeniem sprawcy w zakładzie zamkniętym lub skierowaniem go do zakładu leczenia ambulatoryjnego i prawidłowego kierowania sprawców do tych zakładów, sąd zasięga opinii odpowiedniej w sprawach seksuologii sądowej jednostki organizacyjnej utworzonej lub nadzorowanej przez ministra właściwego do spraw zdrowia, przesyłając jednocześnie odpis orzeczenia o zastosowaniu środka zabezpieczającego wraz z opinią właściwych biegłych.
+W celu zapewnienia właściwego wyboru miejsca wykonywania środka zabezpieczającego z art. 95a k.k.Uchylony na podstawie art. 1 pkt 56 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r., związanego z umieszczeniem sprawcy w zakładzie zamkniętym lub skierowaniem go do zakładu leczenia ambulatoryjnego i prawidłowego kierowania sprawców do tych zakładów, sąd zasięga opinii odpowiedniej w sprawach seksuologii sądowej jednostki organizacyjnej utworzonej lub nadzorowanej przez ministra właściwego do spraw zdrowia, przesyłając jednocześnie odpis orzeczenia o zastosowaniu środka zabezpieczającego wraz z opinią właściwych biegłych.
 3.
 Sąd, po określeniu zakładu zamkniętego, w którym sprawca powinien zostać umieszczony, przez jednostkę organizacyjną utworzoną lub nadzorowaną przez ministra właściwego do spraw zdrowia, o której mowa w ust. 2, bezzwłocznie przesyła odpis orzeczenia wraz z poleceniem doprowadzenia dyrektorowi jednostki penitencjarnej, w sytuacji zaś, gdy skazany opuścił zakład karny ‒ właściwej jednostce Policji. Sąd jednocześnie bezzwłocznie przesyła odpis orzeczenia i polecenie przyjęcia kierownikowi właściwego zakładu zamkniętego. Zatrzymanie i doprowadzenie następuje w obecności lekarza, pielęgniarki lub zespołu ratownictwa medycznego.
 4.
 Sąd poucza kierownika zakładu zamkniętego, w którym wykonywany jest środek zabezpieczający, o wynikającym z art. 203 k.k.w. obowiązku przesyłania opinii o stanie zdrowia sprawcy umieszczonego w tym zakładzie oraz o skutkach jego niewykonania.
 5.
-Sąd, po określeniu przez jednostkę organizacyjną utworzoną lub nadzorowaną przez ministra właściwego do spraw zdrowia, o której mowa w ust. 2, zakładu ambulatoryjnego, w którym sprawca ma obowiązek podjąć stosowne leczenie, bezzwłocznie przesyła odpis orzeczenia: sprawcy, właściwej jednostce wraz z nakazem doprowadzenia i kierownikowi zakładu ambulatoryjnego wraz z nakazem przyjęcia oraz poucza kierownika zakładu ambulatoryjnego, w którym wykonywany jest środek zabezpieczający orzeczony na podstawie art. 95a k.k., o obowiązku niezwłocznego poinformowania sądu o niestawiennictwie sprawcy na leczenie ambulatoryjne. O konsekwencjach uchylania się od leczenia ambulatoryjnego sąd poucza sprawcę wraz z doręczeniem mu odpisu postanowienia o skierowaniu na leczenie ambulatoryjne.
+Sąd, po określeniu przez jednostkę organizacyjną utworzoną lub nadzorowaną przez ministra właściwego do spraw zdrowia, o której mowa w ust. 2, zakładu ambulatoryjnego, w którym sprawca ma obowiązek podjąć stosowne leczenie, bezzwłocznie przesyła odpis orzeczenia: sprawcy, właściwej jednostce wraz z nakazem doprowadzenia i kierownikowi zakładu ambulatoryjnego wraz z nakazem przyjęcia oraz poucza kierownika zakładu ambulatoryjnego, w którym wykonywany jest środek zabezpieczający orzeczony na podstawie art. 95a k.k.Uchylony na podstawie art. 1 pkt 56 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r., o obowiązku niezwłocznego poinformowania sądu o niestawiennictwie sprawcy na leczenie ambulatoryjne. O konsekwencjach uchylania się od leczenia ambulatoryjnego sąd poucza sprawcę wraz z doręczeniem mu odpisu postanowienia o skierowaniu na leczenie ambulatoryjne.
 6.
-Po przekazaniu do dyspozycji sądu sprawcy zatrzymanego w związku z niestawieniem się na leczenie ambulatoryjne, sąd niezwłocznie kieruje sprawę na posiedzenie w przedmiocie rozstrzygnięcia, o którym mowa w art. 95a § 2b k.k. Odpis postanowienia doręcza się: sprawcy, Policji wraz z nakazem doprowadzenia, kierownikowi najbliższego zakładu zamkniętego wraz z nakazem przyjęcia oraz kierownikowi zakładu ambulatoryjnego i zarządza niezwłoczne doprowadzenie sprawcy do zakładu zamkniętego, występując jednocześnie do odpowiedniej w sprawach seksuologii sądowej jednostki organizacyjnej utworzonej lub nadzorowanej przez ministra właściwego do spraw zdrowia o wskazanie miejsca wykonywania środka zabezpieczającego. Przepisy ust. 2, 3 i 4 stosuje się odpowiednio.
+Po przekazaniu do dyspozycji sądu sprawcy zatrzymanego w związku z niestawieniem się na leczenie ambulatoryjne, sąd niezwłocznie kieruje sprawę na posiedzenie w przedmiocie rozstrzygnięcia, o którym mowa w art. 95a § 2b k.k.Uchylony na podstawie art. 1 pkt 56 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r. Odpis postanowienia doręcza się: sprawcy, Policji wraz z nakazem doprowadzenia, kierownikowi najbliższego zakładu zamkniętego wraz z nakazem przyjęcia oraz kierownikowi zakładu ambulatoryjnego i zarządza niezwłoczne doprowadzenie sprawcy do zakładu zamkniętego, występując jednocześnie do odpowiedniej w sprawach seksuologii sądowej jednostki organizacyjnej utworzonej lub nadzorowanej przez ministra właściwego do spraw zdrowia o wskazanie miejsca wykonywania środka zabezpieczającego. Przepisy ust. 2, 3 i 4 stosuje się odpowiednio.
+Należności sądowe
 § 180.
 Postanowienie ustalające wysokość kosztów przypadających w związku z postępowaniem wydaje sąd pierwszej instancji, który orzekał w danej sprawie, niezwłocznie po uprawomocnieniu się orzeczenia kończącego postępowanie, o ile rozstrzygnięcia w tym przedmiocie nie zapadły wcześniej.
 § 181.
@@ -1284,95 +1315,184 @@ Postanowienie ustalające wysokość kosztów przypadających w związku z post�
 Koszty sądowe i pieniężne kary porządkowe stanowiące należności sądowe ściągane są w tym samym trybie, co kara grzywny.
 2.
 Po bezskutecznym upływie 30-dniowego terminu przewidzianego do dobrowolnego ich uiszczenia koszty sądowe i pieniężne kary porządkowe ściągane są w drodze egzekucji, o ile przepisy szczególne nie stanowią inaczej.
-§ 182.
+Czynności w sprawach z zakresu postępowania dyscyplinarnego
+Przepisy ogólne
+§ 182W brzmieniu ustalonym przez § 1 pkt 28 rozporządzenia, o którym mowa w odnośniku 6..
 Odwołania od decyzji podjętych w trybie art. 36 ust. 1 pkt 2 i ust. 2 oraz art. 38 ust. 1, a także art. 41 ust. 6 ustawy z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. z 2019 r. poz. 1508 i 2020) oraz wnioski o wymierzenie kary aresztu izolacyjnego z art. 88 ust. 5 tej ustawy rozpoznaje się niezwłocznie.
 § 183.
 W zakresie powiadomień i doręczeń stosuje się odpowiednio uregulowania zawarte w dziale III rozdziale 4.
 § 184.
-Nadzór nad prawidłowym odbywaniem kary aresztu izolacyjnego sprawuje sędzia penitencjarny właściwego wojskowego sądu garnizonowego.
-Przepis końcowy
+Nadzór nad prawidłowym odbywaniem kary aresztu izolacyjnego sprawuje sędzia penitencjarny właściwego wojskowego sądu garnizonowego. Przepis końcowy
 § 185.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 14 marca 2006 r.. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 1083, z 2000 r. poz. 717, z 2001 r. poz. 1149, z 2002 r. poz. 1801, z 2003 r. poz. 155 oraz z 2007 r. poz. 766 i 1823. 2) Przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 4 czerwca 2012 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 693), które weszło w życie z dniem 5 lipca 2012 r. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Sprawiedliwości z dnia 6 lutego 2015 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 335), które weszło w życie z dniem 25 marca 2015 r. 7) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 6. 8) Utraciła moc na podstawie art. 175 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000), która weszła w życie z dniem 25 maja 2018 r., oraz art. 107 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), która weszła w życie z dniem 6 lutego 2019 r. 9) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 31 października 2018 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 2278), które weszło w życie z dniem 14 grudnia 2018 r. 10) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 6. 11) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 2. 12) W brzmieniu ustalonym przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 27 grudnia 2017 r. zmieniającego rozporządzenie w sprawie organizacji sądów wojskowych oraz ustalenia regulaminu wewnętrznego urzędowania tych sądów (Dz. U. poz. 2472), które weszło w życie z dniem 1 stycznia 2018 r. 15) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 14. 16) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 9. 17) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 9. 18) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 9. 19) Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 9. 20) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. e tiret pierwsze rozporządzenia, o którym mowa w odnośniku 9. 21) Dodany przez § 1 pkt 2 lit. e tiret drugie rozporządzenia, o którym mowa w odnośniku 9. 22) W brzmieniu ustalonym przez § 1 pkt 2 lit. f rozporządzenia, o którym mowa w odnośniku 9. 23) Dodany przez § 1 pkt 2 lit. g rozporządzenia, o którym mowa w odnośniku 9. 24) W brzmieniu ustalonym przez § 1 pkt 2 lit. h rozporządzenia, o którym mowa w odnośniku 9. 25) Dodany przez § 1 pkt 2 lit. i rozporządzenia, o którym mowa w odnośniku 9. 26) W brzmieniu ustalonym przez § 1 pkt 2 lit. j rozporządzenia, o którym mowa w odnośniku 9. 27) W brzmieniu ustalonym przez § 1 pkt 2 lit. k rozporządzenia, o którym mowa w odnośniku 9. 28) Dodany przez § 1 pkt 2 lit. I rozporządzenia, o którym mowa w odnośniku 9. 29) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 9. 30) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 14; w brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 9. 31) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 14. 32) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 9. 33) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 9. 34) Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 6. 35) Dodany przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 9. 36) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 552 i 638, z 2001 r. poz. 1070, z 2005 r. poz. 1417, z 2009 r. poz. 459 i 1375, z 2010 r. poz. 1228 i 1307 oraz z 2011 r. poz. 654. 37) Utraciła moc na podstawie art. 138 ustawy z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym (Dz. U. poz. 1064), która weszła w życie z dniem 30 sierpnia 2015 r. 38) Utraciło moc na podstawie art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r. 39) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6. 40) Rozdział dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 6. 41) Przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 6. 42) Przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 6. 43) W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 6. 44) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 6. 45) Przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 6. 46) Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 6. 47) Dodany przez § 1 pkt 12 lit. a rozporządzenia, o którym mowa w odnośniku 6. 48) W brzmieniu ustalonym przez § 1 pkt 12 lit. b rozporządzenia, o którym mowa w odnośniku 6. 49) Przez § 1 pkt 13 rozporządzenia, o którym mowa w odnośniku 6. 50) W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 6. 51) W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 6. 52) W brzmieniu ustalonym przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 6. 53) W brzmieniu ustalonym przez § 1 pkt 17 rozporządzenia, o którym mowa w odnośniku 6. 54) Przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 6. 55) W brzmieniu ustalonym przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 6. 56) W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 6. 57) W brzmieniu ustalonym przez § 1 pkt 21 lit. a rozporządzenia, o którym mowa w odnośniku 6. 58) Przez § 1 pkt 21 lit. b rozporządzenia, o którym mowa w odnośniku 6. 59) W brzmieniu ustalonym przez § 1 pkt 21 lit. c rozporządzenia, o którym mowa w odnośniku 6. 60) W brzmieniu ustalonym przez § 1 pkt 22 rozporządzenia, o którym mowa w odnośniku 6. 61) W brzmieniu ustalonym przez § 1 pkt 23 lit. a rozporządzenia, o którym mowa w odnośniku 6. 62) Dodany przez § 1 pkt 23 lit. b rozporządzenia, o którym mowa w odnośniku 6. 63) W brzmieniu ustalonym przez § 1 pkt 23 lit. c rozporządzenia, o którym mowa w odnośniku 6. 64) Dodany przez § 1 pkt 24 rozporządzenia, o którym mowa w odnośniku 6. 65) W brzmieniu ustalonym przez § 1 pkt 25 rozporządzenia, o którym mowa w odnośniku 6. 66) Utraciło moc na podstawie art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r. 67) Dodany przez § 1 pkt 26 rozporządzenia, o którym mowa w odnośniku 6. 68) Dodany przez § 1 pkt 27 rozporządzenia, o którym mowa w odnośniku 6. 69) Uchylony na podstawie art. 1 pkt 56 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396), która weszła w życie z dniem 1 lipca 2015 r. 70) W brzmieniu ustalonym przez § 1 pkt 28 rozporządzenia, o którym mowa w odnośniku 6. 71) Rozporządzenie zostało ogłoszone w dniu 14 marca 2006 r.
 
-### Dział I Przepisy wstępne
+### Dział I – Przepisy wstępne
 
-### Dział II Wewnętrzna struktura organizacyjna sądów wojskowych
+### Dział II – Wewnętrzna struktura organizacyjna sądów wojskowych
 
-#### Rozdział 1 Nazwy sądów
+#### Rozdział 1 – Nazwy sądów
 
-#### Rozdział 2 Urządzenia zewnętrzne i wewnętrzne sądów
+#### Rozdział 2 – Urządzenia zewnętrzne i wewnętrzne sądów
 
-#### Rozdział 3 Pieczęcie urzędowe
+#### Rozdział 3 – Pieczęcie urzędowe
 
-#### Rozdział 4 Wewnętrzna struktura organizacyjna sądów
+#### Rozdział 4 – Wewnętrzna struktura organizacyjna sądów
 
-#### Rozdział 5 Czynności prezesa i zastępcy prezesa sądu
+#### Rozdział 5 – Czynności prezesa i zastępcy prezesa sądu
 
-#### Rozdział 6 Czynności związane z tworzeniem, znoszeniem, podziałem i łączeniem sądów lub zmianą obszaru ich właściwości
+#### Rozdział 6 – Czynności związane z tworzeniem, znoszeniem, podziałem i łączeniem sądów lub zmianą obszaru ich właściwości
 
-#### Rozdział 7 Czas urzędowania
+#### Rozdział 7 – Czas urzędowania
 
-### Dział III Czynności wojskowych sądów okręgowych i garnizonowych
+### Dział III – Czynności wojskowych sądów okręgowych i garnizonowych
 
-#### Rozdział 1 Przepisy wspólne dla wszystkich rodzajów spraw
+#### Rozdział 1 – Przepisy wspólne dla wszystkich rodzajów spraw
 
-#### Rozdział 2 Czynności przewodniczącego wydziału, przewodniczącego posiedzenia i sędziów
+#### Rozdział 2 – Czynności przewodniczącego wydziału, przewodniczącego posiedzenia i sędziów
 
-#### Rozdział 3 Przygotowanie posiedzenia
+#### Rozdział 3 – Przygotowanie posiedzenia
 
-#### Rozdział 4 Doręczenia
+#### Rozdział 4 – Doręczenia
 
-#### Rozdział 5 Inne czynności w postępowaniu sądowym
+#### Rozdział 5 – Inne czynności w postępowaniu sądowym
 
-#### Rozdział 6 Przebieg i porządek posiedzenia
+#### Rozdział 6 – Przebieg i porządek posiedzenia
 
-#### Rozdział 7 Orzeczenia
+#### Rozdział 7 – Orzeczenia
 
-#### Rozdział 8 Udostępnianie akt sądowych i dokumentów z akt. Przesyłanie akt
+#### Rozdział 8 – Udostępnianie akt sądowych i dokumentów z akt. Przesyłanie akt
 
-#### Rozdział 9 Pomoc sądowa
+#### Rozdział 9 – Pomoc sądowa
 
-#### Rozdział 10 Czynności w sprawach dotyczących zgodności aktów normatywnych z Konstytucją lub aktami ustawodawczymi
+#### Rozdział 10 – Czynności w sprawach dotyczących zgodności aktów normatywnych z Konstytucją lub aktami ustawodawczymi
 
-### Dział IV Czynności w sprawach karnych i w sprawach o wykroczenia
+### Dział IV – Czynności w sprawach karnych i w sprawach o wykroczenia
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Zawiadomienia, wezwania, doręczenia
+#### Rozdział 2 – Zawiadomienia, wezwania, doręczenia
 
-#### Rozdział 3 Stosowanie środków zapobiegawczych i postępowanie z osobami pozbawionymi wolności
+#### Rozdział 3 – Stosowanie środków zapobiegawczych i postępowanie z osobami pozbawionymi wolności
 
-#### Rozdział 4 Dowody rzeczowe
+#### Rozdział 4 – Dowody rzeczowe
 
-#### Rozdział 4a Postępowanie w sprawach europejskiego nakazu aresztowania i poszukiwań międzynarodowych
+#### Rozdział 4a – Postępowanie w sprawach europejskiego nakazu aresztowania i poszukiwań międzynarodowych
 
-#### Rozdział 4b Dostęp do danych Systemu Informacyjnego Schengen drugiej generacji
+#### Rozdział 4b – Dostęp do danych Systemu Informacyjnego Schengen drugiej generacji
 
-#### Rozdział 5 Czynności w sprawach o wykroczenia
+#### Rozdział 5 – Czynności w sprawach o wykroczenia
 
-### Dział V Wykonywanie orzeczeń sądowych
+### Dział V – Wykonywanie orzeczeń sądowych
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Kara pozbawienia wolności, kara aresztu
+#### Rozdział 2 – Kara pozbawienia wolności, kara aresztu
 
-#### Rozdział 3 Warunkowe umorzenie postępowania, warunkowe zawieszenie wykonania kary i warunkowe przedterminowe zwolnienie
+#### Rozdział 3 – Warunkowe umorzenie postępowania, warunkowe zawieszenie wykonania kary i warunkowe przedterminowe zwolnienie
 
-#### Rozdział 4 Kara ograniczenia wolności
+#### Rozdział 4 – Kara ograniczenia wolności
 
-#### Rozdział 5 Ułaskawienie
+#### Rozdział 5 – Ułaskawienie
 
-#### Rozdział 6 Zabezpieczenie majątku
+#### Rozdział 6 – Zabezpieczenie majątku
 
-#### Rozdział 7 Grzywna
+#### Rozdział 7 – Grzywna
 
-#### Rozdział 8 Środki karne
+#### Rozdział 8 – Środki karne
 
-#### Rozdział 9 Środki zabezpieczające
+#### Rozdział 9 – Środki zabezpieczające
 
-#### Rozdział 10 Należności sądowe
+#### Rozdział 10 – Należności sądowe
 
-### Dział VI Czynności w sprawach z zakresu postępowania dyscyplinarnego
+### Dział VI – Czynności w sprawach z zakresu postępowania dyscyplinarnego
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
+
+### Dział I
+
+### Dział II
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+### Dział III
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+### Dział IV
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 4a
+
+#### Rozdział dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 6.
+
+#### Rozdział 4b
+
+#### Rozdział dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 6.
+
+#### Rozdział 5
+
+### Dział V
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+## Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 6.
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+### Dział VI
+
+#### Rozdział 1
 

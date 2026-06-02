@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 lipca 2006 r. o zmianie ustawy – Prawo energetyczne
+# Ustawaz dnia 21 lipca 2006 r. o zmianie ustawy – Prawo energetyczne Niniejszą ustawą:
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-07-21 |
 | Data wydania | 2006-09-05 |
-| Wejście w życie | 2006-09-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061581123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1123/text.pdf) |
 
-– dokonuje się wdrożenia dyrektywy Rady 2004/67/WE z dnia 26 kwietnia 2004 r. dotyczącej środków zapewniających bezpieczeństwo dostaw gazu ziemnego (Dz. Urz. UE L 127 z 29.04.2004, str. 92; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 3, str. 19).
+-zmienia sięustawę z dnia 4 marca 2005 r. o zmianie ustawy — Prawo energetyczne oraz ustawy — Prawo ochrony środowiska,
+-dokonuje się wdrożeniadyrektywy Rady 2004/67/WE z dnia 26 kwietnia 2004 r. dotyczącej środków zapewniających bezpieczeństwo dostaw gazu ziemnego(Dz. Urz. UE L 127 z 29.04.2004, str. 92; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 3, str. 19).
 
 **Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625 i Nr 104, poz. 708) wprowadza się następujące zmiany:
 
@@ -137,8 +137,11 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-- **10)** w art. 56: w ust. 1: – po pkt 1d dodaje się pkt 1e w brzmieniu: „ 1e) nie przestrzega obowiązków wynikających z przepisów rozporządzenia Parlamentu Europejskiego i Rady nr 1775/2005/WE z dnia 28 września 2005 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego; ” , – pkt 3 otrzymuje brzmienie: „ 3) nie stosuje się do ograniczeń w dostarczaniu i poborze paliw i energii, wprowadzonych na podstawie art. 11; ” , ust. 8 otrzymuje brzmienie: „
+- **10)** w art. 56: w ust. 1: po pkt 1d dodaje się pkt 1e w brzmieniu: „
     - **a)**
+
+- **1e)** nie przestrzega obowiązków wynikających z przepisów rozporządzenia Parlamentu Europejskiego i Rady nr 1775/2005/WE z dnia 28 września 2005 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** nie stosuje się do ograniczeń w dostarczaniu i poborze paliw i energii, wprowadzonych na podstawie art. 11; ” , ust. 8 otrzymuje brzmienie: „
     - **b)**
 
 8. Prezes URE niezwłocznie powiadamia Komisję Europejską o zmianach przepisów w zakresie kar pieniężnych i o działaniach podejmowanych w przypadku naruszeń przepisów rozporządzenia Parlamentu Europejskiego i Rady nr 1228/2003/WE z dnia 26 czerwca 2003 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej, a także przepisów rozporządzenia Parlamentu Europejskiego i Rady nr 1775/2005/WE z dnia 28 września 2005 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego. ” .
@@ -153,8 +156,5 @@ source: "eli-html"
 
 **Art. 7.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy tej ustawy.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Niniejszą ustawą: – zmienia się ustawę z dnia 4 marca 2005 r. o zmianie ustawy — Prawo energetyczne oraz ustawy — Prawo ochrony środowiska, – dokonuje się wdrożenia dyrektywy Rady 2004/67/WE z dnia 26 kwietnia 2004 r. dotyczącej środków zapewniających bezpieczeństwo dostaw gazu ziemnego (Dz. Urz. UE L 127 z 29.04.2004, str. 92; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 3, str. 19).
-
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą: – zmienia się ustawę z dnia 4 marca 2005 r. o zmianie ustawy — Prawo energetyczne oraz ustawy — Prawo ochrony środowiska, – dokonuje się wdrożenia dyrektywy Rady 2004/67/WE z dnia 26 kwietnia 2004 r. dotyczącej środków zapewniających bezpieczeństwo dostaw gazu ziemnego (Dz. Urz. UE L 127 z 29.04.2004, str. 92; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 3, str. 19).
 

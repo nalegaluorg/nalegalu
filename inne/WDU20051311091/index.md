@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2005-06-17 |
 | Data wydania | 2005-07-18 |
-| Wejście w życie | 2005-08-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051311091) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1091/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081 oraz z 2004 r. Nr 11, poz. 96 i Nr 261, poz. 2598.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 2 i 3 otrzymują brzmienie: „
 
@@ -75,7 +74,7 @@ source: "eli-html"
 
 - **1)** wzór odznaki Medalu,
 - **2)** wzór wniosku o nadanie Medalu oraz wzór legitymacji potwierdzającej nadanie Medalu,
-- **3)** sposób noszenia odznaki Medalu z uwzględnieniem stopni Medalu oraz warunków, jakie powinny spełniać wnioski o nadanie Medalu. ” ;
+- **3)** sposób noszenia odznaki Medalu – z uwzględnieniem stopni Medalu oraz warunków, jakie powinny spełniać wnioski o nadanie Medalu. ” ;
 - **5)** w art. 9 po ust. 2 dodaje się ust. 3 w brzmieniu: „
 
 3. Instytucje kultury, dla których organizatorami są jednostki samorządu terytorialnego, mogą otrzymywać dotacje na zadania, objęte mecenatem państwa, w tym dotacje na wydatki inwestycyjne, z budżetu państwa w części, której dysponentem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. ” ;
@@ -107,11 +106,11 @@ source: "eli-html"
 
 **Art. 44a.**
 
-1. Wierzytelności Skarbu Państwa wobec instytucji kultury z tytułu odpłatnego nabycia, na podstawie przepisów ustawy z dnia 29 września 1990 r. o zmianie ustawy o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. Nr 79, poz. 464, z późn. zm.) oraz ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603 i Nr 281, poz. 2782 oraz z 2005 r. Nr 130, poz. 1087), własności budynków i innych urządzeń oraz lokali, stwierdzone decyzjami wydanymi na podstawie tych ustaw, wygasają z dniem 1 lipca 2005 r.
+1. Wierzytelności Skarbu Państwa wobec instytucji kultury z tytułu odpłatnego nabycia, na podstawie przepisów ustawy z dnia 29 września 1990 r. o zmianie ustawy o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. Nr 79, poz. 464, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 83, poz. 373, z 1992 r. Nr 91, poz. 455, z 1994 r. Nr 51, poz. 201, Nr 80, poz. 369, Nr 84, poz. 384 i Nr 123, poz. 601, z 1996 r. Nr 5, poz. 33 oraz z 1997 r. Nr 106, poz. 675.) oraz ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603 i Nr 281, poz. 2782 oraz z 2005 r. Nr 130, poz. 1087), własności budynków i innych urządzeń oraz lokali, stwierdzone decyzjami wydanymi na podstawie tych ustaw, wygasają z dniem 1 lipca 2005 r.
 
 2. Wykreślenie hipotek zabezpieczających wierzytelności Skarbu Państwa, o których mowa w ust. 1, następuje na wniosek organizatora i podlega opłacie stałej w kwocie 30 zł. ” .
 
-**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) w art. 79:
+**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781 oraz z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788 i Nr 122, poz. 1020.) w art. 79:
 
 - **1)** ust. 1 otrzymuje brzmienie: „
 
@@ -123,5 +122,5 @@ source: "eli-html"
 
 **Art. 3.** Zachowują ważność odznaki honorowe „Zasłużony Działacz Kultury” nadane przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081 oraz z 2004 r. Nr 11, poz. 96 i Nr 261, poz. 2598. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 83, poz. 373, z 1992 r. Nr 91, poz. 455, z 1994 r. Nr 51, poz. 201, Nr 80, poz. 369, Nr 84, poz. 384 i Nr 123, poz. 601, z 1996 r. Nr 5, poz. 33 oraz z 1997 r. Nr 106, poz. 675. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781 oraz z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788 i Nr 122, poz. 1020.
 

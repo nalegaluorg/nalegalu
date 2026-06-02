@@ -33,9 +33,9 @@ Prezes Ministrów: E. Kopacz w sprawie wzorów poświadczeń Na podstawie art. 2
 2) poświadczenia upoważniającego dostępu informacji niejawnych o „poufne” lub wyższej, wydawanego przez służby, o których mowa w art. 23 ust. 5 ustawy 5 sierpnia 2010 o ochronie informacji niejawnych, zwanej dalej „ustawą”;
 3) poświadczenia upoważniającego dostępu informacji niejawnych organizacji międzynarodowych.
 2. Wzór poświadczenia, o którym mowa w ust. 1:
-1) pkt 1, stanowi 1 rozporządzenia;
-2) pkt 2, stanowi 2 rozporządzenia;
-3) pkt 3, stanowi 3 rozporządzenia.
+1) pkt 1, stanowi nr 1 rozporządzenia;
+2) pkt 2, stanowi nr 2 rozporządzenia;
+3) pkt 3, stanowi nr 3 rozporządzenia.
 § 2. 1. Poświadczenie upoważniające dostępu informacji niejawnych o „poufne” lub wyższej, wydawane przez ABW albo SKW, sporządza się na papierze offsetowym w kolorze zielonym, formatu A4, tłem rastrowanym i tekstem o treści „Agencja Bezpieczeństwa Wewnętrznego” albo „Służba Kontrwywiadu Wojskowego” w zależności od tego, która służba przeprowadziła postępowanie sprawdzające.
 2. Poświadczenie upoważniające dostępu informacji niejawnych o „poufne” lub wyższej, wydawane przez służby, o których mowa w art. 23 ust. 5 ustawy, sporządza się na papierze offsetowym w kolorze beżowym, formatu A4, tłem rastrowanym i tekstem o treści stanowiącej pełną nazwę służby, która przeprowadziła postępowanie sprawdzające.
 3. Poświadczenia wydawane przez pełnomocników spraw ochrony informacji niejawnych, wyjątkiem poświadczeń wydawanych przez pełnomocników spraw ochrony informacji niejawnych w służbach, o których mowa w art. 23 ust. 2 i 5 ustawy, sporządza się na papierze w kolorze białym, formatu A4.

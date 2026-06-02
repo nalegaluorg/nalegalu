@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-12-03 |
 | Data wydania | 2004-12-29 |
-| Wejście w życie | 2005-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2778/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492 i Nr 273, poz. 2703.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 ust. 2 otrzymuje brzmienie: „
 
@@ -42,5 +41,5 @@ source: "eli-html"
 
 **Art. 2.** Do zobowiązań wynikających z umów ubezpieczenia zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2005 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2005 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492 i Nr 273, poz. 2703.
 

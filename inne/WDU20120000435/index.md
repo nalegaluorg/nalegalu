@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-09 |
 | Data wydania | 2012-04-20 |
-| Wejście w życie | 2012-04-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000435) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/435/text.pdf) |
 
@@ -73,5 +72,5 @@ przeprowadzenia szczegółowej analizy dokumentacji i dokonania oceny w procesie
 5)
 sprawowania nadzoru w zakresie czynności związanych z oceną zgodności oraz badaniami okresowymi, pośrednimi i nadzwyczajnymi ciśnieniowych urządzeń transportowych, jeżeli jest to niezbędne.
 § 4.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 2 lipca 2004 r. w sprawie sposobu ustalania opłat za czynności związane z oceną zgodności ciśnieniowych urządzeń transportowych (Dz. U. Nr 200, poz. 2052), które utraciło moc z dniem 1 stycznia 2012 r. w związku z wejściem w życie ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 2 lipca 2004 r. w sprawie sposobu ustalania opłat za czynności związane z oceną zgodności ciśnieniowych urządzeń transportowych (Dz. U. Nr 200, poz. 2052), które utraciło moc z dniem 1 stycznia 2012 r. w związku z wejściem w życie ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454).
 

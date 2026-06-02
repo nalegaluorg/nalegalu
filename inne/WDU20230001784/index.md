@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 maja 2023 r. o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek
+# Ustawa z dnia 26 maja 2023 r. o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywy: 1) dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46, z późn. zm.); 2) dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2121 z dnia 27 listopada 2019 r. zmieniającą dyrektywę (UE) 2017/1132 w odniesieniu do transgranicznego przekształcania, łączenia i podziału spółek (Dz. Urz. UE L 321 z 12.12.2019, str. 1, z późn. zm.).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,36 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-05-26 |
 | Data wydania | 2023-09-04 |
-| Wejście w życie | 2023-09-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001784) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1784/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników i ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz uchyla się ustawę z dnia 25 kwietnia 2008 r. o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego połączenia się spółek.
+Przepisy ogólne
+Specjalny zespół negocjacyjny
+Standardowe zasady uczestnictwa pracowników
+Reprezentacja pracowników
+Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstwa
+Ochrona przedstawicieli pracowników i obowiązek informacyjny
+Przepis karny
+Przepisy zmieniające, przepis dostosowujący i przepisy końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Specjalny zespół negocjacyjny
+
+#### Rozdział 3 – Standardowe zasady uczestnictwa pracowników
+
+#### Rozdział 4 – Reprezentacja pracowników
+
+#### Rozdział 5 – Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstwa
+
+#### Rozdział 6 – Ochrona przedstawicieli pracowników i obowiązek informacyjny
+
+#### Rozdział 7 – Przepis karny
+
+#### Rozdział 8 – Przepisy zmieniające, przepis dostosowujący i przepisy końcowe
+
+#### Rozdział 1
 
 **Art. 1.**
 
@@ -52,7 +77,7 @@ source: "eli-html"
 - **3)** pracodawcy – należy przez to rozumieć pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465);
 - **4)** pracowniku – należy przez to rozumieć osobę uznawaną za pracownika przez prawo danego państwa członkowskiego, które znajduje zastosowanie do stosunków pracy w spółce lub zakładzie zatrudniających tę osobę;
 - **5)** reprezentatywnej zakładowej organizacji związkowej – należy przez to rozumieć organizację związkową, o której mowa w art. 253ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2022 r. poz. 854), reprezentatywną w dniu rozpoczęcia postępowania zmierzającego do utworzenia specjalnego zespołu negocjacyjnego;
-- **6)** spółce dzielonej – należy przez to rozumieć spółkę, która przenosi cały majątek na spółki lub część majątku na spółkę lub spółki, o których mowa w art. 528 § 11 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm.);
+- **6)** spółce dzielonej – należy przez to rozumieć spółkę, która przenosi cały majątek na spółki lub część majątku na spółkę lub spółki, o których mowa w art. 528 § 11 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1488, 2280 i 2436 oraz z 2023 r. poz. 739, 825 i 1705.);
 - **7)** spółce powstałej w wyniku połączenia transgranicznego spółek – należy przez to rozumieć spółkę utworzoną na zasadach określonych w art. 491 § 11 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych;
 - **8)** spółce powstałej w wyniku podziału transgranicznego spółek – należy przez to rozumieć spółkę utworzoną w wyniku podziału transgranicznego, o którym mowa w art. 528 § 11 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych;
 - **9)** spółce przekształcanej – należy przez to rozumieć spółkę, która zmienia formę prawną w wyniku przekształcenia transgranicznego, o którym mowa w art. 551 § 11 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych;
@@ -67,7 +92,7 @@ source: "eli-html"
 
 - **15)** zakładzie – należy przez to rozumieć zakład w rozumieniu art. 58 pkt 2 ustawy z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej (Dz. U. z 2022 r. poz. 259).
 
-#### Rozdział 2 Specjalny zespół negocjacyjny
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -75,7 +100,7 @@ source: "eli-html"
 
 - **1)** przekształcanej – porozumienia w sprawie uczestnictwa pracowników w spółce przekształconej,
 - **2)** łączącej się – porozumienia w sprawie uczestnictwa pracowników w spółce powstałej w wyniku połączenia transgranicznego spółek,
-- **3)** dzielonej – porozumienia w sprawie uczestnictwa pracowników w spółce powstałej w wyniku podziału transgranicznego spółek zwanego dalej „porozumieniem”.
+- **3)** dzielonej – porozumienia w sprawie uczestnictwa pracowników w spółce powstałej w wyniku podziału transgranicznego spółek – zwanego dalej „porozumieniem”.
 
 2. Specjalny zespół negocjacyjny reprezentuje pracowników zatrudnionych w spółce przekształcanej, spółce łączącej się lub spółce dzielonej oraz zainteresowanej spółce zależnej lub zainteresowanym zakładzie.
 
@@ -145,7 +170,7 @@ source: "eli-html"
 - **1)** nie działa reprezentatywna zakładowa organizacja związkowa,
 - **2)** reprezentatywna zakładowa organizacja związkowa nie wyznaczy w terminie członków specjalnego zespołu negocjacyjnego,
 - **3)** wspólna reprezentacja, o której mowa w ust. 3, nie wyznaczy w terminie członków specjalnego zespołu negocjacyjnego,
-- **4)** nie zostanie wyłoniona wspólna reprezentacja, o której mowa w ust. 3 członków specjalnego zespołu negocjacyjnego wybierają pracownicy na zasadach, o których mowa w art. 13 i art. 14, spośród kandydatów zgłoszonych na piśmie przez pracowników.
+- **4)** nie zostanie wyłoniona wspólna reprezentacja, o której mowa w ust. 3 – członków specjalnego zespołu negocjacyjnego wybierają pracownicy na zasadach, o których mowa w art. 13 i art. 14, spośród kandydatów zgłoszonych na piśmie przez pracowników.
 
 7. Termin wyboru członków specjalnego zespołu negocjacyjnego przez pracowników ustala właściwy organ spółki przekształcanej, spółki łączącej się lub spółki dzielonej, nie później niż na 60 dni od dnia rozpoczęcia postępowania zmierzającego do utworzenia specjalnego zespołu negocjacyjnego.
 
@@ -154,7 +179,7 @@ source: "eli-html"
 1. Właściwy organ spółki przekształcanej, spółki łączącej się, spółki dzielonej oraz zainteresowanej spółki zależnej lub kierownictwo zainteresowanego zakładu organizuje wybory członków specjalnego zespołu negocjacyjnego przez pracowników oraz powiadamia pracowników o:
 
 - **1)** terminie i sposobie przeprowadzenia wyborów,
-- **2)** terminie zgłoszenia kandydatów na członków specjalnego zespołu negocjacyjnego w sposób przyjęty w tej spółce lub tym zakładzie.
+- **2)** terminie zgłoszenia kandydatów na członków specjalnego zespołu negocjacyjnego – w sposób przyjęty w tej spółce lub tym zakładzie.
 
 2. Powiadomienie, o którym mowa w ust. 1, następuje nie później niż na 30 dni przed dniem wyborów, a termin zgłoszenia kandydatów na członków specjalnego zespołu negocjacyjnego wynosi 21 dni od dnia powiadomienia, o którym mowa w ust. 1.
 
@@ -278,12 +303,12 @@ source: "eli-html"
 
 **Art. 29.** Członkowie specjalnego zespołu negocjacyjnego wraz z ekspertami i tłumaczami, przedstawiciele właściwego organu spółki przekształcanej, spółki łączącej się lub spółki dzielonej oraz mediator mogą obradować na posiedzeniach prowadzonych z wykorzystaniem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, z zachowaniem zasad ochrony danych osobowych, o których mowa w rozdziale 4 tej ustawy.
 
-#### Rozdział 3 Standardowe zasady uczestnictwa pracowników
+#### Rozdział 3
 
 **Art. 30.** Zastosowanie standardowych zasad uczestnictwa pracowników oznacza, że pracownicy spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek oraz jej spółek zależnych i zakładów mają prawo:
 
 - **1)** wyznaczenia, wyboru albo rekomendowania członków rady nadzorczej albo rady dyrektorów spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek albo
-- **2)** sprzeciwienia się wyznaczeniu członków rady nadzorczej albo rady dyrektorów spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek w liczbie równej najwyższej liczbie reprezentujących pracowników członków rady nadzorczej albo rady dyrektorów spółki przekształcanej, wszystkich spółek łączących się lub spółki dzielonej przed dniem rejestracji spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek, na zasadach określonych w niniejszym rozdziale.
+- **2)** sprzeciwienia się wyznaczeniu członków rady nadzorczej albo rady dyrektorów spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek – w liczbie równej najwyższej liczbie reprezentujących pracowników członków rady nadzorczej albo rady dyrektorów spółki przekształcanej, wszystkich spółek łączących się lub spółki dzielonej przed dniem rejestracji spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek, na zasadach określonych w niniejszym rozdziale.
 
 **Art. 31.** Standardowe zasady uczestnictwa pracowników w spółce powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek stosuje się od dnia przekształcenia, połączenia lub podziału spółek, o którym mowa odpowiednio w art. 552, art. 493 § 2 lub art. 530 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, z uwzględnieniem art. 33, w przypadku gdy:
 
@@ -310,7 +335,7 @@ source: "eli-html"
 1. Jeżeli w spółce przekształcanej, spółce łączącej się lub spółce dzielonej występuje więcej niż 1 forma uczestnictwa, specjalny zespół negocjacyjny:
 
 - **1)** po upływie terminu, o którym mowa w art. 24, w którym nie doszło do zawarcia porozumienia lub
-- **2)** przed upływem terminu, o którym mowa w art. 24, jeżeli strony zgodnie oświadczą, że negocjacje nad zawarciem porozumienia zakończyły się niepowodzeniem dokonuje wyboru formy uczestnictwa, która znajdzie zastosowanie w spółce powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek.
+- **2)** przed upływem terminu, o którym mowa w art. 24, jeżeli strony zgodnie oświadczą, że negocjacje nad zawarciem porozumienia zakończyły się niepowodzeniem – dokonuje wyboru formy uczestnictwa, która znajdzie zastosowanie w spółce powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek.
 
 2. Specjalny zespół negocjacyjny jest obowiązany poinformować właściwy organ spółki przekształcanej, spółki łączącej się lub spółki dzielonej, która z form uczestnictwa znajdzie zastosowanie w spółce powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek.
 
@@ -326,7 +351,7 @@ source: "eli-html"
 
 - **1)** dokonanie podziału miejsc w radzie nadzorczej albo radzie dyrektorów,
 - **2)** ustalenie sposobu rekomendowania członków rady nadzorczej albo rady dyrektorów,
-- **3)** ustalenie sposobu wyrażania sprzeciwu wobec wyznaczenia członków rady nadzorczej albo rady dyrektorów spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek.
+- **3)** ustalenie sposobu wyrażania sprzeciwu wobec wyznaczenia członków rady nadzorczej albo rady dyrektorów – spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek.
 
 2. Zespół przedstawicielski rozwiązuje się z chwilą podjęcia uchwały w sprawie, o której mowa w ust. 1.
 
@@ -361,7 +386,7 @@ source: "eli-html"
 
 **Art. 44.** Do kosztów związanych z działalnością zespołu przedstawicielskiego stosuje się odpowiednio przepisy art. 20 i art. 21, chyba że właściwy organ spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek i zespół przedstawicielski postanowią inaczej.
 
-#### Rozdział 4 Reprezentacja pracowników
+#### Rozdział 4
 
 **Art. 45.**
 
@@ -371,7 +396,7 @@ source: "eli-html"
 
 **Art. 46.** Członkom rady nadzorczej albo rady dyrektorów spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek wybranym, wyznaczonym lub rekomendowanym, zgodnie ze stosowanymi formami uczestnictwa, przysługują prawa i obowiązki, w tym prawo głosu, na równi z innymi członkami tego organu.
 
-#### Rozdział 5 Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstwa
+#### Rozdział 5
 
 **Art. 47.**
 
@@ -395,7 +420,7 @@ source: "eli-html"
 
 2. Na postanowienie sądu ograniczające prawo wglądu do materiału dowodowego zażalenie nie przysługuje.
 
-#### Rozdział 6 Ochrona przedstawicieli pracowników i obowiązek informacyjny
+#### Rozdział 6
 
 **Art. 51.**
 
@@ -426,7 +451,7 @@ source: "eli-html"
 - **7)** liczby przedstawicieli pracowników w radzie nadzorczej albo radzie dyrektorów spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek;
 - **8)** łącznej liczby członków rady nadzorczej albo rady dyrektorów spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek.
 
-#### Rozdział 7 Przepis karny
+#### Rozdział 7
 
 **Art. 55.**
 
@@ -435,11 +460,11 @@ source: "eli-html"
 - **1)** utrudnia utworzenie specjalnego zespołu negocjacyjnego lub zespołu przedstawicielskiego,
 - **2)** utrudnia działanie specjalnego zespołu negocjacyjnego lub zespołu przedstawicielskiego,
 - **3)** dyskryminuje członka specjalnego zespołu negocjacyjnego, członka zespołu przedstawicielskiego lub przedstawiciela pracowników w radzie nadzorczej albo radzie dyrektorów spółki powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek w związku z pełnioną przez niego funkcją,
-- **4)** nie przekazuje informacji, o których mowa w art. 54 podlega karze grzywny albo karze ograniczenia wolności.
+- **4)** nie przekazuje informacji, o których mowa w art. 54 – podlega karze grzywny albo karze ograniczenia wolności.
 
 2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124). W tych sprawach oskarżycielem publicznym jest inspektor pracy.
 
-#### Rozdział 8 Przepisy zmieniające, przepis dostosowujący i przepisy końcowe
+#### Rozdział 8
 
 **Art. 56.** W ustawie z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2018 r. poz. 1969 oraz z 2023 r. poz. 641) w art. 5 w ust. 5 pkt 4d otrzymuje brzmienie: „
 
@@ -459,9 +484,9 @@ przepisów ustawy z dnia 26 maja 2023 r. o uczestnictwie pracowników w spółce
 
 - **1)** prawa wyznaczenia lub wyboru określonej liczby członków rady nadzorczej,
 - **2)** prawa rekomendowania członków rady nadzorczej,
-- **3)** prawa sprzeciwienia się wyznaczeniu niektórych albo wszystkich członków rady nadzorczej stosuje się przepisy dotychczasowe.
+- **3)** prawa sprzeciwienia się wyznaczeniu niektórych albo wszystkich członków rady nadzorczej – stosuje się przepisy dotychczasowe.
 
 **Art. 59.** Traci moc ustawa z dnia 25 kwietnia 2008 r. o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego połączenia się spółek (Dz. U. z 2019 r. poz. 2384).
 
-**Art. 60.** Ustawa wchodzi w życie z dniem 15 września 2023 r.
+**Art. 60.** Ustawa wchodzi w życie z dniem 15 września 2023 r. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywy: 1) dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46, z późn. zm.); 2) dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2121 z dnia 27 listopada 2019 r. zmieniającą dyrektywę (UE) 2017/1132 w odniesieniu do transgranicznego przekształcania, łączenia i podziału spółek (Dz. Urz. UE L 321 z 12.12.2019, str. 1, z późn. zm.). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników i ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz uchyla się ustawę z dnia 25 kwietnia 2008 r. o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego połączenia się spółek. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1488, 2280 i 2436 oraz z 2023 r. poz. 739, 825 i 1705.
 

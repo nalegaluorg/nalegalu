@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2023 r. poz. 807), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248), który stanowi: „
 
 **Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 9 i art. 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym
 
@@ -67,7 +66,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **1)** klęski żywiołowej i likwidacji jej skutków,
 - **2)** katastrofy lądowej, morskiej lub lotniczej,
 - **3)** konieczności udzielenia pomocy humanitarnej,
-- **4)** realizacji ćwiczenia wojskowego wynikającego z planu zatwierdzonego przez Ministra Obrony Narodowej jeżeli wojska obce są odpowiednikiem wojsk podległych odpowiednio dowódcom rodzajów Sił Zbrojnych, Dowódcy Komponentu Wojsk Obrony Cyberprzestrzeni lub Szefowi Inspektoratu Wsparcia Sił Zbrojnych, którymi ten dowódca lub szef dowodzi, ich liczebność nie przekracza pięciuset osób, a okres pobytu nie przekracza dwóch miesięcy.
+- **4)** realizacji ćwiczenia wojskowego wynikającego z planu zatwierdzonego przez Ministra Obrony Narodowej – jeżeli wojska obce są odpowiednikiem wojsk podległych odpowiednio dowódcom rodzajów Sił Zbrojnych, Dowódcy Komponentu Wojsk Obrony Cyberprzestrzeni lub Szefowi Inspektoratu Wsparcia Sił Zbrojnych, którymi ten dowódca lub szef dowodzi, ich liczebność nie przekracza pięciuset osób, a okres pobytu nie przekracza dwóch miesięcy.
 
 2. W zgodzie należy określić stronę wysyłającą, cel i okres pobytu oraz liczebność wojsk obcych, datę i przejście graniczne, przez które nastąpi wjazd, ilość i rodzaj wwożonego sprzętu wojskowego oraz broni, amunicji i materiałów niebezpiecznych, trasy przejazdu i miejsce stacjonowania, datę i przejście graniczne, przez które nastąpi wyjazd, a także inne okoliczności mające znaczenie organizacyjno-techniczne.
 
@@ -77,9 +76,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 1. Zgodę na pobyt wojsk obcych na terytorium Rzeczypospolitej Polskiej w ramach wzmocnienia wojskowego Sił Zbrojnych Rzeczypospolitej Polskiej lub wojsk Państw-Stron Traktatu Północnoatlantyckiego przez stronę wysyłającą w operacjach wojskowych prowadzonych na terytorium Rzeczypospolitej Polskiej w czasie pokoju wydaje Prezydent Rzeczypospolitej Polskiej na wniosek Ministra Obrony Narodowej skierowany po uzyskaniu zgody Prezesa Rady Ministrów.
 
-2. W zgodzie, o której mowa w ust. 1, Prezydent Rzeczypospolitej Polskiej określa cel pobytu wojsk obcych i zakres ich uprawnień, a także inne okoliczności mające znaczenie dla obronności Rzeczypospolitej Polskiej.
-
-3. Określając zakres uprawnień, o których mowa w ust. 2, Prezydent Rzeczypospolitej Polskiej wskazuje, które uprawnienia Sił Zbrojnych Rzeczypospolitej Polskiej będą przysługiwać wojskom obcym w czasie pobytu na terytorium Rzeczypospolitej Polskiej w ramach wzmocnienia wojskowego Sił Zbrojnych Rzeczypospolitej Polskiej lub wojsk Państw-Stron Traktatu Północnoatlantyckiego.
+2. W zgodzie, o której mowa w ust. 1, Prezydent Rzeczypospolitej Polskiej określa cel pobytu wojsk obcych i zakres ich uprawnień, a także inne okoliczności mające znaczenie dla obronności Rzeczypospolitej Polskiej. 3W brzmieniu ustalonym przez art. 4 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248), która weszła w życie z dniem 31 sierpnia 2024 r.. Określając zakres uprawnień, o których mowa w ust. 2, Prezydent Rzeczypospolitej Polskiej wskazuje, które uprawnienia Sił Zbrojnych Rzeczypospolitej Polskiej będą przysługiwać wojskom obcym w czasie pobytu na terytorium Rzeczypospolitej Polskiej w ramach wzmocnienia wojskowego Sił Zbrojnych Rzeczypospolitej Polskiej lub wojsk Państw-Stron Traktatu Północnoatlantyckiego.
 
 4. O wyrażeniu zgody, o której mowa w ust. 1, zawiadamia się niezwłocznie Marszałków Sejmu i Senatu oraz inne zainteresowane organy władzy publicznej.
 
@@ -327,5 +324,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 24.** (pominięty)
 
-**Art. 25.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 25.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 20 listopada 1999 r.. 1) W brzmieniu ustalonym przez art. 4 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248), która weszła w życie z dniem 31 sierpnia 2024 r. 2) Ustawa została ogłoszona w dniu 20 listopada 1999 r.
 

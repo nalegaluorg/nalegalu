@@ -22,22 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-10 |
 | Data wydania | 2012-08-17 |
-| Wejście w życie | 2012-08-18 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000936) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/936/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243.) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 200, poz. 1442, z późn. zm.) w § 13 ust. 1 i 2 otrzymują brzmienie:
-„
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 200, poz. 1442, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 85, poz. 519, z 2010 r. Nr 129, poz. 867 i Nr 166, poz. 1125 oraz z 2011 r. Nr 172, poz. 1027.) w § 13 ust. 1 i 2 otrzymują brzmienie: „
 1.
 Agencja, na uzasadnioną prośbę wnioskodawcy, może wyrazić zgodę na przedłużenie terminu wykonania przez wnioskodawcę określonych czynności w toku postępowania w sprawie przyznania pomocy o okres nieprzekraczający 6 miesięcy, a w przypadku operacji, o których mowa w § 4 ust. 5 pkt 2, o okres nieprzekraczający 18 miesięcy.
 2.
-Przedłużenie terminu, o którym mowa w ust. 1, może nastąpić więcej niż raz, jeżeli łączny okres tego przedłużenia nie przekracza 6 miesięcy, a w przypadku operacji, o których mowa w § 4 ust. 5 pkt 2 – 18 miesięcy.
-” .
+Przedłużenie terminu, o którym mowa w ust. 1, może nastąpić więcej niż raz, jeżeli łączny okres tego przedłużenia nie przekracza 6 miesięcy, a w przypadku operacji, o których mowa w § 4 ust. 5 pkt 2 – 18 miesięcy. ” .
 § 2.
 Agencja Restrukturyzacji i Modernizacji Rolnictwa, na uzasadnioną prośbę wnioskodawcy realizującego operacje, o których mowa w § 4 ust. 5 pkt 2 rozporządzenia wymienionego w § 1, któremu przed dniem wejścia w życie niniejszego rozporządzenia upłynął łączny okres przedłużenia terminu wykonania określonych czynności w toku postępowania w sprawie przyznania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, o którym mowa w § 13 ust. 2 rozporządzenia wymienionego w § 1 w brzmieniu dotychczasowym, może wyrazić zgodę na przedłużenie terminu wykonania tych czynności o okres nieprzekraczający 12 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 98, poz. 634, Nr 214, poz. 1349 i Nr 237, poz. 1655, z 2009 r. Nr 20, poz. 105, z 2010 r. Nr 76, poz. 490 i Nr 148, poz. 993, z 2011 r. Nr 205, poz. 1202 oraz z 2012 r. poz. 243. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 85, poz. 519, z 2010 r. Nr 129, poz. 867 i Nr 166, poz. 1125 oraz z 2011 r. Nr 172, poz. 1027.
 

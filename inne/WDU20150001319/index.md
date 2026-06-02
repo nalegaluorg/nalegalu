@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-04 |
 | Data wydania | 2015-09-07 |
-| Wejście w życie | 2016-09-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001319) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1319/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie tarnobrzeskiej specjalnej strefy ekonomicznej (Dz. U. z 2015 r. poz. 1306) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 1743,3045 ha, położone na terenach miast: Jasło, Kraśnik, Łuków, Opatów, Pionki, Przemyśl, Radom, Siedlce, Stalowa Wola, Tarnobrzeg i Tomaszów Lubelski oraz gmin: Baranów Sandomierski, Gorzyce, Horodło, Janów Lubelski, Jedlicze, Kobierzyce, Łapy, Łuków, Mińsk Mazowiecki, Nisko, Nowa Dęba, Nowe Miasto nad Pilicą, Opatów, Orły, Ożarów Mazowiecki, Pilawa, Połaniec, Poniatowa, Przasnysz, Ryki, Rudnik nad Sanem, Rymanów, Siedlce, Staszów, Tomaszów Lubelski, Tuczępy, Węgrów i Wyszków.
-” ;
+Strefa obejmuje grunty o powierzchni 1743,3045 ha, położone na terenach miast: Jasło, Kraśnik, Łuków, Opatów, Pionki, Przemyśl, Radom, Siedlce, Stalowa Wola, Tarnobrzeg i Tomaszów Lubelski oraz gmin: Baranów Sandomierski, Gorzyce, Horodło, Janów Lubelski, Jedlicze, Kobierzyce, Łapy, Łuków, Mińsk Mazowiecki, Nisko, Nowa Dęba, Nowe Miasto nad Pilicą, Opatów, Orły, Ożarów Mazowiecki, Pilawa, Połaniec, Poniatowa, Przasnysz, Ryki, Rudnik nad Sanem, Rymanów, Siedlce, Staszów, Tomaszów Lubelski, Tuczępy, Węgrów i Wyszków. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU TARNOBRZESKIEJ SPECJALNEJ STREFY EKONOMICZNEJ EURO-PARK WISŁOSAN:
 a)

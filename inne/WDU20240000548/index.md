@@ -26,16 +26,36 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/548/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 Rozdział 1 – Przepisy ogólne Rozdział 2 – Komisja Rozdział 3 – Skład i tryb powoływania Komisji Rozdział 4 – Postępowanie przed Komisją Rozdział 5 – Działalność informacyjna i prewencyjna Komisji Rozdział 6 – Przepisy zmieniające Rozdział 7 – Przepisy dostosowujące i przepis końcowy
+Załącznik – Tekst jednolity ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 (Dz. U. poz. 1030), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 oraz niektórych innych ustaw (Dz. U. poz. 1532) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 marca 2024 r.
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1)
-art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 (Dz. U. poz. 1030), które stanowią:
-„
-(pominięte)
+art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 (Dz. U. poz. 1030), które stanowią: „
+Przepisy ogólne
+Komisja
+Skład i tryb powoływania Komisji
+Postępowanie przed Komisją
+Działalność informacyjna i prewencyjna Komisji
+Przepisy zmieniające
+(pominięte)Zamieszczone w obwieszczeniu.
+Przepisy dostosowujące i przepis końcowy
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Komisja
+
+#### Rozdział 3 – Skład i tryb powoływania Komisji
+
+#### Rozdział 4 – Postępowanie przed Komisją
+
+#### Rozdział 5 – Działalność informacyjna i prewencyjna Komisji
+
+#### Rozdział 6 – Przepisy zmieniające
+
+#### Rozdział 7 – Przepisy dostosowujące i przepis końcowy
 
 **Art. 43.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2022 r. poz. 2516 oraz z 2023 r. poz. 535 i 803) wprowadza się następujące zmiany:
 
@@ -95,13 +115,13 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 **Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
 - **1)** zadania i kompetencje Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022, zwanej dalej „Komisją”;
 - **2)** szczególny tryb postępowania w przedmiocie badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022;
-- **3)** (uchylony)
+- **3)** (uchylony)Przez art. 1 pkt 1 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 oraz niektórych innych ustaw (Dz. U. poz. 1532), która weszła w życie z dniem 8 sierpnia 2023 r.
 - **4)** sposób prowadzenia przez Komisję działalności informacyjnej i prewencyjnej dotyczących wpływów rosyjskich w latach 2007–2022.
 
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
@@ -115,15 +135,15 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
     - **b)**
     - **c)**
 
-- **6)** środkach publicznych – należy przez to rozumieć środki, o których mowa w art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.);
-- **7)** (uchylony)
-- **8)** wpływach rosyjskich – należy przez to rozumieć każde działanie: osób będących przedstawicielami władz publicznych Federacji Rosyjskiej, w szczególności osób zajmujących eksponowane stanowiska polityczne w rozumieniu art. 2 ust. 2 pkt 11 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843), osób znanych jako bliscy współpracownicy osób będących przedstawicielami władz publicznych Federacji Rosyjskiej w rozumieniu art. 2 ust. 2 pkt 12 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, osób powiązanych osobiście, organizacyjnie lub finansowo z osobami, o których mowa w lit. a lub b, innych osób lub innych podmiotów działających na zlecenie osób, o których mowa w lit. a-c prowadzone metodami zarówno prawnie dozwolonymi, jak i bezprawnymi, zmierzające do wywarcia wpływu na działania spółek lub organów władzy publicznej Rzeczypospolitej Polskiej.
+- **6)** środkach publicznych – należy przez to rozumieć środki, o których mowa w art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.);
+- **7)** (uchylony)Przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.
+- **8)** wpływach rosyjskich – należy przez to rozumieć każde działanie: osób będących przedstawicielami władz publicznych Federacji Rosyjskiej, w szczególności osób zajmujących eksponowane stanowiska polityczne w rozumieniu art. 2 ust. 2 pkt 11 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843), osób znanych jako bliscy współpracownicy osób będących przedstawicielami władz publicznych Federacji Rosyjskiej w rozumieniu art. 2 ust. 2 pkt 12 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, osób powiązanych osobiście, organizacyjnie lub finansowo z osobami, o których mowa w lit. a lub b, innych osób lub innych podmiotów działających na zlecenie osób, o których mowa w lit. a-c – prowadzone metodami zarówno prawnie dozwolonymi, jak i bezprawnymi, zmierzające do wywarcia wpływu na działania spółek lub organów władzy publicznej Rzeczypospolitej Polskiej.
     - **a)**
     - **b)**
     - **c)**
     - **d)**
 
-#### Rozdział 2 Komisja
+#### Rozdział 2
 
 **Art. 3.**
 
@@ -156,9 +176,7 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 - **5)** funkcjonowania infrastruktury krytycznej;
 - **6)** funkcjonowania partii politycznych;
 - **7)** organizacji systemu opieki zdrowotnej, w szczególności zwalczania chorób zakaźnych;
-- **8)** ochrony granicy państwowej Rzeczypospolitej Polskiej.
-
-**Art. 5.** W przypadku stwierdzenia wpływów rosyjskich na działalność osób, o których mowa w art. 4, Komisja wskazuje to w raporcie, o którym mowa w art. 41 ust. 1.
+- **8)** ochrony granicy państwowej Rzeczypospolitej Polskiej. Art. 5W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1.. W przypadku stwierdzenia wpływów rosyjskich na działalność osób, o których mowa w art. 4, Komisja wskazuje to w raporcie, o którym mowa w art. 41 ust. 1.
 
 **Art. 6.**
 
@@ -171,20 +189,19 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 1. Komisja prowadzi działalność informacyjną i prewencyjną.
 
-2. W zakresie, o którym mowa w ust. 1, Komisja:
+2. W zakresie, o którym mowa w ust. 1, Komisja: 1Ze zmianą wprowadzoną przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 1.) przygotowuje i przedstawia raporty ze swojej działalności zawierające wyniki badań Komisji;
 
-- **1)** przygotowuje i przedstawia raporty ze swojej działalności zawierające wyniki badań Komisji;
 - **2)** przedstawia organom władzy publicznej wnioski i rekomendacje w zakresie zapobiegania wpływom rosyjskim i ich zwalczania, a także podejmuje działania umożliwiające pociągnięcie do odpowiedzialności osób, o których mowa w art. 4;
 - **3)** wnosi do rozpatrzenia przez Radę Ministrów przygotowane przez Komisję projekty dokumentów rządowych, dotyczące zakresu działania Komisji, mające na celu usprawnienie działań organów władzy publicznej w zakresie zapobiegania wpływom rosyjskim i ich zwalczania;
 - **4)** opiniuje projekty aktów normatywnych dotyczące zakresu działania Komisji.
 
-1. Komisja przetwarza wszelkie informacje niezbędne do realizacji jej ustawowych zadań, w tym dane osobowe, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
+1. Komisja przetwarza wszelkie informacje niezbędne do realizacji jej ustawowych zadań, w tym dane osobowe, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35..
 
 2. Komisja w celu realizacji zadań wynikających z ustawy może przetwarzać dane o osobie uzyskane na podstawie art. 16, art. 18 lub art. 19 bez wiedzy i zgody osoby, której te dane dotyczą.
 
 3. Dokumentacja zgromadzona w toku postępowania Komisji nie stanowi informacji publicznej ani nie podlega udostępnieniu w trybie określonym w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
 
-#### Rozdział 3 Skład i tryb powoływania Komisji
+#### Rozdział 3
 
 **Art. 9.**
 
@@ -198,9 +215,7 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 - **4)** spełnia wymagania określone w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych w zakresie dostępu do informacji niejawnych o klauzuli tajności „ściśle tajne”;
 - **5)** posiada wykształcenie wyższe lub niezbędną wiedzę w zakresie funkcjonowania organów władzy publicznej;
 - **6)** cieszy się nieposzlakowaną opinią;
-- **7)** wyraziła zgodę na kandydowanie.
-
-2a. Członkostwa w Komisji nie można łączyć z mandatem posła lub senatora.
+- **7)** wyraziła zgodę na kandydowanie. 2aDodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 1.. Członkostwa w Komisji nie można łączyć z mandatem posła lub senatora.
 
 3. Prawo zgłaszania Marszałkowi Sejmu kandydatów na członków Komisji w liczbie nie większej niż 9 przysługuje każdemu klubowi poselskiemu lub parlamentarnemu, w terminie wskazanym przez Marszałka Sejmu.
 
@@ -229,17 +244,7 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 3. Do wyboru uzupełniającego, o którym mowa w ust. 2, przepis art. 9 stosuje się odpowiednio.
 
-**Art. 11.**
-
-1. Członkowie Komisji wybierają spośród siebie przewodniczącego Komisji. Uchwałę w tej sprawie Komisja podejmuje większością głosów, w głosowaniu jawnym, w obecności co najmniej 5 członków Komisji.
-
-2. Przewodniczący Komisji kieruje jej pracami, reprezentuje ją na zewnątrz oraz wykonuje inne czynności przewidziane w ustawie oraz regulaminie działania Komisji.
-
-3. Komisja może, na wniosek przewodniczącego Komisji, powołać ze swojego grona do 2 zastępców przewodniczącego Komisji.
-
-4. Przewodniczący Komisji może upoważnić członka Komisji do wykonywania niektórych czynności przewodniczącego Komisji.
-
-5. Przewodniczący Komisji lub jego zastępca może udzielić pełnomocnictwa adwokatowi lub radcy prawnemu do reprezentowania Komisji przed sądami powszechnymi, sądami administracyjnymi, sądami wojskowymi, Sądem Najwyższym, Trybunałem Konstytucyjnym, Trybunałem Stanu oraz zagranicznymi organami sądowymi.
+**Art. 11.** 1W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 1.. Członkowie Komisji wybierają spośród siebie przewodniczącego Komisji. Uchwałę w tej sprawie Komisja podejmuje większością głosów, w głosowaniu jawnym, w obecności co najmniej 5 członków Komisji. 2. Przewodniczący Komisji kieruje jej pracami, reprezentuje ją na zewnątrz oraz wykonuje inne czynności przewidziane w ustawie oraz regulaminie działania Komisji. 3. Komisja może, na wniosek przewodniczącego Komisji, powołać ze swojego grona do 2 zastępców przewodniczącego Komisji. 4. Przewodniczący Komisji może upoważnić członka Komisji do wykonywania niektórych czynności przewodniczącego Komisji. 5. Przewodniczący Komisji lub jego zastępca może udzielić pełnomocnictwa adwokatowi lub radcy prawnemu do reprezentowania Komisji przed sądami powszechnymi, sądami administracyjnymi, sądami wojskowymi, Sądem Najwyższym, Trybunałem Konstytucyjnym, Trybunałem Stanu oraz zagranicznymi organami sądowymi.
 
 **Art. 12.**
 
@@ -253,13 +258,11 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 5. Przewodniczący Komisji może upoważniać pracownika Kancelarii Prezesa Rady Ministrów zajmującego się obsługą Komisji do załatwiania określonych spraw w jego imieniu, w szczególności do wydawania zaświadczeń oraz poświadczania odpisów dokumentów za zgodność z oryginałem na potrzeby prowadzonych postępowań.
 
-6. Członkom Komisji mającym inne miejsce zamieszkania niż miejsce posiedzeń Komisji przysługują diety oraz zwrot kosztów przejazdów i noclegów związanych z uczestnictwem w tych posiedzeniach, na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
-
-7. Komisja określa, w drodze uchwały, regulamin swojego działania. Przepisy art. 15 ust. 1–3 stosuje się odpowiednio.
+6. Członkom Komisji mającym inne miejsce zamieszkania niż miejsce posiedzeń Komisji przysługują diety oraz zwrot kosztów przejazdów i noclegów związanych z uczestnictwem w tych posiedzeniach, na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465). 7W brzmieniu ustalonym przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 1.. Komisja określa, w drodze uchwały, regulamin swojego działania. Przepisy art. 15 ust. 1–3 stosuje się odpowiednio.
 
 **Art. 13.** Członkowie Komisji nie mogą być pociągnięci do odpowiedzialności za swoją działalność wchodzącą w zakres sprawowania funkcji w Komisji.
 
-#### Rozdział 4 Postępowanie przed Komisją
+#### Rozdział 4
 
 **Art. 14.**
 
@@ -331,19 +334,7 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 2. O wszczęciu postępowania Komisja zawiadamia strony postępowania, którymi są osoby, o których mowa w art. 4 ust. 1. Jeżeli postępowanie wiąże się z badaniem wpływów rosyjskich, o wszczęciu postępowania zawiadamia się dany organ lub daną spółkę, o ile nie jest stroną postępowania.
 
-**Art. 22.**
-
-1. W toku postępowania Komisja przeprowadza rozprawę.
-
-2. Rozprawa przed Komisją jest jawna.
-
-3. Komisja może wyłączyć jawność rozprawy w całości lub w części ze względu na bezpieczeństwo państwa, zagrożenie spokoju, moralności i porządku publicznego, a także jeżeli w toku rozprawy mają być omawiane szczegóły życia rodzinnego lub rozpatrywane informacje stanowiące tajemnicę podlegającą ochronie na podstawie odrębnych przepisów lub informacje stanowiące dane, o których mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206).
-
-4. Komisja rozstrzyga o wyłączeniu jawności rozprawy postanowieniem.
-
-5. Podczas rozprawy odbywającej się z wyłączeniem jawności na sali mogą być obecni: strony postępowania, świadkowie, przedstawiciele ustawowi i pełnomocnicy stron postępowania, prokurator oraz wyznaczeni przez przewodniczącego Komisji pracownicy Kancelarii Prezesa Rady Ministrów.
-
-6. Postanowienia o wyłączeniu jawności oraz decyzje administracyjne kończące postępowanie w sprawie ogłasza się w Biuletynie Informacji Publicznej, na stronie podmiotowej Kancelarii Prezesa Rady Ministrów.
+**Art. 22.** 1W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 1.. W toku postępowania Komisja przeprowadza rozprawę. 2. Rozprawa przed Komisją jest jawna. 3. Komisja może wyłączyć jawność rozprawy w całości lub w części ze względu na bezpieczeństwo państwa, zagrożenie spokoju, moralności i porządku publicznego, a także jeżeli w toku rozprawy mają być omawiane szczegóły życia rodzinnego lub rozpatrywane informacje stanowiące tajemnicę podlegającą ochronie na podstawie odrębnych przepisów lub informacje stanowiące dane, o których mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206). 4. Komisja rozstrzyga o wyłączeniu jawności rozprawy postanowieniem. 5. Podczas rozprawy odbywającej się z wyłączeniem jawności na sali mogą być obecni: strony postępowania, świadkowie, przedstawiciele ustawowi i pełnomocnicy stron postępowania, prokurator oraz wyznaczeni przez przewodniczącego Komisji pracownicy Kancelarii Prezesa Rady Ministrów. 6. Postanowienia o wyłączeniu jawności oraz decyzje administracyjne kończące postępowanie w sprawie ogłasza się w Biuletynie Informacji Publicznej, na stronie podmiotowej Kancelarii Prezesa Rady Ministrów.
 
 **Art. 23.**
 
@@ -401,7 +392,7 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 1. Osoby obowiązane do zachowania tajemnicy prawnie chronionej innej niż informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne” mogą odmówić zeznań co do okoliczności, na które rozciąga się ten obowiązek, chyba że Komisja zwolni je od obowiązku zachowania tajemnicy, z uwzględnieniem art. 32.
 
-2. (uchylony)
+2. (uchylony)Przez art. 1 pkt 10 ustawy, o której mowa w odnośniku 1.
 
 **Art. 32.**
 
@@ -413,9 +404,7 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 4. Komisji i osobie wezwanej służy zażalenie na postanowienie sądu w przedmiocie zezwolenia na przesłuchanie, na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
-5. Wniesienie zażalenia wstrzymuje wykonanie postanowienia sądu.
-
-**Art. 33.** Posiedzenia Komisji wyznaczone poza rozprawą są jawne, chyba że przewodniczący Komisji zarządzi inaczej. Przepis art. 22 ust. 3 stosuje się odpowiednio.
+5. Wniesienie zażalenia wstrzymuje wykonanie postanowienia sądu. Art. 33W brzmieniu ustalonym przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 1.. Posiedzenia Komisji wyznaczone poza rozprawą są jawne, chyba że przewodniczący Komisji zarządzi inaczej. Przepis art. 22 ust. 3 stosuje się odpowiednio.
 
 **Art. 34.**
 
@@ -425,18 +414,16 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 3. Organ, o którym mowa w ust. 1, w terminie 30 dni od dnia otrzymania zawiadomienia powiadamia Komisję o podjętych środkach lub zajętym stanowisku albo sposobie zakończenia kontroli lub postępowania.
 
-**Art. 35.** Przewodniczący Komisji po zamknięciu rozprawy wyznacza stronom postępowania termin do wypowiedzenia się co do zebranych dowodów i materiałów oraz zgłoszonych żądań.
-
-**Art. 36.** W wyniku postępowania Komisja wydaje decyzję administracyjną, w której stwierdza, że działanie osoby, o której mowa w art. 4 ust. 1:
+**Art. 35.** Przewodniczący Komisji po zamknięciu rozprawy wyznacza stronom postępowania termin do wypowiedzenia się co do zebranych dowodów i materiałów oraz zgłoszonych żądań. Art. 36W brzmieniu ustalonym przez art. 1 pkt 12 ustawy, o której mowa w odnośniku 1.. W wyniku postępowania Komisja wydaje decyzję administracyjną, w której stwierdza, że działanie osoby, o której mowa w art. 4 ust. 1:
 
 - **1)** było działaniem pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, albo
 - **2)** nie było działaniem pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej.
 
-**Art. 37.** (uchylony)
+**Art. 37.** (uchylony)Przez art. 1 pkt 13 ustawy, o której mowa w odnośniku 1.
 
 **Art. 38.**
 
-1. Jeżeli postępowanie wykaże, że zachodzi sytuacja, o której mowa w art. 4 ust. 1 pkt 2, Komisja wydaje decyzję administracyjną, w której stwierdza wydanie decyzji administracyjnej pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, i:
+1. Jeżeli postępowanie wykaże, że zachodzi sytuacja, o której mowa w art. 4 ust. 1 pkt 2, Komisja wydaje decyzję administracyjną, w której stwierdza wydanie decyzji administracyjnej pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, i:Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 1 pkt 14 ustawy, o której mowa w odnośniku 1.
 
 - **1)** uchyla decyzję administracyjną, która została wydana pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, w całości i przekazuje sprawę do ponownego rozpatrzenia organowi, który wydał tę decyzję albo
 - **2)** uchyla decyzję administracyjną, która została wydana pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, w części i umarza postępowanie w pozostałym zakresie, albo
@@ -465,32 +452,21 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 4. Stronami postępowania w sprawie apelacji są osoba wnosząca apelację i Komisja.
 
-5. Do postępowania w sprawie apelacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.) dotyczące apelacji.
+5. Do postępowania w sprawie apelacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606 1615, 1667, 1860 i 2760.) dotyczące apelacji.
 
 1. Od wydanego przez sąd apelacyjny prawomocnego wyroku lub postanowienia w przedmiocie odrzucenia apelacji albo umorzenia postępowania przed sądem apelacyjnym przysługuje skarga kasacyjna do Sądu Najwyższego.
 
 2. Do postępowania w sprawie skargi kasacyjnej stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dotyczące skargi kasacyjnej.
 
-**Art. 40.**
+**Art. 40.** 1Ze zmianą wprowadzoną przez art. 1 pkt 16 ustawy, o której mowa w odnośniku 1.. W sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyłączeniem art. 8 § 2, art. 13, art. 25, art. 31, art. 96a-96n, art. 108, art. 114–122h, art. 127–144 i art. 156 § 2 tej ustawy. 2. Przepisów ustawy, o której mowa w ust. 1, nie stosuje się do czynności sprawdzających, o których mowa w art. 20 ust. 1. 3. Do spraw określonych w art. 23 oraz art. 41 ust. 5 nie stosuje się przepisów ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781). 4. Nie stwierdza się nieważności decyzji administracyjnej Komisji, jeżeli od dnia doręczenia lub ogłoszenia tej decyzji upłynęło 10 lat, a także gdy decyzja administracyjna wywołała nieodwracalne skutki prawne. 5. Nie obciąża się Komisji jako wierzyciela kosztami egzekucyjnymi ani opłatą komorniczą, o których mowa w art. 64–66 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 
-1. W sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyłączeniem art. 8 § 2, art. 13, art. 25, art. 31, art. 96a-96n, art. 108, art. 114–122h, art. 127–144 i art. 156 § 2 tej ustawy.
-
-2. Przepisów ustawy, o której mowa w ust. 1, nie stosuje się do czynności sprawdzających, o których mowa w art. 20 ust. 1.
-
-3. Do spraw określonych w art. 23 oraz art. 41 ust. 5 nie stosuje się przepisów ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781).
-
-4. Nie stwierdza się nieważności decyzji administracyjnej Komisji, jeżeli od dnia doręczenia lub ogłoszenia tej decyzji upłynęło 10 lat, a także gdy decyzja administracyjna wywołała nieodwracalne skutki prawne.
-
-5. Nie obciąża się Komisji jako wierzyciela kosztami egzekucyjnymi ani opłatą komorniczą, o których mowa w art. 64–66 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
-
-#### Rozdział 5 Działalność informacyjna i prewencyjna Komisji
+#### Rozdział 5
 
 **Art. 41.**
 
 1. Komisja przygotowuje raport ze swojej działalności zawierający:
 
-- **1)** opis stwierdzonych przypadków działań, o których mowa w art. 4;
-- **2)** informacje o wydanych decyzjach administracyjnych;
+- **1)** opis stwierdzonych przypadków działań, o których mowa w art. 4; 2Ze zmianą wprowadzoną przez art. 1 pkt 17 ustawy, o której mowa w odnośniku 1.) informacje o wydanych decyzjach administracyjnych;
 - **3)** wnioski i rekomendacje dla organów władzy publicznej oraz organizacji i podmiotów w zakresie zapobiegania wpływom rosyjskim i ich zwalczania.
 
 2. Raport jest przygotowywany corocznie.
@@ -503,11 +479,11 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 **Art. 42.** Komisja może wnosić pod obrady Rady Ministrów projekty dokumentów rządowych, na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów.
 
-#### Rozdział 6 Przepisy zmieniające
+#### Rozdział 6
 
-#### Rozdział 7 Przepisy dostosowujące i przepis końcowy
+#### Rozdział 7
 
-**Art. 47.** (uchylony)
+**Art. 47.** (uchylony)Przez art. 1 pkt 18 ustawy, o której mowa w odnośniku 1.
 
 **Art. 48.** Tworzy się Komisję.
 
@@ -515,15 +491,11 @@ art. 43–46 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw ba
 
 1. Kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi Sejmu w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
-2. Głosowanie nad kandydatami na członków Komisji odbywa się na pierwszym posiedzeniu Sejmu po upływie terminu, o którym mowa w ust. 1. W przypadku nieprzedstawienia kandydatów na członków Komisji zgodnie z art. 49 ust. 1 kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi Sejmu w terminie wskazanym w postanowieniu Marszałka Sejmu. Przepis art. 49 ust. 2 stosuje się odpowiednio.
-
-**Art. 50.**
+2. Głosowanie nad kandydatami na członków Komisji odbywa się na pierwszym posiedzeniu Sejmu po upływie terminu, o którym mowa w ust. 1. W przypadku nieprzedstawienia kandydatów na członków Komisji zgodnie z art. 49 ust. 1 kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi Sejmu w terminie wskazanym w postanowieniu Marszałka Sejmu. Przepis art. 49 ust. 2 stosuje się odpowiednio. Art. 50W brzmieniu ustalonym przez art. 1 pkt 20 ustawy, o której mowa w odnośniku 1..
 
 1. Członkowie Komisji wybierają spośród siebie przewodniczącego Komisji w terminie 14 dni od dnia powołania członka na ostatni wakat w Komisji, zgodnie z art. 49a.
 
-2. Jeżeli członkowie Komisji nie wybiorą spośród siebie przewodniczącego Komisji w terminie, o którym mowa w ust. 1, przewodniczącego Komisji wybiera Prezes Rady Ministrów, w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 1.
+2. Jeżeli członkowie Komisji nie wybiorą spośród siebie przewodniczącego Komisji w terminie, o którym mowa w ust. 1, przewodniczącego Komisji wybiera Prezes Rady Ministrów, w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 1. Art. 51W brzmieniu ustalonym przez art. 1 pkt 20 ustawy, o której mowa w odnośniku 1.. Komisja określa regulamin, o którym mowa w art. 12 ust. 7, w terminie 14 dni od dnia wyboru przewodniczącego Komisji.
 
-**Art. 51.** Komisja określa regulamin, o którym mowa w art. 12 ust. 7, w terminie 14 dni od dnia wyboru przewodniczącego Komisji.
-
-**Art. 52.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 52.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszeniaUstawa została ogłoszona w dniu 30 maja 2023 r.. 1) Przez art. 1 pkt 1 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 oraz niektórych innych ustaw (Dz. U. poz. 1532), która weszła w życie z dniem 8 sierpnia 2023 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 3) Przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1. 4) W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1. 5) Ze zmianą wprowadzoną przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 1. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. 7) Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 1. 8) W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 1. 9) W brzmieniu ustalonym przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 1. 10) W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 1. 11) Dodany przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 1. 12) Przez art. 1 pkt 10 ustawy, o której mowa w odnośniku 1. 13) W brzmieniu ustalonym przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 1. 14) W brzmieniu ustalonym przez art. 1 pkt 12 ustawy, o której mowa w odnośniku 1. 15) Przez art. 1 pkt 13 ustawy, o której mowa w odnośniku 1. 16) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 1 pkt 14 ustawy, o której mowa w odnośniku 1. 17) Dodany przez art. 1 pkt 15 ustawy, o której mowa w odnośniku 1. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606 1615, 1667, 1860 i 2760. 19) Ze zmianą wprowadzoną przez art. 1 pkt 16 ustawy, o której mowa w odnośniku 1. 20) Ze zmianą wprowadzoną przez art. 1 pkt 17 ustawy, o której mowa w odnośniku 1. 21) Zamieszczone w obwieszczeniu. 22) Przez art. 1 pkt 18 ustawy, o której mowa w odnośniku 1. 23) Dodany przez art. 1 pkt 19 ustawy, o której mowa w odnośniku 1. 24) W brzmieniu ustalonym przez art. 1 pkt 20 ustawy, o której mowa w odnośniku 1. 25) Ustawa została ogłoszona w dniu 30 maja 2023 r.
 

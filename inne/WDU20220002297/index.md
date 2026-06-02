@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 10 listopada 2022 r. w sprawie Rejestru Dokumentów Paszportowych
+# Rozporządzenie Ministra Cyfryzacjiz dnia 10 listopada 2022 r. w sprawie Rejestru Dokumentów Paszportowych Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-10 |
 | Data wydania | 2022-11-10 |
-| Wejście w życie | 2022-11-13 |
 | Ostatnia zmiana | 2025-02-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002297) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2297/text.pdf) |
 
@@ -119,6 +118,5 @@ aktywny,
 b)
 nieaktywny.
 § 6.
-Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych.
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2010 r. w sprawie ewidencji paszportowych i centralnej ewidencji (Dz. U. poz. 131), które traci moc z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583) wskazującym dzień wejścia w życie tej ustawy.
+Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2010 r. w sprawie ewidencji paszportowych i centralnej ewidencji (Dz. U. poz. 131), które traci moc z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583) wskazującym dzień wejścia w życie tej ustawy. 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2010 r. w sprawie ewidencji paszportowych i centralnej ewidencji (Dz. U. poz. 131), które traci moc z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583) wskazującym dzień wejścia w życie tej ustawy.
 

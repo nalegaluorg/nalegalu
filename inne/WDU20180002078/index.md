@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Cyfryzacjiz dnia 18 października 2018 r. w sprawie minimalnej przepływności łącza dla świadczonej przez jednostki samorządu terytorialnego usługi dostępu do Internetu
+# Rozporządzenie Ministra Cyfryzacjiz dnia 18 października 2018 r. w sprawie minimalnej przepływności łącza dla świadczonej przez jednostki samorządu terytorialnego usługi dostępu do Internetu Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-18 |
 | Data wydania | 2018-10-31 |
-| Wejście w życie | 2018-12-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2078/text.pdf) |
 
@@ -33,7 +32,5 @@ Minimalna przepływność łącza dla świadczonej przez jednostki samorządu te
 § 2.
 Minimalna przepływność, o której mowa w § 1, jest zachowana, gdy zsumowana przepustowość łącza w dół do wszystkich użytkowników końcowych wynosi 30 Mb/s.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 12 grudnia 2018 r.
-Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761).
-1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady
+Rozporządzenie wchodzi w życie z dniem 12 grudnia 2018 r. Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761). 1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady
 

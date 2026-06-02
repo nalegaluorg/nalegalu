@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 12 marca 2018 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla
+# Rozporządzenie Ministra Środowiskaz dnia 12 marca 2018 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-12 |
 | Data wydania | 2018-03-20 |
-| Wejście w życie | 2018-03-21 |
 | Ostatnia zmiana | 2024-05-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000585) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/585/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 400a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 400a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290 oraz z 2018 r. poz. 9, 88 i 534.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe warunki udzielania pomocy publicznej przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej, na podstawie ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla, zwanej dalej „pomocą”.
 § 2.
@@ -72,6 +71,5 @@ Całkowita wartość zsumowanej pomocy nie może powodować przekroczenia intens
 § 9.
 Rozporządzenie obowiązuje do dnia 31 grudnia 2018 r.
 § 10.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290 oraz z 2018 r. poz. 9, 88 i 534.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888, 1999, 2056, 2180 i 2290 oraz z 2018 r. poz. 9, 88 i 534.
 

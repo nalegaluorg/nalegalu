@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 23 stycznia 2018 r. zmieniające rozporządzenie w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 23 stycznia 2018 r. zmieniające rozporządzenie w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-23 |
 | Data wydania | 2018-01-26 |
-| Wejście w życie | 2018-01-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/236/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 85 ust. 1 pkt 1 ustawy z dnia 12 października 1990 r. o Stra�
 § 1.
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach (Dz. U. z 2016 r. poz. 1470) wprowadza się następujące zmiany:
 1)
-w § 1 pkt 7 otrzymuje brzmienie:
-„
+w § 1 pkt 7 otrzymuje brzmienie: „
 7)
-komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną Komendy Głównej Straży Granicznej właściwą do spraw kadr albo komórkę organizacyjną właściwą w sprawach kadrowych w Biurze Spraw Wewnętrznych Straży Granicznej, w oddziale Straży Granicznej, ośrodku Straży Granicznej lub ośrodku szkolenia Straży Granicznej.
-” ;
+komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną Komendy Głównej Straży Granicznej właściwą do spraw kadr albo komórkę organizacyjną właściwą w sprawach kadrowych w Biurze Spraw Wewnętrznych Straży Granicznej, w oddziale Straży Granicznej, ośrodku Straży Granicznej lub ośrodku szkolenia Straży Granicznej. ” ;
 2)
-§ 2–3a otrzymują brzmienie:
-„
+§ 2–3a otrzymują brzmienie: „
 § 2.
 Przełożonymi właściwymi w sprawach osobowych funkcjonariuszy są:
 1)
@@ -71,15 +67,11 @@ W Komendzie Głównej Straży Granicznej prowadzi się sprawy osobowe funkcjonar
 2.
 W Biurze Spraw Wewnętrznych Straży Granicznej, w komendzie oddziału Straży Granicznej, w ośrodku Straży Granicznej i ośrodku szkolenia Straży Granicznej prowadzi się kontrolę w zakresie określonym w art. 125e ust. 2 pkt 2 ustawy, dotyczącym funkcjonariuszy wymienionych w § 2 pkt 2 lit. a-c, oraz sprawy odwołań od rozstrzygnięć podjętych w wyniku takiej kontroli, w zakresie niezastrzeżonym dla Komendanta Głównego Straży Granicznej. W przypadku gdy wynika to z zakresu upoważnienia udzielonego przez przełożonego właściwego w sprawach osobowych, kontrolę prowadzi się w placówkach lub dywizjonach Straży Granicznej.
 § 3a.
-Sprawy dotyczące prawa do zwolnienia od zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad chorym dzieckiem lub chorym członkiem rodziny w zakresie długości okresu w roku kalendarzowym, w którym funkcjonariuszowi przysługuje to prawo, prowadzi się w komórkach organizacyjnych Komendy Głównej Straży Granicznej, Biura Spraw Wewnętrznych Straży Granicznej, oddziału Straży Granicznej, ośrodka Straży Granicznej i ośrodka szkolenia Straży Granicznej, w których jest prowadzona ewidencja czasu służby funkcjonariuszy.
-” ;
+Sprawy dotyczące prawa do zwolnienia od zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad chorym dzieckiem lub chorym członkiem rodziny w zakresie długości okresu w roku kalendarzowym, w którym funkcjonariuszowi przysługuje to prawo, prowadzi się w komórkach organizacyjnych Komendy Głównej Straży Granicznej, Biura Spraw Wewnętrznych Straży Granicznej, oddziału Straży Granicznej, ośrodka Straży Granicznej i ośrodka szkolenia Straży Granicznej, w których jest prowadzona ewidencja czasu służby funkcjonariuszy. ” ;
 3)
-w § 8 ust. 3 otrzymuje brzmienie:
-„
+w § 8 ust. 3 otrzymuje brzmienie: „
 3.
-W stosunku do funkcjonariusza zajmującego stanowisko Komendanta lub zastępcy Komendanta Biura Spraw Wewnętrznych Straży Granicznej, komendanta lub zastępcy komendanta oddziału Straży Granicznej, komendanta lub zastępcy komendanta ośrodka Straży Granicznej, komendanta lub zastępcy komendanta ośrodka szkolenia Straży Granicznej czynność, o której mowa w ust. 1, przeprowadza Komendant Główny Straży Granicznej lub jego zastępca, w obecności kierownika komórki organizacyjnej właściwej w sprawach osobowych w Komendzie Głównej Straży Granicznej.
-” .
+W stosunku do funkcjonariusza zajmującego stanowisko Komendanta lub zastępcy Komendanta Biura Spraw Wewnętrznych Straży Granicznej, komendanta lub zastępcy komendanta oddziału Straży Granicznej, komendanta lub zastępcy komendanta ośrodka Straży Granicznej, komendanta lub zastępcy komendanta ośrodka szkolenia Straży Granicznej czynność, o której mowa w ust. 1, przeprowadza Komendant Główny Straży Granicznej lub jego zastępca, w obecności kierownika komórki organizacyjnej właściwej w sprawach osobowych w Komendzie Głównej Straży Granicznej. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
 

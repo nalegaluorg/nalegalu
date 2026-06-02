@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-03-15 |
 | Data wydania | 2012-03-26 |
-| Wejście w życie | 2012-04-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000313) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/313/text.pdf) |
 
@@ -31,8 +30,7 @@ Na podstawie art. 26 ust. 6 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrówn
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 4 września 2009 r. w sprawie szczegółowego sposobu przeprowadzania przez instytucję zarządzającą kontroli w odniesieniu do instytucji pośredniczących oraz operacji realizowanych w ramach programu operacyjnego „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” (Dz. U. Nr 147, poz. 1191) wprowadza się następujące zmiany:
 1)
-§ 7 otrzymuje brzmienie:
-„
+§ 7 otrzymuje brzmienie: „
 § 7.
 1.
 O terminie oraz zakresie planowanej kontroli zawiadamia się podmiot, u którego ma być przeprowadzona kontrola, co najmniej na 7 dni przed rozpoczęciem kontroli.
@@ -41,8 +39,7 @@ Kontrola może być również przeprowadzona przed upływem 7 dni od dnia doręc
 1)
 na wniosek podmiotu, u którego ma być przeprowadzona kontrola, lub
 2)
-jeżeli wymaga tego specyfika operacji, po uzyskaniu pisemnej zgody podmiotu, u którego ma być przeprowadzona kontrola.
-” ;
+jeżeli wymaga tego specyfika operacji, po uzyskaniu pisemnej zgody podmiotu, u którego ma być przeprowadzona kontrola. ” ;
 2)
 w § 20 uchyla się ust. 2.
 § 2.

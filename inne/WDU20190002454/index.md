@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 18 grudnia 2019 r. w sprawie szczegółowych kryteriów wynagradzania pracowników Biura Narodowego Centrum Badań i Rozwoju
+# Rozporządzenie Ministra Nauki i Szkolnictwa Wyższegoz dnia 18 grudnia 2019 r. w sprawie szczegółowych kryteriów wynagradzania pracowników Biura Narodowego Centrum Badań i Rozwoju Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2255).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-18 |
 | Data wydania | 2019-12-19 |
-| Wejście w życie | 2020-01-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2454/text.pdf) |
 
@@ -65,6 +64,5 @@ uwarunkowania rynku pracy w zakresie wynagradzania za realizację zadań na stan
 § 2.
 Traci moc rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2010 r. w sprawie szczegółowych kryteriów wynagradzania pracowników Biura Narodowego Centrum Badań i Rozwoju (Dz. U. z 2015 r. poz. 2158).
 § 3.
-Rozporządzenie wchodzi w życie po upływie 21 dni od dnia ogłoszenia.
-1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2255).
+Rozporządzenie wchodzi w życie po upływie 21 dni od dnia ogłoszenia. 1) Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2255).
 

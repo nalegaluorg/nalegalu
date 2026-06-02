@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-28 |
 | Data wydania | 2024-09-06 |
-| Wejście w życie | 2024-09-21 |
 | Ostatnia zmiana | 2024-09-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001332) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1332/text.pdf) |
 
@@ -84,5 +83,5 @@ informacje o okolicznościach uzasadniających udzielenie odroczenia;
 3)
 dokumenty potwierdzające stan faktyczny uzasadniający złożony wniosek.
 § 7.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 8 maja 2015 r. w sprawie warunków i trybu udzielania odroczeń zasadniczej służby wojskowej (Dz. U. poz. 809), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248). 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 8 maja 2015 r. w sprawie warunków i trybu udzielania odroczeń zasadniczej służby wojskowej (Dz. U. poz. 809), które utraciło moc z dniem 24 października 2023 r. zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248).
 

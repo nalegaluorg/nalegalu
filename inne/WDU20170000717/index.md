@@ -26,18 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/717/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 14 czerwca 2012 r. w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego Rozdział 1 – Przepisy ogólne Rozdział 2 – Warunki i sposób powoływania Komisji Lotnictwa Państwowego oraz tryb powoływania i odwoływania osób wchodzących w jej skład Rozdział 3 – Struktura organizacyjna oraz liczba członków Komisji Lotnictwa Państwowego Rozdział 4 – Regulamin działania Komisji Lotnictwa Państwowego Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 14 czerwca 2012 r. w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 14 czerwca 2012 r. w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego (Dz. U. z 2015 r. poz. 1294), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 4 lutego 2016 r. zmieniającym rozporządzenie w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego (Dz. U. poz. 148).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 4 lutego 2016 r. zmieniającego rozporządzenie w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego (Dz. U. poz. 148), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 4 lutego 2016 r. zmieniającego rozporządzenie w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego (Dz. U. poz. 148), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 14 czerwca 2012 r. w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego
 Na podstawie art. 140 ust. 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2016 r. poz. 605, 904, 1361 i 1948 oraz z 2017 r. poz. 60) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -48,18 +47,19 @@ tryb powoływania i odwoływania osób wchodzących w skład Komisji Lotnictwa P
 strukturę organizacyjną oraz liczbę członków Komisji Lotnictwa Państwowego;
 4)
 regulamin działania Komisji Lotnictwa Państwowego.
+Warunki i sposób powoływania Komisji Lotnictwa Państwowego oraz tryb powoływania i odwoływania osób wchodzących w jej skład
 § 2.
 Komisję Lotnictwa Państwowego powołuje w drodze decyzji Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw wewnętrznych, z dniem następującym po upływie kadencji dotychczasowej Komisji Lotnictwa Państwowego, na okres jednego roku.
 § 3.
 1.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. a rozporządzenia Ministra Obrony Narodowej z dnia 4 lutego 2016 r. zmieniającego rozporządzenie w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego (Dz. U. poz. 148), które weszło w życie z dniem 5 lutego 2016 r.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 1 lit. a rozporządzenia Ministra Obrony Narodowej z dnia 4 lutego 2016 r. zmieniającego rozporządzenie w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego (Dz. U. poz. 148), które weszło w życie z dniem 5 lutego 2016 r.
 3.
-(uchylony).
-4.
+(uchylony).Przez § 1 pkt 1 lit. a rozporządzenia Ministra Obrony Narodowej z dnia 4 lutego 2016 r. zmieniającego rozporządzenie w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego (Dz. U. poz. 148), które weszło w życie z dniem 5 lutego 2016 r.
+4W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Minister Obrony Narodowej powołuje przewodniczącego Komisji Lotnictwa Państwowego, I zastępcę przewodniczącego i sekretarza z jednostki organizacyjnej właściwej w zakresie bezpieczeństwa lotów podległej Ministrowi Obrony Narodowej, zwanej dalej „właściwą jednostką podległą MON”.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw wewnętrznych powołuje II zastępcę przewodniczącego Komisji Lotnictwa Państwowego z jednostki organizacyjnej właściwej w zakresie bezpieczeństwa lotów podległej ministrowi właściwemu do spraw wewnętrznych.
 § 4.
 1.
@@ -71,24 +71,25 @@ W przypadkach określonych w ust. 1 i 2, a także w przypadku śmierci członka 
 4.
 W przypadku akceptacji propozycji zmiany w składzie Komisji Lotnictwa Państwowego, o której mowa w ust. 3, Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw wewnętrznych, powołuje nowego członka Komisji Lotnictwa Państwowego do końca aktualnej kadencji Komisji Lotnictwa Państwowego.
 5.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1.
 6.
 W przypadku gdy przewodniczący Komisji Lotnictwa Państwowego uczestniczył w wypadku lub incydencie lotniczym, nadzorował lot lub mógł mieć wpływ na jego przebieg, obowiązki przewodniczącego Komisji Lotnictwa Państwowego w ramach badania tego wypadku lub incydentu lotniczego pełni jego zastępca.
-7.
+7W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Przełożeni członków Komisji Lotnictwa Państwowego, zatrudnionych albo pełniących służbę w jednostkach podległych Ministrowi Obrony Narodowej oraz ministrowi właściwemu do spraw wewnętrznych, są obowiązani oddelegować ich do udziału w jej posiedzeniach oraz do pracy w zespole badawczym na czas wykonywania niezbędnych czynności badawczych w trakcie badania wypadku lub incydentu lotniczego.
 8.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1.
+Struktura organizacyjna oraz liczba członków Komisji Lotnictwa Państwowego
 § 5.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 W skład Komisji Lotnictwa Państwowego wchodzi nie więcej niż 60 członków, lecz nie mniej niż 18, w tym przewodniczący, I i II zastępca przewodniczącego oraz sekretarz.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 W razie konieczności Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw wewnętrznych może powołać do składu Komisji Lotnictwa Państwowego inne osoby niezbędne do przeprowadzenia czynności badawczych.
 3.
 Przewodniczący Komisji Lotnictwa Państwowego wyznacza zespół badawczy w celu przeprowadzenia niezbędnych czynności badawczych, w szczególności zebrania dowodów i udokumentowania przebiegu wypadku lub incydentu lotniczego. Zespołem badawczym kieruje przewodniczący Komisji Lotnictwa Państwowego albo osoba wskazana przez niego spośród członków Komisji Lotnictwa Państwowego.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 W skład zespołu badawczego wchodzą członkowie Komisji Lotnictwa Państwowego oraz w razie potrzeby inne osoby niezbędne do przeprowadzenia czynności badawczych.
 5.
-(uchylony).
+(uchylony).Przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 1.
 6.
 Kierujący zespołem badawczym może wyznaczyć sekretarza zespołu oraz wydzielić podzespoły: lotniczy, techniczny, medyczny, inne – według potrzeb.
 § 6.
@@ -98,6 +99,7 @@ Siedziba Komisji Lotnictwa Państwowego mieści się w siedzibie właściwej jed
 Obsługę administracyjną oraz wyposażenie techniczne Komisji Lotnictwa Państwowego zapewnia właściwa jednostka podległa MON.
 3.
 Podczas badania wypadków i incydentów lotniczych zespół badawczy korzysta z pomocy jednostek lotniczych i innych instytucji, w których zaistniał wypadek lub incydent lotniczy.
+Regulamin działania Komisji Lotnictwa Państwowego
 § 7.
 Działaniami Komisji Lotnictwa Państwowego kieruje przewodniczący, a w razie jego nieobecności – jego zastępca.
 § 8.
@@ -165,7 +167,7 @@ Do obowiązków członków Komisji Lotnictwa Państwowego należy:
 prowadzenie w sposób rzetelny i obiektywny, z wykorzystaniem wszystkich dostępnych materiałów i informacji oraz własnej wiedzy i doświadczenia, badania wypadków i incydentów lotniczych w celu wyjaśnienia wszystkich okoliczności i przyczyn ich zaistnienia;
 2)
 formułowanie i zgłaszanie propozycji zaleceń wynikających z ustaleń i wniosków zespołu badawczego;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1.)
 uczestniczenie w posiedzeniach Komisji Lotnictwa Państwowego, poświęconych badaniu incydentów lub wypadków lotniczych, w których badanie byli zaangażowani;
 4)
 podnoszenie kwalifikacji z zakresu badania wypadków i incydentów lotniczych.
@@ -220,7 +222,7 @@ Przewodniczący Komisji Lotnictwa Państwowego po opracowaniu przez zespół bad
 Kierownik jednostki organizacyjnej, o której mowa w ust. 1, lub osoba przez niego upoważniona zapoznaje się z projektem raportu końcowego w siedzibie właściwej jednostki podległej MON w terminie 14 dni od dnia pisemnego powiadomienia.
 3.
 Przewodniczący Komisji Lotnictwa Państwowego w przypadkach szczególnie uzasadnionych może wyrazić zgodę na zapoznanie się z projektem raportu końcowego poza siedzibą właściwej jednostki podległej MON.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1..
 Kierownik jednostki organizacyjnej, o której mowa w ust. 1, albo osoba przez niego upoważniona może, w terminie 14 dni roboczych od dnia pisemnego powiadomienia o możliwości zapoznania się z projektem raportu końcowego, wnieść pisemne zastrzeżenia i uwagi do projektu raportu końcowego, mające na celu określenie okoliczności i przyczyn wypadku lub incydentu lotniczego potwierdzone własnoręcznym podpisem.
 5.
 Zastrzeżenia i uwagi, o których mowa w ust. 4, Komisja Lotnictwa Państwowego może uwzględnić lub odrzucić. W przypadku ich odrzucenia zastrzeżenia i uwagi załącza się do raportu końcowego.
@@ -270,7 +272,7 @@ Komisja Lotnictwa Państwowego bada wypadki i incydenty lotnicze w kolejności, 
 Przed upływem kadencji Komisja Lotnictwa Państwowego przekazuje materiały zebrane podczas badania wypadków i incydentów lotniczych właściwej jednostce podległej MON.
 2.
 Badanie wypadków i incydentów lotniczych niezakończone przed upływem kadencji Komisji Lotnictwa Państwowego kontynuuje nowo powołana Komisja Lotnictwa Państwowego.
-§ 28.
+§ 28W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1..
 1.
 Minister Obrony Narodowej może wznowić badanie wypadku lub incydentu lotniczego, gdy zostaną ujawnione nowe okoliczności lub dowody mogące mieć istotny wpływ na ich przyczyny.
 2.
@@ -285,6 +287,7 @@ Minister Obrony Narodowej wyznacza spośród osób wchodzących w skład Komisji
 Przewodniczący Komisji Lotnictwa Państwowego nie może ingerować w przebieg prac podkomisji i wyniki prac podkomisji.
 7.
 Raport z prac podkomisji przedstawiany jest Ministrowi Obrony Narodowej i Komisji Lotnictwa Państwowego.
+Przepisy przejściowe i końcowe
 § 29.
 Komisję Lotnictwa Państwowego pierwszej kadencji powoła w drodze decyzji Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw wewnętrznych, w terminie 2 miesięcy od dnia wejścia w życie niniejszego przepisu.
 § 30.
@@ -295,15 +298,25 @@ Badanie wypadków i incydentów lotniczych niezakończone przed dniem wejścia w
 2.
 Materiały zebrane podczas badania wypadków i incydentów lotniczych niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia przekazuje się Komisji Lotnictwa Państwowego powołanej w sposób określony w niniejszym rozporządzeniu.
 § 32.
-Rozporządzenie wchodzi w życie z upływem 2 miesięcy następujących po miesiącu ogłoszenia, z wyjątkiem przepisów § 3 ust. 2–5, § 29 i 30, które wchodzą w życie z pierwszym dniem miesiąca następującego po miesiącu ogłoszenia.
+Rozporządzenie wchodzi w życie z upływem 2 miesięcy następujących po miesiącu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 27 czerwca 2012 r., z wyjątkiem przepisów § 3 ust. 2–5, § 29 i 30, które wchodzą w życie z pierwszym dniem miesiąca następującego po miesiącu ogłoszeniaRozporządzenie zostało ogłoszone w dniu 27 czerwca 2012 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2004 r. w sprawie organizacji oraz zasad funkcjonowania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego (Dz. U. poz. 1464 oraz z 2010 r. poz. 442 i 470), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015). 1) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Obrony Narodowej z dnia 4 lutego 2016 r. zmieniającego rozporządzenie w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego (Dz. U. poz. 148), które weszło w życie z dniem 5 lutego 2016 r. 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 3) Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1. 5) Przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 1. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 1. 8) Przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 1. 9) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 10) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1. 11) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1. 12) Rozporządzenie zostało ogłoszone w dniu 27 czerwca 2012 r. 13) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 26 maja 2004 r. w sprawie organizacji oraz zasad funkcjonowania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego (Dz. U. poz. 1464 oraz z 2010 r. poz. 442 i 470), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 18 ustawy z dnia 30 czerwca 2011 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 1015).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Warunki i sposób powoływania Komisji Lotnictwa Państwowego oraz tryb powoływania i odwoływania osób wchodzących w jej skład
+#### Rozdział 2 – Warunki i sposób powoływania Komisji Lotnictwa Państwowego oraz tryb powoływania i odwoływania osób wchodzących w jej skład
 
-#### Rozdział 3 Struktura organizacyjna oraz liczba członków Komisji Lotnictwa Państwowego
+#### Rozdział 3 – Struktura organizacyjna oraz liczba członków Komisji Lotnictwa Państwowego
 
-#### Rozdział 4 Regulamin działania Komisji Lotnictwa Państwowego
+#### Rozdział 4 – Regulamin działania Komisji Lotnictwa Państwowego
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

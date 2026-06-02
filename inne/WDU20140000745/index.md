@@ -41,34 +41,26 @@ rozporządzeniem Ministra Finansów z dnia 8 marca 2013 r. zmieniającym rozporz
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Finansów z dnia 30 marca 2005 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. Nr 53, poz. 474), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów z dnia 30 marca 2005 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. Nr 53, poz. 474), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2005 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2005 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Finansów z dnia 13 września 2007 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. Nr 170, poz. 1196), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów z dnia 13 września 2007 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. Nr 170, poz. 1196), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 30 września 2007 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 30 września 2007 r. ” ;
 3)
-§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 8 września 2010 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. Nr 173, poz. 1171), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 8 września 2010 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. Nr 173, poz. 1171), które stanowią: „
 § 2.
 0,2% składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego za III i IV kwartał 2010 r. przeznacza się na realizację przez Fundusz zwrotnej pomocy finansowej, o której mowa w art. 99 ust. 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 30 września 2010 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 30 września 2010 r. ” ;
 4)
-§ 2 rozporządzenia Ministra Finansów z dnia 8 marca 2013 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. poz. 344), który stanowi:
-„
+§ 2 rozporządzenia Ministra Finansów z dnia 8 marca 2013 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. poz. 344), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 31 marca 2013 r.
-” .
-Załącznik – Rozporządzenie Ministra Finansów z dnia 24 listopada 2003 r. w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki
+Rozporządzenie wchodzi w życie z dniem 31 marca 2013 r. ” .
+Załącznik – Rozporządzenie Ministra Finansów z dnia 24 listopada 2003 r. w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składkiMinister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 248, poz. 1481).
 Na podstawie art. 117 ust. 5 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2013 r. poz. 392) zarządza się, co następuje:
-§ 1.
+§ 1W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów z dnia 8 marca 2013 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. poz. 344), które weszło w życie z dniem 31 marca 2013 r..
 Zakłady ubezpieczeń, o których mowa w art. 117 ust. 3 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, zwanej dalej „ustawą”, wnoszą na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego, zwanego dalej „Funduszem”, 1,3% przypisanej składki brutto w danym roku kalendarzowym z ubezpieczeń, o których mowa w art. 4 pkt 1 i 2 ustawy.
 § 2.
 Przepis § 1 stosuje się do zagranicznych zakładów ubezpieczeń, o których mowa w art. 117 ust. 3 ustawy, w odniesieniu od ubezpieczeń, o których mowa w art. 4 pkt 1 i 2 ustawy, których umowy zostały zawarte w związku z wykonywaniem działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej.
@@ -77,6 +69,5 @@ Składka określona w § 1 jest uiszczana przez zakłady ubezpieczeń i zagranic
 § 4.
 Do wpłat składki za IV kwartał 2003 r. stosuje się przepisy dotychczasowe.
 § 5.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.
-1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 248, poz. 1481). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów z dnia 8 marca 2013 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. poz. 344), które weszło w życie z dniem 31 marca 2013 r. 3) Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Finansów z dnia 12 kwietnia 2001 r. w sprawie wysokości procentu składki zainkasowanej brutto wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów wpłat (Dz. U. Nr 36, poz. 417 oraz z 2002 r. Nr 31, poz. 290).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Finansów z dnia 12 kwietnia 2001 r. w sprawie wysokości procentu składki zainkasowanej brutto wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów wpłat (Dz. U. Nr 36, poz. 417 oraz z 2002 r. Nr 31, poz. 290). 1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 248, poz. 1481). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów z dnia 8 marca 2013 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. poz. 344), które weszło w życie z dniem 31 marca 2013 r. 3) Z dniem wejścia w życie niniejszego rozporządzenia utraciło moc rozporządzenie Ministra Finansów z dnia 12 kwietnia 2001 r. w sprawie wysokości procentu składki zainkasowanej brutto wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów wpłat (Dz. U. Nr 36, poz. 417 oraz z 2002 r. Nr 31, poz. 290).
 

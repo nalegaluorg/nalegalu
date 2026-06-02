@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 25 lipca 2014 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz niektórych innych ustaw
+# Ustawa z dnia 25 lipca 2014 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-25 |
 | Data wydania | 2014-09-04 |
-| Wejście w życie | 2014-09-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001188) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1188/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2013 r. poz. 135, ze zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2013 r. poz. 135, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 154, 866 i 1650 oraz z 2014 r. poz. 619. Tekst jednolity nie uwzględnia zmiany ogłoszonej w Dz. U. z 2012 r. poz. 1519.) wprowadza się następujące zmiany:
 
 - **1)** po art. 4 dodaje się art. 4a w brzmieniu: „
 
@@ -83,7 +82,7 @@ source: "eli-html"
 1. Jeżeli podmiot, któremu wydano zezwolenie na prowadzenie placówki wsparcia dziennego:
 
 - **1)** przestał spełniać warunki określone w ustawie,
-- **2)** nie przedstawi na żądanie wójta albo starosty, w wyznaczonym terminie, aktualnych dokumentów, o których mowa w art. 19 wójt albo starosta wyznacza dodatkowy termin na spełnienie tych warunków albo na dostarczenie wymaganych dokumentów lub informacji.
+- **2)** nie przedstawi na żądanie wójta albo starosty, w wyznaczonym terminie, aktualnych dokumentów, o których mowa w art. 19 – wójt albo starosta wyznacza dodatkowy termin na spełnienie tych warunków albo na dostarczenie wymaganych dokumentów lub informacji.
 
 2. Po bezskutecznym upływie dodatkowego terminu, o którym mowa w ust. 1, wójt albo starosta cofa zezwolenie na prowadzenie placówki wsparcia dziennego. ” ;
 
@@ -223,8 +222,12 @@ source: "eli-html"
 
 **Art. 45.** Na wniosek kandydata do pełnienia funkcji rodziny zastępczej zawodowej, rodziny zastępczej niezawodowej lub prowadzenia rodzinnego domu dziecka, posiadającego świadectwo ukończenia szkolenia, o którym mowa w art. 44 ust. 1, organizator rodzinnej pieczy zastępczej właściwy ze względu na miejsce zamieszkania kandydata wydaje zaświadczenie kwalifikacyjne zawierające potwierdzenie ukończenia tego szkolenia oraz spełniania warunków, o których mowa w art. 42. ” ;
 
-- **20)** w art. 46: w ust. 2: – pkt 11 otrzymuje brzmienie: „ 11) dane niezbędne do stwierdzenia, że osoba może sprawować właściwą opiekę nad dzieckiem, wynikające z zaświadczenia lekarskiego oraz opinii, o których mowa w art. 42 ust. 1 pkt 5; ” , – pkt 13 i 14 otrzymują brzmienie: „ 13) liczbę umieszczonych dzieci i osób, o których mowa w art. 37 ust. 2 – w przypadku osób, o których mowa w ust. 1 pkt 2; 14) informację o pełnieniu przez rodzinę zastępczą zawodową funkcji pogotowia rodzinnego lub funkcji rodziny zastępczej zawodowej specjalistycznej. ” , ust. 3 otrzymuje brzmienie: „
+- **20)** w art. 46: w ust. 2: pkt 11 otrzymuje brzmienie: „
     - **a)**
+
+- **11)** dane niezbędne do stwierdzenia, że osoba może sprawować właściwą opiekę nad dzieckiem, wynikające z zaświadczenia lekarskiego oraz opinii, o których mowa w art. 42 ust. 1 pkt 5; ” , pkt 13 i 14 otrzymują brzmienie: „
+- **13)** liczbę umieszczonych dzieci i osób, o których mowa w art. 37 ust. 2 – w przypadku osób, o których mowa w ust. 1 pkt 2;
+- **14)** informację o pełnieniu przez rodzinę zastępczą zawodową funkcji pogotowia rodzinnego lub funkcji rodziny zastępczej zawodowej specjalistycznej. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Osoby, o których mowa w ust. 1, są obowiązane do poinformowania starosty o każdej zmianie danych, o których mowa w ust. 2, oraz do przedstawiania co 2 lata zaświadczenia lekarskiego o stanie zdrowia wystawionego przez lekarza podstawowej opieki zdrowotnej oraz opinii o posiadaniu predyspozycji i motywacji do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, wystawionej przez psychologa. ” , dodaje się ust. 5 w brzmieniu: „
@@ -240,7 +243,7 @@ source: "eli-html"
 - **2)** przekazanie, nie później niż w dniu poprzedzającym dzień przyjęcia dziecka, dokumentacji, o której mowa w art. 38a ust. 1 pkt 3–8. ” , ust. 2 i 3 otrzymują brzmienie: „
     - **b)**
 
-2. W przypadku umieszczenia w rodzinnej pieczy zastępczej dziecka wymagającego natychmiastowej pomocy lub umieszczenia dziecka w trybie art. 12a ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. Nr 180, poz. 1493, z późn. zm.) organizator rodzinnej pieczy zastępczej przekazuje rodzinie zastępczej lub prowadzącemu rodzinny dom dziecka informacje, o których mowa w art. 38a ust. 1 pkt 1 i 2, oraz dokumentację, o której mowa w art. 38a ust. 1 pkt 3–8, niezwłocznie po przyjęciu dziecka.
+2. W przypadku umieszczenia w rodzinnej pieczy zastępczej dziecka wymagającego natychmiastowej pomocy lub umieszczenia dziecka w trybie art. 12a ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. Nr 180, poz. 1493, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 206, poz. 1589, z 2010 r. Nr 28, poz. 146 i Nr 125, poz. 842 oraz z 2011 r. Nr 149, poz. 887.) organizator rodzinnej pieczy zastępczej przekazuje rodzinie zastępczej lub prowadzącemu rodzinny dom dziecka informacje, o których mowa w art. 38a ust. 1 pkt 1 i 2, oraz dokumentację, o której mowa w art. 38a ust. 1 pkt 3–8, niezwłocznie po przyjęciu dziecka.
 
 3. Niezależnie od dokumentacji i informacji, o których mowa w art. 38a ust. 1, rodzina zastępcza oraz prowadzący rodzinny dom dziecka mają prawo do uzyskania informacji oraz otrzymania lub wglądu do wszelkiej dostępnej dokumentacji, w tym prawnej i medycznej, dotyczących przyjętego dziecka. ” , dodaje się ust. 7 w brzmieniu: „
 
@@ -294,9 +297,11 @@ source: "eli-html"
 
 - **c)**
 
-2. W przypadku gdy organizatorem rodzinnej pieczy zastępczej jest powiatowe centrum pomocy rodzinie, w centrum tym tworzy się zespół do spraw rodzinnej pieczy zastępczej. ” , w ust. 4: – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) zapewnienie badań psychologicznych kandydatom do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka oraz rodzinom zastępczym i osobom prowadzącym rodzinne domy dziecka; ” , – po pkt 14 dodaje się pkt 14a w brzmieniu: „ 14a) zapewnianie koordynatorom rodzinnej pieczy zastępczej szkoleń mających na celu podnoszenie ich kwalifikacji; ” ;
+2. W przypadku gdy organizatorem rodzinnej pieczy zastępczej jest powiatowe centrum pomocy rodzinie, w centrum tym tworzy się zespół do spraw rodzinnej pieczy zastępczej. ” , w ust. 4: po pkt 3 dodaje się pkt 3a w brzmieniu: „
 
 - **d)**
+- **3a)** zapewnienie badań psychologicznych kandydatom do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka oraz rodzinom zastępczym i osobom prowadzącym rodzinne domy dziecka; ” , po pkt 14 dodaje się pkt 14a w brzmieniu: „
+- **14a)** zapewnianie koordynatorom rodzinnej pieczy zastępczej szkoleń mających na celu podnoszenie ich kwalifikacji; ” ;
 - **32)** w art. 77: w ust. 3 pkt 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -314,7 +319,7 @@ source: "eli-html"
 1b. W przypadku gdy po ukończeniu:
 
 - **1)** nauki w szkole ponadgimnazjalnej osoba, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2, została przyjęta w tym samym roku kalendarzowym na studia wyższe lub do zakładu kształcenia nauczycieli,
-- **2)** studiów pierwszego stopnia osoba, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2, została przyjęta w tym samym roku kalendarzowym na studia drugiego stopnia świadczenia oraz dodatki przysługujące rodzinie zastępczej oraz prowadzącemu rodzinny dom dziecka przysługują także za wrzesień. ” , uchyla się ust. 2;
+- **2)** studiów pierwszego stopnia osoba, która osiągnęła pełnoletność przebywając w pieczy zastępczej, o której mowa w art. 37 ust. 2, została przyjęta w tym samym roku kalendarzowym na studia drugiego stopnia – świadczenia oraz dodatki przysługujące rodzinie zastępczej oraz prowadzącemu rodzinny dom dziecka przysługują także za wrzesień. ” , uchyla się ust. 2;
     - **b)**
 
 - **35)** w art. 83: w ust. 1 pkt 1 otrzymuje brzmienie: „
@@ -381,7 +386,7 @@ source: "eli-html"
 - **8)** areszcie śledczym,
 - **9)** schronisku dla nieletnich,
 - **10)** zakładzie karnym,
-- **11)** zakładzie poprawczym dyrektor tej placówki może, pomimo przekroczenia dopuszczalnej liczby dzieci w placówce, za zezwoleniem wojewody, przyjąć kolejne dziecko. ” ;
+- **11)** zakładzie poprawczym – dyrektor tej placówki może, pomimo przekroczenia dopuszczalnej liczby dzieci w placówce, za zezwoleniem wojewody, przyjąć kolejne dziecko. ” ;
 - **42)** w art. 97: ust. 2 otrzymuje brzmienie: „
     - **a)**
 
@@ -460,8 +465,10 @@ source: "eli-html"
 
 3. W przypadku negatywnej ostatecznej oceny rodziny zastępczej albo prowadzącego rodzinny dom dziecka, kolejna ocena jest dokonywana nie później niż w terminie 6 miesięcy od dnia dokonania tej oceny. W przypadku kolejnej negatywnej ostatecznej oceny organizator rodzinnej pieczy zastępczej kieruje do sądu wniosek o uchylenie postanowienia o umieszczeniu dziecka w rodzinie zastępczej albo rodzinnym domu dziecka. ” ;
 
-- **53)** w art. 137: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W skład zespołu wchodzą: ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) rodzice dziecka, z wyjątkiem rodziców pozbawionych praw rodzicielskich; ” , ust. 2 otrzymuje brzmienie: „
+- **53)** w art. 137: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W skład zespołu wchodzą: ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
     - **a)**
+
+- **5a)** rodzice dziecka, z wyjątkiem rodziców pozbawionych praw rodzicielskich; ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Do udziału w posiedzeniu zespołu mogą być zapraszani w szczególności przedstawiciele: sądu właściwego ze względu na miejsce położenia placówki, właściwego powiatowego centrum pomocy rodzinie, ośrodka pomocy społecznej, Policji, ochrony zdrowia, instytucji oświatowych oraz organizacji społecznych statutowo zajmujących się problematyką rodziny i dziecka, a także osoby bliskie dziecku. ” ;
@@ -496,7 +503,7 @@ source: "eli-html"
 3. W przypadku gdy osoba usamodzielniana:
 
 - **1)** przebywa w domu pomocy społecznej albo placówce zapewniającej całodobową opiekę osobom niepełnosprawnym lub przewlekle chorym,
-- **2)** otrzymuje pomoc dla osób usamodzielnianych w rozumieniu przepisów o pomocy społecznej pomoc, o której mowa w ust. 1, nie przysługuje. ” ;
+- **2)** otrzymuje pomoc dla osób usamodzielnianych w rozumieniu przepisów o pomocy społecznej – pomoc, o której mowa w ust. 1, nie przysługuje. ” ;
 - **56)** w art. 143 ust. 2 otrzymuje brzmienie: „
 
 2. Wniosek o przyznanie pomocy na kontynuowanie nauki i pomocy na usamodzielnienie osoba usamodzielniana składa w powiecie właściwym do ponoszenia wydatków na finansowanie pomocy na kontynuowanie nauki i usamodzielnienie za pośrednictwem kierownika powiatowego centrum pomocy rodzinie powiatu właściwego ze względu na miejsce pobytu osoby usamodzielnianej. ” ;
@@ -537,8 +544,10 @@ source: "eli-html"
 
 - **11a)** prowadzenie szkoleń dla kandydatów do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka oraz wydawanie świadectw ukończenia tych szkoleń;
 - **11b)** prowadzenie szkoleń dla kandydatów do pełnienia funkcji dyrektora placówki opiekuńczo-wychowawczej typu rodzinnego oraz wydawanie świadectw ukończenia tych szkoleń; ” ;
-- **60)** w art. 161: w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ośrodek adopcyjny przetwarza następujące informacje dotyczące kandydatów do przysposobienia dziecka: ” , – pkt 10 otrzymuje brzmienie: „ 10) dane o stanie zdrowia niezbędne do stwierdzenia, że osoba może sprawować właściwą opiekę nad dzieckiem, wynikające z zaświadczenia lekarskiego o stanie zdrowia wystawionego przez lekarza podstawowej opieki zdrowotnej; ” , ust. 3 otrzymuje brzmienie: „
+- **60)** w art. 161: w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ośrodek adopcyjny przetwarza następujące informacje dotyczące kandydatów do przysposobienia dziecka: ” , pkt 10 otrzymuje brzmienie: „
     - **a)**
+
+- **10)** dane o stanie zdrowia niezbędne do stwierdzenia, że osoba może sprawować właściwą opiekę nad dzieckiem, wynikające z zaświadczenia lekarskiego o stanie zdrowia wystawionego przez lekarza podstawowej opieki zdrowotnej; ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. Ośrodek adopcyjny, w tym wojewódzki bank danych i centralny bank danych, oraz organ centralny, o którym mowa w art. 187 ust. 1 pkt 9, przetwarzają następujące informacje dotyczące dzieci zgłoszonych do przysposobienia:
@@ -581,7 +590,7 @@ source: "eli-html"
 
 - **1)** dokument potwierdzający zakwalifikowanie dziecka do przysposobienia krajowego,
 - **2)** kartę dziecka,
-- **3)** opinie i dokumentację, o których mowa w art. 139a zwane dalej „dokumentacją kwalifikacyjną”.
+- **3)** opinie i dokumentację, o których mowa w art. 139a – zwane dalej „dokumentacją kwalifikacyjną”.
 
 7. Ośrodek adopcyjny prowadzący wojewódzki bank danych, o którym mowa w ust. 6, w terminie 3 dni roboczych od dnia otrzymania dokumentacji kwalifikacyjnej, przekazuje tę dokumentację ośrodkom adopcyjnym na terenie województwa oraz ośrodkom adopcyjnym prowadzącym wojewódzkie banki danych w pozostałych województwach.
 
@@ -636,8 +645,11 @@ source: "eli-html"
 
 2. Metryka prowadzenia sprawy zawiera daty wykonania czynności, o których mowa w art. 164. ” ;
 
-- **63)** w art. 166: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Kwalifikacja dziecka do przysposobienia krajowego obejmuje: ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „ 5) dokonywaną przez psychologa analizę aktualnych więzi dziecka z bliskimi mu osobami; 6) analizę całościowej sytuacji dziecka w celu zbadania, czy przysposobienie leży w jego najlepszym interesie, dokonywaną na podstawie opinii, o których mowa w art. 139a ust. 1 pkt 1, 2, 4 i 5. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **63)** w art. 166: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Kwalifikacja dziecka do przysposobienia krajowego obejmuje: ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
     - **a)**
+
+- **5)** dokonywaną przez psychologa analizę aktualnych więzi dziecka z bliskimi mu osobami;
+- **6)** analizę całościowej sytuacji dziecka w celu zbadania, czy przysposobienie leży w jego najlepszym interesie, dokonywaną na podstawie opinii, o których mowa w art. 139a ust. 1 pkt 1, 2, 4 i 5. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Kwalifikacja dziecka do przysposobienia międzynarodowego obejmuje:
@@ -666,8 +678,10 @@ source: "eli-html"
 
 - **1)** przekazują, po zakwalifikowaniu dziecka do przysposobienia przez ośrodek adopcyjny prowadzący centralny bank danych, informację o dziecku pełnomocnikom organizacji lub ośrodków adopcyjnych licencjonowanych przez rządy innych państw;
 - **2)** umożliwiają kandydatowi zakwalifikowanemu przez te podmioty, po wydaniu przez organ centralny, o którym mowa w art. 187 ust. 1 pkt 9, zgody, o której mowa w art. 17 Konwencji z dnia 29 maja 1993 r. o ochronie dzieci i współpracy w dziedzinie przysposobienia międzynarodowego, kontakt z dzieckiem, chyba że przysposobienie następuje między członkami rodziny. ” ;
-- **66)** w art. 170: w ust. 1: – w pkt 2 dodaje się przecinek i pkt 3 w brzmieniu: „ 3) osoby, które już przysposobiły brata lub siostrę małoletniego ” , – część wspólna otrzymuje brzmienie: „ – ośrodek adopcyjny nie wszczyna postępowania w zakresie poszukiwania kandydatów do przysposobienia dziecka, o którym mowa w art. 164 ust. 5–9 i 15, a wszczęte zawiesza. ” , ust. 3 otrzymuje brzmienie: „
+- **66)** w art. 170: w ust. 1: w pkt 2 dodaje się przecinek i pkt 3 w brzmieniu: „
     - **a)**
+
+- **3)** osoby, które już przysposobiły brata lub siostrę małoletniego ” , część wspólna otrzymuje brzmienie: „ – ośrodek adopcyjny nie wszczyna postępowania w zakresie poszukiwania kandydatów do przysposobienia dziecka, o którym mowa w art. 164 ust. 5–9 i 15, a wszczęte zawiesza. ” , ust. 3 otrzymuje brzmienie: „
     - **b)**
 
 3. W przypadku gdy osoby wymienione w ust. 1 pkt 1 nie mają stałego pobytu na terytorium Rzeczypospolitej Polskiej, a dziecko w wyniku przysposobienia miałoby zmienić miejsce zamieszkania w Rzeczypospolitej Polskiej na miejsce zamieszkania w innym państwie, ośrodek adopcyjny, nie wszczynając postępowania w zakresie poszukiwania kandydatów do przysposobienia dziecka, o którym mowa w art. 164 ust. 5–9 i 15, albo zawieszając to postępowanie, przesyła posiadane dokumenty do ośrodka adopcyjnego prowadzącego centralny bank danych. ” ;
@@ -770,7 +784,7 @@ source: "eli-html"
 
 - **1)** 10% w pierwszym roku pobytu dziecka w pieczy zastępczej,
 - **2)** 30% w drugim roku pobytu dziecka w pieczy zastępczej,
-- **3)** 50% w trzecim roku i następnych latach pobytu dziecka w pieczy zastępczej średnich miesięcznych wydatków przeznaczonych na utrzymanie dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej albo interwencyjnym ośrodku preadopcyjnym. Przepisy ust. 2–4 i 7 stosuje się odpowiednio. ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
+- **3)** 50% w trzecim roku i następnych latach pobytu dziecka w pieczy zastępczej – średnich miesięcznych wydatków przeznaczonych na utrzymanie dziecka w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej albo interwencyjnym ośrodku preadopcyjnym. Przepisy ust. 2–4 i 7 stosuje się odpowiednio. ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
     - **b)**
 
 10a. Przepisów ust. 9 i 10 nie stosuje się w przypadku dzieci, o których mowa w ust. 8 pkt 2. ” , po ust. 13 dodaje się ust. 13a w brzmieniu: „
@@ -884,7 +898,7 @@ source: "eli-html"
 3. W przypadku niewyznaczenia przez jednostkę samorządu terytorialnego wykonawcy zastępczego w terminie, o którym mowa w ust. 2, wojewoda może wystąpić do sądu administracyjnego ze skargą na bezczynność organu jednostki samorządu terytorialnego. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia:
 
 - **1)** organizację i tryb przeprowadzania kontroli przez wojewodę,
-- **2)** wzór legitymacji uprawniającej do przeprowadzania kontroli uwzględniając konieczność zapewnienia odpowiedniego poziomu sprawowania kontroli nad realizacją zadań z zakresu wspierania rodziny i systemu pieczy zastępczej. W sprawach nieuregulowanych w niniejszym dziale stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. ” ;
+- **2)** wzór legitymacji uprawniającej do przeprowadzania kontroli – uwzględniając konieczność zapewnienia odpowiedniego poziomu sprawowania kontroli nad realizacją zadań z zakresu wspierania rodziny i systemu pieczy zastępczej. W sprawach nieuregulowanych w niniejszym dziale stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. ” ;
 - **88)** art. 198 otrzymuje brzmienie: „
 
 **Art. 198.**
@@ -932,7 +946,7 @@ source: "eli-html"
 - **8)** areszcie śledczym,
 - **9)** schronisku dla nieletnich,
 - **10)** zakładzie karnym,
-- **11)** zakładzie poprawczym dyrektor tej placówki może, pomimo przekroczenia dopuszczalnej liczby dzieci w placówce, za zezwoleniem wojewody, przyjąć kolejne dziecko. ” ;
+- **11)** zakładzie poprawczym – dyrektor tej placówki może, pomimo przekroczenia dopuszczalnej liczby dzieci w placówce, za zezwoleniem wojewody, przyjąć kolejne dziecko. ” ;
 - **93)** art. 231 otrzymuje brzmienie: „
 
 **Art. 231.** W placówkach opiekuńczo-wychowawczych, o których mowa w art. 229 ust. 1–3, w okresie 4 lat od dnia wejścia w życie niniejszej ustawy mogą być umieszczane dzieci powyżej 7. roku życia. Przepisy art. 95 ust. 2 stosuje się odpowiednio. ” ;
@@ -958,9 +972,9 @@ source: "eli-html"
 - **1)** umieszczonym w pieczy zastępczej, jego wychowania i reprezentowania w tych sprawach, a w szczególności w dochodzeniu świadczeń przeznaczonych na zaspokojenie jego potrzeb, należą do rodziny zastępczej, prowadzącego rodzinny dom dziecka albo kierującego placówką opiekuńczo-wychowawczą, regionalną placówką opiekuńczo-terapeutyczną lub interwencyjnym ośrodkiem preadopcyjnym;
 - **2)** pozbawionym opieki i wychowania rodziców umieszczonym w zakładzie opiekuńczo-leczniczym, w zakładzie pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej, jego wychowania i reprezentowania w tych sprawach, a w szczególności w dochodzeniu świadczeń przeznaczonych na zaspokojenie jego potrzeb, należą do kierującego odpowiednio zakładem opiekuńczo-leczniczym, zakładem pielęgnacyjno-opiekuńczym lub zakładem rehabilitacji leczniczej. ” .
 
-**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm.) w art. 10 dodaje się § 5 w brzmieniu: „
+**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166, 1342 i 1529, z 2013 r. poz. 1289 oraz z 2014 r. poz. 379, 567 i 897.) w art. 10 dodaje się § 5 w brzmieniu: „
 
-§ 5. Nie podlegają egzekucji świadczenia, dodatki i inne kwoty, o których mowa w art. 31 ust. 1, art. 80 ust. 1, art. 81, art. 83 ust. 1 i 4, art. 84 pkt 2 i 3 i art. 140 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2013 r. poz. 135, ze zm.) oraz środki finansowe na utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, o których mowa w art. 83 ust. 2 i art. 84 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej w części przysługującej na umieszczone w rodzinie zastępczej lub rodzinnym domu dziecka dzieci i osoby, które osiągnęły pełnoletność przebywając w pieczy zastępczej. ” . W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2012 r. poz. 1356, z 2013 r. poz. 1563 oraz z 2014 r. poz. 822) wprowadza się następujące zmiany:
+§ 5. Nie podlegają egzekucji świadczenia, dodatki i inne kwoty, o których mowa w art. 31 ust. 1, art. 80 ust. 1, art. 81, art. 83 ust. 1 i 4, art. 84 pkt 2 i 3 i art. 140 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2013 r. poz. 135, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 154, 866 i 1650 oraz z 2014 r. poz. 619 i 1188. Tekst jednolity nie uwzględnia zmiany ogłoszonej w Dz. U. z 2012 r. poz. 1519.) oraz środki finansowe na utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, o których mowa w art. 83 ust. 2 i art. 84 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej w części przysługującej na umieszczone w rodzinie zastępczej lub rodzinnym domu dziecka dzieci i osoby, które osiągnęły pełnoletność przebywając w pieczy zastępczej. ” . W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2012 r. poz. 1356, z 2013 r. poz. 1563 oraz z 2014 r. poz. 822) wprowadza się następujące zmiany:
 
 - **1)** w art. 93 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 - **3)** zadań realizowanych przez placówkę wsparcia dziennego, o której mowa w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, w ramach wojewódzkich programów profilaktyki i rozwiązywania problemów alkoholowych oraz Wojewódzkiego Programu, o którym mowa w art. 9 ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii. ” ;
@@ -969,11 +983,11 @@ source: "eli-html"
 **Art. 182.** Dochody z opłat za zezwolenia wydane na podstawie art. 18 lub art. 181 oraz dochody z opłat określonych w art. 111 wykorzystywane będą na realizację:
 
 - **1)** gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz Gminnych Programów, o których mowa w art. 10 ust. 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii,
-- **2)** zadań realizowanych przez placówkę wsparcia dziennego, o której mowa w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, w ramach gminnego programu profilaktyki i rozwiązywania problemów alkoholowych oraz Gminnych Programów, o których mowa w art. 10 ust. 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii i nie mogą być przeznaczane na inne cele. ” .
+- **2)** zadań realizowanych przez placówkę wsparcia dziennego, o której mowa w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, w ramach gminnego programu profilaktyki i rozwiązywania problemów alkoholowych oraz Gminnych Programów, o których mowa w art. 10 ust. 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii – i nie mogą być przeznaczane na inne cele. ” .
 
-**Art. 5.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.) w art. 88 dodaje się ust. 8 w brzmieniu: „ 8. W przypadku, gdy osoba usamodzielniana otrzymuje pomoc dla osób usamodzielnianych w rozumieniu przepisów o wspieraniu rodziny i systemie pieczy zastępczej pomoc, o której mowa w ust. 1, nie przysługuje. ” .
+**Art. 5.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650 oraz z 2014 r. poz. 567, 598, 1004 i 1146. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548.) w art. 88 dodaje się ust. 8 w brzmieniu: „ 8. W przypadku, gdy osoba usamodzielniana otrzymuje pomoc dla osób usamodzielnianych w rozumieniu przepisów o wspieraniu rodziny i systemie pieczy zastępczej pomoc, o której mowa w ust. 1, nie przysługuje. ” .
 
-**Art. 6.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24, 295, 496, 567, 619, 773, 1004, 1136, 1138, 1146 i 1175.) wprowadza się następujące zmiany:
 
 - **1)** w art. 18: w ust. 2 zdanie drugie otrzymuje brzmienie: „ W przypadku dziecka pozbawionego opieki i wychowania rodziców umieszczonego w zakładzie opiekuńczo-leczniczym, w zakładzie pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej przez sąd opłata ta wynosi nie mniej niż 200% najniższej emerytury. ” , ust. 3 otrzymuje brzmienie: „
     - **a)**
@@ -993,7 +1007,7 @@ source: "eli-html"
 
 6. Do okresów pobytu dziecka w zakładzie opiekuńczo-leczniczym, w zakładzie pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej, o których mowa w ust. 4, zalicza się okresy pobytu dziecka po dniu 1 stycznia 2012 r. w pieczy zastępczej.
 
-7. W przypadku gdy opłatę, o której mowa w ust. 2 zdanie drugie, poniósł powiat, rodzice dziecka umieszczonego w zakładzie opiekuńczo-leczniczym, w zakładzie pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej obowiązani są do zwrotu powiatowi kwoty poniesionej opłaty. Przepisy art. 193 ust. 2 i 6–8, art. 194 i art. 195 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2013 r. poz. 135, ze zm.), stosuje się odpowiednio. ” ;
+7. W przypadku gdy opłatę, o której mowa w ust. 2 zdanie drugie, poniósł powiat, rodzice dziecka umieszczonego w zakładzie opiekuńczo-leczniczym, w zakładzie pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej obowiązani są do zwrotu powiatowi kwoty poniesionej opłaty. Przepisy art. 193 ust. 2 i 6–8, art. 194 i art. 195 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2013 r. poz. 135, ze zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 154, 866 i 1650 oraz z 2014 r. poz. 619 i 1188. Tekst jednolity nie uwzględnia zmiany ogłoszonej w Dz. U. z 2012 r. poz. 1519.), stosuje się odpowiednio. ” ;
 
 - **2)** po art. 18 dodaje się art. 18a-18c w brzmieniu: „
 
@@ -1027,7 +1041,7 @@ source: "eli-html"
 **Art. 13.** Do spraw dotyczących:
 
 - **1)** akceptacji opiekuna usamodzielnienia,
-- **2)** zatwierdzania indywidualnego program usamodzielnienia przez kierownika powiatowego centrum pomocy rodzinie niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+- **2)** zatwierdzania indywidualnego program usamodzielnienia – przez kierownika powiatowego centrum pomocy rodzinie niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 14.** W stosunku do osób usamodzielnianych, które ukończyły 17. rok życia przed upływem 2 miesięcy od dnia wejścia w życie niniejszej ustawy, przepisy art. 145 ust. 2 ustawy, o której mowa w art. 1, stosuje się przepisy dotychczasowe.
 
@@ -1046,6 +1060,6 @@ source: "eli-html"
 - **1)** art. 1 pkt 16 lit. a, który wchodzi w życie po upływie miesiąca od dnia ogłoszenia;
 - **2)** art. 1 pkt 37, który wchodzi w życie pierwszego dnia drugiego miesiąca następującego po miesiącu ogłoszenia;
 - **3)** art. 1 pkt 4, pkt 31 lit. b, pkt 32 lit. b, pkt 85 lit. b w zakresie art. 196 ust. 6, pkt 86 lit. c i pkt 95 lit. b, które wchodzą w życie z dniem 1 stycznia 2015 r.;
-- **4)** art. 1 pkt 6 w zakresie art. 18b i pkt 7, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
+- **4)** art. 1 pkt 6 w zakresie art. 18b i pkt 7, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 154, 866 i 1650 oraz z 2014 r. poz. 619. Tekst jednolity nie uwzględnia zmiany ogłoszonej w Dz. U. z 2012 r. poz. 1519. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 206, poz. 1589, z 2010 r. Nr 28, poz. 146 i Nr 125, poz. 842 oraz z 2011 r. Nr 149, poz. 887. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166, 1342 i 1529, z 2013 r. poz. 1289 oraz z 2014 r. poz. 379, 567 i 897. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 154, 866 i 1650 oraz z 2014 r. poz. 619 i 1188. Tekst jednolity nie uwzględnia zmiany ogłoszonej w Dz. U. z 2012 r. poz. 1519. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650 oraz z 2014 r. poz. 567, 598, 1004 i 1146. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24, 295, 496, 567, 619, 773, 1004, 1136, 1138, 1146 i 1175. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 154, 866 i 1650 oraz z 2014 r. poz. 619 i 1188. Tekst jednolity nie uwzględnia zmiany ogłoszonej w Dz. U. z 2012 r. poz. 1519.
 
 

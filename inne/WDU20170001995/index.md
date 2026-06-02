@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastruktury i Budownictwaz dnia 4 października 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu w sprawie wypadków i incydentów lotniczych
+# Obwieszczenie Ministra Infrastruktury i Budownictwaz dnia 4 października 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu w sprawie wypadków i incydentów lotniczych Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,23 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001995) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1995/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Transportu z dnia 18 stycznia 2007 r. w sprawie wypadków i incydentów lotniczych Rozdział 1 – Przepisy ogólne Rozdział 2 – Sposób działania systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym i sposób prowadzenia bazy danych o zdarzeniach lotniczych Rozdział 3 – Szczegółowy sposób postępowania przy badaniu wypadków i incydentów lotniczych Rozdział 4 – Warunki i tryb przekazywania i udostępniania raportów wstępnych i informacji o wypadkach i incydentach lotniczych Rozdział 5 – Warunki i tryb udostępniania oraz publikowania raportów końcowych i zaleceń Komisji Rozdział 6 – Warunki i sposób działania systemu dobrowolnego zgłaszania o zdarzeniach lotniczych, jednostki lotnictwa cywilnego właściwe do przyjmowania takich poufnych zgłoszeń, sposób zapewnienia ochrony danych osobowych z tym związanych oraz forma i sposób udostępniania tych informacji Rozdział 7 – Wykazy zdarzeń lotniczych Rozdział 8 – Przepis końcowy
+Załącznik – Rozporządzenie Ministra Transportu z dnia 18 stycznia 2007 r. w sprawie wypadków i incydentów lotniczych
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Sposób działania systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym i sposób prowadzenia bazy danych o zdarzeniach lotniczych
+
+#### Rozdział 3 – Szczegółowy sposób postępowania przy badaniu wypadków i incydentów lotniczych
+
+#### Rozdział 4 – Warunki i tryb przekazywania i udostępniania raportów wstępnych i informacji o wypadkach i incydentach lotniczych
+
+#### Rozdział 5 – Warunki i tryb udostępniania oraz publikowania raportów końcowych i zaleceń Komisji
+
+#### Rozdział 6 – Warunki i sposób działania systemu dobrowolnego zgłaszania o zdarzeniach lotniczych, jednostki lotnictwa cywilnego właściwe do przyjmowania takich poufnych zgłoszeń, sposób zapewnienia ochrony danych osobowych z tym związanych oraz forma i sposób udostępniania tych informacji
+
+#### Rozdział 7 – Wykazy zdarzeń lotniczych
+
+#### Rozdział 8 – Przepis końcowy
 
 ## Załącznik nr 1 — – Wykaz przykładowych zdarzeń podlegających obowiązkowemu zgłaszaniu
 
@@ -36,15 +52,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu z dnia 18 stycznia 2007 r. w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 225), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającym rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
-Załącznik – Rozporządzenie Ministra Transportu z dnia 18 stycznia 2007 r. w sprawie wypadków i incydentów lotniczych
-Na podstawie art. 139 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089) zarządza się, co następuje:
-Rozdział 1 Przepisy ogólne
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
+Załącznik – Rozporządzenie Ministra Transportu z dnia 18 stycznia 2007 r. w sprawie wypadków i incydentów lotniczychObecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Budownictwa, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
+Rozporządzenie niniejsze wdraża dyrektywę Rady Unii Europejskiej 94/56/WE ustanawiającą podstawowe zasady regulujące postępowania w dochodzeniu przyczyn wypadków i zdarzeń w lotnictwie cywilnym (Dz. Urz. UE L 319 z 12.12.1994, str. 14 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 224) oraz dyrektywę 2003/42/WE Parlamentu Europejskiego i Rady w sprawie zgłaszania zdarzeń w lotnictwie cywilnym (Dz. Urz. UE L 167 z 04.07.2003, str. 23 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 331). Na podstawie art. 139 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
@@ -61,7 +75,8 @@ warunki i sposób działania systemu dobrowolnego zgłaszania o zdarzeniach lotn
 wykaz przykładowych zdarzeń podlegających obowiązkowemu zgłaszaniu;
 7)
 wykaz przykładowych poważnych incydentów lotniczych.
-Rozdział 2 Sposób działania systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym i sposób prowadzenia bazy danych o zdarzeniach lotniczych
+Rozdział 2
+Sposób działania systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym i sposób prowadzenia bazy danych o zdarzeniach lotniczych
 § 2.
 1.
 Zgłoszenie zdarzenia lotniczego może być dokonane przy użyciu każdego dostępnego środka łączności nie później niż 72 godziny od jego zaistnienia.
@@ -86,7 +101,8 @@ W przypadku zdarzeń, o których mowa w art. 135 ust. 4 ustawy z dnia 3 lipca 20
 Komputerową bazę danych systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym prowadzi się zgodnie z europejskim centralnym systemem koordynacji powiadamiania o zdarzeniach w lotnictwie (European Co-ordination Centre for Aviation Incident Reporting Systems – ECCAIRS).
 2.
 Baza danych, o której mowa w ust. 1, uzupełniana jest na bieżąco na podstawie danych zawartych w formularzach zawiadomienia o zdarzeniu lotniczym otrzymywanych zgodnie z art. 135a ustawy oraz w raportach Komisji.
-Rozdział 3 Szczegółowy sposób postępowania przy badaniu wypadków i incydentów lotniczych
+Rozdział 3
+Szczegółowy sposób postępowania przy badaniu wypadków i incydentów lotniczych
 § 4.
 1.
 Po otrzymaniu zgłoszenia o zaistnieniu zdarzenia lotniczego podlegającego badaniu Komisji, Przewodniczący Komisji wyznacza spośród członków Komisji kierującego zespołem badawczym oraz, w porozumieniu z nim, skład tego zespołu.
@@ -153,8 +169,7 @@ członkowie personelu lotniczego oraz osoby uczestniczące w szkoleniu lotniczym
 2)
 jednostki lub instytucje, których działalność jest bezpośrednio związana z badanym zdarzeniem,
 3)
-podmioty produkujące lub prowadzące obsługę techniczną statku powietrznego, jeżeli ustalona przyczyna lub ujawnione okoliczności wskazują lub mogą wskazywać na przyczynę techniczną zdarzenia
-w terminie 14 dni od dnia powiadomienia.
+podmioty produkujące lub prowadzące obsługę techniczną statku powietrznego, jeżeli ustalona przyczyna lub ujawnione okoliczności wskazują lub mogą wskazywać na przyczynę techniczną zdarzenia – w terminie 14 dni od dnia powiadomienia.
 3.
 Kierujący zespołem badawczym zapoznaje z projektem raportu końcowego podmioty, o których mowa w ust. 2, w siedzibie Komisji.
 4.
@@ -208,7 +223,7 @@ Raport końcowy powinien zostać sporządzony w jak najkrótszym czasie, o ile t
 Komisja przekazuje Prezesowi Urzędu dodatkową informację pozwalającą na identyfikację osób, o których mowa w raporcie końcowym z badania wypadku lotniczego. Dane zawarte w informacji podlegają ochronie zgodnie z przepisami o ochronie danych osobowych.
 § 22.
 1.
-Przedstawiciele pełnomocni państw obcych i ich doradcy mogą uczestniczyć w badaniu prowadzonym przez Komisję na warunkach określonych w załączniku nr 13 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212, z późn. zm.), zwanej dalej „Konwencją ICAO”, oraz w innych przepisach międzynarodowych, o których mowa w art. 3 ust. 4 ustawy.
+Przedstawiciele pełnomocni państw obcych i ich doradcy mogą uczestniczyć w badaniu prowadzonym przez Komisję na warunkach określonych w załączniku nr 13 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212, z późn. zm.Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1959 r. poz. 214, z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371.), zwanej dalej „Konwencją ICAO”, oraz w innych przepisach międzynarodowych, o których mowa w art. 3 ust. 4 ustawy.
 2.
 Przewodniczący Komisji może wyznaczyć pełnomocnego przedstawiciela, w celu uczestniczenia w badaniu zdarzenia lotniczego prowadzonego przez organy państw obcych, o czym informuje ministra właściwego do spraw transportu.
 3.
@@ -218,7 +233,8 @@ Przewodniczący Komisji może wyznaczyć jednego lub kilku doradców, spośród 
 Przewodniczący Komisji może złożyć ministrowi właściwemu do spraw transportu wniosek o wznowienie zakończonego badania w razie ujawnienia nowych faktów mogących mieć wpływ na ustalenie przyczyn i okoliczności zdarzenia.
 2.
 W przypadku wznowienia zakończonego badania przepisy rozdziałów 3, 4 i 5 stosuje się odpowiednio.
-Rozdział 4 Warunki i tryb przekazywania i udostępniania raportów wstępnych i informacji o wypadkach i incydentach lotniczych
+Rozdział 4
+Warunki i tryb przekazywania i udostępniania raportów wstępnych i informacji o wypadkach i incydentach lotniczych
 § 24.
 Komisja o przystąpieniu do badania zdarzenia lotniczego, w którym brał udział polski statek powietrzny, powiadamia:
 1)
@@ -251,19 +267,20 @@ Powiadomienie, o którym mowa w ust. 1, posiada formę informacji wstępnej okre
 3.
 Informację wstępną sporządza się w jednym z oficjalnych języków ICAO.
 § 26.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539), które weszło w życie z dniem 1 września 2017 r..
 Komisja przekazuje raporty wstępne Prezesowi Urzędu w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej, w jednym z formatów danych określonych w załączniku nr 2 do rozporządzenia Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych (Dz. U. z 2016 r. poz. 113 i 1744), albo w postaci papierowej.
 2.
 Raport wstępny sporządza się w formie pisemnej. Powinien on zawierać informacje o zdarzeniu, jak również o czynnikach mogących mieć ujemny wpływ na bezpieczeństwo lotów, które zostały ustalone do momentu jego sporządzenia.
 3.
-(uchylony).
-4.
+(uchylony).Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4.
+4Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 4..
 Komisja udostępnia na swojej stronie internetowej raporty wstępne z badania wypadku lotniczego, a w przypadku gdy jest to uzasadnione względami bezpieczeństwa wykonywania lotów – także z badania poważnego incydentu lotniczego.
 § 27.
 Kierujący zespołem badawczym, po uzgodnieniu z Przewodniczącym Komisji, niezależnie od sporządzenia raportu wstępnego, etapu badania czy formalnego zakończenia badania zdarzenia lotniczego, niezwłocznie przekazuje Prezesowi Urzędu informacje o okolicznościach i faktach mogących stanowić zagrożenie dla bezpiecznej eksploatacji statku powietrznego.
 § 28.
 Informacji dotyczących badanego zdarzenia lotniczego może udzielać, przy zachowaniu przepisów o ochronie danych osobowych, wyłącznie Przewodniczący Komisji lub kierujący zespołem badawczym.
-Rozdział 5 Warunki i tryb udostępniania oraz publikowania raportów końcowych i zaleceń Komisji
+Rozdział 5
+Warunki i tryb udostępniania oraz publikowania raportów końcowych i zaleceń Komisji
 § 29.
 1.
 Kopię raportu końcowego i uchwały w sprawie badania zdarzenia lotniczego przeprowadzonego przez Komisję przekazuje się:
@@ -302,10 +319,11 @@ Raporty przesyłane za granicę sporządza się w jednym z oficjalnych języków
 1.
 Raporty końcowe z przeprowadzonych badań Komisja umieszcza na swoich stronach internetowych.
 2.
-(uchylony).
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.
 3.
-(uchylony).
-Rozdział 6 Warunki i sposób działania systemu dobrowolnego zgłaszania o zdarzeniach lotniczych, jednostki lotnictwa cywilnego właściwe do przyjmowania takich poufnych zgłoszeń, sposób zapewnienia ochrony danych osobowych z tym związanych oraz forma i sposób udostępniania tych informacji
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.
+Rozdział 6
+Warunki i sposób działania systemu dobrowolnego zgłaszania o zdarzeniach lotniczych, jednostki lotnictwa cywilnego właściwe do przyjmowania takich poufnych zgłoszeń, sposób zapewnienia ochrony danych osobowych z tym związanych oraz forma i sposób udostępniania tych informacji
 § 32.
 1.
 System dobrowolnego zgłaszania o zdarzeniach lotniczych prowadzi, przy zachowaniu zasady poufności, Prezes Urzędu, w postaci komputerowej bazy danych umożliwiającej gromadzenie i analizowanie danych o zdarzeniach.
@@ -334,15 +352,16 @@ informacje mające znaczenie dla analizy zdarzenia.
 W systemie, o którym mowa w § 32, nie rejestruje się źródeł informacji ani danych o osobach uczestniczących w zdarzeniu, a zawarte w nim dane powinny być zabezpieczone przed dostępem osób trzecich.
 4.
 Informacje zawarte w bazie danych mogą być wykorzystywane tylko w celu poprawy bezpieczeństwa lotów w lotnictwie cywilnym i są udostępniane w formie opracowań statystycznych, wraz z wnioskami i zaleceniami profilaktycznymi w zakresie zarządzania bezpieczeństwem lotów.
-Rozdział 7 Wykazy zdarzeń lotniczych
+Rozdział 7
+Wykazy zdarzeń lotniczych
 § 34.
 Wykaz przykładowych zdarzeń podlegających obowiązkowemu zgłaszaniu określa załącznik nr 1 do rozporządzenia.
 § 35.
 Wykaz przykładowych poważnych incydentów lotniczych określa załącznik nr 2 do rozporządzenia.
-Rozdział 8 Przepis końcowy
+Rozdział 8
+Przepis końcowy
 § 36.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Budownictwa, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076). 2) Rozporządzenie niniejsze wdraża dyrektywę Rady Unii Europejskiej 94/56/WE ustanawiającą podstawowe zasady regulujące postępowania w dochodzeniu przyczyn wypadków i zdarzeń w lotnictwie cywilnym (Dz. Urz. UE L 319 z 12.12.1994, str. 14 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 224) oraz dyrektywę 2003/42/WE Parlamentu Europejskiego i Rady w sprawie zgłaszania zdarzeń w lotnictwie cywilnym (Dz. Urz. UE L 167 z 04.07.2003, str. 23 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 331). 3) Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1959 r. poz. 214, z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539), które weszło w życie z dniem 1 września 2017 r. 5) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4. 6) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 4. 7) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 8) Rozporządzenie zostało ogłoszone w dniu 27 lutego 2007 r. 9) Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Infrastruktury z dnia 4 czerwca 2003 r. w sprawie badania wypadków i incydentów lotniczych (Dz. U. poz. 1230), które utraciło moc z dniem 1 lipca 2006 r. na podstawie art. 4 ust. 1 ustawy z dnia 28 lipca 2005 r. o zmianie ustawy – Prawo lotnicze (Dz. U. poz. 1490).
+Rozporządzenie wchodzi w życie z dniem ogłoszeniaRozporządzenie zostało ogłoszone w dniu 27 lutego 2007 r..Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Infrastruktury z dnia 4 czerwca 2003 r. w sprawie badania wypadków i incydentów lotniczych (Dz. U. poz. 1230), które utraciło moc z dniem 1 lipca 2006 r. na podstawie art. 4 ust. 1 ustawy z dnia 28 lipca 2005 r. o zmianie ustawy – Prawo lotnicze (Dz. U. poz. 1490). 1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Budownictwa, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076). 2) Rozporządzenie niniejsze wdraża dyrektywę Rady Unii Europejskiej 94/56/WE ustanawiającą podstawowe zasady regulujące postępowania w dochodzeniu przyczyn wypadków i zdarzeń w lotnictwie cywilnym (Dz. Urz. UE L 319 z 12.12.1994, str. 14 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 224) oraz dyrektywę 2003/42/WE Parlamentu Europejskiego i Rady w sprawie zgłaszania zdarzeń w lotnictwie cywilnym (Dz. Urz. UE L 167 z 04.07.2003, str. 23 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 331). 3) Zmiany wymienionej umowy zostały ogłoszone w Dz. U. z 1959 r. poz. 214, z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701 oraz z 2012 r. poz. 368, 369, 370 i 371. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539), które weszło w życie z dniem 1 września 2017 r. 5) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4. 6) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 4. 7) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 8) Rozporządzenie zostało ogłoszone w dniu 27 lutego 2007 r. 9) Niniejsze rozporządzenie poprzedzone było rozporządzeniem Ministra Infrastruktury z dnia 4 czerwca 2003 r. w sprawie badania wypadków i incydentów lotniczych (Dz. U. poz. 1230), które utraciło moc z dniem 1 lipca 2006 r. na podstawie art. 4 ust. 1 ustawy z dnia 28 lipca 2005 r. o zmianie ustawy – Prawo lotnicze (Dz. U. poz. 1490).
 
 ## Załącznik nr 1 — – Wykaz przykładowych zdarzeń podlegających obowiązkowemu zgłaszaniu
 
@@ -482,8 +501,7 @@ zderzenie z ptakiem, które spowodowało uszkodzenia statku powietrznego albo ut
 c)
 wlot statku powietrznego w turbulencję w śladzie aerodynamicznym,
 d)
-wszelkie inne zdarzenia dowolnego rodzaju, uznane za zagrażające lub za takie, które mogłyby zagrozić statkowi powietrznemu, osobom znajdującym się na jego pokładzie lub na ziemi.
-Zagadnienia techniczne statku powietrznego
+wszelkie inne zdarzenia dowolnego rodzaju, uznane za zagrażające lub za takie, które mogłyby zagrozić statkowi powietrznemu, osobom znajdującym się na jego pokładzie lub na ziemi. Zagadnienia techniczne statku powietrznego
 1)
 Konstrukcyjne: Nie wszystkie uszkodzenia konstrukcji wymagają zgłaszania. Podjęcie decyzji, czy uszkodzenie jest wystarczająco poważne, aby wymagało zgłaszania, wymaga przeprowadzenia oceny technicznej. Można tu wziąć pod uwagę następujące przykłady:
 a)
@@ -531,8 +549,7 @@ nieprawidłowe działanie lub wada któregokolwiek z systemów wskaźnikowych, j
 m)
 wszelkie uszkodzenia, wadliwe działanie lub wady, jeśli występują w krytycznej fazie lotu i są związane z pracą systemu,
 n)
-znaczny, w porównaniu z parametrami zatwierdzonymi, spadek parametrów bieżących, który powoduje niebezpieczną sytuację (z uwzględnieniem dokładności metody obliczeń parametrów) z działaniem hamującym, zużyciem paliwa itp. włącznie.
-Systemy szczególne
+znaczny, w porównaniu z parametrami zatwierdzonymi, spadek parametrów bieżących, który powoduje niebezpieczną sytuację (z uwzględnieniem dokładności metody obliczeń parametrów) z działaniem hamującym, zużyciem paliwa itp. włącznie. Systemy szczególne
 3)
 Klimatyzacja/wentylacja:
 a)
@@ -760,8 +777,7 @@ zdarzenie zwykle nieuważane za podlegające zgłoszeniu (np. umeblowanie i wypo
 c)
 pożar, wybuch, dym lub opary toksyczne albo szkodliwe,
 d)
-każde inne zdarzenie, które mogłoby stworzyć zagrożenie dla statku powietrznego, wpłynąć na bezpieczeństwo osób znajdujących się na jego pokładzie, czy też osób lub mienia w jego pobliżu albo na ziemi.
-Obsługa i naprawy statku powietrznego
+każde inne zdarzenie, które mogłoby stworzyć zagrożenie dla statku powietrznego, wpłynąć na bezpieczeństwo osób znajdujących się na jego pokładzie, czy też osób lub mienia w jego pobliżu albo na ziemi. Obsługa i naprawy statku powietrznego
 1)
 Stwierdzony, w trakcie nieprzewidywanej do tego celu szczególnej procedury inspekcji lub badań, nieprawidłowy montaż części lub podzespołów statku powietrznego.
 2)
@@ -791,14 +807,65 @@ Produkty, części, przyrządy i materiały pochodzenia nieznanego lub podejrzan
 9)
 Mylące, nieprawidłowe lub niewystarczające dane lub procedury, mogące prowadzić do błędów w obsłudze technicznej.
 10)
-Jakiekolwiek uszkodzenie, wadliwe działanie lub wada urządzeń naziemnych wykorzystywanych do badania lub sprawdzania systemów i wyposażenia statku powietrznego, gdy wymagana inspekcja okresowa i procedury testowania nie zidentyfikowały jednoznacznie problemu i powstaje sytuacja niebezpieczna.
-Służby żeglugi powietrznej, wyposażenie i służby naziemne
+Jakiekolwiek uszkodzenie, wadliwe działanie lub wada urządzeń naziemnych wykorzystywanych do badania lub sprawdzania systemów i wyposażenia statku powietrznego, gdy wymagana inspekcja okresowa i procedury testowania nie zidentyfikowały jednoznacznie problemu i powstaje sytuacja niebezpieczna. Służby żeglugi powietrznej, wyposażenie i służby naziemne
 I.
 Służby nawigacji lotniczej (ANS)
 – pomimo, iż w niniejszym wykazie podano większość podlegających zgłoszeniu zdarzeń, ich lista może nie być wyczerpująca. Należy zgłaszać również inne zdarzenia, uznane przez zainteresowanych za spełniające podane kryteria;
 – niniejszy wykaz nie obejmuje wypadków i poważnych incydentów. Oprócz innych wymagań dotyczących zgłaszania o wypadkach, należy je rejestrować w bazie danych;
 – niniejszy wykaz obejmuje zdarzenia w służbach żeglugi powietrznej (ANS) stwarzające bieżące lub potencjalne zagrożenie dla bezpieczeństwa lotów lub mogące pogorszyć bezpieczeństwo wynikające z działalności służb żeglugi powietrznej (ANS);
-– treść niniejszego wykazu nie stanowi przeszkody do zgłaszania jakiegokolwiek zdarzenia, sytuacji lub warunków, które, jeśli powtórzą się w innych, ale podobnych okolicznościach lub zostaną pozostawione bez skorygowania, mogą stwarzać zagrożenie dla bezpieczeństwa statku powietrznego. 1) Zdarzenia bliskie kolizji (obejmujące sytuacje szczególne, gdy jeden statek powietrzny oraz inny statek powietrzny lub ziemia, pojazd, osoba albo obiekt są odbierane jako znajdujące się zbyt blisko siebie): a) naruszenie minimalnej separacji, b) niewystarczająca separacja, c) nieomal zderzenie z ziemią w locie sterowanym ( near CFIT ), d) wtargnięcie na drogę startową, co spowodowało konieczność podjęcia działania w celu uniknięcia skutków tego zdarzenia. 2) Potencjalna kolizja lub nieomal kolizja obejmująca szczególne sytuacje, które prowadzą do wypadku lub kolizji, jeśli w pobliżu znajduje się inny statek powietrzny: a) wtargnięcie na drogę startową, kiedy podejmowanie działania w celu uniknięcia skutków tego zdarzenia nie było konieczne, b) wypadnięcie z drogi startowej, c) odchylenie od zezwolenia wydanego przez kontrolę ruchu lotniczego (ATC), d) naruszenie przepisów zarządzania ruchem lotniczym (ATM) przez załogę statku powietrznego: – naruszenie przez załogę statku powietrznego odpowiednich, opublikowanych procedur ATM, – bezprawne wejście w przestrzeń powietrzną, – odstąpienie od procedur wymaganych przez ATM w zakresie wyposażenia statku powietrznego i postępowania załogi. 3) Zdarzenia specyficzne dla ATM (obejmujące sytuacje mające wpływ na zapewnienie przez służby ATM właściwego poziomu bezpieczeństwa statku powietrznego, włączając sytuacje, w wyniku których brak zagrożenia bezpieczeństwa operacji statku powietrznego wynikało tylko z przypadku). Obejmują one następujące zagadnienia: a) niemożność zapewnienia służb ATM: – niemożność zapewnienia służb ruchu lotniczego (ATS), – niemożność zapewnienia służb zarządzania przestrzenią powietrzną (ASM), – niemożność zapewnienia służb zarządzania przepływem ruchu lotniczego, b) uszkodzenie funkcji komunikacyjnych, c) uszkodzenie funkcji nadzoru, d) uszkodzenie funkcji przetwarzania i dystrybucji danych, e) uszkodzenie funkcji nawigacyjnych, f) naruszenia zabezpieczeń systemu ATM. 4) Dostarczanie w znacznym stopniu nieprawidłowych, nieodpowiednich lub mylnych informacji przez jakąkolwiek służbę naziemną, np. kontrolę ruchu lotniczego (ATC), służbę automatycznej informacji lotniskowej (ATIS), służby meteorologiczne, nawigacyjne bazy danych, mapy, arkusze, podręczniki. 5) Wydanie zgody na wykonanie lotu na wysokości nad terenem mniejszej niż dopuszczalna. 6) Dostarczenie nieprawidłowych danych dotyczących ciśnienia atmosferycznego (dotyczy ustawień wysokościomierza). 7) Nieprawidłowe nadawanie, odbiór lub interpretacja ważnych komunikatów, jeżeli może to prowadzić do sytuacji niebezpiecznych. 8) Niezgodna z prawem transmisja radiokomunikacyjna. 9) Uszkodzenie naziemnych lub satelitarnych instalacji lotniczego systemu nawigacyjnego.
+treść niniejszego wykazu nie stanowi przeszkody do zgłaszania jakiegokolwiek zdarzenia, sytuacji lub warunków, które, jeśli powtórzą się w innych, ale podobnych okolicznościach lub zostaną pozostawione bez skorygowania, mogą stwarzać zagrożenie dla bezpieczeństwa statku powietrznego.
+1)
+Zdarzenia bliskie kolizji (obejmujące sytuacje szczególne, gdy jeden statek powietrzny oraz inny statek powietrzny lub ziemia, pojazd, osoba albo obiekt są odbierane jako znajdujące się zbyt blisko siebie):
+a)
+naruszenie minimalnej separacji,
+b)
+niewystarczająca separacja,
+c)
+nieomal zderzenie z ziemią w locie sterowanym ( near CFIT ),
+d)
+wtargnięcie na drogę startową, co spowodowało konieczność podjęcia działania w celu uniknięcia skutków tego zdarzenia.
+2)
+Potencjalna kolizja lub nieomal kolizja obejmująca szczególne sytuacje, które prowadzą do wypadku lub kolizji, jeśli w pobliżu znajduje się inny statek powietrzny:
+a)
+wtargnięcie na drogę startową, kiedy podejmowanie działania w celu uniknięcia skutków tego zdarzenia nie było konieczne,
+b)
+wypadnięcie z drogi startowej,
+c)
+odchylenie od zezwolenia wydanego przez kontrolę ruchu lotniczego (ATC),
+d)
+naruszenie przepisów zarządzania ruchem lotniczym (ATM) przez załogę statku powietrznego:
+– naruszenie przez załogę statku powietrznego odpowiednich, opublikowanych procedur ATM,
+– bezprawne wejście w przestrzeń powietrzną,
+– odstąpienie od procedur wymaganych przez ATM w zakresie wyposażenia statku powietrznego i postępowania załogi.
+3)
+Zdarzenia specyficzne dla ATM (obejmujące sytuacje mające wpływ na zapewnienie przez służby ATM właściwego poziomu bezpieczeństwa statku powietrznego, włączając sytuacje, w wyniku których brak zagrożenia bezpieczeństwa operacji statku powietrznego wynikało tylko z przypadku). Obejmują one następujące zagadnienia:
+a)
+niemożność zapewnienia służb ATM:
+– niemożność zapewnienia służb ruchu lotniczego (ATS),
+– niemożność zapewnienia służb zarządzania przestrzenią powietrzną (ASM),
+– niemożność zapewnienia służb zarządzania przepływem ruchu lotniczego,
+b)
+uszkodzenie funkcji komunikacyjnych,
+c)
+uszkodzenie funkcji nadzoru,
+d)
+uszkodzenie funkcji przetwarzania i dystrybucji danych,
+e)
+uszkodzenie funkcji nawigacyjnych,
+f)
+naruszenia zabezpieczeń systemu ATM.
+4)
+Dostarczanie w znacznym stopniu nieprawidłowych, nieodpowiednich lub mylnych informacji przez jakąkolwiek służbę naziemną, np. kontrolę ruchu lotniczego (ATC), służbę automatycznej informacji lotniskowej (ATIS), służby meteorologiczne, nawigacyjne bazy danych, mapy, arkusze, podręczniki.
+5)
+Wydanie zgody na wykonanie lotu na wysokości nad terenem mniejszej niż dopuszczalna.
+6)
+Dostarczenie nieprawidłowych danych dotyczących ciśnienia atmosferycznego (dotyczy ustawień wysokościomierza).
+7)
+Nieprawidłowe nadawanie, odbiór lub interpretacja ważnych komunikatów, jeżeli może to prowadzić do sytuacji niebezpiecznych.
+8)
+Niezgodna z prawem transmisja radiokomunikacyjna.
+9)
+Uszkodzenie naziemnych lub satelitarnych instalacji lotniczego systemu nawigacyjnego.
 II.
 Obiekty i służby naziemne
 1)

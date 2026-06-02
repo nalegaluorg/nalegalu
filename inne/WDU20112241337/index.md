@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw
+# Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawę z dnia 1 lipca 2011 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-18 |
 | Data wydania | 2011-10-19 |
-| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112241337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1337/text.pdf) |
 
 Załącznik – Wykaz parków narodowych
 
-**Art. 1.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549 i Nr 208, poz. 1241.) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 pkt 22 otrzymuje brzmienie: „
 - **22)** udostępnianie – umożliwianie korzystania z parku narodowego, rezerwatu przyrody lub niektórych ich obszarów i obiektów w celach naukowych, edukacyjnych, turystycznych, rekreacyjnych, sportowych, filmowania, fotografowania, a także w celach zarobkowych; ” ;
@@ -37,7 +36,7 @@ Załącznik – Wykaz parków narodowych
 
 **Art. 8a.**
 
-1. Park narodowy jest państwową osobą prawną w rozumieniu art. 9 pkt 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.).
+1. Park narodowy jest państwową osobą prawną w rozumieniu art. 9 pkt 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 185, poz. 1092 i Nr 201, poz. 1183.).
 
 2. Wykaz parków narodowych stanowi załącznik do ustawy.
 
@@ -47,13 +46,13 @@ Załącznik – Wykaz parków narodowych
 - **2)** udostępnianie obszaru parku narodowego na zasadach określonych w planie ochrony, o którym mowa w art. 18, lub zadaniach ochronnych, o których mowa w art. 22, i w zarządzeniach dyrektora parku narodowego;
 - **3)** prowadzenie działań związanych z edukacją przyrodniczą.
 
-2. Parki narodowe mogą wykonywać działalność gospodarczą na zasadach określonych w przepisach ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.), z ograniczeniami wynikającymi z ustawy.
+2. Parki narodowe mogą wykonywać działalność gospodarczą na zasadach określonych w przepisach ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593 oraz z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175 i Nr 204, poz. 1195.), z ograniczeniami wynikającymi z ustawy.
 
 1. Organem parku narodowego jest dyrektor parku narodowego.
 
 2. Dyrektor parku narodowego jest powoływany przez ministra właściwego do spraw środowiska, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, oraz przez niego odwoływany. W przypadku odwołania dyrektora parku narodowego minister właściwy do spraw środowiska z dniem odwołania może powierzyć pełnienie jego obowiązków zastępcy dyrektora parku narodowego do czasu powołania dyrektora parku narodowego, jednak na okres nie dłuższy niż 6 miesięcy.
 
-3. Powołanie, o którym mowa w ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
+3. Powołanie, o którym mowa w ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700 oraz z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855 i Nr 149, poz. 887.).
 
 4. Stanowisko dyrektora parku narodowego może zajmować osoba, która:
 
@@ -239,13 +238,13 @@ Załącznik – Wykaz parków narodowych
 
 3. Przy wydawaniu decyzji, o której mowa w ust. 1, bierze się pod uwagę w szczególności wpływ sposobu rozporządzenia nieruchomością na przyrodę parku narodowego oraz jej zgodność z celami, o których mowa w art. 8 ust. 2.
 
-4. Minister właściwy do spraw środowiska może zlecić sporządzenie dodatkowej wyceny nieruchomości lub wystąpić do organizacji zawodowej rzeczoznawców majątkowych o dokonanie oceny prawidłowości wyceny, o której mowa w ust. 2 pkt 5, zgodnie z przepisami art. 157 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.).
+4. Minister właściwy do spraw środowiska może zlecić sporządzenie dodatkowej wyceny nieruchomości lub wystąpić do organizacji zawodowej rzeczoznawców majątkowych o dokonanie oceny prawidłowości wyceny, o której mowa w ust. 2 pkt 5, zgodnie z przepisami art. 157 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323 oraz z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789, Nr 163, poz. 981 i Nr 187, poz. 1110.).
 
 5. Czynność prawna dokonana z naruszeniem obowiązku określonego w ust. 1 jest nieważna.
 
 6. Z powództwem o stwierdzenie nieważności czynności prawnej dokonanej z naruszeniem obowiązku określonego w ust. 1, oprócz osób mających w tym interes prawny, może wystąpić minister właściwy do spraw środowiska.
 
-7. Do rozporządzania przez park narodowy składnikami aktywów trwałych w rozumieniu przepisów o rachunkowości nie stosuje się przepisów art. 5a-5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.).
+7. Do rozporządzania przez park narodowy składnikami aktywów trwałych w rozumieniu przepisów o rachunkowości nie stosuje się przepisów art. 5a-5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538, z 2006 r. Nr 107, poz. 721, z 2009 r. Nr 157, poz. 1241 i Nr 206, poz. 1590, z 2010 r. Nr 229, poz. 1496 oraz z 2011 r. Nr 34, poz. 171, Nr 122, poz. 695 i Nr 185, poz. 1092.).
 
 8. Zawarcie przez park narodowy umowy dotyczącej rozporządzania nieruchomościami następuje w drodze przetargu, z zastrzeżeniem art. 10b. Umowa dotycząca rozporządzenia nieruchomością jest zawierana w drodze bezprzetargowej, jeżeli:
 
@@ -297,7 +296,7 @@ Załącznik – Wykaz parków narodowych
 - **3)** sposób ustalania wysokości wadium oraz terminy i formy jego wnoszenia i zwrotu,
 - **4)** sposób sporządzania protokołu z przeprowadzonego przetargu oraz zakres informacji w nim zawartych,
 - **5)** tryb postępowania w przypadku zaskarżenia czynności związanych z przeprowadzeniem przetargu,
-- **6)** tryb postępowania przy przeprowadzaniu rokowań uwzględniając konieczność zapewnienia jawności i jednolitości tych postępowań, równego dostępu do udziału w przetargu oraz uzyskania najkorzystniejszego wyniku przetargu. ” ;
+- **6)** tryb postępowania przy przeprowadzaniu rokowań – uwzględniając konieczność zapewnienia jawności i jednolitości tych postępowań, równego dostępu do udziału w przetargu oraz uzyskania najkorzystniejszego wyniku przetargu. ” ;
 - **7)** w art. 12: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
@@ -307,11 +306,14 @@ Załącznik – Wykaz parków narodowych
 
 9. Opłaty pobierane za wstęp do parku narodowego, o których mowa w ust. 3, w wysokości 15% dochodów za każdy kwartał, przeznacza się na dofinansowanie działalności ratowniczej specjalistycznych organizacji ratowniczych – Górskiego Ochotniczego Pogotowia Ratunkowego oraz Tatrzańskiego Ochotniczego Pogotowia Ratunkowego, działających na terenie danego parku narodowego. ” ;
 
-- **8)** w art. 15: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) budowy lub przebudowy obiektów budowlanych i urządzeń technicznych, z wyjątkiem obiektów i urządzeń służących celom parku narodowego albo rezerwatu przyrody; ” , – pkt 18 otrzymuje brzmienie: „ 18) ruchu pojazdów poza drogami publicznymi oraz poza drogami położonymi na nieruchomościach stanowiących własność parków narodowych lub będących w użytkowaniu wieczystym parków narodowych, wskazanymi przez dyrektora parku narodowego, a w rezerwacie przyrody przez regionalnego dyrektora ochrony środowiska; ” , po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
+- **8)** w art. 15: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** budowy lub przebudowy obiektów budowlanych i urządzeń technicznych, z wyjątkiem obiektów i urządzeń służących celom parku narodowego albo rezerwatu przyrody; ” , pkt 18 otrzymuje brzmienie: „
+- **18)** ruchu pojazdów poza drogami publicznymi oraz poza drogami położonymi na nieruchomościach stanowiących własność parków narodowych lub będących w użytkowaniu wieczystym parków narodowych, wskazanymi przez dyrektora parku narodowego, a w rezerwacie przyrody przez regionalnego dyrektora ochrony środowiska; ” , po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
     - **b)**
 
-4a. Przy zasięganiu opinii, o których mowa w ust. 3 i 4, nie stosuje się art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.).
+4a. Przy zasięganiu opinii, o których mowa w ust. 3 i 4, nie stosuje się art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100.).
 
 4b. Właściwe organy wydają opinię, o której mowa w ust. 3 i 4, w terminie 30 dni od dnia otrzymania wniosku o jej wydanie. Opinia jest wydawana w formie pisemnego stanowiska organu zawierającego ocenę planowanych czynności w odniesieniu do wpływu przedsięwzięcia na przyrodę parku narodowego. ” , dodaje się ust. 6–8 w brzmieniu: „
 
@@ -351,7 +353,7 @@ Załącznik – Wykaz parków narodowych
 5. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, warunki wynagradzania za pracę pracowników parków narodowych i przyznawania im innych świadczeń związanych z pracą, w tym:
 
 - **1)** kwoty wynagrodzenia zasadniczego pracowników parków narodowych,
-- **2)** inne, poza wynagrodzeniem zasadniczym, składniki wynagrodzenia i ich kwoty, uzasadnione zwłaszcza pełnieniem określonej funkcji lub zajmowaniem określonego stanowiska, szczególnymi właściwościami pracy, warunkami wykonywanej pracy oraz kwalifikacjami zawodowymi pracowników uwzględniając specyfikę i charakter pracy pracowników parków narodowych. ” ;
+- **2)** inne, poza wynagrodzeniem zasadniczym, składniki wynagrodzenia i ich kwoty, uzasadnione zwłaszcza pełnieniem określonej funkcji lub zajmowaniem określonego stanowiska, szczególnymi właściwościami pracy, warunkami wykonywanej pracy oraz kwalifikacjami zawodowymi pracowników – uwzględniając specyfikę i charakter pracy pracowników parków narodowych. ” ;
 - **14)** po art. 104 dodaje się art. 104a i 104b w brzmieniu: „
 
 **Art. 104a.**
@@ -393,7 +395,7 @@ Załącznik – Wykaz parków narodowych
 
 15. Lokale mogą być zbywane, pod rygorem nieważności, wyłącznie na zasadach określonych w ust. 1–14.
 
-16. W sprawach, o których mowa w ust. 1–14, nie stosuje się ustawy z dnia 15 grudnia 2000 r. o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa (Dz. U. z 2001 r. Nr 4, poz. 24, z późn. zm.). Pracownik, który nabył lokal wykorzystywany lub przeznaczony na cele mieszkaniowe na zasadach określonych w art. 104a ust. 1–14 albo skorzystał z uprawnień określonych w ustawie z dnia 15 grudnia 2000 r. o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa, nie może ubiegać się o wypłacanie ekwiwalentu za niewykorzystywanie bezpłatnego mieszkania lub przydzielenie bezpłatnego mieszkania. ” ;
+16. W sprawach, o których mowa w ust. 1–14, nie stosuje się ustawy z dnia 15 grudnia 2000 r. o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa (Dz. U. z 2001 r. Nr 4, poz. 24, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1118, z 2004 r. Nr 141, poz. 1492 oraz z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539.). Pracownik, który nabył lokal wykorzystywany lub przeznaczony na cele mieszkaniowe na zasadach określonych w art. 104a ust. 1–14 albo skorzystał z uprawnień określonych w ustawie z dnia 15 grudnia 2000 r. o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa, nie może ubiegać się o wypłacanie ekwiwalentu za niewykorzystywanie bezpłatnego mieszkania lub przydzielenie bezpłatnego mieszkania. ” ;
 
 - **15)** dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do niniejszej ustawy.
 
@@ -401,7 +403,7 @@ Załącznik – Wykaz parków narodowych
 
 - **1)** będących w użytkowaniu wieczystym parków narodowych; ” .
 
-**Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.) w art. 83 ust. 3 otrzymuje brzmienie: „ 3. Nie pobiera się opłat rocznych za nieruchomości oddane w trwały zarząd pod drogi publiczne, parki, zieleńce, ogrody botaniczne, ogrody zoologiczne oraz rezerwaty przyrody. ” .
+**Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323 oraz z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789, Nr 163, poz. 981 i Nr 187, poz. 1110.) w art. 83 ust. 3 otrzymuje brzmienie: „ 3. Nie pobiera się opłat rocznych za nieruchomości oddane w trwały zarząd pod drogi publiczne, parki, zieleńce, ogrody botaniczne, ogrody zoologiczne oraz rezerwaty przyrody. ” .
 
 **Art. 4.** W ustawie z dnia 1 lipca 2011 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw (Dz. U. Nr 152, poz. 897 i Nr 171, poz. 1016) w art. 1 w pkt 17, w art. 9zd ust. 2 otrzymuje brzmienie: „ 2. Środki finansowe uzyskane z tytułu kar pieniężnych, o których mowa w art. 9x ust. 1 i 2, stanowią dochód gminy. ” .
 
@@ -436,7 +438,7 @@ Załącznik – Wykaz parków narodowych
 - **1)** mienie ruchome Skarbu Państwa zarządzane przez parki narodowe będące państwowymi jednostkami budżetowymi staje się mieniem parków narodowych będących państwowymi osobami prawnymi;
 - **2)** należności i zobowiązania, w tym nieściągnięte należności i nieuregulowane zobowiązania, parków narodowych będących państwowymi jednostkami budżetowymi stają się należnościami i zobowiązaniami parków narodowych będących państwowymi osobami prawnymi;
 - **3)** umowy zawarte przez parki narodowe będące państwowymi jednostkami budżetowymi zachowują moc do czasu ich wygaśnięcia, z tym że wynikające z tych umów prawa i obowiązki parków narodowych będących państwowymi jednostkami budżetowymi stają się prawami i obowiązkami parków narodowych będących państwowymi osobami prawnymi;
-- **4)** przekazywanie środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej parkom narodowym będącym państwowymi osobami prawnymi na podstawie umów, o których mowa w pkt 3, odbywa się w formie dotacji w rozumieniu art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.).
+- **4)** przekazywanie środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej parkom narodowym będącym państwowymi osobami prawnymi na podstawie umów, o których mowa w pkt 3, odbywa się w formie dotacji w rozumieniu art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657 oraz z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897 i Nr 178, poz. 1060.).
 
 **Art. 7.**
 
@@ -461,7 +463,7 @@ Załącznik – Wykaz parków narodowych
 
 9. W przypadku niedotrzymania terminu, o którym mowa w ust. 8, minister właściwy do spraw środowiska, w drodze decyzji administracyjnej, może nałożyć na dyrektora parku narodowego karę pieniężną w wysokości do trzymiesięcznego wynagrodzenia za pracę otrzymywanego przez dyrektora parku narodowego, i wyznacza odpowiedni termin, nie dłuższy niż 12 miesięcy, na wykonanie zaniechanego obowiązku. W razie kolejnego uchybienia obowiązkowi kara pieniężna może być powtórnie nałożona.
 
-1. Nieruchomości o nieuregulowanym stanie prawnym, w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.), znajdujące się w granicach parków narodowych, pozostające w dniu wejścia w życie niniejszej ustawy we władaniu parków narodowych, niestanowiące własności Skarbu Państwa, stają się z dniem wejścia w życie niniejszej ustawy, z mocy prawa, własnością Skarbu Państwa za odszkodowaniem, z zastrzeżeniem ust. 4.
+1. Nieruchomości o nieuregulowanym stanie prawnym, w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323 oraz z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789, Nr 163, poz. 981 i Nr 187, poz. 1110.), znajdujące się w granicach parków narodowych, pozostające w dniu wejścia w życie niniejszej ustawy we władaniu parków narodowych, niestanowiące własności Skarbu Państwa, stają się z dniem wejścia w życie niniejszej ustawy, z mocy prawa, własnością Skarbu Państwa za odszkodowaniem, z zastrzeżeniem ust. 4.
 
 2. W odniesieniu do nieruchomości, o których mowa w ust. 1, parki narodowe nabywają z mocy prawa, z dniem wejścia w życie niniejszej ustawy, prawo użytkowania wieczystego oraz własność położonych na tych nieruchomościach budynków oraz innych urządzeń i lokali.
 
@@ -489,7 +491,7 @@ Załącznik – Wykaz parków narodowych
 
 **Art. 16.** Prokuratoria Generalna Skarbu Państwa pełni zastępstwo procesowe parków narodowych w sprawach cywilnych wszczętych i niezakończonych prawomocnym orzeczeniem przed dniem wejścia w życie niniejszej ustawy, w których pełniła dotychczas takie zastępstwo.
 
-**Art. 17.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 4, który wchodzi w życie z dniem ogłoszenia. Załącznik – Wykaz parków narodowych
+**Art. 17.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 4, który wchodzi w życie z dniem ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawę z dnia 1 lipca 2011 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241 i Nr 215, poz. 1664, z 2010 r. Nr 76, poz. 489 i Nr 119, poz. 804 oraz z 2011 r. Nr 34, poz. 170, Nr 94, poz. 549 i Nr 208, poz. 1241. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 185, poz. 1092 i Nr 201, poz. 1183. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593 oraz z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175 i Nr 204, poz. 1195. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700 oraz z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855 i Nr 149, poz. 887. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323 oraz z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789, Nr 163, poz. 981 i Nr 187, poz. 1110. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538, z 2006 r. Nr 107, poz. 721, z 2009 r. Nr 157, poz. 1241 i Nr 206, poz. 1590, z 2010 r. Nr 229, poz. 1496 oraz z 2011 r. Nr 34, poz. 171, Nr 122, poz. 695 i Nr 185, poz. 1092. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1118, z 2004 r. Nr 141, poz. 1492 oraz z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323 oraz z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789, Nr 163, poz. 981 i Nr 187, poz. 1110. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657 oraz z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897 i Nr 178, poz. 1060. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, Nr 143, poz. 963, Nr 155, poz. 1043, Nr 197, poz. 1307 i Nr 200, poz. 1323 oraz z 2011 r. Nr 64, poz. 341, Nr 106, poz. 622, Nr 115, poz. 673, Nr 129, poz. 732, Nr 130, poz. 762, Nr 135, poz. 789, Nr 163, poz. 981 i Nr 187, poz. 1110. Załącznik – Wykaz parków narodowych
 
 - **1)** Babiogórski Park Narodowy z siedzibą w Zawoi;
 - **2)** Białowieski Park Narodowy z siedzibą w Białowieży;

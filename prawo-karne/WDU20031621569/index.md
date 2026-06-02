@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-07-24 |
 | Data wydania | 2003-09-17 |
-| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031621569) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1569/text.pdf) |
 

@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 8 czerwca 2012 r. w sprawie wniosku o udzielenie poręczenia lub gwarancji oraz trybu udzielania przez Skarb Państwa poręczenia i gwarancji (Dz. U. z 2017 r. poz. 1059), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 8 listopada 2017 r. zmieniającym rozporządzenie w sprawie wniosku o udzielenie poręczenia lub gwarancji oraz trybu udzielania przez Skarb Państwa poręczenia i gwarancji (Dz. U. poz. 2144).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 8 listopada 2017 r. zmieniającego rozporządzenie w sprawie wniosku o udzielenie poręczenia lub gwarancji oraz trybu udzielania przez Skarb Państwa poręczenia i gwarancji (Dz. U. poz. 2144), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 8 listopada 2017 r. zmieniającego rozporządzenie w sprawie wniosku o udzielenie poręczenia lub gwarancji oraz trybu udzielania przez Skarb Państwa poręczenia i gwarancji (Dz. U. poz. 2144), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
 Załącznik – Rozporządzenie Rady Ministrów z dnia 8 czerwca 2012 r. w sprawie wniosku o udzielenie poręczenia lub gwarancji oraz trybu udzielania przez Skarb Państwa poręczenia i gwarancji
 Na podstawie art. 2f ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2018 r. poz. 1808) zarządza się, co następuje:
 § 1.
@@ -67,11 +65,11 @@ kopie:
 a)
 odpisu z Krajowego Rejestru Sądowego, o ile wnioskodawca podlega wpisowi,
 b)
-bilansu, rachunku zysków i strat, rachunku przepływów pieniężnych kredytobiorcy oraz informacji dodatkowej, obejmującej wprowadzenie do sprawozdania finansowego, oraz dodatkowych informacji i objaśnień, sporządzonych w formie i treści zgodnej z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, z późn. zm.) na ostatni dzień miesiąca poprzedzającego złożenie wniosku, a także za ostatnie trzy lata obrotowe, a jeżeli działalność jest prowadzona krócej niż trzy lata – za wszystkie okresy sprawozdawcze, wraz z kopiami zestawień wartości podstawowych wskaźników finansowych:
+bilansu, rachunku zysków i strat, rachunku przepływów pieniężnych kredytobiorcy oraz informacji dodatkowej, obejmującej wprowadzenie do sprawozdania finansowego, oraz dodatkowych informacji i objaśnień, sporządzonych w formie i treści zgodnej z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 398, 650, 1629, 2212 i 2244 oraz z 2019 r. poz. 55.) na ostatni dzień miesiąca poprzedzającego złożenie wniosku, a także za ostatnie trzy lata obrotowe, a jeżeli działalność jest prowadzona krócej niż trzy lata – za wszystkie okresy sprawozdawcze, wraz z kopiami zestawień wartości podstawowych wskaźników finansowych:
 – dochodowości, ryzyka działalności kredytowej, płynności, wypłacalności i ryzyka dewizowego – w przypadku banku,
 – płynności finansowej, rotacji majątku, struktury kapitałowej i majątkowej, rentowności, rozwoju – w przypadku pozostałych przedsiębiorców,
 oraz określeniem metodologii ich obliczania,
-c)
+cW brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 8 listopada 2017 r. zmieniającego rozporządzenie w sprawie wniosku o udzielenie poręczenia lub gwarancji oraz trybu udzielania przez Skarb Państwa poręczenia i gwarancji (Dz. U. poz. 2144), które weszło w życie z dniem 6 grudnia 2017 r.)
 sprawozdania z badania sprawozdania finansowego (o ile dotyczy) za ostatnie trzy lata obrotowe, a jeżeli działalność jest prowadzona krócej niż trzy lata – za wszystkie okresy sprawozdawcze,
 d)
 analizy wykonalności przedsięwzięcia (biznesplanu), z którym jest związane wnioskowane poręczenie lub gwarancja, wraz z kopią prognozy sytuacji ekonomiczno-finansowej kredytobiorcy w okresie realizacji tego przedsięwzięcia oraz w okresie wykonywania zobowiązania objętego poręczeniem lub gwarancją obejmującą: prognozę bilansu, prognozę rachunku zysków i strat, prognozę rachunku przepływów pieniężnych, nakłady związane z realizacją przedsięwzięcia i źródła ich finansowania, a także plan kredytowania przedsięwzięcia,
@@ -195,8 +193,7 @@ poręczenia lub gwarancji, o których mowa w § 2–5, w odniesieniu do poręcze
 2)
 poręczenia lub gwarancji, o których mowa w § 2–5, w odniesieniu do poręczeń i gwarancji, o których mowa w art. 3 ust. 6 ustawy, składa się do Banku Gospodarstwa Krajowego,
 3)
-poręczenia, o którym mowa w § 6, składa się do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego
-zwanego dalej „podmiotem rozpatrującym wniosek”.
+poręczenia, o którym mowa w § 6, składa się do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego – zwanego dalej „podmiotem rozpatrującym wniosek”.
 § 10.
 1.
 Rozpatrzenie kompletnego wniosku następuje niezwłocznie po jego złożeniu.
@@ -223,5 +220,5 @@ minister właściwy do spraw finansów publicznych, w odniesieniu do poręczeń 
 2)
 Prezes Banku Gospodarstwa Krajowego, w odniesieniu do poręczeń i gwarancji, o których mowa w art. 3 ust. 6 ustawy.
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 15 czerwca 2012 r..Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 maja 2009 r. w sprawie udzielania przez Skarb Państwa poręczenia i gwarancji oraz opłaty prowizyjnej od poręczenia i gwarancji (Dz. U. poz. 650), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 93 ust. 1 ustawy z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 622, 764, 767 i 1110). 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 398, 650, 1629, 2212 i 2244 oraz z 2019 r. poz. 55. 2) W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 8 listopada 2017 r. zmieniającego rozporządzenie w sprawie wniosku o udzielenie poręczenia lub gwarancji oraz trybu udzielania przez Skarb Państwa poręczenia i gwarancji (Dz. U. poz. 2144), które weszło w życie z dniem 6 grudnia 2017 r. 3) Rozporządzenie zostało ogłoszone w dniu 15 czerwca 2012 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 maja 2009 r. w sprawie udzielania przez Skarb Państwa poręczenia i gwarancji oraz opłaty prowizyjnej od poręczenia i gwarancji (Dz. U. poz. 650), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 93 ust. 1 ustawy z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 622, 764, 767 i 1110).
 

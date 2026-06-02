@@ -31,8 +31,7 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. z 2018 r. poz. 466), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 marca 2021 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 109 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 109 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), który stanowi: „
 
 **Art. 109.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem:
 
@@ -117,9 +116,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 2. W przypadku instytucji pośredniczących wymienionych w ust. 1 pkt 1 i 3, zadania, o których mowa w ust. 1, są wykonywane na podstawie umowy.
 
-3. W umowie, o której mowa w ust. 2, są określone w szczególności zakres powierzonych zadań, sposób ich wykonywania i warunki rozwiązania umowy.
-
-4. Do powierzenia zadań podmiotom, o których mowa w ust. 1 pkt 3, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019, z późn. zm.).
+3. W umowie, o której mowa w ust. 2, są określone w szczególności zakres powierzonych zadań, sposób ich wykonywania i warunki rozwiązania umowy. 4Ze zmianą wprowadzoną przez art. 50 pkt 1 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r.. Do powierzenia zadań podmiotom, o których mowa w ust. 1 pkt 3, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 288, 1492, 1517, 2275 i 2320 oraz z 2021 r. poz. 464.).
 
 5. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, warunki i sposób wykonywania zadań instytucji zarządzającej przez samorząd województwa, mając na względzie zapewnienie prawidłowości, skuteczności i efektywności zarządzania programem oraz prawidłowego wykonywania zadań instytucji zarządzającej.
 
@@ -172,7 +169,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** poprawności sporządzenia i złożenia,
 - **2)** zgodności planowanej operacji z celami środka, w ramach którego ma być realizowana operacja,
-- **3)** celowości udzielenia pomocy na realizację planowanej operacji w sposób określony w przepisach wydanych na podstawie art. 19 oraz zgodnie z kryteriami wyboru operacji przyjętymi przez komitet monitorujący.
+- **3)** celowości udzielenia pomocy na realizację planowanej operacji – w sposób określony w przepisach wydanych na podstawie art. 19 oraz zgodnie z kryteriami wyboru operacji przyjętymi przez komitet monitorujący.
 
 4. Oceny wniosku o dofinansowanie dokonuje się w terminie niezbędnym do należytego wyjaśnienia sprawy.
 
@@ -188,9 +185,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 - **2)** wysokości środków finansowych przeznaczonych na realizację operacji;
 - **3)** terminu zgłaszania ofert;
 - **4)** kryteriów oceny ofert;
-- **5)** warunków i sposobu przeprowadzenia konkursu.
-
-4. Instytucja zarządzająca niezwłocznie po rozstrzygnięciu konkursu ofert zawiera umowę o dofinansowanie operacji, o której mowa w ust. 3 pkt 1. Do konkursu ofert nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+- **5)** warunków i sposobu przeprowadzenia konkursu. 4Ze zmianą wprowadzoną przez art. 50 pkt 2 ustawy, o której mowa w odnośniku 1.. Instytucja zarządzająca niezwłocznie po rozstrzygnięciu konkursu ofert zawiera umowę o dofinansowanie operacji, o której mowa w ust. 3 pkt 1. Do konkursu ofert nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 **Art. 12.**
 
@@ -278,7 +273,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 - **1)** szczegółowe warunki, jakim powinna odpowiadać lokalna strategia rozwoju obszarów rybackich,
 - **2)** szczegółowe kryteria wyboru lokalnej grupy rybackiej do realizacji lokalnej strategii rozwoju obszarów rybackich, o których mowa w art. 16 ust. 2,
-- **3)** szczegółowe wymagania, jakim powinna odpowiadać umowa, o której mowa w ust. 1 biorąc pod uwagę procedury i kryteria wyboru określone w art. 23 rozporządzenia nr 498/2007 oraz mając na względzie realizację celów określonych w art. 43 ust. 2 rozporządzenia nr 1198/2006.
+- **3)** szczegółowe wymagania, jakim powinna odpowiadać umowa, o której mowa w ust. 1 – biorąc pod uwagę procedury i kryteria wyboru określone w art. 23 rozporządzenia nr 498/2007 oraz mając na względzie realizację celów określonych w art. 43 ust. 2 rozporządzenia nr 1198/2006.
 
 **Art. 18.**
 
@@ -346,13 +341,13 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 6. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres sprawozdań, o których mowa w ust. 1, oraz tryb i terminy ich przekazywania,
-- **2)** tryb i zakres rozliczeń w odniesieniu do operacji oraz programu operacyjnego mając na względzie zapewnienie prawidłowości i skuteczności zarządzania programem operacyjnym oraz efektywności wykorzystania środków finansowych służących jego realizacji.
+- **2)** tryb i zakres rozliczeń w odniesieniu do operacji oraz programu operacyjnego – mając na względzie zapewnienie prawidłowości i skuteczności zarządzania programem operacyjnym oraz efektywności wykorzystania środków finansowych służących jego realizacji.
 
 **Art. 23.** Instytucja zarządzająca w odniesieniu do instytucji pośredniczących, o których mowa w art. 5 ust. 1:
 
 - **1)** przeprowadza kontrole,
 - **2)** wydaje pisemne wytyczne lub polecenia,
-- **3)** żąda przedstawienia informacji i udostępniania dokumentów w zakresie zgodności wykonywania przez te instytucje powierzonych im zadań instytucji zarządzającej z przepisami prawa i programem operacyjnym oraz w celu zapewnienia efektywności wdrażania środków tego programu.
+- **3)** żąda przedstawienia informacji i udostępniania dokumentów – w zakresie zgodności wykonywania przez te instytucje powierzonych im zadań instytucji zarządzającej z przepisami prawa i programem operacyjnym oraz w celu zapewnienia efektywności wdrażania środków tego programu.
 
 **Art. 24.**
 
@@ -419,7 +414,7 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 32.**
 
-1. Przepisy wykonawcze wydane na podstawie art. 208 ust. 2 ustawy, o której mowa w art. 28, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 208 ust. 2 ustawy, o której mowa w art. 28, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
+1. Przepisy wykonawcze wydane na podstawie art. 208 ust. 2 ustawy, o której mowa w art. 28Artykuł 28 zawiera zmiany do ustawy z dnia 30 czerwca 2005 r. o finansach publicznych., zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 208 ust. 2 ustawy, o której mowa w art. 28, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
 
 2. Przepisów, o których mowa w ust. 1, nie stosuje się do szczegółowego sposobu dokonywania wydatków związanych z realizacją programu operacyjnego finansowanego z udziałem środków z Europejskiego Funduszu Rybackiego.
 
@@ -427,8 +422,5 @@ Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie ob
 
 **Art. 33.** Pomoc przyznaną przez Agencję w ramach środka, o którym mowa w art. 3 pkt 1 lit. b, oraz koszty poniesione w ramach środka, o którym mowa w art. 3 pkt 5, do dnia wejścia w życie niniejszej ustawy, uznaje się za pomoc przyznaną i koszty poniesione zgodnie z przepisami niniejszej ustawy.
 
-**Art. 34.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Ze zmianą wprowadzoną przez art. 50 pkt 1 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 288, 1492, 1517, 2275 i 2320 oraz z 2021 r. poz. 464. 3) Ze zmianą wprowadzoną przez art. 50 pkt 2 ustawy, o której mowa w odnośniku 1. 4) Artykuł 28 zawiera zmiany do ustawy z dnia 30 czerwca 2005 r. o finansach publicznych. 5) Ustawa została ogłoszona w dniu 14 maja 2009 r.
-
+**Art. 34.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 14 maja 2009 r.. 1) Ze zmianą wprowadzoną przez art. 50 pkt 1 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 288, 1492, 1517, 2275 i 2320 oraz z 2021 r. poz. 464. 3) Ze zmianą wprowadzoną przez art. 50 pkt 2 ustawy, o której mowa w odnośniku 1. 4) Artykuł 28 zawiera zmiany do ustawy z dnia 30 czerwca 2005 r. o finansach publicznych. 5) Ustawa została ogłoszona w dniu 14 maja 2009 r.
 

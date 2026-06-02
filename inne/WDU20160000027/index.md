@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-22 |
 | Data wydania | 2016-01-08 |
-| Wejście w życie | 2016-01-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000027) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/27/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2015 r. poz. 155, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2015 r. poz. 155, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 541, 1045, 1273, 1327, 1893, 2183 i 2281.) wprowadza się następujące zmiany:
 
 - **1)** w art. 8 ust. 3 otrzymuje brzmienie: „
 
@@ -44,5 +43,5 @@ source: "eli-html"
 
 **Art. 2.** Oświadczenia, o których mowa w art. 11 ust. 1 pkt 5 ustawy zmienianej w art. 1, złożone przed dniem wejścia w życie niniejszej ustawy uznaje się za spełniające wymagania oświadczeń, o których mowa w art. 11 ust. 1 pkt 5 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 541, 1045, 1273, 1327, 1893, 2183 i 2281.
 

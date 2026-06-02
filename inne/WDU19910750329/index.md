@@ -22,9 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1991-07-19 |
 | Data wydania | 1991-08-27 |
-| Wejście w życie | 1991-09-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910750329) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/329/text.pdf) |
+
+Umowa o zarządzanie przedsiębiorstwem
 
 **Art. 1.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 1991 r. Nr 18, poz. 80) wprowadza się następujące zmiany:
 
@@ -90,7 +91,7 @@ source: "eli-html"
 
 - **10)** po rozdziale 8 dodaje się nowy rozdział 8a w brzmieniu: „
 
-#### Rozdział 8a Umowa o zarządzanie przedsiębiorstwem
+#### Rozdział 8a
 
 **Art. 45a.**
 
@@ -136,7 +137,7 @@ source: "eli-html"
 
 - **1)** wniesieniu mienia do spółki lub fundacji,
 - **2)** dokonania darowizny,
-- **3)** nieodpłatnym oddaniu mienia do używania innym podmiotom na podstawie umów prawa cywilnego przedsiębiorstwo państwowe zgłasza organowi założycielskiemu. Organ założycielski, w terminie jednego miesiąca od dnia otrzymania zgłoszenia, może nie wyrazić zgody na dokonanie przez przedsiębiorstwo państwowe czynności prawnej, której dotyczyło zgłoszenie.
+- **3)** nieodpłatnym oddaniu mienia do używania innym podmiotom na podstawie umów prawa cywilnego – przedsiębiorstwo państwowe zgłasza organowi założycielskiemu. Organ założycielski, w terminie jednego miesiąca od dnia otrzymania zgłoszenia, może nie wyrazić zgody na dokonanie przez przedsiębiorstwo państwowe czynności prawnej, której dotyczyło zgłoszenie.
 
 2. W przypadku niewyrażenia przez organ założycielski zgody na dokonanie czynności prawnych, o których mowa w ust. 1, organom przedsiębiorstwa przysługuje sprzeciw w trybie art. 63.
 

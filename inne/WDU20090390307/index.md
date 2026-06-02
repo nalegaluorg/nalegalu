@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-01-09 |
 | Data wydania | 2009-03-13 |
-| Wejście w życie | 2009-04-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090390307) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/307/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2006 r. Nr 97, poz. 673, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2006 r. Nr 97, poz. 673, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 170, poz. 1217 i Nr 220, poz. 1600, z 2007 r. Nr 64, poz. 426 oraz z 2008 r. Nr 227, poz. 1505.) wprowadza się następujące zmiany:
 
 - **1)** w art. 29 w ust. 1 pkt 4 otrzymuje brzmienie: „
 - **4)** archiwum Rady Ministrów; ” ;
@@ -50,5 +49,5 @@ source: "eli-html"
 
 3. Szef Kancelarii Prezesa Rady Ministrów, w terminie trzech miesięcy od dnia wejścia w życie ustawy, dostosuje organizację i zakres działania archiwum wyodrębnionego Rady Ministrów do przepisów ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 170, poz. 1217 i Nr 220, poz. 1600, z 2007 r. Nr 64, poz. 426 oraz z 2008 r. Nr 227, poz. 1505.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-05-27 |
 | Data wydania | 2004-07-02 |
-| Wejście w życie | 2004-07-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041521597) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1597/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2002 r. Nr 147, poz. 1231, z późn. zm.) w art. 132 wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2002 r. Nr 147, poz. 1231, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 167, poz. 1372, z 2003 r. Nr 80, poz. 719 i Nr 122, poz. 1143 oraz z 2004 r. Nr 29, poz. 257 i Nr 99, poz. 1001.) w art. 132 wprowadza się następujące zmiany:
 
 - **1)** ust. 1–5 otrzymują brzmienie: „
 
@@ -52,5 +51,5 @@ source: "eli-html"
 - **2)** tryb przekazywania środków i ich rozliczania, uwzględniając terminy, w jakich zostało zaplanowane przeprowadzenie zajęć sportowo-rekreacyjnych,
 - **3)** wysokość dofinansowania, biorąc pod uwagę, że maksymalna wysokość tego dofinansowania w przypadku zajęć prowadzonych przez stowarzyszenia kultury fizycznej oraz inne organizacje pozarządowe nie może przekroczyć 80%, a w przypadku zajęć organizowanych przez jednostki samorządu terytorialnego – 50% planowanych kosztów realizacji zajęć. ”
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 167, poz. 1372, z 2003 r. Nr 80, poz. 719 i Nr 122, poz. 1143 oraz z 2004 r. Nr 29, poz. 257 i Nr 99, poz. 1001.
 

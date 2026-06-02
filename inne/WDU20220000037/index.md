@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 23 grudnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 23 grudnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,25 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-23 |
 | Data wydania | 2022-01-10 |
-| Wejście w życie | 2022-01-25 |
 | Ostatnia zmiana | 2025-09-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000037) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/37/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Klimatu z dnia 7 kwietnia 2020 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. poz. 718 oraz z 2021 r. poz. 158 i 788) wprowadza się następujące zmiany:
 1)
 w § 11:
 a)
-ust. 3 otrzymuje brzmienie:
-„
+ust. 3 otrzymuje brzmienie: „
 3.
-Z zastrzeżeniem ust. 4 w kalkulacji stawek opłat w taryfie dystrybutora ciepła prowadzącego równocześnie działalność gospodarczą w zakresie obrotu ciepłem uzasadniony planowany przychód będący podstawą kalkulacji stawek opłat za usługi przesyłania i dystrybucji pomniejsza się o przychody uzyskiwane z tytułu różnicy pomiędzy wielkością mocy cieplnej zamówionej przez odbiorców zaopatrywanych z sieci ciepłowniczej na podstawie umów kompleksowych a wielkością mocy cieplnej zamówionej w obcych źródłach zasilających sieć ciepłowniczą dystrybutora ciepła.
-” ,
+Z zastrzeżeniem ust. 4 w kalkulacji stawek opłat w taryfie dystrybutora ciepła prowadzącego równocześnie działalność gospodarczą w zakresie obrotu ciepłem uzasadniony planowany przychód będący podstawą kalkulacji stawek opłat za usługi przesyłania i dystrybucji pomniejsza się o przychody uzyskiwane z tytułu różnicy pomiędzy wielkością mocy cieplnej zamówionej przez odbiorców zaopatrywanych z sieci ciepłowniczej na podstawie umów kompleksowych a wielkością mocy cieplnej zamówionej w obcych źródłach zasilających sieć ciepłowniczą dystrybutora ciepła. ” ,
 b)
-dodaje się ust. 4–8 w brzmieniu:
-„
+dodaje się ust. 4–8 w brzmieniu: „
 4.
 Uzasadniony planowany przychód przedsiębiorstwa energetycznego będący podstawą kalkulacji stawek opłat za usługi przesyłania i dystrybucji ciepła daną siecią ciepłowniczą w pierwszym roku stosowania taryfy nie może być niższy od wartości obliczonej według wzoru: PD = PDn−1 × [1 + (1 − usd − uwd) × (RPI: 100%) + usd × (zsd: 100%) + uwd × (zw: 100%)] gdzie poszczególne symbole oznaczają: PD – uzasadniony planowany przychód przedsiębiorstwa energetycznego będący podstawą kalkulacji stawek opłat za usługi przesyłania i dystrybucji ciepła daną siecią ciepłowniczą w pierwszym roku stosowania taryfy, PDn-1 – przychód obliczony na podstawie planowanych wielkości sprzedaży ciepła i mocy zamówionej przez odbiorców danej sieci ciepłowniczej na pierwszy rok stosowania taryfy oraz stawek opłat za usługi przesyłania i dystrybucji w obowiązującej taryfie [w zł], usd – wskaźnik udziału kosztów strat przesyłowych w kosztach przesyłania i dystrybucji ogółem w systemach ciepłowniczych przedsiębiorstw koncesjonowanych w kraju, ostatnio określony i opublikowany za poprzedni rok kalendarzowy przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, uwd – wskaźnik udziału kosztów wynagrodzeń i ubezpieczeń społecznych, w szczególności kosztów składek na ubezpieczenia emerytalne, rentowe, Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Solidarnościowy, w kosztach przesyłania i dystrybucji ogółem w systemach ciepłowniczych przedsiębiorstw koncesjonowanych w kraju, ostatnio określony i opublikowany za poprzedni rok kalendarzowy przez Prezesa URE, RPI – średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym, określony w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” [w %], zsd – wskaźnik rocznych zmian jednostkowych kosztów strat przesyłowych w systemach ciepłowniczych przedsiębiorstw koncesjonowanych w kraju w danym roku kalendarzowym w stosunku do roku wcześniejszego, ostatnio określony i opublikowany za poprzedni rok kalendarzowy przez Prezesa URE [w %], zw – zmianę przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, określoną na podstawie ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w czwartym kwartale danego roku kalendarzowego w stosunku do przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w czwartym kwartale roku wcześniejszego [w %].
 5.
@@ -54,13 +50,11 @@ jest efektywny energetycznie w rozumieniu art. 7b ust. 4 ustawy;
 2)
 wskaźnik nakładu nieodnawialnej energii pierwotnej określony dla tego systemu ciepłowniczego zgodnie z metodyką wyznaczania wskaźników nakładu nieodnawialnej energii pierwotnej zawartą w przepisach wydanych na podstawie art. 29 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej jest niższy od 0,65.
 8.
-Przedsiębiorstwo energetyczne może także wystąpić z wnioskiem o zatwierdzenie taryfy, w której ceny i stawki opłat dla pierwszego roku jej stosowania zostaną skalkulowane na bazie uzasadnionego planowanego przychodu określonego zgodnie z ust. 1–3. W takim przypadku przepisów ust. 4 i 5 albo § 45b ust. 1 nie stosuje się.
-” ;
+Przedsiębiorstwo energetyczne może także wystąpić z wnioskiem o zatwierdzenie taryfy, w której ceny i stawki opłat dla pierwszego roku jej stosowania zostaną skalkulowane na bazie uzasadnionego planowanego przychodu określonego zgodnie z ust. 1–3. W takim przypadku przepisów ust. 4 i 5 albo § 45b ust. 1 nie stosuje się. ” ;
 2)
 w § 13:
 a)
-ust. 6 otrzymuje brzmienie:
-„
+ust. 6 otrzymuje brzmienie: „
 6.
 Wskaźnik wzrostu przychodów ze sprzedaży ciepła dla źródeł ciepła [w %], dla których przedsiębiorstwo energetyczne stosuje uproszczony sposób kalkulacji cen i stawek opłat, o którym mowa w ust. 1, obliczanych na podstawie planowanych cen lub stawek opłat i planowanych na dany rok stosowania taryfy wielkości sprzedaży ciepła, mocy zamówionej oraz nośnika ciepła w kalkulacji tych cen i stawek opłat dla źródeł ciepła nie może być wyższy, uwzględniając wielkość przychodów ze sprzedaży ciepła obliczanych dla tych źródeł na podstawie dotychczas stosowanych cen i stawek opłat wynikających z obowiązującej taryfy oraz planowanych, na dany rok stosowania taryfy, wielkości sprzedaży ciepła, mocy zamówionej oraz nośnika ciepła w kalkulacji cen i stawek opłat dla tych źródeł ciepła, niż określony wzorem:
 1)
@@ -72,16 +66,13 @@ Wskaźnik wzrostu przychodów ze sprzedaży ciepła dla źródeł ciepła [w %],
 – gdzie poszczególne symbole oznaczają: CCSn – średnią cenę sprzedaży ciepła, o której mowa w art. 23 ust. 2 pkt 18 lit. c ustawy, wytworzonego w jednostkach wytwórczych niebędących jednostkami kogeneracji, w których zużywane jest tego samego rodzaju paliwo jak w danej jednostce kogeneracji [w zł/GJ], CCSn-1 – średnią cenę sprzedaży ciepła, o której mowa w art. 23 ust. 2 pkt 18 lit. c ustawy, wytworzonego w jednostkach wytwórczych niebędących jednostkami kogeneracji, w których zużywane jest tego samego rodzaju paliwo jak w danej jednostce kogeneracji, ogłoszoną w roku poprzedzającym rok ostatnio ogłoszonej średniej ceny sprzedaży ciepła oznaczonej symbolem „CCSn” [w zł/GJ].
 ” ,
 b)
-dodaje się ust. 11 w brzmieniu:
-„
+dodaje się ust. 11 w brzmieniu: „
 11.
-W taryfach ukształtowanych w sposób, o którym mowa w ust. 1, dla źródeł, które wchodzą w skład systemu ciepłowniczego niespełniającego łącznie warunków określonych w § 11 ust. 7 pkt 1 i 2, dopuszczalny wskaźnik wzrostu przychodów ze sprzedaży ciepła określony zgodnie z ust. 6 pomniejsza się o 1 punkt procentowy.
-” ;
+W taryfach ukształtowanych w sposób, o którym mowa w ust. 1, dla źródeł, które wchodzą w skład systemu ciepłowniczego niespełniającego łącznie warunków określonych w § 11 ust. 7 pkt 1 i 2, dopuszczalny wskaźnik wzrostu przychodów ze sprzedaży ciepła określony zgodnie z ust. 6 pomniejsza się o 1 punkt procentowy. ” ;
 3)
 w § 14 w objaśnieniu symbolu Ce wyrazy „Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”,” zastępuje się wyrazami „Prezesa URE”;
 4)
-w § 26 ust. 2 otrzymuje brzmienie:
-„
+w § 26 ust. 2 otrzymuje brzmienie: „
 2.
 Uzasadniona wysokość zwrotu z kapitału zaangażowanego w wykonywaną działalność gospodarczą związaną z zaopatrzeniem w ciepło powinna być odpowiednia do rodzaju wykonywanej działalności gospodarczej i ponoszonego w związku z tym ryzyka, a przy jej określaniu należy w szczególności uwzględnić:
 1)
@@ -93,17 +84,13 @@ oszczędności uzyskane w wyniku obniżenia kosztów działalności przedsiębio
 4)
 oszczędności wynikające z wielkości emisji dwutlenku węgla, której udało się uniknąć lub którą udało się zredukować w roku kalendarzowym poprzedzającym pierwszy rok stosowania taryfy w wyniku przeprowadzonych inwestycji w nowe lub znacząco zmodernizowane jednostki wytwórcze, sieci ciepłownicze lub infrastrukturę po stronie odbiorców końcowych, powiększając stopę zwrotu z kapitału o 1 punkt procentowy za każde 25% redukcji w przeliczeniu na jednostkę ciepła dostarczonego do odbiorców;
 5)
-poziom cen ciepła z alternatywnych źródeł ciepła, które mogłyby być – w sposób ekonomicznie i technicznie uzasadniony – wykorzystane w celu pokrycia zapotrzebowania na to ciepło, z uwzględnieniem możliwych do uniknięcia kosztów emisji dwutlenku węgla.
-” ;
+poziom cen ciepła z alternatywnych źródeł ciepła, które mogłyby być – w sposób ekonomicznie i technicznie uzasadniony – wykorzystane w celu pokrycia zapotrzebowania na to ciepło, z uwzględnieniem możliwych do uniknięcia kosztów emisji dwutlenku węgla. ” ;
 5)
-w § 28 dodaje się ust. 4 w brzmieniu:
-„
+w § 28 dodaje się ust. 4 w brzmieniu: „
 4.
-Przedsiębiorstwo energetyczne może wystąpić o zmianę taryfy przed upływem okresu jej stosowania, jeżeli w jego trakcie zostaną ogłoszone wskaźniki, o których mowa w § 11 ust. 4 i 5, lub jeżeli nastąpi spełnienie warunków, o których mowa w § 11 ust. 7 pkt 1 i 2.
-” ;
+Przedsiębiorstwo energetyczne może wystąpić o zmianę taryfy przed upływem okresu jej stosowania, jeżeli w jego trakcie zostaną ogłoszone wskaźniki, o których mowa w § 11 ust. 4 i 5, lub jeżeli nastąpi spełnienie warunków, o których mowa w § 11 ust. 7 pkt 1 i 2. ” ;
 6)
-po § 45a dodaje się § 45b-45e w brzmieniu:
-„
+po § 45a dodaje się § 45b-45e w brzmieniu: „
 § 45b.
 1.
 Dla wniosków taryfowych składanych do dnia 31 grudnia 2027 r. uzasadniony planowany przychód przedsiębiorstwa energetycznego stanowiący podstawę kalkulacji cen ciepła, mocy zamówionej i określonego nośnika ciepła dla danego źródła ciepła, dla którego nie stosuje się sposobu kalkulacji cen i stawek opłat w taryfie dla ciepła, o którym mowa w § 13 ust. 1, nie może być niższy od wartości obliczonej według wzoru: PC = (PWn−1 − KCO2n−1) × [1 + (1 − upw − uww) × (RPI: 100%) + upw × (zpw: 100%) + uww ×(zw ∶ 100%) + 0,02] + KCO2n gdzie poszczególne symbole oznaczają: PC – uzasadniony planowany przychód przedsiębiorstwa energetycznego stanowiący podstawę kalkulacji cen ciepła, mocy zamówionej i określonego nośnika ciepła dla danego źródła ciepła, PWn-1 – przychód obliczony na podstawie planowanych na pierwszy rok stosowania taryfy wielkości N i Q dla danego źródła ciepła i określonego nośnika ciepła, o których mowa w § 19, oraz cen ciepła, mocy zamówionej i określonego nośnika ciepła w obowiązującej taryfie [w zł], KCO2n-1 – iloczyn planowanej na pierwszy rok stosowania taryfy wielkości Q dla danego źródła ciepła, o której mowa w § 19, oraz kosztów jednostkowych uprawnień do emisji dwutlenku węgla obliczonych na podstawie całkowitych kosztów tych uprawnień i wielkości Q, o której mowa w § 19, zaplanowanych przez przedsiębiorstwo energetyczne we wniosku taryfowym, na podstawie którego została zatwierdzona obowiązująca taryfa dla ciepła dla danego źródła ciepła [w zł], upw – wskaźnik udziału kosztów paliw w kosztach wytwarzania ciepła dla przedsiębiorstw koncesjonowanych wytwarzających ciepło w kraju, ostatnio określony i opublikowany za poprzedni rok kalendarzowy przez Prezesa URE, uww – wskaźnik udziału kosztów wynagrodzeń i ubezpieczeń społecznych, takich jak: składki na ubezpieczenia emerytalne, rentowe, Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych oraz Fundusz Solidarnościowy, w kosztach wytwarzania ciepła dla przedsiębiorstw koncesjonowanych wytwarzających ciepło, ostatnio określony i opublikowany za poprzedni rok kalendarzowy przez Prezesa URE, RPI – średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym, określony w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” [w %], zpw – wskaźnik rocznych zmian jednostkowych kosztów paliw przedsiębiorstw koncesjonowanych wytwarzających ciepło w kraju w danym roku kalendarzowym w stosunku do roku wcześniejszego, ostatnio określony i opublikowany za poprzedni rok kalendarzowy przez Prezesa URE [w %], zw – zmianę przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, określoną na podstawie ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w czwartym kwartale danego roku kalendarzowego w stosunku do przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w czwartym kwartale roku wcześniejszego [w %], KCO2n – wielkość kosztów uprawnień do emisji dwutlenku węgla zaplanowaną przez przedsiębiorstwo energetyczne na pierwszy rok stosowania taryfy dla danego źródła ciepła [w zł].
@@ -116,9 +103,7 @@ Do dnia 31 grudnia 2022 r. przedsiębiorstwo energetyczne może wystąpić z wni
 § 45d.
 W przypadku wystąpienia o zmianę taryfy zatwierdzonej w 2021 r. do obliczenia wielkości PDn-1 oraz PWn-1, zdefiniowanych odpowiednio w § 11 ust. 4 i § 45b ust. 1, stosuje się ceny i stawki opłat w taryfach obowiązujących w dniu 31 grudnia 2020 r., a wartość iloczynu oznaczona symbolem KCO2n-1 odpowiada iloczynowi planowanej na pierwszy rok stosowania taryfy wielkości Q dla danego źródła ciepła, o której mowa w § 19, oraz kosztów jednostkowych uprawnień do emisji dwutlenku węgla obliczonych na podstawie całkowitych kosztów tych uprawnień i wielkości Q, o której mowa w § 19, zaplanowanych przez przedsiębiorstwo energetyczne we wniosku taryfowym, na podstawie którego została zatwierdzona taryfa dla ciepła dla danego źródła ciepła obowiązująca w dniu 31 grudnia 2020 r.
 § 45e.
-Do dnia 31 grudnia 2022 r. przedsiębiorstwo energetyczne stosujące sposób kalkulacji cen i stawek opłat, o którym mowa w § 13 ust. 1, może wystąpić z wnioskiem o zmianę taryfy przed upływem okresu jej stosowania, jeżeli w dotychczasowej taryfie wzrost uzasadnionych planowanych przychodów ze sprzedaży ciepła został ograniczony z zastosowaniem wskaźnika wzrostu przychodów zgodnie z § 13 ust. 6, a po zatwierdzeniu tej taryfy wskaźnik ten uległ zmianie.
-” .
+Do dnia 31 grudnia 2022 r. przedsiębiorstwo energetyczne stosujące sposób kalkulacji cen i stawek opłat, o którym mowa w § 13 ust. 1, może wystąpić z wnioskiem o zmianę taryfy przed upływem okresu jej stosowania, jeżeli w dotychczasowej taryfie wzrost uzasadnionych planowanych przychodów ze sprzedaży ciepła został ograniczony z zastosowaniem wskaźnika wzrostu przychodów zgodnie z § 13 ust. 6, a po zatwierdzeniu tej taryfy wskaźnik ten uległ zmianie. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1 lit. b w zakresie § 11 ust. 5–7 oraz § 1 pkt 2 lit. b, które wchodzą w życie z dniem 1 stycznia 2028 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1 lit. b w zakresie § 11 ust. 5–7 oraz § 1 pkt 2 lit. b, które wchodzą w życie z dniem 1 stycznia 2028 r. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1.
 

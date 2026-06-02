@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-13 |
 | Data wydania | 2012-07-25 |
-| Wejście w życie | 2012-07-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000852) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/852/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 28 ust. 2 ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. Nr 229, poz. 2275, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 28 ust. 2 ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. Nr 229, poz. 2275, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106 oraz z 2011 r. Nr 63, poz. 322 i Nr 102, poz. 586.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa środki mające na celu wyeliminowanie zagrożeń stwarzanych przez noże bijakowe do ręcznych przenośnych kos do zarośli.
 § 2.
@@ -35,5 +34,5 @@ Przez noże bijakowe do ręcznych przenośnych kos do zarośli należy rozumieć
 § 3.
 Zakazuje się wprowadzania na rynek noży bijakowych do ręcznych przenośnych kos do zarośli.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106 oraz z 2011 r. Nr 63, poz. 322 i Nr 102, poz. 586.
 

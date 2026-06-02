@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-10 |
 | Data wydania | 2014-07-11 |
-| Wejście w życie | 2014-07-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000925) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/925/text.pdf) |
 
@@ -126,5 +125,5 @@ Do żłobków lub klubów dziecięcych utworzonych przed dniem wejścia w życie
 2.
 Przepis ust. 1 stosuje się również do podmiotu zamierzającego prowadzić żłobek lub klub dziecięcy, który przed dniem wejścia w życie niniejszego rozporządzenia wystąpił o opinię komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej lub opinię właściwego państwowego inspektora sanitarnego, o której mowa w art. 25 ust. 2 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 14 lipca 2014 r.
+Rozporządzenie wchodzi w życie z dniem 14 lipca 2014 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 25 marca 2011 r. w sprawie wymagań lokalowych i sanitarnych dotyczących żłobków i klubów dziecięcych (Dz. U. Nr 69, poz. 367), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 10 maja 2013 r. o zmianie ustawy o opiece nad dziećmi w wieku do lat 3 oraz niektórych innych ustaw (Dz. U. poz. 747). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 25 marca 2011 r. w sprawie wymagań lokalowych i sanitarnych dotyczących żłobków i klubów dziecięcych (Dz. U. Nr 69, poz. 367), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 10 maja 2013 r. o zmianie ustawy o opiece nad dziećmi w wieku do lat 3 oraz niektórych innych ustaw (Dz. U. poz. 747).
 

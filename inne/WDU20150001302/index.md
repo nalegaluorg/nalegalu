@@ -22,17 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-24 |
 | Data wydania | 2015-09-03 |
-| Wejście w życie | 2015-09-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001302) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1302/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2015 r. poz. 859 i 1217) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: uchyla się pkt 1, w pkt 7 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ wypłacone osobie innej niż osoba, która została wskazana w decyzji przyznającej świadczenia z funduszu alimentacyjnego, z przyczyn niezależnych od organu, który wydał tę decyzję; ” , w pkt 17: – lit. e otrzymuje brzmienie: „ e) wyrejestrowaniem pozarolniczej działalności gospodarczej lub zawieszeniem jej wykonywania w rozumieniu art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.), ” , – po lit. e dodaje się lit. ea w brzmieniu: „ ea) utratą zasądzonych świadczeń alimentacyjnych w związku ze śmiercią osoby zobowiązanej do tych świadczeń, ” , w pkt 18 lit. e otrzymuje brzmienie: „ rozpoczęciem pozarolniczej działalności gospodarczej lub wznowieniem jej wykonywania po okresie zawieszenia w rozumieniu art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ” ;
+- **1)** w art. 2: uchyla się pkt 1, w pkt 7 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ wypłacone osobie innej niż osoba, która została wskazana w decyzji przyznającej świadczenia z funduszu alimentacyjnego, z przyczyn niezależnych od organu, który wydał tę decyzję; ” , w pkt 17: lit. e otrzymuje brzmienie: „ wyrejestrowaniem pozarolniczej działalności gospodarczej lub zawieszeniem jej wykonywania w rozumieniu art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268 i 1272.), ” , – po lit. e dodaje się lit. ea w brzmieniu: „ ea) utratą zasądzonych świadczeń alimentacyjnych w związku ze śmiercią osoby zobowiązanej do tych świadczeń, ” , w pkt 18 lit. e otrzymuje brzmienie: „ rozpoczęciem pozarolniczej działalności gospodarczej lub wznowieniem jej wykonywania po okresie zawieszenia w rozumieniu art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ” ;
     - **a)**
     - **b)**
     - **f)**
     - **c)**
+    - **e)**
     - **d)**
     - **e)**
 
@@ -88,10 +88,11 @@ source: "eli-html"
 - **e)**
 - **f)**
 
-6. Uzyskane przez gminę organu właściwego wierzyciela, o którym mowa w ust. 3a, dochody, o których mowa w ust. 4, przeznacza się w szczególności na pokrycie kosztów podejmowania działań wobec dłużników alimentacyjnych. ” , w ust. 7: – pkt 1 otrzymuje brzmienie: „ 1) informację o przyznaniu osobie uprawnionej świadczeń z funduszu alimentacyjnego oraz o obowiązku zwrotu wraz z odsetkami należności z tytułu świadczeń z funduszu alimentacyjnego wypłacanych osobie uprawnionej; ” , – uchyla się pkt 2, ust. 8 otrzymuje brzmienie: „
+6. Uzyskane przez gminę organu właściwego wierzyciela, o którym mowa w ust. 3a, dochody, o których mowa w ust. 4, przeznacza się w szczególności na pokrycie kosztów podejmowania działań wobec dłużników alimentacyjnych. ” , w ust. 7: pkt 1 otrzymuje brzmienie: „
 
 - **g)**
-- **h)**
+- **1)** informację o przyznaniu osobie uprawnionej świadczeń z funduszu alimentacyjnego oraz o obowiązku zwrotu wraz z odsetkami należności z tytułu świadczeń z funduszu alimentacyjnego wypłacanych osobie uprawnionej; ” , – uchyla się pkt 2, ust. 8 otrzymuje brzmienie: „
+    - **h)**
 
 8. Do wniosku o wszczęcie postępowania egzekucyjnego, o którym mowa w ust. 3, lub o przyłączenie się do postępowania egzekucyjnego, o którym mowa w ust. 3a, organ właściwy wierzyciela, o którym mowa w ust. 3a, dołącza:
 
@@ -109,7 +110,7 @@ source: "eli-html"
 
 - **k)**
 
-11. Organ właściwy wierzyciela, o którym mowa w ust. 3a, rozlicza kwoty otrzymane z tytułu zwrotu należności przypadających od dłużnika alimentacyjnego wraz z odsetkami zgodnie z kolejnością określoną w art. 1026 § 2 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.). ” ;
+11. Organ właściwy wierzyciela, o którym mowa w ust. 3a, rozlicza kwoty otrzymane z tytułu zwrotu należności przypadających od dłużnika alimentacyjnego wraz z odsetkami zgodnie z kolejnością określoną w art. 1026 § 2 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137 i 1199.). ” ;
 
 - **7)** w art. 28: w ust. 1 część wspólna otrzymuje brzmienie: „ – po należnościach określonych w art. 1025 § 1 pkt 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, a przed należnościami określonymi w art. 1025 § 1 pkt 2–10 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. ” , w ust. 2 część wspólna otrzymuje brzmienie: „ – po należnościach określonych w art. 1025 § 1 pkt 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, a przed należnościami określonymi w art. 1025 § 1 pkt 2–10 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. ” ;
     - **a)**
@@ -123,11 +124,15 @@ source: "eli-html"
 
 - **6)** kwoty nienależnie pobranych zasiłków rodzinnych lub pielęgnacyjnych, świadczeń rodzinnych oraz zasiłków dla opiekunów w razie braku możliwości potrącenia z wypłacanych zasiłków rodzinnych, pielęgnacyjnych, świadczeń rodzinnych oraz zasiłków dla opiekunów, wraz z odsetkami za zwłokę w ich spłacie, a także kwoty zasiłku pielęgnacyjnego wypłaconego za okres, za który przyznano dodatek pielęgnacyjny; ” .
 
-**Art. 3.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2015 r. poz. 114, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2015 r. poz. 114, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 995, 1217, 1240 i 1268.) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: w pkt 23: – lit. c otrzymuje brzmienie: „ c) utratą zatrudnienia lub innej pracy zarobkowej, ” , – lit. i otrzymuje brzmienie: „ i) utratą zasądzonych świadczeń alimentacyjnych w związku ze śmiercią osoby zobowiązanej do tych świadczeń lub utratą świadczeń pieniężnych wypłacanych w przypadku bezskuteczności egzekucji alimentów w związku ze śmiercią osoby zobowiązanej do świadczeń alimentacyjnych; ” , w pkt 24: – lit. c otrzymuje brzmienie: „ c) uzyskaniem zatrudnienia lub innej pracy zarobkowej, ” , – lit. f otrzymuje brzmienie: „ f) rozpoczęciem pozarolniczej działalności gospodarczej lub wznowieniem jej wykonywania po okresie zawieszenia w rozumieniu art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ” ;
+- **1)** w art. 3: w pkt 23: lit. c otrzymuje brzmienie: „ utratą zatrudnienia lub innej pracy zarobkowej, ” , lit. i otrzymuje brzmienie: „ utratą zasądzonych świadczeń alimentacyjnych w związku ze śmiercią osoby zobowiązanej do tych świadczeń lub utratą świadczeń pieniężnych wypłacanych w przypadku bezskuteczności egzekucji alimentów w związku ze śmiercią osoby zobowiązanej do świadczeń alimentacyjnych; ” , w pkt 24: lit. c otrzymuje brzmienie: „ uzyskaniem zatrudnienia lub innej pracy zarobkowej, ” , lit. f otrzymuje brzmienie: „ rozpoczęciem pozarolniczej działalności gospodarczej lub wznowieniem jej wykonywania po okresie zawieszenia w rozumieniu art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ” ;
     - **a)**
+    - **c)**
+    - **i)**
     - **b)**
+    - **c)**
+    - **f)**
 
 - **2)** w art. 16 dodaje się ust. 7 i 8 w brzmieniu: „
 
@@ -185,7 +190,7 @@ source: "eli-html"
 
 - **1)** wierzytelności pieniężnej lub innego prawa majątkowego, w ramach których odebrano dokument, którego posiadanie jest koniecznym warunkiem wykonywania prawa z tego dokumentu,
 - **2)** ruchomości, w ramach której odebrano ruchomość,
-- **3)** nieruchomości podlegają umorzeniu po zakończeniu egzekucji, o której mowa w pkt 1–3, jeżeli dochodzony obowiązek nie został wyegzekwowany w całości.
+- **3)** nieruchomości – podlegają umorzeniu po zakończeniu egzekucji, o której mowa w pkt 1–3, jeżeli dochodzony obowiązek nie został wyegzekwowany w całości.
 
 3. Koszty egzekucyjne powstałe w postępowaniu egzekucyjnym, o którym mowa w ust. 1 i 2, które nie zostały wyegzekwowane, podlegają umorzeniu wraz z umorzeniem postępowania egzekucyjnego.
 
@@ -200,6 +205,6 @@ source: "eli-html"
 **Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 1 pkt 1 lit. c i d, art. 3 pkt 1 i art. 4, które wchodzą w życie z dniem ogłoszenia;
-- **2)** art. 2 i art. 3 pkt 2, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+- **2)** art. 2 i art. 3 pkt 2, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268 i 1272. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137 i 1199. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 693, 995, 1217, 1240 i 1268.
 
 

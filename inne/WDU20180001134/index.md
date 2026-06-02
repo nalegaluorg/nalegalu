@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 21 maja 2018 r. w sprawie wymagań, jakim powinna odpowiadać ochrona przechowywanego i przewożonego zabytku wpisanego na Listę Skarbów Dziedzictwa
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 21 maja 2018 r. w sprawie wymagań, jakim powinna odpowiadać ochrona przechowywanego i przewożonego zabytku wpisanego na Listę Skarbów Dziedzictwa Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-21 |
 | Data wydania | 2018-06-12 |
-| Wejście w życie | 2018-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001134) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1134/text.pdf) |
 
@@ -33,15 +32,14 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Wymagania, jakim powinna odpowiadać ochrona przewożonego zabytku wpisanego na Listę Skarbów Dziedzictwa
 
 Treść rozporządzenia
-Na podstawie art. 37i ust. 6 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2017 r. poz. 2187 oraz z 2018 r. poz. 10) zarządza się, co następuje:
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 8 grudnia 2017 r. pod numerem 2017/574/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Na podstawie art. 37i ust. 6 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2017 r. poz. 2187 oraz z 2018 r. poz. 10) zarządza się, co następuje:
 § 1.
 1.
 Wymagania, jakim powinna odpowiadać ochrona przechowywanego zabytku wpisanego na Listę Skarbów Dziedzictwa, zwanego dalej „zabytkiem”, określa załącznik nr 1 do rozporządzenia.
 2.
 Wymagania, jakim powinna odpowiadać ochrona przewożonego zabytku, określa załącznik nr 2 do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 8 grudnia 2017 r. pod numerem 2017/574/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 8 grudnia 2017 r. pod numerem 2017/574/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 ## Załącznik nr 1 — – Wymagania, jakim powinna odpowiadać ochrona przechowywanego zabytku wpisanego na Listę Skarbów Dziedzictwa
 
@@ -159,7 +157,7 @@ W przypadku gdy przewożony zabytek jest muzealium w rozumieniu art. 21 ust. 1 u
 7.
 Ochronę podczas przewożenia zabytku wykonuje:
 1)
-jeden konwojent – w przypadku gdy wartość zabytku jest mniejsza niż 5 jednostek obliczeniowych, z których każda stanowi 120-krotność ogłaszanego w komunikacie Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, z późn. zm.) przeciętnego wynagrodzenia w kwartale poprzedzającym kwartał, w którym rozpoczęto przewożenie zabytku;
+jeden konwojent – w przypadku gdy wartość zabytku jest mniejsza niż 5 jednostek obliczeniowych, z których każda stanowi 120-krotność ogłaszanego w komunikacie Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1386 i 2120 oraz z 2018 r. poz. 138, 357, 730, 912 i 1076.) przeciętnego wynagrodzenia w kwartale poprzedzającym kwartał, w którym rozpoczęto przewożenie zabytku;
 2)
 dwóch konwojentów – w przypadku gdy wartość zabytku jest równa albo większa niż 5 i mniejsza niż 15 jednostek obliczeniowych, o których mowa w ppkt 1;
 3)
@@ -179,5 +177,5 @@ Przewożenie zabytku planuje się tak, aby mogło być wykonywane w dni robocze.
 13.
 W przypadku gdy przewidywany jest dłuższy postój, miejsce postoju przewożonego zabytku i organizację jego ochrony właściciel lub posiadacz uzgadnia wcześniej z kierownikiem jednostki Policji, na terenie działania której postój jest planowany.
 14.
-Przy wyznaczaniu dłuższego postoju w czasie przewożenia zabytku bierze się przede wszystkim pod uwagę możliwości wykorzystania do tego celu zamkniętych terenów muzeów i innych obiektów ochranianych przez specjalistyczne uzbrojone formacje ochronne w rozumieniu ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia lub terenów pozostających w trwałym zarządzie organów lub instytucji państwowych, po wcześniejszym uzgodnieniu przez właściciela lub posiadacza zabytku z tymi organami lub instytucjami możliwości spełnienia wymagań dotyczących przechowywania i zabezpieczenia zabytku podczas postoju.
+Przy wyznaczaniu dłuższego postoju w czasie przewożenia zabytku bierze się przede wszystkim pod uwagę możliwości wykorzystania do tego celu zamkniętych terenów muzeów i innych obiektów ochranianych przez specjalistyczne uzbrojone formacje ochronne w rozumieniu ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia lub terenów pozostających w trwałym zarządzie organów lub instytucji państwowych, po wcześniejszym uzgodnieniu przez właściciela lub posiadacza zabytku z tymi organami lub instytucjami możliwości spełnienia wymagań dotyczących przechowywania i zabezpieczenia zabytku podczas postoju. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1386 i 2120 oraz z 2018 r. poz. 138, 357, 730, 912 i 1076.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1986-10-24 |
 | Data wydania | 1986-10-31 |
-| Wejście w życie | 1986-10-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19860390193) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1986/193/text.pdf) |
 
@@ -39,7 +38,7 @@ source: "eli-html"
 - **2)** podejmuje działanie w celu wywołania niepokoju publicznego lub rozruchów,
 - **3)** publicznie nawołuje do popełnienia przestępstwa lub je pochwala,
 - **4)** publicznie nawołuje do nieposłuszeństwa lub przeciwdziałania ustawie albo prawnemu rozporządzeniu organu państwowego,
-- **5)** bierze udział w związku, którego istnienie, ustrój lub cel ma pozostać tajemnicą wobec organów państwowych albo który rozwiązano lub któremu odmówiono zalegalizowania, jeżeli zasięg czynu albo jego skutki nie były znaczne podlega karze aresztu, ograniczenia wolności albo grzywny.
+- **5)** bierze udział w związku, którego istnienie, ustrój lub cel ma pozostać tajemnicą wobec organów państwowych albo który rozwiązano lub któremu odmówiono zalegalizowania, jeżeli zasięg czynu albo jego skutki nie były znaczne – podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 § 2. Usiłowanie, podżeganie i pomocnictwo są karalne.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-07 |
 | Data wydania | 2018-09-13 |
-| Wejście w życie | 2018-09-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1766/text.pdf) |
 
@@ -41,7 +40,7 @@ W uzasadnionych przypadkach funkcjonariusz składa pisemne oświadczenie o okoli
 1.
 Funkcjonariuszowi przysługuje zwrot kosztów przejazdu w wysokości udokumentowanej biletami lub fakturami obejmującymi cenę biletu na dany środek transportu, wraz z opłatami dodatkowymi, w tym opłatami za miejscówki, z uwzględnieniem posiadanej przez funkcjonariusza ulgi na dany środek transportu, bez względu na to, z jakiego tytułu ulga przysługuje.
 2.
-W przypadku korzystania przez funkcjonariusza w czasie podróży służbowej z samochodu osobowego, motocykla lub motoroweru niebędącego własnością Kancelarii Sejmu kwotę zwrotu kosztów przejazdu stanowi iloczyn przejechanych kilometrów i stawki za jeden kilometr przebiegu, która jest określona w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm.).
+W przypadku korzystania przez funkcjonariusza w czasie podróży służbowej z samochodu osobowego, motocykla lub motoroweru niebędącego własnością Kancelarii Sejmu kwotę zwrotu kosztów przejazdu stanowi iloczyn przejechanych kilometrów i stawki za jeden kilometr przebiegu, która jest określona w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592 i 1629.).
 § 4.
 1.
 Kwotę diety, stanowiącej ekwiwalent pieniężny na pokrycie kosztów wyżywienia w czasie podróży służbowej, w podróży krajowej ustala się w wysokości określonej w przepisach o wysokości oraz warunkach ustalania należności przysługujących pracownikowi z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, 1000, 1076, 1608 i 1629).
@@ -127,5 +126,5 @@ Rozliczenie kosztów podróży zagranicznej jest dokonywane w walucie otrzymanej
 § 12.
 W przypadku odbywania podróży zagranicznej w połączeniu z przejazdem na obszarze kraju przepisy § 4–6 stosuje się odpowiednio.
 § 13.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592 i 1629.
 

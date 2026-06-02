@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Zdrowiaz dnia 14 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek
+# Obwieszczenie Ministra Zdrowiaz dnia 14 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -37,22 +37,17 @@ rozporządzeniem Ministra Zdrowia z dnia 13 kwietnia 2023 r. zmieniającym rozpo
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 16 grudnia 2020 r. zmieniającego rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. poz. 2308), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 16 grudnia 2020 r. zmieniającego rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. poz. 2308), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 13 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. poz. 721), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 13 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. poz. 721), które stanowią: „
 § 2.
 Banki tkanek i komórek dostosują dokumentację systemu zapewniania jakości do wymagań określonych w § 3 i § 7 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 14 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 9 października 2008 r. w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek
-Na podstawie art. 29 ust. 3 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2023 r. poz. 1185) zarządza się, co następuje:
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 9 października 2008 r. w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórekNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Niniejsze rozporządzenie wdraża przepisy: – dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. WE L 102 z 07.04.2004, str. 48, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291), – dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40, z późn. zm.), – dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32, z późn. zm.). Na podstawie art. 29 ust. 3 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2023 r. poz. 1185) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa wymagania, jakie powinien spełniać system zapewnienia jakości banku tkanek i komórek, zwany dalej „systemem”, w szczególności wymagania dla przechowywania tkanek i komórek, rejestrowania danych dawców oraz konieczność utworzenia standardowych procedur operacyjnych, o których mowa w art. 29 ust. 2 pkt 1 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, zwanej dalej „ustawą”.
 § 2.
@@ -89,13 +84,13 @@ c)
 wywiadu z lekarzem, który leczył dawcę,
 d)
 wywiadu z lekarzem podstawowej opieki zdrowotnej,
-e)
+eW brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Zdrowia z dnia 16 grudnia 2020 r. zmieniającego rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. poz. 2308), które weszło w życie z dniem 5 stycznia 2021 r.)
 raportu z badania pośmiertnego wykonanego w ramach sekcji sądowo-lekarskiej lub sekcji anatomopatologicznej,
 f)
 wyniku badania przedmiotowego dawcy zmarłego i żywego w celu wykrycia wszelkich oznak, które mogą wykluczyć ich jako dawców lub które może wpłynąć na ocenę do zakwalifikowania ich jako dawców komórek lub tkanek,
 g)
 dokumentacji dotyczącej oceny stanu zdrowia dawcy, pod kątem przydatności do pobrania komórek lub tkanek, podpisanej przez osobę odpowiedzialną lub pracownika przez nią upoważnionego,
-h)
+hDodana przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3.)
 wyniku badań dodatkowych, w tym badań laboratoryjnych, obrazowych, histopatologicznych, mikrobiologicznych oraz otwarcia jam ciała wykonanych na wniosek banku tkanek i komórek;
 3)
 kryteriów wykluczających zmarłego dawcę komórek lub tkanek, sporządzonych na podstawie informacji dotyczących:
@@ -117,7 +112,7 @@ h)
 biorcy przeszczepów rogówki, twardówki i opony twardej, a także osoby, którą poddano nieudokumentowanej operacji neurochirurgicznej, w której zastosowana mogła być opona twarda,
 i)
 zakażenia ogólnoustrojowego niebędącego pod kontrolą w momencie pobrania, w tym choroby bakteryjnej, uogólnionego zakażenia wirusowego, grzybiczego lub pasożytniczego lub poważnego zakażenia miejscowego w komórkach lub tkankach, które mają być pobrane,
-j)
+jW brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 13 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. poz. 721), które weszło w życie z dniem 18 kwietnia 2023 r.)
 dodatniego wywiadu w kierunku cech klinicznych lub wyników laboratoryjnych świadczących o zakażeniu wirusem HIV, ostrym lub przewlekłym zapaleniu wątroby wywołanym przez wirusa HBV, zapaleniu wątroby wywołanym przez wirusa HCV lub zakażeniu wirusem HTLV I/II,
 k)
 ryzyka przeniesienia lub obecności czynników ryzyka związanych z zakażeniami, o których mowa w lit. j,
@@ -171,8 +166,8 @@ w szczególnych przypadkach dawca żywy i zmarły powinien mieć określone:
 – wykonanie testów na obecność przeciwciał HTLV-I u dawcy mieszkającego na obszarach o wysokiej chorobowości lub pochodzącego z takich obszarów, lub którego partnerzy seksualni bądź rodzice pochodzą z takich obszarów,
 – w razie pozytywnego wyniku testu Anty HBc a negatywnego wyniku testu HBsAg konieczne jest wykonanie dalszych testów dla oceny ryzyka, mających na celu ustalenie przydatności (pobranych komórek lub tkanek) do wykorzystania klinicznego,
 – zależnie od danych zawartych w historii choroby dawcy oraz właściwości pobieranych komórek lub tkanek należy wykonać u dawcy dodatkowe testy, np. badania antygenu RhD i HLA, w kierunku nosicielstwa malarii, wirusa CMV, toksoplazmozy, wirusa EBV i pierwotniaka Trypanosoma Cruz,
-f)
-(uchylona);
+fDodana przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3.)
+(uchylona);Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5.
 6)
 sposobu pobierania komórek lub tkanek i określenia następujących danych:
 a)
@@ -398,15 +393,15 @@ pisemne zobowiązanie strony trzeciej gwarantujące zachowanie warunków określ
 d)
 obowiązki i działania osoby dokonującej dystrybucji lub wycofania komórek lub tkanek,
 e)
-sposób udostępniania zakładom opieki zdrowotnej  komórek lub tkanek,
+sposób udostępniania zakładom opieki zdrowotnej Obecnie zakładom leczniczym podmiotu leczniczego na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. komórek lub tkanek,
 f)
 sposób postępowania ze zwróconymi komórkami lub tkankami;
 3)
 sposobu oznakowania pojemników zawierających komórki lub tkanki oraz pojemników transportowych zawierających informacje, o których mowa w § 3 pkt 14;
 4)
 sposobu postępowania z komórkami lub tkankami przeznaczonymi do bezpośredniej dystrybucji (bez przetwarzania w banku tkanek i komórek);
-5)
-(uchylony).
+5Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.)
+(uchylony).Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5.
 § 8.
 Standardowe procedury operacyjne w zakresie transportu komórek lub tkanek do odbiorcy określają wymagania dotyczące:
 1)
@@ -416,7 +411,7 @@ warunków transportu dla każdego rodzaju komórek lub tkanek;
 3)
 sporządzania specyfikacji dotyczącej warunków transportu i przechowywania w czasie transportu komórek lub tkanek;
 4)
-sposobu odbioru w zakładach opieki zdrowotnej , komórek lub tkanek transportowanych z banku tkanek i komórek;
+sposobu odbioru w zakładach opieki zdrowotnej Obecnie zakładom leczniczym podmiotu leczniczego na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r., komórek lub tkanek transportowanych z banku tkanek i komórek;
 5)
 sposobu postępowania z przesyłkami komórek lub tkanek niezgodnymi z transportową dokumentacją, z niekompletnymi wynikami badań, o nieakceptowalnej jakości lub uszkodzonymi.
 § 9.
@@ -434,7 +429,7 @@ produktom powstałym z przetworzonych komórek lub tkanek,
 e)
 bankowi tkanek i komórek,
 f)
-zakładowi opieki zdrowotnej  przeszczepiającemu komórki lub tkanki,
+zakładowi opieki zdrowotnej Obecnie zakładom leczniczym podmiotu leczniczego na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. przeszczepiającemu komórki lub tkanki,
 g)
 biorcy komórek lub tkanek;
 2)
@@ -580,6 +575,5 @@ raportów w sprawie miejsca przeznaczenia komórek lub tkanek, dokumentujących 
 § 16.
 Banki tkanek i komórek dostosują dokumentację systemu do wymagań określonych w rozporządzeniu w terminie roku od dnia wejścia w życie rozporządzenia.
 § 17.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie wdraża przepisy: – dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. WE L 102 z 07.04.2004, str. 48, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291), – dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40, z późn. zm.), – dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32, z późn. zm.). 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Zdrowia z dnia 16 grudnia 2020 r. zmieniającego rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. poz. 2308), które weszło w życie z dniem 5 stycznia 2021 r. 4) Dodana przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 13 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. poz. 721), które weszło w życie z dniem 18 kwietnia 2023 r. 6) Dodana przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3. 7) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5. 8) Obecnie zakładom leczniczym podmiotu leczniczego na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. 9) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 10) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 11) Rozporządzenie zostało ogłoszone w dniu 24 października 2008 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 24 października 2008 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Niniejsze rozporządzenie wdraża przepisy: – dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. WE L 102 z 07.04.2004, str. 48, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 291), – dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40, z późn. zm.), – dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32, z późn. zm.). 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Zdrowia z dnia 16 grudnia 2020 r. zmieniającego rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. poz. 2308), które weszło w życie z dniem 5 stycznia 2021 r. 4) Dodana przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 13 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. poz. 721), które weszło w życie z dniem 18 kwietnia 2023 r. 6) Dodana przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3. 7) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 5. 8) Obecnie zakładom leczniczym podmiotu leczniczego na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. 9) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 10) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 5. 11) Rozporządzenie zostało ogłoszone w dniu 24 października 2008 r.
 

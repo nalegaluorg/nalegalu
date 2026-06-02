@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 12 czerwca 2024 r. w sprawie zmiany obszaru wolnego obszaru celnego w Gliwicach
+# Rozporządzenie Ministra Finansówz dnia 12 czerwca 2024 r. w sprawie zmiany obszaru wolnego obszaru celnego w Gliwicach Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-12 |
 | Data wydania | 2024-06-24 |
-| Wejście w życie | 2024-07-09 |
 | Ostatnia zmiana | 2024-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000926) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/926/text.pdf) |
 
@@ -33,8 +32,7 @@ Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. 
 § 1.
 Określa się, w załączniku do rozporządzenia, granice i obszar wolnego obszaru celnego w Gliwicach, ustanowionego rozporządzeniem Rady Ministrów z dnia 25 stycznia 1993 r. w sprawie ustanowienia wolnego obszaru celnego w Gliwicach (Dz. U. poz. 39, z 2003 r. poz. 1675, z 2005 r. poz. 147 oraz z 2015 r. poz. 737).
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 Załącznik – Szczegółowy opis granic i obszar wolnego obszaru celnego w Gliwicach
 Opis przebiegu granic wolnego obszaru celnego jest przedstawiony na mapie. Dokument zawierający opis przebiegu granic wolnego obszaru celnego wraz z mapą jest przechowywany u zarządzającego wolnym obszarem celnym oraz w postaci kopii we właściwej miejscowo izbie administracji skarbowej nadzorującej wolny obszar celny i w Ministerstwie Finansów. Granice wolnego obszaru celnego zlokalizowanego w Gliwicach są wyznaczone przez następujące punkty graniczne:
 1)
@@ -60,6 +58,5 @@ w punkcie nr 28 granica skręca w kierunku południowo-zachodnim i biegnie wzdł
 11)
 w punkcie nr 29 granica skręca w kierunku północno-zachodnim i biegnie wzdłuż budynku do punktu nr 30;
 12)
-w punkcie nr 30 granica skręca w kierunku południowo-zachodnim i biegnie wzdłuż ogrodzenia do punktu nr 31.
-Całkowita powierzchnia wolnego obszaru celnego wynosi 10,76 ha.
+w punkcie nr 30 granica skręca w kierunku południowo-zachodnim i biegnie wzdłuż ogrodzenia do punktu nr 31. Całkowita powierzchnia wolnego obszaru celnego wynosi 10,76 ha.
 

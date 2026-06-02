@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 czerwca 2017 r. w sprawie wysokości wynagrodzenia i podlegających zwrotowi wydatków mediatora w postępowaniu administracyjnym
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 czerwca 2017 r. w sprawie wysokości wynagrodzenia i podlegających zwrotowi wydatków mediatora w postępowaniu administracyjnym Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-02 |
 | Data wydania | 2017-06-05 |
-| Wejście w życie | 2017-06-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1088/text.pdf) |
 
@@ -50,8 +49,7 @@ nieruchomości,
 7)
 rolnictwa i leśnictwa,
 8)
-własności przemysłowej
-wynagrodzenie mediatora wynosi za pierwsze posiedzenie 150 złotych, a za każde kolejne – 100 złotych, łącznie nie więcej niż 2000 złotych.
+własności przemysłowej – wynagrodzenie mediatora wynosi za pierwsze posiedzenie 150 złotych, a za każde kolejne – 100 złotych, łącznie nie więcej niż 2000 złotych.
 3.
 W sprawach niewymienionych w ust. 1 albo 2 wynagrodzenie mediatora za prowadzenie postępowania mediacyjnego wynosi za pierwsze posiedzenie 150 złotych, a za każde kolejne – 100 złotych, łącznie nie więcej niż 450 złotych.
 § 3.
@@ -70,6 +68,5 @@ Wynagrodzenie mediatora, będącego podatnikiem zobowiązanym do rozliczenia pod
 2.
 Kwotę wydatków, o których mowa w § 3, nieobejmującą kwoty podatku od towarów i usług, w stosunku do której mediatorowi przysługiwało prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego z tytułu poniesienia tych wydatków, podwyższa się o kwotę podatku od towarów i usług obliczoną zgodnie z przepisami o podatku od towarów i usług.
 § 6.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
 

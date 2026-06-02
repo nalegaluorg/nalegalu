@@ -22,18 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-09 |
 | Data wydania | 2021-07-05 |
-| Wejście w życie | 2021-07-20 |
 | Ostatnia zmiana | 2025-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1216/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r. poz. 577) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. poz. 485, z późn. zm.) w załączniku nr 4 do rozporządzenia w tabeli:
+W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. poz. 485, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2017 r. poz. 1173, z 2018 r. poz. 335, 985, 1001 i 1948, z 2019 r. poz. 1324 oraz z 2020 r. poz. 380 i 1170.) w załączniku nr 4 do rozporządzenia w tabeli:
 a)
-po wierszu „Funkcja punktu kontaktowego Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych” dodaje się wiersz w brzmieniu: Funkcja jednego koordynatora do spraw dostępności dla obszaru apelacji do 901
+po wierszu „Funkcja punktu kontaktowego Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych” dodaje się wiersz w brzmieniu:
+Funkcja jednego koordynatora do spraw dostępności dla obszaru apelacji do 901
 § 2.
 Przepisy niniejszego rozporządzenia mają zastosowanie przy ustalaniu dodatku do wynagrodzenia z tytułu pełnienia funkcji koordynatora do spraw dostępności od dnia 1 stycznia 2021 r.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2017 r. poz. 1173, z 2018 r. poz. 335, 985, 1001 i 1948, z 2019 r. poz. 1324 oraz z 2020 r. poz. 380 i 1170.
 

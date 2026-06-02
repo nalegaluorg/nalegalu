@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 sierpnia 2023 r. o zmianie ustawy o zdrowiu publicznym oraz niektórych innych ustaw
+# Ustawa z dnia 17 sierpnia 2023 r. o zmianie ustawy o zdrowiu publicznym oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 czerwca 2010 r. o sporcie, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej oraz ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-17 |
 | Data wydania | 2023-08-28 |
-| Wejście w życie | 2023-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1718/text.pdf) |
+
+Sprzedaż i oznaczenie napojów z dodatkiem kofeiny lub tauryny
+Przepisy karne
+Ewidencja „Sportowe talenty”
 
 **Art. 1.** W ustawie z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2022 r. poz. 1608) wprowadza się następujące zmiany:
 
@@ -36,7 +39,7 @@ source: "eli-html"
 - **2)** sprzedaży i oznaczenia napojów z dodatkiem kofeiny lub tauryny w produkcie gotowym do spożycia. ” ;
 - **2)** po rozdziale 3a dodaje się rozdział 3b w brzmieniu: „
 
-#### Rozdział 3b Sprzedaż i oznaczenie napojów z dodatkiem kofeiny lub tauryny
+#### Rozdział 3b
 
 **Art. 12l.** Za napój z dodatkiem kofeiny lub tauryny w rozumieniu niniejszego rozdziału uważa się wyrób w postaci napoju będący środkiem spożywczym, ujęty w Polskiej Klasyfikacji Wyrobów i Usług w klasie 10.89 oraz w dziale 11, w którego składzie znajduje się kofeina w proporcji przewyższającej 150 mg/l lub tauryna, z wyłączeniem substancji występujących w nim naturalnie. 1. Zabrania się sprzedaży napojów z dodatkiem kofeiny lub tauryny:
 
@@ -48,7 +51,7 @@ source: "eli-html"
 
 - **3)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
 
-#### Rozdział 4a Przepisy karne
+#### Rozdział 4a
 
 **Art. 18a.**
 
@@ -64,11 +67,11 @@ source: "eli-html"
 
 1. Orzekanie w sprawach o czyny, o których mowa w art. 18a, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
-2. Orzekanie w sprawach o czyny, o których mowa w art. 18b, następuje w trybie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.). ” .
+2. Orzekanie w sprawach o czyny, o których mowa w art. 18b, następuje w trybie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535, 818 i 1606.). ” .
 
 **Art. 2.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2022 r. poz. 1599 i 2185 oraz z 2023 r. poz. 1617 i 1688) po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Ewidencja „Sportowe talenty”
+#### Rozdział 6a
 
 **Art. 36a.** W ewidencji „Sportowe talenty” gromadzi się dane uczniów klas IV-VIII szkół podstawowych, szkół ponadpodstawowych, o których mowa w art. 18 ust. 1 pkt 2 lit. a-c ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900 i 1672), zwanej dalej „ustawą – Prawo oświatowe”, oraz szkół artystycznych realizujących kształcenie ogólne w zakresie klas IV-VIII szkoły podstawowej i liceum ogólnokształcącego, obejmujące:
 
@@ -192,5 +195,5 @@ source: "eli-html"
 
 **Art. 5.** Szkoły podstawowe, szkoły ponadpodstawowe, o których mowa w art. 18 ust. 1 pkt 2 lit. a-c ustawy zmienianej w art. 4, i szkoły artystyczne realizujące kształcenie ogólne w zakresie szkoły podstawowej i liceum ogólnokształcącego, składają po raz pierwszy wnioski, o których mowa w art. 36f ust. 3 ustawy zmienianej w art. 2, nie później niż na miesiąc przed terminem przeprowadzenia testów sprawnościowych określonym w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 ustawy zmienianej w art. 4.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 września 2023 r., z wyjątkiem art. 1, który wchodzi w życie z dniem 1 stycznia 2024 r.
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 września 2023 r., z wyjątkiem art. 1, który wchodzi w życie z dniem 1 stycznia 2024 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 czerwca 2010 r. o sporcie, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej oraz ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535, 818 i 1606.
 

@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2004-12-16 |
 | Data wydania | 2004-12-29 |
-| Wejście w życie | 2005-01-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812780) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2780/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2000 r. Nr 50, poz. 601, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2000 r. Nr 50, poz. 601, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 125, poz. 1371, z 2002 r. Nr 113, poz. 984 i Nr 130, poz. 1112, z 2003 r. Nr 149, poz. 1452 i Nr 211, poz. 2049 oraz z 2004 r. Nr 97, poz. 962 i Nr 160, poz. 1678.) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 12;
 - **2)** w art. 33a: ust. 3 otrzymuje brzmienie: „
@@ -50,7 +49,7 @@ source: "eli-html"
 
 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
-- **1)** sposób ustalania wysokości opłat dodatkowych pobieranych w razie: braku odpowiedniego dokumentu przewozu, braku ważnego dokumentu poświadczającego uprawnienie do bezpłatnego albo ulgowego przejazdu, niezapłacenia należności za zabrane ze sobą do środka przewozu rzeczy lub zwierzęta albo naruszenia przepisów o ich przewozie, spowodowania, bez uzasadnionej przyczyny, zatrzymania lub zmiany trasy środka transportu mając na uwadze zróżnicowanie wysokości opłat dodatkowych w zależności od strat poniesionych przez przewoźnika i powodu nałożenia opłaty dodatkowej;
+- **1)** sposób ustalania wysokości opłat dodatkowych pobieranych w razie: braku odpowiedniego dokumentu przewozu, braku ważnego dokumentu poświadczającego uprawnienie do bezpłatnego albo ulgowego przejazdu, niezapłacenia należności za zabrane ze sobą do środka przewozu rzeczy lub zwierzęta albo naruszenia przepisów o ich przewozie, spowodowania, bez uzasadnionej przyczyny, zatrzymania lub zmiany trasy środka transportu – mając na uwadze zróżnicowanie wysokości opłat dodatkowych w zależności od strat poniesionych przez przewoźnika i powodu nałożenia opłaty dodatkowej;
     - **a)**
     - **b)**
     - **c)**
@@ -73,9 +72,9 @@ source: "eli-html"
 **Art. 79.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy tryb i sposób ustalania stanu przesyłek,
-- **2)** warunki, jakim powinny odpowiadać reklamacje i wezwania do zapłaty z tytułu przewozu osób i przesyłek oraz tryb postępowania reklamacyjnego mając na uwadze zapewnienie sprawnego i terminowego dochodzenia roszczeń. ” .
+- **2)** warunki, jakim powinny odpowiadać reklamacje i wezwania do zapłaty z tytułu przewozu osób i przesyłek oraz tryb postępowania reklamacyjnego – mając na uwadze zapewnienie sprawnego i terminowego dochodzenia roszczeń. ” .
 
 **Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 34 ust. 1 pkt 1, art. 56 oraz art. 79 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 31 stycznia 2005 r.
+**Art. 3.** Ustawa wchodzi w życie z dniem 31 stycznia 2005 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 125, poz. 1371, z 2002 r. Nr 113, poz. 984 i Nr 130, poz. 1112, z 2003 r. Nr 149, poz. 1452 i Nr 211, poz. 2049 oraz z 2004 r. Nr 97, poz. 962 i Nr 160, poz. 1678.
 

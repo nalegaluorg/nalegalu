@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Finansówz dnia 30 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych
+# Obwieszczenie Ministra Finansówz dnia 30 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -26,19 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001220) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1220/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Finansów z dnia 29 września 2005 r. w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Przypadki dokonywania zwrotu podatku Rozdział 3 – Tryb dokonywania zwrotu podatku Rozdział 4 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Finansów z dnia 29 września 2005 r. w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 29 września 2005 r. w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych (Dz. U. poz. 1618), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 22 czerwca 2023 r. zmieniającym rozporządzenie w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych (Dz. U. poz. 1241).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 czerwca 2023 r. zmieniającego rozporządzenie w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych (Dz. U. poz. 1241), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 czerwca 2023 r. zmieniającego rozporządzenie w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych (Dz. U. poz. 1241), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2023 r.
-” .
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
-Załącznik – Rozporządzenie Ministra Finansów z dnia 29 września 2005 r. w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2023 r. ” . 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 29 września 2005 r. w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowychNa dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 Na podstawie art. 89 ust. 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361 i 852) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -51,6 +49,7 @@ urzędzie skarbowym – należy przez to rozumieć Drugi Urząd Skarbowy Warszaw
 naczelniku urzędu skarbowego – należy przez to rozumieć Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście;
 5)
 podatku – należy przez to rozumieć podatek od towarów i usług.
+Przypadki dokonywania zwrotu podatku
 § 2.
 1.
 Zwrot podatku przysługuje:
@@ -64,13 +63,14 @@ Zwrot podatku zawartego w cenach towarów i usług nabytych przez podmioty, o kt
 Informację o ilości (wartości) towarów lub usług, których nabycie uprawnia do zwrotu podatku, minister właściwy do spraw zagranicznych przekazuje uprawnionym przedstawicielstwom oraz naczelnikowi urzędu skarbowego.
 4.
 Zwrot podatku z tytułu nabycia środka transportu przysługuje pod warunkiem, że środek ten nie zostanie odstąpiony podmiotom innym niż wymienione w ust. 1, przez okres 3 lat od dnia jego nabycia.
-5.
-Na zasadzie wzajemności, zwrot podatku z tytułu nabycia pojazdu silnikowego w rozumieniu art. 2 pkt 32 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.) przysługuje także, jeżeli niezachowanie terminu określonego w ust. 4 było uzasadnione okolicznościami związanymi z ważnym interesem służby, dotyczącymi przesiedlenia osoby odstępującej pojazd silnikowy w celu podjęcia pracy w innym państwie, a osoba ta przebywała na terytorium kraju nie krócej niż 2 lata.
+5Dodany przez § 1 rozporządzenia Ministra Finansów z dnia 22 czerwca 2023 r. zmieniającego rozporządzenie w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych (Dz. U. poz. 1241), które weszło w życie z dniem 1 lipca 2023 r..
+Na zasadzie wzajemności, zwrot podatku z tytułu nabycia pojazdu silnikowego w rozumieniu art. 2 pkt 32 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834.) przysługuje także, jeżeli niezachowanie terminu określonego w ust. 4 było uzasadnione okolicznościami związanymi z ważnym interesem służby, dotyczącymi przesiedlenia osoby odstępującej pojazd silnikowy w celu podjęcia pracy w innym państwie, a osoba ta przebywała na terytorium kraju nie krócej niż 2 lata.
 § 3.
 1.
 Dokumentem stanowiącym podstawę do obliczenia podatku podlegającego zwrotowi jest faktura wystawiona przy nabyciu towarów lub usług.
 2.
 Faktura wystawiana jest w trzech egzemplarzach, przy czym oryginał faktury wraz z jedną kopią otrzymuje nabywca towarów i usług.
+Tryb dokonywania zwrotu podatku
 § 4.
 1.
 Wniosek w sprawie zwrotu podatku, zwany dalej „wnioskiem”, składany jest naczelnikowi urzędu skarbowego.
@@ -111,23 +111,30 @@ Jeżeli zwrot należności, o której mowa w ust. 1, nastąpił:
 1)
 po dokonaniu, zgodnie z § 5, zwrotu kwoty podatku wynikającej z tej faktury lub
 2)
-przed dokonaniem zwrotu kwoty podatku, natomiast informację o dokonanym zwrocie tej należności urząd skarbowy otrzymuje po dokonaniu zwrotu kwoty podatku
-kwotę zwracanego podatku za następny okres pomniejsza się o tę kwotę.
+przed dokonaniem zwrotu kwoty podatku, natomiast informację o dokonanym zwrocie tej należności urząd skarbowy otrzymuje po dokonaniu zwrotu kwoty podatku – kwotę zwracanego podatku za następny okres pomniejsza się o tę kwotę.
 3.
 W przypadku gdy podmiot nie składa wniosku za następny okres (okresy), kwotę podatku wynikającą z faktury, o której mowa w ust. 2, zwraca się do urzędu skarbowego nie później niż w terminie 6 miesięcy od otrzymania przez podmiot zwrotu kwoty podatku, o której mowa w § 5.
+Przepisy przejściowe i końcowe
 § 7.
 Do wniosków złożonych przez uprawnione przedstawicielstwa oraz członków personelu przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 8.
 § 8.
 Traci moc rozporządzenie Ministra Finansów z dnia 23 kwietnia 2004 r. w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym oraz członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych (Dz. U. poz. 833).
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Dodany przez § 1 rozporządzenia Ministra Finansów z dnia 22 czerwca 2023 r. zmieniającego rozporządzenie w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych (Dz. U. poz. 1241), które weszło w życie z dniem 1 lipca 2023 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834. 4) Rozporządzenie zostało ogłoszone w dniu 5 października 2005 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 5 października 2005 r.. 1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Dodany przez § 1 rozporządzenia Ministra Finansów z dnia 22 czerwca 2023 r. zmieniającego rozporządzenie w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych (Dz. U. poz. 1241), które weszło w życie z dniem 1 lipca 2023 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834. 4) Rozporządzenie zostało ogłoszone w dniu 5 października 2005 r.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przypadki dokonywania zwrotu podatku
+#### Rozdział 2 – Przypadki dokonywania zwrotu podatku
 
-#### Rozdział 3 Tryb dokonywania zwrotu podatku
+#### Rozdział 3 – Tryb dokonywania zwrotu podatku
 
-#### Rozdział 4 Przepisy przejściowe i końcowe
+#### Rozdział 4 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
 

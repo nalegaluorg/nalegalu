@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-11-19 |
 | Data wydania | 2009-12-16 |
-| Wejście w życie | 2009-12-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092131650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1650/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.) art. 30a otrzymuje brzmienie: „
+**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600, z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238, Nr 191, poz. 1369 i Nr 247, poz. 1821, z 2008 r. Nr 145, poz. 917 i Nr 227, poz. 1505 oraz z 2009 r. Nr 1, poz. 1, Nr 56, poz. 458, Nr 67, poz. 572 i Nr 97, poz. 800.) art. 30a otrzymuje brzmienie: „
 
 **Art. 30a.**
 
@@ -47,9 +46,9 @@ source: "eli-html"
 - **1)** sposób wyliczania średnich wynagrodzeń nauczycieli na poszczególnych stopniach awansu zawodowego, o których mowa w art. 30 ust. 3,
 - **2)** sposób ustalania średniorocznej struktury zatrudnienia nauczycieli,
 - **3)** sposób ustalania kwoty różnicy, o której mowa w ust. 2,
-- **4)** sposób ustalania wysokości jednorazowego dodatku uzupełniającego a także wzór formularza sprawozdania, uwzględniając okres obowiązywania kwoty bazowej, o której mowa w art. 30 ust. 3, okresy zatrudnienia, w których nauczyciele nie są wliczani do średniorocznej struktury zatrudnienia, oraz zmiany wysokości wynagrodzeń i struktury zatrudnienia nauczycieli wynikające z uzyskiwania przez nich kolejnych stopni awansu zawodowego. ” .
+- **4)** sposób ustalania wysokości jednorazowego dodatku uzupełniającego – a także wzór formularza sprawozdania, uwzględniając okres obowiązywania kwoty bazowej, o której mowa w art. 30 ust. 3, okresy zatrudnienia, w których nauczyciele nie są wliczani do średniorocznej struktury zatrudnienia, oraz zmiany wysokości wynagrodzeń i struktury zatrudnienia nauczycieli wynikające z uzyskiwania przez nich kolejnych stopni awansu zawodowego. ” .
 
 **Art. 2.** Rozporządzenie, o którym mowa w art. 30a ust. 7 ustawy zmienianej w art. 1, minister właściwy do spraw oświaty i wychowania wyda w terminie miesiąca od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600, z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238, Nr 191, poz. 1369 i Nr 247, poz. 1821, z 2008 r. Nr 145, poz. 917 i Nr 227, poz. 1505 oraz z 2009 r. Nr 1, poz. 1, Nr 56, poz. 458, Nr 67, poz. 572 i Nr 97, poz. 800.
 

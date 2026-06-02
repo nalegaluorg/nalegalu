@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 10 grudnia 2021 r. w sprawie szczegółowych warunków i trybu wydawania świadectw pokrycia, zaświadczeń o wykonaniu zabiegu sztucznego unasienniania lub zaświadczeń o przeniesieniu zarodków oraz szczegółowego zakresu informacji zawartych w tych dokumentach
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 10 grudnia 2021 r. w sprawie szczegółowych warunków i trybu wydawania świadectw pokrycia, zaświadczeń o wykonaniu zabiegu sztucznego unasienniania lub zaświadczeń o przeniesieniu zarodków oraz szczegółowego zakresu informacji zawartych w tych dokumentach Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-10 |
 | Data wydania | 2021-12-20 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002361) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2361/text.pdf) |
 
@@ -44,7 +43,7 @@ szczegółowy zakres informacji zawartych w świadectwach i w zaświadczeniach, 
 1.
 Świadectwo pokrycia klaczy, z wyjątkiem klaczy rasy arabskiej czystej krwi, klaczy rasy pełnej krwi angielskiej i klaczy kuc szetlandzki, jest wystawiane bezpośrednio po jej pokryciu.
 2.
-Dodatkową kopię świadectwa, o którym mowa w ust. 1, podmiot prowadzący, zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, punkt kopulacyjny, zwany dalej „podmiotem prowadzącym punkt kopulacyjny”, przekazuje związkowi hodowców, o którym mowa w art. 2 pkt 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1012 z dnia 8 czerwca 2016 r. w sprawie zootechnicznych i genealogicznych warunków dotyczących hodowli zwierząt hodowlanych czystorasowych i mieszańców świni, handlu nimi i wprowadzania ich na terytorium Unii oraz handlu ich materiałem biologicznym wykorzystywanym do rozrodu i jego wprowadzania na terytorium Unii oraz zmieniającego rozporządzenie (UE) nr 652/2014, dyrektywy Rady 89/608/EWG i 90/425/EWG i uchylającego niektóre akty w dziedzinie hodowli zwierząt („rozporządzenie w sprawie hodowli zwierząt”) (Dz. Urz. UE L 171 z 29.06.2016, str. 66, z późn. zm.), zwanemu dalej „uznanym związkiem hodowców”, realizującemu zatwierdzony program hodowlany, w którym uczestniczy ogier użyty do krycia.
+Dodatkową kopię świadectwa, o którym mowa w ust. 1, podmiot prowadzący, zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, punkt kopulacyjny, zwany dalej „podmiotem prowadzącym punkt kopulacyjny”, przekazuje związkowi hodowców, o którym mowa w art. 2 pkt 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1012 z dnia 8 czerwca 2016 r. w sprawie zootechnicznych i genealogicznych warunków dotyczących hodowli zwierząt hodowlanych czystorasowych i mieszańców świni, handlu nimi i wprowadzania ich na terytorium Unii oraz handlu ich materiałem biologicznym wykorzystywanym do rozrodu i jego wprowadzania na terytorium Unii oraz zmieniającego rozporządzenie (UE) nr 652/2014, dyrektywy Rady 89/608/EWG i 90/425/EWG i uchylającego niektóre akty w dziedzinie hodowli zwierząt („rozporządzenie w sprawie hodowli zwierząt”) (Dz. Urz. UE L 171 z 29.06.2016, str. 66, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 77 z 20.03.2018, str. 18., zwanemu dalej „uznanym związkiem hodowców”, realizującemu zatwierdzony program hodowlany, w którym uczestniczy ogier użyty do krycia.
 3.
 W przypadku gdy pokrycie ogierem nie było skuteczne, daty kolejnych pokryć tym samym ogierem wykonywanych w danym okresie międzyciążowym są wpisywane w świadectwie, o którym mowa w ust. 1, przez podmiot prowadzący punkt kopulacyjny.
 4.
@@ -262,8 +261,7 @@ lochy albo loszki,
 3)
 owcy albo kozy,
 4)
-samicy albo samic królika
-jest wystawiane bezpośrednio po zabiegu.
+samicy albo samic królika – jest wystawiane bezpośrednio po zabiegu.
 2.
 Dodatkową kopię zaświadczenia, o którym mowa w ust. 1, podmiot wykonujący usługi w zakresie sztucznego unasienniania bydła przekazuje centrum, o którym mowa w art. 21 ust. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1012 z dnia 8 czerwca 2016 r. w sprawie zootechnicznych i genealogicznych warunków dotyczących hodowli zwierząt hodowlanych czystorasowych i mieszańców świni, handlu nimi i wprowadzania ich na terytorium Unii oraz handlu ich materiałem biologicznym wykorzystywanym do rozrodu i jego wprowadzania na terytorium Unii oraz zmieniającego rozporządzenie (UE) nr 652/2014, dyrektywy Rady 89/608/EWG i 90/425/EWG i uchylającego niektóre akty w dziedzinie hodowli zwierząt („rozporządzenie w sprawie hodowli zwierząt”), zwanemu dalej „centrum”, które dostarczyło nasienie wykorzystane do wykonania zabiegu sztucznego unasienniania.
 3.
@@ -460,6 +458,5 @@ imię i nazwisko oraz podpis osoby wykonującej zabieg przeniesienia zarodka.
 § 21.
 Do oznaczania ras bydła w świadectwach pokrycia, zaświadczeniach o wykonaniu zabiegu sztucznego unasienniania i zaświadczeniach o przeniesieniu zarodków stosuje się kody literowe ras zamieszczone na stronie internetowej administrowanej przez Agencję Restrukturyzacji i Modernizacji Rolnictwa.
 § 22.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 77 z 20.03.2018, str. 18. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 26 listopada 2009 r. w sprawie materiału biologicznego wykorzystywanego w rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 34), które zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 26 listopada 2009 r. w sprawie materiału biologicznego wykorzystywanego w rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 34), które zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 77 z 20.03.2018, str. 18. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 26 listopada 2009 r. w sprawie materiału biologicznego wykorzystywanego w rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 34), które zgodnie z art. 53 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

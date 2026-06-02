@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001960) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1960/text.pdf) |
 
-11996600
-11. UMOWY UBEZPIECZENIA NA ŻYCIE Z UBEZPIECZENIOWYM FUNDUSZEM KAPITAŁOWYM A B C D Dodatkowe roczne/kwartalne sprawozdanie finansowe i statystyczne sporządzone na dzień Noty objaśniające do załącznika nr 1 Sprawozdanie jest przekazywane do Komisji Nadzoru Finansowego za pomocą systemu teleinformatycznego Komisji Nadzoru Finansowego. Sprawozdanie zawiera formularze ponumerowane zgodnie ze spisem formularzy.
+11996600 … Noty objaśniające do załącznika nr 1 Sprawozdanie jest przekazywane do Komisji Nadzoru Finansowego za pomocą systemu teleinformatycznego Komisji Nadzoru Finansowego. Sprawozdanie zawiera formularze ponumerowane zgodnie ze spisem formularzy.
 Zakład ubezpieczeń wypełnia wszystkie formularze; jeżeli poszczególne pozycje nie występują, wykazuje wartość „0”. W przypadku formularzy dotyczących grup ubezpieczeń lub klas rachunkowych uwzględnia się grupy ubezpieczeń lub klasy rachunkowe, w których jest prowadzona działalność ubezpieczeniowa lub działalność reasekuracyjna.
 Przez „okres sprawozdawczy” rozumie się okres od początku roku obrotowego do dnia, na który jest sporządzane sprawozdanie finansowe, lub rok obrotowy.
 Przez „poprzedni okres sprawozdawczy” rozumie się analogiczny okres poprzedniego roku obrotowego albo poprzedni rok obrotowy.
@@ -577,7 +576,7 @@ W przypadku gdy reasekurator ma siedzibę w państwie, którego system wypłacal
 W kolumnie N „Kwoty należne z umów reasekuracji” wykazuje się wartość rezerw techniczno-ubezpieczeniowych dla celów wypłacalności na udziale reasekuratora na koniec okresu sprawozdawczego.
 W kolumnie O „Należności od reasekuratora” wykazuje się wartość należności od reasekuratora, które nie są wykazywane w rezerwach techniczno-ubezpieczeniowych dla celów wypłacalności na udziale reasekuratora, na koniec okresu sprawozdawczego.
 W kolumnie P „Zobowiązania wobec reasekuratora” wskazuje się wartość zobowiązań wobec reasekuratora, które nie są wykazywane w rezerwach techniczno-ubezpieczeniowych dla celów wypłacalności, na koniec okresu sprawozdawczego.
-Dodatkowe roczne/kwartalne sprawozdanie finansowe i statystyczne sporządzone na dzień Noty objaśniające do załącznika nr 2 Sprawozdanie jest przekazywane do Komisji Nadzoru Finansowego za pomocą systemu teleinformatycznego Komisji Nadzoru Finansowego. Sprawozdanie zawiera formularze ponumerowane zgodnie ze spisem formularzy.
+… Noty objaśniające do załącznika nr 2 Sprawozdanie jest przekazywane do Komisji Nadzoru Finansowego za pomocą systemu teleinformatycznego Komisji Nadzoru Finansowego. Sprawozdanie zawiera formularze ponumerowane zgodnie ze spisem formularzy.
 Zakład ubezpieczeń wypełnia wszystkie formularze; jeżeli poszczególne pozycje nie występują, wykazuje wartość „0”. W przypadku formularzy dotyczących grup ubezpieczeń lub klas rachunkowych wykazuje się grupy ubezpieczeń lub klasy rachunkowe, w których jest prowadzona działalność ubezpieczeniowa lub działalność reasekuracyjna.
 Przez „okres sprawozdawczy” rozumie się okres od początku roku obrotowego do dnia, na który jest sporządzane sprawozdanie finansowe, lub rok obrotowy.
 Przez „poprzedni okres sprawozdawczy” rozumie się analogiczny okres poprzedniego roku obrotowego albo poprzedni rok obrotowy.
@@ -1009,29 +1008,7 @@ Akcjonariusze (udziałowcy) posiadający 5% lub mniej niż 5% głosów na WZA (W
 2) pozostali akcjonariusze (udziałowcy) nierezydenci (symbol PZ) dla osób prawnych i osób fizycznych nierezydentów.
 W kolumnie D „Typ akcjonariusza (udziałowca)” stosuje się następujące symbole: SP Skarb Państwa, OPK osoba prawna rezydent, OPKB bank rezydent, OPKU zakład ubezpieczeń rezydent, OPKR zakład reasekuracji rezydent, OFK osoba fizyczna rezydent, OFKZ osoba fizyczna rezydent, członek zarządu zakładu ubezpieczeń, OFKR osoba fizyczna rezydent, członek zarządu zakładu reasekuracji, PK pozostałe podmioty rezydenci, OPZ osoba prawna nierezydent, OPZB bank nierezydent, OPZU zakład ubezpieczeń nierezydent, OPZR zakład reasekuracji nierezydent, OFZ osoba fizyczna nierezydent, OFZZ osoba fizyczna nierezydent, członek zarządu zakładu ubezpieczeń, OFZR osoba fizyczna nierezydent, członek zarządu zakładu reasekuracji, PZ pozostałe podmioty nierezydenci.
 W kolumnie S „Procent głosów na WZA (WZU)” wykazuje się z dokładnością do dwóch miejsc po przecinku.
-Dodatkowe roczne/kwartalne sprawozdanie finansowe i statystyczne
-1. Zobowiązania wobec instytucji kredytowych
-3. Pozostałe zobowiązania (wyemitowane dłużne papiery wartościowe) Wyszczególnienie
-1.1. Zobowiązania wobec banków krajowych
-1.2. Zobowiązania wobec instytucji kredytowych państw strefy euro
-1.3. Zobowiązania wobec instytucji kredytowych pozostałych państw członkowskich
-2. Zobowiązania wobec podmiotów innych niż instytucje kredytowe:
-2.1. Zobowiązania wobec krajowych podmiotów innych niż banki krajowe
-2.2. Zobowiązania wobec podmiotów z państw strefy euro innych niż instytucje kredytowe
-2.3. Zobowiązania wobec podmiotów z pozostałych państw członkowskich UE innych niż instytucje kredytowe
-3. ZOBOWIĄZANIA Dodatkowe kwartalne sprawozdanie finansowe i statystyczne sporządzone na
-1.4. Zobowiązania wobec banków zagranicznych
-2.4. Zobowiązania wobec podmiotów z pozostałych państw innych niż banki zagraniczne Państwo pochodzenia Kod Typ kodu Sektor emitenta według ESA 2010 (rejestracji) identyfikacyjny identyfikacyjnego funduszu inwestycyjnego
-1.
-2.
-… n.
-Dodatkowe kwartalne sprawozdanie finansowe i statystyczne sporządzone na dzień ….
-Wyszczególnienie
-1.Uprawnienia emerytalne
-1.1.2. Uprawnienia emerytalne związane z systemami o zdefiniowanej składce
-1.1.3. Uprawnienia emerytalne związane z systemami hybrydowymi
-1.1. Uprawnienia emerytalne związane z PPE i PPK:
-1.1.1. Uprawnienia emerytalne związane z systemami o zdefiniowanym świadczeniu Dodatkowe roczne sprawozdanie finansowe i statystyczne sporządzone na dzień …. roku Imię i nazwisko Stanowisko Telefon służbowy Imię i nazwisko Stanowisko Telefon służbowy Osoba upoważniona Dane osób reprezentujących podmiot sprawozdawczy Osoba sporządzająca sprawozdanie Noty objaśniające do załącznika nr 6 Sprawozdanie jest przekazywane do Komisji Nadzoru Finansowego za pomocą systemu teleinformatycznego Komisji Nadzoru Finansowego. Sprawozdanie zawiera formularze ponumerowane zgodnie ze spisem formularzy.
+Dodatkowe roczne/kwartalne sprawozdanie finansowe i statystyczne W W W W … … … W … Noty objaśniające do załącznika nr 6 Sprawozdanie jest przekazywane do Komisji Nadzoru Finansowego za pomocą systemu teleinformatycznego Komisji Nadzoru Finansowego. Sprawozdanie zawiera formularze ponumerowane zgodnie ze spisem formularzy.
 Przez „okres sprawozdawczy” rozumie się okres od początku roku obrotowego do dnia, na który jest sporządzane sprawozdanie finansowe, lub rok obrotowy.
 Kwoty wykazane w formularzach wykazuje się w złotych z dokładnością do groszy.
 Przez instytucję kredytową rozumie się instytucję kredytową, o której mowa w art. 3 ust. 1 pkt 13 ustawy.

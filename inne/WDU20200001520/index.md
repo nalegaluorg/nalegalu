@@ -37,18 +37,14 @@ rozporządzeniem Ministra Edukacji Narodowej z dnia 12 sierpnia 2020 r. zmieniaj
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 20 grudnia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 2446), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 20 grudnia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 2446), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-” ;
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. ” ;
 2)
-§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 12 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1385), który stanowi:
-„
+§ 2 rozporządzenia Ministra Edukacji Narodowej z dnia 12 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1385), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2017 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2017 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działaniaMinister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268).
 Na podstawie art. 32 ust. 11 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 i 1378) zarządza się, co następuje:
 § 1.
 Wychowanie przedszkolne może być prowadzone w następujących, innych niż przedszkola i oddziały przedszkolne w szkołach podstawowych, formach:
@@ -93,7 +89,7 @@ b)
 okładziny sufitów oraz sufity podwieszone są wykonane z materiałów niepalnych lub niezapalnych, niekapiących i nieodpadających pod wpływem ognia;
 8)
 strefa pożarowa, w której znajduje się lokal, jest strefą pożarową określaną jako ZL, zgodnie z przepisami w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie, zlokalizowaną w obiekcie innym niż tymczasowy obiekt budowlany;
-9)
+9W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Edukacji Narodowej z dnia 20 grudnia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 2446), które weszło w życie z dniem 1 stycznia 2018 r.)
 w strefie pożarowej, w której znajduje się lokal, nie występują inne lokale, w których są prowadzone przedszkola, inne punkty lub zespoły lub oddziały przedszkolne w szkołach podstawowych;
 10)
 w lokalu i na drogach ewakuacyjnych z lokalu są spełnione wymagania określone w przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, właściwe dla kategorii zagrożenia ludzi tej strefy pożarowej, w której lokal i te drogi się znajdują, w szczególności nie występują w tym lokalu ani na tych drogach warunki techniczne będące podstawą do uznania budynku za zagrażający życiu ludzi;
@@ -161,16 +157,15 @@ dopuszcza się wykorzystanie pomieszczenia przeznaczonego na zbiorowy pobyt dzie
 apteczki w lokalu są wyposażone w podstawowe środki opatrunkowe;
 19)
 jest zapewnione utrzymanie czystości i porządku w lokalu, pomieszczenia są utrzymywane w odpowiednim stanie, są przeprowadzane ich okresowe remonty i konserwacje.
-§ 5a.
+§ 5aDodany przez § 1 rozporządzenia Ministra Edukacji Narodowej z dnia 12 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1385), które weszło w życie z dniem 14 sierpnia 2020 r..
 Jeżeli nie jest możliwe zapewnienie temperatury, o której mowa w § 5 pkt 6, dyrektor przedszkola lub szkoły podstawowej albo osoba kierująca daną inną formą wychowania przedszkolnego zawiesza zajęcia w punkcie lub zespole na czas oznaczony, powiadamiając o tym organ prowadzący.
-§ 5b.
+§ 5bDodany przez § 1 rozporządzenia Ministra Edukacji Narodowej z dnia 12 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1385), które weszło w życie z dniem 14 sierpnia 2020 r..
 1.
 Organ prowadzący punkt lub zespół może zawiesić zajęcia na czas oznaczony, w przypadku gdy na danym terenie może wystąpić zagrożenie bezpieczeństwa dzieci związane z utrudnieniem w:
 1)
 dotarciu dziecka do punktu lub zespołu lub powrotem z punktu lub zespołu lub
 2)
-organizacji zajęć w punkcie lub zespole
-w związku z organizacją i przebiegiem imprez ogólnopolskich lub międzynarodowych.
+organizacji zajęć w punkcie lub zespole – w związku z organizacją i przebiegiem imprez ogólnopolskich lub międzynarodowych.
 2.
 Dyrektor przedszkola lub szkoły podstawowej albo osoba kierująca daną inną formą wychowania przedszkolnego, za zgodą organu prowadzącego, może zawiesić zajęcia na czas oznaczony, jeżeli:
 1)
@@ -223,7 +218,7 @@ współpracą ze specjalistami świadczącymi dzieciom pomoc psychologiczno-peda
 12)
 przyjmowania dzieci na zajęcia tego punktu lub zespołu – w przypadku niepublicznego punktu lub zespołu innego niż punkt lub zespół, o którym mowa w ust. 2.
 2.
-Skreślenie dziecka z listy wychowanków, o którym mowa w ust. 1 pkt 5, nie dotyczy dziecka realizującego obowiązek rocznego przygotowania przedszkolnego w publicznym punkcie lub zespole lub niepublicznym punkcie lub zespole, o którym mowa w art. 90 ust. 1c ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2020 r. poz. 1327).
+Skreślenie dziecka z listy wychowanków, o którym mowa w ust. 1 pkt 5, nie dotyczy dziecka realizującego obowiązek rocznego przygotowania przedszkolnego w publicznym punkcie lub zespole lub niepublicznym punkcie lub zespole, o którym mowa w art. 90 ust. 1cUchylony przez art. 80 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2020 r. poz. 17 i 278), która weszła w życie z dniem 1 stycznia 2018 r. ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2020 r. poz. 1327).
 § 7.
 1.
 Wychowaniem przedszkolnym w punkcie lub zespole obejmuje się nie więcej niż 25 dzieci.
@@ -251,7 +246,7 @@ korzystanie z pomocy rodziców lub innych pełnoletnich członków rodzin dzieci
 prowadzenie konsultacji i udzielanie porad rodzicom w zakresie pracy z dziećmi.
 § 12.
 1.
-Nauczyciele prowadzący zajęcia w punkcie lub zespole oraz inne osoby wykonujące pracę w punkcie lub zespole są obowiązani posiadać orzeczenie lekarskie o braku przeciwwskazań do wykonywania tych prac, wydane zgodnie z przepisami ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239, z późn. zm.).
+Nauczyciele prowadzący zajęcia w punkcie lub zespole oraz inne osoby wykonujące pracę w punkcie lub zespole są obowiązani posiadać orzeczenie lekarskie o braku przeciwwskazań do wykonywania tych prac, wydane zgodnie z przepisami ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495 oraz z 2020 r. poz. 284, 322, 374, 567, 875 i 1493.).
 2.
 Wymóg określony w ust. 1 stosuje się odpowiednio do osób, o których mowa w § 10, uczestniczących w zajęciach prowadzonych w punkcie lub zespole.
 § 13.
@@ -264,6 +259,5 @@ Nauczyciel potwierdza podpisem w dzienniku zajęć punktu lub zespołu przeprowa
 § 14.
 Organy prowadzące publiczne i niepubliczne punkty i zespoły, założone i funkcjonujące przed dniem 1 września 2017 r., dostosują działalność tych punktów i zespołów do wymagań określonych w niniejszym rozporządzeniu do dnia 31 sierpnia 2020 r.
 § 15.
-Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Edukacji Narodowej z dnia 20 grudnia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 2446), które weszło w życie z dniem 1 stycznia 2018 r. 3) Dodany przez § 1 rozporządzenia Ministra Edukacji Narodowej z dnia 12 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1385), które weszło w życie z dniem 14 sierpnia 2020 r. 4) Uchylony przez art. 80 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2020 r. poz. 17 i 278), która weszła w życie z dniem 1 stycznia 2018 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495 oraz z 2020 r. poz. 284, 322, 374, 567, 875 i 1493. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 31 sierpnia 2010 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1080 oraz z 2011 r. poz. 839), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 31 sierpnia 2010 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1080 oraz z 2011 r. poz. 839), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949). 1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Edukacji Narodowej z dnia 20 grudnia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 2446), które weszło w życie z dniem 1 stycznia 2018 r. 3) Dodany przez § 1 rozporządzenia Ministra Edukacji Narodowej z dnia 12 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1385), które weszło w życie z dniem 14 sierpnia 2020 r. 4) Uchylony przez art. 80 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2020 r. poz. 17 i 278), która weszła w życie z dniem 1 stycznia 2018 r. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495 oraz z 2020 r. poz. 284, 322, 374, 567, 875 i 1493. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 31 sierpnia 2010 r. w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania (Dz. U. poz. 1080 oraz z 2011 r. poz. 839), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
 

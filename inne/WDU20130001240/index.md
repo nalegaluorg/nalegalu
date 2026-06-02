@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-27 |
 | Data wydania | 2013-10-24 |
-| Wejście w życie | 2013-10-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1240/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. Nr 116, poz. 730, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. Nr 116, poz. 730, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 75, poz. 473, Nr 96, poz. 620 i Nr 257, poz. 1726 oraz z 2011 r. Nr 85, poz. 457 i Nr 106, poz. 622.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 ust. 8 otrzymuje brzmienie: „
 
@@ -59,5 +58,5 @@ source: "eli-html"
 - **5)** oświadczenie o niezaleganiu z zapłatą podatków i opłat lokalnych na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o częściową wypłatę premii technologicznej;
 - **6)** oświadczenie o niezaleganiu z zapłatą składek na ubezpieczenia społeczne i zdrowotne na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o częściową wypłatę premii technologicznej. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 75, poz. 473, Nr 96, poz. 620 i Nr 257, poz. 1726 oraz z 2011 r. Nr 85, poz. 457 i Nr 106, poz. 622.
 

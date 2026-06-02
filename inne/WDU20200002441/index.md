@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 28 grudnia 2020 r. w sprawie ogłoszeń zamieszczanych w Biuletynie Zamówień Publicznych, dotyczących zawierania umów koncesji
+# Rozporządzenie Ministra Rozwoju, Pracy i Technologiiz dnia 28 grudnia 2020 r. w sprawie ogłoszeń zamieszczanych w Biuletynie Zamówień Publicznych, dotyczących zawierania umów koncesji Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-28 |
 | Data wydania | 2020-12-31 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2441/text.pdf) |
 
@@ -60,11 +59,9 @@ Do umów koncesji na roboty budowlane lub usługi zawartych:
 1)
 przed dniem 1 stycznia 2021 r.,
 2)
-po dniu 31 grudnia 2020 r., w następstwie postępowań wszczętych przed dniem 1 stycznia 2021 r.
-w zakresie wzorów ogłoszeń zamieszczanych w Biuletynie Zamówień Publicznych stosuje się przepisy dotychczasowe.
+po dniu 31 grudnia 2020 r., w następstwie postępowań wszczętych przed dniem 1 stycznia 2021 r. – w zakresie wzorów ogłoszeń zamieszczanych w Biuletynie Zamówień Publicznych stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 28 kwietnia 2017 r. w sprawie wzorów ogłoszeń zamieszczanych w Biuletynie Zamówień Publicznych, dotyczących zawierania umów koncesji (Dz. U. poz. 1017), które na podstawie art. 1 pkt 6 lit. e ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o umowie koncesji na roboty budowlane lub usługi, ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw (Dz. U. poz. 2275) traci moc z dniem 1 stycznia 2021 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 28 kwietnia 2017 r. w sprawie wzorów ogłoszeń zamieszczanych w Biuletynie Zamówień Publicznych, dotyczących zawierania umów koncesji (Dz. U. poz. 1017), które na podstawie art. 1 pkt 6 lit. e ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o umowie koncesji na roboty budowlane lub usługi, ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw (Dz. U. poz. 2275) traci moc z dniem 1 stycznia 2021 r. 1) Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 28 kwietnia 2017 r. w sprawie wzorów ogłoszeń zamieszczanych w Biuletynie Zamówień Publicznych, dotyczących zawierania umów koncesji (Dz. U. poz. 1017), które na podstawie art. 1 pkt 6 lit. e ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o umowie koncesji na roboty budowlane lub usługi, ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw (Dz. U. poz. 2275) traci moc z dniem 1 stycznia 2021 r.
 
 ## Załącznik nr 1 — – Zakres informacji zawartych w ogłoszeniu o koncesji
 
@@ -99,7 +96,7 @@ krajowy numer identyfikacji podatkowej NIP lub krajowy numer identyfikacyjny REG
 3)
 adres, w tym ulica, miejscowość, kod pocztowy, województwo, kraj;
 4)
-lokalizacja adresu jednostki terytorialnej poziomu NUTS 3, określona zgodnie ze słownikiem wspólnej klasyfikacji Jednostek Terytorialnych dla Celów Statystycznych (NUTS), o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196);
+lokalizacja adresu jednostki terytorialnej poziomu NUTS 3, określona zgodnie ze słownikiem wspólnej klasyfikacji Jednostek Terytorialnych dla Celów Statystycznych (NUTS), o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1, Dz. Urz. UE L 205 z 05.08.2019, str. 33 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196);
 5)
 numer telefonu lub faksu – jeżeli dotyczy;
 6)
@@ -125,8 +122,7 @@ zawierające uzasadnienie zastrzeżenia części dokumentów koncesji,
 b)
 o sposobie przekazywania przez zamawiającego zastrzeżonej części dokumentów koncesji, innym niż za pomocą środków komunikacji elektronicznej, albo o sposobie umożliwienia dostępu do tej części dokumentów koncesji,
 c)
-o wymaganiach związanych z ochroną poufnego charakteru informacji
-w przypadku gdy zamawiający, z uwagi na szczególne względy techniczne związane z bezpieczeństwem lub poufnym charakterem informacji, o których mowa w art. 24 ust. 3 ustawy, zastrzega dostęp do niektórych dokumentów koncesji;
+o wymaganiach związanych z ochroną poufnego charakteru informacji – w przypadku gdy zamawiający, z uwagi na szczególne względy techniczne związane z bezpieczeństwem lub poufnym charakterem informacji, o których mowa w art. 24 ust. 3 ustawy, zastrzega dostęp do niektórych dokumentów koncesji;
 3)
 informacja o sposobie albo sposobach komunikowania się z wykonawcami w postępowaniu o zawarcie umowy koncesji:
 a)
@@ -212,8 +208,7 @@ o minimalnej liczbie wykonawców, którzy zostaną zaproszeni do udziału w post
 b)
 o maksymalnej liczbie wykonawców, którzy zostaną zaproszeni do udziału w postępowaniu o zawarcie umowy koncesji,
 c)
-zawierająca opis kryteriów, o których mowa w art. 29 ust. 5 ustawy, mających zastosowanie do ograniczenia liczby wykonawców, którzy zostaną zaproszeni do udziału w postępowaniu o zawarcie umowy koncesji
-w przypadku gdy zamawiający przewiduje ograniczenie liczby wykonawców, którzy zostaną zaproszeni do udziału w postępowaniu o zawarcie umowy koncesji;
+zawierająca opis kryteriów, o których mowa w art. 29 ust. 5 ustawy, mających zastosowanie do ograniczenia liczby wykonawców, którzy zostaną zaproszeni do udziału w postępowaniu o zawarcie umowy koncesji – w przypadku gdy zamawiający przewiduje ograniczenie liczby wykonawców, którzy zostaną zaproszeni do udziału w postępowaniu o zawarcie umowy koncesji;
 6)
 informacja, czy zamawiający dopuszcza składanie ofert wariantowych;
 7)
@@ -233,8 +228,7 @@ określenie:
 a)
 wysokości wadium,
 b)
-dopuszczalnych form, w jakich wadium może być składane
-w przypadku gdy zamawiający wymaga wniesienia wadium;
+dopuszczalnych form, w jakich wadium może być składane – w przypadku gdy zamawiający wymaga wniesienia wadium;
 14)
 kryteria oceny ofert, w kolejności od najważniejszego do najmniej ważnego:
 a)
@@ -296,8 +290,7 @@ określenie:
 a)
 zakresu i charakteru zmian,
 b)
-warunków wprowadzenia zmian
-w przypadku gdy zamawiający przewiduje możliwość zmian postanowień zawartych w umowie koncesji;
+warunków wprowadzenia zmian – w przypadku gdy zamawiający przewiduje możliwość zmian postanowień zawartych w umowie koncesji;
 6)
 informacja, czy zamawiający przewidział, jeżeli przewiduje podanie tych informacji w ogłoszeniu, wymagania związane z realizacją umowy koncesji w zakresie:
 a)
@@ -305,7 +298,7 @@ zatrudnienia przez koncesjonariusza lub jego podwykonawcę na podstawie umowy o 
 b)
 aspektów gospodarczych, społecznych, środowiskowych lub innowacyjnych.
 6.
-Informacje dodatkowe dotyczące postępowania o zawarcie umowy koncesji – jeżeli zamawiający podaje informacje dodatkowe.
+Informacje dodatkowe dotyczące postępowania o zawarcie umowy koncesji – jeżeli zamawiający podaje informacje dodatkowe. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1, Dz. Urz. UE L 205 z 05.08.2019, str. 33 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1.
 
 ## Załącznik nr 2 — – Zakres informacji zawartych w ogłoszeniu o zamiarze zawarcia umowy koncesji
 
@@ -336,7 +329,7 @@ krajowy numer identyfikacji podatkowej NIP lub krajowy numer identyfikacyjny REG
 3)
 adres, w tym ulica, miejscowość, kod pocztowy, województwo, kraj;
 4)
-lokalizacja adresu jednostki terytorialnej poziomu NUTS 3, określona zgodnie ze słownikiem wspólnej klasyfikacji Jednostek Terytorialnych dla Celów Statystycznych (NUTS), o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196);
+lokalizacja adresu jednostki terytorialnej poziomu NUTS 3, określona zgodnie ze słownikiem wspólnej klasyfikacji Jednostek Terytorialnych dla Celów Statystycznych (NUTS), o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1, Dz. Urz. UE L 205 z 05.08.2019, str. 33 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196);
 5)
 numer telefonu lub faksu – jeżeli dotyczy;
 6)
@@ -394,8 +387,7 @@ Procedura stosowana w postępowaniu o zawarcie umowy koncesji, w tym, jeżeli do
 a)
 kryteria oceny ofert, ich nazwa, opis, waga lub wartość oraz
 b)
-wzór matematyczny lub opis ważenia kryterium w przypadku, gdy nie można przypisać wagi
-jeżeli zamawiający przewiduje podanie tych informacji w ogłoszeniu.
+wzór matematyczny lub opis ważenia kryterium w przypadku, gdy nie można przypisać wagi – jeżeli zamawiający przewiduje podanie tych informacji w ogłoszeniu.
 6.
 Uzasadnienie zamiaru zawarcia umowy koncesji bez uprzedniego zamieszczenia ogłoszenia o koncesji w Biuletynie Zamówień Publicznych:
 1)
@@ -403,7 +395,7 @@ wskazanie podstawy prawnej;
 2)
 uzasadnienie faktyczne i prawne.
 7.
-Informacje dodatkowe dotyczące umowy koncesji, którą zamierza zawrzeć zamawiający – jeżeli zamawiający podaje informacje dodatkowe.
+Informacje dodatkowe dotyczące umowy koncesji, którą zamierza zawrzeć zamawiający – jeżeli zamawiający podaje informacje dodatkowe. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1, Dz. Urz. UE L 205 z 05.08.2019, str. 33 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1.
 
 ## Załącznik nr 3 — – Zakres informacji zawartych w ogłoszeniu o zawarciu umowy koncesji
 
@@ -438,7 +430,7 @@ krajowy numer identyfikacji podatkowej NIP lub krajowy numer identyfikacyjny REG
 3)
 adres, w tym ulica, miejscowość, kod pocztowy, województwo, kraj;
 4)
-lokalizacja adresu jednostki terytorialnej poziomu NUTS 3, określona zgodnie ze słownikiem wspólnej klasyfikacji Jednostek Terytorialnych dla Celów Statystycznych (NUTS); o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196);
+lokalizacja adresu jednostki terytorialnej poziomu NUTS 3, określona zgodnie ze słownikiem wspólnej klasyfikacji Jednostek Terytorialnych dla Celów Statystycznych (NUTS); o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1, Dz. Urz. UE L 205 z 05.08.2019, str. 33 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196);
 5)
 numer telefonu lub faksu – jeżeli dotyczy;
 6)
@@ -558,7 +550,7 @@ obejmujące aspekty społeczne, środowiskowe lub innowacyjne;
 13)
 informacja czy umowa koncesji została zawarta w ramach partnerstwa publiczno-prywatnego.
 8.
-Informacje dodatkowe dotyczące zawarcia umowy koncesji – jeżeli zamawiający podaje informacje dodatkowe.
+Informacje dodatkowe dotyczące zawarcia umowy koncesji – jeżeli zamawiający podaje informacje dodatkowe. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1, Dz. Urz. UE L 205 z 05.08.2019, str. 33 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1.
 
 ## Załącznik nr 4 — – Zakres informacji zawartych w ogłoszeniu o zmianie ogłoszenia
 
@@ -579,7 +571,7 @@ krajowy numer identyfikacji podatkowej NIP lub krajowy numer identyfikacyjny REG
 3)
 adres, w tym ulica, miejscowość, kod pocztowy, województwo, kraj;
 4)
-lokalizacja adresu jednostki terytorialnej poziomu NUTS 3, określona zgodnie ze słownikiem wspólnej klasyfikacji Jednostek Terytorialnych dla Celów Statystycznych (NUTS), o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196);
+lokalizacja adresu jednostki terytorialnej poziomu NUTS 3, określona zgodnie ze słownikiem wspólnej klasyfikacji Jednostek Terytorialnych dla Celów Statystycznych (NUTS), o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1, Dz. Urz. UE L 205 z 05.08.2019, str. 33 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196);
 5)
 numer telefonu lub faksu – jeżeli dotyczy;
 6)
@@ -607,7 +599,7 @@ informacja dotycząca punktu zmienianego ogłoszenia, w którym następuje zmian
 2)
 opis zmiany, w tym tekst, który należy dodać, lub tekst podlegający zmianie i tekst po zmianie.
 5.
-Informacje dodatkowe dotyczące zmiany ogłoszenia – jeżeli zamawiający podaje informacje dodatkowe.
+Informacje dodatkowe dotyczące zmiany ogłoszenia – jeżeli zamawiający podaje informacje dodatkowe. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1, Dz. Urz. UE L 205 z 05.08.2019, str. 33 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1.
 
 ## Załącznik nr 5 — – Zakres informacji zawartych w ogłoszeniu o zmianie umowy koncesji
 
@@ -636,7 +628,7 @@ krajowy numer identyfikacji podatkowej NIP lub krajowy numer identyfikacyjny REG
 3)
 adres, w tym ulica, miejscowość, kod pocztowy, województwo, kraj;
 4)
-lokalizacja adresu jednostki terytorialnej poziomu NUTS 3, określona zgodnie ze słownikiem wspólnej klasyfikacji Jednostek Terytorialnych dla Celów Statystycznych (NUTS), o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196);
+lokalizacja adresu jednostki terytorialnej poziomu NUTS 3, określona zgodnie ze słownikiem wspólnej klasyfikacji Jednostek Terytorialnych dla Celów Statystycznych (NUTS), o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1, Dz. Urz. UE L 205 z 05.08.2019, str. 33 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196);
 5)
 numer telefonu lub faksu – jeżeli dotyczy;
 6)
@@ -684,5 +676,5 @@ użytkowników koncesji (np. opłaty i kary) lub
 b)
 od zamawiającego (np. nagrody i płatności).
 6.
-Informacje dodatkowe dotyczące zmiany umowy koncesji – jeżeli zamawiający podaje informacje dodatkowe.
+Informacje dodatkowe dotyczące zmiany umowy koncesji – jeżeli zamawiający podaje informacje dodatkowe. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 25.11.2005, str. 1, Dz. Urz. UE L 39 z 10.02.2007, str. 1, Dz. Urz. UE L 61 z 05.03.2008, str. 1, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 13 z 18.01.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 342 z 18.12.2013, str. 1, Dz. Urz. UE L 241 z 13.08.2014, str. 1, Dz. Urz. UE L 322 z 29.11.2016, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 1, Dz. Urz. UE L 205 z 05.08.2019, str. 33 oraz Dz. Urz. UE L 270 z 24.10.2019, str. 1.
 

@@ -37,24 +37,20 @@ rozporządzeniem Ministra Zdrowia z dnia 24 sierpnia 2020 r. zmieniającym rozpo
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1621), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1621), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
 2)
-§ 2 rozporządzenia Ministra Zdrowia z dnia 24 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1516), który stanowi:
-„
+§ 2 rozporządzenia Ministra Zdrowia z dnia 24 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1516), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 20 grudnia 2012 r. w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 20 grudnia 2012 r. w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnejMinister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 Na podstawie art. 50 ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, 1292, 1559, 1773, 1834 i 1981) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa warunki, jakie muszą spełniać świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2021 r. poz. 523, 1292 i 1559), zwana dalej „niebędącą świadczeniodawcą osobą uprawnioną”, występujący do Narodowego Funduszu Zdrowia, zwanego dalej „Funduszem”, o dokument elektroniczny, o którym mowa w art. 50 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą”.
 § 2.
 Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, występujący do Funduszu o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej, o którym mowa w art. 50 ust. 3 ustawy, zwanego dalej „dokumentem potwierdzającym prawo do świadczeń”, jest obowiązany spełniać następujące warunki:
-1)
+1W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1621), które weszło w życie z dniem 11 września 2019 r.)
 w przypadku:
 a)
 świadczeniodawcy – posiadać umowę o udzielanie świadczeń opieki zdrowotnej,
@@ -83,11 +79,11 @@ b)
 numer identyfikacyjny świadczeniodawcy, określony przez Fundusz, a w przypadku niebędącej świadczeniodawcą osoby uprawnionej – numer PESEL tej osoby;
 2)
 zobowiązanie do:
-a)
+aZe zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.)
 przestrzegania przepisów dotyczących zapewnienia bezpieczeństwa przetwarzania danych, w szczególności przepisów o ochronie danych osobowych,
 b)
 zachowania w tajemnicy i nieujawniania danych, zawierające klauzulę w brzmieniu: „Zobowiązuję się do zachowania w tajemnicy danych, o których mowa w art. 50 ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.), pozyskiwanych ze zbiorów danych przetwarzanych w Narodowym Funduszu Zdrowia, a także do nieprzekazywania tych danych nieuprawnionym osobom trzecim, pod rygorem utraty upoważnienia do korzystania z usługi świadczonej przez system teleinformatyczny Narodowego Funduszu Zdrowia, umożliwiającej występowanie o sporządzenie dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, składa się za pośrednictwem udostępnionej przez Fundusz aplikacji dostępnej przez przeglądarkę internetową, w celu korzystania z usług informatycznych i komunikacji z Funduszem świadczeniodawców oraz niebędących świadczeniodawcami osób uprawnionych, przy pomocy bezpiecznego kanału wymiany informacji, zwanej dalej „aplikacją dostępową Funduszu”, w oddziale wojewódzkim Funduszu, z którego dyrektorem świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona zawarła umowę upoważniającą do korzystania z aplikacji dostępowej Funduszu.
 4.
 Po dokonaniu pozytywnej weryfikacji poprawności danych zawartych we wniosku o wydanie upoważnienia, Fundusz wydaje upoważnienie do korzystania z usługi Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców.
@@ -106,17 +102,17 @@ upoważniania osób, którym powierza wykonywanie zadania w zakresie występowan
 Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona wyznacza osobę, której mają zostać powierzone zadania, o których mowa w § 2 pkt 3, i występuje do Funduszu z wnioskiem o przyznanie tej osobie uprawnień do wykonywania tych zadań.
 2.
 Wniosek, o którym mowa w ust. 1, zawiera imię i nazwisko oraz numer PESEL wyznaczonej osoby, a w przypadku gdy nie posiada numeru PESEL – serię i numer dowodu osobistego, paszportu albo innego dokumentu potwierdzającego tożsamość.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Wniosek, o którym mowa w ust. 1, składa się za pośrednictwem aplikacji dostępowej Funduszu w oddziale wojewódzkim Funduszu, z którego dyrektorem świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona zawarła umowę upoważniającą do korzystania z aplikacji dostępowej Funduszu.
 4.
 Po dokonaniu pozytywnej weryfikacji poprawności danych zawartych we wniosku, o którym mowa w ust. 1, Fundusz nadaje za pośrednictwem aplikacji dostępowej Funduszu, osobie wskazanej we wniosku uprawnienia, o których mowa w ust. 1.
 5.
 Osoba, której Fundusz nadał uprawnienia do wykonywania zadań, o których mowa w § 2 pkt 3, oraz osoba, którą świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, upoważnił do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń przez usługę Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, przed uzyskaniem dostępu do tej usługi:
-1)
+1Ze zmianą wprowadzoną przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 składa oświadczenie, w którym zobowiązuje się do przestrzegania przepisów dotyczących zapewnienia bezpieczeństwa przetwarzania danych, w szczególności przepisów o ochronie danych osobowych, a także zasad poufności i tajemnicy danych pozyskanych z Funduszu;
 2)
 uzyskuje od świadczeniodawcy lub niebędącej świadczeniodawcą osoby uprawnionej dokument upoważniający do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń, zawierający jej imię i nazwisko oraz numer PESEL, a w przypadku gdy nie posiada numeru PESEL – serię i numer dowodu osobistego, paszportu albo innego dokumentu potwierdzającego tożsamość.
-§ 4a.
+§ 4aDodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 24 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1516), które weszło w życie z dniem 18 września 2020 r..
 1.
 Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona może wystąpić do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń także za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2021 r. poz. 666 i 1292).
 2.
@@ -148,6 +144,5 @@ Do niebędących świadczeniodawcami osób uprawnionych występujących o sporz�
 § 5.
 Zachowują ważność upoważnienia przyznane świadczeniodawcy lub niebędącej świadczeniodawcą osobie uprawnionej, zapewniające dostęp do usługi Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, przed wejściem w życie niniejszego rozporządzenia, jeżeli przy wydawaniu tych upoważnień spełnione były warunki, o których mowa w niniejszym rozporządzeniu.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1621), które weszło w życie z dniem 11 września 2019 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 24 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1516), które weszło w życie z dniem 18 września 2020 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1621), które weszło w życie z dniem 11 września 2019 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 24 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie warunków występowania o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1516), które weszło w życie z dniem 18 września 2020 r.
 

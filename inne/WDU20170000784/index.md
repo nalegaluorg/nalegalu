@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Infrastruktury i Budownictwaz dnia 24 marca 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem
+# Obwieszczenie Ministra Infrastruktury i Budownictwaz dnia 24 marca 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 
 | Pole | Wartość |
 |---|---|
@@ -31,16 +31,13 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury z dnia 23 września 2003 r. w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem (Dz. U. poz. 1729), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 18 lutego 2016 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem (Dz. U. poz. 314).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 18 lutego 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem (Dz. U. poz. 314), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 18 lutego 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem (Dz. U. poz. 314), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
-” .
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
-Załącznik – Rozporządzenie Ministra Infrastruktury z dnia 23 września 2003 r. w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r. ” . 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
+Załącznik – Rozporządzenie Ministra Infrastruktury z dnia 23 września 2003 r. w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniemObecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Budownictwa, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094).
 Na podstawie art. 10 ust. 12 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 128, 60, 379 i 777) zarządza się, co następuje:
 § 1.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 18 lutego 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem (Dz. U. poz. 314), które weszło w życie z dniem 1 lipca 2016 r..
 Rozporządzenie określa szczegółowe warunki:
 1)
 zarządzania ruchem na drogach publicznych, w strefach zamieszkania oraz w strefach ruchu, a zwłaszcza działania w zakresie sporządzania, opiniowania, zatwierdzania projektów organizacji ruchu i wprowadzania organizacji ruchu, ze szczególnym uwzględnieniem znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego;
@@ -52,11 +49,11 @@ Ilekroć w rozporządzeniu jest mowa o:
 organizacji ruchu – rozumie się przez to, mające wpływ na ruch drogowy:
 a)
 geometrię drogi i zakres dostępu do drogi,
-b)
+bW brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 sposób umieszczania znaków pionowych, poziomych, sygnalizatorów i urządzeń bezpieczeństwa ruchu drogowego,
 c)
 zasady i sposób działania sygnalizacji, znaków świetlnych, znaków o zmiennej treści i innych zmiennych elementów;
-2)
+2W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 projekcie organizacji ruchu – rozumie się przez to dokumentację sporządzoną w celu zatwierdzenia stałej, zmiennej albo czasowej organizacji ruchu przez właściwy organ zarządzający ruchem albo właściwy podmiot zarządzający drogą wewnętrzną.
 § 2.
 1.
@@ -83,9 +80,9 @@ nadzór nad zarządzaniem ruchem;
 obsługę systemów sterowania ruchem, sterowanie ruchem za pomocą znaków świetlnych, znaków o zmiennej treści i innych zmiennych elementów;
 3)
 wprowadzanie tymczasowych zakazów lub ograniczeń w ruchu w przypadku zdarzeń, w wyniku których może nastąpić zagrożenie bezpieczeństwa ruchu drogowego.
-1a.
+1aDodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Projekt stałej albo zmiennej organizacji ruchu sporządza się przed wszczęciem postępowania w sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej, decyzji o pozwoleniu na budowę albo przed zgłoszeniem wykonywania robót budowlanych.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Działania, o których mowa w ust. 1, realizują, odpowiednio do kompetencji, organ zarządzający ruchem, podmiot zarządzający drogą wewnętrzną, zarząd drogi, organ sprawujący nadzór nad zarządzaniem ruchem, Policja, Żandarmeria Wojskowa lub wojskowe organy porządkowe.
 3.
 Działania, o których mowa w ust. 1 pkt 1 lit. a i b, mogą być realizowane przez jednostki inne niż wymienione w ust. 2.
@@ -96,7 +93,7 @@ Organ zarządzający ruchem w szczególności:
 rozpatruje projekty organizacji ruchu oraz wnioski dotyczące zmian organizacji ruchu;
 2)
 opracowuje lub zleca do opracowania projekty organizacji ruchu uwzględniające wnioski wynikające z przeprowadzonych analiz organizacji i bezpieczeństwa ruchu;
-3)
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.)
 zatwierdza organizacje ruchu na podstawie złożonych projektów organizacji ruchu;
 4)
 przekazuje zatwierdzone organizacje ruchu do realizacji;
@@ -104,11 +101,11 @@ przekazuje zatwierdzone organizacje ruchu do realizacji;
 przechowuje projekty organizacji ruchu i prowadzi ich ewidencję;
 6)
 opiniuje geometrię drogi w projektach budowlanych;
-7)
+7W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 prowadzi kontrolę prawidłowości zastosowania i funkcjonowania znaków drogowych, urządzeń sygnalizacji świetlnej i urządzeń bezpieczeństwa ruchu drogowego oraz ich zgodności z zatwierdzoną organizacją ruchu;
-8)
+8W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.)
 współpracuje w zakresie organizacji ruchu i jego bezpieczeństwa z innymi organami zarządzającymi ruchem, podmiotami zarządzającymi drogami wewnętrznymi, zarządami dróg i zarządcami infrastruktury kolejowej, Policją oraz innymi jednostkami.
-1a.
+1aDodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Podmiot zarządzający drogą wewnętrzną:
 1)
 rozpatruje projekty organizacji ruchu oraz wnioski dotyczące zmian organizacji ruchu;
@@ -134,10 +131,10 @@ b)
 bezpieczeństwa ruchu drogowego;
 2)
 rozstrzyga w sprawach spornych dotyczących istniejącej lub projektowanej organizacji ruchu, biorąc pod uwagę interes ogólnospołeczny oraz konieczność zapewnienia ruchu tranzytowego.
-3.
+3Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku drogi wewnętrznej objętej strefą zamieszkania albo strefą ruchu organ sprawujący nadzór nad zarządzaniem ruchem podejmuje, na podstawie wniosku zainteresowanego podmiotu złożonego do tego organu, działania w zakresie określonym w ust. 2 pkt 1.
 § 4.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Podstawą do wprowadzenia organizacji ruchu na nowo wybudowanej drodze lub jej zmiany na drodze istniejącej jest zatwierdzenie organizacji ruchu przez organ zarządzający ruchem albo podmiot zarządzający drogą wewnętrzną.
 2.
 Zatwierdzona stała organizacja ruchu, związana z budową lub przebudową drogi albo z budową dojazdu do obiektu przy drodze, stanowi integralną część dokumentacji budowy.
@@ -147,7 +144,7 @@ Projekt organizacji ruchu może przedstawić do zatwierdzenia:
 zarząd drogi;
 2)
 organ zarządzający ruchem;
-2a)
+2aDodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2.)
 podmiot zarządzający drogą wewnętrzną;
 3)
 inwestor lub jednostka, o której mowa w § 11 pkt 1–6;
@@ -174,7 +171,7 @@ opis techniczny zawierający charakterystykę drogi i ruchu na drodze, a w przyp
 przewidywany termin wprowadzenia czasowej organizacji ruchu oraz termin wprowadzenia nowej stałej organizacji ruchu lub przywrócenia poprzedniej stałej organizacji ruchu – w przypadku projektu dotyczącego wykonywania robót na drodze;
 7)
 nazwisko i podpis projektanta.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2..
 Organ zarządzający ruchem albo podmiot zarządzający drogą wewnętrzną, w przypadku robót związanych z utrzymaniem drogi niewymagających całkowitego zamknięcia jezdni dla ruchu pojazdów samochodowych, które wymagają zmian w organizacji ruchu wyłącznie w czasie wykonywania czynności, może dopuścić wprowadzanie zmian w organizacji ruchu na podstawie projektu uproszczonego zawierającego:
 1)
 opis techniczny zawierający charakterystykę robót;
@@ -183,7 +180,7 @@ powtarzalny schemat umieszczenia na drodze znaków drogowych i urządzeń bezpie
 3)
 sposób rozmieszczenia i oznakowania pojazdów zabezpieczających lub wykonujących roboty lub czynności wykonywane na drodze; w szczególności dotyczy to robót lub czynności przesuwających się wzdłuż drogi.
 § 6.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2..
 Organizację ruchu zatwierdza, na podstawie złożonego projektu organizacji ruchu, organ zarządzający ruchem albo podmiot zarządzający drogą wewnętrzną właściwy dla danej drogi.
 2.
 Organizację ruchu na skrzyżowaniu dróg o różnych organach zarządzających ruchem zatwierdza organ zarządzający ruchem właściwy dla drogi wyższej kategorii.
@@ -204,7 +201,7 @@ komendanta miejskiego Policji – w przypadku projektu obejmującego drogę poł
 zarządu drogi, jeżeli nie jest on jednostką składającą projekt;
 5)
 organu zarządzającego ruchem na drodze krzyżującej się lub objętej objazdem, w przypadkach, o których mowa w § 6 ust. 2 i 3.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2..
 Opinia Policji nie jest wymagana w przypadku:
 1)
 projektu organizacji ruchu obejmującego wyłącznie drogi gminne;
@@ -255,7 +252,7 @@ W przypadku, o którym mowa w § 6 ust. 2, organ zarządzający ruchem określa:
 obszar, na którym została zatwierdzona organizacja ruchu, z ewentualnym określeniem lokalizacji znaków drogowych, na drodze niższej kategorii, które są niezbędne dla organizacji ruchu na skrzyżowaniu;
 2)
 znaki drogowe, urządzenia sygnalizacji świetlnej i dźwiękowej oraz urządzenia bezpieczeństwa ruchu drogowego umieszczane na skrzyżowaniu i utrzymywane przez zarząd drogi właściwy dla drogi wyższej kategorii.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku, o którym mowa w § 5 ust. 2, organ zarządzający ruchem albo podmiot zarządzający drogą wewnętrzną określa zakres stosowania zatwierdzonej organizacji ruchu; w szczególności dotyczy to odcinków dróg i czasu trwania robót.
 5.
 Organ zarządzający ruchem odrzuca projekt organizacji ruchu w przypadku stwierdzenia:
@@ -269,7 +266,7 @@ Organ zarządzający ruchem może odrzucić projekt organizacji ruchu w przypadk
 niezgodności projektowanej organizacji ruchu z założeniami polityki transportowej lub potrzebami społeczności lokalnej;
 2)
 nieefektywności projektowanej organizacji ruchu.
-7.
+7W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Organ zarządzający ruchem albo podmiot zarządzający drogą wewnętrzną określa termin, w którym powinna zostać wprowadzona zatwierdzona organizacja ruchu.
 8.
 Organ zarządzający ruchem po zatwierdzeniu organizacji ruchu przesyła jeden egzemplarz projektu organizacji ruchu jednostce przedstawiającej projekt do zatwierdzenia.
@@ -296,7 +293,7 @@ rzeczywisty termin wprowadzenia nowej lub zmiany istniejącej organizacji ruchu;
 przewidywany termin przywrócenia poprzedniej organizacji ruchu – w przypadku czasowych zmian organizacji ruchu.
 3.
 W przypadku zmiany stałej organizacji ruchu projekt poprzedniej organizacji ruchu przechowuje się nie krócej niż 2 lata od daty wprowadzenia nowej organizacji ruchu.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2..
 Projekty czasowych organizacji ruchu przechowuje się nie krócej niż przez 2 lata od daty przywrócenia stałej organizacji ruchu.
 § 10.
 1.
@@ -305,7 +302,7 @@ Tymczasowe ograniczenia lub zakazy ruchu mogą wprowadzić:
 Policja, Żandarmeria Wojskowa lub wojskowe organy porządkowe – w przypadku zdarzeń, w wyniku których może nastąpić zagrożenie bezpieczeństwa ruchu drogowego, życia lub zdrowia osób lub możliwość wystąpienia szkód materialnych w znacznym rozmiarze;
 2)
 zarząd drogi lub właściwe służby – w nagłym przypadku awarii urządzenia w pasie drogowym lub w jego pobliżu, w wyniku której nastąpiło zagrożenie bezpieczeństwa ruchu drogowego lub możliwość wystąpienia szkód materialnych.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2..
 Wprowadzając tymczasowe ograniczenia lub zakazy:
 1)
 organy i podmioty, o których mowa w ust. 1, wyznaczają niezbędne objazdy i bezzwłocznie powiadamiają o tym właściwy organ zarządzający ruchem oraz właściwy zarząd drogi;
@@ -358,11 +355,10 @@ wymiany zniszczonych lub uszkodzonych znaków drogowych, urządzeń sygnalizacji
 naprawy wadliwie działających urządzeń sygnalizacji świetlnej lub dźwiękowej;
 3)
 umieszczenia znaków drogowych, urządzeń sygnalizacji świetlnej, urządzeń sygnalizacji dźwiękowej oraz urządzeń bezpieczeństwa ruchu w miejscach zgodnych z zatwierdzoną organizacją ruchu.
-§ 12a.
+§ 12aDodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2..
 W przypadku drogi wewnętrznej objętej strefą zamieszkania albo strefą ruchu podmiot zarządzający tą drogą przeprowadza co najmniej raz na 12 miesięcy kontrolę, o której mowa w § 12 ust. 5.
 § 13.
 Traci moc rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 10 października 2000 r. w sprawie szczegółowych warunków zarządzania ruchem na drogach (Dz. U. poz. 1006).
 § 14.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Budownictwa, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 18 lutego 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem (Dz. U. poz. 314), które weszło w życie z dniem 1 lipca 2016 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 9) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2. 17) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2. 18) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 20) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 21) Rozporządzenie zostało ogłoszone w dniu 14 października 2003 r.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 14 października 2003 r.. 1) Obecnie działem administracji rządowej – transport kieruje Minister Infrastruktury i Budownictwa, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 18 lutego 2016 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem (Dz. U. poz. 314), które weszło w życie z dniem 1 lipca 2016 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 3 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 9) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. 11) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 2. 12) Dodany przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 2. 13) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 14) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. 15) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. 16) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 2. 17) W brzmieniu ustalonym przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2. 18) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. 20) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. 21) Rozporządzenie zostało ogłoszone w dniu 14 października 2003 r.
 

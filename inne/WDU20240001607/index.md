@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 30 października 2024 r. zmieniające rozporządzenie w sprawie wyznaczenia instytutu badawczego do dokonywania analizy danych dotyczących przewozu towarów gromadzonych w rejestrze zgłoszeń oraz zakresu danych podlegających tej analizie
+# Rozporządzenie Ministra Finansówz dnia 30 października 2024 r. zmieniające rozporządzenie w sprawie wyznaczenia instytutu badawczego do dokonywania analizy danych dotyczących przewozu towarów gromadzonych w rejestrze zgłoszeń oraz zakresu danych podlegających tej analizie Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-30 |
 | Data wydania | 2024-10-31 |
-| Wejście w życie | 2024-11-01 |
 | Ostatnia zmiana | 2026-01-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1607/text.pdf) |
 
@@ -45,8 +44,7 @@ w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku zgłosz
 d)
 w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku zgłoszenia, o którym mowa w art. 7 ust. 1 ustawy, realizowanego środkiem transportu, analizie podlegają również: ” ;
 4)
-po § 2 dodaje się § 2a w brzmieniu:
-„
+po § 2 dodaje się § 2a w brzmieniu: „
 § 2a.
 W przypadku zgłoszeń, o których mowa w art. 28b ust. 1 i 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539 i 1544), realizowanych środkiem transportu, analizie podlegają:
 1)
@@ -70,9 +68,7 @@ miejsce i data rozpoczęcia przewozu na terytorium kraju;
 10)
 miejsce i data zakończenia przewozu na terytorium kraju;
 11)
-informacja, czy przewóz jest wykonywany z ładunkiem czy bez ładunku.
-” .
+informacja, czy przewóz jest wykonywany z ładunkiem czy bez ładunku. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 listopada 2024 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2024 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 

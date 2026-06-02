@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 września 2017 r. zmieniające rozporządzenie w sprawie warunków oraz trybu udostępniania danych przechowywanych w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 1 września 2017 r. zmieniające rozporządzenie w sprawie warunków oraz trybu udostępniania danych przechowywanych w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-01 |
 | Data wydania | 2017-09-06 |
-| Wejście w życie | 2017-09-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001700) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1700/text.pdf) |
 
@@ -31,6 +30,5 @@ Na podstawie art. 16 ust. 3 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 stycznia 2004 r. w sprawie warunków oraz trybu udostępniania danych przechowywanych w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów (Dz. U. poz. 90 oraz z 2016 r. poz. 1003) użyte w § 3a w ust. 1 we wprowadzeniu do wyliczenia oraz w pkt 2 we wprowadzeniu do wyliczenia i lit. d, w różnym przypadku, wyrazy „Agencja Nieruchomości Rolnych” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

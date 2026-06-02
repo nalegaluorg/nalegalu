@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 6 maja 2022 r. zmieniające rozporządzenie w sprawie sposobów sprawdzania dotrzymania dopuszczalnych poziomów pól elektromagnetycznych w środowisku
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 6 maja 2022 r. zmieniające rozporządzenie w sprawie sposobów sprawdzania dotrzymania dopuszczalnych poziomów pól elektromagnetycznych w środowisku Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-06 |
 | Data wydania | 2022-05-26 |
-| Wejście w życie | 2022-06-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001121) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1121/text.pdf) |
 
@@ -31,14 +30,11 @@ Na podstawie art. 122 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony
 § 1.
 W rozporządzeniu Ministra Klimatu z dnia 17 lutego 2020 r. w sprawie sposobów sprawdzania dotrzymania dopuszczalnych poziomów pól elektromagnetycznych w środowisku (Dz. U. poz. 258) w załączniku do rozporządzenia:
 1)
-w pkt 1 w ppkt 2 kropkę zastępuje się średnikiem i dodaje się ppkt 3 w brzmieniu:
-„
+w pkt 1 w ppkt 2 kropkę zastępuje się średnikiem i dodaje się ppkt 3 w brzmieniu: „
 3)
-w przypadku stacji elektroenergetycznych oraz napowietrznych i kablowych linii elektroenergetycznych, pracujących na częstotliwości 50 Hz, porównuje się otrzymane wyniki pomiarów, bez uwzględnienia niepewności pomiaru, z dopuszczalnymi wartościami parametrów fizycznych pól elektromagnetycznych określonymi w przepisach wydanych na podstawie art. 122 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska; przyjmuje się, że wyniki pomiarów dla częstotliwości 50 Hz są prawidłowe, jeżeli wartość rozszerzonej niepewności pomiaru U dla współczynnika rozszerzenia k = 2 nie przekroczy 30%.
-” ;
+w przypadku stacji elektroenergetycznych oraz napowietrznych i kablowych linii elektroenergetycznych, pracujących na częstotliwości 50 Hz, porównuje się otrzymane wyniki pomiarów, bez uwzględnienia niepewności pomiaru, z dopuszczalnymi wartościami parametrów fizycznych pól elektromagnetycznych określonymi w przepisach wydanych na podstawie art. 122 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska; przyjmuje się, że wyniki pomiarów dla częstotliwości 50 Hz są prawidłowe, jeżeli wartość rozszerzonej niepewności pomiaru U dla współczynnika rozszerzenia k = 2 nie przekroczy 30%. ” ;
 2)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3.
 W zakresach częstotliwości od 10 MHz do 300 GHz:
 1)
@@ -66,56 +62,43 @@ w pkt 5:
 a)
 we wprowadzeniu do wyliczenia skreśla się wyrazy „w zakresach częstotliwości od 10 MHz do 300 GHz”,
 b)
-w ppkt 2 kropkę zastępuje się średnikiem i dodaje się ppkt 3 w brzmieniu:
-„
+w ppkt 2 kropkę zastępuje się średnikiem i dodaje się ppkt 3 w brzmieniu: „
 3)
-miernikiem zapewniającym odporność elektromagnetyczną.
-” ;
+miernikiem zapewniającym odporność elektromagnetyczną. ” ;
 4)
 w pkt 6 w ppkt 1 wyrazy „0,5 sekundy lub do 5 mˮ zastępuje się wyrazami „0,1 sekundy lub do 3 m”;
 5)
-pkt 7 otrzymuje brzmienie:
-„
+pkt 7 otrzymuje brzmienie: „
 7.
-Przy sprawdzaniu dotrzymania dopuszczalnych poziomów pól elektromagnetycznych w środowisku uwzględnia się poprawki pomiarowe umożliwiające uwzględnienie maksymalnych parametrów pracy instalacji lub urządzenia w danym zakresie częstotliwości, przy czym dla zakresów częstotliwości od 10 MHz do 300 GHz poprawki te uwzględnia się w przypadku pomiarów wykonanych z wykorzystaniem miernika selektywnego.
-” ;
+Przy sprawdzaniu dotrzymania dopuszczalnych poziomów pól elektromagnetycznych w środowisku uwzględnia się poprawki pomiarowe umożliwiające uwzględnienie maksymalnych parametrów pracy instalacji lub urządzenia w danym zakresie częstotliwości, przy czym dla zakresów częstotliwości od 10 MHz do 300 GHz poprawki te uwzględnia się w przypadku pomiarów wykonanych z wykorzystaniem miernika selektywnego. ” ;
 6)
-w pkt 13 ppkt 1 otrzymuje brzmienie:
-„
+w pkt 13 ppkt 1 otrzymuje brzmienie: „
 1)
-pomiary wykonuje się do odległości, dla której, na podstawie uprzednio przeprowadzonych obliczeń, stwierdzono w miejscach dostępnych dla ludności występowanie pól elektromagnetycznych o najwyższym poziomie, które pochodzą z badanej instalacji;
-” ;
+pomiary wykonuje się do odległości, dla której, na podstawie uprzednio przeprowadzonych obliczeń, stwierdzono w miejscach dostępnych dla ludności występowanie pól elektromagnetycznych o najwyższym poziomie, które pochodzą z badanej instalacji; ” ;
 7)
 w pkt 14 po zdaniu pierwszym dodaje się zdanie drugie w brzmieniu: „ Pomiar może być wykonany bez zachowania terminu wskazanego w zdaniu pierwszym za zgodą dysponenta przestrzeni pomiarowej. ” ;
 8)
-w pkt 15 w objaśnieniu min(MEgr) skreśla się kropkę i dodaje się część wspólną w brzmieniu:
-„
+w pkt 15 w objaśnieniu min(MEgr) skreśla się kropkę i dodaje się część wspólną w brzmieniu: „
 – chyba że odległość ta jest ograniczona konstrukcją budynku.
 ” ;
 9)
-w pkt 16 w ppkt 4 kropkę zastępuje się średnikiem i dodaje się ppkt 5 w brzmieniu:
-„
+w pkt 16 w ppkt 4 kropkę zastępuje się średnikiem i dodaje się ppkt 5 w brzmieniu: „
 5)
-pomiar na klatkach schodowych, w lokalach użytkowych i mieszkalnych, w tym na balkonach i tarasach, może być wykonany bez zachowania terminu wskazanego w ppkt 4 za zgodą dysponenta przestrzeni pomiarowej.
-” ;
+pomiar na klatkach schodowych, w lokalach użytkowych i mieszkalnych, w tym na balkonach i tarasach, może być wykonany bez zachowania terminu wskazanego w ppkt 4 za zgodą dysponenta przestrzeni pomiarowej. ” ;
 10)
 w pkt 22 dodaje się zdanie trzecie w brzmieniu: „ Pomiar może być wykonany bez zachowania terminu wskazanego w zdaniu drugim za zgodą dysponenta przestrzeni pomiarowej. ” ;
 11)
 w pkt 24:
 a)
-w ppkt 1 lit. a otrzymuje brzmienie:
-„
+w ppkt 1 lit. a otrzymuje brzmienie: „
 a)
-nad powierzchnią ziemi lub nad innymi miejscami dostępnymi dla ludności, w szczególności nad dachami pełniącymi funkcję tarasów, nad tarasami i balkonami – pod warunkiem poinformowania o planowanych pomiarach z minimum 3-dniowym wyprzedzeniem i po umożliwieniu dostępu przez dysponenta przestrzeni pomiarowej – na wysokości 2 m,
-” ,
+nad powierzchnią ziemi lub nad innymi miejscami dostępnymi dla ludności, w szczególności nad dachami pełniącymi funkcję tarasów, nad tarasami i balkonami – pod warunkiem poinformowania o planowanych pomiarach z minimum 3-dniowym wyprzedzeniem i po umożliwieniu dostępu przez dysponenta przestrzeni pomiarowej – na wysokości 2 m, ” ,
 b)
 w ppkt 2 kropkę zastępuje się przecinkiem i dodaje się wyrazy „przy czym pomiar może być wykonany bez zachowania tego terminu za zgodą dysponenta przestrzeni pomiarowej;”,
 c)
-dodaje się ppkt 3 w brzmieniu:
-„
+dodaje się ppkt 3 w brzmieniu: „
 3)
-pomiary składowej elektrycznej i magnetycznej pola elektromagnetycznego od napowietrznych linii elektroenergetycznych dla miejsc dostępnych dla ludności wykonuje się w pionach pomiarowych wyznaczonych w miejscach najniższego zawieszenia przewodów roboczych z uwzględnieniem dostępności miejsca pomiarów w terenie; pomiary wykonuje się prostopadle lub równolegle do osi linii elektroenergetycznych z uwzględnieniem istniejących ciągów komunikacyjnych, placów zabaw, siłowni plenerowych, boisk, parkingów i innych miejsc, gdzie jest możliwa zwiększona aktywność ludzka.
-” ;
+pomiary składowej elektrycznej i magnetycznej pola elektromagnetycznego od napowietrznych linii elektroenergetycznych dla miejsc dostępnych dla ludności wykonuje się w pionach pomiarowych wyznaczonych w miejscach najniższego zawieszenia przewodów roboczych z uwzględnieniem dostępności miejsca pomiarów w terenie; pomiary wykonuje się prostopadle lub równolegle do osi linii elektroenergetycznych z uwzględnieniem istniejących ciągów komunikacyjnych, placów zabaw, siłowni plenerowych, boisk, parkingów i innych miejsc, gdzie jest możliwa zwiększona aktywność ludzka. ” ;
 12)
 w pkt 25:
 a)
@@ -134,6 +117,5 @@ w ppkt 2 w lit. a:
 – w objaśnieniu WMH po wyrazach „dla miejsc dostępnych dla ludności” dodaje się wyrazy „lub terenów przeznaczonych pod zabudowę mieszkaniową”,
 – w objaśnieniu MHgr(fi) po wyrazach „dla miejsc dostępnych dla ludności” dodaje się wyrazy „lub terenów przeznaczonych pod zabudowę mieszkaniową”.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 

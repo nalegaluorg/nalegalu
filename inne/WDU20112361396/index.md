@@ -22,19 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-11-08 |
-| Wejście w życie | 2012-01-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112361396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1396/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2007 r. Nr 226, poz. 1676, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2007 r. Nr 226, poz. 1676, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1651, z 2009 r. Nr 26, poz. 157, Nr 56, poz. 459 i Nr 157, poz. 1241, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 113, poz. 659 i Nr 203, poz. 1192.) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 § 4 otrzymuje brzmienie: „
 
 § 4. Projekty planów finansowych oraz plany finansowe dla sądów wojskowych opracowują prezesi tych sądów, według zasad określonych w odrębnych przepisach o finansach publicznych, które Minister Sprawiedliwości przedkłada Krajowej Radzie Sądownictwa, a ta na ich podstawie składa wniosek do Ministra Obrony Narodowej o opracowanie dochodów i wydatków sądów wojskowych. ” ;
 
 - **2)** w art. 5 uchyla się § 4–6;
-- **3)** w art. 10: w § 3: – pkt 6 otrzymuje brzmienie: „ 6) wysłuchanie informacji Ministra Sprawiedliwości o działalności sądów wojskowych oraz wyrażanie opinii w tym zakresie; ” , – pkt 9 otrzymuje brzmienie: „ 9) wyrażanie opinii w sprawach zgłoszonych przez Krajową Radę Sądownictwa, Ministra Sprawiedliwości oraz Ministra Obrony Narodowej. ” , § 7 otrzymuje brzmienie: „
+- **3)** w art. 10: w § 3: pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** wysłuchanie informacji Ministra Sprawiedliwości o działalności sądów wojskowych oraz wyrażanie opinii w tym zakresie; ” , pkt 9 otrzymuje brzmienie: „
+- **9)** wyrażanie opinii w sprawach zgłoszonych przez Krajową Radę Sądownictwa, Ministra Sprawiedliwości oraz Ministra Obrony Narodowej. ” , § 7 otrzymuje brzmienie: „
     - **b)**
 
 § 7. Zgromadzenie zbiera się co najmniej raz w roku. Posiedzenie Zgromadzenia zwołuje jego przewodniczący z własnej inicjatywy, na wniosek Ministra Sprawiedliwości, Ministra Obrony Narodowej, albo na wniosek jednej piątej liczby członków Zgromadzenia. ” ;
@@ -93,7 +95,7 @@ source: "eli-html"
 - **15)** w art. 70 w § 1 pkt 1 otrzymuje brzmienie: „
 - **1)** określone w tych przepisach czynności i uprawnienia Ministra Sprawiedliwości, zgromadzenia ogólnego sędziów, kolegium sądu, prezesów sądów rejonowych i okręgowych oraz prezesa sądu dyscyplinarnego wykonują odpowiednio: Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej, Zgromadzenie Sędziów Sądów Wojskowych, kolegium wojskowego sądu okręgowego, prezesi sądów wojskowych i prezes sądu dyscyplinarnego, a czynności i uprawnienia prezesa sądu apelacyjnego w zakresie nadzoru administracyjnego – Minister Sprawiedliwości; ” .
 
-**Art. 2.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696 i Nr 171, poz. 1016.) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 w ust. 1 pkt 15 otrzymuje brzmienie: „
 - **15)** sędziowie sądów wojskowych – żołnierzy zawodowych pełniących zawodową służbę wojskową na stanowiskach sędziów w sądach wojskowych; ” ;
@@ -106,5 +108,5 @@ source: "eli-html"
 
 2. Minister Sprawiedliwości wyznacza sędziom, o których mowa w ust. 1, stanowiska służbowe w wojskowym sądzie okręgowym.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia, z wyjątkiem art. 3 ust. 2, który wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia, z wyjątkiem art. 3 ust. 2, który wchodzi w życie po upływie miesiąca od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1651, z 2009 r. Nr 26, poz. 157, Nr 56, poz. 459 i Nr 157, poz. 1241, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 113, poz. 659 i Nr 203, poz. 1192. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696 i Nr 171, poz. 1016.
 

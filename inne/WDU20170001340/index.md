@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-21 |
 | Data wydania | 2017-07-07 |
-| Wejście w życie | 2017-07-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001340) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1340/text.pdf) |
 
@@ -31,11 +30,9 @@ Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 
 § 1.
 W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie kamiennogórskiej specjalnej strefy ekonomicznej (Dz. U. z 2016 r. poz. 1794) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-Strefa obejmuje grunty o powierzchni 540,8285 ha, położone na terenie miast: Jawor, Jelenia Góra, Kamienna Góra, Kowary, Lubań, Ostrów Wielkopolski, Piechowice, Zgorzelec oraz gmin: Bolków, Gryfów Śląski, Janowice Wielkie, Kamienna Góra, Lubań, Lubawka, Lwówek Śląski, Mirsk, Nowogrodziec, Prusice i Żmigród.
-” ;
+Strefa obejmuje grunty o powierzchni 540,8285 ha, położone na terenie miast: Jawor, Jelenia Góra, Kamienna Góra, Kowary, Lubań, Ostrów Wielkopolski, Piechowice, Zgorzelec oraz gmin: Bolków, Gryfów Śląski, Janowice Wielkie, Kamienna Góra, Lubań, Lubawka, Lwówek Śląski, Mirsk, Nowogrodziec, Prusice i Żmigród. ” ;
 2)
 w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU KAMIENNOGÓRSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ MAŁEJ PRZEDSIĘBIORCZOŚCI:
 a)

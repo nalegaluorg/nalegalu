@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 18 czerwca 2014 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 18 czerwca 2014 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce, zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. oraz decyzją Komisji Europejskiej nr C (2013) 9008 z dnia 9 grudnia 2013 r. zmieniającą decyzję K(2007) 4562 w sprawie przyjęcia programu operacyjnego w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji dla Polski i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-18 |
 | Data wydania | 2014-06-27 |
-| Wejście w życie | 2014-07-01 |
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000854) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/854/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Przepisy wspólne dla wszystkich działań na pierwsze wdrożenie wynalazku w ramach osi priorytetowej 4 Inwestycje w innowacyjne przedsięwzięcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 oraz na innowacyjne przedsięwzięcia realizowane ze środków funduszu pożyczkowego w ramach osi priorytetowej 3 Kapitał dla innowacji określonej w Programie Operacyjnym Innowacyjna Gospodarka, 2007–2013 Rozdział 3 – Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności wsparcia na inicjowanie działalności innowacyjnej w ramach działania 3.1 Inicjowanie działalności innowacyjnej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 4 – Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności oraz mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom wsparcia na tworzenie systemu ułatwiającego inwestowanie w ramach działania 3.3 Tworzenie systemu ułatwiającego inwestowanie w MŚP Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 5 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom pożyczki na innowacyjne przedsięwzięcia ze środków funduszu pożyczkowego w ramach osi priorytetowej 3 Kapitał dla innowacji Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 6 – Szczegółowe przeznaczenie i warunki udzielania wsparcia mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom na pierwsze wdrożenie wynalazku w ramach osi priorytetowej 4 Inwestycje w innowacyjne przedsięwzięcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 7 – Szczegółowe przeznaczenie i warunki udzielania przedsiębiorcom wsparcia na zwiększenie potencjału badawczo-rozwojowego oraz wsparcia w zakresie wzornictwa w ramach działania 4.2 Stymulowanie działalności B+R przedsiębiorstw oraz wsparcie w zakresie wzornictwa przemysłowego Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 8 – Szczegółowe przeznaczenie i warunki udzielania przedsiębiorcom wsparcia na inwestycje o wysokim potencjale innowacyjnym w ramach działania 4.4 Nowe inwestycje o wysokim potencjale innowacyjnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 9 – Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz rozwoju gospodarczego lub podmiotom działającym na rzecz innowacyjności wsparcia na rozwój powiązań kooperacyjnych w ramach działania 5.1 Wspieranie rozwoju powiązań kooperacyjnych o znaczeniu ponadregionalnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 10 – Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności wsparcia na usługi proinnowacyjne oraz wzmocnienie potencjału instytucji i wspólnych przedsięwzięć w ramach działania 5.2 Wspieranie instytucji otoczenia biznesu świadczących usługi proinnowacyjne oraz ich sieci o znaczeniu ponadregionalnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 11 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom wsparcia na uzyskanie ochrony własności przemysłowej oraz podmiotom działającym na rzecz rozwoju gospodarczego lub podmiotom działającym na rzecz innowacyjności na popularyzację wiedzy w zakresie własności intelektualnej w ramach działania 5.4 Zarządzanie własnością intelektualną Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 12 – Szczegółowe przeznaczenie i warunki udzielania wsparcia mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom w ramach działania 6.1 Paszport do eksportu Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 13 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom pomocy finansowej w formie finansowania kosztów usług szkoleniowych i doradczych oraz wsparcia na rozwój strategii marketingowej na rynku Stanów Zjednoczonych Ameryki w ramach działania 6.2 Rozwój sieci centrów obsługi inwestorów i eksporterów oraz powstawanie nowych terenów inwestycyjnych Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 14 – Tryb udzielania pomocy finansowej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 Rozdział 15 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej:
@@ -69,7 +69,7 @@ Pomoc finansowa nie może być:
 1)
 udzielona mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy, spełniającemu kryteria zagrożonego przedsiębiorcy, w rozumieniu art. 1 ust. 7 rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych) (Dz. Urz. UE L 214 z 09.08.2008, str. 3, z późn. zm.), zwanego dalej „rozporządzeniem Komisji”;
 2)
-udzielona przedsiębiorcy innemu niż mikroprzedsiębiorca, mały lub średni przedsiębiorca, spełniającemu kryteria podmiotu w trudnej sytuacji ekonomicznej lub znajdującemu się w okresie restrukturyzacji przeprowadzanej z wykorzystaniem pomocy publicznej, w rozumieniu wytycznych wspólnotowych dotyczących pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw;
+udzielona przedsiębiorcy innemu niż mikroprzedsiębiorca, mały lub średni przedsiębiorca, spełniającemu kryteria podmiotu w trudnej sytuacji ekonomicznej lub znajdującemu się w okresie restrukturyzacji przeprowadzanej z wykorzystaniem pomocy publicznej, w rozumieniu wytycznych wspólnotowych dotyczących pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstwKryteria te są określone w pkt 9–11 Wytycznych wspólnotowych dotyczących pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.).;
 3)
 udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy wynikający z decyzji Komisji Europejskiej uznającej pomoc za niezgodną z prawem oraz wspólnym rynkiem.
 4.
@@ -145,11 +145,11 @@ nie posiada wykształcenia ponadgimnazjalnego lub zawodowego lub równoważnego 
 c)
 ukończyła 50. rok życia,
 d)
-jest osobą samotnie wychowującą co najmniej jedno dziecko w rozumieniu przepisów o podatku dochodowym od osób fizycznych lub samotnie mającą na utrzymaniu osobę zależną w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm.),
+jest osobą samotnie wychowującą co najmniej jedno dziecko w rozumieniu przepisów o podatku dochodowym od osób fizycznych lub samotnie mającą na utrzymaniu osobę zależną w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 829, 1291, 1623, 1645 i 1650 oraz z 2014 r. poz. 567 i 598.),
 e)
 wykonuje pracę w branży lub zawodzie, w którym różnica między liczbą zatrudnionych kobiet i liczbą zatrudnionych mężczyzn jest o co najmniej 25% wyższa niż przeciętna różnica tych liczb we wszystkich sektorach gospodarki narodowej Rzeczypospolitej Polskiej, i należy do płci mniej licznej,
 f)
-jest członkiem mniejszości narodowej lub etnicznej w rozumieniu ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141, z późn. zm.), który w celu zwiększenia szans na uzyskanie dostępu do stałego zatrudnienia musi poprawić znajomość języka, uzupełnić szkolenia zawodowe lub zwiększyć doświadczenie zawodowe;
+jest członkiem mniejszości narodowej lub etnicznej w rozumieniu ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 62, poz. 550, z 2009 r. Nr 31, poz. 206 i Nr 157, poz. 1241 oraz z 2014 r. poz. 829.), który w celu zwiększenia szans na uzyskanie dostępu do stałego zatrudnienia musi poprawić znajomość języka, uzupełnić szkolenia zawodowe lub zwiększyć doświadczenie zawodowe;
 15)
 pracowniku niepełnosprawnym – należy przez to rozumieć pracownika, o którym mowa w art. 2 pkt 20 rozporządzenia Komisji;
 16)
@@ -171,7 +171,8 @@ spełnia co najmniej jeden z następujących warunków:
 19)
 funduszu kapitału podwyższonego ryzyka typu venture capital – należy przez to rozumieć osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, której podstawowym przedmiotem działalności jest dokonywanie inwestycji kapitałowych w przedsiębiorstwa niebędące spółkami publicznymi, w rozumieniu pkt 18 lit. a, znajdujące się we wczesnym stadium rozwoju, wykazujące duży potencjał wzrostu i rozwoju i której członkowie organów zarządzających lub wspólnicy nie zostali skazani prawomocnym wyrokiem za przestępstwa wymienione w art. 6b ust. 3 pkt 1 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości;
 20)
-wykonawcy – należy przez to rozumieć podmiot wybrany przez Agencję w trybie określonym w przepisach o zamówieniach publicznych, w ramach realizowanego przez Agencję projektu systemowego, o którym mowa w art. 28 ust. 1 pkt 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.).
+wykonawcy – należy przez to rozumieć podmiot wybrany przez Agencję w trybie określonym w przepisach o zamówieniach publicznych, w ramach realizowanego przez Agencję projektu systemowego, o którym mowa w art. 28 ust. 1 pkt 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379.).
+Przepisy wspólne dla wszystkich działań na pierwsze wdrożenie wynalazku w ramach osi priorytetowej 4 Inwestycje w innowacyjne przedsięwzięcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 oraz na innowacyjne przedsięwzięcia realizowane ze środków funduszu pożyczkowego w ramach osi priorytetowej 3 Kapitał dla innowacji określonej w Programie Operacyjnym Innowacyjna Gospodarka, 2007–2013
 § 2.
 Wsparcie:
 1)
@@ -181,8 +182,7 @@ a)
 b)
 4.4 Nowe inwestycje o wysokim potencjale innowacyjnym,
 c)
-5.1 Wspieranie rozwoju powiązań kooperacyjnych o znaczeniu ponadregionalnym w przypadku określonym w § 36
-stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 13 w rozdziale II oraz rozdziału III rozporządzenia Komisji;
+5.1 Wspieranie rozwoju powiązań kooperacyjnych o znaczeniu ponadregionalnym w przypadku określonym w § 36 – stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 13 w rozdziale II oraz rozdziału III rozporządzenia Komisji;
 2)
 w zakresie inwestycji dla mikroprzedsiębiorców, małych lub średnich przedsiębiorców na pierwsze wdrożenie wynalazku w ramach osi priorytetowej 4 Inwestycje w innowacyjne przedsięwzięcia stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, art. 13 w rozdziale II oraz rozdziału III rozporządzenia Komisji;
 3)
@@ -207,8 +207,7 @@ a)
 b)
 4.4 Nowe inwestycje o wysokim potencjale innowacyjnym,
 c)
-5.1 Wspieranie rozwoju powiązań kooperacyjnych o znaczeniu ponadregionalnym w przypadku określonym w § 40
-stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, sekcji 8 rozdziału II oraz rozdziału III rozporządzenia Komisji.
+5.1 Wspieranie rozwoju powiązań kooperacyjnych o znaczeniu ponadregionalnym w przypadku określonym w § 40 – stanowi pomoc publiczną i jest udzielane zgodnie z warunkami określonymi w przepisach rozdziału I, sekcji 8 rozdziału II oraz rozdziału III rozporządzenia Komisji.
 § 3.
 Pomoc finansowa w formie pożyczki na innowacyjne przedsięwzięcia realizowane przez mikroprzedsiębiorców i małych przedsiębiorców ze środków funduszu pożyczkowego w ramach osi priorytetowej 3 Kapitał dla innowacji może być udzielana jako:
 1)
@@ -281,8 +280,7 @@ wydatków, o których mowa w § 47 ust. 5 pkt 7 i 8,
 b)
 prowadzenia postępowania wyłącznie przed właściwym krajowym, regionalnym lub unijnym organem ochrony własności przemysłowej, w przypadku gdy międzynarodowa, unijna lub regionalna faza procedury ochrony własności przemysłowej została zakończona przed złożeniem wniosku o udzielenie wsparcia, w zakresie wydatków kwalifikujących się do objęcia wsparciem związanych z tym postępowaniem wymienionych w § 47 ust. 5,
 12)
-mikroprzedsiębiorców, małych lub średnich przedsiębiorców w ramach działania 6.2 Rozwój sieci centrów obsługi inwestorów i eksporterów oraz powstawanie nowych terenów inwestycyjnych
-stanowi pomoc de minimis i jest udzielana zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanym dalej „rozporządzeniem Komisji nr 1407/2013”.
+mikroprzedsiębiorców, małych lub średnich przedsiębiorców w ramach działania 6.2 Rozwój sieci centrów obsługi inwestorów i eksporterów oraz powstawanie nowych terenów inwestycyjnych – stanowi pomoc de minimis i jest udzielana zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanym dalej „rozporządzeniem Komisji nr 1407/2013”.
 2.
 Pomoc finansowa w formie pożyczki na innowacyjne przedsięwzięcia realizowane przez mikroprzedsiębiorców i małych przedsiębiorców ze środków funduszu pożyczkowego w ramach osi priorytetowej 3 Kapitał dla innowacji w zakresie wydatków, o których mowa w § 16 ust. 5, udzielana jest jako pomoc de minimis zgodnie z warunkami określonymi w rozporządzeniu Komisji nr 1407/2013.
 3.
@@ -307,6 +305,7 @@ w sektorze węglowym w rozumieniu decyzji Rady z dnia 10 grudnia 2010 r. w spraw
 Pomoc de minimis nie może być udzielona przedsiębiorcy prowadzącemu działalność gospodarczą w zakresie towarowego transportu drogowego na nabycie pojazdów przeznaczonych do takiego transportu.
 § 9.
 Pomoc publiczna podlega sumowaniu z inną pomocą, w tym pomocą de minimis , udzieloną danemu przedsiębiorcy, w odniesieniu do tych samych wydatków kwalifikujących się do objęcia pomocą finansową, bez względu na jej formę i źródło pochodzenia, w tym ze środków pochodzących z budżetu Unii Europejskiej, i nie może przekroczyć maksymalnej intensywności pomocy dla danego przeznaczenia pomocy. Pomoc de minimis , której nie przyznano w odniesieniu do konkretnych wydatków kwalifikujących się do objęcia pomocą finansową lub której nie można przypisać do takich kosztów, można łączyć z inną pomocą publiczną przyznaną zgodnie z rozporządzeniem Komisji lub zgodnie z decyzją przyjętą przez Komisję Europejską.
+Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności wsparcia na inicjowanie działalności innowacyjnej w ramach działania 3.1 Inicjowanie działalności innowacyjnej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 10.
 1.
 Agencja może udzielić wsparcia na inicjowanie działalności innowacyjnej z przeznaczeniem na:
@@ -333,8 +332,7 @@ zobowiąże się do:
 a)
 nieodpłatnego przekazania spółce, w której podmiot ten objął akcje lub udziały w ramach wsparcia na inicjowanie działalności innowacyjnej, lub
 b)
-wniesienia aportem do spółki powstałej w wyniku działań, o których mowa w ust. 1 pkt 1 i 2
-środków trwałych lub wartości niematerialnych i prawnych, o których mowa w § 11 ust. 2 pkt 3 i 4;
+wniesienia aportem do spółki powstałej w wyniku działań, o których mowa w ust. 1 pkt 1 i 2 – środków trwałych lub wartości niematerialnych i prawnych, o których mowa w § 11 ust. 2 pkt 3 i 4;
 5)
 zobowiąże się do:
 a)
@@ -402,6 +400,7 @@ nabycie udziałów lub akcji w spółce powstałej w wyniku działań, o któryc
 Wielkość wsparcia na inicjowanie działalności innowacyjnej może wynosić do 100% wydatków kwalifikujących się do objęcia wsparciem.
 4.
 Wielkość wsparcia na pokrycie kosztów z tytułu działań, o których mowa w § 10 ust. 1 pkt 1 i 2, nie może przekroczyć 50% wydatków kwalifikujących się do objęcia wsparciem.
+Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności oraz mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom wsparcia na tworzenie systemu ułatwiającego inwestowanie w ramach działania 3.3 Tworzenie systemu ułatwiającego inwestowanie w MŚP Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 12.
 1.
 Agencja może udzielić wsparcia na tworzenie systemu ułatwiającego inwestowanie:
@@ -500,6 +499,7 @@ Kwota wsparcia na tworzenie systemu ułatwiającego inwestowanie udzielonego mik
 Intensywność wsparcia na tworzenie systemu ułatwiającego inwestowanie udzielonego mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy na zakup usług doradczych nie może przekroczyć 50% wydatków faktycznie poniesionych na ten cel.
 5.
 Intensywność wsparcia na tworzenie systemu ułatwiającego inwestowanie udzielonego mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy na pokrycie wydatków na ustanowienie lub utrzymanie zabezpieczenia należytego wykonania zobowiązań wynikających z umowy o udzielenie wsparcia oraz na pokrycie kosztów związanych z otwarciem i prowadzeniem przez przedsiębiorcę odrębnego rachunku bankowego lub subkonta na rachunku bankowym może wynosić do 100% wydatków faktycznie poniesionych na ten cel.
+Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom pożyczki na innowacyjne przedsięwzięcia ze środków funduszu pożyczkowego w ramach osi priorytetowej 3 Kapitał dla innowacji Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 15.
 1.
 Agencja ze środków funduszu pożyczkowego może udzielić mikroprzedsiębiorcy lub małemu przedsiębiorcy będącemu spółką kapitałową, z wyłączeniem spółek kapitałowych w organizacji, prowadzącemu działalność gospodarczą i mającemu siedzibę na terytorium Rzeczypospolitej Polskiej pożyczki na realizację innowacyjnego przedsięwzięcia z przeznaczeniem na:
@@ -682,6 +682,7 @@ Intensywność pomocy publicznej na uzyskanie ochrony prawa własności przemys�
 70% wydatków kwalifikujących się do objęcia pożyczką, o których mowa w § 16 ust. 4, jeżeli wynalazek, wzór użytkowy lub wzór przemysłowy powstał w wyniku prowadzonych badań przemysłowych;
 2)
 45% wydatków kwalifikujących się do objęcia pożyczką, o których mowa w § 16 ust. 4, jeżeli wynalazek, wzór użytkowy lub wzór przemysłowy powstał w wyniku prowadzonych prac rozwojowych.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom na pierwsze wdrożenie wynalazku w ramach osi priorytetowej 4 Inwestycje w innowacyjne przedsięwzięcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 19.
 1.
 Agencja może udzielić mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy prowadzącemu działalność gospodarczą i mającemu siedzibę, a w przypadku przedsiębiorcy będącego osobą fizyczną – miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej wsparcia na pierwsze wdrożenie wynalazku, który został zgłoszony w celu uzyskania patentu lub na który uzyskano patent, zwanego dalej „wsparciem na pierwsze wdrożenie wynalazku”.
@@ -710,8 +711,7 @@ Wsparcie na pierwsze wdrożenie wynalazku nie może być udzielone, jeżeli prze
 1)
 produkt będący przedmiotem wynalazku objętego wdrożeniem był wytwarzany lub używany w sposób zarobkowy lub zawodowy,
 2)
-sposób będący przedmiotem wynalazku objętego wdrożeniem był stosowany lub produkt otrzymany takim sposobem był wytwarzany lub używany w sposób zarobkowy lub zawodowy
-na terytorium Unii Europejskiej, chyba że wytwarzanie, używanie produktu lub stosowanie sposobu będącego przedmiotem wynalazku stanowiło część prac rozwojowych, w których wynikach zawarty jest ten wynalazek.
+sposób będący przedmiotem wynalazku objętego wdrożeniem był stosowany lub produkt otrzymany takim sposobem był wytwarzany lub używany w sposób zarobkowy lub zawodowy – na terytorium Unii Europejskiej, chyba że wytwarzanie, używanie produktu lub stosowanie sposobu będącego przedmiotem wynalazku stanowiło część prac rozwojowych, w których wynikach zawarty jest ten wynalazek.
 5.
 Na uzasadniony wniosek mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy Agencja może wyrazić zgodę na przeniesienie inwestycji w obrębie tego samego województwa.
 6.
@@ -794,6 +794,7 @@ Całkowita wartość projektu nie może przekroczyć 50 milionów euro na dzień
 Kwota wsparcia na pierwsze wdrożenie wynalazku nie może przekroczyć 20 milionów złotych dla jednego przedsiębiorcy na jeden projekt, w tym kwota wsparcia na wydatki, o których mowa w § 20 ust. 2 pkt 9, nie może przekroczyć 1 miliona złotych.
 6.
 Kwota wsparcia w zakresie wydatków, o których mowa w § 20 ust. 2 pkt 10–12, nie może przekroczyć, łącznie z inną pomocą de minimis otrzymaną w bieżącym roku podatkowym oraz w ciągu dwóch poprzedzających lat podatkowych z różnych źródeł i w różnych formach, kwoty 200 tysięcy euro, a w przypadku jednego mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy prowadzącego działalność w sektorze transportu drogowego towarów – 100 tysięcy euro.
+Szczegółowe przeznaczenie i warunki udzielania przedsiębiorcom wsparcia na zwiększenie potencjału badawczo-rozwojowego oraz wsparcia w zakresie wzornictwa w ramach działania 4.2 Stymulowanie działalności B+R przedsiębiorstw oraz wsparcie w zakresie wzornictwa przemysłowego Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 22.
 1.
 Agencja może udzielić przedsiębiorcy prowadzącemu działalność gospodarczą i mającemu siedzibę na terytorium Rzeczypospolitej Polskiej, a w przypadku przedsiębiorcy będącego osobą fizyczną – miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej wsparcia:
@@ -959,6 +960,7 @@ Minimalna wartość wydatków kwalifikujących się do objęcia wsparciem na zwi
 400 tysięcy złotych, jeżeli projekt będzie realizowany w województwie innym niż wskazane w ogłoszeniu o konkursie, o którym mowa w § 56 ust. 2.
 11.
 Łączna wartość wydatków kwalifikujących się do objęcia wsparciem na zwiększenie potencjału badawczo-rozwojowego dla części inwestycyjnej nie może przekroczyć 10 milionów złotych.
+Szczegółowe przeznaczenie i warunki udzielania przedsiębiorcom wsparcia na inwestycje o wysokim potencjale innowacyjnym w ramach działania 4.4 Nowe inwestycje o wysokim potencjale innowacyjnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 27.
 1.
 Agencja może udzielić przedsiębiorcy prowadzącemu działalność gospodarczą i mającemu siedzibę, a w przypadku przedsiębiorcy będącego osobą fizyczną – miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, wsparcia na inwestycje o wysokim potencjale innowacyjnym z przeznaczeniem na nabycie lub wdrożenie rozwiązań technologicznych, pod warunkiem że rozwiązania te spełniają następujące warunki:
@@ -1095,6 +1097,7 @@ Maksymalna kwota wsparcia dla jednego przedsiębiorcy na jeden projekt na inwest
 200 tysięcy euro, a w przypadku jednego przedsiębiorcy prowadzącego działalność w sektorze transportu drogowego towarów – 100 tysięcy euro, w części dotyczącej wydatków, o których mowa w § 28 ust. 2 pkt 10 i 11;
 4)
 1 milion złotych w części dotyczącej wydatków, o których mowa w § 28 ust. 2 pkt 12.
+Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz rozwoju gospodarczego lub podmiotom działającym na rzecz innowacyjności wsparcia na rozwój powiązań kooperacyjnych w ramach działania 5.1 Wspieranie rozwoju powiązań kooperacyjnych o znaczeniu ponadregionalnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 31.
 1.
 Agencja może udzielić podmiotowi działającemu na rzecz rozwoju gospodarczego lub podmiotowi działającemu na rzecz innowacyjności, zwanemu dalej „koordynatorem powiązania kooperacyjnego”, wsparcia na wczesną fazę rozwoju powiązania kooperacyjnego albo na rozwój powiązania kooperacyjnego.
@@ -1143,14 +1146,13 @@ organizacja badawcza,
 6)
 organizacja przedsiębiorców działająca na podstawie:
 a)
-ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2002 r. Nr 112, poz. 979, z późn. zm.),
+ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2002 r. Nr 112, poz. 979, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, z 2009 r. Nr 6, poz. 33 oraz z 2011 r. Nr 205, poz. 1206 i Nr 207, poz. 1230.),
 b)
 ustawy z dnia 30 maja 1989 r. o samorządzie zawodowym niektórych przedsiębiorców (Dz. U. Nr 35, poz. 194 oraz z 1997 r. Nr 121, poz. 769 i 770),
 c)
 ustawy z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2009 r. Nr 84, poz. 710),
 7)
-instytut naukowy Polskiej Akademii Nauk
-których przedmiotem działalności jest realizacja przedsięwzięć na rzecz przedsiębiorców oraz na rzecz współpracy przedsiębiorców z instytucjami otoczenia biznesu oraz organizacjami badawczymi.
+instytut naukowy Polskiej Akademii Nauk – których przedmiotem działalności jest realizacja przedsięwzięć na rzecz przedsiębiorców oraz na rzecz współpracy przedsiębiorców z instytucjami otoczenia biznesu oraz organizacjami badawczymi.
 § 32.
 1.
 Agencja jednokrotnie może udzielić koordynatorowi powiązania kooperacyjnego wsparcia na wczesną fazę rozwoju powiązania kooperacyjnego z przeznaczeniem na pokrycie części wydatków na:
@@ -1161,8 +1163,7 @@ szkolenia ogólne i specjalistyczne, związane z przedmiotem działalności powi
 3)
 zakup usług doradczych,
 4)
-koszty osobowe i administracyjne
-w celu stworzenia warunków techniczno-organizacyjnych funkcjonowania powiązania kooperacyjnego, opracowania wspólnej strategii rozwoju powiązania kooperacyjnego i wdrażania tej strategii co najmniej przez okres równy okresowi trwałości projektu.
+koszty osobowe i administracyjne – w celu stworzenia warunków techniczno-organizacyjnych funkcjonowania powiązania kooperacyjnego, opracowania wspólnej strategii rozwoju powiązania kooperacyjnego i wdrażania tej strategii co najmniej przez okres równy okresowi trwałości projektu.
 2.
 Wsparcie może być udzielone koordynatorowi powiązania kooperacyjnego na wczesną fazę rozwoju powiązania kooperacyjnego, które spełnia łącznie następujące warunki:
 1)
@@ -1172,8 +1173,7 @@ a)
 b)
 jednej organizacji badawczej,
 c)
-jednej instytucji otoczenia biznesu
-przy czym każdy z uczestników powiązania kooperacyjnego może zostać zaliczony tylko do jednego z powyższych typów podmiotów;
+jednej instytucji otoczenia biznesu – przy czym każdy z uczestników powiązania kooperacyjnego może zostać zaliczony tylko do jednego z powyższych typów podmiotów;
 2)
 nie mniej niż połowa uczestników powiązania kooperacyjnego, na rzecz którego realizowany jest projekt, to mikroprzedsiębiorcy, mali lub średni przedsiębiorcy;
 3)
@@ -1286,8 +1286,7 @@ zakup usług doradczych,
 5)
 szkolenia specjalistyczne związane z przedmiotem działalności powiązania kooperacyjnego oraz z zakresu zarządzania powiązaniem kooperacyjnym,
 6)
-współpracę międzynarodową powiązania kooperacyjnego, w zakresie wydatków innych niż określone w pkt 3 i 4
-w celu wspólnego przygotowania przez członków powiązania kooperacyjnego produktu lub usługi o charakterze innowacyjnym.
+współpracę międzynarodową powiązania kooperacyjnego, w zakresie wydatków innych niż określone w pkt 3 i 4 – w celu wspólnego przygotowania przez członków powiązania kooperacyjnego produktu lub usługi o charakterze innowacyjnym.
 2.
 Wsparcie może być udzielone koordynatorowi powiązania kooperacyjnego na rozwój powiązania kooperacyjnego, które spełnia łącznie następujące warunki:
 1)
@@ -1297,8 +1296,7 @@ a)
 b)
 jednej organizacji badawczej,
 c)
-jednej instytucji otoczenia biznesu
-przy czym każdy z uczestników powiązania kooperacyjnego może zostać zaliczony tylko do jednego z powyższych typów podmiotów;
+jednej instytucji otoczenia biznesu – przy czym każdy z uczestników powiązania kooperacyjnego może zostać zaliczony tylko do jednego z powyższych typów podmiotów;
 2)
 nie mniej niż połowa uczestników powiązania kooperacyjnego, na rzecz którego realizowany jest projekt, to mikroprzedsiębiorcy, mali lub średni przedsiębiorcy;
 3)
@@ -1573,6 +1571,7 @@ Maksymalna kwota wsparcia na jeden projekt objęty wsparciem na rozwój powiąza
 1 milion złotych w części dotyczącej wydatków, o których mowa w § 40 ust. 4;
 5)
 600 tysięcy złotych w części dotyczącej wydatków, o których mowa w § 41 ust. 1.
+Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności wsparcia na usługi proinnowacyjne oraz wzmocnienie potencjału instytucji i wspólnych przedsięwzięć w ramach działania 5.2 Wspieranie instytucji otoczenia biznesu świadczących usługi proinnowacyjne oraz ich sieci o znaczeniu ponadregionalnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 43.
 1.
 Agencja może udzielić podmiotowi działającemu na rzecz innowacyjności wsparcia na usługi proinnowacyjne z przeznaczeniem na świadczenie na rzecz mikroprzedsiębiorców, małych i średnich przedsiębiorców usług doradczych o charakterze proinnowacyjnym, o których mowa w § 3 pkt 1 lit. b rozporządzenia Ministra Gospodarki z dnia 24 maja 2011 r. w sprawie Krajowego Systemu Usług dla Małych i Średnich Przedsiębiorstw (Dz. U. Nr 112, poz. 656), zwanego dalej „rozporządzeniem KSU”.
@@ -1753,6 +1752,7 @@ audyt finansowy dotyczący wydatków, o których mowa w pkt 1–15, pod warunkie
 Wielkość wsparcia na wzmocnienie potencjału instytucji i wspólnych przedsięwzięć może wynosić do 100% wydatków kwalifikujących się do objęcia wsparciem, przy czym co najmniej 40% kwoty wsparcia jest równe sumie pomocy de minimis udzielonej przez podmiot udzielający pomocy z tytułu świadczenia usługi, o której mowa w § 45 ust. 1 pkt 1.
 4.
 Intensywność wsparcia dla przedsiębiorców z tytułu usług o charakterze proinnowacyjnym świadczonych na ich rzecz przez podmioty, o których mowa w § 45 ust. 3, w ramach wsparcia na wzmocnienie potencjału instytucji i wspólnych przedsięwzięć nie może przekroczyć 100% wydatków poniesionych na te usługi.
+Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom wsparcia na uzyskanie ochrony własności przemysłowej oraz podmiotom działającym na rzecz rozwoju gospodarczego lub podmiotom działającym na rzecz innowacyjności na popularyzację wiedzy w zakresie własności intelektualnej w ramach działania 5.4 Zarządzanie własnością intelektualną Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 47.
 1.
 Agencja może udzielić mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy mającemu siedzibę, a w przypadku przedsiębiorcy będącego osobą fizyczną – miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej wsparcia na uzyskanie ochrony prawa własności przemysłowej, z przeznaczeniem na pokrycie kosztów:
@@ -1857,6 +1857,7 @@ pokrycie kosztów związanych z otwarciem i prowadzeniem przez przedsiębiorcę 
 Kwota wsparcia na popularyzację wiedzy w zakresie własności intelektualnej nie może być niższa niż 200 tysięcy złotych ani nie może przekroczyć 2 milionów złotych dla jednego podmiotu na jeden projekt.
 6.
 Wielkość wsparcia na popularyzację wiedzy w zakresie własności intelektualnej może wynosić do 100% wydatków kwalifikujących się do objęcia wsparciem.
+Szczegółowe przeznaczenie i warunki udzielania wsparcia mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom w ramach działania 6.1 Paszport do eksportu Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 49.
 1.
 Agencja może udzielić mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy prowadzącemu działalność gospodarczą i mającemu siedzibę, a w przypadku przedsiębiorcy będącego osobą fizyczną – miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej wsparcia na wdrożenie planu rozwoju eksportu.
@@ -2026,6 +2027,7 @@ pkt 1–11, nie może przekroczyć 400 tysięcy złotych dla jednego przedsiębi
 pkt 12, nie może przekroczyć 10 tysięcy złotych dla jednego przedsiębiorcy.
 § 52.
 Mikroprzedsiębiorca, mały lub średni przedsiębiorca może otrzymać wsparcie na wdrożenie planu rozwoju eksportu jeden raz w okresie realizacji działania 6.1 Paszport do eksportu Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013.
+Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom pomocy finansowej w formie finansowania kosztów usług szkoleniowych i doradczych oraz wsparcia na rozwój strategii marketingowej na rynku Stanów Zjednoczonych Ameryki w ramach działania 6.2 Rozwój sieci centrów obsługi inwestorów i eksporterów oraz powstawanie nowych terenów inwestycyjnych Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 53.
 1.
 Pomoc finansowa może być udzielana przez Agencję w formie finansowania kosztów usług szkoleniowych, w zakresie prowadzenia działalności gospodarczej oraz podejmowania współpracy gospodarczej na rynku Stanów Zjednoczonych Ameryki, świadczonych bezpłatnie przez wykonawców wybranych przez Agencję na rzecz odbiorców usług, o których mowa w ust. 2.
@@ -2095,6 +2097,7 @@ Przez usługi mentorskie rozumie się usługi polegające na wsparciu przedsięb
 Maksymalna kwota wsparcia, o którym mowa w ust. 1, wynosi 55 tysięcy złotych.
 5.
 Intensywność wsparcia, o którym mowa w ust. 1, może wynosić do 100% wydatków kwalifikujących się do objęcia wsparciem.
+Tryb udzielania pomocy finansowej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 § 56.
 1.
 Agencja w celu wyłonienia projektów do wsparcia ogłasza na swojej stronie internetowej konkurs, o którym mowa w art. 28 ust. 1 pkt 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
@@ -2139,6 +2142,7 @@ Pomoc finansowa może być udzielana do końca okresu dostosowawczego, o którym
 Pomoc de minimis może być udzielana do dnia 31 grudnia 2015 r., z zastrzeżeniem ust. 3.
 3.
 Pomoc de minimis , o której mowa w § 8 ust. 1 pkt 3, 5 i 7 oraz ust. 2, może być udzielana do dnia 30 czerwca 2021 r.
+Przepisy przejściowe i końcowe
 § 59.
 1.
 Do umów o udzielenie wsparcia zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
@@ -2151,35 +2155,65 @@ Do pomocy finansowej udzielanej od dnia wejścia w życie niniejszego rozporząd
 § 60.
 Traci moc rozporządzenie Ministra Rozwoju Regionalnego z dnia 2 kwietnia 2012 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 (Dz. U. poz. 438 oraz z 2013 r. poz. 691 i 1617).
 § 61.
-Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2014 r. 2) Tekst Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4562 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce, zmieniony decyzją Komisji Europejskiej nr K(2011) 9788 z dnia 22 grudnia 2011 r. oraz decyzją Komisji Europejskiej nr C (2013) 9008 z dnia 9 grudnia 2013 r. zmieniającą decyzję K(2007) 4562 w sprawie przyjęcia programu operacyjnego w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji dla Polski i przyjęty uchwałą Rady Ministrów z dnia 30 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726. 4) Kryteria te są określone w pkt 9–11 Wytycznych wspólnotowych dotyczących pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.). 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 829, 1291, 1623, 1645 i 1650 oraz z 2014 r. poz. 567 i 598. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 62, poz. 550, z 2009 r. Nr 31, poz. 206 i Nr 157, poz. 1241 oraz z 2014 r. poz. 829. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, z 2009 r. Nr 6, poz. 33 oraz z 2011 r. Nr 205, poz. 1206 i Nr 207, poz. 1230.
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Przepisy wspólne dla wszystkich działań na pierwsze wdrożenie wynalazku w ramach osi priorytetowej 4 Inwestycje w innowacyjne przedsięwzięcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 oraz na innowacyjne przedsięwzięcia realizowane ze środków funduszu pożyczkowego w ramach osi priorytetowej 3 Kapitał dla innowacji określonej w Programie Operacyjnym Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 2 – Przepisy wspólne dla wszystkich działań na pierwsze wdrożenie wynalazku w ramach osi priorytetowej 4 Inwestycje w innowacyjne przedsięwzięcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013 oraz na innowacyjne przedsięwzięcia realizowane ze środków funduszu pożyczkowego w ramach osi priorytetowej 3 Kapitał dla innowacji określonej w Programie Operacyjnym Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 3 Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności wsparcia na inicjowanie działalności innowacyjnej w ramach działania 3.1 Inicjowanie działalności innowacyjnej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 3 – Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności wsparcia na inicjowanie działalności innowacyjnej w ramach działania 3.1 Inicjowanie działalności innowacyjnej Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 4 Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności oraz mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom wsparcia na tworzenie systemu ułatwiającego inwestowanie w ramach działania 3.3 Tworzenie systemu ułatwiającego inwestowanie w MŚP Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 4 – Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności oraz mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom wsparcia na tworzenie systemu ułatwiającego inwestowanie w ramach działania 3.3 Tworzenie systemu ułatwiającego inwestowanie w MŚP Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 5 Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom pożyczki na innowacyjne przedsięwzięcia ze środków funduszu pożyczkowego w ramach osi priorytetowej 3 Kapitał dla innowacji Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 5 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom lub małym przedsiębiorcom pożyczki na innowacyjne przedsięwzięcia ze środków funduszu pożyczkowego w ramach osi priorytetowej 3 Kapitał dla innowacji Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 6 Szczegółowe przeznaczenie i warunki udzielania wsparcia mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom na pierwsze wdrożenie wynalazku w ramach osi priorytetowej 4 Inwestycje w innowacyjne przedsięwzięcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 6 – Szczegółowe przeznaczenie i warunki udzielania wsparcia mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom na pierwsze wdrożenie wynalazku w ramach osi priorytetowej 4 Inwestycje w innowacyjne przedsięwzięcia Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 7 Szczegółowe przeznaczenie i warunki udzielania przedsiębiorcom wsparcia na zwiększenie potencjału badawczo-rozwojowego oraz wsparcia w zakresie wzornictwa w ramach działania 4.2 Stymulowanie działalności B+R przedsiębiorstw oraz wsparcie w zakresie wzornictwa przemysłowego Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 7 – Szczegółowe przeznaczenie i warunki udzielania przedsiębiorcom wsparcia na zwiększenie potencjału badawczo-rozwojowego oraz wsparcia w zakresie wzornictwa w ramach działania 4.2 Stymulowanie działalności B+R przedsiębiorstw oraz wsparcie w zakresie wzornictwa przemysłowego Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 8 Szczegółowe przeznaczenie i warunki udzielania przedsiębiorcom wsparcia na inwestycje o wysokim potencjale innowacyjnym w ramach działania 4.4 Nowe inwestycje o wysokim potencjale innowacyjnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 8 – Szczegółowe przeznaczenie i warunki udzielania przedsiębiorcom wsparcia na inwestycje o wysokim potencjale innowacyjnym w ramach działania 4.4 Nowe inwestycje o wysokim potencjale innowacyjnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 9 Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz rozwoju gospodarczego lub podmiotom działającym na rzecz innowacyjności wsparcia na rozwój powiązań kooperacyjnych w ramach działania 5.1 Wspieranie rozwoju powiązań kooperacyjnych o znaczeniu ponadregionalnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 9 – Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz rozwoju gospodarczego lub podmiotom działającym na rzecz innowacyjności wsparcia na rozwój powiązań kooperacyjnych w ramach działania 5.1 Wspieranie rozwoju powiązań kooperacyjnych o znaczeniu ponadregionalnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 10 Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności wsparcia na usługi proinnowacyjne oraz wzmocnienie potencjału instytucji i wspólnych przedsięwzięć w ramach działania 5.2 Wspieranie instytucji otoczenia biznesu świadczących usługi proinnowacyjne oraz ich sieci o znaczeniu ponadregionalnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 10 – Szczegółowe przeznaczenie i warunki udzielania podmiotom działającym na rzecz innowacyjności wsparcia na usługi proinnowacyjne oraz wzmocnienie potencjału instytucji i wspólnych przedsięwzięć w ramach działania 5.2 Wspieranie instytucji otoczenia biznesu świadczących usługi proinnowacyjne oraz ich sieci o znaczeniu ponadregionalnym Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 11 Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom wsparcia na uzyskanie ochrony własności przemysłowej oraz podmiotom działającym na rzecz rozwoju gospodarczego lub podmiotom działającym na rzecz innowacyjności na popularyzację wiedzy w zakresie własności intelektualnej w ramach działania 5.4 Zarządzanie własnością intelektualną Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 11 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom wsparcia na uzyskanie ochrony własności przemysłowej oraz podmiotom działającym na rzecz rozwoju gospodarczego lub podmiotom działającym na rzecz innowacyjności na popularyzację wiedzy w zakresie własności intelektualnej w ramach działania 5.4 Zarządzanie własnością intelektualną Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 12 Szczegółowe przeznaczenie i warunki udzielania wsparcia mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom w ramach działania 6.1 Paszport do eksportu Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 12 – Szczegółowe przeznaczenie i warunki udzielania wsparcia mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom w ramach działania 6.1 Paszport do eksportu Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 13 Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom pomocy finansowej w formie finansowania kosztów usług szkoleniowych i doradczych oraz wsparcia na rozwój strategii marketingowej na rynku Stanów Zjednoczonych Ameryki w ramach działania 6.2 Rozwój sieci centrów obsługi inwestorów i eksporterów oraz powstawanie nowych terenów inwestycyjnych Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 13 – Szczegółowe przeznaczenie i warunki udzielania mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom pomocy finansowej w formie finansowania kosztów usług szkoleniowych i doradczych oraz wsparcia na rozwój strategii marketingowej na rynku Stanów Zjednoczonych Ameryki w ramach działania 6.2 Rozwój sieci centrów obsługi inwestorów i eksporterów oraz powstawanie nowych terenów inwestycyjnych Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 14 Tryb udzielania pomocy finansowej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
+#### Rozdział 14 – Tryb udzielania pomocy finansowej w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007–2013
 
-#### Rozdział 15 Przepisy przejściowe i końcowe
+#### Rozdział 15 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
+
+#### Rozdział 11
+
+#### Rozdział 12
+
+#### Rozdział 13
+
+#### Rozdział 14
+
+#### Rozdział 15
 

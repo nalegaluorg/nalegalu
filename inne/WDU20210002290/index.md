@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 29 października 2021 r. o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników
+# Ustawa z dnia 29 października 2021 r. o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników Niniejszą ustawą zmienia się ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-29 |
 | Data wydania | 2021-12-13 |
-| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2290/text.pdf) |
 
@@ -58,5 +57,5 @@ source: "eli-html"
 - **1)** osoby i jednostki wymienione w art. 15 ust. 1, które są podatnikami podatku od nieruchomości w związku z przedmiotami opodatkowania położonymi na targowiskach;
 - **2)** rolników i ich domowników prowadzących w piątki i soboty handel w rozumieniu art. 2 pkt 4 ustawy z dnia 29 października 2021 r. o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników (Dz. U. poz. 2290). ” .
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych.
 

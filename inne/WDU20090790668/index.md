@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy o ochronie zwierząt
+# Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy o ochronie zwierząt Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy Rady 2007/43/WE z dnia 28 czerwca 2007 r. w sprawie ustanowienia minimalnych zasad dotyczących ochrony kurcząt utrzymywanych z przeznaczeniem na produkcję mięsa (Dz. Urz. UE L 182 z 12.07.2007, str. 19).
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-04-24 |
 | Data wydania | 2009-05-29 |
-| Wejście w życie | 2010-06-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090790668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/668/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 92, poz. 880 i Nr 96, poz. 959, z 2005 r. Nr 33, poz. 289 i Nr 175, poz. 1462, z 2006 r. Nr 249, poz. 1830, z 2008 r. Nr 199, poz. 1227 oraz z 2009 r. Nr 18, poz. 97.) wprowadza się następujące zmiany:
 
-- **1)** odnośnik nr 1 otrzymuje brzmienie: „
-- **1)** Przepisy niniejszej ustawy:
+- **1)** odnośnik nr 1 otrzymuje brzmienie: „ 1) Przepisy niniejszej ustawy:
 - **1)** wdrażają postanowienia: dyrektywy Rady 93/119/WE z dnia 22 grudnia 1993 r. w sprawie ochrony zwierząt podczas uboju lub zabijania (Dz. Urz. WE L 340 z 31.12.1993, str. 21, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 15, str. 421, z późn. zm.), dyrektywy Rady 98/58/WE z dnia 20 lipca 1998 r. dotyczącej ochrony zwierząt hodowlanych (Dz. Urz. WE L 221 z 08.08.1998, str. 23, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 23, str. 316, z późn. zm.), dyrektywy Rady 99/74/WE z dnia 19 lipca 1999 r. ustanawiającej minimalne normy ochrony kur niosek (Dz. Urz. WE L 203 z 03.08.1999, str. 53, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 26, str. 225, z późn. zm.), dyrektywy Rady 2007/43/WE z dnia 28 czerwca 2007 r. w sprawie ustanowienia minimalnych zasad dotyczących ochrony kurcząt utrzymywanych z przeznaczeniem na produkcję mięsa (Dz. Urz. UE L 182 z 12.07.2007, str. 19), dyrektywy Rady 2008/119/WE z dnia 18 grudnia 2008 r. ustanawiającej minimalne normy ochrony cieląt (Dz. Urz. UE L 10 z 15.01.2009, str. 7), dyrektywy Rady 2008/120/WE z dnia 18 grudnia 2008 r. ustanawiającej minimalne normy ochrony świń (Dz. Urz. UE L 47 z 18.02.2009, str. 5);
     - **a)**
     - **b)**
@@ -60,8 +58,8 @@ source: "eli-html"
 - **1)** odbyły szkolenie w zakresie przepisów dotyczących ochrony kurcząt brojlerów lub
 - **2)** sprawowały opiekę nad kurczętami brojlerami nieprzerwanie od dnia 30 czerwca 2009 r. do dnia 30 czerwca 2010 r., lub
 - **3)** ukończyły szkolenie w zakresie warunków utrzymywania zwierząt gospodarskich, które zostało przeprowadzone w okresie od dnia 1 maja 2004 r. do dnia 30 czerwca 2010 r., i mają zaświadczenie potwierdzające ukończenie takiego szkolenia, lub
-- **4)** są absolwentami zawodowych szkół prowadzących kształcenie w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 24 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.), związanych z chowem lub hodowlą zwierząt, lub
-- **5)** są absolwentami szkół wyższych na kierunku weterynaria, zootechnika lub rolnictwo zwane dalej „opiekunami”.
+- **4)** są absolwentami zawodowych szkół prowadzących kształcenie w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 24 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618 oraz z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206 i Nr 56, poz. 458.), związanych z chowem lub hodowlą zwierząt, lub
+- **5)** są absolwentami szkół wyższych na kierunku weterynaria, zootechnika lub rolnictwo – zwane dalej „opiekunami”.
 
 2. Posiadacz kurnika może powierzyć opiekę nad kurczętami brojlerami również osobie prawnej albo jednostce organizacyjnej nieposiadającej osobowości prawnej, jeżeli podmioty te zapewnią, że opiekę nad kurczętami brojlerami będą sprawować osoby spełniające warunki określone w ust. 1.
 
@@ -149,14 +147,11 @@ source: "eli-html"
 - **2)** zwiększa obsadę kurcząt brojlerów wbrew wymaganiom określonym w art. 12d,
 - **3)** nie prowadzi dokumentacji, o której mowa w art. 12f ust. 1, lub prowadzi ją niezgodnie z tym przepisem,
 - **4)** nie przechowuje lub nie udostępnia dokumentacji, o której mowa w art. 12f ust. 1, zgodnie z przepisem art. 12f ust. 2,
-- **5)** nie zaopatruje wysyłanych do ubojni kurcząt brojlerów pochodzących z kurnika o zwiększonej obsadzie w informacje, o których mowa w art. 12f ust. 3 podlega karze grzywny.
+- **5)** nie zaopatruje wysyłanych do ubojni kurcząt brojlerów pochodzących z kurnika o zwiększonej obsadzie w informacje, o których mowa w art. 12f ust. 3 – podlega karze grzywny.
 
 2. Orzekanie w sprawach, o których mowa w ust. 1, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” .
 
 **Art. 2.** Przepisy wykonawcze wydane na podstawie art. 12 ust. 7 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12 ust. 7 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej niż do dnia 30 czerwca 2010 r.
 
-**Art. 3.** Ustawa wchodzi w życie z dniem 30 czerwca 2010 r., z wyjątkiem art. 1 pkt 2 i 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
-
-- **1)** Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy Rady 2007/43/WE z dnia 28 czerwca 2007 r. w sprawie ustanowienia minimalnych zasad dotyczących ochrony kurcząt utrzymywanych z przeznaczeniem na produkcję mięsa (Dz. Urz. UE L 182 z 12.07.2007, str. 19). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 92, poz. 880 i Nr 96, poz. 959, z 2005 r. Nr 33, poz. 289 i Nr 175, poz. 1462, z 2006 r. Nr 249, poz. 1830, z 2008 r. Nr 199, poz. 1227 oraz z 2009 r. Nr 18, poz. 97. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618 oraz z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206 i Nr 56, poz. 458.
-
+**Art. 3.** Ustawa wchodzi w życie z dniem 30 czerwca 2010 r., z wyjątkiem art. 1 pkt 2 i 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy Rady 2007/43/WE z dnia 28 czerwca 2007 r. w sprawie ustanowienia minimalnych zasad dotyczących ochrony kurcząt utrzymywanych z przeznaczeniem na produkcję mięsa (Dz. Urz. UE L 182 z 12.07.2007, str. 19). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 92, poz. 880 i Nr 96, poz. 959, z 2005 r. Nr 33, poz. 289 i Nr 175, poz. 1462, z 2006 r. Nr 249, poz. 1830, z 2008 r. Nr 199, poz. 1227 oraz z 2009 r. Nr 18, poz. 97. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618 oraz z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206 i Nr 56, poz. 458.
 

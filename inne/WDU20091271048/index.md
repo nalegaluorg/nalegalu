@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-06-26 |
 | Data wydania | 2009-08-13 |
-| Wejście w życie | 2010-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091271048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1048/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2004 r. Nr 159, poz. 1667, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2004 r. Nr 159, poz. 1667, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 143, poz. 1202 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708 i 711 i Nr 157, poz. 1119, z 2007 r. Nr 17, poz. 95, z 2008 r. Nr 180, poz. 1109 i Nr 228, poz. 1507 oraz z 2009 r. Nr 18, poz. 97 i Nr 86, poz. 720.) wprowadza się następujące zmiany:
 
 - **1)** w art. 134 ust. 1 otrzymuje brzmienie: „
 
@@ -44,5 +43,5 @@ source: "eli-html"
 
 2. Otwarte fundusze emerytalne składają do Komisji Nadzoru Finansowego wnioski o wydanie zezwolenia na zmianę statutu, o której mowa w ust. 1, nie później niż do dnia 31 października 2009 r.
 
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2010 r., z wyjątkiem art. 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2010 r., z wyjątkiem art. 3, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 143, poz. 1202 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708 i 711 i Nr 157, poz. 1119, z 2007 r. Nr 17, poz. 95, z 2008 r. Nr 180, poz. 1109 i Nr 228, poz. 1507 oraz z 2009 r. Nr 18, poz. 97 i Nr 86, poz. 720.
 

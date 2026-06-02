@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 27 kwietnia 2020 r. zmieniające rozporządzenie w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów
+# Rozporządzenie Ministra Zdrowiaz dnia 27 kwietnia 2020 r. zmieniające rozporządzenie w sprawie trybu przeprowadzania kontroli w podmiotach wykonujących czynności związane z pobieraniem, przechowywaniem i przeszczepianiem komórek, tkanek i narządów Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-27 |
 | Data wydania | 2020-04-28 |
-| Wejście w życie | 2020-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/766/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Zdrowia z dnia 22 października 2018 r. w sprawie try
 1)
 w § 12 w ust. 1 skreśla się zdanie drugie;
 2)
-po § 13 dodaje się § 13a w brzmieniu:
-„
+po § 13 dodaje się § 13a w brzmieniu: „
 § 13a.
 W przypadku zlecenia przez ministra właściwego do spraw zdrowia kontroli za pośrednictwem systemu teleinformatycznego lub systemu łączności, o której mowa w art. 35a ust. 2 ustawy, stosuje się odpowiednio przepisy § 2–13, z wyłączeniem § 4 pkt 3 i § 6 ust. 2, 3 i 5, z tym że:
 1)
@@ -60,11 +58,9 @@ przekazany kontrolerowi przebieg oględzin, narady, oświadczenia i wyjaśnienia
 11)
 protokół kontroli przekazuje się kierownikowi jednostki kontrolowanej za pośrednictwem systemu teleinformatycznego lub systemu łączności;
 12)
-podpisanie protokołu kontroli przez kontrolera i kierownika jednostki kontrolowanej lub osobę przez niego upoważnioną następuje z wykorzystaniem kwalifikowanego podpisu elektronicznego lub profilu zaufanego.
-” .
+podpisanie protokołu kontroli przez kontrolera i kierownika jednostki kontrolowanej lub osobę przez niego upoważnioną następuje z wykorzystaniem kwalifikowanego podpisu elektronicznego lub profilu zaufanego. ” .
 § 2.
 Do kontroli wszczętych i niezakończonych do dnia wejścia w życie rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 

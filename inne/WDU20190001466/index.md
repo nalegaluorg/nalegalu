@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy o transporcie drogowym
+# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy o transporcie drogowym Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/47/UE z dnia 3 kwietnia 2014 r. w sprawie drogowej kontroli technicznej dotyczącej zdatności do ruchu drogowego pojazdów użytkowych poruszających się w Unii oraz uchylającą dyrektywę 2000/30/WE (Dz. Urz. UE L 127 z 29.04.2014, str. 134 oraz Dz. Urz. UE L 197 z 04.07.2014, str. 87).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-08-06 |
-| Wejście w życie | 2019-11-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1466/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123 i 1180.) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 1: uchyla się pkt 6, w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
     - **a)**
@@ -77,7 +76,7 @@ source: "eli-html"
 3. Szczegółowa drogowa kontrola techniczna jest przeprowadzana zgodnie z przepisami wydanymi na podstawie art. 131 ust. 1 w:
 
 - **1)** mobilnej stacji kontroli drogowej,
-- **2)** wyznaczonym punkcie przeprowadzania kontroli drogowej obejmującym obszar o odpowiedniej powierzchni, na którym jest możliwa kontrola techniczna głównych układów w pojeździe odpowiedzialnych za bezpieczeństwo przy użyciu przyrządów kontrolno-pomiarowych niezbędnych do przeprowadzenia takiej kontroli, w szczególności przyrządów niezbędnych do oceny stanu hamulców i skuteczności ich działania, układu kierowniczego, zawieszenia oraz uciążliwości pojazdu.
+- **2)** wyznaczonym punkcie przeprowadzania kontroli drogowej obejmującym obszar o odpowiedniej powierzchni, na którym jest możliwa kontrola techniczna głównych układów w pojeździe odpowiedzialnych za bezpieczeństwo – przy użyciu przyrządów kontrolno-pomiarowych niezbędnych do przeprowadzenia takiej kontroli, w szczególności przyrządów niezbędnych do oceny stanu hamulców i skuteczności ich działania, układu kierowniczego, zawieszenia oraz uciążliwości pojazdu.
 
 4. W przypadku skierowania pojazdu, o którym mowa w ust. 1, na szczegółową drogową kontrolę techniczną w wyznaczonym punkcie przeprowadzania kontroli drogowej kontrola ta jest przeprowadzana w możliwie najkrótszym czasie i w najbliższym wyznaczonym punkcie przeprowadzania kontroli drogowej.
 
@@ -88,7 +87,7 @@ source: "eli-html"
 1. Szczegółową drogową kontrolę techniczną przeprowadza kontrolujący, który posiada:
 
 - **1)** uprawnienia, o których mowa w art. 84 ust. 2, albo
-- **2)** wykształcenie i praktykę, o których mowa w art. 84 ust. 2b, oraz odbył szkolenie dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych oraz nie rzadziej niż raz w ciągu 2 kolejnych lat uczestniczy w warsztatach dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne.
+- **2)** wykształcenie i praktykę, o których mowa w art. 84 ust. 2b, oraz odbył szkolenie dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych – oraz nie rzadziej niż raz w ciągu 2 kolejnych lat uczestniczy w warsztatach dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne.
 
 2. Wojewódzki inspektor transportu drogowego, wojewódzki komendant Policji, Komendant Stołeczny Policji, Komendant-Rektor Wyższej Szkoły Policji w Szczytnie, komendant szkoły policyjnej, komendant oddziału Straży Granicznej i dyrektor Krajowej Szkoły Skarbowości, każdy w zakresie swojej właściwości:
 
@@ -100,7 +99,7 @@ source: "eli-html"
 - **1)** program szkolenia dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych,
 - **2)** program warsztatów dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne,
 - **3)** wzór zaświadczenia o ukończeniu szkolenia dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych,
-- **4)** wzór zaświadczenia o ukończeniu warsztatów dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne uwzględniając potrzebę zapewnienia równoważności tych szkoleń i warsztatów ze szkoleniami i warsztatami dla diagnostów, potrzebę osiągnięcia właściwego poziomu wiedzy i umiejętności niezbędnych do przeprowadzania szczegółowych drogowych kontroli technicznych oraz konieczność ujednolicenia wydawanych zaświadczeń. ” ;
+- **4)** wzór zaświadczenia o ukończeniu warsztatów dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne – uwzględniając potrzebę zapewnienia równoważności tych szkoleń i warsztatów ze szkoleniami i warsztatami dla diagnostów, potrzebę osiągnięcia właściwego poziomu wiedzy i umiejętności niezbędnych do przeprowadzania szczegółowych drogowych kontroli technicznych oraz konieczność ujednolicenia wydawanych zaświadczeń. ” ;
 - **8)** w art. 131 w ust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw transportu, uwzględniając potrzebę zapewnienia bezpieczeństwa i porządku podczas wykonywania kontroli ruchu drogowego oraz sprawnego jej przebiegu, a także konieczność należytej ochrony sposobu realizacji zadań związanych z bezpieczeństwem państwa i ujednolicenia sporządzanych dokumentów, określi, w drodze rozporządzenia: ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
     - **a)**
     - **b)**
@@ -113,7 +112,7 @@ source: "eli-html"
 
 - **5)** wzory dokumentów stosowanych przy wykonywaniu kontroli ruchu drogowego. ” .
 
-**Art. 2.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 58, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 58, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60, 125, 690, 730, 1123 i 1180.) wprowadza się następujące zmiany:
 
 - **1)** w odnośniku nr 1: uchyla się pkt 8, dodaje się pkt 9 w brzmieniu: „
     - **a)**
@@ -153,7 +152,7 @@ source: "eli-html"
 4a. Główny Inspektor Transportu Drogowego identyfikuje podmioty wykonujące przewóz drogowy o wysokim współczynniku ryzyka występowania naruszeń dotyczących czasu prowadzenia pojazdu, obowiązkowych przerw i czasu odpoczynku kierowców oraz stanu technicznego pojazdów kategorii M2, M3, N2 i N3 i przyczep kategorii O3 i O4 na podstawie systemu oceny ryzyka podmiotów wykonujących przewóz drogowy. ” , w ust. 5 pkt 5 i część wspólna otrzymują brzmienie: „
 
 - **b)**
-- **5)** system oceny ryzyka podmiotów wykonujących przewóz drogowy w zakresie występowania naruszeń dotyczących: czasu prowadzenia pojazdu, obowiązkowych przerw i czasu odpoczynku kierowców oraz stanu technicznego pojazdów kategorii M2, M3, N2 i N3 i przyczep kategorii O3 i O4 uwzględniając względną liczbę i wagę popełnianych naruszeń przepisów rozporządzenia (WE) nr 561/2006 i rozporządzenia (UE) nr 165/2014 oraz stwierdzanych podczas kontroli stanu technicznego usterek, a także potrzebę zapewnienia efektywności i skuteczności kontroli przewozów drogowych. ” .
+- **5)** system oceny ryzyka podmiotów wykonujących przewóz drogowy w zakresie występowania naruszeń dotyczących: czasu prowadzenia pojazdu, obowiązkowych przerw i czasu odpoczynku kierowców oraz stanu technicznego pojazdów kategorii M2, M3, N2 i N3 i przyczep kategorii O3 i O4 – uwzględniając względną liczbę i wagę popełnianych naruszeń przepisów rozporządzenia (WE) nr 561/2006 i rozporządzenia (UE) nr 165/2014 oraz stwierdzanych podczas kontroli stanu technicznego usterek, a także potrzebę zapewnienia efektywności i skuteczności kontroli przewozów drogowych. ” .
     - **a)**
     - **b)**
 
@@ -197,5 +196,5 @@ source: "eli-html"
 
 6. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego na podstawie ust. 2 stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym ustawy.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/47/UE z dnia 3 kwietnia 2014 r. w sprawie drogowej kontroli technicznej dotyczącej zdatności do ruchu drogowego pojazdów użytkowych poruszających się w Unii oraz uchylającą dyrektywę 2000/30/WE (Dz. Urz. UE L 127 z 29.04.2014, str. 134 oraz Dz. Urz. UE L 197 z 04.07.2014, str. 87). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123 i 1180. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60, 125, 690, 730, 1123 i 1180.
 

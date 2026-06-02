@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 23 grudnia 2020 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 23 grudnia 2020 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-23 |
 | Data wydania | 2020-12-29 |
-| Wejście w życie | 2020-12-30 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002399) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2399/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2016 r. w s
 1)
 w § 5a wyraz „ryczałtu” zastępuje się wyrazami „, o której mowa w art. 67 ust. 1 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006”;
 2)
-po § 5a dodaje się § 5b w brzmieniu:
-„
+po § 5a dodaje się § 5b w brzmieniu: „
 § 5b.
 1.
 Pomoc na operację, której przedmiotem jest tworzenie krótkich łańcuchów dostaw, może być przyznana również w formie, o której mowa w art. 67 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006, z tym że w tym przypadku:
@@ -55,8 +53,7 @@ nie stosuje się § 8 ust. 1a, przy czym podmioty wchodzące w skład grupy oper
 a)
 innej grupy operacyjnej posiadającej zdolność prawną, która ubiega się o pomoc lub której została przyznana pomoc na tworzenie krótkich łańcuchów dostaw w formie, o której mowa w art. 67 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006, lub
 b)
-innej grupy operacyjnej nieposiadającej zdolności prawnej ubiegającym się o pomoc lub któremu została przyznana pomoc na tworzenie krótkich łańcuchów dostaw w formie, o której mowa w art. 67 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006
-w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020;
+innej grupy operacyjnej nieposiadającej zdolności prawnej ubiegającym się o pomoc lub któremu została przyznana pomoc na tworzenie krótkich łańcuchów dostaw w formie, o której mowa w art. 67 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 – w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020;
 4)
 złożenie wniosku o płatność pierwszej transzy nastąpi w terminie 2 miesięcy od dnia zawarcia umowy, a wniosku o płatność drugiej transzy – po zakończeniu realizacji operacji i spełnieniu warunków wypłaty drugiej transzy, w terminie określonym w umowie, nie później jednak niż po upływie 12 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 31 grudnia 2022 r.;
 5)
@@ -78,16 +75,13 @@ Pomoc, o której mowa w ust. 1, jest przyznawana w wysokości:
 1)
 325 000 zł – w przypadku gdy operacja przewiduje zakup środka transportu,
 2)
-280 000 zł – w pozostałych przypadkach
-i przysługuje danej grupie operacyjnej tylko raz w okresie realizacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
+280 000 zł – w pozostałych przypadkach – i przysługuje danej grupie operacyjnej tylko raz w okresie realizacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
 3.
-W przypadku pomocy, o której mowa w ust. 1, płatnością końcową jest płatność drugiej transzy.
-” ;
+W przypadku pomocy, o której mowa w ust. 1, płatnością końcową jest płatność drugiej transzy. ” ;
 3)
 w § 7 w ust. 2 kropkę zastępuje się przecinkiem i dodaje się wyrazy „a także określenie przedmiotu operacji.”;
 4)
-w § 10 po ust. 3b dodaje się ust. 3c-3e w brzmieniu:
-„
+w § 10 po ust. 3b dodaje się ust. 3c-3e w brzmieniu: „
 3c.
 Przepisów ust. 3 pkt 8 i 14 nie stosuje się w przypadku ubiegania się o pomoc, o której mowa w § 5b ust. 1.
 3d.
@@ -101,11 +95,9 @@ asortyment produktów oferowanych do sprzedaży;
 4)
 wielkość sprzedaży w odniesieniu do każdego produktu objętego asortymentem produktów oferowanych do sprzedaży.
 3e.
-W przypadku ubiegania się o pomoc, o której mowa w § 5b ust. 1, dokumenty potwierdzające spełnienie warunków, o których mowa w § 5b ust. 1 pkt 1, których podmiot ubiegający się o przyznanie pomocy nie posiadał w dniu złożenia wniosku o jej przyznanie, podmiot ten składa w Centrali Agencji do dnia zawarcia umowy. Przepisy § 9 ust. 1a i 2 stosuje się odpowiednio.
-” ;
+W przypadku ubiegania się o pomoc, o której mowa w § 5b ust. 1, dokumenty potwierdzające spełnienie warunków, o których mowa w § 5b ust. 1 pkt 1, których podmiot ubiegający się o przyznanie pomocy nie posiadał w dniu złożenia wniosku o jej przyznanie, podmiot ten składa w Centrali Agencji do dnia zawarcia umowy. Przepisy § 9 ust. 1a i 2 stosuje się odpowiednio. ” ;
 5)
-w § 12 po ust. 2 dodaje się ust. 2a w brzmieniu:
-„
+w § 12 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 2a.
 O kolejności przysługiwania pomocy, o której mowa w § 5b ust. 1, decyduje suma uzyskanych punktów przyznawanych na podstawie następujących kryteriów wyboru operacji:
 1)
@@ -117,7 +109,7 @@ powyżej 10 rolników – 6 punktów;
 2)
 w skład grupy operacyjnej realizującej operację wchodzi co najmniej jeden rolnik, który na dzień złożenia wniosku o przyznanie pomocy uczestniczy w co najmniej jednym systemie jakości spośród wymienionych w § 3 pkt 3 i 4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2015 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach poddziałania „Wsparcie na przystępowanie do systemów jakości” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2019 r. poz. 449) i posiada w tym dniu ważny certyfikat lub ważne świadectwo, o których mowa w § 10 ust. 3 pkt 1 tego rozporządzenia – 4 punkty;
 3)
-w skład grupy operacyjnej realizującej operację wchodzi co najmniej jeden podmiot, który na dzień złożenia wniosku o przyznanie pomocy wytwarza produkty objęte systemem rolnictwa ekologicznego zgodnie z rozporządzeniem Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1, z późn. zm.) i posiada w tym dniu ważny certyfikat, o którym mowa w § 10 ust. 3 pkt 1 lit. b rozporządzenia, o którym mowa w pkt 2 – 3 punkty;
+w skład grupy operacyjnej realizującej operację wchodzi co najmniej jeden podmiot, który na dzień złożenia wniosku o przyznanie pomocy wytwarza produkty objęte systemem rolnictwa ekologicznego zgodnie z rozporządzeniem Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1, Dz. Urz. UE L 156 z 15.06.2011, str. 12, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 300 z 18.10.2014, str. 72, Dz. Urz. UE L 47 z 24.02.2017, str. 20 i Dz. Urz. UE L 332 z 23.12.2019, str. 204. i posiada w tym dniu ważny certyfikat, o którym mowa w § 10 ust. 3 pkt 1 lit. b rozporządzenia, o którym mowa w pkt 2 – 3 punkty;
 4)
 w wyniku realizacji operacji grupa operacyjna zróżnicuje kanały komunikacji z konsumentem oraz formy sprzedaży przy zastosowaniu:
 a)
@@ -133,43 +125,46 @@ wykazano, że produkty objęte załącznikiem I do Traktatu o funkcjonowaniu Uni
 8)
 operacja przewiduje zróżnicowany asortyment produktów oferowanych do sprzedaży obejmujący co najmniej 3 produkty objęte załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej – 6 punktów;
 9)
-grupa operacyjna posiada zdolność prawną – 5 punktów.
-” ;
+grupa operacyjna posiada zdolność prawną – 5 punktów. ” ;
 6)
 w § 13:
 a)
 w ust. 3 kropkę zastępuje się przecinkiem i dodaje się wyrazy „a w przypadku pomocy, o której mowa w § 5b ust. 1, Agencja nie przyznaje pomocy – jeżeli operacji przyznano mniej niż 13 punktów.”,
 b)
-dodaje się ust. 7 w brzmieniu:
-„
+dodaje się ust. 7 w brzmieniu: „
 7.
-Jeżeli ustalenie kolejności przysługiwania pomocy jest niemożliwe na podstawie ust. 6, to o tej kolejności decyduje wyższa liczba punktów uzyskanych na podstawie kolejnych kryteriów wyboru operacji określonych odpowiednio w § 12 ust. 2 i 2a.
-” ;
+Jeżeli ustalenie kolejności przysługiwania pomocy jest niemożliwe na podstawie ust. 6, to o tej kolejności decyduje wyższa liczba punktów uzyskanych na podstawie kolejnych kryteriów wyboru operacji określonych odpowiednio w § 12 ust. 2 i 2a. ” ;
 7)
 w § 14:
 a)
-ust. 1 otrzymuje brzmienie:
-„
+ust. 1 otrzymuje brzmienie: „
 1.
-Prezes Agencji podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję, informację o kolejności przysługiwania pomocy w terminie 7 miesięcy od dnia upływu terminu składania wniosków o przyznanie pomocy, a w przypadku pomocy, o której mowa w § 5b ust. 1 – w terminie 4 miesięcy od dnia upływu terminu składania wniosków o przyznanie pomocy.
-” ,
+Prezes Agencji podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję, informację o kolejności przysługiwania pomocy w terminie 7 miesięcy od dnia upływu terminu składania wniosków o przyznanie pomocy, a w przypadku pomocy, o której mowa w § 5b ust. 1 – w terminie 4 miesięcy od dnia upływu terminu składania wniosków o przyznanie pomocy. ” ,
 b)
 uchyla się ust. 2;
 8)
 w § 16:
 a)
 w ust. 1:
-– pkt 1 otrzymuje brzmienie: „ 1) zrealizowania operacji i złożenia wniosku o płatność końcową w terminie, o którym mowa odpowiednio w § 4 ust. 2 pkt 3 albo § 5b ust. 1 pkt 4; ” ,
+pkt 1 otrzymuje brzmienie: „
+1)
+zrealizowania operacji i złożenia wniosku o płatność końcową w terminie, o którym mowa odpowiednio w § 4 ust. 2 pkt 3 albo § 5b ust. 1 pkt 4; ” ,
 – w pkt 2 średnik zastępuje się przecinkiem i dodaje się wyrazy „a w przypadku pomocy, o której mowa w § 5b ust. 1, także w okresie 2 lat od dnia otrzymania płatności drugiej transzy;”,
-– w pkt 4 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) prowadzenia wspólnej sprzedaży przez grupę operacyjną przez okres 2 lat od dnia otrzymania płatności drugiej transzy – w przypadku pomocy, o której mowa w § 5b ust. 1; ” ,
+w pkt 4 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „
+c)
+prowadzenia wspólnej sprzedaży przez grupę operacyjną przez okres 2 lat od dnia otrzymania płatności drugiej transzy – w przypadku pomocy, o której mowa w § 5b ust. 1; ” ,
 – w pkt 12 po wyrazach „1–6 i 12” dodaje się wyrazy „oraz ust. 2a”,
-– w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15–17 w brzmieniu: „ 15) zabezpieczenia należytego wykonania umowy w postaci weksla niezupełnego (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu opracowanym i udostępnionym przez Agencję, podpisanego co najmniej przez jednego beneficjenta, przy czym suma kwot wskazanych w deklaracjach wekslowych beneficjentów powinna być równa kwocie pomocy przyznanej na operację oraz powinna uwzględniać zobowiązania powstałe z tytułu zwrotu tych kwot po terminie; 16) prowadzenia ewidencji wspólnej sprzedaży grupy operacyjnej przez okres 2 lat od dnia otrzymania płatności drugiej transzy – w przypadku pomocy, o której mowa w § 5b ust. 1; 17) przedłożenia Agencji sprawozdania z realizacji planu działania grupy operacyjnej, o którym mowa w § 10 ust. 3d, w terminie 30 dni od dnia, w którym upłynie odpowiednio rok oraz 2 lata od dnia otrzymania płatności drugiej transzy – w przypadku pomocy, o której mowa w § 5b ust. 1. ” ,
+w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15–17 w brzmieniu: „
+15)
+zabezpieczenia należytego wykonania umowy w postaci weksla niezupełnego (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu opracowanym i udostępnionym przez Agencję, podpisanego co najmniej przez jednego beneficjenta, przy czym suma kwot wskazanych w deklaracjach wekslowych beneficjentów powinna być równa kwocie pomocy przyznanej na operację oraz powinna uwzględniać zobowiązania powstałe z tytułu zwrotu tych kwot po terminie;
+16)
+prowadzenia ewidencji wspólnej sprzedaży grupy operacyjnej przez okres 2 lat od dnia otrzymania płatności drugiej transzy – w przypadku pomocy, o której mowa w § 5b ust. 1;
+17)
+przedłożenia Agencji sprawozdania z realizacji planu działania grupy operacyjnej, o którym mowa w § 10 ust. 3d, w terminie 30 dni od dnia, w którym upłynie odpowiednio rok oraz 2 lata od dnia otrzymania płatności drugiej transzy – w przypadku pomocy, o której mowa w § 5b ust. 1. ” ,
 b)
-dodaje się ust. 5 w brzmieniu:
-„
+dodaje się ust. 5 w brzmieniu: „
 5.
-W przypadku pomocy, o której mowa w § 5b ust. 1, nie stosuje się ust. 1 pkt 14.
-” ;
+W przypadku pomocy, o której mowa w § 5b ust. 1, nie stosuje się ust. 1 pkt 14. ” ;
 9)
 uchyla się § 17;
 10)
@@ -177,8 +172,7 @@ w § 18:
 a)
 w ust. 2 w pkt 1 w lit. b uchyla się tiret drugie,
 b)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
 W przypadku pomocy, o której mowa w § 5b ust. 1, środki finansowe z tytułu pomocy są wypłacane w dwóch transzach, z tym że:
 1)
@@ -196,13 +190,11 @@ druga transza pomocy obejmuje 20% kwoty przyznanej pomocy i jest wypłacana, je�
 a)
 zrealizował operację zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz określonymi w innych przepisach dotyczących inwestycji objętych operacją, nie później niż do dnia złożenia wniosku o płatność drugiej transzy, a gdy został wezwany do usunięcia braków w tym wniosku zgodnie z § 19 ust. 2 lub 3 – nie później niż do dnia, w którym upływa 14 dni od dnia doręczenia tego wezwania,
 b)
-uzyskał inne niż określone w pkt 1 lit. b ostateczne pozwolenia, zezwolenia i decyzje, których uzyskanie było wymagane przez odrębne przepisy w związku ze zrealizowaną operacją.
-” .
+uzyskał inne niż określone w pkt 1 lit. b ostateczne pozwolenia, zezwolenia i decyzje, których uzyskanie było wymagane przez odrębne przepisy w związku ze zrealizowaną operacją. ” .
 § 2.
 Do przyznawania pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3.
 Do wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach objętych postępowaniami wszczętymi i niezakończonymi wypłatą pomocy do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1, Dz. Urz. UE L 156 z 15.06.2011, str. 12, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 300 z 18.10.2014, str. 72, Dz. Urz. UE L 47 z 24.02.2017, str. 20 i Dz. Urz. UE L 332 z 23.12.2019, str. 204.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 264 z 03.10.2008, str. 1, Dz. Urz. UE L 156 z 15.06.2011, str. 12, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 300 z 18.10.2014, str. 72, Dz. Urz. UE L 47 z 24.02.2017, str. 20 i Dz. Urz. UE L 332 z 23.12.2019, str. 204.
 

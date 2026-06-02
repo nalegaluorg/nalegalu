@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-27 |
 | Data wydania | 2013-09-18 |
-| Wejście w życie | 2013-10-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1102/text.pdf) |
 
@@ -33,7 +32,7 @@ Treść rozporządzenia
 ## Załącznik nr 2 — – Pozycje rachunku zysków i strat kasy, o których mowa w § 6 ust. 5 rozporządzenia
 
 Treść rozporządzenia
-Na podstawie art. 24 ust. 6 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2012 r. poz. 855, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 24 ust. 6 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2012 r. poz. 855, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 oraz z 2013 r. poz. 613 i 1036.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa sposób i szczegółowe zasady obliczania współczynnika wypłacalności spółdzielczej kasy oszczędnościowo-kredytowej.
 § 2.
@@ -110,7 +109,7 @@ lokaty, wkłady lub udziały w Kasie Krajowej,
 c)
 należności od podmiotów klasy II – w części nieobjętej wagą ryzyka 0%,
 d)
-jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.),
+jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70, 433 i 777.),
 e)
 papiery wartościowe, których emitentami są podmioty klasy II – w części nieobjętej gwarancją (poręczeniem) przez podmioty klasy I,
 f)
@@ -136,7 +135,7 @@ akcje podmiotów, które są przedmiotem obrotu na giełdzie, wchodzące w skła
 c)
 papiery wartościowe, których emitentami są podmioty klasy III lub IV – w części nieobjętej gwarancją (poręczeniem) przez podmioty klasy I,
 d)
-zaangażowania kapitałowe kasy wobec podmiotów świadczących usługi pomocnicze względem działalności kasy oraz podmiotów zależnych w rozumieniu ustawy o rachunkowości lub powiązanych z Kasą Krajową w rozumieniu art. 4 ust. 1 pkt 16 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.),
+zaangażowania kapitałowe kasy wobec podmiotów świadczących usługi pomocnicze względem działalności kasy oraz podmiotów zależnych w rozumieniu ustawy o rachunkowości lub powiązanych z Kasą Krajową w rozumieniu art. 4 ust. 1 pkt 16 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777 i 1036.),
 e)
 pozostałe aktywa nieobjęte wagami ryzyka 0%, 20%, 50% lub 150%;
 5)
@@ -197,7 +196,7 @@ krótką – jeżeli różnica ta jest ujemna;
 3)
 domkniętą – jeżeli różnica ta jest równa zero.
 § 9.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 oraz z 2013 r. poz. 613 i 1036. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70, 433 i 777. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777 i 1036.
 
 ## Załącznik nr 1 — – Indeksy giełdowe, o których mowa w § 5 ust. 3 pkt 4 lit. b rozporządzenia
 
@@ -205,20 +204,18 @@ Lp. Nazwa indeksu Kraj 1 S&P All Ords Australia 2 ATX Austria 3 BEL20 Belgia 4 S
 
 ## Załącznik nr 2 — – Pozycje rachunku zysków i strat kasy, o których mowa w § 6 ust. 5 rozporządzenia
 
-1 Wynik z tytułu odsetek1) 2 Wynik z tytułu prowizji2) 3 Wynik z tytułu wyceny i zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych3) 4 Wynik z różnic kursowych4) 5 Pozostałe przychody operacyjne5) Objaśnienia: 1) Wynik z tytułu odsetek – rozumie się przez to różnicę pomiędzy:
+1 Wynik z tytułu odsetek1) 2 Wynik z tytułu prowizji2) 3 Wynik z tytułu wyceny i zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych3) 4 Wynik z różnic kursowych4) 5 Pozostałe przychody operacyjne5)
+Objaśnienia: 1) Wynik z tytułu odsetek – rozumie się przez to różnicę pomiędzy:
 1)
 przychodami osiągniętymi z tytułu odsetek od środków na rachunkach bieżących i lokat kasy, udzielonych przez kasę kredytów i pożyczek, dłużnych papierów wartościowych, w tym dyskonta oraz innych przychodów o podobnym charakterze, a
 2)
-kosztami odsetkowymi poniesionymi z tytułu naliczonych przez kasę odsetek od oszczędności członków kasy, zaciągniętych przez kasę kredytów i pożyczek oraz innych kosztów o podobnym charakterze.
-2) Wynik z tytułu prowizji – rozumie się przez to różnicę pomiędzy:
+kosztami odsetkowymi poniesionymi z tytułu naliczonych przez kasę odsetek od oszczędności członków kasy, zaciągniętych przez kasę kredytów i pożyczek oraz innych kosztów o podobnym charakterze. 2) Wynik z tytułu prowizji – rozumie się przez to różnicę pomiędzy:
 1)
 przychodami z tytułu prowizji osiągniętymi z tytułu pobieranych przez kasę prowizji od udzielonych kredytów i pożyczek, wystawionych poręczeń, linii kredytowych oraz innych przychodów o podobnym charakterze a
 2)
-kosztami z tytułu prowizji poniesionymi od zaciąganych przez kasę kredytów i pożyczek, linii kredytowych oraz innych kosztów o podobnym charakterze.
-3) Wynik z tytułu wyceny i zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych – rozumie się przez to ujęty w przychodach lub kosztach:
+kosztami z tytułu prowizji poniesionymi od zaciąganych przez kasę kredytów i pożyczek, linii kredytowych oraz innych kosztów o podobnym charakterze. 3) Wynik z tytułu wyceny i zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych – rozumie się przez to ujęty w przychodach lub kosztach:
 1)
 wynik z wyceny instrumentów finansowych wycenianych w wartości godziwej, z wyłączeniem odsetek i różnic kursowych;
 2)
-zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych, z wyłączeniem zrealizowanych zysków i strat ze sprzedaży należności z tytułu udzielonych kredytów i pożyczek; zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych obejmuje także przychody z tytułu otrzymanych dywidend.
-4) Wynik z różnic kursowych – rozumie się przez to różnice kursowe ustalone zgodnie z przepisami art. 30 ustawy o rachunkowości. 5) Pozostałe przychody operacyjne – rozumie się przez to przychody zdefiniowane w art. 3 ust. 1 pkt 32 ustawy o rachunkowości, z wyłączeniem rozwiązanych odpisów aktualizujących, przychodów z tytułu zdarzeń nadzwyczajnych lub występujących nieregularnie oraz przychodów z tytułu odszkodowań uzyskanych z tytułu ubezpieczenia.
+zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych, z wyłączeniem zrealizowanych zysków i strat ze sprzedaży należności z tytułu udzielonych kredytów i pożyczek; zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych obejmuje także przychody z tytułu otrzymanych dywidend. 4) Wynik z różnic kursowych – rozumie się przez to różnice kursowe ustalone zgodnie z przepisami art. 30 ustawy o rachunkowości. 5) Pozostałe przychody operacyjne – rozumie się przez to przychody zdefiniowane w art. 3 ust. 1 pkt 32 ustawy o rachunkowości, z wyłączeniem rozwiązanych odpisów aktualizujących, przychodów z tytułu zdarzeń nadzwyczajnych lub występujących nieregularnie oraz przychodów z tytułu odszkodowań uzyskanych z tytułu ubezpieczenia.
 

@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-06 |
 | Data wydania | 2016-10-21 |
-| Wejście w życie | 2016-10-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001739) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1739/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 783 § 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 783 § 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195, 437, 868, 996, 1177, 1358 i 1579.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -58,5 +57,5 @@ Elektroniczne tytuły wykonawcze przechowywane w repozytorium udostępnia się u
 § 7.
 Wierzyciel może samodzielnie sporządzić wydruk elektronicznego tytułu wykonawczego w celu przedłożenia go wraz z pisemnym wnioskiem o wszczęcie egzekucji.
 § 8.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2009 r. w sprawie czynności sądu związanych z nadawaniem klauzuli wykonalności orzeczeniu sądowemu wydanemu w elektronicznym postępowaniu upominawczym (Dz. U. z 2014 r. poz. 1603), które na podstawie art. 22 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1311 i 1513 oraz z 2016 r. poz. 178, 394, 615 i 1358) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195, 437, 868, 996, 1177, 1358 i 1579. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2009 r. w sprawie czynności sądu związanych z nadawaniem klauzuli wykonalności orzeczeniu sądowemu wydanemu w elektronicznym postępowaniu upominawczym (Dz. U. z 2014 r. poz. 1603), które na podstawie art. 22 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1311 i 1513 oraz z 2016 r. poz. 178, 394, 615 i 1358) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

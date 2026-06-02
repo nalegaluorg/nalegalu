@@ -22,12 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-21 |
 | Data wydania | 2017-12-29 |
-| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002489) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2489/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 212 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 212 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321 i 2409.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa:
 1)
@@ -37,8 +36,7 @@ rodzaj i zakres,
 3)
 sposób obliczania i wysokość,
 4)
-terminy rozliczeń oraz wypłaty
-świadczeń socjalnych, zwanych dalej „świadczeniami”.
+terminy rozliczeń oraz wypłaty – świadczeń socjalnych, zwanych dalej „świadczeniami”.
 § 2.
 1.
 Funkcjonariuszowi Służby Celno-Skarbowej, zwanemu dalej „funkcjonariuszem”, który w związku z pełnieniem służby nabył w danym roku kalendarzowym prawo do urlopu wypoczynkowego, małżonkowi funkcjonariusza oraz dzieciom własnym funkcjonariusza, dzieciom małżonka funkcjonariusza, jak również dzieciom przysposobionym i dzieciom przyjętym na wychowanie przez funkcjonariusza:
@@ -47,8 +45,7 @@ do ukończenia 18. roku życia, a jeżeli pobierają naukę w szkołach dla mło
 2)
 do ukończenia 24. roku życia albo 25. roku życia, jeżeli odbywają studia wyższe, a ukończenie 25 lat przypada na ostatni albo przedostatni rok studiów, albo
 3)
-jeżeli stały się osobami całkowicie niezdolnymi do pracy przed osiągnięciem wieku określonego w pkt 1 albo 2
-zwanym dalej „członkami rodziny funkcjonariusza”, przysługuje, na jego wniosek, raz w roku kalendarzowym świadczenie w postaci dopłaty do wypoczynku.
+jeżeli stały się osobami całkowicie niezdolnymi do pracy przed osiągnięciem wieku określonego w pkt 1 albo 2 – zwanym dalej „członkami rodziny funkcjonariusza”, przysługuje, na jego wniosek, raz w roku kalendarzowym świadczenie w postaci dopłaty do wypoczynku.
 2.
 W przypadku członków rodziny funkcjonariusza, o których mowa w ust. 1 pkt 1, jeżeli po ukończeniu 18. roku życia pobierają naukę w szkołach dla młodzieży, oraz określonych w ust. 1 pkt 2 i 3, jest wymagane przedłożenie dokumentów potwierdzających odpowiednio pobieranie nauki w szkołach dla młodzieży, odbywanie studiów wyższych albo całkowitą niezdolność do wykonywania pracy.
 3.
@@ -119,5 +116,5 @@ W przypadku byłego funkcjonariusza Służby Celnej do wypłaty świadczenia jes
 § 9.
 Do spraw o przyznanie świadczeń niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 10.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 lutego 2010 r. w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. z 2016 r. poz. 1500 oraz z 2017 r. poz. 1203), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409). 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321 i 2409. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 lutego 2010 r. w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. z 2016 r. poz. 1500 oraz z 2017 r. poz. 1203), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).
 

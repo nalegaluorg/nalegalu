@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-18 |
 | Data wydania | 2015-11-19 |
-| Wejście w życie | 2015-11-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001921) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1921/text.pdf) |
 
@@ -30,7 +29,7 @@ Treść rozporządzenia
 Na podstawie art. 33 ust. 1 pkt 1 i 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:
 § 1.
 1.
-Minister – Członek Rady Ministrów Mariusz Kamiński – Koordynator Służb Specjalnych, zwany dalej „ministrem”, w zakresie nadzoru, kontroli i koordynacji służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.), wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
+Minister – Członek Rady Ministrów Mariusz Kamiński – Koordynator Służb Specjalnych, zwany dalej „ministrem”, w zakresie nadzoru, kontroli i koordynacji służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908, z 2013 r. poz. 628, 675, 1247 i 1351, z 2014 r. poz. 502, 616, 1055 i 1822 oraz z 2015 r. poz. 1066, 1217, 1224 i 1268.), wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
 2.
 Do szczegółowego zakresu działania ministra należy:
 1)
@@ -46,7 +45,7 @@ wyznaczanie strategicznych kierunków rozwoju i funkcjonowania służb specjalny
 2)
 badanie, ocenianie i monitorowanie poprawności realizacji przez służby specjalne zadań określonych w przepisach prawa, wytycznych, planach i programach;
 3)
-opracowywanie programów działalności służb specjalnych w dziedzinie ochrony bezpieczeństwa państwa, stanowiących podstawę wydawania wytycznych Prezesa Rady Ministrów, o których mowa w art. 7 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, art. 12 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm.) i art. 7 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253, z późn. zm.);
+opracowywanie programów działalności służb specjalnych w dziedzinie ochrony bezpieczeństwa państwa, stanowiących podstawę wydawania wytycznych Prezesa Rady Ministrów, o których mowa w art. 7 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, art. 12 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 1066, 1217, 1224 i 1268.) i art. 7 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 502 i 1055 oraz z 2015 r. poz. 1066 i 1224.);
 4)
 zatwierdzanie rocznych planów i sprawozdań przygotowywanych przez szefów służb specjalnych, o których mowa w art. 7 ust. 2 i 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu i art. 12 ust. 2 i 3 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym;
 5)
@@ -145,5 +144,5 @@ Organy administracji rządowej udzielają ministrowi pomocy w realizacji jego za
 § 8.
 Obsługę ministra zapewnia Kancelaria Prezesa Rady Ministrów.
 § 9.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 16 listopada 2015 r.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 16 listopada 2015 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908, z 2013 r. poz. 628, 675, 1247 i 1351, z 2014 r. poz. 502, 616, 1055 i 1822 oraz z 2015 r. poz. 1066, 1217, 1224 i 1268. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1822 oraz z 2015 r. poz. 1066, 1217, 1224 i 1268. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 502 i 1055 oraz z 2015 r. poz. 1066 i 1224.
 

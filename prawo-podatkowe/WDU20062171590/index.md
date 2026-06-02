@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy – Ordynacja podatkowa oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy – Ordynacja podatkowa oraz o zmianie niektórych innych ustaw Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 28 września 1991 r. o kontroli skarbowej oraz ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2006-11-16 |
 | Data wydania | 2006-11-29 |
-| Wejście w życie | 2007-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062171590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1590/text.pdf) |
 
+Interpretacje przepisów prawa podatkowego”;
 6)
-art. 14a-14e otrzymują brzmienie:
-„
+art. 14a-14e otrzymują brzmienie: „
 Minister właściwy do spraw finansów publicznych dąży do zapewnienia jednolitego stosowania prawa podatkowego przez organy podatkowe oraz organy kontroli skarbowej, dokonując w szczególności jego interpretacji, przy uwzględnieniu orzecznictwa sądów oraz Trybunału Konstytucyjnego lub Europejskiego Trybunału Sprawiedliwości (interpretacje ogólne).
 § 1.
 Minister właściwy do spraw finansów publicznych, na pisemny wniosek zainteresowanego, wydaje, w jego indywidualnej sprawie, pisemną interpretację przepisów prawa podatkowego (interpretację indywidualną).
@@ -54,11 +53,9 @@ Interpretację indywidualną przepisów prawa podatkowego wydaje się bez zbędn
 § 1.
 Minister właściwy do spraw finansów publicznych może, z urzędu, zmienić wydaną interpretację ogólną lub indywidualną, jeżeli stwierdzi jej nieprawidłowość, uwzględniając w szczególności orzecznictwo sądów, Trybunału Konstytucyjnego lub Europejskiego Trybunału Sprawiedliwości.
 § 2.
-Zawiadomienie o zmienionej interpretacji indywidualnej doręcza się podmiotowi, któremu w danej sprawie interpretacja została wydana.
-” ;
+Zawiadomienie o zmienionej interpretacji indywidualnej doręcza się podmiotowi, któremu w danej sprawie interpretacja została wydana. ” ;
 7)
-po art. 14e dodaje się art. 14f-14p w brzmieniu:
-„
+po art. 14e dodaje się art. 14f-14p w brzmieniu: „
 § 1.
 Wniosek o wydanie interpretacji indywidualnej podlega opłacie w wysokości 75 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku.
 § 2.
@@ -121,13 +118,13 @@ W przypadkach, o których mowa w § 1, zmienioną interpretację indywidualną d
 W razie niewydania interpretacji indywidualnej w terminie określonym w art. 14d uznaje się, że w dniu następującym po dniu, w którym upłynął termin wydania interpretacji, została wydana interpretacja stwierdzająca prawidłowość stanowiska wnioskodawcy w pełnym zakresie.
 § 2.
 Przepisy art. 14e i art. 14i § 2 stosuje się odpowiednio.
-Przepisy niniejszego rozdziału stosuje się odpowiednio do należności płatników lub inkasentów, zobowiązań osób trzecich oraz do należności, o których mowa w art. 52 § 1.
-” ;
+Przepisy niniejszego rozdziału stosuje się odpowiednio do należności płatników lub inkasentów, zobowiązań osób trzecich oraz do należności, o których mowa w art. 52 § 1. ” ;
 8)
-art. 20c otrzymuje brzmienie:
-„
+art. 20c otrzymuje brzmienie: „
+Podpisywanie deklaracji
+Rozprawa
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i Nr 143, poz. 1031.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3: pkt 2 otrzymuje brzmienie: „
     - **a)**
@@ -147,14 +144,14 @@ art. 20c otrzymuje brzmienie:
 - **2)** Szefowi Agencji Bezpieczeństwa Wewnętrznego,
 - **3)** Szefowi Centralnego Biura Antykorupcyjnego,
 - **4)** Szefowi Służby Wywiadu Wojskowego,
-- **5)** Szefowi Służby Kontrwywiadu Wojskowego jeżeli jest to uzasadnione ochroną tajemnicy państwowej i wymogami bezpieczeństwa państwa. ” ;
+- **5)** Szefowi Służby Kontrwywiadu Wojskowego – jeżeli jest to uzasadnione ochroną tajemnicy państwowej i wymogami bezpieczeństwa państwa. ” ;
 - **4)** art. 14 otrzymuje brzmienie: „
 
 **Art. 14.** Minister właściwy do spraw finansów publicznych sprawuje ogólny nadzór w sprawach podatkowych. ” ;
 
 - **5)** po art. 14 dodaje się wyrazy: „
 
-#### Rozdział 1a Interpretacje przepisów prawa podatkowego”;
+#### Rozdział 1a
 
 **Art. 20c.** Porozumienie obejmuje transakcje, które zostaną dokonane po złożeniu wniosku o zawarcie porozumienia, jak i transakcje, których realizację rozpoczęto przed dniem złożenia wniosku. Porozumienia nie zawiera się w zakresie transakcji, których realizację rozpoczęto przed dniem złożenia wniosku o zawarcie porozumienia, a które w dniu złożenia wniosku są objęte postępowaniem podatkowym, kontrolą podatkową, postępowaniem kontrolnym prowadzonym przez organ kontroli skarbowej lub postępowaniem przed sądem administracyjnym. ” ;
 
@@ -178,7 +175,7 @@ art. 20c otrzymuje brzmienie:
 
 **Art. 26a.**
 
-§ 1. Podatnik nie ponosi odpowiedzialności z tytułu zaniżenia lub nieujawnienia przez płatnika podstawy opodatkowania czynności, o których mowa w art. 12, 13 oraz 18 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.) – do wysokości zaliczki, do której pobrania zobowiązany jest płatnik.
+§ 1. Podatnik nie ponosi odpowiedzialności z tytułu zaniżenia lub nieujawnienia przez płatnika podstawy opodatkowania czynności, o których mowa w art. 12, 13 oraz 18 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781, z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298, Nr 164, poz. 1365 i 1366, Nr 169, poz. 1418 i 1420, Nr 177, poz. 1468, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538 oraz z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353 i 1354 i Nr 217, poz. 1588.) – do wysokości zaliczki, do której pobrania zobowiązany jest płatnik.
 
 § 2. W przypadku, o którym mowa w § 1, nie stosuje się przepisu art. 30 § 5. ” ;
 
@@ -199,7 +196,7 @@ art. 20c otrzymuje brzmienie:
 
 - **15)** w dziale III po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „
 
-#### Rozdział 9a Podpisywanie deklaracji
+#### Rozdział 9a
 
 **Art. 80a.**
 
@@ -225,7 +222,7 @@ art. 20c otrzymuje brzmienie:
 - **3)** w przypadku przewidzianym w art. 165 § 7, jeżeli decyzja ma zostać wydana wyłącznie na podstawie danych zawartych w złożonym zeznaniu. ” ;
 - **20)** w dziale IV po rozdziale 11 dodaje się rozdział 11a w brzmieniu: „
 
-#### Rozdział 11a Rozprawa
+#### Rozdział 11a
 
 **Art. 200a.**
 
@@ -295,8 +292,11 @@ art. 20c otrzymuje brzmienie:
 
 § 2. W przypadkach, o którym mowa w § 1 i § 1a, kontrolowanemu lub osobie, o której mowa w art. 281a, albo osobie wymienionej w art. 284 § 2, należy bez zbędnej zwłoki, jednak nie później niż w terminie 3 dni od dnia wszczęcia kontroli, doręczyć upoważnienie do przeprowadzenia kontroli. ” ;
 
-- **33)** w art. 290: w § 2: – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) ocenę prawną sprawy będącej przedmiotem kontroli; ” , – pkt 7 otrzymuje brzmienie: „ 7) pouczenie o prawie złożenia zastrzeżeń lub wyjaśnień oraz prawie złożenia korekty deklaracji. ” , uchyla się § 3;
+- **33)** w art. 290: w § 2: po pkt 6 dodaje się pkt 6a w brzmieniu: „
     - **a)**
+
+- **6a)** ocenę prawną sprawy będącej przedmiotem kontroli; ” , pkt 7 otrzymuje brzmienie: „
+- **7)** pouczenie o prawie złożenia zastrzeżeń lub wyjaśnień oraz prawie złożenia korekty deklaracji. ” , uchyla się § 3;
     - **b)**
 
 - **34)** w art. 291 § 2 otrzymuje brzmienie: „
@@ -341,9 +341,9 @@ art. 20c otrzymuje brzmienie:
 - **1)** w Republice Austrii, Królestwie Belgii, Wielkim Księstwie Luksemburga, Księstwie Andory, Księstwie Monako, lub
 - **2)** na terytoriach zależnych lub terytoriach stowarzyszonych Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz Królestwa Niderlandów, stosownie do postanowień umów w sprawie opodatkowania przychodów (dochodów) z oszczędności osób fizycznych zawartych przez Rzeczpospolitą Polską z tymi terytoriami. ” .
 
-**Art. 2.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.) w art. 31 ust. 1 otrzymuje brzmienie: „ 1. W zakresie nieuregulowanym w ustawie do postępowania kontrolnego stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z wyłączeniem art. 54 tej ustawy, z zastrzeżeniem art. 14b ust. 1. ” .
+**Art. 2.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119 i Nr 191, poz. 1413.) w art. 31 ust. 1 otrzymuje brzmienie: „ 1. W zakresie nieuregulowanym w ustawie do postępowania kontrolnego stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z wyłączeniem art. 54 tej ustawy, z zastrzeżeniem art. 14b ust. 1. ” .
 
-**Art. 3.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205 oraz z 2006 r. Nr 38, poz. 268 i Nr 208, poz. 1536.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 w § 2: po pkt 4 dodaje się pkt 4a w brzmieniu: „
     - **a)**
@@ -380,5 +380,5 @@ art. 20c otrzymuje brzmienie:
 
 **Art. 6.** W okresie od dnia 1 stycznia 2007 r. do dnia 31 grudnia 2007 r. deklaracje określone w rozporządzeniu wydanym na podstawie art. 3a § 3 ustawy zmienianej w art. 1 mogą składać, za pomocą środków komunikacji elektronicznej, tylko podmioty, o których mowa w art. 5 ust. 9b pkt 7 lit. a ustawy z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz. U. z 2004 r. Nr 121, poz. 1267 i Nr 273, poz. 2703 oraz z 2005 r. Nr 183, poz. 1538 i Nr 249, poz. 2104).
 
-**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r., z wyjątkiem art. 1 pkt 2, pkt 4–7, pkt 13, pkt 22, art. 3 i art. 4, które wchodzą w życie z dniem 1 lipca 2007 r.
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r., z wyjątkiem art. 1 pkt 2, pkt 4–7, pkt 13, pkt 22, art. 3 i art. 4, które wchodzą w życie z dniem 1 lipca 2007 r. 1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 28 września 1991 r. o kontroli skarbowej oraz ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i Nr 143, poz. 1031. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781, z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298, Nr 164, poz. 1365 i 1366, Nr 169, poz. 1418 i 1420, Nr 177, poz. 1468, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538 oraz z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353 i 1354 i Nr 217, poz. 1588. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119 i Nr 191, poz. 1413. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205 oraz z 2006 r. Nr 38, poz. 268 i Nr 208, poz. 1536.
 

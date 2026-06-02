@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 17 grudnia 2021 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
+# Ustawa z dnia 17 grudnia 2021 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 listopada 2000 r. o repatriacji, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 7 września 2007 r. o Karcie Polaka.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-17 |
 | Data wydania | 2022-01-14 |
-| Wejście w życie | 2022-01-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000091) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/91/text.pdf) |
 
@@ -32,7 +31,7 @@ source: "eli-html"
 
 3. Obowiązek pouczenia, o którym mowa w ust. 1, uważa się za spełniony także wówczas, gdy organ wyśle cudzoziemcowi pouczenie pisemne utrwalone w postaci elektronicznej na wskazany przez cudzoziemca adres poczty elektronicznej lub wskaże cudzoziemcowi adres strony internetowej, na której znajduje się pouczenie pisemne utrwalone w postaci elektronicznej, a cudzoziemiec wyrazi pisemną zgodę na to, aby zostać pouczonym w jednej z takich form. Oświadczenie cudzoziemca o wyrażeniu zgody może zostać złożone jednocześnie z wnioskiem o wydanie cudzoziemcowi wizy, o przedłużenie okresu ważności wydanej wizy lub okresu pobytu objętego tą wizą, o udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE. ” ;
 
-- **2)** w art. 22 w ust. 1 w pkt 10a w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ krajowego punktu kontaktowego w sprawach Europejskiej Sieci Migracyjnej ustanowionej decyzją Rady z dnia 14 maja 2008 r. w sprawie ustanowienia Europejskiej Sieci Migracyjnej (2008/381/WE) (Dz. Urz. UE L 131 z 21.05.2008, str. 7, z późn. zm.; ” ;
+- **2)** w art. 22 w ust. 1 w pkt 10a w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ krajowego punktu kontaktowego w sprawach Europejskiej Sieci Migracyjnej ustanowionej decyzją Rady z dnia 14 maja 2008 r. w sprawie ustanowienia Europejskiej Sieci Migracyjnej (2008/381/WE) (Dz. Urz. UE L 131 z 21.05.2008, str. 7, z późn. zm.Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 150 z 20.05.2014, str. 168.; ” ;
     - **c)**
 
 - **3)** w art. 60 w ust. 1 pkt 5 otrzymuje brzmienie: „
@@ -108,8 +107,11 @@ source: "eli-html"
 
 5. Jeżeli odwołanie nie spełnia wymogów przewidzianych przepisami prawa, termin, o którym mowa w ust. 4, biegnie od dnia uzupełnienia braków. ” ;
 
-- **14)** w art. 114: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) cudzoziemiec posiada ubezpieczenie zdrowotne w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzenie pokrycia przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej; ” , – uchyla się pkt 2, – pkt 5 otrzymuje brzmienie: „ 5) wysokość miesięcznego wynagrodzenia, o którym mowa w pkt 4, nie jest niższa niż wysokość minimalnego wynagrodzenia za pracę niezależnie od wymiaru czasu pracy i rodzaju stosunku prawnego stanowiącego podstawę wykonywania pracy przez cudzoziemca. ” , w ust. 1a wyrazy „pkt 1, 2, 4 i 5” zastępuje się wyrazami „pkt 1, 4 i 5”, uchyla się ust. 2, w ust. 3 pkt 2 otrzymuje brzmienie: „
+- **14)** w art. 114: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** cudzoziemiec posiada ubezpieczenie zdrowotne w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzenie pokrycia przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej; ” , – uchyla się pkt 2, pkt 5 otrzymuje brzmienie: „
+- **5)** wysokość miesięcznego wynagrodzenia, o którym mowa w pkt 4, nie jest niższa niż wysokość minimalnego wynagrodzenia za pracę niezależnie od wymiaru czasu pracy i rodzaju stosunku prawnego stanowiącego podstawę wykonywania pracy przez cudzoziemca. ” , w ust. 1a wyrazy „pkt 1, 2, 4 i 5” zastępuje się wyrazami „pkt 1, 4 i 5”, uchyla się ust. 2, w ust. 3 pkt 2 otrzymuje brzmienie: „
     - **b)**
     - **c)**
     - **d)**
@@ -190,7 +192,7 @@ source: "eli-html"
     - **b)**
 
 - **23)** w art. 127 pkt 3 otrzymuje brzmienie: „
-- **3)** roczne wynagrodzenie brutto wynikające z miesięcznego lub rocznego wynagrodzenia wskazane w umowie nie jest niższe niż równowartość 150% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym złożenie wniosku o udzielenie zezwolenia na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291, z późn. zm.). ” ;
+- **3)** roczne wynagrodzenie brutto wynikające z miesięcznego lub rocznego wynagrodzenia wskazane w umowie nie jest niższe niż równowartość 150% kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym złożenie wniosku o udzielenie zezwolenia na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105, 2270 i 2314.). ” ;
 - **24)** w art. 139i uchyla się ust. 2 i 3;
 - **25)** w art. 139n w ust. 2 w pkt 9 wyrazy „na terytorium Rzeczypospolitej Polskiej” zastępuje się wyrazami „w innym państwie członkowskim Unii Europejskiej, które wydało cudzoziemcowi dokument pobytowy, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, zawierający adnotację „ICT” „;
 - **26)** w art. 139r dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
@@ -274,8 +276,9 @@ source: "eli-html"
 
 **Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2021 r. poz. 1100, 1162, 1621, 2270, 2317 i 2445) wprowadza się następujące zmiany:
 
-- **1)** w art. 1: w ust. 3 w pkt 2: – po lit. c dodaje się lit. ca w brzmieniu: „ ca) obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b i d Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.), zwanej dalej „Umową Wystąpienia”, oraz członków ich rodzin, o których mowa w art. 10 ust. 1 lit. e i f tej umowy, ” , – w lit. I średnik zastępuje się przecinkiem i dodaje się lit. m w brzmieniu: „ m) posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 23 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” , w ust. 6 wyrazy „ust. 3 pkt 2 lit. h oraz ha” zastępuje się wyrazami „ust. 3 pkt 2 lit. h, ha, k oraz m”;
+- **1)** w art. 1: w ust. 3 w pkt 2: – po lit. c dodaje się lit. ca w brzmieniu: „ ca) obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b i d Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 225 z 14.07.2020, str. 53 oraz Dz. Urz. UE L 443 z 30.12.2020, str. 3.), zwanej dalej „Umową Wystąpienia”, oraz członków ich rodzin, o których mowa w art. 10 ust. 1 lit. e i f tej umowy, ” , w lit. I średnik zastępuje się przecinkiem i dodaje się lit. m w brzmieniu: „ posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 23 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; ” , w ust. 6 wyrazy „ust. 3 pkt 2 lit. h oraz ha” zastępuje się wyrazami „ust. 3 pkt 2 lit. h, ha, k oraz m”;
     - **a)**
+    - **m)**
     - **b)**
 
 - **2)** w art. 2 w ust. 1: w pkt 2 we wprowadzeniu do wyliczenia: – wyrazy „art. 1 ust. 3 pkt 1 i 2 lit. a-g, i, j, l” zastępuje się wyrazami „art. 1 ust. 3 pkt 1 i 2 lit. a-g oraz i-m”, – wyrazy „art. 1 ust. 3 pkt 3 i 4” zastępuje się wyrazami „art. 1 ust. 3 pkt 3, 4 i 4a”, w pkt 22a po wyrazach „ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,” dodaje się wyrazy „chyba że przepisy prawa dopuszczają ich zmianę,”;
@@ -283,8 +286,11 @@ source: "eli-html"
     - **b)**
 
 - **3)** w art. 43 w ust. 1 w pkt 9 wyrazy „ust. 3 pkt 2 lit. h, ha lub hb” zastępuje się wyrazami „ust. 3 pkt 2 lit. h-hb, k oraz m”;
-- **4)** w art. 87: w ust. 1: – po pkt 9 dodaje się pkt 9a w brzmieniu: „ 9a) jest obywatelem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b i d Umowy Wystąpienia, lub członkiem jego rodziny, o którym mowa w art. 10 ust. 1 lit. e i f tej umowy; ” , – pkt 11a otrzymuje brzmienie: „ 11a) posiada zezwolenie na pobyt czasowy, o którym mowa w art. 114 ust. 1 lub 1a, art. 126, art. 127, art. 139a ust. 1, art. 139o ust. 1 lub art. 142 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – na warunkach określonych w tym zezwoleniu, chyba że przepisy prawa dopuszczają ich zmianę; ” , – w pkt 12 w lit. ca po wyrazach „pomiędzy Rzecząpospolitą Polską a państwem obcym” dodaje się wyrazy „lub organizacją międzynarodową”, w ust. 3 skreśla się wyrazy „przez okres nie dłuższy niż 6 miesięcy w ciągu kolejnych 12 miesięcy”, uchyla się ust. 4;
+- **4)** w art. 87: w ust. 1: po pkt 9 dodaje się pkt 9a w brzmieniu: „
     - **a)**
+
+- **9a)** jest obywatelem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b i d Umowy Wystąpienia, lub członkiem jego rodziny, o którym mowa w art. 10 ust. 1 lit. e i f tej umowy; ” , pkt 11a otrzymuje brzmienie: „
+- **11a)** posiada zezwolenie na pobyt czasowy, o którym mowa w art. 114 ust. 1 lub 1a, art. 126, art. 127, art. 139a ust. 1, art. 139o ust. 1 lub art. 142 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – na warunkach określonych w tym zezwoleniu, chyba że przepisy prawa dopuszczają ich zmianę; ” , – w pkt 12 w lit. ca po wyrazach „pomiędzy Rzecząpospolitą Polską a państwem obcym” dodaje się wyrazy „lub organizacją międzynarodową”, w ust. 3 skreśla się wyrazy „przez okres nie dłuższy niż 6 miesięcy w ciągu kolejnych 12 miesięcy”, uchyla się ust. 4;
     - **b)**
     - **c)**
 
@@ -296,7 +302,7 @@ source: "eli-html"
 
 - **b)**
 
-1c. Jeżeli warunki pracy cudzoziemca posiadającego zezwolenie na pracę uległy zmianie na zasadach określonych w art. 91 lub art. 231a ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162), art. 4 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2019 r. poz. 669) lub art. 3, art. 15g ust. 6 i 8, art. 15gb, art. 15x ust. 1 lub art. 15zf ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.), uzyskanie zezwolenia na pracę określającego zmienione warunki pracy nie jest wymagane. ” ;
+1c. Jeżeli warunki pracy cudzoziemca posiadającego zezwolenie na pracę uległy zmianie na zasadach określonych w art. 91 lub art. 231a ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162), art. 4 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2019 r. poz. 669) lub art. 3, art. 15g ust. 6 i 8, art. 15gb, art. 15x ust. 1 lub art. 15zf ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459.), uzyskanie zezwolenia na pracę określającego zmienione warunki pracy nie jest wymagane. ” ;
 
 - **7)** w art. 88h w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
 - **2a)** podwyższenia wynagrodzenia cudzoziemca proporcjonalnie do zwiększenia wymiaru czasu pracy cudzoziemca zatrudnionego w niepełnym wymiarze czasu pracy lub liczby godzin, w których cudzoziemiec wykonuje pracę na podstawie umowy cywilnoprawnej; ” ;
@@ -317,10 +323,14 @@ source: "eli-html"
 
 1a. W postępowaniu w sprawie wydania zezwolenia na pracę sezonową nie stosuje się przepisu art. 88j ust. 1 pkt 4. ” ;
 
-- **10)** w art. 88z: w ust. 1 w pkt 3 lit. d otrzymuje brzmienie: „ okres pracy oznaczony datami, ” , w ust. 2: – w pkt 1 skreśla się wyrazy „lub cudzoziemiec będzie wykonywał pracę w zawodzie określonym w przepisach wydanych na podstawie art. 90 ust. 11”, – pkt 3 otrzymuje brzmienie: „ 3) okres wykonywania pracy określony w złożonym oświadczeniu o powierzeniu wykonywania pracy cudzoziemcowi jest nie dłuższy niż 24 miesiące, oraz ” , – dodaje się pkt 4 i 5 w brzmieniu: „ 4) dzień rozpoczęcia pracy wskazany w złożonym oświadczeniu nastąpi nie później niż 6 miesięcy od dnia złożenia oświadczenia, oraz 5) wysokość wynagrodzenia cudzoziemca nie będzie niższa od wynagrodzenia pracowników wykonujących pracę porównywalnego rodzaju lub na porównywalnym stanowisku. ” , w ust. 13 pkt 1 otrzymuje brzmienie: „
+- **10)** w art. 88z: w ust. 1 w pkt 3 lit. d otrzymuje brzmienie: „ okres pracy oznaczony datami, ” , w ust. 2: – w pkt 1 skreśla się wyrazy „lub cudzoziemiec będzie wykonywał pracę w zawodzie określonym w przepisach wydanych na podstawie art. 90 ust. 11”, pkt 3 otrzymuje brzmienie: „
     - **a)**
     - **d)**
     - **b)**
+
+- **3)** okres wykonywania pracy określony w złożonym oświadczeniu o powierzeniu wykonywania pracy cudzoziemcowi jest nie dłuższy niż 24 miesiące, oraz ” , dodaje się pkt 4 i 5 w brzmieniu: „
+- **4)** dzień rozpoczęcia pracy wskazany w złożonym oświadczeniu nastąpi nie później niż 6 miesięcy od dnia złożenia oświadczenia, oraz
+- **5)** wysokość wynagrodzenia cudzoziemca nie będzie niższa od wynagrodzenia pracowników wykonujących pracę porównywalnego rodzaju lub na porównywalnym stanowisku. ” , w ust. 13 pkt 1 otrzymuje brzmienie: „
     - **c)**
 
 - **1)** podjęciu pracy przez cudzoziemca w terminie 7 dni od dnia rozpoczęcia pracy określonego w ewidencji oświadczeń; ” , uchyla się ust. 14 i 15;
@@ -334,7 +344,7 @@ source: "eli-html"
 
 2a. W przypadku wpłaty dokonywanej w związku z wnioskiem o wydanie lub przedłużenie zezwolenia na pracę sezonową lub w związku z oświadczeniem o powierzeniu wykonywania pracy cudzoziemcowi 50% tej wpłaty stanowi dochód powiatu. ” .
 
-**Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) w art. 3 w ust. 1:
+**Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64.) w art. 3 w ust. 1:
 
 - **1)** w pkt 2 po wyrazach „zgody na pobyt tolerowany,” dodaje się wyrazy „wizy wydanej w celu przyjazdu ze względów humanitarnych, z uwagi na interes państwa lub zobowiązania międzynarodowe,”;
 - **2)** po pkt 2a dodaje się pkt 2b w brzmieniu: „
@@ -489,7 +499,7 @@ source: "eli-html"
 - **1)** stanowisku, na jakim cudzoziemiec ma wykonywać pracę, lub rodzaju tej pracy,
 - **2)** najniższym wynagrodzeniu, jakie cudzoziemiec może otrzymywać na danym stanowisku,
 - **3)** wymiarze czasu pracy,
-- **4)** rodzaju umowy, na podstawie której cudzoziemiec ma wykonywać pracę wojewoda, o którym mowa w ust. 4, umieszcza w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. d ustawy zmienianej w art. 1, w sposób analogiczny do umieszczania warunków wykonywania pracy określonych w decyzji o udzieleniu zezwolenia na pobyt czasowy i pracę na podstawie art. 118 ust. 1 ustawy zmienianej w art. 1.
+- **4)** rodzaju umowy, na podstawie której cudzoziemiec ma wykonywać pracę – wojewoda, o którym mowa w ust. 4, umieszcza w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. d ustawy zmienianej w art. 1, w sposób analogiczny do umieszczania warunków wykonywania pracy określonych w decyzji o udzieleniu zezwolenia na pobyt czasowy i pracę na podstawie art. 118 ust. 1 ustawy zmienianej w art. 1.
 
 17. W przypadku, o którym mowa w ust. 15, przepis ust. 16 stosuje się odpowiednio.
 
@@ -587,5 +597,5 @@ source: "eli-html"
 
 3. Minister właściwy do spraw zagranicznych monitoruje wykorzystanie limitów wydatków, o których mowa w ust. 1. Jeżeli wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, minister właściwy do spraw zagranicznych obniża wielkość środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków, określając zakres ograniczeń dla poszczególnych zadań realizowanych na podstawie niniejszej ustawy.
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 listopada 2000 r. o repatriacji, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 7 września 2007 r. o Karcie Polaka. 2) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 150 z 20.05.2014, str. 168. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105, 2270 i 2314. 4) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 225 z 14.07.2020, str. 53 oraz Dz. Urz. UE L 443 z 30.12.2020, str. 3. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64.
 

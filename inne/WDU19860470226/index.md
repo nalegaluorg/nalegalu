@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1986-12-18 |
 | Data wydania | 1986-12-30 |
-| Wejście w życie | 1987-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19860470226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1986/226/text.pdf) |
 
@@ -91,8 +90,11 @@ source: "eli-html"
 - **3)** w art. 8 w ust. 1 i 3 wyrazy „Minister do Spraw Cen” zastępuje się wyrazami „Minister Finansów”;
 - **4)** w art. 10 w ust. 2 wyrazy „Minister do Spraw Cen” zastępuje się wyrazami „Minister Finansów”;
 - **5)** w art. 12 w ust. 2 wyrazy „Minister do Spraw Cen, w porozumieniu z Ministrem Budownictwa i Przemysłu Materiałów Budowlanych” zastępuje się wyrazami „Minister Budownictwa, Gospodarki Przestrzennej i Komunalnej, w porozumieniu z Ministrem Finansów”;
-- **6)** w art. 13: w ust. 2: – wyrazy „Minister do Spraw Cen” zastępuje się wyrazami „Minister Finansów”, – pkt 1 otrzymuje brzmienie: „ 1) wprowadzić okresowe, maksymalne wskaźniki wzrostu cen umownych i regulowanych na określone grupy towarów, usług, obiektów i robót budowlanych ” , – w pkt 2 wyrazy „okręgowych urzędów cen” zastępuje się wyrazami „izb skarbowych”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) wprowadzić obowiązek informowania przez jednostkę gospodarczą (sprzedawcę) izb skarbowych o dokonanej zmianie ceny umownej i regulowanej oraz o przyczynach tej zmiany, ” w ust. 3 wyrazy „Okręgowy urząd cen” zastępuje się wyrazami „Izba skarbowa”;
+- **6)** w art. 13: w ust. 2: – wyrazy „Minister do Spraw Cen” zastępuje się wyrazami „Minister Finansów”, pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** wprowadzić okresowe, maksymalne wskaźniki wzrostu cen umownych i regulowanych na określone grupy towarów, usług, obiektów i robót budowlanych ” , – w pkt 2 wyrazy „okręgowych urzędów cen” zastępuje się wyrazami „izb skarbowych”, po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** wprowadzić obowiązek informowania przez jednostkę gospodarczą (sprzedawcę) izb skarbowych o dokonanej zmianie ceny umownej i regulowanej oraz o przyczynach tej zmiany, ” w ust. 3 wyrazy „Okręgowy urząd cen” zastępuje się wyrazami „Izba skarbowa”;
     - **b)**
 
 - **7)** po art. 13 dodaje się art. 13a w brzmieniu: „
@@ -221,8 +223,10 @@ source: "eli-html"
 
 **Art. 7.** W ustawie z dnia 23 grudnia 1985 r. o centralnych funduszach rozwoju nauki i techniki (Dz. U. Nr 59, poz. 297) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) wpłaty przedsiębiorstw państwowych, przedsiębiorstw mieszanych, a także spółek handlowych, w których Skarb Państwa albo jednostki gospodarki uspołecznionej posiadają udział wynoszący ponad 50% kapitału zakładowego, ” – pkt 3 skreśla się, – pkt 4 otrzymuje oznaczenie pkt 3, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+- **1)** w art. 2: w ust. 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** wpłaty przedsiębiorstw państwowych, przedsiębiorstw mieszanych, a także spółek handlowych, w których Skarb Państwa albo jednostki gospodarki uspołecznionej posiadają udział wynoszący ponad 50% kapitału zakładowego, ” – pkt 3 skreśla się, – pkt 4 otrzymuje oznaczenie pkt 3, po ust. 1 dodaje się ust. 1a w brzmieniu: „
     - **b)**
 
 1a. Jednostki wymienione w ust. 1 pkt 2 obowiązane są do wnoszenia opłat na Fundusz. ” , w ust. 2 wyrazy „i 3” skreśla się;

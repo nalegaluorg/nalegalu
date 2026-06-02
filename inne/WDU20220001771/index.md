@@ -37,21 +37,17 @@ rozporządzeniem Rady Ministrów z dnia 20 stycznia 2022 r. zmieniającym rozpor
 2.
 Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1)
-§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 22 lipca 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 1403), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 22 lipca 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 1403), które stanowią: „
 § 2.
 Do wpłat na pokrycie należności objętych tytułem wykonawczym w postępowaniu egzekucyjnym wszczętym i niezakończonym przed dniem 20 lutego 2021 r. stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” ;
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
 2)
-§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 20 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 211), które stanowią:
-„
+§ 2 i § 3 rozporządzenia Rady Ministrów z dnia 20 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 211), które stanowią: „
 § 2.
 Do wpłat na pokrycie należności z tytułu składek na ubezpieczenie zdrowotne za okres przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem 1 lutego 2022 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 lutego 2022 r. ” .
 Załącznik – Tekst jednolity rozporządzenia Rady Ministrów z dnia 21 września 2017 r. w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych
 Na podstawie art. 49 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, 1079, 1115 i 1265) zarządza się, co następuje:
 § 1.
@@ -89,9 +85,8 @@ ubezpieczenie zdrowotne,
 Fundusz Pracy,
 5)
 Fundusz Gwarantowanych Świadczeń Pracowniczych,
-6)
-Fundusz Solidarnościowy
-zwane dalej „składkami”.
+6Dodany przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 22 lipca 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 1403), które weszło w życie z dniem 3 sierpnia 2021 r.)
+Fundusz Solidarnościowy – zwane dalej „składkami”.
 2.
 W deklaracji płatnik składek rozlicza:
 1)
@@ -135,9 +130,8 @@ ubezpieczenia społeczne w wysokości stanowiącej różnicę między wykazaną 
 Fundusz Emerytur Pomostowych w wysokości wykazanej w deklaracji kwoty należnych do zapłaty składek, określonej w deklaracji za dany miesiąc kalendarzowy,
 3)
 ubezpieczenie zdrowotne w wysokości wykazanej w deklaracji kwoty należnych do zapłaty składek za dany miesiąc kalendarzowy,
-4)
-Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Solidarnościowy w wysokości wykazanej w deklaracji kwoty należnych do zapłaty składek, określonej w deklaracji za dany miesiąc kalendarzowy
-na przydzielony przez Zakład płatnikowi składek numer rachunku składkowego.
+4Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.)
+Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Solidarnościowy w wysokości wykazanej w deklaracji kwoty należnych do zapłaty składek, określonej w deklaracji za dany miesiąc kalendarzowy – na przydzielony przez Zakład płatnikowi składek numer rachunku składkowego.
 2.
 Jeżeli zgodnie z odrębnymi przepisami część składek na poszczególne ubezpieczenia społeczne i na ubezpieczenie zdrowotne podlega finansowaniu z budżetu państwa lub Funduszu Kościelnego i jest przekazywana przez te podmioty bezpośrednio do Zakładu, w deklaracji płatnik składek wykazuje odpowiednio kwoty składek finansowanych z tych źródeł.
 3.
@@ -159,8 +153,8 @@ proporcjonalnego procentowego podziału wpłaty według kwot składek przypadaj�
 w przypadku gdy płatnik składek nie złożył deklaracji – według procentowego udziału składek na poszczególne fundusze w kwocie wpłaty, na podstawie stóp procentowych składek na poszczególne fundusze dla płatnika składek opłacającego składki na własne ubezpieczenia.
 2.
 W przypadku, o którym mowa w ust. 1 pkt 2, przyjmuje się stopę procentową składki na ubezpieczenie wypadkowe określoną w art. 28 ust. 1 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2019 r. poz. 1205, z 2021 r. poz. 1621 i 1834 oraz z 2022 r. poz. 755).
-2a.
-W przypadku, o którym mowa w ust. 1 pkt 2, przyjmuje się minimalną kwotę składki na ubezpieczenie zdrowotne określoną w art. 79a ust. 1 pkt 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.).
+2aDodany przez § 1 rozporządzenia Rady Ministrów z dnia 20 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 211), które weszło w życie z dniem 1 lutego 2022 r..
+W przypadku, o którym mowa w ust. 1 pkt 2, przyjmuje się minimalną kwotę składki na ubezpieczenie zdrowotne określoną w art. 79a ust. 1 pkt 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352 i 1700.).
 3.
 Dokonana przez płatnika składek wpłata na numer rachunku składkowego niższa niż 4 zł podlega zaliczeniu przez Zakład na należności z tytułu składek na ubezpieczenia społeczne.
 § 8.
@@ -182,7 +176,7 @@ osoby, za które opłacają składki na ubezpieczenia społeczne na podstawie pr
 2)
 innych ubezpieczonych niż wymienieni w pkt 1, do których rozliczania są zobowiązane.
 § 11.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1..
 Zakład jako płatnik składek rozlicza w odrębnych deklaracjach oraz dokonuje osobnych wpłat składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy lub Fundusz Solidarnościowy za:
 1)
 osoby pobierające zasiłek macierzyński lub zasiłek w wysokości zasiłku macierzyńskiego, jeżeli zasiłki te wypłaca Zakład;
@@ -205,7 +199,7 @@ Kwota wpłaty w części przypadającej na ubezpieczenia społeczne podlega zali
 Kwota wpłaty w części przypadającej na Fundusz Emerytur Pomostowych podlega zaliczeniu na należności z tego tytułu, począwszy od należności o najwcześniejszym terminie płatności.
 4.
 Kwota wpłaty w części przypadającej na ubezpieczenie zdrowotne podlega zaliczeniu na należności z tego tytułu, począwszy od należności o najwcześniejszym terminie płatności.
-5.
+5Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Kwota wpłaty w części przypadającej na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Solidarnościowy podlega zaliczeniu na należności z tych tytułów, począwszy od należności o najwcześniejszym terminie płatności.
 § 13.
 1.
@@ -223,14 +217,14 @@ Kwoty składek na ubezpieczenia społeczne rozliczane na fundusz emerytalny, fun
 Jeżeli kwota wpłaty w części przypadającej na pokrycie składek na ubezpieczenia społeczne jest wyższa niż kwota należnych składek z tego tytułu, nadwyżkę pozostałą po pokryciu należnych składek z tego tytułu zalicza się na pokrycie należności na Fundusz Emerytur Pomostowych, począwszy od zobowiązań o najwcześniejszym terminie płatności.
 2.
 Z kwoty pozostałej po rozliczeniu, o którym mowa w ust. 1, pokrywa się należności z tytułu składek na ubezpieczenie zdrowotne, począwszy od zobowiązań o najwcześniejszym terminie płatności.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Z kwoty pozostałej po rozliczeniu, o którym mowa w ust. 2, pokrywa się proporcjonalnie należności Funduszu Pracy, Funduszu Gwarantowanych Świadczeń Pracowniczych i Funduszu Solidarnościowego, począwszy od zobowiązań o najwcześniejszym terminie płatności.
 § 15.
 1.
 Jeżeli kwota wpłaty w części przypadającej na pokrycie składek na Fundusz Emerytur Pomostowych jest wyższa niż kwota należnych składek z tego tytułu, nadwyżkę pozostałą po pokryciu należnych składek z tego tytułu zalicza się na proporcjonalne pokrycie zaległych należności z tytułu składek na ubezpieczenia społeczne, począwszy od zobowiązań o najwcześniejszym terminie płatności, z uwzględnieniem § 13.
 2.
 Z kwoty pozostałej po rozliczeniu, o którym mowa w ust. 1, pokrywa się należności z tytułu składek na ubezpieczenie zdrowotne, począwszy od zobowiązań o najwcześniejszym terminie płatności.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Z kwoty pozostałej po rozliczeniu, o którym mowa w ust. 2, pokrywa się proporcjonalnie należności z tytułu składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Solidarnościowy, począwszy od zobowiązań o najwcześniejszym terminie płatności.
 § 16.
 Jeżeli kwota wpłaty w części przypadającej na ubezpieczenie zdrowotne jest niższa od kwoty należnych składek, rozliczonych w deklaracji za dany miesiąc kalendarzowy, to w odniesieniu do każdego ubezpieczonego podlega ona rozliczeniu proporcjonalnie do należnej kwoty składek na ubezpieczenie zdrowotne za danego ubezpieczonego do łącznej kwoty należnych składek na ubezpieczenie zdrowotne.
@@ -239,10 +233,10 @@ Jeżeli kwota wpłaty w części przypadającej na ubezpieczenie zdrowotne jest 
 Jeżeli kwota wpłaty w części przypadającej na pokrycie składek na ubezpieczenie zdrowotne jest wyższa niż kwota należnych składek, nadwyżkę pozostałą po pokryciu należnych składek z tego tytułu zalicza się na proporcjonalne pokrycie zaległych należności z tytułu składek na ubezpieczenia społeczne, począwszy od zobowiązań o najwcześniejszym terminie płatności, z uwzględnieniem § 13.
 2.
 Z kwoty pozostałej po rozliczeniu, o którym mowa w ust. 1, pokrywa się należności z tytułu składek na Fundusz Emerytur Pomostowych, począwszy od zobowiązań o najwcześniejszym terminie płatności.
-3.
+3Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Z kwoty pozostałej po rozliczeniu, o którym mowa w ust. 2, pokrywa się proporcjonalnie należności z tytułu składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Solidarnościowy, począwszy od zobowiązań o najwcześniejszym terminie płatności.
 § 18.
-1.
+1Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Jeżeli kwota wpłaty w części przypadającej na pokrycie składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Solidarnościowy jest wyższa niż kwota należnych składek z tego tytułu, nadwyżkę pozostałą po pokryciu należnych składek z tego tytułu zalicza się na proporcjonalne pokrycie zaległych należności z tytułu składek na ubezpieczenia społeczne, począwszy od zobowiązań o najwcześniejszym terminie płatności, z uwzględnieniem §13.
 2.
 Z kwoty pozostałej po rozliczeniu, o którym mowa w ust. 1, pokrywa się należności z tytułu składek na Fundusz Emerytur Pomostowych, począwszy od zobowiązań o najwcześniejszym terminie płatności.
@@ -276,28 +270,28 @@ Wpłatę, o której mowa w ust. 1, w części przypadającej na należności z t
 Wpłatę, o której mowa w ust. 1, w części przypadającej na należności z tytułu składek na Fundusz Emerytur Pomostowych, rozlicza się, poczynając od należności o najwcześniejszym terminie płatności, objętych danym układem ratalnym lub odroczeniem terminu płatności. Przepis § 15 stosuje się odpowiednio.
 4.
 Wpłatę, o której mowa w ust. 1, w części przypadającej na należności z tytułu składek na ubezpieczenie zdrowotne, rozlicza się, poczynając od należności o najwcześniejszym terminie płatności, objętych danym układem ratalnym lub odroczeniem terminu płatności. Przepis § 17 stosuje się odpowiednio.
-5.
+5Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1..
 Wpłatę, o której mowa w ust. 1, w części przypadającej na należności z tytułu składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Solidarnościowy, rozlicza się, poczynając od należności o najwcześniejszym terminie płatności, proporcjonalnie do należności tych funduszy do łącznej kwoty należności objętych danym układem ratalnym lub odroczeniem terminu płatności. Przepis § 18 stosuje się odpowiednio.
 § 23.
 Wpłaty należności z tytułu składek ściągnięte w trybie przepisów o postępowaniu egzekucyjnym w administracji lub egzekucji sądowej, a także wpłaty należności z tytułu składek dokonane w ramach postępowania restrukturyzacyjnego za okres przed dniem otwarcia tego postępowania oraz wpłaty należności z tytułu składek dokonane przez syndyka masy upadłości z tytułu składek za okres przed dniem ogłoszenia upadłości dokonuje się na wskazany przez Zakład rachunek bankowy właściwej terenowej jednostki organizacyjnej Zakładu.
 § 24.
-1.
+1W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 1..
 Z wpłaty na pokrycie należności z tytułu składek na ubezpieczenia społeczne objętych danym tytułem wykonawczym w pierwszej kolejności pokrywa się opłatę manipulacyjną, opłatę za czynności egzekucyjne, wydatki egzekucyjne, koszty egzekucyjne powstałe w postępowaniu egzekucyjnym umorzonym z przyczyny określonej w art. 59 § 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, 1301 i 1692) w przypadku, o którym mowa w art. 64ca § 2 tej ustawy, zwane dalej „kosztami egzekucyjnymi”, opłatę egzekucyjną, koszty upomnienia, a następnie składki i odsetki za zwłokę należne funduszowi emerytalnemu i otwartym funduszom emerytalnym – proporcjonalnie do należności tych funduszy objętych tym tytułem.
 2.
 Pozostałą po rozliczeniu, o którym mowa w ust. 1, część wpłaty rozlicza się proporcjonalnie na pokrycie należnych składek i odsetek za zwłokę na fundusz rentowy, fundusz chorobowy i fundusz wypadkowy, proporcjonalnie do należności poszczególnych funduszy objętych danym tytułem wykonawczym.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Z wpłaty na pokrycie należności z tytułu składek na Fundusz Emerytur Pomostowych objętych danym tytułem wykonawczym w pierwszej kolejności pokrywa się opłatę manipulacyjną, opłatę za czynności egzekucyjne, wydatki egzekucyjne, koszty egzekucyjne, opłatę egzekucyjną, koszty upomnienia, a następnie składki i odsetki za zwłokę.
-4.
+4W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Z wpłaty na pokrycie należności z tytułu składek na ubezpieczenie zdrowotne objętych danym tytułem wykonawczym w pierwszej kolejności pokrywa się opłatę manipulacyjną, opłatę za czynności egzekucyjne, wydatki egzekucyjne, koszty egzekucyjne, opłatę egzekucyjną, koszty upomnienia, a następnie składki i odsetki za zwłokę.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Z wpłaty na pokrycie należności z tytułu składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Solidarnościowy objętych danym tytułem wykonawczym w pierwszej kolejności pokrywa się opłatę manipulacyjną, opłatę za czynności egzekucyjne, wydatki egzekucyjne, koszty egzekucyjne, opłatę egzekucyjną, koszty upomnienia, a następnie składki i odsetki za zwłokę należne każdemu z funduszy – proporcjonalnie do należności każdego z tych funduszy objętych tym tytułem.
-6.
+6W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Wpłatę na pokrycie wymierzonej dodatkowej opłaty objętej danym tytułem wykonawczym rozlicza się w pierwszej kolejności na pokrycie opłaty manipulacyjnej, opłaty za czynności egzekucyjne, wydatków egzekucyjnych, kosztów egzekucyjnych, opłaty egzekucyjnej, kosztów upomnienia, a następnie na pokrycie tej opłaty.
-7.
+7W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1..
 Z wpłaty na pokrycie dodatkowej opłaty wymierzonej od nieopłaconych składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Solidarnościowy objętej danym tytułem wykonawczym w pierwszej kolejności pokrywa się opłatę manipulacyjną, opłatę za czynności egzekucyjne, wydatki egzekucyjne, koszty egzekucyjne, opłatę egzekucyjną, koszty upomnienia, a następnie dodatkową opłatę przysługującą każdemu z funduszy – proporcjonalnie do kwoty objętej tym tytułem.
 8.
 Nadwyżkę pozostałą po rozliczeniu, o którym mowa w ust. 1–7, rozlicza się z uwzględnieniem § 14 i 15 oraz § 17 i 18.
-9.
+9Ze zmianą wprowadzoną przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 1..
 Przepisy ust. 1–8 mają zastosowanie do rozliczenia wpłat dokonanych przez płatnika składek odpowiednio po doręczeniu upomnienia lub wszczęciu postępowania egzekucyjnego.
 § 25.
 1.
@@ -354,11 +348,10 @@ otwarte fundusze emerytalne,
 Fundusz Pracy,
 3)
 Fundusz Gwarantowanych Świadczeń Pracowniczych,
-3a)
+3aDodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1.)
 Fundusz Solidarnościowy,
 4)
-ubezpieczenie zdrowotne
-potrąca Zakład z dokonanych wpłat.
+ubezpieczenie zdrowotne – potrąca Zakład z dokonanych wpłat.
 § 31.
 1.
 Składki za okres do dnia 31 grudnia 1998 r., które nie uległy przedawnieniu, płatnik składek opłaca na wskazany rachunek bankowy terenowej jednostki organizacyjnej Zakładu, oznaczając dokonywaną wpłatę numerem konta płatnika składek (NKP), nadanym według zasad obowiązujących przed dniem 1 stycznia 1999 r., w wysokości i na zasadach określonych w przepisach obowiązujących do dnia 31 grudnia 1998 r.
@@ -369,5 +362,5 @@ Przepis ust. 2 stosuje się do wynagrodzeń należnych za styczeń 1999 r., wyp�
 § 32.
 Do wpłat dokonanych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 33.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 kwietnia 2008 r. w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 465 oraz z 2009 r. poz. 1181), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie art. 1 pkt 11 lit. a ustawy z dnia 11 maja 2017 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1027). 1) Dodany przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 22 lipca 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 1403), które weszło w życie z dniem 3 sierpnia 2021 r. 2) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Dodany przez § 1 rozporządzenia Rady Ministrów z dnia 20 stycznia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 211), które weszło w życie z dniem 1 lutego 2022 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352 i 1700. 5) Ze zmianą wprowadzoną przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 6) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 1. 7) W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1. 8) Ze zmianą wprowadzoną przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 1. 9) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1. 10) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 18 kwietnia 2008 r. w sprawie szczegółowych zasad i trybu postępowania w sprawach rozliczania składek, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych (Dz. U. poz. 465 oraz z 2009 r. poz. 1181), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie art. 1 pkt 11 lit. a ustawy z dnia 11 maja 2017 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1027).
 

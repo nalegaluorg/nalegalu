@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 28 lipca 2017 r. w sprawie dotacji przedmiotowej do świadczonej usługi pocztowej zwolnionej z wymogu notyfikacji Komisji Europejskiej
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 28 lipca 2017 r. w sprawie dotacji przedmiotowej do świadczonej usługi pocztowej zwolnionej z wymogu notyfikacji Komisji Europejskiej Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-28 |
 | Data wydania | 2017-08-03 |
-| Wejście w życie | 2017-08-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1490/text.pdf) |
 
@@ -72,6 +71,5 @@ wnioskowaną kwotę dotacji nieprzekraczającą wysokości utraconych przychodó
 § 4.
 Wniosek o udzielenie dotacji wraz z dokumentami i informacjami, o których mowa w § 3 pkt 4, Poczta Polska SA będąca operatorem wyznaczonym na lata 2016–2025 przedkłada ministrowi właściwemu do spraw łączności po raz pierwszy w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094 oraz z 2017 r. poz. 1076).
 

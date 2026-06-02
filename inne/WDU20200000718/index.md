@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatuz dnia 7 kwietnia 2020 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło
+# Rozporządzenie Ministra Klimatuz dnia 7 kwietnia 2020 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495).
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-07 |
 | Data wydania | 2020-04-23 |
-| Wejście w życie | 2020-05-08 |
 | Ostatnia zmiana | 2025-09-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/718/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe zasady kształtowania taryf Rozdział 3 – Szczegółowe zasady kalkulacji cen i stawek opłat Rozdział 4 – Szczegółowe zasady rozliczeń z tytułu zaopatrzenia w ciepło Rozdział 5 – Przepisy przejściowe i końcowe
 Treść rozporządzenia
-Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.) zarządza się, co następuje:
+Treść rozporządzenia
+Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284, 471 i 568.) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe zasady:
 1)
@@ -107,6 +107,7 @@ prawidłowej pracy innych urządzeń lub instalacji;
 zewnętrzna instalacja odbiorcza – odcinki instalacji odbiorczych łączące grupowy węzeł cieplny lub źródło ciepła z instalacjami odbiorczymi w obiektach, w tym w obiektach, w których zainstalowany jest grupowy węzeł cieplny lub źródło ciepła;
 23)
 źródło ciepła – połączone ze sobą urządzenia lub instalacje służące do wytwarzania ciepła.
+Szczegółowe zasady kształtowania taryf
 § 3.
 Przedsiębiorstwo energetyczne opracowuje taryfę w sposób zapewniający:
 1)
@@ -235,6 +236,7 @@ więcej niż jeden obiekt, a zewnętrzne instalacje odbiorcze:
 Ustalając grupy taryfowe, o których mowa w ust. 1, uwzględnia się zróżnicowanie kosztów eksploatacji źródeł ciepła, wydzielonych sieci ciepłowniczych, węzłów cieplnych i zewnętrznych instalacji odbiorczych, o których mowa w ust. 2, zależnie od tego, czy należą one do przedsiębiorstwa energetycznego, czy też nie należą do tego przedsiębiorstwa.
 4.
 W przypadku źródeł ciepła, w których jest stosowany ten sam rodzaj paliwa, a zainstalowana moc cieplna w każdym z tych źródeł nie przekracza 5 MW, odbiorcy zasilani z tych źródeł mogą być zaliczeni do jednej grupy taryfowej.
+Szczegółowe zasady kalkulacji cen i stawek opłat
 § 11.
 1.
 Ceny i stawki opłat dla pierwszego roku stosowania taryfy ustala się na podstawie planowanych na ten rok:
@@ -408,8 +410,7 @@ sieci ciepłowniczej i węzłów cieplnych – dla grup taryfowych, do których 
 3)
 sieci ciepłowniczej i grupowych węzłów cieplnych – dla grup taryfowych, do których są zaliczani odbiorcy pobierający ciepło z eksploatowanych przez przedsiębiorstwo ciepłownicze lub przez dystrybutora ciepła grupowych węzłów cieplnych,
 4)
-sieci ciepłowniczej i grupowych węzłów cieplnych oraz zewnętrznych instalacji odbiorczych – dla grup taryfowych, do których są zaliczani odbiorcy pobierający ciepło z eksploatowanych przez przedsiębiorstwo ciepłownicze lub przez dystrybutora ciepła grupowych węzłów cieplnych wraz z zewnętrznymi instalacjami odbiorczymi
-odpowiednio do zakresu wykonywanej przez to przedsiębiorstwo działalności gospodarczej związanej z zaopatrzeniem w ciepło na podstawie kosztów jednostkowych obliczonych w sposób określony w ust. 2.
+sieci ciepłowniczej i grupowych węzłów cieplnych oraz zewnętrznych instalacji odbiorczych – dla grup taryfowych, do których są zaliczani odbiorcy pobierający ciepło z eksploatowanych przez przedsiębiorstwo ciepłownicze lub przez dystrybutora ciepła grupowych węzłów cieplnych wraz z zewnętrznymi instalacjami odbiorczymi – odpowiednio do zakresu wykonywanej przez to przedsiębiorstwo działalności gospodarczej związanej z zaopatrzeniem w ciepło na podstawie kosztów jednostkowych obliczonych w sposób określony w ust. 2.
 2.
 Koszty jednostkowe oblicza się odpowiednio do zakresu wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej związanej z zaopatrzeniem w ciepło według wzorów:
 1)
@@ -484,8 +485,7 @@ W okresie stosowania taryfy, nie krótszym niż dwa lata:
 1)
 przedsiębiorstwo energetyczne wytwarzające ciepło w jednostkach kogeneracji, które nie stosuje uproszczonego sposobu kalkulacji cen i stawek opłat, o którym mowa w § 13 ust. 1, dostosowuje ceny i stawki opłat,
 2)
-przedsiębiorstwo energetyczne inne niż określone w pkt 1 może dostosowywać ceny i stawki opłat
-ustalone dla pierwszego roku jej stosowania do zmieniających się warunków wykonywania działalności gospodarczej w sposób określony w ust. 2.
+przedsiębiorstwo energetyczne inne niż określone w pkt 1 może dostosowywać ceny i stawki opłat – ustalone dla pierwszego roku jej stosowania do zmieniających się warunków wykonywania działalności gospodarczej w sposób określony w ust. 2.
 2.
 Dostosowywanie cen i stawek opłat może nastąpić nie wcześniej niż po upływie 12 miesięcy od ich wprowadzenia jako obowiązujących i nie częściej niż co 12 miesięcy, a wysokość tych cen i stawek opłat oblicza się według wzoru: \( C_{sn} = C_{sb} \times [1 + (RPI – X_r ):100] \) gdzie poszczególne symbole oznaczają: Csn – nową cenę lub stawkę opłaty, Csb – dotychczas stosowaną cenę lub stawkę opłaty przed ich zmianą, RPI – średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym, określony w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” [w %], Xr – współczynnik korekcyjny ustalany dla danego rodzaju działalności gospodarczej wykonywanej przez przedsiębiorstwo energetyczne w zakresie zaopatrzenia w ciepło, określający projektowaną poprawę efektywności funkcjonowania tego przedsiębiorstwa oraz zmianę warunków wykonywania przez to przedsiębiorstwo danego rodzaju działalności gospodarczej w następnym roku w stosunku do poprzedniego roku stosowania taryfy [w %].
 § 28.
@@ -497,6 +497,7 @@ Przedsiębiorstwo energetyczne może ustalić w taryfie ceny i stawki opłat w t
 Przedsiębiorstwo energetyczne, w odniesieniu do źródeł, o których mowa w § 13 ust. 1, może wystąpić o zmianę taryfy przed upływem okresu, o którym mowa w § 13 ust. 10, jeżeli w trakcie tego okresu ogłoszone zostaną średnie ceny sprzedaży ciepła, o których mowa w art. 23 ust. 2 pkt 18 lit. c ustawy, lub w przypadku zmiany posiadanej koncesji wynikającej z istotnej zmiany zakresu wykonywania działalności objętej koncesją, w szczególności zmiany paliwa wykorzystywanego w danym źródle.
 § 29.
 W przypadku nowo tworzonego przedsiębiorstwa energetycznego lub podejmowania przez istniejące przedsiębiorstwo nowego rodzaju działalności gospodarczej w zakresie zaopatrzenia w ciepło, podstawę do określenia kosztów jednostkowych oraz ustalenia cen i stawek opłat stanowią koszty planowane dla pierwszego roku wykonywania nowej działalności gospodarczej, a uzasadnienie kalkulacji cen i stawek opłat powinno uwzględniać analizy porównawcze z innymi przedsiębiorstwami energetycznymi zajmującymi się takim samym rodzajem działalności gospodarczej w zakresie zaopatrzenia w ciepło.
+Szczegółowe zasady rozliczeń z tytułu zaopatrzenia w ciepło
 § 30.
 Jeżeli przedsiębiorstwo energetyczne kupuje ciepło od innego przedsiębiorstwa energetycznego w celu sprzedaży tego ciepła odbiorcom przyłączonym do sieci ciepłowniczej lub korzysta z usług przesyłowych świadczonych przez inne przedsiębiorstwo energetyczne, w rozliczeniach prowadzonych na podstawie zawartych między tymi przedsiębiorstwami umów sprzedaży ciepła i umów o świadczenie usług przesyłania lub dystrybucji ciepła stosuje się odpowiednio opłatę:
 1)
@@ -742,6 +743,7 @@ uniemożliwił dokonanie wstrzymania dostarczania ciepła na podstawie art. 6b u
 W przypadku przekroczenia zamówionej mocy cieplnej przez odbiorcę, bez uzgodnienia z przedsiębiorstwem energetycznym lub niezgodnie z warunkami umowy, przedsiębiorstwo energetyczne, za wielkość przekroczenia mocy określonego na podstawie § 42 ust. 4, może obciążyć odbiorcę opłatą za zamówioną moc cieplną oraz opłatą stałą za usługę przesyłową w sposób określony w ust. 3.
 5.
 Opłaty, o których mowa w ust. 3 i 4, oblicza się dla każdego miesiąca, w którym nastąpił pobór ciepła niezgodnie z umową albo odbiorca uniemożliwił wstrzymanie dostarczania ciepła, mimo spełnienia przez przedsiębiorstwo energetyczne warunków określonych w art. 6b ust. 1, 2 lub 4 ustawy.
+Przepisy przejściowe i końcowe
 § 46.
 Taryfy przedsiębiorstw energetycznych obowiązujące przed dniem wejścia w życie rozporządzenia obowiązują do dnia określonego w decyzjach Prezesa Urzędu Regulacji Energetyki zatwierdzających te taryfy, z zastrzeżeniem § 28 ust. 1 i 3.
 § 47.
@@ -754,8 +756,7 @@ w przypadku jednostek kogeneracji opalanych paliwami gazowymi – 0,78 zł/GJ,
 3)
 w przypadku jednostek kogeneracji opalanych olejem opałowym – 0 zł/GJ,
 4)
-w przypadku jednostek kogeneracji stanowiących instalacje odnawialnego źródła energii – 0 zł/GJ
-z tytułu pokrycia kosztów zakupu uprawnień do emisji gazów cieplarnianych w roku 2018, które nie zostały uwzględnione w cenie referencyjnej, o której mowa w § 13 ust. 2 i 3.
+w przypadku jednostek kogeneracji stanowiących instalacje odnawialnego źródła energii – 0 zł/GJ – z tytułu pokrycia kosztów zakupu uprawnień do emisji gazów cieplarnianych w roku 2018, które nie zostały uwzględnione w cenie referencyjnej, o której mowa w § 13 ust. 2 i 3.
 2.
 W przypadku źródeł, o których mowa w ust. 1, w których do wytwarzania ciepła zużywanych jest jednocześnie kilka rodzajów paliwa, kwotę, o której mowa w ust. 1, ustala się jako średnią z wartości podanych w ust. 1 pkt 1–4 ważoną planowanym udziałem energii chemicznej poszczególnych paliw zużywanych do wytwarzania energii elektrycznej i ciepła w tych źródłach.
 3.
@@ -767,16 +768,25 @@ Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporząd
 § 49.
 Przepisy § 21 ust. 3–5 i § 31 ust. 2 pkt 2 i ust. 3 pkt 2 stosuje się do dnia 9 listopada 2022 r.
 § 50.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284, 471 i 568. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 22 września 2017 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. poz. 1988), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 107 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji (Dz. U. z 2020 r. poz. 250).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 22 września 2017 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. poz. 1988), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 107 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji (Dz. U. z 2020 r. poz. 250). 1) Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284, 471 i 568. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 22 września 2017 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. poz. 1988), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 107 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji (Dz. U. z 2020 r. poz. 250).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe zasady kształtowania taryf
+#### Rozdział 2 – Szczegółowe zasady kształtowania taryf
 
-#### Rozdział 3 Szczegółowe zasady kalkulacji cen i stawek opłat
+#### Rozdział 3 – Szczegółowe zasady kalkulacji cen i stawek opłat
 
-#### Rozdział 4 Szczegółowe zasady rozliczeń z tytułu zaopatrzenia w ciepło
+#### Rozdział 4 – Szczegółowe zasady rozliczeń z tytułu zaopatrzenia w ciepło
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+#### Rozdział 5 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
 

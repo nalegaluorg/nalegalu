@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 16 sierpnia 2018 r. w sprawie szczegółowego zakresu zadań wojewódzkiego koordynatora ratownictwa medycznego
+# Rozporządzenie Ministra Zdrowiaz dnia 16 sierpnia 2018 r. w sprawie szczegółowego zakresu zadań wojewódzkiego koordynatora ratownictwa medycznego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-08-16 |
 | Data wydania | 2018-08-28 |
-| Wejście w życie | 2018-08-29 |
 | Ostatnia zmiana | 2025-12-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1655/text.pdf) |
 
@@ -133,6 +132,5 @@ Współpraca z wojewódzkim koordynatorem ratownictwa medycznego z innego wojew�
 § 3.
 Przepis § 1 pkt 1 lit. k tiret pierwsze stosuje się od dnia 1 stycznia 2020 r.
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 lutego 2009 r. w sprawie szczegółowego zakresu uprawnień i obowiązków lekarza koordynatora ratownictwa medycznego (Dz. U. poz. 322), które utraciło moc z dniem 26 czerwca 2018 r. na podstawie art. 25 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 lutego 2009 r. w sprawie szczegółowego zakresu uprawnień i obowiązków lekarza koordynatora ratownictwa medycznego (Dz. U. poz. 322), które utraciło moc z dniem 26 czerwca 2018 r. na podstawie art. 25 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 24 lutego 2009 r. w sprawie szczegółowego zakresu uprawnień i obowiązków lekarza koordynatora ratownictwa medycznego (Dz. U. poz. 322), które utraciło moc z dniem 26 czerwca 2018 r. na podstawie art. 25 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115).
 

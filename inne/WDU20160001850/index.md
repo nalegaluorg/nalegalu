@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Finansówz dnia 7 listopada 2016 r. w sprawie sposobu ustalania opłat za czynności związane z akredytacją jednostek oceniających zgodność oraz maksymalnych wysokości tych opłat
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 7 listopada 2016 r. w sprawie sposobu ustalania opłat za czynności związane z akredytacją jednostek oceniających zgodność oraz maksymalnych wysokości tych opłat Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-07 |
 | Data wydania | 2016-11-15 |
-| Wejście w życie | 2016-11-23 |
 | Ostatnia zmiana | 2025-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001850) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1850/text.pdf) |
 
@@ -81,6 +80,5 @@ ocenami realizowanymi w ramach sprawowanego nadzoru nad akredytowanymi jednostka
 5)
 uczestnictwem w krajowym systemie akredytacji wynosi 50 000 zł rocznie.
 § 6.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zakres spraw regulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 14 czerwca 2012 r. w sprawie sposobu ustalania opłat za czynności związane z oceną zgodności oraz akredytacją jednostek oceniających zgodność (Dz. U. poz. 711), które utraciło moc z dniem 21 lipca 2016 r. zgodnie z art. 131 ust. 2 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542, 1228 i 1579).
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.Zakres spraw regulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 14 czerwca 2012 r. w sprawie sposobu ustalania opłat za czynności związane z oceną zgodności oraz akredytacją jednostek oceniających zgodność (Dz. U. poz. 711), które utraciło moc z dniem 21 lipca 2016 r. zgodnie z art. 131 ust. 2 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542, 1228 i 1579). 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zakres spraw regulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 14 czerwca 2012 r. w sprawie sposobu ustalania opłat za czynności związane z oceną zgodności oraz akredytacją jednostek oceniających zgodność (Dz. U. poz. 711), które utraciło moc z dniem 21 lipca 2016 r. zgodnie z art. 131 ust. 2 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542, 1228 i 1579).
 

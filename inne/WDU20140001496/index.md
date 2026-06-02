@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-14 |
 | Data wydania | 2014-10-31 |
-| Wejście w życie | 2014-11-15 |
 | Ostatnia zmiana | 2024-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001496) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1496/text.pdf) |
 
@@ -172,6 +171,5 @@ Koszt netto składnika lub grupy usług oblicza się zgodnie z § 3 z uwzględni
 2.
 Jeżeli liczba aparatów publicznych lub innych punktów dostępowych umożliwiających komunikację głosową zainstalowanych na obszarze danej gminy przez przedsiębiorcę wyznaczonego jest większa od minimalnej liczby, o której mowa w ust. 1, do obliczenia kosztu netto minimalnej liczby aparatów publicznych lub innych punktów dostępowych umożliwiających komunikację głosową przyjmuje się średni koszt netto wszystkich aparatów publicznych lub innych punktów dostępowych umożliwiających komunikację głosową zainstalowanych przez tego przedsiębiorcę na obszarze tej gminy.
 § 10.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Budownictwa z dnia 15 grudnia 2005 r. w sprawie sposobu obliczania kosztu netto usługi wchodzącej w skład telekomunikacyjnej usługi powszechnej (Dz. U. Nr 255, poz. 2141), które na podstawie art. 25 ust. 1 ustawy z dnia 16 listopada 2012 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 1445 oraz z 2013 r. poz. 1635) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.Rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Budownictwa z dnia 15 grudnia 2005 r. w sprawie sposobu obliczania kosztu netto usługi wchodzącej w skład telekomunikacyjnej usługi powszechnej (Dz. U. Nr 255, poz. 2141), które na podstawie art. 25 ust. 1 ustawy z dnia 16 listopada 2012 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 1445 oraz z 2013 r. poz. 1635) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 2) Rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Budownictwa z dnia 15 grudnia 2005 r. w sprawie sposobu obliczania kosztu netto usługi wchodzącej w skład telekomunikacyjnej usługi powszechnej (Dz. U. Nr 255, poz. 2141), które na podstawie art. 25 ust. 1 ustawy z dnia 16 listopada 2012 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 1445 oraz z 2013 r. poz. 1635) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

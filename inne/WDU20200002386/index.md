@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 21 grudnia 2020 r. w sprawie systemu informatycznego Inspekcji Ochrony Środowiska „Ekoinfonet”
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 21 grudnia 2020 r. w sprawie systemu informatycznego Inspekcji Ochrony Środowiska „Ekoinfonet” Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-21 |
 | Data wydania | 2020-12-29 |
-| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2386/text.pdf) |
 
@@ -55,8 +54,7 @@ wybranych gatunków roślin i zwierząt innych niż ptaki,
 h)
 wybranych siedlisk przyrodniczych,
 i)
-chemizmu gleb ornych
-określone w wieloletnich strategicznych programach państwowego monitoringu środowiska, o których mowa w art. 23 ust. 18–20 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska;
+chemizmu gleb ornych – określone w wieloletnich strategicznych programach państwowego monitoringu środowiska, o których mowa w art. 23 ust. 18–20 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska;
 2)
 badania i oceny stanu środowiska w zakresie danych identyfikujących, strategicznych map hałasu i streszczeń programów ochrony środowiska przed hałasem, o których mowa odpowiednio w art. 117a, w art. 118 albo w art. 119a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
 3)
@@ -154,6 +152,5 @@ Dane zgromadzone w Ekoinfonecie, z wyjątkiem danych, o których mowa w § 3 pkt
 § 8.
 Do wniosków o udostępnienie danych zgromadzonych w Ekoinfonecie złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 9.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 21 września 2015 r. w sprawie systemu informatycznego Inspekcji Ochrony Środowiska „Ekoinfonet” (Dz. U. poz. 1584), które zgodnie z art. 28 ust. 1 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz niektórych innych ustaw (Dz. U. poz. 1479) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 21 września 2015 r. w sprawie systemu informatycznego Inspekcji Ochrony Środowiska „Ekoinfonet” (Dz. U. poz. 1584), które zgodnie z art. 28 ust. 1 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz niektórych innych ustaw (Dz. U. poz. 1479) traci moc z dniem wejścia w życie niniejszego rozporządzenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 21 września 2015 r. w sprawie systemu informatycznego Inspekcji Ochrony Środowiska „Ekoinfonet” (Dz. U. poz. 1584), które zgodnie z art. 28 ust. 1 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz niektórych innych ustaw (Dz. U. poz. 1479) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

@@ -22,15 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2009-03-06 |
 | Data wydania | 2009-04-01 |
-| Wejście w życie | 2009-05-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090530434) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/434/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 785, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 47, poz. 347, Nr 133, poz. 935 i Nr 157, poz. 1119, z 2007 r. Nr 123, poz. 850 i Nr 179, poz. 1279, z 2008 r. Nr 96, poz. 606, Nr 116, poz. 731 i Nr 234, poz. 1572 oraz z 2009 r. Nr 42, poz. 341.) wprowadza się następujące zmiany:
 
 - **1)** art. 5 otrzymuje brzmienie: „
 
-1. Przepisy ustawy stosuje się do przedsiębiorców w rozumieniu ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.), jeżeli ustawa nie stanowi inaczej.
+1. Przepisy ustawy stosuje się do przedsiębiorców w rozumieniu ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506 oraz z 2009 r. Nr 42, poz. 341.), jeżeli ustawa nie stanowi inaczej.
 
 2. Przepisy ustawy stosuje się także do:
 
@@ -243,7 +242,7 @@ source: "eli-html"
 - **38)** w art. 124: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Z dniem ogłoszenia upadłości jednego z małżonków powstaje między małżonkami rozdzielność majątkowa, o której mowa w art. 53 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, z późn. zm.). Jeżeli małżonkowie pozostawali w ustroju wspólności majątkowej, majątek wspólny małżonków wchodzi do masy upadłości, a jego podział jest niedopuszczalny. ” , uchyla się ust. 2, dodaje się ust. 5 w brzmieniu: „
+1. Z dniem ogłoszenia upadłości jednego z małżonków powstaje między małżonkami rozdzielność majątkowa, o której mowa w art. 53 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 45, poz. 234, z 1986 r. Nr 36, poz. 180, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417, z 1998 r. Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 122, poz. 1322, z 2001 r. Nr 128, poz. 1403, z 2003 r. Nr 83, poz. 772 i Nr 130, poz. 1188, z 2004 r. Nr 162, poz. 1691, z 2007 r. Nr 121, poz. 831, Nr 134, poz. 947 i Nr 192, poz. 1378 oraz z 2008 r. Nr 220, poz. 1431.). Jeżeli małżonkowie pozostawali w ustroju wspólności majątkowej, majątek wspólny małżonków wchodzi do masy upadłości, a jego podział jest niedopuszczalny. ” , uchyla się ust. 2, dodaje się ust. 5 w brzmieniu: „
 
 - **b)**
 - **c)**
@@ -498,7 +497,7 @@ source: "eli-html"
 
 - **82)** w art. 270 dodaje się ust. 3 w brzmieniu: „
 
-3. Do propozycji układowych przewidujących konwersję wierzytelności na akcje w sposób określony w art. 3 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539, z późn. zm.) nie stosuje się art. 7 ust. 1 tej ustawy oraz art. 19 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.). ” ;
+3. Do propozycji układowych przewidujących konwersję wierzytelności na akcje w sposób określony w art. 3 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 235, poz. 1734 oraz z 2008 r. Nr 171, poz. 1056 i Nr 231, poz. 1547.) nie stosuje się art. 7 ust. 1 tej ustawy oraz art. 19 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 13, poz. 69 i Nr 42, poz. 341.). ” ;
 
 - **83)** w art. 271 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
@@ -510,8 +509,11 @@ source: "eli-html"
 1. Układ obejmuje wierzytelności powstałe przed dniem ogłoszenia upadłości dłużnika. ” , uchyla się ust. 2;
 
 - **b)**
-- **85)** w art. 273: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) należności alimentacyjnych oraz rent z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci oraz z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę; ” , – pkt 2 otrzymuje brzmienie: „ 2) roszczenia o wydanie mienia, o którym mowa w art. 70; ” , – uchyla się pkt 3, ust. 2 otrzymuje brzmienie: „
+- **85)** w art. 273: w ust. 1: pkt 1 otrzymuje brzmienie: „
     - **a)**
+
+- **1)** należności alimentacyjnych oraz rent z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci oraz z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę; ” , pkt 2 otrzymuje brzmienie: „
+- **2)** roszczenia o wydanie mienia, o którym mowa w art. 70; ” , – uchyla się pkt 3, ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Układ nie obejmuje należności ze stosunku pracy oraz wierzytelności zabezpieczonej na mieniu upadłego hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, w części znajdującej pokrycie w wartości przedmiotu zabezpieczenia, chyba że wierzyciel wyraził zgodę na jej objęcie układem. Zgoda na objęcie wierzytelności układem powinna być wyrażona w sposób bezwarunkowy i nieodwołalny, najpóźniej przed przystąpieniem do głosowania nad układem. Zgoda może być wyrażona ustnie do protokołu z przebiegu zgromadzenia wierzycieli. ” , dodaje się ust. 3 w brzmieniu: „
@@ -812,9 +814,9 @@ source: "eli-html"
 
 **Art. 481.** Przepisy art. 452 ust. 2, art. 453–466 i 4671–470 stosuje się odpowiednio w przypadku:
 
-- **1)** ogłoszenia upadłości krajowego zakładu ubezpieczeń, jeżeli prowadzi on działalność także za granicą Rzeczypospolitej Polskiej w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym;
+- **1)** ogłoszenia upadłości krajowego zakładu ubezpieczeń, jeżeli prowadzi on działalność także za granicą Rzeczypospolitej Polskiej w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym;
 - **2)** ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania wobec zagranicznego zakładu ubezpieczeń mającego siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, jeżeli prowadzi on działalność w Rzeczypospolitej Polskiej;
-- **3)** ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania wobec zagranicznego zakładu ubezpieczeń mającego siedzibę w państwie niebędącym członkiem Unii Europejskiej lub członkiem Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym, jeżeli prowadzi on działalność w Rzeczypospolitej Polskiej oraz w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym. ” ;
+- **3)** ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania wobec zagranicznego zakładu ubezpieczeń mającego siedzibę w państwie niebędącym członkiem Unii Europejskiej lub członkiem Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym, jeżeli prowadzi on działalność w Rzeczypospolitej Polskiej oraz w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym. ” ;
 - **136)** art. 483 otrzymuje brzmienie: „
 
 **Art. 483.**
@@ -878,7 +880,7 @@ source: "eli-html"
 
 - **1)** finansowanie zadań Funduszu związanych z gwarantowaniem środków pieniężnych;
 - **2)** finansowanie zadań Funduszu w zakresie udzielania podmiotom objętym systemem gwarantowania pomocy, o której mowa w rozdziale 3, przy czym pomoc ta może być udzielana jedynie ze środków, o których mowa w art. 15 pkt 1, 3, 4 i 7, pomniejszonych o kwoty wydatków, o których mowa w ust. 5;
-- **3)** pokrywanie kosztów postępowania, o których mowa w art. 428 ust. 3 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.). ” .
+- **3)** pokrywanie kosztów postępowania, o których mowa w art. 428 ust. 3 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 785, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 47, poz. 347, Nr 133, poz. 935 i Nr 157, poz. 1119, z 2007 r. Nr 123, poz. 850 i Nr 179, poz. 1279, z 2008 r. Nr 96, poz. 606, Nr 116, poz. 731 i Nr 234, poz. 1572 oraz z 2009 r. Nr 42, poz. 341 i Nr 53, poz. 434.). ” .
 
 **Art. 3.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2007 r. Nr 168, poz. 1186, z 2008 r. Nr 141, poz. 888 oraz z 2009 r. Nr 18, poz. 97 i Nr 42, poz. 341) wprowadza się następujące zmiany:
 
@@ -905,5 +907,5 @@ source: "eli-html"
 
 3. Jeżeli przed dniem wejścia w życie niniejszej ustawy ustała możliwość orzeczenia zakazu, o którym mowa w ust. 1, z powodu upływu rocznego terminu do wszczęcia postępowania, zakazu nie orzeka się.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 785, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 47, poz. 347, Nr 133, poz. 935 i Nr 157, poz. 1119, z 2007 r. Nr 123, poz. 850 i Nr 179, poz. 1279, z 2008 r. Nr 96, poz. 606, Nr 116, poz. 731 i Nr 234, poz. 1572 oraz z 2009 r. Nr 42, poz. 341. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506 oraz z 2009 r. Nr 42, poz. 341. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. Nr 45, poz. 234, z 1986 r. Nr 36, poz. 180, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417, z 1998 r. Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 122, poz. 1322, z 2001 r. Nr 128, poz. 1403, z 2003 r. Nr 83, poz. 772 i Nr 130, poz. 1188, z 2004 r. Nr 162, poz. 1691, z 2007 r. Nr 121, poz. 831, Nr 134, poz. 947 i Nr 192, poz. 1378 oraz z 2008 r. Nr 220, poz. 1431. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 235, poz. 1734 oraz z 2008 r. Nr 171, poz. 1056 i Nr 231, poz. 1547. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 13, poz. 69 i Nr 42, poz. 341. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135, z 2005 r. Nr 94, poz. 785, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 47, poz. 347, Nr 133, poz. 935 i Nr 157, poz. 1119, z 2007 r. Nr 123, poz. 850 i Nr 179, poz. 1279, z 2008 r. Nr 96, poz. 606, Nr 116, poz. 731 i Nr 234, poz. 1572 oraz z 2009 r. Nr 42, poz. 341 i Nr 53, poz. 434.
 

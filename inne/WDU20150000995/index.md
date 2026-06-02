@@ -8,10 +8,10 @@ pos: 995
 act_type: Ustawa
 status: akt objęty tekstem jednolitym
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach rodzinnych
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 lipca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-15 |
 | Data wydania | 2015-07-17 |
-| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000995) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/995/text.pdf) |
 
+Poz. 995
+USTAWA z dnia 15 maja 2015 r.
+o zmianie ustawy o świadczeniach rodzinnych
+
 **Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2015 r. poz. 114 i 693) wprowadza się następujące zmiany:
 
-- **1)** w art. 5: ust. 3 otrzymuje brzmienie: „
-    - **a)**
-
-3. W przypadku gdy dochód rodziny przekracza kwotę, o której mowa w ust. 1 lub 2, pomnożoną przez liczbę członków danej rodziny o kwotę nie wyższą niż łączna kwota zasiłków rodzinnych wraz z dodatkami przysługujących danej rodzinie w okresie zasiłkowym, na który jest ustalane prawo do tych świadczeń, zasiłek rodzinny wraz z dodatkami przysługuje w kwocie ustalonej zgodnie z ust. 3a. ” , po ust. 3 dodaje się ust. 3a-3d w brzmieniu: „
-
-- **b)**
-
-3a. W przypadku przekroczenia kwoty uprawniającej daną rodzinę do zasiłku rodzinnego, o której mowa w ust. 3, zasiłek rodzinny i dodatki do zasiłku rodzinnego przysługują w wysokości różnicy między łączną kwotą zasiłków rodzinnych wraz z dodatkami, o której mowa w ust. 3, a kwotą, o którą został przekroczony dochód rodziny.
+- **1)** w art. 5:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. W przypadku gdy dochód rodziny przekracza kwotę, o której mowa w ust. 1 lub 2, pomnożoną przez liczbę członków danej rodziny o kwotę nie wyższą niż łączna kwota zasiłków rodzinnych wraz z dodatkami przysługujących danej rodzinie w okresie zasiłkowym, na który jest ustalane prawo do tych świadczeń, zasiłek rodzinny wraz z dodatkami przysługuje w kwocie ustalonej zgodnie z ust. 3a.”,
+    - **b)** po ust. 3 dodaje się ust. 3a–3d w brzmieniu: „3a. W przypadku przekroczenia kwoty uprawniającej daną rodzinę do zasiłku rodzinnego, o której mowa w ust. 3, zasiłek rodzinny i dodatki do zasiłku rodzinnego przysługują w wysokości różnicy między łączną kwotą zasiłków rodzinnych wraz z dodatkami, o której mowa w ust. 3, a kwotą, o którą został przekroczony dochód rodziny.
 
 3b. Łączną kwotę zasiłków rodzinnych wraz z dodatkami, o której mowa w ust. 3, stanowi suma przysługujących danej rodzinie w danym okresie zasiłkowym:
 
@@ -45,15 +43,10 @@ source: "eli-html"
 
 3c. W przypadku gdy wysokość zasiłków rodzinnych wraz z dodatkami przysługująca danej rodzinie, ustalona zgodnie z ust. 3a, jest niższa niż 20,00 zł, świadczenia te nie przysługują.
 
-3d. W przypadku osoby uczącej się przepisy ust. 3–3c stosuje się odpowiednio. ” ;
+3d. W przypadku osoby uczącej się przepisy ust. 3–3c stosuje się odpowiednio.”;
 
-- **2)** w art. 24 dodaje się ust. 8 w brzmieniu: „
-
-8. W przypadku wystąpienia zmian mających wpływ na wysokość otrzymywanych zasiłków rodzinnych i dodatków do zasiłku rodzinnego, skutkujących koniecznością ustalenia prawa do tych świadczeń zgodnie z art. 5 ust. 3–3c, powodujących utratę prawa do otrzymywanych świadczeń lub obniżenie ich wysokości, prawo do tych świadczeń i ich wysokość ustala się od miesiąca następującego po pierwszym miesiącu od miesiąca, w którym wystąpiła zmiana. ” ;
-
-- **3)** w art. 25 ust. 1 otrzymuje brzmienie: „
-
-1. W przypadku wystąpienia zmian w liczbie członków rodziny, uzyskania dochodu lub innych zmian mających wpływ na prawo do świadczeń rodzinnych, w tym na wysokość otrzymywanych świadczeń, osoba, o której mowa w art. 23 ust. 1, jest obowiązana do niezwłocznego powiadomienia o tym organu właściwego wypłacającego świadczenia rodzinne. ” .
+- **2)** w art. 24 dodaje się ust. 8 w brzmieniu: „8. W przypadku wystąpienia zmian mających wpływ na wysokość otrzymywanych zasiłków rodzinnych i dodatków do zasiłku rodzinnego, skutkujących koniecznością ustalenia prawa do tych świadczeń zgodnie z art. 5 ust. 3–3c, powodujących utratę prawa do otrzymywanych świadczeń lub obniżenie ich wysokości, prawo do tych świadczeń i ich wysokość ustala się od miesiąca następującego po pierwszym miesiącu od miesiąca, w którym wystąpiła zmiana.”;
+- **3)** w art. 25 ust. 1 otrzymuje brzmienie: „1. W przypadku wystąpienia zmian w liczbie członków rodziny, uzyskania dochodu lub innych zmian mających wpływ na prawo do świadczeń rodzinnych, w tym na wysokość otrzymywanych świadczeń, osoba, o której mowa w art. 23 ust. 1, jest obowiązana do niezwłocznego powiadomienia o tym organu właściwego wypłacającego świadczenia rodzinne.”.
 
 **Art. 2.** W sprawach o świadczenia rodzinne, do których prawo powstało przed dniem wejścia w życie niniejszej ustawy, do ustalania prawa do świadczeń rodzinnych za ten okres stosuje się przepisy dotychczasowe.
 

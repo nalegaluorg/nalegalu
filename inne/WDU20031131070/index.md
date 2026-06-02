@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2003-05-22 |
 | Data wydania | 2003-06-30 |
-| Wejście w życie | 2003-10-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031131070) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1070/text.pdf) |
 
@@ -339,7 +338,7 @@ source: "eli-html"
 
 - **1)** udzielaniu informacji o numerach abonentów,
 - **2)** udogodnieniach dla osób niepełnosprawnych,
-- **3)** dostarczaniu, na pisemne żądanie abonenta, szczegółowego wykazu wykonanych mu usług telekomunikacyjnych zwanych dalej „usługami powszechnymi”, które powinny być dostępne użytkownikowi końcowemu, z zachowaniem wymaganej jakości i po przystępnej cenie, na obszarze całego kraju.
+- **3)** dostarczaniu, na pisemne żądanie abonenta, szczegółowego wykazu wykonanych mu usług telekomunikacyjnych – zwanych dalej „usługami powszechnymi”, które powinny być dostępne użytkownikowi końcowemu, z zachowaniem wymaganej jakości i po przystępnej cenie, na obszarze całego kraju.
 
 2. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, katalog usług powszechnych, szczegółowe wymagania dotyczące świadczenia usług powszechnych, w tym wymagania dotyczące ich jakości, dostępności i przystępności cenowej, wymagania dotyczące przepustowości a także liczby aparatów publicznych, w tym przystosowanych dla osób niepełnosprawnych, mając na uwadze poziom rozwoju telefonizacji kraju. ” ;
 
@@ -407,7 +406,7 @@ source: "eli-html"
 - **3)** wskaźnik zwrotu kosztu zaangażowanego kapitału, który operator uwzględni w kalkulacji kosztów, z uwzględnieniem udokumentowanych rzeczywistych kosztów pozyskania kapitału,
 - **4)** sposób i terminy dokonywania aktualizacji wyceny określonych rodzajów środków trwałych i wartości niematerialnych i prawnych oraz dokonanych od tych środków i wartości odpisów amortyzacyjnych,
 - **5)** tryb i terminy uzgadniania i zatwierdzania przez Prezesa URTiP opracowanej przez operatora szczegółowej instrukcji w zakresie wyodrębnienia i przypisania aktywów i pasywów, przychodów i kosztów, na regulowane rodzaje działalności oraz opisu kalkulacji kosztów,
-- **6)** zakres i terminy przekazywania Prezesowi URTiP: sprawozdań dotyczących poszczególnych rodzajów działalności objętej regulacją, przyjmując zasadę, iż dane zawarte w sprawozdaniach są sprawdzalne w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694 oraz z 2003 r. Nr 60, poz. 535), wyników kalkulacji kosztów, odrębnie dla każdej z usług i rozliczeń, o których mowa w ust. 2 pkt 1 i w ust. 3 pkt 1 uwzględniając konieczność ochrony konsumentów i konkurentów przed nadużywaniem przez tych operatorów znaczącej pozycji rynkowej, konieczność stymulowania rozwoju rynku telekomunikacyjnego oraz konieczność umożliwienia działalności kontrolnej Prezesowi URTiP wobec działalności prowadzonej przez tych operatorów.
+- **6)** zakres i terminy przekazywania Prezesowi URTiP: sprawozdań dotyczących poszczególnych rodzajów działalności objętej regulacją, przyjmując zasadę, iż dane zawarte w sprawozdaniach są sprawdzalne w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694 oraz z 2003 r. Nr 60, poz. 535), wyników kalkulacji kosztów, odrębnie dla każdej z usług i rozliczeń, o których mowa w ust. 2 pkt 1 i w ust. 3 pkt 1 – uwzględniając konieczność ochrony konsumentów i konkurentów przed nadużywaniem przez tych operatorów znaczącej pozycji rynkowej, konieczność stymulowania rozwoju rynku telekomunikacyjnego oraz konieczność umożliwienia działalności kontrolnej Prezesowi URTiP wobec działalności prowadzonej przez tych operatorów.
     - **a)**
     - **b)**
 
@@ -496,8 +495,10 @@ source: "eli-html"
 
 4. Operator publiczny, zawierając umowę o świadczenie usług telekomunikacyjnych, jest obowiązany poinformować abonenta o możliwości udostępnienia jego danych, określonych w ust. 1. ” ;
 
-- **45)** w art. 70: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) nazwy miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione abonentowi – w przypadku stacjonarnej publicznej sieci telefonicznej albo miejsca zameldowania abonenta na pobyt stały – w przypadku ruchomej publicznej sieci telefonicznej. ” , – uchyla się pkt 4, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **45)** w art. 70: w ust. 1: pkt 3 otrzymuje brzmienie: „
     - **a)**
+
+- **3)** nazwy miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione abonentowi – w przypadku stacjonarnej publicznej sieci telefonicznej albo miejsca zameldowania abonenta na pobyt stały – w przypadku ruchomej publicznej sieci telefonicznej. ” , – uchyla się pkt 4, po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Operatorzy, w miarę swoich możliwości technicznych, są obowiązani udostępnić, na żądanie służb ustawowo powołanych do obsługi wywołań kierowanych na numery alarmowe informacje, o których mowa w ust. 1 pkt 1–3, poszerzone o będące w ich posiadaniu dane o lokalizacji abonenta wywołującego połączenie z numerem alarmowym, umożliwiające niezwłoczne podjęcie interwencji. ” ;
@@ -678,7 +679,7 @@ source: "eli-html"
 - **2)** zabezpieczenia przed nieuprawnionym używaniem urządzeń,
 - **3)** umożliwienia dostępu do urządzeń lub sieci służbom ustawowo powołanym do niesienia pomocy,
 - **4)** przystosowania do używania przez osoby niepełnosprawne,
-- **5)** zdolności do współpracy z innymi urządzeniami telekomunikacyjnymi używanymi w sieci telekomunikacyjnej lub do niej dołączonymi, w szczególności niepowodowania uszkodzeń sieci telekomunikacyjnej lub zakłócania jej funkcjonowania które niezależnie od wymagań wymienionych w ust. 1 powinny być spełniane przez urządzenia oraz określić termin, do którego mogą być używane urządzenia nie spełniające wymagań ustalonych w rozporządzeniu, wprowadzone do obrotu handlowego przed dniem wydania rozporządzenia, mając na uwadze prawidłowość funkcjonowania sieci telekomunikacyjnych.
+- **5)** zdolności do współpracy z innymi urządzeniami telekomunikacyjnymi używanymi w sieci telekomunikacyjnej lub do niej dołączonymi, w szczególności niepowodowania uszkodzeń sieci telekomunikacyjnej lub zakłócania jej funkcjonowania – które niezależnie od wymagań wymienionych w ust. 1 powinny być spełniane przez urządzenia oraz określić termin, do którego mogą być używane urządzenia nie spełniające wymagań ustalonych w rozporządzeniu, wprowadzone do obrotu handlowego przed dniem wydania rozporządzenia, mając na uwadze prawidłowość funkcjonowania sieci telekomunikacyjnych.
 
 3. Minister właściwy do spraw łączności może, w drodze rozporządzeń, określić szczegółowe wymagania techniczne i eksploatacyjne dla urządzeń telekomunikacyjnych oraz sieci telekomunikacyjnych, kierując się wymaganiami europejskich organizacji normalizacyjnych, a w przypadku braku takich wymagań – wymaganiami innych międzynarodowych organizacji normalizacyjnych, których Rzeczpospolita Polska jest członkiem.
 
@@ -688,10 +689,12 @@ source: "eli-html"
 - **61)** w art. 91: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Obowiązkowi oceny zgodności z wymaganiami, o których mowa w art. 88 ust. 1 i 2, zwanymi dalej „zasadniczymi wymaganiami” podlegają, o ile ustawa nie stanowi inaczej, urządzenia końcowe przeznaczone do dołączania do zakończeń sieci publicznej oraz urządzenia radiowe nadawcze lub nadawczo-odbiorcze. ” , w ust. 2: – w pkt 3 po wyrazie „przedstawiciela,” dodaje się wyrazy „po uzyskaniu przez niego potwierdzenia zgodności z zasadniczymi wymaganiami,”, – pkt 3a otrzymuje brzmienie: „ 3a) raport techniczny zawierający sprawozdanie z badań technicznych urządzenia wraz z opinią potwierdzającą spełnianie przez nie zasadniczych wymagań, wystawione przez akredytowane laboratorium badawcze, indywidualnemu użytkownikowi urządzenia nie będącego przedmiotem oferty handlowej. ” , – uchyla się pkt 4, w ust. 4 w pkt 3 po wyrazie „przez” dodaje się wyraz „organy,”;
+1. Obowiązkowi oceny zgodności z wymaganiami, o których mowa w art. 88 ust. 1 i 2, zwanymi dalej „zasadniczymi wymaganiami” podlegają, o ile ustawa nie stanowi inaczej, urządzenia końcowe przeznaczone do dołączania do zakończeń sieci publicznej oraz urządzenia radiowe nadawcze lub nadawczo-odbiorcze. ” , w ust. 2: – w pkt 3 po wyrazie „przedstawiciela,” dodaje się wyrazy „po uzyskaniu przez niego potwierdzenia zgodności z zasadniczymi wymaganiami,”, pkt 3a otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **3a)** raport techniczny zawierający sprawozdanie z badań technicznych urządzenia wraz z opinią potwierdzającą spełnianie przez nie zasadniczych wymagań, wystawione przez akredytowane laboratorium badawcze, indywidualnemu użytkownikowi urządzenia nie będącego przedmiotem oferty handlowej. ” , – uchyla się pkt 4, w ust. 4 w pkt 3 po wyrazie „przez” dodaje się wyraz „organy,”;
+    - **c)**
+
 - **62)** w art. 94 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
 2a. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, wzór oznakowania urządzeń, które spełniają zasadnicze wymagania, oraz niezbędne dane, które powinny być umieszczone wraz z oznakowaniem, mając na uwadze, aby oznakowanie było jednoznaczne i czytelne dla nabywcy. ” ;
@@ -705,7 +708,7 @@ source: "eli-html"
 7. Minister właściwy do spraw łączności określi, w drodze rozporządzeń:
 
 - **1)** plan numeracji krajowej dla publicznych sieci telefonicznych, określając w szczególności zakres planu oraz formaty numerów,
-- **2)** szczegółowe wymagania dotyczące gospodarowania numeracją w publicznych sieciach telefonicznych uwzględniając obecne i prognozowane potrzeby operatorów publicznych oraz użytkowników, w tym służb, o których mowa w art. 102, ustalenia europejskich organizacji telekomunikacyjnych, w szczególności dotyczące długoterminowych, ogólnoeuropejskich planów numeracji, a także postanowienia umów, których Rzeczpospolita Polska jest stroną. ” ;
+- **2)** szczegółowe wymagania dotyczące gospodarowania numeracją w publicznych sieciach telefonicznych – uwzględniając obecne i prognozowane potrzeby operatorów publicznych oraz użytkowników, w tym służb, o których mowa w art. 102, ustalenia europejskich organizacji telekomunikacyjnych, w szczególności dotyczące długoterminowych, ogólnoeuropejskich planów numeracji, a także postanowienia umów, których Rzeczpospolita Polska jest stroną. ” ;
 - **65)** w art. 108: ust. 1 otrzymuje brzmienie: „
     - **a)**
 

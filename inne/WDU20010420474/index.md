@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2001-04-11 |
 | Data wydania | 2001-05-11 |
-| Wejście w życie | 2001-06-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010420474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/474/text.pdf) |
 
@@ -35,8 +34,10 @@ source: "eli-html"
 1a. Przepis ust. 1 stosuje się odpowiednio do czynności wykonywanych na rzecz osób trzecich odpowiedzialnych za zaległości podatkowe oraz następców prawnych podatników, płatników lub inkasentów w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315 oraz z 2001 r. Nr 16, poz. 166 i Nr 39, poz. 459). ” ;
 
 - **2)** w art. 4 w ust. 1 w pkt 3 w lit. d) przecinek zastępuje się kropką i skreśla się pkt 4;
-- **3)** w art. 6: w ust. 1: – skreśla się pkt 1, – pkt 6 otrzymuje brzmienie: „ 6) odbyła w Polsce dwuletnią praktykę zawodową, ” ust. 2 otrzymuje brzmienie: „
+- **3)** w art. 6: w ust. 1: – skreśla się pkt 1, pkt 6 otrzymuje brzmienie: „
     - **a)**
+
+- **6)** odbyła w Polsce dwuletnią praktykę zawodową, ” ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Na listę doradców podatkowych wpisuje się również osoby, które spełniają warunki określone w ust. 1 pkt 2–5 oraz:

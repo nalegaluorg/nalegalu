@@ -22,8 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-28 |
 | Data wydania | 2020-09-07 |
-| Wejście w życie | 2020-09-08 |
-| Ostatnia zmiana | 2025-12-01 |
+| Ostatnia zmiana | 2026-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001543) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1543/text.pdf) |
 
 Treść rozporządzenia
@@ -50,5 +49,5 @@ Dostęp do aplikacji udzielony przed dniem wejścia w życie rozporządzenia uzn
 § 4.
 Do wniosków o udzielenie dostępu do aplikacji złożonych w 2020 r. i nierozpatrzonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 5.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 28 lipca 2009 r. w sprawie przekazywania sprawozdań albo informacji dotyczących pomocy publicznej w rolnictwie lub rybołówstwie z wykorzystaniem aplikacji (Dz. U. poz. 1053, z 2011 r. poz. 1467, z 2012 r. poz. 1508 oraz z 2013 r. poz. 1683), które na podstawie art. 4 ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. poz. 1063) utraciło moc z dniem 1 stycznia 2020 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 28 lipca 2009 r. w sprawie przekazywania sprawozdań albo informacji dotyczących pomocy publicznej w rolnictwie lub rybołówstwie z wykorzystaniem aplikacji (Dz. U. poz. 1053, z 2011 r. poz. 1467, z 2012 r. poz. 1508 oraz z 2013 r. poz. 1683), które na podstawie art. 4 ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. poz. 1063) utraciło moc z dniem 1 stycznia 2020 r.
 

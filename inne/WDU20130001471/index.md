@@ -22,22 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-26 |
 | Data wydania | 2013-12-09 |
-| Wejście w życie | 2013-12-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001471) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1471/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237 oraz z 2013 r. poz. 714.) zarządza się, co następuje:
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy de minimis na tworzenie korzystnych warunków do rozwoju obszarów miejskich przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych, zwanej dalej „pomocą”.
 § 2.
 Przepisów rozporządzenia nie stosuje się do:
 1)
-pożyczki udzielanej przedsiębiorcy niespełniającemu kryteriów przedsiębiorstwa zagrożonego określonych przez Komisję Europejską, oprocentowanej według stopy referencyjnej ustalonej zgodnie z metodą określoną przez Komisję Europejską lub stopy wyższej;
+pożyczki udzielanej przedsiębiorcy niespełniającemu kryteriów przedsiębiorstwa zagrożonego określonych przez Komisję EuropejskąKryteria te są określone w pkt 9–11 komunikatu Komisji Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.)., oprocentowanej według stopy referencyjnej ustalonej zgodnie z metodą określoną przez Komisję EuropejskąMetoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). lub stopy wyższej;
 2)
-poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję Europejską, jeżeli:
+poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję EuropejskąKryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.)., jeżeli:
 a)
-koszt poręczenia odpowiada cenie rynkowej ustalonej zgodnie ze sposobem określonym przez Komisję Europejską lub cenie wyższej, a przy poręczeniu udzielonym mikro-, małemu lub średniemu przedsiębiorcy stosuje się bezpieczną stawkę roczną określoną przez Komisję Europejską lub stawkę wyższą,
+koszt poręczenia odpowiada cenie rynkowej ustalonej zgodnie ze sposobem określonym przez Komisję EuropejskąSposób ten jest określony w pkt 3.2 lit. d obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub cenie wyższej, a przy poręczeniu udzielonym mikro-, małemu lub średniemu przedsiębiorcy stosuje się bezpieczną stawkę roczną określoną przez Komisję EuropejskąStawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub stawkę wyższą,
 b)
 poręczenie jest terminowe i udzielane do kwoty z góry oznaczonej,
 c)
@@ -64,9 +63,9 @@ pożyczki – stanowi różnicę między zdyskontowaną rynkową wartością ods
 2)
 poręczenia – jest ustalana z zastosowaniem warunków określonych w art. 2 ust. 4 lit. d rozporządzenia nr 1998/2006.
 2.
-Rynkowa wartość odsetek, o której mowa w ust. 1 pkt 1, jest wyliczana na podstawie stóp referencyjnych ustalonych zgodnie z metodą określoną przez Komisję Europejską.
+Rynkowa wartość odsetek, o której mowa w ust. 1 pkt 1, jest wyliczana na podstawie stóp referencyjnych ustalonych zgodnie z metodą określoną przez Komisję EuropejskąMetoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6)..
 § 8.
-Pomoc nie może być udzielana przedsiębiorcom, którzy spełniają kryteria przedsiębiorstwa zagrożonego określone przez Komisję Europejską.
+Pomoc nie może być udzielana przedsiębiorcom, którzy spełniają kryteria przedsiębiorstwa zagrożonego określone przez Komisję EuropejskąKryteria te są określone w pkt 9–11 komunikatu Komisji Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.)..
 § 9.
 1.
 Do wydatków kwalifikujących się do objęcia pomocą zalicza się wydatki bezpośrednio związane z inwestycją i niezbędne do jej realizacji, poniesione z uwzględnieniem kryteriów, o których mowa w art. 5 pkt 6 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, pomniejszone o naliczony podatek od towarów i usług, z wyjątkiem gdy zgodnie z odrębnymi przepisami przedsiębiorcy nie przysługuje prawo zwrotu lub odliczenia tego podatku.
@@ -114,7 +113,7 @@ inne informacje, wskazane przez fundusz rozwoju obszarów miejskich, niezbędne 
 3.
 Do wniosku przedsiębiorca załącza:
 1)
-zaświadczenia albo oświadczenie, o których mowa w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.), dotyczące bieżącego roku podatkowego i dwóch poprzednich lat podatkowych;
+zaświadczenia albo oświadczenie, o których mowa w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.), dotyczące bieżącego roku podatkowego i dwóch poprzednich lat podatkowych;
 2)
 informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 4.
@@ -130,5 +129,5 @@ Pomoc może zostać udzielona, na podstawie umowy, przedsiębiorcy, którego wni
 § 14.
 Pomoc jest udzielana do dnia 30 czerwca 2014 r.
 § 15.
-Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237 oraz z 2013 r. poz. 714. 3) Kryteria te są określone w pkt 9–11 komunikatu Komisji Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.). 4) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). 5) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). 6) Sposób ten jest określony w pkt 3.2 lit. d obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). 7) Stawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). 8) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). 9) Kryteria te są określone w pkt 9–11 komunikatu Komisji Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.). 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381.
 

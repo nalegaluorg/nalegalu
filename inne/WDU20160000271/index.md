@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-02-29 |
 | Data wydania | 2016-03-03 |
-| Wejście w życie | 2016-03-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000271) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/271/text.pdf) |
 
@@ -58,13 +57,52 @@ W przypadku delegowania prokuratora do pełnienia obowiązków w Ministerstwie S
 § 6.
 W razie pełnienia więcej niż jednej funkcji prokuratorowi przysługuje jeden dodatek funkcyjny, najwyższy spośród dodatków przysługujących z tytułu pełnienia poszczególnych funkcji i ustalonych według zasad wskazanych w § 5 ust. 1 i 3. Dodatek ten może zostać podwyższony o 10–50%, z zastosowaniem zasad określonych w § 5 ust. 1 i 3.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 4 marca 2016 r.
+Rozporządzenie wchodzi w życie z dniem 4 marca 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 2 kwietnia 2010 r. w sprawie wynagrodzenia zasadniczego prokuratorów oraz wysokości dodatków funkcyjnych przysługujących prokuratorom (Dz. U. Nr 56, poz. 339), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) z dniem wejścia w życie niniejszego rozporządzenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 2 kwietnia 2010 r. w sprawie wynagrodzenia zasadniczego prokuratorów oraz wysokości dodatków funkcyjnych przysługujących prokuratorom (Dz. U. Nr 56, poz. 339), które traci moc na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — – Tabela stawek wynagrodzenia zasadniczego prokuratorów powszechnych jednostek organizacyjnych prokuratury oraz instytutu pamięci narodowej – komisji ścigania zbrodni przeciwko narodowi polskiemu oraz mnożników służących do ustalenia tego wynagrodzenia
 
-Stanowisko Stawkawynagrodzeniazasadniczego Mnożnik 1 2 3 prokurator prokuratury rejonowej pierwsza 2,05 druga 2,17 trzecia 2,28 czwarta 2,36 piąta 2,50 prokurator prokuratury okręgowej czwarta 2,36 piąta 2,50 szósta 2,65 siódma 2,75 ósma 2,92 prokurator prokuratury regionalnej, prokurator oddziałowej komisji ścigania zbrodni przeciwko Narodowi Polskiemu, prokurator oddziałowego biura lustracyjnego siódma 2,75 ósma 2,92 dziewiąta 3,12 dziesiąta 3,23 prokurator Prokuratury Krajowej, podstawowa dla sędziów Sądu Najwyższego 4,13 prokurator Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, prokurator Biura Lustracyjnego awansowa 115%stawki podstawowej
+Stanowisko Stawka
+wynagrodzenia
+zasadniczego Mnożnik 1 2 3 prokurator prokuratury rejonowej pierwsza 2,05 druga 2,17 trzecia 2,28 czwarta 2,36 piąta 2,50 prokurator prokuratury okręgowej czwarta 2,36 piąta 2,50 szósta 2,65 siódma 2,75 ósma 2,92 prokurator prokuratury regionalnej,
+prokurator oddziałowej komisji ścigania zbrodni przeciwko Narodowi Polskiemu,
+prokurator oddziałowego biura lustracyjnego siódma 2,75 ósma 2,92 dziewiąta 3,12 dziesiąta 3,23 prokurator Prokuratury Krajowej, podstawowa dla sędziów Sądu Najwyższego 4,13 prokurator Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,
+prokurator Biura Lustracyjnego awansowa 115%
+stawki podstawowej
 
 ## Załącznik nr 2 — – Tabela funkcji oraz mnożników służących do ustalania wysokości dodatków funkcyjnych
 
-Lp. Funkcja Mnożnik 1 2 3 1 Prokurator Generalny,Prokurator Krajowy 1,2stawka dodatku funkcyjnego dla Pierwszego Prezesa Sądu Najwyższego 2 Zastępca Prokuratora Generalnego, prokurator delegowany do pełnienia funkcji Podsekretarza Stanu w Ministerstwie Sprawiedliwości 1,0stawka dodatku funkcyjnego dla Prezesa Sądu Najwyższego 3 Zastępca Prokuratora Krajowego, dyrektor departamentu/biura w Prokuraturze Krajowej,Dyrektor Biura Lustracyjnego, prokurator regionalny, prokurator okręgowy, prokurator delegowany do pełnienia obowiązków dyrektora departamentu/biura w Ministerstwie Sprawiedliwości, prokurator delegowany do pełnienia funkcji Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury, prokurator delegowany do pełnienia funkcji poza granicami państwa 0,4–0,98 4 zastępca dyrektora departamentu/biura w Prokuraturze Krajowej, zastępca prokuratora regionalnego, naczelnik Wydziału Zamiejscowego Departamentu do spraw Przestępczości Zorganizowanej, zastępca prokuratora okręgowego, kierownik ośrodka zamiejscowego prokuratury okręgowej, prokurator delegowany do pełnienia obowiązków zastępcy dyrektora departamentu/biura w Ministerstwie Sprawiedliwości, prokurator delegowany do pełnienia funkcji zastępcy Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury 0,35–0,8 5 rzecznik dyscyplinarny 0,3–0,8 6 naczelnik wydziału w departamencie/biurze Prokuratury Krajowej, w prokuraturze regionalnej i w prokuraturze okręgowej, naczelnik wydziału w Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, naczelnik oddziałowej komisji ścigania zbrodni przeciwko Narodowi Polskiemu, naczelnik oddziałowego biura lustracyjnego, kierownik samodzielnego działu w prokuraturze regionalnej i w prokuraturze okręgowej, prokurator rejonowy, prokurator delegowany do pełnienia obowiązków naczelnika wydziału w Ministerstwie Sprawiedliwości, prokurator delegowany do prowadzenia zajęć szkoleniowych w Krajowej Szkole Sądownictwa i Prokuratury 0,3–0,55 7 kierownik działu w prokuraturze regionalnej i w prokuraturze okręgowej, wizytator w Prokuraturze Krajowej, w prokuraturze regionalnej i prokuraturze okręgowej, prokurator delegowany do pełnienia funkcji kierownika działu albo sekcji w Krajowej Szkole Sądownictwa i Prokuratury 0,25–0,5 8 zastępca prokuratora rejonowego, kierownik ośrodka zamiejscowego prokuratury rejonowej, prokurator delegowany do pełnienia obowiązków w Ministerstwie Sprawiedliwości, prokurator delegowany do pełnienia obowiązków w Prokuraturze Krajowej, prokurator delegowany do pełnienia czynności administracyjnych w Krajowej Szkole Sądownictwa i Prokuratury 0,2–0,45 9 kierownik szkolenia, rzecznik prasowy 0,2–0,4 10 kierownik działu w prokuraturze rejonowej, kierownik sekcji poza działem w prokuraturze rejonowej, kierownik sekcji w dziale w prokuraturze rejonowej 0,15–0,35
+Lp. Funkcja Mnożnik 1 2 3 1 Prokurator Generalny,
+Prokurator Krajowy 1,2
+stawka dodatku funkcyjnego dla Pierwszego Prezesa Sądu Najwyższego 2 Zastępca Prokuratora Generalnego,
+prokurator delegowany do pełnienia funkcji Podsekretarza Stanu w Ministerstwie Sprawiedliwości 1,0
+stawka dodatku funkcyjnego dla Prezesa Sądu Najwyższego 3 Zastępca Prokuratora Krajowego,
+dyrektor departamentu/biura w Prokuraturze Krajowej,
+Dyrektor Biura Lustracyjnego,
+prokurator regionalny,
+prokurator okręgowy,
+prokurator delegowany do pełnienia obowiązków dyrektora departamentu/biura w Ministerstwie Sprawiedliwości,
+prokurator delegowany do pełnienia funkcji Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury,
+prokurator delegowany do pełnienia funkcji poza granicami państwa 0,4–0,98 4 zastępca dyrektora departamentu/biura w Prokuraturze Krajowej,
+zastępca prokuratora regionalnego,
+naczelnik Wydziału Zamiejscowego Departamentu do spraw Przestępczości Zorganizowanej,
+zastępca prokuratora okręgowego,
+kierownik ośrodka zamiejscowego prokuratury okręgowej,
+prokurator delegowany do pełnienia obowiązków zastępcy dyrektora departamentu/biura w Ministerstwie Sprawiedliwości,
+prokurator delegowany do pełnienia funkcji zastępcy Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury 0,35–0,8 5 rzecznik dyscyplinarny 0,3–0,8 6 naczelnik wydziału w departamencie/biurze Prokuratury Krajowej, w prokuraturze regionalnej i w prokuraturze okręgowej,
+naczelnik wydziału w Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,
+naczelnik oddziałowej komisji ścigania zbrodni przeciwko Narodowi Polskiemu,
+naczelnik oddziałowego biura lustracyjnego,
+kierownik samodzielnego działu w prokuraturze regionalnej i w prokuraturze okręgowej,
+prokurator rejonowy,
+prokurator delegowany do pełnienia obowiązków naczelnika wydziału w Ministerstwie Sprawiedliwości,
+prokurator delegowany do prowadzenia zajęć szkoleniowych w Krajowej Szkole Sądownictwa i Prokuratury 0,3–0,55 7 kierownik działu w prokuraturze regionalnej i w prokuraturze okręgowej,
+wizytator w Prokuraturze Krajowej, w prokuraturze regionalnej i prokuraturze okręgowej,
+prokurator delegowany do pełnienia funkcji kierownika działu albo sekcji w Krajowej Szkole Sądownictwa i Prokuratury 0,25–0,5 8 zastępca prokuratora rejonowego,
+kierownik ośrodka zamiejscowego prokuratury rejonowej,
+prokurator delegowany do pełnienia obowiązków w Ministerstwie Sprawiedliwości,
+prokurator delegowany do pełnienia obowiązków w Prokuraturze Krajowej,
+prokurator delegowany do pełnienia czynności administracyjnych w Krajowej Szkole Sądownictwa i Prokuratury 0,2–0,45 9 kierownik szkolenia,
+rzecznik prasowy 0,2–0,4 10 kierownik działu w prokuraturze rejonowej,
+kierownik sekcji poza działem w prokuraturze rejonowej,
+kierownik sekcji w dziale w prokuraturze rejonowej 0,15–0,35
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 13 czerwca 2008 r. o zmianie ustawy – Kodeks spółek handlowych
+# Ustawa z dnia 13 czerwca 2008 r. o zmianie ustawy – Kodeks spółek handlowych Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2006/68/WE Parlamentu Europejskiego i Rady z dnia 6 września 2006 r. zmieniającej dyrektywę 77/91/EWG Rady w sprawie tworzenia spółek akcyjnych i utrzymywania oraz zmian wysokości ich kapitału (Dz. Urz. UE L 264 z 25.09.2006, str. 32).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-06-13 |
 | Data wydania | 2008-07-04 |
-| Wejście w życie | 2008-10-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081180747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/747/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540 oraz z 2008 r. Nr 86, poz. 524.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15 § 2 otrzymuje brzmienie: „
 
@@ -142,5 +141,5 @@ source: "eli-html"
 
 § 3. W przypadku gdy spółka przejmująca albo spółka nowo zawiązana jest spółką akcyjną, do składników majątku przypadających tej spółce w planie podziału stosuje się odpowiednio przepisy art. 311–3121. Do sprawozdania, o którym mowa w § 1, należy dołączyć informację o sporządzeniu w trybie art. 312 opinii biegłych rewidentów. Należy także wskazać sąd rejestrowy, w którym opinia biegłych rewidentów została złożona. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2006/68/WE Parlamentu Europejskiego i Rady z dnia 6 września 2006 r. zmieniającej dyrektywę 77/91/EWG Rady w sprawie tworzenia spółek akcyjnych i utrzymywania oraz zmian wysokości ich kapitału (Dz. Urz. UE L 264 z 25.09.2006, str. 32). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540 oraz z 2008 r. Nr 86, poz. 524.
 

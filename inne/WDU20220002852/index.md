@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 28 grudnia 2022 r. w sprawie wyłączenia obowiązku poboru zryczałtowanego podatku dochodowego od osób prawnych
+# Rozporządzenie Ministra Finansówz dnia 28 grudnia 2022 r. w sprawie wyłączenia obowiązku poboru zryczałtowanego podatku dochodowego od osób prawnych Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-28 |
 | Data wydania | 2022-12-30 |
-| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2025-10-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002852) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2852/text.pdf) |
 
@@ -40,8 +39,7 @@ Skarb Państwa,
 b)
 Bank Gospodarstwa Krajowego, przeznaczonych na finansowanie ustawowych celów działalności Banku Gospodarstwa Krajowego, dotyczących wspierania polityki gospodarczej Rady Ministrów, realizacji rządowych programów społeczno-gospodarczych, programów samorządności lokalnej i rozwoju regionalnego,
 c)
-Bankowy Fundusz Gwarancyjny
-uzyskanych przez podatników, o których mowa w art. 3 ust. 2 ustawy;
+Bankowy Fundusz Gwarancyjny – uzyskanych przez podatników, o których mowa w art. 3 ust. 2 ustawy;
 2)
 na rzecz jednostek gospodarczych utworzonych przez organ administracji państwowej wspólnie z innymi państwami na podstawie porozumienia lub umowy, chyba że porozumienia te lub umowy stanowią inaczej;
 3)
@@ -61,6 +59,5 @@ Przepisy § 2 i § 3 stosuje się, jeżeli spełnione zostały warunki do niepob
 § 5.
 Traci moc rozporządzenie Ministra Finansów z dnia 31 grudnia 2018 r. w sprawie wyłączenia lub ograniczenia stosowania art. 26 ust. 2e ustawy o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2275).
 § 6.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 

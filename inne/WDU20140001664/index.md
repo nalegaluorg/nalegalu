@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-10-10 |
 | Data wydania | 2014-11-27 |
-| Wejście w życie | 2014-12-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001664) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1664/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. Nr 90, poz. 450, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 101, poz. 1177, z 2000 r. Nr 62, poz. 718, z 2002 r. Nr 74, poz. 676, z 2006 r. Nr 104, poz. 708 i 711 i Nr 194, poz. 1432, z 2007 r. Nr 25, poz. 162 i Nr 123, poz. 848, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 155, poz. 1041 oraz z 2011 r. Nr 205, poz. 1207.) wprowadza się następujące zmiany:
 
 - **1)** w art. 15a: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Krzyż Wolności i Solidarności jest odznaczeniem o charakterze pamiątkowym, będącym nagrodą dla działaczy opozycji wobec dyktatury komunistycznej, którzy w okresie od 1 stycznia 1956 r. do 4 czerwca 1989 r., z wyłączeniem okresu od 31 sierpnia 1980 r. do 12 grudnia 1981 r., na terytorium Polski co najmniej przez 12 miesięcy: ” , dodaje się ust. 4 w brzmieniu: „
     - **a)**
@@ -38,5 +37,5 @@ source: "eli-html"
 
 4. Nieprzedstawienie Prezydentowi wniosku o nadanie Krzyża Wolności i Solidarności przez organ uprawniony wymaga zawiadomienia zgłaszającego inicjatywę. ” .
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 101, poz. 1177, z 2000 r. Nr 62, poz. 718, z 2002 r. Nr 74, poz. 676, z 2006 r. Nr 104, poz. 708 i 711 i Nr 194, poz. 1432, z 2007 r. Nr 25, poz. 162 i Nr 123, poz. 848, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 155, poz. 1041 oraz z 2011 r. Nr 205, poz. 1207.
 

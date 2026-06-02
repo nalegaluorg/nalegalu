@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 9 marca 2022 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw
+# Ustawa z dnia 9 marca 2022 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych oraz ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-09 |
 | Data wydania | 2022-04-05 |
-| Wejście w życie | 2022-04-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/755/text.pdf) |
 
@@ -53,7 +52,7 @@ source: "eli-html"
 
 - **6)** w art. 49 w pkt 2 wyrazy „art. 4 pkt 1–5 i 7” zastępuje się wyrazami „art. 4 pkt 1–5”.
 
-**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 432, 619, 1621, 1834, 1981 i 2105 oraz z 2022 r. poz. 655.) wprowadza się następujące zmiany:
 
 - **1)** w art. 50 w ust. 18 w części wspólnej użyte dwukrotnie wyrazy „, świadczeń z funduszu alimentacyjnego oraz świadczeń wychowawczych” zastępuje się wyrazami „oraz świadczeń z funduszu alimentacyjnego”;
 - **2)** w art. 83 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
@@ -90,5 +89,5 @@ source: "eli-html"
 
 **Art. 7.** Do postępowań wszczętych na podstawie art. 83 ust. 1 pkt 3a ustawy zmienianej w art. 2 i niezakończonych wydaniem decyzji prawomocnej przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 83 ust. 1a i 1b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 i art. 4, które wchodzą w życie z dniem 1 stycznia 2023 r.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 i art. 4, które wchodzą w życie z dniem 1 stycznia 2023 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych oraz ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 432, 619, 1621, 1834, 1981 i 2105 oraz z 2022 r. poz. 655.
 

@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-26 |
 | Data wydania | 2015-03-30 |
-| Wejście w życie | 2015-03-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/454/text.pdf) |
 
@@ -41,8 +40,7 @@ publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, pro
 4)
 publicznych placówkach doskonalenia nauczycieli szkół artystycznych, prowadzonych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego,
 5)
-publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, prowadzonych przez ministra właściwego do spraw rolnictwa
-zwanych dalej „nauczycielami”.
+publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, prowadzonych przez ministra właściwego do spraw rolnictwa zwanych dalej „nauczycielami”.
 § 2.
 1.
 Wysokość dodatku służbowego dla nauczyciela jest uzależniona od zajmowanego stanowiska, zakresu obowiązków oraz złożoności wykonywanych zadań.
@@ -97,7 +95,7 @@ Dodatek za wysługę lat przysługuje za dni, za które nauczyciel otrzymuje wyn
 § 5.
 Do dnia 31 grudnia 2015 r. wysokość dodatku służbowego i dodatku motywacyjnego dla dyrektora okręgowej komisji egzaminacyjnej ustala minister właściwy do spraw oświaty i wychowania.
 § 6.
-Rozporządzenie wchodzi w życie z dniem 31 marca 2015 r.
+Rozporządzenie wchodzi w życie z dniem 31 marca 2015 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 28 stycznia 2005 r. w sprawie dodatków do wynagrodzenia zasadniczego dla nauczycieli mianowanych i dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych (Dz. U. Nr 22, poz. 180), które traci moc z dniem 31 marca 2015 r. w związku z wejściem w życie ustawy z dnia 20 lutego 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 357). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 28 stycznia 2005 r. w sprawie dodatków do wynagrodzenia zasadniczego dla nauczycieli mianowanych i dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych (Dz. U. Nr 22, poz. 180), które traci moc z dniem 31 marca 2015 r. w związku z wejściem w życie ustawy z dnia 20 lutego 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 357).
 Załącznik – Wysokość stawek dodatku służbowego
 Lp. Stanowisko Wysokość dodatku miesięcznie w % w stosunku do wynagrodzenia zasadniczego Centralna Komisja Egzaminacyjna 1 Dyrektor 50–200 2 Wicedyrektor 40–165 3 Kierownik wydziału (zespołu, pracowni) 30–145 4 Zastępca kierownika wydziału (zespołu, pracowni) 25–140 5 Starszy ekspert 20–105 6 Ekspert 15–85 Okręgowe komisje egzaminacyjne 1 Dyrektor 40–180 2 Wicedyrektor 30–165 3 Kierownik wydziału (zespołu, pracowni) 25–125 4 Zastępca kierownika wydziału (zespołu, pracowni) 20–105 5 Starszy egzaminator i starszy ekspert 15–100 6 Egzaminator i ekspert 10–80 Publiczne placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym, publiczne placówki doskonalenia nauczycieli szkól artystycznych oraz publiczne placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych 1 Dyrektor i wicedyrektor 5–100 2 Kierownik wydziału (zespołu, pracowni) i ich zastępcy (albo inne stanowiska kierownicze przewidziane statutem placówki) 5–100 3 Nauczyciel-konsultant i nauczyciel-doradca metodyczny 2–20
 

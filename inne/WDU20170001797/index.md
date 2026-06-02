@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-20 |
 | Data wydania | 2017-09-28 |
-| Wejście w życie | 2017-10-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001797) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1797/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 16 ust. 2 i 3 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2016 r. poz. 1999 i 2261 oraz z 2017 r. poz. 1139) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Sprawiedliwości z dnia 22 października 2015 r. w sprawie opłat za czynności adwokackie (Dz. U. poz. 1800 oraz z 2016 r. poz. 1668) w § 9 ust. 2 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Sprawiedliwości z dnia 22 października 2015 r. w sprawie opłat za czynności adwokackie (Dz. U. poz. 1800 oraz z 2016 r. poz. 1668) w § 9 ust. 2 otrzymuje brzmienie: „
 2.
-Stawki minimalne wynoszą 180 zł w sprawach o świadczenia pieniężne z ubezpieczenia społecznego i zaopatrzenia emerytalnego oraz w sprawach dotyczących podlegania ubezpieczeniom społecznym.
-” .
+Stawki minimalne wynoszą 180 zł w sprawach o świadczenia pieniężne z ubezpieczenia społecznego i zaopatrzenia emerytalnego oraz w sprawach dotyczących podlegania ubezpieczeniom społecznym. ” .
 § 2.
 Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe do czasu zakończenia postępowania w danej instancji.
 § 3.

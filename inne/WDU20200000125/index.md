@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 15 stycznia 2020 r. zmieniające rozporządzenie w sprawie terytorialnego zakresu działania dyrektorów urzędów żeglugi śródlądowej i siedzib ich urzędów oraz siedzib i właściwości miejscowej delegatur tych urzędów
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 15 stycznia 2020 r. zmieniające rozporządzenie w sprawie terytorialnego zakresu działania dyrektorów urzędów żeglugi śródlądowej i siedzib ich urzędów oraz siedzib i właściwości miejscowej delegatur tych urzędów Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-15 |
 | Data wydania | 2020-01-27 |
-| Wejście w życie | 2020-02-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/125/text.pdf) |
 
@@ -33,8 +32,7 @@ W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 
 1)
 w § 3:
 a)
-w pkt 1 lit. a otrzymuje brzmienie:
-„
+w pkt 1 lit. a otrzymuje brzmienie: „
 a)
 śródlądowe drogi wodne:
 – rzeka Wisła od ujścia rzeki Kamiennej (km 324,5) do ujścia do Zatoki Gdańskiej wraz z Jeziorem Włocławskim,
@@ -51,11 +49,22 @@ a)
 – Kanał Bartnicki wraz z jeziorem Bartężek,
 – rzeka Elbląg od jeziora Druzno do granicy z morskimi wodami wewnętrznymi,
 – Kanał Augustowski od połączenia z rzeką Biebrzą do granicy państwa wraz z jeziorami znajdującymi się na trasie tego kanału,
-– system Wielkich Jezior Mazurskich obejmujący: – – jeziora: Roś, Seksty, Śniardwy, Mikołajskie, Tałty, Tałtowisko, Kotek, Szymon, Szymoneckie, Jagodne, Boczne, Niegocin, Tajty, Kisajno, Dargin, Kirsajty, Mamry, – – rzeki i kanały łączące jeziora wymienione w podwójnym tiret pierwszym od miejscowości Pisz do miejscowości Węgorzewo, – – jeziora stanowiące boczne odgałęzienia drogi wodnej Pisz – Węgorzewo: Mikołajskie, Bełdany, Guzianka Mała, Guzianka Wielka, Nidzkie (do 3. km, stanowiącego granicę z rezerwatem „Jezioro Nidzkie”) wraz z Kanałem Nidzkim, Tałty, Ryńskie, Niegocin, Tajty, Kisajno wraz z Kanałem Niegocińskim i kanałem Piękna Góra, Mamry, Święcajty, – rzeka Pisa od jeziora Roś do ujścia do rzeki Narwi, – rzeka Biebrza od ujścia Kanału Augustowskiego do ujścia do rzeki Narwi, – Kanał Żerański, – rzeka Bug od ujścia rzeki Muchawiec do ujścia do rzeki Narwi, – rzeka Narew od ujścia rzeki Biebrzy do ujścia do rzeki Wisły wraz z Jeziorem Zegrzyńskim, – Kanał Dobrzycki wraz z jeziorem Ewingi, – rzeka Motława w starym korycie w miejscowości Gdańsk do granicy z morskimi wodami wewnętrznymi, – rzeka Tuga od miejscowości Nowy Dwór Gdański do ujścia do rzeki Szkarpawy, – rzeka Wisła Królewiecka,
+system Wielkich Jezior Mazurskich obejmujący:
+– – jeziora: Roś, Seksty, Śniardwy, Mikołajskie, Tałty, Tałtowisko, Kotek, Szymon, Szymoneckie, Jagodne, Boczne, Niegocin, Tajty, Kisajno, Dargin, Kirsajty, Mamry,
+– – rzeki i kanały łączące jeziora wymienione w podwójnym tiret pierwszym od miejscowości Pisz do miejscowości Węgorzewo,
+– – jeziora stanowiące boczne odgałęzienia drogi wodnej Pisz – Węgorzewo: Mikołajskie, Bełdany, Guzianka Mała, Guzianka Wielka, Nidzkie (do 3. km, stanowiącego granicę z rezerwatem „Jezioro Nidzkie”) wraz z Kanałem Nidzkim, Tałty, Ryńskie, Niegocin, Tajty, Kisajno wraz z Kanałem Niegocińskim i kanałem Piękna Góra, Mamry, Święcajty,
+– rzeka Pisa od jeziora Roś do ujścia do rzeki Narwi,
+– rzeka Biebrza od ujścia Kanału Augustowskiego do ujścia do rzeki Narwi,
+– Kanał Żerański,
+– rzeka Bug od ujścia rzeki Muchawiec do ujścia do rzeki Narwi,
+– rzeka Narew od ujścia rzeki Biebrzy do ujścia do rzeki Wisły wraz z Jeziorem Zegrzyńskim,
+– Kanał Dobrzycki wraz z jeziorem Ewingi,
+– rzeka Motława w starym korycie w miejscowości Gdańsk do granicy z morskimi wodami wewnętrznymi,
+– rzeka Tuga od miejscowości Nowy Dwór Gdański do ujścia do rzeki Szkarpawy,
+– rzeka Wisła Królewiecka,
 ” ,
 b)
-w pkt 2 lit. a otrzymuje brzmienie:
-„
+w pkt 2 lit. a otrzymuje brzmienie: „
 a)
 śródlądowe drogi wodne:
 – rzeka Odra od miejscowości Racibórz (km 51,2) wraz z kanałami śluz Krapkowice i Oława oraz systemem dróg wodnych we Wrocławiu, tj. Starą Odrą, Kanałem Miejskim i Kanałem Żeglugowym (Nawigacyjnym), do ujścia rzeki Nysy Łużyckiej (km 542,4),
@@ -64,21 +73,53 @@ a)
 ” ,
 c)
 w pkt 3 w lit. a:
-– tiret pierwsze otrzymuje brzmienie: „ – rzeka Odra od ujścia rzeki Nysy Łużyckiej (km 542,4) do połączenia z rzeką Odrą Wschodnią, wraz z tą rzeką i bocznymi odgałęzieniami, która przechodzi od przekopu Klucz-Ustowo w rzekę Regalicę, wraz z tą rzeką i bocznymi odgałęzieniami do ujścia do jeziora Dąbie, ” ,
-– tiret trzecie otrzymuje brzmienie: „ – rzeka Odra Zachodnia od jazu w miejscowości Widuchowa do granicy z morskimi wodami wewnętrznymi wraz z bocznymi odgałęzieniami (kanał Marwice-Gartz, Kanał Kurowski, Kanał Zielony) i przekop Klucz-Ustowo łączący rzekę Odrę Wschodnią z rzeką Odrą Zachodnią, ” ,
+tiret pierwsze otrzymuje brzmienie: „
+– rzeka Odra od ujścia rzeki Nysy Łużyckiej (km 542,4) do połączenia z rzeką Odrą Wschodnią, wraz z tą rzeką i bocznymi odgałęzieniami, która przechodzi od przekopu Klucz-Ustowo w rzekę Regalicę, wraz z tą rzeką i bocznymi odgałęzieniami do ujścia do jeziora Dąbie,
+” ,
+tiret trzecie otrzymuje brzmienie: „
+– rzeka Odra Zachodnia od jazu w miejscowości Widuchowa do granicy z morskimi wodami wewnętrznymi wraz z bocznymi odgałęzieniami (kanał Marwice-Gartz, Kanał Kurowski, Kanał Zielony) i przekop Klucz-Ustowo łączący rzekę Odrę Wschodnią z rzeką Odrą Zachodnią,
+” ,
 – uchyla się tiret czwarte;
 2)
 w § 5:
 a)
 w ust. 1:
-– w pkt 1 lit. a otrzymuje brzmienie: „ a) śródlądowe drogi wodne: – rzeka Wisła od ujścia rzeki Wdy do ujścia do Zatoki Gdańskiej, – rzeka Martwa Wisła od rzeki Wisły do granicy z morskimi wodami wewnętrznymi wraz z jej odnogą do miejscowości Błotnik, – rzeka Nogat, – rzeka Szkarpawa, – Kanał Jagielloński od połączenia z rzeką Nogat do granicy z morskimi wodami wewnętrznymi, – Kanał Elbląski wraz z jeziorami na jego trasie oraz jeziorami: Druzno, Jeziorak, Mały Jeziorak, Szeląg Mały i Szeląg Wielki, – Kanał Bartnicki wraz z jeziorem Bartężek, – rzeka Elbląg od Jeziora Druzno do granicy z morskimi wodami wewnętrznymi, – Kanał Dobrzycki wraz z jeziorem Ewingi, – rzeka Motława w starym korycie w miejscowości Gdańsk do granicy z morskimi wodami wewnętrznymi, – rzeka Tuga od miejscowości Nowy Dwór Gdański do ujścia do rzeki Szkarpawy, – rzeka Wisła Królewiecka, ” ,
-– w pkt 2 w lit. a tiret drugie otrzymuje brzmienie: „ – system Wielkich Jezior Mazurskich obejmujący: – – jeziora: Roś, Seksty, Śniardwy, Mikołajskie, Tałty, Tałtowisko, Kotek, Szymon, Szymoneckie, Jagodne, Boczne, Niegocin, Tajty, Kisajno, Dargin, Kirsajty, Mamry, – – rzeki i kanały łączące jeziora wymienione w podwójnym tiret pierwszym od miejscowości Pisz do miejscowości Węgorzewo, – – jeziora stanowiące boczne odgałęzienia drogi wodnej Pisz – Węgorzewo: Mikołajskie, Bełdany, Guzianka Mała, Guzianka Wielka, Nidzkie (do 3. km, stanowiącego granicę z rezerwatem „Jezioro Nidzkie”) wraz z Kanałem Nidzkim, Tałty, Ryńskie, Niegocin, Tajty, Kisajno wraz z Kanałem Niegocińskim i kanałem Piękna Góra, Mamry, Święcajty, ” ,
-– w pkt 3 w lit. a tiret pierwsze otrzymuje brzmienie: „ – rzeka Wisła od ujścia rzeki Kamiennej (km 324,5) do miejscowości Silno (km 719,9) wraz z Jeziorem Włocławskim, ” ,
+w pkt 1 lit. a otrzymuje brzmienie: „
+a)
+śródlądowe drogi wodne:
+– rzeka Wisła od ujścia rzeki Wdy do ujścia do Zatoki Gdańskiej,
+– rzeka Martwa Wisła od rzeki Wisły do granicy z morskimi wodami wewnętrznymi wraz z jej odnogą do miejscowości Błotnik,
+– rzeka Nogat,
+– rzeka Szkarpawa,
+– Kanał Jagielloński od połączenia z rzeką Nogat do granicy z morskimi wodami wewnętrznymi,
+– Kanał Elbląski wraz z jeziorami na jego trasie oraz jeziorami: Druzno, Jeziorak, Mały Jeziorak, Szeląg Mały i Szeląg Wielki,
+– Kanał Bartnicki wraz z jeziorem Bartężek,
+– rzeka Elbląg od Jeziora Druzno do granicy z morskimi wodami wewnętrznymi,
+– Kanał Dobrzycki wraz z jeziorem Ewingi,
+– rzeka Motława w starym korycie w miejscowości Gdańsk do granicy z morskimi wodami wewnętrznymi,
+– rzeka Tuga od miejscowości Nowy Dwór Gdański do ujścia do rzeki Szkarpawy,
+– rzeka Wisła Królewiecka,
+” ,
+w pkt 2 w lit. a tiret drugie otrzymuje brzmienie: „
+system Wielkich Jezior Mazurskich obejmujący:
+– – jeziora: Roś, Seksty, Śniardwy, Mikołajskie, Tałty, Tałtowisko, Kotek, Szymon, Szymoneckie, Jagodne, Boczne, Niegocin, Tajty, Kisajno, Dargin, Kirsajty, Mamry,
+– – rzeki i kanały łączące jeziora wymienione w podwójnym tiret pierwszym od miejscowości Pisz do miejscowości Węgorzewo,
+– – jeziora stanowiące boczne odgałęzienia drogi wodnej Pisz – Węgorzewo: Mikołajskie, Bełdany, Guzianka Mała, Guzianka Wielka, Nidzkie (do 3. km, stanowiącego granicę z rezerwatem „Jezioro Nidzkie”) wraz z Kanałem Nidzkim, Tałty, Ryńskie, Niegocin, Tajty, Kisajno wraz z Kanałem Niegocińskim i kanałem Piękna Góra, Mamry, Święcajty,
+” ,
+w pkt 3 w lit. a tiret pierwsze otrzymuje brzmienie: „
+– rzeka Wisła od ujścia rzeki Kamiennej (km 324,5) do miejscowości Silno (km 719,9) wraz z Jeziorem Włocławskim,
+” ,
 b)
 w ust. 2:
-– w pkt 1 lit. a otrzymuje brzmienie: „ a) śródlądowe drogi wodne – rzeka Wisła od ujścia rzeki Przemszy do połączenia z Kanałem Łączańskim wraz z tym kanałem i od tego kanału do ujścia rzeki Kamiennej (km 324,5), ” ,
-– w pkt 2 lit. a otrzymuje brzmienie: „ a) śródlądowe drogi wodne: – rzeka Odra od miejscowości Racibórz (km 51,2) wraz z kanałami śluz Krapkowice do ujścia rzeki Nysy Kłodzkiej, – Kanał Gliwicki wraz z Kanałem Kędzierzyńskim, ” .
+w pkt 1 lit. a otrzymuje brzmienie: „
+a)
+śródlądowe drogi wodne – rzeka Wisła od ujścia rzeki Przemszy do połączenia z Kanałem Łączańskim wraz z tym kanałem i od tego kanału do ujścia rzeki Kamiennej (km 324,5), ” ,
+w pkt 2 lit. a otrzymuje brzmienie: „
+a)
+śródlądowe drogi wodne:
+– rzeka Odra od miejscowości Racibórz (km 51,2) wraz z kanałami śluz Krapkowice do ujścia rzeki Nysy Kłodzkiej,
+– Kanał Gliwicki wraz z Kanałem Kędzierzyńskim,
+” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 

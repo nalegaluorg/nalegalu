@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 20 grudnia 2024 r. zmieniające rozporządzenie w sprawie programu pilotażowego w zakresie edukacji żywieniowej oraz poprawy jakości żywienia w szpitalach – „Dobry posiłek w szpitalu”
+# Rozporządzenie Ministra Zdrowiaz dnia 20 grudnia 2024 r. zmieniające rozporządzenie w sprawie programu pilotażowego w zakresie edukacji żywieniowej oraz poprawy jakości żywienia w szpitalach – „Dobry posiłek w szpitalu” Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-20 |
 | Data wydania | 2024-12-23 |
-| Wejście w życie | 2024-12-24 |
 | Ostatnia zmiana | 2026-02-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001924) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1924/text.pdf) |
 
@@ -35,14 +34,11 @@ w § 4:
 a)
 w pkt 2 wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „30 czerwca 2025 r.”,
 b)
-pkt 3 otrzymuje brzmienie:
-„
+pkt 3 otrzymuje brzmienie: „
 3)
-ewaluacji, trwający do dnia 30 września 2025 r. i obejmujący etap organizacji i częściowej realizacji programu pilotażowego od dnia 27 września 2023 r. do dnia 31 lipca 2024 r. oraz od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.
-” ;
+ewaluacji, trwający do dnia 30 września 2025 r. i obejmujący etap organizacji i częściowej realizacji programu pilotażowego od dnia 27 września 2023 r. do dnia 31 lipca 2024 r. oraz od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r. ” ;
 2)
 w § 13 w ust. 2 wyrazy „30 września 2024 r.” zastępuje się wyrazami „30 września 2025 r.”.
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 stycznia 2020 r. w sprawie zasad bioasekuracji, jakie powinny być przestrzegane podczas polowania lub odstrzału sanitarnego oraz przy wykonywaniu czynności związanych z zagospodarowaniem zwierzęcia łownego z gatunku dzik
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 stycznia 2020 r. w sprawie zasad bioasekuracji, jakie powinny być przestrzegane podczas polowania lub odstrzału sanitarnego oraz przy wykonywaniu czynności związanych z zagospodarowaniem zwierzęcia łownego z gatunku dzik Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-01-30 |
 | Data wydania | 2020-01-31 |
-| Wejście w życie | 2020-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000160) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/160/text.pdf) |
 
@@ -57,6 +56,5 @@ Na obszarach innych niż wymienione w § 1 podczas polowania lub odstrzału sani
 § 3.
 Czynności odkażania, w tym odkażania miejsc patroszenia oraz innych miejsc zanieczyszczonych krwią, wydzielinami lub wydalinami odstrzelonych dzików, przeprowadza się przy użyciu produktów biobójczych udostępnionych na rynku i stosowanych na terytorium Rzeczypospolitej Polskiej zgodnie z art. 5 ustawy z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. z 2018 r. poz. 2231).
 § 4.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 24 czerwca 2021 r. o zmianie ustawy o Agencji Badań Medycznych oraz niektórych innych ustaw
+# Ustawa z dnia 24 czerwca 2021 r. o zmianie ustawy o Agencji Badań Medycznych oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, ustawę z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw oraz ustawę z dnia 10 grudnia 2020 r. o zawodzie farmaceuty.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-24 |
 | Data wydania | 2021-08-25 |
-| Wejście w życie | 2021-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001559) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1559/text.pdf) |
 
@@ -72,8 +71,11 @@ source: "eli-html"
 - **b)**
 - **8)** w art. 27 w ust. 2 pkt 1 otrzymuje brzmienie: „
 - **1)** przychodach, w tym dotacjach, o których mowa w art. 28 ust. 1 pkt 1–2, oraz odpisie wymienionym w art. 28 ust. 1 pkt 3; ” ;
-- **9)** w art. 28: w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) dotacja celowa na finansowanie lub dofinansowanie kosztów inwestycji związanych z obsługą realizacji zadań określonych w pkt 1; ” , – pkt 3 otrzymuje brzmienie: „ 3) odpis, o którym mowa w art. 97 ust. 3e ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na realizację i finansowanie zadań, o których mowa w art. 15 ust. 1 pkt 5 i 6 oraz ust. 2 pkt 1 i 2; ” , w ust. 2 wyrazy „ust. 1 pkt 1 i 2” zastępuje się wyrazami „ust. 1 pkt 1–2”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **9)** w art. 28: w ust. 1: po pkt 1 dodaje się pkt 1a w brzmieniu: „
     - **a)**
+
+- **1a)** dotacja celowa na finansowanie lub dofinansowanie kosztów inwestycji związanych z obsługą realizacji zadań określonych w pkt 1; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** odpis, o którym mowa w art. 97 ust. 3e ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na realizację i finansowanie zadań, o których mowa w art. 15 ust. 1 pkt 5 i 6 oraz ust. 2 pkt 1 i 2; ” , w ust. 2 wyrazy „ust. 1 pkt 1 i 2” zastępuje się wyrazami „ust. 1 pkt 1–2”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
     - **c)**
 
@@ -200,7 +202,7 @@ source: "eli-html"
 
 2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Krajowej Rady Fizjoterapeutów, określi, w drodze rozporządzenia, wzór dokumentu „Prawo wykonywania zawodu fizjoterapeuty” oraz szczegółowe rodzaje zabezpieczenia go przed przerobieniem, podrobieniem lub użyciem przez osobę nieuprawnioną, kierując się koniecznością zapewnienia ochrony danych osobowych oraz sposobem użytkowania dokumentu. ” .
 
-**Art. 9.** W ustawie z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 399, z późn. zm.) w art. 18 ust. 1 otrzymuje brzmienie: „ 1. Do dnia 31 grudnia 2026 r. „administratorem TOPSOR”, o którym mowa w art. 33a ust. 4a ustawy zmienianej w art. 4, w brzmieniu nadanym ustawą z dnia 24 czerwca 2021 r. o zmianie ustawy o Agencji Badań Medycznych oraz niektórych innych ustaw (Dz. U. z 2021 r. poz. 1559), jest podmiot leczniczy utworzony przez ministra właściwego do spraw zdrowia w celu realizacji zadań lotniczych zespołów ratownictwa medycznego. ” .
+**Art. 9.** W ustawie z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 399, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 999, 1096 i 1905, z 2020 r. poz. 1493 i 2401 oraz z 2021 r. poz. 1292.) w art. 18 ust. 1 otrzymuje brzmienie: „ 1. Do dnia 31 grudnia 2026 r. „administratorem TOPSOR”, o którym mowa w art. 33a ust. 4a ustawy zmienianej w art. 4, w brzmieniu nadanym ustawą z dnia 24 czerwca 2021 r. o zmianie ustawy o Agencji Badań Medycznych oraz niektórych innych ustaw (Dz. U. z 2021 r. poz. 1559), jest podmiot leczniczy utworzony przez ministra właściwego do spraw zdrowia w celu realizacji zadań lotniczych zespołów ratownictwa medycznego. ” .
 
 **Art. 10.** W ustawie z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2021 r. poz. 97) w art. 17:
 
@@ -214,17 +216,17 @@ source: "eli-html"
 
 - **1)** „Prawo wykonywania zawodu diagnosty laboratoryjnego”,
 - **2)** „Prawo wykonywania zawodu pielęgniarki”, „Prawo wykonywania zawodu położnej”, „Ograniczone prawo wykonywania zawodu pielęgniarki”, „Ograniczone prawo wykonywania zawodu położnej”,
-- **3)** „Prawo wykonywania zawodu fizjoterapeuty” zachowują ważność.
+- **3)** „Prawo wykonywania zawodu fizjoterapeuty” – zachowują ważność.
 
 **Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 10 ust. 4 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 4 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą,
 - **2)** art. 41 ust. 2 ustawy zmienianej w art. 7 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 41 ust. 2 ustawy zmienianej w art. 7 w brzmieniu nadanym niniejszą ustawą,
-- **3)** art. 24 ust. 2 ustawy zmienianej w art. 8 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24 ust. 2 ustawy zmienianej w art. 8 w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż do dnia 11 lipca 2022 r.
+- **3)** art. 24 ust. 2 ustawy zmienianej w art. 8 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24 ust. 2 ustawy zmienianej w art. 8 w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż do dnia 11 lipca 2022 r.
 
 **Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 - **1)** art. 5 pkt 1–5, art. 6 i art. 9, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2021 r.;
-- **2)** art. 5 pkt 6, który wchodzi w życie z dniem 1 stycznia 2027 r.
+- **2)** art. 5 pkt 6, który wchodzi w życie z dniem 1 stycznia 2027 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, ustawę z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw oraz ustawę z dnia 10 grudnia 2020 r. o zawodzie farmaceuty. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 999, 1096 i 1905, z 2020 r. poz. 1493 i 2401 oraz z 2021 r. poz. 1292.
 
 

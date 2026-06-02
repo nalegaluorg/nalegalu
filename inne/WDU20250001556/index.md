@@ -24,7 +24,6 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-09-26 |
 | Data wydania | 2025-11-14 |
-| Wejście w życie | 2025-11-29 |
 | Ostatnia zmiana | 2025-11-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001556) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1556/text.pdf) |
 
@@ -75,19 +74,19 @@ source: "isap-pdf"
 4m. Minister Sprawiedliwości cofa, drodze decyzji administracyjnej, zgodę, której 4d, jeżeli przestała istnieć którakolwiek przesłanek, których 4e, a także gdy Centralna Informacja przestała posiadać odpowiednie warunki techniczne utrzymywania usługi.”;
 
 - **3)** art. 9: 2 1, rejestru, którym art. 2 2, jeżeli wniosek został prawomocnie zwrócony, odrzucony albo oddalony postępowanie umorzono, innych spraw należących właściwości sądu rejestrowego.”, urzędu, przetwarza na postać elektroniczną składa zbioru dokumentów, którym 6.”;
-    - **a)** zdanie drugie „Akta rejestrowe dla podmiotów wpisanych rejestru, którym art. 2 1, rejestru, którym art. 2 2, prowadzi wyłącznie systemie teleinformatycznym.”, 1a „1a. Przepis zdanie drugie stosuje również akt spraw wpis rejestru, którym art.
+    - **a)** zdanie drugie otrzymuje „Akta rejestrowe dla podmiotów wpisanych rejestru, którym art. 2 1, rejestru, którym art. 2 2, prowadzi wyłącznie systemie teleinformatycznym.”, 1a otrzymuje „1a. Przepis zdanie drugie stosuje również akt spraw wpis rejestru, którym art.
 
 - **4)** uchyla art. 13;
 - **5)** art. 15: Jednakże odniesieniu czynności dokonanych przed upływem szesnastego dnia od dnia dokonania wpisu podmiot wpisany Rejestru nie może powoływać na wpis wobec osoby trzeciej, jeżeli ta udowodni, że nie mogła wiedzieć treści wpisu.”, uchyla 2,
-    - **a)** „1. Od dnia dokonania wpisu Rejestrze nikt nie może zasłaniać nieznajomością ujawnionych wpisów.
-    - **c)** 3 „3. Osoba trzecia może powoływać na dokumenty dane, odniesieniu których nie dopełniono jeszcze obowiązku ujawnienia Rejestrze, jeżeli brak ujawnienia nie pozbawia ich skutków prawnych.”;
+    - **a)** otrzymuje „1. Od dnia dokonania wpisu Rejestrze nikt nie może zasłaniać nieznajomością ujawnionych wpisów.
+    - **c)** 3 otrzymuje „3. Osoba trzecia może powoływać na dokumenty dane, odniesieniu których nie dopełniono jeszcze obowiązku ujawnienia Rejestrze, jeżeli brak ujawnienia nie pozbawia ich skutków prawnych.”;
 
 - **6)** uchyla art. 16;
 - **7)** art. 19:
-    - **a)** 2 „2. Wnioski dotyczące podmiotu podlegającego wpisowi rejestru, którym art. 2 1, rejestru, którym art. 2 2, składa wyłącznie za pośrednictwem systemu teleinformatycznego.”, uchyla 3 4,
-    - **c)** 7 „7. Wniosek wpis rejestrze, którym art. 2 3, złożony naruszeniem 5 podlega zwróceniu bez wzywania uzupełnienia braków.”,
+    - **a)** 2 otrzymuje „2. Wnioski dotyczące podmiotu podlegającego wpisowi rejestru, którym art. 2 1, rejestru, którym art. 2 2, składa wyłącznie za pośrednictwem systemu teleinformatycznego.”, uchyla 3 4,
+    - **c)** 7 otrzymuje „7. Wniosek wpis rejestrze, którym art. 2 3, złożony naruszeniem 5 podlega zwróceniu bez wzywania uzupełnienia braków.”,
     - **d)** uchyla 9,
-    - **e)** 10 zdanie pierwsze „W razie zwrócenia wniosku zgodnie 7 8 może on być ponownie złożony terminie 7 dni od daty doręczenia zarządzenia zwrocie.”,
+    - **e)** 10 zdanie pierwsze otrzymuje „W razie zwrócenia wniosku zgodnie 7 8 może on być ponownie złożony terminie 7 dni od daty doręczenia zarządzenia zwrocie.”,
     - **f)** uchyla 11;
 
 - **8)** art. 19a 6 zdaniu pierwszym skreśla wyrazy „i opłacie za ogłoszenie Monitorze Sądowym Gospodarczym”;
@@ -106,20 +105,20 @@ source: "isap-pdf"
 **Art. 3.** W ustawie dnia 22 grudnia 1995 wydawaniu Monitora Sądowego Gospodarczego (Dz. U. 2023 poz. 1395) art. 1:
 
 - **1)** 3 uchyla 1;
-- **2)** 3a „3a. Zamieszczanie obwieszczeń ogłoszeń Monitorze Sądowym Gospodarczym podlega opłacie, chyba że ustawa stanowi inaczej.”.
+- **2)** 3a otrzymuje „3a. Zamieszczanie obwieszczeń ogłoszeń Monitorze Sądowym Gospodarczym podlega opłacie, chyba że ustawa stanowi inaczej.”.
 
 **Art. 4.** W ustawie dnia 9 września 2000 podatku od czynności cywilnoprawnych (Dz. U. 2024 poz. 295 2025 poz. 680) art. 6 9 uchyla 3.
 
 **Art. 5.** W ustawie dnia 4 marca 2005 europejskim zgrupowaniu interesów gospodarczych spółce europejskiej (Dz. U. 2022 poz. 259) wprowadza następujące zmiany:
 
-- **1)** art. 5 „Art. 5. Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie art. 11 rozporządzenia 2137/85 albo art. 14 rozporządzenia 2157/2001 podlegają ogłoszeniu Dzienniku Urzędowym Unii Europejskiej, Urzędu Oficjalnych Publikacji Unii Europejskiej terminie miesiąca od dnia ich wpisu rejestru.”;
+- **1)** art. 5 otrzymuje „Art. 5. Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie art. 11 rozporządzenia 2137/85 albo art. 14 rozporządzenia 2157/2001 podlegają ogłoszeniu Dzienniku Urzędowym Unii Europejskiej, Urzędu Oficjalnych Publikacji Unii Europejskiej terminie miesiąca od dnia ich wpisu rejestru.”;
 - **2)** art. 122 uchyla 2.
 
 **Art. 6.** W ustawie dnia 29 lipca 2005 obrocie instrumentami finansowymi (Dz. U. 2024 poz. 722, późn. zm. ) art. 110zf 9 zdaniu drugim skreśla wyrazy „oraz opłaty za ogłoszenie wpisu Monitorze Sądowym Gospodarczym”.
 
 **Art. 7.** W ustawie dnia 27 kwietnia 2006 spółdzielniach socjalnych (Dz. U. 2025 poz. 178 620) art. 6 3 skreśla wyrazy „oraz nie uiszcza opłaty za ogłoszenie tych wpisów Monitorze Sądowym Gospodarczym”.
 
-**Art. 8.** W ustawie dnia 22 lipca 2006 spółdzielni europejskiej (Dz. U. 2018 poz. 2043) art. 5 „Art. 5. Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie art. 13 rozporządzenia podlegają ogłoszeniu Dzienniku Urzędowym Unii Europejskiej, Urzędu Oficjalnych Publikacji Unii Europejskiej terminie miesiąca od dnia ich wpisu rejestru.”.
+**Art. 8.** W ustawie dnia 22 lipca 2006 spółdzielni europejskiej (Dz. U. 2018 poz. 2043) art. 5 otrzymuje „Art. 5. Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie art. 13 rozporządzenia podlegają ogłoszeniu Dzienniku Urzędowym Unii Europejskiej, Urzędu Oficjalnych Publikacji Unii Europejskiej terminie miesiąca od dnia ich wpisu rejestru.”.
 
 **Art. 9.** W przypadku rozbieżności między wpisem Krajowego Rejestru Sądowego a ogłoszeniem Monitorze Sądowym Gospodarczym opublikowanym przed dniem wejścia życie niniejszej ustawy, obowiązuje wpis Krajowym Rejestrze Sądowym. Osoba trzecia może powoływać na treść ogłoszenia, chyba że podmiot wpisany Krajowego Rejestru Sądowego udowodni, że osoba trzecia wiedziała treści wpisu.
 

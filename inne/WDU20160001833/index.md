@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-03 |
 | Data wydania | 2016-11-14 |
-| Wejście w życie | 2016-11-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001833) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1833/text.pdf) |
 
@@ -40,8 +39,7 @@ w 2019 r. – dnia 31 marca,
 4)
 w 2020 r. – dnia 29 marca,
 5)
-w 2021 r. – dnia 28 marca
-o godzinie 2 minut 00 czasu środkowoeuropejskiego (o godzinie 1 minut 00 uniwersalnego czasu koordynowanego UTC(PL)).
+w 2021 r. – dnia 28 marca – o godzinie 2 minut 00 czasu środkowoeuropejskiego (o godzinie 1 minut 00 uniwersalnego czasu koordynowanego UTC(PL)).
 2.
 Wprowadzenie czasu letniego środkowoeuropejskiego polega na zmianie wskazań zegarów z godziny 2 minut 00 czasu środkowoeuropejskiego na godzinę 3 minut 00, która będzie godziną początkową czasu letniego środkowoeuropejskiego.
 § 2.
@@ -56,8 +54,7 @@ w 2019 r. – dnia 27 października,
 4)
 w 2020 r. – dnia 25 października,
 5)
-w 2021 r. – dnia 31 października
-o godzinie 3 minut 00 czasu letniego środkowoeuropejskiego (o godzinie 1 minut 00 uniwersalnego czasu koordynowanego UTC(PL)).
+w 2021 r. – dnia 31 października – o godzinie 3 minut 00 czasu letniego środkowoeuropejskiego (o godzinie 1 minut 00 uniwersalnego czasu koordynowanego UTC(PL)).
 2.
 Odwołanie czasu letniego środkowoeuropejskiego polega na zmianie wskazań zegarów z godziny 3 minut 00 tego czasu na godzinę 2 minut 00, która będzie godziną początkową czasu środkowoeuropejskiego.
 3.

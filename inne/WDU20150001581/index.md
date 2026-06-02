@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-05 |
 | Data wydania | 2015-10-10 |
-| Wejście w życie | 2015-10-11 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001581) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1581/text.pdf) |
 
@@ -139,8 +138,7 @@ zakończenie realizacji operacji i złożenie wniosku o płatność końcową na
 a)
 36 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w kilku etapach,
 b)
-24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie
-lecz nie później niż do dnia 30 czerwca 2023 r.;
+24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie – lecz nie później niż do dnia 30 czerwca 2023 r.;
 4)
 płatność końcowa będzie obejmować nie mniej niż 25% łącznej planowanej wysokości pomocy.
 4.
@@ -203,8 +201,7 @@ W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych:
 1)
 nie zostało uwzględnione w oddzielnym systemie rachunkowości albo
 2)
-do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego
-o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013, koszty te podlegają refundacji w wysokości określonej w ust. 4, pomniejszonej o 10%.
+do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego – o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013, koszty te podlegają refundacji w wysokości określonej w ust. 4, pomniejszonej o 10%.
 6.
 Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c pkt i rozporządzenia nr 1305/2013, odbywa się w ramach prowadzonych ksiąg rachunkowych albo – w przypadku gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych – przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”.
 7.
@@ -239,7 +236,7 @@ budynków i budowli infrastruktury technicznej związanej z użytkowaniem obiekt
 – innych niż związanych z ochroną środowiska,
 – związanych z ochroną środowiska i przeciwdziałaniem zmianom klimatu, wymienionych w załączniku nr 3 do rozporządzenia,
 c)
-pomieszczeń higieniczno-sanitarnych w rozumieniu rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 26 września 1997 r. w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy (Dz. U. z 2003 r. Nr 169, poz. 1650, z późn. zm.),
+pomieszczeń higieniczno-sanitarnych w rozumieniu rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 26 września 1997 r. w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy (Dz. U. z 2003 r. Nr 169, poz. 1650, z późn. zm.Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 49, poz. 330, z 2008 r. Nr 108, poz. 690 oraz z 2011 r. Nr 173, poz. 1034.),
 d)
 pomieszczeń administracyjnych stanowiących integralną część obiektów podstawowych w części nieprzekraczającej 10% całkowitej powierzchni tych obiektów;
 2)
@@ -674,7 +671,7 @@ Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku p
 § 32.
 W 2015 r. Agencja udostępni formularz wniosku o płatność oraz wzór umowy, najpóźniej w dniu rozpoczęcia terminu składania wniosków o przyznanie pomocy.
 § 33.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2007 r. Nr 49, poz. 330, z 2008 r. Nr 108, poz. 690 oraz z 2011 r. Nr 173, poz. 1034.
 
 ## Załącznik nr 1 — – Wykaz wykonywanych rodzajów działalności gospodarczej, w zakresie których może zostać przyznana pomoc
 

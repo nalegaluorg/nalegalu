@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 19 czerwca 2017 r. w sprawie zakresu znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty oraz egzaminu ze znajomości języka polskiego
+# Rozporządzenie Ministra Zdrowiaz dnia 19 czerwca 2017 r. w sprawie zakresu znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty oraz egzaminu ze znajomości języka polskiego Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-06-19 |
 | Data wydania | 2017-06-26 |
-| Wejście w życie | 2017-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001224) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1224/text.pdf) |
 
@@ -146,8 +145,7 @@ datę wystawienia i numer zaświadczenia;
 2)
 imię i nazwisko osoby, która zdała egzamin.
 § 12.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 Załącznik – Zaświadczenie o zdaniu egzaminu ze znajomości języka polskiego, niezbędnej do wykonywania zawodu fizjoterapeuty (wzór)
 ... (pieczęć Krajowej Rady Fizjoterapeutów) Zaświadczenie o zdaniu egzaminu ze znajomości języka polskiego, niezbędnej do wykonywania zawodu fizjoterapeuty Pani/Pan1) ... obywatel/ka ... data i miejsce urodzenia ... posiadająca/y numer PESEL2) ... pozytywnie złożył/a egzamin ze znajomości języka polskiego przed komisją egzaminacyjną ... Prezes Krajowej Rady Fizjoterapeutów Numer zaświadczenia ... ... (miejscowość i data) 1) Niepotrzebne skreślić. 2) W przypadku braku numeru PESEL należy podać cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj wydania.
 

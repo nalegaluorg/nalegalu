@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-08 |
 | Data wydania | 2015-07-15 |
-| Wejście w życie | 2015-07-16 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000983) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/983/text.pdf) |
 
@@ -43,26 +42,21 @@ W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2015 r. w spr
 1)
 w § 9:
 a)
-ust. 2 otrzymuje brzmienie:
-„
+ust. 2 otrzymuje brzmienie: „
 2.
-Płatność ekologiczna w ramach pakietów wymienionych w § 4 ust. 1 pkt 1, 2, 3, 4, 7, 8, 9 i 10 jest przyznawana, jeżeli ponadto rolnik wytworzył produkty rolnictwa ekologicznego w rozumieniu art. 2 pkt 6 ustawy z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. z 2015 r. poz. 497), a w przypadku uprawy roślin dwuletnich wymienionych w załączniku nr 4 do rozporządzenia, jeżeli rolnik wytworzył te produkty w drugim roku uprawy rośliny dwuletniej.
-” ,
+Płatność ekologiczna w ramach pakietów wymienionych w § 4 ust. 1 pkt 1, 2, 3, 4, 7, 8, 9 i 10 jest przyznawana, jeżeli ponadto rolnik wytworzył produkty rolnictwa ekologicznego w rozumieniu art. 2 pkt 6 ustawy z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. z 2015 r. poz. 497), a w przypadku uprawy roślin dwuletnich wymienionych w załączniku nr 4 do rozporządzenia, jeżeli rolnik wytworzył te produkty w drugim roku uprawy rośliny dwuletniej. ” ,
 b)
-w ust. 3 pkt 2 otrzymuje brzmienie:
-„
+w ust. 3 pkt 2 otrzymuje brzmienie: „
 2)
 których liczba, w przeliczeniu na DJP, wynosi co najmniej 0,3 DJP na hektar wszystkich gruntów ornych i trwałych użytków zielonych zadeklarowanych we wniosku o przyznanie płatności ekologicznej i objętych obszarem zatwierdzonym w rozumieniu art. 2 ust. 1 akapit drugi pkt 23 lit. b rozporządzenia nr 640/2014 w ramach wszystkich realizowanych pakietów, z wyłączeniem gruntów ornych zadeklarowanych we wniosku o przyznanie płatności ekologicznej i objętych obszarem zatwierdzonym w rozumieniu art. 2 ust. 1 akapit drugi pkt 23 lit. b rozporządzenia nr 640/2014 w ramach:
 a)
 pakietów wymienionych w § 4 ust. 1 pkt 2 i 8,
 b)
-wariantów wymienionych w § 4 ust. 1 pkt 4 lit. b i pkt 10 lit. b.
-” ,
+wariantów wymienionych w § 4 ust. 1 pkt 4 lit. b i pkt 10 lit. b. ” ,
 c)
 w ust. 8 uchyla się pkt 2,
 d)
-ust. 9–12 otrzymują brzmienie:
-„
+ust. 9–12 otrzymują brzmienie: „
 9.
 Przy ustalaniu spełniania warunków określonych w ust. 3 pkt 2 i ust. 4 bierze się pod uwagę zwierzęta:
 1)
@@ -102,16 +96,13 @@ rolnika niebędącego osobą fizyczną – numer identyfikacyjny w krajowym reje
 3)
 wykaz koni, które były wpisane lub zgłoszone do rejestru koniowatych, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt, przez rolnika lub jego małżonka w okresie, o którym mowa w ust. 9 pkt 1, ze wskazaniem daty urodzenia tych koni.
 12.
-Zaświadczenie, o którym mowa w ust. 9 pkt 1 lit. b, rolnik składa do kierownika biura powiatowego Agencji do dnia 31 października roku, w którym złożył wniosek o przyznanie płatności ekologicznej.
-” ;
+Zaświadczenie, o którym mowa w ust. 9 pkt 1 lit. b, rolnik składa do kierownika biura powiatowego Agencji do dnia 31 października roku, w którym złożył wniosek o przyznanie płatności ekologicznej. ” ;
 2)
 w § 16 w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przepisu ust. 1 nie stosuje się, jeżeli koszty transakcyjne poniesione z tytułu kontroli gospodarstwa ekologicznego przeprowadzonej w roku złożenia wniosku o przyznanie płatności ekologicznej są jednocześnie objęte pomocą przyznaną rolnikowi w ramach: ” ;
 3)
-w § 24 w ust. 10 pkt 2 otrzymuje brzmienie:
-„
+w § 24 w ust. 10 pkt 2 otrzymuje brzmienie: „
 2)
-ust. 8, do trybu przyznawania płatności ekologicznej za dany rok zapisobiercy windykacyjnemu stosuje się odpowiednio § 21 ust. 3–10, z tym że do wniosku, o którym mowa w ust. 8, zapisobierca windykacyjny dołącza również oświadczenie, złożone na formularzu udostępnionym przez Agencję, obejmujące zobowiązanie do kontynuowania realizacji zobowiązania ekologicznego podjętego przez rolnika, który ustanowił zapis windykacyjny na rzecz tego zapisobiercy, do końca okresu objętego tym zobowiązaniem.
-” ;
+ust. 8, do trybu przyznawania płatności ekologicznej za dany rok zapisobiercy windykacyjnemu stosuje się odpowiednio § 21 ust. 3–10, z tym że do wniosku, o którym mowa w ust. 8, zapisobierca windykacyjny dołącza również oświadczenie, złożone na formularzu udostępnionym przez Agencję, obejmujące zobowiązanie do kontynuowania realizacji zobowiązania ekologicznego podjętego przez rolnika, który ustanowił zapis windykacyjny na rzecz tego zapisobiercy, do końca okresu objętego tym zobowiązaniem. ” ;
 4)
 w § 30:
 a)
@@ -119,23 +110,19 @@ w ust. 8 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli w kolejnym 
 b)
 w ust. 9 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika odpowiednich minimalnych wymogów dotyczących stosowania nawozów i środków ochrony roślin lub innych odpowiednich obowiązkowych wymogów, o których mowa w art. 29 ust. 2 rozporządzenia nr 1305/2013, płatność ekologiczna w części dotyczącej pakietu lub jego wariantu, w ramach których powinien być przestrzegany dany wymóg zgodnie z załącznikiem nr 1 do rozporządzenia, przysługuje w wysokości zmniejszonej o kwotę stanowiącą iloczyn: ” ;
 5)
-w § 32 dodaje się ust. 5 w brzmieniu:
-„
+w § 32 dodaje się ust. 5 w brzmieniu: „
 5.
-Przepisów ust. 1–4 nie stosuje się do rolnika, który realizuje zobowiązanie rolnośrodowiskowe uznane na podstawie § 35 ust. 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2013 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Program rolnośrodowiskowy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 za nowe zobowiązanie rolnośrodowiskowe, o którym mowa w art. 45 ust. 1 rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW), jeżeli to zobowiązanie zastąpiło zobowiązanie rolnośrodowiskowe podjęte przez tego rolnika przed dniem 15 marca 2014 r.
-” ;
+Przepisów ust. 1–4 nie stosuje się do rolnika, który realizuje zobowiązanie rolnośrodowiskowe uznane na podstawie § 35 ust. 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2013 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Program rolnośrodowiskowy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 za nowe zobowiązanie rolnośrodowiskowe, o którym mowa w art. 45 ust. 1 rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW), jeżeli to zobowiązanie zastąpiło zobowiązanie rolnośrodowiskowe podjęte przez tego rolnika przed dniem 15 marca 2014 r. ” ;
 6)
 załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 7)
-w załączniku nr 2 do rozporządzenia ust. 1 otrzymuje brzmienie:
-„
+w załączniku nr 2 do rozporządzenia ust. 1 otrzymuje brzmienie: „
 1.
 Wymóg wspólny dla wszystkich pakietów:
 1)
 co najmniej 30% plonu uzyskanego w ramach pakietów wymienionych w § 4 ust. 1 pkt 1, 2, 3, 4, 7, 8, 9 i 10 rozporządzenia jest przeznaczone do przetwórstwa lub przekazania do innych gospodarstw lub sprzedaży,
 2)
-plon uzyskany w ramach pakietów wymienionych w § 4 ust. 1 pkt 5, 6, 11 i 12 rozporządzenia, z wyłączeniem przypadku, o którym mowa w § 9 ust. 14 rozporządzenia, jest przeznaczony do skarmiania zwierząt lub przekazania do innych gospodarstw lub sprzedaży
-co jest potwierdzone w szczególności dokumentami, o których mowa w rozporządzeniu Komisji (WE) nr 889/2008 z dnia 5 września 2008 r. ustanawiającym szczegółowe zasady wdrażania rozporządzenia Rady (WE) nr 834/2007 w sprawie produkcji ekologicznej i znakowania produktów ekologicznych w odniesieniu do produkcji ekologicznej, znakowania i kontroli.”
+plon uzyskany w ramach pakietów wymienionych w § 4 ust. 1 pkt 5, 6, 11 i 12 rozporządzenia, z wyłączeniem przypadku, o którym mowa w § 9 ust. 14 rozporządzenia, jest przeznaczony do skarmiania zwierząt lub przekazania do innych gospodarstw lub sprzedaży – co jest potwierdzone w szczególności dokumentami, o których mowa w rozporządzeniu Komisji (WE) nr 889/2008 z dnia 5 września 2008 r. ustanawiającym szczegółowe zasady wdrażania rozporządzenia Rady (WE) nr 834/2007 w sprawie produkcji ekologicznej i znakowania produktów ekologicznych w odniesieniu do produkcji ekologicznej, znakowania i kontroli.”
 8)
 w załączniku nr 4 do rozporządzenia część VII tabeli otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
 9)
@@ -147,15 +134,25 @@ Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z w
 
 ## Załącznik nr 1 — – Minimalne wymogi dotyczące stosowania nawozów i środków ochrony roślin, a także inne odpowiednie wymogi obowiązkowe
 
-Wymogi Rodzaj uchybienia Obszar, na którym powinny być przestrzegane wymogi Współczynnik dotkliwości uchybienia Współczynnik trwałości uchybienia Iloczyn współczynnika dotkliwości i trwałości odwracalna krótkotrwała odwracalna długotrwała nieodwracalna I. WYMOGI DOTYCZĄCE STOSOWANIA NAWOZÓW Niestosowanie w danym roku dawki nawozu naturalnego zawierającej więcej niż 170 kg azotu w czystym składniku na 1 ha użytków rolnych na obszarach położonych poza obszarami szczególnie narażonymi w rozumieniu przepisów w sprawie szczegółowych wymagań, jakim powinny odpowiadać programy działań mających na celu ograniczenie odpływu azotu ze źródeł rolniczych (OSN)- art. 17 ust. 3 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2015 r. poz. 625). Stwierdzono zastosowanie w danym roku dawki nawozu naturalnego zawierającej więcej niż 170 kg azotu w czystym składniku na 1 ha użytków rolnych poza obszarami OSN. Obszar objęty zobowiązaniem w ramach pakietów i ich wariantów 20% 1,25 – – 25% II. WYMOGI DOTYCZĄCE STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN 1. Przeciwdziałanie zniesieniu środków ochrony roślin na obszary i obiekty niebędące celem zabiegu z zastosowaniem tych środków. Stosowanie środków ochrony roślin planuje sięz uwzględnieniem okresu, w którym ludzie będą przebywać na obszarze objętym zabiegiem- art. 35 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2015 r. poz. 547). 1. Nie przeciwdziałano zniesieniu środków ochrony roślin na obszary lub obiekty niebędące celem zabieguz zastosowaniem tych środków lub stwierdzono, że stosowanie środków ochrony roślin zaplanowano bez uwzględnienia okresu, w którym ludzie będą przebywać na obszarze objętym zabiegiem. Obszar objęty zobowiązaniem w ramach pakietów i ich wariantów 20% 1,25 – – 25% 2. Uwzględnienie integrowanej ochrony roślin w przypadku stosowania środków ochrony roślin oraz wskazanie sposobu realizacji wymagań integrowanej ochrony roślin w dokumentacji (ewidencji zabiegów) przez podanie przyczyny wykonania zabiegu środkiem ochrony roślin- art. 35 ust. 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin. 2. Stwierdzono, że nie uwzględniono integrowanej ochrony roślin w przypadku stosowania środków ochrony roślin lub nie wskazano sposobu realizacji wymagań integrowanej ochrony roślin w dokumentacji (ewidencji zabiegów) przez podanie przyczyny wykonania zabiegu środkiem ochrony roślin. Obszar objęty zobowiązaniem w ramach pakietów i ich wariantów 20% 1,25 – – 25% III. INNE ODPOWIEDNIE WYMOGI OBOWIĄZKOWE Nieniszczenie, nieuszkadzanie lub nieprzekształcanie pomnika przyrody (z wyjątkiem drzewa ustanowionego pomnikiem przyrody), stanowiska dokumentacyjnego, użytku ekologicznego lub zespołu przyrodniczo -kraj obrazowego, jeżeli taki zakaz został wprowadzony- art. 45 ust. 1 pkt 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.). Stwierdzono zniszczenie, uszkodzenie lub przekształcenie pomnika przyrody (z wyjątkiem drzewa ustanowionego pomnikiem przyrody), stanowiska dokumentacyjnego, użytku ekologicznego lub zespołu przyrodniczo--krajobrazowego, pomimo tego, że taki zakaz został wprowadzony. Obszar całego gospodarstwa rolnego 29% – – 1,75 50%
+Wymogi Rodzaj uchybienia Obszar, na którym powinny być przestrzegane wymogi Współczynnik dotkliwości uchybienia Współczynnik trwałości uchybienia Iloczyn współczynnika dotkliwości i trwałości odwracalna krótkotrwała odwracalna długotrwała nieodwracalna I. WYMOGI DOTYCZĄCE STOSOWANIA NAWOZÓW Niestosowanie w danym roku dawki nawozu naturalnego zawierającej więcej niż 170 kg azotu w czystym składniku na 1 ha użytków rolnych na obszarach położonych poza obszarami szczególnie narażonymi w rozumieniu przepisów w sprawie szczegółowych wymagań, jakim powinny odpowiadać programy działań mających na celu ograniczenie odpływu azotu ze źródeł rolniczych (OSN)
+art. 17 ust. 3 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2015 r. poz. 625). Stwierdzono zastosowanie w danym roku dawki nawozu naturalnego zawierającej więcej niż 170 kg azotu w czystym składniku na 1 ha użytków rolnych poza obszarami OSN. Obszar objęty zobowiązaniem w ramach pakietów i ich wariantów 20% 1,25 – – 25% II. WYMOGI DOTYCZĄCE STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN 1. Przeciwdziałanie zniesieniu środków ochrony roślin na obszary i obiekty niebędące celem zabiegu z zastosowaniem tych środków. Stosowanie środków ochrony roślin planuje się
+z uwzględnieniem okresu, w którym ludzie będą przebywać na obszarze objętym zabiegiem
+art. 35 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2015 r. poz. 547). 1. Nie przeciwdziałano zniesieniu środków ochrony roślin na obszary lub obiekty niebędące celem zabiegu
+z zastosowaniem tych środków lub stwierdzono, że stosowanie środków ochrony roślin zaplanowano bez uwzględnienia okresu, w którym ludzie będą przebywać na obszarze objętym zabiegiem. Obszar objęty zobowiązaniem w ramach pakietów i ich wariantów 20% 1,25 – – 25% 2. Uwzględnienie integrowanej ochrony roślin w przypadku stosowania środków ochrony roślin oraz wskazanie sposobu realizacji wymagań integrowanej ochrony roślin w dokumentacji (ewidencji zabiegów) przez podanie przyczyny wykonania zabiegu środkiem ochrony roślin
+art. 35 ust. 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin. 2. Stwierdzono, że nie uwzględniono integrowanej ochrony roślin w przypadku stosowania środków ochrony roślin lub nie wskazano sposobu realizacji wymagań integrowanej ochrony roślin w dokumentacji (ewidencji zabiegów) przez podanie przyczyny wykonania zabiegu środkiem ochrony roślin. Obszar objęty zobowiązaniem w ramach pakietów i ich wariantów 20% 1,25 – – 25% III. INNE ODPOWIEDNIE WYMOGI OBOWIĄZKOWE Nieniszczenie, nieuszkadzanie lub nieprzekształcanie pomnika przyrody (z wyjątkiem drzewa ustanowionego pomnikiem przyrody), stanowiska dokumentacyjnego, użytku ekologicznego lub zespołu przyrodniczo -kraj obrazowego, jeżeli taki zakaz został wprowadzony
+art. 45 ust. 1 pkt 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.). Stwierdzono zniszczenie, uszkodzenie lub przekształcenie pomnika przyrody (z wyjątkiem drzewa ustanowionego pomnikiem przyrody), stanowiska dokumentacyjnego, użytku ekologicznego lub zespołu przyrodniczo--krajobrazowego, pomimo tego, że taki zakaz został wprowadzony. Obszar całego gospodarstwa rolnego 29% – – 1,75 50%
 
 ## Załącznik nr 2 — – Pakiet 5. Uprawy paszowe na gruntach ornych w okresie konwersji i Pakiet 11. Uprawy paszowe na gruntach ornych po okresie konwersji
 
-VII. Pakiet 5. Uprawy paszowe na gruntach ornych w okresie konwersji i Pakiet 11. Uprawy paszowe na gruntach ornych po okresie konwersji 1 brukiew pastewna Brassica napus var. napobrassica (L.) Rchb. P UR 2 burak pastewny Beta vulgaris ssp. vulgarisconvar. crassa var. crassa Alef. P UR 3 dynia pastewna Cucurbita pepo convar. Pepo P UR 4 esparceta siewna Onobrychis vicifolia Scop. P UW 5 jęczmień jary Hordeum vulgare L. P UR 6 jęczmień ozimy Hordeum vulgare L. P UR 7 kapusta pastewna Brassica oleracea convar. acephala (DC.) Alef. P UR 8 komonica zwyczajna Lotus corniculatus L. P UW 9 koniczyna biała Trifolium repens L. P UW 10 koniczyna białoróżowa Trifolium hybridum L. P UW 11 koniczyna czerwona Trifolium pratense L. P UW 12 koniczyna krwistoczerwona Trifolium incarnatum L. P UR 13 koniczyna perska Trifolium resupinatum L. P UR 14 kukurydza na kiszonkę Zea mays L. P UR 15 lucerna chmielowa (nerkowata) Medicago lupulina L. P UW 16 lucerna mieszańcowa Medicago x varia Martyn P UW 17 lucerna sierpowata Medicago spp. P UW 18 lucerna siewna Medicago sativa L. P UW 19 łąka przemienna** P UW 20 marchew pastewna Daucus carota L. P UR 21 mieszanka jednoroczna traw P UR 22 mieszanka jednoroczna trawz motylkowatymi drobnonasiennymi P UR 23 mieszanka strączkowo-zbożowa P UR 24 mieszanka strączkowo-gorczycowa P UR 25 mieszanka strączkowa P UR 26 mieszanka strączkowo--słonecznikowa P UR 27 mieszanka zbożowa P UR 28 mieszanka wieloletnia traw P UW 29 mieszanka wieloletnia trawz motylkowatymi drobnonasiennymi P UW 30 owies zwyczajny Avena sativa L. P UR 31 pastwisko przemienne** P UW 32 peluszka Pisum arvense L. P UR 33 pszenica zwyczajna jara Triticum aestivum L. emend. Fiori et Paol. P UR 34 pszenica zwyczajna ozima Triticum aestivum L. emend. Fiori et Paol. P UR 35 pszenica samopsza jara Triticum monococcum P UR 36 pszenica samopsza ozima Triticum monococcum P UR 37 pszenica płaskurka jara Triticum dicoccum P UR 38 pszenica płaskurka ozima Triticum dicoccum P UR 39 pszenica orkisz jary Triticum pelta P UR 40 pszenica orkisz ozimy Triticum pelta P UR 41 pszenżyto jare x Triticosecale Wittm. P UR 42 pszenżyto ozime x Triticosecale Wittm. P UR 43 rzepa pastewna Brassica rapa subsp. rapa P UR 44 rutwica wschodnia Galega orientalis Lam. P UW 45 seradela uprawna Ornithopus sativus Brot. P UR 46 słonecznik pastewny Helianthus annuus L. P UR 47 sorgo Sorghum spp. P UR 48 topinambur Helianthus tuberosus L. P UR 49 wyka siewna Vicia sativa L. P UR 50 żyto jare Secale cereale L. P UR 51 żyto ozime Secale cereale L. P UR 52 żyto krzyca Secate cereale var. multicaule Metzg. ex Alef. P UR 53 żyto krzyca Secate cereale var. multicaule Metzg. ex Alef. P UD
+VII. Pakiet 5. Uprawy paszowe na gruntach ornych w okresie konwersji i Pakiet 11. Uprawy paszowe na gruntach ornych po okresie konwersji 1 brukiew pastewna Brassica napus var. napobrassica (L.) Rchb. P UR 2 burak pastewny Beta vulgaris ssp. vulgarisconvar. crassa var. crassa Alef. P UR 3 dynia pastewna Cucurbita pepo convar. Pepo P UR 4 esparceta siewna Onobrychis vicifolia Scop. P UW 5 jęczmień jary Hordeum vulgare L. P UR 6 jęczmień ozimy Hordeum vulgare L. P UR 7 kapusta pastewna Brassica oleracea convar. acephala (DC.) Alef. P UR 8 komonica zwyczajna Lotus corniculatus L. P UW 9 koniczyna biała Trifolium repens L. P UW 10 koniczyna białoróżowa Trifolium hybridum L. P UW 11 koniczyna czerwona Trifolium pratense L. P UW 12 koniczyna krwistoczerwona Trifolium incarnatum L. P UR 13 koniczyna perska Trifolium resupinatum L. P UR 14 kukurydza na kiszonkę Zea mays L. P UR 15 lucerna chmielowa (nerkowata) Medicago lupulina L. P UW 16 lucerna mieszańcowa Medicago x varia Martyn P UW 17 lucerna sierpowata Medicago spp. P UW 18 lucerna siewna Medicago sativa L. P UW 19 łąka przemienna** P UW 20 marchew pastewna Daucus carota L. P UR 21 mieszanka jednoroczna traw P UR 22 mieszanka jednoroczna traw
+z motylkowatymi drobnonasiennymi P UR 23 mieszanka strączkowo-zbożowa P UR 24 mieszanka strączkowo-gorczycowa P UR 25 mieszanka strączkowa P UR 26 mieszanka strączkowo--słonecznikowa P UR 27 mieszanka zbożowa P UR 28 mieszanka wieloletnia traw P UW 29 mieszanka wieloletnia traw
+z motylkowatymi drobnonasiennymi P UW 30 owies zwyczajny Avena sativa L. P UR 31 pastwisko przemienne** P UW 32 peluszka Pisum arvense L. P UR 33 pszenica zwyczajna jara Triticum aestivum L. emend. Fiori et Paol. P UR 34 pszenica zwyczajna ozima Triticum aestivum L. emend. Fiori et Paol. P UR 35 pszenica samopsza jara Triticum monococcum P UR 36 pszenica samopsza ozima Triticum monococcum P UR 37 pszenica płaskurka jara Triticum dicoccum P UR 38 pszenica płaskurka ozima Triticum dicoccum P UR 39 pszenica orkisz jary Triticum pelta P UR 40 pszenica orkisz ozimy Triticum pelta P UR 41 pszenżyto jare x Triticosecale Wittm. P UR 42 pszenżyto ozime x Triticosecale Wittm. P UR 43 rzepa pastewna Brassica rapa subsp. rapa P UR 44 rutwica wschodnia Galega orientalis Lam. P UW 45 seradela uprawna Ornithopus sativus Brot. P UR 46 słonecznik pastewny Helianthus annuus L. P UR 47 sorgo Sorghum spp. P UR 48 topinambur Helianthus tuberosus L. P UR 49 wyka siewna Vicia sativa L. P UR 50 żyto jare Secale cereale L. P UR 51 żyto ozime Secale cereale L. P UR 52 żyto krzyca Secate cereale var. multicaule Metzg. ex Alef. P UR 53 żyto krzyca Secate cereale var. multicaule Metzg. ex Alef. P UD
 
 ## Załącznik nr 3 — – Współczynnik przeliczania zwierząt na DJP
 
-Lp. Rodzaj zwierząt Współczynnikprzeliczania zwierzątna DJP Konie 1 Ogiery, klacze, wałachy 1,2 2 Źrebaki powyżej 2 lat 1 3 Źrebaki powyżej 1 roku do 2 lat 0,8 4 Źrebaki powyżej 6 miesięcy do 1 roku 0,5 5 Źrebięta do 6 miesięcy 0,3 Bydło 6 Buhaje 1,4 7 Krowy 1 8 Jałówki cielne 1 9 Jałówki powyżej 1 roku 0,8 10 Jałówki powyżej 6 miesięcy do 1 roku 0,3 11 Opasy powyżej 1 roku 0,8 12 Opasy powyżej 6 miesięcy do 1 roku 0,3 13 Cielęta do 6 miesięcy 0,15 Kozy 14 Kozy matki 0,15 15 Koźlęta do 3,5 miesiąca 0,05 16 Koźlęta powyżej 3,5 miesiąca do 1,5 roku 0,08 17 Pozostałe kozy 0,1 Świnie 18 Świnie 0,3 Owce 19 Owce powyżej 1,5 roku 0,1 20 Tryki powyżej 1,5 roku 0,12 21 Jagnięta do 3,5 miesiąca 0,05 22 Tryczki 0,08 23 Maciorki 0,1 Drób 24 Kury, kaczki 0,004 25 Gęsi 0,008 26 Indyki 0,024 27 Perlice 0,003 Inne 28 Jelenie szlachetne 0,29 29 Jelenie sika (wschodnie) 0,12 30 Daniele 0,12 31 Króliki 0,007
+Lp. Rodzaj zwierząt Współczynnik
+przeliczania zwierząt
+na DJP Konie 1 Ogiery, klacze, wałachy 1,2 2 Źrebaki powyżej 2 lat 1 3 Źrebaki powyżej 1 roku do 2 lat 0,8 4 Źrebaki powyżej 6 miesięcy do 1 roku 0,5 5 Źrebięta do 6 miesięcy 0,3 Bydło 6 Buhaje 1,4 7 Krowy 1 8 Jałówki cielne 1 9 Jałówki powyżej 1 roku 0,8 10 Jałówki powyżej 6 miesięcy do 1 roku 0,3 11 Opasy powyżej 1 roku 0,8 12 Opasy powyżej 6 miesięcy do 1 roku 0,3 13 Cielęta do 6 miesięcy 0,15 Kozy 14 Kozy matki 0,15 15 Koźlęta do 3,5 miesiąca 0,05 16 Koźlęta powyżej 3,5 miesiąca do 1,5 roku 0,08 17 Pozostałe kozy 0,1 Świnie 18 Świnie 0,3 Owce 19 Owce powyżej 1,5 roku 0,1 20 Tryki powyżej 1,5 roku 0,12 21 Jagnięta do 3,5 miesiąca 0,05 22 Tryczki 0,08 23 Maciorki 0,1 Drób 24 Kury, kaczki 0,004 25 Gęsi 0,008 26 Indyki 0,024 27 Perlice 0,003 Inne 28 Jelenie szlachetne 0,29 29 Jelenie sika (wschodnie) 0,12 30 Daniele 0,12 31 Króliki 0,007
 
 ## Załącznik nr 4 — – Wysokość współczynników dotkliwości uchybienia oraz współczynników trwałości uchybienia stosowanych do dokonywania zmniejszeń płatności ekologicznych
 

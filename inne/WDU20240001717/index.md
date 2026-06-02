@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw
+# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu, ustawę z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej, ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 23 listopada 2012 r. – Prawo pocztowe, ustawę z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027, ustawę z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ustawy – Ordynacja podatkowa, ustawę z dnia 26 maja 2023 r. o aplikacji mObywatel, ustawę z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw oraz ustawę z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego.
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,11 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-21 |
 | Data wydania | 2024-11-25 |
-| Wejście w życie | 2024-11-26 |
 | Ostatnia zmiana | 2024-12-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1717/text.pdf) |
 
+Przepisy epizodyczne
+Przepis epizodyczny
 4.
 W przypadku złożenia wniosku o zasiłek celowy, o którym mowa w ust. 1, na kwotę niższą niż określona w ust. 3, zasiłek celowy wypłaca się w trybie określonym w ust. 3, w kwocie określonej w tym wniosku.
 5.
@@ -46,21 +47,17 @@ Wojewoda niezwłocznie informuje organ właściwy do wydania decyzji o przyznani
 1.
 W przypadku gdy zasiłek celowy, o którym mowa w art. 40 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej na pomoc doraźną, został wypłacony w kwocie niższej niż określona w art. 69a, wypłaca się wyrównanie na podstawie decyzji wydanej z urzędu. Przepisów art. 10 i art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 2.
-Kwotę wyrównania stanowi różnica między wypłaconym zasiłkiem celowym na pomoc doraźną, a kwotą, o której mowa w art. 69a.
-” ;
+Kwotę wyrównania stanowi różnica między wypłaconym zasiłkiem celowym na pomoc doraźną, a kwotą, o której mowa w art. 69a. ” ;
 20)
 w art. 71:
 a)
 w ust. 1 po wyrazach „na podstawie art. 1 ust. 2” dodaje się wyrazy „ustawy zmienianej w art. 1”,
 b)
-dodaje się ust. 4 w brzmieniu:
-„
+dodaje się ust. 4 w brzmieniu: „
 4.
-Do udzielania dotacji przeznaczonej na wypłatę dodatków, o których mowa w ust. 1, nie stosuje się ograniczenia określonego w art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
-” ;
+Do udzielania dotacji przeznaczonej na wypłatę dodatków, o których mowa w ust. 1, nie stosuje się ograniczenia określonego w art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. ” ;
 21)
-po art. 71 dodaje się art. 71a w brzmieniu:
-„
+po art. 71 dodaje się art. 71a w brzmieniu: „
 
 **Art. 1.** W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473 i 1635) wprowadza się następujące zmiany:
 
@@ -70,7 +67,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 - **2)** po art. 3 dodaje się art. 3a w brzmieniu: „
 
-**Art. 3a.** Wsparcie określone w niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.) albo art. 37 rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1, z późn. zm.). ” ;
+**Art. 3a.** Wsparcie określone w niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. albo art. 37 rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1, z późn. zm.)Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 279 z 23.11.2023, str. 2607.. ” ;
 
 - **3)** w art. 4: ust. 1 otrzymuje brzmienie: „
     - **a)**
@@ -143,7 +140,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 - **1)** które nie uwzględnia w całości wniosku pracodawcy, o którym mowa w art. 7a ust. 6,
 - **2)** o odmowie przyznania zwrotu kosztów, o których mowa w art. 7a ust. 6,
-- **3)** o zwrocie wypłaconego zwrotu kosztów, o których mowa w art. 7a ust. 6, w całości lub w części marszałek województwa wydaje decyzję.
+- **3)** o zwrocie wypłaconego zwrotu kosztów, o których mowa w art. 7a ust. 6, w całości lub w części – marszałek województwa wydaje decyzję.
 
 3. Marszałek województwa nie dochodzi zwrotu kosztów, o których mowa w art. 7a ust. 6, jeżeli kwota podlegająca zwrotowi nie przekracza najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717), zwanego dalej „operatorem wyznaczonym”. Kwota ta jest zaliczana w koszty Funduszu Gwarantowanych Świadczeń Pracowniczych.
 
@@ -206,7 +203,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 - **1)** działalności pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491) przez organizacje pozarządowe w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie lub podmioty, o których mowa w art. 3 ust. 3 tej ustawy,
 - **2)** działalności pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie i innej działalności o charakterze odpłatnym w rozumieniu art. 2 pkt 2 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2024 r. poz. 113 i 1635) przez podmioty ekonomii społecznej, o których mowa w art. 2 pkt 5 tej ustawy,
-- **3)** działalności rolniczej w rozumieniu art. 2 ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.) przez rolników w rozumieniu art. 6 pkt 1 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników podlegających na podstawie tej ustawy ubezpieczeniu społecznemu rolników poszkodowanych w wyniku wystąpienia powodzi, którzy prowadzili tę działalność i posiadali status płatnika składek w rozumieniu art. 4 pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych na dzień wydania rozporządzenia, o którym mowa w art. 1 ust. 2. ” , ust. 2 otrzymuje brzmienie: „
+- **3)** działalności rolniczej w rozumieniu art. 2 ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.) przez rolników w rozumieniu art. 6 pkt 1 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników podlegających na podstawie tej ustawy ubezpieczeniu społecznemu rolników – poszkodowanych w wyniku wystąpienia powodzi, którzy prowadzili tę działalność i posiadali status płatnika składek w rozumieniu art. 4 pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych na dzień wydania rozporządzenia, o którym mowa w art. 1 ust. 2. ” , ust. 2 otrzymuje brzmienie: „
     - **b)**
 
 2. Świadczenie interwencyjne może być przyznane wyłącznie przedsiębiorcy, o którym mowa w ust. 1, lub organizacji albo podmiotowi, albo rolnikowi, o których mowa w ust. 1a, którzy:
@@ -413,7 +410,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 1. Gminie wskazanej w przepisach wydanych na podstawie art. 1 ust. 2 i w okresie wskazanym w tych przepisach przysługuje prawo pierwokupu:
 
 - **1)** samodzielnego, wyodrębnionego lokalu mieszkalnego lub udziału w tym lokalu,
-- **2)** nieruchomości zabudowanej budynkiem mieszkalnym jednorodzinnym lub udziału w takiej nieruchomości położonych na obszarze tej gminy.
+- **2)** nieruchomości zabudowanej budynkiem mieszkalnym jednorodzinnym lub udziału w takiej nieruchomości – położonych na obszarze tej gminy.
 
 2. W sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 109 ust. 3 i 4, art. 110 i art. 111 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
@@ -422,10 +419,11 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 - **19)** w art. 28: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. W przypadku gdy przedsięwzięcie, o którym mowa w art. 3 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304) lub art. 5 ust. 1 pkt 1 i pkt 2 lit. a tej ustawy, w przypadku, o którym mowa w art. 5a ust. 1 tej ustawy, jest realizowane na terenie gminy lub miejscowości określonych w przepisach wydanych na podstawie art. 1 ust. 2, a pierwszeństwo w dostępie do tworzonych w ramach niego lokali mieszkalnych zapewnia się poszkodowanym będącym osobami fizycznymi, finansowego wsparcia udziela się do wysokości 100 % kosztów przedsięwzięcia. ” , uchyla się ust. 2, w ust. 7 w pkt 1: – lit. a otrzymuje brzmienie: „ a) zapewnieniu pierwszeństwa w dostępie do lokali mieszkalnych tworzonych w ramach przedsięwzięcia poszkodowanym będącym osobami fizycznymi, ” , – uchyla się lit. b, ust. 9 otrzymuje brzmienie: „
+1. W przypadku gdy przedsięwzięcie, o którym mowa w art. 3 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304) lub art. 5 ust. 1 pkt 1 i pkt 2 lit. a tej ustawy, w przypadku, o którym mowa w art. 5a ust. 1 tej ustawy, jest realizowane na terenie gminy lub miejscowości określonych w przepisach wydanych na podstawie art. 1 ust. 2, a pierwszeństwo w dostępie do tworzonych w ramach niego lokali mieszkalnych zapewnia się poszkodowanym będącym osobami fizycznymi, finansowego wsparcia udziela się do wysokości 100 % kosztów przedsięwzięcia. ” , uchyla się ust. 2, w ust. 7 w pkt 1: lit. a otrzymuje brzmienie: „ zapewnieniu pierwszeństwa w dostępie do lokali mieszkalnych tworzonych w ramach przedsięwzięcia poszkodowanym będącym osobami fizycznymi, ” , – uchyla się lit. b, ust. 9 otrzymuje brzmienie: „
 
 - **b)**
 - **c)**
+- **a)**
 - **d)**
 
 9. W przypadku finansowego wsparcia udzielanego zgodnie z zasadami określonymi w ust. 1 i 3 nie stosuje się przepisów art. 8a ust. 1, art. 13 ust. 1, la, 4 i 8–11 oraz art. 17 ust. 3a ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych. ” , po ust. 12 dodaje się ust. 12a-12c w brzmieniu: „
@@ -466,7 +464,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 - **1)** gminom wskazanym w przepisach wydanych na podstawie art. 1 ust. 2 lub
 - **2)** gminom, na których terenie znajdują się miejscowości wskazane w tych przepisach, lub
-- **3)** powiatom, na których terenie znajdują się gminy wskazane w przepisach wydanych na podstawie art. 1 ust. 2 lub gminy, na których terenie znajdują się miejscowości wskazane w tych przepisach nie stosuje się ograniczenia określonego w art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+- **3)** powiatom, na których terenie znajdują się gminy wskazane w przepisach wydanych na podstawie art. 1 ust. 2 lub gminy, na których terenie znajdują się miejscowości wskazane w tych przepisach – nie stosuje się ograniczenia określonego w art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 2. W przypadku realizacji zadań, o których mowa w ust. 1, przez związki międzygminne, związki powiatów lub związki powiatowo-gminne, środki na realizacje tych zadań zapewnia właściwa jednostka samorządu terytorialnego. ” ;
 
@@ -484,7 +482,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 2. Poszkodowany w wyniku wystąpienia powodzi płatnik składek, któremu:
 
 - **1)** na podstawie umowy, o której mowa w art. 29 ust. 1a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, odroczono termin płatności należności z tytułu składek za okres, o którym mowa w art. 36, lub rozłożono należności z tytułu tych składek na raty,
-- **2)** na podstawie art. 36 ustalono nowy termin płatności należności z tytułu składek za okres, o którym mowa w tym przepisie może uwzględnić te należności we wniosku o umorzenie.
+- **2)** na podstawie art. 36 ustalono nowy termin płatności należności z tytułu składek za okres, o którym mowa w tym przepisie – może uwzględnić te należności we wniosku o umorzenie.
 
 1. Wniosek o umorzenie może zostać złożony jednorazowo do Zakładu Ubezpieczeń Społecznych i zawiera:
 
@@ -566,7 +564,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 2. Do inwestycji, o której mowa w art. 95d ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, lub remontu, o którym mowa w art. 114 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, które są finansowane z:
 
 - **1)** dotacji celowej na realizację zadania, o którym mowa w art. 114 ust. 1 pkt 2 i 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
-- **2)** innego źródła niż wskazane w pkt 1 nie stosuje się, na warunkach i w okresie wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, warunku uzyskania opinii o celowości inwestycji, w przypadku podmiotu wykonującego działalność leczniczą dotkniętego skutkami powodzi. ” , dodaje się ust. 3 w brzmieniu: „
+- **2)** innego źródła niż wskazane w pkt 1 – nie stosuje się, na warunkach i w okresie wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, warunku uzyskania opinii o celowości inwestycji, w przypadku podmiotu wykonującego działalność leczniczą dotkniętego skutkami powodzi. ” , dodaje się ust. 3 w brzmieniu: „
     - **b)**
 
 3. W przypadku, o którym mowa w ust. 2 pkt 2, warunkiem uzyskania finansowania z innego źródła, o którym mowa w tym przepisie, jest opinia wojewody właściwego ze względu na miejsce udzielania świadczeń opieki zdrowotnej. Opinia jest wydawana niezwłocznie po otrzymaniu wniosku podmiotu wykonującego działalność leczniczą dotkniętego skutkami powodzi. ” ;
@@ -607,7 +605,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 1. Państwowe Gospodarstwo Leśne Lasy Państwowe może, w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, na wniosek wojewody, udzielać świadczeń rzeczowych polegających na:
 
 - **1)** użyczeniu posiadanych rzeczy ruchomych,
-- **2)** nieodpłatnym przekazaniu drewna w zakresie, w jakim jest to niezbędne do usuwania skutków powodzi.
+- **2)** nieodpłatnym przekazaniu drewna – w zakresie, w jakim jest to niezbędne do usuwania skutków powodzi.
 
 2. W terminie 3 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 1 ust. 2 Państwowe Gospodarstwo Leśne Lasy Państwowe przekazuje wojewodzie informację o posiadanych rzeczach ruchomych, które mogą zostać użyczone, oraz o ilości drewna możliwego do przekazania, na potrzeby usuwania skutków powodzi. Państwowe Gospodarstwo Leśne Lasy Państwowe aktualizuje na bieżąco informację przekazywaną wojewodzie, w zależności od dostępności posiadanych rzeczy ruchomych i drewna.
 
@@ -642,11 +640,11 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 - **41)** w art. 43 w ust. 1 wyrazy „50 000 zł” zastępuje się wyrazami „200 000 zł”.
 
-**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm.) w art. 71e uchyla się ust. 2. W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm.) w art. 75d uchyla się ust. 2.
+**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1006, 1089, 1222, 1248, 1473, 1562 i 1688.) w art. 71e uchyla się ust. 2. W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1089, 1222, 1248, 1473, 1562 i 1688.) w art. 75d uchyla się ust. 2.
 
 **Art. 4.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 1443 i 1473) w art. 59d uchyla się ust. 2.
 
-**Art. 5.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm.) w art. 17 w ust. 1 po pkt 40 dodaje się pkt 40a w brzmieniu: „
+**Art. 5.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585, 1593 i 1685.) w art. 17 w ust. 1 po pkt 40 dodaje się pkt 40a w brzmieniu: „
 
 - **40a)** dochody z darowizn otrzymanych przez samorząd zawodowy od innego podatnika będącego samorządem zawodowym w części przeznaczonej na pomoc dla członków tego samorządu zawodowego przekazywaną na likwidację szkód powstałych w wyniku powodzi, w związku z którą wprowadzono stan klęski żywiołowej; ” .
 
@@ -702,7 +700,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 - **1)** o której mowa w art. 4 pkt 1 lit. b,
 - **2)** o kubaturze nie większej niż 2000 m3iwiększej niż 1000 m3,
-- **3)** o kubaturze nie większej niż 1000 m3io wysokości większej niż 12 m nad poziomem terenu w miejsce szkicu lub rysunku dołącza się projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany sporządzony w sposób, który nie narusza ustaleń aktów prawa miejscowego. ” , uchyla się ust. 2b, w ust. 3 zdanie drugie otrzymuje brzmienie: „ Do wykonania robót budowlanych można przystąpić, jeżeli w terminie 7 dni od dnia doręczenia zgłoszenia organ administracji architektoniczno-budowlanej nie wniósł, w drodze decyzji, sprzeciwu. ” , dodaje się ust. 5 i 6 w brzmieniu: „
+- **3)** o kubaturze nie większej niż 1000 m3io wysokości większej niż 12 m nad poziomem terenu – w miejsce szkicu lub rysunku dołącza się projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany sporządzony w sposób, który nie narusza ustaleń aktów prawa miejscowego. ” , uchyla się ust. 2b, w ust. 3 zdanie drugie otrzymuje brzmienie: „ Do wykonania robót budowlanych można przystąpić, jeżeli w terminie 7 dni od dnia doręczenia zgłoszenia organ administracji architektoniczno-budowlanej nie wniósł, w drodze decyzji, sprzeciwu. ” , dodaje się ust. 5 i 6 w brzmieniu: „
     - **b)**
     - **c)**
     - **d)**
@@ -710,7 +708,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 5. Nie wymaga uzyskania pozwolenia na rozbiórkę oraz zgłoszenia właściwemu organowi administracji architektoniczno-budowlanej rozbiórka:
 
 - **1)** budynków mieszkalnych jednorodzinnych nieobjętych formami ochrony konserwatorskiej, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292),
-- **2)** budynków i budowli, nieobjętych formami ochrony konserwatorskiej, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, o wysokości poniżej 8 m, jeżeli ich odległość od granicy działki jest nie mniejsza niż połowa wysokości zniszczonych w wyniku działania żywiołu.
+- **2)** budynków i budowli, nieobjętych formami ochrony konserwatorskiej, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, o wysokości poniżej 8 m, jeżeli ich odległość od granicy działki jest nie mniejsza niż połowa wysokości – zniszczonych w wyniku działania żywiołu.
 
 6. O przystąpieniu do rozbiórki, o której mowa w ust. 5, inwestor informuje, w terminie 7 dni od dnia rozpoczęcia robót, właściwy organ administracji architektoniczno-budowlanej. ” ;
 
@@ -727,10 +725,14 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 - **9)** w art. 12: ust. 1 otrzymuje brzmienie: „
     - **a)**
 
-1. Do użytkowania obiektu budowlanego, na odbudowę którego jest wymagane uzyskanie pozwolenia na budowę lub zgłoszenie, o którym mowa w art. 8 ust. 1a, można przystąpić niezwłocznie po zawiadomieniu właściwego organu nadzoru budowlanego o zakończeniu odbudowy. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) oryginał dziennika budowy prowadzonego w postaci papierowej, a w przypadku prowadzenia dziennika budowy w postaci elektronicznej – numer tego dziennika, o którym mowa w art. 47h ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane; ” , – pkt 3 otrzymuje brzmienie: „ 3) protokoły badań i sprawdzeń: a) przyłączy i instalacji, zapewniających użytkowanie obiektu budowlanego zgodnie z przeznaczeniem, sporządzone przez osoby posiadające uprawnienia budowlane w odpowiedniej specjalności lub osoby, o których mowa w art. 62 ust. 6 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, b) o których mowa w art. 14 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194), o ile dotyczy; ” , dodaje się ust. 3 w brzmieniu: „
+1. Do użytkowania obiektu budowlanego, na odbudowę którego jest wymagane uzyskanie pozwolenia na budowę lub zgłoszenie, o którym mowa w art. 8 ust. 1a, można przystąpić niezwłocznie po zawiadomieniu właściwego organu nadzoru budowlanego o zakończeniu odbudowy. ” , w ust. 2: pkt 1 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
+- **1)** oryginał dziennika budowy prowadzonego w postaci papierowej, a w przypadku prowadzenia dziennika budowy w postaci elektronicznej – numer tego dziennika, o którym mowa w art. 47h ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane; ” , pkt 3 otrzymuje brzmienie: „
+- **3)** protokoły badań i sprawdzeń: przyłączy i instalacji, zapewniających użytkowanie obiektu budowlanego zgodnie z przeznaczeniem, sporządzone przez osoby posiadające uprawnienia budowlane w odpowiedniej specjalności lub osoby, o których mowa w art. 62 ust. 6 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, o których mowa w art. 14 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194), o ile dotyczy; ” , dodaje się ust. 3 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
 
 3. Do zawiadomienia o zakończeniu odbudowy, zamiast oryginałów, można dołączyć kopie dokumentów, o których mowa w ust. 2 pkt 2–4. ” ;
 
@@ -784,7 +786,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 - **2)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
-#### Rozdział 6a Przepisy epizodyczne
+#### Rozdział 6a
 
 **Art. 50a.**
 
@@ -860,7 +862,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 **Art. 16.** W ustawie z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) po rozdziale 19 dodaje się rozdział 19a w brzmieniu: „
 
-#### Rozdział 19a Przepis epizodyczny
+#### Rozdział 19a
 
 **Art. 130a.** W okresie 12 miesięcy od dnia wejścia w życie niniejszego artykułu, w sposób niekonkurencyjny, o którym mowa w art. 44 ust. 1, mogą być wybierane projekty służące usuwaniu skutków powodzi z września 2024 r. W takim przypadku przepisu art. 44 ust. 2 nie stosuje się. ” .
 
@@ -947,7 +949,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 2. Do czasu podjęcia uchwały, o której mowa w art. 32f, wójt (burmistrz, prezydent miasta), zarząd powiatu albo zarząd województwa może postanowić o odstąpieniu od dochodzenia należności, o których mowa w ust. 1, na wniosek poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1. ” ;
 
-- **3)** w art. 37 w ust. 4 skreśla się wyrazy „(Dz. U. z 2023 r. poz. 1270, z późn. zm.)”;
+- **3)** w art. 37 w ust. 4 skreśla się wyrazy „(Dz. U. z 2023 r. poz. 1270, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.)”;
 - **4)** po art. 39 dodaje się art. 39a w brzmieniu: „
 
 1. Właściwy starosta sporządzi i przekaże właściwemu wojewódzkiemu inspektorowi ochrony środowiska, w terminie do dnia 31 stycznia 2025 r., wykaz:
@@ -984,10 +986,10 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 9. Przepisy ust. 1 oraz 3–7 stosuje się odpowiednio do trwałego przeniesienia zabytku ruchomego, wpisanego do rejestru zabytków, dotkniętego skutkami powodzi we wrześniu 2024 r. znajdującego się na obszarze, o którym mowa w ust. 1, z naruszeniem ustalonego tradycją wystroju wnętrza, w którym zabytek ten się znajduje, a także do prowadzenia robót budowlanych w otoczeniu zabytku nieruchomego, o którym mowa w ust. 1.
 
-10. W przypadku otrzymania decyzji, o której mowa w ust. 1, za spełniony uznaje się warunek posiadania sporządzonego na piśmie pozwolenia wojewódzkiego konserwatora zabytków na prowadzenie prac konserwatorskich, prac restauratorskich lub robót budowlanych przy zabytku, o którym mowa w art. 26hb ust. 2 pkt 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.). Do dotacji celowych przyznawanych w związku z powodzią we wrześniu 2024 r.:
+10. W przypadku otrzymania decyzji, o której mowa w ust. 1, za spełniony uznaje się warunek posiadania sporządzonego na piśmie pozwolenia wojewódzkiego konserwatora zabytków na prowadzenie prac konserwatorskich, prac restauratorskich lub robót budowlanych przy zabytku, o którym mowa w art. 26hb ust. 2 pkt 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.). Do dotacji celowych przyznawanych w związku z powodzią we wrześniu 2024 r.:
 
 - **1)** na prace konserwatorskie lub prace restauratorskie przy zabytku wpisanym na Listę Skarbów Dziedzictwa,
-- **2)** na prace konserwatorskie, prace restauratorskie lub roboty budowlane przy zabytku wpisanym do rejestru zabytków nie stosuje się ograniczenia dotyczącego okresu, po jakim można uzyskać kolejną dotację na ten sam zabytek, określonego w przepisach wydanych na podstawie art. 80 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami. ” ;
+- **2)** na prace konserwatorskie, prace restauratorskie lub roboty budowlane przy zabytku wpisanym do rejestru zabytków – nie stosuje się ograniczenia dotyczącego okresu, po jakim można uzyskać kolejną dotację na ten sam zabytek, określonego w przepisach wydanych na podstawie art. 80 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami. ” ;
 - **6)** po art. 41 dodaje się art. 41a i art. 41b w brzmieniu: „
 
 **Art. 41a.** W przypadku niezrealizowania w wyniku powodzi we wrześniu 2024 r. lub osunięcia ziemi będącego jej skutkiem zadania, o którym mowa w art. 4 ust. 1 pkt 1–2d i 3 ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2023 r. poz. 1983 oraz z 2024 r. poz. 1473, 1572 i 1717), którego realizacja rozpoczęła się przed dniem wydania przepisów na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 na obszarze określonym w tych przepisach, pobranie dofinansowania lub finansowania udzielonego na jego realizację w tej części nie skutkuje uznaniem tego dofinansowania lub finansowania za wykorzystane niezgodnie z przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości i podlegające zwrotowi. 1. W przypadku naboru wniosków na zadania powiatowe oraz zadania gminne, o którym mowa w art. 21 ust. 1 ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg, na które przeznaczono środki w planie finansowym Rządowego Funduszu Rozwoju Dróg na 2025 r., wojewoda przedstawia ministrowi właściwemu do spraw transportu listę, o której mowa w art. 24 ust. 5 tej ustawy, w terminie 5 miesięcy od dnia ogłoszenia naboru. 2. W przypadku naboru, o którym mowa w ust. 1, terminy, o których mowa w art. 23 ust. 4 ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg, mogą być dłuższe niż odpowiednio 10 i 5 dni od dnia otrzymania wezwania do uzupełnienia wniosku lub poprawienia w nim oczywistych omyłek. 3. W przypadku naboru, o którym mowa w ust. 1, Prezes Rady Ministrów, zatwierdzając listy zadań powiatowych oraz zadań gminnych przeznaczonych do dofinansowania w danym województwie, może dokonać podziału rezerwy, o której mowa w art. 26 ust. 1a ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg, w ten sposób, że może zwiększyć wysokość dofinansowania zadań powiatowych oraz zadań gminnych zlokalizowanych w gminach wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 do 100 % kosztów realizacji tego zadania. ” ;
@@ -1084,7 +1086,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 **Art. 57a.**
 
-1. Wsparcie określone w niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.).
+1. Wsparcie określone w niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1..
 
 2. Łączna wartość pomocy publicznej, o której mowa w ust. 1, łącznie z wartością pomocy publicznej otrzymanej na ten sam cel na podstawie przepisów odrębnych nie może przekroczyć wartości szkody poniesionej przez beneficjenta pomocy bezpośrednio w wyniku powodzi, obejmującej szkody materialne dotyczące aktywów oraz utratę dochodu w wyniku całkowitego lub częściowego zawieszenia działalności przez okres nie dłuższy niż 6 miesięcy od wystąpienia powodzi, w związku z którą zostało wydane rozporządzenie, o którym mowa w art. 1 ust. 2 ustawy zmienianej w art. 1, pomniejszonej o wartość uzyskanego odszkodowania. ” ;
 
@@ -1190,7 +1192,7 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 **Art. 37.**
 
-1. Wsparcie określone w niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.).
+1. Wsparcie określone w niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1..
 
 2. Łączna wartość pomocy publicznej, o której mowa w ust. 1, łącznie z wartością pomocy publicznej otrzymanej na ten sam cel na podstawie przepisów odrębnych nie może przekroczyć wartości szkody poniesionej przez beneficjenta pomocy bezpośrednio w wyniku powodzi, obejmującej szkody materialne dotyczące aktywów oraz utratę dochodu w wyniku całkowitego lub częściowego zawieszenia działalności przez okres nie dłuższy niż 6 miesięcy od wystąpienia powodzi, w związku z którą zostało wydane rozporządzenie, o którym mowa w art. 1 ust. 2 ustawy zmienianej w art. 1, pomniejszonej o wartość uzyskanego odszkodowania.
 
@@ -1206,5 +1208,5 @@ po art. 71 dodaje się art. 71a w brzmieniu:
 
 **Art. 45.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 zachowują moc i mogą być zmieniane.
 
-**Art. 46.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 19 pkt 7 w zakresie art. 43a, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 9 września 2024 r.
+**Art. 46.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 19 pkt 7 w zakresie art. 43a, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 9 września 2024 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu, ustawę z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej, ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 23 listopada 2012 r. – Prawo pocztowe, ustawę z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027, ustawę z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ustawy – Ordynacja podatkowa, ustawę z dnia 26 maja 2023 r. o aplikacji mObywatel, ustawę z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw oraz ustawę z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 279 z 23.11.2023, str. 2607. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1006, 1089, 1222, 1248, 1473, 1562 i 1688. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1089, 1222, 1248, 1473, 1562 i 1688. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585, 1593 i 1685. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
 

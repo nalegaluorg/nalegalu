@@ -22,18 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-03 |
 | Data wydania | 2020-02-10 |
-| Wejście w życie | 2020-02-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000210) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/210/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 127 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Prezesa Rady Ministrów z dnia 24 października 2002 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 1501 oraz z 2003 r. poz. 1250) w § 1 w pkt 11 lit. a otrzymuje brzmienie:
-„
+W rozporządzeniu Prezesa Rady Ministrów z dnia 24 października 2002 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania (Dz. U. poz. 1501 oraz z 2003 r. poz. 1250) w § 1 w pkt 11 lit. a otrzymuje brzmienie: „
 a)
-krajowych podróży służbowych – kierownika jednostki organizacyjnej,
-” .
+krajowych podróży służbowych – kierownika jednostki organizacyjnej, ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

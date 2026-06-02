@@ -26,15 +26,32 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001772) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1772/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 2011 r. o wdrożeniu naziemnej telewizji cyfrowej Rozdział 1 – Przepisy ogólne Rozdział 2 – Operator multipleksu I i operator multipleksu II Rozdział 3 – Kampania informacyjna o telewizji cyfrowej Rozdział 4 – Kary pieniężne Rozdział 5 – Zmiany w przepisach obowiązujących Rozdział 6 – Przepisy przejściowe, dostosowujące i końcowe
+Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 2011 r. o wdrożeniu naziemnej telewizji cyfrowej
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 2011 r. o wdrożeniu naziemnej telewizji cyfrowej (Dz. U. z 2016 r. poz. 649), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 listopada 2024 r.
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „
+Przepisy ogólne
+Operator multipleksu I i operator multipleksu II
+Kampania informacyjna o telewizji cyfrowej
+Kary pieniężne
+Zmiany w przepisach obowiązujących
 Art. 20–22.
 (pominięte)
+Przepisy przejściowe, dostosowujące i końcowe
+
+#### Rozdział 1 – Przepisy ogólne
+
+#### Rozdział 2 – Operator multipleksu I i operator multipleksu II
+
+#### Rozdział 3 – Kampania informacyjna o telewizji cyfrowej
+
+#### Rozdział 4 – Kary pieniężne
+
+#### Rozdział 5 – Zmiany w przepisach obowiązujących
+
+#### Rozdział 6 – Przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 124.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
@@ -42,24 +59,20 @@ Art. 20–22.
 - **2)** art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
 - **3)** art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
 - **4)** art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-- **5)** art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 2011 r. o wdrożeniu naziemnej telewizji cyfrowej
+- **5)** art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 2011 r. o wdrożeniu naziemnej telewizji cyfrowejNiniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/136/WE z dnia 25 listopada 2009 r. zmieniającej dyrektywę 2002/22/WE w sprawie usługi powszechnej i związanych z sieciami i usługami łączności elektronicznej praw użytkowników, dyrektywę 2002/58/WE dotyczącą przetwarzania danych osobowych i ochrony prywatności w sektorze łączności elektronicznej oraz rozporządzenie (WE) nr 2006/2004 w sprawie współpracy między organami krajowymi odpowiedzialnymi za egzekwowanie przepisów prawa w zakresie ochrony konsumentów (Dz. Urz. UE L 337 z 18.12.2009, str. 11).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1
 
 **Art. 1.** Ustawa określa:
 
 - **1)** sposób wdrożenia naziemnej telewizji cyfrowej;
 - **2)** obowiązki operatora multipleksu I i operatora multipleksu II;
-- **3)** obowiązki nadawców: Telewizji Polskiej S.A., Telewizji Polsat S.A., TVN S.A., Polskich Mediów S.A., Telewizji Puls Sp. z o.o., rozpowszechniających w dniu wejścia w życie ustawy program telewizyjny w sposób analogowy drogą rozsiewczą naziemną, oraz ministra właściwego do spraw informatyzacji w zakresie kampanii informacyjnej o telewizji cyfrowej.
+- **3)** obowiązki nadawców: Telewizji Polskiej S.A., Telewizji Polsat S.A., TVN S.A., Polskich Mediów S.A., Telewizji Puls Sp. z o.o., rozpowszechniających w dniu wejścia w życie ustawy program telewizyjny w sposób analogowy drogą rozsiewczą naziemną, oraz ministra właściwego do spraw informatyzacji – w zakresie kampanii informacyjnej o telewizji cyfrowej.
 
-**Art. 2.** Ilekroć w ustawie jest mowa o:
+**Art. 2.** Ilekroć w ustawie jest mowa o: 1Ze zmianą wprowadzoną przez art. 41 pkt 1 lit. a ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która weszła w życie z dniem 10 listopada 2024 r.) multipleksie – należy przez to rozumieć multipleks, o którym mowa w art. 2 pkt 24 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221);
 
-- **1)** multipleksie – należy przez to rozumieć multipleks, o którym mowa w art. 2 pkt 24 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221);
-- **2)** nadawcy – należy przez to rozumieć nadawcę, o którym mowa w art. 4 pkt 5 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722 oraz z 2024 r. poz. 96 i 1222);
-- **3)** odbiorniku cyfrowym – należy przez to rozumieć odbiornik sygnału telewizyjnego, o którym mowa w art. 2 pkt 31 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
-- **4)** okresie przejściowym – należy przez to rozumieć okres wykorzystywania częstotliwości w służbie radiodyfuzyjnej w celu równoczesnego rozpowszechniania programu telewizyjnego w sposób analogowy i cyfrowy drogą rozsiewczą naziemną;
-- **5)** operatorze sieci nadawczej – należy przez to rozumieć operatora sieci nadawczej, o którym mowa w art. 2 pkt 33 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
-- **6)** sygnale multipleksu – należy przez to rozumieć sygnał multipleksu, o którym mowa w art. 2 pkt 63 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
+- **2)** nadawcy – należy przez to rozumieć nadawcę, o którym mowa w art. 4 pkt 5 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722 oraz z 2024 r. poz. 96 i 1222); 3Ze zmianą wprowadzoną przez art. 41 pkt 1 lit. b ustawy, o której mowa w odnośniku 2.) odbiorniku cyfrowym – należy przez to rozumieć odbiornik sygnału telewizyjnego, o którym mowa w art. 2 pkt 31 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
+- **4)** okresie przejściowym – należy przez to rozumieć okres wykorzystywania częstotliwości w służbie radiodyfuzyjnej w celu równoczesnego rozpowszechniania programu telewizyjnego w sposób analogowy i cyfrowy drogą rozsiewczą naziemną; 5Ze zmianą wprowadzoną przez art. 41 pkt 1 lit. c ustawy, o której mowa w odnośniku 2.) operatorze sieci nadawczej – należy przez to rozumieć operatora sieci nadawczej, o którym mowa w art. 2 pkt 33 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej; 6Ze zmianą wprowadzoną przez art. 41 pkt 1 lit. d ustawy, o której mowa w odnośniku 2.) sygnale multipleksu – należy przez to rozumieć sygnał multipleksu, o którym mowa w art. 2 pkt 63 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
 - **7)** użytkowniku – należy przez to rozumieć osobę, która posiada odbiornik cyfrowy w stanie umożliwiającym natychmiastowy odbiór programu telewizyjnego.
 
 **Art. 3.**
@@ -87,10 +100,10 @@ Art. 20–22.
 
 **Art. 6.**
 
-1. Przedsiębiorca, którego działalność polega na sprzedaży odbiorników cyfrowych, może dokonać sprzedaży odbiornika cyfrowego niespełniającego wymagań technicznych i eksploatacyjnych, określonych w przepisach wydanych na podstawie art. 406 ust. 6 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, jedynie po poinformowaniu o tym fakcie nabywcy:
+1. Przedsiębiorca, którego działalność polega na sprzedaży odbiorników cyfrowych, może dokonać sprzedaży odbiornika cyfrowego niespełniającego wymagań technicznych i eksploatacyjnych, określonych w przepisach wydanych na podstawie art. 406 ust. 6 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, jedynie po poinformowaniu o tym fakcie nabywcy:Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 41 pkt 2 ustawy, o której mowa w odnośniku 2.
 
 - **1)** na piśmie, najpóźniej w chwili zawarcia umowy i uzyskaniu od nabywcy potwierdzenia zapoznania się z tą informacją, z zastrzeżeniem pkt 2;
-- **2)** w przypadku umów sprzedaży zawieranych przy wykorzystaniu środków porozumiewania się na odległość, o których mowa w art. 6 ust. 1 ustawy z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny (Dz. U. z 2012 r. poz. 1225) – przy użyciu środka porozumiewania się na odległość, najpóźniej w chwili złożenia nabywcy propozycji zawarcia umowy i uzyskaniu od nabywcy potwierdzenia zapoznania się z tą informacją.
+- **2)** w przypadku umów sprzedaży zawieranych przy wykorzystaniu środków porozumiewania się na odległość, o których mowa w art. 6 ust. 1 ustawy z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny (Dz. U. z 2012 r. poz. 1225)Ustawa utraciła moc z dniem 25 grudnia 2014 r. na podstawie art. 52 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. poz. 827), która weszła w życie z dniem 25 grudnia 2014 r. – przy użyciu środka porozumiewania się na odległość, najpóźniej w chwili złożenia nabywcy propozycji zawarcia umowy i uzyskaniu od nabywcy potwierdzenia zapoznania się z tą informacją.
 
 2. Przedsiębiorca, którego działalność polega na sprzedaży odbiorników cyfrowych, jest obowiązany umieścić w miejscu widocznym i łatwo dostępnym informację dla potencjalnego nabywcy o treści: „Jedynie odbiorniki cyfrowe zgodne z wymaganiami określonymi w przepisach dotyczących wymagań technicznych i eksploatacyjnych dla urządzeń konsumenckich służących do odbioru cyfrowych naziemnych transmisji telewizyjnych umożliwiają odbiór naziemnej telewizji cyfrowej na terytorium Rzeczypospolitej Polskiej”.
 
@@ -103,19 +116,9 @@ Art. 20–22.
 
 5. Przedsiębiorca, którego działalność polega na sprzedaży odbiorników cyfrowych, jest obowiązany przechowywać oświadczenie, o którym mowa w ust. 4, przez okres 2 lat, licząc od końca roku kalendarzowego, w którym zostało złożone.
 
-#### Rozdział 2 Operator multipleksu I i operator multipleksu II
+#### Rozdział 2
 
-**Art. 7.**
-
-1. Telewizja Polska S.A., na podstawie wydanej przez Prezesa UKE rezerwacji częstotliwości w służbie radiodyfuzyjnej na cele rozpowszechniania lub rozprowadzania programów telewizyjnych w sposób cyfrowy drogą rozsiewczą naziemną, ustalonych w planie zagospodarowania częstotliwości dla multipleksu I na podstawie art. 63 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, wraz z nadawcami programów telewizyjnych, którzy uzyskali koncesje na rozpowszechnianie programów w multipleksie I, jest operatorem multipleksu I do dnia upływu ważności decyzji rezerwacyjnych.
-
-2. Telewizja Polska S.A. rozpowszechnia w multipleksie I programy telewizyjne „Telewizja Polska I”, „Telewizja Polska II” oraz regionalne programy telewizyjne na podstawie rezerwacji częstotliwości, o której mowa w ust. 1, do dnia pokrycia sygnałem tych programów terytorium RP, na którym zamieszkuje co najmniej 95 % ludności, przy wykorzystaniu częstotliwości ustalonych w planie zagospodarowania częstotliwości dla multipleksu III na podstawie art. 63 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, jednak nie później niż do dnia 27 kwietnia 2014 r.
-
-3. Przewodniczący Krajowej Rady Radiofonii i Telewizji, zwany dalej „Przewodniczącym KRRiT”, w terminie do dnia 31 grudnia 2012 r., ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” informacje o możliwościach uzyskania koncesji na rozpowszechnianie programów telewizyjnych w sposób cyfrowy drogą rozsiewczą naziemną, z wykorzystaniem częstotliwości ustalonych w planie zagospodarowania częstotliwości dla multipleksu I, które wykorzystywane będą w tym multipleksie po terminie, o którym mowa w ust. 2.
-
-4. Ogłaszając informację, o której mowa w ust. 3, Przewodniczący KRRiT bierze pod uwagę w szczególności konieczność zapewnienia różnorodności programowej w ofercie programów telewizyjnych rozpowszechnianych w sposób cyfrowy drogą rozsiewczą naziemną.
-
-**Art. 8.** Na podstawie wydanej przez Prezesa UKE rezerwacji częstotliwości w służbie radiodyfuzyjnej na cele rozpowszechniania lub rozprowadzania programów telewizyjnych w sposób cyfrowy drogą rozsiewczą naziemną, ustalonych w planie zagospodarowania częstotliwości dla multipleksu II na podstawie art. 63 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, nadawcy: Telewizja Polsat S.A., TVN S.A., Polskie Media S.A. oraz Telewizja Puls Sp. z o.o., rozpowszechniający w dniu wejścia w życie ustawy programy telewizyjne na podstawie koncesji na rozpowszechnianie tych programów drogą rozsiewczą naziemną w sposób analogowy, są operatorem multipleksu II do dnia upływu ważności decyzji rezerwacyjnych.
+**Art. 7.** 1Ze zmianą wprowadzoną przez art. 41 pkt 3 ustawy, o której mowa w odnośniku 2.. Telewizja Polska S.A., na podstawie wydanej przez Prezesa UKE rezerwacji częstotliwości w służbie radiodyfuzyjnej na cele rozpowszechniania lub rozprowadzania programów telewizyjnych w sposób cyfrowy drogą rozsiewczą naziemną, ustalonych w planie zagospodarowania częstotliwości dla multipleksu I na podstawie art. 63 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, wraz z nadawcami programów telewizyjnych, którzy uzyskali koncesje na rozpowszechnianie programów w multipleksie I, jest operatorem multipleksu I do dnia upływu ważności decyzji rezerwacyjnych. 2Ze zmianą wprowadzoną przez art. 41 pkt 3 ustawy, o której mowa w odnośniku 2.. Telewizja Polska S.A. rozpowszechnia w multipleksie I programy telewizyjne „Telewizja Polska I”, „Telewizja Polska II” oraz regionalne programy telewizyjne na podstawie rezerwacji częstotliwości, o której mowa w ust. 1, do dnia pokrycia sygnałem tych programów terytorium RP, na którym zamieszkuje co najmniej 95 % ludności, przy wykorzystaniu częstotliwości ustalonych w planie zagospodarowania częstotliwości dla multipleksu III na podstawie art. 63 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, jednak nie później niż do dnia 27 kwietnia 2014 r. 3. Przewodniczący Krajowej Rady Radiofonii i Telewizji, zwany dalej „Przewodniczącym KRRiT”, w terminie do dnia 31 grudnia 2012 r., ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” informacje o możliwościach uzyskania koncesji na rozpowszechnianie programów telewizyjnych w sposób cyfrowy drogą rozsiewczą naziemną, z wykorzystaniem częstotliwości ustalonych w planie zagospodarowania częstotliwości dla multipleksu I, które wykorzystywane będą w tym multipleksie po terminie, o którym mowa w ust. 2. 4. Ogłaszając informację, o której mowa w ust. 3, Przewodniczący KRRiT bierze pod uwagę w szczególności konieczność zapewnienia różnorodności programowej w ofercie programów telewizyjnych rozpowszechnianych w sposób cyfrowy drogą rozsiewczą naziemną. Art. 8Ze zmianą wprowadzoną przez art. 41 pkt 3 ustawy, o której mowa w odnośniku 2.. Na podstawie wydanej przez Prezesa UKE rezerwacji częstotliwości w służbie radiodyfuzyjnej na cele rozpowszechniania lub rozprowadzania programów telewizyjnych w sposób cyfrowy drogą rozsiewczą naziemną, ustalonych w planie zagospodarowania częstotliwości dla multipleksu II na podstawie art. 63 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, nadawcy: Telewizja Polsat S.A., TVN S.A., Polskie Media S.A. oraz Telewizja Puls Sp. z o.o., rozpowszechniający w dniu wejścia w życie ustawy programy telewizyjne na podstawie koncesji na rozpowszechnianie tych programów drogą rozsiewczą naziemną w sposób analogowy, są operatorem multipleksu II do dnia upływu ważności decyzji rezerwacyjnych.
 
 **Art. 9.**
 
@@ -128,17 +131,13 @@ Art. 20–22.
 
 3. Operator multipleksu I jest obowiązany do zapewnienia najpóźniej do dnia 31 lipca 2013 r. pokrycia sygnałem multipleksu I terytorium RP, na którym zamieszkuje co najmniej 95 % ludności, zgodnie z warunkami określonymi w rezerwacji częstotliwości, o której mowa w art. 7.
 
-4. Operator multipleksu II jest obowiązany do zapewnienia najpóźniej do dnia 31 lipca 2013 r. pokrycia sygnałem multipleksu II terytorium RP, na którym zamieszkuje co najmniej 95 % ludności, zgodnie z warunkami określonymi w rezerwacji częstotliwości, o której mowa w art. 8.
-
-**Art. 10.**
+4. Operator multipleksu II jest obowiązany do zapewnienia najpóźniej do dnia 31 lipca 2013 r. pokrycia sygnałem multipleksu II terytorium RP, na którym zamieszkuje co najmniej 95 % ludności, zgodnie z warunkami określonymi w rezerwacji częstotliwości, o której mowa w art. 8. Art. 10Ze zmianą wprowadzoną przez art. 41 pkt 3 ustawy, o której mowa w odnośniku 2..
 
 1. Nadawcy, którzy uzyskali rezerwację częstotliwości w służbie radiodyfuzyjnej na cele rozpowszechniania lub rozprowadzania programów telewizyjnych w sposób cyfrowy drogą rozsiewczą naziemną, ustalonych w planie zagospodarowania częstotliwości dla multipleksu I i multipleksu II na podstawie art. 63 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, powinni zawrzeć umowę o świadczenie usługi transmisji sygnału tych programów telewizyjnych w terminie 30 dni od dnia wejścia w życie ustawy.
 
-2. Nadawcy, którzy uzyskają rezerwację częstotliwości w służbie radiodyfuzyjnej na cele rozpowszechniania lub rozprowadzania programów telewizyjnych w sposób cyfrowy drogą rozsiewczą naziemną, ustalonych w planie zagospodarowania częstotliwości dla multipleksu I na podstawie art. 63 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, powinni zawrzeć umowę o świadczenie usługi transmisji sygnału tych programów telewizyjnych w terminie 30 dni od daty wydania decyzji rezerwacyjnej przez Prezesa UKE.
+2. Nadawcy, którzy uzyskają rezerwację częstotliwości w służbie radiodyfuzyjnej na cele rozpowszechniania lub rozprowadzania programów telewizyjnych w sposób cyfrowy drogą rozsiewczą naziemną, ustalonych w planie zagospodarowania częstotliwości dla multipleksu I na podstawie art. 63 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, powinni zawrzeć umowę o świadczenie usługi transmisji sygnału tych programów telewizyjnych w terminie 30 dni od daty wydania decyzji rezerwacyjnej przez Prezesa UKE. Art. 11Ze zmianą wprowadzoną przez art. 41 pkt 4 ustawy, o której mowa w odnośniku 2.. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
 
-**Art. 11.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
-
-#### Rozdział 3 Kampania informacyjna o telewizji cyfrowej
+#### Rozdział 3
 
 **Art. 12.**
 
@@ -178,19 +177,19 @@ Art. 20–22.
 
 - **1)** popularyzowanie informacji związanych z odbiorem programu telewizyjnego w sposób cyfrowy drogą rozsiewczą naziemną, w tym ich publikowanie w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra,
 - **2)** opracowywanie i wydawanie publikacji popularyzujących wiedzę o odbiorze programu telewizyjnego w sposób cyfrowy drogą rozsiewczą naziemną, w tym wydawanie broszur i ulotek,
-- **3)** zapewnienie bezpłatnej infolinii i strony internetowej w celu udzielania informacji, w szczególności o sposobie dostosowania odbiornika telewizyjnego do odbioru programu telewizyjnego w sposób cyfrowy, w tym odbioru programu telewizyjnego w sposób cyfrowy drogą rozsiewczą naziemną z uwzględnieniem użytkowników o specjalnych potrzebach, w szczególności osób niepełnosprawnych z powodu dysfunkcji narządu wzroku albo słuchu.
+- **3)** zapewnienie bezpłatnej infolinii i strony internetowej w celu udzielania informacji, w szczególności o sposobie dostosowania odbiornika telewizyjnego do odbioru programu telewizyjnego w sposób cyfrowy, w tym odbioru programu telewizyjnego w sposób cyfrowy drogą rozsiewczą naziemną – z uwzględnieniem użytkowników o specjalnych potrzebach, w szczególności osób niepełnosprawnych z powodu dysfunkcji narządu wzroku albo słuchu.
 
 2. Kampania informacyjna, o której mowa w ust. 1, rozpoczyna się z dniem wejścia w życie ustawy i jest prowadzona do dnia 31 lipca 2013 r.
 
 3. Minister właściwy do spraw informatyzacji z dniem wejścia w życie ustawy ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra numer bezpłatnej infolinii i adres strony internetowej, o których mowa w ust. 1 pkt 3.
 
-#### Rozdział 4 Kary pieniężne
+#### Rozdział 4
 
 **Art. 17.** Podmiot:
 
 - **1)** o którym mowa w art. 4 ust. 1, który nie zaprzestał wykorzystywania częstotliwości w służbie radiodyfuzyjnej w celu rozpowszechniania programu telewizyjnego w sposób analogowy drogą rozsiewczą naziemną w terminie określonym w art. 4 ust. 1 lub 2,
 - **2)** który nie wykonuje obowiązku określonego w art. 9 lub wykonuje go niezgodnie z tym przepisem,
-- **3)** który nie wykonuje obowiązków określonych w art. 10, art. 12 lub art. 15 lub wykonuje je niezgodnie z tymi przepisami podlega karze pieniężnej.
+- **3)** który nie wykonuje obowiązków określonych w art. 10, art. 12 lub art. 15 lub wykonuje je niezgodnie z tymi przepisami – podlega karze pieniężnej.
 
 **Art. 18.**
 
@@ -217,23 +216,23 @@ Art. 20–22.
 
 4. Kara pieniężna stanowi dochód budżetu państwa.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+#### Rozdział 5
 
-#### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
+#### Rozdział 6
 
 **Art. 23.** Postępowania w sprawie rezerwacji częstotliwości na cele rozpowszechniania programów telewizyjnych w sposób analogowy drogą rozsiewczą naziemną albo jej zmiany, wszczęte i niezakończone w dniu wejścia w życie ustawy decyzją ostateczną, umarza się.
 
 **Art. 24.** Podmiot rozprowadzający w dniu wejścia w życie ustawy program telewizyjny w sieci telekomunikacyjnej może wystąpić z wnioskiem o nieodpłatne udostępnienie przez Telewizję Polską S.A. programów telewizyjnych „Telewizja Polska I”, „Telewizja Polska II” i regionalnego programu telewizyjnego oraz przez nadawców: Telewizję Polsat S.A., TVN S.A., Polskie Media S.A., Telewizję Puls Sp. z o.o., programów telewizyjnych rozpowszechnianych w dniu wejścia w życie ustawy na podstawie koncesji na rozpowszechnianie tych programów w sposób analogowy drogą rozsiewczą naziemną, nie wcześniej niż po upływie 30 dni od dnia wejścia w życie ustawy.
 
-**Art. 25.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 132 ust. 3 ustawy wymienionej w art. 22 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 132 ust. 3 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 36 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane na podstawie art. 132 ust. 3 i 4 ustawy wymienionej w art. 22, w brzmieniu nadanym niniejszą ustawą.
+**Art. 25.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 132 ust. 3 ustawy wymienionej w art. 22Artykuł 22 zawiera zmiany do ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne. zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 132 ust. 3 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 36 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane na podstawie art. 132 ust. 3 i 4 ustawy wymienionej w art. 22Artykuł 22 zawiera zmiany do ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne., w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 26.** W przypadku zawarcia przez nadawców, o których mowa w art. 10 ust. 1, umów, o których mowa w tym przepisie, przed dniem wejścia w życie ustawy, umowy te uznaje się za zawarte w trybie tej ustawy.
 
 **Art. 27.** Nie stwierdza się nieważności, udzielonej na rzecz Telewizji Polsat S.A., TVN S.A., Polskich Mediów S.A. oraz Telewizji Puls Sp. z o.o., koncesji na rozpowszechnianie programów Polsat, TVN, TV4, TV Puls w multipleksie II, jeżeli przed dniem wejścia w życie ustawy rozpoczęto wykorzystywanie częstotliwości w celu rozpowszechniania programu telewizyjnego w sposób cyfrowy drogą rozsiewczą naziemną. Art. 158 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) stosuje się odpowiednio.
 
-**Art. 28.** Prezes UKE w terminie 30 dni od dnia wejścia w życie ustawy dostosuje z urzędu decyzje w sprawie rezerwacji częstotliwości dla nadawców, o których mowa w art. 4, w zakresie, o którym mowa w art. 115 ust. 4 i art. 115b ustawy zmienianej w art. 22.
+**Art. 28.** Prezes UKE w terminie 30 dni od dnia wejścia w życie ustawy dostosuje z urzędu decyzje w sprawie rezerwacji częstotliwości dla nadawców, o których mowa w art. 4, w zakresie, o którym mowa w art. 115 ust. 4 i art. 115b ustawy zmienianej w art. 22Artykuł 22 zawiera zmiany do ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne..
 
-**Art. 29.** Pierwszą ocenę realizacji obowiązku, o którym mowa w art. 43 ust. 3 ustawy wymienionej w art. 20, w brzmieniu nadanym niniejszą ustawą, Przewodniczący KRRiT przeprowadza najpóźniej do dnia 31 grudnia 2011 r.
+**Art. 29.** Pierwszą ocenę realizacji obowiązku, o którym mowa w art. 43 ust. 3 ustawy wymienionej w art. 20Artykuł 20 zawiera zmiany do ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji., w brzmieniu nadanym niniejszą ustawą, Przewodniczący KRRiT przeprowadza najpóźniej do dnia 31 grudnia 2011 r.
 
 **Art. 30.**
 
@@ -246,5 +245,5 @@ Art. 20–22.
 
 3. Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw informatyzacji.
 
-**Art. 31.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6 i art. 19, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.
+**Art. 31.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniaUstawa została ogłoszona w dniu 26 lipca 2011 r., z wyjątkiem art. 6 i art. 19, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/136/WE z dnia 25 listopada 2009 r. zmieniającej dyrektywę 2002/22/WE w sprawie usługi powszechnej i związanych z sieciami i usługami łączności elektronicznej praw użytkowników, dyrektywę 2002/58/WE dotyczącą przetwarzania danych osobowych i ochrony prywatności w sektorze łączności elektronicznej oraz rozporządzenie (WE) nr 2006/2004 w sprawie współpracy między organami krajowymi odpowiedzialnymi za egzekwowanie przepisów prawa w zakresie ochrony konsumentów (Dz. Urz. UE L 337 z 18.12.2009, str. 11). 2) Ze zmianą wprowadzoną przez art. 41 pkt 1 lit. a ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która weszła w życie z dniem 10 listopada 2024 r. 3) Ze zmianą wprowadzoną przez art. 41 pkt 1 lit. b ustawy, o której mowa w odnośniku 2. 4) Ze zmianą wprowadzoną przez art. 41 pkt 1 lit. c ustawy, o której mowa w odnośniku 2. 5) Ze zmianą wprowadzoną przez art. 41 pkt 1 lit. d ustawy, o której mowa w odnośniku 2. 6) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 41 pkt 2 ustawy, o której mowa w odnośniku 2. 7) Ustawa utraciła moc z dniem 25 grudnia 2014 r. na podstawie art. 52 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. poz. 827), która weszła w życie z dniem 25 grudnia 2014 r. 8) Ze zmianą wprowadzoną przez art. 41 pkt 3 ustawy, o której mowa w odnośniku 2. 9) Ze zmianą wprowadzoną przez art. 41 pkt 4 ustawy, o której mowa w odnośniku 2. 10) Artykuł 22 zawiera zmiany do ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne. 11) Artykuł 20 zawiera zmiany do ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji. 12) Ustawa została ogłoszona w dniu 26 lipca 2011 r.
 

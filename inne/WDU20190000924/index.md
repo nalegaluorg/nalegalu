@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy o pomocy państwa w wychowywaniu dzieci oraz niektórych innych ustaw
+# Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy o pomocy państwa w wychowywaniu dzieci oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych oraz ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej.
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-26 |
 | Data wydania | 2019-05-17 |
-| Wejście w życie | 2019-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000924) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/924/text.pdf) |
 
@@ -89,12 +88,15 @@ source: "eli-html"
 
 1. Ustalenie prawa do świadczenia wychowawczego oraz jego wypłata następują odpowiednio na wniosek matki, ojca, opiekuna faktycznego dziecka, opiekuna prawnego dziecka albo dyrektora domu pomocy społecznej.
 
-2. Wniosek składa się w urzędzie gminy lub miasta właściwym ze względu na miejsce zamieszkania osoby ubiegającej się o świadczenie wychowawcze, a w przypadku gdy o świadczenie wychowawcze ubiega się dyrektor domu pomocy społecznej – właściwym ze względu na miejsce położenia tego domu pomocy społecznej. ” , w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) dzieci, na które osoba, o której mowa w ust. 1, ubiega się o przyznanie świadczenia wychowawczego, w tym: imię, nazwisko, datę urodzenia, stan cywilny, obywatelstwo, płeć, numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość; ” , – dodaje się pkt 3 w brzmieniu: „ 3) innych osób, podane przez osobę ubiegającą się o przyznanie świadczenia wychowawczego – jeżeli w sprawie mają zastosowanie przepisy o koordynacji systemów zabezpieczenia społecznego. ” , w ust. 4: – uchyla się pkt 1 i 2, – w pkt 3 lit. d otrzymuje brzmienie: „ d) inne dokumenty, w tym oświadczenia, potwierdzające spełnianie warunków do przyznania lub ustalenia wysokości świadczenia wychowawczego będącego przedmiotem wniosku. ” , uchyla się ust. 12, 13, 16 i 17, ust. 18 i 19 otrzymują brzmienie: „
+2. Wniosek składa się w urzędzie gminy lub miasta właściwym ze względu na miejsce zamieszkania osoby ubiegającej się o świadczenie wychowawcze, a w przypadku gdy o świadczenie wychowawcze ubiega się dyrektor domu pomocy społecznej – właściwym ze względu na miejsce położenia tego domu pomocy społecznej. ” , w ust. 3: pkt 2 otrzymuje brzmienie: „
 
 - **b)**
-- **c)**
-- **d)**
-- **e)**
+- **2)** dzieci, na które osoba, o której mowa w ust. 1, ubiega się o przyznanie świadczenia wychowawczego, w tym: imię, nazwisko, datę urodzenia, stan cywilny, obywatelstwo, płeć, numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość; ” , dodaje się pkt 3 w brzmieniu: „
+- **3)** innych osób, podane przez osobę ubiegającą się o przyznanie świadczenia wychowawczego – jeżeli w sprawie mają zastosowanie przepisy o koordynacji systemów zabezpieczenia społecznego. ” , w ust. 4: – uchyla się pkt 1 i 2, w pkt 3 lit. d otrzymuje brzmienie: „ inne dokumenty, w tym oświadczenia, potwierdzające spełnianie warunków do przyznania lub ustalenia wysokości świadczenia wychowawczego będącego przedmiotem wniosku. ” , uchyla się ust. 12, 13, 16 i 17, ust. 18 i 19 otrzymują brzmienie: „
+    - **c)**
+    - **d)**
+    - **d)**
+    - **e)**
 
 18. Ilekroć w postępowaniach w sprawach o przyznanie świadczenia wychowawczego jest wymagane potwierdzenie nieponoszenia opłaty za pobyt dziecka w instytucji zapewniającej całodobowe utrzymanie, osoba ubiegająca się o przyznanie świadczenia wychowawczego przedkłada odpowiednie zaświadczenie lub oświadczenie.
 
@@ -114,16 +116,20 @@ source: "eli-html"
 
 3. Nieodebranie informacji o przyznaniu świadczenia wychowawczego nie wstrzymuje wypłaty tego świadczenia. ” ;
 
-- **13)** w art. 14: w ust. 2 w pkt 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ dane dotyczące osób pobierających świadczenie wychowawcze, osób ubiegających się o świadczenie wychowawcze oraz dzieci, na które osoby te pobierają świadczenie wychowawcze lub ubiegają się o przyznanie tego świadczenia: ” , – lit. h otrzymuje brzmienie: „ h) stopień pokrewieństwa, ” , – uchyla się lit. i, ic oraz l, – lit. n otrzymuje brzmienie: „ n) organ, który przyznał świadczenie, datę przyznania świadczenia oraz numer sprawy, ” , w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) organowi właściwemu i wojewodzie – w celu weryfikacji danych dotyczących osób ubiegających się o przyznanie świadczenia wychowawczego, osób pobierających świadczenie wychowawcze oraz dzieci, na które osoby te pobierają świadczenie wychowawcze lub ubiegają się o przyznanie świadczenia wychowawczego; ” , – w pkt 4 średnik zastępuje się kropką i uchyla się pkt 5, ust. 6 otrzymuje brzmienie: „
+- **13)** w art. 14: w ust. 2 w pkt 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ dane dotyczące osób pobierających świadczenie wychowawcze, osób ubiegających się o świadczenie wychowawcze oraz dzieci, na które osoby te pobierają świadczenie wychowawcze lub ubiegają się o przyznanie tego świadczenia: ” , lit. h otrzymuje brzmienie: „ stopień pokrewieństwa, ” , – uchyla się lit. i, ic oraz l, lit. n otrzymuje brzmienie: „ organ, który przyznał świadczenie, datę przyznania świadczenia oraz numer sprawy, ” , w ust. 4: pkt 1 otrzymuje brzmienie: „
     - **a)**
+    - **h)**
+    - **n)**
     - **b)**
+
+- **1)** organowi właściwemu i wojewodzie – w celu weryfikacji danych dotyczących osób ubiegających się o przyznanie świadczenia wychowawczego, osób pobierających świadczenie wychowawcze oraz dzieci, na które osoby te pobierają świadczenie wychowawcze lub ubiegają się o przyznanie świadczenia wychowawczego; ” , – w pkt 4 średnik zastępuje się kropką i uchyla się pkt 5, ust. 6 otrzymuje brzmienie: „
     - **c)**
 
 6. Podmioty wymienione w ust. 4 przechowują informacje, o których mowa w ust. 2, przez okres 10 lat od dnia ich udostępnienia z rejestru centralnego, o którym mowa w ust. 2, z wyjątkiem informacji dotyczących osób, którym świadczenie wychowawcze nie zostało przyznane, które przechowuje się przez okres 1 roku od dnia, w którym decyzja w sprawie świadczenia stała się ostateczna, lub od dnia pozostawienia wniosku o ustalenie prawa do świadczenia bez rozpatrzenia. ” ;
 
 - **14)** w art. 15 ust. 1 otrzymuje brzmienie: „
 
-1. Jeżeli w stosunku do osoby ubiegającej się o przyznanie świadczenia wychowawczego lub osoby pobierającej to świadczenie wystąpią wątpliwości dotyczące sprawowania opieki nad dzieckiem, w tym również w przypadku, o którym mowa w art. 5a lub art. 22, wydatkowania świadczenia wychowawczego niezgodnie z celem lub marnotrawienia świadczenia wychowawczego, organ właściwy oraz wojewoda mogą zwrócić się do kierownika ośrodka pomocy społecznej o przeprowadzenie rodzinnego wywiadu środowiskowego, o którym mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.), w celu weryfikacji tych wątpliwości. ” ;
+1. Jeżeli w stosunku do osoby ubiegającej się o przyznanie świadczenia wychowawczego lub osoby pobierającej to świadczenie wystąpią wątpliwości dotyczące sprawowania opieki nad dzieckiem, w tym również w przypadku, o którym mowa w art. 5a lub art. 22, wydatkowania świadczenia wychowawczego niezgodnie z celem lub marnotrawienia świadczenia wychowawczego, organ właściwy oraz wojewoda mogą zwrócić się do kierownika ośrodka pomocy społecznej o przeprowadzenie rodzinnego wywiadu środowiskowego, o którym mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.), w celu weryfikacji tych wątpliwości. ” ;
 
 - **15)** w art. 16: ust. 2 otrzymuje brzmienie: „
     - **a)**
@@ -203,8 +209,11 @@ source: "eli-html"
 
 **Art. 24.** Podmioty realizujące zadania w zakresie świadczenia wychowawczego oraz podmioty, których systemy teleinformatyczne są wykorzystywane do składania wniosków i załączników do wniosków, o których mowa w art. 13 ust. 4, mogą przetwarzać, w zakresie niezbędnym do realizacji zadań wynikających z niniejszej ustawy, dane osobowe osoby ubiegającej się o świadczenie wychowawcze, dzieci, na które osoba ta ubiega się o przyznanie świadczenia wychowawczego, oraz dane innych osób wskazane we wniosku lub załącznikach do wniosku. ” ;
 
-- **23)** w art. 25: w ust. 2: – uchyla się pkt 1, 1a i 4, – pkt 5 otrzymuje brzmienie: „ 5) świadczenie wychowawcze wypłacone osobie innej niż osoba, której świadczenie zostało przyznane, z przyczyn niezależnych od organu, który przyznał świadczenie; ” , – dodaje się pkt 6 w brzmieniu: „ 6) świadczenie wychowawcze wypłacone mimo braku prawa do tego świadczenia. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+- **23)** w art. 25: w ust. 2: – uchyla się pkt 1, 1a i 4, pkt 5 otrzymuje brzmienie: „
     - **a)**
+
+- **5)** świadczenie wychowawcze wypłacone osobie innej niż osoba, której świadczenie zostało przyznane, z przyczyn niezależnych od organu, który przyznał świadczenie; ” , dodaje się pkt 6 w brzmieniu: „
+- **6)** świadczenie wychowawcze wypłacone mimo braku prawa do tego świadczenia. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
     - **b)**
 
 2a. Za nienależnie pobrane świadczenie wychowawcze nie uznaje się świadczenia przyznanego rodzicowi, opiekunowi prawnemu dziecka albo opiekunowi faktycznemu dziecka, który zmarł, pobranego przez rodzica, opiekuna prawnego dziecka albo opiekuna faktycznego dziecka, którym zostało ustalone prawo do świadczenia wychowawczego na podstawie art. 18 ust. 2b. ” , ust. 3 otrzymuje brzmienie: „
@@ -234,7 +243,7 @@ source: "eli-html"
 
 7. Wydatki zaplanowane na zadania wynikające z niniejszej ustawy, w częściach budżetowych, z wyłączeniem rezerw celowych, oraz przeniesione w trybie, o którym mowa w ust. 6, nie mogą być przeznaczane na realizację innych zadań. ” .
 
-**Art. 2.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2018 r. poz. 511, z późn. zm.) w art. 6d w ust. 4a uchyla się pkt 4.
+**Art. 2.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2018 r. poz. 511, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1925, 2192 i 2354 oraz z 2019 r. poz. 730.) w art. 6d w ust. 4a uchyla się pkt 4.
 
 **Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900) w art. 299:
 
@@ -243,7 +252,7 @@ source: "eli-html"
 - **2)** w § 4 pkt 3 otrzymuje brzmienie: „
 - **3)** wójtom, burmistrzom, prezydentom miast lub wojewodom w zakresie prowadzonych postępowań o przyznanie świadczeń rodzinnych, zasiłków dla opiekunów lub świadczeń pieniężnych wypłacanych w przypadku bezskuteczności egzekucji alimentów. ” .
 
-**Art. 4.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2018 r. poz. 2220, z późn. zm.) w art. 23 w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+**Art. 4.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2018 r. poz. 2220, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2354 oraz z 2019 r. poz. 60, 303, 577, 730 i 752.) w art. 23 w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
 
 - **3)** innych osób, podane przez osobę ubiegającą się o przyznanie świadczeń rodzinnych. ” . W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2018 r. poz. 998, 1076, 1544 i 2245 oraz z 2019 r. poz. 730) wprowadza się następujące zmiany:
 - **1)** po art. 113 dodaje się art. 113a w brzmieniu: „
@@ -340,5 +349,5 @@ source: "eli-html"
 
 **Art. 15.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13 ust. 22 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13 ust. 22 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 16.** Ustawa wchodzi w życie z dniem 1 lipca 2019 r.
+**Art. 16.** Ustawa wchodzi w życie z dniem 1 lipca 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych oraz ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1925, 2192 i 2354 oraz z 2019 r. poz. 730. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2354 oraz z 2019 r. poz. 60, 303, 577, 730 i 752.
 

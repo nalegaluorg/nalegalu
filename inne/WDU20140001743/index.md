@@ -31,11 +31,9 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 9 listopada 2010 r. w sprawie produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów (Dz. U. Nr 217, poz. 1432), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Obrony Narodowej z dnia 20 listopada 2013 r. zmieniającym rozporządzenie w sprawie produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów (Dz. U. poz. 1502).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 20 listopada 2013 r. zmieniającego rozporządzenie w sprawie produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów (Dz. U. poz. 1502), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 20 listopada 2013 r. zmieniającego rozporządzenie w sprawie produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów (Dz. U. poz. 1502), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
-” .
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. ” .
 Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 9 listopada 2010 r. w sprawie produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów
 Na podstawie art. 9 ust. 1 ustawy z dnia 22 czerwca 2001 r. o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów (Dz. U. Nr 76, poz. 812 oraz z 2010 r. Nr 182, poz. 1228) zarządza się, co następuje:
 § 1.
@@ -108,7 +106,7 @@ Czynności, o których mowa w ust. 2, prowadzi się w obecności personelu słu�
 Do szkolenia z użyciem toksycznych związków chemicznych, wymienionych w Wykazie 1, dopuszcza się jedynie te osoby, które przeszły szkolenie teoretyczne z zasad działania wykorzystywanych związków chemicznych oraz zasad postępowania w przypadku skażenia takimi związkami.
 5.
 Związki chemiczne planowane do wykorzystania w procesie szkolenia powinny być dostarczone przed przybyciem uczestników szkolenia, w ilości zaplanowanej przez prowadzącego szkolenie.
-§ 10.
+§ 10W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 20 listopada 2013 r. zmieniającego rozporządzenie w sprawie produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów (Dz. U. poz. 1502), które weszło w życie z dniem 1 stycznia 2014 r..
 Minister Obrony Narodowej za pośrednictwem Dowódcy Generalnego Rodzajów Sił Zbrojnych sprawuje nadzór nad prowadzeniem działalności z wykorzystaniem toksycznych związków chemicznych lub ich prekursorów, wymienionych w Wykazie 1, w jednostkach i komórkach organizacyjnych podporządkowanych Ministrowi Obrony Narodowej oraz przez niego nadzorowanych, a także w przedsiębiorstwach państwowych, dla których jest on organem założycielskim.
 § 11.
 1.
@@ -122,5 +120,5 @@ Informacje, o których mowa w ust. 1, jednostki i komórki organizacyjne oraz pr
 § 12.
 Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 29 października 2002 r. w sprawie produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów (Dz. U. Nr 188, poz. 1579).
 § 13.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszeniaRozporządzenie zostało ogłoszone w dniu 19 listopada 2010 r.. 1) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Obrony Narodowej z dnia 20 listopada 2013 r. zmieniającego rozporządzenie w sprawie produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów (Dz. U. poz. 1502), które weszło w życie z dniem 1 stycznia 2014 r. 2) Rozporządzenie zostało ogłoszone w dniu 19 listopada 2010 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 22 sierpnia 2019 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 22 sierpnia 2019 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-22 |
 | Data wydania | 2019-08-27 |
-| Wejście w życie | 2019-09-01 |
 | Ostatnia zmiana | 2025-05-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1624/text.pdf) |
 
@@ -138,8 +137,7 @@ W szkole obowiązkowe zajęcia edukacyjne:
 1)
 ogólnokształcące – są realizowane w systemie lekcyjno-klasowym w oddziale, grupie oddziałowej, grupie międzyoddziałowej lub grupie międzyklasowej,
 2)
-artystyczne – są realizowane w formie indywidualnej lub grupowej, w tym w systemie lekcyjno-klasowym w oddziale lub grupie oddziałowej
-zgodnie z zasadami określonymi w przepisach wydanych na podstawie art. 47 ust. 1a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą”.
+artystyczne – są realizowane w formie indywidualnej lub grupowej, w tym w systemie lekcyjno-klasowym w oddziale lub grupie oddziałowej – zgodnie z zasadami określonymi w przepisach wydanych na podstawie art. 47 ust. 1a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą”.
 2.
 Zajęcia edukacyjne mogą być prowadzone w szkole także w formie plenerów artystycznych, zielonych szkół, obozów naukowych lub artystycznych, realizacji spektakli, przedstawień, koncertów i wystaw.
 3.
@@ -365,6 +363,5 @@ W szkołach, w których zajęcia dydaktyczno-wychowawcze są realizowane przez 5
 § 15.
 Do dnia 31 sierpnia 2020 r. organy prowadzące szkołę lub placówkę dostosują do przepisów rozporządzenia nazwę szkoły lub placówki.
 § 16.
-Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 27 lipca 2018 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1531), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 27 lipca 2018 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1531), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287). 1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 27 lipca 2018 r. w sprawie szczegółowej organizacji publicznych szkół i placówek artystycznych (Dz. U. poz. 1531), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 

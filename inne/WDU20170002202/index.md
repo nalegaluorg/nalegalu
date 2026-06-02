@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-29 |
 | Data wydania | 2017-11-29 |
-| Wejście w życie | 2017-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2202/text.pdf) |
 
@@ -90,5 +89,5 @@ warunków bezpieczeństwa podczas konwojowania szczególnie niebezpiecznych prze
 4)
 sposobu wykonywania zadań policji sądowej.
 § 8.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 27 grudnia 2001 r. w sprawie zakresu czynności policji sądowej wykonywanych przez żołnierzy Żandarmerii Wojskowej oraz szczegółowy sposób ich wykonania (Dz. U. poz. 1857), które na podstawie art. 73 pkt 3 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103 oraz z 2017 r. poz. 1452) utraciło moc z dniem 4 kwietnia 2017 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 27 grudnia 2001 r. w sprawie zakresu czynności policji sądowej wykonywanych przez żołnierzy Żandarmerii Wojskowej oraz szczegółowy sposób ich wykonania (Dz. U. poz. 1857), które na podstawie art. 73 pkt 3 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103 oraz z 2017 r. poz. 1452) utraciło moc z dniem 4 kwietnia 2017 r.
 

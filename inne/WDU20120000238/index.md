@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-02-09 |
 | Data wydania | 2012-03-05 |
-| Wejście w życie | 2012-03-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000238) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/238/text.pdf) |
 
@@ -35,8 +34,7 @@ w § 5:
 a)
 w pkt 1 po lit. b dodaje się lit. ba w brzmieniu: „ ba) dyrektora instytutu badawczego, ” ,
 b)
-po pkt 8 dodaje pkt 8a i 8b w brzmieniu:
-„
+po pkt 8 dodaje pkt 8a i 8b w brzmieniu: „
 8a)
 dyrektor instytutu badawczego w stosunku do:
 a)
@@ -44,22 +42,17 @@ kierownika komórki organizacyjnej bezpośrednio mu podległej,
 b)
 policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;
 8b)
-kierownik komórki organizacyjnej, o którym mowa w pkt 8a lit. a, w stosunku do podległych mu policjantów;
-” ;
+kierownik komórki organizacyjnej, o którym mowa w pkt 8a lit. a, w stosunku do podległych mu policjantów; ” ;
 2)
 w § 7 w ust. 2:
 a)
-w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu:
-„
+w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „
 d)
-dyrektora instytutu badawczego;
-” ,
+dyrektora instytutu badawczego; ” ,
 b)
-w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
-„
+w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 5)
-dyrektor instytutu badawczego w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej.
-” .
+dyrektor instytutu badawczego w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej. ” .
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy – Kodeks wyborczy oraz niektórych innych ustaw
+# Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy – Kodeks wyborczy oraz niektórych innych ustaw Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa oraz ustawę z dnia 5 stycznia 2011 r. – Przepisy wprowadzające ustawę – Kodeks wyborczy.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-11 |
 | Data wydania | 2014-08-11 |
-| Wejście w życie | 2014-08-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001072) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1072/text.pdf) |
 
 Głosowanie korespondencyjne
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179 i 180.) wprowadza się następujące zmiany:
 
 - **1)** po art. 12 dodaje się art. 12a w brzmieniu: „
 
@@ -128,7 +127,7 @@ Głosowanie korespondencyjne
 
 § 2. Głosowanie korespondencyjne jest wyłączone w wyborach do organów stanowiących jednostek samorządu terytorialnego oraz wyborach wójta.
 
-§ 3. Wyborca niepełnosprawny o znacznym lub umiarkowanym stopniu niepełnosprawności w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.) może głosować korespondencyjnie także w wyborach do organów stanowiących jednostek samorządu terytorialnego oraz wyborach wójta.
+§ 3. Wyborca niepełnosprawny o znacznym lub umiarkowanym stopniu niepełnosprawności w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598 i 877.) może głosować korespondencyjnie także w wyborach do organów stanowiących jednostek samorządu terytorialnego oraz wyborach wójta.
 
 § 4. Głosowanie korespondencyjne jest wyłączone w przypadku głosowania w obwodach głosowania utworzonych w jednostkach, o których mowa w art. 12 § 4 i 7, oraz w obwodach głosowania utworzonych na polskich statkach morskich, a także w przypadku udzielenia przez wyborcę niepełnosprawnego pełnomocnictwa do głosowania.
 
@@ -241,7 +240,7 @@ Głosowanie korespondencyjne
 
 - **1)** tryb odbierania kopert zwrotnych od wyborców oraz dostarczania ich do obwodowych komisji wyborczych,
 - **2)** tryb przekazywania pakietów wyborczych właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego, w sytuacji, o której mowa w art. 53e § 9 zdanie drugie,
-- **3)** tryb przekazywania kopert zwrotnych właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego, w sytuacji, o której mowa w art. 53i § 1 mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz zapewnienie bezpieczeństwa tych przesyłek.
+- **3)** tryb przekazywania kopert zwrotnych właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego, w sytuacji, o której mowa w art. 53i § 1 – mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz zapewnienie bezpieczeństwa tych przesyłek.
 
 § 2. Minister właściwy do spraw administracji publicznej, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia tryb odbierania oraz przechowywania kopert zwrotnych dostarczonych przez wyborcę do urzędu gminy przed dniem głosowania mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz konieczność zabezpieczenia kopert zwrotnych i kart do głosowania.
 
@@ -251,21 +250,21 @@ Głosowanie korespondencyjne
 - **2)** sposób postępowania z kopertami zwrotnymi doręczonymi do obwodowej komisji wyborczej po zakończeniu głosowania,
 - **3)** sposób postępowania z kopertami zwrotnymi zawierającymi niezaklejone koperty na kartę do głosowania,
 - **4)** sposób postępowania z kopertami zwrotnymi niezawierającymi podpisanego oświadczenia, o którym mowa w art. 53g § 1 pkt 6,
-- **5)** sposób postępowania z pakietami wyborczymi nieodebranymi przez wyborcę mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz konieczność zabezpieczenia pakietów wyborczych, a w szczególności kopert zwrotnych i kart do głosowania.
+- **5)** sposób postępowania z pakietami wyborczymi nieodebranymi przez wyborcę – mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz konieczność zabezpieczenia pakietów wyborczych, a w szczególności kopert zwrotnych i kart do głosowania.
 
 § 4. Minister właściwy do spraw zagranicznych, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, dla głosowania za granicą:
 
 - **1)** tryb przekazywania pakietu wyborczego,
 - **2)** tryb odbierania kopert zwrotnych dostarczonych przez wyborcę do konsula przed dniem głosowania,
 - **3)** tryb przechowywania kopert zwrotnych otrzymanych przez konsula do czasu zakończenia głosowania,
-- **4)** tryb przekazywania kopert zwrotnych do obwodowych komisji wyborczych mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz ochrony pakietów wyborczych, a w szczególności kopert zwrotnych i kart do głosowania.
+- **4)** tryb przekazywania kopert zwrotnych do obwodowych komisji wyborczych – mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz ochrony pakietów wyborczych, a w szczególności kopert zwrotnych i kart do głosowania.
 
 § 5. Państwowa Komisja Wyborcza, po zasięgnięciu opinii ministra właściwego do spraw zagranicznych, określi, w drodze uchwały, dla głosowania za granicą:
 
 - **1)** sposób postępowania z kopertami zwrotnymi doręczonymi do obwodowej komisji wyborczej do zakończenia głosowania,
 - **2)** sposób postępowania z kopertami zwrotnymi zawierającymi niezaklejone koperty na kartę do głosowania,
 - **3)** sposób postępowania z kopertami zwrotnymi niezawierającymi podpisanego oświadczenia, o którym mowa w art. 53g § 1 pkt 6,
-- **4)** sposób postępowania z pakietami wyborczymi, o których mowa w art. 53f § 4, oraz kopertami zwrotnymi, o których mowa art. 53i § 2 mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz ochrony pakietów wyborczych, a w szczególności kopert zwrotnych i kart do głosowania.
+- **4)** sposób postępowania z pakietami wyborczymi, o których mowa w art. 53f § 4, oraz kopertami zwrotnymi, o których mowa art. 53i § 2 – mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz ochrony pakietów wyborczych, a w szczególności kopert zwrotnych i kart do głosowania.
 
 § 1. W przypadku głosowania korespondencyjnego w kraju zadania polegające na przyjmowaniu, przemieszczaniu i doręczaniu przesyłek pakietów wyborczych oraz przesyłek kopert zwrotnych wykonuje, z zastrzeżeniem art. 53e § 3 i 5 oraz art. 53h § 3 pkt 1 i § 5, operator wyznaczony w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
 
@@ -347,15 +346,19 @@ Głosowanie korespondencyjne
 
 - **32)** w art. 143 § 4 otrzymuje brzmienie: „
 
-§ 4. Wykaz wpłat obywateli polskich na rzecz komitetu wyborczego organizacji i komitetu wyborczego wyborców Państwowa Komisja Wyborcza i komisarz wyborczy udostępniają do wglądu na wniosek, w trybie i na zasadach określonych przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm.). ” ;
+§ 4. Wykaz wpłat obywateli polskich na rzecz komitetu wyborczego organizacji i komitetu wyborczego wyborców Państwowa Komisja Wyborcza i komisarz wyborczy udostępniają do wglądu na wniosek, w trybie i na zasadach określonych przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238, z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497 oraz z 2011 r. Nr 230, poz. 1371.). ” ;
 
-- **33)** w art. 144: w § 1: – pkt 2 otrzymuje brzmienie: „ 2) przyjmuje sprawozdanie, wskazując na jego uchybienia, w szczególności w przypadku gdy pozyskane, przyjęte lub wydatkowane z naruszeniem przepisów, o których mowa w pkt 3 lit. a, d i e środki finansowe nie przekraczają 1% ogólnej kwoty przychodów komitetu wyborczego, albo ” , – w pkt 3 lit. d i e otrzymują brzmienie: „ d) przyjęcia przez komitet wyborczy wyborców albo komitet wyborczy organizacji korzyści majątkowych z naruszeniem przepisów art. 132 § 3–6, e) przyjęcia przez komitet wyborczy partii politycznej albo koalicyjny komitet wyborczy korzyści majątkowych o charakterze niepieniężnym z naruszeniem przepisu art. 132 § 5. ” , § 5 i 6 otrzymują brzmienie: „
+- **33)** w art. 144: w § 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** przyjmuje sprawozdanie, wskazując na jego uchybienia, w szczególności w przypadku gdy pozyskane, przyjęte lub wydatkowane z naruszeniem przepisów, o których mowa w pkt 3 lit. a, d i e środki finansowe nie przekraczają 1% ogólnej kwoty przychodów komitetu wyborczego, albo ” , w pkt 3 lit. d i e otrzymują brzmienie: „ przyjęcia przez komitet wyborczy wyborców albo komitet wyborczy organizacji korzyści majątkowych z naruszeniem przepisów art. 132 § 3–6, przyjęcia przez komitet wyborczy partii politycznej albo koalicyjny komitet wyborczy korzyści majątkowych o charakterze niepieniężnym z naruszeniem przepisu art. 132 § 5. ” , § 5 i 6 otrzymują brzmienie: „
+    - **d)**
+    - **e)**
     - **b)**
 
 § 5. Organy administracji publicznej udzielają Państwowej Komisji Wyborczej lub komisarzom wyborczym, na ich żądanie, pomocy niezbędnej w badaniu sprawozdania finansowego.
 
-§ 6. Organy kontroli, rewizji i inspekcji działające w administracji rządowej i samorządzie terytorialnym współpracują z Państwową Komisją Wyborczą oraz komisarzami wyborczymi i są obowiązane do udostępniania Państwowej Komisji Wyborczej oraz komisarzom wyborczym, na ich wniosek, wyników postępowań kontrolnych prowadzonych przez te organy. ” , w § 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W terminie 30 dni, odpowiednio, od dnia ogłoszenia sprawozdania finansowego albo od dnia ogłoszenia komunikatu, o którym mowa w art. 143 § 3 zdanie drugie: ” , – część wspólna kończąca wyliczenie otrzymuje brzmienie: „ – mogą zgłaszać Państwowej Komisji Wyborczej lub komisarzom wyborczym umotywowane pisemne zastrzeżenia do sprawozdań finansowych komitetów wyborczych. ” ;
+§ 6. Organy kontroli, rewizji i inspekcji działające w administracji rządowej i samorządzie terytorialnym współpracują z Państwową Komisją Wyborczą oraz komisarzami wyborczymi i są obowiązane do udostępniania Państwowej Komisji Wyborczej oraz komisarzom wyborczym, na ich wniosek, wyników postępowań kontrolnych prowadzonych przez te organy. ” , w § 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W terminie 30 dni, odpowiednio, od dnia ogłoszenia sprawozdania finansowego albo od dnia ogłoszenia komunikatu, o którym mowa w art. 143 § 3 zdanie drugie: ” , część wspólna kończąca wyliczenie otrzymuje brzmienie: „ – mogą zgłaszać Państwowej Komisji Wyborczej lub komisarzom wyborczym umotywowane pisemne zastrzeżenia do sprawozdań finansowych komitetów wyborczych. ” ;
 
 - **c)**
 - **34)** w art. 149 § 3 i 4 otrzymują brzmienie: „
@@ -381,8 +384,11 @@ Głosowanie korespondencyjne
 **Art. 265a.** Jeżeli, w przypadku, o którym mowa w art. 222 § 1, skreślenie nazwiska kandydata na senatora nastąpiło wskutek jego śmierci, komisja zawiadamia osobę zgłaszającą kandydata o możliwości zgłoszenia nowego kandydata. Zgłoszenia dokonuje się najpóźniej w 15 dniu przed dniem wyborów; w takim przypadku przepisu art. 265 § 1 nie stosuje się. ” ;
 
 - **39)** w art. 343 dodaje się zdanie drugie w brzmieniu: „ Przepisy art. 210 § 2 i 3 stosuje się. ” ;
-- **40)** w art. 364: w § 1: – pkt 2 otrzymuje brzmienie: „ 2) zajmowania w dniu wyborów stanowiska lub pełnienia funkcji, o których mowa w przepisach art. 333 i art. 334 § 2; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) powołania w czasie kadencji na stanowisko lub powierzenia funkcji, o których mowa w przepisach art. 333 i art. 334 § 2; ” , § 2 otrzymuje brzmienie: „
+- **40)** w art. 364: w § 1: pkt 2 otrzymuje brzmienie: „
     - **a)**
+
+- **2)** zajmowania w dniu wyborów stanowiska lub pełnienia funkcji, o których mowa w przepisach art. 333 i art. 334 § 2; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** powołania w czasie kadencji na stanowisko lub powierzenia funkcji, o których mowa w przepisach art. 333 i art. 334 § 2; ” , § 2 otrzymuje brzmienie: „
     - **b)**
 
 § 2. Utrata mandatu posła do Parlamentu Europejskiego, w przypadku, o którym mowa w § 1 pkt 2, następuje, jeżeli nie złoży on Marszałkowi Sejmu, w terminie 14 dni od dnia ogłoszenia przez Państwową Komisję Wyborczą wyników wyborów do Parlamentu Europejskiego, oświadczenia o złożeniu rezygnacji z zajmowanego stanowiska lub pełnionej funkcji. ” , po § 2 dodaje się § 2a w brzmieniu: „
@@ -449,13 +455,13 @@ Głosowanie korespondencyjne
 
 **Art. 516.** Do postępowania w sprawach, o których mowa w art. 494–496, art. 498, art. 499, art. 503, art. 505, art. 505a oraz art. 511–513a, stosuje się przepisy o postępowaniu w sprawach o wykroczenia. ” .
 
-**Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594, z późn. zm.) w art. 24f w ust. 1a zdanie drugie otrzymuje brzmienie: „ Niewypełnienie obowiązku, o którym mowa w zdaniu pierwszym, stanowi podstawę do stwierdzenia wygaśnięcia mandatu radnego w trybie art. 383 ustawy, o której mowa w art. 24b ust. 6. ” .
+**Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 i 1318 oraz z 2014 r. poz. 379.) w art. 24f w ust. 1a zdanie drugie otrzymuje brzmienie: „ Niewypełnienie obowiązku, o którym mowa w zdaniu pierwszym, stanowi podstawę do stwierdzenia wygaśnięcia mandatu radnego w trybie art. 383 ustawy, o której mowa w art. 24b ust. 6. ” .
 
 **Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2013 r. poz. 595 i 645 oraz z 2014 r. poz. 379) w art. 26 w ust. 3 dodaje się zdanie drugie w brzmieniu: „ Utrata członkostwa w zarządzie powiatu następuje w dniu wyboru lub zatrudnienia. ” .
 
 **Art. 4.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2013 r. poz. 596 i 645 oraz z 2014 r. poz. 379) w art. 31 w ust. 3 dodaje się zdanie drugie w brzmieniu: „ Utrata członkostwa w zarządzie województwa następuje w dniu wyboru lub zatrudnienia. ” .
 
-**Art. 5.** W ustawie z dnia 5 stycznia 2011 r. – Przepisy wprowadzające ustawę – Kodeks wyborczy (Dz. U. Nr 21, poz. 113, z późn. zm.) art. 15a otrzymuje brzmienie: „
+**Art. 5.** W ustawie z dnia 5 stycznia 2011 r. – Przepisy wprowadzające ustawę – Kodeks wyborczy (Dz. U. Nr 21, poz. 113, z późn. zm.Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 588, Nr 147, poz. 881 i Nr 149, poz. 889 oraz z 2012 r. poz. 1399.) art. 15a otrzymuje brzmienie: „
 
 **Art. 15a.** Liczba lokali obwodowych komisji wyborczych dostosowanych do potrzeb wyborców niepełnosprawnych na terenie każdej gminy powinna wynosić co najmniej:
 
@@ -478,5 +484,5 @@ Głosowanie korespondencyjne
 - **1)** przepisów art. 12a i rozdziału 6a w dziale I ustawy, o której mowa w art. 1, nie stosuje się;
 - **2)** przepisy art. 45, art. 54 § 4, art. 57 § 3, rozdziału 7a w dziale I, art. 71a, art. 72 § 1–3 ustawy, o której mowa w art. 1, stosuje się w brzmieniu dotychczasowym.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa oraz ustawę z dnia 5 stycznia 2011 r. – Przepisy wprowadzające ustawę – Kodeks wyborczy. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179 i 180. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598 i 877. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238, z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497 oraz z 2011 r. Nr 230, poz. 1371. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 i 1318 oraz z 2014 r. poz. 379. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 588, Nr 147, poz. 881 i Nr 149, poz. 889 oraz z 2012 r. poz. 1399.
 

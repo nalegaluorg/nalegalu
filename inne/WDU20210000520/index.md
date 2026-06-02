@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Infrastrukturyz dnia 17 marca 2021 r. zmieniające rozporządzenie w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków
+# Rozporządzenie Ministra Infrastrukturyz dnia 17 marca 2021 r. zmieniające rozporządzenie w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków Minister Infrastruktury kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 6 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-17 |
 | Data wydania | 2021-03-22 |
-| Wejście w życie | 2021-04-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000520) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/520/text.pdf) |
 
@@ -33,6 +32,5 @@ W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 
 § 2.
 Wnioski o zatwierdzenie taryfy dla zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków sporządzone według wzoru określonego w przepisach dotychczasowych złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu.
 § 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 6 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 6 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
 

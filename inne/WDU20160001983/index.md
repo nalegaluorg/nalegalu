@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Obwieszczenie Ministra Rozwoju i Finansówz dnia 7 listopada 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju Regionalnego w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki
+# Obwieszczenie Ministra Rozwoju i Finansówz dnia 7 listopada 2016 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju Regionalnego w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 | Pole | Wartość |
 |---|---|
@@ -26,19 +26,17 @@ source: "eli-html"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001983) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1983/text.pdf) |
 
 Treść obwieszczenia
-Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 15 grudnia 2010 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki Rozdział 1 – Przepisy ogólne Rozdział 2 – Warunki wyłączeń Rozdział 3 – Udzielanie pomocy publicznej na subsydiowanie zatrudnienia Rozdział 4 – Udzielanie pomocy publicznej na szkolenia Rozdział 5 – Udzielanie pomocy publicznej na usługi doradcze dla mikroprzedsiębiorców, małych i średnich przedsiębiorców Rozdział 6 – Udzielanie pomocy na tymczasowe zatrudnienie wysoko wykwalifikowanego personelu Rozdział 7 – Udzielanie pomocy de minimis Rozdział 8 – Efekt zachęty Rozdział 9 – Tryb udzielania pomocy Rozdział 10 – Przepisy przejściowe i końcowe
+Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 15 grudnia 2010 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki
 Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju Regionalnego z dnia 15 grudnia 2010 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. z 2015 r. poz. 1959), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającym rozporządzenie w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1986).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającego rozporządzenie w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1986), który stanowi:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającego rozporządzenie w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1986), który stanowi: „
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-” .
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
-Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 15 grudnia 2010 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+Załącznik – Rozporządzenie Ministra Rozwoju Regionalnego z dnia 15 grudnia 2010 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał LudzkiObecnie działem administracji rządowej – rozwój regionalny kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2016 r. poz. 383, 1250, 1948 i 1954) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy publicznej, w ramach Programu Operacyjnego Kapitał Ludzki.
 § 2.
@@ -52,7 +50,7 @@ dużym przedsiębiorcy – należy przez to rozumieć przedsiębiorcę innego ni
 3a)
 instrumentach inżynierii finansowej – należy przez to rozumieć wyodrębnione księgowo fundusze utworzone w celu tworzenia korzystnych warunków dla rozwoju przedsiębiorczości przez udzielanie z ich środków pożyczek, których wypracowane zyski przeznaczane są na cele związane z utworzeniem tych funduszy, zarządzane w szczególności przez:
 a)
-banki krajowe, banki zagraniczne, instytucje kredytowe lub instytucje finansowe – w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.),
+banki krajowe, banki zagraniczne, instytucje kredytowe lub instytucje finansowe – w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854 i 1864 oraz z 2016 r. poz. 615, 904, 996, 1177, 1579 i 1948.),
 b)
 banki spółdzielcze – w rozumieniu ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2016 r. poz. 1826),
 c)
@@ -64,11 +62,11 @@ jednostce naukowej – należy przez to rozumieć podmiot, o którym mowa w art.
 4a)
 jednym przedsiębiorstwie – należy przez to rozumieć podmiot, o którym mowa w art. 2 ust. 2 rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1);
 5)
-leasingu – należy przez to rozumieć umowę leasingu w rozumieniu przepisów o podatkach dochodowych oraz w rozumieniu Międzynarodowych Standardów Sprawozdawczości Finansowej, o których mowa w rozporządzeniu Komisji (WE) nr 1126/2008 z dnia 3 listopada 2008 r. przyjmującym określone międzynarodowe standardy rachunkowości zgodnie z rozporządzeniem (WE) nr 1606/2002 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 320 z 29.11.2008, str. 1, z późn. zm.);
+leasingu – należy przez to rozumieć umowę leasingu w rozumieniu przepisów o podatkach dochodowych oraz w rozumieniu Międzynarodowych Standardów Sprawozdawczości Finansowej, o których mowa w rozporządzeniu Komisji (WE) nr 1126/2008 z dnia 3 listopada 2008 r. przyjmującym określone międzynarodowe standardy rachunkowości zgodnie z rozporządzeniem (WE) nr 1606/2002 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 320 z 29.11.2008, str. 1, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 338 z 17.12.2008, str. 10, 17, 21 i 25; Dz. Urz. UE L 339 z 18.12.2008, str. 3; Dz. Urz. UE L 17 z 22.01.2009, str. 23; Dz. Urz. UE L 21 z 24.01.2009, str. 10 i 16; Dz. Urz. UE L 80 z 26.03.2009, str. 5; Dz. Urz. UE L 139 z 05.06.2009, str. 6; Dz. Urz. UE L 149 z 12.06.2009, str. 6 i 22; Dz. Urz. UE L 191 z 23.07.2009, str. 5; Dz. Urz. UE L 239 z 10.09.2009, str. 48; Dz. Urz. UE L 244 z 16.09.2009, str. 6; Dz. Urz. UE L 311 z 26.11.2009, str. 6; Dz. Urz. UE L 312 z 27.11.2009, str. 8; Dz. Urz. UE L 314 z 01.12.2009, str. 15, 21 i 43; Dz. Urz. UE L 347 z 24.12.2009, str. 23; Dz. Urz. UE L 77 z 24.03.2010, str. 33 i 42; Dz. Urz. UE L 157 z 24.06.2010, str. 3; Dz. Urz. UE L 166 z 01.07.2010, str. 6; Dz. Urz. UE L 186 z 20.07.2010, str. 1 i 10; Dz. Urz. UE L 193, z 24.07.2010, str. 1; Dz. Urz. UE L 304 z 20.11.2010, str. 63; Dz. Urz. UE L 46 z 19.02.2011, str. 1; Dz. Urz. UE L 305 z 23.11.2011, str. 16; Dz. Urz. UE L 146 z 06.06.2012, str. 1; Dz. Urz. UE L 360 z 29.12. 2012, str. 1, 78 i 145; Dz. Urz. UE L 61 z 05.03.2013, str. 6; Dz. Urz. UE L 90 z 28.03.2013, str. 78; Dz. Urz. UE L 95 z 05.04.2013, str. 9; Dz. Urz. UE L 312 z 21.11.2013, str. 1; Dz. Urz. UE L 346 z 20.12.2013, str. 38 i 42; Dz. Urz. UE L 175 z 14.06.2014, str. 9; Dz. Urz. UE L 365, z 19.12.2014, str. 120; Dz. Urz. UE L 5 z 09.01.2015, str. 1 i 11; Dz. Urz. UE L 306 z 24.11.2015, str. 7; Dz. Urz. UE L 307 z 25.11.2015, str. 11; Dz. Urz. UE L 317 z 03.12.2015, str. 19; Dz. Urz. UE L 330 z 16.12.2015, str. 20; Dz. Urz. UE L 333 z 19.12.2015, str. 97; Dz. Urz. UE L 336 z 23.12.2015, str. 49; Dz. Urz. UE L 257 z 23.09.2016, str. 1 oraz Dz. Urz. UE L 295 z 29.10.2016, str. 19.;
 6)
-mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych) (Dz. Urz. UE L 214 z 09.08.2008, str. 3, z późn. zm.), zwanego dalej „rozporządzeniem Komisji”;
+mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych) (Dz. Urz. UE L 214 z 09.08.2008, str. 3, z późn. zm.Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 320 z 30.11.2013, str. 22.)Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r., zwanego dalej „rozporządzeniem Komisji”;
 7)
-oddelegowaniu – należy przez to rozumieć oddelegowanie, o którym mowa w art. 30 pkt 6 rozporządzenia Komisji ;
+oddelegowaniu – należy przez to rozumieć oddelegowanie, o którym mowa w art. 30 pkt 6 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 8)
 pracowniku – należy przez to rozumieć:
 a)
@@ -110,14 +108,15 @@ wydatek jest ponoszony przez beneficjenta pomocy niebędącego jednocześnie ben
 b)
 beneficjentowi pomocy będącemu jednocześnie beneficjentem, zgodnie z odrębnymi przepisami, nie przysługuje prawo do jego zwrotu lub odliczenia;
 15)
-wysoko wykwalifikowanym personelu – należy przez to rozumieć osoby, o których mowa w art. 30 pkt 5 rozporządzenia Komisji .
+wysoko wykwalifikowanym personelu – należy przez to rozumieć osoby, o których mowa w art. 30 pkt 5 rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
+Warunki wyłączeń
 § 3.
 1.
 Pomoc, o której mowa w § 1, nie może być udzielona:
 1)
-na pokrycie wydatków kwalifikowalnych związanych z działalnością, o której mowa w art. 1 ust. 2 lit. a i b rozporządzenia Komisji ;
+na pokrycie wydatków kwalifikowalnych związanych z działalnością, o której mowa w art. 1 ust. 2 lit. a i b rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 2)
-podmiotom, o których mowa w art. 1 ust. 6 lit. c rozporządzenia Komisji ;
+podmiotom, o których mowa w art. 1 ust. 6 lit. c rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.;
 3)
 na projekt, którego realizacja została rozpoczęta przed dniem złożenia wniosku o udzielenie pomocy, przy czym przez wniosek o udzielenie pomocy należy rozumieć:
 a)
@@ -127,9 +126,10 @@ umowę o przystąpieniu do projektu – w przypadku beneficjentów pomocy niebę
 4)
 oraz wypłacona podmiotom, na których ciąży obowiązek zwrotu pomocy, wynikający z decyzji Komisji Europejskiej, uznającej pomoc za niezgodną z prawem lub ze wspólnym rynkiem (rynkiem wewnętrznym) – zgodnie z art. 25 ust. 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 2.
-Pomocy, o której mowa w § 1, udziela się we wszystkich sektorach gospodarki, z wyłączeniem przypadków, o których mowa w art. 1 ust. 3 lit. a-d rozporządzenia Komisji .
+Pomocy, o której mowa w § 1, udziela się we wszystkich sektorach gospodarki, z wyłączeniem przypadków, o których mowa w art. 1 ust. 3 lit. a-d rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
+Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
 § 4.
-Pomoc na subsydiowanie zatrudnienia jest udzielana zgodnie z przepisami rozdziału I, sekcji 9 w rozdziale II oraz rozdziału III rozporządzenia Komisji .
+Pomoc na subsydiowanie zatrudnienia jest udzielana zgodnie z przepisami rozdziału I, sekcji 9 w rozdziale II Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r.oraz rozdziału III rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 § 5.
 1.
 Pomoc, o której mowa w § 4, może być przeznaczona na pokrycie ponoszonych przez beneficjenta pomocy wydatków związanych z:
@@ -210,13 +210,13 @@ w przypadku pomocy na subsydiowanie zatrudnienia pracowników znajdujących się
 2)
 w przypadku pomocy na subsydiowanie zatrudnienia pracowników niepełnosprawnych – 10 000 000 euro,
 3)
-w przypadku pomocy na pokrycie dodatkowych kosztów zatrudnienia pracowników niepełnosprawnych – 10 000 000 euro
-obliczanej według średniego kursu ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu udzielenia pomocy.
+w przypadku pomocy na pokrycie dodatkowych kosztów zatrudnienia pracowników niepełnosprawnych – 10 000 000 euro – obliczanej według średniego kursu ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu udzielenia pomocy.
 § 18.
 W przypadku niedotrzymania z przyczyn leżących po stronie beneficjenta pomocy warunków dotyczących udzielania pomocy na subsydiowanie zatrudnienia, w tym w szczególności dotyczących wzrostu netto liczby pracowników u danego beneficjenta pomocy, okresu zatrudnienia oraz intensywności pomocy, beneficjent pomocy zwraca całość uzyskanej pomocy wraz z odsetkami naliczanymi jak dla zaległości podatkowych od dnia udzielenia pomocy.
+Udzielanie pomocy publicznej na szkolenia
 § 19.
 1.
-Pomoc na pokrycie kosztów uczestnictwa w szkoleniu beneficjentów pomocy lub pracowników beneficjentów pomocy oddelegowanych na szkolenie jest udzielana zgodnie z przepisami rozdziału I, sekcji 8 w rozdziale II  oraz przepisami rozdziału III rozporządzenia Komisji .
+Pomoc na pokrycie kosztów uczestnictwa w szkoleniu beneficjentów pomocy lub pracowników beneficjentów pomocy oddelegowanych na szkolenie jest udzielana zgodnie z przepisami rozdziału I, sekcji 8 w rozdziale II Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. oraz przepisami rozdziału III rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 2.
 Pomoc, o której mowa w ust. 1, jest przeznaczona na dofinansowanie szkoleń ogólnych i specjalistycznych kadr zarządzających i pracowników beneficjentów pomocy, w tym pracowników beneficjentów pomocy znajdujących się w okresie wypowiedzenia stosunku pracy lub stosunku służbowego.
 3.
@@ -267,16 +267,16 @@ W przypadku gdy:
 1)
 szkolenie zawiera elementy szkolenia specjalistycznego i ogólnego, których nie można rozdzielić celem wyliczenia intensywności pomocy, o której mowa w ust. 1, lub
 2)
-specjalistyczny lub ogólny charakter szkolenia nie może być ustalony
-przysługuje maksymalna intensywność pomocy przewidziana dla szkoleń specjalistycznych określona w ust. 1 pkt 2; przepis ust. 2 stosuje się odpowiednio.
+specjalistyczny lub ogólny charakter szkolenia nie może być ustalony – przysługuje maksymalna intensywność pomocy przewidziana dla szkoleń specjalistycznych określona w ust. 1 pkt 2; przepis ust. 2 stosuje się odpowiednio.
 § 22.
 Pomoc na szkolenia może być udzielana łącznie z inną pomocą publiczną lub pomocą de minimis , niezależnie od jej formy i źródła, w odniesieniu do tych samych wydatków kwalifikowalnych, jeżeli łączna intensywność pomocy nie przekroczy maksymalnej intensywności pomocy, o której mowa w § 21 ust. 1 i 2.
 § 23.
 W przypadku niedotrzymania z przyczyn leżących po stronie beneficjenta pomocy warunków dotyczących udzielania pomocy na szkolenia, w tym w szczególności dotyczących intensywności pomocy, beneficjent pomocy zwraca całość uzyskanej pomocy wraz z odsetkami naliczanymi jak dla zaległości podatkowych od dnia udzielenia pomocy.
 § 24.
 Pomoc, o której mowa w § 19 ust. 1, podlega indywidualnej notyfikacji Komisji Europejskiej, w przypadku gdy kwota pomocy brutto na pokrycie wydatków kwalifikowalnych w ramach pomocy na szkolenia udzielona jednemu beneficjentowi pomocy w ramach jednego projektu szkoleniowego przekroczy równowartość w złotych kwoty 2 000 000 euro według średniego kursu ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu udzielenia pomocy.
+Udzielanie pomocy publicznej na usługi doradcze dla mikroprzedsiębiorców, małych i średnich przedsiębiorców
 § 25.
-Pomoc na pokrycie kosztów zakupu usług doradczych przez mikroprzedsiębiorców, małych i średnich przedsiębiorców jest udzielana zgodnie z przepisami rozdziału I, art. 26  oraz przepisami rozdziału III rozporządzenia Komisji .
+Pomoc na pokrycie kosztów zakupu usług doradczych przez mikroprzedsiębiorców, małych i średnich przedsiębiorców jest udzielana zgodnie z przepisami rozdziału I, art. 26 Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. oraz przepisami rozdziału III rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 § 26.
 1.
 Do wydatków kwalifikowalnych zalicza się poniesione przez beneficjenta pomocy wydatki na zakup usług doradczych od podmiotów zewnętrznych.
@@ -291,8 +291,9 @@ Pomoc na usługi doradcze dla mikroprzedsiębiorców, małych i średnich przeds
 Pomoc, o której mowa w § 25, podlega indywidualnej notyfikacji Komisji Europejskiej, w przypadku gdy kwota pomocy brutto na pokrycie zakupu usług doradczych udzielona jednemu beneficjentowi pomocy w ramach jednego projektu przekroczy równowartość w złotych kwoty 2 000 000 euro według średniego kursu ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu udzielenia pomocy.
 § 29.
 W przypadku niedotrzymania z przyczyn leżących po stronie beneficjenta pomocy warunków dotyczących udzielania pomocy na usługi doradcze dla mikroprzedsiębiorców, małych i średnich przedsiębiorców, beneficjent pomocy zwraca całość uzyskanej pomocy wraz z odsetkami naliczanymi jak dla zaległości podatkowych od dnia udzielenia pomocy.
+Udzielanie pomocy na tymczasowe zatrudnienie wysoko wykwalifikowanego personelu
 § 30.
-Pomoc na tymczasowe zatrudnienie wysoko wykwalifikowanego personelu oddelegowanego z jednostki naukowej lub dużego przedsiębiorcy do mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy jest udzielana zgodnie z przepisami rozdziału I, art. 37  oraz przepisami rozdziału III rozporządzenia Komisji .
+Pomoc na tymczasowe zatrudnienie wysoko wykwalifikowanego personelu oddelegowanego z jednostki naukowej lub dużego przedsiębiorcy do mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy jest udzielana zgodnie z przepisami rozdziału I, art. 37 Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. oraz przepisami rozdziału III rozporządzenia Komisji Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r..
 § 31.
 1.
 Wysoko wykwalifikowany personel musi łącznie spełniać następujące warunki:
@@ -328,6 +329,7 @@ Maksymalna intensywność pomocy, o której mowa w § 30, wynosi 50% wydatków k
 Pomoc, o której mowa w § 30, może być udzielana łącznie z inną pomocą publiczną lub pomocą de minimis , niezależnie od jej formy i źródła, w odniesieniu do tych samych wydatków kwalifikowalnych, jeżeli łączna intensywność pomocy nie przekroczy maksymalnej intensywności pomocy, o której mowa w ust. 6.
 8.
 W przypadku niedotrzymania z przyczyn leżących po stronie beneficjenta pomocy warunków dotyczących udzielania pomocy na tymczasowe zatrudnianie wysoko wykwalifikowanego personelu, beneficjent pomocy zwraca całość uzyskanej pomocy wraz z odsetkami naliczanymi jak dla zaległości podatkowych od dnia udzielenia pomocy.
+Udzielanie pomocy de minimis
 § 32.
 1.
 Pomoc de minimis jest udzielana zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis , zwanego dalej „rozporządzeniem Komisji (UE) nr 1407/2013”.
@@ -341,7 +343,7 @@ na nabycie pojazdów przeznaczonych do transportu drogowego towarów przez jedno
 W przypadku gdy beneficjent pomocy prowadzi działalność zarobkową w sektorach, o których mowa w art. 1 ust. 1 lit. a-c rozporządzenia Komisji (UE) nr 1407/2013, a także inną działalność, w odniesieniu do której stosuje się przepisy rozporządzenia Komisji (UE) nr 1407/2013, oraz zapewnił rozdzielenie organizacyjne obu działalności lub wyodrębnienie przychodów i kosztów w ramach prowadzonej działalności, wówczas pomocy de minimis udziela się na pokrycie wydatków kwalifikowalnych ponoszonych w ramach działalności, która nie jest objęta wyłączeniem, o którym mowa w ust. 2 pkt 1.
 § 33.
 1.
-Pomoc, o której mowa w § 32 ust. 1, może być przeznaczona w szczególności na: 1) pokrycie dodatkowych wydatków kwalifikowalnych bezpośrednio związanych z realizacją projektu, które nie stanowią pomocy publicznej na subsydiowanie zatrudnienia, pomocy na szkolenia, pomocy na usługi doradcze dla mikroprzedsiębiorców, małych i średnich przedsiębiorców lub pomocy na tymczasowe zatrudnienie wysoko wykwalifikowanego personelu, w tym w szczególności wydatków przeznaczonych na zakup pojazdów i mebli, a także adaptację budynków, pomieszczeń i miejsc pracy, w których odbywa się szkolenie, na potrzeby osób niepełnosprawnych; 2) uzyskanie środków finansowych na rozwój przedsiębiorczości przez beneficjentów pomocy, z wyłączeniem podmiotów, które w okresie 12 miesięcy poprzedzających dzień przystąpienia do projektu posiadały wpis do rejestru Ewidencji Działalności Gospodarczej , były zarejestrowane w Krajowym Rejestrze Sądowym lub prowadziły działalność gospodarczą na podstawie odrębnych przepisów; 3) zakup usług doradczych i szkoleniowych oraz uzyskanie wsparcia pomostowego w postaci bezpośredniej i bezzwrotnej pomocy kapitałowej przez beneficjentów pomocy, w okresie do 12 miesięcy od dnia zawarcia umowy o udzielenie wsparcia; 3a) na tworzenie korzystnych warunków dla rozwoju przedsiębiorczości ze środków instrumentów inżynierii finansowej; 4) pokrycie innych wydatków kwalifikowalnych ponoszonych w ramach realizowanego projektu, w tym w szczególności wydatków związanych z: a) doposażeniem i wyposażeniem stanowiska pracy w ramach projektu subsydiowanego zatrudnienia do wysokości nieprzekraczającej 10% wartości wydatków kwalifikowalnych projektu, b) pokryciem kosztów uczestnictwa w szkoleniu beneficjenta pomocy lub pracowników beneficjenta pomocy, c) pokryciem kosztów zakupu usług doradczych dla mikroprzedsiębiorców, małych i średnich przedsiębiorców, d) pokryciem kosztów związanych z tymczasowym zatrudnieniem wysoko wykwalifikowanego personelu, e) pokryciem kosztów ogólnych w ramach projektu obejmującego pomoc na subsydiowanie zatrudnienia, pomoc na usługi doradcze dla mikroprzedsiębiorców, małych i średnich przedsiębiorców lub pomoc na tymczasowe zatrudnienie wysoko wykwalifikowanego personelu, w tym w szczególności kosztów obsługi administracyjno-księgowej i finansowej projektu oraz najmu lub dzierżawy pomieszczeń na potrzeby obsługi projektu – w przypadku gdy projekt jest realizowany przez beneficjenta będącego jednocześnie beneficjentem pomocy lub na potrzeby konkretnego beneficjenta pomocy wskazanego we wniosku o dofinansowanie projektu, a także beneficjentów pomocy powiązanych z nim organizacyjnie, kapitałowo lub gospodarczo, f) organizacją staży i szkoleń praktycznych dla pracowników przedsiębiorstw w jednostkach naukowych oraz pracowników naukowych w przedsiębiorstwach, jeżeli pracownik naukowy skierowany do odbycia stażu będzie wykonywał pracę bezpośrednio związaną z bieżącą działalnością przedsiębiorstwa, do którego został skierowany w celu odbycia stażu lub szkolenia praktycznego oraz gdy praca ta będzie prowadzić bezpośrednio do przysporzenia korzyści ekonomicznej na rzecz przedsiębiorcy, g) zakupem wartości niematerialnych i prawnych, niezbędnych do prowadzenia działalności, o której mowa w § 31 ust. 1 pkt 3, h) działalnością podmiotów sektora ekonomii społecznej, i) funkcjonowaniem niepublicznych placówek kształcenia ustawicznego, praktycznego i doskonalenia zawodowego w zakresie kształcenia formalnego, j) subsydiowaniem zatrudnienia pracowników znajdujących się w szczególnie niekorzystnej sytuacji, pracowników znajdujących się w bardzo niekorzystnej sytuacji oraz pracowników niepełnosprawnych – pod warunkiem, że: – utworzone miejsce pracy stanowi wzrost netto liczby pracowników u danego beneficjenta pomocy, – pracownicy są uprawnieni do nieprzerwanego zatrudnienia przez okres co najmniej 12 miesięcy, – umowa o pracę zawarta z pracownikiem może zostać rozwiązana tylko w przypadku naruszenia przez pracownika obowiązków pracowniczych.
+Pomoc, o której mowa w § 32 ust. 1, może być przeznaczona w szczególności na: 1) pokrycie dodatkowych wydatków kwalifikowalnych bezpośrednio związanych z realizacją projektu, które nie stanowią pomocy publicznej na subsydiowanie zatrudnienia, pomocy na szkolenia, pomocy na usługi doradcze dla mikroprzedsiębiorców, małych i średnich przedsiębiorców lub pomocy na tymczasowe zatrudnienie wysoko wykwalifikowanego personelu, w tym w szczególności wydatków przeznaczonych na zakup pojazdów i mebli, a także adaptację budynków, pomieszczeń i miejsc pracy, w których odbywa się szkolenie, na potrzeby osób niepełnosprawnych; 2) uzyskanie środków finansowych na rozwój przedsiębiorczości przez beneficjentów pomocy, z wyłączeniem podmiotów, które w okresie 12 miesięcy poprzedzających dzień przystąpienia do projektu posiadały wpis do rejestru Ewidencji Działalności Gospodarczej Obecnie: Centralnej Ewidencji i Informacji o Działalności Gospodarczej, na podstawie art. 68 ustawy z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw (Dz. U. z 2009 r. poz. 97), która weszła w życie z dniem 7 marca 2009 r.; wszedł w życie z dniem 1 lipca 2011 r., były zarejestrowane w Krajowym Rejestrze Sądowym lub prowadziły działalność gospodarczą na podstawie odrębnych przepisów; 3) zakup usług doradczych i szkoleniowych oraz uzyskanie wsparcia pomostowego w postaci bezpośredniej i bezzwrotnej pomocy kapitałowej przez beneficjentów pomocy, w okresie do 12 miesięcy od dnia zawarcia umowy o udzielenie wsparcia; 3a) na tworzenie korzystnych warunków dla rozwoju przedsiębiorczości ze środków instrumentów inżynierii finansowej; 4) pokrycie innych wydatków kwalifikowalnych ponoszonych w ramach realizowanego projektu, w tym w szczególności wydatków związanych z: a) doposażeniem i wyposażeniem stanowiska pracy w ramach projektu subsydiowanego zatrudnienia do wysokości nieprzekraczającej 10% wartości wydatków kwalifikowalnych projektu, b) pokryciem kosztów uczestnictwa w szkoleniu beneficjenta pomocy lub pracowników beneficjenta pomocy, c) pokryciem kosztów zakupu usług doradczych dla mikroprzedsiębiorców, małych i średnich przedsiębiorców, d) pokryciem kosztów związanych z tymczasowym zatrudnieniem wysoko wykwalifikowanego personelu, e) pokryciem kosztów ogólnych w ramach projektu obejmującego pomoc na subsydiowanie zatrudnienia, pomoc na usługi doradcze dla mikroprzedsiębiorców, małych i średnich przedsiębiorców lub pomoc na tymczasowe zatrudnienie wysoko wykwalifikowanego personelu, w tym w szczególności kosztów obsługi administracyjno-księgowej i finansowej projektu oraz najmu lub dzierżawy pomieszczeń na potrzeby obsługi projektu – w przypadku gdy projekt jest realizowany przez beneficjenta będącego jednocześnie beneficjentem pomocy lub na potrzeby konkretnego beneficjenta pomocy wskazanego we wniosku o dofinansowanie projektu, a także beneficjentów pomocy powiązanych z nim organizacyjnie, kapitałowo lub gospodarczo, f) organizacją staży i szkoleń praktycznych dla pracowników przedsiębiorstw w jednostkach naukowych oraz pracowników naukowych w przedsiębiorstwach, jeżeli pracownik naukowy skierowany do odbycia stażu będzie wykonywał pracę bezpośrednio związaną z bieżącą działalnością przedsiębiorstwa, do którego został skierowany w celu odbycia stażu lub szkolenia praktycznego oraz gdy praca ta będzie prowadzić bezpośrednio do przysporzenia korzyści ekonomicznej na rzecz przedsiębiorcy, g) zakupem wartości niematerialnych i prawnych, niezbędnych do prowadzenia działalności, o której mowa w § 31 ust. 1 pkt 3, h) działalnością podmiotów sektora ekonomii społecznej, i) funkcjonowaniem niepublicznych placówek kształcenia ustawicznego, praktycznego i doskonalenia zawodowego w zakresie kształcenia formalnego, j) subsydiowaniem zatrudnienia pracowników znajdujących się w szczególnie niekorzystnej sytuacji, pracowników znajdujących się w bardzo niekorzystnej sytuacji oraz pracowników niepełnosprawnych – pod warunkiem, że: – utworzone miejsce pracy stanowi wzrost netto liczby pracowników u danego beneficjenta pomocy, – pracownicy są uprawnieni do nieprzerwanego zatrudnienia przez okres co najmniej 12 miesięcy, – umowa o pracę zawarta z pracownikiem może zostać rozwiązana tylko w przypadku naruszenia przez pracownika obowiązków pracowniczych.
 1a.
 Wielkość pomocy, o której mowa w ust. 1 pkt 3a, udzielanej w formie pożyczek, wyrażana jest za pomocą ekwiwalentu dotacji brutto, przy zastosowaniu przepisu art. 4 ust. 3 rozporządzenia Komisji (UE) nr 1407/2013.
 2.
@@ -351,7 +353,7 @@ Do wydatków kwalifikowalnych zalicza się wszystkie wydatki, o których mowa w 
 4.
 Pomoc może być udzielona na pokrycie do 100% wydatków kwalifikowalnych, o których mowa w ust. 1.
 5.
-Pomoc, o której mowa w ust. 1 pkt 3a, nie ma zastosowania do pożyczek oprocentowanych według stopy referencyjnej obliczanej przy zastosowaniu obowiązującej stopy bazowej oraz marży ustalonej w oparciu o komunikat Komisji Europejskiej w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6), udzielanych przedsiębiorcom niespełniającym kryterium zagrożonego przedsiębiorcy w rozumieniu komunikatu Komisji Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.).
+Pomoc, o której mowa w ust. 1 pkt 3a, nie ma zastosowania do pożyczek oprocentowanych według stopy referencyjnej obliczanej przy zastosowaniu obowiązującej stopy bazowej oraz marży ustalonej w oparciu o komunikat Komisji Europejskiej w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6), udzielanych przedsiębiorcom niespełniającym kryterium zagrożonego przedsiębiorcy w rozumieniu komunikatu Komisji Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.)Wytyczne zostały zastąpione przez wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1)..
 § 34.
 1.
 Pomoc de minimis nie może zostać udzielona jednemu przedsiębiorstwu, które w bieżącym roku podatkowym oraz w dwóch poprzedzających go latach podatkowych otrzymało pomoc de minimis z różnych źródeł i w różnych formach, której wartość brutto łącznie z pomocą, o którą się ubiega, przekracza równowartość w złotych kwoty 200 000 euro, a w przypadku jednego przedsiębiorstwa prowadzącego działalność w sektorze transportu drogowego towarów – równowartość w złotych kwoty 100 000 euro, obliczonych według średniego kursu ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu udzielenia pomocy.
@@ -361,6 +363,7 @@ W przypadku gdy jedno przedsiębiorstwo prowadzi, poza działalnością w sektor
 Pomoc, o której mowa w § 32 ust. 1, może być udzielana z pomocą publiczną lub wsparciem ze środków Unii Europejskiej w odniesieniu do tych samych wydatków kwalifikowalnych, jeżeli łączna wartość pomocy nie przekroczy maksymalnej intensywności pomocy określonej dla danego przeznaczenia w przepisach prawa Unii Europejskiej.
 3.
 W przypadku niedotrzymania warunków dotyczących udzielania pomocy de minimis , beneficjent pomocy zwraca całość uzyskanej pomocy wraz z odsetkami naliczanymi jak dla zaległości podatkowych od dnia udzielenia pomocy.
+Efekt zachęty
 § 35.
 1.
 Rozporządzenie ma zastosowanie do pomocy, o której mowa w przepisach rozdziałów 3–6, wyłącznie w przypadku gdy pomoc ta wywołuje efekt zachęty.
@@ -382,6 +385,7 @@ Podmiot udzielający pomocy sprawdza, przed udzieleniem przedsiębiorcy pomocy p
 Uznaje się, że pomoc na subsydiowanie zatrudnienia pracowników znajdujących się w szczególnie niekorzystnej sytuacji i bardzo niekorzystnej sytuacji oraz pracowników niepełnosprawnych wywołuje efekt zachęty, jeżeli udzielona pomoc prowadzi do zwiększenia liczby netto zatrudnionych odpowiednio pracowników znajdujących się w szczególnie niekorzystnej sytuacji lub bardzo niekorzystnej sytuacji lub pracowników niepełnosprawnych.
 6.
 Uznaje się, że pomoc na pokrycie dodatkowych kosztów zatrudnienia pracowników niepełnosprawnych wywołuje efekt zachęty, jeżeli wydatki kwalifikowalne poniesione przez beneficjenta pomocy przekraczają koszty, jakie musiałby ponieść beneficjent pomocy w przypadku zatrudnienia pracowników pełnosprawnych.
+Tryb udzielania pomocy
 § 36.
 Pomoc może być udzielana, z zachowaniem warunków określonych w rozporządzeniu, w projektach:
 1)
@@ -398,36 +402,56 @@ Beneficjent pomocy do dnia zawarcia umowy o udzielenie pomocy przedstawia podmio
 w przypadku pomocy innej niż pomoc de minimis : informacje albo informacje i oświadczenia, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej;
 2)
 w przypadku pomocy de mi nimis : a) informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, b) zaświadczenia o pomocy de minimis albo oświadczenie o wielkości pomocy de minimis albo oświadczenie o nieotrzymaniu takiej pomocy, o których mowa w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, dotyczące bieżącego roku podatkowego i dwóch poprzednich lat podatkowych.
+Przepisy przejściowe i końcowe
 § 40.
 1.
 Do umów o dofinansowanie oraz umów o przystąpieniu do projektu, zawartych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 2.
 Do wniosków o udzielenie pomocy złożonych przed dniem wejścia w życie niniejszego rozporządzenia oraz do umów zawartych na podstawie tych wniosków stosuje się przepisy dotychczasowe.
-§ 41.
+§ 41Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającego rozporządzenie w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1986), które weszło w życie z dniem 12 grudnia 2015 r..
 Rozporządzenie stosuje się do dnia 31 grudnia 2014 r. w odniesieniu do pomocy publicznej, o której mowa w rozdziałach 3–6, oraz do dnia 31 grudnia 2015 r. w odniesieniu do wszystkich wydatków kwalifikowalnych objętych pomocą de minimis , z zastrzeżeniem § 41a.
-§ 41a.
+§ 41aDodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 8..
 Rozporządzenie stosuje się do dnia 31 marca 2017 r. w odniesieniu do wydatków kwalifikowalnych objętych pomocą de minimis , o której mowa w § 33 ust. 1 pkt 3a.
 § 42.
-Rozporządzenie wchodzi w życie z dniem 21 grudnia 2010 r.
-1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854 i 1864 oraz z 2016 r. poz. 615, 904, 996, 1177, 1579 i 1948. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 338 z 17.12.2008, str. 10, 17, 21 i 25; Dz. Urz. UE L 339 z 18.12.2008, str. 3; Dz. Urz. UE L 17 z 22.01.2009, str. 23; Dz. Urz. UE L 21 z 24.01.2009, str. 10 i 16; Dz. Urz. UE L 80 z 26.03.2009, str. 5; Dz. Urz. UE L 139 z 05.06.2009, str. 6; Dz. Urz. UE L 149 z 12.06.2009, str. 6 i 22; Dz. Urz. UE L 191 z 23.07.2009, str. 5; Dz. Urz. UE L 239 z 10.09.2009, str. 48; Dz. Urz. UE L 244 z 16.09.2009, str. 6; Dz. Urz. UE L 311 z 26.11.2009, str. 6; Dz. Urz. UE L 312 z 27.11.2009, str. 8; Dz. Urz. UE L 314 z 01.12.2009, str. 15, 21 i 43; Dz. Urz. UE L 347 z 24.12.2009, str. 23; Dz. Urz. UE L 77 z 24.03.2010, str. 33 i 42; Dz. Urz. UE L 157 z 24.06.2010, str. 3; Dz. Urz. UE L 166 z 01.07.2010, str. 6; Dz. Urz. UE L 186 z 20.07.2010, str. 1 i 10; Dz. Urz. UE L 193, z 24.07.2010, str. 1; Dz. Urz. UE L 304 z 20.11.2010, str. 63; Dz. Urz. UE L 46 z 19.02.2011, str. 1; Dz. Urz. UE L 305 z 23.11.2011, str. 16; Dz. Urz. UE L 146 z 06.06.2012, str. 1; Dz. Urz. UE L 360 z 29.12. 2012, str. 1, 78 i 145; Dz. Urz. UE L 61 z 05.03.2013, str. 6; Dz. Urz. UE L 90 z 28.03.2013, str. 78; Dz. Urz. UE L 95 z 05.04.2013, str. 9; Dz. Urz. UE L 312 z 21.11.2013, str. 1; Dz. Urz. UE L 346 z 20.12.2013, str. 38 i 42; Dz. Urz. UE L 175 z 14.06.2014, str. 9; Dz. Urz. UE L 365, z 19.12.2014, str. 120; Dz. Urz. UE L 5 z 09.01.2015, str. 1 i 11; Dz. Urz. UE L 306 z 24.11.2015, str. 7; Dz. Urz. UE L 307 z 25.11.2015, str. 11; Dz. Urz. UE L 317 z 03.12.2015, str. 19; Dz. Urz. UE L 330 z 16.12.2015, str. 20; Dz. Urz. UE L 333 z 19.12.2015, str. 97; Dz. Urz. UE L 336 z 23.12.2015, str. 49; Dz. Urz. UE L 257 z 23.09.2016, str. 1 oraz Dz. Urz. UE L 295 z 29.10.2016, str. 19. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 320 z 30.11.2013, str. 22. 5) Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. 6) Obecnie: Centralnej Ewidencji i Informacji o Działalności Gospodarczej, na podstawie art. 68 ustawy z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw (Dz. U. z 2009 r. poz. 97), która weszła w życie z dniem 7 marca 2009 r.; wszedł w życie z dniem 1 lipca 2011 r. 7) Wytyczne zostały zastąpione przez wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1). 8) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającego rozporządzenie w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1986), które weszło w życie z dniem 12 grudnia 2015 r. 9) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 8. 10) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju Regionalnego z dnia 6 maja 2008 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 557 i 1484).
+Rozporządzenie wchodzi w życie z dniem 21 grudnia 2010 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju Regionalnego z dnia 6 maja 2008 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 557 i 1484). 1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Rozwoju i Finansów, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854 i 1864 oraz z 2016 r. poz. 615, 904, 996, 1177, 1579 i 1948. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 338 z 17.12.2008, str. 10, 17, 21 i 25; Dz. Urz. UE L 339 z 18.12.2008, str. 3; Dz. Urz. UE L 17 z 22.01.2009, str. 23; Dz. Urz. UE L 21 z 24.01.2009, str. 10 i 16; Dz. Urz. UE L 80 z 26.03.2009, str. 5; Dz. Urz. UE L 139 z 05.06.2009, str. 6; Dz. Urz. UE L 149 z 12.06.2009, str. 6 i 22; Dz. Urz. UE L 191 z 23.07.2009, str. 5; Dz. Urz. UE L 239 z 10.09.2009, str. 48; Dz. Urz. UE L 244 z 16.09.2009, str. 6; Dz. Urz. UE L 311 z 26.11.2009, str. 6; Dz. Urz. UE L 312 z 27.11.2009, str. 8; Dz. Urz. UE L 314 z 01.12.2009, str. 15, 21 i 43; Dz. Urz. UE L 347 z 24.12.2009, str. 23; Dz. Urz. UE L 77 z 24.03.2010, str. 33 i 42; Dz. Urz. UE L 157 z 24.06.2010, str. 3; Dz. Urz. UE L 166 z 01.07.2010, str. 6; Dz. Urz. UE L 186 z 20.07.2010, str. 1 i 10; Dz. Urz. UE L 193, z 24.07.2010, str. 1; Dz. Urz. UE L 304 z 20.11.2010, str. 63; Dz. Urz. UE L 46 z 19.02.2011, str. 1; Dz. Urz. UE L 305 z 23.11.2011, str. 16; Dz. Urz. UE L 146 z 06.06.2012, str. 1; Dz. Urz. UE L 360 z 29.12. 2012, str. 1, 78 i 145; Dz. Urz. UE L 61 z 05.03.2013, str. 6; Dz. Urz. UE L 90 z 28.03.2013, str. 78; Dz. Urz. UE L 95 z 05.04.2013, str. 9; Dz. Urz. UE L 312 z 21.11.2013, str. 1; Dz. Urz. UE L 346 z 20.12.2013, str. 38 i 42; Dz. Urz. UE L 175 z 14.06.2014, str. 9; Dz. Urz. UE L 365, z 19.12.2014, str. 120; Dz. Urz. UE L 5 z 09.01.2015, str. 1 i 11; Dz. Urz. UE L 306 z 24.11.2015, str. 7; Dz. Urz. UE L 307 z 25.11.2015, str. 11; Dz. Urz. UE L 317 z 03.12.2015, str. 19; Dz. Urz. UE L 330 z 16.12.2015, str. 20; Dz. Urz. UE L 333 z 19.12.2015, str. 97; Dz. Urz. UE L 336 z 23.12.2015, str. 49; Dz. Urz. UE L 257 z 23.09.2016, str. 1 oraz Dz. Urz. UE L 295 z 29.10.2016, str. 19. 4) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 320 z 30.11.2013, str. 22. 5) Uchylone przez art. 57 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 187 z 26.06.2014, str. 1), które weszło w życie z dniem 1 lipca 2014 r. 6) Obecnie: Centralnej Ewidencji i Informacji o Działalności Gospodarczej, na podstawie art. 68 ustawy z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw (Dz. U. z 2009 r. poz. 97), która weszła w życie z dniem 7 marca 2009 r.; wszedł w życie z dniem 1 lipca 2011 r. 7) Wytyczne zostały zastąpione przez wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1). 8) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. zmieniającego rozporządzenie w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 1986), które weszło w życie z dniem 12 grudnia 2015 r. 9) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 8. 10) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju Regionalnego z dnia 6 maja 2008 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. poz. 557 i 1484).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Warunki wyłączeń
+#### Rozdział 2 – Warunki wyłączeń
 
-#### Rozdział 3 Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
+#### Rozdział 3 – Udzielanie pomocy publicznej na subsydiowanie zatrudnienia
 
-#### Rozdział 4 Udzielanie pomocy publicznej na szkolenia
+#### Rozdział 4 – Udzielanie pomocy publicznej na szkolenia
 
-#### Rozdział 5 Udzielanie pomocy publicznej na usługi doradcze dla mikroprzedsiębiorców, małych i średnich przedsiębiorców
+#### Rozdział 5 – Udzielanie pomocy publicznej na usługi doradcze dla mikroprzedsiębiorców, małych i średnich przedsiębiorców
 
-#### Rozdział 6 Udzielanie pomocy na tymczasowe zatrudnienie wysoko wykwalifikowanego personelu
+#### Rozdział 6 – Udzielanie pomocy na tymczasowe zatrudnienie wysoko wykwalifikowanego personelu
 
-#### Rozdział 7 Udzielanie pomocy de minimis
+#### Rozdział 7 – Udzielanie pomocy de minimis
 
-#### Rozdział 8 Efekt zachęty
+#### Rozdział 8 – Efekt zachęty
 
-#### Rozdział 9 Tryb udzielania pomocy
+#### Rozdział 9 – Tryb udzielania pomocy
 
-#### Rozdział 10 Przepisy przejściowe i końcowe
+#### Rozdział 10 – Przepisy przejściowe i końcowe
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
+
+#### Rozdział 4
+
+#### Rozdział 5
+
+#### Rozdział 6
+
+#### Rozdział 7
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 10
 

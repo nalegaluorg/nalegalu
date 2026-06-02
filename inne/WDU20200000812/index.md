@@ -31,17 +31,15 @@ Treść obwieszczenia
 1.
 Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 22 lipca 2016 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń (Dz. U. poz. 1172), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 27 lutego 2019 r. zmieniającym rozporządzenie w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń (Dz. U. poz. 395).
 2.
-Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 27 lutego 2019 r. zmieniającego rozporządzenie w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń (Dz. U. poz. 395), które stanowią:
-„
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 27 lutego 2019 r. zmieniającego rozporządzenie w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń (Dz. U. poz. 395), które stanowią: „
 § 2.
 1.
 Orzeczenia lekarskie wydane na podstawie dotychczasowych przepisów zachowują ważność przez okres, na jaki zostały wydane.
 2.
 Do badań rozpoczętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-” .
-Załącznik – Rozporządzenie Ministra Zdrowia z dnia 22 lipca 2016 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. ” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 22 lipca 2016 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeńMinister Zdrowia kieruje działem administracji rządowej ‒ zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).
 Na podstawie art. 37 ust. 2 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2019 r. poz. 1468, 1495 i 2251) zarządza się, co następuje:
 § 1.
 1.
@@ -55,18 +53,17 @@ W przypadku zawodników uprawiających sporty lotnicze, będących żołnierzami
 Orzeczenie wydaje lekarz specjalista w dziedzinie medycyny sportowej, a w odniesieniu do zawodników niepełnosprawnych orzeczenie może wydać także lekarz specjalista w dziedzinie rehabilitacji medycznej.
 2.
 W odniesieniu do dzieci i młodzieży do ukończenia 21. roku życia oraz zawodników pomiędzy 21. a 23. rokiem życia orzeczenie może wydać lekarz posiadający certyfikat ukończenia kursu wprowadzającego do specjalizacji w dziedzinie medycyny sportowej.
-3.
-W odniesieniu do dzieci i młodzieży do ukończenia 19. roku życia orzeczenie może wydać również lekarz podstawowej opieki zdrowotnej na podstawie profilaktycznego badania lekarskiego (bilansu zdrowia), o którym mowa w wykazie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej wydanym na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.), oraz posiadanej dokumentacji medycznej.
-4.
+3Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 lutego 2019 r. zmieniającego rozporządzenie w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń (Dz. U. poz. 395), które weszło w życie z dniem 1 marca 2019 r..
+W odniesieniu do dzieci i młodzieży do ukończenia 19. roku życia orzeczenie może wydać również lekarz podstawowej opieki zdrowotnej na podstawie profilaktycznego badania lekarskiego (bilansu zdrowia), o którym mowa w wykazie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej wydanym na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473 oraz z 2020 r. poz. 695.), oraz posiadanej dokumentacji medycznej.
+4Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 lutego 2019 r. zmieniającego rozporządzenie w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń (Dz. U. poz. 395), które weszło w życie z dniem 1 marca 2019 r..
 W odniesieniu do zawodników pomiędzy 19. a 23. rokiem życia orzeczenie może wydać również lekarz podstawowej opieki zdrowotnej na podstawie posiadanej dokumentacji medycznej.
-5.
+5Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 lutego 2019 r. zmieniającego rozporządzenie w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń (Dz. U. poz. 395), które weszło w życie z dniem 1 marca 2019 r..
 W przypadku gdy lekarz podstawowej opieki zdrowotnej stwierdzi, że:
 1)
 zakres badań koniecznych do przeprowadzenia w celu dokonania prawidłowej oceny stanu zdrowia i możliwości bezpiecznego uczestnictwa we współzawodnictwie sportowym wykracza poza zakres profilaktycznego badania lekarskiego (bilansu zdrowia) oraz posiadanej dokumentacji medycznej lub
 2)
-jest to niezbędne w celu dokonania prawidłowej oceny stanu zdrowia i możliwości bezpiecznego uczestnictwa we współzawodnictwie sportowym
-wydaje skierowanie do lekarza, o którym mowa w ust. 1 albo 2, w celu wydania orzeczenia.
-§ 3.
+jest to niezbędne w celu dokonania prawidłowej oceny stanu zdrowia i możliwości bezpiecznego uczestnictwa we współzawodnictwie sportowym – wydaje skierowanie do lekarza, o którym mowa w ust. 1 albo 2, w celu wydania orzeczenia.
+§ 3W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2..
 1.
 Badania specjalistyczne i diagnostyczne, o których mowa w § 1 ust. 1, obejmują:
 1)
@@ -92,13 +89,13 @@ Lekarz, o którym mowa w § 2, może zlecić wykonanie innych niż określone w 
 § 4.
 1.
 Orzeczenie wydaje się na podstawie badań: wstępnego, okresowego lub kontrolnego.
-2.
+2W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Badanie wstępne, przeprowadzane u osób ubiegających się po raz pierwszy o wydanie orzeczenia, obejmuje badania, o których mowa w § 3 ust. 1 pkt 1–7, oraz dodatkowo badania, o których mowa w § 3 ust. 1:
 1)
 pkt 8 – u osób, które zamierzają uprawiać płetwonurkowanie;
 2)
 pkt 9 – u osób, które zamierzają uprawiać sporty walki.
-3.
+3W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2..
 Badanie okresowe przeprowadza się:
 1)
 co 12 miesięcy – w przypadku badań, o których mowa w § 3 ust. 1 pkt 1–7;
@@ -112,13 +109,12 @@ b)
 pkt 9 – u zawodników uprawiających sporty walki.
 4.
 Badanie okresowe przeprowadza się przed upływem terminu ważności orzeczenia.
-5.
+5W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2..
 Badanie kontrolne obejmuje ogólne badanie lekarskie oraz badania specjalistyczne i diagnostyczne uwarunkowane stanem zdrowia. Badania kontrolne wykonuje się u zawodników, którzy podczas uprawiania sportu doznali urazów, w tym urazów głowy, zmian przeciążeniowych, utraty przytomności lub porażki przez nokaut.
 § 5.
-(uchylony).
+(uchylony).Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
 § 6.
 Orzeczenia lekarskie o braku przeciwwskazań do uprawiania sportu wydane na podstawie dotychczasowych przepisów zachowują ważność przez okres, na jaki zostały wydane.
 § 7.
-Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.
-1) Minister Zdrowia kieruje działem administracji rządowej ‒ zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 lutego 2019 r. zmieniającego rozporządzenie w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń (Dz. U. poz. 395), które weszło w życie z dniem 1 marca 2019 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473 oraz z 2020 r. poz. 695. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 kwietnia 2011 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu wymaganych badań lekarskich niezbędnych do uzyskania orzeczenia lekarskiego (Dz. U. poz. 502), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 pkt 2 ustawy z dnia 23 lipca 2015 r. o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1321 i 1932).
+Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 kwietnia 2011 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu wymaganych badań lekarskich niezbędnych do uzyskania orzeczenia lekarskiego (Dz. U. poz. 502), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 pkt 2 ustawy z dnia 23 lipca 2015 r. o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1321 i 1932). 1) Minister Zdrowia kieruje działem administracji rządowej ‒ zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 27 lutego 2019 r. zmieniającego rozporządzenie w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń (Dz. U. poz. 395), które weszło w życie z dniem 1 marca 2019 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473 oraz z 2020 r. poz. 695. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 14 kwietnia 2011 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu wymaganych badań lekarskich niezbędnych do uzyskania orzeczenia lekarskiego (Dz. U. poz. 502), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 4 pkt 2 ustawy z dnia 23 lipca 2015 r. o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1321 i 1932).
 

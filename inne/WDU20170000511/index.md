@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Zdrowiaz dnia 3 marca 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania medycznych zawodów regulowanych
+# Rozporządzenie Ministra Zdrowiaz dnia 3 marca 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania medycznych zawodów regulowanych Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-03 |
 | Data wydania | 2017-03-10 |
-| Wejście w życie | 2017-03-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000511) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/511/text.pdf) |
 
-Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepis końcowy
 Treść rozporządzenia
-Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Treść rozporządzenia
+Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+Przepisy ogólne
 § 1.
 Rozporządzenie określa:
 1)
 warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad odbywaniem stażu adaptacyjnego oraz oceny nabytych przez wnioskodawcę umiejętności w trakcie jego odbywania, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za odbycie stażu adaptacyjnego,
 2)
-warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności
-w toku postępowania w sprawie uznania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania medycznych zawodów regulowanych.
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności – w toku postępowania w sprawie uznania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania medycznych zawodów regulowanych.
 § 2.
 Ilekroć w rozporządzeniu jest mowa o:
 1)
@@ -49,7 +48,7 @@ kierowniku jednostki – oznacza to osobę reprezentującą jednostkę ochrony z
 5)
 postępowaniu – oznacza to postępowanie w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego prowadzone na podstawie przepisów ustawy;
 6)
-organie prowadzącym postępowanie – oznacza to ministra właściwego do spraw zdrowia, Naczelną Radę Aptekarską, okręgowe rady pielęgniarek i położnych lub podmiot wskazany w trybie określonym w art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.);
+organie prowadzącym postępowanie – oznacza to ministra właściwego do spraw zdrowia, Naczelną Radę Aptekarską, okręgowe rady pielęgniarek i położnych lub podmiot wskazany w trybie określonym w art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260.);
 7)
 środku kompensacyjnym – oznacza to staż adaptacyjny lub test umiejętności w rozumieniu ustawy;
 8)
@@ -71,6 +70,7 @@ informację o wysokości opłaty z tytułu kosztów odbycia stażu adaptacyjnego
 W przypadku niezaakceptowania przez organ prowadzący postępowanie jednostki ochrony zdrowia wskazanej przez wnioskodawcę z powodu niemożności zrealizowania programu stażu adaptacyjnego albo w przypadku niedokonania przez wnioskodawcę wyboru jednostki ochrony zdrowia, wnioskodawca odbywa go w jednostce ochrony zdrowia wskazanej przez organ prowadzący postępowanie.
 4.
 Jeżeli wnioskodawca wnosi o uznanie kwalifikacji do wykonywania więcej niż jednego medycznego zawodu regulowanego, staż adaptacyjny lub test umiejętności przeprowadza się odrębnie dla każdego zawodu medycznego.
+Staż adaptacyjny
 § 4.
 1.
 Staż adaptacyjny jest odbywany w jednostkach ochrony zdrowia spełniających warunki do realizacji programu stażu adaptacyjnego.
@@ -246,6 +246,7 @@ Jednostka ochrony zdrowia w przypadkach, o których mowa w ust. 1 i 2, niezwłoc
 Organ prowadzący postępowanie wydaje niezwłocznie skierowanie na kontynuację odbycia stażu adaptacyjnego, zaliczając okres dotychczas odbytego stażu adaptacyjnego. Jednostka, w której jest kontynuowany staż adaptacyjny, zakłada z chwilą nawiązania stosunku prawnego z wnioskodawcą nowy dziennik stażu adaptacyjnego.
 6.
 Wraz ze skierowaniem na kontynuację odbycia stażu adaptacyjnego organ prowadzący postępowanie przesyła niezwłocznie jednostce ochrony zdrowia, w której staż adaptacyjny będzie kontynuowany, dziennik stażu adaptacyjnego, program stażu adaptacyjnego wraz z informacją o zakresie jego realizacji.
+Test umiejętności
 § 20.
 1.
 Organ prowadzący postępowanie, w porozumieniu z dyrektorem CEM, wyznacza wnioskodawcy termin przeprowadzenia testu umiejętności.
@@ -385,19 +386,27 @@ W przypadku osób zamierzających świadczyć usługi transgraniczne decyzję o 
 Niezwłocznie po otrzymaniu decyzji dyrektor CEM informuje o niej na stronie internetowej oraz przesyła wnioskodawcom listem poleconym.
 6.
 Za powtórzony test umiejętności albo jego część nie pobiera się opłaty egzaminacyjnej.
+Przepis końcowy
 § 32.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 16 lutego 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania medycznych zawodów regulowanych (Dz. U. poz. 216), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 16 lutego 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania medycznych zawodów regulowanych (Dz. U. poz. 216), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65). 1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. UE L 134 z 24.05.2016, str. 135). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 16 lutego 2009 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania medycznych zawodów regulowanych (Dz. U. poz. 216), które utraciło moc z dniem 1 stycznia 2017 r. zgodnie z art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65).
 
-#### Rozdział 1 Przepisy ogólne
+#### Rozdział 1 – Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny
+#### Rozdział 2 – Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności
+#### Rozdział 3 – Test umiejętności
+
+#### Rozdział 4 – Przepis końcowy
+
+#### Rozdział 1
+
+#### Rozdział 2
+
+#### Rozdział 3
 
 ## Część teoretyczna jest przeprowadzana w formie egzaminu ustnego albo w formie egzaminu testowego.
 
 ## Część praktyczna testu umiejętności składa się z 1 do 3 zadań polegających na zademonstrowaniu wybranych czynności właściwych dla danego medycznego zawodu regulowanego lub wykonaniu innych zadań potwierdzających nabycie praktycznych umiejętności niezbędnych do wykonywania danego medycznego zawodu regulowanego w Rzeczypospolitej Polskiej.
 
-#### Rozdział 4 Przepis końcowy
+#### Rozdział 4
 

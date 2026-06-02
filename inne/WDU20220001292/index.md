@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Sportu i Turystykiz dnia 7 czerwca 2022 r. zmieniające rozporządzenie w sprawie nadania statutu Polskiej Organizacji Turystycznej
+# Rozporządzenie Ministra Sportu i Turystykiz dnia 7 czerwca 2022 r. zmieniające rozporządzenie w sprawie nadania statutu Polskiej Organizacji Turystycznej Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 1946).
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-07 |
 | Data wydania | 2022-06-21 |
-| Wejście w życie | 2022-07-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001292) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1292/text.pdf) |
 
 Treść rozporządzenia
 Na podstawie art. 12 ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej (Dz. U. z 2022 r. poz. 1015) zarządza się, co następuje:
 § 1.
-W rozporządzeniu Ministra Gospodarki z dnia 28 kwietnia 2006 r. w sprawie nadania statutu Polskiej Organizacji Turystycznej (Dz. U. z 2021 r. poz. 1689) w załączniku w § 16 ust. 5 otrzymuje brzmienie:
-„
+W rozporządzeniu Ministra Gospodarki z dnia 28 kwietnia 2006 r. w sprawie nadania statutu Polskiej Organizacji Turystycznej (Dz. U. z 2021 r. poz. 1689) w załączniku w § 16 ust. 5 otrzymuje brzmienie: „
 5.
 Siedzibami Zagranicznych Ośrodków Polskiej Organizacji Turystycznej są:
 1)
@@ -64,9 +62,7 @@ Praga (Republika Czeska);
 15)
 Budapeszt (Węgry);
 16)
-Tel Awiw (Izrael).
-” .
+Tel Awiw (Izrael). ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 1946).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Sportu i Turystyki kieruje działem administracji rządowej – turystyka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki (Dz. U. poz. 1946).
 

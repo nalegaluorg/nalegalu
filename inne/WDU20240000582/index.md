@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 15 kwietnia 2024 r. zmieniające rozporządzenie w sprawie wzorów oświadczeń składanych przez odbiorców paliw gazowych o przeznaczeniu paliwa gazowego w celu skorzystania ze szczególnych rozwiązań w związku z sytuacją na rynku gazu
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 15 kwietnia 2024 r. zmieniające rozporządzenie w sprawie wzorów oświadczeń składanych przez odbiorców paliw gazowych o przeznaczeniu paliwa gazowego w celu skorzystania ze szczególnych rozwiązań w związku z sytuacją na rynku gazu Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-15 |
 | Data wydania | 2024-04-16 |
-| Wejście w życie | 2024-04-17 |
 | Ostatnia zmiana | 2025-09-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000582) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/582/text.pdf) |
 
@@ -39,6 +38,5 @@ po wyrazach „mieszkanie treningowe lub wspomagane” dodaje się odnośnik nr 
 2)
 w akapicie dwudziestym piątym średnik zastępuje się przecinkiem i dodaje się akapit dwudziesty szósty w brzmieniu: „ ⊏⊐ związek zawodowy, o którym mowa w ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2022 r. poz. 854), w zakresie, w jakim zużywa paliwa gazowe na potrzeby podstawowej działalności; ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
 

@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw
+# Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/2284 z dnia 14 grudnia 2016 r. w sprawie redukcji krajowych emisji niektórych rodzajów zanieczyszczeń atmosferycznych, zmiany dyrektywy 2003/35/WE oraz uchylenia dyrektywy 2001/81/WE (Dz. Urz. UE L 344 z 17.12.2016, str. 1 oraz Dz. Urz. UE L 2024/299 z 17.01.2024).
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,12 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-27 |
 | Data wydania | 2024-12-27 |
-| Wejście w życie | 2025-01-11 |
 | Ostatnia zmiana | 2025-01-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001940) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1940/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.) wprowadza się następujące zmiany:
+Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym oraz ustawę z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim.
+
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881 i 1914.) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 po pkt 9 dodaje się pkt 9a w brzmieniu: „
 - **9a)** miejskim planie adaptacji – rozumie się przez to dokument o charakterze strategiczno-wdrożeniowym obejmujący swoim zakresem obszar danego miasta, mający na celu zmniejszenie podatności miasta na zmiany klimatu, w tym poprawę zdolności przystosowania miasta do zmian klimatu; ” ;
@@ -162,7 +163,7 @@ source: "eli-html"
 4b. W przypadku:
 
 - **1)** uchybienia terminowi, o którym mowa w ust. 4a, lub zasadom, o których mowa w ust. 4, lub
-- **2)** niewyłonienia wymaganego minimum kandydatów zgodnie z ust. 4a minister właściwy do spraw klimatu może delegować na miejsce przedstawiciela, o którym mowa w ust. 2 pkt 5, swojego przedstawiciela. ” , ust. 5 otrzymuje brzmienie: „
+- **2)** niewyłonienia wymaganego minimum kandydatów zgodnie z ust. 4a – minister właściwy do spraw klimatu może delegować na miejsce przedstawiciela, o którym mowa w ust. 2 pkt 5, swojego przedstawiciela. ” , ust. 5 otrzymuje brzmienie: „
     - **e)**
 
 5. W razie niezgłoszenia przedstawicieli przez stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego minister właściwy do spraw klimatu może delegować na ich miejsce swoich przedstawicieli. ” ;
@@ -241,7 +242,7 @@ source: "eli-html"
 12. Wojewódzkie fundusze – w zakresie, w jakim są zaangażowane w realizację inwestycji w rozumieniu art. 14la pkt 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju – udostępniają, w formie pisemnej w postaci papierowej lub elektronicznej, niezbędne dane osobowe osób fizycznych przetwarzane w związku z realizacją tej inwestycji:
 
 - **1)** Narodowemu Funduszowi jako ostatecznemu odbiorcy wsparcia w rozumieniu art. 14la pkt 6 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju albo jako jednostce wspierającej plan rozwojowy w rozumieniu art. 14la pkt 4 tej ustawy,
-- **2)** ministrowi właściwemu do spraw rozwoju regionalnego, instytucji odpowiedzialnej za realizację reformy, instytucji odpowiedzialnej za realizację inwestycji, Szefowi Krajowej Administracji Skarbowej oraz właściwym jednostkom organizacyjnym Krajowej Administracji Skarbowej, Komisji Europejskiej, Europejskiemu Urzędowi do spraw Zwalczania Nadużyć Finansowych, Europejskiemu Trybunałowi Obrachunkowemu i Prokuraturze Europejskiej na ich żądanie, w celu realizacji, kontroli, audytu i ewaluacji reform i inwestycji na zasadach określonych w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju lub w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm.). ” .
+- **2)** ministrowi właściwemu do spraw rozwoju regionalnego, instytucji odpowiedzialnej za realizację reformy, instytucji odpowiedzialnej za realizację inwestycji, Szefowi Krajowej Administracji Skarbowej oraz właściwym jednostkom organizacyjnym Krajowej Administracji Skarbowej, Komisji Europejskiej, Europejskiemu Urzędowi do spraw Zwalczania Nadużyć Finansowych, Europejskiemu Trybunałowi Obrachunkowemu i Prokuraturze Europejskiej – na ich żądanie, w celu realizacji, kontroli, audytu i ewaluacji reform i inwestycji na zasadach określonych w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju lub w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm.)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, str. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024.. ” .
 
 **Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465, 1572 i 1907) wprowadza się następujące zmiany:
 
@@ -251,14 +252,14 @@ source: "eli-html"
 - **3)** w art. 10g w ust. 9 zdanie pierwsze otrzymuje brzmienie: „ Strategia rozwoju ponadlokalnego podlega aktualizacji, jeżeli wymaga tego sytuacja społeczna, gospodarcza, przestrzenna lub klimatyczno-środowiskowa obszaru objętego tą strategią albo gdy jest to konieczne dla zachowania jej spójności ze strategią rozwoju województwa. ” ;
 - **4)** w art. 28aa po ust. 3 dodaje się ust. 3a w brzmieniu: „
 
-3a. W gminach, które posiadają miejski plan adaptacji, przy sporządzaniu raportu o stanie gminy uwzględnia się wnioski i rekomendacje zawarte w sprawozdaniu, o którym mowa w art. 18c ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.). ” .
+3a. W gminach, które posiadają miejski plan adaptacji, przy sporządzaniu raportu o stanie gminy uwzględnia się wnioski i rekomendacje zawarte w sprawozdaniu, o którym mowa w art. 18c ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940.). ” .
 
 **Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2024 r. poz. 566 i 1907) w art. 11:
 
 - **1)** w ust. 1c pkt 1 otrzymuje brzmienie: „
 - **1)** cele strategiczne w wymiarze społecznym, gospodarczym, przestrzennym i klimatyczno-środowiskowym; ” ;
 - **2)** w ust. 2 po pkt 5 dodaje się pkt 5a w brzmieniu: „
-- **5a)** tworzenie warunków do prowadzenia działań na rzecz ochrony klimatu oraz wdrażania działań adaptacyjnych do zmian klimatu, o których mowa w art. 18a ust. 5 pkt 5 lit. b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.); ” .
+- **5a)** tworzenie warunków do prowadzenia działań na rzecz ochrony klimatu oraz wdrażania działań adaptacyjnych do zmian klimatu, o których mowa w art. 18a ust. 5 pkt 5 lit. b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940.); ” .
 
 **Art. 4.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130 i 1907) wprowadza się następujące zmiany:
 
@@ -281,7 +282,7 @@ source: "eli-html"
 
 **Art. 5.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491 i 1761) w art. 35 w ust. 2 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
 
-- **9)** przeprowadzanie postępowania konkursowego w celu wyłonienia kandydatów na przedstawiciela organizacji pozarządowych do Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, zgodnie z art. 400d ust. 3–4b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.). ” .
+- **9)** przeprowadzanie postępowania konkursowego w celu wyłonienia kandydatów na przedstawiciela organizacji pozarządowych do Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, zgodnie z art. 400d ust. 3–4b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940.). ” .
 
 **Art. 6.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478) wprowadza się następujące zmiany:
 
@@ -351,7 +352,7 @@ source: "eli-html"
 - **9)** wysokość wynagrodzenia za zarządzanie środkami;
 - **10)** inne postanowienia umożliwiające monitorowanie i sprawozdawanie z osiągania wartości docelowych oraz wskaźników inwestycji, w ramach której jest realizowane przedsięwzięcie.
 
-4d. W przypadkach, o których mowa w ust. 4a, nie stosuje się przepisów art. 411 ust. 6a i art. 411a ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.) w zakresie wymogu uzyskania zgody ministra właściwego do spraw klimatu i ministra właściwego do spraw finansów publicznych. ” ;
+4d. W przypadkach, o których mowa w ust. 4a, nie stosuje się przepisów art. 411 ust. 6a i art. 411a ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940.) w zakresie wymogu uzyskania zgody ministra właściwego do spraw klimatu i ministra właściwego do spraw finansów publicznych. ” ;
 
 - **4)** w art. 14lzi: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Środki finansowe przekazane na realizację inwestycji lub jej części w formie wsparcia zwrotnego, po wykonaniu zobowiązań wynikających z umowy o objęcie przedsięwzięcia wsparciem z planu rozwojowego, oraz odsetki i inne przychody, a także zyski powstałe na skutek obrotu tymi środkami, po pomniejszeniu o koszty realizacji zadań przez podmioty, o których mowa w art. 14lr pkt 2 i 3, ponoszone zgodnie z umową, o której mowa w art. 14lj ust. 1 pkt 2 i 3, podlegają zwrotowi na rachunek: ” , po ust. 2a dodaje się ust. 2b-2e w brzmieniu: „
     - **a)**
@@ -403,13 +404,15 @@ source: "eli-html"
 
 **Art. 11.** W ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2024 r. poz. 1446, 1473, 1572 i 1635) wprowadza się następujące zmiany:
 
-- **1)** w art. 2 w pkt 1c w lit. a dodaje się tiret ósme w brzmieniu: „ – rozporządzenia delegowanego Komisji (UE) 2015/1186 z dnia 24 kwietnia 2015 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykietowania energetycznego miejscowych ogrzewaczy pomieszczeń (Dz. Urz. UE L 193 z 21.07.2015, str. 20, z późn. zm.), ” ;
+- **1)** w art. 2 w pkt 1c w lit. a dodaje się tiret ósme w brzmieniu: „ – rozporządzenia delegowanego Komisji (UE) 2015/1186 z dnia 24 kwietnia 2015 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykietowania energetycznego miejscowych ogrzewaczy pomieszczeń (Dz. Urz. UE L 193 z 21.07.2015, str. 20, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 38 z 15.02.2017, str. 1.), ” ;
 - **2)** w art. 11b ust. 11 otrzymuje brzmienie: „
 
 11. Współfinansowanie ze środków Funduszu wynosi nie więcej niż 90 % kosztów realizacji porozumienia, o którym mowa w art. 11c ust. 1. ” ;
 
-- **3)** w art. 11c: w ust. 1: – w pkt 1 wyrazy „20 takich budynków” zastępuje się wyrazami „10 takich budynków”, – pkt 4 otrzymuje brzmienie: „ 4) zabezpieczenia w swoim budżecie środków finansowych pochodzących z dochodów własnych lub ze środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, których suma stanowi 10 % kosztów realizacji porozumienia, a w przypadku miast, których liczba mieszkańców przekracza 100 000 – więcej niż 10 % kosztów realizacji porozumienia. ” , w ust. 5 pkt 5 otrzymuje brzmienie: „
+- **3)** w art. 11c: w ust. 1: w pkt 1 wyrazy „20 takich budynków” zastępuje się wyrazami „10 takich budynków”, – pkt 4 otrzymuje brzmienie: „
     - **a)**
+
+- **4)** zabezpieczenia w swoim budżecie środków finansowych pochodzących z dochodów własnych lub ze środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, których suma stanowi 10 % kosztów realizacji porozumienia, a w przypadku miast, których liczba mieszkańców przekracza 100 000 – więcej niż 10 % kosztów realizacji porozumienia. ” , w ust. 5 pkt 5 otrzymuje brzmienie: „
     - **b)**
 
 - **5)** koszty realizacji porozumienia, wraz z ich uzasadnieniem, na podstawie liczby przedsięwzięć niskoemisyjnych, o których mowa w pkt 2, przy czym średni koszt realizacji przedsięwzięcia niskoemisyjnego w jednym budynku mieszkalnym jednorodzinnym, a w przypadku budynku mieszkalnego jednorodzinnego o dwóch lokalach – w jednym lokalu, nie może przekroczyć kwoty 106 000 zł; ” ;
@@ -418,12 +421,13 @@ source: "eli-html"
     - **b)**
     - **c)**
 
-2b. W przypadku realizacji przedsięwzięcia niskoemisyjnego na podstawie ust. 2a nie stosuje się przepisów ust. 1–2, 5–11 i 13, art. 11e i art. 11f. ” , w ust. 7 wyrazy „oświadczenia, o których mowa w ust. 1 pkt 2 i 4” zastępuje się wyrazami „oświadczenie, o którym mowa w ust. 1 pkt 2”, w ust. 7e: – we wprowadzeniu do wyliczenia wyrazy „oświadczeniach, o których mowa w ust. 1 pkt 2 i 4” zastępuje się wyrazami „oświadczeniu, o którym mowa w ust. 1 pkt 2”, – pkt 1 otrzymuje brzmienie: „ 1) przeprowadzić wywiad środowiskowy, o którym mowa w ustawie z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz. 1335); ” , w ust. 8a w pkt 2 wyrazy „oświadczeń, o których mowa w ust. 1 pkt 2 i 4” zastępuje się wyrazami „oświadczenia, o którym mowa w ust. 1 pkt 2”, ust. 13 otrzymuje brzmienie: „
+2b. W przypadku realizacji przedsięwzięcia niskoemisyjnego na podstawie ust. 2a nie stosuje się przepisów ust. 1–2, 5–11 i 13, art. 11e i art. 11f. ” , w ust. 7 wyrazy „oświadczenia, o których mowa w ust. 1 pkt 2 i 4” zastępuje się wyrazami „oświadczenie, o którym mowa w ust. 1 pkt 2”, w ust. 7e: – we wprowadzeniu do wyliczenia wyrazy „oświadczeniach, o których mowa w ust. 1 pkt 2 i 4” zastępuje się wyrazami „oświadczeniu, o którym mowa w ust. 1 pkt 2”, pkt 1 otrzymuje brzmienie: „
 
 - **d)**
 - **e)**
-- **f)**
-- **g)**
+- **1)** przeprowadzić wywiad środowiskowy, o którym mowa w ustawie z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz. 1335); ” , w ust. 8a w pkt 2 wyrazy „oświadczeń, o których mowa w ust. 1 pkt 2 i 4” zastępuje się wyrazami „oświadczenia, o którym mowa w ust. 1 pkt 2”, ust. 13 otrzymuje brzmienie: „
+    - **f)**
+    - **g)**
 
 13. Wniosek, o którym mowa w ust. 1, sporządza się zgodnie ze wzorem udostępnionym w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw klimatu. ” ;
 
@@ -436,11 +440,15 @@ source: "eli-html"
 **Art. 12.** W ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673 oraz z 2024 r. poz. 834) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 2 wyrazy „31 stycznia” zastępuje się wyrazami „28 lutego”;
-- **2)** w art. 9: w ust. 1 we wprowadzeniu do wyliczenia wyrazy „5 lat” zastępuje się wyrazami „4 lata”, w ust. 1b wyrazy „5 lat” zastępuje się wyrazami „4 lata”, w ust. 1f wyrazy „12 miesięcy” zastępuje się wyrazami „6 miesięcy”, w ust. 5: – pkt 1 otrzymuje brzmienie: „ 1) dotyczą kolejnych 6 lat kalendarzowych kończących się cyfrą 0 albo cyfrą 5, następujących po roku, w którym są sporządzane prognozy; ” , – uchyla się pkt 2, – pkt 3 i 4 otrzymują brzmienie: „ 3) informacje i dane podaje się na podstawie danych dla roku odniesienia, gromadzonych na potrzeby statystyki publicznej, a w razie braku takich danych – na podstawie innych posiadanych danych dla tego roku, ze wskazaniem ich źródła, gdzie rokiem odniesienia jest rok rozpoczynający się 3 lata przed rokiem, w którym są sporządzane prognozy; 4) w uzasadnionych przypadkach dla poszczególnych informacji i danych można przyjąć za rok odniesienia inny reprezentatywny rok niż rok, o którym mowa w pkt 3, dla którego są dostępne te informacje i dane, pod warunkiem zamieszczenia w prognozach informacji o roku, którego one dotyczą, oraz powodu ich wykorzystania. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+- **2)** w art. 9: w ust. 1 we wprowadzeniu do wyliczenia wyrazy „5 lat” zastępuje się wyrazami „4 lata”, w ust. 1b wyrazy „5 lat” zastępuje się wyrazami „4 lata”, w ust. 1f wyrazy „12 miesięcy” zastępuje się wyrazami „6 miesięcy”, w ust. 5: pkt 1 otrzymuje brzmienie: „
     - **a)**
     - **b)**
     - **c)**
     - **d)**
+
+- **1)** dotyczą kolejnych 6 lat kalendarzowych kończących się cyfrą 0 albo cyfrą 5, następujących po roku, w którym są sporządzane prognozy; ” , – uchyla się pkt 2, pkt 3 i 4 otrzymują brzmienie: „
+- **3)** informacje i dane podaje się na podstawie danych dla roku odniesienia, gromadzonych na potrzeby statystyki publicznej, a w razie braku takich danych – na podstawie innych posiadanych danych dla tego roku, ze wskazaniem ich źródła, gdzie rokiem odniesienia jest rok rozpoczynający się 3 lata przed rokiem, w którym są sporządzane prognozy;
+- **4)** w uzasadnionych przypadkach dla poszczególnych informacji i danych można przyjąć za rok odniesienia inny reprezentatywny rok niż rok, o którym mowa w pkt 3, dla którego są dostępne te informacje i dane, pod warunkiem zamieszczenia w prognozach informacji o roku, którego one dotyczą, oraz powodu ich wykorzystania. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
     - **e)**
 
 5a. Krajowy ośrodek w okresie od 18 do 22 miesięcy od dnia sporządzenia prognoz, o których mowa w ust. 1 i 1b, przeprowadza ocenę dotyczącą zasadności sporządzenia aktualizacji tych prognoz i w razie potrzeby sporządzenia aktualizacji wskazuje jej zakres, biorąc pod uwagę w szczególności:
@@ -467,7 +475,7 @@ source: "eli-html"
 - **6)** w stosownych przypadkach, informacje na temat możliwości stosowania przepisów art. 16d ust. 3 i 5 oraz o skutkach zastosowania tych przepisów dla środowiska; ” , w ust. 4 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
     - **b)**
 
-- **5)** uwzględnia najlepsze dostępne techniki zgodnie z dyrektywą 2010/75/WE, jak i wytyczne dotyczące amoniaku, o których mowa w lit. A części 2 załącznika III do dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/2284 z dnia 14 grudnia 2016 r. w sprawie redukcji krajowych emisji niektórych rodzajów zanieczyszczeń atmosferycznych, zmiany dyrektywy 2003/35/WE oraz uchylenia dyrektywy 2001/81/WE (Dz. Urz. UE L 344 z 17.12.2016, str. 1, z późn. zm.), zwanej dalej „dyrektywą Parlamentu Europejskiego i Rady (UE) 2016/2284”;
+- **5)** uwzględnia najlepsze dostępne techniki zgodnie z dyrektywą 2010/75/WE, jak i wytyczne dotyczące amoniaku, o których mowa w lit. A części 2 załącznika III do dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/2284 z dnia 14 grudnia 2016 r. w sprawie redukcji krajowych emisji niektórych rodzajów zanieczyszczeń atmosferycznych, zmiany dyrektywy 2003/35/WE oraz uchylenia dyrektywy 2001/81/WE (Dz. Urz. UE L 344 z 17.12.2016, str. 1, z późn. zm.)Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 2024/299 z 17.01.2024., zwanej dalej „dyrektywą Parlamentu Europejskiego i Rady (UE) 2016/2284”;
 - **6)** uwzględnia skutki przyjętych środków wynikających z lit. A i B części 2 załącznika III do dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/2284 dla małych i bardzo małych gospodarstw rolnych. ” , po ust. 7 dodaje się ust. 7a w brzmieniu: „
     - **c)**
 
@@ -478,7 +486,7 @@ source: "eli-html"
 12. W przypadku gdy:
 
 - **1)** z inwentaryzacji emisji, o której mowa w art. 11 ust. 1 pkt 3, lub z prognoz wielkości emisji, o których mowa w art. 12 ust. 1, wynika, że przyjęty w Krajowym programie ograniczania zanieczyszczenia powietrza poziom redukcji emisji substancji wynikający ze ścieżki redukcji emisji nie został osiągnięty lub zachodzi ryzyko, że nie zostanie osiągnięty, oraz
-- **2)** do upływu terminu, o którym mowa w ust. 10, pozostaje więcej niż 24 miesiące dokonuje się aktualizacji Krajowego programu ograniczania zanieczyszczenia powietrza w zakresie środków i strategii, o których mowa w ust. 3 pkt 4.
+- **2)** do upływu terminu, o którym mowa w ust. 10, pozostaje więcej niż 24 miesiące – dokonuje się aktualizacji Krajowego programu ograniczania zanieczyszczenia powietrza w zakresie środków i strategii, o których mowa w ust. 3 pkt 4.
 
 13. Aktualizacja, o której mowa w ust. 12, dotyczy dodatkowych działań i środków, które zostały lub zostaną podjęte w celu zmniejszenia poziomu emisji substancji zgodnie z przyjętą ścieżką redukcji emisji spośród ścieżek redukcji emisji, o których mowa w art. 16c. ” , ust. 15 i 16 otrzymują brzmienie: „
 
@@ -499,9 +507,11 @@ source: "eli-html"
 
 7a. Znacząco różne wskaźniki emisji przyjęte do skorygowania inwentaryzacji emisji, o której mowa w ust. 7, nie mogą wynikać z wdrażania lub egzekwowania przepisów prawa Unii Europejskiej w zakresie ograniczania emisji zanieczyszczeń powietrza u źródła. ” ;
 
-- **6)** w załączniku nr 2 do ustawy: w części 2: – w ust. 2 po zdaniu pierwszym dodaje się zdanie w brzmieniu: „ Jeżeli nie jest to możliwe ze względu na brak wystarczająco szczegółowych danych, w raporcie metodycznym IIR zamieszcza się uzasadnienie bardziej zagregowanego poziomu sprawozdawczości. ” , – w tabeli nr 3 w kolumnie pierwszej: „Rodzaj informacji” w wierszu trzecim wyrazy „Prognozowane emisje według zagregowanych kategorii NFR” zastępuje się wyrazami „Prognozowane emisje w podziale na kategorie źródeł według NFR”, w części 3: – w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) w przypadku wykorzystania elastycznego podejścia, o którym mowa w pkt 6, informacje wykazujące, że korzystanie z tego podejścia spełnia warunki określone w art. 5 ust. 1 i w załączniku IV część 4 lub w art. 5 ust. 2, 3 lub 4 dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/2284; ” , – w tabeli nr 4 w kolumnie trzeciej: „Szereg czasowy” wyrazy „Wszystkie lata (jak podano w części 1 ust. 6, części 2 ust. 4)” zastępuje się wyrazami: „Wszystkie lata (jak podano w części 1 ust. 6 i 7, części 2 ust. 4)”.
+- **6)** w załączniku nr 2 do ustawy: w części 2: – w ust. 2 po zdaniu pierwszym dodaje się zdanie w brzmieniu: „ Jeżeli nie jest to możliwe ze względu na brak wystarczająco szczegółowych danych, w raporcie metodycznym IIR zamieszcza się uzasadnienie bardziej zagregowanego poziomu sprawozdawczości. ” , – w tabeli nr 3 w kolumnie pierwszej: „Rodzaj informacji” w wierszu trzecim wyrazy „Prognozowane emisje według zagregowanych kategorii NFR” zastępuje się wyrazami „Prognozowane emisje w podziale na kategorie źródeł według NFR”, w części 3: w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „
     - **a)**
     - **b)**
+
+- **6a)** w przypadku wykorzystania elastycznego podejścia, o którym mowa w pkt 6, informacje wykazujące, że korzystanie z tego podejścia spełnia warunki określone w art. 5 ust. 1 i w załączniku IV część 4 lub w art. 5 ust. 2, 3 lub 4 dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/2284; ” , – w tabeli nr 4 w kolumnie trzeciej: „Szereg czasowy” wyrazy „Wszystkie lata (jak podano w części 1 ust. 6, części 2 ust. 4)” zastępuje się wyrazami: „Wszystkie lata (jak podano w części 1 ust. 6 i 7, części 2 ust. 4)”.
 
 **Art. 13.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823 i 1897) wprowadza się następujące zmiany:
 
@@ -640,8 +650,5 @@ source: "eli-html"
 
 3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65 % limitu wydatków przewidzianych na dany rok, obniża się wielkość środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków.
 
-**Art. 34.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 18b ust. 2, który wchodzi w życie z dniem 1 lipca 2025 r.
-
-- **1)** , Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/2284 z dnia 14 grudnia 2016 r. w sprawie redukcji krajowych emisji niektórych rodzajów zanieczyszczeń atmosferycznych, zmiany dyrektywy 2003/35/WE oraz uchylenia dyrektywy 2001/81/WE (Dz. Urz. UE L 344 z 17.12.2016, str. 1 oraz Dz. Urz. UE L 2024/299 z 17.01.2024). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym oraz ustawę z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881 i 1914. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, str. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 38 z 15.02.2017, str. 1. 10) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 2024/299 z 17.01.2024.
-
+**Art. 34.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 18b ust. 2, który wchodzi w życie z dniem 1 lipca 2025 r. 1), Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/2284 z dnia 14 grudnia 2016 r. w sprawie redukcji krajowych emisji niektórych rodzajów zanieczyszczeń atmosferycznych, zmiany dyrektywy 2003/35/WE oraz uchylenia dyrektywy 2001/81/WE (Dz. Urz. UE L 344 z 17.12.2016, str. 1 oraz Dz. Urz. UE L 2024/299 z 17.01.2024). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym oraz ustawę z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881 i 1914. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, str. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914 i 1940. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 38 z 15.02.2017, str. 1. 10) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 2024/299 z 17.01.2024.
 

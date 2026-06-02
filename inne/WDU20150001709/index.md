@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 9 października 2015 r. zmieniające rozporządzenie w sprawie zwalczania i zapobiegania rozprzestrzenianiu się organizmów Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) i Epitrix tuberis (Gentner)
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 9 października 2015 r. zmieniające rozporządzenie w sprawie zwalczania i zapobiegania rozprzestrzenianiu się organizmów Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) i Epitrix tuberis (Gentner) Przepisy rozporządzenia wdrażają postanowienia decyzji wykonawczej Komisji 2014/679/UE z dnia 25 września 2014 r. zmieniającej decyzję wykonawczą 2012/270/UE w odniesieniu do okresu jej stosowania oraz w odniesieniu do przemieszczania do zakładów pakowania bulw ziemniaka pochodzących z wyznaczonych obszarów w celu zapobiegania rozprzestrzenianiu się w Unii organizmów Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) i Epitrix tuberis (Gentner) (Dz. Urz. UE L 283 z 27.09.2014, str. 61).
 
 | Pole | Wartość |
 |---|---|
@@ -22,23 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-09 |
 | Data wydania | 2015-10-26 |
-| Wejście w życie | 2015-11-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001709) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1709/text.pdf) |
 
 Treść rozporządzenia
-Na podstawie art. 10 ust. 1 pkt 1, 3 i 4, art. 20 ust. 1 pkt 4–6 oraz art. 20 ust. 3 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2014 r. poz. 621, z późn. zm.) zarządza się, co następuje:
+Na podstawie art. 10 ust. 1 pkt 1, 3 i 4, art. 20 ust. 1 pkt 4–6 oraz art. 20 ust. 3 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2014 r. poz. 621, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 822, 907 i 1662 oraz z 2015 r. poz. 211.) zarządza się, co następuje:
 § 1.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 24 grudnia 2012 r. w sprawie zwalczania i zapobiegania rozprzestrzenianiu się organizmów Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) i Epitrix tuberis (Gentner) (Dz. U. z 2013 r. poz. 97) wprowadza się następujące zmiany:
 1)
-w § 7 w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu:
-„
+w § 7 w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „
 c)
-zapakowane lub zapakowane i magazynowane na obszarze strefy porażenia lub strefy bezpieczeństwa lub – jeżeli nie stwarza to ryzyka rozprzestrzenienia się pchełki – zapakowane lub zapakowane i magazynowane w pobliżu tych stref w miejscu pakowania ustalonym z wojewódzkim inspektorem;
-” ;
+zapakowane lub zapakowane i magazynowane na obszarze strefy porażenia lub strefy bezpieczeństwa lub – jeżeli nie stwarza to ryzyka rozprzestrzenienia się pchełki – zapakowane lub zapakowane i magazynowane w pobliżu tych stref w miejscu pakowania ustalonym z wojewódzkim inspektorem; ” ;
 2)
-po § 7 dodaje się § 7a i § 7b w brzmieniu:
-„
+po § 7 dodaje się § 7a i § 7b w brzmieniu: „
 § 7a.
 1.
 Bulwy ziemniaka, w tym bulwy ziemniaka przeznaczone do sadzenia, pochodzące ze strefy porażenia lub strefy bezpieczeństwa albo z obszarów innych państw członkowskich objętych takimi strefami, wyznaczonymi w związku ze stwierdzeniem występowania pchełki, mogą być pakowane w pobliżu strefy porażenia lub strefy bezpieczeństwa, jeżeli:
@@ -72,9 +68,7 @@ informuje podmioty zajmujące się produkcją, obrotem lub przetwarzaniem bulw z
 2.
 Maszyny, urządzenia i narzędzia wykorzystywane w miejscu pakowania bulw ziemniaka, o których mowa w § 7a ust. 1, które miały kontakt z tymi bulwami, poddaje się czyszczeniu oraz dezynfekcji niezwłocznie po kontakcie z tymi bulwami, w sposób zapewniający zwalczenie pchełki.
 3.
-Glebę i resztki roślinne powstałe podczas pakowania bulw ziemniaka, o których mowa w § 7a ust. 1, unieszkodliwia się w sposób uniemożliwiający rozprzestrzenienie się pchełki.
-” .
+Glebę i resztki roślinne powstałe podczas pakowania bulw ziemniaka, o których mowa w § 7a ust. 1, unieszkodliwia się w sposób uniemożliwiający rozprzestrzenienie się pchełki. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-2) Przepisy rozporządzenia wdrażają postanowienia decyzji wykonawczej Komisji 2014/679/UE z dnia 25 września 2014 r. zmieniającej decyzję wykonawczą 2012/270/UE w odniesieniu do okresu jej stosowania oraz w odniesieniu do przemieszczania do zakładów pakowania bulw ziemniaka pochodzących z wyznaczonych obszarów w celu zapobiegania rozprzestrzenianiu się w Unii organizmów Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) i Epitrix tuberis (Gentner) (Dz. Urz. UE L 283 z 27.09.2014, str. 61). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 822, 907 i 1662 oraz z 2015 r. poz. 211.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Przepisy rozporządzenia wdrażają postanowienia decyzji wykonawczej Komisji 2014/679/UE z dnia 25 września 2014 r. zmieniającej decyzję wykonawczą 2012/270/UE w odniesieniu do okresu jej stosowania oraz w odniesieniu do przemieszczania do zakładów pakowania bulw ziemniaka pochodzących z wyznaczonych obszarów w celu zapobiegania rozprzestrzenianiu się w Unii organizmów Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) i Epitrix tuberis (Gentner) (Dz. Urz. UE L 283 z 27.09.2014, str. 61). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 822, 907 i 1662 oraz z 2015 r. poz. 211.
 

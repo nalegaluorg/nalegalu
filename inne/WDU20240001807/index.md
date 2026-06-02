@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 4 grudnia 2024 r. zmieniające rozporządzenie w sprawie trybu i zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej oraz zasad wynagradzania ich członków
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 4 grudnia 2024 r. zmieniające rozporządzenie w sprawie trybu i zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej oraz zasad wynagradzania ich członków Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-04 |
 | Data wydania | 2024-12-09 |
-| Wejście w życie | 2024-12-24 |
 | Ostatnia zmiana | 2024-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001807) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1807/text.pdf) |
 
@@ -33,19 +32,15 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2
 1)
 w § 3 w ust. 1:
 a)
-pkt 1 otrzymuje brzmienie:
-„
+pkt 1 otrzymuje brzmienie: „
 1)
-opiniowanie wniosków kierowanych do Komisji w sprawie ustalenia polskich nazw państw, terytoriów niesamodzielnych, jednostek administracyjnych, miejscowości, obiektów fizjograficznych oraz innych obiektów geograficznych położonych poza granicami Rzeczypospolitej Polskiej;
-” ,
+opiniowanie wniosków kierowanych do Komisji w sprawie ustalenia polskich nazw państw, terytoriów niesamodzielnych, jednostek administracyjnych, miejscowości, obiektów fizjograficznych oraz innych obiektów geograficznych położonych poza granicami Rzeczypospolitej Polskiej; ” ,
 b)
-pkt 9 i 10 otrzymują brzmienie:
-„
+pkt 9 i 10 otrzymują brzmienie: „
 9)
 publikowanie wykazów wymienionych w pkt 2 w formie elektronicznej lub w formie wydawnictw drukowanych oraz nieodpłatne ich udostępnianie;
 10)
-nieodpłatne udostępnianie zasad, ustaleń, opinii, opracowań i stanowisk Komisji na stronie internetowej Komisji.
-” ;
+nieodpłatne udostępnianie zasad, ustaleń, opinii, opracowań i stanowisk Komisji na stronie internetowej Komisji. ” ;
 2)
 w § 5:
 a)
@@ -53,8 +48,7 @@ w ust. 3 skreśla się wyraz „plenarne”,
 b)
 w ust. 4 wyrazy „cztery razy w roku” zastępuje się wyrazami „dwa razy w roku”;
 3)
-w § 9 w ust. 1 pkt 1–6 otrzymują brzmienie:
-„
+w § 9 w ust. 1 pkt 1–6 otrzymują brzmienie: „
 1)
 przewodniczącego Rady – 500 zł;
 2)
@@ -66,9 +60,7 @@ wiceprzewodniczącego Komisji – 400 zł;
 5)
 członków Rady – 350 zł;
 6)
-członków Komisji – 350 zł.
-” .
+członków Komisji – 350 zł. ” .
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739).
 

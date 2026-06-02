@@ -22,11 +22,10 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2010-08-05 |
 | Data wydania | 2010-09-03 |
-| Wejście w życie | 2010-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101621086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1086/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. z 2003 r. Nr 221, poz. 2199, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. z 2003 r. Nr 221, poz. 2199, z późn. zm.Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 116, poz. 1202 i Nr 210, poz. 2135, z 2005 r. Nr 48, poz. 446 i Nr 169, poz. 1414, z 2006 r. Nr 104, poz. 708, z 2009 r. Nr 144, poz. 1177 i Nr 178, poz. 1375 oraz z 2010 r. Nr 152, poz. 1022.) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 ust. 1 otrzymuje brzmienie: „
 
@@ -36,5 +35,5 @@ source: "eli-html"
 
 4. Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie posła lub senatora składa się za pośrednictwem Prokuratora Generalnego. ” .
 
-**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 116, poz. 1202 i Nr 210, poz. 2135, z 2005 r. Nr 48, poz. 446 i Nr 169, poz. 1414, z 2006 r. Nr 104, poz. 708, z 2009 r. Nr 144, poz. 1177 i Nr 178, poz. 1375 oraz z 2010 r. Nr 152, poz. 1022.
 

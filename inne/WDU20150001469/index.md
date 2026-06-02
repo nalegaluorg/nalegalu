@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-24 |
 | Data wydania | 2015-09-24 |
-| Wejście w życie | 2015-09-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001469) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1469/text.pdf) |
 
@@ -31,19 +30,17 @@ Na podstawie art. 14g ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministró
 § 1.
 W rozporządzeniu Prezesa Rady Ministrów z dnia 29 grudnia 1999 r. w sprawie zasad wynagradzania oraz wymagań kwalifikacyjnych pracowników Rządowego Centrum Legislacji (Dz. U. Nr 109, poz. 1241, z 2004 r. Nr 277, poz. 2745 oraz z 2005 r. Nr 27, poz. 218) wprowadza się następujące zmiany:
 1)
-w § 1 ust. 2 otrzymuje brzmienie:
-„
+w § 1 ust. 2 otrzymuje brzmienie: „
 2.
-W zakresie nieuregulowanym niniejszym rozporządzeniem stosuje się przepisy rozporządzenia Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. Nr 27, poz. 134, z późn. zm.).
-” ;
+W zakresie nieuregulowanym niniejszym rozporządzeniem stosuje się przepisy rozporządzenia Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. Nr 27, poz. 134, z późn. zm.Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. Nr 134, poz. 782 i Nr 206, poz. 1214, z 2012 r. poz. 1403, z 2013 r. poz. 882 oraz z 2015 r. poz. 241.). ” ;
 2)
-w § 2 ust. 3 otrzymuje brzmienie:
-„
+w § 2 ust. 3 otrzymuje brzmienie: „
 3.
-Do ustalania wynagrodzeń pracowników zatrudnionych na stanowiskach niewymienionych w załączniku do rozporządzenia mają zastosowanie odpowiednio tabele XII i XIII zawarte w załączniku nr 3 do rozporządzenia, o którym mowa w § 1 ust. 2.
-” ;
+Do ustalania wynagrodzeń pracowników zatrudnionych na stanowiskach niewymienionych w załączniku do rozporządzenia mają zastosowanie odpowiednio tabele XII i XIII zawarte w załączniku nr 3 do rozporządzenia, o którym mowa w § 1 ust. 2. ” ;
 3)
-w załączniku do rozporządzenia lp. 5–7 otrzymują brzmienie: 5. naczelnik wydziału koordynatorzastępca głównego księgowego 1,4–4,0 0,2–0,8 wyższe 5 główny legislator 1,3–3,3 0,2–2,0 wyższe prawnicze 4 lata pracy i aplikacja legislacyjna lub 5 lat pracy związanej z legislacją lub 6 lat pracy związanej ze stosowaniem prawa lub pracy jako nauczyciel akademicki na kierunku prawo ekspert 1,3–3,3 – – wyższe prawnicze 5 radca prawny 1,3–3,3 – – według odrębnych przepisów 6. starszy legislator 1,2–3,2 0,2–1,9 wyższe prawnicze 3 lata pracy i aplikacja legislacyjna lub 4 lata pracy związanej z legislacją lub 5 lat pracy związanej ze stosowaniem prawa lub pracy jako nauczyciel akademicki na kierunku prawo radca Prezesa Centrum 1,2–3,2 – – wyższe 4 audytor wewnętrzny 1,2–3,2 – – według odrębnych przepisów główny specjalista 1,2–3,1 – – wyższe 4 7. legislator 1,1–3,0 0,1–1,8 wyższe prawnicze 2 lata pracy i aplikacja legislacyjna lub 3 lata pracy związanej z legislacją lub 4 lata pracy związanej ze stosowaniem prawa lub pracy jako nauczyciel akademicki na kierunku prawo starszy specjalista starszy księgowy 1,1–2,9 – – wyższe 4
+w załączniku do rozporządzenia lp. 5–7 otrzymują brzmienie:
+5. naczelnik wydziału koordynator
+zastępca głównego księgowego 1,4–4,0 0,2–0,8 wyższe 5 główny legislator 1,3–3,3 0,2–2,0 wyższe prawnicze 4 lata pracy i aplikacja legislacyjna lub 5 lat pracy związanej z legislacją lub 6 lat pracy związanej ze stosowaniem prawa lub pracy jako nauczyciel akademicki na kierunku prawo ekspert 1,3–3,3 – – wyższe prawnicze 5 radca prawny 1,3–3,3 – – według odrębnych przepisów 6. starszy legislator 1,2–3,2 0,2–1,9 wyższe prawnicze 3 lata pracy i aplikacja legislacyjna lub 4 lata pracy związanej z legislacją lub 5 lat pracy związanej ze stosowaniem prawa lub pracy jako nauczyciel akademicki na kierunku prawo radca Prezesa Centrum 1,2–3,2 – – wyższe 4 audytor wewnętrzny 1,2–3,2 – – według odrębnych przepisów główny specjalista 1,2–3,1 – – wyższe 4 7. legislator 1,1–3,0 0,1–1,8 wyższe prawnicze 2 lata pracy i aplikacja legislacyjna lub 3 lata pracy związanej z legislacją lub 4 lata pracy związanej ze stosowaniem prawa lub pracy jako nauczyciel akademicki na kierunku prawo starszy specjalista starszy księgowy 1,1–2,9 – – wyższe 4
 § 2.
-Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. Nr 134, poz. 782 i Nr 206, poz. 1214, z 2012 r. poz. 1403, z 2013 r. poz. 882 oraz z 2015 r. poz. 241.
 

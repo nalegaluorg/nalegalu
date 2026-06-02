@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 14 grudnia 2018 r. w sprawie zakresu informacji z realizacji działań zawartych w planach gospodarowania wodami na obszarach dorzeczy, planach zarządzania ryzykiem powodziowym i programie ochrony wód morskich
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 14 grudnia 2018 r. w sprawie zakresu informacji z realizacji działań zawartych w planach gospodarowania wodami na obszarach dorzeczy, planach zarządzania ryzykiem powodziowym i programie ochrony wód morskich Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +22,6 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2018-12-21 |
-| Wejście w życie | 2019-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2390/text.pdf) |
 
@@ -45,10 +44,9 @@ planach zarządzania ryzykiem powodziowym – jest określony w załączniku nr 
 3)
 programie ochrony wód morskich – jest określony w załączniku nr 3 do rozporządzenia.
 § 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 
-## Załącznik nr 1 — – Zakres informacji przekazywanych przez państwowe gospodarstwo wodne wody polskie, wojewodów, marszałków województw, wójtów, burmistrzów lub prezydentów miast i dyrektorów urzędów morskich w rocznych sprawozdaniach z realizacji działań zawartych w planach gospodarowania wodami na obszarach dorzeczy
+## Załącznik nr 1 — – Zakres informacji przekazywanych przez państwowe gospodarstwo wodne wody polskie, wojewodów, marszałków województw, wójtów, burmistrzów lub prezydentów miast i dyrektorów urzędów morskich w rocznych sprawozdaniach z realizacji działań zawartych w planach gospodarowania wodami na obszarach dorzeczySprawozdanie sporządza się odrębnie dla każdego działania przewidzianego do realizacji.
 
 I.
 OGÓLNE INFORMACJE DOTYCZĄCE PODMIOTU ODPOWIEDZIALNEGO ZA REALIZACJĘ DZIAŁANIA
@@ -129,10 +127,9 @@ Termin zakończenia/przewidywany termin zakończenia realizacji działania;
 4)
 Opis stanu realizacji działania według stanu na dzień 31 grudnia roku, którego dotyczy sprawozdanie;
 5)
-Dodatkowe uwagi.
-1) Sprawozdanie sporządza się odrębnie dla każdego działania przewidzianego do realizacji.
+Dodatkowe uwagi. 1) Sprawozdanie sporządza się odrębnie dla każdego działania przewidzianego do realizacji.
 
-## Załącznik nr 2 — – Zakres informacji przekazywanych przez państwowe gospodarstwo wodne wody polskie, wojewodów, marszałków województw, wójtów, burmistrzów lub prezydentów miast i dyrektorów urzędów morskich w rocznych sprawozdaniach z realizacji działań zawartych w planach zarządzania ryzykiem powodziowym
+## Załącznik nr 2 — – Zakres informacji przekazywanych przez państwowe gospodarstwo wodne wody polskie, wojewodów, marszałków województw, wójtów, burmistrzów lub prezydentów miast i dyrektorów urzędów morskich w rocznych sprawozdaniach z realizacji działań zawartych w planach zarządzania ryzykiem powodziowymSprawozdanie sporządza się odrębnie dla każdego działania przewidzianego do realizacji.
 
 I.
 OGÓLNE INFORMACJE DOTYCZĄCE PODMIOTU ODPOWIEDZIALNEGO ZA REALIZACJĘ DZIAŁANIA
@@ -311,10 +308,9 @@ Informacja, czy w związku z realizacją przedsięwzięcia zostały określone s
 14)
 Liczba zabytków zagrożonych wskutek realizacji przedsięwzięcia;
 15)
-Liczba osób, które musiały zmienić miejsce zamieszkania wskutek realizacji przedsięwzięcia.
-1) Sprawozdanie sporządza się odrębnie dla każdego działania przewidzianego do realizacji.
+Liczba osób, które musiały zmienić miejsce zamieszkania wskutek realizacji przedsięwzięcia. 1) Sprawozdanie sporządza się odrębnie dla każdego działania przewidzianego do realizacji.
 
-## Załącznik nr 3 — – Zakres informacji przekazywanych przez państwowe gospodarstwo wodne wody polskie, wojewodów, marszałków województw, wójtów, burmistrzów lub prezydentów miast i dyrektorów urzędów morskich w rocznych sprawozdaniach z realizacji działań zawartych w programie ochrony wód morskich
+## Załącznik nr 3 — – Zakres informacji przekazywanych przez państwowe gospodarstwo wodne wody polskie, wojewodów, marszałków województw, wójtów, burmistrzów lub prezydentów miast i dyrektorów urzędów morskich w rocznych sprawozdaniach z realizacji działań zawartych w programie ochrony wód morskichSprawozdanie sporządza się odrębnie dla każdego działania przewidzianego do realizacji.
 
 I.
 OGÓLNE INFORMACJE DOTYCZĄCE PODMIOTU ODPOWIEDZIALNEGO ZA REALIZACJĘ DZIAŁANIA
@@ -401,6 +397,5 @@ Opis stanu realizacji działania według stanu na dzień 31 grudnia roku, które
 3)
 Zakładany efekt realizacji działania;
 4)
-Dodatkowe uwagi.
-1) Sprawozdanie sporządza się odrębnie dla każdego działania przewidzianego do realizacji.
+Dodatkowe uwagi. 1) Sprawozdanie sporządza się odrębnie dla każdego działania przewidzianego do realizacji.
 
